@@ -25,12 +25,12 @@ export interface Translation {
   count: string;
   description: string;
   prompt: string;
-  generatedImages: string;
+  generatedVideo: string;
   details: string;
   author: string;
   source: string;
   published: string;
-  viewImage: string;
+  viewVideo: string;
   clickToView: string;
   morePrompts: string;
   morePromptsDesc: string;
@@ -38,12 +38,12 @@ export interface Translation {
   featured: string;
   // What is section
   whatIsIntro: string;
-  textToImage: string;
-  styleControl: string;
-  photoRealism: string;
-  characterDesign: string;
+  textToVideo: string;
+  imageToVideo: string;
+  videoEditing: string;
+  autoAudio: string;
   highResolution: string;
-  xIntegration: string;
+  fastGeneration: string;
   // Gallery features
   galleryFeature1: string;
   galleryFeature2: string;
@@ -60,7 +60,7 @@ export interface Translation {
   submitPrompt: string;
   starRepo: string;
   // Featured section extras
-  image: string;
+  video: string;
   tryItNow: string;
   // Other
   sortedByDate: string;
@@ -78,12 +78,12 @@ export interface Translation {
 
 const en: Translation = {
   title: 'Awesome Grok Imagine Prompts',
-  subtitle: 'A curated collection of high-quality image generation prompts for xAI\'s Grok Imagine (Aurora)',
+  subtitle: 'A curated collection of high-quality video generation prompts for xAI\'s Grok Imagine',
   copyright: '**Copyright Notice**: All prompts are collected from the community for educational purposes. If you believe any content infringes on your rights, please [open an issue](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/issues/new) and we will remove it promptly.',
   viewInGallery: 'View in Web Gallery',
   browseGallery: '👉 Browse all Grok Imagine prompts on YouMind',
   galleryFeatures: 'Why use our gallery?',
-  visualLayout: 'Image Preview',
+  visualLayout: 'Video Playback',
   search: 'Search',
   languages: 'AI Recommendation',
   mobile: 'Mobile',
@@ -103,24 +103,24 @@ const en: Translation = {
   count: 'Count',
   description: 'Description',
   prompt: 'Prompt',
-  generatedImages: 'Generated Image',
+  generatedVideo: 'Generated Video',
   details: 'Details',
   author: 'Author',
   source: 'Source',
   published: 'Published',
-  viewImage: '🖼️ View Image →',
-  clickToView: 'Click image to view full size',
+  viewVideo: '🎬 View Video →',
+  clickToView: 'Click to view full video',
   morePrompts: 'More Prompts Available',
   morePromptsDesc: 'more prompts not shown here',
   viewAll: '👉 View all prompts in our Web Gallery',
   featured: 'Featured',
-  whatIsIntro: '**Grok Imagine** is an image generation capability powered by **xAI\'s Aurora model**, integrated into the Grok AI assistant. It produces stunning, photorealistic and artistic images directly from text prompts on the X (Twitter) platform.',
-  textToImage: '🎨 **Text-to-Image** — Generate images from text descriptions',
-  styleControl: '🖌️ **Style Control** — Support for diverse artistic styles from photorealism to illustration',
-  photoRealism: '📸 **Photorealism** — Generate highly realistic photos indistinguishable from real ones',
-  characterDesign: '🧑‍🎨 **Character Design** — Create consistent characters and portraits',
-  highResolution: '📐 **High Resolution** — Generate detailed, high-quality images',
-  xIntegration: '🐦 **X Integration** — Natively integrated into Grok on X (Twitter)',
+  whatIsIntro: '**Grok Imagine** is a video generation model by **xAI**, integrated into the Grok AI assistant on X (Twitter). It generates high-quality, cinematic videos from text prompts and images with stunning visual quality.',
+  textToVideo: '🎬 **Text-to-Video** — Generate videos from text descriptions',
+  imageToVideo: '🖼️ **Image-to-Video** — Animate static images into dynamic videos',
+  videoEditing: '✂️ **Video Editing** — Edit and transform existing videos',
+  autoAudio: '🔊 **Auto Audio** — Automatic dubbing and background music',
+  highResolution: '📐 **720p+ Resolution** — 10-15 seconds duration per clip',
+  fastGeneration: '⚡ **Fast Generation** — Under 20 seconds generation time',
   galleryFeature1: '✨ Beautiful masonry grid layout',
   galleryFeature2: '🔍 Full-text search and filters',
   galleryFeature3: '🌍 16 languages support',
@@ -135,12 +135,12 @@ const en: Translation = {
   starRepo: 'Star this repo',
   sortedByDate: 'Sorted by publish date (newest first)',
   handPicked: 'Hand-picked by our team for exceptional quality and creativity',
-  image: 'Image',
+  video: 'Video',
   tryItNow: 'Try it now →',
   githubReadme: 'GitHub README',
   youmindGallery: 'youmind.com Gallery',
   linearList: '❌ Static thumbnails only',
-  masonryGrid: '✅ Full image preview with zoom',
+  masonryGrid: '✅ Full video playback with streaming',
   ctrlFOnly: 'Ctrl+F only',
   fullTextSearch: 'Multi-field fuzzy matching search',
   basic: 'Basic',
@@ -149,13 +149,13 @@ const en: Translation = {
 };
 
 const zh: Translation = {
-  title: 'Grok Imagine 图片提示词大全',
-  subtitle: 'xAI Grok Imagine (Aurora) 高质量图片生成提示词精选集合',
+  title: 'Grok Imagine 视频提示词大全',
+  subtitle: 'xAI Grok Imagine 高质量视频生成提示词精选集合',
   copyright: '**版权声明**：所有提示词均收集自社区，仅供教育目的使用。如果您认为任何内容侵犯了您的权利，请[提交 issue](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/issues/new)，我们将立即移除。',
   viewInGallery: '在网页画廊中查看',
   browseGallery: '👉 在 YouMind 浏览所有 Grok Imagine 提示词',
   galleryFeatures: '为什么使用画廊？',
-  visualLayout: '图片预览',
+  visualLayout: '视频播放',
   search: '搜索',
   languages: 'AI 推荐',
   mobile: '移动端',
@@ -175,24 +175,24 @@ const zh: Translation = {
   count: '数量',
   description: '描述',
   prompt: '提示词',
-  generatedImages: '生成图片',
+  generatedVideo: '生成视频',
   details: '详情',
   author: '作者',
   source: '来源',
   published: '发布时间',
-  viewImage: '🖼️ 查看图片 →',
-  clickToView: '点击图片查看大图',
+  viewVideo: '🎬 查看视频 →',
+  clickToView: '点击查看完整视频',
   morePrompts: '更多提示词',
   morePromptsDesc: '更多提示词未在此显示',
   viewAll: '👉 在网页画廊中查看所有提示词',
   featured: '精选',
-  whatIsIntro: '**Grok Imagine** 是 **xAI 的 Aurora 模型**驱动的图像生成能力，集成在 Grok AI 助手中。它可以在 X（Twitter）平台上直接通过文本提示词生成令人惊艳的逼真和艺术图片。',
-  textToImage: '🎨 **文本生成图片** — 根据文字描述生成图片',
-  styleControl: '🖌️ **风格控制** — 支持从照片写实到插画等多种艺术风格',
-  photoRealism: '📸 **照片写实** — 生成与真实照片难以区分的高度逼真图片',
-  characterDesign: '🧑‍🎨 **角色设计** — 创建一致的角色和肖像',
-  highResolution: '📐 **高分辨率** — 生成细节丰富的高质量图片',
-  xIntegration: '🐦 **X 平台集成** — 原生集成在 X（Twitter）的 Grok 中',
+  whatIsIntro: '**Grok Imagine** 是 **xAI** 推出的视频生成模型，集成在 X（Twitter）平台的 Grok AI 助手中。它可以通过文本提示词和图片生成高质量、电影级的视频。',
+  textToVideo: '🎬 **文本生成视频** — 根据文字描述生成视频',
+  imageToVideo: '🖼️ **图片生成视频** — 将静态图片转化为动态视频',
+  videoEditing: '✂️ **视频编辑** — 编辑和转换现有视频',
+  autoAudio: '🔊 **自动音频** — 自动配音和背景音乐',
+  highResolution: '📐 **720p+ 分辨率** — 每个片段 10-15 秒时长',
+  fastGeneration: '⚡ **快速生成** — 20 秒内完成生成',
   galleryFeature1: '✨ 精美的瀑布流网格布局',
   galleryFeature2: '🔍 全文搜索和筛选',
   galleryFeature3: '🌍 支持 16 种语言',
@@ -207,12 +207,12 @@ const zh: Translation = {
   starRepo: '给仓库点星',
   sortedByDate: '按发布日期排序（最新优先）',
   handPicked: '由我们的团队精心挑选，具有卓越的质量和创造力',
-  image: '图片',
+  video: '视频',
   tryItNow: '立即体验 →',
   githubReadme: 'GitHub README',
   youmindGallery: 'youmind.com 画廊',
   linearList: '❌ 仅静态缩略图',
-  masonryGrid: '✅ 完整图片预览支持缩放',
+  masonryGrid: '✅ 完整视频播放支持流媒体',
   ctrlFOnly: '仅 Ctrl+F',
   fullTextSearch: '多字段模糊匹配搜索',
   basic: '基础',
@@ -222,13 +222,13 @@ const zh: Translation = {
 
 const zhTW: Translation = {
   ...zh,
-  title: 'Grok Imagine 圖片提示詞大全',
-  subtitle: 'xAI Grok Imagine (Aurora) 高質量圖片生成提示詞精選集合',
+  title: 'Grok Imagine 視頻提示詞大全',
+  subtitle: 'xAI Grok Imagine 高質量視頻生成提示詞精選集合',
   copyright: '**版權聲明**：所有提示詞均收集自社區，僅供教育目的使用。如果您認為任何內容侵犯了您的權利，請[提交 issue](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/issues/new)，我們將立即移除。',
   viewInGallery: '在網頁畫廊中查看',
   browseGallery: '👉 在 YouMind 瀏覽所有 Grok Imagine 提示詞',
   galleryFeatures: '為什麼使用畫廊？',
-  visualLayout: '圖片預覽',
+  visualLayout: '視頻播放',
   languages: 'AI 推薦',
   mobile: '移動端',
   toc: '目錄',
@@ -247,24 +247,24 @@ const zhTW: Translation = {
   count: '數量',
   description: '描述',
   prompt: '提示詞',
-  generatedImages: '生成圖片',
+  generatedVideo: '生成視頻',
   details: '詳情',
   author: '作者',
   source: '來源',
   published: '發布時間',
-  viewImage: '🖼️ 查看圖片 →',
-  clickToView: '點擊圖片查看大圖',
+  viewVideo: '🎬 查看視頻 →',
+  clickToView: '點擊查看完整視頻',
   morePrompts: '更多提示詞',
   morePromptsDesc: '更多提示詞未在此顯示',
   viewAll: '👉 在網頁畫廊中查看所有提示詞',
   featured: '精選',
-  whatIsIntro: '**Grok Imagine** 是 **xAI 的 Aurora 模型**驅動的圖像生成能力，集成在 Grok AI 助手中。它可以在 X（Twitter）平台上直接通過文本提示詞生成令人驚艷的逼真和藝術圖片。',
-  textToImage: '🎨 **文本生成圖片** — 根據文字描述生成圖片',
-  styleControl: '🖌️ **風格控制** — 支持從照片寫實到插畫等多種藝術風格',
-  photoRealism: '📸 **照片寫實** — 生成與真實照片難以區分的高度逼真圖片',
-  characterDesign: '🧑‍🎨 **角色設計** — 創建一致的角色和肖像',
-  highResolution: '📐 **高分辨率** — 生成細節豐富的高品質圖片',
-  xIntegration: '🐦 **X 平台集成** — 原生集成在 X（Twitter）的 Grok 中',
+  whatIsIntro: '**Grok Imagine** 是 **xAI** 推出的視頻生成模型，集成在 X（Twitter）平台的 Grok AI 助手中。它可以通過文本提示詞和圖片生成高質量、電影級的視頻。',
+  textToVideo: '🎬 **文本生成視頻** — 根據文字描述生成視頻',
+  imageToVideo: '🖼️ **圖片生成視頻** — 將靜態圖片轉化為動態視頻',
+  videoEditing: '✂️ **視頻編輯** — 編輯和轉換現有視頻',
+  autoAudio: '🔊 **自動音頻** — 自動配音和背景音樂',
+  highResolution: '📐 **720p+ 分辨率** — 每個片段 10-15 秒時長',
+  fastGeneration: '⚡ **快速生成** — 20 秒內完成生成',
   galleryFeature1: '✨ 精美的瀑布流網格佈局',
   galleryFeature2: '🔍 全文搜索和篩選',
   galleryFeature3: '🌍 支持 16 種語言',
@@ -279,12 +279,12 @@ const zhTW: Translation = {
   starRepo: '給倉庫點星',
   sortedByDate: '按發布日期排序（最新優先）',
   handPicked: '由我們的團隊精心挑選，具有卓越的質量和創造力',
-  image: '圖片',
+  video: '視頻',
   tryItNow: '立即體驗 →',
   githubReadme: 'GitHub README',
   youmindGallery: 'youmind.com 畫廊',
   linearList: '❌ 僅靜態縮略圖',
-  masonryGrid: '✅ 完整圖片預覽支持縮放',
+  masonryGrid: '✅ 完整視頻播放支持流媒體',
   ctrlFOnly: '僅 Ctrl+F',
   fullTextSearch: '多字段模糊匹配搜索',
   basic: '基礎',
@@ -294,13 +294,13 @@ const zhTW: Translation = {
 
 const ja: Translation = {
   ...en,
-  title: 'Grok Imagine 画像プロンプト集',
-  subtitle: 'xAI の Grok Imagine (Aurora) 向け高品質画像生成プロンプトコレクション',
+  title: 'Grok Imagine 動画プロンプト集',
+  subtitle: 'xAI の Grok Imagine 向け高品質動画生成プロンプトコレクション',
   copyright: '**著作権に関する通知**: すべてのプロンプトは教育目的でコミュニティから収集されています。権利を侵害していると思われるコンテンツがある場合は、[issue を作成](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/issues/new)してください。速やかに削除いたします。',
   viewInGallery: 'Web ギャラリーで見る',
   browseGallery: '👉 YouMind で Grok Imagine プロンプトをすべて見る',
   galleryFeatures: 'ギャラリーを使用する理由',
-  visualLayout: '画像プレビュー',
+  visualLayout: '動画再生',
   languages: 'AI レコメンド',
   mobile: 'モバイル',
   toc: '目次',
@@ -319,24 +319,24 @@ const ja: Translation = {
   count: '数',
   description: '説明',
   prompt: 'プロンプト',
-  generatedImages: '生成画像',
+  generatedVideo: '生成動画',
   details: '詳細',
   author: '作者',
   source: 'ソース',
   published: '公開日',
-  viewImage: '🖼️ 画像を見る →',
-  clickToView: '画像をクリックしてフルサイズで表示',
+  viewVideo: '🎬 動画を見る →',
+  clickToView: '動画をクリックして再生',
   morePrompts: 'その他のプロンプト',
   morePromptsDesc: 'さらに多くのプロンプトがあります',
   viewAll: '👉 Web ギャラリーですべてのプロンプトを見る',
   featured: 'おすすめ',
-  whatIsIntro: '**Grok Imagine** は **xAI の Aurora モデル**を搭載した画像生成機能で、Grok AI アシスタントに統合されています。X（Twitter）プラットフォーム上でテキストプロンプトから驚くほどリアルで芸術的な画像を直接生成します。',
-  textToImage: '🎨 **テキストから画像** — テキスト説明から画像を生成',
-  styleControl: '🖌️ **スタイル制御** — フォトリアリズムからイラストまで多様な芸術スタイルをサポート',
-  photoRealism: '📸 **フォトリアリズム** — 本物と見分けがつかない高度にリアルな写真を生成',
-  characterDesign: '🧑‍🎨 **キャラクターデザイン** — 一貫性のあるキャラクターとポートレートを作成',
-  highResolution: '📐 **高解像度** — 詳細で高品質な画像を生成',
-  xIntegration: '🐦 **X 統合** — X（Twitter）の Grok にネイティブ統合',
+  whatIsIntro: '**Grok Imagine** は **xAI** が開発した動画生成モデルで、X（Twitter）プラットフォーム上の Grok AI アシスタントに統合されています。テキストプロンプトや画像から高品質でシネマティックな動画を生成します。',
+  textToVideo: '🎬 **テキストから動画** — テキスト説明から動画を生成',
+  imageToVideo: '🖼️ **画像から動画** — 静止画をダイナミックな動画に変換',
+  videoEditing: '✂️ **動画編集** — 既存の動画を編集・変換',
+  autoAudio: '🔊 **自動音声** — 自動吹き替えとBGM',
+  highResolution: '📐 **720p+解像度** — クリップあたり10-15秒',
+  fastGeneration: '⚡ **高速生成** — 20秒以内で生成完了',
   galleryFeature1: '✨ 美しいメイソンリグリッドレイアウト',
   galleryFeature2: '🔍 全文検索とフィルター',
   galleryFeature3: '🌍 16言語サポート',
@@ -351,12 +351,12 @@ const ja: Translation = {
   starRepo: 'このリポジトリにスターを付ける',
   sortedByDate: '公開日でソート（新しい順）',
   handPicked: '優れた品質と創造性のためにチームが厳選',
-  image: '画像',
+  video: '動画',
   tryItNow: '今すぐ試す →',
   githubReadme: 'GitHub README',
   youmindGallery: 'youmind.com ギャラリー',
   linearList: '❌ 静止サムネイルのみ',
-  masonryGrid: '✅ フル画像プレビュー（ズーム対応）',
+  masonryGrid: '✅ フル動画再生（ストリーミング対応）',
   ctrlFOnly: 'Ctrl+Fのみ',
   fullTextSearch: '複数フィールドのあいまい検索',
   basic: '基本',
@@ -366,13 +366,13 @@ const ja: Translation = {
 
 const ko: Translation = {
   ...en,
-  title: 'Grok Imagine 이미지 프롬프트 모음',
-  subtitle: 'xAI Grok Imagine (Aurora)을 위한 고품질 이미지 생성 프롬프트 컬렉션',
+  title: 'Grok Imagine 비디오 프롬프트 모음',
+  subtitle: 'xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션',
   copyright: '**저작권 고지**: 모든 프롬프트는 교육 목적으로 커뮤니티에서 수집되었습니다. 귀하의 권리를 침해하는 콘텐츠가 있다고 생각되면 [이슈를 열어주세요](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/issues/new). 즉시 삭제하겠습니다.',
   viewInGallery: '웹 갤러리에서 보기',
   browseGallery: '👉 YouMind에서 모든 Grok Imagine 프롬프트 둘러보기',
   galleryFeatures: '갤러리를 사용하는 이유는?',
-  visualLayout: '이미지 미리보기',
+  visualLayout: '비디오 재생',
   languages: 'AI 추천',
   mobile: '모바일',
   toc: '목차',
@@ -391,24 +391,24 @@ const ko: Translation = {
   count: '수',
   description: '설명',
   prompt: '프롬프트',
-  generatedImages: '생성된 이미지',
+  generatedVideo: '생성된 비디오',
   details: '상세 정보',
   author: '작성자',
   source: '출처',
   published: '게시일',
-  viewImage: '🖼️ 이미지 보기 →',
-  clickToView: '이미지를 클릭하여 원본 크기로 보기',
+  viewVideo: '🎬 비디오 보기 →',
+  clickToView: '클릭하여 전체 비디오 보기',
   morePrompts: '더 많은 프롬프트',
   morePromptsDesc: '여기에 표시되지 않은 더 많은 프롬프트가 있습니다',
   viewAll: '👉 웹 갤러리에서 모든 프롬프트 보기',
   featured: '추천',
-  whatIsIntro: '**Grok Imagine**은 **xAI의 Aurora 모델**로 구동되는 이미지 생성 기능으로, Grok AI 어시스턴트에 통합되어 있습니다. X(Twitter) 플랫폼에서 텍스트 프롬프트로 놀라운 사실적이고 예술적인 이미지를 직접 생성합니다.',
-  textToImage: '🎨 **텍스트에서 이미지** — 텍스트 설명으로 이미지 생성',
-  styleControl: '🖌️ **스타일 제어** — 사진 사실주의부터 일러스트까지 다양한 예술 스타일 지원',
-  photoRealism: '📸 **사진 사실주의** — 실제와 구분할 수 없는 고도로 사실적인 사진 생성',
-  characterDesign: '🧑‍🎨 **캐릭터 디자인** — 일관된 캐릭터와 초상화 제작',
-  highResolution: '📐 **고해상도** — 세밀하고 고품질의 이미지 생성',
-  xIntegration: '🐦 **X 통합** — X(Twitter)의 Grok에 네이티브 통합',
+  whatIsIntro: '**Grok Imagine**은 **xAI**가 개발한 비디오 생성 모델로, X(Twitter) 플랫폼의 Grok AI 어시스턴트에 통합되어 있습니다. 텍스트 프롬프트와 이미지로 고품질 시네마틱 비디오를 생성합니다.',
+  textToVideo: '🎬 **텍스트에서 비디오** — 텍스트 설명으로 비디오 생성',
+  imageToVideo: '🖼️ **이미지에서 비디오** — 정적 이미지를 동적 비디오로 변환',
+  videoEditing: '✂️ **비디오 편집** — 기존 비디오 편집 및 변환',
+  autoAudio: '🔊 **자동 오디오** — 자동 더빙 및 배경 음악',
+  highResolution: '📐 **720p+ 해상도** — 클립당 10-15초 길이',
+  fastGeneration: '⚡ **빠른 생성** — 20초 이내 생성 완료',
   galleryFeature1: '✨ 아름다운 메이슨리 그리드 레이아웃',
   galleryFeature2: '🔍 전체 텍스트 검색 및 필터',
   galleryFeature3: '🌍 16개 언어 지원',
@@ -423,12 +423,12 @@ const ko: Translation = {
   starRepo: '이 저장소에 스타 추가',
   sortedByDate: '게시일 기준 정렬(최신순)',
   handPicked: '팀이 뛰어난 품질과 창의성을 위해 엄선',
-  image: '이미지',
+  video: '비디오',
   tryItNow: '지금 체험하기 →',
   githubReadme: 'GitHub README',
   youmindGallery: 'youmind.com 갤러리',
   linearList: '❌ 정적 썸네일만',
-  masonryGrid: '✅ 풀 이미지 프리뷰 (줌 지원)',
+  masonryGrid: '✅ 풀 비디오 재생 (스트리밍 지원)',
   ctrlFOnly: 'Ctrl+F만',
   fullTextSearch: '다중 필드 퍼지 매칭 검색',
   basic: '기본',
@@ -436,15 +436,15 @@ const ko: Translation = {
   aiRecommendation: 'AI 기반 프롬프트 추천',
 };
 
-const th: Translation = { ...en, title: 'สุดยอด Grok Imagine Prompts', subtitle: 'คอลเลกชันพรอมต์สร้างภาพคุณภาพสูงสำหรับ Grok Imagine (Aurora) ของ xAI' };
-const vi: Translation = { ...en, title: 'Tuyển tập Grok Imagine Prompts', subtitle: 'Bộ sưu tập prompt tạo hình ảnh chất lượng cao cho Grok Imagine (Aurora) của xAI' };
-const hi: Translation = { ...en, title: 'शानदार Grok Imagine प्रॉम्पट्स', subtitle: 'xAI के Grok Imagine (Aurora) के लिए उच्च गुणवत्ता वाले छवि जनरेशन प्रॉम्पट्स का संग्रह' };
-const es: Translation = { ...en, title: 'Prompts de Imagen Grok Imagine Increíbles', subtitle: 'Una colección curada de prompts de generación de imágenes de alta calidad para Grok Imagine (Aurora) de xAI' };
-const de: Translation = { ...en, title: 'Tolle Grok Imagine Bild-Prompts', subtitle: 'Eine kuratierte Sammlung hochwertiger Bildgenerierungs-Prompts für xAI Grok Imagine (Aurora)' };
-const fr: Translation = { ...en, title: 'Prompts Image Grok Imagine Géniaux', subtitle: 'Une collection de prompts de génération d\'images de haute qualité pour Grok Imagine (Aurora) de xAI' };
-const it: Translation = { ...en, title: 'Fantastici Prompt Immagine Grok Imagine', subtitle: 'Una raccolta curata di prompt di generazione immagini di alta qualità per Grok Imagine (Aurora) di xAI' };
-const pt: Translation = { ...en, title: 'Prompts de Imagem Grok Imagine Incríveis', subtitle: 'Uma coleção curada de prompts de geração de imagens de alta qualidade para o Grok Imagine (Aurora) da xAI' };
-const tr: Translation = { ...en, title: 'Harika Grok Imagine Görsel İstemleri', subtitle: 'xAI Grok Imagine (Aurora) için yüksek kaliteli görsel oluşturma istemleri koleksiyonu' };
+const th: Translation = { ...en, title: 'สุดยอด Grok Imagine Prompts', subtitle: 'คอลเลกชันพรอมต์สร้างวิดีโอคุณภาพสูงสำหรับ Grok Imagine ของ xAI' };
+const vi: Translation = { ...en, title: 'Tuyển tập Grok Imagine Prompts', subtitle: 'Bộ sưu tập prompt tạo video chất lượng cao cho Grok Imagine của xAI' };
+const hi: Translation = { ...en, title: 'शानदार Grok Imagine प्रॉम्पट्स', subtitle: 'xAI के Grok Imagine के लिए उच्च गुणवत्ता वाले वीडियो जनरेशन प्रॉम्पट्स का संग्रह' };
+const es: Translation = { ...en, title: 'Prompts de Video Grok Imagine Increíbles', subtitle: 'Una colección curada de prompts de generación de video de alta calidad para Grok Imagine de xAI' };
+const de: Translation = { ...en, title: 'Tolle Grok Imagine Video-Prompts', subtitle: 'Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für xAI Grok Imagine' };
+const fr: Translation = { ...en, title: 'Prompts Vidéo Grok Imagine Géniaux', subtitle: 'Une collection de prompts de génération vidéo de haute qualité pour Grok Imagine de xAI' };
+const it: Translation = { ...en, title: 'Fantastici Prompt Video Grok Imagine', subtitle: 'Una raccolta curata di prompt di generazione video di alta qualità per Grok Imagine di xAI' };
+const pt: Translation = { ...en, title: 'Prompts de Vídeo Grok Imagine Incríveis', subtitle: 'Uma coleção curada de prompts de geração de vídeo de alta qualidade para o Grok Imagine da xAI' };
+const tr: Translation = { ...en, title: 'Harika Grok Imagine Video İstemleri', subtitle: 'xAI Grok Imagine için yüksek kaliteli video oluşturma istemleri koleksiyonu' };
 
 const I18N: Record<string, Translation> = {
   'en': en,

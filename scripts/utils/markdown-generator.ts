@@ -57,7 +57,7 @@ export function generateReadme(prompts: ProcessedPrompt[], locale: string = 'en'
   md += generateLanguageNavigation(locale);
 
   // Header
-  md += `# 🎨 ${t('title', locale)}
+  md += `# 🎬 ${t('title', locale)}
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-grok-imagine-prompts?style=social)](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)
@@ -79,7 +79,7 @@ ${t('subtitle', locale)}
 - [🤔 ${t('whatIs', locale)}](#-${slugify(t('whatIs', locale))})
 - [📊 ${t('stats', locale)}](#-${slugify(t('stats', locale))})
 - [⭐ ${t('featuredPrompts', locale)}](#-${slugify(t('featuredPrompts', locale))})
-- [🎨 ${t('allPrompts', locale)}](#-${slugify(t('allPrompts', locale))})
+- [🎬 ${t('allPrompts', locale)}](#-${slugify(t('allPrompts', locale))})
 - [🤝 ${t('howToContribute', locale)}](#-${slugify(t('howToContribute', locale))})
 - [📄 ${t('license', locale)}](#-${slugify(t('license', locale))})
 - [🙏 ${t('acknowledgements', locale)}](#-${slugify(t('acknowledgements', locale))})
@@ -107,7 +107,7 @@ ${t('galleryFeatures', locale)}
 
 | Feature | ${t('githubReadme', locale)} | ${t('youmindGallery', locale)} |
 |---------|--------------|---------------------|
-| 🖼️ ${t('visualLayout', locale)} | ${t('linearList', locale)} | ${t('masonryGrid', locale)} |
+| 🎬 ${t('visualLayout', locale)} | ${t('linearList', locale)} | ${t('masonryGrid', locale)} |
 | 🔍 ${t('search', locale)} | ${t('ctrlFOnly', locale)} | ${t('fullTextSearch', locale)} |
 | 🤖 ${t('languages', locale)} | - | ${t('aiRecommendation', locale)} |
 | 📱 ${t('mobile', locale)} | ${t('basic', locale)} | ${t('fullyResponsive', locale)} |
@@ -122,12 +122,12 @@ ${t('galleryFeatures', locale)}
 ${t('whatIsIntro', locale)}
 
 **Key Features:**
-- ${t('textToImage', locale)}
-- ${t('styleControl', locale)}
-- ${t('photoRealism', locale)}
-- ${t('characterDesign', locale)}
+- ${t('textToVideo', locale)}
+- ${t('imageToVideo', locale)}
+- ${t('videoEditing', locale)}
+- ${t('autoAudio', locale)}
 - ${t('highResolution', locale)}
-- ${t('xIntegration', locale)}
+- ${t('fastGeneration', locale)}
 
 ---
 
@@ -167,7 +167,7 @@ ${t('whatIsIntro', locale)}
   const displayedPrompts = regular.slice(0, MAX_PROMPTS_TO_DISPLAY);
   const hiddenCount = regular.length - displayedPrompts.length;
 
-  md += `## 🎨 ${t('allPrompts', locale)}
+  md += `## 🎬 ${t('allPrompts', locale)}
 
 > 📝 ${t('sortedByDate', locale)}
 
@@ -232,7 +232,7 @@ ${t('licensedUnder', locale)}
   // Acknowledgements
   md += `## 🙏 ${t('acknowledgements', locale)}
 
-- [xAI](https://x.ai/) for developing Grok Imagine (Aurora)
+- [xAI](https://x.ai/) for developing Grok Imagine
 - [YouMind](https://youmind.com) for the prompt gallery and community
 - All prompt contributors from the X (Twitter) community
 
@@ -281,7 +281,7 @@ function generateFeaturedPromptBlock(
   const promptContent = p.translatedContent || p.content;
   const displayImage = p.referenceImages?.[0] || p.mediaImages?.[0] || p.thumbnail;
   const tryLink = `${galleryUrl}?id=${p.id}`;
-  const viewImageLink = `**[${t('viewImage', locale)}](${tryLink})**`;
+  const viewVideoLink = `**[${t('viewVideo', locale)}](${tryLink})**`;
 
   let md = `### No. ${index}: ${p.title}\n\n`;
   md += `${langBadge}\n`;
@@ -293,11 +293,11 @@ function generateFeaturedPromptBlock(
 
   md += `#### 📝 ${t('prompt', locale)}\n\n\`\`\`\n${promptContent}\n\`\`\`\n\n`;
 
-  // Image embed (center-aligned)
-  md += `#### 🖼️ ${t('image', locale)}\n\n`;
+  // Video thumbnail (center-aligned)
+  md += `#### 🎬 ${t('video', locale)}\n\n`;
   md += `<div align="center">\n\n`;
   md += `<img src="${displayImage}" width="700" alt="${p.title}">\n\n`;
-  md += `${viewImageLink}\n\n`;
+  md += `${viewVideoLink}\n\n`;
   md += `</div>\n\n`;
 
   md += `#### 📌 ${t('details', locale)}\n\n`;
@@ -327,8 +327,8 @@ function generatePromptBlock(p: ProcessedPrompt, locale: string, galleryUrl: str
   const imgWidth = isFeatured ? '700' : '600';
   const featuredBadge = isFeatured ? `![Featured](https://img.shields.io/badge/⭐-Featured-gold)\n` : '';
 
-  const viewImageLink = `**[${t('viewImage', locale)}](${tryLink})**`;
-  const mediaEmbed = `<img src="${displayImage}" width="${imgWidth}" alt="${p.title}">\n\n${viewImageLink}`;
+  const viewVideoLink = `**[${t('viewVideo', locale)}](${tryLink})**`;
+  const mediaEmbed = `<img src="${displayImage}" width="${imgWidth}" alt="${p.title}">\n\n${viewVideoLink}`;
 
   return `### ${p.title}
 

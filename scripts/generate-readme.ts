@@ -35,7 +35,7 @@ async function main() {
       : prompts;
 
     if (promptsToProcess.length > 0) {
-      console.log(`\n🖼️ Media download: ${downloadVideosMode} mode — ${promptsToProcess.length} new items to process`);
+      console.log(`\n🎬 Media download: ${downloadVideosMode} mode — ${promptsToProcess.length} new items to process`);
       const { downloadVideos } = await import('./download-videos.js');
       const videoFiles = await downloadVideos(promptsToProcess);
 
