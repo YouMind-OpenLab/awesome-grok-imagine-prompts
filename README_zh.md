@@ -2,14 +2,14 @@
 
 ---
 
-# 🎨 Awesome Grok Imagine 提示词合集
+# 🎬 Awesome Grok Imagine 提示词合集
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-grok-imagine-prompts?style=social)](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)
 
-精心收集的 xAI Grok Imagine（Aurora 模型）高质量图片生成提示词合集
+精心收集的 xAI Grok Imagine 高质量视频生成提示词合集
 
 > ⚠️ **版权声明**：所有提示词均来自社区，仅供学习参考。如果您认为某内容侵犯了您的权益，请[提交 issue](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/issues/new)，我们会及时处理。
 
@@ -36,13 +36,13 @@
 
 </div>
 
-**[👉 在 YouMind 上浏览所有 Grok Imagine 提示词](https://youmind.com/en-US/grok-imagine-prompts)**
+**[👉 在 YouMind 上浏览所有 Grok Imagine 提示词](https://youmind.com/grok-imagine-prompts)**
 
 为什么使用我们的在线画廊？
 
 | 功能 | GitHub README | YouMind 在线画廊 |
 |------|--------------|-----------------|
-| 🖼️ 图片预览 | ❌ 仅静态缩略图 | ✅ 全分辨率图片查看 |
+| 🎬 视频播放 | ❌ 仅静态缩略图 | ✅ 完整视频流式播放 |
 | 🔍 搜索 | 仅支持 Ctrl+F | 多字段模糊匹配搜索 |
 | 🤖 AI 推荐 | — | AI 智能提示词推荐 |
 | 📱 移动端 | 基础 | 完全响应式设计 |
@@ -51,14 +51,15 @@
 
 ## 🤔 什么是 Grok Imagine？
 
-**Grok Imagine** 是 **xAI** 推出的图片生成功能，由 **Aurora** 模型驱动。它深度集成在 Grok 聊天界面和 X（Twitter）平台中。
+**Grok Imagine** 是 **xAI** 推出的视频生成模型，支持文字生成视频、图片生成视频和视频编辑功能，深度集成在 Grok 聊天界面和 X（Twitter）平台中。
 
 **核心特点：**
-- 🎨 **文字转图片** — 通过文字描述生成高质量图片
-- 🖼️ **风格多样** — 支持写实摄影、艺术绘画、动漫、3D、产品图等多种风格
-- 🔤 **文字渲染** — 支持在生成图片中嵌入可读文字
-- 📐 **多种比例** — 支持 1:1、16:9、9:16 等多种宽高比
-- ⚡ **快速生成** — 近实时的图片生成速度
+- 🎥 **文字转视频** — 通过文字描述生成高质量视频
+- 🖼️ **图片转视频** — 将静态图片转化为动态视频
+- 📹 **视频编辑** — 用自然语言编辑已有视频
+- 🔊 **自动配音** — 自动配音和背景音乐生成
+- 📐 **720p+ 分辨率**，时长 10-15 秒
+- ⚡ **快速生成** — 20 秒内完成视频生成
 
 **如何使用 Grok Imagine：**
 - **Grok 聊天** — 在 [grok.com](https://grok.com) 或 xAI 应用中使用（提供免费版）
@@ -106,9 +107,11 @@
 完整提示词内容
 \`\`\`
 
-<img src="[图片URL]" width="700" alt="[提示词标题]">
+<a href="[视频URL]">
+<img src="[缩略图URL]" width="700" alt="[提示词标题]">
+</a>
 
-**[👉 立即体验 →](https://youmind.com/en-US/grok-imagine-prompts?id=[ID])**
+**[👉 观看视频 →](https://youmind.com/grok-imagine-prompts?id=[ID])**
 
 #### 📌 详细信息
 
@@ -127,7 +130,7 @@
 
 ## 🙏 致谢
 
-- [xAI](https://x.ai/) — 感谢开发 Grok Imagine 和 Aurora 模型
+- [xAI](https://x.ai/) — 感谢开发 Grok Imagine
 - [YouMind](https://youmind.com) — 提供提示词画廊和社区支持
 - 所有提示词贡献者
 
@@ -141,7 +144,7 @@
 
 <div align="center">
 
-**[🌐 在线画廊](https://youmind.com/en-US/grok-imagine-prompts)** •
+**[🌐 在线画廊](https://youmind.com/grok-imagine-prompts)** •
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star 本仓库](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
