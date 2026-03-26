@@ -1,0 +1,71 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'
+  workflow_dispatch:
+    inputs:
+      download_videos:
+        description: 'Media download mode: auto (incremental), true (force all), false (skip)'
+        required: false
+        default: 'auto'
+        type: choice
+        options:
+          - 'auto'
+          - 'true'
+          - 'false'
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/**'
+      - '.github/workflows/update-readme.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: pnpm/action-setup@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'pnpm'
+
+      - run: pnpm install --frozen-lockfile
+
+      - name: Install video tools
+        if: ${{ (inputs.download_videos || 'auto') != 'false' }}
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          pip install yt-dlp
+
+      - name: Cache media downloads
+        if: ${{ (inputs.download_videos || 'auto') != 'false' }}
+        uses: actions/cache@v4
+        with:
+          path: tmp/videos
+          key: videos-${{ hashFiles('video-urls.json') }}
+          restore-keys: videos-
+
+      - run: pnpm run generate
+        env:
+          CMS_HOST: ${{ secrets.CMS_HOST }}
+          CMS_API_KEY: ${{ secrets.CMS_API_KEY }}
+          DOWNLOAD_VIDEOS: ${{ inputs.download_videos || 'auto' }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md README_*.md video-urls.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "docs: auto-update README [skip ci]"
+          git push
