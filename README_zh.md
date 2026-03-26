@@ -32,7 +32,7 @@
 
 <div align="center">
 
-![Gallery](public/gallery-en.png)
+![Gallery](public/gallery-zh.png)
 
 </div>
 
