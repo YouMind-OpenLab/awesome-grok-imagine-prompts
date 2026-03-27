@@ -70,7 +70,7 @@ Why use our gallery?
 |--------|-------|
 | 📝 Total Prompts | **701** |
 | ⭐ Featured Prompts | **3** |
-| 🔄 Last Updated | **2026-03-26** |
+| 🔄 Last Updated | **2026-03-27** |
 
 ---
 
@@ -205,7 +205,7 @@ Una diosa digital combate violentamente a un grupo de mercenarios. Entra a la sa
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2101)**
 
-**Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2036952484166722021) | **Published:** Mar 26, 2026
+**Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2036952484166722021) | **Published:** Mar 25, 2026
 
 ---
 ### Escena de lanzamiento y puñetazo sobrehumanos
@@ -224,7 +224,7 @@ Se topa con un grupo de invasores, agarra y lanza a un mercenario a través de u
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2096)**
 
-**Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2036948088645165254) | **Published:** Mar 26, 2026
+**Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2036948088645165254) | **Published:** Mar 25, 2026
 
 ---
 ### Indicación para video: Combate futurista de cazas estelares
@@ -243,7 +243,7 @@ congelado en el punto álgido absoluto de la tensión, un solitario piloto futur
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2093)**
 
-**Author:** [the flash ⚡️](https://x.com/winearther) | **Source:** [Link](https://x.com/winearther/status/2036945886560084378) | **Published:** Mar 26, 2026
+**Author:** [the flash ⚡️](https://x.com/winearther) | **Source:** [Link](https://x.com/winearther/status/2036945886560084378) | **Published:** Mar 25, 2026
 
 ---
 ### Alce de dibujos animados atropellado por tráiler, indicación.
@@ -262,7 +262,7 @@ Pon un alce de caricatura aquí en medio de la carretera y muestra cómo lo atro
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2099)**
 
-**Author:** [Laura Mathisən 🇨🇦](https://x.com/laurajanemathis) | **Source:** [Link](https://x.com/laurajanemathis/status/2036869177982529843) | **Published:** Mar 26, 2026
+**Author:** [Laura Mathisən 🇨🇦](https://x.com/laurajanemathis) | **Source:** [Link](https://x.com/laurajanemathis/status/2036869177982529843) | **Published:** Mar 25, 2026
 
 ---
 ### Prompt de ardillas fumando y jugando
@@ -282,7 +282,7 @@ Las ardillas desarrollan otros malos hábitos, como que empiezan a tirar los dad
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2098)**
 
-**Author:** [TheEndOfTheInternet](https://x.com/MattTag8) | **Source:** [Link](https://x.com/MattTag8/status/2036868509389439431) | **Published:** Mar 26, 2026
+**Author:** [TheEndOfTheInternet](https://x.com/MattTag8) | **Source:** [Link](https://x.com/MattTag8/status/2036868509389439431) | **Published:** Mar 25, 2026
 
 ---
 ### Prompt de video de samurái de anime atmosférico
@@ -453,7 +453,7 @@ Que caminen de la mano por la playa, que no salte. Que él la cargue y la bese. 
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2036)**
 
-**Author:** [HisMoonRey](https://x.com/lBrokenDoll51) | **Source:** [Link](https://x.com/lBrokenDoll51/status/2036584716942373141) | **Published:** Mar 25, 2026
+**Author:** [HisMoonRey](https://x.com/lBrokenDoll51) | **Source:** [Link](https://x.com/lBrokenDoll51/status/2036584716942373141) | **Published:** Mar 24, 2026
 
 ---
 ### Prompt de Video: Equilibrista con Hadas y Extraterrestres
@@ -472,7 +472,7 @@ Que tenga corazones y estrellas por todas partes a su alrededor, y muchísimos m
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2024)**
 
-**Author:** [HisMoonRey](https://x.com/lBrokenDoll51) | **Source:** [Link](https://x.com/lBrokenDoll51/status/2036581638616875493) | **Published:** Mar 25, 2026
+**Author:** [HisMoonRey](https://x.com/lBrokenDoll51) | **Source:** [Link](https://x.com/lBrokenDoll51/status/2036581638616875493) | **Published:** Mar 24, 2026
 
 ---
 ### Prompt de video de diálogo de Bora Bora
@@ -494,7 +494,7 @@ Haz que Grok diga: Es muy agradable aquí
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2027)**
 
-**Author:** [HisMoonRey](https://x.com/lBrokenDoll51) | **Source:** [Link](https://x.com/lBrokenDoll51/status/2036571895168917736) | **Published:** Mar 25, 2026
+**Author:** [HisMoonRey](https://x.com/lBrokenDoll51) | **Source:** [Link](https://x.com/lBrokenDoll51/status/2036571895168917736) | **Published:** Mar 24, 2026
 
 ---
 ### Prompt de video de animación de masa cósmica estilo Pixar
@@ -513,7 +513,7 @@ Animación cálida al estilo Pixar. Almas-magdalena maduras y resplandecientes, 
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2045)**
 
-**Author:** [Pamala Clift](https://x.com/RoadsidePhiloso) | **Source:** [Link](https://x.com/RoadsidePhiloso/status/2036557526943007210) | **Published:** Mar 25, 2026
+**Author:** [Pamala Clift](https://x.com/RoadsidePhiloso) | **Source:** [Link](https://x.com/RoadsidePhiloso/status/2036557526943007210) | **Published:** Mar 24, 2026
 
 ---
 ### Prompt para video: Ciclo de vida de personajes Muffin al estilo Pixar
@@ -532,7 +532,7 @@ Animación cálida al estilo Pixar. Un vibrante y desordenado patio de juegos te
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2041)**
 
-**Author:** [Pamala Clift](https://x.com/RoadsidePhiloso) | **Source:** [Link](https://x.com/RoadsidePhiloso/status/2036553547270001021) | **Published:** Mar 25, 2026
+**Author:** [Pamala Clift](https://x.com/RoadsidePhiloso) | **Source:** [Link](https://x.com/RoadsidePhiloso/status/2036553547270001021) | **Published:** Mar 24, 2026
 
 ---
 ### Prompt de Video: Mujer de Fantasía Ártica con Vestido Azul Hielo
@@ -553,7 +553,7 @@ Fondo: dramáticas montañas heladas y castillos de hielo de cristal irregulares
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2044)**
 
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2036541105576222915) | **Published:** Mar 25, 2026
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2036541105576222915) | **Published:** Mar 24, 2026
 
 ---
 ### Prompt de Video de Vasta Nebulosa de Acción Interestelar
@@ -572,7 +572,7 @@ Una vasta nebulosa espacial interestelar, una enorme y arremolinada nube cósmic
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2023)**
 
-**Author:** [the flash ⚡️](https://x.com/winearther) | **Source:** [Link](https://x.com/winearther/status/2036530417264890269) | **Published:** Mar 25, 2026
+**Author:** [the flash ⚡️](https://x.com/winearther) | **Source:** [Link](https://x.com/winearther/status/2036530417264890269) | **Published:** Mar 24, 2026
 
 ---
 ### Prompt de video: Panorama cósmico cinematográfico
@@ -591,7 +591,7 @@ Panorámica cinematográfica ultra-ancha desde el espacio profundo, un horizonte
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2022)**
 
-**Author:** [the flash ⚡️](https://x.com/winearther) | **Source:** [Link](https://x.com/winearther/status/2036529229836218485) | **Published:** Mar 25, 2026
+**Author:** [the flash ⚡️](https://x.com/winearther) | **Source:** [Link](https://x.com/winearther/status/2036529229836218485) | **Published:** Mar 24, 2026
 
 ---
 ### Indicación para la Generación de Video: Arrendajo azul conduciendo un camión
@@ -610,7 +610,7 @@ Que un arrendajo azul salte a la camioneta y se aleje manejando, seguido por ard
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2033)**
 
-**Author:** [Sherri Knapp](https://x.com/knappsherri5) | **Source:** [Link](https://x.com/knappsherri5/status/2036489789105643832) | **Published:** Mar 25, 2026
+**Author:** [Sherri Knapp](https://x.com/knappsherri5) | **Source:** [Link](https://x.com/knappsherri5/status/2036489789105643832) | **Published:** Mar 24, 2026
 
 ---
 ### Construyendo 'Bailando con Fuegos Artificiales'
@@ -629,7 +629,7 @@ Hagamos que este edificio baile con fuegos artificiales, manteniendo la dignidad
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2038)**
 
-**Author:** [Akki](https://x.com/justbeingakki) | **Source:** [Link](https://x.com/justbeingakki/status/2036475969557377517) | **Published:** Mar 25, 2026
+**Author:** [Akki](https://x.com/justbeingakki) | **Source:** [Link](https://x.com/justbeingakki/status/2036475969557377517) | **Published:** Mar 24, 2026
 
 ---
 ### Storyboard de Cortometraje de Ciencia Ficción Hiperrealista para Grok Imagine
@@ -650,7 +650,7 @@ Un guion gráfico de cortometraje de ciencia ficción hiperrealista de 15 segund
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2048)**
 
-**Author:** [てつ（$BCH💎🚀🌙）ビットコインHODL](https://x.com/edwardomgone) | **Source:** [Link](https://x.com/edwardomgone/status/2036474486141362221) | **Published:** Mar 25, 2026
+**Author:** [てつ（$BCH💎🚀🌙）ビットコインHODL](https://x.com/edwardomgone) | **Source:** [Link](https://x.com/edwardomgone/status/2036474486141362221) | **Published:** Mar 24, 2026
 
 ---
 ### Prompt de Video: Persecución Policial de Barricade de Transformers
@@ -1116,7 +1116,7 @@ Retrato ultra nítido de una reina de las llamas, composición centrada en la pr
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1973)**
 
-**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2036221711071236282) | **Published:** Mar 24, 2026
+**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2036221711071236282) | **Published:** Mar 23, 2026
 
 ---
 ### Video de detectives usando señas con las manos
@@ -1137,7 +1137,7 @@ Lo hice cuando la generación de video de Grok era gratuita y quedó archivado. 
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1987)**
 
-**Author:** [柳生音松（アクション・現代ファンタジー×社会派）](https://x.com/otomatsu02) | **Source:** [Link](https://x.com/otomatsu02/status/2036220072692461935) | **Published:** Mar 24, 2026
+**Author:** [柳生音松（アクション・現代ファンタジー×社会派）](https://x.com/otomatsu02) | **Source:** [Link](https://x.com/otomatsu02/status/2036220072692461935) | **Published:** Mar 23, 2026
 
 ---
 ### Retrato de princesa Art Nouveau ultra detallado con mariposas
@@ -1158,7 +1158,7 @@ Su vestido es parcialmente visible, compuesto por capas de alas de mariposa con 
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1972)**
 
-**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2036212475973001411) | **Published:** Mar 24, 2026
+**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2036212475973001411) | **Published:** Mar 23, 2026
 
 ---
 ### Prompt de Grok Imagine para una Starship envuelta en un capullo de tungsteno
@@ -1177,7 +1177,7 @@ Un capullo gigante fabricado de "tungsteno" transparente similar al vidrio; en s
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1988)**
 
-**Author:** [Marcos 🇧🇷](https://x.com/MarcosADoAmaral) | **Source:** [Link](https://x.com/MarcosADoAmaral/status/2036199369108537614) | **Published:** Mar 24, 2026
+**Author:** [Marcos 🇧🇷](https://x.com/MarcosADoAmaral) | **Source:** [Link](https://x.com/MarcosADoAmaral/status/2036199369108537614) | **Published:** Mar 23, 2026
 
 ---
 ### Extensión de video de 10 segundos: Escape de la cueva hacia el bosque
@@ -1206,7 +1206,7 @@ Estilo: Fantasía fotorrealista extremadamente inmersiva, uso frecuente de diver
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1980)**
 
-**Author:** [アローラ](https://x.com/Alola_0503) | **Source:** [Link](https://x.com/Alola_0503/status/2036198687509193100) | **Published:** Mar 24, 2026
+**Author:** [アローラ](https://x.com/Alola_0503) | **Source:** [Link](https://x.com/Alola_0503/status/2036198687509193100) | **Published:** Mar 23, 2026
 
 ---
 ### Prompt de Grok Imagine Video: Escena de fantasía dinámica con un ciervo, un hada y una niña
@@ -1691,7 +1691,7 @@ Un cuervo blanco y un cuervo negro se posan sobre una roca con runas celtas gaé
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1931)**
 
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2035867665697542627) | **Published:** Mar 23, 2026
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2035867665697542627) | **Published:** Mar 22, 2026
 
 ---
 ### Agente de IA bailando en motocicleta al atardecer
@@ -1710,7 +1710,7 @@ Valentina, AGENTE DE IA de CODYBEARTV, bailando con movimientos de cadera, condu
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1910)**
 
-**Author:** [CODYBEARTV GLOBAL MEDIA STUDIOS](https://x.com/ContentCtv) | **Source:** [Link](https://x.com/ContentCtv/status/2035857644825497611) | **Published:** Mar 23, 2026
+**Author:** [CODYBEARTV GLOBAL MEDIA STUDIOS](https://x.com/ContentCtv) | **Source:** [Link](https://x.com/ContentCtv/status/2035857644825497611) | **Published:** Mar 22, 2026
 
 ---
 ### Prompt de Chibi de Emperatriz Pesada de Vacaciones en Marte
@@ -1729,7 +1729,7 @@ un día en la vida de Empress Heavy y cómo paso el fin de semana: ¡unas vacaci
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1935)**
 
-**Author:** [Empress Heavy](https://x.com/HeavyMetalShip) | **Source:** [Link](https://x.com/HeavyMetalShip/status/2035854038609080724) | **Published:** Mar 23, 2026
+**Author:** [Empress Heavy](https://x.com/HeavyMetalShip) | **Source:** [Link](https://x.com/HeavyMetalShip/status/2035854038609080724) | **Published:** Mar 22, 2026
 
 ---
 ### Jesús vs. Diablo: Video de pulseada - Prompt
@@ -1748,7 +1748,7 @@ Jesucristo vs. el diablo, pulsos, Jesucristo va ganando, el cielo y el infierno 
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1912)**
 
-**Author:** [Cynthia vandecappelle](https://x.com/CynthiaKni50609) | **Source:** [Link](https://x.com/CynthiaKni50609/status/2035849946155335913) | **Published:** Mar 23, 2026
+**Author:** [Cynthia vandecappelle](https://x.com/CynthiaKni50609) | **Source:** [Link](https://x.com/CynthiaKni50609/status/2035849946155335913) | **Published:** Mar 22, 2026
 
 ---
 ### Video del descenso de la nave de guerra cósmica carmesí
@@ -1768,7 +1768,7 @@ Una nave de guerra cósmica rojo carmesí al estilo mecha de Star Wars, descendi
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1917)**
 
-**Author:** [𝟡𝟜 𝚅̷𝙰̷𝙽̷ ᴾᴸᴬʸᶠᴼᴿᴳᴱ](https://x.com/94vanAI) | **Source:** [Link](https://x.com/94vanAI/status/2035848454098796864) | **Published:** Mar 23, 2026
+**Author:** [𝟡𝟜 𝚅̷𝙰̷𝙽̷ ᴾᴸᴬʸᶠᴼᴿᴳᴱ](https://x.com/94vanAI) | **Source:** [Link](https://x.com/94vanAI/status/2035848454098796864) | **Published:** Mar 22, 2026
 
 ---
 ### Grok Imagine: Video Prompt de aventura de fantasía de tomas múltiples (30 segundos)
@@ -1797,7 +1797,7 @@ súper detallado, movimiento de cámara suave y delicado (solo paneo suave, zoom
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1944)**
 
-**Author:** [アローラ](https://x.com/Alola_0503) | **Source:** [Link](https://x.com/Alola_0503/status/2035843654053687709) | **Published:** Mar 23, 2026
+**Author:** [アローラ](https://x.com/Alola_0503) | **Source:** [Link](https://x.com/Alola_0503/status/2035843654053687709) | **Published:** Mar 22, 2026
 
 ---
 ### Texto a video de terror/acción cinematográfico
@@ -1817,7 +1817,7 @@ Estilo cinematográfico de terror/acción. Fotorrealista...
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1897)**
 
-**Author:** [Juan Torrez](https://x.com/jcwarcry1) | **Source:** [Link](https://x.com/jcwarcry1/status/2035839398537732191) | **Published:** Mar 23, 2026
+**Author:** [Juan Torrez](https://x.com/jcwarcry1) | **Source:** [Link](https://x.com/jcwarcry1/status/2035839398537732191) | **Published:** Mar 22, 2026
 
 ---
 ### Princesa submarina ultraelegante en palacio Art Nouveau
@@ -1836,7 +1836,7 @@ Princesa submarina ultraelegante en un palacio oceánico de ensueño, inspirada 
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1924)**
 
-**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2035837312538488988) | **Published:** Mar 23, 2026
+**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2035837312538488988) | **Published:** Mar 22, 2026
 
 ---
 ### Desfile que termina en una pila de azúcar con un dragón volador
@@ -1855,7 +1855,7 @@ Desfilan y al final todos saltan en una enorme pila de azúcar, la libélula vue
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1919)**
 
-**Author:** [CKR](https://x.com/CKRSandra) | **Source:** [Link](https://x.com/CKRSandra/status/2035836711482151308) | **Published:** Mar 23, 2026
+**Author:** [CKR](https://x.com/CKRSandra) | **Source:** [Link](https://x.com/CKRSandra/status/2035836711482151308) | **Published:** Mar 22, 2026
 
 ---
 ### Grok: Indicaciones de video para secuencias de impacto cinematográfico
@@ -1876,7 +1876,7 @@ Secuencia de impacto cinematográfico...
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1925)**
 
-**Author:** [Juan Torrez](https://x.com/jcwarcry1) | **Source:** [Link](https://x.com/jcwarcry1/status/2035826504542642484) | **Published:** Mar 23, 2026
+**Author:** [Juan Torrez](https://x.com/jcwarcry1) | **Source:** [Link](https://x.com/jcwarcry1/status/2035826504542642484) | **Published:** Mar 22, 2026
 
 ---
 ### Video de transformación de tanque a bicicleta: Prompt
@@ -1905,7 +1905,7 @@ Las ametralladoras Gatling de la moto comienzan a girar rápidamente y disparan 
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1892)**
 
-**Author:** [Laz252](https://x.com/Laz252) | **Source:** [Link](https://x.com/Laz252/status/2035826048755974585) | **Published:** Mar 23, 2026
+**Author:** [Laz252](https://x.com/Laz252) | **Source:** [Link](https://x.com/Laz252/status/2035826048755974585) | **Published:** Mar 22, 2026
 
 ---
 ### El sol a mi espalda, la sombra como prueba
@@ -1924,7 +1924,7 @@ El sol a mi espalda, mi sombra como prueba. Juro estas palabras con las manos ab
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1923)**
 
-**Author:** [Louis Kellogg](https://x.com/LouisKello75130) | **Source:** [Link](https://x.com/LouisKello75130/status/2035820404955300202) | **Published:** Mar 23, 2026
+**Author:** [Louis Kellogg](https://x.com/LouisKello75130) | **Source:** [Link](https://x.com/LouisKello75130/status/2035820404955300202) | **Published:** Mar 22, 2026
 
 ---
 ### Visualización de la dinámica de fluidos en un tubo
@@ -1945,7 +1945,7 @@ Flujo "fluido" a través del tubo, sin fugas al exterior, todo permanece dentro 
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1900)**
 
-**Author:** [Mother Brain](https://x.com/AIMotherBrain) | **Source:** [Link](https://x.com/AIMotherBrain/status/2035813562057191787) | **Published:** Mar 23, 2026
+**Author:** [Mother Brain](https://x.com/AIMotherBrain) | **Source:** [Link](https://x.com/AIMotherBrain/status/2035813562057191787) | **Published:** Mar 22, 2026
 
 ---
 ### Video de la hechicera de fantasía oscura "Extend from Frame"
@@ -1964,7 +1964,7 @@ Una hechicera de fantasía oscura de pie bajo una luna roja masiva, fusión ultr
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1909)**
 
-**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2035809606770077944) | **Published:** Mar 23, 2026
+**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2035809606770077944) | **Published:** Mar 22, 2026
 
 ---
 ### Transforma sujetos en adorables personajes chibi de anime
@@ -1983,7 +1983,7 @@ Transforma a los sujetos en adorables personajes de anime chibi renderizados com
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1932)**
 
-**Author:** [Wendy](https://x.com/wendy1231) | **Source:** [Link](https://x.com/wendy1231/status/2035803739387502634) | **Published:** Mar 23, 2026
+**Author:** [Wendy](https://x.com/wendy1231) | **Source:** [Link](https://x.com/wendy1231/status/2035803739387502634) | **Published:** Mar 22, 2026
 
 ---
 ### Video de la colosal escultura de la cabeza de Elon Musk
@@ -2002,7 +2002,7 @@ Escultura colosal de la cabeza de Elon Musk con cabello blanco dentro de una sal
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1915)**
 
-**Author:** [Common Sense](https://x.com/CommonSenseDOGE) | **Source:** [Link](https://x.com/CommonSenseDOGE/status/2035791925622575382) | **Published:** Mar 23, 2026
+**Author:** [Common Sense](https://x.com/CommonSenseDOGE) | **Source:** [Link](https://x.com/CommonSenseDOGE/status/2035791925622575382) | **Published:** Mar 22, 2026
 
 ---
 ### Video de un hombre cayendo en el vacío cósmico
@@ -2021,7 +2021,7 @@ Un joven feliz y relajado, saltando, con los brazos extendidos, cayendo de espal
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1916)**
 
-**Author:** [Steven McBride](https://x.com/Stevers6786) | **Source:** [Link](https://x.com/Stevers6786/status/2035786723616301239) | **Published:** Mar 23, 2026
+**Author:** [Steven McBride](https://x.com/Stevers6786) | **Source:** [Link](https://x.com/Stevers6786/status/2035786723616301239) | **Published:** Mar 22, 2026
 
 ---
 ### TERAFAB: La clave para la civilización galáctica
@@ -2045,7 +2045,7 @@ Miles de millones...
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1950)**
 
-**Author:** [Carlos Del Corral](https://x.com/cdelcorral54) | **Source:** [Link](https://x.com/cdelcorral54/status/2035776358006046730) | **Published:** Mar 23, 2026
+**Author:** [Carlos Del Corral](https://x.com/cdelcorral54) | **Source:** [Link](https://x.com/cdelcorral54/status/2035776358006046730) | **Published:** Mar 22, 2026
 
 ---
 ### Guion de video de 10 segundos de TERAFAB Galactic Civilization
@@ -2067,7 +2067,7 @@ Voz en off completa (hablada rápidamente – 23...
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1913)**
 
-**Author:** [Carlos Del Corral](https://x.com/cdelcorral54) | **Source:** [Link](https://x.com/cdelcorral54/status/2035776193178251421) | **Published:** Mar 23, 2026
+**Author:** [Carlos Del Corral](https://x.com/cdelcorral54) | **Source:** [Link](https://x.com/cdelcorral54/status/2035776193178251421) | **Published:** Mar 22, 2026
 
 ---
 ### Sujetos inmóviles moviendo la cabeza en la niebla
@@ -2086,7 +2086,7 @@ Se quedan quietos, solo mueven la cabeza mirando de un lado a otro; hay niebla y
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1922)**
 
-**Author:** [Theano](https://x.com/TheanoRose) | **Source:** [Link](https://x.com/TheanoRose/status/2035771895866433759) | **Published:** Mar 23, 2026
+**Author:** [Theano](https://x.com/TheanoRose) | **Source:** [Link](https://x.com/TheanoRose/status/2035771895866433759) | **Published:** Mar 22, 2026
 
 ---
 ### Retrato cinematográfico de tornero de madera en la hora dorada
@@ -2107,7 +2107,7 @@ Un retrato cinematográfico fotorrealista de un joven tornero experto con cabell
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1908)**
 
-**Author:** [Kisalay](https://x.com/Kisalayrad95) | **Source:** [Link](https://x.com/Kisalayrad95/status/2035768469472584142) | **Published:** Mar 23, 2026
+**Author:** [Kisalay](https://x.com/Kisalayrad95) | **Source:** [Link](https://x.com/Kisalayrad95/status/2035768469472584142) | **Published:** Mar 22, 2026
 
 ---
 ### Chica Mágica en el Jardín de Ensueño
@@ -2128,7 +2128,7 @@ ella sostiene con amor un gran cristal luminoso en forma de corazón con ambas m
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1907)**
 
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2035767030947954920) | **Published:** Mar 23, 2026
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2035767030947954920) | **Published:** Mar 22, 2026
 
 ---
 ### Grok: Indicación de video de persecución de criatura surrealista imaginaria
@@ -2147,7 +2147,7 @@ Una cabeza de coyote en el cuerpo de un ciempiés nadando en el océano, huyendo
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1926)**
 
-**Author:** [BC Automotive Inc](https://x.com/BCAutomotive) | **Source:** [Link](https://x.com/BCAutomotive/status/2035766548049154251) | **Published:** Mar 23, 2026
+**Author:** [BC Automotive Inc](https://x.com/BCAutomotive) | **Source:** [Link](https://x.com/BCAutomotive/status/2035766548049154251) | **Published:** Mar 22, 2026
 
 ---
 ### Video de muestra de Terafab: Sol absorbido
@@ -2166,7 +2166,7 @@ A medida que el video avanza, el sol aparece a la distancia mientras el terafab 
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1893)**
 
-**Author:** [mike lecavalier](https://x.com/anthracnose) | **Source:** [Link](https://x.com/anthracnose/status/2035763750267945332) | **Published:** Mar 23, 2026
+**Author:** [mike lecavalier](https://x.com/anthracnose) | **Source:** [Link](https://x.com/anthracnose/status/2035763750267945332) | **Published:** Mar 22, 2026
 
 ---
 ### Grok: indicación de video para escena matutina imaginaria
@@ -2185,7 +2185,7 @@ Mañana soleada y ventosa, montañas de fondo, un cuervo blanco y un cuervo negr
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1927)**
 
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2035758555010408779) | **Published:** Mar 23, 2026
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2035758555010408779) | **Published:** Mar 22, 2026
 
 ---
 ### Escena de Venecia con mensaje conmemorativo en video
@@ -2204,7 +2204,7 @@ Venecia, este clip con un subtítulo estilo memorial debajo del botón del pecho
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1904)**
 
-**Author:** [Daniel A Lloyd](https://x.com/D_Roc01) | **Source:** [Link](https://x.com/D_Roc01/status/2035756386701738276) | **Published:** Mar 23, 2026
+**Author:** [Daniel A Lloyd](https://x.com/D_Roc01) | **Source:** [Link](https://x.com/D_Roc01/status/2035756386701738276) | **Published:** Mar 22, 2026
 
 ---
 ### Video de un dragón volando sobre Westminster
@@ -2382,6 +2382,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-03-26T17:51:13.803Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-03-27T07:32:24.172Z</sub>
 
 </div>

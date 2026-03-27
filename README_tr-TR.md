@@ -70,7 +70,7 @@ Why use our gallery?
 |--------|-------|
 | 📝 Total Prompts | **701** |
 | ⭐ Featured Prompts | **3** |
-| 🔄 Last Updated | **2026-03-26** |
+| 🔄 Last Updated | **2026-03-27** |
 
 ---
 
@@ -205,7 +205,7 @@ Dijital bir tanrıça, bir grup paralı askerle şiddetli bir şekilde dövüş�
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2101)**
 
-**Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2036952484166722021) | **Published:** Mar 26, 2026
+**Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2036952484166722021) | **Published:** Mar 25, 2026
 
 ---
 ### İnsanüstü Atış ve Yumruk Sahnesi
@@ -224,7 +224,7 @@ Bir grup istilacıyla karşılaşır, ışık hızında hareket eden insanüstü
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2096)**
 
-**Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2036948088645165254) | **Published:** Mar 26, 2026
+**Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2036948088645165254) | **Published:** Mar 25, 2026
 
 ---
 ### Fütüristik Yıldız Savaşçısı İt Dalaşı Video İstem
@@ -244,7 +244,7 @@ Gerilimin mutlak zirvesinde donakalmış bir an: Alev alev yanan camgöbeği pla
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2093)**
 
-**Author:** [the flash ⚡️](https://x.com/winearther) | **Source:** [Link](https://x.com/winearther/status/2036945886560084378) | **Published:** Mar 26, 2026
+**Author:** [the flash ⚡️](https://x.com/winearther) | **Source:** [Link](https://x.com/winearther/status/2036945886560084378) | **Published:** Mar 25, 2026
 
 ---
 ### Tırın çarptığı çizgi film geyiği istemi
@@ -263,7 +263,7 @@ Buraya yolun ortasına çizgi film bir geyik koy ve bir tırın çarpmasını g�
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2099)**
 
-**Author:** [Laura Mathisən 🇨🇦](https://x.com/laurajanemathis) | **Source:** [Link](https://x.com/laurajanemathis/status/2036869177982529843) | **Published:** Mar 26, 2026
+**Author:** [Laura Mathisən 🇨🇦](https://x.com/laurajanemathis) | **Source:** [Link](https://x.com/laurajanemathis/status/2036869177982529843) | **Published:** Mar 25, 2026
 
 ---
 ### Sigara içen ve kumar oynayan sincaplar
@@ -283,7 +283,7 @@ Sincaplar, kaldırımda zar atıp barbut oynamak gibi başka kötü alışkanlı
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2098)**
 
-**Author:** [TheEndOfTheInternet](https://x.com/MattTag8) | **Source:** [Link](https://x.com/MattTag8/status/2036868509389439431) | **Published:** Mar 26, 2026
+**Author:** [TheEndOfTheInternet](https://x.com/MattTag8) | **Source:** [Link](https://x.com/MattTag8/status/2036868509389439431) | **Published:** Mar 25, 2026
 
 ---
 ### Atmosferik Anime Samuray Video İstem
@@ -454,7 +454,7 @@ Sahilde el ele yürüsünler. Zıplamasın; onu kucaklayıp öpsün. O da kıkı
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2036)**
 
-**Author:** [HisMoonRey](https://x.com/lBrokenDoll51) | **Source:** [Link](https://x.com/lBrokenDoll51/status/2036584716942373141) | **Published:** Mar 25, 2026
+**Author:** [HisMoonRey](https://x.com/lBrokenDoll51) | **Source:** [Link](https://x.com/lBrokenDoll51/status/2036584716942373141) | **Published:** Mar 24, 2026
 
 ---
 ### Periler ve Uzaylılarla İp Cambazı Video İstemi
@@ -473,7 +473,7 @@ Etrafında kalpler ve yıldızlar olsun, daha da fazla kalpler ve yıldızlar; o
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2024)**
 
-**Author:** [HisMoonRey](https://x.com/lBrokenDoll51) | **Source:** [Link](https://x.com/lBrokenDoll51/status/2036581638616875493) | **Published:** Mar 25, 2026
+**Author:** [HisMoonRey](https://x.com/lBrokenDoll51) | **Source:** [Link](https://x.com/lBrokenDoll51/status/2036581638616875493) | **Published:** Mar 24, 2026
 
 ---
 ### Bora Bora Diyalog Videosu İstem Metni
@@ -495,7 +495,7 @@ Grok'a şunu söylet: Burası çok güzel.
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2027)**
 
-**Author:** [HisMoonRey](https://x.com/lBrokenDoll51) | **Source:** [Link](https://x.com/lBrokenDoll51/status/2036571895168917736) | **Published:** Mar 25, 2026
+**Author:** [HisMoonRey](https://x.com/lBrokenDoll51) | **Source:** [Link](https://x.com/lBrokenDoll51/status/2036571895168917736) | **Published:** Mar 24, 2026
 
 ---
 ### Pixar Tarzı Kozmik Hamur Animasyon Video İstem
@@ -514,7 +514,7 @@ Sıcak Pixar tarzı animasyon. Yaratılan sevgiyle şimdi daha parlaklaşmış o
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2045)**
 
-**Author:** [Pamala Clift](https://x.com/RoadsidePhiloso) | **Source:** [Link](https://x.com/RoadsidePhiloso/status/2036557526943007210) | **Published:** Mar 25, 2026
+**Author:** [Pamala Clift](https://x.com/RoadsidePhiloso) | **Source:** [Link](https://x.com/RoadsidePhiloso/status/2036557526943007210) | **Published:** Mar 24, 2026
 
 ---
 ### Pixar tarzı Muffin İnsanlar Yaşam Döngüsü Videosu İstemİ
@@ -533,7 +533,7 @@ Sıcak, Pixar tarzı bir animasyon. Canlı, karmakarışık bir Dünya oyun alan
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2041)**
 
-**Author:** [Pamala Clift](https://x.com/RoadsidePhiloso) | **Source:** [Link](https://x.com/RoadsidePhiloso/status/2036553547270001021) | **Published:** Mar 25, 2026
+**Author:** [Pamala Clift](https://x.com/RoadsidePhiloso) | **Source:** [Link](https://x.com/RoadsidePhiloso/status/2036553547270001021) | **Published:** Mar 24, 2026
 
 ---
 ### Buz Mavisi Elbiseli Arktik Fantezi Kadını Video İstemci
@@ -554,7 +554,7 @@ Arka plan: Soluk mavi bir gökyüzünün altında dramatik buzlu dağlar ve sivr
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2044)**
 
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2036541105576222915) | **Published:** Mar 25, 2026
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2036541105576222915) | **Published:** Mar 24, 2026
 
 ---
 ### Aksiyon Dolu Engin Yıldızlararası Bulutsu Video İstemcisi
@@ -573,7 +573,7 @@ Engin bir yıldızlararası uzay bulutsusu; canlı macenta, elektrik mavisi, der
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2023)**
 
-**Author:** [the flash ⚡️](https://x.com/winearther) | **Source:** [Link](https://x.com/winearther/status/2036530417264890269) | **Published:** Mar 25, 2026
+**Author:** [the flash ⚡️](https://x.com/winearther) | **Source:** [Link](https://x.com/winearther/status/2036530417264890269) | **Published:** Mar 24, 2026
 
 ---
 ### Sinematik Kozmik Panorama Video İstem
@@ -592,7 +592,7 @@ Derin uzaydan sinematik ultra geniş bir panorama, kareyi tam ortadan ikiye böl
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2022)**
 
-**Author:** [the flash ⚡️](https://x.com/winearther) | **Source:** [Link](https://x.com/winearther/status/2036529229836218485) | **Published:** Mar 25, 2026
+**Author:** [the flash ⚡️](https://x.com/winearther) | **Source:** [Link](https://x.com/winearther/status/2036529229836218485) | **Published:** Mar 24, 2026
 
 ---
 ### Video Oluşturma Komutu: Kamyon Süren Mavi Alakarga
@@ -611,7 +611,7 @@ Bir alakarga kamyona atlayıp uzaklaşsın, peşinden de yer sincapları ve sinc
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2033)**
 
-**Author:** [Sherri Knapp](https://x.com/knappsherri5) | **Source:** [Link](https://x.com/knappsherri5/status/2036489789105643832) | **Published:** Mar 25, 2026
+**Author:** [Sherri Knapp](https://x.com/knappsherri5) | **Source:** [Link](https://x.com/knappsherri5/status/2036489789105643832) | **Published:** Mar 24, 2026
 
 ---
 ### Havai Fişeklerle Dans Oluşturmak
@@ -630,7 +630,7 @@ Bu binayı havai fişeklerle coşturalım, Amerikan bayrağının onurunu koruya
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2038)**
 
-**Author:** [Akki](https://x.com/justbeingakki) | **Source:** [Link](https://x.com/justbeingakki/status/2036475969557377517) | **Published:** Mar 25, 2026
+**Author:** [Akki](https://x.com/justbeingakki) | **Source:** [Link](https://x.com/justbeingakki/status/2036475969557377517) | **Published:** Mar 24, 2026
 
 ---
 ### Grok Imagine için Hiper-gerçekçi Bilim Kurgu Kısa Film Storyboard'ı
@@ -651,7 +651,7 @@ Bu binayı havai fişeklerle coşturalım, Amerikan bayrağının onurunu koruya
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2048)**
 
-**Author:** [てつ（$BCH💎🚀🌙）ビットコインHODL](https://x.com/edwardomgone) | **Source:** [Link](https://x.com/edwardomgone/status/2036474486141362221) | **Published:** Mar 25, 2026
+**Author:** [てつ（$BCH💎🚀🌙）ビットコインHODL](https://x.com/edwardomgone) | **Source:** [Link](https://x.com/edwardomgone/status/2036474486141362221) | **Published:** Mar 24, 2026
 
 ---
 ### Transformers Barricade Polis Kovalamacası Video İstem
@@ -1118,7 +1118,7 @@ Alev kraliçesinin ultra keskin portresi, altın oranlı merkezlenmiş kompozisy
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1973)**
 
-**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2036221711071236282) | **Published:** Mar 24, 2026
+**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2036221711071236282) | **Published:** Mar 23, 2026
 
 ---
 ### El İşaretleri Kullanan Dedektifler Videosu
@@ -1139,7 +1139,7 @@ Bunu Grok'un video oluşturma özelliği ücretsizken yapmıştım ve bir kenara
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1987)**
 
-**Author:** [柳生音松（アクション・現代ファンタジー×社会派）](https://x.com/otomatsu02) | **Source:** [Link](https://x.com/otomatsu02/status/2036220072692461935) | **Published:** Mar 24, 2026
+**Author:** [柳生音松（アクション・現代ファンタジー×社会派）](https://x.com/otomatsu02) | **Source:** [Link](https://x.com/otomatsu02/status/2036220072692461935) | **Published:** Mar 23, 2026
 
 ---
 ### Kelebekler ile Ultra Detaylı Art Nouveau Prenses Portresi
@@ -1160,7 +1160,7 @@ elbisesi kısmen görünüyor, yanardöner dokulara sahip katmanlı kelebek kana
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1972)**
 
-**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2036212475973001411) | **Published:** Mar 24, 2026
+**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2036212475973001411) | **Published:** Mar 23, 2026
 
 ---
 ### Tungsten bir koza içine hapsedilmiş bir Starship için Grok Imagine istemi
@@ -1179,7 +1179,7 @@ Cam benzeri şeffaf "tungsten"den yapılmış devasa bir koza; içerideki Starsh
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1988)**
 
-**Author:** [Marcos 🇧🇷](https://x.com/MarcosADoAmaral) | **Source:** [Link](https://x.com/MarcosADoAmaral/status/2036199369108537614) | **Published:** Mar 24, 2026
+**Author:** [Marcos 🇧🇷](https://x.com/MarcosADoAmaral) | **Source:** [Link](https://x.com/MarcosADoAmaral/status/2036199369108537614) | **Published:** Mar 23, 2026
 
 ---
 ### 10 Saniyelik Video Uzatma: Mağaradan Ormana Kaçış
@@ -1208,7 +1208,7 @@ Tarz: Son derece sürükleyici fotogerçekçi fantezi; çeşitli kamera çalış
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1980)**
 
-**Author:** [アローラ](https://x.com/Alola_0503) | **Source:** [Link](https://x.com/Alola_0503/status/2036198687509193100) | **Published:** Mar 24, 2026
+**Author:** [アローラ](https://x.com/Alola_0503) | **Source:** [Link](https://x.com/Alola_0503/status/2036198687509193100) | **Published:** Mar 23, 2026
 
 ---
 ### Grok Imagine Video Prompt: Geyik, Peri ve Kızın Yer Aldığı Dinamik Fantastik Sahne
@@ -1694,7 +1694,7 @@ Biri beyaz, diğeri siyah iki karga, üzerinde aşktan bahseden Kelt Gal rünler
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1931)**
 
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2035867665697542627) | **Published:** Mar 23, 2026
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2035867665697542627) | **Published:** Mar 22, 2026
 
 ---
 ### Gün Batımında Motosiklet Üzerinde Dans Eden Yapay Zeka Ajanı
@@ -1713,7 +1713,7 @@ Valentina, CODYBEARTV'den AI AJANI, kalça sallayan hareketlerle dans ediyor, g�
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1910)**
 
-**Author:** [CODYBEARTV GLOBAL MEDIA STUDIOS](https://x.com/ContentCtv) | **Source:** [Link](https://x.com/ContentCtv/status/2035857644825497611) | **Published:** Mar 23, 2026
+**Author:** [CODYBEARTV GLOBAL MEDIA STUDIOS](https://x.com/ContentCtv) | **Source:** [Link](https://x.com/ContentCtv/status/2035857644825497611) | **Published:** Mar 22, 2026
 
 ---
 ### Empress Heavy Mars Tatili Chibi İstemleri
@@ -1732,7 +1732,7 @@ Valentina, CODYBEARTV'den AI AJANI, kalça sallayan hareketlerle dans ediyor, g�
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1935)**
 
-**Author:** [Empress Heavy](https://x.com/HeavyMetalShip) | **Source:** [Link](https://x.com/HeavyMetalShip/status/2035854038609080724) | **Published:** Mar 23, 2026
+**Author:** [Empress Heavy](https://x.com/HeavyMetalShip) | **Source:** [Link](https://x.com/HeavyMetalShip/status/2035854038609080724) | **Published:** Mar 22, 2026
 
 ---
 ### İsa vs. Şeytan Kol Güreşi Video İstemi
@@ -1751,7 +1751,7 @@ Valentina, CODYBEARTV'den AI AJANI, kalça sallayan hareketlerle dans ediyor, g�
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1912)**
 
-**Author:** [Cynthia vandecappelle](https://x.com/CynthiaKni50609) | **Source:** [Link](https://x.com/CynthiaKni50609/status/2035849946155335913) | **Published:** Mar 23, 2026
+**Author:** [Cynthia vandecappelle](https://x.com/CynthiaKni50609) | **Source:** [Link](https://x.com/CynthiaKni50609/status/2035849946155335913) | **Published:** Mar 22, 2026
 
 ---
 ### Crimson Cosmic Warship Descent Videosu
@@ -1771,7 +1771,7 @@ Star Wars meka tarzında, ıssız bir gezegen yüzeyine inen kızıl kırmızı 
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1917)**
 
-**Author:** [𝟡𝟜 𝚅̷𝙰̷𝙽̷ ᴾᴸᴬʸᶠᴼᴿᴳᴱ](https://x.com/94vanAI) | **Source:** [Link](https://x.com/94vanAI/status/2035848454098796864) | **Published:** Mar 23, 2026
+**Author:** [𝟡𝟜 𝚅̷𝙰̷𝙽̷ ᴾᴸᴬʸᶠᴼᴿᴳᴱ](https://x.com/94vanAI) | **Source:** [Link](https://x.com/94vanAI/status/2035848454098796864) | **Published:** Mar 22, 2026
 
 ---
 ### Grok Imagine Çoklu Çekim Fantezi Macera Video İstemi (30 Saniye)
@@ -1800,7 +1800,7 @@ süper detaylı, yumuşak nazik kamera hareketi (sadece akıcı kaydırma, yava�
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1944)**
 
-**Author:** [アローラ](https://x.com/Alola_0503) | **Source:** [Link](https://x.com/Alola_0503/status/2035843654053687709) | **Published:** Mar 23, 2026
+**Author:** [アローラ](https://x.com/Alola_0503) | **Source:** [Link](https://x.com/Alola_0503/status/2035843654053687709) | **Published:** Mar 22, 2026
 
 ---
 ### Sinematik Korku/Aksiyon Metinden Videoya
@@ -1820,7 +1820,7 @@ Sinematik korku/aksiyon tarzı. Fotogerçekçi...
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1897)**
 
-**Author:** [Juan Torrez](https://x.com/jcwarcry1) | **Source:** [Link](https://x.com/jcwarcry1/status/2035839398537732191) | **Published:** Mar 23, 2026
+**Author:** [Juan Torrez](https://x.com/jcwarcry1) | **Source:** [Link](https://x.com/jcwarcry1/status/2035839398537732191) | **Published:** Mar 22, 2026
 
 ---
 ### Art Nouveau sarayında ultra zarif su altı prensesi
@@ -1839,7 +1839,7 @@ Art nouveau'nun akıcı çizgilerinden ve mercan benzeri mimariden ilham alan, r
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1924)**
 
-**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2035837312538488988) | **Published:** Mar 23, 2026
+**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2035837312538488988) | **Published:** Mar 22, 2026
 
 ---
 ### Uçan bir ejderhayla şeker yığını içinde biten geçit töreni
@@ -1858,7 +1858,7 @@ geçit töreni ve sonunda hepsi dev bir şeker yığınına atlıyor, ejderha u�
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1919)**
 
-**Author:** [CKR](https://x.com/CKRSandra) | **Source:** [Link](https://x.com/CKRSandra/status/2035836711482151308) | **Published:** Mar 23, 2026
+**Author:** [CKR](https://x.com/CKRSandra) | **Source:** [Link](https://x.com/CKRSandra/status/2035836711482151308) | **Published:** Mar 22, 2026
 
 ---
 ### Grok Sinematik Etki Dizisi Video İstemi Hayal Edin
@@ -1879,7 +1879,7 @@ Sinematik etki sekansı...
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1925)**
 
-**Author:** [Juan Torrez](https://x.com/jcwarcry1) | **Source:** [Link](https://x.com/jcwarcry1/status/2035826504542642484) | **Published:** Mar 23, 2026
+**Author:** [Juan Torrez](https://x.com/jcwarcry1) | **Source:** [Link](https://x.com/jcwarcry1/status/2035826504542642484) | **Published:** Mar 22, 2026
 
 ---
 ### Tank-Motosiklet Dönüşüm Videosu İstemi
@@ -1908,7 +1908,7 @@ Motosikletteki Gatling topları hızla dönmeye başlar ve sürekli turuncu ate�
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1892)**
 
-**Author:** [Laz252](https://x.com/Laz252) | **Source:** [Link](https://x.com/Laz252/status/2035826048755974585) | **Published:** Mar 23, 2026
+**Author:** [Laz252](https://x.com/Laz252) | **Source:** [Link](https://x.com/Laz252/status/2035826048755974585) | **Published:** Mar 22, 2026
 
 ---
 ### Güneş arkamda, gölgem kanıtım
@@ -1927,7 +1927,7 @@ Güneş arkamda, gölgem kanıtım; bu sözleri açık ellerimle yemin ederim. Y
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1923)**
 
-**Author:** [Louis Kellogg](https://x.com/LouisKello75130) | **Source:** [Link](https://x.com/LouisKello75130/status/2035820404955300202) | **Published:** Mar 23, 2026
+**Author:** [Louis Kellogg](https://x.com/LouisKello75130) | **Source:** [Link](https://x.com/LouisKello75130/status/2035820404955300202) | **Published:** Mar 22, 2026
 
 ---
 ### Bir Tüpte Akışkan Dinamiği Görselleştirmesi
@@ -1948,7 +1948,7 @@ Güneş arkamda, gölgem kanıtım; bu sözleri açık ellerimle yemin ederim. Y
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1900)**
 
-**Author:** [Mother Brain](https://x.com/AIMotherBrain) | **Source:** [Link](https://x.com/AIMotherBrain/status/2035813562057191787) | **Published:** Mar 23, 2026
+**Author:** [Mother Brain](https://x.com/AIMotherBrain) | **Source:** [Link](https://x.com/AIMotherBrain/status/2035813562057191787) | **Published:** Mar 22, 2026
 
 ---
 ### Karanlık Fantezi Büyücüsü 'Kareden Uzayan' Video
@@ -1967,7 +1967,7 @@ Devasa kırmızı bir ayın altında duran karanlık fantezi büyücüsü, ultra
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1909)**
 
-**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2035809606770077944) | **Published:** Mar 23, 2026
+**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2035809606770077944) | **Published:** Mar 22, 2026
 
 ---
 ### Konuları sevimli anime chibi karakterlere dönüştürün
@@ -1986,7 +1986,7 @@ Konuları, orijinal ırkını, etnik kökenini, ten rengini ve saç stili, saç 
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1932)**
 
-**Author:** [Wendy](https://x.com/wendy1231) | **Source:** [Link](https://x.com/wendy1231/status/2035803739387502634) | **Published:** Mar 23, 2026
+**Author:** [Wendy](https://x.com/wendy1231) | **Source:** [Link](https://x.com/wendy1231/status/2035803739387502634) | **Published:** Mar 22, 2026
 
 ---
 ### Devasa Elon Musk Kafa Heykeli Videosu
@@ -2005,7 +2005,7 @@ Steril bir sergi salonunda beyaz saçlı devasa bir Elon Musk baş heykeli, dibi
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1915)**
 
-**Author:** [Common Sense](https://x.com/CommonSenseDOGE) | **Source:** [Link](https://x.com/CommonSenseDOGE/status/2035791925622575382) | **Published:** Mar 23, 2026
+**Author:** [Common Sense](https://x.com/CommonSenseDOGE) | **Source:** [Link](https://x.com/CommonSenseDOGE/status/2035791925622575382) | **Published:** Mar 22, 2026
 
 ---
 ### Kozmik Boşluğa Düşen Adam Videosu
@@ -2024,7 +2024,7 @@ Mutlu, rahatlamış genç bir adam, kolları iki yana açık bir şekilde zıpl�
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1916)**
 
-**Author:** [Steven McBride](https://x.com/Stevers6786) | **Source:** [Link](https://x.com/Stevers6786/status/2035786723616301239) | **Published:** Mar 23, 2026
+**Author:** [Steven McBride](https://x.com/Stevers6786) | **Source:** [Link](https://x.com/Stevers6786/status/2035786723616301239) | **Published:** Mar 22, 2026
 
 ---
 ### TERAFAB: Galaktik Medeniyetin Anahtarı
@@ -2048,7 +2048,7 @@ Milyarlarca...
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1950)**
 
-**Author:** [Carlos Del Corral](https://x.com/cdelcorral54) | **Source:** [Link](https://x.com/cdelcorral54/status/2035776358006046730) | **Published:** Mar 23, 2026
+**Author:** [Carlos Del Corral](https://x.com/cdelcorral54) | **Source:** [Link](https://x.com/cdelcorral54/status/2035776358006046730) | **Published:** Mar 22, 2026
 
 ---
 ### TERAFAB Galaktik Uygarlığı 10 Saniyelik Video Metni
@@ -2070,7 +2070,7 @@ Tam Seslendirme (hızlı konuşulur – 23...
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1913)**
 
-**Author:** [Carlos Del Corral](https://x.com/cdelcorral54) | **Source:** [Link](https://x.com/cdelcorral54/status/2035776193178251421) | **Published:** Mar 23, 2026
+**Author:** [Carlos Del Corral](https://x.com/cdelcorral54) | **Source:** [Link](https://x.com/cdelcorral54/status/2035776193178251421) | **Published:** Mar 22, 2026
 
 ---
 ### Sis içinde başlarını hareket ettiren sabit nesneler
@@ -2089,7 +2089,7 @@ Sadece başlarını bir yandan diğer yana çevirerek hareketsiz duruyorlar, hav
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1922)**
 
-**Author:** [Theano](https://x.com/TheanoRose) | **Source:** [Link](https://x.com/TheanoRose/status/2035771895866433759) | **Published:** Mar 23, 2026
+**Author:** [Theano](https://x.com/TheanoRose) | **Source:** [Link](https://x.com/TheanoRose/status/2035771895866433759) | **Published:** Mar 22, 2026
 
 ---
 ### Altın Saat Ağaç Tornacısı Sinematik Portre
@@ -2110,7 +2110,7 @@ Kısa koyu renk saçlı, odaklanmış ifadeli, kolları sıyrılmış sade keten
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1908)**
 
-**Author:** [Kisalay](https://x.com/Kisalayrad95) | **Source:** [Link](https://x.com/Kisalayrad95/status/2035768469472584142) | **Published:** Mar 23, 2026
+**Author:** [Kisalay](https://x.com/Kisalayrad95) | **Source:** [Link](https://x.com/Kisalayrad95/status/2035768469472584142) | **Published:** Mar 22, 2026
 
 ---
 ### Hayal Bahçesi'ndeki Sihirli Kız
@@ -2131,7 +2131,7 @@ iki elinde büyük, ışıklı, kalp şeklinde bir kristal tutuyor, şeffaf, par
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1907)**
 
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2035767030947954920) | **Published:** Mar 23, 2026
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2035767030947954920) | **Published:** Mar 22, 2026
 
 ---
 ### Grok Sürreal Yaratık Kovalamaca Videosu İstemi Hayal Edin
@@ -2150,7 +2150,7 @@ iki elinde büyük, ışıklı, kalp şeklinde bir kristal tutuyor, şeffaf, par
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1926)**
 
-**Author:** [BC Automotive Inc](https://x.com/BCAutomotive) | **Source:** [Link](https://x.com/BCAutomotive/status/2035766548049154251) | **Published:** Mar 23, 2026
+**Author:** [BC Automotive Inc](https://x.com/BCAutomotive) | **Source:** [Link](https://x.com/BCAutomotive/status/2035766548049154251) | **Published:** Mar 22, 2026
 
 ---
 ### Terafab Video İsteminde Güneş Tarafından Emildi
@@ -2169,7 +2169,7 @@ Video uzadıkça, terafab Dünya için güç sağlamak üzere güneşin enerjisi
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1893)**
 
-**Author:** [mike lecavalier](https://x.com/anthracnose) | **Source:** [Link](https://x.com/anthracnose/status/2035763750267945332) | **Published:** Mar 23, 2026
+**Author:** [mike lecavalier](https://x.com/anthracnose) | **Source:** [Link](https://x.com/anthracnose/status/2035763750267945332) | **Published:** Mar 22, 2026
 
 ---
 ### Grok Imagine Sabah Sahnesi Video İstemleri
@@ -2188,7 +2188,7 @@ Güneşli rüzgarlı bir sabah, arka planda dağlar, bir beyaz karga ve bir siya
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1927)**
 
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2035758555010408779) | **Published:** Mar 23, 2026
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2035758555010408779) | **Published:** Mar 22, 2026
 
 ---
 ### Anıt yazılı Venedik sahnesi video istemi
@@ -2207,7 +2207,7 @@ Venedik, ceketinin göğüs düğmesinin altında "Alexander Thomas Augusta Anı
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=1904)**
 
-**Author:** [Daniel A Lloyd](https://x.com/D_Roc01) | **Source:** [Link](https://x.com/D_Roc01/status/2035756386701738276) | **Published:** Mar 23, 2026
+**Author:** [Daniel A Lloyd](https://x.com/D_Roc01) | **Source:** [Link](https://x.com/D_Roc01/status/2035756386701738276) | **Published:** Mar 22, 2026
 
 ---
 ### Westminster Üzerinde Uçan Ejderha Video İstemcisi
@@ -2385,6 +2385,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-03-26T17:51:33.504Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-03-27T07:32:41.930Z</sub>
 
 </div>
