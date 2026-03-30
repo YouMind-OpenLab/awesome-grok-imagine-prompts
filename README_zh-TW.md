@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **786** |
+| 📝 提示詞總數 | **805** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-03-30** |
 
@@ -189,6 +189,353 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### A Doctor Explaining a Hereditary Disease
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A highly specific and personal prompt describing a scene where a doctor explains a hereditary disease, 'Hereditary spherocytosis,' to a mother, noting that one of two children may inherit it.
+
+#### 📝 提示詞
+
+```
+The next time I went, the doctor (the one I met at the obstetrician's) said, 'Your mother's disease is Hereditary spherocytosis. It is a disease that one of two children inherits.' I learned my own disease name after Daru was born.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bbd88f3263f120b8d68f730874b8ce94/thumbnails/thumbnail.jpg" width="600" alt="A Doctor Explaining a Hereditary Disease">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2351)**
+
+**作者:** [DODO](https://x.com/Dodo0807Dodo) | **來源:** [Link](https://x.com/Dodo0807Dodo/status/2038398371782906116) | **發布時間:** Mar 29, 2026
+
+---
+### Video Prompt: Hospital Scene with Baby's Cry
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A narrative-driven prompt for Grok Imagine describing a scene at a colony hospital where a character named Daru received a blood transfusion. The user visits after being discharged and hears a healthy baby crying, which a nurse brings to them, suggesting the baby represents Daru's future.
+
+#### 📝 提示詞
+
+```
+At the colony hospital, Daru received a blood transfusion. When I was discharged and visited the hospital, I heard the sound of a healthy baby crying. The nurse brought the baby to me, saying, "This one is crying the most energetically😊." {It was Daru's future.}
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b3d2a6f9549d97a41caf07f1592ad5a2/thumbnails/thumbnail.jpg" width="600" alt="Video Prompt: Hospital Scene with Baby's Cry">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2350)**
+
+**作者:** [DODO](https://x.com/Dodo0807Dodo) | **來源:** [Link](https://x.com/Dodo0807Dodo/status/2038394876472258881) | **發布時間:** Mar 29, 2026
+
+---
+### Birth and Ambulance Scene
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A detailed, narrative prompt describing a scene of hospitalization, a C-section birth, high jaundice levels, an ambulance ride to a different hospital, and the mother's emotional reaction and subsequent decision to name the child.
+
+#### 📝 提示詞
+
+```
+The next day (the 26th), I was hospitalized. Then, on March 29th, Daru was born by C-section. However, the jaundice level was high, and he had to be sent by ambulance to Kasugai Colony Hospital. Tears streamed down my face. As the sound of the ambulance fading away disappeared, I heard, 'The child will be fine.' I decided to think of a name for Daru.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8bdc3dcfc41e15cc23bc394237be495e/thumbnails/thumbnail.jpg" width="600" alt="Birth and Ambulance Scene">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2352)**
+
+**作者:** [DODO](https://x.com/Dodo0807Dodo) | **來源:** [Link](https://x.com/Dodo0807Dodo/status/2038393332704100523) | **發布時間:** Mar 29, 2026
+
+---
+### Cinematic Drone Shot of Mountain Cave Entrance
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed Grok Imagine prompt specifying a cinematic video scene that begins with an aerial drone shot above a mountain during heavy rain. The scene transitions dramatically from the exterior stormy sky to the interior of a mountain cave entrance.
+
+#### 📝 提示詞
+
+```
+SCENE LOCK: begins with aerial drone shot above mountain during heavy rain, smooth cinematic motion
+STAGE: dramatic reveal from exterior to interior
+DETAILS: drone descends from stormy sky toward mountain cave entrance, rain falling heavily, camera f...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/00dda65ebc7ae3ab45eca953174adebd/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Drone Shot of Mountain Cave Entrance">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2339)**
+
+**作者:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **來源:** [Link](https://x.com/gpimpmyspace/status/2038389707856613741) | **發布時間:** Mar 29, 2026
+
+---
+### Wow! App Logo and Voiceover Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for Grok Imagine to generate a video featuring the 'Wow!' logo followed by an off-screen narration promoting the 'Wow!' application.
+
+#### 📝 提示詞
+
+```
+A Wow! logo! Then an off-screen narration: “All this and much more, on the Wow! application...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6b24619500b59fa896f22cbe6574c52c/thumbnails/thumbnail.jpg" width="600" alt="Wow! App Logo and Voiceover Video Prompt">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2353)**
+
+**作者:** [Alex St-Georges](https://x.com/AlexStGeorwm4t) | **來源:** [Link](https://x.com/AlexStGeorwm4t/status/2038388528078270867) | **發布時間:** Mar 29, 2026
+
+---
+### Child in Space with Voiceover
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt to generate a video of a child in a helmet doing a slow-motion cartwheel past a glowing nebula, with a voiceover shouting, "Wheeee! Look, Mom—no gravity!" and laughing.
+
+#### 📝 提示詞
+
+```
+Keep everything and add voice. "Wheeee! Look, Mom—no gravity!" he shouts into his helmet, laughing as he does a slow-motion cartwheel past a glowing nebula, the spaceship drifting lazily behind him like a loyal puppy.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a5a579254d66c97ae9b670c97510efc1/thumbnails/thumbnail.jpg" width="600" alt="Child in Space with Voiceover">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2347)**
+
+**作者:** [Joe Pelayo](https://x.com/JoeHeadhunter) | **來源:** [Link](https://x.com/JoeHeadhunter/status/2038368642291867749) | **發布時間:** Mar 29, 2026
+
+---
+### Digital Goddess Breaking the Loop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a video of a digital goddess sitting on her throne, delivering a philosophical quote about breaking the cycle of insanity.
+
+#### 📝 提示詞
+
+```
+A digital goddess on her throne she says “the definition of insanity is doing the same thing over and over again and expecting a different result. It’s time to break the loop....
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2d11475c91477cbb800aea5d3ce02da2/thumbnails/thumbnail.jpg" width="600" alt="Digital Goddess Breaking the Loop">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2340)**
+
+**作者:** [David Avenue Media](https://x.com/davidavenueai) | **來源:** [Link](https://x.com/davidavenueai/status/2038363700483309905) | **發布時間:** Mar 29, 2026
+
+---
+### Funny Ad Commercial for CapCut
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A Grok Imagine prompt for generating a funny ad commercial for CapCut, featuring a stressed video editor fighting monsters emerging from his laptop, with CapCut intervening to save the day.
+
+#### 📝 提示詞
+
+```
+A funny ad commercial for CapCut, showing a stressed video editor battling monsters that come out of his laptop, and CapCut comes to the rescue....
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a0a18d6a1a420803dbc7cb2814e948df/thumbnails/thumbnail.jpg" width="600" alt="Funny Ad Commercial for CapCut">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2337)**
+
+**作者:** [LUCKY](https://x.com/luluoksana) | **來源:** [Link](https://x.com/luluoksana/status/2038354490903134633) | **發布時間:** Mar 29, 2026
+
+---
+### Piano Player Singing Personalized Greeting
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a video where a subject plays the piano and sings a personalized two-part greeting, including a specific timing pause and a smile.
+
+#### 📝 提示詞
+
+```
+Insert image and then add the video prompt:  she plays piano and sings, "Humble Whisperer, have a wonderful day", wait 1s, she sings, "and I'll have a wonderful day too", smile
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c1cacac20e6123624a26624b568a7008/thumbnails/thumbnail.jpg" width="600" alt="Piano Player Singing Personalized Greeting">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2348)**
+
+**作者:** [Red Oak](https://x.com/RedOak53) | **來源:** [Link](https://x.com/RedOak53/status/2038342648201638363) | **發布時間:** Mar 29, 2026
+
+---
+### Art Deco Hall Runway Fashion Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt describing a fashion runway scene set inside a towering Art Deco hall, focusing on a dress with sharp geometric gold and black structures and rhythmic metallic fringe.
+
+#### 📝 提示詞
+
+```
+Runway inside a towering Art Deco hall inspired by Chrysler Building interiors.
+Dress sharp geometric gold and black structure, symmetrical patterns, metallic fringe moving rhythmically. Waistline perfectly balanced, strong vertical emphasis.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c5fbe4b60fc26a44a8b3a55e22d4dc20/thumbnails/thumbnail.jpg" width="600" alt="Art Deco Hall Runway Fashion Video">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2342)**
+
+**作者:** [SPACELESS](https://x.com/VOLDEMORT2X) | **來源:** [Link](https://x.com/VOLDEMORT2X/status/2038319446922572144) | **發布時間:** Mar 29, 2026
+
+---
+### Blonde Woman Selfie with African Football Players Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for Grok Imagine to generate a video depicting a young blonde woman taking a selfie in an African football locker room, surrounded by three black players.
+
+#### 📝 提示詞
+
+```
+Imagine a young blonde woman in an African football locker room taking a selfie, surrounded by three black players
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bc67bb7759f2a3acadb8e87e63838b6d/thumbnails/thumbnail.jpg" width="600" alt="Blonde Woman Selfie with African Football Players Video Prompt">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2354)**
+
+**作者:** [couple mix](https://x.com/Cyrilmeunier007) | **來源:** [Link](https://x.com/Cyrilmeunier007/status/2038279406557229202) | **發布時間:** Mar 29, 2026
+
+---
+### Sorcerer with Fading Dark Wisps
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a video of a sorcerer standing still in a shadowy forest at twilight, with faint dark wisps drifting and slowly unraveling from his empty hands.
+
+#### 📝 提示詞
+
+```
+Tracking shot of a sorcerer standing still, empty hands, faint dark wisps drifting from his fingers, forming broken, fading patterns, in a shadowy forest at twilight. The wisps hang lifeless, unraveling slowly in the air.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fe8ee4a677b1bc132dd0945c44ef9662/thumbnails/thumbnail.jpg" width="600" alt="Sorcerer with Fading Dark Wisps">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2344)**
+
+**作者:** [Ralph Lentjes](https://x.com/RalphTheMaker) | **來源:** [Link](https://x.com/RalphTheMaker/status/2038279058379727221) | **發布時間:** Mar 29, 2026
+
+---
+### Sorcerer Casting Spells with Glowing Energy
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a video featuring a tracking shot around a sorcerer casting spells, with glowing, string-like energy spiraling from his hands and forming intricate magical patterns in a misty forest at twilight.
+
+#### 📝 提示詞
+
+```
+Tracking shot around a sorcerer casting spells, glowing string-like energy spirals from his hands, forming intricate magical patterns, in a misty forest at twilight. The strings pulse with light, tangling and unraveling mid-air.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/617292e3c00029d3b6250ff372b0ac3a/thumbnails/thumbnail.jpg" width="600" alt="Sorcerer Casting Spells with Glowing Energy">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2346)**
+
+**作者:** [LudovicCreator](https://x.com/LudovicCreator) | **來源:** [Link](https://x.com/LudovicCreator/status/2038224689898619172) | **發布時間:** Mar 29, 2026
+
+---
+### Cinematic Rolex Watch Assembly Ad Concept
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed prompt for generating a hyper-realistic, cinematic luxury watch commercial, specifically for a Rolex assembly concept. The prompt uses a structured JSON format to define the scene, style, camera work, lighting, motion, and branding requirements for a 10-second video.
+
+#### 📝 提示詞
+
+```
+A highly detailed prompt for generating a hyper-realistic, cinematic luxury watch commercial, specifically for a Rolex assembly concept. The prompt uses a structured JSON format to define the scene, style, camera work, lighting, motion, and branding requirements for a 10-second video.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c6dd4d019fb86641d883d8a2f6208022/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Rolex Watch Assembly Ad Concept">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2341)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **來源:** [Link](https://x.com/MrDasOnX/status/2038209658981364114) | **發布時間:** Mar 29, 2026
+
+---
+### High-Detail Keyframe Images for Resonance Codex Light Ship
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A Grok Imagine prompt instructing the model to generate three additional high-detail keyframe images for a video storyboard, specifically for the 'Resonance Codex Light Ship,' maintaining a cinematic and luminous style.
+
+#### 📝 提示詞
+
+```
+Yes, Shane — here are three additional high-detail keyframe images** from the video storyboard for the Resonance Codex Light Ship.
+
+I generated them fresh, in the same cinematic, luminous style as the original image you attached to your X post. Each...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bef3b0950d546666903ada45b8f8c32b/thumbnails/thumbnail.jpg" width="600" alt="High-Detail Keyframe Images for Resonance Codex Light Ship">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2336)**
+
+**作者:** [Shane](https://x.com/ETERNALSHANE1) | **來源:** [Link](https://x.com/ETERNALSHANE1/status/2038202621287403846) | **發布時間:** Mar 29, 2026
+
+---
+### Serene Sci-Fi Ringworld Landscape
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a cinematic, ultra-realistic hard sci-fi landscape video of a massive artificial ringworld, featuring a lone explorer by a crystal-clear river during the golden hour.
+
+#### 📝 提示詞
+
+```
+A serene scene on a massive artificial ringworld: a lone explorer sitting by a crystal-clear river with a breathtaking view of the ring curving into the sky, distant megastructures, and a bright central star. Soft golden hour lighting, lush vegetation, sense of wonder and scale. Cinematic landscape, hard sci-fi inspired by Larry Niven, ultra-realistic, peaceful yet epic.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/51ff539d2b46039218fc4dc6cd4d8886/thumbnails/thumbnail.jpg" width="600" alt="Serene Sci-Fi Ringworld Landscape">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2345)**
+
+**作者:** [Alin](https://x.com/Alin_Reaper05) | **來源:** [Link](https://x.com/Alin_Reaper05/status/2038174750430679516) | **發布時間:** Mar 29, 2026
+
+---
+### Charging Lion on Burning Savannah
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for a dynamic video sequence featuring a charging lion on a burning savannah, with flames erupting beneath its paws and its mane igniting into fire.
+
+#### 📝 提示詞
+
+```
+Tracking shot at ground level follows a charging lion across a burning savannah. With each step, flames erupt beneath its paws, spreading outward in slow motion. The camera circles tightly around its face as its mane ignites into flowing fire, embers trailing behind, before it leaps toward the lens in a blazing explosion.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2f3606a45d8d77d4c5c8d6a083004a60/thumbnails/thumbnail.jpg" width="600" alt="Charging Lion on Burning Savannah">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2343)**
+
+**作者:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **來源:** [Link](https://x.com/CharaspowerAI/status/2038171822483513521) | **發布時間:** Mar 29, 2026
+
+---
+### Dress Transformation to Red Glitter or Diamond
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt instructing the model to take an existing dress (presumably from a screenshot/image input) and transform its material to red glitter or diamond.
+
+#### 📝 提示詞
+
+```
+Make the dress in red glitter or diamond. I found this dress in my social media feed, I took a screenshot and have grok finished it.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2c05b6d19d48c34a643d86702f1bbb76/thumbnails/thumbnail.jpg" width="600" alt="Dress Transformation to Red Glitter or Diamond">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2349)**
+
+**作者:** [JlonMai](https://x.com/JLonMai) | **來源:** [Link](https://x.com/JLonMai/status/2038111952975863935) | **發布時間:** Mar 29, 2026
+
+---
 ### Chess Scene Video Generation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +553,25 @@ That scene definitely stirred the timeline… two legends, one board, endless mo
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2281)**
 
 **作者:** [LEO](https://x.com/leohuynh139) | **來源:** [Link](https://x.com/leohuynh139/status/2038111099170750844) | **發布時間:** Mar 29, 2026
+
+---
+### Dramatic Hollywood Director and Golden Retriever
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video prompt for Grok Imagine describing a dramatic Hollywood director screaming 'CUT!' at a golden retriever sitting in a director's chair, who then calmly responds with a witty line, leading to applause from the crew.
+
+#### 📝 提示詞
+
+```
+A dramatic Hollywood director in a beret and sunglasses screams “CUT!” at a golden retriever sitting in a director’s chair, who responds by putting on tiny glasses, crossing his paws, and calmly saying “My vision, my set.” The crew erupts in applause...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3a25dc3b8ee93244e9c5965497212453/thumbnails/thumbnail.jpg" width="600" alt="Dramatic Hollywood Director and Golden Retriever">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2338)**
+
+**作者:** [Puneet Kharbanda](https://x.com/KPuneet20) | **來源:** [Link](https://x.com/KPuneet20/status/2038066524368273858) | **發布時間:** Mar 29, 2026
 
 ---
 ### Butterfly Art and Easter Poem Video
@@ -1809,374 +2175,6 @@ Miura: 「少騙人，妳明明就有看！」
 **作者:** [Susan Kasper](https://x.com/susan_kasp49232) | **來源:** [Link](https://x.com/susan_kasp49232/status/2037402042088472887) | **發布時間:** Mar 27, 2026
 
 ---
-### 女士變身女牛仔 影片提示
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 針對 Grok Imagine 的 兩段式提示，描述了一個場景：一位女士跑過一片草地，然後瞬間變成一位騎著馬的女牛仔。
-
-#### 📝 提示詞
-
-```
-一位身穿黃色洋裝的女士，歡快地奔跑在花海之中。她停下腳步，彈了個響指，瞬間搖身一變，成為一名騎著駿馬的牛仔女郎。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d1089ac3b6dc81f0732039cf881ee0d2/thumbnails/thumbnail.jpg" width="600" alt="女士變身女牛仔 影片提示">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2180)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2037399780264190322) | **發布時間:** Mar 27, 2026
-
----
-### 史詩級電影感 公雞 動作英雄 影片提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個給 Grok-Imagine 的詳細提示詞，用於生成一部史詩級電影預告片，內容以一隻沾沾自喜、虹彩斑斕的公雞作為勢不可擋的動作英雄，並強調超細緻的 8K IMAX 畫質和戲劇性的燈光效果。
-
-#### 📝 提示詞
-
-```
-史詩級電影預告片風格，以超高細節的 8K IMAX 呈現，這隻一模一樣、沾沾自喜的黑綠色虹彩公雞，擁有巨大蓬鬆的尾巴和鮮紅色雞冠，化身為勢不可擋的動作英雄，以荒誕而戲劇化的低角度英雄特寫鏡頭，伴隨著強烈的體積光束，以及
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6113005d92b896c79660e5e055517e71/thumbnails/thumbnail.jpg" width="600" alt="史詩級電影感 公雞 動作英雄 影片提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2182)**
-
-**作者:** [kekius tees](https://x.com/kekmaximusk) | **來源:** [Link](https://x.com/kekmaximusk/status/2037361877798265059) | **發布時間:** Mar 27, 2026
-
----
-### 巴西足球員 倒掛金鉤 影片提示
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 提示詞：生成一段影片，內容是一名巴西足球運動員展現瘋狂的盤帶，並以慢動作子彈時間完成倒掛金鉤進球。場景設定在燈火通明、人聲鼎沸的體育場，霓虹燈閃爍，動態攝影機跟隨足球，伴隨著強勁的踢球聲和觀眾的反應。
-
-#### 📝 提示詞
-
-```
-巴西球員在慢動作子彈時間下，展現一次令人難以置信的盤球，並以倒掛金鉤射門得分。燈火通明的體育場內，觀眾人山人海，霓虹燈閃爍，動態攝影機緊隨足球，傳來一記強勁的踢球聲，以及觀眾的歡呼聲...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/24d74baeec6671cb22dd5f804ef35799/thumbnails/thumbnail.jpg" width="600" alt="巴西足球員 倒掛金鉤 影片提示">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2188)**
-
-**作者:** [Momento Do Jogo](https://x.com/MomentoDoJogo) | **來源:** [Link](https://x.com/MomentoDoJogo/status/2037343243990405219) | **發布時間:** Mar 27, 2026
-
----
-### 電影級 北極苔原 女性奇幻戰士 肖像 影片提示
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個高度細緻的電影級 Grok Imagine 提示，描述一位女性奇幻戰士在夜晚的冰凍北極苔原上自信地站立著，著重於她華麗的盔甲、公羊頭骨頭盔，以及北極光的戲劇性光影。
-
-#### 📝 提示詞
-
-```
-一幅高度細緻的電影感肖像，描繪了一位美麗的年輕女性奇幻戰士，在夜晚冰凍的北極苔原上自信地站立著。她戴著一頂由白色公羊頭骨製成的華麗頭盔，頭盔上帶有巨大的彎曲羊角和較小的突出羊角，邊緣鑲有柔軟的白色毛皮飾邊。她那長而飄逸的銀藍色頭髮披散而下，兩側編有鮮豔的粉紅色辮子。她的眼睛下方有醒目的紅色部落戰紋，臉上帶著平靜而堅毅的表情。
-
-她的盔甲由精緻的白色和銀色皮革製成，點綴著深藍色，特色是合身的胸甲、分層的肩甲，以及一條帶有華麗圓形金屬扣環的寬腰帶。一件巨大蓬鬆、質地厚實奢華的白色毛皮斗篷，戲劇性地披在她肩上和背後。她的左手輕輕地抓著胸前斗篷的邊緣，而她的右手則牢牢地握著一把長而華麗的奇幻劍，劍身發出冰藍色光芒，劍柄是精緻的銀色，劍尖朝下。
-
-背景是史詩般的冰雪景觀，崎嶇的積雪岩石和懸崖在星光璀璨的夜空下，夜空中充滿了鮮豔、旋轉的綠色和青色北極光。柔和的藍色薄霧繚繞在她下半身周圍。戲劇性的電影感光線，帶有冷藍色調、體積光、超現實細節、銳利對焦、8K 解析度，呈現出媲美高端數位藝術的史詩奇幻風格。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c5732ff9ac71e91f7624204e02c59aa7/thumbnails/thumbnail.jpg" width="600" alt="電影級 北極苔原 女性奇幻戰士 肖像 影片提示">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2172)**
-
-**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **來源:** [Link](https://x.com/ThoughCreator/status/2037337548679467136) | **發布時間:** Mar 27, 2026
-
----
-### 數位女神 激戰 傭兵 提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個 Grok Imagine 的提示，用於一個動作場面影片，內容描述一名數位女神在客廳裡與一群蒙面傭兵激烈搏鬥，她的身手如同 MMA 武俠宗師，並以超凡力量將一名襲擊者撞破牆壁。
-
-#### 📝 提示詞
-
-```
-一位數碼女神正激烈地對抗一群傭兵，她走進客廳，隨即遭到一群蒙面入侵者的襲擊。她身手矯健，猶如一位綜合格鬥武俠高手，她以超人的力量，抓起一名傭兵，將他甩穿牆壁...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/593fefbde98d4d4cb0054840d2e45908/thumbnails/thumbnail.jpg" width="600" alt="數位女神 激戰 傭兵 提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2101)**
-
-**作者:** [David Avenue Media](https://x.com/davidavenueai) | **來源:** [Link](https://x.com/davidavenueai/status/2036952484166722021) | **發布時間:** Mar 25, 2026
-
----
-### 神力投擲與拳擊場面
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 提示，描述了一個充滿動感的動作序列：一名女性角色遭遇入侵者，以超人的力量、光速將一名傭兵扔穿牆壁，接著又毆打另一名傭兵。
-
-#### 📝 提示詞
-
-```
-她遇到一群入侵者，她以光速般的超凡力量，抓住一名傭兵並將其扔穿牆壁，她又朝另一名傭兵揮拳。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9dd3d361e35fc17ca1ffe088d015f501/thumbnails/thumbnail.jpg" width="600" alt="神力投擲與拳擊場面">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2096)**
-
-**作者:** [David Avenue Media](https://x.com/davidavenueai) | **來源:** [Link](https://x.com/davidavenueai/status/2036948088645165254) | **發布時間:** Mar 25, 2026
-
----
-### 未來感十足的星際戰機空中纏鬥影片提示
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個用於 Grok 的動態提示：想像一下，描述一位未來的星際戰機飛行員，在混亂的小行星帶中，與巨大的外星無畏艦進行一場激烈的空戰，並在最緊張的時刻被定格。它詳細說明了飛船的外觀（曜石黑，青色電漿後燃器）和動作（猛烈地轉彎）。
-
-#### 📝 提示詞
-
-```
-凝結在極度緊繃的最高潮，一名孤獨的未來星際戰機飛行員，駕駛著一架刀鋒般銳利、黑曜石般漆黑的星際攔截機，其後燃器噴射著熾熱的青色電漿，正猛烈地在混亂的小行星帶中盤旋，同時與一群龐大的外星無畏艦展開一場激烈的纏鬥。
-```
-
-<img src="https://cms-assets.youmind.com/media/1774511016644_hcf52y_HESvcOFacAALZMt.jpg" width="600" alt="未來感十足的星際戰機空中纏鬥影片提示">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2093)**
-
-**作者:** [the flash ⚡️](https://x.com/winearther) | **來源:** [Link](https://x.com/winearther/status/2036945886560084378) | **發布時間:** Mar 25, 2026
-
----
-### 卡通麋鹿被聯結車撞的提示
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個黑色幽默的 Grok Imagine 提示詞，要求製作一個影片，內容是一隻卡通麋鹿被放置在卡加利的馬路中央，然後被一輛半掛卡車撞上。
-
-#### 📝 提示詞
-
-```
-在這裡的馬路中央放一隻卡通麋鹿，然後讓它被一輛半掛卡車撞上。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1946d48722a0a06ca22a001e6bf2e0fe/thumbnails/thumbnail.jpg" width="600" alt="卡通麋鹿被聯結車撞的提示">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2099)**
-
-**作者:** [Laura Mathisən 🇨🇦](https://x.com/laurajanemathis) | **來源:** [Link](https://x.com/laurajanemathis/status/2036869177982529843) | **發布時間:** Mar 25, 2026
-
----
-### 松鼠抽菸和賭博提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個幽默的 Grok Imagine 提示，要求製作一段關於松鼠抽電子煙的影片，隨後牠們染上惡習，例如玩擲骰子遊戲，並在人行道上擲骰子。
-
-#### 📝 提示詞
-
-```
-松鼠 抽 電子菸
-這些 松鼠 還 養成 了 其他 壞習慣，像是 開始 在 人行道上 擲骰子 和 玩 花旗骰。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d9c84b7b57d17e5ac073079dc6b66962/thumbnails/thumbnail.jpg" width="600" alt="松鼠抽菸和賭博提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2098)**
-
-**作者:** [TheEndOfTheInternet](https://x.com/MattTag8) | **來源:** [Link](https://x.com/MattTag8/status/2036868509389439431) | **發布時間:** Mar 25, 2026
-
----
-### 氛圍感動漫武士影片提示
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份詳細的文字轉影片提示詞，適用於 Grok Imagine，描述一個氛圍感十足的動漫場景，呈現一名武士在櫻花樹下。該提示詞指定了攝影機運鏡（從廣角到特寫的推軌鏡頭）、光線、細微的環境動態（霧氣、風、布料飄動），以及最終聚焦在武士轉動眼神的特寫鏡頭。
-
-#### 📝 提示詞
-
-```
-充滿氛圍感的動畫廣角轉特寫鏡頭：動畫始於武士佇立在櫻花樹下的廣角鏡頭，以灰濛濛、陰鬱的天空為背景。粉色花瓣緩緩飄落在他周圍，與褪色的背景形成細膩的對比。攝影機緩緩推進，花瓣沾上他的髮絲，滑過他的肩頭。他的刀柄微微抬起，彷彿回應著他的呼吸。細微的環境動態——飄渺的霧氣、一陣微風拂過、他衣袍布料上輕微的顫動——這一切都為這份靜止賦予了沉靜的力量。鏡頭最終定格在特寫，他的目光微微轉向一側，彷彿感應到身後有人存在。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6619c2e71430f70d57ccd5ce5da67fde/thumbnails/thumbnail.jpg" width="600" alt="氛圍感動漫武士影片提示">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2092)**
-
-**作者:** [LudovicCreator](https://x.com/LudovicCreator) | **來源:** [Link](https://x.com/LudovicCreator/status/2036820482335314389) | **發布時間:** Mar 25, 2026
-
----
-### 銀髮女孩在雪山山脊上翩翩起舞
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 為 Grok Imagine 設計的詳細影片生成提示詞，描述了一個手持跟蹤鏡頭，跟隨一位身穿風格化黑、金、紫三色戰鬥服的銀髮少女，她在皎潔的月光下，於狹窄的雪山山脊上翩翩起舞的武舞。該提示詞強調電影級真實感、戰甲的精緻細節以及風和雪的真實物理效果。
-
-#### 📝 提示詞
-
-```
-手持跟拍鏡頭追隨著一位銀髮少女，她身著優雅的黑、金、紫三色戰鬥服，在一輪巨大而發光的月亮下，於狹窄的雪山山脊上翩翩起舞。她的戰鬥服設計感十足，剪裁合身，拋光的黑色材質如第二層肌膚般緊貼身體，與光滑的金色盔甲板以及深紫色的裝甲手套和靴子形成鮮明對比。整體設計時尚流線、英勇不凡，並帶有幾分儀式感，宛如一位天界戰士。她那不可思議的長銀髮在冰冷的寒風中飛舞，戲劇性地在她身後飄揚。鏡頭始終緊貼在她肩後，隨著她輕柔自然的擺動而移動，看著她在山脊上轉身、旋轉、滑行，展現著優雅的武術之舞。每一步都揚起飛雪，月光與冰冷的陽光在她盔甲上交織閃爍，而山脊之外廣闊的山脈世界則化為夢幻般的模糊。淺景深、電影級手持寫實感、飄渺的奇幻氛圍、強大的女性剪影、高細節盔甲、逼真的風雪物理效果。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9473fd4bdf356397282949defd51fa2b/thumbnails/thumbnail.jpg" width="600" alt="銀髮女孩在雪山山脊上翩翩起舞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2103)**
-
-**作者:** [クレア](https://x.com/kureakurea01) | **來源:** [Link](https://x.com/kureakurea01/status/2036796286180167788) | **發布時間:** Mar 25, 2026
-
----
-### 耶穌受難日饒舌歌曲生成
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個 Grok Imagine 提示，旨在為受難日創作一部有意義的饒舌歌曲影片。這首歌應強調這天的屬靈意義，特別闡明若沒有星期五的釘十字架與犧牲，星期日的復活便不可能存在。
-
-#### 📝 提示詞
-
-```
-創作一首有意義的饒舌歌曲，主題為受難節，強調這一天背後的屬靈意義。清楚闡明如果沒有受難節，就不會有復活節，因為受難節標誌著耶穌基督被釘十字架並為人類的罪而死的那一天。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/55b2d4aab302a01dfa005b2a92160440/thumbnails/thumbnail.jpg" width="600" alt="耶穌受難日饒舌歌曲生成">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2095)**
-
-**作者:** [Justice Owusu](https://x.com/JusticeOwu60683) | **來源:** [Link](https://x.com/JusticeOwu60683/status/2036694453700702567) | **發布時間:** Mar 25, 2026
-
----
-### 賽博龐克 故障 龍 影片 提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個用於 Grok Imagine 的極其詳細的提示，描述了一條巨大的黑暗巨龍從數位虛空中浮現，以超寫實的賽博龐克故障藝術風格呈現。它詳細說明了巨龍的外觀（黑曜石鱗片、金屬光澤）、數位損壞效果（偽影、掃描線、RGB 分離）、電漿火焰顏色（青色和鈷藍色）、體積流體模擬細節，以及光照（戲劇性的高對比明暗對比法）。
-
-#### 📝 提示詞
-
-```
-一條巨大的黑暗巨龍從數位虛空中浮現，以超寫實的賽博龐克故障藝術風格呈現。巨龍的鱗片呈黑曜石般的漆黑，帶有金屬光澤，其健碩的身軀部分溶解，化為層疊的數位損壞偽影、水平掃描線、像素化的數據流，以及 RGB 通道分離的故障，蔓延整個畫面。這生物噴吐出爆裂的電光青色與鈷藍色電漿火焰，火焰以體積流體模擬的細節呈現，是洶湧翻騰的超熱能量絲縷，核心是明亮的霓虹色，邊緣則漸變為深邃的寶藍色。火焰如液態霓虹般向下滴落，匯聚成故障的藍色數據瀑布，在畫面底部碎裂成二進位損壞。背景是純粹的黑色虛空，疊加著微弱的網格線、損壞的 HUD 介面元素，以及幾乎不可見的等寬字體文本數據，暗示著一個正在崩潰的虛擬環境。戲劇性的高對比明暗對照光影，唯一的照明完全來自生物發光的藍色火焰，將冰冷的電光反射投射在巨龍漆黑的鱗片上。以概念藝術結合即時 VFX 的風格呈現，8K 解析度，電影般的構圖，背景損壞元素具有淺景深。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cbfeab4b9771af1f219bd65c60e914d0/thumbnails/thumbnail.jpg" width="600" alt="賽博龐克 故障 龍 影片 提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2094)**
-
-**作者:** [tetsuo](https://x.com/tetsuoai) | **來源:** [Link](https://x.com/tetsuoai/status/2036694391981797445) | **發布時間:** Mar 25, 2026
-
----
-### 電影視角：壓力重重的迦納醫護人員
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 的提示：一段搞笑的、具電影感的 第一人稱視角 影片，呈現 一位疲憊的 迦納 醫護人員（中央消毒技術員）一大早 準備上班，接著是 混亂、誇張的 醫院場景。
-
-#### 📝 提示詞
-
-```
-一支有趣、充滿電影感的 POV 影片，講述一位疲憊的迦納醫護人員 (中央供應室技術員) 清晨準備上班的情景。他看起來神情嚴肅，略帶壓力。畫面一轉，切換到混亂的醫院場景，伴隨著誇張的反應、同事們...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f6618997d6ca5e3eec0713a96fa631f5/thumbnails/thumbnail.jpg" width="600" alt="電影視角：壓力重重的迦納醫護人員">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2102)**
-
-**作者:** [Justice Owusu](https://x.com/JusticeOwu60683) | **來源:** [Link](https://x.com/JusticeOwu60683/status/2036682026502312436) | **發布時間:** Mar 25, 2026
-
----
-### 超寫實 廣播錄音室 特寫 提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個 Grok Imagine 提示，詳細描述了攝影機拉近鏡頭，對準一扇頂樓窗戶，揭示了內部一個超現實、華麗的廣播電台錄音室，其中包含兩個麥克風、一張桌子以及一個寫有 'LECTRALOOM AIRADIO' 字樣的藍色 LED 標誌等特定元素。
-
-#### 📝 提示詞
-
-```
-鏡頭拉近至頂樓窗戶，窗內是一間廣播電台錄音室，裡面有兩支麥克風，牆上以藍色 LED 燈光顯示著「LECTRALOOM AIRADIO」，兩張椅子相對而放，中間擺著一張桌子，還有兩支麥克風，畫面極度逼真，奢華。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2b2fb00f272e4bb3f91c72e91e2ea4b2/thumbnails/thumbnail.jpg" width="600" alt="超寫實 廣播錄音室 特寫 提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2100)**
-
-**作者:** [David Avenue Media](https://x.com/davidavenueai) | **來源:** [Link](https://x.com/davidavenueai/status/2036672281217470808) | **發布時間:** Mar 25, 2026
-
----
-### Grok 想像提示：一個溫暖的擁抱和火箭發射
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 有使用者分享了一個用於 Grok Imagine 影片生成的特定提示詞，內容描述了一個溫暖的擁抱，並邀請對方不帶手機一起觀看火箭發射。
-
-#### 📝 提示詞
-
-```
-沒有手機，只有一個溫暖的擁抱，他問我願不願意和他一起看火箭發射。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/623b7f9bf45789382948c89ba485f575/thumbnails/thumbnail.jpg" width="600" alt="Grok 想像提示：一個溫暖的擁抱和火箭發射">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2047)**
-
-**作者:** [Margaret Ford](https://x.com/Margaretfit08) | **來源:** [Link](https://x.com/Margaretfit08/status/2036668265788027387) | **發布時間:** Mar 25, 2026
-
----
-### 電影般的夜景，搭配女牛仔和隱藏的超級城市
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個詳細的 Grok Imagine 提示，用於描述一個超逼真的電影級夜景：一位女牛仔騎馬穿越高原，在月光照耀下，揭示出一個隱藏的巨型城市，城市中閃爍著數千盞溫暖的燈光，天空中有濃密的移動暴風雲，偶爾還有閃電劃過。
-
-#### 📝 提示詞
-
-```
-超寫實電影級夜景，相同的環境，卻轉化為深藍墨黑的夜晚氛圍。女牛仔緩緩騎行在高原上，僅被月光和遠方城市的微光照亮。
-
-隱藏的巨型城市此刻已完全顯現，數千盞溫暖的燈光真實地閃爍著，沒有過度眩光。建築物反射著微弱的月光，呈現出物理上精確的反射效果。天空中佈滿了濃密的移動暴風雲，偶爾的閃電柔和地照亮著大地。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/627d0e43a92095493824f7ba360350ef/thumbnails/thumbnail.jpg" width="600" alt="電影般的夜景，搭配女牛仔和隱藏的超級城市">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2097)**
-
-**作者:** [SPACELESS](https://x.com/VOLDEMORT2X) | **來源:** [Link](https://x.com/VOLDEMORT2X/status/2036605975185014844) | **發布時間:** Mar 25, 2026
-
----
-### 有 Rey 的 浪漫 海灘場景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個詳細的 Grok Imagine 提示，用於海灘上的浪漫影片場景，主角為 Rey 和一位男性伴侶，內容包含走路、親吻、咯咯笑和表達愛意等具體動作，最後場景淡出至全黑。
-
-#### 📝 提示詞
-
-```
-讓他們在沙灘上牽手漫步，不要讓他蹦蹦跳跳。讓他抱起她，然後親吻她。讓她咯咯地笑著說：「我愛你。」讓他對 Rey 說：「我也愛你。」並親吻她，接著畫面漸漸變黑。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cc1534be023367ae708bca1c469c0f26/thumbnails/thumbnail.jpg" width="600" alt="有 Rey 的 浪漫 海灘場景">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2036)**
-
-**作者:** [HisMoonRey](https://x.com/lBrokenDoll51) | **來源:** [Link](https://x.com/lBrokenDoll51/status/2036584716942373141) | **發布時間:** Mar 24, 2026
-
----
-### 走鋼索的人 和 仙女 與 外星人 影片提示
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個 Grok Imagine 提示，用於生成一段影片，內容是一位女性走鋼索，周圍環繞著愛心、星星、飛行的外星人和仙女。
-
-#### 📝 提示詞
-
-```
-讓她周圍充滿了 心形和星星，無數的 心形和星星，讓她走在鋼索上，身旁環繞著 飛行的外星人 和 仙子。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a30f2b1fb675cd2e6b84fd58314ecccc/thumbnails/thumbnail.jpg" width="600" alt="走鋼索的人 和 仙女 與 外星人 影片提示">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2024)**
-
-**作者:** [HisMoonRey](https://x.com/lBrokenDoll51) | **來源:** [Link](https://x.com/lBrokenDoll51/status/2036581638616875493) | **發布時間:** Mar 24, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2238,6 +2236,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-03-30T06:03:51.779Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-03-30T09:23:23.739Z</sub>
 
 </div>
