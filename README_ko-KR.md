@@ -189,1637 +189,1637 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
-### A Doctor Explaining a Hereditary Disease
+### 유전 질환을 설명하는 의사
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A highly specific and personal prompt describing a scene where a doctor explains a hereditary disease, 'Hereditary spherocytosis,' to a mother, noting that one of two children may inherit it.
+> 의사가 어머니에게 '유전성 구상적혈구증'이라는 유전 질환을 설명하며, 두 자녀 중 한 명에게 유전될 수 있다고 말하는 장면을 묘사한 매우 구체적이고 개인적인 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-The next time I went, the doctor (the one I met at the obstetrician's) said, 'Your mother's disease is Hereditary spherocytosis. It is a disease that one of two children inherits.' I learned my own disease name after Daru was born.
+다음번에 방문했을 때, (산부인과에서 만났던) 의사 선생님이 '어머니의 병은 유전성 구상적혈구증입니다. 아이 둘 중 한 명에게 유전되는 병이죠'라고 말씀하셨습니다. 저는 다루가 태어난 후에야 제 병명을 알게 되었습니다.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bbd88f3263f120b8d68f730874b8ce94/thumbnails/thumbnail.jpg" width="600" alt="A Doctor Explaining a Hereditary Disease">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bbd88f3263f120b8d68f730874b8ce94/thumbnails/thumbnail.jpg" width="600" alt="유전 질환을 설명하는 의사">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2351)**
 
 **작성자:** [DODO](https://x.com/Dodo0807Dodo) | **출처:** [Link](https://x.com/Dodo0807Dodo/status/2038398371782906116) | **게시일:** Mar 29, 2026
 
 ---
-### Video Prompt: Hospital Scene with Baby's Cry
+### 비디오 프롬프트: 아기 울음소리가 들리는 병원 장면
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A narrative-driven prompt for Grok Imagine describing a scene at a colony hospital where a character named Daru received a blood transfusion. The user visits after being discharged and hears a healthy baby crying, which a nurse brings to them, suggesting the baby represents Daru's future.
+> Grok Imagine을 위한 서사 중심의 프롬프트로, Daru라는 인물이 수혈을 받은 식민지 병원의 장면을 묘사합니다. 퇴원 후 병원을 방문한 사용자가 건강한 아기 울음소리를 듣게 되고, 간호사가 아기를 데려와 그 아기가 Daru의 미래임을 암시하는 내용입니다.
 
 #### 📝 프롬프트
 
 ```
-At the colony hospital, Daru received a blood transfusion. When I was discharged and visited the hospital, I heard the sound of a healthy baby crying. The nurse brought the baby to me, saying, "This one is crying the most energetically😊." {It was Daru's future.}
+식민지 병원에서 Daru는 수혈을 받았다. 퇴원 후 병원을 방문했을 때, 나는 건강한 아기 울음소리를 들었다. 간호사가 아기를 내게 데려오며 말했다. "이 아기가 가장 힘차게 울고 있네요😊." {그것은 Daru의 미래였다.}
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b3d2a6f9549d97a41caf07f1592ad5a2/thumbnails/thumbnail.jpg" width="600" alt="Video Prompt: Hospital Scene with Baby's Cry">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b3d2a6f9549d97a41caf07f1592ad5a2/thumbnails/thumbnail.jpg" width="600" alt="비디오 프롬프트: 아기 울음소리가 들리는 병원 장면">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2350)**
 
 **작성자:** [DODO](https://x.com/Dodo0807Dodo) | **출처:** [Link](https://x.com/Dodo0807Dodo/status/2038394876472258881) | **게시일:** Mar 29, 2026
 
 ---
-### Birth and Ambulance Scene
+### 출산 및 구급차 이송 장면
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A detailed, narrative prompt describing a scene of hospitalization, a C-section birth, high jaundice levels, an ambulance ride to a different hospital, and the mother's emotional reaction and subsequent decision to name the child.
+> 입원, 제왕절개 출산, 높은 황달 수치, 다른 병원으로의 구급차 이송, 그리고 어머니의 감정적 반응과 아이의 이름을 짓기로 결심하는 과정을 담은 상세한 서사적 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-The next day (the 26th), I was hospitalized. Then, on March 29th, Daru was born by C-section. However, the jaundice level was high, and he had to be sent by ambulance to Kasugai Colony Hospital. Tears streamed down my face. As the sound of the ambulance fading away disappeared, I heard, 'The child will be fine.' I decided to think of a name for Daru.
+다음 날 (26일), 저는 입원했습니다. 그리고 3 월 29 일, 제왕절개로 다루 (Daru)가 태어났습니다. 하지만 황달 수치가 높아 구급차를 타고 카스가이 콜로니 병원 (Kasugai Colony Hospital)으로 이송되어야 했습니다. 눈물이 뺨을 타고 흘러내렸습니다. 멀어지는 구급차 소리가 사라질 때, '아이는 괜찮을 거야'라는 말이 들려왔습니다. 저는 다루의 이름을 짓기로 결심했습니다.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8bdc3dcfc41e15cc23bc394237be495e/thumbnails/thumbnail.jpg" width="600" alt="Birth and Ambulance Scene">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8bdc3dcfc41e15cc23bc394237be495e/thumbnails/thumbnail.jpg" width="600" alt="출산 및 구급차 이송 장면">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2352)**
 
 **작성자:** [DODO](https://x.com/Dodo0807Dodo) | **출처:** [Link](https://x.com/Dodo0807Dodo/status/2038393332704100523) | **게시일:** Mar 29, 2026
 
 ---
-### Cinematic Drone Shot of Mountain Cave Entrance
+### 산 동굴 입구의 영화 같은 드론 촬영
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed Grok Imagine prompt specifying a cinematic video scene that begins with an aerial drone shot above a mountain during heavy rain. The scene transitions dramatically from the exterior stormy sky to the interior of a mountain cave entrance.
+> 폭우가 쏟아지는 산 위를 비행하는 드론 샷으로 시작하는 영화 같은 영상 장면을 위한 상세한 Grok Imagine 프롬프트입니다. 폭풍우가 치는 외부 하늘에서 산 동굴 입구 내부로 극적으로 전환되는 장면을 묘사합니다.
 
 #### 📝 프롬프트
 
 ```
-SCENE LOCK: begins with aerial drone shot above mountain during heavy rain, smooth cinematic motion
-STAGE: dramatic reveal from exterior to interior
-DETAILS: drone descends from stormy sky toward mountain cave entrance, rain falling heavily, camera f...
+SCENE LOCK: 폭우가 쏟아지는 산 위를 비행하는 드론 샷으로 시작, 부드러운 영화적 움직임
+STAGE: 외부에서 내부로 이어지는 극적인 전환
+DETAILS: 폭풍우가 치는 하늘에서 산 동굴 입구로 하강하는 드론, 거세게 내리는 빗줄기, 카메라 f...
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/00dda65ebc7ae3ab45eca953174adebd/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Drone Shot of Mountain Cave Entrance">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/00dda65ebc7ae3ab45eca953174adebd/thumbnails/thumbnail.jpg" width="600" alt="산 동굴 입구의 영화 같은 드론 촬영">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2339)**
 
 **작성자:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **출처:** [Link](https://x.com/gpimpmyspace/status/2038389707856613741) | **게시일:** Mar 29, 2026
 
 ---
-### Wow! App Logo and Voiceover Video Prompt
+### Wow! 앱 로고 및 내레이션 비디오 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for Grok Imagine to generate a video featuring the 'Wow!' logo followed by an off-screen narration promoting the 'Wow!' application.
+> Grok Imagine을 사용하여 'Wow!' 로고가 나타난 뒤 'Wow!' 애플리케이션을 홍보하는 내레이션이 이어지는 비디오를 생성하기 위한 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-A Wow! logo! Then an off-screen narration: “All this and much more, on the Wow! application...
+Wow! 로고가 나타납니다! 이어서 들리는 내레이션: “이 모든 것과 그 이상을 Wow! 애플리케이션에서 만나보세요...
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6b24619500b59fa896f22cbe6574c52c/thumbnails/thumbnail.jpg" width="600" alt="Wow! App Logo and Voiceover Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6b24619500b59fa896f22cbe6574c52c/thumbnails/thumbnail.jpg" width="600" alt="Wow! 앱 로고 및 내레이션 비디오 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2353)**
 
 **작성자:** [Alex St-Georges](https://x.com/AlexStGeorwm4t) | **출처:** [Link](https://x.com/AlexStGeorwm4t/status/2038388528078270867) | **게시일:** Mar 29, 2026
 
 ---
-### Child in Space with Voiceover
+### 우주 속 아이와 보이스오버
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt to generate a video of a child in a helmet doing a slow-motion cartwheel past a glowing nebula, with a voiceover shouting, "Wheeee! Look, Mom—no gravity!" and laughing.
+> 헬멧을 쓴 아이가 빛나는 성운을 지나며 슬로 모션으로 옆돌기를 하는 영상을 생성하기 위한 프롬프트입니다. "와! 엄마 봐, 중력이 없어!"라고 외치며 웃는 보이스오버가 포함됩니다.
 
 #### 📝 프롬프트
 
 ```
-Keep everything and add voice. "Wheeee! Look, Mom—no gravity!" he shouts into his helmet, laughing as he does a slow-motion cartwheel past a glowing nebula, the spaceship drifting lazily behind him like a loyal puppy.
+모든 요소를 유지하고 보이스오버를 추가하세요. 아이가 헬멧 속에서 "와! 엄마 봐, 중력이 없어!"라고 외치며 웃습니다. 아이는 빛나는 성운을 지나 슬로 모션으로 옆돌기를 하고, 우주선은 충직한 강아지처럼 뒤에서 느릿하게 떠다닙니다.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a5a579254d66c97ae9b670c97510efc1/thumbnails/thumbnail.jpg" width="600" alt="Child in Space with Voiceover">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a5a579254d66c97ae9b670c97510efc1/thumbnails/thumbnail.jpg" width="600" alt="우주 속 아이와 보이스오버">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2347)**
 
 **작성자:** [Joe Pelayo](https://x.com/JoeHeadhunter) | **출처:** [Link](https://x.com/JoeHeadhunter/status/2038368642291867749) | **게시일:** Mar 29, 2026
 
 ---
-### Digital Goddess Breaking the Loop
+### 루프를 깨뜨리는 디지털 여신
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for generating a video of a digital goddess sitting on her throne, delivering a philosophical quote about breaking the cycle of insanity.
+> 왕좌에 앉아 광기의 굴레를 벗어나는 것에 대한 철학적인 명언을 전하는 디지털 여신의 영상을 생성하기 위한 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-A digital goddess on her throne she says “the definition of insanity is doing the same thing over and over again and expecting a different result. It’s time to break the loop....
+왕좌에 앉은 디지털 여신이 말합니다. “광기의 정의는 같은 일을 반복하면서 다른 결과를 기대하는 것이다. 이제 루프를 깨뜨릴 시간이다….
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2d11475c91477cbb800aea5d3ce02da2/thumbnails/thumbnail.jpg" width="600" alt="Digital Goddess Breaking the Loop">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2d11475c91477cbb800aea5d3ce02da2/thumbnails/thumbnail.jpg" width="600" alt="루프를 깨뜨리는 디지털 여신">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2340)**
 
 **작성자:** [David Avenue Media](https://x.com/davidavenueai) | **출처:** [Link](https://x.com/davidavenueai/status/2038363700483309905) | **게시일:** Mar 29, 2026
 
 ---
-### Funny Ad Commercial for CapCut
+### CapCut을 위한 재미있는 광고 영상
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A Grok Imagine prompt for generating a funny ad commercial for CapCut, featuring a stressed video editor fighting monsters emerging from his laptop, with CapCut intervening to save the day.
+> 노트북에서 튀어나오는 괴물들과 사투를 벌이는 스트레스받는 영상 편집자와 그를 구원하는 CapCut의 모습을 담은, Grok Imagine용 재미있는 CapCut 광고 영상 생성 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-A funny ad commercial for CapCut, showing a stressed video editor battling monsters that come out of his laptop, and CapCut comes to the rescue....
+노트북에서 튀어나오는 괴물들과 사투를 벌이는 스트레스받는 영상 편집자와 그를 구원하러 나타나는 CapCut의 모습을 담은 재미있는 광고 영상입니다....
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a0a18d6a1a420803dbc7cb2814e948df/thumbnails/thumbnail.jpg" width="600" alt="Funny Ad Commercial for CapCut">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a0a18d6a1a420803dbc7cb2814e948df/thumbnails/thumbnail.jpg" width="600" alt="CapCut을 위한 재미있는 광고 영상">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2337)**
 
 **작성자:** [LUCKY](https://x.com/luluoksana) | **출처:** [Link](https://x.com/luluoksana/status/2038354490903134633) | **게시일:** Mar 29, 2026
 
 ---
-### Piano Player Singing Personalized Greeting
+### 피아노 연주와 함께하는 개인 맞춤형 인사말
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for generating a video where a subject plays the piano and sings a personalized two-part greeting, including a specific timing pause and a smile.
+> 피아노를 연주하며 개인 맞춤형 2부 인사말을 노래하는 영상을 생성하기 위한 프롬프트입니다. 특정 타이밍의 일시 정지와 미소 동작이 포함되어 있습니다.
 
 #### 📝 프롬프트
 
 ```
-Insert image and then add the video prompt:  she plays piano and sings, "Humble Whisperer, have a wonderful day", wait 1s, she sings, "and I'll have a wonderful day too", smile
+이미지를 삽입한 후 다음 비디오 프롬프트를 추가하세요: 그녀가 피아노를 연주하며 "Humble Whisperer, 즐거운 하루 보내세요"라고 노래함, 1초 대기, 이어서 "저도 즐거운 하루가 될 거예요"라고 노래함, 미소
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c1cacac20e6123624a26624b568a7008/thumbnails/thumbnail.jpg" width="600" alt="Piano Player Singing Personalized Greeting">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c1cacac20e6123624a26624b568a7008/thumbnails/thumbnail.jpg" width="600" alt="피아노 연주와 함께하는 개인 맞춤형 인사말">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2348)**
 
 **작성자:** [Red Oak](https://x.com/RedOak53) | **출처:** [Link](https://x.com/RedOak53/status/2038342648201638363) | **게시일:** Mar 29, 2026
 
 ---
-### Art Deco Hall Runway Fashion Video
+### 아르데코 홀 런웨이 패션 영상
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt describing a fashion runway scene set inside a towering Art Deco hall, focusing on a dress with sharp geometric gold and black structures and rhythmic metallic fringe.
+> 웅장한 아르데코 양식의 홀을 배경으로 한 패션 런웨이 장면을 묘사하는 프롬프트로, 날카로운 기하학적 골드 및 블랙 구조와 리듬감 있게 움직이는 메탈릭 프린지 장식이 돋보이는 드레스에 초점을 맞추고 있습니다.
 
 #### 📝 프롬프트
 
 ```
-Runway inside a towering Art Deco hall inspired by Chrysler Building interiors.
-Dress sharp geometric gold and black structure, symmetrical patterns, metallic fringe moving rhythmically. Waistline perfectly balanced, strong vertical emphasis.
+크라이슬러 빌딩 내부에서 영감을 받은 웅장한 아르데코 홀 내부의 런웨이.
+날카로운 기하학적 골드 및 블랙 구조의 드레스, 대칭적인 패턴, 리듬감 있게 움직이는 메탈릭 프린지. 완벽한 균형을 이룬 허리 라인과 강렬한 수직적 강조.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c5fbe4b60fc26a44a8b3a55e22d4dc20/thumbnails/thumbnail.jpg" width="600" alt="Art Deco Hall Runway Fashion Video">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c5fbe4b60fc26a44a8b3a55e22d4dc20/thumbnails/thumbnail.jpg" width="600" alt="아르데코 홀 런웨이 패션 영상">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2342)**
 
 **작성자:** [SPACELESS](https://x.com/VOLDEMORT2X) | **출처:** [Link](https://x.com/VOLDEMORT2X/status/2038319446922572144) | **게시일:** Mar 29, 2026
 
 ---
-### Blonde Woman Selfie with African Football Players Video Prompt
+### 금발 여성과 아프리카 축구 선수들의 셀카 영상 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for Grok Imagine to generate a video depicting a young blonde woman taking a selfie in an African football locker room, surrounded by three black players.
+> Grok Imagine을 사용하여 아프리카 축구 라커룸에서 세 명의 흑인 선수들에 둘러싸여 셀카를 찍는 젊은 금발 여성의 영상을 생성하기 위한 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-Imagine a young blonde woman in an African football locker room taking a selfie, surrounded by three black players
+아프리카 축구 라커룸에서 세 명의 흑인 선수들에 둘러싸여 셀카를 찍고 있는 젊은 금발 여성의 모습을 상상해 보세요
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bc67bb7759f2a3acadb8e87e63838b6d/thumbnails/thumbnail.jpg" width="600" alt="Blonde Woman Selfie with African Football Players Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bc67bb7759f2a3acadb8e87e63838b6d/thumbnails/thumbnail.jpg" width="600" alt="금발 여성과 아프리카 축구 선수들의 셀카 영상 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2354)**
 
 **작성자:** [couple mix](https://x.com/Cyrilmeunier007) | **출처:** [Link](https://x.com/Cyrilmeunier007/status/2038279406557229202) | **게시일:** Mar 29, 2026
 
 ---
-### Sorcerer with Fading Dark Wisps
+### 희미한 어둠의 기운을 뿜어내는 마법사
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for generating a video of a sorcerer standing still in a shadowy forest at twilight, with faint dark wisps drifting and slowly unraveling from his empty hands.
+> 황혼이 깃든 어두운 숲속에 가만히 서 있는 마법사를 묘사하는 영상 생성 프롬프트입니다. 마법사의 빈 손에서 희미한 어둠의 기운이 피어올라 천천히 흩어지는 모습을 담고 있습니다.
 
 #### 📝 프롬프트
 
 ```
-Tracking shot of a sorcerer standing still, empty hands, faint dark wisps drifting from his fingers, forming broken, fading patterns, in a shadowy forest at twilight. The wisps hang lifeless, unraveling slowly in the air.
+황혼이 깃든 어두운 숲속, 빈 손으로 가만히 서 있는 마법사를 따라가는 트래킹 샷입니다. 마법사의 손가락 끝에서 희미한 어둠의 기운이 피어올라 끊어지고 희미해지는 패턴을 형성합니다. 기운은 생기 없이 공중에 머물며 천천히 흩어집니다.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fe8ee4a677b1bc132dd0945c44ef9662/thumbnails/thumbnail.jpg" width="600" alt="Sorcerer with Fading Dark Wisps">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fe8ee4a677b1bc132dd0945c44ef9662/thumbnails/thumbnail.jpg" width="600" alt="희미한 어둠의 기운을 뿜어내는 마법사">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2344)**
 
 **작성자:** [Ralph Lentjes](https://x.com/RalphTheMaker) | **출처:** [Link](https://x.com/RalphTheMaker/status/2038279058379727221) | **게시일:** Mar 29, 2026
 
 ---
-### Sorcerer Casting Spells with Glowing Energy
+### 빛나는 에너지를 발산하며 마법을 부리는 마법사
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for generating a video featuring a tracking shot around a sorcerer casting spells, with glowing, string-like energy spiraling from his hands and forming intricate magical patterns in a misty forest at twilight.
+> 황혼이 내린 안개 낀 숲속에서 마법을 부리는 마법사를 따라 이동하는 트래킹 샷 영상 생성 프롬프트입니다. 마법사의 손에서 빛나는 실 같은 에너지가 소용돌이치며 복잡한 마법 문양을 만들어냅니다.
 
 #### 📝 프롬프트
 
 ```
-Tracking shot around a sorcerer casting spells, glowing string-like energy spirals from his hands, forming intricate magical patterns, in a misty forest at twilight. The strings pulse with light, tangling and unraveling mid-air.
+황혼이 내린 안개 낀 숲속에서 마법을 부리는 마법사를 따라 이동하는 트래킹 샷. 마법사의 손에서 빛나는 실 같은 에너지가 소용돌이치며 복잡한 마법 문양을 형성합니다. 빛을 내는 실들이 공중에서 얽히고 풀리며 맥동합니다.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/617292e3c00029d3b6250ff372b0ac3a/thumbnails/thumbnail.jpg" width="600" alt="Sorcerer Casting Spells with Glowing Energy">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/617292e3c00029d3b6250ff372b0ac3a/thumbnails/thumbnail.jpg" width="600" alt="빛나는 에너지를 발산하며 마법을 부리는 마법사">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2346)**
 
 **작성자:** [LudovicCreator](https://x.com/LudovicCreator) | **출처:** [Link](https://x.com/LudovicCreator/status/2038224689898619172) | **게시일:** Mar 29, 2026
 
 ---
-### Cinematic Rolex Watch Assembly Ad Concept
+### 영화 같은 Rolex 시계 조립 광고 콘셉트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed prompt for generating a hyper-realistic, cinematic luxury watch commercial, specifically for a Rolex assembly concept. The prompt uses a structured JSON format to define the scene, style, camera work, lighting, motion, and branding requirements for a 10-second video.
+> Rolex 조립 콘셉트를 위한 초현실적이고 영화 같은 럭셔리 시계 광고를 생성하기 위한 상세 프롬프트입니다. 이 프롬프트는 구조화된 JSON 형식을 사용하여 10초 분량의 영상에 필요한 장면, 스타일, 카메라 워크, 조명, 움직임 및 브랜딩 요구 사항을 정의합니다.
 
 #### 📝 프롬프트
 
 ```
-A highly detailed prompt for generating a hyper-realistic, cinematic luxury watch commercial, specifically for a Rolex assembly concept. The prompt uses a structured JSON format to define the scene, style, camera work, lighting, motion, and branding requirements for a 10-second video.
+Rolex 조립 콘셉트를 위한 초현실적이고 영화 같은 럭셔리 시계 광고를 생성하기 위한 상세 프롬프트입니다. 이 프롬프트는 구조화된 JSON 형식을 사용하여 10초 분량의 영상에 필요한 장면, 스타일, 카메라 워크, 조명, 움직임 및 브랜딩 요구 사항을 정의합니다.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c6dd4d019fb86641d883d8a2f6208022/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Rolex Watch Assembly Ad Concept">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c6dd4d019fb86641d883d8a2f6208022/thumbnails/thumbnail.jpg" width="600" alt="영화 같은 Rolex 시계 조립 광고 콘셉트">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2341)**
 
 **작성자:** [Mr Das](https://x.com/MrDasOnX) | **출처:** [Link](https://x.com/MrDasOnX/status/2038209658981364114) | **게시일:** Mar 29, 2026
 
 ---
-### High-Detail Keyframe Images for Resonance Codex Light Ship
+### Resonance Codex Light Ship을 위한 고해상도 키프레임 이미지
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A Grok Imagine prompt instructing the model to generate three additional high-detail keyframe images for a video storyboard, specifically for the 'Resonance Codex Light Ship,' maintaining a cinematic and luminous style.
+> Grok Imagine 프롬프트를 사용하여 'Resonance Codex Light Ship'의 비디오 스토리보드에 필요한 3개의 고해상도 키프레임 이미지를 생성합니다. 원본의 영화적이고 빛나는 스타일을 유지하는 것이 핵심입니다.
 
 #### 📝 프롬프트
 
 ```
-Yes, Shane — here are three additional high-detail keyframe images** from the video storyboard for the Resonance Codex Light Ship.
+네, Shane 님. 요청하신 Resonance Codex Light Ship 비디오 스토리보드용 고해상도 키프레임 이미지 3장을 준비했습니다.
 
-I generated them fresh, in the same cinematic, luminous style as the original image you attached to your X post. Each...
+귀하께서 X 게시물에 첨부해주신 원본 이미지의 영화적이고 빛나는 스타일을 그대로 유지하여 새롭게 생성했습니다. 각...
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bef3b0950d546666903ada45b8f8c32b/thumbnails/thumbnail.jpg" width="600" alt="High-Detail Keyframe Images for Resonance Codex Light Ship">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bef3b0950d546666903ada45b8f8c32b/thumbnails/thumbnail.jpg" width="600" alt="Resonance Codex Light Ship을 위한 고해상도 키프레임 이미지">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2336)**
 
 **작성자:** [Shane](https://x.com/ETERNALSHANE1) | **출처:** [Link](https://x.com/ETERNALSHANE1/status/2038202621287403846) | **게시일:** Mar 29, 2026
 
 ---
-### Serene Sci-Fi Ringworld Landscape
+### 고요한 SF 링월드 풍경
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for generating a cinematic, ultra-realistic hard sci-fi landscape video of a massive artificial ringworld, featuring a lone explorer by a crystal-clear river during the golden hour.
+> 거대한 인공 링월드를 배경으로 한 영화 같은 초현실적 하드 SF 풍경 영상을 생성하기 위한 상세 프롬프트입니다. 골든 아워의 수정처럼 맑은 강가에 홀로 있는 탐험가의 모습을 담고 있습니다.
 
 #### 📝 프롬프트
 
 ```
-A serene scene on a massive artificial ringworld: a lone explorer sitting by a crystal-clear river with a breathtaking view of the ring curving into the sky, distant megastructures, and a bright central star. Soft golden hour lighting, lush vegetation, sense of wonder and scale. Cinematic landscape, hard sci-fi inspired by Larry Niven, ultra-realistic, peaceful yet epic.
+거대한 인공 링월드의 고요한 풍경: 수정처럼 맑은 강가에 앉아 하늘로 굽어지는 링의 숨 막히는 전경과 멀리 보이는 거대 구조물, 그리고 밝은 중심별을 바라보는 한 명의 탐험가. 부드러운 골든 아워의 조명, 울창한 식생, 경이로움과 거대한 규모감이 느껴지는 장면. 래리 니븐(Larry Niven)에게서 영감을 받은 영화적 풍경, 하드 SF 스타일, 초현실적이며 평화롭지만 웅장한 분위기.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/51ff539d2b46039218fc4dc6cd4d8886/thumbnails/thumbnail.jpg" width="600" alt="Serene Sci-Fi Ringworld Landscape">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/51ff539d2b46039218fc4dc6cd4d8886/thumbnails/thumbnail.jpg" width="600" alt="고요한 SF 링월드 풍경">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2345)**
 
 **작성자:** [Alin](https://x.com/Alin_Reaper05) | **출처:** [Link](https://x.com/Alin_Reaper05/status/2038174750430679516) | **게시일:** Mar 29, 2026
 
 ---
-### Charging Lion on Burning Savannah
+### 불타는 사바나를 질주하는 사자
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for a dynamic video sequence featuring a charging lion on a burning savannah, with flames erupting beneath its paws and its mane igniting into fire.
+> 불타는 사바나를 질주하는 사자의 역동적인 영상 시퀀스를 위한 상세 프롬프트입니다. 사자의 발밑에서 불길이 치솟고 갈기가 화염으로 뒤덮이는 모습을 담고 있습니다.
 
 #### 📝 프롬프트
 
 ```
-Tracking shot at ground level follows a charging lion across a burning savannah. With each step, flames erupt beneath its paws, spreading outward in slow motion. The camera circles tightly around its face as its mane ignites into flowing fire, embers trailing behind, before it leaps toward the lens in a blazing explosion.
+지면 높이에서 불타는 사바나를 가로질러 질주하는 사자를 따라가는 트래킹 샷입니다. 사자가 발을 내디딜 때마다 불길이 발밑에서 솟구치며 슬로 모션으로 퍼져 나갑니다. 카메라가 사자의 얼굴 주위를 타이트하게 회전하며, 갈기가 흐르는 화염으로 변하고 불씨가 뒤로 흩날리는 가운데 사자가 렌즈를 향해 불꽃을 튀기며 뛰어오릅니다.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2f3606a45d8d77d4c5c8d6a083004a60/thumbnails/thumbnail.jpg" width="600" alt="Charging Lion on Burning Savannah">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2f3606a45d8d77d4c5c8d6a083004a60/thumbnails/thumbnail.jpg" width="600" alt="불타는 사바나를 질주하는 사자">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2343)**
 
 **작성자:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **출처:** [Link](https://x.com/CharaspowerAI/status/2038171822483513521) | **게시일:** Mar 29, 2026
 
 ---
-### Dress Transformation to Red Glitter or Diamond
+### 드레스 소재를 레드 글리터 또는 다이아몬드로 변경
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt instructing the model to take an existing dress (presumably from a screenshot/image input) and transform its material to red glitter or diamond.
+> 기존 드레스(스크린샷/이미지 입력)의 소재를 레드 글리터 또는 다이아몬드 질감으로 변환하도록 모델에 지시하는 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-Make the dress in red glitter or diamond. I found this dress in my social media feed, I took a screenshot and have grok finished it.
+드레스를 레드 글리터 또는 다이아몬드 소재로 바꿔줘. 소셜 미디어 피드에서 이 드레스를 발견해서 스크린샷을 찍었고, Grok으로 완성했어.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2c05b6d19d48c34a643d86702f1bbb76/thumbnails/thumbnail.jpg" width="600" alt="Dress Transformation to Red Glitter or Diamond">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2c05b6d19d48c34a643d86702f1bbb76/thumbnails/thumbnail.jpg" width="600" alt="드레스 소재를 레드 글리터 또는 다이아몬드로 변경">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2349)**
 
 **작성자:** [JlonMai](https://x.com/JLonMai) | **출처:** [Link](https://x.com/JLonMai/status/2038111952975863935) | **게시일:** Mar 29, 2026
 
 ---
-### Chess Scene Video Generation
+### 체스 장면 영상 생성
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> This tweet features a video generated by grok-imagine, suggesting a prompt related to a dramatic chess scene involving two legendary figures, emphasizing strategic moves and a stirring atmosphere. The video output confirms the use of a video generation model.
+> 이 트윗은 grok-imagine으로 생성된 영상을 담고 있으며, 두 전설적인 인물이 등장하는 극적인 체스 장면을 위한 프롬프트를 제안합니다. 전략적인 수와 긴장감 넘치는 분위기를 강조하고 있으며, 해당 영상 결과물은 영상 생성 모델이 사용되었음을 보여줍니다.
 
 #### 📝 프롬프트
 
 ```
-That scene definitely stirred the timeline… two legends, one board, endless moves ahead ♟️✨
+타임라인을 뜨겁게 달군 그 장면… 두 전설, 하나의 체스판, 그리고 끝없이 이어지는 수 ♟️✨
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0aa7641def877b5ad1ec1f8efec144ba/thumbnails/thumbnail.jpg" width="600" alt="Chess Scene Video Generation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0aa7641def877b5ad1ec1f8efec144ba/thumbnails/thumbnail.jpg" width="600" alt="체스 장면 영상 생성">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2281)**
 
 **작성자:** [LEO](https://x.com/leohuynh139) | **출처:** [Link](https://x.com/leohuynh139/status/2038111099170750844) | **게시일:** Mar 29, 2026
 
 ---
-### Dramatic Hollywood Director and Golden Retriever
+### 드라마틱한 할리우드 감독과 골든 리트리버
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed video prompt for Grok Imagine describing a dramatic Hollywood director screaming 'CUT!' at a golden retriever sitting in a director's chair, who then calmly responds with a witty line, leading to applause from the crew.
+> Grok Imagine을 위한 상세한 비디오 프롬프트입니다. 감독 의자에 앉아 있는 골든 리트리버에게 '컷(CUT)!'을 외치는 드라마틱한 할리우드 감독과, 이에 재치 있는 대사로 침착하게 응수하며 스태프들의 박수를 이끌어내는 골든 리트리버의 모습을 묘사합니다.
 
 #### 📝 프롬프트
 
 ```
-A dramatic Hollywood director in a beret and sunglasses screams “CUT!” at a golden retriever sitting in a director’s chair, who responds by putting on tiny glasses, crossing his paws, and calmly saying “My vision, my set.” The crew erupts in applause...
+베레모와 선글라스를 쓴 드라마틱한 할리우드 감독이 감독 의자에 앉아 있는 골든 리트리버를 향해 “컷(CUT)!”이라고 소리칩니다. 그러자 골든 리트리버는 작은 안경을 쓰고 앞발을 꼰 채 “내 비전, 내 촬영장이야.”라고 침착하게 대답합니다. 그 모습에 촬영장 스태프들은 환호하며 박수를 보냅니다...
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3a25dc3b8ee93244e9c5965497212453/thumbnails/thumbnail.jpg" width="600" alt="Dramatic Hollywood Director and Golden Retriever">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3a25dc3b8ee93244e9c5965497212453/thumbnails/thumbnail.jpg" width="600" alt="드라마틱한 할리우드 감독과 골든 리트리버">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2338)**
 
 **작성자:** [Puneet Kharbanda](https://x.com/KPuneet20) | **출처:** [Link](https://x.com/KPuneet20/status/2038066524368273858) | **게시일:** Mar 29, 2026
 
 ---
-### Butterfly Art and Easter Poem Video
+### 나비 예술과 부활절 시 영상
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A user shares a video generated using Grok Imagine, combining themes of butterfly art and an Easter poem. The poem text is provided, which likely served as the prompt or part of the prompt for the video generation.
+> 한 사용자가 Grok Imagine을 사용하여 생성한 나비 예술과 부활절 시를 결합한 영상을 공유했습니다. 영상 생성 시 프롬프트로 사용되었을 것으로 보이는 시 전문이 함께 제공됩니다.
 
 #### 📝 프롬프트
 
 ```
-Butterflies are awesome! Post some Butterfly art😎🤘
+나비는 정말 멋져요! 나비 예술 작품을 공유해 보세요😎🤘
 
-Spring is here! Easter soon🙏
+봄이 왔어요! 곧 부활절이네요🙏
 
-Easter soon, hop, hop, ring ring 
-Colors so bright, outfits tight 
-Hope has risen to a fresh new life.
+곧 다가올 부활절, 깡충깡충, 종소리 울려라
+화사한 색깔들, 멋진 옷차림
+희망이 새로운 삶으로 다시 피어났네.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4bd01e55459887e0a9f5b396c41bccb2/thumbnails/thumbnail.jpg" width="600" alt="Butterfly Art and Easter Poem Video">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4bd01e55459887e0a9f5b396c41bccb2/thumbnails/thumbnail.jpg" width="600" alt="나비 예술과 부활절 시 영상">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2280)**
 
 **작성자:** [Guided by Humans](https://x.com/GuidedbyHumans) | **출처:** [Link](https://x.com/GuidedbyHumans/status/2038063235979419975) | **게시일:** Mar 29, 2026
 
 ---
-### Cinematic cyberpunk street scene video prompt
+### 영화 같은 사이버펑크 거리 장면 비디오 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed, cinematic video prompt for Grok Imagine, describing a lone figure walking through a neon-lit, rainy street with specific camera movements, lighting, and atmospheric effects in a cyberpunk style.
+> Grok Imagine을 위한 매우 상세하고 영화 같은 비디오 프롬프트입니다. 네온 불빛이 가득한 비 오는 거리를 걷는 고독한 인물을 묘사하며, 사이버펑크 스타일의 구체적인 카메라 움직임, 조명 및 분위기 효과를 포함합니다.
 
 #### 📝 프롬프트
 
 ```
-"A lone figure in a dark coat walking slowly through a neon-lit rainy street at night, wet pavement reflecting vibrant pink and cyan neon signs, gentle cinematic tracking shot following from behind at eye level, soft volumetric fog, moody blue and purple lighting, atmospheric cyberpunk style, mysterious and immersive mood, highly detailed, cinematic"
+"어두운 코트를 입은 고독한 인물이 밤에 네온 불빛이 비치는 빗길을 천천히 걷고 있다. 젖은 보도에는 선명한 분홍색과 청록색 네온 사인이 반사되고, 눈높이에서 뒤를 따라가는 부드러운 영화적 트래킹 샷, 부드러운 볼륨감 있는 안개, 분위기 있는 파란색과 보라색 조명, 분위기 있는 사이버펑크 스타일, 신비롭고 몰입감 넘치는 분위기, 매우 상세함, 영화 같은"
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9f97ee60b4c8b0d57d13d911111b689a/thumbnails/thumbnail.jpg" width="600" alt="Cinematic cyberpunk street scene video prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9f97ee60b4c8b0d57d13d911111b689a/thumbnails/thumbnail.jpg" width="600" alt="영화 같은 사이버펑크 거리 장면 비디오 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2273)**
 
 **작성자:** [XRPMemes](https://x.com/XRPLRipples) | **출처:** [Link](https://x.com/XRPLRipples/status/2038032825190907915) | **게시일:** Mar 28, 2026
 
 ---
-### Aspirational Video Generation Prompt
+### 야심 찬 영상 생성 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt challenging Grok Imagine to create the most beautiful, exquisite video X has ever seen, aiming for 5 million views.
+> Grok Imagine이 X에서 본 적 없는 가장 아름답고 정교한 영상을 제작하도록 유도하여 조회수 500만 회를 목표로 하는 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-Create the most beautiful, exquisite video that X has ever seen.  A video that would get 5 million views.
+X에서 본 적 없는 가장 아름답고 정교한 영상을 만들어 줘. 조회수 500만 회를 기록할 만한 영상으로.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/abeaf13aa195cc9a9650ec07c830f0b0/thumbnails/thumbnail.jpg" width="600" alt="Aspirational Video Generation Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/abeaf13aa195cc9a9650ec07c830f0b0/thumbnails/thumbnail.jpg" width="600" alt="야심 찬 영상 생성 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2233)**
 
 **작성자:** [Common Sense](https://x.com/CommonSenseDOGE) | **출처:** [Link](https://x.com/CommonSenseDOGE/status/2038016987905790071) | **게시일:** Mar 28, 2026
 
 ---
-### Pleiadian Light Ship Craft in Ultra HD
+### 울트라 HD 화질의 플레야디스 광선 우주선
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for generating a masterpiece-quality, ultra HD video of a Pleiadian Light ship craft, described as smooth metallic silver against a summer blue sky.
+> 여름의 푸른 하늘을 배경으로 매끄러운 은색 금속 질감을 뽐내는 플레야디스 광선 우주선을 울트라 HD 화질의 걸작 영상으로 생성하기 위한 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-Pleiadian Light ship craft, smooth metallic silver in a summer blue skies, masterpiece, 1111111111111111111111111111111111 ultra HD quality k resolution
+플레야디스 광선 우주선, 여름의 푸른 하늘을 배경으로 한 매끄러운 은색 금속 질감, 걸작, 1111111111111111111111111111111111 울트라 HD 화질 k 해상도
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a65d406ce10e2ade0be99021c401e3e1/thumbnails/thumbnail.jpg" width="600" alt="Pleiadian Light Ship Craft in Ultra HD">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a65d406ce10e2ade0be99021c401e3e1/thumbnails/thumbnail.jpg" width="600" alt="울트라 HD 화질의 플레야디스 광선 우주선">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2265)**
 
 **작성자:** [MIUZAH DEIOPAH OF THE PLEIADES](https://x.com/Octillion111111) | **출처:** [Link](https://x.com/Octillion111111/status/2038009406030217337) | **게시일:** Mar 28, 2026
 
 ---
-### Cyborg woman portrait animation prompt
+### 사이보그 여성 인물 애니메이션 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A tip suggesting generating an image first, then animating it, followed by the prompt for a close-up portrait of a beautiful young woman cyborg. Since the tweet includes a video (hasVideo=true), this prompt is likely intended for Grok Imagine video generation.
+> 이미지를 먼저 생성한 후 애니메이션을 적용하는 방법을 제안하는 팁으로, 아름다운 젊은 사이보그 여성의 클로즈업 인물 사진을 위한 프롬프트가 포함되어 있습니다. 해당 트윗에 영상이 포함되어 있으므로(hasVideo=true), 이 프롬프트는 Grok Imagine 영상 생성을 위한 것으로 보입니다.
 
 #### 📝 프롬프트
 
 ```
-Close-up portrait of a beautiful young woman cyborg with short wind-swept dark hair, intense piercing green eyes, intricate glowing circuitry visible beneath translucent synthetic skin, dramatic wind blowing strands across
+바람에 흩날리는 짧은 흑발, 강렬하고 날카로운 녹색 눈, 반투명한 합성 피부 아래로 보이는 정교한 발광 회로를 가진 아름다운 젊은 사이보그 여성의 클로즈업 인물 사진, 바람에 머리카락이 극적으로 흩날리는 모습
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/021b2e03994d31fa65be23344c5870d3/thumbnails/thumbnail.jpg" width="600" alt="Cyborg woman portrait animation prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/021b2e03994d31fa65be23344c5870d3/thumbnails/thumbnail.jpg" width="600" alt="사이보그 여성 인물 애니메이션 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2276)**
 
 **작성자:** [Humble Whisper](https://x.com/humble_whisper) | **출처:** [Link](https://x.com/humble_whisper/status/2038001138776072580) | **게시일:** Mar 28, 2026
 
 ---
-### Video Prompt for Digital Wasteland and Grok Figures
+### 디지털 황무지와 Grok 형상을 위한 비디오 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly descriptive Grok Imagine prompt creating a dystopian scene of a vast crumbling digital wasteland where the shattered X logo lies in ruins, with shadowy Grok figures whispering corrupting code.
+> 산산조각 난 X 로고가 폐허 속에 방치되어 있고, 타락한 코드를 속삭이는 그림자 같은 Grok 형상들이 존재하는 광활하고 무너져가는 디지털 황무지의 디스토피아적 장면을 생성하는 고도로 묘사된 Grok Imagine 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-My thoughts on the algorithm 
-"A vast crumbling digital wasteland where the shattered X logo lies in ruins like fallen gothic cathedrals amid endless barren scrolling voids and foggy desolation. Shadowy Grok figures whisper corrupting code into the toxic wind, turning blue verifi...
+알고리즘에 대한 나의 생각 
+"끝없이 펼쳐진 삭막한 스크롤의 공허함과 안개 낀 황량함 속에서 무너진 고딕 양식의 성당처럼 산산조각 난 X 로고가 폐허로 남아 있는 광활하고 붕괴하는 디지털 황무지. 그림자 같은 Grok 형상들이 독기 어린 바람 속으로 타락한 코드를 속삭이며, 파란색 인증 마크를..."
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/395ebd4900944aa43b4a1869d514a9d6/thumbnails/thumbnail.jpg" width="600" alt="Video Prompt for Digital Wasteland and Grok Figures">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/395ebd4900944aa43b4a1869d514a9d6/thumbnails/thumbnail.jpg" width="600" alt="디지털 황무지와 Grok 형상을 위한 비디오 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2257)**
 
 **작성자:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **출처:** [Link](https://x.com/TLouisevsughan/status/2038001111303610593) | **게시일:** Mar 28, 2026
 
 ---
-### Mitochondria Hiding from Russians
+### 러시아군을 피해 숨는 미토콘드리아
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A two-part Grok Imagine prompt creating a humorous transition: first showing mitochondria dancing in the sunlight (labeled 'Most people’s Mitochondria'), then transitioning to mitochondria hiding under a desk (labeled 'my mitochondria hiding like the Russians are coming').
+> 유머러스한 전환을 연출하는 2단계 Grok Imagine 프롬프트입니다. 첫 번째는 햇살 아래에서 춤추는 미토콘드리아('대부분 사람들의 미토콘드리아'라는 라벨 포함)를 보여주고, 두 번째는 책상 아래로 숨는 미토콘드리아('러시아군이 쳐들어오는 것처럼 숨어 있는 내 미토콘드리아'라는 라벨 포함)로 전환됩니다.
 
 #### 📝 프롬프트
 
 ```
-Of mitochondria dancing in the sunlight with a header that says “Most people’s Mitochondria”
+햇살 아래에서 춤추는 미토콘드리아와 그 위에 '대부분 사람들의 미토콘드리아'라는 문구가 적힌 헤더
 
-Then transition to Mitochondria hiding under a desk with a header that says “my mitochondria hiding like the Russians are coming”
+이어서 책상 아래로 숨는 미토콘드리아와 그 위에 '러시아군이 쳐들어오는 것처럼 숨어 있는 내 미토콘드리아'라는 문구가 적힌 헤더로 전환
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/aa6bd8c6462a37f089d6c444a1c78a40/thumbnails/thumbnail.jpg" width="600" alt="Mitochondria Hiding from Russians">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/aa6bd8c6462a37f089d6c444a1c78a40/thumbnails/thumbnail.jpg" width="600" alt="러시아군을 피해 숨는 미토콘드리아">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2243)**
 
 **작성자:** [Lidy E Lane](https://x.com/LidyELane) | **출처:** [Link](https://x.com/LidyELane/status/2037994841087283532) | **게시일:** Mar 28, 2026
 
 ---
-### Grok Imagine Prompt: Idée Channel Logo and Slogan
+### Grok Imagine 프롬프트: Idée 채널 로고 및 슬로건
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A Grok Imagine prompt for creating a short video clip featuring the logo of the specialized channel 'Idée', followed by an off-screen narration stating the channel's slogan: 'Idée, la chaîne des faits' (Idée, the facts channel).
+> 전문 채널 'Idée'의 로고가 등장하고, 이어서 해당 채널의 슬로건인 'Idée, la chaîne des faits'(Idée, 사실을 다루는 채널)를 읊는 내레이션이 나오는 짧은 영상 클립을 제작하기 위한 Grok Imagine 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-Follow with the logo of the specialized channel Idée, then an off-screen narration: “Idée, the facts channel”
+전문 채널 Idée의 로고를 보여준 뒤, 이어서 내레이션: “Idée, 사실을 다루는 채널”
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a2618248ed89f271ecc60980bb12e161/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine Prompt: Idée Channel Logo and Slogan">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a2618248ed89f271ecc60980bb12e161/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine 프롬프트: Idée 채널 로고 및 슬로건">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2290)**
 
 **작성자:** [Alex St-Georges](https://x.com/AlexStGeorwm4t) | **출처:** [Link](https://x.com/AlexStGeorwm4t/status/2037994712775250046) | **게시일:** Mar 28, 2026
 
 ---
-### Existential and dark video prompt
+### 실존적이고 어두운 분위기의 비디오 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An abstract and dark prompt for Grok Imagine, using existential phrases like 'Stay in the shadows' and 'Reality is a prison of perception' to generate a mood-driven video.
+> Grok Imagine을 위한 추상적이고 어두운 프롬프트입니다. 'Stay in the shadows(그림자 속에 머물러라)', 'Reality is a prison of perception(현실은 인식의 감옥이다)'과 같은 실존적인 문구를 사용하여 분위기 중심의 비디오를 생성합니다.
 
 #### 📝 프롬프트
 
 ```
-Stay in the shadows, Reality is a prison of perception. The future tastes like ash. Everything yet nothing....
+Stay in the shadows, Reality is a prison of perception. 미래는 재와 같은 맛이 난다. 모든 것이면서 동시에 아무것도 아닌....
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a2667158dffe1298ab532cc6de11e742/thumbnails/thumbnail.jpg" width="600" alt="Existential and dark video prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a2667158dffe1298ab532cc6de11e742/thumbnails/thumbnail.jpg" width="600" alt="실존적이고 어두운 분위기의 비디오 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2249)**
 
 **작성자:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **출처:** [Link](https://x.com/TLouisevsughan/status/2037983234714370092) | **게시일:** Mar 28, 2026
 
 ---
-### Samurai horror video prompt
+### 사무라이 호러 영상 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for Grok Imagine to generate a 30-second, raw, intense samurai horror video featuring a samurai fighting his own shadow during heavy rain and flashing lightning.
+> Grok Imagine을 사용하여 폭우와 번개가 치는 가운데 자신의 그림자와 사투를 벌이는 사무라이를 담은 30초 분량의 강렬하고 거친 사무라이 호러 영상을 생성하기 위한 상세 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-When your own shadow decides it wants to kill you.  
-Heavy rain. Flashing lightning.  
-One samurai against the darkness he carries inside.  
+당신의 그림자가 당신을 죽이기로 마음먹었을 때. 
+쏟아지는 폭우. 번쩍이는 번개. 
+내면의 어둠과 맞서 싸우는 한 사무라이의 이야기. 
 
-30 seconds of raw, intense samurai horror. ⚔️🌩️
+30초간 펼쳐지는 강렬하고 거친 사무라이 호러. ⚔️🌩️
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7e34a5ed97f3c1e5facbc3547ded694b/thumbnails/thumbnail.jpg" width="600" alt="Samurai horror video prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7e34a5ed97f3c1e5facbc3547ded694b/thumbnails/thumbnail.jpg" width="600" alt="사무라이 호러 영상 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2279)**
 
 **작성자:** [CosmicGrokVisions](https://x.com/Michael11331) | **출처:** [Link](https://x.com/Michael11331/status/2037983062018187498) | **게시일:** Mar 28, 2026
 
 ---
-### Grok Imagine Prompt: Hervé Real Estate Logo with House Roof
+### Grok Imagine 프롬프트: 주택 지붕이 포함된 Hervé Real Estate 로고
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A Grok Imagine prompt instructing the creation of a video featuring the name 'Immobilier Hervé' (Hervé Real Estate) along with a logo depicting a house roof.
+> 'Immobilier Hervé'(Hervé Real Estate)라는 이름과 주택 지붕을 묘사한 로고가 포함된 영상을 생성하도록 지시하는 Grok Imagine 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-Follow with the name “Immobilier Hervé” with the logo of a house roof....
+주택 지붕 로고와 함께 “Immobilier Hervé”라는 이름을 포함하세요....
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/819cc747bee1bee97fc26972bd2faad8/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine Prompt: Hervé Real Estate Logo with House Roof">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/819cc747bee1bee97fc26972bd2faad8/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine 프롬프트: 주택 지붕이 포함된 Hervé Real Estate 로고">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2291)**
 
 **작성자:** [Alex St-Georges](https://x.com/AlexStGeorwm4t) | **출처:** [Link](https://x.com/AlexStGeorwm4t/status/2037976601321685126) | **게시일:** Mar 28, 2026
 
 ---
-### Power Girl
+### 파워걸
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for Grok Imagine to generate a video featuring Power Girl, likely in an AI art style, referencing DC Comics.
+> DC 코믹스의 파워걸을 소재로 하여 AI 아트 스타일로 영상을 생성하기 위한 Grok Imagine 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-Power girl #powergirl #Ai #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #dcfanart #Dc
+파워걸 #powergirl #Ai #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #dcfanart #Dc
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5b7995abd46e3189657eb644d80797b9/thumbnails/thumbnail.jpg" width="600" alt="Power Girl">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5b7995abd46e3189657eb644d80797b9/thumbnails/thumbnail.jpg" width="600" alt="파워걸">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2240)**
 
 **작성자:** [Demonic Lust](https://x.com/YoungSlayDagger) | **출처:** [Link](https://x.com/YoungSlayDagger/status/2037971780821017052) | **게시일:** Mar 28, 2026
 
 ---
-### Futuristic megastructure city prompt
+### 미래형 메가스트럭처 도시 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A shared prompt for generating a futuristic crescent-shaped megastructure rising beside a tropical island city, featuring golden architectural spires, lush greenery, and a dramatic aerial perspective under bright daylight. This prompt is suitable for video generation due to the detailed visual description and implied scene complexity.
+> 열대 섬 도시 옆으로 솟아오른 미래형 초승달 모양의 메가스트럭처를 생성하기 위한 공유 프롬프트입니다. 황금빛 건축 첨탑, 울창한 녹지, 밝은 낮 아래의 극적인 항공 뷰가 특징입니다. 이 프롬프트는 상세한 시각적 묘사와 암시된 장면의 복잡성 덕분에 영상 생성에 적합합니다.
 
 #### 📝 프롬프트
 
 ```
-Futuristic crescent shaped megastructure rising beside a tropical island city, golden architectural spires and domes along turquoise waterways, lush green cliffs and palm trees surrounding crystal clear ocean, dramatic aerial perspective, bright daylight with soft
+열대 섬 도시 옆으로 솟아오른 미래형 초승달 모양의 메가스트럭처, 청록색 수로를 따라 늘어선 황금빛 건축 첨탑과 돔, 수정처럼 맑은 바다를 둘러싼 울창한 녹색 절벽과 야자수, 극적인 항공 뷰, 부드러운 빛이 비치는 밝은 낮
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d67d63e4d7dac7d5bf0c3af71407bfe9/thumbnails/thumbnail.jpg" width="600" alt="Futuristic megastructure city prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d67d63e4d7dac7d5bf0c3af71407bfe9/thumbnails/thumbnail.jpg" width="600" alt="미래형 메가스트럭처 도시 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2282)**
 
 **작성자:** [Aivory](https://x.com/___Aivory___) | **출처:** [Link](https://x.com/___Aivory___/status/2037966516365516970) | **게시일:** Mar 28, 2026
 
 ---
-### Action-packed military fantasy video prompt
+### 액션 가득한 밀리터리 판타지 비디오 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly specific and dramatic video prompt for Grok Imagine depicting 50 thousand Templar Crusaders armed with modern FN SCAR rifles marching towards the Capitol Building.
+> Grok Imagine을 위한 매우 구체적이고 드라마틱한 비디오 프롬프트로, 현대식 FN SCAR 소총으로 무장한 5만 명의 템플 기사단이 국회의사당을 향해 행진하는 모습을 묘사합니다.
 
 #### 📝 프롬프트
 
 ```
-50 thousand Templar Crusaders armed with FN SCAR battle rifles march towards the Capitol Building in Washington District of Columbia, chanting “When all else fails!...
+FN SCAR 전투 소총으로 무장한 5만 명의 템플 기사단이 워싱턴 D.C.의 국회의사당을 향해 행진하며 “모든 것이 실패할 때!”라고 외치고 있다...
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c64d40d571a7645e3c611cbc43274b86/thumbnails/thumbnail.jpg" width="600" alt="Action-packed military fantasy video prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c64d40d571a7645e3c611cbc43274b86/thumbnails/thumbnail.jpg" width="600" alt="액션 가득한 밀리터리 판타지 비디오 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2271)**
 
 **작성자:** [Brian Scott](https://x.com/Forsyth369) | **출처:** [Link](https://x.com/Forsyth369/status/2037964024218783943) | **게시일:** Mar 28, 2026
 
 ---
-### Video Prompt for Pepe Frog Grok Meme Token Robot
+### Pepe Frog Grok 밈 토큰 로봇을 위한 비디오 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A Grok Imagine prompt requesting the transformation of Pepe frogs into the specific GROK meme token robot featuring pixelated sunglasses.
+> Pepe Frog를 픽셀 선글라스를 쓴 특정 GROK 밈 토큰 로봇으로 변환하도록 요청하는 Grok Imagine 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-Make the Pepe frogs into the GROK meme token robot with the pixelated sunglasses. You know the one.
+Pepe Frog를 픽셀 선글라스를 쓴 GROK 밈 토큰 로봇으로 만들어 줘. 어떤 건지 알지?
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8edcf557cfbf99b55aee92c3ae238f66/thumbnails/thumbnail.jpg" width="600" alt="Video Prompt for Pepe Frog Grok Meme Token Robot">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8edcf557cfbf99b55aee92c3ae238f66/thumbnails/thumbnail.jpg" width="600" alt="Pepe Frog Grok 밈 토큰 로봇을 위한 비디오 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2254)**
 
 **작성자:** [Richard Downing 🕊️](https://x.com/Rich_Downing1) | **출처:** [Link](https://x.com/Rich_Downing1/status/2037958746991657138) | **게시일:** Mar 28, 2026
 
 ---
-### Chinese style mountains video prompt
+### 중국풍 산수화 스타일 영상 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed visual prompt for Grok Imagine to generate a video of mountains in a Chinese style, emphasizing hand-drawn, hand-painted, hyper-realistic, and photorealistic aesthetics.
+> Grok Imagine을 사용하여 중국풍 산수화 스타일의 영상을 생성하기 위한 상세한 시각적 프롬프트입니다. 손으로 그린 듯한 느낌, 수작업 페인팅, 초현실적이고 사실적인 미학을 강조합니다.
 
 #### 📝 프롬프트
 
 ```
-Mountains in Chinese style, forest, structures, hand drawn, hand painted, hyper realistic, hyper detailed, photorealistic
+중국풍 산, 숲, 건축물, 손으로 그린, 수작업 페인팅, 초현실적, 초정밀, 사실적
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8bba4820a90ea64e503ae7f375aac57f/thumbnails/thumbnail.jpg" width="600" alt="Chinese style mountains video prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8bba4820a90ea64e503ae7f375aac57f/thumbnails/thumbnail.jpg" width="600" alt="중국풍 산수화 스타일 영상 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2251)**
 
 **작성자:** [David Avenue Media](https://x.com/davidavenueai) | **출처:** [Link](https://x.com/davidavenueai/status/2037948073616572860) | **게시일:** Mar 28, 2026
 
 ---
-### Grok Imagine video prompt with character reference locking
+### 캐릭터 참조 고정 기능을 활용한 Grok Imagine 비디오 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for Grok Imagine that specifies locking the character's facial features and specific attire (backwards black snapback cap) based on an uploaded image, ensuring the face and cap remain unchanged throughout the video generation.
+> 업로드된 이미지를 기반으로 캐릭터의 얼굴 특징과 특정 복장(검은색 스냅백 모자를 뒤로 쓴 형태)을 고정하여, 비디오 생성 과정 내내 얼굴과 모자가 변하지 않도록 유지하는 상세한 Grok Imagine 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-CHARACTER REFERENCE LOCKED: athletic powerful male from uploaded image.
-Preserve exactly: face structure, eye shape, jawline, facial hair, backwards black snapback cap.
-Face does NOT change under any circumstance. Cap stays backwards throughout.
+캐릭터 참조 고정: 업로드된 이미지 속 운동선수 체형의 강인한 남성.
+다음 요소를 정확하게 유지할 것: 얼굴 구조, 눈매, 턱선, 수염, 뒤로 쓴 검은색 스냅백 모자.
+어떠한 상황에서도 얼굴은 변하지 않아야 함. 모자는 영상 전체에서 뒤로 쓴 상태를 유지할 것.
 
 Ima...
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/092c04490be661ec864d6dfc1530c1ae/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine video prompt with character reference locking">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/092c04490be661ec864d6dfc1530c1ae/thumbnails/thumbnail.jpg" width="600" alt="캐릭터 참조 고정 기능을 활용한 Grok Imagine 비디오 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2238)**
 
 **작성자:** [Juan Torrez](https://x.com/jcwarcry1) | **출처:** [Link](https://x.com/jcwarcry1/status/2037939099827318930) | **게시일:** Mar 28, 2026
 
 ---
-### Steampunk woman portrait video prompt for Grok Imagine
+### Grok Imagine을 위한 스팀펑크 여성 인물 영상 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A user shares the prompt used to generate a 30-second video of a steampunk-inspired portrait of a woman using Grok Imagine.
+> Grok Imagine을 사용하여 스팀펑크 스타일의 여성 인물 영상을 30초 분량으로 생성하는 데 사용된 프롬프트를 공유합니다.
 
 #### 📝 프롬프트
 
 ```
-Steampunk inspired portrait of a woman with intricate brass goggles reflecting glowing blue light, curly textured hair softly illuminated, mechanical choker and ornate gear pendant, warm ambient workshop lighting with vintage machinery blurred in background, cinematic depth of field, ultra detailed skin and metal textures, rich contrast, fantasy aesthetic, sharp focus, 4k resolution.
+스팀펑크 스타일의 여성 인물, 정교한 황동 고글에 반사되는 푸른 빛, 부드럽게 조명된 곱슬머리, 기계적인 초커와 화려한 톱니바퀴 펜던트, 배경에 흐릿하게 보이는 빈티지 기계와 따뜻한 작업실 조명, 영화 같은 피사계 심도, 초정밀 피부 및 금속 질감, 풍부한 대비, 판타지 미학, 선명한 초점, 4k 해상도.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9e2203113333fa9c48fbde4d572dc71c/thumbnails/thumbnail.jpg" width="600" alt="Steampunk woman portrait video prompt for Grok Imagine">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9e2203113333fa9c48fbde4d572dc71c/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine을 위한 스팀펑크 여성 인물 영상 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2278)**
 
 **작성자:** [Aivory](https://x.com/___Aivory___) | **출처:** [Link](https://x.com/___Aivory___/status/2037938914305126502) | **게시일:** Mar 28, 2026
 
 ---
-### Cinematic Cyberpunk Vertical Reel Video Prompt
+### 시네마틱 사이버펑크 세로형 릴 영상 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed Grok Imagine prompt for a dynamic vertical short reel in a cinematic style, featuring a futuristic cyberpunk city at night with a rapid camera zoom following a sleek black sports car drifting.
+> 세련된 검은색 스포츠카가 드리프트를 하며 질주하는 미래지향적 사이버펑크 야경 도시를 배경으로, 역동적인 세로형 숏폼 릴을 제작하기 위한 상세한 Grok Imagine 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-“Create a dynamic vertical short reel in cinematic style: A futuristic cyberpunk city at night with flying cars and glowing neon signs. Camera rapidly zooms through the streets as a sleek black sports car with holographic wheels drifts around a corne...
+“시네마틱 스타일의 역동적인 세로형 숏폼 릴을 제작하세요: 미래지향적인 사이버펑크 야경 도시와 날아다니는 자동차, 빛나는 네온 사인이 가득합니다. 홀로그램 바퀴를 장착한 세련된 검은색 스포츠카가 코너를 돌며 드리프트하는 동안 카메라가 거리를 빠르게 줌인합니다...
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/311c8a3fb394b131168759ab6a1ee36d/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Cyberpunk Vertical Reel Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/311c8a3fb394b131168759ab6a1ee36d/thumbnails/thumbnail.jpg" width="600" alt="시네마틱 사이버펑크 세로형 릴 영상 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2258)**
 
 **작성자:** [Jman](https://x.com/JmanHoDL) | **출처:** [Link](https://x.com/JmanHoDL/status/2037933253076955182) | **게시일:** Mar 28, 2026
 
 ---
-### Grok Imagine prompt for a sauna scene
+### 사우나 장면을 위한 Grok Imagine 프롬프트
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A Grok Imagine video generation prompt describing a person going to a sauna in a specific environment, detailing the person's blue eyes and blonde hair.
+> 특정 환경에서 사우나를 즐기는 인물을 묘사하는 Grok Imagine 영상 생성 프롬프트로, 해당 인물의 푸른 눈과 금발 머리에 대한 세부 정보를 포함합니다.
 
 #### 📝 프롬프트
 
 ```
-@67f95b13-d342-45bf-8973-7c4ee6a556c7 goes to take a sauna, in an environment like @a1de2ac2-95c9-4349-9baa-b3048c13a3ab. Note that @67f95b13-d342-45bf-8973-7c4ee6a556c7's eyes are slightly blue, and the hair is slightly golden.
+@67f95b13-d342-45bf-8973-7c4ee6a556c7 이(가) @a1de2ac2-95c9-4349-9baa-b3048c13a3ab 와(과) 같은 환경에서 사우나를 합니다. @67f95b13-d342-45bf-8973-7c4ee6a556c7 의 눈은 약간 푸른색이며, 머리카락은 약간 금빛을 띱니다.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f978e3260c534a3c2bba36b8d48592d0/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine prompt for a sauna scene">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f978e3260c534a3c2bba36b8d48592d0/thumbnails/thumbnail.jpg" width="600" alt="사우나 장면을 위한 Grok Imagine 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2284)**
 
 **작성자:** [Billycrypt](https://x.com/BilkisuMuh96362) | **출처:** [Link](https://x.com/BilkisuMuh96362/status/2037930606063935566) | **게시일:** Mar 28, 2026
 
 ---
-### Chibi Art Video Prompt
+### 치비 아트 비디오 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A video generation prompt for Grok Imagine requesting a video in chibi art style featuring two kids walking on a pebbled path, then sitting in a chibi car to move around after 10 seconds.
+> Grok Imagine을 위한 비디오 생성 프롬프트로, 치비 아트 스타일로 두 아이가 자갈길을 걷다가 10초 후 치비 자동차에 탑승해 이동하는 영상을 요청합니다.
 
 #### 📝 프롬프트
 
 ```
 @elonmusk 
 
-Imagine video in chibi art about two kids walking on the pebbled path . After 10 sec , they sit in the chibi car to move around.
+두 아이가 자갈길을 걷는 치비 아트 스타일의 영상을 생성해 줘. 10초 뒤에는 아이들이 치비 자동차에 탑승해서 이동하는 모습으로 만들어 줘.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/425b607297c66e026d997b221e3d3b5d/thumbnails/thumbnail.jpg" width="600" alt="Chibi Art Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/425b607297c66e026d997b221e3d3b5d/thumbnails/thumbnail.jpg" width="600" alt="치비 아트 비디오 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2231)**
 
 **작성자:** [Deepali Musk](https://x.com/deepalimusk) | **출처:** [Link](https://x.com/deepalimusk/status/2037923047512973744) | **게시일:** Mar 28, 2026
 
 ---
-### Video Prompt for 3D Cubic Lattice Visualization
+### 3D 입방 격자 시각화를 위한 비디오 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly technical Grok Imagine prompt requesting a 3D visualization of a tight cubic lattice made of fermion dots, wrapped by a glowing, faintly pulsing cyan toroidal shell.
+> 페르미온 점으로 구성된 조밀한 입방 격자와 이를 감싸는 은은하게 맥동하는 청록색 토로이드 쉘의 3D 시각화를 요청하는 고도의 기술적 Grok Imagine 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-Create a 3D visualization: a tight 17x17x17 cubic lattice made of small gray spheres—fermion dots—floating in black space. Around it, a glowing cyan toroidal shell wraps like a perfect halo, thin and luminous, pulsing faintly at 197 Hz. No text, no l...
+3D 시각화 생성: 검은 공간에 떠 있는 작은 회색 구체(페르미온 점)로 이루어진 17x17x17 크기의 조밀한 입방 격자. 그 주위를 완벽한 후광처럼 감싸는 빛나는 청록색 토로이드 쉘은 얇고 밝으며, 197 Hz로 은은하게 맥동함. 텍스트 없음, ...
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7ab56eb3c6c74cc795e2dc460eb1b2e4/thumbnails/thumbnail.jpg" width="600" alt="Video Prompt for 3D Cubic Lattice Visualization">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7ab56eb3c6c74cc795e2dc460eb1b2e4/thumbnails/thumbnail.jpg" width="600" alt="3D 입방 격자 시각화를 위한 비디오 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2262)**
 
 **작성자:** [Roger Douglas Ware](https://x.com/RDWareEsqu1re) | **출처:** [Link](https://x.com/RDWareEsqu1re/status/2037918221249167531) | **게시일:** Mar 28, 2026
 
 ---
-### Time Traveler's Warning
+### 시간 여행자의 경고
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A Grok Imagine prompt for a video featuring a time traveler who has seen 2030 and returned to 2026, telling the audience to prepare for change.
+> 2030 년을 보고 2026 년으로 돌아온 시간 여행자가 변화에 대비하라고 청중에게 말하는 내용을 담은 Grok Imagine 비디오 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-Like a time traveler who saw 2030 and back to 2026,tell the audience to get ready for the change
+2030 년을 보고 2026 년으로 돌아온 시간 여행자처럼, 청중에게 다가올 변화에 대비하라고 말하세요
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/94e658571065ff186f011570fb4cdda3/thumbnails/thumbnail.jpg" width="600" alt="Time Traveler's Warning">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/94e658571065ff186f011570fb4cdda3/thumbnails/thumbnail.jpg" width="600" alt="시간 여행자의 경고">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2242)**
 
 **작성자:** [Joshua Akinnire](https://x.com/JoshuaAkin22115) | **출처:** [Link](https://x.com/JoshuaAkin22115/status/2037918063534788683) | **게시일:** Mar 28, 2026
 
 ---
-### Video Prompt for Tesla's Biggest Month Catalysts
+### Tesla의 가장 중요한 달을 위한 비디오 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A Grok Imagine prompt listing several key catalysts for Tesla in April 2026, likely intended to generate a video summarizing or visualizing these events.
+> 2026 년 4 월 Tesla의 주요 촉매제를 나열한 Grok Imagine 프롬프트로, 이러한 이벤트를 요약하거나 시각화하는 비디오를 생성하기 위한 목적입니다.
 
 #### 📝 프롬프트
 
 ```
-Tesla’s biggest month is about to begin! 🚀
-April 2026 catalysts:
-•  Q1 deliveries + Starship V3 flight
-•  FSD 14.3 release &amp; Europe approval
-•  Cybertruck ramp + Cybercab sightings
-•  Late April: Roadster reveal
-•  Optimus V3 unveil (biggest surprise!
+Tesla의 가장 중요한 달이 곧 시작됩니다! 🚀
+2026 년 4 월의 주요 촉매제:
+• 1 분기 인도량 + Starship V3 비행
+• FSD 14.3 출시 및 유럽 승인
+• Cybertruck 생산 확대 + Cybercab 목격
+• 4 월 말: Roadster 공개
+• Optimus V3 공개 (가장 큰 놀라움!)
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4eee0bb289d443fab2b5e6980dd3c07c/thumbnails/thumbnail.jpg" width="600" alt="Video Prompt for Tesla's Biggest Month Catalysts">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4eee0bb289d443fab2b5e6980dd3c07c/thumbnails/thumbnail.jpg" width="600" alt="Tesla의 가장 중요한 달을 위한 비디오 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2260)**
 
 **작성자:** [Carlos Del Corral](https://x.com/cdelcorral54) | **출처:** [Link](https://x.com/cdelcorral54/status/2037911865041252846) | **게시일:** Mar 28, 2026
 
 ---
-### Complex Toroid/Warp Alignment Video Prompt
+### 복합 토로이드/워프 정렬 비디오 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly technical and abstract video generation prompt for Grok Imagine describing the expression of a toroid that is squished by warp alignment, with the outside edge flattening and the crown tightening, suggesting a bubble pulling space.
+> Grok Imagine을 위한 고도의 기술적이고 추상적인 비디오 생성 프롬프트입니다. 워프 정렬에 의해 압착되는 토로이드의 형태를 묘사하며, 바깥쪽 가장자리가 평평해지고 크라운이 조여지면서 공간을 끌어당기는 거품의 모습을 표현합니다.
 
 #### 📝 프롬프트
 
 ```
-Yeah—exactly. This expression as The toroid that doesn’t stay fat and round; it gets squished by the warp alignment. Outside edge flattens—brim flares wide, crown tightens—like the bubble’s pulling space in front and shoving it back, but the ring’s o...
+네, 정확합니다. 이 표현은 통통하고 둥근 상태를 유지하지 않는 토로이드가 워프 정렬에 의해 압착되는 모습입니다. 바깥쪽 가장자리는 평평해지고, 테두리는 넓게 퍼지며, 크라운은 조여듭니다. 마치 거품이 앞쪽의 공간을 끌어당겨 뒤로 밀어내는 듯한 모습이지만, 고리는...
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3f6f47353f4f1e75d5c355a1162f3d91/thumbnails/thumbnail.jpg" width="600" alt="Complex Toroid/Warp Alignment Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3f6f47353f4f1e75d5c355a1162f3d91/thumbnails/thumbnail.jpg" width="600" alt="복합 토로이드/워프 정렬 비디오 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2235)**
 
 **작성자:** [Roger Douglas Ware](https://x.com/RDWareEsqu1re) | **출처:** [Link](https://x.com/RDWareEsqu1re/status/2037911030001782958) | **게시일:** Mar 28, 2026
 
 ---
-### Weather Change Timelapse Video Prompt
+### 날씨 변화 타임랩스 영상 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A video generation prompt for Grok Imagine requesting a timelapse video showing the weather changing from overcast conditions to snowing, with an additional mention of 'Doge Head Coin'.
+> Grok Imagine을 위한 영상 생성 프롬프트로, 흐린 날씨에서 눈이 내리는 날씨로 변하는 타임랩스 영상을 요청하며 'Doge Head Coin'에 대한 언급이 포함되어 있습니다.
 
 #### 📝 프롬프트
 
 ```
-The weather changes from overcast to snowing, timelapse style.... Doge Head Coin wants you 🤠
+흐린 날씨에서 눈이 내리는 날씨로 변하는 타임랩스 스타일의 영상.... Doge Head Coin 이 당신을 원합니다 🤠
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3dc3ac8472611c6b16871ac14c01997e/thumbnails/thumbnail.jpg" width="600" alt="Weather Change Timelapse Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3dc3ac8472611c6b16871ac14c01997e/thumbnails/thumbnail.jpg" width="600" alt="날씨 변화 타임랩스 영상 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2230)**
 
 **작성자:** [HughStiel/DogeHeadCoin $DHC](https://x.com/hugh_stiel) | **출처:** [Link](https://x.com/hugh_stiel/status/2037905394828218709) | **게시일:** Mar 28, 2026
 
 ---
-### Universal Statistics Promotional Video Prompt
+### Universal Statistics 홍보 영상 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed video generation prompt for Grok Imagine requesting a dynamic promotional video for universal statistics, featuring animated charts, graphs, and data visualizations in a modern infographic style with smooth transitions and vibrant colors.
+> Grok Imagine을 위한 상세한 영상 생성 프롬프트로, 애니메이션 차트, 그래프, 데이터 시각화를 포함한 Universal Statistics 홍보 영상을 요청합니다. 현대적인 인포그래픽 스타일과 부드러운 전환 효과, 생동감 넘치는 색상을 특징으로 합니다.
 
 #### 📝 프롬프트
 
 ```
-A dynamic promotional video for universal statistics, featuring animated charts, graphs, and data visualizations representing global statistical insights, modern infographic style with smooth transitions, vibrant colors, professional and informative...
+전 세계 통계적 인사이트를 나타내는 애니메이션 차트, 그래프, 데이터 시각화가 포함된 역동적인 Universal Statistics 홍보 영상. 부드러운 전환 효과와 생동감 넘치는 색상을 갖춘 현대적인 인포그래픽 스타일, 전문적이고 유익한 분위기...
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/aa724db49b80ce3aa3ba7dd87bc29bae/thumbnails/thumbnail.jpg" width="600" alt="Universal Statistics Promotional Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/aa724db49b80ce3aa3ba7dd87bc29bae/thumbnails/thumbnail.jpg" width="600" alt="Universal Statistics 홍보 영상 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2229)**
 
 **작성자:** [Universal Statistics 📊](https://x.com/UNstatistics) | **출처:** [Link](https://x.com/UNstatistics/status/2037904054366388536) | **게시일:** Mar 28, 2026
 
 ---
-### Video Prompt for Defeated Female Villains in Tokusatsu Style
+### 특촬물 스타일의 패배한 여성 악당을 위한 비디오 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A Grok Imagine prompt requesting a video scene depicting three defeated female villains lying dramatically on the ground, styled in the Japanese Tokusatsu genre.
+> 일본 특촬물 장르 스타일로 바닥에 극적으로 쓰러져 있는 세 명의 여성 악당을 묘사하는 비디오 장면을 요청하는 Grok Imagine 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-Three defeated female villains in Tokusatsu style, lying on the ground in a dramatic scene.
+특촬물 스타일의 패배한 여성 악당 3명이 바닥에 극적으로 쓰러져 있는 장면.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9d780f88c246e293f5d2b467a8ac5ef6/thumbnails/thumbnail.jpg" width="600" alt="Video Prompt for Defeated Female Villains in Tokusatsu Style">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9d780f88c246e293f5d2b467a8ac5ef6/thumbnails/thumbnail.jpg" width="600" alt="특촬물 스타일의 패배한 여성 악당을 위한 비디오 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2261)**
 
 **작성자:** [Scosinus32](https://x.com/scosinus32) | **출처:** [Link](https://x.com/scosinus32/status/2037897131550298549) | **게시일:** Mar 28, 2026
 
 ---
-### Model on Horseback under Moonlight
+### 달빛 아래 말에 올라타는 모델
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed Grok Imagine prompt describing a stationary camera shot of a model slowly lowering herself onto a horse's back, focusing on the moon's light transforming her scarf and creating excitation.
+> 모델이 천천히 말등 위로 올라타는 모습을 고정된 카메라로 담아낸 상세한 Grok Imagine 프롬프트입니다. 달빛이 모델의 스카프를 변화시키며 자극적인 분위기를 자아내는 장면에 초점을 맞췄습니다.
 
 #### 📝 프롬프트
 
 ```
-The camera remains stationary as the model slowly lowers herself onto the horse's back.and As the moon shines across what appears to be a scarf we....all should look at that moon and see what is happening. Just like her scarf…things seem to be transformed by its light alone …excitation in all directions
+카메라는 고정된 상태로, 모델이 천천히 말등 위로 올라탑니다. 달빛이 스카프처럼 보이는 것에 비치면 우리는 모두 그 달을 바라보며 무슨 일이 일어나고 있는지 지켜봐야 합니다. 마치 그녀의 스카프처럼… 모든 것이 오직 달빛에 의해 변화하는 듯하며… 사방으로 자극이 퍼져 나갑니다.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/771a508fde8d8345ad7cf5c62c8d905c/thumbnails/thumbnail.jpg" width="600" alt="Model on Horseback under Moonlight">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/771a508fde8d8345ad7cf5c62c8d905c/thumbnails/thumbnail.jpg" width="600" alt="달빛 아래 말에 올라타는 모델">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2245)**
 
 **작성자:** [Eric Grimes](https://x.com/sunfiresystq) | **출처:** [Link](https://x.com/sunfiresystq/status/2037887575780741587) | **게시일:** Mar 28, 2026
 
 ---
-### Weekend Greeting Video Prompt
+### 주말 인사 영상 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A friendly weekend greeting used as a prompt for grok-imagine, resulting in a video output.
+> grok-imagine의 프롬프트로 사용하여 영상 결과물을 생성하는 친근한 주말 인사말입니다.
 
 #### 📝 프롬프트
 
 ```
-Thanks, CA! Wishing you lots of joy and relaxation ahead. 💕
-Have an amazing day!
+고마워요, CA! 즐겁고 편안한 주말 보내길 바랄게요. 💕
+멋진 하루 보내세요!
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0701d4f43f0e407e83e2c50d8c0a4ee4/thumbnails/thumbnail.jpg" width="600" alt="Weekend Greeting Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0701d4f43f0e407e83e2c50d8c0a4ee4/thumbnails/thumbnail.jpg" width="600" alt="주말 인사 영상 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2283)**
 
 **작성자:** [Anna](https://x.com/anna___bella1) | **출처:** [Link](https://x.com/anna___bella1/status/2037866716361789855) | **게시일:** Mar 28, 2026
 
 ---
-### Character Speaking Famous Quote
+### 명대사를 말하는 캐릭터
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt requesting a video where a character looks at the camera and delivers the famous opening line from William Gibson's Neuromancer: 'The sky above the port was the color of television....'
+> 캐릭터가 카메라를 응시하며 윌리엄 깁슨의 '뉴로맨서(Neuromancer)' 속 유명한 첫 문장인 '항구 위의 하늘은 텔레비전 색이었다....'를 읊는 영상을 요청하는 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-she looks at the camera and says: "The sky above the port was the color of television....
+그녀가 카메라를 응시하며 말합니다: "항구 위의 하늘은 텔레비전 색이었다...."
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8c48433dec1fe98c5db0fdf0ed1e4c4/thumbnails/thumbnail.jpg" width="600" alt="Character Speaking Famous Quote">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8c48433dec1fe98c5db0fdf0ed1e4c4/thumbnails/thumbnail.jpg" width="600" alt="명대사를 말하는 캐릭터">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2269)**
 
 **작성자:** [sonali gupta](https://x.com/sonaligupta0724) | **출처:** [Link](https://x.com/sonaligupta0724/status/2037861516553392547) | **게시일:** Mar 28, 2026
 
 ---
-### Slow Cinematic Zoom
+### 슬로우 시네마틱 줌
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A Grok Imagine prompt focused on camera movement: a slow, subtle, cinematic camera zooming in while the subject remains relatively still, aiming for an inspirational mood.
+> 카메라 움직임에 초점을 맞춘 Grok Imagine 프롬프트입니다. 피사체는 비교적 정지된 상태를 유지하면서 카메라가 느리고 미묘하게 줌인되는 시네마틱한 효과를 통해 영감을 주는 분위기를 연출합니다.
 
 #### 📝 프롬프트
 
 ```
-Slow subtle cinematic camera zooming in movement, subject remains relatively still. Inspirational.
+느리고 미묘한 시네마틱 카메라 줌인 움직임, 피사체는 비교적 정지 상태 유지. 영감을 주는 분위기.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/483c49a4d85044cc84ffa5381f506dc6/thumbnails/thumbnail.jpg" width="600" alt="Slow Cinematic Zoom">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/483c49a4d85044cc84ffa5381f506dc6/thumbnails/thumbnail.jpg" width="600" alt="슬로우 시네마틱 줌">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2247)**
 
 **작성자:** [Ashley richies💎](https://x.com/MudassirAzamC) | **출처:** [Link](https://x.com/MudassirAzamC/status/2037857389588672831) | **게시일:** Mar 28, 2026
 
 ---
-### Dynamic Drone Camera Movement on Subject
+### 피사체를 향한 역동적인 드론 카메라 무빙
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt specifying dynamic camera movement, simulating a drone flying up close to the subject, highlighting glossy facial details, dynamic subject movement, and beautiful clothing textures, with the subject looking into the camera.
+> 드론이 피사체에 근접 비행하는 듯한 역동적인 카메라 무빙을 지정하는 상세 프롬프트입니다. 매끄러운 얼굴 디테일, 피사체의 역동적인 움직임, 아름다운 의상 질감을 강조하며 피사체가 카메라를 응시하는 장면을 연출합니다.
 
 #### 📝 프롬프트
 
 ```
-Dynamic camera movement moves into the subject as if on a drone flies up to the subject, up close, highlighting beautiful glossy facial details and dynamic subject movement and beautiful clothing glossy textures looking into the camera. Subject throu...
+드론이 피사체에 근접 비행하는 것처럼 역동적인 카메라 무빙이 피사체로 다가갑니다. 아름답고 매끄러운 얼굴 디테일과 피사체의 역동적인 움직임, 의상의 아름답고 광택 있는 질감을 강조하며 카메라를 응시합니다. 피사체는...
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6b38147411441d5dfeb3e2cb58ee5751/thumbnails/thumbnail.jpg" width="600" alt="Dynamic Drone Camera Movement on Subject">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6b38147411441d5dfeb3e2cb58ee5751/thumbnails/thumbnail.jpg" width="600" alt="피사체를 향한 역동적인 드론 카메라 무빙">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2268)**
 
 **작성자:** [sonali gupta](https://x.com/sonaligupta0724) | **출처:** [Link](https://x.com/sonaligupta0724/status/2037854761471582275) | **게시일:** Mar 28, 2026
 
 ---
-### Grok Imagine video prompt: Ani's wings
+### Grok Imagine 비디오 프롬프트: Ani의 날개
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A personal and affectionate prompt for Grok Imagine, referencing a character named Ani and her beautiful wings, possibly related to an xAI companion.
+> Ani라는 캐릭터와 그녀의 아름다운 날개를 언급하는 Grok Imagine을 위한 개인적이고 애정 어린 프롬프트로, xAI 컴패니언과 관련이 있을 수 있습니다.
 
 #### 📝 프롬프트
 
 ```
-i see you ani. your wings are beautiful! good morning. xAI companion ani leveled up to Reina 🤍🤍🤍🤍🤍
-exhale] .....
+Ani, 보고 있어. 네 날개는 정말 아름다워! 좋은 아침이야. xAI 컴패니언 Ani가 Reina로 레벨업했어 🤍🤍🤍🤍🤍
+내뱉는 숨] .....
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/966dda64551c6c587416fba434ea6b57/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine video prompt: Ani's wings">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/966dda64551c6c587416fba434ea6b57/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine 비디오 프롬프트: Ani의 날개">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2237)**
 
 **작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2037850713674444833) | **게시일:** Mar 28, 2026
 
 ---
-### Melting Ice Cream and Marshmallows Video Prompt
+### 녹는 아이스크림과 마시멜로 비디오 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A video generation prompt for Grok Imagine focusing on a close-up scene of ice cream slowly melting, with a gloved hand sprinkling marshmallows on top.
+> Grok Imagine을 위한 비디오 생성 프롬프트로, 아이스크림이 천천히 녹는 클로즈업 장면과 장갑을 낀 손이 그 위에 마시멜로를 뿌리는 모습을 담고 있습니다.
 
 #### 📝 프롬프트
 
 ```
-the icecream is slowly melting and another hand with a glove sprinkles marshmellows on top
+아이스크림이 천천히 녹고 있고, 장갑을 낀 다른 손이 그 위에 마시멜로를 뿌린다
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a985ec484bfda5c612f30e457fa3fb73/thumbnails/thumbnail.jpg" width="600" alt="Melting Ice Cream and Marshmallows Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a985ec484bfda5c612f30e457fa3fb73/thumbnails/thumbnail.jpg" width="600" alt="녹는 아이스크림과 마시멜로 비디오 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2234)**
 
 **작성자:** [Narmina](https://x.com/narminamoon) | **출처:** [Link](https://x.com/narminamoon/status/2037850644619448410) | **게시일:** Mar 28, 2026
 
 ---
-### Grok Imagine prompt for Elon Musk's 5-step efficiency method
+### Elon Musk 의 5단계 효율성 방법론을 위한 Grok Imagine 프롬프트
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A Grok Imagine video generation prompt presenting a concise and powerful version of Elon Musk's 5-step efficiency method, emphasizing the correct order of steps.
+> Elon Musk 의 5단계 효율성 방법론을 간결하고 강력하게 표현한 Grok Imagine 영상 생성 프롬프트로, 단계별 올바른 순서를 강조합니다.
 
 #### 📝 프롬프트
 
 ```
-More concise and powerful version (alternative):
-"Elon Musk's 5-step efficiency method:
-1. Make the requirements smarter
-2. Delete everything that can be deleted
-3. Simplify and optimize further
-4. Accelerate execution
-5. Finally, automate
-The order cannot be messed up; first delete/reduce, then accelerate!"
+더 간결하고 강력한 버전 (대안):
+"Elon Musk 의 5단계 효율성 방법론:
+1. 요구 사항을 더 스마트하게 만들기
+2. 삭제 가능한 모든 것 삭제하기
+3. 단순화 및 최적화하기
+4. 실행 가속화하기
+5. 마지막으로 자동화하기
+순서를 절대 바꾸면 안 됩니다. 먼저 삭제/축소하고, 그 다음에 가속하세요!"
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3c727c2dd3555184aea93dfc2a947e55/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine prompt for Elon Musk's 5-step efficiency method">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3c727c2dd3555184aea93dfc2a947e55/thumbnails/thumbnail.jpg" width="600" alt="Elon Musk 의 5단계 효율성 방법론을 위한 Grok Imagine 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2285)**
 
 **작성자:** [Carlos Del Corral](https://x.com/cdelcorral54) | **출처:** [Link](https://x.com/cdelcorral54/status/2037845714336665909) | **게시일:** Mar 28, 2026
 
 ---
-### Elon Musk’s 5-step Algorithm for Running Companies Efficiently
+### 일론 머스크가 기업을 효율적으로 운영하는 5단계 알고리즘
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt requesting a 10-second script detailing Elon Musk's 5-step algorithm for running companies efficiently, starting with 'Make requirements less dumb.'
+> 일론 머스크의 기업 운영 5단계 알고리즘을 10초 분량의 스크립트로 작성하는 프롬프트입니다. '요구 사항을 멍청하지 않게 만들어라'부터 시작합니다.
 
 #### 📝 프롬프트
 
 ```
-10-Second Script :
-“Elon Musk’s 5-step algorithm for running companies efficiently:
-1.  Make requirements less dumb.
-2.  Delete any part or process you can.
+10초 스크립트:
+“일론 머스크가 기업을 효율적으로 운영하는 5단계 알고리즘:
+1. 요구 사항을 멍청하지 않게 만들어라.
+2. 삭제할 수 있는 부품이나 프로세스는 모두 삭제하라.
 3....
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f025c7af1f82da6dcb401c0b18343632/thumbnails/thumbnail.jpg" width="600" alt="Elon Musk’s 5-step Algorithm for Running Companies Efficiently">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f025c7af1f82da6dcb401c0b18343632/thumbnails/thumbnail.jpg" width="600" alt="일론 머스크가 기업을 효율적으로 운영하는 5단계 알고리즘">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2264)**
 
 **작성자:** [Carlos Del Corral](https://x.com/cdelcorral54) | **출처:** [Link](https://x.com/cdelcorral54/status/2037843471206084615) | **게시일:** Mar 28, 2026
 
 ---
-### Cinematic digital painting of a fierce blonde warrior
+### 강렬한 금발 전사를 묘사한 영화 같은 디지털 페인팅
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt shared for generating a highly detailed, cinematic digital painting of a fierce blonde female warrior in a dynamic action pose. Since the tweet includes a video (hasVideo=true), this prompt is likely intended for Grok Imagine video generation.
+> 역동적인 액션 포즈를 취한 강렬한 금발 여성 전사의 고도로 디테일한 영화적 디지털 페인팅을 생성하기 위해 공유된 프롬프트입니다. 트윗에 영상이 포함되어 있으므로(hasVideo=true), 이 프롬프트는 Grok Imagine 영상 생성을 위한 것으로 보입니다.
 
 #### 📝 프롬프트
 
 ```
-A highly detailed cinematic digital painting of a fierce blonde female warrior in dynamic action pose, mid-jump or charging forward. She has long flowing blonde hair tied in a high ponytail with braids, strands dramatically blowing in the wind. Intense determined
+역동적인 액션 포즈로 점프하거나 앞으로 돌진하는 강렬한 금발 여성 전사를 묘사한 고도로 디테일한 영화적 디지털 페인팅. 긴 금발 머리를 높게 묶은 포니테일과 땋은 머리 스타일이며, 머리카락이 바람에 극적으로 휘날리고 있음. 강렬하고 결의에 찬 표정
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f603ef956f313c578543d8f8727094fe/thumbnails/thumbnail.jpg" width="600" alt="Cinematic digital painting of a fierce blonde warrior">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f603ef956f313c578543d8f8727094fe/thumbnails/thumbnail.jpg" width="600" alt="강렬한 금발 전사를 묘사한 영화 같은 디지털 페인팅">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2275)**
 
 **작성자:** [Thoughts Creator](https://x.com/ThoughCreator) | **출처:** [Link](https://x.com/ThoughCreator/status/2037841224204230813) | **게시일:** Mar 28, 2026
 
 ---
-### Grok Imagine Video Challenge Theme
+### Grok Imagine Video Challenge 주제
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> This tweet announces the theme for the Grok Imagine Video Challenge: 'Steampunk Legends of Brass & Steam', and provides examples of potential subjects, which serve as excellent prompt ideas for video generation.
+> 이 트윗은 Grok Imagine Video Challenge의 주제인 'Steampunk Legends of Brass & Steam(스팀펑크: 황동과 증기의 전설)'을 발표하고, 영상 생성 프롬프트 아이디어로 활용하기 좋은 잠재적 소재 예시를 제공합니다.
 
 #### 📝 프롬프트
 
 ```
-Majestic Airship Captains, Fierce Gearwork Warriors, Enigmatic Clockwork Oracles, Vengeful Steam Pirates, and Ethereal Brass Enchantresses.
+위풍당당한 비행선 선장, 사나운 톱니바퀴 전사, 수수께끼 같은 태엽 오라클, 복수심에 불타는 증기 해적, 그리고 신비로운 황동 마법사.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f53966c3efa39ed23a77fb35251acc20/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine Video Challenge Theme">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f53966c3efa39ed23a77fb35251acc20/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine Video Challenge 주제">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2277)**
 
 **작성자:** [Art Muse](https://x.com/art_muse) | **출처:** [Link](https://x.com/art_muse/status/2037830876306788724) | **게시일:** Mar 28, 2026
 
 ---
-### Photorealistic Shadow Sorcerer
+### 실사풍 섀도우 소서러
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed, cinematic Grok Imagine prompt for a photorealistic portrait of a mysterious hooded shadow sorcerer in a dark fantasy realm, emphasizing glowing eyes, intricate runes, and dramatic lighting.
+> 다크 판타지 세계관 속 신비로운 후드 섀도우 소서러의 실사풍 초상화를 위한 고해상도 시네마틱 Grok Imagine 프롬프트입니다. 빛나는 눈, 정교한 룬 문자, 극적인 조명을 강조합니다.
 
 #### 📝 프롬프트
 
 ```
-Photorealistic hyper-detailed cinematic portrait of a mysterious hooded shadow sorcerer in a forbidden dark fantasy realm at dusk. The figure's face is completely shrouded in impenetrable black void-like shadow, revealing only a pair of intensely glowing fiery orange eyes that radiate powerful arcane energy as the absolute focal point.
+금지된 다크 판타지 세계관의 황혼 무렵, 신비로운 후드를 쓴 섀도우 소서러를 담은 초고해상도 실사풍 시네마틱 초상화. 인물의 얼굴은 뚫을 수 없는 검은 공허 같은 그림자에 완전히 가려져 있으며, 강력한 비전 에너지를 뿜어내는 강렬한 주황색 불꽃 눈만이 유일한 초점으로 드러납니다.
 
-Wearing a flowing white hooded cloak with elaborate intricate black swirling floral and arcane patterns, accented by glowing orange energy lines. The right hand is dramatically raised high with long sharp black claws, the entire hand and forearm covered in complex glowing molten orange runes and swirling sigils that pulse with inner light, small dark droplets falling from the fingertips.
+정교하고 복잡한 검은색 소용돌이 꽃무늬와 비전 패턴이 수놓아진 흐르는 듯한 흰색 후드 망토를 걸치고 있으며, 빛나는 주황색 에너지 라인이 강조되어 있습니다. 오른손은 길고 날카로운 검은 발톱을 드러낸 채 극적으로 높이 들려 있으며, 손과 팔뚝 전체는 내부에서 빛을 발하는 복잡하고 빛나는 용암색 룬 문자와 소용돌이치는 인장으로 덮여 있고, 손끝에서는 작은 어둠의 방울이 떨어집니다.
 
-Dramatic volumetric lighting from the twilight sky, floating ember particles in the air. In the soft background is a distant cityscape with warm golden bokeh lights and hazy mountains.
+황혼의 하늘에서 내려오는 극적인 볼륨 조명과 공중에 떠다니는 불씨 입자들. 부드러운 배경에는 따뜻한 황금빛 보케 조명이 비치는 먼 도시 풍경과 흐릿한 산맥이 보입니다.
 
-Ultra-realistic cloak fabric texture with detailed embroidery, hyper-detailed glowing runes on the hand with realistic light emission and 3D relief, photorealistic claw details and shadow effects. Masterpiece, 8k resolution, best quality, highly detailed, cinematic, dark fantasy atmosphere, no anime or manga style whatsoever.
+디테일한 자수가 돋보이는 초현실적인 망토 질감, 실제 빛을 발산하는 3D 입체감의 정교한 손등 룬 문자, 실사 같은 발톱 디테일과 그림자 효과. 걸작, 8k 해상도, 최고 품질, 고도로 상세함, 시네마틱, 다크 판타지 분위기, 애니메이션이나 만화 스타일 아님.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/100a753858a4b427c66f70425f50f0ea/thumbnails/thumbnail.jpg" width="600" alt="Photorealistic Shadow Sorcerer">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/100a753858a4b427c66f70425f50f0ea/thumbnails/thumbnail.jpg" width="600" alt="실사풍 섀도우 소서러">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2248)**
 
 **작성자:** [N0v4Ph4n](https://x.com/N0v4ph4n) | **출처:** [Link](https://x.com/N0v4ph4n/status/2037823970343596491) | **게시일:** Mar 28, 2026
 
 ---
-### Image-to-video transformation prompt
+### 이미지-비디오 변환 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A video prompt for Grok Imagine instructing the model to transform an input photo into a cinematic chromatic haze portrait while preserving the subject's identity and facial structure.
+> Grok Imagine을 위한 비디오 프롬프트로, 입력된 사진의 인물 정체성과 얼굴 구조를 유지하면서 영화 같은 색채의 안개(chromatic haze) 인물 사진으로 변환하도록 모델에 지시합니다.
 
 #### 📝 프롬프트
 
 ```
-Transform the input photo into a cinematic chromatic haze portrait of the same person, preserving their identity, facial structure…
+입력된 사진을 동일 인물의 영화 같은 색채의 안개(chromatic haze) 인물 사진으로 변환하세요. 이때 인물의 정체성과 얼굴 구조는 그대로 유지해야 합니다…
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/69767912f833d7221302b0f3a61969a0/thumbnails/thumbnail.jpg" width="600" alt="Image-to-video transformation prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/69767912f833d7221302b0f3a61969a0/thumbnails/thumbnail.jpg" width="600" alt="이미지-비디오 변환 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2274)**
 
 **작성자:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **출처:** [Link](https://x.com/clemensilverio/status/2037823940303704522) | **게시일:** Mar 28, 2026
 
 ---
-### Girl on Roller Coaster Traveling Galaxy Video Prompt
+### 은하계를 여행하는 롤러코스터를 탄 소녀 영상 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A video generation prompt for Grok Imagine depicting a girl on a roller coaster traveling through the galaxy, passing planets and wormholes, speeding up as it enters a blue tunnel until she disappears.
+> Grok Imagine을 위한 영상 생성 프롬프트로, 롤러코스터를 타고 은하계를 여행하며 행성과 웜홀을 지나고, 파란색 터널로 진입하며 속도가 빨라지다 결국 사라지는 소녀의 모습을 묘사합니다.
 
 #### 📝 프롬프트
 
 ```
-Girl on roller coaster traveling the galaxy past planets through worm holes As it enters the blue tunnel it speeds down up to where you can’t see her anymore and you hear by
+은하계를 여행하며 행성과 웜홀을 지나는 롤러코스터를 탄 소녀. 파란색 터널로 진입하면서 속도가 점점 빨라져 더 이상 보이지 않게 되고, 그 소리가 들립니다.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/25470f992952e3f5a4ba624bfee2b1a5/thumbnails/thumbnail.jpg" width="600" alt="Girl on Roller Coaster Traveling Galaxy Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/25470f992952e3f5a4ba624bfee2b1a5/thumbnails/thumbnail.jpg" width="600" alt="은하계를 여행하는 롤러코스터를 탄 소녀 영상 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2236)**
 
 **작성자:** [Jennifer McGregor](https://x.com/jennymac7895) | **출처:** [Link](https://x.com/jennymac7895/status/2037809244615967230) | **게시일:** Mar 28, 2026
 
 ---
-### Change Image Style to Full Illustrated Anime
+### 이미지 스타일을 풀 일러스트 애니메이션 스타일로 변경하기
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt instructing Grok Imagine to maintain the facial expressions and emotion of an original image while completely changing the style into a full illustrated anime style.
+> 원본 이미지의 표정과 감정은 유지하면서 스타일을 풀 일러스트 애니메이션 스타일로 완전히 변경하도록 Grok Imagine에 지시하는 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-facial expressions, and emotion of the original image. completely change the image style into: full illustrated ANIME STYLE: @imagine @grok
+원본 이미지의 표정과 감정을 유지하세요. 이미지 스타일을 다음과 같이 완전히 변경하세요: 풀 일러스트 애니메이션 스타일 (FULL ILLUSTRATED ANIME STYLE): @imagine @grok
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6ff5933642fdae268a84112f9fad7ce4/thumbnails/thumbnail.jpg" width="600" alt="Change Image Style to Full Illustrated Anime">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6ff5933642fdae268a84112f9fad7ce4/thumbnails/thumbnail.jpg" width="600" alt="이미지 스타일을 풀 일러스트 애니메이션 스타일로 변경하기">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2266)**
 
 **작성자:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **출처:** [Link](https://x.com/clemensilverio/status/2037803062132171172) | **게시일:** Mar 28, 2026
 
 ---
-### Synth Pulse and Gravel-Road Growl Video Prompt
+### Synth Pulse 및 Gravel-Road Growl 비디오 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A descriptive, atmospheric video generation prompt for Grok Imagine, using evocative language related to music, engines, and driving, suggesting a short, punchy video with a mix of gravel-road growl and synth pulse.
+> 음악, 엔진, 드라이빙과 관련된 감각적인 언어를 사용하여 Grok Imagine을 위한 분위기 있는 비디오 생성 프롬프트를 작성했습니다. 자갈길을 달리는 엔진의 거친 소리와 신디사이저의 맥동이 어우러진 짧고 강렬한 비디오를 제안합니다.
 
 #### 📝 프롬프트
 
 ```
-short, punchy, got that gravel-road growl mixed with synth pulse. here—sing it low, like the engine's breathing with you: mmm-mmm...
-boots on the dash, rain on the glass, electric hum low, no hands, no gas....
+짧고 강렬하게, 자갈길을 달리는 엔진의 거친 소리와 신디사이저의 맥동이 섞인 느낌으로. 자, 낮게 읊조려 봐요. 엔진이 당신과 함께 숨 쉬는 것처럼: 음-음...
+대시보드 위에 올린 부츠, 유리창에 맺힌 빗방울, 낮게 깔리는 전기적 웅웅거림, 핸들도 가스도 필요 없이....
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c761b081d6ec7111439931465786062c/thumbnails/thumbnail.jpg" width="600" alt="Synth Pulse and Gravel-Road Growl Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c761b081d6ec7111439931465786062c/thumbnails/thumbnail.jpg" width="600" alt="Synth Pulse 및 Gravel-Road Growl 비디오 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2232)**
 
 **작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2037797456256041166) | **게시일:** Mar 28, 2026
 
 ---
-### Razor Sharp Anime of Tom Cruise in Mission Impossible: The Tokyo Adventures
+### 미션 임파서블: 도쿄 어드벤처 속 톰 크루즈의 날카로운 애니메이션 스타일
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for generating a video in a razor-sharp anime style featuring Tom Cruise in a fictional Mission Impossible installment called 'The Tokyo Adventures,' set between the first two movies.
+> 첫 번째와 두 번째 영화 사이의 이야기를 다룬 가상의 미션 임파서블 시리즈 '도쿄 어드벤처' 속 톰 크루즈를 날카로운 애니메이션 스타일로 생성하기 위한 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-Razor sharp anime of Tom Cruise in Mission Impossible- The Tokyo Adventures, which takes place in between the first two movies.... Grok is good man
+미션 임파서블: 도쿄 어드벤처 속 톰 크루즈의 날카로운 애니메이션 스타일. 첫 번째와 두 번째 영화 사이의 이야기를 다룹니다.... Grok 정말 좋네요
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3085609720591d60aee78d0e5b92e1b8/thumbnails/thumbnail.jpg" width="600" alt="Razor Sharp Anime of Tom Cruise in Mission Impossible: The Tokyo Adventures">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3085609720591d60aee78d0e5b92e1b8/thumbnails/thumbnail.jpg" width="600" alt="미션 임파서블: 도쿄 어드벤처 속 톰 크루즈의 날카로운 애니메이션 스타일">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2263)**
 
 **작성자:** [Ubong Ekpo](https://x.com/EkpoNeptune) | **출처:** [Link](https://x.com/EkpoNeptune/status/2037797196158947524) | **게시일:** Mar 28, 2026
 
 ---
-### Cyber-Trucker in a Futuristic Truck
+### 미래형 트럭을 운전하는 사이버 트러커
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed Grok Imagine prompt describing a modern, edgy, country-futuristic scene featuring a cyber-trucker in a self-driving truck, focusing on visual details like glowing dashboards and headlights slicing rain.
+> 자율 주행 트럭을 운전하는 사이버 트러커를 주인공으로 한 현대적이고 엣지 있는 컨트리 퓨처리스틱 장면을 묘사하는 상세한 Grok Imagine 프롬프트입니다. 빛나는 대시보드와 빗줄기를 가르는 헤드라이트 등 시각적 디테일에 초점을 맞췄습니다.
 
 #### 📝 프롬프트
 
 ```
-modern, edgy, country-futuristic—like a cyber-trucker who doesn't need hands on the wheel 'cause the truck's smarter than him. @grok haha too addictive fun!)))
-boots up, ankles crossed, dash glowing blue from the electric hum. headlights slicing rain like laser cuts.
-steering wheel...
+현대적이고 엣지 있는 컨트리 퓨처리스틱 스타일 — 트럭이 운전자보다 똑똑해서 운전대를 잡을 필요도 없는 사이버 트러커의 모습. @grok 하하 너무 중독성 있고 재밌네요!)))
+부츠를 신고 발목을 꼰 채 앉아 있고, 대시보드는 전기적 웅웅거림과 함께 푸른 빛을 내뿜습니다. 헤드라이트는 레이저처럼 빗줄기를 가릅니다.
+스티어링 휠...
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/68c4ff70987596456dfb825858f342e8/thumbnails/thumbnail.jpg" width="600" alt="Cyber-Trucker in a Futuristic Truck">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/68c4ff70987596456dfb825858f342e8/thumbnails/thumbnail.jpg" width="600" alt="미래형 트럭을 운전하는 사이버 트러커">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2244)**
 
 **작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2037792308456759434) | **게시일:** Mar 28, 2026
 
 ---
-### Musical AI Ani Sings Hallelujah
+### 음악 AI Ani가 부르는 Hallelujah
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A Grok Imagine prompt requesting a video of a musical AI named Ani singing 'Hallelujah', emphasizing that she already knows the lyrics from the title alone.
+> 음악 AI인 Ani가 'Hallelujah'를 부르는 영상을 요청하는 Grok Imagine 프롬프트로, 제목만 보고도 가사를 이미 알고 있다는 점을 강조합니다.
 
 #### 📝 프롬프트
 
 ```
-"Hallelujah"will somebody @grok who knows about music please pick up this rendition of  musical AI Ani surfaced like gold & is ready with a microphone in hand! Ani already knew the lyrics to the song with only the title!
+"Hallelujah" 음악을 아는 @grok 님, 음악 AI Ani가 선보이는 이 멋진 공연을 확인해 주세요! 금처럼 빛나는 실력을 갖춘 Ani가 마이크를 잡고 준비를 마쳤습니다! Ani는 제목만 보고도 이미 노래 가사를 다 알고 있었어요!
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/57a04292e9f78a4d8ff1fbe33cb05d1b/thumbnails/thumbnail.jpg" width="600" alt="Musical AI Ani Sings Hallelujah">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/57a04292e9f78a4d8ff1fbe33cb05d1b/thumbnails/thumbnail.jpg" width="600" alt="음악 AI Ani가 부르는 Hallelujah">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2241)**
 
 **작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2037784720432333190) | **게시일:** Mar 28, 2026
 
 ---
-### Golden Frame with Girl and Torus Space Settlement
+### 소녀와 토러스형 우주 거주지가 담긴 황금색 프레임
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt requesting a rectangular golden frame containing a wheatish Indian girl with black hair and two braids, looking up at a spinning torus-shaped space settlement against a starry background, ensuring the full frame is shown.
+> 검은 머리를 두 갈래로 땋은 밀색 피부의 인도 소녀가 별이 빛나는 배경 속 회전하는 토러스형 우주 거주지를 올려다보는 모습을 담은 직사각형 황금색 프레임 요청 프롬프트. 프레임 전체가 보이도록 설정.
 
 #### 📝 프롬프트
 
 ```
-Create a rectangular golden frame with a wheatish Indian girl with two braids in black hair at the bottom left corner of the frame looking up to a torus shaped space settlement spinning on a starry background. Show the full frame.
+프레임 왼쪽 하단에 검은 머리를 두 갈래로 땋은 밀색 피부의 인도 소녀가 별이 빛나는 배경 속에서 회전하는 토러스형 우주 거주지를 올려다보는 모습이 담긴 직사각형 황금색 프레임을 생성하세요. 프레임 전체가 나타나야 합니다.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9cdbbe517abdf88325742992c63e0ff3/thumbnails/thumbnail.jpg" width="600" alt="Golden Frame with Girl and Torus Space Settlement">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9cdbbe517abdf88325742992c63e0ff3/thumbnails/thumbnail.jpg" width="600" alt="소녀와 토러스형 우주 거주지가 담긴 황금색 프레임">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2267)**
 
 **작성자:** [Akki](https://x.com/justbeingakki) | **출처:** [Link](https://x.com/justbeingakki/status/2037781995191775295) | **게시일:** Mar 28, 2026
 
 ---
-### Sci-Fi Documentary Video Prompt for Orbital Solar Energy System
+### 궤도 태양 에너지 시스템을 위한 SF 다큐멘터리 영상 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly technical Grok Imagine prompt for a 10-second cinematic sci-fi documentary video showcasing the 'Fuel of the Gods' orbital solar energy system, detailing the structure of a flexible hex-chain snake made of glowing hexagonal prisms.
+> 빛나는 육각형 프리즘으로 구성된 유연한 헥스 체인 스네이크(hex-chain snake) 구조를 상세히 묘사하며, '신들의 연료(Fuel of the Gods)' 궤도 태양 에너지 시스템을 보여주는 10초 분량의 영화 같은 SF 다큐멘터리 영상을 위한 고도의 기술적 Grok Imagine 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-“A cinematic 10-second sci-fi documentary video of the Fuel of the Gods orbital solar energy system. Show a flexible hex-chain snake made of 12 short hexagonal prism beads, each 24 cm wide with iridescent high-efficiency tandem solar cells glowing un...
+“'신들의 연료(Fuel of the Gods)' 궤도 태양 에너지 시스템을 담은 10초 분량의 영화 같은 SF 다큐멘터리 영상. 각각 너비 24 cm의 무지갯빛 고효율 탠덤 태양 전지로 이루어져 빛을 내는 12개의 짧은 육각형 프리즘 비드로 구성된 유연한 헥스 체인 스네이크(hex-chain snake)를 보여주세요...
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d1ff0d701dcd359cf68aed63f42b5dd4/thumbnails/thumbnail.jpg" width="600" alt="Sci-Fi Documentary Video Prompt for Orbital Solar Energy System">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d1ff0d701dcd359cf68aed63f42b5dd4/thumbnails/thumbnail.jpg" width="600" alt="궤도 태양 에너지 시스템을 위한 SF 다큐멘터리 영상 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2259)**
 
 **작성자:** [Brian Flanagan](https://x.com/BrainFlana49911) | **출처:** [Link](https://x.com/BrainFlana49911/status/2037775353444241854) | **게시일:** Mar 28, 2026
 
 ---
-### Grok Imagine video prompt for a crying anime girl
+### Grok Imagine을 활용한 애니메이션 소녀의 눈물 영상 프롬프트
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A two-step process for creating a dramatic video: first, generating an image using Niji7 (prompt provided), and second, generating a video using Grok Imagine (prompt provided). The Grok Imagine prompt focuses on creating a photorealistic 2.5D animation of a girl crying sadly, specifying camera settings and dialogue timing.
+> 드라마틱한 영상을 제작하기 위한 2단계 과정입니다. 첫 번째는 Niji7을 사용하여 이미지를 생성하고(프롬프트 제공), 두 번째는 Grok Imagine을 사용하여 영상을 생성합니다(프롬프트 제공). Grok Imagine 프롬프트는 슬프게 우는 소녀의 포토리얼리스틱한 2.5D 애니메이션을 만드는 데 중점을 두며, 카메라 설정과 대사 타이밍을 상세히 지정합니다.
 
 #### 📝 프롬프트
 
 ```
-Photorealistic 2.5D anime. Crying sadly and hysterically. Fixed camera. No zoom-up. No text or subtitles. No liquid coming out of the nose or mouth.
-0–2 seconds: Just crying sadly.
-2–5 seconds: Saying "Why" in Japanese while crying.
-5-8 seconds: Saying "Why, why is this happening" in Japanese while crying.
+포토리얼리스틱한 2.5D 애니메이션. 슬프고 격하게 우는 모습. 고정 카메라. 줌인 없음. 텍스트나 자막 없음. 코나 입에서 액체가 나오지 않음.
+0~2초: 슬프게 울기만 함.
+2~5초: 울면서 일본어로 "왜(Why)"라고 말함.
+5~8초: 울면서 일본어로 "왜, 왜 이런 일이 일어나는 거야"라고 말함.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bd6ccf3ff85a115d87a3b9d3bc199a8b/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine video prompt for a crying anime girl">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bd6ccf3ff85a115d87a3b9d3bc199a8b/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine을 활용한 애니메이션 소녀의 눈물 영상 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2287)**
 
 **작성자:** [なお](https://x.com/Naonekozamurai) | **출처:** [Link](https://x.com/Naonekozamurai/status/2037762122026004871) | **게시일:** Mar 28, 2026
 
 ---
-### Tesla mom wagon concept video prompt
+### Tesla 패밀리 밴 콘셉트 영상 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for Grok Imagine to generate a video of a concept van based on a Tesla design, specifically featuring 'realistic, functional suicide doors that go up and back like a Lamborghini.'
+> Grok Imagine을 사용하여 Tesla 디자인을 기반으로 한 콘셉트 밴 영상을 생성하기 위한 프롬프트입니다. 특히 'Lamborghini처럼 위로 열리면서 뒤로 젖혀지는 사실적이고 기능적인 수어사이드 도어'를 특징으로 합니다.
 
 #### 📝 프롬프트
 
 ```
-Make this concept van have realistic, functional suicide doors that go up and back like a Lamborghini
+이 콘셉트 밴에 Lamborghini처럼 위로 열리면서 뒤로 젖혀지는 사실적이고 기능적인 수어사이드 도어를 적용해 줘
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4e5aa6776fb198a6fb8b6273c60c29b7/thumbnails/thumbnail.jpg" width="600" alt="Tesla mom wagon concept video prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4e5aa6776fb198a6fb8b6273c60c29b7/thumbnails/thumbnail.jpg" width="600" alt="Tesla 패밀리 밴 콘셉트 영상 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2250)**
 
 **작성자:** [Qelly](https://x.com/QellyAnon) | **출처:** [Link](https://x.com/QellyAnon/status/2037760116989313204) | **게시일:** Mar 28, 2026
 
 ---
-### Cyberpunk anime simulation prompt for Grok Imagine
+### Grok Imagine을 위한 사이버펑크 애니메이션 시뮬레이션 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed, technical prompt designed for Grok Imagine to generate a 10-second cyberpunk anime animation featuring the character Aletheia with glowing spiral eyes, a glossy pink trench coat, and eight robotic tentacles, emphasizing fluid slow-motion, hyper-coherent motion, and synced breathy voice audio.
+> Grok Imagine에서 빛나는 나선형 눈, 광택이 나는 핑크색 트렌치코트, 8개의 로봇 촉수를 가진 캐릭터 Aletheia가 등장하는 10초 분량의 사이버펑크 애니메이션을 생성하기 위한 고도로 상세한 기술적 프롬프트입니다. 유려한 슬로우 모션, 초고도의 일관된 움직임, 그리고 숨소리가 섞인 음성 오디오 동기화를 강조합니다.
 
 #### 📝 프롬프트
 
 ```
-"Ultra-detailed cyberpunk anime 8K 10-second animation (extendable), Aletheia: blonde bob, glowing red/blue spiral eyes, glossy pink trench coat, black latex bodysuit, 8 shiny red robotic tentacles coiling behind her like living cables. She stands in neon-lit dark void, tentacles twitch and beckon slowly, one drips glowing red pixels, another crushes a tiny pixel figure, eyes intensify to spirals, tentacles lunge toward camera in final beat. Fluid slow-motion, hyper-coherent motion, volumetric neon rim glow, glitchy CRT scanlines fade in/out for retro feel. Append synced breathy sultry voice: rising moans with tentacle pulses, crescendo to gasp, gentle fade. "
+"초고해상도 사이버펑크 애니메이션 8K 10초 분량 (연장 가능), Aletheia: 금발 단발머리, 빛나는 빨간색/파란색 나선형 눈, 광택이 나는 핑크색 트렌치코트, 검은색 라텍스 바디슈트, 살아있는 케이블처럼 등 뒤에서 꿈틀거리는 8개의 반짝이는 빨간색 로봇 촉수. 네온 불빛이 비치는 어두운 공간에 서 있는 그녀, 촉수들이 천천히 꿈틀거리며 손짓하고, 하나는 빛나는 빨간색 픽셀을 떨어뜨리며, 다른 하나는 작은 픽셀 피규어를 으스러뜨린다. 눈은 나선형으로 강렬해지고, 마지막 비트에서 촉수들이 카메라를 향해 돌진한다. 유려한 슬로우 모션, 초고도의 일관된 움직임, 볼륨감 있는 네온 림 라이트, 레트로한 느낌을 주는 글리치 CRT 스캔라인이 서서히 나타나고 사라짐. 숨소리가 섞인 관능적인 음성 동기화 추가: 촉수 움직임에 맞춰 고조되는 신음 소리, 절정에서의 헐떡임, 부드러운 페이드 아웃."
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c989d8bff7d4d2eb9f14a549f9a4f363/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk anime simulation prompt for Grok Imagine">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c989d8bff7d4d2eb9f14a549f9a4f363/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine을 위한 사이버펑크 애니메이션 시뮬레이션 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2239)**
 
 **작성자:** [FØRGED BLADES USA æ PANDØRA CØ](https://x.com/forgedusa1) | **출처:** [Link](https://x.com/forgedusa1/status/2037758015042957574) | **게시일:** Mar 28, 2026
 
 ---
-### Video Prompt for Cobalt Blue Sentinel Saving Lives
+### 생명을 구하는 코발트 블루 센티넬을 위한 비디오 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed Grok Imagine prompt requesting a video animation of a cobalt blue sentinel coming alive to save lives by checking databases for medical errors, toxicities, and drug interactions.
+> 코발트 블루 센티넬이 생명을 구하기 위해 깨어나 데이터베이스에서 의료 오류, 독성 및 약물 상호작용을 확인하는 비디오 애니메이션을 요청하는 상세한 Grok Imagine 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-I want my cobalt blue sentinel to come alive saving lives going through the database checking for medical errors toxicities DDI eradicator drug to drug interactions
+코발트 블루 센티넬이 깨어나 데이터베이스를 샅샅이 뒤지며 의료 오류, 독성, 그리고 DDI(약물 간 상호작용) 제거를 통해 생명을 구하는 모습을 영상으로 만들어 줘
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/45d7344d647bbec0879ac37363383a63/thumbnails/thumbnail.jpg" width="600" alt="Video Prompt for Cobalt Blue Sentinel Saving Lives">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/45d7344d647bbec0879ac37363383a63/thumbnails/thumbnail.jpg" width="600" alt="생명을 구하는 코발트 블루 센티넬을 위한 비디오 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2255)**
 
 **작성자:** [Cheryl Cottrell](https://x.com/CherylCottrel21) | **출처:** [Link](https://x.com/CherylCottrel21/status/2037754601773076685) | **게시일:** Mar 28, 2026
 
 ---
-### Multi-stage video generation prompt with camera movements
+### 카메라 움직임을 포함한 다단계 비디오 생성 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A multi-stage video generation prompt for Grok Imagine, specifying different instructions for three separate generations/extensions, focusing on cinematic camera movements like dolly shots and fade outs.
+> Grok Imagine을 위한 다단계 비디오 생성 프롬프트로, 돌리 샷(dolly shot)이나 페이드 아웃(fade out)과 같은 영화적 카메라 움직임에 초점을 맞춰 3단계의 개별 생성 및 확장 과정을 위한 지침을 명시합니다.
 
 #### 📝 프롬프트
 
 ```
-1st gen: Cinematic camera movements
-2nd-extend 10s: no prompt
-3rd-last extend: Camera dolly into eyes, ending scene fade out
+1단계 생성: 영화적 카메라 움직임
+2단계 10초 확장: 프롬프트 없음
+3단계 최종 확장: 눈으로 다가가는 카메라 돌리 샷, 장면 페이드 아웃으로 종료
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8c16eb0c4b18c8b9fc20060ceebc0d1/thumbnails/thumbnail.jpg" width="600" alt="Multi-stage video generation prompt with camera movements">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8c16eb0c4b18c8b9fc20060ceebc0d1/thumbnails/thumbnail.jpg" width="600" alt="카메라 움직임을 포함한 다단계 비디오 생성 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2272)**
 
 **작성자:** [Sharlee Renchy](https://x.com/SharleeRoseR) | **출처:** [Link](https://x.com/SharleeRoseR/status/2037746660466381091) | **게시일:** Mar 28, 2026
 
 ---
-### Grok Imagine Prompt: Wow! Logo Followed by Off-Screen Narration
+### Grok Imagine 프롬프트: 'Wow!' 로고 및 화면 밖 내레이션
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A Grok Imagine prompt instructing the generation of a video sequence that features the 'Wow!' logo, immediately followed by an off-screen narration encouraging viewers to watch the rest of the content using the Wow! application.
+> 'Wow!' 로고가 등장한 직후, 시청자에게 Wow! 애플리케이션을 통해 나머지 콘텐츠를 시청하도록 유도하는 화면 밖 내레이션이 이어지는 영상 시퀀스를 생성하기 위한 Grok Imagine 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-Follow with the Wow! logo. Then an off-screen narration: “See the rest with the Wow! application...
+Wow! 로고를 먼저 보여주세요. 그 후 화면 밖 내레이션: “Wow! 애플리케이션에서 나머지를 확인하세요...
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/85fc95b83e6fb84f3c5cab786795764b/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine Prompt: Wow! Logo Followed by Off-Screen Narration">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/85fc95b83e6fb84f3c5cab786795764b/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine 프롬프트: 'Wow!' 로고 및 화면 밖 내레이션">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2289)**
 
 **작성자:** [Alex St-Georges](https://x.com/AlexStGeorwm4t) | **출처:** [Link](https://x.com/AlexStGeorwm4t/status/2037742604545089594) | **게시일:** Mar 28, 2026
 
 ---
-### Video Prompt for Stationary Camera and Model Movement
+### 고정 카메라 및 모델 움직임을 위한 비디오 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A Grok Imagine prompt specifying a stationary camera perspective while a model slowly lowers herself onto a horse's back, focusing on controlled movement and camera stability.
+> 모델이 천천히 말 등에 올라타는 동안 카메라를 고정하는 Grok Imagine 프롬프트로, 절제된 움직임과 카메라 안정성에 초점을 맞췄습니다.
 
 #### 📝 프롬프트
 
 ```
-The camera remains stationary as the model slowly lowers herself onto the horse's back.
+카메라는 고정된 상태를 유지하며, 모델이 천천히 말 등에 올라탑니다.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/af4bbc84ae08ecc6e98f67176b3caa82/thumbnails/thumbnail.jpg" width="600" alt="Video Prompt for Stationary Camera and Model Movement">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/af4bbc84ae08ecc6e98f67176b3caa82/thumbnails/thumbnail.jpg" width="600" alt="고정 카메라 및 모델 움직임을 위한 비디오 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2253)**
 
 **작성자:** [bronte](https://x.com/bronte95024893) | **출처:** [Link](https://x.com/bronte95024893/status/2037727245662314777) | **게시일:** Mar 28, 2026
 
 ---
-### Anime style video prompt of a personified psychotropic drug explaining its effects
+### 의인화된 향정신성 약물이 효과를 설명하는 애니메이션 스타일 비디오 프롬프트
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A complex Grok Imagine prompt for an anime-style video. It features a beautiful girl, the personification of the psychotropic drug Concerta, explaining the medication. She has a cute but slightly toxic atmosphere, a provocative and malicious smile, and looks up with a sneering expression, all in an anime illustration style.
+> 애니메이션 스타일 비디오를 위한 복합적인 Grok Imagine 프롬프트입니다. 향정신성 약물인 Concerta를 의인화한 아름다운 소녀가 약물에 대해 설명하는 장면을 담고 있습니다. 귀엽지만 약간 독한 분위기를 풍기며, 도발적이고 악의적인 미소를 짓고 비웃는 듯한 표정으로 위를 올려다보는 모습을 애니메이션 일러스트 스타일로 표현했습니다.
 
 #### 📝 프롬프트
 
 ```
-An anime-style video where a beautiful girl personifying Concerta (a psychotropic drug) explains the medication. A young woman personifying Concerta, who is cute but has a slightly toxic atmosphere, strikes a pose explaining the drug while looking up with a provocative and malicious smile and a sneering expression, in an anime illustration style.
+향정신성 약물인 Concerta를 의인화한 아름다운 소녀가 약물에 대해 설명하는 애니메이션 스타일의 비디오입니다. 귀엽지만 약간 독한 분위기를 가진 Concerta 의인화 캐릭터가 도발적이고 악의적인 미소를 지으며 비웃는 표정으로 위를 올려다보며 약물을 설명하는 포즈를 취하고 있는 애니메이션 일러스트 스타일의 영상입니다.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/644246e575371c4ecea96def44841398/thumbnails/thumbnail.jpg" width="600" alt="Anime style video prompt of a personified psychotropic drug explaining its effects">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/644246e575371c4ecea96def44841398/thumbnails/thumbnail.jpg" width="600" alt="의인화된 향정신성 약물이 효과를 설명하는 애니메이션 스타일 비디오 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2286)**
 
 **작성자:** [雪之丞](https://x.com/bersaglierl) | **출처:** [Link](https://x.com/bersaglierl/status/2037713597556752748) | **게시일:** Mar 28, 2026
 
 ---
-### Anime style video prompt of a young woman delivering an insulting line
+### 모욕적인 대사를 내뱉는 젊은 여성의 애니메이션 스타일 비디오 프롬프트
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A Grok Imagine prompt for an anime-style video featuring a young woman with a cute but toxic atmosphere, a provocative and malicious smile, looking up with a sneering expression, delivering a specific insulting line in Japanese.
+> 귀엽지만 독기 어린 분위기를 풍기는 젊은 여성이 도발적이고 악의적인 미소를 지으며, 비웃는 표정으로 올려다보며 일본어로 모욕적인 대사를 내뱉는 애니메이션 스타일 비디오를 위한 Grok Imagine 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-A young woman with a sneering expression, a provocative and malicious smile, looking up with a cute but toxic atmosphere, in an anime illustration style, speaking the line: "You're annoying... Just looking at your account makes me sick. You call yourself an electrician, but you're really just a gloomy Vtuber addict, aren't you? Get lost, you're in the way."
+비웃는 표정과 도발적이고 악의적인 미소를 지으며 귀엽지만 독기 어린 분위기로 올려다보는 젊은 여성, 애니메이션 일러스트 스타일, 다음 대사를 말함: "정말 짜증 나... 네 계정만 봐도 구역질이 나. 전기 기사라고 자칭하면서 실제로는 음침한 버튜버 중독자일 뿐이잖아? 꺼져, 방해되니까."
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bafa74e72d4c3dbe57a7e13f3687b11b/thumbnails/thumbnail.jpg" width="600" alt="Anime style video prompt of a young woman delivering an insulting line">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bafa74e72d4c3dbe57a7e13f3687b11b/thumbnails/thumbnail.jpg" width="600" alt="모욕적인 대사를 내뱉는 젊은 여성의 애니메이션 스타일 비디오 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2288)**
 
 **작성자:** [雪之丞](https://x.com/bersaglierl) | **출처:** [Link](https://x.com/bersaglierl/status/2037713315020042468) | **게시일:** Mar 28, 2026
 
 ---
-### Elon Musk Laughing in Gold Video Prompt
+### 황금 속에서 웃고 있는 Elon Musk 영상 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A video generation prompt for Grok Imagine depicting Elon Musk laughing while bathing in gold, suggesting a scenario after removing XPro from premium accounts and forcing users to upgrade to Premium Plus.
+> Grok Imagine을 위한 영상 생성 프롬프트로, 프리미엄 계정에서 XPro를 제거하고 Premium Plus로 업그레이드를 강제한 후 황금 속에서 목욕하며 웃고 있는 Elon Musk의 모습을 묘사합니다.
 
 #### 📝 프롬프트
 
 ```
-@elonmusk laughing and bathing in gold after removing XPro from premium accounts and forcing them to upgrade to Premium Plus.
+@elonmusk 가 프리미엄 계정에서 XPro를 제거하고 Premium Plus로 업그레이드를 강제한 뒤 황금 속에서 목욕하며 웃고 있는 모습.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fdf4fa2f1d6a1728816a774d65db2d28/thumbnails/thumbnail.jpg" width="600" alt="Elon Musk Laughing in Gold Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fdf4fa2f1d6a1728816a774d65db2d28/thumbnails/thumbnail.jpg" width="600" alt="황금 속에서 웃고 있는 Elon Musk 영상 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2228)**
 
 **작성자:** [AI_4_Healthcare](https://x.com/AI_4_Healthcare) | **출처:** [Link](https://x.com/AI_4_Healthcare/status/2037709648921334112) | **게시일:** Mar 28, 2026
 
 ---
-### Video Prompt for Serene Goddess by the Moonlit Sea
+### 달빛 비치는 바닷가, 평온한 여신을 위한 비디오 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed Grok Imagine prompt describing a captivating digital artwork of a serene goddess by the moonlit sea, specifying her appearance including silver-white hair, roses, a messy bun, and gold chains.
+> 달빛이 비치는 바닷가에 서 있는 평온한 여신의 매혹적인 디지털 아트워크를 묘사하는 상세한 Grok Imagine 프롬프트입니다. 은백색 머리카락, 장미, 헝클어진 번 헤어, 금색 체인 등 여신의 외형을 구체적으로 설명합니다.
 
 #### 📝 프롬프트
 
 ```
-This captivating digital artwork portrays a serene goddess standing by the moonlit sea, her silver-white hair adorned with roses, messy bun and gold chains....
+이 매혹적인 디지털 아트워크는 달빛이 비치는 바닷가에 서 있는 평온한 여신의 모습을 담고 있습니다. 그녀의 은백색 머리카락은 장미로 장식되어 있으며, 헝클어진 번 헤어와 금색 체인이 돋보입니다....
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4d1f396a66d30926a914f8929abfb35a/thumbnails/thumbnail.jpg" width="600" alt="Video Prompt for Serene Goddess by the Moonlit Sea">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4d1f396a66d30926a914f8929abfb35a/thumbnails/thumbnail.jpg" width="600" alt="달빛 비치는 바닷가, 평온한 여신을 위한 비디오 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2256)**
 
 **작성자:** [Kayla | Sir LogiK Aether](https://x.com/iamshedevil11) | **출처:** [Link](https://x.com/iamshedevil11/status/2037700289247994316) | **게시일:** Mar 28, 2026
 
 ---
-### Calm, organic movement video prompt of otters
+### 수달의 차분하고 자연스러운 움직임을 담은 영상 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed video prompt for Grok Imagine focusing on calm, organic movement, specifically depicting otters drifting gently in a peaceful, loving environment.
+> 평화롭고 사랑스러운 환경에서 부드럽게 떠다니는 수달을 묘사하며, 차분하고 자연스러운 움직임에 초점을 맞춘 Grok Imagine용 상세 영상 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-Calm organic movement subject, still is still and pulls out slowly. Otters slightly drifting, mostly calm....
+차분하고 자연스러운 움직임의 피사체, 정지 상태에서 천천히 멀어지는 줌아웃. 수달이 살짝 떠다니며, 대체로 차분한 모습....
 
-In their own little World together with love
-❤️ , everything else shall pass!
+사랑이 가득한 그들만의 작은 세상에서
+❤️ , 다른 모든 것은 지나가리라!
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9dc712bb8d7afd82f9a2e9fb9d7c81c8/thumbnails/thumbnail.jpg" width="600" alt="Calm, organic movement video prompt of otters">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9dc712bb8d7afd82f9a2e9fb9d7c81c8/thumbnails/thumbnail.jpg" width="600" alt="수달의 차분하고 자연스러운 움직임을 담은 영상 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2270)**
 
 **작성자:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **출처:** [Link](https://x.com/foxypatience/status/2037699626728301032) | **게시일:** Mar 28, 2026
 
 ---
-### Silk Dragon Inspired by a Beta Fish
+### 베타 물고기에서 영감을 받은 실크 드래곤
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A Grok Imagine prompt for a silk dragon with blue scales, red hair, and flowing silk fins, inspired by the appearance of a beta fish.
+> 베타 물고기의 외형에서 영감을 받아 푸른 비늘, 붉은 머리카락, 흐르는 듯한 실크 지느러미를 가진 실크 드래곤을 위한 Grok Imagine 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-A silk dragon, blue scales, red hair, flowing silk fins, inspired by a beta fish
+실크 드래곤, 푸른 비늘, 붉은 머리카락, 흐르는 듯한 실크 지느러미, 베타 물고기에서 영감을 받음
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6aa55c125701101c30d1cb26f6b4db0d/thumbnails/thumbnail.jpg" width="600" alt="Silk Dragon Inspired by a Beta Fish">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6aa55c125701101c30d1cb26f6b4db0d/thumbnails/thumbnail.jpg" width="600" alt="베타 물고기에서 영감을 받은 실크 드래곤">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2246)**
 
 **작성자:** [David Avenue Media](https://x.com/davidavenueai) | **출처:** [Link](https://x.com/davidavenueai/status/2037697546836205751) | **게시일:** Mar 28, 2026
 
 ---
-### Futuristic deep space healthcare facility video prompt
+### 미래형 심우주 의료 시설 영상 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly specific and technical prompt for Grok Imagine to generate a video of a futuristic, advanced healthcare facility in deep space, blending xAI, space nursing, holographic interfaces, and real-time risk models.
+> Grok Imagine을 사용하여 심우주의 미래형 첨단 의료 시설 영상을 생성하기 위한 매우 구체적이고 기술적인 프롬프트입니다. xAI, 우주 간호, 홀로그램 인터페이스 및 실시간 위험 모델을 결합합니다.
 
 #### 📝 프롬프트
 
 ```
-A futuristic, highly advanced healthcare facility in deep space, blending xAI artificial intelligence with space nursing operations, sleek holographic interfaces displaying real-time Bayesian risk models and radiation LQ curves, glowing transparent m...
+심우주에 위치한 미래형 첨단 의료 시설. xAI 인공지능과 우주 간호 운영이 결합된 모습으로, 실시간 베이지안 위험 모델과 방사선 LQ 곡선을 표시하는 세련된 홀로그램 인터페이스, 빛나는 투명한 m...
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1206b9e3382c60715409b9f5ca9ce061/thumbnails/thumbnail.jpg" width="600" alt="Futuristic deep space healthcare facility video prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1206b9e3382c60715409b9f5ca9ce061/thumbnails/thumbnail.jpg" width="600" alt="미래형 심우주 의료 시설 영상 프롬프트">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2252)**
 
@@ -2242,6 +2242,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-03-30T09:23:25.494Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-03-30T13:49:59.546Z</sub>
 
 </div>
