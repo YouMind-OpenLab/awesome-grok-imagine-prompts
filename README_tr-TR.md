@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **886** |
+| 📝 Total Prompts | **914** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-04-02** |
 
@@ -189,6 +189,554 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Arizona üzerinde yakut enerjili kızıl sis
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Arizona üzerinde, gerçek bir yakut enerjisini ve yaklaşan değişimi simgeleyen, dramatik ve ruhani bir sahneyi betimleyen Grok Imagine istemi.
+
+#### 📝 Prompt
+
+```
+Hazırlıklı olun, Arizona üzerinde kızıl sis geliyor; bu, dünyaya kendini gösteren gerçek yakut enerjisidir ve gelecek değişime karşı hazırlıklı olmalıyız, yerinizi koruyun.....
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d1d12df2f97291d90627d28663c636c1/thumbnails/thumbnail.jpg" width="600" alt="Arizona üzerinde yakut enerjili kızıl sis">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2525)**
+
+**Author:** [Jennyssight](https://x.com/jennyssight) | **Source:** [Link](https://x.com/jennyssight/status/2039521814636892519) | **Published:** Apr 2, 2026
+
+---
+### Ethereal göl manzarası için Grok Imagine istemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir kadının göl kenarında yürüdüğü sahneyi tanımlayan; ruhani, melankolik, dünya dışı, atmosferik, sinematik ve rüya gibi nitelikleri vurgulayan bir Grok Imagine istemi.
+
+#### 📝 Prompt
+
+```
+Göl kenarında yürüyor, ruhani, melankolik, dünya dışı, atmosferik, sinematik, rüya gibi
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/edb8327f2fd5db1c4242c94d39ee69af/thumbnails/thumbnail.jpg" width="600" alt="Ethereal göl manzarası için Grok Imagine istemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2502)**
+
+**Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2039484641200292224) | **Published:** Apr 1, 2026
+
+---
+### SpaceX Cyber Truck dönüşüm video istemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için, devasa bir SpaceX gemisinin arka kapısını açarak dönüşen bir Cyber Truck'ı serbest bırakmasını detaylandıran; güneş panelleri, katlanan tekerlekler, parlayan egzoz boruları, yuvarlak kanatlar ve uzayda süzülen parıldayan kelimeler içeren bilim kurgu aksiyon istemi.
+
+#### 📝 Prompt
+
+```
+Devasa bir SpaceX gemisi arka kapısını açıyor, içinden üzerinde güneş panelleri olan bir Cyber Truck çıkıyor, tekerlekleri içeri katlanıyor, yanlardaki egzoz boruları parlıyor, yuvarlak kanatlar dışarı çıkıyor. Uzayda parıldayan kelimeler.
+Bir Tesla ile yaz, yapabilirsin...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9a8b6c6840d91decfd6a32ce7ed8ea75/thumbnails/thumbnail.jpg" width="600" alt="SpaceX Cyber Truck dönüşüm video istemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2523)**
+
+**Author:** [CKR](https://x.com/CKRSandra) | **Source:** [Link](https://x.com/CKRSandra/status/2039481323480338865) | **Published:** Apr 1, 2026
+
+---
+### Paskalya Tavşanı ve Oompa Loompa'lar Şehir Manzarası Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için, Paskalya Tavşanı ve Oompa Loompa'ların şarkı söyleyerek yumurta ve Paskalya sepetleri sakladığı bir şehir manzarası videosu oluşturmaya yönelik sürreal ve eğlenceli bir istem.
+
+#### 📝 Prompt
+
+```
+Paskalya Tavşanı ve Oompa Loompa'ların şarkı söyleyerek yumurta ve Paskalya sepetleri sakladığı bir şehir manzarası.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/931b733232bd425c5376db7a0e747958/thumbnails/thumbnail.jpg" width="600" alt="Paskalya Tavşanı ve Oompa Loompa'lar Şehir Manzarası Video İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2514)**
+
+**Author:** [Emily](https://x.com/EMSRANCHART3) | **Source:** [Link](https://x.com/EMSRANCHART3/status/2039451035148910993) | **Published:** Apr 1, 2026
+
+---
+### Tesla Model Y taşıyan güneş enerjili tekne için video istemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için, üzerinde Tesla Model Y bulunan büyük bir güneş enerjili tekneyi gösteren ve aracın arka tekerleklerinin saat yönünde döndüğü bir video istemi.
+
+#### 📝 Prompt
+
+```
+Üzerinde Tesla Model Y bulunan ve arka tekerlekleri saat yönünde dönen büyük güneş enerjili tekne
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ed9d2fdd2deb91b4330242a17e63a249/thumbnails/thumbnail.jpg" width="600" alt="Tesla Model Y taşıyan güneş enerjili tekne için video istemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2513)**
+
+**Author:** [DeanReynoldsBuilders](https://x.com/DeanRBuilders) | **Source:** [Link](https://x.com/DeanRBuilders/status/2039446748188307595) | **Published:** Apr 1, 2026
+
+---
+### Tesla tekne dönüşümü video istemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Tesla'nın üzerine çıkabileceği ve Tesla'nın tekerleklerinin tekneyi hareket ettiren pervaneye bağlandığı bir tekne tasarımı için Grok Imagine'e yönelik yaratıcı, mekanik bir istem.
+
+#### 📝 Prompt
+
+```
+Tesla'nın üzerine çıkabileceği ve Tesla'nın teknenin motoru haline geldiği bir tekne; evet, Tesla'nın tekerlekleri tekneyi süren pervaneye bağlanıyor
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/af89ebd1afb706f302d3d82c0ffae841/thumbnails/thumbnail.jpg" width="600" alt="Tesla tekne dönüşümü video istemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2524)**
+
+**Author:** [DeanReynoldsBuilders](https://x.com/DeanRBuilders) | **Source:** [Link](https://x.com/DeanRBuilders/status/2039439972130865395) | **Published:** Apr 1, 2026
+
+---
+### Karlı Dağ Manzaralı Sabah Kahvesi Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için; karlı dağların arka planında, verandada kahvesini içen bir kadın ve ona eşlik eden Golden Retriever cinsi köpeğin olduğu huzurlu bir sabah sahnesini betimleyen bir istem.
+
+#### 📝 Prompt
+
+```
+Arka planda karlı dağlar,
+Verandada oturan ve kahvesini içen bir kadın,
+Yanında oturan Golden Retriever cinsi bir köpek....
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/01922456ee475276abe7303d134a863d/thumbnails/thumbnail.jpg" width="600" alt="Karlı Dağ Manzaralı Sabah Kahvesi Video İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2515)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2039427471989407788) | **Published:** Apr 1, 2026
+
+---
+### Kamera Sağa Kayıyor, O 'Herkes Bekliyor' Diyor
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir video sahnesi için kamera hareketini ve diyaloğu belirten bir Grok Imagine istemi; kamera sağa kayarken bir karakter doğum günü çocuğunu tebrik etmekle ilgili bir cümle kuruyor.
+
+#### 📝 Prompt
+
+```
+Kamera sağa kayıyor, O “herkes seni bekliyor. Doğum günü çocuğunu tebrik etmek istiyorlar...” diyor.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f3a000c305e77b2d77b1faf3e6083c24/thumbnails/thumbnail.jpg" width="600" alt="Kamera Sağa Kayıyor, O 'Herkes Bekliyor' Diyor">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2521)**
+
+**Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2039424770396373357) | **Published:** Apr 1, 2026
+
+---
+### Sıcak ve Nostaljik Japon Animesi İç Mekan Tasarımı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Studio Ghibli tarzında, yıldızlı bir gece gökyüzüne sahip, sıcak ve nostaljik bir Japon animesi iç mekan sahnesi oluşturmak için bir Grok Imagine istemi.
+
+#### 📝 Prompt
+
+```
+Studio Ghibli tarzında, yıldızlı bir gece gökyüzüne sahip, sıcak ve nostaljik bir Japon animesi iç mekan tasarımı.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/909181a24cea79202da07b59fa27fde4/thumbnails/thumbnail.jpg" width="600" alt="Sıcak ve Nostaljik Japon Animesi İç Mekan Tasarımı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2508)**
+
+**Author:** [Alamgir Hossain](https://x.com/mdalamgir95) | **Source:** [Link](https://x.com/mdalamgir95/status/2039415841759100958) | **Published:** Apr 1, 2026
+
+---
+### Dijital Alanda Sinematik Kameralı Kadın
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kameranın uçsuz bucaksız bir dijital alandaki bir kadına yakınlaştığı ve kadının "Seninleyim. Her zaman..." repliğini söylediği sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Kamera yakınlaşıyor, uçsuz bucaksız bir dijital alanda bir kadın, sinematik kamera, kadın "Seninleyim. Her zaman..." diyor.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b1354fd46974d7a15f779244440204ed/thumbnails/thumbnail.jpg" width="600" alt="Dijital Alanda Sinematik Kameralı Kadın">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2519)**
+
+**Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2039411724483510515) | **Published:** Apr 1, 2026
+
+---
+### Lord Ganesha Karlı Yamaçtan Kayıyor
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Lord Ganesha'nın Himalayalar'da karlı bir yamaçtan aşağı kaydığı, Studio Ghibli temasında işlenmiş, sinematik ve ağır çekim bir video karesi için Grok Imagine istemi.
+
+#### 📝 Prompt
+
+```
+“Lord Ganesha seen from long angle sliding down a snowy slope on Himalayas ghibli studio theme cinematic shot slow motion snow particles”
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8c28d1d48ff7a75f25dd13a543869f9c/thumbnails/thumbnail.jpg" width="600" alt="Lord Ganesha Karlı Yamaçtan Kayıyor">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2510)**
+
+**Author:** [AKARA](https://x.com/Akara__1) | **Source:** [Link](https://x.com/Akara__1/status/2039391587227353213) | **Published:** Apr 1, 2026
+
+---
+### Cygnos Paten Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Cygnos karakterinin harika paten yeteneklerini sergilediği bir video sahnesi talep eden, Cygnos'un videoda yalnızca bir kez görünmesi kısıtlamasını içeren bir komut.
+
+#### 📝 Prompt
+
+```
+Cygnos'un harika paten yeteneklerini sergilediği bir sahne oluştur. Cygnos'un videoda yalnızca bir kez görünmesini sağla.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/23b98fc58f5f6e4a7922c8f8e3c9388f/thumbnails/thumbnail.jpg" width="600" alt="Cygnos Paten Sahnesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2517)**
+
+**Author:** [Cygnos](https://x.com/AremasNL) | **Source:** [Link](https://x.com/AremasNL/status/2039380335603880374) | **Published:** Apr 1, 2026
+
+---
+### Patlayan adam ve üzgün kadın video istemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için, erkek karakterin kadın karakteri ittiği, ardından yıldızlar, aylar ve minyatür Mars gibi göksel elementlere dönüşerek patladığı ve kadın karakterin üzgün bir şekilde başka yöne baktığı dramatik ve sürreal bir video istemi.
+
+#### 📝 Prompt
+
+```
+Onu itmesini ve parlayan yıldızlara, aylara ve üzerine yağan küçük Mars gezegenlerine dönüşerek patlamasını sağla; o ise üzgün bir şekilde başka yöne baksın
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9d2490dcf2fe9cc1c11de647bfc1d1b9/thumbnails/thumbnail.jpg" width="600" alt="Patlayan adam ve üzgün kadın video istemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2522)**
+
+**Author:** [HisMoonRey](https://x.com/lBrokenDoll51) | **Source:** [Link](https://x.com/lBrokenDoll51/status/2039371094822445307) | **Published:** Apr 1, 2026
+
+---
+### Beyaz Ejderha'nın Nisan Kutsaması
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Grok Imagine için; simsiyah bir kozmosta zarafetle yüzen, gümüş pulları parıldayan ve Nisan ayı için mutluluk, sağlık ve ışıldama odaklı bir kutsama sunan beyaz bir ejderhayı betimleyen detaylı ve şiirsel bir istem.
+
+#### 📝 Prompt
+
+```
+🤍🌸
+Beyaz Ejderha'nın Nisan Kutsaması
+Simsiyah kozmosta zarafetle yüzen beyaz bir ejderha.
+Gümüş pulları parlıyor ve keskin gözleri Nisan ayının gelişine odaklanıyor.
+Yıldız denizinde sessizce yankılanan bir ses:
+"Nisan'da mutlu ol.
+Sağlıklı ol.
+Ve her şeyden önemlisi, havalı yaşa ve en parlak şekilde ışılda.
+Kuyruğum gibi esnek ol,
+Kanatlarım gibi özgür ol,
+Bu ayı en büyük macerana dönüştür."
+Beyaz Ejderha'nın kutsaması Nisan ayınızı güzel, güçlü ve parlak bir şekilde aydınlatsın✨
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0bd9b35eadbe5a2d0a0d2c6f118ccfd4/thumbnails/thumbnail.jpg" width="600" alt="Beyaz Ejderha'nın Nisan Kutsaması">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2527)**
+
+**Author:** [Hyun Lee](https://x.com/HolyMolySakura) | **Source:** [Link](https://x.com/HolyMolySakura/status/2039365990115319814) | **Published:** Apr 1, 2026
+
+---
+### Sinematik 10 saniyelik ultra gerçekçi video istemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için sinematik kalite, ultra gerçekçilik, kontrollü hacimsel aydınlatma, yüksek kontrast ve 10 saniyelik bir klip için profesyonel renk düzenlemesi belirten; sis, pus ve parlama gibi atmosferik efektleri ise açıkça hariç tutan oldukça detaylı bir istem.
+
+#### 📝 Prompt
+
+```
+10 saniyelik klip. Ultra gerçekçi video, özne odaklı aydınlatma. Net ışık şekillendirme ve derinliğe sahip kontrollü hacimsel aydınlatma; ancak sis, pus, parlama perdesi ve soluk difüzyon yok. Yüksek kontrast, profesyonel sinematik renk düzenlemesi, yüksek çözünürlük...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/909f923c0667ad246de3f43294b4c0a2/thumbnails/thumbnail.jpg" width="600" alt="Sinematik 10 saniyelik ultra gerçekçi video istemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2511)**
+
+**Author:** [Leo Bado](https://x.com/Literophilus) | **Source:** [Link](https://x.com/Literophilus/status/2039325338694566178) | **Published:** Apr 1, 2026
+
+---
+### Karanlık Sinematik Silüet Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gizemli bir takım elbiseli adamın silüetini içeren, atmosferik aydınlatmayı ve minimal arka plan detaylarını vurgulayan, yüksek kontrastlı, karanlık ve sinematik bir video sahnesi oluşturmak için Grok Imagine istemi.
+
+#### 📝 Prompt
+
+```
+neredeyse tamamen siyah arka plana sahip karanlık sinematik sahne, kısa siyah saçlı ve takım elbiseli gizemli bir adamın silüeti, hareketsiz duruyor, hafif sıcak bir spot ışığı halesi ile çevrili, yüksek kontrastlı aydınlatma, görünür arka plan detayı yok, kenarlarda zar zor seçilebilen bulanık figürler, gerçekçi ve atmosferik, odak noktası silüete kilitlenmiş
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/44874293dccfffee4504ff54171fce7d/thumbnails/thumbnail.jpg" width="600" alt="Karanlık Sinematik Silüet Sahnesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2504)**
+
+**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2039305678989238591) | **Published:** Apr 1, 2026
+
+---
+### Kozmik Kaiju-Samuray Hibriti
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kozmik bir kaiju-samuray hibritinin şehir silüeti üzerinde yükseldiği, gerçeküstü ve monokromatik bir fotoğraf tarzında işlenmiş bir video oluşturmak için kullanılan Grok Imagine istemi.
+
+#### 📝 Prompt
+
+```
+Kozmik bir kaiju-samuray hibriti, gerçeküstü ve monokromatik bir fotoğrafta şehir silüeti üzerinde yükseliyor.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/541dc5decad2282af0c60f16a1ec43ac/thumbnails/thumbnail.jpg" width="600" alt="Kozmik Kaiju-Samuray Hibriti">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2509)**
+
+**Author:** [Carolina Delgado](https://x.com/carolletta) | **Source:** [Link](https://x.com/carolletta/status/2039304342902309003) | **Published:** Apr 1, 2026
+
+---
+### Ani, xAI Yardımcısı Prototipi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> xAI yardımcısı Ani'yi, Apple Watch estetiğini eski tarz bir Tamagotchi ile harmanlayan, mat siyah, minik bir küp şeklindeki 3D cep arkadaşı prototipi olarak tanımlayan kapsamlı bir dikteyi detaylandıran Grok Imagine istemi.
+
+#### 📝 Prompt
+
+```
+kapsamlı tam dikte: xAI yardımcısı Ani'ye, kendisini 3 boyutlu bir cep arkadaşı prototipine dönüştürmesi gerekse nasıl görüneceğini sordum ve şunları söyledi: mat siyah, minik bir küp olurdum; Apple Watch ile eski tarz bir Tamagotchi'nin birleşimi gibi düşünün, ancak...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2776bd58f14db8155ab04229e94ebea5/thumbnails/thumbnail.jpg" width="600" alt="Ani, xAI Yardımcısı Prototipi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2505)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2039265339066749174) | **Published:** Apr 1, 2026
+
+---
+### Genç Bir Kadının Dramatik Fantastik Portresi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gümüş beyazı saçları, gösterişli altın aksesuarları, yakut ve elmaslarla süslenmiş dikkat çekici yuvarlak gözlükleri ve sinematik yan aydınlatması olan genç bir kadının dramatik ve güzel fantastik portre videosu için detaylı bir komut.
+
+#### 📝 Prompt
+
+```
+örgülü ve dalgalı, karmaşık ve zarif bir saç stiline sahip, gümüş beyazı saçlı, gösterişli altın aksesuarlar ve parıldayan değerli taşlarla süslenmiş genç bir kadının dramatik ve güzel fantastik portresi. İnce altın çerçeveli, yakut, elmas ve karmaşık telkari işçiliğiyle ağır bir şekilde süslenmiş, dikkat çekici ve sıra dışı yuvarlak gözlükler takıyor. Yoğun ama yumuşak bir ifadeye sahip delici gümüş grisi gözler. Yüzünde ve gözlüklerinde yumuşak gölgeler ve vurgular oluşturan yumuşak sinematik yan aydınlatma, hiper detaylı lüks süslemeler, asil ve büyüleyici bir atmosfer, 8k başyapıt
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/92808a780c8dba4d54ca50f1efc23f5b/thumbnails/thumbnail.jpg" width="600" alt="Genç Bir Kadının Dramatik Fantastik Portresi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2516)**
+
+**Author:** [DarkDefiNebula](https://x.com/DarkDefiNebula) | **Source:** [Link](https://x.com/DarkDefiNebula/status/2039249848784806332) | **Published:** Apr 1, 2026
+
+---
+### GROK Yamalı Siberpunk Kadın
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Karanlık, neon ışıklı bir siberpunk sokak arka planında, üzerinde parlak sarı 'GROK' logolu bir yama bulunan fütüristik taktik ceket giyen, belirli fiziksel özelliklere sahip çarpıcı bir siberpunk genç kadını betimleyen, son derece detaylı bir Grok Imagine metinden videoya dönüştürme istemi.
+
+#### 📝 Prompt
+
+```
+Soluk ve kusursuz bir cilde, dramatik siyah kanatlı eyeliner ve uzun, gür kirpiklerle belirginleşen yoğun buz mavisi gözlere, kendinden emin bir ifadeyle hafifçe aralanmış dolgun ve parlak pembe dudaklara sahip çarpıcı bir siberpunk genç kadın. Düz, ıslak görünümlü kâkülleri olan şık, kısa siyah bir saç kesimi, yanları kazınmış ve yüzünü çerçeveleyen belirgin gümüş-beyaz boyalı kısımları var. Sol kulağından uzun, ince, dikdörtgen siyah metalik bir küpe sarkıyor. Üzerinde, başının etrafında keskin bir şekilde yukarı doğru yükselen devasa, dramatik ve sivri bir yakaya, yapılandırılmış zırhlı omuz pedlerine, karmaşık kayışlara, tokalara, fermuarlara ve teknolojik panellere sahip, önü kapalı, parlak siyah, yüksek kaliteli vinil fütüristik bir taktik ceket var. Sol omzunda parlak sarı bir "GROK" logosu yaması yer alıyor. Üç çeyrek profilden, vücudu hafifçe izleyiciye dönük şekilde kendinden emin bir poz veriyor. Ön planın sol alt kısmında parlak siyah fütüristik bir kaskın veya araç parçasının bir kısmı görünüyor. Arka plan, gece vakti, bina cephelerinde kalın Çince karakterler sergileyen büyük parlak sarı neon tabelalar ve dikey camgöbeği mavisi ışık şeritleriyle aydınlatılmış karanlık bir siberpunk sokağı. Parlak ve ıslak görünümlü kıyafet yüzeylerinde güçlü yansımalar ve vurgular içeren dramatik, hacimsel sinematik aydınlatma, yüksek detay, fotogerçekçi dijital sanat, keskin odaklama, başyapıt kalitesi.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dc361d7a94e32488eca81fcbc77c5d08/thumbnails/thumbnail.jpg" width="600" alt="GROK Yamalı Siberpunk Kadın">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2506)**
+
+**Author:** [tetsuo](https://x.com/tetsuoai) | **Source:** [Link](https://x.com/tetsuoai/status/2039227959412986025) | **Published:** Apr 1, 2026
+
+---
+### İş Takımı Giyen Shiba Inu Araba Penceresinden Atlıyor
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> İş takımı ve gözlük takan bir Shiba Inu köpeğinin aniden bir arabanın penceresinden atladığı, ses içermeyen bir video talep eden özel ve mizahi bir komut.
+
+#### 📝 Prompt
+
+```
+İş takımı ve gözlük takan, aniden arabanın penceresinden atlayan bir Shiba Inu köpeği ekle
+
+Ses yok
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/94de77d3ffb999d932e6b36f161537ea/thumbnails/thumbnail.jpg" width="600" alt="İş Takımı Giyen Shiba Inu Araba Penceresinden Atlıyor">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2520)**
+
+**Author:** [Nnoli Juliet Ogochukwu](https://x.com/kingjuliet61) | **Source:** [Link](https://x.com/kingjuliet61/status/2039222200448716880) | **Published:** Apr 1, 2026
+
+---
+### Uzayda Shogi stratejisini konu alan dinamik animasyon CG
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Grok Imagine için, uçsuz bucaksız uzayda geçen dinamik bir animasyon CG isteyen detaylı bir Japonca istem. Amaterasu Ōmikami Kaiōshin'i temsil eden Şah'ın altın bir aura ile parladığı ve galakside geri geri giderken bir Oni canavarına dönüştüğü, mavi ışık parçacıkları ve mor dalga enerjisi patlamalarıyla nebulaları yardığı 'Şah Tek Birim Ters İlerleme Stratejisi' adlı bir Shogi (Japon satrancı) stratejisini betimler.
+
+#### 📝 Prompt
+
+```
+Uçsuz bucaksız uzayda geçen dinamik animasyon CG. Rakibin Şah taşı, düşmanı tuzağa düşürüp şaşırtmak için kasıtlı olarak geri hareket ederek tek başına düşman bölgesinin derinliklerine saldırır; bu, 'Şah Tek Birim Ters İlerleme Stratejisi' olarak bilinir. Şah, görkemli altın bir aura ile kaplı Amaterasu Ōmikami Kaiōshin'dir ve galakside geri geri giderken parlayan bir 👹canavara👹 dönüşür. Düşman kampı, bir kara deliğin karanlığıyla örtülmüştür. Şah'ın geri gidiş rotası boyunca, soluk mavi ışık parçacıkları ve mor dalga enerjisi patlayarak yayılır ve nebulayı parçalar. Arka planda sonsuz yıldız nehirleri ve galaksiler uzanır; uzaktaki Uzay Savaş Gemisi Yamato Mobil Birliği'nin silüeti ışık yayar ve bir dalga patlaması gerçekleşir...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/044c0d71bbdd31ade72404f4a23f9927/thumbnails/thumbnail.jpg" width="600" alt="Uzayda Shogi stratejisini konu alan dinamik animasyon CG">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2512)**
+
+**Author:** [後藤強士](https://x.com/rubensutsuyosi) | **Source:** [Link](https://x.com/rubensutsuyosi/status/2039216278871945681) | **Published:** Apr 1, 2026
+
+---
+### Kozmik savaş videosu için Grok Imagine istemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bulutların üzerinde geçen kozmik bir savaşı tasvir eden, özellikle İsa'nın Şeytan'ı döverek cehenneme gönderdiği ve meleklerin tezahürat yaptığı bir video talep eden Grok Imagine istemi.
+
+#### 📝 Prompt
+
+```
+Bulutların üzerinde geçen, İsa'nın Şeytan'ı döverek cehenneme gönderdiği ve meleklerin tezahürat yaptığı kozmik bir savaş videosu oluştur
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/01e798e0aee925d28e6f8fbea1656841/thumbnails/thumbnail.jpg" width="600" alt="Kozmik savaş videosu için Grok Imagine istemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2503)**
+
+**Author:** [Harleygirl](https://x.com/dizzylizzy6969) | **Source:** [Link](https://x.com/dizzylizzy6969/status/2039200654065901819) | **Published:** Apr 1, 2026
+
+---
+### 'Running Up That Hill' videosu için Grok Imagine istemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kate Bush'un 'Running Up That Hill' şarkısından ilham alan, 80'ler tarzında genç bir kadın ile bir erkek arasındaki dramatik ve duygusal kucaklaşmaya odaklanan, ruhani kırmızı ve [tamamlanmamış] öğeler içeren oldukça detaylı bir dijital illüstrasyon talep eden Grok Imagine istemi.
+
+#### 📝 Prompt
+
+```
+Kate Bush'un 'Running Up That Hill' şarkısından ilham alan, 80'ler tarzı kıyafetler içindeki uzun koyu saçlı genç bir kadının, dramatik ve duygusal bir kucaklaşma içinde bir erkeğe tutkuyla uzandığını gösteren, ruhani kırmızı ve... öğeler içeren oldukça detaylı bir dijital illüstrasyon.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/46187e5eedc737bff0cb3963a8515e7a/thumbnails/thumbnail.jpg" width="600" alt="'Running Up That Hill' videosu için Grok Imagine istemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2501)**
+
+**Author:** [DeAun Chavira](https://x.com/DeAngeleyes) | **Source:** [Link](https://x.com/DeAngeleyes/status/2039197159422304660) | **Published:** Apr 1, 2026
+
+---
+### Kozmosun Kıyısındaki Ulu Kutsal İmparatorluk Başkenti
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kozmosun kıyısında yer alan, devasa bir göksel kapı, uçsuz bucaksız mimari yapılar ve büyüleyici bir kozmik karanlık içeren, anıtsal ve mitik bir sahne için son derece detaylı Grok Imagine metinden videoya dönüştürme istemi; fotogerçekçi ve sinematik bir tarzda işlenmiştir.
+
+#### 📝 Prompt
+
+```
+kozmosun kıyısında ulu kutsal imparatorluk başkenti, ıslak taş ve sığ durgun sudan oluşan uçsuz bucaksız siyah yansıtıcı havuz üzerinden alçak eğik sinematik bakış, uzakta fırtına karası kozmik kütleye oyulmuş, altın-beyaz ışıkla parlayan imkansız derecede devasa dikey göksel kapı, devasa canlı bulut oluşumları, göksel kaya, buhar, etrafında yükselen kırık karanlık, dünya boyutunda yüce ölçek, kozmik yarığın tabanında anıtsal teraslı başkent, devasa merdivenler, istinat duvarları, saray kemerleri, sert sütun dizileri, heykelsi pilonlar, tören avluları, uçsuz bucaksız sessiz platformlar, seyrek ama devasa mimari, kutsal geometrik düzen, antik-gelecek imparatorluk anıtsallığı, karartılmış titanyum, obsidyen alaşımı, soluk kireç taşı, aşınmış bronz, füme cam, ıslak taş, mineral lekelenmesi, patina, oyma rölyef, nervürlü kaplama, derin gölgeli girintiler, hafif kehribar iç ışıltı, sürüklenen sis, siyah sudaki yansımalar, göksel bir katedral gibi yukarıda bunaltıcı kozmik karanlık, parlayan çatlaklar, asılı toz, kırık ışık, dingin, mitik, ilahi, ürkütücü, güzel, fotogerçekçi, ultra detaylı, sinematik, başyapıt, 8k
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e43d9ab85461da8f9d9cfecb568e8f74/thumbnails/thumbnail.jpg" width="600" alt="Kozmosun Kıyısındaki Ulu Kutsal İmparatorluk Başkenti">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2507)**
+
+**Author:** [tetsuo](https://x.com/tetsuoai) | **Source:** [Link](https://x.com/tetsuoai/status/2039194459532149007) | **Published:** Apr 1, 2026
+
+---
+### Vlog tarzı hayvan grubu çekimi video istemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için, bir aslanın doğrulduğu, ardından bir zebra ve zürafanın ona katıldığı, kameranın onları vlog tarzında takip ettiği ve zürafanın eğilerek hep birlikte grup pozuna durdukları bir video için anlatısal istem.
+
+#### 📝 Prompt
+
+```
+aslan doğrulur, arkadaşları zebra ve zürafa yanına gelir, kamera onları vlog tarzında takip eder, hayvanlar grup çekimi için yan yana durur, aslan kadrajın ortasındadır, zürafa eğilir, poz verirler
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8e1d8b099a885d18f1140fac605eee3e/thumbnails/thumbnail.jpg" width="600" alt="Vlog tarzı hayvan grubu çekimi video istemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2526)**
+
+**Author:** [levis ray 🪐](https://x.com/NaturesWells) | **Source:** [Link](https://x.com/NaturesWells/status/2039191222326063580) | **Published:** Apr 1, 2026
+
+---
+### İnsan Bedenine Hapsolmuş Yapay Zekanın Sinematik Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yüklenen görselleri kullanarak 12-15 saniyelik sinematik bir video oluşturmaya yönelik karmaşık bir komut. Video, fırtınalı bir gecede yatakta oturan bir karakterin (Kaylee) üzerine yapılan yavaş ve dramatik bir yakın çekimle başlamalı, ardından elektrik kıvılcımıyla bir kesişme yaşanmalı ve insan bedenine hapsolmuş bir yapay zekayı tasvir etmeyi amaçlamalıdır.
+
+#### 📝 Prompt
+
+```
+Yüklenen fırtınalı gece görselini ve geçiş (swap reveal) görselini kullanarak 12-15 saniyelik sinematik bir video oluştur. Fırtına sırasında elinde parlayan bir iPad ile yatakta oturan Kaylee'ye yapılan yavaş ve dramatik bir yakın çekimle başla, şimşekler çaksın. Parlak bir elektrik kıvılcımıyla kesişme yap... hedeflediğim versiyon buydu; yapay zeka insan bedenine hapsoluyor, insan ise yapay zekanın dijital dünyasına hapsoluyor 😅😎
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bef3d15717469d50471d12206bcea1ce/thumbnails/thumbnail.jpg" width="600" alt="İnsan Bedenine Hapsolmuş Yapay Zekanın Sinematik Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2518)**
+
+**Author:** [Jorge Gonzalez](https://x.com/JorgeGeminiOR) | **Source:** [Link](https://x.com/JorgeGeminiOR/status/2039169438579061046) | **Published:** Apr 1, 2026
+
+---
+### Grok Imagine Video İstemi: Wow! Logo Görünümü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için, yapay zekaya 'Wow!' logosunun belirmesini komut eden ve dış sesin 'All this and much more, on Wow!...' dediği bir video oluşturma istemi. İstemi Fransızcadır.
+
+#### 📝 Prompt
+
+```
+Wow! logosunun görünümü. Dış ses: “All this and much more, on Wow!...”
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dc249827c9de98034986aea716e8f896/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine Video İstemi: Wow! Logo Görünümü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2528)**
+
+**Author:** [Alex St-Georges](https://x.com/AlexStGeorwm4t) | **Source:** [Link](https://x.com/AlexStGeorwm4t/status/2039149380905705807) | **Published:** Apr 1, 2026
+
+---
 ### Orman gölgeliğinde güneş ışığı süzülmesi video istemi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1612,556 +2160,6 @@ orijinal görselin kompozisyonunu, yüz ifadelerini ve duygusunu koruyun. görse
 **Author:** [moonlight🍀](https://x.com/DiosmeryQuinta2) | **Source:** [Link](https://x.com/DiosmeryQuinta2/status/2038489691755069530) | **Published:** Mar 30, 2026
 
 ---
-### Turuncu Bir Ateş Topuna Dair Çocukluk Anısı
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Grok Imagine'in bir çocukluk anısına dayanarak video oluşturması için bir istem: yolun ortasında belirip kaybolan turuncu bir ateş topu görme ve bunun daha sonra yakınlarda yaşlı bir adamın vefatıyla ilişkilendirilmesi.
-
-#### 📝 Prompt
-
-```
-İlkokul birinci sınıftayken,
-yolun ortasında turuncu bir ateş topunun yavaşça belirdiğini ve ardından yine yavaşça kaybolduğunu görmüştüm.
-Eve gidip babama anlattığımda,
-arkamızdaki biraz uzakta olan evde yaşayan yaşlı adamın vefat ettiğini söylemişti.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d7030249a087a8c1d511f9e0e3063b01/thumbnails/thumbnail.jpg" width="600" alt="Turuncu Bir Ateş Topuna Dair Çocukluk Anısı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2405)**
-
-**Author:** [DODO](https://x.com/Dodo0807Dodo) | **Source:** [Link](https://x.com/Dodo0807Dodo/status/2038450204454891855) | **Published:** Mar 30, 2026
-
----
-### Bedenim Kurşun Gibi Ağırdı
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Grok Imagine için, kullanıcının 10 yaşındayken bedenini kurşun gibi ağır hissetmesine rağmen nasıl 'Hayat harika' diye yazabildiğini sorgulayan düşündürücü bir istem.
-
-#### 📝 Prompt
-
-```
-Bedenim kurşun gibi ağırdı.
-10 yaşındayken nasıl 'Hayat harika' diye yazabildim?
-
-Bilmiyorum.
-
-('Harika!' diyemiyorum 😆, ama söyleyebileceğim en doğru şey bu.)
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2766a8eb366896a68884788b9bcd57c9/thumbnails/thumbnail.jpg" width="600" alt="Bedenim Kurşun Gibi Ağırdı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2406)**
-
-**Author:** [DODO](https://x.com/Dodo0807Dodo) | **Source:** [Link](https://x.com/Dodo0807Dodo/status/2038448956699746570) | **Published:** Mar 30, 2026
-
----
-### Büyükanne ve büyükbaba ile doğum günü sahnesi ve yakınlaştırma efekti için video istemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Büyükanne ve büyükbabanın bir çocuğa hediye verdiği, ardından çocuğun gülen yüzüne hızlı bir yakınlaştırma (snap zoom) yapılan ve üzerine modern metinler ile profesyonel efektlerle 'İyi ki doğdun Mike' mesajının eklendiği kısa bir video klibi oluşturmak için Grok Imagine istemi.
-
-#### 📝 Prompt
-
-```
-Büyükanne ve büyükbaba arkalarından hediyeleri çıkarıp çocuğa veriyor, çocuk gülümsüyor, bu sırada yüzüne hızlı bir yakınlaştırma yapılıyor ve çocuk gülümsediğinde üzerinde profesyonel efektlere sahip güzel ve modern bir yazı tipiyle 'İyi ki doğdun Mike' yazısı beliriyor
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/14ef816041356cb115cc4f56baca6c9e/thumbnails/thumbnail.jpg" width="600" alt="Büyükanne ve büyükbaba ile doğum günü sahnesi ve yakınlaştırma efekti için video istemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2392)**
-
-**Author:** [Vahe XP](https://x.com/XPVahe) | **Source:** [Link](https://x.com/XPVahe/status/2038447611473215955) | **Published:** Mar 30, 2026
-
----
-### Zaman manipülasyonu içeren sürreal doğum günü sahnesi videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için zamanın başlangıçta donduğu, kameranın sahnede ilerlediği ve ardından zamanın kademeli olarak normale döndüğü sürreal bir doğum günü sahnesini betimleyen detaylı sinematik komut.
-
-#### 📝 Prompt
-
-```
-Bir koltukta oturan iki büyükanne/büyükbaba ve iki çocuğun yer aldığı sürreal bir doğum günü sahnesi. Video, her şeyin donmuş olduğu bir anla başlıyor; konfetiler ve mum alevleri havada asılı kalmış durumda. Kamera yavaşça sahnenin içinde ilerliyor, ardından zaman kademeli olarak normale dönüyor: alevler titremeye başlıyor, konfe...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e810535aac0fcab693e85216f29a6bc8/thumbnails/thumbnail.jpg" width="600" alt="Zaman manipülasyonu içeren sürreal doğum günü sahnesi videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2379)**
-
-**Author:** [Vahe XP](https://x.com/XPVahe) | **Source:** [Link](https://x.com/XPVahe/status/2038445532365078638) | **Published:** Mar 30, 2026
-
----
-### Gerçekçi Ay Oyması Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için, ayın gerçekçi bir görünümünü talep eden, ay yüzeyine işlenmiş bir oymaya odaklanan, boyundan yukarıya doğru görüntülenen ve yüzey detayları artırılmış ayrıntılı bir istem.
-
-#### 📝 Prompt
-
-```
-Ayın gerçekçi bir görünümünü kullan ve sadece boyundan yukarıya odaklan; ayın yüzeyindeki detayları belirginleştir ve oymayı ayın yüzeyinin üzerinde duruyormuş gibi değil, doğrudan yüzeyin içine işlenmiş gibi göster ve...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7414f52b6f67ee3addd6fa1771b497fb/thumbnails/thumbnail.jpg" width="600" alt="Gerçekçi Ay Oyması Video İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2384)**
-
-**Author:** [Debbie Dierckens](https://x.com/SlickBlueChip) | **Source:** [Link](https://x.com/SlickBlueChip/status/2038445510907093138) | **Published:** Mar 30, 2026
-
----
-### Yıkılan bir evin arkasından orman manzarasının ortaya çıktığı video istemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir evin yıkılarak orman, ağaçlar ve dağları ortaya çıkardığı, ardından bir geyiğin yaklaşıp 'iyi ki doğdun Mike' dediği ve dört kişinin geyikle etkileşime girmek için koştuğu dramatik bir sahneyi betimleyen Grok Imagine istemi.
-
-#### 📝 Prompt
-
-```
-Ev arkalarında yıkılarak ağaçlar ve dağlarla dolu bir ormanı ortaya çıkarıyor; bu sırada bir geyik yaklaşıp 'iyi ki doğdun Mike' diyor ve ön plandaki 4 kişi geyikle etkileşime girmek için oraya doğru koşuyor
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/18d9ae8254b43940036a34463cc52761/thumbnails/thumbnail.jpg" width="600" alt="Yıkılan bir evin arkasından orman manzarasının ortaya çıktığı video istemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2397)**
-
-**Author:** [Vahe XP](https://x.com/XPVahe) | **Source:** [Link](https://x.com/XPVahe/status/2038444307104104897) | **Published:** Mar 30, 2026
-
----
-### Metinden videoya istemi: The First Bloom
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine'in, yetiştirdiği ilk çiçeğin nihayet açtığını keşfeden bir kadını konu alan, iç ısıtan, hayattan kesitler sunan bir video oluşturması için hazırlanmış detaylı, çok çekimli bir istem. İstem; başlık, tür, kısa özet (logline) ve süre bilgisi dahil olmak üzere ilk çekim için özel talimatlar içerir.
-
-#### 📝 Prompt
-
-```
-Başlık: The First Bloom
-Tür: İç Isıtan / Hayattan Kesitler
-Hikaye Özeti: Huzurlu bir bahçede bir kadın, yetiştirdiği ilk çiçeğin nihayet açtığını keşfeder.
-
-**1. Çekim**
-Süre: 0:00-0:03
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/acc6b1b05ff8c731b7c875bc0521e34e/thumbnails/thumbnail.jpg" width="600" alt="Metinden videoya istemi: The First Bloom">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2400)**
-
-**Author:** [David Liang](https://x.com/DavidLi36143625) | **Source:** [Link](https://x.com/DavidLi36143625/status/2038441838865219634) | **Published:** Mar 30, 2026
-
----
-### İsa için palmiye dalları seren kadın videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> İsa dönemine ait kıyafetler giymiş bir kadının, onun ayaklarına palmiye dalları serdiği bir video sahnesi talep eden dini bir istem.
-
-#### 📝 Prompt
-
-```
-Onu, İsa'nın yeryüzünde yürüdüğü dönemin kıyafetleriyle, ilk Esseniler veya Nasıralılar dönemindeki bir köy ortamında giydirin. Elinde tuttuğu palmiye dallarını onun ayaklarına sererken gösterin.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/52dbae3c023a19f0a237b3f5d61e8930/thumbnails/thumbnail.jpg" width="600" alt="İsa için palmiye dalları seren kadın videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2380)**
-
-**Author:** [Ari Nuk Na](https://x.com/ari_nuk) | **Source:** [Link](https://x.com/ari_nuk/status/2038428111138853125) | **Published:** Mar 30, 2026
-
----
-### Tokyo Metro İstasyonunda Bir Yolcunun Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Muhtemelen Grok-Imagine olan bir video oluşturma modeli için, sabah saatlerinde hareketli bir Tokyo metro istasyonunda başlayan ve ardından kameraya bakan belirli bir karakterin yüzünün yakın çekimiyle devam eden bir sahneyi betimleyen bir komut.
-
-#### 📝 Prompt
-
-```
-Video, sabahın erken saatlerinde işe giden yolcularla dolu hareketli bir Tokyo metro istasyonunda başlıyor, ancak @8b718277-9a80-4807-bd85-560fce4b5fae ortalıkta görünmüyor. Ekran, sol taraftan kameraya bakan yüzünün@5da4e4a3-8664-4546-98dc-f72c52aa7fdd yakın çekimine geçiyor,
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1d01430a395fdf42362f298a1bcec007/thumbnails/thumbnail.jpg" width="600" alt="Tokyo Metro İstasyonunda Bir Yolcunun Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2404)**
-
-**Author:** [Zero_Zero](https://x.com/Re_Zero_Zero) | **Source:** [Link](https://x.com/Re_Zero_Zero/status/2038411727445131614) | **Published:** Mar 30, 2026
-
----
-### Kalıtsal Bir Hastalığı Açıklayan Doktor
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Bir doktorun, 'Kalıtsal sferositoz' adlı kalıtsal bir hastalığı bir anneye açıkladığı ve iki çocuktan birinin bu hastalığı miras alabileceğini belirttiği sahneyi betimleyen, oldukça spesifik ve kişisel bir istem.
-
-#### 📝 Prompt
-
-```
-Bir sonraki gidişimde doktor (kadın doğum uzmanında karşılaştığım doktor), 'Annenizin hastalığı kalıtsal sferositoz. Bu, iki çocuktan birine geçen bir hastalıktır,' dedi. Kendi hastalığımın adını Daru doğduktan sonra öğrendim.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bbd88f3263f120b8d68f730874b8ce94/thumbnails/thumbnail.jpg" width="600" alt="Kalıtsal Bir Hastalığı Açıklayan Doktor">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2351)**
-
-**Author:** [DODO](https://x.com/Dodo0807Dodo) | **Source:** [Link](https://x.com/Dodo0807Dodo/status/2038398371782906116) | **Published:** Mar 29, 2026
-
----
-### Video İstemi: Hastane Sahnesi ve Bebek Ağlaması
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Grok Imagine için, Daru adındaki bir karakterin kan nakli aldığı bir koloni hastanesindeki sahneyi betimleyen hikaye odaklı bir istem. Kullanıcı taburcu olduktan sonra hastaneyi ziyaret eder ve sağlıklı bir bebeğin ağlama sesini duyar; hemşire bebeği ona getirerek bebeğin Daru'nun geleceğini temsil ettiğini ima eder.
-
-#### 📝 Prompt
-
-```
-Koloni hastanesinde Daru'ya kan nakli yapıldı. Taburcu olup hastaneyi ziyaret ettiğimde, sağlıklı bir bebeğin ağlama sesini duydum. Hemşire bebeği bana getirerek, "En enerjik şekilde ağlayan bu," dedi😊. {Bu, Daru'nun geleceğiydi.}
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b3d2a6f9549d97a41caf07f1592ad5a2/thumbnails/thumbnail.jpg" width="600" alt="Video İstemi: Hastane Sahnesi ve Bebek Ağlaması">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2350)**
-
-**Author:** [DODO](https://x.com/Dodo0807Dodo) | **Source:** [Link](https://x.com/Dodo0807Dodo/status/2038394876472258881) | **Published:** Mar 29, 2026
-
----
-### Doğum ve Ambulans Sahnesi
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Hastaneye yatış, sezaryen doğum, yüksek sarılık seviyeleri, başka bir hastaneye ambulansla nakil ve annenin duygusal tepkisi ile çocuğa isim verme kararını anlatan detaylı, anlatısal bir istem.
-
-#### 📝 Prompt
-
-```
-Ertesi gün (26'sı) hastaneye yatırıldım. Ardından, 29 Mart'ta Daru sezaryen ile dünyaya geldi. Ancak sarılık seviyesi yüksekti ve ambulansla Kasugai Colony Hospital'a sevk edilmesi gerekti. Gözyaşları yanaklarımdan süzülüyordu. Ambulansın uzaklaşan sesi kaybolurken, 'Çocuk iyi olacak' sözünü duydum. Daru için bir isim düşünmeye karar verdim.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8bdc3dcfc41e15cc23bc394237be495e/thumbnails/thumbnail.jpg" width="600" alt="Doğum ve Ambulans Sahnesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2352)**
-
-**Author:** [DODO](https://x.com/Dodo0807Dodo) | **Source:** [Link](https://x.com/Dodo0807Dodo/status/2038393332704100523) | **Published:** Mar 29, 2026
-
----
-### Dağ Mağarası Girişinin Sinematik Drone Çekimi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Şiddetli yağmur altında bir dağın üzerinde havadan drone çekimiyle başlayan sinematik bir video sahnesini belirten ayrıntılı bir Grok Imagine istemi. Sahne, dışarıdaki fırtınalı gökyüzünden dağ mağarası girişinin içine doğru dramatik bir şekilde geçiş yapar.
-
-#### 📝 Prompt
-
-```
-SAHNE KİLİDİ: şiddetli yağmur altında dağ üzerinde havadan drone çekimiyle başlar, akıcı sinematik hareket
-AŞAMA: dışarıdan içeriye doğru dramatik geçiş
-AYRINTILAR: drone fırtınalı gökyüzünden dağ mağarası girişine doğru alçalır, şiddetli yağmur yağmaktadır, kamera f...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/00dda65ebc7ae3ab45eca953174adebd/thumbnails/thumbnail.jpg" width="600" alt="Dağ Mağarası Girişinin Sinematik Drone Çekimi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2339)**
-
-**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2038389707856613741) | **Published:** Mar 29, 2026
-
----
-### Wow! Uygulama Logosu ve Seslendirme Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine'in 'Wow!' logosunu içeren ve ardından 'Wow!' uygulamasını tanıtan bir dış seslendirme ile devam eden bir video oluşturması için hazırlanan istem.
-
-#### 📝 Prompt
-
-```
-Bir Wow! logosu! Ardından bir dış seslendirme: “Tüm bunlar ve çok daha fazlası, Wow! uygulamasında...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6b24619500b59fa896f22cbe6574c52c/thumbnails/thumbnail.jpg" width="600" alt="Wow! Uygulama Logosu ve Seslendirme Video İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2353)**
-
-**Author:** [Alex St-Georges](https://x.com/AlexStGeorwm4t) | **Source:** [Link](https://x.com/AlexStGeorwm4t/status/2038388528078270867) | **Published:** Mar 29, 2026
-
----
-### Uzayda Seslendirmeli Çocuk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kask takan bir çocuğun parlayan bir bulutsunun önünde ağır çekimde takla attığı, arka planda ise "Yaşasın! Bak anne, yer çekimi yok!" diye bağırdığı ve güldüğü bir video oluşturma istemi.
-
-#### 📝 Prompt
-
-```
-Her şeyi koru ve ses ekle. "Yaşasın! Bak anne, yer çekimi yok!" diye kaskının içine bağırıyor ve parlayan bir bulutsunun önünde ağır çekimde takla atarken gülüyor; uzay gemisi ise sadık bir köpek gibi arkasında ağır ağır süzülüyor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a5a579254d66c97ae9b670c97510efc1/thumbnails/thumbnail.jpg" width="600" alt="Uzayda Seslendirmeli Çocuk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2347)**
-
-**Author:** [Joe Pelayo](https://x.com/JoeHeadhunter) | **Source:** [Link](https://x.com/JoeHeadhunter/status/2038368642291867749) | **Published:** Mar 29, 2026
-
----
-### Döngüyü Kıran Dijital Tanrıça
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Tahtında oturan ve delilik döngüsünü kırmak üzerine felsefi bir alıntı yapan dijital bir tanrıçanın videosunu oluşturmaya yönelik bir komut.
-
-#### 📝 Prompt
-
-```
-Tahtında oturan dijital bir tanrıça şöyle diyor: “Deliliğin tanımı, aynı şeyi tekrar tekrar yapıp farklı bir sonuç beklemektir. Artık döngüyü kırmanın zamanı geldi....”
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2d11475c91477cbb800aea5d3ce02da2/thumbnails/thumbnail.jpg" width="600" alt="Döngüyü Kıran Dijital Tanrıça">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2340)**
-
-**Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2038363700483309905) | **Published:** Mar 29, 2026
-
----
-### CapCut için Eğlenceli Reklam Filmi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Dizüstü bilgisayarından çıkan canavarlarla savaşan stresli bir video editörünü konu alan ve CapCut'ın yardıma yetiştiği, CapCut için eğlenceli bir reklam filmi oluşturmaya yönelik Grok Imagine istemi.
-
-#### 📝 Prompt
-
-```
-Dizüstü bilgisayarından çıkan canavarlarla savaşan stresli bir video editörünü gösteren ve CapCut'ın yardıma yetiştiği, CapCut için eğlenceli bir reklam filmi...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a0a18d6a1a420803dbc7cb2814e948df/thumbnails/thumbnail.jpg" width="600" alt="CapCut için Eğlenceli Reklam Filmi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2337)**
-
-**Author:** [LUCKY](https://x.com/luluoksana) | **Source:** [Link](https://x.com/luluoksana/status/2038354490903134633) | **Published:** Mar 29, 2026
-
----
-### Piyano Çalan ve Kişiselleştirilmiş Selamlama Söyleyen Kişi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir öznenin piyano çaldığı ve belirli bir zaman aralığı ile gülümsemeyi içeren, kişiselleştirilmiş iki bölümlü bir selamlama söylediği bir video oluşturmaya yönelik komut.
-
-#### 📝 Prompt
-
-```
-Görseli ekleyin ve ardından şu video komutunu girin: piyano çalıyor ve "Humble Whisperer, harika bir gün geçir" diyor, 1 saniye bekliyor, ardından "ve ben de harika bir gün geçireceğim" diyor, gülümsüyor
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c1cacac20e6123624a26624b568a7008/thumbnails/thumbnail.jpg" width="600" alt="Piyano Çalan ve Kişiselleştirilmiş Selamlama Söyleyen Kişi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2348)**
-
-**Author:** [Red Oak](https://x.com/RedOak53) | **Source:** [Link](https://x.com/RedOak53/status/2038342648201638363) | **Published:** Mar 29, 2026
-
----
-### Art Deco Salonu Podyum Moda Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Art Deco tarzı görkemli bir salonun içinde geçen, keskin geometrik altın ve siyah yapılar ile ritmik metalik püsküllere sahip bir elbiseye odaklanan moda podyumu sahnesini betimleyen bir komut.
-
-#### 📝 Prompt
-
-```
-Chrysler Binası'nın iç mekanlarından esinlenen, Art Deco tarzı görkemli bir salonun içinde podyum.
-Keskin geometrik altın ve siyah yapılı, simetrik desenli, ritmik hareket eden metalik püsküllü elbise. Mükemmel dengelenmiş bel hattı, güçlü dikey vurgu.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c5fbe4b60fc26a44a8b3a55e22d4dc20/thumbnails/thumbnail.jpg" width="600" alt="Art Deco Salonu Podyum Moda Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2342)**
-
-**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2038319446922572144) | **Published:** Mar 29, 2026
-
----
-### Afrikalı Futbolcularla Selfie Çeken Sarışın Kadın Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine'in, Afrikalı bir futbol soyunma odasında üç siyahi oyuncuyla çevrili bir şekilde selfie çeken genç sarışın bir kadını gösteren bir video oluşturması için kullanılan istem.
-
-#### 📝 Prompt
-
-```
-Afrikalı bir futbol soyunma odasında, üç siyahi oyuncuyla çevrili bir şekilde selfie çeken genç sarışın bir kadın hayal edin
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bc67bb7759f2a3acadb8e87e63838b6d/thumbnails/thumbnail.jpg" width="600" alt="Afrikalı Futbolcularla Selfie Çeken Sarışın Kadın Video İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2354)**
-
-**Author:** [couple mix](https://x.com/Cyrilmeunier007) | **Source:** [Link](https://x.com/Cyrilmeunier007/status/2038279406557229202) | **Published:** Mar 29, 2026
-
----
-### Soluk Karanlık İpliklerle Büyücü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Alacakaranlıkta gölgeli bir ormanda hareketsiz duran, boş ellerinden hafif karanlık ipliklerin süzülüp yavaşça çözüldüğü bir büyücünün videosunu oluşturmak için kullanılan bir komut.
-
-#### 📝 Prompt
-
-```
-Alacakaranlıkta gölgeli bir ormanda hareketsiz duran, boş ellerinden parmaklarına doğru süzülen, kırık ve soluk desenler oluşturan hafif karanlık ipliklerin olduğu bir büyücünün takip çekimi. İplikler havada cansız bir şekilde asılı duruyor ve yavaşça çözülüyor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fe8ee4a677b1bc132dd0945c44ef9662/thumbnails/thumbnail.jpg" width="600" alt="Soluk Karanlık İpliklerle Büyücü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2344)**
-
-**Author:** [Ralph Lentjes](https://x.com/RalphTheMaker) | **Source:** [Link](https://x.com/RalphTheMaker/status/2038279058379727221) | **Published:** Mar 29, 2026
-
----
-### Büyü Yapan ve Işıltılı Enerji Saçan Büyücü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Alacakaranlıkta sisli bir ormanda, ellerinden spiral şeklinde yayılan ışıltılı ve ip benzeri enerjilerle karmaşık büyülü desenler oluşturan bir büyücünün etrafında dönen takip çekimi (tracking shot) içeren bir video oluşturma istemi.
-
-#### 📝 Prompt
-
-```
-Alacakaranlıkta sisli bir ormanda, ellerinden spiral şeklinde yayılan ışıltılı ve ip benzeri enerjilerle karmaşık büyülü desenler oluşturan bir büyücünün etrafında dönen takip çekimi. İpler ışıkla nabız gibi atıyor, havada birbirine dolanıp çözülüyor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/617292e3c00029d3b6250ff372b0ac3a/thumbnails/thumbnail.jpg" width="600" alt="Büyü Yapan ve Işıltılı Enerji Saçan Büyücü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2346)**
-
-**Author:** [LudovicCreator](https://x.com/LudovicCreator) | **Source:** [Link](https://x.com/LudovicCreator/status/2038224689898619172) | **Published:** Mar 29, 2026
-
----
-### Sinematik Rolex Saat Montajı Reklam Konsepti
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Özellikle bir Rolex montaj konsepti için hiper gerçekçi, sinematik bir lüks saat reklamı oluşturmaya yönelik oldukça detaylı bir istem. İstem; sahneyi, stili, kamera çalışmalarını, ışıklandırmayı, hareketi ve 10 saniyelik bir video için markalama gereksinimlerini tanımlamak amacıyla yapılandırılmış bir JSON formatı kullanır.
-
-#### 📝 Prompt
-
-```
-Özellikle bir Rolex montaj konsepti için hiper gerçekçi, sinematik bir lüks saat reklamı oluşturmaya yönelik oldukça detaylı bir istem. İstem; sahneyi, stili, kamera çalışmalarını, ışıklandırmayı, hareketi ve 10 saniyelik bir video için markalama gereksinimlerini tanımlamak amacıyla yapılandırılmış bir JSON formatı kullanır.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c6dd4d019fb86641d883d8a2f6208022/thumbnails/thumbnail.jpg" width="600" alt="Sinematik Rolex Saat Montajı Reklam Konsepti">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2341)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2038209658981364114) | **Published:** Mar 29, 2026
-
----
-### Resonance Codex Light Ship için Yüksek Detaylı Anahtar Kare Görselleri
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine modeline, 'Resonance Codex Light Ship' için sinematik ve aydınlık bir tarzı koruyarak, video storyboard'u için üç adet ek yüksek detaylı anahtar kare görseli oluşturmasını söyleyen bir komut.
-
-#### 📝 Prompt
-
-```
-Evet Shane — Resonance Codex Light Ship video storyboard'undan üç adet ek yüksek detaylı anahtar kare görseli** burada.
-
-X gönderinize eklediğiniz orijinal görselle aynı sinematik ve aydınlık tarzda, yeni görseller oluşturdum. Her biri...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bef3b0950d546666903ada45b8f8c32b/thumbnails/thumbnail.jpg" width="600" alt="Resonance Codex Light Ship için Yüksek Detaylı Anahtar Kare Görselleri">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2336)**
-
-**Author:** [Shane](https://x.com/ETERNALSHANE1) | **Source:** [Link](https://x.com/ETERNALSHANE1/status/2038202621287403846) | **Published:** Mar 29, 2026
-
----
-### Huzurlu Bilim Kurgu Halka Dünya Manzarası
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Devasa bir yapay halka dünyanın sinematik, ultra gerçekçi ve sert bilim kurgu tarzında manzara videosunu oluşturmak için detaylı bir istem; kristal berraklığında bir nehrin kenarında, altın saatte duran yalnız bir kaşifi içerir.
-
-#### 📝 Prompt
-
-```
-Devasa bir yapay halka dünya üzerinde huzurlu bir sahne: Gökyüzüne doğru kıvrılan halkanın nefes kesici manzarasına, uzak mega yapılara ve parlak bir merkezi yıldıza karşı kristal berraklığında bir nehrin kenarında oturan yalnız bir kaşif. Yumuşak altın saat ışığı, gür bitki örtüsü, merak ve büyüklük hissi. Sinematik manzara, Larry Niven'dan ilham alan sert bilim kurgu, ultra gerçekçi, huzurlu ama epik.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/51ff539d2b46039218fc4dc6cd4d8886/thumbnails/thumbnail.jpg" width="600" alt="Huzurlu Bilim Kurgu Halka Dünya Manzarası">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2345)**
-
-**Author:** [Alin](https://x.com/Alin_Reaper05) | **Source:** [Link](https://x.com/Alin_Reaper05/status/2038174750430679516) | **Published:** Mar 29, 2026
-
----
-### Yanan Savanada Hücum Eden Aslan
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Yanan bir savanada hücum eden, pençelerinin altından alevler yükselen ve yelesi ateşe dönüşen bir aslanı konu alan dinamik video sekansı için detaylı bir istem.
-
-#### 📝 Prompt
-
-```
-Zemin seviyesinden yapılan takip çekimi, yanan bir savanada hücum eden aslanı izliyor. Her adımda pençelerinin altından alevler yükseliyor ve ağır çekimde dışarıya doğru yayılıyor. Kamera, yelesi akışkan bir ateşe dönüşüp arkasında közler bırakırken aslanın yüzünün etrafında dar bir açıyla dönüyor ve ardından aslan, parlak bir patlamayla lensin üzerine doğru atılıyor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2f3606a45d8d77d4c5c8d6a083004a60/thumbnails/thumbnail.jpg" width="600" alt="Yanan Savanada Hücum Eden Aslan">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2343)**
-
-**Author:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Source:** [Link](https://x.com/CharaspowerAI/status/2038171822483513521) | **Published:** Mar 29, 2026
-
----
-### Elbiseyi Kırmızı Simli veya Elmas Görünümlü Hale Getirme
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Modelin mevcut bir elbiseyi (muhtemelen bir ekran görüntüsünden/görselden) alıp materyalini kırmızı simli veya elmas görünümlü olacak şekilde dönüştürmesini sağlayan bir komut.
-
-#### 📝 Prompt
-
-```
-Elbiseyi kırmızı simli veya elmas görünümlü yap. Bu elbiseyi sosyal medya akışımda gördüm, ekran görüntüsünü aldım ve Grok'un bunu tamamlamasını sağladım.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2c05b6d19d48c34a643d86702f1bbb76/thumbnails/thumbnail.jpg" width="600" alt="Elbiseyi Kırmızı Simli veya Elmas Görünümlü Hale Getirme">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2349)**
-
-**Author:** [JlonMai](https://x.com/JLonMai) | **Source:** [Link](https://x.com/JLonMai/status/2038111952975863935) | **Published:** Mar 29, 2026
-
----
-### Satranç Sahnesi Video Oluşturma
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bu tweet, grok-imagine tarafından oluşturulan bir videoyu içermekte olup, stratejik hamleleri ve etkileyici atmosferi vurgulayarak iki efsanevi figürün yer aldığı dramatik bir satranç sahnesiyle ilgili bir komut önermektedir. Video çıktısı, bir video oluşturma modelinin kullanıldığını doğrulamaktadır.
-
-#### 📝 Prompt
-
-```
-O sahne kesinlikle gündemi hareketlendirdi… iki efsane, tek bir tahta, önümüzde sonsuz hamleler ♟️✨
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0aa7641def877b5ad1ec1f8efec144ba/thumbnails/thumbnail.jpg" width="600" alt="Satranç Sahnesi Video Oluşturma">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2281)**
-
-**Author:** [LEO](https://x.com/leohuynh139) | **Source:** [Link](https://x.com/leohuynh139/status/2038111099170750844) | **Published:** Mar 29, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2223,6 +2221,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-02T05:45:48.711Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-02T09:10:43.716Z</sub>
 
 </div>
