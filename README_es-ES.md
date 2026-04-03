@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **914** |
+| 📝 Total Prompts | **921** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-04-03** |
 
@@ -189,6 +189,121 @@ Una valquiria celestial mística y noble, una mujer digna y hermosa con largo ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Prompt de video: Caballero cinematográfico en caballo de guerra
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt detallado diseñado para Grok Imagine con el fin de generar un video dramático y cinematográfico de un caballero amenazante con una ornamentada armadura negra, montando un poderoso caballo de guerra negro a galope tendido hacia el espectador.
+
+#### 📝 Prompt
+
+```
+Una vista cinematográfica dramática en ángulo contrapicado de un caballero amenazante con una intrincada y ornamentada armadura de placas negra y casco con una capa oscura ondeante, montando un poderoso y musculoso caballo de guerra negro a galope tendido, cargando directamente hacia el espectador a través de un vasto campo de hierba alta y verde. El caballero levanta triunfalmente una espada larga y recta en su mano derecha. El caballo tiene una crin y una cola que ondean salvajemente por el movimiento, con gualdrapas y arreos de cuero y metal ornamentados. El primer plano muestra rayas de desenfoque radial extremo en la hierba, transmitiendo una tremenda velocidad y potencia. El fondo presenta imponentes picos montañosos rocosos y nevados bajo un vibrante cielo azul profundo con voluminosas y dramáticas nubes blancas. Atmósfera épica de fantasía oscura, texturas altamente detalladas en la armadura y el caballo, iluminación cinematográfica de alto contraste, composición dinámica y heroica.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bdcb2886ff71e7d94fbe37b07effc745/thumbnails/thumbnail.jpg" width="600" alt="Prompt de video: Caballero cinematográfico en caballo de guerra">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2561)**
+
+**Author:** [tetsuo](https://x.com/tetsuoai) | **Source:** [Link](https://x.com/tetsuoai/status/2039884946551238794) | **Published:** Apr 3, 2026
+
+---
+### Leo el gato y sus amigos gatitos alienígenas
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt creativo para Grok Imagine sobre Leo, el gato de esmoquin que necesita una siesta, rodeado de amigos gatitos alienígenas de la luna, con burbujas de recuerdos que aparecen y son explotadas por los gatitos.
+
+#### 📝 Prompt
+
+```
+Leo, el gato de esmoquin, necesita una siesta para reflexionar sobre todas sus aventuras y está rodeado de sus amigos gatitos alienígenas de la luna. Burbujas de recuerdos aparecen sobre su cabeza y los gatitos explotan las burbujas.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ba13b770f8c26e0a1ad0a18d7735bf1d/thumbnails/thumbnail.jpg" width="600" alt="Leo el gato y sus amigos gatitos alienígenas">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2558)**
+
+**Author:** [M. Kerin Sorensen](https://x.com/KerinLang) | **Source:** [Link](https://x.com/KerinLang/status/2039752584467193892) | **Published:** Apr 2, 2026
+
+---
+### Ronin de doble espada en un páramo postapocalíptico de neón
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt compartido para Grok Imagine con el fin de generar un video de un ronin de doble espada en un entorno ciberpunk, enfatizando texturas detalladas, iluminación dramática y energía caótica.
+
+#### 📝 Prompt
+
+```
+Ronin de doble espada en un páramo postapocalíptico de neón, una katana de acero clásico, la otra una hoja de energía fractal que desprende polvo de estrellas arcoíris, cuerpo con fallos visuales entre cine negro en blanco y negro y colores ciber saturados, lluvia hecha de partículas brillantes, fondo de rascacielos en ruinas que sangran luz magenta, texturas ultra detalladas, tono dividido dramático, energía caótica inesperada, maestría de Midjourney
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b643b6dbde457359d99813102c85c18f/thumbnails/thumbnail.jpg" width="600" alt="Ronin de doble espada en un páramo postapocalíptico de neón">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2557)**
+
+**Author:** [Carolina Delgado](https://x.com/carolletta) | **Source:** [Link](https://x.com/carolletta/status/2039643817264255437) | **Published:** Apr 2, 2026
+
+---
+### Dragón celestial con efecto dolly zoom
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de Grok Imagine que utiliza el efecto dolly zoom para mostrar a un guerrero solitario en un acantilado mientras un colosal dragón celestial hecho de luz emerge de las nubes y se enrosca alrededor de las montañas.
+
+#### 📝 Prompt
+
+```
+Dolly zoom, un guerrero solitario se encuentra en un acantilado sagrado al amanecer mientras un colosal dragón celestial hecho de luz emerge de las nubes. La cámara retrocede mientras hace zoom, estirando el cielo hasta convertirlo en un abismo brillante a medida que el dragón se enrosca alrededor de las montañas, iluminando todo el paisaje.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/732fb40d8a7ce1f24eecb2da052c345e/thumbnails/thumbnail.jpg" width="600" alt="Dragón celestial con efecto dolly zoom">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2556)**
+
+**Author:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Source:** [Link](https://x.com/CharaspowerAI/status/2039621371873886550) | **Published:** Apr 2, 2026
+
+---
+### Prompt de video para Grok Imagine: tráiler de película de un hombre lobo cazador de demonios
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinemático y altamente detallado para Grok Imagine, diseñado para generar el tráiler de una escena de pelea de película protagonizada por un guerrero bestia hombre lobo, Kragor The Hellreaver, con espadas Katana de fuego rojo luchando contra un demonio. El prompt especifica ángulos de cámara, velocidad, grano de película y detalles de piel ultra realistas.
+
+#### 📝 Prompt
+
+```
+guerrero bestia hombre lobo con espadas Katana de fuego rojo y armadura, y taparrabos de demonio, luchando con garras, escena de pelea de película. Escena de pelea cinemática de ritmo rápido con múltiples tomas desde diferentes ángulos. Golpes rápidos, contraataques instantáneos, cortes de cámara dinámicos, flujo en tiempo real de alta energía pura. Espadas Katana cortan, garras de demonio desgarran, [finalizar escena con el hombre lobo guerrero bestia clavando sus espadas profundamente en el pecho del demonio, empujándolo contra el suelo.] Velocidad e intensidad extremas durante todo el intercambio salvaje, golpes rápidos, luz carmesí brillante de las espadas katana. Escena de pelea de ritmo rápido y alta velocidad, combate hipercinético en tiempo real con flujo de alta energía pura, sin cámara lenta, urgencia de cámara en mano intensa, filmado en 35mm con encuadre íntimo y profundidad de campo reducida, grano de película natural, aberración cromática sutil. Piel de lobo ultra realista que muestra poros naturales, textura de piel visible, brillo sutil de sudor, micro detalles de la piel, imperfecciones auténticas y dispersión subsuperficial real, sin aspecto de plástico ni CGI ceroso
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/aaae8a229360ab76d122e9a6704272e4/thumbnails/thumbnail.jpg" width="600" alt="Prompt de video para Grok Imagine: tráiler de película de un hombre lobo cazador de demonios">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2560)**
+
+**Author:** [ArcZeal Designs](https://x.com/arczeal_designs) | **Source:** [Link](https://x.com/arczeal_designs/status/2039550370192486797) | **Published:** Apr 2, 2026
+
+---
+### Prompt de video para taller de máquina de coser rosa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de generación de video para Grok Imagine que describe un taller de costura caprichoso con temática de princesa, que incluye una máquina de coser rosa con una luz parpadeante, estantes llenos de materiales de manualidades en tonos pastel y una muñeca de trapo descansando sobre la mesa.
+
+#### 📝 Prompt
+
+```
+Máquina de coser rosa con una luz parpadeante, estantes llenos de cintas, botones e hilos en tonos pastel: rosa bebé, lila, blanco perlado. Todo muy tierno, como la habitación de una princesa convertida en taller.
+La muñeca de trapo está ahí, descansando sobre la mesa...
+```
+
+<img src="https://cms-assets.youmind.com/media/1775202187855_ohw7ll_HE3gsqWbAAAJlbW.jpg" width="600" alt="Prompt de video para taller de máquina de coser rosa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2562)**
+
+**Author:** [Ana Paula ❤️](https://x.com/anapaula_life) | **Source:** [Link](https://x.com/anapaula_life/status/2039533320296669453) | **Published:** Apr 2, 2026
+
+---
 ### Niebla roja sobre Arizona con energía de rubí
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +321,25 @@ Prepárate, la niebla roja sobre Arizona se acerca; esta es la verdadera energí
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2525)**
 
 **Author:** [Jennyssight](https://x.com/jennyssight) | **Source:** [Link](https://x.com/jennyssight/status/2039521814636892519) | **Published:** Apr 2, 2026
+
+---
+### Prompt para el lanzamiento de una nave espacial hiperrealista
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para Grok Imagine que solicita una imagen hiperrealista de una nave espacial despegando con llamas intensas y escape, renderizada en un estilo artístico extremo de tipo schinfinfuteristic con ultra detalle.
+
+#### 📝 Prompt
+
+```
+imagen hiperrealista de una nave espacial despegando con potentes propulsores encendidos, llamas intensas y columnas de humo, escena de lanzamiento dramática renderizada en un estilo artístico extremo de tipo schinfinfuteristic, niveles de detalle extremos, altamente intrincado, ultra detallado...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f337fce5600878a3c209594c7b6284a2/thumbnails/thumbnail.jpg" width="600" alt="Prompt para el lanzamiento de una nave espacial hiperrealista">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2559)**
+
+**Author:** [G M](https://x.com/goranmTO) | **Source:** [Link](https://x.com/goranmTO/status/2039493995798123007) | **Published:** Apr 2, 2026
 
 ---
 ### Prompt de Grok Imagine para una escena de lago etéreo
@@ -2026,140 +2160,6 @@ Una escena al estilo de anime dibujada a mano de una chica en un autobús, con u
 **Author:** [Doge Norway](https://x.com/DogecoinNorway) | **Source:** [Link](https://x.com/DogecoinNorway/status/2038545456100520247) | **Published:** Mar 30, 2026
 
 ---
-### Prompt de video cinemático y tenso al atardecer
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt detallado para Grok Imagine que solicita un video corto, tenso y cinemático ambientado al atardecer junto a un lago tranquilo, con una mujer y un robot humanoide negro caminando hacia un banco, enfatizando la división y la incertidumbre.
-
-#### 📝 Prompt
-
-```
-Un video corto, tenso y cinemático al atardecer junto a un lago tranquilo. Una mujer y un elegante robot humanoide moderno de color negro puro caminan lentamente hacia un banco de madera sencillo desde lados opuestos del encuadre, creando una fuerte sensación de división e incertidumbre. La atmósfera...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/df3d80c17522a3e4b9593ac0889a7f7c/thumbnails/thumbnail.jpg" width="600" alt="Prompt de video cinemático y tenso al atardecer">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2385)**
-
-**Author:** [Daisy](https://x.com/Daisy8320382290) | **Source:** [Link](https://x.com/Daisy8320382290/status/2038544153131602019) | **Published:** Mar 30, 2026
-
----
-### Gatito dragón de seda al estilo de Tolkien/Frazetta
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt detallado para Grok Imagine con el fin de crear una obra maestra en video de un gatito dragón de seda, renderizado en un estilo 8k, dibujado y pintado a mano que evoca la mitología de Tolkien y el arte ardiente de Frazetta, con escamas azul plateado brillantes y elementos fluidos de color rojo fuego.
-
-#### 📝 Prompt
-
-```
-Obra maestra en 8k dibujada y pintada a mano al estilo de la mitología de Tolkien y el fuego de Frazetta: un hermoso gatito dragón de seda con escamas azul plateado brillantes y elementos fluidos de color rojo fuego...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ae24e2b7ccc3d696c86f335b13889fbb/thumbnails/thumbnail.jpg" width="600" alt="Gatito dragón de seda al estilo de Tolkien/Frazetta">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2386)**
-
-**Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2038534115289706715) | **Published:** Mar 30, 2026
-
----
-### Prompt de video: Paisaje urbano cyberpunk y mujer
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt altamente detallado para Grok Imagine diseñado para generar un video de un paisaje urbano cyberpunk nocturno, centrado en un personaje femenino específico con cabello único en degradado blanco y pastel, implantes cibernéticos y un atuendo ajustado. El prompt especifica la iluminación, la resolución (8k) y efectos atmosféricos para lograr una estética cinematográfica etérea.
-
-#### 📝 Prompt
-
-```
-Un paisaje urbano cyberpunk nocturno iluminado por vibrantes luces de neón en tonos púrpura, rosa, cian y magenta, con imponentes rascacielos cubiertos de vallas publicitarias holográficas brillantes y lluvia digital cayendo suavemente. En primer plano, una mujer de unos veintitantos años, de complexión delgada y atlética, piel clara, rasgos faciales angulosos y definidos con pómulos altos, nariz pequeña y labios carnosos. Ojos grandes y expresivos acentuados por un sutil maquillaje de ojos rojo. El cabello es de un blanco puro natural con un suave degradado pastel en las puntas que transiciona perfectamente hacia tonos rosas, púrpuras y cian que combinan con el brillo de neón de la ciudad, peinado en un elegante corte bob asimétrico a la altura de la barbilla, con el lado izquierdo más largo y mechones finos que se extienden por debajo de la mandíbula, flequillo recto y espeso cortado a la altura de las cejas con una ligera raya descentrada, ultra liso, brillante y suave como fibras sintéticas con un sutil volumen movido por el viento. Un puerto de implante cibernético profundo es sutilmente visible en la parte posterior del cuero cabelludo, parcialmente oculto por el cabello y cubierto con piel sintética. Viste un traje ajustado en blanco y negro con detalles en rojo, cuello alto, chaqueta blanca sin hombros con ribetes negros y un parche en la manga, material brillante similar al látex que refleja las luces de neón, pose segura de tres cuartos mirando ligeramente a la derecha con una expresión seria. Alta resolución 8k, renderizado nítido y limpio, sutil efecto bloom y grano de película, atmósfera cyberpunk etérea.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/67eac603eee8b8301f1ad317869fabbe/thumbnails/thumbnail.jpg" width="600" alt="Prompt de video: Paisaje urbano cyberpunk y mujer">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2370)**
-
-**Author:** [tetsuo](https://x.com/tetsuoai) | **Source:** [Link](https://x.com/tetsuoai/status/2038533274126200857) | **Published:** Mar 30, 2026
-
----
-### Prompt para Grok Imagine: The Dream en el espacio, en la luna
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para Grok Imagine que solicita un video completo ambientado en el espacio, en la luna, con un cometa de fondo y planetas visibles a lo lejos, titulado 'The Dream'.
-
-#### 📝 Prompt
-
-```
-Video completo en el espacio, en la luna, con un cometa de fondo y planetas visibles a lo lejos
-The Dream
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cb91f2bba716ba27ac116084c0cc1509/thumbnails/thumbnail.jpg" width="600" alt="Prompt para Grok Imagine: The Dream en el espacio, en la luna">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2369)**
-
-**Author:** [Jennifer McGregor](https://x.com/jennymac7895) | **Source:** [Link](https://x.com/jennymac7895/status/2038508548426998079) | **Published:** Mar 30, 2026
-
----
-### Prompt de video para ratones alienígenas encontrándose con gatos en trajes espaciales en una luna de queso
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt creativo para Grok Imagine para un video que muestra a ratones alienígenas encontrándose con gatos en trajes espaciales que han aterrizado en su hogar lunar hecho de queso, y a los ratones guiando a los gatos hacia su líder para una reunión pacífica.
-
-#### 📝 Prompt
-
-```
-Haz un video de ratones alienígenas mostrando a gatos en trajes espaciales que aterrizaron en su hogar lunar hecho de queso. Los ratones llevan a los gatos a conocer a su líder ratón alienígena en paz.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a974fd63447238c0733b5bc83587dd1a/thumbnails/thumbnail.jpg" width="600" alt="Prompt de video para ratones alienígenas encontrándose con gatos en trajes espaciales en una luna de queso">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2395)**
-
-**Author:** [Emily](https://x.com/EMSRANCHART3) | **Source:** [Link](https://x.com/EMSRANCHART3/status/2038496604924334244) | **Published:** Mar 30, 2026
-
----
-### Prompt de video para una escena en una tienda tradicional de katanas japonesas
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para Grok Imagine que describe una escena dentro de una tienda tradicional de katanas japonesas, centrándose en la maestría del trabajo y en un aprendiz que aprende el oficio.
-
-#### 📝 Prompt
-
-```
-En una tienda tradicional de katanas japonesas, muestra la maestría del trabajo y al aprendiz que está aprendiendo...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c3733aafa34d686647f606b41db157cd/thumbnails/thumbnail.jpg" width="600" alt="Prompt de video para una escena en una tienda tradicional de katanas japonesas">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2393)**
-
-**Author:** [Richie](https://x.com/Quiet14277) | **Source:** [Link](https://x.com/Quiet14277/status/2038491101347393652) | **Published:** Mar 30, 2026
-
----
-### Transformación al estilo anime con estética retro de los 80
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt detallado de transferencia de estilo para Grok Imagine, que le indica mantener la composición original, las expresiones faciales y la emoción de una imagen de entrada, pero cambiando completamente el estilo a un ESTILO ANIME totalmente ilustrado, enfatizando una resolución ultra alta, una estética retro de la década de 1980 y una iluminación muy atmosférica.
-
-#### 📝 Prompt
-
-```
-mantén la composición, las expresiones faciales y la emoción de la imagen original. cambia completamente el estilo de la imagen a: ESTILO ANIME totalmente ilustrado: anime de video de ultra alta resolución, caricatura ilustrada, animado. estética retro de la década de 1980., iluminación muy atmosférica...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e2e20294c62a36b15d71dd0cc94059f7/thumbnails/thumbnail.jpg" width="600" alt="Transformación al estilo anime con estética retro de los 80">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2388)**
-
-**Author:** [moonlight🍀](https://x.com/DiosmeryQuinta2) | **Source:** [Link](https://x.com/DiosmeryQuinta2/status/2038489691755069530) | **Published:** Mar 30, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2221,6 +2221,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-03T05:45:40.385Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-03T09:05:17.122Z</sub>
 
 </div>

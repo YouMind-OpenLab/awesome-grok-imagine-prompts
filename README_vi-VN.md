@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **914** |
+| 📝 Total Prompts | **921** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-04-03** |
 
@@ -189,6 +189,121 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Lời nhắc video Hiệp sĩ trên chiến mã theo phong cách điện ảnh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một lời nhắc chi tiết được thiết kế cho Grok Imagine để tạo ra video điện ảnh đầy kịch tính về một hiệp sĩ đáng gờm trong bộ giáp đen tinh xảo, đang cưỡi chiến mã đen dũng mãnh phi nước đại về phía người xem.
+
+#### 📝 Prompt
+
+```
+Góc quay điện ảnh từ dưới lên đầy kịch tính về một hiệp sĩ đáng gờm trong bộ giáp tấm màu đen tinh xảo cùng chiếc mũ giáp và áo choàng đen bay phấp phới, đang cưỡi trên một chiến mã đen cơ bắp dũng mãnh phi nước đại lao thẳng về phía người xem trên cánh đồng cỏ xanh cao bát ngát. Hiệp sĩ giơ cao thanh kiếm thẳng đầy vẻ chiến thắng bằng tay phải. Con ngựa có bờm và đuôi bay tung trong gió do chuyển động, cùng bộ yên cương và giáp che bằng da và kim loại tinh xảo. Tiền cảnh hiển thị các vệt mờ chuyển động hướng tâm cực độ trên cỏ, truyền tải tốc độ và vận tốc khủng khiếp. Hậu cảnh là những đỉnh núi đá lởm chởm phủ tuyết cao chót vót dưới bầu trời xanh thẳm rực rỡ với những đám mây trắng dày đặc đầy kịch tính. Không khí giả tưởng đen tối đầy sử thi, kết cấu chi tiết cao trên giáp và ngựa, ánh sáng tương phản cao kiểu điện ảnh, bố cục anh hùng đầy năng động.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bdcb2886ff71e7d94fbe37b07effc745/thumbnails/thumbnail.jpg" width="600" alt="Lời nhắc video Hiệp sĩ trên chiến mã theo phong cách điện ảnh">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2561)**
+
+**Author:** [tetsuo](https://x.com/tetsuoai) | **Source:** [Link](https://x.com/tetsuoai/status/2039884946551238794) | **Published:** Apr 3, 2026
+
+---
+### Chú mèo Leo và những người bạn mèo ngoài hành tinh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh Grok Imagine đầy sáng tạo về chú mèo tuxedo Leo đang cần một giấc ngủ ngắn, xung quanh là những người bạn mèo ngoài hành tinh đến từ mặt trăng, với những bong bóng ký ức xuất hiện và bị các chú mèo con làm vỡ.
+
+#### 📝 Prompt
+
+```
+Chú mèo tuxedo Leo cần một giấc ngủ ngắn để hồi tưởng về tất cả những chuyến phiêu lưu của mình và được bao quanh bởi những người bạn mèo ngoài hành tinh đến từ mặt trăng. Những bong bóng ký ức xuất hiện trên đầu chú và các chú mèo con làm vỡ chúng.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ba13b770f8c26e0a1ad0a18d7735bf1d/thumbnails/thumbnail.jpg" width="600" alt="Chú mèo Leo và những người bạn mèo ngoài hành tinh">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2558)**
+
+**Author:** [M. Kerin Sorensen](https://x.com/KerinLang) | **Source:** [Link](https://x.com/KerinLang/status/2039752584467193892) | **Published:** Apr 2, 2026
+
+---
+### Ronin song kiếm trong vùng đất hoang hậu tận thế đầy ánh đèn neon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) được chia sẻ cho Grok Imagine để tạo video về một ronin song kiếm trong bối cảnh cyberpunk, nhấn mạnh vào các chi tiết kết cấu, ánh sáng ấn tượng và năng lượng hỗn loạn.
+
+#### 📝 Prompt
+
+```
+Ronin song kiếm trong vùng đất hoang hậu tận thế đầy ánh đèn neon, một thanh katana thép cổ điển, thanh còn lại là lưỡi kiếm năng lượng fractal rò rỉ bụi sao cầu vồng, cơ thể bị nhiễu (glitch) giữa phim đen trắng noir và màu sắc cyber bão hòa, mưa tạo thành từ các hạt phát sáng, hậu cảnh là những tòa nhà chọc trời đổ nát rỉ ra ánh sáng đỏ tươi, kết cấu siêu chi tiết, tông màu tách biệt ấn tượng, năng lượng hỗn loạn bất ngờ, phong cách bậc thầy Midjourney
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b643b6dbde457359d99813102c85c18f/thumbnails/thumbnail.jpg" width="600" alt="Ronin song kiếm trong vùng đất hoang hậu tận thế đầy ánh đèn neon">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2557)**
+
+**Author:** [Carolina Delgado](https://x.com/carolletta) | **Source:** [Link](https://x.com/carolletta/status/2039643817264255437) | **Published:** Apr 2, 2026
+
+---
+### Dolly Zoom Rồng Thiên
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh Grok Imagine sử dụng hiệu ứng dolly zoom để khắc họa một chiến binh đơn độc trên vách đá khi một con rồng thiên khổng lồ làm từ ánh sáng xuất hiện từ những đám mây và cuộn mình quanh các ngọn núi.
+
+#### 📝 Prompt
+
+```
+Dolly zoom, một chiến binh đơn độc đứng trên vách đá linh thiêng vào lúc bình minh khi một con rồng thiên khổng lồ làm từ ánh sáng xuất hiện từ những đám mây. Máy quay lùi lại trong khi zoom vào, kéo dài bầu trời thành một vực thẳm rực rỡ khi con rồng cuộn mình quanh các ngọn núi, chiếu sáng toàn bộ cảnh quan.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/732fb40d8a7ce1f24eecb2da052c345e/thumbnails/thumbnail.jpg" width="600" alt="Dolly Zoom Rồng Thiên">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2556)**
+
+**Author:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Source:** [Link](https://x.com/CharaspowerAI/status/2039621371873886550) | **Published:** Apr 2, 2026
+
+---
+### Gợi ý Grok Imagine cho trailer phim về thợ săn quỷ người sói
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý Grok Imagine đậm chất điện ảnh và chi tiết cao để tạo trailer cảnh chiến đấu trong phim, với nhân vật chiến binh quái thú người sói Kragor The Hellreaver, sử dụng kiếm Katana rực lửa đỏ để chiến đấu với quỷ dữ. Gợi ý này chỉ định rõ các góc máy, tốc độ, hạt phim và chi tiết da siêu thực.
+
+#### 📝 Prompt
+
+```
+chiến binh quái thú người sói với kiếm Katana rực lửa đỏ và giáp trụ, mặc khố/quần da chiến đấu bằng móng vuốt, cảnh chiến đấu trong phim. Cảnh chiến đấu điện ảnh nhịp độ nhanh với nhiều góc quay khác nhau. Những cú đánh thần tốc, phản đòn tức thì, cắt cảnh camera năng động, luồng hành động thời gian thực tràn đầy năng lượng. Kiếm Katana chém, móng vuốt quỷ xé toạc, [kết thúc cảnh với chiến binh quái thú người sói đâm sâu lưỡi kiếm vào ngực con quỷ, ấn nó xuống đất.] Tốc độ và cường độ cực cao trong suốt cuộc giao tranh tàn khốc, những cú đánh dồn dập, ánh sáng đỏ thẫm rực rỡ từ lưỡi kiếm Katana. Cảnh chiến đấu tốc độ cao, hành động thời gian thực siêu động với luồng năng lượng thuần túy, không quay chậm, cảm giác khẩn trương của camera cầm tay, quay trên phim 35mm với khung hình cận cảnh và độ sâu trường ảnh nông, hạt phim tự nhiên, quang sai màu tinh tế. Da sói siêu thực hiển thị lỗ chân lông tự nhiên, kết cấu da rõ nét, lớp mồ hôi mỏng, chi tiết da vi mô, những khiếm khuyết chân thực và tán xạ dưới bề mặt thực tế, không có vẻ ngoài nhựa dẻo hay CGI bóng bẩy
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/aaae8a229360ab76d122e9a6704272e4/thumbnails/thumbnail.jpg" width="600" alt="Gợi ý Grok Imagine cho trailer phim về thợ săn quỷ người sói">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2560)**
+
+**Author:** [ArcZeal Designs](https://x.com/arczeal_designs) | **Source:** [Link](https://x.com/arczeal_designs/status/2039550370192486797) | **Published:** Apr 2, 2026
+
+---
+### Gợi ý video cho xưởng may máy khâu màu hồng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý tạo video cho Grok Imagine mô tả một xưởng may theo chủ đề công chúa đầy mơ mộng, với chiếc máy khâu màu hồng có đèn nhấp nháy, các kệ chứa đầy dụng cụ thủ công tông màu pastel, và một con búp bê vải đang nằm trên bàn.
+
+#### 📝 Prompt
+
+```
+Máy khâu màu hồng với đèn nhấp nháy, các kệ đầy ruy băng, cúc áo, chỉ khâu với tông màu pastel – hồng phấn, tím nhạt, trắng ngọc trai. Mọi thứ đều dễ thương, giống như căn phòng của công chúa biến thành một xưởng may.
+Con búp bê vải đang nằm đó trên bàn...
+```
+
+<img src="https://cms-assets.youmind.com/media/1775202187855_ohw7ll_HE3gsqWbAAAJlbW.jpg" width="600" alt="Gợi ý video cho xưởng may máy khâu màu hồng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2562)**
+
+**Author:** [Ana Paula ❤️](https://x.com/anapaula_life) | **Source:** [Link](https://x.com/anapaula_life/status/2039533320296669453) | **Published:** Apr 2, 2026
+
+---
 ### Sương mù đỏ bao phủ Arizona với năng lượng hồng ngọc
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +321,25 @@ Hãy sẵn sàng, lớp sương mù đỏ trên bầu trời Arizona đang đế
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2525)**
 
 **Author:** [Jennyssight](https://x.com/jennyssight) | **Source:** [Link](https://x.com/jennyssight/status/2039521814636892519) | **Published:** Apr 2, 2026
+
+---
+### Câu lệnh tạo hình ảnh tàu vũ trụ cất cánh siêu thực
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh dành cho Grok Imagine để tạo ra hình ảnh siêu thực về một con tàu vũ trụ đang cất cánh với ngọn lửa và luồng khí thải dữ dội, được kết xuất theo phong cách nghệ thuật tương lai cực hạn với độ chi tiết siêu cao.
+
+#### 📝 Prompt
+
+```
+hình ảnh siêu thực về một con tàu vũ trụ đang cất cánh với các động cơ đẩy mạnh mẽ, ngọn lửa dữ dội và những luồng khí thải, cảnh tượng phóng tàu đầy kịch tính được kết xuất theo phong cách nghệ thuật tương lai cực hạn, mức độ chi tiết cực cao, vô cùng phức tạp, siêu chi tiết...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f337fce5600878a3c209594c7b6284a2/thumbnails/thumbnail.jpg" width="600" alt="Câu lệnh tạo hình ảnh tàu vũ trụ cất cánh siêu thực">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2559)**
+
+**Author:** [G M](https://x.com/goranmTO) | **Source:** [Link](https://x.com/goranmTO/status/2039493995798123007) | **Published:** Apr 2, 2026
 
 ---
 ### Grok Imagine prompt cho khung cảnh hồ nước huyền ảo
@@ -2026,140 +2160,6 @@ Một cảnh quay phong cách anime vẽ tay về một cô gái trên xe buýt,
 **Author:** [Doge Norway](https://x.com/DogecoinNorway) | **Source:** [Link](https://x.com/DogecoinNorway/status/2038545456100520247) | **Published:** Mar 30, 2026
 
 ---
-### Gợi ý video điện ảnh đầy kịch tính lúc hoàng hôn
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý chi tiết cho Grok Imagine để tạo video ngắn mang phong cách điện ảnh, kịch tính tại một hồ nước tĩnh lặng lúc hoàng hôn, với hình ảnh một người phụ nữ và một robot hình người màu đen đang đi về phía chiếc ghế dài, làm nổi bật sự chia cắt và cảm giác bất định.
-
-#### 📝 Prompt
-
-```
-Một video ngắn mang phong cách điện ảnh, đầy kịch tính tại một hồ nước tĩnh lặng lúc hoàng hôn. Một người phụ nữ và một robot hình người hiện đại, bóng bẩy với màu đen tuyền đang chậm rãi bước về phía một chiếc ghế gỗ đơn sơ từ hai phía đối diện của khung hình, tạo nên cảm giác chia cắt và bất định mạnh mẽ. Bầu không khí...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/df3d80c17522a3e4b9593ac0889a7f7c/thumbnails/thumbnail.jpg" width="600" alt="Gợi ý video điện ảnh đầy kịch tính lúc hoàng hôn">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2385)**
-
-**Author:** [Daisy](https://x.com/Daisy8320382290) | **Source:** [Link](https://x.com/Daisy8320382290/status/2038544153131602019) | **Published:** Mar 30, 2026
-
----
-### Mèo rồng lụa theo phong cách Tolkien/Frazetta
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh chi tiết dành cho Grok Imagine để tạo ra một kiệt tác video về mèo rồng lụa, được kết xuất ở độ phân giải 8k, theo phong cách vẽ tay và sơn tay gợi nhớ đến thần thoại Tolkien và nghệ thuật rực lửa của Frazetta, với những chiếc vảy màu xanh bạc lấp lánh và các yếu tố màu đỏ rực rỡ uyển chuyển.
-
-#### 📝 Prompt
-
-```
-Kiệt tác 8k vẽ tay, sơn tay theo phong cách thần thoại Tolkien và nghệ thuật rực lửa của Frazetta — một chú mèo rồng lụa tuyệt đẹp với những chiếc vảy màu xanh bạc lấp lánh và các yếu tố màu đỏ rực rỡ uyển chuyển...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ae24e2b7ccc3d696c86f335b13889fbb/thumbnails/thumbnail.jpg" width="600" alt="Mèo rồng lụa theo phong cách Tolkien/Frazetta">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2386)**
-
-**Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2038534115289706715) | **Published:** Mar 30, 2026
-
----
-### Gợi ý tạo video về khung cảnh thành phố Cyberpunk và nhân vật nữ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý (prompt) Grok Imagine cực kỳ chi tiết để tạo video về khung cảnh thành phố cyberpunk vào ban đêm, tập trung vào một nhân vật nữ cụ thể với mái tóc chuyển màu pastel và trắng độc đáo, thiết bị cyberware và trang phục ôm sát. Gợi ý này chỉ định rõ ánh sáng, độ phân giải (8k) và các hiệu ứng bầu không khí để tạo cảm giác điện ảnh huyền ảo.
-
-#### 📝 Prompt
-
-```
-Khung cảnh thành phố cyberpunk vào ban đêm được chiếu sáng bởi những ánh đèn neon rực rỡ với các tông màu tím, hồng, xanh lơ và đỏ tươi, cùng những tòa nhà chọc trời cao vút phủ đầy các bảng quảng cáo ba chiều phát sáng và những cơn mưa kỹ thuật số rơi nhẹ. Ở tiền cảnh, một người phụ nữ ở độ tuổi cuối đôi mươi, vóc dáng mảnh mai và săn chắc, làn da trắng sáng, các đường nét khuôn mặt góc cạnh sắc sảo với xương gò má cao, mũi nhỏ và đôi môi đầy đặn. Đôi mắt to biểu cảm được làm nổi bật bởi lớp trang điểm mắt màu đỏ tinh tế. Mái tóc có màu trắng tinh khiết tự nhiên với phần đuôi chuyển màu pastel mềm mại, hòa quyện hoàn hảo vào các sắc hồng, tím và xanh lơ đồng điệu với ánh sáng neon của thành phố, được tạo kiểu bob bất đối xứng ngang cằm bóng mượt, phía bên trái dài hơn với những lọn tóc mảnh kéo dài xuống dưới cằm, phần tóc mái bằng dày cắt ngang trán ở mức lông mày với đường rẽ ngôi hơi lệch, siêu thẳng, bóng mượt như sợi tổng hợp với độ phồng nhẹ nhàng do gió thổi. Một cổng cắm cyberware ẩn sâu được nhìn thấy tinh tế ở phía sau da đầu, một phần bị che khuất bởi tóc và phủ bằng da tổng hợp. Cô mặc một bộ bodysuit ôm sát màu đen trắng với các điểm nhấn màu đỏ, cổ cao, áo khoác trắng trễ vai với viền đen và một miếng vá trên tay áo, chất liệu giống như latex bóng loáng phản chiếu ánh đèn neon, tư thế ba phần tư tự tin hướng nhẹ sang phải với vẻ mặt nghiêm nghị. Độ phân giải cao 8k, kết xuất sắc nét sạch sẽ, hiệu ứng bloom và hạt phim tinh tế, bầu không khí cyberpunk huyền ảo.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/67eac603eee8b8301f1ad317869fabbe/thumbnails/thumbnail.jpg" width="600" alt="Gợi ý tạo video về khung cảnh thành phố Cyberpunk và nhân vật nữ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2370)**
-
-**Author:** [tetsuo](https://x.com/tetsuoai) | **Source:** [Link](https://x.com/tetsuoai/status/2038533274126200857) | **Published:** Mar 30, 2026
-
----
-### Grok Imagine prompt: Giấc mơ trong không gian trên mặt trăng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) cho Grok Imagine để tạo toàn bộ video lấy bối cảnh không gian trên mặt trăng, với một sao chổi ở phía sau và các hành tinh có thể nhìn thấy từ xa, có tiêu đề là 'The Dream'.
-
-#### 📝 Prompt
-
-```
-Tạo toàn bộ video trong không gian trên mặt trăng với một sao chổi ở phía sau và các hành tinh có thể nhìn thấy từ xa
-The Dream
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cb91f2bba716ba27ac116084c0cc1509/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine prompt: Giấc mơ trong không gian trên mặt trăng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2369)**
-
-**Author:** [Jennifer McGregor](https://x.com/jennymac7895) | **Source:** [Link](https://x.com/jennymac7895/status/2038508548426998079) | **Published:** Mar 30, 2026
-
----
-### Video prompt về những chú chuột ngoài hành tinh gặp gỡ mèo mặc đồ phi hành gia trên mặt trăng phô mai
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh Grok Imagine sáng tạo để tạo video mô tả cảnh những chú chuột ngoài hành tinh gặp gỡ những chú mèo mặc đồ phi hành gia vừa hạ cánh xuống mặt trăng phô mai của chúng, và cảnh những chú chuột dẫn đường cho mèo đến gặp thủ lĩnh để thực hiện một cuộc gặp gỡ hòa bình.
-
-#### 📝 Prompt
-
-```
-Tạo một video về những chú chuột ngoài hành tinh gặp gỡ những chú mèo mặc đồ phi hành gia vừa hạ cánh xuống mặt trăng phô mai của chúng. Những chú chuột dẫn đường cho mèo đến gặp thủ lĩnh chuột ngoài hành tinh của chúng trong hòa bình.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a974fd63447238c0733b5bc83587dd1a/thumbnails/thumbnail.jpg" width="600" alt="Video prompt về những chú chuột ngoài hành tinh gặp gỡ mèo mặc đồ phi hành gia trên mặt trăng phô mai">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2395)**
-
-**Author:** [Emily](https://x.com/EMSRANCHART3) | **Source:** [Link](https://x.com/EMSRANCHART3/status/2038496604924334244) | **Published:** Mar 30, 2026
-
----
-### Lời nhắc video cho cảnh cửa hàng kiếm katana truyền thống Nhật Bản
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một lời nhắc Grok Imagine mô tả cảnh bên trong một cửa hàng kiếm katana truyền thống của Nhật Bản, tập trung vào sự tinh xảo của tác phẩm và người học việc đang học nghề.
-
-#### 📝 Prompt
-
-```
-Trong một cửa hàng kiếm katana truyền thống của Nhật Bản, hãy thể hiện sự tinh xảo của tác phẩm và người học việc đang học nghề....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c3733aafa34d686647f606b41db157cd/thumbnails/thumbnail.jpg" width="600" alt="Lời nhắc video cho cảnh cửa hàng kiếm katana truyền thống Nhật Bản">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2393)**
-
-**Author:** [Richie](https://x.com/Quiet14277) | **Source:** [Link](https://x.com/Quiet14277/status/2038491101347393652) | **Published:** Mar 30, 2026
-
----
-### Biến đổi phong cách Anime với thẩm mỹ Retro thập niên 80
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) chuyển đổi phong cách chi tiết dành cho Grok Imagine, hướng dẫn AI giữ nguyên bố cục, biểu cảm khuôn mặt và cảm xúc của hình ảnh gốc, nhưng thay đổi hoàn toàn phong cách sang PHONG CÁCH ANIME minh họa toàn diện, nhấn mạnh độ phân giải siêu cao, thẩm mỹ retro thập niên 1980 và ánh sáng đầy tâm trạng.
-
-#### 📝 Prompt
-
-```
-giữ nguyên bố cục, biểu cảm khuôn mặt và cảm xúc của hình ảnh gốc. thay đổi hoàn toàn phong cách hình ảnh thành: PHONG CÁCH ANIME minh họa toàn diện: video anime độ phân giải siêu cao, hoạt hình minh họa. thẩm mỹ retro thập niên 1980., ánh sáng đầy tâm trạng...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e2e20294c62a36b15d71dd0cc94059f7/thumbnails/thumbnail.jpg" width="600" alt="Biến đổi phong cách Anime với thẩm mỹ Retro thập niên 80">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2388)**
-
-**Author:** [moonlight🍀](https://x.com/DiosmeryQuinta2) | **Source:** [Link](https://x.com/DiosmeryQuinta2/status/2038489691755069530) | **Published:** Mar 30, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2221,6 +2221,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-03T05:45:36.496Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-03T09:05:12.875Z</sub>
 
 </div>

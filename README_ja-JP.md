@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **914** |
+| 📝 プロンプト総数 | **921** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-04-03** |
 
@@ -189,6 +189,120 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### 戦馬に乗る騎士のシネマティック動画プロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 用に設計された詳細なプロンプトです。精巧な黒い鎧をまとった威圧的な騎士が、力強い黒い戦馬に乗り、全速力でこちらに向かってくるドラマチックでシネマティックな動画を生成します。
+
+#### 📝 プロンプト
+
+```
+複雑で精巧な黒いプレートアーマーとヘルメットを身にまとい、暗いマントをなびかせた威圧的な騎士が、力強く筋肉質な黒い戦馬に乗り、背の高い緑の草が生い茂る広大な野原をこちらに向かって全速力で駆け抜けてくる、ドラマチックなローアングルのシネマティック映像。騎士は右手に長い直剣を高く掲げている。馬のたてがみと尾は動きによって激しくなびき、精巧な革と金属の馬具を装着している。前景には草の極端な放射状のモーションブラーが描かれ、凄まじいスピード感と躍動感を表現。背景には、鮮やかな深い青空とボリューム感のあるドラマチックな白い雲の下に、そびえ立つ険しい雪を頂いた岩山が広がる。壮大なダークファンタジーの雰囲気、鎧と馬の細部まで描き込まれた質感、シネマティックな高コントラストのライティング、ダイナミックで英雄的な構図。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bdcb2886ff71e7d94fbe37b07effc745/thumbnails/thumbnail.jpg" width="600" alt="戦馬に乗る騎士のシネマティック動画プロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2561)**
+
+**作者:** [tetsuo](https://x.com/tetsuoai) | **ソース:** [Link](https://x.com/tetsuoai/status/2039884946551238794) | **公開日:** Apr 3, 2026
+
+---
+### 猫のレオと宇宙人の子猫の友達
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> タキシード猫のレオが昼寝を必要とし、月の宇宙人の子猫たちに囲まれている様子を描いた、Grok Imagine 用のクリエイティブなプロンプトです。思い出の泡が浮かび上がり、子猫たちがそれを割っていく様子を表現しています。
+
+#### 📝 プロンプト
+
+```
+タキシード猫のレオは、これまでの冒険を振り返るために昼寝を必要としており、月の宇宙人の子猫の友達に囲まれています。彼の頭上には思い出の泡が浮かび上がり、子猫たちがその泡を次々と割っていきます。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ba13b770f8c26e0a1ad0a18d7735bf1d/thumbnails/thumbnail.jpg" width="600" alt="猫のレオと宇宙人の子猫の友達">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2558)**
+
+**作者:** [M. Kerin Sorensen](https://x.com/KerinLang) | **ソース:** [Link](https://x.com/KerinLang/status/2039752584467193892) | **公開日:** Apr 2, 2026
+
+---
+### ネオン輝く終末世界で二刀流を振るう浪人
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine でサイバーパンクな世界観の二刀流浪人の動画を生成するためのプロンプト。緻密なテクスチャ、ドラマチックなライティング、そして混沌としたエネルギーを強調しています。
+
+#### 📝 プロンプト
+
+```
+ネオン輝く終末の荒野で二刀流を振るう浪人。片方は伝統的な鋼の刀、もう片方は虹色の星屑が漏れ出すフラクタルエネルギーの刃。体はモノクロのフィルム・ノワールと彩度過多なサイバーカラーの間でグリッチを起こしている。発光する粒子でできた雨。背景にはマゼンタの光を放つ廃墟となった超高層ビル。超緻密なテクスチャ、ドラマチックなスプリットトーン、突如として現れる混沌としたエネルギー、Midjourney のような卓越した表現
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b643b6dbde457359d99813102c85c18f/thumbnails/thumbnail.jpg" width="600" alt="ネオン輝く終末世界で二刀流を振るう浪人">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2557)**
+
+**作者:** [Carolina Delgado](https://x.com/carolletta) | **ソース:** [Link](https://x.com/carolletta/status/2039643817264255437) | **公開日:** Apr 2, 2026
+
+---
+### ドリーズーム・セレスティアル・ドラゴン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 用のプロンプト。ドリーズーム効果を活用し、崖の上に立つ孤独な戦士と、雲の中から現れて山々に巻き付く光の巨大な天界の龍を描写します。
+
+#### 📝 プロンプト
+
+```
+ドリーズーム。日の出の聖なる崖の上に立つ孤独な戦士。雲の中から光でできた巨大な天界の龍が現れる。カメラがズームインしながら引き、空を輝く深淵へと引き伸ばす中、龍が山々に巻き付き、風景全体を照らし出す。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/732fb40d8a7ce1f24eecb2da052c345e/thumbnails/thumbnail.jpg" width="600" alt="ドリーズーム・セレスティアル・ドラゴン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2556)**
+
+**作者:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **ソース:** [Link](https://x.com/CharaspowerAI/status/2039621371873886550) | **公開日:** Apr 2, 2026
+
+---
+### 人狼のデーモンハンター映画予告編向け Grok Imagine 動画プロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 人狼の獣戦士「Kragor The Hellreaver」が、燃え盛る赤い刀を手に悪魔と戦う映画の戦闘シーン予告編を生成するための、非常に詳細でシネマティックな Grok Imagine プロンプトです。カメラアングル、スピード、フィルムグレイン、超リアルな肌の質感などを詳細に指定しています。
+
+#### 📝 プロンプト
+
+```
+燃え盛る赤い刀と鎧を身にまとった人狼の獣戦士が、腰布を巻いた悪魔と爪で戦う映画の戦闘シーン。複数のアングルから撮影された、テンポの速いシネマティックな戦闘シーン。素早い攻撃、瞬時のカウンター、ダイナミックなカメラカット、純粋でエネルギーに満ちたリアルタイムの動き。刀が切り裂き、悪魔の爪が引き裂く。[シーンの最後：獣戦士の人狼が刀を悪魔の胸に深く突き刺し、地面に押し倒す。] 全編を通して極めて速く激しい攻防、素早い打撃、刀から放たれる鮮やかな深紅の光。テンポの速いハイスピードな戦闘シーン、純粋でエネルギーに満ちたハイキネティックなリアルタイム戦闘、スローモーションなし、手持ちカメラによる緊迫感、35mm フィルム撮影、親密なフレーミングと浅い被写界深度、自然なフィルムグレイン、微かな色収差。自然な毛穴が見える超リアルな狼の皮膚、目に見える肌の質感、微かな汗の光沢、微細な肌のディテール、本物のような不完全さ、リアルな表面下散乱、プラスチック感やワックスのような CGI 感は一切なし
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/aaae8a229360ab76d122e9a6704272e4/thumbnails/thumbnail.jpg" width="600" alt="人狼のデーモンハンター映画予告編向け Grok Imagine 動画プロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2560)**
+
+**作者:** [ArcZeal Designs](https://x.com/arczeal_designs) | **ソース:** [Link](https://x.com/arczeal_designs/status/2039550370192486797) | **公開日:** Apr 2, 2026
+
+---
+### ピンクのミシンを使ったワークショップの動画生成プロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 向けの動画生成プロンプトです。点滅するライトが付いたピンクのミシン、ベビーカラーのクラフト用品が並ぶ棚、テーブルの上に置かれた布製のドールなど、プリンセスをテーマにした幻想的な裁縫ワークショップを描写しています。
+
+#### 📝 プロンプト
+
+```
+点滅するライトが付いたピンクのミシン、ベビーピンクやライラック、パールホワイトといったベビーカラーのリボンやボタン、糸でいっぱいの棚。すべてが可愛らしく、まるでプリンセスの部屋がワークショップになったような空間。テーブルの上には布製のドールが横たわっている...
+```
+
+<img src="https://cms-assets.youmind.com/media/1775202187855_ohw7ll_HE3gsqWbAAAJlbW.jpg" width="600" alt="ピンクのミシンを使ったワークショップの動画生成プロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2562)**
+
+**作者:** [Ana Paula ❤️](https://x.com/anapaula_life) | **ソース:** [Link](https://x.com/anapaula_life/status/2039533320296669453) | **公開日:** Apr 2, 2026
+
+---
 ### ルビーのようなエネルギーを纏い、アリゾナを覆う赤い霧
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +320,25 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2525)**
 
 **作者:** [Jennyssight](https://x.com/jennyssight) | **ソース:** [Link](https://x.com/jennyssight/status/2039521814636892519) | **公開日:** Apr 2, 2026
+
+---
+### 超リアルな宇宙船打ち上げのプロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 向けのプロンプトです。激しい炎と排気を伴いながら打ち上がる宇宙船を、極めて詳細かつ究極の未来的な芸術スタイルで描く超リアルな画像をリクエストします。
+
+#### 📝 プロンプト
+
+```
+強力なスラスターを噴射して打ち上がる宇宙船の超リアルな画像、激しい炎と排気の噴煙、極めて未来的な芸術スタイルで描かれたドラマチックな打ち上げシーン、極限のディテール、非常に複雑で超精細な描写...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f337fce5600878a3c209594c7b6284a2/thumbnails/thumbnail.jpg" width="600" alt="超リアルな宇宙船打ち上げのプロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2559)**
+
+**作者:** [G M](https://x.com/goranmTO) | **ソース:** [Link](https://x.com/goranmTO/status/2039493995798123007) | **公開日:** Apr 2, 2026
 
 ---
 ### 幻想的な湖の風景を描くための Grok Imagine プロンプト
@@ -2025,140 +2158,6 @@ Oh Elon
 **作者:** [Doge Norway](https://x.com/DogecoinNorway) | **ソース:** [Link](https://x.com/DogecoinNorway/status/2038545456100520247) | **公開日:** Mar 30, 2026
 
 ---
-### 緊張感のあるシネマティックな夕暮れの動画プロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 用の、静かな湖畔の夕暮れを舞台にした緊張感あふれるシネマティックなショート動画プロンプト。女性と黒い人型ロボットがベンチに向かって歩く様子を描き、隔絶と不確実性を強調します。
-
-#### 📝 プロンプト
-
-```
-静かな湖畔の夕暮れを舞台にした、緊張感のあるシネマティックなショート動画。女性と、洗練された真っ黒な現代の人型ロボットが、フレームの両端からゆっくりとシンプルな木製のベンチに向かって歩いていく。強い隔絶感と不確実性が漂う。雰囲気は...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/df3d80c17522a3e4b9593ac0889a7f7c/thumbnails/thumbnail.jpg" width="600" alt="緊張感のあるシネマティックな夕暮れの動画プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2385)**
-
-**作者:** [Daisy](https://x.com/Daisy8320382290) | **ソース:** [Link](https://x.com/Daisy8320382290/status/2038544153131602019) | **公開日:** Mar 30, 2026
-
----
-### トールキン／フラゼッタ風のシルク・キティ・ドラゴン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine でシルク・キティ・ドラゴンの映像作品を生成するための詳細なプロンプトです。トールキンの神話世界やフラゼッタの情熱的なアートを彷彿とさせる、8k の手描き・手塗りスタイルで表現。きらめく青銀の鱗と、流れるような燃える赤の要素が特徴です。
-
-#### 📝 プロンプト
-
-```
-トールキンの神話やフラゼッタの情熱的なスタイルで描かれた 8k の手描き・手塗りマスターピース — きらめく青銀の鱗と流れるような燃える赤を纏った、美しいシルク・キティ・ドラゴン...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ae24e2b7ccc3d696c86f335b13889fbb/thumbnails/thumbnail.jpg" width="600" alt="トールキン／フラゼッタ風のシルク・キティ・ドラゴン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2386)**
-
-**作者:** [David Avenue Media](https://x.com/davidavenueai) | **ソース:** [Link](https://x.com/davidavenueai/status/2038534115289706715) | **公開日:** Mar 30, 2026
-
----
-### サイバーパンクな街並みと女性のビデオ生成プロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 夜のサイバーパンクな街並みと、白からパステルカラーへのグラデーションヘア、サイバーウェア、体にフィットした衣装を身にまとった特定の女性キャラクターに焦点を当てた、Grok Imagine 用の高精細ビデオ生成プロンプトです。照明、解像度（8k）、そして幻想的で映画のような雰囲気を演出するためのエフェクトを指定しています。
-
-#### 📝 プロンプト
-
-```
-紫、ピンク、シアン、マゼンタの鮮やかなネオンライトに照らされた夜のサイバーパンクな街並み。そびえ立つ高層ビルは光り輝くホログラム広告で覆われ、デジタルな雨が静かに降り注いでいる。前景には、20 代後半の女性。スレンダーで引き締まった体型、色白の肌、高い頬骨と小さな鼻、ふっくらとした唇を持つシャープで角張った顔立ち。控えめな赤いアイメイクが強調された、表情豊かな大きな瞳。髪は純白で、毛先に向かってネオンの輝きと調和するピンク、紫、シアンのパステルカラーへとシームレスに変化するグラデーション。顎のラインで切り揃えられた、洗練された非対称のボブスタイル。左側は長く、顎の下まで繊細な毛束が伸び、前髪は眉の高さで真っ直ぐに切り揃えられ、わずかに中心からずらした分け目がある。合成繊維のように超ストレートで光沢があり、滑らかで、風になびくようなボリューム感がある。後頭部にはサイバーウェアのポートがかすかに見え、髪に部分的に隠れ、合成皮膚で覆われている。彼女は赤のアクセントが入った黒と白の体にフィットするボディスーツを着用し、ハイカラー、黒い縁取りと袖にパッチが付いたオフショルダーの白いジャケットを羽織っている。光沢のあるラテックスのような素材がネオンライトを反射し、自信に満ちた表情で少し右を向いた 3/4 のポーズをとっている。高解像度 8k、シャープでクリーンなレンダリング、繊細なブルーム効果とフィルムグレイン、幻想的なサイバーパンクの雰囲気。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/67eac603eee8b8301f1ad317869fabbe/thumbnails/thumbnail.jpg" width="600" alt="サイバーパンクな街並みと女性のビデオ生成プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2370)**
-
-**作者:** [tetsuo](https://x.com/tetsuoai) | **ソース:** [Link](https://x.com/tetsuoai/status/2038533274126200857) | **公開日:** Mar 30, 2026
-
----
-### Grok Imagine プロンプト：月面での夢（The Dream）
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 月面を舞台にした動画を生成するための Grok Imagine 用プロンプト。背景に彗星、遠くに惑星が見える「The Dream」というタイトルの作品です。
-
-#### 📝 プロンプト
-
-```
-月面を舞台にした動画全体。背景に彗星、遠くに惑星が見える様子。
-The Dream
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cb91f2bba716ba27ac116084c0cc1509/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine プロンプト：月面での夢（The Dream）">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2369)**
-
-**作者:** [Jennifer McGregor](https://x.com/jennymac7895) | **ソース:** [Link](https://x.com/jennymac7895/status/2038508548426998079) | **公開日:** Mar 30, 2026
-
----
-### チーズの月で宇宙服を着た猫と遭遇する宇宙ネズミの動画プロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> チーズでできた月を故郷とする宇宙ネズミが、宇宙服を着て着陸してきた猫たちと遭遇し、平和的な会談のためにリーダーのもとへ案内する様子を描いた、Grok Imagine 用のクリエイティブな動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-チーズでできた月を故郷とする宇宙ネズミが、宇宙服を着て着陸してきた猫たちと遭遇する動画を作成してください。ネズミたちが猫たちを平和的な会談のために宇宙ネズミのリーダーのもとへ案内する様子を描写してください。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a974fd63447238c0733b5bc83587dd1a/thumbnails/thumbnail.jpg" width="600" alt="チーズの月で宇宙服を着た猫と遭遇する宇宙ネズミの動画プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2395)**
-
-**作者:** [Emily](https://x.com/EMSRANCHART3) | **ソース:** [Link](https://x.com/EMSRANCHART3/status/2038496604924334244) | **公開日:** Mar 30, 2026
-
----
-### 日本の伝統的な刀剣店を舞台にした動画生成プロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 日本の伝統的な刀剣店の内部を描写した Grok Imagine 用のプロンプトです。職人の卓越した技術と、その技を学ぶ弟子の姿に焦点を当てています。
-
-#### 📝 プロンプト
-
-```
-日本の伝統的な刀剣店にて、職人の卓越した技術と、その技を学ぶ弟子の姿を描写してください……
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c3733aafa34d686647f606b41db157cd/thumbnails/thumbnail.jpg" width="600" alt="日本の伝統的な刀剣店を舞台にした動画生成プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2393)**
-
-**作者:** [Richie](https://x.com/Quiet14277) | **ソース:** [Link](https://x.com/Quiet14277/status/2038491101347393652) | **公開日:** Mar 30, 2026
-
----
-### 80 年代レトロな美学を取り入れたアニメ風変換
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 向けの詳細なスタイル変換プロンプトです。元の画像の構図、表情、感情を維持しつつ、スタイルをフルイラストの「アニメスタイル」に完全に変換するよう指示します。超高解像度、1980 年代のレトロな美学、そして非常にムードのあるライティングを強調しています。
-
-#### 📝 プロンプト
-
-```
-元の画像の構図、表情、感情を維持すること。画像のスタイルを以下に完全に変更する：フルイラストの「アニメスタイル」：超高解像度のアニメイラスト、カートゥーン、アニメーション。1980 年代のレトロな美学、非常にムードのあるライティング...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e2e20294c62a36b15d71dd0cc94059f7/thumbnails/thumbnail.jpg" width="600" alt="80 年代レトロな美学を取り入れたアニメ風変換">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2388)**
-
-**作者:** [moonlight🍀](https://x.com/DiosmeryQuinta2) | **ソース:** [Link](https://x.com/DiosmeryQuinta2/status/2038489691755069530) | **公開日:** Mar 30, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2220,6 +2219,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-04-03T05:45:29.759Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-04-03T09:05:06.527Z</sub>
 
 </div>

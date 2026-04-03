@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **914** |
+| 📝 提示詞總數 | **921** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-04-03** |
 
@@ -189,6 +189,121 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 電影感戰馬騎士影片提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一組專為 Grok Imagine 設計的詳細提示詞，旨在生成一段充滿戲劇性與電影感的影片，呈現一名身穿華麗黑色盔甲的威猛騎士，騎著強壯的黑色戰馬向觀眾全速奔馳而來的畫面。
+
+#### 📝 提示詞
+
+```
+採用戲劇性的低角度電影視角，呈現一名身穿精緻華麗黑色板甲、頭戴盔甲並披著飄逸深色斗篷的威猛騎士，騎著一匹強壯且肌肉發達的黑色戰馬，在廣闊的綠色草地上全速奔馳，直衝向觀眾。騎士右手高舉一把長直劍，神情勝利。馬匹的鬃毛與尾巴在高速運動下狂野飄動，身上配有華麗的皮革與金屬馬鎧及馬具。前景呈現出極致的徑向動態模糊條紋，傳達出驚人的速度感。背景為高聳崎嶇、白雪皚皚的岩石山峰，天空呈現深邃且充滿活力的藍色，並點綴著巨大而戲劇性的白雲。史詩般的黑暗奇幻氛圍，盔甲與馬匹的紋理細節豐富，具備電影級的高對比度光影與動態英雄構圖。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bdcb2886ff71e7d94fbe37b07effc745/thumbnails/thumbnail.jpg" width="600" alt="電影感戰馬騎士影片提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2561)**
+
+**作者:** [tetsuo](https://x.com/tetsuoai) | **來源:** [Link](https://x.com/tetsuoai/status/2039884946551238794) | **發布時間:** Apr 3, 2026
+
+---
+### 貓咪 Leo 與外星小貓朋友們
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個關於燕尾服貓 Leo 需要小睡片刻的創意 Grok Imagine 提示詞。他被來自月球的外星小貓朋友們包圍，記憶泡泡不斷浮現，並被小貓們一一戳破。
+
+#### 📝 提示詞
+
+```
+燕尾服貓 Leo 需要小睡片刻來回味他所有的冒險經歷，他被來自月球的外星小貓朋友們包圍著。記憶泡泡在他的頭頂浮現，而小貓們則會將這些泡泡戳破。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ba13b770f8c26e0a1ad0a18d7735bf1d/thumbnails/thumbnail.jpg" width="600" alt="貓咪 Leo 與外星小貓朋友們">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2558)**
+
+**作者:** [M. Kerin Sorensen](https://x.com/KerinLang) | **來源:** [Link](https://x.com/KerinLang/status/2039752584467193892) | **發布時間:** Apr 2, 2026
+
+---
+### 霓虹末日廢土中的雙刀浪人
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個分享給 Grok Imagine 的提示詞，用於生成一段賽博龐克背景下雙刀浪人的影片，強調細膩的紋理、戲劇性的光影以及混亂的能量感。
+
+#### 📝 提示詞
+
+```
+末日霓虹廢土中的雙刀浪人，一把是經典鋼製武士刀，另一把是洩漏著彩虹星塵的碎形能量刃，身體在黑白電影風格與過飽和的賽博色彩之間閃爍，由發光粒子組成的雨滴，背景是滲出洋紅色光芒的廢棄摩天大樓，超細膩紋理，戲劇性的分離色調，突如其來的混亂能量，Midjourney 大師級作品
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b643b6dbde457359d99813102c85c18f/thumbnails/thumbnail.jpg" width="600" alt="霓虹末日廢土中的雙刀浪人">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2557)**
+
+**作者:** [Carolina Delgado](https://x.com/carolletta) | **來源:** [Link](https://x.com/carolletta/status/2039643817264255437) | **發布時間:** Apr 2, 2026
+
+---
+### Dolly Zoom Celestial Dragon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個使用 Dolly zoom 效果的 Grok Imagine 提示詞，描繪了一位孤獨的戰士站在懸崖上，一條由光芒組成的巨大天龍從雲層中現身，並盤繞在群山之間。
+
+#### 📝 提示詞
+
+```
+Dolly zoom，日出時分，一位孤獨的戰士站在神聖的懸崖上，一條由光芒組成的巨大天龍從雲層中現身。鏡頭在拉遠的同時進行變焦，將天空拉伸成一個發光的深淵，天龍盤繞在群山之間，照亮了整個景觀。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/732fb40d8a7ce1f24eecb2da052c345e/thumbnails/thumbnail.jpg" width="600" alt="Dolly Zoom Celestial Dragon">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2556)**
+
+**作者:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **來源:** [Link](https://x.com/CharaspowerAI/status/2039621371873886550) | **發布時間:** Apr 2, 2026
+
+---
+### 用於狼人惡魔獵人電影預告片的 Grok Imagine 影片提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一份高度細緻、具備電影感的 Grok Imagine 提示詞，用於生成一段電影打鬥場景預告片。主角為狼人獸戰士 Kragor The Hellreaver，手持燃燒著紅色烈焰的武士刀與惡魔搏鬥。提示詞詳細說明了攝影機角度、速度、底片顆粒感以及超寫實的皮膚細節。
+
+#### 📝 提示詞
+
+```
+身穿盔甲、手持燃燒著紅色烈焰武士刀的狼人獸戰士，與穿著惡魔腰布的惡魔進行爪擊搏鬥，電影打鬥場景。快節奏、多鏡頭、不同角度的電影級打鬥場面。快速出擊、瞬間反擊、動態鏡頭切換，純粹的高能量即時流暢感。武士刀揮砍，惡魔利爪撕裂，[場景結尾：獸戰士狼人將刀刃深深刺入惡魔胸膛，將其推倒在地。] 整個殘酷的交鋒過程充滿極致的速度與張力，快速出擊，武士刀發出明亮的深紅色光芒。快節奏、高速打鬥場景，超動態即時戰鬥，純粹的高能量流暢感，無慢動作，強烈的手持攝影機急迫感，使用 35mm 鏡頭拍攝，採用親密的取景與淺景深，自然的底片顆粒感，細微的色差。超寫實的狼皮展現出自然的毛孔、可見的皮膚紋理、細微的汗水光澤、微小的皮膚細節、真實的瑕疵以及真實的次表面散射，無塑膠感，無蠟質 CGI 外觀
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/aaae8a229360ab76d122e9a6704272e4/thumbnails/thumbnail.jpg" width="600" alt="用於狼人惡魔獵人電影預告片的 Grok Imagine 影片提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2560)**
+
+**作者:** [ArcZeal Designs](https://x.com/arczeal_designs) | **來源:** [Link](https://x.com/arczeal_designs/status/2039550370192486797) | **發布時間:** Apr 2, 2026
+
+---
+### 粉色縫紉機工作坊影片提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一份用於 Grok Imagine 的影片生成提示詞，描述了一個充滿奇幻色彩、公主風格的縫紉工作坊，場景包含一台閃爍著燈光的粉色縫紉機、擺滿嬰兒色系手工藝品的架子，以及放在桌上的布娃娃。
+
+#### 📝 提示詞
+
+```
+粉色縫紉機閃爍著燈光，架子上擺滿了嬰兒色系的緞帶、鈕扣和線材——嬰兒粉、淡紫色、珍珠白。一切都非常可愛，就像公主的房間變成了工作坊。
+布娃娃正躺在桌上...
+```
+
+<img src="https://cms-assets.youmind.com/media/1775202187855_ohw7ll_HE3gsqWbAAAJlbW.jpg" width="600" alt="粉色縫紉機工作坊影片提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2562)**
+
+**作者:** [Ana Paula ❤️](https://x.com/anapaula_life) | **來源:** [Link](https://x.com/anapaula_life/status/2039533320296669453) | **發布時間:** Apr 2, 2026
+
+---
 ### 亞利桑那州上空的紅霧與紅寶石能量
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +321,25 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2525)**
 
 **作者:** [Jennyssight](https://x.com/jennyssight) | **來源:** [Link](https://x.com/jennyssight/status/2039521814636892519) | **發布時間:** Apr 2, 2026
+
+---
+### 超寫實太空船發射提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個用於 Grok Imagine 的提示詞，要求生成一張超寫實的太空船發射影像，呈現強烈的火焰與廢氣噴射，並以極致的未來主義藝術風格進行渲染，細節極其豐富。
+
+#### 📝 提示詞
+
+```
+超寫實的太空船發射影像，強大的推進器噴射，強烈的火焰與廢氣煙流，戲劇性的發射場景，以極致的未來主義藝術風格渲染，極高細節，高度複雜，超細緻...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f337fce5600878a3c209594c7b6284a2/thumbnails/thumbnail.jpg" width="600" alt="超寫實太空船發射提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2559)**
+
+**作者:** [G M](https://x.com/goranmTO) | **來源:** [Link](https://x.com/goranmTO/status/2039493995798123007) | **發布時間:** Apr 2, 2026
 
 ---
 ### 用於空靈湖泊場景的 Grok Imagine 提示詞
@@ -2026,140 +2160,6 @@ Oh Elon
 **作者:** [Doge Norway](https://x.com/DogecoinNorway) | **來源:** [Link](https://x.com/DogecoinNorway/status/2038545456100520247) | **發布時間:** Mar 30, 2026
 
 ---
-### 緊張感電影級黃昏影片提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一份為 Grok Imagine 準備的詳細提示詞，要求製作一段以平靜湖畔黃昏為背景的緊張感電影級短片，畫面中包含一名女性與一個黑色人形機器人正走向長椅，強調分裂感與不確定性。
-
-#### 📝 提示詞
-
-```
-一段在黃昏時分、平靜湖畔拍攝的緊張感電影級短片。一名女性與一個外型流暢、純黑色的人形機器人從畫面兩側緩慢走向一張簡單的木製長椅，營造出強烈的分裂感與不確定性。氛圍...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/df3d80c17522a3e4b9593ac0889a7f7c/thumbnails/thumbnail.jpg" width="600" alt="緊張感電影級黃昏影片提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2385)**
-
-**作者:** [Daisy](https://x.com/Daisy8320382290) | **來源:** [Link](https://x.com/Daisy8320382290/status/2038544153131602019) | **發布時間:** Mar 30, 2026
-
----
-### 托爾金與法拉澤塔風格的絲綢小貓龍
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個為 Grok Imagine 設計的詳細提示詞，旨在創作一部絲綢小貓龍的影片傑作。畫面採用 8k 解析度，呈現出令人聯想到托爾金神話與 Frazetta 火熱藝術風格的手繪質感，並結合閃爍的藍銀色鱗片與流動的火紅色元素。
-
-#### 📝 提示詞
-
-```
-托爾金神話與 Frazetta 火熱風格的手繪 8k 傑作 —— 一隻美麗的絲綢小貓龍，擁有閃爍的藍銀色鱗片與流動的火紅色元素...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ae24e2b7ccc3d696c86f335b13889fbb/thumbnails/thumbnail.jpg" width="600" alt="托爾金與法拉澤塔風格的絲綢小貓龍">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2386)**
-
-**作者:** [David Avenue Media](https://x.com/davidavenueai) | **來源:** [Link](https://x.com/davidavenueai/status/2038534115289706715) | **發布時間:** Mar 30, 2026
-
----
-### 賽博龐克城市景觀與女性影片提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一份用於 Grok Imagine 的高細節提示詞，旨在生成一段夜間賽博龐克城市景觀的影片，重點刻畫一位擁有獨特白色與粉彩色漸層髮色、賽博義體以及貼身服裝的女性角色。提示詞明確了光影、解析度（8k）以及營造空靈電影感的氛圍效果。
-
-#### 📝 提示詞
-
-```
-夜間的賽博龐克城市景觀，被紫色、粉紅色、青色與洋紅色的鮮豔霓虹燈照亮，高聳的摩天大樓覆蓋著發光的全息廣告看板，數位雨絲輕柔地落下。前景中是一位二十多歲的女性，身材纖細健美，皮膚白皙，臉部輪廓分明，有著高顴骨、小巧的鼻子與豐滿的雙唇。大而有神的雙眼點綴著細緻的紅色眼妝。頭髮呈現純白色，髮尾自然過渡為與霓虹城市光影相呼應的粉色、紫色與青色粉彩色漸層，造型為俐落的下巴長度不對稱鮑伯頭，左側較長，髮絲垂落至下巴下方，厚實的平瀏海修剪至眉毛高度，略微偏分，髮質如合成纖維般極致筆直、光澤且柔順，帶有細微的隨風飄逸感。頭皮後方隱約可見一個深層賽博義體接口，被頭髮部分遮蓋並覆蓋著合成皮膚。她穿著一件黑白相間的貼身連體衣，配有紅色裝飾、高領設計，以及一件帶有黑色滾邊與袖章的露肩白色外套，光澤感十足的類乳膠材質反射著霓虹燈光，呈現自信的四分之三側身姿勢，微微向右，表情嚴肅。高解析度 8k，渲染清晰銳利，帶有細微的泛光與膠片顆粒感，營造出空靈的賽博龐克氛圍。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/67eac603eee8b8301f1ad317869fabbe/thumbnails/thumbnail.jpg" width="600" alt="賽博龐克城市景觀與女性影片提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2370)**
-
-**作者:** [tetsuo](https://x.com/tetsuoai) | **來源:** [Link](https://x.com/tetsuoai/status/2038533274126200857) | **發布時間:** Mar 30, 2026
-
----
-### Grok Imagine 提示詞：月球上的太空夢
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個用於 Grok Imagine 的提示詞，要求生成一段以月球太空為背景的完整影片，背景中帶有彗星，遠處可見行星，影片標題為「The Dream」。
-
-#### 📝 提示詞
-
-```
-生成一段以月球太空為背景的完整影片，背景中帶有彗星，遠處可見行星
-The Dream
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cb91f2bba716ba27ac116084c0cc1509/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine 提示詞：月球上的太空夢">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2369)**
-
-**作者:** [Jennifer McGregor](https://x.com/jennymac7895) | **來源:** [Link](https://x.com/jennymac7895/status/2038508548426998079) | **發布時間:** Mar 30, 2026
-
----
-### 關於外星老鼠在起司月球上會見穿著太空衣貓咪的影片提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個為 Grok Imagine 設計的創意影片提示詞，描繪了外星老鼠遇見登陸其起司月球家園、穿著太空衣的貓咪，並帶領貓咪去見牠們的首領進行和平會談的場景。
-
-#### 📝 提示詞
-
-```
-製作一段影片，內容為外星老鼠遇見登陸其起司月球家園、穿著太空衣的貓咪。老鼠們帶領貓咪去和平會見牠們的外星老鼠首領。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a974fd63447238c0733b5bc83587dd1a/thumbnails/thumbnail.jpg" width="600" alt="關於外星老鼠在起司月球上會見穿著太空衣貓咪的影片提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2395)**
-
-**作者:** [Emily](https://x.com/EMSRANCHART3) | **來源:** [Link](https://x.com/EMSRANCHART3/status/2038496604924334244) | **發布時間:** Mar 30, 2026
-
----
-### 傳統日本武士刀店場景的影片提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個用於 Grok Imagine 的提示詞，描述了傳統日本武士刀店內的場景，重點在於展現工藝的精湛以及學徒學習技藝的過程。
-
-#### 📝 提示詞
-
-```
-在一家傳統的日本武士刀店中，展現精湛的工藝，以及正在學習技藝的學徒……
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c3733aafa34d686647f606b41db157cd/thumbnails/thumbnail.jpg" width="600" alt="傳統日本武士刀店場景的影片提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2393)**
-
-**作者:** [Richie](https://x.com/Quiet14277) | **來源:** [Link](https://x.com/Quiet14277/status/2038491101347393652) | **發布時間:** Mar 30, 2026
-
----
-### 動漫風格轉換：復古 80 年代美學
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個為 Grok Imagine 設計的詳細風格轉換提示詞，旨在指導 AI 在保持原始圖像的構圖、面部表情和情感的同時，將風格完全轉換為全插畫動漫風格 (ANIME STYLE)，並強調超高解析度、復古 1980 年代美學以及極具氛圍感的燈光效果。
-
-#### 📝 提示詞
-
-```
-保持原始圖像的構圖、面部表情和情感。將圖像風格完全轉換為：全插畫動漫風格 (ANIME STYLE)：超高解析度動漫插畫卡通動畫。復古 1980 年代美學，極具氛圍感的燈光...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e2e20294c62a36b15d71dd0cc94059f7/thumbnails/thumbnail.jpg" width="600" alt="動漫風格轉換：復古 80 年代美學">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2388)**
-
-**作者:** [moonlight🍀](https://x.com/DiosmeryQuinta2) | **來源:** [Link](https://x.com/DiosmeryQuinta2/status/2038489691755069530) | **發布時間:** Mar 30, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2221,6 +2221,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-04-03T05:45:27.803Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-04-03T09:05:04.483Z</sub>
 
 </div>
