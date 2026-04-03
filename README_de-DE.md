@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **921** |
+| 📝 Total Prompts | **918** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-04-03** |
 
@@ -928,25 +928,6 @@ Diese Bank ist restauriert. Nichts ist kaputt, es gibt keine losen Latten und es
 **Author:** [Master](https://x.com/DragonFlam7530) | **Source:** [Link](https://x.com/DragonFlam7530/status/2039072420225568994) | **Published:** Mar 31, 2026
 
 ---
-### Yamato Oden Ton-Skulpturen-Ästhetik
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Video-Generierungs-Prompt für Grok Imagine, der eine Illustration im Digital-Art-Stil anfordert, gerendert in einer hochdetaillierten, realistischen Ton-Skulpturen-Ästhetik, die Yamato Oden aus One Piece auf einer Hinrichtungsplattform umgeben von einer Menschenmenge darstellt.
-
-#### 📝 Prompt
-
-```
-Illustration im Digital-Art-Stil, gerendert in einer hochdetaillierten, realistischen Ton-Skulpturen-Ästhetik, eine hochdetaillierte Yamato Oden aus One Piece. Sie steht auf einer Hinrichtungsplattform, umgeben von einer Menschenmenge, sie hat riesige, runde, schwere Brüste....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bc75fe22f872593a294c6bbd84ad881a/thumbnails/thumbnail.jpg" width="600" alt="Yamato Oden Ton-Skulpturen-Ästhetik">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2470)**
-
-**Author:** [OnDaCoB](https://x.com/OnlyCornY) | **Source:** [Link](https://x.com/OnlyCornY/status/2039068273837326721) | **Published:** Mar 31, 2026
-
----
 ### Vom Opfer zum Täter: Wenn die Peitsche weitergereicht wird
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1718,44 +1699,6 @@ Lasse die Wolken und das Sonnenlicht um das Kreuz fröhlich bewegen. Sorge dafü
 **Author:** [Lynn Hocker](https://x.com/Auroraskye3993) | **Source:** [Link](https://x.com/Auroraskye3993/status/2038762853466010014) | **Published:** Mar 30, 2026
 
 ---
-### Black Hole Clothing Removal Video-Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Generierungs-Prompt für Grok Imagine, bei dem ein Schwarzes Loch die Kleidung einer Frau wegzieht und nur ihren Helm zurücklässt, wobei realistische Hauttöne und Texturen beibehalten werden.
-
-#### 📝 Prompt
-
-```
-Ein Schwarzes Loch kommt ins Bild und die Schwerkraft zieht ihre Kleidung in das Loch, sodass nur ihr Helm übrig bleibt. Bleibt realistisch mit natürlichen Hauttönen und Texturen. Kein Airbrushing.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b88b259e831c6db3facd1523f626fa87/thumbnails/thumbnail.jpg" width="600" alt="Black Hole Clothing Removal Video-Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2377)**
-
-**Author:** [Hottest on Planet Earth!](https://x.com/Hotnessearth) | **Source:** [Link](https://x.com/Hotnessearth/status/2038759468968644939) | **Published:** Mar 30, 2026
-
----
-### Selfie-Aufnahme POV Video-Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt für Grok Imagine, der ein Selfie-POV-Video einer attraktiven Frau in einer Flugzeugtoilette anfordert und dabei natürliche Details wie sichtbare Poren sowie spezifische Haar- und Augenmerkmale hervorhebt.
-
-#### 📝 Prompt
-
-```
-Selfie-Aufnahme, POV einer jungen, attraktiven Frau mit heller Haut, sichtbaren Poren und natürlichen Körperdetails in einer Flugzeugtoilette, hellbraunes Haar, das zurückgebunden ist, mit einzelnen losen Strähnen, die ihr Gesicht umrahmen, blaue Augen, lässig #grokimagine
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/43e8abeeb93704b38ad15ef969ddac25/thumbnails/thumbnail.jpg" width="600" alt="Selfie-Aufnahme POV Video-Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2387)**
-
-**Author:** [Hottest on Planet Earth!](https://x.com/Hotnessearth) | **Source:** [Link](https://x.com/Hotnessearth/status/2038758646683738438) | **Published:** Mar 30, 2026
-
----
 ### Video eines silbernen 1996er Impala Super Sport bei der Fahrt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2160,6 +2103,63 @@ Eine handgezeichnete Szene im Anime-Stil eines Mädchens in einem Bus, mit nachd
 **Author:** [Doge Norway](https://x.com/DogecoinNorway) | **Source:** [Link](https://x.com/DogecoinNorway/status/2038545456100520247) | **Published:** Mar 30, 2026
 
 ---
+### Spannungsgeladener, filmischer Video-Prompt für die Dämmerung
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Prompt für Grok Imagine, der ein spannungsgeladenes, filmisches Kurzvideo bei Dämmerung an einem ruhigen See anfordert. Zu sehen sind eine Frau und ein schwarzer humanoider Roboter, die auf eine Bank zugehen, wobei das Thema von Trennung und Ungewissheit im Vordergrund steht.
+
+#### 📝 Prompt
+
+```
+Ein spannungsgeladenes, filmisches Kurzvideo bei Dämmerung an einem ruhigen See. Eine Frau und ein eleganter, tiefschwarzer, moderner humanoider Roboter gehen von entgegengesetzten Seiten des Bildes langsam auf eine schlichte Holzbank zu, was ein starkes Gefühl von Trennung und Ungewissheit erzeugt. Die Atmosphäre...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/df3d80c17522a3e4b9593ac0889a7f7c/thumbnails/thumbnail.jpg" width="600" alt="Spannungsgeladener, filmischer Video-Prompt für die Dämmerung">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2385)**
+
+**Author:** [Daisy](https://x.com/Daisy8320382290) | **Source:** [Link](https://x.com/Daisy8320382290/status/2038544153131602019) | **Published:** Mar 30, 2026
+
+---
+### Seiden-Kätzchendrache im Stil von Tolkien/Frazetta
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Prompt für Grok Imagine zur Erstellung eines Video-Meisterwerks eines Seiden-Kätzchendrachens, gerendert in einem handgezeichneten, handgemalten 8k-Stil, der an die Mythologie von Tolkien und die feurige Kunst von Frazetta erinnert, mit schimmernden blau-silbernen Schuppen und fließenden, feurig roten Elementen.
+
+#### 📝 Prompt
+
+```
+Handgezeichnetes, handgemaltes 8k-Meisterwerk im Stil von Tolkien-Mythologie und Frazetta-Feuer – ein wunderschöner Seiden-Kätzchendrache mit schimmernden blau-silbernen Schuppen und fließenden, feurig roten...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ae24e2b7ccc3d696c86f335b13889fbb/thumbnails/thumbnail.jpg" width="600" alt="Seiden-Kätzchendrache im Stil von Tolkien/Frazetta">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2386)**
+
+**Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2038534115289706715) | **Published:** Mar 30, 2026
+
+---
+### Video-Prompt: Cyberpunk-Stadtlandschaft und Frau
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochdetaillierter Grok Imagine-Prompt zur Erstellung eines Videos einer Cyberpunk-Stadtlandschaft bei Nacht, mit Fokus auf eine spezifische weibliche Figur mit einzigartigem weiß-pastellfarbenem Farbverlauf im Haar, Cyberware und einem figurbetonten Outfit. Der Prompt spezifiziert Beleuchtung, Auflösung (8k) und atmosphärische Effekte für einen ätherischen, filmischen Look.
+
+#### 📝 Prompt
+
+```
+Eine Cyberpunk-Stadtlandschaft bei Nacht, beleuchtet von lebendigen Neonlichtern in Violett-, Pink-, Cyan- und Magentatönen, mit hoch aufragenden Wolkenkratzern, die mit leuchtenden holografischen Werbetafeln bedeckt sind, während sanfter digitaler Regen fällt. Im Vordergrund eine Frau Ende zwanzig, schlanke und athletische Statur, helle Haut, scharfe, kantige Gesichtszüge mit hohen Wangenknochen, kleiner Nase und vollen Lippen. Große, ausdrucksstarke Augen, betont durch dezentes rotes Augen-Make-up. Das Haar ist von Natur aus reinweiß mit einem sanften Pastellverlauf an den Spitzen, der nahtlos in Pink-, Violett- und Cyantöne übergeht, passend zum Neonleuchten der Stadt; gestylt als eleganter, kinnlanger, asymmetrischer Split-Bob, die linke Seite länger mit feinen Strähnen, die unter das Kinn reichen, dichter, stumpfer Pony, der auf Augenbrauenhöhe gerade geschnitten ist mit einem leichten Seitenscheitel, ultra-glatt, glänzend und geschmeidig wie Kunstfasern mit leichtem, windgepeitschtem Volumen. Ein Deep-Dive-Cyberware-Anschluss ist dezent am Hinterkopf sichtbar, teilweise vom Haar verdeckt und mit synthetischer Haut bedeckt. Sie trägt einen figurbetonten schwarz-weißen Body mit roten Akzenten, hohem Kragen, eine schulterfreie weiße Jacke mit schwarzem Besatz und einem Aufnäher am Ärmel, glänzendes, latexartiges Material, das die Neonlichter reflektiert, selbstbewusste Dreiviertel-Pose, leicht nach rechts gewandt mit ernstem Ausdruck. Hochauflösendes 8k, scharfes, sauberes Rendering, dezenter Bloom-Effekt und Filmkorn, ätherische Cyberpunk-Atmosphäre.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/67eac603eee8b8301f1ad317869fabbe/thumbnails/thumbnail.jpg" width="600" alt="Video-Prompt: Cyberpunk-Stadtlandschaft und Frau">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2370)**
+
+**Author:** [tetsuo](https://x.com/tetsuoai) | **Source:** [Link](https://x.com/tetsuoai/status/2038533274126200857) | **Published:** Mar 30, 2026
+
+---
 ---
 
 ## 📚 More Prompts Available
@@ -2221,6 +2221,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-03T13:19:02.402Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-03T16:52:24.885Z</sub>
 
 </div>

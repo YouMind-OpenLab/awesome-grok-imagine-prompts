@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **921** |
+| 📝 Total Prompts | **918** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-04-03** |
 
@@ -928,25 +928,6 @@ Dolly zoom นักรบผู้โดดเดี่ยวยืนอยู
 **Author:** [Master](https://x.com/DragonFlam7530) | **Source:** [Link](https://x.com/DragonFlam7530/status/2039072420225568994) | **Published:** Mar 31, 2026
 
 ---
-### งานประติมากรรมดินปั้นสไตล์ Yamato Oden
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับการสร้างวิดีโอโดยละเอียดสำหรับ Grok Imagine โดยเน้นสไตล์ภาพวาดดิจิทัลอาร์ตที่ถ่ายทอดออกมาในรูปแบบงานประติมากรรมดินปั้นที่สมจริงและมีความละเอียดสูง นำเสนอภาพของ Yamato Oden จาก One Piece ขณะยืนอยู่บนแท่นประหารท่ามกลางฝูงชน
-
-#### 📝 Prompt
-
-```
-ภาพวาดสไตล์ดิจิทัลอาร์ตที่ถ่ายทอดออกมาในรูปแบบงานประติมากรรมดินปั้นที่สมจริงและมีความละเอียดสูง นำเสนอภาพของ Yamato Oden จาก One Piece ที่มีความละเอียดสูง เธอกำลังยืนอยู่บนแท่นประหารท่ามกลางฝูงชน โดยมีลักษณะหน้าอกที่กลมโตและดูมีน้ำหนัก...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bc75fe22f872593a294c6bbd84ad881a/thumbnails/thumbnail.jpg" width="600" alt="งานประติมากรรมดินปั้นสไตล์ Yamato Oden">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2470)**
-
-**Author:** [OnDaCoB](https://x.com/OnlyCornY) | **Source:** [Link](https://x.com/OnlyCornY/status/2039068273837326721) | **Published:** Mar 31, 2026
-
----
 ### จากผู้ถูกกระทำสู่ผู้ถือแส้ที่ฟาดแรงกว่าเดิม
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1718,44 +1699,6 @@ a b c...
 **Author:** [Lynn Hocker](https://x.com/Auroraskye3993) | **Source:** [Link](https://x.com/Auroraskye3993/status/2038762853466010014) | **Published:** Mar 30, 2026
 
 ---
-### พรอมต์วิดีโอหลุมดำดึงเสื้อผ้าออก
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับสร้างวิดีโอด้วย Grok Imagine โดยให้หลุมดำดึงเสื้อผ้าของผู้หญิงออกจนเหลือเพียงหมวกกันน็อก โดยยังคงโทนสีผิวและพื้นผิวที่สมจริง
-
-#### 📝 Prompt
-
-```
-หลุมดำปรากฏขึ้นในเฟรมและแรงโน้มถ่วงดึงเสื้อผ้าของเธอเข้าไปในหลุมจนเหลือเพียงหมวกกันน็อกของเธอเท่านั้น คงความสมจริงด้วยโทนสีผิวและพื้นผิวที่เป็นธรรมชาติ ไม่มีการปรับแต่งภาพด้วยแอร์บรัช
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b88b259e831c6db3facd1523f626fa87/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์วิดีโอหลุมดำดึงเสื้อผ้าออก">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2377)**
-
-**Author:** [Hottest on Planet Earth!](https://x.com/Hotnessearth) | **Source:** [Link](https://x.com/Hotnessearth/status/2038759468968644939) | **Published:** Mar 30, 2026
-
----
-### พรอมต์วิดีโอ POV แบบเซลฟี่
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์โดยละเอียดสำหรับ Grok Imagine เพื่อสร้างวิดีโอ POV แบบเซลฟี่ของหญิงสาวหน้าตาสวยงามในห้องน้ำบนเครื่องบิน โดยเน้นรายละเอียดที่เป็นธรรมชาติ เช่น รูขุมขนที่มองเห็นได้ รวมถึงลักษณะของเส้นผมและดวงตาที่เฉพาะเจาะจง
-
-#### 📝 Prompt
-
-```
-ฟุตเทจเซลฟี่ มุมมอง POV ของหญิงสาวผิวขาวหน้าตาสวยงามที่มีรูขุมขนชัดเจนและรายละเอียดร่างกายที่เป็นธรรมชาติในห้องน้ำบนเครื่องบิน ผมสีน้ำตาลอ่อนรวบไว้ด้านหลังโดยมีปอยผมหลุดลุ่ยล้อมกรอบใบหน้า ดวงตาสีฟ้า ในบรรยากาศสบายๆ #grokimagine
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/43e8abeeb93704b38ad15ef969ddac25/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์วิดีโอ POV แบบเซลฟี่">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2387)**
-
-**Author:** [Hottest on Planet Earth!](https://x.com/Hotnessearth) | **Source:** [Link](https://x.com/Hotnessearth/status/2038758646683738438) | **Published:** Mar 30, 2026
-
----
 ### วิดีโอการขับขี่รถ Impala Super Sport สีเงิน ปี 1996
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2160,6 +2103,63 @@ Elon Musk เต้นในชุดญี่ปุ่นแบบดั้ง�
 **Author:** [Doge Norway](https://x.com/DogecoinNorway) | **Source:** [Link](https://x.com/DogecoinNorway/status/2038545456100520247) | **Published:** Mar 30, 2026
 
 ---
+### พรอมต์วิดีโอแนวภาพยนตร์สุดตึงเครียดในช่วงพลบค่ำ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์แบบละเอียดสำหรับ Grok Imagine เพื่อสร้างวิดีโอสั้นแนวภาพยนตร์ที่เต็มไปด้วยความตึงเครียด ณ ริมทะเลสาบที่เงียบสงบในช่วงพลบค่ำ โดยมีหญิงสาวและหุ่นยนต์ฮิวแมนนอยด์สีดำเดินมุ่งหน้าไปยังม้านั่ง เพื่อเน้นย้ำถึงความแตกแยกและความไม่แน่นอน
+
+#### 📝 Prompt
+
+```
+วิดีโอสั้นแนวภาพยนตร์ที่เต็มไปด้วยความตึงเครียดในช่วงพลบค่ำริมทะเลสาบที่เงียบสงบ หญิงสาวคนหนึ่งและหุ่นยนต์ฮิวแมนนอยด์สีดำสนิทดีไซน์ทันสมัยกำลังเดินอย่างช้าๆ ไปยังม้านั่งไม้เรียบๆ จากคนละฝั่งของเฟรมภาพ สร้างความรู้สึกถึงความแตกแยกและความไม่แน่นอนที่ชัดเจน บรรยากาศ...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/df3d80c17522a3e4b9593ac0889a7f7c/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์วิดีโอแนวภาพยนตร์สุดตึงเครียดในช่วงพลบค่ำ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2385)**
+
+**Author:** [Daisy](https://x.com/Daisy8320382290) | **Source:** [Link](https://x.com/Daisy8320382290/status/2038544153131602019) | **Published:** Mar 30, 2026
+
+---
+### มังกรแมวเหมียวผ้าไหมในสไตล์ Tolkien/Frazetta
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์รายละเอียดสำหรับ Grok Imagine เพื่อสร้างสรรค์วิดีโอระดับมาสเตอร์พีซของมังกรแมวเหมียวผ้าไหม ที่เรนเดอร์ในสไตล์วาดมือและลงสีด้วยมือความละเอียด 8k ชวนให้นึกถึงตำนานของ Tolkien และงานศิลปะอันเร่าร้อนของ Frazetta โดดเด่นด้วยเกล็ดสีฟ้าเงินระยิบระยับและองค์ประกอบสีแดงเพลิงที่พลิ้วไหว
+
+#### 📝 Prompt
+
+```
+ผลงานระดับมาสเตอร์พีซความละเอียด 8k ที่วาดและลงสีด้วยมือในสไตล์ตำนานของ Tolkien และความเร่าร้อนของ Frazetta — มังกรแมวเหมียวผ้าไหมแสนสวยที่มีเกล็ดสีฟ้าเงินระยิบระยับและองค์ประกอบสีแดงเพลิงที่พลิ้วไหว...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ae24e2b7ccc3d696c86f335b13889fbb/thumbnails/thumbnail.jpg" width="600" alt="มังกรแมวเหมียวผ้าไหมในสไตล์ Tolkien/Frazetta">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2386)**
+
+**Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2038534115289706715) | **Published:** Mar 30, 2026
+
+---
+### พรอมต์วิดีโอเมืองไซเบอร์พังก์และหญิงสาว
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์ Grok Imagine ที่มีความละเอียดสูงสำหรับการสร้างวิดีโอเมืองไซเบอร์พังก์ในยามค่ำคืน โดยเน้นไปที่ตัวละครหญิงที่มีเอกลักษณ์เฉพาะตัวด้วยผมสีขาวไล่เฉดสีพาสเทล ไซเบอร์แวร์ และชุดที่เข้ารูป พรอมต์นี้ระบุรายละเอียดเกี่ยวกับแสง ความละเอียด (8k) และเอฟเฟกต์บรรยากาศเพื่อให้ได้ความรู้สึกแบบภาพยนตร์ที่ดูเหนือจริง
+
+#### 📝 Prompt
+
+```
+ทิวทัศน์เมืองไซเบอร์พังก์ในยามค่ำคืนที่สว่างไสวด้วยแสงนีออนสดใสในโทนสีม่วง ชมพู ฟ้า และม่วงแดง ตึกระฟ้าสูงตระหง่านปกคลุมไปด้วยป้ายโฆษณาโฮโลแกรมที่ส่องแสงและสายฝนดิจิทัลที่โปรยปรายลงมาอย่างแผ่วเบา ในฉากหน้ามีหญิงสาววัยใกล้ 30 ปี รูปร่างเพรียวบางและแข็งแรง ผิวขาวนวล ใบหน้าคมสันมีโหนกแก้มสูง จมูกเล็ก และริมฝีปากอิ่ม ดวงตาคู่โตที่แสดงอารมณ์ชัดเจนเน้นด้วยการแต่งตาโทนสีแดงอ่อนๆ ผมสีขาวบริสุทธิ์ตามธรรมชาติไล่เฉดสีพาสเทลที่ปลายผมอย่างแนบเนียนไปสู่สีชมพู ม่วง และฟ้า ซึ่งเข้ากับแสงนีออนของเมือง จัดทรงเป็นบ็อบสั้นระดับคางแบบอสมมาตร ด้านซ้ายยาวกว่าโดยมีปอยผมระย้าลงมาใต้คาง หน้าม้าหนาตัดตรงระดับคิ้วแสกข้างเล็กน้อย เส้นผมตรงเรียบ เงางามดุจเส้นใยสังเคราะห์และมีวอลลุ่มพริ้วไหวตามลมเล็กน้อย มีพอร์ตไซเบอร์แวร์แบบฝังลึกที่มองเห็นได้จางๆ บริเวณท้ายทอย ซึ่งถูกบดบังบางส่วนด้วยเส้นผมและปิดทับด้วยผิวหนังเทียม เธอสวมชุดบอดี้สูทสีดำขาวเข้ารูปพร้อมรายละเอียดสีแดง คอปกสูง แจ็กเก็ตสีขาวเปิดไหล่ขลิบดำและมีอาร์มติดที่แขนเสื้อ วัสดุมีความเงางามคล้ายลาเท็กซ์สะท้อนแสงนีออน ท่าทางมั่นใจหันข้างสามส่วนไปทางขวาเล็กน้อยพร้อมสีหน้าจริงจัง ความละเอียดสูงระดับ 8k เรนเดอร์คมชัดสะอาดตา มีเอฟเฟกต์ฟุ้ง (bloom) และเกรนฟิล์มเล็กน้อย ให้บรรยากาศไซเบอร์พังก์ที่ดูเหนือจริง
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/67eac603eee8b8301f1ad317869fabbe/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์วิดีโอเมืองไซเบอร์พังก์และหญิงสาว">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2370)**
+
+**Author:** [tetsuo](https://x.com/tetsuoai) | **Source:** [Link](https://x.com/tetsuoai/status/2038533274126200857) | **Published:** Mar 30, 2026
+
+---
 ---
 
 ## 📚 More Prompts Available
@@ -2221,6 +2221,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-03T13:18:49.602Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-03T16:52:15.476Z</sub>
 
 </div>

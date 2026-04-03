@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **921** |
+| 📝 총 프롬프트 수 | **918** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-04-03** |
 
@@ -928,25 +928,6 @@ Wow! 로고 등장. 내레이션: “이 모든 것과 그 이상이, Wow! 에�
 **작성자:** [Master](https://x.com/DragonFlam7530) | **출처:** [Link](https://x.com/DragonFlam7530/status/2039072420225568994) | **게시일:** Mar 31, 2026
 
 ---
-### 야마토 오뎅 클레이 조각 스타일
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine을 위한 상세한 영상 생성 프롬프트입니다. One Piece의 야마토 오뎅이 처형대 위에 서 있고 주변에 군중이 모여 있는 모습을 매우 정교하고 사실적인 클레이 조각 스타일의 디지털 아트 일러스트로 구현하도록 요청합니다.
-
-#### 📝 프롬프트
-
-```
-매우 정교하고 사실적인 클레이 조각 스타일로 구현된 디지털 아트 일러스트, One Piece의 야마토 오뎅을 매우 상세하게 묘사함. 그녀는 처형대 위에 서 있고 주변은 군중으로 둘러싸여 있으며, 그녀는 크고 둥글며 육중한 가슴을 가지고 있다....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bc75fe22f872593a294c6bbd84ad881a/thumbnails/thumbnail.jpg" width="600" alt="야마토 오뎅 클레이 조각 스타일">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2470)**
-
-**작성자:** [OnDaCoB](https://x.com/OnlyCornY) | **출처:** [Link](https://x.com/OnlyCornY/status/2039068273837326721) | **게시일:** Mar 31, 2026
-
----
 ### 피해자에서 가해자로, 더 세게 휘둘러지는 채찍
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1718,44 +1699,6 @@ a b c...
 **작성자:** [Lynn Hocker](https://x.com/Auroraskye3993) | **출처:** [Link](https://x.com/Auroraskye3993/status/2038762853466010014) | **게시일:** Mar 30, 2026
 
 ---
-### 블랙홀 의상 제거 영상 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine을 위한 영상 생성 프롬프트로, 블랙홀이 여성의 의상을 빨아들여 헬멧만 남기는 장면을 연출합니다. 이때 자연스러운 피부 톤과 질감을 유지하는 것이 핵심입니다.
-
-#### 📝 프롬프트
-
-```
-블랙홀이 화면 안으로 들어오며 중력이 그녀의 의상을 블랙홀 속으로 빨아들여 헬멧만 남깁니다. 일반적인 피부 톤과 질감을 유지하며 사실적으로 표현하세요. 에어브러싱 처리는 하지 마세요.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b88b259e831c6db3facd1523f626fa87/thumbnails/thumbnail.jpg" width="600" alt="블랙홀 의상 제거 영상 프롬프트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2377)**
-
-**작성자:** [Hottest on Planet Earth!](https://x.com/Hotnessearth) | **출처:** [Link](https://x.com/Hotnessearth/status/2038759468968644939) | **게시일:** Mar 30, 2026
-
----
-### 셀카 영상 POV 비디오 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 비행기 화장실에서 매력적인 여성이 촬영하는 셀카 POV 영상을 요청하는 Grok Imagine용 상세 프롬프트로, 눈에 보이는 모공과 특정 머리카락/눈 특징 등 자연스러운 디테일을 강조합니다.
-
-#### 📝 프롬프트
-
-```
-셀카 영상, 비행기 화장실에서 눈에 보이는 모공과 자연스러운 신체 디테일을 가진 젊고 매력적인 밝은 피부 톤 여성의 POV, 뒤로 묶은 밝은 갈색 머리카락 사이로 얼굴을 감싸는 흩어진 머리카락 가닥들, 파란 눈, 캐주얼한 분위기 #grokimagine
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/43e8abeeb93704b38ad15ef969ddac25/thumbnails/thumbnail.jpg" width="600" alt="셀카 영상 POV 비디오 프롬프트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2387)**
-
-**작성자:** [Hottest on Planet Earth!](https://x.com/Hotnessearth) | **출처:** [Link](https://x.com/Hotnessearth/status/2038758646683738438) | **게시일:** Mar 30, 2026
-
----
 ### 1996년형 실버 Impala Super Sport 주행 영상
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2159,6 +2102,63 @@ Cyberpunk Edgerunners와 귀멸의 칼날 스타일이 혼합된 걸작 수준�
 **작성자:** [Doge Norway](https://x.com/DogecoinNorway) | **출처:** [Link](https://x.com/DogecoinNorway/status/2038545456100520247) | **게시일:** Mar 30, 2026
 
 ---
+### 긴장감 넘치는 황혼의 시네마틱 영상 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 고요한 호숫가에서 황혼을 배경으로 한 긴장감 넘치는 시네마틱 단편 영상을 위한 Grok Imagine용 상세 프롬프트입니다. 여성과 검은색 휴머노이드 로봇이 벤치를 향해 걸어가는 모습을 통해 분열과 불확실성을 강조합니다.
+
+#### 📝 프롬프트
+
+```
+고요한 호숫가에서 황혼을 배경으로 한 긴장감 넘치는 시네마틱 단편 영상. 한 여성과 매끄럽고 순수한 검은색의 현대적 휴머노이드 로봇이 프레임의 양쪽에서 천천히 단순한 나무 벤치를 향해 걸어오며, 강한 분열감과 불확실성을 자아냅니다. 분위기는...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/df3d80c17522a3e4b9593ac0889a7f7c/thumbnails/thumbnail.jpg" width="600" alt="긴장감 넘치는 황혼의 시네마틱 영상 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2385)**
+
+**작성자:** [Daisy](https://x.com/Daisy8320382290) | **출처:** [Link](https://x.com/Daisy8320382290/status/2038544153131602019) | **게시일:** Mar 30, 2026
+
+---
+### 톨킨 및 프라제타 스타일의 실크 키티 드래곤
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine을 사용하여 톨킨 신화와 프라제타의 강렬한 예술 스타일을 연상시키는 8k 수작업 및 수채화풍의 실크 키티 드래곤 영상 걸작을 만들기 위한 상세 프롬프트입니다. 반짝이는 청은색 비늘과 흐르는 듯한 붉은 불꽃 요소가 특징입니다.
+
+#### 📝 프롬프트
+
+```
+톨킨 신화와 프라제타의 불꽃 같은 예술 스타일로 그려낸 8k 수작업 및 수채화풍 걸작 — 반짝이는 청은색 비늘과 흐르는 듯한 붉은 불꽃을 가진 아름다운 실크 키티 드래곤...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ae24e2b7ccc3d696c86f335b13889fbb/thumbnails/thumbnail.jpg" width="600" alt="톨킨 및 프라제타 스타일의 실크 키티 드래곤">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2386)**
+
+**작성자:** [David Avenue Media](https://x.com/davidavenueai) | **출처:** [Link](https://x.com/davidavenueai/status/2038534115289706715) | **게시일:** Mar 30, 2026
+
+---
+### 사이버펑크 도시 풍경 및 여성 비디오 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 밤의 사이버펑크 도시 풍경을 배경으로, 독특한 화이트 및 파스텔 그라데이션 헤어, 사이버웨어, 몸에 딱 맞는 의상을 착용한 특정 여성 캐릭터를 중심으로 하는 비디오 생성용 Grok Imagine 프롬프트입니다. 이 프롬프트는 조명, 해상도(8k), 그리고 몽환적인 영화적 분위기를 위한 대기 효과를 상세히 지정합니다.
+
+#### 📝 프롬프트
+
+```
+보라색, 분홍색, 청록색, 자홍색의 강렬한 네온 불빛으로 밝혀진 밤의 사이버펑크 도시 풍경, 빛나는 홀로그램 광고판으로 뒤덮인 고층 빌딩들과 부드럽게 내리는 디지털 비. 전경에는 20대 후반의 여성, 날씬하고 탄탄한 체격, 창백하고 밝은 피부, 높은 광대뼈와 작은 코, 도톰한 입술을 가진 날렵하고 각진 얼굴형. 은은한 붉은색 아이 메이크업으로 강조된 크고 표현력이 풍부한 눈. 머리카락은 자연스러운 순백색이며, 끝부분은 도시의 네온 불빛과 어우러지는 분홍색, 보라색, 청록색의 부드러운 파스텔 그라데이션으로 매끄럽게 이어짐. 턱 길이의 세련된 비대칭 단발 스타일로, 왼쪽은 더 길게 늘어뜨려 턱 아래로 가느다란 머리카락이 내려오며, 눈썹 라인에 맞춰 일자로 자른 숱 많은 뱅 헤어는 약간 옆으로 치우친 가르마를 타고 있음. 합성 섬유처럼 매우 곧고 윤기 나며 매끄럽고, 바람에 살짝 날리는 듯한 볼륨감이 있음. 머리카락에 부분적으로 가려져 있고 합성 피부로 덮인 사이버웨어 포트가 두피 뒤쪽에 은은하게 보임. 붉은색 포인트가 들어간 몸에 딱 맞는 흑백 바디수트, 하이 칼라, 검은색 테두리와 소매 패치가 있는 오프숄더 화이트 재킷을 착용함. 네온 불빛을 반사하는 광택 있는 라텍스 소재 의상. 오른쪽을 살짝 향한 자신감 있는 3/4 측면 포즈와 진지한 표정. 고해상도 8k, 선명하고 깔끔한 렌더링, 은은한 블룸 효과와 필름 그레인, 몽환적인 사이버펑크 분위기.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/67eac603eee8b8301f1ad317869fabbe/thumbnails/thumbnail.jpg" width="600" alt="사이버펑크 도시 풍경 및 여성 비디오 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2370)**
+
+**작성자:** [tetsuo](https://x.com/tetsuoai) | **출처:** [Link](https://x.com/tetsuoai/status/2038533274126200857) | **게시일:** Mar 30, 2026
+
+---
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2220,6 +2220,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-04-03T13:18:47.160Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-04-03T16:52:13.561Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **921** |
+| 📝 Total Prompts | **918** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-04-03** |
 
@@ -928,25 +928,6 @@ Chiếc ghế này đã được phục hồi. Không có gì bị hỏng, khôn
 **Author:** [Master](https://x.com/DragonFlam7530) | **Source:** [Link](https://x.com/DragonFlam7530/status/2039072420225568994) | **Published:** Mar 31, 2026
 
 ---
-### Thẩm mỹ điêu khắc đất sét Yamato Oden
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video chi tiết cho Grok Imagine, yêu cầu minh họa theo phong cách nghệ thuật kỹ thuật số được kết xuất với thẩm mỹ điêu khắc đất sét chân thực, chi tiết cao, mô tả Yamato Oden từ One Piece đang đứng trên bệ hành hình giữa đám đông.
-
-#### 📝 Prompt
-
-```
-Minh họa theo phong cách nghệ thuật kỹ thuật số được kết xuất với thẩm mỹ điêu khắc đất sét chân thực, chi tiết cao, mô tả Yamato Oden từ One Piece với độ chi tiết cao. Cô ấy đang đứng trên bệ hành hình giữa đám đông, với vòng một to tròn và đầy đặn...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bc75fe22f872593a294c6bbd84ad881a/thumbnails/thumbnail.jpg" width="600" alt="Thẩm mỹ điêu khắc đất sét Yamato Oden">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2470)**
-
-**Author:** [OnDaCoB](https://x.com/OnlyCornY) | **Source:** [Link](https://x.com/OnlyCornY/status/2039068273837326721) | **Published:** Mar 31, 2026
-
----
 ### Nạn nhân kế thừa chiếc roi và vung nó mạnh mẽ hơn
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1718,44 +1699,6 @@ Hãy làm cho các đám mây và ánh sáng mặt trời xung quanh thánh giá
 **Author:** [Lynn Hocker](https://x.com/Auroraskye3993) | **Source:** [Link](https://x.com/Auroraskye3993/status/2038762853466010014) | **Published:** Mar 30, 2026
 
 ---
-### Câu lệnh tạo video về hố đen hút quần áo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Câu lệnh tạo video cho Grok Imagine với cảnh một hố đen hút quần áo của một người phụ nữ, chỉ để lại mũ bảo hiểm, đảm bảo giữ nguyên tông màu da và kết cấu chân thực.
-
-#### 📝 Prompt
-
-```
-Một hố đen xuất hiện trong khung hình và lực hấp dẫn hút quần áo của cô ấy vào trong hố, chỉ để lại chiếc mũ bảo hiểm. Hình ảnh vẫn giữ được sự chân thực với tông màu da và kết cấu tự nhiên. Không sử dụng hiệu ứng làm mịn da.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b88b259e831c6db3facd1523f626fa87/thumbnails/thumbnail.jpg" width="600" alt="Câu lệnh tạo video về hố đen hút quần áo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2377)**
-
-**Author:** [Hottest on Planet Earth!](https://x.com/Hotnessearth) | **Source:** [Link](https://x.com/Hotnessearth/status/2038759468968644939) | **Published:** Mar 30, 2026
-
----
-### Lời nhắc video POV quay kiểu selfie
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một lời nhắc chi tiết cho Grok Imagine để tạo video POV quay kiểu selfie một người phụ nữ quyến rũ trong nhà vệ sinh máy bay, nhấn mạnh các chi tiết tự nhiên như lỗ chân lông rõ rệt cùng các đặc điểm cụ thể về tóc và mắt.
-
-#### 📝 Prompt
-
-```
-Cảnh quay selfie, góc nhìn POV của một phụ nữ trẻ da trắng quyến rũ với lỗ chân lông rõ rệt và các chi tiết cơ thể tự nhiên trong nhà vệ sinh máy bay, tóc nâu nhạt buộc gọn với những sợi tóc lòa xòa tự nhiên ôm lấy khuôn mặt, đôi mắt xanh cùng phong cách tự nhiên #grokimagine
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/43e8abeeb93704b38ad15ef969ddac25/thumbnails/thumbnail.jpg" width="600" alt="Lời nhắc video POV quay kiểu selfie">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2387)**
-
-**Author:** [Hottest on Planet Earth!](https://x.com/Hotnessearth) | **Source:** [Link](https://x.com/Hotnessearth/status/2038758646683738438) | **Published:** Mar 30, 2026
-
----
 ### Video quay cảnh xe Impala Super Sport màu bạc đời 1996 đang chạy
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2160,6 +2103,63 @@ Một cảnh quay phong cách anime vẽ tay về một cô gái trên xe buýt,
 **Author:** [Doge Norway](https://x.com/DogecoinNorway) | **Source:** [Link](https://x.com/DogecoinNorway/status/2038545456100520247) | **Published:** Mar 30, 2026
 
 ---
+### Gợi ý video điện ảnh đầy kịch tính lúc hoàng hôn
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý chi tiết cho Grok Imagine để tạo video ngắn mang phong cách điện ảnh, kịch tính tại một hồ nước tĩnh lặng lúc hoàng hôn, với hình ảnh một người phụ nữ và một robot hình người màu đen đang đi về phía chiếc ghế dài, làm nổi bật sự chia cắt và cảm giác bất định.
+
+#### 📝 Prompt
+
+```
+Một video ngắn mang phong cách điện ảnh, đầy kịch tính tại một hồ nước tĩnh lặng lúc hoàng hôn. Một người phụ nữ và một robot hình người hiện đại, bóng bẩy với màu đen tuyền đang chậm rãi bước về phía một chiếc ghế gỗ đơn sơ từ hai phía đối diện của khung hình, tạo nên cảm giác chia cắt và bất định mạnh mẽ. Bầu không khí...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/df3d80c17522a3e4b9593ac0889a7f7c/thumbnails/thumbnail.jpg" width="600" alt="Gợi ý video điện ảnh đầy kịch tính lúc hoàng hôn">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2385)**
+
+**Author:** [Daisy](https://x.com/Daisy8320382290) | **Source:** [Link](https://x.com/Daisy8320382290/status/2038544153131602019) | **Published:** Mar 30, 2026
+
+---
+### Mèo rồng lụa theo phong cách Tolkien/Frazetta
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh chi tiết dành cho Grok Imagine để tạo ra một kiệt tác video về mèo rồng lụa, được kết xuất ở độ phân giải 8k, theo phong cách vẽ tay và sơn tay gợi nhớ đến thần thoại Tolkien và nghệ thuật rực lửa của Frazetta, với những chiếc vảy màu xanh bạc lấp lánh và các yếu tố màu đỏ rực rỡ uyển chuyển.
+
+#### 📝 Prompt
+
+```
+Kiệt tác 8k vẽ tay, sơn tay theo phong cách thần thoại Tolkien và nghệ thuật rực lửa của Frazetta — một chú mèo rồng lụa tuyệt đẹp với những chiếc vảy màu xanh bạc lấp lánh và các yếu tố màu đỏ rực rỡ uyển chuyển...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ae24e2b7ccc3d696c86f335b13889fbb/thumbnails/thumbnail.jpg" width="600" alt="Mèo rồng lụa theo phong cách Tolkien/Frazetta">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2386)**
+
+**Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2038534115289706715) | **Published:** Mar 30, 2026
+
+---
+### Gợi ý tạo video về khung cảnh thành phố Cyberpunk và nhân vật nữ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý (prompt) Grok Imagine cực kỳ chi tiết để tạo video về khung cảnh thành phố cyberpunk vào ban đêm, tập trung vào một nhân vật nữ cụ thể với mái tóc chuyển màu pastel và trắng độc đáo, thiết bị cyberware và trang phục ôm sát. Gợi ý này chỉ định rõ ánh sáng, độ phân giải (8k) và các hiệu ứng bầu không khí để tạo cảm giác điện ảnh huyền ảo.
+
+#### 📝 Prompt
+
+```
+Khung cảnh thành phố cyberpunk vào ban đêm được chiếu sáng bởi những ánh đèn neon rực rỡ với các tông màu tím, hồng, xanh lơ và đỏ tươi, cùng những tòa nhà chọc trời cao vút phủ đầy các bảng quảng cáo ba chiều phát sáng và những cơn mưa kỹ thuật số rơi nhẹ. Ở tiền cảnh, một người phụ nữ ở độ tuổi cuối đôi mươi, vóc dáng mảnh mai và săn chắc, làn da trắng sáng, các đường nét khuôn mặt góc cạnh sắc sảo với xương gò má cao, mũi nhỏ và đôi môi đầy đặn. Đôi mắt to biểu cảm được làm nổi bật bởi lớp trang điểm mắt màu đỏ tinh tế. Mái tóc có màu trắng tinh khiết tự nhiên với phần đuôi chuyển màu pastel mềm mại, hòa quyện hoàn hảo vào các sắc hồng, tím và xanh lơ đồng điệu với ánh sáng neon của thành phố, được tạo kiểu bob bất đối xứng ngang cằm bóng mượt, phía bên trái dài hơn với những lọn tóc mảnh kéo dài xuống dưới cằm, phần tóc mái bằng dày cắt ngang trán ở mức lông mày với đường rẽ ngôi hơi lệch, siêu thẳng, bóng mượt như sợi tổng hợp với độ phồng nhẹ nhàng do gió thổi. Một cổng cắm cyberware ẩn sâu được nhìn thấy tinh tế ở phía sau da đầu, một phần bị che khuất bởi tóc và phủ bằng da tổng hợp. Cô mặc một bộ bodysuit ôm sát màu đen trắng với các điểm nhấn màu đỏ, cổ cao, áo khoác trắng trễ vai với viền đen và một miếng vá trên tay áo, chất liệu giống như latex bóng loáng phản chiếu ánh đèn neon, tư thế ba phần tư tự tin hướng nhẹ sang phải với vẻ mặt nghiêm nghị. Độ phân giải cao 8k, kết xuất sắc nét sạch sẽ, hiệu ứng bloom và hạt phim tinh tế, bầu không khí cyberpunk huyền ảo.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/67eac603eee8b8301f1ad317869fabbe/thumbnails/thumbnail.jpg" width="600" alt="Gợi ý tạo video về khung cảnh thành phố Cyberpunk và nhân vật nữ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2370)**
+
+**Author:** [tetsuo](https://x.com/tetsuoai) | **Source:** [Link](https://x.com/tetsuoai/status/2038533274126200857) | **Published:** Mar 30, 2026
+
+---
 ---
 
 ## 📚 More Prompts Available
@@ -2221,6 +2221,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-03T13:18:52.460Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-03T16:52:17.550Z</sub>
 
 </div>

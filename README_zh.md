@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **921** |
+| 📝 提示词总数 | **918** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-04-03** |
 
@@ -928,25 +928,6 @@ Wow! Logo 浮现。画外音：“All this and much more, on Wow!...”
 **作者:** [Master](https://x.com/DragonFlam7530) | **来源:** [Link](https://x.com/DragonFlam7530/status/2039072420225568994) | **发布时间:** Mar 31, 2026
 
 ---
-### 大和御田黏土雕塑美学
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是为 Grok Imagine 准备的详细视频生成提示词，要求采用数字艺术风格插画，呈现出高度精细、逼真的黏土雕塑美学，描绘《海贼王》中的大和御田站在处刑台上，周围环绕着人群的场景。
-
-#### 📝 提示词
-
-```
-数字艺术风格插画，呈现出高度精细且逼真的黏土雕塑美学，高度还原《海贼王》中的大和御田。她站在处刑台上，周围环绕着人群，她拥有巨大的圆润丰满胸部……
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bc75fe22f872593a294c6bbd84ad881a/thumbnails/thumbnail.jpg" width="600" alt="大和御田黏土雕塑美学">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2470)**
-
-**作者:** [OnDaCoB](https://x.com/OnlyCornY) | **来源:** [Link](https://x.com/OnlyCornY/status/2039068273837326721) | **发布时间:** Mar 31, 2026
-
----
 ### 受害者继承了鞭子，挥舞得更加用力
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1718,44 +1699,6 @@ a b c...
 **作者:** [Lynn Hocker](https://x.com/Auroraskye3993) | **来源:** [Link](https://x.com/Auroraskye3993/status/2038762853466010014) | **发布时间:** Mar 30, 2026
 
 ---
-### 黑洞移除衣物视频提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于 Grok Imagine 的视频生成提示词：黑洞将女性的衣物吸走，仅留下头盔，同时保持逼真的肤色和纹理。
-
-#### 📝 提示词
-
-```
-一个黑洞进入画面，引力将她的衣物吸入黑洞，只留下她的头盔。保持逼真效果，呈现自然的肤色和纹理。无任何磨皮处理。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b88b259e831c6db3facd1523f626fa87/thumbnails/thumbnail.jpg" width="600" alt="黑洞移除衣物视频提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2377)**
-
-**作者:** [Hottest on Planet Earth!](https://x.com/Hotnessearth) | **来源:** [Link](https://x.com/Hotnessearth/status/2038759468968644939) | **发布时间:** Mar 30, 2026
-
----
-### 自拍视角 POV 视频提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是一份为 Grok Imagine 准备的详细提示词，要求生成一段在飞机洗手间内拍摄的女性自拍视角 POV 视频，强调可见毛孔、特定发型和眼睛特征等自然细节。
-
-#### 📝 提示词
-
-```
-自拍镜头，一位年轻迷人的白皙女性在飞机洗手间内的 POV 视角，皮肤毛孔清晰可见，带有自然的身体细节，浅棕色头发向后扎起，几缕散落的发丝修饰脸庞，蓝色眼睛，风格随性 #grokimagine
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/43e8abeeb93704b38ad15ef969ddac25/thumbnails/thumbnail.jpg" width="600" alt="自拍视角 POV 视频提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2387)**
-
-**作者:** [Hottest on Planet Earth!](https://x.com/Hotnessearth) | **来源:** [Link](https://x.com/Hotnessearth/status/2038758646683738438) | **发布时间:** Mar 30, 2026
-
----
 ### 1996 年银色 Impala Super Sport 行驶视频
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2160,6 +2103,63 @@ Oh Elon
 **作者:** [Doge Norway](https://x.com/DogecoinNorway) | **来源:** [Link](https://x.com/DogecoinNorway/status/2038545456100520247) | **发布时间:** Mar 30, 2026
 
 ---
+### 紧张的电影感黄昏视频提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 这是一份为 Grok Imagine 准备的详细提示词，要求生成一段以平静湖畔黄昏为背景的紧张电影感短视频，画面中一名女性与一个黑色人形机器人正走向长椅，旨在强调隔阂与不确定感。
+
+#### 📝 提示词
+
+```
+一段紧张且具有电影感的黄昏湖畔短视频。一名女性与一个外形流畅、纯黑色的现代人形机器人从画面两侧缓慢走向一张简单的木制长椅，营造出强烈的隔阂感与不确定性。氛围……
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/df3d80c17522a3e4b9593ac0889a7f7c/thumbnails/thumbnail.jpg" width="600" alt="紧张的电影感黄昏视频提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2385)**
+
+**作者:** [Daisy](https://x.com/Daisy8320382290) | **来源:** [Link](https://x.com/Daisy8320382290/status/2038544153131602019) | **发布时间:** Mar 30, 2026
+
+---
+### 托尔金 / 弗雷泽塔风格的丝绸小猫龙
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 这是一条为 Grok Imagine 准备的详细提示词，旨在创作一部丝绸小猫龙的视频杰作。渲染风格为 8k 手绘，融合了托尔金神话色彩与 Frazetta 炽热的艺术风格，呈现出闪烁的蓝银色鳞片和流动的火红色元素。
+
+#### 📝 提示词
+
+```
+托尔金神话与 Frazetta 炽热风格的 8k 手绘杰作 —— 一只美丽的丝绸小猫龙，拥有闪烁的蓝银色鳞片和流动的火红色...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ae24e2b7ccc3d696c86f335b13889fbb/thumbnails/thumbnail.jpg" width="600" alt="托尔金 / 弗雷泽塔风格的丝绸小猫龙">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2386)**
+
+**作者:** [David Avenue Media](https://x.com/davidavenueai) | **来源:** [Link](https://x.com/davidavenueai/status/2038534115289706715) | **发布时间:** Mar 30, 2026
+
+---
+### 赛博朋克城市景观与女性视频提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 这是一个用于 Grok Imagine 的高细节提示词，旨在生成一段赛博朋克风格的夜间城市景观视频。重点刻画了一位拥有独特白色与柔和渐变色头发、植入式赛博义体以及修身服装的女性角色。提示词详细说明了光影、分辨率（8k）以及营造空灵电影感的氛围效果。
+
+#### 📝 提示词
+
+```
+赛博朋克风格的夜间城市景观，被紫色、粉色、青色和洋红色的鲜艳霓虹灯照亮。高耸的摩天大楼覆盖着发光的全息广告牌，数字雨轻轻落下。前景中是一位二十多岁的女性，身材苗条且富有运动感，皮肤白皙，面部轮廓分明，颧骨高耸，鼻梁小巧，嘴唇丰满。大而富有表现力的眼睛，配以精致的红色眼妆。头发为纯白色，发梢带有柔和的粉彩渐变，与霓虹城市光影完美融合，呈现出粉色、紫色和青色的过渡。发型为利落的下巴长度不对称波波头，左侧较长，发丝垂至下巴下方，厚重的平刘海修剪至眉毛位置，略微偏分，质感如合成纤维般顺滑、光泽且笔直，带有轻微的随风飘逸感。后脑勺隐约可见一个深潜式赛博义体接口，部分被头发遮盖，并覆盖着合成皮肤。她身穿黑白相间的修身连体衣，带有红色点缀，高领设计，外搭白色露肩夹克，饰有黑色镶边和袖章，光泽感如乳胶材质，反射着霓虹灯光。她以自信的三分之二侧身姿态面向右侧，表情严肃。高分辨率 8k，渲染清晰锐利，带有微妙的辉光和胶片颗粒感，营造出空灵的赛博朋克氛围。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/67eac603eee8b8301f1ad317869fabbe/thumbnails/thumbnail.jpg" width="600" alt="赛博朋克城市景观与女性视频提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2370)**
+
+**作者:** [tetsuo](https://x.com/tetsuoai) | **来源:** [Link](https://x.com/tetsuoai/status/2038533274126200857) | **发布时间:** Mar 30, 2026
+
+---
 ---
 
 ## 📚 更多提示词
@@ -2221,6 +2221,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-04-03T13:18:38.943Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-04-03T16:52:03.948Z</sub>
 
 </div>

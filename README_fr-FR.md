@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **921** |
+| 📝 Total Prompts | **918** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-04-03** |
 
@@ -928,25 +928,6 @@ Ce banc est restauré. Rien n'est cassé, aucune latte n'est desserrée et il n'
 **Author:** [Master](https://x.com/DragonFlam7530) | **Source:** [Link](https://x.com/DragonFlam7530/status/2039072420225568994) | **Published:** Mar 31, 2026
 
 ---
-### Esthétique de sculpture en argile de Yamato Oden
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de génération vidéo détaillé pour Grok Imagine, demandant une illustration de style art numérique rendue avec une esthétique de sculpture en argile réaliste et très détaillée, représentant Yamato Oden de One Piece debout sur une plateforme d'exécution entourée par une foule.
-
-#### 📝 Prompt
-
-```
-Illustration de style art numérique rendue dans une esthétique de sculpture en argile réaliste et très détaillée, représentant Yamato Oden de One Piece avec un niveau de détail élevé. Elle se tient sur une plateforme d'exécution entourée par une foule, elle a de gros seins ronds et lourds....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bc75fe22f872593a294c6bbd84ad881a/thumbnails/thumbnail.jpg" width="600" alt="Esthétique de sculpture en argile de Yamato Oden">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2470)**
-
-**Author:** [OnDaCoB](https://x.com/OnlyCornY) | **Source:** [Link](https://x.com/OnlyCornY/status/2039068273837326721) | **Published:** Mar 31, 2026
-
----
 ### Les victimes héritent du fouet et le manient avec plus de vigueur
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1718,44 +1699,6 @@ Faites en sorte que les nuages et la lumière du soleil autour de la croix se d�
 **Author:** [Lynn Hocker](https://x.com/Auroraskye3993) | **Source:** [Link](https://x.com/Auroraskye3993/status/2038762853466010014) | **Published:** Mar 30, 2026
 
 ---
-### Prompt vidéo : retrait de vêtements par un trou noir
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de génération vidéo pour Grok Imagine où un trou noir aspire les vêtements d'une femme, ne laissant que son casque, tout en conservant des tons de peau et des textures réalistes.
-
-#### 📝 Prompt
-
-```
-Un trou noir entre dans le champ et la gravité aspire ses vêtements vers l'intérieur, ne laissant que son casque. Le rendu reste réaliste avec des tons de peau et des textures naturels. Aucun effet d'aérographe.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b88b259e831c6db3facd1523f626fa87/thumbnails/thumbnail.jpg" width="600" alt="Prompt vidéo : retrait de vêtements par un trou noir">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2377)**
-
-**Author:** [Hottest on Planet Earth!](https://x.com/Hotnessearth) | **Source:** [Link](https://x.com/Hotnessearth/status/2038759468968644939) | **Published:** Mar 30, 2026
-
----
-### Prompt vidéo POV de type selfie
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt détaillé pour Grok Imagine demandant une vidéo POV de type selfie d'une femme séduisante dans les toilettes d'un avion, mettant l'accent sur des détails naturels tels que les pores visibles et des caractéristiques spécifiques des cheveux et des yeux.
-
-#### 📝 Prompt
-
-```
-Vidéo de type selfie, POV d'une jeune femme séduisante au teint clair avec des pores visibles et des détails corporels naturels dans les toilettes d'un avion, cheveux châtain clair attachés avec quelques mèches lâches encadrant son visage, yeux bleus, style décontracté #grokimagine
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/43e8abeeb93704b38ad15ef969ddac25/thumbnails/thumbnail.jpg" width="600" alt="Prompt vidéo POV de type selfie">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2387)**
-
-**Author:** [Hottest on Planet Earth!](https://x.com/Hotnessearth) | **Source:** [Link](https://x.com/Hotnessearth/status/2038758646683738438) | **Published:** Mar 30, 2026
-
----
 ### Vidéo d'une Impala Super Sport argentée de 1996 en conduite
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2160,6 +2103,63 @@ Une scène de style anime dessinée à la main représentant une fille dans un b
 **Author:** [Doge Norway](https://x.com/DogecoinNorway) | **Source:** [Link](https://x.com/DogecoinNorway/status/2038545456100520247) | **Published:** Mar 30, 2026
 
 ---
+### Prompt vidéo cinématographique tendu au crépuscule
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt détaillé pour Grok Imagine demandant une courte vidéo cinématographique tendue, située au crépuscule au bord d'un lac calme, mettant en scène une femme et un robot humanoïde noir marchant vers un banc, soulignant la séparation et l'incertitude.
+
+#### 📝 Prompt
+
+```
+Une courte vidéo cinématographique tendue au crépuscule au bord d'un lac calme. Une femme et un robot humanoïde moderne, élégant et d'un noir pur, marchent lentement vers un banc en bois simple depuis les côtés opposés du cadre, créant un fort sentiment de séparation et d'incertitude. L'atmosphère...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/df3d80c17522a3e4b9593ac0889a7f7c/thumbnails/thumbnail.jpg" width="600" alt="Prompt vidéo cinématographique tendu au crépuscule">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2385)**
+
+**Author:** [Daisy](https://x.com/Daisy8320382290) | **Source:** [Link](https://x.com/Daisy8320382290/status/2038544153131602019) | **Published:** Mar 30, 2026
+
+---
+### Chat dragon en soie dans le style de Tolkien/Frazetta
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt détaillé pour Grok Imagine afin de créer un chef-d'œuvre vidéo d'un chat dragon en soie, rendu dans un style 8k, dessiné et peint à la main, rappelant la mythologie de Tolkien et l'art ardent de Frazetta, mettant en vedette des écailles bleu argenté chatoyantes et des éléments rouge feu fluides.
+
+#### 📝 Prompt
+
+```
+Chef-d'œuvre 8k dessiné et peint à la main dans le style du mythe de Tolkien et du feu de Frazetta — un magnifique chat dragon en soie avec des écailles bleu argenté chatoyantes et des éléments rouge feu fluides...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ae24e2b7ccc3d696c86f335b13889fbb/thumbnails/thumbnail.jpg" width="600" alt="Chat dragon en soie dans le style de Tolkien/Frazetta">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2386)**
+
+**Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2038534115289706715) | **Published:** Mar 30, 2026
+
+---
+### Prompt vidéo : Paysage urbain cyberpunk et femme
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt Grok Imagine très détaillé pour générer une vidéo d'un paysage urbain cyberpunk de nuit, mettant en scène une femme au caractère unique avec des cheveux dégradés blanc et pastel, des implants cybernétiques et une tenue moulante. Le prompt précise l'éclairage, la résolution (8k) et les effets atmosphériques pour un rendu cinématographique éthéré.
+
+#### 📝 Prompt
+
+```
+Un paysage urbain cyberpunk de nuit illuminé par des néons vibrants dans des tons de violet, rose, cyan et magenta, avec des gratte-ciel imposants couverts de panneaux publicitaires holographiques lumineux et une pluie numérique tombant doucement. Au premier plan, une femme d'une vingtaine d'années, à la silhouette svelte et athlétique, au teint clair, aux traits du visage anguleux et marqués avec des pommettes hautes, un petit nez et des lèvres pulpeuses. De grands yeux expressifs accentués par un maquillage des yeux rouge subtil. Ses cheveux sont d'un blanc pur naturel avec un dégradé pastel doux aux pointes, passant harmonieusement au rose, au violet et au cyan pour s'accorder à la lueur des néons de la ville, coiffés en un carré asymétrique élégant arrivant au menton, le côté gauche plus long avec des mèches fines descendant sous le menton, une frange épaisse et droite coupée au niveau des sourcils avec une raie légèrement décentrée, ultra-lisses, brillants et soyeux comme des fibres synthétiques avec un léger volume balayé par le vent. Un port cybernétique est subtilement visible à l'arrière du crâne, partiellement dissimulé par les cheveux et recouvert d'une peau synthétique. Elle porte une combinaison moulante noire et blanche avec des accents rouges, un col haut, une veste blanche sans épaules avec des bordures noires et un écusson sur la manche, dans une matière brillante semblable à du latex reflétant les néons, dans une pose confiante de trois-quarts légèrement tournée vers la droite avec une expression sérieuse. Haute résolution 8k, rendu net et précis, léger effet de bloom et grain de film, atmosphère cyberpunk éthérée.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/67eac603eee8b8301f1ad317869fabbe/thumbnails/thumbnail.jpg" width="600" alt="Prompt vidéo : Paysage urbain cyberpunk et femme">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2370)**
+
+**Author:** [tetsuo](https://x.com/tetsuoai) | **Source:** [Link](https://x.com/tetsuoai/status/2038533274126200857) | **Published:** Mar 30, 2026
+
+---
 ---
 
 ## 📚 More Prompts Available
@@ -2221,6 +2221,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-03T13:19:05.095Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-03T16:52:26.688Z</sub>
 
 </div>

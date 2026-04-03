@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **921** |
+| 📝 Total Prompts | **918** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-04-03** |
 
@@ -928,25 +928,6 @@ Wow! लोगो का प्रकट होना। ऑफ-स्क्र�
 **Author:** [Master](https://x.com/DragonFlam7530) | **Source:** [Link](https://x.com/DragonFlam7530/status/2039072420225568994) | **Published:** Mar 31, 2026
 
 ---
-### Yamato Oden क्ले स्कल्पचर एस्थेटिक
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक विस्तृत वीडियो जनरेशन प्रॉम्प्ट, जिसमें अत्यधिक विस्तृत, यथार्थवादी क्ले स्कल्पचर एस्थेटिक के साथ डिजिटल आर्ट स्टाइल चित्रण का अनुरोध किया गया है, जिसमें One Piece के Yamato Oden को भीड़ से घिरे हुए एक निष्पादन मंच (execution platform) पर खड़े दिखाया गया है।
-
-#### 📝 Prompt
-
-```
-अत्यधिक विस्तृत यथार्थवादी क्ले स्कल्पचर एस्थेटिक में रेंडर किया गया डिजिटल आर्ट स्टाइल चित्रण, One Piece से Yamato Oden का एक अत्यधिक विस्तृत रूप। वह भीड़ से घिरे एक निष्पादन मंच पर खड़ी है, उसके स्तन विशाल, गोल और भारी हैं...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bc75fe22f872593a294c6bbd84ad881a/thumbnails/thumbnail.jpg" width="600" alt="Yamato Oden क्ले स्कल्पचर एस्थेटिक">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2470)**
-
-**Author:** [OnDaCoB](https://x.com/OnlyCornY) | **Source:** [Link](https://x.com/OnlyCornY/status/2039068273837326721) | **Published:** Mar 31, 2026
-
----
 ### पीड़ित जो चाबुक विरासत में पाते हैं और उसे और जोर से चलाते हैं
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1718,44 +1699,6 @@ Lego Pixar स्टाइल में एक जीवंत दृश्य, 
 **Author:** [Lynn Hocker](https://x.com/Auroraskye3993) | **Source:** [Link](https://x.com/Auroraskye3993/status/2038762853466010014) | **Published:** Mar 30, 2026
 
 ---
-### ब्लैक होल क्लोदिंग रिमूवल वीडियो प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक वीडियो जनरेशन प्रॉम्प्ट, जिसमें एक ब्लैक होल एक महिला के कपड़ों को खींच लेता है और केवल उसका हेलमेट बचता है, साथ ही यथार्थवादी स्किन टोन और टेक्सचर को बनाए रखता है।
-
-#### 📝 Prompt
-
-```
-एक ब्लैक होल फ्रेम में आता है और गुरुत्वाकर्षण उसके कपड़ों को खींचकर होल के अंदर ले जाता है, जिससे केवल उसका हेलमेट बचता है। सामान्य स्किन टोन और टेक्सचर के साथ यथार्थवादी बना रहता है। कोई एयरब्रशिंग नहीं।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b88b259e831c6db3facd1523f626fa87/thumbnails/thumbnail.jpg" width="600" alt="ब्लैक होल क्लोदिंग रिमूवल वीडियो प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2377)**
-
-**Author:** [Hottest on Planet Earth!](https://x.com/Hotnessearth) | **Source:** [Link](https://x.com/Hotnessearth/status/2038759468968644939) | **Published:** Mar 30, 2026
-
----
-### सेल्फी फुटेज POV वीडियो प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक विस्तृत प्रॉम्प्ट, जिसमें हवाई जहाज के शौचालय में एक आकर्षक महिला का सेल्फी फुटेज POV वीडियो मांगा गया है। इसमें प्राकृतिक विवरणों जैसे कि दिखाई देने वाले रोमछिद्रों और बालों/आंखों की विशिष्ट विशेषताओं पर जोर दिया गया है।
-
-#### 📝 Prompt
-
-```
-सेल्फी फुटेज, हवाई जहाज के शौचालय में एक युवा आकर्षक गोरी महिला का POV, जिसमें त्वचा के रोमछिद्र और प्राकृतिक शारीरिक विवरण दिखाई दे रहे हैं, हल्के भूरे रंग के बाल पीछे बंधे हुए हैं और चेहरे पर कुछ लटें खुली हैं, नीली आंखें, कैजुअल लुक #grokimagine
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/43e8abeeb93704b38ad15ef969ddac25/thumbnails/thumbnail.jpg" width="600" alt="सेल्फी फुटेज POV वीडियो प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2387)**
-
-**Author:** [Hottest on Planet Earth!](https://x.com/Hotnessearth) | **Source:** [Link](https://x.com/Hotnessearth/status/2038758646683738438) | **Published:** Mar 30, 2026
-
----
 ### 1996 सिल्वर Impala Super Sport की राइडिंग वीडियो
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2160,6 +2103,63 @@ Oh Elon
 **Author:** [Doge Norway](https://x.com/DogecoinNorway) | **Source:** [Link](https://x.com/DogecoinNorway/status/2038545456100520247) | **Published:** Mar 30, 2026
 
 ---
+### तनावपूर्ण सिनेमैटिक डस्क वीडियो प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक विस्तृत प्रॉम्प्ट, जिसमें एक शांत झील के किनारे शाम के समय का तनावपूर्ण, सिनेमैटिक लघु वीडियो मांगा गया है। इसमें एक महिला और एक काला ह्यूमनॉइड रोबोट एक बेंच की ओर चलते हुए दिखाई देते हैं, जो विभाजन और अनिश्चितता को दर्शाता है।
+
+#### 📝 Prompt
+
+```
+शाम के समय एक शांत झील के किनारे एक तनावपूर्ण, सिनेमैटिक लघु वीडियो। एक महिला और एक स्लीक, पूरी तरह से काले रंग का आधुनिक ह्यूमनॉइड रोबोट फ्रेम के विपरीत दिशाओं से धीरे-धीरे एक साधारण लकड़ी की बेंच की ओर चलते हैं, जो विभाजन और अनिश्चितता की एक मजबूत भावना पैदा करते हैं। वातावरण...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/df3d80c17522a3e4b9593ac0889a7f7c/thumbnails/thumbnail.jpg" width="600" alt="तनावपूर्ण सिनेमैटिक डस्क वीडियो प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2385)**
+
+**Author:** [Daisy](https://x.com/Daisy8320382290) | **Source:** [Link](https://x.com/Daisy8320382290/status/2038544153131602019) | **Published:** Mar 30, 2026
+
+---
+### टोलकीन/फ्राज़ेटा शैली में सिल्क किटी ड्रैगन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक विस्तृत प्रॉम्प्ट, जो टोलकीन की पौराणिक कथाओं और फ्राज़ेटा की ज्वलंत कला शैली की याद दिलाने वाली 8k, हाथ से बनाई गई और हाथ से पेंट की गई शैली में एक सिल्क किटी ड्रैगन की वीडियो मास्टरपीस तैयार करेगा, जिसमें झिलमिलाते नीले-चांदी के तराजू और बहते हुए ज्वलंत लाल तत्व शामिल हैं।
+
+#### 📝 Prompt
+
+```
+टोलकीन मिथक और फ्राज़ेटा फायर की शैली में हाथ से बनाई गई, हाथ से पेंट की गई 8k मास्टरपीस — झिलमिलाते नीले-चांदी के तराजू और बहते हुए ज्वलंत लाल तत्वों के साथ एक सुंदर सिल्क किटी ड्रैगन...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ae24e2b7ccc3d696c86f335b13889fbb/thumbnails/thumbnail.jpg" width="600" alt="टोलकीन/फ्राज़ेटा शैली में सिल्क किटी ड्रैगन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2386)**
+
+**Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2038534115289706715) | **Published:** Mar 30, 2026
+
+---
+### साइबरपंक सिटीस्केप और महिला वीडियो प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> रात के साइबरपंक सिटीस्केप का वीडियो बनाने के लिए एक अत्यधिक विस्तृत Grok Imagine प्रॉम्प्ट, जिसमें एक विशिष्ट महिला पात्र पर ध्यान केंद्रित किया गया है, जिसके बाल सफेद और पेस्टल ग्रेडिएंट के हैं, साथ ही साइबरवेयर और फिटिंग आउटफिट भी है। प्रॉम्प्ट में लाइटिंग, रिज़ॉल्यूशन (8k) और एक ईथरियल सिनेमैटिक अनुभव के लिए वायुमंडलीय प्रभावों का विवरण दिया गया है।
+
+#### 📝 Prompt
+
+```
+रात का एक साइबरपंक सिटीस्केप जो बैंगनी, गुलाबी, सियान और मैजेंटा रंगों की जीवंत नियॉन लाइटों से जगमगा रहा है, जिसमें चमकते हुए होलोग्राफिक बिलबोर्ड से ढकी गगनचुंबी इमारतें हैं और हल्की डिजिटल बारिश हो रही है। अग्रभूमि में, बीस के दशक के अंत की एक महिला, छरहरी और एथलेटिक बनावट, हल्की गोरी त्वचा, ऊंचे गालों के साथ तीखे कोणीय चेहरे के फीचर्स, छोटी नाक और भरे हुए होंठ। सूक्ष्म लाल आई मेकअप से उभरी हुई बड़ी अभिव्यंजक आंखें। बाल प्राकृतिक रूप से शुद्ध सफेद हैं, जिनके सिरों पर हल्का पेस्टल ग्रेडिएंट है जो नियॉन सिटी ग्लो से मेल खाते हुए गुलाबी, बैंगनी और सियान रंगों में सहजता से बदल जाता है, जिसे स्लीक चिन-लेंथ एसिमेट्रिकल स्प्लिट बॉब स्टाइल में रखा गया है, बाईं ओर का हिस्सा लंबा है और ठुड्डी के नीचे तक जाता है, माथे पर भौंहों के स्तर पर सीधे कटे हुए घने ब्लंट बैंग्स हैं, जो सिंथेटिक फाइबर की तरह अल्ट्रा-स्ट्रेट, चमकदार और स्मूथ हैं, जिनमें हवा से हल्का वॉल्यूम है। खोपड़ी के पिछले हिस्से पर एक डीप डाइव साइबरवेयर पोर्ट सूक्ष्म रूप से दिखाई दे रहा है, जो बालों से आंशिक रूप से ढका हुआ है और सिंथेटिक त्वचा से ढका है। उसने लाल लहजे के साथ एक फिटिंग ब्लैक एंड व्हाइट बॉडीसूट पहना है, जिसमें हाई कॉलर, ब्लैक ट्रिम के साथ ऑफ-शोल्डर सफेद जैकेट और स्लीव पर एक पैच है, चमकदार लेटेक्स जैसा मटेरियल नियॉन लाइटों को प्रतिबिंबित कर रहा है, गंभीर अभिव्यक्ति के साथ थोड़ा दाईं ओर झुकी हुई आत्मविश्वासपूर्ण थ्री-क्वार्टर पोज़। हाई रिज़ॉल्यूशन 8k, शार्प क्लीन रेंडर, सूक्ष्म ब्लूम और फिल्म ग्रेन, ईथरियल साइबरपंक वातावरण।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/67eac603eee8b8301f1ad317869fabbe/thumbnails/thumbnail.jpg" width="600" alt="साइबरपंक सिटीस्केप और महिला वीडियो प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2370)**
+
+**Author:** [tetsuo](https://x.com/tetsuoai) | **Source:** [Link](https://x.com/tetsuoai/status/2038533274126200857) | **Published:** Mar 30, 2026
+
+---
 ---
 
 ## 📚 More Prompts Available
@@ -2221,6 +2221,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-03T13:18:54.941Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-03T16:52:19.408Z</sub>
 
 </div>

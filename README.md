@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **921** |
+| 📝 Total Prompts | **918** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-04-03** |
 
@@ -928,25 +928,6 @@ This bench is restored. Nothing is broken no loose slats and there isn’t a sla
 **Author:** [Master](https://x.com/DragonFlam7530) | **Source:** [Link](https://x.com/DragonFlam7530/status/2039072420225568994) | **Published:** Mar 31, 2026
 
 ---
-### Yamato Oden Clay Sculpture Aesthetic
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed video generation prompt for Grok Imagine, requesting a digital art style illustration rendered with a highly detailed, realistic clay sculpture aesthetic, depicting Yamato Oden from One Piece standing on an execution platform surrounded by a crowd.
-
-#### 📝 Prompt
-
-```
-Digital art style illustration rendered in highly detailed realistic clay sculpture aesthetic, a highly detailed Yamato oden from one piece. She’s standing on an execution platform surrounded by a crowd she has giant round heavy breasts....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bc75fe22f872593a294c6bbd84ad881a/thumbnails/thumbnail.jpg" width="600" alt="Yamato Oden Clay Sculpture Aesthetic">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2470)**
-
-**Author:** [OnDaCoB](https://x.com/OnlyCornY) | **Source:** [Link](https://x.com/OnlyCornY/status/2039068273837326721) | **Published:** Mar 31, 2026
-
----
 ### Victims inheriting the whip and swinging it harder
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1718,44 +1699,6 @@ Make the clouds and sunlight around the cross move joyfully. Make the clouds mov
 **Author:** [Lynn Hocker](https://x.com/Auroraskye3993) | **Source:** [Link](https://x.com/Auroraskye3993/status/2038762853466010014) | **Published:** Mar 30, 2026
 
 ---
-### Black Hole Clothing Removal Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video generation prompt for Grok Imagine where a black hole pulls away a woman's clothing, leaving only her helmet, maintaining realistic skin tone and textures.
-
-#### 📝 Prompt
-
-```
-A black hole comes into frame and the gravity pulls her clothing away into the hole leaving only her helmet. Remains realistic with normal skin tone and textures. No airbrushing.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b88b259e831c6db3facd1523f626fa87/thumbnails/thumbnail.jpg" width="600" alt="Black Hole Clothing Removal Video Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2377)**
-
-**Author:** [Hottest on Planet Earth!](https://x.com/Hotnessearth) | **Source:** [Link](https://x.com/Hotnessearth/status/2038759468968644939) | **Published:** Mar 30, 2026
-
----
-### Selfie Footage POV Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for Grok Imagine requesting a selfie footage POV video of an attractive woman in an airplane lavatory, emphasizing natural details like visible pores and specific hair/eye features.
-
-#### 📝 Prompt
-
-```
-Selfie footage, POV of a young attractive fair-skinned woman with visible pores and natural body details in an airplane lavatory, light brown hair tied back with loose individual strands framing her face, blue eyes with a casual #grokimagine
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/43e8abeeb93704b38ad15ef969ddac25/thumbnails/thumbnail.jpg" width="600" alt="Selfie Footage POV Video Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2387)**
-
-**Author:** [Hottest on Planet Earth!](https://x.com/Hotnessearth) | **Source:** [Link](https://x.com/Hotnessearth/status/2038758646683738438) | **Published:** Mar 30, 2026
-
----
 ### 1996 silver Impala Super Sport riding video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2160,6 +2103,63 @@ A hand-drawn anime-style scene of a girl on a bus, with a contemplative expressi
 **Author:** [Doge Norway](https://x.com/DogecoinNorway) | **Source:** [Link](https://x.com/DogecoinNorway/status/2038545456100520247) | **Published:** Mar 30, 2026
 
 ---
+### Tense Cinematic Dusk Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for Grok Imagine requesting a tense, cinematic short video set at dusk by a calm lake, featuring a woman and a black humanoid robot walking toward a bench, emphasizing divide and uncertainty.
+
+#### 📝 Prompt
+
+```
+A tense, cinematic short video at dusk by a calm lake. A woman and a sleek, pure black modern humanoid robot walk slowly toward a simple wooden bench from opposite sides of the frame, creating a strong sense of divide and uncertainty. The atmosphere...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/df3d80c17522a3e4b9593ac0889a7f7c/thumbnails/thumbnail.jpg" width="600" alt="Tense Cinematic Dusk Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2385)**
+
+**Author:** [Daisy](https://x.com/Daisy8320382290) | **Source:** [Link](https://x.com/Daisy8320382290/status/2038544153131602019) | **Published:** Mar 30, 2026
+
+---
+### Silk Kitty Dragon in Tolkien/Frazetta Style
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for Grok Imagine to create a video masterpiece of a silk kitty dragon, rendered in an 8k, hand-drawn, hand-painted style reminiscent of Tolkien mythology and Frazetta's fiery art, featuring shimmering blue-silver scales and flowing fiery red elements.
+
+#### 📝 Prompt
+
+```
+Hand drawn, hand painted 8k masterpiece in the style of Tolkien myth and Frazetta fire — a beautiful silk kitty dragon with shimmering blue-silver scales and flowing fiery red...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ae24e2b7ccc3d696c86f335b13889fbb/thumbnails/thumbnail.jpg" width="600" alt="Silk Kitty Dragon in Tolkien/Frazetta Style">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2386)**
+
+**Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2038534115289706715) | **Published:** Mar 30, 2026
+
+---
+### Cyberpunk Cityscape and Woman Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed Grok Imagine prompt for generating a video of a cyberpunk cityscape at night, focusing on a specific woman character with unique white and pastel gradient hair, cyberware, and a form-fitting outfit. The prompt specifies lighting, resolution (8k), and atmospheric effects for an ethereal cinematic feel.
+
+#### 📝 Prompt
+
+```
+A cyberpunk cityscape at night illuminated by vibrant neon lights in shades of purple, pink, cyan, and magenta, with towering skyscrapers covered in glowing holographic billboards and digital rain falling softly. In the foreground, a woman in her late twenties, slender and athletic build, pale light skin, sharp angular facial features with high cheekbones, small nose, and full lips. Large expressive eyes accentuated by subtle red eye makeup. Hair is naturally pure white with a soft pastel gradient at the ends transitioning seamlessly into pinks, purples, and cyans that match the neon city glow, styled in a sleek chin-length asymmetrical split bob, left side longer with wispy strands extending below the chin, thick blunt bangs cut straight across the forehead at eyebrow level with a slight off-center part, ultra-straight, glossy, and smooth like synthetic fibers with subtle windswept volume. A deep dive cyberware port subtly visible at the back of the scalp, partially concealed by hair and covered with synthetic skin. She wears a form-fitting black and white bodysuit with red accents, high collar, off-shoulder white jacket with black trim and a patch on the sleeve, glossy latex-like material reflecting neon lights, confident three-quarter pose facing slightly right with a serious expression. High resolution 8k, sharp clean render, subtle bloom and film grain, ethereal cyberpunk atmosphere.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/67eac603eee8b8301f1ad317869fabbe/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Cityscape and Woman Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2370)**
+
+**Author:** [tetsuo](https://x.com/tetsuoai) | **Source:** [Link](https://x.com/tetsuoai/status/2038533274126200857) | **Published:** Mar 30, 2026
+
+---
 ---
 
 ## 📚 More Prompts Available
@@ -2221,6 +2221,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-03T13:18:36.302Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-03T16:52:01.824Z</sub>
 
 </div>

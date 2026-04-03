@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **921** |
+| 📝 Total Prompts | **918** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-04-03** |
 
@@ -928,25 +928,6 @@ Bu bank restore edilmiştir. Hiçbir yeri kırık değildir, gevşek çıtası y
 **Author:** [Master](https://x.com/DragonFlam7530) | **Source:** [Link](https://x.com/DragonFlam7530/status/2039072420225568994) | **Published:** Mar 31, 2026
 
 ---
-### Yamato Oden Kil Heykel Estetiği
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için detaylı bir video oluşturma istemi; One Piece'ten Yamato Oden'in infaz platformunda kalabalık arasında durduğu, yüksek detaylı ve gerçekçi kil heykel estetiğiyle işlenmiş dijital sanat tarzında bir illüstrasyon talep ediyor.
-
-#### 📝 Prompt
-
-```
-Yüksek detaylı ve gerçekçi kil heykel estetiğiyle işlenmiş dijital sanat tarzında illüstrasyon, One Piece'ten son derece detaylı bir Yamato Oden. Bir infaz platformunda, etrafı kalabalıkla çevrili bir şekilde duruyor ve devasa, yuvarlak, ağır göğüslere sahip...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bc75fe22f872593a294c6bbd84ad881a/thumbnails/thumbnail.jpg" width="600" alt="Yamato Oden Kil Heykel Estetiği">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2470)**
-
-**Author:** [OnDaCoB](https://x.com/OnlyCornY) | **Source:** [Link](https://x.com/OnlyCornY/status/2039068273837326721) | **Published:** Mar 31, 2026
-
----
 ### Kırbacı devralıp daha sert savuran kurbanlar
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1718,44 +1699,6 @@ Haçın etrafındaki bulutların ve güneş ışığının neşeli bir şekilde 
 **Author:** [Lynn Hocker](https://x.com/Auroraskye3993) | **Source:** [Link](https://x.com/Auroraskye3993/status/2038762853466010014) | **Published:** Mar 30, 2026
 
 ---
-### Kara Delik Kıyafet Çıkarma Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir kara deliğin bir kadının kıyafetlerini çekip aldığı, geriye sadece kaskının kaldığı, gerçekçi cilt tonu ve dokularını koruyan bir Grok Imagine video oluşturma istemi.
-
-#### 📝 Prompt
-
-```
-Bir kara delik kadraja giriyor ve yerçekimi kıyafetlerini çekerek kara deliğin içine alıyor, geriye sadece kaskı kalıyor. Normal cilt tonu ve dokularıyla gerçekçi kalıyor. Hava fırçası (airbrush) efekti yok.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b88b259e831c6db3facd1523f626fa87/thumbnails/thumbnail.jpg" width="600" alt="Kara Delik Kıyafet Çıkarma Video İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2377)**
-
-**Author:** [Hottest on Planet Earth!](https://x.com/Hotnessearth) | **Source:** [Link](https://x.com/Hotnessearth/status/2038759468968644939) | **Published:** Mar 30, 2026
-
----
-### Selfie Çekimi POV Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için, bir uçak tuvaletinde çekilmiş, görünür gözenekler ve belirli saç/göz özellikleri gibi doğal detayları vurgulayan, çekici bir kadının selfie POV videosunu talep eden ayrıntılı bir istem.
-
-#### 📝 Prompt
-
-```
-Selfie çekimi, uçak tuvaletinde görünür gözenekleri ve doğal vücut detayları olan genç, çekici, açık tenli bir kadının POV açısı, arkadan toplanmış açık kahverengi saçlar, yüzünü çevreleyen dağınık saç tutamları, mavi gözler, günlük tarz #grokimagine
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/43e8abeeb93704b38ad15ef969ddac25/thumbnails/thumbnail.jpg" width="600" alt="Selfie Çekimi POV Video İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2387)**
-
-**Author:** [Hottest on Planet Earth!](https://x.com/Hotnessearth) | **Source:** [Link](https://x.com/Hotnessearth/status/2038758646683738438) | **Published:** Mar 30, 2026
-
----
 ### 1996 model gümüş renkli Impala Super Sport sürüş videosu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2160,6 +2103,63 @@ Otobüste düşünceli bir ifadeyle oturan bir kızın ve bulanık dış mekan m
 **Author:** [Doge Norway](https://x.com/DogecoinNorway) | **Source:** [Link](https://x.com/DogecoinNorway/status/2038545456100520247) | **Published:** Mar 30, 2026
 
 ---
+### Gerilimli Sinematik Alacakaranlık Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için; sakin bir göl kenarında, alacakaranlıkta geçen, bir kadın ve siyah insansı bir robotun bir banka doğru yürüdüğü, ayrılık ve belirsizlik temasını vurgulayan gerilimli ve sinematik bir kısa video istemi.
+
+#### 📝 Prompt
+
+```
+Sakin bir göl kenarında, alacakaranlıkta geçen gerilimli ve sinematik bir kısa video. Bir kadın ve şık, tamamen siyah, modern insansı bir robot, karenin zıt taraflarından yavaşça sade bir ahşap banka doğru yürüyor; bu durum güçlü bir ayrılık ve belirsizlik hissi yaratıyor. Atmosfer...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/df3d80c17522a3e4b9593ac0889a7f7c/thumbnails/thumbnail.jpg" width="600" alt="Gerilimli Sinematik Alacakaranlık Video İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2385)**
+
+**Author:** [Daisy](https://x.com/Daisy8320382290) | **Source:** [Link](https://x.com/Daisy8320382290/status/2038544153131602019) | **Published:** Mar 30, 2026
+
+---
+### Tolkien/Frazetta Tarzında İpek Kedi Ejderha
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için Tolkien mitolojisini ve Frazetta'nın ateşli sanat tarzını anımsatan, 8k çözünürlükte, elle çizilmiş ve boyanmış, parıldayan mavi-gümüş pullara ve akıcı ateş kırmızısı unsurlara sahip bir ipek kedi ejderha video şaheseri oluşturmaya yönelik detaylı bir komut.
+
+#### 📝 Prompt
+
+```
+Tolkien mitolojisi ve Frazetta ateşi tarzında elle çizilmiş, elle boyanmış 8k şaheser — parıldayan mavi-gümüş pullara ve akıcı ateş kırmızısı unsurlara sahip güzel bir ipek kedi ejderha...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ae24e2b7ccc3d696c86f335b13889fbb/thumbnails/thumbnail.jpg" width="600" alt="Tolkien/Frazetta Tarzında İpek Kedi Ejderha">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2386)**
+
+**Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2038534115289706715) | **Published:** Mar 30, 2026
+
+---
+### Cyberpunk Şehir Manzarası ve Kadın Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gece vakti bir cyberpunk şehir manzarasının videosunu oluşturmak için oldukça detaylı bir Grok Imagine istemi; benzersiz beyaz ve pastel geçişli saçlara, sibernetik implantlara ve vücuda oturan bir kıyafete sahip belirli bir kadın karaktere odaklanıyor. İstem; aydınlatma, çözünürlük (8k) ve ruhani bir sinematik his için atmosferik efektleri belirtiyor.
+
+#### 📝 Prompt
+
+```
+Mor, pembe, camgöbeği ve macenta tonlarındaki canlı neon ışıklarla aydınlatılan, parlayan holografik reklam panolarıyla kaplı yüksek gökdelenlerin olduğu ve hafifçe dijital yağmurun yağdığı gece vakti bir cyberpunk şehir manzarası. Ön planda, yirmili yaşlarının sonlarında, ince ve atletik yapılı, açık tenli, yüksek elmacık kemikleri, küçük burun ve dolgun dudaklara sahip keskin yüz hatlı bir kadın. Hafif kırmızı göz makyajıyla vurgulanmış büyük, etkileyici gözler. Saçları, neon şehir ışıltısıyla uyumlu pembe, mor ve camgöbeği tonlarına kusursuz bir şekilde geçiş yapan yumuşak pastel uçlara sahip, doğal saf beyaz renkte; çene hizasında asimetrik kesim, sol tarafı çenenin altına kadar uzanan ince tutamlarla, kaş hizasında düz kesim küt perçemli, hafif yan ayrılmış, sentetik lifler gibi ultra düz, parlak ve pürüzsüz, hafif rüzgarda uçuşan hacimli bir modelde. Kafa derisinin arkasında, saçlarla kısmen gizlenmiş ve sentetik deriyle kaplı, derinlemesine bir sibernetik port girişi hafifçe görünüyor. Üzerinde kırmızı detaylı, yüksek yakalı, siyah beyaz vücuda oturan bir bodysuit, siyah şeritli ve kolunda bir arma bulunan omuzları açık beyaz bir ceket var; neon ışıklarını yansıtan parlak lateks benzeri bir malzeme. Hafifçe sağa dönük, ciddi ifadeli, kendinden emin üç çeyrek duruş. Yüksek çözünürlüklü 8k, keskin ve temiz render, hafif parlama ve film greni, ruhani cyberpunk atmosferi.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/67eac603eee8b8301f1ad317869fabbe/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Şehir Manzarası ve Kadın Video İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2370)**
+
+**Author:** [tetsuo](https://x.com/tetsuoai) | **Source:** [Link](https://x.com/tetsuoai/status/2038533274126200857) | **Published:** Mar 30, 2026
+
+---
 ---
 
 ## 📚 More Prompts Available
@@ -2221,6 +2221,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-03T13:19:15.213Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-03T16:52:35.172Z</sub>
 
 </div>
