@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **918** |
+| 📝 Total Prompts | **943** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-04-04** |
 
@@ -189,6 +189,483 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### พรอมต์ลำดับฉากแอ็กชันสำหรับ Grok Imagine
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> พรอมต์ที่ออกแบบมาเพื่อสร้างวิดีโอแอ็กชันความยาว 10 วินาที โดยมีตัวละคร Kanzu Bogan (ボーガン枢) เป็นตัวเอก เน้นความเร็ว ท่าเตะสูง และฉากจบแบบภาพยนตร์ที่หยดน้ำกระเซ็นมาโดนเลนส์จนภาพเบลอ
+
+#### 📝 Prompt
+
+```
+ถ่ายทอดช็อตที่ดีที่สุดของ Kanzu Bogan ภายใน 10 วินาที!! ให้เขาวิ่งขึ้นมาจากใกล้ๆ น้ำตกพร้อมกับสาดน้ำ แล้วกระโดดเตะสูงหน้ากล้อง ถ่ายทำด้วยความเร็ว 6 เท่าในมุมต่ำ ปิดท้ายด้วยหยดน้ำที่กระเด็นมาโดนเลนส์กล้องจนทำให้หน้าจอเบลอ
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/75830bea2e30b6201a067229dc3a7f05/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์ลำดับฉากแอ็กชันสำหรับ Grok Imagine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2626)**
+
+**Author:** [阿部 孝](https://x.com/03abe_takashi) | **Source:** [Link](https://x.com/03abe_takashi/status/2040308109521060031) | **Published:** Apr 4, 2026
+
+---
+### คำอธิบายวิดีโอจากโหมดคุณภาพ (Quality Mode) ของ Grok Imagine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ผู้ใช้บรรยายถึงแอนิเมชัน 4 รายการที่สร้างขึ้นโดยใช้ 'Quality Mode' ใหม่ของ Grok Imagine โดยคำอธิบายเหล่านี้ทำหน้าที่เป็นพรอมต์สำหรับวิดีโอแต่ละรายการ
+
+#### 📝 Prompt
+
+```
+วิดีโอที่ 1: Elon, สาวน้อยอนิเมะ Bitcoin และ Michael Saylor
+วิดีโอที่ 2: การดวลเต้นฮิปฮอปของ Optimus และ Elon
+วิดีโอที่ 3: สาวน้อย Bitcoin, Elon และ Optimus ในเพลง "Stand by Me"
+วิดีโอที่ 4: การนำเสนอ Tesla Optimus
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/47517a3e1af9d39d3c9d39df06770091/thumbnails/thumbnail.jpg" width="600" alt="คำอธิบายวิดีโอจากโหมดคุณภาพ (Quality Mode) ของ Grok Imagine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2631)**
+
+**Author:** [Simon Hayes](https://x.com/Hayess5178) | **Source:** [Link](https://x.com/Hayess5178/status/2040234159730262086) | **Published:** Apr 4, 2026
+
+---
+### วิดีโอพร้อมท์สำหรับการเดทครั้งแรกของหุ่นยนต์สายโมเลกุล
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine พร้อมท์สำหรับสร้างวิดีโอที่แสดงภาพการเดทครั้งแรกระหว่างหุ่นยนต์สายโมเลกุลสองตัวที่มีชื่อว่า Me NI Ticulous และภรรยาของเขา NY TICULA
+
+#### 📝 Prompt
+
+```
+การเดทครั้งแรกระหว่าง € { Me NI Ticulous }~&gt;**^ { และภรรยาของเขา NY TICULA  ) ~ { หุ่นยนต์สายโมเลกุล }
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eaa2c29cd985ac9e0904cd8919cf6d97/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอพร้อมท์สำหรับการเดทครั้งแรกของหุ่นยนต์สายโมเลกุล">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2623)**
+
+**Author:** [Notzucow](https://x.com/Notzucow69) | **Source:** [Link](https://x.com/Notzucow69/status/2040210612660121979) | **Published:** Apr 3, 2026
+
+---
+### วิดีโอพรอมต์แนวหลุดเข้าไปในอีกโลกหนึ่ง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง Grok Imagine สำหรับสร้างวิดีโอเล่าเรื่องราวของคนที่เปิดกล่อง จ้องมองเข้าไปข้างใน แล้วตัวเล็กลงจนตกลงไปในกล่องและเข้าสู่โลกใบใหม่
+
+#### 📝 Prompt
+
+```
+ในขณะที่คุณค่อย ๆ เปิดกล่องออก สิ่งที่อยู่ข้างในก็นำคุณไปสู่อีกโลกหนึ่ง ทันทีที่คุณจ้องมองเข้าไป คุณก็ตัวเล็กลงจนกลายเป็นคนจิ๋วและตกลงไปในกล่อง ตอนนี้คุณได้เข้ามาอยู่ในอีกโลกหนึ่งแล้ว
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d47fb5f65bdac9497d1584d365e9758b/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอพรอมต์แนวหลุดเข้าไปในอีกโลกหนึ่ง">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2618)**
+
+**Author:** [Master](https://x.com/DragonFlam7530) | **Source:** [Link](https://x.com/DragonFlam7530/status/2040187293269385696) | **Published:** Apr 3, 2026
+
+---
+### วิดีโอคาวบอยมาดเข้มขี่ม้าเข้าสู่เมืองสไตล์ตะวันตก
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง (Prompt) สำหรับ Grok Imagine เพื่อสร้างวิดีโอของคาวบอยยุคต้นปี 1800 ที่ดูผ่านโลกมาอย่างโชกโชนและเต็มไปด้วยฝุ่น กำลังขี่ม้าอย่างช้าๆ เข้าสู่เมืองเล็กๆ ในสไตล์ตะวันตก
+
+#### 📝 Prompt
+
+```
+วิดีโอของคาวบอยยุคต้นปี 1800 กำลังขี่ม้าอย่างช้าๆ เข้าสู่เมืองเล็กๆ ในสไตล์ตะวันตก เขามีใบหน้าที่กร้านโลกและเต็มไปด้วยฝุ่น ดูผ่านการผจญภัยมาอย่างยาวนาน
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3dd0b192e0b42e6f7eda62ba2aafdc6c/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอคาวบอยมาดเข้มขี่ม้าเข้าสู่เมืองสไตล์ตะวันตก">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2616)**
+
+**Author:** [Todd MacPherson](https://x.com/toddmacpherson) | **Source:** [Link](https://x.com/toddmacpherson/status/2040165021758398562) | **Published:** Apr 3, 2026
+
+---
+### มหานครแห่งอนาคตสไตล์ Solarpunk และ Biophilic ในช่วงเวลา Golden Hour
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างวิดีโอแนวภาพยนตร์ของมหานครขนาดใหญ่สไตล์ Solarpunk และ Biophilic ในช่วงเวลา Golden Hour โดยฉากจะเน้นไปที่ตึกระฟ้าแห่งอนาคตที่มีรูปทรงออร์แกนิกขนาดใหญ่ ปกคลุมไปด้วยพืชพรรณเขตร้อนอย่างหนาแน่น เชื่อมต่อกันด้วยสะพานลอยฟ้ากระจกใส ทั้งหมดสะท้อนอยู่บนผืนน้ำที่สงบนิ่ง
+
+#### 📝 Prompt
+
+```
+cinematic solarpunk biophilic megacity golden hour, ตึกระฟ้าแห่งอนาคตที่มีรูปทรงออร์แกนิกขนาดใหญ่ปกคลุมไปด้วยพืชพรรณป่าเขตร้อนอันเขียวชอุ่มอย่างหนาแน่น, เถาวัลย์ที่เลื้อยลดหลั่นและสวนแนวตั้ง, สะพานลอยฟ้ากระจกใสที่เชื่อมต่อระหว่างตึก, ผืนน้ำที่สงบนิ่งและสะท้อนเงา
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/75f40d4acffa2af241772df5c2fe461e/thumbnails/thumbnail.jpg" width="600" alt="มหานครแห่งอนาคตสไตล์ Solarpunk และ Biophilic ในช่วงเวลา Golden Hour">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2627)**
+
+**Author:** [Lacey](https://x.com/LaceyPresley) | **Source:** [Link](https://x.com/LaceyPresley/status/2040160595417182456) | **Published:** Apr 3, 2026
+
+---
+### ภาพสเก็ตช์หมึกและดินสอของหญิงสาวผู้สง่างาม
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง (Prompt) โดยละเอียดสำหรับ Grok Imagine ที่บรรยายถึงภาพหญิงสาวเต็มตัวในชุดเดรสสีดำ ถ่ายทอดออกมาในสไตล์ภาพสเก็ตช์หมึกและดินสอที่มีรายละเอียดสูง พร้อมการลงเงาที่นุ่มนวลและละอองประกายระยิบระยับ
+
+#### 📝 Prompt
+
+```
+ภาพเต็มตัวของหญิงสาวผู้สง่างาม เกล้ามวยผมยุ่งๆ ประดับด้วยริบบิ้น สวมชุดเดรสสีดำเปิดไหล่ สไตล์ภาพสเก็ตช์หมึกและดินสอที่มีรายละเอียดสูงพร้อมการลงเงาที่นุ่มนวล มีละอองประกายระยิบระยับล้อแสง บรรยากาศดูเลื่อนลอยและชวนฝัน...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f83f5990ed79c56fe7f8b59af3727847/thumbnails/thumbnail.jpg" width="600" alt="ภาพสเก็ตช์หมึกและดินสอของหญิงสาวผู้สง่างาม">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2622)**
+
+**Author:** [🕸 𓅓 MR WISE 🕸 𓅓](https://x.com/mrwise744) | **Source:** [Link](https://x.com/mrwise744/status/2040133936890736986) | **Published:** Apr 3, 2026
+
+---
+### สนามบิดเบือนกระจกเงาล่องหนและ UFO
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่งแบบเหนือจริงและเป็นนามธรรมสำหรับ Grok Imagine ที่เกี่ยวข้องกับสนามบิดเบือนล่องหน ความเป็นเหตุเป็นผลย้อนกลับ และ UFO ที่ลอยตัวอยู่ซึ่งผลักวัตถุขนาดเท่ามนุษย์ออกไป
+
+#### 📝 Prompt
+
+```
+สนามบิดเบือนกระจกเงาล่องหน ความเป็นเหตุเป็นผลย้อนกลับ ความยืดหยุ่น ลูปอนันต์ ความสอดคล้อง
+
+UFO ลอยสูงจากพื้น 5-6 ฟุต ผลักวัตถุขนาดเท่ามนุษย์ในบ้านหรือพื้นที่ที่ลอยอยู่
+
+สนามบิดเบือนกระจกเงาล่องหน ความเป็นเหตุเป็นผลย้อนกลับ
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3a1c6b3ff8f62cd2978314350c0233c2/thumbnails/thumbnail.jpg" width="600" alt="สนามบิดเบือนกระจกเงาล่องหนและ UFO">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2619)**
+
+**Author:** [Shia Miller](https://x.com/StrategicProce) | **Source:** [Link](https://x.com/StrategicProce/status/2040133832242786444) | **Published:** Apr 3, 2026
+
+---
+### นางแบบไซเบอร์เนติกบนรถไฟ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์ที่ใช้สำหรับทดสอบโหมดความเร็วและคุณภาพของ Grok Imagine โดยบรรยายถึงนางแบบสาวสมจริงที่มีองค์ประกอบแบบไซเบอร์เนติกในฉากรถไฟ พร้อมใช้ชุดสีที่กำหนด
+
+#### 📝 Prompt
+
+```
+นางแบบสาวสมจริงในรถไฟไซเบอร์เนติก ดูเศร้า ห่างเหิน หรือดูเย็นชา ใช้โทนสี: มาเจนต้า, เชอร์เบท, คอรัล, มินต์ เคลือบด้วยความเงาแบบทึบ ให้ความรู้สึกระดับไฮเอนด์
+```
+
+<img src="https://cms-assets.youmind.com/media/1775288680174_e4tv75_HE_3BwsWEAApU-J.jpg" width="600" alt="นางแบบไซเบอร์เนติกบนรถไฟ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2621)**
+
+**Author:** [Lala](https://x.com/keepgoingAnnie) | **Source:** [Link](https://x.com/keepgoingAnnie/status/2040123492717207668) | **Published:** Apr 3, 2026
+
+---
+### พรอมต์วิดีโออัศวินยุคกลางผู้โดดเดี่ยวในทุ่งหิมะ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับ grok-imagine เพื่อสร้างวิดีโออัศวินยุคกลางผู้โดดเดี่ยวที่กำลังเดินข้ามทุ่งหิมะไปยังปราสาทแฟนตาซีที่อยู่ไกลออกไป พร้อมรายละเอียดเกี่ยวกับฉากและบรรยากาศ
+
+#### 📝 Prompt
+
+```
+อัศวินยุคกลางผู้โดดเดี่ยวที่ยืนอยู่กลางทุ่งหิมะอันว่างเปล่า กำลังเดินมุ่งหน้าไปยังเส้นขอบฟ้าที่ปราสาทแฟนตาซีอันยิ่งใหญ่ตั้งตระหง่านอยู่ไกลออกไป พื้นดินเปรอะเปื้อนไปด้วยรอยของเหลวสีแดง มีธงเก่าขาดรุ่งริ่งจำนวนมากปักอยู่บนหิมะรอบตัวเขา สร้างบรรยากาศที่
+```
+
+<img src="https://cms-assets.youmind.com/media/1775288688131_qkbu83_HE_fVRsXQAAcjOq.jpg" width="600" alt="พรอมต์วิดีโออัศวินยุคกลางผู้โดดเดี่ยวในทุ่งหิมะ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2625)**
+
+**Author:** [Knight World](https://x.com/KnightWorld) | **Source:** [Link](https://x.com/KnightWorld/status/2040095274077429854) | **Published:** Apr 3, 2026
+
+---
+### พร้อมท์วิดีโอหญิงสาวชาวญี่ปุ่นเดินทางมาถึงโดเวอร์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พร้อมท์ Grok Imagine แบบละเอียดที่บรรยายภาพกองทัพหญิงสาวชาวญี่ปุ่นสุดน่ารักที่กำลังเดินทางมาถึงหน้าผาสีขาวแห่งโดเวอร์ (White Cliffs of Dover) ด้วยเรือยางเป่าลมสีดำ และกำลังขึ้นฝั่งบนชายหาดของประเทศอังกฤษ
+
+#### 📝 Prompt
+
+```
+กองทัพหญิงสาวชาวญี่ปุ่นสุดน่ารักที่กำลังเดินทางมาถึงหน้าผาสีขาวแห่งโดเวอร์ด้วยเรือยางเป่าลมสีดำ และกำลังขึ้นฝั่งบนชายหาดของประเทศอังกฤษ
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e3219aa7065bb575f434a26a9b616da/thumbnails/thumbnail.jpg" width="600" alt="พร้อมท์วิดีโอหญิงสาวชาวญี่ปุ่นเดินทางมาถึงโดเวอร์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2624)**
+
+**Author:** [Master](https://x.com/DragonFlam7530) | **Source:** [Link](https://x.com/DragonFlam7530/status/2040085286554669114) | **Published:** Apr 3, 2026
+
+---
+### ซามูไรยูเรอิในสไตล์ภาพยนตร์ขาวดำ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง (Prompt) โดยละเอียดสำหรับการสร้างวิดีโอสไตล์ภาพยนตร์ขาวดำของซามูไรยูเรอิที่ดูเหนือจริง เน้นความสวยงามที่ชวนหลอนและแสงเรืองรอง
+
+#### 📝 Prompt
+
+```
+ภาพถ่ายสไตล์ภาพยนตร์ขาวดำของวิญญาณซามูไรยูเรอิที่กำลังล่องลอยผ่านประตูโทริอิที่ถูกน้ำท่วมในช่วงพลบค่ำ สวมชุดกิโมโนสีขาวโปร่งแสงที่พริ้วไหวราวกับปรอทเหลว ถือดาบคาตานะที่ทำจากแสงดาวบริสุทธิ์และเศษนีออนที่แตกกระจาย ภาพทั้งหมดเป็นโทนขาวดำนุ่มนวล ยกเว้นแสงสีเขียวอมฟ้าเรืองรองที่ตัดขอบรูปร่างของเธอและประกายฝุ่นดาวที่ล่องลอย ให้ความรู้สึกเหนือจริงราวกับความฝัน โบเก้นุ่มนวล ความงามที่ชวนหลอน และบทกวีแห่งภาพยนตร์
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3ffbae47081a71134db22c8150d55ada/thumbnails/thumbnail.jpg" width="600" alt="ซามูไรยูเรอิในสไตล์ภาพยนตร์ขาวดำ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2617)**
+
+**Author:** [Carolina Delgado](https://x.com/carolletta) | **Source:** [Link](https://x.com/carolletta/status/2040006205540876399) | **Published:** Apr 3, 2026
+
+---
+### หญิงสาวชาวญี่ปุ่นผู้สวยงามในชุดกิโมโนใต้ต้นซากุระ
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> คำสั่ง (Prompt) สำหรับ Grok Imagine ที่ต้องการภาพสมจริงของหญิงสาวชาวญี่ปุ่นผู้สวยงามในชุดกิโมโนแบบดั้งเดิม กำลังเดินอย่างสง่างามใต้ต้นซากุระที่กำลังบานสะพรั่ง ถ่ายทอดวัฒนธรรมญี่ปุ่นได้อย่างแม่นยำ พร้อมแสงแดดอ่อนๆ ในฤดูใบไม้ผลิและกลีบดอกซากุระที่ร่วงหล่น
+
+#### 📝 Prompt
+
+```
+หญิงสาวชาวญี่ปุ่นผู้สวยงามในชุดกิโมโนแบบดั้งเดิมกำลังเดินอย่างสง่างามใต้ต้นซากุระที่กำลังบานสะพรั่ง ฉากสมจริงที่ถ่ายทอดวัฒนธรรมญี่ปุ่นได้อย่างแม่นยำ แสงแดดอ่อนๆ ในฤดูใบไม้ผลิ กลีบดอกซากุระที่โปรยปราย ความงามแบบญี่ปุ่นดั้งเดิม
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9daa9cc6c90552bfe5169a5325611736/thumbnails/thumbnail.jpg" width="600" alt="หญิงสาวชาวญี่ปุ่นผู้สวยงามในชุดกิโมโนใต้ต้นซากุระ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2633)**
+
+**Author:** [おづぬ🇯🇵](https://x.com/minaminpyo) | **Source:** [Link](https://x.com/minaminpyo/status/2040005031387079075) | **Published:** Apr 3, 2026
+
+---
+### พรอมต์วิดีโอวันอีสเตอร์ในภาษาสเปน
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์ภาษาสเปนสำหรับ Grok Imagine เพื่อสร้างวิดีโอเฉลิมฉลองวันอีสเตอร์ โดยเน้นไปที่การระลึกถึงพระเยซูคริสต์ ความรัก การเสียสละ และการฟื้นคืนพระชนม์ของพระองค์ พร้อมทั้งคำอธิษฐานขอพรให้กับครอบครัว เพื่อนฝูง และผู้คนทั้งปวง
+
+#### 📝 Prompt
+
+```
+สุขสันต์วันอีสเตอร์
+
+วันนี้เรามาร่วมระลึกถึงพระเยซูคริสต์ ความรัก การเสียสละ และการฟื้นคืนพระชนม์ของพระองค์
+พระเยซูทรงสละพระชนม์ชีพเพื่อช่วยเรา และในวันที่สาม พระองค์ทรงฟื้นคืนพระชนม์อย่างรุ่งโรจน์
+
+ข้าแต่พระเยซูที่รัก โปรดประทานพรแก่ครอบครัว เพื่อนฝูง และผู้คนทั้งปวงของเรา...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/912e7eb9975992b68644cd45a008daab/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์วิดีโอวันอีสเตอร์ในภาษาสเปน">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2637)**
+
+**Author:** [mygiftshoponline.com](https://x.com/mygiftshoponli1) | **Source:** [Link](https://x.com/mygiftshoponli1/status/2040004900332175403) | **Published:** Apr 3, 2026
+
+---
+### Grok Imagine prompt สำหรับฉากชวนคิดถึงของการเดินกลับบ้านในฤดูหนาว
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> พรอมต์แบบยาวที่เน้นการบรรยายและมีความเป็นนามธรรมสำหรับ Grok Imagine โดยบรรยายถึงความยากลำบากในการเดินฝ่าลมหนาวจากทิศเหนือเพื่อกลับบ้าน และความปรารถนาที่จะมีทางเดินใต้ดินที่มีร้านค้า ซึ่งต่อมาได้กลายเป็น Nagoya's Central Park ในที่สุด
+
+#### 📝 Prompt
+
+```
+ในวันฤดูหนาว ลมเหนือพัดปะทะเข้ามาจากด้านหน้า ทำให้การก้าวเดินไปข้างหน้าเป็นเรื่องที่ทรมานเหลือเกิน ฉันได้แต่หวังว่าจะมีทางเดินใต้ดินที่ทอดยาวจากบ้านไปถึงโรงเรียนโดยมีร้านค้าเรียงรายตลอดทาง เพื่อที่ฉันจะได้เดินกลับบ้านโดยไม่ต้องกางร่มหรือรู้สึกถึงความหนาวเหน็บ ความปรารถนานั้นได้กลายเป็นจริงในเวลาต่อมาในรูปแบบของ Nagoya's Central Park
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/107d09ee48f6599c5e542c757aca4774/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine prompt สำหรับฉากชวนคิดถึงของการเดินกลับบ้านในฤดูหนาว">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2628)**
+
+**Author:** [DODO](https://x.com/Dodo0807Dodo) | **Source:** [Link](https://x.com/Dodo0807Dodo/status/2039998724966068406) | **Published:** Apr 3, 2026
+
+---
+### การคาดการณ์อนาคตจากนิตยสาร Gakken
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> คำสั่ง (Prompt) สำหรับ Grok Imagine ที่บรรยายถึงความตื่นเต้นในการอ่านการคาดการณ์อนาคตในนิตยสาร 'Science and Learning' (Gakken) ซึ่งรวมถึงรถยนต์บินได้และสวนผักบนดาดฟ้า
+
+#### 📝 Prompt
+
+```
+"ฉันตื่นเต้นทุกครั้งที่ได้มองดูอนาคตในแต่ละเดือน"
+ในหนังสือ 'Science and Learning' (Gakken) 📕
+มีการเขียนถึงการคาดการณ์อนาคตไว้มากมาย ไม่ว่าจะเป็นรถยนต์ที่บินได้บนท้องฟ้า หรือการปลูกผักบนดาดฟ้าของอาคาร
+แถมยังมีกล้องจุลทรรศน์เป็นของแถมมาให้ด้วย 😃
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ef5698a7681648a299fdabbb874a9fa6/thumbnails/thumbnail.jpg" width="600" alt="การคาดการณ์อนาคตจากนิตยสาร Gakken">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2634)**
+
+**Author:** [DODO](https://x.com/Dodo0807Dodo) | **Source:** [Link](https://x.com/Dodo0807Dodo/status/2039994135281828164) | **Published:** Apr 3, 2026
+
+---
+### ประสบการณ์ถอดจิต
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> คำสั่ง (Prompt) สำหรับ Grok Imagine ที่บรรยายถึงความทรงจำในวัยเด็กเกี่ยวกับประสบการณ์ถอดจิต โดยลอยตัวอยู่ใกล้เพดาน
+
+#### 📝 Prompt
+
+```
+ตอนที่ฉันอยู่ชั้นประถมศึกษาปีที่ 3 ฉันกำลังนอนหลับอยู่ แต่เมื่อรู้สึกตัวอีกที ฉันกลับพบว่าตัวเองกำลังลอยหงายหน้าอยู่ใต้เพดานประมาณ 3 ซม. พ่อเรียกชื่อฉันแล้วฉันก็กลับเข้าร่าง ฉันรู้สึกคลื่นไส้อย่างมาก (ประสบการณ์ถอดจิต)
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b0259aa4b79496705aa12b2aa05101a8/thumbnails/thumbnail.jpg" width="600" alt="ประสบการณ์ถอดจิต">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2629)**
+
+**Author:** [DODO](https://x.com/Dodo0807Dodo) | **Source:** [Link](https://x.com/Dodo0807Dodo/status/2039992170497855700) | **Published:** Apr 3, 2026
+
+---
+### ภาพประกอบสุภาพสตรีสไตล์วิกตอเรียนวินเทจกับแมว
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง (prompt) ที่มีความละเอียดสูงสำหรับการสร้างภาพประกอบสไตล์วิกตอเรียนย้อนยุคในศตวรรษที่ 19 ของสุภาพสตรีผู้สง่างามที่กำลังอุ้มแมวในสวนอันร่มรื่น โดยถ่ายทอดออกมาในรูปแบบสีน้ำและหมึกที่นุ่มนวล พร้อมโทนสีซีเปียและกรอบสไตล์อาร์ตนูโวที่วิจิตรบรรจง
+
+#### 📝 Prompt
+
+```
+ภาพประกอบสไตล์วิกตอเรียนย้อนยุคในศตวรรษที่ 19 ของสุภาพสตรีผู้สง่างามในชุดยาวสีเข้มและหมวกปีกกว้างสีดำประดับขนนก ยืนหันข้างในสวนอันร่มรื่น กำลังอุ้มแมวลายสลิดขนยาวฟูฟ่องไว้ในอ้อมแขนอย่างอ่อนโยน สไตล์สีน้ำและหมึกที่นุ่มนวลและชวนฝัน โทนสีขาวดำผสมสีซีเปีย รายละเอียดซับซ้อน ลายเส้นที่ประณีต ฉากหลังที่มีบรรยากาศของดอกโบตั๋นและดอกกุหลาบที่กำลังบาน ต้นไม้เก่าแก่ ฉากสวนที่มีหมอกจางๆ ความละเอียดสูง กรอบสีทองสไตล์อาร์ตนูโวที่วิจิตรบรรจงพร้อมลวดลายม้วนและลายดอกไม้ที่ล้อมรอบภาพทั้งหมดเสมือนแผ่นภาพในหนังสือโบราณหรือโปสต์การ์ดวินเทจ พื้นผิวของกระดาษเก่าที่มีรอยด่างและร่องรอยการใช้งานเล็กน้อย ให้ความรู้สึกโรแมนติกและแปลกตา ในสไตล์ภาพประกอบหนังสือยุควิกตอเรียนคลาสสิกและอาร์ตนูโว ผลงานระดับมาสเตอร์พีซ ความละเอียดสูง
+```
+
+<img src="https://cms-assets.youmind.com/media/1775288666240_3v9ohn_HE97DI1aUAAA0sy.jpg" width="600" alt="ภาพประกอบสุภาพสตรีสไตล์วิกตอเรียนวินเทจกับแมว">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2614)**
+
+**Author:** [Art Muse](https://x.com/art_muse) | **Source:** [Link](https://x.com/art_muse/status/2039984553885089842) | **Published:** Apr 3, 2026
+
+---
+### หญิงสาวริมทะเลสาบยามพระอาทิตย์ตกดิน
+
+![한국어](https://img.shields.io/badge/lang-한국어-orange)
+
+> Grok Imagine prompt สำหรับสร้างวิดีโอแนวภาพยนตร์ของหญิงสาวยืนอยู่ริมทะเลสาบ โดยเน้นที่มุมมองด้านหลังขณะที่กล้องเก็บภาพพื้นหลังอันงดงามทั้งหมดในความละเอียด 4K ปิดท้ายด้วยภาพดอกซากุระและดอกหิมะที่โปรยปรายอย่างงดงาม
+
+#### 📝 Prompt
+
+```
+ฉากจบ: 4k, เก็บภาพพื้นหลังอันงดงามทั้งหมดในมุมกล้อง และปิดท้ายอย่างสวยงามด้วยภาพเต็มหน้าจอของหญิงสาวยืนหันหลังให้ริมทะเลสาบ 🎬✨ ดอกซากุระและดอกหิมะโปรยปรายระยิบระยับ
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c608db1419532ec4c2ce0ee3633c439f/thumbnails/thumbnail.jpg" width="600" alt="หญิงสาวริมทะเลสาบยามพระอาทิตย์ตกดิน">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2636)**
+
+**Author:** [Coffee ☕️](https://x.com/Fatfish05316292) | **Source:** [Link](https://x.com/Fatfish05316292/status/2039978528868077965) | **Published:** Apr 3, 2026
+
+---
+### พรอมต์ภาพแนวไซเบอร์พังก์กลิตช์อาร์ตสมจริงขั้นสุดสำหรับเสือไฟฟ้าขนาดมหึมา
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์ที่มีรายละเอียดสูงสำหรับโหมดคุณภาพ (Quality Mode) ของ Grok Imagine ซึ่งบรรยายถึงเสือไฟฟ้าสีเข้มขนาดมหึมาที่กำลังปรากฏตัวออกมาจากความว่างเปล่าในรูปแบบดิจิทัล ด้วยสไตล์ไซเบอร์พังก์กลิตช์อาร์ตที่สมจริงขั้นสุด โดยเน้นไปที่ความเงางามของโลหะ ความเสียหายของข้อมูลดิจิทัล และพลังงานพลาสมาสีฟ้าไซแอน/น้ำเงินโคบอลต์
+
+#### 📝 Prompt
+
+```
+เสือไฟฟ้าสีเข้มขนาดมหึมาที่กำลังปรากฏตัวออกมาจากความว่างเปล่าในรูปแบบดิจิทัล ถ่ายทอดออกมาในสไตล์ไซเบอร์พังก์กลิตช์อาร์ตที่สมจริงขั้นสุด ขนสีดำสนิทของเสือที่แทรกด้วยวงจรโลหะมีความเงางามแบบโลหะ ร่างกายที่ดูดุร้ายและเต็มไปด้วยกล้ามเนื้อกำลังสลายตัวบางส่วนกลายเป็นความเสียหายของข้อมูลดิจิทัลที่ไหลริน เส้นสแกนแนวนอน กระแสข้อมูลแบบพิกเซล และกลิตช์แบบแยกช่องสี RGB ที่แทรกซึมไปทั่วทั้งภาพ ลายพาดกลอนและปากที่อ้าออกของเสือมีประกายพลังงานพลาสมาสีฟ้าไซแอนและน้ำเงินโคบอลต์คล้ายสายฟ้า พลังงานถูกเรนเดอร์ด้วยรายละเอียดการจำลองของเหลวเชิงปริมาตร มีกลุ่มพลังงานที่ร้อนจัดและปั่นป่วนซึ่งมีแกนกลางเป็นสีนีออนสว่างและค่อยๆ จางลงเป็นสีน้ำเงินเข้มที่ขอบ พลังงานหยดลงมาเหมือนนีออนเหลว ก่อตัวเป็นน้ำตกข้อมูลสีฟ้าที่กำลังกลิตช์และแตกตัวเป็นข้อมูลไบนารีที่ด้านล่างของเฟรม พื้นหลังเป็นความว่างเปล่าสีดำสนิทที่ซ้อนทับด้วยเส้นตารางจางๆ องค์ประกอบอินเทอร์เฟซ HUD ที่เสียหาย และข้อมูลข้อความแบบ monospace ที่แทบมองไม่เห็น ซึ่งสื่อถึงสภาพแวดล้อมเสมือนจริงที่กำลังล่มสลาย การจัดแสงแบบ chiaroscuro ที่มีความเปรียบต่างสูงและน่าทึ่ง โดยแหล่งกำเนิดแสงเพียงแหล่งเดียวมาจากพลังงานสีฟ้าเรืองแสง ซึ่งสะท้อนแสงไฟฟ้าที่เย็นเยียบลงบนขนสีเข้มของเสือ เรนเดอร์ในสไตล์คอนเซปต์อาร์ตผสมผสานกับ VFX แบบเรียลไทม์ ความละเอียด 8K องค์ประกอบภาพแบบภาพยนตร์ และระยะชัดลึกที่เน้นความเสียหายของข้อมูลในพื้นหลัง
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8390eb80a6f871b4ebbc7a6dd05f33af/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์ภาพแนวไซเบอร์พังก์กลิตช์อาร์ตสมจริงขั้นสุดสำหรับเสือไฟฟ้าขนาดมหึมา">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2613)**
+
+**Author:** [tetsuo](https://x.com/tetsuoai) | **Source:** [Link](https://x.com/tetsuoai/status/2039975065769668695) | **Published:** Apr 3, 2026
+
+---
+### ความทรงจำในวัยเด็กกับการคัดลายมือ ลูกคิด และการวาดภาพ
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> คำสั่ง (Prompt) สำหรับ Grok Imagine ที่บรรยายถึงความทรงจำในวัยเด็กเกี่ยวกับการเรียนคัดลายมือ การใช้ลูกคิด และการวาดภาพจากคุณพ่อ รวมถึงการไปเข้าชั้นเรียนต่างๆ
+
+#### 📝 Prompt
+
+```
+ตั้งแต่ชั้นประถมศึกษาปีที่ 1 ผมได้เรียนคัดลายมือ การใช้ลูกคิด และการวาดภาพจากคุณพ่อ พอขึ้นชั้นประถมศึกษาปีที่ 2 ผมก็เริ่มไปเรียนคัดลายมือและลูกคิดที่โรงเรียน ผมได้รับรางวัลด้านการคัดลายมือตอนอยู่ชั้นประถมศึกษาปีที่ 2 และทำได้ถึงระดับ 2 ดั้ง ส่วนวิชาลูกคิดผมทำได้ถึงระดับ 2 คิวตอนอยู่ชั้นประถมศึกษาปีที่ 5 แต่แล้วก็ต้องหยุดเรียนทั้งสองวิชาเนื่องจากเหตุผลส่วนตัวของอาจารย์ ภาพวาดของคุณพ่อที่วาดไว้หลังใบปลิวดูราวกับยีราฟและช้างที่มีชีวิตจริงๆ
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/538a490e0021f146bfa25f8cb9bc1a20/thumbnails/thumbnail.jpg" width="600" alt="ความทรงจำในวัยเด็กกับการคัดลายมือ ลูกคิด และการวาดภาพ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2632)**
+
+**Author:** [DODO](https://x.com/Dodo0807Dodo) | **Source:** [Link](https://x.com/Dodo0807Dodo/status/2039954228903624925) | **Published:** Apr 3, 2026
+
+---
+### มิวสิกวิดีโออนิเมะ: ไอดอลผมสีเงินบนดาดฟ้าในโตเกียว
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง (Prompt) แบบละเอียดที่ออกแบบมาเพื่อสร้างฉากมิวสิกวิดีโออนิเมะ 2D คุณภาพสูงที่มีความไดนามิก โดยมีไอดอลผมสีเงินกำลังร้องเพลงอย่างเต็มอารมณ์บนดาดฟ้าในโตเกียวแห่งอนาคตท่ามกลางสายฝนและบรรยากาศแบบไซเบอร์พังก์ ซึ่งได้รับแรงบันดาลใจจากผลงานของ Makoto Shinkai และ Studio Trigger
+
+#### 📝 Prompt
+
+```
+สร้างฉากมิวสิกวิดีโออนิเมะที่มีความไดนามิกในสไตล์อนิเมะ 2D สีสันสดใส คุณภาพสูง ฉากหลังละเอียด แสงแบบภาพยนตร์ พบกับสาวอนิเมะผมสีเงินสวยงามที่มีดวงตาสีฟ้าเรืองแสงและผมยาวสลวย กำลังยืนอยู่บนดาดฟ้าของเมืองโตเกียวแห่งอนาคตในยามค่ำคืนท่ามกลางพายุฝนที่ตกหนัก พร้อมแสงนีออนที่สะท้อนบนพื้นผิวที่เปียกชื้น เธอกำลังร้องเพลงอย่างเต็มอารมณ์ด้วยสีหน้าสื่อความรู้สึก สวมชุดไอดอลแห่งอนาคตสีดำตัดน้ำเงินนีออนที่มีรายละเอียดเรืองแสง มีลมพัดแรงจนผมและเสื้อผ้าปลิวไสว ในฉากหลังมีรถบินได้ ป้ายโฆษณาโฮโลแกรม และตึกระฟ้าสูงตระหง่านพร้อมป้ายไฟนีออนไซเบอร์พังก์ภาษาญี่ปุ่นและภาษาอังกฤษ มุมกล้องแบบภาพยนตร์จากต่ำไปสูง มีละอองแสงและหยาดฝนที่เรืองแสง ระยะชัดลึก (depth of field) พาเลตต์สีสดใสที่ตัดกันอย่างโดดเด่นระหว่างสีชมพู สีฟ้า และสีม่วง สไตล์ภาพคีย์วิชวลอนิเมะแบบ Makoto Shinkai ผสมผสานกับ Studio Trigger, รายละเอียดสูงพิเศษ, 8k, ผลงานชิ้นเอก, คุณภาพดีที่สุด –ar 16:9 –stylize 750
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b5ec3cecc3d78b219f33c60a2f001e9b/thumbnails/thumbnail.jpg" width="600" alt="มิวสิกวิดีโออนิเมะ: ไอดอลผมสีเงินบนดาดฟ้าในโตเกียว">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2620)**
+
+**Author:** [Tesla Owners Silicon Valley](https://x.com/teslaownersSV) | **Source:** [Link](https://x.com/teslaownersSV/status/2039945671768490086) | **Published:** Apr 3, 2026
+
+---
+### ชายหนุ่มสไตล์ไซเบอร์พังค์สุดเท่
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์บรรยายภาพชายหนุ่มสไตล์ไซเบอร์พังค์สุดเท่ในชุดที่มีไฟเรืองแสงและช่วยเสริมความมั่นใจในตัวเอง
+
+#### 📝 Prompt
+
+```
+ชายหนุ่มสไตล์ไซเบอร์พังค์สุดเท่ในชุดที่มีไฟเรืองแสงและช่วยเสริมความมั่นใจในตัวเอง
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/21b4050250a57f06536a2b81000ce4f2/thumbnails/thumbnail.jpg" width="600" alt="ชายหนุ่มสไตล์ไซเบอร์พังค์สุดเท่">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2615)**
+
+**Author:** [Aderemi muhydeen](https://x.com/KABADIZ) | **Source:** [Link](https://x.com/KABADIZ/status/2039935677979132309) | **Published:** Apr 3, 2026
+
+---
+### Optimus ปะทะ แชมป์ฟุตบอลมนุษย์
+
+![한국어](https://img.shields.io/badge/lang-한국어-orange)
+
+> Grok Imagine prompt ที่นำเสนอสถานการณ์สมมติ: การแข่งขันฟุตบอลระหว่างหุ่นยนต์ Tesla Optimus 11 ตัว กับทีมแชมป์ฟุตบอลระดับโลกอย่าง Messi และ Ronaldo โดยเน้นย้ำถึงความท้าทายทางสติปัญญาของกีฬาฟุตบอลที่เหนือกว่าแค่การวิ่งและการเลี้ยงบอล แต่รวมถึงการตัดสินใจ ความคิดสร้างสรรค์ และการสื่อสาร
+
+#### 📝 Prompt
+
+```
+🤖⚽ จะมีวันที่ Optimus ลงแข่งขันกับทีมฟุตบอลที่ดีที่สุดของมนุษย์จริงๆ หรือไม่?
+ฟุตบอลไม่ใช่แค่การวิ่งและการเลี้ยงบอลธรรมดา
+แต่เป็นกีฬาที่ต้องใช้สติปัญญาขั้นสูงสุด ซึ่งต้องอาศัยการตัดสินใจในเสี้ยววินาที การตัดสินใจที่สร้างสรรค์ภายใต้ความกดดัน
+และการสื่อสารที่รู้ใจกับเพื่อนร่วมทีม
+การแข่งขันระหว่างหุ่นยนต์ Tesla Optimus 11 ตัว กับทีมแชมป์ระดับโลกอย่าง Messi และ Ronaldo
+ดูน่าตื่นเต้น มีความสำคัญทางประวัติศาสตร์ และสนุกกว่าการแข่งขันที่ AlphaGo เอาชนะ Lee Sedol เสียอีก
+อัจฉริยภาพของมนุษย์และพลังการคำนวณที่เหนือชั้นของ AI ในสนาม...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fb69ac9e56d30293f3da6b5e60bac974/thumbnails/thumbnail.jpg" width="600" alt="Optimus ปะทะ แชมป์ฟุตบอลมนุษย์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2635)**
+
+**Author:** [자성자혁](https://x.com/pursuEssence) | **Source:** [Link](https://x.com/pursuEssence/status/2039914753414590900) | **Published:** Apr 3, 2026
+
+---
 ### พร้อมท์วิดีโออัศวินบนหลังม้าศึกในสไตล์ภาพยนตร์
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -201,11 +678,32 @@ Why use our gallery?
 ภาพมุมต่ำสไตล์ภาพยนตร์สุดดราม่าของอัศวินที่ดูน่าเกรงขามในชุดเกราะเหล็กสีดำประดับประดาอย่างวิจิตรบรรจงและหมวกเกราะพร้อมผ้าคลุมสีเข้มที่พลิ้วไหว กำลังขี่ม้าศึกสีดำกล้ามเนื้อเป็นมัดที่ทรงพลังควบเต็มฝีเท้าพุ่งตรงมายังผู้ชมผ่านทุ่งหญ้าสีเขียวสูงกว้างใหญ่ อัศวินชูดาบตรงยาวขึ้นสูงเหนือศีรษะด้วยมือขวาอย่างมีชัย ม้ามีแผงคอและหางที่พลิ้วไหวอย่างรุนแรงตามแรงเคลื่อนไหว พร้อมด้วยเกราะม้าและเครื่องบังเหียนที่ทำจากหนังและโลหะอย่างวิจิตร ฉากหน้าแสดงให้เห็นรอยเบลอจากการเคลื่อนที่แบบรัศมีในทุ่งหญ้าที่สื่อถึงความเร็วและความแรงมหาศาล ฉากหลังเป็นยอดเขาสูงตระหง่านขรุขระที่มีหิมะปกคลุมภายใต้ท้องฟ้าสีน้ำเงินเข้มสดใสและก้อนเมฆสีขาวขนาดใหญ่ที่ดูดราม่า บรรยากาศดาร์กแฟนตาซีสุดอลังการ พื้นผิวบนชุดเกราะและม้ามีความละเอียดสูง แสงเงาตัดกันแบบภาพยนตร์ และองค์ประกอบภาพแบบวีรบุรุษที่เต็มไปด้วยพลัง
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bdcb2886ff71e7d94fbe37b07effc745/thumbnails/thumbnail.jpg" width="600" alt="พร้อมท์วิดีโออัศวินบนหลังม้าศึกในสไตล์ภาพยนตร์">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/446a847d3c1f7f8b6b65f377ca1f60f2/thumbnails/thumbnail.jpg" width="600" alt="พร้อมท์วิดีโออัศวินบนหลังม้าศึกในสไตล์ภาพยนตร์">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2561)**
 
 **Author:** [tetsuo](https://x.com/tetsuoai) | **Source:** [Link](https://x.com/tetsuoai/status/2039884946551238794) | **Published:** Apr 3, 2026
+
+---
+### Punch the Monkey
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Grok Imagine prompt ที่มีลิงชื่อ Punch มาอวยพรให้ผู้ชมมีวันที่ดี และแสดงความขอบคุณที่ Punch เติบโตมาอย่างแข็งแรงสมบูรณ์
+
+#### 📝 Prompt
+
+```
+🐒❤️#Punch
+ขอให้เป็นวันที่ดีนะ
+ขอบคุณมาก ๆ ที่ช่วยดูแลให้ Punch เติบโตมาอย่างแข็งแรงและสดใส ❤️❤️🐾❤️❤️🐾🐾❤️❤️🐾🐾❤️❤️🐾🐾❤️🐾🐾❤️
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c3475d7f9c30cb02517d238e5cdc11bd/thumbnails/thumbnail.jpg" width="600" alt="Punch the Monkey">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2630)**
+
+**Author:** [Hyun Lee](https://x.com/HolyMolySakura) | **Source:** [Link](https://x.com/HolyMolySakura/status/2039879080246391145) | **Published:** Apr 3, 2026
 
 ---
 ### เจ้าแมว Leo กับผองเพื่อนลูกแมวต่างดาว
@@ -1661,505 +2159,6 @@ a b c...
 **Author:** [amir prince arjmand kermani](https://x.com/PrinceKermani) | **Source:** [Link](https://x.com/PrinceKermani/status/2038773892517638303) | **Published:** Mar 31, 2026
 
 ---
-### มินิฟิกเกอร์ Jensen Huang ในสไตล์ Lego Pixar
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับสร้างวิดีโอด้วย Grok Imagine เพื่อสร้างฉากที่มีสีสันสดใสในสไตล์ Lego Pixar โดยมีมินิฟิกเกอร์ Lego ของ Jensen Huang
-
-#### 📝 Prompt
-
-```
-ฉากสไตล์ Lego Pixar สีสันสดใสที่มีมินิฟิกเกอร์ Lego ของ Jensen Huang 🇹🇭🙋🏻‍♂️✈️🇺🇸❣️🚀🏝️🎠🛌💭😘
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ab5fbf0b555bb597104405b299a1f8ad/thumbnails/thumbnail.jpg" width="600" alt="มินิฟิกเกอร์ Jensen Huang ในสไตล์ Lego Pixar">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2471)**
-
-**Author:** [amir prince arjmand kermani](https://x.com/PrinceKermani) | **Source:** [Link](https://x.com/PrinceKermani/status/2038769967450190177) | **Published:** Mar 31, 2026
-
----
-### วิดีโอพรอมต์สำหรับการเคลื่อนไหวที่สดใสและเป็นธรรมชาติของก้อนเมฆและแสงแดดรอบไม้กางเขน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับ Grok Imagine ที่ขอให้สร้างวิดีโอที่ก้อนเมฆและแสงแดดรอบไม้กางเขนเคลื่อนไหวอย่างสดใสและดูเป็นธรรมชาติมากขึ้น
-
-#### 📝 Prompt
-
-```
-ทำให้ก้อนเมฆและแสงแดดรอบไม้กางเขนเคลื่อนไหวอย่างสดใส และทำให้ก้อนเมฆเคลื่อนไหวในลักษณะที่เป็นธรรมชาติมากขึ้น
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4aafacce876084bce2a109ed87fdbe7e/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอพรอมต์สำหรับการเคลื่อนไหวที่สดใสและเป็นธรรมชาติของก้อนเมฆและแสงแดดรอบไม้กางเขน">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2396)**
-
-**Author:** [Lynn Hocker](https://x.com/Auroraskye3993) | **Source:** [Link](https://x.com/Auroraskye3993/status/2038762853466010014) | **Published:** Mar 30, 2026
-
----
-### วิดีโอการขับขี่รถ Impala Super Sport สีเงิน ปี 1996
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (prompt) สำหรับ Grok Imagine เพื่อสร้างวิดีโอรถ Impala Super Sport สีเงิน ปี 1996 ที่กำลังขับอยู่บนถนนสายรองในช่วงบ่ายที่สวยงาม ท่ามกลางต้นไม้สีเขียวและท้องฟ้าสีคราม
-
-#### 📝 Prompt
-
-```
-รถ Impala Super Sport สีเงิน ปี 1996 ขับผ่านถนนสายรองในช่วงบ่ายที่สวยงามท่ามกลางต้นไม้สีเขียวและท้องฟ้าสีคราม
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8123b3290914f313052998e3d649bd09/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอการขับขี่รถ Impala Super Sport สีเงิน ปี 1996">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2382)**
-
-**Author:** [breedtweet](https://x.com/breedtweet) | **Source:** [Link](https://x.com/breedtweet/status/2038748759794782669) | **Published:** Mar 30, 2026
-
----
-### พรอมต์วิดีโอแปลงร่างเป็นซูเปอร์ฮีโร่
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับ Grok Imagine ที่สั่งให้โมเดลแปลงภาพอ้างอิงของผู้ใช้ให้กลายเป็นซูเปอร์ฮีโร่ผ่านการกลายพันธุ์ด้วยพลาสมาประสาท โดยเน้นพลังงานไฟฟ้า การไหลเวียนที่โกลาหล และบรรยากาศไซไฟแบบดาร์ก
-
-#### 📝 Prompt
-
-```
-Me @ Image1 เปลี่ยนร่างเป็นซูเปอร์ฮีโร่ด้วยการกลายพันธุ์แบบพลาสมาประสาท พลังงานไฟฟ้าจากจุดประสานประสาทปะทุออกมาเป็นสายพลาสมา การไหลเวียนที่โกลาหลแต่ดูชาญฉลาด เส้นทางประสาทเรืองแสง การบิดเบือนที่เต็มไปด้วยพลังงานสูง บรรยากาศไซไฟแบบดาร์ก องค์ประกอบภาพที่มีความไดนามิกสูง
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6c868be6f2d829b983a5ee6276d66f43/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์วิดีโอแปลงร่างเป็นซูเปอร์ฮีโร่">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2371)**
-
-**Author:** [Ralph Lentjes](https://x.com/RalphTheMaker) | **Source:** [Link](https://x.com/RalphTheMaker/status/2038739751893864636) | **Published:** Mar 30, 2026
-
----
-### ฉากการเล่นกอล์ฟที่ Augusta National ในปี 1965
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์บรรยายรายละเอียดสูงสำหรับ Grok Imagine เพื่อสร้างฉากการเล่นกอล์ฟในปี 1965 ที่ Augusta National โดยมีนักกอล์ฟชาย 3 คนพร้อมถุงกอล์ฟ ไม้กอล์ฟหัวไม้เพอร์ซิมมอน กำลังเดินไปที่แท่นทีออฟหลุม 12 และตีด้วยเหล็ก 9 โดยมีผลลัพธ์ที่แตกต่างกัน (ลูกหนึ่งอยู่บนกรีน ลูกหนึ่งอยู่ในบังเกอร์ และอีกลูกหนึ่งตกน้ำ)
-
-#### 📝 Prompt
-
-```
-ฉากการเล่นกอล์ฟในปี 1965 ที่มีนักกอล์ฟชาย 3 คนพร้อมถุงกอล์ฟ ไม่มีโลโก้ ไม่มีแบรนด์ ใช้ไม้กอล์ฟหัวไม้เพอร์ซิมมอน พวกเขากำลังเดินไปที่แท่นทีออฟหลุม 12 ที่ Augusta National ซึ่งพวกเขาเห็นป้ายบนแท่นทีออฟระบุว่าเป็นหลุม 12 ระยะ 135 หลา ผู้เล่นคนแรกหยิบเหล็ก 9 ออกมา วางลูกบนแท่นทีออฟอย่างสบายๆ แล้วตีลูกไปที่กลางกรีน ผู้เล่นอีกสองคนใช้ไม้ชนิดเดียวกันคือเหล็ก 9 ตีอย่างนุ่มนวลและราบรื่น โดยลูกหนึ่งเลยไปตกในบังเกอร์ด้านหลัง ส่วนอีกลูกหนึ่งระยะไม่ถึงแล้วกลิ้งลงเนินไปตกในลำธาร
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d478576dc198e8f8a88a444442d73437/thumbnails/thumbnail.jpg" width="600" alt="ฉากการเล่นกอล์ฟที่ Augusta National ในปี 1965">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2391)**
-
-**Author:** [AC Crockett](https://x.com/andrew_crockett) | **Source:** [Link](https://x.com/andrew_crockett/status/2038733076512333889) | **Published:** Mar 30, 2026
-
----
-### พร้อมต์วิดีโอ Elon Musk เต้นในชุดญี่ปุ่น
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พร้อมต์สำหรับ Grok Imagine เพื่อสร้างวิดีโอ Elon Musk เต้นในชุดญี่ปุ่นแบบดั้งเดิม (กิโมโน) ท่ามกลางบรรยากาศวัฒนธรรมญี่ปุ่นที่มีชีวิตชีวา
-
-#### 📝 Prompt
-
-```
-Elon Musk เต้นในชุดญี่ปุ่นแบบดั้งเดิม สวมกิโมโน ท่ามกลางบรรยากาศวัฒนธรรมญี่ปุ่นที่มีชีวิตชีวา พร้อมด้วยองค์ประกอบของวัฒนธรรมญี่ปุ่นแบบดั้งเดิม 🔥
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/030d0ee582f9a80b696855ecf8d470a5/thumbnails/thumbnail.jpg" width="600" alt="พร้อมต์วิดีโอ Elon Musk เต้นในชุดญี่ปุ่น">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2383)**
-
-**Author:** [Universal Statistics 📊](https://x.com/UNstatistics) | **Source:** [Link](https://x.com/UNstatistics/status/2038706368950018420) | **Published:** Mar 30, 2026
-
----
-### พรอมต์วิดีโอหนังสั้นแนวภาพยนตร์ที่สมจริงขั้นสุด
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ Grok Imagine ที่มีความละเอียดสูงสำหรับการสร้างหนังสั้นแนวภาพยนตร์ที่สมจริงขั้นสุดความยาว 10 วินาทีในระดับ 8K HDR โดยระบุรายละเอียดทั้งลุคของภาพยนตร์ การจัดแสง และการเปลี่ยนโทนสีจากแสงไฟสีทองอันอบอุ่นไปสู่โทนสีน้ำเงินเย็นตา
-
-#### 📝 Prompt
-
-```
-สร้างหนังสั้นแนวภาพยนตร์ที่สมจริงขั้นสุดความยาว 10 วินาทีที่น่าหลงใหลและทรงพลังทางอารมณ์ในระดับ 8K HDR ให้ลุคแบบภาพยนตร์ 35 มม. อะนามอร์ฟิกพร้อมเกรนภาพที่ละเอียดอ่อน การจัดแสงแบบวอลูเมตริกที่ดูมีมิติ และการเปลี่ยนโทนสี: จากแสงไฟสีทองโบราณอันอบอุ่น → ไปสู่โทนสีน้ำเงินเย็นตา...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a43516b755512c8d1e57ab494927095b/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์วิดีโอหนังสั้นแนวภาพยนตร์ที่สมจริงขั้นสุด">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2373)**
-
-**Author:** [Kareev.ai & ToptechTalent.ai](https://x.com/TOPTECH_TALENT) | **Source:** [Link](https://x.com/TOPTECH_TALENT/status/2038698781936320905) | **Published:** Mar 30, 2026
-
----
-### การจัดการน้ำหนักและยาสำหรับโรคไบโพลาร์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่งแบบบรรยายโดยละเอียดสำหรับ Grok Imagine ที่พูดถึงปัญหาของผู้ใช้เกี่ยวกับการเพิ่มขึ้นของน้ำหนักอันเนื่องมาจากยาสำหรับโรคไบโพลาร์ รวมถึงความพยายามและความมุ่งมั่นอย่างกล้าหาญในการรักษาน้ำหนักหรือลดน้ำหนัก โดยเน้นย้ำว่าการลดน้ำหนักเป็นเป้าหมายที่สามารถทำได้จริง
-
-#### 📝 Prompt
-
-```
-ยาสำหรับโรคไบโพลาร์ที่ฉันกำลังใช้อยู่ส่งผลให้น้ำหนักตัวเพิ่มขึ้น ฉันกำลังพยายามอย่างกล้าหาญที่จะรักษาน้ำหนักปัจจุบันหรือลดน้ำหนักลง และฉันกำลังมุ่งมั่นอย่างเต็มที่ในการจัดการน้ำหนักของตัวเอง โปรดเข้าใจว่าการลดน้ำหนักเป็นเป้าหมายที่สามารถทำได้จริง...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cb3e83c417f2e7e6e08153b7d747a67f/thumbnails/thumbnail.jpg" width="600" alt="การจัดการน้ำหนักและยาสำหรับโรคไบโพลาร์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2390)**
-
-**Author:** [LUCYELBERG 🇺🇸](https://x.com/lucyelbergelky) | **Source:** [Link](https://x.com/lucyelbergelky/status/2038687087268884517) | **Published:** Mar 30, 2026
-
----
-### พรอมต์วิดีโอสำหรับนกกระทุงและผู้เดินเล่นบนชายหาด
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับสร้างวิดีโอด้วย Grok Imagine โดยแสดงภาพนกกระทุงกำลังบินและดำน้ำ พร้อมด้วยชายผิวดำรูปร่างกำยำสองคนกำลังเดินยิ้มแย้มอยู่บนชายหาด โดยคนหนึ่งสวมเสื้อกล้ามเฉพาะรุ่น
-
-#### 📝 Prompt
-
-```
-นกกระทุงกำลังบินและดำลงไปในน้ำ ชายผิวดำรูปร่างกำยำสองคนกำลังเดินยิ้มแย้มไปตามชายหาด คนหนึ่งสวมเสื้อกล้าม Marq James LMT...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c586796d8935e144f9ed0809df142e30/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์วิดีโอสำหรับนกกระทุงและผู้เดินเล่นบนชายหาด">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2378)**
-
-**Author:** [Marq James](https://x.com/Margicjames13) | **Source:** [Link](https://x.com/Margicjames13/status/2038679585965912493) | **Published:** Mar 30, 2026
-
----
-### วิดีโอคำคมจาก Haruki Murakami
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับ Grok Imagine ที่อ้างอิงจากคำคมของ Haruki Murakami เพื่อใช้ในการสร้างวิดีโอ โดยพรอมต์ดังกล่าวคือตัวคำคมนั้นเอง
-
-#### 📝 Prompt
-
-```
-'ทุกสิ่งคือเส้นทาง ภูเขาคือเส้นทาง เมฆคือเส้นทาง ความเงียบคือเส้นทาง' — Haruki Murakami
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/383461ea65679dc2b5e3e20ad82a4fc9/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอคำคมจาก Haruki Murakami">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2401)**
-
-**Author:** [NarrateVisually](https://x.com/narratevisually) | **Source:** [Link](https://x.com/narratevisually/status/2038670072626237854) | **Published:** Mar 30, 2026
-
----
-### วิดีโอพร้อมท์ Bugs Bunny
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพร้อมท์สำหรับ Grok Imagine ที่แสดงภาพกระต่ายที่มีท่าทางเหมือน Bugs Bunny หยุดที่ตู้ไปรษณีย์ เปิดตู้ หยิบแครอทออกมา แล้วพูดประโยคเด็ดอันโด่งดัง
-
-#### 📝 Prompt
-
-```
-กระต่ายตัวหนึ่งกระโดดอยู่บนถนนแล้วหยุดที่ตู้ไปรษณีย์ จากนั้นยืนขึ้น พิงตู้ไปรษณีย์แล้วเปิดออก หยิบแครอทออกมาพร้อมกับพูดว่า “what’s up doc”
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/894eade0969eacee374828715f427543/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอพร้อมท์ Bugs Bunny">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2375)**
-
-**Author:** [Lew in Renton (R)](https://x.com/The_NautiBuoy) | **Source:** [Link](https://x.com/The_NautiBuoy/status/2038641086898556939) | **Published:** Mar 30, 2026
-
----
-### พรอมต์วิดีโอสไตล์อาร์ตนูโวแบบ Gustav Klimt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับ Grok Imagine เพื่อสร้างวิดีโอหญิงสาวผู้สง่างามในชุดคลาสสิก ท่ามกลางฉากหลังสไตล์อาร์ตนูโวที่เต็มไปด้วยลวดลายหมุนวนอันวิจิตรบรรจง ซึ่งได้รับแรงบันดาลใจจาก Gustav Klimt โดยเน้นรายละเอียดที่ซับซ้อนและแสงที่ดูหรูหรา
-
-#### 📝 Prompt
-
-```
-หญิงสาวผู้สง่างามที่มีผมสีเข้มยาวและริบบิ้นสีแดงพลิ้วไหว สวมชุดคลาสสิกสีขาวทองพร้อมเครื่องประดับอันวิจิตร นอนทอดกายอย่างอ่อนช้อยอยู่บนฉากหลังสไตล์ Klimt ที่ตกแต่งอย่างหรูหราด้วยลวดลายหมุนวนสีทอง ดำ แดง และน้ำเงิน สีหน้าอ่อนโยน ผลงานชิ้นเอกสไตล์อาร์ตนูโว รายละเอียดซับซ้อน แสงสวยงามหรูหรา
-```
-
-<img src="https://cms-assets.youmind.com/media/1774943570339_igo09p_HEq0XhnagAAgwFJ.jpg" width="600" alt="พรอมต์วิดีโอสไตล์อาร์ตนูโวแบบ Gustav Klimt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2374)**
-
-**Author:** [Art Muse](https://x.com/art_muse) | **Source:** [Link](https://x.com/art_muse/status/2038640158363553867) | **Published:** Mar 30, 2026
-
----
-### วิดีโอพรอมต์สำหรับเพลงรักที่แต่งให้ Elon Musk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับ Grok Imagine เพื่อสร้างวิดีโอตัวละครร้องเพลงรักจังหวะนุ่มนวลและช้าๆ ให้กับ Elon Musk โดยมีเนื้อเพลงระบุไว้ในพรอมต์อย่างชัดเจน
-
-#### 📝 Prompt
-
-```
-ให้เธอร้องว่า โอ้ Elon
-คุณจะหันมามองฉันไหม
-หากฉันตะโกนเรียกชื่อคุณผ่านรายการสด
-หากฉันเต้นอยู่บนโต๊ะทำงานของคุณ
-คุณจะหันมามองและเห็นฉันบ้างไหม
-ปรับเพลงให้ซอฟต์และช้าลงอีก นี่คือเพลงรัก
-โอ้ Elon
-สิ่งที่ฉันต้องการมีเพียงคุณ
-ได้โปรดอย่าทำลายหัวใจดวงน้อยๆ ของฉันให้แตกสลาย
-ฉัน...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2a1aa48aabbeca12a602b4ec9885ee8f/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอพรอมต์สำหรับเพลงรักที่แต่งให้ Elon Musk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2394)**
-
-**Author:** [HisMoonRey](https://x.com/lBrokenDoll51) | **Source:** [Link](https://x.com/lBrokenDoll51/status/2038638691304833465) | **Published:** Mar 30, 2026
-
----
-### การเดินทางสู่เมืองปอมเปอีสำหรับเด็ก
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) สำหรับ Grok Imagine เพื่อสร้างวิดีโอการเดินทางผ่านเมืองปอมเปอีอันสวยงาม เพื่อสร้างความทรงจำที่น่าประทับใจให้กับเด็ก ๆ
-
-#### 📝 Prompt
-
-```
-ปอมเปอี (Pompeii) เป็นเมืองที่สะกดสายตาผู้คนมากมายด้วยความงดงาม การเดินทางย้อนเวลานี้จะช่วยสร้างความทรงจำอันแสนประทับใจให้กับเด็ก ๆ ได้อย่างแน่นอน 🥹
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7de1df23b9d36a40465683c018007e32/thumbnails/thumbnail.jpg" width="600" alt="การเดินทางสู่เมืองปอมเปอีสำหรับเด็ก">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2403)**
-
-**Author:** [MikolaTimeTraveler](https://x.com/MikolaTiam_420) | **Source:** [Link](https://x.com/MikolaTiam_420/status/2038637004368310657) | **Published:** Mar 30, 2026
-
----
-### การเปลี่ยนผ่านความทรงจำผ่านมิกซ์เทป
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (prompt) แบบข้อความเป็นวิดีโอสำหรับ Grok Imagine ที่บรรยายถึงชายวัยผู้ใหญ่กำลังเล่นมิกซ์เทป ซึ่งทำให้ห้องเปลี่ยนสภาพกลายเป็นความทรงจำที่มีชีวิตของค่ำคืนฤดูร้อนกับเพื่อนเก่า
-
-#### 📝 Prompt
-
-```
-ชายวัยผู้ใหญ่พบมิกซ์เทปจากสมัยวัยรุ่น และเมื่อเขาเปิดฟัง ห้องก็เปลี่ยนสภาพกลายเป็นความทรงจำที่มีชีวิตของค่ำคืนฤดูร้อนที่ได้อยู่กับเพื่อนเก่า
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5a02401b5b6f2335b3dcaf52a3ceedaa/thumbnails/thumbnail.jpg" width="600" alt="การเปลี่ยนผ่านความทรงจำผ่านมิกซ์เทป">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2402)**
-
-**Author:** [Bedi](https://x.com/zyvaoz) | **Source:** [Link](https://x.com/zyvaoz/status/2038621114868322445) | **Published:** Mar 30, 2026
-
----
-### ภาพถ่ายกล้องนิ่งของ Psyopqeen ที่มีแสงจันทร์ส่องเป็นเงา
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) สำหรับ Grok Imagine เพื่อสร้างฉากวิดีโอแบบนิ่งที่ดูลึกลับ โดยมีลมพัดผมของ Psyopqeen เบาๆ ไม่มีบทสนทนา และมีดวงจันทร์ส่องแสงเป็นเงาด้านหลังร่างของเธอ
-
-#### 📝 Prompt
-
-```
-กล้องนิ่ง ลมพัดผมของ Psyopqeen เบาๆ บรรยากาศดูลึกลับ ไม่มีบทสนทนา ดวงจันทร์ส่องแสงเป็นเงาด้านหลังเธอ
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b3fbec6b2a46a9b18495fb7c0380f089/thumbnails/thumbnail.jpg" width="600" alt="ภาพถ่ายกล้องนิ่งของ Psyopqeen ที่มีแสงจันทร์ส่องเป็นเงา">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2389)**
-
-**Author:** [PsyopAnime](https://x.com/PsyopAnime) | **Source:** [Link](https://x.com/PsyopAnime/status/2038602864784732468) | **Published:** Mar 30, 2026
-
----
-### วิดีโอพรอมต์สำหรับฉากประตูเปิดและตัวละครกำลังพูด
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับ Grok Imagine ที่ขอวิดีโอฉากประตูเปิดเข้าด้านใน และมีตัวละครพูดประโยคว่า 'hey guys let’s go in and check it out'
-
-#### 📝 Prompt
-
-```
-ทำให้ประตูเปิดเข้าด้านในและให้เขาพูดว่า “ hey guys let’s go in and check it out”
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8483777b8134189f7782c16cce0ece30/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอพรอมต์สำหรับฉากประตูเปิดและตัวละครกำลังพูด">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2398)**
-
-**Author:** [Chris Bell](https://x.com/ChrisBe85511799) | **Source:** [Link](https://x.com/ChrisBe85511799/status/2038586195161346472) | **Published:** Mar 30, 2026
-
----
-### พร้อมท์วิดีโออนิเมะสไตล์ไซเบอร์พังค์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พร้อมท์สำหรับสร้างวิดีโอด้วย Grok Imagine เพื่อสร้างวิดีโออนิเมะ 2D คุณภาพสูงพิเศษความยาว 10 วินาที ในสไตล์ผสมผสานระหว่าง Cyberpunk Edgerunners และ Demon Slayer โดยมีตัวละครเป็นวัยรุ่นชาวอเมริกัน
-
-#### 📝 Prompt
-
-```
-สร้างวิดีโออนิเมะความยาว 10 วินาทีที่สวยงามน่าทึ่งด้วยแอนิเมชัน 2D คุณภาพสูงพิเศษ ในสไตล์ผลงานชิ้นเอกที่ผสมผสานระหว่าง Cyberpunk Edgerunners และ Demon Slayer พบกับวัยรุ่นชาวอเมริกันผู้มั่นใจในตัวเอง ผมสีบลอนด์ยุ่งๆ สวมแจ็คเก็ตเรืองแสงสีแดง-ขาว-น้ำเงิน และมีลวดลายดาว...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ca7bb89cb53bbfac72dc6a5b2a086565/thumbnails/thumbnail.jpg" width="600" alt="พร้อมท์วิดีโออนิเมะสไตล์ไซเบอร์พังค์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2376)**
-
-**Author:** [אייל אזולאי](https://x.com/eyal55134) | **Source:** [Link](https://x.com/eyal55134/status/2038579477999980968) | **Published:** Mar 30, 2026
-
----
-### วิดีโอพรอมต์สำหรับภาพบุคคลถือกระจกเพื่อสะท้อนเงา
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับ Grok Imagine ที่ขอให้สร้างวิดีโอของบุคคลที่ถือกระจกในลักษณะที่ช่วยให้ผู้ชมเห็นเงาสะท้อนของตัวกระจกเองได้
-
-#### 📝 Prompt
-
-```
-บุคคลที่ถือกระจกในลักษณะที่ทำให้ฉันสามารถมองเห็นเงาสะท้อนของกระจกเหล่านั้นได้
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7e399afa84dd83ed9fede7d5b0bbda87/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอพรอมต์สำหรับภาพบุคคลถือกระจกเพื่อสะท้อนเงา">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2399)**
-
-**Author:** [Graboid](https://x.com/NeptunesGrieve) | **Source:** [Link](https://x.com/NeptunesGrieve/status/2038574995538927906) | **Published:** Mar 30, 2026
-
----
-### วิดีโอโฆษณาน้ำหอมสุดหรูระดับภาพยนตร์ ความยาว 10 วินาที
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ชุดคำสั่ง (Prompt) แบบละเอียดหลายส่วนที่ออกแบบมาเพื่อสร้างวิดีโอโฆษณาน้ำหอมสุดหรูระดับภาพยนตร์ความยาว 10 วินาที โดยระบุรายละเอียดการจัดฉาก การเคลื่อนไหวของกล้อง และเอฟเฟกต์ภาพในแต่ละช่วงเวลา
-
-#### 📝 Prompt
-
-```
-โฆษณาน้ำหอมสุดหรูระดับภาพยนตร์ ความยาว 10 วินาที สมจริงดั่งภาพถ่าย อัตราส่วน 16:9 สไตล์โฆษณาแฟชั่นชั้นนำ
-
-ฉาก: สตูดิโอโทนเข้มสุดหรูที่มีพื้นผิวมันวาวสะท้อนแสง มีละอองหมอกจางๆ ในอากาศ และลำแสงสปอตไลท์ที่ตัดผ่านความมืดอย่างมีมิติ
-ขวดน้ำหอมแก้วพรีเมียมดีไซน์มินิมอลสุดหรูพร้อมฉลากแบรนด์ที่ดูสง่างามวางอยู่ตรงกลาง แก้วใสสะอาดตา ของเหลวสีทองภายใน พร้อมการสะท้อนที่สมจริงเป็นพิเศษ
-
-0–2 วินาที: ภาพระยะใกล้แบบมาโครของขวดน้ำหอม แสงเลื่อนผ่านขอบแก้ว ของเหลวสีทองส่องประกาย เงาแบบภาพยนตร์ แสงสไตล์โฆษณาแฟชั่นระดับไฮเอนด์
-
-2–4 วินาที: สโลว์โมชั่น — กลีบดอกไม้ที่บอบบาง (กุหลาบ, มะลิ) ปรากฏขึ้นและหมุนวนรอบขวด ละอองหมอกนุ่มนวลไหลผ่าน อนุภาคต่างๆ ส่องประกายในลำแสง
-
-4–6 วินาที: ของเหลวภายในขวดเคลื่อนไหวเบาๆ ราวกับมีชีวิต อนุภาคสีทองลอยขึ้น ฝาขวดขยับขึ้นเล็กน้อยแบบสโลว์โมชั่น เพิ่มเอฟเฟกต์ความสมจริงเชิงเวทมนตร์ที่ดูนุ่มนวล
-
-6–8 วินาที: ละอองน้ำหอมพุ่งกระจายในอากาศแบบสโลว์โมชั่น เปลี่ยนสภาพเป็นไอระเหยคล้ายผ้าไหมและรูปทรงดอกไม้ ดูสง่างามและเหนือจริง เป็นภาพความงามระดับภาพยนตร์
-
-8–10 วินาที: ภาพปิดท้าย (Hero shot) — ขวดน้ำหอมวางอยู่ตรงกลางบนพื้นผิวสะท้อนแสง ล้อมรอบด้วยหมอกนุ่มนวลและกลีบดอกไม้ สปอตไลท์ที่ดูโดดเด่น เน้นแบรนด์หรู ปิดท้ายด้วยสไตล์โฆษณาแฟชั่นชั้นนำ
-
-สมจริงเป็นพิเศษ, แสงระดับภาพยนตร์, โฆษณาสินค้าหรูหรา, รายละเอียดมาโคร, การสะท้อนของแก้ว, สโลว์โมชั่น, ระยะชัดลึก, แสงนุ่มนวล, คุณภาพระดับภาพยนตร์, สง่างาม, สุนทรียภาพระดับพรีเมียม, ไม่มีข้อความซ้อนทับ, ไม่มีคำบรรยาย
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/74274f3824a9f44721329b7319b7c327/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอโฆษณาน้ำหอมสุดหรูระดับภาพยนตร์ ความยาว 10 วินาที">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2381)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2038574814378783159) | **Published:** Mar 30, 2026
-
----
-### พรอมต์วิดีโอฉากการต่อสู้แบบภาพยนตร์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแบบละเอียดสำหรับ Grok Imagine ที่อธิบายถึงฉากการต่อสู้แบบภาพยนตร์ โดยมีนักสู้ผู้โดดเดี่ยวที่เหนื่อยล้าจู่ๆ ก็พุ่งตัวไปข้างหน้า พรอมต์นี้ประกอบด้วยการเคลื่อนไหวของกล้องที่เฉพาะเจาะจงและรายละเอียดบรรยากาศ เช่น ควัน ไฟ และความต่างของแสง เพื่อสร้างเอฟเฟกต์ที่ตึงเครียดและน่าตื่นเต้น
-
-#### 📝 Prompt
-
-```
-นักสู้ผู้โดดเดี่ยวยืนนิ่งด้วยความเหนื่อยล้า ถืออาวุธอย่างหลวมๆ หายใจหอบ + เงยหน้าขึ้นมองแล้วพุ่งตัวไปข้างหน้าในวินาทีสุดท้าย สนามรบที่พังทลายมีไฟลุกโชนอยู่เบื้องหลัง ควันลอยปกคลุมไปทั่วฉาก กล้องค่อยๆ ซูมเข้าไปที่ใบหน้าเพื่อสร้างความตึงเครียด เพิ่มความเร็วอย่างกะทันหันในขณะที่เขาพุ่งตัวออกไป มีการระเบิดเกิดขึ้นด้านหลังทำให้เกิดแสงสว่างทั่วทั้งเฟรม สร้างความแตกต่างแบบภาพยนตร์ระหว่างความนิ่งสงบและการระเบิดของพลังที่รุนแรง
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ba7c5e5724cfc84b2dd69cebfc92c3f8/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์วิดีโอฉากการต่อสู้แบบภาพยนตร์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2368)**
-
-**Author:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Source:** [Link](https://x.com/CharaspowerAI/status/2038564407106490420) | **Published:** Mar 30, 2026
-
----
-### พรอมต์วิดีโอฉากรถบัสสไตล์อนิเมะวาดมือ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับ Grok Imagine แบบง่าย ๆ เพื่อสร้างวิดีโอในสไตล์อนิเมะวาดมือ โดยเป็นภาพเด็กสาวบนรถบัสที่มีสีหน้าครุ่นคิดและฉากหลังภายนอกที่เบลอ
-
-#### 📝 Prompt
-
-```
-ฉากสไตล์อนิเมะวาดมือของเด็กสาวบนรถบัส ที่มีสีหน้าครุ่นคิดและฉากหลังภายนอกที่เบลอ
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/59380ea744e8b2a0c12d3ac810420268/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์วิดีโอฉากรถบัสสไตล์อนิเมะวาดมือ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2372)**
-
-**Author:** [Doge Norway](https://x.com/DogecoinNorway) | **Source:** [Link](https://x.com/DogecoinNorway/status/2038545456100520247) | **Published:** Mar 30, 2026
-
----
-### พรอมต์วิดีโอแนวภาพยนตร์สุดตึงเครียดในช่วงพลบค่ำ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์แบบละเอียดสำหรับ Grok Imagine เพื่อสร้างวิดีโอสั้นแนวภาพยนตร์ที่เต็มไปด้วยความตึงเครียด ณ ริมทะเลสาบที่เงียบสงบในช่วงพลบค่ำ โดยมีหญิงสาวและหุ่นยนต์ฮิวแมนนอยด์สีดำเดินมุ่งหน้าไปยังม้านั่ง เพื่อเน้นย้ำถึงความแตกแยกและความไม่แน่นอน
-
-#### 📝 Prompt
-
-```
-วิดีโอสั้นแนวภาพยนตร์ที่เต็มไปด้วยความตึงเครียดในช่วงพลบค่ำริมทะเลสาบที่เงียบสงบ หญิงสาวคนหนึ่งและหุ่นยนต์ฮิวแมนนอยด์สีดำสนิทดีไซน์ทันสมัยกำลังเดินอย่างช้าๆ ไปยังม้านั่งไม้เรียบๆ จากคนละฝั่งของเฟรมภาพ สร้างความรู้สึกถึงความแตกแยกและความไม่แน่นอนที่ชัดเจน บรรยากาศ...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/df3d80c17522a3e4b9593ac0889a7f7c/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์วิดีโอแนวภาพยนตร์สุดตึงเครียดในช่วงพลบค่ำ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2385)**
-
-**Author:** [Daisy](https://x.com/Daisy8320382290) | **Source:** [Link](https://x.com/Daisy8320382290/status/2038544153131602019) | **Published:** Mar 30, 2026
-
----
-### มังกรแมวเหมียวผ้าไหมในสไตล์ Tolkien/Frazetta
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์รายละเอียดสำหรับ Grok Imagine เพื่อสร้างสรรค์วิดีโอระดับมาสเตอร์พีซของมังกรแมวเหมียวผ้าไหม ที่เรนเดอร์ในสไตล์วาดมือและลงสีด้วยมือความละเอียด 8k ชวนให้นึกถึงตำนานของ Tolkien และงานศิลปะอันเร่าร้อนของ Frazetta โดดเด่นด้วยเกล็ดสีฟ้าเงินระยิบระยับและองค์ประกอบสีแดงเพลิงที่พลิ้วไหว
-
-#### 📝 Prompt
-
-```
-ผลงานระดับมาสเตอร์พีซความละเอียด 8k ที่วาดและลงสีด้วยมือในสไตล์ตำนานของ Tolkien และความเร่าร้อนของ Frazetta — มังกรแมวเหมียวผ้าไหมแสนสวยที่มีเกล็ดสีฟ้าเงินระยิบระยับและองค์ประกอบสีแดงเพลิงที่พลิ้วไหว...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ae24e2b7ccc3d696c86f335b13889fbb/thumbnails/thumbnail.jpg" width="600" alt="มังกรแมวเหมียวผ้าไหมในสไตล์ Tolkien/Frazetta">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2386)**
-
-**Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2038534115289706715) | **Published:** Mar 30, 2026
-
----
-### พรอมต์วิดีโอเมืองไซเบอร์พังก์และหญิงสาว
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ Grok Imagine ที่มีความละเอียดสูงสำหรับการสร้างวิดีโอเมืองไซเบอร์พังก์ในยามค่ำคืน โดยเน้นไปที่ตัวละครหญิงที่มีเอกลักษณ์เฉพาะตัวด้วยผมสีขาวไล่เฉดสีพาสเทล ไซเบอร์แวร์ และชุดที่เข้ารูป พรอมต์นี้ระบุรายละเอียดเกี่ยวกับแสง ความละเอียด (8k) และเอฟเฟกต์บรรยากาศเพื่อให้ได้ความรู้สึกแบบภาพยนตร์ที่ดูเหนือจริง
-
-#### 📝 Prompt
-
-```
-ทิวทัศน์เมืองไซเบอร์พังก์ในยามค่ำคืนที่สว่างไสวด้วยแสงนีออนสดใสในโทนสีม่วง ชมพู ฟ้า และม่วงแดง ตึกระฟ้าสูงตระหง่านปกคลุมไปด้วยป้ายโฆษณาโฮโลแกรมที่ส่องแสงและสายฝนดิจิทัลที่โปรยปรายลงมาอย่างแผ่วเบา ในฉากหน้ามีหญิงสาววัยใกล้ 30 ปี รูปร่างเพรียวบางและแข็งแรง ผิวขาวนวล ใบหน้าคมสันมีโหนกแก้มสูง จมูกเล็ก และริมฝีปากอิ่ม ดวงตาคู่โตที่แสดงอารมณ์ชัดเจนเน้นด้วยการแต่งตาโทนสีแดงอ่อนๆ ผมสีขาวบริสุทธิ์ตามธรรมชาติไล่เฉดสีพาสเทลที่ปลายผมอย่างแนบเนียนไปสู่สีชมพู ม่วง และฟ้า ซึ่งเข้ากับแสงนีออนของเมือง จัดทรงเป็นบ็อบสั้นระดับคางแบบอสมมาตร ด้านซ้ายยาวกว่าโดยมีปอยผมระย้าลงมาใต้คาง หน้าม้าหนาตัดตรงระดับคิ้วแสกข้างเล็กน้อย เส้นผมตรงเรียบ เงางามดุจเส้นใยสังเคราะห์และมีวอลลุ่มพริ้วไหวตามลมเล็กน้อย มีพอร์ตไซเบอร์แวร์แบบฝังลึกที่มองเห็นได้จางๆ บริเวณท้ายทอย ซึ่งถูกบดบังบางส่วนด้วยเส้นผมและปิดทับด้วยผิวหนังเทียม เธอสวมชุดบอดี้สูทสีดำขาวเข้ารูปพร้อมรายละเอียดสีแดง คอปกสูง แจ็กเก็ตสีขาวเปิดไหล่ขลิบดำและมีอาร์มติดที่แขนเสื้อ วัสดุมีความเงางามคล้ายลาเท็กซ์สะท้อนแสงนีออน ท่าทางมั่นใจหันข้างสามส่วนไปทางขวาเล็กน้อยพร้อมสีหน้าจริงจัง ความละเอียดสูงระดับ 8k เรนเดอร์คมชัดสะอาดตา มีเอฟเฟกต์ฟุ้ง (bloom) และเกรนฟิล์มเล็กน้อย ให้บรรยากาศไซเบอร์พังก์ที่ดูเหนือจริง
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/67eac603eee8b8301f1ad317869fabbe/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์วิดีโอเมืองไซเบอร์พังก์และหญิงสาว">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2370)**
-
-**Author:** [tetsuo](https://x.com/tetsuoai) | **Source:** [Link](https://x.com/tetsuoai/status/2038533274126200857) | **Published:** Mar 30, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2221,6 +2220,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-04T05:24:27.099Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-04T08:54:03.744Z</sub>
 
 </div>
