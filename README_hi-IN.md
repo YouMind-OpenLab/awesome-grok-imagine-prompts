@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **943** |
+| 📝 Total Prompts | **975** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-04-05** |
 
@@ -189,6 +189,562 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### साइबरकिटन ट्यूलिप फील्ड ईस्टर सीन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के साथ इस्तेमाल किया गया एक प्रॉम्प्ट, जिसमें ईस्टर-थीम वाला वीडियो बनाया गया है। इसमें बनी सूट पहने Elon Musk और ट्यूलिप के खेत में बिल्ली के बच्चे हैं, जो एक 'सागा' को आगे बढ़ा रहे हैं।
+
+#### 📝 Prompt
+
+```
+सागा जारी है! 😹🐰🌷
+
+साइबरकिटन ट्यूलिप फील्ड की ओर से ईस्टर की शुभकामनाएं!
+
+बनी सूट में @elonmusk, और चारों तरफ बिल्ली के बच्चे 😂
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f3a3436f78d7bca877187e964405afda/thumbnails/thumbnail.jpg" width="600" alt="साइबरकिटन ट्यूलिप फील्ड ईस्टर सीन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2719)**
+
+**Author:** [Sadie Supa Doge](https://x.com/SadieSupaDoge) | **Source:** [Link](https://x.com/SadieSupaDoge/status/2040682197364146278) | **Published:** Apr 5, 2026
+
+---
+### Kvothe on a Windswept Overlook वीडियो प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 'The Name of the Wind' के पात्र Kvothe का गोधूलि बेला में अपना shaed लबादा पहने हुए एक भव्य, ऊँचाई वाले दृश्य को उत्पन्न करने के लिए Grok Imagine हेतु एक विस्तृत, वर्णनात्मक प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+एक भव्य ऊँचाई वाला दृश्य, जैसे कि बहुत ऊँचाई पर उड़ते हुए सबसे बड़े बाज़ या चील का नज़ारा: Kvothe गोधूलि बेला में हवा से घिरी एक चट्टानी ऊँचाई पर मजबूती से खड़ा है, उसने अंधेरे, चांदनी और आग की रोशनी से बुना हुआ अपना लहराता हुआ shaed छाया लबादा पहना है...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9c72282ddbf33dfc8ca4719a868289e5/thumbnails/thumbnail.jpg" width="600" alt="Kvothe on a Windswept Overlook वीडियो प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2716)**
+
+**Author:** [y](https://x.com/Yoyoyi023581321) | **Source:** [Link](https://x.com/Yoyoyi023581321/status/2040562371836670023) | **Published:** Apr 4, 2026
+
+---
+### हैप्पी ईस्टर सनराइज सीन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक grok-imagine वीडियो प्रॉम्प्ट, जो एक आनंदमय ईस्टर दृश्य उत्पन्न करने के लिए है। इसमें एक शांत परिदृश्य पर चमकता हुआ सूर्योदय, जीवंत वसंत के फूल, और सुनहरी रोशनी से जगमगाता एक क्रॉस है, जो पुनरुत्थान और आशा का प्रतीक है, जिससे एक उत्सव का माहौल बनता है।
+
+#### 📝 Prompt
+
+```
+हैप्पी ईस्टर! मसीह जी उठे हैं। वे वास्तव में जी उठे हैं! एक आनंदमय ईस्टर दृश्य, जिसमें एक शांत परिदृश्य पर चमकता हुआ सूर्योदय, खिलते हुए जीवंत वसंत के फूल, और सुनहरी रोशनी से जगमगाता एक क्रॉस है, जो पुनरुत्थान और आशा का प्रतीक है, उत्सव का माहौल...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2688fd4c6fea5bd83456946b6ab3c18f/thumbnails/thumbnail.jpg" width="600" alt="हैप्पी ईस्टर सनराइज सीन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2712)**
+
+**Author:** [Lisa Jmes](https://x.com/JmesLisa65488) | **Source:** [Link](https://x.com/JmesLisa65488/status/2040554876854526187) | **Published:** Apr 4, 2026
+
+---
+### AI को 'दुनिया बनाने वाली फैक्ट्री' के रूप में देखने पर चर्चा
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक उपयोगकर्ता AI की शक्ति पर चर्चा करता है, विशेष रूप से एक प्रॉम्प्ट के साथ 'पूर्ण-स्तरीय एनीमे सर्वनाश' (full-scale anime apocalypse) ट्रेलर-ग्रेड विजुअल्स बनाने का उल्लेख करता है, जो Grok Imagine की वीडियो जनरेशन क्षमता की ओर इशारा करता है।
+
+#### 📝 Prompt
+
+```
+सिर्फ एक प्रॉम्प्ट।
+
+पूर्ण-स्तरीय एनीमे सर्वनाश।
+
+ट्रेलर-ग्रेड विजुअल्स।
+
+बिना किसी इंतज़ार के।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/aa93130508a7b8737d835cc8698391ea/thumbnails/thumbnail.jpg" width="600" alt="AI को 'दुनिया बनाने वाली फैक्ट्री' के रूप में देखने पर चर्चा">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2718)**
+
+**Author:** [Bitcoin Wealth](https://x.com/BitcoinWealth) | **Source:** [Link](https://x.com/BitcoinWealth/status/2040552249815183829) | **Published:** Apr 4, 2026
+
+---
+### चांदनी में दो चांदी के ड्रेगन का संगीत
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine (वीडियो जनरेशन) के लिए एक प्रॉम्प्ट, जिसमें बर्फ जैसी नीली आंखों वाले दो चांदी के ड्रेगन का वर्णन है, जो चांदनी में एक-दूसरे के साथ प्यार और सामंजस्यपूर्ण हरकतें करते हुए आपस में लिपटे हुए हैं।
+
+#### 📝 Prompt
+
+```
+बर्फ जैसी नीली आंखों वाले दो चांदी के ड्रेगन, जो चांदनी की रोशनी में एक-दूसरे के प्रति अपना स्नेह और प्यार दर्शा रहे हैं। वे सामंजस्यपूर्ण गतिविधियों के साथ एक-दूसरे में मजबूती से लिपटे हुए हैं, और चांदनी के संगीत में एक साथ बंधे हुए हैं।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cd5fc239a420366fc79af9bb04b1f793/thumbnails/thumbnail.jpg" width="600" alt="चांदनी में दो चांदी के ड्रेगन का संगीत">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2695)**
+
+**Author:** [Bettina Krischbin](https://x.com/krischbin) | **Source:** [Link](https://x.com/krischbin/status/2040545664845726197) | **Published:** Apr 4, 2026
+
+---
+### हैंगिंग पर्सपेक्टिव के साथ Starship लॉन्च वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक प्रॉम्प्ट, जो एक अनोखे, हाई-एंगल पर्सपेक्टिव से Starship लॉन्च का वीडियो जनरेट करेगा, जिसमें दर्शक को रॉकेट से लटके हुए और रॉकेट के ऊपर जाते समय बीयर खोलते हुए दिखाया गया है।
+
+#### 📝 Prompt
+
+```
+Starship के ऊपर से उड़ान भरने का एक वीडियो बनाएं जिसमें मैं रॉकेट से लटका हुआ हूँ। कैमरा मेरे पास आता है और जैसे ही रॉकेट ऊपर की ओर बढ़ता है, मैं एक बीयर खोलता हूँ।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/437ad8432f07e95eb4336cc043b02553/thumbnails/thumbnail.jpg" width="600" alt="हैंगिंग पर्सपेक्टिव के साथ Starship लॉन्च वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2722)**
+
+**Author:** [Fran Perez](https://x.com/franperez_co) | **Source:** [Link](https://x.com/franperez_co/status/2040513284961456289) | **Published:** Apr 4, 2026
+
+---
+### छाता उड़ने और कैमरा पैन वीडियो प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक प्रॉम्प्ट, जिसमें एक ऐसे दृश्य का वर्णन है जहाँ एक पात्र का छाता हवा में उड़ जाता है, वह घास पर लेट जाती है, और कैमरा ऊपर की ओर पैन करता है।
+
+#### 📝 Prompt
+
+```
+वह अपना छाता हवा में उड़ जाने देती है, वह घास पर लेट जाती है, कैमरा ऊपर और दूर की ओर पैन करता है
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b107bc519bf5564e8c0987429730f910/thumbnails/thumbnail.jpg" width="600" alt="छाता उड़ने और कैमरा पैन वीडियो प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2709)**
+
+**Author:** [Yen Noelle](https://x.com/yen74056616) | **Source:** [Link](https://x.com/yen74056616/status/2040509561061441773) | **Published:** Apr 4, 2026
+
+---
+### लेडी थिसलवेट टिंकलविंक टी पार्टी
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक मज़ेदार और विस्तृत प्रॉम्प्ट, जिसमें एक सनकी कुलीन महिला, लेडी थिसलवेट टिंकलविंक का वर्णन है, जो धूप से सजे बगीचे में 'मिसचीफ पोशन' (शरारती मिश्रण) टी पार्टी की मेज़बानी कर रही हैं।
+
+#### 📝 Prompt
+
+```
+लेडी थिसलवेट टिंकलविंक (बाईं ओर उनके नाम का एक साइन बोर्ड बनाएं)। शरारत से भरी चमकती आँखों वाली एक बेहद नटखट बुजुर्ग कुलीन महिला। वह धूप से सजे एक बगीचे के बीचों-बीच खड़ी हैं, जहाँ उनकी मशहूर 'मिसचीफ पोशन' टी पार्टी चल रही है।
+
+उन्होंने एक शानदार, थोड़ा टेढ़ा-मेढ़ा पेस्टल गाउन पहना है, जिस पर छोटी-छोटी कढ़ाई वाली तितलियाँ और चाय के कप बने हैं। उनके बाल चांदी जैसे घुंघराले बालों का एक बेतरतीब ढेर हैं, जिसके ऊपर एक हास्यास्पद रूप से बड़ा हैट है और उस पर एक टीपॉट रखा है (जिसमें से धीरे-धीरे भाप निकल रही है)। एक हाथ में उन्होंने चीनी मिट्टी का एक नाज़ुक चाय का कप पकड़ा है; और दूसरे हाथ में एक चांदी का चम्मच, जिससे वह अपने 'स्पेशल मिसचीफ ब्लेंड' को मिला रही हैं।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cc6ecdbc6033aadb49efb0c6d50feab6/thumbnails/thumbnail.jpg" width="600" alt="लेडी थिसलवेट टिंकलविंक टी पार्टी">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2703)**
+
+**Author:** [Carina](https://x.com/Freehere3) | **Source:** [Link](https://x.com/Freehere3/status/2040507995717828969) | **Published:** Apr 4, 2026
+
+---
+### ऑस्ट्रेलियन शेफर्ड और बनी के साथ नाइटटाइम स्कीइंग वीडियो प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक विस्तृत प्रॉम्प्ट, जिसमें ज़िगज़ैग नक्काशी गति, डिस्को और नियॉन लाइटों के साथ एक नाइटटाइम स्कीइंग दृश्य का वर्णन है, जिसमें एक ऑस्ट्रेलियन शेफर्ड कुत्ता और एक सफेद खरगोश शामिल है।
+
+#### 📝 Prompt
+
+```
+ज़िगज़ैग नक्काशी गति में स्कीइंग। और रात के समय डिस्को लाइट्स और हर जगह नियॉन लाइट्स हैं, साथ ही एक ऑस्ट्रेलियन शेफर्ड कुत्ता है जो आधा भूरा और आधा सफेद है, जो अपने दोस्त के साथ स्कीइंग कर रहा है और एक खरगोश है जो सफेद और काले रंग का है...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fd843056ad216776963a2759cbf494a5/thumbnails/thumbnail.jpg" width="600" alt="ऑस्ट्रेलियन शेफर्ड और बनी के साथ नाइटटाइम स्कीइंग वीडियो प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2711)**
+
+**Author:** [VJai](https://x.com/crm_vicky) | **Source:** [Link](https://x.com/crm_vicky/status/2040487587681345600) | **Published:** Apr 4, 2026
+
+---
+### Lucy the Goddess के बारे में Grok Imagine प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine वीडियो जनरेशन प्रॉम्प्ट, जिसमें Lucy नाम की एक पात्र का वर्णन है। वह खुद को एक देवी और ईश्वर की रचना मानती है, जो ईश्वरीय शक्ति के साथ उसके जुड़ाव पर जोर देता है।
+
+#### 📝 Prompt
+
+```
+नमस्ते, मेरा नाम Lucy है, जिसका अर्थ दुनिया के लिए प्रकाश जैसा है। मैं एक देवी हूँ। मैं ईश्वर की रचना हूँ। ईश्वर मेरे पिता हैं। मैं उनका एक अंश हूँ....
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/73703fad465247918419d273a7b18dfe/thumbnails/thumbnail.jpg" width="600" alt="Lucy the Goddess के बारे में Grok Imagine प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2706)**
+
+**Author:** [LUCYELBERG🇺🇸](https://x.com/Lucyelberg7p) | **Source:** [Link](https://x.com/Lucyelberg7p/status/2040480227285926356) | **Published:** Apr 4, 2026
+
+---
+### ड्रैगन के घोंसले में एक महिला, पेपर-कट कोलाज आर्ट स्टाइल
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक अत्यधिक विस्तृत, शैलीबद्ध प्रॉम्प्ट, जिसमें ड्रैगन के घोंसले में एक युवा महिला का क्लोज-अप शॉट वर्णित है। इसे Yoshitaka Amano से प्रभावित पेपर-कट कोलाज आर्ट स्टाइल में, साइंस-फिक्शन भावनात्मक अभिव्यक्ति और नियॉन लाइटिंग के साथ तैयार किया गया है।
+
+#### 📝 Prompt
+
+```
+एक सुंदर युवा महिला का क्लोज-अप स्पेशल शॉट, जिसने साधारण चप्पलें और एक मोटी चेन वाली नेकलेस पहनी है, ड्रैगन के घोंसले के दृश्य में खड़ी है, Yoshitaka Amano के प्रभाव वाला पेपर-कट कोलाज आर्ट स्टाइल, साइंस-फिक्शन भावनात्मक अभिव्यक्ति, नियॉन लाइट इल्यूमिनेशन,...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c7b3c465917dcb1516ed707d6e114e70/thumbnails/thumbnail.jpg" width="600" alt="ड्रैगन के घोंसले में एक महिला, पेपर-कट कोलाज आर्ट स्टाइल">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2700)**
+
+**Author:** [Blinkoo](https://x.com/HNicotine1233) | **Source:** [Link](https://x.com/HNicotine1233/status/2040469239866482844) | **Published:** Apr 4, 2026
+
+---
+### सेल्फी POV वीडियो के लिए विस्तृत Grok Imagine प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक अत्यधिक विस्तृत प्रॉम्प्ट, जो सटीक संरचना और विजुअल इफेक्ट्स सुनिश्चित करने के लिए वास्तविक भौतिकी सिमुलेशन, लेंस प्रकार (GoPro फिशआई), परिप्रेक्ष्य (सेल्फी POV), और फ्रेमिंग (हाफ बॉडी) को निर्दिष्ट करता है।
+
+#### 📝 Prompt
+
+```
+GoPro फिशआई मॉडल को स्पष्ट रूप से बताता है कि किस लेंस प्रकार का अनुकरण करना है। 
+और चूंकि सेल्फी POV और हाफ बॉडी फ्रेमिंग को स्पष्ट रूप से परिभाषित किया गया है, इसलिए यह संरचना को लेकर भ्रमित नहीं होगा।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9cf21025677d6c96ffb2738d1b1ffe56/thumbnails/thumbnail.jpg" width="600" alt="सेल्फी POV वीडियो के लिए विस्तृत Grok Imagine प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2717)**
+
+**Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2040454636101075084) | **Published:** Apr 4, 2026
+
+---
+### पोर्टल से गिरते हुए ईस्टर बनी (Easter Bunnies)
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक फैंटेसी प्रॉम्प्ट, जिसमें दो ईस्टर बनी रेत में गड्ढा खोदकर एक पोर्टल के जरिए बुराई, आग और ज्वालामुखियों की दुनिया में गिरते हुए दिखाई दे रहे हैं।
+
+#### 📝 Prompt
+
+```
+दो ईस्टर बनी रेत में गड्ढा खोद रहे हैं और एक पोर्टल के जरिए बुराई, आग और ज्वालामुखियों की दुनिया में गिर रहे हैं
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d2476bd11c47218e4712d7b427db2b9b/thumbnails/thumbnail.jpg" width="600" alt="पोर्टल से गिरते हुए ईस्टर बनी (Easter Bunnies)">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2694)**
+
+**Author:** [Deandawiz](https://x.com/Deandawiz) | **Source:** [Link](https://x.com/Deandawiz/status/2040447894155616533) | **Published:** Apr 4, 2026
+
+---
+### अति-यथार्थवादी कॉस्मिक-मैकेनिकल आकाशीय प्राणी
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 1.0 के लिए एक विस्तृत और जटिल प्रॉम्प्ट, जिसे गहरे अंतरिक्ष में तैरते हुए एक विशाल कॉस्मिक-मैकेनिकल आकाशीय प्राणी का अति-यथार्थवादी सिनेमैटिक डार्क फैंटेसी वीडियो बनाने के लिए डिज़ाइन किया गया है।
+
+#### 📝 Prompt
+
+```
+गहरे अंतरिक्ष में भव्यता से तैरते हुए एक विशाल कॉस्मिक-मैकेनिकल आकाशीय प्राणी का अति-यथार्थवादी सिनेमैटिक डार्क फैंटेसी फुल-बॉडी पोर्ट्रेट। यह आकृति जटिल सफेद और गहरे बैंगनी रंग के क्रिस्टलीय मैकेनिकल कवच से ढकी है, जिसमें सुनहरे लहजे और चमकते हुए सर्किट हैं। इसका हेलमेट चिकना है और इसमें तारों से भरा एक गहरा गैलेक्सी नेबुला वाइज़र है।
+
+इसकी सबसे आकर्षक विशेषताएं हैं: टूटी हुई चमकती सफेद-नीली क्रिस्टलीय और धात्विक प्लेटों से बने विशाल भव्य पंखों की एक जोड़ी, जो दरारों से निकलती तीव्र रोशनी के साथ नाटकीय रूप से बाहर की ओर फैले हुए हैं; प्रकाश की रेखाओं से जुड़े कई चमकते नीले गोलों से बनी एक जटिल कक्षीय ऊर्जा संरचना, जो इसके सिर के ऊपर एक आकाशीय मुकुट की तरह तैर रही है; और इसके धड़ पर बैंगनी और नीले रंग के शेड्स में घूमता हुआ एक शक्तिशाली गैलेक्सी भंवर।
+
+लंबे बहते हुए बैंगनी कॉस्मिक ऊर्जा के तंतु इसके शरीर से गतिशील रूप से निकल रहे हैं। एक हाथ ऊपर की ओर उठा हुआ है, जिसकी हथेली ऊर्जा से चमक रही है। तीव्र वॉल्यूमेट्रिक सफेद-नीली गॉड रेज़, अनगिनत चमकते कण और तारे कॉस्मिक शून्य की पृष्ठभूमि को भर रहे हैं। ऊर्जा के बीच से गुजरती सूक्ष्म डार्क एथेरियल धुंध, रहस्यमय कॉस्मिक शक्ति का एक प्राचीन, अशुभ और वर्जित डार्क फैंटेसी आभा पैदा करती है। अल्ट्रा फोटो-यथार्थवादी धात्विक प्रतिबिंब, क्रिस्टलीय बनावट, अति-विस्तृत यथार्थवादी प्रकाश और ऊर्जा सिमुलेशन, मास्टरपीस, 8k रिज़ॉल्यूशन, सर्वोत्तम गुणवत्ता।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/26e175c5efa4bf9b113021b3c2248436/thumbnails/thumbnail.jpg" width="600" alt="अति-यथार्थवादी कॉस्मिक-मैकेनिकल आकाशीय प्राणी">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2702)**
+
+**Author:** [N0v4Ph4n](https://x.com/N0v4ph4n) | **Source:** [Link](https://x.com/N0v4ph4n/status/2040440934945759428) | **Published:** Apr 4, 2026
+
+---
+### समुद्र की लहरों वाला अति-यथार्थवादी ग्लास बॉक्स
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक प्रॉम्प्ट, जिसमें समुद्र की सतह पर रखे समुद्र की लहरों से भरे एक लंबवत, पारदर्शी ग्लास बॉक्स का वर्णन है, जिसे Octane Render का उपयोग करके अति-यथार्थवादी फोटोग्राफी और सिनेमाई गुणवत्ता के साथ रेंडर किया गया है।
+
+#### 📝 Prompt
+
+```
+समुद्र की सतह पर रखा समुद्र की लहरों से भरा एक लंबवत पारदर्शी ग्लास बॉक्स, अति-यथार्थवादी फोटोग्राफी, इस दृश्य को सिनेमाई गुणवत्ता के साथ Octane Render का उपयोग करके अति-यथार्थवादी विवरण में रेंडर किया गया है
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/db2eec2786381ddd780719149ee2171d/thumbnails/thumbnail.jpg" width="600" alt="समुद्र की लहरों वाला अति-यथार्थवादी ग्लास बॉक्स">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2692)**
+
+**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2040439749211537780) | **Published:** Apr 4, 2026
+
+---
+### Grok Imagine प्रॉम्प्ट: बिजली की चपेट में आए उड़ते हुए स्टेपलर
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine का एक प्रॉम्प्ट, जिसमें दो उड़ते हुए स्टेपलर (एक लाल और एक नीला) की छवि (या वीडियो) का अनुरोध किया गया है, जो सूरज के पास उड़ रहे हैं और फिर उन पर बिजली गिरती है।
+
+#### 📝 Prompt
+
+```
+उड़ते हुए स्टेपलर की एक छवि बनाएं, जिसमें एक लाल और एक नीला स्टेपलर हो। वे सूरज के पास उड़ रहे हैं और फिर उन पर बिजली गिरती है....
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8f0dbf4f8bba87e611e2bf9ef3789812/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine प्रॉम्प्ट: बिजली की चपेट में आए उड़ते हुए स्टेपलर">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2708)**
+
+**Author:** [Garage Idol](https://x.com/GarageIdol) | **Source:** [Link](https://x.com/GarageIdol/status/2040435198681321506) | **Published:** Apr 4, 2026
+
+---
+### टाउन स्क्वायर में बिल्ली जैसी सुंदर महिला
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक वर्णनात्मक प्रॉम्प्ट, जिसमें रात के समय एक छोटे से टाउन स्क्वायर में स्वतंत्र रूप से खड़ी, बिल्ली जैसी सूक्ष्म विशेषताओं वाली और मोती जैसी सफेद स्लिप ड्रेस पहनी एक सुंदर महिला का वीडियो मांगा गया है, जो मुक्ति का प्रतीक है।
+
+#### 📝 Prompt
+
+```
+बिल्ली जैसी विशेषताओं (बिल्ली के कान, बिल्ली जैसी सूक्ष्म चेहरे की बनावट, सुंदर बिल्ली की पूंछ) वाली एक सुंदर महिला, जिसने एक नाजुक मोती जैसी सफेद स्लिप ड्रेस और अपनी कलाई पर एक नाजुक ब्रेसलेट पहना है, जो रात के समय एक छोटे से टाउन स्क्वायर में स्वतंत्र रूप से खड़ी है और मुक्ति का प्रतीक है...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/34fccfd20fc7df701c8b3d4c3eaa6622/thumbnails/thumbnail.jpg" width="600" alt="टाउन स्क्वायर में बिल्ली जैसी सुंदर महिला">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2705)**
+
+**Author:** [Blinkoo](https://x.com/HNicotine1233) | **Source:** [Link](https://x.com/HNicotine1233/status/2040428647027503109) | **Published:** Apr 4, 2026
+
+---
+### अति-यथार्थवादी ईस्टर एग बम का विस्फोट और उसमें से निकलता खरगोश
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक विस्तृत, सिनेमाई प्रॉम्प्ट जो दो भागों वाले अति-यथार्थवादी वीडियो का वर्णन करता है: पहले भाग में एक रंगीन ईस्टर एग बम का नाटकीय विस्फोट, और दूसरे भाग में विस्फोट के बीच से एक प्यारे सफेद खरगोश का निकलना, जो हाथ हिलाकर 'Felices Pascuas' कह रहा है।
+
+#### 📝 Prompt
+
+```
+सिनेमाई शैली में 6 सेकंड का एक अति-यथार्थवादी वीडियो।
+सेकंड 1-3: पूरी तरह से अंधेरे बैकग्राउंड के खिलाफ एक रंगीन ईस्टर एग बम के नाटकीय विस्फोट की अत्यधिक विस्तृत अति-यथार्थवादी तस्वीर, जीवंत रंग, उड़ते हुए खोल के टुकड़े, चिंगारियां और धुआं, शानदार कंपोजिशन, 8K क्वालिटी।
+सेकंड 4-6: विस्फोट होते हुए ईस्टर एग के अंदर से लाल बनियान पहने एक प्यारा सफेद खरगोश निकलता है, जिसने चॉकलेट ईस्टर एग से भरी एक टोकरी पकड़ी हुई है। खरगोश खुशी से अपना एक पंजा हिलाता है और स्पीच बबल में 'Felices Pascuas' कहता है। गर्म रोशनी, मनमौजी और आनंदमय वातावरण, सहज एनीमेशन ट्रांजिशन।
+अल्ट्रा रियलिस्टिक विवरण, जीवंत रंग, सिनेमाई लाइटिंग, 8K क्वालिटी, अत्यधिक विस्तृत, अति-यथार्थवादी और जादुई शैली।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bc443242fcf61252d885b91e806c503f/thumbnails/thumbnail.jpg" width="600" alt="अति-यथार्थवादी ईस्टर एग बम का विस्फोट और उसमें से निकलता खरगोश">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2698)**
+
+**Author:** [MYS AI](https://x.com/mys1111) | **Source:** [Link](https://x.com/mys1111/status/2040426898568704036) | **Published:** Apr 4, 2026
+
+---
+### Grok Imagine प्रॉम्प्ट: भूमिगत उन्नत सभ्यताएं
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine का एक प्रॉम्प्ट, जिसमें दुनिया के जलप्रलय से पहले की प्राचीन भूमिगत उन्नत सभ्यताओं का UHD यथार्थवादी चित्रण मांगा गया है, जो जलप्रलय-पूर्व भूमिगत आवासों के सुसंगत विवरणों पर आधारित है।
+
+#### 📝 Prompt
+
+```
+दुनिया के जलप्रलय से पहले की प्राचीन भूमिगत उन्नत सभ्यताओं का UHD यथार्थवादी चित्रण, जो जलप्रलय-पूर्व भूमिगत आवासों के सबसे सुसंगत और एकीकृत विवरणों के अनुसार हो, जहाँ जलप्रलय से बची सभी इकाइयाँ और...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e8e67983cb999702c0d1d6b030679c3/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine प्रॉम्प्ट: भूमिगत उन्नत सभ्यताएं">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2710)**
+
+**Author:** [PARKSCorporation](https://x.com/GARIworldwide) | **Source:** [Link](https://x.com/GARIworldwide/status/2040425104107311248) | **Published:** Apr 4, 2026
+
+---
+### Grok Imagine प्रॉम्प्ट: गेथसेमाने में तीन क्रॉस
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine का एक प्रॉम्प्ट जिसमें गेथसेमाने में तीन क्रॉस का दृश्य मांगा गया है, जिसमें बीच वाले क्रॉस पर एक लंबा सफेद कपड़ा है जो हल्की हवा में लहरा रहा है।
+
+#### 📝 Prompt
+
+```
+गेथसेमाने में तीन क्रॉस। बीच वाले क्रॉस पर एक लंबा सफेद कपड़ा है जो हल्की हवा में लहरा रहा है।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0503add31bea9d7782456e065887cbc9/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine प्रॉम्प्ट: गेथसेमाने में तीन क्रॉस">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2707)**
+
+**Author:** [LiveHumble&Kind](https://x.com/LivehumbleKind) | **Source:** [Link](https://x.com/LivehumbleKind/status/2040424702188114222) | **Published:** Apr 4, 2026
+
+---
+### साइबरपंक टोक्यो AI मॉन्स्टर वीडियो प्रॉम्प्ट
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Grok Imagine के लिए एक विस्तृत, सिनेमैटिक प्रॉम्प्ट, जो 2026 के साइबरपंक टोक्यो की रात के आकाश में एक विशाल काले AI मॉन्स्टर को चमकते डॉलर और सपनों (कोड और प्रकाश कणों द्वारा दर्शाया गया) को निगलते हुए 8-सेकंड का वीडियो बनाने के लिए है। इसमें अग्रभूमि में एक थका हुआ इंजीनियर और डरावनी फिल्म जैसा नाटकीय कैमरा वर्क शामिल है।
+
+#### 📝 Prompt
+
+```
+2026 के साइबरपंक टोक्यो की रात के आकाश का एक गतिशील दृश्य, जहाँ एक विशाल काले AI मॉन्स्टर का मुँह पूरी तरह खुला है, जो लालच में चमकते डॉलर और चमकते सपनों (कोड, विचार, रचनात्मक प्रकाश कण) के बादलों को निगल रहा है। मॉन्स्टर में डिजिटल ग्लिच और लाल आँखें हैं, पृष्ठभूमि में गिरती हुई ऑफिस की इमारतें और डेटा स्ट्रीम हैं। अग्रभूमि में, एक थका हुआ जापानी इंजीनियर (30 के दशक में, काले बाल, चश्मा, काली टी-शर्ट) स्तब्ध खड़ा ऊपर देख रहा है। डरावनी फिल्म-शैली का नाटकीय कैमरा वर्क, जैसे-जैसे मॉन्स्टर सपनों को निगलता है, ज़ूम इन होता है। लाल और काले रंग के गहरे टोन, साइबरपंक लाइटिंग, शक्तिशाली गति, चबाने की आवाज़, परेशान करने वाला लो-फ्रीक्वेंसी BGM और चौंकाने वाले साउंड इफेक्ट्स। अंत में बड़े और लाल अक्षरों में टेक्स्ट ओवरले "AI started eating dreams too 2026.4" दिखाई देता है। 8 सेकंड, सिनेमैटिक, उच्च विवरण, नाटकीय लाइटिंग, 720p
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b7b728b1b8cc57781b80b0bf4493bcda/thumbnails/thumbnail.jpg" width="600" alt="साइबरपंक टोक्यो AI मॉन्स्टर वीडियो प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2720)**
+
+**Author:** [acropapa](https://x.com/acropapa330) | **Source:** [Link](https://x.com/acropapa330/status/2040397663712235951) | **Published:** Apr 4, 2026
+
+---
+### अतिवास्तविक ऑप्टिकल इल्यूजन टनल
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक अत्यंत जटिल और विस्तृत प्रॉम्प्ट, जो एक विशाल घुमावदार टनल के अंदर अंतरिक्ष यात्री और तैरते हुए गोलों के साथ एक अतिवास्तविक ऑप्टिकल इल्यूजन दृश्य का वर्णन करता है।
+
+#### 📝 Prompt
+
+```
+एक विशाल घुमावदार टनल के अंदर अतिवास्तविक ऑप्टिकल इल्यूजन दृश्य, जिसमें सम्मोहक संकेंद्रित काले, सफेद और लाल रंग की घूमती हुई धारियां हैं जो अनंत गहराई और गति का तीव्र अहसास कराती हैं। टनल की दीवारें और फर्श एक निरंतर मुड़े हुए भंवर का पैटर्न बनाते हैं, जिसके ऊपरी बैकग्राउंड में एक गहरा लाल गोलाकार बैंड है।
+केंद्र में, एक चिकने ग्रे स्पेससूट, काले हेलमेट और बूट्स में एक चेहराहीन अंतरिक्ष यात्री, एक बड़े चमकदार काले गोले पर विचारमग्न बैठा है, जो घूमते हुए टनल पैटर्न को प्रतिबिंबित करता है। हवा में तैरते हुए: बाईं ओर एक विस्तृत यथार्थवादी ग्रे क्रेटर वाला चंद्रमा, दाईं ओर एक बड़ा चमकदार पारभासी लाल गोला जिसमें एक विकृत मानव आंख है, और नीचे दाईं ओर अग्रभूमि में एक छोटा परावर्तक काले-सफेद धारीदार गोला है। पूरे दृश्य में उच्च कंट्रास्ट, नाटकीय लाइटिंग, स्मूथ 3D रेंडरिंग और एक मजबूत साइकेडेलिक, स्वप्निल वातावरण है। सिनेमाई रचना, टनल में पूर्ण समरूपता, स्पष्ट विवरण, 8k रिज़ॉल्यूशन।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e29c66ed9c579e6e96f7fe9ec590776c/thumbnails/thumbnail.jpg" width="600" alt="अतिवास्तविक ऑप्टिकल इल्यूजन टनल">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2704)**
+
+**Author:** [AICook](https://x.com/AIArtCook) | **Source:** [Link](https://x.com/AIArtCook/status/2040381728817066122) | **Published:** Apr 4, 2026
+
+---
+### सिनेमैटिक वीडियो प्रॉम्प्ट विवरण
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक विस्तृत प्रॉम्प्ट जो फिल्म स्टॉक, लेंस, अपर्चर, डेप्थ ऑफ फील्ड और कलर ग्रेडिंग को निर्दिष्ट करता है, जिसका उपयोग सिनेमैटिक वीडियो जनरेशन के लिए किया जाता है। अन्य ट्वीट्स और वीडियो आउटपुट के संदर्भ को देखते हुए, यह संभवतः Grok Imagine का उपयोग कर रहा है।
+
+#### 📝 Prompt
+
+```
+फिल्म स्टॉक: 35mm Kodak Vision3 500T, भारी ऑर्गेनिक फिल्म ग्रेन, उच्च कंट्रास्ट। लेंस/अपर्चर: 35mm एनामोर्फिक लेंस, f/2.8। दोनों पात्रों को स्पष्ट रूप से देखने के लिए डीप डेप्थ ऑफ फील्ड। कलर ग्रेड: "सैचुरेटेड 90s डायनर" पैलेट। गर्म निकोटीन पीले रंग, चमकीले लाल विनाइल बूथ, और कठोर
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/88c95722bedf1108e75c1de67d3ac197/thumbnails/thumbnail.jpg" width="600" alt="सिनेमैटिक वीडियो प्रॉम्प्ट विवरण">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2715)**
+
+**Author:** [ArcZeal Designs](https://x.com/arczeal_designs) | **Source:** [Link](https://x.com/arczeal_designs/status/2040379446234853486) | **Published:** Apr 4, 2026
+
+---
+### नियोन बारिश में साइबरनेटिक रोनिन (लॉन्ग प्रॉम्प्ट)
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक लंबा और जटिल प्रॉम्प्ट, जिसमें मूसलाधार नियोन बारिश में खड़े फटे हुए काले हकामा पहने एक अकेले रोनिन का वर्णन है, जिसका आधा शरीर स्टारडस्ट और बायो-ल्यूमिनेसेंट कणों में विलीन हो रहा है। इस दृश्य में एक साइबरनेटिक कटाना, नियोन एक्सेंट के साथ चुनिंदा ब्लैक एंड व्हाइट कलरिंग, और असली, अल्ट्रा-डिटेल्ड सौंदर्य शामिल है।
+
+#### 📝 Prompt
+
+```
+एक वीरान, बारिश से भीगे वातावरण में अकेले रोनिन की एक सिनेमाई तस्वीर, जो पारंपरिक और भविष्यवादी तत्वों का मिश्रण है।
+
+लॉन्ग प्रॉम्प्ट
+फटे हुए काले हकामा में एक अकेला रोनिन मूसलाधार नियोन बारिश में खड़ा है, उसका आधा शरीर घूमते हुए स्टारडस्ट और बायो-ल्यूमिनेसेंट कणों में विलीन हो रहा है, साइबरनेटिक कटाना अल्ट्रावायलेट और मैजेंटा रंग में चमक रहा है, पूरी तस्वीर चुनिंदा ब्लैक एंड व्हाइट है, सिवाय हिंसक नियोन ब्लेड और चेरी-लाल खून की बूंदों के, सिनेमाई रिम लाइट, ईथरियल वॉल्यूमेट्रिक गॉड रेज़, असली ड्रीम लॉजिक, अल्ट्रा-डिटेल्ड, Midjourney सौंदर्य, नाटकीय लो एंगल
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6f0af4a2f36360f8c0adb2d9cbaa3a9e/thumbnails/thumbnail.jpg" width="600" alt="नियोन बारिश में साइबरनेटिक रोनिन (लॉन्ग प्रॉम्प्ट)">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2693)**
+
+**Author:** [Carolina Delgado](https://x.com/carolletta) | **Source:** [Link](https://x.com/carolletta/status/2040368591934226758) | **Published:** Apr 4, 2026
+
+---
+### रेगिस्तान में आर्मर्ड मसल कार का ट्रैकिंग शॉट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine (वीडियो जनरेशन) के लिए एक प्रॉम्प्ट, जिसमें एक भारी आर्मर्ड मसल कार को रेगिस्तान में तेजी से दौड़ते हुए, मलबे के बीच से गुजरते हुए और लेंस की ओर उड़ती रेत के साथ एक शानदार ट्रैकिंग शॉट की मांग की गई है।
+
+#### 📝 Prompt
+
+```
+एक भारी आर्मर्ड मसल कार, मजबूत फ्रंट ग्रिल, इंजन की भीषण दहाड़, धूल से ढकी बॉडी। रेगिस्तान में तेजी से दौड़ते हुए मलबे के बीच से निकलना और पीछे से आ रही फायरिंग से बचना। अंतहीन रेगिस्तान, रेत के टीले, बिखरे हुए जलते वाहन, हवा में गर्मी का असर। अगले पहिये के पास लॉक किया गया अल्ट्रा-लो ट्रैकिंग शॉट, लेंस की ओर उड़ती रेत, आक्रामक मोशन ब्लर, तेज धूप और सुनहरे रंग, शुद्ध गति और क्रूरता।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a9574bfc0611d54e838363792903c584/thumbnails/thumbnail.jpg" width="600" alt="रेगिस्तान में आर्मर्ड मसल कार का ट्रैकिंग शॉट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2697)**
+
+**Author:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Source:** [Link](https://x.com/CharaspowerAI/status/2040346143968592065) | **Published:** Apr 4, 2026
+
+---
+### गोलाकार ब्रश स्ट्रोक और गिरते रंगों के साथ पेंटिंग करती लड़की
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक डायनामिक प्रॉम्प्ट, जिसमें एक लड़की को ब्रश उठाते हुए और उसे गोल घुमाते हुए दर्शाया गया है, जिससे दृश्य में हर तरफ प्राकृतिक रंग बिखर रहे हैं और वह हंस रही है।
+
+#### 📝 Prompt
+
+```
+लड़की को ब्रश को आगे, फिर ऊपर, दाएं, फिर उत्तर की ओर और एक वृत्त के आकार में घुमाने के लिए कहें, जिससे दृश्य में हर जगह अलग-अलग प्राकृतिक रंग गिर रहे हों और वह हंस रही हो।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c8da5b064ad39bed53276c5454819943/thumbnails/thumbnail.jpg" width="600" alt="गोलाकार ब्रश स्ट्रोक और गिरते रंगों के साथ पेंटिंग करती लड़की">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2701)**
+
+**Author:** [ahmed ibrahim](https://x.com/AhmedYasienibby) | **Source:** [Link](https://x.com/AhmedYasienibby/status/2040331264117379290) | **Published:** Apr 4, 2026
+
+---
+### अत्यधिक क्लोज-अप एनीमे रियलिज्म पोर्ट्रेट (रोकोको स्टाइल)
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine (वीडियो जनरेशन) के लिए एक प्रॉम्प्ट, जिसमें रोकोको परंपरा से प्रेरित एक अत्यधिक क्लोज-अप एनीमे रियलिज्म पोर्ट्रेट का अनुरोध किया गया है, जिसमें कोमल त्वचा के रंग, सूक्ष्म गर्माहट और डिफ्यूज्ड लाइटिंग पर जोर दिया गया है।
+
+#### 📝 Prompt
+
+```
+रोकोको पोर्ट्रेट परंपरा से प्रेरित अत्यधिक क्लोज-अप एनीमे रियलिज्म पोर्ट्रेट, पाउडर जैसी कोमल त्वचा के रंग, सूक्ष्म गर्माहट, हर विवरण में हल्की कोमलता, उसकी आँखें सौम्य और आकर्षक, लाइटिंग डिफ्यूज्ड और शांत, बैकग्राउंड पेस्टल और हवादार, परिष्कृत वातावरण, स्त्रीत्व, म्यूजियम स्तर की कोमलता।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6afbcd078486edddc8c71aca62d0cc76/thumbnails/thumbnail.jpg" width="600" alt="अत्यधिक क्लोज-अप एनीमे रियलिज्म पोर्ट्रेट (रोकोको स्टाइल)">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2696)**
+
+**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2040319026388169172) | **Published:** Apr 4, 2026
+
+---
+### घोड़े पर सवार जापानी सेनगोकू योद्धा
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक प्रॉम्प्ट, जिसमें अलंकृत सुनहरे कवच पहने एक जापानी सेनगोकू-युग के योद्धा का युद्ध के मैदान में सरपट दौड़ते घोड़े पर सवार एक नाटकीय दृश्य है, जिसे पारंपरिक जापानी ऐतिहासिक चित्रकला शैली में प्रस्तुत किया गया है।
+
+#### 📝 Prompt
+
+```
+अलंकृत सुनहरे कवच में एक जापानी सेनगोकू-युग का योद्धा, पूरी गति से सरपट दौड़ते घोड़े पर सवार, हवा में लहराते युद्ध के झंडे, युद्ध के मैदान की पृष्ठभूमि, नाटकीय तीन-चौथाई कोण से देखा गया, पारंपरिक जापानी ऐतिहासिक चित्रकला शैली
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a33996eb1c0079bff16c115763923e68/thumbnails/thumbnail.jpg" width="600" alt="घोड़े पर सवार जापानी सेनगोकू योद्धा">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2691)**
+
+**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2040314422787252728) | **Published:** Apr 4, 2026
+
+---
 ### Grok Imagine के लिए एक्शन सीक्वेंस प्रॉम्प्ट
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -201,11 +757,68 @@ Why use our gallery?
 Kanzu Bogan का बेहतरीन शॉट 10 सेकंड में दिखाएं!! उसे झरने के पास से दौड़ते हुए, पानी की छींटे उड़ाते हुए और कैमरे के सामने हाई किक मारते हुए दिखाएं। इसे 6x स्पीड और लो एंगल पर शूट करें। अंत में पानी की बूंदों को कैमरे के लेंस पर गिरते हुए और स्क्रीन को धुंधला करते हुए दिखाएं।
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/75830bea2e30b6201a067229dc3a7f05/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine के लिए एक्शन सीक्वेंस प्रॉम्प्ट">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/abfdc32502c79d0bdb92b85982d78378/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine के लिए एक्शन सीक्वेंस प्रॉम्प्ट">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2626)**
 
 **Author:** [阿部 孝](https://x.com/03abe_takashi) | **Source:** [Link](https://x.com/03abe_takashi/status/2040308109521060031) | **Published:** Apr 4, 2026
+
+---
+### Elon द्वारा स्वीकृत Starship रॉकेट किट वीडियो प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक जटिल, कथात्मक प्रॉम्प्ट जिसमें बच्चों के लिए 'Elon द्वारा स्वीकृत Starship रॉकेट' किट शामिल है, जिसमें विशिष्ट गुड़िया और थीम शामिल हैं।
+
+#### 📝 Prompt
+
+```
+Elon द्वारा स्वीकृत }~ { Starship रॉकेट } किट बच्चों के लिए स्वीकृत { एक दिन तुम नन्हे-मुन्ने मेरे लिए काम कर सकते हो } इसमें Dima, Elon , € { सुंदर लंबे काले बालों वाली Lacey गुड़िया } अतिरिक्त भी आती है, किट के साथ छोटे नटखट € ~~^***€ {Starship तुम्हारा है }~ अभिभावकीय...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/54fa1094f3dc02e86df5d9a59c532292/thumbnails/thumbnail.jpg" width="600" alt="Elon द्वारा स्वीकृत Starship रॉकेट किट वीडियो प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2714)**
+
+**Author:** [Notzucow](https://x.com/Notzucow69) | **Source:** [Link](https://x.com/Notzucow69/status/2040285109354422724) | **Published:** Apr 4, 2026
+
+---
+### स्टार वार्स रॉटवीलर पायलट और बिल्ली सह-पायलट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक grok-imagine वीडियो प्रॉम्प्ट जिसमें स्टार वार्स जैसी गैलेक्सी का दृश्य मांगा गया है, जिसमें एक रॉटवीलर पायलट के रूप में और एक बिल्ली सह-पायलट के रूप में, स्टार वार्स जैसे अंतरिक्ष यान को नेबुला के पास उड़ा रहे हैं।
+
+#### 📝 Prompt
+
+```
+स्टार वार्स जैसी गैलेक्सी में एक रॉटवीलर पायलट और बिल्ली सह-पायलट, स्टार वार्स जैसे अंतरिक्ष यान को नेबुला के पास उड़ा रहे हैं @grok @imagine यह अद्भुत है।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f82094cbc4896f5d471f9a1a5d505c09/thumbnails/thumbnail.jpg" width="600" alt="स्टार वार्स रॉटवीलर पायलट और बिल्ली सह-पायलट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2713)**
+
+**Author:** [Emily](https://x.com/EMILYZART) | **Source:** [Link](https://x.com/EMILYZART/status/2040262627914641448) | **Published:** Apr 4, 2026
+
+---
+### Grok Imagine प्रॉम्प्ट: महिला छोटे लोगों को भगा रही है
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> एक वीडियो के लिए विस्तृत वर्णनात्मक प्रॉम्प्ट, जिसमें तेज़ गति वाला, खुशनुमा बैकग्राउंड संगीत, अंग्रेज़ी संवाद, और एक मुस्कुराती हुई महिला ब्रश का उपयोग करके उन छोटे लोगों को भगा रही है जो विरोध करते हैं और बार-बार वापस इकट्ठा हो जाते हैं।
+
+#### 📝 Prompt
+
+```
+तेज़ गति वाला, खुशनुमा बैकग्राउंड संगीत। पात्रों की बातचीत अंग्रेज़ी में है। एक महिला प्यारी मुस्कान के साथ ब्रश से छोटे लोगों को भगाती है। छोटे लोग विरोध करते हैं और वहीं टिके रहने की कोशिश करते हैं ताकि वे भगाए न जा सकें। ब्रश से भगाए जाने के बावजूद, छोटे लोग बार-बार वापस इकट्ठा हो जाते हैं।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/13fcfd6c7792c527f57b7b04f64154c3/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine प्रॉम्प्ट: महिला छोटे लोगों को भगा रही है">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2721)**
+
+**Author:** [MAGA (Make America great again)](https://x.com/rao_kaiser) | **Source:** [Link](https://x.com/rao_kaiser/status/2040240958076526928) | **Published:** Apr 4, 2026
 
 ---
 ### Grok Imagine क्वालिटी मोड वीडियो विवरण
@@ -228,6 +841,25 @@ Kanzu Bogan का बेहतरीन शॉट 10 सेकंड में 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2631)**
 
 **Author:** [Simon Hayes](https://x.com/Hayess5178) | **Source:** [Link](https://x.com/Hayess5178/status/2040234159730262086) | **Published:** Apr 4, 2026
+
+---
+### वेपिंग करते हुए धूम्रपान छोड़ने का दावा करने वाला व्यक्ति
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक हास्यपूर्ण, कथात्मक प्रॉम्प्ट, जिसमें एक व्यक्ति को तीव्रता से वेपिंग करते हुए, धुएं का बड़ा बादल छोड़ते हुए और फिर व्यंग्यात्मक रूप से यह दावा करते हुए दिखाया गया है कि उसने आसानी से धूम्रपान छोड़ दिया है।
+
+#### 📝 Prompt
+
+```
+कोई व्यक्ति वेप को ऐसे खींच रहा है जैसे वह ऑक्सीजन हो, और जैसे ही वह वेप का धुआं छोड़ता है, वह कहता है, "हां, तो मैंने कुछ महीने पहले धूम्रपान छोड़ दिया, यह बहुत आसान था"
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0bf43ccc59237be1429a1b349f2914d3/thumbnails/thumbnail.jpg" width="600" alt="वेपिंग करते हुए धूम्रपान छोड़ने का दावा करने वाला व्यक्ति">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2699)**
+
+**Author:** [Lidy E Lane](https://x.com/LidyELane) | **Source:** [Link](https://x.com/LidyELane/status/2040224734382637242) | **Published:** Apr 4, 2026
 
 ---
 ### मॉलिक्यूलर स्ट्रैंड रोबोट्स की पहली डेट का वीडियो प्रॉम्प्ट
@@ -1521,642 +2153,6 @@ Wow! लोगो का प्रकट होना। ऑफ-स्क्र�
 **Author:** [sonali gupta](https://x.com/sonaligupta0724) | **Source:** [Link](https://x.com/sonaligupta0724/status/2039046213157392569) | **Published:** Mar 31, 2026
 
 ---
-### अतिवास्तविक विशाल महिला फैशन एडिटोरियल प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक विस्तृत प्रॉम्प्ट, जो एक अतिवास्तविक, भविष्यवादी फैशन एडिटोरियल वीडियो बनाने के लिए है। इसमें एक विशाल फोटो-यथार्थवादी महिला और उसकी लघु प्रति एक ही स्थान पर मौजूद हैं, जो नाटकीय पैमाने के अंतर और अल्ट्रा-यथार्थवादी, फोटो-यथार्थवादी गुणवत्ता पर जोर देते हैं।
-
-#### 📝 Prompt
-
-```
-अतिवास्तविक भविष्यवादी फैशन एडिटोरियल, एक विशाल फोटो-यथार्थवादी महिला और उसकी लघु प्रति एक ही स्थान पर मौजूद, नाटकीय पैमाने का अंतर, विशाल महिला का नीचे झुककर अपने छोटे संस्करण को देखना, अल्ट्रा यथार्थवादी, फोटो-यथार्थवादी,...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/70c14038bf56a833d4a228ced19c6645/thumbnails/thumbnail.jpg" width="600" alt="अतिवास्तविक विशाल महिला फैशन एडिटोरियल प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2457)**
-
-**Author:** [Hyun Lee](https://x.com/HolyMolySakura) | **Source:** [Link](https://x.com/HolyMolySakura/status/2039032725085040777) | **Published:** Mar 31, 2026
-
----
-### 3D एनीमे फिगरिन प्रॉम्प्ट (टेक्स्ट-टू-इमेज/वीडियो)
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> उच्च गुणवत्ता वाली 3D एनीमे-शैली की कलेक्टिबल फिगरिन का वर्णन करने वाला एक विस्तृत प्रॉम्प्ट। हालाँकि ट्वीट में एक वीडियो शामिल है, लेकिन प्रॉम्प्ट स्वयं एक स्थिर वस्तु का अत्यधिक विवरण देता है, जो इसे इमेज और वीडियो जनरेशन (जैसे टर्नटेबल वीडियो) दोनों के लिए उपयुक्त बनाता है। Grok-imagine संदर्भ को देखते हुए, इसे एक संभावित वीडियो प्रॉम्प्ट के रूप में निकाला गया है।
-
-#### 📝 Prompt
-
-```
-सुनहरे घुंघराले बालों और लाल हाइलाइट्स वाली एक स्टाइलिश युवती की उच्च गुणवत्ता वाली 3D एनीमे-शैली की कलेक्टिबल फिगरिन। उसने चांदी की फूलों वाली कढ़ाई वाली एक ग्लैमरस मैटेलिक लाल जैकेट, मैचिंग फ्लोइंग केप और टाइट ग्लिटरी लाल पैंट पहनी हुई है। उसने एक लग्जरी लाल लेदर हैंडबैग पकड़ा हुआ है और लाल हाई हील्स पहनी है। फिगरिन कांच के टॉप वाले लकड़ी के बेस पर खड़ी है। बैकग्राउंड में गर्म बोकेह लाइट्स के साथ एक हल्का, धुंधला इनडोर सेटिंग है, अत्यधिक विस्तृत टेक्सचर, 8k रिज़ॉल्यूशन, सिनेमैटिक लाइटिंग।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ed4f0e3029e44f61c726b0bb8ac37afd/thumbnails/thumbnail.jpg" width="600" alt="3D एनीमे फिगरिन प्रॉम्प्ट (टेक्स्ट-टू-इमेज/वीडियो)">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2477)**
-
-**Author:** [AshIsh](https://x.com/Ashish12139) | **Source:** [Link](https://x.com/Ashish12139/status/2039024127957401658) | **Published:** Mar 31, 2026
-
----
-### ड्रोन कैमरा मूवमेंट के साथ स्लो मोशन बर्फ का दृश्य
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक विस्तृत Grok Imagine प्रॉम्प्ट जो एक स्लो-मोशन वीडियो का वर्णन करता है जहाँ पात्र अस्वाभाविक रूप से धीरे-धीरे चलते हैं। दृश्य में गिरती हुई बर्फ शामिल है जो कैमरे को धुंधला कर रही है, जिसे एक ड्रोन की तरह निर्दिष्ट किया गया है जो एक लड़की के चेहरे के पास उड़ता है और फिर लड़के की ओर बढ़ जाता है, जिसमें गति, कैमरा वर्क और वातावरण पर बहुत अधिक ध्यान दिया गया है।
-
-#### 📝 Prompt
-
-```
-वीडियो एक स्लो मोशन वीडियो है जिसमें पात्र अस्वाभाविक रूप से धीरे-धीरे चल रहे हैं, चारों ओर बर्फ गिर रही है जो कैमरे को धुंधला कर रही है जैसे कि कोई ड्रोन लड़की के चेहरे के पास उड़कर आता है और फिर लड़के की ओर बढ़ जाता है....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8c2bf6ac44166e18310633ea9b02859a/thumbnails/thumbnail.jpg" width="600" alt="ड्रोन कैमरा मूवमेंट के साथ स्लो मोशन बर्फ का दृश्य">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2440)**
-
-**Author:** [Nádia Cury](https://x.com/Cury_X10) | **Source:** [Link](https://x.com/Cury_X10/status/2039024069438271953) | **Published:** Mar 31, 2026
-
----
-### गोल्डन आवर के दौरान रेगिस्तानी हाईवे पर दौड़ती 1967 Mustang
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक वीडियो जनरेशन प्रॉम्प्ट, जो गोल्डन आवर के दौरान रेगिस्तानी हाईवे पर दौड़ती एक चेरी रेड 1967 Mustang के सिनेमाई ट्रैकिंग शॉट का वर्णन करता है, जिसमें धूल का स्पष्ट निशान और इंजन की दहाड़ सुनाई देती है।
-
-#### 📝 Prompt
-
-```
-गोल्डन आवर के दौरान रेगिस्तानी हाईवे पर दौड़ती एक चेरी रेड 1967 Mustang, पीछे धूल का निशान, ट्रैकिंग शॉट, इंजन की दहाड़
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e79f548bd27daa88da8310ffdf4c6df4/thumbnails/thumbnail.jpg" width="600" alt="गोल्डन आवर के दौरान रेगिस्तानी हाईवे पर दौड़ती 1967 Mustang">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2466)**
-
-**Author:** [CorJesu_x](https://x.com/CorJesu_x) | **Source:** [Link](https://x.com/CorJesu_x/status/2039020922212864290) | **Published:** Mar 31, 2026
-
----
-### एनीमे हचीको ऑन मार्स वीडियो प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक प्रॉम्प्ट, जिसमें हचीको को चमकती आँखों वाले शोनन हीरो अकिता के रूप में नाटकीय विशेषताओं के साथ मंगल ग्रह के लाल टीलों पर वफादारी से खड़े हुए, एक महाकाव्य, एनीमे-शैली के वीडियो में दिखाया गया है।
-
-#### 📝 Prompt
-
-```
-एनीमे-शैली का महाकाव्य वीडियो, हचीको एक चमकती आँखों वाले शोनन हीरो अकिता के रूप में, लहराते स्कार्फ और नाटकीय बालों के हाइलाइट्स के साथ, मंगल ग्रह के लाल टीलों पर वफादारी से खड़ा है
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/728cfe3925c9ab85b2d7c83e8240d746/thumbnails/thumbnail.jpg" width="600" alt="एनीमे हचीको ऑन मार्स वीडियो प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2452)**
-
-**Author:** [Hachiko - $HACHI](https://x.com/HachikoS0L) | **Source:** [Link](https://x.com/HachikoS0L/status/2039016776025997742) | **Published:** Mar 31, 2026
-
----
-### वीडियो प्रॉम्प्ट: भीड़ में महिला की रक्षा करता नायक
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक वीडियो जनरेशन प्रॉम्प्ट, जिसमें एक ऐसे दृश्य का वर्णन है जहाँ एक नायक अपनी तलवार लहराते हुए भीड़ को चीरता है और अपनी गरिमा में खड़ी एक महिला को सुरक्षा प्रदान करता है।
-
-#### 📝 Prompt
-
-```
-जैसे ही वह अपनी तलवार लहराता है, एक महिला अपनी गरिमा में खड़ी है और लोगों की भीड़ उसे रोके हुए है, वह भीड़ को चीरते हुए आगे बढ़ता है और उसे सुरक्षा प्रदान करता है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1260b39493e9118ad2c634836a3d4c40/thumbnails/thumbnail.jpg" width="600" alt="वीडियो प्रॉम्प्ट: भीड़ में महिला की रक्षा करता नायक">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2473)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2039009220876538015) | **Published:** Mar 31, 2026
-
----
-### आदमी का जूते के फीते बांधना और दूर चले जाना
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक विस्तृत वीडियो जनरेशन प्रॉम्प्ट, जिसमें क्रियाओं का एक क्रम बताया गया है: एक आदमी का बेंच पर अपना अखबार रखना, जूते के फीते बांधना, अखबार उठाना, खड़ा होना और फिर पीछे मुड़कर देखे बिना बाईं ओर चलना।
-
-#### 📝 Prompt
-
-```
-आदमी अपना अखबार बेंच पर रखता है, फिर अपने जूते के फीते बांधता है, फिर अखबार उठाता है और जाने के लिए खड़ा हो जाता है, और फिर पीछे मुड़कर देखे बिना बाईं ओर चल देता है
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/51cf636fc36942ec32d1b362b995c161/thumbnails/thumbnail.jpg" width="600" alt="आदमी का जूते के फीते बांधना और दूर चले जाना">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2467)**
-
-**Author:** [Real Davevid](https://x.com/Davevid001) | **Source:** [Link](https://x.com/Davevid001/status/2039003137617363345) | **Published:** Mar 31, 2026
-
----
-### 360 डिग्री ऑर्बिट कैमरा मूवमेंट प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक Grok Imagine प्रॉम्प्ट जो किसी विषय (ट्वीट के संदर्भ के आधार पर बर्गर माना गया है) के चारों ओर कैमरा मूवमेंट (धीमा 360 डिग्री ऑर्बिट) का वर्णन करता है, जिसमें प्रकाश के साथ घूमती तीक्ष्ण छाया (sharp shadows) और एक सूक्ष्म एम्बिएंट टोन जैसे दृश्य विवरण निर्दिष्ट किए गए हैं।
-
-#### 📝 Prompt
-
-```
-कैमरा धीमा 360 डिग्री ऑर्बिट कर रहा है, प्रकाश के साथ घूमती तीक्ष्ण छाया, सूक्ष्म एम्बिएंट टोन
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cfe4e48a2505bc98f2b0a0946a4a27c7/thumbnails/thumbnail.jpg" width="600" alt="360 डिग्री ऑर्बिट कैमरा मूवमेंट प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2444)**
-
-**Author:** [Mutfağımın Seyir Defteri 👩‍🍳](https://x.com/seyyahmutfak) | **Source:** [Link](https://x.com/seyyahmutfak/status/2038999835597017168) | **Published:** Mar 31, 2026
-
----
-### बिल्लियों की तरह थप्पड़ मारते कुत्ते
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक प्रॉम्प्ट जो दो कुत्तों के बीच 'बिल्लियों की तरह थप्पड़ मारने' वाली लड़ाई का वीडियो बनाने का प्रयास करता है, जिसमें तेज़ थप्पड़ मारने की मज़ेदार हरकत को कैद करने की कोशिश की गई है।
-
-#### 📝 Prompt
-
-```
-2 कुत्ते जो बिल्लियों की तरह एक-दूसरे को थप्पड़ मार रहे हैं। दोनों ही दूसरे के थप्पड़ मारने से पहले खुद एक तेज़ थप्पड़ मारने की कोशिश कर रहे हैं....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b0df0c19776df5739d9794a91f6a7857/thumbnails/thumbnail.jpg" width="600" alt="बिल्लियों की तरह थप्पड़ मारते कुत्ते">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2460)**
-
-**Author:** [Dancing Dugs](https://x.com/DancingDugs) | **Source:** [Link](https://x.com/DancingDugs/status/2038973939192332662) | **Published:** Mar 31, 2026
-
----
-### कार्टून मॉन्स्टर डॉग लव स्टोरी वीडियो प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक सरल, कहानी-आधारित प्रॉम्प्ट, जो डायनासोर पक्षियों वाले जंगल में एक मज़ेदार दिखने वाले मॉन्स्टर डॉग का कार्टून वीडियो बनाने के लिए है, जो एक दूसरे मॉन्स्टर डॉग से मिलता है और उसे प्यार हो जाता है।
-
-#### 📝 Prompt
-
-```
-डायनासोर पक्षियों और पौधों वाले एक कार्टून जंगल में एक मज़ेदार दिखने वाला कार्टून जैसा मॉन्स्टर डॉग बनाएं। उसे एक और मज़ेदार दिखने वाला मॉन्स्टर डॉग मिलता है और उसे प्यार हो जाता है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ce8de5cdaa4fd2831f7df7d32cae0595/thumbnails/thumbnail.jpg" width="600" alt="कार्टून मॉन्स्टर डॉग लव स्टोरी वीडियो प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2450)**
-
-**Author:** [Dancing Dugs](https://x.com/DancingDugs) | **Source:** [Link](https://x.com/DancingDugs/status/2038966383594127723) | **Published:** Mar 31, 2026
-
----
-### जंगल में कार्टून मॉन्स्टर डॉग के लिए प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक प्रॉम्प्ट, जो एक कार्टून जंगल के माहौल में, डायनासोर पक्षियों और पौधों के साथ एक मजेदार, कार्टून जैसा मॉन्स्टर डॉग बनाने के लिए है।
-
-#### 📝 Prompt
-
-```
-एक कार्टून जंगल में डायनासोर पक्षियों और पौधों के साथ एक मजेदार दिखने वाला कार्टून जैसा मॉन्स्टर डॉग बनाएं
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bd433e65cf4cd98ff7783ea1541676ac/thumbnails/thumbnail.jpg" width="600" alt="जंगल में कार्टून मॉन्स्टर डॉग के लिए प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2455)**
-
-**Author:** [Dancing Dugs](https://x.com/DancingDugs) | **Source:** [Link](https://x.com/DancingDugs/status/2038963213413265782) | **Published:** Mar 31, 2026
-
----
-### फाइन डाइनिंग मील तैयार करते व्हिपेट्स
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक क्लासिक फ्रेंच रेस्तरां के माहौल में दो ब्रिंडल व्हिपेट्स द्वारा फाइन डाइनिंग मील तैयार करने का वीडियो प्रॉम्प्ट, जिसमें एक शेफ है और दूसरा सूप शेफ, दोनों ने बेदाग सफेद एप्रन पहने हुए हैं।
-
-#### 📝 Prompt
-
-```
-फाइन डाइनिंग मील तैयार करते दो ब्रिंडल व्हिपेट्स। एक शेफ है और दूसरा सूप शेफ है। क्लासिक फ्रेंच अहसास और रेस्तरां की पृष्ठभूमि रखें। शेफ को शेफ की टोपी पहनाएं। दोनों ने बेदाग सफेद एप्रन पहने हुए हैं....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a029737e773bcb0464801c89870aab7f/thumbnails/thumbnail.jpg" width="600" alt="फाइन डाइनिंग मील तैयार करते व्हिपेट्स">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2462)**
-
-**Author:** [PyneTree Whippets](https://x.com/GrokDoesDogs) | **Source:** [Link](https://x.com/GrokDoesDogs/status/2038947125774385605) | **Published:** Mar 31, 2026
-
----
-### रोलर कोस्टर पर कार्टून पांडा
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine का एक प्रॉम्प्ट जो रोलर कोस्टर पर सवार एक कार्टून जैसे पांडा का वर्णन करता है। इसमें स्टाइल को मोशन ब्लर और प्राकृतिक बैकग्राउंड के साथ Blender 3D रेंडर के रूप में निर्दिष्ट किया गया है, जो विशिष्ट रेंडरिंग तकनीकों और गतिशील गति पर ध्यान केंद्रित करता है।
-
-#### 📝 Prompt
-
-```
-एक कार्टून जैसा पांडा मोशन ब्लर और प्राकृतिक बैकग्राउंड के साथ Blender 3D रेंडर में रोलर कोस्टर की सवारी कर रहा है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4a2370687967383dc91770fff15a4c39/thumbnails/thumbnail.jpg" width="600" alt="रोलर कोस्टर पर कार्टून पांडा">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2439)**
-
-**Author:** [Alamgir Hossain](https://x.com/mdalamgir95) | **Source:** [Link](https://x.com/mdalamgir95/status/2038945324472127495) | **Published:** Mar 31, 2026
-
----
-### Conan the Barbarian स्टाइल की रानी और पैंथर्स वीडियो प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक जटिल प्रॉम्प्ट, जो 1995 की Ghost in the Shell सेल एनिमेशन शैली में एक वीडियो तैयार करेगा। इसमें Conan the Barbarian की फैंटेसी सेटिंग में काले पैंथर्स के साथ सिंहासन पर बैठी एक शक्तिशाली महिला को दर्शाया गया है, जिसमें विशिष्ट सौंदर्य विवरण और अंग्रेजी सबटाइटल के साथ जापानी संवाद शामिल हैं।
-
-#### 📝 Prompt
-
-```
-Conan the Barbarian की महाकाव्य फैंटेसी दुनिया की याद दिलाने वाले एक दृश्य में, एक शक्तिशाली और अद्भुत महिला एक राजसी सिंहासन पर बैठकर अपना प्रभाव दिखा रही है। उसकी उपस्थिति प्रभावशाली और शांत दोनों है, जो Conan के ब्रह्मांड से जुड़ी अदम्य सुंदरता और शक्ति को दर्शाती है। उसके दाएं और बाएं ओर चिकने काले पैंथर्स हैं, जिनके मांसल शरीर आराम की स्थिति में हैं लेकिन उनमें ऊर्जा भरी हुई है। ये राजसी जानवर न केवल रक्षक के रूप में काम करते हैं, बल्कि उसकी जबरदस्त शक्ति और प्रकृति के साथ उसके जुड़ाव के प्रतीक भी हैं। हवा में प्राचीन जादू का अहसास है, मानो यह दृश्य अनकहे लोकों का प्रवेश द्वार हो, और वह, उसकी संप्रभु शासक, युगों की बुद्धिमत्ता और क्रूरता रखती है। Ghost in the Shell 1995 सेल एनिमेशन शैली, Production I.G और Mamoru Oshii द्वारा, प्रामाणिक सेल ग्रेन टेक्सचर, क्लासिक 90 के दशक की सेल शेडिंग, अत्यधिक डीसैचुरेटेड कोल्ड पैलेट, प्रमुख म्यूट डार्क पर्पल टोन, केवल हल्के सियान-ग्रीन एक्सेंट, कोई जीवंत रंग नहीं, कोई चमकदार नियॉन नहीं, वातावरण दमनकारी उदास और अस्तित्ववादी, म्यूट पर्पल में शानदार वॉल्यूमेट्रिक एज लाइटिंग, सॉफ्ट रिम लाइट और सूक्ष्म सियान हाइलाइट्स के साथ, बहुत गहरी वॉल्यूमेट्रिक छाया, Oshii के निर्देशन में सटीक लाइनवर्क, मास्टरपीस क्वालिटी, शुद्ध 90 के दशक का OVA सौंदर्य, हाइपर डिटेल्ड, सिनेमाई कंपोजिशन, कोई चिबी नहीं, कोई फ्लैट शेडिंग नहीं, कोई कार्टून जैसी चमक नहीं, कोई सामान्य एनीमे अतिशयोक्ति नहीं। जापानी में संवाद:「ネットに潜れば、真実が見える。でも見えすぎると、もう戻れない。私はとっくに戻る場所をなくした。」 अंग्रेजी में सबटाइटल जोड़ें।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/98ae1ce8e06fe4c4d0f8715ff121b6e2/thumbnails/thumbnail.jpg" width="600" alt="Conan the Barbarian स्टाइल की रानी और पैंथर्स वीडियो प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2451)**
-
-**Author:** [tetsuo](https://x.com/tetsuoai) | **Source:** [Link](https://x.com/tetsuoai/status/2038907811439255904) | **Published:** Mar 31, 2026
-
----
-### कैरोलिना का फ्लर्टिंग मैसेज
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक वीडियो जनरेशन प्रॉम्प्ट, जिसमें कैरोलिना नाम के एक किरदार को मुस्कुराते हुए जॉन को एक खास फ्लर्टिंग मैसेज बोलने का निर्देश दिया गया है।
-
-#### 📝 Prompt
-
-```
-उसे मुस्कुराते हुए और फ्लर्टिंग अंदाज़ में यह कहने दें: हाय जॉन, मैं कैरोलिना हूँ और मैं तुमसे मिलने ग्रीस आ रही हूँ।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/570a35d340b368fa19ef820127ecdd5f/thumbnails/thumbnail.jpg" width="600" alt="कैरोलिना का फ्लर्टिंग मैसेज">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2469)**
-
-**Author:** [Donald J. Trump (Parody)](https://x.com/Donald_T_Parody) | **Source:** [Link](https://x.com/Donald_T_Parody/status/2038906248091873352) | **Published:** Mar 31, 2026
-
----
-### फ्यूचरिस्टिक होवरबाइक राइडर वीडियो प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक विस्तृत प्रॉम्प्ट, जो एक फ्यूचरिस्टिक होवरबाइक राइडर का डायनामिक वीडियो तैयार करने के लिए है। इसमें गति, खतरे और नियॉन-लाइट वाले शहर के माहौल में एक सिनेमैटिक अनुभव पर जोर दिया गया है।
-
-#### 📝 Prompt
-
-```
-एक फ्यूचरिस्टिक राइडर अपनी होवरबाइक पर मोड़ों पर आक्रामक रूप से झुकते हुए, वाइज़र में नियॉन लाइटें परावर्तित हो रही हैं, अत्यधिक गति पर बाधाओं के बीच से गुजरते हुए आने वाली फायरिंग से बच रहा है। उड़ते हुए ट्रैफ़िक, नियॉन साइन और वर्टिकल संरचनाओं वाला फ्यूचरिस्टिक सिटी हाईवे। साइड ट्रैकिंग शॉट जो समान गति से चल रहा है, बैकग्राउंड में तेज़ मोशन ब्लर, लाइट स्ट्रीक्स और रिफ्लेक्शन जो गति और खतरे का अहसास कराते हैं। सिनेमैटिक, यथार्थवादी
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/daf59bf72e90ab2dcdd5b305536b108d/thumbnails/thumbnail.jpg" width="600" alt="फ्यूचरिस्टिक होवरबाइक राइडर वीडियो प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2449)**
-
-**Author:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Source:** [Link](https://x.com/CharaspowerAI/status/2038896599099695371) | **Published:** Mar 31, 2026
-
----
-### प्रेरणादायक रैप लिरिक्स वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो बनाने के लिए प्रेरणादायक और आत्मविश्वास से भरे रैप-शैली के बोलों का उपयोग करने वाला प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-You can’t stop me watch me big time here fear none buddy I just begun Chill doing damage lames can’t manage For real Chill!!!!
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/24fa89f3be399b076fd915140ad9aa56/thumbnails/thumbnail.jpg" width="600" alt="प्रेरणादायक रैप लिरिक्स वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2464)**
-
-**Author:** [Chill](https://x.com/Allen7151656828) | **Source:** [Link](https://x.com/Allen7151656828/status/2038882322334863680) | **Published:** Mar 31, 2026
-
----
-### कस्टम अमेरिकन फ्लैग कार डिज़ाइन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक Grok Imagine प्रॉम्प्ट जो अमेरिकन फ्लैग के रंगों (लाल, सफेद और नीला) पर आधारित एक कस्टम कार डिज़ाइन का विवरण देता है। इसमें चमकदार, स्पार्कलिंग क्रोम व्हील्स, रूबी रेड बंपर और रूबी रेड स्पॉइलर जैसे विशिष्ट संशोधनों के साथ दृश्य विवरण और विशिष्ट रंग/मटेरियल विकल्पों पर जोर दिया गया है।
-
-#### 📝 Prompt
-
-```
-अमेरिकन फ्लैग के रंगों (लाल, सफेद और नीला) में बदलें, जिसमें अमेरिकन फ्लैग की तरह ही सितारे हों, बहुत चमकदार और स्पार्कलिंग
-क्रोम व्हील्स लगाएं
-रूबी रेड बंपर, कोई लिफ्ट नहीं, एलिगेंट
-रूबी रेड स्पॉइलर
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/be0126c5689e8208e5d3d8389a213027/thumbnails/thumbnail.jpg" width="600" alt="कस्टम अमेरिकन फ्लैग कार डिज़ाइन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2438)**
-
-**Author:** [Dawn](https://x.com/Dawn021412) | **Source:** [Link](https://x.com/Dawn021412/status/2038881031088968003) | **Published:** Mar 31, 2026
-
----
-### एक जीर्ण-शीर्ण अपार्टमेंट में डरावना और लिमिनल गलियारा
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 1950 के दशक की एक जीर्ण-शीर्ण अपार्टमेंट इमारत के भीतर अनंत तक फैले एक डरावने और लिमिनल गलियारे का विस्तृत, वायुमंडलीय प्रॉम्प्ट, जो एक आकाशीय पड़ोस के किनारे पर स्थित है जहाँ दुनिया के बीच का पर्दा बहुत पतला है।
-
-#### 📝 Prompt
-
-```
-1950 के दशक की एक जीर्ण-शीर्ण अपार्टमेंट इमारत के अंदर अनंत तक फैला एक डरावना और लिमिनल गलियारा, जो एक आकाशीय पड़ोस की सीमा पर स्थित है—जहाँ दुनिया के बीच का पर्दा बहुत पतला हो गया है और बाहर की स्ट्रीटलाइट्स टिमटिमा रही हैं...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bc781e2e4de5d34b0d0aa5e1bb25d626/thumbnails/thumbnail.jpg" width="600" alt="एक जीर्ण-शीर्ण अपार्टमेंट में डरावना और लिमिनल गलियारा">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2461)**
-
-**Author:** [null combination](https://x.com/adeptusnull) | **Source:** [Link](https://x.com/adeptusnull/status/2038880708798582968) | **Published:** Mar 31, 2026
-
----
-### 18k गोल्ड कार कस्टमाइज़ेशन वीडियो प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine का एक प्रॉम्प्ट जो 18k असली गोल्ड कलर, चमकदार स्पार्कलिंग क्रोम व्हील्स, गोल्ड बंपर्स और गोल्ड फिन के साथ वाहन के कस्टमाइज़ेशन का विवरण देता है, जिसमें बिना लिफ्ट के एक एलिगेंट लुक पर जोर दिया गया है।
-
-#### 📝 Prompt
-
-```
-रंग बदलें 18k असली गोल्ड बहुत चमकदार स्पार्कलिंग 
-क्रोम व्हील्स बनाएं 
-गोल्ड बंपर्स कोई लिफ्ट नहीं एलिगेंट
-गोल्ड फिन
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7f98d5a899e6113aedad288e2e58dfe7/thumbnails/thumbnail.jpg" width="600" alt="18k गोल्ड कार कस्टमाइज़ेशन वीडियो प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2476)**
-
-**Author:** [Dawn](https://x.com/Dawn021412) | **Source:** [Link](https://x.com/Dawn021412/status/2038877825512456382) | **Published:** Mar 31, 2026
-
----
-### कार कस्टमाइज़ेशन वीडियो प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine को वाहन को मॉडिफाई करने का निर्देश देने वाला एक प्रॉम्प्ट, जिसमें रंग को डायमंड मेटल फ्लेक में बदलने, चमकदार स्पार्कलिंग क्रोम, क्रोम व्हील्स, क्रोम बंपर और क्रोम फिन्स जोड़ने पर ध्यान केंद्रित किया गया है, साथ ही इसे एक एलिगेंट और नॉन-लिफ्टेड लुक बनाए रखा गया है।
-
-#### 📝 Prompt
-
-```
-रंग को डायमंड मेटल फ्लेक में बदलें, बहुत चमकदार और स्पार्कलिंग 
-क्रोम व्हील्स लगाएं 
-क्रोम बंपर, कोई लिफ्ट नहीं, एलिगेंट लुक 
-क्रोम फिन
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f2938ac39123922b1a077de341072c2d/thumbnails/thumbnail.jpg" width="600" alt="कार कस्टमाइज़ेशन वीडियो प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2453)**
-
-**Author:** [Dawn](https://x.com/Dawn021412) | **Source:** [Link](https://x.com/Dawn021412/status/2038875767640133702) | **Published:** Mar 31, 2026
-
----
-### कस्टम रॉयल ब्लू कार डिज़ाइन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक Grok Imagine प्रॉम्प्ट जो कस्टम कार डिज़ाइन का विवरण देता है, जिसमें बहुत चमकदार रॉयल ब्लू मेटल फ्लेक रंग, क्रोम व्हील्स, क्रोम बंपर और एक क्रोम फिन निर्दिष्ट है, जो सामग्री और रंग के सौंदर्य पर केंद्रित है।
-
-#### 📝 Prompt
-
-```
-रंग बदलें रॉयल ब्लू मेटल फ्लेक बहुत चमकदार
-क्रोम व्हील्स इसे बनाएं 
-क्रोम बंपर बिना लिफ्ट के सुरुचिपूर्ण
-क्रोम फिन
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6c4735a316b7e13e5a9c0007497832bd/thumbnails/thumbnail.jpg" width="600" alt="कस्टम रॉयल ब्लू कार डिज़ाइन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2441)**
-
-**Author:** [Dawn](https://x.com/Dawn021412) | **Source:** [Link](https://x.com/Dawn021412/status/2038874319170764927) | **Published:** Mar 31, 2026
-
----
-### कार मॉडिफिकेशन विवरण
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक प्रॉम्प्ट जो वाहन के मॉडिफिकेशन का वर्णन करता है, जिसमें रूबी रेड मेटल फ्लेक रंग, क्रोम व्हील्स, क्रोम बंपर, कोई लिफ्ट नहीं, और 'Ruby' नाम का उल्लेख है।
-
-#### 📝 Prompt
-
-```
-रंग बदलकर रूबी रेड मेटल फ्लेक करें
-क्रोम व्हील्स लगाएं
-क्रोम बंपर, कोई लिफ्ट नहीं, सुरुचिपूर्ण नाम Ruby
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/67a13c00efae63f4425f0e8735b1b65d/thumbnails/thumbnail.jpg" width="600" alt="कार मॉडिफिकेशन विवरण">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2465)**
-
-**Author:** [Dawn](https://x.com/Dawn021412) | **Source:** [Link](https://x.com/Dawn021412/status/2038871890832302346) | **Published:** Mar 31, 2026
-
----
-### Housefly POV वीडियो प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> यह प्रॉम्प्ट grok-imagine के लिए डिज़ाइन किया गया है, जो कार्टूनिश एनीमे स्टाइल में 10-सेकंड का निरंतर, बिना कटा हुआ वीडियो बनाने के लिए है। यह एक घरेलू मक्खी (housefly) के नज़रिए से सिनेमाई फर्स्ट-पर्सन व्यू को दर्शाता है।
-
-#### 📝 Prompt
-
-```
-कार्टूनिश एनीमे स्टाइल में 10-सेकंड का निरंतर, बिना कटा हुआ वीडियो, घरेलू मक्खी (housefly) के नज़रिए से सिनेमाई फर्स्ट-पर्सन POV शॉट, जिसमें फ्रेम के निचले हिस्से में मक्खी की अपनी पीठ और तेज़ी से फड़फड़ाते पंख दिखाई देते हैं, साथ ही तीव्र मोशन ब्लर और विंगबीट इफ़ेक्ट, कंपाउंड आई अल्ट्रा-वाइड।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/14252d184157c8ae163ce2eba879b3e3/thumbnails/thumbnail.jpg" width="600" alt="Housefly POV वीडियो प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2479)**
-
-**Author:** [K Millionaire](https://x.com/k_millionaire_) | **Source:** [Link](https://x.com/k_millionaire_/status/2038869620359368875) | **Published:** Mar 31, 2026
-
----
-### विशाल xAI मुख्यालय सिनेमैटिक प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक अत्यधिक विस्तृत, अल्ट्रा-फोटोरियलिस्टिक सिनेमैटिक प्रॉम्प्ट, जिसमें तरल पारे और चमकते ओब्सीडियन ग्लास से बने एक विशाल, हवा में तैरते xAI मुख्यालय का वर्णन है, जो सुनहरी शाम के समय तूफानी प्रशांत महासागर के ऊपर स्थित है, और Grok Imagine को एक राजसी, अर्ध-पारदर्शी इकाई के रूप में दर्शाया गया है।
-
-#### 📝 Prompt
-
-```
-“तरल पारे और चमकते ओब्सीडियन ग्लास से बने एक विशाल, हवा में तैरते xAI मुख्यालय की अल्ट्रा-फोटोरियलिस्टिक सिनेमैटिक मास्टरपीस, जो सुनहरी शाम के समय तूफानी प्रशांत महासागर के ऊपर स्थित है। Grok Imagine को एक राजसी, अर्ध-पारदर्शी...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/34d3c45ab75eac827ea583302fa077e0/thumbnails/thumbnail.jpg" width="600" alt="विशाल xAI मुख्यालय सिनेमैटिक प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2458)**
-
-**Author:** [Kwadwo](https://x.com/Okwanfour) | **Source:** [Link](https://x.com/Okwanfour/status/2038848475165581662) | **Published:** Mar 31, 2026
-
----
-### घास के पीछे ढलान पर चढ़ती मॉडल
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक वीडियो जनरेशन प्रॉम्प्ट, जिसमें एक स्थिर कैमरा परिप्रेक्ष्य निर्दिष्ट किया गया है, जहाँ एक मॉडल अपना सिर झुकाकर धीरे-धीरे ढलान पर चढ़ती है, और हवा चलने से घास उसकी आकृति को छिपा लेती है।
-
-#### 📝 Prompt
-
-```
-कैमरा स्थिर रहता है जबकि मॉडल अपना सिर झुकाकर धीरे-धीरे ढलान पर चढ़ती है। हवा घास को एक तरफ उड़ा देती है, जिससे आकृति घास के पीछे छिपी रहती है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d380307daf7fedf4d0da113fc9ef81b2/thumbnails/thumbnail.jpg" width="600" alt="घास के पीछे ढलान पर चढ़ती मॉडल">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2472)**
-
-**Author:** [Zamora Maria](https://x.com/zamoraelena934) | **Source:** [Link](https://x.com/zamoraelena934/status/2038837332007166461) | **Published:** Mar 31, 2026
-
----
-### अक्षरों के तीन खंड प्रदर्शित करती एक साफ सफेद स्क्रीन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक प्रॉम्प्ट जिसमें एक साफ सफेद स्क्रीन का वीडियो मांगा गया है, जिसमें अक्षरों के तीन सुव्यवस्थित खंड प्रदर्शित हों: हिरागाना (Hiragana), वर्णमाला (Alphabet), और एक आंशिक तीसरा खंड (संभवतः कटा हुआ)।
-
-#### 📝 Prompt
-
-```
-अक्षरों के तीन खंड प्रदर्शित करती एक साफ सफेद स्क्रीन,
-छोटे और सुव्यवस्थित:
-खंड 1 — हिरागाना (Hiragana):
-あいうえお かきくけこ さしすせそ
-たちつてと なにぬねの はひふへほ
-まみむめも やゆよ らりるれろ わをん
-खंड 2 — वर्णमाला (Alphabet):
-A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
-a b c...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2b9eb458d6a2155feb11fd9a896a023d/thumbnails/thumbnail.jpg" width="600" alt="अक्षरों के तीन खंड प्रदर्शित करती एक साफ सफेद स्क्रीन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2478)**
-
-**Author:** [viva](https://x.com/vivaClipStudio) | **Source:** [Link](https://x.com/vivaClipStudio/status/2038832884866490559) | **Published:** Mar 31, 2026
-
----
-### बढ़ती तूफानी लहरों में शूनर (Schooner) का प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक विस्तृत प्रॉम्प्ट, जो एक ऐसा दृश्य उत्पन्न करता है जहाँ समुद्र की लहरें धीरे-धीरे बड़ी होती जा रही हैं, जो साफ आसमान के बावजूद दूर के तूफान का संकेत देती हैं। इसके बाद, दो मस्तूल वाले शूनर (schooner) पर ज़ूम-इन करें, जहाँ चार आदमी बढ़ती लहरों से बचने के लिए रिगिंग तैयार कर रहे हैं।
-
-#### 📝 Prompt
-
-```
-लहरों को धीरे-धीरे और बड़ा करें, जैसे कि वे किसी दूर के तूफान से आ रही हों, भले ही यहाँ आसमान साफ हो। फिर दो मस्तूल वाले शूनर (schooner) पर ज़ूम करें, जहाँ चार आदमी नाव को बढ़ती लहरों से बचाने के लिए रिगिंग सेट कर रहे हैं। लेकिन बहुत बड़ी लहरें...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c48ec35728a7b47c77d8f38a023de31/thumbnails/thumbnail.jpg" width="600" alt="बढ़ती तूफानी लहरों में शूनर (Schooner) का प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2456)**
-
-**Author:** [Michael Bradley](https://x.com/MikeBradleySr2) | **Source:** [Link](https://x.com/MikeBradleySr2/status/2038795806673653812) | **Published:** Mar 31, 2026
-
----
-### 1950 के दशक का किचन दृश्य जिसमें एक महिला बेकिंग कर रही है
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक Grok Imagine प्रॉम्प्ट जो 1950 के दशक की शैली वाले किचन के दृश्य का विवरण देता है, जिसमें एप्रन पहने एक महिला, चूल्हे पर पकता हुआ स्टू, और महिला द्वारा ओवन से पाई बाहर निकालने का दृश्य शामिल है, जो सेटिंग, क्रिया और उस दौर के विशिष्ट विवरणों पर केंद्रित है।
-
-#### 📝 Prompt
-
-```
-पेस्ले प्रिंट वाले किचन एप्रन में महिला,
-चूल्हे पर पकता हुआ स्टू,
-महिला द्वारा ओवन से पाई बाहर निकालना
-1950 के दशक की शैली वाला किचन
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6f1ec4eb5c98cc482623dd17c7876b66/thumbnails/thumbnail.jpg" width="600" alt="1950 के दशक का किचन दृश्य जिसमें एक महिला बेकिंग कर रही है">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2448)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2038794878445109495) | **Published:** Mar 31, 2026
-
----
-### तोप के गोलों की चपेट में आता जहाज
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine का एक प्रॉम्प्ट जो एक नाटकीय वीडियो दृश्य का वर्णन करता है, जिसमें एक जहाज धीरे-धीरे आगे बढ़ता है, अचानक समुद्री डाकुओं के तोप के गोलों की चपेट में आ जाता है, और प्रभाव से पाल फट जाता है। यह प्रॉम्प्ट एक्शन और विजुअल इफेक्ट्स पर केंद्रित है।
-
-#### 📝 Prompt
-
-```
-जहाज धीरे-धीरे आगे बढ़ रहा है और अचानक समुद्री डाकुओं के तोप के गोलों की चपेट में आने लगता है। तोप के गोले के प्रभाव से पाल फट जाता है....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e7d88c42ac1ca7ca5cd377e0281ad93b/thumbnails/thumbnail.jpg" width="600" alt="तोप के गोलों की चपेट में आता जहाज">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2446)**
-
-**Author:** [French Goodbye](https://x.com/vinipux313) | **Source:** [Link](https://x.com/vinipux313/status/2038791663657623753) | **Published:** Mar 31, 2026
-
----
-### फूलदान और गुलाब का स्टिल लाइफ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine का एक प्रॉम्प्ट जो मेज पर रखे एक स्टिल लाइफ दृश्य का वर्णन करता है, जिसमें सुनहरे स्टेंसिल वाले काले फूलदान के बगल में दो लाल और नारंगी गुलाब रखे हैं, जो संरचना और वस्तुओं के विवरण पर केंद्रित है।
-
-#### 📝 Prompt
-
-```
-एक मेज पर सुनहरे स्टेंसिल वाला एक काला फूलदान रखा है, फूलदान के बगल में दो लाल और नारंगी गुलाब पड़े हैं....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bd3c95b5cbb8253f22a1790540f6d79e/thumbnails/thumbnail.jpg" width="600" alt="फूलदान और गुलाब का स्टिल लाइफ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2447)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2038786670485741691) | **Published:** Mar 31, 2026
-
----
-### Grok Rank Tech Leaders प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine को तीन रैंक वाले टेक लीडर्स का दृश्य बनाने का निर्देश देने वाला एक प्रॉम्प्ट: Elon Musk (रैंक #1, सबसे लंबा, भविष्यवादी जैकेट), Steve Jobs (रैंक #2, काली टर्टलनेक, iPhone पकड़े हुए), और Jensen Huang (रैंक #3, सिग्नेचर आउटफिट)।
-
-#### 📝 Prompt
-
-```
-बाएं से दाएं:
-• Grok रैंक #1: Elon Musk (सबसे लंबे) – भविष्यवादी काली जैकेट में आत्मविश्वास से भरी मुद्रा, साथ में छोटा रॉकेट और Tesla विवरण।
-• Grok रैंक #2: Steve Jobs – काली टर्टलनेक, जींस, हाथ में छोटा iPhone।
-• Grok रैंक #3: Jensen Huang – सिग्नेचर...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/76c1a982141097f76550214ee3b7a041/thumbnails/thumbnail.jpg" width="600" alt="Grok Rank Tech Leaders प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2459)**
-
-**Author:** [amir prince arjmand kermani](https://x.com/PrinceKermani) | **Source:** [Link](https://x.com/PrinceKermani/status/2038773892517638303) | **Published:** Mar 31, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2218,6 +2214,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-05T05:48:49.952Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-05T08:57:05.226Z</sub>
 
 </div>
