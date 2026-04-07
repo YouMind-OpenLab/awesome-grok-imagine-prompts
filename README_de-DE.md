@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1002** |
+| 📝 Total Prompts | **1029** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-04-07** |
 
@@ -189,6 +189,544 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Video-Prompt eines flauschigen Häschens bei einer Hip-Hop-Tanzroutine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Grok Imagine-Prompt für eine 8-sekündige, fotorealistische Frühlingsanimation eines flauschigen Häschens, das eine energiegeladene Hip-Hop-Tanzroutine auf einer sonnendurchfluteten Wiese aufführt, komplett mit Drehungen, Karotten-Requisiten und einem selbstbewussten Abschluss.
+
+#### 📝 Prompt
+
+```
+"Energiegeladene, fotorealistische 8-sekündige Frühlingsanimation eines flauschigen Häschens auf einer sonnendurchfluteten Wiese, das eine fröhliche Hip-Hop-Tanzroutine mit dramatischen Drehungen, Ohrenwackeln, Karotten als Mikrofon-Requisiten und einem großen, selbstbewussten Abschluss unter blühenden Kirschbäumen aufführt."
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e0b551f8d6c48a05d3f4d49ab1144372/thumbnails/thumbnail.jpg" width="600" alt="Video-Prompt eines flauschigen Häschens bei einer Hip-Hop-Tanzroutine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2878)**
+
+**Author:** [Thoth Scribe](https://x.com/ThothScribe) | **Source:** [Link](https://x.com/ThothScribe/status/2041280248076226729) | **Published:** Apr 6, 2026
+
+---
+### Spanische Frau in Retro-Kleid, Cartoon-Stil
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochdetaillierter, künstlerischer Prompt für Grok Imagine, der eine wunderschöne spanische Frau in einem glamourösen Retro-Kleid und einem schwarzen Hut mit roten Rosen beschreibt, gerendert im Cartoon-Stil, inspiriert von M. Precisionist, Mary Blair und Margaret Keane, mit Ölmalerei-Pinselstrichen und leuchtenden Farben auf einem komplizierten goldenen Hintergrund.
+
+#### 📝 Prompt
+
+```
+Eine wunderschöne spanische Frau, trägt einen schwarzen Hut mit roten Rosen, in einem glamourösen Retro-Kleid, mit großen Augen, Cartoon-Kunst im Stil von M. Precisionist, mit Ölmalerei-Pinselstrichen, im Stil von Mary Blair und Margaret Keane, leuchtende Farben, auf einem goldenen Hintergrund mit komplizierten Mustern, aus einer Froschperspektive, zentrierte Komposition, Ganzkörperporträt, elegante Kurven. Hohe Qualität, hohe Auflösung, professionelle Beleuchtung, 8K
+```
+
+<img src="https://cms-assets.youmind.com/media/1775548955325_i43s36_HFP4k00aMAAeMj9.jpg" width="600" alt="Spanische Frau in Retro-Kleid, Cartoon-Stil">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2861)**
+
+**Author:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **Source:** [Link](https://x.com/iamhappy2026/status/2041248486394622073) | **Published:** Apr 6, 2026
+
+---
+### Surrealer, zeitverzerrender Video-Prompt für Tagträume
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt für Grok Imagine Text to Video, der eine surreale Zeitlupenszene beschreibt: schwebende Uhren schmelzen in einem lavendelfarbenen Nebel, die Zeit verlangsamt sich, Blütenblätter fallen nach oben und das Wort 'REVERIE' driftet ins Bild und löst sich wie eine Erinnerung auf.
+
+#### 📝 Prompt
+
+```
+Ein endloses Feld aus schwebenden Uhren schmilzt in einem lavendelfarbenen Nebel. Die Zeit verlangsamt sich. Blütenblätter fallen nach oben. Im Dunst driftet das Wort REVERIE ins Bild – Buchstaben aus Träumen und sanften Echos, die sich an den Rändern wie eine Erinnerung auflösen.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/860af1ee3c567b742a1317d533861080/thumbnails/thumbnail.jpg" width="600" alt="Surrealer, zeitverzerrender Video-Prompt für Tagträume">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2866)**
+
+**Author:** [LudovicCreator](https://x.com/LudovicCreator) | **Source:** [Link](https://x.com/LudovicCreator/status/2041248348011688141) | **Published:** Apr 6, 2026
+
+---
+### Grok Imagine Prompt: 3D-Papierkunst Wassergöttin
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Grok Imagine-Prompt für ein Bild im 3D-Papierkunststil einer Wassergöttin mit langem blonden Haar, umgeben von Blumen und Wellen, mit Fokus auf Blau- und Pastelltöne, Goldakzente sowie einen ätherischen, filigranen Stil.
+
+#### 📝 Prompt
+
+```
+3D-Papierkunst einer Wassergöttin mit langem blonden Haar, umgeben von Blumen, Wellen und einem detaillierten Hintergrund, in Blau- und Pastelltönen: Türkisblau, Cremeweiß, Hellrosa, Gelb, mit Goldakzenten, ätherischer und filigraner Stil, hohe Qualität, hohe Auflösung, professionelle Beleuchtung, 8K
+```
+
+<img src="https://cms-assets.youmind.com/media/1775548969161_tzcqwi_HFP0A-5aUAAnSz8.jpg" width="600" alt="Grok Imagine Prompt: 3D-Papierkunst Wassergöttin">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2864)**
+
+**Author:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **Source:** [Link](https://x.com/iamhappy2026/status/2041243449110962626) | **Published:** Apr 6, 2026
+
+---
+### Cinematic Rooftop Piano Scene Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Erstellung einer filmischen Videoszene, die eine Frau zeigt, die bei Dämmerung auf einer Dachterrasse Klavier spielt, unter Verwendung von selektiver Farbgebung für einen dramatischen Effekt.
+
+#### 📝 Prompt
+
+```
+Eine filmische Dachterrassenszene bei Dämmerung, ultrarealistisch, eine wunderschöne Frau sitzt an einem Flügel auf einer Dachterrasse in der Stadt, schwarz-weiße Welt mit selektiver Farbgebung, bei der nur tiefroter Rauch um die Klavierbeine wirbelt und in die Luft aufsteigt, eleganter Abend
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/943502352fd029512c3c2a1f3e82d73f/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Rooftop Piano Scene Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2880)**
+
+**Author:** [Techartist](https://x.com/techartist_) | **Source:** [Link](https://x.com/techartist_/status/2041233556039725484) | **Published:** Apr 6, 2026
+
+---
+### Konzentrische Ringe, die um eine schwarze Leere fließen
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Grok Imagine-Videoprompt, der türkisfarbene und blaue Punkte beschreibt, die in kontinuierlichen konzentrischen Ringen um eine schwarze, ovale Leere fließen.
+
+#### 📝 Prompt
+
+```
+Die türkisfarbenen und blauen Punkte fließen in kontinuierlichen konzentrischen Ringen um die schwarze, ovale Leere, schau es dir an
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fd9aefd2addd8f20f5a079e6387d4807/thumbnails/thumbnail.jpg" width="600" alt="Konzentrische Ringe, die um eine schwarze Leere fließen">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2877)**
+
+**Author:** [FishmafiamasonboroTerritory](https://x.com/Fishmafiam42015) | **Source:** [Link](https://x.com/Fishmafiam42015/status/2041233376078627113) | **Published:** Apr 6, 2026
+
+---
+### Filmreifer Action-Sequenz-Video-Prompt einer futuristischen Kriegerin
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein extrem detaillierter Grok Imagine-Prompt zur Erstellung einer 21-sekündigen, filmreifen Action-Sequenz mit einer wilden Kriegerin in futuristischer Rüstung, die in einem dunklen, verregneten Industriehafen gegen dämonische Cyber-Monster kämpft, inklusive Spezifikationen zu Kameraeinstellungen, Beleuchtung und Stil.
+
+#### 📝 Prompt
+
+```
+Filmreife 21-sekündige Action-Sequenz in einem dunklen, verregneten Industriehafen bei Dämmerung, dichter Nebel und Dunst, nasser, reflektierender Boden mit Pfützen. Eine wilde Kriegerin in einem futuristischen, blau-schwarzen High-Tech-Panzeranzug mit mechanischen Details, leuchtend roten Akzenten und einem eleganten, schwarzen taktischen Helm mit leuchtend pinkfarbenem/rotem holografischem Visier. Sie trägt ein Nasenpiercing und unter dem Helm sind dunkle Haarsträhnen zu sehen.
+
+Sie führt ein mächtiges, blau leuchtendes Energieschwert, das helle Lichtspuren hinterlässt. Dynamischer, rasanter Kampf gegen mehrere massive dämonische Cyber-Monster mit leuchtend roten Augen, scharfen Krallen, Hörnern und bedrohlichen biomechanischen Designs.
+
+Beginnt mit extremen Nahaufnahmen ihres blauen Roboterarms und der detaillierten mechanischen Hand. Schnitt auf eine intensive Nahaufnahme ihres Gesichts im Helm, das holografische HUD aktiviert sich mit rot leuchtenden Schnittstellen, Zielsystemen und dem Text „SMART ON“. Zeigt ihre Schulterpanzerung, Waffendetails und ihren entschlossenen Gesichtsausdruck. Breite Action-Aufnahmen: Sie rennt über das nasse Hafengelände auf die Monster zu und schlägt mit dem Energieschwert zu, wodurch helle blaue Lichtbögen entstehen. Schnelle Kampfchoreografie: Sie weicht aus, macht Slides, springt, führt akrobatische Flips in der Luft aus, während sie zuschlägt, und kämpft gegen mehrere Kreaturen gleichzeitig. Epische Weitwinkelaufnahmen: Sie steht in kraftvollen Posen inmitten von Feinden, rammt mehrere leuchtende Energieschwerter in den Boden und erzeugt einen Lichtkreis. Klimaktische Momente mit Explosionen, Funken, Rauch und besiegten Monstern, die um sie herum zu Boden fallen. Endet damit, dass sie selbstbewusst von hinten weggeht, das Energieschwert leuchtet noch, umgeben von besiegten Feinden auf dem rissigen, nassen Boden, Industriekräne und neblige Schiffe im Hintergrund.
+
+Ultra-realistisches CGI, hochdetaillierte Texturen, nasse Oberflächen mit Reflexionen, dramatische volumetrische Beleuchtung, filmisches Color Grading mit kühlen Blautönen und kontrastierendem Rot, Bewegungsunschärfe bei schnellen Aktionen, geringe Schärfentiefe, epische Weitwinkelaufnahmen gemischt mit engen, dramatischen Nahaufnahmen, 8K-Qualität, Filmkorn, intensive Atmosphäre, inspiriert von Sci-Fi-Actionfilmen wie Ghost in the Shell und Pacific Rim.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/312d379b237b78456c46c5271bd4c0ca/thumbnails/thumbnail.jpg" width="600" alt="Filmreifer Action-Sequenz-Video-Prompt einer futuristischen Kriegerin">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2876)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2041229905040457977) | **Published:** Apr 6, 2026
+
+---
+### Grok Imagine Cyber-ägyptische Figur im Schnee
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter filmischer Prompt für Grok Imagine, der eine mysteriöse cyber-ägyptische Figur in dichtem Schneefall beschreibt, mit aufwendiger Rüstung und einer stimmungsvollen Winteratmosphäre.
+
+#### 📝 Prompt
+
+```
+Mysteriöse cyber-ägyptische Figur in dichtem Schneefall, trägt einen dicken, schwarzen Kapuzenmantel, der vollständig mit frischem Schnee bedeckt ist, aufwendiger antik-futuristischer goldener Helm mit hohen, verzierten Hörnern und komplexen mechanischen Details, großes, glänzend schwarzes, kugelförmiges Visier, das schwach leuchtende goldene Sternbildlinien und Symbole anzeigt, luxuriöse Farbpalette in Gold und Schwarz, dramatisches Kantenlicht, verschwommene klassische Säulen im Hintergrund, filmisches Nahaufnahme-Porträt, hyperrealistische Schnee- und Metalltexturen, stimmungsvolle Winteratmosphäre, geringe Schärfentiefe.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/240a5f7395afa1efc28095261cffca39/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine Cyber-ägyptische Figur im Schnee">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2879)**
+
+**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2041222013944266953) | **Published:** Apr 6, 2026
+
+---
+### Vulkanausbruch zerstört eine Bergstadt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein dramatischer Grok Imagine-Prompt für ein Video, das mit einer ultraweiten Luftaufnahme einer Bergstadt beginnt, gefolgt von einem heftigen Vulkanausbruch und Lavaströmen, die in einer einzigen, weitläufigen Aufnahme aus der Vogelperspektive auf die Stadt zurasen.
+
+#### 📝 Prompt
+
+```
+Beginnen Sie mit einer epischen, ultraweiten Luftaufnahme einer Bergstadt am Fuße eines Vulkans. Der Vulkan bricht heftig aus und schleudert Asche, Feuer und Lavaströme den Hang hinunter in Richtung der Stadt – alles in einer einzigen, weitläufigen Einstellungsaufnahme aus der Vogelperspektive.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/36033f23c1628464744009cd9f65229f/thumbnails/thumbnail.jpg" width="600" alt="Vulkanausbruch zerstört eine Bergstadt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2867)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2041218777833152786) | **Published:** Apr 6, 2026
+
+---
+### Prompt Airways Logo-Erscheinungs-Video-Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Grok Imagine-Prompt, der das Erscheinen des Prompt Airways-Logos zeigt, während ein Flugzeug in den Himmel abhebt.
+
+#### 📝 Prompt
+
+```
+Erscheinen des Prompt Airways-Logos mit einem Flugzeug, das in den Himmel abhebt....
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1285e955a6d5dd4527aa743c457472e7/thumbnails/thumbnail.jpg" width="600" alt="Prompt Airways Logo-Erscheinungs-Video-Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2872)**
+
+**Author:** [Alex St-Georges](https://x.com/AlexStGeorwm4t) | **Source:** [Link](https://x.com/AlexStGeorwm4t/status/2041192001236770917) | **Published:** Apr 6, 2026
+
+---
+### Grok Imagine Prompt: Weißer Tiger im Winterspaziergang
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochgradig filmischer und detaillierter Grok Imagine-Prompt für eine Low-Angle-Tracking-Aufnahme eines mächtigen weißen Tigers, der lautlos durch eine gefrorene Tundra schreitet, mit Fokus auf eine stimmungsvolle Atmosphäre, diffuses Tageslicht sowie spezifische Kamerabewegungen und Geräusche.
+
+#### 📝 Prompt
+
+```
+Low-Angle-Tracking-Aufnahme, sanfte Dolly-Bewegung über verschneites Gelände, ein mächtiger weißer Tiger schreitet lautlos durch die gefrorene Tundra, umgeben von frostbedeckten Kiefern und treibenden Schneeflocken, sein Atem ist in der eisigen Luft sichtbar, während er die Landschaft mit stechend blauen Augen absucht, gedämpfte Umgebungsgeräusche von pfeifendem Wind und in der Ferne knackendem Eis, weiches diffuses Tageslicht, das durch einen bewölkten Himmel fällt, filmischer Tierdokumentarfilm-Stil mit einer dramatischen und stimmungsvollen Atmosphäre.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c318449e955aa86a1e643fa3a8709584/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine Prompt: Weißer Tiger im Winterspaziergang">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2862)**
+
+**Author:** [InfoCryption](https://x.com/InfoCryptionHQ) | **Source:** [Link](https://x.com/InfoCryptionHQ/status/2041190050893869294) | **Published:** Apr 6, 2026
+
+---
+### Grok Imagine Prompt: Wunderschöne Fantasy-Feenkunst
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Grok Imagine-Prompt für eine wunderschöne Fee mit spezifischen Details wie Blumen im Haar und einem Schmetterling, gerendert in einem lebendigen, hochwertigen Fantasy-Kunststil mit glitzernden Edelsteinen und professioneller Beleuchtung.
+
+#### 📝 Prompt
+
+```
+Eine wunderschöne Fee mit Blumen im Haar, einem bunten Schmetterling auf der Schulter, detailliertem Gesicht und Augen, im Stil von Fantasy-Kunst, lebendige Farben und glitzernde Edelsteine. Hohe Qualität, hohe Auflösung, professionelle Beleuchtung, 8K
+```
+
+<img src="https://cms-assets.youmind.com/media/1775548965301_p5y4yk_HFO6RiEbIAI2VGw.jpg" width="600" alt="Grok Imagine Prompt: Wunderschöne Fantasy-Feenkunst">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2863)**
+
+**Author:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **Source:** [Link](https://x.com/iamhappy2026/status/2041179985680158926) | **Published:** Apr 6, 2026
+
+---
+### Shogi Gold General Ladeanimation
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ein detaillierter Prompt für Grok Imagine zur Erstellung eines 15-20-sekündigen Animationsvideos über eine Shogi-Figur, den „Kinsho“ (Goldgeneral), der aggressiv die feindlichen Linien stürmt, gerendert im Aquarell- und Fantasy-SF-Stil mit goldenen Lichtpartikeln. Der Prompt spezifiziert Titel, Stil, Länge und visuelle Kernpunkte.
+
+#### 📝 Prompt
+
+```
+Titel: „Orakel des Oni-Goldgenerals ~Vom Himmel herabsteigend, um das feindliche Lager lautlos zu erobern~"
+• Stil: Aquarell-Stil + SF-Fantasy, hauptsächlich mit fantastischen goldenen Lichtpartikeln
+• Länge: Ca. 15-20 Sekunden kurzes Animationsvideo
+• Haupt-Highlights:
+• Anfang: Eine Nakabisha-Formation schwebt im stillen Raum
+• Mitte: Der Goldgeneral des zweiten Spielers stürmt aktiv vorwärts, kraftvoll und elegant dargestellt durch eine goldene Lichtspur (eine Kombination aus der Stärke und Anmut des „Oni-Goldgenerals“)
+• Höhepunkt: Der Goldgeneral zerstört lautlos, aber gnadenlos das feindliche Lager, während er seinen Vorteil ausbaut
+• Ende...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/af7c5e275692f7d3ea1958f964b36342/thumbnails/thumbnail.jpg" width="600" alt="Shogi Gold General Ladeanimation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2882)**
+
+**Author:** [後藤強士](https://x.com/rubensutsuyosi) | **Source:** [Link](https://x.com/rubensutsuyosi/status/2041155018099945644) | **Published:** Apr 6, 2026
+
+---
+### Lebendiges cineastisches Video einer nigerianischen Frau in Lagos-Outfit
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt für ein 10-sekündiges, cineastisches 1080p-Video, das eine selbstbewusste 25-jährige nigerianische Frau mit spezifischen körperlichen Merkmalen und Kleidung zeigt, bekleidet mit einem stilvollen, modernen Lagos-Outfit.
+
+#### 📝 Prompt
+
+```
+Erstelle ein lebendiges, cineastisches 10-Sekunden-Video in 1080p.
+
+Eine selbstbewusste 25-jährige nigerianische Frau mit dunkler Haut, geflochtenem Haar in einem hohen Pferdeschwanz mit bunten Perlen, bekleidet mit einem stilvollen, modernen Lagos-Outfit – ein figurbetontes Oberteil mit Ankara-Print, eine hoch taillierte Jeans, weiß
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b369480eaae9928e442063b473a674d5/thumbnails/thumbnail.jpg" width="600" alt="Lebendiges cineastisches Video einer nigerianischen Frau in Lagos-Outfit">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2830)**
+
+**Author:** [David GMI 🌍💎](https://x.com/Davidgmi_01) | **Source:** [Link](https://x.com/Davidgmi_01/status/2041140620668883309) | **Published:** Apr 6, 2026
+
+---
+### Gemüseernte auf dem Feld
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein beschreibender Prompt für Grok Imagine, der ein Feld zeigt, auf dem Gemüse geerntet wird, wobei Landwirte demonstrieren, wie das jeweilige Gemüse aussieht, wenn es aus der Erde gezogen wird.
+
+#### 📝 Prompt
+
+```
+Ein Feld, auf dem Gemüse geerntet wird, mit Landwirten, die zeigen, wie das jeweilige Gemüse aussieht, wenn es aus der Erde gezogen wird
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/070c876b64e233734977c46f2cb65b99/thumbnails/thumbnail.jpg" width="600" alt="Gemüseernte auf dem Feld">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2859)**
+
+**Author:** [Sam](https://x.com/fallmysteries) | **Source:** [Link](https://x.com/fallmysteries/status/2041138815604043852) | **Published:** Apr 6, 2026
+
+---
+### Grok Imagine Prompt: Basis für filmischen Realismus
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Eine grundlegende Prompt-Struktur für den Qualitätsmodus von Grok Imagine, die darauf ausgelegt ist, filmischen Realismus durch die Angabe von Kameraausrüstung (ARRI Alexa), Filmkorn, Beleuchtungstechniken (Key-Fill-Beleuchtung), Objektivwahl (anamorph) und Schärfentiefe zu erzielen.
+
+#### 📝 Prompt
+
+```
+Zeige mir ein noch nie zuvor gesehenes Filmstill, brandneu, aufgenommen mit ARRI Alexa, hyperrealistisches Filmkorn, LUT-Preset, Key-Fill-Beleuchtung, anamorphotische Objektive, geringe Schärfentiefe, 24 mm
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5842c3abaec238336940a5b8706df3fe/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine Prompt: Basis für filmischen Realismus">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2865)**
+
+**Author:** [Kiri](https://x.com/Kyrannio) | **Source:** [Link](https://x.com/Kyrannio/status/2041132845834579975) | **Published:** Apr 6, 2026
+
+---
+### Frau auf einer endlosen Treppe in barocker und Art-déco-Architektur
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt für Grok Imagine, der eine Szene beschreibt, in der eine Frau auf einer prachtvollen Treppe steht, die sich endlos in das Licht erstreckt, eingebettet in eine Architektur aus Barock und Art déco, gerendert mit einer dicken Öltextur und einer sanften Gold-Weiß-Farbpalette.
+
+#### 📝 Prompt
+
+```
+Eine Frau steht auf einer prachtvollen Treppe, die sich endlos in das Licht erhebt, umgeben von barocker und Art-déco-Architektur; eine dicke Öltextur betont Tiefe und Licht, ihr Ausdruck ist ruhig, fast transzendent, die Farbpalette in sanftem Gold und Weiß gehalten.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f3b45c61ae235fd6b02dd70ea904db61/thumbnails/thumbnail.jpg" width="600" alt="Frau auf einer endlosen Treppe in barocker und Art-déco-Architektur">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2870)**
+
+**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2041128404393632073) | **Published:** Apr 6, 2026
+
+---
+### Kinoreifes Video einer Kriegerin, die auf einen Drachen steigt und abhebt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Grok-Imagine-Videoprompt, der eine starke Kriegerin beschreibt, die der Kamera den Rücken zuwendet, auf einen Drachen steigt, während dieser seinen Rücken sanft absenkt, und sich dann umdreht, während der Drache über eine antike Landschaft abhebt. Der Prompt betont starke Konsistenz, eine One-Shot-Szene, realistische Bewegungen sowie das Fehlen von Musik, plastischen Texturen oder Morphing-Effekten.
+
+#### 📝 Prompt
+
+```
+Die starke Kriegerin wendet der Kamera den Rücken zu, der Drache senkt seinen Rücken sanft ab, damit die Kriegerin aufsteigen kann. Sobald sie auf seinem Rücken sitzt, dreht sie sich um und der Drache hebt über einer beeindruckenden antiken Landschaft ab. Starke Konsistenz, One-Shot-Szene, kein Morphing, realistische Bewegungen und Sounds. Keine Musik. Kein Plastik-Look, echte filmische Bewegung.
+```
+
+<img src="https://cms-assets.youmind.com/media/1775549004366_5swnyj_HFNqGNZbkAAKpNI.jpg" width="600" alt="Kinoreifes Video einer Kriegerin, die auf einen Drachen steigt und abhebt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2875)**
+
+**Author:** [Reklaw](https://x.com/Ynohtnareklaw) | **Source:** [Link](https://x.com/Ynohtnareklaw/status/2041092492339118206) | **Published:** Apr 6, 2026
+
+---
+### 15-sekündiges kinoreifes Video einer Frau auf einem Cyberpunk-Motorrad im regnerischen Tokio
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochdetaillierter grok-imagine-Prompt für ein 15-sekündiges kinoreifes Video. Es zeigt eine blonde Frau in futuristischer Rüstung, die auf einem massiven, mechanischen Cyberpunk-Motorrad in einer belebten, regnerischen japanischen Stadtstraße in der Abenddämmerung sitzt. Die Kamera führt eine langsame, flüssige Umlaufbewegung um das Motiv aus und betont die dramatische Beleuchtung, die nassen Reflexionen der Neonschilder sowie die subtilen Bewegungen der Frau und des Motorradmotors.
+
+#### 📝 Prompt
+
+```
+Kinoreifes 15-sekündiges Video einer wunderschönen blonden Frau in einer dunkelgrauen, futuristischen Panzerjacke, die auf einem massiven, schwer gepanzerten Cyberpunk-Motorrad in einer belebten, regnerischen japanischen Stadtstraße in der Abenddämmerung sitzt. Sie hat einen ernsten, fokussierten Ausdruck und leicht zerzaustes, langes blondes Haar. Sie hält den Lenker fest umklammert.
+
+Das Motorrad wirkt brutal und mechanisch – dunkelgrau mit scharfen Panzerplatten, leuchtend roten LED-Lichtern an der Front, großen, schlammigen Stollenreifen und freiliegenden mechanischen Teilen mit orangefarbenen Akzenten.
+
+Während der 15 Sekunden: Der Motorradmotor brummt subtil mit leichten Vibrationen, rote LEDs pulsieren sanft und es regnet kontinuierlich leicht. Die Frau dreht langsam den Kopf, um mit entschlossenem Blick direkt nach vorne zu schauen. Die Kamera führt eine langsame, flüssige, kinoreife Umlaufbewegung von der vorderen Dreiviertelansicht zur Seite aus und hält sie und das Motorrad als kraftvolles zentrales Motiv im Fokus. Der nasse Asphalt reflektiert Neonlichter. Verschwommene Fußgänger und bunte japanische Neonschilder im Hintergrund. Fotorealistisch, hochdetailliert, 8K, realistische Physik, dramatische Cyberpunk-Atmosphäre, flüssige Bewegungen, kinoreife Beleuchtung.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/389834d3d72e97bb6dbdd3c67593af96/thumbnails/thumbnail.jpg" width="600" alt="15-sekündiges kinoreifes Video einer Frau auf einem Cyberpunk-Motorrad im regnerischen Tokio">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2873)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2041079223683522670) | **Published:** Apr 6, 2026
+
+---
+### Actiongeladene Kamerafahrt eines Lieferwagens durch ein Industriegebiet
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Prompt für Grok Imagine zur Erstellung eines dynamischen, filmreifen Videos mit einer schnellen Kamerafahrt eines Lieferwagens durch ein Industriegebiet, wobei Action, Atmosphäre und visuelle Details wie Funken und Rauch im Vordergrund stehen.
+
+#### 📝 Prompt
+
+```
+Ein Lieferwagen rast durch ein Industriegebiet, die Reifen quietschen, der Fahrer wirkt panisch, aber konzentriert. Er durchbricht Absperrungen und biegt scharf zwischen Metallstrukturen ab. Fabrikgelände mit Rohren, Containern, Funkenflug und Rauch, der aus Maschinen aufsteigt. Kontinuierliche Kamerafahrt, die sich mit dem Fahrzeug zwischen den Strukturen bewegt, starke Parallaxen-Effekte, Funken fliegen ins Bild, düstere Industrieatmosphäre.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/392dd73c6162ad2ef927edce4391bb24/thumbnails/thumbnail.jpg" width="600" alt="Actiongeladene Kamerafahrt eines Lieferwagens durch ein Industriegebiet">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2869)**
+
+**Author:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Source:** [Link](https://x.com/CharaspowerAI/status/2041070924439380277) | **Published:** Apr 6, 2026
+
+---
+### Video-Prompt für aufgeregte Katzenbewegungen
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Grok Imagine-Prompt, der eine Szene beschreibt, in der eine Katze von einem neuen Spielzeug begeistert ist und lustige Bewegungen macht.
+
+#### 📝 Prompt
+
+```
+In diesem Abschnitt wird die Katze noch aufgeregter, als ein kleines anderes Spielzeug in ihre Nähe kommt, und sie führt die lustigsten kleinen Bewegungen aus.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0847fed26f217190b046af9f2c255884/thumbnails/thumbnail.jpg" width="600" alt="Video-Prompt für aufgeregte Katzenbewegungen">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2871)**
+
+**Author:** [Carlos Martinez](https://x.com/CarlosM51040063) | **Source:** [Link](https://x.com/CarlosM51040063/status/2041044712702845232) | **Published:** Apr 6, 2026
+
+---
+### Shogi-Figur verwandelt sich im Weltraum in einen Drachen
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ein hochdetaillierter Prompt für Grok Imagine zur Erstellung eines 15-20-sekündigen Animationsvideos. Das Video zeigt eine Shogi-Figur (japanisches Schach), den „Hisha“ (Turm), der sich in einen Drachen verwandelt und in den Weltraum fliegt, gerendert im Aquarell- und Fantasy-SF-Stil mit Lichtpartikeln. Der Prompt enthält spezifische Szenenbeschreibungen für den Anfang, den Mittelteil und den Höhepunkt.
+
+#### 📝 Prompt
+
+```
+• Titel: „Beschwörung des Drachen des klaren Stroms ~Von Amaterasu Okami Kaioshins 4-1 Hisha zu 8-3 Ryu~“
+• Stil: Fantasy-SF-Stil gemischt mit Aquarell und Lichtpartikeln (Betonung eines sanften und schönen, an einen klaren Strom erinnernden Flusses)
+• Länge: Ca. 15-20-sekündiges kurzes Animationsvideo
+• Regieanweisungen:
+• Anfang: Ein Shogi-Brett wie ein 81-Felder-Sternbild schwebt im stillen Weltraum
+• Mittelteil: Der Moment, in dem das Gleichgewicht durch einen 2-2 Bauernabwurf gestört wird, wird wunderschön wie eine Lichtwelle dargestellt
+• Höhepunkt: Der entfernte 4-1 Hisha bewegt sich mit hoher Geschwindigkeit und einem Schweif aus Licht → verwandelt sich in einen 7-1 Ryu → Silber...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/abaf0aefeb2d0a5044d5b64a558b1d1a/thumbnails/thumbnail.jpg" width="600" alt="Shogi-Figur verwandelt sich im Weltraum in einen Drachen">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2881)**
+
+**Author:** [後藤強士](https://x.com/rubensutsuyosi) | **Source:** [Link](https://x.com/rubensutsuyosi/status/2040999915741147583) | **Published:** Apr 6, 2026
+
+---
+### Zeitlupen-Auferstehungsszene mit einem Engel und Jesus Christus
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter grok-imagine Video-Prompt, der eine Zeitlupenszene beschreibt, in der ein großer Engel mit zuckerwattenfarbenen Flügeln vom Himmel herabsteigt, einen Stein beiseite schiebt und Jesus Christus hell leuchtend aus seinem Grab aufersteht, begleitet von 777 Tauben.
+
+#### 📝 Prompt
+
+```
+ein kräftiger Engel mit großen Flügeln in Körpergröße fliegt langsam vom Himmel herab, der aus einem zuckerwattenfarbenen Himmel kommt, schiebt langsam den Stein beiseite, um den hell leuchtenden Jesus Christus aufzuerwecken, und lässt ihn langsam aus seinem Grab heraustreten, begleitet von 777 Tauben...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/582dc4aee1ad0d2e9a44109268874d82/thumbnails/thumbnail.jpg" width="600" alt="Zeitlupen-Auferstehungsszene mit einem Engel und Jesus Christus">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2874)**
+
+**Author:** [Jessica Longo](https://x.com/Jessica39627125) | **Source:** [Link](https://x.com/Jessica39627125/status/2040985209609286037) | **Published:** Apr 6, 2026
+
+---
+### Elegante Frau im roten Pelzmantel im Mondschein
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochdetaillierter, künstlerischer Prompt für Grok Imagine, der eine elegante junge Frau in einem roten Pelzmantel beschreibt, umgeben von Mohnblumen im Mondschein, gerendert im Stil eines Jugendstil-Ölgemäldes mit Pointillismus, inspiriert von Eiko Ojala und Gustav Klimt.
+
+#### 📝 Prompt
+
+```
+Eine elegante junge Frau in einem roten Pelzmantel, umgeben von Mohnblumen im Mondschein, Ganzkörperporträt, schwarzes Haar, schwarze Augen, roter Lippenstift, detaillierte Gesichtszüge, glitzernde, glänzende Textur, lebendige Farben, Jugendstil-Ölgemälde mit Pointillismus, im Stil von Eiko Ojala und Gustav Klimt, hohe Qualität, hohe Auflösung, professionelle Beleuchtung, 8K
+```
+
+<img src="https://cms-assets.youmind.com/media/1775548954177_qthorm_HFMDDp0agAAC3ov.jpg" width="600" alt="Elegante Frau im roten Pelzmantel im Mondschein">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2860)**
+
+**Author:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **Source:** [Link](https://x.com/iamhappy2026/status/2040978530453074203) | **Published:** Apr 6, 2026
+
+---
+### Hoppelnder Hase und Herzstempel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein komplexer Multi-Action-Prompt für Grok Imagine, bei dem ein Hase hüpft, mit dem Fuß Herzen stempelt, sich umdreht und ein Ei drückt, um auf allen Eiern Herzen zu hinterlassen.
+
+#### 📝 Prompt
+
+```
+Lass den Hasen herbeihüpfen und mit seinem Fuß Herzen stempeln. Lass den Hasen sich nun umdrehen und auf das Ei drücken, sodass auf allen Eiern Herzen zurückbleiben.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0a3857395b0e465bd63d05a85081ae8a/thumbnails/thumbnail.jpg" width="600" alt="Hoppelnder Hase und Herzstempel">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2858)**
+
+**Author:** [Cindy.Luby..7](https://x.com/7Luby81583) | **Source:** [Link](https://x.com/7Luby81583/status/2040962778689568874) | **Published:** Apr 6, 2026
+
+---
+### Osterhase mit einer Schneekugel voller Tiere aus Costa Rica
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein fantasievoller Prompt für Grok Imagine, um ein Video eines Osterhasen zu generieren, der eine Schneekugel hält, aus der beim Schütteln Tiere aus Costa Rica hervorkommen.
+
+#### 📝 Prompt
+
+```
+Zeichne einen kleinen Osterhasen, der eine Schneekugel hält, aus der beim Schütteln Tiere aus Costa Rica herauskommen.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5ea0534f7ba94b25d4e966dd1c71ef22/thumbnails/thumbnail.jpg" width="600" alt="Osterhase mit einer Schneekugel voller Tiere aus Costa Rica">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2868)**
+
+**Author:** [ĐOGEARMY GENERAL](https://x.com/TheTeslaBull) | **Source:** [Link](https://x.com/TheTeslaBull/status/2040960822684352643) | **Published:** Apr 6, 2026
+
+---
+### Starship v3 bereit für die Mars-Erkundung
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Science-Fiction-Prompt für Grok Imagine, der ein voll ausgestattetes Starship v3 beschreibt, das sich auf die menschliche Erkundung des Sonnensystems vorbereitet, mit dem Mars als erstem Ziel.
+
+#### 📝 Prompt
+
+```
+Ein voll ausgestattetes Starship v3, bereit für die menschliche Erkundung des Sonnensystems, erster Halt: Mars…
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a373a9d1fb3baf3c68c71e8f483261ed/thumbnails/thumbnail.jpg" width="600" alt="Starship v3 bereit für die Mars-Erkundung">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2857)**
+
+**Author:** [Philip Kennett](https://x.com/philip_kennett) | **Source:** [Link](https://x.com/philip_kennett/status/2040948883258241095) | **Published:** Apr 6, 2026
+
+---
 ### Grok Imagine Prompt: Oster-Darstellung der Kreuzigung und Auferstehung, wie sie vor 2026 Jahren geschah
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -258,7 +796,7 @@ Es ist Ostersonntag (Nord-Ontario). Stelle zwei Kinder im Freien dar, die Winter
 Japanischer hochwertiger Anime-Stil, wunderschöne Tänzerin, langes Haar, Ganzkörperaufnahme, auf einem Hügel unter dem Nachthimmel, prachtvolles Tänzerinnenkostüm in Rot und Schwarz, dünne, durchscheinende Seide und Chiffon, langer Rock und im Wind flatternde Bänder, leicht tanzende Stoffschichten, dynamische Tanzpose, sich bei Körperbewegung ausbreitendes Kostüm, fantastische Lichtpartikel, vom Mondlicht beleuchtet, mystische und fantastische Atmosphäre, ultrahohe Auflösung, Fantasy, fließender Bewegungsausdruck, schweifartige Nachbilder
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cab4e19bf78c4a4a245979bfd2d3b637/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine Bild-Prompt für Anime-Tänzerin">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/256451e99f42c9a24b7a12a8221023ee/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine Bild-Prompt für Anime-Tänzerin">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2806)**
 
@@ -1621,534 +2159,6 @@ Lieber Jesus, segne unsere Familien, unsere Freunde und alle Menschen...
 **Author:** [mygiftshoponline.com](https://x.com/mygiftshoponli1) | **Source:** [Link](https://x.com/mygiftshoponli1/status/2040004900332175403) | **Published:** Apr 3, 2026
 
 ---
-### Grok Imagine Prompt für eine nostalgische Szene: Der Heimweg im Winter
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein langer, beschreibender und etwas abstrakter Prompt für Grok Imagine, der die Mühsal beschreibt, im Winter gegen den kalten Nordwind nach Hause zu gehen, und den Wunsch nach einer unterirdischen Passage mit Geschäften äußert, die später als Nagoya Central Park Wirklichkeit wurde.
-
-#### 📝 Prompt
-
-```
-An Wintertagen blies mir der Nordwind direkt ins Gesicht, sodass jeder Schritt trotz des Gehens schmerzhaft war. Ich wünschte mir, es gäbe eine unterirdische Passage, die schnurgerade von zu Hause zur Schule führte und an der Geschäfte lagen, damit ich ohne Regenschirm und ohne zu frieren nach Hause kommen konnte. Dieser Wunsch materialisierte sich später im Nagoya Central Park.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/107d09ee48f6599c5e542c757aca4774/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine Prompt für eine nostalgische Szene: Der Heimweg im Winter">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2628)**
-
-**Author:** [DODO](https://x.com/Dodo0807Dodo) | **Source:** [Link](https://x.com/Dodo0807Dodo/status/2039998724966068406) | **Published:** Apr 3, 2026
-
----
-### Zukunftsprognosen aus dem Gakken-Magazin
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein Grok Imagine-Prompt, der die Begeisterung beim Lesen von Zukunftsprognosen im „Science and Learning“ (Gakken)-Magazin beschreibt, einschließlich fliegender Autos und Dachgärten.
-
-#### 📝 Prompt
-
-```
-„Ich war jeden Monat gespannt darauf, einen Blick in die Zukunft zu werfen.“
-Im Buch „Science and Learning“ (Gakken) 📕.
-Es wurden Zukunftsprognosen aufgestellt. Autos, die am Himmel fliegen, Gemüse, das auf den Dächern von Gebäuden angebaut wird.
-Ein Mikroskop war als Beilage enthalten 😃.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ef5698a7681648a299fdabbb874a9fa6/thumbnails/thumbnail.jpg" width="600" alt="Zukunftsprognosen aus dem Gakken-Magazin">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2634)**
-
-**Author:** [DODO](https://x.com/Dodo0807Dodo) | **Source:** [Link](https://x.com/Dodo0807Dodo/status/2039994135281828164) | **Published:** Apr 3, 2026
-
----
-### Außerkörperliche Erfahrung
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein Grok Imagine-Prompt, der eine Kindheitserinnerung an eine außerkörperliche Erfahrung beschreibt, bei der man unter der Zimmerdecke schwebt.
-
-#### 📝 Prompt
-
-```
-Als ich in der dritten Klasse war, schlief ich, doch als ich zu mir kam, schwebte ich mit dem Gesicht nach oben etwa 3 cm unter der Zimmerdecke. Mein Vater rief meinen Namen und ich kehrte zurück. Mir war sehr übel. (Außerkörperliche Erfahrung)
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b0259aa4b79496705aa12b2aa05101a8/thumbnails/thumbnail.jpg" width="600" alt="Außerkörperliche Erfahrung">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2629)**
-
-**Author:** [DODO](https://x.com/Dodo0807Dodo) | **Source:** [Link](https://x.com/Dodo0807Dodo/status/2039992170497855700) | **Published:** Apr 3, 2026
-
----
-### Vintage viktorianische Dame mit Katze Illustration
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochdetaillierter Prompt zur Erstellung einer viktorianischen Illustration aus dem 19. Jahrhundert, die eine elegante Dame mit einer Katze in einem üppigen Garten zeigt, umgesetzt in einem weichen Aquarell- und Tusche-Stil mit Sepiatönen und einem kunstvollen Jugendstil-Rahmen.
-
-#### 📝 Prompt
-
-```
-Vintage viktorianische Illustration aus dem 19. Jahrhundert einer wunderschönen, eleganten Dame in einem langen dunklen Kleid und einem großen, breitkrempigen schwarzen Hut mit Federn, im Profil stehend in einem üppigen Garten, hält sanft eine flauschige, langhaarige getigerte Katze im Arm, weicher und verträumter Aquarell- und Tusche-Stil, Schwarz-Weiß mit Sepiatönen, komplexe Details, feine Linienführung, atmosphärischer Hintergrund mit blühenden Pfingstrosen und Rosen, alte Bäume, neblige Gartenszene, hochdetailliert, kunstvoller goldener Jugendstil-Rahmen mit verschlungenen Ornamenten und floralen Motiven, die das gesamte Bild wie eine antike Buchseite oder eine Vintage-Postkarte umgeben, gealterte Papiertextur mit subtilen Flecken und Abnutzungserscheinungen, romantische und skurrile Stimmung, im Stil klassischer Buchillustrationen der viktorianischen Ära und des Jugendstils, Meisterwerk, hohe Auflösung.
-```
-
-<img src="https://cms-assets.youmind.com/media/1775288666240_3v9ohn_HE97DI1aUAAA0sy.jpg" width="600" alt="Vintage viktorianische Dame mit Katze Illustration">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2614)**
-
-**Author:** [Art Muse](https://x.com/art_muse) | **Source:** [Link](https://x.com/art_muse/status/2039984553885089842) | **Published:** Apr 3, 2026
-
----
-### Frau am See bei Sonnenuntergang
-
-![한국어](https://img.shields.io/badge/lang-한국어-orange)
-
-> Ein Grok Imagine-Prompt zur Erstellung eines cineastischen Videos einer Frau, die an einem See steht. Der Fokus liegt auf der Rückenansicht, während die Kamera den gesamten wunderschönen Hintergrund in 4K-Auflösung einfängt und mit einem funkelnden Regen aus Kirschblüten und Schneeblüten endet.
-
-#### 📝 Prompt
-
-```
-Finales Ende: 4K, den gesamten wunderschönen Hintergrund im Bildwinkel einfangen und das Video ästhetisch mit einer Ganzkörper-Rückenansicht der Frau am See abschließen 🎬✨ Funkelnde Kirschblüten und Schneeblüten rieseln herab.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c608db1419532ec4c2ce0ee3633c439f/thumbnails/thumbnail.jpg" width="600" alt="Frau am See bei Sonnenuntergang">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2636)**
-
-**Author:** [Coffee ☕️](https://x.com/Fatfish05316292) | **Source:** [Link](https://x.com/Fatfish05316292/status/2039978528868077965) | **Published:** Apr 3, 2026
-
----
-### Hyperrealistischer Cyberpunk-Glitch-Art-Prompt für einen massiven elektrischen Tiger
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochdetaillierter Prompt für den Qualitätsmodus von Grok Imagine, der einen massiven, dunklen elektrischen Tiger beschreibt, der in einem hyperrealistischen Cyberpunk-Glitch-Art-Stil aus einer digitalen Leere auftaucht, mit Fokus auf metallischem Glanz, digitaler Korruption und elektrischer cyan- bzw. kobaltblauer Plasmaenergie.
-
-#### 📝 Prompt
-
-```
-Ein massiver, dunkler elektrischer Tiger, der aus einer digitalen Leere auftaucht, gerendert in einem hyperrealistischen Cyberpunk-Glitch-Art-Stil. Das obsidianfarbene, gestreifte Fell des Tigers, das mit metallischen Schaltkreisen durchsetzt ist, weist einen metallischen Glanz auf. Seine muskulöse, raubtierhafte Gestalt löst sich teilweise in kaskadierende digitale Korruptionsartefakte, horizontale Scanlinien, pixelige Datenströme und RGB-Kanal-Splitting-Glitches auf, die sich über die Komposition verteilen. Die Streifen und das geöffnete Maul der Kreatur knistern vor blitzartiger, elektrischer cyan- und kobaltblauer Plasmaenergie. Die Energie ist mit volumetrischen Flüssigkeitssimulationsdetails dargestellt – turbulente, wirbelnde Schlieren aus überhitzter Energie mit hellen Neonkernen, die an den Rändern in ein tiefes Königsblau übergehen. Die Energie tropft wie flüssiges Neon nach unten und sammelt sich in glitschenden blauen Datenwasserfällen, die am unteren Bildrand in binäre Korruption zerfallen. Der Hintergrund ist eine reine schwarze Leere, überlagert mit schwachen Gitterlinien, korrupten HUD-Oberflächenelementen und kaum sichtbaren Monospace-Textdaten, die eine kollabierende virtuelle Umgebung andeuten. Dramatische, kontrastreiche Chiaroscuro-Beleuchtung, wobei die einzige Lichtquelle vollständig von der biolumineszenten blauen Energie stammt, die kalte elektrische Reflexionen auf das dunkle Fell des Tigers wirft. Gerendert im Stil von Concept Art trifft auf Echtzeit-VFX, 8K-Auflösung, filmische Komposition, geringe Schärfentiefe bei den Korruptionselementen im Hintergrund.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8390eb80a6f871b4ebbc7a6dd05f33af/thumbnails/thumbnail.jpg" width="600" alt="Hyperrealistischer Cyberpunk-Glitch-Art-Prompt für einen massiven elektrischen Tiger">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2613)**
-
-**Author:** [tetsuo](https://x.com/tetsuoai) | **Source:** [Link](https://x.com/tetsuoai/status/2039975065769668695) | **Published:** Apr 3, 2026
-
----
-### Kindheitserinnerungen an Kalligrafie, Abakus und Zeichnen
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein Grok Imagine-Prompt, der Kindheitserinnerungen beschreibt, die mit dem Erlernen von Kalligrafie, Abakus und Zeichnen durch den Vater sowie dem Besuch von Kursen verbunden sind.
-
-#### 📝 Prompt
-
-```
-Ab der ersten Klasse lernte ich von meinem Vater Kalligrafie, Abakus und Zeichnen. Ab der zweiten Klasse besuchte ich Kalligrafie- und Abakusschulen. In der zweiten Klasse erhielt ich eine Auszeichnung für Kalligrafie und erreichte den 2. Dan-Grad. In der fünften Klasse erreichte ich den 2. Kyu-Grad im Abakusrechnen. Aufgrund der Umstände der Lehrer musste ich beide Kurse abbrechen. Die Zeichnungen meines Vaters, die auf der Rückseite von Flyern zu sehen waren, wirkten wie lebendige Giraffen und Elefanten.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/538a490e0021f146bfa25f8cb9bc1a20/thumbnails/thumbnail.jpg" width="600" alt="Kindheitserinnerungen an Kalligrafie, Abakus und Zeichnen">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2632)**
-
-**Author:** [DODO](https://x.com/Dodo0807Dodo) | **Source:** [Link](https://x.com/Dodo0807Dodo/status/2039954228903624925) | **Published:** Apr 3, 2026
-
----
-### Anime-Musikvideo: Silberhaariges Idol auf einem Tokioter Dach
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt zur Erstellung einer dynamischen, hochwertigen 2D-Anime-Musikvideoszene, die ein leidenschaftlich singendes, silberhaariges Idol auf einem regnerischen, futuristischen Tokioter Dach mit Cyberpunk-Elementen zeigt, inspiriert von Makoto Shinkai und Studio Trigger.
-
-#### 📝 Prompt
-
-```
-Erstelle eine dynamische Anime-Musikvideoszene im lebendigen 2D-Anime-Stil, hohe Qualität, detaillierter Hintergrund, filmische Beleuchtung. Ein wunderschönes silberhaariges Anime-Mädchen mit leuchtend cyanfarbenen Augen und langem, fließendem Haar steht nachts auf dem Dach einer futuristischen Tokioter Stadt während eines starken Regenschauers, wobei sich Neonlichter auf den nassen Oberflächen spiegeln. Sie singt leidenschaftlich mit emotionalem Ausdruck und trägt ein elegantes, futuristisches Idol-Outfit in Schwarz und Neonblau mit leuchtenden Akzenten. Dramatischer Wind lässt ihr Haar und ihre Kleidung wehen. Im Hintergrund: fliegende Autos, holografische Werbetafeln, hoch aufragende Wolkenkratzer mit hellen Cyberpunk-Neonschildern auf Japanisch und Englisch. Filmischer Kamerawinkel von unten nach oben, leuchtende Licht- und Regentropfenpartikel, Tiefenschärfe, lebendige Farbpalette mit starken Kontrasten in Pink, Cyan und Violett. Anime-Key-Visual-Stil wie Makoto Shinkai gemischt mit Studio Trigger, ultra-detailliert, 8k, Meisterwerk, beste Qualität –ar 16:9 –stylize 750
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b5ec3cecc3d78b219f33c60a2f001e9b/thumbnails/thumbnail.jpg" width="600" alt="Anime-Musikvideo: Silberhaariges Idol auf einem Tokioter Dach">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2620)**
-
-**Author:** [Tesla Owners Silicon Valley](https://x.com/teslaownersSV) | **Source:** [Link](https://x.com/teslaownersSV/status/2039945671768490086) | **Published:** Apr 3, 2026
-
----
-### Attraktiver Cyberpunk-Mann
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt, der einen attraktiven Cyberpunk-Mann beschreibt, der ein Outfit trägt, das leuchtet und sein Ego unterstreicht.
-
-#### 📝 Prompt
-
-```
-Ein attraktiver Cyberpunk-Mann mit einem Outfit, das leuchtet und sein Ego unterstreicht
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/21b4050250a57f06536a2b81000ce4f2/thumbnails/thumbnail.jpg" width="600" alt="Attraktiver Cyberpunk-Mann">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2615)**
-
-**Author:** [Aderemi muhydeen](https://x.com/KABADIZ) | **Source:** [Link](https://x.com/KABADIZ/status/2039935677979132309) | **Published:** Apr 3, 2026
-
----
-### Optimus gegen menschliche Fußball-Champions
-
-![한국어](https://img.shields.io/badge/lang-한국어-orange)
-
-> Ein Grok Imagine-Prompt, der ein hypothetisches Szenario aufwirft: ein Fußballspiel zwischen 11 Tesla Optimus-Robotern und einem Team aus menschlichen Champions wie Messi und Ronaldo. Dabei wird betont, dass Fußball weit mehr als nur Laufen und Ballführung erfordert, sondern vor allem Entscheidungsfindung, Kreativität und Kommunikation.
-
-#### 📝 Prompt
-
-```
-🤖⚽ Wird der Tag kommen, an dem Optimus gegen das beste menschliche Fußballteam der Welt antritt?
-Fußball ist nicht nur einfaches Laufen und Ballführen.
-Es ist der ultimative Sport der Intelligenz, der blitzschnelle Urteilsvermögen, kreative Entscheidungen unter Druck
-und eine fast telepathische Kommunikation mit den Teamkollegen erfordert.
-Das Spiel zwischen 11 Tesla Optimus-Einheiten und einem Team aus menschlichen Champions wie Messi und Ronaldo
-scheint weitaus spannender, historischer und unterhaltsamer zu sein als das Duell, in dem AlphaGo Lee Sedol besiegte.
-Das Genie der Menschen trifft auf die transzendente Rechenleistung der KI auf dem Spielfeld...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fb69ac9e56d30293f3da6b5e60bac974/thumbnails/thumbnail.jpg" width="600" alt="Optimus gegen menschliche Fußball-Champions">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2635)**
-
-**Author:** [자성자혁](https://x.com/pursuEssence) | **Source:** [Link](https://x.com/pursuEssence/status/2039914753414590900) | **Published:** Apr 3, 2026
-
----
-### Video-Prompt: Kinoreifer Ritter auf Schlachtross
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt für Grok Imagine, um ein dramatisches, kinoreifes Video eines bedrohlichen Ritters in verzierter schwarzer Rüstung zu generieren, der auf einem mächtigen schwarzen Schlachtross im vollen Galopp auf den Betrachter zureitet.
-
-#### 📝 Prompt
-
-```
-Eine dramatische, kinoreife Froschperspektive eines bedrohlichen Ritters in komplizierter, verzierter schwarzer Plattenrüstung und Helm mit wehendem dunklem Umhang, der auf einem mächtigen, muskulösen schwarzen Schlachtross im vollen Galopp direkt auf den Betrachter zureitet, über ein weites Feld mit hohem grünem Gras. Der Ritter hebt triumphierend ein langes, gerades Schwert in seiner rechten Hand. Das Pferd hat eine wild wehende Mähne und einen Schweif, die durch die Bewegung gepeitscht werden, sowie eine verzierte Rüstung aus Leder und Metall. Der Vordergrund zeigt extreme radiale Bewegungsunschärfe im Gras, die enorme Geschwindigkeit und Dynamik vermittelt. Der Hintergrund zeigt hoch aufragende, zerklüftete, schneebedeckte Berggipfel unter einem leuchtend tiefblauen Himmel mit voluminösen, dramatischen weißen Wolken. Epische Dark-Fantasy-Atmosphäre, hochdetaillierte Texturen an Rüstung und Pferd, kinoreife kontrastreiche Beleuchtung, dynamische heldenhafte Komposition.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/446a847d3c1f7f8b6b65f377ca1f60f2/thumbnails/thumbnail.jpg" width="600" alt="Video-Prompt: Kinoreifer Ritter auf Schlachtross">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2561)**
-
-**Author:** [tetsuo](https://x.com/tetsuoai) | **Source:** [Link](https://x.com/tetsuoai/status/2039884946551238794) | **Published:** Apr 3, 2026
-
----
-### Punch the Monkey
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein Grok Imagine-Prompt mit einem Affen namens Punch, der dem Betrachter einen schönen Tag wünscht und seine Dankbarkeit dafür ausdrückt, dass Punch gesund aufgewachsen ist.
-
-#### 📝 Prompt
-
-```
-🐒❤️#Punch
-Ich wünsche dir einen schönen Tag.
-Vielen Dank, dass Punch so gesund und stark aufgewachsen ist. ❤️❤️🐾❤️❤️🐾🐾❤️❤️🐾🐾❤️❤️🐾🐾❤️🐾🐾❤️
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c3475d7f9c30cb02517d238e5cdc11bd/thumbnails/thumbnail.jpg" width="600" alt="Punch the Monkey">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2630)**
-
-**Author:** [Hyun Lee](https://x.com/HolyMolySakura) | **Source:** [Link](https://x.com/HolyMolySakura/status/2039879080246391145) | **Published:** Apr 3, 2026
-
----
-### Leo die Katze und seine außerirdischen Kätzchen-Freunde
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein kreativer Grok Imagine-Prompt über Leo, die Tuxedo-Katze, die ein Nickerchen braucht, umgeben von außerirdischen Kätzchen-Freunden vom Mond, während Erinnerungsblasen erscheinen und von den Kätzchen zum Platzen gebracht werden.
-
-#### 📝 Prompt
-
-```
-Leo, die Tuxedo-Katze, braucht ein Nickerchen, um über all seine Abenteuer nachzudenken, und ist von seinen außerirdischen Kätzchen-Freunden vom Mond umgeben. Über seinem Kopf erscheinen Erinnerungsblasen, die von den Kätzchen zum Platzen gebracht werden.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ba13b770f8c26e0a1ad0a18d7735bf1d/thumbnails/thumbnail.jpg" width="600" alt="Leo die Katze und seine außerirdischen Kätzchen-Freunde">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2558)**
-
-**Author:** [M. Kerin Sorensen](https://x.com/KerinLang) | **Source:** [Link](https://x.com/KerinLang/status/2039752584467193892) | **Published:** Apr 2, 2026
-
----
-### Dual-Wielding Ronin in einer neonfarbenen postapokalyptischen Einöde
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein für Grok Imagine geteilter Prompt zur Erstellung eines Videos eines beidhändig kämpfenden Ronin in einem Cyberpunk-Setting, mit Fokus auf detaillierte Texturen, dramatische Beleuchtung und chaotische Energie.
-
-#### 📝 Prompt
-
-```
-Beidhändig kämpfender Ronin in postapokalyptischer Neon-Einöde, ein Katana aus klassischem Stahl, das andere eine Fraktal-Energieklinge, aus der regenbogenfarbener Sternenstaub austritt, Körper glitcht zwischen Schwarz-Weiß-Film-Noir und übersättigten Cyber-Farben, Regen aus leuchtenden Partikeln, Hintergrund aus zerstörten Wolkenkratzern, die magentafarbenes Licht verströmen, ultra-detaillierte Texturen, dramatisches Split-Toning, unerwartet chaotische Energie, Midjourney-Meisterschaft
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b643b6dbde457359d99813102c85c18f/thumbnails/thumbnail.jpg" width="600" alt="Dual-Wielding Ronin in einer neonfarbenen postapokalyptischen Einöde">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2557)**
-
-**Author:** [Carolina Delgado](https://x.com/carolletta) | **Source:** [Link](https://x.com/carolletta/status/2039643817264255437) | **Published:** Apr 2, 2026
-
----
-### Dolly-Zoom Himmelsdrache
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Grok Imagine-Prompt, der den Dolly-Zoom-Effekt nutzt, um einen einsamen Krieger auf einer Klippe zu zeigen, während ein kolossaler Himmelsdrache aus Licht aus den Wolken emporsteigt und sich um die Berge windet.
-
-#### 📝 Prompt
-
-```
-Dolly-Zoom: Ein einsamer Krieger steht bei Sonnenaufgang auf einer heiligen Klippe, während ein kolossaler Himmelsdrache aus Licht aus den Wolken emporsteigt. Die Kamera fährt zurück, während sie gleichzeitig heranzoomt, wodurch sich der Himmel in einen leuchtenden Abgrund dehnt, während sich der Drache um die Berge windet und die gesamte Landschaft erhellt.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/732fb40d8a7ce1f24eecb2da052c345e/thumbnails/thumbnail.jpg" width="600" alt="Dolly-Zoom Himmelsdrache">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2556)**
-
-**Author:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Source:** [Link](https://x.com/CharaspowerAI/status/2039621371873886550) | **Published:** Apr 2, 2026
-
----
-### Grok Imagine Video-Prompt für einen Werwolf-Dämonenjäger-Filmtrailer
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochdetaillierter, kinoreifer Grok Imagine-Prompt zur Erstellung eines Kampfszenen-Trailers mit einem Werwolf-Bestienkrieger namens Kragor The Hellreaver, der mit rot glühenden Katana-Klingen gegen einen Dämon kämpft. Der Prompt spezifiziert Kamerawinkel, Geschwindigkeit, Filmkorn und ultra-lebensechte Hautdetails.
-
-#### 📝 Prompt
-
-```
-Werwolf-Bestienkrieger mit rot glühenden Katana-Klingen und Rüstung sowie Dämon mit Lendenschurz, Kampf mit Krallen, Film-Kampfszene. Rasante Multi-Shot-Kinokampfszene aus verschiedenen Winkeln. Schnelle Schläge, sofortige Konter, dynamische Kameraschnitte, reiner, hochenergetischer Echtzeit-Fluss. Katana-Klingen schneiden, Dämonenkrallen reißen, [Szene endet damit, dass der Werwolf-Bestienkrieger seine Klingen tief in die Brust des Dämons stößt und ihn zu Boden drückt.] Extreme Geschwindigkeit und Intensität während des gesamten wilden Schlagabtauschs, schnelle Schläge, helles purpurrotes Licht von den Katana-Klingen. Rasante High-Speed-Kampfszene, hyperkinetischer Echtzeit-Kampf mit reinem, hochenergetischem Fluss, keine Zeitlupe, intensive Handkamera-Dringlichkeit, gedreht auf 35mm mit intimer Bildgestaltung und geringer Schärfentiefe, natürliches Filmkorn, subtile chromatische Aberration. Ultra-lebensechte Wolfshaut mit natürlichen Poren, sichtbarer Hauttextur, subtilem Schweißglanz, Mikro-Hautdetails, authentischen Unvollkommenheiten und echtem Subsurface Scattering, kein Plastik, kein wächserner CGI-Look
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/aaae8a229360ab76d122e9a6704272e4/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine Video-Prompt für einen Werwolf-Dämonenjäger-Filmtrailer">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2560)**
-
-**Author:** [ArcZeal Designs](https://x.com/arczeal_designs) | **Source:** [Link](https://x.com/arczeal_designs/status/2039550370192486797) | **Published:** Apr 2, 2026
-
----
-### Video-Prompt für einen Nähmaschinen-Workshop in Pink
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Generierungs-Prompt für Grok Imagine, der einen verspielten Näh-Workshop im Prinzessinnen-Stil beschreibt: mit einer pinken Nähmaschine mit blinkendem Licht, Regalen voller Bastelbedarf in Pastelltönen und einer Stoffpuppe, die auf dem Tisch liegt.
-
-#### 📝 Prompt
-
-```
-Pinke Nähmaschine mit blinkendem Licht, Regale voller Bänder, Knöpfe und Garne in Pastelltönen – zartes Rosa, Flieder, Perlweiß. Alles wirkt niedlich, wie ein Prinzessinnenzimmer, das in eine Werkstatt verwandelt wurde.
-Die Stoffpuppe liegt dort auf dem Tisch...
-```
-
-<img src="https://cms-assets.youmind.com/media/1775202187855_ohw7ll_HE3gsqWbAAAJlbW.jpg" width="600" alt="Video-Prompt für einen Nähmaschinen-Workshop in Pink">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2562)**
-
-**Author:** [Ana Paula ❤️](https://x.com/anapaula_life) | **Source:** [Link](https://x.com/anapaula_life/status/2039533320296669453) | **Published:** Apr 2, 2026
-
----
-### Roter Nebel über Arizona mit Rubin-Energie
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für Grok Imagine, der eine dramatische, spirituelle Szene mit rotem Nebel über Arizona beschreibt, die eine echte rote Rubin-Energie und den bevorstehenden Wandel symbolisiert.
-
-#### 📝 Prompt
-
-```
-Mach dich bereit, der rote Nebel über Arizona kommt. Dies ist die wahre rote Rubin-Energie, die sich der Erde offenbart, und wir müssen uns auf den kommenden Wandel vorbereiten, haltet die Stellung.....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d1d12df2f97291d90627d28663c636c1/thumbnails/thumbnail.jpg" width="600" alt="Roter Nebel über Arizona mit Rubin-Energie">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2525)**
-
-**Author:** [Jennyssight](https://x.com/jennyssight) | **Source:** [Link](https://x.com/jennyssight/status/2039521814636892519) | **Published:** Apr 2, 2026
-
----
-### Hyperrealistischer Prompt für einen Raumschiffstart
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für Grok Imagine, der ein hyperrealistisches Bild eines startenden Raumschiffs mit intensiven Flammen und Abgasen anfordert, gerendert in einem extrem schinfinfuteristischen künstlerischen Stil mit ultra-hohen Details.
-
-#### 📝 Prompt
-
-```
-hyperrealistisches Bild eines startenden Raumschiffs mit zündenden Triebwerken, intensiven Flammen und Abgasfahnen, dramatische Startszene, gerendert in einem extrem schinfinfuteristischen künstlerischen Stil, extrem detailliert, hochkomplex, ultra-deta...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f337fce5600878a3c209594c7b6284a2/thumbnails/thumbnail.jpg" width="600" alt="Hyperrealistischer Prompt für einen Raumschiffstart">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2559)**
-
-**Author:** [G M](https://x.com/goranmTO) | **Source:** [Link](https://x.com/goranmTO/status/2039493995798123007) | **Published:** Apr 2, 2026
-
----
-### Grok Imagine Prompt für eine ätherische See-Szene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Grok Imagine Prompt, der eine Szene beschreibt, in der eine Frau an einem See entlanggeht, mit Fokus auf ätherische, melancholische, jenseitige, atmosphärische, filmische und verträumte Qualitäten.
-
-#### 📝 Prompt
-
-```
-Sie geht am See entlang, ätherisch, melancholisch, jenseitig, atmosphärisch, filmisch, verträumt
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/edb8327f2fd5db1c4242c94d39ee69af/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine Prompt für eine ätherische See-Szene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2502)**
-
-**Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2039484641200292224) | **Published:** Apr 1, 2026
-
----
-### Video-Prompt für die Transformation des SpaceX Cyber Truck
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Sci-Fi-Action-Prompt für Grok Imagine, der ein massives SpaceX-Raumschiff zeigt, das seine Heckklappe öffnet, um einen transformierenden Cyber Truck freizusetzen – komplett mit Solarpanels, einklappbaren Rädern, leuchtenden Auspuffrohren und abgerundeten Flügeln, während funkelnde Wörter im Weltraum schweben.
-
-#### 📝 Prompt
-
-```
-Ein massives SpaceX-Raumschiff öffnet die Heckklappe, ein Cyber Truck kommt heraus, mit Solarpanels auf dem Dach, integrierten einklappbaren Rädern, leuchtenden Auspuffrohren an den Seiten und ausfahrenden, abgerundeten Flügeln. Funkelnde Wörter im Weltraum. 
-Schreibe mit einem Tesla, du kannst es schaffen...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9a8b6c6840d91decfd6a32ce7ed8ea75/thumbnails/thumbnail.jpg" width="600" alt="Video-Prompt für die Transformation des SpaceX Cyber Truck">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2523)**
-
-**Author:** [CKR](https://x.com/CKRSandra) | **Source:** [Link](https://x.com/CKRSandra/status/2039481323480338865) | **Published:** Apr 1, 2026
-
----
-### Video-Prompt für ein Stadtbild mit Osterhase und Oompa Loompas
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein surrealer und skurriler Prompt für Grok Imagine, um ein Video eines Stadtbilds zu generieren, in dem der Osterhase und Oompa Loompas Eier und Osterkörbchen verstecken, während sie ein Lied singen.
-
-#### 📝 Prompt
-
-```
-Ein Stadtbild, in dem der Osterhase und Oompa Loompas Eier und Osterkörbchen verstecken und dabei ein Lied singen.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/931b733232bd425c5376db7a0e747958/thumbnails/thumbnail.jpg" width="600" alt="Video-Prompt für ein Stadtbild mit Osterhase und Oompa Loompas">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2514)**
-
-**Author:** [Emily](https://x.com/EMSRANCHART3) | **Source:** [Link](https://x.com/EMSRANCHART3/status/2039451035148910993) | **Published:** Apr 1, 2026
-
----
-### Video-Prompt für ein solarbetriebenes Boot mit einem Tesla Model Y
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für Grok Imagine, der ein Video eines großen solarbetriebenen Bootes mit einem darauf montierten Tesla Model Y anfordert, bei dem sich die Hinterräder des Autos im Uhrzeigersinn drehen.
-
-#### 📝 Prompt
-
-```
-Großes solarbetriebenes Boot mit einem Tesla Model Y an Deck, bei dem sich die Hinterräder im Uhrzeigersinn drehen
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ed9d2fdd2deb91b4330242a17e63a249/thumbnails/thumbnail.jpg" width="600" alt="Video-Prompt für ein solarbetriebenes Boot mit einem Tesla Model Y">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2513)**
-
-**Author:** [DeanReynoldsBuilders](https://x.com/DeanRBuilders) | **Source:** [Link](https://x.com/DeanRBuilders/status/2039446748188307595) | **Published:** Apr 1, 2026
-
----
-### Video-Prompt für Tesla-Boot-Umbau
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein kreativer, mechanischer Prompt für Grok Imagine, der ein Boot beschreibt, auf das ein Tesla auffahren kann, wobei die Räder des Tesla mit einem Propeller verbunden werden, um das Boot anzutreiben.
-
-#### 📝 Prompt
-
-```
-Ein Boot, auf das ein Tesla auffahren kann, sodass der Tesla zum Antrieb für das Boot wird; die Räder des Tesla verbinden sich dabei mit dem Propeller, der das Boot antreibt.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/af89ebd1afb706f302d3d82c0ffae841/thumbnails/thumbnail.jpg" width="600" alt="Video-Prompt für Tesla-Boot-Umbau">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2524)**
-
-**Author:** [DeanReynoldsBuilders](https://x.com/DeanRBuilders) | **Source:** [Link](https://x.com/DeanRBuilders/status/2039439972130865395) | **Published:** Apr 1, 2026
-
----
-### Video-Prompt für eine verschneite Morgen-Kaffeeszene in den Bergen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für Grok Imagine, der eine ruhige Morgenszene beschreibt: eine Frau trinkt Kaffee auf einer Veranda, begleitet von einem Golden Retriever, vor der Kulisse schneebedeckter Berge.
-
-#### 📝 Prompt
-
-```
-Hintergrund: schneebedeckte Berge,
-Eine Frau sitzt auf der Veranda und trinkt Kaffee,
-Ein Golden Retriever sitzt neben ihr....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/01922456ee475276abe7303d134a863d/thumbnails/thumbnail.jpg" width="600" alt="Video-Prompt für eine verschneite Morgen-Kaffeeszene in den Bergen">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2515)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2039427471989407788) | **Published:** Apr 1, 2026
-
----
-### Kamera schwenkt nach rechts, sie sagt: „Alle warten“
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Grok Imagine-Prompt, der Kamerabewegung und Dialog für eine Filmszene festlegt, bei der die Kamera nach rechts schwenkt, während eine Figur einen Satz darüber sagt, dem Geburtstagskind zu gratulieren.
-
-#### 📝 Prompt
-
-```
-Kamera schwenkt nach rechts, sie sagt: „Alle warten auf dich. Sie möchten dem Geburtstagskind gratulieren....“
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f3a000c305e77b2d77b1faf3e6083c24/thumbnails/thumbnail.jpg" width="600" alt="Kamera schwenkt nach rechts, sie sagt: „Alle warten“">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2521)**
-
-**Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2039424770396373357) | **Published:** Apr 1, 2026
-
----
-### Gemütliches Vintage-Anime-Interieur im japanischen Stil
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Grok Imagine-Prompt zur Erstellung einer Videoszene eines gemütlichen, japanischen Vintage-Anime-Interieurs mit einem sternenklaren Nachthimmel, gerendert im Stil von Studio Ghibli.
-
-#### 📝 Prompt
-
-```
-Ein gemütliches, japanisches Vintage-Anime-Interieur mit einem sternenklaren Nachthimmel im Stil von Studio Ghibli.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/909181a24cea79202da07b59fa27fde4/thumbnails/thumbnail.jpg" width="600" alt="Gemütliches Vintage-Anime-Interieur im japanischen Stil">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2508)**
-
-**Author:** [Alamgir Hossain](https://x.com/mdalamgir95) | **Source:** [Link](https://x.com/mdalamgir95/status/2039415841759100958) | **Published:** Apr 1, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2210,6 +2220,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-07T05:50:56.603Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-07T09:15:47.633Z</sub>
 
 </div>
