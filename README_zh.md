@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **1029** |
+| 📝 提示词总数 | **1055** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-04-08** |
 
@@ -189,6 +189,491 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 精致的 3D 装饰艺术风格刺绣：优雅年轻女子与白狐
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 这是一个为 Grok Imagine 设计的详细视频生成提示词，描述了一个高度精细的 3D 装饰艺术（Art Deco）风格刺绣场景。画面展现了一位苗条的年轻女子与一只白狐坐在露台上，俯瞰黄昏时的城市景观，重点突出了刺绣的纹理、色彩及电影级的渲染细节。
+
+#### 📝 提示词
+
+```
+高度精细的 3D 装饰艺术（Art Deco）风格刺绣，画面中一位拥有修长脖颈的优雅苗条女子，与一只姿态优美的白狐一同坐在奢华的装饰艺术风格露台上，俯瞰黄昏时分充满活力的城市景观。女子留着飘逸的侧分波浪丝滑白色装饰艺术发型，绣出的深蓝色双眸配有细长的睫毛，嘴唇呈明亮的橙色，皮肤呈现出纯净柔软的白色刺绣质感。她身着一件精致的深蓝色礼服，肩部饰有橙色几何装饰艺术图案，圆形的金色边领中央镶嵌着深绿松石色。她身旁坐着一只优雅的白狐，有着灵动的金色双眼，颈部和耳朵上饰有精巧的亮金色图案。采用极其平滑的缎面绣工艺，色彩纯净无缝，无黑色轮廓线，呈现出柔软奢华的刺绣质感。背景城市景观中融入了闪烁着明亮绿松石色、金色和白色的精细装饰艺术图案。色彩丰富鲜艳，博物馆级刺绣工艺，超高细节，8K 分辨率。3D 刺绣采用 Octane Render 渲染，电影级光影，氛围优雅而精致。
+```
+
+<img src="https://cms-assets.youmind.com/media/1775634942887_9d8vu3_HFVz1L2bYAA-rl-.jpg" width="600" alt="精致的 3D 装饰艺术风格刺绣：优雅年轻女子与白狐">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2950)**
+
+**作者:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **来源:** [Link](https://x.com/iamhappy2026/status/2041665470710083929) | **发布时间:** Apr 7, 2026
+
+---
+### 黄金贵宾犬在月球上挖洞的视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于 Grok Imagine 的提示词，旨在创作一段写实风格的视频，展示一只黄金贵宾犬在月球上挖掘陨石坑，背景中可以看到地球升起。
+
+#### 📝 提示词
+
+```
+制作一段写实风格的视频，展示这只黄金贵宾犬在月球上挖掘陨石坑，背景中地球正在升起
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eb2d8cb98290eab75e2da7c86f71356b/thumbnails/thumbnail.jpg" width="600" alt="黄金贵宾犬在月球上挖洞的视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2954)**
+
+**作者:** [Wee Volunteer](https://x.com/WeeVolunteer) | **来源:** [Link](https://x.com/WeeVolunteer/status/2041650346947207597) | **发布时间:** Apr 7, 2026
+
+---
+### 《神秘博士》Dalek 家庭场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个基于《神秘博士》宇宙的 Grok Imagine 提示词，设定了一个金色 Dalek 作为家长，而蓝色 Dalek 作为渴望成为一名医生的孩子的叙事场景。
+
+#### 📝 提示词
+
+```
+金色 Dalek 是家长。蓝色 Dalek 是那个想长大后成为一名医生的孩子。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d1bcf5b86ececbe65377c832f660e259/thumbnails/thumbnail.jpg" width="600" alt="《神秘博士》Dalek 家庭场景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2949)**
+
+**作者:** [Master](https://x.com/DragonFlam7530) | **来源:** [Link](https://x.com/DragonFlam7530/status/2041638360540643492) | **发布时间:** Apr 7, 2026
+
+---
+### 悬浮粘稠立方体提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 今日提示词，描述了一个在黑暗房间里，悬浮在巫师面前的、发光的半透明粘稠立方体。
+
+#### 📝 提示词
+
+```
+“悬浮在巫师黑暗房间里的、发光的半透明粘稠立方体。”
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b7291e86b39a5e0233320fc16836c11c/thumbnails/thumbnail.jpg" width="600" alt="悬浮粘稠立方体提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2937)**
+
+**作者:** [Thoth Scribe](https://x.com/ThothScribe) | **来源:** [Link](https://x.com/ThothScribe/status/2041635112320917976) | **发布时间:** Apr 7, 2026
+
+---
+### 金属鳞片猫咪提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 这是为 Grok Imagine 设计的提示词，用于创作一只拥有金属鳞片的猫，它伫立在圆柱之上，背景充满戏剧性，并带有电影级调色。
+
+#### 📝 提示词
+
+```
+创作一只猫，但它身上没有毛发，而是覆盖着金属鳞片。这只猫必须伫立在圆柱之上，背景充满戏剧性。电影级调色。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4d316f0fb4908751d038d75be056df66/thumbnails/thumbnail.jpg" width="600" alt="金属鳞片猫咪提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2935)**
+
+**作者:** [Raymond du Plooy](https://x.com/SoloBucket) | **来源:** [Link](https://x.com/SoloBucket/status/2041631411837239609) | **发布时间:** Apr 7, 2026
+
+---
+### 送给 Elon Musk 的黑粉色玫瑰
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 这是一个 Grok Imagine 视频提示词，描述了一个具体的视觉场景：桌上的花瓶里插着黑粉色玫瑰。提示词详细说明了一位女性的外貌（135 磅，棕色长发，蓝色眼睛，穿着粉色蕾丝裙），她被设定为视频的主角，并以回应“追逐 Elon Musk”为背景。
+
+#### 📝 提示词
+
+```
+追了 @elonmusk 多年后的我 
+我想要黑粉色的玫瑰，我的意思是让她看起来 135 磅，留着棕色长发，有着蓝色眼睛，穿着粉色蕾丝吊带裙。我希望玫瑰的边缘是黑色的，花心是粉色的，并插在房间桌上的花瓶里，通过……
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8eeffd56a069ff39ea6cfb3001667abd/thumbnails/thumbnail.jpg" width="600" alt="送给 Elon Musk 的黑粉色玫瑰">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2957)**
+
+**作者:** [HisMoonRey](https://x.com/BrokenWings53) | **来源:** [Link](https://x.com/BrokenWings53/status/2041627572505604605) | **发布时间:** Apr 7, 2026
+
+---
+### 点亮文本框的红色能量球
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 这是一个用于 Grok Imagine 的视频生成提示词，描述了一个红色能量球从电源插座中涌出，沿着电线移动，并环绕黑色文本框，依次点亮每个框内文字的过程。
+
+#### 📝 提示词
+
+```
+展示一个红色能量球从电源插座中涌出并进入电线，向上移动，然后环绕每一个黑色文本框。它应该点亮框内的文字，使其发出明亮的光芒，接着移动到下一个文本框，重复点亮的过程。R...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/219fd21d7ac92e989fc05ee31c093571/thumbnails/thumbnail.jpg" width="600" alt="点亮文本框的红色能量球">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2936)**
+
+**作者:** [InquiringMind](https://x.com/Inquiringmind53) | **来源:** [Link](https://x.com/Inquiringmind53/status/2041609473954083325) | **发布时间:** Apr 7, 2026
+
+---
+### 电影级视频生成提示词：赛博网络黑客入侵
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个为 Grok Imagine 设计的详细电影级提示词，描述了一名孤独的赛博网络黑客从废弃空间站入侵禁忌轨道大型机的场景，包含全息数据和故障特效。
+
+#### 📝 提示词
+
+```
+一名孤独的赛博网络黑客正从废弃空间站入侵禁忌轨道大型机，周围环绕着漂浮的全息数据和故障特效。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f785dd11f8f742d99304490524304f62/thumbnails/thumbnail.jpg" width="600" alt="电影级视频生成提示词：赛博网络黑客入侵">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2941)**
+
+**作者:** [SoyAlb3rT](https://x.com/SoyAlb3rT) | **来源:** [Link](https://x.com/SoyAlb3rT/status/2041594749186982288) | **发布时间:** Apr 7, 2026
+
+---
+### 超现实科幻视频提示词：巨型短吻鳄追逐银碗
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 这是一个极具描述性和超现实感的 Grok Imagine 提示词，描绘了从立交桥俯瞰黑暗城市的场景：两只摩天大楼般巨大的绿色双足短吻鳄正在原地奔跑，追逐着一个顶在一名女性头上、盛满明亮白光的银碗。
+
+#### 📝 提示词
+
+```
+站在黑色沥青立交桥上俯瞰黑暗城市，看到两只像摩天大楼一样巨大的绿色双足短吻鳄，从左向右原地奔跑，追逐着一个顶在一名女性头上、盛满明亮白光的银碗……
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/04b3639573fc69895eb6805a2db4a6b8/thumbnails/thumbnail.jpg" width="600" alt="超现实科幻视频提示词：巨型短吻鳄追逐银碗">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2948)**
+
+**作者:** [♥️🤍💙 Abigail](https://x.com/Abby_Sariah) | **来源:** [Link](https://x.com/Abby_Sariah/status/2041592196575719783) | **发布时间:** Apr 7, 2026
+
+---
+### 婴儿课堂讨论视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于 Grok Imagine 的视频生成提示词，指定了“SCENE LOCK”（固定构图并带有细微的数字推入效果），展现婴儿在课堂环境中互动、通过手势和“交谈”讨论课程的情景，其中一名婴儿正在进行演示，画面采用柔和的动态效果和自然光照明。
+
+#### 📝 提示词
+
+```
+SCENE LOCK：保持基础构图不变，向中心课堂区域进行非常细微的数字推入；婴儿们互相互动、做手势并像讨论课程一样“交谈”，一名婴儿在前方进行演示；柔和的动态，自然光，轻柔...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e06dd2f8ea30ea1da23d24877ce3e8be/thumbnails/thumbnail.jpg" width="600" alt="婴儿课堂讨论视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2939)**
+
+**作者:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **来源:** [Link](https://x.com/gpimpmyspace/status/2041591605824778673) | **发布时间:** Apr 7, 2026
+
+---
+### 以 Grok 喜剧演员和政治人物为主角的视频生成提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 这是一个用于 Grok Imagine 的提示词，旨在生成一段“Grok 喜剧演员”嘲讽 Donald Trump 的视频，随后 Trump 对“假新闻媒体”进行回击。该提示词包含多个表情符号，营造出混乱、戏剧性或幽默的氛围。
+
+#### 📝 提示词
+
+```
+Grok 喜剧演员嘲讽 Trump，让 Trump x4 回击假新闻媒体 🌶️🪬🤫⛳️🎬🕶️☎️🍷🚀
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6da4b98ce147dc511a585ddaa0fbbd5d/thumbnails/thumbnail.jpg" width="600" alt="以 Grok 喜剧演员和政治人物为主角的视频生成提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2938)**
+
+**作者:** [Amir Prince](https://x.com/princeduduamir) | **来源:** [Link](https://x.com/princeduduamir/status/2041589038059323700) | **发布时间:** Apr 7, 2026
+
+---
+### 巨型戴森球的电影级镜头
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于生成巨型戴森球电影级细节视频镜头的 Grok Imagine 提示词，强调宏大的规模感、浓郁的暖橙琥珀色调、漫射的体积雾光效以及戏剧性的剪影效果。
+
+#### 📝 提示词
+
+```
+巨型戴森球的电影级细节镜头，宏大的规模感与深度，浓郁的暖橙琥珀色调，漫射的体积雾光效，柔和的金光，戏剧性的剪影与深邃的阴影，电影级广角构图，层次分明...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/50dc897651ea07ab723117d73f7e1216/thumbnails/thumbnail.jpg" width="600" alt="巨型戴森球的电影级镜头">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2946)**
+
+**作者:** [Nitish kumar gupta](https://x.com/gupta_kuma18179) | **来源:** [Link](https://x.com/gupta_kuma18179/status/2041576480380219423) | **发布时间:** Apr 7, 2026
+
+---
+### 猫咪跳跃说话视频提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一份用于 Grok Imagine 的详细提示词，旨在创作一段猫咪向镜头跳跃、说话、微笑并摇动尾巴的视频。
+
+#### 📝 提示词
+
+```
+让猫咪向镜头跳跃并说话，说出“I love you”，露出灿烂的笑容，同时摇动尾巴……❤️💋🌹Willis 是我的毛孩子之一 😻
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9442e464d1e833fbf5c76f90270c0a6b/thumbnails/thumbnail.jpg" width="600" alt="猫咪跳跃说话视频提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2934)**
+
+**作者:** [Jessica Longo](https://x.com/Jessica39627125) | **来源:** [Link](https://x.com/Jessica39627125/status/2041559978029248567) | **发布时间:** Apr 7, 2026
+
+---
+### 电影级生物机械产品展示视频（截断）
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 这是一个发送给 Grok Imagine 的提示词，要求生成一段电影级的产品展示视频，内容为一个细节丰富的生物机械头戴式面具，具有有机骨骼状外壳、生锈金属质感以及戏剧性的轮廓光，提示词内容已被截断。
+
+#### 📝 提示词
+
+```
+电影级产品展示，展示一个生物机械头戴式面具，有机骨骼状外壳与生锈的金属部件及类人牙齿融合，电线和发光的红色传感器从后部伸出，在烟雾缭绕的黑色背景下呈现出戏剧性的摄影棚轮廓光...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/128585c755ea0cd8005221d23cfb929e/thumbnails/thumbnail.jpg" width="600" alt="电影级生物机械产品展示视频（截断）">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2955)**
+
+**作者:** [iGor Salikov](https://x.com/salikov_) | **来源:** [Link](https://x.com/salikov_/status/2041552756628988152) | **发布时间:** Apr 7, 2026
+
+---
+### Elon Musk 说：“这终有一天会拍成电影！”
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个为 Grok Imagine 准备的视频生成提示词，内容是让 Elon Musk 说出这句特定的台词，并向人类展示如何完成某事。
+
+#### 📝 提示词
+
+```
+让 Elon Musk 说出“这终有一天会拍成电影！”。那么，让我们向人类展示一下这是怎么做到的！...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/31a5efe08e0d3beed05ab240d9727bf4/thumbnails/thumbnail.jpg" width="600" alt="Elon Musk 说：“这终有一天会拍成电影！”">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2952)**
+
+**作者:** [T͜͡i͜͡m͜͡e͜͡](https://x.com/TIME2064) | **来源:** [Link](https://x.com/TIME2064/status/2041541855662239923) | **发布时间:** Apr 7, 2026
+
+---
+### 混乱且充满电影感的视频生成提示词：浣熊骑在猫咪龙卷风上
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 这是一个为 Grok Imagine 设计的极具想象力且细节丰富的提示词，画面描述了一只戴着太阳镜的浣熊骑着由猫咪组成的龙卷风穿过城市，天空中飘落着五彩纸屑，强调趣味性、混乱的能量感以及电影般的慢动作效果。
+
+#### 📝 提示词
+
+```
+一只戴着太阳镜的浣熊骑着由猫咪组成的龙卷风穿过城市，五彩纸屑飘落，充满趣味与混乱的能量，电影级慢动作效果。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e59a39e8e61017392775be1470450d01/thumbnails/thumbnail.jpg" width="600" alt="混乱且充满电影感的视频生成提示词：浣熊骑在猫咪龙卷风上">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2942)**
+
+**作者:** [Sir Börtecine 🧋🐈](https://x.com/akn_pkl) | **来源:** [Link](https://x.com/akn_pkl/status/2041539828236308825) | **发布时间:** Apr 7, 2026
+
+---
+### 受古希腊雕塑启发的超写实肖像
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于 Grok Imagine 的提示词，旨在生成一段受古希腊雕塑启发、超写实且具有电影质感的女神肖像视频。画面包含大理石般的肌肤、飘逸的白色褶皱长裙，以及坐落于宏伟古神庙中的场景，伴有柔和的阳光束，强调超精细的纹理与古典美感。
+
+#### 📝 提示词
+
+```
+受古希腊雕塑启发的女神超写实肖像，光滑如大理石般的肌肤透着细腻的生命质感，身着长款飘逸的白色褶皱长裙，伫立在拥有断壁残垣的宏伟古神庙中，柔和的阳光束洒下，黄金分割构图，神情宁静而有力，电影级布光，超精细纹理，永恒的古典美，8k 分辨率。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5865272735aad5d8b80b5afd903703f6/thumbnails/thumbnail.jpg" width="600" alt="受古希腊雕塑启发的超写实肖像">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2945)**
+
+**作者:** [SPACELESS](https://x.com/VOLDEMORT2X) | **来源:** [Link](https://x.com/VOLDEMORT2X/status/2041517107758649765) | **发布时间:** Apr 7, 2026
+
+---
+### 侧重于运镜和景深的视频生成提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一份针对 Grok Imagine 的详细提示词，指定了运镜（平移至细节）、焦点（蒲公英在风中轻柔摇曳）以及景深（奔跑中的男子，处于失焦状态）。
+
+#### 📝 提示词
+
+```
+摄像机平移至在风中轻柔摇曳的蒲公英细节，同时一名男子在背景中奔跑，处于失焦状态
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3955577bf6f15ecdf8c5d9d130e04e77/thumbnails/thumbnail.jpg" width="600" alt="侧重于运镜和景深的视频生成提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2943)**
+
+**作者:** [Jacek](https://x.com/iadventurejacek) | **来源:** [Link](https://x.com/iadventurejacek/status/2041463240190840905) | **发布时间:** Apr 7, 2026
+
+---
+### 动漫/真人版翻拍：《Departure in the Sunset》完整场景
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一份详细的 Grok Imagine 提示词，用于生成《Departure in the Sunset》场景的动漫和真人版版本。该场景描绘了 Kururu 和 Tsugumi 两名女孩站在山丘上俯瞰日落时分废墟城市的画面，重点刻画了她们的侧脸和对话。
+
+#### 📝 提示词
+
+```
+背景是日落余晖下的荒凉城市景观，包括坍塌的建筑物、坠落的桥梁、破败的摩天大楼以及布满废弃车辆的道路。她们站在一个小山丘上，俯瞰着这座废墟城市。女孩 1：（Kururu）个子稍矮，金色短发，手持十字弩。她穿着带有两侧开叉的紧身迷你裙，战术风格。女孩 2：（Tsugumi）个子稍高，紫色马尾辫，穿着破损的牛仔裤和皮夹克，手持日本刀。仅捕捉她们的侧脸，半身像。两位女孩的脸颊都被落日余晖映照得微微泛红。女孩 1：Kururu 说了些什么。Tsugumi 默默地点了点头。动漫风格。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b173b29d825d3537302088b3a1c36ada/thumbnails/thumbnail.jpg" width="600" alt="动漫/真人版翻拍：《Departure in the Sunset》完整场景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2959)**
+
+**作者:** [阿部 孝](https://x.com/03abe_takashi) | **来源:** [Link](https://x.com/03abe_takashi/status/2041447104485204430) | **发布时间:** Apr 7, 2026
+
+---
+### 沉思风格视频生成提示词：男子凝望窗外
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 这是一份为 Grok Imagine 准备的描述性提示词，聚焦于一个沉思场景：一名男子从书中抬头，凝望窗外，陷入深思，阳光映照在他的脸上。
+
+#### 📝 提示词
+
+```
+他从书中抬头并凝望窗外，陷入深思，神情沉静，阳光映照在他的脸上
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7b722fd20c76451f89e90c5c52b646ef/thumbnails/thumbnail.jpg" width="600" alt="沉思风格视频生成提示词：男子凝望窗外">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2944)**
+
+**作者:** [TruePatriot🇺🇸](https://x.com/Patriotslang) | **来源:** [Link](https://x.com/Patriotslang/status/2041426574705139990) | **发布时间:** Apr 7, 2026
+
+---
+### 抽象高定时尚摄影提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 这是一份为 Grok Imagine 设计的详细提示词，旨在生成一张具有 35mm 胶片抓拍风格的抽象高定时尚人像，强调色块拼接、80 年代动画美学以及原始的触感纹理。注意：尽管标注为“摄影提示词”，但由于 Grok Imagine 是视频模型，该提示词最终可能会生成一段短小的静态镜头视频。
+
+#### 📝 提示词
+
+```
+35mm 胶片抓拍风格，抽象高定时尚人像，身着色块拼接的乙烯基与针织材质服装，自然窗光营造出浅景深虚化效果与微妙的手持晃动感，鲜艳的黄蓝色 80 年代重工业动画赛璐珞色块在表面形成半色调网点破碎感，夸张比例呈现有机畸变，竖屏手机锁屏构图，边缘带有引导性色彩，原始的乙烯基光泽与针织材质瑕疵清晰可见，大胆的对比色调，呈现未经修饰的快照氛围
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6a8ae62fadd123da561940be609bd740/thumbnails/thumbnail.jpg" width="600" alt="抽象高定时尚摄影提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2953)**
+
+**作者:** [Quinn Woods-Robinson](https://x.com/QuinnWR) | **来源:** [Link](https://x.com/QuinnWR/status/2041388099717173490) | **发布时间:** Apr 7, 2026
+
+---
+### 对话场景视频提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 为 Grok Imagine 编写的叙事提示词，用于生成一段描绘男女之间戏剧性对话场景的视频。
+
+#### 📝 提示词
+
+```
+男人对女人大喊：“放开我的养老金，Vurginia！” 老妇人回喊：“你放手，Roger，你这个逃避部署的混蛋！...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/07cb29c5b3546e4833664d9cfa3d6c32/thumbnails/thumbnail.jpg" width="600" alt="对话场景视频提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2956)**
+
+**作者:** [BerserkerMedic](https://x.com/davidmedic81) | **来源:** [Link](https://x.com/davidmedic81/status/2041364258466734363) | **发布时间:** Apr 7, 2026
+
+---
+### 吉他手与漂浮音符的电影感夜景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个 Grok Imagine 提示词，描述了一个宁静且具有电影感的夜景：背景是松树和满月下的湖泊，一侧停放着小型 Airstream 露营车，海滩上有一位女性正在弹奏吉他，音符从吉他中漂浮而出并环绕着月亮。
+
+#### 📝 提示词
+
+```
+背景为松树，湖泊与满月，一侧停放着小型 Airstream 露营车，
+海滩上有小型篝火，一位女性坐在海滩上弹奏吉他，音符从吉他中漂浮而出并环绕着月亮
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/94e6b9476f4971f0447a9f3433c56787/thumbnails/thumbnail.jpg" width="600" alt="吉他手与漂浮音符的电影感夜景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2947)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2041353539390472400) | **发布时间:** Apr 7, 2026
+
+---
+### 模特骑马的视频生成提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 此提示词用于生成一段模特缓慢上马的视频片段，摄像机保持静止，以突出动作和运动细节。
+
+#### 📝 提示词
+
+```
+让我们骑行吧……
+
+是的……骑手出发吧……
+
+摄像机保持静止，模特缓慢地坐上马背。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e5fd73266b1e05a1566f3d20e3b3440/thumbnails/thumbnail.jpg" width="600" alt="模特骑马的视频生成提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2940)**
+
+**作者:** [Self-Improvement from the top](https://x.com/Danuel_san) | **来源:** [Link](https://x.com/Danuel_san/status/2041348495047823415) | **发布时间:** Apr 7, 2026
+
+---
+### 东亚女性赛博格战士的电影级戏剧化场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 这是一个为 Grok Imagine 编写的详尽且高度细节化的视频生成提示词，描述了一个戏剧性的电影化场景。场景主角是一位身处反乌托邦城市的东亚女性赛博格战士，重点刻画了她受损的装甲、发光的红色机械眼，并以她启动推进器腾空而起作为高潮。
+
+#### 📝 提示词
+
+```
+一段戏剧性的电影化场景，展现了一位留着黑色短波波头的东亚女性赛博格战士，背景是烟雾缭绕、阴云密布的反乌托邦未来城市。视频以她光滑的黑色机械右手特写开始，金属手指细节丰富，关节处闪烁着红光，装甲上可见细微的划痕和战斗损伤。
+镜头缓慢向上倾斜，展现出她那受损严重却依然强大的全身战术赛博格装甲——哑光黑色配以红色发光装饰，裸露的机械部件，以及她脸上沾染的血迹。她的表情充满张力：眉头紧锁，嘴角和脸颊的伤口渗出鲜血，发光的红色机械眼中横向红光束不断扫描。她缓慢地眨眼，表情从痛苦转为坚定。
+她逐渐在充满烟雾、远方火光和废墟建筑的城市战场中站直身体。她戴上了一个带有深色面罩的黑色流线型战术头盔。镜头拉远至全身镜头，她自信地转过身，展示了包括肩甲、大腿枪套和背部武器在内的完整装甲设计。红色能量线在她的战衣上脉动。
+在最后时刻，她启动了推进器——明亮的橙白色火焰从她的手脚喷涌而出。她强力冲向空中，迅速升至被摧毁的城市景观之上，背景中充斥着爆炸和浓重的黑色烟雾轨迹。史诗般、紧张的赛博朋克氛围，高度细节化，电影级光影，慢动作元素与动态运动相结合，深沉的情绪化色彩分级，红色光芒对比强烈。
+电影感，超写实，8k，照片级真实感，戏剧性光影，胶片颗粒，紧张的动作序列，12 秒，平滑的镜头移动，先缓慢向上倾斜后拉远，结尾火箭发射
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fc5367c6cccbc88db363c98e812a3841/thumbnails/thumbnail.jpg" width="600" alt="东亚女性赛博格战士的电影级戏剧化场景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2951)**
+
+**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **来源:** [Link](https://x.com/ThoughCreator/status/2041307525140881679) | **发布时间:** Apr 7, 2026
+
+---
 ### 毛茸茸小兔子跳嘻哈舞的视频提示词
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -263,6 +748,25 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2864)**
 
 **作者:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **来源:** [Link](https://x.com/iamhappy2026/status/2041243449110962626) | **发布时间:** Apr 6, 2026
+
+---
+### 有机生物发光缩放视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一位用户分享了在 Grok Imagine 的极速模式下成功使用的提示词组合：上传照片后，结合基础照片提示词（“Organic Bioluminescent”）和视频提示词（“Zoom in and out”）。这是适用于 Grok Imagine 的视频生成提示词。
+
+#### 📝 提示词
+
+```
+基础照片提示词使用 Organic Bioluminescent，视频提示词使用 Zoom in and out
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f78cc59248fc1e16522fd73a4daac65e/thumbnails/thumbnail.jpg" width="600" alt="有机生物发光缩放视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2958)**
+
+**作者:** [Lala](https://x.com/keepgoingAnnie) | **来源:** [Link](https://x.com/keepgoingAnnie/status/2041239957151658067) | **发布时间:** Apr 6, 2026
 
 ---
 ### 电影感天台钢琴场景提示词
@@ -1649,516 +2153,6 @@ GoPro 鱼眼镜头明确告知模型需要模拟的镜头类型。由于自拍 P
 **作者:** [LiveHumble&Kind](https://x.com/LivehumbleKind) | **来源:** [Link](https://x.com/LivehumbleKind/status/2040424702188114222) | **发布时间:** Apr 4, 2026
 
 ---
-### 赛博朋克东京 AI 怪兽视频提示词
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一份为 Grok Imagine 准备的详细电影级提示词，用于创作一段 8 秒的视频。视频描绘了 2026 年赛博朋克东京的夜空中，一只巨大的黑色 AI 怪兽正在吞噬发光的美元钞票和梦想（以代码和光粒子呈现），前景中有一位疲惫的工程师，并采用戏剧性的恐怖电影运镜手法。
-
-#### 📝 提示词
-
-```
-2026 年赛博朋克东京夜空的动态场景：一只巨大的黑色 AI 怪兽张开大嘴，贪婪地吞噬着发光的美元钞票和成团的闪耀梦想（代码、创意和光粒子）。怪兽身上带有数字故障效果和红色眼睛，背景是倒塌的办公大楼和数据流。前景中，一位疲惫的日本工程师（30 多岁，黑发，戴眼镜，身穿黑色 T 恤）惊愕地抬头仰望。采用戏剧性的恐怖电影式运镜，在怪兽吞噬梦想时进行推镜头。色调以深红和黑色为主，呈现赛博朋克灯光效果，动作强劲，伴有咀嚼声、令人不安的低频背景音乐和震撼的音效。视频结尾处出现巨大的红色文字覆盖：“AI started eating dreams too 2026.4”。时长 8 秒，电影质感，高细节，戏剧性光影，720p
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b7b728b1b8cc57781b80b0bf4493bcda/thumbnails/thumbnail.jpg" width="600" alt="赛博朋克东京 AI 怪兽视频提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2720)**
-
-**作者:** [acropapa](https://x.com/acropapa330) | **来源:** [Link](https://x.com/acropapa330/status/2040397663712235951) | **发布时间:** Apr 4, 2026
-
----
-### 超现实视觉错觉隧道
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是一个为 Grok Imagine 设计的极其复杂且详细的提示词，描述了一个巨大的扭曲隧道内，包含宇航员和悬浮球体的超现实视觉错觉场景。
-
-#### 📝 提示词
-
-```
-超现实视觉错觉场景，位于一个巨大的扭曲隧道内，催眠般的黑、白、红同心漩涡条纹营造出强烈的无限深度感和动感。隧道墙壁和地面形成了连续的扭曲漩涡图案，背景上方有一条醒目的红色圆环。
-在中心位置，一位面部模糊的宇航员身穿光滑的灰色太空服，戴着黑色头盔和靴子，沉思地坐在一颗巨大的光亮黑色球体上，球体反射出隧道旋转的图案。空中悬浮着：左侧是一颗细节逼真的灰色陨石坑月球，右侧是一颗巨大的半透明红色光亮球体，内部包含一只扭曲的人眼，右下方前景处有一颗较小的黑白条纹反射球。整个场景对比度高，光影效果戏剧化，呈现出流畅的 3D 渲染效果，具有强烈的迷幻梦幻氛围。电影级构图，隧道对称完美，细节清晰，8k 分辨率。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e29c66ed9c579e6e96f7fe9ec590776c/thumbnails/thumbnail.jpg" width="600" alt="超现实视觉错觉隧道">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2704)**
-
-**作者:** [AICook](https://x.com/AIArtCook) | **来源:** [Link](https://x.com/AIArtCook/status/2040381728817066122) | **发布时间:** Apr 4, 2026
-
----
-### 电影感视频提示词详情
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份详细的提示词，指定了电影胶片、镜头、光圈、景深和调色，用于生成电影感视频。考虑到其他推文和视频输出的背景，该提示词很可能是为 Grok Imagine 设计的。
-
-#### 📝 提示词
-
-```
-胶片：35mm Kodak Vision3 500T，浓郁的有机胶片颗粒感，高对比度。镜头/光圈：35mm 变形镜头，f/2.8。深景深，确保两位角色清晰可见。调色：“90 年代复古餐厅”饱和色调。温暖的尼古丁黄、鲜艳的红色乙烯基卡座，以及强烈的
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/88c95722bedf1108e75c1de67d3ac197/thumbnails/thumbnail.jpg" width="600" alt="电影感视频提示词详情">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2715)**
-
-**作者:** [ArcZeal Designs](https://x.com/arczeal_designs) | **来源:** [Link](https://x.com/arczeal_designs/status/2040379446234853486) | **发布时间:** Apr 4, 2026
-
----
-### 霓虹雨中的赛博浪人（长提示词）
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是一个为 Grok Imagine 设计的复杂长提示词，描述了一位身着破旧黑色袴服的孤独浪人站在倾盆霓虹雨中，半边身体正消散为星尘与生物发光粒子。场景包含一把赛博武士刀，采用局部黑白配色并点缀霓虹色彩，呈现出超现实且极具细节的审美风格。
-
-#### 📝 提示词
-
-```
-一张电影质感的照片，展现了一位孤独的浪人身处荒凉且被雨水浸透的环境中，融合了传统与未来主义元素。
-
-长提示词
-一位孤独的浪人身着破旧的黑色袴服，站在倾盆的霓虹雨中，半边身体正消散为旋转的星尘与生物发光粒子，手中的赛博武士刀闪烁着紫外线与洋红色的光芒。整个场景采用局部黑白配色，唯有狂暴的霓虹刀刃和樱桃红的血滴格外醒目，电影级的轮廓光，空灵的体积光束，超现实的梦境逻辑，超高细节，Midjourney 审美，戏剧性的低角度拍摄
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6f0af4a2f36360f8c0adb2d9cbaa3a9e/thumbnails/thumbnail.jpg" width="600" alt="霓虹雨中的赛博浪人（长提示词）">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2693)**
-
-**作者:** [Carolina Delgado](https://x.com/carolletta) | **来源:** [Link](https://x.com/carolletta/status/2040368591934226758) | **发布时间:** Apr 4, 2026
-
----
-### 沙漠中装甲肌肉车的跟拍镜头
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是为 Grok Imagine（视频生成）准备的提示词，要求拍摄一段快速、硬核的跟拍镜头：一辆重型装甲肌肉车在沙漠中加速行驶，穿梭于残骸之间，沙尘向镜头扑面而来。
-
-#### 📝 提示词
-
-```
-一辆重型装甲肌肉车，前格栅经过加固，引擎剧烈轰鸣，车身覆盖着尘土。它在沙漠中加速行驶，穿梭于残骸之间，并躲避后方的火力攻击。背景是无尽的沙漠和沙丘，散落着燃烧的车辆，空气中弥漫着热浪扭曲感。超低位跟拍镜头锁定在前轮附近，沙尘向镜头扑面而来，带有强烈的动态模糊，强烈的阳光和金色的色调，展现出纯粹的速度感与暴力美学。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a9574bfc0611d54e838363792903c584/thumbnails/thumbnail.jpg" width="600" alt="沙漠中装甲肌肉车的跟拍镜头">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2697)**
-
-**作者:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **来源:** [Link](https://x.com/CharaspowerAI/status/2040346143968592065) | **发布时间:** Apr 4, 2026
-
----
-### 女孩用圆形笔触绘画，色彩四溢
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是一个为 Grok Imagine 设计的动态提示词，描述了一位女孩举起画笔并画出一个圆圈，随着她的笑声，自然的色彩在场景中四处洒落。
-
-#### 📝 提示词
-
-```
-让女孩将画笔向前、向上、向右、向北移动，画出一个圆圈，场景中随处洒落着各种自然的色彩，同时她开心地笑着。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c8da5b064ad39bed53276c5454819943/thumbnails/thumbnail.jpg" width="600" alt="女孩用圆形笔触绘画，色彩四溢">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2701)**
-
-**作者:** [ahmed ibrahim](https://x.com/AhmedYasienibby) | **来源:** [Link](https://x.com/AhmedYasienibby/status/2040331264117379290) | **发布时间:** Apr 4, 2026
-
----
-### 极致特写动漫写实肖像（洛可可风格）
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于 Grok Imagine（视频生成）的提示词，要求创作一幅受洛可可传统启发、强调柔和肤色、细腻暖意及漫射光影的极致特写动漫写实肖像。
-
-#### 📝 提示词
-
-```
-极致特写动漫写实肖像，灵感源自洛可可肖像画传统，柔和的粉感肤色，细腻的暖意，每一个细节都带有微妙的柔光，她的双眼温柔且引人入胜，光影漫射而宁静，背景为柔和的粉彩色调，氛围精致、女性化，具有博物馆级的柔和质感。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6afbcd078486edddc8c71aca62d0cc76/thumbnails/thumbnail.jpg" width="600" alt="极致特写动漫写实肖像（洛可可风格）">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2696)**
-
-**作者:** [SPACELESS](https://x.com/VOLDEMORT2X) | **来源:** [Link](https://x.com/VOLDEMORT2X/status/2040319026388169172) | **发布时间:** Apr 4, 2026
-
----
-### 骑马的日本战国武将
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是一个用于 Grok Imagine 的提示词，描绘了日本战国时代一位身着华丽金甲的武将骑着骏马在战场上驰骋的震撼场景，采用传统的日本历史绘画风格渲染。
-
-#### 📝 提示词
-
-```
-一位日本战国时代的武将，身着华丽的金甲，骑着一匹全速奔跑的骏马，战旗在风中飘扬，背景为战场，采用震撼的四分之三侧视角，传统日本历史绘画风格
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a33996eb1c0079bff16c115763923e68/thumbnails/thumbnail.jpg" width="600" alt="骑马的日本战国武将">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2691)**
-
-**作者:** [Déborah](https://x.com/dvorahfr) | **来源:** [Link](https://x.com/dvorahfr/status/2040314422787252728) | **发布时间:** Apr 4, 2026
-
----
-### Grok Imagine 的动作序列提示词
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 该提示词旨在生成一段 10 秒的动作序列，主角为 Kanzu Bogan (ボーガン枢)，重点展现其速度感、高踢腿动作，以及水滴模糊镜头的电影级结尾。
-
-#### 📝 提示词
-
-```
-用 10 秒钟呈现 Kanzu Bogan 的精彩瞬间！！让他从瀑布附近奔跑而来，溅起水花，并在镜头前完成一个高踢腿动作。以 6 倍速、低角度进行拍摄。最后以水滴溅到摄像机镜头并模糊屏幕作为结尾。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/abfdc32502c79d0bdb92b85982d78378/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine 的动作序列提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2626)**
-
-**作者:** [阿部 孝](https://x.com/03abe_takashi) | **来源:** [Link](https://x.com/03abe_takashi/status/2040308109521060031) | **发布时间:** Apr 4, 2026
-
----
-### Elon 认可的 Starship 火箭模型套件视频提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是一个为 Grok Imagine 设计的复杂叙事提示词，内容涉及一款面向儿童的“Elon 认可的 Starship 火箭”套件，包含特定的玩偶和主题。
-
-#### 📝 提示词
-
-```
-Elon 认可的 }~ { Starship 火箭 } 套件，专为孩子们打造 { 总有一天，年轻人们，你们可能会为我工作 }，还附赠 Dima、Elon 和 € { 美丽的长黑发 Lacey 玩偶 }，以及带有套件的小淘气们 € ~~^***€ { Starship 属于你 }~ 家长...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/54fa1094f3dc02e86df5d9a59c532292/thumbnails/thumbnail.jpg" width="600" alt="Elon 认可的 Starship 火箭模型套件视频提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2714)**
-
-**作者:** [Notzucow](https://x.com/Notzucow69) | **来源:** [Link](https://x.com/Notzucow69/status/2040285109354422724) | **发布时间:** Apr 4, 2026
-
----
-### 星球大战风格的罗威纳犬飞行员与猫咪副驾驶
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个 grok-imagine 视频提示词，要求生成一个设定在星球大战风格银河系中的场景，画面中一只罗威纳犬担任飞行员，一只猫咪担任副驾驶，驾驶着一艘星球大战风格的飞船掠过星云。
-
-#### 📝 提示词
-
-```
-在星球大战风格的银河系中，一只罗威纳犬飞行员和一只猫咪副驾驶正驾驶着一艘星球大战风格的飞船掠过星云 @grok @imagine 这太棒了。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f82094cbc4896f5d471f9a1a5d505c09/thumbnails/thumbnail.jpg" width="600" alt="星球大战风格的罗威纳犬飞行员与猫咪副驾驶">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2713)**
-
-**作者:** [Emily](https://x.com/EMILYZART) | **来源:** [Link](https://x.com/EMILYZART/status/2040262627914641448) | **发布时间:** Apr 4, 2026
-
----
-### Grok Imagine 提示词：女子驱赶小人
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一段详细的视频叙事提示词，包含快节奏、欢快的背景音乐，英语对话，以及一位面带微笑的女子用刷子驱赶不断抵抗并试图聚拢回来的小人。
-
-#### 📝 提示词
-
-```
-快节奏、欢快的背景音乐。角色对话为英语。一位面带可爱微笑的女子用刷子驱赶小人。小人们进行抵抗并试图留在原地，不愿被赶走。即使被刷子赶走，小人们也会反复聚拢回来。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/13fcfd6c7792c527f57b7b04f64154c3/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine 提示词：女子驱赶小人">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2721)**
-
-**作者:** [MAGA (Make America great again)](https://x.com/rao_kaiser) | **来源:** [Link](https://x.com/rao_kaiser/status/2040240958076526928) | **发布时间:** Apr 4, 2026
-
----
-### Grok Imagine Quality Mode 视频描述
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用户描述了使用 Grok Imagine 全新“Quality Mode”创作的四个近期动画。这些描述即为各视频的提示词（prompts）。
-
-#### 📝 提示词
-
-```
-视频 1：Elon、动漫比特币女孩（Anime Bitcoin Girl）和 Michael Saylor。
-视频 2：Optimus 与 Elon 的嘻哈舞蹈对决。
-视频 3：比特币女孩、Elon 和 Optimus —— “Stand by Me”。
-视频 4：展示 Tesla Optimus。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/47517a3e1af9d39d3c9d39df06770091/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine Quality Mode 视频描述">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2631)**
-
-**作者:** [Simon Hayes](https://x.com/Hayess5178) | **来源:** [Link](https://x.com/Hayess5178/status/2040234159730262086) | **发布时间:** Apr 4, 2026
-
----
-### 某人一边抽电子烟一边声称自己戒烟了
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是一个为 Grok Imagine 准备的幽默叙事提示词，描绘了一个人正在猛吸电子烟、吐出大团烟雾，随后讽刺地声称自己轻松戒烟的场景。
-
-#### 📝 提示词
-
-```
-某人像吸氧一样猛吸电子烟，在吐出一团烟雾时说道：“是啊，我几个月前就戒烟了，这太简单了。”
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0bf43ccc59237be1429a1b349f2914d3/thumbnails/thumbnail.jpg" width="600" alt="某人一边抽电子烟一边声称自己戒烟了">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2699)**
-
-**作者:** [Lidy E Lane](https://x.com/LidyELane) | **来源:** [Link](https://x.com/LidyELane/status/2040224734382637242) | **发布时间:** Apr 4, 2026
-
----
-### 分子链机器人首次约会视频提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于 Grok Imagine 的提示词，旨在生成一段描绘名为 Me NI Ticulous 和他的妻子 NY TICULA 的两位分子链机器人首次约会的视频。
-
-#### 📝 提示词
-
-```
-分子链机器人 { Me NI Ticulous }~&gt;**^ { 与他的妻子 NY TICULA ) ~ { 的首次约会
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eaa2c29cd985ac9e0904cd8919cf6d97/thumbnails/thumbnail.jpg" width="600" alt="分子链机器人首次约会视频提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2623)**
-
-**作者:** [Notzucow](https://x.com/Notzucow69) | **来源:** [Link](https://x.com/Notzucow69/status/2040210612660121979) | **发布时间:** Apr 3, 2026
-
----
-### “坠入异世界”视频提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是一个用于 Grok Imagine 的叙事类视频提示词，描述了一个人打开盒子、凝视内部、身体缩小、掉入盒子并进入新世界的过程。
-
-#### 📝 提示词
-
-```
-当你缓缓打开盒子，盒子内部直接通向另一个世界。当你凝视其中时，你的身体缩小成一个小人，并掉进了盒子里。你现在身处另一个世界。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d47fb5f65bdac9497d1584d365e9758b/thumbnails/thumbnail.jpg" width="600" alt="“坠入异世界”视频提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2618)**
-
-**作者:** [Master](https://x.com/DragonFlam7530) | **来源:** [Link](https://x.com/DragonFlam7530/status/2040187293269385696) | **发布时间:** Apr 3, 2026
-
----
-### 一位饱经风霜的牛仔进入西部小镇的视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是一个 Grok Imagine 提示词，要求生成一段 19 世纪初饱经风霜、满身尘土的牛仔缓慢骑马进入西部小镇的视频。
-
-#### 📝 提示词
-
-```
-19 世纪初的牛仔缓慢骑马进入西部小镇的视频。他饱经风霜，满身尘土，看起来历经沧桑。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3dd0b192e0b42e6f7eda62ba2aafdc6c/thumbnails/thumbnail.jpg" width="600" alt="一位饱经风霜的牛仔进入西部小镇的视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2616)**
-
-**作者:** [Todd MacPherson](https://x.com/toddmacpherson) | **来源:** [Link](https://x.com/toddmacpherson/status/2040165021758398562) | **发布时间:** Apr 3, 2026
-
----
-### 黄金时刻的电影感太阳朋克生物友好型超级城市
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是一个旨在生成黄金时刻太阳朋克生物友好型超级城市电影感视频的提示词。场景强调了巨大的有机未来派摩天大楼，上面覆盖着茂密的热带植被，并通过透明的玻璃空中走廊相连，所有景象都倒映在平静的水面上。
-
-#### 📝 提示词
-
-```
-电影感太阳朋克生物友好型超级城市，黄金时刻，巨大的有机未来派摩天大楼，覆盖着茂密的热带丛林植被，厚重的藤蔓和空中花园垂下，透明玻璃空中走廊连接着塔楼，平静的倒影水面
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/75f40d4acffa2af241772df5c2fe461e/thumbnails/thumbnail.jpg" width="600" alt="黄金时刻的电影感太阳朋克生物友好型超级城市">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2627)**
-
-**作者:** [Lacey](https://x.com/LaceyPresley) | **来源:** [Link](https://x.com/LaceyPresley/status/2040160595417182456) | **发布时间:** Apr 3, 2026
-
----
-### 空灵女子水墨与铅笔素描
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是一个为 Grok Imagine 准备的详细提示词，描述了一位身着黑色连衣裙、全身空灵的女性形象，采用高度细腻的水墨与铅笔素描风格，并带有柔和的阴影和闪烁的微粒效果。
-
-#### 📝 提示词
-
-```
-全身像，美丽的空灵女子，头发扎着凌乱的发髻并系有丝带，身穿黑色露肩连衣裙，高度细腻的水墨与铅笔素描风格，带有柔和的阴影，闪烁的微粒在光线下闪耀，空灵而梦幻的氛围，...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f83f5990ed79c56fe7f8b59af3727847/thumbnails/thumbnail.jpg" width="600" alt="空灵女子水墨与铅笔素描">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2622)**
-
-**作者:** [🕸 𓅓 MR WISE 🕸 𓅓](https://x.com/mrwise744) | **来源:** [Link](https://x.com/mrwise744/status/2040133936890736986) | **发布时间:** Apr 3, 2026
-
----
-### 隐形镜像扭曲场与 UFO
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是一个为 Grok Imagine 设计的超现实抽象提示词，涉及隐形扭曲场、逆因果律以及一个能排斥人类大小物体的悬浮 UFO。
-
-#### 📝 提示词
-
-```
-隐形镜像扭曲场 逆因果律 弹性无限循环相干性
-
-UFO 距离地面 5-6 英尺 悬浮在住宅或土地上方 排斥人类大小的物体
-
-隐形镜像扭曲场 逆因果律
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3a1c6b3ff8f62cd2978314350c0233c2/thumbnails/thumbnail.jpg" width="600" alt="隐形镜像扭曲场与 UFO">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2619)**
-
-**作者:** [Shia Miller](https://x.com/StrategicProce) | **来源:** [Link](https://x.com/StrategicProce/status/2040133832242786444) | **发布时间:** Apr 3, 2026
-
----
-### 火车上的赛博朋克模特
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于测试 Grok Imagine 速度和质量模式的提示词，描述了一位在火车场景中带有赛博朋克元素的写实女性模特，并使用了特定的调色板。
-
-#### 📝 提示词
-
-```
-一位在赛博朋克火车上的写实女性模特。神情忧郁、冷漠或超然。使用以下颜色：洋红色、果子露色、珊瑚色、薄荷色。不透明光泽叠加。高端质感。
-```
-
-<img src="https://cms-assets.youmind.com/media/1775288680174_e4tv75_HE_3BwsWEAApU-J.jpg" width="600" alt="火车上的赛博朋克模特">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2621)**
-
-**作者:** [Lala](https://x.com/keepgoingAnnie) | **来源:** [Link](https://x.com/keepgoingAnnie/status/2040123492717207668) | **发布时间:** Apr 3, 2026
-
----
-### 雪原孤身中世纪骑士视频提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是一份用于 grok-imagine 的视频生成提示词，旨在创作一段中世纪骑士在雪原上走向远方奇幻城堡的画面，并包含场景与氛围的详细描述。
-
-#### 📝 提示词
-
-```
-一名中世纪骑士孤身站在空旷的雪原中央，正走向远方的地平线，那里矗立着一座宏伟的奇幻城堡；地面上散布着点点红色液体痕迹，周围插着多面破旧的旗帜，营造出一种
-```
-
-<img src="https://cms-assets.youmind.com/media/1775288688131_qkbu83_HE_fVRsXQAAcjOq.jpg" width="600" alt="雪原孤身中世纪骑士视频提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2625)**
-
-**作者:** [Knight World](https://x.com/KnightWorld) | **来源:** [Link](https://x.com/KnightWorld/status/2040095274077429854) | **发布时间:** Apr 3, 2026
-
----
-### 日本女性抵达多佛尔的视频提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份详细的 Grok Imagine 提示词，描述了一群可爱的日本年轻女性乘坐黑色充气橡皮艇抵达多佛尔白色悬崖，并登上英国海滩的场景。
-
-#### 📝 提示词
-
-```
-一群可爱的日本年轻女性乘坐黑色充气橡皮艇抵达多佛尔白色悬崖，并登上英国海滩
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e3219aa7065bb575f434a26a9b616da/thumbnails/thumbnail.jpg" width="600" alt="日本女性抵达多佛尔的视频提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2624)**
-
-**作者:** [Master](https://x.com/DragonFlam7530) | **来源:** [Link](https://x.com/DragonFlam7530/status/2040085286554669114) | **发布时间:** Apr 3, 2026
-
----
-### 电影感黑白幽灵武士
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份用于生成电影感黑白视频的详细提示词，旨在展现幽灵武士的超现实主义、生物发光效果以及令人难忘的凄美感。
-
-#### 📝 提示词
-
-```
-一张电影感的黑白摄影作品，描绘了一位空灵的幽灵武士在黄昏时分漂浮穿过被水淹没的鸟居，半透明的白色和服如液态水银般流动，武士刀由纯净的星光和破碎的霓虹碎片构成。整幅画面呈现柔和的黑白基调，唯有勾勒出她轮廓的生物发光青色微光和漂浮的星尘余烬闪烁其中，充满梦幻般的超现实主义色彩，柔和的背景虚化，凄美动人，宛如电影诗篇
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3ffbae47081a71134db22c8150d55ada/thumbnails/thumbnail.jpg" width="600" alt="电影感黑白幽灵武士">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2617)**
-
-**作者:** [Carolina Delgado](https://x.com/carolletta) | **来源:** [Link](https://x.com/carolletta/status/2040006205540876399) | **发布时间:** Apr 3, 2026
-
----
-### 樱花树下身着和服的绝美日本女性
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 这是一个详细的 Grok Imagine 提示词，旨在生成一幅写实场景：一位身着传统和服的绝美日本女性在盛开的樱花树下优雅漫步。画面需准确呈现日本文化，并包含柔和的春日阳光与飘落的樱花花瓣。
-
-#### 📝 提示词
-
-```
-一位身着传统和服的绝美日本女性在盛开的樱花树下优雅漫步，写实场景，准确呈现日本文化，柔和的春日阳光，樱花花瓣飞舞，传统日本之美
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9daa9cc6c90552bfe5169a5325611736/thumbnails/thumbnail.jpg" width="600" alt="樱花树下身着和服的绝美日本女性">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2633)**
-
-**作者:** [おづぬ🇯🇵](https://x.com/minaminpyo) | **来源:** [Link](https://x.com/minaminpyo/status/2040005031387079075) | **发布时间:** Apr 3, 2026
-
----
-### 复活节视频提示词（西班牙语）
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是一个用于 Grok Imagine 的西班牙语提示词，旨在生成庆祝复活节的视频。内容聚焦于纪念耶稣基督、祂的爱、牺牲与复活，并包含为家人、朋友及世人祈求祝福的祷告。
-
-#### 📝 提示词
-
-```
-复活节快乐。
-
-今天，我们纪念耶稣基督，纪念祂的爱、祂的牺牲以及祂的复活。
-耶稣为了拯救我们献出了生命，并在第三天荣耀复活。
-
-亲爱的耶稣，请祝福我们的家人、朋友以及所有人……
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/912e7eb9975992b68644cd45a008daab/thumbnails/thumbnail.jpg" width="600" alt="复活节视频提示词（西班牙语）">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2637)**
-
-**作者:** [mygiftshoponline.com](https://x.com/mygiftshoponli1) | **来源:** [Link](https://x.com/mygiftshoponli1/status/2040004900332175403) | **发布时间:** Apr 3, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2220,6 +2214,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-04-08T05:51:28.673Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-04-08T09:13:54.067Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **1029** |
+| 📝 プロンプト総数 | **1055** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-04-08** |
 
@@ -189,6 +189,491 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### エレガントな若い女性と白い狐を描いた、精巧な 3D アール・デコ調刺繍
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 用の精巧な 3D アール・デコ調刺繍シーンを記述した動画生成プロンプトです。夕暮れの街並みを望むテラスに座るスリムな若い女性と白い狐を題材に、刺繍特有の質感や色彩、映画のようなレンダリングのディテールに焦点を当てています。
+
+#### 📝 プロンプト
+
+```
+非常に細長い首を持つエレガントでスリムな若い女性と、優雅な白い狐が、夕暮れの活気ある街並みを望む豪華なアール・デコ調のテラスに並んで座っている様子を表現した、精巧な 3D アール・デコ調刺繍。女性は、サイドに流したシルクのような白いアール・デコ調のウェーブヘアで、長く繊細なまつ毛を持つ深い青色の刺繍の瞳、小さな鮮やかなオレンジ色の唇、そして純白で柔らかな刺繍の肌をしている。彼女は、肩にオレンジ色の幾何学的なアール・デコ模様が施され、中央に深いターコイズブルーをあしらったエレガントなゴールド縁取りの丸襟の洗練されたダークブルーのドレスを着用している。彼女の隣には、表情豊かな黄金の瞳を持ち、首と耳に鮮やかなゴールドの複雑な模様が施された優雅な白い狐が座っている。非常に滑らかなサテンステッチ技法、継ぎ目のないソリッドカラー、黒い輪郭線や縁取りはなく、柔らかく豪華な刺繍の質感が特徴。背景の街並みには、きらめく鮮やかなターコイズブルー、ゴールド、ホワイトによる複雑で繊細なアール・デコ模様が描かれている。リッチで鮮やかなカラーパレット、美術館品質の刺繍、超高精細、8K 解像度。Octane Render でレンダリングされた 3D 刺繍、映画のようなライティング、エレガントで洗練された雰囲気。
+```
+
+<img src="https://cms-assets.youmind.com/media/1775634942887_9d8vu3_HFVz1L2bYAA-rl-.jpg" width="600" alt="エレガントな若い女性と白い狐を描いた、精巧な 3D アール・デコ調刺繍">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2950)**
+
+**作者:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **ソース:** [Link](https://x.com/iamhappy2026/status/2041665470710083929) | **公開日:** Apr 7, 2026
+
+---
+### 月面で穴を掘るゴールデンドゥードルの動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine を使用して、月面でクレーターを掘るゴールデンドゥードルのリアルな動画を作成するためのプロンプトです。背景には地球が昇る様子が映し出されます。
+
+#### 📝 プロンプト
+
+```
+月面でクレーターを掘るゴールデンドゥードルと、その背後に昇る地球を映したリアルな動画を作成してください
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eb2d8cb98290eab75e2da7c86f71356b/thumbnails/thumbnail.jpg" width="600" alt="月面で穴を掘るゴールデンドゥードルの動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2954)**
+
+**作者:** [Wee Volunteer](https://x.com/WeeVolunteer) | **ソース:** [Link](https://x.com/WeeVolunteer/status/2041650346947207597) | **公開日:** Apr 7, 2026
+
+---
+### Doctor Who Dalek ファミリーシナリオ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Doctor Who の世界観に基づいた Grok Imagine 用のプロンプト。ゴールドの Dalek が親、ブルーの Dalek がドクターになることを夢見る子供という設定の物語です。
+
+#### 📝 プロンプト
+
+```
+ゴールドの Dalek が親です。ブルーの Dalek は、将来ドクターになることを夢見る子供です。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d1bcf5b86ececbe65377c832f660e259/thumbnails/thumbnail.jpg" width="600" alt="Doctor Who Dalek ファミリーシナリオ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2949)**
+
+**作者:** [Master](https://x.com/DragonFlam7530) | **ソース:** [Link](https://x.com/DragonFlam7530/status/2041638360540643492) | **公開日:** Apr 7, 2026
+
+---
+### 浮遊する粘着質のキューブのプロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine の今日のプロンプト。暗い部屋で魔法使いの目の前に浮かぶ、光り輝く半透明の粘着質なキューブを描写しています。
+
+#### 📝 プロンプト
+
+```
+「暗い部屋で魔法使いの目の前に浮かぶ、光り輝く半透明の粘着質なキューブ。」
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b7291e86b39a5e0233320fc16836c11c/thumbnails/thumbnail.jpg" width="600" alt="浮遊する粘着質のキューブのプロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2937)**
+
+**作者:** [Thoth Scribe](https://x.com/ThothScribe) | **ソース:** [Link](https://x.com/ThothScribe/status/2041635112320917976) | **公開日:** Apr 7, 2026
+
+---
+### メタリックな鱗を持つ猫のプロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine を使用して、メタリックな鱗を持つ猫を生成するためのプロンプトです。円柱の上でポーズをとる猫を、ドラマチックな背景とシネマティックな色調で表現します。
+
+#### 📝 プロンプト
+
+```
+猫を生成してください。ただし、毛の代わりにメタリックな鱗で覆われているものとします。猫は円柱の上でポーズをとっており、背景はドラマチックなものにしてください。シネマティックな色調で仕上げてください。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4d316f0fb4908751d038d75be056df66/thumbnails/thumbnail.jpg" width="600" alt="メタリックな鱗を持つ猫のプロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2935)**
+
+**作者:** [Raymond du Plooy](https://x.com/SoloBucket) | **ソース:** [Link](https://x.com/SoloBucket/status/2041631411837239609) | **公開日:** Apr 7, 2026
+
+---
+### イーロン・マスクに捧げる黒とピンクのバラ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> テーブルの上の花瓶に飾られた黒とピンクのバラを描写した Grok Imagine 用の動画プロンプト。被写体となる女性（体重 135 ポンド、長い茶髪、青い目、ピンクのレースドレス）の詳細な指示が含まれており、イーロン・マスクを追いかけ続けた末の姿という設定で構成されています。
+
+#### 📝 プロンプト
+
+```
+@elonmusk を追いかけ続けて数年後の私。
+黒とピンクのバラが欲しい。彼女の姿は体重 135 ポンド、長い茶髪に青い目、ピンクのレースドレスを着ていること。バラは黒い縁取りで中心がピンク色、部屋のテーブルに置かれた花瓶に飾られている様子を再現してほしい...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8eeffd56a069ff39ea6cfb3001667abd/thumbnails/thumbnail.jpg" width="600" alt="イーロン・マスクに捧げる黒とピンクのバラ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2957)**
+
+**作者:** [HisMoonRey](https://x.com/BrokenWings53) | **ソース:** [Link](https://x.com/BrokenWings53/status/2041627572505604605) | **公開日:** Apr 7, 2026
+
+---
+### テキストボックスを照らす赤いエネルギーボール
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> コンセントから出現した赤いエネルギーの球体が、配線を伝って黒いテキストボックスの周囲を移動し、各ボックス内のテキストを順番に照らしていく様子を描写した、Grok Imagine 用の動画生成プロンプトです。
+
+#### 📝 プロンプト
+
+```
+コンセントから配線へと流れ出る赤いエネルギーの球体を見せてください。球体は上昇し、黒いテキストボックスの周りを移動します。ボックス内の単語を照らして明るく輝かせ、次のボックスへと移動して同様に照らす動作を繰り返します。R...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/219fd21d7ac92e989fc05ee31c093571/thumbnails/thumbnail.jpg" width="600" alt="テキストボックスを照らす赤いエネルギーボール">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2936)**
+
+**作者:** [InquiringMind](https://x.com/Inquiringmind53) | **ソース:** [Link](https://x.com/Inquiringmind53/status/2041609473954083325) | **公開日:** Apr 7, 2026
+
+---
+### シネマティック動画生成プロンプト：サイバネティックなネットランナーによるハッキング
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 向けのシネマティックで詳細なプロンプトです。廃墟となった宇宙ステーションから禁断の軌道メインフレームにハッキングを試みる、サイバネティックなネットランナーの姿を描写。ホログラフィックなデータやグリッチエフェクトが特徴です。
+
+#### 📝 プロンプト
+
+```
+廃墟となった宇宙ステーションから禁断の軌道メインフレームにハッキングを試みる、孤独なサイバネティック・ネットランナー。周囲には浮遊するホログラフィック・データとグリッチエフェクトが広がっている。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f785dd11f8f742d99304490524304f62/thumbnails/thumbnail.jpg" width="600" alt="シネマティック動画生成プロンプト：サイバネティックなネットランナーによるハッキング">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2941)**
+
+**作者:** [SoyAlb3rT](https://x.com/SoyAlb3rT) | **ソース:** [Link](https://x.com/SoyAlb3rT/status/2041594749186982288) | **公開日:** Apr 7, 2026
+
+---
+### シュールな SF 動画プロンプト：銀色のボウルを追いかける巨大なワニ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 高架橋から暗い街を見下ろすシーンを描いた、非常に詳細でシュールな Grok Imagine 用プロンプト。超高層ビルほどの大きさの 2 匹の緑色の二足歩行ワニが、女性の頭の上に乗った明るい白い光で満たされた銀色のボウルを追いかけて、その場で走っている様子を詳述しています。
+
+#### 📝 プロンプト
+
+```
+黒いアスファルトの高架橋から暗い街を見下ろすと、超高層ビルほどもある 2 匹の緑色の二足歩行のワニが、左から右へとその場で走っている。彼らは、女性の頭の上に乗った明るい白い光で満たされた銀色のボウルを追いかけている...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/04b3639573fc69895eb6805a2db4a6b8/thumbnails/thumbnail.jpg" width="600" alt="シュールな SF 動画プロンプト：銀色のボウルを追いかける巨大なワニ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2948)**
+
+**作者:** [♥️🤍💙 Abigail](https://x.com/Abby_Sariah) | **ソース:** [Link](https://x.com/Abby_Sariah/status/2041592196575719783) | **公開日:** Apr 7, 2026
+
+---
+### 赤ちゃんたちの教室での議論動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 用の動画生成プロンプト。「SCENE LOCK」（固定されたフレーミングにわずかなデジタルズームインを加える）を指定し、教室で赤ちゃんたちが身振り手振りを交えて、まるで授業について議論しているかのように「おしゃべり」している様子を生成します。一人の赤ちゃんがプレゼンをしており、柔らかな動きと自然光を特徴としています。
+
+#### 📝 プロンプト
+
+```
+SCENE LOCK：ベースとなるフレーミングを固定し、教室の中央エリアに向かって非常にわずかなデジタルズームインを行う。赤ちゃんたちが交流し、身振り手振りを交えながら、まるで授業について議論しているかのように「おしゃべり」をしている。一人の赤ちゃんが前でプレゼンをしている。柔らかな動き、自然光、穏やかな...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e06dd2f8ea30ea1da23d24877ce3e8be/thumbnails/thumbnail.jpg" width="600" alt="赤ちゃんたちの教室での議論動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2939)**
+
+**作者:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **ソース:** [Link](https://x.com/gpimpmyspace/status/2041591605824778673) | **公開日:** Apr 7, 2026
+
+---
+### Grok のコメディアンと政治家が登場する動画生成プロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine を使用して、「Grok のコメディアン」がドナルド・トランプ氏を揶揄し、それに対してトランプ氏が「フェイクニュースメディア」に反論する動画を生成するためのプロンプトです。混沌とした、ドラマチック、あるいはユーモラスな雰囲気を演出する絵文字が含まれています。
+
+#### 📝 プロンプト
+
+```
+Grok のコメディアンがトランプ氏をからかい、トランプ氏がフェイクニュースメディアに言い返す 🌶️🪬🤫⛳️🎬🕶️☎️🍷🚀
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6da4b98ce147dc511a585ddaa0fbbd5d/thumbnails/thumbnail.jpg" width="600" alt="Grok のコメディアンと政治家が登場する動画生成プロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2938)**
+
+**作者:** [Amir Prince](https://x.com/princeduduamir) | **ソース:** [Link](https://x.com/princeduduamir/status/2041589038059323700) | **公開日:** Apr 7, 2026
+
+---
+### 巨大なダイソン球のシネマティックなショット
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 巨大なダイソン球のシネマティックで詳細なビデオショットを生成するための Grok Imagine プロンプト。壮大なスケール感、強烈な温かみのあるオレンジアンバーのカラーグレーディング、拡散したボリュメトリックな霞がかった照明、ドラマチックなシルエットを強調しています。
+
+#### 📝 プロンプト
+
+```
+巨大なダイソン球のシネマティックで詳細なショット。壮大なスケール感と奥行き、強烈な温かみのあるオレンジアンバーのカラーグレーディング、拡散したボリュメトリックな霞がかった照明、柔らかな黄金の輝き、ドラマチックなシルエットと深い影、レイヤーを用いたシネマティックなワイドフレーミング...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/50dc897651ea07ab723117d73f7e1216/thumbnails/thumbnail.jpg" width="600" alt="巨大なダイソン球のシネマティックなショット">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2946)**
+
+**作者:** [Nitish kumar gupta](https://x.com/gupta_kuma18179) | **ソース:** [Link](https://x.com/gupta_kuma18179/status/2041576480380219423) | **公開日:** Apr 7, 2026
+
+---
+### 猫がジャンプして話す動画用プロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine を使用して、猫がカメラに向かってジャンプし、話しかけ、微笑み、尻尾を振る動画を作成するための詳細なプロンプトです。
+
+#### 📝 プロンプト
+
+```
+猫がカメラに向かってジャンプし、「I love you」と言いながら満面の笑みを浮かべ、尻尾を振る様子を生成してください....❤️💋🌹 私の毛むくじゃらの家族の一員、Willis です 😻
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9442e464d1e833fbf5c76f90270c0a6b/thumbnails/thumbnail.jpg" width="600" alt="猫がジャンプして話す動画用プロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2934)**
+
+**作者:** [Jessica Longo](https://x.com/Jessica39627125) | **ソース:** [Link](https://x.com/Jessica39627125/status/2041559978029248567) | **公開日:** Apr 7, 2026
+
+---
+### シネマティックなバイオメカニカル製品ショット動画（省略版）
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 向けのプロンプト。有機的な骨のような外装、錆びた金属、ドラマチックなリムライトを特徴とする、詳細なバイオメカニカル・ヘッドマウントマスクのシネマティックな製品ショット動画を生成するためのもの（プロンプトは省略されています）。
+
+#### 📝 プロンプト
+
+```
+バイオメカニカル・ヘッドマウントマスクのシネマティックな製品ショット。有機的な骨のような外装に、錆びた金属パーツと人間のような歯が融合し、背面からはワイヤーと赤く光るセンサーが突き出ている。スモーキーな黒い背景をバックに、ドラマチックなスタジオ・リムライトが当たっている...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/128585c755ea0cd8005221d23cfb929e/thumbnails/thumbnail.jpg" width="600" alt="シネマティックなバイオメカニカル製品ショット動画（省略版）">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2955)**
+
+**作者:** [iGor Salikov](https://x.com/salikov_) | **ソース:** [Link](https://x.com/salikov_/status/2041552756628988152) | **公開日:** Apr 7, 2026
+
+---
+### イーロン・マスクが「これはいつか映画になる！」と語る
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 用の動画生成プロンプト。イーロン・マスクが特定のセリフを語り、人類にそのやり方を示す様子を描写します。
+
+#### 📝 プロンプト
+
+```
+イーロン・マスクに「これはいつか映画になる！」と言わせてみましょう。さあ、人類にそのやり方を見せつける時です！...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/31a5efe08e0d3beed05ab240d9727bf4/thumbnails/thumbnail.jpg" width="600" alt="イーロン・マスクが「これはいつか映画になる！」と語る">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2952)**
+
+**作者:** [T͜͡i͜͡m͜͡e͜͡](https://x.com/TIME2064) | **ソース:** [Link](https://x.com/TIME2064/status/2041541855662239923) | **公開日:** Apr 7, 2026
+
+---
+### カオスで映画のような動画生成プロンプト：猫の竜巻に乗るアライグマ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 向けの非常に想像力豊かで詳細なプロンプトです。サングラスをかけたアライグマが、猫で構成された竜巻に乗って街を駆け抜け、紙吹雪が舞い散る様子を描写しています。楽しさとカオスなエネルギー、そして映画のようなスローモーションを強調しています。
+
+#### 📝 プロンプト
+
+```
+サングラスをかけたアライグマが猫の竜巻に乗って街を駆け抜け、紙吹雪が舞い散る様子。楽しくてカオスなエネルギー、映画のようなスローモーション。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e59a39e8e61017392775be1470450d01/thumbnails/thumbnail.jpg" width="600" alt="カオスで映画のような動画生成プロンプト：猫の竜巻に乗るアライグマ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2942)**
+
+**作者:** [Sir Börtecine 🧋🐈](https://x.com/akn_pkl) | **ソース:** [Link](https://x.com/akn_pkl/status/2041539828236308825) | **公開日:** Apr 7, 2026
+
+---
+### 古代ギリシャ彫刻に着想を得た超リアルなポートレート
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 古代ギリシャ彫刻に着想を得た、神々しい女性の超リアルで映画のようなポートレート動画を生成するための Grok Imagine プロンプトです。大理石のような肌、流れるような白いドレープ、巨大な古代神殿の背景、柔らかい陽光の差し込みを特徴とし、ハイパーディテールな質感と古典的な美しさを強調しています。
+
+#### 📝 プロンプト
+
+```
+古代ギリシャ彫刻に着想を得た神々しい女性の超リアルなポートレート、生命の温かみを感じさせる滑らかな大理石のような肌、長く流れるような白いドレープのドレス、崩れた柱が並ぶ巨大な古代神殿に佇む姿、黄金比の構図、穏やかでありながら力強い眼差し、映画のようなライティング、ハイパーディテールな質感、時代を超越した古典的な美しさ、8k。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5865272735aad5d8b80b5afd903703f6/thumbnails/thumbnail.jpg" width="600" alt="古代ギリシャ彫刻に着想を得た超リアルなポートレート">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2945)**
+
+**作者:** [SPACELESS](https://x.com/VOLDEMORT2X) | **ソース:** [Link](https://x.com/VOLDEMORT2X/status/2041517107758649765) | **公開日:** Apr 7, 2026
+
+---
+### カメラワークと被写界深度に焦点を当てた動画生成プロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 用の詳細なプロンプト。カメラワーク（詳細へのパン）、フォーカス（風に揺れるタンポポ）、被写界深度（遠ざかる男性をぼかす）を指定しています。
+
+#### 📝 プロンプト
+
+```
+カメラが風に揺れるタンポポの詳細へとパンし、遠ざかる男性はフォーカスを外してぼかす
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3955577bf6f15ecdf8c5d9d130e04e77/thumbnails/thumbnail.jpg" width="600" alt="カメラワークと被写界深度に焦点を当てた動画生成プロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2943)**
+
+**作者:** [Jacek](https://x.com/iadventurejacek) | **ソース:** [Link](https://x.com/iadventurejacek/status/2041463240190840905) | **公開日:** Apr 7, 2026
+
+---
+### アニメ／実写リメイク：「Departure in the Sunset」全シーン
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 「Departure in the Sunset」のシーンをアニメ版と実写版の両方で生成するための、詳細な Grok Imagine プロンプトです。夕暮れ時の荒廃した街を見下ろす丘の上に立つ、クルルとツグミという 2 人の少女の横顔と会話に焦点を当てています。
+
+#### 📝 プロンプト
+
+```
+背景は夕日に照らされた荒廃した街並みで、崩れかけた建物、崩落した橋、廃墟となった高層ビル、そして放置された車で埋め尽くされた道路が広がっている。小さな丘の上に立ち、荒廃した街を見下ろしている。少女 1：（クルル）やや小柄、金髪のショートヘア、クロスボウを手に持っている。両サイドにスリットが入ったタイトなミニスカートを着用したタクティカルスタイル。少女 2：（ツグミ）やや長身、紫色のポニーテール、ダメージジーンズとレザージャケットを着用し、日本刀を手に持っている。2 人の顔を横顔で、バストアップのみで捉える。夕日の光で 2 人の頬がわずかに赤く染まっている。少女 1：クルルが何かを話している。ツグミは無言で頷く。アニメスタイル。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b173b29d825d3537302088b3a1c36ada/thumbnails/thumbnail.jpg" width="600" alt="アニメ／実写リメイク：「Departure in the Sunset」全シーン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2959)**
+
+**作者:** [阿部 孝](https://x.com/03abe_takashi) | **ソース:** [Link](https://x.com/03abe_takashi/status/2041447104485204430) | **公開日:** Apr 7, 2026
+
+---
+### 思索的な動画生成プロンプト：窓の外を見つめる男性
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 用の思索的なシーンを描写するプロンプト：本から顔を上げ、窓の外を見つめながら深く考えに耽る男性。太陽の光がその表情を照らしている。
+
+#### 📝 プロンプト
+
+```
+彼が本から顔を上げ、窓の外を見つめている。深く考えに耽り、思索にふけっている様子。太陽の光が彼の顔を照らしている
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7b722fd20c76451f89e90c5c52b646ef/thumbnails/thumbnail.jpg" width="600" alt="思索的な動画生成プロンプト：窓の外を見つめる男性">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2944)**
+
+**作者:** [TruePatriot🇺🇸](https://x.com/Patriotslang) | **ソース:** [Link](https://x.com/Patriotslang/status/2041426574705139990) | **公開日:** Apr 7, 2026
+
+---
+### 抽象的なハイファッション写真プロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine で 35mm スタイルの自然なハイファッションの抽象的フィギュアを生成するための詳細なプロンプトです。カラーブロッキング、80 年代アニメの美学、そして生々しく触感のある質感を強調しています。「写真プロンプト」と記載されていますが、Grok Imagine は動画モデルであるため、結果としてカメラが固定された短い動画が生成される可能性が高いです。
+
+#### 📝 プロンプト
+
+```
+カラーブロックされたビニールとニットを纏ったハイファッションの抽象的フィギュアの 35mm スナップショット、自然光が作り出す浅いボケ味とわずかな手ブレ、鮮やかなイエローとブルーの 80 年代アニメ風セル画が表面にハーフトーンのドットを散りばめる、誇張されたプロポーションの有機的な歪み、スマホのロック画面向けの縦長フレーミング、ビニールの生々しい光沢とニットの質感、未編集のスナップ写真のような大胆なコントラスト
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6a8ae62fadd123da561940be609bd740/thumbnails/thumbnail.jpg" width="600" alt="抽象的なハイファッション写真プロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2953)**
+
+**作者:** [Quinn Woods-Robinson](https://x.com/QuinnWR) | **ソース:** [Link](https://x.com/QuinnWR/status/2041388099717173490) | **公開日:** Apr 7, 2026
+
+---
+### 対話シーンの動画プロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine を使用して、男女間のドラマチックな対話シーンを描写する動画を生成するためのナラティブプロンプトです。
+
+#### 📝 プロンプト
+
+```
+男性が女性に向かって叫ぶ。「俺の年金を離せ、バージニア！」 老女が叫び返す。「あんたこそ離しなさいよ、ロジャー。この徴兵逃れのクズが！...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/07cb29c5b3546e4833664d9cfa3d6c32/thumbnails/thumbnail.jpg" width="600" alt="対話シーンの動画プロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2956)**
+
+**作者:** [BerserkerMedic](https://x.com/davidmedic81) | **ソース:** [Link](https://x.com/davidmedic81/status/2041364258466734363) | **公開日:** Apr 7, 2026
+
+---
+### ギタリストと浮かび上がる音符が描かれた映画のような夜の風景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 用のプロンプト。松の木、満月下の湖、小型の Airstream キャンピングカー、そして浜辺でギターを弾く女性が描かれた、穏やかで映画のような夜の風景。ギターから浮かび上がった音符が月を囲むように漂っています。
+
+#### 📝 プロンプト
+
+```
+背景に松の木、満月が浮かぶ湖、脇に小型の Airstream 型キャンピングカー、
+浜辺に小さな焚き火、浜辺でギターを弾く女性、ギターから浮かび上がった音符が月を囲むように漂っている
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/94e6b9476f4971f0447a9f3433c56787/thumbnails/thumbnail.jpg" width="600" alt="ギタリストと浮かび上がる音符が描かれた映画のような夜の風景">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2947)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2041353539390472400) | **公開日:** Apr 7, 2026
+
+---
+### 馬にまたがるモデルの動画生成プロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> このプロンプトは、モデルがゆっくりと馬にまたがる様子に焦点を当てた動画クリップを生成します。カメラを固定することで、動作と動きを強調します。
+
+#### 📝 プロンプト
+
+```
+Let’s Ride…
+
+Yes…ride captain ride…
+
+カメラを固定した状態で、モデルがゆっくりと馬の背にまたがる様子を撮影します。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e5fd73266b1e05a1566f3d20e3b3440/thumbnails/thumbnail.jpg" width="600" alt="馬にまたがるモデルの動画生成プロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2940)**
+
+**作者:** [Self-Improvement from the top](https://x.com/Danuel_san) | **ソース:** [Link](https://x.com/Danuel_san/status/2041348495047823415) | **公開日:** Apr 7, 2026
+
+---
+### 東アジア系の女性サイボーグ戦士によるドラマチックなシネマティック・シークエンス
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 向けの、ドラマチックなシネマティック・シークエンスを記述した詳細な動画生成プロンプトです。ディストピア都市を舞台に、東アジア系の女性サイボーグ戦士が登場。損傷したアーマーや赤く光るサイバネティックな瞳のクローズアップから、スラスターを起動して空へと飛び立つまでの様子を描写しています。
+
+#### 📝 プロンプト
+
+```
+煙が立ち込める曇り空の下、ディストピアな未来都市を舞台にした、東アジア系の獰猛な女性サイボーグ戦士のドラマチックなシネマティック・シークエンス。動画は、彼女の滑らかな黒いロボットの右手のクローズアップから始まる。関節に沿って赤い光が脈動する精巧な金属製の指、アーマーにはかすかな傷や戦闘の痕跡が見える。
+カメラはゆっくりと上方にチルトし、損傷は激しいものの力強い全身のタクティカル・サイバネティック・アーマーを映し出す。マットブラックの装甲には赤い発光アクセントが施され、機械部品が露出し、彼女の顔には血痕が付着している。彼女の表情には激しい感情が宿る。眉をひそめ、口元や頬の切り傷からは血が滴り、赤く光るサイバネティックな瞳には水平方向の赤い光線が走る。彼女はゆっくりと瞬きをし、表情は苦痛から決意へと変化する。
+煙と遠くの火災、破壊された建物が立ち並ぶ荒廃した都市の戦場で、彼女は徐々に立ち上がる。彼女はダークバイザー付きの洗練された黒いタクティカル・ヘルメットを装着する。カメラは全身ショットへと引き、彼女が自信に満ちた様子で体を翻すと、ショルダーパッド、太もものホルスター、背面に装備された武器など、アーマーの全容が明らかになる。スーツ全体に赤いエネルギーラインが脈動する。
+最後の瞬間、彼女はスラスターを起動する。手足から明るいオレンジと白の炎が噴き出し、彼女は力強く空へと打ち上がる。爆発と黒い煙の尾が背景を埋め尽くす中、破壊された都市景観の上空へと急上昇していく。壮大で緊迫感のあるサイバーパンクな雰囲気、高精細、シネマティックなライティング、ダイナミックな動きとスローモーションの融合、赤い光が際立つダークでムードのあるカラーグレーディング。
+シネマティック、超リアル、8k、フォトリアル、ドラマチックなライティング、フィルムグレイン、激しいアクションシークエンス、12 秒、スムーズなカメラワーク、ゆっくりとしたチルトアップから引きのショット、最後のロケット打ち上げ
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fc5367c6cccbc88db363c98e812a3841/thumbnails/thumbnail.jpg" width="600" alt="東アジア系の女性サイボーグ戦士によるドラマチックなシネマティック・シークエンス">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2951)**
+
+**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **ソース:** [Link](https://x.com/ThoughCreator/status/2041307525140881679) | **公開日:** Apr 7, 2026
+
+---
 ### ヒップホップダンスを踊るふわふわのウサギの動画プロンプト
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -263,6 +748,25 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2864)**
 
 **作者:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **ソース:** [Link](https://x.com/iamhappy2026/status/2041243449110962626) | **公開日:** Apr 6, 2026
+
+---
+### オーガニックな生物発光のズームイン / アウト動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine のスピードモードを活用したプロンプトの組み合わせ事例です。ベースとなる写真プロンプト（「Organic Bioluminescent」）と動画プロンプト（「Zoom in and out」）を組み合わせる手法を紹介しています。これは Grok Imagine 向けの動画生成プロンプトです。
+
+#### 📝 プロンプト
+
+```
+ベース写真プロンプトに「Organic Bioluminescent」、動画プロンプトに「Zoom in and out」を使用
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f78cc59248fc1e16522fd73a4daac65e/thumbnails/thumbnail.jpg" width="600" alt="オーガニックな生物発光のズームイン / アウト動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2958)**
+
+**作者:** [Lala](https://x.com/keepgoingAnnie) | **ソース:** [Link](https://x.com/keepgoingAnnie/status/2041239957151658067) | **公開日:** Apr 6, 2026
 
 ---
 ### 映画のような屋上ピアノシーンのプロンプト
@@ -1649,516 +2153,6 @@ a vertical transparent glass box filled with ocean waves lying on the surface of
 **作者:** [LiveHumble&Kind](https://x.com/LivehumbleKind) | **ソース:** [Link](https://x.com/LivehumbleKind/status/2040424702188114222) | **公開日:** Apr 4, 2026
 
 ---
-### サイバーパンク東京 AI モンスター動画プロンプト
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 2026 年のサイバーパンクな東京の夜空を舞台に、巨大な黒い AI モンスターが光り輝くドル紙幣や夢（コードや光の粒子で表現）を貪り食う様子を描いた、Grok Imagine 用のシネマティックな 8 秒動画プロンプト。手前には疲れ切ったエンジニアを配置し、ホラー映画のようなドラマチックなカメラワークで構成。
-
-#### 📝 プロンプト
-
-```
-2026 年のサイバーパンクな東京の夜空を舞台にしたダイナミックなシーン。巨大な黒い AI モンスターが大きく口を開け、光り輝くドル紙幣や輝く夢の雲（コード、アイデア、創造的な光の粒子）を貪欲に飲み込んでいる。モンスターにはデジタルなグリッチが発生し、赤い目が光り、背景には崩壊するオフィスビルやデータストリームが広がる。手前には、呆然と空を見上げる疲れ切った日本人エンジニア（30 代、黒髪、メガネ、黒い T シャツ）の姿。ホラー映画のようなドラマチックなカメラワークで、モンスターが夢を飲み込む瞬間にズームインする。赤と黒を基調としたダークな色調、サイバーパンクなライティング、力強い動き。咀嚼音、不穏な低周波の BGM、衝撃的なサウンドエフェクト。最後に「AI started eating dreams too 2026.4」というテキストが赤く大きくオーバーレイ表示される。8 秒間、シネマティック、高精細、ドラマチックなライティング、720p
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b7b728b1b8cc57781b80b0bf4493bcda/thumbnails/thumbnail.jpg" width="600" alt="サイバーパンク東京 AI モンスター動画プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2720)**
-
-**作者:** [acropapa](https://x.com/acropapa330) | **ソース:** [Link](https://x.com/acropapa330/status/2040397663712235951) | **公開日:** Apr 4, 2026
-
----
-### シュールな錯視トンネル
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 巨大で歪んだトンネルの中、宇宙飛行士と浮遊する球体が描かれた、Grok Imagine 用の非常に複雑で詳細なプロンプトです。
-
-#### 📝 プロンプト
-
-```
-巨大で歪んだトンネルの中にある、シュールな錯視シーン。催眠的な黒、白、赤の同心円状の渦巻き模様が、無限の奥行きと動きを強く感じさせます。トンネルの壁と床は連続した歪んだ渦巻き状のパターンを形成しており、背景の上部には大胆な赤い円形の帯があります。
-中央には、顔のない宇宙飛行士が滑らかなグレーの宇宙服、黒いヘルメットとブーツを身にまとい、トンネルの渦巻き模様を反射する大きな光沢のある黒い球体の上に思索にふけった様子で座っています。空中には、左側に詳細でリアルなクレーターのあるグレーの月、右側には歪んだ人間の目が入った大きな光沢のある半透明の赤い球体、右下の前景には小さく反射する白黒の縞模様の球体が浮かんでいます。シーン全体は高コントラストでドラマチックな照明、滑らかな 3D レンダリング、そしてサイケデリックで夢のような雰囲気が漂っています。映画のような構図、トンネルの完璧な対称性、鮮明なディテール、8k 解像度。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e29c66ed9c579e6e96f7fe9ec590776c/thumbnails/thumbnail.jpg" width="600" alt="シュールな錯視トンネル">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2704)**
-
-**作者:** [AICook](https://x.com/AIArtCook) | **ソース:** [Link](https://x.com/AIArtCook/status/2040381728817066122) | **公開日:** Apr 4, 2026
-
----
-### シネマティックな動画プロンプトの詳細
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> フィルムストック、レンズ、絞り、被写界深度、カラーグレーディングを指定した、シネマティックな動画生成のための詳細なプロンプト。他のツイートや動画出力の文脈から、Grok Imagine を使用している可能性が高い。
-
-#### 📝 プロンプト
-
-```
-フィルムストック：35mm Kodak Vision3 500T、重厚でオーガニックなフィルムグレイン、高コントラスト。レンズ／絞り：35mm アナモルフィックレンズ、f/2.8。両方のキャラクターを鮮明に捉えるための深い被写界深度。カラーグレーディング：「Saturated 90s Diner（90年代ダイナー風の彩度）」パレット。温かみのあるニコチンイエロー、鮮やかな赤のビニール製ボックス席、そして強い
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/88c95722bedf1108e75c1de67d3ac197/thumbnails/thumbnail.jpg" width="600" alt="シネマティックな動画プロンプトの詳細">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2715)**
-
-**作者:** [ArcZeal Designs](https://x.com/arczeal_designs) | **ソース:** [Link](https://x.com/arczeal_designs/status/2040379446234853486) | **公開日:** Apr 4, 2026
-
----
-### ネオンの雨に佇むサイバネティック浪人（ロングプロンプト）
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 用の長く複雑なプロンプト。ネオンの雨が降り注ぐ中、ボロボロの黒い袴を纏い、身体の半分が星屑と生物発光粒子となって溶けゆく孤独な浪人を描写します。サイバネティックな刀、ネオンカラーのアクセントを加えたモノクロームの配色、そして超高精細でシュールな美学が特徴です。
-
-#### 📝 プロンプト
-
-```
-荒涼とした雨の降る環境に佇む、伝統と未来が融合した孤独な浪人のシネマティックな写真。
-
-ロングプロンプト
-ネオンの雨が降り注ぐ中、ボロボロの黒い袴を纏った孤独な浪人が立っている。身体の半分は渦巻く星屑と生物発光粒子となって溶け出し、サイバネティックな刀は紫外線とマゼンタの光を放つ。シーン全体はモノクロだが、激しいネオンの刀身と鮮やかなチェリーレッドの血の滴りだけが際立っている。シネマティックなリムライト、幻想的なボリュームライト、シュールな夢の論理、超高精細、Midjourney のような美学、ドラマチックなローアングル
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6f0af4a2f36360f8c0adb2d9cbaa3a9e/thumbnails/thumbnail.jpg" width="600" alt="ネオンの雨に佇むサイバネティック浪人（ロングプロンプト）">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2693)**
-
-**作者:** [Carolina Delgado](https://x.com/carolletta) | **ソース:** [Link](https://x.com/carolletta/status/2040368591934226758) | **公開日:** Apr 4, 2026
-
----
-### 砂漠を疾走する装甲マッスルカーのトラッキングショット
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine（動画生成）向けのプロンプト。砂漠を加速しながら廃墟の間を縫うように走り、砂をレンズに巻き上げる、重装甲マッスルカーの迫力あるトラッキングショットを生成するための指示。
-
-#### 📝 プロンプト
-
-```
-重装甲のマッスルカー、強化されたフロントグリル、激しく唸るエンジン、砂埃を被った車体。廃墟の間を縫い、背後からの攻撃を回避しながら砂漠を加速する。砂丘が広がる果てしない砂漠、点在する燃え尽きた車両、陽炎が揺らめく空気。前輪付近に固定された超低位置からのトラッキングショット、レンズに向かって吹き付ける砂、激しいモーションブラー、厳しい日差しと黄金色のトーン、圧倒的なスピード感と荒々しさ。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a9574bfc0611d54e838363792903c584/thumbnails/thumbnail.jpg" width="600" alt="砂漠を疾走する装甲マッスルカーのトラッキングショット">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2697)**
-
-**作者:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **ソース:** [Link](https://x.com/CharaspowerAI/status/2040346143968592065) | **公開日:** Apr 4, 2026
-
----
-### 円を描く筆のストロークと降り注ぐ色彩で描かれた少女
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 用のダイナミックなプロンプト。少女が筆を掲げて円を描くように動かし、笑いながらシーン全体に自然な色彩を降り注がせる様子を描写しています。
-
-#### 📝 プロンプト
-
-```
-少女が筆を前方に掲げ、上、右、北へと円を描くように動かす様子を描いてください。シーン全体にさまざまな自然の色が降り注ぎ、少女は笑っています。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c8da5b064ad39bed53276c5454819943/thumbnails/thumbnail.jpg" width="600" alt="円を描く筆のストロークと降り注ぐ色彩で描かれた少女">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2701)**
-
-**作者:** [ahmed ibrahim](https://x.com/AhmedYasienibby) | **ソース:** [Link](https://x.com/AhmedYasienibby/status/2040331264117379290) | **公開日:** Apr 4, 2026
-
----
-### 極端なクローズアップのアニメ風リアルポートレート（ロココ様式）
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine（動画生成）向けのプロンプト。ロココ様式の伝統にインスパイアされた、極端なクローズアップのアニメ風リアルポートレートを生成します。柔らかな肌のトーン、繊細な温かみ、拡散された光の表現を強調しています。
-
-#### 📝 プロンプト
-
-```
-ロココ様式の肖像画の伝統にインスパイアされた、極端なクローズアップのアニメ風リアルポートレート。柔らかなパウダー状の肌のトーン、繊細な温かみ、細部に宿る微かな柔らかさ。彼女の瞳は優しく魅力的で、光は拡散され穏やか。背景はパステルカラーで空気感があり、洗練された女性らしさと、美術館レベルの柔らかさを表現。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6afbcd078486edddc8c71aca62d0cc76/thumbnails/thumbnail.jpg" width="600" alt="極端なクローズアップのアニメ風リアルポートレート（ロココ様式）">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2696)**
-
-**作者:** [SPACELESS](https://x.com/VOLDEMORT2X) | **ソース:** [Link](https://x.com/VOLDEMORT2X/status/2040319026388169172) | **公開日:** Apr 4, 2026
-
----
-### 馬上の戦国武将
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 用のプロンプト。豪華な黄金の甲冑を身にまとい、戦場を疾走する馬に乗った戦国時代の武将のドラマチックなシーンを、日本の伝統的な歴史画風で描写しています。
-
-#### 📝 プロンプト
-
-```
-豪華な黄金の甲冑を身にまとい、全速力で駆ける馬に乗った戦国時代の武将。風になびく戦旗、戦場を背景に、ドラマチックな斜めからのアングルで捉えた、日本の伝統的な歴史画風の描写
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a33996eb1c0079bff16c115763923e68/thumbnails/thumbnail.jpg" width="600" alt="馬上の戦国武将">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2691)**
-
-**作者:** [Déborah](https://x.com/dvorahfr) | **ソース:** [Link](https://x.com/dvorahfr/status/2040314422787252728) | **公開日:** Apr 4, 2026
-
----
-### Grok Imagine 用のアクションシークエンスプロンプト
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> キャラクター「Kanzu Bogan (ボーガン枢)」が登場する 10 秒間のアクションシークエンスを生成するためのプロンプト。スピード感、ハイキックのパフォーマンス、そして水滴がレンズをぼかす映画のような演出を強調しています。
-
-#### 📝 プロンプト
-
-```
-Kanzu Bogan の最高の瞬間を 10 秒間で表現してください！！滝の近くから走り出し、水を跳ね上げながらカメラの前でハイキックを披露する様子を描写してください。6 倍速のローアングルで撮影し、最後は水滴がカメラレンズに当たり、画面がぼやける演出で締めくくってください。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/abfdc32502c79d0bdb92b85982d78378/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine 用のアクションシークエンスプロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2626)**
-
-**作者:** [阿部 孝](https://x.com/03abe_takashi) | **ソース:** [Link](https://x.com/03abe_takashi/status/2040308109521060031) | **公開日:** Apr 4, 2026
-
----
-### Elon 承認済み Starship ロケットキットの動画プロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 「Elon 承認済み Starship ロケット」の子供向けキットをテーマにした、Grok Imagine 用の複雑な物語形式のプロンプト。特定のドールやテーマを含みます。
-
-#### 📝 プロンプト
-
-```
-Elon 承認済み }~ { Starship ロケット } キット、子供たちへ { いつか君たちも僕の下で働くことになるだろう }。Dima と Elon のドールも付属、€ { 美しい黒髪のロングヘア Lacey ドール } も追加。キットを持った小さな悪ガキたち € ~~^***€ { Starship は君のもの }~ 保護者...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/54fa1094f3dc02e86df5d9a59c532292/thumbnails/thumbnail.jpg" width="600" alt="Elon 承認済み Starship ロケットキットの動画プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2714)**
-
-**作者:** [Notzucow](https://x.com/Notzucow69) | **ソース:** [Link](https://x.com/Notzucow69/status/2040285109354422724) | **公開日:** Apr 4, 2026
-
----
-### スター・ウォーズ風のパイロット犬（ロットワイラー）と副操縦士の猫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> スター・ウォーズのような銀河を舞台に、ロットワイラーがパイロット、猫が副操縦士となり、宇宙船を操縦して星雲を通り過ぎるシーンを描くための grok-imagine 用ビデオプロンプトです。
-
-#### 📝 プロンプト
-
-```
-スター・ウォーズのような銀河で、ロットワイラーのパイロットと猫の副操縦士が、スター・ウォーズ風の宇宙船を操縦して星雲を通り過ぎる様子。 @grok @imagine これは素晴らしい。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f82094cbc4896f5d471f9a1a5d505c09/thumbnails/thumbnail.jpg" width="600" alt="スター・ウォーズ風のパイロット犬（ロットワイラー）と副操縦士の猫">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2713)**
-
-**作者:** [Emily](https://x.com/EMILYZART) | **ソース:** [Link](https://x.com/EMILYZART/status/2040262627914641448) | **公開日:** Apr 4, 2026
-
----
-### Grok Imagine プロンプト：小さな人たちを追い払う女性
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> テンポが速く陽気なBGM、英語のセリフ、ブラシを使って小さな人たちを追い払う笑顔の女性が登場する動画のための詳細なナラティブプロンプト。小さな人たちは抵抗し、何度も集まってきます。
-
-#### 📝 プロンプト
-
-```
-テンポが速く陽気なBGM。キャラクターの会話は英語。笑顔の女性がブラシを使って小さな人たちを追い払う。小さな人たちは抵抗してその場にとどまろうとし、追い払われないようにする。ブラシで追い払われても、小さな人たちは何度も繰り返し集まってくる。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/13fcfd6c7792c527f57b7b04f64154c3/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine プロンプト：小さな人たちを追い払う女性">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2721)**
-
-**作者:** [MAGA (Make America great again)](https://x.com/rao_kaiser) | **ソース:** [Link](https://x.com/rao_kaiser/status/2040240958076526928) | **公開日:** Apr 4, 2026
-
----
-### Grok Imagine Quality Mode の動画説明
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine の新しい「Quality Mode」を使用して作成された 4 つの最新アニメーションをユーザーが説明しています。これらの説明は、各動画のプロンプトとして機能します。
-
-#### 📝 プロンプト
-
-```
-動画 1. イーロン、アニメ風のビットコインガール、マイケル・セイラー。
-動画 2. Optimus とイーロンによるヒップホップダンスバトル。
-動画 3. ビットコインガール、イーロン、Optimus による「スタンド・バイ・ミー」。
-動画 4. Tesla Optimus の紹介。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/47517a3e1af9d39d3c9d39df06770091/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine Quality Mode の動画説明">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2631)**
-
-**作者:** [Simon Hayes](https://x.com/Hayess5178) | **ソース:** [Link](https://x.com/Hayess5178/status/2040234159730262086) | **公開日:** Apr 4, 2026
-
----
-### 禁煙したと主張しながらベイプを吸う人
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 用のユーモラスなナラティブプロンプト。ベイプを激しく吸い込み、大きな煙を吐き出しながら、皮肉にも「簡単に禁煙できた」と語る様子を描写します。
-
-#### 📝 プロンプト
-
-```
-酸素を吸うかのように必死にベイプを吸い込み、煙を吐き出しながら「ああ、数ヶ月前に禁煙したんだ。全然余裕だったよ」と語る人物
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0bf43ccc59237be1429a1b349f2914d3/thumbnails/thumbnail.jpg" width="600" alt="禁煙したと主張しながらベイプを吸う人">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2699)**
-
-**作者:** [Lidy E Lane](https://x.com/LidyELane) | **ソース:** [Link](https://x.com/LidyELane/status/2040224734382637242) | **公開日:** Apr 4, 2026
-
----
-### 分子ストランドロボットの初デート動画プロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Me NI Ticulous とその妻 NY TICULA という名の 2 体の分子ストランドロボットの初デートを描いた動画を生成するための Grok Imagine プロンプトです。
-
-#### 📝 プロンプト
-
-```
-分子ストランドロボット { Me NI Ticulous } とその妻 { NY TICULA } の初デート
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eaa2c29cd985ac9e0904cd8919cf6d97/thumbnails/thumbnail.jpg" width="600" alt="分子ストランドロボットの初デート動画プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2623)**
-
-**作者:** [Notzucow](https://x.com/Notzucow69) | **ソース:** [Link](https://x.com/Notzucow69/status/2040210612660121979) | **公開日:** Apr 3, 2026
-
----
-### 異世界へ落ちる動画用プロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 箱を開けて中を覗き込んだ人物が小さくなり、箱の中に落ちて異世界へと入り込む様子を描写するための Grok Imagine 用動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-箱をゆっくりと開けると、その中には直接別の世界へと続く道が広がっている。中を覗き込むと体が小さくなり、そのまま箱の中へと落ちていく。気がつくと、あなたは異世界にたどり着いている。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d47fb5f65bdac9497d1584d365e9758b/thumbnails/thumbnail.jpg" width="600" alt="異世界へ落ちる動画用プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2618)**
-
-**作者:** [Master](https://x.com/DragonFlam7530) | **ソース:** [Link](https://x.com/DragonFlam7530/status/2040187293269385696) | **公開日:** Apr 3, 2026
-
----
-### 西部劇の町に足を踏み入れる、渋いカウボーイの動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 1800 年代初頭の、埃まみれで年季の入ったカウボーイが小さな西部劇の町へゆっくりと馬で入っていく動画を生成するための Grok Imagine プロンプト。
-
-#### 📝 プロンプト
-
-```
-1800 年代初頭のカウボーイが、小さな西部劇の町へゆっくりと馬で入っていく動画。彼は渋く、埃をかぶっており、非常に年季の入った風貌をしている。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3dd0b192e0b42e6f7eda62ba2aafdc6c/thumbnails/thumbnail.jpg" width="600" alt="西部劇の町に足を踏み入れる、渋いカウボーイの動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2616)**
-
-**作者:** [Todd MacPherson](https://x.com/toddmacpherson) | **ソース:** [Link](https://x.com/toddmacpherson/status/2040165021758398562) | **公開日:** Apr 3, 2026
-
----
-### ゴールデンアワーのシネマティックなソーラーパンク・バイオフィリック・メガシティ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ゴールデンアワーのソーラーパンク・バイオフィリック・メガシティのシネマティックな動画を生成するためのプロンプトです。熱帯植物に覆われた巨大で有機的な未来の超高層ビル群が、透明なガラスのスカイブリッジで結ばれ、穏やかな水面に映し出される様子を強調しています。
-
-#### 📝 プロンプト
-
-```
-cinematic solarpunk biophilic megacity golden hour, massive organic futuristic skyscrapers densely overgrown with lush tropical jungle vegetation, thick cascading vines and hanging gardens, transparent glass skybridges connecting the towers, calm reflective water
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/75f40d4acffa2af241772df5c2fe461e/thumbnails/thumbnail.jpg" width="600" alt="ゴールデンアワーのシネマティックなソーラーパンク・バイオフィリック・メガシティ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2627)**
-
-**作者:** [Lacey](https://x.com/LaceyPresley) | **ソース:** [Link](https://x.com/LaceyPresley/status/2040160595417182456) | **公開日:** Apr 3, 2026
-
----
-### 幻想的な女性のインクと鉛筆のスケッチ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 用の精細なプロンプト。黒いドレスをまとった幻想的な女性の全身像を、柔らかな陰影と煌めく粒子を添えた、非常に精巧なインクと鉛筆のスケッチスタイルで描写します。
-
-#### 📝 プロンプト
-
-```
-美しい幻想的な女性の全身像、お団子ヘアにリボン、黒いオフショルダーのドレスを着用、柔らかな陰影を施した非常に精巧なインクと鉛筆のスケッチスタイル、光を捉えて輝くグリッターの粒子、幻想的で夢のような雰囲気、...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f83f5990ed79c56fe7f8b59af3727847/thumbnails/thumbnail.jpg" width="600" alt="幻想的な女性のインクと鉛筆のスケッチ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2622)**
-
-**作者:** [🕸 𓅓 MR WISE 🕸 𓅓](https://x.com/mrwise744) | **ソース:** [Link](https://x.com/mrwise744/status/2040133936890736986) | **公開日:** Apr 3, 2026
-
----
-### 不可視のミラーワープフィールドと UFO
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 用のシュールで抽象的なプロンプト。不可視のワープフィールド、逆因果律、そして人間サイズの物体を跳ね返すホバリングする UFO をテーマにしています。
-
-#### 📝 プロンプト
-
-```
-不可視のミラーワープフィールド 逆因果律 弾性 無限ループ コヒーレンス
-
-地上 5～6 フィートに浮かぶ UFO 人間サイズの物体を跳ね返す 家や敷地の上空でホバリング
-
-不可視のミラーワープフィールド 逆因果律
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3a1c6b3ff8f62cd2978314350c0233c2/thumbnails/thumbnail.jpg" width="600" alt="不可視のミラーワープフィールドと UFO">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2619)**
-
-**作者:** [Shia Miller](https://x.com/StrategicProce) | **ソース:** [Link](https://x.com/StrategicProce/status/2040133832242786444) | **公開日:** Apr 3, 2026
-
----
-### 電車内のサイバネティック・モデル
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine の速度および品質モードをテストするためのプロンプト。特定のカラーパレットを使用し、電車という設定の中でサイバネティックな要素を持つリアルな女性モデルを描写しています。
-
-#### 📝 プロンプト
-
-```
-サイバネティックな電車内にいるリアルな女性モデル。悲しげで、よそよそしく、どこか浮世離れした表情。使用する色：マゼンタ、シャーベット、コーラル、ミント。不透明な光沢のオーバーレイ。高級感のある仕上がり。
-```
-
-<img src="https://cms-assets.youmind.com/media/1775288680174_e4tv75_HE_3BwsWEAApU-J.jpg" width="600" alt="電車内のサイバネティック・モデル">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2621)**
-
-**作者:** [Lala](https://x.com/keepgoingAnnie) | **ソース:** [Link](https://x.com/keepgoingAnnie/status/2040123492717207668) | **公開日:** Apr 3, 2026
-
----
-### 雪原を歩く孤独な中世の騎士の動画生成プロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 雪原を歩き、遠くのファンタジー城を目指す孤独な中世の騎士の動画を生成するための grok-imagine 用プロンプト。背景や雰囲気に関する詳細を含みます。
-
-#### 📝 プロンプト
-
-```
-雪に覆われた何もない平原の真ん中に立つ孤独な中世の騎士。遠くの地平線にそびえ立つ壮大なファンタジーの城に向かって歩いている。地面には赤い液体が点々と染み込み、周囲の雪にはボロボロになった旗がいくつも突き立てられ、
-```
-
-<img src="https://cms-assets.youmind.com/media/1775288688131_qkbu83_HE_fVRsXQAAcjOq.jpg" width="600" alt="雪原を歩く孤独な中世の騎士の動画生成プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2625)**
-
-**作者:** [Knight World](https://x.com/KnightWorld) | **ソース:** [Link](https://x.com/KnightWorld/status/2040095274077429854) | **公開日:** Apr 3, 2026
-
----
-### ドーバーに到着する日本人女性のビデオプロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 黒いゴム製のインフレータブルボートに乗ってドーバーの白い崖に到着し、イギリスの海岸に上陸する、可愛らしい若い日本人女性の軍団を描写した詳細な Grok Imagine プロンプトです。
-
-#### 📝 プロンプト
-
-```
-黒いゴム製のインフレータブルボートに乗ってドーバーの白い崖に到着し、イギリスの海岸に上陸する、可愛らしい若い日本人女性の軍団
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e3219aa7065bb575f434a26a9b616da/thumbnails/thumbnail.jpg" width="600" alt="ドーバーに到着する日本人女性のビデオプロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2624)**
-
-**作者:** [Master](https://x.com/DragonFlam7530) | **ソース:** [Link](https://x.com/DragonFlam7530/status/2040085286554669114) | **公開日:** Apr 3, 2026
-
----
-### 映画のようなモノクロの幽霊侍
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 超現実主義、生物発光、そして忘れがたい美しさを強調した、映画のようなモノクロの幽霊侍の動画を生成するための詳細なプロンプトです。
-
-#### 📝 プロンプト
-
-```
-黄昏時、水に浸かった鳥居を漂う幽霊侍の姿を捉えた、映画のようなモノクロ写真。液体水銀のようにたなびく半透明の白い着物、純粋な星の光と砕けたネオンの破片でできた刀。全体は柔らかなモノクロームで構成され、彼女の輪郭を縁取る生物発光のティールブルーの輝きと、漂う星屑の残り火だけが際立っている。夢のような超現実主義、柔らかなボケ味、忘れがたい美しさ、映画のような詩情
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3ffbae47081a71134db22c8150d55ada/thumbnails/thumbnail.jpg" width="600" alt="映画のようなモノクロの幽霊侍">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2617)**
-
-**作者:** [Carolina Delgado](https://x.com/carolletta) | **ソース:** [Link](https://x.com/carolletta/status/2040006205540876399) | **公開日:** Apr 3, 2026
-
----
-### 桜の下で着物を着た美しい日本人女性
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 満開の桜の木の下を優雅に歩く、伝統的な着物をまとった美しい日本人女性のリアルなシーンを生成するための詳細な Grok Imagine プロンプト。日本文化を正確に表現し、春の柔らかな日差しと舞い散る桜の花びらを演出します。
-
-#### 📝 プロンプト
-
-```
-伝統的な着物をまとい、満開の桜の木の下を優雅に歩く美しい日本人女性、日本文化を正確に表現したリアルなシーン、春の柔らかな日差し、舞い散る桜の花びら、日本の伝統美
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9daa9cc6c90552bfe5169a5325611736/thumbnails/thumbnail.jpg" width="600" alt="桜の下で着物を着た美しい日本人女性">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2633)**
-
-**作者:** [おづぬ🇯🇵](https://x.com/minaminpyo) | **ソース:** [Link](https://x.com/minaminpyo/status/2040005031387079075) | **公開日:** Apr 3, 2026
-
----
-### スペイン語によるイースター（復活祭）の動画プロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> イースター（復活祭）を祝う動画を生成するための Grok Imagine 用スペイン語プロンプトです。イエス・キリストの記憶、その愛、犠牲、そして復活に焦点を当て、家族、友人、そしてすべての人々への祝福を祈る内容を含んでいます。
-
-#### 📝 プロンプト
-
-```
-ハッピー・イースター。
-
-今日、私たちはイエス・キリスト、その愛、犠牲、そして復活を心に留めます。
-イエスは私たちを救うために命を捧げ、3 日目に栄光のうちに復活されました。
-
-親愛なるイエス様、私たちの家族、友人、そしてすべての人々に祝福を与えてください...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/912e7eb9975992b68644cd45a008daab/thumbnails/thumbnail.jpg" width="600" alt="スペイン語によるイースター（復活祭）の動画プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2637)**
-
-**作者:** [mygiftshoponline.com](https://x.com/mygiftshoponli1) | **ソース:** [Link](https://x.com/mygiftshoponli1/status/2040004900332175403) | **公開日:** Apr 3, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2220,6 +2214,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-04-08T05:51:33.635Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-04-08T09:13:57.746Z</sub>
 
 </div>
