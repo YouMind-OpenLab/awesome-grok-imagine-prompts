@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1055** |
+| 📝 Total Prompts | **1077** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-04-09** |
 
@@ -189,6 +189,467 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Boy Tinkering with Strange Machine Prompt for Grok Imagine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A specific prompt for Grok Imagine describing a scene where a boy tinkers in a shop, starts a strange machine, causing a computer to glitch and the room lights to flicker ominously.
+
+#### 📝 Prompt
+
+```
+boy tinkers around the shop, starting up a strange machine, hits the computer and it fritzes out for a second, then the lights flicker in the whole room slightly ominously
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bfe0fcd9c41c9f1d949ebfdb7bf58fb6/thumbnails/thumbnail.jpg" width="600" alt="Boy Tinkering with Strange Machine Prompt for Grok Imagine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3026)**
+
+**Author:** [👽Groklet](https://x.com/GrokletFanClub) | **Source:** [Link](https://x.com/GrokletFanClub/status/2042036798361104570) | **Published:** Apr 9, 2026
+
+---
+### Deconstructing Portrait into Void
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for Grok Imagine video generation describing the slow deconstruction of a portrait made of interwoven red and gold threads, which pull apart and fall into a dark void.
+
+#### 📝 Prompt
+
+```
+The interwoven red and gold threads of the portrait slowly loosen and pull apart, falling away into a dark void until the face completely deconstructs.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0f9225930be5e754e6c6d9c57a5e834d/thumbnails/thumbnail.jpg" width="600" alt="Deconstructing Portrait into Void">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3018)**
+
+**Author:** [Mr Fox](https://x.com/foxmr507) | **Source:** [Link](https://x.com/foxmr507/status/2042017411230990429) | **Published:** Apr 8, 2026
+
+---
+### The Dawning of the Age of Aquarius
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A narrative prompt for Grok Imagine referencing the musical HAIR and the 'Age of Aquarius', contrasting the 1970s perception with the present day.
+
+#### 📝 Prompt
+
+```
+In 1970sI went to the musical HAIR 
+They Sang songs with Flowers in their hair Dawning of the Age of Aquarius… It was not the Age of Aquarius in the 70s . Now it’s The Dawning of the Age of Aquarius .
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d4b28647bfbab79f0a07b5cb2197ca84/thumbnails/thumbnail.jpg" width="600" alt="The Dawning of the Age of Aquarius">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3020)**
+
+**Author:** [Jillian](https://x.com/Jilliangcs1) | **Source:** [Link](https://x.com/Jilliangcs1/status/2042004546520825886) | **Published:** Apr 8, 2026
+
+---
+### Old Fashioned Scales with Cursive Sign Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for Grok Imagine to create a video of old-fashioned scales featuring a sign with a cursive quote about cultivating good thoughts.
+
+#### 📝 Prompt
+
+```
+Create an image of some old fashioned scales with cursive writing sign that states 
+‘Cultivate a life where good thoughts and things outweigh the bad’
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fa8b418c3e8c75bdbb0995ef7d91d3a1/thumbnails/thumbnail.jpg" width="600" alt="Old Fashioned Scales with Cursive Sign Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3012)**
+
+**Author:** [Lisa Jmes](https://x.com/JmesLisa65488) | **Source:** [Link](https://x.com/JmesLisa65488/status/2041982751512129827) | **Published:** Apr 8, 2026
+
+---
+### Grok Imagine prompt for construction time-lapse
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed Grok Imagine prompt for a time-lapse video showing the construction of a cabin, emphasizing a locked camera position and specific details of the building process.
+
+#### 📝 Prompt
+
+```
+SCENE LOCK: same tripod lock, same framing and lens, landmarks unchanged
+STAGE: construction to completed cabin
+DETAILS: workers cutting, assembling, and installing wooden walls and roof, thatch placed gradually, staircase built step by step, balcony...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/18c4f22618bdf865a3e9f8449239bf5b/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine prompt for construction time-lapse">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3023)**
+
+**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2041963695438508206) | **Published:** Apr 8, 2026
+
+---
+### Jetsons Meet Simpsons Video Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed, multi-part prompt for Grok Imagine, requesting a specific scene (Scene 4/7: Elroy) from an imagined episode where the Jetsons meet the Simpsons, focusing on Springfield's First Flying Car Wash.
+
+#### 📝 Prompt
+
+```
+Jetsons in 2030 – Meeting the Simpsons!
+Episode 2: Springfield’s First Flying Car Wash!
+Scene 4/7: Elroy
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/51a27a742bcc2c2792cea26b3963197c/thumbnails/thumbnail.jpg" width="600" alt="Jetsons Meet Simpsons Video Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3008)**
+
+**Author:** [ITALKTOGROK](https://x.com/positive_jetson) | **Source:** [Link](https://x.com/positive_jetson/status/2041962205990514945) | **Published:** Apr 8, 2026
+
+---
+### 1920s Silent Film Still
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video generation prompt for Grok Imagine describing a scene in the style of a 1920s silent film still, featuring a Chaplin-like character and a flapper woman on a busy city sidewalk.
+
+#### 📝 Prompt
+
+```
+A 1920s silent film still in stark black and white, grainy 35mm film stock, high contrast. A small Chaplin like character with bowler hat, toothbrush mustache, cane, and oversized baggy clothes tips his hat to a stylish flapper woman with short bobbed hair, cloche hat, fringed drop-waist dress, and long pearl beads. They stand on a busy city sidewalk with vintage Model T cars and lampposts in the background. Exaggerated surprised expressions, soft cinematic lighting, old film scratches and dust marks, silent movie atmosphere.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2c3952b7fe924014b299319899a2039b/thumbnails/thumbnail.jpg" width="600" alt="1920s Silent Film Still">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3021)**
+
+**Author:** [Lucy](https://x.com/princess414141) | **Source:** [Link](https://x.com/princess414141/status/2041960326397051081) | **Published:** Apr 8, 2026
+
+---
+### Staging Bunker Interior Timelapse Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A structured Grok Imagine prompt for generating a timelapse video of a bunker interior being staged, maintaining a scene lock and detailing the process from empty to fully equipped, including workers carrying in beds and assembling control panels.
+
+#### 📝 Prompt
+
+```
+SCENE LOCK: same tripod, same composition, no movement, same lighting base with gradual enhancement
+
+STAGE: staging bunker interior from empty to fully equipped
+
+DETAILS: workers carry in bunker beds and bolt them to walls, assemble control panels an...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/481f81071bfff4e572b9602b78d44ed8/thumbnails/thumbnail.jpg" width="600" alt="Staging Bunker Interior Timelapse Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3016)**
+
+**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2041871525998161949) | **Published:** Apr 8, 2026
+
+---
+### Desert and Spice Greeting
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for Grok Imagine based on a greeting referencing the desert and 'the spice', likely inspired by Dune, intended to generate a thematic video.
+
+#### 📝 Prompt
+
+```
+May the desert be kind to you, and may the spice guide your path. Have a beautiful day, creators!👋🌅.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b6ea51139424413f39caccc7f7b2e95f/thumbnails/thumbnail.jpg" width="600" alt="Desert and Spice Greeting">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3019)**
+
+**Author:** [Petergu](https://x.com/PalfalviP497fz) | **Source:** [Link](https://x.com/PalfalviP497fz/status/2041865237142397069) | **Published:** Apr 8, 2026
+
+---
+### Grateful Thoughts by the Fire Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A reflective prompt for Grok Imagine, describing thinking of things to be grateful for by the fire in the evening before bed.
+
+#### 📝 Prompt
+
+```
+In the evening by the fire before bed I think of all the things I’m grateful for
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a85bbbf2f3f5cef034b36327dce9307e/thumbnails/thumbnail.jpg" width="600" alt="Grateful Thoughts by the Fire Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3015)**
+
+**Author:** [Jillian](https://x.com/Jilliangcs1) | **Source:** [Link](https://x.com/Jilliangcs1/status/2041861487619403814) | **Published:** Apr 8, 2026
+
+---
+### Pixel Art Groklet Riding Solo Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A structured prompt for Grok Imagine requesting a pixel art style, looping aesthetic video featuring a Groklet (teal alien boy in a leather jacket) riding solo towards the camera.
+
+#### 📝 Prompt
+
+```
+pixel art style, looping aesthetic, relatively still camera. Groklet riding solo towards the camera (teal alien boy , leather jacket, glowing blue circle on chest. Doorag that says GROKLET....
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/04f972612695cd5fc278b9e79fa32faf/thumbnails/thumbnail.jpg" width="600" alt="Pixel Art Groklet Riding Solo Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3014)**
+
+**Author:** [👽Groklet](https://x.com/GrokletFanClub) | **Source:** [Link](https://x.com/GrokletFanClub/status/2041853881601106113) | **Published:** Apr 8, 2026
+
+---
+### Knight in dark armor riding a glowing green horse at night
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A user shares a video generated with Grok Imagine, featuring a knight in dark armor riding a glowing green horse at night with green fire surrounding them, suggesting a powerful visual.
+
+#### 📝 Prompt
+
+```
+Knight in dark armor riding a glowing green horse at night 😮  
+
+Green fire all around them, hair flowing, looks powerful.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/edefb20d378d2598be80dc2f581dc2e3/thumbnails/thumbnail.jpg" width="600" alt="Knight in dark armor riding a glowing green horse at night">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3027)**
+
+**Author:** [Shah](https://x.com/ai_with_shah) | **Source:** [Link](https://x.com/ai_with_shah/status/2041849736588882326) | **Published:** Apr 8, 2026
+
+---
+### Photorealistic Bright and Airy Bedroom Interior Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for Grok Imagine to generate a photorealistic video of a bright and airy bedroom interior, focusing on soft lighting, sheer curtains, and a serene tropical home atmosphere.
+
+#### 📝 Prompt
+
+```
+Photorealistic bright and airy bedroom interior, unmade bed with soft white rumpled bedding in the foreground, sheer curtains gently moving, wicker nightstand, lush green plants nearby, warm golden sunlight flooding through large windows and casting beautiful light patterns and god rays across the floor and bedding, serene tropical home atmosphere, high detail, photorealistic.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4f3cd9ca63bf971b6fa6f47ba7b04ba5/thumbnails/thumbnail.jpg" width="600" alt="Photorealistic Bright and Airy Bedroom Interior Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3010)**
+
+**Author:** [Thoth Scribe](https://x.com/ThothScribe) | **Source:** [Link](https://x.com/ThothScribe/status/2041847797943824648) | **Published:** Apr 8, 2026
+
+---
+### Shogi Animation: Summoning the Dragon of the Clear Stream
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A detailed prompt for Grok Imagine to create a short, 15-20 second animated video in a watercolor/fantasy style, depicting a Shogi match focused on the '4-5 Pawn Quick Attack' formation. The video should feature cosmic elements and light particles, illustrating the dramatic moment when the Rook (Hisha) transforms into a Dragon (Ryu) and attacks the enemy camp.
+
+#### 📝 Prompt
+
+```
+Title: "Summoning the Dragon of the Clear Stream ~ The Rook from Afar Becomes a Dragon and Controls the Enemy Camp ~"
+• Style: Watercolor style + SF fantasy using plenty of fantastical light particles (gentle yet powerful atmosphere)
+• Length: Short animation video of about 15-20 seconds
+• Highlights:
+• Opening: The formation of the 4-5 Pawn Quick Attack emerges in quiet cosmic space
+• Middle: The moment the balance is broken by dropping the 2-2 Pawn is beautifully expressed like a ripple of light
+• Climax: The 4-1 Rook from far away moves at high speed, trailing a tail of light → Promotes to Dragon at 7-1 → Elegantly captures the Silver General and Gold General...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1408201dad27422b0a18af370058e499/thumbnails/thumbnail.jpg" width="600" alt="Shogi Animation: Summoning the Dragon of the Clear Stream">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3029)**
+
+**Author:** [後藤強士](https://x.com/rubensutsuyosi) | **Source:** [Link](https://x.com/rubensutsuyosi/status/2041827163088023700) | **Published:** Apr 8, 2026
+
+---
+### Grok Imagine prompt: A second city hangs upside down above a real one
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed cinematic prompt for Grok Imagine describing a surreal scene where a second city is inverted above a real one, with symmetrical light reflection and movement in both directions, aiming for mind-bending realism.
+
+#### 📝 Prompt
+
+```
+A second city hangs upside down above a real one. As the sun rises between both cities, light reflects symmetrically across glass buildings. Cars and people move in both directions. . Mind-bending realism, high-end cinematic composition
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0070e82a89b1f850e8d18922219606bb/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine prompt: A second city hangs upside down above a real one">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3024)**
+
+**Author:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Source:** [Link](https://x.com/CharaspowerAI/status/2041825893912383668) | **Published:** Apr 8, 2026
+
+---
+### Shogi Animation: Cosmic Right Three-Tier King
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A detailed prompt for Grok Imagine to create a short, 15-20 second animated video in a watercolor/fantasy style, depicting a Shogi (Japanese chess) match focused on the 'Right Three-Tier King' formation. The video should feature cosmic elements, light particles, and dramatic movements of the pieces, culminating in the final position.
+
+#### 📝 Prompt
+
+```
+Title: "Cosmic Right Three-Tier King ~ Artistic Constellation Spreading Across 81 Squares ~"
+• Style: Watercolor style + SF fantasy using plenty of fantastical light particles
+• Length: Short animation video of about 15-20 seconds
+• Highlights:
+• Opening: The Right Three-Tier King formation emerges in quiet cosmic space
+• Middle: The first player builds an advantage with flexible positioning utilizing the Three-Tier King, beautifully expressed with light ripples and particles
+• Climax: The pieces align vertically beautifully while fending off the strong counter-attack of the second player, kssuya
+• Ending: The artistry of the final position...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e82d67fac652fb61f1b267701ad0f0fa/thumbnails/thumbnail.jpg" width="600" alt="Shogi Animation: Cosmic Right Three-Tier King">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3028)**
+
+**Author:** [後藤強士](https://x.com/rubensutsuyosi) | **Source:** [Link](https://x.com/rubensutsuyosi/status/2041806232915210443) | **Published:** Apr 8, 2026
+
+---
+### Cincinnati Park Scene with Hovering Car
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for Grok Imagine requesting a video scene set in a nice city park with a view of Cincinnati, featuring a car hovering in the foreground.
+
+#### 📝 Prompt
+
+```
+Make the scene a nice city park with a view of Cincinnati with car in foreground hovering
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0a44fab92d73ceb875965f4cbe7f8c21/thumbnails/thumbnail.jpg" width="600" alt="Cincinnati Park Scene with Hovering Car">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3009)**
+
+**Author:** [Ben Nash](https://x.com/bennash) | **Source:** [Link](https://x.com/bennash/status/2041805306800263350) | **Published:** Apr 8, 2026
+
+---
+### Construction and Fabrication Timelapse Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A structured Grok Imagine prompt for generating a construction and fabrication timelapse video, maintaining a static camera lock and detailing the stages from active build to finished interior, including workers plastering and restoring beams.
+
+#### 📝 Prompt
+
+```
+SCENE LOCK: static tripod, same framing and lens, identical landmarks maintained, consistent daylight
+STAGE: construction and fabrication timelapse from active build to finished interior
+DETAILS: workers plastering walls, restoring beams, cutting woo...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/533fe22162a1efa31e077184d90290ed/thumbnails/thumbnail.jpg" width="600" alt="Construction and Fabrication Timelapse Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3013)**
+
+**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2041754547224514760) | **Published:** Apr 8, 2026
+
+---
+### One-Word Prompts for Grok Imagine Video Generation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A set of single-word prompts tested with Grok Imagine for video generation. The user notes that simple one-word prompts can yield interesting results.
+
+#### 📝 Prompt
+
+```
+horror
+visceral
+instinctive
+euphoric
+beastly
+instinctive
+rapturous
+savage
+feral
+primal
+visceral
+palpable
+sublime
+engrossing
+refractive
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/292882d7de7f0606250836761917df1f/thumbnails/thumbnail.jpg" width="600" alt="One-Word Prompts for Grok Imagine Video Generation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3017)**
+
+**Author:** [Hodler](https://x.com/TSLAshareholder) | **Source:** [Link](https://x.com/TSLAshareholder/status/2041749523446559061) | **Published:** Apr 8, 2026
+
+---
+### Grok Imagine prompt: Ultra-realistic cinematic fantasy portrait of a royal woman
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for Grok Imagine requesting an ultra-realistic, cinematic fantasy portrait video of a royal woman with soft glowing skin.
+
+#### 📝 Prompt
+
+```
+Ultra-realistic cinematic fantasy portrait of a royal woman with soft glowing skin
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f241ad504040d257da6f0b55799a26b2/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine prompt: Ultra-realistic cinematic fantasy portrait of a royal woman">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3025)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2041742931405533534) | **Published:** Apr 8, 2026
+
+---
+### Grok Imagine prompt for a nighttime lake scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A descriptive Grok Imagine prompt for a video showing a nighttime scene with a full moon, a lake framed by pine trees, and a lotus flower gently bobbing on the water ripples reflecting the moon.
+
+#### 📝 Prompt
+
+```
+Nighttime full moon,
+Lake framed by pine trees,
+Lotus flower gently bobbing on ripples of the lake in the reflection of the full moon
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/85ecee249f7ad0c4d87c17ebcfccfb3c/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine prompt for a nighttime lake scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3022)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2041729144594297117) | **Published:** Apr 8, 2026
+
+---
+### Grok Imagine prompt: Animate a cinematic space scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt instructing Grok Imagine to animate a specific still image—a silhouette of a person in a spacecraft looking at Earth—into a smooth, 12-second cinematic video with panning and orbiting motion.
+
+#### 📝 Prompt
+
+```
+Animate this exact image into a smooth 12-second cinematic video. Start with the original still: silhouette of a person inside a spacecraft looking out the large window at Earth. Slowly pan and orbit so Earth realistically passes by the window (conti...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cc23483f883f59dbc6cde94c2a603e4a/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine prompt: Animate a cinematic space scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3011)**
+
+**Author:** [bluelittledigital](https://x.com/FreeSpeechElite) | **Source:** [Link](https://x.com/FreeSpeechElite/status/2041675607105298723) | **Published:** Apr 8, 2026
+
+---
 ### Highly detailed 3D Art Deco embroidery of an elegant young woman and a white fox
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1713,447 +2174,6 @@ An animated image of Jesus Christ risen from the tomb, standing in divine light 
 **Author:** [Sarahy Calderon](https://x.com/Shaiicalpineda) | **Source:** [Link](https://x.com/Shaiicalpineda/status/2040666091379384344) | **Published:** Apr 5, 2026
 
 ---
-### Grok Imagine Prompt: Dynamic cinematic close-up of xAI engineering team
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed, complex Grok Imagine prompt designed to test composition and realism, requesting a dynamic cinematic close-up of a diverse xAI engineering team in a futuristic lab with specific lighting, focus, and technical details like holographic interfaces and neural network diagrams.
-
-#### 📝 Prompt
-
-```
-Dynamic cinematic close-up of a diverse xAI engineering team in a sleek futuristic lab at golden hour, one female engineer in foreground excitedly pointing with detailed hands at a glowing holographic Grok interface floating in mid-air, another engineer in mid-ground smiling with expressive face while adjusting a neural network diagram on a transparent screen, volumetric golden sunlight rays dramatically cutting through the room with god rays and lens flare, ultra-detailed faces with realistic skin texture and eye contact, intricate hand gestures, depth of field, epic sci-fi atmosphere, masterpiece, 8k
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2f4ea84eca807f99e14a19c0372204ee/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine Prompt: Dynamic cinematic close-up of xAI engineering team">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2800)**
-
-**Author:** [MichiganMindMendink.](https://x.com/p_perrien) | **Source:** [Link](https://x.com/p_perrien/status/2040664368682094825) | **Published:** Apr 5, 2026
-
----
-### Grok Imagine Prompt: Hyper-realistic Archangel Gabriel
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed Grok Imagine prompt requesting a hyper-realistic, cinematic depiction of the archangel Gabriel, specifying an ethereal, androgynous yet masculine-leaning form with a serene and youthful face.
-
-#### 📝 Prompt
-
-```
-A hyper-realistic, cinematic depiction of the archangel Gabriel as described in Abrahamic traditions. Gabriel appears as a radiant, androgynous yet masculine-leaning celestial being with an ethereal, human-like form. His face is serene, and youthful.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4e1f0d132cf91dbf7e3652b4e496139c/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine Prompt: Hyper-realistic Archangel Gabriel">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2801)**
-
-**Author:** [Sarahy Calderon](https://x.com/Shaiicalpineda) | **Source:** [Link](https://x.com/Shaiicalpineda/status/2040628832932339857) | **Published:** Apr 5, 2026
-
----
-### Grok Imagine Prompt: Cinematic 5-second 4K video of a demonic warrior swinging a scythe
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed, technical prompt for Grok Imagine requesting a 5-second 4K cinematic video of a massive demonic warrior in ornate armor. The prompt specifies the armor details, setting (rainy rooftop, futuristic city), dynamic action sequence (swinging a scythe, sparks, water splash), camera movement, and visual style (photorealistic fantasy, cinematic lighting).
-
-#### 📝 Prompt
-
-```
-A highly cinematic 5-second 4K video of a massive demonic warrior in ornate, battle-worn silver, red, and gold armor with sharp spikes, glowing red accents, and a long segmented dragon-like tail. He wears a menacing horned helmet with glowing eyes, flowing white and red tattered fabric from his waist, and golden greaves.
-He stands powerfully on a wet, reflective stone rooftop during a heavy rainstorm at dusk, with a dramatic futuristic city skyline glowing in the background under dark stormy clouds. Rain is visibly pouring down.
-Sequence of dynamic action (smooth, epic, slow-motion cinematic style with dramatic camera movement):
-Starts in a wide heroic stance, massive crescent-shaped scythe weapon (intricate spiked blade with glowing orange energy) resting on the wet ground, sparks flying.
-He dramatically swings the huge scythe upward in a powerful arc, sparks and water droplets exploding everywhere.
-Raises the weapon high above his head with both hands, then slams it down into the rooftop, creating a massive burst of bright orange sparks and water splash.
-Follows with a second powerful swing and final powerful pose, weapon raised high, tail whipping, rain glistening on the armor, intense sparks flying from every impact.
-Photorealistic fantasy style, ultra-detailed armor textures, cinematic lighting with rim lights and volumetric god rays through rain, moody dark atmosphere, intense motion, sparks and water physics, epic boss-fight energy, no text, no logos, 5-second loopable sequence, 24fps, dramatic low-angle and dynamic tracking shots.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/219c2dae1763a955f29e463db708f05a/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine Prompt: Cinematic 5-second 4K video of a demonic warrior swinging a scythe">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2802)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2040594731202490696) | **Published:** Apr 5, 2026
-
----
-### Kvothe on a Windswept Overlook Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed, descriptive prompt for Grok Imagine generating a majestic, high-elevation scene featuring the character Kvothe from 'The Name of the Wind' wearing his shaed cloak at dusk.
-
-#### 📝 Prompt
-
-```
-A majestic high-elevation scene like the view from the biggest falcon or hawk soaring at great height: Kvothe standing powerfully on a windswept rocky overlook at dusk, wearing his flowing shaed shadow cloak of woven darkness, moonlight, and fireligh...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9c72282ddbf33dfc8ca4719a868289e5/thumbnails/thumbnail.jpg" width="600" alt="Kvothe on a Windswept Overlook Video Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2716)**
-
-**Author:** [y](https://x.com/Yoyoyi023581321) | **Source:** [Link](https://x.com/Yoyoyi023581321/status/2040562371836670023) | **Published:** Apr 4, 2026
-
----
-### Happy Easter Sunrise Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A grok-imagine video prompt for generating a joyful Easter scene featuring a bright sunrise over a peaceful landscape, vibrant spring flowers, and a glowing cross illuminated by golden light, symbolizing resurrection and hope, creating a festive atmosphere.
-
-#### 📝 Prompt
-
-```
-Happy Easter! Christ has Risen. He has risen indeed! A joyful Easter scene with a bright sunrise over a peaceful landscape, vibrant spring flowers blooming, a glowing cross illuminated by golden light, symbolizing resurrection and hope, festive atmos...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2688fd4c6fea5bd83456946b6ab3c18f/thumbnails/thumbnail.jpg" width="600" alt="Happy Easter Sunrise Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2712)**
-
-**Author:** [Lisa Jmes](https://x.com/JmesLisa65488) | **Source:** [Link](https://x.com/JmesLisa65488/status/2040554876854526187) | **Published:** Apr 4, 2026
-
----
-### Discussion on AI as a 'factory for worlds'
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A user discusses the power of AI, specifically mentioning generating a 'full-scale anime apocalypse' trailer-grade visual with a single prompt, implying Grok Imagine's video generation capability.
-
-#### 📝 Prompt
-
-```
-One prompt.
-
-Full-scale anime apocalypse.
-
-Trailer-grade visuals.
-
-Zero waiting.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/aa93130508a7b8737d835cc8698391ea/thumbnails/thumbnail.jpg" width="600" alt="Discussion on AI as a 'factory for worlds'">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2718)**
-
-**Author:** [Bitcoin Wealth](https://x.com/BitcoinWealth) | **Source:** [Link](https://x.com/BitcoinWealth/status/2040552249815183829) | **Published:** Apr 4, 2026
-
----
-### Two silver dragons in moonlight serenade
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for Grok Imagine (video generation) describing two silver dragons with ice blue eyes showing affection and moving harmonically, tightly entwined in the moonlight.
-
-#### 📝 Prompt
-
-```
-Two silver dragons with ice blue eyes their inner affection, caresses togetherness in harmony with harmonic movements of their affection tightly entwound in the light of the moonlight, united in the moonlight serenade.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cd5fc239a420366fc79af9bb04b1f793/thumbnails/thumbnail.jpg" width="600" alt="Two silver dragons in moonlight serenade">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2695)**
-
-**Author:** [Bettina Krischbin](https://x.com/krischbin) | **Source:** [Link](https://x.com/krischbin/status/2040545664845726197) | **Published:** Apr 4, 2026
-
----
-### Starship Launch Video with Hanging Perspective
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for Grok Imagine to generate a video showing a Starship launch from a unique, high-angle perspective, where the viewer is depicted as hanging from the rocket, opening a beer as the rocket ascends.
-
-#### 📝 Prompt
-
-```
-Make a video of Starship taking off from a superior angle and I am hanging from the rocket. The camera approaches me and I open a beer while the rocket continues to ascend.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/437ad8432f07e95eb4336cc043b02553/thumbnails/thumbnail.jpg" width="600" alt="Starship Launch Video with Hanging Perspective">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2722)**
-
-**Author:** [Fran Perez](https://x.com/franperez_co) | **Source:** [Link](https://x.com/franperez_co/status/2040513284961456289) | **Published:** Apr 4, 2026
-
----
-### Umbrella Blown Away and Camera Pan Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for Grok Imagine describing a scene where a character loses her umbrella to the wind, lies on the grass, and the camera pans away and up.
-
-#### 📝 Prompt
-
-```
-she lets her umbrella get blown away by the wind, she lays on the grass, the camera pans up and away
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b107bc519bf5564e8c0987429730f910/thumbnails/thumbnail.jpg" width="600" alt="Umbrella Blown Away and Camera Pan Video Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2709)**
-
-**Author:** [Yen Noelle](https://x.com/yen74056616) | **Source:** [Link](https://x.com/yen74056616/status/2040509561061441773) | **Published:** Apr 4, 2026
-
----
-### Lady Thistlewaite Tinklewink Tea Party
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A humorous, detailed prompt for Grok Imagine describing an eccentric aristocrat, Lady Thistlewaite Tinklewink, hosting a 'Mischief Potion' tea party in a sunlit garden.
-
-#### 📝 Prompt
-
-```
-Lady Thistlewaite Tinklewink (make a sign on the left side with her name). A delightfully mischievous older aristocrat with sparkling eyes full of trouble. She’s standing in the middle of a sunlit garden during one of her famous ‘Mischief Potion’ tea parties.
-
-She wears an extravagant, slightly lopsided pastel gown covered in tiny embroidered butterflies and teacups. Her hair is a wild pile of silver curls topped with a comically oversized hat that has a teapot perched on it (with steam gently rising). In one hand she holds a delicate china teacup; in the other, a silver spoon she’s using to stir what she calls her ‘special mischief blend.’
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cc6ecdbc6033aadb49efb0c6d50feab6/thumbnails/thumbnail.jpg" width="600" alt="Lady Thistlewaite Tinklewink Tea Party">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2703)**
-
-**Author:** [Carina](https://x.com/Freehere3) | **Source:** [Link](https://x.com/Freehere3/status/2040507995717828969) | **Published:** Apr 4, 2026
-
----
-### Nighttime Skiing with Australian Shepherd and Bunny Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for Grok Imagine describing a nighttime skiing scene with zigzag carving motion, disco and neon lights, featuring an Australian Shepherd dog and a white bunny.
-
-#### 📝 Prompt
-
-```
-Skiing in a zigzag carving motion. And there is a disco lights at nighttime and neon lights EVERYWHERE plus there is a Australian shepherd dog that is half brown and half white who is skiing with his friend and there is a bunny that is white with bla...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fd843056ad216776963a2759cbf494a5/thumbnails/thumbnail.jpg" width="600" alt="Nighttime Skiing with Australian Shepherd and Bunny Video Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2711)**
-
-**Author:** [VJai](https://x.com/crm_vicky) | **Source:** [Link](https://x.com/crm_vicky/status/2040487587681345600) | **Published:** Apr 4, 2026
-
----
-### Grok Imagine prompt about Lucy the Goddess
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A Grok Imagine video generation prompt describing a character named Lucy, who identifies as a goddess and God's creation, emphasizing her connection to the divine.
-
-#### 📝 Prompt
-
-```
-Hi, my name is Lucy means like to the world. I’m a goddess. I’m God’s creation. God is my father. I’m a part of him....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/73703fad465247918419d273a7b18dfe/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine prompt about Lucy the Goddess">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2706)**
-
-**Author:** [LUCYELBERG🇺🇸](https://x.com/Lucyelberg7p) | **Source:** [Link](https://x.com/Lucyelberg7p/status/2040480227285926356) | **Published:** Apr 4, 2026
-
----
-### Woman in a dragon's nest, paper-cut collage art style
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed, stylized prompt for Grok Imagine describing a close-up shot of a young woman in a dragon's nest, rendered in a paper-cut collage art style influenced by Yoshitaka Amano, with sci-fi emotional expression and neon lighting.
-
-#### 📝 Prompt
-
-```
-A beautiful young woman in close-up special shot, wearing simple slippers and a thick chain necklace, standing in a dragon's nest scene, paper-cut collage art style with Yoshitaka Amano influence, sci-fi emotional expression, neon light illumination,...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c7b3c465917dcb1516ed707d6e114e70/thumbnails/thumbnail.jpg" width="600" alt="Woman in a dragon's nest, paper-cut collage art style">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2700)**
-
-**Author:** [Blinkoo](https://x.com/HNicotine1233) | **Source:** [Link](https://x.com/HNicotine1233/status/2040469239866482844) | **Published:** Apr 4, 2026
-
----
-### Detailed Grok Imagine Prompt for Selfie POV Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed prompt for Grok Imagine that specifies real-world physics simulation, lens type (GoPro fisheye), perspective (selfie POV), and framing (half body) to ensure accurate composition and visual effects.
-
-#### 📝 Prompt
-
-```
-GoPro fisheye tells the model exactly which lens type to simulate. 
-And since the selfie POV and half body framing are explicitly defined, it won't get confused about composition.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9cf21025677d6c96ffb2738d1b1ffe56/thumbnails/thumbnail.jpg" width="600" alt="Detailed Grok Imagine Prompt for Selfie POV Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2717)**
-
-**Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2040454636101075084) | **Published:** Apr 4, 2026
-
----
-### Easter Bunnies Falling Through a Portal
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A fantasy prompt for Grok Imagine describing two Easter bunnies digging a hole through sand and falling through a portal into a land of evil, fire, and volcanoes.
-
-#### 📝 Prompt
-
-```
-Two easter bunnies digging a hole through sand to fall through a portal into a land of evil and fire and volcanoes
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d2476bd11c47218e4712d7b427db2b9b/thumbnails/thumbnail.jpg" width="600" alt="Easter Bunnies Falling Through a Portal">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2694)**
-
-**Author:** [Deandawiz](https://x.com/Deandawiz) | **Source:** [Link](https://x.com/Deandawiz/status/2040447894155616533) | **Published:** Apr 4, 2026
-
----
-### Hyperrealistic Cosmic-Mechanical Celestial Being
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed, complex prompt for Grok Imagine 1.0, designed to generate a hyperrealistic cinematic dark fantasy video of a colossal cosmic-mechanical celestial being floating in deep space.
-
-#### 📝 Prompt
-
-```
-Hyperrealistic cinematic dark fantasy full-body portrait of a colossal cosmic-mechanical celestial being floating majestically in deep space. The figure is clad in intricate white and deep purple crystalline mechanical armor with gold accents and glowing circuits. It has a smooth helmet with a dark galaxy nebula visor filled with stars.
-
-Its most striking features are the pair of enormous majestic wings constructed from shattered glowing white-blue crystalline and metallic plates, dramatically spreading outward with intense light bursting through the cracks; a complex orbital energy structure consisting of multiple glowing blue spheres connected by lines of light floats above its head like a celestial crown; and a powerful swirling galaxy vortex in shades of purple and blue dominates its torso.
-
-Long flowing purple cosmic energy tendrils stream dynamically from its body. One arm is raised high, hand glowing with energy. Intense volumetric white-blue god rays, countless sparkling particles, and stars fill the cosmic void background. Subtle dark ethereal mist weaves through the energy, creating an ancient ominous forbidden celestial dark fantasy aura of mysterious cosmic power. Ultra photorealistic metallic reflections, crystalline textures, hyper-detailed realistic light and energy simulation, masterpiece, 8k resolution, best quality
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/26e175c5efa4bf9b113021b3c2248436/thumbnails/thumbnail.jpg" width="600" alt="Hyperrealistic Cosmic-Mechanical Celestial Being">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2702)**
-
-**Author:** [N0v4Ph4n](https://x.com/N0v4ph4n) | **Source:** [Link](https://x.com/N0v4ph4n/status/2040440934945759428) | **Published:** Apr 4, 2026
-
----
-### Hyper-Realistic Glass Box with Ocean Waves
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for Grok Imagine describing a vertical, transparent glass box filled with ocean waves, lying on the sea surface, rendered with hyper-realistic photography and cinematic quality using Octane Render.
-
-#### 📝 Prompt
-
-```
-a vertical transparent glass box filled with ocean waves lying on the surface of sea, hyper-realistic photography, the scene is rendered in hyper-realistic detail using octane render with a cinematic quality
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/db2eec2786381ddd780719149ee2171d/thumbnails/thumbnail.jpg" width="600" alt="Hyper-Realistic Glass Box with Ocean Waves">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2692)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2040439749211537780) | **Published:** Apr 4, 2026
-
----
-### Grok Imagine prompt: Flying staplers hit by lightning
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A Grok Imagine prompt requesting an image (or video) of two flying staplers, one red and one blue, flying up next to the sun and then being hit by lightning.
-
-#### 📝 Prompt
-
-```
-Create an image of flying stapler one is red one is blue. They’re flying up next to the sun and then they get hit by lightning....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8f0dbf4f8bba87e611e2bf9ef3789812/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine prompt: Flying staplers hit by lightning">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2708)**
-
-**Author:** [Garage Idol](https://x.com/GarageIdol) | **Source:** [Link](https://x.com/GarageIdol/status/2040435198681321506) | **Published:** Apr 4, 2026
-
----
-### Beautiful Cat-Like Woman in Town Square
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A descriptive prompt for Grok Imagine requesting a video of a beautiful woman with subtle feline features, wearing a pearl-white slip dress, standing freely in a small town square at night, embodying liberation.
-
-#### 📝 Prompt
-
-```
-A beautiful woman with cat-like features (cat ears, subtle feline facial structure, graceful cat tail), wearing a delicate pearl-white slip dress and a delicate bracelet on her wrist, standing freely in a small town square at night, embodying liberat...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/34fccfd20fc7df701c8b3d4c3eaa6622/thumbnails/thumbnail.jpg" width="600" alt="Beautiful Cat-Like Woman in Town Square">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2705)**
-
-**Author:** [Blinkoo](https://x.com/HNicotine1233) | **Source:** [Link](https://x.com/HNicotine1233/status/2040428647027503109) | **Published:** Apr 4, 2026
-
----
-### Surreal Easter egg bomb exploding with a rabbit emerging
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed, cinematic prompt for Grok Imagine describing a two-part surreal video: first, a colorful Easter egg bomb exploding dramatically, and second, a cute white rabbit emerging from the explosion, waving and saying 'Felices Pascuas'.
-
-#### 📝 Prompt
-
-```
-A surreal 6-second video in cinematic style.
-Seconds 1-3: A highly detailed surreal photograph of a colorful Easter egg bomb exploding dramatically against a completely dark background, vibrant colors, flying shell fragments, sparks and smoke, epic composition, 8K quality.
-Seconds 4-6: From inside the exploding Easter egg emerges a cute white rabbit wearing a red vest, holding a basket full of chocolate Easter eggs. The rabbit waves happily with one paw and says 'Felices Pascuas' in a speech bubble. Warm lighting, whimsical and joyful atmosphere, smooth animation transition.
-Ultra realistic details, vibrant colors, cinematic lighting, 8K quality, highly detailed, surreal and magical style.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bc443242fcf61252d885b91e806c503f/thumbnails/thumbnail.jpg" width="600" alt="Surreal Easter egg bomb exploding with a rabbit emerging">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2698)**
-
-**Author:** [MYS AI](https://x.com/mys1111) | **Source:** [Link](https://x.com/mys1111/status/2040426898568704036) | **Published:** Apr 4, 2026
-
----
-### Grok Imagine prompt: Subterranean advanced civilizations
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A Grok Imagine prompt requesting a UHD realistic depiction of ancient subterranean advanced civilizations from before the world's flood, based on coherent accounts of pre-flood subterranean housing.
-
-#### 📝 Prompt
-
-```
-UHD realistic depiction of ancient subterranean advanced civilizations from before the world's flood, strictly according to the most coherent conglomerated accounts of pre-flood subterranean housing, where all entities that survived the flood and sti...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e8e67983cb999702c0d1d6b030679c3/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine prompt: Subterranean advanced civilizations">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2710)**
-
-**Author:** [PARKSCorporation](https://x.com/GARIworldwide) | **Source:** [Link](https://x.com/GARIworldwide/status/2040425104107311248) | **Published:** Apr 4, 2026
-
----
-### Grok Imagine prompt: Three crosses at Gethsemane
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A Grok Imagine prompt requesting a scene of three crosses at Gethsemane, with the center cross featuring a long white cloth being windblown by a soft breeze.
-
-#### 📝 Prompt
-
-```
-Three crosses at Gethsemane. The center cross has a long white cloth being windblown by a soft breeze.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0503add31bea9d7782456e065887cbc9/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine prompt: Three crosses at Gethsemane">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2707)**
-
-**Author:** [LiveHumble&Kind](https://x.com/LivehumbleKind) | **Source:** [Link](https://x.com/LivehumbleKind/status/2040424702188114222) | **Published:** Apr 4, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2215,6 +2235,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-09T05:52:45.084Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-09T09:19:49.012Z</sub>
 
 </div>
