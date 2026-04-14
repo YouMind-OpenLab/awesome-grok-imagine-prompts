@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **1077** |
+| 📝 총 프롬프트 수 | **1093** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-04-14** |
 
@@ -189,6 +189,318 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 종이 조각으로 만든 숲의 여왕
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 가을 잎으로 장식되고 숲속 성당을 배경으로 새들에 둘러싸인 종이 조각 여왕의 시네마틱 영상을 생성하기 위한 매우 상세한 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+긴 적갈색 웨이브 머리를 하고 가을 잎, 나뭇가지, 따뜻한 색감의 천으로 만든 레이어드 드레스를 입은 초정밀 종이 조각 숲의 여왕, 새들과 떨어지는 낙엽에 둘러싸여 있으며 뒤편에는 숲속 성당의 아치가 보임, 황금빛 오렌지색 조명, 아늑하고 시네마틱한 분위기, 극도로 상세한 질감, 8k.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e4c671c8151ebce27ea0bc6e170db0d9/thumbnails/thumbnail.jpg" width="600" alt="종이 조각으로 만든 숲의 여왕">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3113)**
+
+**작성자:** [SPACELESS](https://x.com/VOLDEMORT2X) | **출처:** [Link](https://x.com/VOLDEMORT2X/status/2043893263761817692) | **게시일:** Apr 14, 2026
+
+---
+### 고딕 페이퍼 컷 퀸 비디오 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine을 사용하여 복잡한 페이퍼 컷 스타일과 분위기 있는 조명을 갖춘 고딕 퀸 영상을 제작하기 위한 고해상도 비주얼 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+매우 정교한 페이퍼 컷 스타일의 고딕 퀸, 길고 짙은 검은색 생머리에 은은한 진홍색 하이라이트, 날카로운 바로크 양식의 갑옷 디테일이 가득한 어두운 레이어드 벨벳 스타일 드레스 착용, 짙은 붉은 장미와 검은 까마귀들에 둘러싸인 모습, 촛불이 장면을 비추고 뒤편에는 고딕 양식의 성당 아치가 보임, 드라마틱한 그림자, 분위기 있는 시네마틱 조명, 초정밀 텍스처, 8k.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/04bd64c8a2ddaf096f0d0cd2e1f5d442/thumbnails/thumbnail.jpg" width="600" alt="고딕 페이퍼 컷 퀸 비디오 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3117)**
+
+**작성자:** [SPACELESS](https://x.com/VOLDEMORT2X) | **출처:** [Link](https://x.com/VOLDEMORT2X/status/2043855491147714952) | **게시일:** Apr 14, 2026
+
+---
+### 페이퍼 아트 태양의 여신 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 황금 사원에 있는 태양의 여신을 페이퍼 아트 스타일로 구현한 시네마틱 영상 제작을 위한 고도로 상세한 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+황금빛 사막 사원에 서 있는 초정밀 페이퍼 아트 스타일의 태양의 여신, 햇살처럼 빛나는 길고 불타는 듯한 주황색 웨이브 머리카락, 모래색 실크로 만든 레이어드 드레스, 금 장식과 태양 모양의 조각, 만개한 사막 꽃과 빛나는 새들에 둘러싸인 모습, 따뜻한 골든 아워 조명, 대칭적 구도, 드라마틱한 그림자, 8k 시네마틱 걸작.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/38c1c29b79fdd5caeb2a582848f9282d/thumbnails/thumbnail.jpg" width="600" alt="페이퍼 아트 태양의 여신 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3114)**
+
+**작성자:** [SPACELESS](https://x.com/VOLDEMORT2X) | **출처:** [Link](https://x.com/VOLDEMORT2X/status/2043850316240638383) | **게시일:** Apr 14, 2026
+
+---
+### 에테르 같은 살아있는 예술 작품의 세공
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 성운을 가로질러 살아있는 예술 작품으로 변하는 복잡하고 빛나는 세공 영상을 생성하기 위한 매우 상세하고 시적인 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+모든 번개가 복잡하고 빛나는 세공으로 변하여, 광활한 성운과 먼 은하 팔을 가로질러 천상의 태피스트리처럼 소용돌이치고 피어나는 에테르 같은 살아있는 예술 작품을 형성합니다
+```
+
+<img src="https://cms-assets.youmind.com/media/1776154428644_i85waa_HF0cUw-XoAAM_g2.jpg" width="600" alt="에테르 같은 살아있는 예술 작품의 세공">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3116)**
+
+**작성자:** [the flash ⚡️](https://x.com/winearther) | **출처:** [Link](https://x.com/winearther/status/2043821007417307335) | **게시일:** Apr 13, 2026
+
+---
+### 우주 서핑 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 우주적인 빛과 생동감 넘치는 색상으로 이루어진 파도 위에서 서핑하는 사람을 담은 초현실적인 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+우주적인 빛과 색상으로 이루어진 파도 위에서 서핑하는 사람의 초현실적인 샷입니다. 서퍼가 파도를 가르며 나아갈 때 물보라가 카메라 렌즈에 튑니다.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2205b6eee0c46df35756516539292eaa/thumbnails/thumbnail.jpg" width="600" alt="우주 서핑 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3105)**
+
+**작성자:** [SWIFT](https://x.com/Swift_Pilot) | **출처:** [Link](https://x.com/Swift_Pilot/status/2043810583363936567) | **게시일:** Apr 13, 2026
+
+---
+### 초현실적인 빛의 사인파 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 지면에 닿으면 꽃과 나비로 변하는 다채로운 사인파를 특징으로 하는 초현실적인 영상용 설명 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+하늘을 가로질러 부드러운 빛의 강물처럼 흐르는 은은하고 다채로운 사인파. 이 파동은 반짝이는 파스텔 톤(핑크, 블루, 골드)으로 이루어져 있습니다. 천천히 움직이는 파동이 지면에 닿으면 작은 꽃이나 나비로 변하며 물결을 일으킵니다.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eec0af037beba6a7c5e19fedc65870b9/thumbnails/thumbnail.jpg" width="600" alt="초현실적인 빛의 사인파 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3108)**
+
+**작성자:** [Carina](https://x.com/Freehere3) | **출처:** [Link](https://x.com/Freehere3/status/2043795869435322720) | **게시일:** Apr 13, 2026
+
+---
+### 1950년대 스타일의 해변 연날리기
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 1950년대 스타일의 해변에서 연을 날리는 커플의 모습을 담은 상세한 시네마틱 프롬프트로, 특정 조명과 움직임에 대한 세부 묘사가 포함되어 있습니다.
+
+#### 📝 프롬프트
+
+```
+해변에서 연을 날리는 남녀 
+화면 한쪽에 1950년대 스타일의 알록달록한 비치 파라솔 
+두 사람 모두 맨발이며, 여성의 머리카락이 바람에 부드럽게 흩날림
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0a14b0f8c8c48e7a004f0fef9d75a14b/thumbnails/thumbnail.jpg" width="600" alt="1950년대 스타일의 해변 연날리기">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3112)**
+
+**작성자:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **출처:** [Link](https://x.com/HawkinsonLindy/status/2043781527780401271) | **게시일:** Apr 13, 2026
+
+---
+### 1950 년대 돌고래가 있는 해변 풍경
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 파라솔, 뛰어오르는 돌고래, 등대가 어우러진 빈티지 스타일의 해변 영상 생성용 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+바닷가 해변 
+1950 년대 스타일의 다채로운 해변 파라솔 
+바다에서 뛰어오르는 돌고래 
+배경에 보이는 등대
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/580154bad64b389ab402afa512cf9c82/thumbnails/thumbnail.jpg" width="600" alt="1950 년대 돌고래가 있는 해변 풍경">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3109)**
+
+**작성자:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **출처:** [Link](https://x.com/HawkinsonLindy/status/2043776446347522332) | **게시일:** Apr 13, 2026
+
+---
+### 크롭 서클을 걷는 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 크롭 서클이 있는 들판으로 들어가는 한 청년의 여정과 하늘을 바라보는 그의 반응을 묘사한 내러티브 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+검은색 트레이닝복을 입은 한 청년이 오솔길을 따라 걷다가 길이 오른쪽으로 꺾이자 크롭 서클이 있는 들판으로 들어가기로 결심합니다. 그는 들판 한가운데에 서서 두 팔을 벌린 채 하늘을 올려다봅니다.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b10131193f100c4cdf3db36985314118/thumbnails/thumbnail.jpg" width="600" alt="크롭 서클을 걷는 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3102)**
+
+**작성자:** [Make Britain Great Again](https://x.com/DragonFlam7530) | **출처:** [Link](https://x.com/DragonFlam7530/status/2043746838201663561) | **게시일:** Apr 13, 2026
+
+---
+### 지능의 발현 시각화
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 꿈과 같은 미로 속에서 지능이 발현되는 과정을 시각화하기 위한 초현실적이고 개념적인 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+중심 인물이 변화하는 미로 같은 구조물을 탐색하며 지능의 발현을 상징하는 초현실적이고 꿈같은 장면입니다.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/47397b5d48003c03720cb13035611410/thumbnails/thumbnail.jpg" width="600" alt="지능의 발현 시각화">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3115)**
+
+**작성자:** [Elis Satu](https://x.com/astvatsaturn) | **출처:** [Link](https://x.com/astvatsaturn/status/2043697140598272034) | **게시일:** Apr 13, 2026
+
+---
+### 레스토랑 타임랩스 장면
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 레스토랑의 준비 과정부터 피크 타임까지의 변화를 고정된 카메라로 담아내는 Grok Imagine용 복잡한 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+SCENE LOCK: 동일한 삼각대 및 프레이밍, 카메라 움직임 없음
+STAGE: 사람들의 움직임과 고객 도착을 담은 타임랩스
+DETAILS: 접시와 그릇을 세팅하고 냄비를 제자리에 옮기는 직원들, 불을 켜는 모습, 단계별로 완성되는 요리, 도착하는 삼륜차 배달, 자리를 채우는 손님들, 준비 단계에서 피크 타임으로 변화하는 조명.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/28c4c45218b516e13f18c4073239d156/thumbnails/thumbnail.jpg" width="600" alt="레스토랑 타임랩스 장면">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3107)**
+
+**작성자:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **출처:** [Link](https://x.com/gpimpmyspace/status/2043666390104916231) | **게시일:** Apr 13, 2026
+
+---
+### 실내에서 실외로 이어지는 패닝 샷
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 실내에서 미소 짓는 여성의 얼굴을 비추다가 창밖의 교회 풍경으로 이어지는 상세한 카메라 무빙 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+방 안에서 미소 짓는 여성의 얼굴을 보여주며 빠르게 카메라를 이동해 창밖의 풍경과 교회를 비추는 카메라 무빙을 수행하세요.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7d2d2470b11f13a36f4d1866b869dccf/thumbnails/thumbnail.jpg" width="600" alt="실내에서 실외로 이어지는 패닝 샷">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3104)**
+
+**작성자:** [ahmed ibrahim](https://x.com/AhmedYasienibby) | **출처:** [Link](https://x.com/AhmedYasienibby/status/2043656270696071207) | **게시일:** Apr 13, 2026
+
+---
+### 고층 빌딩 드론 타임랩스
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 건설 노동자와 빠른 수직 상승을 포함한 영화 같은 드론 촬영 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+미완성 고층 빌딩 꼭대기의 노출된 콘크리트 슬래브 위에 서 있는 건설 노동자 뒤에서 시작되는 영화 같은 초현실적 드론 샷. 바람이 그를 스치며 거세게 불어 그의 헐렁한 재킷이 휘날립니다. 드론은 수직으로 구름 속까지 빠르게 상승하며, 현기증을 유발하는 타임랩스를 통해 아래로 펼쳐진 거대한 도시의 규모를 보여줍니다.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2491608c4a24b3778c1e802fc17820fe/thumbnails/thumbnail.jpg" width="600" alt="고층 빌딩 드론 타임랩스">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3106)**
+
+**작성자:** [NightCafeDave](https://x.com/NightCafeDc6zp) | **출처:** [Link](https://x.com/NightCafeDc6zp/status/2043620697952677917) | **게시일:** Apr 13, 2026
+
+---
+### 밤하늘과 소나무 애니메이션
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 별을 밝게 하고 미세한 구름과 나무를 추가하여 장면을 애니메이션화하는 이미지-투-비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+별을 더 밝게 만들고 , 작고 얇은 구름 몇 개와 사진 가장자리에 소나무를 추가해 줘
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c415e5dbdfbb26dd4dc187c6209a5eb4/thumbnails/thumbnail.jpg" width="600" alt="밤하늘과 소나무 애니메이션">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3103)**
+
+**작성자:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **출처:** [Link](https://x.com/HawkinsonLindy/status/2043618681872437712) | **게시일:** Apr 13, 2026
+
+---
+### 미래형 물 배달선 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 비행하는 물 운반선과 자동화된 가정용 배달을 포함한 SF 장면을 위한 매우 구체적인 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+저수지 옆의 물 공급 업체에서 사용하는 비행 물 배달선이 집 앞에 착륙하는 모습을 보여주세요. 조종사가 비행선에서 걸어 나와 집 앞의 빛나는 파란색 급수 소켓에 연결한 뒤, 집의 물탱크를 채우기 시작하는 장면을 연출해 주세요. 
+물.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2f58f03f38df737653324ae34fc57e32/thumbnails/thumbnail.jpg" width="600" alt="미래형 물 배달선 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3111)**
+
+**작성자:** [Luke Clayden](https://x.com/clayden5_luke) | **출처:** [Link](https://x.com/clayden5_luke/status/2043617130164240594) | **게시일:** Apr 13, 2026
+
+---
+### 고질라 vs 메카질라 전투
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 고층 빌딩이 가득한 도시에서 고질라와 메카질라가 격돌하는 액션 넘치는 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+고질라가 고층 빌딩 사이를 뛰어다니며 메카질라와 격투를 벌이고, 고층 빌딩을 무너뜨리고 자동차를 짓밟는 모습
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/78ae1b35b724d642a96383a50183abd9/thumbnails/thumbnail.jpg" width="600" alt="고질라 vs 메카질라 전투">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3110)**
+
+**작성자:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **출처:** [Link](https://x.com/HawkinsonLindy/status/2043521136215089322) | **게시일:** Apr 13, 2026
+
+---
 ### Grok Imagine용 기묘한 기계를 만지는 소년 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1861,317 +2173,6 @@ Show me a film still never seen before brand new shot on ARRI Alexa, hyper reali
 **작성자:** [丸山真 Makoto Maruyama](https://x.com/maruyama793) | **출처:** [Link](https://x.com/maruyama793/status/2040839719710605411) | **게시일:** Apr 5, 2026
 
 ---
-### Grok Imagine 프롬프트: 예루살렘 지도 확대 및 변환
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 예루살렘 지도를 확대했다가 축소하고, 컬러로 변환하며, 겟세마네 동산으로 화면을 이동하여 예수님이 기도하는 모습을 사실적인 스타일로 묘사하는 상세한 Grok Imagine 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-이 예루살렘 지도를 축소했다가 다시 확대해 주세요. 확대되는 과정에서 지도를 컬러로 변환하고, 예수님이 기도하시던 겟세마네 동산으로 화면을 이동해 주세요 🙏 
-사실적인 스타일로 묘사하고 예수님의 모습을 포함해 주세요
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f68b9571a14305d5c7542fa8b5aa3b00/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine 프롬프트: 예루살렘 지도 확대 및 변환">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2799)**
-
-**작성자:** [Lisa Jmes](https://x.com/JmesLisa65488) | **출처:** [Link](https://x.com/JmesLisa65488/status/2040815951961325634) | **게시일:** Apr 5, 2026
-
----
-### 발코니에 있는 신비로운 여인 비디오 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine을 사용하여 다채로운 꽃으로 가득 찬 정원을 내려다보는 발코니에서 커피를 즐기는 아름답고 신비로운 여인의 비디오 클립을 생성하기 위한 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-다채로운 꽃으로 둘러싸인 정원을 바라보며 발코니에서 커피를 마시는 신비롭고 아름다운 마른 체형의 여인
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fb64f3790a189de0a3ee8402994980a8/thumbnails/thumbnail.jpg" width="600" alt="발코니에 있는 신비로운 여인 비디오 프롬프트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2788)**
-
-**작성자:** [Leinona Aoki](https://x.com/LeinonaA69) | **출처:** [Link](https://x.com/LeinonaA69/status/2040814131012645075) | **게시일:** Apr 5, 2026
-
----
-### Grok Imagine 프롬프트 템플릿을 위한 SF 주제 예시
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 시네마틱 프롬프트 템플릿과 함께 사용할 수 있는 보너스 SF 주제 예시입니다. 미래형 농부와 옥수수 밭에 있는 거대한 기계들을 다루고 있으며, 영상 생성을 위한 주제입니다.
-
-#### 📝 프롬프트
-
-```
-거대한 옥수수 밭 위로 떠 있는 미래형 탈것을 탄 농부와 그 배경에 있는 다리가 긴 거대 기계들
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6bc3c6d83dd603f8420bb947210f609f/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine 프롬프트 템플릿을 위한 SF 주제 예시">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2805)**
-
-**작성자:** [Dogan Ural](https://x.com/doganuraldesign) | **출처:** [Link](https://x.com/doganuraldesign/status/2040808815361225174) | **게시일:** Apr 5, 2026
-
----
-### 자연을 수호하는 흑인 여성과 늑대
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 자연 속에서 동물과 나무를 지키는 흑인 여성과 그녀의 동료 늑대를 묘사한 Grok Imagine 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-자연의 동물과 나무를 수호하는 흑인 여성과 그녀의 동료 늑대
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/325d94859158c97d786fbf41cec25a04/thumbnails/thumbnail.jpg" width="600" alt="자연을 수호하는 흑인 여성과 늑대">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2787)**
-
-**작성자:** [Gretchen Fidler](https://x.com/GretchenFidler) | **출처:** [Link](https://x.com/GretchenFidler/status/2040805028001165337) | **게시일:** Apr 5, 2026
-
----
-### Grok Imagine 프롬프트: 하얀 꽃이 핀 나무를 향한 카메라 무빙
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 카메라 무빙을 지정하는 Grok Imagine 프롬프트로, 하얀 꽃이 핀 나무에 초점을 맞춘 상태에서 카메라가 뒤로, 그리고 약간 왼쪽으로 이동하며 나무 전체가 보일 때까지 촬영하도록 지시합니다.
-
-#### 📝 프롬프트
-
-```
-카메라가 하얀 꽃이 핀 나무를 계속 비추면서 뒤로, 그리고 약간 왼쪽으로 이동하여 나무 전체가 화면에 담기도록 함
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e80ea75e389962fd47972a8277318d97/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine 프롬프트: 하얀 꽃이 핀 나무를 향한 카메라 무빙">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2798)**
-
-**작성자:** [Master](https://x.com/DragonFlam7530) | **출처:** [Link](https://x.com/DragonFlam7530/status/2040804363120066695) | **게시일:** Apr 5, 2026
-
----
-### Grok Imagine 프롬프트: JSON 구조를 활용한 'Evil Eye' 캐릭터 애니메이션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 텍스트-투-비디오 생성을 위해 설계된 고도로 구조화된 Grok Imagine용 JSON 프롬프트입니다. 업로드된 이미지를 메인 캐릭터 레퍼런스로 사용하여 6초 분량의 9:16 비율 'Evil Eye' 캐릭터 애니메이션을 생성합니다. 이 프롬프트는 다크 판타지 스타일, 장면 설정, 캐릭터 일관성, 시각적 디자인 매개변수(눈 색상, 발광 강도), 카메라 움직임(익스트림 클로즈업, 느린 푸시인), 그리고 동작(불타는 듯한 오렌지색 광채, 동공 추적)에 대한 세부 정보를 포함합니다.
-
-#### 📝 프롬프트
-
-```
-{ "title": "Evil Eye 캐릭터 애니메이션", "type": "text_to_video", "duration": "6s", "aspect_ratio": "9:16", "reference_image": { "use_uploaded_image": true, "role": "메인 캐릭터 레퍼런스", "instruction": "업로드된 이미지를 캐릭터의 정체성, 얼굴 구조, 의상 및 전체적인 시각적 레퍼런스로 사용하십시오. 샷 전체에서 업로드된 이미지와 캐릭터의 일관성을 유지하십시오." }, "style": "다크 판타지, 초자연적, 영화적, 높은 대비, 신비로운 에너지", "scene": { "setting": "미묘한 보라색-검은색 안개와 빛나는 초자연적 분위기가 감도는 깊고 어두운 공허", "mood": "불길한, 잊혀지지 않는, 강력한, 신비로운" }, "character": { "description": "메인 캐릭터는 업로드된 이미지의 캐릭터이며, 초자연적인 Evil Eye에서 영감을 받은 존재로 변형됨", "consistency": "업로드된 캐릭터의 얼굴, 정체성, 비율 및 인식 가능한 세부 사항을 보존", "expression": "강렬한, 최면을 거는 듯한, 위협적인" }, "visual_design": { "eye_color": "#FF6F37", "background_color": "#060010", "glow_intensity": 0.35, "intensity": 1.5, "pupil_size": 0.6, "iris_width": 0.25, "scale": 0.8, "noise_scale": 1.0, "pupil_follow": 1.0, "flame_speed": 1.0 }, "camera": { "shot_type": "익스트림 클로즈업", "movement": "느린 영화적 푸시인", "focus": "눈과 캐릭터의 존재감에 초점을 맞춘 선명한 포커스", "lens": "매크로 시네마틱 렌즈" }, "motion": { "primary_action": "눈이 불타는 듯한 오렌지색 에너지와 유기적인 불꽃 같은 움직임으로 빛남", "secondary_action": "동공이 보이지 않는 존재를 미묘하게 추적함", "atmospheric_motion": "열 왜곡, 부드러운 에너지 파동, 초자연적 아지랑이" }, "lighting": { "source": "빛나는 눈이 주요 광원 역할을 함", "effect": "어둠 속에서 캐릭터를 비추는 지옥 같은 오렌지색 광채" }, "prompt": "업로드된 이미지를 메인 캐릭터 레퍼런스로 사용하십시오. 업로드된 이미지의 캐릭터가 Evil Eye에서 영감을 받은 영화적 장면 속 초자연적인 다크 판타지 존재로 나타납니다. 업로드된 이미지의 정확한 정체성, 얼굴 특징, 의상 세부 사항 및 시각적 일관성을 유지하십시오. 눈은 최면을 거는 듯한 검은색 동공과 그 안에서 유기적으로 움직이는 녹아내리는 불꽃 같은 질감과 함께 불타는 듯한 오렌지색 에너지로 빛납니다. 동공은 보이지 않는 힘을 미묘하게 따라가며 지각력이 있고 위협적인 느낌을 줍니다. 배경은 미묘한 안개, 열 왜곡 및 초자연적 분위기가 있는 깊은 보라색-검은색 공허입니다. 익스트림 클로즈업, 느린 영화적 푸시인, 다크 판타지 미학, 높은 대비 조명, 부드럽고 최면적인 움직임, 잊혀지지 않는 신비로운 분위기.", "negative_prompt": "다른 캐릭터, 변형된 얼굴, 추가된 눈, 중복된 얼굴, 흐릿한 세부 사항, 만화 스타일, 낮은 해상도, 평면적인 조명, 밝은 분위기, 바랜 색상, 텍스트, 워터마크, 로고" }
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a9f905f84b6ac6de5638529361647089/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine 프롬프트: JSON 구조를 활용한 'Evil Eye' 캐릭터 애니메이션">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2803)**
-
-**작성자:** [BMX](https://x.com/bmx_ai13) | **출처:** [Link](https://x.com/bmx_ai13/status/2040804236456550876) | **게시일:** Apr 5, 2026
-
----
-### Grok Imagine 프롬프트: 신비로운 우주 다이슨 스피어
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 거대한 다이슨 스피어가 등장하는 신비로운 우주 장면을 묘사한 고도로 상세한 Grok Imagine 프롬프트입니다. 영상 생성을 위해 조명, 분위기, 영화적 구도를 구체적으로 명시했습니다.
-
-#### 📝 프롬프트
-
-```
-신비로운 우주 장면: 끝없는 우주를 떠다니는 거대한 다이슨 스피어, 복잡한 구조와 압도적인 규모가 시선을 사로잡는다. 희미한 구름 사이로 퍼지는 부드러운 호박색 황금빛 조명, 은은한 빛과 깊은 그림자가 신비로운 분위기를 자아낸다. 깊이감이 느껴지는 레이어드 된 영화적 구도, 사색적이고 차분한 분위기, 그리고 시청자를 매료시키는 섬세한 필름 질감이 돋보인다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3bf23ab2a675b761ccc6a5d3efcc7657/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine 프롬프트: 신비로운 우주 다이슨 스피어">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2795)**
-
-**작성자:** [Alamgir Hossain](https://x.com/mdalamgir95) | **출처:** [Link](https://x.com/mdalamgir95/status/2040794498046013768) | **게시일:** Apr 5, 2026
-
----
-### 몽환적인 요정 시네마틱 비디오 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 은색 머리카락과 빛나는 드레스를 입고 거대한 투명 구체 안을 떠다니는 몽환적인 요정을 주인공으로, 10~12초 분량의 부드럽고 고품질 시네마틱 영상을 생성하기 위한 상세 프롬프트입니다. 이 프롬프트는 영상 생성을 위해 특별히 설계되었습니다.
-
-#### 📝 프롬프트
-
-```
-.이 장면을 부드럽고 고품질의 시네마틱 모션으로 애니메이션화하여 10~12초 분량의 영상으로 제작하세요: 별과 꽃으로 장식된 길고 흐르는 은색 머리카락을 가진 몽환적인 요정이 빛나는 연한 녹색과 흰색의 흐르는 드레스를 입고, 거대한 투명 구체 안을 우아하게 떠다니고 있습니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/246556b36f9e6ad7137469722f56ea6a/thumbnails/thumbnail.jpg" width="600" alt="몽환적인 요정 시네마틱 비디오 프롬프트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2804)**
-
-**작성자:** [Tina ✨](https://x.com/Tina22_2) | **출처:** [Link](https://x.com/Tina22_2/status/2040790327527661897) | **게시일:** Apr 5, 2026
-
----
-### Grok Imagine 프롬프트: 뒤틀리고 소용돌이치는 시간의 강을 거니는 거대한 신의 실루엣
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine을 위한 매우 상세하고 서사적인 SF 프롬프트입니다. 시간의 강을 걸어가는 거대한 신의 형상을 묘사하며, 보랏빛 시공간의 흐름, 우주적 블랙홀, 은하계를 특징으로 합니다. HDR과 정교한 조명을 강조하여 웅장한 구성을 완성합니다.
-
-#### 📝 프롬프트
-
-```
-뒤틀리고 소용돌이치는 시간의 강 깊은 곳을 거니는 거대한 신의 실루엣; 발밑에는 격동하는 보랏빛 시공간의 흐름이 요동치고, 배경에는 심연의 우주적 블랙홀과 찬란한 은하계가 펼쳐집니다. 이 거대한 형상은 시공간 차원 전체를 감싸며, 빛과 그림자의 역동적인 상호작용을 통해 압도적인 힘을 발산합니다. 하이 다이내믹 레인지(HDR)와 정교한 조명 효과로 구현된, 숨 막힐 듯 웅장한 SF 서사시적 구성입니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/127bb371d56668891aee29cf7d2b5664/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine 프롬프트: 뒤틀리고 소용돌이치는 시간의 강을 거니는 거대한 신의 실루엣">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2789)**
-
-**작성자:** [EmCurt](https://x.com/Emil1LB) | **출처:** [Link](https://x.com/Emil1LB/status/2040777422631748055) | **게시일:** Apr 5, 2026
-
----
-### Grok Imagine 프롬프트: 장갑을 끼고 노트북을 든 채 만화 캐릭터 목소리로 말하는 캐릭터
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 검은색 손가락 없는 장갑을 끼고 열린 노트북을 든 채 카메라를 응시하며, 만화 캐릭터 목소리로 특정 문구를 말하는 캐릭터를 묘사한 상세한 Grok Imagine 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-검은색 손가락 없는 장갑을 끼고 열린 노트북을 든 채 카메라를 응시하며 만화 캐릭터 목소리로 "Nugget and Ned created by Gigmine"이라고 말함
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a4442819b3eb93831f3a9d7befeeb043/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine 프롬프트: 장갑을 끼고 노트북을 든 채 만화 캐릭터 목소리로 말하는 캐릭터">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2797)**
-
-**작성자:** [GigmineTM](https://x.com/GigmineTM) | **출처:** [Link](https://x.com/GigmineTM/status/2040772669788877308) | **게시일:** Apr 5, 2026
-
----
-### 주택가를 걷는 우아한 영국 신사
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 탑햇과 단안경을 착용한 우아한 영국 신사가 주택가를 당당하게 걷는 모습을 담은 영상을 생성하기 위한 Grok Imagine 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-우아한 탑햇을 쓰고 눈에는 단안경을 낀 영국 신사입니다. 그는 주택가 뒷골목을 우아하고 당당한 모습으로 걷고 있습니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9e92256da7d345ced699a8f094fffaed/thumbnails/thumbnail.jpg" width="600" alt="주택가를 걷는 우아한 영국 신사">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2783)**
-
-**작성자:** [Master](https://x.com/DragonFlam7530) | **출처:** [Link](https://x.com/DragonFlam7530/status/2040765469322314055) | **게시일:** Apr 5, 2026
-
----
-### 현금 및 금괴 쌓기 장면 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine을 위한 상세한 다단계 프롬프트로, 작업자들이 현금 뭉치와 금괴 상자를 운반하여 쌓는 장면을 묘사합니다. 고정된 카메라 위치와 반복적인 동작을 강조합니다.
-
-#### 📝 프롬프트
-
-```
-SCENE LOCK: 동일한 삼각대 위치 및 프레이밍
-STAGE: 작업자들이 현금 뭉치와 금괴 상자를 운반해 와서 벽과 선반을 따라 조심스럽게 쌓음
-DETAILS: 뭉치를 놓고, 쌓인 것을 정렬하고, 열을 조정하고, 힘겹게 상자를 들어 올리는 반복적인 이동...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3fa8b490826b8485cae69ef25e4cabcc/thumbnails/thumbnail.jpg" width="600" alt="현금 및 금괴 쌓기 장면 프롬프트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2790)**
-
-**작성자:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **출처:** [Link](https://x.com/gpimpmyspace/status/2040728520553570735) | **게시일:** Apr 5, 2026
-
----
-### 덩굴로 뒤덮인 로코코 양식 궁전 속 애니메이션 스타일의 사실적인 인물화
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine을 위한 비디오 생성 프롬프트로, 덩굴로 뒤덮인 로코코 양식의 궁전에 둘러싸인 여성의 애니메이션 스타일 인물화를 묘사합니다. 이 프롬프트는 복잡한 건축물과 어우러진 덩굴과 녹지, 부드럽게 스며드는 빛, 극도로 세밀한 질감, 그리고 평화롭고 우울한 분위기를 강조합니다.
-
-#### 📝 프롬프트
-
-```
-덩굴과 녹지가 복잡한 건축물과 부드럽게 어우러진 로코코 양식의 궁전에 둘러싸인 여성의 애니메이션 스타일 인물화, 부드럽게 스며드는 빛, 극도로 세밀한 질감, 평화롭고 우울한 분위기.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fac43c03919300f4e66c8c0e81f28e7d/thumbnails/thumbnail.jpg" width="600" alt="덩굴로 뒤덮인 로코코 양식 궁전 속 애니메이션 스타일의 사실적인 인물화">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2784)**
-
-**작성자:** [SPACELESS](https://x.com/VOLDEMORT2X) | **출처:** [Link](https://x.com/VOLDEMORT2X/status/2040702801949401276) | **게시일:** Apr 5, 2026
-
----
-### 일출 속 겹겹이 쌓인 도시의 임파스토 유화
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 일출로 밝게 빛나는 거대하고 층층이 쌓인 도시를 묘사한 Grok Imagine용 비디오 생성 프롬프트입니다. 로코코 양식과 아르데코 건축물 위로 부드럽고 따스한 햇살이 비치고, 지평선을 바라보는 여성이 등장하며, 두껍고 빛나는 물감 터치를 통해 희망차고 광활한 분위기를 표현하도록 지정했습니다.
-
-#### 📝 프롬프트
-
-```
-일출로 밝게 빛나는 거대하고 층층이 쌓인 도시의 임파스토 유화, 로코코 및 아르데코 건축물 위로 비치는 부드럽고 따스한 빛, 지평선을 바라보는 여성, 두껍고 빛나는 물감 터치, 희망차고 광활한 분위기.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9eb407cf1b582e745aae3f2b76d88983/thumbnails/thumbnail.jpg" width="600" alt="일출 속 겹겹이 쌓인 도시의 임파스토 유화">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2780)**
-
-**작성자:** [SPACELESS](https://x.com/VOLDEMORT2X) | **출처:** [Link](https://x.com/VOLDEMORT2X/status/2040702141757534678) | **게시일:** Apr 5, 2026
-
----
-### 사이버키튼 튤립 밭 부활절 장면
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine을 사용하여 만든 부활절 테마 영상 프롬프트로, 토끼 의상을 입은 Elon Musk와 튤립 밭에 있는 아기 고양이들이 등장하며 '사가(saga)'를 이어갑니다.
-
-#### 📝 프롬프트
-
-```
-사가(saga)는 계속됩니다! 😹🐰🌷
-
-사이버키튼 튤립 밭에서 전하는 행복한 부활절!
-
-토끼 의상을 입은 @elonmusk 와 사방에 가득한 아기 고양이들 😂
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f3a3436f78d7bca877187e964405afda/thumbnails/thumbnail.jpg" width="600" alt="사이버키튼 튤립 밭 부활절 장면">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2719)**
-
-**작성자:** [Sadie Supa Doge](https://x.com/SadieSupaDoge) | **출처:** [Link](https://x.com/SadieSupaDoge/status/2040682197364146278) | **게시일:** Apr 5, 2026
-
----
-### Grok Imagine 프롬프트: 부활하신 예수 그리스도
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 무덤에서 부활하여 신성한 빛 속에 서 있는 예수 그리스도의 평온한 표정과 찬란한 황금빛 아우라를 담은 애니메이션 이미지(비디오)를 생성하기 위한 Grok Imagine 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-무덤에서 부활하여 신성한 빛 속에 서 있는 예수 그리스도의 애니메이션 이미지. 평온하면서도 강인한 표정, 손과 옆구리에 보이는 상처, 흐르는 듯한 흰색 로브를 입고 있으며, 찬란한 황금빛 아우라와 천상의 빛줄기에 둘러싸여 있음
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9a09925784d7813fd3aba8663b361f4d/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine 프롬프트: 부활하신 예수 그리스도">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2794)**
-
-**작성자:** [Sarahy Calderon](https://x.com/Shaiicalpineda) | **출처:** [Link](https://x.com/Shaiicalpineda/status/2040666091379384344) | **게시일:** Apr 5, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2233,6 +2234,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-04-14T06:05:26.239Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-04-14T09:28:14.639Z</sub>
 
 </div>
