@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1093** |
+| 📝 Total Prompts | **1111** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-04-15** |
 
@@ -189,6 +189,307 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Bal Arısı ve Kağıt Uçak Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir karahindiba üzerindeki bal arısını ve çimlere konan bir kağıt uçağı betimleyen, doğayı basit bir kağıt el işiyle birleştiren ilginç bir video istemi.
+
+#### 📝 Prompt
+
+```
+Sarı karahindiba çiçekleri üzerinde bal arısı, kağıt uçak içeri doğru uçuyor ve nazikçe çimlerin üzerine konuyor
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/89d162e1fcef4d5865ae86f2b81c3222/thumbnails/thumbnail.jpg" width="600" alt="Bal Arısı ve Kağıt Uçak Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3239)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2044279489425998000) | **Published:** Apr 15, 2026
+
+---
+### 80'ler Fantastik Büyücü ve Kadın
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Karanlık bir su kenarında bir büyücü ve efsanevi bir kadını konu alan, 1980'lerin fantastik gerçekçilik tarzında sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Mistik bir ormanda, karanlık suyun kenarında meditasyon yapan pelerinli bir büyücü; su yüzeyinin hemen altında, göldeki ruhani kadın 1980'lerin fantastik gerçekçilik tarzında ve 35 mm film estetiğiyle büyücüye bakıyor
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cd0a4f8c63d1a20461caa3a522f3c0ef/thumbnails/thumbnail.jpg" width="600" alt="80'ler Fantastik Büyücü ve Kadın">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3232)**
+
+**Author:** [Stoned🍄Ape](https://x.com/StonedApe) | **Source:** [Link](https://x.com/StonedApe/status/2044196291555799126) | **Published:** Apr 14, 2026
+
+---
+### Buz Kraliçesi Yağlı Boya Tablosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Donmuş bir kozmik tundradaki buz kraliçesini konu alan, yağlı boya tarzındaki bir video için betimleyici istem.
+
+#### 📝 Prompt
+
+```
+Donmuş bir kozmik tundrada duran bir buz kraliçesinin hiper gerçekçi yağlı boya tablosu; saçları beyaz ve kristalize, uçlarında kırağı oluşmuş; gözleri buz mavisi; katmanlı buz parçaları ve kar dokularından oluşan bir elbise giyiyor; kalın impasto fırça darbeleri donmuş rüzgar desenlerini oluşturuyor; arka planda devasa donmuş gezegenlerle dolu aurora gökyüzü, soğuk sinematik aydınlatma, ultra detaylı, dramatik kontrast, başyapıt.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0ca719361c8df28c2f1f996831d8cb6e/thumbnails/thumbnail.jpg" width="600" alt="Buz Kraliçesi Yağlı Boya Tablosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3230)**
+
+**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2044161592657617206) | **Published:** Apr 14, 2026
+
+---
+### Sualtı Kraliçesi Yağlı Boya Tablosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mercan tahtında oturan bir kraliçeyi ve biyolüminesans etkilerini içeren barok tarzda bir sualtı fantezi yağlı boya tablosu istemi.
+
+#### 📝 Prompt
+
+```
+Mercan bir tahtta oturan sualtı kraliçesinin hiper detaylı yağlı boya tablosu; suyun içinde ipek gibi süzülen uzun su mavisi saçları, inciler ve biyolüminesans organizmalarla süslenmiş, turkuaz parlayan gözler, katmanlı mercan, deniz kabukları ve yarı saydam zarlardan oluşan elbise, su bozulmasını ve ışık dağılımını yaratan kalın impasto fırça darbeleri, parlayan canlılarla dolu derin okyanus uçurumu arka planı, yüzeyden gelen sinematik ışık huzmeleri, ultra gerçekçi dokular, barok sualtı fantezisi, başyapıt kalitesi.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c73d174ff7c989f92143ac86e91db891/thumbnails/thumbnail.jpg" width="600" alt="Sualtı Kraliçesi Yağlı Boya Tablosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3233)**
+
+**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2044157123911672104) | **Published:** Apr 14, 2026
+
+---
+### Çizgi Roman Tarzında Orman Perisi Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Doğayla etkileşime giren bir perinin çizgi roman tarzındaki animasyonu için yaratıcı bir video istemi.
+
+#### 📝 Prompt
+
+```
+Çizgi roman tarzında, ormanda yürüyen bir peri; ağaçlara dokunarak yaprakların filizlenmesini ve çiçeklerin açmasını sağlıyor, bitkilere dokunarak çiçek açtırıyor; ona kelebekler, bal arıları ve ötücü kuşlar eşlik ediyor
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d6c6f5ce771928f46f8cae5d83507df4/thumbnails/thumbnail.jpg" width="600" alt="Çizgi Roman Tarzında Orman Perisi Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3225)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2044154328760627229) | **Published:** Apr 14, 2026
+
+---
+### Kristal Çöl İmparatoriçesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kristal kum tepeleriyle dolu bir manzarada, kırılma ışık efektlerine sahip bir imparatoriçeyi betimleyen sürreal bir yağlı boya tablosu istemi.
+
+#### 📝 Prompt
+
+```
+Sonsuz kristal kum tepelerinden oluşan bir manzarada duran bir çöl imparatoriçesinin ultra detaylı sinematik yağlı boya tablosu; saçları uzun ve güneş ışığını yansıtan yarı saydam kuvars telleriyle örülü, gözleri kehribar renginde parlıyor, altın varak dikişlerle birleştirilmiş kırık cam parçalarından yapılmış dökümlü bir elbise giyiyor, özellikle gökyüzünde ve kumaşta belirgin kalın impasto fırça darbeleri, arka plan ışığı gökkuşağı kostiklerine dönüştüren dev yüzen prizmalarla dolu, sıcak altın saat ışığı, rüzgarın havaya kaldırdığı cam tozu parçacıkları, barok sürreal füzyon, hiper dokulu yüzey, müze başyapıtı, 8k, hacimsel ışık, dramatik kompozisyon.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d49de3f1c45e4df4ec9057565d258e75/thumbnails/thumbnail.jpg" width="600" alt="Kristal Çöl İmparatoriçesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3235)**
+
+**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2044152126314623230) | **Published:** Apr 14, 2026
+
+---
+### Kristal Işık Tanrıçası
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kristal dokular ve gökkuşağı ışık kırılması içeren, prizmatik kağıttan oyma tanrıça istemi.
+
+#### 📝 Prompt
+
+```
+Kristal ve ışıktan yapılmış, ultra detaylı kağıttan oyma tanrıça; gökkuşağı ışınlarını kıran uzun şeffaf saçları, fasetli değerli taşlar ve cam yapılardan oluşan katmanlı elbisesi, etrafında süzülen kristaller ve ışık kuşları, parlayan ortam, prizmatik aydınlatma, hiper gerçekçi yansımalar, 8k sinematik başyapıt.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a85ee818dfbe3d3a3bf8f24e3b2bc650/thumbnails/thumbnail.jpg" width="600" alt="Kristal Işık Tanrıçası">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3237)**
+
+**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2044149105031561691) | **Published:** Apr 14, 2026
+
+---
+### Mısır Temalı Kağıt Sanatı Kraliçesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Altın detaylara sahip kraliyet tapınağı ortamında, Mısır esintili bir kraliçe için kağıt sanatı tarzında bir istem.
+
+#### 📝 Prompt
+
+```
+Ultra detaylı, Mısır esintili kağıt sanatı kraliçesi; altın süslemeli uzun siyah örgülü saçlar, hiyeroglif desenli katmanlı kraliyet elbisesi, altın plakalar ve dökümlü ipek, kutsal kuşlar ve nilüfer çiçekleri ile çevrili, antik tapınak kemerleri, sıcak altın rengi aydınlatma, sinematik başyapıt, 8k.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f188561262e6e47d43d4cb29015f1002/thumbnails/thumbnail.jpg" width="600" alt="Mısır Temalı Kağıt Sanatı Kraliçesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3236)**
+
+**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2044134986878517344) | **Published:** Apr 14, 2026
+
+---
+### Sürreal Rüya Kraliçesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gerçekliğin büküldüğü sürreal bir dünyada, gökkuşağı saçlı bir kraliçeyi tasvir eden bir kağıt sanatı istemi.
+
+#### 📝 Prompt
+
+```
+Gerçekliğin büküldüğü bir rüya dünyasında ultra sürreal kağıt sanatı kraliçesi, bulutlara karışan uzun pastel gökkuşağı saçları, soyut şekillerden ve akışkan rüya dokularından oluşan katmanlı bir elbise giyiyor, yüzen çiçekler ve imkansız kuşlarla çevrili, yumuşak sürreal aydınlatma, ultra detaylı, 8k sinematik başyapıt.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0a99825dc067687e9162488c329f26ca/thumbnails/thumbnail.jpg" width="600" alt="Sürreal Rüya Kraliçesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3234)**
+
+**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2044114755120762966) | **Published:** Apr 14, 2026
+
+---
+### Devasa Robot Deniz Savaşı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Okyanusta savaş uçaklarıyla çarpışan 200 metrelik bir robotu konu alan, Hollywood gişe filmi tarzında sinematik bir aksiyon istemi.
+
+#### 📝 Prompt
+
+```
+Sinematik epik aksiyon sahnesi; okyanusun ortasında duran ve bir donanma filosunun üzerinde yükselen, "Xeno Leviathan Terraformer" adlı 200 metre boyunda fütüristik bir dev robot. Devasa robot; karmaşık mekanik detaylara, parlayan mavi gözlere ve turuncu enerji vurgularına sahip ağır bir zırhla kaplı. Robot, etrafını saran ve üzerine füze ve mermiler yağdıran savaş uçaklarıyla şiddetli bir şekilde savaşıyor.\nRobotun göğsünde, omuzlarında ve başında sürekli olarak devasa turuncu patlamalar, ateş topları ve yoğun siyah dumanlar yükseliyor. Her yere enkaz ve kıvılcımlar saçılıyor. Mecha, derin okyanus sularında ilerleyerek bacaklarının etrafında dev dalgalar ve beyaz köpükler oluşturuyor. Altında, birkaç modern uçak gemisi ve muhrip, parlak roket izleri ve su yüzeyindeki patlamalarla dev robota doğru füzeler fırlatıyor.\nDramatik düşük açılı çekimler, robotun etrafında dönen dinamik kamera hareketleri, hızlı hareket eden jetlerde yoğun hareket bulanıklığı, gökyüzünde uzanan beyaz uçak izleri. Arka planda, yüksek irtifadan Dünya'nın eğriliği, masmavi bir okyanus ve parlak gün ışığı görülüyor. Sinematik aydınlatma, hacimsel duman, tanrı ışınları, ultra gerçekçi detaylar, fotogerçekçi render, 8K kalite, yüksek detay seviyesi, yoğun savaş atmosferi, patlayıcı aksiyon sekansı.\nVideo sırasında metin bindirmeleri belirir:\n5-10. saniyelerde: Tarama çizgileri ve hedefleme grafikleriyle fütüristik camgöbeği holografik yazı tipinde "Xeno Leviathan Terraformer".\n11-15. saniyelerde: Parlayan camgöbeği kutu içinde "Bunu ilham almak için kaydet!".\n16-19. saniyelerde: Parlayan camgöbeği fütüristik çerçeve içinde "Yıldızlarla Destekle! ⭐ & Takip Et".\nTarz: Pacific Rim ve Transformers benzeri Hollywood gişe filmi sinematiği, hızlı aksiyonla harmanlanmış dramatik ağır çekim patlamalar, mükemmel kompozisyon, başyapıt.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f641deaba3d32641f18e3798eb94b0de/thumbnails/thumbnail.jpg" width="600" alt="Devasa Robot Deniz Savaşı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3228)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2044113577632755742) | **Published:** Apr 14, 2026
+
+---
+### Bahçe Mercan Yılanı Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Terk edilmiş bir bahçede ilerleyen bir mercan yılanı için video oluşturma istemi.
+
+#### 📝 Prompt
+
+```
+Terk edilmiş bahçenin uzun çimleri arasında uzaklaşan, kırmızı, sarı ve siyah renkli, küçük parlak mercan yılanı
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/83d89c0162d2c32e84d3960807aecbcd/thumbnails/thumbnail.jpg" width="600" alt="Bahçe Mercan Yılanı Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3224)**
+
+**Author:** [Llama Mama](https://x.com/TeslaTakesOver) | **Source:** [Link](https://x.com/TeslaTakesOver/status/2044085562777206801) | **Published:** Apr 14, 2026
+
+---
+### Çok Sahneli Uzay Aracı Uçuş Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine'in çok sahneli geçişleri ve hızlı kamera hareketlerini işleme yeteneğini test etmek için tasarlanmış teknik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Ultra hızlı uçuş. Çok sahneli, tempolu bir canlı çekim videosu oluşturun. Her saniye uzay aracının farklı detaylarına keskin yakınlaştırmalar ve uzaklaştırmalar yapın. Keskin sahne geçişleri kullanın, solma efekti olmasın.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/52caa40b9c899382034ecebfc9f631e1/thumbnails/thumbnail.jpg" width="600" alt="Çok Sahneli Uzay Aracı Uçuş Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3223)**
+
+**Author:** [Dogan Ural](https://x.com/doganuraldesign) | **Source:** [Link](https://x.com/doganuraldesign/status/2044049325299204120) | **Published:** Apr 14, 2026
+
+---
+### Geliştirilmiş Oni General Hücumu
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Bir general karakterinin hücum sırasındaki alev izlerini ve hızını artırmaya odaklanan bir ayarlama istemi.
+
+#### 📝 Prompt
+
+```
+Ayarlama Konsepti: 
+• Oni Altın General'in hücum sahnesindeki kırmızı alev izlerini önemli ölçüde güçlendir -> Alevler daha uzun ve daha yoğun yansın, uzayı yırtıp geçiyormuşçasına etkiyi artırsın.
+• Sanada Yukimura'nın Kızıl At'ını (Red Hare) anımsatan şiddetli hız hissini daha da vurgula.
+• Genel dinamizmi artırmak için altın ışık parçacıkları ile kırmızı alevler arasındaki kontrastı güçlendir.
+
+👹 Oni Altın General, şiddetli bir atılışla vahşice hücum ediyor.
+
+Göz kırpamayacağınız kadar hızlı hareket ederek uzayı yırtıyor ve ışığı bile yutuyor.
+
+Düşmanlar dehşet içinde birbiri ardına kaçışıyor.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d5d6039c269268cdfb42f71b44026bb7/thumbnails/thumbnail.jpg" width="600" alt="Geliştirilmiş Oni General Hücumu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3238)**
+
+**Author:** [後藤強士](https://x.com/rubensutsuyosi) | **Source:** [Link](https://x.com/rubensutsuyosi/status/2044028569400291418) | **Published:** Apr 14, 2026
+
+---
+### Sibernetik Dev Terraformer
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Dünya üzerindeki volkanik bir manzarada yürüyen devasa biyomekanik bir devi konu alan, bilim kurgu videosuna yönelik son derece detaylı sinematik bir komut.
+
+#### 📝 Prompt
+
+```
+"Xeno Leviathan Terraformer" adlı, keskin köşeli zırhları, parlayan mavi gözleri ve karmaşık mekanik detaylarıyla yüzlerce metre yüksekliğinde, koyu metalik biyomekanik bir dev. Dünya gezegenindeki volkanik bir kıyı manzarasında, dramatik ve yüksek açılı sinematik bir perspektifle yavaş ve güçlü adımlarla ilerliyor.
+Devasa ayakları her adımda yeri eziyor; bu durum parlak turuncu lavların patlamasına, yanardağların püskürmesine ve etrafında akan erimiş lav nehirlerine yol açıyor. Gökyüzüne yoğun duman ve kül bulutları yükseliyor. Volkanik dağlardan okyanusa doğru yürürken, attığı adımlar devasa tsunamiler ve bacaklarının etrafında şiddetle patlayan kahverengi toz bulutlarıyla karışık büyük beyaz su sıçramaları yaratıyor.
+Arka planda, uzay sınırına yakın bir irtifadan Dünya'nın güzel kavisli ufku; bulutlar, kıyı şeridi, plajlar ve çok aşağıda görünen küçük bir sahil kasabası yer alıyor. Videonun son kısmında, devin başının üzerinde ve arkasında, gökyüzünde devasa, koyu renkli ve köşeli fütüristik bir uzay gemisi yavaşça beliriyor.
+Sıcak altın rengi gün batımı tonlarının dramatik volkanik ışıltıyla karıştığı sinematik aydınlatma. Son derece detaylı, epik ölçekli, devin ve gezegenin daha fazlasını ortaya çıkarmak için yavaşça uzaklaşan ve yukarı doğru eğilen dinamik kamera hareketi, yoğun parçacık efektleri, duman, ateş, su sıçramaları ve hacimsel ışıklandırma. Fotogerçekçi ancak stilize, 8K kalitesinde, sinematik bir başyapıt, dramatik atmosfer.
+Stil: Epik bilim kurgu sinematik, hiper-gerçekçi render, dramatik ölçek, yoğun aksiyon
+Kamera: Yavaşça geri çekilen ve yukarı doğru eğilen yüksek açılı yörünge çekimi
+Süre: 20 saniye
+Hareket: Yavaş ve güçlü yürüyüş adımları, dinamik çevresel yıkım, yükselen duman ve su efektleri
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6992bd4cfeb16e6fd00fe83c0820c1f2/thumbnails/thumbnail.jpg" width="600" alt="Sibernetik Dev Terraformer">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3226)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2043957751890751601) | **Published:** Apr 14, 2026
+
+---
+### Kozmik Kraliçe Kağıt Sanatı Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Parlayan göksel unsurlara sahip, kağıt sanatı tarzında ultra gerçekçi bir kozmik kraliçe için oldukça detaylı bir video istemi.
+
+#### 📝 Prompt
+
+```
+Küçük parlayan yıldızlarla dolu uzun koyu mor saçlı, nebula renklerinde galaksi esintili katmanlı bir elbise giyen, yüzen takımyıldızlar ve göksel kuşlarla çevrili, arka planda kozmik kemerler bulunan, parlayan vurgulara sahip karanlık uzay aydınlatmalı, ultra detaylı, 8k IMAX ultra gerçekçi kağıt sanatı kozmik kraliçe
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a5c1a68520876a8aa9568cf2712093ee/thumbnails/thumbnail.jpg" width="600" alt="Kozmik Kraliçe Kağıt Sanatı Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3222)**
+
+**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2043897374473400410) | **Published:** Apr 14, 2026
+
+---
 ### Kağıt Heykel Orman Kraliçesi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -201,11 +502,30 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 Uzun kızıl dalgalı saçlı, sonbahar yaprakları, dallar ve sıcak tonlu kumaşlardan yapılmış katmanlı bir elbise giyen, kuşlar ve dökülen yapraklarla çevrili, arkasında orman katedrali kemerleri bulunan, altın turuncu ışıklandırmalı, huzurlu sinematik atmosferli, son derece ayrıntılı dokulara sahip, 8k çözünürlüğünde kağıt heykel orman kraliçesi.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e4c671c8151ebce27ea0bc6e170db0d9/thumbnails/thumbnail.jpg" width="600" alt="Kağıt Heykel Orman Kraliçesi">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4196917a5644595129f07dffe93b652c/thumbnails/thumbnail.jpg" width="600" alt="Kağıt Heykel Orman Kraliçesi">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3113)**
 
 **Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2043893263761817692) | **Published:** Apr 14, 2026
+
+---
+### Renkli Kağıt Sanatı Peri Kraliçesi İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Büyülü bir sakura ağacı ortamında, yumuşak ışıklandırmalı bir peri kraliçesini konu alan, kağıt sanatı tarzındaki video için oldukça detaylı bir istem.
+
+#### 📝 Prompt
+
+```
+Yumuşak pastel lavanta rengi kıvırcık saçlı, pembe, şeftali ve nane tonlarında taç yapraklardan oluşan katmanlı bir çiçek elbise giyen, kelebekler ve sakura benzeri çiçek açan ağaçlarla çevrili, ultra detaylı renkli kağıt sanatı peri kraliçesi; yumuşak rüya gibi ışıklandırma, büyülü atmosfer, karmaşık organik şekiller, ultra temiz dokular, 8k başyapıt.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/07c07a7aac2b4fad5c7b6b75bffd8c48/thumbnails/thumbnail.jpg" width="600" alt="Renkli Kağıt Sanatı Peri Kraliçesi İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3227)**
+
+**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2043878321633800202) | **Published:** Apr 14, 2026
 
 ---
 ### Gotik Kağıt Kesimi Kraliçe Video İstemi
@@ -220,7 +540,7 @@ Uzun kızıl dalgalı saçlı, sonbahar yaprakları, dallar ve sıcak tonlu kuma
 Son derece karmaşık kağıt kesimi gotik kraliçe, uzun simsiyah düz saçlar ve hafif kızıl yansımalar, keskin barok zırh detaylarına sahip koyu katmanlı kadife esintili bir elbise giyiyor, derin kırmızı güller ve siyah kuzgunlarla çevrili, sahneyi aydınlatan mum ışığı, arkada gotik katedral kemerleri, dramatik gölgeler, karamsar sinematik aydınlatma, ultra detaylı dokular, 8k.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/04bd64c8a2ddaf096f0d0cd2e1f5d442/thumbnails/thumbnail.jpg" width="600" alt="Gotik Kağıt Kesimi Kraliçe Video İstemi">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e606949ebbfdb5530f412755d7d303e1/thumbnails/thumbnail.jpg" width="600" alt="Gotik Kağıt Kesimi Kraliçe Video İstemi">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3117)**
 
@@ -239,11 +559,55 @@ Son derece karmaşık kağıt kesimi gotik kraliçe, uzun simsiyah düz saçlar 
 Altın bir çöl tapınağında duran ultra detaylı kağıt sanatı tarzında güneş tanrıçası, güneş ışığı gibi parlayan uzun ateş turuncusu dalgalı saçlar, kum tonlarında ipekten katmanlı bir elbise, altın süslemeler ve güneş şekilli işlemeler, açan çöl çiçekleri ve ışıl ışıl kuşlarla çevrili, sıcak altın saat ışığı, simetrik kompozisyon, dramatik gölgeler, 8k sinematik başyapıt.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/38c1c29b79fdd5caeb2a582848f9282d/thumbnails/thumbnail.jpg" width="600" alt="Kağıt Sanatı Güneş Tanrıçası Videosu">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2e21e78acd68d274377690970fe6be62/thumbnails/thumbnail.jpg" width="600" alt="Kağıt Sanatı Güneş Tanrıçası Videosu">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3114)**
 
 **Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2043850316240638383) | **Published:** Apr 14, 2026
+
+---
+### Fütüristik Mech Katliamı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Devasa fütüristik mech'lerin kıyıdaki bir şehri yerle bir edip denize doğru ilerlediği bir videoya yönelik, oldukça detaylı sinematik bir istem.
+
+#### 📝 Prompt
+
+```
+Gündüz vakti yoğun bir kıyı metropolünde dehşet saçan, 80 metre boyunda iki devasa fütüristik uzaylı savaş mech'inin yüksek açılı sinematik hava çekimi. Mech'ler ağır zırhlı, beyaz ve koyu gri renklerde, parlayan mavi detaylara sahip, keskin köşeli tasarımlara, ellerinde büyük tüfeklere, kafalarında anten uçlarına ve güçlü mekanik eklemlere sahip.
+
+Daha büyük olan mech önden gidiyor, biraz daha küçük olan ise hemen arkasından onu takip ediyor. Karadan denize doğru agresif bir şekilde ilerlerken, attıkları her devasa adım binaları, yolları ve büyük bir sahil stadyumunu ezip geçiyor; havaya devasa kahverengi toz bulutları, beton parçaları ve molozlar saçılıyor. Ayakları suya çarptığında, dramatik bir şekilde devasa beyaz su sıçramaları ve dalgalar oluşuyor.
+
+Dinamik kamera, mech'ler ilerlerken onları yukarıdan yavaşça takip ederek ve etraflarında dönerek yıkımın tüm boyutunu gözler önüne seriyor. Görünür simge yapılar arasında kırmızı-beyaz Tokyo Kulesi tarzı bir kule, modern gökdelenler, köprüler, yeşil parklar, banliyö evleri ve büyük bir su kütlesi bulunuyor. Mavi gökyüzü ve dağınık bulutlarla parlak güneşli bir gün, gerçekçi ışıklandırma ve gölgeler.
+
+Oldukça detaylı, fotogerçekçi, epik ölçek, dramatik aksiyon, yoğun yıkım, hacimsel toz ve su parçacıkları, sinematik renk düzenleme, 8K kalite, akıcı hareket, Pacific Rim ve Transformers'ı andıran epik bilim kurgu atmosferi.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b2bc11e770330d8be97d6e3a66a86688/thumbnails/thumbnail.jpg" width="600" alt="Fütüristik Mech Katliamı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3229)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2043849757848711441) | **Published:** Apr 14, 2026
+
+---
+### Maymunla Sevgi Dolu Etkileşim
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir kadının bir maymunu çocuk gibi kucağına aldığı, hareket odaklı bir video istemi.
+
+#### 📝 Prompt
+
+```
+maymuna doğru dönüyor ve maymun ona uzanıyor, o da onu küçük bir çocuk gibi şefkatle kucağına alıyor...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/80bcd04c60782bcf7122a08bfe964e07/thumbnails/thumbnail.jpg" width="600" alt="Maymunla Sevgi Dolu Etkileşim">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3231)**
+
+**Author:** [Charlie NW](https://x.com/CharlieNW7) | **Source:** [Link](https://x.com/CharlieNW7/status/2043843724073898052) | **Published:** Apr 14, 2026
 
 ---
 ### Ethereal Living Artworks Filigree
@@ -1820,358 +2184,6 @@ Güçlü kadın savaşçı arkasını kameraya döner, ejderha sırtını nazik�
 **Author:** [Reklaw](https://x.com/Ynohtnareklaw) | **Source:** [Link](https://x.com/Ynohtnareklaw/status/2041092492339118206) | **Published:** Apr 6, 2026
 
 ---
-### Yağmurlu Tokyo'da cyberpunk motosiklet üzerindeki bir kadının 15 saniyelik sinematik videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 15 saniyelik sinematik bir video için oldukça detaylı bir grok-imagine istemi. Alacakaranlıkta, yoğun ve yağmurlu bir Japon şehir sokağında, devasa ve mekanik bir cyberpunk motosikletin üzerinde oturan, fütüristik zırhlı sarışın bir kadını konu alıyor. Kamera, dramatik aydınlatmayı, neon tabelaların ıslak yansımalarını ve kadının ve motosiklet motorunun ince hareketlerini vurgulayarak öznenin etrafında yavaş ve pürüzsüz bir yörünge çizer.
-
-#### 📝 Prompt
-
-```
-Alacakaranlıkta, yoğun ve yağmurlu bir Japon şehir sokağında, devasa ve ağır zırhlı bir cyberpunk motosikletin üzerinde oturan, koyu gri fütüristik zırhlı bir ceket giymiş güzel sarışın bir kadının 15 saniyelik sinematik videosu. Ciddi, odaklanmış bir ifadesi ve hafif dağınık uzun sarı saçları var. Gidonları sıkıca kavrıyor.
-
-Motosiklet acımasız ve mekanik; keskin zırh plakalarına sahip koyu gri renkte, ön kısmında parlayan kırmızı LED ışıklar, büyük çamurlu dişli lastikler ve turuncu detaylara sahip açıkta duran mekanik parçalar bulunuyor.
-
-15 saniye boyunca: motosiklet motoru hafif titreşimlerle hafifçe gürlüyor, kırmızı LED'ler yavaşça yanıp sönüyor ve sürekli hafif yağmur yağıyor. Kadın, kararlı bir bakışla doğrudan ileriye bakmak için başını yavaşça çeviriyor. Kamera, ön üç çeyrek açıdan yana doğru yavaş ve pürüzsüz sinematik bir yörünge izleyerek onu ve motosikleti güçlü bir merkezi özne olarak tutuyor. Islak kaldırım neon ışıklarını yansıtıyor. Arka planda bulanık yayalar ve renkli Japon neon tabelaları yer alıyor. Fotogerçekçi, ultra detaylı, 8K, gerçekçi fizik, dramatik cyberpunk atmosferi, pürüzsüz hareket, sinematik aydınlatma.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/389834d3d72e97bb6dbdd3c67593af96/thumbnails/thumbnail.jpg" width="600" alt="Yağmurlu Tokyo'da cyberpunk motosiklet üzerindeki bir kadının 15 saniyelik sinematik videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2873)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2041079223683522670) | **Published:** Apr 6, 2026
-
----
-### Endüstriyel bir komplekste hızla ilerleyen bir minibüsün etkileyici takip çekimi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için; aksiyona, atmosfere ve kıvılcım ile duman gibi görsel detaylara odaklanarak endüstriyel bir komplekste hızla ilerleyen bir minibüsün dinamik ve sinematik takip çekimini oluşturmaya yönelik detaylı bir komut.
-
-#### 📝 Prompt
-
-```
-Endüstriyel bir komplekste hızla ilerleyen, lastikleri çığlık atan, sürücüsü panik içinde ancak odaklanmış bir minibüs. Bariyerleri kırıp geçiyor ve metal yapılar arasında keskin bir dönüş yapıyor. Borular, konteynerler, kıvılcımlar ve makinelerden yükselen dumanlarla dolu bir fabrika bölgesi. Araçla birlikte yapılar arasında hareket eden kesintisiz takip çekimi, güçlü paralaks çizgileri, kadraja uçuşan kıvılcımlar ve sert bir endüstriyel atmosfer.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/392dd73c6162ad2ef927edce4391bb24/thumbnails/thumbnail.jpg" width="600" alt="Endüstriyel bir komplekste hızla ilerleyen bir minibüsün etkileyici takip çekimi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2869)**
-
-**Author:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Source:** [Link](https://x.com/CharaspowerAI/status/2041070924439380277) | **Published:** Apr 6, 2026
-
----
-### Heyecanlı kedi hareketleri video istemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir kedinin yeni bir oyuncak karşısında heyecanlanıp komik hareketler sergilediği sahneyi betimleyen ayrıntılı bir Grok Imagine istemi.
-
-#### 📝 Prompt
-
-```
-bu bölümde, küçük bir başka oyuncak bu tarafa geldiğinde kedi daha da heyecanlanır ve en komik küçük hareketleri yapar
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0847fed26f217190b046af9f2c255884/thumbnails/thumbnail.jpg" width="600" alt="Heyecanlı kedi hareketleri video istemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2871)**
-
-**Author:** [Carlos Martinez](https://x.com/CarlosM51040063) | **Source:** [Link](https://x.com/CarlosM51040063/status/2041044712702845232) | **Published:** Apr 6, 2026
-
----
-### Uzayda Ejderhaya Dönüşen Shogi Taşı
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Grok Imagine ile 15-20 saniyelik kısa bir animasyon videosu oluşturmak için hazırlanmış oldukça detaylı bir komut. Video, bir shogi (Japon satrancı) taşı olan 'Hisha'nın (Kale) ejderhaya dönüşüp uzaya uçmasını konu alıyor; sulu boya ve fantastik bilim kurgu tarzında, ışık parçacıklarıyla işlenmiş. Komut; açılış, gelişme ve zirve noktası için özel sahne betimlemeleri içeriyor.
-
-#### 📝 Prompt
-
-```
-• Başlık: "Berrak Akarsuyun Ejderhasını Çağırmak ~Amaterasu Okami Kaioshin'in 4-1 Hisha'sından 8-3 Ryu'suna~
-• Stil: Sulu boya ve ışık parçacıklarıyla harmanlanmış fantastik bilim kurgu tarzı (nazik ve güzel, berrak bir akarsu akışını vurgulayan)
-• Uzunluk: Yaklaşık 15-20 saniyelik kısa animasyon videosu
-• Yönetmenlik notları:
-• Açılış: 81 karelik bir takımyıldızı andıran shogi tahtası sessiz uzayda süzülüyor
-• Gelişme: 2-2 piyon düşüşüyle dengenin bozulduğu an, bir ışık dalgası gibi estetik bir şekilde ifade ediliyor
-• Zirve: Uzaktaki 4-1 Hisha, ışık kuyruğuyla yüksek hızda hareket eder → 7-1 Ryu'ya dönüşür → Gümüş...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/abaf0aefeb2d0a5044d5b64a558b1d1a/thumbnails/thumbnail.jpg" width="600" alt="Uzayda Ejderhaya Dönüşen Shogi Taşı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2881)**
-
-**Author:** [後藤強士](https://x.com/rubensutsuyosi) | **Source:** [Link](https://x.com/rubensutsuyosi/status/2040999915741147583) | **Published:** Apr 6, 2026
-
----
-### Bir melek ve İsa Mesih'in yer aldığı ağır çekim diriliş sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Pamuk şekeri renginde kanatlara sahip büyük bir meleğin cennetten indiği, bir kayayı hareket ettirdiği ve İsa Mesih'in 777 güvercin eşliğinde parlayarak mezarından yükseldiği ağır çekim bir sahneyi betimleyen detaylı bir grok-imagine video istemi.
-
-#### 📝 Prompt
-
-```
-cennetten, pamuk şekeri rengindeki gökyüzünden süzülerek inen, vücut boyutunda büyük kanatlara sahip güçlü bir meleğin yavaşça uçuşu, parlayan İsa Mesih'i diriltmek için kayayı yavaşça itip hareket ettirmesi, onun mezarından 777 güvercin eşliğinde yavaşça yürüyerek çıkışını gösteren sahne...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/582dc4aee1ad0d2e9a44109268874d82/thumbnails/thumbnail.jpg" width="600" alt="Bir melek ve İsa Mesih'in yer aldığı ağır çekim diriliş sahnesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2874)**
-
-**Author:** [Jessica Longo](https://x.com/Jessica39627125) | **Source:** [Link](https://x.com/Jessica39627125/status/2040985209609286037) | **Published:** Apr 6, 2026
-
----
-### Ay ışığı altında kırmızı kürk mantolu zarif kadın
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için ay ışığı altında gelinciklerle çevrili, kırmızı kürk mantolu zarif bir genç kadını betimleyen; Eiko Ojala ve Gustav Klimt'ten ilham alan, puantilizm ile Art Nouveau yağlı boya tarzında oluşturulmuş son derece detaylı ve sanatsal bir istem.
-
-#### 📝 Prompt
-
-```
-Ay ışığı altında gelinciklerle çevrili kırmızı kürk mantolu zarif bir genç kadın, tam boy portre, siyah saç, siyah gözler, kırmızı ruj, detaylı yüz hatları, ışıltılı parlak doku, canlı renkler, puantilizm ile Art Nouveau yağlı boya tarzı, Eiko Ojala ve Gustav Klimt tarzında, yüksek kalite, yüksek çözünürlük, profesyonel aydınlatma, 8K
-```
-
-<img src="https://cms-assets.youmind.com/media/1775548954177_qthorm_HFMDDp0agAAC3ov.jpg" width="600" alt="Ay ışığı altında kırmızı kürk mantolu zarif kadın">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2860)**
-
-**Author:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **Source:** [Link](https://x.com/iamhappy2026/status/2040978530453074203) | **Published:** Apr 6, 2026
-
----
-### Tavşan zıplaması ve kalp damgalama
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için zıplayan, ayağıyla kalpler damgalayan, arkasını dönen ve tüm yumurtaların üzerine kalp bırakmak için yumurtaya bastıran bir tavşanı içeren karmaşık, çok eylemli bir komut.
-
-#### 📝 Prompt
-
-```
-Tavşanın zıplayıp ayağıyla kalpler damgalamasını sağlayın, ardından tavşanın arkasını dönüp yumurtaya bastırarak tüm yumurtaların üzerinde kalpler bırakmasını sağlayın.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0a3857395b0e465bd63d05a85081ae8a/thumbnails/thumbnail.jpg" width="600" alt="Tavşan zıplaması ve kalp damgalama">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2858)**
-
-**Author:** [Cindy.Luby..7](https://x.com/7Luby81583) | **Source:** [Link](https://x.com/7Luby81583/status/2040962778689568874) | **Published:** Apr 6, 2026
-
----
-### Kosta Rika hayvanlarının olduğu kar küresi tutan Paskalya tavşanı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine'in, sallandığında içinden Kosta Rika hayvanları çıkan bir kar küresi tutan Paskalya tavşanı videosu oluşturması için eğlenceli bir komut.
-
-#### 📝 Prompt
-
-```
-İçinde kar küresi tutan küçük bir Paskalya tavşanı çiz; kar küresi sallandığında içinden Kosta Rika hayvanları çıksın.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5ea0534f7ba94b25d4e966dd1c71ef22/thumbnails/thumbnail.jpg" width="600" alt="Kosta Rika hayvanlarının olduğu kar küresi tutan Paskalya tavşanı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2868)**
-
-**Author:** [ĐOGEARMY GENERAL](https://x.com/TheTeslaBull) | **Source:** [Link](https://x.com/TheTeslaBull/status/2040960822684352643) | **Published:** Apr 6, 2026
-
----
-### Starship v3, Mars keşfi için hazır
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Güneş sistemi insan keşfi için hazırlanan ve ilk durağı Mars olan, tam donanımlı bir Starship v3'ü betimleyen Grok Imagine için detaylı bir bilim kurgu istemi.
-
-#### 📝 Prompt
-
-```
-Güneş sisteminin insan tarafından keşfi için hazır, tam donanımlı bir Starship v3, ilk durak Mars...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a373a9d1fb3baf3c68c71e8f483261ed/thumbnails/thumbnail.jpg" width="600" alt="Starship v3, Mars keşfi için hazır">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2857)**
-
-**Author:** [Philip Kennett](https://x.com/philip_kennett) | **Source:** [Link](https://x.com/philip_kennett/status/2040948883258241095) | **Published:** Apr 6, 2026
-
----
-### Grok Imagine İstemi: 2026 yıl önce gerçekleştiği şekliyle çarmıha gerilme ve dirilişten Paskalya gösterimi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için, 2026 yıl önce gerçekleşmiş gibi çarmıha gerilme ve diriliş sahnesinin gösterimini talep eden tarihsel ve dini bir istem.
-
-#### 📝 Prompt
-
-```
-2026 yıl önce gerçekleştiği şekliyle çarmıha gerilme ve dirilişten Paskalya gösterimi @elonmusk @grok
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/51dbbb0a6a98e317eaa922714c93bff4/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine İstemi: 2026 yıl önce gerçekleştiği şekliyle çarmıha gerilme ve dirilişten Paskalya gösterimi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2791)**
-
-**Author:** [Toba Victor](https://x.com/BigMagic30) | **Source:** [Link](https://x.com/BigMagic30/status/2040931587160715462) | **Published:** Apr 5, 2026
-
----
-### Grok Imagine için video oluşturma istemi: Elon Musk ile veri günahkarları ve uzayda yaşamak
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için; Elon Musk, robotlar ve uzayda doğan ilk bebekle birlikte uzayda yaşayan bir kadının sahnesini betimleyen, oldukça yaratıcı ve sürreal bir istem.
-
-#### 📝 Prompt
-
-```
-O, halihazırda veri günahkarları ve uzayda, Elon Musk, tüm robotlar ve birkaç insanla birlikte yaşıyor. İnsanlar ve robotlar var ve ben uzaydaki ilk bebeğe sahibim.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6745c00e26fb6800e02a134c15d4be22/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine için video oluşturma istemi: Elon Musk ile veri günahkarları ve uzayda yaşamak">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2796)**
-
-**Author:** [April](https://x.com/AprilIrish49) | **Source:** [Link](https://x.com/AprilIrish49/status/2040921933282181142) | **Published:** Apr 5, 2026
-
----
-### Grok Imagine İstemi: Geleneksel Paskalya renklerinde kışlık mont ve bere giymiş iki çocuğun dışarıda olduğu bir sahne oluştur
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için mevsimsel bir istem; Kuzey Ontario'da kışlık kıyafetleriyle karlar üzerinde Paskalya yumurtaları toplayan çocukların olduğu, geleneksel Paskalya renklerinin vurgulandığı bir sahneyi betimler.
-
-#### 📝 Prompt
-
-```
-Paskalya Pazarı (Kuzey Ontario). Geleneksel Paskalya renklerinde kışlık mont ve bere giymiş iki çocuğun dışarıda olduğu bir sahne oluştur. Çocukların elinde Paskalya sepetleri var ve karların üzerindeki yumurtaları topluyorlar.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6150d3921582ee25fa088ce6d6243306/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine İstemi: Geleneksel Paskalya renklerinde kışlık mont ve bere giymiş iki çocuğun dışarıda olduğu bir sahne oluştur">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2792)**
-
-**Author:** [Raving_Lunatic](https://x.com/DaRavingLunatic) | **Source:** [Link](https://x.com/DaRavingLunatic/status/2040912771202555918) | **Published:** Apr 5, 2026
-
----
-### Anime Dansçısı için Grok Imagine Görsel İstemi
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Bu, anime dansçısı videosu oluşturma sürecinin iki aşamalı ilk kısmıdır. Bu özel istem, Hailuo 2.3 ile canlandırılacak olan yüksek kaliteli başlangıç görselini oluşturmak için Grok Imagine ile kullanılır. İstem; gece gökyüzü altında bir tepede, akıcı kumaşlardan oluşan detaylı kırmızı ve siyah bir kostüm giyen, dinamik pozlar veren ve mistik ışık efektleriyle çevrili, yüksek kaliteli Japon anime tarzındaki güzel bir kadın dansçıyı betimlemektedir.
-
-#### 📝 Prompt
-
-```
-Japon yüksek kaliteli anime tarzı, güzel kadın dansçı, uzun saç, tam boy çekim, gece gökyüzü altında bir tepede, kırmızı ve siyah ağırlıklı muhteşem dansçı kostümü, ince şeffaf ipek ve şifon malzeme, rüzgarda dalgalanan uzun etek ve kurdeleler, hafifçe dans eden kumaş katmanları, dinamik dans pozu, vücut hareketiyle yayılan kostüm, fantastik ışık parçacıkları, ay ışığıyla aydınlatılmış, mistik ve fantastik atmosfer, ultra yüksek çözünürlük, fantezi, pürüzsüz hareket ifadesi, iz bırakan hareket efekti
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/256451e99f42c9a24b7a12a8221023ee/thumbnails/thumbnail.jpg" width="600" alt="Anime Dansçısı için Grok Imagine Görsel İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2806)**
-
-**Author:** [なお](https://x.com/Naonekozamurai) | **Source:** [Link](https://x.com/Naonekozamurai/status/2040909626695430594) | **Published:** Apr 5, 2026
-
----
-### Grok Imagine İstemi: Çiçek Açan Dallar Arasındaki Kadın
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Çiçek açan dallarla çevrili, büyüleyici bir kadını betimleyen; kalın yağlı boya fırça darbeleriyle resmedilmiş, rokoko ve art deco stillerini altın varak detaylar ve sıcak yaygın ışıkla birleştiren ayrıntılı bir Grok Imagine istemi.
-
-#### 📝 Prompt
-
-```
-Çiçek açan dallarla çevrili, kalın yağlı boya fırça darbeleriyle resmedilmiş, taç yaprakları belirgin ve dokulu, arka planında rokoko yumuşaklığı ile art deco yapısını birleştiren, altın varak detayların incelikle entegre edildiği ve sıcak yaygın ışıkla aydınlatılmış büyüleyici bir kadın.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/24fac8e92d67ef660f44659fa89c68ee/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine İstemi: Çiçek Açan Dallar Arasındaki Kadın">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2793)**
-
-**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2040903361587794075) | **Published:** Apr 5, 2026
-
----
-### Barok ve Japon Kompozisyonu Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için Barok esintili aydınlatmayı Japon kompozisyonuyla birleştiren ayrıntılı bir video oluşturma istemi. Sahne, zengin impasto fırça darbeleri, derin sıcak tonlar ve sinematik bir durgunlukla işlenmiş, altın süslemeli formlarla çevrili bir kadını konu alıyor.
-
-#### 📝 Prompt
-
-```
-Japon tarzı bir kompozisyona uygulanan Barok esintili aydınlatma; zengin impasto fırça darbeleri, derin sıcak tonlar ve sinematik bir durgunlukla resmedilmiş, altın süslemeli formlarla çevrili bir kadın.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/23172ab3b5646478e51120460ec5f7c2/thumbnails/thumbnail.jpg" width="600" alt="Barok ve Japon Kompozisyonu Video İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2782)**
-
-**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2040898715322314910) | **Published:** Apr 5, 2026
-
----
-### Soyut Köşk Önünde Kadın Yağlı Boya Tablo Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Japon mimarisini Art Deco ve Rokoko detaylarıyla birleştiren soyut bir köşkün önünde duran bir kadının yer aldığı videoyu betimleyen bir Grok Imagine istemi. Tüm sahne, yapılar ve gökyüzü üzerinde belirgin kalın fırça darbeleriyle katmanlı bir yağlı boya dokusuyla resmedilmiştir.
-
-#### 📝 Prompt
-
-```
-Japon mimarisini Art Deco ve Rokoko detaylarıyla birleştiren soyut bir köşkün önünde duran bir kadın; tüm sahne katmanlı yağlı boya dokusuyla resmedilmiş, yapılar ve gökyüzü üzerinde kalın fırça darbeleri belirgin.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/86c8480f178e8cb9dadb1df93104ad12/thumbnails/thumbnail.jpg" width="600" alt="Soyut Köşk Önünde Kadın Yağlı Boya Tablo Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2781)**
-
-**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2040892803186602426) | **Published:** Apr 5, 2026
-
----
-### Yüzen Bir Atölyede Kaprisli ve Sürreal Tasarımcı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Yüzen, rüya gibi bir stüdyoda çalışan; çiçekler, yıldızlar ve yerçekimine meydan okuyan akan su gibi canlı elementlerden imkansız bir elbise tasarlayan kaprisli ve sürreal bir tasarımcıyı betimleyen detaylı bir Grok Imagine istemi.
-
-#### 📝 Prompt
-
-```
-Rüya gibi yüzen bir atölyede; canlı çiçeklerden, yıldızlardan ve yerçekimine meydan okuyan akan sudan imkansız bir elbise tasarlayan kaprisli ve sürreal bir tasarımcı.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/805e1c1796f98ea3daeb0d6abf38145c/thumbnails/thumbnail.jpg" width="600" alt="Yüzen Bir Atölyede Kaprisli ve Sürreal Tasarımcı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2785)**
-
-**Author:** [SoyAlb3rT](https://x.com/SoyAlb3rT) | **Source:** [Link](https://x.com/SoyAlb3rT/status/2040848811308843198) | **Published:** Apr 5, 2026
-
----
-### Kameraya Doğru Yürüyen Adam ve Çiçeklere Yakın Çekim
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kamera hareketini ve özne aksiyonunu belirten bir Grok Imagine istemi: bir adam sabit bir kameraya doğru yavaşça yürür, ardından kamera yavaşça çiçeklere odaklanır.
-
-#### 📝 Prompt
-
-```
-adam yavaşça kameraya doğru yürür ve tam karşısında durur, kamera sabit kalır ve ardından yavaşça çiçeklere yakın çekim yapar
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a33b09f5fa379390199223f3d9ad989e/thumbnails/thumbnail.jpg" width="600" alt="Kameraya Doğru Yürüyen Adam ve Çiçeklere Yakın Çekim">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2786)**
-
-**Author:** [丸山真 Makoto Maruyama](https://x.com/maruyama793) | **Source:** [Link](https://x.com/maruyama793/status/2040839719710605411) | **Published:** Apr 5, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2233,6 +2245,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-15T06:05:46.896Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-15T09:30:48.378Z</sub>
 
 </div>

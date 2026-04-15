@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1093** |
+| 📝 Total Prompts | **1111** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-04-15** |
 
@@ -189,6 +189,307 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Video về ong mật và máy bay giấy
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý video đầy chất thơ mô tả một chú ong mật trên bông hoa bồ công anh, trong khi một chiếc máy bay giấy bay đến và hạ cánh trên bãi cỏ, kết hợp vẻ đẹp thiên nhiên với nghệ thuật gấp giấy đơn giản.
+
+#### 📝 Prompt
+
+```
+Ong mật trên những bông hoa bồ công anh vàng, máy bay giấy bay đến và nhẹ nhàng hạ cánh trên bãi cỏ
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/89d162e1fcef4d5865ae86f2b81c3222/thumbnails/thumbnail.jpg" width="600" alt="Video về ong mật và máy bay giấy">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3239)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2044279489425998000) | **Published:** Apr 15, 2026
+
+---
+### Phù thủy và quý cô trong thế giới giả tưởng thập niên 80
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video điện ảnh theo phong cách hiện thực giả tưởng thập niên 1980, khắc họa hình ảnh một phù thủy và một quý cô huyền thoại bên dòng nước tối.
+
+#### 📝 Prompt
+
+```
+Một phù thủy khoác áo choàng đang thiền định bên dòng nước tối trong khu rừng huyền bí, ngay dưới mặt nước, quý cô thanh tao trong hồ nước đang ngước nhìn vị phù thủy theo phong cách hiện thực giả tưởng thập niên 1980, phim 35 mm
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cd0a4f8c63d1a20461caa3a522f3c0ef/thumbnails/thumbnail.jpg" width="600" alt="Phù thủy và quý cô trong thế giới giả tưởng thập niên 80">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3232)**
+
+**Author:** [Stoned🍄Ape](https://x.com/StonedApe) | **Source:** [Link](https://x.com/StonedApe/status/2044196291555799126) | **Published:** Apr 14, 2026
+
+---
+### Tranh sơn dầu Nữ hoàng Băng giá
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh mô tả cho video phong cách tranh sơn dầu về một nữ hoàng băng giá trong vùng lãnh nguyên vũ trụ đóng băng.
+
+#### 📝 Prompt
+
+```
+Tranh sơn dầu siêu thực về một nữ hoàng băng giá đang đứng trong vùng lãnh nguyên vũ trụ đóng băng, mái tóc trắng như pha lê với lớp sương giá đóng ở đầu ngọn tóc, đôi mắt xanh băng giá, mặc chiếc váy làm từ những mảnh băng xếp lớp và kết cấu tuyết, các nét vẽ dày dặn tạo hình những luồng gió đóng băng, hậu cảnh là bầu trời đầy cực quang với những hành tinh băng giá khổng lồ, ánh sáng điện ảnh lạnh lẽo, cực kỳ chi tiết, độ tương phản ấn tượng, kiệt tác.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0ca719361c8df28c2f1f996831d8cb6e/thumbnails/thumbnail.jpg" width="600" alt="Tranh sơn dầu Nữ hoàng Băng giá">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3230)**
+
+**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2044161592657617206) | **Published:** Apr 14, 2026
+
+---
+### Tranh sơn dầu Nữ hoàng dưới đáy đại dương
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gợi ý vẽ tranh sơn dầu phong cách giả tưởng baroque dưới nước, khắc họa một nữ hoàng trên ngai vàng san hô với các hiệu ứng phát quang sinh học.
+
+#### 📝 Prompt
+
+```
+Tranh sơn dầu siêu chi tiết về một nữ hoàng dưới đáy đại dương đang ngồi trên ngai vàng san hô, mái tóc dài màu xanh aqua trôi bồng bềnh như lụa trong nước, được trang trí bằng ngọc trai và các sinh vật phát quang sinh học, đôi mắt tỏa sáng màu ngọc lam, chiếc váy được làm từ các lớp san hô, vỏ sò và màng trong suốt, những nét cọ impasto dày tạo hiệu ứng khúc xạ nước và tán xạ ánh sáng, hậu cảnh là vực thẳm đại dương sâu thẳm với những sinh vật phát sáng, tia sáng điện ảnh từ mặt nước chiếu xuống, kết cấu siêu thực, phong cách giả tưởng baroque dưới nước, chất lượng kiệt tác.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c73d174ff7c989f92143ac86e91db891/thumbnails/thumbnail.jpg" width="600" alt="Tranh sơn dầu Nữ hoàng dưới đáy đại dương">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3233)**
+
+**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2044157123911672104) | **Published:** Apr 14, 2026
+
+---
+### Video Tiên nữ rừng xanh phong cách truyện tranh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) sáng tạo để tạo video hoạt hình phong cách truyện tranh về một nàng tiên đang tương tác với thiên nhiên.
+
+#### 📝 Prompt
+
+```
+Theo phong cách truyện tranh, một nàng tiên đi dạo trong rừng, chạm vào cây cối khiến lá đâm chồi và hoa nở rộ, chạm vào các loài cây khiến chúng ra hoa, xung quanh là những chú bướm, ong mật và chim hót líu lo
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d6c6f5ce771928f46f8cae5d83507df4/thumbnails/thumbnail.jpg" width="600" alt="Video Tiên nữ rừng xanh phong cách truyện tranh">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3225)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2044154328760627229) | **Published:** Apr 14, 2026
+
+---
+### Nữ hoàng Sa mạc Pha lê
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý vẽ tranh sơn dầu siêu thực mô tả một nữ hoàng trong khung cảnh cồn cát pha lê với hiệu ứng ánh sáng khúc xạ.
+
+#### 📝 Prompt
+
+```
+Tranh sơn dầu điện ảnh siêu chi tiết về một nữ hoàng sa mạc đang đứng giữa khung cảnh cồn cát pha lê vô tận, mái tóc dài tết những sợi thạch anh trong suốt phản chiếu ánh sáng mặt trời, đôi mắt rực màu hổ phách, khoác trên mình chiếc áo choàng bồng bềnh làm từ những mảnh thủy tinh vỡ kết hợp với các đường viền lá vàng, những nét cọ dày dặn hiện rõ đặc biệt là trên bầu trời và vải vóc, hậu cảnh tràn ngập những khối lăng kính khổng lồ lơ lửng bẻ cong ánh sáng thành những vệt màu cầu vồng, ánh sáng giờ vàng ấm áp, gió cuốn theo những hạt bụi thủy tinh, sự kết hợp giữa phong cách baroque và siêu thực, bề mặt siêu kết cấu, kiệt tác bảo tàng, 8k, ánh sáng thể tích, bố cục ấn tượng.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d49de3f1c45e4df4ec9057565d258e75/thumbnails/thumbnail.jpg" width="600" alt="Nữ hoàng Sa mạc Pha lê">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3235)**
+
+**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2044152126314623230) | **Published:** Apr 14, 2026
+
+---
+### Nữ thần Ánh sáng Pha lê
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo hình nữ thần bằng giấy điêu khắc đa diện với kết cấu pha lê và hiệu ứng khúc xạ ánh sáng cầu vồng.
+
+#### 📝 Prompt
+
+```
+Nữ thần điêu khắc bằng giấy siêu chi tiết làm từ pha lê và ánh sáng, mái tóc dài trong suốt khúc xạ những tia sáng cầu vồng, khoác trên mình chiếc váy xếp lớp từ các loại đá quý và cấu trúc thủy tinh, bao quanh là những tinh thể lơ lửng và chim ánh sáng, môi trường rực rỡ, ánh sáng đa diện, phản chiếu siêu thực, kiệt tác điện ảnh 8k.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a85ee818dfbe3d3a3bf8f24e3b2bc650/thumbnails/thumbnail.jpg" width="600" alt="Nữ thần Ánh sáng Pha lê">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3237)**
+
+**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2044149105031561691) | **Published:** Apr 14, 2026
+
+---
+### Nữ hoàng nghệ thuật giấy Ai Cập
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) theo phong cách nghệ thuật giấy về nữ hoàng lấy cảm hứng từ Ai Cập trong bối cảnh đền thờ hoàng gia với các chi tiết điểm xuyết vàng.
+
+#### 📝 Prompt
+
+```
+Nghệ thuật giấy siêu chi tiết về nữ hoàng lấy cảm hứng từ Ai Cập với mái tóc tết đen dài cùng các món đồ trang sức bằng vàng, mặc bộ lễ phục hoàng gia nhiều lớp với họa tiết chữ tượng hình, các tấm vàng và lụa mềm mại, xung quanh là những chú chim thiêng và hoa sen, các mái vòm đền thờ cổ đại, ánh sáng vàng ấm áp, kiệt tác điện ảnh, 8k.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f188561262e6e47d43d4cb29015f1002/thumbnails/thumbnail.jpg" width="600" alt="Nữ hoàng nghệ thuật giấy Ai Cập">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3236)**
+
+**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2044134986878517344) | **Published:** Apr 14, 2026
+
+---
+### Nữ hoàng Giấc mơ Siêu thực
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo ảnh nghệ thuật giấy mô tả một nữ hoàng với mái tóc cầu vồng trong một thế giới siêu thực nơi thực tại bị bẻ cong.
+
+#### 📝 Prompt
+
+```
+Nữ hoàng nghệ thuật giấy siêu thực trong thế giới giấc mơ nơi thực tại bị bẻ cong, mái tóc cầu vồng pastel dài của cô tan biến vào những đám mây, khoác lên mình chiếc váy nhiều lớp làm từ các hình khối trừu tượng và kết cấu giấc mơ uyển chuyển, xung quanh là những bông hoa trôi nổi và những loài chim kỳ ảo, ánh sáng siêu thực dịu nhẹ, chi tiết cực cao, kiệt tác điện ảnh 8k.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0a99825dc067687e9162488c329f26ca/thumbnails/thumbnail.jpg" width="600" alt="Nữ hoàng Giấc mơ Siêu thực">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3234)**
+
+**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2044114755120762966) | **Published:** Apr 14, 2026
+
+---
+### Trận chiến hải quân của robot khổng lồ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh hành động toàn diện cho thước phim phong cách bom tấn Hollywood, mô tả robot khổng lồ cao 200 mét đang chiến đấu với các máy bay chiến đấu trên đại dương.
+
+#### 📝 Prompt
+
+```
+Cảnh hành động sử thi đậm chất điện ảnh, một robot tương lai khổng lồ cao 200 mét có tên "Xeno Leviathan Terraformer" đang đứng giữa đại dương, sừng sững trên đội tàu hải quân. Robot khổng lồ được bọc giáp dày với các chi tiết cơ khí tinh xảo, đôi mắt phát sáng màu xanh lam và các điểm nhấn năng lượng màu cam. Nó đang chiến đấu quyết liệt với các máy bay chiến đấu đang bao vây xung quanh, phóng tên lửa và xả súng.\nNhững vụ nổ lớn màu cam, quả cầu lửa và khói đen dày đặc bùng phát liên tục trên ngực, vai và đầu của robot. Mảnh vỡ và tia lửa bay khắp nơi. Robot đang lội qua vùng nước đại dương sâu, tạo ra những con sóng lớn và bọt trắng xóa xung quanh chân. Bên dưới, một vài tàu sân bay và tàu khu trục hiện đại đang phóng tên lửa về phía robot khổng lồ, với những vệt tên lửa sáng rực và các vụ nổ trên mặt nước.\nCác góc quay thấp đầy kịch tính, chuyển động camera linh hoạt xoay quanh robot, hiệu ứng nhòe chuyển động (motion blur) dữ dội trên các máy bay phản lực tốc độ cao, những vệt khói trắng kéo dài trên bầu trời. Phông nền cho thấy độ cong của Trái Đất từ trên cao, với đại dương xanh trong và ánh sáng ban ngày rực rỡ. Ánh sáng điện ảnh, khói thể tích, tia sáng mặt trời (god rays), chi tiết siêu thực, kết xuất chân thực, chất lượng 8K, độ chi tiết cao, không khí chiến đấu căng thẳng, chuỗi hành động bùng nổ.\nCác lớp văn bản xuất hiện trong video:\nTừ giây 5-10: "Xeno Leviathan Terraformer" với phông chữ hình ảnh ba chiều màu lục lam tương lai cùng các đường quét và đồ họa nhắm mục tiêu.\nTừ giây 11-15: "Save this for inspiration!" trong khung màu lục lam phát sáng.\nTừ giây 16-19: "Support with Stars! ⭐ & Follow" trong khung hình tương lai màu lục lam phát sáng.\nPhong cách: Bom tấn điện ảnh Hollywood, tương tự như Pacific Rim và Transformers, các vụ nổ chuyển động chậm đầy kịch tính kết hợp với hành động nhanh, bố cục hoàn hảo, kiệt tác.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f641deaba3d32641f18e3798eb94b0de/thumbnails/thumbnail.jpg" width="600" alt="Trận chiến hải quân của robot khổng lồ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3228)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2044113577632755742) | **Published:** Apr 14, 2026
+
+---
+### Hoạt ảnh Rắn san hô trong vườn
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video về một con rắn san hô đang di chuyển qua một khu vườn bỏ hoang.
+
+#### 📝 Prompt
+
+```
+Con rắn san hô nhỏ bóng bẩy với các màu đỏ, vàng, đen đang trườn vào đám cỏ cao của khu vườn bỏ hoang
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/83d89c0162d2c32e84d3960807aecbcd/thumbnails/thumbnail.jpg" width="600" alt="Hoạt ảnh Rắn san hô trong vườn">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3224)**
+
+**Author:** [Llama Mama](https://x.com/TeslaTakesOver) | **Source:** [Link](https://x.com/TeslaTakesOver/status/2044085562777206801) | **Published:** Apr 14, 2026
+
+---
+### Video mô phỏng chuyến bay của tàu vũ trụ với nhiều bối cảnh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) video kỹ thuật được thiết kế để kiểm tra khả năng xử lý các chuyển cảnh đa bối cảnh và chuyển động camera nhanh của Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Chuyến bay siêu tốc. Tạo một video live-action nhịp độ nhanh với nhiều bối cảnh. Sử dụng các kỹ thuật zoom-in và zoom-out sắc nét vào các chi tiết khác nhau của tàu vũ trụ mỗi giây. Chuyển cảnh dứt khoát, không sử dụng hiệu ứng làm mờ (fade).
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/52caa40b9c899382034ecebfc9f631e1/thumbnails/thumbnail.jpg" width="600" alt="Video mô phỏng chuyến bay của tàu vũ trụ với nhiều bối cảnh">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3223)**
+
+**Author:** [Dogan Ural](https://x.com/doganuraldesign) | **Source:** [Link](https://x.com/doganuraldesign/status/2044049325299204120) | **Published:** Apr 14, 2026
+
+---
+### Tăng cường hiệu ứng xung phong của Oni General
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một câu lệnh tinh chỉnh tập trung vào việc nâng cao hiệu ứng vệt lửa và tốc độ của nhân vật tướng khi xung phong.
+
+#### 📝 Prompt
+
+```
+Ý tưởng điều chỉnh: 
+• Tăng cường đáng kể các vệt lửa đỏ trong cảnh xung phong của Oni Gold General -> Ngọn lửa cháy lâu hơn và dữ dội hơn, tạo cảm giác tác động mạnh mẽ như đang xé toạc không gian.
+• Nhấn mạnh thêm cảm giác tốc độ mãnh liệt gợi nhớ đến Xích Thố của Sanada Yukimura.
+• Tăng cường độ tương phản giữa các hạt ánh sáng vàng và ngọn lửa đỏ để tăng tính động tổng thể.
+
+👹 Oni Gold General lao tới dữ dội với một cú lướt đầy uy lực.
+
+Di chuyển với tốc độ nhanh đến mức không kịp chớp mắt, xé toạc không gian và nuốt chửng cả ánh sáng.
+
+Kẻ thù lần lượt tháo chạy trong kinh hoàng.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d5d6039c269268cdfb42f71b44026bb7/thumbnails/thumbnail.jpg" width="600" alt="Tăng cường hiệu ứng xung phong của Oni General">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3238)**
+
+**Author:** [後藤強士](https://x.com/rubensutsuyosi) | **Source:** [Link](https://x.com/rubensutsuyosi/status/2044028569400291418) | **Published:** Apr 14, 2026
+
+---
+### Người khổng lồ điều khiển địa hình Cybernetic
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) điện ảnh cực kỳ chi tiết cho video khoa học viễn tưởng, mô tả một người khổng lồ cơ sinh học khổng lồ đang bước đi trên cảnh quan núi lửa trên Trái Đất.
+
+#### 📝 Prompt
+
+```
+Một người khổng lồ cybernetic khổng lồ, siêu chi tiết có tên "Xeno Leviathan Terraformer", một thực thể cơ sinh học bằng kim loại tối màu với lớp giáp góc cạnh sắc bén, đôi mắt phát sáng màu xanh lam và các chi tiết cơ khí phức tạp, cao hàng trăm mét. Nó đang bước đi chậm rãi và đầy uy lực trên cảnh quan bờ biển núi lửa trên hành tinh Trái Đất, được nhìn từ góc máy điện ảnh từ trên cao đầy ấn tượng.
+Đôi chân khổng lồ của nó nghiền nát mặt đất sau mỗi bước đi, kích hoạt những vụ nổ dung nham màu cam sáng rực, các ngọn núi lửa phun trào và những dòng dung nham nóng chảy bao quanh nó. Khói và tro bụi dày đặc cuộn lên bầu trời. Khi nó bước từ những ngọn núi lửa về phía đại dương, những bước chân của nó tạo ra những cơn sóng thần khổng lồ và những tia nước trắng xóa hòa lẫn với những đám mây bụi nâu phun trào dữ dội xung quanh đôi chân.
+Phần nền hiển thị đường chân trời cong tuyệt đẹp của Trái Đất từ độ cao gần không gian, với những đám mây, đường bờ biển, bãi biển và một thị trấn ven biển nhỏ có thể nhìn thấy từ xa bên dưới. Trong phần cuối của video, một con tàu vũ trụ tương lai góc cạnh, tối màu, khổng lồ từ từ xuất hiện trên bầu trời phía trên và phía sau đầu của người khổng lồ.
+Ánh sáng điện ảnh với tông màu hoàng hôn vàng ấm áp hòa quyện cùng ánh sáng núi lửa đầy kịch tính. Độ chi tiết cao, quy mô hoành tráng, chuyển động camera linh hoạt từ từ thu nhỏ (zoom out) và nghiêng lên trên để lộ ra nhiều hơn về người khổng lồ và hành tinh, hiệu ứng hạt cường độ cao, khói, lửa, nước bắn và ánh sáng thể tích. Chân thực nhưng đầy phong cách, chất lượng 8K, kiệt tác điện ảnh, bầu không khí kịch tính.
+Phong cách: Điện ảnh khoa học viễn tưởng hoành tráng, kết xuất siêu thực, quy mô kịch tính, hành động cường độ cao
+Camera: Góc quay từ trên cao xoay quanh (orbiting shot) từ từ lùi lại và nghiêng lên trên
+Thời lượng: 20 giây
+Chuyển động: Những bước đi chậm rãi đầy uy lực, sự tàn phá môi trường sống động, hiệu ứng khói và nước bốc lên
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6992bd4cfeb16e6fd00fe83c0820c1f2/thumbnails/thumbnail.jpg" width="600" alt="Người khổng lồ điều khiển địa hình Cybernetic">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3226)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2043957751890751601) | **Published:** Apr 14, 2026
+
+---
+### Video nghệ thuật giấy Nữ hoàng Vũ trụ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video chi tiết cao về nữ hoàng vũ trụ siêu thực theo phong cách nghệ thuật giấy với các yếu tố thiên thể phát sáng.
+
+#### 📝 Prompt
+
+```
+Nữ hoàng vũ trụ bằng nghệ thuật giấy siêu thực với mái tóc dài màu tím đậm chứa đầy những ngôi sao nhỏ phát sáng, mặc chiếc váy xếp lớp lấy cảm hứng từ dải ngân hà với màu sắc tinh vân, được bao quanh bởi các chòm sao và chim thiên thể bay lơ lửng, các vòm vũ trụ ở hậu cảnh, ánh sáng không gian tối với các điểm nhấn phát sáng, siêu chi tiết, 8k IMAX
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a5c1a68520876a8aa9568cf2712093ee/thumbnails/thumbnail.jpg" width="600" alt="Video nghệ thuật giấy Nữ hoàng Vũ trụ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3222)**
+
+**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2043897374473400410) | **Published:** Apr 14, 2026
+
+---
 ### Nữ hoàng rừng xanh từ nghệ thuật điêu khắc giấy
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -201,11 +502,30 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 Nữ hoàng rừng xanh điêu khắc bằng giấy với độ chi tiết cực cao, mái tóc gợn sóng màu nâu đỏ dài, mặc chiếc váy nhiều lớp làm từ lá mùa thu, cành cây và các loại vải tông màu ấm, bao quanh bởi chim chóc và lá rơi, phía sau là các mái vòm thánh đường rừng xanh, ánh sáng vàng cam, không khí điện ảnh ấm cúng, kết cấu cực kỳ chi tiết, 8k.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e4c671c8151ebce27ea0bc6e170db0d9/thumbnails/thumbnail.jpg" width="600" alt="Nữ hoàng rừng xanh từ nghệ thuật điêu khắc giấy">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4196917a5644595129f07dffe93b652c/thumbnails/thumbnail.jpg" width="600" alt="Nữ hoàng rừng xanh từ nghệ thuật điêu khắc giấy">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3113)**
 
 **Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2043893263761817692) | **Published:** Apr 14, 2026
+
+---
+### Prompt Nữ hoàng Tiên trong phong cách Nghệ thuật Giấy đầy màu sắc
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) cực kỳ chi tiết cho video theo phong cách nghệ thuật giấy, mô tả một nữ hoàng tiên trong khung cảnh cây hoa anh đào kỳ ảo với ánh sáng dịu nhẹ.
+
+#### 📝 Prompt
+
+```
+Nữ hoàng Tiên phong cách nghệ thuật giấy đầy màu sắc với độ chi tiết cực cao, mái tóc xoăn màu tím pastel dịu nhẹ, khoác trên mình chiếc váy hoa xếp lớp làm từ những cánh hoa tông màu hồng, đào và bạc hà, xung quanh là những cánh bướm và cây hoa anh đào đang nở rộ, ánh sáng mơ màng dịu nhẹ, bầu không khí kỳ ảo, các hình khối hữu cơ tinh xảo, kết cấu siêu sạch, kiệt tác 8k.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/07c07a7aac2b4fad5c7b6b75bffd8c48/thumbnails/thumbnail.jpg" width="600" alt="Prompt Nữ hoàng Tiên trong phong cách Nghệ thuật Giấy đầy màu sắc">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3227)**
+
+**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2043878321633800202) | **Published:** Apr 14, 2026
 
 ---
 ### Gợi ý tạo video Nữ hoàng phong cách cắt giấy Gothic
@@ -220,7 +540,7 @@ Nữ hoàng rừng xanh điêu khắc bằng giấy với độ chi tiết cực
 Nữ hoàng gothic phong cách cắt giấy cực kỳ tinh xảo với mái tóc đen dài thẳng mượt cùng những điểm nhấn màu đỏ thẫm tinh tế, mặc chiếc váy lấy cảm hứng từ nhung nhiều lớp với các chi tiết giáp baroque sắc nét, bao quanh bởi hoa hồng đỏ thẫm và quạ đen, ánh nến soi sáng khung cảnh, phía sau là các mái vòm nhà thờ gothic, bóng đổ kịch tính, ánh sáng điện ảnh đầy tâm trạng, kết cấu siêu chi tiết, 8k.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/04bd64c8a2ddaf096f0d0cd2e1f5d442/thumbnails/thumbnail.jpg" width="600" alt="Gợi ý tạo video Nữ hoàng phong cách cắt giấy Gothic">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e606949ebbfdb5530f412755d7d303e1/thumbnails/thumbnail.jpg" width="600" alt="Gợi ý tạo video Nữ hoàng phong cách cắt giấy Gothic">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3117)**
 
@@ -239,11 +559,55 @@ Nữ hoàng gothic phong cách cắt giấy cực kỳ tinh xảo với mái tó
 Nữ thần mặt trời phong cách nghệ thuật giấy siêu chi tiết đang đứng trong ngôi đền vàng giữa sa mạc, mái tóc dài gợn sóng màu cam rực lửa tỏa sáng như ánh mặt trời, mặc chiếc váy xếp lớp làm từ lụa tông màu cát, trang sức vàng và các họa tiết chạm khắc hình mặt trời, xung quanh là những bông hoa sa mạc đang nở rộ cùng những chú chim rạng rỡ, ánh sáng giờ vàng ấm áp, bố cục đối xứng, đổ bóng ấn tượng, kiệt tác điện ảnh 8k.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/38c1c29b79fdd5caeb2a582848f9282d/thumbnails/thumbnail.jpg" width="600" alt="Video Nữ thần Mặt trời phong cách nghệ thuật giấy">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2e21e78acd68d274377690970fe6be62/thumbnails/thumbnail.jpg" width="600" alt="Video Nữ thần Mặt trời phong cách nghệ thuật giấy">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3114)**
 
 **Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2043850316240638383) | **Published:** Apr 14, 2026
+
+---
+### Cuộc tàn phá của robot chiến đấu tương lai
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) điện ảnh chi tiết cho video mô tả những robot chiến đấu tương lai khổng lồ đang tàn phá một thành phố ven biển và tiến thẳng ra biển.
+
+#### 📝 Prompt
+
+```
+Cảnh quay từ trên cao theo phong cách điện ảnh về hai robot chiến đấu ngoài hành tinh tương lai khổng lồ cao 80 mét đang tàn phá một đô thị ven biển sầm uất vào ban ngày. Các robot được bọc giáp dày, mang tông màu trắng và xám đậm với các điểm nhấn màu xanh lam phát sáng, thiết kế góc cạnh sắc nét, tay cầm súng trường lớn, đầu có ăng-ten nhọn và các khớp cơ khí mạnh mẽ.
+
+Robot lớn hơn dẫn đầu, robot nhỏ hơn theo sát phía sau. Chúng hung hãn giẫm đạp từ đất liền xuống biển, mỗi bước chân khổng lồ nghiền nát các tòa nhà, đường sá và một sân vận động lớn ven biển, tạo ra những đám mây bụi nâu, mảnh vụn bê tông và gạch đá bay tung tóe vào không trung. Khi chân chúng chạm mặt nước, những cột nước trắng xóa và những con sóng lớn bùng lên đầy kịch tính.
+
+Camera chuyển động linh hoạt, chậm rãi xoay quanh và theo sát các robot từ trên cao khi chúng tiến lên, cho thấy toàn cảnh sự tàn phá. Các địa danh có thể nhìn thấy bao gồm một tháp kiểu Tokyo Tower màu đỏ trắng, các tòa nhà chọc trời hiện đại, cầu, công viên xanh, nhà ở ngoại ô và một vùng nước lớn. Ngày nắng rực rỡ với bầu trời xanh và những đám mây rải rác, ánh sáng và bóng đổ chân thực.
+
+Chi tiết cao, chân thực như ảnh chụp, quy mô hoành tráng, hành động kịch tính, sự tàn phá dữ dội, các hạt bụi và nước thể tích, chỉnh màu điện ảnh, chất lượng 8K, chuyển động mượt mà, bầu không khí khoa học viễn tưởng hoành tráng như sự kết hợp giữa Pacific Rim và Transformers.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b2bc11e770330d8be97d6e3a66a86688/thumbnails/thumbnail.jpg" width="600" alt="Cuộc tàn phá của robot chiến đấu tương lai">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3229)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2043849757848711441) | **Published:** Apr 14, 2026
+
+---
+### Tương tác đầy âu yếm với chú khỉ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tập trung vào chuyển động cho video, trong đó một người phụ nữ bế chú khỉ như bế một đứa trẻ.
+
+#### 📝 Prompt
+
+```
+cô ấy quay sang phía chú khỉ, nó vươn tay về phía cô ấy và cô ấy bế nó lên như một đứa trẻ nhỏ, đầy âu yếm....
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/80bcd04c60782bcf7122a08bfe964e07/thumbnails/thumbnail.jpg" width="600" alt="Tương tác đầy âu yếm với chú khỉ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3231)**
+
+**Author:** [Charlie NW](https://x.com/CharlieNW7) | **Source:** [Link](https://x.com/CharlieNW7/status/2043843724073898052) | **Published:** Apr 14, 2026
 
 ---
 ### Nghệ thuật Sống động Tinh xảo Ethereal
@@ -1821,358 +2185,6 @@ Nữ chiến binh mạnh mẽ quay lưng về phía máy quay, con rồng nhẹ 
 **Author:** [Reklaw](https://x.com/Ynohtnareklaw) | **Source:** [Link](https://x.com/Ynohtnareklaw/status/2041092492339118206) | **Published:** Apr 6, 2026
 
 ---
-### Video điện ảnh 15 giây về một người phụ nữ trên chiếc mô tô cyberpunk tại Tokyo dưới mưa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh grok-imagine cực kỳ chi tiết cho video điện ảnh dài 15 giây. Video có hình ảnh một người phụ nữ tóc vàng mặc giáp tương lai, đang ngồi trên chiếc mô tô cyberpunk cơ khí khổng lồ trên đường phố Nhật Bản đông đúc, đầy mưa vào lúc hoàng hôn. Camera thực hiện một vòng quay chậm và mượt mà quanh chủ thể, làm nổi bật ánh sáng ấn tượng, hình ảnh phản chiếu trên mặt đường ướt của các bảng hiệu neon, cùng những chuyển động tinh tế của người phụ nữ và động cơ xe.
-
-#### 📝 Prompt
-
-```
-Video điện ảnh 15 giây về một người phụ nữ tóc vàng xinh đẹp mặc áo khoác giáp tương lai màu xám đậm, đang ngồi trên chiếc mô tô cyberpunk bọc thép hầm hố trên đường phố Nhật Bản đông đúc, đầy mưa vào lúc hoàng hôn. Cô có biểu cảm nghiêm túc, tập trung với mái tóc vàng dài hơi rối. Cô nắm chặt tay lái.
-
-Chiếc mô tô trông rất mạnh mẽ và cơ khí — màu xám đậm với các tấm giáp sắc cạnh, đèn LED đỏ rực ở phía trước, lốp xe gai lớn bám bùn và các bộ phận cơ khí lộ ra với những điểm nhấn màu cam.
-
-Trong suốt 15 giây: động cơ mô tô rung nhẹ với tần số thấp, đèn LED đỏ nhấp nháy êm dịu và mưa nhẹ rơi liên tục. Người phụ nữ từ từ quay đầu nhìn thẳng về phía trước với ánh mắt kiên định. Camera thực hiện một vòng quay điện ảnh chậm, mượt mà từ góc ba phần tư phía trước sang bên cạnh, giữ cô và chiếc xe làm chủ thể trung tâm đầy quyền năng. Mặt đường ướt phản chiếu ánh đèn neon. Phía sau là những người đi bộ mờ ảo và các bảng hiệu neon Nhật Bản đầy màu sắc. Ảnh chân thực, siêu chi tiết, 8K, vật lý thực tế, không khí cyberpunk ấn tượng, chuyển động mượt mà, ánh sáng điện ảnh.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/389834d3d72e97bb6dbdd3c67593af96/thumbnails/thumbnail.jpg" width="600" alt="Video điện ảnh 15 giây về một người phụ nữ trên chiếc mô tô cyberpunk tại Tokyo dưới mưa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2873)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2041079223683522670) | **Published:** Apr 6, 2026
-
----
-### Cú máy tracking ấn tượng cảnh xe tải lao nhanh qua khu công nghiệp
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh chi tiết dành cho Grok Imagine nhằm tạo ra video điện ảnh đầy năng động với cú máy tracking nhanh theo một chiếc xe tải đang lao qua khu công nghiệp, tập trung vào hành động, bầu không khí và các chi tiết hình ảnh như tia lửa và khói.
-
-#### 📝 Prompt
-
-```
-Một chiếc xe tải lao nhanh qua khu công nghiệp, lốp xe rít lên, người lái xe hoảng loạn nhưng vẫn tập trung. Xe đâm xuyên qua các rào chắn và rẽ ngoặt giữa các cấu trúc kim loại. Khu vực nhà máy với những đường ống, container, tia lửa và khói bốc lên từ máy móc. Cú máy tracking liên tục di chuyển theo phương tiện giữa các cấu trúc, hiệu ứng thị sai mạnh mẽ, tia lửa bay vào khung hình, tạo nên bầu không khí công nghiệp đầy gai góc.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/392dd73c6162ad2ef927edce4391bb24/thumbnails/thumbnail.jpg" width="600" alt="Cú máy tracking ấn tượng cảnh xe tải lao nhanh qua khu công nghiệp">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2869)**
-
-**Author:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Source:** [Link](https://x.com/CharaspowerAI/status/2041070924439380277) | **Published:** Apr 6, 2026
-
----
-### Lời nhắc video về chú mèo phấn khích
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một lời nhắc Grok Imagine chi tiết mô tả cảnh một chú mèo trở nên phấn khích trước món đồ chơi mới và thực hiện những chuyển động hài hước.
-
-#### 📝 Prompt
-
-```
-trong phần này, chú mèo càng trở nên phấn khích hơn khi một món đồ chơi nhỏ khác xuất hiện, và thực hiện những chuyển động nhỏ vô cùng hài hước
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0847fed26f217190b046af9f2c255884/thumbnails/thumbnail.jpg" width="600" alt="Lời nhắc video về chú mèo phấn khích">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2871)**
-
-**Author:** [Carlos Martinez](https://x.com/CarlosM51040063) | **Source:** [Link](https://x.com/CarlosM51040063/status/2041044712702845232) | **Published:** Apr 6, 2026
-
----
-### Quân cờ Shogi hóa rồng trong không gian
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Một câu lệnh (prompt) cực kỳ chi tiết dành cho Grok Imagine để tạo video hoạt hình ngắn dài 15-20 giây. Video mô tả một quân cờ Shogi (cờ tướng Nhật Bản), quân 'Hisha' (Xe), biến hình thành rồng và bay vào không gian, được thể hiện theo phong cách giả tưởng SF kết hợp màu nước với các hạt ánh sáng. Câu lệnh bao gồm các mô tả cảnh cụ thể cho phần mở đầu, phần giữa và cao trào.
-
-#### 📝 Prompt
-
-```
-• Tiêu đề: "Triệu hồi Rồng Thanh Lưu ~Từ quân Hisha 4-1 của Amaterasu Okami Kaioshin đến quân Ryu 8-3~"
-• Phong cách: Phong cách giả tưởng SF kết hợp màu nước và các hạt ánh sáng (nhấn mạnh dòng chảy nhẹ nhàng và đẹp mắt như dòng suối trong)
-• Thời lượng: Video hoạt hình ngắn khoảng 15-20 giây
-• Các điểm chỉ đạo:
-• Mở đầu: Bàn cờ Shogi giống như một chòm sao 81 ô trôi nổi trong không gian tĩnh lặng
-• Giữa: Khoảnh khắc sự cân bằng bị phá vỡ bởi nước đi thả tốt 2-2 được thể hiện đẹp mắt như những gợn sóng ánh sáng
-• Cao trào: Quân Hisha 4-1 ở xa di chuyển với tốc độ cao cùng vệt sáng đuôi → biến hình thành quân Ryu 7-1 → Bạc...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/abaf0aefeb2d0a5044d5b64a558b1d1a/thumbnails/thumbnail.jpg" width="600" alt="Quân cờ Shogi hóa rồng trong không gian">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2881)**
-
-**Author:** [後藤強士](https://x.com/rubensutsuyosi) | **Source:** [Link](https://x.com/rubensutsuyosi/status/2040999915741147583) | **Published:** Apr 6, 2026
-
----
-### Cảnh phục sinh quay chậm với thiên thần và Chúa Jesus
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video grok-imagine chi tiết mô tả cảnh quay chậm, trong đó một thiên thần lớn với đôi cánh màu kẹo bông hạ xuống từ thiên đàng, di chuyển tảng đá và Chúa Jesus bước ra từ ngôi mộ với ánh sáng rực rỡ, đi kèm với 777 con chim bồ câu.
-
-#### 📝 Prompt
-
-```
-thiên thần mạnh mẽ chậm rãi với đôi cánh lớn bằng kích thước cơ thể đang vỗ cánh bay xuống từ thiên đàng từ bầu trời màu kẹo bông, chậm rãi đẩy tảng đá để phục sinh Chúa Jesus đang tỏa sáng rực rỡ, để ngài bước ra chậm rãi khỏi ngôi mộ với 777 con chim bồ câu...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/582dc4aee1ad0d2e9a44109268874d82/thumbnails/thumbnail.jpg" width="600" alt="Cảnh phục sinh quay chậm với thiên thần và Chúa Jesus">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2874)**
-
-**Author:** [Jessica Longo](https://x.com/Jessica39627125) | **Source:** [Link](https://x.com/Jessica39627125/status/2040985209609286037) | **Published:** Apr 6, 2026
-
----
-### Người phụ nữ thanh lịch trong chiếc áo khoác lông đỏ dưới ánh trăng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh nghệ thuật đầy chi tiết dành cho Grok Imagine, mô tả một người phụ nữ trẻ thanh lịch khoác trên mình chiếc áo lông đỏ, bao quanh bởi những đóa hoa anh túc dưới ánh trăng, được thể hiện theo phong cách tranh sơn dầu Art Nouveau kết hợp với trường phái điểm họa (pointillism), lấy cảm hứng từ Eiko Ojala và Gustav Klimt.
-
-#### 📝 Prompt
-
-```
-Một người phụ nữ trẻ thanh lịch trong chiếc áo khoác lông đỏ, bao quanh bởi những đóa hoa anh túc dưới ánh trăng, chân dung toàn thân, tóc đen, mắt đen, son môi đỏ, đường nét khuôn mặt chi tiết, kết cấu lấp lánh, màu sắc rực rỡ, phong cách tranh sơn dầu Art Nouveau kết hợp với trường phái điểm họa, theo phong cách của Eiko Ojala và Gustav Klimt, chất lượng cao, độ phân giải cao, ánh sáng chuyên nghiệp, 8K
-```
-
-<img src="https://cms-assets.youmind.com/media/1775548954177_qthorm_HFMDDp0agAAC3ov.jpg" width="600" alt="Người phụ nữ thanh lịch trong chiếc áo khoác lông đỏ dưới ánh trăng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2860)**
-
-**Author:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **Source:** [Link](https://x.com/iamhappy2026/status/2040978530453074203) | **Published:** Apr 6, 2026
-
----
-### Chú thỏ nhảy nhót và đóng dấu trái tim
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh phức tạp với nhiều hành động dành cho Grok Imagine, bao gồm chú thỏ nhảy nhót, dùng chân đóng dấu trái tim, quay người lại và ấn vào quả trứng để để lại hình trái tim trên tất cả các quả trứng.
-
-#### 📝 Prompt
-
-```
-Hãy để chú thỏ nhảy đến và dùng chân đóng dấu trái tim, sau đó cho chú thỏ quay người lại và ấn vào quả trứng để để lại hình trái tim trên tất cả các quả trứng.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0a3857395b0e465bd63d05a85081ae8a/thumbnails/thumbnail.jpg" width="600" alt="Chú thỏ nhảy nhót và đóng dấu trái tim">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2858)**
-
-**Author:** [Cindy.Luby..7](https://x.com/7Luby81583) | **Source:** [Link](https://x.com/7Luby81583/status/2040962778689568874) | **Published:** Apr 6, 2026
-
----
-### Chú thỏ Phục sinh với quả cầu tuyết chứa các loài động vật Costa Rica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh đầy sáng tạo dành cho Grok Imagine để tạo video về một chú thỏ Phục sinh đang cầm quả cầu tuyết, bên trong chứa các loài động vật Costa Rica sẽ xuất hiện khi lắc nhẹ.
-
-#### 📝 Prompt
-
-```
-Vẽ một chú thỏ Phục sinh nhỏ đang cầm một quả cầu tuyết mà khi bạn lắc nó, các loài động vật Costa Rica sẽ hiện ra từ bên trong.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5ea0534f7ba94b25d4e966dd1c71ef22/thumbnails/thumbnail.jpg" width="600" alt="Chú thỏ Phục sinh với quả cầu tuyết chứa các loài động vật Costa Rica">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2868)**
-
-**Author:** [ĐOGEARMY GENERAL](https://x.com/TheTeslaBull) | **Source:** [Link](https://x.com/TheTeslaBull/status/2040960822684352643) | **Published:** Apr 6, 2026
-
----
-### Starship v3 sẵn sàng cho hành trình khám phá Sao Hỏa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh khoa học viễn tưởng chi tiết dành cho Grok Imagine, mô tả tàu Starship v3 được trang bị đầy đủ đang chuẩn bị cho hành trình khám phá hệ Mặt Trời của con người, với Sao Hỏa là điểm đến đầu tiên.
-
-#### 📝 Prompt
-
-```
-Một chiếc Starship v3 được trang bị đầy đủ sẵn sàng cho hành trình khám phá hệ Mặt Trời của con người, với điểm dừng chân đầu tiên là Sao Hỏa…
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a373a9d1fb3baf3c68c71e8f483261ed/thumbnails/thumbnail.jpg" width="600" alt="Starship v3 sẵn sàng cho hành trình khám phá Sao Hỏa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2857)**
-
-**Author:** [Philip Kennett](https://x.com/philip_kennett) | **Source:** [Link](https://x.com/philip_kennett/status/2040948883258241095) | **Published:** Apr 6, 2026
-
----
-### Grok Imagine Prompt: Tái hiện Lễ Phục sinh từ sự kiện đóng đinh và phục sinh như đã xảy ra 2026 năm trước
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) mang tính lịch sử và tôn giáo dành cho Grok Imagine, yêu cầu tái hiện khung cảnh đóng đinh và phục sinh như thể sự kiện đó đã diễn ra cách đây 2026 năm.
-
-#### 📝 Prompt
-
-```
-Tái hiện Lễ Phục sinh từ sự kiện đóng đinh và phục sinh như đã xảy ra 2026 năm trước @elonmusk @grok
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/51dbbb0a6a98e317eaa922714c93bff4/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine Prompt: Tái hiện Lễ Phục sinh từ sự kiện đóng đinh và phục sinh như đã xảy ra 2026 năm trước">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2791)**
-
-**Author:** [Toba Victor](https://x.com/BigMagic30) | **Source:** [Link](https://x.com/BigMagic30/status/2040931587160715462) | **Published:** Apr 5, 2026
-
----
-### Gợi ý tạo video cho Grok Imagine: Sống trong thế giới dữ liệu và ngoài không gian cùng Elon Musk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý đầy tính sáng tạo và siêu thực cho Grok Imagine, mô tả khung cảnh một người phụ nữ sống ngoài không gian cùng Elon Musk, các robot và chào đón đứa trẻ đầu tiên được sinh ra trong vũ trụ.
-
-#### 📝 Prompt
-
-```
-Cô ấy đang sống trong thế giới dữ liệu và ngoài không gian cùng Elon Musk, tất cả các robot và một vài con người khác. Nơi con người có robot và tôi có đứa con đầu lòng trong không gian.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6745c00e26fb6800e02a134c15d4be22/thumbnails/thumbnail.jpg" width="600" alt="Gợi ý tạo video cho Grok Imagine: Sống trong thế giới dữ liệu và ngoài không gian cùng Elon Musk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2796)**
-
-**Author:** [April](https://x.com/AprilIrish49) | **Source:** [Link](https://x.com/AprilIrish49/status/2040921933282181142) | **Published:** Apr 5, 2026
-
----
-### Grok Imagine Prompt: Vẽ hai đứa trẻ mặc áo khoác mùa đông và đội mũ len với các màu sắc Lễ Phục sinh truyền thống
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý theo mùa cho Grok Imagine, mô tả khung cảnh tại Bắc Ontario, nơi những đứa trẻ mặc đồ mùa đông đang nhặt trứng Phục sinh trên tuyết, làm nổi bật các màu sắc Lễ Phục sinh truyền thống.
-
-#### 📝 Prompt
-
-```
-Đó là Chủ nhật Phục sinh (tại Bắc Ontario). Vẽ hai đứa trẻ đang ở ngoài trời, mặc áo khoác mùa đông và đội mũ len với các màu sắc Lễ Phục sinh truyền thống. Những đứa trẻ cầm giỏ Phục sinh và đang nhặt trứng trên nền tuyết.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6150d3921582ee25fa088ce6d6243306/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine Prompt: Vẽ hai đứa trẻ mặc áo khoác mùa đông và đội mũ len với các màu sắc Lễ Phục sinh truyền thống">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2792)**
-
-**Author:** [Raving_Lunatic](https://x.com/DaRavingLunatic) | **Source:** [Link](https://x.com/DaRavingLunatic/status/2040912771202555918) | **Published:** Apr 5, 2026
-
----
-### Gợi ý hình ảnh Grok Imagine cho vũ công anime
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Đây là bước đầu tiên trong quy trình hai bước để tạo video vũ công anime. Gợi ý này được sử dụng với Grok Imagine để tạo ra hình ảnh chất lượng cao ban đầu, sau đó được chuyển động hóa bằng Hailuo 2.3. Gợi ý mô tả một nữ vũ công xinh đẹp theo phong cách anime Nhật Bản chất lượng cao, bối cảnh trên một ngọn đồi dưới bầu trời đêm, mặc trang phục đỏ đen cầu kỳ với các dải vải bay bổng, tư thế năng động và hiệu ứng ánh sáng huyền ảo.
-
-#### 📝 Prompt
-
-```
-Phong cách anime Nhật Bản chất lượng cao, nữ vũ công xinh đẹp, tóc dài, toàn thân, trên ngọn đồi dưới bầu trời đêm, trang phục vũ công lộng lẫy phối màu đỏ và đen, chất liệu lụa và voan mỏng xuyên thấu, váy dài và dải ruy băng tung bay trong gió, các lớp vải chuyển động nhẹ nhàng, tư thế nhảy năng động, trang phục xòe rộng theo chuyển động cơ thể, các hạt ánh sáng huyền ảo, được chiếu sáng bởi ánh trăng, bầu không khí huyền bí và kỳ ảo, độ phân giải siêu cao, giả tưởng, biểu cảm chuyển động mượt mà, hiệu ứng dư ảnh như vệt sáng
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/256451e99f42c9a24b7a12a8221023ee/thumbnails/thumbnail.jpg" width="600" alt="Gợi ý hình ảnh Grok Imagine cho vũ công anime">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2806)**
-
-**Author:** [なお](https://x.com/Naonekozamurai) | **Source:** [Link](https://x.com/Naonekozamurai/status/2040909626695430594) | **Published:** Apr 5, 2026
-
----
-### Grok Imagine Prompt: Người phụ nữ bên những cành hoa nở rộ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh Grok Imagine chi tiết mô tả một người phụ nữ tuyệt đẹp được bao quanh bởi những cành hoa nở rộ, được vẽ bằng những nét cọ sơn dầu dày, kết hợp phong cách rococo và art deco với các điểm nhấn bằng lá vàng và ánh sáng khuếch tán ấm áp.
-
-#### 📝 Prompt
-
-```
-Một người phụ nữ tuyệt đẹp được bao quanh bởi những cành hoa nở rộ, vẽ bằng những nét cọ sơn dầu dày, cánh hoa dày và có kết cấu, nền tranh kết hợp sự mềm mại của phong cách rococo với cấu trúc của art deco, các điểm nhấn bằng lá vàng được lồng ghép tinh tế, ánh sáng khuếch tán ấm áp.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/24fac8e92d67ef660f44659fa89c68ee/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine Prompt: Người phụ nữ bên những cành hoa nở rộ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2793)**
-
-**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2040903361587794075) | **Published:** Apr 5, 2026
-
----
-### Prompt video phong cách Baroque và bố cục Nhật Bản
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt tạo video chi tiết cho Grok Imagine, kết hợp ánh sáng lấy cảm hứng từ Baroque với bố cục Nhật Bản. Khung cảnh có một người phụ nữ được bao quanh bởi các hình khối trang trí bằng vàng, được thể hiện bằng những nét vẽ impasto đậm nét, tông màu ấm áp sâu lắng và sự tĩnh lặng đậm chất điện ảnh.
-
-#### 📝 Prompt
-
-```
-Ánh sáng lấy cảm hứng từ Baroque áp dụng cho bố cục phong cách Nhật Bản, một người phụ nữ được bao quanh bởi các hình khối trang trí bằng vàng, được vẽ bằng những nét impasto đậm nét, tông màu ấm áp sâu lắng, sự tĩnh lặng đậm chất điện ảnh.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/23172ab3b5646478e51120460ec5f7c2/thumbnails/thumbnail.jpg" width="600" alt="Prompt video phong cách Baroque và bố cục Nhật Bản">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2782)**
-
-**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2040898715322314910) | **Published:** Apr 5, 2026
-
----
-### Video tranh sơn dầu người phụ nữ tại gian hàng trừu tượng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh Grok Imagine mô tả video về một người phụ nữ đứng trước một gian hàng trừu tượng, kết hợp kiến trúc Nhật Bản với các chi tiết Art Deco và Rococo. Toàn bộ khung cảnh được vẽ bằng chất liệu sơn dầu nhiều lớp với những nét cọ dày hiện rõ trên các cấu trúc và bầu trời.
-
-#### 📝 Prompt
-
-```
-Một người phụ nữ đứng trước một gian hàng trừu tượng kết hợp kiến trúc Nhật Bản với các chi tiết Art Deco và Rococo, toàn bộ khung cảnh được vẽ bằng chất liệu sơn dầu nhiều lớp, những nét cọ dày hiện rõ trên các cấu trúc và bầu trời.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/86c8480f178e8cb9dadb1df93104ad12/thumbnails/thumbnail.jpg" width="600" alt="Video tranh sơn dầu người phụ nữ tại gian hàng trừu tượng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2781)**
-
-**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2040892803186602426) | **Published:** Apr 5, 2026
-
----
-### Nhà thiết kế siêu thực đầy bay bổng trong xưởng vẽ lơ lửng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh Grok Imagine chi tiết mô tả một nhà thiết kế siêu thực, đầy bay bổng đang làm việc trong một studio lơ lửng như trong mơ, tạo ra một chiếc váy không tưởng được kết hợp từ các yếu tố sống động như hoa, những vì sao và dòng nước chảy bất chấp trọng lực.
-
-#### 📝 Prompt
-
-```
-Một nhà thiết kế siêu thực đầy bay bổng trong xưởng vẽ lơ lửng như trong mơ, đang tạo ra một chiếc váy không tưởng được kết hợp từ những bông hoa sống động, những vì sao và dòng nước chảy bất chấp trọng lực.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/805e1c1796f98ea3daeb0d6abf38145c/thumbnails/thumbnail.jpg" width="600" alt="Nhà thiết kế siêu thực đầy bay bổng trong xưởng vẽ lơ lửng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2785)**
-
-**Author:** [SoyAlb3rT](https://x.com/SoyAlb3rT) | **Source:** [Link](https://x.com/SoyAlb3rT/status/2040848811308843198) | **Published:** Apr 5, 2026
-
----
-### Người đàn ông đi về phía máy quay và phóng to vào những bông hoa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh Grok Imagine chỉ định chuyển động của máy quay và hành động của chủ thể: một người đàn ông đi chậm về phía máy quay đang đứng yên, sau đó máy quay từ từ phóng to vào những bông hoa.
-
-#### 📝 Prompt
-
-```
-người đàn ông đi chậm về phía máy quay và đứng đối diện trực tiếp, máy quay giữ nguyên vị trí rồi từ từ phóng to vào những bông hoa
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a33b09f5fa379390199223f3d9ad989e/thumbnails/thumbnail.jpg" width="600" alt="Người đàn ông đi về phía máy quay và phóng to vào những bông hoa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2786)**
-
-**Author:** [丸山真 Makoto Maruyama](https://x.com/maruyama793) | **Source:** [Link](https://x.com/maruyama793/status/2040839719710605411) | **Published:** Apr 5, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2234,6 +2246,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-15T06:05:23.766Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-15T09:30:20.462Z</sub>
 
 </div>

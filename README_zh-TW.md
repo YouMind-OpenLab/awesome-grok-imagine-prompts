@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **1093** |
+| 📝 提示詞總數 | **1111** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-04-15** |
 
@@ -189,6 +189,318 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 蜜蜂與紙飛機影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段充滿奇趣的影片提示詞，描繪了一隻停在蒲公英上的蜜蜂，此時一架紙飛機飛入並降落在草地上，將自然景觀與簡單的紙藝巧妙融合。
+
+#### 📝 提示詞
+
+```
+蜜蜂停在黃色的蒲公英花上，一架紙飛機飛入並輕柔地降落在草地上
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/89d162e1fcef4d5865ae86f2b81c3222/thumbnails/thumbnail.jpg" width="600" alt="蜜蜂與紙飛機影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=3239)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2044279489425998000) | **發布時間:** Apr 15, 2026
+
+---
+### 80 年代奇幻風格的巫師與女士
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個 1980 年代奇幻寫實風格的電影級影片提示詞，描繪了一位巫師與一位在深色水域旁的神秘女士。
+
+#### 📝 提示詞
+
+```
+一位披著斗篷的巫師在神秘森林的深色水域旁冥想，在水面之下，湖中空靈的女士正抬頭凝視著巫師，呈現 1980 年代奇幻寫實風格的 35 mm 底片質感
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cd0a4f8c63d1a20461caa3a522f3c0ef/thumbnails/thumbnail.jpg" width="600" alt="80 年代奇幻風格的巫師與女士">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=3232)**
+
+**作者:** [Stoned🍄Ape](https://x.com/StonedApe) | **來源:** [Link](https://x.com/StonedApe/status/2044196291555799126) | **發布時間:** Apr 14, 2026
+
+---
+### 冰雪女王油畫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段關於冰雪女王在冰凍宇宙苔原中進行油畫風格影片創作的描述性提示詞。
+
+#### 📝 提示詞
+
+```
+超寫實油畫，描繪一位冰雪女王站在冰凍的宇宙苔原中，她的頭髮呈白色且帶有結晶感，髮梢凝結著霜花，雙眼為冰藍色，身穿由層疊冰片與雪花紋理組成的禮服，厚塗法筆觸勾勒出凍結的風之紋理，背景為充滿極光的夜空與巨大的冰凍行星，冷色調電影級光影，超細節，戲劇性對比，傑作。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0ca719361c8df28c2f1f996831d8cb6e/thumbnails/thumbnail.jpg" width="600" alt="冰雪女王油畫">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=3230)**
+
+**作者:** [SPACELESS](https://x.com/VOLDEMORT2X) | **來源:** [Link](https://x.com/VOLDEMORT2X/status/2044161592657617206) | **發布時間:** Apr 14, 2026
+
+---
+### 海底女王油畫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一幅巴洛克風格的海底奇幻油畫提示詞，描繪了一位坐在珊瑚寶座上的女王，並帶有生物發光效果。
+
+#### 📝 提示詞
+
+```
+超細緻的海底女王油畫，她坐在珊瑚寶座上，長長的藍綠色秀髮如絲綢般在水中飄動，裝飾著珍珠與生物發光體，雙眼閃爍著綠松石般的光芒，禮服由層疊的珊瑚、貝殼與半透明薄膜製成，厚塗法筆觸營造出水面扭曲與光線散射的效果，背景為深海深淵與發光生物，來自海面的電影級光束，超逼真質感，巴洛克式海底奇幻，大師級品質。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c73d174ff7c989f92143ac86e91db891/thumbnails/thumbnail.jpg" width="600" alt="海底女王油畫">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=3233)**
+
+**作者:** [SPACELESS](https://x.com/VOLDEMORT2X) | **來源:** [Link](https://x.com/VOLDEMORT2X/status/2044157123911672104) | **發布時間:** Apr 14, 2026
+
+---
+### 漫畫風格森林精靈影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個關於漫畫風格動畫的創意影片提示詞，描述精靈與大自然互動的場景。
+
+#### 📝 提示詞
+
+```
+以漫畫風格呈現，一位精靈女士走在森林中，觸碰樹木使葉片萌芽、花朵綻放，觸碰植物使其開花，並伴隨著蝴蝶、蜜蜂與鳴鳥。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d6c6f5ce771928f46f8cae5d83507df4/thumbnails/thumbnail.jpg" width="600" alt="漫畫風格森林精靈影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=3225)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2044154328760627229) | **發布時間:** Apr 14, 2026
+
+---
+### 水晶沙漠女皇
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一幅超現實油畫提示詞，描繪了水晶沙丘景觀中的女皇，並帶有折射光影效果。
+
+#### 📝 提示詞
+
+```
+超細緻電影感油畫，描繪一位沙漠女皇站在無盡的水晶沙丘景觀中，她留著長髮，編織著半透明石英髮絲，反射著陽光，雙眼閃爍著琥珀金色，身穿由碎玻璃片與金箔縫線融合而成的飄逸長袍，厚塗法筆觸清晰可見，尤其是在天空與布料部分，背景充滿了巨大的懸浮稜鏡，將光線折射成彩虹焦散效果，溫暖的黃金時刻光影，風揚起玻璃塵埃，巴洛克超現實主義融合，超高紋理表面，博物館級傑作，8k，體積光，戲劇性構圖。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d49de3f1c45e4df4ec9057565d258e75/thumbnails/thumbnail.jpg" width="600" alt="水晶沙漠女皇">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=3235)**
+
+**作者:** [SPACELESS](https://x.com/VOLDEMORT2X) | **來源:** [Link](https://x.com/VOLDEMORT2X/status/2044152126314623230) | **發布時間:** Apr 14, 2026
+
+---
+### 水晶光之女神
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一款以水晶質感與彩虹光折射為特色的紙雕女神提示詞。
+
+#### 📝 提示詞
+
+```
+超細緻紙雕女神，由水晶與光影構成，長長的透明秀髮折射出彩虹光束，身穿由多面寶石與玻璃結構組成的層次感禮服，周圍環繞著漂浮的水晶與光之鳥，發光環境，稜鏡光效，超寫實反射，8k 電影級傑作。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a85ee818dfbe3d3a3bf8f24e3b2bc650/thumbnails/thumbnail.jpg" width="600" alt="水晶光之女神">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=3237)**
+
+**作者:** [SPACELESS](https://x.com/VOLDEMORT2X) | **來源:** [Link](https://x.com/VOLDEMORT2X/status/2044149105031561691) | **發布時間:** Apr 14, 2026
+
+---
+### 埃及紙藝女王
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一款以埃及風格女王為主題的紙藝風格提示詞，場景設定在皇家神殿中，並帶有金色裝飾。
+
+#### 📝 提示詞
+
+```
+超細緻紙藝風格，埃及風格女王，留著黑色長辮髮型並配戴金色飾品，身穿帶有象形文字圖案的層次感皇家禮服，搭配金屬飾片與飄逸絲綢，周圍環繞著聖鳥與蓮花，背景為古老神殿拱門，溫暖的金色光影，電影級傑作，8k 解析度。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f188561262e6e47d43d4cb29015f1002/thumbnails/thumbnail.jpg" width="600" alt="埃及紙藝女王">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=3236)**
+
+**作者:** [SPACELESS](https://x.com/VOLDEMORT2X) | **來源:** [Link](https://x.com/VOLDEMORT2X/status/2044134986878517344) | **發布時間:** Apr 14, 2026
+
+---
+### 超現實夢境女王
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個紙藝提示詞，描繪了一位在現實扭曲的超現實世界中，擁有彩虹色頭髮的女王。
+
+#### 📝 提示詞
+
+```
+極致超現實的紙藝女王，置身於現實扭曲的夢境世界中，她那長長的粉彩彩虹色頭髮逐漸消融為雲朵，身穿由抽象形狀與流動夢幻紋理組成的多層禮服，周圍環繞著漂浮的花朵與不可思議的鳥類，柔和的超現實光影，極致細節，8k 電影級傑作。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0a99825dc067687e9162488c329f26ca/thumbnails/thumbnail.jpg" width="600" alt="超現實夢境女王">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=3234)**
+
+**作者:** [SPACELESS](https://x.com/VOLDEMORT2X) | **來源:** [Link](https://x.com/VOLDEMORT2X/status/2044114755120762966) | **發布時間:** Apr 14, 2026
+
+---
+### 巨型機甲海戰
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一份好萊塢大片風格的電影級動作提示詞，描繪了一台 200 公尺高的機甲在海洋中與戰鬥機激戰的場景。
+
+#### 📝 提示詞
+
+```
+電影級史詩動作場景，一台名為「Xeno Leviathan Terraformer」的 200 公尺高未來感機甲機器人矗立在海洋中央，俯瞰著海軍艦隊。這台巨型機器人裝甲厚重，擁有精細的機械細節、發光的藍色眼睛以及橙色的能量裝飾。它正與圍繞在身邊的戰鬥機激烈交戰，戰鬥機不斷發射飛彈與機槍。
+巨大的橙色爆炸、火球與濃厚的黑煙在機器人的胸口、肩膀與頭部持續爆發。碎片與火花四處飛濺。機甲在深海中涉水前行，在腿部周圍激起巨大的波浪與白色泡沫。在它下方，數艘現代航空母艦與驅逐艦正向巨型機器人發射飛彈，海面上留下了明亮的火箭軌跡與爆炸痕跡。
+戲劇性的低角度鏡頭，環繞機器人的動態運鏡，高速移動的戰機帶有強烈的動態模糊，白色的凝結尾跡劃過天際。背景呈現出高空視角下的地球弧線，背景為清澈的藍色海洋與明亮的日光照明。電影級光影、體積煙霧、耶穌光、超寫實細節、照片級渲染、8K 畫質、高度細節化、激烈的戰鬥氛圍、爆炸性的動作序列。
+影片中會出現文字疊加：
+第 5-10 秒：「Xeno Leviathan Terraformer」，採用未來感青色全息字體，帶有掃描線與目標鎖定圖形。
+第 11-15 秒：「Save this for inspiration!」，位於發光的青色方框內。
+第 16-19 秒：「Support with Stars! ⭐ & Follow」，位於發光的青色未來感邊框內。
+風格：好萊塢大片電影感，類似《環太平洋》與《變形金剛》，戲劇性的慢動作爆炸與快節奏動作相結合，完美的構圖，傑作。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f641deaba3d32641f18e3798eb94b0de/thumbnails/thumbnail.jpg" width="600" alt="巨型機甲海戰">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=3228)**
+
+**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **來源:** [Link](https://x.com/ThoughCreator/status/2044113577632755742) | **發布時間:** Apr 14, 2026
+
+---
+### 花園珊瑚蛇動畫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段關於珊瑚蛇在廢棄花園中穿梭的影片生成提示詞。
+
+#### 📝 提示詞
+
+```
+一條閃閃發光的小型珊瑚蛇，身上有紅色、黃色與黑色條紋，正緩緩爬入廢棄花園的高草叢中
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/83d89c0162d2c32e84d3960807aecbcd/thumbnails/thumbnail.jpg" width="600" alt="花園珊瑚蛇動畫">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=3224)**
+
+**作者:** [Llama Mama](https://x.com/TeslaTakesOver) | **來源:** [Link](https://x.com/TeslaTakesOver/status/2044085562777206801) | **發布時間:** Apr 14, 2026
+
+---
+### 多場景太空船飛行影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個技術性影片提示詞，旨在測試 Grok Imagine 處理多場景轉換與快速鏡頭移動的能力。
+
+#### 📝 提示詞
+
+```
+超高速飛行。製作一部多場景、快節奏的實景影片。每秒對太空船的不同細節進行銳利的縮放（Zoom-in）與拉遠（Zoom-out）。場景轉換需乾脆俐落，不要使用淡入淡出效果。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/52caa40b9c899382034ecebfc9f631e1/thumbnails/thumbnail.jpg" width="600" alt="多場景太空船飛行影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=3223)**
+
+**作者:** [Dogan Ural](https://x.com/doganuraldesign) | **來源:** [Link](https://x.com/doganuraldesign/status/2044049325299204120) | **發布時間:** Apr 14, 2026
+
+---
+### 增強版鬼將軍衝鋒
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一個專注於增強火焰拖尾與將軍角色衝鋒速度的調整提示詞。
+
+#### 📝 提示詞
+
+```
+調整概念：
+• 顯著增強鬼金將軍衝鋒場景中的紅色火焰拖尾 -> 火焰燃燒得更久、更猛烈，增加如同撕裂空間般的衝擊力。
+• 進一步強調類似真田幸村之赤兔馬那種狂野的速度感。
+• 加強金色光粒子與紅色火焰之間的對比，以提升整體的動態感。
+
+👹 鬼金將軍帶著猛烈的衝刺狂暴突擊。
+
+移動速度快到讓人無法眨眼，撕裂空間並吞噬光線。
+
+敵人因恐懼而紛紛逃竄。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d5d6039c269268cdfb42f71b44026bb7/thumbnails/thumbnail.jpg" width="600" alt="增強版鬼將軍衝鋒">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=3238)**
+
+**作者:** [後藤強士](https://x.com/rubensutsuyosi) | **來源:** [Link](https://x.com/rubensutsuyosi/status/2044028569400291418) | **發布時間:** Apr 14, 2026
+
+---
+### 賽博龐克巨型地球改造者
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個高度細緻的科幻影片電影級提示詞，描繪了一個巨大的生物機械巨人行走在地球火山景觀上的場景。
+
+#### 📝 提示詞
+
+```
+一個巨大且極致細膩的賽博龐克巨人，名為「Xeno Leviathan Terraformer」，這是一個擁有銳利幾何裝甲、發光藍色雙眼與複雜機械細節的深色金屬生物機械巨像，身高達數百公尺。他正以緩慢而強而有力的步伐，行走在地球的火山海岸景觀上，畫面呈現出戲劇性的高角度電影視角。
+
+他巨大的雙腳每踏出一步都會震碎地面，引發明亮的橘色岩漿大爆炸，火山噴發，熔岩河流在他身邊流淌。濃煙與火山灰直衝雲霄。當他從火山群山走向海洋時，他的腳步激起了巨大的海嘯，以及混雜著褐色塵埃雲的巨大白色水花，在他腿部周圍猛烈噴發。
+
+背景展示了從近太空高度俯瞰地球美麗的弧形地平線，遠處下方可見雲層、海岸線、沙灘與一座小型沿海城鎮。在影片的最後部分，一艘巨大、深色、具有幾何感的未來派太空船緩緩出現在巨人頭部上方的天空中。
+
+電影級燈光融合了溫暖的金色日落色調與戲劇性的火山光芒。高度細節化，史詩級規模，動態攝影機緩慢拉遠並向上傾斜，以呈現巨人與行星的更多細節，強烈的粒子效果、煙霧、火焰、水花與體積光。照片級真實感且具備風格化，8K 畫質，電影級傑作，戲劇性氛圍。
+
+風格：史詩級科幻電影，超寫實渲染，戲劇性規模，強烈動作感
+攝影機：高角度環繞鏡頭，緩慢拉遠並向上傾斜
+時長：20 秒
+動態：緩慢而強而有力的步行步伐，動態環境破壞，升騰的煙霧與水花效果
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6992bd4cfeb16e6fd00fe83c0820c1f2/thumbnails/thumbnail.jpg" width="600" alt="賽博龐克巨型地球改造者">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=3226)**
+
+**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **來源:** [Link](https://x.com/ThoughCreator/status/2043957751890751601) | **發布時間:** Apr 14, 2026
+
+---
+### 宇宙女王紙藝影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個高度詳細的影片提示詞，旨在呈現紙藝風格中超寫實的宇宙女王，並帶有發光的星體元素。
+
+#### 📝 提示詞
+
+```
+超寫實紙藝宇宙女王，留著深紫色長髮，髮絲中點綴著微小的發光恆星，身穿靈感源自銀河的層次感飄逸禮服，色調如星雲般絢麗，周圍環繞著漂浮的星座與星際鳥類，背景為宇宙拱門，深邃的太空光影搭配發光高光，細節極致，8k IMAX 畫質
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a5c1a68520876a8aa9568cf2712093ee/thumbnails/thumbnail.jpg" width="600" alt="宇宙女王紙藝影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=3222)**
+
+**作者:** [SPACELESS](https://x.com/VOLDEMORT2X) | **來源:** [Link](https://x.com/VOLDEMORT2X/status/2043897374473400410) | **發布時間:** Apr 14, 2026
+
+---
 ### 紙雕森林女王
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -201,11 +513,30 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 超細緻的紙雕森林女王，擁有長長的赤褐色波浪捲髮，身穿由秋葉、樹枝和暖色調布料製成的層次感禮服，周圍環繞著鳥群與落葉，背景為森林大教堂拱門，金橙色光影，溫馨的電影氛圍，極致細膩的紋理，8k 解析度。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e4c671c8151ebce27ea0bc6e170db0d9/thumbnails/thumbnail.jpg" width="600" alt="紙雕森林女王">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4196917a5644595129f07dffe93b652c/thumbnails/thumbnail.jpg" width="600" alt="紙雕森林女王">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=3113)**
 
 **作者:** [SPACELESS](https://x.com/VOLDEMORT2X) | **來源:** [Link](https://x.com/VOLDEMORT2X/status/2043893263761817692) | **發布時間:** Apr 14, 2026
+
+---
+### 色彩繽紛的紙藝精靈女王提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一份針對紙藝風格影片的高度詳細提示詞，描繪了一位身處夢幻櫻花樹環境中、擁有柔和光影的精靈女王。
+
+#### 📝 提示詞
+
+```
+超細緻色彩繽紛的紙藝精靈女王，擁有柔和粉紫色捲髮，身穿由粉色、桃色和薄荷色花瓣組成的層次感花朵裙，周圍環繞著蝴蝶與盛開的櫻花樹，柔和夢幻的燈光，魔法氛圍，錯綜複雜的有機形狀，極致乾淨的紋理，8k 大師級作品。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/07c07a7aac2b4fad5c7b6b75bffd8c48/thumbnails/thumbnail.jpg" width="600" alt="色彩繽紛的紙藝精靈女王提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=3227)**
+
+**作者:** [SPACELESS](https://x.com/VOLDEMORT2X) | **來源:** [Link](https://x.com/VOLDEMORT2X/status/2043878321633800202) | **發布時間:** Apr 14, 2026
 
 ---
 ### 哥德式剪紙風格女王影片提示詞
@@ -220,7 +551,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 極致精細的剪紙風格哥德女王，留著烏黑亮麗的直長髮並帶有細微的深紅色挑染，身穿靈感源自深色層次天鵝絨的禮服，搭配銳利的巴洛克風格盔甲細節，周圍環繞著深紅玫瑰與黑鴉，燭光照亮場景，背景為哥德式教堂拱門，戲劇性的陰影，充滿氛圍的電影級燈光，超細膩質感，8k 解析度。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/04bd64c8a2ddaf096f0d0cd2e1f5d442/thumbnails/thumbnail.jpg" width="600" alt="哥德式剪紙風格女王影片提示詞">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e606949ebbfdb5530f412755d7d303e1/thumbnails/thumbnail.jpg" width="600" alt="哥德式剪紙風格女王影片提示詞">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=3117)**
 
@@ -239,11 +570,55 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 超細緻紙藝風格，太陽女神佇立於金色的沙漠神殿中，她那長長的火橘色波浪捲髮如陽光般閃耀，身穿由沙色絲綢製成的多層次禮服，佩戴黃金飾品與太陽形狀的雕刻，周圍環繞著綻放的沙漠花卉與光芒四射的鳥兒，溫暖的黃金時刻光影，對稱構圖，戲劇性的陰影，8k 電影級傑作。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/38c1c29b79fdd5caeb2a582848f9282d/thumbnails/thumbnail.jpg" width="600" alt="紙藝太陽女神影片">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2e21e78acd68d274377690970fe6be62/thumbnails/thumbnail.jpg" width="600" alt="紙藝太陽女神影片">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=3114)**
 
 **作者:** [SPACELESS](https://x.com/VOLDEMORT2X) | **來源:** [Link](https://x.com/VOLDEMORT2X/status/2043850316240638383) | **發布時間:** Apr 14, 2026
+
+---
+### 未來派機甲狂潮
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個高度細緻的電影級影片提示詞，描繪了巨大的未來派機甲摧毀沿海城市並踏入大海的場景。
+
+#### 📝 提示詞
+
+```
+從高空俯瞰的電影級鏡頭，兩台 80 公尺高的巨大未來派外星戰爭機甲在白天的密集沿海大都市中橫衝直撞。機甲裝甲厚重，採用白色與深灰色配色，點綴著發光的藍色細節，外型銳利且稜角分明，手中握著大型步槍，頭部裝有天線尖刺，機械關節強而有力。
+
+較大的機甲領頭，稍小的機甲緊隨其後。牠們氣勢洶洶地從陸地踏入海中，每一步巨大的腳步都摧毀了建築物、道路和一座大型海濱體育場，激起巨大的棕色塵土、混凝土碎片和瓦礫飛揚。當牠們的腳掌擊中水面時，激起了巨大的白色水花與浪潮，場面壯觀。
+
+動態攝影機從上方緩慢繞行並追蹤機甲的推進過程，展現出破壞的全貌。可見的地標包括一座紅白色東京鐵塔風格的塔樓、現代摩天大樓、橋樑、綠色公園、郊區住宅以及大片水域。陽光明媚，藍天白雲，光影效果逼真。
+
+高度細節、照片級真實感、史詩規模、戲劇性動作、強烈的破壞感、體積感塵埃與水粒子、電影級調色、8K 畫質、流暢動作，營造出如同《環太平洋》遇上《變形金剛》般的史詩級科幻氛圍。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b2bc11e770330d8be97d6e3a66a86688/thumbnails/thumbnail.jpg" width="600" alt="未來派機甲狂潮">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=3229)**
+
+**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **來源:** [Link](https://x.com/ThoughCreator/status/2043849757848711441) | **發布時間:** Apr 14, 2026
+
+---
+### 與猴子的溫馨互動
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個針對影片動作設計的提示詞，描述一位女性像抱小孩一樣抱起一隻猴子。
+
+#### 📝 提示詞
+
+```
+她轉身面向猴子，猴子向她伸出手，接著她像抱小孩子一樣溫柔地將牠抱起，充滿了愛意……
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/80bcd04c60782bcf7122a08bfe964e07/thumbnails/thumbnail.jpg" width="600" alt="與猴子的溫馨互動">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=3231)**
+
+**作者:** [Charlie NW](https://x.com/CharlieNW7) | **來源:** [Link](https://x.com/CharlieNW7/status/2043843724073898052) | **發布時間:** Apr 14, 2026
 
 ---
 ### 空靈的生命藝術品金銀絲工藝
@@ -1822,358 +2197,6 @@ Show me a film still never seen before brand new shot on ARRI Alexa, hyper reali
 **作者:** [Reklaw](https://x.com/Ynohtnareklaw) | **來源:** [Link](https://x.com/Ynohtnareklaw/status/2041092492339118206) | **發布時間:** Apr 6, 2026
 
 ---
-### 15 秒電影感影片：一位女性騎著賽博龐克摩托車行駛在雨中的東京
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個用於 grok-imagine 的高細節提示詞，旨在生成 15 秒的電影感影片。畫面呈現一位身穿未來感盔甲的金髮女性，在黃昏時分繁忙且陰雨綿綿的日本街道上，騎著一台巨大的機械賽博龐克摩托車。鏡頭以緩慢平滑的方式環繞主體拍攝，強調戲劇性的光影效果、霓虹燈在濕地上的倒影，以及女性與摩托車引擎的細微動作。
-
-#### 📝 提示詞
-
-```
-15 秒電影感影片：一位美麗的金髮女性身穿深灰色未來感盔甲夾克，坐在繁忙且陰雨綿綿的日本街道上，騎著一台巨大且裝甲厚重的賽博龐克摩托車。她表情嚴肅專注，留著一頭略顯凌亂的長金髮，雙手緊握車把。
-
-這台摩托車外型粗獷且充滿機械感，採用深灰色調，配有銳利的裝甲板、車頭閃爍的紅色 LED 燈、巨大的泥濘越野輪胎，以及帶有橙色點綴的裸露機械零件。
-
-在 15 秒的過程中：摩托車引擎發出低沉的震動，紅色 LED 燈輕柔閃爍，細雨持續落下。女性緩慢轉頭，以堅定的目光直視前方。鏡頭從前側四分之三視角緩慢平滑地環繞至側面，始終將她與摩托車作為強而有力的核心主體。濕潤的地面反射著霓虹燈光。背景中可見模糊的行人與色彩繽紛的日本霓虹招牌。照片級真實感、超高細節、8K 解析度、真實物理效果、戲劇性的賽博龐克氛圍、流暢的動作、電影級燈光。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/389834d3d72e97bb6dbdd3c67593af96/thumbnails/thumbnail.jpg" width="600" alt="15 秒電影感影片：一位女性騎著賽博龐克摩托車行駛在雨中的東京">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2873)**
-
-**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **來源:** [Link](https://x.com/ThoughCreator/status/2041079223683522670) | **發布時間:** Apr 6, 2026
-
----
-### 一輛廂型車在工業園區中飛馳的帥氣追蹤鏡頭
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個為 Grok Imagine 設計的詳細提示詞，旨在生成一段充滿動感的電影級影片，捕捉廂型車在工業園區中飛馳的快速追蹤鏡頭，強調動作感、氛圍以及火花和煙霧等視覺細節。
-
-#### 📝 提示詞
-
-```
-一輛廂型車在工業園區中飛馳，輪胎發出刺耳的摩擦聲，駕駛神情驚慌但專注。車輛衝破障礙物，並在金屬結構間急轉彎。場景為充滿管道、貨櫃、火花以及機械冒出煙霧的工廠區域。連續的追蹤鏡頭跟隨車輛在結構間穿梭，具有強烈的視差線條，火花飛入畫面，呈現出粗獷的工業氛圍。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/392dd73c6162ad2ef927edce4391bb24/thumbnails/thumbnail.jpg" width="600" alt="一輛廂型車在工業園區中飛馳的帥氣追蹤鏡頭">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2869)**
-
-**作者:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **來源:** [Link](https://x.com/CharaspowerAI/status/2041070924439380277) | **發布時間:** Apr 6, 2026
-
----
-### 興奮貓咪動作影片提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份詳細的 Grok Imagine 提示詞，描述了一隻貓咪被新玩具吸引而變得興奮，並做出逗趣動作的場景。
-
-#### 📝 提示詞
-
-```
-在此片段中，當另一個小玩具靠近時，貓咪變得更加興奮，並做出了最逗趣的小動作。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0847fed26f217190b046af9f2c255884/thumbnails/thumbnail.jpg" width="600" alt="興奮貓咪動作影片提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2871)**
-
-**作者:** [Carlos Martinez](https://x.com/CarlosM51040063) | **來源:** [Link](https://x.com/CarlosM51040063/status/2041044712702845232) | **發布時間:** Apr 6, 2026
-
----
-### 將棋棋子在太空中化身為龍
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 這是一個為 Grok Imagine 設計的高細節提示詞，用於生成 15-20 秒的短動畫影片。影片內容為一枚將棋棋子「飛車」化身為龍並飛向太空，採用水彩與奇幻科幻風格，並結合光粒子特效。提示詞包含開場、中段與高潮的具體場景描述。
-
-#### 📝 提示詞
-
-```
-• 標題：「清流之龍召喚 ~從天照大神界王神的 4-1 飛車到 8-3 龍~」
-• 風格：奇幻科幻風格融合水彩與光粒子（強調如清流般柔和優美的流動感）
-• 長度：約 15-20 秒的短動畫影片
-• 指導要點：
-• 開場：如同 81 格星系的將棋專案漂浮在寧靜的太空中
-• 中段：因 2-2 步兵打入而打破平衡的瞬間，以光之漣漪的形式優美呈現
-• 高潮：遠處的 4-1 飛車拖著光尾高速移動 → 化身為 7-1 龍 → 銀...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/abaf0aefeb2d0a5044d5b64a558b1d1a/thumbnails/thumbnail.jpg" width="600" alt="將棋棋子在太空中化身為龍">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2881)**
-
-**作者:** [後藤強士](https://x.com/rubensutsuyosi) | **來源:** [Link](https://x.com/rubensutsuyosi/status/2040999915741147583) | **發布時間:** Apr 6, 2026
-
----
-### 天使與耶穌基督的慢動作復活場景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個詳細的 grok-imagine 影片提示詞，描述了一個慢動作場景：一位擁有棉花糖色翅膀的大天使從天而降，移開岩石，耶穌基督在 777 隻鴿子的簇擁下，散發著耀眼的光芒從墓中復活。
-
-#### 📝 提示詞
-
-```
-緩慢且強壯的天使，擁有與身體等大的翅膀，從棉花糖色的天空中拍動翅膀飛降而下，緩慢地推開岩石，讓發著耀眼光芒的耶穌基督復活，並讓他緩步走出墓穴，伴隨著 777 隻鴿子...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/582dc4aee1ad0d2e9a44109268874d82/thumbnails/thumbnail.jpg" width="600" alt="天使與耶穌基督的慢動作復活場景">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2874)**
-
-**作者:** [Jessica Longo](https://x.com/Jessica39627125) | **來源:** [Link](https://x.com/Jessica39627125/status/2040985209609286037) | **發布時間:** Apr 6, 2026
-
----
-### 月光下身穿紅色皮草大衣的優雅女子
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個為 Grok Imagine 設計的高細節藝術提示詞，描述了一位身穿紅色皮草大衣、被罌粟花環繞的優雅年輕女子，在月光下呈現出融合點彩畫法的「新藝術運動」油畫風格，靈感源自 Eiko Ojala 與 Gustav Klimt。
-
-#### 📝 提示詞
-
-```
-一位身穿紅色皮草大衣的優雅年輕女子，在月光下被罌粟花環繞，全身肖像，黑髮，黑眼，紅色唇膏，細緻的臉部特徵，閃亮的質感，鮮豔的色彩，融合點彩畫法的「新藝術運動」油畫風格，Eiko Ojala 與 Gustav Klimt 風格，高品質，高解析度，專業燈光，8K
-```
-
-<img src="https://cms-assets.youmind.com/media/1775548954177_qthorm_HFMDDp0agAAC3ov.jpg" width="600" alt="月光下身穿紅色皮草大衣的優雅女子">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2860)**
-
-**作者:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **來源:** [Link](https://x.com/iamhappy2026/status/2040978530453074203) | **發布時間:** Apr 6, 2026
-
----
-### 兔子跳躍與蓋上愛心印記
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個為 Grok Imagine 設計的複雜多動作提示詞，內容包含一隻兔子跳躍、用腳蓋上愛心印記、轉身並按壓雞蛋，讓所有雞蛋上都留下愛心圖案。
-
-#### 📝 提示詞
-
-```
-讓兔子跳過來並用腳蓋上愛心印記，接著讓兔子轉身並按壓雞蛋，使所有雞蛋上都留下愛心圖案。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0a3857395b0e465bd63d05a85081ae8a/thumbnails/thumbnail.jpg" width="600" alt="兔子跳躍與蓋上愛心印記">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2858)**
-
-**作者:** [Cindy.Luby..7](https://x.com/7Luby81583) | **來源:** [Link](https://x.com/7Luby81583/status/2040962778689568874) | **發布時間:** Apr 6, 2026
-
----
-### 手持哥斯大黎加動物雪花球的復活節兔
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個為 Grok Imagine 設計的奇幻提示詞，用於生成一段復活節兔手持雪花球的影片，搖晃後會釋放出哥斯大黎加的動物。
-
-#### 📝 提示詞
-
-```
-畫一隻小復活節兔，手裡拿著一個雪花球，當你搖晃它時，哥斯大黎加的動物會從裡面跑出來。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5ea0534f7ba94b25d4e966dd1c71ef22/thumbnails/thumbnail.jpg" width="600" alt="手持哥斯大黎加動物雪花球的復活節兔">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2868)**
-
-**作者:** [ĐOGEARMY GENERAL](https://x.com/TheTeslaBull) | **來源:** [Link](https://x.com/TheTeslaBull/status/2040960822684352643) | **發布時間:** Apr 6, 2026
-
----
-### Starship v3 已準備好進行火星探索
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個為 Grok Imagine 設計的詳細科幻提示詞，描述了配備齊全的 Starship v3 正準備進行人類太陽系探索任務，並以火星作為首站。
-
-#### 📝 提示詞
-
-```
-一艘配備齊全的 Starship v3 已準備好進行人類太陽系探索，首站火星……
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a373a9d1fb3baf3c68c71e8f483261ed/thumbnails/thumbnail.jpg" width="600" alt="Starship v3 已準備好進行火星探索">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2857)**
-
-**作者:** [Philip Kennett](https://x.com/philip_kennett) | **來源:** [Link](https://x.com/philip_kennett/status/2040948883258241095) | **發布時間:** Apr 6, 2026
-
----
-### Grok Imagine 提示詞：重現 2026 年前發生的受難與復活場景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個針對 Grok Imagine 的歷史與宗教類提示詞，旨在請求重現 2026 年前所發生的受難與復活場景。
-
-#### 📝 提示詞
-
-```
-重現 2026 年前發生的受難與復活場景 @elonmusk @grok
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/51dbbb0a6a98e317eaa922714c93bff4/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine 提示詞：重現 2026 年前發生的受難與復活場景">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2791)**
-
-**作者:** [Toba Victor](https://x.com/BigMagic30) | **來源:** [Link](https://x.com/BigMagic30/status/2040931587160715462) | **發布時間:** Apr 5, 2026
-
----
-### Grok Imagine 影片生成提示詞：與 Elon Musk 一起生活在數據罪人與外太空
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個極具想像力且超現實的 Grok Imagine 提示詞，描述了一位女性與 Elon Musk、機器人共同生活在外太空，並誕下首位太空寶寶的場景。
-
-#### 📝 提示詞
-
-```
-她已經與 Elon Musk、所有機器人以及其他幾個人類一起生活在數據罪人與外太空之中。讓人們擁有機器人，而我則在太空中生下了第一個寶寶。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6745c00e26fb6800e02a134c15d4be22/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine 影片生成提示詞：與 Elon Musk 一起生活在數據罪人與外太空">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2796)**
-
-**作者:** [April](https://x.com/AprilIrish49) | **來源:** [Link](https://x.com/AprilIrish49/status/2040921933282181142) | **發布時間:** Apr 5, 2026
-
----
-### Grok Imagine 提示詞：渲染兩名身穿冬裝外套與毛帽、配色採用傳統復活節色調的孩童
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個為 Grok Imagine 設計的季節性提示詞，描述了在安大略省北部，孩子們穿著冬裝在雪地上撿拾復活節彩蛋的場景，並強調了傳統的復活節配色。
-
-#### 📝 提示詞
-
-```
-這是復活節週日（安大略省北部）。渲染兩名身穿冬裝外套與毛帽、配色採用傳統復活節色調的孩童在戶外。孩子們提著復活節籃子，正在雪地上撿拾彩蛋。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6150d3921582ee25fa088ce6d6243306/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine 提示詞：渲染兩名身穿冬裝外套與毛帽、配色採用傳統復活節色調的孩童">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2792)**
-
-**作者:** [Raving_Lunatic](https://x.com/DaRavingLunatic) | **來源:** [Link](https://x.com/DaRavingLunatic/status/2040912771202555918) | **發布時間:** Apr 5, 2026
-
----
-### 用於動漫舞者的 Grok Imagine 圖像提示詞
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 這是製作動漫舞者影片兩步驟流程中的第一步。此特定提示詞用於 Grok Imagine 以生成高品質的初始圖像，隨後使用 Hailuo 2.3 進行動畫製作。該提示詞描述了一位高品質日系動漫風格的絕美舞者，場景設定在夜空下的山丘上，身穿精緻的紅黑配色舞衣，搭配飄逸的布料、動態的姿勢以及夢幻的燈光效果。
-
-#### 📝 提示詞
-
-```
-高品質日系動漫風格，絕美女性舞者，長髮，全身鏡頭，夜空下的山丘，以紅黑色為基調的華麗舞衣，輕薄半透明的絲綢與雪紡材質，長裙與緞帶隨風飄揚，層層布料輕盈舞動，動態舞蹈姿勢，隨身體動作展開的服裝，夢幻光點，月光照耀，神秘且奇幻的氛圍，超高解析度，奇幻，流暢的動作表現，如拖影般的殘像
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/256451e99f42c9a24b7a12a8221023ee/thumbnails/thumbnail.jpg" width="600" alt="用於動漫舞者的 Grok Imagine 圖像提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2806)**
-
-**作者:** [なお](https://x.com/Naonekozamurai) | **來源:** [Link](https://x.com/Naonekozamurai/status/2040909626695430594) | **發布時間:** Apr 5, 2026
-
----
-### Grok Imagine 提示詞：被繁花枝葉環繞的女子
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份詳盡的 Grok Imagine 提示詞，描述了一位被繁花枝葉環繞的絕美女子，採用厚塗油畫筆觸，融合洛可可與裝飾藝術風格，並點綴金箔細節與溫暖的漫射光。
-
-#### 📝 提示詞
-
-```
-一位被繁花枝葉環繞的絕美女子，以厚塗油畫筆觸繪製，花瓣厚實且富有紋理，背景融合了洛可可的柔美與裝飾藝術的結構感，巧妙融入金箔細節，呈現溫暖的漫射光效果。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/24fac8e92d67ef660f44659fa89c68ee/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine 提示詞：被繁花枝葉環繞的女子">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2793)**
-
-**作者:** [SPACELESS](https://x.com/VOLDEMORT2X) | **來源:** [Link](https://x.com/VOLDEMORT2X/status/2040903361587794075) | **發布時間:** Apr 5, 2026
-
----
-### 巴洛克與日式構圖影片提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一份為 Grok Imagine 設計的詳細影片生成提示詞，結合了巴洛克風格的燈光與日式構圖。場景描繪了一位被金色裝飾形態環繞的女性，以濃郁的厚塗筆觸、深邃的暖色調及電影般的靜謐感呈現。
-
-#### 📝 提示詞
-
-```
-巴洛克風格燈光應用於日式構圖，一位女性被金色裝飾形態環繞，以濃郁的厚塗筆觸、深邃的暖色調及電影般的靜謐感繪製而成。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/23172ab3b5646478e51120460ec5f7c2/thumbnails/thumbnail.jpg" width="600" alt="巴洛克與日式構圖影片提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2782)**
-
-**作者:** [SPACELESS](https://x.com/VOLDEMORT2X) | **來源:** [Link](https://x.com/VOLDEMORT2X/status/2040898715322314910) | **發布時間:** Apr 5, 2026
-
----
-### 抽象涼亭前的女子油畫風格影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個 Grok Imagine 提示詞，描述了一段影片：一名女子站在一座抽象涼亭前，該涼亭融合了日本建築、裝飾藝術（Art Deco）與洛可可（Rococo）風格。整幅場景以層次分明的油畫質感呈現，建築物與天空上可見厚重的筆觸。
-
-#### 📝 提示詞
-
-```
-一名女子站在一座融合了日本建築、裝飾藝術與洛可可細節的抽象涼亭前，整幅場景以層次分明的油畫質感繪製，建築物與天空上可見厚重的筆觸。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/86c8480f178e8cb9dadb1df93104ad12/thumbnails/thumbnail.jpg" width="600" alt="抽象涼亭前的女子油畫風格影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2781)**
-
-**作者:** [SPACELESS](https://x.com/VOLDEMORT2X) | **來源:** [Link](https://x.com/VOLDEMORT2X/status/2040892803186602426) | **發布時間:** Apr 5, 2026
-
----
-### 漂浮工作室中的異想超現實設計師
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個詳細的 Grok Imagine 提示詞，描述了一位在夢幻般的漂浮工作室中工作的異想超現實設計師，正在製作一件由花朵、星星和流動水等生命元素組成、且無視重力的夢幻禮服。
-
-#### 📝 提示詞
-
-```
-一位在夢幻漂浮工作室中的異想超現實設計師，正在製作一件由活生生的花朵、星星和流動水組成、且無視重力的夢幻禮服。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/805e1c1796f98ea3daeb0d6abf38145c/thumbnails/thumbnail.jpg" width="600" alt="漂浮工作室中的異想超現實設計師">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2785)**
-
-**作者:** [SoyAlb3rT](https://x.com/SoyAlb3rT) | **來源:** [Link](https://x.com/SoyAlb3rT/status/2040848811308843198) | **發布時間:** Apr 5, 2026
-
----
-### 男子走向鏡頭並聚焦於花朵
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個 Grok Imagine 提示詞，指定了攝影機運動與主體動作：一名男子緩慢走向靜止的攝影機，隨後攝影機緩慢變焦至花朵上。
-
-#### 📝 提示詞
-
-```
-男子緩慢走向鏡頭並正對著它，攝影機保持靜止，隨後緩慢變焦至花朵上
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a33b09f5fa379390199223f3d9ad989e/thumbnails/thumbnail.jpg" width="600" alt="男子走向鏡頭並聚焦於花朵">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=2786)**
-
-**作者:** [丸山真 Makoto Maruyama](https://x.com/maruyama793) | **來源:** [Link](https://x.com/maruyama793/status/2040839719710605411) | **發布時間:** Apr 5, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2235,6 +2258,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-04-15T06:05:15.319Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-04-15T09:30:08.755Z</sub>
 
 </div>
