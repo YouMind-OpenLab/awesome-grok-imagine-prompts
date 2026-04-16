@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1111** |
+| 📝 Total Prompts | **1118** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-04-16** |
 
@@ -189,6 +189,120 @@ Una mistica e nobile Valchiria celestiale, una donna dignitosa e bellissima con 
 
 > 📝 Sorted by publish date (newest first)
 
+### Pixelare la realtà numerica
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un complesso prompt video per Grok che coinvolge una donna dai capelli rossi ed effetti di pixelizzazione numerica per visualizzare l'espansione della mente.
+
+#### 📝 Prompt
+
+```
+Una donna dai capelli rossi molto impegnata che di tanto in tanto prende in mano il telefono ridendo, mentre attorno a lei uno sfondo verde inizia a pixelarsi con i numeri 13 13, 1313, espandendo la nostra mente e permettendoci di prevedere cosa stanno facendo tutti gli altri per cercare di prevedere lei
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/49b7cde214590ca8447c076b1a95bcb7/thumbnails/thumbnail.jpg" width="600" alt="Pixelare la realtà numerica">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3266)**
+
+**Author:** [Jaime Roberts](https://x.com/devilred1376) | **Source:** [Link](https://x.com/devilred1376/status/2044573292002988497) | **Published:** Apr 16, 2026
+
+---
+### Prompt video per movimenti umani naturali
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per Grok Imagine pensato per creare video live-action realistici con movimenti dei personaggi sottili e organici, come sbattere le palpebre e respirare, progettato per evitare gesti esagerati o artificiali.
+
+#### 📝 Prompt
+
+```
+Crea un video live-action dinamico con una persona nell'inquadratura. La persona rimane relativamente ferma con solo movimenti naturali e sottili: lievi rotazioni della testa, battiti di ciglia naturali, respirazione, piccoli spostamenti della postura e dello sguardo. Niente balli, niente cenni con le mani.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2b9854dac24f14b6eae28aaed63a20e2/thumbnails/thumbnail.jpg" width="600" alt="Prompt video per movimenti umani naturali">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3261)**
+
+**Author:** [iGor Salikov](https://x.com/salikov_) | **Source:** [Link](https://x.com/salikov_/status/2044510075683848540) | **Published:** Apr 15, 2026
+
+---
+### Prompt video per illuminazione cinematografica astratta
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt stilisticamente complesso per Grok Imagine che utilizza illuminazione Rembrandt, motion blur e grana della pellicola per creare una sequenza cinematografica astratta e suggestiva.
+
+#### 📝 Prompt
+
+```
+L'illuminazione Rembrandt combinata con una luce notturna fosca crea luci e ombre screziate, diffuse, sfocate e astratte. Accostamento cromatico perfetto, alto contrasto, tonalità scura/fosca, forte grana della pellicola, elevato rumore particellare, sbavature sfocate stratificate, sfocatura focale, motion blur, sovrapposizione di figure e scene, prospettiva forte, prospettiva unica, ampie aree di spazio negativo (spazio bianco), sfondo minimalista e lo schermo incorpora abbellimenti informativi creativi in inglese. 25
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/91532617bb77bbc6919ece90232f4bde/thumbnails/thumbnail.jpg" width="600" alt="Prompt video per illuminazione cinematografica astratta">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3265)**
+
+**Author:** [iGor Salikov](https://x.com/salikov_) | **Source:** [Link](https://x.com/salikov_/status/2044509313566162966) | **Published:** Apr 15, 2026
+
+---
+### Fantasia di barriera corallina sottomarina
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video dettagliato per una scena sottomarina con pesci tropicali e una tartaruga marina che ruotano attorno a una barriera corallina con un'estetica fantasy ad alta saturazione.
+
+#### 📝 Prompt
+
+```
+Un banco di vivaci pesci tropicali volteggia attorno a un'imponente barriera corallina, le loro squame iridescenti brillano di blu elettrico, oro e rosa mentre si intrecciano tra i raggi di sole che filtrano dalla superficie dell'oceano; un'aggraziata tartaruga marina entra in scena, le sue pinne si muovono con un'eleganza senza fretta, mentre la telecamera utilizza un fluido movimento orbitale per seguire il suo percorso rivelando le trame intricate della barriera; stilizzato con un'estetica fantasy sottomarina vivida, colori ad alta saturazione, acqua cristallina ed effetti di particolato che fluttua delicatamente.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c6bf4da789c82053e1e436c39ecd0caa/thumbnails/thumbnail.jpg" width="600" alt="Fantasia di barriera corallina sottomarina">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3264)**
+
+**Author:** [LudovicCreator](https://x.com/LudovicCreator) | **Source:** [Link](https://x.com/LudovicCreator/status/2044385366942073193) | **Published:** Apr 15, 2026
+
+---
+### Animazione carillon luminoso
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un magico prompt video che mostra un carillon dorato e luminoso, da cui fuoriescono cuori e note musicali all'apertura.
+
+#### 📝 Prompt
+
+```
+mostra il bellissimo carillon che si apre e brilla al centro, con una luce dorata che si diffonde e piccoli cuori e note musicali che fluttuano verso l'alto a ogni rintocco.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d7a465d38b78e6be1d4f0c9b1c09bd62/thumbnails/thumbnail.jpg" width="600" alt="Animazione carillon luminoso">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3260)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2044371223300182066) | **Published:** Apr 15, 2026
+
+---
+### Prompt video sguardo naturale
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un'istruzione tecnica per Grok Imagine per creare un video di una persona che guarda lontano dalla fotocamera in una direzione specifica.
+
+#### 📝 Prompt
+
+```
+niente musica, lei non guarda verso la fotocamera, guarda a destra come se qualcuno si stesse avvicinando a lei
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a7fc31990a777db1d8c8c7c8de32c0fd/thumbnails/thumbnail.jpg" width="600" alt="Prompt video sguardo naturale">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3263)**
+
+**Author:** [ESV. Maryam Muktar (MNIVS)™️/ Madam lands](https://x.com/MaRyAm_MuKtAr) | **Source:** [Link](https://x.com/MaRyAm_MuKtAr/status/2044318564811694440) | **Published:** Apr 15, 2026
+
+---
 ### Video di un'ape e un aeroplanino di carta
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +320,27 @@ Ape su fiori gialli di dente di leone, un aeroplanino di carta vola verso il bas
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3239)**
 
 **Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2044279489425998000) | **Published:** Apr 15, 2026
+
+---
+### Video di una pilota di caccia dell'Asia orientale
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt dettagliato per la generazione di video cinematografici per Grok Imagine, con protagonista una pilota di caccia in un cockpit retro-futuristico.
+
+#### 📝 Prompt
+
+```
+Video cinematografico ultra-dettagliato da immagine a video di una bellissima giovane donna dell'Asia orientale nel ruolo di pilota di caccia, seduta all'interno dell'elegante e stretto cockpit di un jet da combattimento.
+
+Indossa un'elegante tuta da pilota retro-futuristica bianca e arancione con colletto del casco e dettagli coordinati.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a4f595ab3cac192b3cd62534b9424fef/thumbnails/thumbnail.jpg" width="600" alt="Video di una pilota di caccia dell'Asia orientale">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3262)**
+
+**Author:** [Colin](https://x.com/quietcolin) | **Source:** [Link](https://x.com/quietcolin/status/2044277892985827598) | **Published:** Apr 15, 2026
 
 ---
 ### Mago e dama fantasy anni '80
@@ -2050,148 +2185,6 @@ Ripresa in movimento dal basso, fluido movimento di carrello su terreno innevato
 **Author:** [InfoCryption](https://x.com/InfoCryptionHQ) | **Source:** [Link](https://x.com/InfoCryptionHQ/status/2041190050893869294) | **Published:** Apr 6, 2026
 
 ---
-### Prompt per Grok Imagine: Arte fantasy con bellissima fata
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per Grok Imagine che richiede una bellissima fata con dettagli specifici come fiori tra i capelli e una farfalla, resa in uno stile artistico fantasy vibrante e di alta qualità con gemme scintillanti e illuminazione professionale.
-
-#### 📝 Prompt
-
-```
-Una bellissima fata con fiori tra i capelli, una farfalla colorata sulla spalla, viso e occhi dettagliati, in stile arte fantasy, colori vivaci e gemme scintillanti. Alta qualità, alta risoluzione, illuminazione professionale, 8K
-```
-
-<img src="https://cms-assets.youmind.com/media/1775548965301_p5y4yk_HFO6RiEbIAI2VGw.jpg" width="600" alt="Prompt per Grok Imagine: Arte fantasy con bellissima fata">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2863)**
-
-**Author:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **Source:** [Link](https://x.com/iamhappy2026/status/2041179985680158926) | **Published:** Apr 6, 2026
-
----
-### Animazione di carica del Generale d'Oro dello Shogi
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt dettagliato per Grok Imagine per generare un breve video animato di 15-20 secondi su un pezzo dello shogi, il 'Kinsho' (Generale d'Oro), che carica aggressivamente le linee nemiche, renderizzato in uno stile acquerello e fantasy SF con particelle di luce dorata. Il prompt specifica il titolo, lo stile, la durata e i punti visivi chiave.
-
-#### 📝 Prompt
-
-```
-Titolo: "Oracolo del Generale d'Oro Oni ~Discende dal cielo per conquistare silenziosamente il campo nemico~"
-• Stile: Stile acquerello + fantasy SF caratterizzato principalmente da fantastiche particelle di luce dorata
-• Durata: Breve video animato di circa 15-20 secondi
-• Punti salienti:
-• Apertura: Una formazione Nakabisha fluttua in uno spazio silenzioso
-• Parte centrale: Il Generale d'Oro del secondo giocatore che carica attivamente in avanti è espresso in modo potente e magnifico con una scia di luce dorata (combinando la forza e l'eleganza del "Generale d'Oro Oni")
-• Climax: Il Generale d'Oro distrugge silenziosamente, ma senza pietà, il campo nemico mentre espande il suo vantaggio
-• Conclusione...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/af7c5e275692f7d3ea1958f964b36342/thumbnails/thumbnail.jpg" width="600" alt="Animazione di carica del Generale d'Oro dello Shogi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2882)**
-
-**Author:** [後藤強士](https://x.com/rubensutsuyosi) | **Source:** [Link](https://x.com/rubensutsuyosi/status/2041155018099945644) | **Published:** Apr 6, 2026
-
----
-### Video cinematografico vibrante di una donna nigeriana con abbigliamento di Lagos
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt che richiede un video cinematografico di 10 secondi in 1080p con protagonista una sicura donna nigeriana di 25 anni, con dettagli fisici e di abbigliamento specifici, che indossa un elegante outfit moderno di Lagos.
-
-#### 📝 Prompt
-
-```
-Crea un video cinematografico vibrante di 10 secondi in 1080p.
-
-Una sicura donna nigeriana di 25 anni con pelle scura, capelli intrecciati in una coda alta con perline colorate, che indossa un elegante outfit moderno di Lagos: top aderente con stampa Ankara, jeans a vita alta, bianchi
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b369480eaae9928e442063b473a674d5/thumbnails/thumbnail.jpg" width="600" alt="Video cinematografico vibrante di una donna nigeriana con abbigliamento di Lagos">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2830)**
-
-**Author:** [David GMI 🌍💎](https://x.com/Davidgmi_01) | **Source:** [Link](https://x.com/Davidgmi_01/status/2041140620668883309) | **Published:** Apr 6, 2026
-
----
-### Raccolta di verdure in campo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt descrittivo per Grok Imagine che mostra un campo durante la raccolta delle verdure, con agricoltori che mostrano l'aspetto di ogni ortaggio appena estratto dalla terra.
-
-#### 📝 Prompt
-
-```
-Un campo durante la raccolta delle verdure con agricoltori che mostrano l'aspetto di ogni ortaggio appena estratto dalla terra
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/070c876b64e233734977c46f2cb65b99/thumbnails/thumbnail.jpg" width="600" alt="Raccolta di verdure in campo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2859)**
-
-**Author:** [Sam](https://x.com/fallmysteries) | **Source:** [Link](https://x.com/fallmysteries/status/2041138815604043852) | **Published:** Apr 6, 2026
-
----
-### Prompt per Grok Imagine: Base per realismo cinematografico
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Una struttura di prompt di base progettata per la modalità qualità di Grok Imagine, pensata per ottenere un realismo cinematografico specificando l'attrezzatura fotografica (ARRI Alexa), la grana della pellicola, le tecniche di illuminazione (key fill lighting), l'ottica (anamorfica) e la profondità di campo.
-
-#### 📝 Prompt
-
-```
-Mostrami un fermo immagine mai visto prima, girato con ARRI Alexa, grana della pellicola iperrealistica, preset LUT, illuminazione key fill, ottica anamorfica, profondità di campo ridotta, 24mm
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5842c3abaec238336940a5b8706df3fe/thumbnails/thumbnail.jpg" width="600" alt="Prompt per Grok Imagine: Base per realismo cinematografico">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2865)**
-
-**Author:** [Kiri](https://x.com/Kyrannio) | **Source:** [Link](https://x.com/Kyrannio/status/2041132845834579975) | **Published:** Apr 6, 2026
-
----
-### Donna su una scala infinita in stile barocco e déco
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per Grok Imagine che descrive una scena con una donna in piedi su una maestosa scala che si innalza all'infinito verso la luce, ambientata in un contesto di architettura barocca e déco, resa con una texture a olio spessa e una palette di colori oro tenue e bianco.
-
-#### 📝 Prompt
-
-```
-Una donna in piedi su una maestosa scala che si innalza all'infinito verso la luce, circondata da un'architettura barocca e déco, texture a olio spessa che enfatizza profondità e luce, espressione calma, quasi trascendente, palette di colori oro tenue e bianco.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f3b45c61ae235fd6b02dd70ea904db61/thumbnails/thumbnail.jpg" width="600" alt="Donna su una scala infinita in stile barocco e déco">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2870)**
-
-**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2041128404393632073) | **Published:** Apr 6, 2026
-
----
-### Video cinematografico di una guerriera che sale su un drago e spicca il volo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video per grok-imagine che descrive una forte guerriera che dà le spalle alla telecamera, sale su un drago mentre questo abbassa delicatamente il dorso, per poi voltarsi mentre il drago prende il volo sopra un paesaggio antico. Il prompt enfatizza una forte coerenza, una scena in piano sequenza, movimenti realistici e l'assenza di musica, texture plastiche o morphing.
-
-#### 📝 Prompt
-
-```
-La forte guerriera dà le spalle alla telecamera, il drago abbassa delicatamente il dorso affinché la guerriera possa salirvi, lei si volta una volta in sella e il drago spicca il volo sopra uno straordinario paesaggio antico. Forte coerenza, scena in piano sequenza, nessun morphing, movimenti e suoni realistici. Niente musica. Niente plastica, vero movimento cinematografico.
-```
-
-<img src="https://cms-assets.youmind.com/media/1775549004366_5swnyj_HFNqGNZbkAAKpNI.jpg" width="600" alt="Video cinematografico di una guerriera che sale su un drago e spicca il volo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2875)**
-
-**Author:** [Reklaw](https://x.com/Ynohtnareklaw) | **Source:** [Link](https://x.com/Ynohtnareklaw/status/2041092492339118206) | **Published:** Apr 6, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2253,6 +2246,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-16T06:07:48.325Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-16T09:27:50.346Z</sub>
 
 </div>

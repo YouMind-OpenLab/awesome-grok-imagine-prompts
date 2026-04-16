@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **1111** |
+| 📝 提示词总数 | **1118** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-04-16** |
 
@@ -189,6 +189,120 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 数字现实的像素化
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个为 Grok 设计的复杂视频提示词，包含一位红发女性和数字像素化效果，旨在可视化思维的扩展。
+
+#### 📝 提示词
+
+```
+一位忙碌的红发女性偶尔拿起手机大笑，她周围的绿色背景开始出现数字 13 13、1313 的像素化效果，象征着我们思维的扩展，以及能够预判他人行为并试图预测她下一步动作的能力。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/49b7cde214590ca8447c076b1a95bcb7/thumbnails/thumbnail.jpg" width="600" alt="数字现实的像素化">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3266)**
+
+**作者:** [Jaime Roberts](https://x.com/devilred1376) | **来源:** [Link](https://x.com/devilred1376/status/2044573292002988497) | **发布时间:** Apr 16, 2026
+
+---
+### 自然人体动作视频提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于 Grok Imagine 的提示词，旨在创作具有细微、有机角色动作（如眨眼和呼吸）的逼真真人视频，避免夸张或不自然的动作。
+
+#### 📝 提示词
+
+```
+创作一段动态真人视频，画面中包含一个人。人物保持相对静止，仅有自然的细微动作——轻微的头部转动、自然的眨眼、呼吸、姿势和视线的微小变换。不要包含跳舞或挥手动作。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2b9854dac24f14b6eae28aaed63a20e2/thumbnails/thumbnail.jpg" width="600" alt="自然人体动作视频提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3261)**
+
+**作者:** [iGor Salikov](https://x.com/salikov_) | **来源:** [Link](https://x.com/salikov_/status/2044510075683848540) | **发布时间:** Apr 15, 2026
+
+---
+### 抽象电影感光效视频提示词
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 这是一个为 Grok Imagine 设计的风格化复杂提示词，通过运用伦勃朗光、动态模糊和胶片颗粒感，营造出一种忧郁且抽象的电影级序列。
+
+#### 📝 提示词
+
+```
+伦勃朗光结合暗夜朦胧光影，营造出斑驳、弥散、模糊且抽象的光影效果。完美的色彩搭配，高对比度，暗色/朦胧色调，强烈的胶片颗粒感，高颗粒噪点，层叠的模糊晕染，焦点模糊，动态模糊，人物与场景的重叠，强透视感，独特的视角，大面积的留白，极简背景，画面融入局部创意英文信息点缀。25
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/91532617bb77bbc6919ece90232f4bde/thumbnails/thumbnail.jpg" width="600" alt="抽象电影感光效视频提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3265)**
+
+**作者:** [iGor Salikov](https://x.com/salikov_) | **来源:** [Link](https://x.com/salikov_/status/2044509313566162966) | **发布时间:** Apr 15, 2026
+
+---
+### 海底珊瑚礁奇幻场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段详细的视频提示词，描述了热带鱼和海龟围绕珊瑚礁游动的海底场景，呈现出高饱和度的奇幻美学风格。
+
+#### 📝 提示词
+
+```
+一群色彩斑斓的热带鱼在巍峨的珊瑚礁周围盘旋，它们那带有虹彩的鳞片在穿透海面的阳光照射下，闪烁着电光蓝、金色和粉色的光芒；一只优雅的海龟缓缓游入画面，鳍状肢摆动间尽显从容，摄像机采用平滑的环绕运镜跟随其轨迹，同时展现出珊瑚礁错综复杂的纹理；整体采用生动的海底奇幻美学风格，色彩高度饱和，海水清澈见底，并伴有轻柔漂浮的微粒效果。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c6bf4da789c82053e1e436c39ecd0caa/thumbnails/thumbnail.jpg" width="600" alt="海底珊瑚礁奇幻场景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3264)**
+
+**作者:** [LudovicCreator](https://x.com/LudovicCreator) | **来源:** [Link](https://x.com/LudovicCreator/status/2044385366942073193) | **发布时间:** Apr 15, 2026
+
+---
+### 发光的音乐盒动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个充满魔力的视频提示词，展示了一个发光的金色音乐盒，随着盒盖打开，爱心和音符从中飘出。
+
+#### 📝 提示词
+
+```
+展示精美的音乐盒在画面中央打开并发出光芒，金色的光辉倾泻而出，随着每一声清脆的铃音，小爱心和音符向上飘浮。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d7a465d38b78e6be1d4f0c9b1c09bd62/thumbnails/thumbnail.jpg" width="600" alt="发光的音乐盒动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3260)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2044371223300182066) | **发布时间:** Apr 15, 2026
+
+---
+### Candid Look 视频提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 为 Grok Imagine 提供的技术指令，用于生成一段人物看向镜头外特定方向的视频。
+
+#### 📝 提示词
+
+```
+无音乐，她没有看向镜头，她看向右侧，仿佛有人正向她走来
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a7fc31990a777db1d8c8c7c8de32c0fd/thumbnails/thumbnail.jpg" width="600" alt="Candid Look 视频提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3263)**
+
+**作者:** [ESV. Maryam Muktar (MNIVS)™️/ Madam lands](https://x.com/MaRyAm_MuKtAr) | **来源:** [Link](https://x.com/MaRyAm_MuKtAr/status/2044318564811694440) | **发布时间:** Apr 15, 2026
+
+---
 ### 蜜蜂与纸飞机视频
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +320,27 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3239)**
 
 **作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2044279489425998000) | **发布时间:** Apr 15, 2026
+
+---
+### 东亚裔战斗机飞行员视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 为 Grok Imagine 制作的电影级视频生成提示词，展示了一位身处复古未来主义驾驶舱内的女性战斗机飞行员。
+
+#### 📝 提示词
+
+```
+电影级超精细图生视频，画面中是一位美丽的年轻东亚裔女性战斗机飞行员，正坐在狭窄而流畅的战斗机驾驶舱内。
+
+她身穿一套时尚的白橙配色复古未来主义飞行服，并搭配了同色系的头盔领口和装饰细节。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a4f595ab3cac192b3cd62534b9424fef/thumbnails/thumbnail.jpg" width="600" alt="东亚裔战斗机飞行员视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3262)**
+
+**作者:** [Colin](https://x.com/quietcolin) | **来源:** [Link](https://x.com/quietcolin/status/2044277892985827598) | **发布时间:** Apr 15, 2026
 
 ---
 ### 80 年代奇幻风格的巫师与女士
@@ -2050,148 +2185,6 @@ Prompt Airways 标志显现，同时一架飞机飞向天空……
 **作者:** [InfoCryption](https://x.com/InfoCryptionHQ) | **来源:** [Link](https://x.com/InfoCryptionHQ/status/2041190050893869294) | **发布时间:** Apr 6, 2026
 
 ---
-### Grok Imagine 提示词：精美的奇幻仙子艺术
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个 Grok Imagine 提示词，要求生成一位精美的仙子，包含头发上的花朵和蝴蝶等细节，以色彩鲜艳、高质量的奇幻艺术风格呈现，并带有闪烁的宝石和专业灯光效果。
-
-#### 📝 提示词
-
-```
-一位美丽的仙子，头发上装饰着花朵，肩上停着一只色彩斑斓的蝴蝶，面部和眼睛细节丰富，采用奇幻艺术风格，色彩鲜艳，点缀着闪烁的宝石。高质量，高分辨率，专业灯光，8K
-```
-
-<img src="https://cms-assets.youmind.com/media/1775548965301_p5y4yk_HFO6RiEbIAI2VGw.jpg" width="600" alt="Grok Imagine 提示词：精美的奇幻仙子艺术">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2863)**
-
-**作者:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **来源:** [Link](https://x.com/iamhappy2026/status/2041179985680158926) | **发布时间:** Apr 6, 2026
-
----
-### 将棋金将冲锋动画
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 这是一份为 Grok Imagine 准备的详细提示词，旨在生成一段 15-20 秒的短动画视频。视频内容为将棋棋子“金将”向敌阵发起猛烈冲锋，采用水彩与科幻奇幻风格，并伴有金色光粒子特效。提示词明确了标题、风格、时长及视觉重点。
-
-#### 📝 提示词
-
-```
-标题：“鬼金将神谕 ~从天而降，静谧征服敌阵~”
-• 风格：水彩风格 + 以梦幻金色光粒子为主的科幻奇幻风格
-• 时长：约 15-20 秒的短动画视频
-• 主要亮点：
-• 开场：中飞车阵型漂浮在静谧的空间中
-• 中段：后手方的金将积极向前冲锋，通过金色光轨展现出强劲而优雅的姿态（结合“鬼金将”的力量感与优雅感）
-• 高潮：金将静谧而无情地摧毁敌阵，同时扩大优势
-• 结尾...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/af7c5e275692f7d3ea1958f964b36342/thumbnails/thumbnail.jpg" width="600" alt="将棋金将冲锋动画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2882)**
-
-**作者:** [後藤強士](https://x.com/rubensutsuyosi) | **来源:** [Link](https://x.com/rubensutsuyosi/status/2041155018099945644) | **发布时间:** Apr 6, 2026
-
----
-### 身着拉各斯时尚服饰的尼日利亚女性，充满活力的电影感视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个提示词，要求生成一段 10 秒、1080p 的电影感视频，主角是一位自信的 25 岁尼日利亚女性，具有特定的外貌和服装细节，身着时尚的现代拉各斯服饰。
-
-#### 📝 提示词
-
-```
-创作一段充满活力、具有电影感的 10 秒 1080p 视频。
-
-一位自信的 25 岁尼日利亚女性，深色皮肤，扎着高马尾辫，编织的发辫上装饰着彩色珠子，身着时尚的现代拉各斯服饰——修身的安卡拉印花上衣、高腰牛仔裤，白色
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b369480eaae9928e442063b473a674d5/thumbnails/thumbnail.jpg" width="600" alt="身着拉各斯时尚服饰的尼日利亚女性，充满活力的电影感视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2830)**
-
-**作者:** [David GMI 🌍💎](https://x.com/Davidgmi_01) | **来源:** [Link](https://x.com/Davidgmi_01/status/2041140620668883309) | **发布时间:** Apr 6, 2026
-
----
-### 田间蔬菜采摘
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是为 Grok Imagine 准备的描述性提示词，展示了蔬菜采摘的田间场景，并由农夫演示每种蔬菜从土里拔出时的样子。
-
-#### 📝 提示词
-
-```
-一片正在采摘蔬菜的田地，农夫们展示着每种蔬菜从土里拔出后的样子
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/070c876b64e233734977c46f2cb65b99/thumbnails/thumbnail.jpg" width="600" alt="田间蔬菜采摘">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2859)**
-
-**作者:** [Sam](https://x.com/fallmysteries) | **来源:** [Link](https://x.com/fallmysteries/status/2041138815604043852) | **发布时间:** Apr 6, 2026
-
----
-### Grok Imagine 提示词：电影级写实基础版
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是一个专为 Grok Imagine 质量模式设计的提示词基础结构，旨在通过指定摄影器材（ARRI Alexa）、胶片颗粒感、布光技术（主光补光）、镜头选择（变形镜头）以及景深，来实现电影级的写实效果。
-
-#### 📝 提示词
-
-```
-Show me a film still never seen before brand new shot on ARRI Alexa, hyper realistic film grain, LUT preset, key fill lighting anamorphic lensing shallow depth of field 24mm
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5842c3abaec238336940a5b8706df3fe/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine 提示词：电影级写实基础版">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2865)**
-
-**作者:** [Kiri](https://x.com/Kyrannio) | **来源:** [Link](https://x.com/Kyrannio/status/2041132845834579975) | **发布时间:** Apr 6, 2026
-
----
-### 巴洛克与装饰艺术风格建筑中，站在无尽阶梯上的女性
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是一个用于 Grok Imagine 的提示词，描述了一位女性站在宏伟阶梯上的场景，阶梯向着光芒无尽延伸，背景融合了巴洛克与装饰艺术风格的建筑，采用厚涂油画质感，色调为柔和的金色与白色。
-
-#### 📝 提示词
-
-```
-一位女性站在宏伟的阶梯上，阶梯向着光芒无尽延伸，周围环绕着巴洛克与装饰艺术风格的建筑，厚涂油画质感突显了深度与光影，她神情平静，仿佛超脱尘世，色调为柔和的金色与白色。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f3b45c61ae235fd6b02dd70ea904db61/thumbnails/thumbnail.jpg" width="600" alt="巴洛克与装饰艺术风格建筑中，站在无尽阶梯上的女性">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2870)**
-
-**作者:** [SPACELESS](https://x.com/VOLDEMORT2X) | **来源:** [Link](https://x.com/VOLDEMORT2X/status/2041128404393632073) | **发布时间:** Apr 6, 2026
-
----
-### 电影级视频：女战士跃上巨龙并展翅高飞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是一个用于 grok-imagine 的视频提示词，描述了一位强悍的女战士背对镜头，在巨龙缓缓降低背部时攀爬上去，随后转身，巨龙载着她飞越古老地貌的场景。该提示词强调了强一致性、一镜到底、逼真的动作，并明确要求无音乐、无塑料感纹理及无形变。
-
-#### 📝 提示词
-
-```
-强悍的女战士背对镜头，巨龙缓缓降低背部，让女战士爬上去；她坐稳后转身，巨龙载着她飞越壮丽的古老地貌。要求强一致性、一镜到底、无形变、逼真的动作与音效。无音乐。无塑料感，呈现真实的电影级动态。
-```
-
-<img src="https://cms-assets.youmind.com/media/1775549004366_5swnyj_HFNqGNZbkAAKpNI.jpg" width="600" alt="电影级视频：女战士跃上巨龙并展翅高飞">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2875)**
-
-**作者:** [Reklaw](https://x.com/Ynohtnareklaw) | **来源:** [Link](https://x.com/Ynohtnareklaw/status/2041092492339118206) | **发布时间:** Apr 6, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2253,6 +2246,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-04-16T06:07:29.702Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-04-16T09:27:33.777Z</sub>
 
 </div>

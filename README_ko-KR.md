@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **1111** |
+| 📝 총 프롬프트 수 | **1118** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-04-16** |
 
@@ -189,6 +189,120 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 숫자 현실의 픽셀화
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 빨간 머리 여성과 숫자 픽셀화 효과를 활용하여 마음의 확장을 시각화하는 Grok용 복잡한 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+바쁜 빨간 머리 여성이 가끔 웃으며 전화를 받고, 그녀 주변의 녹색 배경이 숫자 13 13, 1313으로 픽셀화되기 시작합니다. 이는 우리의 마음을 확장하고 다른 사람들이 무엇을 하는지 예측하여 그녀의 행동을 예측하려는 모습을 시각화합니다.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/49b7cde214590ca8447c076b1a95bcb7/thumbnails/thumbnail.jpg" width="600" alt="숫자 현실의 픽셀화">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3266)**
+
+**작성자:** [Jaime Roberts](https://x.com/devilred1376) | **출처:** [Link](https://x.com/devilred1376/status/2044573292002988497) | **게시일:** Apr 16, 2026
+
+---
+### 자연스러운 인간의 움직임을 위한 비디오 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 눈 깜빡임이나 호흡과 같은 미세하고 유기적인 캐릭터 움직임을 포함하여, 과장되거나 인위적인 동작을 배제한 사실적인 실사 비디오를 생성하기 위한 Grok Imagine 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+프레임 안에 사람이 등장하는 역동적인 실사 비디오를 생성하세요. 인물은 비교적 정지된 상태를 유지하되, 약간의 고개 돌림, 자연스러운 눈 깜빡임, 호흡, 시선 및 자세의 미세한 변화와 같은 자연스럽고 섬세한 움직임만 포함되어야 합니다. 춤을 추거나 손을 흔드는 동작은 제외하세요.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2b9854dac24f14b6eae28aaed63a20e2/thumbnails/thumbnail.jpg" width="600" alt="자연스러운 인간의 움직임을 위한 비디오 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3261)**
+
+**작성자:** [iGor Salikov](https://x.com/salikov_) | **출처:** [Link](https://x.com/salikov_/status/2044510075683848540) | **게시일:** Apr 15, 2026
+
+---
+### 추상적 시네마틱 조명 비디오 프롬프트
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 렘브란트 조명, 모션 블러, 필름 그레인을 활용하여 분위기 있고 추상적인 시네마틱 시퀀스를 생성하는 Grok Imagine용 스타일리시하고 복합적인 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+렘브란트 조명과 어두운 밤의 흐릿한 빛이 결합되어 얼룩덜룩하고 확산된, 흐릿하고 추상적인 명암을 만들어냅니다. 완벽한 색상 매칭, 높은 대비, 어둡고 흐릿한 톤, 강한 필름 그레인, 높은 입자 노이즈, 겹쳐진 흐릿한 번짐 효과, 포커스 블러, 모션 블러, 인물과 장면의 중첩, 강한 원근감, 독특한 시점, 넓은 여백(화이트 스페이스), 미니멀한 배경을 특징으로 하며, 화면에는 창의적인 영문 정보가 부분적으로 포함됩니다. 25
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/91532617bb77bbc6919ece90232f4bde/thumbnails/thumbnail.jpg" width="600" alt="추상적 시네마틱 조명 비디오 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3265)**
+
+**작성자:** [iGor Salikov](https://x.com/salikov_) | **출처:** [Link](https://x.com/salikov_/status/2044509313566162966) | **게시일:** Apr 15, 2026
+
+---
+### 수중 산호초 판타지
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 열대어와 바다거북이 산호초 주변을 유영하는, 고채도의 판타지 미학이 담긴 수중 장면을 위한 상세 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+다채로운 열대어 떼가 우뚝 솟은 산호초 주변을 소용돌이치며 헤엄치고, 수면에서 비치는 햇살 사이로 그들의 무지갯빛 비늘이 일렉트릭 블루, 골드, 핑크색으로 반짝입니다. 우아한 바다거북이 유유히 헤엄쳐 들어오고, 카메라는 부드러운 궤도 이동을 통해 거북이의 경로를 따라가며 산호초의 정교한 질감을 드러냅니다. 고채도의 색감, 수정처럼 맑은 수질, 부드럽게 떠다니는 입자 효과를 활용하여 생생한 수중 판타지 미학으로 스타일링되었습니다.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c6bf4da789c82053e1e436c39ecd0caa/thumbnails/thumbnail.jpg" width="600" alt="수중 산호초 판타지">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3264)**
+
+**작성자:** [LudovicCreator](https://x.com/LudovicCreator) | **출처:** [Link](https://x.com/LudovicCreator/status/2044385366942073193) | **게시일:** Apr 15, 2026
+
+---
+### 빛나는 오르골 애니메이션
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 오르골이 열리면서 하트와 음표가 떠오르는, 황금빛으로 빛나는 마법 같은 오르골 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+아름다운 오르골이 중앙에서 열리며 빛나는 모습, 황금빛이 쏟아져 나오고 종소리가 울릴 때마다 작은 하트와 음표들이 떠오르는 장면을 보여주세요.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d7a465d38b78e6be1d4f0c9b1c09bd62/thumbnails/thumbnail.jpg" width="600" alt="빛나는 오르골 애니메이션">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3260)**
+
+**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2044371223300182066) | **게시일:** Apr 15, 2026
+
+---
+### Candid Look 비디오 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine을 사용하여 특정 방향으로 시선을 돌리는 인물의 비디오를 생성하기 위한 기술적 지침입니다.
+
+#### 📝 프롬프트
+
+```
+음악 없음, 카메라를 보지 않음, 누군가 다가오는 것처럼 오른쪽을 바라봄
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a7fc31990a777db1d8c8c7c8de32c0fd/thumbnails/thumbnail.jpg" width="600" alt="Candid Look 비디오 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3263)**
+
+**작성자:** [ESV. Maryam Muktar (MNIVS)™️/ Madam lands](https://x.com/MaRyAm_MuKtAr) | **출처:** [Link](https://x.com/MaRyAm_MuKtAr/status/2044318564811694440) | **게시일:** Apr 15, 2026
+
+---
 ### 꿀벌과 종이비행기 영상
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +320,27 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3239)**
 
 **작성자:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **출처:** [Link](https://x.com/HawkinsonLindy/status/2044279489425998000) | **게시일:** Apr 15, 2026
+
+---
+### 동아시아인 전투기 조종사 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 레트로 퓨처리스틱한 조종석에 앉은 여성 전투기 조종사를 주인공으로 한 Grok Imagine용 상세 시네마틱 영상 생성 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+세련되고 좁은 전투기 조종석에 앉아 있는 아름다운 젊은 동아시아인 여성 전투기 조종사를 담은 시네마틱 초고화질 이미지 투 비디오(image-to-video) 영상입니다.
+
+그녀는 흰색과 주황색이 어우러진 스타일리시한 레트로 퓨처리스틱 조종사 슈트를 입고 있으며, 그에 어울리는 헬멧 칼라와 포인트 장식을 착용하고 있습니다.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a4f595ab3cac192b3cd62534b9424fef/thumbnails/thumbnail.jpg" width="600" alt="동아시아인 전투기 조종사 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3262)**
+
+**작성자:** [Colin](https://x.com/quietcolin) | **출처:** [Link](https://x.com/quietcolin/status/2044277892985827598) | **게시일:** Apr 15, 2026
 
 ---
 ### 80년대 판타지 마법사와 여인
@@ -2050,148 +2185,6 @@ Grok 코미디언들이 트럼프를 놀리고 트럼프가 가짜 뉴스 미디
 **작성자:** [InfoCryption](https://x.com/InfoCryptionHQ) | **출처:** [Link](https://x.com/InfoCryptionHQ/status/2041190050893869294) | **게시일:** Apr 6, 2026
 
 ---
-### Grok Imagine 프롬프트: 아름다운 요정 판타지 아트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 머리에 꽃을 꽂고 나비를 곁들인 아름다운 요정을 묘사한 Grok Imagine 프롬프트입니다. 반짝이는 보석과 전문적인 조명 효과를 더해 생동감 넘치는 고품질 판타지 아트 스타일로 구현되었습니다.
-
-#### 📝 프롬프트
-
-```
-머리에 꽃을 꽂고 어깨에는 화려한 나비가 앉아 있는 아름다운 요정, 디테일한 얼굴과 눈매, 판타지 아트 스타일, 생동감 넘치는 색감, 반짝이는 보석. 고품질, 고해상도, 전문적인 조명, 8K
-```
-
-<img src="https://cms-assets.youmind.com/media/1775548965301_p5y4yk_HFO6RiEbIAI2VGw.jpg" width="600" alt="Grok Imagine 프롬프트: 아름다운 요정 판타지 아트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2863)**
-
-**작성자:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **출처:** [Link](https://x.com/iamhappy2026/status/2041179985680158926) | **게시일:** Apr 6, 2026
-
----
-### 장기 금장(Kinsho) 돌격 애니메이션
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Grok Imagine을 사용하여 장기 말인 '금장(Kinsho)'이 적진을 향해 거세게 돌격하는 15~20초 분량의 짧은 애니메이션 영상을 생성하기 위한 상세 프롬프트입니다. 수채화풍과 SF 판타지 스타일을 결합하고 황금빛 입자 효과를 강조하며, 제목, 스타일, 길이 및 주요 시각적 요소를 포함합니다.
-
-#### 📝 프롬프트
-
-```
-제목: "귀신 금장의 신탁 ~하늘에서 내려와 적진을 고요히 제압하다~"
-• 스타일: 수채화풍 + SF 판타지 (환상적인 황금빛 입자 효과 강조)
-• 길이: 약 15~20초 분량의 짧은 애니메이션 영상
-• 주요 하이라이트:
-• 도입부: 고요한 공간에 떠 있는 중비차(Nakabisha) 진형
-• 전개: 후수(두 번째 플레이어)의 금장이 황금빛 궤적을 그리며 강력하고 아름답게 돌격하는 모습 ("귀신 금장"의 위엄과 우아함의 조화)
-• 절정: 금장이 고요하지만 자비 없이 적진을 파괴하며 승기를 굳히는 모습
-• 결말...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/af7c5e275692f7d3ea1958f964b36342/thumbnails/thumbnail.jpg" width="600" alt="장기 금장(Kinsho) 돌격 애니메이션">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2882)**
-
-**작성자:** [後藤強士](https://x.com/rubensutsuyosi) | **출처:** [Link](https://x.com/rubensutsuyosi/status/2041155018099945644) | **게시일:** Apr 6, 2026
-
----
-### 라고스 의상을 입은 나이지리아 여성의 생동감 넘치는 영화 같은 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 세련된 현대식 라고스 의상을 입고 자신감 넘치는 25세 나이지리아 여성의 신체적 특징과 의상을 담은 10초 분량의 1080p 영화 같은 영상 제작 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-1080p 해상도의 생동감 넘치는 10초 분량의 영화 같은 영상을 제작하세요.
-
-어두운 피부 톤에 다채로운 구슬로 장식된 하이 포니테일 브레이드 헤어스타일을 한 자신감 넘치는 25세 나이지리아 여성. 세련된 현대식 라고스 의상인 핏한 앙카라 프린트 탑과 하이웨이스트 청바지를 착용하고 있으며, 흰색
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b369480eaae9928e442063b473a674d5/thumbnails/thumbnail.jpg" width="600" alt="라고스 의상을 입은 나이지리아 여성의 생동감 넘치는 영화 같은 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2830)**
-
-**작성자:** [David GMI 🌍💎](https://x.com/Davidgmi_01) | **출처:** [Link](https://x.com/Davidgmi_01/status/2041140620668883309) | **게시일:** Apr 6, 2026
-
----
-### 채소를 수확하는 밭
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine을 위한 설명형 프롬프트로, 채소를 수확하는 밭의 모습과 농부들이 각 채소를 땅에서 뽑았을 때 어떤 모습인지 보여주는 장면을 묘사합니다.
-
-#### 📝 프롬프트
-
-```
-농부들이 땅에서 뽑아낸 각 채소의 모습을 보여주며 채소를 수확하는 밭의 풍경
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/070c876b64e233734977c46f2cb65b99/thumbnails/thumbnail.jpg" width="600" alt="채소를 수확하는 밭">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2859)**
-
-**작성자:** [Sam](https://x.com/fallmysteries) | **출처:** [Link](https://x.com/fallmysteries/status/2041138815604043852) | **게시일:** Apr 6, 2026
-
----
-### Grok Imagine 프롬프트: 시네마틱 리얼리즘 베이스
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine의 퀄리티 모드를 위해 설계된 기본 프롬프트 구조입니다. 카메라 장비(ARRI Alexa), 필름 그레인, 조명 기법(키 필 라이팅), 렌즈(아나모픽), 피사계 심도 등을 지정하여 시네마틱한 사실감을 구현하도록 의도되었습니다.
-
-#### 📝 프롬프트
-
-```
-Show me a film still never seen before brand new shot on ARRI Alexa, hyper realistic film grain, LUT preset, key fill lighting anamorphic lensing shallow depth of field 24mm
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5842c3abaec238336940a5b8706df3fe/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine 프롬프트: 시네마틱 리얼리즘 베이스">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2865)**
-
-**작성자:** [Kiri](https://x.com/Kyrannio) | **출처:** [Link](https://x.com/Kyrannio/status/2041132845834579975) | **게시일:** Apr 6, 2026
-
----
-### 바로크 및 아르데코 건축 양식의 끝없는 계단 위에 서 있는 여성
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine을 위한 프롬프트로, 바로크 및 아르데코 건축 양식 속에서 빛을 향해 끝없이 뻗어 있는 웅장한 계단 위에 서 있는 여성의 모습을 묘사합니다. 두꺼운 유화 질감과 부드러운 금색 및 흰색 팔레트로 표현되었습니다.
-
-#### 📝 프롬프트
-
-```
-빛을 향해 끝없이 뻗어 있는 웅장한 계단 위에 서 있는 여성, 그녀를 둘러싼 바로크 및 아르데코 건축 양식, 깊이감과 빛을 강조하는 두꺼운 유화 질감, 차분하고 초월적인 느낌의 표정, 부드러운 금색과 흰색의 색감.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f3b45c61ae235fd6b02dd70ea904db61/thumbnails/thumbnail.jpg" width="600" alt="바로크 및 아르데코 건축 양식의 끝없는 계단 위에 서 있는 여성">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2870)**
-
-**작성자:** [SPACELESS](https://x.com/VOLDEMORT2X) | **출처:** [Link](https://x.com/VOLDEMORT2X/status/2041128404393632073) | **게시일:** Apr 6, 2026
-
----
-### 용에 올라타 비상하는 여성 전사의 시네마틱 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 카메라를 등진 강인한 여성 전사가 등을 낮춘 용에 올라타, 다시 몸을 돌려 고대 풍경 위로 비상하는 모습을 묘사한 grok-imagine 영상 프롬프트입니다. 이 프롬프트는 높은 일관성, 원샷 장면, 사실적인 움직임을 강조하며, 음악이나 플라스틱 질감, 형태 변형(morphing)이 없는 것을 특징으로 합니다.
-
-#### 📝 프롬프트
-
-```
-강인한 여성 전사가 카메라를 등지고 서 있고, 용이 등을 부드럽게 낮추자 여성 전사가 그 위로 올라탑니다. 전사가 용의 등에 올라탄 뒤 몸을 돌리자, 용이 경이로운 고대 풍경 위로 날아오릅니다. 높은 일관성, 원샷 장면, 형태 변형 없음, 사실적인 움직임과 소리를 구현합니다. 음악 없음. 플라스틱 질감 없는 진정한 시네마틱 모션.
-```
-
-<img src="https://cms-assets.youmind.com/media/1775549004366_5swnyj_HFNqGNZbkAAKpNI.jpg" width="600" alt="용에 올라타 비상하는 여성 전사의 시네마틱 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2875)**
-
-**작성자:** [Reklaw](https://x.com/Ynohtnareklaw) | **출처:** [Link](https://x.com/Ynohtnareklaw/status/2041092492339118206) | **게시일:** Apr 6, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2253,6 +2246,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-04-16T06:07:33.243Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-04-16T09:27:39.853Z</sub>
 
 </div>

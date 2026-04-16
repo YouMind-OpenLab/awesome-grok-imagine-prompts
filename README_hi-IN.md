@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1111** |
+| 📝 Total Prompts | **1118** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-04-16** |
 
@@ -189,6 +189,120 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### संख्याओं की वास्तविकता का पिक्सेलेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok के लिए एक जटिल वीडियो प्रॉम्प्ट, जिसमें एक लाल बालों वाली महिला और मन के विस्तार को दर्शाने के लिए संख्यात्मक पिक्सेलेशन प्रभाव शामिल हैं।
+
+#### 📝 Prompt
+
+```
+एक व्यस्त लाल बालों वाली महिला जो कभी-कभी अपना फोन उठाकर हंसती है, और उसके चारों ओर एक हरा बैकग्राउंड 13 13, 1313 जैसी संख्याओं के साथ पिक्सेलेट होने लगता है, जो हमारे मन का विस्तार करता है और यह अनुमान लगाने में सक्षम बनाता है कि बाकी सब क्या कर रहे हैं ताकि उसे समझने की कोशिश की जा सके।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/49b7cde214590ca8447c076b1a95bcb7/thumbnails/thumbnail.jpg" width="600" alt="संख्याओं की वास्तविकता का पिक्सेलेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3266)**
+
+**Author:** [Jaime Roberts](https://x.com/devilred1376) | **Source:** [Link](https://x.com/devilred1376/status/2044573292002988497) | **Published:** Apr 16, 2026
+
+---
+### प्राकृतिक मानवीय गति के लिए वीडियो प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> यथार्थवादी लाइव-एक्शन वीडियो बनाने के लिए एक Grok Imagine प्रॉम्प्ट, जिसमें पलक झपकाने और सांस लेने जैसी सूक्ष्म, जैविक मानवीय गतिविधियाँ हों, जिसे अतिरंजित या कृत्रिम गतिविधियों से बचने के लिए डिज़ाइन किया गया है।
+
+#### 📝 Prompt
+
+```
+फ्रेम में एक व्यक्ति को दिखाते हुए एक गतिशील लाइव-एक्शन वीडियो बनाएं। व्यक्ति अपेक्षाकृत स्थिर रहता है और केवल प्राकृतिक सूक्ष्म गतिविधियाँ करता है — सिर का हल्का घूमना, स्वाभाविक रूप से पलकें झपकाना, सांस लेना, मुद्रा और दृष्टि में छोटे बदलाव। कोई नृत्य नहीं, कोई हाथ हिलाना नहीं।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2b9854dac24f14b6eae28aaed63a20e2/thumbnails/thumbnail.jpg" width="600" alt="प्राकृतिक मानवीय गति के लिए वीडियो प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3261)**
+
+**Author:** [iGor Salikov](https://x.com/salikov_) | **Source:** [Link](https://x.com/salikov_/status/2044510075683848540) | **Published:** Apr 15, 2026
+
+---
+### एब्स्ट्रैक्ट सिनेमैटिक लाइटिंग वीडियो प्रॉम्प्ट
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Grok Imagine के लिए एक शैलीगत रूप से जटिल प्रॉम्प्ट, जो एक मूडी, एब्स्ट्रैक्ट सिनेमैटिक सीक्वेंस बनाने के लिए रेम्ब्रांट लाइटिंग, मोशन ब्लर और फिल्म ग्रेन का उपयोग करता है।
+
+#### 📝 Prompt
+
+```
+रेम्ब्रांट लाइटिंग (Rembrandt lighting) और गहरी रात की धुंधली रोशनी का संयोजन चित्तीदार, विसरित, धुंधले और एब्स्ट्रैक्ट प्रकाश और छाया का निर्माण करता है। बेहतरीन कलर मैचिंग, हाई कंट्रास्ट, डार्क/हेज़ी टोन, स्ट्रॉन्ग फिल्म ग्रेन, हाई पार्टिकल नॉइज़, लेयर्ड ब्लर्ड स्मजिंग, फोकस ब्लर, मोशन ब्लर, आकृतियों और दृश्यों का ओवरलैपिंग, मजबूत परिप्रेक्ष्य, अद्वितीय दृष्टिकोण, नेगेटिव स्पेस (व्हाइट स्पेस) के बड़े क्षेत्र, मिनिमलिस्ट बैकग्राउंड, और स्क्रीन में स्थानीय रचनात्मक अंग्रेजी जानकारी की सजावट शामिल है। 25
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/91532617bb77bbc6919ece90232f4bde/thumbnails/thumbnail.jpg" width="600" alt="एब्स्ट्रैक्ट सिनेमैटिक लाइटिंग वीडियो प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3265)**
+
+**Author:** [iGor Salikov](https://x.com/salikov_) | **Source:** [Link](https://x.com/salikov_/status/2044509313566162966) | **Published:** Apr 15, 2026
+
+---
+### पानी के नीचे कोरल रीफ फैंटेसी
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> पानी के नीचे के एक दृश्य के लिए विस्तृत वीडियो प्रॉम्प्ट, जिसमें उष्णकटिबंधीय मछलियाँ और एक समुद्री कछुआ उच्च-संतृप्ति (high-saturation) वाली फैंटेसी सौंदर्य के साथ कोरल रीफ के चारों ओर घूम रहे हैं।
+
+#### 📝 Prompt
+
+```
+जीवंत उष्णकटिबंधीय मछलियों का एक झुंड एक विशाल कोरल रीफ के चारों ओर घूम रहा है, उनकी इंद्रधनुषी परतें समुद्र की सतह से छनकर आती सूरज की किरणों के बीच इलेक्ट्रिक ब्लू, गोल्ड और पिंक रंगों में चमक रही हैं; एक सुंदर समुद्री कछुआ दृश्य में प्रवेश करता है, जिसके पंख बिना किसी जल्दबाजी के शालीनता से हिल रहे हैं, कैमरा इसके रास्ते का अनुसरण करने के लिए एक सहज ऑर्बिटिंग मूवमेंट का उपयोग करता है और साथ ही रीफ की जटिल बनावट को भी दिखाता है; इसे उच्च-संतृप्ति वाले रंगों, क्रिस्टल-क्लियर पानी और धीरे-धीरे तैरते हुए कणों के प्रभावों के साथ एक जीवंत पानी के नीचे की फैंटेसी शैली में तैयार किया गया है।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c6bf4da789c82053e1e436c39ecd0caa/thumbnails/thumbnail.jpg" width="600" alt="पानी के नीचे कोरल रीफ फैंटेसी">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3264)**
+
+**Author:** [LudovicCreator](https://x.com/LudovicCreator) | **Source:** [Link](https://x.com/LudovicCreator/status/2044385366942073193) | **Published:** Apr 15, 2026
+
+---
+### चमकता हुआ म्यूजिक बॉक्स एनीमेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक जादुई वीडियो प्रॉम्प्ट जिसमें एक चमकता हुआ सुनहरा म्यूजिक बॉक्स दिखाया गया है, जिसके खुलते ही दिल और संगीत के सुर बाहर निकल रहे हैं।
+
+#### 📝 Prompt
+
+```
+बीच में सुंदर म्यूजिक बॉक्स को खुलते और चमकते हुए दिखाएं, सुनहरी रोशनी बाहर निकल रही है, और हर धुन के साथ छोटे दिल और संगीत के सुर ऊपर की ओर तैर रहे हैं।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d7a465d38b78e6be1d4f0c9b1c09bd62/thumbnails/thumbnail.jpg" width="600" alt="चमकता हुआ म्यूजिक बॉक्स एनीमेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3260)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2044371223300182066) | **Published:** Apr 15, 2026
+
+---
+### कैंडिड लुक वीडियो प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक तकनीकी निर्देश, ताकि किसी व्यक्ति को कैमरे से दूर एक विशिष्ट दिशा में देखते हुए वीडियो बनाया जा सके।
+
+#### 📝 Prompt
+
+```
+कोई संगीत नहीं, वह कैमरे की ओर नहीं देख रही है, वह दाईं ओर देख रही है जैसे कि कोई उसके पास आ रहा हो
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a7fc31990a777db1d8c8c7c8de32c0fd/thumbnails/thumbnail.jpg" width="600" alt="कैंडिड लुक वीडियो प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3263)**
+
+**Author:** [ESV. Maryam Muktar (MNIVS)™️/ Madam lands](https://x.com/MaRyAm_MuKtAr) | **Source:** [Link](https://x.com/MaRyAm_MuKtAr/status/2044318564811694440) | **Published:** Apr 15, 2026
+
+---
 ### मधुमक्खी और पेपर एयरप्लेन का वीडियो
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +320,27 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3239)**
 
 **Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2044279489425998000) | **Published:** Apr 15, 2026
+
+---
+### पूर्वी एशियाई फाइटर पायलट वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक विस्तृत सिनेमैटिक वीडियो जनरेशन प्रॉम्प्ट, जिसमें रेट्रो-फ्यूचरिस्टिक कॉकपिट में एक महिला फाइटर पायलट को दिखाया गया है।
+
+#### 📝 Prompt
+
+```
+एक सुंदर युवा पूर्वी एशियाई महिला फाइटर पायलट का सिनेमैटिक अल्ट्रा-डिटेल्ड इमेज-टू-वीडियो, जो एक स्लीक, संकीर्ण फाइटर जेट कॉकपिट के अंदर बैठी है।
+
+उसने मैचिंग हेलमेट कॉलर और एक्सेंट के साथ एक स्टाइलिश सफेद और नारंगी रेट्रो-फ्यूचरिस्टिक पायलट सूट पहना हुआ है।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a4f595ab3cac192b3cd62534b9424fef/thumbnails/thumbnail.jpg" width="600" alt="पूर्वी एशियाई फाइटर पायलट वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3262)**
+
+**Author:** [Colin](https://x.com/quietcolin) | **Source:** [Link](https://x.com/quietcolin/status/2044277892985827598) | **Published:** Apr 15, 2026
 
 ---
 ### 80 के दशक का फैंटेसी जादूगर और महिला
@@ -2048,148 +2183,6 @@ Elon Musk से कहलवाएं “यह एक दिन फिल्�
 **Author:** [InfoCryption](https://x.com/InfoCryptionHQ) | **Source:** [Link](https://x.com/InfoCryptionHQ/status/2041190050893869294) | **Published:** Apr 6, 2026
 
 ---
-### Grok Imagine प्रॉम्प्ट: सुंदर परी की फैंटेसी आर्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक Grok Imagine प्रॉम्प्ट जिसमें बालों में फूल और तितली जैसी विशिष्ट विशेषताओं वाली एक सुंदर परी का अनुरोध किया गया है, जिसे चमकदार रत्नों और पेशेवर लाइटिंग के साथ एक जीवंत, उच्च-गुणवत्ता वाली फैंटेसी आर्ट शैली में प्रस्तुत किया गया है।
-
-#### 📝 Prompt
-
-```
-बालों में फूलों वाली एक सुंदर परी, कंधे पर एक रंगीन तितली, विस्तृत चेहरा और आँखें, फैंटेसी आर्ट की शैली में, जीवंत रंग और चमकदार रत्न। उच्च गुणवत्ता, उच्च रिज़ॉल्यूशन, पेशेवर लाइटिंग, 8K
-```
-
-<img src="https://cms-assets.youmind.com/media/1775548965301_p5y4yk_HFO6RiEbIAI2VGw.jpg" width="600" alt="Grok Imagine प्रॉम्प्ट: सुंदर परी की फैंटेसी आर्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2863)**
-
-**Author:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **Source:** [Link](https://x.com/iamhappy2026/status/2041179985680158926) | **Published:** Apr 6, 2026
-
----
-### शोगी गोल्ड जनरल चार्जिंग एनिमेशन
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Grok Imagine के लिए एक विस्तृत प्रॉम्प्ट, जो शोगी के मोहरे 'किनशो' (गोल्ड जनरल) के बारे में 15-20 सेकंड का एक छोटा एनिमेशन वीडियो बनाने के लिए है। इसमें मोहरे को दुश्मन की लाइनों पर आक्रामक रूप से हमला करते हुए दिखाया गया है, जिसे वॉटरकलर और फैंटेसी SF स्टाइल में सुनहरी रोशनी के कणों के साथ रेंडर किया गया है। प्रॉम्प्ट में शीर्षक, शैली, लंबाई और मुख्य विजुअल पॉइंट्स का विवरण दिया गया है।
-
-#### 📝 Prompt
-
-```
-शीर्षक: "ओनी गोल्ड जनरल की भविष्यवाणी ~स्वर्ग से उतरकर दुश्मन के खेमे को चुपचाप जीतने के लिए~"
-• शैली: वॉटरकलर स्टाइल + SF फैंटेसी, जिसमें मुख्य रूप से शानदार सुनहरी रोशनी के कण शामिल हैं
-• लंबाई: लगभग 15-20 सेकंड का छोटा एनिमेशन वीडियो
-• मुख्य आकर्षण:
-• शुरुआत: एक नकाबिषा (Nakabisha) फॉर्मेशन शांत अंतरिक्ष में तैरता है
-• मध्य: दूसरे खिलाड़ी का गोल्ड जनरल तेजी से आगे बढ़ते हुए, सुनहरी रोशनी की लकीर के साथ शक्तिशाली और सुंदर ढंग से व्यक्त किया गया है ("ओनी गोल्ड जनरल" की ताकत और भव्यता का संयोजन)
-• चरमोत्कर्ष: गोल्ड जनरल चुपचाप, लेकिन निर्दयता से, दुश्मन के खेमे को नष्ट कर देता है और अपनी बढ़त को बढ़ाता है
-• अंत...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/af7c5e275692f7d3ea1958f964b36342/thumbnails/thumbnail.jpg" width="600" alt="शोगी गोल्ड जनरल चार्जिंग एनिमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2882)**
-
-**Author:** [後藤強士](https://x.com/rubensutsuyosi) | **Source:** [Link](https://x.com/rubensutsuyosi/status/2041155018099945644) | **Published:** Apr 6, 2026
-
----
-### लागोस के पहनावे में नाइजीरियाई महिला का जीवंत सिनेमाई वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक 10-सेकंड का, 1080p सिनेमाई वीडियो बनाने का प्रॉम्प्ट, जिसमें एक आत्मविश्वासी 25 वर्षीय नाइजीरियाई महिला है, जो स्टाइलिश आधुनिक लागोस के पहनावे में है और जिसके शारीरिक व कपड़ों के विवरण विशिष्ट हैं।
-
-#### 📝 Prompt
-
-```
-1080p में एक जीवंत, सिनेमाई 10-सेकंड का वीडियो बनाएं।
-
-सांवली त्वचा वाली एक आत्मविश्वासी 25 वर्षीय नाइजीरियाई महिला, जिसके बाल रंगीन मोतियों के साथ ऊंची पोनीटेल में बंधे हैं, उसने स्टाइलिश आधुनिक लागोस का पहनावा पहना है — फिटेड अंकारा-प्रिंट टॉप, हाई-वेस्ट जींस, सफेद
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b369480eaae9928e442063b473a674d5/thumbnails/thumbnail.jpg" width="600" alt="लागोस के पहनावे में नाइजीरियाई महिला का जीवंत सिनेमाई वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2830)**
-
-**Author:** [David GMI 🌍💎](https://x.com/Davidgmi_01) | **Source:** [Link](https://x.com/Davidgmi_01/status/2041140620668883309) | **Published:** Apr 6, 2026
-
----
-### खेत में सब्जियों की कटाई
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक वर्णनात्मक प्रॉम्प्ट, जिसमें एक खेत दिखाया गया है जहाँ सब्जियाँ काटी जा रही हैं, और किसान यह दिखा रहे हैं कि ज़मीन से उखाड़ने पर प्रत्येक सब्जी कैसी दिखती है।
-
-#### 📝 Prompt
-
-```
-एक खेत जहाँ सब्जियों की कटाई हो रही है और किसान यह दिखा रहे हैं कि ज़मीन से उखाड़ने पर हर सब्जी कैसी दिखती है
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/070c876b64e233734977c46f2cb65b99/thumbnails/thumbnail.jpg" width="600" alt="खेत में सब्जियों की कटाई">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2859)**
-
-**Author:** [Sam](https://x.com/fallmysteries) | **Source:** [Link](https://x.com/fallmysteries/status/2041138815604043852) | **Published:** Apr 6, 2026
-
----
-### Grok Imagine प्रॉम्प्ट: सिनेमैटिक रियलिज्म बेस
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के क्वालिटी मोड के लिए डिज़ाइन किया गया एक बेस प्रॉम्प्ट स्ट्रक्चर, जिसका उद्देश्य कैमरा इक्विपमेंट (ARRI Alexa), फिल्म ग्रेन, लाइटिंग तकनीक (की फिल लाइटिंग), लेंसिंग (एनामॉर्फिक) और डेप्थ ऑफ फील्ड को निर्दिष्ट करके सिनेमैटिक रियलिज्म प्राप्त करना है।
-
-#### 📝 Prompt
-
-```
-Show me a film still never seen before brand new shot on ARRI Alexa, hyper realistic film grain, LUT preset, key fill lighting anamorphic lensing shallow depth of field 24mm
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5842c3abaec238336940a5b8706df3fe/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine प्रॉम्प्ट: सिनेमैटिक रियलिज्म बेस">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2865)**
-
-**Author:** [Kiri](https://x.com/Kyrannio) | **Source:** [Link](https://x.com/Kyrannio/status/2041132845834579975) | **Published:** Apr 6, 2026
-
----
-### बारोक और डेको आर्किटेक्चर वाली अंतहीन सीढ़ियों पर एक महिला
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक प्रॉम्प्ट, जिसमें एक महिला को एक भव्य सीढ़ी पर खड़े दिखाया गया है जो रोशनी की ओर अंतहीन रूप से ऊपर जाती है। यह दृश्य बारोक और डेको आर्किटेक्चर के बीच सेट है, जिसे गाढ़े ऑयल टेक्सचर और हल्के सुनहरे और सफेद रंग के पैलेट के साथ रेंडर किया गया है।
-
-#### 📝 Prompt
-
-```
-एक महिला एक भव्य सीढ़ी पर खड़ी है जो रोशनी की ओर अंतहीन रूप से ऊपर जा रही है, जिसके चारों ओर बारोक और डेको आर्किटेक्चर है। गाढ़ा ऑयल टेक्सचर गहराई और रोशनी को उभार रहा है, महिला के चेहरे पर शांत और लगभग अलौकिक भाव हैं, और रंग पैलेट हल्का सुनहरा और सफेद है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f3b45c61ae235fd6b02dd70ea904db61/thumbnails/thumbnail.jpg" width="600" alt="बारोक और डेको आर्किटेक्चर वाली अंतहीन सीढ़ियों पर एक महिला">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2870)**
-
-**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2041128404393632073) | **Published:** Apr 6, 2026
-
----
-### एक महिला योद्धा का ड्रैगन पर चढ़कर उड़ान भरने का सिनेमैटिक वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक grok-imagine वीडियो प्रॉम्प्ट जो एक सशक्त महिला योद्धा का वर्णन करता है, जो कैमरे की ओर पीठ करके ड्रैगन पर चढ़ती है क्योंकि ड्रैगन धीरे से अपनी पीठ नीचे करता है, और फिर ड्रैगन के एक प्राचीन परिदृश्य के ऊपर उड़ान भरते ही वह मुड़ जाती है। यह प्रॉम्प्ट मजबूत निरंतरता, एक वन-शॉट दृश्य, यथार्थवादी गति, और संगीत, प्लास्टिक बनावट या मॉर्फिंग की अनुपस्थिति पर जोर देता है।
-
-#### 📝 Prompt
-
-```
-सशक्त महिला योद्धा कैमरे की ओर अपनी पीठ घुमाती है, ड्रैगन धीरे से अपनी पीठ नीचे करता है ताकि महिला योद्धा उसकी पीठ पर चढ़ सके, एक बार पीठ पर चढ़ने के बाद वह मुड़ती है और ड्रैगन एक अद्भुत प्राचीन परिदृश्य के ऊपर उड़ान भरता है। मजबूत निरंतरता, वन-शॉट दृश्य, कोई मॉर्फिंग नहीं, यथार्थवादी गति और ध्वनियाँ। कोई संगीत नहीं। कोई प्लास्टिक नहीं, वास्तविक सिनेमैटिक मोशन।
-```
-
-<img src="https://cms-assets.youmind.com/media/1775549004366_5swnyj_HFNqGNZbkAAKpNI.jpg" width="600" alt="एक महिला योद्धा का ड्रैगन पर चढ़कर उड़ान भरने का सिनेमैटिक वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2875)**
-
-**Author:** [Reklaw](https://x.com/Ynohtnareklaw) | **Source:** [Link](https://x.com/Ynohtnareklaw/status/2041092492339118206) | **Published:** Apr 6, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2251,6 +2244,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-16T06:07:38.931Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-16T09:27:43.740Z</sub>
 
 </div>

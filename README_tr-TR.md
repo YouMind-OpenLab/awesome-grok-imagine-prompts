@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1111** |
+| 📝 Total Prompts | **1118** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-04-16** |
 
@@ -189,6 +189,120 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Sayısal Gerçekliği Pikselleştirmek
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kızıl saçlı bir kadın ve zihin genişlemesini görselleştirmek için sayısal pikselleştirme efektlerini içeren, Grok için hazırlanmış karmaşık bir video istemi.
+
+#### 📝 Prompt
+
+```
+Ara sıra telefonunu eline alıp gülen meşgul kızıl saçlı bir kadın ve etrafındaki yeşil arka planın 13 13, 1313 sayılarıyla piksellenmeye başlaması; zihnimizi genişletiyor ve başkalarının ne yaptığını tahmin edebilme yetisiyle onu tahmin etmeye çalışıyor
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/49b7cde214590ca8447c076b1a95bcb7/thumbnails/thumbnail.jpg" width="600" alt="Sayısal Gerçekliği Pikselleştirmek">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3266)**
+
+**Author:** [Jaime Roberts](https://x.com/devilred1376) | **Source:** [Link](https://x.com/devilred1376/status/2044573292002988497) | **Published:** Apr 16, 2026
+
+---
+### Doğal İnsan Hareketi Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine ile göz kırpma ve nefes alma gibi incelikli, organik karakter hareketlerine sahip gerçekçi canlı aksiyon videoları oluşturmak için tasarlanmış; abartılı veya yapay hareketlerden kaçınan bir istem.
+
+#### 📝 Prompt
+
+```
+Karede bir kişinin yer aldığı dinamik bir canlı aksiyon videosu oluşturun. Kişi, yalnızca doğal ve incelikli hareketlerle —hafif baş dönüşleri, doğal göz kırpmalar, nefes alıp verme, duruşta ve bakışlarda küçük değişimler— nispeten hareketsiz kalmalı. Dans yok, el sallama yok.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2b9854dac24f14b6eae28aaed63a20e2/thumbnails/thumbnail.jpg" width="600" alt="Doğal İnsan Hareketi Video İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3261)**
+
+**Author:** [iGor Salikov](https://x.com/salikov_) | **Source:** [Link](https://x.com/salikov_/status/2044510075683848540) | **Published:** Apr 15, 2026
+
+---
+### Soyut Sinematik Işıklandırma Video İstemi
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Grok Imagine için Rembrandt ışıklandırması, hareket bulanıklığı ve film greni kullanarak karamsar, soyut ve sinematik bir sekans oluşturan stilistik açıdan karmaşık bir istem.
+
+#### 📝 Prompt
+
+```
+Rembrandt ışıklandırması, karanlık gece puslu ışığıyla birleşerek benekli, dağınık, bulanık ve soyut ışık ve gölge oyunları yaratır. Mükemmel renk uyumu, yüksek kontrast, karanlık/puslu ton, güçlü film greni, yüksek parçacık gürültüsü, katmanlı bulanık lekelenme, odak bulanıklığı, hareket bulanıklığı, figürlerin ve sahnelerin iç içe geçmesi, güçlü perspektif, benzersiz bakış açısı, geniş negatif alanlar (boşluk), minimalist arka plan ve ekran, yerel yaratıcı İngilizce bilgi süslemelerini içerir. 25
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/91532617bb77bbc6919ece90232f4bde/thumbnails/thumbnail.jpg" width="600" alt="Soyut Sinematik Işıklandırma Video İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3265)**
+
+**Author:** [iGor Salikov](https://x.com/salikov_) | **Source:** [Link](https://x.com/salikov_/status/2044509313566162966) | **Published:** Apr 15, 2026
+
+---
+### Sualtı Mercan Resifi Fantezisi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yüksek doygunluklu fantezi estetiğine sahip, tropikal balıkların ve bir deniz kaplumbağasının mercan resifi etrafında döndüğü sualtı sahnesi için detaylı bir video istemi.
+
+#### 📝 Prompt
+
+```
+Canlı tropikal balıklardan oluşan bir sürü, yükselen bir mercan resifinin etrafında dönüyor; okyanus yüzeyinden süzülen güneş ışınlarının arasından geçerken yanardöner pulları elektrik mavisi, altın ve pembe renklerde parlıyor. Zarif bir deniz kaplumbağası görüş alanına giriyor, yüzgeçlerini acele etmeden, zarif bir şekilde hareket ettiriyor. Kamera, resifin karmaşık dokularını ortaya çıkarırken kaplumbağanın yolunu takip etmek için pürüzsüz bir yörünge hareketi kullanıyor; yüksek doygunluklu renkler, kristal netliğinde su berraklığı ve hafifçe sürüklenen partikül efektleriyle canlı bir sualtı fantezi estetiğinde stilize edilmiştir.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c6bf4da789c82053e1e436c39ecd0caa/thumbnails/thumbnail.jpg" width="600" alt="Sualtı Mercan Resifi Fantezisi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3264)**
+
+**Author:** [LudovicCreator](https://x.com/LudovicCreator) | **Source:** [Link](https://x.com/LudovicCreator/status/2044385366942073193) | **Published:** Apr 15, 2026
+
+---
+### Işıldayan Müzik Kutusu Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Açıldığında içinden kalplerin ve notaların süzüldüğü, ışıldayan altın rengi bir müzik kutusunu konu alan büyülü bir video istemi.
+
+#### 📝 Prompt
+
+```
+güzel müzik kutusunun ortada açılıp ışıldadığını, altın rengi ışıkların saçıldığını, her tınıyla birlikte küçük kalplerin ve müzik notalarının yukarı doğru süzüldüğünü göster.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d7a465d38b78e6be1d4f0c9b1c09bd62/thumbnails/thumbnail.jpg" width="600" alt="Işıldayan Müzik Kutusu Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3260)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2044371223300182066) | **Published:** Apr 15, 2026
+
+---
+### Doğal Bakış Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine'in, bir kişinin kameradan başka bir yöne baktığı bir video oluşturması için teknik bir talimat.
+
+#### 📝 Prompt
+
+```
+müzik yok, kameraya bakmıyor, sanki yanına biri geliyormuş gibi sağ tarafa bakıyor
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a7fc31990a777db1d8c8c7c8de32c0fd/thumbnails/thumbnail.jpg" width="600" alt="Doğal Bakış Video İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3263)**
+
+**Author:** [ESV. Maryam Muktar (MNIVS)™️/ Madam lands](https://x.com/MaRyAm_MuKtAr) | **Source:** [Link](https://x.com/MaRyAm_MuKtAr/status/2044318564811694440) | **Published:** Apr 15, 2026
+
+---
 ### Bal Arısı ve Kağıt Uçak Videosu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +320,27 @@ Sarı karahindiba çiçekleri üzerinde bal arısı, kağıt uçak içeri doğru
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3239)**
 
 **Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2044279489425998000) | **Published:** Apr 15, 2026
+
+---
+### Doğu Asyalı Savaş Pilotu Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için retro-fütüristik bir kokpitte kadın savaş pilotunu konu alan, detaylı ve sinematik bir video oluşturma istemi.
+
+#### 📝 Prompt
+
+```
+Şık ve dar bir savaş uçağı kokpitinde oturan, savaş pilotu kıyafetli güzel ve genç Doğu Asyalı bir kadının sinematik, ultra detaylı görüntüden videoya dönüştürülmüş hali.
+
+Üzerinde, uyumlu kask yakası ve detaylara sahip, şık beyaz ve turuncu renklerde retro-fütüristik bir pilot kıyafeti bulunuyor.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a4f595ab3cac192b3cd62534b9424fef/thumbnails/thumbnail.jpg" width="600" alt="Doğu Asyalı Savaş Pilotu Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3262)**
+
+**Author:** [Colin](https://x.com/quietcolin) | **Source:** [Link](https://x.com/quietcolin/status/2044277892985827598) | **Published:** Apr 15, 2026
 
 ---
 ### 80'ler Fantastik Büyücü ve Kadın
@@ -2042,148 +2177,6 @@ Düşük açılı takip çekimi, karlı arazide pürüzsüz dolly hareketi, donm
 **Author:** [InfoCryption](https://x.com/InfoCryptionHQ) | **Source:** [Link](https://x.com/InfoCryptionHQ/status/2041190050893869294) | **Published:** Apr 6, 2026
 
 ---
-### Grok Imagine İstemi: Büyüleyici Peri Fantastik Sanatı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Saçında çiçekler ve omzunda bir kelebek gibi özel detaylara sahip, canlı, yüksek kaliteli fantastik sanat tarzında, parıldayan mücevherler ve profesyonel aydınlatma ile oluşturulmuş güzel bir peri için Grok Imagine istemi.
-
-#### 📝 Prompt
-
-```
-Saçında çiçekler, omzunda renkli bir kelebek olan, detaylı yüz ve gözlere sahip güzel bir peri; fantastik sanat tarzında, canlı renkler ve parıldayan mücevherler. Yüksek kalite, yüksek çözünürlük, profesyonel aydınlatma, 8K
-```
-
-<img src="https://cms-assets.youmind.com/media/1775548965301_p5y4yk_HFO6RiEbIAI2VGw.jpg" width="600" alt="Grok Imagine İstemi: Büyüleyici Peri Fantastik Sanatı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2863)**
-
-**Author:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **Source:** [Link](https://x.com/iamhappy2026/status/2041179985680158926) | **Published:** Apr 6, 2026
-
----
-### Shogi Altın General Şarj Animasyonu
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Grok Imagine için, 'Kinsho' (Altın General) adlı bir shogi taşının düşman hatlarına agresif bir şekilde saldırmasını konu alan, sulu boya ve fantastik bilim kurgu tarzında, altın ışık parçacıklarıyla işlenmiş 15-20 saniyelik kısa bir animasyon videosu oluşturmaya yönelik detaylı bir komut. Komut; başlığı, stili, uzunluğu ve temel görsel noktaları belirtir.
-
-#### 📝 Prompt
-
-```
-Başlık: "Oni Altın General'in Kehaneti ~Düşman Kampını Sessizce Fethetmek İçin Gökten İniş~
-• Stil: Fantastik altın ışık parçacıklarının ağırlıkta olduğu sulu boya tarzı + bilim kurgu fantezi
-• Uzunluk: Yaklaşık 15-20 saniyelik kısa animasyon videosu
-• Ana vurgular:
-• Açılış: Sessiz bir uzayda süzülen Nakabisha formasyonu
-• Gelişme: İkinci oyuncunun Altın General'i, altın bir ışık iziyle ( "Oni Altın General"in gücünü ve zarafetini birleştirerek) ileriye doğru güçlü ve estetik bir şekilde hücum ediyor
-• Doruk Noktası: Altın General, avantajını genişletirken düşman kampını sessiz ama acımasız bir şekilde yok ediyor
-• Bitiş...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/af7c5e275692f7d3ea1958f964b36342/thumbnails/thumbnail.jpg" width="600" alt="Shogi Altın General Şarj Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2882)**
-
-**Author:** [後藤強士](https://x.com/rubensutsuyosi) | **Source:** [Link](https://x.com/rubensutsuyosi/status/2041155018099945644) | **Published:** Apr 6, 2026
-
----
-### Lagos Kıyafetli Nijeryalı Kadının Canlı Sinematik Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Belirli fiziksel özelliklere ve kıyafet detaylarına sahip, şık ve modern bir Lagos kıyafeti giymiş, kendine güvenen 25 yaşındaki Nijeryalı bir kadını konu alan 10 saniyelik, 1080p sinematik video için bir istem.
-
-#### 📝 Prompt
-
-```
-1080p çözünürlükte, 10 saniyelik canlı ve sinematik bir video oluşturun.
-
-Koyu tenli, yüksek at kuyruğu yapılmış örgülü saçları renkli boncuklarla süslü, şık ve modern bir Lagos kıyafeti giymiş (vücuda oturan Ankara desenli üst, yüksek belli kot pantolon, beyaz) kendine güvenen 25 yaşındaki Nijeryalı bir kadın.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b369480eaae9928e442063b473a674d5/thumbnails/thumbnail.jpg" width="600" alt="Lagos Kıyafetli Nijeryalı Kadının Canlı Sinematik Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2830)**
-
-**Author:** [David GMI 🌍💎](https://x.com/Davidgmi_01) | **Source:** [Link](https://x.com/Davidgmi_01/status/2041140620668883309) | **Published:** Apr 6, 2026
-
----
-### Tarlada sebze hasadı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için, tarlada sebzelerin hasat edildiğini ve çiftçilerin her bir sebzenin topraktan söküldüğünde nasıl göründüğünü gösterdiği betimleyici bir istem.
-
-#### 📝 Prompt
-
-```
-Çiftçilerin her bir sebzenin topraktan söküldüğünde nasıl göründüğünü gösterdiği, sebze hasadı yapılan bir tarla
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/070c876b64e233734977c46f2cb65b99/thumbnails/thumbnail.jpg" width="600" alt="Tarlada sebze hasadı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2859)**
-
-**Author:** [Sam](https://x.com/fallmysteries) | **Source:** [Link](https://x.com/fallmysteries/status/2041138815604043852) | **Published:** Apr 6, 2026
-
----
-### Grok Imagine İstemi: Sinematik Gerçekçilik Temeli
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kamera ekipmanı (ARRI Alexa), film greni, aydınlatma teknikleri (anahtar dolgu aydınlatması), lens kullanımı (anamorfik) ve alan derinliği belirterek sinematik gerçekçilik elde etmek amacıyla Grok Imagine'in kalite modu için tasarlanmış temel bir istem yapısı.
-
-#### 📝 Prompt
-
-```
-Daha önce hiç görülmemiş, yepyeni bir film karesi göster; ARRI Alexa ile çekilmiş, hiper gerçekçi film greni, LUT ön ayarı, anahtar dolgu aydınlatması, anamorfik lens kullanımı, sığ alan derinliği, 24mm
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5842c3abaec238336940a5b8706df3fe/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine İstemi: Sinematik Gerçekçilik Temeli">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2865)**
-
-**Author:** [Kiri](https://x.com/Kyrannio) | **Source:** [Link](https://x.com/Kyrannio/status/2041132845834579975) | **Published:** Apr 6, 2026
-
----
-### Barok ve art deco mimarisi içinde sonsuz bir merdivende duran kadın
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için, barok ve art deco mimarisiyle çevrili, ışığa doğru sonsuzca yükselen görkemli bir merdivende duran bir kadını betimleyen; kalın yağlı boya dokusu ve yumuşak altın ve beyaz renk paletiyle oluşturulmuş bir görsel istemi.
-
-#### 📝 Prompt
-
-```
-Işığa doğru sonsuzca yükselen görkemli bir merdivende duran bir kadın; çevresinde barok ve art deco mimarisi, derinliği ve ışığı vurgulayan kalın yağlı boya dokusu, sakin ve neredeyse aşkın bir ifade, yumuşak altın ve beyaz renk paleti.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f3b45c61ae235fd6b02dd70ea904db61/thumbnails/thumbnail.jpg" width="600" alt="Barok ve art deco mimarisi içinde sonsuz bir merdivende duran kadın">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2870)**
-
-**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2041128404393632073) | **Published:** Apr 6, 2026
-
----
-### Bir kadın savaşçının ejderhaya binip havalandığı sinematik video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Arkasını kameraya dönen güçlü bir kadın savaşçının, sırtını nazikçe alçaltan bir ejderhaya binişini ve ejderha antik bir manzaranın üzerinde havalanırken arkasına dönüşünü betimleyen bir grok-imagine video istemi. İstem; güçlü tutarlılığı, tek çekimlik sahneyi, gerçekçi hareketleri ve müzik, plastik dokular veya biçim bozulması (morphing) olmamasını vurgular.
-
-#### 📝 Prompt
-
-```
-Güçlü kadın savaşçı arkasını kameraya döner, ejderha sırtını nazikçe alçaltır ve kadın savaşçı ejderhanın sırtına tırmanır; savaşçı sırtına bindiğinde arkasına döner ve ejderha muhteşem bir antik manzaranın üzerinde havalanır. Güçlü tutarlılık, tek çekimlik sahne, biçim bozulması yok, gerçekçi hareketler ve sesler. Müzik yok. Plastik doku yok, gerçek sinematik hareket.
-```
-
-<img src="https://cms-assets.youmind.com/media/1775549004366_5swnyj_HFNqGNZbkAAKpNI.jpg" width="600" alt="Bir kadın savaşçının ejderhaya binip havalandığı sinematik video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2875)**
-
-**Author:** [Reklaw](https://x.com/Ynohtnareklaw) | **Source:** [Link](https://x.com/Ynohtnareklaw/status/2041092492339118206) | **Published:** Apr 6, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2245,6 +2238,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-16T06:07:53.964Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-16T09:27:54.882Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1111** |
+| 📝 Total Prompts | **1118** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-04-16** |
 
@@ -189,6 +189,120 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Hiện thực hóa các con số bằng hiệu ứng pixel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video phức tạp dành cho Grok, mô tả một người phụ nữ tóc đỏ cùng các hiệu ứng pixel số học để hình ảnh hóa sự khai mở tâm trí.
+
+#### 📝 Prompt
+
+```
+Một người phụ nữ tóc đỏ bận rộn thỉnh thoảng cầm điện thoại lên cười, xung quanh cô ấy, phông nền xanh bắt đầu chuyển thành các pixel số 13 13, 1313, mở rộng tâm trí của chúng ta và có khả năng dự đoán những gì người khác đang làm để cố gắng dự đoán cô ấy
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/49b7cde214590ca8447c076b1a95bcb7/thumbnails/thumbnail.jpg" width="600" alt="Hiện thực hóa các con số bằng hiệu ứng pixel">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3266)**
+
+**Author:** [Jaime Roberts](https://x.com/devilred1376) | **Source:** [Link](https://x.com/devilred1376/status/2044573292002988497) | **Published:** Apr 16, 2026
+
+---
+### Prompt video chuyển động tự nhiên của con người
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt Grok Imagine để tạo các video live-action chân thực với những chuyển động tinh tế, hữu cơ của nhân vật như chớp mắt và thở, được thiết kế để tránh các cử động cường điệu hoặc thiếu tự nhiên.
+
+#### 📝 Prompt
+
+```
+Tạo một video live-action sống động với một người trong khung hình. Nhân vật giữ trạng thái tương đối tĩnh, chỉ có những chuyển động tinh tế tự nhiên — hơi xoay đầu, chớp mắt tự nhiên, nhịp thở, và những thay đổi nhỏ trong tư thế cũng như ánh nhìn. Không nhảy múa, không vẫy tay.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2b9854dac24f14b6eae28aaed63a20e2/thumbnails/thumbnail.jpg" width="600" alt="Prompt video chuyển động tự nhiên của con người">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3261)**
+
+**Author:** [iGor Salikov](https://x.com/salikov_) | **Source:** [Link](https://x.com/salikov_/status/2044510075683848540) | **Published:** Apr 15, 2026
+
+---
+### Prompt video ánh sáng điện ảnh trừu tượng
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Một prompt phức tạp về phong cách dành cho Grok Imagine, sử dụng kỹ thuật ánh sáng Rembrandt, hiệu ứng nhòe chuyển động và hạt phim để tạo ra một chuỗi hình ảnh điện ảnh trừu tượng đầy tâm trạng.
+
+#### 📝 Prompt
+
+```
+Ánh sáng Rembrandt kết hợp với ánh sáng mờ ảo của đêm tối tạo nên những mảng sáng tối loang lổ, khuếch tán, nhòe và trừu tượng. Phối màu hoàn hảo, độ tương phản cao, tông màu tối/mờ ảo, hạt phim mạnh, nhiễu hạt cao, hiệu ứng nhòe lớp, nhòe tiêu cự, nhòe chuyển động, sự chồng lấp giữa nhân vật và bối cảnh, phối cảnh mạnh, góc nhìn độc đáo, các khoảng trống lớn (không gian âm), nền tối giản và màn hình kết hợp các chi tiết trang trí bằng thông tin tiếng Anh sáng tạo cục bộ. 25
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/91532617bb77bbc6919ece90232f4bde/thumbnails/thumbnail.jpg" width="600" alt="Prompt video ánh sáng điện ảnh trừu tượng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3265)**
+
+**Author:** [iGor Salikov](https://x.com/salikov_) | **Source:** [Link](https://x.com/salikov_/status/2044509313566162966) | **Published:** Apr 15, 2026
+
+---
+### Khung cảnh giả tưởng rạn san hô dưới đáy biển
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video chi tiết về cảnh dưới nước với các loài cá nhiệt đới và rùa biển đang bơi quanh rạn san hô, mang phong cách thẩm mỹ giả tưởng có độ bão hòa cao.
+
+#### 📝 Prompt
+
+```
+Một đàn cá nhiệt đới rực rỡ sắc màu bơi lượn quanh rạn san hô cao vút, những chiếc vảy óng ánh lóe lên sắc xanh điện, vàng và hồng khi chúng len lỏi qua những tia nắng mặt trời xuyên qua từ mặt đại dương; một chú rùa biển duyên dáng xuất hiện, đôi vây di chuyển đầy thanh thoát, camera sử dụng chuyển động xoay tròn mượt mà để theo sát hành trình của nó, đồng thời làm nổi bật các kết cấu tinh xảo của rạn san hô; được cách điệu theo phong cách giả tưởng dưới nước sống động với màu sắc có độ bão hòa cao, làn nước trong vắt và hiệu ứng các hạt trôi nhẹ nhàng.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c6bf4da789c82053e1e436c39ecd0caa/thumbnails/thumbnail.jpg" width="600" alt="Khung cảnh giả tưởng rạn san hô dưới đáy biển">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3264)**
+
+**Author:** [LudovicCreator](https://x.com/LudovicCreator) | **Source:** [Link](https://x.com/LudovicCreator/status/2044385366942073193) | **Published:** Apr 15, 2026
+
+---
+### Hoạt ảnh hộp nhạc phát sáng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt đầy kỳ ảo với hình ảnh chiếc hộp nhạc màu vàng kim phát sáng, cùng những trái tim và nốt nhạc bay ra khi hộp mở.
+
+#### 📝 Prompt
+
+```
+hiển thị chiếc hộp nhạc tuyệt đẹp đang mở ra và phát sáng ở giữa, ánh sáng vàng lan tỏa, những trái tim nhỏ và nốt nhạc bay lên theo từng tiếng chuông.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d7a465d38b78e6be1d4f0c9b1c09bd62/thumbnails/thumbnail.jpg" width="600" alt="Hoạt ảnh hộp nhạc phát sáng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3260)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2044371223300182066) | **Published:** Apr 15, 2026
+
+---
+### Lời nhắc video Candid Look
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Hướng dẫn kỹ thuật dành cho Grok Imagine để tạo video một người đang nhìn ra xa khỏi máy quay theo một hướng cụ thể.
+
+#### 📝 Prompt
+
+```
+không nhạc, cô ấy không nhìn vào máy quay, cô ấy nhìn sang bên phải như thể có ai đó đang tiến về phía mình
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a7fc31990a777db1d8c8c7c8de32c0fd/thumbnails/thumbnail.jpg" width="600" alt="Lời nhắc video Candid Look">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3263)**
+
+**Author:** [ESV. Maryam Muktar (MNIVS)™️/ Madam lands](https://x.com/MaRyAm_MuKtAr) | **Source:** [Link](https://x.com/MaRyAm_MuKtAr/status/2044318564811694440) | **Published:** Apr 15, 2026
+
+---
 ### Video về ong mật và máy bay giấy
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +320,27 @@ Ong mật trên những bông hoa bồ công anh vàng, máy bay giấy bay đ�
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3239)**
 
 **Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2044279489425998000) | **Published:** Apr 15, 2026
+
+---
+### Video phi công chiến đấu người Đông Á
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video điện ảnh chi tiết dành cho Grok Imagine, mô tả một nữ phi công chiến đấu trong buồng lái mang phong cách retro-futuristic.
+
+#### 📝 Prompt
+
+```
+Video chuyển đổi từ hình ảnh sang video với độ chi tiết cực cao theo phong cách điện ảnh về một cô gái trẻ người Đông Á xinh đẹp trong vai phi công chiến đấu, đang ngồi bên trong buồng lái máy bay chiến đấu hẹp và bóng bẩy.
+
+Cô ấy mặc một bộ đồ phi công phong cách retro-futuristic màu trắng và cam thời thượng, cùng với cổ áo và các chi tiết trên mũ bảo hiểm đồng bộ.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a4f595ab3cac192b3cd62534b9424fef/thumbnails/thumbnail.jpg" width="600" alt="Video phi công chiến đấu người Đông Á">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3262)**
+
+**Author:** [Colin](https://x.com/quietcolin) | **Source:** [Link](https://x.com/quietcolin/status/2044277892985827598) | **Published:** Apr 15, 2026
 
 ---
 ### Phù thủy và quý cô trong thế giới giả tưởng thập niên 80
@@ -2043,148 +2178,6 @@ Góc quay thấp theo chân, chuyển động dolly mượt mà trên địa hì
 **Author:** [InfoCryption](https://x.com/InfoCryptionHQ) | **Source:** [Link](https://x.com/InfoCryptionHQ/status/2041190050893869294) | **Published:** Apr 6, 2026
 
 ---
-### Grok Imagine Prompt: Nghệ thuật giả tưởng tiên nữ tuyệt đẹp
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh Grok Imagine yêu cầu tạo hình một nàng tiên xinh đẹp với các chi tiết cụ thể như hoa cài trên tóc và một chú bướm, được thể hiện theo phong cách nghệ thuật giả tưởng sống động, chất lượng cao với những viên đá quý lấp lánh và ánh sáng chuyên nghiệp.
-
-#### 📝 Prompt
-
-```
-Một nàng tiên xinh đẹp với hoa cài trên tóc, một chú bướm đầy màu sắc trên vai, khuôn mặt và đôi mắt chi tiết, theo phong cách nghệ thuật giả tưởng, màu sắc sống động và những viên đá quý lấp lánh. Chất lượng cao, độ phân giải cao, ánh sáng chuyên nghiệp, 8K
-```
-
-<img src="https://cms-assets.youmind.com/media/1775548965301_p5y4yk_HFO6RiEbIAI2VGw.jpg" width="600" alt="Grok Imagine Prompt: Nghệ thuật giả tưởng tiên nữ tuyệt đẹp">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2863)**
-
-**Author:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **Source:** [Link](https://x.com/iamhappy2026/status/2041179985680158926) | **Published:** Apr 6, 2026
-
----
-### Hoạt ảnh Tướng Vàng Shogi Xung trận
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Một câu lệnh chi tiết dành cho Grok Imagine để tạo video hoạt ảnh ngắn dài 15-20 giây về quân cờ Shogi, 'Kinsho' (Tướng Vàng), đang hung hăng tấn công vào hàng ngũ kẻ địch, được kết xuất theo phong cách màu nước và giả tưởng SF với các hạt ánh sáng vàng. Câu lệnh chỉ định tiêu đề, phong cách, độ dài và các điểm nhấn hình ảnh chính.
-
-#### 📝 Prompt
-
-```
-Tiêu đề: "Lời tiên tri về Tướng Vàng Oni ~Giáng trần để lặng lẽ chinh phục trại địch~"
-• Phong cách: Phong cách màu nước + giả tưởng SF với trọng tâm là các hạt ánh sáng vàng huyền ảo
-• Độ dài: Video hoạt ảnh ngắn khoảng 15-20 giây
-• Điểm nhấn chính:
-• Mở đầu: Đội hình Nakabisha trôi nổi trong không gian tĩnh lặng
-• Giữa: Tướng Vàng của người chơi thứ hai chủ động lao lên phía trước, được thể hiện mạnh mẽ và đẹp mắt với vệt sáng vàng (kết hợp sức mạnh và sự thanh thoát của "Tướng Vàng Oni")
-• Cao trào: Tướng Vàng lặng lẽ nhưng không khoan nhượng phá hủy trại địch trong khi mở rộng lợi thế
-• Kết thúc...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/af7c5e275692f7d3ea1958f964b36342/thumbnails/thumbnail.jpg" width="600" alt="Hoạt ảnh Tướng Vàng Shogi Xung trận">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2882)**
-
-**Author:** [後藤強士](https://x.com/rubensutsuyosi) | **Source:** [Link](https://x.com/rubensutsuyosi/status/2041155018099945644) | **Published:** Apr 6, 2026
-
----
-### Video điện ảnh sống động về người phụ nữ Nigeria trong trang phục Lagos
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh yêu cầu tạo video điện ảnh 10 giây, độ phân giải 1080p, khắc họa một phụ nữ Nigeria 25 tuổi đầy tự tin với các chi tiết cụ thể về ngoại hình và trang phục, diện bộ đồ Lagos hiện đại đầy phong cách.
-
-#### 📝 Prompt
-
-```
-Tạo một video điện ảnh sống động dài 10 giây với độ phân giải 1080p.
-
-Một phụ nữ Nigeria 25 tuổi đầy tự tin với làn da ngăm, tóc tết đuôi ngựa cao điểm xuyết những hạt cườm đầy màu sắc, mặc trang phục Lagos hiện đại đầy phong cách — áo ôm sát họa tiết Ankara, quần jeans cạp cao, màu trắng
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b369480eaae9928e442063b473a674d5/thumbnails/thumbnail.jpg" width="600" alt="Video điện ảnh sống động về người phụ nữ Nigeria trong trang phục Lagos">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2830)**
-
-**Author:** [David GMI 🌍💎](https://x.com/Davidgmi_01) | **Source:** [Link](https://x.com/Davidgmi_01/status/2041140620668883309) | **Published:** Apr 6, 2026
-
----
-### Thu hoạch rau củ trên cánh đồng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh mô tả dành cho Grok Imagine, hiển thị khung cảnh cánh đồng đang thu hoạch rau củ, với những người nông dân đang giới thiệu hình dáng của từng loại rau khi vừa được nhổ lên từ mặt đất.
-
-#### 📝 Prompt
-
-```
-Một cánh đồng đang thu hoạch rau củ với những người nông dân đang cho thấy hình dáng của từng loại rau khi vừa được nhổ lên từ mặt đất
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/070c876b64e233734977c46f2cb65b99/thumbnails/thumbnail.jpg" width="600" alt="Thu hoạch rau củ trên cánh đồng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2859)**
-
-**Author:** [Sam](https://x.com/fallmysteries) | **Source:** [Link](https://x.com/fallmysteries/status/2041138815604043852) | **Published:** Apr 6, 2026
-
----
-### Grok Imagine Prompt: Cấu trúc hiện thực điện ảnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một cấu trúc prompt cơ bản được thiết kế cho chế độ chất lượng của Grok Imagine, nhằm đạt được độ chân thực như phim điện ảnh bằng cách chỉ định thiết bị máy quay (ARRI Alexa), hạt phim, kỹ thuật chiếu sáng (chiếu sáng chính và phụ), ống kính (anamorphic) và độ sâu trường ảnh.
-
-#### 📝 Prompt
-
-```
-Show me a film still never seen before brand new shot on ARRI Alexa, hyper realistic film grain, LUT preset, key fill lighting anamorphic lensing shallow depth of field 24mm
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5842c3abaec238336940a5b8706df3fe/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine Prompt: Cấu trúc hiện thực điện ảnh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2865)**
-
-**Author:** [Kiri](https://x.com/Kyrannio) | **Source:** [Link](https://x.com/Kyrannio/status/2041132845834579975) | **Published:** Apr 6, 2026
-
----
-### Người phụ nữ trên cầu thang vô tận với kiến trúc baroque và deco
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh cho Grok Imagine mô tả cảnh một người phụ nữ đứng trên chiếc cầu thang lớn vươn dài vô tận vào ánh sáng, đặt trong không gian kiến trúc baroque và deco, được kết xuất với kết cấu sơn dầu dày cùng bảng màu vàng và trắng nhẹ nhàng.
-
-#### 📝 Prompt
-
-```
-Một người phụ nữ đứng trên chiếc cầu thang lớn vươn dài vô tận vào ánh sáng, xung quanh là kiến trúc baroque và deco, kết cấu sơn dầu dày làm nổi bật chiều sâu và ánh sáng, biểu cảm của cô ấy bình thản, gần như siêu thực, bảng màu vàng và trắng nhẹ nhàng.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f3b45c61ae235fd6b02dd70ea904db61/thumbnails/thumbnail.jpg" width="600" alt="Người phụ nữ trên cầu thang vô tận với kiến trúc baroque và deco">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2870)**
-
-**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2041128404393632073) | **Published:** Apr 6, 2026
-
----
-### Video điện ảnh về một nữ chiến binh leo lên lưng rồng và cất cánh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) tạo video grok-imagine mô tả một nữ chiến binh mạnh mẽ quay lưng về phía máy quay, leo lên lưng một con rồng khi nó hạ thấp lưng xuống, sau đó cô quay người lại khi con rồng cất cánh bay qua một vùng đất cổ xưa. Câu lệnh nhấn mạnh vào tính nhất quán cao, cảnh quay liền mạch, chuyển động chân thực và không có âm nhạc, kết cấu nhựa hay hiện tượng biến dạng hình ảnh.
-
-#### 📝 Prompt
-
-```
-Nữ chiến binh mạnh mẽ quay lưng về phía máy quay, con rồng nhẹ nhàng hạ thấp lưng xuống để cô leo lên, cô quay người lại khi đã ngồi trên lưng rồng và con rồng cất cánh bay lên trên một vùng đất cổ xưa tuyệt đẹp. Tính nhất quán cao, cảnh quay liền mạch, không biến dạng, chuyển động và âm thanh chân thực. Không có âm nhạc. Không có kết cấu nhựa, chuyển động điện ảnh chân thực.
-```
-
-<img src="https://cms-assets.youmind.com/media/1775549004366_5swnyj_HFNqGNZbkAAKpNI.jpg" width="600" alt="Video điện ảnh về một nữ chiến binh leo lên lưng rồng và cất cánh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2875)**
-
-**Author:** [Reklaw](https://x.com/Ynohtnareklaw) | **Source:** [Link](https://x.com/Ynohtnareklaw/status/2041092492339118206) | **Published:** Apr 6, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2246,6 +2239,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-16T06:07:37.008Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-16T09:27:41.951Z</sub>
 
 </div>

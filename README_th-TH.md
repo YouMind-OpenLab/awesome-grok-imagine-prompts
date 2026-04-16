@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1111** |
+| 📝 Total Prompts | **1118** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-04-16** |
 
@@ -189,6 +189,120 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### การทำให้ความเป็นจริงของตัวเลขกลายเป็นพิกเซล
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์ที่ซับซ้อนสำหรับ Grok ซึ่งเกี่ยวข้องกับหญิงสาวผมแดงและเอฟเฟกต์พิกเซลตัวเลขเพื่อสร้างภาพการขยายขอบเขตทางความคิด
+
+#### 📝 Prompt
+
+```
+หญิงสาวผมแดงที่กำลังยุ่งอยู่กับการหยิบโทรศัพท์ขึ้นมาดูเป็นระยะพร้อมกับหัวเราะ โดยมีพื้นหลังสีเขียวรอบตัวเธอเริ่มกลายเป็นพิกเซลด้วยตัวเลข 13 13, 1313 ซึ่งแสดงถึงการขยายขอบเขตทางความคิดของเราและความสามารถในการคาดการณ์สิ่งที่คนอื่นกำลังทำอยู่เพื่อพยายามคาดเดาตัวเธอ
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/49b7cde214590ca8447c076b1a95bcb7/thumbnails/thumbnail.jpg" width="600" alt="การทำให้ความเป็นจริงของตัวเลขกลายเป็นพิกเซล">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3266)**
+
+**Author:** [Jaime Roberts](https://x.com/devilred1376) | **Source:** [Link](https://x.com/devilred1376/status/2044573292002988497) | **Published:** Apr 16, 2026
+
+---
+### พรอมต์วิดีโอการเคลื่อนไหวที่เป็นธรรมชาติของมนุษย์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับ Grok Imagine เพื่อสร้างวิดีโอไลฟ์แอ็กชันที่สมจริง โดยเน้นการเคลื่อนไหวของตัวละครที่ละเอียดและเป็นธรรมชาติ เช่น การกะพริบตาและการหายใจ ออกแบบมาเพื่อหลีกเลี่ยงท่าทางที่ดูเกินจริงหรือดูไม่เป็นธรรมชาติ
+
+#### 📝 Prompt
+
+```
+สร้างวิดีโอไลฟ์แอ็กชันที่มีบุคคลอยู่ในเฟรม โดยให้บุคคลนั้นอยู่นิ่งๆ และมีการเคลื่อนไหวเพียงเล็กน้อยที่เป็นธรรมชาติ เช่น การหันศีรษะเบาๆ การกะพริบตาตามปกติ การหายใจ และการขยับท่าทางหรือสายตาเล็กน้อย ไม่มีการเต้นหรือการโบกมือ
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2b9854dac24f14b6eae28aaed63a20e2/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์วิดีโอการเคลื่อนไหวที่เป็นธรรมชาติของมนุษย์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3261)**
+
+**Author:** [iGor Salikov](https://x.com/salikov_) | **Source:** [Link](https://x.com/salikov_/status/2044510075683848540) | **Published:** Apr 15, 2026
+
+---
+### พรอมต์วิดีโอแนว Cinematic Abstract Lighting
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> พรอมต์ที่มีความซับซ้อนเชิงสไตล์สำหรับ Grok Imagine โดยใช้การจัดแสงแบบ Rembrandt, โมชันเบลอ และเกรนฟิล์ม เพื่อสร้างลำดับภาพแนว Cinematic Abstract ที่ให้บรรยากาศหม่นลึก
+
+#### 📝 Prompt
+
+```
+การจัดแสงแบบ Rembrandt ผสมผสานกับแสงสลัวยามค่ำคืน สร้างแสงและเงาที่ดูพร่ามัว กระจัดกระจาย และเป็นนามธรรม การจับคู่สีที่สมบูรณ์แบบ คอนทราสต์สูง โทนสีมืด/สลัว เกรนฟิล์มที่ชัดเจน สัญญาณรบกวนของอนุภาคสูง การเบลอแบบซ้อนทับเป็นชั้นๆ โฟกัสเบลอ โมชันเบลอ การซ้อนทับกันของตัวละครและฉาก มุมมองที่ทรงพลัง มุมมองที่เป็นเอกลักษณ์ พื้นที่ว่าง (Negative Space) ขนาดใหญ่ พื้นหลังแบบมินิมอล และหน้าจอมีการผสมผสานการตกแต่งด้วยข้อมูลภาษาอังกฤษเชิงสร้างสรรค์ในบางจุด 25
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/91532617bb77bbc6919ece90232f4bde/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์วิดีโอแนว Cinematic Abstract Lighting">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3265)**
+
+**Author:** [iGor Salikov](https://x.com/salikov_) | **Source:** [Link](https://x.com/salikov_/status/2044509313566162966) | **Published:** Apr 15, 2026
+
+---
+### จินตนาการแนวปะการังใต้ท้องทะเล
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่งสร้างวิดีโอ (video prompt) โดยละเอียดสำหรับฉากใต้น้ำที่มีฝูงปลาเขตร้อนและเต่าทะเลว่ายวนรอบแนวปะการัง พร้อมสไตล์แฟนตาซีที่เน้นสีสันสดใส
+
+#### 📝 Prompt
+
+```
+ฝูงปลาเขตร้อนสีสันสดใสว่ายวนเวียนอยู่รอบแนวปะการังสูงตระหง่าน เกล็ดที่แวววาวของพวกมันสะท้อนแสงสีน้ำเงินไฟฟ้า สีทอง และสีชมพู ขณะที่พวกมันแหวกว่ายผ่านลำแสงอาทิตย์ที่ส่องลงมาจากผิวน้ำทะเล เต่าทะเลตัวหนึ่งว่ายเข้ามาในมุมกล้องอย่างสง่างาม ครีบของมันขยับด้วยความนุ่มนวลไม่รีบร้อน โดยกล้องใช้การเคลื่อนที่แบบหมุนวนตามเส้นทางของมันเพื่อเผยให้เห็นรายละเอียดที่ซับซ้อนของแนวปะการัง ถ่ายทอดในสไตล์แฟนตาซีใต้น้ำที่เน้นสีสันสดใส น้ำทะเลใสสะอาด และมีเอฟเฟกต์ละอองน้ำที่ล่องลอยอย่างแผ่วเบา
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c6bf4da789c82053e1e436c39ecd0caa/thumbnails/thumbnail.jpg" width="600" alt="จินตนาการแนวปะการังใต้ท้องทะเล">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3264)**
+
+**Author:** [LudovicCreator](https://x.com/LudovicCreator) | **Source:** [Link](https://x.com/LudovicCreator/status/2044385366942073193) | **Published:** Apr 15, 2026
+
+---
+### แอนิเมชันกล่องดนตรีเรืองแสง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์สุดมหัศจรรย์ที่แสดงภาพกล่องดนตรีสีทองเรืองแสง พร้อมหัวใจและตัวโน้ตที่ลอยออกมาขณะที่กล่องเปิดออก
+
+#### 📝 Prompt
+
+```
+แสดงภาพกล่องดนตรีที่สวยงามกำลังเปิดออกและเรืองแสงอยู่ตรงกลาง มีแสงสีทองสาดส่องออกมา พร้อมด้วยหัวใจดวงเล็กๆ และตัวโน้ตดนตรีที่ลอยขึ้นมาตามเสียงดนตรีที่บรรเลง
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d7a465d38b78e6be1d4f0c9b1c09bd62/thumbnails/thumbnail.jpg" width="600" alt="แอนิเมชันกล่องดนตรีเรืองแสง">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3260)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2044371223300182066) | **Published:** Apr 15, 2026
+
+---
+### พรอมต์วิดีโอแบบ Candid Look
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำแนะนำทางเทคนิคสำหรับ Grok Imagine เพื่อสร้างวิดีโอของบุคคลที่กำลังมองออกไปนอกกล้องในทิศทางที่กำหนด
+
+#### 📝 Prompt
+
+```
+ไม่มีดนตรี เธอไม่ได้มองมาที่กล้อง เธอมองไปทางขวาเหมือนมีใครบางคนกำลังเดินเข้ามาหาเธอ
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a7fc31990a777db1d8c8c7c8de32c0fd/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์วิดีโอแบบ Candid Look">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3263)**
+
+**Author:** [ESV. Maryam Muktar (MNIVS)™️/ Madam lands](https://x.com/MaRyAm_MuKtAr) | **Source:** [Link](https://x.com/MaRyAm_MuKtAr/status/2044318564811694440) | **Published:** Apr 15, 2026
+
+---
 ### วิดีโอผึ้งน้อยและเครื่องบินกระดาษ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +320,27 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3239)**
 
 **Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2044279489425998000) | **Published:** Apr 15, 2026
+
+---
+### วิดีโอนักบินขับไล่หญิงชาวเอเชียตะวันออก
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่งสร้างวิดีโอแบบภาพยนตร์ที่มีรายละเอียดสูงสำหรับ Grok Imagine โดยมีตัวละครเป็นนักบินขับไล่หญิงในห้องนักบินสไตล์ย้อนยุคแห่งอนาคต
+
+#### 📝 Prompt
+
+```
+วิดีโอแบบภาพยนตร์ที่สร้างจากภาพ (image-to-video) ที่มีความละเอียดสูงพิเศษของหญิงสาวชาวเอเชียตะวันออกหน้าตาสวยงามในฐานะนักบินขับไล่ ซึ่งนั่งอยู่ภายในห้องนักบินของเครื่องบินรบที่เพรียวบางและแคบ
+
+เธอสวมชุดนักบินสไตล์ย้อนยุคแห่งอนาคตสีขาวสลับส้มที่มีความทันสมัย พร้อมด้วยปกหมวกกันน็อกและรายละเอียดที่เข้าชุดกัน
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a4f595ab3cac192b3cd62534b9424fef/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอนักบินขับไล่หญิงชาวเอเชียตะวันออก">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3262)**
+
+**Author:** [Colin](https://x.com/quietcolin) | **Source:** [Link](https://x.com/quietcolin/status/2044277892985827598) | **Published:** Apr 15, 2026
 
 ---
 ### พ่อมดและหญิงสาวในจินตนาการสไตล์ยุค 80
@@ -2055,148 +2190,6 @@ CGI ที่สมจริงเป็นพิเศษ พื้นผิว
 **Author:** [InfoCryption](https://x.com/InfoCryptionHQ) | **Source:** [Link](https://x.com/InfoCryptionHQ/status/2041190050893869294) | **Published:** Apr 6, 2026
 
 ---
-### Grok Imagine Prompt: ศิลปะแฟนตาซีนางฟ้าแสนสวย
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine prompt สำหรับสร้างภาพนางฟ้าแสนสวยพร้อมรายละเอียดเฉพาะ เช่น ดอกไม้บนเส้นผมและผีเสื้อ โดยถ่ายทอดออกมาในสไตล์ศิลปะแฟนตาซีคุณภาพสูงที่สดใส พร้อมอัญมณีระยิบระยับและการจัดแสงแบบมืออาชีพ
-
-#### 📝 Prompt
-
-```
-นางฟ้าแสนสวยที่มีดอกไม้ประดับบนเส้นผม มีผีเสื้อสีสันสดใสเกาะอยู่บนไหล่ ใบหน้าและดวงตาที่มีรายละเอียดชัดเจน ในสไตล์ศิลปะแฟนตาซี สีสันสดใส และอัญมณีระยิบระยับ คุณภาพสูง ความละเอียดสูง การจัดแสงแบบมืออาชีพ 8K
-```
-
-<img src="https://cms-assets.youmind.com/media/1775548965301_p5y4yk_HFO6RiEbIAI2VGw.jpg" width="600" alt="Grok Imagine Prompt: ศิลปะแฟนตาซีนางฟ้าแสนสวย">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2863)**
-
-**Author:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **Source:** [Link](https://x.com/iamhappy2026/status/2041179985680158926) | **Published:** Apr 6, 2026
-
----
-### แอนิเมชันการบุกของตัวหมากรุกญี่ปุ่น Kinsho (Gold General)
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> คำสั่ง (Prompt) โดยละเอียดสำหรับ Grok Imagine เพื่อสร้างวิดีโอแอนิเมชันสั้นความยาว 15-20 วินาที เกี่ยวกับตัวหมากรุกญี่ปุ่น 'Kinsho' (Gold General) ที่กำลังบุกตะลุยแนวศัตรูอย่างดุดัน โดยเรนเดอร์ในสไตล์สีน้ำและแฟนตาซีไซไฟพร้อมเอฟเฟกต์ละอองแสงสีทอง คำสั่งนี้ระบุชื่อเรื่อง สไตล์ ความยาว และจุดเด่นทางภาพที่สำคัญ
-
-#### 📝 Prompt
-
-```
-ชื่อเรื่อง: "Oracle of the Oni Gold General ~จากฟากฟ้าสู่การพิชิตค่ายศัตรูอย่างเงียบงัน~"
-• สไตล์: สไตล์สีน้ำ + แฟนตาซีไซไฟ โดยเน้นที่ละอองแสงสีทองสุดอลังการ
-• ความยาว: วิดีโอแอนิเมชันสั้นประมาณ 15-20 วินาที
-• จุดเด่นสำคัญ:
-• ช่วงต้น: รูปขบวน Nakabisha ลอยอยู่ในพื้นที่อันเงียบสงบ
-• ช่วงกลาง: ตัวหมาก Gold General ของผู้เล่นฝั่งที่สองพุ่งทะยานไปข้างหน้าอย่างแข็งแกร่งและงดงามด้วยเส้นทางแสงสีทอง (ผสมผสานความดุดันและความสง่างามของ "Oni Gold General")
-• ช่วงไคลแมกซ์: ตัวหมาก Gold General ทำลายค่ายศัตรูอย่างเงียบเชียบแต่ไร้ความปรานี พร้อมขยายความได้เปรียบให้กว้างขึ้น
-• ช่วงจบ...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/af7c5e275692f7d3ea1958f964b36342/thumbnails/thumbnail.jpg" width="600" alt="แอนิเมชันการบุกของตัวหมากรุกญี่ปุ่น Kinsho (Gold General)">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2882)**
-
-**Author:** [後藤強士](https://x.com/rubensutsuyosi) | **Source:** [Link](https://x.com/rubensutsuyosi/status/2041155018099945644) | **Published:** Apr 6, 2026
-
----
-### วิดีโอภาพยนตร์สีสันสดใสของหญิงสาวชาวไนจีเรียในชุดสไตล์ลากอส
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) สำหรับสร้างวิดีโอแนวภาพยนตร์ความยาว 10 วินาที ความละเอียด 1080p ที่นำเสนอหญิงสาวชาวไนจีเรียวัย 25 ปีผู้มั่นใจ พร้อมรายละเอียดรูปร่างและเครื่องแต่งกายที่สวมชุดสไตล์ลากอสสมัยใหม่สุดชิค
-
-#### 📝 Prompt
-
-```
-สร้างวิดีโอแนวภาพยนตร์สีสันสดใสความยาว 10 วินาที ในความละเอียด 1080p
-
-หญิงสาวชาวไนจีเรียวัย 25 ปีผู้มั่นใจ ผิวเข้ม ผมถักหางม้าสูงประดับลูกปัดหลากสี สวมชุดสไตล์ลากอสสมัยใหม่สุดชิค ประกอบด้วยเสื้อลาย Ankara พอดีตัว กางเกงยีนส์เอวสูง สีขาว
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b369480eaae9928e442063b473a674d5/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอภาพยนตร์สีสันสดใสของหญิงสาวชาวไนจีเรียในชุดสไตล์ลากอส">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2830)**
-
-**Author:** [David GMI 🌍💎](https://x.com/Davidgmi_01) | **Source:** [Link](https://x.com/Davidgmi_01/status/2041140620668883309) | **Published:** Apr 6, 2026
-
----
-### การเก็บเกี่ยวผักในแปลง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) สำหรับ Grok Imagine เพื่อแสดงภาพแปลงผักที่มีการเก็บเกี่ยว โดยมีเกษตรกรสาธิตให้เห็นว่าผักแต่ละชนิดมีลักษณะอย่างไรเมื่อถูกถอนขึ้นมาจากดิน
-
-#### 📝 Prompt
-
-```
-แปลงผักที่มีการเก็บเกี่ยวผลผลิต โดยมีเกษตรกรกำลังแสดงให้เห็นว่าผักแต่ละชนิดมีลักษณะอย่างไรเมื่อถูกถอนขึ้นมาจากดิน
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/070c876b64e233734977c46f2cb65b99/thumbnails/thumbnail.jpg" width="600" alt="การเก็บเกี่ยวผักในแปลง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2859)**
-
-**Author:** [Sam](https://x.com/fallmysteries) | **Source:** [Link](https://x.com/fallmysteries/status/2041138815604043852) | **Published:** Apr 6, 2026
-
----
-### Grok Imagine Prompt: Cinematic Realism Base
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> โครงสร้าง Prompt พื้นฐานที่ออกแบบมาสำหรับโหมดคุณภาพของ Grok Imagine เพื่อให้ได้ภาพที่สมจริงในระดับภาพยนตร์ โดยระบุรายละเอียดของอุปกรณ์กล้อง (ARRI Alexa), เกรนฟิล์ม, เทคนิคการจัดแสง (Key fill lighting), เลนส์ (Anamorphic) และระยะชัดลึก
-
-#### 📝 Prompt
-
-```
-Show me a film still never seen before brand new shot on ARRI Alexa, hyper realistic film grain, LUT preset, key fill lighting anamorphic lensing shallow depth of field 24mm
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5842c3abaec238336940a5b8706df3fe/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine Prompt: Cinematic Realism Base">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2865)**
-
-**Author:** [Kiri](https://x.com/Kyrannio) | **Source:** [Link](https://x.com/Kyrannio/status/2041132845834579975) | **Published:** Apr 6, 2026
-
----
-### หญิงสาวบนบันไดวนไม่สิ้นสุดในสถาปัตยกรรมสไตล์บาโรกและอาร์ตเดโค
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับ Grok Imagine ที่บรรยายฉากหญิงสาวคนหนึ่งยืนอยู่บนบันไดขนาดใหญ่ที่ทอดยาวขึ้นไปสู่แสงสว่างอย่างไม่มีที่สิ้นสุด ท่ามกลางสถาปัตยกรรมสไตล์บาโรกและอาร์ตเดโค ถ่ายทอดด้วยพื้นผิวสีน้ำมันแบบหนาและโทนสีทองและสีขาวนวล
-
-#### 📝 Prompt
-
-```
-หญิงสาวคนหนึ่งยืนอยู่บนบันไดขนาดใหญ่ที่ทอดยาวขึ้นไปสู่แสงสว่างอย่างไม่มีที่สิ้นสุด ล้อมรอบด้วยสถาปัตยกรรมสไตล์บาโรกและอาร์ตเดโค พื้นผิวสีน้ำมันแบบหนาช่วยเน้นย้ำความลึกและแสงเงา สีหน้าของเธอสงบนิ่งและดูเหนือจริง ใช้โทนสีทองและสีขาวนวล
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f3b45c61ae235fd6b02dd70ea904db61/thumbnails/thumbnail.jpg" width="600" alt="หญิงสาวบนบันไดวนไม่สิ้นสุดในสถาปัตยกรรมสไตล์บาโรกและอาร์ตเดโค">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2870)**
-
-**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2041128404393632073) | **Published:** Apr 6, 2026
-
----
-### วิดีโอแนวภาพยนตร์ของนักรบหญิงที่กำลังปีนขึ้นไปบนหลังมังกรแล้วทะยานบินขึ้นสู่ท้องฟ้า
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอสำหรับ grok-imagine ที่บรรยายภาพนักรบหญิงผู้แข็งแกร่งหันหลังให้กล้อง ปีนขึ้นไปบนหลังมังกรขณะที่มันค่อย ๆ ลดระดับหลังลง จากนั้นเธอหันกลับมาในขณะที่มังกรทะยานบินขึ้นเหนือภูมิประเทศโบราณ พรอมต์นี้เน้นย้ำถึงความต่อเนื่องที่ชัดเจน ฉากแบบถ่ายต่อเนื่องช็อตเดียว การเคลื่อนไหวที่สมจริง และไม่มีดนตรี ไม่มีพื้นผิวแบบพลาสติก หรือการบิดเบี้ยวของภาพ
-
-#### 📝 Prompt
-
-```
-นักรบหญิงผู้แข็งแกร่งหันหลังให้กล้อง มังกรค่อย ๆ ลดระดับหลังลงเพื่อให้เธอปีนขึ้นไปได้ เมื่อขึ้นไปบนหลังแล้วเธอก็หันกลับมา จากนั้นมังกรก็ทะยานบินขึ้นเหนือภูมิประเทศโบราณอันน่าทึ่ง ความต่อเนื่องที่ชัดเจน ฉากแบบถ่ายต่อเนื่องช็อตเดียว ไม่มีการบิดเบี้ยวของภาพ การเคลื่อนไหวและเสียงที่สมจริง ไม่มีดนตรี ไม่มีพื้นผิวแบบพลาสติก เป็นการเคลื่อนไหวแบบภาพยนตร์อย่างแท้จริง
-```
-
-<img src="https://cms-assets.youmind.com/media/1775549004366_5swnyj_HFNqGNZbkAAKpNI.jpg" width="600" alt="วิดีโอแนวภาพยนตร์ของนักรบหญิงที่กำลังปีนขึ้นไปบนหลังมังกรแล้วทะยานบินขึ้นสู่ท้องฟ้า">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2875)**
-
-**Author:** [Reklaw](https://x.com/Ynohtnareklaw) | **Source:** [Link](https://x.com/Ynohtnareklaw/status/2041092492339118206) | **Published:** Apr 6, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2258,6 +2251,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-16T06:07:35.146Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-16T09:27:40.925Z</sub>
 
 </div>
