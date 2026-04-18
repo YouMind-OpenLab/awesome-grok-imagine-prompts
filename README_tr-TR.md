@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1118** |
+| 📝 Total Prompts | **1129** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-04-18** |
 
@@ -189,6 +189,225 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Crimson Seraph Dark Fantasy
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gotik bir katedralde, gümüş saçlı ve erimiş kılıçlı, etrafında girdap gibi dönen atmosferik efektlere sahip düşmüş bir serafimi konu alan karanlık fantezi video istemi.
+
+#### 📝 Prompt
+
+```
+Gümüş saçlı ve kor gözlü düşmüş serafim, gotik katedralde erimiş kılıcını kavrıyor. Ateşten halenin altındaki siyah kanatlar, tüyler ve yapraklar havada uçuşuyor.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0855626bb484f2ba47a19a698f832b00/thumbnails/thumbnail.jpg" width="600" alt="Crimson Seraph Dark Fantasy">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3309)**
+
+**Author:** [N0v4Ph4n](https://x.com/N0v4ph4n) | **Source:** [Link](https://x.com/N0v4ph4n/status/2045332969196548131) | **Published:** Apr 18, 2026
+
+---
+### 3D Kağıt Kıvırma Sanatı Bebek İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 3D kağıt kıvırma sanatı tarzında, yüksek çözünürlüklü bir video için detaylı açıklayıcı istem.
+
+#### 📝 Prompt
+
+```
+Büyük mavi gözlü, sarı saçlı ve pembe dudaklı güzel bebek, örgülü saç modelinde karmaşık detaylı çiçekler, başının etrafında kelebekler, pastel renkli beyaz dantel elbise, 3D kağıt kıvırma sanatı tarzında, yüksek çözünürlük
+```
+
+<img src="https://pbs.twimg.com/media/HGI8QHMbgAA6n8a.jpg" width="600" alt="3D Kağıt Kıvırma Sanatı Bebek İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3311)**
+
+**Author:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **Source:** [Link](https://x.com/iamhappy2026/status/2045263539280220669) | **Published:** Apr 17, 2026
+
+---
+### Ay Işığı Altında Yağlı Boya Bahçe Portresi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yıldızlı bir bahçede, yumuşak hareketlere, çiçek dokularına ve sinematik ışıklandırmaya odaklanan, yağlı boya tarzında bir kadın portresi için sanatsal video istemi.
+
+#### 📝 Prompt
+
+```
+Beyaz ay ışığının altında, yıldızlı bir bahçenin eğik ufkunda duran bir kadının ultra detaylı yağlı boya portresi; elbisesi Rokoko çiçek dokuları ve Art Deco simetrisiyle işlenmiş, yıldızlı gökyüzünü oluşturan kalın palet bıçağı darbeleri, sahneye hakim olan etkileyici tonlar, yumuşakça dalgalanan saçlar, duygusal ifade, sinematik kompozisyon, alan derinliği, müze kalitesi, 8K.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/030604988fab9609a664983e62f62b9c/thumbnails/thumbnail.jpg" width="600" alt="Ay Işığı Altında Yağlı Boya Bahçe Portresi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3310)**
+
+**Author:** [RosieLP⚔️🌹](https://x.com/S60Rosie) | **Source:** [Link](https://x.com/S60Rosie/status/2045251408266748132) | **Published:** Apr 17, 2026
+
+---
+### Film Noir Tehditkar Figür Sinematografisi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için; karanlık, atmosferik bir film noir sahnesi içeren, özel kamera hareketi ve ışıklandırma talimatlarına sahip sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Orta çekim, kamera karanlık deri bir koltukta oturan tehditkar bir figürden yavaşça geri çekiliyor, puro dumanı sarmal halde yükseliyor, split diopter hem ön planı hem de arka planı odakta tutuyor, derin gölgeler ve jaluzi perdelerle film noir ışıklandırması
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bb379bac4d4b674bdc4c2be9c2881f8e/thumbnails/thumbnail.jpg" width="600" alt="Film Noir Tehditkar Figür Sinematografisi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3312)**
+
+**Author:** [David Liang](https://x.com/DavidLi36143625) | **Source:** [Link](https://x.com/DavidLi36143625/status/2045219545078714770) | **Published:** Apr 17, 2026
+
+---
+### Altın Impasto Elbiseli Ethereal Kadın
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ağır impasto dokulu yağlı boya tarzında, rustik bir ortamda, gösterişli altın rengi bir elbise giyen kadını betimleyen oldukça detaylı bir video oluşturma istemi.
+
+#### 📝 Prompt
+
+```
+Altın çiçekler ve yapraklarla süslenmiş uzun, dalgalı koyu kahverengi saçlı, altın rengi çiçekli taçlı, pembe yanaklı ve kırmızı dudaklı narin yüzlü güzel kadın; kalın impasto fırça darbeleri ve kabartmalı altın taç yaprağı detaylarıyla dokulu metalik altından yapılmış gösterişli, omuzları açık bir elbise giyiyor; zarif ve ruhani, ağır impasto dokulu yağlı boya tarzı, belirgin palet bıçağı ve fırça izleri, altın saat ışığı, arka planda rustik ahşap kulübe, etrafında uçuşan kır çiçekleri ve altın rengi yapraklar, romantik ve rüya gibi bir atmosfer, başyapıt, yüksek detaylı, sinematik kompozisyon.
+```
+
+<img src="https://cms-assets.youmind.com/media/1776499094416_mukz3w_HGH5cvQaQAAVcRJ.jpg" width="600" alt="Altın Impasto Elbiseli Ethereal Kadın">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3305)**
+
+**Author:** [Art Muse](https://x.com/art_muse) | **Source:** [Link](https://x.com/art_muse/status/2045190044319707547) | **Published:** Apr 17, 2026
+
+---
+### Meditasyon Yapan Jedi Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Arka planda devasa kürelerin yükseldiği bir çölde meditasyon yapan yalnız bir Jedi'ı tasvir eden, çevresel detaylara odaklanan sinematik bir animasyon istemi.
+
+#### 📝 Prompt
+
+```
+Yalnız bir Jedi, çölde antik devasa küreler yavaşça yükselirken meditasyon yapıyor.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cbae26e5e4278bb5864c96037231b1c1/thumbnails/thumbnail.jpg" width="600" alt="Meditasyon Yapan Jedi Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3314)**
+
+**Author:** [Fred Devo](https://x.com/DevoFred) | **Source:** [Link](https://x.com/DevoFred/status/2045181744735977839) | **Published:** Apr 17, 2026
+
+---
+### Sinematik ve Sürükleyici Tenis Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Dinamik top hareketi ve sinematik yakınlaşma içeren, stabil bir tenis sahnesi için oldukça detaylı bir video istemi.
+
+#### 📝 Prompt
+
+```
+Kadın, videonun tamamı boyunca tamamen aynı kalmalıdır. Yüzü, kimliği, pozu, kıyafeti, raketi, ışıklandırması, gökyüzü ve kamera açısı değişmemelidir. Bozulma, biçim değiştirme, anatomik hata, fazladan uzuv, aksaklık veya titreme olmamalıdır. Cilt doğal ve gerçekçi görünmelidir. Tenis topları havada belirmeli ve kameraya doğru pürüzsüz, sinematik ve biraz daha dinamik bir hareketle ilerlemelidir. Hareketleri; ön plan, orta plan ve arka plan arasındaki derinlikle birlikte sürükleyici ve katmanlı hissettirmelidir. Hareket ilgi çekici olmalı ancak kaotik değil, kontrollü olmalıdır. Video, güçlü bir görsel kanca ile ilk saniyeden itibaren dikkat çekmelidir. Videonun başlarında bir tenis topu lense çok yakın geçerek anında sürükleyici bir etki yaratmalıdır. Hareketin yoğunluğu kademeli olarak artmalıdır. Videonun sonuna doğru, son bir tenis topu doğrudan kameraya doğru hareket ederek lense ulaşmalı ve güçlü bir final anı için kadrajı doldurmalıdır. Kadın, yalnızca hafif ve doğal mikro hareketlerle tamamen hareketsiz kalmalıdır. Anatomisi her zaman kusursuz ve fiziksel olarak doğru olmalıdır. Kamera, çok hafif bir sinematik yakınlaşma ile sabit kalmalıdır. Özne net kalırken, derinlik algısı için ön plandaki bazı toplar hafifçe odak dışı bırakılmalıdır. Genel his; temiz hareketler ve ultra yüksek kalite ile sinematik, sürükleyici ve görsel olarak çarpıcı olmalıdır. Bulanıklık, titreme veya görsel hata olmamalıdır.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/780eb58b060bb36d72990979afd4aa56/thumbnails/thumbnail.jpg" width="600" alt="Sinematik ve Sürükleyici Tenis Sahnesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3307)**
+
+**Author:** [Özge Döner](https://x.com/astronomerozge1) | **Source:** [Link](https://x.com/astronomerozge1/status/2045166451149967723) | **Published:** Apr 17, 2026
+
+---
+### Destansı Mecha ve Kaiju Hava Savaşı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yanan bir şehrin üzerinde geçen; mecha, kaiju ve ejderha arasındaki devasa savaşı betimleyen, oldukça sinematik ve detaylı bir video oluşturma istemi.
+
+#### 📝 Prompt
+
+```
+Dünya üzerinde yanan fütüristik bir şehrin gökyüzünde geçen, düşük açıdan dramatik bir perspektifle görülen devasa ve destansı bir savaş. "Xeno Leviathan Terraformer" adlı, yüzlerce metre yüksekliğinde, mor ve camgöbeği parlayan detaylarla ağır zırhlı, göğüs çekirdeği yoğun bir ışıkla yanan, devasa beyaz-pembe yüksek teknolojili bir mecha robot sahneye hakim. Göğsünden güçlü, parlak mavi bir enerji ışını ve kollarından aşağıya doğru çift turuncu-sarı plazma ışını ateşliyor.
+
+Mecha'nın önünde, parlayan kırmızı-turuncu sırt dikenleri ve vücudunda lav efektleri olan vahşi, Godzilla benzeri karanlık bir kaiju yukarıya doğru kükrüyor; sağ tarafta ise büyük zarlı kanatları, parlayan gözleri ve ateşli nefesiyle görkemli, altın rengi bir ejderha agresif bir şekilde kükrüyor. Her iki yaratık da dev mecha ile savaşırken duman, ateş ve patlamalar arasında kalmış durumda.
+
+Dramatik hacimsel aydınlatma, yoğun duman ve bulutların arasından süzülen tanrı ışınları (god rays), lens parlamaları, uçuşan enkazlar, aşağıda yıkılmış gökdelenlerle yanan şehir, arka planda görünen Dünya eğriliği ve karanlık uzaydaki yıldızlar. Sinematik renk derecelendirmesi, yoğun kontrast, yüksek detay, ultra gerçekçi dokular, dinamik aksiyon pozu, destansı ölçek, başyapıt, en iyi kalite, 8k, fotogerçekçi ancak stilize anime/mecha estetiği --stylize 750 --v 6
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e61d5c33ca5f5875d6a1b45521c5e9a8/thumbnails/thumbnail.jpg" width="600" alt="Destansı Mecha ve Kaiju Hava Savaşı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3304)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2045106626257186834) | **Published:** Apr 17, 2026
+
+---
+### İleri Takip Tünel Yarışı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir spor arabanın klostrofobik bir tünelde hızla ilerleyişini yakalamak için ileri takip çekimi kullanan yoğun bir yarış video istemi.
+
+#### 📝 Prompt
+
+```
+Dar bir tünelde yarışan siyah bir spor araba, motor sesi yankılanıyor, farlar karanlığı yarıp geçiyor. Araçların arasından hızla geçiyor ve bariyerlere çarpmaktan son anda kurtuluyor. Titreyen ışıklara ve dar duvarlara sahip yeraltı tüneli. Arabanın hemen önünden ileri takip çekimi, ritmik aralıklarla yanından geçen ışık çizgileri, klostrofobik kadraj, yoğun hız algısı.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a80cf6b6e62ea76eed08d15d02f71d7e/thumbnails/thumbnail.jpg" width="600" alt="İleri Takip Tünel Yarışı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3308)**
+
+**Author:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Source:** [Link](https://x.com/CharaspowerAI/status/2045057192022233269) | **Published:** Apr 17, 2026
+
+---
+### Rokoko Yağlı Boya Portre Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için gün batımı ışığında, parıldayan dokulara ve yumuşak hareketlere sahip bir kadın yağlı boya tablosunu içeren sinematik bir video oluşturma istemi.
+
+#### 📝 Prompt
+
+```
+Altın rengi gün batımı ışığında duran bir kadının ultra detaylı yağlı boya portresi, Rokoko çiçek dokuları ve Art Deco simetrisiyle parıldayan elbisesi, parlayan gökyüzünü oluşturan kalın palet bıçağı darbeleri, sahneye hakim sıcak tonlar, yumuşakça dalgalanan saçlar, duygusal ifade, sinematik kompozisyon, alan derinliği, müze kalitesi, 8K.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6b61a39b2fd3ba77e6c0607b66e82029/thumbnails/thumbnail.jpg" width="600" alt="Rokoko Yağlı Boya Portre Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3313)**
+
+**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2044986295290634504) | **Published:** Apr 17, 2026
+
+---
+### Cyberpunk Samuray Aksiyon Figürü Rotasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Cyberpunk ninja figürünün 360 derece dönüşünü ve sinematik yakın çekimlerini içeren, ürün tanıtımına yönelik uzman seviyesinde bir video istemi.
+
+#### 📝 Prompt
+
+```
+Şeffaf bir döner tabla üzerinde yavaşça 360 derece dönen siyah altıgen bir sergileme standı üzerinde duran, son derece detaylı 1/6 ölçekli cyberpunk samuray robot aksiyon figürü. Figür; siyah, yırtık pıtır pıtır bir pelerine, koyu gri ve siyah renklerde açık mekanik zırhlara, taktik ceplere, kayışlara ve yıpranmış detaylara sahip, tehditkar, kapüşonlu bir siborg ninjadır.
+
+Kafası, ışıkla nabız gibi atan, yoğun bir şekilde parlayan parlak kırmızı LED gözlere ve ağza sahip şık, siyah robotik bir kurukafa maskesidir. Bir elinde parlak sıcak pembe neon bıçaklı uzun bir katana tutmaktadır.
+
+Kamera, göz hizasında figürün etrafında akıcı bir şekilde döner ve ardından dramatik yakın çekimlere geçer: önce kapüşonun altındaki parlayan kırmızı şeytani yüz, ardından kılıcı kavrayan mekanik kollar ve robotik eller, daha sonra detaylı bacaklar ve botlar ve son olarak yırtık pelerini ve tam zırhı gösteren arka görünüm.
+
+Yumuşak beyaz arka planlı profesyonel stüdyo aydınlatması, parlak zemin üzerinde hafif yansımalar, sinematik ürün fotoğrafçılığı tarzı, ultra gerçekçi dokular, keskin detaylar, 4K, akıcı 14 saniyelik dönen tanıtım videosu.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cd75e14f26eed72dfd21e90d40260c60/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Samuray Aksiyon Figürü Rotasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3306)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2044933929111535988) | **Published:** Apr 17, 2026
+
+---
 ### Sayısal Gerçekliği Pikselleştirmek
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1962,221 +2181,6 @@ sinematik, ultra gerçekçi, 8k, fotogerçekçi, dramatik aydınlatma, film gren
 **Author:** [Thoth Scribe](https://x.com/ThothScribe) | **Source:** [Link](https://x.com/ThothScribe/status/2041280248076226729) | **Published:** Apr 6, 2026
 
 ---
-### Retro elbiseli İspanyol kadın, çizgi film tarzı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için, göz alıcı retro bir elbise ve kırmızı güllerle süslü siyah bir şapka takan güzel bir İspanyol kadını betimleyen, M. Precisionist, Mary Blair ve Margaret Keane'den ilham alan çizgi film tarzında, yağlı boya fırça darbeleri ve karmaşık altın rengi arka plan üzerinde canlı renklerle oluşturulmuş, son derece detaylı ve sanatsal bir istem.
-
-#### 📝 Prompt
-
-```
-Güzel bir İspanyol kadın, kırmızı güllerle süslü siyah bir şapka takıyor, göz alıcı retro bir elbise içinde, büyük gözlü, M. Precisionist tarzında çizgi film sanatı, yağlı boya fırça darbeleriyle, Mary Blair ve Margaret Keane tarzında, canlı renkler, karmaşık desenli altın rengi bir arka plan üzerinde, düşük açı perspektifinden, merkezlenmiş kompozisyon, tam boy portre, zarif kıvrımlar. Yüksek kalite, yüksek çözünürlük, profesyonel aydınlatma, 8K
-```
-
-<img src="https://cms-assets.youmind.com/media/1775548955325_i43s36_HFP4k00aMAAeMj9.jpg" width="600" alt="Retro elbiseli İspanyol kadın, çizgi film tarzı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2861)**
-
-**Author:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **Source:** [Link](https://x.com/iamhappy2026/status/2041248486394622073) | **Published:** Apr 6, 2026
-
----
-### Sürreal zaman bükücü rüya video istemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine Text to Video için; yüzen saatlerin lavanta rengi bir sise dönüştüğü, zamanın yavaşladığı, yaprakların yukarı doğru düştüğü ve 'REVERIE' kelimesinin bir anı gibi çözülerek belirdiği sürreal, ağır çekim bir sahneyi betimleyen istem.
-
-#### 📝 Prompt
-
-```
-Yüzen saatlerden oluşan sonsuz bir alan, lavanta rengi bir sise dönüşüyor. Zaman yavaşlıyor. Yapraklar yukarı doğru düşüyor. Sisin içinde, rüyalardan ve hafif yankılardan oluşan harflerle yazılmış REVERIE kelimesi beliriyor ve kenarları bir anı gibi çözülerek kayboluyor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/860af1ee3c567b742a1317d533861080/thumbnails/thumbnail.jpg" width="600" alt="Sürreal zaman bükücü rüya video istemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2866)**
-
-**Author:** [LudovicCreator](https://x.com/LudovicCreator) | **Source:** [Link](https://x.com/LudovicCreator/status/2041248348011688141) | **Published:** Apr 6, 2026
-
----
-### Grok Imagine İstemi: 3D Kağıt Sanatı Su Tanrıçası
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Uzun sarı saçlı, çiçekler ve dalgalarla çevrili bir su tanrıçasının 3D kağıt sanatı tarzında görselini oluşturmak için kullanılan, mavi ve pastel renkleri, altın detayları ve ruhani, zarif bir stili vurgulayan bir Grok Imagine istemi.
-
-#### 📝 Prompt
-
-```
-uzun sarı saçlı su tanrıçasının 3D kağıt sanatı, çiçekler, dalgalar ve detaylı bir arka plan ile çevrili, mavi ve pastel renklerde: turkuaz mavisi, krem beyazı, açık pembe, sarı, altın detaylı, ruhani ve zarif stil, yüksek kalite, yüksek çözünürlük, profesyonel aydınlatma, 8K
-```
-
-<img src="https://cms-assets.youmind.com/media/1775548969161_tzcqwi_HFP0A-5aUAAnSz8.jpg" width="600" alt="Grok Imagine İstemi: 3D Kağıt Sanatı Su Tanrıçası">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2864)**
-
-**Author:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **Source:** [Link](https://x.com/iamhappy2026/status/2041243449110962626) | **Published:** Apr 6, 2026
-
----
-### Organik Biyolüminesans Yakınlaştır/Uzaklaştır videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir kullanıcı, bir fotoğraf yükledikten sonra temel fotoğraf istemini ('Organik Biyolüminesans') ve video istemini ('Yakınlaştır ve uzaklaştır') birleştirerek Grok Imagine'in hız modunda kullanılan başarılı bir istem kombinasyonunu paylaşıyor. Bu, Grok Imagine için bir video oluşturma istemidir.
-
-#### 📝 Prompt
-
-```
-Temel fotoğraf istemi için Organik Biyolüminesans ve video istemi için Yakınlaştır ve uzaklaştır
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f78cc59248fc1e16522fd73a4daac65e/thumbnails/thumbnail.jpg" width="600" alt="Organik Biyolüminesans Yakınlaştır/Uzaklaştır videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2958)**
-
-**Author:** [Lala](https://x.com/keepgoingAnnie) | **Source:** [Link](https://x.com/keepgoingAnnie/status/2041239957151658067) | **Published:** Apr 6, 2026
-
----
-### Sinematik Çatı Katı Piyano Sahnesi İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Alacakaranlıkta bir çatı katında kuyruklu piyano çalan bir kadının yer aldığı, dramatik bir etki için seçici renk kullanımından yararlanan sinematik bir video sahnesi oluşturmaya yönelik bir istem.
-
-#### 📝 Prompt
-
-```
-Alacakaranlıkta sinematik bir çatı katı sahnesi, ultra gerçekçi, şehir çatısında kuyruklu piyanonun başında oturan muhteşem bir kadın, piyano ayaklarının etrafında kıvrılan ve havaya yayılan koyu kızıl duman dışında sadece seçici renklerin kullanıldığı siyah beyaz bir dünya, zarif bir akşam
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/943502352fd029512c3c2a1f3e82d73f/thumbnails/thumbnail.jpg" width="600" alt="Sinematik Çatı Katı Piyano Sahnesi İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2880)**
-
-**Author:** [Techartist](https://x.com/techartist_) | **Source:** [Link](https://x.com/techartist_/status/2041233556039725484) | **Published:** Apr 6, 2026
-
----
-### Siyah Bir Boşluğun Etrafında Dönen Eş Merkezli Halkalar
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Siyah oval bir boşluğun etrafında sürekli eş merkezli halkalar halinde akan turkuaz ve mavi noktaları betimleyen bir Grok Imagine video istemi.
-
-#### 📝 Prompt
-
-```
-Turkuaz ve mavi noktalar, siyah oval boşluğun etrafında sürekli eş merkezli halkalar halinde akıyor, gel bir bak
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fd9aefd2addd8f20f5a079e6387d4807/thumbnails/thumbnail.jpg" width="600" alt="Siyah Bir Boşluğun Etrafında Dönen Eş Merkezli Halkalar">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2877)**
-
-**Author:** [FishmafiamasonboroTerritory](https://x.com/Fishmafiam42015) | **Source:** [Link](https://x.com/Fishmafiam42015/status/2041233376078627113) | **Published:** Apr 6, 2026
-
----
-### Fütüristik bir kadın savaşçının sinematik aksiyon sekansı video istemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Karanlık, yağmurlu bir endüstriyel limanda fütüristik zırhlı, vahşi bir kadın savaşçının siber-iblis canavarlarla savaştığı 21 saniyelik sinematik bir aksiyon sekansı oluşturmak için son derece detaylı bir Grok Imagine istemi; kamera açıları, ışıklandırma ve stil detaylarını içerir.
-
-#### 📝 Prompt
-
-```
-Alacakaranlıkta, karanlık ve yağmurlu bir endüstriyel limanda, yoğun sis ve puslu, su birikintileriyle dolu ıslak ve yansıtıcı zemin üzerinde 21 saniyelik sinematik aksiyon sekansı. Mavi ve siyah renkli, mekanik detaylara, parlayan kırmızı vurgulara sahip fütüristik yüksek teknolojili zırhlı bir kıyafet giyen, parlayan pembe/kırmızı holografik vizörlü şık siyah taktik kask takan vahşi bir kadın savaşçı. Kaskının altında burun halkası ve görünen koyu renkli saç tutamları var.
-
-Parlak ışık izleri bırakan güçlü, mavi enerjili bir kılıç kullanıyor. Parlayan kırmızı gözleri, keskin pençeleri, boynuzları ve tehditkar biyomekanik tasarımları olan çok sayıda devasa siber-iblis canavara karşı dinamik ve hızlı tempolu bir dövüş.
-
-Kendi mavi robotik kolunun ve detaylı mekanik elinin aşırı yakın çekimleriyle başlıyor. Kaskının içindeki yüzünün yoğun yakın çekimine, kırmızı parlayan arayüzlere, hedefleme sistemlerine ve "SMART ON" yazısına sahip holografik HUD'un etkinleşmesine geçiş yapıyor. Omuz zırhını, silah detaylarını ve kararlı ifadesini gösteriyor. Geniş aksiyon çekimleri: Islak rıhtımda canavarlara doğru koşuyor, enerji kılıcıyla parlak mavi ışık arkları oluşturarak kesiyor. Hızlı dövüş koreografisi: Eğiliyor, Slides yapıyor, zıplıyor, havada akrobatik taklalar atarken kılıç sallıyor, aynı anda birden fazla yaratıkla savaşıyor. Epik geniş çekimler: Düşmanlarla çevrili güçlü pozlarda duruyor, yere birden fazla parlayan enerji kılıcı saplayarak bir ışık çemberi oluşturuyor. Patlamalar, kıvılcımlar, duman ve etrafına düşen yenilmiş canavarlarla doruk noktası anları. Arkasından, enerji kılıcı hala parlayarak, çatlak ve ıslak zeminde devrilmiş düşmanlarla çevrili bir şekilde, arka planda endüstriyel vinçler ve sisli gemiler varken kendinden emin bir şekilde uzaklaşmasıyla sona eriyor.
-
-Ultra gerçekçi CGI, yüksek detaylı dokular, yansımalı ıslak yüzeyler, dramatik hacimsel ışıklandırma, soğuk maviler ve zıt kırmızı tonlarıyla sinematik renk derecelendirmesi, hızlı aksiyonlarda hareket bulanıklığı, sığ alan derinliği, sıkı dramatik yakın çekimlerle harmanlanmış epik geniş çekimler, 8K kalite, film greni, yoğun atmosfer; Ghost in the Shell ve Pacific Rim gibi bilim kurgu aksiyon filmlerinden esinlenilmiştir.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/312d379b237b78456c46c5271bd4c0ca/thumbnails/thumbnail.jpg" width="600" alt="Fütüristik bir kadın savaşçının sinematik aksiyon sekansı video istemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2876)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2041229905040457977) | **Published:** Apr 6, 2026
-
----
-### Grok Imagine ile Karlar İçinde Siber-Mısırlı Figür
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için yoğun kar yağışı altında gizemli bir siber-Mısırlı figürü betimleyen, detaylı zırhı ve karamsar kış atmosferiyle öne çıkan sinematik bir istem.
-
-#### 📝 Prompt
-
-```
-Yoğun kar yağışı altında gizemli siber-Mısırlı figür, tamamen taze karla kaplı kalın siyah kapüşonlu bir pelerin giyiyor, uzun süslü boynuzlara ve karmaşık mekanik detaylara sahip ayrıntılı antik-fütüristik altın miğfer, üzerinde hafif parlayan altın takımyıldız çizgileri ve semboller bulunan büyük parlak siyah küresel vizör, lüks altın ve siyah renk paleti, dramatik kenar aydınlatması, arka planda bulanık klasik sütunlar, sinematik yakın çekim portre, hiper gerçekçi kar ve metal dokuları, karamsar kış atmosferi, sığ alan derinliği.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/240a5f7395afa1efc28095261cffca39/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine ile Karlar İçinde Siber-Mısırlı Figür">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2879)**
-
-**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2041222013944266953) | **Published:** Apr 6, 2026
-
----
-### Bir dağ kasabasını yok eden volkanik patlama
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir dağ kasabasının ultra geniş hava görüntüsüyle başlayan, ardından şiddetli bir volkanik patlamanın ve kasabaya doğru hızla ilerleyen lav akıntılarının tek bir geniş açılı çekimde gösterildiği dramatik bir Grok Imagine video istemi.
-
-#### 📝 Prompt
-
-```
-Bir yanardağın eteğindeki dağ kasabasının destansı, ultra geniş bir hava görüntüsüyle başlayın. Yanardağ şiddetli bir şekilde patlayarak kül, ateş ve lav akıntılarını yokuş aşağı kasabaya doğru gönderiyor; tüm bunlar tek bir geniş açılı çekimle sunuluyor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/36033f23c1628464744009cd9f65229f/thumbnails/thumbnail.jpg" width="600" alt="Bir dağ kasabasını yok eden volkanik patlama">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2867)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2041218777833152786) | **Published:** Apr 6, 2026
-
----
-### Prompt Airways logo belirme video istemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt Airways logosunun belirmesini ve bir uçağın gökyüzüne doğru uçup gitmesini talep eden bir Grok Imagine istemi.
-
-#### 📝 Prompt
-
-```
-Prompt Airways logosunun belirmesi ve bir uçağın gökyüzüne doğru uçup gitmesi....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1285e955a6d5dd4527aa743c457472e7/thumbnails/thumbnail.jpg" width="600" alt="Prompt Airways logo belirme video istemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2872)**
-
-**Author:** [Alex St-Georges](https://x.com/AlexStGeorwm4t) | **Source:** [Link](https://x.com/AlexStGeorwm4t/status/2041192001236770917) | **Published:** Apr 6, 2026
-
----
-### Grok Imagine İstemi: Kış Yürüyüşü Yapan Beyaz Kaplan
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Donmuş bir tundrada sessizce ilerleyen güçlü bir beyaz kaplanın düşük açılı takip çekimini talep eden; karamsar atmosferi, dağılmış gün ışığını ve belirli kamera hareketleri ile sesleri vurgulayan, oldukça sinematik ve detaylı bir Grok Imagine istemi.
-
-#### 📝 Prompt
-
-```
-Düşük açılı takip çekimi, karlı arazide pürüzsüz dolly hareketi, donmuş tundrada kırağı kaplı çam ağaçları ve uçuşan kar taneleri arasında sessizce ilerleyen güçlü bir beyaz kaplan, buz gibi havada görünür hale gelen nefesiyle delici mavi gözlerini manzarada gezdiriyor, rüzgarın ıslığı ve uzaktan gelen buz çatırtılarının boğuk ortam sesleri, bulutlu gökyüzünden süzülen yumuşak ve dağılmış gün ışığı, dramatik ve karamsar bir atmosfere sahip sinematik vahşi yaşam belgeseli tarzı.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c318449e955aa86a1e643fa3a8709584/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine İstemi: Kış Yürüyüşü Yapan Beyaz Kaplan">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2862)**
-
-**Author:** [InfoCryption](https://x.com/InfoCryptionHQ) | **Source:** [Link](https://x.com/InfoCryptionHQ/status/2041190050893869294) | **Published:** Apr 6, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2238,6 +2242,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-18T05:45:40.193Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-18T09:01:06.210Z</sub>
 
 </div>
