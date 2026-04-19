@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1129** |
+| 📝 Total Prompts | **1134** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-04-19** |
 
@@ -189,6 +189,101 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Hızlandırılmış lehimleme ve onarım sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Zaman atlamalı veya hızlandırılmış efektle teknik bir çalışma tezgahı ortamını betimleyen sinematik tarzda bir video istemi.
+
+#### 📝 Prompt
+
+```
+Çalışma tezgahını ve lehimleme onarım istasyonunu küçük projeleriyle paylaşan meraklıların hızlandırılmış sinematik tarzda görüntüsü
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/835c2d1d0391542105bec8ee67cddfb5/thumbnails/thumbnail.jpg" width="600" alt="Hızlandırılmış lehimleme ve onarım sahnesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3339)**
+
+**Author:** [🇺🇸Us3rm0d🇺🇸](https://x.com/overituuugain) | **Source:** [Link](https://x.com/overituuugain/status/2045596273705889853) | **Published:** Apr 18, 2026
+
+---
+### Rio'ya Yelken Açan Sinematik 19. Yüzyıl Karaveli
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Rio de Janeiro'ya doğru yelken açan, tarihi Portekiz yelkenlerine sahip 19. yüzyıl karavelini konu alan sinematik hareketli bir tablo istemi.
+
+#### 📝 Prompt
+
+```
+Yelkenlerinde sömürge dönemi Portekiz haçı bulunan, antik 19. yüzyıl karavelinin sinematik hareketli tablosu. 19. yüzyıl Rio de Janeiro'su hedefiyle okyanusta yelken açıyor.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f5589e4053ab0eb0b91b0e4051dc23b4/thumbnails/thumbnail.jpg" width="600" alt="Rio'ya Yelken Açan Sinematik 19. Yüzyıl Karaveli">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3343)**
+
+**Author:** [Lincon Venicios ⬛️⬜️🟨](https://x.com/LinconGallo) | **Source:** [Link](https://x.com/LinconGallo/status/2045575035021103315) | **Published:** Apr 18, 2026
+
+---
+### Sinematik Yol Kenarı Manzarası
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Nostaljik, Mary Poppins tarzı, belirli tabelaların bulunduğu bir otoyol sahnesi oluşturan bir grok-imagine video istemi.
+
+#### 📝 Prompt
+
+```
+Otoyola bağlanan bir yol. Yol kenarında neredeyse eve vardığımızı söyleyen bir tabela. Batıyı gösteren ve üzerinde 'burası benim gerçek kuzeyim' yazan bir rüzgar gülü. Tıpkı bir Mary Poppins sahnesi gibi...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f47683188757434b10f27a7f412ed6b4/thumbnails/thumbnail.jpg" width="600" alt="Sinematik Yol Kenarı Manzarası">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3340)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2045530264302973186) | **Published:** Apr 18, 2026
+
+---
+### Havalı Kedi İniş Aksiyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir kedinin yere inişini ve bir kazadan sonra havalı bir şekilde uzaklaşmasını gösteren video için dinamik bir grok-imagine istemi.
+
+#### 📝 Prompt
+
+```
+kedinin ayakları üzerine zarif bir şekilde iniş yapması, havalı bir şekilde uzaklaşması, arkada yere devrilmiş bir bisiklet
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/841df8f83cdf383323ca1b2703f0d5d0/thumbnails/thumbnail.jpg" width="600" alt="Havalı Kedi İniş Aksiyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3342)**
+
+**Author:** [NightCafeDave](https://x.com/NightCafeDc6zp) | **Source:** [Link](https://x.com/NightCafeDc6zp/status/2045482125563208123) | **Published:** Apr 18, 2026
+
+---
+### Sinematik Dolly-Out Sekansı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Octane render kalitesinde, akıcı bir dolly-out kamera hareketi için teknik video istemi.
+
+#### 📝 Prompt
+
+```
+8–12 saniyelik animasyonlu, yumuşak dolly-out sekansı, akıcı kamera hareketi, sinematik; sahne, sinematik bir kaliteyle Octane render kullanılarak hiper gerçekçi ayrıntılarla işlenmiştir
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ce7f21ae3b536ac33751803b051be307/thumbnails/thumbnail.jpg" width="600" alt="Sinematik Dolly-Out Sekansı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3341)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2045344999479366043) | **Published:** Apr 18, 2026
+
+---
 ### Crimson Seraph Dark Fantasy
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2078,109 +2173,6 @@ renk bloklu vinil ve örgü içinde soyut yüksek moda figürünün 35mm doğal 
 **Author:** [Quinn Woods-Robinson](https://x.com/QuinnWR) | **Source:** [Link](https://x.com/QuinnWR/status/2041388099717173490) | **Published:** Apr 7, 2026
 
 ---
-### Diyalog Sahnesi Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine'in bir erkek ve bir kadın arasındaki dramatik diyalog sahnesini betimleyen bir video oluşturması için anlatısal bir istem.
-
-#### 📝 Prompt
-
-```
-Adam kadına bağırır: "Emekli maaşlarımı bırak Vurginia!" Yaşlı kadın bağırır: "Sen bırak Roger, seni askerlikten kaçan pislik!...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/07cb29c5b3546e4833664d9cfa3d6c32/thumbnails/thumbnail.jpg" width="600" alt="Diyalog Sahnesi Video İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2956)**
-
-**Author:** [BerserkerMedic](https://x.com/davidmedic81) | **Source:** [Link](https://x.com/davidmedic81/status/2041364258466734363) | **Published:** Apr 7, 2026
-
----
-### Gitarist ve Havada Süzülen Müzik Notalarıyla Sinematik Gece Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Çam ağaçları, dolunay altında bir göl, küçük bir Airstream karavan ve kumsalda gitar çalan bir kadının yer aldığı, gitardan yükselip ayın etrafında dönen müzik notalarıyla tamamlanan huzurlu ve sinematik bir gece sahnesini betimleyen Grok Imagine istemi.
-
-#### 📝 Prompt
-
-```
-Arka planda çam ağaçları, dolunaylı göl, bir kenarda küçük Airstream tipi karavan, kumsalda küçük bir kamp ateşi, kumsalda oturup gitar çalan bir kadın, gitardan yükselip ayın etrafında dönen müzik notaları
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/94e6b9476f4971f0447a9f3433c56787/thumbnails/thumbnail.jpg" width="600" alt="Gitarist ve Havada Süzülen Müzik Notalarıyla Sinematik Gece Sahnesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2947)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2041353539390472400) | **Published:** Apr 7, 2026
-
----
-### Ata binen bir model için video oluşturma istemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bu istem, bir modelin yavaşça ata binişine odaklanan bir video klibi oluşturur; kamera, eylemi ve hareketi vurgulamak için sabit kalır.
-
-#### 📝 Prompt
-
-```
-Hadi Sürelim…
-
-Evet… sür kaptan sür…
-
-Kamera sabit kalırken model yavaşça kendini atın sırtına bırakır.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e5fd73266b1e05a1566f3d20e3b3440/thumbnails/thumbnail.jpg" width="600" alt="Ata binen bir model için video oluşturma istemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2940)**
-
-**Author:** [Self-Improvement from the top](https://x.com/Danuel_san) | **Source:** [Link](https://x.com/Danuel_san/status/2041348495047823415) | **Published:** Apr 7, 2026
-
----
-### Doğu Asyalı kadın siborg savaşçının dramatik sinematik sekansı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için dramatik bir sinematik sekansı tanımlayan, kapsamlı ve son derece detaylı bir video oluşturma istemi. Distopik bir şehirde geçen, hasarlı zırhına ve parlayan kırmızı sibernetik gözlerine odaklanan, ardından iticilerini çalıştırıp havaya fırlamasıyla sonuçlanan Doğu Asyalı kadın siborg savaşçıyı konu alıyor.
-
-#### 📝 Prompt
-
-```
-Dumanlı ve kapalı bir gökyüzü altında, distopik fütüristik bir şehirde geçen, kısa siyah küt saçlı, vahşi bir Doğu Asyalı kadın siborg savaşçının yer aldığı dramatik sinematik sekans. Video, şık siyah robotik sağ elinin yakın çekimiyle başlıyor; eklemleri boyunca parlayan kırmızı ışıklara sahip detaylı metalik parmaklar, zırh üzerindeki ince çizikler ve savaş hasarları belirgin.
-Kamera yavaşça yukarı doğru eğilerek, ağır hasar görmüş ancak güçlü tam vücut taktiksel sibernetik zırhını ortaya çıkarıyor; mat siyah renk, kırmızı parlayan detaylar, açıkta kalan mekanik parçalar ve yüzündeki kan lekeleri. Yüzünde yoğun bir duygu ifadesi var: çatık kaşlar, ağzından ve yanağındaki kesiklerden süzülen kan, yatay kırmızı ışık huzmelerinin taradığı parlayan kırmızı sibernetik gözler. Yavaşça göz kırpıyor, ifadesi acıdan kararlılığa dönüşüyor.
-Duman, uzaktaki yangınlar ve yıkılmış binalarla dolu harap kentsel savaş alanında yavaşça dikleşiyor. Koyu renkli bir vizöre sahip şık siyah bir taktik kask takıyor. Kamera, omuz pedleri, uyluk kılıfları ve sırta monte edilmiş silahlarla tam zırh tasarımını ortaya çıkaracak şekilde, kendinden emin bir şekilde döndüğünde tam vücut çekimine geçiyor. Kırmızı enerji çizgileri kıyafeti boyunca nabız gibi atıyor.
-Son anlarda iticilerini çalıştırıyor; ellerinden ve ayaklarından parlak turuncu-beyaz alevler fışkırıyor. Arka planı patlamalar ve yoğun siyah duman izleri doldururken, yıkılmış şehir manzarasının üzerinde hızla yükselerek havaya güçlü bir şekilde fırlıyor. Epik, yoğun, siberpunk atmosferi, yüksek detaylı, sinematik aydınlatma, dinamik hareketlerle harmanlanmış ağır çekim öğeleri, kırmızı parıltılarda güçlü kontrast içeren karanlık ve karamsar renk derecelendirmesi.
-sinematik, ultra gerçekçi, 8k, fotogerçekçi, dramatik aydınlatma, film greni, yoğun aksiyon sekansı, 12 saniye, akıcı kamera hareketi, önce yavaş yukarı eğim sonra geri çekilme, final roket fırlatışı
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fc5367c6cccbc88db363c98e812a3841/thumbnails/thumbnail.jpg" width="600" alt="Doğu Asyalı kadın siborg savaşçının dramatik sinematik sekansı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2951)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2041307525140881679) | **Published:** Apr 7, 2026
-
----
-### Hip-hop dansı yapan tüylü bir tavşanın video istemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Güneşli bir çayırda enerjik bir hip-hop dansı sergileyen, dönüşler, havuç aksesuarları ve kendinden emin bir finalle tamamlanan 8 saniyelik, fotogerçekçi bir bahar animasyonu için Grok Imagine istemi.
-
-#### 📝 Prompt
-
-```
-"Güneşli bir çayırda, çiçek açan kiraz ağaçlarının altında; dramatik dönüşler, kulak sallama hareketleri, mikrofon niyetine kullanılan havuç aksesuarları ve kendinden emin büyük bir finalle neşeli bir hip-hop dansı sergileyen, 8 saniyelik, enerjik ve fotogerçekçi bahar animasyonu."
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e0b551f8d6c48a05d3f4d49ab1144372/thumbnails/thumbnail.jpg" width="600" alt="Hip-hop dansı yapan tüylü bir tavşanın video istemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2878)**
-
-**Author:** [Thoth Scribe](https://x.com/ThothScribe) | **Source:** [Link](https://x.com/ThothScribe/status/2041280248076226729) | **Published:** Apr 6, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2242,6 +2234,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-19T06:03:50.859Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-19T09:02:17.910Z</sub>
 
 </div>

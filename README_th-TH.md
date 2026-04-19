@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1129** |
+| 📝 Total Prompts | **1134** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-04-19** |
 
@@ -189,6 +189,101 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### วิดีโอเร่งความเร็วฉากการบัดกรีซ่อมแซมแผงวงจร
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอสไตล์ภาพยนตร์ที่แสดงภาพสภาพแวดล้อมบนโต๊ะทำงานเชิงเทคนิค พร้อมเอฟเฟกต์แบบไทม์แลปส์หรือการเร่งความเร็ว
+
+#### 📝 Prompt
+
+```
+กลุ่มเนิร์ดกำลังแชร์โต๊ะทำงานและสถานีบัดกรีซ่อมแซมแผงวงจรสำหรับโปรเจกต์เล็กๆ ของพวกเขา ในสไตล์ภาพยนตร์แบบเร่งความเร็ว
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/835c2d1d0391542105bec8ee67cddfb5/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอเร่งความเร็วฉากการบัดกรีซ่อมแซมแผงวงจร">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3339)**
+
+**Author:** [🇺🇸Us3rm0d🇺🇸](https://x.com/overituuugain) | **Source:** [Link](https://x.com/overituuugain/status/2045596273705889853) | **Published:** Apr 18, 2026
+
+---
+### ภาพยนตร์เรือคาราเวลสมัยศตวรรษที่ 19 กำลังล่องเรือไปยังริโอ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์ภาพวาดเคลื่อนไหวสไตล์ภาพยนตร์ของเรือคาราเวลสมัยศตวรรษที่ 19 ที่กำลังล่องเรือไปยัง ริโอเดจาเนโร พร้อมรายละเอียดใบเรือแบบโปรตุเกสดั้งเดิมในประวัติศาสตร์
+
+#### 📝 Prompt
+
+```
+ภาพวาดเคลื่อนไหวสไตล์ภาพยนตร์ของเรือคาราเวลโบราณในศตวรรษที่ 19 ที่มีสัญลักษณ์กางเขนแบบโปรตุเกสยุคอาณานิคมอยู่บนใบเรือ กำลังล่องอยู่กลางมหาสมุทรโดยมีจุดหมายปลายทางคือเมือง ริโอเดจาเนโร ในศตวรรษที่ 19
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f5589e4053ab0eb0b91b0e4051dc23b4/thumbnails/thumbnail.jpg" width="600" alt="ภาพยนตร์เรือคาราเวลสมัยศตวรรษที่ 19 กำลังล่องเรือไปยังริโอ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3343)**
+
+**Author:** [Lincon Venicios ⬛️⬜️🟨](https://x.com/LinconGallo) | **Source:** [Link](https://x.com/LinconGallo/status/2045575035021103315) | **Published:** Apr 18, 2026
+
+---
+### ฉากริมทางสไตล์ภาพยนตร์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอสำหรับ grok-imagine เพื่อสร้างฉากชวนคิดถึงในสไตล์ Mary Poppins ของทางหลวงที่มีป้ายบอกทางเฉพาะ
+
+#### 📝 Prompt
+
+```
+ถนนที่ทอดยาวออกไปสู่ทางหลวง มีป้ายริมทางเขียนว่าเราใกล้ถึงบ้านแล้ว มีกังหันลมบอกทิศทางลมชี้ไปทางทิศตะวันตกพร้อมข้อความว่านี่คือทิศเหนือที่แท้จริงของฉัน เหมือนกับฉากใน Mary Poppins...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f47683188757434b10f27a7f412ed6b4/thumbnails/thumbnail.jpg" width="600" alt="ฉากริมทางสไตล์ภาพยนตร์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3340)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2045530264302973186) | **Published:** Apr 18, 2026
+
+---
+### ท่าลงจอดสุดเท่ของเจ้าเหมียว
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง grok-imagine แบบไดนามิกสำหรับวิดีโอที่แสดงภาพแมวกำลังลงจอดและเดินจากไปหลังจากเกิดอุบัติเหตุ
+
+#### 📝 Prompt
+
+```
+แมวลงจอดบนเท้าอย่างสง่างาม เดินจากไปอย่างเท่ๆ โดยมีจักรยานล้มอยู่บนพื้นด้านหลัง
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/841df8f83cdf383323ca1b2703f0d5d0/thumbnails/thumbnail.jpg" width="600" alt="ท่าลงจอดสุดเท่ของเจ้าเหมียว">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3342)**
+
+**Author:** [NightCafeDave](https://x.com/NightCafeDc6zp) | **Source:** [Link](https://x.com/NightCafeDc6zp/status/2045482125563208123) | **Published:** Apr 18, 2026
+
+---
+### ลำดับภาพแบบ Cinematic Dolly-Out
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอเชิงเทคนิคสำหรับการเคลื่อนกล้องแบบ dolly-out ที่นุ่มนวล พร้อมคุณภาพการเรนเดอร์แบบ octane
+
+#### 📝 Prompt
+
+```
+ลำดับภาพแบบ dolly-out อย่างนุ่มนวลความยาว 8–12 วินาที การเคลื่อนกล้องที่ลื่นไหล ให้ความรู้สึกแบบภาพยนตร์ ฉากถูกเรนเดอร์ด้วยรายละเอียดที่สมจริงเป็นพิเศษโดยใช้ octane render พร้อมคุณภาพระดับภาพยนตร์
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ce7f21ae3b536ac33751803b051be307/thumbnails/thumbnail.jpg" width="600" alt="ลำดับภาพแบบ Cinematic Dolly-Out">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3341)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2045344999479366043) | **Published:** Apr 18, 2026
+
+---
 ### Crimson Seraph Dark Fantasy
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2091,109 +2186,6 @@ SCENE LOCK: การล็อกเฟรมภาพพื้นฐานเ�
 **Author:** [Quinn Woods-Robinson](https://x.com/QuinnWR) | **Source:** [Link](https://x.com/QuinnWR/status/2041388099717173490) | **Published:** Apr 7, 2026
 
 ---
-### พรอมต์วิดีโอฉากบทสนทนา
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์เชิงบรรยายสำหรับ Grok Imagine เพื่อสร้างวิดีโอที่แสดงฉากบทสนทนาสุดดราม่าระหว่างชายและหญิง
-
-#### 📝 Prompt
-
-```
-ชายคนหนึ่งตะโกนใส่ผู้หญิงว่า "ปล่อยเงินบำนาญของฉันนะ เวอร์จิเนีย!" หญิงชราตะโกนกลับว่า "แกนั่นแหละปล่อยมือ โรเจอร์ ไอ้คนขี้ขลาดที่หนีการเกณฑ์ทหาร!...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/07cb29c5b3546e4833664d9cfa3d6c32/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์วิดีโอฉากบทสนทนา">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2956)**
-
-**Author:** [BerserkerMedic](https://x.com/davidmedic81) | **Source:** [Link](https://x.com/davidmedic81/status/2041364258466734363) | **Published:** Apr 7, 2026
-
----
-### ฉากกลางคืนสไตล์ภาพยนตร์พร้อมมือกีตาร์และตัวโน้ตดนตรีที่ลอยละล่อง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) สำหรับ Grok Imagine ที่บรรยายถึงฉากกลางคืนอันเงียบสงบในสไตล์ภาพยนตร์ ประกอบด้วยต้นสน ทะเลสาบใต้แสงจันทร์เต็มดวง รถบ้าน Airstream ขนาดเล็ก และหญิงสาวที่กำลังเล่นกีตาร์อยู่บนชายหาด โดยมีตัวโน้ตดนตรีลอยขึ้นมาจากกีตาร์และวนรอบดวงจันทร์
-
-#### 📝 Prompt
-
-```
-ต้นสนเป็นฉากหลัง , ทะเลสาบใต้แสงจันทร์เต็มดวง , รถบ้านขนาดเล็กสไตล์ Airstream จอดอยู่ด้านข้าง , กองไฟเล็กๆ บนชายหาด , หญิงสาวนั่งอยู่บนชายหาดกำลังเล่นกีตาร์ , ตัวโน้ตดนตรีลอยขึ้นมาจากกีตาร์และวนรอบดวงจันทร์
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/94e6b9476f4971f0447a9f3433c56787/thumbnails/thumbnail.jpg" width="600" alt="ฉากกลางคืนสไตล์ภาพยนตร์พร้อมมือกีตาร์และตัวโน้ตดนตรีที่ลอยละล่อง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2947)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2041353539390472400) | **Published:** Apr 7, 2026
-
----
-### พรอมต์สำหรับสร้างวิดีโอโมเดลกำลังขึ้นขี่ม้า
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์นี้ใช้สำหรับสร้างคลิปวิดีโอที่เน้นไปที่โมเดลซึ่งกำลังค่อย ๆ ขึ้นขี่ม้า โดยที่กล้องจะอยู่นิ่งเพื่อเน้นให้เห็นถึงท่าทางและการเคลื่อนไหว
-
-#### 📝 Prompt
-
-```
-มาขี่ม้ากันเถอะ...
-
-ใช่แล้ว... ขี่ไปเลยกัปตัน...
-
-กล้องจะอยู่นิ่งในขณะที่โมเดลค่อย ๆ หย่อนตัวลงบนหลังม้า
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e5fd73266b1e05a1566f3d20e3b3440/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์สำหรับสร้างวิดีโอโมเดลกำลังขึ้นขี่ม้า">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2940)**
-
-**Author:** [Self-Improvement from the top](https://x.com/Danuel_san) | **Source:** [Link](https://x.com/Danuel_san/status/2041348495047823415) | **Published:** Apr 7, 2026
-
----
-### ฉากภาพยนตร์สุดดราม่าของนักรบไซบอร์กหญิงชาวเอเชียตะวันออก
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สร้างวิดีโอที่มีรายละเอียดสูงและครอบคลุมสำหรับ Grok Imagine เพื่ออธิบายฉากภาพยนตร์สุดดราม่า โดยมีตัวละครเป็นนักรบไซบอร์กหญิงชาวเอเชียตะวันออกในเมืองดิสโทเปีย เน้นการถ่ายภาพระยะใกล้ที่ชุดเกราะซึ่งได้รับความเสียหาย ดวงตาไซเบอร์เนติกส์สีแดงเรืองแสง และปิดท้ายด้วยฉากที่เธอเปิดใช้งานเครื่องยนต์ขับดันแล้วพุ่งทะยานขึ้นสู่ท้องฟ้า
-
-#### 📝 Prompt
-
-```
-ฉากภาพยนตร์สุดดราม่าของนักรบไซบอร์กหญิงชาวเอเชียตะวันออกผู้ดุดันไว้ผมบ็อบสั้นสีดำ ในเมืองแห่งอนาคตแบบดิสโทเปียภายใต้ท้องฟ้ามืดครึ้มที่มีควันปกคลุม วิดีโอเริ่มต้นด้วยภาพระยะใกล้ของมือขวาหุ่นยนต์สีดำเงา นิ้วโลหะที่มีรายละเอียดประณีตพร้อมไฟสีแดงเรืองแสงตามข้อต่อ รอยขีดข่วนเล็กน้อยและร่องรอยความเสียหายจากการต่อสู้ปรากฏบนชุดเกราะ
-กล้องค่อยๆ แพนขึ้นเผยให้เห็นชุดเกราะไซเบอร์เนติกส์แบบเต็มตัวที่ได้รับความเสียหายหนักแต่ยังคงความทรงพลัง สีดำด้านพร้อมรายละเอียดสีแดงเรืองแสง ชิ้นส่วนกลไกที่เผยออกมา และคราบเลือดบนใบหน้าของเธอ ใบหน้าของเธอแสดงอารมณ์ที่รุนแรง: คิ้วขมวด เลือดหยดจากปากและบาดแผลบนแก้ม ดวงตาไซเบอร์เนติกส์สีแดงเรืองแสงพร้อมลำแสงสีแดงแนวนอนที่สแกนผ่านดวงตา เธอค่อยๆ กะพริบตา สีหน้าเปลี่ยนจากความเจ็บปวดเป็นความมุ่งมั่น
-เธอค่อยๆ ยืนตัวตรงขึ้นในสมรภูมิเมืองที่พังทลายซึ่งเต็มไปด้วยควัน ไฟที่ลุกไหม้ในระยะไกล และอาคารที่ถูกทำลาย เธอสวมหมวกยุทธวิธีสีดำเงาพร้อมที่บังตาแบบมืด กล้องถอยออกมาเป็นภาพเต็มตัวขณะที่เธอหันตัวอย่างมั่นใจ เผยให้เห็นการออกแบบชุดเกราะเต็มรูปแบบพร้อมแผ่นรองไหล่ ซองปืนที่ต้นขา และอาวุธที่ติดตั้งด้านหลัง เส้นพลังงานสีแดงเต้นระริกไปทั่วชุด
-ในช่วงสุดท้าย เธอเปิดใช้งานเครื่องยนต์ขับดัน เปลวไฟสีส้มขาวสว่างจ้าพุ่งออกมาจากมือและเท้าของเธอ เธอพุ่งทะยานขึ้นสู่ท้องฟ้าอย่างทรงพลัง ทะยานขึ้นเหนือทิวทัศน์เมืองที่ถูกทำลายอย่างรวดเร็ว ในขณะที่การระเบิดและควันสีดำหนาทึบปกคลุมฉากหลัง บรรยากาศไซเบอร์พังก์ที่เข้มข้นและยิ่งใหญ่ รายละเอียดสูง แสงแบบภาพยนตร์ ผสมผสานองค์ประกอบสโลว์โมชั่นเข้ากับการเคลื่อนไหวที่ไดนามิก การปรับสีแบบมืดหม่นพร้อมคอนทราสต์ที่ชัดเจนของแสงสีแดง
-cinematic, ultra realistic, 8k, photorealistic, dramatic lighting, film grain, intense action sequence, 12 seconds, smooth camera movement, slow tilt up then pull back, final rocket launch
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fc5367c6cccbc88db363c98e812a3841/thumbnails/thumbnail.jpg" width="600" alt="ฉากภาพยนตร์สุดดราม่าของนักรบไซบอร์กหญิงชาวเอเชียตะวันออก">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2951)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2041307525140881679) | **Published:** Apr 7, 2026
-
----
-### วิดีโอพรอมต์กระต่ายขนฟูเต้นฮิปฮอป
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับ Grok Imagine เพื่อสร้างแอนิเมชันความยาว 8 วินาทีที่สมจริงดั่งภาพถ่ายของกระต่ายขนฟูในฤดูใบไม้ผลิ กำลังเต้นฮิปฮอปอย่างสนุกสนานกลางทุ่งหญ้าที่มีแสงแดดส่องถึง พร้อมท่าหมุนตัว อุปกรณ์ประกอบฉากเป็นแครอท และการจบการแสดงอย่างมั่นใจ
-
-#### 📝 Prompt
-
-```
-"แอนิเมชันฤดูใบไม้ผลิความยาว 8 วินาทีที่สมจริงดั่งภาพถ่ายของกระต่ายขนฟูในทุ่งหญ้าที่มีแสงแดดส่องถึง กำลังเต้นฮิปฮอปอย่างร่าเริงด้วยท่าหมุนตัวสุดเร้าใจ ท่าสะบัดหู ใช้แครอทเป็นไมโครโฟน และจบการแสดงอย่างมั่นใจภายใต้ดอกซากุระที่กำลังบานสะพรั่ง"
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e0b551f8d6c48a05d3f4d49ab1144372/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอพรอมต์กระต่ายขนฟูเต้นฮิปฮอป">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2878)**
-
-**Author:** [Thoth Scribe](https://x.com/ThothScribe) | **Source:** [Link](https://x.com/ThothScribe/status/2041280248076226729) | **Published:** Apr 6, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2255,6 +2247,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-19T06:03:33.402Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-19T09:02:03.412Z</sub>
 
 </div>

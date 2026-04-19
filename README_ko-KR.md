@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **1129** |
+| 📝 총 프롬프트 수 | **1134** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-04-19** |
 
@@ -189,6 +189,101 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 납땜 리워크 작업의 패스트 포워드 장면
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 타임랩스 또는 패스트 포워드 효과가 적용된 기술 작업대 환경을 묘사하는 영화적 스타일의 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+패스트 포워드 영화 스타일로 작업대와 납땜 리워크 스테이션을 공유하며 각자의 소규모 프로젝트를 진행하는 너드들의 모습
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/835c2d1d0391542105bec8ee67cddfb5/thumbnails/thumbnail.jpg" width="600" alt="납땜 리워크 작업의 패스트 포워드 장면">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3339)**
+
+**작성자:** [🇺🇸Us3rm0d🇺🇸](https://x.com/overituuugain) | **출처:** [Link](https://x.com/overituuugain/status/2045596273705889853) | **게시일:** Apr 18, 2026
+
+---
+### 리오를 향해 항해하는 19세기 카라벨 선박의 영화 같은 장면
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 역사적인 포르투갈 돛을 단 19세기 카라벨 선박이 리우데자네이루를 향해 항해하는 모습을 담은 영화 같은 무빙 페인팅 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+돛에 포르투갈 식민지 시대의 십자가 문양이 새겨진 19세기 고대 카라벨 선박의 영화 같은 무빙 페인팅입니다. 19세기 리우데자네이루를 목적지로 삼아 바다를 항해하는 모습입니다.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f5589e4053ab0eb0b91b0e4051dc23b4/thumbnails/thumbnail.jpg" width="600" alt="리오를 향해 항해하는 19세기 카라벨 선박의 영화 같은 장면">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3343)**
+
+**작성자:** [Lincon Venicios ⬛️⬜️🟨](https://x.com/LinconGallo) | **출처:** [Link](https://x.com/LinconGallo/status/2045575035021103315) | **게시일:** Apr 18, 2026
+
+---
+### 영화 같은 길가 풍경
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 향수를 불러일으키는 메리 포핀스 스타일의 고속도로와 특정 표지판이 포함된 장면을 생성하기 위한 grok-imagine 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+고속도로로 이어지는 길. 길가에는 '거의 다 왔다'는 문구가 적힌 표지판이 있다. 서쪽을 가리키는 풍향계에는 '이곳이 나의 진정한 북쪽(this is my true north)'이라는 문구가 새겨져 있다. 마치 메리 포핀스의 한 장면처럼...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f47683188757434b10f27a7f412ed6b4/thumbnails/thumbnail.jpg" width="600" alt="영화 같은 길가 풍경">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3340)**
+
+**작성자:** [Sas](https://x.com/SaSHeaven26) | **출처:** [Link](https://x.com/SaSHeaven26/status/2045530264302973186) | **게시일:** Apr 18, 2026
+
+---
+### 멋진 고양이 착지 액션
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 고양이가 착지한 후 충돌 현장에서 유유히 걸어 나가는 모습을 담은 역동적인 grok-imagine 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+고양이가 우아하게 두 발로 착지하여 멋지게 걸어 나가고, 뒤쪽 바닥에는 자전거가 쓰러져 있음
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/841df8f83cdf383323ca1b2703f0d5d0/thumbnails/thumbnail.jpg" width="600" alt="멋진 고양이 착지 액션">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3342)**
+
+**작성자:** [NightCafeDave](https://x.com/NightCafeDc6zp) | **출처:** [Link](https://x.com/NightCafeDc6zp/status/2045482125563208123) | **게시일:** Apr 18, 2026
+
+---
+### 시네마틱 돌리 아웃 시퀀스
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 옥테인 렌더 품질의 부드러운 돌리 아웃 카메라 움직임을 위한 기술적 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+8~12초 분량의 부드러운 돌리 아웃 애니메이션 시퀀스, 매끄러운 카메라 움직임, 시네마틱한 장면이 옥테인 렌더를 사용하여 초현실적인 디테일과 영화 같은 품질로 렌더링됨
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ce7f21ae3b536ac33751803b051be307/thumbnails/thumbnail.jpg" width="600" alt="시네마틱 돌리 아웃 시퀀스">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3341)**
+
+**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2045344999479366043) | **게시일:** Apr 18, 2026
+
+---
 ### Crimson Seraph 다크 판타지
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2086,109 +2181,6 @@ Grok 코미디언들이 트럼프를 놀리고 트럼프가 가짜 뉴스 미디
 **작성자:** [Quinn Woods-Robinson](https://x.com/QuinnWR) | **출처:** [Link](https://x.com/QuinnWR/status/2041388099717173490) | **게시일:** Apr 7, 2026
 
 ---
-### 대화 장면 비디오 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 남녀 간의 극적인 대화 장면을 묘사하는 비디오를 생성하기 위한 Grok Imagine용 내러티브 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-남자가 여자에게 소리친다. "내 연금에서 손 떼, 버지니아!" 노부인이 소리친다. "당신이나 손 떼, 로저. 이 병역 기피자 같은 인간아!...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/07cb29c5b3546e4833664d9cfa3d6c32/thumbnails/thumbnail.jpg" width="600" alt="대화 장면 비디오 프롬프트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2956)**
-
-**작성자:** [BerserkerMedic](https://x.com/davidmedic81) | **출처:** [Link](https://x.com/davidmedic81/status/2041364258466734363) | **게시일:** Apr 7, 2026
-
----
-### 기타리스트와 떠다니는 음표가 있는 영화 같은 밤 풍경
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 소나무, 보름달 아래의 호수, 작은 Airstream 캠핑카, 그리고 해변에서 기타를 연주하는 여성이 등장하는 고요하고 영화 같은 밤 풍경을 묘사한 Grok Imagine 프롬프트입니다. 기타에서 음표가 떠올라 달 주위를 감싸는 모습이 포함되어 있습니다.
-
-#### 📝 프롬프트
-
-```
-배경에는 소나무, 보름달이 뜬 호수, 한쪽에는 작은 Airstream 스타일의 캠핑카가 있고, 해변에는 작은 모닥불이 피어 있습니다. 해변에 앉아 기타를 연주하는 여성의 기타에서 음표가 떠올라 달 주위를 맴돕니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/94e6b9476f4971f0447a9f3433c56787/thumbnails/thumbnail.jpg" width="600" alt="기타리스트와 떠다니는 음표가 있는 영화 같은 밤 풍경">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2947)**
-
-**작성자:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **출처:** [Link](https://x.com/HawkinsonLindy/status/2041353539390472400) | **게시일:** Apr 7, 2026
-
----
-### 말에 올라타는 모델을 위한 영상 생성 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 이 프롬프트는 모델이 천천히 말에 올라타는 동작에 집중한 영상 클립을 생성하며, 카메라를 고정하여 동작과 움직임을 강조합니다.
-
-#### 📝 프롬프트
-
-```
-달려보자…
-
-그래… 달려라, 대장…
-
-카메라는 고정된 상태로, 모델이 천천히 말등 위로 올라타는 모습을 담아냅니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e5fd73266b1e05a1566f3d20e3b3440/thumbnails/thumbnail.jpg" width="600" alt="말에 올라타는 모델을 위한 영상 생성 프롬프트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2940)**
-
-**작성자:** [Self-Improvement from the top](https://x.com/Danuel_san) | **출처:** [Link](https://x.com/Danuel_san/status/2041348495047823415) | **게시일:** Apr 7, 2026
-
----
-### 동아시아 여성 사이보그 전사의 드라마틱한 시네마틱 시퀀스
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine을 위한 매우 상세하고 방대한 영상 생성 프롬프트로, 드라마틱한 시네마틱 시퀀스를 묘사합니다. 디스토피아 도시를 배경으로 한 동아시아 여성 사이보그 전사를 주인공으로 하며, 손상된 갑옷과 붉게 빛나는 사이보그 눈을 클로즈업하고, 마지막에 추진기를 가동해 공중으로 솟구쳐 오르는 장면을 담고 있습니다.
-
-#### 📝 프롬프트
-
-```
-연기가 자욱하고 흐린 하늘 아래, 디스토피아적인 미래 도시를 배경으로 한 강인한 동아시아 여성 사이보그 전사의 드라마틱한 시네마틱 시퀀스입니다. 영상은 그녀의 매끄러운 검은색 로봇 오른손 클로즈업으로 시작되며, 관절을 따라 붉은 빛이 맥동하는 정교한 금속 손가락과 갑옷에 새겨진 미세한 흠집 및 전투 흔적이 보입니다.
-카메라가 천천히 위로 기울어지며, 심하게 손상되었지만 강력한 전신 전술 사이보그 갑옷이 드러납니다. 무광 검은색 바탕에 붉은색 발광 포인트가 있고, 노출된 기계 부품과 얼굴에 묻은 핏자국이 보입니다. 그녀의 얼굴은 강렬한 감정을 보여줍니다. 찌푸린 눈썹, 입가와 뺨의 상처에서 흐르는 피, 그리고 수평으로 붉은 빛줄기가 스캔되는 사이보그 눈이 특징입니다. 그녀는 천천히 눈을 깜빡이며 고통에서 결의로 표정을 바꿉니다.
-그녀는 연기와 멀리서 타오르는 불길, 파괴된 건물들로 가득한 폐허가 된 도시 전장에서 서서히 일어섭니다. 그녀는 어두운 바이저가 달린 매끄러운 검은색 전술 헬멧을 착용합니다. 카메라가 전신 샷으로 빠지며 그녀가 자신감 있게 몸을 돌리자, 어깨 보호대, 허벅지 홀스터, 등에 장착된 무기 등 갑옷의 전체 디자인이 드러납니다. 슈트 전체에 붉은 에너지 선이 맥동합니다.
-마지막 순간, 그녀가 추진기를 가동하자 손과 발에서 밝은 주황빛이 도는 흰색 화염이 뿜어져 나옵니다. 그녀는 강력하게 공중으로 솟구쳐 오르며, 폭발과 짙은 검은 연기 자국이 배경을 채우는 파괴된 도시 풍경 위로 빠르게 상승합니다. 서사적이고 강렬한 사이버펑크 분위기, 매우 상세한 묘사, 시네마틱 조명, 역동적인 움직임과 결합된 슬로우 모션 요소, 붉은 발광체와 강한 대비를 이루는 어둡고 분위기 있는 색감 보정.
-시네마틱, 초고화질, 8k, 실사 같은, 드라마틱한 조명, 필름 그레인, 강렬한 액션 시퀀스, 12초, 부드러운 카메라 무빙, 천천히 위로 기울어지다 뒤로 빠지는 줌아웃, 마지막 로켓 발사
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fc5367c6cccbc88db363c98e812a3841/thumbnails/thumbnail.jpg" width="600" alt="동아시아 여성 사이보그 전사의 드라마틱한 시네마틱 시퀀스">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2951)**
-
-**작성자:** [Thoughts Creator](https://x.com/ThoughCreator) | **출처:** [Link](https://x.com/ThoughCreator/status/2041307525140881679) | **게시일:** Apr 7, 2026
-
----
-### 힙합 댄스를 추는 복슬복슬한 토끼의 비디오 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 햇살 가득한 초원에서 8초 동안 역동적인 힙합 댄스를 선보이는 복슬복슬한 토끼의 실사풍 봄 애니메이션을 위한 Grok Imagine 프롬프트입니다. 회전 동작, 당근 소품, 자신감 넘치는 마무리까지 포함되어 있습니다.
-
-#### 📝 프롬프트
-
-```
-"햇살 가득한 초원에서 활짝 핀 벚꽃 아래, 당근을 마이크 삼아 귀를 펄럭이며 역동적인 회전과 자신감 넘치는 마무리 동작으로 즐겁게 힙합 댄스를 추는 복슬복슬한 토끼의 8초짜리 실사풍 봄 애니메이션."
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e0b551f8d6c48a05d3f4d49ab1144372/thumbnails/thumbnail.jpg" width="600" alt="힙합 댄스를 추는 복슬복슬한 토끼의 비디오 프롬프트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2878)**
-
-**작성자:** [Thoth Scribe](https://x.com/ThothScribe) | **출처:** [Link](https://x.com/ThothScribe/status/2041280248076226729) | **게시일:** Apr 6, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2250,6 +2242,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-04-19T06:03:31.563Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-04-19T09:02:02.334Z</sub>
 
 </div>

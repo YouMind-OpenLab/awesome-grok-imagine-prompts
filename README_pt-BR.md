@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1129** |
+| 📝 Total Prompts | **1134** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-04-19** |
 
@@ -189,6 +189,101 @@ Uma valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Cena de retrabalho de solda em avanço rápido
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo em estilo cinematográfico retratando um ambiente de bancada técnica com um efeito de time-lapse ou avanço rápido.
+
+#### 📝 Prompt
+
+```
+Nerds compartilhando a bancada e a estação de retrabalho de solda com seus pequenos projetos em um estilo cinematográfico de avanço rápido
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/835c2d1d0391542105bec8ee67cddfb5/thumbnails/thumbnail.jpg" width="600" alt="Cena de retrabalho de solda em avanço rápido">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3339)**
+
+**Author:** [🇺🇸Us3rm0d🇺🇸](https://x.com/overituuugain) | **Source:** [Link](https://x.com/overituuugain/status/2045596273705889853) | **Published:** Apr 18, 2026
+
+---
+### Caravela do século XIX navegando cinematograficamente para o Rio
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de pintura em movimento cinematográfica de uma caravela do século XIX navegando em direção ao Rio de Janeiro, apresentando velas portuguesas históricas.
+
+#### 📝 Prompt
+
+```
+Uma pintura em movimento cinematográfica de uma antiga caravela do século XIX, com a cruz colonial portuguesa em suas velas. Navegando no oceano com o Rio de Janeiro do século XIX como destino.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f5589e4053ab0eb0b91b0e4051dc23b4/thumbnails/thumbnail.jpg" width="600" alt="Caravela do século XIX navegando cinematograficamente para o Rio">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3343)**
+
+**Author:** [Lincon Venicios ⬛️⬜️🟨](https://x.com/LinconGallo) | **Source:** [Link](https://x.com/LinconGallo/status/2045575035021103315) | **Published:** Apr 18, 2026
+
+---
+### Cena Cinematográfica à Beira da Estrada
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo para o grok-imagine criando uma cena nostálgica, ao estilo Mary Poppins, de uma rodovia com sinalização específica.
+
+#### 📝 Prompt
+
+```
+Uma estrada que leva à rodovia. Com uma placa na beira da estrada dizendo que estamos quase chegando em casa. Um cata-vento apontando para o oeste com as palavras 'este é o meu verdadeiro norte'. Como uma cena de Mary Poppins...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f47683188757434b10f27a7f412ed6b4/thumbnails/thumbnail.jpg" width="600" alt="Cena Cinematográfica à Beira da Estrada">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3340)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2045530264302973186) | **Published:** Apr 18, 2026
+
+---
+### Ação de Gato Descolado Aterrissando
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt dinâmico de grok-imagine para um vídeo mostrando um gato aterrissando e saindo andando após uma batida.
+
+#### 📝 Prompt
+
+```
+gato aterrissando graciosamente nas patas, saindo andando de forma descolada, bicicleta batida no chão ao fundo
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/841df8f83cdf383323ca1b2703f0d5d0/thumbnails/thumbnail.jpg" width="600" alt="Ação de Gato Descolado Aterrissando">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3342)**
+
+**Author:** [NightCafeDave](https://x.com/NightCafeDc6zp) | **Source:** [Link](https://x.com/NightCafeDc6zp/status/2045482125563208123) | **Published:** Apr 18, 2026
+
+---
+### Sequência Cinematográfica de Dolly-Out
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo técnico para um movimento de câmera dolly-out suave com qualidade de renderização octane.
+
+#### 📝 Prompt
+
+```
+sequência de dolly-out suave de 8 a 12 segundos, movimento de câmera fluido, cinematográfico, a cena é renderizada em detalhes hiper-realistas usando octane render com qualidade cinematográfica
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ce7f21ae3b536ac33751803b051be307/thumbnails/thumbnail.jpg" width="600" alt="Sequência Cinematográfica de Dolly-Out">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3341)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2045344999479366043) | **Published:** Apr 18, 2026
+
+---
 ### Crimson Seraph Dark Fantasy
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2085,110 +2180,6 @@ captura 35mm espontânea de figura abstrata de alta moda em vinil e tricô com c
 **Author:** [Quinn Woods-Robinson](https://x.com/QuinnWR) | **Source:** [Link](https://x.com/QuinnWR/status/2041388099717173490) | **Published:** Apr 7, 2026
 
 ---
-### Prompt de Vídeo para Cena de Diálogo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt narrativo para o Grok Imagine gerar um vídeo retratando uma cena de diálogo dramática entre um homem e uma mulher.
-
-#### 📝 Prompt
-
-```
-O homem grita com a mulher: "solte minhas pensões, Vurginia!". A velha grita: "solte você, Roger, seu covarde que fugiu do alistamento!...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/07cb29c5b3546e4833664d9cfa3d6c32/thumbnails/thumbnail.jpg" width="600" alt="Prompt de Vídeo para Cena de Diálogo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2956)**
-
-**Author:** [BerserkerMedic](https://x.com/davidmedic81) | **Source:** [Link](https://x.com/davidmedic81/status/2041364258466734363) | **Published:** Apr 7, 2026
-
----
-### Cena noturna cinematográfica com guitarrista e notas musicais flutuantes
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt do Grok Imagine que descreve uma cena noturna serena e cinematográfica, apresentando pinheiros, um lago sob a lua cheia, um pequeno trailer Airstream e uma mulher tocando violão na praia, com notas musicais flutuando a partir do violão e circulando a lua.
-
-#### 📝 Prompt
-
-```
-Pinheiros ao fundo, lago com lua cheia, um pequeno trailer tipo Airstream em um dos lados, 
-Uma pequena fogueira na praia, mulher sentada na praia tocando violão, notas musicais flutuam a partir do violão e circulam a lua
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/94e6b9476f4971f0447a9f3433c56787/thumbnails/thumbnail.jpg" width="600" alt="Cena noturna cinematográfica com guitarrista e notas musicais flutuantes">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2947)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2041353539390472400) | **Published:** Apr 7, 2026
-
----
-### Prompt de geração de vídeo para uma modelo montando um cavalo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Este prompt gera um videoclipe com foco em uma modelo montando um cavalo lentamente, com a câmera permanecendo fixa para enfatizar a ação e o movimento.
-
-#### 📝 Prompt
-
-```
-Vamos cavalgar…
-
-Sim… cavalgar, capitão, cavalgar…
-
-A câmera permanece fixa enquanto a modelo se acomoda lentamente sobre o dorso do cavalo.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e5fd73266b1e05a1566f3d20e3b3440/thumbnails/thumbnail.jpg" width="600" alt="Prompt de geração de vídeo para uma modelo montando um cavalo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2940)**
-
-**Author:** [Self-Improvement from the top](https://x.com/Danuel_san) | **Source:** [Link](https://x.com/Danuel_san/status/2041348495047823415) | **Published:** Apr 7, 2026
-
----
-### Sequência cinematográfica dramática de uma guerreira ciborgue do Leste Asiático
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de geração de vídeo extenso e altamente detalhado para o Grok Imagine, descrevendo uma sequência cinematográfica dramática. Apresenta uma guerreira ciborgue do Leste Asiático em uma cidade distópica, focando em closes de sua armadura danificada, olhos cibernéticos vermelhos brilhantes e culminando com ela ativando propulsores e decolando no ar.
-
-#### 📝 Prompt
-
-```
-Uma sequência cinematográfica dramática apresentando uma feroz guerreira ciborgue do Leste Asiático com cabelo curto estilo chanel preto em uma cidade futurista distópica sob um céu enfumaçado e nublado. O vídeo começa com um close em sua mão robótica direita preta e elegante, dedos metálicos detalhados com luzes vermelhas brilhantes pulsando ao longo das articulações, arranhões sutis e danos de batalha visíveis na armadura.
-A câmera inclina-se lentamente para cima, revelando sua armadura cibernética tática de corpo inteiro, fortemente danificada, porém poderosa — preto fosco com detalhes em vermelho brilhante, partes mecânicas expostas e manchas de sangue em seu rosto. Seu rosto demonstra uma emoção intensa: sobrancelhas franzidas, sangue escorrendo de sua boca e cortes em sua bochecha, olhos cibernéticos vermelhos brilhantes com feixes de luz vermelha horizontal varrendo-os. Ela pisca lentamente, sua expressão mudando de dor para determinação.
-Ela gradualmente se levanta no campo de batalha urbano em ruínas, cheio de fumaça, incêndios distantes e edifícios destruídos. Ela coloca um capacete tático preto elegante com uma viseira escura. A câmera recua para um plano de corpo inteiro enquanto ela vira o corpo com confiança, revelando o design completo da armadura com ombreiras, coldres nas coxas e armas montadas nas costas. Linhas de energia vermelhas pulsam por todo o seu traje.
-Nos momentos finais, ela ativa seus propulsores — chamas laranja-brancas brilhantes explodem de suas mãos e pés. Ela se lança poderosamente para o ar, ascendendo rapidamente acima da paisagem urbana destruída enquanto explosões e densas trilhas de fumaça preta preenchem o fundo. Atmosfera cyberpunk épica e intensa, altamente detalhada, iluminação cinematográfica, elementos em câmera lenta misturados com movimento dinâmico, gradação de cores escuras e temperamentais com forte contraste nos brilhos vermelhos.
-cinematográfico, ultrarrealista, 8k, fotorrealista, iluminação dramática, granulação de filme, sequência de ação intensa, 12 segundos, movimento de câmera suave, inclinação lenta para cima seguida de recuo, lançamento final de foguete
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fc5367c6cccbc88db363c98e812a3841/thumbnails/thumbnail.jpg" width="600" alt="Sequência cinematográfica dramática de uma guerreira ciborgue do Leste Asiático">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2951)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2041307525140881679) | **Published:** Apr 7, 2026
-
----
-### Prompt de vídeo de um coelhinho fofo fazendo uma coreografia de hip-hop
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt do Grok Imagine para uma animação fotorrealista de 8 segundos de um coelhinho fofo realizando uma coreografia de hip-hop cheia de energia em um prado ensolarado, incluindo giros, cenouras como acessórios e uma finalização confiante.
-
-#### 📝 Prompt
-
-```
-"Animação fotorrealista e energética de 8 segundos de um coelhinho fofo em um prado ensolarado, realizando uma coreografia de hip-hop alegre com giros dramáticos, movimentos de orelhas, cenouras usadas como microfones e uma grande finalização confiante sob flores de cerejeira desabrochando."
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e0b551f8d6c48a05d3f4d49ab1144372/thumbnails/thumbnail.jpg" width="600" alt="Prompt de vídeo de um coelhinho fofo fazendo uma coreografia de hip-hop">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2878)**
-
-**Author:** [Thoth Scribe](https://x.com/ThothScribe) | **Source:** [Link](https://x.com/ThothScribe/status/2041280248076226729) | **Published:** Apr 6, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2250,6 +2241,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-19T06:03:47.604Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-19T09:02:14.266Z</sub>
 
 </div>

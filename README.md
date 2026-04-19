@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1129** |
+| 📝 Total Prompts | **1134** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-04-19** |
 
@@ -189,6 +189,101 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Fast forward solder rework scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic style video prompt depicting a technical workbench environment with a time-lapse or fast-forward effect.
+
+#### 📝 Prompt
+
+```
+Nerds sharing the workbench and solder rework station with their small projects in a fast forward cinematic style
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/835c2d1d0391542105bec8ee67cddfb5/thumbnails/thumbnail.jpg" width="600" alt="Fast forward solder rework scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3339)**
+
+**Author:** [🇺🇸Us3rm0d🇺🇸](https://x.com/overituuugain) | **Source:** [Link](https://x.com/overituuugain/status/2045596273705889853) | **Published:** Apr 18, 2026
+
+---
+### Cinematic 19th Century Caravel Sailing to Rio
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic moving painting prompt of a 19th-century caravel sailing towards Rio de Janeiro, featuring historical Portuguese sails.
+
+#### 📝 Prompt
+
+```
+A cinematic moving painting of an ancient 19th-century caravel, with the colonial Portuguese cross on its sails. Sailing in the ocean with 19th-century Rio de Janeiro as the destination.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f5589e4053ab0eb0b91b0e4051dc23b4/thumbnails/thumbnail.jpg" width="600" alt="Cinematic 19th Century Caravel Sailing to Rio">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3343)**
+
+**Author:** [Lincon Venicios ⬛️⬜️🟨](https://x.com/LinconGallo) | **Source:** [Link](https://x.com/LinconGallo/status/2045575035021103315) | **Published:** Apr 18, 2026
+
+---
+### Cinematic Roadside Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A grok-imagine video prompt creating a nostalgic, Mary Poppins-style scene of a highway with specific signage.
+
+#### 📝 Prompt
+
+```
+A road leading off onto the highway. With a sign on side of road saying we’re almost home. A weather vane pointing west with the words this is my true north . Like a may poppins scene....
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f47683188757434b10f27a7f412ed6b4/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Roadside Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3340)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2045530264302973186) | **Published:** Apr 18, 2026
+
+---
+### Cool Cat Landing Action
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A dynamic grok-imagine prompt for a video showing a cat landing and walking away from a crash.
+
+#### 📝 Prompt
+
+```
+cat landing gracefully on feet, walking away coolly, bicycle crashed on ground behind
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/841df8f83cdf383323ca1b2703f0d5d0/thumbnails/thumbnail.jpg" width="600" alt="Cool Cat Landing Action">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3342)**
+
+**Author:** [NightCafeDave](https://x.com/NightCafeDc6zp) | **Source:** [Link](https://x.com/NightCafeDc6zp/status/2045482125563208123) | **Published:** Apr 18, 2026
+
+---
+### Cinematic Dolly-Out Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A technical video prompt for a smooth dolly-out camera movement with octane render quality.
+
+#### 📝 Prompt
+
+```
+animated 8–12 second gentle dolly-out sequence, smooth camera movement, cinematic the scene is rendered in hyper-realistic detail using octane render with a cinematic quality
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ce7f21ae3b536ac33751803b051be307/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Dolly-Out Sequence">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3341)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2045344999479366043) | **Published:** Apr 18, 2026
+
+---
 ### Crimson Seraph Dark Fantasy
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2074,110 +2169,6 @@ candid 35mm capture of high fashion abstract figure in color-blocked vinyl and k
 **Author:** [Quinn Woods-Robinson](https://x.com/QuinnWR) | **Source:** [Link](https://x.com/QuinnWR/status/2041388099717173490) | **Published:** Apr 7, 2026
 
 ---
-### Dialogue Scene Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A narrative prompt for Grok Imagine to generate a video depicting a dramatic dialogue scene between a man and a woman.
-
-#### 📝 Prompt
-
-```
-The man yells at woman, "let go of my pensions vurginia!" Old woman yells, " you let go Roger, you deployment dodging bitch!...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/07cb29c5b3546e4833664d9cfa3d6c32/thumbnails/thumbnail.jpg" width="600" alt="Dialogue Scene Video Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2956)**
-
-**Author:** [BerserkerMedic](https://x.com/davidmedic81) | **Source:** [Link](https://x.com/davidmedic81/status/2041364258466734363) | **Published:** Apr 7, 2026
-
----
-### Cinematic Night Scene with Guitarist and Floating Musical Notes
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A Grok Imagine prompt describing a serene, cinematic night scene featuring pine trees, a lake under a full moon, a small Airstream camper, and a woman playing a guitar on the beach, with musical notes floating up from the guitar and circling the moon.
-
-#### 📝 Prompt
-
-```
-Pine trees in background , lake full moon , small airstream type camper off to one side, 
-Small campfire on beach, woman staring on beach playing guitar, musical notes float up from the guitar and circle the moon
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/94e6b9476f4971f0447a9f3433c56787/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Night Scene with Guitarist and Floating Musical Notes">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2947)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2041353539390472400) | **Published:** Apr 7, 2026
-
----
-### Video generation prompt for a model mounting a horse
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> This prompt generates a video clip focusing on a model slowly mounting a horse, with the camera remaining stationary to emphasize the action and movement.
-
-#### 📝 Prompt
-
-```
-Let’s Ride…
-
-Yes…ride captain ride…
-
-The camera remains stationary as the model slowly lowers herself onto the horse's back.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e5fd73266b1e05a1566f3d20e3b3440/thumbnails/thumbnail.jpg" width="600" alt="Video generation prompt for a model mounting a horse">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2940)**
-
-**Author:** [Self-Improvement from the top](https://x.com/Danuel_san) | **Source:** [Link](https://x.com/Danuel_san/status/2041348495047823415) | **Published:** Apr 7, 2026
-
----
-### Dramatic cinematic sequence of an East Asian female cyborg warrior
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An extensive, highly detailed video generation prompt for Grok Imagine describing a dramatic cinematic sequence. It features an East Asian female cyborg warrior in a dystopian city, focusing on close-ups of her damaged armor, glowing red cybernetic eyes, and culminating in her activating thrusters and launching into the air.
-
-#### 📝 Prompt
-
-```
-A dramatic cinematic sequence featuring a fierce East Asian female cyborg warrior with short black bob hair in a dystopian futuristic city under a smoky, overcast sky. The video begins with a close-up on her sleek black robotic right hand, detailed metallic fingers with glowing red lights pulsing along the joints, subtle scratches and battle damage visible on the armor.
-The camera slowly tilts upward, revealing her heavily damaged yet powerful full-body tactical cybernetic armor — matte black with red glowing accents, exposed mechanical parts, and blood stains on her face. Her face shows intense emotion: furrowed brows, blood dripping from her mouth and cuts on her cheek, glowing red cybernetic eyes with horizontal red light beams scanning across them. She blinks slowly, her expression shifting from pain to determination.
-She gradually stands taller in the ruined urban battlefield filled with smoke, distant fires, and destroyed buildings. She puts on a sleek black tactical helmet with a dark visor. The camera pulls back to a full-body shot as she turns her body confidently, revealing the full armor design with shoulder pads, thigh holsters, and back-mounted weapons. Red energy lines pulse across her suit.
-In the final moments, she activates her thrusters — bright orange-white flames burst from her hands and feet. She launches powerfully into the air, ascending rapidly above the destroyed cityscape as explosions and thick black smoke trails fill the background. Epic, intense, cyberpunk atmosphere, highly detailed, cinematic lighting, slow-motion elements mixed with dynamic movement, dark moody color grading with strong contrast on the red glows.
-cinematic, ultra realistic, 8k, photorealistic, dramatic lighting, film grain, intense action sequence, 12 seconds, smooth camera movement, slow tilt up then pull back, final rocket launch
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fc5367c6cccbc88db363c98e812a3841/thumbnails/thumbnail.jpg" width="600" alt="Dramatic cinematic sequence of an East Asian female cyborg warrior">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2951)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2041307525140881679) | **Published:** Apr 7, 2026
-
----
-### Video prompt of a fluffy bunny performing a hip-hop dance routine
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A Grok Imagine prompt for an 8-second, photo-realistic springtime animation of a fluffy bunny performing an energetic hip-hop dance routine in a sunlit meadow, complete with spins, carrot props, and a confident finish.
-
-#### 📝 Prompt
-
-```
-"Energetic photo-realistic 8-second springtime animation of a fluffy bunny in a sunlit meadow, performing a joyful hip-hop dance routine with dramatic spins, ear-flapping moves, carrot props as microphones, and a big confident finish under blooming cherry blossoms."
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e0b551f8d6c48a05d3f4d49ab1144372/thumbnails/thumbnail.jpg" width="600" alt="Video prompt of a fluffy bunny performing a hip-hop dance routine">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2878)**
-
-**Author:** [Thoth Scribe](https://x.com/ThothScribe) | **Source:** [Link](https://x.com/ThothScribe/status/2041280248076226729) | **Published:** Apr 6, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2239,6 +2230,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-19T06:03:24.707Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-19T09:01:57.783Z</sub>
 
 </div>

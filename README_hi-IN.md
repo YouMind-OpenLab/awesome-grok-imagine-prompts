@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1129** |
+| 📝 Total Prompts | **1134** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-04-19** |
 
@@ -189,6 +189,101 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### फास्ट फॉरवर्ड सोल्डर रिवर्क सीन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सिनेमैटिक स्टाइल वीडियो प्रॉम्प्ट जो टाइम-लैप्स या फास्ट-फॉरवर्ड इफेक्ट के साथ एक तकनीकी वर्कबेंच के वातावरण को दर्शाता है।
+
+#### 📝 Prompt
+
+```
+फास्ट फॉरवर्ड सिनेमैटिक स्टाइल में अपने छोटे प्रोजेक्ट्स के साथ वर्कबेंच और सोल्डर रिवर्क स्टेशन साझा करते हुए नर्ड्स
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/835c2d1d0391542105bec8ee67cddfb5/thumbnails/thumbnail.jpg" width="600" alt="फास्ट फॉरवर्ड सोल्डर रिवर्क सीन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3339)**
+
+**Author:** [🇺🇸Us3rm0d🇺🇸](https://x.com/overituuugain) | **Source:** [Link](https://x.com/overituuugain/status/2045596273705889853) | **Published:** Apr 18, 2026
+
+---
+### रियो की ओर जाती 19वीं सदी की सिनेमैटिक कारवेल
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 19वीं सदी के एक कारवेल जहाज का रियो डी जनेरियो की ओर जाने का सिनेमैटिक मूविंग पेंटिंग प्रॉम्प्ट, जिसमें ऐतिहासिक पुर्तगाली पाल (sails) दिखाई गई हैं।
+
+#### 📝 Prompt
+
+```
+19वीं सदी के एक प्राचीन कारवेल की सिनेमैटिक मूविंग पेंटिंग, जिसके पाल पर औपनिवेशिक पुर्तगाली क्रॉस बना है। यह जहाज समुद्र में यात्रा कर रहा है और इसकी मंजिल 19वीं सदी का रियो डी जनेरियो है।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f5589e4053ab0eb0b91b0e4051dc23b4/thumbnails/thumbnail.jpg" width="600" alt="रियो की ओर जाती 19वीं सदी की सिनेमैटिक कारवेल">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3343)**
+
+**Author:** [Lincon Venicios ⬛️⬜️🟨](https://x.com/LinconGallo) | **Source:** [Link](https://x.com/LinconGallo/status/2045575035021103315) | **Published:** Apr 18, 2026
+
+---
+### सिनेमैटिक रोडसाइड सीन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक grok-imagine वीडियो प्रॉम्प्ट जो हाईवे का एक पुरानी यादें ताजा करने वाला, Mary Poppins-शैली का दृश्य बनाता है, जिसमें विशिष्ट साइनेज शामिल हैं।
+
+#### 📝 Prompt
+
+```
+एक सड़क जो हाईवे की ओर जाती है। सड़क के किनारे एक साइन बोर्ड लगा है जिस पर लिखा है कि हम घर के करीब हैं। एक वेदर वेन (मौसम सूचक) पश्चिम की ओर इशारा कर रहा है जिस पर लिखा है 'this is my true north'। बिल्कुल Mary Poppins के किसी दृश्य की तरह...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f47683188757434b10f27a7f412ed6b4/thumbnails/thumbnail.jpg" width="600" alt="सिनेमैटिक रोडसाइड सीन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3340)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2045530264302973186) | **Published:** Apr 18, 2026
+
+---
+### कूल कैट लैंडिंग एक्शन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक गतिशील grok-imagine प्रॉम्प्ट, जिसमें एक बिल्ली को दुर्घटना के बाद सुरक्षित उतरते और शान से चलते हुए दिखाया गया है।
+
+#### 📝 Prompt
+
+```
+बिल्ली का खूबसूरती से अपने पैरों पर उतरना, शान से दूर चलते जाना, पीछे जमीन पर गिरी हुई साइकिल
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/841df8f83cdf383323ca1b2703f0d5d0/thumbnails/thumbnail.jpg" width="600" alt="कूल कैट लैंडिंग एक्शन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3342)**
+
+**Author:** [NightCafeDave](https://x.com/NightCafeDc6zp) | **Source:** [Link](https://x.com/NightCafeDc6zp/status/2045482125563208123) | **Published:** Apr 18, 2026
+
+---
+### सिनेमैटिक डॉली-आउट सीक्वेंस
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ऑक्टेन रेंडर क्वालिटी के साथ स्मूथ डॉली-आउट कैमरा मूवमेंट के लिए एक तकनीकी वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+एनिमेटेड 8–12 सेकंड का जेंटल डॉली-आउट सीक्वेंस, स्मूथ कैमरा मूवमेंट, सिनेमैटिक; यह दृश्य ऑक्टेन रेंडर का उपयोग करके हाइपर-रियलिस्टिक डिटेल में रेंडर किया गया है, जिसमें सिनेमैटिक क्वालिटी है
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ce7f21ae3b536ac33751803b051be307/thumbnails/thumbnail.jpg" width="600" alt="सिनेमैटिक डॉली-आउट सीक्वेंस">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3341)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2045344999479366043) | **Published:** Apr 18, 2026
+
+---
 ### Crimson Seraph Dark Fantasy
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2084,109 +2179,6 @@ Elon Musk से कहलवाएं “यह एक दिन फिल्�
 **Author:** [Quinn Woods-Robinson](https://x.com/QuinnWR) | **Source:** [Link](https://x.com/QuinnWR/status/2041388099717173490) | **Published:** Apr 7, 2026
 
 ---
-### संवाद दृश्य वीडियो प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक नैरेटिव प्रॉम्प्ट, जो एक पुरुष और महिला के बीच नाटकीय संवाद दृश्य का वीडियो बनाने के लिए है।
-
-#### 📝 Prompt
-
-```
-पुरुष महिला पर चिल्लाता है, "वर्जिनिया, मेरी पेंशन छोड़ दो!" बूढ़ी महिला चिल्लाती है, "तुम छोड़ो रोजर, तुम डिप्लॉयमेंट से बचने वाले कमीने!...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/07cb29c5b3546e4833664d9cfa3d6c32/thumbnails/thumbnail.jpg" width="600" alt="संवाद दृश्य वीडियो प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2956)**
-
-**Author:** [BerserkerMedic](https://x.com/davidmedic81) | **Source:** [Link](https://x.com/davidmedic81/status/2041364258466734363) | **Published:** Apr 7, 2026
-
----
-### गिटारवादक और तैरते हुए संगीत के सुरों के साथ सिनेमाई रात का दृश्य
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक Grok Imagine प्रॉम्प्ट जो एक शांत, सिनेमाई रात के दृश्य का वर्णन करता है, जिसमें देवदार के पेड़, पूर्णिमा के नीचे एक झील, एक छोटा Airstream कैंपर, और समुद्र तट पर गिटार बजाती एक महिला है, जिसके गिटार से संगीत के सुर ऊपर की ओर तैरते हुए चंद्रमा के चारों ओर घूम रहे हैं।
-
-#### 📝 Prompt
-
-```
-पृष्ठभूमि में देवदार के पेड़, झील और पूर्णिमा, एक तरफ छोटा Airstream टाइप कैंपर, समुद्र तट पर छोटी अलाव, समुद्र तट पर बैठी महिला गिटार बजा रही है, गिटार से संगीत के सुर ऊपर की ओर तैरते हुए चंद्रमा के चारों ओर घूम रहे हैं
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/94e6b9476f4971f0447a9f3433c56787/thumbnails/thumbnail.jpg" width="600" alt="गिटारवादक और तैरते हुए संगीत के सुरों के साथ सिनेमाई रात का दृश्य">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2947)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2041353539390472400) | **Published:** Apr 7, 2026
-
----
-### घोड़े पर सवार होते हुए मॉडल के लिए वीडियो जनरेशन प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> यह प्रॉम्प्ट एक ऐसे वीडियो क्लिप को जनरेट करता है जिसमें एक मॉडल को धीरे-धीरे घोड़े पर सवार होते हुए दिखाया गया है, जिसमें कैमरे को स्थिर रखा गया है ताकि क्रिया और गति पर जोर दिया जा सके।
-
-#### 📝 Prompt
-
-```
-चलो सवारी करते हैं...
-
-हाँ... सवारी करो कैप्टन सवारी करो...
-
-कैमरा स्थिर रहता है जबकि मॉडल धीरे-धीरे खुद को घोड़े की पीठ पर बैठाती है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e5fd73266b1e05a1566f3d20e3b3440/thumbnails/thumbnail.jpg" width="600" alt="घोड़े पर सवार होते हुए मॉडल के लिए वीडियो जनरेशन प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2940)**
-
-**Author:** [Self-Improvement from the top](https://x.com/Danuel_san) | **Source:** [Link](https://x.com/Danuel_san/status/2041348495047823415) | **Published:** Apr 7, 2026
-
----
-### पूर्वी एशियाई महिला साइबॉर्ग योद्धा का नाटकीय सिनेमाई दृश्य
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक विस्तृत और अत्यधिक विवरण वाला वीडियो जनरेशन प्रॉम्प्ट, जो एक नाटकीय सिनेमाई दृश्य का वर्णन करता है। इसमें एक डायस्टोपियन शहर में पूर्वी एशियाई महिला साइबॉर्ग योद्धा को दिखाया गया है, जिसमें उसके क्षतिग्रस्त कवच और चमकती लाल साइबरनेटिक आंखों पर क्लोज-अप फोकस है, जो अंत में उसके थ्रस्टर्स को सक्रिय करने और हवा में उड़ान भरने के साथ समाप्त होता है।
-
-#### 📝 Prompt
-
-```
-एक नाटकीय सिनेमाई दृश्य जिसमें एक धुएँ से भरे, बादलों वाले आसमान के नीचे एक डायस्टोपियन भविष्यवादी शहर में छोटे काले बॉब हेयर वाली एक उग्र पूर्वी एशियाई महिला साइबॉर्ग योद्धा दिखाई गई है। वीडियो की शुरुआत उसके चिकने काले रोबोटिक दाहिने हाथ के क्लोज-अप से होती है, जिसमें जोड़ों के साथ चमकती लाल रोशनी वाली विस्तृत धात्विक उंगलियां हैं, और कवच पर सूक्ष्म खरोंचें और युद्ध के निशान दिखाई दे रहे हैं।
-कैमरा धीरे-धीरे ऊपर की ओर झुकता है, जिससे उसका बुरी तरह क्षतिग्रस्त लेकिन शक्तिशाली पूर्ण-शरीर सामरिक साइबरनेटिक कवच दिखाई देता है — मैट ब्लैक रंग के साथ लाल चमकते हुए लहजे, खुले यांत्रिक हिस्से, और उसके चेहरे पर खून के धब्बे। उसका चेहरा तीव्र भावनाओं को दर्शाता है: सिकुड़ी हुई भौहें, मुँह से टपकता खून और गालों पर कट के निशान, चमकती लाल साइबरनेटिक आँखें जिन पर क्षैतिज लाल प्रकाश की किरणें स्कैन कर रही हैं। वह धीरे-धीरे पलकें झपकाती है, उसकी अभिव्यक्ति दर्द से दृढ़ संकल्प में बदल जाती है।
-वह धीरे-धीरे धुएँ, दूर की आग और नष्ट हुई इमारतों से भरे बर्बाद शहरी युद्धक्षेत्र में सीधी खड़ी होती है। वह एक गहरे वाइज़र वाला चिकना काला सामरिक हेलमेट पहनती है। कैमरा पीछे हटकर फुल-बॉडी शॉट लेता है जैसे ही वह आत्मविश्वास के साथ मुड़ती है, जिससे शोल्डर पैड्स, जांघ होल्स्टर्स और पीछे लगे हथियारों के साथ पूर्ण कवच डिजाइन का पता चलता है। लाल ऊर्जा रेखाएं उसके सूट पर धड़क रही हैं।
-अंतिम क्षणों में, वह अपने थ्रस्टर्स को सक्रिय करती है — उसके हाथों और पैरों से चमकीली नारंगी-सफेद लपटें निकलती हैं। वह शक्तिशाली रूप से हवा में लॉन्च होती है, नष्ट हो चुके शहर के ऊपर तेजी से ऊपर उठती है जबकि पृष्ठभूमि में विस्फोट और घने काले धुएँ के निशान भर जाते हैं। महाकाव्य, तीव्र, साइबरपंक वातावरण, अत्यधिक विस्तृत, सिनेमाई प्रकाश व्यवस्था, गतिशील गति के साथ मिश्रित स्लो-मोशन तत्व, लाल चमक पर मजबूत कंट्रास्ट के साथ डार्क मूडी कलर ग्रेडिंग।
-सिनेमाई, अल्ट्रा रियलिस्टिक, 8k, फोटो रियलिस्टिक, नाटकीय प्रकाश व्यवस्था, फिल्म ग्रेन, तीव्र एक्शन सीक्वेंस, 12 सेकंड, स्मूथ कैमरा मूवमेंट, पहले धीरे-धीरे ऊपर की ओर झुकाव फिर पीछे हटना, अंतिम रॉकेट लॉन्च
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fc5367c6cccbc88db363c98e812a3841/thumbnails/thumbnail.jpg" width="600" alt="पूर्वी एशियाई महिला साइबॉर्ग योद्धा का नाटकीय सिनेमाई दृश्य">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2951)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2041307525140881679) | **Published:** Apr 7, 2026
-
----
-### हिप-हॉप डांस करते एक प्यारे खरगोश का वीडियो प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> धूप से खिले घास के मैदान में हिप-हॉप डांस करते एक प्यारे खरगोश के 8-सेकंड के फोटो-रियलिस्टिक स्प्रिंगटाइम एनिमेशन के लिए एक Grok Imagine प्रॉम्प्ट, जिसमें स्पिन, गाजर के प्रॉप्स और एक आत्मविश्वास से भरा अंत शामिल है।
-
-#### 📝 Prompt
-
-```
-"धूप से खिले घास के मैदान में एक प्यारे खरगोश का ऊर्जावान फोटो-रियलिस्टिक 8-सेकंड का स्प्रिंगटाइम एनिमेशन, जो खिलते हुए चेरी ब्लॉसम के नीचे शानदार स्पिन, कान हिलाने वाले मूव्स, माइक्रोफोन के रूप में गाजर के प्रॉप्स और एक आत्मविश्वास से भरे अंत के साथ एक आनंदमय हिप-हॉप डांस कर रहा है।"
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e0b551f8d6c48a05d3f4d49ab1144372/thumbnails/thumbnail.jpg" width="600" alt="हिप-हॉप डांस करते एक प्यारे खरगोश का वीडियो प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2878)**
-
-**Author:** [Thoth Scribe](https://x.com/ThothScribe) | **Source:** [Link](https://x.com/ThothScribe/status/2041280248076226729) | **Published:** Apr 6, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2248,6 +2240,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-19T06:03:36.962Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-19T09:02:05.510Z</sub>
 
 </div>

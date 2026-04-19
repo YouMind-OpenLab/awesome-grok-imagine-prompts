@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **1129** |
+| 📝 提示词总数 | **1134** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-04-19** |
 
@@ -189,6 +189,101 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 焊锡返修场景快进
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个电影质感的视频提示词，描绘了带有延时或快进效果的技术工作台环境。
+
+#### 📝 提示词
+
+```
+极客们在工作台和焊锡返修站分享并制作小型项目，呈现出电影般的快进风格
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/835c2d1d0391542105bec8ee67cddfb5/thumbnails/thumbnail.jpg" width="600" alt="焊锡返修场景快进">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3339)**
+
+**作者:** [🇺🇸Us3rm0d🇺🇸](https://x.com/overituuugain) | **来源:** [Link](https://x.com/overituuugain/status/2045596273705889853) | **发布时间:** Apr 18, 2026
+
+---
+### 19 世纪卡拉维尔帆船驶向里约的电影感画面
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个 19 世纪卡拉维尔帆船驶向里约热内卢的电影感动态绘画提示词，展现了历史悠久的葡萄牙帆船风貌。
+
+#### 📝 提示词
+
+```
+一幅 19 世纪古老卡拉维尔帆船的电影感动态画作，帆上带有殖民时期葡萄牙的十字标志。帆船航行在海洋中，目的地是 19 世纪的里约热内卢。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f5589e4053ab0eb0b91b0e4051dc23b4/thumbnails/thumbnail.jpg" width="600" alt="19 世纪卡拉维尔帆船驶向里约的电影感画面">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3343)**
+
+**作者:** [Lincon Venicios ⬛️⬜️🟨](https://x.com/LinconGallo) | **来源:** [Link](https://x.com/LinconGallo/status/2045575035021103315) | **发布时间:** Apr 18, 2026
+
+---
+### 电影感路边场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于 grok-imagine 的视频提示词，旨在创作一个怀旧的、玛丽·波平斯风格的公路场景，并包含特定的路标。
+
+#### 📝 提示词
+
+```
+一条通往高速公路的道路。路边立着一块写有“我们快到家了”的标牌。一个指向西方的风向标，上面写着“这是我真正的北方”。就像玛丽·波平斯电影里的场景一样……
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f47683188757434b10f27a7f412ed6b4/thumbnails/thumbnail.jpg" width="600" alt="电影感路边场景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3340)**
+
+**作者:** [Sas](https://x.com/SaSHeaven26) | **来源:** [Link](https://x.com/SaSHeaven26/status/2045530264302973186) | **发布时间:** Apr 18, 2026
+
+---
+### 酷猫着陆动作
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于生成视频的动态 grok-imagine 提示词，展示了一只猫着陆并从车祸现场走开的场景。
+
+#### 📝 提示词
+
+```
+猫优雅地四脚着陆，酷酷地走开，身后是一辆摔倒在地的自行车
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/841df8f83cdf383323ca1b2703f0d5d0/thumbnails/thumbnail.jpg" width="600" alt="酷猫着陆动作">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3342)**
+
+**作者:** [NightCafeDave](https://x.com/NightCafeDc6zp) | **来源:** [Link](https://x.com/NightCafeDc6zp/status/2045482125563208123) | **发布时间:** Apr 18, 2026
+
+---
+### 电影级推拉镜头序列
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于实现平滑推拉镜头移动的技术视频提示词，具备 Octane 渲染质量。
+
+#### 📝 提示词
+
+```
+8–12 秒的平滑推拉镜头动画序列，摄像机移动流畅，具有电影感；场景采用 Octane 渲染，呈现出超写实的细节和电影级画质
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ce7f21ae3b536ac33751803b051be307/thumbnails/thumbnail.jpg" width="600" alt="电影级推拉镜头序列">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3341)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2045344999479366043) | **发布时间:** Apr 18, 2026
+
+---
 ### Crimson Seraph Dark Fantasy
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2085,110 +2180,6 @@ Grok 喜剧演员嘲讽 Trump，让 Trump x4 回击假新闻媒体 🌶️🪬�
 **作者:** [Quinn Woods-Robinson](https://x.com/QuinnWR) | **来源:** [Link](https://x.com/QuinnWR/status/2041388099717173490) | **发布时间:** Apr 7, 2026
 
 ---
-### 对话场景视频提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 为 Grok Imagine 编写的叙事提示词，用于生成一段描绘男女之间戏剧性对话场景的视频。
-
-#### 📝 提示词
-
-```
-男人对女人大喊：“放开我的养老金，Vurginia！” 老妇人回喊：“你放手，Roger，你这个逃避部署的混蛋！...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/07cb29c5b3546e4833664d9cfa3d6c32/thumbnails/thumbnail.jpg" width="600" alt="对话场景视频提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2956)**
-
-**作者:** [BerserkerMedic](https://x.com/davidmedic81) | **来源:** [Link](https://x.com/davidmedic81/status/2041364258466734363) | **发布时间:** Apr 7, 2026
-
----
-### 吉他手与漂浮音符的电影感夜景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个 Grok Imagine 提示词，描述了一个宁静且具有电影感的夜景：背景是松树和满月下的湖泊，一侧停放着小型 Airstream 露营车，海滩上有一位女性正在弹奏吉他，音符从吉他中漂浮而出并环绕着月亮。
-
-#### 📝 提示词
-
-```
-背景为松树，湖泊与满月，一侧停放着小型 Airstream 露营车，
-海滩上有小型篝火，一位女性坐在海滩上弹奏吉他，音符从吉他中漂浮而出并环绕着月亮
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/94e6b9476f4971f0447a9f3433c56787/thumbnails/thumbnail.jpg" width="600" alt="吉他手与漂浮音符的电影感夜景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2947)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2041353539390472400) | **发布时间:** Apr 7, 2026
-
----
-### 模特骑马的视频生成提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 此提示词用于生成一段模特缓慢上马的视频片段，摄像机保持静止，以突出动作和运动细节。
-
-#### 📝 提示词
-
-```
-让我们骑行吧……
-
-是的……骑手出发吧……
-
-摄像机保持静止，模特缓慢地坐上马背。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e5fd73266b1e05a1566f3d20e3b3440/thumbnails/thumbnail.jpg" width="600" alt="模特骑马的视频生成提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2940)**
-
-**作者:** [Self-Improvement from the top](https://x.com/Danuel_san) | **来源:** [Link](https://x.com/Danuel_san/status/2041348495047823415) | **发布时间:** Apr 7, 2026
-
----
-### 东亚女性赛博格战士的电影级戏剧化场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是一个为 Grok Imagine 编写的详尽且高度细节化的视频生成提示词，描述了一个戏剧性的电影化场景。场景主角是一位身处反乌托邦城市的东亚女性赛博格战士，重点刻画了她受损的装甲、发光的红色机械眼，并以她启动推进器腾空而起作为高潮。
-
-#### 📝 提示词
-
-```
-一段戏剧性的电影化场景，展现了一位留着黑色短波波头的东亚女性赛博格战士，背景是烟雾缭绕、阴云密布的反乌托邦未来城市。视频以她光滑的黑色机械右手特写开始，金属手指细节丰富，关节处闪烁着红光，装甲上可见细微的划痕和战斗损伤。
-镜头缓慢向上倾斜，展现出她那受损严重却依然强大的全身战术赛博格装甲——哑光黑色配以红色发光装饰，裸露的机械部件，以及她脸上沾染的血迹。她的表情充满张力：眉头紧锁，嘴角和脸颊的伤口渗出鲜血，发光的红色机械眼中横向红光束不断扫描。她缓慢地眨眼，表情从痛苦转为坚定。
-她逐渐在充满烟雾、远方火光和废墟建筑的城市战场中站直身体。她戴上了一个带有深色面罩的黑色流线型战术头盔。镜头拉远至全身镜头，她自信地转过身，展示了包括肩甲、大腿枪套和背部武器在内的完整装甲设计。红色能量线在她的战衣上脉动。
-在最后时刻，她启动了推进器——明亮的橙白色火焰从她的手脚喷涌而出。她强力冲向空中，迅速升至被摧毁的城市景观之上，背景中充斥着爆炸和浓重的黑色烟雾轨迹。史诗般、紧张的赛博朋克氛围，高度细节化，电影级光影，慢动作元素与动态运动相结合，深沉的情绪化色彩分级，红色光芒对比强烈。
-电影感，超写实，8k，照片级真实感，戏剧性光影，胶片颗粒，紧张的动作序列，12 秒，平滑的镜头移动，先缓慢向上倾斜后拉远，结尾火箭发射
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fc5367c6cccbc88db363c98e812a3841/thumbnails/thumbnail.jpg" width="600" alt="东亚女性赛博格战士的电影级戏剧化场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2951)**
-
-**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **来源:** [Link](https://x.com/ThoughCreator/status/2041307525140881679) | **发布时间:** Apr 7, 2026
-
----
-### 毛茸茸小兔子跳嘻哈舞的视频提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于 Grok Imagine 的提示词，旨在生成一段 8 秒钟、照片级逼真的春日动画：一只毛茸茸的小兔子在阳光明媚的草地上表演充满活力的嘻哈舞蹈，包含旋转、胡萝卜道具以及自信的收尾动作。
-
-#### 📝 提示词
-
-```
-“一段充满活力的 8 秒钟照片级逼真春日动画，画面中一只毛茸茸的小兔子在阳光明媚的草地上表演欢快的嘻哈舞蹈，动作包括戏剧性的旋转、甩耳动作，以胡萝卜为麦克风，并在盛开的樱花树下以自信的姿态完美收尾。”
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e0b551f8d6c48a05d3f4d49ab1144372/thumbnails/thumbnail.jpg" width="600" alt="毛茸茸小兔子跳嘻哈舞的视频提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2878)**
-
-**作者:** [Thoth Scribe](https://x.com/ThothScribe) | **来源:** [Link](https://x.com/ThothScribe/status/2041280248076226729) | **发布时间:** Apr 6, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2250,6 +2241,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-04-19T06:03:26.300Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-04-19T09:01:58.863Z</sub>
 
 </div>

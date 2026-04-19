@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1129** |
+| 📝 Total Prompts | **1134** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-04-19** |
 
@@ -189,6 +189,101 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Cảnh tua nhanh quá trình hàn linh kiện
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video phong cách điện ảnh mô tả môi trường bàn làm việc kỹ thuật với hiệu ứng tua nhanh thời gian.
+
+#### 📝 Prompt
+
+```
+Những người đam mê công nghệ đang chia sẻ bàn làm việc và trạm hàn linh kiện với các dự án nhỏ của họ theo phong cách điện ảnh tua nhanh
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/835c2d1d0391542105bec8ee67cddfb5/thumbnails/thumbnail.jpg" width="600" alt="Cảnh tua nhanh quá trình hàn linh kiện">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3339)**
+
+**Author:** [🇺🇸Us3rm0d🇺🇸](https://x.com/overituuugain) | **Source:** [Link](https://x.com/overituuugain/status/2045596273705889853) | **Published:** Apr 18, 2026
+
+---
+### Tàu Caravel thế kỷ 19 phong cách điện ảnh đang hướng về Rio
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo tranh chuyển động phong cách điện ảnh về con tàu Caravel thế kỷ 19 đang hướng về Rio de Janeiro, nổi bật với những cánh buồm lịch sử của Bồ Đào Nha.
+
+#### 📝 Prompt
+
+```
+Một bức tranh chuyển động phong cách điện ảnh về con tàu Caravel cổ thế kỷ 19, với biểu tượng chữ thập thuộc địa Bồ Đào Nha trên cánh buồm. Con tàu đang rẽ sóng đại dương với điểm đến là thành phố Rio de Janeiro vào thế kỷ 19.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f5589e4053ab0eb0b91b0e4051dc23b4/thumbnails/thumbnail.jpg" width="600" alt="Tàu Caravel thế kỷ 19 phong cách điện ảnh đang hướng về Rio">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3343)**
+
+**Author:** [Lincon Venicios ⬛️⬜️🟨](https://x.com/LinconGallo) | **Source:** [Link](https://x.com/LinconGallo/status/2045575035021103315) | **Published:** Apr 18, 2026
+
+---
+### Cảnh quay điện ảnh bên đường
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video grok-imagine nhằm tái hiện khung cảnh hoài niệm theo phong cách Mary Poppins về một con đường cao tốc với các biển báo cụ thể.
+
+#### 📝 Prompt
+
+```
+Một con đường dẫn ra đường cao tốc. Với một biển báo bên đường ghi rằng chúng ta sắp về đến nhà. Một chiếc chong chóng thời tiết chỉ về hướng tây với dòng chữ "đây là phương bắc đích thực của tôi". Giống như một cảnh trong Mary Poppins....
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f47683188757434b10f27a7f412ed6b4/thumbnails/thumbnail.jpg" width="600" alt="Cảnh quay điện ảnh bên đường">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3340)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2045530264302973186) | **Published:** Apr 18, 2026
+
+---
+### Hành động hạ cánh cực ngầu của chú mèo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh grok-imagine năng động cho video mô tả cảnh một chú mèo hạ cánh và bước đi đầy phong cách sau một vụ va chạm.
+
+#### 📝 Prompt
+
+```
+chú mèo hạ cánh duyên dáng bằng bốn chân, bước đi đầy phong cách, chiếc xe đạp đổ trên mặt đất phía sau
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/841df8f83cdf383323ca1b2703f0d5d0/thumbnails/thumbnail.jpg" width="600" alt="Hành động hạ cánh cực ngầu của chú mèo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3342)**
+
+**Author:** [NightCafeDave](https://x.com/NightCafeDc6zp) | **Source:** [Link](https://x.com/NightCafeDc6zp/status/2045482125563208123) | **Published:** Apr 18, 2026
+
+---
+### Chuỗi cảnh quay Dolly-Out điện ảnh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video kỹ thuật cho chuyển động camera dolly-out mượt mà với chất lượng render octane.
+
+#### 📝 Prompt
+
+```
+chuỗi cảnh quay dolly-out nhẹ nhàng từ 8 – 12 giây, chuyển động camera mượt mà, đậm chất điện ảnh, khung cảnh được render với độ chi tiết siêu thực bằng octane render cùng chất lượng điện ảnh
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ce7f21ae3b536ac33751803b051be307/thumbnails/thumbnail.jpg" width="600" alt="Chuỗi cảnh quay Dolly-Out điện ảnh">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3341)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2045344999479366043) | **Published:** Apr 18, 2026
+
+---
 ### Crimson Seraph Dark Fantasy
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2078,110 +2173,6 @@ anh ấy ngước lên từ cuốn sách và nhìn ra ngoài cửa sổ, chìm �
 **Author:** [Quinn Woods-Robinson](https://x.com/QuinnWR) | **Source:** [Link](https://x.com/QuinnWR/status/2041388099717173490) | **Published:** Apr 7, 2026
 
 ---
-### Lời nhắc video cảnh đối thoại
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một lời nhắc tường thuật dành cho Grok Imagine để tạo video mô tả một cảnh đối thoại đầy kịch tính giữa một người đàn ông và một người phụ nữ.
-
-#### 📝 Prompt
-
-```
-Người đàn ông hét vào mặt người phụ nữ: "Buông lương hưu của tôi ra, Vurginia!" Người phụ nữ lớn tuổi hét lại: "Chính ông mới phải buông ra, đồ khốn nạn trốn nghĩa vụ quân sự!...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/07cb29c5b3546e4833664d9cfa3d6c32/thumbnails/thumbnail.jpg" width="600" alt="Lời nhắc video cảnh đối thoại">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2956)**
-
-**Author:** [BerserkerMedic](https://x.com/davidmedic81) | **Source:** [Link](https://x.com/davidmedic81/status/2041364258466734363) | **Published:** Apr 7, 2026
-
----
-### Cảnh đêm đậm chất điện ảnh với nghệ sĩ guitar và những nốt nhạc bay bổng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh Grok Imagine mô tả cảnh đêm thanh bình, đậm chất điện ảnh với những hàng thông, hồ nước dưới ánh trăng tròn, một chiếc xe cắm trại Airstream nhỏ và một người phụ nữ đang chơi guitar trên bãi biển, với những nốt nhạc bay lên từ cây đàn và bao quanh mặt trăng.
-
-#### 📝 Prompt
-
-```
-Hàng thông ở hậu cảnh, hồ nước dưới ánh trăng tròn, một chiếc xe cắm trại kiểu Airstream nhỏ ở một bên, 
-Đống lửa nhỏ trên bãi biển, người phụ nữ đang ngồi trên bãi biển chơi guitar, những nốt nhạc bay lên từ cây đàn và bao quanh mặt trăng
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/94e6b9476f4971f0447a9f3433c56787/thumbnails/thumbnail.jpg" width="600" alt="Cảnh đêm đậm chất điện ảnh với nghệ sĩ guitar và những nốt nhạc bay bổng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2947)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2041353539390472400) | **Published:** Apr 7, 2026
-
----
-### Câu lệnh tạo video cho người mẫu đang lên ngựa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Câu lệnh này tạo ra một đoạn video tập trung vào cảnh người mẫu từ từ lên lưng ngựa, với máy quay giữ nguyên vị trí để làm nổi bật hành động và chuyển động.
-
-#### 📝 Prompt
-
-```
-Cùng cưỡi ngựa nào…
-
-Vâng… hãy để người chỉ huy cưỡi ngựa…
-
-Máy quay giữ nguyên vị trí khi người mẫu từ từ hạ mình xuống lưng ngựa.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e5fd73266b1e05a1566f3d20e3b3440/thumbnails/thumbnail.jpg" width="600" alt="Câu lệnh tạo video cho người mẫu đang lên ngựa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2940)**
-
-**Author:** [Self-Improvement from the top](https://x.com/Danuel_san) | **Source:** [Link](https://x.com/Danuel_san/status/2041348495047823415) | **Published:** Apr 7, 2026
-
----
-### Phân cảnh điện ảnh kịch tính về nữ chiến binh cyborg Đông Á
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video chi tiết và chuyên sâu cho Grok Imagine, mô tả một phân cảnh điện ảnh kịch tính. Nội dung xoay quanh một nữ chiến binh cyborg Đông Á trong một thành phố hậu tận thế, tập trung vào các góc quay cận cảnh bộ giáp bị hư hại, đôi mắt máy phát sáng màu đỏ, và cao trào là cảnh cô kích hoạt động cơ đẩy để bay lên không trung.
-
-#### 📝 Prompt
-
-```
-Một phân cảnh điện ảnh kịch tính với hình ảnh nữ chiến binh cyborg Đông Á đầy uy lực, mái tóc bob đen ngắn, bối cảnh thành phố tương lai hậu tận thế dưới bầu trời âm u, đầy khói bụi. Video bắt đầu bằng góc quay cận cảnh bàn tay máy màu đen bóng bẩy của cô, các ngón tay kim loại chi tiết với ánh sáng đỏ rực rỡ chạy dọc theo các khớp nối, những vết trầy xước và hư hại do chiến đấu hiện rõ trên bộ giáp.
-Camera từ từ lia lên trên, để lộ bộ giáp chiến thuật cyborg toàn thân đầy uy lực nhưng đã bị hư hại nặng — màu đen nhám với các điểm nhấn phát sáng màu đỏ, các bộ phận cơ khí lộ ra ngoài và những vết máu trên khuôn mặt. Gương mặt cô thể hiện cảm xúc mãnh liệt: đôi lông mày nhíu lại, máu rỉ ra từ miệng và các vết cắt trên má, đôi mắt máy phát sáng màu đỏ với các tia sáng ngang quét qua. Cô chớp mắt chậm rãi, biểu cảm chuyển từ đau đớn sang quyết tâm.
-Cô dần đứng thẳng dậy giữa chiến trường đô thị hoang tàn đầy khói, những đám cháy xa xa và các tòa nhà đổ nát. Cô đội chiếc mũ bảo hiểm chiến thuật màu đen bóng bẩy với kính che mặt tối màu. Camera lùi lại thành góc quay toàn thân khi cô xoay người đầy tự tin, để lộ thiết kế giáp hoàn chỉnh với đệm vai, bao súng đùi và vũ khí gắn sau lưng. Các đường năng lượng màu đỏ chạy dọc bộ đồ.
-Trong những khoảnh khắc cuối cùng, cô kích hoạt động cơ đẩy — những ngọn lửa màu trắng cam rực rỡ bùng lên từ tay và chân. Cô phóng mạnh lên không trung, bay vút lên trên cảnh quan thành phố bị tàn phá trong khi các vụ nổ và vệt khói đen dày đặc bao phủ nền phía sau. Không khí cyberpunk kịch tính, dữ dội, độ chi tiết cao, ánh sáng điện ảnh, kết hợp các yếu tố chuyển động chậm với chuyển động linh hoạt, tông màu tối đầy tâm trạng với độ tương phản mạnh mẽ từ ánh sáng đỏ.
-điện ảnh, siêu thực, 8k, chân thực như ảnh chụp, ánh sáng kịch tính, hạt phim, phân cảnh hành động dữ dội, 12 giây, chuyển động camera mượt mà, lia lên chậm rồi lùi lại, cảnh phóng tên lửa cuối cùng
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fc5367c6cccbc88db363c98e812a3841/thumbnails/thumbnail.jpg" width="600" alt="Phân cảnh điện ảnh kịch tính về nữ chiến binh cyborg Đông Á">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2951)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2041307525140881679) | **Published:** Apr 7, 2026
-
----
-### Video prompt về một chú thỏ bông đang thực hiện điệu nhảy hip-hop
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh Grok Imagine cho video hoạt hình 8 giây chân thực về một chú thỏ bông đang thực hiện điệu nhảy hip-hop đầy năng lượng trên đồng cỏ ngập nắng, bao gồm các động tác xoay, đạo cụ là cà rốt và một cái kết đầy tự tin.
-
-#### 📝 Prompt
-
-```
-"Video hoạt hình 8 giây chân thực, đầy năng lượng về một chú thỏ bông trên đồng cỏ ngập nắng, thực hiện điệu nhảy hip-hop vui nhộn với những cú xoay ấn tượng, động tác vẫy tai, dùng cà rốt làm micro và một cái kết đầy tự tin dưới tán hoa anh đào đang nở rộ."
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e0b551f8d6c48a05d3f4d49ab1144372/thumbnails/thumbnail.jpg" width="600" alt="Video prompt về một chú thỏ bông đang thực hiện điệu nhảy hip-hop">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2878)**
-
-**Author:** [Thoth Scribe](https://x.com/ThothScribe) | **Source:** [Link](https://x.com/ThothScribe/status/2041280248076226729) | **Published:** Apr 6, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2243,6 +2234,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-19T06:03:35.011Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-19T09:02:04.396Z</sub>
 
 </div>

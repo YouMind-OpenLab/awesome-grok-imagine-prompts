@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1129** |
+| 📝 Total Prompts | **1134** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-04-19** |
 
@@ -189,6 +189,101 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Zeitraffer-Szene: Lötarbeiten
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Prompt im cineastischen Stil, der eine technische Werkbank in einer Zeitraffer- oder Schnellvorlauf-Optik darstellt.
+
+#### 📝 Prompt
+
+```
+Nerds teilen sich die Werkbank und die Lötstation für ihre kleinen Projekte im cineastischen Zeitraffer-Stil
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/835c2d1d0391542105bec8ee67cddfb5/thumbnails/thumbnail.jpg" width="600" alt="Zeitraffer-Szene: Lötarbeiten">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3339)**
+
+**Author:** [🇺🇸Us3rm0d🇺🇸](https://x.com/overituuugain) | **Source:** [Link](https://x.com/overituuugain/status/2045596273705889853) | **Published:** Apr 18, 2026
+
+---
+### Filmische Karavelle aus dem 19. Jahrhundert auf dem Weg nach Rio
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein filmischer Moving-Painting-Prompt einer Karavelle aus dem 19. Jahrhundert, die auf Rio de Janeiro zusteuert, mit historischen portugiesischen Segeln.
+
+#### 📝 Prompt
+
+```
+Ein filmisches Moving-Painting einer antiken Karavelle aus dem 19. Jahrhundert mit dem kolonialen portugiesischen Kreuz auf den Segeln. Sie segelt über den Ozean mit dem Rio de Janeiro des 19. Jahrhunderts als Ziel.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f5589e4053ab0eb0b91b0e4051dc23b4/thumbnails/thumbnail.jpg" width="600" alt="Filmische Karavelle aus dem 19. Jahrhundert auf dem Weg nach Rio">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3343)**
+
+**Author:** [Lincon Venicios ⬛️⬜️🟨](https://x.com/LinconGallo) | **Source:** [Link](https://x.com/LinconGallo/status/2045575035021103315) | **Published:** Apr 18, 2026
+
+---
+### Filmreife Straßenszene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein grok-imagine Video-Prompt für eine nostalgische Szene im Mary-Poppins-Stil auf einer Autobahn mit spezifischer Beschilderung.
+
+#### 📝 Prompt
+
+```
+Eine Straße, die auf die Autobahn führt. Mit einem Schild am Straßenrand, das besagt, dass wir fast zu Hause sind. Eine Wetterfahne, die nach Westen zeigt, mit den Worten „this is my true north“. Wie in einer Szene aus Mary Poppins...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f47683188757434b10f27a7f412ed6b4/thumbnails/thumbnail.jpg" width="600" alt="Filmreife Straßenszene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3340)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2045530264302973186) | **Published:** Apr 18, 2026
+
+---
+### Coole Katzenlandung
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein dynamischer Grok-Imagine-Prompt für ein Video, das zeigt, wie eine Katze landet und nach einem Unfall cool davonläuft.
+
+#### 📝 Prompt
+
+```
+Katze landet elegant auf den Pfoten, läuft cool davon, Fahrrad liegt im Hintergrund am Boden
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/841df8f83cdf383323ca1b2703f0d5d0/thumbnails/thumbnail.jpg" width="600" alt="Coole Katzenlandung">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3342)**
+
+**Author:** [NightCafeDave](https://x.com/NightCafeDc6zp) | **Source:** [Link](https://x.com/NightCafeDc6zp/status/2045482125563208123) | **Published:** Apr 18, 2026
+
+---
+### Cinematische Dolly-Out-Sequenz
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein technischer Video-Prompt für eine flüssige Dolly-Out-Kamerabewegung in Octane-Render-Qualität.
+
+#### 📝 Prompt
+
+```
+animierte 8–12-sekündige, sanfte Dolly-Out-Sequenz, flüssige Kamerabewegung, cinematisch, die Szene ist in hyperrealistischen Details mit Octane Render in cinematischer Qualität gerendert
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ce7f21ae3b536ac33751803b051be307/thumbnails/thumbnail.jpg" width="600" alt="Cinematische Dolly-Out-Sequenz">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3341)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2045344999479366043) | **Published:** Apr 18, 2026
+
+---
 ### Crimson Seraph Dark Fantasy
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2085,109 +2180,6 @@ Authentische 35-mm-Aufnahme einer abstrakten High-Fashion-Figur in farblich abge
 **Author:** [Quinn Woods-Robinson](https://x.com/QuinnWR) | **Source:** [Link](https://x.com/QuinnWR/status/2041388099717173490) | **Published:** Apr 7, 2026
 
 ---
-### Dialog-Szenen-Video-Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein narrativer Prompt für Grok Imagine zur Erstellung eines Videos, das eine dramatische Dialogszene zwischen einem Mann und einer Frau darstellt.
-
-#### 📝 Prompt
-
-```
-Der Mann schreit die Frau an: „Lass meine Renten los, Vurginia!“ Die alte Frau schreit zurück: „Lass du los, Roger, du vor dem Einsatz drückende Mistgeburt!...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/07cb29c5b3546e4833664d9cfa3d6c32/thumbnails/thumbnail.jpg" width="600" alt="Dialog-Szenen-Video-Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2956)**
-
-**Author:** [BerserkerMedic](https://x.com/davidmedic81) | **Source:** [Link](https://x.com/davidmedic81/status/2041364258466734363) | **Published:** Apr 7, 2026
-
----
-### Filmreife Nachtszene mit Gitarristin und schwebenden Musiknoten
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Grok Imagine-Prompt, der eine ruhige, filmreife Nachtszene beschreibt: Kiefern, ein See unter einem Vollmond, ein kleiner Airstream-Wohnwagen und eine Frau, die am Strand Gitarre spielt, während Musiknoten aus der Gitarre aufsteigen und den Mond umkreisen.
-
-#### 📝 Prompt
-
-```
-Kiefern im Hintergrund, See bei Vollmond, kleiner Wohnwagen im Airstream-Stil an der Seite, kleines Lagerfeuer am Strand, Frau sitzt am Strand und spielt Gitarre, Musiknoten steigen von der Gitarre auf und umkreisen den Mond
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/94e6b9476f4971f0447a9f3433c56787/thumbnails/thumbnail.jpg" width="600" alt="Filmreife Nachtszene mit Gitarristin und schwebenden Musiknoten">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2947)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2041353539390472400) | **Published:** Apr 7, 2026
-
----
-### Video-Generierungs-Prompt für ein Model, das auf ein Pferd steigt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Dieser Prompt generiert einen Videoclip, der sich darauf konzentriert, wie ein Model langsam auf ein Pferd steigt, wobei die Kamera unbeweglich bleibt, um die Aktion und die Bewegung zu betonen.
-
-#### 📝 Prompt
-
-```
-Auf geht’s…
-
-Ja… reiten, Kapitän, reiten…
-
-Die Kamera bleibt unbeweglich, während das Model sich langsam auf den Rücken des Pferdes herablässt.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e5fd73266b1e05a1566f3d20e3b3440/thumbnails/thumbnail.jpg" width="600" alt="Video-Generierungs-Prompt für ein Model, das auf ein Pferd steigt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2940)**
-
-**Author:** [Self-Improvement from the top](https://x.com/Danuel_san) | **Source:** [Link](https://x.com/Danuel_san/status/2041348495047823415) | **Published:** Apr 7, 2026
-
----
-### Dramatische filmische Sequenz einer ostasiatischen Cyborg-Kriegerin
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein umfangreicher, hochdetaillierter Video-Generierungs-Prompt für Grok Imagine, der eine dramatische filmische Sequenz beschreibt. Er zeigt eine ostasiatische Cyborg-Kriegerin in einer dystopischen Stadt, mit Fokus auf Nahaufnahmen ihrer beschädigten Rüstung, leuchtend roten kybernetischen Augen und dem Höhepunkt, bei dem sie ihre Triebwerke aktiviert und in die Luft abhebt.
-
-#### 📝 Prompt
-
-```
-Eine dramatische filmische Sequenz mit einer kampfbereiten ostasiatischen Cyborg-Kriegerin mit kurzem schwarzem Bob-Haarschnitt in einer dystopischen, futuristischen Stadt unter einem rauchigen, bewölkten Himmel. Das Video beginnt mit einer Nahaufnahme ihrer glatten, schwarzen, robotischen rechten Hand, detaillierten metallischen Fingern mit pulsierenden roten Lichtern an den Gelenken sowie subtilen Kratzern und Kampfspuren auf der Rüstung.
-Die Kamera schwenkt langsam nach oben und enthüllt ihre schwer beschädigte, aber kraftvolle, den ganzen Körper bedeckende taktische Kybernetik-Rüstung – mattschwarz mit rot leuchtenden Akzenten, freiliegenden mechanischen Teilen und Blutflecken im Gesicht. Ihr Gesichtsausdruck zeigt intensive Emotionen: gerunzelte Stirn, Blut tropft aus ihrem Mund und von Schnittwunden an ihrer Wange, leuchtend rote kybernetische Augen mit horizontalen roten Lichtstrahlen, die darüber scannen. Sie blinzelt langsam, ihr Ausdruck wandelt sich von Schmerz zu Entschlossenheit.
-Sie richtet sich allmählich auf dem zerstörten urbanen Schlachtfeld auf, das von Rauch, entfernten Feuern und zerstörten Gebäuden erfüllt ist. Sie setzt einen glatten, schwarzen taktischen Helm mit dunklem Visier auf. Die Kamera fährt zurück in eine Ganzkörperaufnahme, während sie sich selbstbewusst dreht und das vollständige Design der Rüstung mit Schulterpolstern, Oberschenkelholstern und am Rücken montierten Waffen enthüllt. Rote Energielinien pulsieren über ihren Anzug.
-In den letzten Momenten aktiviert sie ihre Triebwerke – hell orange-weiße Flammen schießen aus ihren Händen und Füßen. Sie startet kraftvoll in die Luft und steigt rasant über die zerstörte Stadtlandschaft auf, während Explosionen und dicke schwarze Rauchfahnen den Hintergrund füllen. Epische, intensive Cyberpunk-Atmosphäre, hochdetailliert, filmische Beleuchtung, Zeitlupenelemente kombiniert mit dynamischer Bewegung, dunkles, stimmungsvolles Color Grading mit starkem Kontrast zu den roten Leuchteffekten.
-filmisch, ultrarealistisch, 8k, fotorealistisch, dramatische Beleuchtung, Filmkorn, intensive Action-Sequenz, 12 Sekunden, flüssige Kamerabewegung, langsamer Tilt nach oben gefolgt von einem Kamera-Rückzug, finale Raketen-Startsequenz
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fc5367c6cccbc88db363c98e812a3841/thumbnails/thumbnail.jpg" width="600" alt="Dramatische filmische Sequenz einer ostasiatischen Cyborg-Kriegerin">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2951)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2041307525140881679) | **Published:** Apr 7, 2026
-
----
-### Video-Prompt eines flauschigen Häschens bei einer Hip-Hop-Tanzroutine
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Grok Imagine-Prompt für eine 8-sekündige, fotorealistische Frühlingsanimation eines flauschigen Häschens, das eine energiegeladene Hip-Hop-Tanzroutine auf einer sonnendurchfluteten Wiese aufführt, komplett mit Drehungen, Karotten-Requisiten und einem selbstbewussten Abschluss.
-
-#### 📝 Prompt
-
-```
-"Energiegeladene, fotorealistische 8-sekündige Frühlingsanimation eines flauschigen Häschens auf einer sonnendurchfluteten Wiese, das eine fröhliche Hip-Hop-Tanzroutine mit dramatischen Drehungen, Ohrenwackeln, Karotten als Mikrofon-Requisiten und einem großen, selbstbewussten Abschluss unter blühenden Kirschbäumen aufführt."
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e0b551f8d6c48a05d3f4d49ab1144372/thumbnails/thumbnail.jpg" width="600" alt="Video-Prompt eines flauschigen Häschens bei einer Hip-Hop-Tanzroutine">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2878)**
-
-**Author:** [Thoth Scribe](https://x.com/ThothScribe) | **Source:** [Link](https://x.com/ThothScribe/status/2041280248076226729) | **Published:** Apr 6, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2249,6 +2241,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-19T06:03:42.658Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-19T09:02:08.687Z</sub>
 
 </div>

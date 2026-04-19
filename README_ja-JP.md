@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **1129** |
+| 📝 プロンプト総数 | **1134** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-04-19** |
 
@@ -189,6 +189,101 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### はんだ付けリワーク作業の早送りシーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 技術的な作業台の環境を、タイムラプスまたは早送り効果で描いたシネマティックな動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+シネマティックな早送りスタイルで、作業台とはんだ付けリワークステーションを共有しながら小さなプロジェクトに取り組むオタクたち
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/835c2d1d0391542105bec8ee67cddfb5/thumbnails/thumbnail.jpg" width="600" alt="はんだ付けリワーク作業の早送りシーン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3339)**
+
+**作者:** [🇺🇸Us3rm0d🇺🇸](https://x.com/overituuugain) | **ソース:** [Link](https://x.com/overituuugain/status/2045596273705889853) | **公開日:** Apr 18, 2026
+
+---
+### リオへ向かう 19 世紀のキャラベル船のシネマティックな光景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 19 世紀のキャラベル船がリオデジャネイロを目指して航海する様子を描いた、シネマティックな動く絵画風のプロンプト。歴史的なポルトガルの帆を特徴としています。
+
+#### 📝 プロンプト
+
+```
+19 世紀の古代キャラベル船を描いたシネマティックな動く絵画。帆にはポルトガル植民地時代の十字架が描かれています。19 世紀のリオデジャネイロを目的地として、大海原を航海する様子。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f5589e4053ab0eb0b91b0e4051dc23b4/thumbnails/thumbnail.jpg" width="600" alt="リオへ向かう 19 世紀のキャラベル船のシネマティックな光景">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3343)**
+
+**作者:** [Lincon Venicios ⬛️⬜️🟨](https://x.com/LinconGallo) | **ソース:** [Link](https://x.com/LinconGallo/status/2045575035021103315) | **公開日:** Apr 18, 2026
+
+---
+### シネマティックな沿道の風景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mary Poppins のようなノスタルジックな雰囲気のハイウェイと、特定の標識を描写する grok-imagine 用の動画プロンプトです。
+
+#### 📝 プロンプト
+
+```
+ハイウェイへと続く道。道端には「もうすぐ家に着く」と書かれた標識がある。西を指す風見鶏には「これが私の真の北（this is my true north）」という言葉が刻まれている。Mary Poppins のワンシーンのような雰囲気で……。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f47683188757434b10f27a7f412ed6b4/thumbnails/thumbnail.jpg" width="600" alt="シネマティックな沿道の風景">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3340)**
+
+**作者:** [Sas](https://x.com/SaSHeaven26) | **ソース:** [Link](https://x.com/SaSHeaven26/status/2045530264302973186) | **公開日:** Apr 18, 2026
+
+---
+### クールな猫の着地アクション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 猫が着地し、クラッシュ現場からクールに歩き去る様子を描写するための、動的な grok-imagine プロンプトです。
+
+#### 📝 プロンプト
+
+```
+猫が優雅に足から着地し、クールに歩き去る。背後には地面に倒れた自転車。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/841df8f83cdf383323ca1b2703f0d5d0/thumbnails/thumbnail.jpg" width="600" alt="クールな猫の着地アクション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3342)**
+
+**作者:** [NightCafeDave](https://x.com/NightCafeDc6zp) | **ソース:** [Link](https://x.com/NightCafeDc6zp/status/2045482125563208123) | **公開日:** Apr 18, 2026
+
+---
+### シネマティックなドリーアウト映像
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Octane Render クオリティで滑らかなドリーアウトのカメラワークを実現するためのテクニカルビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+8 ～ 12 秒間の緩やかなドリーアウト映像、滑らかなカメラワーク、シネマティックな演出。シーンは Octane Render を使用し、ハイパーリアルなディテールとシネマティックな品質でレンダリングされています。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ce7f21ae3b536ac33751803b051be307/thumbnails/thumbnail.jpg" width="600" alt="シネマティックなドリーアウト映像">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3341)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2045344999479366043) | **公開日:** Apr 18, 2026
+
+---
 ### Crimson Seraph Dark Fantasy
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2088,110 +2183,6 @@ Grok のコメディアンがトランプ氏をからかい、トランプ氏が
 **作者:** [Quinn Woods-Robinson](https://x.com/QuinnWR) | **ソース:** [Link](https://x.com/QuinnWR/status/2041388099717173490) | **公開日:** Apr 7, 2026
 
 ---
-### 対話シーンの動画プロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine を使用して、男女間のドラマチックな対話シーンを描写する動画を生成するためのナラティブプロンプトです。
-
-#### 📝 プロンプト
-
-```
-男性が女性に向かって叫ぶ。「俺の年金を離せ、バージニア！」 老女が叫び返す。「あんたこそ離しなさいよ、ロジャー。この徴兵逃れのクズが！...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/07cb29c5b3546e4833664d9cfa3d6c32/thumbnails/thumbnail.jpg" width="600" alt="対話シーンの動画プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2956)**
-
-**作者:** [BerserkerMedic](https://x.com/davidmedic81) | **ソース:** [Link](https://x.com/davidmedic81/status/2041364258466734363) | **公開日:** Apr 7, 2026
-
----
-### ギタリストと浮かび上がる音符が描かれた映画のような夜の風景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 用のプロンプト。松の木、満月下の湖、小型の Airstream キャンピングカー、そして浜辺でギターを弾く女性が描かれた、穏やかで映画のような夜の風景。ギターから浮かび上がった音符が月を囲むように漂っています。
-
-#### 📝 プロンプト
-
-```
-背景に松の木、満月が浮かぶ湖、脇に小型の Airstream 型キャンピングカー、
-浜辺に小さな焚き火、浜辺でギターを弾く女性、ギターから浮かび上がった音符が月を囲むように漂っている
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/94e6b9476f4971f0447a9f3433c56787/thumbnails/thumbnail.jpg" width="600" alt="ギタリストと浮かび上がる音符が描かれた映画のような夜の風景">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2947)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2041353539390472400) | **公開日:** Apr 7, 2026
-
----
-### 馬にまたがるモデルの動画生成プロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> このプロンプトは、モデルがゆっくりと馬にまたがる様子に焦点を当てた動画クリップを生成します。カメラを固定することで、動作と動きを強調します。
-
-#### 📝 プロンプト
-
-```
-Let’s Ride…
-
-Yes…ride captain ride…
-
-カメラを固定した状態で、モデルがゆっくりと馬の背にまたがる様子を撮影します。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e5fd73266b1e05a1566f3d20e3b3440/thumbnails/thumbnail.jpg" width="600" alt="馬にまたがるモデルの動画生成プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2940)**
-
-**作者:** [Self-Improvement from the top](https://x.com/Danuel_san) | **ソース:** [Link](https://x.com/Danuel_san/status/2041348495047823415) | **公開日:** Apr 7, 2026
-
----
-### 東アジア系の女性サイボーグ戦士によるドラマチックなシネマティック・シークエンス
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 向けの、ドラマチックなシネマティック・シークエンスを記述した詳細な動画生成プロンプトです。ディストピア都市を舞台に、東アジア系の女性サイボーグ戦士が登場。損傷したアーマーや赤く光るサイバネティックな瞳のクローズアップから、スラスターを起動して空へと飛び立つまでの様子を描写しています。
-
-#### 📝 プロンプト
-
-```
-煙が立ち込める曇り空の下、ディストピアな未来都市を舞台にした、東アジア系の獰猛な女性サイボーグ戦士のドラマチックなシネマティック・シークエンス。動画は、彼女の滑らかな黒いロボットの右手のクローズアップから始まる。関節に沿って赤い光が脈動する精巧な金属製の指、アーマーにはかすかな傷や戦闘の痕跡が見える。
-カメラはゆっくりと上方にチルトし、損傷は激しいものの力強い全身のタクティカル・サイバネティック・アーマーを映し出す。マットブラックの装甲には赤い発光アクセントが施され、機械部品が露出し、彼女の顔には血痕が付着している。彼女の表情には激しい感情が宿る。眉をひそめ、口元や頬の切り傷からは血が滴り、赤く光るサイバネティックな瞳には水平方向の赤い光線が走る。彼女はゆっくりと瞬きをし、表情は苦痛から決意へと変化する。
-煙と遠くの火災、破壊された建物が立ち並ぶ荒廃した都市の戦場で、彼女は徐々に立ち上がる。彼女はダークバイザー付きの洗練された黒いタクティカル・ヘルメットを装着する。カメラは全身ショットへと引き、彼女が自信に満ちた様子で体を翻すと、ショルダーパッド、太もものホルスター、背面に装備された武器など、アーマーの全容が明らかになる。スーツ全体に赤いエネルギーラインが脈動する。
-最後の瞬間、彼女はスラスターを起動する。手足から明るいオレンジと白の炎が噴き出し、彼女は力強く空へと打ち上がる。爆発と黒い煙の尾が背景を埋め尽くす中、破壊された都市景観の上空へと急上昇していく。壮大で緊迫感のあるサイバーパンクな雰囲気、高精細、シネマティックなライティング、ダイナミックな動きとスローモーションの融合、赤い光が際立つダークでムードのあるカラーグレーディング。
-シネマティック、超リアル、8k、フォトリアル、ドラマチックなライティング、フィルムグレイン、激しいアクションシークエンス、12 秒、スムーズなカメラワーク、ゆっくりとしたチルトアップから引きのショット、最後のロケット打ち上げ
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fc5367c6cccbc88db363c98e812a3841/thumbnails/thumbnail.jpg" width="600" alt="東アジア系の女性サイボーグ戦士によるドラマチックなシネマティック・シークエンス">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2951)**
-
-**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **ソース:** [Link](https://x.com/ThoughCreator/status/2041307525140881679) | **公開日:** Apr 7, 2026
-
----
-### ヒップホップダンスを踊るふわふわのウサギの動画プロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 日差しが降り注ぐ草原で、ふわふわのウサギがエネルギッシュなヒップホップダンスを披露する 8 秒間のフォトリアルな春のアニメーション用 Grok Imagine プロンプト。スピンや人参の小道具、自信に満ちたフィニッシュまでを網羅しています。
-
-#### 📝 プロンプト
-
-```
-「日差しが降り注ぐ草原で、満開の桜の下、ふわふわのウサギが楽しそうにヒップホップダンスを踊る 8 秒間のエネルギッシュでフォトリアルな春のアニメーション。ダイナミックなスピンや耳をパタパタさせる動き、マイク代わりの人参を手に、自信たっぷりにポーズを決めてフィニッシュ。」
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e0b551f8d6c48a05d3f4d49ab1144372/thumbnails/thumbnail.jpg" width="600" alt="ヒップホップダンスを踊るふわふわのウサギの動画プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2878)**
-
-**作者:** [Thoth Scribe](https://x.com/ThothScribe) | **ソース:** [Link](https://x.com/ThothScribe/status/2041280248076226729) | **公開日:** Apr 6, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2253,6 +2244,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-04-19T06:03:29.778Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-04-19T09:02:01.079Z</sub>
 
 </div>
