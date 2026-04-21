@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **1154** |
+| 📝 총 프롬프트 수 | **1155** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-04-21** |
 
@@ -189,6 +189,25 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 미주리 강 위에서 펼쳐지는 우주선 전투
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 새로운 참조 기능을 사용하여 특정 강 풍경 위에서 펼쳐지는 영화 같은 우주선 전투 장면을 생성하는 Grok-imagine 비디오 생성 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+사우스다코타와 네브래스카 경계에 위치한 Lazy River Acres의 미주리 강 위에서 펼쳐지는 우주선 전투.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/73e94f590f28e5419f22b09d9c87f470/thumbnails/thumbnail.jpg" width="600" alt="미주리 강 위에서 펼쳐지는 우주선 전투">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3437)**
+
+**작성자:** [Hoff 🌙](https://x.com/HoffPlanet) | **출처:** [Link](https://x.com/HoffPlanet/status/2046440705908679139) | **게시일:** Apr 21, 2026
+
+---
 ### 발코니에 서 있는 여성의 산들바람 부는 장면
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2185,25 +2204,6 @@ refractive (굴절하는)
 **작성자:** [bluelittledigital](https://x.com/FreeSpeechElite) | **출처:** [Link](https://x.com/FreeSpeechElite/status/2041675607105298723) | **게시일:** Apr 8, 2026
 
 ---
-### 우아한 젊은 여성과 흰 여우를 담은 정교한 3D 아르데코 자수
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine을 위한 상세한 비디오 생성 프롬프트로, 정교한 3D 아르데코 자수 장면을 묘사합니다. 해 질 녘 도시 풍경이 내려다보이는 테라스에 앉아 있는 날씬한 젊은 여성과 흰 여우를 중심으로, 자수의 질감, 색상 및 영화 같은 렌더링 디테일을 구체적으로 설명합니다.
-
-#### 📝 프롬프트
-
-```
-매우 길고 가는 목을 가진 우아하고 날씬한 젊은 여성과 기품 있는 흰 여우가 해 질 녘 활기찬 도시 풍경이 내려다보이는 고급스러운 아르데코 테라스에 함께 앉아 있는 모습을 담은 정교한 3D 아르데코 자수. 여성은 물결치듯 옆으로 넘긴 실크 같은 흰색 아르데코 헤어스타일을 하고 있으며, 길고 섬세한 속눈썹이 달린 짙은 파란색 자수 눈, 작고 밝은 오렌지색 입술, 부드럽고 순수한 흰색 자수 피부를 가지고 있습니다. 그녀는 어깨에 오렌지색 기하학적 아르데코 패턴이 있고, 짙은 청록색 중앙 장식이 돋보이는 우아한 금색 테두리의 둥근 칼라가 달린 세련된 짙은 파란색 드레스를 입고 있습니다. 그녀 옆에는 표정이 살아있는 금빛 눈과 목과 귀에 복잡하고 밝은 금색 패턴이 새겨진 우아한 흰 여우가 앉아 있습니다. 매우 매끄러운 새틴 스티치 기법, 매끄러운 단색, 검은색 외곽선이나 윤곽선 없음, 부드럽고 고급스러운 자수 질감. 배경 도시 풍경에는 반짝이는 밝은 청록색, 금색, 흰색의 복잡하고 정교한 아르데코 패턴이 들어갑니다. 풍부하고 생동감 넘치는 색상 팔레트, 박물관 수준의 자수, 초정밀 디테일, 8K 해상도. Octane Render로 렌더링된 3D 자수, 영화 같은 조명, 우아하고 세련된 분위기.
-```
-
-<img src="https://cms-assets.youmind.com/media/1775634942887_9d8vu3_HFVz1L2bYAA-rl-.jpg" width="600" alt="우아한 젊은 여성과 흰 여우를 담은 정교한 3D 아르데코 자수">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=2950)**
-
-**작성자:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **출처:** [Link](https://x.com/iamhappy2026/status/2041665470710083929) | **게시일:** Apr 7, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2265,6 +2265,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-04-21T06:07:41.445Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-04-21T09:46:48.337Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1154** |
+| 📝 Total Prompts | **1155** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-04-21** |
 
@@ -189,6 +189,25 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Bataille de vaisseaux spatiaux au-dessus de la rivière Missouri
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de génération vidéo grok-imagine créant une scène de bataille spatiale cinématographique au-dessus d'un paysage fluvial spécifique, utilisant la nouvelle fonctionnalité de référence.
+
+#### 📝 Prompt
+
+```
+Bataille de vaisseaux spatiaux au-dessus de la rivière Missouri à Lazy River Acres, à la frontière du Dakota du Sud et du Nebraska.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/73e94f590f28e5419f22b09d9c87f470/thumbnails/thumbnail.jpg" width="600" alt="Bataille de vaisseaux spatiaux au-dessus de la rivière Missouri">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3437)**
+
+**Author:** [Hoff 🌙](https://x.com/HoffPlanet) | **Source:** [Link](https://x.com/HoffPlanet/status/2046440705908679139) | **Published:** Apr 21, 2026
+
+---
 ### Femme sur un balcon, scène avec brise
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2184,25 +2203,6 @@ Animez cette image précise pour en faire une vidéo cinématographique fluide d
 **Author:** [bluelittledigital](https://x.com/FreeSpeechElite) | **Source:** [Link](https://x.com/FreeSpeechElite/status/2041675607105298723) | **Published:** Apr 8, 2026
 
 ---
-### Broderie Art déco 3D ultra-détaillée d'une élégante jeune femme et d'un renard blanc
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de génération vidéo détaillé pour Grok Imagine décrivant une scène de broderie Art déco 3D riche en détails. Il met en scène une jeune femme svelte et un renard blanc assis sur une terrasse surplombant un paysage urbain au crépuscule, en se concentrant sur les textures brodées, les couleurs et les détails de rendu cinématographique.
-
-#### 📝 Prompt
-
-```
-Broderie Art déco 3D ultra-détaillée d'une élégante jeune femme svelte au cou très long et fin, assise gracieusement aux côtés d'un renard blanc élégant sur une luxueuse terrasse Art déco surplombant un paysage urbain vibrant au crépuscule. La femme arbore une coiffure Art déco fluide et ondulée sur le côté, des yeux bleu profond brodés avec de longs cils délicats, de minuscules lèvres orange vif et une peau brodée d'une blancheur pure et douce. Elle porte une robe bleu foncé sophistiquée avec des motifs géométriques Art déco orange sur les épaules et un élégant col rond bordé d'or avec un centre turquoise profond. À ses côtés se trouve un gracieux renard blanc aux yeux dorés expressifs et aux motifs dorés complexes sur le cou et les oreilles. Technique de point de satin exceptionnellement lisse, couleurs unies sans démarcation, sans contours noirs, texture brodée douce et luxueuse. Motifs Art déco fins et complexes en turquoise vif, or et blanc scintillants dans l'arrière-plan du paysage urbain. Palette de couleurs riche et vibrante, broderie de qualité muséale, ultra-détaillée, résolution 8K. Broderie 3D rendue avec Octane Render, éclairage cinématographique, atmosphère élégante et raffinée.
-```
-
-<img src="https://cms-assets.youmind.com/media/1775634942887_9d8vu3_HFVz1L2bYAA-rl-.jpg" width="600" alt="Broderie Art déco 3D ultra-détaillée d'une élégante jeune femme et d'un renard blanc">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2950)**
-
-**Author:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **Source:** [Link](https://x.com/iamhappy2026/status/2041665470710083929) | **Published:** Apr 7, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2264,6 +2264,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-21T06:07:49.637Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-21T09:47:00.156Z</sub>
 
 </div>

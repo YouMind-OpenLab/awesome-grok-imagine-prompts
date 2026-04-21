@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1154** |
+| 📝 Total Prompts | **1155** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-04-21** |
 
@@ -189,6 +189,25 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Missouri Nehri Üzerinde Uzay Gemisi Savaşı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yeni referans özelliğini kullanarak belirli bir nehir manzarası üzerinde sinematik bir uzay gemisi savaş sahnesi oluşturan bir grok-imagine video üretim istemi.
+
+#### 📝 Prompt
+
+```
+Güney Dakota ve Nebraska sınırındaki Lazy River Acres'te, Missouri Nehri üzerinde uzay gemisi savaşı.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/73e94f590f28e5419f22b09d9c87f470/thumbnails/thumbnail.jpg" width="600" alt="Missouri Nehri Üzerinde Uzay Gemisi Savaşı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3437)**
+
+**Author:** [Hoff 🌙](https://x.com/HoffPlanet) | **Source:** [Link](https://x.com/HoffPlanet/status/2046440705908679139) | **Published:** Apr 21, 2026
+
+---
 ### Balkondaki Kadın Esintili Sahne
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2177,25 +2196,6 @@ Bu görseli tam olarak 12 saniyelik akıcı, sinematik bir videoya dönüştür�
 **Author:** [bluelittledigital](https://x.com/FreeSpeechElite) | **Source:** [Link](https://x.com/FreeSpeechElite/status/2041675607105298723) | **Published:** Apr 8, 2026
 
 ---
-### Zarif genç bir kadın ve beyaz bir tilkinin son derece detaylı 3D Art Deco işlemesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için, son derece detaylı bir 3D Art Deco işleme sahnesini tanımlayan ayrıntılı bir video oluşturma istemi. Alacakaranlıkta şehir manzarasına bakan bir terasta oturan ince yapılı genç bir kadın ve beyaz bir tilkiyi konu alıyor; belirli işleme dokularına, renklere ve sinematik render detaylarına odaklanıyor.
-
-#### 📝 Prompt
-
-```
-Çok uzun ve ince boyunlu, zarif ve ince yapılı genç bir kadının, alacakaranlıkta canlı bir şehir manzarasına bakan lüks bir Art Deco terasında zarif bir beyaz tilkiyle birlikte oturduğu, son derece detaylı 3D Art Deco işlemesi. Kadının yandan taranmış, dalgalı, ipeksi beyaz Art Deco saç modeli, uzun ve narin kirpikli, işlemeli koyu mavi gözleri, minik parlak turuncu dudakları ve saf, yumuşak beyaz işlemeli bir teni var. Omuzlarında turuncu geometrik Art Deco desenleri olan sofistike koyu mavi bir elbise ve derin turkuaz merkezli, zarif, altın kenarlı yuvarlak bir yaka giyiyor. Yanında, etkileyici altın rengi gözleri olan ve boynunda ve kulaklarında karmaşık parlak altın desenler bulunan zarif bir beyaz tilki oturuyor. Olağanüstü pürüzsüz saten dikiş tekniği, kusursuz düz renkler, siyah ana hatlar veya konturlar yok, yumuşak ve lüks işlemeli doku. Şehir manzarası arka planında parıldayan parlak turkuaz, altın ve beyaz renklerde karmaşık ince Art Deco desenleri. Zengin, canlı renk paleti, müze kalitesinde işleme, ultra detaylı, 8K çözünürlük. Octane Render ile oluşturulmuş 3D işleme, sinematik aydınlatma, zarif ve rafine bir atmosfer.
-```
-
-<img src="https://cms-assets.youmind.com/media/1775634942887_9d8vu3_HFVz1L2bYAA-rl-.jpg" width="600" alt="Zarif genç bir kadın ve beyaz bir tilkinin son derece detaylı 3D Art Deco işlemesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2950)**
-
-**Author:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **Source:** [Link](https://x.com/iamhappy2026/status/2041665470710083929) | **Published:** Apr 7, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2257,6 +2257,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-21T06:07:54.199Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-21T09:47:06.137Z</sub>
 
 </div>

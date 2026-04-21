@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **1154** |
+| 📝 プロンプト総数 | **1155** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-04-21** |
 
@@ -189,6 +189,25 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### ミズーリ川上空での宇宙船バトル
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 新しいリファレンス機能を使用して、特定の川の風景の上空で繰り広げられる映画のような宇宙船バトルのシーンを作成するための、grok-imagine 動画生成プロンプトです。
+
+#### 📝 プロンプト
+
+```
+サウスダコタ州とネブラスカ州の境界にある Lazy River Acres のミズーリ川上空での宇宙船バトル。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/73e94f590f28e5419f22b09d9c87f470/thumbnails/thumbnail.jpg" width="600" alt="ミズーリ川上空での宇宙船バトル">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3437)**
+
+**作者:** [Hoff 🌙](https://x.com/HoffPlanet) | **ソース:** [Link](https://x.com/HoffPlanet/status/2046440705908679139) | **公開日:** Apr 21, 2026
+
+---
 ### バルコニーに立つ女性のそよ風のシーン
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2187,25 +2206,6 @@ refractive (屈折する)
 **作者:** [bluelittledigital](https://x.com/FreeSpeechElite) | **ソース:** [Link](https://x.com/FreeSpeechElite/status/2041675607105298723) | **公開日:** Apr 8, 2026
 
 ---
-### エレガントな若い女性と白い狐を描いた、精巧な 3D アール・デコ調刺繍
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 用の精巧な 3D アール・デコ調刺繍シーンを記述した動画生成プロンプトです。夕暮れの街並みを望むテラスに座るスリムな若い女性と白い狐を題材に、刺繍特有の質感や色彩、映画のようなレンダリングのディテールに焦点を当てています。
-
-#### 📝 プロンプト
-
-```
-非常に細長い首を持つエレガントでスリムな若い女性と、優雅な白い狐が、夕暮れの活気ある街並みを望む豪華なアール・デコ調のテラスに並んで座っている様子を表現した、精巧な 3D アール・デコ調刺繍。女性は、サイドに流したシルクのような白いアール・デコ調のウェーブヘアで、長く繊細なまつ毛を持つ深い青色の刺繍の瞳、小さな鮮やかなオレンジ色の唇、そして純白で柔らかな刺繍の肌をしている。彼女は、肩にオレンジ色の幾何学的なアール・デコ模様が施され、中央に深いターコイズブルーをあしらったエレガントなゴールド縁取りの丸襟の洗練されたダークブルーのドレスを着用している。彼女の隣には、表情豊かな黄金の瞳を持ち、首と耳に鮮やかなゴールドの複雑な模様が施された優雅な白い狐が座っている。非常に滑らかなサテンステッチ技法、継ぎ目のないソリッドカラー、黒い輪郭線や縁取りはなく、柔らかく豪華な刺繍の質感が特徴。背景の街並みには、きらめく鮮やかなターコイズブルー、ゴールド、ホワイトによる複雑で繊細なアール・デコ模様が描かれている。リッチで鮮やかなカラーパレット、美術館品質の刺繍、超高精細、8K 解像度。Octane Render でレンダリングされた 3D 刺繍、映画のようなライティング、エレガントで洗練された雰囲気。
-```
-
-<img src="https://cms-assets.youmind.com/media/1775634942887_9d8vu3_HFVz1L2bYAA-rl-.jpg" width="600" alt="エレガントな若い女性と白い狐を描いた、精巧な 3D アール・デコ調刺繍">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=2950)**
-
-**作者:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **ソース:** [Link](https://x.com/iamhappy2026/status/2041665470710083929) | **公開日:** Apr 7, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2267,6 +2267,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-04-21T06:07:40.385Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-04-21T09:46:46.386Z</sub>
 
 </div>

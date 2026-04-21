@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1154** |
+| 📝 Total Prompts | **1155** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-04-21** |
 
@@ -189,6 +189,25 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### การต่อสู้ของยานอวกาศเหนือแม่น้ำมิสซูรี
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างวิดีโอด้วย grok-imagine เพื่อสร้างฉากการต่อสู้ของยานอวกาศแบบภาพยนตร์เหนือภูมิประเทศแม่น้ำแห่งหนึ่ง โดยใช้ฟีเจอร์อ้างอิงใหม่
+
+#### 📝 Prompt
+
+```
+การต่อสู้ของยานอวกาศเหนือแม่น้ำมิสซูรีที่ Lazy River Acres บริเวณพรมแดนรัฐเซาท์ดาโคตาและเนแบรสกา
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/73e94f590f28e5419f22b09d9c87f470/thumbnails/thumbnail.jpg" width="600" alt="การต่อสู้ของยานอวกาศเหนือแม่น้ำมิสซูรี">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3437)**
+
+**Author:** [Hoff 🌙](https://x.com/HoffPlanet) | **Source:** [Link](https://x.com/HoffPlanet/status/2046440705908679139) | **Published:** Apr 21, 2026
+
+---
 ### หญิงสาวบนระเบียงท่ามกลางบรรยากาศลมพัดเย็นสบาย
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2190,25 +2209,6 @@ refractive (การหักเหของแสง)
 **Author:** [bluelittledigital](https://x.com/FreeSpeechElite) | **Source:** [Link](https://x.com/FreeSpeechElite/status/2041675607105298723) | **Published:** Apr 8, 2026
 
 ---
-### งานปัก 3D สไตล์อาร์ตเดโคสุดประณีตของหญิงสาวผู้สง่างามและสุนัขจิ้งจอกสีขาว
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับสร้างวิดีโอโดย Grok Imagine ที่บรรยายถึงฉากงานปัก 3D สไตล์อาร์ตเดโคที่มีรายละเอียดสูง โดยมีหญิงสาวรูปร่างเพรียวบางและสุนัขจิ้งจอกสีขาวนั่งอยู่บนระเบียงที่มองเห็นทิวทัศน์เมืองในช่วงพลบค่ำ เน้นไปที่รายละเอียดของพื้นผิวงานปัก สีสัน และการเรนเดอร์ในรูปแบบภาพยนตร์
-
-#### 📝 Prompt
-
-```
-งานปัก 3D สไตล์อาร์ตเดโคสุดประณีตของหญิงสาวรูปร่างเพรียวบางผู้สง่างามที่มีลำคอระหง นั่งเคียงข้างกับสุนัขจิ้งจอกสีขาวแสนสง่างามบนระเบียงสไตล์อาร์ตเดโคสุดหรูที่มองเห็นทิวทัศน์เมืองอันมีชีวิตชีวาในช่วงพลบค่ำ หญิงสาวมีทรงผมสไตล์อาร์ตเดโคสีขาวนวลเป็นลอนคลื่นปัดข้าง ดวงตาสีน้ำเงินเข้มที่ปักอย่างประณีตพร้อมขนตายาวเรียงเส้นสวย ริมฝีปากสีส้มสดใสขนาดเล็ก และผิวพรรณสีขาวนวลเนียนที่ดูนุ่มนวล เธอสวมชุดเดรสสีน้ำเงินเข้มที่ดูซับซ้อนพร้อมลวดลายเรขาคณิตสไตล์อาร์ตเดโคสีส้มบนไหล่ และปกเสื้อทรงกลมขอบทองอันหรูหราที่มีจุดศูนย์กลางเป็นสีเทอร์ควอยซ์เข้ม ข้างกายเธอมีสุนัขจิ้งจอกสีขาวแสนสง่างามที่มีดวงตาสีทองสื่ออารมณ์และลวดลายสีทองสดใสที่ซับซ้อนบริเวณคอและหู เทคนิคการปักซาตินที่เรียบเนียนเป็นพิเศษ สีสันที่กลมกลืนไร้รอยต่อ ไม่มีเส้นขอบหรือโครงร่างสีดำ ให้สัมผัสของงานปักที่นุ่มนวลและหรูหรา ลวดลายอาร์ตเดโคที่ละเอียดอ่อนในพื้นหลังของเมืองด้วยสีเทอร์ควอยซ์ สีทอง และสีขาวที่เปล่งประกาย จานสีที่เข้มข้นและสดใส งานปักคุณภาพระดับพิพิธภัณฑ์ รายละเอียดสูงพิเศษ ความละเอียด 8K งานปัก 3D ที่เรนเดอร์ด้วย Octane Render แสงแบบภาพยนตร์ บรรยากาศที่หรูหราและประณีต
-```
-
-<img src="https://cms-assets.youmind.com/media/1775634942887_9d8vu3_HFVz1L2bYAA-rl-.jpg" width="600" alt="งานปัก 3D สไตล์อาร์ตเดโคสุดประณีตของหญิงสาวผู้สง่างามและสุนัขจิ้งจอกสีขาว">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2950)**
-
-**Author:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **Source:** [Link](https://x.com/iamhappy2026/status/2041665470710083929) | **Published:** Apr 7, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2270,6 +2270,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-21T06:07:42.716Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-21T09:46:50.317Z</sub>
 
 </div>

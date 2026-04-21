@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1154** |
+| 📝 Total Prompts | **1155** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-04-21** |
 
@@ -189,6 +189,25 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Spaceship Battle Over Missouri River
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A grok-imagine video generation prompt creating a cinematic spaceship battle scene over a specific river landscape using the new reference feature.
+
+#### 📝 Prompt
+
+```
+Spaceship battle over the Missouri River at Lazy rRver Acres at SD and NE border.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/73e94f590f28e5419f22b09d9c87f470/thumbnails/thumbnail.jpg" width="600" alt="Spaceship Battle Over Missouri River">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3437)**
+
+**Author:** [Hoff 🌙](https://x.com/HoffPlanet) | **Source:** [Link](https://x.com/HoffPlanet/status/2046440705908679139) | **Published:** Apr 21, 2026
+
+---
 ### Woman on Balcony Breezy Scene
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2173,25 +2192,6 @@ Animate this exact image into a smooth 12-second cinematic video. Start with the
 **Author:** [bluelittledigital](https://x.com/FreeSpeechElite) | **Source:** [Link](https://x.com/FreeSpeechElite/status/2041675607105298723) | **Published:** Apr 8, 2026
 
 ---
-### Highly detailed 3D Art Deco embroidery of an elegant young woman and a white fox
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed video generation prompt for Grok Imagine describing a highly detailed 3D Art Deco embroidery scene. It features a slender young woman and a white fox sitting on a terrace overlooking a cityscape at dusk, focusing on specific embroidered textures, colors, and cinematic rendering details.
-
-#### 📝 Prompt
-
-```
-Highly detailed 3D Art Deco embroidery of an elegant slender young woman with a very long thin neck, gracefully sitting together with a graceful white fox on a luxurious Art Deco terrace overlooking a vibrant cityscape at dusk. The woman has flowing wavy side-swept silky white Art Deco hairstyle, embroidered deep blue eyes with long delicate lashes, tiny bright orange lips, and pure soft white embroidered skin. She wears a sophisticated dark blue dress with orange geometric Art Deco patterns on the shoulders and an elegant round gold-bordered collar featuring a deep turquoise center. Beside her sits a graceful white fox with expressive golden eyes and intricate bright gold patterns on its neck and ears. Exceptionally smooth satin stitch technique, seamless solid colors, no black outlines or contours, soft luxurious embroidered texture. Intricate fine Art Deco patterns in shimmering bright turquoise, gold, and white in the cityscape background. Rich, vibrant color palette, museum-quality embroidery, ultra-detailed, 8K resolution. 3D embroidery rendered in Octane Render, cinematic lighting, elegant and refined atmosphere.
-```
-
-<img src="https://cms-assets.youmind.com/media/1775634942887_9d8vu3_HFVz1L2bYAA-rl-.jpg" width="600" alt="Highly detailed 3D Art Deco embroidery of an elegant young woman and a white fox">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2950)**
-
-**Author:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **Source:** [Link](https://x.com/iamhappy2026/status/2041665470710083929) | **Published:** Apr 7, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2253,6 +2253,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-21T06:07:36.906Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-21T09:46:40.494Z</sub>
 
 </div>

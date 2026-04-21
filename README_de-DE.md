@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1154** |
+| 📝 Total Prompts | **1155** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-04-21** |
 
@@ -189,6 +189,25 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Raumschiffschlacht über dem Missouri River
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Grok-Imagine-Video-Generierungs-Prompt für eine filmreife Raumschiffschlacht über einer spezifischen Flusslandschaft unter Verwendung der neuen Referenzfunktion.
+
+#### 📝 Prompt
+
+```
+Raumschiffschlacht über dem Missouri River bei Lazy River Acres an der Grenze zwischen South Dakota und Nebraska.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/73e94f590f28e5419f22b09d9c87f470/thumbnails/thumbnail.jpg" width="600" alt="Raumschiffschlacht über dem Missouri River">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3437)**
+
+**Author:** [Hoff 🌙](https://x.com/HoffPlanet) | **Source:** [Link](https://x.com/HoffPlanet/status/2046440705908679139) | **Published:** Apr 21, 2026
+
+---
 ### Frau auf dem Balkon in einer luftigen Szene
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2184,25 +2203,6 @@ Animieren Sie genau dieses Bild in ein flüssiges, 12-sekündiges filmisches Vid
 **Author:** [bluelittledigital](https://x.com/FreeSpeechElite) | **Source:** [Link](https://x.com/FreeSpeechElite/status/2041675607105298723) | **Published:** Apr 8, 2026
 
 ---
-### Hochdetaillierte 3D-Art-déco-Stickerei einer eleganten jungen Frau und eines weißen Fuchses
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Video-Generierungs-Prompt für Grok Imagine, der eine hochdetaillierte 3D-Art-déco-Stickerei beschreibt. Er zeigt eine schlanke junge Frau und einen weißen Fuchs, die auf einer Terrasse mit Blick auf eine Stadtkulisse in der Abenddämmerung sitzen, mit Fokus auf spezifische Sticktexturen, Farben und filmische Rendering-Details.
-
-#### 📝 Prompt
-
-```
-Hochdetaillierte 3D-Art-déco-Stickerei einer eleganten, schlanken jungen Frau mit sehr langem, dünnem Hals, die anmutig zusammen mit einem graziösen weißen Fuchs auf einer luxuriösen Art-déco-Terrasse mit Blick auf eine lebendige Stadtkulisse in der Abenddämmerung sitzt. Die Frau hat eine fließende, wellige, seitlich frisierte, seidig-weiße Art-déco-Frisur, gestickte tiefblaue Augen mit langen, feinen Wimpern, winzige leuchtend orangefarbene Lippen und reine, weiche, weiß gestickte Haut. Sie trägt ein raffiniertes dunkelblaues Kleid mit orangefarbenen geometrischen Art-déco-Mustern an den Schultern und einen eleganten, rund goldgeränderten Kragen mit einem tiefen Türkis in der Mitte. Neben ihr sitzt ein anmutiger weißer Fuchs mit ausdrucksstarken goldenen Augen und komplizierten leuchtend goldenen Mustern an Hals und Ohren. Außergewöhnlich glatte Plattstichtechnik, nahtlose Volltonfarben, keine schwarzen Umrisse oder Konturen, weiche, luxuriöse Sticktextur. Komplizierte, feine Art-déco-Muster in schimmerndem hellem Türkis, Gold und Weiß im Hintergrund der Stadtkulisse. Reiche, lebendige Farbpalette, Stickerei in Museumsqualität, ultra-detailliert, 8K-Auflösung. 3D-Stickerei gerendert in Octane Render, filmische Beleuchtung, elegante und raffinierte Atmosphäre.
-```
-
-<img src="https://cms-assets.youmind.com/media/1775634942887_9d8vu3_HFVz1L2bYAA-rl-.jpg" width="600" alt="Hochdetaillierte 3D-Art-déco-Stickerei einer eleganten jungen Frau und eines weißen Fuchses">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2950)**
-
-**Author:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **Source:** [Link](https://x.com/iamhappy2026/status/2041665470710083929) | **Published:** Apr 7, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2264,6 +2264,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-21T06:07:48.510Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-21T09:46:58.900Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1154** |
+| 📝 Total Prompts | **1155** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-04-21** |
 
@@ -189,6 +189,25 @@ Uma Valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Batalha de naves espaciais sobre o Rio Missouri
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de geração de vídeo do grok-imagine que cria uma cena cinematográfica de batalha de naves espaciais sobre uma paisagem fluvial específica, utilizando o novo recurso de referência.
+
+#### 📝 Prompt
+
+```
+Batalha de naves espaciais sobre o Rio Missouri em Lazy River Acres, na fronteira entre SD e NE.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/73e94f590f28e5419f22b09d9c87f470/thumbnails/thumbnail.jpg" width="600" alt="Batalha de naves espaciais sobre o Rio Missouri">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3437)**
+
+**Author:** [Hoff 🌙](https://x.com/HoffPlanet) | **Source:** [Link](https://x.com/HoffPlanet/status/2046440705908679139) | **Published:** Apr 21, 2026
+
+---
 ### Mulher na varanda em cena com brisa
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2177,25 +2196,6 @@ Anime esta imagem exata em um vídeo cinematográfico fluido de 12 segundos. Com
 **Author:** [bluelittledigital](https://x.com/FreeSpeechElite) | **Source:** [Link](https://x.com/FreeSpeechElite/status/2041675607105298723) | **Published:** Apr 8, 2026
 
 ---
-### Bordado 3D Art Déco altamente detalhado de uma jovem elegante e uma raposa branca
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado de geração de vídeo para o Grok Imagine, descrevendo uma cena de bordado 3D Art Déco altamente detalhada. Apresenta uma jovem esguia e uma raposa branca sentadas em um terraço com vista para uma paisagem urbana ao anoitecer, focando em texturas de bordado específicas, cores e detalhes de renderização cinematográfica.
-
-#### 📝 Prompt
-
-```
-Bordado 3D Art Déco altamente detalhado de uma jovem elegante e esguia com um pescoço muito longo e fino, sentada graciosamente ao lado de uma raposa branca elegante em um luxuoso terraço Art Déco com vista para uma paisagem urbana vibrante ao anoitecer. A mulher tem um penteado Art Déco branco sedoso, ondulado e jogado para o lado, olhos bordados em azul profundo com cílios longos e delicados, lábios pequenos em laranja brilhante e pele bordada pura, macia e branca. Ela veste um vestido azul-escuro sofisticado com padrões geométricos Art Déco em laranja nos ombros e um elegante colarinho redondo com bordas douradas e um centro em turquesa profundo. Ao lado dela, senta-se uma raposa branca graciosa com olhos dourados expressivos e padrões intrincados em ouro brilhante no pescoço e nas orelhas. Técnica de ponto de cetim excepcionalmente suave, cores sólidas e uniformes, sem contornos pretos, textura bordada macia e luxuosa. Padrões Art Déco intrincados e finos em turquesa brilhante, dourado e branco no fundo da paisagem urbana. Paleta de cores rica e vibrante, bordado com qualidade de museu, ultra-detalhado, resolução 8K. Bordado 3D renderizado em Octane Render, iluminação cinematográfica, atmosfera elegante e refinada.
-```
-
-<img src="https://cms-assets.youmind.com/media/1775634942887_9d8vu3_HFVz1L2bYAA-rl-.jpg" width="600" alt="Bordado 3D Art Déco altamente detalhado de uma jovem elegante e uma raposa branca">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2950)**
-
-**Author:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **Source:** [Link](https://x.com/iamhappy2026/status/2041665470710083929) | **Published:** Apr 7, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2257,6 +2257,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-21T06:07:53.072Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-21T09:47:04.842Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **1154** |
+| 📝 提示词总数 | **1155** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-04-21** |
 
@@ -189,6 +189,25 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 密苏里河上空的太空飞船大战
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 这是一个使用 grok-imagine 视频生成功能的提示词，旨在利用全新的参考功能，创作出一段密苏里河景观上空的电影级太空飞船战斗场景。
+
+#### 📝 提示词
+
+```
+密苏里河上空的太空飞船大战，地点位于南达科他州与内布拉斯加州边界的 Lazy River Acres。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/73e94f590f28e5419f22b09d9c87f470/thumbnails/thumbnail.jpg" width="600" alt="密苏里河上空的太空飞船大战">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3437)**
+
+**作者:** [Hoff 🌙](https://x.com/HoffPlanet) | **来源:** [Link](https://x.com/HoffPlanet/status/2046440705908679139) | **发布时间:** Apr 21, 2026
+
+---
 ### 阳台上的女子与微风场景
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2184,25 +2203,6 @@ refractive (折射的)
 **作者:** [bluelittledigital](https://x.com/FreeSpeechElite) | **来源:** [Link](https://x.com/FreeSpeechElite/status/2041675607105298723) | **发布时间:** Apr 8, 2026
 
 ---
-### 精致的 3D 装饰艺术风格刺绣：优雅年轻女子与白狐
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是一个为 Grok Imagine 设计的详细视频生成提示词，描述了一个高度精细的 3D 装饰艺术（Art Deco）风格刺绣场景。画面展现了一位苗条的年轻女子与一只白狐坐在露台上，俯瞰黄昏时的城市景观，重点突出了刺绣的纹理、色彩及电影级的渲染细节。
-
-#### 📝 提示词
-
-```
-高度精细的 3D 装饰艺术（Art Deco）风格刺绣，画面中一位拥有修长脖颈的优雅苗条女子，与一只姿态优美的白狐一同坐在奢华的装饰艺术风格露台上，俯瞰黄昏时分充满活力的城市景观。女子留着飘逸的侧分波浪丝滑白色装饰艺术发型，绣出的深蓝色双眸配有细长的睫毛，嘴唇呈明亮的橙色，皮肤呈现出纯净柔软的白色刺绣质感。她身着一件精致的深蓝色礼服，肩部饰有橙色几何装饰艺术图案，圆形的金色边领中央镶嵌着深绿松石色。她身旁坐着一只优雅的白狐，有着灵动的金色双眼，颈部和耳朵上饰有精巧的亮金色图案。采用极其平滑的缎面绣工艺，色彩纯净无缝，无黑色轮廓线，呈现出柔软奢华的刺绣质感。背景城市景观中融入了闪烁着明亮绿松石色、金色和白色的精细装饰艺术图案。色彩丰富鲜艳，博物馆级刺绣工艺，超高细节，8K 分辨率。3D 刺绣采用 Octane Render 渲染，电影级光影，氛围优雅而精致。
-```
-
-<img src="https://cms-assets.youmind.com/media/1775634942887_9d8vu3_HFVz1L2bYAA-rl-.jpg" width="600" alt="精致的 3D 装饰艺术风格刺绣：优雅年轻女子与白狐">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=2950)**
-
-**作者:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **来源:** [Link](https://x.com/iamhappy2026/status/2041665470710083929) | **发布时间:** Apr 7, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2264,6 +2264,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-04-21T06:07:38.022Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-04-21T09:46:42.410Z</sub>
 
 </div>

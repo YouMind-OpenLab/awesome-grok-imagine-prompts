@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1154** |
+| 📝 Total Prompts | **1155** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-04-21** |
 
@@ -189,6 +189,25 @@ Una mistica e nobile Valchiria celestiale, una donna dignitosa e bellissima con 
 
 > 📝 Sorted by publish date (newest first)
 
+### Battaglia tra astronavi sopra il fiume Missouri
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt di generazione video grok-imagine per creare una scena cinematografica di battaglia tra astronavi sopra un paesaggio fluviale specifico, utilizzando la nuova funzione di riferimento.
+
+#### 📝 Prompt
+
+```
+Battaglia tra astronavi sopra il fiume Missouri presso Lazy River Acres, al confine tra SD e NE.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/73e94f590f28e5419f22b09d9c87f470/thumbnails/thumbnail.jpg" width="600" alt="Battaglia tra astronavi sopra il fiume Missouri">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3437)**
+
+**Author:** [Hoff 🌙](https://x.com/HoffPlanet) | **Source:** [Link](https://x.com/HoffPlanet/status/2046440705908679139) | **Published:** Apr 21, 2026
+
+---
 ### Donna su un balcone in una scena ventilata
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2184,25 +2203,6 @@ Anima esattamente questa immagine in un video cinematografico fluido di 12 secon
 **Author:** [bluelittledigital](https://x.com/FreeSpeechElite) | **Source:** [Link](https://x.com/FreeSpeechElite/status/2041675607105298723) | **Published:** Apr 8, 2026
 
 ---
-### Ricamo 3D Art Déco altamente dettagliato di un'elegante giovane donna e una volpe bianca
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt dettagliato per la generazione di video con Grok Imagine che descrive una scena di ricamo 3D Art Déco ricca di dettagli. Raffigura una giovane donna slanciata e una volpe bianca sedute su una terrazza che si affaccia su un paesaggio urbano al crepuscolo, concentrandosi su texture ricamate specifiche, colori e dettagli di rendering cinematografico.
-
-#### 📝 Prompt
-
-```
-Ricamo 3D Art Déco altamente dettagliato di un'elegante giovane donna slanciata dal collo molto lungo e sottile, seduta con grazia insieme a una raffinata volpe bianca su una lussuosa terrazza Art Déco che si affaccia su un vivace paesaggio urbano al crepuscolo. La donna ha un'acconciatura Art Déco fluida, mossa e pettinata di lato, color bianco seta, occhi ricamati blu intenso con ciglia lunghe e delicate, labbra minuscole color arancione brillante e una pelle ricamata pura, morbida e bianca. Indossa un sofisticato abito blu scuro con motivi geometrici Art Déco arancioni sulle spalle e un elegante colletto rotondo bordato d'oro con un centro turchese intenso. Accanto a lei siede una graziosa volpe bianca con espressivi occhi dorati e intricati motivi in oro brillante sul collo e sulle orecchie. Tecnica a punto raso eccezionalmente liscia, colori pieni e uniformi, senza contorni neri, texture ricamata morbida e lussuosa. Intricati motivi Art Déco raffinati in turchese brillante, oro e bianco scintillante nello sfondo del paesaggio urbano. Tavolozza di colori ricca e vibrante, ricamo di qualità museale, ultra-dettagliato, risoluzione 8K. Ricamo 3D renderizzato in Octane Render, illuminazione cinematografica, atmosfera elegante e raffinata.
-```
-
-<img src="https://cms-assets.youmind.com/media/1775634942887_9d8vu3_HFVz1L2bYAA-rl-.jpg" width="600" alt="Ricamo 3D Art Déco altamente dettagliato di un'elegante giovane donna e una volpe bianca">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2950)**
-
-**Author:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **Source:** [Link](https://x.com/iamhappy2026/status/2041665470710083929) | **Published:** Apr 7, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2264,6 +2264,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-21T06:07:50.749Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-21T09:47:01.465Z</sub>
 
 </div>

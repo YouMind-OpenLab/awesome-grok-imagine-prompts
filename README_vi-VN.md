@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1154** |
+| 📝 Total Prompts | **1155** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-04-21** |
 
@@ -189,6 +189,25 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Trận chiến tàu vũ trụ trên sông Missouri
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video grok-imagine giúp tạo ra cảnh chiến đấu giữa các tàu vũ trụ đầy điện ảnh trên khung cảnh dòng sông cụ thể, sử dụng tính năng tham chiếu mới.
+
+#### 📝 Prompt
+
+```
+Trận chiến tàu vũ trụ trên sông Missouri tại Lazy River Acres ở biên giới SD và NE.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/73e94f590f28e5419f22b09d9c87f470/thumbnails/thumbnail.jpg" width="600" alt="Trận chiến tàu vũ trụ trên sông Missouri">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3437)**
+
+**Author:** [Hoff 🌙](https://x.com/HoffPlanet) | **Source:** [Link](https://x.com/HoffPlanet/status/2046440705908679139) | **Published:** Apr 21, 2026
+
+---
 ### Người phụ nữ trên ban công trong khung cảnh lộng gió
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2177,25 +2196,6 @@ Hãy tạo chuyển động cho hình ảnh này thành một video điện ản
 **Author:** [bluelittledigital](https://x.com/FreeSpeechElite) | **Source:** [Link](https://x.com/FreeSpeechElite/status/2041675607105298723) | **Published:** Apr 8, 2026
 
 ---
-### Tranh thêu 3D phong cách Art Deco cực kỳ chi tiết về một thiếu nữ thanh lịch và chú cáo trắng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video chi tiết cho Grok Imagine, mô tả cảnh tranh thêu 3D phong cách Art Deco đầy tinh xảo. Hình ảnh bao gồm một thiếu nữ mảnh mai và một chú cáo trắng đang ngồi trên sân thượng nhìn ra cảnh quan thành phố lúc hoàng hôn, tập trung vào các kết cấu thêu, màu sắc và chi tiết kết xuất điện ảnh cụ thể.
-
-#### 📝 Prompt
-
-```
-Tranh thêu 3D phong cách Art Deco cực kỳ chi tiết về một thiếu nữ mảnh mai, thanh lịch với chiếc cổ cao và thon dài, đang duyên dáng ngồi cùng một chú cáo trắng yêu kiều trên sân thượng Art Deco sang trọng nhìn ra cảnh quan thành phố rực rỡ lúc hoàng hôn. Thiếu nữ có mái tóc Art Deco màu trắng mượt mà, gợn sóng, vuốt sang một bên, đôi mắt thêu màu xanh thẫm với hàng mi dài tinh tế, đôi môi nhỏ nhắn màu cam sáng và làn da thêu trắng mịn thuần khiết. Cô mặc chiếc váy xanh thẫm tinh tế với các họa tiết hình học Art Deco màu cam trên vai và cổ áo tròn viền vàng thanh lịch với điểm nhấn màu ngọc lam đậm ở trung tâm. Bên cạnh cô là chú cáo trắng duyên dáng với đôi mắt vàng biểu cảm cùng những họa tiết vàng sáng tinh xảo trên cổ và tai. Kỹ thuật thêu satin cực kỳ mượt mà, màu sắc đồng nhất liền mạch, không có đường viền hay nét đen, kết cấu thêu mềm mại sang trọng. Các họa tiết Art Deco tinh xảo, sắc nét với màu ngọc lam, vàng và trắng lấp lánh ở hậu cảnh thành phố. Bảng màu phong phú, rực rỡ, tranh thêu chất lượng bảo tàng, siêu chi tiết, độ phân giải 8K. Tranh thêu 3D được kết xuất bằng Octane Render, ánh sáng điện ảnh, không gian thanh lịch và tinh tế.
-```
-
-<img src="https://cms-assets.youmind.com/media/1775634942887_9d8vu3_HFVz1L2bYAA-rl-.jpg" width="600" alt="Tranh thêu 3D phong cách Art Deco cực kỳ chi tiết về một thiếu nữ thanh lịch và chú cáo trắng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2950)**
-
-**Author:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **Source:** [Link](https://x.com/iamhappy2026/status/2041665470710083929) | **Published:** Apr 7, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2257,6 +2257,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-21T06:07:43.910Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-21T09:46:52.315Z</sub>
 
 </div>

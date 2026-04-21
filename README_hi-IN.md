@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1154** |
+| 📝 Total Prompts | **1155** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-04-21** |
 
@@ -189,6 +189,25 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### मिसौरी नदी के ऊपर अंतरिक्ष यान की लड़ाई
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक grok-imagine वीडियो जनरेशन प्रॉम्प्ट, जो नए रेफरेंस फीचर का उपयोग करके एक विशिष्ट नदी परिदृश्य के ऊपर एक सिनेमाई अंतरिक्ष यान युद्ध दृश्य बनाता है।
+
+#### 📝 Prompt
+
+```
+SD और NE सीमा पर Lazy River Acres में मिसौरी नदी के ऊपर अंतरिक्ष यान की लड़ाई।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/73e94f590f28e5419f22b09d9c87f470/thumbnails/thumbnail.jpg" width="600" alt="मिसौरी नदी के ऊपर अंतरिक्ष यान की लड़ाई">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3437)**
+
+**Author:** [Hoff 🌙](https://x.com/HoffPlanet) | **Source:** [Link](https://x.com/HoffPlanet/status/2046440705908679139) | **Published:** Apr 21, 2026
+
+---
 ### बालकनी पर महिला का हवादार दृश्य
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2183,25 +2202,6 @@ refractive
 **Author:** [bluelittledigital](https://x.com/FreeSpeechElite) | **Source:** [Link](https://x.com/FreeSpeechElite/status/2041675607105298723) | **Published:** Apr 8, 2026
 
 ---
-### एक सुंदर युवती और सफेद लोमड़ी की अत्यधिक विस्तृत 3D आर्ट डेको कढ़ाई
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक विस्तृत वीडियो जनरेशन प्रॉम्प्ट, जो एक अत्यधिक विस्तृत 3D आर्ट डेको कढ़ाई के दृश्य का वर्णन करता है। इसमें एक छरहरी युवती और एक सफेद लोमड़ी को शाम के समय शहर के नज़ारे वाली छत पर बैठे हुए दिखाया गया है, जिसमें विशिष्ट कढ़ाई वाली बनावट, रंगों और सिनेमाई रेंडरिंग विवरणों पर ध्यान केंद्रित किया गया है।
-
-#### 📝 Prompt
-
-```
-एक सुंदर छरहरी युवती की अत्यधिक विस्तृत 3D आर्ट डेको कढ़ाई, जिसकी गर्दन बहुत लंबी और पतली है, जो शाम के समय एक जीवंत शहर के नज़ारे वाली शानदार आर्ट डेको छत पर एक सुंदर सफेद लोमड़ी के साथ शालीनता से बैठी है। युवती के बाल लहराते हुए, एक तरफ झुके हुए, रेशमी सफेद आर्ट डेको हेयरस्टाइल में हैं, उसकी गहरी नीली आँखों पर लंबी नाजुक पलकें हैं, छोटे चमकीले नारंगी होंठ हैं, और त्वचा शुद्ध मुलायम सफेद कढ़ाई वाली है। उसने कंधों पर नारंगी ज्यामितीय आर्ट डेको पैटर्न और गहरे फ़िरोज़ी केंद्र वाली एक सुंदर गोल सुनहरे बॉर्डर वाली कॉलर वाली परिष्कृत गहरे नीले रंग की पोशाक पहनी है। उसके बगल में भावपूर्ण सुनहरी आँखों वाली एक सुंदर सफेद लोमड़ी बैठी है, जिसके गले और कानों पर जटिल चमकीले सुनहरे पैटर्न हैं। असाधारण रूप से चिकनी साटन स्टिच तकनीक, निर्बाध ठोस रंग, कोई काली रूपरेखा या कंटूर नहीं, मुलायम शानदार कढ़ाई वाली बनावट। शहर के बैकग्राउंड में झिलमिलाते चमकीले फ़िरोज़ी, सुनहरे और सफेद रंगों में जटिल आर्ट डेको पैटर्न। समृद्ध, जीवंत रंग पैलेट, संग्रहालय-गुणवत्ता वाली कढ़ाई, अल्ट्रा-विस्तृत, 8K रिज़ॉल्यूशन। Octane Render में रेंडर की गई 3D कढ़ाई, सिनेमाई लाइटिंग, सुंदर और परिष्कृत वातावरण।
-```
-
-<img src="https://cms-assets.youmind.com/media/1775634942887_9d8vu3_HFVz1L2bYAA-rl-.jpg" width="600" alt="एक सुंदर युवती और सफेद लोमड़ी की अत्यधिक विस्तृत 3D आर्ट डेको कढ़ाई">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=2950)**
-
-**Author:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **Source:** [Link](https://x.com/iamhappy2026/status/2041665470710083929) | **Published:** Apr 7, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2263,6 +2263,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-21T06:07:45.107Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-21T09:46:54.344Z</sub>
 
 </div>
