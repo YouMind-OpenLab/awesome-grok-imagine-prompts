@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1155** |
+| 📝 Total Prompts | **1176** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-04-22** |
 
@@ -189,6 +189,459 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Konkrete Bananen-Gorilla-Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochdetaillierter surrealer Prompt, der eine Sequenz beschreibt, in der ein Gorilla eine Betonbanane isst und sich verwandelt.
+
+#### 📝 Prompt
+
+```
+Platzieren Sie hinter der Bananenstruktur ein Bild eines Silberrücken-Gorillas. Zeigen Sie, wie er die Betonbanane aufbricht und isst; anschließend verwandelt er sich in einen Betongorilla.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c2d65baeb565f3adf625f89e6ef33d6a/thumbnails/thumbnail.jpg" width="600" alt="Konkrete Bananen-Gorilla-Transformation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3499)**
+
+**Author:** [Karen Alexander](https://x.com/Cardioechogramm) | **Source:** [Link](https://x.com/Cardioechogramm/status/2046746412382134500) | **Published:** Apr 22, 2026
+
+---
+### Filmreife geteilte Ansicht eines herzförmigen Ozeans
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein atemberaubender, filmreifer Prompt für Grok Imagine, der eine magische Animation mit geteilter Ansicht einer herzförmigen Ozeanszene erstellt.
+
+#### 📝 Prompt
+
+```
+atemberaubende filmreife Szene einer geteilten Ansicht eines herzförmigen Ozeans, ultrarealistisch und magisch.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/01fc03eaa8cfadfab9e4ae2077039d1e/thumbnails/thumbnail.jpg" width="600" alt="Filmreife geteilte Ansicht eines herzförmigen Ozeans">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3492)**
+
+**Author:** [Bettis Miamis](https://x.com/ElisabeteTerro1) | **Source:** [Link](https://x.com/ElisabeteTerro1/status/2046740215138554318) | **Published:** Apr 21, 2026
+
+---
+### Prompt zur Gestaltung eines geheimen Dachgartens
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Generierung eines Videos, das einen geheimen Garten und eine Tür zu einem Dachhof hinzufügt.
+
+#### 📝 Prompt
+
+```
+Füge einen zweiten Dachhof hinzu, säume ihn mit Palmen und Pflanzen und erschaffe einen geheimen Dachgarten..
+.
+eine geheime Tür zwischen der Landeplattform auf dem Dach,
+dem Innenhof und dem geheimen Dachgarten.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/554e978eb8c4b53168f960d430f0a339/thumbnails/thumbnail.jpg" width="600" alt="Prompt zur Gestaltung eines geheimen Dachgartens">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3488)**
+
+**Author:** [Luke Clayden](https://x.com/clayden5_luke) | **Source:** [Link](https://x.com/clayden5_luke/status/2046737481127678296) | **Published:** Apr 21, 2026
+
+---
+### Pyramiden-Manifestations-Video-Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Prompt, der beschreibt, wie Pyramiden erscheinen und in hoher Auflösung zwischen Dimensionen wechseln.
+
+#### 📝 Prompt
+
+```
+Pyramiden, die in 6D erschaffen und in die 3D-Physis herabgelassen werden, Meisterwerk, Ultra-HD-Qualität, hohe Auflösung
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/af8b5ae45ed4a4cd6529d414465a9ab5/thumbnails/thumbnail.jpg" width="600" alt="Pyramiden-Manifestations-Video-Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3495)**
+
+**Author:** [MIUZAH DEIOPAH OF THE PLEIADES](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2046714606895169953) | **Published:** Apr 21, 2026
+
+---
+### La Bamba-Tanz mit Samurai-Requisiten
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt, der eine lebhafte Tanzszene mit spezifischen Partnerbewegungen und Samurai-Requisiten im Hintergrund beschreibt.
+
+#### 📝 Prompt
+
+```
+Ein Mann und eine Frau führen einen lebhaften La Bamba-Tanz mit fröhlichen Partnerbewegungen auf, während Samurai-Schwerter sicher als Requisiten an der Seite liegen....
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6a7ae42081271aee75ea8fa96ef8de53/thumbnails/thumbnail.jpg" width="600" alt="La Bamba-Tanz mit Samurai-Requisiten">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3490)**
+
+**Author:** [Hyun Lee](https://x.com/HolyMolySakura) | **Source:** [Link](https://x.com/HolyMolySakura/status/2046690014667382958) | **Published:** Apr 21, 2026
+
+---
+### Video-Prompt für Hip-Hop-Samurai-Tanz
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein kreativer Prompt für Grok Imagine, um ein Video zu generieren, in dem Samurai in traditioneller Kleidung synchron Hip-Hop-Tanzschritte aufführen.
+
+#### 📝 Prompt
+
+```
+Erstelle eine Szene mit fünf Samurai, die synchron einen lustigen, energiegeladenen Hip-Hop-Tanz aufführen. Behalte ihre traditionelle Samurai-Kleidung bei, aber setze sie in Kontrast zu verspielten, übertriebenen Tanzbewegungen. Füge alberne Gesichtsausdrücke, unerwartete Posen und übertriebene Drehungen hinzu...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7b357f8a536dcc1630acf7b7b3de06ee/thumbnails/thumbnail.jpg" width="600" alt="Video-Prompt für Hip-Hop-Samurai-Tanz">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3501)**
+
+**Author:** [Hyun Lee](https://x.com/HolyMolySakura) | **Source:** [Link](https://x.com/HolyMolySakura/status/2046688295141159414) | **Published:** Apr 21, 2026
+
+---
+### Hawaiianische Hula-Tanzbewegung
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochwertiger Bewegungs-Prompt, der Hüft- und Armgesten für ein lebendiges Hula-Tanzvideo detailliert beschreibt.
+
+#### 📝 Prompt
+
+```
+Lassen Sie das Subjekt einen lebhaften, energiegeladenen hawaiianischen Hula-Tanz mit einer selbstbewussten und dynamischen Ausstrahlung aufführen. Verwenden Sie rhythmische Hüftbewegungen, koordinierte Beinarbeit und ausdrucksstarke Armgesten, die natürlich und voller Leben wirken. Die Bewegung sollte hell,
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9d43737e3a9d5d0b5fd26aef51cfc1ad/thumbnails/thumbnail.jpg" width="600" alt="Hawaiianische Hula-Tanzbewegung">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3491)**
+
+**Author:** [Hyun Lee](https://x.com/HolyMolySakura) | **Source:** [Link](https://x.com/HolyMolySakura/status/2046682188092002376) | **Published:** Apr 21, 2026
+
+---
+### Elegante hawaiianische Hula-Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Generierungs-Prompt zur Erstellung einer flüssigen Animation, in der ein Subjekt einen anmutigen hawaiianischen Hula-Tanz aufführt.
+
+#### 📝 Prompt
+
+```
+Erstelle eine flüssige und elegante Animation des Subjekts, das einen wunderschönen hawaiianischen Hula tanzt. Nutze sanfte Hüftschwünge, weiche Handbewegungen, anmutige Schritte und eine ruhige, tropische Inselstimmung.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3c8a7fe5870ac9271ba230bac5097341/thumbnails/thumbnail.jpg" width="600" alt="Elegante hawaiianische Hula-Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3494)**
+
+**Author:** [Hyun Lee](https://x.com/HolyMolySakura) | **Source:** [Link](https://x.com/HolyMolySakura/status/2046677403028594727) | **Published:** Apr 21, 2026
+
+---
+### Scene Lock Zeitraffer-Kontinuität
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein technischer Prompt zur Erstellung eines stabilen Zeitraffervideos mit fester Kameraposition zwischen zwei Bildzuständen.
+
+#### 📝 Prompt
+
+```
+SCENE LOCK: Statische Stativ-Kontinuität von BILD 3 zu BILD 4, exakt gleiche Kameraposition, gleicher Bildausschnitt auf Augenhöhe, gleiche 35mm-Objektiv-Optik, gleiche Geometrie von Felswand, Baumstumpf, Bachlauf, Kiefer und Schmiede. Keine Schnitte, stabile Szene, realistisches Zeitraffertempo,
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1bc1d76578347a7bc321c5b56fb92045/thumbnails/thumbnail.jpg" width="600" alt="Scene Lock Zeitraffer-Kontinuität">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3486)**
+
+**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2046674493758984333) | **Published:** Apr 21, 2026
+
+---
+### Prompt für eine Paparazzi-Reaktion mit High-Status-Ausstrahlung
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein komplexer, JSON-basierter Video-Prompt für eine filmreife Paparazzi-Szene mit strikter Identitätsfixierung.
+
+#### 📝 Prompt
+
+```
+{
+  "generation_request": {
+    "meta_data": {
+      "tool": "Video",
+      "task_type": "paparazzi_controlled_luxury_reaction",
+      "version": "v2.0_NO_DROP_HIGH_STATUS"
+    },
+    "input": {
+      "mode": "image_to_video",
+      "reference_image_usage": "maximum",
+      "preserve_identity": "strict_lock",
+      "preserve_scene": true,
+      "notes": "Behalten Sie exakt dieselbe Frau, das Outfit, das Getränk, den Ort, den Kamerawinkel, die Beleuchtung und die Komposition bei. Verändern Sie weder ihr Gesicht noch ihren Körper."
+    },
+    "motion": {
+      "style": "cinematic paparazzi realism",
+      "speed": "natural real-time",
+      "camera": "subtle handheld feel only, no reframing or zoom"
+    },
+    "scene_events": {
+      "paparazzi_arrival": {
+        "action": "2-3 Paparazzi-Fotografen treten schnell von den Seiten und aus dem Hintergrund ins Bild",
+        "details": "sie heben die Kameras und kommen näher, leicht chaotisch, aber ohne das Motiv zu verdecken"
+      },
+      "flash_effect": {
+        "action": "mehrere Kamerablitze lösen intermittierend aus",
+        "details": "starke, realistische Lichtblitze, die sich in ihrer Sonnenbrille, auf ihrer Haut und ihrem Outfit spiegeln"
+      },
+      "subject_reaction": {
+        "action": "die Frau reagiert mit sichtbarem Ärger, aber kontrollierter Gelassenheit",
+        "details": "leichtes Abwenden des Kopfes von den Kameras, dezente Anspannung der Brauen, Lippen straffen sich leicht, der Blick wird kälter und dominanter"
+      },
+      "body_language": {
+        "action": "sie geht selbstbewusst weiter",
+        "details": "die Körperhaltung bleibt stark, die Schultern stabil, keine panischen Bewegungen, luxuriöse Ausstrahlung bleibt gewahrt"
+      },
+      "drink_behavior": {
+        "action": "das Getränk bleibt stabil in ihrer Hand",
+        "details": "nur minimale, natürliche Handbewegung, kein Verschütten, kein Fallenlassen, die Flüssigkeit bleibt intakt"
+      }
+    },
+    "realism_rules": {
+      "face": "keine Verzerrung, Identität fixiert, nur natürliche Mikroexpressionen",
+      "body": "korrekte Geh-Biomechanik, keine Steifheit, keine Verformung",
+      "hands": "perfekter Griff, korrekte Fingerartikulation",
+      "physics": "realistische Bewegung, keine übertriebene Dynamik",
+      "lighting": "konsistentes Umgebungslicht + nur Blitzlicht-Effekte"
+    },
+    "performance_direction": {
+      "emotion": "verärgert, aber kraftvoll, unbeeindruckt, High-Status-Präsenz",
+      "energy": "kontrollierte Dominanz, keine panische Reaktion",
+      "vibe": "Prominente ignoriert Paparazzi, luxuriöses Selbstbewusstsein"
+    },
+    "duration": {
+      "length": "6-8 Sekunden"
+    },
+    "negative_prompt": {
+      "avoid": [
+        "Getränk verschütten",
+        "Getränk fallen lassen",
+        "panische Reaktion",
+        "übertriebene Bewegung",
+        "Gesichtsverzerrung",
+        "Körperverformung",
+        "zusätzliche Gliedmaßen",
+        "schlechte Hände",
+        "Glitch",
+        "Verzerrung",
+        "Kamera-Zoom",
+        "Szenenwechsel",
+        "Cartoon-Bewegung"
+      ]
+    }
+  }
+}
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dc00c1e41b1d3cb6e95c9f30276a3f35/thumbnails/thumbnail.jpg" width="600" alt="Prompt für eine Paparazzi-Reaktion mit High-Status-Ausstrahlung">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3482)**
+
+**Author:** [Özge Döner](https://x.com/astronomerozge1) | **Source:** [Link](https://x.com/astronomerozge1/status/2046656621414129727) | **Published:** Apr 21, 2026
+
+---
+### Redaktionsszene beim Wall Street Journal
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein narrativer Prompt für ein Video, das einen Nachrichtenmoderator beim Wall Street Journal zeigt, der über Marktstrategien spricht.
+
+#### 📝 Prompt
+
+```
+Ein vielbeschäftigter Zeitungsredakteur beim Wall Street Journal – erkennbar an dem Banner im Hintergrund des Raums – sagt: „Blue Horseshoe liebt Anacott Steel.“ Ich sage dir, das ist der richtige Spielzug.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b8d4244a3e0e2f2e3ae10a6fcb0ac595/thumbnails/thumbnail.jpg" width="600" alt="Redaktionsszene beim Wall Street Journal">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3493)**
+
+**Author:** [Rick March](https://x.com/CrankyRicky) | **Source:** [Link](https://x.com/CrankyRicky/status/2046652938278289552) | **Published:** Apr 21, 2026
+
+---
+### Psychedelisches Meditations-Lotus-Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein ätherischer Prompt für eine meditierende Frau in einer Lotusblüte auf einem blauen Meer mit psychedelischen Akzenten.
+
+#### 📝 Prompt
+
+```
+Ideales, heilsames, psychedelisches Mädchen, ätherische, atemberaubend schöne junge Frau, die sanft lächelt, während sie bequem in einer großen goldenen Lotusblüte meditiert, die auf einem weiten, klaren, kristallblauen Meer treibt, die Augen sanft geöffnet, während sie direkt einen Namaskar-Gruß darbietet. 
+(((💙🩵💜)))
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/11ac8d393caaa5fb444a3869882abd01/thumbnails/thumbnail.jpg" width="600" alt="Psychedelisches Meditations-Lotus-Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3489)**
+
+**Author:** [Carina](https://x.com/Freehere3) | **Source:** [Link](https://x.com/Freehere3/status/2046647102437265620) | **Published:** Apr 21, 2026
+
+---
+### Filmreife Ritual-Action und Audio-Sequenz
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein anspruchsvoller Prompt für Grok Imagine, der eine detaillierte Action-Sequenz mit synchronisierten orchestralen Audio-Cues für einen filmreifen High-End-Look kombiniert.
+
+#### 📝 Prompt
+
+```
+[ACTION-SEQUENZ] 
+eine einzige durchgehende Einstellung, das Audio beginnt bei 0,01 s und die Musik blendet ein, während der Zauberer das Wassermelonen-Slides den Göttern opfert, atemberaubende visuelle Effekte, während die Wassermelone in die Luft schwebt, die gesamte Szene wird am Ende von einer überwältigenden Wassermelonen-Textur überlagert, während die epische Filmmusik ihren Höhepunkt erreicht. 
+ 
+[AUDIO - die Musik beginnt sofort und läuft während des gesamten Videos perfekt synchron zur Action-Sequenz] 
+spiele den massiven cineastischen Orchester-Soundtrack mit einer düsteren und triumphalen Stimmung, erdbebenartige Taiko-Trommeln, die tief im Hintergrund rollen, dröhnende Staccato-Blechbläser, die ein sich wiederholendes absteigendes Motiv spielen, ein hochfliegender, mehrspuriger gregorianischer Chor, der mit starkem Hall hallt, weitläufige Marcato-Streicherschwellungen, die dramatische Spannung aufbauen, tiefe Sub-Bass-Hits als Impact-Akzente, breites Stereo-Imaging, immenser, höhlenartiger akustischer Raum, epische Gravitas im Stil von Hans Zimmer, 75 BPM, c-Moll.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a64362fe486bda3da6c4870d26e80024/thumbnails/thumbnail.jpg" width="600" alt="Filmreife Ritual-Action und Audio-Sequenz">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3498)**
+
+**Author:** [steve johnson](https://x.com/seeksteve) | **Source:** [Link](https://x.com/seeksteve/status/2046623332980683126) | **Published:** Apr 21, 2026
+
+---
+### Münzwurf-Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt, der eine Münze beschreibt, die in der Luft geworfen wird und sich von Silber in Gold verwandelt.
+
+#### 📝 Prompt
+
+```
+Eine Person wirft eine silberne Münze in die Luft, die Münze dreht sich in der Luft und landet dann wieder in der offenen Hand @grok verwandelt in reines, glänzendes Gold
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7c54d3358ced35cbbe7b282253ac3cf7/thumbnails/thumbnail.jpg" width="600" alt="Münzwurf-Transformation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3487)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2046618576086241391) | **Published:** Apr 21, 2026
+
+---
+### Futuristischer Titan Power Armor Krieger
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ein hochdetaillierter, filmischer 8K-Video-Prompt einer Kriegerin in futuristischer Rüstung, die durch eine dystopische Stadt läuft.
+
+#### 📝 Prompt
+
+```
+Filmisches 9-sekündiges vertikales Video, surreal 8K, fotorealistisches 3D-Rendering. Eine kraftvolle Kriegerin in einer hochentwickelten, körperbetonten futuristischen Titan Power Armor läuft selbstbewusst durch eine brennende, dystopische Stadtlandschaft auf die Kamera zu. Die Rüstung ist in metallischem Dunkelsilber und Schwarz gehalten, mit leuchtend blauen Schaltkreisen, gelben Akzentlichtern und glänzenden Reflexionen. Der Helm verfügt über ein glänzend schwarzes Visier mit intensiven, blau leuchtenden holografischen Elementen im Inneren.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/68b0dc56fa7029e64fa032168d1a515a/thumbnails/thumbnail.jpg" width="600" alt="Futuristischer Titan Power Armor Krieger">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3500)**
+
+**Author:** [ぼたもち。@贖罪卿](https://x.com/botamochi8639) | **Source:** [Link](https://x.com/botamochi8639/status/2046523096597925932) | **Published:** Apr 21, 2026
+
+---
+### Epische Mecha-Hasen-Schlacht
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochdetaillierter, filmischer Prompt für einen brutalen Kampf zwischen agilen Hasen-Mechs und einem riesigen Boss.
+
+#### 📝 Prompt
+
+```
+Ein hyperrealistisches, filmisches 15-sekündiges vertikales Video (9:16) eines intensiven, brutalen Mech-Kampfes in einer dystopischen, zerstörten Stadtlandschaft zur goldenen Stunde. Zwei kleine, schnittige, weiß-schwarze, agile Hasen-Mechs mit langen mechanischen Hasenohren, leuchtend orangefarbenen Visieren und sichtbaren Gesichtern der Pilotinnen (junge ostasiatische Frau mit kurzem schwarzem Haar im Helm) kämpfen gegen einen massiven, schwer gepanzerten, dunkelgrau-silbernen Hasen-Mech-Boss. Der riesige Mech ist doppelt so groß, kampfgezeichnet, mit leuchtend roten Augen, freiliegenden Kolben, Hydraulikkabeln und schwerer Panzerung.
+Dynamische Actionsequenz:
+Beginnt damit, dass der riesige Mech über einem kleinen Hasen-Mech aufragt, der sich in einer niedrigen Kampfhaltung auf Rollfüßen befindet.
+Rasante Choreografie: kleine Mechs, die springen, Dreh-Kicks, schnelle Schläge und akrobatische Ausweichmanöver ausführen.
+Der riesige Mech kontert brutal – kraftvolle Schläge, die beim Aufprall leuchtend orangefarbene Funken und Explosionen erzeugen, verheerende Tritte, die die kleinen Mechs durch die Luft schleudern und sie in den rissigen Beton krachen lassen.
+Ein kleiner Mech wird gepackt, zu Boden geschleudert und dann über das staubige Schlachtfeld geworfen.
+Staubwolken, umherfliegende Trümmer, Funken und leuchtende mechanische Details überall.
+Dramatische Low-Angle- und Nahaufnahmen, die mechanische Gelenke, leuchtende Augen und Gesichtsausdrücke in den Helmen zeigen.
+Die letzten Momente zeigen den riesigen Mech in der Dominanz, wie er über die gefallenen kleinen Mechs schreitet, während ein weiterer kleiner Mech von der Seite zu einem verzweifelten letzten Angriff stürmt.
+Ultradetailliertes 8K-CGI, fotorealistische Texturen, filmische Beleuchtung mit starken volumetrischen Lichtstrahlen, Bewegungsunschärfe bei schnellen Bewegungen, dezente Zeitlupe bei harten Aufprallen, düstere postapokalyptische Atmosphäre, zerstörte Betongebäude und Schutt im Hintergrund, dramatische Kameraführung mit Dutch Angles und Tracking-Shots, im Stil von High-End-Sci-Fi-Actionfilmen wie Pacific Rim und Ghost in the Shell.
+Stil-Keywords: filmisch, fotorealistisch, ultradetailliert, dramatische Beleuchtung, mechanische Details, Funken- und Partikeleffekte, intensive Action, emotional, düster, episch.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7958af99429f5b256c80f7b7094509cf/thumbnails/thumbnail.jpg" width="600" alt="Epische Mecha-Hasen-Schlacht">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3485)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2046522451379847343) | **Published:** Apr 21, 2026
+
+---
+### Ultrarealistisches Mädchen bei Sonnenuntergang in der Natur
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Generierungs-Prompt für Grok Imagine, der den Fokus auf Charakterkonsistenz und realistische Lichtverhältnisse in einem Naturschutzgebiet bei Sonnenuntergang legt.
+
+#### 📝 Prompt
+
+```
+Behalten Sie das Gesicht, die Mimik und die Identität des Mädchens EXAKT bei, ohne jegliche Veränderungen – ultrarealistisch, keine Verzerrungen. Die Szene beginnt mit einer Totalen eines üppigen Naturschutzgebiets, wobei intensives goldenes Sonnenuntergangslicht durch hohe Bäume fällt
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee54d17a8823a68d0314bfba68fc7a6b/thumbnails/thumbnail.jpg" width="600" alt="Ultrarealistisches Mädchen bei Sonnenuntergang in der Natur">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3502)**
+
+**Author:** [Bettis Miamis](https://x.com/ElisabeteTerro1) | **Source:** [Link](https://x.com/ElisabeteTerro1/status/2046518921713303589) | **Published:** Apr 21, 2026
+
+---
+### Intensive Rennkonzentration
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Prompt, der eine hochintensive Fahrszene mit fokussierten Gesichtsausdrücken und dynamischen Kameraschwenks beschreibt.
+
+#### 📝 Prompt
+
+```
+VROOM VROOM, Fokus auf die intensiven, konzentrierten Blicke der beiden besten Freundinnen, die die volle Kontrolle über ihren imaginären Sportwagen-Hot-Rod haben, Kameraschwenk hinein und hinaus
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/96423fbd2cd537ad419f033fb28f2678/thumbnails/thumbnail.jpg" width="600" alt="Intensive Rennkonzentration">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3497)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2046511204722467089) | **Published:** Apr 21, 2026
+
+---
+### Komplexe Szene mit Alien und Geschäftsmann
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein komplexer Multi-Image-Referenz-Prompt mit einem Alien, einem Geschäftsmann und einem Raumschiff.
+
+#### 📝 Prompt
+
+```
+1. Alien-Charakter 2. Geschäftsmann-Charakter 3. Haus im Hintergrund (aus Google Maps Street View übernommen). Gestalte @image2 als dunklen, regnerischen Tag. Das Alien @image1 geht auf das weiße Haus zu, während ein riesiges Raumschiff über ihm fliegt. Der Mann @image3 sieht das Alien und rennt hysterisch davon.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/61a01bde09662cbe1739ad6deae15bbb/thumbnails/thumbnail.jpg" width="600" alt="Komplexe Szene mit Alien und Geschäftsmann">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3483)**
+
+**Author:** [M I K E • マイケル・リックス](https://x.com/michaelricks) | **Source:** [Link](https://x.com/michaelricks/status/2046444567126216730) | **Published:** Apr 21, 2026
+
+---
 ### Raumschiffschlacht über dem Missouri River
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +659,44 @@ Raumschiffschlacht über dem Missouri River bei Lazy River Acres an der Grenze z
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3437)**
 
 **Author:** [Hoff 🌙](https://x.com/HoffPlanet) | **Source:** [Link](https://x.com/HoffPlanet/status/2046440705908679139) | **Published:** Apr 21, 2026
+
+---
+### Moon Survey Video-Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein technischer Video-Prompt für einen Mond-Überflug in niedriger Höhe zur Suche nach spezifischen Elementen.
+
+#### 📝 Prompt
+
+```
+{Nano Intelligence Hydrate Methane }Protection Shield} ^^*^*^Scan von Mondgestein bei einem Überflug in 3 Metern Höhe....
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/024a945b482ddaab8d2f1fbb22bec78a/thumbnails/thumbnail.jpg" width="600" alt="Moon Survey Video-Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3496)**
+
+**Author:** [Notzucow](https://x.com/Notzucow69) | **Source:** [Link](https://x.com/Notzucow69/status/2046423903799525412) | **Published:** Apr 21, 2026
+
+---
+### Industrielle Mecha-Schlacht
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein umfassender Prompt für einen massiven Hasen-Mecha, der in einem staubigen Ödland gegen menschengroße Krieger kämpft.
+
+#### 📝 Prompt
+
+```
+Filmische, epische Schlacht in einem dystopischen industriellen Ödland bei Dämmerung, dichter Rauch und Staub in der Luft. Ein massiver, 12 Meter hoher, weiß-schwarzer Mecha-Hasenroboter mit leuchtend rot-orangen Augen, langen mechanischen Hasenohren, schwerer Panzerung und kraftvollen Gliedmaßen kämpft erbittert gegen zwei agile, menschengroße Krieger mit Hasenohren, die elegante, futuristische weiß-schwarze Bodysuits mit Helmen und leuchtenden Visieren tragen.\n\nDynamische Actionsequenz:\n- Ein Hasenkrieger springt hoch in die Luft und versetzt dem Kopf und der Brust des riesigen Mechs kraftvolle Tritte und Energieschläge, was helle orangefarbene Funken und Explosionen erzeugt.\n- Der zweite Hasenkrieger bleibt in Bodennähe, gleitet heran und greift die Beine und Füße des Mechs mit lodernden Energiestößen und Tritten an, was Feuer und geschmolzene Funken auf dem Betonboden verursacht.\n- Der riesige Hasen-Mech schwingt seine gewaltigen Arme, schlägt auf den Boden, erzeugt Schockwellen und Trümmer, versucht die kleineren Krieger zu greifen und zu zerschmettern, wobei seine Augen bei jedem Aufprall hell aufleuchten.\n\nIntensive Funken, umherfliegende Trümmer, Bodenexplosionen, dichter aufsteigender Rauch, dramatischer orangefarbener Feuerschein, der sich auf metallischen Oberflächen spiegelt, filmische Beleuchtung, epische Weitwinkelaufnahmen und dynamische Kameraführung aus der Froschperspektive, ultrarealistisches CGI, fotorealistische Details, dramatische Atmosphäre, hoher Kontrast, 8K, Meisterwerk, beste Qualität, hochdetailliert, Bewegungsunschärfe bei schnellen Bewegungen.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/193907cf7036890af32bfba00dadc244/thumbnails/thumbnail.jpg" width="600" alt="Industrielle Mecha-Schlacht">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3484)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2046389815365480463) | **Published:** Apr 21, 2026
 
 ---
 ### Frau auf dem Balkon in einer luftigen Szene
@@ -1763,446 +2254,6 @@ Ein Junge bastelt in der Werkstatt, startet eine seltsame Maschine, schlägt geg
 **Author:** [👽Groklet](https://x.com/GrokletFanClub) | **Source:** [Link](https://x.com/GrokletFanClub/status/2042036798361104570) | **Published:** Apr 9, 2026
 
 ---
-### Dekonstruktion eines Porträts in die Leere
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für die Grok Imagine Videogenerierung, der die langsame Dekonstruktion eines Porträts aus verwobenen roten und goldenen Fäden beschreibt, die sich auseinanderziehen und in eine dunkle Leere fallen.
-
-#### 📝 Prompt
-
-```
-Die verwobenen roten und goldenen Fäden des Porträts lösen sich langsam und ziehen sich auseinander, bis sie in eine dunkle Leere fallen und das Gesicht vollständig dekonstruiert wird.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0f9225930be5e754e6c6d9c57a5e834d/thumbnails/thumbnail.jpg" width="600" alt="Dekonstruktion eines Porträts in die Leere">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3018)**
-
-**Author:** [Mr Fox](https://x.com/foxmr507) | **Source:** [Link](https://x.com/foxmr507/status/2042017411230990429) | **Published:** Apr 8, 2026
-
----
-### Der Anbruch des Wassermann-Zeitalters
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein narrativer Prompt für Grok Imagine, der sich auf das Musical HAIR und das „Wassermann-Zeitalter“ bezieht und die Wahrnehmung der 1970er Jahre mit der heutigen Zeit kontrastiert.
-
-#### 📝 Prompt
-
-```
-In den 1970er Jahren besuchte ich das Musical HAIR. Sie sangen Lieder mit Blumen im Haar über den Anbruch des Wassermann-Zeitalters… Es war in den 70ern nicht das Wassermann-Zeitalter. Jetzt ist es der Anbruch des Wassermann-Zeitalters.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d4b28647bfbab79f0a07b5cb2197ca84/thumbnails/thumbnail.jpg" width="600" alt="Der Anbruch des Wassermann-Zeitalters">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3020)**
-
-**Author:** [Jillian](https://x.com/Jilliangcs1) | **Source:** [Link](https://x.com/Jilliangcs1/status/2042004546520825886) | **Published:** Apr 8, 2026
-
----
-### Prompt für altmodische Waage mit kursivem Schild
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für Grok Imagine zur Erstellung eines Videos einer altmodischen Waage mit einem Schild, das ein kursives Zitat über die Kultivierung guter Gedanken zeigt.
-
-#### 📝 Prompt
-
-```
-Erstelle ein Bild einer altmodischen Waage mit einem Schild in Kursivschrift, auf dem steht: „Kultiviere ein Leben, in dem gute Gedanken und Dinge die schlechten überwiegen“
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fa8b418c3e8c75bdbb0995ef7d91d3a1/thumbnails/thumbnail.jpg" width="600" alt="Prompt für altmodische Waage mit kursivem Schild">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3012)**
-
-**Author:** [Lisa Jmes](https://x.com/JmesLisa65488) | **Source:** [Link](https://x.com/JmesLisa65488/status/2041982751512129827) | **Published:** Apr 8, 2026
-
----
-### Grok Imagine Prompt für ein Zeitraffer-Video vom Bau
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochdetaillierter Grok Imagine Prompt für ein Zeitraffer-Video, das den Bau einer Hütte zeigt, mit Fokus auf eine fixierte Kameraposition und spezifische Details des Bauprozesses.
-
-#### 📝 Prompt
-
-```
-SZENE FIXIERT: gleiche Stativposition, gleicher Bildausschnitt und gleiches Objektiv, Orientierungspunkte unverändert
-PHASE: vom Bau bis zur fertiggestellten Hütte
-DETAILS: Arbeiter beim Sägen, Zusammenbauen und Installieren von Holzwänden und Dach, schrittweise Anbringung des Reetdachs, Treppenbau Stufe für Stufe, Balkon...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/18c4f22618bdf865a3e9f8449239bf5b/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine Prompt für ein Zeitraffer-Video vom Bau">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3023)**
-
-**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2041963695438508206) | **Published:** Apr 8, 2026
-
----
-### Videoszene: Die Jetsons treffen die Simpsons
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter, mehrteiliger Prompt für Grok Imagine, der eine spezifische Szene (Szene 4/7: Elroy) aus einer fiktiven Episode anfordert, in der die Jetsons auf die Simpsons treffen, mit Fokus auf Springfields erste fliegende Autowaschanlage.
-
-#### 📝 Prompt
-
-```
-Die Jetsons im Jahr 2030 – Treffen mit den Simpsons!
-Episode 2: Springfields erste fliegende Autowaschanlage!
-Szene 4/7: Elroy
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/51a27a742bcc2c2792cea26b3963197c/thumbnails/thumbnail.jpg" width="600" alt="Videoszene: Die Jetsons treffen die Simpsons">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3008)**
-
-**Author:** [ITALKTOGROK](https://x.com/positive_jetson) | **Source:** [Link](https://x.com/positive_jetson/status/2041962205990514945) | **Published:** Apr 8, 2026
-
----
-### Stummfilm-Standbild der 1920er Jahre
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Videogenerierungs-Prompt für Grok Imagine, der eine Szene im Stil eines Stummfilm-Standbilds der 1920er Jahre beschreibt, mit einer Chaplin-ähnlichen Figur und einer Flapper-Frau auf einem belebten Gehweg.
-
-#### 📝 Prompt
-
-```
-Ein Stummfilm-Standbild der 1920er Jahre in kontrastreichem Schwarz-Weiß, körniges 35-mm-Filmmaterial, hoher Kontrast. Eine kleine Chaplin-ähnliche Figur mit Melone, Zahnbürstenbart, Gehstock und übergroßer, weiter Kleidung zieht den Hut vor einer stilvollen Flapper-Frau mit kurzem Bob-Haarschnitt, Glockenhut, Fransenkleid mit tiefer Taille und langen Perlenketten. Sie stehen auf einem belebten Gehweg mit alten Ford Modell T Autos und Straßenlaternen im Hintergrund. Übertriebene, überraschte Gesichtsausdrücke, weiche filmische Beleuchtung, Kratzer und Staubspuren alter Filme, Stummfilm-Atmosphäre.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2c3952b7fe924014b299319899a2039b/thumbnails/thumbnail.jpg" width="600" alt="Stummfilm-Standbild der 1920er Jahre">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3021)**
-
-**Author:** [Lucy](https://x.com/princess414141) | **Source:** [Link](https://x.com/princess414141/status/2041960326397051081) | **Published:** Apr 8, 2026
-
----
-### Staging-Bunker-Innenraum-Timelapse-Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein strukturierter Grok Imagine-Prompt zur Erstellung eines Zeitraffervideos eines Bunker-Innenraums während der Einrichtung. Der Prompt behält die Szenensperre bei und beschreibt detailliert den Prozess vom leeren Raum bis zur vollständigen Ausstattung, einschließlich Arbeitern, die Betten hineintragen und Bedienfelder montieren.
-
-#### 📝 Prompt
-
-```
-SCENE LOCK: gleiches Stativ, gleiche Komposition, keine Kamerabewegung, gleiche Lichtbasis mit schrittweiser Verstärkung
-
-STAGE: Einrichtung eines Bunker-Innenraums von leer bis vollständig ausgestattet
-
-DETAILS: Arbeiter tragen Bunkerbetten hinein und schrauben sie an die Wände, montieren Bedienfelder und...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/481f81071bfff4e572b9602b78d44ed8/thumbnails/thumbnail.jpg" width="600" alt="Staging-Bunker-Innenraum-Timelapse-Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3016)**
-
-**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2041871525998161949) | **Published:** Apr 8, 2026
-
----
-### Gruß aus Wüste und Gewürz
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für Grok Imagine, der auf einem Gruß basiert, welcher sich auf die Wüste und „das Gewürz“ bezieht – wahrscheinlich inspiriert von Dune –, mit dem Ziel, ein thematisches Video zu erstellen.
-
-#### 📝 Prompt
-
-```
-Möge die Wüste dir wohlgesonnen sein und das Gewürz deinen Weg leiten. Habt einen wunderschönen Tag, Kreative! 👋🌅.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b6ea51139424413f39caccc7f7b2e95f/thumbnails/thumbnail.jpg" width="600" alt="Gruß aus Wüste und Gewürz">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3019)**
-
-**Author:** [Petergu](https://x.com/PalfalviP497fz) | **Source:** [Link](https://x.com/PalfalviP497fz/status/2041865237142397069) | **Published:** Apr 8, 2026
-
----
-### Dankbarkeits-Gedanken am Kamin – Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein reflektierender Prompt für Grok Imagine, der das Nachdenken über Dinge, für die man dankbar ist, am abendlichen Kamin vor dem Schlafengehen beschreibt.
-
-#### 📝 Prompt
-
-```
-Am Abend vor dem Schlafengehen denke ich am Kamin über all die Dinge nach, für die ich dankbar bin
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a85bbbf2f3f5cef034b36327dce9307e/thumbnails/thumbnail.jpg" width="600" alt="Dankbarkeits-Gedanken am Kamin – Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3015)**
-
-**Author:** [Jillian](https://x.com/Jilliangcs1) | **Source:** [Link](https://x.com/Jilliangcs1/status/2041861487619403814) | **Published:** Apr 8, 2026
-
----
-### Pixel-Art-Prompt für einen allein fahrenden Groklet
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein strukturierter Prompt für Grok Imagine, der ein Video im Pixel-Art-Stil mit Loop-Ästhetik anfordert, in dem ein Groklet (türkisfarbener Alien-Junge in Lederjacke) allein auf die Kamera zufährt.
-
-#### 📝 Prompt
-
-```
-Pixel-Art-Stil, Loop-Ästhetik, relativ statische Kamera. Groklet fährt allein auf die Kamera zu (türkisfarbener Alien-Junge, Lederjacke, leuchtend blauer Kreis auf der Brust. Durag mit der Aufschrift GROKLET....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/04f972612695cd5fc278b9e79fa32faf/thumbnails/thumbnail.jpg" width="600" alt="Pixel-Art-Prompt für einen allein fahrenden Groklet">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3014)**
-
-**Author:** [👽Groklet](https://x.com/GrokletFanClub) | **Source:** [Link](https://x.com/GrokletFanClub/status/2041853881601106113) | **Published:** Apr 8, 2026
-
----
-### Ritter in dunkler Rüstung auf einem leuchtend grünen Pferd bei Nacht
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Nutzer teilt ein mit Grok Imagine erstelltes Video, das einen Ritter in dunkler Rüstung zeigt, der bei Nacht auf einem leuchtend grünen Pferd reitet, umgeben von grünem Feuer – ein wahrhaft kraftvoller Anblick.
-
-#### 📝 Prompt
-
-```
-Ritter in dunkler Rüstung auf einem leuchtend grünen Pferd bei Nacht 😮
-
-Umgeben von grünem Feuer, das Haar weht im Wind – sieht mächtig aus.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/edefb20d378d2598be80dc2f581dc2e3/thumbnails/thumbnail.jpg" width="600" alt="Ritter in dunkler Rüstung auf einem leuchtend grünen Pferd bei Nacht">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3027)**
-
-**Author:** [Shah](https://x.com/ai_with_shah) | **Source:** [Link](https://x.com/ai_with_shah/status/2041849736588882326) | **Published:** Apr 8, 2026
-
----
-### Video-Prompt für ein fotorealistisches, helles und luftiges Schlafzimmer-Interieur
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt für Grok Imagine zur Erstellung eines fotorealistischen Videos eines hellen und luftigen Schlafzimmer-Interieurs, mit Fokus auf sanfte Beleuchtung, halbtransparente Vorhänge und eine ruhige, tropische Wohnatmosphäre.
-
-#### 📝 Prompt
-
-```
-Fotorealistisches, helles und luftiges Schlafzimmer-Interieur, ungemachtes Bett mit weicher, zerknitterter weißer Bettwäsche im Vordergrund, sanft wehende, halbtransparente Vorhänge, Nachttisch aus Korbgeflecht, üppige grüne Pflanzen in der Nähe, warmes goldenes Sonnenlicht strömt durch große Fenster und wirft wunderschöne Lichtmuster und Lichtstrahlen auf den Boden und die Bettwäsche, ruhige, tropische Wohnatmosphäre, detailreich, fotorealistisch.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4f3cd9ca63bf971b6fa6f47ba7b04ba5/thumbnails/thumbnail.jpg" width="600" alt="Video-Prompt für ein fotorealistisches, helles und luftiges Schlafzimmer-Interieur">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3010)**
-
-**Author:** [Thoth Scribe](https://x.com/ThothScribe) | **Source:** [Link](https://x.com/ThothScribe/status/2041847797943824648) | **Published:** Apr 8, 2026
-
----
-### Shogi-Animation: Die Beschwörung des Drachen vom klaren Strom
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein detaillierter Prompt für Grok Imagine zur Erstellung eines kurzen, 15-20-sekündigen Animationsvideos im Aquarell-/Fantasy-Stil, das eine Shogi-Partie mit Fokus auf die „4-5-Bauern-Schnellangriff“-Formation darstellt. Das Video sollte kosmische Elemente und Lichtpartikel enthalten und den dramatischen Moment illustrieren, in dem der Turm (Hisha) sich in einen Drachen (Ryu) verwandelt und das gegnerische Lager angreift.
-
-#### 📝 Prompt
-
-```
-Titel: „Die Beschwörung des Drachen vom klaren Strom ~ Der Turm aus der Ferne wird zum Drachen und kontrolliert das gegnerische Lager ~"
-• Stil: Aquarell-Stil + SF-Fantasy mit vielen fantastischen Lichtpartikeln (sanfte, aber kraftvolle Atmosphäre)
-• Länge: Kurzes Animationsvideo von etwa 15-20 Sekunden
-• Highlights:
-• Anfang: Die Formation des 4-5-Bauern-Schnellangriffs erscheint im stillen kosmischen Raum
-• Mitte: Der Moment, in dem das Gleichgewicht durch das Setzen des 2-2-Bauern gestört wird, wird wunderschön wie eine Lichtwelle dargestellt
-• Höhepunkt: Der 4-1-Turm aus der Ferne bewegt sich mit hoher Geschwindigkeit und hinterlässt einen Schweif aus Licht → Beförderung zum Drachen auf 7-1 → Schlägt elegant den Silber-General und den Gold-General...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1408201dad27422b0a18af370058e499/thumbnails/thumbnail.jpg" width="600" alt="Shogi-Animation: Die Beschwörung des Drachen vom klaren Strom">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3029)**
-
-**Author:** [後藤強士](https://x.com/rubensutsuyosi) | **Source:** [Link](https://x.com/rubensutsuyosi/status/2041827163088023700) | **Published:** Apr 8, 2026
-
----
-### Grok Imagine Prompt: Eine zweite Stadt hängt kopfüber über einer realen Stadt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter, filmreifer Prompt für Grok Imagine, der eine surreale Szene beschreibt, in der eine zweite Stadt kopfüber über einer echten Stadt schwebt, mit symmetrischer Lichtreflexion und Bewegung in beide Richtungen, für einen verblüffend realistischen Effekt.
-
-#### 📝 Prompt
-
-```
-Eine zweite Stadt hängt kopfüber über einer realen Stadt. Während die Sonne zwischen beiden Städten aufgeht, reflektiert das Licht symmetrisch auf den Glasgebäuden. Autos und Menschen bewegen sich in beide Richtungen. Verblüffender Realismus, hochwertige filmische Komposition.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0070e82a89b1f850e8d18922219606bb/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine Prompt: Eine zweite Stadt hängt kopfüber über einer realen Stadt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3024)**
-
-**Author:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Source:** [Link](https://x.com/CharaspowerAI/status/2041825893912383668) | **Published:** Apr 8, 2026
-
----
-### Shogi-Animation: Kosmischer König auf der rechten Dreier-Reihe
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein detaillierter Prompt für Grok Imagine zur Erstellung eines 15-20-sekündigen Animationsvideos im Aquarell-/Fantasy-Stil, das eine Shogi-Partie (japanisches Schach) mit Fokus auf die Formation „König auf der rechten Dreier-Reihe“ darstellt. Das Video sollte kosmische Elemente, Lichtpartikel und dramatische Bewegungen der Spielfiguren enthalten, die in der Endposition gipfeln.
-
-#### 📝 Prompt
-
-```
-Titel: „Kosmischer König auf der rechten Dreier-Reihe ~ Künstlerische Konstellation, die sich über 81 Felder ausbreitet ~"
-• Stil: Aquarell-Stil + SF-Fantasy mit vielen fantastischen Lichtpartikeln
-• Länge: Kurzes Animationsvideo von etwa 15-20 Sekunden
-• Highlights:
-• Anfang: Die Formation des Königs auf der rechten Dreier-Reihe erscheint im stillen kosmischen Raum
-• Mitte: Der erste Spieler baut mit flexibler Positionierung unter Nutzung des Königs auf der Dreier-Reihe einen Vorteil auf, wunderschön dargestellt durch Lichtwellen und Partikel
-• Höhepunkt: Die Figuren richten sich wunderschön vertikal aus, während sie den starken Gegenangriff des zweiten Spielers, kssuya, abwehren
-• Ende: Die Kunstfertigkeit der Endposition...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e82d67fac652fb61f1b267701ad0f0fa/thumbnails/thumbnail.jpg" width="600" alt="Shogi-Animation: Kosmischer König auf der rechten Dreier-Reihe">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3028)**
-
-**Author:** [後藤強士](https://x.com/rubensutsuyosi) | **Source:** [Link](https://x.com/rubensutsuyosi/status/2041806232915210443) | **Published:** Apr 8, 2026
-
----
-### Park-Szene in Cincinnati mit schwebendem Auto
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für Grok Imagine, der eine Videoszene in einem schönen Stadtpark mit Blick auf Cincinnati anfordert, in der ein Auto im Vordergrund schwebt.
-
-#### 📝 Prompt
-
-```
-Erstelle eine Szene in einem schönen Stadtpark mit Blick auf Cincinnati und einem schwebenden Auto im Vordergrund
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0a44fab92d73ceb875965f4cbe7f8c21/thumbnails/thumbnail.jpg" width="600" alt="Park-Szene in Cincinnati mit schwebendem Auto">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3009)**
-
-**Author:** [Ben Nash](https://x.com/bennash) | **Source:** [Link](https://x.com/bennash/status/2041805306800263350) | **Published:** Apr 8, 2026
-
----
-### Prompt für Zeitrafferaufnahmen von Bau- und Fertigungsprozessen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein strukturierter Grok Imagine-Prompt zur Erstellung eines Zeitraffervideos von Bau- und Fertigungsprozessen. Der Prompt sorgt für eine statische Kameraeinstellung und beschreibt detailliert die Phasen vom aktiven Rohbau bis zum fertiggestellten Innenraum, einschließlich Arbeitern beim Verputzen von Wänden und Restaurieren von Balken.
-
-#### 📝 Prompt
-
-```
-SCENE LOCK: statisches Stativ, gleichbleibender Bildausschnitt und Objektiv, identische Orientierungspunkte beibehalten, konsistentes Tageslicht
-STAGE: Zeitraffer von Bau- und Fertigungsprozessen vom aktiven Rohbau bis zum fertiggestellten Innenraum
-DETAILS: Arbeiter beim Verputzen von Wänden, Restaurieren von Balken, Holzzuschnitt...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/533fe22162a1efa31e077184d90290ed/thumbnails/thumbnail.jpg" width="600" alt="Prompt für Zeitrafferaufnahmen von Bau- und Fertigungsprozessen">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3013)**
-
-**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2041754547224514760) | **Published:** Apr 8, 2026
-
----
-### Ein-Wort-Prompts für die Videogenerierung mit Grok Imagine
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eine Sammlung von Ein-Wort-Prompts, die mit Grok Imagine für die Videogenerierung getestet wurden. Der Nutzer stellt fest, dass einfache Ein-Wort-Prompts interessante Ergebnisse liefern können.
-
-#### 📝 Prompt
-
-```
-Horror
-viszeral
-instinktiv
-euphorisch
-bestialisch
-instinktiv
-verzückt
-wild
-ungezähmt
-urzeitlich
-viszeral
-spürbar
-erhaben
-fesselnd
-refraktiv
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/292882d7de7f0606250836761917df1f/thumbnails/thumbnail.jpg" width="600" alt="Ein-Wort-Prompts für die Videogenerierung mit Grok Imagine">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3017)**
-
-**Author:** [Hodler](https://x.com/TSLAshareholder) | **Source:** [Link](https://x.com/TSLAshareholder/status/2041749523446559061) | **Published:** Apr 8, 2026
-
----
-### Grok Imagine Prompt: Ultra-realistisches, filmisches Fantasy-Porträt einer adligen Frau
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt für Grok Imagine zur Erstellung eines ultra-realistischen, filmischen Fantasy-Porträtvideos einer adligen Frau mit sanft strahlender Haut.
-
-#### 📝 Prompt
-
-```
-Ultra-realistisches, filmisches Fantasy-Porträt einer adligen Frau mit sanft strahlender Haut
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f241ad504040d257da6f0b55799a26b2/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine Prompt: Ultra-realistisches, filmisches Fantasy-Porträt einer adligen Frau">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3025)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2041742931405533534) | **Published:** Apr 8, 2026
-
----
-### Grok Imagine Prompt für eine nächtliche See-Szene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein beschreibender Grok Imagine Prompt für ein Video, das eine nächtliche Szene mit Vollmond zeigt, einen von Kiefern umrahmten See und eine Lotusblüte, die sanft auf den Wasserwellen schaukelt, in denen sich der Mond spiegelt.
-
-#### 📝 Prompt
-
-```
-Nächtlicher Vollmond,
-See, umrahmt von Kiefern,
-Lotusblüte, die sanft auf den Wellen des Sees im Spiegelbild des Vollmonds schaukelt
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/85ecee249f7ad0c4d87c17ebcfccfb3c/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine Prompt für eine nächtliche See-Szene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3022)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2041729144594297117) | **Published:** Apr 8, 2026
-
----
-### Grok Imagine Prompt: Eine filmreife Weltraumszene animieren
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt, der Grok Imagine anweist, ein spezifisches Standbild – die Silhouette einer Person in einem Raumschiff, die auf die Erde blickt – in ein flüssiges, 12-sekündiges filmisches Video mit Schwenk- und Orbit-Bewegungen zu verwandeln.
-
-#### 📝 Prompt
-
-```
-Animieren Sie genau dieses Bild in ein flüssiges, 12-sekündiges filmisches Video. Beginnen Sie mit dem ursprünglichen Standbild: die Silhouette einer Person in einem Raumschiff, die durch das große Fenster auf die Erde blickt. Führen Sie einen langsamen Schwenk und eine Orbit-Bewegung aus, sodass die Erde realistisch am Fenster vorbeizieht (fortf...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cc23483f883f59dbc6cde94c2a603e4a/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine Prompt: Eine filmreife Weltraumszene animieren">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3011)**
-
-**Author:** [bluelittledigital](https://x.com/FreeSpeechElite) | **Source:** [Link](https://x.com/FreeSpeechElite/status/2041675607105298723) | **Published:** Apr 8, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2264,6 +2315,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-22T06:05:22.887Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-22T09:30:25.502Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1155** |
+| 📝 Total Prompts | **1176** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-04-22** |
 
@@ -189,6 +189,452 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Biến hình khỉ đột chuối bê tông
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh siêu thực chi tiết mô tả chuỗi hành động một chú khỉ đột ăn quả chuối bê tông và biến hình.
+
+#### 📝 Prompt
+
+```
+Phía sau cấu trúc quả chuối, hãy đặt hình ảnh một chú khỉ đột lưng bạc. Hãy mô tả cảnh chú khỉ đột tách vỏ và ăn quả chuối bê tông đó; sau đó, chú biến thành một chú khỉ đột bằng bê tông.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c2d65baeb565f3adf625f89e6ef33d6a/thumbnails/thumbnail.jpg" width="600" alt="Biến hình khỉ đột chuối bê tông">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3499)**
+
+**Author:** [Karen Alexander](https://x.com/Cardioechogramm) | **Source:** [Link](https://x.com/Cardioechogramm/status/2046746412382134500) | **Published:** Apr 22, 2026
+
+---
+### Cảnh quay điện ảnh chia đôi đại dương hình trái tim
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh điện ảnh đầy ấn tượng dành cho Grok Imagine, giúp tạo ra hiệu ứng hoạt ảnh chia đôi khung hình kỳ ảo về đại dương hình trái tim.
+
+#### 📝 Prompt
+
+```
+cảnh quay điện ảnh đầy ấn tượng về đại dương hình trái tim với góc nhìn chia đôi, siêu thực và đầy ma thuật.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/01fc03eaa8cfadfab9e4ae2077039d1e/thumbnails/thumbnail.jpg" width="600" alt="Cảnh quay điện ảnh chia đôi đại dương hình trái tim">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3492)**
+
+**Author:** [Bettis Miamis](https://x.com/ElisabeteTerro1) | **Source:** [Link](https://x.com/ElisabeteTerro1/status/2046740215138554318) | **Published:** Apr 21, 2026
+
+---
+### Câu lệnh tạo khu vườn bí mật trên sân thượng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Câu lệnh dùng để tạo video thêm một khu vườn bí mật và cánh cửa vào sân thượng.
+
+#### 📝 Prompt
+
+```
+Thêm một sân thượng thứ hai, trồng các hàng cây cọ và cây cảnh để tạo thành một khu vườn bí mật trên sân thượng..
+.
+một cánh cửa bí mật nằm giữa sân thượng nơi có bệ hạ cánh
+và khu vườn bí mật trên sân thượng.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/554e978eb8c4b53168f960d430f0a339/thumbnails/thumbnail.jpg" width="600" alt="Câu lệnh tạo khu vườn bí mật trên sân thượng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3488)**
+
+**Author:** [Luke Clayden](https://x.com/clayden5_luke) | **Source:** [Link](https://x.com/clayden5_luke/status/2046737481127678296) | **Published:** Apr 21, 2026
+
+---
+### Lời nhắc video về sự xuất hiện của kim tự tháp
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một lời nhắc video mô tả các kim tự tháp xuất hiện và chuyển đổi giữa các chiều không gian với độ phân giải cao.
+
+#### 📝 Prompt
+
+```
+Các kim tự tháp được tạo ra ở chiều không gian thứ 6 và hạ xuống thế giới vật chất 3D, kiệt tác, chất lượng siêu nét, độ phân giải cao
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/af8b5ae45ed4a4cd6529d414465a9ab5/thumbnails/thumbnail.jpg" width="600" alt="Lời nhắc video về sự xuất hiện của kim tự tháp">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3495)**
+
+**Author:** [MIUZAH DEIOPAH OF THE PLEIADES](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2046714606895169953) | **Published:** Apr 21, 2026
+
+---
+### Điệu nhảy La Bamba với đạo cụ samurai
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh mô tả cảnh nhảy sôi động với các động tác đôi cụ thể và đạo cụ samurai ở hậu cảnh.
+
+#### 📝 Prompt
+
+```
+Một người đàn ông và một người phụ nữ thực hiện điệu nhảy La Bamba sôi động với những động tác đôi vui tươi, trong khi những thanh kiếm samurai được đặt an toàn sang một bên làm đạo cụ....
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6a7ae42081271aee75ea8fa96ef8de53/thumbnails/thumbnail.jpg" width="600" alt="Điệu nhảy La Bamba với đạo cụ samurai">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3490)**
+
+**Author:** [Hyun Lee](https://x.com/HolyMolySakura) | **Source:** [Link](https://x.com/HolyMolySakura/status/2046690014667382958) | **Published:** Apr 21, 2026
+
+---
+### Gợi ý video võ sĩ samurai nhảy hip-hop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý sáng tạo cho Grok Imagine để tạo video các võ sĩ samurai thực hiện các động tác nhảy hip-hop đồng bộ trong trang phục truyền thống.
+
+#### 📝 Prompt
+
+```
+Tạo một cảnh quay với năm võ sĩ samurai đang thực hiện một điệu nhảy hip-hop hài hước, tràn đầy năng lượng một cách đồng bộ. Giữ nguyên trang phục samurai truyền thống của họ, nhưng tạo sự tương phản với các động tác nhảy vui nhộn, phóng đại. Bao gồm các biểu cảm ngốc nghếch, những tư thế bất ngờ, các cú xoay người cường điệu...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7b357f8a536dcc1630acf7b7b3de06ee/thumbnails/thumbnail.jpg" width="600" alt="Gợi ý video võ sĩ samurai nhảy hip-hop">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3501)**
+
+**Author:** [Hyun Lee](https://x.com/HolyMolySakura) | **Source:** [Link](https://x.com/HolyMolySakura/status/2046688295141159414) | **Published:** Apr 21, 2026
+
+---
+### Chuyển động múa hula Hawaii
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) chuyển động chất lượng cao mô tả chi tiết các cử động hông và tay cho video múa hula sống động.
+
+#### 📝 Prompt
+
+```
+Hãy để chủ thể thực hiện điệu múa hula Hawaii sôi động, tràn đầy năng lượng với phong thái tự tin và rạng rỡ. 
+Sử dụng các chuyển động hông nhịp nhàng, bước chân phối hợp nhịp nhàng và các cử chỉ tay biểu cảm sao cho tự nhiên và đầy sức sống. 
+Chuyển động cần phải tươi sáng,
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9d43737e3a9d5d0b5fd26aef51cfc1ad/thumbnails/thumbnail.jpg" width="600" alt="Chuyển động múa hula Hawaii">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3491)**
+
+**Author:** [Hyun Lee](https://x.com/HolyMolySakura) | **Source:** [Link](https://x.com/HolyMolySakura/status/2046682188092002376) | **Published:** Apr 21, 2026
+
+---
+### Hoạt ảnh múa hula Hawaii thanh lịch
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video để tạo hoạt ảnh mượt mà về một chủ thể đang thực hiện điệu múa hula Hawaii duyên dáng.
+
+#### 📝 Prompt
+
+```
+Tạo một hoạt ảnh mượt mà và thanh lịch về chủ thể đang thực hiện điệu múa hula Hawaii tuyệt đẹp. 
+Sử dụng các chuyển động lắc hông nhẹ nhàng, cử chỉ tay mềm mại, những bước nhảy duyên dáng cùng bầu không khí đảo nhiệt đới yên bình.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3c8a7fe5870ac9271ba230bac5097341/thumbnails/thumbnail.jpg" width="600" alt="Hoạt ảnh múa hula Hawaii thanh lịch">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3494)**
+
+**Author:** [Hyun Lee](https://x.com/HolyMolySakura) | **Source:** [Link](https://x.com/HolyMolySakura/status/2046677403028594727) | **Published:** Apr 21, 2026
+
+---
+### Duy trì tính liên tục của Timelapse với Scene Lock
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh kỹ thuật để tạo video timelapse ổn định với vị trí máy quay cố định giữa hai trạng thái hình ảnh.
+
+#### 📝 Prompt
+
+```
+SCENE LOCK: Duy trì tính liên tục của chân máy tĩnh từ IMAGE 3 đến IMAGE 4, vị trí máy quay hoàn toàn giống nhau, cùng khung hình ngang tầm mắt, cùng cảm giác ống kính 35mm, cùng hình học của bức tường đá, gốc cây, dòng suối, cây thông và lò rèn. Không cắt cảnh, cảnh quay ổn định, nhịp độ timelapse chân thực,
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1bc1d76578347a7bc321c5b56fb92045/thumbnails/thumbnail.jpg" width="600" alt="Duy trì tính liên tục của Timelapse với Scene Lock">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3486)**
+
+**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2046674493758984333) | **Published:** Apr 21, 2026
+
+---
+### Prompt phản ứng của người nổi tiếng trước paparazzi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt video dựa trên JSON phức tạp cho cảnh quay paparazzi đậm chất điện ảnh với tính năng khóa danh tính nghiêm ngặt.
+
+#### 📝 Prompt
+
+```
+{
+  "generation_request": {
+    "meta_data": {
+      "tool": "Video",
+      "task_type": "paparazzi_controlled_luxury_reaction",
+      "version": "v2.0_NO_DROP_HIGH_STATUS"
+    },
+    "input": {
+      "mode": "image_to_video",
+      "reference_image_usage": "maximum",
+      "preserve_identity": "strict_lock",
+      "preserve_scene": true,
+      "notes": "Giữ nguyên người phụ nữ, trang phục, đồ uống, địa điểm, góc máy, ánh sáng và bố cục. Không thay đổi khuôn mặt hoặc cơ thể của cô ấy."
+    },
+    "motion": {
+      "style": "cinematic paparazzi realism",
+      "speed": "natural real-time",
+      "camera": "subtle handheld feel only, no reframing or zoom"
+    },
+    "scene_events": {
+      "paparazzi_arrival": {
+        "action": "2-3 nhiếp ảnh gia paparazzi nhanh chóng bước vào khung hình từ hai bên và phía sau",
+        "details": "họ giơ máy ảnh lên và tiến lại gần hơn, hơi hỗn loạn nhưng không che khuất chủ thể"
+      },
+      "flash_effect": {
+        "action": "nhiều đèn flash máy ảnh lóe lên không liên tục",
+        "details": "các luồng sáng thực tế mạnh mẽ phản chiếu trên kính râm, da và trang phục của cô ấy"
+      },
+      "subject_reaction": {
+        "action": "người phụ nữ phản ứng với vẻ khó chịu rõ rệt nhưng vẫn giữ được sự điềm tĩnh",
+        "details": "hơi quay đầu tránh ống kính, lông mày hơi nhíu lại, môi mím nhẹ, ánh nhìn trở nên lạnh lùng và quyền lực hơn"
+      },
+      "body_language": {
+        "action": "cô ấy tiếp tục bước đi đầy tự tin",
+        "details": "tư thế vẫn vững vàng, vai ổn định, không có cử động hoảng loạn, duy trì phong thái sang trọng"
+      },
+      "drink_behavior": {
+        "action": "đồ uống vẫn ổn định trên tay cô ấy",
+        "details": "chỉ điều chỉnh tay tự nhiên một chút, không làm đổ, không làm rơi, chất lỏng vẫn nguyên vẹn"
+      }
+    },
+    "realism_rules": {
+      "face": "không biến dạng, khóa danh tính, chỉ có các biểu cảm nhỏ tự nhiên",
+      "body": "cơ chế đi bộ chính xác, không cứng nhắc, không bị méo mó",
+      "hands": "cầm nắm hoàn hảo, khớp ngón tay chính xác",
+      "physics": "chuyển động thực tế, không có chuyển động cường điệu",
+      "lighting": "chỉ có ánh sáng môi trường nhất quán + các luồng đèn flash"
+    },
+    "performance_direction": {
+      "emotion": "khó chịu nhưng quyền lực, không bận tâm, phong thái đẳng cấp cao",
+      "energy": "sự áp đảo có kiểm soát, không hoảng loạn",
+      "vibe": "người nổi tiếng phớt lờ paparazzi, sự tự tin sang trọng"
+    },
+    "duration": {
+      "length": "6-8 giây"
+    },
+    "negative_prompt": {
+      "avoid": [
+        "đổ đồ uống",
+        "rơi đồ uống",
+        "phản ứng hoảng loạn",
+        "chuyển động cường điệu",
+        "biến dạng khuôn mặt",
+        "biến dạng cơ thể",
+        "thừa chi",
+        "bàn tay xấu",
+        "lỗi hình ảnh",
+        "méo mó",
+        "zoom máy ảnh",
+        "thay đổi cảnh",
+        "chuyển động hoạt hình"
+      ]
+    }
+  }
+}
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dc00c1e41b1d3cb6e95c9f30276a3f35/thumbnails/thumbnail.jpg" width="600" alt="Prompt phản ứng của người nổi tiếng trước paparazzi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3482)**
+
+**Author:** [Özge Döner](https://x.com/astronomerozge1) | **Source:** [Link](https://x.com/astronomerozge1/status/2046656621414129727) | **Published:** Apr 21, 2026
+
+---
+### Cảnh phòng tin tức của Wall Street Journal
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tường thuật cho video về một biên tập viên tại Wall Street Journal đang nói về các chiến lược thị trường.
+
+#### 📝 Prompt
+
+```
+Một nhân viên tòa soạn bận rộn tại Wall Street Journal, vì có dòng chữ Wall Street Journal trên biểu ngữ ở phía sau căn phòng, đang nói rằng "blue horseshoe loves car". Tôi nói với bạn đó chính là chiến lược đấy.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b8d4244a3e0e2f2e3ae10a6fcb0ac595/thumbnails/thumbnail.jpg" width="600" alt="Cảnh phòng tin tức của Wall Street Journal">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3493)**
+
+**Author:** [Rick March](https://x.com/CrankyRicky) | **Source:** [Link](https://x.com/CrankyRicky/status/2046652938278289552) | **Published:** Apr 21, 2026
+
+---
+### Video hoa sen thiền định ảo giác
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh đầy chất thơ về người phụ nữ đang thiền định trong đóa hoa sen trên mặt biển xanh với những điểm nhấn ảo giác.
+
+#### 📝 Prompt
+
+```
+Cô gái ảo giác lý tưởng và thuần khiết, một người phụ nữ trẻ đẹp tuyệt trần đầy chất thơ đang mỉm cười nhẹ nhàng khi ngồi thiền thoải mái bên trong một đóa hoa sen vàng lớn trôi trên mặt biển xanh trong vắt, đôi mắt mở hờ khi cô nhẹ nhàng chắp tay Namaskar trực diện. 
+(((💙🩵💜)))
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/11ac8d393caaa5fb444a3869882abd01/thumbnails/thumbnail.jpg" width="600" alt="Video hoa sen thiền định ảo giác">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3489)**
+
+**Author:** [Carina](https://x.com/Freehere3) | **Source:** [Link](https://x.com/Freehere3/status/2046647102437265620) | **Published:** Apr 21, 2026
+
+---
+### Chuỗi Hành động và Âm thanh Nghi lễ Điện ảnh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tinh vi dành cho Grok Imagine, kết hợp chuỗi hành động chi tiết với các tín hiệu âm thanh dàn nhạc được đồng bộ hóa để tạo ra cảm giác điện ảnh chất lượng cao.
+
+#### 📝 Prompt
+
+```
+[CHUỖI HÀNH ĐỘNG] 
+cú quay liên tục, âm thanh bắt đầu phát ở mốc 0,01 giây và nhạc nền mờ dần vào cảnh quay điện ảnh về một phù thủy đang hiến tế miếng dưa hấu cho các vị thần, hiệu ứng hình ảnh tuyệt đẹp khi quả dưa hấu bay lơ lửng trên không trung, toàn bộ khung cảnh bị bao trùm bởi kết cấu dưa hấu choáng ngợp ở cuối cảnh khi bản nhạc điện ảnh hoành tráng đạt đến cao trào. 
+ 
+[ÂM THANH - nhạc bắt đầu phát ngay lập tức và tiếp tục xuyên suốt video, được đồng bộ hóa hoàn hảo với chuỗi hành động] 
+phát bản nhạc dàn nhạc điện ảnh đồ sộ với cảm giác u tối và đầy thắng lợi, tiếng trống taiko rung chuyển mặt đất vang vọng từ sâu trong nền, các đoạn kèn đồng staccato bùng nổ chơi một mô-típ giảm dần lặp đi lặp lại, dàn hợp xướng Gregorian đa tầng ngân vang trong tiếng vang hội trường dày đặc, những đoạn kéo đàn dây marcato quét qua tạo nên sự căng thẳng kịch tính, các nốt sub-bass sâu lắng đóng vai trò tạo điểm nhấn, âm thanh nổi rộng, không gian âm thanh hang động bao la, phong cách sử thi kiểu Hans Zimmer, 75 BPM, Đô thứ.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a64362fe486bda3da6c4870d26e80024/thumbnails/thumbnail.jpg" width="600" alt="Chuỗi Hành động và Âm thanh Nghi lễ Điện ảnh">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3498)**
+
+**Author:** [steve johnson](https://x.com/seeksteve) | **Source:** [Link](https://x.com/seeksteve/status/2046623332980683126) | **Published:** Apr 21, 2026
+
+---
+### Biến đổi đồng xu tung
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh mô tả cảnh một đồng xu đang tung trên không trung và biến đổi từ bạc sang vàng.
+
+#### 📝 Prompt
+
+```
+Một người đang tung đồng xu bạc lên không trung, đồng xu lật giữa không trung, sau đó rơi trở lại vào lòng bàn tay đang mở của họ @grok biến đổi thành vàng ròng sáng bóng
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7c54d3358ced35cbbe7b282253ac3cf7/thumbnails/thumbnail.jpg" width="600" alt="Biến đổi đồng xu tung">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3487)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2046618576086241391) | **Published:** Apr 21, 2026
+
+---
+### Chiến binh mặc giáp Titan tương lai
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một câu lệnh (prompt) video 8K đậm chất điện ảnh, chi tiết cao về một nữ chiến binh trong bộ giáp tương lai đang đi bộ qua một thành phố hậu tận thế.
+
+#### 📝 Prompt
+
+```
+Video dọc 9 giây đậm chất điện ảnh, 8K siêu thực, kết xuất 3D chân thực như ảnh chụp. Một nữ chiến binh mạnh mẽ khoác trên mình bộ giáp Titan tương lai ôm sát cơ thể đầy tinh xảo, tự tin bước về phía máy quay giữa khung cảnh thành phố hậu tận thế đang bốc cháy. Bộ giáp có màu bạc tối ánh kim và đen với các đường mạch điện phát sáng màu xanh dương, đèn nhấn màu vàng và độ phản chiếu bóng bẩy. Mũ bảo hiểm có tấm che màu đen bóng với các chi tiết hình ảnh ba chiều phát sáng màu xanh dương rực rỡ bên trong.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/68b0dc56fa7029e64fa032168d1a515a/thumbnails/thumbnail.jpg" width="600" alt="Chiến binh mặc giáp Titan tương lai">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3500)**
+
+**Author:** [ぼたもち。@贖罪卿](https://x.com/botamochi8639) | **Source:** [Link](https://x.com/botamochi8639/status/2046523096597925932) | **Published:** Apr 21, 2026
+
+---
+### Trận chiến Robot Thỏ Mecha hoành tráng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) điện ảnh cực kỳ chi tiết về trận chiến tàn khốc giữa các robot thỏ mecha linh hoạt và một tên trùm khổng lồ.
+
+#### 📝 Prompt
+
+```
+Một video dọc (9:16) dài 15 giây, chân thực và đậm chất điện ảnh về một trận chiến mecha tàn khốc, dữ dội trong bối cảnh thành phố đổ nát thời hậu tận thế vào giờ vàng. Hai robot thỏ mecha nhỏ nhắn, kiểu dáng đẹp mắt với tông màu trắng đen, có đôi tai thỏ cơ khí dài, kính che mặt màu cam phát sáng và lộ rõ khuôn mặt của các nữ phi công (phụ nữ Đông Á trẻ tuổi với mái tóc đen ngắn bên trong mũ bảo hiểm) đang chiến đấu với một tên trùm robot thỏ mecha khổng lồ, bọc thép hạng nặng màu xám đậm và bạc. Tên trùm mecha này to gấp đôi chúng, đầy vết sẹo chiến tranh, với đôi mắt đỏ rực, các pít-tông lộ ra ngoài, dây cáp thủy lực và lớp giáp dày.\nChuỗi hành động năng động:\nBắt đầu với tên trùm mecha sừng sững phía trên một robot thỏ mecha nhỏ đang ở tư thế chiến đấu thấp trên đôi chân dạng con lăn.\nBiên đạo hành động nhịp độ nhanh: các robot nhỏ nhảy vọt, tung cú đá xoay vòng, đấm liên hồi và né tránh nhào lộn.\nTên trùm mecha phản công tàn bạo — những cú đấm mạnh mẽ tạo ra tia lửa màu cam rực rỡ và các vụ nổ khi va chạm, những cú đá tàn khốc khiến các robot nhỏ bay xa, đập mạnh vào lớp bê tông nứt nẻ.\nMột robot nhỏ bị tóm lấy, đập xuống đất, sau đó bị ném đi khắp chiến trường đầy bụi bặm.\nĐám mây bụi, mảnh vỡ bay tung tóe, tia lửa và các chi tiết cơ khí phát sáng ở khắp mọi nơi.\nCác góc quay thấp và cận cảnh đầy kịch tính cho thấy các khớp cơ khí, đôi mắt phát sáng và biểu cảm khuôn mặt bên trong mũ bảo hiểm.\nNhững khoảnh khắc cuối cùng cho thấy tên trùm mecha đang chiếm ưu thế, bước qua những robot nhỏ đã gục ngã trong khi một robot nhỏ khác lao đến từ phía bên cạnh trong một đòn tấn công tuyệt vọng cuối cùng.\nĐồ họa CGI 8K siêu chi tiết, kết cấu chân thực, ánh sáng điện ảnh với các tia sáng (god rays) thể tích mạnh mẽ, hiệu ứng nhòe chuyển động (motion blur) khi di chuyển nhanh, hiệu ứng quay chậm tinh tế khi va chạm mạnh, bầu không khí hậu tận thế gai góc, các tòa nhà bê tông bị phá hủy và gạch vụn ở hậu cảnh, kỹ thuật quay phim kịch tính với góc nghiêng (Dutch angles) và các cú máy tracking, theo phong cách của các bộ phim hành động khoa học viễn tưởng cao cấp như Pacific Rim và Ghost in the Shell.\nTừ khóa phong cách: điện ảnh, chân thực, siêu chi tiết, ánh sáng kịch tính, chi tiết cơ khí, hiệu ứng tia lửa và hạt, hành động dữ dội, giàu cảm xúc, gai góc, sử thi.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7958af99429f5b256c80f7b7094509cf/thumbnails/thumbnail.jpg" width="600" alt="Trận chiến Robot Thỏ Mecha hoành tráng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3485)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2046522451379847343) | **Published:** Apr 21, 2026
+
+---
+### Cô gái siêu thực trong khung cảnh hoàng hôn thiên nhiên
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video cho Grok Imagine, tập trung vào tính nhất quán của nhân vật và ánh sáng chân thực tại một khu bảo tồn thiên nhiên vào lúc hoàng hôn.
+
+#### 📝 Prompt
+
+```
+Duy trì CHÍNH XÁC khuôn mặt, biểu cảm và danh tính của cô gái mà không có bất kỳ thay đổi nào — siêu thực, không bị biến dạng. Cảnh quay bắt đầu bằng góc máy rộng tại một khu bảo tồn thiên nhiên tươi tốt, ánh sáng hoàng hôn vàng rực xuyên qua những tán cây cao
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee54d17a8823a68d0314bfba68fc7a6b/thumbnails/thumbnail.jpg" width="600" alt="Cô gái siêu thực trong khung cảnh hoàng hôn thiên nhiên">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3502)**
+
+**Author:** [Bettis Miamis](https://x.com/ElisabeteTerro1) | **Source:** [Link](https://x.com/ElisabeteTerro1/status/2046518921713303589) | **Published:** Apr 21, 2026
+
+---
+### Sự tập trung cao độ khi đua xe
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt mô tả cảnh lái xe tốc độ cao với biểu cảm khuôn mặt tập trung và kỹ thuật lia máy quay linh hoạt.
+
+#### 📝 Prompt
+
+```
+VROOM VROOM bắt đầu tập trung vào những ánh nhìn đầy căng thẳng và sự tập trung cao độ khi hai người bạn thân đang hoàn toàn kiểm soát chiếc xe thể thao hot rod tưởng tượng của họ, camera lia vào rồi lia ra
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/96423fbd2cd537ad419f033fb28f2678/thumbnails/thumbnail.jpg" width="600" alt="Sự tập trung cao độ khi đua xe">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3497)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2046511204722467089) | **Published:** Apr 21, 2026
+
+---
+### Cảnh phức tạp giữa người ngoài hành tinh và doanh nhân
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tham chiếu đa hình ảnh phức tạp bao gồm người ngoài hành tinh, doanh nhân và tàu vũ trụ.
+
+#### 📝 Prompt
+
+```
+1. Nhân vật người ngoài hành tinh 2. Nhân vật doanh nhân 3. Ngôi nhà ở hậu cảnh (lấy từ chế độ xem đường phố Google Maps), hãy biến @image2 thành một ngày mưa tối tăm. Người ngoài hành tinh @image1 đi bộ đến ngôi nhà màu trắng trong khi một con tàu vũ trụ khổng lồ bay phía trên. Người đàn ông @image3 nhìn thấy người ngoài hành tinh và bỏ chạy trong trạng thái hoảng loạn
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/61a01bde09662cbe1739ad6deae15bbb/thumbnails/thumbnail.jpg" width="600" alt="Cảnh phức tạp giữa người ngoài hành tinh và doanh nhân">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3483)**
+
+**Author:** [M I K E • マイケル・リックス](https://x.com/michaelricks) | **Source:** [Link](https://x.com/michaelricks/status/2046444567126216730) | **Published:** Apr 21, 2026
+
+---
 ### Trận chiến tàu vũ trụ trên sông Missouri
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +652,44 @@ Trận chiến tàu vũ trụ trên sông Missouri tại Lazy River Acres ở bi
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3437)**
 
 **Author:** [Hoff 🌙](https://x.com/HoffPlanet) | **Source:** [Link](https://x.com/HoffPlanet/status/2046440705908679139) | **Published:** Apr 21, 2026
+
+---
+### Lời nhắc video khảo sát Mặt Trăng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một lời nhắc video kỹ thuật cho chuyến bay tầm thấp trên Mặt Trăng để quét các nguyên tố cụ thể.
+
+#### 📝 Prompt
+
+```
+{Nano Intelligence Hydrate Methane }Protection Shield} ^^*^*^đang quét các tảng đá trên Mặt Trăng ở quỹ đạo bay tầm thấp 3 mét....
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/024a945b482ddaab8d2f1fbb22bec78a/thumbnails/thumbnail.jpg" width="600" alt="Lời nhắc video khảo sát Mặt Trăng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3496)**
+
+**Author:** [Notzucow](https://x.com/Notzucow69) | **Source:** [Link](https://x.com/Notzucow69/status/2046423903799525412) | **Published:** Apr 21, 2026
+
+---
+### Trận chiến Mecha công nghiệp
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) toàn diện về trận chiến giữa robot thỏ khổng lồ và các chiến binh kích thước người thật tại một vùng đất hoang đầy bụi bặm.
+
+#### 📝 Prompt
+
+```
+Trận chiến sử thi đậm chất điện ảnh tại một vùng đất hoang công nghiệp phản địa đàng vào lúc hoàng hôn, không khí tràn ngập khói bụi dày đặc. Một robot thỏ mecha khổng lồ cao 40 feet với tông màu trắng đen, đôi mắt đỏ cam rực sáng, đôi tai thỏ cơ khí dài, lớp giáp dày cùng các chi mạnh mẽ đang chiến đấu quyết liệt với hai chiến binh tai thỏ kích thước người thật nhanh nhẹn trong bộ đồ bó sát tương lai màu trắng đen, đội mũ bảo hiểm và tấm che mặt phát sáng.\n\nChuỗi hành động năng động:\n- Một chiến binh thỏ nhảy cao lên không trung, tung những cú đá và cú đấm năng lượng mạnh mẽ vào đầu và ngực của robot khổng lồ, tạo ra những tia lửa màu cam rực rỡ và các vụ nổ.\n- Chiến binh thỏ thứ hai di chuyển tầm thấp, trượt và tấn công vào chân của robot bằng những luồng năng lượng rực cháy và các cú đá, gây ra lửa và tia lửa nóng chảy trên nền bê tông.\n- Robot thỏ khổng lồ vung đôi tay to lớn, đấm xuống đất tạo ra sóng xung kích và mảnh vỡ, cố gắng chộp lấy và nghiền nát các chiến binh nhỏ hơn, đôi mắt nó bùng sáng sau mỗi cú va chạm.\n\nNhững tia lửa dữ dội, mảnh vỡ bay tứ tung, các vụ nổ trên mặt đất, khói dày cuồn cuộn, ánh lửa màu cam kịch tính phản chiếu trên các bề mặt kim loại, ánh sáng điện ảnh, các góc quay rộng sử thi và góc máy thấp năng động, CGI siêu thực, chi tiết chân thực như ảnh chụp, bầu không khí kịch tính, độ tương phản cao, 8K, kiệt tác, chất lượng tốt nhất, độ chi tiết cao, hiệu ứng nhòe chuyển động trên các pha hành động nhanh.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/193907cf7036890af32bfba00dadc244/thumbnails/thumbnail.jpg" width="600" alt="Trận chiến Mecha công nghiệp">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3484)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2046389815365480463) | **Published:** Apr 21, 2026
 
 ---
 ### Người phụ nữ trên ban công trong khung cảnh lộng gió
@@ -1756,446 +2240,6 @@ cậu bé mày mò quanh cửa tiệm, khởi động một cỗ máy kỳ lạ,
 **Author:** [👽Groklet](https://x.com/GrokletFanClub) | **Source:** [Link](https://x.com/GrokletFanClub/status/2042036798361104570) | **Published:** Apr 9, 2026
 
 ---
-### Giải cấu trúc chân dung vào hư vô
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) dành cho tính năng tạo video Grok Imagine, mô tả quá trình giải cấu trúc chậm rãi của một bức chân dung được tạo từ các sợi chỉ đỏ và vàng đan xen, chúng tách rời và rơi vào một khoảng không tối tăm.
-
-#### 📝 Prompt
-
-```
-Các sợi chỉ đỏ và vàng đan xen trên bức chân dung từ từ nới lỏng và tách rời, rơi xuống một khoảng không tối tăm cho đến khi khuôn mặt hoàn toàn tan biến.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0f9225930be5e754e6c6d9c57a5e834d/thumbnails/thumbnail.jpg" width="600" alt="Giải cấu trúc chân dung vào hư vô">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3018)**
-
-**Author:** [Mr Fox](https://x.com/foxmr507) | **Source:** [Link](https://x.com/foxmr507/status/2042017411230990429) | **Published:** Apr 8, 2026
-
----
-### Bình minh của Kỷ nguyên Bảo Bình
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tường thuật dành cho Grok Imagine, tham chiếu đến vở nhạc kịch HAIR và 'Kỷ nguyên Bảo Bình', đối chiếu nhận thức của những năm 1970 với thời điểm hiện tại.
-
-#### 📝 Prompt
-
-```
-Vào những năm 1970, tôi đã đi xem vở nhạc kịch HAIR. Họ hát những bài ca với đóa hoa cài trên tóc về Bình minh của Kỷ nguyên Bảo Bình… Đó không phải là Kỷ nguyên Bảo Bình của những năm 70. Giờ đây, đó chính là Bình minh của Kỷ nguyên Bảo Bình.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d4b28647bfbab79f0a07b5cb2197ca84/thumbnails/thumbnail.jpg" width="600" alt="Bình minh của Kỷ nguyên Bảo Bình">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3020)**
-
-**Author:** [Jillian](https://x.com/Jilliangcs1) | **Source:** [Link](https://x.com/Jilliangcs1/status/2042004546520825886) | **Published:** Apr 8, 2026
-
----
-### Gợi ý tạo hình ảnh chiếc cân cổ điển với bảng hiệu chữ viết tay
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh dành cho Grok Imagine để tạo video về chiếc cân cổ điển, kèm theo bảng hiệu có dòng chữ viết tay về việc nuôi dưỡng những suy nghĩ tích cực.
-
-#### 📝 Prompt
-
-```
-Tạo hình ảnh một chiếc cân cổ điển với bảng hiệu có dòng chữ viết tay: ‘Cultivate a life where good thoughts and things outweigh the bad’ (Hãy vun đắp một cuộc sống nơi những suy nghĩ và điều tốt đẹp luôn chiếm ưu thế hơn những điều tồi tệ)
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fa8b418c3e8c75bdbb0995ef7d91d3a1/thumbnails/thumbnail.jpg" width="600" alt="Gợi ý tạo hình ảnh chiếc cân cổ điển với bảng hiệu chữ viết tay">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3012)**
-
-**Author:** [Lisa Jmes](https://x.com/JmesLisa65488) | **Source:** [Link](https://x.com/JmesLisa65488/status/2041982751512129827) | **Published:** Apr 8, 2026
-
----
-### Gợi ý Grok Imagine cho video tua nhanh quá trình xây dựng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý Grok Imagine cực kỳ chi tiết cho video tua nhanh (time-lapse) về quá trình xây dựng một ngôi nhà gỗ, nhấn mạnh vào vị trí máy quay cố định và các chi tiết cụ thể trong quá trình thi công.
-
-#### 📝 Prompt
-
-```
-CỐ ĐỊNH CẢNH: giữ nguyên vị trí chân máy, khung hình và ống kính, các mốc cảnh quan không thay đổi
-GIAI ĐOẠN: từ lúc bắt đầu xây dựng đến khi hoàn thiện ngôi nhà gỗ
-CHI TIẾT: công nhân đang cắt, lắp ráp và dựng các bức tường gỗ và mái nhà, mái tranh được lợp dần dần, cầu thang được xây từng bước, ban công...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/18c4f22618bdf865a3e9f8449239bf5b/thumbnails/thumbnail.jpg" width="600" alt="Gợi ý Grok Imagine cho video tua nhanh quá trình xây dựng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3023)**
-
-**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2041963695438508206) | **Published:** Apr 8, 2026
-
----
-### Cảnh phim Jetsons gặp gỡ Simpsons
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh chi tiết, gồm nhiều phần dành cho Grok Imagine, yêu cầu một cảnh cụ thể (Cảnh 4/7: Elroy) từ một tập phim giả tưởng nơi gia đình Jetsons gặp gỡ gia đình Simpsons, tập trung vào Tiệm rửa xe bay đầu tiên của Springfield.
-
-#### 📝 Prompt
-
-```
-Jetsons vào năm 2030 – Gặp gỡ gia đình Simpsons!
-Tập 2: Tiệm rửa xe bay đầu tiên của Springfield!
-Cảnh 4/7: Elroy
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/51a27a742bcc2c2792cea26b3963197c/thumbnails/thumbnail.jpg" width="600" alt="Cảnh phim Jetsons gặp gỡ Simpsons">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3008)**
-
-**Author:** [ITALKTOGROK](https://x.com/positive_jetson) | **Source:** [Link](https://x.com/positive_jetson/status/2041962205990514945) | **Published:** Apr 8, 2026
-
----
-### Ảnh tĩnh phim câm thập niên 1920
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video chi tiết cho Grok Imagine, mô tả cảnh quay theo phong cách ảnh tĩnh phim câm thập niên 1920, với nhân vật giống Chaplin và một phụ nữ flapper trên vỉa hè thành phố nhộn nhịp.
-
-#### 📝 Prompt
-
-```
-Một bức ảnh tĩnh phim câm thập niên 1920 với tông màu đen trắng rõ nét, chất liệu phim 35mm có độ nhiễu hạt, độ tương phản cao. Một nhân vật nhỏ nhắn giống Chaplin với chiếc mũ quả dưa, ria mép kiểu bàn chải, gậy ba toong và bộ quần áo rộng thùng thình đang ngả mũ chào một phụ nữ flapper sành điệu với mái tóc bob ngắn, mũ cloche, váy hạ eo đính tua rua và chuỗi hạt ngọc trai dài. Họ đứng trên vỉa hè thành phố đông đúc với những chiếc xe Model T cổ điển và cột đèn đường ở phía sau. Biểu cảm ngạc nhiên được phóng đại, ánh sáng điện ảnh dịu nhẹ, các vết xước và bụi bẩn đặc trưng của phim cũ, mang đậm bầu không khí của phim câm.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2c3952b7fe924014b299319899a2039b/thumbnails/thumbnail.jpg" width="600" alt="Ảnh tĩnh phim câm thập niên 1920">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3021)**
-
-**Author:** [Lucy](https://x.com/princess414141) | **Source:** [Link](https://x.com/princess414141/status/2041960326397051081) | **Published:** Apr 8, 2026
-
----
-### Prompt tạo video timelapse nội thất hầm trú ẩn
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một cấu trúc prompt Grok Imagine để tạo video timelapse cảnh dàn dựng nội thất hầm trú ẩn, duy trì khóa khung hình (scene lock) và mô tả chi tiết quá trình từ lúc trống trải đến khi được trang bị đầy đủ, bao gồm cảnh công nhân vận chuyển giường và lắp ráp bảng điều khiển.
-
-#### 📝 Prompt
-
-```
-KHÓA KHUNG HÌNH (SCENE LOCK): giữ nguyên chân máy, giữ nguyên bố cục, không chuyển động, giữ nguyên ánh sáng nền với sự tăng cường dần dần
-
-GIAI ĐOẠN: dàn dựng nội thất hầm trú ẩn từ trạng thái trống trải đến khi được trang bị đầy đủ
-
-CHI TIẾT: công nhân vận chuyển giường vào hầm và bắt vít vào tường, lắp ráp các bảng điều khiển và...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/481f81071bfff4e572b9602b78d44ed8/thumbnails/thumbnail.jpg" width="600" alt="Prompt tạo video timelapse nội thất hầm trú ẩn">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3016)**
-
-**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2041871525998161949) | **Published:** Apr 8, 2026
-
----
-### Lời chào từ sa mạc và gia vị
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh cho Grok Imagine dựa trên lời chào đề cập đến sa mạc và "gia vị" (the spice), có khả năng lấy cảm hứng từ Dune, nhằm tạo ra một video theo chủ đề.
-
-#### 📝 Prompt
-
-```
-Chúc sa mạc đối xử dịu dàng với bạn, và chúc gia vị dẫn lối cho hành trình của bạn. Chúc các nhà sáng tạo một ngày tốt lành! 👋🌅.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b6ea51139424413f39caccc7f7b2e95f/thumbnails/thumbnail.jpg" width="600" alt="Lời chào từ sa mạc và gia vị">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3019)**
-
-**Author:** [Petergu](https://x.com/PalfalviP497fz) | **Source:** [Link](https://x.com/PalfalviP497fz/status/2041865237142397069) | **Published:** Apr 8, 2026
-
----
-### Gợi ý suy ngẫm về lòng biết ơn bên bếp lửa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý suy ngẫm dành cho Grok Imagine, mô tả việc nghĩ về những điều đáng trân trọng bên bếp lửa vào buổi tối trước khi đi ngủ.
-
-#### 📝 Prompt
-
-```
-Vào buổi tối bên bếp lửa trước khi đi ngủ, tôi nghĩ về tất cả những điều mà tôi cảm thấy biết ơn
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a85bbbf2f3f5cef034b36327dce9307e/thumbnails/thumbnail.jpg" width="600" alt="Gợi ý suy ngẫm về lòng biết ơn bên bếp lửa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3015)**
-
-**Author:** [Jillian](https://x.com/Jilliangcs1) | **Source:** [Link](https://x.com/Jilliangcs1/status/2041861487619403814) | **Published:** Apr 8, 2026
-
----
-### Câu lệnh tạo ảnh Pixel Art Groklet lái xe một mình
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh có cấu trúc dành cho Grok Imagine, yêu cầu phong cách nghệ thuật pixel, video thẩm mỹ dạng vòng lặp với hình ảnh Groklet (cậu bé người ngoài hành tinh màu xanh mòng két mặc áo khoác da) đang lái xe một mình hướng về phía máy quay.
-
-#### 📝 Prompt
-
-```
-phong cách nghệ thuật pixel, thẩm mỹ dạng vòng lặp, máy quay tương đối tĩnh. Groklet lái xe một mình hướng về phía máy quay (cậu bé người ngoài hành tinh màu xanh mòng két, áo khoác da, vòng tròn phát sáng màu xanh dương trên ngực. Khăn trùm đầu có chữ GROKLET....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/04f972612695cd5fc278b9e79fa32faf/thumbnails/thumbnail.jpg" width="600" alt="Câu lệnh tạo ảnh Pixel Art Groklet lái xe một mình">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3014)**
-
-**Author:** [👽Groklet](https://x.com/GrokletFanClub) | **Source:** [Link](https://x.com/GrokletFanClub/status/2041853881601106113) | **Published:** Apr 8, 2026
-
----
-### Hiệp sĩ mặc giáp đen cưỡi ngựa phát sáng màu xanh lá cây trong đêm
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một người dùng chia sẻ video được tạo bằng Grok Imagine, mô tả một hiệp sĩ mặc giáp đen cưỡi trên lưng con ngựa phát sáng màu xanh lá cây trong đêm, xung quanh là ngọn lửa xanh đầy ấn tượng, tạo nên một hình ảnh vô cùng mạnh mẽ.
-
-#### 📝 Prompt
-
-```
-Hiệp sĩ mặc giáp đen cưỡi ngựa phát sáng màu xanh lá cây trong đêm 😮 
-
-Ngọn lửa xanh bao quanh, mái tóc tung bay, trông thật mạnh mẽ.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/edefb20d378d2598be80dc2f581dc2e3/thumbnails/thumbnail.jpg" width="600" alt="Hiệp sĩ mặc giáp đen cưỡi ngựa phát sáng màu xanh lá cây trong đêm">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3027)**
-
-**Author:** [Shah](https://x.com/ai_with_shah) | **Source:** [Link](https://x.com/ai_with_shah/status/2041849736588882326) | **Published:** Apr 8, 2026
-
----
-### Gợi ý video nội thất phòng ngủ sáng sủa, thoáng đãng và chân thực
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý chi tiết dành cho Grok Imagine để tạo video chân thực về nội thất phòng ngủ sáng sủa, thoáng đãng, tập trung vào ánh sáng dịu nhẹ, rèm cửa mỏng và bầu không khí nhà ở nhiệt đới yên bình.
-
-#### 📝 Prompt
-
-```
-Nội thất phòng ngủ sáng sủa, thoáng đãng và chân thực, giường chưa dọn với bộ chăn ga gối màu trắng mềm mại, nhăn nheo ở tiền cảnh, rèm cửa mỏng đung đưa nhẹ nhàng, tủ đầu giường bằng mây, cây xanh tươi tốt ở gần, ánh nắng vàng ấm áp tràn qua những khung cửa sổ lớn, tạo nên những vệt sáng và tia nắng tuyệt đẹp trên sàn nhà và giường ngủ, bầu không khí nhà ở nhiệt đới yên bình, độ chi tiết cao, chân thực.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4f3cd9ca63bf971b6fa6f47ba7b04ba5/thumbnails/thumbnail.jpg" width="600" alt="Gợi ý video nội thất phòng ngủ sáng sủa, thoáng đãng và chân thực">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3010)**
-
-**Author:** [Thoth Scribe](https://x.com/ThothScribe) | **Source:** [Link](https://x.com/ThothScribe/status/2041847797943824648) | **Published:** Apr 8, 2026
-
----
-### Hoạt họa Shogi: Triệu hồi Rồng từ Dòng suối Trong
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Một câu lệnh chi tiết dành cho Grok Imagine để tạo video hoạt họa ngắn từ 15-20 giây theo phong cách màu nước/giả tưởng, mô tả một ván đấu Shogi tập trung vào thế trận '4-5 Tốt Tấn công Nhanh'. Video cần làm nổi bật các yếu tố vũ trụ và các hạt ánh sáng, minh họa khoảnh khắc kịch tính khi quân Xe (Hisha) hóa Rồng (Ryu) và tấn công vào doanh trại đối phương.
-
-#### 📝 Prompt
-
-```
-Tiêu đề: "Triệu hồi Rồng từ Dòng suối Trong ~ Quân Xe từ xa hóa Rồng, làm chủ doanh trại địch ~"
-• Phong cách: Phong cách màu nước + giả tưởng SF, sử dụng nhiều hạt ánh sáng huyền ảo (bầu không khí vừa nhẹ nhàng vừa mạnh mẽ)
-• Thời lượng: Video hoạt họa ngắn khoảng 15-20 giây
-• Điểm nhấn:
-• Mở đầu: Thế trận 4-5 Tốt Tấn công Nhanh xuất hiện trong không gian vũ trụ tĩnh lặng
-• Giữa: Khoảnh khắc thế trận bị phá vỡ khi thả quân 2-2 Tốt được thể hiện đẹp mắt như những gợn sóng ánh sáng
-• Cao trào: Quân 4-1 Xe từ xa di chuyển với tốc độ cao, để lại vệt sáng phía sau → Phong cấp thành Rồng tại 7-1 → Bắt gọn quân Bạc và quân Vàng một cách đầy thanh thoát...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1408201dad27422b0a18af370058e499/thumbnails/thumbnail.jpg" width="600" alt="Hoạt họa Shogi: Triệu hồi Rồng từ Dòng suối Trong">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3029)**
-
-**Author:** [後藤強士](https://x.com/rubensutsuyosi) | **Source:** [Link](https://x.com/rubensutsuyosi/status/2041827163088023700) | **Published:** Apr 8, 2026
-
----
-### Grok Imagine prompt: Một thành phố thứ hai lơ lửng ngược phía trên một thành phố thực
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt điện ảnh chi tiết dành cho Grok Imagine, mô tả khung cảnh siêu thực nơi một thành phố thứ hai bị đảo ngược phía trên một thành phố thực, với sự phản chiếu ánh sáng đối xứng và chuyển động theo cả hai hướng, hướng tới sự chân thực đầy kinh ngạc.
-
-#### 📝 Prompt
-
-```
-Một thành phố thứ hai lơ lửng ngược phía trên một thành phố thực. Khi mặt trời mọc giữa hai thành phố, ánh sáng phản chiếu đối xứng qua các tòa nhà bằng kính. Xe cộ và con người di chuyển theo cả hai hướng. Sự chân thực đầy kinh ngạc, bố cục điện ảnh cao cấp
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0070e82a89b1f850e8d18922219606bb/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine prompt: Một thành phố thứ hai lơ lửng ngược phía trên một thành phố thực">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3024)**
-
-**Author:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Source:** [Link](https://x.com/CharaspowerAI/status/2041825893912383668) | **Published:** Apr 8, 2026
-
----
-### Hoạt hình Shogi: Vua Ba Tầng Bên Phải Vũ Trụ
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Một câu lệnh chi tiết dành cho Grok Imagine để tạo video hoạt hình ngắn 15-20 giây theo phong cách màu nước/giả tưởng, mô tả ván cờ Shogi (cờ tướng Nhật Bản) tập trung vào đội hình 'Vua Ba Tầng Bên Phải'. Video nên có các yếu tố vũ trụ, hạt ánh sáng và chuyển động kịch tính của các quân cờ, dẫn đến vị trí cuối cùng.
-
-#### 📝 Prompt
-
-```
-Tiêu đề: "Vua Ba Tầng Bên Phải Vũ Trụ ~ Chòm sao nghệ thuật lan tỏa khắp 81 ô cờ ~"
-• Phong cách: Phong cách màu nước + giả tưởng SF sử dụng nhiều hạt ánh sáng huyền ảo
-• Độ dài: Video hoạt hình ngắn khoảng 15-20 giây
-• Điểm nhấn:
-• Mở đầu: Đội hình Vua Ba Tầng Bên Phải xuất hiện trong không gian vũ trụ tĩnh lặng
-• Giữa: Người chơi thứ nhất tạo lợi thế bằng cách định vị linh hoạt sử dụng Vua Ba Tầng, được thể hiện đẹp mắt bằng các gợn sóng ánh sáng và hạt bụi
-• Cao trào: Các quân cờ xếp thẳng hàng một cách đẹp mắt trong khi chống đỡ đòn phản công mạnh mẽ từ người chơi thứ hai, kssuya
-• Kết thúc: Tính nghệ thuật của vị trí cuối cùng...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e82d67fac652fb61f1b267701ad0f0fa/thumbnails/thumbnail.jpg" width="600" alt="Hoạt hình Shogi: Vua Ba Tầng Bên Phải Vũ Trụ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3028)**
-
-**Author:** [後藤強士](https://x.com/rubensutsuyosi) | **Source:** [Link](https://x.com/rubensutsuyosi/status/2041806232915210443) | **Published:** Apr 8, 2026
-
----
-### Khung cảnh công viên Cincinnati với chiếc xe bay lơ lửng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) cho Grok Imagine để tạo cảnh video tại một công viên thành phố xinh đẹp với tầm nhìn ra Cincinnati, nổi bật với một chiếc xe đang bay lơ lửng ở phía trước.
-
-#### 📝 Prompt
-
-```
-Tạo khung cảnh một công viên thành phố xinh đẹp với tầm nhìn ra Cincinnati, có một chiếc xe đang bay lơ lửng ở phía trước
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0a44fab92d73ceb875965f4cbe7f8c21/thumbnails/thumbnail.jpg" width="600" alt="Khung cảnh công viên Cincinnati với chiếc xe bay lơ lửng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3009)**
-
-**Author:** [Ben Nash](https://x.com/bennash) | **Source:** [Link](https://x.com/bennash/status/2041805306800263350) | **Published:** Apr 8, 2026
-
----
-### Prompt tạo video timelapse thi công và xây dựng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một cấu trúc prompt Grok Imagine dùng để tạo video timelapse quá trình thi công và xây dựng, duy trì góc máy cố định và mô tả chi tiết các giai đoạn từ lúc bắt đầu xây dựng đến khi hoàn thiện nội thất, bao gồm cảnh công nhân trát tường và phục dựng dầm nhà.
-
-#### 📝 Prompt
-
-```
-CỐ ĐỊNH CẢNH: chân máy tĩnh, giữ nguyên khung hình và ống kính, các mốc cảnh quan không đổi, ánh sáng ban ngày đồng nhất
-GIAI ĐOẠN: timelapse thi công và xây dựng từ lúc bắt đầu đến khi hoàn thiện nội thất
-CHI TIẾT: công nhân trát tường, phục dựng dầm nhà, cắt gỗ...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/533fe22162a1efa31e077184d90290ed/thumbnails/thumbnail.jpg" width="600" alt="Prompt tạo video timelapse thi công và xây dựng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3013)**
-
-**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2041754547224514760) | **Published:** Apr 8, 2026
-
----
-### Các câu lệnh một từ dành cho tính năng tạo video Grok Imagine
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một bộ các câu lệnh chỉ gồm một từ đã được thử nghiệm với Grok Imagine để tạo video. Người dùng lưu ý rằng các câu lệnh đơn giản chỉ với một từ có thể mang lại những kết quả thú vị.
-
-#### 📝 Prompt
-
-```
-kinh dị
-chân thực
-bản năng
-hưng phấn
-thú tính
-bản năng
-ngây ngất
-hoang dã
-hoang dại
-nguyên thủy
-chân thực
-rõ nét
-hùng vĩ
-lôi cuốn
-khúc xạ
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/292882d7de7f0606250836761917df1f/thumbnails/thumbnail.jpg" width="600" alt="Các câu lệnh một từ dành cho tính năng tạo video Grok Imagine">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3017)**
-
-**Author:** [Hodler](https://x.com/TSLAshareholder) | **Source:** [Link](https://x.com/TSLAshareholder/status/2041749523446559061) | **Published:** Apr 8, 2026
-
----
-### Grok Imagine prompt: Chân dung giả tưởng điện ảnh siêu thực về một nữ hoàng tộc
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh chi tiết dành cho Grok Imagine để tạo video chân dung giả tưởng điện ảnh, siêu thực về một nữ hoàng tộc với làn da sáng mịn.
-
-#### 📝 Prompt
-
-```
-Chân dung giả tưởng điện ảnh siêu thực về một nữ hoàng tộc với làn da sáng mịn
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f241ad504040d257da6f0b55799a26b2/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine prompt: Chân dung giả tưởng điện ảnh siêu thực về một nữ hoàng tộc">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3025)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2041742931405533534) | **Published:** Apr 8, 2026
-
----
-### Grok Imagine prompt cho cảnh hồ nước vào ban đêm
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt Grok Imagine mô tả chi tiết cho video về cảnh đêm với trăng tròn, hồ nước được bao quanh bởi những hàng thông, và một bông hoa sen nhẹ nhàng đung đưa trên những gợn sóng phản chiếu ánh trăng.
-
-#### 📝 Prompt
-
-```
-Đêm trăng tròn,
-Hồ nước được bao quanh bởi những hàng thông,
-Hoa sen nhẹ nhàng đung đưa trên những gợn sóng của hồ nước phản chiếu ánh trăng
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/85ecee249f7ad0c4d87c17ebcfccfb3c/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine prompt cho cảnh hồ nước vào ban đêm">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3022)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2041729144594297117) | **Published:** Apr 8, 2026
-
----
-### Grok Imagine prompt: Tạo chuyển động cho cảnh không gian điện ảnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh chi tiết hướng dẫn Grok Imagine tạo chuyển động cho một hình ảnh tĩnh cụ thể—hình bóng một người trong tàu vũ trụ đang nhìn về phía Trái Đất—thành một video điện ảnh mượt mà dài 12 giây với hiệu ứng lia máy và chuyển động quỹ đạo.
-
-#### 📝 Prompt
-
-```
-Hãy tạo chuyển động cho hình ảnh này thành một video điện ảnh mượt mà dài 12 giây. Bắt đầu với hình ảnh tĩnh gốc: hình bóng một người bên trong tàu vũ trụ đang nhìn ra ngoài cửa sổ lớn về phía Trái Đất. Từ từ lia máy và di chuyển theo quỹ đạo để Trái Đất trôi qua cửa sổ một cách chân thực (tiếp...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cc23483f883f59dbc6cde94c2a603e4a/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine prompt: Tạo chuyển động cho cảnh không gian điện ảnh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3011)**
-
-**Author:** [bluelittledigital](https://x.com/FreeSpeechElite) | **Source:** [Link](https://x.com/FreeSpeechElite/status/2041675607105298723) | **Published:** Apr 8, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2257,6 +2301,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-22T06:05:15.229Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-22T09:30:05.897Z</sub>
 
 </div>
