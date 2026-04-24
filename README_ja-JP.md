@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **1191** |
+| 📝 プロンプト総数 | **1215** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-04-24** |
 
@@ -189,6 +189,486 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### ノーム王の宝物庫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> オズの魔法使いシリーズに登場するノーム王の宝物庫のシーンを、主要キャラクターと共に視覚化するための grok-imagine 用プロンプト。
+
+#### 📝 プロンプト
+
+```
+オズの魔法使いシリーズに登場する、地下深くにあるノーム王の宝物庫を描写してください。金、銀、ダイヤモンド、ルビー、真珠で溢れています。自転車に乗った男の代わりに、オズの魔法使いシリーズの以下のキャラクターを配置してください：
+ドロシー、オズマ姫、かかし、ブリキの木こり...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7a0a9dc21628f4b0c722f28369a6fe9b/thumbnails/thumbnail.jpg" width="600" alt="ノーム王の宝物庫">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3601)**
+
+**作者:** [Michael Bradley](https://x.com/MikeBradleySr2) | **ソース:** [Link](https://x.com/MikeBradleySr2/status/2047569155260317843) | **公開日:** Apr 24, 2026
+
+---
+### 小さな男と巨大なケサディーヤ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 巨大なステーキケサディーヤを食べながら歌う小さな男が登場する、ユーモラスな動画用プロンプト。
+
+#### 📝 プロンプト
+
+```
+（身長 2 インチほどの）小さな男が、（10 インチほどの）巨大なコーントルティーヤのステーキケサディーヤを手にしている様子…
+
+「I’m eating a steak quesadill-A（ステーキケサディーヤを食べているんだ）」と歌っている
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5b008abcdf537027cc31cdf99358365c/thumbnails/thumbnail.jpg" width="600" alt="小さな男と巨大なケサディーヤ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3586)**
+
+**作者:** [Lidy E Lane](https://x.com/LidyELane) | **ソース:** [Link](https://x.com/LidyELane/status/2047456638370820121) | **公開日:** Apr 23, 2026
+
+---
+### 紙が舞うシーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> モデルの手から風で紙が吹き飛ばされ、カメラがそれを追うシネマティックな動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+自分が思っている以上に、多くのことを発信しているかもしれないということを伝えるシーン！強い風がモデルの手から 1 枚の紙を吹き飛ばし、続いて同じ形の紙が数枚、左側から舞い上がります。カメラは舞い上がる紙の動きを追いかけます。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3268eab96f295ee4fc3db068b104d1f3/thumbnails/thumbnail.jpg" width="600" alt="紙が舞うシーン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3593)**
+
+**作者:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **ソース:** [Link](https://x.com/foxypatience/status/2047426755544179036) | **公開日:** Apr 23, 2026
+
+---
+### スチームパンクのドラゴンと戦士の女王
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 色彩豊かなスチームパンクのドラゴンと、銀色に輝く虹色の鎧をまとった戦士の女王が登場する、映画のような動画のための詳細なプロンプトです。
+
+#### 📝 プロンプト
+
+```
+色彩豊かなスチームパンクのドラゴンと、銀色に輝く虹色の鎧を身にまとい、剣と盾を手にした戦士の女王を映像化してください
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7ba913e4ba7ff4f0ceb785960b116729/thumbnails/thumbnail.jpg" width="600" alt="スチームパンクのドラゴンと戦士の女王">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3579)**
+
+**作者:** [DarkWolf](https://x.com/DarkDireWolf33) | **ソース:** [Link](https://x.com/DarkDireWolf33/status/2047420403585253507) | **公開日:** Apr 23, 2026
+
+---
+### 混沌とした病院の救急外来のシーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 不条理で混沌とした病院の救急外来の設定と、特定のキャラクターの詳細を描写するためのプロンプト。
+
+#### 📝 プロンプト
+
+```
+混沌とした不条理な病院の救急外来のシーン：黄金の S を受け取ったばかりの男性
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9aadb1f6d8ff153683d92b13cac52217/thumbnails/thumbnail.jpg" width="600" alt="混沌とした病院の救急外来のシーン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3596)**
+
+**作者:** [piensaporti](https://x.com/Cyperpiens7011) | **ソース:** [Link](https://x.com/Cyperpiens7011/status/2047406332857446765) | **公開日:** Apr 23, 2026
+
+---
+### 魅力的な絵画風イラスト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 黄色いヘッドラップを巻き、青いベンチに座る女性を描いた、透明な傘とレザーバッグを添えた幻想的な絵画風イラスト。
+
+#### 📝 プロンプト
+
+```
+色白で大きな瞳を持ち、黄色いヘッドラップと青い長袖シャツを身にまとった女性キャラクターを描いた魅力的なイラストです。彼女は淡い青色の木製ベンチに座っており、カラフルな花柄があしらわれた長く優雅な淡い黄色のスカートを身につけています。足元には黄色いハイヒールが見えます。頭上には開いた透明な傘があり、ベンチの隣には編み込みハンドルのついた茶色のレザーバッグが置かれています。アートスタイルは筆致が感じられる絵画風で、背景の屋外風景がぼかされた、幻想的で芸術的な仕上がりです。
+```
+
+<img src="https://cms-assets.youmind.com/media/1777017574651_d6csr4_HGnSn9OWUAAnzLo.jpg" width="600" alt="魅力的な絵画風イラスト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3591)**
+
+**作者:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **ソース:** [Link](https://x.com/iamhappy2026/status/2047399202670682487) | **公開日:** Apr 23, 2026
+
+---
+### プレアデス銀河連邦と UFO
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 着陸した UFO の横に並ぶ、ジャンプスーツ姿の銀河連邦メンバーを描いた SF の傑作プロンプト。
+
+#### 📝 プロンプト
+
+```
+青いジャンプスーツと銀色のブーツを身にまとったプレアデス銀河連邦のメンバーと、着陸したライトシップ UFO、傑作
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ddf73ac86c852255f75edb61fbe7c13a/thumbnails/thumbnail.jpg" width="600" alt="プレアデス銀河連邦と UFO">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3597)**
+
+**作者:** [MIUZAH DEIOPAH OF THE PLEIADES](https://x.com/Octillion111111) | **ソース:** [Link](https://x.com/Octillion111111/status/2047396158624997705) | **公開日:** Apr 23, 2026
+
+---
+### ペーパークイリングで描く自然の風景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> トンボと花をモチーフにした、3D ペーパークイリングアートスタイルの動画用プロンプトです。
+
+#### 📝 プロンプト
+
+```
+3D ペーパークイリングアートスタイル
+前景：水面
+池の上を飛ぶ濃い青と水色の 2 匹のトンボ
+背景：水辺に生える細い草
+アイリスの花：フルスペクトルの鮮やかな色彩
+バラ：パステルカラーから鮮やかな色まで、フルスペクトルの色彩
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/87551e11f9f44e09d30ed7c43d1e9052/thumbnails/thumbnail.jpg" width="600" alt="ペーパークイリングで描く自然の風景">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3588)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2047390091065299103) | **公開日:** Apr 23, 2026
+
+---
+### リップシンクによるナラティブ・インタラクション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> キャラクター同士の気まずい視線のやり取りや、特定のリップシンク（口パク）台詞を含む複雑なインタラクション・プロンプトです。
+
+#### 📝 プロンプト
+
+```
+彼らは気まずそうに視線を交わし、彼女は顔を赤らめて視線をそらす。
+少女が少年にリップシンクで問いかける（どうして悲しそうなの、私の小さなドラゴン。あなたを傷つけるつもりはなかったの。許してくれるといいのだけれど）
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b228fce2f687b3009819947ce640454a/thumbnails/thumbnail.jpg" width="600" alt="リップシンクによるナラティブ・インタラクション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3598)**
+
+**作者:** [orla nelson](https://x.com/orlanelson58474) | **ソース:** [Link](https://x.com/orlanelson58474/status/2047385573011124706) | **公開日:** Apr 23, 2026
+
+---
+### ベッドボードの守護モンスター
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 小さな緑とピンクの空飛ぶモンスターが、少女の守護者として活躍する動画のための遊び心あふれるプロンプトです。
+
+#### 📝 プロンプト
+
+```
+小さな緑とピンクの空飛ぶモンスターが、少女のベッドのヘッドボードに座り、夜通し彼女を守っている
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2375845819503023b2e550e06b3d044f/thumbnails/thumbnail.jpg" width="600" alt="ベッドボードの守護モンスター">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3580)**
+
+**作者:** [HisMoonRey](https://x.com/BrokenWings53) | **ソース:** [Link](https://x.com/BrokenWings53/status/2047373756830560657) | **公開日:** Apr 23, 2026
+
+---
+### 女性と木を描いた超映画的な油絵
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 女性、ピンクの葉の木、柔らかな虹をアール・デコ様式で描いた、高品質で芸術的な映画風油絵のプロンプトです。
+
+#### 📝 プロンプト
+
+```
+エレガントなピンクの葉の木のそばに立つ美しい女性を描いた、超映画的な油絵。背景には柔らかな虹が輝き、枝には数羽の白い鳥が休んでいる。ミニマルな構図で被写体に焦点を当て、厚塗りのインパスト技法を使用。アール・デコの均衡とロココ様式の有機的な曲線を融合させた 8K 画質の作品。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/49e1e782a69405d44d474e1f371a5788/thumbnails/thumbnail.jpg" width="600" alt="女性と木を描いた超映画的な油絵">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3581)**
+
+**作者:** [SPACELESS](https://x.com/VOLDEMORT2X) | **ソース:** [Link](https://x.com/VOLDEMORT2X/status/2047371464031011306) | **公開日:** Apr 23, 2026
+
+---
+### 北極圏のツンドラに佇むシネマティックなメカ・スナイパー
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 凍てつく環境でエネルギー兵器を装備した装甲メカ・スナイパーを描くための、ショット構成や VFX の詳細を含む包括的なシネマティック・プロンプト。
+
+#### 📝 プロンプト
+
+```
+荒涼とした北極圏のツンドラにて、厚い氷雪の中から姿を現す巨大で重装甲なメカ・スナイパーを捉えた、シネマティックな広角ショット。メカは白を基調とした工業的なデザインで、青く発光するエネルギーパーツを備えた巨大なレールガン型のスナイパーライフルを装備している。氷の塊を振り払いながら、安定した射撃姿勢へと移行する。
+
+ショット構成：
+起動：銃身のクローズアップ。青い放電と渦巻くエネルギーの渦が銃口にチャージされる。ターゲットデータを示すハイテクなデジタル HUD オーバーレイが画面上に明滅する。
+発射：レールガンが強力な運動エネルギー弾を発射。巨大なソニックブームと衝撃波が発生し、周囲の雪を吹き飛ばす。
+着弾：カメラは凍てつく平原を低空で疾走する高速発射体またはジェット推進機を追跡。雪を巻き上げながら二筋の軌跡を残し、遠方の氷壁に激突して大爆発を引き起こす。
+
+環境と雰囲気：
+設定：風が吹き荒れる広大な北極の風景。そびえ立つ氷山と、重く垂れ込めた灰色の空。
+ライティング：冷たく拡散した自然光と、メカのセンサーや武器から放たれる高コントラストな青い光のアクセント。
+VFX：降り積もる雪、砕け散る氷、渦巻く霧のリアルなパーティクルエフェクト。高速チェイスシーンには強いモーションブラーを適用。
+スタイル：超リアルな 3D アニメーション、8k 解像度、シネマティックな SF 美学。『Armored Core』や『Metal Gear Solid』を彷彿とさせるスタイル。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b098042b880adc759b7e1eff1fb6ff8b/thumbnails/thumbnail.jpg" width="600" alt="北極圏のツンドラに佇むシネマティックなメカ・スナイパー">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3583)**
+
+**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **ソース:** [Link](https://x.com/ThoughCreator/status/2047354600106201263) | **公開日:** Apr 23, 2026
+
+---
+### 石の日時計とフクロウのドーム
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 石の日時計と、植物のドームに囲まれたフクロウで締めくくられる動画のためのシネマティックなプロンプト。
+
+#### 📝 プロンプト
+
+```
+動画の最後には、硬い石と花崗岩で作られた日時計のようなものがあり、植物のどこかに戦略的に配置された石のフクロウがいます。カメラの周囲は、植物のドームに囲まれています。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cd4bd12e605f74605f35067f31cd4ce3/thumbnails/thumbnail.jpg" width="600" alt="石の日時計とフクロウのドーム">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3594)**
+
+**作者:** [Make Britain Great Again](https://x.com/DragonFlam7530) | **ソース:** [Link](https://x.com/DragonFlam7530/status/2047319972402151710) | **公開日:** Apr 23, 2026
+
+---
+### 歌う犬のバースデービデオ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Lanie という名前の犬が、Carbon という名前の別の犬にハッピーバースデーを歌う、心温まるビデオ用プロンプトです。
+
+#### 📝 プロンプト
+
+```
+LANIE という名前の小さな犬が、パパ犬の Carbon にハッピーバースデーを歌っている様子を生成してください。今日は Carbon の 5 歳の誕生日です。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/81c11b2d91b0f1e81b0b294998af5e10/thumbnails/thumbnail.jpg" width="600" alt="歌う犬のバースデービデオ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3590)**
+
+**作者:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **ソース:** [Link](https://x.com/Soaring2TheMoon/status/2047310172607906043) | **公開日:** Apr 23, 2026
+
+---
+### 浮遊する岩の尖塔の風景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 黄金の雲の上に浮かぶ島々と険しい岩の尖塔を特徴とする、動きのある風景動画を生成するためのシネマティックなプロンプト。
+
+#### 📝 プロンプト
+
+```
+黄金の雲海の上に、巨大で険しい岩の尖塔と浮遊する島々が広がる光景です。環境そのものは変わりませんが、ゆっくりとした力強い動きが感じられます。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2fb98b1a72f90be03b45c643c69750f0/thumbnails/thumbnail.jpg" width="600" alt="浮遊する岩の尖塔の風景">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3585)**
+
+**作者:** [Alamgir Hossain](https://x.com/mdalamgir95) | **ソース:** [Link](https://x.com/mdalamgir95/status/2047293789983953278) | **公開日:** Apr 23, 2026
+
+---
+### カラハリ砂漠の夏を駆けるレッドハーテビースト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> カラハリ平原を駆け抜けるレッドハーテビーストの群れを捉えた動画のための詳細なプロンプト。
+
+#### 📝 プロンプト
+
+```
+レッドハーテビースト（Alcelaphus buselaphus caama）は、南アフリカ 🇿🇦 カラハリ砂漠が誇る驚異の持久力を持つランナーです！ 🌞🏜️🦌 夏のカラハリ平原、真昼の強い日差しの中、群れが突如として広大な草原を力強く駆け抜けます。特徴的な長い顔、高い位置にある目、そして堂々と湾曲した角を高く掲げ、150 ～ 200 kg の大きな赤褐色の体躯を、点在するアカシアの木々や広大な地平線を背景に、驚くほど優雅かつ協調性を持って動かします。短距離走ではなく長距離移動に適した体構造を持ち、アフリカで最も疲れを知らない動物の一つです。捕食者を惑わすためにジグザグに走りながら、長距離を高速で維持することができます。オスは 150 ～ 180 kg、メスは 120 ～ 150 kg 程度で、肩高は約 1.25 ～ 1.35 m です。時速 55 ～ 80 km に達し、持続的な走行において卓越したスタミナを発揮します。10 ～ 30 頭（時にはそれ以上）の群れで生活し、非常に警戒心が強く、視覚を頼りに開けた平原で協調した動きを見せて身を守ります。主に草を食べますが、木の葉を食べることもあります。乾燥したカラハリの環境に高度に適応しており、長期間水を飲まなくても生存可能です。基部で結合した独特の竪琴型の角を持ち、他のハーテビースト亜種よりも顔が長いのが特徴です。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0a0d94761626c9e52600394e63430f84/thumbnails/thumbnail.jpg" width="600" alt="カラハリ砂漠の夏を駆けるレッドハーテビースト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3602)**
+
+**作者:** [👻🇿🇦PhantomXMusik69🎶🎭](https://x.com/PhantomXMusic69) | **ソース:** [Link](https://x.com/PhantomXMusic69/status/2047273343682765194) | **公開日:** Apr 23, 2026
+
+---
+### 謎めいた日本の戦士
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 伝統的な日本の村を舞台にした、アジア人女性戦士のシネマティックな動画プロンプト。ムードのあるライティングが特徴です。
+
+#### 📝 プロンプト
+
+```
+曇り空の古風な日本の村に佇む、謎めいたアジア人女性戦士の非常に詳細なシネマティックシーン。彼女は複雑な模様が施された上品な黒の着物をまとい、口元を黒いマスクで覆っている。髪は精巧なアップスタイルにまとめられ、鋭く芸術的な髪飾りがあしらわれている。肩には伝統的なバッグを下げている。
+背景にはわずかにぼやけた群衆と古い木造建築が映り込み、奥行きとリアリズムを生み出している。柔らかな風が彼女の着物と後れ毛を優しく揺らす。雰囲気はムードがありドラマチックで、彩度を抑えたクールな色調で仕上げられている。
+カメラは浅い被写界深度で彼女の瞳に焦点を合わせながら、ゆっくりとズームインする。繊細なシネマティックモーション、リアルなライティング、超リアルな質感、4K 画質、フィルムグレイン、柔らかな影、ドラマチックなトーン。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/585a6947747d9e6634a194d7ad73c678/thumbnails/thumbnail.jpg" width="600" alt="謎めいた日本の戦士">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3589)**
+
+**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **ソース:** [Link](https://x.com/ThoughCreator/status/2047271662324772962) | **公開日:** Apr 23, 2026
+
+---
+### スコットランド訛りのウサギの音声プロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 向けに、ウサギのキャラクターに強烈なスコットランド訛りで特定のセリフを喋らせるためのユーモラスなプロンプトです。
+
+#### 📝 プロンプト
+
+```
+ウサギに強烈なスコットランド訛りでこう喋らせて：Whit? Ye sleepy, ya daft wee numpty? Waaken up, laddie! Grab some Irish breakfast tea an' a fine egg—there's slayin' tae be done, ya lazy scunner!
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8bf537f462523cb48d0d2ffb530b38e6/thumbnails/thumbnail.jpg" width="600" alt="スコットランド訛りのウサギの音声プロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3600)**
+
+**作者:** [Frank Baker](https://x.com/HarmonyGamer11) | **ソース:** [Link](https://x.com/HarmonyGamer11/status/2047262708072956319) | **公開日:** Apr 23, 2026
+
+---
+### トーキングヘッドの歌唱プロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine で詳細な舌の動きとタイミング指示を含む歌唱アニメーションを作成するための、非常に具体的なモーションプロンプトです。
+
+#### 📝 プロンプト
+
+```
+「ここで歌えるようになった？」と言わせてください。舌を上の歯に当てて「ラァ、ラァ、ラァ、ラァー」と一音ずつ発音し、開始時と終了時には元の写真を 1 秒間静止させてください。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/acbed93bdf81f6328c03bd5f62924566/thumbnails/thumbnail.jpg" width="600" alt="トーキングヘッドの歌唱プロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3599)**
+
+**作者:** [🔥Pass The Torch 🔥⚔️🇺🇸](https://x.com/PassTheTorch101) | **ソース:** [Link](https://x.com/PassTheTorch101/status/2047248899161661778) | **公開日:** Apr 23, 2026
+
+---
+### 近未来的な宇宙船の打ち上げ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 嵐の中、近未来的な宇宙船が垂直離陸する様子を描いた、非常に詳細なシネマティックプロンプト。
+
+#### 📝 プロンプト
+
+```
+複雑なメカニカルディテールを備えた、巨大で洗練された近未来的な白と銀の宇宙船。オレンジと青に輝くスラスターと可動式の着陸脚を持ち、巨大でモダンなガラスとスチールの格納庫の前にある広大な濡れた滑走路で離陸準備をしているドラマチックなシネマティックシーン。空は暗く荒れ模様で、背景には力強い稲妻が劇的に走っている。黒い服を着た群衆が周囲に立ち、畏敬の念を抱きながら見守っており、多くの人がスマートフォンやカメラを掲げている。
+
+宇宙船は垂直離陸のプロセスにあり、エンジンからは明るいオレンジ色の炎と青いエネルギーの輝きが放たれ、スラスターからは濃い煙と陽炎が立ち上り、着陸脚が伸び、パネルやスラスターノズルが開いて作動している。高精細でフォトリアル、濡れた地面への反射を捉えた壮大なライティング、ボリューム感のあるゴッドレイ、高めのクォーターアングルからのシネマティックな構図、サイバーパンクな SF の雰囲気、IMAX クオリティ、8k、超リアル --ar 9:16 --stylize 250 --v 6
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1468c8af7f06c71ee8b40f67daf83578/thumbnails/thumbnail.jpg" width="600" alt="近未来的な宇宙船の打ち上げ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3587)**
+
+**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **ソース:** [Link](https://x.com/ThoughCreator/status/2047192350993097185) | **公開日:** Apr 23, 2026
+
+---
+### The White Stripes のミュージックビデオ風の鳩
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 赤い雨が降るステージを横切って飛ぶ鳩を捉えた、The White Stripes のミュージックビデオを彷彿とさせるシネマティックな動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+The White Stripes のミュージックビデオのスタイルで、赤い雨の中をステージ横切って飛ぶ鳩
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dc978203818341b48e618e1f4740834f/thumbnails/thumbnail.jpg" width="600" alt="The White Stripes のミュージックビデオ風の鳩">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3595)**
+
+**作者:** [christopher deavey](https://x.com/CDukedemonte) | **ソース:** [Link](https://x.com/CDukedemonte/status/2047132891256103386) | **公開日:** Apr 23, 2026
+
+---
+### ミイラを包むサンタクロース
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> サンタクロースが赤と緑のラッピングで人物をミイラにするという、ホリデーシーズンをテーマにした独創的なホラープロンプト。
+
+#### 📝 プロンプト
+
+```
+サンタクロースは、ミイラが完全に包まれ、赤と緑の包帯で覆い尽くされるまで、何度も繰り返しミイラを包み続けます。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/891a55dd1aeabf357f0df0a0b2d8c4a8/thumbnails/thumbnail.jpg" width="600" alt="ミイラを包むサンタクロース">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3582)**
+
+**作者:** [William Looby](https://x.com/WilliamLooby) | **ソース:** [Link](https://x.com/WilliamLooby/status/2047126331045880047) | **公開日:** Apr 23, 2026
+
+---
+### 夕暮れのロボットと少女
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 夕暮れ時の水辺に座る未来的なロボットと少女を、繊細な動きで描くシネマティックなプロンプトです。
+
+#### 📝 プロンプト
+
+```
+夕暮れ時の水面に座る未来的な人型ロボットと少女を描いた、非常にシネマティックで超リアルなシーン。ロボットは精巧な金属製の装甲に光るアクセントが施されており、首をわずかに向けたり指を動かしたりする繊細なメカニカルな動きを見せる。少女は膝を抱えて穏やかに座り、青い服を身にまとい、自然に揺れながらまばたきをしている。周囲の環境は、柔らかな雲が浮かぶ夢のような空で、温かみのあるオレンジ色の夕焼けとクールな青い色調が溶け合っている。水面は両者の姿を映し出し、わずかな波紋がゆっくりと広がっていく。そよ風が少女の髪を優しく揺らす。カメラはワイドショットから始まり、ゆっくりとクローズアップへと寄っていくスムーズなシネマティックな動き。ライティングは柔らかく、ボリューム感があり、わずかに発光することで、平和でありながら未来的な雰囲気を醸し出している。空気中の微細な粒子やロボットのボディへの光の反射を加え、リアリティを追求する。スタイルキーワード：シネマティック、超リアル、4K、ソフトライティング、未来派、エモーショナル、反射する水面、スローモーション、被写界深度、ボリュームライト、夢のような雰囲気
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/66fd641c3b212f9e0264edfb5ce363b7/thumbnails/thumbnail.jpg" width="600" alt="夕暮れのロボットと少女">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3592)**
+
+**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **ソース:** [Link](https://x.com/ThoughCreator/status/2047117431089315985) | **公開日:** Apr 23, 2026
+
+---
+### ビットコインの金庫にいる赤ちゃんウサギ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ビットコインで満たされた金庫の中で、オレンジ色のトイレを掃除する赤ちゃんウサギを描写するためのクリエイティブなプロンプトです。
+
+#### 📝 プロンプト
+
+```
+ビットコインで満たされた金庫の中で、ラバーカップを使ってオレンジ色のトイレを掃除している赤ちゃんウサギを描いてください
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/075da82d904b61b0dc426e5a8938d745/thumbnails/thumbnail.jpg" width="600" alt="ビットコインの金庫にいる赤ちゃんウサギ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3584)**
+
+**作者:** [ĐOGEARMY GENERAL](https://x.com/TheTeslaBull) | **ソース:** [Link](https://x.com/TheTeslaBull/status/2047116929366741326) | **公開日:** Apr 23, 2026
+
+---
 ### プロのニュースキャスターのシミュレーション
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1822,497 +2302,6 @@ Pete が水中で足をバタバタさせている。ライフガードが「任
 **作者:** [iGor Salikov](https://x.com/salikov_) | **ソース:** [Link](https://x.com/salikov_/status/2044509313566162966) | **公開日:** Apr 15, 2026
 
 ---
-### 幻想的な海中のサンゴ礁
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 熱帯魚やウミガメがサンゴ礁の周りを回遊する、高彩度なファンタジー美学を取り入れた海中シーンの詳細な動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-色鮮やかな熱帯魚の群れがそびえ立つサンゴ礁の周りを渦巻いている。海面から差し込む陽光の中を泳ぐ魚たちの虹色の鱗が、エレクトリックブルー、ゴールド、ピンクに輝く。優雅なウミガメが視界に入り、ゆったりとした動きでヒレを動かす。カメラは滑らかな旋回運動でその軌跡を追い、サンゴ礁の複雑な質感を映し出す。高彩度な色彩、透き通るような水の透明度、そして漂う微粒子が、鮮やかな海中ファンタジーの世界観を演出している。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c6bf4da789c82053e1e436c39ecd0caa/thumbnails/thumbnail.jpg" width="600" alt="幻想的な海中のサンゴ礁">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3264)**
-
-**作者:** [LudovicCreator](https://x.com/LudovicCreator) | **ソース:** [Link](https://x.com/LudovicCreator/status/2044385366942073193) | **公開日:** Apr 15, 2026
-
----
-### 輝くオルゴールの動画アニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 黄金に輝くオルゴールが開き、中からハートや音符が浮かび上がる魔法のような動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-美しいオルゴールが中央で開き、輝きを放つ様子を描写してください。黄金の光が溢れ出し、チャイムの音色に合わせて小さなハートや音符が浮かび上がります。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d7a465d38b78e6be1d4f0c9b1c09bd62/thumbnails/thumbnail.jpg" width="600" alt="輝くオルゴールの動画アニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3260)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2044371223300182066) | **公開日:** Apr 15, 2026
-
----
-### 「Candid Look」ビデオプロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine を使用して、人物がカメラから視線を外し、特定の方向を見ているビデオを作成するための技術的な指示です。
-
-#### 📝 プロンプト
-
-```
-音楽なし、彼女はカメラを見ていない。誰かが近づいてくるかのように、右側を見ている
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a7fc31990a777db1d8c8c7c8de32c0fd/thumbnails/thumbnail.jpg" width="600" alt="「Candid Look」ビデオプロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3263)**
-
-**作者:** [ESV. Maryam Muktar (MNIVS)™️/ Madam lands](https://x.com/MaRyAm_MuKtAr) | **ソース:** [Link](https://x.com/MaRyAm_MuKtAr/status/2044318564811694440) | **公開日:** Apr 15, 2026
-
----
-### ミツバチと紙飛行機の動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> タンポポに止まるミツバチと、飛んできて芝生に着陸する紙飛行機を描いた、自然とペーパークラフトを融合させた幻想的な動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-黄色いタンポポの花に止まるミツバチ、飛んできて芝生に優しく着陸する紙飛行機
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/89d162e1fcef4d5865ae86f2b81c3222/thumbnails/thumbnail.jpg" width="600" alt="ミツバチと紙飛行機の動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3239)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2044279489425998000) | **公開日:** Apr 15, 2026
-
----
-### 東アジア人戦闘機パイロットの動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> レトロフューチャーなコックピットに座る女性戦闘機パイロットをテーマにした、Grok Imagine 用のシネマティックな動画生成プロンプト。
-
-#### 📝 プロンプト
-
-```
-美しい東アジア人の若き女性戦闘機パイロットが、洗練された狭い戦闘機のコックピットに座っている様子を捉えた、超高精細なシネマティック・イメージ・トゥ・ビデオ。
-
-彼女は、白とオレンジを基調としたスタイリッシュなレトロフューチャー風のパイロットスーツを着用しており、ヘルメットの襟やアクセントもそれに合わせたデザインとなっている。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a4f595ab3cac192b3cd62534b9424fef/thumbnails/thumbnail.jpg" width="600" alt="東アジア人戦闘機パイロットの動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3262)**
-
-**作者:** [Colin](https://x.com/quietcolin) | **ソース:** [Link](https://x.com/quietcolin/status/2044277892985827598) | **公開日:** Apr 15, 2026
-
----
-### 80 年代ファンタジーの魔法使いと貴婦人
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 1980 年代のファンタジーリアリズム様式で、暗い水辺に佇む魔法使いと神秘的な貴婦人を描いたシネマティックな動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-神秘的な森の暗い水辺で瞑想するマントを纏った魔法使い。水面下では、幻想的な湖の貴婦人が魔法使いを見上げている。1980 年代のファンタジーリアリズム様式、35 mm フィルム撮影。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cd0a4f8c63d1a20461caa3a522f3c0ef/thumbnails/thumbnail.jpg" width="600" alt="80 年代ファンタジーの魔法使いと貴婦人">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3232)**
-
-**作者:** [Stoned🍄Ape](https://x.com/StonedApe) | **ソース:** [Link](https://x.com/StonedApe/status/2044196291555799126) | **公開日:** Apr 14, 2026
-
----
-### 氷の女王の油絵
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 凍てつく宇宙のツンドラに佇む氷の女王をテーマにした、油絵風動画のための記述的プロンプト。
-
-#### 📝 プロンプト
-
-```
-凍てつく宇宙のツンドラに佇む氷の女王の超写実的な油絵。髪は白く結晶化し、毛先には霜が降りている。氷のように青い瞳。幾重にも重なる氷の破片と雪の質感で構成されたドレスを纏っている。厚塗りのインパスト技法で描かれた凍てつく風の模様。背景にはオーロラが広がる空と巨大な凍った惑星。冷ややかな映画のようなライティング、超高精細、劇的なコントラスト、傑作。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0ca719361c8df28c2f1f996831d8cb6e/thumbnails/thumbnail.jpg" width="600" alt="氷の女王の油絵">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3230)**
-
-**作者:** [SPACELESS](https://x.com/VOLDEMORT2X) | **ソース:** [Link](https://x.com/VOLDEMORT2X/status/2044161592657617206) | **公開日:** Apr 14, 2026
-
----
-### 水中女王の油絵
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> サンゴの玉座に座る女王と生物発光のエフェクトを特徴とした、バロック様式の水中ファンタジー油絵プロンプト。
-
-#### 📝 プロンプト
-
-```
-サンゴの玉座に座る水中女王の超精細な油絵。水中でシルクのようにたなびく長いアクアブルーの髪、真珠と生物発光する有機体で装飾されている。ターコイズ色に輝く瞳、層状のサンゴ、貝殻、半透明の膜で作られたドレス。厚塗りの筆致が水の歪みと光の散乱を表現。背景は深海で、光り輝く生物が漂う。水面からの映画のような光の筋。超リアルな質感、バロック様式の水中ファンタジー、傑作のクオリティ。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c73d174ff7c989f92143ac86e91db891/thumbnails/thumbnail.jpg" width="600" alt="水中女王の油絵">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3233)**
-
-**作者:** [SPACELESS](https://x.com/VOLDEMORT2X) | **ソース:** [Link](https://x.com/VOLDEMORT2X/status/2044157123911672104) | **公開日:** Apr 14, 2026
-
----
-### コミックブック風の森の妖精の動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 妖精が自然と触れ合う様子を描いた、コミック調アニメーションのためのクリエイティブな動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-コミックブック風のスタイルで、妖精の女性が森の中を歩き、木々に触れて葉を芽吹かせ、花を咲かせる。植物に触れると花が咲き、蝶やミツバチ、さえずる鳥たちが彼女に寄り添っている
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d6c6f5ce771928f46f8cae5d83507df4/thumbnails/thumbnail.jpg" width="600" alt="コミックブック風の森の妖精の動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3225)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2044154328760627229) | **公開日:** Apr 14, 2026
-
----
-### クリスタル・デザート・エンプレス
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> クリスタルの砂丘風景の中で、屈折する光のエフェクトを纏った女帝を描くシュールな油絵風プロンプト。
-
-#### 📝 プロンプト
-
-```
-果てしなく続くクリスタルの砂丘に立つ砂漠の女帝を描いた、超高精細な映画のような油絵。長く編み込まれた髪には太陽光を反射する半透明の水晶が混じり、瞳は琥珀色に輝いている。砕けたガラスの破片と金箔の継ぎ目で構成された流れるようなローブを纏い、空や衣服には厚塗りの筆致が鮮明に残る。背景には光を虹色のコースティクスへと屈折させる巨大な浮遊プリズムが立ち並び、ゴールデンアワーの温かな光が差し込む。風に舞うガラスの塵、バロック様式とシュルレアリスムの融合、ハイパーテクスチャな表面、美術館級の傑作、8k、ボリュームライト、ドラマチックな構図。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d49de3f1c45e4df4ec9057565d258e75/thumbnails/thumbnail.jpg" width="600" alt="クリスタル・デザート・エンプレス">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3235)**
-
-**作者:** [SPACELESS](https://x.com/VOLDEMORT2X) | **ソース:** [Link](https://x.com/VOLDEMORT2X/status/2044152126314623230) | **公開日:** Apr 14, 2026
-
----
-### クリスタル・ライト・ゴッデス
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> クリスタルの質感と虹色の光の屈折を特徴とする、ペーパーアート風の女神のプロンプト。
-
-#### 📝 プロンプト
-
-```
-クリスタルと光で構成された超精細なペーパーアート風の女神。長く透明な髪が虹色の光を屈折させ、宝石やガラスの構造を重ねたドレスを纏っている。周囲には浮遊するクリスタルと光の鳥が舞い、輝く環境、プリズムのようなライティング、超リアルな反射、8k シネマティックな傑作。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a85ee818dfbe3d3a3bf8f24e3b2bc650/thumbnails/thumbnail.jpg" width="600" alt="クリスタル・ライト・ゴッデス">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3237)**
-
-**作者:** [SPACELESS](https://x.com/VOLDEMORT2X) | **ソース:** [Link](https://x.com/VOLDEMORT2X/status/2044149105031561691) | **公開日:** Apr 14, 2026
-
----
-### エジプト風ペーパーアートの女王
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 黄金の装飾が施された王宮を舞台に、エジプトの女王をモチーフにしたペーパーアート風のプロンプトです。
-
-#### 📝 プロンプト
-
-```
-超高精細なペーパーアート、エジプト風の女王、黄金の装飾をあしらった長い黒のブレイズヘア、ヒエログリフ模様のレイヤードドレス、金のプレートと流れるようなシルクを身にまとい、聖なる鳥と蓮の花に囲まれた古代神殿のアーチ、温かみのあるゴールドのライティング、映画のような傑作、8k。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f188561262e6e47d43d4cb29015f1002/thumbnails/thumbnail.jpg" width="600" alt="エジプト風ペーパーアートの女王">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3236)**
-
-**作者:** [SPACELESS](https://x.com/VOLDEMORT2X) | **ソース:** [Link](https://x.com/VOLDEMORT2X/status/2044134986878517344) | **公開日:** Apr 14, 2026
-
----
-### シュールな夢の女王
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 現実が歪むシュールな世界で、虹色の髪を持つ女王を描いたペーパーアートのプロンプト。
-
-#### 📝 プロンプト
-
-```
-現実が歪む夢の世界に佇む、超シュールなペーパーアートの女王。パステルカラーの長い虹色の髪が雲へと溶け込み、抽象的な形状と流れるような夢の質感で構成されたレイヤードドレスを纏っている。周囲には浮遊する花々とありえない鳥たちが舞い、柔らかくシュールな光に包まれている。超高精細、8k シネマティックな傑作。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0a99825dc067687e9162488c329f26ca/thumbnails/thumbnail.jpg" width="600" alt="シュールな夢の女王">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3234)**
-
-**作者:** [SPACELESS](https://x.com/VOLDEMORT2X) | **ソース:** [Link](https://x.com/VOLDEMORT2X/status/2044114755120762966) | **公開日:** Apr 14, 2026
-
----
-### 巨大メカの海上決戦
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 200 メートルの巨大メカが海上で戦闘機と戦う、ハリウッド大作映画のようなシネマティック映像のための包括的なアクションプロンプト。
-
-#### 📝 プロンプト
-
-```
-シネマティックな壮大なアクションシーン。「Xeno Leviathan Terraformer」と名付けられた 200 メートルの巨大な近未来型メカロボットが、海の中央に立ち、海軍艦隊を圧倒している。巨大ロボットは複雑なメカニカルなディテールを備えた重装甲に包まれ、青く光る目とオレンジ色のエネルギーアクセントが特徴。ロボットは周囲に群がる戦闘機と激しく交戦しており、戦闘機はミサイルや銃を乱射している。
-ロボットの胸部、肩、頭部では、巨大なオレンジ色の爆発、火の玉、そして濃い黒煙が絶え間なく噴出している。破片や火花が四方八方に飛び散る。メカは深い海を歩き回り、足元には巨大な波と白い泡が立っている。その下では、複数の現代的な航空母艦や駆逐艦が巨大ロボットに向けてミサイルを発射しており、明るいロケットの軌跡と水面での爆発が描かれている。
-ドラマチックなローアングルショット、ロボットを旋回するダイナミックなカメラワーク、高速で移動するジェット機の激しいモーションブラー、空を横切る白い飛行機雲。背景には高高度から見た地球の湾曲が映り、澄んだ青い海と明るい日光が照らしている。シネマティックなライティング、ボリューム感のある煙、ゴッドレイ、超リアルなディテール、フォトリアルなレンダリング、8K 品質、高精細、緊迫した戦闘の雰囲気、爆発的なアクションシークエンス。
-動画中に表示されるテキストオーバーレイ：
-5〜10 秒：スキャンラインとターゲットグラフィックを備えた近未来的なシアン色のホログラフィックフォントで「Xeno Leviathan Terraformer」と表示。
-11〜15 秒：光るシアン色のボックス内に「Save this for inspiration!」と表示。
-16〜19 秒：光るシアン色の近未来的なフレーム内に「Support with Stars! ⭐ & Follow」と表示。
-スタイル：『パシフィック・リム』や『トランスフォーマー』のようなハリウッド大作映画のシネマティックなスタイル。ドラマチックなスローモーションの爆発と高速アクションが融合した、完璧な構図の傑作。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f641deaba3d32641f18e3798eb94b0de/thumbnails/thumbnail.jpg" width="600" alt="巨大メカの海上決戦">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3228)**
-
-**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **ソース:** [Link](https://x.com/ThoughCreator/status/2044113577632755742) | **公開日:** Apr 14, 2026
-
----
-### ガーデンコーラルスネークのアニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 放棄された庭を移動するコーラルスネークの動画生成用プロンプト。
-
-#### 📝 プロンプト
-
-```
-赤、黄、黒の光沢のある小さなコーラルスネークが、放棄された庭の背の高い草むらの中へ這い進んでいく
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/83d89c0162d2c32e84d3960807aecbcd/thumbnails/thumbnail.jpg" width="600" alt="ガーデンコーラルスネークのアニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3224)**
-
-**作者:** [Llama Mama](https://x.com/TeslaTakesOver) | **ソース:** [Link](https://x.com/TeslaTakesOver/status/2044085562777206801) | **公開日:** Apr 14, 2026
-
----
-### マルチシーン宇宙船飛行ビデオ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine のマルチシーン遷移および高速なカメラワークへの対応能力をテストするために設計された技術的なビデオプロンプトです。
-
-#### 📝 プロンプト
-
-```
-超高速飛行。マルチシーンでテンポの速い実写ビデオを作成してください。毎秒、宇宙船の異なるディテールに対してシャープなズームインとズームアウトを行ってください。シーンの切り替えはシャープに行い、フェードは使用しないでください。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/52caa40b9c899382034ecebfc9f631e1/thumbnails/thumbnail.jpg" width="600" alt="マルチシーン宇宙船飛行ビデオ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3223)**
-
-**作者:** [Dogan Ural](https://x.com/doganuraldesign) | **ソース:** [Link](https://x.com/doganuraldesign/status/2044049325299204120) | **公開日:** Apr 14, 2026
-
----
-### 鬼将軍の突撃エフェクト強化
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 鬼将軍の突撃シーンにおける炎の軌跡とスピード感を強化するための調整用プロンプトです。
-
-#### 📝 プロンプト
-
-```
-調整コンセプト：
-• 鬼将軍の突撃シーンにおける赤い炎の軌跡を大幅に強化 -> 炎の燃焼時間と強度を高め、空間を切り裂くようなインパクトを演出。
-• 真田幸村の赤備えを彷彿とさせる、猛烈なスピード感をさらに強調。
-• 金色の光の粒子と赤い炎のコントラストを強め、全体的な躍動感を向上。
-
-👹 鬼将軍が猛烈な勢いで突撃する。
-
-瞬きすら許さないほどの速度で空間を切り裂き、光さえも飲み込む。
-
-敵は恐怖に駆られ、次々と逃げ惑う。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d5d6039c269268cdfb42f71b44026bb7/thumbnails/thumbnail.jpg" width="600" alt="鬼将軍の突撃エフェクト強化">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3238)**
-
-**作者:** [後藤強士](https://x.com/rubensutsuyosi) | **ソース:** [Link](https://x.com/rubensutsuyosi/status/2044028569400291418) | **公開日:** Apr 14, 2026
-
----
-### サイバネティック・ジャイアント・テラフォーマー
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 地球の火山地帯を歩く巨大なバイオメカニカルな巨人を描いた、SF 動画向けの非常に詳細なシネマティック・プロンプトです。
-
-#### 📝 プロンプト
-
-```
-「Xeno Leviathan Terraformer」と名付けられた、超高精細なサイバネティック・ジャイアント。鋭角的な装甲と青く光る眼、複雑な機械的ディテールを持つ、暗い金属質のバイオメカニカルな巨像で、その身長は数百メートルに及びます。地球の火山海岸の風景の中を、ドラマチックなハイアングルからのシネマティックな視点で、力強くゆっくりと歩みを進めています。
-
-一歩踏み出すごとに巨大な足が地面を砕き、鮮やかなオレンジ色の溶岩が爆発し、火山が噴火し、周囲には溶岩流が流れます。厚い煙と灰が空へと立ち上ります。火山山脈から海に向かって歩くその足取りは、巨大な津波と、茶色の土煙が混じった白い水しぶきを発生させ、足元で激しく噴き上がります。
-
-背景には、宇宙に近い高度から見た地球の美しい曲線を描く地平線が広がり、雲、海岸線、ビーチ、そして遥か下方に小さな沿岸の町が見えます。動画の終盤では、巨大で暗く角張った未来的な宇宙船が、巨人の頭上後方の空にゆっくりと現れます。
-
-温かみのある黄金色の夕日の色調と、ドラマチックな火山の輝きが混ざり合ったシネマティックなライティング。高精細で壮大なスケール、巨人と惑星の全貌を捉えるためにゆっくりとズームアウトし、チルトアップするダイナミックなカメラワーク。激しいパーティクルエフェクト、煙、炎、水しぶき、そしてボリューム感のあるライティング。フォトリアルでありながら様式化された 8K クオリティのシネマティック・マスターピース。ドラマチックな雰囲気。
-
-スタイル：壮大な SF シネマティック、ハイパーリアルなレンダリング、ドラマチックなスケール感、激しいアクション
-カメラ：ゆっくりと引きながら上方にチルトするハイアングルのオービットショット
-長さ：20 秒
-モーション：力強くゆっくりとした歩行、ダイナミックな環境破壊、立ち上る煙と水のエフェクト
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6992bd4cfeb16e6fd00fe83c0820c1f2/thumbnails/thumbnail.jpg" width="600" alt="サイバネティック・ジャイアント・テラフォーマー">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3226)**
-
-**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **ソース:** [Link](https://x.com/ThoughCreator/status/2043957751890751601) | **公開日:** Apr 14, 2026
-
----
-### コズミック・クイーンのペーパーアート動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 光り輝く天体の要素を取り入れた、ペーパーアートスタイルの超リアルなコズミック・クイーンのための詳細な動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-超リアルなペーパーアートのコズミック・クイーン。小さな輝く星々が散りばめられた深い紫色の長い髪、星雲の色合いを取り入れた銀河風のレイヤードドレスを纏い、周囲には浮遊する星座や天体の鳥たちが舞う。背景には宇宙のアーチ、暗い宇宙のライティングに輝くハイライト、超高精細、8k IMAX
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a5c1a68520876a8aa9568cf2712093ee/thumbnails/thumbnail.jpg" width="600" alt="コズミック・クイーンのペーパーアート動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3222)**
-
-**作者:** [SPACELESS](https://x.com/VOLDEMORT2X) | **ソース:** [Link](https://x.com/VOLDEMORT2X/status/2043897374473400410) | **公開日:** Apr 14, 2026
-
----
-### ペーパークラフトの森の女王
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 秋の落ち葉を纏い、森の大聖堂で鳥たちに囲まれた、ペーパークラフトの女王のシネマティックな動画を生成するための非常に詳細なプロンプトです。
-
-#### 📝 プロンプト
-
-```
-超高精細なペーパークラフトの森の女王、長い赤褐色のウェーブヘア、秋の落ち葉や枝、温かみのある生地を重ねたドレスを着用、鳥たちと舞い散る落ち葉に囲まれている、背景には森の大聖堂のアーチ、黄金色のオレンジのライティング、心地よいシネマティックな雰囲気、極めて詳細な質感、8k。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4196917a5644595129f07dffe93b652c/thumbnails/thumbnail.jpg" width="600" alt="ペーパークラフトの森の女王">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3113)**
-
-**作者:** [SPACELESS](https://x.com/VOLDEMORT2X) | **ソース:** [Link](https://x.com/VOLDEMORT2X/status/2043893263761817692) | **公開日:** Apr 14, 2026
-
----
-### カラフルなペーパーアートの妖精の女王のプロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 魔法のような桜の木を背景に、妖精の女王が登場するペーパーアートスタイルの動画向けの高精細プロンプトです。柔らかな照明が特徴です。
-
-#### 📝 プロンプト
-
-```
-超高精細なカラフルなペーパーアートの妖精の女王。柔らかなパステルラベンダーの巻き毛、ピンク・ピーチ・ミントの色調の花びらでできたレイヤードドレスを着用。蝶と桜のような花が咲き誇る木々に囲まれ、柔らかな夢のような照明、魔法のような雰囲気、複雑な有機的形状、非常にクリーンなテクスチャ、8k の傑作。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/07c07a7aac2b4fad5c7b6b75bffd8c48/thumbnails/thumbnail.jpg" width="600" alt="カラフルなペーパーアートの妖精の女王のプロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3227)**
-
-**作者:** [SPACELESS](https://x.com/VOLDEMORT2X) | **ソース:** [Link](https://x.com/VOLDEMORT2X/status/2043878321633800202) | **公開日:** Apr 14, 2026
-
----
-### ゴシック調ペーパークラフトの女王の動画プロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine を使用して、複雑なペーパークラフト風のゴシックな女王をムードのある照明で描くための、詳細な動画生成用プロンプトです。
-
-#### 📝 プロンプト
-
-```
-非常に精巧なペーパークラフト風のゴシックな女王。長く真っ直ぐな漆黒の髪にほのかな深紅のハイライト。鋭いバロック様式の鎧のディテールが施された、ダークなレイヤードベルベット風のドレスを着用。周囲には深紅のバラと黒いカラス。キャンドルの光がシーンを照らし、背景にはゴシック様式の大聖堂のアーチ。ドラマチックな影、ムードのある映画のような照明、超高精細な質感、8k。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e606949ebbfdb5530f412755d7d303e1/thumbnails/thumbnail.jpg" width="600" alt="ゴシック調ペーパークラフトの女王の動画プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3117)**
-
-**作者:** [SPACELESS](https://x.com/VOLDEMORT2X) | **ソース:** [Link](https://x.com/VOLDEMORT2X/status/2043855491147714952) | **公開日:** Apr 14, 2026
-
----
-### ペーパーアートの太陽の女神の動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 黄金の神殿に佇む太陽の女神をテーマにした、ペーパーアートスタイルのシネマティックな動画を作成するための詳細なプロンプトです。
-
-#### 📝 プロンプト
-
-```
-黄金の砂漠の神殿に立つ、超高精細なペーパーアートスタイルの太陽の女神。太陽のように輝く長く燃えるようなオレンジ色のウェーブヘア。砂色のシルクで作られたレイヤードドレスを纏い、金の装飾品と太陽の形の彫刻が施されている。咲き誇る砂漠の花々と光り輝く鳥たちに囲まれ、ゴールデンアワーの温かい光が差し込む。左右対称の構図、ドラマチックな影、8k シネマティックな傑作。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2e21e78acd68d274377690970fe6be62/thumbnails/thumbnail.jpg" width="600" alt="ペーパーアートの太陽の女神の動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3114)**
-
-**作者:** [SPACELESS](https://x.com/VOLDEMORT2X) | **ソース:** [Link](https://x.com/VOLDEMORT2X/status/2043850316240638383) | **公開日:** Apr 14, 2026
-
----
-### 近未来メカの暴走
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 巨大な近未来メカが沿岸都市を破壊し、海へと踏み込んでいく様子を描いた、非常に詳細なシネマティック動画用プロンプトです。
-
-#### 📝 プロンプト
-
-```
-日中の密集した沿岸の大都市で、2 体の巨大な全高 80 メートルの近未来的なエイリアンの戦闘メカが暴走する様子を捉えた、シネマティックな高角度の空撮ショット。メカは重装甲で、白とダークグレーのボディに青く光るアクセントが施され、鋭角的なデザイン、手に持った大型ライフル、頭部のアンテナスパイク、強力な機械関節が特徴です。
-
-大型のメカが先導し、少し小ぶりのメカがすぐ後ろに続きます。メカが陸地から海に向かって攻撃的に踏み進むたびに、巨大な足が建物、道路、そして大きなウォーターフロントのスタジアムを粉砕し、茶色の土煙やコンクリートの破片、瓦礫が空中に激しく舞い上がります。足が水面に触れると、巨大な白い水しぶきと波がドラマチックに発生します。
-
-ダイナミックなカメラがメカの進撃に合わせて上空からゆっくりと旋回・追跡し、破壊の全貌を明らかにします。東京タワーのような赤と白の塔、近代的な超高層ビル、橋、緑豊かな公園、郊外の住宅、そして広大な水域などのランドマークが見えます。青空に雲が点在する晴れた日中で、リアルな光と影が表現されています。
-
-非常に詳細でフォトリアルな描写、壮大なスケール、ドラマチックなアクション、激しい破壊、ボリューム感のある塵や水しぶきの粒子、シネマティックなカラーグレーディング、8K 品質、滑らかな動き。パシフィック・リムとトランスフォーマーを掛け合わせたような、壮大な SF の雰囲気。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b2bc11e770330d8be97d6e3a66a86688/thumbnails/thumbnail.jpg" width="600" alt="近未来メカの暴走">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3229)**
-
-**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **ソース:** [Link](https://x.com/ThoughCreator/status/2043849757848711441) | **公開日:** Apr 14, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2374,6 +2363,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-04-24T06:14:28.811Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-04-24T09:53:50.196Z</sub>
 
 </div>
