@@ -68,9 +68,9 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1215** |
+| 📝 Total Prompts | **1229** |
 | ⭐ Featured Prompts | **3** |
-| 🔄 Last Updated | **2026-04-24** |
+| 🔄 Last Updated | **2026-04-25** |
 
 ---
 
@@ -189,6 +189,243 @@ Uma Valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Combate Cinematográfico: Samurai vs. Exterminador
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Um prompt de ação cinematográfica detalhado para o Grok Imagine, descrevendo uma luta entre um samurai e um exterminador com trabalho de câmera rotativa em alta velocidade e microcortes rápidos, utilizando uma imagem como referência principal.
+
+#### 📝 Prompt
+
+```
+@ Image1 é uma cena de batalha de um filme apresentando um samurai e um exterminador, combate corpo a corpo de alta intensidade, a câmera gira em alta velocidade ao redor do sujeito mantido no centro do quadro, a cena está em formato de microcorte com alternância de múltiplos ângulos de câmera
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee4f79635c6ddba166eab989bbcf8b08/thumbnails/thumbnail.jpg" width="600" alt="Combate Cinematográfico: Samurai vs. Exterminador">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3654)**
+
+**Author:** [いにしえ@AI Director & Creator｜Will Oldgram](https://x.com/old_pgmrs_will) | **Source:** [Link](https://x.com/old_pgmrs_will/status/2047942047064309993) | **Published:** Apr 25, 2026
+
+---
+### Prompt de sequência de ação de ataque de aranha
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo focado em ação apresentando um personagem atacando uma aranha com uma espada em chamas e dizendo uma frase.
+
+#### 📝 Prompt
+
+```
+faça o rapaz sacar uma espada, incendiá-la e atacar a aranha. Mate a aranha e faça com que ele diga: Você não pode mais machucar minha família
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/89c29739ccacd8e2a4229f4cfc1baab4/thumbnails/thumbnail.jpg" width="600" alt="Prompt de sequência de ação de ataque de aranha">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3650)**
+
+**Author:** [HisMoonRey](https://x.com/BrokenWings53) | **Source:** [Link](https://x.com/BrokenWings53/status/2047824180964393136) | **Published:** Apr 24, 2026
+
+---
+### Curta-metragem de ficção científica: A Garota vs. a Aranha Robô
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico abrangente com várias cenas para um curta-metragem apresentando uma garota lutando contra uma aranha robô gigante, completo com direções de câmera e pistas emocionais.
+
+#### 📝 Prompt
+
+```
+Cena 1 — Aproximando-se da Máquina (0–6s)
+Plano cinematográfico aberto de uma jovem em um terreno rochoso, de frente para uma aranha robô imponente sob uma luz tempestuosa e nublada. Raios azuis pulsam da máquina gigante em forma de globo atrás dela. Dolly-in lento em direção a ela enquanto o vento empurra seu cabelo e roupas. Clima: energia estilo Duna encontra heroína rebelde. Sintetizadores atmosféricos profundos.
+
+Cena 2 — A Luta Começa (6–12s)
+Plano médio-aberto: a aranha robô avança, pernas mecânicas batendo no chão. A garota salta para o lado com determinação. Luz de contorno forte vinda da esquerda destaca o movimento. Plano de acompanhamento lento seguindo seu movimento. Clima: confronto épico de ficção científica. Tambores percussivos aumentando.
+
+Cena 3 — Virando o Jogo (12–18s)
+Plano aberto para clareza: a garota canaliza energia brilhante através de seus braços, enviando uma onda de choque que força a aranha robô para trás. Faíscas voam de suas articulações (não gráfico). Luz de fundo dourada rompe as nuvens. Dolly-out lento para enfatizar a escala. Clima: reviravolta heroica. A música cresce.
+
+Cena 4 — Vitória (18–24s)
+Plano aberto estático: a aranha robô colapsa em uma explosão de luz, suas pernas se dobrando enquanto a garota permanece de pé. Luz difusa nublada com um contorno brilhante do globo luminoso atrás dela. Inclinação suave da câmera para cima enquanto ela se prepara para voar. Clima: triunfo com admiração. Sintetizadores estilo coral.
+
+Cena 5 — O Golpe Final (24–30s)
+Plano aéreo épico e aberto: a garota voa em direção à enorme máquina-globo, segurando uma pequena bomba brilhante. Raios azuis formam arcos ao redor da esfera. Ela joga a bomba no núcleo do raio. Um clarão brilhante irrompe (não gráfico), dissolvendo a tempestade. Dolly-out lento enquanto o céu limpa. Clima: final de ficção científica esperançoso. Acordes orquestrais suaves e crescentes.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9dba6536bd6b12703ffadc80f0f4fa2f/thumbnails/thumbnail.jpg" width="600" alt="Curta-metragem de ficção científica: A Garota vs. a Aranha Robô">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3648)**
+
+**Author:** [Hot Lesson](https://x.com/hotlesson) | **Source:** [Link](https://x.com/hotlesson/status/2047818069544997276) | **Published:** Apr 24, 2026
+
+---
+### Prompt de vídeo para a missão espacial Artemis
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico detalhado que ilustra a decolagem e as fases da missão da nave espacial Artemis.
+
+#### 📝 Prompt
+
+```
+mostre a imagem como a nave espacial Artemis II e mostre-a decolando, orbitando a Terra, contornando a Lua e retornando ao Oceano Pacífico com uma captura e aterrissagem bem-sucedidas
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0c786be781b89561f566aaf8d682c876/thumbnails/thumbnail.jpg" width="600" alt="Prompt de vídeo para a missão espacial Artemis">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3645)**
+
+**Author:** [Woodi5X5EEE WoodJr](https://x.com/woodi5x5eee) | **Source:** [Link](https://x.com/woodi5x5eee/status/2047761747197513780) | **Published:** Apr 24, 2026
+
+---
+### Prompt da sequência de Fibonacci cósmica
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo detalhado apresentando um vazio galáctico com estrelas douradas e números flutuantes organizados em uma sequência de Fibonacci.
+
+#### 📝 Prompt
+
+```
+vazio galáctico com sequência de fibonacci em primeiro plano em estrelas de glitter dourado bioluminescência adicione múltiplos 0 e 1 flutuando a partir da proporção áurea
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fe4d5a787687b1dbd1c735840e909471/thumbnails/thumbnail.jpg" width="600" alt="Prompt da sequência de Fibonacci cósmica">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3653)**
+
+**Author:** [✨Alien Queen](https://x.com/MuskWaifu) | **Source:** [Link](https://x.com/MuskWaifu/status/2047739586588127443) | **Published:** Apr 24, 2026
+
+---
+### Prompt para retrato de estúdio cinematográfico hiper-realista
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt cinematográfico altamente detalhado para uma jovem com equipamento futurista, com foco em texturas realistas, iluminação e movimento em um ambiente de estúdio.
+
+#### 📝 Prompt
+
+```
+Um vídeo cinematográfico hiper-realista de uma bela jovem com cabelo preto curto e pele suave e radiante, vestindo um traje futurista de látex preto e uma jaqueta estilo tech branca. Ela está de frente para a câmera em um fundo de estúdio limpo e minimalista com iluminação neutra suave. Ela sorri gentilmente com uma expressão calorosa e confiante. Seus olhos piscam naturalmente enquanto ela inclina levemente a cabeça. Ambas as mãos se movem em direção à câmera em um movimento suave e convidativo, criando uma sensação de profundidade e interação. Seu traje apresenta reflexos brilhantes e texturas detalhadas, especialmente o material de látex preto, que reage realisticamente à luz. Destaques sutis brilham na superfície conforme ela se move. A câmera está posicionada em close-up (enquadramento do peito para cima) com uma profundidade de campo rasa, mantendo seu rosto nítido enquanto o fundo permanece suavemente desfocado. Movimento cinematográfico fluido, leve estabilização de câmera e um efeito de zoom suave aumentam o realismo. A iluminação é suave e difusa, com uma leve luz de contorno delineando seu cabelo e ombros. Os tons de pele são naturais, com um brilho suave e detalhes realistas. Ultra-realista, qualidade 4K, gradação de cor cinematográfica, alto detalhe, animação fluida, física realista, movimento natural, sombras suaves.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9426d04ee1a835c6704c7f2b1032debd/thumbnails/thumbnail.jpg" width="600" alt="Prompt para retrato de estúdio cinematográfico hiper-realista">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3643)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2047735068404187257) | **Published:** Apr 24, 2026
+
+---
+### Árvore de Corações e Corvos
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Uma cena poética e simbólica envolvendo uma árvore com folhas em formato de coração e dois corvos contrastantes.
+
+#### 📝 Prompt
+
+```
+Adicione uma árvore brotando com folhas em formato de coração 
+
+noite pacífica
+Adicione dois corvos sentados um ao lado do outro na árvore, sendo um deles branco
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5342dbca86a3ffe495bfc1380c04249f/thumbnails/thumbnail.jpg" width="600" alt="Árvore de Corações e Corvos">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3646)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2047724190313423255) | **Published:** Apr 24, 2026
+
+---
+### Prompt de noite tranquila com corvos
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de cena noturna tranquila com dois corvos em uma árvore, sendo um deles branco para criar contraste.
+
+#### 📝 Prompt
+
+```
+noite tranquila
+Adicione dois corvos sentados um ao lado do outro na árvore, um corvo branco
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e62c016bd7e630eca3a8a4d92e27cd56/thumbnails/thumbnail.jpg" width="600" alt="Prompt de noite tranquila com corvos">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3644)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2047704647679549838) | **Published:** Apr 24, 2026
+
+---
+### Sorriso Suave e Beijo na Flor
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico com movimento de câmera na mão e interação emocional.
+
+#### 📝 Prompt
+
+```
+câmera dá zoom lentamente no rosto dela, câmera na mão com leve tremor, mulher sorri suavemente
+Ela beija a flor
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a0cae9d16548b86fdba6ca3b59c2fa80/thumbnails/thumbnail.jpg" width="600" alt="Sorriso Suave e Beijo na Flor">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3647)**
+
+**Author:** [Leo Digital](https://x.com/LeoDigitalVN) | **Source:** [Link](https://x.com/LeoDigitalVN/status/2047626318519677283) | **Published:** Apr 24, 2026
+
+---
+### Transformação Cibernética em Cheongsam
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt cinematográfico detalhado para uma cena futurista de metrô, onde uma mulher vestindo um Cheongsam transforma seus membros em armas cibernéticas.
+
+#### 📝 Prompt
+
+```
+Um vídeo cinematográfico e hiper-realista de uma jovem com traços marcantes e cabelos escuros, vestindo um Cheongsam (Qipao) preto e dourado, sem mangas e de gola alta, com bordados florais intrincados. Ela está dentro de um vagão de metrô futurista, pouco iluminado e com aspecto rústico.
+
+A Transformação: A cena começa com ela parecendo calma enquanto um HUD holográfico pisca sobre seus olhos. De repente, seus braços e tronco passam por uma transformação mecânica, movendo-se e encaixando-se em placas cibernéticas de metal escovado pesado com detalhes em LED vermelho brilhante. Ela levanta o braço, que se remodela modularmente em uma arma de energia de alta tecnologia, apontando diretamente para a câmera.
+
+Atmosfera e Iluminação: Estilo: Cyberpunk sombrio / Realismo de ficção científica.
+Iluminação: Ambiente melancólico e com pouca luz, com luzes de metrô piscando acima. Brilhos neon vermelhos intensos emanando de suas articulações cibernéticas e do cano da arma.
+Câmera: Zoom lento no rosto dela, transicionando para um plano médio enquanto ela mira. Alto detalhe na textura — tecido de seda versus maquinário frio e pesado.
+Técnico: Resolução 4k, reflexos com ray-tracing no metal, granulação cinematográfica e um leve reflexo de lente vindo do núcleo de energia vermelho.
+Elementos-chave para experimentar:
+Textura: Você pode trocar a "textura de madeira" que usou em pôsteres por "fibra de carbono fosca" ou "latão envelhecido" para dar às partes mecânicas uma sensação diferente.
+Fundo: Mudar o metrô para um terraço banhado por neon ou uma casa de chá tradicional criaria um contraste ainda mais nítido.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c08cacf749c52d6ffac074dcbaac3f4d/thumbnails/thumbnail.jpg" width="600" alt="Transformação Cibernética em Cheongsam">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3651)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2047624541615140877) | **Published:** Apr 24, 2026
+
+---
+### Cena de interior minimalista e calma
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico para um ambiente interno tranquilo com iluminação suave e movimento de câmera sutil.
+
+#### 📝 Prompt
+
+```
+Uma cena cinematográfica altamente realista de um ambiente interno calmo com tons neutros suaves e iluminação natural. A câmera permanece estável com um movimento de aproximação lento e sutil. A atmosfera é pacífica e minimalista, com sombras suaves e composição equilibrada. Um leve movimento ambiente é visível — luz suave tremeluzente, movimento ambiental tênue e profundidade de campo natural. A gradação de cores é quente e levemente dessaturada, proporcionando um visual cinematográfico moderno. Texturas ultra detalhadas, iluminação realista, qualidade 4K, profundidade de campo rasa, movimento suave, granulação estilo filme.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7188771f1db25f0b13e1a57eb8b44bea/thumbnails/thumbnail.jpg" width="600" alt="Cena de interior minimalista e calma">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3652)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2047574669515956524) | **Published:** Apr 24, 2026
+
+---
 ### Nome King's Treasure Room
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -207,6 +444,80 @@ Dorothy, Ozma, o Espantalho, o Homem de Lata...
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3601)**
 
 **Author:** [Michael Bradley](https://x.com/MikeBradleySr2) | **Source:** [Link](https://x.com/MikeBradleySr2/status/2047569155260317843) | **Published:** Apr 24, 2026
+
+---
+### Lançamento épico de porta-aviões ao estilo Michael Bay
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Um prompt detalhado e cinematográfico para o Grok Imagine, criando uma cena de ação intensa com o lançamento de uma motocicleta a partir do USS Gerald R. Ford, no melhor estilo de Hollywood.
+
+#### 📝 Prompt
+
+```
+Cena de ação épica ao estilo Hollywood: uma motocicleta e seu piloto estão fixados no convés de voo do porta-aviões 'USS Gerald R. Ford' e são lançados ao ar em alta velocidade por uma catapulta eletromagnética. Ângulo baixo dramático, reflexo de lente (lens flare), vapor e faíscas voando, caças estacionados nas proximidades, céu tempestuoso, iluminação cinematográfica, qualidade IMAX, direção de Michael Bay — 16:9
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c6bf4168d5ca342bda95a4dc0cccbc87/thumbnails/thumbnail.jpg" width="600" alt="Lançamento épico de porta-aviões ao estilo Michael Bay">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3655)**
+
+**Author:** [S.f ting](https://x.com/t4121995t) | **Source:** [Link](https://x.com/t4121995t/status/2047483012829553018) | **Published:** Apr 24, 2026
+
+---
+### Transformação de Mecha de Guerreira do Leste Asiático
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico e altamente detalhado de uma guerreira cuja arma se transforma em um mecha gigante com tema de dragão em um campo de batalha caótico.
+
+#### 📝 Prompt
+
+```
+Sequência de ação épica cinematográfica, 15 segundos, formato vertical 9:16.
+
+Uma impressionante guerreira do Leste Asiático com longos cabelos escuros esvoaçantes em um rabo de cavalo alto, traços elegantes e marcantes, vestindo uma armadura futurista ornamentada em preto, vermelho e dourado inspirada na China antiga com motivos de dragão, mangas brancas e uma máscara respiratória tática preta e elegante. Ela está em um campo de batalha árido e rachado sob um céu escuro e esfumaçado, segurando uma arma de cano múltiplo massiva e altamente detalhada, coberta com gravações de dragões de fogo laranja brilhantes.
+
+A arma se transforma dramaticamente e se expande com intensa energia brilhante em um colossal mecha-tanque bípede com esteiras (mecha dragão). A guerreira salta e entra no cockpit aberto da máquina gigante.
+
+Sequência dinâmica:
+- Close-up da guerreira mirando e disparando a arma de dragão brilhante
+- Arma transformando-se rapidamente e crescendo até se tornar o mecha totalmente blindado, com esteiras grossas, múltiplos pods de foguetes e padrões de dragão laranja brilhante por todo o corpo
+- Guerreira pilotando a partir do cockpit
+- Planos cinematográficos amplos do enorme mecha dragão avançando poderosamente pelo campo de batalha, com as esteiras esmagando o solo e levantando poeira
+- O mecha libera barragens devastadoras de mísseis de fogo laranja brilhantes e rajadas de energia com rastros de luz brilhantes e explosões
+- Tomada épica final mostrando o mecha dragão em potência máxima enfrentando mechas inimigos gigantes à distância enquanto dispara um enorme raio de energia laranja brilhante
+
+Fundo: campo de batalha caótico com exércitos de soldados antigos de armadura vermelha, explosões, fogo, fumaça preta espessa, céu nublado dramático. Iluminação cinematográfica intensa, detalhes em laranja brilhante, escala épica, fotorrealista, ultradetalhado, ângulos de câmera dramáticos, movimento suave, alta qualidade, 8K --ar 9:16 --motion 4 --stylize 650
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b5613edd80ef2271a61df21858e8587e/thumbnails/thumbnail.jpg" width="600" alt="Transformação de Mecha de Guerreira do Leste Asiático">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3649)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2047482713339293722) | **Published:** Apr 24, 2026
+
+---
+### Voo de Dragão em Primeira Pessoa Cinematográfico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt complexo e de nível profissional para um vídeo em primeira pessoa de um cavaleiro de dragão voando em alta velocidade por um vale montanhoso, utilizando uma referência de design específica.
+
+#### 📝 Prompt
+
+```
+Use apenas a folha de referência do dragão em anexo como fonte exata de design. Extraia um único dragão cinza massivo e consistente das vistas A-I e ignore todas as linhas de grade, rótulos, textos e instâncias duplicadas.
+POV do cavaleiro em primeira pessoa a partir de uma sela de cockpit frontal fixada diretamente atrás da base do pescoço, na área muscular do ombro após os espinhos dorsais, nunca na parte traseira ou perto da cauda. A sela aerodinâmica deve estar firmemente ancorada com cintas de barrigueira visíveis, conectores de coluna e arreios que envolvem o corpo e se integram às escamas. Sem equipamentos flutuantes ou soltos. Mantenha a sela estável durante todo o percurso.
+As mãos do cavaleiro seguram o arreio de controle e as alças da sela em primeiro plano. O dragão voa em velocidade extrema a uma altitude perigosamente baixa, passando rente a colinas verdes e rios sinuosos em direção a montanhas distantes e irregulares sob um céu azul brilhante com nuvens cúmulos dramáticas, raios divinos e iluminação volumétrica. Mostre um forte desfoque de movimento horizontal, batidas de asas poderosas, ondulação corporal natural, trepidação de câmera realista e vibração do vento.
+Fotorrealismo hiper-realista, escamas cinza metálicas detalhadas e sobrepostas, física de voo de dragão realista, detalhes cinematográficos em 8K, vídeo suave de alta taxa de quadros com 10 a 15 segundos. Nenhum outro dragão. Sem elementos da folha de referência.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6623865bf5185c67daac21751462e71e/thumbnails/thumbnail.jpg" width="600" alt="Voo de Dragão em Primeira Pessoa Cinematográfico">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3656)**
+
+**Author:** [いにしえ@AI Director & Creator｜Will Oldgram](https://x.com/old_pgmrs_will) | **Source:** [Link](https://x.com/old_pgmrs_will/status/2047465662910750809) | **Published:** Apr 24, 2026
 
 ---
 ### Homem minúsculo e uma quesadilla gigante
@@ -2028,282 +2339,6 @@ sequência de dolly-out suave de 8 a 12 segundos, movimento de câmera fluido, c
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2045344999479366043) | **Published:** Apr 18, 2026
 
 ---
-### Crimson Seraph Dark Fantasy
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo de fantasia sombria de um serafim caído com cabelos prateados e uma espada de metal fundido em uma catedral gótica, apresentando efeitos atmosféricos rodopiantes.
-
-#### 📝 Prompt
-
-```
-Serafim caído com cabelos prateados e olhos em brasa segura uma espada de metal fundido em uma catedral gótica. Asas negras sob um halo flamejante, penas e pétalas giram ao redor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0855626bb484f2ba47a19a698f832b00/thumbnails/thumbnail.jpg" width="600" alt="Crimson Seraph Dark Fantasy">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3309)**
-
-**Author:** [N0v4Ph4n](https://x.com/N0v4ph4n) | **Source:** [Link](https://x.com/N0v4ph4n/status/2045332969196548131) | **Published:** Apr 18, 2026
-
----
-### Prompt para Boneca em Quilling de Papel 3D
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt descritivo detalhado para um vídeo de alta resolução no estilo de arte em quilling de papel 3D.
-
-#### 📝 Prompt
-
-```
-Bela boneca com grandes olhos azuis, cabelo loiro e lábios rosados, flores detalhadas em seu penteado trançado, borboletas ao redor de sua cabeça, vestido de renda branca com cores pastéis, no estilo de arte em quilling de papel 3D, alta resolução
-```
-
-<img src="https://pbs.twimg.com/media/HGI8QHMbgAA6n8a.jpg" width="600" alt="Prompt para Boneca em Quilling de Papel 3D">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3311)**
-
-**Author:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **Source:** [Link](https://x.com/iamhappy2026/status/2045263539280220669) | **Published:** Apr 17, 2026
-
----
-### Retrato de Jardim em Pintura a Óleo sob o Luar
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo artístico para um retrato em estilo de pintura a óleo de uma mulher em um jardim estrelado, com foco em movimento suave, texturas florais e iluminação cinematográfica.
-
-#### 📝 Prompt
-
-```
-Retrato em pintura a óleo ultra detalhado de uma mulher em pé no horizonte inclinado de um jardim estrelado sob um luar branco intenso, seu vestido coberto com texturas florais rococó bordadas e simetria Art Déco, pinceladas espessas de espátula formando o céu estrelado, tons envolventes dominando a cena, cabelo fluindo suavemente, expressão emocional, composição cinematográfica, profundidade de campo, qualidade de museu, 8K.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/030604988fab9609a664983e62f62b9c/thumbnails/thumbnail.jpg" width="600" alt="Retrato de Jardim em Pintura a Óleo sob o Luar">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3310)**
-
-**Author:** [RosieLP⚔️🌹](https://x.com/S60Rosie) | **Source:** [Link](https://x.com/S60Rosie/status/2045251408266748132) | **Published:** Apr 17, 2026
-
----
-### Cinematografia de figura ameaçadora em Film Noir
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cinematográfico para o Grok Imagine, apresentando uma cena sombria e atmosférica de film noir com instruções específicas de movimento de câmera e iluminação.
-
-#### 📝 Prompt
-
-```
-Plano médio, a câmera se afasta lentamente em um movimento de dolly de uma figura ameaçadora sentada em uma poltrona de couro escura, fumaça de charuto rodopiando, dioptria dividida mantendo o primeiro plano e o fundo em foco, iluminação de film noir com sombras profundas e persianas venezianas
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bb379bac4d4b674bdc4c2be9c2881f8e/thumbnails/thumbnail.jpg" width="600" alt="Cinematografia de figura ameaçadora em Film Noir">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3312)**
-
-**Author:** [David Liang](https://x.com/DavidLi36143625) | **Source:** [Link](https://x.com/DavidLi36143625/status/2045219545078714770) | **Published:** Apr 17, 2026
-
----
-### Mulher etérea em vestido dourado com técnica impasto
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de geração de vídeo altamente detalhado que descreve uma mulher em um vestido dourado elaborado, utilizando um estilo de pintura a óleo com textura impasto pesada e um ambiente rústico.
-
-#### 📝 Prompt
-
-```
-Bela mulher com longos cabelos castanhos escuros e fluidos adornados com flores e folhas douradas, coroa floral dourada intrincada, rosto delicado com bochechas rosadas e lábios vermelhos, vestindo um elaborado vestido ombro a ombro feito de ouro metálico texturizado com pinceladas espessas de impasto e detalhes de pétalas douradas em relevo, elegante e etérea, estilo de pintura a óleo com textura impasto pesada, espátula e pinceladas visíveis, iluminação de hora dourada, cabana de madeira rústica ao fundo, flores silvestres e folhagem dourada flutuando ao redor dela, atmosfera romântica e onírica, obra-prima, altamente detalhada, composição cinematográfica.
-```
-
-<img src="https://cms-assets.youmind.com/media/1776499094416_mukz3w_HGH5cvQaQAAVcRJ.jpg" width="600" alt="Mulher etérea em vestido dourado com técnica impasto">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3305)**
-
-**Author:** [Art Muse](https://x.com/art_muse) | **Source:** [Link](https://x.com/art_muse/status/2045190044319707547) | **Published:** Apr 17, 2026
-
----
-### Animação de Jedi Meditando
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de animação cinematográfica retratando um Jedi solitário meditando em um deserto enquanto esferas massivas surgem ao fundo, com foco nos detalhes do ambiente.
-
-#### 📝 Prompt
-
-```
-Um Jedi solitário medita enquanto antigas esferas colossais surgem lentamente no deserto.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cbae26e5e4278bb5864c96037231b1c1/thumbnails/thumbnail.jpg" width="600" alt="Animação de Jedi Meditando">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3314)**
-
-**Author:** [Fred Devo](https://x.com/DevoFred) | **Source:** [Link](https://x.com/DevoFred/status/2045181744735977839) | **Published:** Apr 17, 2026
-
----
-### Cena de Tênis Cinematográfica e Imersiva
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo altamente detalhado para uma cena de tênis estável com movimento dinâmico da bola e um movimento de câmera cinematográfico (push-in).
-
-#### 📝 Prompt
-
-```
-A mulher deve permanecer exatamente a mesma durante todo o vídeo. Seu rosto, identidade, pose, roupa, raquete, iluminação, céu e ângulo da câmera devem permanecer inalterados. Sem distorção, sem deformação, sem erros de anatomia, sem membros extras, sem falhas, sem cintilação. A pele deve parecer natural e realista. As bolas de tênis aparecem no ar e se movem em direção à câmera em um movimento suave, cinematográfico e ligeiramente mais dinâmico. O movimento deve ser imersivo e em camadas, com profundidade entre o primeiro plano, o plano médio e o fundo. O movimento deve ser envolvente, mas controlado, não caótico. O vídeo deve capturar a atenção desde o primeiro segundo com um gancho visual forte. Uma bola de tênis deve passar muito perto da lente no início do vídeo para criar um efeito imersivo imediato. O movimento aumenta gradualmente em intensidade. Perto do final do vídeo, uma última bola de tênis se move diretamente em direção à câmera e atinge a lente, preenchendo o quadro para um momento final impactante. A mulher permanece completamente imóvel, com apenas micro-movimentos naturais sutis. Sua anatomia deve ser perfeita e fisicamente precisa em todos os momentos. A câmera permanece estável com um movimento de aproximação (push-in) cinematográfico muito leve. O sujeito permanece nítido, enquanto algumas bolas em primeiro plano ficam levemente fora de foco para criar profundidade. A sensação geral deve ser cinematográfica, imersiva e visualmente marcante, com movimento limpo e qualidade ultra-alta. Sem desfoque, sem cintilação, sem erros visuais.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/780eb58b060bb36d72990979afd4aa56/thumbnails/thumbnail.jpg" width="600" alt="Cena de Tênis Cinematográfica e Imersiva">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3307)**
-
-**Author:** [Özge Döner](https://x.com/astronomerozge1) | **Source:** [Link](https://x.com/astronomerozge1/status/2045166451149967723) | **Published:** Apr 17, 2026
-
----
-### Batalha Aérea Épica: Mecha vs Kaiju
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de geração de vídeo altamente cinematográfico e detalhado que descreve uma batalha massiva entre um mecha, um kaiju e um dragão sobre uma cidade em chamas.
-
-#### 📝 Prompt
-
-```
-Uma batalha cinematográfica épica e massiva no céu acima de uma cidade futurista em chamas na Terra, vista de um ângulo baixo com perspectiva dramática. Um colossal robô mecha de alta tecnologia, branco e rosa, chamado "Xeno Leviathan Terraformer", domina a cena, erguendo-se a centenas de metros de altura, fortemente blindado com detalhes em roxo e ciano brilhantes, com o núcleo do peito irradiando uma luz intensa. Ele dispara um poderoso feixe de energia azul brilhante do peito e feixes de plasma laranja-amarelados duplos dos braços para baixo.
-
-À frente do mecha, um feroz kaiju escuro semelhante ao Godzilla, com espinhos dorsais vermelho-alaranjados brilhantes e efeitos de lava ardente no corpo, ruge para cima, e à direita, um majestoso dragão dourado com grandes asas membranosas, olhos brilhantes e hálito de fogo, também rugindo agressivamente. Ambas as criaturas estão envoltas em fumaça, fogo e explosões enquanto lutam contra o mecha gigante.
-
-Iluminação volumétrica dramática, raios de sol atravessando fumaça espessa e nuvens, reflexos de lente, detritos voadores, cidade em chamas abaixo com arranha-céus destruídos, curvatura da Terra visível e estrelas no fundo do espaço escuro. Tratamento de cor cinematográfico, contraste intenso, altamente detalhado, texturas ultrarrealistas, pose de ação dinâmica, escala épica, obra-prima, melhor qualidade, 8k, estética de anime/mecha fotorrealista, porém estilizada --stylize 750 --v 6
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e61d5c33ca5f5875d6a1b45521c5e9a8/thumbnails/thumbnail.jpg" width="600" alt="Batalha Aérea Épica: Mecha vs Kaiju">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3304)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2045106626257186834) | **Published:** Apr 17, 2026
-
----
-### Corrida em Túnel com Acompanhamento Frontal
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo de corrida intenso usando uma tomada de acompanhamento frontal para capturar um carro esportivo acelerando através de um túnel claustrofóbico.
-
-#### 📝 Prompt
-
-```
-Um carro esportivo preto correndo por um túnel estreito, com o motor ecoando e os faróis cortando a escuridão. Ele desvia entre veículos e quase colide com as barreiras. Túnel subterrâneo com luzes piscantes e paredes apertadas. Tomada de acompanhamento frontal diretamente à frente do carro, luzes passando em intervalos rítmicos, enquadramento claustrofóbico, percepção de velocidade intensa.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a80cf6b6e62ea76eed08d15d02f71d7e/thumbnails/thumbnail.jpg" width="600" alt="Corrida em Túnel com Acompanhamento Frontal">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3308)**
-
-**Author:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Source:** [Link](https://x.com/CharaspowerAI/status/2045057192022233269) | **Published:** Apr 17, 2026
-
----
-### Vídeo de Retrato em Pintura a Óleo Rococó
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de geração de vídeo cinematográfico para o Grok Imagine, apresentando uma pintura a óleo de uma mulher sob a luz do pôr do sol, com texturas cintilantes e movimento suave.
-
-#### 📝 Prompt
-
-```
-Retrato em pintura a óleo ultra detalhado de uma mulher sob a luz dourada do pôr do sol, seu vestido cintilando com texturas florais Rococó e simetria Art Déco, pinceladas espessas de espátula formando um céu brilhante, tons quentes dominando a cena, cabelo fluindo suavemente, expressão emocional, composição cinematográfica, profundidade de campo, qualidade de museu, 8K.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6b61a39b2fd3ba77e6c0607b66e82029/thumbnails/thumbnail.jpg" width="600" alt="Vídeo de Retrato em Pintura a Óleo Rococó">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3313)**
-
-**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2044986295290634504) | **Published:** Apr 17, 2026
-
----
-### Rotação de Action Figure de Samurai Cyberpunk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo de nível especialista para uma vitrine de produto, apresentando uma rotação de 360 graus e closes cinematográficos de uma figura de ninja cyberpunk.
-
-#### 📝 Prompt
-
-```
-Uma action figure de robô samurai cyberpunk em escala 1/6 altamente detalhada, posicionada sobre uma base de exibição hexagonal preta que gira lentamente 360 graus em uma plataforma giratória transparente. A figura é um ameaçador ninja ciborgue encapuzado com uma capa preta esfarrapada, armadura mecânica exposta em cinza escuro e preto, bolsas táticas, tiras e detalhes desgastados.
-
-Sua cabeça é uma máscara de crânio robótico preta e elegante, com olhos e boca de LED vermelho brilhante que pulsam com luz. Ele segura uma katana longa com uma lâmina de neon rosa choque brilhante em uma das mãos.
-
-A câmera orbita suavemente ao redor da figura na altura dos olhos e, em seguida, aproxima-se para closes dramáticos: primeiro o rosto demoníaco vermelho brilhante sob o capuz, depois os braços mecânicos e as mãos robóticas segurando a espada, em seguida as pernas e botas detalhadas e, finalmente, a visão traseira mostrando a capa esfarrapada e a armadura completa.
-
-Iluminação de estúdio profissional com fundo branco suave, reflexos sutis no piso brilhante, estilo de fotografia de produto cinematográfica, texturas ultrarrealistas, detalhes nítidos, 4K, vídeo de exibição rotativo de 14 segundos e movimento fluido.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cd75e14f26eed72dfd21e90d40260c60/thumbnails/thumbnail.jpg" width="600" alt="Rotação de Action Figure de Samurai Cyberpunk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3306)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2044933929111535988) | **Published:** Apr 17, 2026
-
----
-### Pixelando a Realidade Numérica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo complexo para o Grok envolvendo uma mulher ruiva e efeitos de pixelização numérica para visualizar a expansão da mente.
-
-#### 📝 Prompt
-
-```
-Uma mulher ruiva ocupada atendendo ocasionalmente o telefone e rindo, enquanto ao redor dela um fundo verde começa a pixelar com os números 13 13, 1313, expandindo nossa mente e sendo capaz de prever o que todos os outros estão fazendo para tentar prevê-la
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/49b7cde214590ca8447c076b1a95bcb7/thumbnails/thumbnail.jpg" width="600" alt="Pixelando a Realidade Numérica">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3266)**
-
-**Author:** [Jaime Roberts](https://x.com/devilred1376) | **Source:** [Link](https://x.com/devilred1376/status/2044573292002988497) | **Published:** Apr 16, 2026
-
----
-### Prompt de vídeo para movimento humano natural
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt para o Grok Imagine focado na criação de vídeos realistas em live-action com movimentos orgânicos e sutis, como piscar e respirar, projetado para evitar movimentos exagerados ou artificiais.
-
-#### 📝 Prompt
-
-```
-Crie um vídeo dinâmico em live-action apresentando uma pessoa no enquadramento. A pessoa permanece relativamente imóvel, com apenas movimentos naturais sutis — leves giros de cabeça, piscadas naturais, respiração, pequenas mudanças de postura e do olhar. Sem dança, sem acenos de mão.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2b9854dac24f14b6eae28aaed63a20e2/thumbnails/thumbnail.jpg" width="600" alt="Prompt de vídeo para movimento humano natural">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3261)**
-
-**Author:** [iGor Salikov](https://x.com/salikov_) | **Source:** [Link](https://x.com/salikov_/status/2044510075683848540) | **Published:** Apr 15, 2026
-
----
-### Prompt de Vídeo com Iluminação Cinematográfica Abstrata
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Um prompt estilisticamente complexo para o Grok Imagine que utiliza iluminação Rembrandt, desfoque de movimento e granulação de filme para criar uma sequência cinematográfica abstrata e atmosférica.
-
-#### 📝 Prompt
-
-```
-A iluminação Rembrandt combinada com uma luz noturna nebulosa cria luz e sombra manchadas, difusas, desfocadas e abstratas. Combinação de cores perfeita, alto contraste, tom escuro/nebuloso, granulação de filme forte, alto ruído de partículas, manchas desfocadas em camadas, desfoque de foco, desfoque de movimento, sobreposição de figuras e cenas, perspectiva forte, perspectiva única, grandes áreas de espaço negativo (espaço em branco), fundo minimalista e a tela incorpora adornos criativos com informações em inglês local. 25
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/91532617bb77bbc6919ece90232f4bde/thumbnails/thumbnail.jpg" width="600" alt="Prompt de Vídeo com Iluminação Cinematográfica Abstrata">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3265)**
-
-**Author:** [iGor Salikov](https://x.com/salikov_) | **Source:** [Link](https://x.com/salikov_/status/2044509313566162966) | **Published:** Apr 15, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2365,6 +2400,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-24T20:58:01.187Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-25T09:03:41.839Z</sub>
 
 </div>

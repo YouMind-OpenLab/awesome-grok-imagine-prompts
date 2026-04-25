@@ -68,9 +68,9 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **1215** |
+| 📝 총 프롬프트 수 | **1229** |
 | ⭐ 추천 프롬프트 | **3** |
-| 🔄 마지막 업데이트 | **2026-04-24** |
+| 🔄 마지막 업데이트 | **2026-04-25** |
 
 ---
 
@@ -189,6 +189,243 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 사무라이 대 터미네이터 시네마틱 전투
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 이미지를 기본 참조로 사용하여 사무라이와 터미네이터 간의 전투를 묘사하는 Grok Imagine용 상세 시네마틱 액션 프롬프트입니다. 고속 회전 카메라 워크와 빠른 마이크로 컷 기법이 포함되어 있습니다.
+
+#### 📝 프롬프트
+
+```
+@ Image1은 사무라이와 터미네이터가 등장하는 영화 속 전투 장면으로, 강렬한 근접 전투가 펼쳐집니다. 카메라는 프레임 중앙에 위치한 피사체를 중심으로 고속으로 회전하며, 여러 카메라 앵글이 교차하는 마이크로 컷 형식으로 구성됩니다.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee4f79635c6ddba166eab989bbcf8b08/thumbnails/thumbnail.jpg" width="600" alt="사무라이 대 터미네이터 시네마틱 전투">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3654)**
+
+**작성자:** [いにしえ@AI Director & Creator｜Will Oldgram](https://x.com/old_pgmrs_will) | **출처:** [Link](https://x.com/old_pgmrs_will/status/2047942047064309993) | **게시일:** Apr 25, 2026
+
+---
+### 거미 공격 액션 시퀀스 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 불타는 검으로 거미를 공격하고 대사를 말하는 캐릭터가 포함된 액션 중심의 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+남자가 검을 꺼내 불을 붙이고 거미를 공격하게 하세요. 거미를 처치한 뒤 '이제 내 가족은 건드릴 수 없을 거다'라고 말하게 하세요.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/89c29739ccacd8e2a4229f4cfc1baab4/thumbnails/thumbnail.jpg" width="600" alt="거미 공격 액션 시퀀스 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3650)**
+
+**작성자:** [HisMoonRey](https://x.com/BrokenWings53) | **출처:** [Link](https://x.com/BrokenWings53/status/2047824180964393136) | **게시일:** Apr 24, 2026
+
+---
+### SF 단편 영화: 소녀 vs. 로봇 거미
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 거대한 로봇 거미와 맞서 싸우는 소녀의 이야기를 다룬 단편 영화용 종합 멀티 씬 시네마틱 비디오 프롬프트입니다. 카메라 연출과 감정 표현 지침이 포함되어 있습니다.
+
+#### 📝 프롬프트
+
+```
+씬 1 — 기계에 다가가다 (0–6초)
+폭풍우가 몰아치는 흐린 날씨 아래, 우뚝 솟은 로봇 거미를 마주하고 바위 지대에 서 있는 소녀를 담은 와이드 시네마틱 샷. 거미 뒤에 있는 거대한 구체 기계에서 푸른 번개가 맥동한다. 바람에 머리카락과 옷이 휘날리는 가운데 소녀를 향해 천천히 다가가는 돌리 인(Dolly-in) 샷. 분위기: '듄(Dune)'과 반군 영웅의 에너지가 결합된 느낌. 깊고 분위기 있는 신시사이저 사운드.
+
+씬 2 — 전투의 시작 (6–12초)
+미드 와이드 샷: 로봇 거미가 기계 다리를 지면에 내리꽂으며 돌진한다. 소녀는 결의에 찬 표정으로 옆으로 뛰어오른다. 왼쪽에서 들어오는 강한 림 라이트(Rim light)가 움직임을 강조한다. 소녀의 움직임을 따라가는 슬로우 트래킹 샷. 분위기: 서사적인 SF 대결. 고조되는 타악기 드럼 사운드.
+
+씬 3 — 전세 역전 (12–18초)
+명확한 상황 전달을 위한 와이드 샷: 소녀가 양팔을 통해 빛나는 에너지를 발산하며 충격파를 보내 로봇 거미를 뒤로 밀어낸다. 거미의 관절에서 불꽃이 튄다(비폭력적 묘사). 구름 사이로 황금빛 역광이 비친다. 규모감을 강조하기 위한 슬로우 돌리 아웃(Dolly-out) 샷. 분위기: 영웅적인 역전. 웅장해지는 음악.
+
+씬 4 — 승리 (18–24초)
+정적인 와이드 샷: 로봇 거미가 빛을 내뿜으며 무너지고, 다리가 접히는 동안 소녀가 당당하게 서 있다. 뒤편의 빛나는 구체에서 나오는 밝은 림 라이트와 흐린 날의 확산광이 어우러진다. 소녀가 날아오를 준비를 할 때 카메라가 부드럽게 위로 틸트(Tilt)된다. 분위기: 경외감이 섞인 승리. 합창단 느낌의 신시사이저 사운드.
+
+씬 5 — 최후의 일격 (24–30초)
+웅장한 항공 와이드 샷: 소녀가 작은 빛나는 폭탄을 들고 거대한 구체 기계를 향해 날아간다. 구체 주변으로 푸른 번개가 휘감긴다. 소녀가 번개 핵을 향해 폭탄을 던진다. 눈부신 섬광(비폭력적 묘사)과 함께 폭풍이 사라진다. 하늘이 맑아지며 천천히 멀어지는 돌리 아웃 샷. 분위기: 희망찬 SF 결말. 부드럽게 고조되는 오케스트라 화음.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9dba6536bd6b12703ffadc80f0f4fa2f/thumbnails/thumbnail.jpg" width="600" alt="SF 단편 영화: 소녀 vs. 로봇 거미">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3648)**
+
+**작성자:** [Hot Lesson](https://x.com/hotlesson) | **출처:** [Link](https://x.com/hotlesson/status/2047818069544997276) | **게시일:** Apr 24, 2026
+
+---
+### Artemis 우주 임무 비디오 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Artemis 우주선의 이륙 및 임무 단계를 묘사하는 상세한 영화적 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+Artemis 2 우주선의 이미지를 보여주세요. 우주선이 이륙하여 지구 궤도를 돌고, 달을 선회한 뒤 태평양으로 귀환하여 성공적으로 회수되는 과정을 영상으로 표현해 주세요.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0c786be781b89561f566aaf8d682c876/thumbnails/thumbnail.jpg" width="600" alt="Artemis 우주 임무 비디오 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3645)**
+
+**작성자:** [Woodi5X5EEE WoodJr](https://x.com/woodi5x5eee) | **출처:** [Link](https://x.com/woodi5x5eee/status/2047761747197513780) | **게시일:** Apr 24, 2026
+
+---
+### 우주 피보나치 수열 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 금빛 별들과 피보나치 수열로 배열된 부유하는 숫자들로 가득 찬 은하계의 공허를 특징으로 하는 상세한 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+금빛 반짝이는 별들로 이루어진 피보나치 수열이 전경에 배치된 은하계의 공허, 황금비율을 따라 위로 떠오르는 다수의 0과 1 추가
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fe4d5a787687b1dbd1c735840e909471/thumbnails/thumbnail.jpg" width="600" alt="우주 피보나치 수열 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3653)**
+
+**작성자:** [✨Alien Queen](https://x.com/MuskWaifu) | **출처:** [Link](https://x.com/MuskWaifu/status/2047739586588127443) | **게시일:** Apr 24, 2026
+
+---
+### 초현실적인 영화 같은 스튜디오 인물 사진 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 미래지향적인 장비를 착용한 젊은 여성을 위한 매우 상세한 영화적 프롬프트로, 스튜디오 환경에서의 사실적인 질감, 조명 및 움직임에 중점을 둡니다.
+
+#### 📝 프롬프트
+
+```
+짧은 검은 머리에 부드럽게 빛나는 피부를 가진 아름다운 젊은 여성이 미래지향적인 검은색 라텍스와 흰색 테크 스타일 재킷을 입고 있는 초현실적인 영화 같은 영상입니다. 그녀는 깔끔하고 미니멀한 스튜디오 배경에서 부드러운 중립 조명을 받으며 카메라를 정면으로 바라보고 있습니다. 그녀는 따뜻하고 자신감 넘치는 표정으로 부드럽게 미소 짓습니다. 그녀가 고개를 살짝 기울이자 눈이 자연스럽게 깜빡입니다. 양손은 카메라를 향해 부드럽고 매력적인 동작으로 움직이며 깊이감과 상호작용을 만들어냅니다. 그녀의 의상은 광택이 나는 반사와 상세한 질감을 가지고 있으며, 특히 검은색 라텍스 소재는 빛에 사실적으로 반응합니다. 그녀가 움직일 때 표면을 따라 미묘한 하이라이트가 반짝입니다. 카메라는 클로즈업(가슴 위 프레이밍)으로 배치되어 피사계 심도가 얕으며, 배경은 부드럽게 흐려진 상태에서 얼굴은 선명하게 유지됩니다. 부드러운 영화적 움직임, 약간의 카메라 안정화, 그리고 부드러운 푸시인 효과가 사실감을 더합니다. 조명은 부드럽고 확산되어 있으며, 머리카락과 어깨를 따라 약간의 림 라이트가 비칩니다. 피부 톤은 자연스럽고 부드러운 광채와 사실적인 디테일을 보여줍니다. 초현실적, 4K 화질, 영화적 색감 보정, 고디테일, 부드러운 애니메이션, 사실적인 물리 효과, 자연스러운 움직임, 부드러운 그림자.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9426d04ee1a835c6704c7f2b1032debd/thumbnails/thumbnail.jpg" width="600" alt="초현실적인 영화 같은 스튜디오 인물 사진 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3643)**
+
+**작성자:** [Thoughts Creator](https://x.com/ThoughCreator) | **출처:** [Link](https://x.com/ThoughCreator/status/2047735068404187257) | **게시일:** Apr 24, 2026
+
+---
+### 심장과 까마귀의 나무
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 심장 모양의 잎이 달린 나무와 서로 대비되는 두 마리 까마귀가 등장하는 시적이고 상징적인 장면입니다.
+
+#### 📝 프롬프트
+
+```
+심장 모양의 잎이 돋아나는 나무를 추가하세요 
+
+평화로운 밤
+나무 옆에 나란히 앉아 있는 두 마리의 까마귀를 추가하세요, 한 마리는 흰색 까마귀입니다
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5342dbca86a3ffe495bfc1380c04249f/thumbnails/thumbnail.jpg" width="600" alt="심장과 까마귀의 나무">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3646)**
+
+**작성자:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **출처:** [Link](https://x.com/HawkinsonLindy/status/2047724190313423255) | **게시일:** Apr 24, 2026
+
+---
+### 까마귀와 함께하는 평화로운 밤 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 나무 위에 앉아 있는 두 마리의 까마귀를 담은 평화로운 밤 풍경 프롬프트로, 대비를 위해 한 마리는 흰색으로 설정했습니다.
+
+#### 📝 프롬프트
+
+```
+평화로운 밤
+나무 위에 나란히 앉아 있는 두 마리의 까마귀를 추가하고, 그중 한 마리는 흰색으로 설정
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e62c016bd7e630eca3a8a4d92e27cd56/thumbnails/thumbnail.jpg" width="600" alt="까마귀와 함께하는 평화로운 밤 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3644)**
+
+**작성자:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **출처:** [Link](https://x.com/HawkinsonLindy/status/2047704647679549838) | **게시일:** Apr 24, 2026
+
+---
+### 부드러운 미소와 꽃에 입 맞추는 모습
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 핸드헬드 카메라 움직임과 감정적인 상호작용이 담긴 영화 같은 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+카메라가 그녀의 얼굴을 천천히 줌인하며, 핸드헬드 카메라 특유의 흔들림이 느껴짐, 여성이 부드럽게 미소 짓는다
+그녀가 꽃에 입을 맞춘다
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a0cae9d16548b86fdba6ca3b59c2fa80/thumbnails/thumbnail.jpg" width="600" alt="부드러운 미소와 꽃에 입 맞추는 모습">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3647)**
+
+**작성자:** [Leo Digital](https://x.com/LeoDigitalVN) | **출처:** [Link](https://x.com/LeoDigitalVN/status/2047626318519677283) | **게시일:** Apr 24, 2026
+
+---
+### 사이버네틱 치파오 변신
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 치파오를 입은 여성이 자신의 팔다리를 사이버네틱 무기로 변신시키는 미래형 지하철 장면을 위한 상세한 시네마틱 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+날카로운 이목구비와 검은 머리를 가진 젊은 여성이 복잡한 꽃 자수가 놓인 하이넥 민소매 블랙 & 골드 치파오(치파오)를 입고 있는 모습의 시네마틱하고 초현실적인 영상입니다. 그녀는 어둡고 거친 미래형 지하철 객차 안에 서 있습니다.
+
+변신 과정: 홀로그램 HUD가 그녀의 눈 위에서 깜빡이는 동안 차분한 표정을 짓던 그녀의 팔과 몸통이 기계적으로 변신하기 시작합니다. 부품들이 이동하고 맞물리며 붉은 LED 조명이 강조된 묵직한 무광 금속 사이버네틱 장갑으로 바뀝니다. 그녀가 팔을 들어 올리자 팔은 모듈식으로 재구성되어 하이테크 에너지 무기로 변하며 카메라를 정면으로 겨눕니다.
+
+분위기 및 조명: 스타일: 다크 사이버펑크 / SF 리얼리즘.
+조명: 깜빡이는 지하철 천장 조명이 있는 어둡고 무드 있는 환경. 사이버네틱 관절과 무기 총구에서 뿜어져 나오는 강렬한 붉은 네온 광원.
+카메라: 그녀의 얼굴을 향한 슬로우 모션 줌인, 무기를 겨누는 순간 미디엄 샷으로 전환. 실크 소재와 차갑고 무거운 기계 장치의 질감을 정밀하게 묘사.
+기술적 사양: 4K 해상도, 금속에 비치는 레이 트레이싱 반사, 시네마틱 그레인, 붉은 에너지 코어에서 발생하는 미세한 렌즈 플레어.
+실험해 볼 수 있는 주요 요소:
+질감: 포스터에 사용했던 "나무 질감"을 "매트 카본 파이버"나 "풍화된 황동"으로 교체하여 기계 부품에 색다른 느낌을 줄 수 있습니다.
+배경: 지하철을 네온이 가득한 옥상이나 전통 찻집으로 바꾸면 더욱 강렬한 대비를 연출할 수 있습니다.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c08cacf749c52d6ffac074dcbaac3f4d/thumbnails/thumbnail.jpg" width="600" alt="사이버네틱 치파오 변신">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3651)**
+
+**작성자:** [Thoughts Creator](https://x.com/ThoughCreator) | **출처:** [Link](https://x.com/ThoughCreator/status/2047624541615140877) | **게시일:** Apr 24, 2026
+
+---
+### 차분하고 미니멀한 실내 장면
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 부드러운 조명과 미세한 카메라 움직임이 돋보이는 평온한 실내 환경을 위한 시네마틱 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+부드러운 뉴트럴 톤과 자연광이 어우러진 차분한 실내 환경을 담은 매우 사실적인 시네마틱 장면입니다. 카메라는 고정된 상태에서 느리고 미세하게 피사체로 다가가는(push-in) 움직임을 보입니다. 부드러운 그림자와 균형 잡힌 구도로 평온하고 미니멀한 분위기를 자아냅니다. 부드러운 빛의 일렁임, 미세한 환경적 움직임, 자연스러운 피사계 심도 등 약간의 주변 움직임이 느껴집니다. 따뜻하면서도 채도가 살짝 낮은 색 보정을 통해 현대적인 시네마틱 룩을 완성했습니다. 초정밀 텍스처, 사실적인 조명, 4K 화질, 얕은 피사계 심도, 부드러운 모션, 필름 스타일의 그레인이 특징입니다.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7188771f1db25f0b13e1a57eb8b44bea/thumbnails/thumbnail.jpg" width="600" alt="차분하고 미니멀한 실내 장면">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3652)**
+
+**작성자:** [Thoughts Creator](https://x.com/ThoughCreator) | **출처:** [Link](https://x.com/ThoughCreator/status/2047574669515956524) | **게시일:** Apr 24, 2026
+
+---
 ### 노움 왕의 보물 창고
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -207,6 +444,80 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3601)**
 
 **작성자:** [Michael Bradley](https://x.com/MikeBradleySr2) | **출처:** [Link](https://x.com/MikeBradleySr2/status/2047569155260317843) | **게시일:** Apr 24, 2026
+
+---
+### 마이클 베이 스타일의 웅장한 항공모함 발진 장면
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> USS 제럴드 R. 포드함에서 오토바이가 발진하는 박진감 넘치는 할리우드 액션 장면을 위한 상세한 Grok Imagine 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+웅장한 할리우드 액션 장면: 항공모함 'USS 제럴드 R. 포드'의 비행 갑판에 고정된 오토바이와 라이더가 전자기 사출기를 통해 고속으로 공중으로 발진하는 모습. 드라마틱한 로우 앵글 샷, 렌즈 플레어, 튀어 오르는 증기와 불꽃, 주변에 주차된 전투기들, 폭풍우 치는 하늘, 영화 같은 조명, IMAX 화질, 마이클 베이 감독 스타일 — 16:9
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c6bf4168d5ca342bda95a4dc0cccbc87/thumbnails/thumbnail.jpg" width="600" alt="마이클 베이 스타일의 웅장한 항공모함 발진 장면">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3655)**
+
+**작성자:** [S.f ting](https://x.com/t4121995t) | **출처:** [Link](https://x.com/t4121995t/status/2047483012829553018) | **게시일:** Apr 24, 2026
+
+---
+### 동아시아 여성 전사의 메카 변신
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 혼란스러운 전장에서 무기가 거대한 용 테마의 메카로 변신하는 여성 전사를 위한 영화적이고 디테일한 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+영화 같은 서사적 액션 시퀀스, 15초, 세로 9:16 비율.
+
+높게 묶은 긴 흑발을 휘날리는 매력적인 동아시아 여성 전사, 날카롭고 우아한 이목구비, 용 문양이 새겨진 화려한 흑-적-금색의 고대 중국풍 미래형 갑옷과 흰 소매, 세련된 검은색 전술 호흡기 마스크를 착용하고 있습니다. 그녀는 어둡고 연기 자욱한 하늘 아래 갈라진 황폐한 전장에 서서, 주황색으로 빛나는 불타는 용 문양이 새겨진 거대하고 정교한 다중 총신 총기를 들고 있습니다.
+
+무기는 강렬한 빛 에너지와 함께 극적으로 변신하며 거대한 이족 보행 궤도형 메카 탱크(드래곤 메카)로 확장됩니다. 전사는 점프하여 거대 기계의 열린 조종석으로 올라탑니다.
+
+역동적인 시퀀스:
+- 빛나는 용 총을 겨누고 발사하는 전사의 클로즈업
+- 무기가 빠르게 변신하여 두꺼운 궤도, 다중 로켓 포드, 온몸에 주황색으로 빛나는 용 패턴이 새겨진 거대한 중장갑 메카로 성장
+- 조종석에서 기체를 조종하는 전사
+- 전장을 강력하게 가로지르며 지면을 부수고 먼지를 일으키는 거대 드래곤 메카의 와이드 시네마틱 샷
+- 메카가 밝은 빛의 궤적과 폭발을 동반한 주황색 불타는 미사일과 에너지 탄을 퍼붓는 장면
+- 멀리 있는 거대 적 메카를 마주하며 거대한 주황색 에너지 빔을 발사하는 드래곤 메카의 마지막 서사적 샷
+
+배경: 붉은 갑옷을 입은 고대 병사들의 군대, 폭발, 화염, 짙은 검은 연기, 극적인 흐린 하늘이 있는 혼란스러운 전장. 강렬한 영화적 조명, 주황색 발광 포인트, 웅장한 스케일, 사실적인 묘사, 초정밀 디테일, 극적인 카메라 앵글, 부드러운 움직임, 고품질, 8K --ar 9:16 --motion 4 --stylize 650
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b5613edd80ef2271a61df21858e8587e/thumbnails/thumbnail.jpg" width="600" alt="동아시아 여성 전사의 메카 변신">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3649)**
+
+**작성자:** [Thoughts Creator](https://x.com/ThoughCreator) | **출처:** [Link](https://x.com/ThoughCreator/status/2047482713339293722) | **게시일:** Apr 24, 2026
+
+---
+### 영화 같은 1인칭 드래곤 비행
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 산골짜기를 고속으로 비행하는 드래곤 라이더의 1인칭 시점 영상을 위한 전문적이고 복잡한 프롬프트로, 특정 디자인 레퍼런스를 활용합니다.
+
+#### 📝 프롬프트
+
+```
+첨부된 드래곤 레퍼런스 시트만을 정확한 디자인 소스로 사용하십시오. 뷰 A-I에서 일관된 거대한 회색 드래곤 하나를 추출하고, 모든 그리드 라인, 라벨, 텍스트 및 중복된 개체는 무시하십시오.
+드래곤 라이더의 1인칭 시점은 등 가시 뒤쪽의 근육질 어깨 부위, 목 뿌리 바로 뒤에 고정된 전방 조종석 안장에서 촬영하십시오. 절대 등 뒤쪽이나 꼬리 근처가 아닙니다. 공기역학적 안장은 눈에 보이는 복대 스트랩, 척추 연결부, 그리고 비늘과 통합되어 몸을 감싸는 하네스로 단단히 고정되어야 합니다. 떠 있거나 헐거운 장비는 없어야 하며, 안장은 영상 내내 안정적으로 유지하십시오.
+라이더의 손은 전경에서 조종 하네스와 안장 손잡이를 잡고 있습니다. 드래곤은 극도의 속도로 위험할 정도로 낮은 고도를 비행하며, 밝은 푸른 하늘과 드라마틱한 적운, 갓 레이(god rays), 볼류메트릭 조명이 있는 먼 뾰족한 산을 향해 푸른 언덕과 굽이치는 강 위를 스치듯 지나갑니다. 강한 수평 모션 블러, 강력한 날갯짓, 자연스러운 몸의 파동, 사실적인 카메라 흔들림 및 바람의 진동을 보여주십시오.
+초현실적인 포토리얼리즘, 상세한 금속성 회색의 겹쳐진 비늘, 사실적인 드래곤 비행 물리 엔진, 영화 같은 8K 디테일, 10-15초 분량의 부드러운 고프레임 영상. 다른 드래곤은 포함하지 마십시오. 레퍼런스 시트의 요소들도 포함하지 마십시오.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6623865bf5185c67daac21751462e71e/thumbnails/thumbnail.jpg" width="600" alt="영화 같은 1인칭 드래곤 비행">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3656)**
+
+**작성자:** [いにしえ@AI Director & Creator｜Will Oldgram](https://x.com/old_pgmrs_will) | **출처:** [Link](https://x.com/old_pgmrs_will/status/2047465662910750809) | **게시일:** Apr 24, 2026
 
 ---
 ### 작은 남자와 거대한 퀘사디아
@@ -2029,282 +2340,6 @@ Pete가 물속에서 발을 찹니다. Lifeguard가 “내가 할게, Pete.”�
 **작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2045344999479366043) | **게시일:** Apr 18, 2026
 
 ---
-### Crimson Seraph 다크 판타지
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 고딕 양식의 대성당을 배경으로 은발의 타락한 세라프와 녹아내리는 검을 담은 다크 판타지 영상 프롬프트로, 소용돌이치는 분위기 효과가 특징입니다.
-
-#### 📝 프롬프트
-
-```
-은발과 불타는 눈동자를 가진 타락한 세라프가 고딕 양식의 대성당에서 녹아내리는 검을 쥐고 있다. 불타는 후광 아래 검은 날개가 펼쳐져 있고, 깃털과 꽃잎이 소용돌이친다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0855626bb484f2ba47a19a698f832b00/thumbnails/thumbnail.jpg" width="600" alt="Crimson Seraph 다크 판타지">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3309)**
-
-**작성자:** [N0v4Ph4n](https://x.com/N0v4ph4n) | **출처:** [Link](https://x.com/N0v4ph4n/status/2045332969196548131) | **게시일:** Apr 18, 2026
-
----
-### 3D 페이퍼 퀼링 인형 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 3D 페이퍼 퀼링 아트 스타일의 고해상도 영상을 위한 상세한 묘사 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-크고 푸른 눈과 금발 머리, 분홍색 입술을 가진 아름다운 인형, 땋은 머리에 정교하게 장식된 꽃들, 머리 주변의 나비들, 파스텔 톤의 흰색 레이스 드레스, 3D 페이퍼 퀼링 아트 스타일, 고해상도
-```
-
-<img src="https://pbs.twimg.com/media/HGI8QHMbgAA6n8a.jpg" width="600" alt="3D 페이퍼 퀼링 인형 프롬프트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3311)**
-
-**작성자:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **출처:** [Link](https://x.com/iamhappy2026/status/2045263539280220669) | **게시일:** Apr 17, 2026
-
----
-### 달빛 아래 유화 정원 인테리어 초상화
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 별이 빛나는 정원 속 여인의 유화 스타일 초상화를 위한 예술적 비디오 프롬프트로, 부드러운 움직임, 꽃의 질감, 영화 같은 조명에 중점을 두었습니다.
-
-#### 📝 프롬프트
-
-```
-별이 빛나는 정원의 기울어진 지평선 아래, 쏟아지는 하얀 달빛을 받으며 서 있는 여인의 초정밀 유화 초상화. 로코코 양식의 꽃무늬 자수가 놓인 드레스와 아르데코 양식의 대칭미가 돋보임. 나이프 기법으로 두껍게 표현된 별이 빛나는 밤하늘, 장면을 압도하는 몽환적인 색조, 부드럽게 흩날리는 머리카락, 감성적인 표정, 영화 같은 구도, 심도 표현, 박물관 수준의 퀄리티, 8K.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/030604988fab9609a664983e62f62b9c/thumbnails/thumbnail.jpg" width="600" alt="달빛 아래 유화 정원 인테리어 초상화">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3310)**
-
-**작성자:** [RosieLP⚔️🌹](https://x.com/S60Rosie) | **출처:** [Link](https://x.com/S60Rosie/status/2045251408266748132) | **게시일:** Apr 17, 2026
-
----
-### 필름 누아르 위협적인 인물 촬영 기법
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine을 위한 시네마틱 비디오 프롬프트로, 특정 카메라 움직임과 조명 지침이 포함된 어둡고 분위기 있는 필름 누아르 장면을 연출합니다.
-
-#### 📝 프롬프트
-
-```
-미디엄 샷, 어두운 가죽 의자에 앉아 있는 위협적인 인물로부터 카메라가 천천히 뒤로 빠지는 돌리 백(dolly back) 촬영, 피어오르는 시가 연기, 전경과 배경을 모두 선명하게 유지하는 스플릿 디옵터(split diopter), 깊은 그림자와 베네치안 블라인드 효과가 강조된 필름 누아르 조명
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bb379bac4d4b674bdc4c2be9c2881f8e/thumbnails/thumbnail.jpg" width="600" alt="필름 누아르 위협적인 인물 촬영 기법">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3312)**
-
-**작성자:** [David Liang](https://x.com/DavidLi36143625) | **출처:** [Link](https://x.com/DavidLi36143625/status/2045219545078714770) | **게시일:** Apr 17, 2026
-
----
-### 황금빛 임파스토 드레스를 입은 신비로운 여인
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 정교한 황금빛 드레스를 입은 여인을 묘사하는 고품질 비디오 생성 프롬프트로, 두꺼운 임파스토 질감의 유화 스타일과 전원적인 배경을 특징으로 합니다.
-
-#### 📝 프롬프트
-
-```
-황금빛 꽃과 잎으로 장식된 길고 흐르는 듯한 짙은 갈색 머리, 정교한 황금빛 꽃 왕관, 장밋빛 뺨과 붉은 입술을 가진 섬세한 얼굴의 아름다운 여인. 두꺼운 임파스토 붓터치와 입체적인 황금빛 꽃잎 디테일이 살아있는 질감의 메탈릭 골드 오프숄더 드레스를 입고 있음. 우아하고 신비로운 분위기, 두꺼운 임파스토 질감의 유화 스타일, 눈에 띄는 팔레트 나이프와 붓터치, 골든 아워 조명, 배경에는 전원적인 나무 오두막, 주변을 떠다니는 야생화와 황금빛 나뭇잎, 로맨틱하고 몽환적인 분위기, 걸작, 고도로 정교함, 영화 같은 구도.
-```
-
-<img src="https://cms-assets.youmind.com/media/1776499094416_mukz3w_HGH5cvQaQAAVcRJ.jpg" width="600" alt="황금빛 임파스토 드레스를 입은 신비로운 여인">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3305)**
-
-**작성자:** [Art Muse](https://x.com/art_muse) | **출처:** [Link](https://x.com/art_muse/status/2045190044319707547) | **게시일:** Apr 17, 2026
-
----
-### 명상하는 제다이 애니메이션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 사막에서 홀로 명상하는 제다이와 그 배경으로 거대한 구체가 떠오르는 모습을 담은 영화 같은 애니메이션 프롬프트로, 환경적 디테일에 중점을 두었습니다.
-
-#### 📝 프롬프트
-
-```
-홀로 남은 제다이가 명상하는 동안 고대의 거대한 구체들이 사막 위로 천천히 떠오릅니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cbae26e5e4278bb5864c96037231b1c1/thumbnails/thumbnail.jpg" width="600" alt="명상하는 제다이 애니메이션">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3314)**
-
-**작성자:** [Fred Devo](https://x.com/DevoFred) | **출처:** [Link](https://x.com/DevoFred/status/2045181744735977839) | **게시일:** Apr 17, 2026
-
----
-### 영화 같은 몰입형 테니스 장면
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 역동적인 공의 움직임과 영화적인 푸시인(push-in) 효과가 포함된 안정적인 테니스 장면을 위한 고도로 상세한 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-영상 전체에서 여성의 모습은 정확히 동일하게 유지되어야 합니다. 얼굴, 정체성, 자세, 의상, 라켓, 조명, 하늘, 카메라 앵글은 변함이 없어야 합니다. 왜곡, 모핑, 해부학적 오류, 추가적인 팔다리, 결함, 깜빡임은 없어야 합니다. 피부는 자연스럽고 사실적으로 보여야 합니다. 테니스 공은 공중에 나타나 카메라를 향해 부드럽고 영화적이며 약간 더 역동적인 움직임으로 이동합니다. 공의 움직임은 전경, 중경, 배경 사이의 깊이감을 통해 몰입감 있고 입체적으로 느껴져야 합니다. 움직임은 매력적이되 혼란스럽지 않고 통제된 상태여야 합니다. 영상은 첫 초부터 강력한 시각적 후크로 시선을 사로잡아야 합니다. 영상 초반에 테니스 공 하나가 렌즈에 매우 가깝게 지나가며 즉각적인 몰입 효과를 만들어야 합니다. 움직임은 점차 강도가 높아집니다. 영상 마지막 부분에는 마지막 테니스 공 하나가 카메라를 향해 직접 이동하여 렌즈에 도달하고, 프레임을 가득 채우며 강렬한 엔딩을 장식합니다. 여성은 미세하고 자연스러운 움직임만 보일 뿐 완전히 정지된 상태를 유지합니다. 그녀의 신체 구조는 항상 완벽하고 물리적으로 정확해야 합니다. 카메라는 매우 미세한 영화적 푸시인 효과와 함께 안정적으로 유지됩니다. 피사체는 선명하게 유지되되, 깊이감을 위해 전경의 일부 공들은 약간 초점이 흐려져야 합니다. 전체적인 느낌은 영화적이고 몰입감 있으며 시각적으로 인상적이어야 하며, 깔끔한 움직임과 초고화질을 유지해야 합니다. 흐림, 깜빡임, 시각적 오류는 없어야 합니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/780eb58b060bb36d72990979afd4aa56/thumbnails/thumbnail.jpg" width="600" alt="영화 같은 몰입형 테니스 장면">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3307)**
-
-**작성자:** [Özge Döner](https://x.com/astronomerozge1) | **출처:** [Link](https://x.com/astronomerozge1/status/2045166451149967723) | **게시일:** Apr 17, 2026
-
----
-### 웅장한 메카 vs 카이주 공중전
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 불타는 도시 상공에서 펼쳐지는 메카, 카이주, 드래곤의 거대한 전투를 묘사한 고도로 영화적이고 상세한 영상 생성 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-불타는 미래 도시 상공에서 펼쳐지는 거대하고 웅장한 영화적 공중전, 로우 앵글의 드라마틱한 시점으로 포착. 수백 미터 높이의 거대한 흰색과 분홍색 하이테크 메카 로봇 'Xeno Leviathan Terraformer'가 전장을 압도하며, 보라색과 청록색의 빛나는 장갑으로 무장하고 가슴 코어에서 강렬한 빛을 내뿜음. 메카는 가슴에서 강력한 밝은 파란색 에너지 빔을, 양팔에서 주황빛 노란색 플라즈마 빔을 아래로 발사함.
-
-메카 앞쪽에는 붉은 오렌지색으로 빛나는 등지느러미와 용암 효과를 두른 사나운 검은색 고질라 형태의 카이주가 위를 향해 포효하고, 오른쪽에는 거대한 막질 날개와 빛나는 눈, 불타는 숨결을 가진 위엄 있는 황금 드래곤이 공격적으로 포효함. 두 괴수 모두 거대 메카와 싸우며 연기와 불길, 폭발에 휩싸여 있음.
-
-드라마틱한 볼류메트릭 조명, 짙은 연기와 구름을 뚫고 나오는 빛줄기(갓 레이), 렌즈 플레어, 날아다니는 파편, 파괴된 마천루가 보이는 불타는 도시, 어두운 우주 배경으로 보이는 지구의 곡선과 별들. 영화적 색감 보정, 강렬한 대비, 매우 상세하고 초현실적인 질감, 역동적인 액션 포즈, 웅장한 스케일, 걸작, 최고 품질, 8k, 사실적이면서도 스타일리시한 애니메이션/메카 미학 --stylize 750 --v 6
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e61d5c33ca5f5875d6a1b45521c5e9a8/thumbnails/thumbnail.jpg" width="600" alt="웅장한 메카 vs 카이주 공중전">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3304)**
-
-**작성자:** [Thoughts Creator](https://x.com/ThoughCreator) | **출처:** [Link](https://x.com/ThoughCreator/status/2045106626257186834) | **게시일:** Apr 17, 2026
-
----
-### 전방 추적 터널 레이스
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 전방 추적 샷을 사용하여 좁은 터널을 질주하는 스포츠카의 모습을 담은 강렬한 레이싱 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-좁은 터널을 질주하는 검은색 스포츠카, 엔진 소리가 울려 퍼지고 헤드라이트가 어둠을 가릅니다. 차량 사이를 아슬아슬하게 피하며 방호벽 충돌을 간신히 모면합니다. 깜빡이는 조명과 좁은 벽으로 둘러싸인 지하 터널. 차량 바로 앞에서 촬영한 전방 추적 샷, 리듬감 있게 스쳐 지나가는 조명, 폐쇄적인 프레이밍, 강렬한 속도감이 느껴집니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a80cf6b6e62ea76eed08d15d02f71d7e/thumbnails/thumbnail.jpg" width="600" alt="전방 추적 터널 레이스">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3308)**
-
-**작성자:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **출처:** [Link](https://x.com/CharaspowerAI/status/2045057192022233269) | **게시일:** Apr 17, 2026
-
----
-### 로코코 유화 초상화 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine을 위한 시네마틱 영상 생성 프롬프트로, 노을빛 아래 반짝이는 질감과 부드러운 움직임이 돋보이는 여성의 유화 작품을 담고 있습니다.
-
-#### 📝 프롬프트
-
-```
-황금빛 노을 속에 서 있는 여성의 초정밀 유화 초상화, 로코코 양식의 꽃무늬 질감과 아르데코 대칭으로 반짝이는 드레스, 빛나는 하늘을 표현한 두꺼운 나이프 터치, 따뜻한 색감이 지배적인 장면, 부드럽게 흩날리는 머리카락, 감성적인 표정, 시네마틱 구도, 피사계 심도, 박물관 수준의 퀄리티, 8K.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6b61a39b2fd3ba77e6c0607b66e82029/thumbnails/thumbnail.jpg" width="600" alt="로코코 유화 초상화 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3313)**
-
-**작성자:** [SPACELESS](https://x.com/VOLDEMORT2X) | **출처:** [Link](https://x.com/VOLDEMORT2X/status/2044986295290634504) | **게시일:** Apr 17, 2026
-
----
-### 사이버펑크 사무라이 액션 피규어 회전 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 사이버펑크 닌자 피규어의 360도 회전 및 영화 같은 클로즈업을 담은 전문가 수준의 제품 쇼케이스 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-투명한 회전판 위에서 360도로 천천히 회전하는 검은색 육각형 디스플레이 베이스 위에 서 있는, 매우 정교한 1/6 스케일의 사이버펑크 사무라이 로봇 액션 피규어입니다. 이 피규어는 검은색의 낡고 해진 망토를 걸치고 있으며, 짙은 회색과 검은색의 노출된 기계식 갑옷, 전술 파우치, 스트랩, 그리고 세월의 흔적이 느껴지는 디테일을 갖춘 위협적인 후드 차림의 사이보그 닌자입니다.
-
-머리는 매끄러운 검은색 로봇 해골 마스크 형태이며, 강렬하게 빛나는 밝은 빨간색 LED 눈과 입이 박동하듯 점멸합니다. 한 손에는 뜨겁게 빛나는 핫핑크색 네온 칼날의 긴 카타나를 쥐고 있습니다.
-
-카메라는 피규어의 눈높이에서 부드럽게 주위를 돌다가 극적인 클로즈업으로 전환됩니다. 먼저 후드 아래의 빛나는 붉은 악마 같은 얼굴을 비추고, 이어서 검을 쥐고 있는 기계식 팔과 로봇 손, 정교한 다리와 부츠, 마지막으로 해진 망토와 갑옷 전체가 보이는 뒷모습을 보여줍니다.
-
-부드러운 흰색 배경의 전문 스튜디오 조명, 광택이 나는 바닥의 은은한 반사, 영화 같은 제품 촬영 스타일, 초현실적인 질감, 선명한 디테일, 4K 해상도, 14초 분량의 부드러운 회전 쇼케이스 영상입니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cd75e14f26eed72dfd21e90d40260c60/thumbnails/thumbnail.jpg" width="600" alt="사이버펑크 사무라이 액션 피규어 회전 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3306)**
-
-**작성자:** [Thoughts Creator](https://x.com/ThoughCreator) | **출처:** [Link](https://x.com/ThoughCreator/status/2044933929111535988) | **게시일:** Apr 17, 2026
-
----
-### 숫자 현실의 픽셀화
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 빨간 머리 여성과 숫자 픽셀화 효과를 활용하여 마음의 확장을 시각화하는 Grok용 복잡한 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-바쁜 빨간 머리 여성이 가끔 웃으며 전화를 받고, 그녀 주변의 녹색 배경이 숫자 13 13, 1313으로 픽셀화되기 시작합니다. 이는 우리의 마음을 확장하고 다른 사람들이 무엇을 하는지 예측하여 그녀의 행동을 예측하려는 모습을 시각화합니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/49b7cde214590ca8447c076b1a95bcb7/thumbnails/thumbnail.jpg" width="600" alt="숫자 현실의 픽셀화">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3266)**
-
-**작성자:** [Jaime Roberts](https://x.com/devilred1376) | **출처:** [Link](https://x.com/devilred1376/status/2044573292002988497) | **게시일:** Apr 16, 2026
-
----
-### 자연스러운 인간의 움직임을 위한 비디오 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 눈 깜빡임이나 호흡과 같은 미세하고 유기적인 캐릭터 움직임을 포함하여, 과장되거나 인위적인 동작을 배제한 사실적인 실사 비디오를 생성하기 위한 Grok Imagine 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-프레임 안에 사람이 등장하는 역동적인 실사 비디오를 생성하세요. 인물은 비교적 정지된 상태를 유지하되, 약간의 고개 돌림, 자연스러운 눈 깜빡임, 호흡, 시선 및 자세의 미세한 변화와 같은 자연스럽고 섬세한 움직임만 포함되어야 합니다. 춤을 추거나 손을 흔드는 동작은 제외하세요.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2b9854dac24f14b6eae28aaed63a20e2/thumbnails/thumbnail.jpg" width="600" alt="자연스러운 인간의 움직임을 위한 비디오 프롬프트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3261)**
-
-**작성자:** [iGor Salikov](https://x.com/salikov_) | **출처:** [Link](https://x.com/salikov_/status/2044510075683848540) | **게시일:** Apr 15, 2026
-
----
-### 추상적 시네마틱 조명 비디오 프롬프트
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 렘브란트 조명, 모션 블러, 필름 그레인을 활용하여 분위기 있고 추상적인 시네마틱 시퀀스를 생성하는 Grok Imagine용 스타일리시하고 복합적인 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-렘브란트 조명과 어두운 밤의 흐릿한 빛이 결합되어 얼룩덜룩하고 확산된, 흐릿하고 추상적인 명암을 만들어냅니다. 완벽한 색상 매칭, 높은 대비, 어둡고 흐릿한 톤, 강한 필름 그레인, 높은 입자 노이즈, 겹쳐진 흐릿한 번짐 효과, 포커스 블러, 모션 블러, 인물과 장면의 중첩, 강한 원근감, 독특한 시점, 넓은 여백(화이트 스페이스), 미니멀한 배경을 특징으로 하며, 화면에는 창의적인 영문 정보가 부분적으로 포함됩니다. 25
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/91532617bb77bbc6919ece90232f4bde/thumbnails/thumbnail.jpg" width="600" alt="추상적 시네마틱 조명 비디오 프롬프트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3265)**
-
-**작성자:** [iGor Salikov](https://x.com/salikov_) | **출처:** [Link](https://x.com/salikov_/status/2044509313566162966) | **게시일:** Apr 15, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2366,6 +2401,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-04-24T20:57:48.404Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-04-25T09:03:23.859Z</sub>
 
 </div>

@@ -68,9 +68,9 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **1215** |
+| 📝 提示词总数 | **1229** |
 | ⭐ 精选提示词 | **3** |
-| 🔄 最后更新 | **2026-04-24** |
+| 🔄 最后更新 | **2026-04-25** |
 
 ---
 
@@ -189,6 +189,243 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 武士对决终结者：电影级战斗场景
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 这是一个为 Grok Imagine 编写的详细电影级动作提示词，描述了武士与终结者之间的战斗，包含高速旋转镜头和快速微剪辑，并以一张图片作为主要参考。
+
+#### 📝 提示词
+
+```
+@ Image1 是一场电影战斗场景，主角为一名武士和一名终结者，进行高强度的近身格斗，摄像机围绕位于画面中心的拍摄主体高速旋转，场景采用微剪辑格式，并不断切换多个摄像机角度
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee4f79635c6ddba166eab989bbcf8b08/thumbnails/thumbnail.jpg" width="600" alt="武士对决终结者：电影级战斗场景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3654)**
+
+**作者:** [いにしえ@AI Director & Creator｜Will Oldgram](https://x.com/old_pgmrs_will) | **来源:** [Link](https://x.com/old_pgmrs_will/status/2047942047064309993) | **发布时间:** Apr 25, 2026
+
+---
+### 蜘蛛攻击动作序列提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个以动作为导向的视频提示词，描述了一个角色挥舞着火焰之剑攻击蜘蛛并说出一句台词的场景。
+
+#### 📝 提示词
+
+```
+让角色拔出一把剑，将其点燃并攻击蜘蛛。击杀蜘蛛后，让他说出：“现在你伤害不了我的家人了。”
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/89c29739ccacd8e2a4229f4cfc1baab4/thumbnails/thumbnail.jpg" width="600" alt="蜘蛛攻击动作序列提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3650)**
+
+**作者:** [HisMoonRey](https://x.com/BrokenWings53) | **来源:** [Link](https://x.com/BrokenWings53/status/2047824180964393136) | **发布时间:** Apr 24, 2026
+
+---
+### 科幻短片：少女大战机械蜘蛛
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 这是一份详尽的多场景电影级视频提示词，用于制作一部少女对抗巨型机械蜘蛛的短片，包含完整的运镜指导与情感基调。
+
+#### 📝 提示词
+
+```
+场景 1 — 靠近机器（0–6 秒）
+电影级广角镜头：一位年轻女孩站在岩石地带，在阴云密布的暴风雨光线下直面一只巨大的机械蜘蛛。它身后的巨型球体机器闪烁着蓝色闪电。镜头缓慢推近，风吹动着她的头发和衣物。氛围：类似《沙丘》的叛逆英雄感。深沉的氛围合成器音乐。
+
+场景 2 — 战斗开始（6–12 秒）
+中广角镜头：机械蜘蛛向前冲锋，机械腿重重地砸在地面上。女孩坚定地侧身跃开。左侧强烈的轮廓光突显了动作感。跟随她移动的缓慢追踪镜头。氛围：史诗级科幻对决。打击乐鼓点渐强。
+
+场景 3 — 扭转局势（12–18 秒）
+清晰的广角镜头：女孩将发光的能量汇聚于双臂，发出的冲击波将机械蜘蛛震退。火花从其关节处迸发（非血腥）。金色的背光穿透云层。缓慢拉远镜头以强调规模感。氛围：英雄式的反转。音乐高昂。
+
+场景 4 — 胜利（18–24 秒）
+静态广角镜头：机械蜘蛛在光芒中坍塌，腿部折叠，女孩挺拔地站立。阴天漫射光，身后发光的球体投射出明亮的轮廓光。当她准备起飞时，镜头缓慢向上倾斜。氛围：充满敬畏的胜利感。唱诗班风格的合成器音乐。
+
+场景 5 — 最终一击（24–30 秒）
+史诗级航拍广角镜头：女孩飞向巨大的球体机器，手中拿着一枚发光的小炸弹。蓝色闪电在球体周围弧形闪烁。她将炸弹投向闪电核心。耀眼的光芒爆发（非血腥），驱散了风暴。随着天空放晴，镜头缓慢拉远。氛围：充满希望的科幻结局。柔和渐强的管弦乐和弦。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9dba6536bd6b12703ffadc80f0f4fa2f/thumbnails/thumbnail.jpg" width="600" alt="科幻短片：少女大战机械蜘蛛">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3648)**
+
+**作者:** [Hot Lesson](https://x.com/hotlesson) | **来源:** [Link](https://x.com/hotlesson/status/2047818069544997276) | **发布时间:** Apr 24, 2026
+
+---
+### Artemis 太空任务视频提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一份详细的电影级视频提示词，展示了 Artemis 宇宙飞船的发射及任务阶段。
+
+#### 📝 提示词
+
+```
+展示 Artemis II 宇宙飞船的画面，呈现其发射升空、绕地球飞行、绕月球飞行，最终返回太平洋并成功回收的全过程。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0c786be781b89561f566aaf8d682c876/thumbnails/thumbnail.jpg" width="600" alt="Artemis 太空任务视频提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3645)**
+
+**作者:** [Woodi5X5EEE WoodJr](https://x.com/woodi5x5eee) | **来源:** [Link](https://x.com/woodi5x5eee/status/2047761747197513780) | **发布时间:** Apr 24, 2026
+
+---
+### 宇宙斐波那契数列提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个详细的视频提示词，呈现了带有金色星辰的银河虚空，以及按斐波那契数列排列的浮动数字。
+
+#### 📝 提示词
+
+```
+银河虚空，前景为金色闪光星辰组成的斐波那契数列，生物发光，添加多个从黄金比例中浮现的 0 和 1
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fe4d5a787687b1dbd1c735840e909471/thumbnails/thumbnail.jpg" width="600" alt="宇宙斐波那契数列提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3653)**
+
+**作者:** [✨Alien Queen](https://x.com/MuskWaifu) | **来源:** [Link](https://x.com/MuskWaifu/status/2047739586588127443) | **发布时间:** Apr 24, 2026
+
+---
+### 超写实电影级影棚肖像提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一份高度详细的电影级提示词，用于生成身着未来感装备的年轻女性，重点呈现影棚环境下的逼真质感、光影效果及动态表现。
+
+#### 📝 提示词
+
+```
+一段超写实的电影级视频，画面中是一位留着黑色短发、皮肤散发柔和光泽的年轻美女，身穿未来感黑色乳胶材质与白色科技风夹克。她正对着镜头，置身于干净简约的影棚背景中，光线柔和中性。她面带温暖自信的微笑，双眼自然眨动，头部微微倾斜。双手平滑地向镜头方向伸出，动作充满邀请感，营造出空间深度与互动感。她的服装具有光泽反射和细腻的纹理，尤其是黑色乳胶材质，能真实地呈现光影变化。随着她的动作，表面闪烁着细微的高光。镜头采用近景（胸部以上构图），浅景深效果使面部清晰，背景保持柔和虚化。平滑的电影级运镜、轻微的镜头防抖以及缓慢的推镜头效果增强了真实感。光线柔和且均匀，边缘光勾勒出她的发丝和肩部轮廓。肤色自然，带有柔和的光泽和真实的细节。超写实，4K 画质，电影级调色，高细节，平滑动画，逼真物理效果，自然动态，柔和阴影。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9426d04ee1a835c6704c7f2b1032debd/thumbnails/thumbnail.jpg" width="600" alt="超写实电影级影棚肖像提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3643)**
+
+**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **来源:** [Link](https://x.com/ThoughCreator/status/2047735068404187257) | **发布时间:** Apr 24, 2026
+
+---
+### 心与乌鸦之树
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个充满诗意与象征意义的场景，描绘了一棵长着心形叶子的树以及两只形成鲜明对比的乌鸦。
+
+#### 📝 提示词
+
+```
+添加一棵长出心形叶子的树 
+
+宁静的夜晚
+在树上添加两只并排栖息的乌鸦，其中一只乌鸦为白色
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5342dbca86a3ffe495bfc1380c04249f/thumbnails/thumbnail.jpg" width="600" alt="心与乌鸦之树">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3646)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2047724190313423255) | **发布时间:** Apr 24, 2026
+
+---
+### 宁静夜晚与乌鸦的提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个宁静夜景的提示词，画面中树上停着两只乌鸦，其中一只为白色以形成对比。
+
+#### 📝 提示词
+
+```
+宁静的夜晚
+添加两只并排停在树上的乌鸦，其中一只乌鸦为白色
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e62c016bd7e630eca3a8a4d92e27cd56/thumbnails/thumbnail.jpg" width="600" alt="宁静夜晚与乌鸦的提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3644)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2047704647679549838) | **发布时间:** Apr 24, 2026
+
+---
+### 温柔微笑与花朵之吻
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个包含手持摄像机运动和情感互动的电影感视频提示词。
+
+#### 📝 提示词
+
+```
+摄像机缓慢推近她的脸部，手持摄像机晃动，女子温柔地微笑
+她亲吻花朵
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a0cae9d16548b86fdba6ca3b59c2fa80/thumbnails/thumbnail.jpg" width="600" alt="温柔微笑与花朵之吻">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3647)**
+
+**作者:** [Leo Digital](https://x.com/LeoDigitalVN) | **来源:** [Link](https://x.com/LeoDigitalVN/status/2047626318519677283) | **发布时间:** Apr 24, 2026
+
+---
+### 赛博旗袍变身
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段关于未来地铁场景的详细电影级提示词，描述了一位身着旗袍的女性将其肢体转化为赛博武器的过程。
+
+#### 📝 提示词
+
+```
+一段电影级、超写实的视频，画面中是一位五官精致、留着深色长发的年轻女性，身穿一件高领无袖黑金配色旗袍（Qipao），上面绣有精美的花卉刺绣。她正站在一节光线昏暗、充满颗粒感的未来地铁车厢内。
+
+变身过程：场景开始时，她神情平静，全息 HUD 在她眼前闪烁。突然，她的手臂和躯干开始进行机械化重构，伴随着咔哒声，转化为带有红色 LED 发光装饰的重型拉丝金属赛博装甲。她抬起手臂，手臂模块化地重塑为一把高科技能量武器，直接瞄准镜头。
+
+氛围与光影：风格：暗黑赛博朋克 / 科幻写实。
+光影：忧郁的低光环境，头顶的地铁灯光忽明忽暗。强烈的红色霓虹光芒从她的赛博关节和武器枪管中透出。
+运镜：面部慢动作推镜头，随后过渡到她瞄准时的中景镜头。注重纹理细节——丝绸面料与冰冷厚重机械质感的对比。
+技术参数：4k 分辨率，金属表面的光线追踪反射，电影级颗粒感，以及来自红色能量核心的轻微镜头光晕。
+可尝试的关键元素：
+纹理：你可以将海报中使用的“木质纹理”替换为“哑光碳纤维”或“风化黄铜”，赋予机械部件不同的质感。
+背景：将地铁场景更换为霓虹闪烁的屋顶或传统的茶馆，会营造出更强烈的视觉反差。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c08cacf749c52d6ffac074dcbaac3f4d/thumbnails/thumbnail.jpg" width="600" alt="赛博旗袍变身">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3651)**
+
+**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **来源:** [Link](https://x.com/ThoughCreator/status/2047624541615140877) | **发布时间:** Apr 24, 2026
+
+---
+### 宁静简约的室内场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于创作宁静室内环境的电影级视频提示词，包含柔和的灯光和细腻的镜头运动。
+
+#### 📝 提示词
+
+```
+一个高度逼真的电影级室内场景，采用柔和的中性色调和自然光。镜头保持稳定，并伴有缓慢、细腻的推近运动。氛围宁静且简约，光影柔和，构图平衡。可见轻微的环境动态——柔和的光影闪烁、细微的环境波动以及自然的景深效果。色彩分级温暖且略微去饱和，呈现出现代电影质感。超精细纹理、逼真光效、4K 画质、浅景深、平滑运动、电影感颗粒。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7188771f1db25f0b13e1a57eb8b44bea/thumbnails/thumbnail.jpg" width="600" alt="宁静简约的室内场景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3652)**
+
+**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **来源:** [Link](https://x.com/ThoughCreator/status/2047574669515956524) | **发布时间:** Apr 24, 2026
+
+---
 ### Nome King 的宝藏室
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -207,6 +444,80 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3601)**
 
 **作者:** [Michael Bradley](https://x.com/MikeBradleySr2) | **来源:** [Link](https://x.com/MikeBradleySr2/status/2047569155260317843) | **发布时间:** Apr 24, 2026
+
+---
+### 史诗级 Michael Bay 风格航空母舰发射场景
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 一个详细的电影级 Grok Imagine 提示词，用于创作一个好莱坞高能动作场景：摩托车从 USS Gerald R. Ford 号航空母舰上发射。
+
+#### 📝 提示词
+
+```
+史诗级好莱坞动作场景：一辆摩托车及其骑手被固定在“USS Gerald R. Ford”号航空母舰的飞行甲板上，通过电磁弹射器高速发射升空。戏剧性的低角度拍摄，镜头光晕，蒸汽与火花四溅，附近停放着战斗机，暴风雨天空，电影级灯光，IMAX 画质，Michael Bay 执导 — 16:9
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c6bf4168d5ca342bda95a4dc0cccbc87/thumbnails/thumbnail.jpg" width="600" alt="史诗级 Michael Bay 风格航空母舰发射场景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3655)**
+
+**作者:** [S.f ting](https://x.com/t4121995t) | **来源:** [Link](https://x.com/t4121995t/status/2047483012829553018) | **发布时间:** Apr 24, 2026
+
+---
+### 东亚女战士机甲变身
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 这是一个电影级、高细节的视频提示词，描述了一位女战士在混乱的战场上，其武器变身为巨型龙主题机甲的过程。
+
+#### 📝 提示词
+
+```
+电影级史诗动作序列，15 秒，9:16 竖屏格式。
+
+一位令人惊艳的东亚女战士，留着高马尾长发，五官精致锐利，身穿饰有龙纹的黑红金配色古风未来感盔甲，搭配白色袖子和黑色流线型战术呼吸面罩。她站在暗淡烟雾笼罩下破碎荒凉的战场上，手中握着一把巨大的、细节极其丰富的多管手持枪械，枪身上布满了发光的橙色火焰龙纹。
+
+武器在强烈的能量光芒中发生戏剧性变化并迅速扩张，变成一台巨大的双足履带式机甲坦克（龙形机甲）。女战士跳跃并进入了巨型机器的开放式驾驶舱。
+
+动态序列：
+- 特写镜头：女战士瞄准并射击发光的龙形枪
+- 武器迅速变形并生长为全尺寸重装机甲，机身布满厚重的履带、多个火箭发射巢以及发光的橙色龙纹图案
+- 女战士在驾驶舱内操控机甲
+- 广角电影镜头：巨大的龙形机甲在战场上强力推进，履带碾压地面，扬起尘土
+- 机甲释放出毁灭性的橙色火焰导弹和能量冲击波，伴随着明亮的光迹和爆炸
+- 史诗般的结尾镜头：龙形机甲展现完全形态，面对远处的巨型敌方机甲，并发射出一道巨大的明亮橙色能量光束
+
+背景：混乱的战场，红甲古代士兵军队，爆炸，火焰，浓厚的黑烟，戏剧性的阴天。强烈的电影级光影，橙色发光点缀，史诗感，照片级真实感，超高细节，戏剧性摄像机角度，流畅动作，高质量，8K --ar 9:16 --motion 4 --stylize 650
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b5613edd80ef2271a61df21858e8587e/thumbnails/thumbnail.jpg" width="600" alt="东亚女战士机甲变身">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3649)**
+
+**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **来源:** [Link](https://x.com/ThoughCreator/status/2047482713339293722) | **发布时间:** Apr 24, 2026
+
+---
+### 电影级第一人称巨龙飞行
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个复杂且专业的提示词，用于生成第一人称视角的视频：一名龙骑士以极高速度穿过山谷飞行，并使用特定的设计参考。
+
+#### 📝 提示词
+
+```
+仅使用随附的巨龙参考图作为确切的设计来源。从视图 A-I 中提取一只连贯的巨型灰色巨龙，并忽略所有网格线、标签、文字及重复实例。
+第一人称骑手视角，位于背部棘刺后方、肌肉发达的肩部区域，即颈部基座正后方的驾驶舱鞍座上，切勿位于后背或靠近尾部的位置。空气动力学鞍座必须紧密固定，带有可见的腹带、脊柱连接器以及包裹身体并与鳞片融为一体的挽具。严禁出现漂浮或松散的装备。确保鞍座在整个过程中保持稳定。
+骑手的双手在前景中紧握控制挽具和鞍座把手。巨龙在极低的高度以极速飞行，掠过绿色山丘和蜿蜒的河流，向远处锯齿状的山脉疾驰，背景是明亮的蓝天、壮观的积云、耶稣光和体积光。展现强烈的水平运动模糊、有力的振翅、自然的身体起伏、逼真的摄像机抖动以及风振效果。
+超写实照片级画质，细节丰富的金属灰色重叠鳞片，真实的巨龙飞行物理效果，电影级 8K 细节，流畅的高帧率 10-15 秒视频。画面中不得出现其他巨龙。不得包含参考图中的任何元素。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6623865bf5185c67daac21751462e71e/thumbnails/thumbnail.jpg" width="600" alt="电影级第一人称巨龙飞行">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3656)**
+
+**作者:** [いにしえ@AI Director & Creator｜Will Oldgram](https://x.com/old_pgmrs_will) | **来源:** [Link](https://x.com/old_pgmrs_will/status/2047465662910750809) | **发布时间:** Apr 24, 2026
 
 ---
 ### 小人与巨型墨西哥油炸玉米饼
@@ -2028,282 +2339,6 @@ Pete 在水中踢水。Lifeguard 说：“交给我吧，Pete。”Pete 低头�
 **作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2045344999479366043) | **发布时间:** Apr 18, 2026
 
 ---
-### Crimson Seraph Dark Fantasy
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个关于堕落炽天使的暗黑奇幻视频提示词，画面包含银发炽天使、熔岩之剑以及哥特式大教堂，并带有旋转的氛围特效。
-
-#### 📝 提示词
-
-```
-银发炽天使拥有灰烬般的双眼，手持熔岩之剑伫立于哥特式大教堂中。黑色羽翼在火红光环下展开，羽毛与花瓣在空中飞舞。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0855626bb484f2ba47a19a698f832b00/thumbnails/thumbnail.jpg" width="600" alt="Crimson Seraph Dark Fantasy">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3309)**
-
-**作者:** [N0v4Ph4n](https://x.com/N0v4ph4n) | **来源:** [Link](https://x.com/N0v4ph4n/status/2045332969196548131) | **发布时间:** Apr 18, 2026
-
----
-### 3D 纸卷艺术玩偶提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份用于生成 3D 纸卷艺术风格高清视频的详细描述性提示词。
-
-#### 📝 提示词
-
-```
-美丽的玩偶，拥有蓝色大眼睛、金色头发和粉色嘴唇，编织发型中点缀着精致的花朵，头部周围环绕着蝴蝶，身穿白色蕾丝连衣裙，带有柔和的色彩，3D 纸卷艺术风格，高分辨率
-```
-
-<img src="https://pbs.twimg.com/media/HGI8QHMbgAA6n8a.jpg" width="600" alt="3D 纸卷艺术玩偶提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3311)**
-
-**作者:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **来源:** [Link](https://x.com/iamhappy2026/status/2045263539280220669) | **发布时间:** Apr 17, 2026
-
----
-### 月光油画花园肖像
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个艺术感十足的视频提示词，用于创作女性在星光花园中的油画风格肖像，重点在于柔和的动态、花卉纹理和电影级光影。
-
-#### 📝 提示词
-
-```
-超精细油画肖像，描绘一位女性站在星光花园的倾斜地平线上，沐浴在洁白的月光下。她的裙子上绣着洛可可风格的花卉纹理，并带有装饰艺术（Art Deco）的对称感。厚重的调色刀笔触勾勒出星空，画面以忧郁的色调为主，发丝柔和飘动，表情充满情感，电影级构图，景深效果，博物馆级品质，8K 分辨率。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/030604988fab9609a664983e62f62b9c/thumbnails/thumbnail.jpg" width="600" alt="月光油画花园肖像">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3310)**
-
-**作者:** [RosieLP⚔️🌹](https://x.com/S60Rosie) | **来源:** [Link](https://x.com/S60Rosie/status/2045251408266748132) | **发布时间:** Apr 17, 2026
-
----
-### 黑色电影风格威胁人物摄影
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个为 Grok Imagine 设计的电影感视频提示词，包含黑暗、氛围感十足的黑色电影场景，以及具体的运镜和布光指令。
-
-#### 📝 提示词
-
-```
-中景镜头，摄像机缓慢后移，拍摄坐在深色皮椅上的威胁人物，雪茄烟雾缭绕，使用分焦镜使前景和背景同时保持清晰，黑色电影风格布光，呈现深邃阴影和百叶窗光影效果
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bb379bac4d4b674bdc4c2be9c2881f8e/thumbnails/thumbnail.jpg" width="600" alt="黑色电影风格威胁人物摄影">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3312)**
-
-**作者:** [David Liang](https://x.com/DavidLi36143625) | **来源:** [Link](https://x.com/DavidLi36143625/status/2045219545078714770) | **发布时间:** Apr 17, 2026
-
----
-### 身着金色厚涂礼服的空灵女子
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个高度详细的视频生成提示词，描述了一位身着精致金色礼服的女性，采用厚涂纹理的油画风格，背景为乡村环境。
-
-#### 📝 提示词
-
-```
-美丽的女子，留着飘逸的深棕色长发，发间装饰着金色的花朵和叶片，戴着精致的金色花冠，面容精致，双颊红润，红唇动人。身着一件精致的露肩礼服，礼服由质感金属金制成，带有厚重的厚涂笔触和凸起的金色花瓣细节，优雅而空灵。油画风格，具有厚重的厚涂纹理，可见调色刀和笔触痕迹。黄金时刻的灯光，背景为乡村木屋，野花和金色叶片在她周围漂浮，浪漫而梦幻的氛围，杰作，高度细节，电影级构图。
-```
-
-<img src="https://cms-assets.youmind.com/media/1776499094416_mukz3w_HGH5cvQaQAAVcRJ.jpg" width="600" alt="身着金色厚涂礼服的空灵女子">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3305)**
-
-**作者:** [Art Muse](https://x.com/art_muse) | **来源:** [Link](https://x.com/art_muse/status/2045190044319707547) | **发布时间:** Apr 17, 2026
-
----
-### 冥想绝地武士动画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段电影级动画提示词，描绘了一位孤独的绝地武士在沙漠中冥想，背景中巨大的球体缓缓升起，重点展现环境细节。
-
-#### 📝 提示词
-
-```
-一位孤独的绝地武士正在冥想，背景中，古老而巨大的球体在沙漠中缓缓升起。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cbae26e5e4278bb5864c96037231b1c1/thumbnails/thumbnail.jpg" width="600" alt="冥想绝地武士动画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3314)**
-
-**作者:** [Fred Devo](https://x.com/DevoFred) | **来源:** [Link](https://x.com/DevoFred/status/2045181744735977839) | **发布时间:** Apr 17, 2026
-
----
-### 电影级沉浸式网球场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个高度精细的视频提示词，用于生成具有动态球体运动和电影级推入镜头的稳定网球场景。
-
-#### 📝 提示词
-
-```
-视频全程中，女性角色必须保持完全一致。她的面部、身份、姿势、服装、球拍、光影、天空和摄像机角度必须保持不变。严禁出现形变、变形、解剖结构错误、多余肢体、故障或闪烁。皮肤必须看起来自然且真实。网球在空中出现并向镜头方向移动，动作平滑、具有电影感且略显动态。其运动轨迹应具有沉浸感和层次感，体现出前景、中景和背景的深度。运动过程应引人入胜且可控，避免混乱。视频必须从第一秒开始就以强烈的视觉钩子吸引观众。视频初期，应有一个网球非常靠近镜头，以产生即时的沉浸效果。运动强度逐渐增强。视频结尾处，最后一个网球直接向镜头飞来并触及镜头，填满画面，营造出强有力的收尾时刻。女性角色保持完全静止，仅有细微的自然微动作。她的解剖结构必须始终完美且符合物理规律。摄像机保持稳定，并带有非常轻微的电影级推入效果。主体保持清晰，前景中的部分球体略微失焦以增加深度。整体观感应具备电影感、沉浸感和视觉冲击力，动作流畅且画质极高。严禁模糊、闪烁或视觉错误。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/780eb58b060bb36d72990979afd4aa56/thumbnails/thumbnail.jpg" width="600" alt="电影级沉浸式网球场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3307)**
-
-**作者:** [Özge Döner](https://x.com/astronomerozge1) | **来源:** [Link](https://x.com/astronomerozge1/status/2045166451149967723) | **发布时间:** Apr 17, 2026
-
----
-### 史诗级机甲对战怪兽空中激战
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个极具电影感且细节丰富的视频生成提示词，描述了机甲、怪兽和巨龙在燃烧的城市上空展开的宏大战斗。
-
-#### 📝 提示词
-
-```
-在地球上一座燃烧的未来城市上空，一场宏大的史诗级电影化空战，采用低角度拍摄，视角极具戏剧性。一个名为“Xeno Leviathan Terraformer”的巨型白粉色高科技机甲机器人主导了整个画面，它高达数百米，身披重甲，带有发光的紫色和青色装饰，胸部核心闪烁着强烈的光芒。它正从胸部发射出一道强劲的亮蓝色能量束，并从双臂向下发射出两道橙黄色等离子光束。
-
-在机甲前方，一只凶猛的深色哥斯拉式怪兽正向上咆哮，其背鳍闪烁着红橙色的光芒，身上带有炽热的熔岩特效；在右侧，一条雄伟的金色巨龙展开巨大的膜状翅膀，双眼发光，喷吐着烈火，同样在愤怒地咆哮。这两只生物在与巨型机甲战斗时，被烟雾、火焰和爆炸所包围。
-
-戏剧性的体积光，神圣光束穿透浓烟与云层，镜头光晕，飞溅的碎片，下方是摩天大楼被毁的燃烧城市，背景中可见地球弧线和深邃太空中的繁星。电影级调色，强烈的对比度，高度精细，超写实纹理，动态动作姿态，史诗级规模，杰作，最佳质量，8k，写实与动漫/机甲美学相结合 --stylize 750 --v 6
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e61d5c33ca5f5875d6a1b45521c5e9a8/thumbnails/thumbnail.jpg" width="600" alt="史诗级机甲对战怪兽空中激战">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3304)**
-
-**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **来源:** [Link](https://x.com/ThoughCreator/status/2045106626257186834) | **发布时间:** Apr 17, 2026
-
----
-### 向前追踪隧道竞速
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个紧张刺激的竞速视频提示词，采用向前追踪镜头，捕捉一辆跑车在幽闭隧道中飞驰的画面。
-
-#### 📝 提示词
-
-```
-一辆黑色跑车在狭窄的隧道中疾驰，引擎声回荡，车灯划破黑暗。车辆在车流中穿梭，险些撞上护栏。地下隧道内灯光闪烁，墙壁紧凑。采用位于车头正前方的向前追踪镜头，灯光以有节奏的间隔掠过，构图充满幽闭感，速度感极强。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a80cf6b6e62ea76eed08d15d02f71d7e/thumbnails/thumbnail.jpg" width="600" alt="向前追踪隧道竞速">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3308)**
-
-**作者:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **来源:** [Link](https://x.com/CharaspowerAI/status/2045057192022233269) | **发布时间:** Apr 17, 2026
-
----
-### 洛可可风格油画肖像视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个为 Grok Imagine 准备的电影级视频生成提示词，描绘了一幅夕阳下女性的油画，具有闪烁的质感和柔和的动态。
-
-#### 📝 提示词
-
-```
-超精细油画肖像，一位女性站在金色的夕阳下，她的裙子闪烁着洛可可风格的花卉纹理和装饰艺术风格的对称感，厚重的调色刀笔触勾勒出绚丽的天空，暖色调主导画面，头发柔和飘动，情感表达细腻，电影级构图，景深效果，博物馆级品质，8K 分辨率。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6b61a39b2fd3ba77e6c0607b66e82029/thumbnails/thumbnail.jpg" width="600" alt="洛可可风格油画肖像视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3313)**
-
-**作者:** [SPACELESS](https://x.com/VOLDEMORT2X) | **来源:** [Link](https://x.com/VOLDEMORT2X/status/2044986295290634504) | **发布时间:** Apr 17, 2026
-
----
-### 赛博朋克武士可动人偶展示
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个专家级的视频提示词，用于展示赛博朋克忍者人偶的 360 度旋转及电影级特写镜头。
-
-#### 📝 提示词
-
-```
-一个高度精细的 1/6 比例赛博朋克武士机器人可动人偶，站立在黑色六边形展示底座上，底座在透明转盘上缓慢进行 360 度旋转。该人偶是一个极具压迫感的连帽赛博忍者，身披黑色破损的褴褛斗篷，露出深灰色和黑色的机械装甲，配有战术袋、绑带以及做旧细节。
-
-其头部是一个光滑的黑色机械骷髅面具，闪烁着明亮的红色 LED 眼睛和嘴部，光芒呈脉冲状闪烁。它的一只手握着一把长武士刀，刀刃散发着炽热的粉色霓虹光芒。
-
-摄像机在人偶视线高度平滑地环绕拍摄，随后推进进行戏剧性的特写：首先是兜帽下发光的红色恶魔面孔，接着是握剑的机械手臂和机械手，然后是腿部和靴子的细节，最后是展示破损斗篷和完整装甲的背部视角。
-
-采用专业摄影棚灯光，背景为柔和的白色，光亮地面上有微妙的反射，电影级产品摄影风格，超逼真纹理，细节锐利，4K 画质，流畅的 14 秒旋转展示视频。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cd75e14f26eed72dfd21e90d40260c60/thumbnails/thumbnail.jpg" width="600" alt="赛博朋克武士可动人偶展示">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3306)**
-
-**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **来源:** [Link](https://x.com/ThoughCreator/status/2044933929111535988) | **发布时间:** Apr 17, 2026
-
----
-### 数字现实的像素化
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个为 Grok 设计的复杂视频提示词，包含一位红发女性和数字像素化效果，旨在可视化思维的扩展。
-
-#### 📝 提示词
-
-```
-一位忙碌的红发女性偶尔拿起手机大笑，她周围的绿色背景开始出现数字 13 13、1313 的像素化效果，象征着我们思维的扩展，以及能够预判他人行为并试图预测她下一步动作的能力。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/49b7cde214590ca8447c076b1a95bcb7/thumbnails/thumbnail.jpg" width="600" alt="数字现实的像素化">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3266)**
-
-**作者:** [Jaime Roberts](https://x.com/devilred1376) | **来源:** [Link](https://x.com/devilred1376/status/2044573292002988497) | **发布时间:** Apr 16, 2026
-
----
-### 自然人体动作视频提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于 Grok Imagine 的提示词，旨在创作具有细微、有机角色动作（如眨眼和呼吸）的逼真真人视频，避免夸张或不自然的动作。
-
-#### 📝 提示词
-
-```
-创作一段动态真人视频，画面中包含一个人。人物保持相对静止，仅有自然的细微动作——轻微的头部转动、自然的眨眼、呼吸、姿势和视线的微小变换。不要包含跳舞或挥手动作。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2b9854dac24f14b6eae28aaed63a20e2/thumbnails/thumbnail.jpg" width="600" alt="自然人体动作视频提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3261)**
-
-**作者:** [iGor Salikov](https://x.com/salikov_) | **来源:** [Link](https://x.com/salikov_/status/2044510075683848540) | **发布时间:** Apr 15, 2026
-
----
-### 抽象电影感光效视频提示词
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 这是一个为 Grok Imagine 设计的风格化复杂提示词，通过运用伦勃朗光、动态模糊和胶片颗粒感，营造出一种忧郁且抽象的电影级序列。
-
-#### 📝 提示词
-
-```
-伦勃朗光结合暗夜朦胧光影，营造出斑驳、弥散、模糊且抽象的光影效果。完美的色彩搭配，高对比度，暗色/朦胧色调，强烈的胶片颗粒感，高颗粒噪点，层叠的模糊晕染，焦点模糊，动态模糊，人物与场景的重叠，强透视感，独特的视角，大面积的留白，极简背景，画面融入局部创意英文信息点缀。25
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/91532617bb77bbc6919ece90232f4bde/thumbnails/thumbnail.jpg" width="600" alt="抽象电影感光效视频提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3265)**
-
-**作者:** [iGor Salikov](https://x.com/salikov_) | **来源:** [Link](https://x.com/salikov_/status/2044509313566162966) | **发布时间:** Apr 15, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2365,6 +2400,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-04-24T20:57:44.478Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-04-25T09:03:19.010Z</sub>
 
 </div>
