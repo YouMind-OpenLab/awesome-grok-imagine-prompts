@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1244** |
+| 📝 Total Prompts | **1258** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-04-27** |
 
@@ -189,6 +189,234 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Cinematic slice-of-life anime supermarket scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video prompt for a cinematic slice-of-life anime scene set in a supermarket at sunset, featuring three women and a teddy bear with specific movements and Japanese dialogue.
+
+#### 📝 Prompt
+
+```
+A cinematic slice-of-life anime scene set in a supermarket checkout during sunset.
+
+Center: a black-haired adult woman wearing a white blouse and deep green apron with an FP1 badge, calm and slightly introspective expression.
+
+Left: a blonde woman with a gentle expression, same uniform and flower accessory.
+
+Right: a brown-haired woman with a realistic expression, same uniform and flower accessory.
+
+Front: a small teddy bear wearing a deep green apron with an FP1 badge, standing still.
+
+All characters wear matching soft flower crowns symbolizing hope.
+
+Soft pastel color palette, very thin delicate anime lineart, flat soft shading, minimal rendering, soft ambient sunset lighting, rainbow visible through the window, warm gentle atmosphere.
+
+Camera: natural eye-level, soft 45-degree angle.
+
+Very subtle micro zoom toward the center (black-haired woman) while she speaks.
+
+Dialogue (Japanese voice only):
+
+Central black-haired woman (calm adult female voice)
+
+"Before I knew it, I felt like I'd been... repeating the same day over and over."
+
+Acting: subtle facial expression, small natural movements only.
+
+IMPORTANT RULE:
+
+only the speaking character moves their mouth, all other characters keep their mouths completely closed, no lip movement for non-speaking characters
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0bbc798a9915c866d3a28f145bbbb324/thumbnails/thumbnail.jpg" width="600" alt="Cinematic slice-of-life anime supermarket scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3759)**
+
+**Author:** [テカひめ｜FP1級｜賢者に転職できない遊び人Lv.20/すっぴんLv.1](https://x.com/tekka5154) | **Source:** [Link](https://x.com/tekka5154/status/2048588038570422399) | **Published:** Apr 27, 2026
+
+---
+### Cosmic OHM Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cosmic animation prompt that zooms into an OHM symbol and transforms it into planet Earth among the stars.
+
+#### 📝 Prompt
+
+```
+Make a zoom in the OHM symbol and transform it on planet Earth floating in the stars. Make it cosmic.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5bfeab1c77d4c5122bfc47af540d03f7/thumbnails/thumbnail.jpg" width="600" alt="Cosmic OHM Transformation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3749)**
+
+**Author:** [DW 💉👀🐊](https://x.com/deweller) | **Source:** [Link](https://x.com/deweller/status/2048547442161856696) | **Published:** Apr 26, 2026
+
+---
+### Martial Arts with Flame Hair
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for a character performing martial arts in skin-tight armor with a 360-degree panoramic view and unique flaming hair.
+
+#### 📝 Prompt
+
+```
+Doing martial arts in skin tight armor with a panoramic 360 view and black hair with flames on the tips
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/debd4ee1754aec05a855bc9630be679d/thumbnails/thumbnail.jpg" width="600" alt="Martial Arts with Flame Hair">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3758)**
+
+**Author:** [SS](https://x.com/SteveS_X_) | **Source:** [Link](https://x.com/SteveS_X_/status/2048545391075795008) | **Published:** Apr 26, 2026
+
+---
+### Cosmic Ecstatic Dance Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal and visionary video prompt depicting transcendent beings engaged in ecstatic dance within a cosmic fusion of light and shadow.
+
+#### 📝 Prompt
+
+```
+a life beyond our wildest imagination, where light and dark merge into one, and we lose ourselves completely to ecstatic dance, surreal visionary scene, cosmic fusion of radiance and shadow, transcendent beings surrendering to infinite rhythm
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eac56780b8d299444f7c50e47c2f65fd/thumbnails/thumbnail.jpg" width="600" alt="Cosmic Ecstatic Dance Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3753)**
+
+**Author:** [dude in recovery](https://x.com/dr_chim_gaming) | **Source:** [Link](https://x.com/dr_chim_gaming/status/2048534397457252352) | **Published:** Apr 26, 2026
+
+---
+### Forest Walk with Pooh and Mickey
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A whimsical prompt featuring Winnie the Pooh and Mickey Mouse walking through a sunny forest.
+
+#### 📝 Prompt
+
+```
+I'm walking through the forest with Winnie the Pooh, who's carrying a barrel of honey. Little bears walk alongside us. It's sunny. I'm holding Mickey Mouse's hand.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1f22592cf642f97af77c88d1a0d0c01b/thumbnails/thumbnail.jpg" width="600" alt="Forest Walk with Pooh and Mickey">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3752)**
+
+**Author:** [Jarosław Justka](https://x.com/jaras70berlin) | **Source:** [Link](https://x.com/jaras70berlin/status/2048517613173494090) | **Published:** Apr 26, 2026
+
+---
+### Visual Journey Project
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A stylistic video prompt focusing on slow movement, mist, and layering for a visual project titled "Two Weeks Early".
+
+#### 📝 Prompt
+
+```
+PROJECT: "Two Weeks Early" — visual journey
+
+GLOBAL SETTINGS:
+Speed 0.04 to 0.05 maximum for entire video. No cuts, no hard transitions. Only layered dissolves, mist, and shading.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/be728f3c985b1aa9917003b385246eef/thumbnails/thumbnail.jpg" width="600" alt="Visual Journey Project">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3748)**
+
+**Author:** [@TheCFormula](https://x.com/TheCFormula) | **Source:** [Link](https://x.com/TheCFormula/status/2048502579928125863) | **Published:** Apr 26, 2026
+
+---
+### Cowboy Starlit Dance
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Generates a video of a cowboy and a lady dancing on a patio under a starry sky with a rail fence.
+
+#### 📝 Prompt
+
+```
+Cowboy and his lady slow dancing on their patio under brightly shining stars
+Add split rail fence around patio
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ac60e71b8e1706ba02e2042cd5fb11bc/thumbnails/thumbnail.jpg" width="600" alt="Cowboy Starlit Dance">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3751)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2048464740595454031) | **Published:** Apr 26, 2026
+
+---
+### Batman Desert Walk Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A motion prompt for a video of Batman walking smoothly across desert sands in a cinematic style.
+
+#### 📝 Prompt
+
+```
+He is walking smoothly, without saying anything, a soft, low sound in the atmosphere. Cinematic style.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/220be9914027d00d46cdd961f071a438/thumbnails/thumbnail.jpg" width="600" alt="Batman Desert Walk Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3756)**
+
+**Author:** [NOVAROSK 🇦🇶](https://x.com/NOVAROSK) | **Source:** [Link](https://x.com/NOVAROSK/status/2048460239733682450) | **Published:** Apr 26, 2026
+
+---
+### Samurai in Bamboo Forest
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed cinematic prompt for a samurai walking through a misty bamboo forest under a crimson moon.
+
+#### 📝 Prompt
+
+```
+A lone samurai in feudal Japan, wearing dark, battle-worn armor, walks slowly through a dense bamboo forest at night. The environment is illuminated by a haunting crimson moon, casting eerie red light through the tall bamboo stalks. Thin mist drifts across the ground, curling around his feet as he moves. His katana hangs low, its blade subtly reflecting the red glow.
+
+Cinematic style, dark feudal Japan atmosphere, ultra-realistic textures, dramatic lighting, volumetric fog, high contrast shadows, floating particles in the air.
+
+Shot like a film scene: low-angle tracking shot, shallow depth of field, anamorphic lens, film grain, 8K resolution, moody color grading (deep blacks and crimson reds).
+
+Inspired by classic samurai cinema, slow and deliberate movement, intense and silent mood, strong sense of tension.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/33fcf6b40e4f8056b610c7c66e69b3b4/thumbnails/thumbnail.jpg" width="600" alt="Samurai in Bamboo Forest">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3755)**
+
+**Author:** [NOVAROSK 🇦🇶](https://x.com/NOVAROSK) | **Source:** [Link](https://x.com/NOVAROSK/status/2048424710111736195) | **Published:** Apr 26, 2026
+
+---
+### Serpentine Movement Motion Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A motion prompt for Grok Imagine designed to animate a serpent with lateral undulation in a cyberpunk jungle environment, used in a two-step process after generating a base image.
+
+#### 📝 Prompt
+
+```
+Highly-detailed a large, menacing, translucent, glistening serpent in a cyberpunk jungle . Its highly detailed skin, covered in purple and black scales that fade to fluorescent green, is moist and glistening. It has a massive, fluorescent yellow alien crest that fades to a vibrant red and purple. Its enormous eyes are a matte white and glow, and the edges of its fringes and internal spore clouds are subtly bioluminescent. Its powerful, coiled body is in an alert position. It is surrounded by bizarre, luminescent alien plants and shimmering, glitter-like moss. Head on the ground, the snake moves by lateral undulation (serpentine movement): the body forms S-shapes to propel itself. (No music)
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/92a918f9acb3c02c5aac205ed8b21916/thumbnails/thumbnail.jpg" width="600" alt="Serpentine Movement Motion Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3760)**
+
+**Author:** [♥𝓛𝓪𝓭𝔂𝓓𝓑𝓾𝓰0o·.🐞.·♡°·.·° .·°♕](https://x.com/DBug0o) | **Source:** [Link](https://x.com/DBug0o/status/2048419051030876196) | **Published:** Apr 26, 2026
+
+---
 ### Chloe's Spatial Rift
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -208,30 +436,105 @@ Chloe, has stepped through the Spatial Rift in the Moonstone Castle and finds he
 **Author:** [LenoyInc](https://x.com/sandroraffaele) | **Source:** [Link](https://x.com/sandroraffaele/status/2048293772405211602) | **Published:** Apr 26, 2026
 
 ---
-### Resident Evil Style Lip Sync Agent
+### Abstract Tech Advertisement
 
-![日本語](https://img.shields.io/badge/lang-日本語-green)
+![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed video prompt for generating a Resident Evil-inspired female agent with precise lip-sync for a self-introduction dialogue.
+> A sophisticated prompt for creating branding and advertisements featuring liquid glass, black holes, and xAI-style design elements.
 
 #### 📝 Prompt
 
 ```
-Accurately use the woman in this image. A cool and dangerous Resident Evil-style female agent, cold expressionless, no smiling at all. Perfectly lip-synced indifferent English self-introduction. Dialogue: "My name is NERA. Bio-synthetic unit. I don't feel fear. I don't feel pain. Only protocol." Slight head tilt and sharp gaze, emphasizing the texture of black leather and gloves. Strong reflection of red neon, 11 seconds, cinematic quality, resident evil vibe, emotionless.
+An advertisement for Grok Imagine featuring liquid glass UI elements, image sequence black holes and cosmos understanding editorial xAI branded font and designs sharp high quality style ad real people
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/df0785a1a3302e968e34e9596b38f5f9/thumbnails/thumbnail.jpg" width="600" alt="Resident Evil Style Lip Sync Agent">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bd8edfebcbc6c1f20da2192e6f615a86/thumbnails/thumbnail.jpg" width="600" alt="Abstract Tech Advertisement">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3750)**
+
+**Author:** [Kiri](https://x.com/Kyrannio) | **Source:** [Link](https://x.com/Kyrannio/status/2048277179822432314) | **Published:** Apr 26, 2026
+
+---
+### Robot Factory Conversion Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for a silent video showing an industrial scene of hundreds of robots working and welding in a factory.
+
+#### 📝 Prompt
+
+```
+silent video please 
+
+show more of the factory conversion and show hundreds of robots working, welding etc....
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09e04e954509063083bbf046deaf1531/thumbnails/thumbnail.jpg" width="600" alt="Robot Factory Conversion Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3754)**
+
+**Author:** [mary](https://x.com/minca2007) | **Source:** [Link](https://x.com/minca2007/status/2048259730859048996) | **Published:** Apr 26, 2026
+
+---
+### NERA Lip-Sync Agent Prompt
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A highly detailed cinematic prompt for a Resident Evil-style female agent featuring specific lip-sync dialogue and atmospheric requirements.
+
+#### 📝 Prompt
+
+```
+Accurately use the woman in this image. A Resident Evil-style cool and dangerous female agent, cold expressionless, not smiling at all. Calmly introduced in English with perfect lip-sync. Lines: 'My name is NERA. Bio-synthetic unit. I don't feel fear. I don't feel pain. Only protocol.' Emphasize slight head tilts and sharp gaze, the texture of black leather and gloves. Strong red neon reflections, 11 seconds, cinematic quality, resident evil vibe, emotionless.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bd66a6c8417cee15b603d4727272f485/thumbnails/thumbnail.jpg" width="600" alt="NERA Lip-Sync Agent Prompt">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3714)**
 
 **Author:** [rui｜∫varts (シュバルツ)](https://x.com/varts_works) | **Source:** [Link](https://x.com/varts_works/status/2048258487428513937) | **Published:** Apr 26, 2026
 
 ---
-### Surreal Futuristic Labyrinth Music Scene
+### Anime Supermarket Scene with Talking Teddy Bear
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A video generation prompt for a surreal and dreamlike scene combining music, math, and nature in a futuristic city.
+> A cinematic anime-style video prompt featuring a peaceful supermarket checkout scene where characters wear matching flower crowns and a small teddy bear speaks gently.
+
+#### 📝 Prompt
+
+```
+A cinematic slice-of-life anime scene set in a supermarket checkout during soft daylight.
+Center: a black-haired adult woman wearing a white blouse and deep green apron with an FP1 badge, gentle and slightly relieved expression.
+Left: a blonde woman with a calm expression, same uniform and flower accessory.
+Right: a brown-haired woman with a neutral expression, same uniform and flower accessory.
+Front: a small teddy bear wearing a deep green apron with an FP1 badge, looking slightly upward.
+All characters wear matching soft flower crowns symbolizing hope.
+Soft pastel color palette, very thin delicate anime lineart, flat soft shading, minimal rendering, soft ambient lighting, warm and peaceful atmosphere.
+Background: softly blurred supermarket interior.
+Camera: natural eye-level, soft 45-degree angle, no zoom.
+Dialogue (Japanese voice only):
+The small teddy bear in front (voice of a young girl, soft and gentle)
+"It just means you're working that hard."
+Acting: minimal natural movement. The teddy bear speaks gently.
+IMPORTANT RULE:
+only the teddy bear moves its mouth, all other characters keep their mouths completely closed, no lip movement for non-speaking characters
+especially the central black-haired woman must keep mouth completely closed
+No other character speaks in this scene.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/990a63263a5bd75c014f656be894ba0f/thumbnails/thumbnail.jpg" width="600" alt="Anime Supermarket Scene with Talking Teddy Bear">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3761)**
+
+**Author:** [テカひめ｜FP1級｜賢者に転職できない遊び人Lv.20/すっぴんLv.1](https://x.com/tekka5154) | **Source:** [Link](https://x.com/tekka5154/status/2048241445711339729) | **Published:** Apr 26, 2026
+
+---
+### Surreal Mathematical Resonance
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal and dreamlike scene where musical and mathematical elements are woven together inside a futuristic city.
 
 #### 📝 Prompt
 
@@ -239,7 +542,7 @@ Accurately use the woman in this image. A cool and dangerous Resident Evil-style
 A soft, living surreal scene where a piano, stars, flowers, and mathematical patterns are gently woven together in warm resonance, floating in a dreamlike meeting place inside a futuristic labyrinthine city, bathed in tender light. The music is resonance.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/63bb4b996087fe4d0f46aace2dd8a5f2/thumbnails/thumbnail.jpg" width="600" alt="Surreal Futuristic Labyrinth Music Scene">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ca937a957dc0d29aac0a700744917671/thumbnails/thumbnail.jpg" width="600" alt="Surreal Mathematical Resonance">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3715)**
 
@@ -263,6 +566,25 @@ A whimsical 3D illustration features a stylized woman with closed eyes, her face
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3716)**
 
 **Author:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **Source:** [Link](https://x.com/iamhappy2026/status/2048208298386632723) | **Published:** Apr 26, 2026
+
+---
+### Intricate Fantasy Woman Profile and Cityscape
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed prompt for a fantasy video featuring a woman with swirling golden hair and a vibrant cityscape motif.
+
+#### 📝 Prompt
+
+```
+An intricate fantasy art piece displays a woman's profile with closed eyes, surrounded by an elaborate golden, swirling hair design and a leaf motif in gold, blue, and orange. her makeup includes gold eyeshadow and long dark lashes, with red lips. she wears a textured golden garment with a prominent blue, patterned disc. below her chin, a dense arrangement of colorful buildings with unique roofs and spires forms a cityscape, all against a dark background.
+```
+
+<img src="https://cms-assets.youmind.com/media/1777277643043_e364t6_HGyoF5dbQAAtI4G.jpg" width="600" alt="Intricate Fantasy Woman Profile and Cityscape">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3757)**
+
+**Author:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **Source:** [Link](https://x.com/iamhappy2026/status/2048196860293091421) | **Published:** Apr 26, 2026
 
 ---
 ### Decorative 3D Portrait
@@ -2052,294 +2374,6 @@ VROOM VROOM begin focus on intense stares of focussed concentration as those bes
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2046511204722467089) | **Published:** Apr 21, 2026
 
 ---
-### Alien and businessman complex scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A complex multi-image reference prompt involving an alien, a businessman, and a spaceship.
-
-#### 📝 Prompt
-
-```
-1. Alien character 2. Businessman character 3. House in background (taken from a Google maps street view) make @image2 a dark rainy day. the alien @image1 walks to the white house as a huge spaceship flies overhead. The man @image3 sees the alien and runs away, hysterical
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/61a01bde09662cbe1739ad6deae15bbb/thumbnails/thumbnail.jpg" width="600" alt="Alien and businessman complex scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3483)**
-
-**Author:** [M I K E • マイケル・リックス](https://x.com/michaelricks) | **Source:** [Link](https://x.com/michaelricks/status/2046444567126216730) | **Published:** Apr 21, 2026
-
----
-### Spaceship Battle Over Missouri River
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A grok-imagine video generation prompt creating a cinematic spaceship battle scene over a specific river landscape using the new reference feature.
-
-#### 📝 Prompt
-
-```
-Spaceship battle over the Missouri River at Lazy rRver Acres at SD and NE border.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/73e94f590f28e5419f22b09d9c87f470/thumbnails/thumbnail.jpg" width="600" alt="Spaceship Battle Over Missouri River">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3437)**
-
-**Author:** [Hoff 🌙](https://x.com/HoffPlanet) | **Source:** [Link](https://x.com/HoffPlanet/status/2046440705908679139) | **Published:** Apr 21, 2026
-
----
-### Moon Survey Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A technical video prompt for a low-altitude lunar flyover scanning for specific elements.
-
-#### 📝 Prompt
-
-```
-{Nano Intelligence Hydrate Methane }Protection Shield} ^^*^*^scanning rocks on the moon at 3 meters fly over trajectory....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/024a945b482ddaab8d2f1fbb22bec78a/thumbnails/thumbnail.jpg" width="600" alt="Moon Survey Video Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3496)**
-
-**Author:** [Notzucow](https://x.com/Notzucow69) | **Source:** [Link](https://x.com/Notzucow69/status/2046423903799525412) | **Published:** Apr 21, 2026
-
----
-### Industrial Mecha Battle
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A comprehensive prompt for a massive bunny-mecha fighting human-sized warriors in a dusty wasteland.
-
-#### 📝 Prompt
-
-```
-Cinematic epic battle in a dystopian industrial wasteland at dusk, heavy smoke and dust in the air. A massive 40-foot tall white-and-black mecha rabbit robot with glowing red-orange eyes, long mechanical bunny ears, heavy armor plating, and powerful limbs is furiously fighting two agile human-sized bunny-eared warriors in sleek futuristic white-and-black bodysuits with helmets and glowing visors.\n\nDynamic action sequence: \n- One bunny warrior leaps high in the air delivering powerful kicks and energy punches to the giant mech's head and chest, creating bright orange sparks and explosions.\n- The second bunny warrior stays low, sliding and attacking the mech's legs and feet with blazing energy blasts and kicks, causing fire and molten sparks on the concrete ground.\n- The giant bunny mech swings its huge arms, punches the ground creating shockwaves and debris, tries to grab and smash the smaller warriors, its eyes flaring brightly with every impact.\n\nIntense sparks, flying debris, ground explosions, thick smoke billowing, dramatic orange fire glow reflecting on metallic surfaces, cinematic lighting, epic wide shots and dynamic low-angle camera work, ultra-realistic CGI, photorealistic details, dramatic atmosphere, high contrast, 8K, masterpiece, best quality, highly detailed, motion blur on fast movements.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/193907cf7036890af32bfba00dadc244/thumbnails/thumbnail.jpg" width="600" alt="Industrial Mecha Battle">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3484)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2046389815365480463) | **Published:** Apr 21, 2026
-
----
-### Woman on Balcony Breezy Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video prompt describing a woman on a balcony with motion caused by an evening breeze.
-
-#### 📝 Prompt
-
-```
-The beautiful woman stands on a sunlit balcony with colorful flowers and hanging baskets filled with fuchsias as the gentle evening breeze blows her gown and scarf
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7e43143acd971edba9045b41ac98885e/thumbnails/thumbnail.jpg" width="600" alt="Woman on Balcony Breezy Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3392)**
-
-**Author:** [Carry Robey](https://x.com/carry_robey) | **Source:** [Link](https://x.com/carry_robey/status/2046011588130509077) | **Published:** Apr 19, 2026
-
----
-### Enchanted Forest Cougar Leap
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A descriptive video prompt for a cougar leaping over glowing butterflies in a misty, magical forest environment.
-
-#### 📝 Prompt
-
-```
-In the misty heart of an enchanted forest, a sleek cougar leaps gracefully over glowing butterflys, its powerful form silhouetted against whispering shadows. Pure wild magic in motion.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b97c2d564439c33cd89fe909d9443e2e/thumbnails/thumbnail.jpg" width="600" alt="Enchanted Forest Cougar Leap">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3405)**
-
-**Author:** [A Dogs Life](https://x.com/K9Dirk) | **Source:** [Link](https://x.com/K9Dirk/status/2046007076741329167) | **Published:** Apr 19, 2026
-
----
-### Hyperrealistic Cosmic Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for a mystical and celestial night sky scene featuring a central figure and ethereal forms.
-
-#### 📝 Prompt
-
-```
-A hyperrealistic cosmic scene with a central mystical figure and ethereal forms in a starry night sky.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/57add58836a492b9c5ef56ddb9cec2f2/thumbnails/thumbnail.jpg" width="600" alt="Hyperrealistic Cosmic Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3389)**
-
-**Author:** [Kadriye G.](https://x.com/kadriyegms11) | **Source:** [Link](https://x.com/kadriyegms11/status/2046002768310145120) | **Published:** Apr 19, 2026
-
----
-### Whimsical forest scene video prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for generating a serene video of a whimsical forest with lush trees, moss, and tree stumps.
-
-#### 📝 Prompt
-
-```
-whimsical forest scene with lush leafy trees and some bloomed trees moss and a tree stump....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fe0adc1c9b923acfc6c5c82e16180320/thumbnails/thumbnail.jpg" width="600" alt="Whimsical forest scene video prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3393)**
-
-**Author:** [The Walking Talking Glitch](https://x.com/Anomaly_Glitch) | **Source:** [Link](https://x.com/Anomaly_Glitch/status/2045987765787988150) | **Published:** Apr 19, 2026
-
----
-### Water Elemental rising from waves
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An epic VFX prompt describing a water elemental creature forming from the ocean with specific camera movements.
-
-#### 📝 Prompt
-
-```
-A massive water elemental rising from a crashing wave on a stormy shore.The scene starts with a large wave curling towards the beach. Camera Motion: Begins with low tracking along the water, then arcs upward revealing the creature forming from spray. Ends with a dramatic pullback showing the full figure towering over the ocean. Lighting: Overcast with strong rim lighting, glints on water spray, flashes from distant lightning. Style: Epic scale VFX, photoreal ocean simulation, storm FX, fluid dynamics-driven movement.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/61d1ff285bdbcf82b6d451834944c3ea/thumbnails/thumbnail.jpg" width="600" alt="Water Elemental rising from waves">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3387)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2045966719227662413) | **Published:** Apr 19, 2026
-
----
-### Surfer and dolphins in pipeline wave
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A dynamic action prompt for a surfing video with dolphins joining the scene.
-
-#### 📝 Prompt
-
-```
-Have the wave become a big pipeline and the surfer rides it out of pipeline perfectly as dolphins join the surf ....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/946fe0651cb449f0bcf3b1fa97026355/thumbnails/thumbnail.jpg" width="600" alt="Surfer and dolphins in pipeline wave">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3388)**
-
-**Author:** [mike lecavalier](https://x.com/anthracnose) | **Source:** [Link](https://x.com/anthracnose/status/2045956959484916043) | **Published:** Apr 19, 2026
-
----
-### Rocket launch video prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for Grok Imagine to transform a concept of dual engines into a powerful rocket traveling to Mars.
-
-#### 📝 Prompt
-
-```
-2 Engines Front & Back 
-
-That this concept and turn it into a enormous rocket powerful enough to go fast enough to Mars
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b5fb6f3b993acc71a9f37e01d635980d/thumbnails/thumbnail.jpg" width="600" alt="Rocket launch video prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3404)**
-
-**Author:** [Jessica Longo](https://x.com/Jessica39627125) | **Source:** [Link](https://x.com/Jessica39627125/status/2045950526085317040) | **Published:** Apr 19, 2026
-
----
-### Cinematic sci-fi hospital video scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed video prompt for a suspenseful scene in a hospital involving a doctor and alien figures appearing in the background.
-
-#### 📝 Prompt
-
-```
-Ultra-realistic cinematic video, 8K resolution, cold hospital lighting with subtle sci-fi glow, 35mm lens, high contrast shadows, immersive sound design (low hum, distant echoes, subtle alien tones). Scene Breakdown 0:00 – 0:04 Wide shot of a quiet hospital corridor at night. Lights flicker slightly. The environment feels empty and tense. A doctor walks calmly down the hallway, holding a file and reviewing it while moving forward in a natural direction. 0:04 – 0:08 Medium shot from the front side. The doctor continues walking, focused and professional. In the background (clearly behind the doctor only), a faint distortion appears in the air like heatwaves slowly forming into a vague humanoid shape. 0:08 – 0:12 Cut to a rear-angle shot. Now the alien presence becomes clearer: 2 tall, slender, semi-transparent alien figures emerge from the shadows behind the doctor. They move slowly and silently, maintaining distance. Important: they do not touch, chase, or cross in front of the doctor. 0:12 – 0:15 Closeup on the doctor’s face as he pauses slightly, sensing something unusual. He subtly turns his head halfway not fully. Cut back to a wider shot: the aliens are now clearly visible in the background, standing still and watching. End frame: Doctor in foreground, unaware but uneasy. Aliens remain behind, silent and observing. Critical Direction (Error Prevention) Doctor always walks forward normally (no reverse movement) Aliens appear only behind the doctor, never in front No physical interaction (no attack, no contact) Keep movement slow, controlled, and realistic Maintain hospital realism with subtle sci-fi intrusion (no over-the-top effects) Mood / Feel Eerie, suspenseful, controlled sci-fi thriller tension built through silence, distance, and presence rather than action.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8551b7c4eef017a366beaff17263248f/thumbnails/thumbnail.jpg" width="600" alt="Cinematic sci-fi hospital video scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3403)**
-
-**Author:** [Ai Doctor](https://x.com/DoctorAmna11) | **Source:** [Link](https://x.com/DoctorAmna11/status/2045930553627848795) | **Published:** Apr 19, 2026
-
----
-### Cinematic Parking Garage Suspense
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed, single-continuous-shot prompt for a suspenseful thriller scene in a parking garage.
-
-#### 📝 Prompt
-
-```
-Ultra-realistic cinematic video, 8K resolution, dark moody lighting, high contrast shadows, 35mm lens, handheld-stabilized camera for subtle tension, realistic sound design (distant echoes, footsteps, metallic ambience).
-Prompt (Single Continuous Frame – No Cuts)
-A dimly lit underground parking garage at night. Flickering fluorescent lights cast uneven shadows across concrete pillars. The atmosphere is tense and quiet.
-The camera slowly tracks backward in a single continuous motion, facing a man who is walking cautiously toward the camera. He looks alert and slightly anxious, glancing around as if he feels someone is watching him.
-As he walks, the lights above him begin to flicker one by one in sequence behind him only (important: lights switch off progressively in the direction he came from, not ahead of him).
-A faint shadow briefly appears between the pillars in the background, always staying behind him, never crossing in front. The man senses something, stops for a moment, and turns slightly but sees nothing clearly.
-The camera continues moving backward smoothly, maintaining distance. The sound of soft footsteps echoes but they do not match his pace.
-Final seconds:
-One last light flickers off behind him, plunging part of the garage into darkness. As the frame settles, a vague human-like silhouette is visible far in the background, partially hidden in shadow stationary, watching.
-Important Direction (to avoid mistakes)
-The camera must remain a single continuous backward tracking shot (no cuts)
-The mysterious presence stays behind the man at all times, never appearing in front
-Lighting flickers in a clear directional sequence (back to deeper darkness)
-No jump scares tension is built through movement, sound, and shadows
-The man never runs; he remains cautious and controlled
-Mood / Feel
-Suspenseful, tense, mysterious, slow burn thriller with psychological unease.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b5afae35349a99356d8f93c3219665d9/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Parking Garage Suspense">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3396)**
-
-**Author:** [Ai Doctor](https://x.com/DoctorAmna11) | **Source:** [Link](https://x.com/DoctorAmna11/status/2045928596381057329) | **Published:** Apr 19, 2026
-
----
-### Jane Austen Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed video-to-video style transformation prompt based on the Pride and Prejudice proposal scene.
-
-#### 📝 Prompt
-
-```
-SCENE: The Misty Morning Second Proposal
-
-Use your photo with this prompt when generating a video with @grok @imagine
-
-Use the uploaded photo as the exact face and body reference. Transform the person into the character from the 2005 Pride and Prejudice movie. If the uploaded person is a woman, make her Elizabeth Bennet (Keira Knightley likeness). If the uploaded person is a man, make him Mr. Darcy (Matthew Macfadyen likeness with white shirt open at the collar). In a misty English field at sunrise with soft golden backlighting and fog, the character stands very close (forehead gently touching their partner if shown as a pair, or in the emotional pose), intense eye contact, hands placed intimately, dew-covered grass. Dreamy ethereal atmosphere, soft diffused light, highly realistic, filmic color palette exactly like the movie’s second proposal scene.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee4ed6333adf3191d0452df83f9673bb/thumbnails/thumbnail.jpg" width="600" alt="Jane Austen Transformation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3397)**
-
-**Author:** [Lala](https://x.com/keepgoingAnnie) | **Source:** [Link](https://x.com/keepgoingAnnie/status/2045920296633319881) | **Published:** Apr 19, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2401,6 +2435,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-27T06:34:32.189Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-27T10:24:50.747Z</sub>
 
 </div>

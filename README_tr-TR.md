@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1244** |
+| 📝 Total Prompts | **1258** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-04-27** |
 
@@ -189,6 +189,234 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Sinematik yaşamdan kesitler sunan anime süpermarket sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gün batımında bir süpermarkette geçen, üç kadın ve bir oyuncak ayının belirli hareketler ve Japonca diyaloglarla yer aldığı, sinematik yaşamdan kesitler sunan bir anime sahnesi için detaylı video istemi.
+
+#### 📝 Prompt
+
+```
+Gün batımı sırasında bir süpermarket kasasında geçen sinematik, yaşamdan kesitler sunan bir anime sahnesi.
+
+Orta: Beyaz bluz ve üzerinde FP1 rozeti bulunan koyu yeşil bir önlük giymiş, sakin ve hafif içe dönük bir ifadeye sahip siyah saçlı yetişkin bir kadın.
+
+Sol: Nazik bir ifadeye sahip, aynı üniformayı ve çiçek aksesuarını taşıyan sarışın bir kadın.
+
+Sağ: Gerçekçi bir ifadeye sahip, aynı üniformayı ve çiçek aksesuarını taşıyan kahverengi saçlı bir kadın.
+
+Ön: Üzerinde FP1 rozeti olan koyu yeşil bir önlük giymiş, hareketsiz duran küçük bir oyuncak ayı.
+
+Tüm karakterler, umudu simgeleyen uyumlu, yumuşak çiçekten taçlar takıyor.
+
+Yumuşak pastel renk paleti, çok ince ve zarif anime çizgi sanatı, düz yumuşak gölgelendirme, minimal render, yumuşak ortam gün batımı ışığı, pencereden görünen gökkuşağı, sıcak ve huzurlu bir atmosfer.
+
+Kamera: Doğal göz hizası, yumuşak 45 derecelik açı.
+
+Kadın konuşurken merkeze (siyah saçlı kadın) doğru çok hafif bir mikro yakınlaştırma.
+
+Diyalog (Sadece Japonca seslendirme):
+
+Merkezdeki siyah saçlı kadın (sakin yetişkin kadın sesi)
+
+"Farkına varmadan, sanki aynı günü tekrar tekrar yaşıyormuşum gibi hissettim."
+
+Oyunculuk: Hafif yüz ifadesi, sadece küçük ve doğal hareketler.
+
+ÖNEMLİ KURAL:
+
+Sadece konuşan karakterin ağzı hareket eder, diğer tüm karakterlerin ağızları tamamen kapalı kalır, konuşmayan karakterler için dudak hareketi yoktur
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0bbc798a9915c866d3a28f145bbbb324/thumbnails/thumbnail.jpg" width="600" alt="Sinematik yaşamdan kesitler sunan anime süpermarket sahnesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3759)**
+
+**Author:** [テカひめ｜FP1級｜賢者に転職できない遊び人Lv.20/すっぴんLv.1](https://x.com/tekka5154) | **Source:** [Link](https://x.com/tekka5154/status/2048588038570422399) | **Published:** Apr 27, 2026
+
+---
+### Kozmik OHM Dönüşümü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> OHM sembolüne yakınlaşan ve onu yıldızlar arasındaki Dünya gezegenine dönüştüren kozmik bir animasyon istemi.
+
+#### 📝 Prompt
+
+```
+OHM sembolüne yakınlaşın ve onu yıldızlar arasında süzülen Dünya gezegenine dönüştürün. Kozmik bir atmosfer yaratın.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5bfeab1c77d4c5122bfc47af540d03f7/thumbnails/thumbnail.jpg" width="600" alt="Kozmik OHM Dönüşümü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3749)**
+
+**Author:** [DW 💉👀🐊](https://x.com/deweller) | **Source:** [Link](https://x.com/deweller/status/2048547442161856696) | **Published:** Apr 26, 2026
+
+---
+### Alev Saçlı Dövüş Sanatları
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 360 derecelik panoramik bir görünüm ve benzersiz alevli saçlara sahip, dar bir zırh içinde dövüş sanatları yapan bir karakter için komut.
+
+#### 📝 Prompt
+
+```
+360 derecelik panoramik bir görünüm ve uçlarında alevler olan siyah saçlarla, dar bir zırh içinde dövüş sanatları yapılıyor
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/debd4ee1754aec05a855bc9630be679d/thumbnails/thumbnail.jpg" width="600" alt="Alev Saçlı Dövüş Sanatları">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3758)**
+
+**Author:** [SS](https://x.com/SteveS_X_) | **Source:** [Link](https://x.com/SteveS_X_/status/2048545391075795008) | **Published:** Apr 26, 2026
+
+---
+### Kozmik Kendinden Geçmiş Dans Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Işık ve gölgenin kozmik birleşiminde kendinden geçmiş bir şekilde dans eden aşkın varlıkları betimleyen sürreal ve vizyoner bir video istemi.
+
+#### 📝 Prompt
+
+```
+hayal gücümüzün ötesinde bir yaşam, ışık ve karanlığın birleştiği ve kendimizi tamamen kendinden geçmiş bir dansa bıraktığımız, sürreal vizyoner sahne, ışıltı ve gölgenin kozmik füzyonu, sonsuz ritme teslim olan aşkın varlıklar
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eac56780b8d299444f7c50e47c2f65fd/thumbnails/thumbnail.jpg" width="600" alt="Kozmik Kendinden Geçmiş Dans Sahnesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3753)**
+
+**Author:** [dude in recovery](https://x.com/dr_chim_gaming) | **Source:** [Link](https://x.com/dr_chim_gaming/status/2048534397457252352) | **Published:** Apr 26, 2026
+
+---
+### Winnie the Pooh ve Mickey ile Orman Yürüyüşü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Winnie the Pooh ve Mickey Mouse'un güneşli bir ormanda yürüdüğü masalsı bir istem.
+
+#### 📝 Prompt
+
+```
+Elimde bir fıçı bal taşıyan Winnie the Pooh ile ormanda yürüyorum. Küçük ayılar yanımızdan geçiyor. Hava güneşli. Mickey Mouse'un elini tutuyorum.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1f22592cf642f97af77c88d1a0d0c01b/thumbnails/thumbnail.jpg" width="600" alt="Winnie the Pooh ve Mickey ile Orman Yürüyüşü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3752)**
+
+**Author:** [Jarosław Justka](https://x.com/jaras70berlin) | **Source:** [Link](https://x.com/jaras70berlin/status/2048517613173494090) | **Published:** Apr 26, 2026
+
+---
+### Görsel Yolculuk Projesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> "Two Weeks Early" adlı görsel bir proje için yavaş hareket, sis ve katmanlamaya odaklanan stilistik bir video istemi.
+
+#### 📝 Prompt
+
+```
+PROJE: "Two Weeks Early" — görsel yolculuk
+
+GENEL AYARLAR:
+Video genelinde hız maksimum 0,04 ile 0,05 arası. Kesinti yok, sert geçişler yok. Sadece katmanlı çözülmeler, sis ve gölgelendirme.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/be728f3c985b1aa9917003b385246eef/thumbnails/thumbnail.jpg" width="600" alt="Görsel Yolculuk Projesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3748)**
+
+**Author:** [@TheCFormula](https://x.com/TheCFormula) | **Source:** [Link](https://x.com/TheCFormula/status/2048502579928125863) | **Published:** Apr 26, 2026
+
+---
+### Kovboy Yıldız Işığı Dansı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yıldızlı bir gökyüzü altında, çitlerle çevrili bir verandada dans eden bir kovboy ve bir hanımefendinin videosunu oluşturur.
+
+#### 📝 Prompt
+
+```
+Kovboy ve hanımefendisinin parlak yıldızların altında verandada yavaş dansı
+Verandanın etrafına çit ekle
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ac60e71b8e1706ba02e2042cd5fb11bc/thumbnails/thumbnail.jpg" width="600" alt="Kovboy Yıldız Işığı Dansı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3751)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2048464740595454031) | **Published:** Apr 26, 2026
+
+---
+### Batman Çöl Yürüyüşü Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Batman'in çöl kumlarında sinematik bir tarzda akıcı bir şekilde yürüdüğü bir video için hareket komutu.
+
+#### 📝 Prompt
+
+```
+Hiçbir şey söylemeden, atmosferde hafif ve düşük bir sesle akıcı bir şekilde yürüyor. Sinematik tarz.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/220be9914027d00d46cdd961f071a438/thumbnails/thumbnail.jpg" width="600" alt="Batman Çöl Yürüyüşü Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3756)**
+
+**Author:** [NOVAROSK 🇦🇶](https://x.com/NOVAROSK) | **Source:** [Link](https://x.com/NOVAROSK/status/2048460239733682450) | **Published:** Apr 26, 2026
+
+---
+### Bambu Ormanındaki Samuray
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kızıl bir ayın altında sisli bir bambu ormanında yürüyen bir samuray için oldukça detaylı, sinematik bir istem.
+
+#### 📝 Prompt
+
+```
+Feodal Japonya'da, karanlık ve savaş görmüş zırhlar giyen yalnız bir samuray, gece vakti yoğun bir bambu ormanında yavaşça yürüyor. Çevre, uzun bambu gövdelerinin arasından ürkütücü bir kırmızı ışık yayan, büyüleyici kızıl bir ay tarafından aydınlatılıyor. İnce bir sis, samuray hareket ettikçe ayaklarının etrafında kıvrılarak zeminde süzülüyor. Katanası alçakta asılı duruyor ve bıçağı kızıl parıltıyı hafifçe yansıtıyor.
+
+Sinematik tarz, karanlık feodal Japonya atmosferi, ultra gerçekçi dokular, dramatik aydınlatma, hacimsel sis, yüksek kontrastlı gölgeler, havada uçuşan parçacıklar.
+
+Bir film sahnesi gibi çekilmiş: düşük açılı takip çekimi, sığ alan derinliği, anamorfik lens, film greni, 8K çözünürlük, karamsar renk derecelendirmesi (derin siyahlar ve kızıl kırmızılar).
+
+Klasik samuray sinemasından esinlenilmiş, yavaş ve temkinli hareketler, yoğun ve sessiz bir ruh hali, güçlü bir gerilim duygusu.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/33fcf6b40e4f8056b610c7c66e69b3b4/thumbnails/thumbnail.jpg" width="600" alt="Bambu Ormanındaki Samuray">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3755)**
+
+**Author:** [NOVAROSK 🇦🇶](https://x.com/NOVAROSK) | **Source:** [Link](https://x.com/NOVAROSK/status/2048424710111736195) | **Published:** Apr 26, 2026
+
+---
+### Yılanvari Hareket (Serpentine Movement) Hareket İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için tasarlanmış, temel bir görsel oluşturulduktan sonra iki aşamalı bir süreçte kullanılan, siberpunk bir orman ortamında yılanın yanal dalgalanma ile hareket etmesini sağlayan bir hareket istemi.
+
+#### 📝 Prompt
+
+```
+Siberpunk bir ormanda, oldukça detaylı, büyük, tehditkar, yarı saydam ve parıldayan bir yılan. Mor ve siyah pullarla kaplı, floresan yeşile dönen son derece detaylı derisi nemli ve parlaktır. Canlı kırmızı ve mora dönen, devasa, floresan sarısı bir uzaylı ibiği vardır. Devasa gözleri mat beyazdır ve parlar; saçaklarının kenarları ve iç spor bulutları hafifçe biyolüminesandır. Güçlü, kıvrılmış gövdesi tetikte bir pozisyondadır. Tuhaf, ışıldayan uzaylı bitkileri ve parıltılı, sim benzeri yosunlarla çevrilidir. Başını yere koyan yılan, yanal dalgalanma (yılanvari hareket) ile ilerler: gövdesi kendini ileri itmek için S şekilleri oluşturur. (Müzik yok)
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/92a918f9acb3c02c5aac205ed8b21916/thumbnails/thumbnail.jpg" width="600" alt="Yılanvari Hareket (Serpentine Movement) Hareket İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3760)**
+
+**Author:** [♥𝓛𝓪𝓭𝔂𝓓𝓑𝓾𝓰0o·.🐞.·♡°·.·° .·°♕](https://x.com/DBug0o) | **Source:** [Link](https://x.com/DBug0o/status/2048419051030876196) | **Published:** Apr 26, 2026
+
+---
 ### Chloe'nin Uzaysal Yarığı
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -208,6 +436,46 @@ Chloe, Moonstone Kalesi'ndeki Uzaysal Yarıktan geçti ve kendini bilinmeyen bir
 **Author:** [LenoyInc](https://x.com/sandroraffaele) | **Source:** [Link](https://x.com/sandroraffaele/status/2048293772405211602) | **Published:** Apr 26, 2026
 
 ---
+### Soyut Teknoloji Reklamı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sıvı cam, kara delikler ve xAI tarzı tasarım öğeleri içeren markalama ve reklamlar oluşturmaya yönelik sofistike bir istem.
+
+#### 📝 Prompt
+
+```
+Sıvı cam arayüz öğeleri, görüntü dizisi kara delikler ve kozmos anlayışı içeren Grok Imagine reklamı, editoryal xAI markalı yazı tipi ve tasarımları, keskin yüksek kaliteli stil reklam, gerçek insanlar
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bd8edfebcbc6c1f20da2192e6f615a86/thumbnails/thumbnail.jpg" width="600" alt="Soyut Teknoloji Reklamı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3750)**
+
+**Author:** [Kiri](https://x.com/Kyrannio) | **Source:** [Link](https://x.com/Kyrannio/status/2048277179822432314) | **Published:** Apr 26, 2026
+
+---
+### Robot Fabrikası Dönüşüm Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir fabrikada yüzlerce robotun çalıştığı ve kaynak yaptığı endüstriyel bir sahneyi gösteren sessiz bir video için komut.
+
+#### 📝 Prompt
+
+```
+lütfen sessiz bir video olsun 
+
+fabrika dönüşümünden daha fazla görüntü göster ve yüzlerce robotun çalıştığını, kaynak yaptığını vb. göster....
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09e04e954509063083bbf046deaf1531/thumbnails/thumbnail.jpg" width="600" alt="Robot Fabrikası Dönüşüm Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3754)**
+
+**Author:** [mary](https://x.com/minca2007) | **Source:** [Link](https://x.com/minca2007/status/2048259730859048996) | **Published:** Apr 26, 2026
+
+---
 ### Resident Evil Tarzı Dudak Senkronizasyonlu Ajan
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -220,11 +488,46 @@ Chloe, Moonstone Kalesi'ndeki Uzaysal Yarıktan geçti ve kendini bilinmeyen bir
 Bu görseldeki kadını doğru bir şekilde kullanın. Havalı ve tehlikeli, Resident Evil tarzı bir kadın ajan; soğuk, ifadesiz, kesinlikle gülümsemiyor. Kusursuz dudak senkronizasyonuna sahip, kayıtsız bir İngilizce kendini tanıtma konuşması. Diyalog: "My name is NERA. Bio-synthetic unit. I don't feel fear. I don't feel pain. Only protocol." Hafif baş eğimi ve keskin bakışlar; siyah deri ve eldivenlerin dokusunu vurgulayın. Güçlü kırmızı neon yansıması, 11 saniye, sinematik kalite, Resident Evil havası, duygusuz.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/df0785a1a3302e968e34e9596b38f5f9/thumbnails/thumbnail.jpg" width="600" alt="Resident Evil Tarzı Dudak Senkronizasyonlu Ajan">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bd66a6c8417cee15b603d4727272f485/thumbnails/thumbnail.jpg" width="600" alt="Resident Evil Tarzı Dudak Senkronizasyonlu Ajan">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3714)**
 
 **Author:** [rui｜∫varts (シュバルツ)](https://x.com/varts_works) | **Source:** [Link](https://x.com/varts_works/status/2048258487428513937) | **Published:** Apr 26, 2026
+
+---
+### Konuşan Oyuncak Ayılı Anime Süpermarket Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Karakterlerin uyumlu çiçek taçları taktığı ve küçük bir oyuncak ayının nazikçe konuştuğu, huzurlu bir süpermarket kasa sahnesini içeren sinematik anime tarzı video istemi.
+
+#### 📝 Prompt
+
+```
+Süpermarket kasasında, yumuşak gün ışığında geçen sinematik bir yaşamdan kesit anime sahnesi.
+Orta: Beyaz bluz ve FP1 rozetli koyu yeşil önlük giyen, nazik ve hafif rahatlamış bir ifadeye sahip siyah saçlı yetişkin bir kadın.
+Sol: Sakin bir ifadeye sahip, aynı üniforma ve çiçek aksesuarını taşıyan sarışın bir kadın.
+Sağ: Nötr bir ifadeye sahip, aynı üniforma ve çiçek aksesuarını taşıyan kahverengi saçlı bir kadın.
+Ön: FP1 rozetli koyu yeşil bir önlük giymiş, hafifçe yukarı bakan küçük bir oyuncak ayı.
+Tüm karakterler umudu simgeleyen uyumlu, yumuşak çiçek taçları takıyor.
+Yumuşak pastel renk paleti, çok ince ve zarif anime çizimleri, düz yumuşak gölgelendirme, minimal render, yumuşak ortam aydınlatması, sıcak ve huzurlu bir atmosfer.
+Arka plan: Hafifçe bulanıklaştırılmış süpermarket içi.
+Kamera: Doğal göz hizası, yumuşak 45 derecelik açı, yakınlaştırma yok.
+Diyalog (Sadece Japonca seslendirme):
+Öndeki küçük oyuncak ayı (genç bir kızın sesi, yumuşak ve nazik)
+"It just means you're working that hard."
+Oyunculuk: Minimal doğal hareket. Oyuncak ayı nazikçe konuşur.
+ÖNEMLİ KURAL:
+Sadece oyuncak ayının ağzı hareket eder, diğer tüm karakterlerin ağızları tamamen kapalı kalmalıdır, konuşmayan karakterler için dudak hareketi yoktur.
+Özellikle merkezdeki siyah saçlı kadının ağzı tamamen kapalı kalmalıdır.
+Bu sahnede başka hiçbir karakter konuşmamaktadır.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/990a63263a5bd75c014f656be894ba0f/thumbnails/thumbnail.jpg" width="600" alt="Konuşan Oyuncak Ayılı Anime Süpermarket Sahnesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3761)**
+
+**Author:** [テカひめ｜FP1級｜賢者に転職できない遊び人Lv.20/すっぴんLv.1](https://x.com/tekka5154) | **Source:** [Link](https://x.com/tekka5154/status/2048241445711339729) | **Published:** Apr 26, 2026
 
 ---
 ### Sürreal Fütüristik Labirent Müzik Sahnesi
@@ -239,7 +542,7 @@ Bu görseldeki kadını doğru bir şekilde kullanın. Havalı ve tehlikeli, Res
 Piyano, yıldızlar, çiçekler ve matematiksel desenlerin sıcak bir rezonans içinde nazikçe iç içe geçtiği, fütüristik labirent benzeri bir şehrin içindeki rüya gibi bir buluşma noktasında süzülen, yumuşak ışıkla yıkanan, yaşayan sürreal bir sahne. Müzik, rezonanstır.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/63bb4b996087fe4d0f46aace2dd8a5f2/thumbnails/thumbnail.jpg" width="600" alt="Sürreal Fütüristik Labirent Müzik Sahnesi">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ca937a957dc0d29aac0a700744917671/thumbnails/thumbnail.jpg" width="600" alt="Sürreal Fütüristik Labirent Müzik Sahnesi">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3715)**
 
@@ -263,6 +566,25 @@ Fantastik bir 3D illüstrasyon, gözleri kapalı, yüzü hafifçe aşağıya ve 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3716)**
 
 **Author:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **Source:** [Link](https://x.com/iamhappy2026/status/2048208298386632723) | **Published:** Apr 26, 2026
+
+---
+### Karmaşık Fantastik Kadın Profili ve Şehir Manzarası
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Girdap gibi altın saçlara ve canlı bir şehir manzarası motifine sahip bir kadının yer aldığı fantastik video için oldukça detaylı bir istem.
+
+#### 📝 Prompt
+
+```
+Karmaşık bir fantastik sanat eseri, gözleri kapalı bir kadın profilini; altın rengi, girdaplı saç tasarımı ve altın, mavi ve turuncu yaprak motifleriyle çevrili bir şekilde sergiliyor. Makyajında altın rengi far, uzun koyu kirpikler ve kırmızı dudaklar dikkat çekiyor. Üzerinde belirgin, mavi desenli bir diske sahip dokulu altın bir giysi bulunuyor. Çenesinin altında, benzersiz çatılara ve kulelere sahip renkli binalardan oluşan yoğun bir düzenleme, karanlık bir arka plana karşı bir şehir manzarası oluşturuyor.
+```
+
+<img src="https://cms-assets.youmind.com/media/1777277643043_e364t6_HGyoF5dbQAAtI4G.jpg" width="600" alt="Karmaşık Fantastik Kadın Profili ve Şehir Manzarası">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3757)**
+
+**Author:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **Source:** [Link](https://x.com/iamhappy2026/status/2048196860293091421) | **Published:** Apr 26, 2026
 
 ---
 ### Dekoratif 3D Portre
@@ -2059,294 +2381,6 @@ VROOM VROOM başlasın, en yakın arkadaş olan kadınlar hayali spor arabaları
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2046511204722467089) | **Published:** Apr 21, 2026
 
 ---
-### Uzaylı ve iş insanı karmaşık sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir uzaylı, bir iş insanı ve bir uzay gemisini içeren karmaşık, çoklu görsel referanslı bir istem.
-
-#### 📝 Prompt
-
-```
-1. Uzaylı karakteri 2. İş insanı karakteri 3. Arka planda ev (Google Haritalar sokak görünümünden alınmıştır), @image2'yi karanlık ve yağmurlu bir güne dönüştür. Uzaylı @image1, devasa bir uzay gemisi tepeden uçarken beyaz eve doğru yürür. Adam @image3 uzaylıyı görür ve histerik bir şekilde kaçar
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/61a01bde09662cbe1739ad6deae15bbb/thumbnails/thumbnail.jpg" width="600" alt="Uzaylı ve iş insanı karmaşık sahnesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3483)**
-
-**Author:** [M I K E • マイケル・リックス](https://x.com/michaelricks) | **Source:** [Link](https://x.com/michaelricks/status/2046444567126216730) | **Published:** Apr 21, 2026
-
----
-### Missouri Nehri Üzerinde Uzay Gemisi Savaşı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Yeni referans özelliğini kullanarak belirli bir nehir manzarası üzerinde sinematik bir uzay gemisi savaş sahnesi oluşturan bir grok-imagine video üretim istemi.
-
-#### 📝 Prompt
-
-```
-Güney Dakota ve Nebraska sınırındaki Lazy River Acres'te, Missouri Nehri üzerinde uzay gemisi savaşı.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/73e94f590f28e5419f22b09d9c87f470/thumbnails/thumbnail.jpg" width="600" alt="Missouri Nehri Üzerinde Uzay Gemisi Savaşı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3437)**
-
-**Author:** [Hoff 🌙](https://x.com/HoffPlanet) | **Source:** [Link](https://x.com/HoffPlanet/status/2046440705908679139) | **Published:** Apr 21, 2026
-
----
-### Ay Araştırması Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Belirli elementleri tarayan, alçak irtifa ay üzeri uçuşuna yönelik teknik bir video istemi.
-
-#### 📝 Prompt
-
-```
-{Nano Zeka Hidrat Metan }Koruma Kalkanı} ^^*^*^ay üzerinde 3 metre uçuş rotasında kayaları tarıyor....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/024a945b482ddaab8d2f1fbb22bec78a/thumbnails/thumbnail.jpg" width="600" alt="Ay Araştırması Video İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3496)**
-
-**Author:** [Notzucow](https://x.com/Notzucow69) | **Source:** [Link](https://x.com/Notzucow69/status/2046423903799525412) | **Published:** Apr 21, 2026
-
----
-### Endüstriyel Mecha Savaşı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Tozlu bir çorak arazide insan boyutundaki savaşçılarla dövüşen devasa bir tavşan-mecha için kapsamlı bir komut.
-
-#### 📝 Prompt
-
-```
-Alacakaranlıkta distopik bir endüstriyel çorak arazide sinematik destansı savaş, havada yoğun duman ve toz. Parlayan kırmızı-turuncu gözlere, uzun mekanik tavşan kulaklarına, ağır zırh plakalarına ve güçlü uzuvlara sahip 12 metre boyunda devasa beyaz-siyah bir mecha tavşan robot, kaskları ve parlayan vizörleri olan şık, fütüristik beyaz-siyah vücut kıyafetleri içindeki iki çevik insan boyutundaki tavşan kulaklı savaşçıyla şiddetli bir şekilde savaşıyor.\n\nDinamik aksiyon sekansı:\n- Bir tavşan savaşçı havaya sıçrayarak dev robotun kafasına ve göğsüne güçlü tekmeler ve enerji yumrukları indiriyor, parlak turuncu kıvılcımlar ve patlamalar yaratıyor.\n- İkinci tavşan savaşçı alçakta kalarak kayıyor ve robotun bacaklarına ve ayaklarına alevli enerji patlamaları ve tekmelerle saldırıyor, beton zeminde ateş ve erimiş kıvılcımlara neden oluyor.\n- Dev tavşan robot devasa kollarını sallıyor, yere vurarak şok dalgaları ve enkaz yaratıyor, daha küçük savaşçıları yakalayıp ezmeye çalışıyor, gözleri her darbede parlak bir şekilde parlıyor.\n\nYoğun kıvılcımlar, uçuşan enkazlar, yer patlamaları, yükselen yoğun duman, metalik yüzeylere yansıyan dramatik turuncu ateş parıltısı, sinematik aydınlatma, destansı geniş açılı çekimler ve dinamik düşük açılı kamera çalışması, ultra gerçekçi CGI, fotogerçekçi detaylar, dramatik atmosfer, yüksek kontrast, 8K, şaheser, en iyi kalite, yüksek detaylı, hızlı hareketlerde hareket bulanıklığı.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/193907cf7036890af32bfba00dadc244/thumbnails/thumbnail.jpg" width="600" alt="Endüstriyel Mecha Savaşı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3484)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2046389815365480463) | **Published:** Apr 21, 2026
-
----
-### Balkondaki Kadın Esintili Sahne
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Akşam esintisiyle hareketlenen, balkondaki bir kadını betimleyen video istemi.
-
-#### 📝 Prompt
-
-```
-Güzel kadın, renkli çiçekler ve fuşyalarla dolu asılı sepetlerle süslü güneşli bir balkonda dururken, hafif akşam esintisi elbisesini ve şalını dalgalandırıyor
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7e43143acd971edba9045b41ac98885e/thumbnails/thumbnail.jpg" width="600" alt="Balkondaki Kadın Esintili Sahne">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3392)**
-
-**Author:** [Carry Robey](https://x.com/carry_robey) | **Source:** [Link](https://x.com/carry_robey/status/2046011588130509077) | **Published:** Apr 19, 2026
-
----
-### Büyülü Ormanda Puma Sıçrayışı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sisli ve büyülü bir orman ortamında, parlayan kelebeklerin üzerinden atlayan bir pumayı betimleyen açıklayıcı bir video istemi.
-
-#### 📝 Prompt
-
-```
-Büyülü bir ormanın sisli kalbinde, zarif bir puma parlayan kelebeklerin üzerinden süzülerek atlıyor; güçlü silüeti fısıldayan gölgelerin arasında beliriyor. Hareket halindeki saf vahşi büyü.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b97c2d564439c33cd89fe909d9443e2e/thumbnails/thumbnail.jpg" width="600" alt="Büyülü Ormanda Puma Sıçrayışı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3405)**
-
-**Author:** [A Dogs Life](https://x.com/K9Dirk) | **Source:** [Link](https://x.com/K9Dirk/status/2046007076741329167) | **Published:** Apr 19, 2026
-
----
-### Hipergerçekçi Kozmik Sahne
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Merkezi bir figür ve ruhani formlar içeren mistik ve göksel bir gece gökyüzü sahnesi için bir istem.
-
-#### 📝 Prompt
-
-```
-Yıldızlı bir gece gökyüzünde merkezi mistik bir figür ve ruhani formların yer aldığı hipergerçekçi bir kozmik sahne.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/57add58836a492b9c5ef56ddb9cec2f2/thumbnails/thumbnail.jpg" width="600" alt="Hipergerçekçi Kozmik Sahne">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3389)**
-
-**Author:** [Kadriye G.](https://x.com/kadriyegms11) | **Source:** [Link](https://x.com/kadriyegms11/status/2046002768310145120) | **Published:** Apr 19, 2026
-
----
-### Büyülü orman manzarası video istemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gür ağaçlar, yosunlar ve ağaç kütükleriyle dolu, huzurlu ve büyüleyici bir orman videosu oluşturmak için bir istem.
-
-#### 📝 Prompt
-
-```
-gür yapraklı ağaçlar ve bazı çiçek açmış ağaçlar, yosunlar ve bir ağaç kütüğü içeren büyüleyici orman manzarası....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fe0adc1c9b923acfc6c5c82e16180320/thumbnails/thumbnail.jpg" width="600" alt="Büyülü orman manzarası video istemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3393)**
-
-**Author:** [The Walking Talking Glitch](https://x.com/Anomaly_Glitch) | **Source:** [Link](https://x.com/Anomaly_Glitch/status/2045987765787988150) | **Published:** Apr 19, 2026
-
----
-### Dalgalardan yükselen Su Elementali
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Okyanustan şekillenen bir su elementi yaratığını ve özel kamera hareketlerini betimleyen epik bir VFX istemi.
-
-#### 📝 Prompt
-
-```
-Fırtınalı bir kıyıda, çarpan bir dalgadan yükselen devasa bir su elementali. Sahne, plaja doğru kıvrılan büyük bir dalgayla başlıyor. Kamera Hareketi: Suyun üzerinden alçak bir takip çekimiyle başlar, ardından yukarı doğru kavis çizerek spreyden oluşan yaratığı ortaya çıkarır. Okyanusun üzerinde yükselen figürün tamamını gösteren dramatik bir geri çekilmeyle sona erer. Işıklandırma: Güçlü kenar ışıklandırmasına sahip kapalı hava, su spreyi üzerinde parıltılar, uzaktaki şimşeklerden gelen flaşlar. Stil: Epik ölçekli VFX, fotorealistik okyanus simülasyonu, fırtına efektleri, akışkanlar dinamiği odaklı hareket.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/61d1ff285bdbcf82b6d451834944c3ea/thumbnails/thumbnail.jpg" width="600" alt="Dalgalardan yükselen Su Elementali">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3387)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2045966719227662413) | **Published:** Apr 19, 2026
-
----
-### Boru dalgasında sörfçü ve yunuslar
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Yunusların sahneye dahil olduğu bir sörf videosu için dinamik bir aksiyon istemi.
-
-#### 📝 Prompt
-
-```
-Dalganın büyük bir boru dalgasına dönüşmesini ve sörfçünün yunuslar sörfe katılırken borudan mükemmel bir şekilde çıkış yapmasını sağlayın ....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/946fe0651cb449f0bcf3b1fa97026355/thumbnails/thumbnail.jpg" width="600" alt="Boru dalgasında sörfçü ve yunuslar">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3388)**
-
-**Author:** [mike lecavalier](https://x.com/anthracnose) | **Source:** [Link](https://x.com/anthracnose/status/2045956959484916043) | **Published:** Apr 19, 2026
-
----
-### Roket fırlatma video istemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine'in çift motor konseptini Mars'a giden güçlü bir rokete dönüştürmesi için bir istem.
-
-#### 📝 Prompt
-
-```
-Önde ve arkada 2 motor 
-
-Bu konsepti al ve onu Mars'a hızla ulaşabilecek kadar güçlü, devasa bir rokete dönüştür
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b5fb6f3b993acc71a9f37e01d635980d/thumbnails/thumbnail.jpg" width="600" alt="Roket fırlatma video istemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3404)**
-
-**Author:** [Jessica Longo](https://x.com/Jessica39627125) | **Source:** [Link](https://x.com/Jessica39627125/status/2045950526085317040) | **Published:** Apr 19, 2026
-
----
-### Sinematik bilim kurgu hastane video sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir hastanede geçen, bir doktor ve arka planda beliren uzaylı figürlerini içeren gerilim dolu bir sahne için oldukça detaylı video istemi.
-
-#### 📝 Prompt
-
-```
-Ultra gerçekçi sinematik video, 8K çözünürlük, hafif bilim kurgu parıltılı soğuk hastane aydınlatması, 35mm lens, yüksek kontrastlı gölgeler, sürükleyici ses tasarımı (düşük uğultu, uzak yankılar, hafif uzaylı tonları). Sahne Dökümü 0:00 – 0:04 Gece sessiz bir hastane koridorunun geniş açılı çekimi. Işıklar hafifçe titriyor. Ortam boş ve gergin hissettiriyor. Bir doktor, elinde bir dosya ile sakin bir şekilde koridorda yürüyor ve doğal bir yönde ilerlerken dosyayı inceliyor. 0:04 – 0:08 Önden orta ölçekli çekim. Doktor odaklanmış ve profesyonel bir şekilde yürümeye devam ediyor. Arka planda (sadece doktorun belirgin şekilde arkasında), havada ısı dalgaları gibi hafif bir bozulma beliriyor ve yavaşça belirsiz bir insansı şekle dönüşüyor. 0:08 – 0:12 Arka açı çekimine geçiş. Artık uzaylı varlığı daha belirgin hale geliyor: 2 uzun, ince, yarı saydam uzaylı figürü doktorun arkasındaki gölgelerden çıkıyor. Yavaş ve sessizce hareket ederek mesafeyi koruyorlar. Önemli: Doktora dokunmuyor, onu kovalamıyor veya önünden geçmiyorlar. 0:12 – 0:15 Doktorun yüzüne yakın çekim; hafifçe duraksıyor, sıra dışı bir şey hissediyor. Başını tam olarak değil, yarıya kadar hafifçe çeviriyor. Tekrar geniş açıya geçiş: Uzaylılar artık arka planda net bir şekilde görünüyor, hareketsiz duruyor ve izliyorlar. Bitiş karesi: Ön planda doktor, habersiz ama huzursuz. Uzaylılar arkada kalıyor, sessiz ve gözlemci. Kritik Talimat (Hata Önleme) Doktor her zaman normal bir şekilde ileri yürür (geriye hareket yok) Uzaylılar sadece doktorun arkasında belirir, asla önünde değil Fiziksel etkileşim yok (saldırı yok, temas yok) Hareketi yavaş, kontrollü ve gerçekçi tutun Hafif bilim kurgu müdahalesiyle hastane gerçekçiliğini koruyun (aşırı efektlerden kaçının) Ruh Hali / His Ürkütücü, gerilimli, aksiyondan ziyade sessizlik, mesafe ve varlık hissiyle inşa edilmiş kontrollü bilim kurgu gerilimi.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8551b7c4eef017a366beaff17263248f/thumbnails/thumbnail.jpg" width="600" alt="Sinematik bilim kurgu hastane video sahnesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3403)**
-
-**Author:** [Ai Doctor](https://x.com/DoctorAmna11) | **Source:** [Link](https://x.com/DoctorAmna11/status/2045930553627848795) | **Published:** Apr 19, 2026
-
----
-### Sinematik Otopark Gerilimi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir otoparkta geçen gerilim dolu bir sahne için oldukça detaylı, tek plan çekim odaklı bir komut.
-
-#### 📝 Prompt
-
-```
-Ultra gerçekçi sinematik video, 8K çözünürlük, karanlık ve karamsar aydınlatma, yüksek kontrastlı gölgeler, 35mm lens, hafif gerilim için elde çekim stabilize kamera, gerçekçi ses tasarımı (uzak yankılar, ayak sesleri, metalik ambiyans).
-Komut (Tek Sürekli Çerçeve – Kesintisiz)
-Gece vakti loş bir yeraltı otoparkı. Titreyen floresan ışıklar, beton sütunlar üzerinde düzensiz gölgeler oluşturuyor. Atmosfer gergin ve sessiz.
-Kamera, tek bir sürekli hareketle yavaşça geriye doğru kayarak, kendisine doğru temkinli bir şekilde yürüyen bir adama odaklanıyor. Adam tetikte ve hafif endişeli görünüyor, sanki biri onu izliyormuş gibi etrafına bakınıyor.
-O yürüdükçe, üzerindeki ışıklar sadece arkasında sırayla yanıp sönmeye başlıyor (önemli: ışıklar önünde değil, geldiği yöne doğru kademeli olarak sönüyor).
-Sütunların arasında arka planda belirsiz bir gölge beliriyor; her zaman adamın arkasında kalıyor ve asla önüne geçmiyor. Adam bir şey hissediyor, bir an duraksıyor ve hafifçe arkasına dönüyor ancak net bir şey göremiyor.
-Kamera, mesafeyi koruyarak sorunsuz bir şekilde geriye doğru hareket etmeye devam ediyor. Hafif ayak sesleri yankılanıyor ancak bu sesler adamın adımlarıyla uyuşmuyor.
-Son saniyeler:
-Arkasında son bir ışık daha sönüyor ve otoparkın bir kısmı karanlığa gömülüyor. Çerçeve sabitlendiğinde, arka planda, gölgelerin içinde kısmen gizlenmiş, hareketsiz duran ve izleyen belirsiz bir insan silüeti görülüyor.
-Önemli Yönerge (Hatalardan kaçınmak için)
-Kamera tek bir sürekli geri takip çekimi olarak kalmalıdır (kesinti yok).
-Gizemli varlık her zaman adamın arkasında kalmalı, asla önüne çıkmamalıdır.
-Işıklar net bir sıralı düzenle yanıp sönmelidir (arkadan daha derin karanlığa doğru).
-Ani korku öğeleri (jump scare) yok; gerilim hareket, ses ve gölgelerle inşa ediliyor.
-Adam asla koşmuyor; temkinli ve kontrollü kalıyor.
-Mod / His
-Gerilimli, tansiyonu yüksek, gizemli, psikolojik huzursuzluk içeren ağır tempolu bir gerilim.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b5afae35349a99356d8f93c3219665d9/thumbnails/thumbnail.jpg" width="600" alt="Sinematik Otopark Gerilimi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3396)**
-
-**Author:** [Ai Doctor](https://x.com/DoctorAmna11) | **Source:** [Link](https://x.com/DoctorAmna11/status/2045928596381057329) | **Published:** Apr 19, 2026
-
----
-### Jane Austen Dönüşümü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Pride and Prejudice evlilik teklifi sahnesine dayalı, ayrıntılı bir video-video stil dönüşümü istemi.
-
-#### 📝 Prompt
-
-```
-SAHNE: Sisli Sabah İkinci Teklif
-
-@grok @imagine ile video oluştururken bu istemle birlikte fotoğrafınızı kullanın.
-
-Yüklenen fotoğrafı tam yüz ve vücut referansı olarak kullanın. Kişiyi 2005 yapımı Pride and Prejudice filmindeki karaktere dönüştürün. Yüklenen kişi kadınsa, onu Elizabeth Bennet'a (Keira Knightley benzerliği) dönüştürün. Yüklenen kişi erkekse, onu Mr. Darcy'ye (yaka kısmı açık beyaz gömleğiyle Matthew Macfadyen benzerliği) dönüştürün. Gün doğumunda sisli bir İngiliz kırında, yumuşak altın rengi arkadan aydınlatma ve sis eşliğinde; karakter çok yakın duruyor (çift olarak gösteriliyorsa alınları nazikçe birbirine değiyor veya duygusal bir pozda), yoğun göz teması, samimi bir şekilde yerleştirilmiş eller, çiy damlalarıyla kaplı çimenler. Rüya gibi ruhani bir atmosfer, yumuşak dağılmış ışık, son derece gerçekçi, tıpkı filmin ikinci teklif sahnesindeki gibi sinematik bir renk paleti.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee4ed6333adf3191d0452df83f9673bb/thumbnails/thumbnail.jpg" width="600" alt="Jane Austen Dönüşümü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3397)**
-
-**Author:** [Lala](https://x.com/keepgoingAnnie) | **Source:** [Link](https://x.com/keepgoingAnnie/status/2045920296633319881) | **Published:** Apr 19, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2408,6 +2442,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-27T06:34:59.202Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-27T10:25:22.041Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **1244** |
+| 📝 プロンプト総数 | **1258** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-04-27** |
 
@@ -189,6 +189,234 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### 映画のような日常系アニメのスーパーマーケットのシーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 夕暮れ時のスーパーマーケットを舞台にした、映画のような日常系アニメシーンのための詳細なビデオプロンプト。3 人の女性とテディベアが登場し、特定の動作と日本語のセリフが含まれます。
+
+#### 📝 プロンプト
+
+```
+夕暮れ時のスーパーマーケットのレジを舞台にした、映画のような日常系アニメシーン。
+
+中央：白いブラウスに深緑色のエプロンを着用し、FP1 のバッジを付けた黒髪の成人女性。穏やかで少し内省的な表情。
+
+左：優しい表情の金髪の女性。同じ制服と花のアクセサリーを着用。
+
+右：リアルな表情の茶髪の女性。同じ制服と花のアクセサリーを着用。
+
+手前：深緑色のエプロンに FP1 のバッジを付けた小さなテディベアが静止している。
+
+すべてのキャラクターは、希望を象徴するお揃いの柔らかな花冠を身につけている。
+
+ソフトなパステルカラーのパレット、非常に繊細で緻密なアニメの線画、フラットで柔らかな陰影、最小限のレンダリング、夕暮れ時の柔らかな環境光、窓から見える虹、温かく穏やかな雰囲気。
+
+カメラ：自然なアイレベル、柔らかな 45 度の角度。
+
+中央の黒髪の女性が話す間、彼女に向かって非常にわずかなマイクロズームを行う。
+
+セリフ（日本語音声のみ）：
+
+中央の黒髪の女性（落ち着いた大人の女性の声）
+
+「いつの間にか、同じ日をずっと繰り返しているような気がして……」
+
+演技：繊細な表情、自然で小さな動きのみ。
+
+重要なルール：
+
+話しているキャラクターのみが口を動かし、他のすべてのキャラクターは口を完全に閉じたままにすること。話していないキャラクターのリップシンクは禁止。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0bbc798a9915c866d3a28f145bbbb324/thumbnails/thumbnail.jpg" width="600" alt="映画のような日常系アニメのスーパーマーケットのシーン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3759)**
+
+**作者:** [テカひめ｜FP1級｜賢者に転職できない遊び人Lv.20/すっぴんLv.1](https://x.com/tekka5154) | **ソース:** [Link](https://x.com/tekka5154/status/2048588038570422399) | **公開日:** Apr 27, 2026
+
+---
+### Cosmic OHM Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> OHM シンボルにズームインし、星々の間に浮かぶ地球へと変容させる宇宙的なアニメーションプロンプトです。
+
+#### 📝 プロンプト
+
+```
+OHM シンボルにズームインし、星々の間に浮かぶ地球へと変容させてください。宇宙的な雰囲気に仕上げてください。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5bfeab1c77d4c5122bfc47af540d03f7/thumbnails/thumbnail.jpg" width="600" alt="Cosmic OHM Transformation">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3749)**
+
+**作者:** [DW 💉👀🐊](https://x.com/deweller) | **ソース:** [Link](https://x.com/deweller/status/2048547442161856696) | **公開日:** Apr 26, 2026
+
+---
+### 炎の髪を持つ武術家
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> タイトなアーマーを身にまとい、360 度のパノラマビューの中で武術を披露する、炎のような髪を持つキャラクターのプロンプトです。
+
+#### 📝 プロンプト
+
+```
+タイトなアーマーを身にまとい、360 度のパノラマビューの中で武術を披露する、毛先に炎をまとった黒髪のキャラクター
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/debd4ee1754aec05a855bc9630be679d/thumbnails/thumbnail.jpg" width="600" alt="炎の髪を持つ武術家">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3758)**
+
+**作者:** [SS](https://x.com/SteveS_X_) | **ソース:** [Link](https://x.com/SteveS_X_/status/2048545391075795008) | **公開日:** Apr 26, 2026
+
+---
+### コズミック・エクスタティック・ダンス・シーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 光と影が融合する宇宙空間で、超越的な存在が恍惚としたダンスを繰り広げる、シュールで幻想的なビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+想像を絶する生命の営み、光と闇が一つに溶け合い、恍惚としたダンスに完全に身を委ねる様子、シュールで幻想的な光景、輝きと影のコズミック・フュージョン、無限のリズムに身を捧げる超越的な存在たち
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eac56780b8d299444f7c50e47c2f65fd/thumbnails/thumbnail.jpg" width="600" alt="コズミック・エクスタティック・ダンス・シーン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3753)**
+
+**作者:** [dude in recovery](https://x.com/dr_chim_gaming) | **ソース:** [Link](https://x.com/dr_chim_gaming/status/2048534397457252352) | **公開日:** Apr 26, 2026
+
+---
+### プーさんとミッキーとの森の散歩
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> くまのプーさんとミッキーマウスが日差しの降り注ぐ森を歩く、幻想的なプロンプトです。
+
+#### 📝 プロンプト
+
+```
+私はハチミツの樽を抱えたくまのプーさんと一緒に森を歩いています。小さなクマたちが私たちの横を歩いています。天気は晴れです。私はミッキーマウスと手をつないでいます。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1f22592cf642f97af77c88d1a0d0c01b/thumbnails/thumbnail.jpg" width="600" alt="プーさんとミッキーとの森の散歩">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3752)**
+
+**作者:** [Jarosław Justka](https://x.com/jaras70berlin) | **ソース:** [Link](https://x.com/jaras70berlin/status/2048517613173494090) | **公開日:** Apr 26, 2026
+
+---
+### Visual Journey Project
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 「Two Weeks Early」と題されたビジュアルプロジェクトに向けた、スローな動き、霧、レイヤー表現に焦点を当てたスタイリッシュなビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+プロジェクト名： 「Two Weeks Early」 — ビジュアルジャーニー
+
+グローバル設定：
+ビデオ全体の速度は最大 0.04 ～ 0.05 に設定。カットや急な切り替えは禁止。レイヤーによるディゾルブ、霧、陰影のみを使用すること。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/be728f3c985b1aa9917003b385246eef/thumbnails/thumbnail.jpg" width="600" alt="Visual Journey Project">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3748)**
+
+**作者:** [@TheCFormula](https://x.com/TheCFormula) | **ソース:** [Link](https://x.com/TheCFormula/status/2048502579928125863) | **公開日:** Apr 26, 2026
+
+---
+### カウボーイの星空ダンス
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 星空の下、柵で囲まれたパティオでカウボーイと女性がダンスをしている動画を生成します。
+
+#### 📝 プロンプト
+
+```
+輝く星空の下、パティオでスローダンスをするカウボーイと女性
+パティオの周囲に柵を追加
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ac60e71b8e1706ba02e2042cd5fb11bc/thumbnails/thumbnail.jpg" width="600" alt="カウボーイの星空ダンス">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3751)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2048464740595454031) | **公開日:** Apr 26, 2026
+
+---
+### バットマンの砂漠ウォーキングアニメーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> バットマンが砂漠を滑らかに歩く様子をシネマティックなスタイルで表現するための動画用モーションプロンプト。
+
+#### 📝 プロンプト
+
+```
+彼は何も語らず、滑らかに歩いている。周囲には柔らかく低い環境音が響く。シネマティックなスタイル。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/220be9914027d00d46cdd961f071a438/thumbnails/thumbnail.jpg" width="600" alt="バットマンの砂漠ウォーキングアニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3756)**
+
+**作者:** [NOVAROSK 🇦🇶](https://x.com/NOVAROSK) | **ソース:** [Link](https://x.com/NOVAROSK/status/2048460239733682450) | **公開日:** Apr 26, 2026
+
+---
+### 竹林の侍
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 紅い月の下、霧深い竹林を歩く侍を描いた、非常に詳細なシネマティック・プロンプト。
+
+#### 📝 プロンプト
+
+```
+封建時代の日本、戦いで使い込まれた黒い鎧を纏った一人の侍が、夜の深い竹林をゆっくりと歩いている。周囲は不気味な紅い月に照らされ、高く伸びる竹の隙間から怪しげな赤い光が差し込んでいる。足元には薄い霧が漂い、侍が動くたびにその足にまとわりつく。腰に差した刀の刃には、かすかに赤い光が反射している。
+
+シネマティック・スタイル、ダークな封建時代の日本の雰囲気、超リアルな質感、ドラマチックなライティング、ボリューム感のある霧、コントラストの強い影、空中に舞う粒子。
+
+映画のワンシーンのような撮影：ローアングルのトラッキングショット、浅い被写界深度、アナモルフィックレンズ、フィルムグレイン、8K 解像度、ムードのあるカラーグレーディング（深い黒と紅い赤）。
+
+古典的な侍映画にインスパイアされた、ゆっくりとした慎重な動き、強烈で静寂なムード、張り詰めた緊張感。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/33fcf6b40e4f8056b610c7c66e69b3b4/thumbnails/thumbnail.jpg" width="600" alt="竹林の侍">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3755)**
+
+**作者:** [NOVAROSK 🇦🇶](https://x.com/NOVAROSK) | **ソース:** [Link](https://x.com/NOVAROSK/status/2048424710111736195) | **公開日:** Apr 26, 2026
+
+---
+### 蛇行運動のモーションプロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> サイバーパンクなジャングル環境で蛇が横方向にうねりながら移動する様子をアニメーション化するために設計された、Grok Imagine 用のモーションプロンプト。ベース画像を生成した後の 2 ステッププロセスで使用します。
+
+#### 📝 プロンプト
+
+```
+サイバーパンクなジャングルに潜む、巨大で威圧的な半透明の光り輝く蛇。非常に精巧な皮膚は、紫と黒の鱗で覆われ、蛍光グリーンへとグラデーションを描き、湿り気を帯びて光沢を放っている。頭部には、蛍光イエローから鮮やかな赤と紫へと変化する巨大なエイリアンのようなトサカがある。マットホワイトの巨大な目は発光しており、フリンジの縁や体内の胞子雲はかすかに生物発光している。力強く鎌首をもたげた警戒態勢。周囲には奇妙な発光植物や、きらめく苔が群生している。頭を地面につけ、横方向のうねり（蛇行運動）によって移動する。体は S 字型を描きながら前進する。（音楽なし）
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/92a918f9acb3c02c5aac205ed8b21916/thumbnails/thumbnail.jpg" width="600" alt="蛇行運動のモーションプロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3760)**
+
+**作者:** [♥𝓛𝓪𝓭𝔂𝓓𝓑𝓾𝓰0o·.🐞.·♡°·.·° .·°♕](https://x.com/DBug0o) | **ソース:** [Link](https://x.com/DBug0o/status/2048419051030876196) | **公開日:** Apr 26, 2026
+
+---
 ### Chloe's Spatial Rift
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -208,6 +436,46 @@ Moonstone Castle の空間の裂け目を通り抜けた Chloe は、見知ら�
 **作者:** [LenoyInc](https://x.com/sandroraffaele) | **ソース:** [Link](https://x.com/sandroraffaele/status/2048293772405211602) | **公開日:** Apr 26, 2026
 
 ---
+### 抽象的なテック広告
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> リキッドガラス、ブラックホール、xAI スタイルのデザイン要素を取り入れた、ブランディングや広告制作のための洗練されたプロンプト。
+
+#### 📝 プロンプト
+
+```
+Grok Imagine の広告。リキッドガラスの UI 要素、ブラックホールと宇宙を理解するイメージシーケンス、編集用 xAI ブランドフォントとデザイン、シャープで高品質なスタイル、実在の人物が登場する広告
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bd8edfebcbc6c1f20da2192e6f615a86/thumbnails/thumbnail.jpg" width="600" alt="抽象的なテック広告">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3750)**
+
+**作者:** [Kiri](https://x.com/Kyrannio) | **ソース:** [Link](https://x.com/Kyrannio/status/2048277179822432314) | **公開日:** Apr 26, 2026
+
+---
+### ロボット工場の転換動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 工場内で数百台のロボットが稼働し、溶接を行っている産業風景を描いたサイレント動画用のプロンプト。
+
+#### 📝 プロンプト
+
+```
+サイレント動画でお願いします。
+
+工場の転換の様子をより詳細に映し、数百台のロボットが稼働や溶接を行っている様子などを表示してください。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09e04e954509063083bbf046deaf1531/thumbnails/thumbnail.jpg" width="600" alt="ロボット工場の転換動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3754)**
+
+**作者:** [mary](https://x.com/minca2007) | **ソース:** [Link](https://x.com/minca2007/status/2048259730859048996) | **公開日:** Apr 26, 2026
+
+---
 ### バイオハザード風リップシンク・エージェント
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -220,11 +488,46 @@ Moonstone Castle の空間の裂け目を通り抜けた Chloe は、見知ら�
 この画像の女性を正確に使用すること。クールで危険な雰囲気のバイオハザード風の女性エージェント、冷徹で無表情、一切の笑顔なし。無関心な様子で完璧にリップシンクされた英語の自己紹介。セリフ：「My name is NERA. Bio-synthetic unit. I don't feel fear. I don't feel pain. Only protocol.」わずかな首の傾きと鋭い眼差し、黒いレザーと手袋の質感を強調。赤いネオンの強い反射、11 秒間、映画のようなクオリティ、バイオハザードの雰囲気、感情なし。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/df0785a1a3302e968e34e9596b38f5f9/thumbnails/thumbnail.jpg" width="600" alt="バイオハザード風リップシンク・エージェント">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bd66a6c8417cee15b603d4727272f485/thumbnails/thumbnail.jpg" width="600" alt="バイオハザード風リップシンク・エージェント">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3714)**
 
 **作者:** [rui｜∫varts (シュバルツ)](https://x.com/varts_works) | **ソース:** [Link](https://x.com/varts_works/status/2048258487428513937) | **公開日:** Apr 26, 2026
+
+---
+### 喋るテディベアが登場するアニメ風スーパーマーケットのシーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> お揃いの花冠をつけたキャラクターたちと、優しく語りかける小さなテディベアが登場する、穏やかなスーパーマーケットのレジでの一コマを描いたシネマティックなアニメ風ビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+柔らかな日差しが差し込むスーパーマーケットのレジを舞台にした、シネマティックな日常系アニメシーン。
+中央：白のブラウスに深緑色のエプロン、FP1 バッジを着用した黒髪の女性。穏やかで少し安堵した表情。
+左：落ち着いた表情の金髪の女性。同じ制服と花のアクセサリーを着用。
+右：無表情な茶髪の女性。同じ制服と花のアクセサリーを着用。
+手前：深緑色のエプロンと FP1 バッジを身につけ、少し上を見上げている小さなテディベア。
+すべてのキャラクターは、希望を象徴するお揃いの柔らかな花冠を着用している。
+パステルカラーの柔らかな色調、非常に細く繊細なアニメ風の線画、フラットで柔らかな陰影、最小限のレンダリング、柔らかな環境光、温かく平和な雰囲気。
+背景：柔らかくぼかされたスーパーマーケットの店内。
+カメラ：自然な目線の高さ、柔らかな 45 度の角度、ズームなし。
+セリフ（日本語音声のみ）：
+手前の小さなテディベア（少女の声、柔らかく優しい口調）
+「それだけ、頑張ってるってことだよ。」
+演技：最小限の自然な動き。テディベアのみが優しく話す。
+重要なルール：
+テディベアのみが口を動かし、他のキャラクターは口を完全に閉じたままにすること。話さないキャラクターのリップシンクは一切禁止。
+特に中央の黒髪の女性は、口を完全に閉じた状態を維持すること。
+このシーンで他のキャラクターは一切話さない。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/990a63263a5bd75c014f656be894ba0f/thumbnails/thumbnail.jpg" width="600" alt="喋るテディベアが登場するアニメ風スーパーマーケットのシーン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3761)**
+
+**作者:** [テカひめ｜FP1級｜賢者に転職できない遊び人Lv.20/すっぴんLv.1](https://x.com/tekka5154) | **ソース:** [Link](https://x.com/tekka5154/status/2048241445711339729) | **公開日:** Apr 26, 2026
 
 ---
 ### シュールで未来的な迷宮の音楽シーン
@@ -239,7 +542,7 @@ Moonstone Castle の空間の裂け目を通り抜けた Chloe は、見知ら�
 ピアノ、星、花、そして数学的なパターンが温かな共鳴の中で優しく織りなされ、未来的な迷宮都市の中にある夢のような出会いの場で浮かび上がる、柔らかく生命力に満ちたシュールな光景。優しい光に包まれています。音楽は共鳴そのものです。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/63bb4b996087fe4d0f46aace2dd8a5f2/thumbnails/thumbnail.jpg" width="600" alt="シュールで未来的な迷宮の音楽シーン">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ca937a957dc0d29aac0a700744917671/thumbnails/thumbnail.jpg" width="600" alt="シュールで未来的な迷宮の音楽シーン">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3715)**
 
@@ -263,6 +566,25 @@ Moonstone Castle の空間の裂け目を通り抜けた Chloe は、見知ら�
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3716)**
 
 **作者:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **ソース:** [Link](https://x.com/iamhappy2026/status/2048208298386632723) | **公開日:** Apr 26, 2026
+
+---
+### 精巧なファンタジーの女性の横顔と都市の風景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 渦巻く黄金の髪と鮮やかな都市の風景をモチーフにした、ファンタジー動画向けの非常に詳細なプロンプトです。
+
+#### 📝 プロンプト
+
+```
+精巧なファンタジーアート作品。目を閉じた女性の横顔が描かれ、周囲には精緻な黄金の渦巻く髪のデザインと、ゴールド、ブルー、オレンジの葉のモチーフがあしらわれています。彼女のメイクはゴールドのアイシャドウに長いダークなまつ毛、そして赤い唇が特徴です。質感のある黄金の衣装を身にまとい、胸元には青い模様入りの目立つ円盤が飾られています。顎の下には、独特な屋根や尖塔を持つ色鮮やかな建物が密集し、都市の風景を形成しており、すべてがダークな背景に浮かび上がっています。
+```
+
+<img src="https://cms-assets.youmind.com/media/1777277643043_e364t6_HGyoF5dbQAAtI4G.jpg" width="600" alt="精巧なファンタジーの女性の横顔と都市の風景">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3757)**
+
+**作者:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **ソース:** [Link](https://x.com/iamhappy2026/status/2048196860293091421) | **公開日:** Apr 26, 2026
 
 ---
 ### 装飾的な 3D ポートレート
@@ -2062,301 +2384,6 @@ SCENE LOCK: IMAGE 3 から IMAGE 4 への静止三脚による連続性。カメ
 **作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2046511204722467089) | **公開日:** Apr 21, 2026
 
 ---
-### 宇宙人とビジネスマンの複雑なシーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 宇宙人、ビジネスマン、宇宙船が登場する、複数の画像を参照した複雑なプロンプトです。
-
-#### 📝 プロンプト
-
-```
-1. 宇宙人のキャラクター 2. ビジネスマンのキャラクター 3. 背景の家（Google マップのストリートビューから引用）。@image2 を暗い雨の日にしてください。宇宙人 @image1 が白い家に向かって歩いていると、巨大な宇宙船が頭上を飛びます。男性 @image3 は宇宙人を見て、パニック状態で逃げ出します。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/61a01bde09662cbe1739ad6deae15bbb/thumbnails/thumbnail.jpg" width="600" alt="宇宙人とビジネスマンの複雑なシーン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3483)**
-
-**作者:** [M I K E • マイケル・リックス](https://x.com/michaelricks) | **ソース:** [Link](https://x.com/michaelricks/status/2046444567126216730) | **公開日:** Apr 21, 2026
-
----
-### ミズーリ川上空での宇宙船バトル
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 新しいリファレンス機能を使用して、特定の川の風景の上空で繰り広げられる映画のような宇宙船バトルのシーンを作成するための、grok-imagine 動画生成プロンプトです。
-
-#### 📝 プロンプト
-
-```
-サウスダコタ州とネブラスカ州の境界にある Lazy River Acres のミズーリ川上空での宇宙船バトル。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/73e94f590f28e5419f22b09d9c87f470/thumbnails/thumbnail.jpg" width="600" alt="ミズーリ川上空での宇宙船バトル">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3437)**
-
-**作者:** [Hoff 🌙](https://x.com/HoffPlanet) | **ソース:** [Link](https://x.com/HoffPlanet/status/2046440705908679139) | **公開日:** Apr 21, 2026
-
----
-### 月面調査ビデオプロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 特定の元素をスキャンするための、低高度月面フライオーバー技術ビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-{Nano Intelligence Hydrate Methane }Protection Shield} ^^*^*^月面高度 3 メートルでのフライオーバー軌道による岩石スキャン....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/024a945b482ddaab8d2f1fbb22bec78a/thumbnails/thumbnail.jpg" width="600" alt="月面調査ビデオプロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3496)**
-
-**作者:** [Notzucow](https://x.com/Notzucow69) | **ソース:** [Link](https://x.com/Notzucow69/status/2046423903799525412) | **公開日:** Apr 21, 2026
-
----
-### インダストリアル・メカ・バトル
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 荒廃した荒野で、巨大なウサギ型メカと人間サイズの戦士たちが繰り広げる激闘を描くための包括的なプロンプト。
-
-#### 📝 プロンプト
-
-```
-夕暮れ時のディストピアな工業地帯で繰り広げられる壮大な戦闘シーン。空気中には濃い煙と砂塵が舞っている。高さ 40 フィート（約 12 メートル）の白と黒の巨大なウサギ型メカロボットは、赤オレンジ色に光る目、長い機械仕掛けのウサギ耳、重厚な装甲、そして力強い四肢を持ち、洗練された近未来的な白と黒のボディスーツにヘルメットと発光バイザーを装着した、2 人の俊敏なウサギ耳の戦士と激しく戦っている。
-
-ダイナミックなアクションシーケンス：
-- 1 人目のウサギ戦士は高く跳躍し、巨大メカの頭部や胸部に強力なキックやエネルギーパンチを叩き込み、鮮やかなオレンジ色の火花と爆発を引き起こす。
-- 2 人目のウサギ戦士は低姿勢を保ち、スライディングしながらメカの脚部や足元を攻撃。激しいエネルギーブラストとキックで、コンクリートの地面に炎と溶けた金属の火花を散らす。
-- 巨大なウサギ型メカは巨大な腕を振り回し、地面を殴りつけて衝撃波と瓦礫を発生させ、小さな戦士たちを捕らえて押し潰そうとする。その目は衝撃のたびに激しく明滅する。
-
-激しい火花、飛び散る瓦礫、地面の爆発、立ち込める濃い煙、金属面に反射するドラマチックなオレンジ色の炎の輝き、シネマティックなライティング、壮大なワイドショットとダイナミックなローアングルカメラワーク、超リアルな CGI、フォトリアルなディテール、ドラマチックな雰囲気、高コントラスト、8K、傑作、最高品質、高精細、高速移動時のモーションブラー。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/193907cf7036890af32bfba00dadc244/thumbnails/thumbnail.jpg" width="600" alt="インダストリアル・メカ・バトル">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3484)**
-
-**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **ソース:** [Link](https://x.com/ThoughCreator/status/2046389815365480463) | **公開日:** Apr 21, 2026
-
----
-### バルコニーに立つ女性のそよ風のシーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 夕暮れのそよ風に揺れるバルコニーの女性を描写した動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-色鮮やかな花々やフクシアのハンギングバスケットが飾られた日当たりの良いバルコニーに立つ美しい女性。夕暮れの穏やかなそよ風が、彼女のドレスとスカーフを優しくなびかせている。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7e43143acd971edba9045b41ac98885e/thumbnails/thumbnail.jpg" width="600" alt="バルコニーに立つ女性のそよ風のシーン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3392)**
-
-**作者:** [Carry Robey](https://x.com/carry_robey) | **ソース:** [Link](https://x.com/carry_robey/status/2046011588130509077) | **公開日:** Apr 19, 2026
-
----
-### 魔法の森を跳躍するクーガー
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 霧に包まれた幻想的な森の中で、光り輝く蝶を飛び越えるクーガーを表現した動画用プロンプト。
-
-#### 📝 プロンプト
-
-```
-霧に包まれた魔法の森の奥深く、しなやかなクーガーが光り輝く蝶を優雅に飛び越える。その力強い姿が、ささやくような影の中に浮かび上がる。躍動する純粋な野生の魔法。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b97c2d564439c33cd89fe909d9443e2e/thumbnails/thumbnail.jpg" width="600" alt="魔法の森を跳躍するクーガー">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3405)**
-
-**作者:** [A Dogs Life](https://x.com/K9Dirk) | **ソース:** [Link](https://x.com/K9Dirk/status/2046007076741329167) | **公開日:** Apr 19, 2026
-
----
-### 超写実的な宇宙の光景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 中心となる人物と幻想的なフォルムが特徴の、神秘的で天上の夜空を描くためのプロンプトです。
-
-#### 📝 プロンプト
-
-```
-星空の下、中心に神秘的な人物を配し、幻想的なフォルムが浮かぶ超写実的な宇宙の光景。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/57add58836a492b9c5ef56ddb9cec2f2/thumbnails/thumbnail.jpg" width="600" alt="超写実的な宇宙の光景">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3389)**
-
-**作者:** [Kadriye G.](https://x.com/kadriyegms11) | **ソース:** [Link](https://x.com/kadriyegms11/status/2046002768310145120) | **公開日:** Apr 19, 2026
-
----
-### 幻想的な森の風景の動画プロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 青々とした木々、苔、切り株がある幻想的で穏やかな森の動画を生成するためのプロンプトです。
-
-#### 📝 プロンプト
-
-```
-青々とした葉の茂る木々や花が咲く木々、苔、そして切り株がある幻想的な森の風景……
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fe0adc1c9b923acfc6c5c82e16180320/thumbnails/thumbnail.jpg" width="600" alt="幻想的な森の風景の動画プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3393)**
-
-**作者:** [The Walking Talking Glitch](https://x.com/Anomaly_Glitch) | **ソース:** [Link](https://x.com/Anomaly_Glitch/status/2045987765787988150) | **公開日:** Apr 19, 2026
-
----
-### 波から立ち上がる水の精霊
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 海から形成される水の精霊のクリーチャーを、特定のカメラワークで描写した壮大な VFX プロンプト。
-
-#### 📝 プロンプト
-
-```
-嵐の海岸で、打ち寄せる波から巨大な水の精霊が立ち上がる様子。シーンは、大きな波がビーチに向かってうねる様子から始まります。カメラモーション：水面を低く追跡するトラッキングから始まり、弧を描くように上昇して、飛沫からクリーチャーが形成される姿を捉えます。最後はドラマチックに引きの映像となり、海の上にそびえ立つ全身像を映し出します。ライティング：曇天、強いリムライト、水しぶきに反射する光、遠くで光る稲妻。スタイル：壮大なスケールの VFX、フォトリアルな海洋シミュレーション、嵐の FX、流体ダイナミクスに基づいた動き。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/61d1ff285bdbcf82b6d451834944c3ea/thumbnails/thumbnail.jpg" width="600" alt="波から立ち上がる水の精霊">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3387)**
-
-**作者:** [Déborah](https://x.com/dvorahfr) | **ソース:** [Link](https://x.com/dvorahfr/status/2045966719227662413) | **公開日:** Apr 19, 2026
-
----
-### パイプラインの波に乗るサーファーとイルカ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> イルカが加わるサーフィン動画のためのダイナミックなアクションプロンプト。
-
-#### 📝 プロンプト
-
-```
-波が大きなパイプラインとなり、サーファーがそれを完璧に乗りこなす中、イルカたちがサーフィンに加わる様子を表現してください……
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/946fe0651cb449f0bcf3b1fa97026355/thumbnails/thumbnail.jpg" width="600" alt="パイプラインの波に乗るサーファーとイルカ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3388)**
-
-**作者:** [mike lecavalier](https://x.com/anthracnose) | **ソース:** [Link](https://x.com/anthracnose/status/2045956959484916043) | **公開日:** Apr 19, 2026
-
----
-### ロケット打ち上げの動画プロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> デュアルエンジンのコンセプトを、火星へ向かう強力なロケットへと変換するための Grok Imagine 用プロンプト。
-
-#### 📝 プロンプト
-
-```
-前後 2 基のエンジン
-
-このコンセプトを基に、火星まで高速で到達できるほど強力な巨大ロケットへと変換してください。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b5fb6f3b993acc71a9f37e01d635980d/thumbnails/thumbnail.jpg" width="600" alt="ロケット打ち上げの動画プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3404)**
-
-**作者:** [Jessica Longo](https://x.com/Jessica39627125) | **ソース:** [Link](https://x.com/Jessica39627125/status/2045950526085317040) | **公開日:** Apr 19, 2026
-
----
-### シネマティックな SF ホスピタル動画シーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 病院を舞台にしたサスペンスフルなシーンのための、医師と背景に現れるエイリアンの姿を描いた高精細な動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-超リアルなシネマティック動画、8K 解像度、冷たい病院の照明と微かな SF 的な輝き、35mm レンズ、高コントラストの影、没入感のあるサウンドデザイン（低いハミング音、遠くの残響、微かなエイリアンの音色）。シーン構成 0:00 – 0:04 夜の静かな病院の廊下のワイドショット。照明がわずかに明滅する。空虚で緊張感のある環境。医師がファイルを手に持ち、確認しながら自然な足取りで廊下を歩く。 0:04 – 0:08 前方からのミディアムショット。医師は集中した様子でプロフェッショナルに歩き続ける。背景（医師の背後のみ）に、陽炎のような歪みが現れ、ぼんやりとした人型へとゆっくり形を変えていく。 0:08 – 0:12 後方からのアングルにカット。エイリアンの存在がより明確になる。背の高い、半透明のエイリアン 2 体が医師の背後の影から現れる。彼らは距離を保ちながら、ゆっくりと静かに移動する。重要：彼らは医師に触れたり、追いかけたり、医師の前を横切ったりしてはならない。 0:12 – 0:15 医師の顔のクローズアップ。何か異変を感じ、わずかに立ち止まる。完全に振り返るのではなく、半分だけさりげなく首を向ける。再びワイドショットへ：背景にはエイリアンがはっきりと見え、静止してこちらを見つめている。終了フレーム：手前に医師、気づいてはいないが不安げな様子。エイリアンは背後に留まり、静かに観察している。重要な指示（エラー防止） 医師は常に前方に歩き続けること（逆走は禁止）。エイリアンは医師の背後にのみ現れ、決して前には出ないこと。物理的な接触は一切なし（攻撃や接触は禁止）。動きはゆっくりと制御されたリアルなものにすること。病院のリアリズムを維持しつつ、微かな SF 要素を組み込むこと（過度なエフェクトは避ける）。ムード / 感覚 不気味でサスペンスフル。アクションではなく、静寂、距離感、そして存在感によって構築される、制御された SF スリラーの緊張感。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8551b7c4eef017a366beaff17263248f/thumbnails/thumbnail.jpg" width="600" alt="シネマティックな SF ホスピタル動画シーン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3403)**
-
-**作者:** [Ai Doctor](https://x.com/DoctorAmna11) | **ソース:** [Link](https://x.com/DoctorAmna11/status/2045930553627848795) | **公開日:** Apr 19, 2026
-
----
-### シネマティックな立体駐車場のサスペンス
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 立体駐車場でのサスペンスフルなスリラーシーンを想定した、非常に詳細なワンカット撮影用プロンプトです。
-
-#### 📝 プロンプト
-
-```
-超リアルなシネマティックビデオ、8K 解像度、ダークでムードのある照明、ハイコントラストな影、35mm レンズ、微かな緊張感を演出する手持ちスタビライズカメラ、リアルなサウンドデザイン（遠くの反響音、足音、金属的な環境音）。
-プロンプト（単一の連続フレーム – カットなし）
-夜の薄暗い地下駐車場。点滅する蛍光灯がコンクリートの柱に不規則な影を落としている。緊張感があり、静まり返った雰囲気。
-カメラはゆっくりと後退しながら、慎重にカメラに向かって歩いてくる男性を捉え続ける。彼は警戒し、少し不安げな様子で、誰かに見られているかのように周囲を見回している。
-彼が歩くにつれ、頭上の照明が彼の背後から順番に一つずつ点滅し始める（重要：照明は彼の進行方向ではなく、彼が通り過ぎた方向から順に消えていく）。
-背景の柱の間に微かな影が短時間現れるが、常に彼の背後に留まり、決して彼の前には出ない。男性は何かを感じ取り、一瞬立ち止まってわずかに振り返るが、はっきりとしたものは何も見えない。
-カメラは距離を保ちながら、スムーズに後退し続ける。柔らかな足音が響くが、それは彼の歩調とは一致していない。
-最後の数秒：
-背後の最後の照明が消え、駐車場の一部が闇に包まれる。フレームが落ち着くと、背景の遠くに、影に半分隠れたぼんやりとした人影が静止し、こちらを見つめているのが見える。
-重要な指示（ミスを避けるために）
-カメラは単一の連続したバックトラッキングショット（後退撮影）を維持すること（カットなし）
-謎の存在は常に男性の背後に留まり、決して前には現れないこと
-照明は明確な方向性を持って順に点滅すること（背後からより深い闇へ）
-ジャンプスケア（急な驚かせ）はなし。緊張感は動き、音、影によって構築すること
-男性は決して走らず、慎重かつ抑制された動きを保つこと
-ムード / 感覚
-サスペンスフル、緊張感、ミステリアス、心理的な不安を煽るスローバーンスリラー。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b5afae35349a99356d8f93c3219665d9/thumbnails/thumbnail.jpg" width="600" alt="シネマティックな立体駐車場のサスペンス">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3396)**
-
-**作者:** [Ai Doctor](https://x.com/DoctorAmna11) | **ソース:** [Link](https://x.com/DoctorAmna11/status/2045928596381057329) | **公開日:** Apr 19, 2026
-
----
-### ジェーン・オースティン風の変身
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 『高慢と偏見』のプロポーズシーンを基にした、詳細なビデオ・トゥ・ビデオ形式のスタイル変換プロンプト。
-
-#### 📝 プロンプト
-
-```
-シーン：霧の朝の二度目のプロポーズ
-
-@grok @imagine で動画を生成する際、このプロンプトとご自身の写真を使用してください。
-
-アップロードした写真を、顔と体の正確なリファレンスとして使用してください。その人物を 2005 年公開の映画『高慢と偏見』のキャラクターに変身させます。アップロードした人物が女性の場合はエリザベス・ベネット（キーラ・ナイトレイ風）に、男性の場合はミスター・ダーシー（襟元を開けた白いシャツを着たマシュー・マクファディン風）に変換してください。日の出の霧深いイギリスの野原で、柔らかな黄金色の逆光と霧に包まれ、キャラクターが非常に近くに立ち（ペアで表示される場合は額を優しく寄せ合い、あるいは感情的なポーズで）、熱い眼差しを交わし、親密に手を添え、露に濡れた草地が広がっています。夢のような幻想的な雰囲気、柔らかな拡散光、非常にリアルで、映画の二度目のプロポーズシーンと全く同じ映画的なカラーパレットを再現してください。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee4ed6333adf3191d0452df83f9673bb/thumbnails/thumbnail.jpg" width="600" alt="ジェーン・オースティン風の変身">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3397)**
-
-**作者:** [Lala](https://x.com/keepgoingAnnie) | **ソース:** [Link](https://x.com/keepgoingAnnie/status/2045920296633319881) | **公開日:** Apr 19, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2418,6 +2445,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-04-27T06:34:38.679Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-04-27T10:24:57.533Z</sub>
 
 </div>

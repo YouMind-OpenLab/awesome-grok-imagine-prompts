@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1244** |
+| 📝 Total Prompts | **1258** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-04-27** |
 
@@ -189,6 +189,234 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Cảnh siêu thị trong anime đời thường đậm chất điện ảnh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video chi tiết cho cảnh anime đời thường đậm chất điện ảnh tại một siêu thị vào lúc hoàng hôn, với ba người phụ nữ và một chú gấu bông cùng các chuyển động cụ thể và lời thoại tiếng Nhật.
+
+#### 📝 Prompt
+
+```
+Một cảnh anime đời thường đậm chất điện ảnh tại quầy thu ngân siêu thị vào lúc hoàng hôn.
+
+Ở giữa: một phụ nữ trưởng thành tóc đen mặc áo sơ mi trắng và tạp dề màu xanh lá đậm với huy hiệu FP1, biểu cảm bình tĩnh và có chút suy tư.
+
+Bên trái: một phụ nữ tóc vàng với biểu cảm dịu dàng, mặc đồng phục tương tự và cài phụ kiện hoa.
+
+Bên phải: một phụ nữ tóc nâu với biểu cảm chân thực, mặc đồng phục tương tự và cài phụ kiện hoa.
+
+Phía trước: một chú gấu bông nhỏ mặc tạp dề màu xanh lá đậm với huy hiệu FP1, đứng yên.
+
+Tất cả các nhân vật đều đội vòng hoa mềm mại đồng bộ tượng trưng cho hy vọng.
+
+Bảng màu pastel nhẹ nhàng, nét vẽ anime mảnh và tinh tế, đổ bóng phẳng mềm mại, kết xuất tối giản, ánh sáng hoàng hôn dịu nhẹ, cầu vồng có thể nhìn thấy qua cửa sổ, bầu không khí ấm áp và nhẹ nhàng.
+
+Camera: góc nhìn ngang tầm mắt tự nhiên, góc nghiêng 45 độ nhẹ.
+
+Zoom cận cảnh rất chậm về phía trung tâm (người phụ nữ tóc đen) trong khi cô ấy nói.
+
+Lời thoại (chỉ có giọng tiếng Nhật):
+
+Người phụ nữ tóc đen ở giữa (giọng nữ trưởng thành, bình tĩnh)
+
+"Trước khi kịp nhận ra, tôi cảm giác như mình đã... lặp đi lặp lại cùng một ngày."
+
+Diễn xuất: biểu cảm khuôn mặt tinh tế, chỉ có những chuyển động nhỏ tự nhiên.
+
+QUY TẮC QUAN TRỌNG:
+
+chỉ nhân vật đang nói mới cử động miệng, tất cả các nhân vật khác giữ miệng đóng hoàn toàn, không có chuyển động môi đối với các nhân vật không nói
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0bbc798a9915c866d3a28f145bbbb324/thumbnails/thumbnail.jpg" width="600" alt="Cảnh siêu thị trong anime đời thường đậm chất điện ảnh">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3759)**
+
+**Author:** [テカひめ｜FP1級｜賢者に転職できない遊び人Lv.20/すっぴんLv.1](https://x.com/tekka5154) | **Source:** [Link](https://x.com/tekka5154/status/2048588038570422399) | **Published:** Apr 27, 2026
+
+---
+### Biến hình OHM vũ trụ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo hoạt ảnh vũ trụ, phóng to vào biểu tượng OHM và biến nó thành hành tinh Trái Đất giữa các vì sao.
+
+#### 📝 Prompt
+
+```
+Hãy thực hiện hiệu ứng phóng to vào biểu tượng OHM và biến nó thành hành tinh Trái Đất đang trôi nổi giữa các vì sao. Hãy tạo cho nó phong cách vũ trụ.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5bfeab1c77d4c5122bfc47af540d03f7/thumbnails/thumbnail.jpg" width="600" alt="Biến hình OHM vũ trụ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3749)**
+
+**Author:** [DW 💉👀🐊](https://x.com/deweller) | **Source:** [Link](https://x.com/deweller/status/2048547442161856696) | **Published:** Apr 26, 2026
+
+---
+### Võ thuật với mái tóc rực lửa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) dành cho nhân vật đang thực hiện các động tác võ thuật trong bộ giáp bó sát, với góc nhìn toàn cảnh 360 độ và mái tóc rực lửa độc đáo.
+
+#### 📝 Prompt
+
+```
+Thực hiện võ thuật trong bộ giáp bó sát với góc nhìn toàn cảnh 360 độ và mái tóc đen có ngọn lửa ở phần đuôi
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/debd4ee1754aec05a855bc9630be679d/thumbnails/thumbnail.jpg" width="600" alt="Võ thuật với mái tóc rực lửa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3758)**
+
+**Author:** [SS](https://x.com/SteveS_X_) | **Source:** [Link](https://x.com/SteveS_X_/status/2048545391075795008) | **Published:** Apr 26, 2026
+
+---
+### Khung cảnh khiêu vũ cuồng nhiệt trong vũ trụ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một lời nhắc video siêu thực và đầy tầm nhìn, mô tả những thực thể siêu việt đang đắm mình trong điệu nhảy cuồng nhiệt giữa sự hòa quyện của ánh sáng và bóng tối trong vũ trụ.
+
+#### 📝 Prompt
+
+```
+một cuộc sống vượt xa trí tưởng tượng điên rồ nhất của chúng ta, nơi ánh sáng và bóng tối hòa làm một, và chúng ta hoàn toàn đắm chìm trong điệu nhảy cuồng nhiệt, khung cảnh siêu thực đầy tầm nhìn, sự hòa quyện vũ trụ của ánh hào quang và bóng tối, những thực thể siêu việt đang buông mình theo nhịp điệu vô tận
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eac56780b8d299444f7c50e47c2f65fd/thumbnails/thumbnail.jpg" width="600" alt="Khung cảnh khiêu vũ cuồng nhiệt trong vũ trụ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3753)**
+
+**Author:** [dude in recovery](https://x.com/dr_chim_gaming) | **Source:** [Link](https://x.com/dr_chim_gaming/status/2048534397457252352) | **Published:** Apr 26, 2026
+
+---
+### Dạo bước trong rừng cùng Pooh và Mickey
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh đầy chất thơ về Winnie the Pooh và Mickey Mouse đang cùng nhau dạo bước trong khu rừng ngập tràn ánh nắng.
+
+#### 📝 Prompt
+
+```
+Tôi đang đi dạo trong rừng cùng Winnie the Pooh, chú ấy đang mang theo một thùng mật ong. Những chú gấu nhỏ bước đi bên cạnh chúng tôi. Trời đầy nắng. Tôi đang nắm tay Mickey Mouse.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1f22592cf642f97af77c88d1a0d0c01b/thumbnails/thumbnail.jpg" width="600" alt="Dạo bước trong rừng cùng Pooh và Mickey">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3752)**
+
+**Author:** [Jarosław Justka](https://x.com/jaras70berlin) | **Source:** [Link](https://x.com/jaras70berlin/status/2048517613173494090) | **Published:** Apr 26, 2026
+
+---
+### Dự án Hành trình Hình ảnh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt mang tính phong cách, tập trung vào chuyển động chậm, sương mù và các lớp hình ảnh cho dự án hình ảnh có tiêu đề "Two Weeks Early".
+
+#### 📝 Prompt
+
+```
+DỰ ÁN: "Two Weeks Early" — hành trình hình ảnh
+
+CÀI ĐẶT CHUNG:
+Tốc độ tối đa từ 0,04 đến 0,05 cho toàn bộ video. Không cắt cảnh, không chuyển cảnh đột ngột. Chỉ sử dụng các lớp hòa tan (dissolve), sương mù và đổ bóng.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/be728f3c985b1aa9917003b385246eef/thumbnails/thumbnail.jpg" width="600" alt="Dự án Hành trình Hình ảnh">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3748)**
+
+**Author:** [@TheCFormula](https://x.com/TheCFormula) | **Source:** [Link](https://x.com/TheCFormula/status/2048502579928125863) | **Published:** Apr 26, 2026
+
+---
+### Vũ điệu Cowboy dưới ánh sao
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Tạo video về một chàng cao bồi và một quý cô đang khiêu vũ trên sân hiên dưới bầu trời đầy sao với hàng rào gỗ bao quanh.
+
+#### 📝 Prompt
+
+```
+Chàng cao bồi và quý cô khiêu vũ chậm trên sân hiên dưới những vì sao sáng rực
+Thêm hàng rào gỗ bao quanh sân hiên
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ac60e71b8e1706ba02e2042cd5fb11bc/thumbnails/thumbnail.jpg" width="600" alt="Vũ điệu Cowboy dưới ánh sao">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3751)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2048464740595454031) | **Published:** Apr 26, 2026
+
+---
+### Hoạt ảnh Batman đi bộ trên sa mạc
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh chuyển động (motion prompt) cho video Batman đang đi bộ nhẹ nhàng trên cát sa mạc theo phong cách điện ảnh.
+
+#### 📝 Prompt
+
+```
+Anh ấy đang đi bộ một cách nhẹ nhàng, không nói lời nào, với âm thanh trầm thấp, dịu nhẹ trong không gian. Phong cách điện ảnh.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/220be9914027d00d46cdd961f071a438/thumbnails/thumbnail.jpg" width="600" alt="Hoạt ảnh Batman đi bộ trên sa mạc">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3756)**
+
+**Author:** [NOVAROSK 🇦🇶](https://x.com/NOVAROSK) | **Source:** [Link](https://x.com/NOVAROSK/status/2048460239733682450) | **Published:** Apr 26, 2026
+
+---
+### Võ sĩ Samurai trong rừng trúc
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) điện ảnh cực kỳ chi tiết về một võ sĩ samurai đang đi bộ qua khu rừng trúc đầy sương mù dưới ánh trăng đỏ thẫm.
+
+#### 📝 Prompt
+
+```
+Một võ sĩ samurai đơn độc ở Nhật Bản thời phong kiến, khoác trên mình bộ giáp sẫm màu đã sờn cũ vì chinh chiến, đang chậm rãi bước đi xuyên qua khu rừng trúc rậm rạp vào ban đêm. Khung cảnh được chiếu sáng bởi ánh trăng đỏ thẫm đầy ám ảnh, hắt những tia sáng đỏ kỳ quái qua những thân trúc cao vút. Làn sương mỏng lảng bảng trên mặt đất, cuộn tròn quanh đôi chân khi anh di chuyển. Thanh katana đeo thấp bên hông, lưỡi kiếm phản chiếu ánh sáng đỏ một cách tinh tế.
+
+Phong cách điện ảnh, bầu không khí Nhật Bản thời phong kiến u tối, kết cấu siêu thực, ánh sáng kịch tính, sương mù thể tích, độ tương phản bóng đổ cao, các hạt bụi lơ lửng trong không trung.
+
+Được quay như một cảnh phim: góc quay thấp theo sát chuyển động, độ sâu trường ảnh nông, ống kính anamorphic, hạt phim, độ phân giải 8K, chỉnh màu tâm trạng (sắc đen sâu và đỏ thẫm).
+
+Lấy cảm hứng từ điện ảnh samurai cổ điển, chuyển động chậm rãi và có chủ đích, tâm trạng căng thẳng và tĩnh lặng, cảm giác hồi hộp mạnh mẽ.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/33fcf6b40e4f8056b610c7c66e69b3b4/thumbnails/thumbnail.jpg" width="600" alt="Võ sĩ Samurai trong rừng trúc">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3755)**
+
+**Author:** [NOVAROSK 🇦🇶](https://x.com/NOVAROSK) | **Source:** [Link](https://x.com/NOVAROSK/status/2048424710111736195) | **Published:** Apr 26, 2026
+
+---
+### Lời nhắc chuyển động uốn lượn (Serpentine Movement)
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một lời nhắc chuyển động dành cho Grok Imagine, được thiết kế để tạo hiệu ứng chuyển động uốn lượn ngang cho một con rắn trong môi trường rừng rậm cyberpunk, được sử dụng trong quy trình hai bước sau khi tạo ảnh nền.
+
+#### 📝 Prompt
+
+```
+Hình ảnh chi tiết cao về một con rắn lớn, đáng sợ, trong suốt và lấp lánh trong khu rừng cyberpunk. Làn da của nó vô cùng chi tiết, được bao phủ bởi lớp vảy màu tím và đen chuyển dần sang màu xanh huỳnh quang, trông ẩm ướt và sáng bóng. Nó có một chiếc mào ngoài hành tinh khổng lồ màu vàng huỳnh quang chuyển dần sang màu đỏ và tím rực rỡ. Đôi mắt to lớn của nó có màu trắng mờ và phát sáng, các cạnh của viền và những đám mây bào tử bên trong có khả năng phát quang sinh học tinh tế. Cơ thể cuộn tròn đầy sức mạnh của nó đang ở tư thế cảnh giác. Nó được bao quanh bởi những loài thực vật ngoài hành tinh kỳ lạ, phát sáng và lớp rêu lấp lánh như kim tuyến. Đầu đặt trên mặt đất, con rắn di chuyển bằng cách uốn lượn ngang (chuyển động serpentine): cơ thể tạo thành hình chữ S để đẩy nó tiến về phía trước. (Không có nhạc)
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/92a918f9acb3c02c5aac205ed8b21916/thumbnails/thumbnail.jpg" width="600" alt="Lời nhắc chuyển động uốn lượn (Serpentine Movement)">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3760)**
+
+**Author:** [♥𝓛𝓪𝓭𝔂𝓓𝓑𝓾𝓰0o·.🐞.·♡°·.·° .·°♕](https://x.com/DBug0o) | **Source:** [Link](https://x.com/DBug0o/status/2048419051030876196) | **Published:** Apr 26, 2026
+
+---
 ### Khe nứt không gian của Chloe
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -208,6 +436,46 @@ Chloe đã bước qua Khe nứt không gian trong Lâu đài Moonstone và th�
 **Author:** [LenoyInc](https://x.com/sandroraffaele) | **Source:** [Link](https://x.com/sandroraffaele/status/2048293772405211602) | **Published:** Apr 26, 2026
 
 ---
+### Quảng cáo công nghệ trừu tượng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một lời nhắc tinh tế để tạo thương hiệu và quảng cáo với các yếu tố thiết kế như thủy tinh lỏng, hố đen và phong cách xAI.
+
+#### 📝 Prompt
+
+```
+Một quảng cáo cho Grok Imagine với các yếu tố giao diện thủy tinh lỏng, chuỗi hình ảnh hố đen và vũ trụ, phông chữ và thiết kế mang thương hiệu xAI đầy tính biên tập, phong cách quảng cáo sắc nét chất lượng cao với người thật
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bd8edfebcbc6c1f20da2192e6f615a86/thumbnails/thumbnail.jpg" width="600" alt="Quảng cáo công nghệ trừu tượng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3750)**
+
+**Author:** [Kiri](https://x.com/Kyrannio) | **Source:** [Link](https://x.com/Kyrannio/status/2048277179822432314) | **Published:** Apr 26, 2026
+
+---
+### Video chuyển đổi nhà máy robot
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) cho video không lời mô tả cảnh công nghiệp với hàng trăm robot đang làm việc và hàn trong một nhà máy.
+
+#### 📝 Prompt
+
+```
+video không lời làm ơn 
+
+hiển thị thêm về quá trình chuyển đổi nhà máy và cho thấy hàng trăm robot đang làm việc, hàn, v.v....
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09e04e954509063083bbf046deaf1531/thumbnails/thumbnail.jpg" width="600" alt="Video chuyển đổi nhà máy robot">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3754)**
+
+**Author:** [mary](https://x.com/minca2007) | **Source:** [Link](https://x.com/minca2007/status/2048259730859048996) | **Published:** Apr 26, 2026
+
+---
 ### Đặc vụ phong cách Resident Evil với khả năng đồng bộ môi
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -220,11 +488,46 @@ Chloe đã bước qua Khe nứt không gian trong Lâu đài Moonstone và th�
 Sử dụng chính xác người phụ nữ trong hình ảnh này. Một nữ đặc vụ phong cách Resident Evil ngầu và nguy hiểm, biểu cảm lạnh lùng, hoàn toàn không cười. Tự giới thiệu bằng tiếng Anh với vẻ thờ ơ và đồng bộ môi hoàn hảo. Lời thoại: "My name is NERA. Bio-synthetic unit. I don't feel fear. I don't feel pain. Only protocol." Hơi nghiêng đầu và ánh nhìn sắc bén, làm nổi bật kết cấu của da đen và găng tay. Phản chiếu mạnh mẽ của đèn neon đỏ, 11 giây, chất lượng điện ảnh, phong cách Resident Evil, không cảm xúc.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/df0785a1a3302e968e34e9596b38f5f9/thumbnails/thumbnail.jpg" width="600" alt="Đặc vụ phong cách Resident Evil với khả năng đồng bộ môi">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bd66a6c8417cee15b603d4727272f485/thumbnails/thumbnail.jpg" width="600" alt="Đặc vụ phong cách Resident Evil với khả năng đồng bộ môi">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3714)**
 
 **Author:** [rui｜∫varts (シュバルツ)](https://x.com/varts_works) | **Source:** [Link](https://x.com/varts_works/status/2048258487428513937) | **Published:** Apr 26, 2026
+
+---
+### Cảnh siêu thị phong cách anime với chú gấu bông biết nói
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt phong cách anime điện ảnh mô tả cảnh thanh toán tại siêu thị yên bình, nơi các nhân vật đội vòng hoa đồng điệu và một chú gấu bông nhỏ đang cất tiếng nói nhẹ nhàng.
+
+#### 📝 Prompt
+
+```
+Một cảnh anime đời thường mang tính điện ảnh tại quầy thanh toán siêu thị trong ánh sáng ban ngày dịu nhẹ.
+Trung tâm: một phụ nữ trưởng thành tóc đen mặc áo sơ mi trắng và tạp dề màu xanh lá đậm với huy hiệu FP1, biểu cảm dịu dàng và hơi nhẹ nhõm.
+Bên trái: một phụ nữ tóc vàng với biểu cảm bình tĩnh, mặc đồng phục và phụ kiện hoa tương tự.
+Bên phải: một phụ nữ tóc nâu với biểu cảm trung tính, mặc đồng phục và phụ kiện hoa tương tự.
+Phía trước: một chú gấu bông nhỏ mặc tạp dề màu xanh lá đậm với huy hiệu FP1, đang nhìn hơi hướng lên trên.
+Tất cả các nhân vật đều đội vòng hoa mềm mại đồng điệu tượng trưng cho niềm hy vọng.
+Bảng màu pastel dịu nhẹ, nét vẽ anime mảnh và tinh tế, đổ bóng phẳng mềm mại, kết xuất tối giản, ánh sáng môi trường dịu nhẹ, bầu không khí ấm áp và yên bình.
+Bối cảnh: nội thất siêu thị được làm mờ nhẹ.
+Camera: góc nhìn ngang tầm mắt tự nhiên, góc nghiêng 45 độ nhẹ, không zoom.
+Đối thoại (chỉ có giọng tiếng Nhật):
+Chú gấu bông nhỏ ở phía trước (giọng một cô bé, nhẹ nhàng và êm ái)
+"Điều đó chỉ có nghĩa là bạn đang làm việc rất chăm chỉ thôi."
+Diễn xuất: chuyển động tự nhiên tối giản. Chú gấu bông nói chuyện nhẹ nhàng.
+QUY TẮC QUAN TRỌNG:
+chỉ chú gấu bông cử động miệng, tất cả các nhân vật khác giữ miệng hoàn toàn đóng, không cử động môi đối với các nhân vật không nói chuyện
+đặc biệt là người phụ nữ tóc đen ở trung tâm phải giữ miệng hoàn toàn đóng
+Không có nhân vật nào khác nói chuyện trong cảnh này.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/990a63263a5bd75c014f656be894ba0f/thumbnails/thumbnail.jpg" width="600" alt="Cảnh siêu thị phong cách anime với chú gấu bông biết nói">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3761)**
+
+**Author:** [テカひめ｜FP1級｜賢者に転職できない遊び人Lv.20/すっぴんLv.1](https://x.com/tekka5154) | **Source:** [Link](https://x.com/tekka5154/status/2048241445711339729) | **Published:** Apr 26, 2026
 
 ---
 ### Khung cảnh âm nhạc mê cung tương lai siêu thực
@@ -239,7 +542,7 @@ Sử dụng chính xác người phụ nữ trong hình ảnh này. Một nữ �
 Một khung cảnh siêu thực sống động, nhẹ nhàng, nơi đàn piano, những vì sao, hoa cỏ và các mô hình toán học được đan xen tinh tế trong sự cộng hưởng ấm áp, trôi nổi tại một điểm gặp gỡ mơ màng bên trong mê cung thành phố tương lai, được bao phủ bởi ánh sáng dịu nhẹ. Âm nhạc chính là sự cộng hưởng.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/63bb4b996087fe4d0f46aace2dd8a5f2/thumbnails/thumbnail.jpg" width="600" alt="Khung cảnh âm nhạc mê cung tương lai siêu thực">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ca937a957dc0d29aac0a700744917671/thumbnails/thumbnail.jpg" width="600" alt="Khung cảnh âm nhạc mê cung tương lai siêu thực">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3715)**
 
@@ -263,6 +566,25 @@ Một hình minh họa 3D đầy lôi cuốn mô tả một người phụ nữ 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3716)**
 
 **Author:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **Source:** [Link](https://x.com/iamhappy2026/status/2048208298386632723) | **Published:** Apr 26, 2026
+
+---
+### Hồ sơ nhân vật nữ giả tưởng tinh xảo và cảnh quan thành phố
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh chi tiết cho video giả tưởng với hình ảnh người phụ nữ có mái tóc vàng óng ả cùng họa tiết cảnh quan thành phố sống động.
+
+#### 📝 Prompt
+
+```
+Một tác phẩm nghệ thuật giả tưởng tinh xảo hiển thị hồ sơ của một người phụ nữ với đôi mắt nhắm nghiền, được bao quanh bởi thiết kế tóc vàng xoáy cầu kỳ và họa tiết lá cây với các tông màu vàng, xanh dương và cam. Lớp trang điểm của cô bao gồm phấn mắt màu vàng, hàng mi dài sẫm màu và đôi môi đỏ. Cô mặc một bộ trang phục màu vàng có kết cấu với một chiếc đĩa họa tiết màu xanh dương nổi bật. Bên dưới cằm cô, một quần thể các tòa nhà đầy màu sắc với mái và tháp nhọn độc đáo tạo nên một cảnh quan thành phố, tất cả nổi bật trên nền tối.
+```
+
+<img src="https://cms-assets.youmind.com/media/1777277643043_e364t6_HGyoF5dbQAAtI4G.jpg" width="600" alt="Hồ sơ nhân vật nữ giả tưởng tinh xảo và cảnh quan thành phố">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3757)**
+
+**Author:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **Source:** [Link](https://x.com/iamhappy2026/status/2048196860293091421) | **Published:** Apr 26, 2026
 
 ---
 ### Chân dung 3D trang trí
@@ -2050,294 +2372,6 @@ VROOM VROOM bắt đầu tập trung vào những ánh nhìn đầy căng thẳn
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2046511204722467089) | **Published:** Apr 21, 2026
 
 ---
-### Cảnh phức tạp giữa người ngoài hành tinh và doanh nhân
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tham chiếu đa hình ảnh phức tạp bao gồm người ngoài hành tinh, doanh nhân và tàu vũ trụ.
-
-#### 📝 Prompt
-
-```
-1. Nhân vật người ngoài hành tinh 2. Nhân vật doanh nhân 3. Ngôi nhà ở hậu cảnh (lấy từ chế độ xem đường phố Google Maps), hãy biến @image2 thành một ngày mưa tối tăm. Người ngoài hành tinh @image1 đi bộ đến ngôi nhà màu trắng trong khi một con tàu vũ trụ khổng lồ bay phía trên. Người đàn ông @image3 nhìn thấy người ngoài hành tinh và bỏ chạy trong trạng thái hoảng loạn
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/61a01bde09662cbe1739ad6deae15bbb/thumbnails/thumbnail.jpg" width="600" alt="Cảnh phức tạp giữa người ngoài hành tinh và doanh nhân">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3483)**
-
-**Author:** [M I K E • マイケル・リックス](https://x.com/michaelricks) | **Source:** [Link](https://x.com/michaelricks/status/2046444567126216730) | **Published:** Apr 21, 2026
-
----
-### Trận chiến tàu vũ trụ trên sông Missouri
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video grok-imagine giúp tạo ra cảnh chiến đấu giữa các tàu vũ trụ đầy điện ảnh trên khung cảnh dòng sông cụ thể, sử dụng tính năng tham chiếu mới.
-
-#### 📝 Prompt
-
-```
-Trận chiến tàu vũ trụ trên sông Missouri tại Lazy River Acres ở biên giới SD và NE.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/73e94f590f28e5419f22b09d9c87f470/thumbnails/thumbnail.jpg" width="600" alt="Trận chiến tàu vũ trụ trên sông Missouri">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3437)**
-
-**Author:** [Hoff 🌙](https://x.com/HoffPlanet) | **Source:** [Link](https://x.com/HoffPlanet/status/2046440705908679139) | **Published:** Apr 21, 2026
-
----
-### Lời nhắc video khảo sát Mặt Trăng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một lời nhắc video kỹ thuật cho chuyến bay tầm thấp trên Mặt Trăng để quét các nguyên tố cụ thể.
-
-#### 📝 Prompt
-
-```
-{Nano Intelligence Hydrate Methane }Protection Shield} ^^*^*^đang quét các tảng đá trên Mặt Trăng ở quỹ đạo bay tầm thấp 3 mét....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/024a945b482ddaab8d2f1fbb22bec78a/thumbnails/thumbnail.jpg" width="600" alt="Lời nhắc video khảo sát Mặt Trăng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3496)**
-
-**Author:** [Notzucow](https://x.com/Notzucow69) | **Source:** [Link](https://x.com/Notzucow69/status/2046423903799525412) | **Published:** Apr 21, 2026
-
----
-### Trận chiến Mecha công nghiệp
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) toàn diện về trận chiến giữa robot thỏ khổng lồ và các chiến binh kích thước người thật tại một vùng đất hoang đầy bụi bặm.
-
-#### 📝 Prompt
-
-```
-Trận chiến sử thi đậm chất điện ảnh tại một vùng đất hoang công nghiệp phản địa đàng vào lúc hoàng hôn, không khí tràn ngập khói bụi dày đặc. Một robot thỏ mecha khổng lồ cao 40 feet với tông màu trắng đen, đôi mắt đỏ cam rực sáng, đôi tai thỏ cơ khí dài, lớp giáp dày cùng các chi mạnh mẽ đang chiến đấu quyết liệt với hai chiến binh tai thỏ kích thước người thật nhanh nhẹn trong bộ đồ bó sát tương lai màu trắng đen, đội mũ bảo hiểm và tấm che mặt phát sáng.\n\nChuỗi hành động năng động:\n- Một chiến binh thỏ nhảy cao lên không trung, tung những cú đá và cú đấm năng lượng mạnh mẽ vào đầu và ngực của robot khổng lồ, tạo ra những tia lửa màu cam rực rỡ và các vụ nổ.\n- Chiến binh thỏ thứ hai di chuyển tầm thấp, trượt và tấn công vào chân của robot bằng những luồng năng lượng rực cháy và các cú đá, gây ra lửa và tia lửa nóng chảy trên nền bê tông.\n- Robot thỏ khổng lồ vung đôi tay to lớn, đấm xuống đất tạo ra sóng xung kích và mảnh vỡ, cố gắng chộp lấy và nghiền nát các chiến binh nhỏ hơn, đôi mắt nó bùng sáng sau mỗi cú va chạm.\n\nNhững tia lửa dữ dội, mảnh vỡ bay tứ tung, các vụ nổ trên mặt đất, khói dày cuồn cuộn, ánh lửa màu cam kịch tính phản chiếu trên các bề mặt kim loại, ánh sáng điện ảnh, các góc quay rộng sử thi và góc máy thấp năng động, CGI siêu thực, chi tiết chân thực như ảnh chụp, bầu không khí kịch tính, độ tương phản cao, 8K, kiệt tác, chất lượng tốt nhất, độ chi tiết cao, hiệu ứng nhòe chuyển động trên các pha hành động nhanh.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/193907cf7036890af32bfba00dadc244/thumbnails/thumbnail.jpg" width="600" alt="Trận chiến Mecha công nghiệp">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3484)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2046389815365480463) | **Published:** Apr 21, 2026
-
----
-### Người phụ nữ trên ban công trong khung cảnh lộng gió
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt mô tả người phụ nữ trên ban công với các chuyển động được tạo ra bởi làn gió nhẹ buổi chiều tối.
-
-#### 📝 Prompt
-
-```
-Người phụ nữ xinh đẹp đứng trên ban công đầy nắng với những bông hoa rực rỡ và các giỏ hoa fuchsia treo lơ lửng, trong khi làn gió nhẹ buổi chiều tối thổi bay chiếc váy và khăn choàng của cô ấy
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7e43143acd971edba9045b41ac98885e/thumbnails/thumbnail.jpg" width="600" alt="Người phụ nữ trên ban công trong khung cảnh lộng gió">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3392)**
-
-**Author:** [Carry Robey](https://x.com/carry_robey) | **Source:** [Link](https://x.com/carry_robey/status/2046011588130509077) | **Published:** Apr 19, 2026
-
----
-### Cú nhảy của báo sư tử trong khu rừng huyền bí
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một đoạn gợi ý video mô tả cảnh báo sư tử nhảy qua những chú bướm phát sáng trong khung cảnh rừng huyền bí, đầy sương mù.
-
-#### 📝 Prompt
-
-```
-Giữa trung tâm sương mù của một khu rừng huyền bí, một chú báo sư tử bóng mượt nhảy một cách duyên dáng qua những cánh bướm phát sáng, thân hình mạnh mẽ của nó nổi bật trên nền những bóng cây thì thầm. Một vẻ đẹp ma thuật hoang dã thuần khiết đang chuyển động.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b97c2d564439c33cd89fe909d9443e2e/thumbnails/thumbnail.jpg" width="600" alt="Cú nhảy của báo sư tử trong khu rừng huyền bí">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3405)**
-
-**Author:** [A Dogs Life](https://x.com/K9Dirk) | **Source:** [Link](https://x.com/K9Dirk/status/2046007076741329167) | **Published:** Apr 19, 2026
-
----
-### Khung cảnh vũ trụ siêu thực
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) cho khung cảnh bầu trời đêm huyền bí và mang hơi hướng thiên thể, với nhân vật trung tâm cùng các hình khối thanh tao.
-
-#### 📝 Prompt
-
-```
-Một khung cảnh vũ trụ siêu thực với nhân vật huyền bí ở trung tâm và các hình khối thanh tao giữa bầu trời đêm đầy sao.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/57add58836a492b9c5ef56ddb9cec2f2/thumbnails/thumbnail.jpg" width="600" alt="Khung cảnh vũ trụ siêu thực">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3389)**
-
-**Author:** [Kadriye G.](https://x.com/kadriyegms11) | **Source:** [Link](https://x.com/kadriyegms11/status/2046002768310145120) | **Published:** Apr 19, 2026
-
----
-### Gợi ý video về khung cảnh rừng kỳ ảo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý để tạo video thanh bình về khu rừng kỳ ảo với những hàng cây xanh tốt, rêu phong và các gốc cây.
-
-#### 📝 Prompt
-
-```
-khung cảnh rừng kỳ ảo với những hàng cây lá xanh tốt và một vài cây đang nở hoa, rêu phong và một gốc cây....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fe0adc1c9b923acfc6c5c82e16180320/thumbnails/thumbnail.jpg" width="600" alt="Gợi ý video về khung cảnh rừng kỳ ảo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3393)**
-
-**Author:** [The Walking Talking Glitch](https://x.com/Anomaly_Glitch) | **Source:** [Link](https://x.com/Anomaly_Glitch/status/2045987765787988150) | **Published:** Apr 19, 2026
-
----
-### Nguyên tố Nước trỗi dậy từ những con sóng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh VFX hoành tráng mô tả sinh vật nguyên tố nước đang hình thành từ đại dương với các chuyển động camera cụ thể.
-
-#### 📝 Prompt
-
-```
-Một nguyên tố nước khổng lồ trỗi dậy từ con sóng vỗ trên bờ biển đầy giông bão. Cảnh quay bắt đầu với một con sóng lớn cuộn về phía bãi biển. Chuyển động Camera: Bắt đầu bằng việc theo dõi tầm thấp dọc theo mặt nước, sau đó vòng lên trên để lộ ra sinh vật đang hình thành từ bọt nước. Kết thúc bằng cú lùi máy đầy kịch tính cho thấy toàn bộ hình dáng to lớn sừng sững trên đại dương. Ánh sáng: Trời nhiều mây với ánh sáng viền mạnh, những tia sáng lấp lánh trên bọt nước, và những tia chớp từ xa. Phong cách: VFX quy mô hoành tráng, mô phỏng đại dương chân thực, hiệu ứng giông bão, chuyển động dựa trên động lực học chất lưu.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/61d1ff285bdbcf82b6d451834944c3ea/thumbnails/thumbnail.jpg" width="600" alt="Nguyên tố Nước trỗi dậy từ những con sóng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3387)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2045966719227662413) | **Published:** Apr 19, 2026
-
----
-### Người lướt sóng và cá heo trong con sóng ống
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh hành động năng động cho video lướt sóng với sự xuất hiện của những chú cá heo.
-
-#### 📝 Prompt
-
-```
-Hãy tạo ra một con sóng ống lớn và người lướt sóng vượt qua nó một cách hoàn hảo khi những chú cá heo cùng tham gia vào đợt sóng ....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/946fe0651cb449f0bcf3b1fa97026355/thumbnails/thumbnail.jpg" width="600" alt="Người lướt sóng và cá heo trong con sóng ống">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3388)**
-
-**Author:** [mike lecavalier](https://x.com/anthracnose) | **Source:** [Link](https://x.com/anthracnose/status/2045956959484916043) | **Published:** Apr 19, 2026
-
----
-### Câu lệnh tạo video phóng tên lửa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh dành cho Grok Imagine để chuyển đổi ý tưởng về động cơ kép thành một tên lửa mạnh mẽ đang bay tới Sao Hỏa.
-
-#### 📝 Prompt
-
-```
-2 động cơ ở phía trước và phía sau 
-
-Hãy lấy ý tưởng này và biến nó thành một tên lửa khổng lồ đủ mạnh để bay với tốc độ nhanh tới Sao Hỏa
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b5fb6f3b993acc71a9f37e01d635980d/thumbnails/thumbnail.jpg" width="600" alt="Câu lệnh tạo video phóng tên lửa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3404)**
-
-**Author:** [Jessica Longo](https://x.com/Jessica39627125) | **Source:** [Link](https://x.com/Jessica39627125/status/2045950526085317040) | **Published:** Apr 19, 2026
-
----
-### Cảnh quay bệnh viện phong cách khoa học viễn tưởng điện ảnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) video chi tiết cho cảnh quay đầy kịch tính tại bệnh viện, với sự xuất hiện của một bác sĩ và các thực thể ngoài hành tinh ở phía sau.
-
-#### 📝 Prompt
-
-```
-Video điện ảnh siêu thực, độ phân giải 8K, ánh sáng bệnh viện lạnh lẽo với hiệu ứng phát sáng khoa học viễn tưởng tinh tế, ống kính 35mm, độ tương phản bóng đổ cao, thiết kế âm thanh sống động (tiếng vo ve trầm, tiếng vang xa xăm, âm thanh ngoài hành tinh tinh tế). Phân cảnh 0:00 – 0:04 Cảnh quay rộng hành lang bệnh viện yên tĩnh vào ban đêm. Đèn nhấp nháy nhẹ. Không gian mang cảm giác trống trải và căng thẳng. Một bác sĩ điềm tĩnh bước dọc hành lang, tay cầm hồ sơ và xem xét trong khi di chuyển về phía trước một cách tự nhiên. 0:04 – 0:08 Cảnh quay trung từ phía trước. Bác sĩ tiếp tục bước đi, tập trung và chuyên nghiệp. Ở phía sau (chỉ rõ ràng phía sau bác sĩ), một sự biến dạng mờ nhạt xuất hiện trong không khí giống như những gợn sóng nhiệt, dần hình thành một hình dáng giống con người. 0:08 – 0:12 Chuyển sang góc quay từ phía sau. Lúc này sự hiện diện của người ngoài hành tinh trở nên rõ ràng hơn: 2 thực thể ngoài hành tinh cao, mảnh khảnh, bán trong suốt xuất hiện từ bóng tối phía sau bác sĩ. Chúng di chuyển chậm rãi và im lặng, giữ khoảng cách. Quan trọng: chúng không chạm vào, không đuổi theo và không băng qua phía trước bác sĩ. 0:12 – 0:15 Cận cảnh khuôn mặt bác sĩ khi anh khựng lại một chút, cảm nhận được điều gì đó bất thường. Anh hơi quay đầu sang một bên nhưng không quay hẳn. Chuyển lại cảnh quay rộng: người ngoài hành tinh giờ đây đã hiện rõ ở phía sau, đứng yên và quan sát. Khung hình cuối: Bác sĩ ở tiền cảnh, không hay biết nhưng cảm thấy bất an. Người ngoài hành tinh vẫn ở phía sau, im lặng và dõi theo. Chỉ dẫn quan trọng (Tránh lỗi) Bác sĩ luôn đi về phía trước bình thường (không di chuyển ngược) Người ngoài hành tinh chỉ xuất hiện phía sau bác sĩ, không bao giờ ở phía trước Không có tương tác vật lý (không tấn công, không tiếp xúc) Giữ chuyển động chậm, có kiểm soát và chân thực Duy trì tính chân thực của bệnh viện với sự xâm nhập khoa học viễn tưởng tinh tế (không dùng hiệu ứng quá đà) Tâm trạng / Cảm giác Kỳ quái, kịch tính, sự căng thẳng của phim giật gân khoa học viễn tưởng được xây dựng thông qua sự im lặng, khoảng cách và sự hiện diện thay vì hành động.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8551b7c4eef017a366beaff17263248f/thumbnails/thumbnail.jpg" width="600" alt="Cảnh quay bệnh viện phong cách khoa học viễn tưởng điện ảnh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3403)**
-
-**Author:** [Ai Doctor](https://x.com/DoctorAmna11) | **Source:** [Link](https://x.com/DoctorAmna11/status/2045930553627848795) | **Published:** Apr 19, 2026
-
----
-### Cảnh quay kịch tính tại bãi đỗ xe
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) chi tiết cho cảnh quay liền mạch, đầy kịch tính trong bãi đỗ xe.
-
-#### 📝 Prompt
-
-```
-Video điện ảnh siêu thực, độ phân giải 8K, ánh sáng tối tăm đầy tâm trạng, độ tương phản cao, ống kính 35mm, máy quay cầm tay chống rung tạo cảm giác căng thẳng, thiết kế âm thanh chân thực (tiếng vang xa, tiếng bước chân, âm thanh kim loại).
-Câu lệnh (Một khung hình liền mạch – Không cắt cảnh)
-Một bãi đỗ xe ngầm thiếu sáng vào ban đêm. Những ánh đèn huỳnh quang chập chờn đổ bóng không đều lên các cột bê tông. Không khí căng thẳng và tĩnh lặng.
-Máy quay từ từ lùi lại trong một chuyển động liền mạch, hướng về phía một người đàn ông đang bước đi thận trọng về phía máy quay. Anh ta trông cảnh giác và hơi lo lắng, nhìn xung quanh như thể cảm thấy có người đang theo dõi mình.
-Khi anh ta bước đi, những ánh đèn phía trên bắt đầu chập chờn lần lượt theo trình tự chỉ ở phía sau anh ta (quan trọng: đèn tắt dần theo hướng anh ta đã đi qua, không phải phía trước).
-Một cái bóng mờ nhạt xuất hiện thoáng qua giữa các cột trụ ở phía sau, luôn ở phía sau anh ta, không bao giờ băng qua phía trước. Người đàn ông cảm nhận được điều gì đó, dừng lại một chút và quay người nhẹ nhưng không thấy gì rõ ràng.
-Máy quay tiếp tục di chuyển lùi lại một cách mượt mà, giữ khoảng cách. Tiếng bước chân khẽ vang lên nhưng không khớp với nhịp điệu của anh ta.
-Những giây cuối cùng:
-Một ánh đèn cuối cùng chập chờn tắt phía sau anh ta, nhấn chìm một phần bãi đỗ xe vào bóng tối. Khi khung hình ổn định, một bóng người mơ hồ xuất hiện ở phía xa, ẩn khuất một phần trong bóng tối, đứng yên và quan sát.
-Chỉ dẫn quan trọng (để tránh sai sót)
-Máy quay phải duy trì một cú quay lùi liền mạch (không cắt cảnh)
-Sự hiện diện bí ẩn luôn ở phía sau người đàn ông, không bao giờ xuất hiện ở phía trước
-Ánh sáng chập chờn theo trình tự rõ ràng (từ phía sau vào bóng tối sâu hơn)
-Không có cảnh hù dọa bất ngờ (jump scare), sự căng thẳng được xây dựng thông qua chuyển động, âm thanh và bóng tối
-Người đàn ông không bao giờ chạy; anh ta vẫn thận trọng và kiểm soát
-Không khí / Cảm nhận
-Kịch tính, căng thẳng, bí ẩn, phim giật gân chậm rãi với sự bất an về tâm lý.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b5afae35349a99356d8f93c3219665d9/thumbnails/thumbnail.jpg" width="600" alt="Cảnh quay kịch tính tại bãi đỗ xe">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3396)**
-
-**Author:** [Ai Doctor](https://x.com/DoctorAmna11) | **Source:** [Link](https://x.com/DoctorAmna11/status/2045928596381057329) | **Published:** Apr 19, 2026
-
----
-### Biến hóa phong cách Jane Austen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) chi tiết để chuyển đổi video-to-video dựa trên cảnh cầu hôn trong phim Kiêu hãnh và Định kiến.
-
-#### 📝 Prompt
-
-```
-BỐI CẢNH: Cảnh cầu hôn lần hai trong buổi sáng sương mù
-
-Sử dụng ảnh của bạn cùng với câu lệnh này khi tạo video với @grok @imagine
-
-Sử dụng ảnh đã tải lên làm tham chiếu chính xác cho khuôn mặt và cơ thể. Hãy biến đổi nhân vật trong ảnh thành nhân vật từ bộ phim Kiêu hãnh và Định kiến năm 2005. Nếu người trong ảnh là nữ, hãy biến cô ấy thành Elizabeth Bennet (giống Keira Knightley). Nếu người trong ảnh là nam, hãy biến anh ấy thành Mr. Darcy (giống Matthew Macfadyen với áo sơ mi trắng mở cổ). Trong một cánh đồng nước Anh đầy sương mù vào lúc bình minh với ánh sáng vàng dịu nhẹ từ phía sau, nhân vật đứng rất gần (trán chạm nhẹ vào đối phương nếu là một cặp, hoặc trong tư thế đầy cảm xúc), ánh mắt nhìn nhau đắm đuối, bàn tay đặt lên đầy tình cảm, cỏ đẫm sương. Không gian mơ màng huyền ảo, ánh sáng khuếch tán dịu nhẹ, độ chân thực cao, bảng màu đậm chất điện ảnh giống hệt cảnh cầu hôn lần hai trong phim.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee4ed6333adf3191d0452df83f9673bb/thumbnails/thumbnail.jpg" width="600" alt="Biến hóa phong cách Jane Austen">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3397)**
-
-**Author:** [Lala](https://x.com/keepgoingAnnie) | **Source:** [Link](https://x.com/keepgoingAnnie/status/2045920296633319881) | **Published:** Apr 19, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2399,6 +2433,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-27T06:34:45.164Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-27T10:25:04.452Z</sub>
 
 </div>
