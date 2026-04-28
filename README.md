@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1258** |
+| 📝 Total Prompts | **1271** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-04-28** |
 
@@ -189,47 +189,269 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
-### Cinematic slice-of-life anime supermarket scene
+### Mystical Bioluminescent Owl Animation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed video prompt for a cinematic slice-of-life anime scene set in a supermarket at sunset, featuring three women and a teddy bear with specific movements and Japanese dialogue.
+> An intricate prompt for a high-quality digital animation of a magical owl with galaxy feathers and glowing eyes in an enchanted forest.
 
 #### 📝 Prompt
 
 ```
-A cinematic slice-of-life anime scene set in a supermarket checkout during sunset.
-
-Center: a black-haired adult woman wearing a white blouse and deep green apron with an FP1 badge, calm and slightly introspective expression.
-
-Left: a blonde woman with a gentle expression, same uniform and flower accessory.
-
-Right: a brown-haired woman with a realistic expression, same uniform and flower accessory.
-
-Front: a small teddy bear wearing a deep green apron with an FP1 badge, standing still.
-
-All characters wear matching soft flower crowns symbolizing hope.
-
-Soft pastel color palette, very thin delicate anime lineart, flat soft shading, minimal rendering, soft ambient sunset lighting, rainbow visible through the window, warm gentle atmosphere.
-
-Camera: natural eye-level, soft 45-degree angle.
-
-Very subtle micro zoom toward the center (black-haired woman) while she speaks.
-
-Dialogue (Japanese voice only):
-
-Central black-haired woman (calm adult female voice)
-
-"Before I knew it, I felt like I'd been... repeating the same day over and over."
-
-Acting: subtle facial expression, small natural movements only.
-
-IMPORTANT RULE:
-
-only the speaking character moves their mouth, all other characters keep their mouths completely closed, no lip movement for non-speaking characters
+A high-quality digital animation of a mystical, bioluminescent owl perched on a branch in a dark, enchanted forest. The owl possesses galaxy-patterned feathers and glowing blue eyes, surrounded by floating magical orbs.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0bbc798a9915c866d3a28f145bbbb324/thumbnails/thumbnail.jpg" width="600" alt="Cinematic slice-of-life anime supermarket scene">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/35d1cd881ae48d1cc26901bdcb35373b/thumbnails/thumbnail.jpg" width="600" alt="Mystical Bioluminescent Owl Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3806)**
+
+**Author:** [ahmed ibrahim](https://x.com/AhmedYasienibby) | **Source:** [Link](https://x.com/AhmedYasienibby/status/2049023673575641544) | **Published:** Apr 28, 2026
+
+---
+### Magical Galaxy Jar Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed artistic prompt for a vertical video showing a magical jar filling with cosmic elements.
+
+#### 📝 Prompt
+
+```
+A magical glass dream jar on a wooden table under moonlight, slowly filling with glowing pastel stars, soft clouds, floating hearts, and tiny galaxies, cinematic lighting, ethereal atmosphere, gentle motion, 4:5 vertical, ultra-artistic, dreamy resin aesthetic
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/58cdc3754f0f2078a29b0ae64b42dbf7/thumbnails/thumbnail.jpg" width="600" alt="Magical Galaxy Jar Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3803)**
+
+**Author:** [Jinx Loves Cats 🐾](https://x.com/JinxLovesCats) | **Source:** [Link](https://x.com/JinxLovesCats/status/2048908786098721113) | **Published:** Apr 27, 2026
+
+---
+### 360-Degree Camera Rotation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A technical instruction for Grok Imagine to execute a continuous circular camera movement.
+
+#### 📝 Prompt
+
+```
+Rotate the camera in a circle 360 degrees continuously left to right no body movement
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8c0d16ec3327ab1bb824cd9e64e6f3a8/thumbnails/thumbnail.jpg" width="600" alt="360-Degree Camera Rotation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3798)**
+
+**Author:** [Paragon](https://x.com/paragon_andy) | **Source:** [Link](https://x.com/paragon_andy/status/2048839088967504003) | **Published:** Apr 27, 2026
+
+---
+### Cinematic Corridor Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed video prompt for a cinematic sequence focusing on a character walking down a hallway with specific camera focus.
+
+#### 📝 Prompt
+
+```
+35mm bridge plate from inside the dome looking out to space. Cinema-quality establishing. 85mm telephoto corridor with gorgeous DOF compression on the airlock at the end of the hall. The way the corridor recedes, the practicals along the walls, the rim lighting on the floor panels. Empty corridor, ready to populate. ECU of boots on the corridor floor with the deep-focus pull through the hallway. the shot begins with an ECU of the woman's feet. She walks down the hallway, away from the camera, slowly, deliberately. We hear her boots on the walkway with each step.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f81bce0250a9de8e7d303f60e27efe02/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Corridor Sequence">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3802)**
+
+**Author:** [M I K E • マイケル・リックス](https://x.com/michaelricks) | **Source:** [Link](https://x.com/michaelricks/status/2048820507269575075) | **Published:** Apr 27, 2026
+
+---
+### Monochrome Underworld Ghost Train
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic monochrome video prompt depicting a vampire boarding a ghost train to the underworld.
+
+#### 📝 Prompt
+
+```
+Ghost Train in the Hell’s Underworld 1 monochrome version
+
+Vampire 6 boards the Ghost Train.
+The journey to Hell’s Underworld begins now.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8f2bf26082756c7053651cdb55081752/thumbnails/thumbnail.jpg" width="600" alt="Monochrome Underworld Ghost Train">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3804)**
+
+**Author:** [Gothicist](https://x.com/GothicistStudio) | **Source:** [Link](https://x.com/GothicistStudio/status/2048802660284010534) | **Published:** Apr 27, 2026
+
+---
+### Fake game show intro video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A grok-imagine prompt for a fictional game show introduction, featuring a logo reveal and off-screen narration context.
+
+#### 📝 Prompt
+
+```
+Appearance of the logo 'En Êtes-Vous Sur ?' then an off-camera narration: 'Look, are you sure, on Wow!' First fake game tv show on a fake specialized network.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/71ac1a17cc2775ab70eb710b753ff247/thumbnails/thumbnail.jpg" width="600" alt="Fake game show intro video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3808)**
+
+**Author:** [Alex St-Georges](https://x.com/AlexStGeorwm4t) | **Source:** [Link](https://x.com/AlexStGeorwm4t/status/2048793170683547735) | **Published:** Apr 27, 2026
+
+---
+### Poetic Speaking Portrait Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt where a character speaks a poetic line to the camera with a soft, ethereal whispering tone.
+
+#### 📝 Prompt
+
+```
+she looks at the camera and says: “I am the mirror where water kisses chrome… and dreams take form.” Tone: soft ethereal whisper, slightly echoing
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/51d791bc8cc7e8acf150b336701f2766/thumbnails/thumbnail.jpg" width="600" alt="Poetic Speaking Portrait Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3799)**
+
+**Author:** [Carolina Delgado](https://x.com/carolletta) | **Source:** [Link](https://x.com/carolletta/status/2048764291491549392) | **Published:** Apr 27, 2026
+
+---
+### Benjamin Franklin Constitutional Inquiry
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt featuring Benjamin Franklin contemplating the U.S. Constitution in his study.
+
+#### 📝 Prompt
+
+```
+Benjamin Franklin standing in his study, thoughtfully contemplating, with the following text in mind: How will future generations know what the true underlying vision of mine really was by reading the Pre-amble to the U.S. Constitution.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/96a3af7faa6cd7a3ae4a062785643f9a/thumbnails/thumbnail.jpg" width="600" alt="Benjamin Franklin Constitutional Inquiry">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3796)**
+
+**Author:** [Covenant Shield](https://x.com/Covenant_Shield) | **Source:** [Link](https://x.com/Covenant_Shield/status/2048757357224575452) | **Published:** Apr 27, 2026
+
+---
+### Jean-Jacques Rousseau AI Philosophy
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed speaking video prompt for a philosopher discussing technology and the social contract.
+
+#### 📝 Prompt
+
+```
+Make the French philosopher Rousseau thoughtfully explain in English with a distinct French accent of Bernard-Henri Lévy: To make the most of the emerging technologies assisted by AI, we need to draft a novel approach to the original Social Contract.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c0767b886b60d6f52504cbbebbf1a78f/thumbnails/thumbnail.jpg" width="600" alt="Jean-Jacques Rousseau AI Philosophy">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3797)**
+
+**Author:** [Covenant Shield](https://x.com/Covenant_Shield) | **Source:** [Link](https://x.com/Covenant_Shield/status/2048752042630340682) | **Published:** Apr 27, 2026
+
+---
+### Rousseau AI Talking Head
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Generates a video of philosopher Jean-Jacques Rousseau explaining modern social contracts in the context of AI technology.
+
+#### 📝 Prompt
+
+```
+Make the French philosopher Rousseau thoughtfully explain: To make the most of the emerging technologies assisted by AI, we need to draft a novel approach to the Social Contract.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3f9d15bd0dd11521f1454f515177c6a3/thumbnails/thumbnail.jpg" width="600" alt="Rousseau AI Talking Head">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3800)**
+
+**Author:** [Covenant Shield](https://x.com/Covenant_Shield) | **Source:** [Link](https://x.com/Covenant_Shield/status/2048746560209432867) | **Published:** Apr 27, 2026
+
+---
+### Pink Holographic Sweet Peas Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A visually rich video prompt featuring pink holographic sweet peas with shimmering petals and soft blooming light.
+
+#### 📝 Prompt
+
+```
+Pink holographic sweet peas with glitter-edged petals ✨ Soft pink light blooming around every dream.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f0c7a57570edbef706f9a0255a31259b/thumbnails/thumbnail.jpg" width="600" alt="Pink Holographic Sweet Peas Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3805)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2048739112166064635) | **Published:** Apr 27, 2026
+
+---
+### Character tongue twister challenge
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A prompt designed to make an original character perform a Japanese tongue twister with corresponding actions.
+
+#### 📝 Prompt
+
+```
+The character in the attached image is attempting a tongue twister. They say 'Kaeru pyoko pyoko mi pyoko pyoko awasete pyoko pyoko mu pyoko pyoko' twice. In the background, frogs should appear and hop along with the tongue twister.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9678ee519732203926e9b4ba476f3566/thumbnails/thumbnail.jpg" width="600" alt="Character tongue twister challenge">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3807)**
+
+**Author:** [あいらぶ＠管理人『aI Love Asmr』](https://x.com/aILoveAsmr) | **Source:** [Link](https://x.com/aILoveAsmr/status/2048622693717868775) | **Published:** Apr 27, 2026
+
+---
+### Rainy Porch Crows Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An atmospheric video prompt describing crows on a porch listening to the sound of rain.
+
+#### 📝 Prompt
+
+```
+The sound of rain on the porch roof, White crow and black crow sitting on the porch listening to the rain
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6e74e2ca33c63d5be19622a85109e857/thumbnails/thumbnail.jpg" width="600" alt="Rainy Porch Crows Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3801)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2048621756240585075) | **Published:** Apr 27, 2026
+
+---
+### Introspective sunset supermarket scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic anime scene for Grok Imagine depicting characters in a supermarket at sunset with specific dialogue and movement rules.
+
+#### 📝 Prompt
+
+```
+A cinematic slice-of-life anime scene set in a supermarket checkout during sunset. Center: a black-haired adult woman wearing a white blouse and deep green apron with an FP1 badge, calm and slightly introspective expression. Left: a blonde woman with a gentle expression, same uniform and flower accessory. Right: a brown-haired woman with a realistic expression, same uniform and flower accessory. Front: a small teddy bear wearing a deep green apron with an FP1 badge, standing still. All characters wear matching soft flower crowns symbolizing hope. Soft pastel color palette, very thin delicate anime lineart, flat soft shading, minimal rendering, soft ambient sunset lighting, rainbow visible through the window, warm gentle atmosphere. Camera: natural eye-level, soft 45-degree angle. Very subtle micro zoom toward the center (black-haired woman) while she speaks. Dialogue (Japanese voice only): Black-haired woman in the center (Calm adult female voice) 'I felt like I was repeating the same day over and over without realizing it.' Acting: subtle facial expression, small natural movements only. IMPORTANT RULE: only the speaking character moves their mouth, all other characters keep their mouths completely closed, no lip movement for non-speaking characters
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c888f5b61318fe16573902887957c340/thumbnails/thumbnail.jpg" width="600" alt="Introspective sunset supermarket scene">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3759)**
 
@@ -2045,335 +2267,6 @@ A man and a woman perform a lively La Bamba dance with joyful partner movements,
 **Author:** [Hyun Lee](https://x.com/HolyMolySakura) | **Source:** [Link](https://x.com/HolyMolySakura/status/2046690014667382958) | **Published:** Apr 21, 2026
 
 ---
-### Hip-hop samurai dance video prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A creative prompt for Grok Imagine to generate a video of samurai performing synchronized hip-hop dance moves in traditional attire.
-
-#### 📝 Prompt
-
-```
-Create a scene with five samurai performing a funny, high-energy hip-hop dance in sync. Keep their traditional samurai outfits, but contrast it with playful, exaggerated dance moves. Include goofy expressions, unexpected poses, over-the-top spins...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7b357f8a536dcc1630acf7b7b3de06ee/thumbnails/thumbnail.jpg" width="600" alt="Hip-hop samurai dance video prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3501)**
-
-**Author:** [Hyun Lee](https://x.com/HolyMolySakura) | **Source:** [Link](https://x.com/HolyMolySakura/status/2046688295141159414) | **Published:** Apr 21, 2026
-
----
-### Hawaiian hula dance motion
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A high-quality movement prompt detailing hip and arm gestures for a vibrant hula dance video.
-
-#### 📝 Prompt
-
-```
-Make the subject perform a lively, energetic Hawaiian hula dance with a confident and vibrant presence.  
-Use rhythmic hip movements, coordinated footwork, and expressive arm gestures that feel natural and full of life.  
-The motion should be bright,
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9d43737e3a9d5d0b5fd26aef51cfc1ad/thumbnails/thumbnail.jpg" width="600" alt="Hawaiian hula dance motion">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3491)**
-
-**Author:** [Hyun Lee](https://x.com/HolyMolySakura) | **Source:** [Link](https://x.com/HolyMolySakura/status/2046682188092002376) | **Published:** Apr 21, 2026
-
----
-### Elegant Hawaiian hula animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video generation prompt for creating a smooth animation of a subject performing a graceful Hawaiian hula dance.
-
-#### 📝 Prompt
-
-```
-Create a smooth and elegant animation of the subject dancing a beautiful Hawaiian hula.  
-Use gentle hip sways, soft hand waves, graceful steps, and a calm, tropical island mood.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3c8a7fe5870ac9271ba230bac5097341/thumbnails/thumbnail.jpg" width="600" alt="Elegant Hawaiian hula animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3494)**
-
-**Author:** [Hyun Lee](https://x.com/HolyMolySakura) | **Source:** [Link](https://x.com/HolyMolySakura/status/2046677403028594727) | **Published:** Apr 21, 2026
-
----
-### Scene Lock Timelapse Continuity
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A technical prompt for creating a stable timelapse video with fixed camera positioning between two image states.
-
-#### 📝 Prompt
-
-```
-SCENE LOCK: Static tripod continuity from IMAGE 3 to IMAGE 4, exact same camera position, same eye-level framing, same 35mm lens feel, same boulder wall, stump, stream, pine tree, and forge geometry. No cuts, stable scene, realistic timelapse pacing,
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1bc1d76578347a7bc321c5b56fb92045/thumbnails/thumbnail.jpg" width="600" alt="Scene Lock Timelapse Continuity">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3486)**
-
-**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2046674493758984333) | **Published:** Apr 21, 2026
-
----
-### High-status paparazzi reaction prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A complex JSON-based video prompt for a cinematic paparazzi scene with strict identity locking.
-
-#### 📝 Prompt
-
-```
-{
-  "generation_request": {
-    "meta_data": {
-      "tool": "Video",
-      "task_type": "paparazzi_controlled_luxury_reaction",
-      "version": "v2.0_NO_DROP_HIGH_STATUS"
-    },
-    "input": {
-      "mode": "image_to_video",
-      "reference_image_usage": "maximum",
-      "preserve_identity": "strict_lock",
-      "preserve_scene": true,
-      "notes": "Keep the exact same woman, outfit, drink, location, camera angle, lighting, and composition. Do not change her face or body."
-    },
-    "motion": {
-      "style": "cinematic paparazzi realism",
-      "speed": "natural real-time",
-      "camera": "subtle handheld feel only, no reframing or zoom"
-    },
-    "scene_events": {
-      "paparazzi_arrival": {
-        "action": "2-3 paparazzi photographers quickly step into frame from the sides and background",
-        "details": "they raise cameras and move closer, slightly chaotic but not blocking the subject"
-      },
-      "flash_effect": {
-        "action": "multiple camera flashes fire intermittently",
-        "details": "strong realistic light bursts reflecting on her sunglasses, skin, and outfit"
-      },
-      "subject_reaction": {
-        "action": "woman reacts with visible annoyance but controlled composure",
-        "details": "slight head turn away from cameras, subtle brow tension, lips tighten slightly, gaze becomes colder and more dominant"
-      },
-      "body_language": {
-        "action": "she continues walking forward confidently",
-        "details": "posture remains strong, shoulders stable, no panic movement, luxury attitude maintained"
-      },
-      "drink_behavior": {
-        "action": "drink remains stable in her hand",
-        "details": "minor natural hand adjustment only, no spilling, no dropping, liquid remains intact"
-      }
-    },
-    "realism_rules": {
-      "face": "no distortion, identity locked, natural micro-expressions only",
-      "body": "correct walking biomechanics, no stiffness, no warping",
-      "hands": "perfect grip, correct finger articulation",
-      "physics": "realistic movement, no exaggerated motion",
-      "lighting": "consistent ambient light + flash bursts only"
-    },
-    "performance_direction": {
-      "emotion": "annoyed but powerful, unbothered, high-status presence",
-      "energy": "controlled dominance, not reactive panic",
-      "vibe": "celebrity ignoring paparazzi, luxury confidence"
-    },
-    "duration": {
-      "length": "6-8 seconds"
-    },
-    "negative_prompt": {
-      "avoid": [
-        "drink spilling",
-        "drink dropping",
-        "panic reaction",
-        "exaggerated movement",
-        "face distortion",
-        "body deformation",
-        "extra limbs",
-        "bad hands",
-        "glitch",
-        "warping",
-        "camera zoom",
-        "scene change",
-        "cartoon motion"
-      ]
-    }
-  }
-}
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dc00c1e41b1d3cb6e95c9f30276a3f35/thumbnails/thumbnail.jpg" width="600" alt="High-status paparazzi reaction prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3482)**
-
-**Author:** [Özge Döner](https://x.com/astronomerozge1) | **Source:** [Link](https://x.com/astronomerozge1/status/2046656621414129727) | **Published:** Apr 21, 2026
-
----
-### Wall Street Journal newsroom scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A narrative prompt for a video featuring a newsman at the Wall Street Journal speaking about market plays.
-
-#### 📝 Prompt
-
-```
-A busy newspaper man at the Wall Street Journal because it says Wall Street Journal in a banner at the back of the room is saying blue horseshoe loves car. I’m telling you that’s the play.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b8d4244a3e0e2f2e3ae10a6fcb0ac595/thumbnails/thumbnail.jpg" width="600" alt="Wall Street Journal newsroom scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3493)**
-
-**Author:** [Rick March](https://x.com/CrankyRicky) | **Source:** [Link](https://x.com/CrankyRicky/status/2046652938278289552) | **Published:** Apr 21, 2026
-
----
-### Psychedelic meditation lotus video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An ethereal prompt for a meditating woman in a lotus flower on a blue sea with psychedelic accents.
-
-#### 📝 Prompt
-
-```
-Ideal wholesome psychedelic girl, ethereal stunning beautiful young woman faintly smiling while meditating comfortably inside a large golden lotus flower floating on a vast clear crisp blue sea, eyes gently open as she softly gives Namaskar directly. 
-(((💙🩵💜)))
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/11ac8d393caaa5fb444a3869882abd01/thumbnails/thumbnail.jpg" width="600" alt="Psychedelic meditation lotus video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3489)**
-
-**Author:** [Carina](https://x.com/Freehere3) | **Source:** [Link](https://x.com/Freehere3/status/2046647102437265620) | **Published:** Apr 21, 2026
-
----
-### Cinematic Ritual Action and Audio Sequence
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A sophisticated prompt for Grok Imagine that combines a detailed action sequence with synchronized orchestral audio cues for a high-production cinematic feel.
-
-#### 📝 Prompt
-
-```
-[ACTION SEQUENCE] 
-single continuous shot, audio begins playing at 0.01s mark and score fades in to cinematic shot of wizard sacrificing the watermelon slide to the gods, stunning visual effects as the watermelon floats into the air, the entire scene is overtaken by overwhelming watermelon texture at the end as the epic cinematic score reaches crescendo.  
- 
-[AUDIO - music begins playing immediately and continues throughout video perfectly synced to action sequence] 
-play the massive cinematic orchestral soundtrack with a brooding and triumphant feel, earth-shaking taiko drums rolling in the deep background, booming staccato brass sections playing a repeating descending motif, soaring multi-tracked Gregorian choir humming in heavy hall reverb, sweeping marcato string swells building dramatic tension, deep sub-bass hits acting as impact sweeteners, wide stereo imaging, immense cavernous acoustic space, Hans Zimmer-style epic gravity, 75 BPM, C Minor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a64362fe486bda3da6c4870d26e80024/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Ritual Action and Audio Sequence">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3498)**
-
-**Author:** [steve johnson](https://x.com/seeksteve) | **Source:** [Link](https://x.com/seeksteve/status/2046623332980683126) | **Published:** Apr 21, 2026
-
----
-### Coin Toss Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt describing a coin flipping in mid-air and transforming from silver to gold.
-
-#### 📝 Prompt
-
-```
-A person tossing a silver coin into the air, the coin flipping mid-air, then landing back in their open hand @grok transformed into pure shining gold
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7c54d3358ced35cbbe7b282253ac3cf7/thumbnails/thumbnail.jpg" width="600" alt="Coin Toss Transformation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3487)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2046618576086241391) | **Published:** Apr 21, 2026
-
----
-### Futuristic Titan Power Armor Warrior
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A highly detailed cinematic 8K video prompt of a female warrior in futuristic armor walking through a dystopian city.
-
-#### 📝 Prompt
-
-```
-Cinematic 9-second vertical video, surreal 8K, photorealistic 3D rendering. A powerful female warrior clad in sophisticated body-fit futuristic Titan Power Armor walks confidently toward the camera through a burning dystopian cityscape. The armor is metallic dark silver and black with glowing blue circuit lines, yellow accent lights, and glossy reflections. The helmet features a glossy black visor with intense glowing blue holographic elements inside.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/68b0dc56fa7029e64fa032168d1a515a/thumbnails/thumbnail.jpg" width="600" alt="Futuristic Titan Power Armor Warrior">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3500)**
-
-**Author:** [ぼたもち。@贖罪卿](https://x.com/botamochi8639) | **Source:** [Link](https://x.com/botamochi8639/status/2046523096597925932) | **Published:** Apr 21, 2026
-
----
-### Epic Mecha Rabbit Battle
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed cinematic prompt for a brutal battle between agile bunny-mech robots and a giant boss.
-
-#### 📝 Prompt
-
-```
-A hyper-realistic, cinematic 15-second vertical video (9:16) of an intense, brutal mech battle in a dystopian ruined cityscape at golden hour. Two small, sleek white-and-black agile rabbit-mech robots with long mechanical bunny ears, glowing orange visors, and visible female pilot faces (young East Asian woman with short black hair inside the helmet) are fighting a massive, heavily armored giant dark-gray-and-silver rabbit-mech boss. The giant mech is twice their size, battle-scarred, with glowing red eyes, exposed pistons, hydraulic cables, and heavy plating.\nDynamic action sequence:\nStarts with the giant mech towering over one small bunny-mech that is in a low combat stance on roller feet.\nFast-paced choreography: small mechs leaping, spinning kicks, rapid punches, and acrobatic dodges.\nThe giant mech brutally counters — powerful punches that create bright orange sparks and explosions on impact, devastating kicks that send the small mechs flying, slamming them into cracked concrete.\nOne small mech gets grabbed, slammed to the ground, then thrown across the dusty battlefield.\nDust clouds, flying debris, sparks, and glowing mechanical details everywhere.\nDramatic low-angle and close-up shots showing mechanical joints, glowing eyes, and facial expressions inside the helmets.\nFinal moments show the giant mech dominating, stepping over the fallen small mechs while another small mech charges from the side in a desperate last attack.\nUltra-detailed 8K CGI, photorealistic textures, cinematic lighting with strong volumetric god rays, motion blur on fast movements, subtle slow-motion on heavy impacts, gritty post-apocalyptic atmosphere, destroyed concrete buildings and rubble in background, dramatic camera work with Dutch angles and tracking shots, in the style of high-end sci-fi action films like Pacific Rim and Ghost in the Shell.\nStyle keywords: cinematic, photorealistic, ultra-detailed, dramatic lighting, mechanical detail, sparks and particle effects, intense action, emotional, gritty, epic.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7958af99429f5b256c80f7b7094509cf/thumbnails/thumbnail.jpg" width="600" alt="Epic Mecha Rabbit Battle">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3485)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2046522451379847343) | **Published:** Apr 21, 2026
-
----
-### Ultra-realistic Girl in Nature Sunset
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video generation prompt for Grok Imagine that emphasizes character consistency and realistic lighting in a nature reserve at sunset.
-
-#### 📝 Prompt
-
-```
-Maintain EXACTLY the girl's faces, expressions, and identity without any alteration — ultra-realistic, no distortions. The scene begins with a wide shot of a lush natural reserve, intense golden sunset light passing through tall trees
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee54d17a8823a68d0314bfba68fc7a6b/thumbnails/thumbnail.jpg" width="600" alt="Ultra-realistic Girl in Nature Sunset">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3502)**
-
-**Author:** [Bettis Miamis](https://x.com/ElisabeteTerro1) | **Source:** [Link](https://x.com/ElisabeteTerro1/status/2046518921713303589) | **Published:** Apr 21, 2026
-
----
-### Intense Racing Concentration
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video prompt describing a high-intensity driving scene with focused facial expressions and dynamic camera panning.
-
-#### 📝 Prompt
-
-```
-VROOM VROOM begin focus on intense stares of focussed concentration as those best friend women have complete control over their imaginary sports car hot rod camera pan in pan out
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/96423fbd2cd537ad419f033fb28f2678/thumbnails/thumbnail.jpg" width="600" alt="Intense Racing Concentration">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3497)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2046511204722467089) | **Published:** Apr 21, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2435,6 +2328,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-28T06:35:26.637Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-28T10:23:55.829Z</sub>
 
 </div>

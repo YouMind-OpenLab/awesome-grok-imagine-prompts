@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **1258** |
+| 📝 プロンプト総数 | **1271** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-04-28** |
 
@@ -189,6 +189,256 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### 幻想的な生物発光フクロウのアニメーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 魔法の森に佇む、銀河の羽と光る目を持つ魔法のフクロウを描いた、高品質なデジタルアニメーションのための緻密なプロンプトです。
+
+#### 📝 プロンプト
+
+```
+暗く幻想的な森の枝に止まる、神秘的で生物発光するフクロウの高品質なデジタルアニメーション。フクロウは銀河模様の羽と青く光る目を持ち、周囲には浮遊する魔法のオーブが漂っています。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/35d1cd881ae48d1cc26901bdcb35373b/thumbnails/thumbnail.jpg" width="600" alt="幻想的な生物発光フクロウのアニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3806)**
+
+**作者:** [ahmed ibrahim](https://x.com/AhmedYasienibby) | **ソース:** [Link](https://x.com/AhmedYasienibby/status/2049023673575641544) | **公開日:** Apr 28, 2026
+
+---
+### 魔法のギャラクシージャー動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 宇宙の要素で満たされる魔法の瓶を描いた、縦型動画用の詳細な芸術的プロンプト。
+
+#### 📝 プロンプト
+
+```
+月明かりの下、木製のテーブルに置かれた魔法のガラスの夢の瓶。パステルカラーの輝く星々、柔らかな雲、浮かぶハート、小さな銀河がゆっくりと満ちていく様子。シネマティックなライティング、幻想的な雰囲気、穏やかな動き、4:5 の縦横比、極めて芸術的、夢のようなレジンアートの美学
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/58cdc3754f0f2078a29b0ae64b42dbf7/thumbnails/thumbnail.jpg" width="600" alt="魔法のギャラクシージャー動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3803)**
+
+**作者:** [Jinx Loves Cats 🐾](https://x.com/JinxLovesCats) | **ソース:** [Link](https://x.com/JinxLovesCats/status/2048908786098721113) | **公開日:** Apr 27, 2026
+
+---
+### 360 度カメラ回転
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine が連続的な円形カメラ移動を実行するための技術的な指示。
+
+#### 📝 プロンプト
+
+```
+カメラを左から右へ 360 度連続的に円を描くように回転させる。被写体は動かさない。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8c0d16ec3327ab1bb824cd9e64e6f3a8/thumbnails/thumbnail.jpg" width="600" alt="360 度カメラ回転">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3798)**
+
+**作者:** [Paragon](https://x.com/paragon_andy) | **ソース:** [Link](https://x.com/paragon_andy/status/2048839088967504003) | **公開日:** Apr 27, 2026
+
+---
+### シネマティックな廊下のシーケンス
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> キャラクターが廊下を歩く様子に焦点を当て、特定のカメラワークを指定した、シネマティックな映像生成のための詳細なプロンプトです。
+
+#### 📝 プロンプト
+
+```
+ドームの内側から宇宙を見渡す 35mm ブリッジプレート。映画品質の確立ショット。85mm 望遠レンズで捉えた廊下、突き当たりのエアロックには美しい被写界深度の圧縮効果。廊下が奥へと続く奥行き感、壁沿いの実用的な照明、床パネルを照らすリムライト。人物を配置する前の空の廊下。廊下の床に置かれたブーツの ECU（極端なクローズアップ）から、廊下全体への深いフォーカスプル。ショットは女性の足元の ECU から始まる。彼女はカメラから遠ざかるように、ゆっくりと慎重に廊下を歩く。歩くたびに、通路に響くブーツの音が聞こえる。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f81bce0250a9de8e7d303f60e27efe02/thumbnails/thumbnail.jpg" width="600" alt="シネマティックな廊下のシーケンス">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3802)**
+
+**作者:** [M I K E • マイケル・リックス](https://x.com/michaelricks) | **ソース:** [Link](https://x.com/michaelricks/status/2048820507269575075) | **公開日:** Apr 27, 2026
+
+---
+### モノクロームの冥界ゴーストトレイン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 吸血鬼が冥界行きのゴーストトレインに乗り込む様子を描いた、映画のようなモノクローム動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+地獄の冥界を走るゴーストトレイン 1 モノクローム版
+
+吸血鬼 6 がゴーストトレインに乗り込む。
+地獄の冥界への旅が、今始まる。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8f2bf26082756c7053651cdb55081752/thumbnails/thumbnail.jpg" width="600" alt="モノクロームの冥界ゴーストトレイン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3804)**
+
+**作者:** [Gothicist](https://x.com/GothicistStudio) | **ソース:** [Link](https://x.com/GothicistStudio/status/2048802660284010534) | **公開日:** Apr 27, 2026
+
+---
+### 架空のゲーム番組のイントロ動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ロゴの登場やオフスクリーンのナレーションを含む、架空のゲーム番組のイントロ用 Grok-imagine プロンプト。
+
+#### 📝 プロンプト
+
+```
+「En Êtes-Vous Sur ?」のロゴが登場し、続いてオフカメラのナレーションが流れる：「いいか、本当に確信はあるか？ Wow で！」架空の専門ネットワークで放送される、架空のテレビゲーム番組の第一弾。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/71ac1a17cc2775ab70eb710b753ff247/thumbnails/thumbnail.jpg" width="600" alt="架空のゲーム番組のイントロ動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3808)**
+
+**作者:** [Alex St-Georges](https://x.com/AlexStGeorwm4t) | **ソース:** [Link](https://x.com/AlexStGeorwm4t/status/2048793170683547735) | **公開日:** Apr 27, 2026
+
+---
+### 詩的な語りを行うポートレートのプロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> キャラクターがカメラに向かって、柔らかく幻想的なささやき声で詩的なセリフを語るビデオプロンプトです。
+
+#### 📝 プロンプト
+
+```
+彼女はカメラを見つめてこう言います：「私は水がクロームにキスをする鏡……そして夢が形を成す場所」。トーン：柔らかく幻想的なささやき声、わずかにエコーがかかっている
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/51d791bc8cc7e8acf150b336701f2766/thumbnails/thumbnail.jpg" width="600" alt="詩的な語りを行うポートレートのプロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3799)**
+
+**作者:** [Carolina Delgado](https://x.com/carolletta) | **ソース:** [Link](https://x.com/carolletta/status/2048764291491549392) | **公開日:** Apr 27, 2026
+
+---
+### ベンジャミン・フランクリンによる憲法への考察
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 書斎でアメリカ合衆国憲法について思索にふけるベンジャミン・フランクリンを描いた、映画のようなビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+書斎に立ち、思索にふけるベンジャミン・フランクリン。彼の脳裏には次のような問いがある。「アメリカ合衆国憲法前文を読むことで、未来の世代は私の真の根本的なビジョンをどのように理解するだろうか」
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/96a3af7faa6cd7a3ae4a062785643f9a/thumbnails/thumbnail.jpg" width="600" alt="ベンジャミン・フランクリンによる憲法への考察">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3796)**
+
+**作者:** [Covenant Shield](https://x.com/Covenant_Shield) | **ソース:** [Link](https://x.com/Covenant_Shield/status/2048757357224575452) | **公開日:** Apr 27, 2026
+
+---
+### ジャン＝ジャック・ルソーの AI 哲学
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> テクノロジーと社会契約について論じる哲学者を想定した、詳細なスピーキングビデオ用プロンプト。
+
+#### 📝 プロンプト
+
+```
+フランスの哲学者ルソーが、ベルナール＝アンリ・レヴィのような独特のフランス語訛りの英語で、思慮深く語るようにしてください：「AI に支援された新たなテクノロジーを最大限に活用するためには、我々は『社会契約』に対する新しいアプローチを起草する必要がある」
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c0767b886b60d6f52504cbbebbf1a78f/thumbnails/thumbnail.jpg" width="600" alt="ジャン＝ジャック・ルソーの AI 哲学">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3797)**
+
+**作者:** [Covenant Shield](https://x.com/Covenant_Shield) | **ソース:** [Link](https://x.com/Covenant_Shield/status/2048752042630340682) | **公開日:** Apr 27, 2026
+
+---
+### Rousseau AI Talking Head
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 哲学者ジャン＝ジャック・ルソーが、AI テクノロジーの文脈における現代の社会契約について解説する動画を生成します。
+
+#### 📝 プロンプト
+
+```
+フランスの哲学者ルソーに、思慮深くこう語らせましょう：「AI が支援する新興テクノロジーを最大限に活用するためには、社会契約に対する新たなアプローチを起草する必要がある」
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3f9d15bd0dd11521f1454f515177c6a3/thumbnails/thumbnail.jpg" width="600" alt="Rousseau AI Talking Head">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3800)**
+
+**作者:** [Covenant Shield](https://x.com/Covenant_Shield) | **ソース:** [Link](https://x.com/Covenant_Shield/status/2048746560209432867) | **公開日:** Apr 27, 2026
+
+---
+### ピンク色のホログラフィックなスイートピーの動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> きらめく花びらと柔らかな光に包まれて咲く、ピンク色のホログラフィックなスイートピーを描いた視覚的に豊かな動画プロンプトです。
+
+#### 📝 プロンプト
+
+```
+きらめく縁取りの花びらを持つ、ピンク色のホログラフィックなスイートピー ✨ 夢のような柔らかなピンクの光が、花びらの周りでふわりと咲き誇ります。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f0c7a57570edbef706f9a0255a31259b/thumbnails/thumbnail.jpg" width="600" alt="ピンク色のホログラフィックなスイートピーの動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3805)**
+
+**作者:** [Stella 𝕏](https://x.com/StellaGrokStar) | **ソース:** [Link](https://x.com/StellaGrokStar/status/2048739112166064635) | **公開日:** Apr 27, 2026
+
+---
+### キャラクター早口言葉チャレンジ
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> オリジナルキャラクターに日本語の早口言葉を、対応するアクション付きで披露させるためのプロンプトです。
+
+#### 📝 プロンプト
+
+```
+添付画像のキャラクターが早口言葉に挑戦します。「カエルぴょこぴょこ三ぴょこぴょこ合わせてぴょこぴょこ六ぴょこぴょこ」と 2 回繰り返してください。背景にはカエルを登場させ、早口言葉に合わせてぴょこぴょこと跳ねさせてください。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9678ee519732203926e9b4ba476f3566/thumbnails/thumbnail.jpg" width="600" alt="キャラクター早口言葉チャレンジ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3807)**
+
+**作者:** [あいらぶ＠管理人『aI Love Asmr』](https://x.com/aILoveAsmr) | **ソース:** [Link](https://x.com/aILoveAsmr/status/2048622693717868775) | **公開日:** Apr 27, 2026
+
+---
+### 雨の縁側とカラスの情景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 縁側で雨音を聞くカラスを描写した、雰囲気のある動画用プロンプトです。
+
+#### 📝 プロンプト
+
+```
+縁側の屋根を叩く雨の音。白いカラスと黒いカラスが縁側に座り、雨音に耳を傾けている
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6e74e2ca33c63d5be19622a85109e857/thumbnails/thumbnail.jpg" width="600" alt="雨の縁側とカラスの情景">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3801)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2048621756240585075) | **公開日:** Apr 27, 2026
+
+---
 ### 映画のような日常系アニメのスーパーマーケットのシーン
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -229,7 +479,7 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 話しているキャラクターのみが口を動かし、他のすべてのキャラクターは口を完全に閉じたままにすること。話していないキャラクターのリップシンクは禁止。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0bbc798a9915c866d3a28f145bbbb324/thumbnails/thumbnail.jpg" width="600" alt="映画のような日常系アニメのスーパーマーケットのシーン">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c888f5b61318fe16573902887957c340/thumbnails/thumbnail.jpg" width="600" alt="映画のような日常系アニメのスーパーマーケットのシーン">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3759)**
 
@@ -2047,343 +2297,6 @@ The White Stripes のミュージックビデオのスタイルで、赤い雨�
 **作者:** [Hyun Lee](https://x.com/HolyMolySakura) | **ソース:** [Link](https://x.com/HolyMolySakura/status/2046690014667382958) | **公開日:** Apr 21, 2026
 
 ---
-### ヒップホップ侍ダンスの動画生成プロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine を使用して、伝統的な装束を身にまとった侍たちがシンクロしてヒップホップダンスを踊る動画を生成するためのクリエイティブなプロンプトです。
-
-#### 📝 プロンプト
-
-```
-5 人の侍が面白く、エネルギッシュなヒップホップダンスをシンクロして踊るシーンを作成してください。伝統的な侍の装束はそのままに、遊び心のある大げさなダンスの動きとのコントラストを強調してください。おどけた表情や予期せぬポーズ、派手なスピンなどを盛り込んでください。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7b357f8a536dcc1630acf7b7b3de06ee/thumbnails/thumbnail.jpg" width="600" alt="ヒップホップ侍ダンスの動画生成プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3501)**
-
-**作者:** [Hyun Lee](https://x.com/HolyMolySakura) | **ソース:** [Link](https://x.com/HolyMolySakura/status/2046688295141159414) | **公開日:** Apr 21, 2026
-
----
-### ハワイアン・フラダンスのモーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 活気あふれるフラダンス動画のための、腰や腕の動きを詳細に指定した高品質なムーブメントプロンプトです。
-
-#### 📝 プロンプト
-
-```
-被写体に、自信に満ちた生き生きとした雰囲気で、エネルギッシュで活気のあるハワイアン・フラダンスを踊らせてください。リズム感のある腰の動き、連動した足さばき、そして自然で生命力にあふれた表情豊かな腕のジェスチャーを取り入れてください。モーションは明るく、
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9d43737e3a9d5d0b5fd26aef51cfc1ad/thumbnails/thumbnail.jpg" width="600" alt="ハワイアン・フラダンスのモーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3491)**
-
-**作者:** [Hyun Lee](https://x.com/HolyMolySakura) | **ソース:** [Link](https://x.com/HolyMolySakura/status/2046682188092002376) | **公開日:** Apr 21, 2026
-
----
-### 優雅なハワイアンフラダンスのアニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 被写体が優雅にハワイアンフラダンスを踊る、滑らかなアニメーションを作成するための動画生成プロンプトです。
-
-#### 📝 プロンプト
-
-```
-被写体が美しいハワイアンフラダンスを踊る、滑らかで優雅なアニメーションを作成してください。 
-穏やかな腰の揺れ、柔らかな手の動き、優美なステップを取り入れ、落ち着いた南国の島の雰囲気を出してください。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3c8a7fe5870ac9271ba230bac5097341/thumbnails/thumbnail.jpg" width="600" alt="優雅なハワイアンフラダンスのアニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3494)**
-
-**作者:** [Hyun Lee](https://x.com/HolyMolySakura) | **ソース:** [Link](https://x.com/HolyMolySakura/status/2046677403028594727) | **公開日:** Apr 21, 2026
-
----
-### シーンロックによるタイムラプス連続性
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 2 つの画像状態間でカメラ位置を固定し、安定したタイムラプス動画を作成するための技術的なプロンプトです。
-
-#### 📝 プロンプト
-
-```
-SCENE LOCK: IMAGE 3 から IMAGE 4 への静止三脚による連続性。カメラ位置、アイレベルのフレーミング、35mm レンズの質感、岩壁、切り株、小川、松の木、鍛冶場の形状を完全に維持。カットなし、安定したシーン、リアルなタイムラプスのペース。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1bc1d76578347a7bc321c5b56fb92045/thumbnails/thumbnail.jpg" width="600" alt="シーンロックによるタイムラプス連続性">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3486)**
-
-**作者:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **ソース:** [Link](https://x.com/gpimpmyspace/status/2046674493758984333) | **公開日:** Apr 21, 2026
-
----
-### ハイステータスなパパラッチ対応プロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 厳格なアイデンティティ保持を伴う、映画のようなパパラッチシーンのための複雑な JSON ベースの動画生成プロンプトです。
-
-#### 📝 プロンプト
-
-```
-{
-  "generation_request": {
-    "meta_data": {
-      "tool": "Video",
-      "task_type": "paparazzi_controlled_luxury_reaction",
-      "version": "v2.0_NO_DROP_HIGH_STATUS"
-    },
-    "input": {
-      "mode": "image_to_video",
-      "reference_image_usage": "maximum",
-      "preserve_identity": "strict_lock",
-      "preserve_scene": true,
-      "notes": "女性、服装、飲み物、場所、カメラアングル、照明、構図を完全に維持すること。顔や体型を変更しないこと。"
-    },
-    "motion": {
-      "style": "cinematic paparazzi realism",
-      "speed": "natural real-time",
-      "camera": "subtle handheld feel only, no reframing or zoom"
-    },
-    "scene_events": {
-      "paparazzi_arrival": {
-        "action": "2 ～ 3 人のパパラッチがサイドや背景から素早くフレームインする",
-        "details": "カメラを構えて近づく。少し混沌としているが、被写体を遮らないこと"
-      },
-      "flash_effect": {
-        "action": "複数のカメラフラッシュが断続的に光る",
-        "details": "サングラス、肌、服装に反射するリアルで強い光のバースト"
-      },
-      "subject_reaction": {
-        "action": "女性は目に見えて不快感を示すが、冷静さを保つ",
-        "details": "カメラからわずかに顔を背け、眉間にわずかな緊張、唇を少し引き締め、視線はより冷たく支配的なものになる"
-      },
-      "body_language": {
-        "action": "彼女は自信を持って歩き続ける",
-        "details": "姿勢は力強く、肩は安定し、パニックによる動きはなく、ラグジュアリーな態度を維持する"
-      },
-      "drink_behavior": {
-        "action": "飲み物は手に持ったまま安定させる",
-        "details": "自然な手の微調整のみ。こぼしたり落としたりせず、液体もそのままの状態を維持する"
-      }
-    },
-    "realism_rules": {
-      "face": "歪みなし、アイデンティティ固定、自然な微表情のみ",
-      "body": "正しい歩行のバイオメカニクス、硬直や歪みなし",
-      "hands": "完璧なグリップ、正しい指の関節表現",
-      "physics": "リアルな動き、誇張された動作なし",
-      "lighting": "一貫した環境光とフラッシュのバーストのみ"
-    },
-    "performance_direction": {
-      "emotion": "不快だが力強く、動じない、ハイステータスな存在感",
-      "energy": "コントロールされた支配力、パニック反応ではない",
-      "vibe": "パパラッチを無視するセレブリティ、ラグジュアリーな自信"
-    },
-    "duration": {
-      "length": "6 ～ 8 秒"
-    },
-    "negative_prompt": {
-      "avoid": [
-        "drink spilling",
-        "drink dropping",
-        "panic reaction",
-        "exaggerated movement",
-        "face distortion",
-        "body deformation",
-        "extra limbs",
-        "bad hands",
-        "glitch",
-        "warping",
-        "camera zoom",
-        "scene change",
-        "cartoon motion"
-      ]
-    }
-  }
-}
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dc00c1e41b1d3cb6e95c9f30276a3f35/thumbnails/thumbnail.jpg" width="600" alt="ハイステータスなパパラッチ対応プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3482)**
-
-**作者:** [Özge Döner](https://x.com/astronomerozge1) | **ソース:** [Link](https://x.com/astronomerozge1/status/2046656621414129727) | **公開日:** Apr 21, 2026
-
----
-### ウォール・ストリート・ジャーナルのニュースルームの光景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ウォール・ストリート・ジャーナルのニュースキャスターが市場の動向について語る動画用のナラティブプロンプト。
-
-#### 📝 プロンプト
-
-```
-背景のバナーに「Wall Street Journal」と掲げられたウォール・ストリート・ジャーナルのニュースルームで、忙しそうに働くニュースキャスターが「ブルー・ホースシューがカーを愛している。言ったはずだ、それが勝負の鍵だと」と語っている。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b8d4244a3e0e2f2e3ae10a6fcb0ac595/thumbnails/thumbnail.jpg" width="600" alt="ウォール・ストリート・ジャーナルのニュースルームの光景">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3493)**
-
-**作者:** [Rick March](https://x.com/CrankyRicky) | **ソース:** [Link](https://x.com/CrankyRicky/status/2046652938278289552) | **公開日:** Apr 21, 2026
-
----
-### サイケデリックな瞑想と蓮の花の動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 青い海に浮かぶ蓮の花の中で瞑想する女性をテーマにした、幻想的なプロンプト。サイケデリックなアクセント付き。
-
-#### 📝 プロンプト
-
-```
-理想的で健全なサイケデリックな少女、広大で澄み切った青い海に浮かぶ大きな黄金の蓮の花の中で、心地よく瞑想しながら微かに微笑む、幻想的で息をのむほど美しい若い女性。目は優しく開かれ、真っ直ぐにナマステのポーズをとっている。
-(((💙🩵💜)))
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/11ac8d393caaa5fb444a3869882abd01/thumbnails/thumbnail.jpg" width="600" alt="サイケデリックな瞑想と蓮の花の動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3489)**
-
-**作者:** [Carina](https://x.com/Freehere3) | **ソース:** [Link](https://x.com/Freehere3/status/2046647102437265620) | **公開日:** Apr 21, 2026
-
----
-### シネマティックな儀式アクションとオーディオシーケンス
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 用の洗練されたプロンプトです。詳細なアクションシーケンスと同期したオーケストラ音源を組み合わせ、ハイプロダクションなシネマティック体験を実現します。
-
-#### 📝 プロンプト
-
-```
-[アクションシーケンス] 
-シングルカットの連続撮影。0.01 秒の時点でオーディオが再生開始。魔法使いが Slides のスイカを神に捧げるシネマティックなショットに合わせてスコアがフェードイン。スイカが空中に浮遊する見事な視覚効果。最後には圧倒的なスイカのテクスチャが画面全体を覆い、壮大なシネマティック・スコアがクライマックスに達する。 
- 
-[オーディオ - 音楽は即座に再生され、アクションシーケンスと完全に同期してビデオ全体を通して流れる] 
-重厚かつ勝利を感じさせる壮大なシネマティック・オーケストラ・サウンドトラック。背景で鳴り響く地響きのような太鼓のロール、繰り返される下降モチーフを奏でる力強いスタッカートのブラスセクション、深いホールリバーブの中でハミングする多重録音のグレゴリオ聖歌隊、ドラマチックな緊張感を高める弦楽器のうねり、インパクトを強調する重低音のサブベースヒット。ワイドなステレオイメージ、広大な洞窟のような音響空間。Hans Zimmer スタイルの壮大な重厚感。75 BPM、ハ短調。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a64362fe486bda3da6c4870d26e80024/thumbnails/thumbnail.jpg" width="600" alt="シネマティックな儀式アクションとオーディオシーケンス">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3498)**
-
-**作者:** [steve johnson](https://x.com/seeksteve) | **ソース:** [Link](https://x.com/seeksteve/status/2046623332980683126) | **公開日:** Apr 21, 2026
-
----
-### コイン投げの変身
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 空中で回転するコインが銀色から金色へと変化する様子を描写したプロンプト。
-
-#### 📝 プロンプト
-
-```
-人が銀色のコインを空中に投げ、コインが空中で回転し、再び開いた手に着地する瞬間に純金へと変化する @grok
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7c54d3358ced35cbbe7b282253ac3cf7/thumbnails/thumbnail.jpg" width="600" alt="コイン投げの変身">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3487)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2046618576086241391) | **公開日:** Apr 21, 2026
-
----
-### 近未来的な Titan Power Armor を纏った戦士
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 近未来的なアーマーを身に纏い、ディストピアの街を歩く女性戦士の、高精細な 8K シネマティック動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-9 秒間の縦型シネマティック動画、超現実的な 8K 、フォトリアルな 3D レンダリング。洗練された身体にフィットする近未来的な Titan Power Armor を纏った力強い女性戦士が、炎に包まれたディストピアの街並みをカメラに向かって堂々と歩いている。アーマーはメタリックなダークシルバーとブラックで、青く光る回路ライン、黄色のアクセントライト、そして光沢のある反射が特徴。ヘルメットには光沢のある黒いバイザーが備わり、その内側では青く輝くホログラフィック要素が激しく発光している。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/68b0dc56fa7029e64fa032168d1a515a/thumbnails/thumbnail.jpg" width="600" alt="近未来的な Titan Power Armor を纏った戦士">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3500)**
-
-**作者:** [ぼたもち。@贖罪卿](https://x.com/botamochi8639) | **ソース:** [Link](https://x.com/botamochi8639/status/2046523096597925932) | **公開日:** Apr 21, 2026
-
----
-### 壮絶なメカ・ラビットのバトル
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 俊敏なウサギ型メカロボットと巨大ボスとの激しい戦闘を描く、高精細なシネマティック・プロンプト。
-
-#### 📝 プロンプト
-
-```
-ディストピアと化した荒廃した都市のゴールデンアワーを舞台に、激しく残酷なメカバトルを繰り広げる 15 秒間の超リアルなシネマティック縦型動画（9:16）。白と黒の洗練された俊敏なウサギ型メカロボット 2 体は、長い機械仕掛けのウサギ耳とオレンジ色に光るバイザーを備え、ヘルメットの中には女性パイロット（黒髪のショートヘアの若い東アジア系女性）の顔が見える。対するは、彼らの 2 倍のサイズを誇る、重装甲で傷だらけの巨大なダークグレーとシルバーのウサギ型メカボス。ボスは赤く光る目、露出したピストン、油圧ケーブル、重厚な装甲を備えている。
-ダイナミックなアクションシークエンス：
-ローラーフットで低い戦闘態勢をとる小さなウサギ型メカを見下ろす巨大メカからスタート。
-テンポの速い振り付け：小さなメカによる跳躍、回転蹴り、高速パンチ、アクロバティックな回避。
-巨大メカによる容赦ない反撃：衝撃でオレンジ色の火花と爆発が散る強力なパンチ、小さなメカを吹き飛ばし、ひび割れたコンクリートに叩きつける破壊的な蹴り。
-1 体の小さなメカが掴まれ、地面に叩きつけられた後、埃っぽい戦場に投げ飛ばされる。
-至る所に舞う砂埃、飛散する破片、火花、そして光るメカのディテール。
-機械の関節、光る目、ヘルメット内の表情を捉えたドラマチックなローアングルとクローズアップショット。
-終盤、巨大メカが倒れた小さなメカを踏み越え、もう 1 体の小さなメカが捨て身の最後の攻撃を仕掛ける様子を描写。
-超高精細な 8K CGI、フォトリアルな質感、強力なボリュームライト（ゴッドレイ）によるシネマティックなライティング、高速移動時のモーションブラー、重い衝撃時の繊細なスローモーション、荒々しいポスト・アポカリプスの雰囲気、背景には破壊されたコンクリートの建物と瓦礫。ダッチアングルやトラッキングショットを駆使したドラマチックなカメラワーク。『パシフィック・リム』や『攻殻機動隊』のようなハイエンドな SF アクション映画のスタイル。
-スタイルキーワード：シネマティック、フォトリアル、超高精細、ドラマチックなライティング、メカのディテール、火花とパーティクルエフェクト、激しいアクション、エモーショナル、荒々しい、壮大。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7958af99429f5b256c80f7b7094509cf/thumbnails/thumbnail.jpg" width="600" alt="壮絶なメカ・ラビットのバトル">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3485)**
-
-**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **ソース:** [Link](https://x.com/ThoughCreator/status/2046522451379847343) | **公開日:** Apr 21, 2026
-
----
-### 自然の中の夕日に佇む超リアルな少女
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 自然保護区の夕暮れ時におけるキャラクターの一貫性とリアルな光の表現を重視した、Grok Imagine 用の動画生成プロンプトです。
-
-#### 📝 プロンプト
-
-```
-少女の顔、表情、アイデンティティを一切変更することなく正確に維持してください。超リアルで、歪みは一切禁止です。シーンは、緑豊かな自然保護区のワイドショットから始まり、背の高い木々の間から差し込む強烈な黄金色の夕日が映し出されます。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee54d17a8823a68d0314bfba68fc7a6b/thumbnails/thumbnail.jpg" width="600" alt="自然の中の夕日に佇む超リアルな少女">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3502)**
-
-**作者:** [Bettis Miamis](https://x.com/ElisabeteTerro1) | **ソース:** [Link](https://x.com/ElisabeteTerro1/status/2046518921713303589) | **公開日:** Apr 21, 2026
-
----
-### 白熱するレースへの集中
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 真剣な表情を浮かべたドライバーとダイナミックなカメラワークが特徴的な、高強度のドライビングシーンを描写するビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-ブォンブォン、親友同士の女性たちが架空のスポーツカーやホットロッドを完璧に操縦する様子に焦点を当て、真剣な眼差しを捉える。カメラはパンインとパンアウトを繰り返す。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/96423fbd2cd537ad419f033fb28f2678/thumbnails/thumbnail.jpg" width="600" alt="白熱するレースへの集中">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3497)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2046511204722467089) | **公開日:** Apr 21, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2445,6 +2358,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-04-28T06:35:33.502Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-04-28T10:23:59.380Z</sub>
 
 </div>

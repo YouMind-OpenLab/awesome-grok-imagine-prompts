@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1258** |
+| 📝 Total Prompts | **1271** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-04-28** |
 
@@ -189,6 +189,256 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Mistik Biyolüminesans Baykuş Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Büyülü bir ormanda, galaksi desenli tüylere ve parlayan gözlere sahip sihirli bir baykuşun yüksek kaliteli dijital animasyonu için hazırlanmış detaylı bir komut.
+
+#### 📝 Prompt
+
+```
+Karanlık ve büyülü bir ormanda, bir dalın üzerinde tünemiş mistik, biyolüminesans bir baykuşun yüksek kaliteli dijital animasyonu. Baykuş, galaksi desenli tüylere ve parlayan mavi gözlere sahip olup etrafı havada süzülen sihirli kürelerle çevrilidir.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/35d1cd881ae48d1cc26901bdcb35373b/thumbnails/thumbnail.jpg" width="600" alt="Mistik Biyolüminesans Baykuş Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3806)**
+
+**Author:** [ahmed ibrahim](https://x.com/AhmedYasienibby) | **Source:** [Link](https://x.com/AhmedYasienibby/status/2049023673575641544) | **Published:** Apr 28, 2026
+
+---
+### Büyülü Galaksi Kavanozu Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kozmik elementlerle dolan büyülü bir kavanozu gösteren dikey video için detaylı sanatsal komut.
+
+#### 📝 Prompt
+
+```
+Ay ışığı altında ahşap bir masa üzerinde duran büyülü cam rüya kavanozu; yavaşça parlayan pastel yıldızlar, yumuşak bulutlar, süzülen kalpler ve minik galaksilerle doluyor, sinematik aydınlatma, ruhani atmosfer, nazik hareket, 4:5 dikey, ultra sanatsal, rüya gibi reçine estetiği
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/58cdc3754f0f2078a29b0ae64b42dbf7/thumbnails/thumbnail.jpg" width="600" alt="Büyülü Galaksi Kavanozu Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3803)**
+
+**Author:** [Jinx Loves Cats 🐾](https://x.com/JinxLovesCats) | **Source:** [Link](https://x.com/JinxLovesCats/status/2048908786098721113) | **Published:** Apr 27, 2026
+
+---
+### 360 Derece Kamera Dönüşü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine'in sürekli dairesel bir kamera hareketi gerçekleştirmesi için teknik bir talimat.
+
+#### 📝 Prompt
+
+```
+Kamerayı soldan sağa doğru sürekli olarak 360 derece dairesel bir şekilde döndür, vücut hareketi olmasın
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8c0d16ec3327ab1bb824cd9e64e6f3a8/thumbnails/thumbnail.jpg" width="600" alt="360 Derece Kamera Dönüşü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3798)**
+
+**Author:** [Paragon](https://x.com/paragon_andy) | **Source:** [Link](https://x.com/paragon_andy/status/2048839088967504003) | **Published:** Apr 27, 2026
+
+---
+### Sinematik Koridor Sekansı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir karakterin belirli bir kamera odağıyla koridorda yürümesine odaklanan sinematik bir sekans için oldukça detaylı bir video istemi.
+
+#### 📝 Prompt
+
+```
+Kubbenin içinden uzaya bakan 35mm köprü plakası. Sinema kalitesinde giriş sahnesi. Koridorun sonundaki hava kilidinde muhteşem bir alan derinliği (DOF) sıkıştırmasına sahip 85mm telefoto koridor çekimi. Koridorun derinleşen yapısı, duvarlardaki pratik ışıklar, zemin panellerindeki kenar aydınlatması. Boş koridor, doldurulmaya hazır. Koridor boyunca derin odak geçişiyle botların aşırı yakın çekimi (ECU). Çekim, kadının ayaklarının aşırı yakın çekimiyle başlıyor. Yavaş ve kararlı bir şekilde, kameradan uzaklaşarak koridorda yürüyor. Her adımda botlarının yürüme yolundaki sesini duyuyoruz.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f81bce0250a9de8e7d303f60e27efe02/thumbnails/thumbnail.jpg" width="600" alt="Sinematik Koridor Sekansı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3802)**
+
+**Author:** [M I K E • マイケル・リックス](https://x.com/michaelricks) | **Source:** [Link](https://x.com/michaelricks/status/2048820507269575075) | **Published:** Apr 27, 2026
+
+---
+### Tek Renkli Yeraltı Dünyası Hayalet Treni
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir vampirin yeraltı dünyasına giden hayalet trene binişini tasvir eden sinematik, tek renkli bir video istemi.
+
+#### 📝 Prompt
+
+```
+Cehennemin Yeraltı Dünyasında Hayalet Tren 1 tek renkli versiyon
+
+Vampir 6, Hayalet Trene biniyor.
+Cehennemin Yeraltı Dünyasına yolculuk şimdi başlıyor.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8f2bf26082756c7053651cdb55081752/thumbnails/thumbnail.jpg" width="600" alt="Tek Renkli Yeraltı Dünyası Hayalet Treni">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3804)**
+
+**Author:** [Gothicist](https://x.com/GothicistStudio) | **Source:** [Link](https://x.com/GothicistStudio/status/2048802660284010534) | **Published:** Apr 27, 2026
+
+---
+### Sahte yarışma programı giriş videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Logo gösterimi ve ekran dışı anlatım bağlamını içeren, kurgusal bir yarışma programı tanıtımı için grok-imagine istemi.
+
+#### 📝 Prompt
+
+```
+'En Êtes-Vous Sur ?' logosunun görünümü ve ardından ekran dışı bir anlatım: 'Bak, emin misin, Wow'da!' Sahte bir özel kanaldaki ilk sahte televizyon yarışma programı.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/71ac1a17cc2775ab70eb710b753ff247/thumbnails/thumbnail.jpg" width="600" alt="Sahte yarışma programı giriş videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3808)**
+
+**Author:** [Alex St-Georges](https://x.com/AlexStGeorwm4t) | **Source:** [Link](https://x.com/AlexStGeorwm4t/status/2048793170683547735) | **Published:** Apr 27, 2026
+
+---
+### Şiirsel Konuşan Portre İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir karakterin kameraya yumuşak, ruhani ve fısıltılı bir tonla şiirsel bir dize söylediği video istemi.
+
+#### 📝 Prompt
+
+```
+kameraya bakar ve şöyle der: “Ben suyun kromu öptüğü aynayım… ve düşlerin biçimlendiği yer.” Ton: yumuşak, ruhani fısıltı, hafif yankılı
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/51d791bc8cc7e8acf150b336701f2766/thumbnails/thumbnail.jpg" width="600" alt="Şiirsel Konuşan Portre İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3799)**
+
+**Author:** [Carolina Delgado](https://x.com/carolletta) | **Source:** [Link](https://x.com/carolletta/status/2048764291491549392) | **Published:** Apr 27, 2026
+
+---
+### Benjamin Franklin Anayasal Sorgulaması
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Benjamin Franklin'in çalışma odasında ABD Anayasası üzerine düşündüğünü konu alan sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Benjamin Franklin çalışma odasında ayakta, derin düşüncelere dalmış bir şekilde duruyor ve aklından şu düşünceler geçiyor: Gelecek nesiller, ABD Anayasası'nın giriş bölümünü okuyarak benim asıl temel vizyonumun ne olduğunu nasıl anlayacaklar?
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/96a3af7faa6cd7a3ae4a062785643f9a/thumbnails/thumbnail.jpg" width="600" alt="Benjamin Franklin Anayasal Sorgulaması">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3796)**
+
+**Author:** [Covenant Shield](https://x.com/Covenant_Shield) | **Source:** [Link](https://x.com/Covenant_Shield/status/2048757357224575452) | **Published:** Apr 27, 2026
+
+---
+### Jean-Jacques Rousseau Yapay Zeka Felsefesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Teknoloji ve toplum sözleşmesini tartışan bir filozof için hazırlanmış detaylı bir konuşma videosu istemi.
+
+#### 📝 Prompt
+
+```
+Fransız filozof Rousseau'nun, Bernard-Henri Lévy'nin belirgin Fransız aksanıyla İngilizce olarak düşünceli bir şekilde şunları açıklamasını sağlayın: Yapay zeka destekli gelişmekte olan teknolojilerden en iyi şekilde yararlanmak için, orijinal Toplum Sözleşmesi'ne yeni bir yaklaşım tasarlamamız gerekiyor.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c0767b886b60d6f52504cbbebbf1a78f/thumbnails/thumbnail.jpg" width="600" alt="Jean-Jacques Rousseau Yapay Zeka Felsefesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3797)**
+
+**Author:** [Covenant Shield](https://x.com/Covenant_Shield) | **Source:** [Link](https://x.com/Covenant_Shield/status/2048752042630340682) | **Published:** Apr 27, 2026
+
+---
+### Rousseau AI Konuşan Kafa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Filozof Jean-Jacques Rousseau'nun modern sosyal sözleşmeleri AI teknolojisi bağlamında açıkladığı bir video oluşturur.
+
+#### 📝 Prompt
+
+```
+Fransız filozof Rousseau'nun düşünceli bir şekilde şunu açıklamasını sağlayın: AI destekli gelişmekte olan teknolojilerden en iyi şekilde yararlanmak için, Sosyal Sözleşme'ye yeni bir yaklaşım getirmemiz gerekiyor.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3f9d15bd0dd11521f1454f515177c6a3/thumbnails/thumbnail.jpg" width="600" alt="Rousseau AI Konuşan Kafa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3800)**
+
+**Author:** [Covenant Shield](https://x.com/Covenant_Shield) | **Source:** [Link](https://x.com/Covenant_Shield/status/2048746560209432867) | **Published:** Apr 27, 2026
+
+---
+### Pembe Holografik Bezelye Çiçeği Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Işıltılı taç yaprakları ve yumuşak çiçek açan ışığıyla pembe holografik bezelye çiçeklerini içeren görsel açıdan zengin bir video istemi.
+
+#### 📝 Prompt
+
+```
+Glitter kenarlı taç yapraklarıyla pembe holografik bezelye çiçekleri ✨ Her hayalin etrafında çiçek açan yumuşak pembe ışık.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f0c7a57570edbef706f9a0255a31259b/thumbnails/thumbnail.jpg" width="600" alt="Pembe Holografik Bezelye Çiçeği Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3805)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2048739112166064635) | **Published:** Apr 27, 2026
+
+---
+### Karakter tekerleme meydan okuması
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Orijinal bir karakterin, eşlik eden hareketlerle birlikte Japonca bir tekerleme söylemesini sağlamak için tasarlanmış bir komut.
+
+#### 📝 Prompt
+
+```
+Ekli görseldeki karakter bir tekerleme söylemeye çalışıyor. 'Kaeru pyoko pyoko mi pyoko pyoko awasete pyoko pyoko mu pyoko pyoko' cümlesini iki kez söylüyor. Arka planda kurbağalar belirmeli ve tekerlemeye eşlik ederek zıplamalı.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9678ee519732203926e9b4ba476f3566/thumbnails/thumbnail.jpg" width="600" alt="Karakter tekerleme meydan okuması">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3807)**
+
+**Author:** [あいらぶ＠管理人『aI Love Asmr』](https://x.com/aILoveAsmr) | **Source:** [Link](https://x.com/aILoveAsmr/status/2048622693717868775) | **Published:** Apr 27, 2026
+
+---
+### Yağmurlu Veranda Karga Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Verandada yağmur sesini dinleyen kargaları betimleyen atmosferik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Veranda çatısındaki yağmur sesi, verandada oturup yağmuru dinleyen beyaz karga ve siyah karga
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6e74e2ca33c63d5be19622a85109e857/thumbnails/thumbnail.jpg" width="600" alt="Yağmurlu Veranda Karga Sahnesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3801)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2048621756240585075) | **Published:** Apr 27, 2026
+
+---
 ### Sinematik yaşamdan kesitler sunan anime süpermarket sahnesi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -229,7 +479,7 @@ Oyunculuk: Hafif yüz ifadesi, sadece küçük ve doğal hareketler.
 Sadece konuşan karakterin ağzı hareket eder, diğer tüm karakterlerin ağızları tamamen kapalı kalır, konuşmayan karakterler için dudak hareketi yoktur
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0bbc798a9915c866d3a28f145bbbb324/thumbnails/thumbnail.jpg" width="600" alt="Sinematik yaşamdan kesitler sunan anime süpermarket sahnesi">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c888f5b61318fe16573902887957c340/thumbnails/thumbnail.jpg" width="600" alt="Sinematik yaşamdan kesitler sunan anime süpermarket sahnesi">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3759)**
 
@@ -2044,343 +2294,6 @@ Bir erkek ve bir kadın, neşeli partner hareketleriyle canlı bir La Bamba dans
 **Author:** [Hyun Lee](https://x.com/HolyMolySakura) | **Source:** [Link](https://x.com/HolyMolySakura/status/2046690014667382958) | **Published:** Apr 21, 2026
 
 ---
-### Hip-hop samuray dansı video istemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Geleneksel kıyafetleriyle senkronize hip-hop dansı yapan samurayların videosunu oluşturmak için Grok Imagine'e yönelik yaratıcı bir istem.
-
-#### 📝 Prompt
-
-```
-Beş samurayın eğlenceli ve yüksek enerjili bir hip-hop dansını senkronize bir şekilde gerçekleştirdiği bir sahne oluşturun. Geleneksel samuray kıyafetlerini koruyun ancak bunu oyuncu ve abartılı dans hareketleriyle zıtlaştırın. Komik ifadeler, beklenmedik pozlar ve sıra dışı dönüşler ekleyin...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7b357f8a536dcc1630acf7b7b3de06ee/thumbnails/thumbnail.jpg" width="600" alt="Hip-hop samuray dansı video istemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3501)**
-
-**Author:** [Hyun Lee](https://x.com/HolyMolySakura) | **Source:** [Link](https://x.com/HolyMolySakura/status/2046688295141159414) | **Published:** Apr 21, 2026
-
----
-### Hawaii hula dansı hareketi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Canlı bir hula dansı videosu için kalça ve kol hareketlerini detaylandıran yüksek kaliteli bir hareket istemi.
-
-#### 📝 Prompt
-
-```
-Öznenin kendinden emin ve canlı bir duruşla, hareketli ve enerjik bir Hawaii hula dansı yapmasını sağlayın. Ritmik kalça hareketleri, uyumlu ayak oyunları ve doğal, hayat dolu görünen etkileyici kol hareketleri kullanın. Hareket parlak olmalı,
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9d43737e3a9d5d0b5fd26aef51cfc1ad/thumbnails/thumbnail.jpg" width="600" alt="Hawaii hula dansı hareketi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3491)**
-
-**Author:** [Hyun Lee](https://x.com/HolyMolySakura) | **Source:** [Link](https://x.com/HolyMolySakura/status/2046682188092002376) | **Published:** Apr 21, 2026
-
----
-### Zarif Hawaii hula animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Zarif bir Hawaii hula dansı yapan bir öznenin akıcı animasyonunu oluşturmak için bir video üretim istemi.
-
-#### 📝 Prompt
-
-```
-Öznenin güzel bir Hawaii hulası yaptığı akıcı ve zarif bir animasyon oluşturun. 
-Hafif kalça salınımları, yumuşak el hareketleri, zarif adımlar ve sakin, tropikal bir ada atmosferi kullanın.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3c8a7fe5870ac9271ba230bac5097341/thumbnails/thumbnail.jpg" width="600" alt="Zarif Hawaii hula animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3494)**
-
-**Author:** [Hyun Lee](https://x.com/HolyMolySakura) | **Source:** [Link](https://x.com/HolyMolySakura/status/2046677403028594727) | **Published:** Apr 21, 2026
-
----
-### Sahne Kilidi Hızlandırılmış Çekim Sürekliliği
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> İki görüntü durumu arasında sabit kamera konumu ile kararlı bir hızlandırılmış çekim (timelapse) videosu oluşturmaya yönelik teknik bir komut.
-
-#### 📝 Prompt
-
-```
-SAHNE KİLİDİ: GÖRÜNTÜ 3'ten GÖRÜNTÜ 4'e sabit tripod sürekliliği, tamamen aynı kamera konumu, aynı göz hizası kadrajı, aynı 35mm lens hissi, aynı kaya duvarı, kütük, dere, çam ağacı ve ocak geometrisi. Kesinti yok, sabit sahne, gerçekçi hızlandırılmış çekim temposu,
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1bc1d76578347a7bc321c5b56fb92045/thumbnails/thumbnail.jpg" width="600" alt="Sahne Kilidi Hızlandırılmış Çekim Sürekliliği">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3486)**
-
-**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2046674493758984333) | **Published:** Apr 21, 2026
-
----
-### Yüksek statülü paparazzi tepkisi istemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sıkı kimlik kilitleme özelliğine sahip, sinematik bir paparazzi sahnesi için karmaşık, JSON tabanlı video istemi.
-
-#### 📝 Prompt
-
-```
-{
-  "generation_request": {
-    "meta_data": {
-      "tool": "Video",
-      "task_type": "paparazzi_controlled_luxury_reaction",
-      "version": "v2.0_NO_DROP_HIGH_STATUS"
-    },
-    "input": {
-      "mode": "image_to_video",
-      "reference_image_usage": "maximum",
-      "preserve_identity": "strict_lock",
-      "preserve_scene": true,
-      "notes": "Aynı kadını, kıyafeti, içeceği, konumu, kamera açısını, ışıklandırmayı ve kompozisyonu koruyun. Yüzünü veya vücudunu değiştirmeyin."
-    },
-    "motion": {
-      "style": "cinematic paparazzi realism",
-      "speed": "natural real-time",
-      "camera": "sadece hafif el kamerası hissi, yeniden çerçeveleme veya yakınlaştırma yok"
-    },
-    "scene_events": {
-      "paparazzi_arrival": {
-        "action": "2-3 paparazzi fotoğrafçısı yanlardan ve arka plandan hızla kadraja girer",
-        "details": "kameralarını kaldırıp yaklaşırlar, hafif kaotik ancak özneyi engellemeyecek şekilde"
-      },
-      "flash_effect": {
-        "action": "birden fazla kamera flaşı aralıklı olarak patlar",
-        "details": "güneş gözlüğüne, cildine ve kıyafetine yansıyan güçlü ve gerçekçi ışık patlamaları"
-      },
-      "subject_reaction": {
-        "action": "kadın gözle görülür bir rahatsızlıkla ancak kontrollü bir soğukkanlılıkla tepki verir",
-        "details": "başını hafifçe kameralardan uzağa çevirir, kaşlarında hafif bir gerginlik, dudakları hafifçe sıkılaşır, bakışları daha soğuk ve baskın bir hal alır"
-      },
-      "body_language": {
-        "action": "kendinden emin bir şekilde yürümeye devam eder",
-        "details": "duruşu güçlü kalır, omuzlar sabit, panik hareketi yok, lüks tavrı korunur"
-      },
-      "drink_behavior": {
-        "action": "içecek elinde sabit kalır",
-        "details": "sadece küçük doğal el düzeltmeleri, dökülme yok, düşürme yok, sıvı olduğu gibi kalır"
-      }
-    },
-    "realism_rules": {
-      "face": "bozulma yok, kimlik kilitli, sadece doğal mikro ifadeler",
-      "body": "doğru yürüme biyomekaniği, sertlik yok, bükülme yok",
-      "hands": "mükemmel kavrama, doğru parmak eklemlenmesi",
-      "physics": "gerçekçi hareket, abartılı hareket yok",
-      "lighting": "tutarlı ortam ışığı + sadece flaş patlamaları"
-    },
-    "performance_direction": {
-      "emotion": "rahatsız ama güçlü, aldırışsız, yüksek statülü duruş",
-      "energy": "kontrollü baskınlık, panik tepkisi değil",
-      "vibe": "paparazzileri görmezden gelen ünlü, lüks özgüveni"
-    },
-    "duration": {
-      "length": "6-8 saniye"
-    },
-    "negative_prompt": {
-      "avoid": [
-        "içecek dökülmesi",
-        "içecek düşürülmesi",
-        "panik tepkisi",
-        "abartılı hareket",
-        "yüz bozulması",
-        "vücut deformasyonu",
-        "fazladan uzuvlar",
-        "kötü eller",
-        "aksaklık",
-        "bükülme",
-        "kamera yakınlaştırması",
-        "sahne değişimi",
-        "çizgi film hareketi"
-      ]
-    }
-  }
-}
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dc00c1e41b1d3cb6e95c9f30276a3f35/thumbnails/thumbnail.jpg" width="600" alt="Yüksek statülü paparazzi tepkisi istemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3482)**
-
-**Author:** [Özge Döner](https://x.com/astronomerozge1) | **Source:** [Link](https://x.com/astronomerozge1/status/2046656621414129727) | **Published:** Apr 21, 2026
-
----
-### Wall Street Journal haber merkezi sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Wall Street Journal'da piyasa hamleleri hakkında konuşan bir haber spikerinin yer aldığı video için anlatısal bir istem.
-
-#### 📝 Prompt
-
-```
-Arka plandaki bir pankartta Wall Street Journal yazdığı için Wall Street Journal'da çalışan yoğun bir gazeteci, 'mavi at nalı arabayı seviyor' diyor. Size söylüyorum, oyun bu.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b8d4244a3e0e2f2e3ae10a6fcb0ac595/thumbnails/thumbnail.jpg" width="600" alt="Wall Street Journal haber merkezi sahnesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3493)**
-
-**Author:** [Rick March](https://x.com/CrankyRicky) | **Source:** [Link](https://x.com/CrankyRicky/status/2046652938278289552) | **Published:** Apr 21, 2026
-
----
-### Saykodelik meditasyon lotus videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mavi bir deniz üzerindeki lotus çiçeğinde meditasyon yapan bir kadın için saykodelik dokunuşlara sahip ruhani bir komut.
-
-#### 📝 Prompt
-
-```
-İdeal, huzur verici saykodelik kız; uçsuz bucaksız, berrak ve masmavi bir denizin üzerinde yüzen büyük, altın rengi bir lotus çiçeğinin içinde rahatça meditasyon yaparken hafifçe gülümseyen, ruhani ve çarpıcı güzellikte genç bir kadın; gözleri hafifçe açık, doğrudan Namaskar selamı veriyor. 
-(((💙🩵💜)))
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/11ac8d393caaa5fb444a3869882abd01/thumbnails/thumbnail.jpg" width="600" alt="Saykodelik meditasyon lotus videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3489)**
-
-**Author:** [Carina](https://x.com/Freehere3) | **Source:** [Link](https://x.com/Freehere3/status/2046647102437265620) | **Published:** Apr 21, 2026
-
----
-### Sinematik Ritüel Aksiyon ve Ses Sekansı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için, yüksek prodüksiyonlu sinematik bir his yaratmak amacıyla detaylı bir aksiyon sekansını senkronize orkestral ses ipuçlarıyla birleştiren gelişmiş bir komut.
-
-#### 📝 Prompt
-
-```
-[AKSİYON SEKANSI] 
-tez kesintisiz çekim, ses 0.01 saniyede başlar ve müzik, büyücünün karpuz Slides'ı tanrılara kurban ettiği sinematik çekime doğru yavaşça girer; karpuz havaya yükselirken çarpıcı görsel efektler oluşur, epik sinematik müzik zirveye ulaştığında tüm sahne sonunda yoğun bir karpuz dokusuyla kaplanır. 
- 
-[SES - müzik hemen başlar ve video boyunca aksiyon sekansıyla mükemmel bir şekilde senkronize olarak devam eder] 
-derin ve zafer dolu bir hisse sahip devasa sinematik orkestral film müziğini çal, arka planda derinden gelen yeri sarsan taiko davulları, tekrarlayan alçalan bir motif çalan gürleyen staccato nefesli çalgılar, ağır salon yankısında mırıldanan yükselen çok kanallı Gregoryen korosu, dramatik gerilimi artıran süpürücü marcato yaylı çalgı yükselişleri, etkiyi güçlendiren derin sub-bass vuruşları, geniş stereo imaj, uçsuz bucaksız mağara benzeri akustik alan, Hans Zimmer tarzı epik ağırlık, 75 BPM, Do Minör.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a64362fe486bda3da6c4870d26e80024/thumbnails/thumbnail.jpg" width="600" alt="Sinematik Ritüel Aksiyon ve Ses Sekansı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3498)**
-
-**Author:** [steve johnson](https://x.com/seeksteve) | **Source:** [Link](https://x.com/seeksteve/status/2046623332980683126) | **Published:** Apr 21, 2026
-
----
-### Yazı Tura Dönüşümü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Havada dönen bir madeni paranın gümüşten altına dönüşmesini betimleyen bir komut.
-
-#### 📝 Prompt
-
-```
-Bir kişinin havaya gümüş bir para atması, paranın havada dönmesi ve ardından açık avucuna geri düşerken @grok ile saf, parlayan bir altına dönüşmesi
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7c54d3358ced35cbbe7b282253ac3cf7/thumbnails/thumbnail.jpg" width="600" alt="Yazı Tura Dönüşümü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3487)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2046618576086241391) | **Published:** Apr 21, 2026
-
----
-### Fütüristik Titan Güç Zırhlı Savaşçı
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Fütüristik bir zırh içinde distopik bir şehirde yürüyen kadın savaşçının yer aldığı, yüksek detaylı, sinematik 8K video istemi.
-
-#### 📝 Prompt
-
-```
-Sinematik 9 saniyelik dikey video, sürreal 8K, fotogerçekçi 3D render. Gelişmiş, vücuda oturan fütüristik Titan Güç Zırhı giymiş güçlü bir kadın savaşçı, yanan distopik bir şehir manzarasında kameraya doğru kendinden emin adımlarla yürüyor. Zırh, metalik koyu gümüş ve siyah renklerde olup parlayan mavi devre hatlarına, sarı vurgu ışıklarına ve parlak yansımalara sahip. Kask, içinde yoğun parlayan mavi holografik öğeler bulunan parlak siyah bir vizöre sahip.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/68b0dc56fa7029e64fa032168d1a515a/thumbnails/thumbnail.jpg" width="600" alt="Fütüristik Titan Güç Zırhlı Savaşçı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3500)**
-
-**Author:** [ぼたもち。@贖罪卿](https://x.com/botamochi8639) | **Source:** [Link](https://x.com/botamochi8639/status/2046523096597925932) | **Published:** Apr 21, 2026
-
----
-### Destansı Mekanik Tavşan Savaşı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Çevik tavşan-meka robotlar ile dev bir bölüm sonu canavarı arasındaki acımasız savaşı konu alan, son derece detaylı sinematik bir istem.
-
-#### 📝 Prompt
-
-```
-Gün batımında distopik ve yıkık bir şehir manzarasında geçen, yoğun ve acımasız bir meka savaşını konu alan, 15 saniyelik hiper gerçekçi, sinematik dikey video (9:16). Uzun mekanik tavşan kulaklarına, parlayan turuncu vizörlere ve kaskın içinde görünen kadın pilot yüzlerine (kısa siyah saçlı, genç Doğu Asyalı kadın) sahip iki küçük, şık beyaz-siyah çevik tavşan-meka robot, ağır zırhlı, devasa, koyu gri ve gümüş renkli bir tavşan-meka patronuna karşı savaşıyor. Dev meka, diğerlerinin iki katı büyüklüğünde; savaş yaralarıyla dolu, parlayan kırmızı gözlere, açıkta duran pistonlara, hidrolik kablolara ve ağır zırh plakalarına sahip.
-Dinamik aksiyon sekansı:
-Dev mekanın, tekerlekli ayakları üzerinde alçak bir savaş duruşunda olan küçük bir tavşan-mekanın üzerinde yükselmesiyle başlar.
-Hızlı tempolu koreografi: küçük mekaların zıplamaları, dönen tekmeleri, hızlı yumrukları ve akrobatik kaçışları.
-Dev meka acımasızca karşılık verir; darbe anında parlak turuncu kıvılcımlar ve patlamalar yaratan güçlü yumruklar, küçük mekaları havaya uçuran ve çatlamış betona çarpan yıkıcı tekmeler.
-Küçük mekadan biri yakalanır, yere çarpılır ve ardından tozlu savaş alanına fırlatılır.
-Her yerde toz bulutları, uçuşan enkazlar, kıvılcımlar ve parlayan mekanik detaylar.
-Mekanik eklemleri, parlayan gözleri ve kaskların içindeki yüz ifadelerini gösteren dramatik düşük açılı ve yakın çekimler.
-Son anlarda dev mekanın üstünlüğü görülür; düşen küçük mekaların üzerinden geçerken, başka bir küçük meka yandan umutsuz bir son saldırı için hücum eder.
-Ultra detaylı 8K CGI, fotogerçekçi dokular, güçlü hacimsel ışık hüzmeleriyle sinematik aydınlatma, hızlı hareketlerde hareket bulanıklığı, ağır darbelerde hafif ağır çekim, cesur kıyamet sonrası atmosferi, arka planda yıkılmış beton binalar ve molozlar, Dutch açıları ve takip çekimleriyle dramatik kamera çalışması; Pacific Rim ve Ghost in the Shell gibi üst düzey bilim kurgu aksiyon filmleri tarzında.
-Stil anahtar kelimeleri: sinematik, fotogerçekçi, ultra detaylı, dramatik aydınlatma, mekanik detay, kıvılcım ve parçacık efektleri, yoğun aksiyon, duygusal, cesur, destansı.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7958af99429f5b256c80f7b7094509cf/thumbnails/thumbnail.jpg" width="600" alt="Destansı Mekanik Tavşan Savaşı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3485)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2046522451379847343) | **Published:** Apr 21, 2026
-
----
-### Doğada Gün Batımında Ultra Gerçekçi Kız
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için karakter tutarlılığını ve doğa koruma alanında gün batımındaki gerçekçi ışıklandırmayı vurgulayan bir video oluşturma istemi.
-
-#### 📝 Prompt
-
-```
-Kızın yüzünü, ifadelerini ve kimliğini hiçbir değişiklik yapmadan TAM OLARAK koruyun — ultra gerçekçi, bozulma yok. Sahne, yemyeşil bir doğa koruma alanının geniş açılı çekimiyle başlar, yoğun altın rengi gün batımı ışığı uzun ağaçların arasından süzülür
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee54d17a8823a68d0314bfba68fc7a6b/thumbnails/thumbnail.jpg" width="600" alt="Doğada Gün Batımında Ultra Gerçekçi Kız">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3502)**
-
-**Author:** [Bettis Miamis](https://x.com/ElisabeteTerro1) | **Source:** [Link](https://x.com/ElisabeteTerro1/status/2046518921713303589) | **Published:** Apr 21, 2026
-
----
-### Yoğun Yarış Konsantrasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Odaklanmış yüz ifadeleri ve dinamik kamera hareketleriyle yüksek yoğunluklu bir sürüş sahnesini betimleyen video istemi.
-
-#### 📝 Prompt
-
-```
-VROOM VROOM başlasın, en yakın arkadaş olan kadınlar hayali spor arabalarının direksiyonunda tam kontrole sahipken odaklanmış yoğun bakışlarına odaklan, kamera yakınlaşsın ve uzaklaşsın
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/96423fbd2cd537ad419f033fb28f2678/thumbnails/thumbnail.jpg" width="600" alt="Yoğun Yarış Konsantrasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3497)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2046511204722467089) | **Published:** Apr 21, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2442,6 +2355,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-28T06:35:57.342Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-28T10:24:17.181Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1258** |
+| 📝 Total Prompts | **1271** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-04-28** |
 
@@ -189,6 +189,256 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### रहस्यमयी बायो-ल्यूमिनेसेंट उल्लू एनीमेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक जादुई उल्लू के उच्च-गुणवत्ता वाले डिजिटल एनीमेशन के लिए एक विस्तृत प्रॉम्प्ट, जिसमें गैलेक्सी पंख और एक मंत्रमुग्ध जंगल में चमकती आँखें दिखाई गई हैं।
+
+#### 📝 Prompt
+
+```
+एक अंधेरे, मंत्रमुग्ध जंगल में शाखा पर बैठे एक रहस्यमयी, बायो-ल्यूमिनेसेंट उल्लू का उच्च-गुणवत्ता वाला डिजिटल एनीमेशन। उल्लू के पंख गैलेक्सी पैटर्न वाले हैं और उसकी आँखें नीली चमक रही हैं, साथ ही वह तैरते हुए जादुई ओर्ब्स (orbs) से घिरा हुआ है।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/35d1cd881ae48d1cc26901bdcb35373b/thumbnails/thumbnail.jpg" width="600" alt="रहस्यमयी बायो-ल्यूमिनेसेंट उल्लू एनीमेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3806)**
+
+**Author:** [ahmed ibrahim](https://x.com/AhmedYasienibby) | **Source:** [Link](https://x.com/AhmedYasienibby/status/2049023673575641544) | **Published:** Apr 28, 2026
+
+---
+### मैजिकल गैलेक्सी जार वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक जादुई जार के ब्रह्मांडीय तत्वों से भरने का दृश्य दिखाने वाले वर्टिकल वीडियो के लिए एक विस्तृत कलात्मक प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+चांदनी में लकड़ी की मेज पर रखा एक जादुई कांच का ड्रीम जार, जो धीरे-धीरे चमकते पेस्टल सितारों, नरम बादलों, तैरते दिलों और छोटी आकाशगंगाओं से भर रहा है, सिनेमाई लाइटिंग, ईथरियल वातावरण, धीमी गति, 4:5 वर्टिकल, अल्ट्रा-आर्टिस्टिक, स्वप्निल रेजिन एस्थेटिक
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/58cdc3754f0f2078a29b0ae64b42dbf7/thumbnails/thumbnail.jpg" width="600" alt="मैजिकल गैलेक्सी जार वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3803)**
+
+**Author:** [Jinx Loves Cats 🐾](https://x.com/JinxLovesCats) | **Source:** [Link](https://x.com/JinxLovesCats/status/2048908786098721113) | **Published:** Apr 27, 2026
+
+---
+### 360-डिग्री कैमरा रोटेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक तकनीकी निर्देश, जो निरंतर गोलाकार कैमरा मूवमेंट को निष्पादित करने के लिए है।
+
+#### 📝 Prompt
+
+```
+कैमरे को बाएं से दाएं निरंतर 360 डिग्री के घेरे में घुमाएं, बिना किसी शारीरिक हलचल के
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8c0d16ec3327ab1bb824cd9e64e6f3a8/thumbnails/thumbnail.jpg" width="600" alt="360-डिग्री कैमरा रोटेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3798)**
+
+**Author:** [Paragon](https://x.com/paragon_andy) | **Source:** [Link](https://x.com/paragon_andy/status/2048839088967504003) | **Published:** Apr 27, 2026
+
+---
+### सिनेमैटिक कॉरिडोर सीक्वेंस
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सिनेमैटिक सीक्वेंस के लिए अत्यधिक विस्तृत वीडियो प्रॉम्प्ट, जिसमें एक पात्र के गलियारे में चलने और विशिष्ट कैमरा फोकस पर ध्यान केंद्रित किया गया है।
+
+#### 📝 Prompt
+
+```
+डोम के अंदर से बाहर अंतरिक्ष की ओर देखती 35mm ब्रिज प्लेट। सिनेमा-क्वालिटी एस्टेब्लिशिंग शॉट। 85mm टेलीफोटो कॉरिडोर, जिसमें हॉल के अंत में एयरलॉक पर शानदार DOF कम्प्रेशन है। गलियारे के पीछे हटने का तरीका, दीवारों के साथ लगी प्रैक्टिकल लाइट्स, फर्श के पैनलों पर रिम लाइटिंग। खाली गलियारा, लोगों को शामिल करने के लिए तैयार। गलियारे के फर्श पर जूतों का ECU, जिसमें हॉलवे के माध्यम से डीप-फोकस पुल है। शॉट की शुरुआत महिला के पैरों के ECU से होती है। वह गलियारे में कैमरे से दूर, धीरे-धीरे और जानबूझकर चलती है। हम हर कदम के साथ वॉकवे पर उसके जूतों की आवाज़ सुनते हैं।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f81bce0250a9de8e7d303f60e27efe02/thumbnails/thumbnail.jpg" width="600" alt="सिनेमैटिक कॉरिडोर सीक्वेंस">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3802)**
+
+**Author:** [M I K E • マイケル・リックス](https://x.com/michaelricks) | **Source:** [Link](https://x.com/michaelricks/status/2048820507269575075) | **Published:** Apr 27, 2026
+
+---
+### मोनोक्रोम अंडरवर्ल्ड घोस्ट ट्रेन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सिनेमैटिक मोनोक्रोम वीडियो प्रॉम्प्ट, जिसमें एक वैम्पायर को अंडरवर्ल्ड जाने वाली घोस्ट ट्रेन में चढ़ते हुए दिखाया गया है।
+
+#### 📝 Prompt
+
+```
+हेल्स अंडरवर्ल्ड में घोस्ट ट्रेन 1 मोनोक्रोम संस्करण
+
+वैम्पायर 6 घोस्ट ट्रेन में सवार होता है।
+हेल्स अंडरवर्ल्ड की यात्रा अब शुरू होती है।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8f2bf26082756c7053651cdb55081752/thumbnails/thumbnail.jpg" width="600" alt="मोनोक्रोम अंडरवर्ल्ड घोस्ट ट्रेन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3804)**
+
+**Author:** [Gothicist](https://x.com/GothicistStudio) | **Source:** [Link](https://x.com/GothicistStudio/status/2048802660284010534) | **Published:** Apr 27, 2026
+
+---
+### नकली गेम शो का इंट्रो वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक काल्पनिक गेम शो की शुरुआत के लिए grok-imagine प्रॉम्प्ट, जिसमें लोगो रिवील और ऑफ-स्क्रीन नैरेशन का संदर्भ शामिल है।
+
+#### 📝 Prompt
+
+```
+'En Êtes-Vous Sur ?' लोगो का दिखना और फिर ऑफ-कैमरा नैरेशन: 'देखो, क्या तुम सुनिश्चित हो, Wow पर!' एक नकली विशेष नेटवर्क पर पहला नकली टीवी गेम शो।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/71ac1a17cc2775ab70eb710b753ff247/thumbnails/thumbnail.jpg" width="600" alt="नकली गेम शो का इंट्रो वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3808)**
+
+**Author:** [Alex St-Georges](https://x.com/AlexStGeorwm4t) | **Source:** [Link](https://x.com/AlexStGeorwm4t/status/2048793170683547735) | **Published:** Apr 27, 2026
+
+---
+### काव्यात्मक स्पीकिंग पोर्ट्रेट प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वीडियो प्रॉम्प्ट जिसमें एक पात्र कैमरे के सामने धीमी, अलौकिक फुसफुसाहट वाली आवाज़ में एक काव्यात्मक पंक्ति बोलता है।
+
+#### 📝 Prompt
+
+```
+वह कैमरे की ओर देखती है और कहती है: “मैं वह दर्पण हूँ जहाँ पानी क्रोम को चूमता है… और सपने आकार लेते हैं।” टोन: धीमी अलौकिक फुसफुसाहट, हल्की गूँज के साथ
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/51d791bc8cc7e8acf150b336701f2766/thumbnails/thumbnail.jpg" width="600" alt="काव्यात्मक स्पीकिंग पोर्ट्रेट प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3799)**
+
+**Author:** [Carolina Delgado](https://x.com/carolletta) | **Source:** [Link](https://x.com/carolletta/status/2048764291491549392) | **Published:** Apr 27, 2026
+
+---
+### बेंजामिन फ्रैंकलिन संवैधानिक पूछताछ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सिनेमाई वीडियो प्रॉम्प्ट जिसमें बेंजामिन फ्रैंकलिन अपने अध्ययन कक्ष में अमेरिकी संविधान पर विचार कर रहे हैं।
+
+#### 📝 Prompt
+
+```
+बेंजामिन फ्रैंकलिन अपने अध्ययन कक्ष में खड़े होकर विचारमग्न हैं, और उनके मन में यह प्रश्न है: आने वाली पीढ़ियां अमेरिकी संविधान की प्रस्तावना (Pre-amble) को पढ़कर यह कैसे जान पाएंगी कि मेरा वास्तविक अंतर्निहित दृष्टिकोण क्या था।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/96a3af7faa6cd7a3ae4a062785643f9a/thumbnails/thumbnail.jpg" width="600" alt="बेंजामिन फ्रैंकलिन संवैधानिक पूछताछ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3796)**
+
+**Author:** [Covenant Shield](https://x.com/Covenant_Shield) | **Source:** [Link](https://x.com/Covenant_Shield/status/2048757357224575452) | **Published:** Apr 27, 2026
+
+---
+### जीन-जैक्स रूसो AI दर्शन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> प्रौद्योगिकी और सामाजिक अनुबंध पर चर्चा करने वाले एक दार्शनिक के लिए एक विस्तृत स्पीकिंग वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+फ्रांसीसी दार्शनिक रूसो को बर्नार्ड-हेनरी लेवी के विशिष्ट फ्रांसीसी लहजे के साथ अंग्रेजी में विचारपूर्वक यह समझाते हुए प्रस्तुत करें: AI द्वारा समर्थित उभरती प्रौद्योगिकियों का सर्वोत्तम लाभ उठाने के लिए, हमें मूल 'सोशल कॉन्ट्रैक्ट' (सामाजिक अनुबंध) के लिए एक नया दृष्टिकोण तैयार करने की आवश्यकता है।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c0767b886b60d6f52504cbbebbf1a78f/thumbnails/thumbnail.jpg" width="600" alt="जीन-जैक्स रूसो AI दर्शन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3797)**
+
+**Author:** [Covenant Shield](https://x.com/Covenant_Shield) | **Source:** [Link](https://x.com/Covenant_Shield/status/2048752042630340682) | **Published:** Apr 27, 2026
+
+---
+### Rousseau AI Talking Head
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> दार्शनिक Jean-Jacques Rousseau का एक वीडियो तैयार करता है, जिसमें वे AI तकनीक के संदर्भ में आधुनिक सामाजिक अनुबंधों (social contracts) की व्याख्या करते हैं।
+
+#### 📝 Prompt
+
+```
+फ्रांसीसी दार्शनिक Rousseau से विचारशील तरीके से यह कहलवाएं: AI द्वारा समर्थित उभरती प्रौद्योगिकियों का अधिकतम लाभ उठाने के लिए, हमें 'Social Contract' (सामाजिक अनुबंध) के एक नए दृष्टिकोण का मसौदा तैयार करने की आवश्यकता है।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3f9d15bd0dd11521f1454f515177c6a3/thumbnails/thumbnail.jpg" width="600" alt="Rousseau AI Talking Head">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3800)**
+
+**Author:** [Covenant Shield](https://x.com/Covenant_Shield) | **Source:** [Link](https://x.com/Covenant_Shield/status/2048746560209432867) | **Published:** Apr 27, 2026
+
+---
+### गुलाबी होलोग्राफिक स्वीट पीज़ वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक दृश्य रूप से समृद्ध वीडियो प्रॉम्प्ट जिसमें गुलाबी होलोग्राफिक स्वीट पीज़, चमकती हुई पंखुड़ियाँ और खिलती हुई हल्की रोशनी दिखाई गई है।
+
+#### 📝 Prompt
+
+```
+ग्लिटर-एज पंखुड़ियों वाले गुलाबी होलोग्राफिक स्वीट पीज़ ✨ हर सपने के चारों ओर खिलती हुई हल्की गुलाबी रोशनी।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f0c7a57570edbef706f9a0255a31259b/thumbnails/thumbnail.jpg" width="600" alt="गुलाबी होलोग्राफिक स्वीट पीज़ वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3805)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2048739112166064635) | **Published:** Apr 27, 2026
+
+---
+### कैरेक्टर टंग ट्विस्टर चैलेंज
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> एक ऐसा प्रॉम्प्ट जिसे मूल कैरेक्टर को जापानी टंग ट्विस्टर और संबंधित क्रियाएं करने के लिए डिज़ाइन किया गया है।
+
+#### 📝 Prompt
+
+```
+संलग्न छवि में मौजूद कैरेक्टर एक टंग ट्विस्टर बोलने का प्रयास कर रहा है। वे दो बार 'Kaeru pyoko pyoko mi pyoko pyoko awasete pyoko pyoko mu pyoko pyoko' कहते हैं। बैकग्राउंड में मेंढक दिखाई देने चाहिए और टंग ट्विस्टर के साथ-साथ कूदने चाहिए।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9678ee519732203926e9b4ba476f3566/thumbnails/thumbnail.jpg" width="600" alt="कैरेक्टर टंग ट्विस्टर चैलेंज">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3807)**
+
+**Author:** [あいらぶ＠管理人『aI Love Asmr』](https://x.com/aILoveAsmr) | **Source:** [Link](https://x.com/aILoveAsmr/status/2048622693717868775) | **Published:** Apr 27, 2026
+
+---
+### बरसात के बरामदे में कौओं का दृश्य
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वायुमंडलीय वीडियो प्रॉम्प्ट जो बरामदे में बारिश की आवाज़ सुन रहे कौओं का वर्णन करता है।
+
+#### 📝 Prompt
+
+```
+बरामदे की छत पर बारिश की आवाज़, बरामदे में बैठे सफेद और काले कौवे बारिश का आनंद ले रहे हैं
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6e74e2ca33c63d5be19622a85109e857/thumbnails/thumbnail.jpg" width="600" alt="बरसात के बरामदे में कौओं का दृश्य">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3801)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2048621756240585075) | **Published:** Apr 27, 2026
+
+---
 ### सिनेमैटिक स्लाइस-ऑफ-लाइफ एनीमे सुपरमार्केट सीन
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -229,7 +479,7 @@ Why use our gallery?
 केवल बोलने वाला पात्र अपना मुंह हिलाता है, बाकी सभी पात्र अपने मुंह पूरी तरह बंद रखते हैं, न बोलने वाले पात्रों के लिए कोई लिप मूवमेंट नहीं।
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0bbc798a9915c866d3a28f145bbbb324/thumbnails/thumbnail.jpg" width="600" alt="सिनेमैटिक स्लाइस-ऑफ-लाइफ एनीमे सुपरमार्केट सीन">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c888f5b61318fe16573902887957c340/thumbnails/thumbnail.jpg" width="600" alt="सिनेमैटिक स्लाइस-ऑफ-लाइफ एनीमे सुपरमार्केट सीन">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3759)**
 
@@ -2044,343 +2294,6 @@ Tulip Empress और Snail Guardian🐌
 **Author:** [Hyun Lee](https://x.com/HolyMolySakura) | **Source:** [Link](https://x.com/HolyMolySakura/status/2046690014667382958) | **Published:** Apr 21, 2026
 
 ---
-### हिप-हॉप समुराई डांस वीडियो प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक रचनात्मक प्रॉम्प्ट, जिसमें पारंपरिक परिधान पहने समुराई को सिंक्रोनाइज़्ड हिप-हॉप डांस मूव्स करते हुए वीडियो के रूप में तैयार किया गया है।
-
-#### 📝 Prompt
-
-```
-एक ऐसा दृश्य बनाएं जिसमें पांच समुराई एक साथ मज़ेदार और ऊर्जावान हिप-हॉप डांस कर रहे हों। उनके पारंपरिक समुराई परिधानों को बनाए रखें, लेकिन उन्हें चंचल और अतिरंजित डांस मूव्स के साथ दिखाएं। इसमें अजीबोगरीब भाव, अप्रत्याशित पोज़ और शानदार स्पिन शामिल करें...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7b357f8a536dcc1630acf7b7b3de06ee/thumbnails/thumbnail.jpg" width="600" alt="हिप-हॉप समुराई डांस वीडियो प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3501)**
-
-**Author:** [Hyun Lee](https://x.com/HolyMolySakura) | **Source:** [Link](https://x.com/HolyMolySakura/status/2046688295141159414) | **Published:** Apr 21, 2026
-
----
-### हवाईयन हुला डांस मोशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक जीवंत हुला डांस वीडियो के लिए कूल्हों और हाथों के हाव-भाव का विवरण देने वाला एक उच्च-गुणवत्ता वाला मूवमेंट प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-विषय को एक आत्मविश्वासी और जीवंत उपस्थिति के साथ एक ऊर्जावान हवाईयन हुला डांस करते हुए दिखाएं। लयबद्ध हिप मूवमेंट, समन्वित फुटवर्क और अभिव्यंजक हाथ के इशारों का उपयोग करें जो स्वाभाविक और जीवन से भरपूर महसूस हों। गति उज्ज्वल होनी चाहिए,
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9d43737e3a9d5d0b5fd26aef51cfc1ad/thumbnails/thumbnail.jpg" width="600" alt="हवाईयन हुला डांस मोशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3491)**
-
-**Author:** [Hyun Lee](https://x.com/HolyMolySakura) | **Source:** [Link](https://x.com/HolyMolySakura/status/2046682188092002376) | **Published:** Apr 21, 2026
-
----
-### शानदार हवाईयन हुला एनीमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक विषय को सुंदर हवाईयन हुला नृत्य करते हुए दिखाने वाला स्मूथ एनीमेशन बनाने के लिए एक वीडियो जनरेशन प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-विषय को सुंदर हवाईयन हुला नृत्य करते हुए एक स्मूथ और शानदार एनीमेशन बनाएं। 
-इसमें हल्के कूल्हों के झटकों, हाथों की कोमल लहरों, सुंदर कदमों और एक शांत, उष्णकटिबंधीय द्वीप के माहौल का उपयोग करें।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3c8a7fe5870ac9271ba230bac5097341/thumbnails/thumbnail.jpg" width="600" alt="शानदार हवाईयन हुला एनीमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3494)**
-
-**Author:** [Hyun Lee](https://x.com/HolyMolySakura) | **Source:** [Link](https://x.com/HolyMolySakura/status/2046677403028594727) | **Published:** Apr 21, 2026
-
----
-### सीन लॉक टाइमलैप्स निरंतरता
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> दो इमेज स्टेट्स के बीच फिक्स्ड कैमरा पोजीशनिंग के साथ एक स्थिर टाइमलैप्स वीडियो बनाने के लिए एक तकनीकी प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-सीन लॉक: IMAGE 3 से IMAGE 4 तक स्थिर ट्राइपॉड निरंतरता, बिल्कुल वही कैमरा पोजीशन, वही आई-लेवल फ्रेमिंग, वही 35mm लेंस फील, वही बोल्डर वॉल, स्टंप, स्ट्रीम, पाइन ट्री और फोर्ज ज्योमेट्री। कोई कट नहीं, स्थिर सीन, यथार्थवादी टाइमलैप्स पेसिंग,
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1bc1d76578347a7bc321c5b56fb92045/thumbnails/thumbnail.jpg" width="600" alt="सीन लॉक टाइमलैप्स निरंतरता">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3486)**
-
-**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2046674493758984333) | **Published:** Apr 21, 2026
-
----
-### हाई-स्टेटस पैपराज़ी रिएक्शन प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> सख्त आइडेंटिटी लॉकिंग के साथ एक सिनेमैटिक पैपराज़ी दृश्य के लिए जटिल JSON-आधारित वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-{
-  "generation_request": {
-    "meta_data": {
-      "tool": "Video",
-      "task_type": "paparazzi_controlled_luxury_reaction",
-      "version": "v2.0_NO_DROP_HIGH_STATUS"
-    },
-    "input": {
-      "mode": "image_to_video",
-      "reference_image_usage": "maximum",
-      "preserve_identity": "strict_lock",
-      "preserve_scene": true,
-      "notes": "बिल्कुल वही महिला, पोशाक, ड्रिंक, स्थान, कैमरा एंगल, लाइटिंग और कंपोजिशन बनाए रखें। उसके चेहरे या शरीर में कोई बदलाव न करें।"
-    },
-    "motion": {
-      "style": "cinematic paparazzi realism",
-      "speed": "natural real-time",
-      "camera": "केवल सूक्ष्म हैंडहेल्ड अनुभव, कोई रीफ्रेमिंग या ज़ूम नहीं"
-    },
-    "scene_events": {
-      "paparazzi_arrival": {
-        "action": "2-3 पैपराज़ी फोटोग्राफर तेजी से साइड और बैकग्राउंड से फ्रेम में आते हैं",
-        "details": "वे कैमरे उठाते हैं और करीब आते हैं, थोड़ा अराजक लेकिन सब्जेक्ट को ब्लॉक नहीं करते"
-      },
-      "flash_effect": {
-        "action": "कई कैमरा फ्लैश रुक-रुक कर जलते हैं",
-        "details": "मजबूत यथार्थवादी रोशनी के झटके जो उसके सनग्लासेस, त्वचा और पोशाक पर परावर्तित होते हैं"
-      },
-      "subject_reaction": {
-        "action": "महिला स्पष्ट झुंझलाहट लेकिन नियंत्रित संयम के साथ प्रतिक्रिया देती है",
-        "details": "कैमरों से हल्का सिर घुमाना, भौंहों में सूक्ष्म तनाव, होंठ थोड़े भींचना, नज़र ठंडी और अधिक प्रभावशाली हो जाती है"
-      },
-      "body_language": {
-        "action": "वह आत्मविश्वास के साथ आगे चलना जारी रखती है",
-        "details": "पोस्चर मजबूत रहता है, कंधे स्थिर रहते हैं, कोई घबराहट वाली हरकत नहीं, लग्जरी एटीट्यूड बरकरार रहता है"
-      },
-      "drink_behavior": {
-        "action": "ड्रिंक उसके हाथ में स्थिर रहता है",
-        "details": "केवल मामूली प्राकृतिक हाथ का समायोजन, कोई छलकना नहीं, कोई गिरना नहीं, तरल पदार्थ बरकरार रहता है"
-      }
-    },
-    "realism_rules": {
-      "face": "कोई विकृति नहीं, आइडेंटिटी लॉक, केवल प्राकृतिक सूक्ष्म-अभिव्यक्तियाँ",
-      "body": "सही चलने की बायोमैकेनिक्स, कोई जकड़न नहीं, कोई वार्पिंग नहीं",
-      "hands": "परफेक्ट ग्रिप, सही उंगलियों का आर्टिकुलेशन",
-      "physics": "यथार्थवादी गति, कोई अतिरंजित गति नहीं",
-      "lighting": "केवल निरंतर एम्बिएंट लाइट + फ्लैश बर्स्ट"
-    },
-    "performance_direction": {
-      "emotion": "झुंझलाई हुई लेकिन शक्तिशाली, बेपरवाह, हाई-स्टेटस उपस्थिति",
-      "energy": "नियंत्रित प्रभुत्व, घबराहट वाली प्रतिक्रिया नहीं",
-      "vibe": "पैपराज़ी को नज़रअंदाज़ करती सेलिब्रिटी, लग्जरी आत्मविश्वास"
-    },
-    "duration": {
-      "length": "6-8 सेकंड"
-    },
-    "negative_prompt": {
-      "avoid": [
-        "ड्रिंक छलकना",
-        "ड्रिंक गिरना",
-        "घबराहट वाली प्रतिक्रिया",
-        "अतिरंजित गति",
-        "चेहरे की विकृति",
-        "शरीर का विरूपण",
-        "अतिरिक्त अंग",
-        "खराब हाथ",
-        "ग्लिच",
-        "वार्पिंग",
-        "कैमरा ज़ूम",
-        "दृश्य परिवर्तन",
-        "कार्टून मोशन"
-      ]
-    }
-  }
-}
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dc00c1e41b1d3cb6e95c9f30276a3f35/thumbnails/thumbnail.jpg" width="600" alt="हाई-स्टेटस पैपराज़ी रिएक्शन प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3482)**
-
-**Author:** [Özge Döner](https://x.com/astronomerozge1) | **Source:** [Link](https://x.com/astronomerozge1/status/2046656621414129727) | **Published:** Apr 21, 2026
-
----
-### Wall Street Journal न्यूज़रूम का दृश्य
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Wall Street Journal में बाज़ार की चालों के बारे में बात करते हुए एक न्यूज़मैन को दर्शाने वाले वीडियो के लिए एक नैरेटिव प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-Wall Street Journal का एक व्यस्त न्यूज़मैन, क्योंकि कमरे के पीछे के बैनर पर Wall Street Journal लिखा है, कह रहा है कि 'ब्लू हॉर्सशू को कार पसंद है'। मैं आपको बता रहा हूँ कि यही वह दांव है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b8d4244a3e0e2f2e3ae10a6fcb0ac595/thumbnails/thumbnail.jpg" width="600" alt="Wall Street Journal न्यूज़रूम का दृश्य">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3493)**
-
-**Author:** [Rick March](https://x.com/CrankyRicky) | **Source:** [Link](https://x.com/CrankyRicky/status/2046652938278289552) | **Published:** Apr 21, 2026
-
----
-### साइकेडेलिक मेडिटेशन लोटस वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> नीले समुद्र पर कमल के फूल में ध्यान करती एक महिला के लिए एक अलौकिक प्रॉम्प्ट, जिसमें साइकेडेलिक लहजे शामिल हैं।
-
-#### 📝 Prompt
-
-```
-आदर्श सुखद साइकेडेलिक लड़की, अलौकिक रूप से आश्चर्यजनक सुंदर युवती जो एक विशाल स्पष्ट नीले समुद्र पर तैरते हुए एक बड़े सुनहरे कमल के फूल के अंदर आराम से ध्यान करते हुए हल्की मुस्कान बिखेर रही है, आँखें धीरे से खुली हैं और वह सीधे हाथ जोड़कर नमस्कार कर रही है। 
-(((💙🩵💜)))
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/11ac8d393caaa5fb444a3869882abd01/thumbnails/thumbnail.jpg" width="600" alt="साइकेडेलिक मेडिटेशन लोटस वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3489)**
-
-**Author:** [Carina](https://x.com/Freehere3) | **Source:** [Link](https://x.com/Freehere3/status/2046647102437265620) | **Published:** Apr 21, 2026
-
----
-### सिनेमैटिक रिचुअल एक्शन और ऑडियो सीक्वेंस
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक परिष्कृत प्रॉम्प्ट, जो हाई-प्रोडक्शन सिनेमैटिक अनुभव के लिए विस्तृत एक्शन सीक्वेंस को सिंक्रोनाइज़्ड ऑर्केस्ट्रल ऑडियो संकेतों के साथ जोड़ता है।
-
-#### 📝 Prompt
-
-```
-[एक्शन सीक्वेंस] 
-एक सिंगल कंटीन्यूअस शॉट, 0.01 सेकंड पर ऑडियो शुरू होता है और स्कोर धीरे-धीरे सिनेमैटिक शॉट में बदल जाता है जहाँ एक जादूगर तरबूज के Slides को देवताओं को अर्पित कर रहा है, तरबूज के हवा में तैरते ही शानदार विजुअल इफेक्ट्स दिखाई देते हैं, अंत में पूरा दृश्य तरबूज के टेक्सचर से भर जाता है और एपिक सिनेमैटिक स्कोर अपने चरम (क्रेसेंडो) पर पहुँच जाता है। 
- 
-[ऑडियो - संगीत तुरंत शुरू होता है और पूरे वीडियो के दौरान एक्शन सीक्वेंस के साथ पूरी तरह से सिंक रहता है] 
-एक गंभीर और विजयी अनुभव वाला विशाल सिनेमैटिक ऑर्केस्ट्रल साउंडट्रैक बजाएं, जिसमें बैकग्राउंड में पृथ्वी को हिला देने वाले ताइको ड्रम बज रहे हों, बूमिंग स्टैकाटो ब्रास सेक्शन एक दोहराव वाला अवरोही मोटिफ बजा रहे हों, भारी हॉल रिवर्ब में गूंजता हुआ ग्रेगोरियन क्वायर, नाटकीय तनाव पैदा करने वाले स्वीपिंग मार्काटो स्ट्रिंग स्वेल, इम्पैक्ट स्वीटनर के रूप में गहरे सब-बास हिट्स, वाइड स्टीरियो इमेजिंग, विशाल गुफा जैसा एकॉस्टिक स्पेस, हैंस ज़िमर-शैली की एपिक ग्रेविटी, 75 BPM, C माइनर।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a64362fe486bda3da6c4870d26e80024/thumbnails/thumbnail.jpg" width="600" alt="सिनेमैटिक रिचुअल एक्शन और ऑडियो सीक्वेंस">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3498)**
-
-**Author:** [steve johnson](https://x.com/seeksteve) | **Source:** [Link](https://x.com/seeksteve/status/2046623332980683126) | **Published:** Apr 21, 2026
-
----
-### सिक्का उछालने का रूपांतरण
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक प्रॉम्प्ट जो हवा में उछलते हुए सिक्के और उसके चांदी से सोने में बदलने की प्रक्रिया का वर्णन करता है।
-
-#### 📝 Prompt
-
-```
-एक व्यक्ति द्वारा हवा में चांदी का सिक्का उछालना, सिक्के का हवा में पलटना, और फिर उनके खुले हाथ में वापस आकर शुद्ध चमकते सोने में बदल जाना @grok
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7c54d3358ced35cbbe7b282253ac3cf7/thumbnails/thumbnail.jpg" width="600" alt="सिक्का उछालने का रूपांतरण">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3487)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2046618576086241391) | **Published:** Apr 21, 2026
-
----
-### भविष्यवादी टाइटन पावर आर्मर योद्धा
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> एक भविष्यवादी कवच में एक महिला योद्धा का डिस्टोपियन शहर में चलते हुए अत्यधिक विस्तृत सिनेमैटिक 8K वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-सिनेमैटिक 9-सेकंड का वर्टिकल वीडियो, असली जैसा 8K, फोटो-रियलिस्टिक 3D रेंडरिंग। अत्याधुनिक बॉडी-फिट भविष्यवादी टाइटन पावर आर्मर पहने एक शक्तिशाली महिला योद्धा, जलते हुए डिस्टोपियन शहर के बीच आत्मविश्वास के साथ कैमरे की ओर बढ़ रही है। कवच धात्विक गहरे चांदी और काले रंग का है, जिसमें नीली चमकती सर्किट लाइनें, पीली एक्सेंट लाइट्स और चमकदार रिफ्लेक्शन हैं। हेलमेट में एक चमकदार काला वाइज़र है, जिसके अंदर तीव्र नीले रंग के होलोग्राफिक तत्व चमक रहे हैं।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/68b0dc56fa7029e64fa032168d1a515a/thumbnails/thumbnail.jpg" width="600" alt="भविष्यवादी टाइटन पावर आर्मर योद्धा">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3500)**
-
-**Author:** [ぼたもち。@贖罪卿](https://x.com/botamochi8639) | **Source:** [Link](https://x.com/botamochi8639/status/2046523096597925932) | **Published:** Apr 21, 2026
-
----
-### एपिक मेका रैबिट बैटल
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> फुर्तीले बनी-मेक रोबोट्स और एक विशाल बॉस के बीच एक क्रूर लड़ाई के लिए अत्यधिक विस्तृत सिनेमैटिक प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-गोल्डन आवर के दौरान एक डिस्टोपियन बर्बाद शहर में एक तीव्र, क्रूर मेका लड़ाई का 15-सेकंड का हाइपर-रियलिस्टिक, सिनेमैटिक वर्टिकल वीडियो (9:16)। दो छोटे, स्लीक सफेद और काले रंग के फुर्तीले रैबिट-मेक रोबोट, जिनमें लंबे मैकेनिकल बनी कान, चमकते नारंगी विज़र और हेलमेट के अंदर महिला पायलटों के चेहरे (छोटे काले बालों वाली युवा पूर्वी एशियाई महिला) दिखाई दे रहे हैं, एक विशाल, भारी बख्तरबंद गहरे भूरे और चांदी के रंग के रैबिट-मेक बॉस से लड़ रहे हैं। विशाल मेक उनसे दोगुना बड़ा है, युद्ध के निशानों से भरा हुआ, चमकती लाल आंखों, खुले पिस्टन, हाइड्रोलिक केबल्स और भारी प्लेटिंग के साथ।
-डायनामिक एक्शन सीक्वेंस:
-शुरुआत विशाल मेक से होती है जो एक छोटे बनी-मेक के ऊपर खड़ा है, जो रोलर फीट पर कम कॉम्बैट स्टांस में है।
-तेज़-तर्रार कोरियोग्राफी: छोटे मेक्स का उछलना, स्पिनिंग किक, तेज़ मुक्के और कलाबाजी भरे बचाव।
-विशाल मेक क्रूरतापूर्वक पलटवार करता है — शक्तिशाली मुक्के जो प्रभाव पर चमकीले नारंगी स्पार्क्स और विस्फोट पैदा करते हैं, विनाशकारी किक जो छोटे मेक्स को हवा में उड़ा देती हैं, उन्हें टूटे हुए कंक्रीट पर पटक देती हैं।
-एक छोटा मेक पकड़ा जाता है, ज़मीन पर पटका जाता है, और फिर धूल भरे युद्ध के मैदान में फेंक दिया जाता है।
-धूल के बादल, उड़ते मलबे, स्पार्क्स और हर जगह चमकते मैकेनिकल विवरण।
-हेलमेट के अंदर मैकेनिकल जोड़ों, चमकती आंखों और चेहरे के भावों को दिखाने वाले नाटकीय लो-एंगल और क्लोज-अप शॉट्स।
-अंतिम क्षणों में विशाल मेक को हावी होते हुए दिखाया गया है, जो गिरे हुए छोटे मेक्स के ऊपर से गुज़र रहा है, जबकि एक और छोटा मेक एक हताश अंतिम हमले में किनारे से चार्ज कर रहा है।
-अत्यधिक विस्तृत 8K CGI, फोटो-रियलिस्टिक टेक्सचर, मज़बूत वॉल्यूमेट्रिक गॉड रेज़ के साथ सिनेमैटिक लाइटिंग, तेज़ गतिविधियों पर मोशन ब्लर, भारी प्रभावों पर सूक्ष्म स्लो-मोशन, ग्रिटी पोस्ट-एपोकैलिप्टिक वातावरण, पृष्ठभूमि में नष्ट कंक्रीट की इमारतें और मलबा, डच एंगल्स और ट्रैकिंग शॉट्स के साथ नाटकीय कैमरा वर्क, Pacific Rim और Ghost in the Shell जैसी हाई-एंड साइंस-फिक्शन एक्शन फिल्मों की शैली में।
-स्टाइल कीवर्ड्स: सिनेमैटिक, फोटो-रियलिस्टिक, अल्ट्रा-डिटेल्ड, ड्रामेटिक लाइटिंग, मैकेनिकल डिटेल, स्पार्क्स और पार्टिकल इफेक्ट्स, इंटेंस एक्शन, इमोशनल, ग्रिटी, एपिक।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7958af99429f5b256c80f7b7094509cf/thumbnails/thumbnail.jpg" width="600" alt="एपिक मेका रैबिट बैटल">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3485)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2046522451379847343) | **Published:** Apr 21, 2026
-
----
-### प्रकृति और सूर्यास्त के बीच अति-यथार्थवादी लड़की
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक वीडियो जनरेशन प्रॉम्प्ट, जो प्रकृति रिज़र्व में सूर्यास्त के समय चरित्र की निरंतरता और यथार्थवादी प्रकाश व्यवस्था पर जोर देता है।
-
-#### 📝 Prompt
-
-```
-लड़की के चेहरे, भावों और पहचान को बिना किसी बदलाव के बिल्कुल वैसा ही बनाए रखें — अति-यथार्थवादी, कोई विकृति नहीं। दृश्य की शुरुआत एक हरे-भरे प्राकृतिक रिज़र्व के वाइड शॉट से होती है, जिसमें सूर्यास्त की तीव्र सुनहरी रोशनी ऊंचे पेड़ों के बीच से छनकर आ रही है
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee54d17a8823a68d0314bfba68fc7a6b/thumbnails/thumbnail.jpg" width="600" alt="प्रकृति और सूर्यास्त के बीच अति-यथार्थवादी लड़की">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3502)**
-
-**Author:** [Bettis Miamis](https://x.com/ElisabeteTerro1) | **Source:** [Link](https://x.com/ElisabeteTerro1/status/2046518921713303589) | **Published:** Apr 21, 2026
-
----
-### तीव्र रेसिंग एकाग्रता
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो प्रॉम्प्ट जो केंद्रित चेहरे के भावों और गतिशील कैमरा पैनिंग के साथ एक उच्च-तीव्रता वाले ड्राइविंग दृश्य का वर्णन करता है।
-
-#### 📝 Prompt
-
-```
-VROOM VROOM शुरू करें, उन सबसे अच्छी महिला मित्रों के तीव्र और केंद्रित चेहरों पर ध्यान दें, जिनका अपनी काल्पनिक स्पोर्ट्स कार हॉट रॉड पर पूरा नियंत्रण है, कैमरा पैन इन और पैन आउट करें
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/96423fbd2cd537ad419f033fb28f2678/thumbnails/thumbnail.jpg" width="600" alt="तीव्र रेसिंग एकाग्रता">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3497)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2046511204722467089) | **Published:** Apr 21, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2442,6 +2355,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-28T06:35:42.296Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-28T10:24:05.246Z</sub>
 
 </div>
