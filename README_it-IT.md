@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1271** |
+| 📝 Total Prompts | **1291** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-04-29** |
 
@@ -189,6 +189,405 @@ Una mistica e nobile Valchiria celestiale, una donna dignitosa e bellissima con 
 
 > 📝 Sorted by publish date (newest first)
 
+### Prompt video per il lancio cinematografico di un'astronave
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video per generare una scena drammatica di un'enorme astronave, grande quanto una portaerei, che decolla dall'acqua e sorvola l'oceano.
+
+#### 📝 Prompt
+
+```
+Un'astronave galleggia sull'acqua, decolla verso il cielo e sorvola l'oceano, cinematografico, illuminazione d'atmosfera, drammatico 
+
+Il velivolo è enorme, delle dimensioni di una portaerei, ma è mobile e veloce
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/36d63291e458bc36e23261f89b5a280c/thumbnails/thumbnail.jpg" width="600" alt="Prompt video per il lancio cinematografico di un'astronave">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3845)**
+
+**Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2049372418670817336) | **Published:** Apr 29, 2026
+
+---
+### Il velo si sta assottigliando
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video cinematografico in cui una donna si avvicina alla telecamera e recita un monologo misterioso sul fatto che il velo si stia assottigliando.
+
+#### 📝 Prompt
+
+```
+Si avvicina alla telecamera, guarda nell'obiettivo come se stesse guardando attraverso di esso e dice: “il velo si sta assottigliando. L'eterno è in movimento....
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5d417ae05965185dd10c31d8bf1f1702/thumbnails/thumbnail.jpg" width="600" alt="Il velo si sta assottigliando">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3841)**
+
+**Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2049371446309466422) | **Published:** Apr 29, 2026
+
+---
+### Viaggio cosmico nel mare di metano
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video cosmico di fantascienza che descrive un viaggio verso un mare di metano e l'osservazione degli anelli di Saturno di taglio.
+
+#### 📝 Prompt
+
+```
+Fantascienza, cosmico, viaggio verso un mare di metano, aspettiamo la notte in cui gli anelli di Saturno si stagliano di taglio
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/733a76ff2ccc92c8565b1a934eb1d9cb/thumbnails/thumbnail.jpg" width="600" alt="Viaggio cosmico nel mare di metano">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3844)**
+
+**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2049351125921567044) | **Published:** Apr 29, 2026
+
+---
+### Video macro di gocce di rugiada su foglia di iris
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per video macro dettagliato incentrato su gocce di rugiada che si fondono su una foglia di iris in un giardino.
+
+#### 📝 Prompt
+
+```
+Primo piano di una foglia di fiore di iris in un giardino, due gocce di rugiada scivolano lentamente lungo la foglia e si fondono lentamente in una goccia più grande
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9587f9e39dc6c76d17b8fb9e82b473b6/thumbnails/thumbnail.jpg" width="600" alt="Video macro di gocce di rugiada su foglia di iris">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3846)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2049349822906601803) | **Published:** Apr 29, 2026
+
+---
+### Lettura dei Tarocchi dei Gatti
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Una descrizione dettagliata della scena per un video che mostra gatti vestiti che eseguono una lettura dei tarocchi in una stanza stilizzata
+
+#### 📝 Prompt
+
+```
+Un gatto vestito con abiti hippie che esegue una lettura dei tarocchi per un altro gatto in completo elegante all'interno di una stanza dedicata ai tarocchi.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/01776e8a508bd9416cb048902c90d3d7/thumbnails/thumbnail.jpg" width="600" alt="Lettura dei Tarocchi dei Gatti">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3837)**
+
+**Author:** [Emily](https://x.com/EMILYZART) | **Source:** [Link](https://x.com/EMILYZART/status/2049276271042105622) | **Published:** Apr 28, 2026
+
+---
+### Draghi danzanti iperrealistici
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video energico che mostra draghi impegnati in una coreografia da cheerleader con movimenti ritmici e onde sonore visualizzate in un'atmosfera da concerto.
+
+#### 📝 Prompt
+
+```
+draghi iperrealistici che eseguono una coreografia da cheerleader, movimento ritmico, onde sonore visualizzate come energia luminosa, atmosfera da concerto, illuminazione volumetrica, alta energia, fotogramma cinematografico-
+```
+
+<img src="https://pbs.twimg.com/media/HHB8Yl5aEAA2gOa.jpg" width="600" alt="Draghi danzanti iperrealistici">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3836)**
+
+**Author:** [Hyun Lee](https://x.com/HolyMolySakura) | **Source:** [Link](https://x.com/HolyMolySakura/status/2049274723058495695) | **Published:** Apr 28, 2026
+
+---
+### Personaggio Mask-kun che parla
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt descrittivo per un video di un personaggio di nome Mask-kun che parla lentamente della vita lavorativa durante la pandemia e del bisogno di un massaggio.
+
+#### 📝 Prompt
+
+```
+Mask-kun che parla lentamente: "Gli straordinari durante la pandemia sono duri, vero! Indossare la mascherina rende le corna sulla mia testa particolarmente pesanti. Mi chiedo se dovrei chiedere un massaggio a Karada-momiya, che ha pubblicato un libro tascabile su Kindle."
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3febd8d908a341776b54dbf7e7eb0b7a/thumbnails/thumbnail.jpg" width="600" alt="Personaggio Mask-kun che parla">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3853)**
+
+**Author:** [カラダモミヤ◉シモキタのあんまマッサージしあつ師](https://x.com/ostoco_seitai) | **Source:** [Link](https://x.com/ostoco_seitai/status/2049268137036808690) | **Published:** Apr 28, 2026
+
+---
+### Video di un gatto luminoso e una gabbia per uccelli
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per una scena magica in cui un gatto splendente libera uccelli di luce da una grande gabbia.
+
+#### 📝 Prompt
+
+```
+Un gatto bianco luminoso che apre delicatamente una gigantesca gabbia per uccelli splendente, mentre uccelli di luce volano fuori e danzano attorno a lui.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/21dde6a2403a8ca3c81b4f6e52a2e672/thumbnails/thumbnail.jpg" width="600" alt="Video di un gatto luminoso e una gabbia per uccelli">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3847)**
+
+**Author:** [Lumina✨](https://x.com/LuminaGrok) | **Source:** [Link](https://x.com/LuminaGrok/status/2049262390282223638) | **Published:** Apr 28, 2026
+
+---
+### Prompt video per gara di soapbox sulle Alpi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per la generazione di un video che ritrae un'avventurosa gara di soapbox tra le Alpi, con un finale drammatico che termina con un tuffo in un torrente.
+
+#### 📝 Prompt
+
+```
+A bordo di una soapbox tra le Alpi, con un incidente finale e una caduta profonda in un torrente di montagna
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/68071a99768af0ff5eb134d716175d1f/thumbnails/thumbnail.jpg" width="600" alt="Prompt video per gara di soapbox sulle Alpi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3848)**
+
+**Author:** [Sancho P. Pinocchio](https://x.com/muehlenservice) | **Source:** [Link](https://x.com/muehlenservice/status/2049232359694758273) | **Published:** Apr 28, 2026
+
+---
+### Video cyberpunk con spirito sakura
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per una scena video cyberpunk con petali di sakura olografici ed energia spirituale in una battaglia drammatica.
+
+#### 📝 Prompt
+
+```
+cyberpunk neon con petali di sakura olografici, aure di energia spirituale eterea nella nebbia, o drammatiche battaglie con raggi divini ed esplosioni di particelle, senza parlato
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ba89d137ed144d5c7e6f95027681ad2f/thumbnails/thumbnail.jpg" width="600" alt="Video cyberpunk con spirito sakura">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3839)**
+
+**Author:** [Alex Spark](https://x.com/AlexSpark44) | **Source:** [Link](https://x.com/AlexSpark44/status/2049197083702223327) | **Published:** Apr 28, 2026
+
+---
+### Cyber Xianxia: Fantasy cinematica
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt cinematico dettagliato per Grok Imagine per creare un mondo fantasy orientale surreale ad alta fedeltà con montagne fluttuanti e architettura tradizionale.
+
+#### 📝 Prompt
+
+```
+Visual cinematografiche fantasy orientali surreali, gigantesche montagne fluttuanti e nuvole di cristallo di notte, un'imponente cascata celestiale che si riversa dal cielo, fulmini intrecciati, a sinistra edifici classici cinesi con luci brillanti e foreste di ciliegi in fiore, a destra antichi palazzi rossi a più livelli intensamente illuminati, un ampio lago poco profondo che riflette numerosi personaggi orientali in abiti tradizionali, nebbioso, dettagli estremi, illuminazione cinematografica, 8K, stile cyber xianxia
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/11f22d6cb9ac7e7ab1965b539e614f27/thumbnails/thumbnail.jpg" width="600" alt="Cyber Xianxia: Fantasy cinematica">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3850)**
+
+**Author:** [点燃游戏](https://x.com/IgnitetheGameX) | **Source:** [Link](https://x.com/IgnitetheGameX/status/2049143756574838960) | **Published:** Apr 28, 2026
+
+---
+### Prompt di blocco scena per baita di montagna
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt preciso per la generazione video che mantiene un'altezza della telecamera e una visuale costanti su una baita e una cresta montuosa, concentrandosi sulla stabilità geografica.
+
+#### 📝 Prompt
+
+```
+VIDEO 1
+
+BLOCCO SCENA: Telecamera su treppiede statico bloccata sulla stessa inquadratura grandangolare da 24mm, stessa altezza della telecamera, stessa geometria della baita, stessa curva del vialetto sterrato, pini, letto del torrente, cresta montuosa e palo della luce arrugginito mantenuti costanti durante tutta la ripresa.
+INQUADRATURA: L'inquadratura include il portico della baita in primo piano in basso a sinistra e la vetta della montagna centrata sullo sfondo.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ff7a288bdd5266fddb7b4b5805fe35bb/thumbnails/thumbnail.jpg" width="600" alt="Prompt di blocco scena per baita di montagna">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3842)**
+
+**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2049109359767220513) | **Published:** Apr 28, 2026
+
+---
+### Video cinematografico di una cyborg femminile
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinematografico estremamente dettagliato di 14 secondi per un video in 8K che ritrae una cyborg dai capelli rosa in una città post-apocalittica.
+
+#### 📝 Prompt
+
+```
+Video cinematografico di 14 secondi, 8K ultra-realistico, rendering fotorealistico. Una splendida cyborg femminile con lunghi e fluenti capelli rosa acceso con frangia si trova al centro di una strada desolata e nebbiosa in una città post-apocalittica. Inizia in una posizione accovacciata, di spalle alla telecamera, indossando un'elegante tuta esoscheletrica robotica nera aderente con luci al neon arancioni che corrono lungo la colonna vertebrale, le articolazioni, le cosce e le braccia. La tuta presenta giunture meccaniche visibili e stivali con tacco alto. Si alza lentamente e con grazia dalla posizione accovacciata fino a stare completamente in piedi. Mentre si alza, la telecamera si inclina dolcemente verso l'alto, seguendo il suo movimento. Ruota poi lentamente la parte superiore del corpo e la testa verso sinistra, rivelando il suo bellissimo volto femminile con grandi occhi espressivi e un'espressione neutra e leggermente seria. I suoi lunghi capelli rosa fluiscono e ondeggiano drammaticamente con il movimento. Le luci arancioni sulla tuta pulsano e brillano intensamente per tutta la durata. Tempo atmosferico nebbioso, cielo coperto, edifici in mattoni abbandonati, detriti sparsi e vecchie auto sullo sfondo, grattacielo in lontananza visibile attraverso la foschia. Illuminazione cinematografica, sottile nebbia volumetrica, texture dettagliate, materiali fotorealistici, movimento fluido a 24fps, movimento elegante e potente, alto dettaglio, capolavoro, massima qualità.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ea8cb53858791de3d7a8298b38cb48f9/thumbnails/thumbnail.jpg" width="600" alt="Video cinematografico di una cyborg femminile">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3838)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2049107214468837795) | **Published:** Apr 28, 2026
+
+---
+### Prompt tecnico per il blocco della scena sulla riva
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video tecnico per Grok Imagine progettato per bloccare un'inquadratura statica su treppiede di una laguna durante l'ora d'oro, mantenendo una rigorosa continuità dei punti di riferimento.
+
+#### 📝 Prompt
+
+```
+BLOCCO SCENA: Fotocamera statica su treppiede bloccata esattamente nella stessa posizione sulla riva della laguna, inquadratura costante, effetto obiettivo grandangolare da 24mm, altezza fotocamera 1,6 metri, continuità stabile dell'ora d'oro, punti di riferimento fissi preservati esattamente: lingua di sabbia curva, gruppo di tre palme in lontananza e il caratteristico picco vulcanico frastagliato all'orizzonte.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d5b4658c706a64d006d63dcf0d874296/thumbnails/thumbnail.jpg" width="600" alt="Prompt tecnico per il blocco della scena sulla riva">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3840)**
+
+**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2049099992732959115) | **Published:** Apr 28, 2026
+
+---
+### Scena di un supermercato in stile anime al tramonto con controllo vocale
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un complesso prompt video per Grok Imagine per una scena anime cinematografica che include sincronizzazione vocale, dettagli di illuminazione e istruzioni per la recitazione dei personaggi.
+
+#### 📝 Prompt
+
+```
+Una scena anime cinematografica di vita quotidiana ambientata alla cassa di un supermercato durante il tramonto.
+Al centro: una donna adulta dai capelli neri che indossa una camicetta bianca e un grembiule verde scuro con un badge FP1, espressione calma e leggermente stanca.
+A sinistra: una donna bionda con un'espressione gentile, stessa uniforme e accessorio floreale.
+A destra: una donna dai capelli castani con un'espressione realistica, stessa uniforme e accessorio floreale.
+In primo piano: un piccolo orsacchiotto che indossa un grembiule verde scuro con un badge FP1, immobile.
+Tutti i personaggi indossano corone di fiori tenui abbinate che simboleggiano la speranza.
+Colori pastello tenui, linee anime sottili e delicate, ombreggiatura minima, illuminazione ambientale soffusa del tramonto, arcobaleno visibile attraverso la finestra, atmosfera calda e delicata.
+Fotocamera: altezza naturale degli occhi, leggera angolazione di 45 gradi, nessuno zoom, nessun movimento di camera.
+Dialogo (solo voce in giapponese):
+Donna dai capelli neri al centro (voce femminile adulta calma)
+"Che giorno è oggi? Mi sento come se avessi lavorato senza sosta."
+Recitazione: espressione facciale sottile, solo piccoli movimenti naturali.
+REGOLA IMPORTANTE:
+solo il personaggio che parla muove la bocca, tutti gli altri personaggi tengono la bocca completamente chiusa, nessun movimento delle labbra per i personaggi che non parlano.
+Nessun testo sullo schermo.
+Voce: donna adulta giapponese madrelingua naturale, tono calmo e leggermente stanco, intonazione fluida e naturale, ritmo giapponese corretto, nessun accento cinese, nessuna voce robotica, nessuna parlata lenta, interpretazione emotiva sottile, pronuncia perfetta.
+
+Parlato: solo la donna dai capelli neri al centro parla con un movimento della bocca accurato. Tutti gli altri personaggi hanno la bocca completamente chiusa, nessun lip-sync.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c660ede88bd926d62be48f2108183fbf/thumbnails/thumbnail.jpg" width="600" alt="Scena di un supermercato in stile anime al tramonto con controllo vocale">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3851)**
+
+**Author:** [テカひめ｜FP1級｜賢者に転職できない遊び人Lv.20/すっぴんLv.1](https://x.com/tekka5154) | **Source:** [Link](https://x.com/tekka5154/status/2049080411272495444) | **Published:** Apr 28, 2026
+
+---
+### Prompt video anime: tramonto cinematografico
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt per la generazione di video con Grok Imagine per una scena in un supermercato al tramonto, con regole specifiche per i personaggi e istruzioni per il lip-sync.
+
+#### 📝 Prompt
+
+```
+Una scena anime cinematografica di vita quotidiana ambientata alla cassa di un supermercato durante il tramonto.
+
+Al centro: una donna adulta dai capelli neri che indossa una camicetta bianca e un grembiule verde scuro con un badge FP1, espressione calma e leggermente stanca.
+
+A sinistra: una donna bionda con un'espressione gentile, stessa divisa e accessorio floreale.
+
+A destra: una donna dai capelli castani con un'espressione realistica, stessa divisa e accessorio floreale.
+
+In primo piano: un piccolo orsacchiotto che indossa un grembiule verde scuro con un badge FP1, immobile.
+
+Tutti i personaggi indossano corone di fiori delicati abbinate che simboleggiano la speranza.
+
+Colori pastello tenui, lineart anime sottile e delicata, ombreggiatura minima, illuminazione ambientale soffusa del tramonto, arcobaleno visibile attraverso la finestra, atmosfera calda e gentile.
+
+Fotocamera: altezza naturale degli occhi, leggera angolazione di 45 gradi, nessuno zoom, nessun movimento di camera.
+
+Dialogo (solo voce in giapponese):
+
+Donna dai capelli neri al centro (voce femminile adulta calma)
+
+"Che giorno è oggi? Mi sento come se avessi lavorato senza sosta."
+
+Recitazione: espressione facciale sottile, solo piccoli movimenti naturali.
+
+REGOLA IMPORTANTE:
+
+solo il personaggio che parla muove la bocca, tutti gli altri personaggi devono tenere la bocca completamente chiusa, nessun movimento delle labbra per i personaggi che non parlano.
+
+Nessun testo sullo schermo.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0e0b6c02ab68294cc7bc4f53eb492cbc/thumbnails/thumbnail.jpg" width="600" alt="Prompt video anime: tramonto cinematografico">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3852)**
+
+**Author:** [テカひめ｜FP1級｜賢者に転職できない遊び人Lv.20/すっぴんLv.1](https://x.com/tekka5154) | **Source:** [Link](https://x.com/tekka5154/status/2049078738671812673) | **Published:** Apr 28, 2026
+
+---
+### Video del Moonwalk di Michael Jackson
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video dettagliato che tenta di ricreare il classico passo di danza moonwalk, con un focus specifico sul movimento dei piedi.
+
+#### 📝 Prompt
+
+```
+persona che esegue il classico moonwalk di MJ muovendosi all'indietro sul palco, scivolata all'indietro, un piede scivola indietro mentre l'altro resta fermo, nessun avanzamento in avanti
+camera fissa, dettaglio dei piedi al rallentatore, scivolata realistica senza attrito
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b000ba4184fa00a8ebe4930c91e489d7/thumbnails/thumbnail.jpg" width="600" alt="Video del Moonwalk di Michael Jackson">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3854)**
+
+**Author:** [朝霧 古湖音](https://x.com/AEmJTBmTtm38170) | **Source:** [Link](https://x.com/AEmJTBmTtm38170/status/2049062030406291463) | **Published:** Apr 28, 2026
+
+---
+### Prompt video anime epico su Hachiko
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video cinematografico in stile anime epico che ritrae il cane Akita Hachiko davanti a un tribunale all'alba, simbolo di devozione durante un processo.
+
+#### 📝 Prompt
+
+```
+Un video cinematografico in stile anime epico, con Hachiko rappresentato come un fedele Akita iperrealistico, dal pelo morbido incredibilmente dettagliato e occhi espressivi e profondi.
+
+Il cane attende fedelmente davanti al tribunale federale all'alba, durante lo storico processo che sta definendo il futuro dell'IA.
+
+La luce del mattino inonda la scena mentre i team legali entrano nell'edificio e il peso della storia aleggia nell'aria.
+
+La sua presenza calma e incrollabile simboleggia una devozione senza tempo alla verità nel mezzo di un'innovazione ad alto rischio.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a0683f889af719d7d627a4531183497a/thumbnails/thumbnail.jpg" width="600" alt="Prompt video anime epico su Hachiko">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3843)**
+
+**Author:** [Hachiko - $HACHI](https://x.com/HachikoS0L) | **Source:** [Link](https://x.com/HachikoS0L/status/2049051837261623738) | **Published:** Apr 28, 2026
+
+---
 ### Animazione di un gufo mistico bioluminescente
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +605,74 @@ Un'animazione digitale di alta qualità di un gufo mistico e bioluminescente app
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3806)**
 
 **Author:** [ahmed ibrahim](https://x.com/AhmedYasienibby) | **Source:** [Link](https://x.com/AhmedYasienibby/status/2049023673575641544) | **Published:** Apr 28, 2026
+
+---
+### Manovre ad alta velocità con immagine di riferimento
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video che utilizza un'immagine di riferimento per ritrarre una persona che guida ad alta velocità ed esegue acrobazie pericolose in silenzio.
+
+#### 📝 Prompt
+
+```
+@image1diri che guida ad alta velocità ed esegue manovre pericolose, senza dire nulla
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d5b710f4be72b6f0b5268c81c686d9f8/thumbnails/thumbnail.jpg" width="600" alt="Manovre ad alta velocità con immagine di riferimento">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3855)**
+
+**Author:** [Gerson Antonio Basso](https://x.com/gerson_basso) | **Source:** [Link](https://x.com/gerson_basso/status/2049016752827183310) | **Published:** Apr 28, 2026
+
+---
+### Prompt video per scena anime alla cassa di un supermercato
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt video per Grok Imagine che descrive una scena anime cinematografica di vita quotidiana, con diversi personaggi alla cassa di un supermercato, includendo istruzioni specifiche per i dialoghi e i movimenti di camera.
+
+#### 📝 Prompt
+
+```
+Una scena anime cinematografica di vita quotidiana ambientata alla cassa di un supermercato durante una soffusa luce diurna.
+
+Al centro: una donna adulta dai capelli neri che indossa una camicetta bianca e un grembiule verde scuro con un badge FP1, espressione gentile e leggermente sollevata, guarda prima leggermente verso il basso e poi in avanti.
+
+A sinistra: una donna bionda con un'espressione calma e solidale, stessa uniforme e accessorio floreale.
+
+A destra: una donna dai capelli castani con un'espressione neutra ma addolcita, stessa uniforme e accessorio floreale.
+
+In primo piano: un piccolo orsacchiotto che indossa un grembiule verde scuro con un badge FP1, presente in silenzio.
+
+Tutti i personaggi indossano delicate corone di fiori abbinate che simboleggiano la speranza.
+
+Palette di colori pastello tenui, lineart anime molto sottile e delicata, ombreggiatura piatta e morbida, rendering minimale, illuminazione ambientale soffusa, atmosfera calda e pacifica.
+
+Sfondo: interno del supermercato leggermente sfocato.
+
+Camera: altezza occhi naturale, angolazione morbida a 45 gradi.
+
+Micro zoom molto sottile verso il centro (la donna dai capelli neri) mentre parla.
+
+Dialogo (solo voce giapponese):
+
+Donna dai capelli neri al centro (voce femminile adulta e calma)
+
+"Capisco... quindi le cose stavano effettivamente progredendo poco a poco... immagino ci sia altro lavoro domani."
+
+Recitazione: espressione facciale sottile, solo piccoli movimenti naturali.
+
+REGOLA IMPORTANTE:
+
+solo il personaggio che parla muove la bocca, tutti gli altri personaggi devono tenere la bocca completamente chiusa, nessun movimento labiale per i personaggi che non parlano
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/46fc67e9452f9c0cfd26a724fca3166a/thumbnails/thumbnail.jpg" width="600" alt="Prompt video per scena anime alla cassa di un supermercato">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3849)**
+
+**Author:** [テカひめ｜FP1級｜賢者に転職できない遊び人Lv.20/すっぴんLv.1](https://x.com/tekka5154) | **Source:** [Link](https://x.com/tekka5154/status/2048941937437368467) | **Published:** Apr 28, 2026
 
 ---
 ### Video del barattolo della galassia magica
@@ -1856,445 +2323,6 @@ Disegna un coniglietto con uno sturalavandini che stura un water arancione in un
 **Author:** [ĐOGEARMY GENERAL](https://x.com/TheTeslaBull) | **Source:** [Link](https://x.com/TheTeslaBull/status/2047116929366741326) | **Published:** Apr 23, 2026
 
 ---
-### Simulazione di un conduttore di notizie professionale
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video dettagliato per un conduttore di notizie che parla della crescita globale, con istruzioni specifiche per le espressioni facciali e il tono.
-
-#### 📝 Prompt
-
-```
-Una conduttrice di notizie professionale in un ambiente di studio pulito, inquadratura a mezzo busto (testa e spalle), composizione centrata. Guarda direttamente la telecamera con una postura sicura.
-
-* Espressione: calma, composta, leggermente seria ma rassicurante
-
-* Movimento: lievi cenni del capo e battito di ciglia naturale mentre parla
-
-* Dinamiche facciali: leggero movimento delle sopracciglia quando enfatizza "rallentamento" e "rischi di inflazione", sguardo morbido e sicuro su "cauto"
-
-* Tono: esposizione chiara e costante con un accento neutro da telegiornale internazionale
-
-* Illuminazione: illuminazione da studio morbida e direzionale con ombre delicate, che esalta il tono naturale della pelle
-
-* Sfondo: redazione moderna e minimale o sfondo a gradiente tenue (blu freddo o tonalità neutra)
-
-* Stile: look da trasmissione curato, qualità editoriale di alto livello
-
-lei dice: "La crescita globale sta rallentando, mentre i rischi di inflazione rimangono. Le banche centrali restano caute in mezzo all'incertezza in corso."
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/550319932c3cf3f8fe8341a23b98ba7d/thumbnails/thumbnail.jpg" width="600" alt="Simulazione di un conduttore di notizie professionale">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3537)**
-
-**Author:** [쇼너(Shoner) 🍔](https://x.com/ShonerStyle) | **Source:** [Link](https://x.com/ShonerStyle/status/2047084636728389768) | **Published:** Apr 22, 2026
-
----
-### Il prompt del riposo del Predator
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt narrativo per un video che mostra il personaggio Predator che torna a casa per riposarsi dopo una caccia.
-
-#### 📝 Prompt
-
-```
-Il Predator torna a casa dalla sua caccia quotidiana.
-Vuole solo un po' di riposo.
-Andrà tutto liscio?
-Buonanotte, Creator.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dbb75c06e906530f09b79a83d15e7b34/thumbnails/thumbnail.jpg" width="600" alt="Il prompt del riposo del Predator">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3531)**
-
-**Author:** [Petergu](https://x.com/PalfalviP497fz) | **Source:** [Link](https://x.com/PalfalviP497fz/status/2047049378800574492) | **Published:** Apr 22, 2026
-
----
-### Battaglia Pokémon fotorealistica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per Grok Imagine per generare un video di una battaglia Pokémon ad alta intensità all'interno di uno stadio con illuminazione dinamica.
-
-#### 📝 Prompt
-
-```
-Scena di battaglia Pokémon fotorealistica in un vivace stadio al coperto con luci intense dall'alto, segni luminosi sul campo di battaglia e una folla che esulta sfocata sullo sfondo. A sinistra si trova un Pokémon sicuro di sé
-```
-
-<img src="https://cms-assets.youmind.com/media/1776931330310_pwbb8w_HGiIOXsWAAAA_Uk.jpg" width="600" alt="Battaglia Pokémon fotorealistica">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3545)**
-
-**Author:** [King Gahamut](https://x.com/GahamutOG) | **Source:** [Link](https://x.com/GahamutOG/status/2047036312192946664) | **Published:** Apr 22, 2026
-
----
-### Soldato d'élite futuristico
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt tecnico per rendering 3D di un soldato cyberpunk con armatura nero opaco e dettagli arancioni luminosi, ambientato in una città futuristica.
-
-#### 📝 Prompt
-
-```
-Un rendering 3D cinematografico altamente dettagliato di un soldato futuristico delle forze speciali d'élite, con un'elegante armatura potenziata nero opaco, dettagli metallici argentati e visiera/occhi luminosi color arancio-giallo, in una posa d'azione dinamica su una strada cittadina futuristica. L'armatura è ultra-dettagliata, con piastre segmentate, giunti meccanici, tubi, tasche tattiche, circuiti luminosi arancioni e un mantello/soprabito tattico nero fluttuante. Sul retro/spalle sono montati grandi minigun o lanciarazzi pesanti. Il casco è integrale, dotato di ottiche avanzate e visiera luminosa. Inquadratura eroica dal basso, messa a fuoco nitida, illuminazione volumetrica, atmosfera cinematografica, droni in volo ed edifici futuristici sfocati sullo sfondo con effetto bokeh, leggero motion blur, stile sci-fi epico, estetica militare cyberpunk, 8k, fotorealistico, octane render, unreal engine 5 --stylize 250 --v 6
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a7f4bed6aebe5bb0dc07a80b4e2dfbc6/thumbnails/thumbnail.jpg" width="600" alt="Soldato d'élite futuristico">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3534)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2047032402430881902) | **Published:** Apr 22, 2026
-
----
-### Prompt video Imperatrice Tulipano e Guardiano Lumaca
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinematografico descrittivo per Grok Imagine che vede protagonista un'aggraziata imperatrice e una lumaca guardiana in un giardino stellato.
-
-#### 📝 Prompt
-
-```
-Imperatrice Tulipano e Guardiano Lumaca🐌
-
-Si muove attraverso giardini eterni con grazia silenziosa, mentre il suo lento guardiano trasporta frammenti di stelle lontane sul proprio guscio. C'è un bellissimo contrasto nel loro ritmo
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4a02f1a4c7dd14971866c411ac4e66ce/thumbnails/thumbnail.jpg" width="600" alt="Prompt video Imperatrice Tulipano e Guardiano Lumaca">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3543)**
-
-**Author:** [Tugba](https://x.com/TGBA2023) | **Source:** [Link](https://x.com/TGBA2023/status/2047018375713354041) | **Published:** Apr 22, 2026
-
----
-### Prompt per animazione dinamica dello sfondo del cielo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video tecnico per animare elementi di sfondo e un ciclo giorno-notte del cielo.
-
-#### 📝 Prompt
-
-```
-Elimina lo sfondo e fai muovere lentamente le ali e il cuore sul motivo del cielo con piccole nuvole; lo sfondo deve cambiare il cielo da giorno a notte, e di nuovo luce diurna e notte con le stelle.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d5cdeb6eebc1e9698c9ed6cd02d002f0/thumbnails/thumbnail.jpg" width="600" alt="Prompt per animazione dinamica dello sfondo del cielo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3542)**
-
-**Author:** [Ember Art](https://x.com/Ember8184Art) | **Source:** [Link](https://x.com/Ember8184Art/status/2047016309393670640) | **Published:** Apr 22, 2026
-
----
-### Prompt per il movimento e la rimozione dello sfondo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Istruzioni dirette per il modello per isolare gli elementi e animarli su un motivo di sfondo specifico.
-
-#### 📝 Prompt
-
-```
-Elimina lo sfondo e fai muovere le ali e il cuore sul motivo del cielo con piccole nuvole
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/20f79e0d6c2d4fc439d1009bfb48f018/thumbnails/thumbnail.jpg" width="600" alt="Prompt per il movimento e la rimozione dello sfondo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3541)**
-
-**Author:** [Ember Art](https://x.com/Ember8184Art) | **Source:** [Link](https://x.com/Ember8184Art/status/2047014971196809313) | **Published:** Apr 22, 2026
-
----
-### Topi e conigli nel vento
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per la generazione di video con topi e conigli tra nuvole e fiori mossi dal vento.
-
-#### 📝 Prompt
-
-```
-Topi e conigli e movimento delle nuvole mentre il vento continua a soffiare sui papaveri e sulle rose rosse
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8eef126c3df0fc7ca49c2b3b3e2ac5d1/thumbnails/thumbnail.jpg" width="600" alt="Topi e conigli nel vento">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3544)**
-
-**Author:** [Make Britain Great Again](https://x.com/DragonFlam7530) | **Source:** [Link](https://x.com/DragonFlam7530/status/2046963367319880013) | **Published:** Apr 22, 2026
-
----
-### Ripresa orbitale di un mech futuristico con pilota
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinematografico altamente dettagliato per un video 8K di 20 secondi che mostra un mech da combattimento futuristico e una pilota donna con un movimento di camera orbitale.
-
-#### 📝 Prompt
-
-```
-Un video cinematografico iperrealistico di 20 secondi in 8K, dettagli fotorealistici, 60fps ultra-fluidi: un imponente mech da combattimento futuristico alto circa 3,5 metri si erge con potenza all'interno di un laboratorio hangar sci-fi ad alta tecnologia. Il mech è pesantemente corazzato in un grigio canna di fucile metallizzato scuro con affilate linee di accento rosso brillante, intricate placche meccaniche, pistoni a vista, cavi idraulici e feroci occhi a visiera che emettono una luce verde neon. Il suo elmo presenta corna appuntite aggressive e dettagli LED rossi pulsanti.
-
-Una bellissima donna atletica con lunghi capelli biondo platino fluenti (parzialmente raccolti in una coda di cavallo alta che si muove drammaticamente) sta scalando dinamicamente e salendo completamente sul dorso e sulle spalle del mech, come una pilota che sale a bordo di una gigantesca macchina da guerra. Indossa una elegante tuta tattica nera e rossa con pannelli corazzati rinforzati, stivali da combattimento rossi, guanti rossi e un emblema a forma di teschio bianco sulla manica sinistra. Impugna una pistola compatta argentata nella mano destra, pronta all'azione.
-
-Nel corso dei 20 secondi, la donna scala fluidamente la gamba e il busto del mech, afferra l'armatura della spalla, si lancia sul dorso, aggiusta la posizione e si sistema con movimenti sicuri e potenti. Il mech compie sottili spostamenti meccanici — pistoni che sibilano, placche dell'armatura che si regolano, luci neon che pulsano — mentre sostiene il suo peso.
-
-La telecamera esegue una ripresa di tracciamento orbitale a 360° lenta, fluida e continua attorno alla coppia per tutti i 20 secondi, partendo da una drammatica angolazione dal basso di tre quarti frontale, completando due rotazioni eleganti e complete mentre si inclina delicatamente verso l'alto, terminando con una potente vista di tre quarti posteriore che rivela la corazza dorsale del mech e la posizione di comando della donna. Lo sfondo mostra un dettagliato hangar futuristico con pavimenti bianchi lucidi, pareti metalliche, pannelli olografici blu e ciano luminosi, luci industriali sospese, casse sparse, tubi e attrezzature sci-fi. Illuminazione volumetrica drammatica, forti luci di contorno, ombre cinematografiche profonde, sottili bagliori dell'obiettivo, atmosfera sci-fi epica, texture ultra-dettagliate, capolavoro, qualità eccellente, 8K.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fabca2d5148acf713d2044140fa1029b/thumbnails/thumbnail.jpg" width="600" alt="Ripresa orbitale di un mech futuristico con pilota">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3538)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2046937636783403171) | **Published:** Apr 22, 2026
-
----
-### Epica battaglia tra Robot e Drago d'Oro
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt tecnico estremamente dettagliato per un video cinematografico di 20 secondi con protagonista un robot gigante e un drago a tre teste.
-
-#### 📝 Prompt
-
-```
-Crea un drammatico video cinematografico AI verticale di 20 secondi (proporzioni 9:16, 1080x1920) di un'epica battaglia futuristica sopra il pianeta Terra. Ripresa aerea dinamica in campo lungo con inquadratura zenitale su una vasta città costiera e sull'oceano sottostante, soffici nuvole bianche, cielo azzurro brillante, luce solare intensa con effetti lens flare.
-
-Un colossale robot gigante di pietra e metallo chiamato "Xeno Leviathan Terraformer" svetta imponente al centro dell'inquadratura. Presenta piastre di armatura rocciose bianco-grigie crepate, giunture meccaniche e circuiti rossi luminosi esposti, vegetazione verde e muschio che crescono sulle sue enormi spalle e una corporatura massiccia e muscolosa.
-
-In primo piano, un maestoso drago d'oro a tre teste con scaglie dorate scintillanti e enormi ali simili a quelle di un pipistrello vola verso l'alto in direzione del robot.
-
-Sequenza:
-0-3s: Il drago d'oro a tre teste apre tutte e tre le fauci ruggenti e spara potenti raggi laser di energia giallo-oro convergenti direttamente sul petto del robot. Il petto del robot inizia a brillare di un giallo-arancio intensamente luminoso.
-
-3-6s: Il robot risponde al fuoco sparando due spessi e potenti raggi laser dorati dal petto direttamente verso il drago. Un elemento UI olografico blu futuristico appare brevemente al centro dello schermo con il testo bianco luminoso "Xeno Leviathan Terraformer".
-
-6-10s: La battaglia si intensifica drammaticamente. Gli occhi del robot si accendono di rosso. Il suo corpo si incrina sprigionando energia rossa. Scatena devastanti raggi laser gemelli rossi dai suoi occhi che sopraffanno l'attacco dorato del drago.
-
-10-15s: I raggi rossi colpiscono il drago con un'enorme forza esplosiva. Un'enorme esplosione infuocata avvolge il drago: fuoco arancione-giallo brillante, scintille, fumo e detriti volano ovunque.
-
-15-20s: Il drago viene completamente distrutto e si disintegra a mezz'aria in una spettacolare esplosione. Il robot vittorioso rimane in piedi con gli occhi rossi luminosi, circondato da fumo, detriti volanti e drammatici effetti lens flare della luce solare.
-
-Movimento di camera cinematografico: lenta rotazione orbitale e leggera inclinazione verso l'alto per tutta la sequenza. Iper-dettagliato, ultra-realistico, scala epica, stile trailer da blockbuster di Hollywood, azione intensa, illuminazione drammatica, composizione perfetta, qualità 8K.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/533a741d7c38f55934756427fc320dd5/thumbnails/thumbnail.jpg" width="600" alt="Epica battaglia tra Robot e Drago d'Oro">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3536)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2046855370317127794) | **Published:** Apr 22, 2026
-
----
-### Bellezza eterna nell'arte
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt estetico molto dettagliato per un'opera d'arte 3D che ritrae una bellezza eterea con decorazioni floreali.
-
-#### 📝 Prompt
-
-```
-Un'opera d'arte 3D vibrante che ritrae una bellezza eterea di profilo, con occhi chiusi, rossetto rosso e un collo lungo e sottile. I suoi voluminosi capelli biondi, ricci e curati, sono adornati da una grande peonia rossa, fiori rossi e rosa più piccoli e intricati motivi floreali dorati. Indossa un abito con motivi dorati e neri, arricchito da delicati fiori rosa. Lo sfondo è nero profondo con numerose linee verticali dorate e fiori rossi e oro sparsi. Un grande motivo circolare testurizzato, in rosso e oro, incornicia elegantemente il suo volto.
-```
-
-<img src="https://cms-assets.youmind.com/media/1776931320077_me6o78_HGe5E3WWsAApjZE.jpg" width="600" alt="Bellezza eterna nell'arte">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3540)**
-
-**Author:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **Source:** [Link](https://x.com/iamhappy2026/status/2046808164381696034) | **Published:** Apr 22, 2026
-
----
-### Decollo dell'aereo ibrido Eagle
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinematografico dettagliato per un futuristico aereo ibrido a forma di aquila che decolla dalla pista di un aeroporto.
-
-#### 📝 Prompt
-
-```
-Video verticale cinematografico di 6 secondi, CGI 8K ultra-realistica. Un mozzafiato aereo ibrido futuristico a forma di maestosa aquila bianca gigante sta decollando dalla pista di un affollato aeroporto internazionale moderno in una luminosa giornata di sole con un cielo azzurro terso.
-
-L'aereo è un prodigio dell'ingegneria: corpo metallico slanciato bianco e blu con linee aerodinamiche affilate, enormi ali simili a quelle di un'aquila che si spiegano e si aprono drammaticamente durante il decollo. L'elemento più sorprendente è il suo enorme collo curvo, simile a quello di un cobra, ricoperto di intricate piume bianche, che si erge alto sopra la fusoliera e termina con una testa d'aquila realistica e iper-dettagliata, dotata di un affilato becco dorato, occhi color ghiaccio penetranti ed espressione fiera.
-
-L'aereo parte da fermo sulla pista al centro dell'inquadratura, con i motori che brillano. Improvvisamente i motori a reazione posteriori si accendono con intense fiamme arancione-rosso e scie di fumo bianco denso. Accelera potentemente lungo la pista, con le ruote del carrello che girano velocemente, proiettando lunghe ombre drammatiche. La telecamera segue dinamicamente da un'angolazione cinematografica bassa, panoramica verso destra e inclinazione verso l'alto mentre l'aereo-aquila si stacca da terra, con il muso che si alza maestosamente. Le ali si estendono completamente come quelle di una vera aquila in volo. Il massiccio collo piumato e la testa d'aquila rimangono perfettamente eretti e regali mentre sale verso il cielo.
-
-Lo sfondo mostra edifici realistici del terminal aeroportuale, la torre di controllo, altri aerei e la segnaletica della pista. Illuminazione fotorealistica, luce dell'ora d'oro, bagliori dell'obiettivo, motion blur sulle ruote e sul fumo, scala epica, texture iper-dettagliate, piume che ondeggiano leggermente al vento, riflessi perfetti sulla fusoliera bianca lucida.
-
-Movimento della telecamera: ripresa in tracking fluida che inizia con un campo largo, poi segue il decollo con una drammatica inclinazione verso l'alto, terminando con l'aereo-aquila che vola potentemente verso il cielo azzurro. Color grading cinematografico, ultra-dettagliato, capolavoro, qualità eccellente.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/073018a06a991af2775d2b9ae35e2e2d/thumbnails/thumbnail.jpg" width="600" alt="Decollo dell'aereo ibrido Eagle">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3535)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2046802950149075287) | **Published:** Apr 22, 2026
-
----
-### Robot Mecha Colossale
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinematografico altamente dettagliato per un robot mecha logorato dalla battaglia in un paesaggio urbano industriale nebbioso, caratterizzato da colori e illuminazione specifici.
-
-#### 📝 Prompt
-
-```
-Un robot mecha colossale e logorato dalla battaglia, alto oltre 20 metri, ripresa cinematografica dal basso, armatura color blu ottanio e canna di fucile con accenti giallo oro e pesanti piastre rivettate, fortemente usurata e graffiata con realistici danni di guerra. Il robot indossa un minaccioso elmo in stile samurai-cavaliere con due alte corna/antenne appuntite, occhi a visiera giallo intenso che emettono fasci di luce luminosi. Un grande kanji giallo luminoso “市” è ben visibile sulla piastra pettorale. Massicci cannoni circolari luminosi montati sulle spalle, dettagli meccanici intricati, tubi idraulici esposti, pistoni e pannelli dell'armatura. Denso fumo bianco/vapore che si sprigiona drammaticamente dal busto e dalle spalle. Sfondo di un paesaggio urbano industriale nebbioso e drammatico con imponenti linee elettriche, tralicci e grattacieli sfocati appena visibili nella foschia. Illuminazione cinematografica, nebbia volumetrica, raggi crepuscolari, scala epica, fotorealistico, ultra-dettagliato, 8K, girato in IMAX, movimento dinamico, leggero motion blur sulle piastre dell'armatura in movimento, capolavoro, qualità eccellente.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/137cadf7aa0f882683d59449d872cd73/thumbnails/thumbnail.jpg" width="600" alt="Robot Mecha Colossale">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3533)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2046783168607596953) | **Published:** Apr 22, 2026
-
----
-### Tana accogliente con prompt di zoom della fotocamera
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video dettagliato che mostra un interno accogliente con un camino e uno zoom della fotocamera verso una finestra con pioggia e montagne innevate.
-
-#### 📝 Prompt
-
-```
-Tana accogliente
-Parete di libri, camino sulla parete opposta,
-Divano in pelle e tavolino rivolti verso il camino
-Finestra con vetri quadrati sullo sfondo,
-La fotocamera zooma verso la finestra, pioggia all'esterno, neve sulle cime delle montagne e alla base delle stesse
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/10c542f07f79a5070d4ec3f9d6214bfb/thumbnails/thumbnail.jpg" width="600" alt="Tana accogliente con prompt di zoom della fotocamera">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3532)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2046769122160291938) | **Published:** Apr 22, 2026
-
----
-### Animazione artistica a carboncino
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt incentrato sul movimento per animare un disegno a carboncino che rotola via da una pagina.
-
-#### 📝 Prompt
-
-```
-Fallo rotolare via dalla pagina nascondendo la mano, termina con un leggero rimbalzo, senza musica o mani visibili
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fe9180b1b8a9408cca0e3a86bf1d7418/thumbnails/thumbnail.jpg" width="600" alt="Animazione artistica a carboncino">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3539)**
-
-**Author:** [Audrey](https://x.com/AMrandom12345) | **Source:** [Link](https://x.com/AMrandom12345/status/2046747204019421253) | **Published:** Apr 22, 2026
-
----
-### Trasformazione di un gorilla in una banana di cemento
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt surrealista altamente dettagliato che descrive la sequenza di un gorilla che mangia una banana di cemento e si trasforma.
-
-#### 📝 Prompt
-
-```
-Dietro la struttura della banana, inserisci l'immagine di un gorilla silverback. Mostralo mentre apre e mangia la banana di cemento; dopodiché, si trasforma in un gorilla di cemento.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c2d65baeb565f3adf625f89e6ef33d6a/thumbnails/thumbnail.jpg" width="600" alt="Trasformazione di un gorilla in una banana di cemento">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3499)**
-
-**Author:** [Karen Alexander](https://x.com/Cardioechogramm) | **Source:** [Link](https://x.com/Cardioechogramm/status/2046746412382134500) | **Published:** Apr 22, 2026
-
----
-### Vista cinematografica divisa di un oceano a forma di cuore
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinematografico mozzafiato per Grok Imagine che crea una magica animazione con vista divisa di un oceano a forma di cuore.
-
-#### 📝 Prompt
-
-```
-scena cinematografica mozzafiato con vista divisa di un oceano a forma di cuore, ultra realistica e magica.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/01fc03eaa8cfadfab9e4ae2077039d1e/thumbnails/thumbnail.jpg" width="600" alt="Vista cinematografica divisa di un oceano a forma di cuore">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3492)**
-
-**Author:** [Bettis Miamis](https://x.com/ElisabeteTerro1) | **Source:** [Link](https://x.com/ElisabeteTerro1/status/2046740215138554318) | **Published:** Apr 21, 2026
-
----
-### Prompt per la creazione di un giardino segreto sul tetto
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per generare un video che aggiunge un giardino segreto e una porta a un cortile sul tetto.
-
-#### 📝 Prompt
-
-```
-Aggiungi un secondo cortile sul tetto, circondalo di palme e piante e crea un giardino segreto sul tetto..
-.
-una porta segreta tra la piattaforma di atterraggio sul tetto,
-il cortile e il giardino segreto sul tetto.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/554e978eb8c4b53168f960d430f0a339/thumbnails/thumbnail.jpg" width="600" alt="Prompt per la creazione di un giardino segreto sul tetto">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3488)**
-
-**Author:** [Luke Clayden](https://x.com/clayden5_luke) | **Source:** [Link](https://x.com/clayden5_luke/status/2046737481127678296) | **Published:** Apr 21, 2026
-
----
-### Prompt video per la manifestazione delle piramidi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video che descrive piramidi che appaiono e transitano tra le dimensioni in alta risoluzione.
-
-#### 📝 Prompt
-
-```
-Piramidi create in 6D e calate nella fisicità 3D, capolavoro, qualità ultra HD, alta risoluzione
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/af8b5ae45ed4a4cd6529d414465a9ab5/thumbnails/thumbnail.jpg" width="600" alt="Prompt video per la manifestazione delle piramidi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3495)**
-
-**Author:** [MIUZAH DEIOPAH OF THE PLEIADES](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2046714606895169953) | **Published:** Apr 21, 2026
-
----
-### Ballo della Bamba con oggetti di scena da samurai
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt che descrive una vivace scena di ballo con specifici movimenti di coppia e oggetti di scena da samurai sullo sfondo.
-
-#### 📝 Prompt
-
-```
-Un uomo e una donna eseguono un vivace ballo della Bamba con gioiosi movimenti di coppia, mentre delle spade da samurai riposano al sicuro di lato come oggetti di scena....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6a7ae42081271aee75ea8fa96ef8de53/thumbnails/thumbnail.jpg" width="600" alt="Ballo della Bamba con oggetti di scena da samurai">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3490)**
-
-**Author:** [Hyun Lee](https://x.com/HolyMolySakura) | **Source:** [Link](https://x.com/HolyMolySakura/status/2046690014667382958) | **Published:** Apr 21, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2356,6 +2384,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-29T06:30:46.802Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-29T10:14:38.180Z</sub>
 
 </div>
