@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1291** |
+| 📝 Total Prompts | **1309** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-04-30** |
 
@@ -189,6 +189,262 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Extraterrestrial Encounter Cinematic Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly descriptive cinematic prompt for a sci-fi scene involving biomechanical entities on a distant world, witnessed from a scout ship cockpit.
+
+#### 📝 Prompt
+
+```
+From the cockpit of a scout ship, a lone pilot witnesses the arrival of colossal, biomechanical entities on a distant world. The scale of these cosmic giants is breathtaking...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e7cd9224114f51232a46bf70ff73ebee/thumbnails/thumbnail.jpg" width="600" alt="Extraterrestrial Encounter Cinematic Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3905)**
+
+**Author:** [aran leigh](https://x.com/aran_leigh) | **Source:** [Link](https://x.com/aran_leigh/status/2049745114143096862) | **Published:** Apr 30, 2026
+
+---
+### Shakespeare Monologue Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A sophisticated multi-stage video prompt including character speech, scene expansion to a spinning Earth, and a final modernization with a cataclysmic ending.
+
+#### 📝 Prompt
+
+```
+10s; 720p
+Please have Shakespeare’s say “All the world’s a stage,
+And all the men and women merely players; They have their exits and their entrances, And one man in his time plays many parts.”
+
+[Extend 10s]
+Have him walk away, and the Earth begins to spin in the background, as well as the towns people that are walking down in between the curtains, come alive
+
+[Extend 10s]
+Continue and then modernize at the end. I would like to see a cataclysmic event on earth 😉
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8def5d1623751a5c059ff63d6fa6f513/thumbnails/thumbnail.jpg" width="600" alt="Shakespeare Monologue Sequence">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3906)**
+
+**Author:** [Jenny BSN RN LMT](https://x.com/mommaleo) | **Source:** [Link](https://x.com/mommaleo/status/2049650868333555759) | **Published:** Apr 30, 2026
+
+---
+### Woman Drinking Bordeaux with Bubbles
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt of a woman enjoying an expensive glass of wine surrounded by bubbles.
+
+#### 📝 Prompt
+
+```
+she is oblivious to the world drinking her world's most expensive glass of Bordeaux with bubbles all around
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0aac0f29acc03fdd3c1cb7a714bcacb1/thumbnails/thumbnail.jpg" width="600" alt="Woman Drinking Bordeaux with Bubbles">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3902)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2049625903160811870) | **Published:** Apr 29, 2026
+
+---
+### Ritual Butter Lamp Offering
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt showing girls offering butter lamps at a Stupa with a traditional mantra.
+
+#### 📝 Prompt
+
+```
+Butter lamp offering to Stupa by these girls turn your directions for offerings Om mani paymay hong
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/89084d9cd3100d1b2654a39d3057c9be/thumbnails/thumbnail.jpg" width="600" alt="Ritual Butter Lamp Offering">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3899)**
+
+**Author:** [Tshering Norbu](https://x.com/Tshering_2025) | **Source:** [Link](https://x.com/Tshering_2025/status/2049623758240178567) | **Published:** Apr 29, 2026
+
+---
+### 1970s Skater Woman
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt generating a woman posing as a skater in 1970s style, wearing a specific ringer t-shirt.
+
+#### 📝 Prompt
+
+```
+A woman poses as a skater in 1970s style, wearing a "MEME" ringer t-shirt against a plain background.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/89d49f6afe685b78c380d4e1e4e75dcf/thumbnails/thumbnail.jpg" width="600" alt="1970s Skater Woman">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3904)**
+
+**Author:** [Shannon Lee](https://x.com/slpetitjean) | **Source:** [Link](https://x.com/slpetitjean/status/2049588997266255880) | **Published:** Apr 29, 2026
+
+---
+### Nikola Tesla Magical Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A stylized animation prompt featuring Nikola Tesla interacting with a magical pulsating number three, set to an eerie background score.
+
+#### 📝 Prompt
+
+```
+Make graphical animations of each heading and the man (Nikola Tesla) grabs hold of the number “3” which is pulsating and looks really magical, and he says “the true magic of three is yet to be revealed!”
+The background music is eerie and subliminal
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/33cecc71e0daba35756530bb075267c9/thumbnails/thumbnail.jpg" width="600" alt="Nikola Tesla Magical Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3898)**
+
+**Author:** [3.MiKeE.H](https://x.com/3MH) | **Source:** [Link](https://x.com/3MH/status/2049583435925045324) | **Published:** Apr 29, 2026
+
+---
+### Forgotten Cavern Discovery
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic sci-fi prompt for a video showing a wanderer discovering a biomechanical AI in a cavern.
+
+#### 📝 Prompt
+
+```
+A lone wanderer makes an incredible discovery deep within a forgotten cavern, facing a colossal, biomechanical AI that holds ancient secrets...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0c199350c7e92ffa9324993d39c43b6b/thumbnails/thumbnail.jpg" width="600" alt="Forgotten Cavern Discovery">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3908)**
+
+**Author:** [aran leigh](https://x.com/aran_leigh) | **Source:** [Link](https://x.com/aran_leigh/status/2049574107390370253) | **Published:** Apr 29, 2026
+
+---
+### Quantum 4D Motion Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A sophisticated prompt for generating a video of a quantum 4D solid state rotating and warping.
+
+#### 📝 Prompt
+
+```
+Quantum 4D solid state rotating to a  pause  Then warping and flipping back to its original state
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/70ae0ce4592d78c2a3537e0e55ba039c/thumbnails/thumbnail.jpg" width="600" alt="Quantum 4D Motion Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3903)**
+
+**Author:** [Shia Miller](https://x.com/StrategicProce) | **Source:** [Link](https://x.com/StrategicProce/status/2049521402118537318) | **Published:** Apr 29, 2026
+
+---
+### Narrative Horse Ride
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A multi-scene narrative prompt involving a horse ride, a cheering crowd, and a prisoner.
+
+#### 📝 Prompt
+
+```
+She rides on a horse.  A crowd waves and cheers.  The prisoner is in jail watching her leave.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c66d7600605ee5698fd360d206c25793/thumbnails/thumbnail.jpg" width="600" alt="Narrative Horse Ride">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3894)**
+
+**Author:** [Rachele Kirk](https://x.com/JustForFunRach) | **Source:** [Link](https://x.com/JustForFunRach/status/2049518681856921642) | **Published:** Apr 29, 2026
+
+---
+### On Humanity: Galactic Megastructure
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed, cinematic prompt for generating a majestic space station orbiting an Earth-like planet, featuring intricate metallic structures, glowing plasma rings, and epic camera movements.
+
+#### 📝 Prompt
+
+```
+Cinematic, photorealistic 8K ultra-dramatic masterpiece video of a colossal, god-like futuristic space megastructure orbiting a breathtaking blue Earth-like planet. The immense ring-shaped space station features glowing intense blue plasma energy rings that pulse with raw power, intricate metallic architecture, towering spires, complex industrial modules, and glowing cyan-orange accents. A massive modular spaceship section extends from the central ring with glowing details, while the entire structure slowly rotates with majestic grandeur. The camera moves in extreme ultra slow motion with an incredibly slow, deliberate, and epic 360-degree orbit around the entire colossal station, revealing its overwhelming scale and breathtaking beauty against the vibrant blue planet, swirling clouds, and deep space backdrop. Dramatic volumetric god rays pierce through cosmic dust and nebulae, intense lens flares from distant stars, rich rim lighting on every metallic surface, and an overwhelming sense of awe and transcendence. Deep space is filled with vibrant blue-white nebulae, countless twinkling stars, distant galaxies, and slowly tumbling asteroids. The atmosphere is emotionally charged and profoundly cinematic. Powerful, swelling epic orchestral cinematic score with deep booming horns, emotional choir, thunderous drums, and soaring strings builds to a heart-pounding climax in the style of Hans Zimmer. A deep, inspiring, and passionate voiceover in Elon Musk’s distinctive voice echoes powerfully across the cosmos: “We are here for Humanity.” Ultra slow motion throughout, hyper-detailed metallic textures, realistic glowing lights pulsing slowly, subtle atmospheric haze, filmic color grading, shallow depth of field, soft cinematic bokeh, 24fps, 10-second duration, maximum emotional and dramatic impact, transcendent sci-fi masterpiece. Cinematic orchestral trailer music, Sustained string pads in C minor provide a harmonic bed for a deep, resonant male voiceover, A low-frequency synth drone sits at the bottom of the mix, Orchestral percussion enters with a single, reverberant taiko hit followed by a rising string tremolo, The tempo is 70 BPM, The arrangement features a gradual crescendo with brass swells and staccato cello ostinatos, High-frequency digital glitches and a subtle sub-bass pulse punctuate the transitions, The vocal delivery is spoken, rhythmic, and processed with a short room reverb
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/03579db5fd50e4404e075a3291bbd702/thumbnails/thumbnail.jpg" width="600" alt="On Humanity: Galactic Megastructure">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3901)**
+
+**Author:** [DJQuantumTheory](https://x.com/DJQuantumTY) | **Source:** [Link](https://x.com/DJQuantumTY/status/2049511869208273193) | **Published:** Apr 29, 2026
+
+---
+### Surreal Monkey Hatching Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal prompt describing white monkeys hatching from stone eggs at a character's feet.
+
+#### 📝 Prompt
+
+```
+At her feet sits 18 stone eggs and at once each egg a white monkey hatches from each stone egg
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5066c1fab79775755f1f0d2b32c4b536/thumbnails/thumbnail.jpg" width="600" alt="Surreal Monkey Hatching Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3893)**
+
+**Author:** [unseendigitalweb](https://x.com/AiMd7997) | **Source:** [Link](https://x.com/AiMd7997/status/2049466007433953318) | **Published:** Apr 29, 2026
+
+---
+### Mayan Warrior Digital Codex
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt of a Mayan warrior activating an ancient obsidian blade within a glowing digital realm.
+
+#### 📝 Prompt
+
+```
+In the heart of a digital simulation, a powerful Mayan warrior activates an ancient obsidian blade with sunlight, causing the entire sacred digital realm to awaken and glow.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/edf8f08e94a4bf0cf73e2a1a601e7613/thumbnails/thumbnail.jpg" width="600" alt="Mayan Warrior Digital Codex">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3897)**
+
+**Author:** [🎩 vy6e9e.eth🎩🎲](https://x.com/vydjones) | **Source:** [Link](https://x.com/vydjones/status/2049447336435228979) | **Published:** Apr 29, 2026
+
+---
+### Image-to-Video Character Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A motion instruction prompt for animating a character from a reference image, involving turning and walking toward the camera with orbital movement.
+
+#### 📝 Prompt
+
+```
+From the given image: First, she turns her body to face the camera. Then, she walks toward camera while camera dollies back. Second, orbit around her as she continues walking.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/95b3c88a803692e8811b7cf0983b5649/thumbnails/thumbnail.jpg" width="600" alt="Image-to-Video Character Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3896)**
+
+**Author:** [David Liang](https://x.com/DavidLi36143625) | **Source:** [Link](https://x.com/DavidLi36143625/status/2049407773725855972) | **Published:** Apr 29, 2026
+
+---
 ### Cinematic Spacecraft Launch Video Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -229,19 +485,57 @@ She walks up to the camera, looks into the camera as though she is looking throu
 **Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2049371446309466422) | **Published:** Apr 29, 2026
 
 ---
-### Methane Sea Cosmic Journey
+### Quantum Wormhole Travel
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A sci-fi cosmic video prompt describing a journey to a methane sea and viewing Saturn's rings on edge.
+> A highly visual video prompt describing a woman in a chrome suit traveling through a light-speed wormhole.
 
 #### 📝 Prompt
 
 ```
-Sci Fi, cosmic, journey to methane sea on , we wait for night when Saturns rings stand on  edge
+Travelling through a quantum wormhole at light speed, a woman in an advanced chrome suit, light swirling, intense reflections, mind bending
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/733a76ff2ccc92c8565b1a934eb1d9cb/thumbnails/thumbnail.jpg" width="600" alt="Methane Sea Cosmic Journey">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/02528f40f2be2d6d0ab3d05ac5436888/thumbnails/thumbnail.jpg" width="600" alt="Quantum Wormhole Travel">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3900)**
+
+**Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2049370810918510658) | **Published:** Apr 29, 2026
+
+---
+### Cinematic Viking Warrior Duel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed 10-second cinematic sequence showing an anime-style Viking warrior being challenged in a feast hall, featuring complex camera work and lighting.
+
+#### 📝 Prompt
+
+```
+10-second vertical video. a young anime semi-realistic Viking warrior, short unbraided red beard, leather vest, sits at edge of crowded feast hall firelight. 0-5s medium shot, a hulking veteran warrior mocks him across the flames, pointing and laughing, others join, Torvald grips his plain iron axe, knuckles white, glacier-blue eyes locked on the challenger but body still seated. 5-10s close-up slow push-in, Torvald stands without a word, axe in hand, firelight dancing across his jaw, the jarl at the high table raises a hand giving silent permission to duel. Warm fire-orange and charcoal palette, heavy smoke, ink-line shadows, Castlevania meets Vinland Saga aesthetic. Final beat: Torvald steps into the center circle, axe ready.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d11c5305dce0fc9927954ff82fd8a8cd/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Viking Warrior Duel">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3895)**
+
+**Author:** [Lionars](https://x.com/InterestedBrain) | **Source:** [Link](https://x.com/InterestedBrain/status/2049364995931025803) | **Published:** Apr 29, 2026
+
+---
+### Sci-Fi Journey to Methane Sea
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic sci-fi prompt describing a journey to a methane sea with Saturn's rings in the background.
+
+#### 📝 Prompt
+
+```
+Sci Fi, cosmic, journey to methane sea on , we wait for night when Saturns rings stand on edge
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/51004a5d972d732d688205e78f1cf9f6/thumbnails/thumbnail.jpg" width="600" alt="Sci-Fi Journey to Methane Sea">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3844)**
 
@@ -265,6 +559,89 @@ Close up of an iris flower leaf in a garden, two dew drops slowly slide down the
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3846)**
 
 **Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2049349822906601803) | **Published:** Apr 29, 2026
+
+---
+### Serene High Elf Female
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A visually rich prompt for generating a mystical forest scene featuring an ancient high elf with ethereal lighting.
+
+#### 📝 Prompt
+
+```
+A serene ancient high elf female idol in a mystical forest, with ethereal light and golden hues.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/95523d311491e8ec189bd049b2825e33/thumbnails/thumbnail.jpg" width="600" alt="Serene High Elf Female">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3892)**
+
+**Author:** [Takyi Gabriel](https://x.com/TakyiGabrimmgm) | **Source:** [Link](https://x.com/TakyiGabrimmgm/status/2049323001221370366) | **Published:** Apr 29, 2026
+
+---
+### Stealthy Descent Past Skeleton Men
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt showing a character moving silently down stairs while being ignored by skeleton figures.
+
+#### 📝 Prompt
+
+```
+He descends the stairs in silence and the skeleton men do not notice him
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/82ecb6bb32ab323501a96e3a6749b7e7/thumbnails/thumbnail.jpg" width="600" alt="Stealthy Descent Past Skeleton Men">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3909)**
+
+**Author:** [LoïC](https://x.com/Buffyisnotdead) | **Source:** [Link](https://x.com/Buffyisnotdead/status/2049302455712653380) | **Published:** Apr 29, 2026
+
+---
+### Anime conversation scene with micro zoom
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt for a cinematic anime scene featuring two supermarket employees talking, with specific instructions for camera movement and character interaction.
+
+#### 📝 Prompt
+
+```
+A cinematic slice-of-life anime scene at a supermarket checkout during sunset.
+
+Right side: a black-haired adult woman wearing a white blouse and deep green apron with an FP1 badge, calm and slightly tired expression, facing left.
+
+Left side: a blonde woman with a gentle and empathetic expression, same uniform and flower accessory, slightly leaning toward the center.
+
+Both characters wear matching soft flower crowns symbolizing hope.
+
+Soft pastel color palette, very thin delicate anime lineart, flat soft shading, minimal rendering, soft ambient sunset lighting, warm gentle atmosphere.
+
+Background: softly blurred supermarket shelves and a faint rainbow visible through the window.
+
+Camera: natural eye-level, soft 45-degree conversation angle.
+
+Very subtle micro zoom toward the left side (from the black-haired woman’s perspective) while the left character speaks.
+
+Dialogue (Japanese voice only):
+
+Blonde woman on the left (gentle female voice)
+
+"If you don't have time off... the boundaries of your feelings... they just disappear, don't they?"
+
+Acting: subtle facial expression, small natural movements only.
+
+IMPORTANT RULE:
+
+only the speaking character moves their mouth, all other characters keep their mouths completely closed, no lip movement for non-speaking characters
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/74b6aca4c90ac09612211d9c5b12653f/thumbnails/thumbnail.jpg" width="600" alt="Anime conversation scene with micro zoom">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3907)**
+
+**Author:** [テカひめ｜FP1級｜賢者に転職できない遊び人Lv.20/すっぴんLv.1](https://x.com/tekka5154) | **Source:** [Link](https://x.com/tekka5154/status/2049302448872042913) | **Published:** Apr 29, 2026
 
 ---
 ### Cats Tarot Reading
@@ -713,23 +1090,23 @@ Rotate the camera in a circle 360 degrees continuously left to right no body mov
 **Author:** [Paragon](https://x.com/paragon_andy) | **Source:** [Link](https://x.com/paragon_andy/status/2048839088967504003) | **Published:** Apr 27, 2026
 
 ---
-### Cinematic Corridor Sequence
+### Sci-Fi Cinematic Corridor Walk
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed video prompt for a cinematic sequence focusing on a character walking down a hallway with specific camera focus.
+> A cinematic video prompt designed for Grok Imagine that creates a consistent character sequence, starting with a close-up on the character's feet as they walk down a science fiction hallway.
 
 #### 📝 Prompt
 
 ```
-35mm bridge plate from inside the dome looking out to space. Cinema-quality establishing. 85mm telephoto corridor with gorgeous DOF compression on the airlock at the end of the hall. The way the corridor recedes, the practicals along the walls, the rim lighting on the floor panels. Empty corridor, ready to populate. ECU of boots on the corridor floor with the deep-focus pull through the hallway. the shot begins with an ECU of the woman's feet. She walks down the hallway, away from the camera, slowly, deliberately. We hear her boots on the walkway with each step.
+the shot begins with an ECU of the woman's feet. She walks down the hallway, away from the camera, slowly, deliberately. We hear her boots on the walkway with each step.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f81bce0250a9de8e7d303f60e27efe02/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Corridor Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/83075dd22565b830cde87585ffaccb1a/thumbnails/thumbnail.jpg" width="600" alt="Sci-Fi Cinematic Corridor Walk">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3802)**
 
-**Author:** [M I K E • マイケル・リックス](https://x.com/michaelricks) | **Source:** [Link](https://x.com/michaelricks/status/2048820507269575075) | **Published:** Apr 27, 2026
+**Author:** [M I K E • R I C K S](https://x.com/michaelricks) | **Source:** [Link](https://x.com/michaelricks/status/2048820507269575075) | **Published:** Apr 27, 2026
 
 ---
 ### Monochrome Underworld Ghost Train
@@ -1932,369 +2309,6 @@ A charming illustration features a female character with light skin, large eyes,
 **Author:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **Source:** [Link](https://x.com/iamhappy2026/status/2047399202670682487) | **Published:** Apr 23, 2026
 
 ---
-### Pleiadian Galactic Federation and UFO
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A sci-fi masterpiece prompt featuring Galactic Federation members in jumpsuits next to a landed UFO.
-
-#### 📝 Prompt
-
-```
-Pleiadian Galactic Federation members in blue jumpsuits with silver boots next to a landed Light Ship UFO, masterpiece
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ddf73ac86c852255f75edb61fbe7c13a/thumbnails/thumbnail.jpg" width="600" alt="Pleiadian Galactic Federation and UFO">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3597)**
-
-**Author:** [MIUZAH DEIOPAH OF THE PLEIADES](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2047396158624997705) | **Published:** Apr 23, 2026
-
----
-### Paper Quilling Nature Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An intricate prompt for a video in a 3D paper quilling art style featuring dragonflies and flowers.
-
-#### 📝 Prompt
-
-```
-3D paper quilling art style
-Foreground water
-Two Dark blue and light blue dragon flies over pond 
-Background thin strip of grass at waters edge
-Iris flowers vibrant hues of full spectrum of color 
-Roses full spectrum of color from pastel to vibrant
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/87551e11f9f44e09d30ed7c43d1e9052/thumbnails/thumbnail.jpg" width="600" alt="Paper Quilling Nature Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3588)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2047390091065299103) | **Published:** Apr 23, 2026
-
----
-### Lip Sync Narrative Interaction
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A complex interaction prompt involving awkward glances and specific lip-synced dialogue between characters.
-
-#### 📝 Prompt
-
-```
-they glance at each other awkwardly then she looks away blushing
-Girl asked the boy lip sync( why are you sad my lil dragon, I didn’t want to hurt you, I hope you will forgive me)
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b228fce2f687b3009819947ce640454a/thumbnails/thumbnail.jpg" width="600" alt="Lip Sync Narrative Interaction">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3598)**
-
-**Author:** [orla nelson](https://x.com/orlanelson58474) | **Source:** [Link](https://x.com/orlanelson58474/status/2047385573011124706) | **Published:** Apr 23, 2026
-
----
-### Bedboard Guardian Monster
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A whimsical prompt for a video featuring a small green and pink flying monster acting as a protector for a young girl.
-
-#### 📝 Prompt
-
-```
-Small green and pink small flying monster sit her on the headboard of a girls bed protecting her through the night
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2375845819503023b2e550e06b3d044f/thumbnails/thumbnail.jpg" width="600" alt="Bedboard Guardian Monster">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3580)**
-
-**Author:** [HisMoonRey](https://x.com/BrokenWings53) | **Source:** [Link](https://x.com/BrokenWings53/status/2047373756830560657) | **Published:** Apr 23, 2026
-
----
-### Ultra cinematic oil painting of woman and tree
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A high-quality artistic prompt for a cinematic oil painting featuring a woman, a pink-leafed tree, and a soft rainbow in Art Deco style.
-
-#### 📝 Prompt
-
-```
-Ultra cinematic oil painting of a stunning woman standing beside a single elegant tree with pink leaves, a soft rainbow glowing behind it, a few white birds resting on branches, composition minimal with strong focus, thick impasto brush strokes, Art Deco balance with Rococo organic curves, 8K.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/49e1e782a69405d44d474e1f371a5788/thumbnails/thumbnail.jpg" width="600" alt="Ultra cinematic oil painting of woman and tree">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3581)**
-
-**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2047371464031011306) | **Published:** Apr 23, 2026
-
----
-### Cinematic Mecha Sniper in Arctic Tundra
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A comprehensive cinematic prompt for an armored mecha sniper with energy weapons in a frozen environment, including shot sequences and VFX details.
-
-#### 📝 Prompt
-
-```
-A cinematic, wide-angle shot of a massive, heavily armored mecha sniper emerging from a thick layer of ice and snow in a desolate arctic tundra. The mecha is pristine white and industrial, featuring a colossal railgun-style sniper rifle with glowing blue energy components. It shifts into a stable firing stance, shedding chunks of ice as it moves.
-
-The Shot Sequence:
-The Activation: Close-up on the barrel as blue electrical arcs and a swirling energy vortex charge up at the muzzle. A high-tech digital HUD overlay flickers across the screen with targeting data.
-The Firing: The railgun fires a powerful kinetic blast, creating a massive sonic boom and shockwave that clears the snow.
-The Impact: The camera follows a high-speed projectile or a jet-propelled craft streaking across the frozen plains at ground level, leaving a dual trail of displaced snow behind it, culminating in a massive explosion against a distant ice wall.
-
-Environment & Atmosphere:
-Setting: A vast, wind-swept arctic landscape with towering icebergs and a heavy, overcast grey sky.
-Lighting: Cold, diffused natural light with high-contrast glowing blue accents from the mecha’s sensors and weaponry.
-VFX: Realistic particle effects for falling snow, shattering ice, and swirling mist. Heavy motion blur on the high-speed chase sequence.
-Style: * Ultra-realistic 3D animation, 8k resolution, cinematic sci-fi aesthetic, reminiscent of Armored Core or Metal Gear Solid.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b098042b880adc759b7e1eff1fb6ff8b/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Mecha Sniper in Arctic Tundra">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3583)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2047354600106201263) | **Published:** Apr 23, 2026
-
----
-### Stone Sundial and Owl Dome
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic prompt for a video ending with a stone sundial and an owl surrounded by a dome of vegetation.
-
-#### 📝 Prompt
-
-```
-At the end of the video is what looks like a sundial made out of solid stone and granite and there is a stone owl on a plant somewhere strategically placed surrounded by an inner dome of vegetation all around the camera
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cd4bd12e605f74605f35067f31cd4ce3/thumbnails/thumbnail.jpg" width="600" alt="Stone Sundial and Owl Dome">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3594)**
-
-**Author:** [Make Britain Great Again](https://x.com/DragonFlam7530) | **Source:** [Link](https://x.com/DragonFlam7530/status/2047319972402151710) | **Published:** Apr 23, 2026
-
----
-### Singing Dog Birthday Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A heartwarming prompt for a video of a dog named Lanie singing happy birthday to another dog named Carbon.
-
-#### 📝 Prompt
-
-```
-Have this little dog, whose name is LANIE sing happy birthday to her puppy daddy named Carbon. It’s carbon fifth birthday.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/81c11b2d91b0f1e81b0b294998af5e10/thumbnails/thumbnail.jpg" width="600" alt="Singing Dog Birthday Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3590)**
-
-**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2047310172607906043) | **Published:** Apr 23, 2026
-
----
-### Floating rock spire landscape
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic prompt for generating a landscape video featuring floating islands and jagged rock spires above golden clouds with motion.
-
-#### 📝 Prompt
-
-```
-The scene is filled with massive jagged rock spires and floating islands above a sea of golden clouds. The environment is unchanged, with a slow but powerful sense of movement.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2fb98b1a72f90be03b45c643c69750f0/thumbnails/thumbnail.jpg" width="600" alt="Floating rock spire landscape">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3585)**
-
-**Author:** [Alamgir Hossain](https://x.com/mdalamgir95) | **Source:** [Link](https://x.com/mdalamgir95/status/2047293789983953278) | **Published:** Apr 23, 2026
-
----
-### Red Hartebeest running in Kalahari summer
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed descriptive prompt for a video showing a herd of Red Hartebeest antelopes running across the Kalahari plains.
-
-#### 📝 Prompt
-
-```
-The Red Hartebeest (Alcelaphus buselaphus caama) 🇿🇦 South Africa’s high-stamina Kalahari endurance runners! 🌞🏜️🦌 Under the bright midday sun of the Kalahari plains in summer, a herd suddenly erupts into a powerful endurance run across the open grasslands. With their distinctive long faces, high-set eyes, and boldly curved horns held high, these large reddish-brown antelope move with surprising grace and coordination, their 150–200 kg bodies perfectly scaled against scattered acacia trees and vast horizons. Built for distance rather than short sprints, they are among Africa’s most tireless runners, capable of maintaining high speeds over long stretches while zigzagging to confuse predators. Males weigh up to 150–180 kg, females around 120–150 kg; shoulder height ~1.25–1.35 m. Can reach speeds of 55–80 km/h with exceptional stamina for sustained running. Live in herds of 10–30 (sometimes more), highly alert and visual, using coordinated movements for safety on open plains. Primarily graze on grasses but also browse leaves; highly adapted to arid Kalahari conditions with ability to go without water for long periods. Distinctive lyre-shaped horns joined at the base, longer face than other hartebeest subspecies.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0a0d94761626c9e52600394e63430f84/thumbnails/thumbnail.jpg" width="600" alt="Red Hartebeest running in Kalahari summer">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3602)**
-
-**Author:** [👻🇿🇦PhantomXMusik69🎶🎭](https://x.com/PhantomXMusic69) | **Source:** [Link](https://x.com/PhantomXMusic69/status/2047273343682765194) | **Published:** Apr 23, 2026
-
----
-### Mysterious Japanese Warrior
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt for an Asian warrior woman in a traditional Japanese village with moody lighting.
-
-#### 📝 Prompt
-
-```
-A highly detailed cinematic scene of a mysterious Asian warrior woman standing in an ancient Japanese village during a cloudy day. She wears a dark, elegant kimono with intricate patterns and a black face mask covering her lower face. Her hair is styled in an elaborate updo adorned with sharp, artistic hair ornaments. She carries a traditional bag on her shoulder.
-The background shows a slightly blurred crowd and old wooden buildings, creating depth and realism. Soft wind gently moves her kimono fabric and loose hair strands. The atmosphere is moody and dramatic with cool, desaturated color grading.
-Camera slowly pushes in with a shallow depth of field, focusing on her eyes. Subtle cinematic motion, realistic lighting, ultra-realistic textures, 4K quality, film grain, soft shadows, dramatic tone.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/585a6947747d9e6634a194d7ad73c678/thumbnails/thumbnail.jpg" width="600" alt="Mysterious Japanese Warrior">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3589)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2047271662324772962) | **Published:** Apr 23, 2026
-
----
-### Scottish Rabbit Voice Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A humorous prompt for Grok Imagine to make a rabbit character speak with a tough Scottish accent and specific dialogue.
-
-#### 📝 Prompt
-
-```
-Make the rabbit talk in a tough Scottish voice and say Whit? Ye sleepy, ya daft wee numpty? Waaken up, laddie! Grab some Irish breakfast tea an' a fine egg—there's slayin' tae be done, ya lazy scunner!
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8bf537f462523cb48d0d2ffb530b38e6/thumbnails/thumbnail.jpg" width="600" alt="Scottish Rabbit Voice Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3600)**
-
-**Author:** [Frank Baker](https://x.com/HarmonyGamer11) | **Source:** [Link](https://x.com/HarmonyGamer11/status/2047262708072956319) | **Published:** Apr 23, 2026
-
----
-### Talking Head Singing Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly specific motion prompt for Grok Imagine to create a singing animation with detailed tongue movements and timing instructions.
-
-#### 📝 Prompt
-
-```
-Have me say can I sing on here yet?  Laa Laa Laa Laaaa as separate laa's while moving tongue to top teeth to begin each laaa and leaving original photo static in the beginning at end for one second each place
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/acbed93bdf81f6328c03bd5f62924566/thumbnails/thumbnail.jpg" width="600" alt="Talking Head Singing Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3599)**
-
-**Author:** [🔥Pass The Torch 🔥⚔️🇺🇸](https://x.com/PassTheTorch101) | **Source:** [Link](https://x.com/PassTheTorch101/status/2047248899161661778) | **Published:** Apr 23, 2026
-
----
-### Futuristic Spacecraft Launch
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed cinematic prompt for a vertical takeoff of a futuristic spacecraft during a storm.
-
-#### 📝 Prompt
-
-```
-A dramatic cinematic scene of a massive, sleek futuristic white-and-silver spacecraft with intricate mechanical details, glowing orange and blue thrusters, and articulated landing legs, preparing for takeoff on a vast wet tarmac in front of a enormous modern glass-and-steel hangar building. The sky is dark and stormy with powerful lightning bolts striking dramatically in the background. Crowds of people in dark clothing stand around watching in awe, many holding up phones and cameras. 
-
-The spacecraft is in the process of vertical takeoff: engines firing bright orange flames and blue energy glows, thick smoke and heat haze billowing from the thrusters, landing legs extending, panels and thruster nozzles opening and activating. Highly detailed, photorealistic, epic lighting with reflections on the wet ground, volumetric god rays, cinematic composition from a high three-quarter angle, cyberpunk sci-fi atmosphere, IMAX quality, 8k, ultra-realistic --ar 9:16 --stylize 250 --v 6
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1468c8af7f06c71ee8b40f67daf83578/thumbnails/thumbnail.jpg" width="600" alt="Futuristic Spacecraft Launch">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3587)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2047192350993097185) | **Published:** Apr 23, 2026
-
----
-### Doves in White Stripes music video style
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt of doves flying across a stage in red rain, styled after music videos by The White Stripes.
-
-#### 📝 Prompt
-
-```
-Doves flys across the stage red rain the music video style the white stripes use
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dc978203818341b48e618e1f4740834f/thumbnails/thumbnail.jpg" width="600" alt="Doves in White Stripes music video style">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3595)**
-
-**Author:** [christopher deavey](https://x.com/CDukedemonte) | **Source:** [Link](https://x.com/CDukedemonte/status/2047132891256103386) | **Published:** Apr 23, 2026
-
----
-### Santa wrapping mummies
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A creative holiday-themed horror prompt where Santa Claus mummifies figures in red and green wrap.
-
-#### 📝 Prompt
-
-```
-Santa wraps the mummies  over avd over again  until they  are totally  mummified and’s encased in green  and red  vet wrap
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/891a55dd1aeabf357f0df0a0b2d8c4a8/thumbnails/thumbnail.jpg" width="600" alt="Santa wrapping mummies">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3582)**
-
-**Author:** [William Looby](https://x.com/WilliamLooby) | **Source:** [Link](https://x.com/WilliamLooby/status/2047126331045880047) | **Published:** Apr 23, 2026
-
----
-### Robot and Girl at Sunset
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly cinematic prompt for a futuristic robot and a girl sitting on water during sunset with subtle movements.
-
-#### 📝 Prompt
-
-```
-A highly cinematic, ultra-realistic scene of a futuristic humanoid robot sitting beside a young girl on a reflective water surface at sunset. The robot has detailed metallic armor with glowing accents, showing slight mechanical movements like subtle head turns and finger adjustments. The girl sits calmly with her knees close, wearing a blue outfit, gently swaying and blinking naturally. The environment features a dreamy sky with soft clouds, blending warm orange sunset tones with cool blue hues. The reflective surface mirrors both characters with slight ripples moving slowly across the water. A gentle breeze moves the girl’s hair softly. Camera starts with a wide shot and slowly pushes in for a close-up, with smooth cinematic motion. Lighting is soft, volumetric, and slightly glowing, creating a peaceful yet futuristic mood. Add subtle particles in the air and light reflections on the robot’s body for realism. Style Keywords: cinematic, ultra-realistic, 4K, soft lighting, futuristic, emotional, reflective water, slow motion, depth of field, volumetric light, dreamlike atmosphere
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/66fd641c3b212f9e0264edfb5ce363b7/thumbnails/thumbnail.jpg" width="600" alt="Robot and Girl at Sunset">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3592)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2047117431089315985) | **Published:** Apr 23, 2026
-
----
-### Baby bunny in Bitcoin vault
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A creative prompt for a video depicting a baby bunny cleaning an orange toilet inside a vault full of Bitcoin.
-
-#### 📝 Prompt
-
-```
-Draw a baby bunny with a plunger plunging an orange toilet in a vault full of bitcoins
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/075da82d904b61b0dc426e5a8938d745/thumbnails/thumbnail.jpg" width="600" alt="Baby bunny in Bitcoin vault">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3584)**
-
-**Author:** [ĐOGEARMY GENERAL](https://x.com/TheTeslaBull) | **Source:** [Link](https://x.com/TheTeslaBull/status/2047116929366741326) | **Published:** Apr 23, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2356,6 +2370,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-30T06:33:34.802Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-30T10:14:28.228Z</sub>
 
 </div>
