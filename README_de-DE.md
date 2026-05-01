@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1309** |
+| 📝 Total Prompts | **1328** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-01** |
 
@@ -189,6 +189,333 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Video-Prompt für einen schwarzen Jaguar im Schnee
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochdetaillierter Video-Prompt für Grok-imagine, der einen schwarzen Jaguar zeigt, der durch tiefen Schnee läuft, mit realistischer Partikelphysik und Felltextur.
+
+#### 📝 Prompt
+
+```
+Ein schwarzer Jaguar mit leuchtend orangen Augen läuft direkt auf die Kamera zu durch tiefen Schnee. Seine Pfoten sinken in den Schnee und wirbeln weißen Puder auf. Kleine Schneeflocken fallen sanft durch die Luft und bleiben auf seinem Fell liegen.
+Ein schwarzer Jaguar (melanistischer Leopard) mit sichtbaren dunklen Rosetten
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2f100ccb3f1bd0a96a3bdc17801b8a19/thumbnails/thumbnail.jpg" width="600" alt="Video-Prompt für einen schwarzen Jaguar im Schnee">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3973)**
+
+**Author:** [ahmed ibrahim](https://x.com/AhmedYasienibby) | **Source:** [Link](https://x.com/AhmedYasienibby/status/2049979450322719096) | **Published:** Apr 30, 2026
+
+---
+### Video: Drachen in der Sonne
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein beschreibender Prompt für ein Video, das rote und blaue Drachen zeigt, die sich auf einer Wiese sonnen.
+
+#### 📝 Prompt
+
+```
+Eine rote Drachendame und ein männlicher blauer Drache, die sich auf dem Gras ausstrecken und die Sonne genießen
+Im Sonnenlicht schimmernd
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/885645c861bfc28153b1b6b798dcfccb/thumbnails/thumbnail.jpg" width="600" alt="Video: Drachen in der Sonne">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3957)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2049978116668571712) | **Published:** Apr 30, 2026
+
+---
+### Rockmusik-Feier mit Optimus
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Prompt mit Rockgitarrenmusik und einer Interaktion zwischen einer Frau und einem Optimus-Roboter, die die Wahrheit feiern.
+
+#### 📝 Prompt
+
+```
+Rockmusik, Gitarrensolo. Sie sagt: „Frühe Feier.“ Begleitet von einem Optimus-Roboter. Der Roboter sagt: „Prost auf den Triumph der Wahrheit!“
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a97a050033b986b4bb9e481a69d65917/thumbnails/thumbnail.jpg" width="600" alt="Rockmusik-Feier mit Optimus">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3975)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2049976672783331538) | **Published:** Apr 30, 2026
+
+---
+### Stabiler Szenen-Lock: Bunker-Raum
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein technischer Prompt zur Videogenerierung, der Szenen-Locking und Kamerapositionierung für einen stabilen Umgebungsübergang nutzt.
+
+#### 📝 Prompt
+
+```
+SCENE LOCK: Frame-to-Video von BILD 2 zu BILD 3. Statische Stativkamera, fixiert im selben unterirdischen Bunker-Raum, 24-mm-Weitwinkel-Optik, Kamerahöhe 1,45 m, durchgehend gleiche Bildkomposition und Perspektive. Feste Orientierungspunkte müssen absolut stabil bleiben:
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c44d9eedee05b2751d4e83364f5fd59/thumbnails/thumbnail.jpg" width="600" alt="Stabiler Szenen-Lock: Bunker-Raum">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3958)**
+
+**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2049976264698814969) | **Published:** Apr 30, 2026
+
+---
+### Video-Prompt für ein Feuer im Dschungel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein beschreibender Prompt zur Erstellung eines Videos von einem schwelenden Feuer in einer nebligen, üppigen Dschungelumgebung.
+
+#### 📝 Prompt
+
+```
+Stellen Sie sich einen Holzstapel in einem nebligen und kühlen Dschungel vor, umgeben von dichter, grüner Vegetation.
+Der Holzstapel brennt wie ein schwelendes Feuer.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1ed12ba3c9d81e18520510b6ecd0b6ed/thumbnails/thumbnail.jpg" width="600" alt="Video-Prompt für ein Feuer im Dschungel">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3965)**
+
+**Author:** [Deepali Musk](https://x.com/deepalimusk) | **Source:** [Link](https://x.com/deepalimusk/status/2049954052998377954) | **Published:** Apr 30, 2026
+
+---
+### Aufblühende Schmetterlings-Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein bewegungsorientierter Prompt zur Animation eines Schmetterlings und einer aufblühenden Blume basierend auf einer Tuschezeichnung.
+
+#### 📝 Prompt
+
+```
+Lass den Schmetterling fliegen. Und die Blume aufblühen. Lass sie sich erst nach links und dann nach rechts neigen.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e33ba7349ebec46726a2aa4ab12641cd/thumbnails/thumbnail.jpg" width="600" alt="Aufblühende Schmetterlings-Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3962)**
+
+**Author:** [DW 💉👀🐊](https://x.com/deweller) | **Source:** [Link](https://x.com/deweller/status/2049953305476927514) | **Published:** Apr 30, 2026
+
+---
+### Video-Prompt: Kosmischer Portal-Reisender
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein visueller Video-Prompt für einen kosmischen Reisenden, der vor einem wirbelnden Portal aus violettem und blauem Licht steht.
+
+#### 📝 Prompt
+
+```
+Ein einsamer Reisender steht am Rande eines wirbelnden kosmischen Portals; tiefes Violett und elektrisches Blau ziehen alles in sich hinein, während Sterne die neue Galaxie durchstreifen, die Außerirdische aus dem gesamten Universum miteinander verbindet.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/28ae8fdc507d38a60a4e8b9afd342981/thumbnails/thumbnail.jpg" width="600" alt="Video-Prompt: Kosmischer Portal-Reisender">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3967)**
+
+**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2049945827343204775) | **Published:** Apr 30, 2026
+
+---
+### Fensterspinnen-Gruß
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein verspielter Prompt für eine Animation mit einer Spinne, die an einem Fenster hängt.
+
+#### 📝 Prompt
+
+```
+Gute Nacht, Creators! Keine Sorge, ich hänge nur ein wenig an eurem Fenster 🕸️🕷️😏💤.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6e4f64fc8afc918b514721b4e5440ca0/thumbnails/thumbnail.jpg" width="600" alt="Fensterspinnen-Gruß">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3966)**
+
+**Author:** [Petergu](https://x.com/PalfalviP497fz) | **Source:** [Link](https://x.com/PalfalviP497fz/status/2049945089116459123) | **Published:** Apr 30, 2026
+
+---
+### Video-Prompt für statische Lagunen-Kameraeinstellung
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein technischer, kamerazentrierter Prompt für eine statische Aufnahme einer Lagune, gedacht für Szenenkonsistenz bei der Videogenerierung.
+
+#### 📝 Prompt
+
+```
+SCENE LOCK: Statische Stativkamera, fixiert von der gegenüberliegenden Seite derselben Lagune, gleicher Bildausschnitt wie in BILD 3 und BILD 4, Weitwinkel-Look mit 24-mm-Objektiv, Kamerahöhe 1,6 Meter, feste Orientierungspunkte bleiben die geschwungene Sandbank, der zentrale felsige Hügel, der Holzsteg, schwarze Basaltfelsen,...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dcc3bb753f4da4851f894d933fe3267d/thumbnails/thumbnail.jpg" width="600" alt="Video-Prompt für statische Lagunen-Kameraeinstellung">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3961)**
+
+**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2049920356803293585) | **Published:** Apr 30, 2026
+
+---
+### Futuristischer Anime-Skating-Tunnel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Prompt im Anime-Stil, der eine Person zeigt, die durch einen kosmischen, futuristischen Tunnel rollschuhläuft.
+
+#### 📝 Prompt
+
+```
+Reise durch einen kosmischen Tunnel mit einer futuristischen Person, die fröhlich im Anime-Stil auf Rollschuhen fährt.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a7741de2f144f2748c38590174f5eb98/thumbnails/thumbnail.jpg" width="600" alt="Futuristischer Anime-Skating-Tunnel">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3969)**
+
+**Author:** [Carina](https://x.com/Freehere3) | **Source:** [Link](https://x.com/Freehere3/status/2049903845942202504) | **Published:** Apr 30, 2026
+
+---
+### Drachen trinken aus einem Bach
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Generierungs-Prompt, der einen roten und einen blauen Drachen nebeneinander in einer Waldumgebung zeigt.
+
+#### 📝 Prompt
+
+```
+Roter Drache und blauer Drache nebeneinander im Schatten eines Waldes beim Trinken aus einem Bach
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f7fdcb4cf9d5dabde1add11231df9b02/thumbnails/thumbnail.jpg" width="600" alt="Drachen trinken aus einem Bach">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3970)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2049886774307254779) | **Published:** Apr 30, 2026
+
+---
+### Offenbarung von Jesus und Petrus
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein filmischer Video-Prompt, der eine biblische Szene darstellt, in der Jesus zu Petrus über den Bau seiner Kirche spricht.
+
+#### 📝 Prompt
+
+```
+Erstelle ein Video, in dem Jesus zu Petrus sagt, dass er auf dem Felsen der Offenbarung, dass Jesus der Christus ist, der Sohn des lebendigen Gottes, seine Kirche bauen wird.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b1a0c016fb97fe32b946f39c4ea9b9e4/thumbnails/thumbnail.jpg" width="600" alt="Offenbarung von Jesus und Petrus">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3964)**
+
+**Author:** [Daniel Cervantes](https://x.com/dec_cer) | **Source:** [Link](https://x.com/dec_cer/status/2049882650152988719) | **Published:** Apr 30, 2026
+
+---
+### Regenbogen-Tanzanimation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein lebendiger Animations-Prompt, bei dem über einen Regenbogen gesprungen und zu einem bestimmten Lied getanzt wird.
+
+#### 📝 Prompt
+
+```
+Lass ihn über einen Regenbogen springen und zu dem Lied Happy von Pharrell Williams tanzen, in wahnsinnig guter Qualität
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d12f34d4b505cef44021f4f4cebd513b/thumbnails/thumbnail.jpg" width="600" alt="Regenbogen-Tanzanimation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3963)**
+
+**Author:** [DJ](https://x.com/DJofTruth) | **Source:** [Link](https://x.com/DJofTruth/status/2049866935123218932) | **Published:** Apr 30, 2026
+
+---
+### Video-Prompt für futuristische taktische Kampfrüstung
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein kinoreifer Video-Prompt für eine Frau in futuristischer taktischer Kampfrüstung, die eine Maske und ein Visier materialisiert, bei langsamen, bewussten Kamerabewegungen.
+
+#### 📝 Prompt
+
+```
+Kinoreifes Nahaufnahme-Porträt einer auffallend schönen jungen Frau, Anfang 20, schulterlanges, welliges kastanienbraunes Haar mit weichem Pony und Strähnen, die ihr Gesicht umrahmen, leichte Sommersprossen auf Nase und Wangen, intensive, stechend blaue Augen, ernster und selbstbewusster Ausdruck, dezentes Make-up. Sie trägt eine elegante, körperbetonte, mattschwarze, futuristische taktische Kampfrüstung mit segmentierten High-Tech-Platten, verstärkten Schulterpolstern, Brustgeschirr mit zentralem Reißverschluss, komplexen mechanischen Details, Schrammen und Kampfspuren, hoher Kragen. Zuerst erscheint sie ohne Maske, dann materialisiert sie fließend eine schwarze taktische Halbmaske, die Nase und Mund bedeckt, gefolgt davon, dass sie ihre behandschuhte Hand hebt, um eine dunkel getönte, futuristische Visier-Sonnenbrille über der Maske anzupassen und aufzusetzen. Dynamischer Ablauf, langsame, bewusste Bewegungen, leichte Haarbewegung. Fotorealistisch, ultra-detaillierte Hauttextur, realistische Reflexionen auf der Rüstung, dramatische volumetrische Beleuchtung, geringe Schärfentiefe, verschwommener futuristischer Straßenhintergrund mit Bokeh-Lichtern und undeutlichen Fußgängern, stimmungsvolle Cyberpunk-Atmosphäre, 8k, Meisterwerk, beste Qualität, kinoreifes Color Grading --ar 9:16 --stylize 250 --v 6
+--video --duration 16 --motion medium --camera slow zoom in from medium shot to extreme close-up
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/83ce7198baea93422568cdd8a6a2ed13/thumbnails/thumbnail.jpg" width="600" alt="Video-Prompt für futuristische taktische Kampfrüstung">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3959)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2049862349746831438) | **Published:** Apr 30, 2026
+
+---
+### Prompt für Gimbal-stabilisierte Lampen-Kamerabewegung
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein technischer Video-Prompt zur Spezifizierung von Kamerarotations- und Stabilisierungstechniken, um eine Lampe in Szene zu setzen.
+
+#### 📝 Prompt
+
+```
+Die Kamera rotiert langsam um 60 Grad, um die Lampe zu zeigen. Aufnahme mit einem Gimbal zur Stabilisierung.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4ca6d3252e69ed2fa09cc9f784f5bf84/thumbnails/thumbnail.jpg" width="600" alt="Prompt für Gimbal-stabilisierte Lampen-Kamerabewegung">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3960)**
+
+**Author:** [Alamgir Hossain](https://x.com/mdalamgir95) | **Source:** [Link](https://x.com/mdalamgir95/status/2049839904843346245) | **Published:** Apr 30, 2026
+
+---
+### Video einer Anime-Cyberpunk-Frau
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Generierungs-Prompt für eine Cyberpunk-Frau im Anime-Stil in einer industriellen Umgebung, der zur Demonstration von Lip-Syncing verwendet wird.
+
+#### 📝 Prompt
+
+```
+Eine digitale Cyberpunk-Frau im Anime-Stil mit einer futuristischen Pistole in einer dunklen industriellen Umgebung.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c89fdc62eaaebf2bed5969fa4990832/thumbnails/thumbnail.jpg" width="600" alt="Video einer Anime-Cyberpunk-Frau">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3971)**
+
+**Author:** [Benjamin Ferrarini](https://x.com/Granddragonben) | **Source:** [Link](https://x.com/Granddragonben/status/2049838270742171978) | **Published:** Apr 30, 2026
+
+---
+### 3D-Gothic-Seraphim-Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein beschreibender Prompt zur Erstellung eines 3D-Gothic-Videos mit einer Seraphim-Figur im Linolschnitt-Stil vor einem roten Hintergrund.
+
+#### 📝 Prompt
+
+```
+3D-Gothic-Frau als Seraphim, ihr Kleid zeigt ein Auge mit 6 Flügeln, Linolschnitt, Schwarz-Weiß vor einer roten Hintergrundwand mit zahlreichen Seraphim-Augen
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6a6897d09116953e03b2bd50c775951f/thumbnails/thumbnail.jpg" width="600" alt="3D-Gothic-Seraphim-Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3972)**
+
+**Author:** [The Rose Codex](https://x.com/rosegothicart) | **Source:** [Link](https://x.com/rosegothicart/status/2049770432006603009) | **Published:** Apr 30, 2026
+
+---
 ### Cinematic-Prompt für eine Begegnung mit Außerirdischen
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +533,52 @@ Aus dem Cockpit eines Erkundungsschiffs beobachtet ein einsamer Pilot die Ankunf
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3905)**
 
 **Author:** [aran leigh](https://x.com/aran_leigh) | **Source:** [Link](https://x.com/aran_leigh/status/2049745114143096862) | **Published:** Apr 30, 2026
+
+---
+### Cinematic: Industrieller Mecha-Walker
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein ausführlicher technischer Prompt für ein fotorealistisches 8K-Video eines kolossalen Militär-Mechs, der durch eine neblige europäische Stadt läuft.
+
+#### 📝 Prompt
+
+```
+Cinematisches 10-Sekunden-Video im vertikalen 9:16- oder horizontalen 16:9-Format, ultra-realistischer fotorealistischer Stil, Meisterwerk, beste Qualität, 8K.
+
+Ein kolossaler, 40 Meter hoher industrieller militärischer zweibeiniger Mecha-Walker namens „S-9000“ läuft langsam mit schweren, kraftvollen Schritten auf alten, nassen Bahngleisen durch einen nebligen europäischen Stadtplatz. Der riesige Mech hat ein verwittertes orange-dunkelgraues Farbschema mit starkem Rost, Kampfspuren, freiliegenden Rohren, Kabeln, Hydraulikleitungen, Nieten, Warnhinweisen und leuchtend gelben Cockpit-Lichtern. Sein Oberkörper ist ein massives gepanzertes Kommandomodul mit Antennen und Satellitenschüsseln. Seine Beine sind gewaltig und schwer artikuliert, mit mehreren riesigen schwarzen Offroad-Reifen mit leuchtend orangen Felgen und dickem Profil.
+
+Im Vordergrund steht ein einzelner Soldat in kompletter schwarzer taktischer Ausrüstung, Helm, Rucksack und Gewehr bewegungslos auf den Gleisen mit dem Rücken zur Kamera und blickt ehrfürchtig zu der hoch aufragenden Maschine auf. Dramatische Low-Angle-Kameraaufnahme, die den extremen Größenunterschied zwischen dem winzigen Menschen und dem gigantischen Mech betont.
+
+Die Atmosphäre ist dicht, kalt, neblig, bewölkter Himmel, weiches, diffuses kinoreifes Licht, subtile Lichtstrahlen, volumetrischer Nebel, leichte Bewegungsunschärfe an sich bewegenden mechanischen Teilen, realistische Physik an jedem Gelenk und Kolben. Der Mech macht langsame, bedächtige Schritte – das rechte Bein hebt sich und setzt auf, dann das linke Bein, der schwere Körper verlagert sich und schwankt, die Arme schwingen leicht zum Ausgleich, Kolben zischen und Dampf entweicht.
+
+Hochdetaillierte Texturen, komplexe mechanische Details, realistische Metallreflexionen, kinoreifes Color Grading, stimmungsvolle und epische Sci-Fi-Atmosphäre, im Stil von Konzeptkunst von Jakub Rozalski und Syd Mead, fotorealistisches Rendering, 8K, ultra-detailliert, Meisterwerk.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/66971fcc63313fd10e25e58ae7c71c4f/thumbnails/thumbnail.jpg" width="600" alt="Cinematic: Industrieller Mecha-Walker">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3968)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2049690619459539083) | **Published:** Apr 30, 2026
+
+---
+### Optimus Prime Roboter-Interaktion
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein surrealer, filmischer Video-Prompt, in dem ein zerfallender Kopf in einer stillen Szene von einem Optimus-Roboter betreut wird.
+
+#### 📝 Prompt
+
+```
+Der Kopf zerfällt und Optimus scheint die Stücke aufzuheben. Nachdem er sie alle aufgesammelt hat, bringt er sie behutsam an einen anderen Ort. Kein Dialog.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/17431bae9a796d597f5e908873b74fd1/thumbnails/thumbnail.jpg" width="600" alt="Optimus Prime Roboter-Interaktion">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3974)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2049676994795724959) | **Published:** Apr 30, 2026
 
 ---
 ### Shakespeare-Monolog-Sequenz
@@ -227,7 +600,7 @@ Lassen Sie ihn weggehen, während die Erde im Hintergrund zu rotieren beginnt un
 Setzen Sie fort und lassen Sie das Szenario am Ende modernisieren. Ich möchte ein katastrophales Ereignis auf der Erde sehen 😉
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8def5d1623751a5c059ff63d6fa6f513/thumbnails/thumbnail.jpg" width="600" alt="Shakespeare-Monolog-Sequenz">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4414e1ed0eaf47ac924f2e1003be2bbf/thumbnails/thumbnail.jpg" width="600" alt="Shakespeare-Monolog-Sequenz">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3906)**
 
@@ -1927,415 +2300,6 @@ Ultrarealistisches Porträt eines Mädchengesichts, extreme Gesichtsdetails, sic
 **Author:** [Kuji](https://x.com/Kujiiichan) | **Source:** [Link](https://x.com/Kujiiichan/status/2047928082149826575) | **Published:** Apr 25, 2026
 
 ---
-### Prompt für eine Spinnen-Angriffs-Actionsequenz
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein aktionsgeladener Video-Prompt, in dem ein Charakter eine Spinne mit einem brennenden Schwert angreift und einen Dialog spricht.
-
-#### 📝 Prompt
-
-```
-Lass den Typen ein Schwert ziehen, es in Brand setzen und die Spinne angreifen. Töte die Spinne und lass ihn sagen: „Du kannst meiner Familie jetzt nicht mehr wehtun.“
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/89c29739ccacd8e2a4229f4cfc1baab4/thumbnails/thumbnail.jpg" width="600" alt="Prompt für eine Spinnen-Angriffs-Actionsequenz">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3650)**
-
-**Author:** [HisMoonRey](https://x.com/BrokenWings53) | **Source:** [Link](https://x.com/BrokenWings53/status/2047824180964393136) | **Published:** Apr 24, 2026
-
----
-### Sci-Fi-Kurzfilm: Das Mädchen gegen die Roboterspinne
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein umfassender, mehrszeniger cineastischer Video-Prompt für einen Kurzfilm, in dem ein Mädchen gegen eine riesige Roboterspinne kämpft, inklusive Kameraanweisungen und emotionalen Hinweisen.
-
-#### 📝 Prompt
-
-```
-Szene 1 — Annäherung an die Maschine (0–6s)
-Weite cineastische Aufnahme eines jungen Mädchens, das auf felsigem Terrain steht und einer hoch aufragenden Roboterspinne unter stürmischem, bewölktem Licht gegenübersteht. Blaues Licht pulsiert von der riesigen Globus-Maschine hinter ihr. Langsamer Dolly-in auf sie zu, während der Wind ihr Haar und ihre Kleidung bewegt. Stimmung: Dune-trifft-Rebellen-Energie. Tiefe atmosphärische Synthesizer.
-
-Szene 2 — Der Kampf beginnt (6–12s)
-Halbtotale: Die Roboterspinne stürmt vorwärts, ihre mechanischen Beine schlagen auf den Boden. Das Mädchen springt entschlossen zur Seite. Hartes Kantenlicht von links betont die Bewegung. Langsame Kamerafahrt, die ihrer Bewegung folgt. Stimmung: epischer Sci-Fi-Showdown. Anschwellende perkussive Trommeln.
-
-Szene 3 — Die Wende (12–18s)
-Totale für mehr Übersicht: Das Mädchen kanalisiert leuchtende Energie durch ihre Arme und sendet eine Schockwelle aus, die die Roboterspinne zurückdrängt. Funken sprühen aus ihren Gelenken (nicht grafisch). Goldene Hintergrundbeleuchtung bricht durch die Wolken. Langsamer Dolly-out, um den Maßstab zu betonen. Stimmung: heroische Wende. Die Musik schwillt an.
-
-Szene 4 — Sieg (18–24s)
-Statische Totale: Die Roboterspinne bricht in einem Lichtblitz zusammen, ihre Beine klappen ein, während das Mädchen aufrecht stehen bleibt. Bewölktes, diffuses Licht mit einem hellen Kantenlicht von dem leuchtenden Globus hinter ihr. Sanfter Kamera-Tilt nach oben, während sie sich darauf vorbereitet, zu fliegen. Stimmung: Triumph mit Ehrfurcht. Chorartige Synthesizer.
-
-Szene 5 — Der finale Schlag (24–30s)
-Epische Luftaufnahme: Das Mädchen fliegt auf die massive Globus-Maschine zu und hält eine kleine leuchtende Bombe. Blaue Blitze zucken um die Sphäre. Sie wirft die Bombe in den Blitzkern. Ein brillanter Blitz bricht aus (nicht grafisch) und löst den Sturm auf. Langsamer Dolly-out, während der Himmel aufklart. Stimmung: hoffnungsvolles Sci-Fi-Finale. Sanft ansteigende orchestrale Akkorde.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9dba6536bd6b12703ffadc80f0f4fa2f/thumbnails/thumbnail.jpg" width="600" alt="Sci-Fi-Kurzfilm: Das Mädchen gegen die Roboterspinne">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3648)**
-
-**Author:** [Hot Lesson](https://x.com/hotlesson) | **Source:** [Link](https://x.com/hotlesson/status/2047818069544997276) | **Published:** Apr 24, 2026
-
----
-### Artemis Weltraummission Video-Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter, kinoreifer Video-Prompt, der den Start und die Missionsphasen des Artemis-Raumschiffs illustriert.
-
-#### 📝 Prompt
-
-```
-Zeige das Bild als Artemis II-Raumschiff und stelle dar, wie es abhebt, die Erde umkreist, dann zum Mond fliegt, wieder zurück zum Pazifischen Ozean kehrt und dort erfolgreich geborgen wird.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0c786be781b89561f566aaf8d682c876/thumbnails/thumbnail.jpg" width="600" alt="Artemis Weltraummission Video-Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3645)**
-
-**Author:** [Woodi5X5EEE WoodJr](https://x.com/woodi5x5eee) | **Source:** [Link](https://x.com/woodi5x5eee/status/2047761747197513780) | **Published:** Apr 24, 2026
-
----
-### Kosmischer Fibonacci-Folge-Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Video-Prompt, der eine galaktische Leere mit goldenen Sternen und schwebenden Zahlen zeigt, die in einer Fibonacci-Folge angeordnet sind.
-
-#### 📝 Prompt
-
-```
-galaktische Leere mit Fibonacci-Folge im Vordergrund aus goldenen Glitzersternen, Biolumineszenz, füge mehrere 0 und 1 hinzu, die im goldenen Schnitt nach oben schweben
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fe4d5a787687b1dbd1c735840e909471/thumbnails/thumbnail.jpg" width="600" alt="Kosmischer Fibonacci-Folge-Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3653)**
-
-**Author:** [✨Alien Queen](https://x.com/MuskWaifu) | **Source:** [Link](https://x.com/MuskWaifu/status/2047739586588127443) | **Published:** Apr 24, 2026
-
----
-### Hyperrealistischer, kinoreifer Studio-Porträt-Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochdetaillierter, kinoreifer Prompt für eine junge Frau in futuristischer Ausrüstung, mit Fokus auf realistischen Texturen, Beleuchtung und Bewegung in einem Studio-Setting.
-
-#### 📝 Prompt
-
-```
-Ein hyperrealistisches, kinoreifes Video einer schönen jungen Frau mit kurzem schwarzem Haar und sanft strahlender Haut, bekleidet mit einem futuristischen Outfit aus schwarzem Latex und einer weißen Tech-Style-Jacke. Sie steht vor der Kamera in einem sauberen, minimalistischen Studio-Hintergrund mit weicher, neutraler Beleuchtung. Sie lächelt sanft mit einem warmen, selbstbewussten Ausdruck. Ihre Augen blinzeln natürlich, während sie ihren Kopf leicht neigt. Beide Hände bewegen sich in einer fließenden, einladenden Geste auf die Kamera zu, was ein Gefühl von Tiefe und Interaktion erzeugt. Ihr Outfit weist glänzende Reflexionen und detaillierte Texturen auf, insbesondere das schwarze Latexmaterial, das realistisch auf Licht reagiert. Subtile Highlights schimmern über die Oberfläche, während sie sich bewegt. Die Kamera ist in einer Nahaufnahme (Brustbild) mit geringer Schärfentiefe positioniert, wodurch ihr Gesicht scharf bleibt, während der Hintergrund sanft verschwimmt. Fließende filmische Bewegungen, leichte Kamerastabilisierung und ein sanfter Push-in-Effekt verstärken den Realismus. Die Beleuchtung ist weich und diffus, mit einem leichten Rim-Light, das ihr Haar und ihre Schultern umreißt. Die Hauttöne sind natürlich, mit einem sanften Glanz und realistischen Details. Ultra-realistisch, 4K-Qualität, kinoreifes Color Grading, hohe Detailgenauigkeit, flüssige Animation, realistische Physik, natürliche Bewegung, weiche Schatten.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9426d04ee1a835c6704c7f2b1032debd/thumbnails/thumbnail.jpg" width="600" alt="Hyperrealistischer, kinoreifer Studio-Porträt-Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3643)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2047735068404187257) | **Published:** Apr 24, 2026
-
----
-### Baum der Herzen und Raben
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eine poetische und symbolische Szene mit einem Baum voller herzförmiger Blätter und zwei kontrastierenden Raben.
-
-#### 📝 Prompt
-
-```
-Füge einen Baum hinzu, der herzförmige Blätter austreibt 
-
-friedliche Nacht
-Füge zwei Raben hinzu, die nebeneinander im Baum sitzen, wobei ein Rabe weiß ist
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5342dbca86a3ffe495bfc1380c04249f/thumbnails/thumbnail.jpg" width="600" alt="Baum der Herzen und Raben">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3646)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2047724190313423255) | **Published:** Apr 24, 2026
-
----
-### Prompt für eine friedliche Nacht mit Krähen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für eine friedliche nächtliche Szene mit zwei Krähen in einem Baum, wobei eine zur Kontrastbildung weiß ist.
-
-#### 📝 Prompt
-
-```
-friedliche Nacht
-Füge zwei Krähen hinzu, die nebeneinander im Baum sitzen, eine Krähe davon in Weiß
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e62c016bd7e630eca3a8a4d92e27cd56/thumbnails/thumbnail.jpg" width="600" alt="Prompt für eine friedliche Nacht mit Krähen">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3644)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2047704647679549838) | **Published:** Apr 24, 2026
-
----
-### Sanftes Lächeln und Blumenkuss
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein cineastischer Video-Prompt mit Handkamera-Bewegung und emotionaler Interaktion.
-
-#### 📝 Prompt
-
-```
-Kamera zoomt langsam auf ihr Gesicht, Handkamera mit leichtem Wackeln, Frau lächelt sanft
-Sie küsst eine Blume
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a0cae9d16548b86fdba6ca3b59c2fa80/thumbnails/thumbnail.jpg" width="600" alt="Sanftes Lächeln und Blumenkuss">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3647)**
-
-**Author:** [Leo Digital](https://x.com/LeoDigitalVN) | **Source:** [Link](https://x.com/LeoDigitalVN/status/2047626318519677283) | **Published:** Apr 24, 2026
-
----
-### Kybernetische Cheongsam-Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter filmischer Prompt für eine futuristische U-Bahn-Szene, in der eine Frau im Cheongsam ihre Gliedmaßen in kybernetische Waffen verwandelt.
-
-#### 📝 Prompt
-
-```
-Ein filmisches, hyperrealistisches Video einer jungen Frau mit markanten Gesichtszügen und dunklem Haar, die ein ärmelloses, schwarz-goldenes Cheongsam (Qipao) mit hohem Kragen und aufwendiger Blumenstickerei trägt. Sie steht in einem schwach beleuchteten, düsteren, futuristischen U-Bahn-Waggon.
-
-Die Transformation: Die Szene beginnt damit, dass sie ruhig wirkt, während ein holografisches HUD über ihren Augen flackert. Plötzlich durchlaufen ihre Arme und ihr Oberkörper eine mechanische Transformation; sie verschieben sich und rasten in eine schwere, gebürstete kybernetische Metallpanzerung mit leuchtenden roten LED-Akzenten ein. Sie hebt ihren Arm, der sich modular in eine High-Tech-Energiewaffe umformt und direkt auf die Kamera zielt.
-
-Atmosphäre & Beleuchtung: Stil: Dunkler Cyberpunk / Sci-Fi-Realismus.
-Beleuchtung: Stimmungsvolle Umgebung mit wenig Licht und flackernden Deckenleuchten der U-Bahn. Intensives rotes Neonlicht geht von ihren kybernetischen Gelenken und dem Lauf der Waffe aus.
-Kamera: Zeitlupen-Zoom auf ihr Gesicht, Übergang zu einer Halbtotalen, während sie zielt. Hoher Detailgrad bei der Textur – Seidenstoff im Kontrast zu kalten, schweren Maschinen.
-Technik: 4K-Auflösung, Raytracing-Reflexionen auf dem Metall, filmisches Filmkorn und ein leichter Lens Flare durch den roten Energiekern.
-Elemente zum Experimentieren:
-Textur: Sie können die „Holztextur“, die Sie in Postern verwendet haben, gegen „matte Kohlefaser“ oder „verwittertes Messing“ austauschen, um den mechanischen Teilen eine andere Haptik zu verleihen.
-Hintergrund: Die U-Bahn durch ein neonbeleuchtetes Dach oder ein traditionelles Teehaus zu ersetzen, würde einen noch schärferen Kontrast erzeugen.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c08cacf749c52d6ffac074dcbaac3f4d/thumbnails/thumbnail.jpg" width="600" alt="Kybernetische Cheongsam-Transformation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3651)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2047624541615140877) | **Published:** Apr 24, 2026
-
----
-### Ruhige, minimalistische Innenraumszene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein cineastischer Video-Prompt für eine friedliche Innenraumumgebung mit sanfter Beleuchtung und subtiler Kamerabewegung.
-
-#### 📝 Prompt
-
-```
-Eine hochrealistische, cineastische Szene einer ruhigen Innenraumumgebung mit sanften, neutralen Farbtönen und natürlichem Licht. Die Kamera bleibt ruhig mit einer langsamen, subtilen Vorwärtsbewegung. Die Atmosphäre ist friedlich und minimalistisch, mit sanften Schatten und einer ausgewogenen Komposition. Leichte Umgebungsbewegungen sind sichtbar – sanft flackerndes Licht, dezente Bewegungen im Raum und eine natürliche Tiefenschärfe. Das Color Grading ist warm und leicht entsättigt, was für einen modernen cineastischen Look sorgt. Hochdetaillierte Texturen, realistische Beleuchtung, 4K-Qualität, geringe Schärfentiefe, flüssige Bewegungen, Film-Körnung.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7188771f1db25f0b13e1a57eb8b44bea/thumbnails/thumbnail.jpg" width="600" alt="Ruhige, minimalistische Innenraumszene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3652)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2047574669515956524) | **Published:** Apr 24, 2026
-
----
-### Die Schatzkammer des Nome-Königs
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein beschreibender Prompt für grok-imagine, der eine Szene aus den Oz-Büchern visualisiert, speziell die Schatzkammer des Nome-Königs mit mehreren Hauptfiguren.
-
-#### 📝 Prompt
-
-```
-Erstelle die Schatzkammer des Nome-Königs aus den Oz-Büchern tief unter der Erde, gefüllt mit Gold, Silber, Diamanten, Rubinen und Perlen. Ersetze den Mann auf dem Fahrrad durch die folgenden Charaktere aus den Oz-Büchern:
-Dorothy, Ozma, die Vogelscheuche, der Blechmann...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7a0a9dc21628f4b0c722f28369a6fe9b/thumbnails/thumbnail.jpg" width="600" alt="Die Schatzkammer des Nome-Königs">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3601)**
-
-**Author:** [Michael Bradley](https://x.com/MikeBradleySr2) | **Source:** [Link](https://x.com/MikeBradleySr2/status/2047569155260317843) | **Published:** Apr 24, 2026
-
----
-### Epischer Flugzeugträger-Start im Michael-Bay-Stil
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein detaillierter, kinoreifer Grok Imagine-Prompt für eine actiongeladene Szene, in der ein Motorrad im hochoktanigen Hollywood-Stil von der USS Gerald R. Ford startet.
-
-#### 📝 Prompt
-
-```
-Epische Hollywood-Actionszene: Ein Motorrad samt Fahrer ist auf dem Flugdeck des Flugzeugträgers 'USS Gerald R. Ford' fixiert und wird mittels elektromagnetischem Katapult mit hoher Geschwindigkeit in die Luft katapultiert. Dramatische Untersicht, Lens Flare, Dampf und sprühende Funken, parkende Kampfjets im Hintergrund, stürmischer Himmel, cineastische Beleuchtung, IMAX-Qualität, Regie: Michael Bay — 16:9
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c6bf4168d5ca342bda95a4dc0cccbc87/thumbnails/thumbnail.jpg" width="600" alt="Epischer Flugzeugträger-Start im Michael-Bay-Stil">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3655)**
-
-**Author:** [S.f ting](https://x.com/t4121995t) | **Source:** [Link](https://x.com/t4121995t/status/2047483012829553018) | **Published:** Apr 24, 2026
-
----
-### Ostasiatische Kriegerin Mecha-Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein kinoreifer, hochdetaillierter Video-Prompt für eine Kriegerin, deren Waffe auf einem chaotischen Schlachtfeld in einen riesigen Mecha im Drachen-Design transformiert.
-
-#### 📝 Prompt
-
-```
-Kinoreife epische Actionsequenz, 15 Sekunden, vertikales 9:16-Format.
-
-Eine atemberaubende ostasiatische Kriegerin mit langem, fließendem dunklem Haar in einem hohen Pferdeschwanz, markanten, eleganten Gesichtszügen, bekleidet mit einer kunstvollen, schwarz-rot-goldenen, von der chinesischen Antike inspirierten futuristischen Rüstung mit Drachenmotiven, weißen Ärmeln und einer eleganten, schwarzen taktischen Atemschutzmaske. Sie steht auf einem rissigen, kargen Schlachtfeld unter einem dunklen, rauchigen Himmel und hält eine massive, hochdetaillierte, handgeführte Mehrlaufwaffe, die mit leuchtend orangen, feurigen Drachengravuren bedeckt ist.
-
-Die Waffe transformiert sich dramatisch und dehnt sich mit intensiver leuchtender Energie zu einem kolossalen zweibeinigen Ketten-Mecha-Panzer (Drachen-Mecha) aus. Die Kriegerin springt auf und klettert in das offene Cockpit der riesigen Maschine.
-
-Dynamische Sequenz:
-- Nahaufnahme der Kriegerin, wie sie mit der leuchtenden Drachenwaffe zielt und feuert
-- Die Waffe transformiert sich rasant und wächst zu einem voll ausgewachsenen, schwer gepanzerten Mecha mit dicken Ketten, mehreren Raketenwerfern und leuchtend orangen Drachenmustern am ganzen Körper heran
-- Die Kriegerin steuert die Maschine aus dem Cockpit
-- Breite filmische Aufnahmen des massiven Drachen-Mechas, der kraftvoll über das Schlachtfeld vorrückt, während die Ketten den Boden zerquetschen und Staub aufwirbeln
-- Der Mecha entfesselt verheerende Salven aus leuchtend orangen, feurigen Raketen und Energiestößen mit hellen Lichtspuren und Explosionen
-- Epische Abschlusseinstellung, die den Drachen-Mecha in voller Stärke zeigt, wie er riesigen feindlichen Mechs in der Ferne gegenübersteht und einen massiven, hellorangen Energiestrahl abfeuert
-
-Hintergrund: chaotisches Schlachtfeld mit Armeen rot gepanzerter antiker Soldaten, Explosionen, Feuer, dichter schwarzer Rauch, dramatischer bewölkter Himmel. Intensive filmische Beleuchtung, leuchtend orange Akzente, epischer Maßstab, fotorealistisch, ultra-detailliert, dramatische Kamerawinkel, flüssige Bewegungen, hohe Qualität, 8K --ar 9:16 --motion 4 --stylize 650
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b5613edd80ef2271a61df21858e8587e/thumbnails/thumbnail.jpg" width="600" alt="Ostasiatische Kriegerin Mecha-Transformation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3649)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2047482713339293722) | **Published:** Apr 24, 2026
-
----
-### Filmreifer Drachenflug aus der Egoperspektive
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein komplexer, professioneller Prompt für ein Video aus der Egoperspektive eines Drachenreiters, der mit hoher Geschwindigkeit durch ein Gebirgstal fliegt, unter Verwendung einer spezifischen Designvorlage.
-
-#### 📝 Prompt
-
-```
-Verwenden Sie ausschließlich das beigefügte Drachen-Referenzblatt als exakte Designquelle. Extrahieren Sie einen konsistenten, massiven grauen Drachen aus den Ansichten A-I und ignorieren Sie alle Rasterlinien, Beschriftungen, Texte und doppelten Darstellungen.
-Egoperspektive des Reiters aus einem vorderen Cockpit-Sattel, der direkt hinter der Halsbasis auf dem muskulösen Schulterbereich nach den Rückenstacheln befestigt ist, niemals auf dem hinteren Rücken oder in der Nähe des Schwanzes. Der aerodynamische Sattel muss fest verankert sein, mit sichtbaren Bauchgurten, Wirbelsäulenverbindungen und Gurten, die den Körper umschließen und in die Schuppen integriert sind. Keine schwebende oder lose Ausrüstung. Halten Sie den Sattel durchgehend stabil.
-Die Hände des Reiters umgreifen im Vordergrund das Steuergeschirr und die Sattelgriffe. Der Drache fliegt mit extremer Geschwindigkeit in gefährlich niedriger Höhe, streift über grüne Hügel und gewundene Flüsse in Richtung ferner, zerklüfteter Berge unter einem strahlend blauen Himmel mit dramatischen Kumuluswolken, Lichtstrahlen und volumetrischer Beleuchtung. Zeigen Sie starke horizontale Bewegungsunschärfe, kraftvolle Flügelschläge, natürliche Körperwellenbewegungen, realistisches Kamera-Wackeln und Windvibrationen.
-Hyperrealistischer Fotorealismus, detaillierte metallisch-graue, überlappende Schuppen, realistische Drachenflugphysik, filmreife 8K-Details, flüssiges Video mit hoher Bildrate von 10-15 Sekunden. Keine anderen Drachen. Keine Elemente des Referenzblatts.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6623865bf5185c67daac21751462e71e/thumbnails/thumbnail.jpg" width="600" alt="Filmreifer Drachenflug aus der Egoperspektive">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3656)**
-
-**Author:** [いにしえ@AI Director & Creator｜Will Oldgram](https://x.com/old_pgmrs_will) | **Source:** [Link](https://x.com/old_pgmrs_will/status/2047465662910750809) | **Published:** Apr 24, 2026
-
----
-### Winziger Mann und riesige Quesadilla
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein humorvoller Prompt für ein Video, in dem ein winziger Mann singt, während er eine riesige Steak-Quesadilla isst.
-
-#### 📝 Prompt
-
-```
-Winziger Mann (ca. 5 cm groß) mit einer riesigen Steak-Quesadilla in einer Maistortilla (ca. 25 cm groß)…
-
-Singt: „I’m eating a steak quesadill-A“
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5b008abcdf537027cc31cdf99358365c/thumbnails/thumbnail.jpg" width="600" alt="Winziger Mann und riesige Quesadilla">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3586)**
-
-**Author:** [Lidy E Lane](https://x.com/LidyELane) | **Source:** [Link](https://x.com/LidyELane/status/2047456638370820121) | **Published:** Apr 23, 2026
-
----
-### Szene mit wehendem Papier
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein filmischer Video-Prompt, der zeigt, wie Wind Papier aus der Hand eines Models weht und die Kamera die Bewegungen verfolgt.
-
-#### 📝 Prompt
-
-```
-Ich sage, dass man vielleicht mehr von sich preisgibt, als man glaubt! Der starke Wind wehte das einzelne Blatt Papier aus der Hand des Models, und daraufhin flogen weitere gleich geformte Papierstücke von der linken Seite herbei. Die Kamera folgte der Bewegung der fliegenden Papierstücke.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3268eab96f295ee4fc3db068b104d1f3/thumbnails/thumbnail.jpg" width="600" alt="Szene mit wehendem Papier">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3593)**
-
-**Author:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **Source:** [Link](https://x.com/foxypatience/status/2047426755544179036) | **Published:** Apr 23, 2026
-
----
-### Steampunk-Drache und Kriegerkönigin
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt für ein filmreifes Video, das einen chromatischen Steampunk-Drachen und eine Kriegerin in einer silbern schillernden Rüstung zeigt.
-
-#### 📝 Prompt
-
-```
-Visualisiere einen chromatischen Steampunk-Drachen mit einer Kriegerkönigin, die eine silbern schillernde Rüstung trägt, sowie Schwert und Schild
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7ba913e4ba7ff4f0ceb785960b116729/thumbnails/thumbnail.jpg" width="600" alt="Steampunk-Drache und Kriegerkönigin">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3579)**
-
-**Author:** [DarkWolf](https://x.com/DarkDireWolf33) | **Source:** [Link](https://x.com/DarkDireWolf33/status/2047420403585253507) | **Published:** Apr 23, 2026
-
----
-### Chaotische Szene in einer Notaufnahme
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für ein absurdes und chaotisches Szenario in einer Krankenhaus-Notaufnahme mit einem spezifischen Charakterdetail.
-
-#### 📝 Prompt
-
-```
-Eine chaotische und absurde Szene in einer Notaufnahme: ein Mann, der gerade ein goldenes S erhalten hat
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9aadb1f6d8ff153683d92b13cac52217/thumbnails/thumbnail.jpg" width="600" alt="Chaotische Szene in einer Notaufnahme">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3596)**
-
-**Author:** [piensaporti](https://x.com/Cyperpiens7011) | **Source:** [Link](https://x.com/Cyperpiens7011/status/2047406332857446765) | **Published:** Apr 23, 2026
-
----
-### Bezaubernde malerische Illustration
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eine skurrile, malerische Illustration einer Frau mit gelbem Kopftuch, die auf einer blauen Bank sitzt und einen transparenten Regenschirm sowie eine Ledertasche bei sich hat.
-
-#### 📝 Prompt
-
-```
-Eine bezaubernde Illustration zeigt eine weibliche Figur mit heller Haut, großen Augen, einem gelben Kopftuch und einem blauen Langarmshirt. Sie sitzt auf einer hellblauen Holzbank und trägt einen langen, fließenden, hellgelben Rock, der mit bunten Blumen verziert ist. Ihre gelben High Heels sind zu sehen. Über ihrem Kopf befindet sich ein aufgespannter, transparenter Regenschirm, und eine braune Ledertasche mit geflochtenem Henkel liegt neben ihr auf der Bank. Der Kunststil ist malerisch mit sichtbaren Pinselstrichen, skurril und künstlerisch, vor einem verschwommenen Hintergrund im Freien.
-```
-
-<img src="https://cms-assets.youmind.com/media/1777017574651_d6csr4_HGnSn9OWUAAnzLo.jpg" width="600" alt="Bezaubernde malerische Illustration">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3591)**
-
-**Author:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **Source:** [Link](https://x.com/iamhappy2026/status/2047399202670682487) | **Published:** Apr 23, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2397,6 +2361,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-01T03:58:41.222Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-01T09:54:53.567Z</sub>
 
 </div>
