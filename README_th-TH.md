@@ -70,7 +70,7 @@ Why use our gallery?
 |--------|-------|
 | 📝 Total Prompts | **1309** |
 | ⭐ Featured Prompts | **3** |
-| 🔄 Last Updated | **2026-04-30** |
+| 🔄 Last Updated | **2026-05-01** |
 
 ---
 
@@ -2397,6 +2397,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-30T21:15:11.887Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-01T03:58:32.154Z</sub>
 
 </div>
