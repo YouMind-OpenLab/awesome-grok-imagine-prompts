@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **1328** |
+| 📝 提示词总数 | **1344** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-05-02** |
 
@@ -189,6 +189,311 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 蒸汽朋克眼睛缩放动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个详细的视频提示词，包含一位眼睛里充满火焰的蒸汽朋克女性，以及摄像机缩放效果。
+
+#### 📝 提示词
+
+```
+蒸汽朋克风格的白人美女，处于末日背景下，摄像机聚焦并缩放至她充满火焰的眼睛。她眨眼后，双眼变为白色。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6f4a388861aa06f1b27b1d2d4cebdae1/thumbnails/thumbnail.jpg" width="600" alt="蒸汽朋克眼睛缩放动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4010)**
+
+**作者:** [dadiiogames](https://x.com/dadiiogames) | **来源:** [Link](https://x.com/dadiiogames/status/2050360623297630265) | **发布时间:** May 1, 2026
+
+---
+### Galaxy Explorers Glowing Key
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段电影质感的视频提示词：两名探险家手持发光的钥匙打开了一扇天界之门，门后是浩瀚的银河。
+
+#### 📝 提示词
+
+```
+两名探险家。一把发光的钥匙。一扇本不该被开启的门。透明的阶梯从地面升起……行星在身旁漂浮……整个银河在他们头顶静候。他们向上走去。如果是你，你会跟上去吗？
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4491a0b1291e3a7831e1fe6ceccfac83/thumbnails/thumbnail.jpg" width="600" alt="Galaxy Explorers Glowing Key">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4016)**
+
+**作者:** [DuBoseJen](https://x.com/DuBosefire) | **来源:** [Link](https://x.com/DuBosefire/status/2050354884914934237) | **发布时间:** May 1, 2026
+
+---
+### 天使战士降临
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段史诗级的视频提示词，描绘了一位身穿白色盔甲的天使战士降临战场的场景。
+
+#### 📝 提示词
+
+```
+身穿白色盔甲、手持利剑的天使战士降临战场，以威严的姿态支援他的军队
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6cd11c6dbb374d523353c96032a76c89/thumbnails/thumbnail.jpg" width="600" alt="天使战士降临">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4008)**
+
+**作者:** [Chart_Guy](https://x.com/Chart_Guy) | **来源:** [Link](https://x.com/Chart_Guy/status/2050329761835004005) | **发布时间:** May 1, 2026
+
+---
+### 仙子与松鼠的波波球池
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个充满趣味的视频提示词，描绘了仙子和松鼠在五彩缤纷的泡泡糖与棉花糖波波球池中玩耍的场景。
+
+#### 📝 提示词
+
+```
+一段视频，展示了小仙子和松鼠在公园里一个由各种颜色的泡泡糖和棉花糖组成的波波球池中玩耍，它们一边吹着泡泡，一边说着可爱的话语
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3ee8e490948fa9ca87e6a2f4409d43fd/thumbnails/thumbnail.jpg" width="600" alt="仙子与松鼠的波波球池">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4011)**
+
+**作者:** [Emily](https://x.com/EMILYZART) | **来源:** [Link](https://x.com/EMILYZART/status/2050285005872705902) | **发布时间:** May 1, 2026
+
+---
+### 神秘的维多利亚时代女性与悬浮时钟
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个复杂的电影级提示词，包含维多利亚时代的礼服、阴暗的宅邸以及超现实的悬浮时钟。
+
+#### 📝 提示词
+
+```
+永恒
+一位身着飘逸维多利亚时代礼服的神秘女子，独自伫立在阴暗、烛光摇曳的宅邸大厅中。月光透过高大的窗户倾泻而下，数十个发光的时钟在她周围静止悬浮，每一个都显示着不同的时间……
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1e800b2d2c19327c1b8777ffb6475188/thumbnails/thumbnail.jpg" width="600" alt="神秘的维多利亚时代女性与悬浮时钟">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4015)**
+
+**作者:** [DuBoseJen](https://x.com/DuBosefire) | **来源:** [Link](https://x.com/DuBosefire/status/2050259170369130683) | **发布时间:** May 1, 2026
+
+---
+### 赛博朋克和服绘画动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个富有创意的提示词，描述了一位身穿华丽赛博朋克和服的女性，她正在用一支能留下发光轨迹的笔进行绘画。
+
+#### 📝 提示词
+
+```
+一位身穿华丽赛博朋克和服的日本女性正在作画。画作会产生光影反应，并随着笔的移动呈现出赛博朋克风格的闪烁效果。仅在画笔经过的地方显示线条。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2b0422acdc4ccb9fb1ced4c52ae11aff/thumbnails/thumbnail.jpg" width="600" alt="赛博朋克和服绘画动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4019)**
+
+**作者:** [トマスのAI画像・動画研究所](https://x.com/thomasainya) | **来源:** [Link](https://x.com/thomasainya/status/2050241289506209963) | **发布时间:** May 1, 2026
+
+---
+### 赛博朋克仿生人女学生视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一份详细的电影级提示词，用于生成高质量的赛博朋克仿生人女学生坐在未来感巴士上的视频，重点展示角色外观与光影效果。
+
+#### 📝 提示词
+
+```
+一张特写镜头，展示了一位令人惊艳的赛博朋克仿生人女学生，她坐在安静的未来感校车内，留着白金色的头发，正以冷静且充满气场的神态直视镜头
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e18be61a928085dadc5e1240ab53968e/thumbnails/thumbnail.jpg" width="600" alt="赛博朋克仿生人女学生视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4020)**
+
+**作者:** [Humble Whisper](https://x.com/humble_whisper) | **来源:** [Link](https://x.com/humble_whisper/status/2050218692315640261) | **发布时间:** May 1, 2026
+
+---
+### 哥特风格女性与白化狮子肖像
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 这是一个为 Grok Imagine 设计的暗黑奇幻电影感提示词，描绘了一位头戴哥特皇冠的女性与一头威严的白狮的侧脸肖像。
+
+#### 📝 提示词
+
+```
+戏剧性的侧脸肖像，一位皮肤白皙的年轻女性，留着黑色短波波头和直刘海，皮肤上有雀斑，眼神深邃且略微向下，头戴饰有尖刺和珠宝的精致黑色哥特皇冠，身穿黑色蕾丝高领礼服。从左侧紧贴着她的是一头威严的白化狮子，鬃毛浓密，脸部几乎触碰着她，表情冷静而有力。深邃浓郁的酒红色背景，充满情绪的电影感光影，强烈的阴影与高光对比，低饱和度色调，近乎黑白但带有微妙的暖意，照片级真实感，超细腻的毛发与皮肤纹理，焦点清晰，暗黑奇幻氛围，高贵而强烈的意境，大师级摄影风格。
+```
+
+<img src="https://cms-assets.youmind.com/media/1777708953480_7sah9k_HHO2R7-XgAAGGY_.jpg" width="600" alt="哥特风格女性与白化狮子肖像">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4018)**
+
+**作者:** [Myluna](https://x.com/monicamoonx) | **来源:** [Link](https://x.com/monicamoonx/status/2050182739442257945) | **发布时间:** May 1, 2026
+
+---
+### 未来科幻战术女性走廊漫步
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段电影质感的视频提示词：一位身材健美的女性身着时髦的白色战术紧身衣，在昏暗的未来科幻走廊中大步前行，光影效果极具戏剧性。
+
+#### 📝 提示词
+
+```
+一位美丽、健美的年轻女性，神情坚定自信，在昏暗的未来科幻走廊中大步前行。她身着一件时髦、极度贴身的白色战术紧身衣，配有灰色装甲板、加固肩垫、机械仿生右臂、带有小袋和枪套的战术腰带、护膝以及厚重的战斗靴。她戴着一个白色的未来感头盔，头盔顶部有尖锐的蝙蝠状耳饰。她的右手握着一把巨大的弯曲战斗刀，左手拿着一把未来感手枪。画面呈现戏剧性的电影级光影，强烈的束光从头顶的天窗射入，侧面面板发出微光，走廊墙壁上布满了厚重的体积光束、复杂的管道、导管和金属板。照片级真实感，超精细，8K 分辨率，电影级科幻概念艺术，焦点清晰，戏剧性的阴影与高光，完美的人体结构，杰作。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f85da6102ef987cc46ccef6935041c7f/thumbnails/thumbnail.jpg" width="600" alt="未来科幻战术女性走廊漫步">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4013)**
+
+**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **来源:** [Link](https://x.com/ThoughCreator/status/2050165725432602661) | **发布时间:** May 1, 2026
+
+---
+### 美洲原住民战士与被烧毁的森林
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段电影感手持拍摄视频提示词，描绘了一位美洲原住民战士在日落时分身处被烧毁的森林中。
+
+#### 📝 提示词
+
+```
+中景手持镜头跟随一位孤独的美洲原住民战士，在日落时分穿过被烧毁的森林。灰烬在空气中轻轻飘浮。他停下脚步，望向垂落的夕阳，轻声低语：“我们的声音还会回来吗？”空灵的笛声与柔和的鼓声渐强，无字幕。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/039657caa4187a4d05123c1017238cb9/thumbnails/thumbnail.jpg" width="600" alt="美洲原住民战士与被烧毁的森林">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4014)**
+
+**作者:** [LudovicCreator](https://x.com/LudovicCreator) | **来源:** [Link](https://x.com/LudovicCreator/status/2050138179953447126) | **发布时间:** May 1, 2026
+
+---
+### 生物发光全息花卉
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个 Grok Imagine 视频提示词，展示了围绕全息百合花进行云台稳定旋转的画面，并配有生物发光照明效果。
+
+#### 📝 提示词
+
+```
+摄像机以 60 度角缓慢旋转以展示灯具，使用云台进行稳定拍摄。生物发光霓虹粉色和洋红色。花瓶中插着带有绿色茎秆的全息鸡蛋花和马蹄莲。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2678a5b9b82952de72fcee2569f516e4/thumbnails/thumbnail.jpg" width="600" alt="生物发光全息花卉">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4012)**
+
+**作者:** [Missy AI](https://x.com/ai_empire33) | **来源:** [Link](https://x.com/ai_empire33/status/2050068193771983034) | **发布时间:** May 1, 2026
+
+---
+### 充满活力的风格化女性与蝴蝶
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一幅精美的动画插画，描绘了一位身着粉色连衣裙、手持蝴蝶的苗条女性，背景为带有天体和植物图案的深邃虚空。
+
+#### 📝 提示词
+
+```
+一幅充满活力的风格化插画，运用了闪粉和水钻元素，描绘了一位身着复杂图案粉色连衣裙的苗条女性，其轮廓在黑色虚空的映衬下格外清晰。她拥有白皙纯净的肌肤，手中持有一只蝴蝶，面部特征极简：闭着双眼，双唇微抿。她的粉色长发垂向左侧。画面构图包含了金色、白色和蓝色的漂浮纹理圆圈，以及花朵形状的蝴蝶等植物图案，营造出宁静而风格化的场景。
+```
+
+<img src="https://cms-assets.youmind.com/media/1777708950345_9tuwe6_HHM9NXKWIAA7TUs.jpg" width="600" alt="充满活力的风格化女性与蝴蝶">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4017)**
+
+**作者:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **来源:** [Link](https://x.com/iamhappy2026/status/2050049677601522037) | **发布时间:** May 1, 2026
+
+---
+### Q 版金发女孩杂志旋转
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个视频提示词，用于实现 10 度的平滑镜头旋转，展示一个穿着睡衣的 Q 版金发角色坐在杂志堆上，最后以“Imagine”一词结尾。
+
+#### 📝 提示词
+
+```
+镜头缓慢旋转 10 度以展示杂志。使用云台进行稳定拍摄，画面中一个穿着睡衣、神情沉思的 Q 版金发女孩坐在杂志堆顶端。随着旋转，画面中浮现出“Imagine”一词。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c458ab3e3147ce4de74f1c4075890581/thumbnails/thumbnail.jpg" width="600" alt="Q 版金发女孩杂志旋转">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4021)**
+
+**作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **来源:** [Link](https://x.com/clemensilverio/status/2050047212055298239) | **发布时间:** May 1, 2026
+
+---
+### 精灵公主魔法棒
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个充满魔法的视频提示词，展现了一位精灵公主使用魔法棒拼写出单词“Love”。
+
+#### 📝 提示词
+
+```
+又一位小精灵公主登场，她手持魔法棒，拼写出了单词 Love。回应是 Amor。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a558f5ea37b1c1931cc3a2582c2c3d30/thumbnails/thumbnail.jpg" width="600" alt="精灵公主魔法棒">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4023)**
+
+**作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **来源:** [Link](https://x.com/clemensilverio/status/2050044248284623039) | **发布时间:** May 1, 2026
+
+---
+### 时尚模特抛帽
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个电影感的时尚提示词，展现了模特坐在地板上，红色玫瑰花瓣纷纷落下，并伴有庆祝性的抛帽动作。
+
+#### 📝 提示词
+
+```
+所有模特坐在地板上，红色玫瑰花瓣落下，配以专业摄影灯光。她们将帽子抛向空中…… 时尚
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/245f1e226883e960fb9a13dea2f70301/thumbnails/thumbnail.jpg" width="600" alt="时尚模特抛帽">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4022)**
+
+**作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **来源:** [Link](https://x.com/clemensilverio/status/2050037831934910666) | **发布时间:** May 1, 2026
+
+---
+### 睡前蝴蝶动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于为孩子制作蝴蝶场景动画的提示词，包含发色和瞳色等具体的角色细节。
+
+#### 📝 提示词
+
+```
+让我们为 Savannah 的睡前故事赋予这只蝴蝶生命吧。她有着金色的头发和蓝色的眼睛。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5c452848eb9e30c33cab73b6d8f25f1b/thumbnails/thumbnail.jpg" width="600" alt="睡前蝴蝶动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4009)**
+
+**作者:** [Firecracker](https://x.com/CantTameFire) | **来源:** [Link](https://x.com/CantTameFire/status/2050032115828359538) | **发布时间:** May 1, 2026
+
+---
 ### 雪中黑豹视频提示词
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1961,345 +2266,6 @@ Chloe 穿过了 Moonstone Castle 的空间裂隙，发现自己置身于一个�
 **作者:** [rui｜∫varts (シュバルツ)](https://x.com/varts_works) | **来源:** [Link](https://x.com/varts_works/status/2048258487428513937) | **发布时间:** Apr 26, 2026
 
 ---
-### 动漫风格超市场景：会说话的泰迪熊
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段电影级动漫风格视频提示词，描绘了宁静的超市收银台场景，角色们佩戴着配套的花环，一只小泰迪熊正在轻声说话。
-
-#### 📝 提示词
-
-```
-一段电影级生活片段动漫场景，背景设定在柔和日光下的超市收银台。
-中心：一位留着黑发的成年女性，身穿白色衬衫和深绿色围裙，佩戴 FP1 徽章，表情温柔且略显宽慰。
-左侧：一位表情平静的金发女性，穿着同样的制服并佩戴花朵配饰。
-右侧：一位表情中立的棕发女性，穿着同样的制服并佩戴花朵配饰。
-前方：一只穿着深绿色围裙并佩戴 FP1 徽章的小泰迪熊，微微抬头向上看。
-所有角色都佩戴着象征希望的配套柔和花环。
-柔和的粉彩色调，极细精致的动漫线条，平滑柔和的阴影，极简渲染，柔和的环境光，温暖而宁静的氛围。
-背景：柔和虚化的超市内部。
-摄像机：自然的平视视角，柔和的 45 度角，无变焦。
-对话（仅限日语配音）：
-前方的小泰迪熊（少女音，轻柔温和）
-“这正说明你工作得非常努力。”
-表演：极简的自然动作。泰迪熊轻声说话。
-重要规则：
-仅泰迪熊移动嘴部，所有其他角色保持嘴部完全闭合，非说话角色无唇部动作
-特别是中心的黑发女性必须保持嘴部完全闭合
-场景中没有其他角色说话。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/990a63263a5bd75c014f656be894ba0f/thumbnails/thumbnail.jpg" width="600" alt="动漫风格超市场景：会说话的泰迪熊">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3761)**
-
-**作者:** [テカひめ｜FP1級｜賢者に転職できない遊び人Lv.20/すっぴんLv.1](https://x.com/tekka5154) | **来源:** [Link](https://x.com/tekka5154/status/2048241445711339729) | **发布时间:** Apr 26, 2026
-
----
-### 超现实未来感迷宫音乐场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个视频生成提示词，用于创作一个结合了音乐、数学与自然元素的未来城市超现实梦幻场景。
-
-#### 📝 提示词
-
-```
-一个柔和且充满生命力的超现实场景，钢琴、星辰、花朵与数学图案在温暖的共鸣中交织在一起，漂浮在未来感迷宫城市中一个梦幻般的聚会场所，沐浴在温柔的光影里。音乐即共鸣。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ca937a957dc0d29aac0a700744917671/thumbnails/thumbnail.jpg" width="600" alt="超现实未来感迷宫音乐场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3715)**
-
-**作者:** [Carina](https://x.com/Freehere3) | **来源:** [Link](https://x.com/Freehere3/status/2048212069720441125) | **发布时间:** Apr 26, 2026
-
----
-### 金翼缪斯动画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个关于异想天开的 3D 插画的描述性提示词，描绘了一位拥有金色卷发和复杂图案的女性，通过 Grok Imagine 进行动画处理。
-
-#### 📝 提示词
-
-```
-这幅异想天开的 3D 插画展现了一位风格化的女性，她闭着双眼，面部微微向下并向左倾斜。她的头发由精致的金色漩涡和卷发组成，右侧饰有醒目的羽毛设计，并点缀着蓝色、橙色和金色的图案。她佩戴着金色领饰，身穿带有精细圆形图案的蓝橙色连衣裙。在她下方，盛开着各种颜色的梦幻花朵，如白色、红色和蓝色，周围环绕着许多蝴蝶。
-```
-
-<img src="https://cms-assets.youmind.com/media/1777190276519_trug6b_HGyyaCybMAAS28w.jpg" width="600" alt="金翼缪斯动画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3716)**
-
-**作者:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **来源:** [Link](https://x.com/iamhappy2026/status/2048208298386632723) | **发布时间:** Apr 26, 2026
-
----
-### 精致的奇幻女性侧脸与城市景观
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个关于奇幻视频的高细节提示词，展现了一位拥有金色漩涡状秀发和充满活力的城市景观主题的女性。
-
-#### 📝 提示词
-
-```
-这件精致的奇幻艺术作品展示了一位闭着眼睛的女性侧脸，周围环绕着精美的金色漩涡状发型，以及金、蓝、橙三色的叶片图案。她的妆容包括金色眼影、浓密的深色睫毛和红唇。她穿着一件质感十足的金色服装，上面有一个醒目的蓝色图案圆盘。在她的下巴下方，密集的彩色建筑群形成了独特的屋顶和尖塔城市景观，整体背景为深色。
-```
-
-<img src="https://cms-assets.youmind.com/media/1777277643043_e364t6_HGyoF5dbQAAtI4G.jpg" width="600" alt="精致的奇幻女性侧脸与城市景观">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3757)**
-
-**作者:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **来源:** [Link](https://x.com/iamhappy2026/status/2048196860293091421) | **发布时间:** Apr 26, 2026
-
----
-### 装饰性 3D 人像
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一款高度精细、风格化的 3D 人像提示词，包含复杂的纹理、金色珠宝以及抽象的卷发元素。
-
-#### 📝 提示词
-
-```
-这是一幅高度风格化的装饰性 3D 女性人像，她闭着双眼，皮肤白皙。她戴着一条黄色发带，搭配带有圆形图案的彩色头饰。她的头发被描绘成由棕色卷曲线条和小巧装饰圆圈组成的抽象造型。耳朵上挂着设计精巧的大型金色圆盘耳环，并配有垂坠的珠饰。她有着浓密的睫毛和粉色的嘴唇。她修长纤细的脖子呈现出金色的棱纹质感，身穿一件带有橙色波点的深青色连衣裙。背景为浅灰白色，带有微妙的漩涡线条图案和零星散布的小型装饰元素。右侧可见一只羽毛呈红色、蓝色和棕色的小鸟。
-```
-
-<img src="https://cms-assets.youmind.com/media/1777190265946_0lbgs5_HGyU7mgWAAETn5b.jpg" width="600" alt="装饰性 3D 人像">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3710)**
-
-**作者:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **来源:** [Link](https://x.com/iamhappy2026/status/2048175782242189335) | **发布时间:** Apr 25, 2026
-
----
-### 未来感水上着陆平台
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是一个科幻视频提示词，描述了飞行汽车在水上平台降落并进行补给的场景。
-
-#### 📝 提示词
-
-```
-在未来，着陆平台由水构成。
-这些飞行汽车汲取浅层水，
-为我们未来的飞行汽车引擎提供动力。
-
-一个可以踏足的地方……
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/47e364d0a72dde570918d3131af9f439/thumbnails/thumbnail.jpg" width="600" alt="未来感水上着陆平台">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3705)**
-
-**作者:** [Luke Clayden](https://x.com/clayden5_luke) | **来源:** [Link](https://x.com/clayden5_luke/status/2048147888732020867) | **发布时间:** Apr 25, 2026
-
----
-### 未来感水上降落汽车
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段关于未来场景的描述性提示词，涉及飞行汽车与水上降落平台。
-
-#### 📝 提示词
-
-```
-在未来，降落平台由水构成。
-这些飞行汽车会靠近并吸入浅水，
-以此为我们未来的飞行汽车引擎提供动力。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/72afa414c2dca9039d54f2a3ef7807cd/thumbnails/thumbnail.jpg" width="600" alt="未来感水上降落汽车">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3703)**
-
-**作者:** [Luke Clayden](https://x.com/clayden5_luke) | **来源:** [Link](https://x.com/clayden5_luke/status/2048146440686276737) | **发布时间:** Apr 25, 2026
-
----
-### 沙丘沙漠之战
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段电影感视频提示词，描绘了在血色天空下的荒蛮沙漠中，哈克南狂战士与弗雷曼战士之间的一场激战。
-
-#### 📝 提示词
-
-```
-在血色天空下的荒蛮沙漠中，哈克南狂战士与弗雷曼战士之间的激战。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/28453766f8a96c953e1f8b9e17bb8c76/thumbnails/thumbnail.jpg" width="600" alt="沙丘沙漠之战">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3713)**
-
-**作者:** [Petergu](https://x.com/PalfalviP497fz) | **来源:** [Link](https://x.com/PalfalviP497fz/status/2048139680797921648) | **发布时间:** Apr 25, 2026
-
----
-### 飞越海洋的巨龙
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段详细的视频提示词，描述两条巨龙飞越星光熠熠的海洋，并带有水面反射效果。
-
-#### 📝 提示词
-
-```
-蓝龙与红龙在明亮的星空下并肩飞越平静的海洋，星光映照在水面上
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7f38ab5def6691d90952bad58163306e/thumbnails/thumbnail.jpg" width="600" alt="飞越海洋的巨龙">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3708)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2048114266545553712) | **发布时间:** Apr 25, 2026
-
----
-### 未来感赛博朋克靴子变形视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 为 Grok Imagine 提供的超详细电影级提示词，用于生成一段 25 秒的视频，展示一款未来感赛博朋克靴子在纯白摄影棚背景下进行各种设计和配色方案的变形。
-
-#### 📝 提示词
-
-```
-创作一段 25 秒的平滑高分辨率 3D 电影级视频，背景为纯白色，配有柔和的摄影棚灯光和微妙的阴影。画面展示了一只未来感赛博朋克风格的轮滑鞋/冰刀鞋混合靴，以完美的侧面轮廓呈现（鞋头指向左侧）。每隔 1 秒，靴子就会无缝变形并转换为全新的惊艳款式，同时保持完全相同的摄像机角度、构图和机械基础结构。
-这款靴子是超精细的科幻鞋履，拥有外露的复杂机械部件、齿轮、活塞、电线、碳纤维面板、金属扣、绑带、通风口和发光的霓虹电路。其底部配有轮滑鞋式轮子、冰刀或坦克履带元素。设计将按以下顺序快速循环切换配色方案和装饰：
-哑光黑配明亮的青色霓虹发光线条和电路
-黑色配奢华金色金属装饰和微妙的橙色能量脉冲
-黑金配色配戏剧性的橙色闪电能量效果
-黑、蓝、亮橙色高科技面板配青色高光
-白、黑、红装甲未来感设计配红色发光灯效
-黑色配强烈的青色霓虹冰刀版本
-黑、白、红、铬色配红色发光核心元素
-黑色配厚重的金色镀铬和黄色装饰
-金属蓝、银、橙色配外露的引擎式细节
-黑色配电光青柠绿霓虹闪电和发光绿色轮子
-每次变形都流畅且具有电影感。霓虹灯光真实地脉动发光，倒影在光面和哑光表面上滑动，微小的机械部件轻微移动。超写实 8K 3D 渲染，照片级真实材质，细节清晰，戏剧性的轮廓光，完美构图，无文字，无水印，电影级调色，25 fps，平滑的 25 秒循环。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/56d425786da52dc4d4ea76ab4e48652e/thumbnails/thumbnail.jpg" width="600" alt="未来感赛博朋克靴子变形视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3711)**
-
-**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **来源:** [Link](https://x.com/ThoughCreator/status/2048106729209274840) | **发布时间:** Apr 25, 2026
-
----
-### 角色着陆与日落平移镜头
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段电影感视频提示词，描述了一个角色降落在建筑物上并坐在边缘，同时镜头平移捕捉日落场景。
-
-#### 📝 提示词
-
-```
-他降落在建筑物上，随后坐在边缘，镜头平移至日落处
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f88681cc042b5d3280dbd78dc2988748/thumbnails/thumbnail.jpg" width="600" alt="角色着陆与日落平移镜头">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3702)**
-
-**作者:** [🇮🇳 🧑‍🎨Prashant Salunke 🇮🇳](https://x.com/prashadventurer) | **来源:** [Link](https://x.com/prashadventurer/status/2048094768664834544) | **发布时间:** Apr 25, 2026
-
----
-### 印度名人婚礼
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个关于在泰姬陵举办名人婚礼场景的视频生成提示词，包含传统印度服饰元素。
-
-#### 📝 提示词
-
-```
-Zendaya 和 Tom Holland 身着传统印度服饰在泰姬陵举行婚礼，风格参考 Virat Kohli 和 Anushka Sharma 的婚礼。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e3a3cae1384182ff4ce43c77bf4697a1/thumbnails/thumbnail.jpg" width="600" alt="印度名人婚礼">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3704)**
-
-**作者:** [Narendra Singh](https://x.com/SinghNarendra87) | **来源:** [Link](https://x.com/SinghNarendra87/status/2048082299275886596) | **发布时间:** Apr 25, 2026
-
----
-### 梦幻般的风景动画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个电影级的视频提示词，描述了一位身穿白裙的女性走在梦幻插画风格的奇幻风景中。
-
-#### 📝 提示词
-
-```
-身穿白裙的女性走在梦幻般的风景中，奇幻插画风格，10 秒
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/14dc83ee20214133b1da89f460922ec6/thumbnails/thumbnail.jpg" width="600" alt="梦幻般的风景动画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3707)**
-
-**作者:** [David Liang](https://x.com/DavidLi36143625) | **来源:** [Link](https://x.com/DavidLi36143625/status/2048018519552627067) | **发布时间:** Apr 25, 2026
-
----
-### 忧郁的秋千场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段关于一个人在秋千上的忧郁视频提示词，结合了对世界充满哲理的对话。
-
-#### 📝 提示词
-
-```
-他忧伤地荡着秋千，低着头，似乎在等待着谁。
-他谈论着这个世界，说这里本是个适合居住的地方，但你必须努力工作。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a3cca86c825f53e48c5ccada7431c7e0/thumbnails/thumbnail.jpg" width="600" alt="忧郁的秋千场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3709)**
-
-**作者:** [Saeed Anwar](https://x.com/saen_dev) | **来源:** [Link](https://x.com/saen_dev/status/2048004209388498974) | **发布时间:** Apr 25, 2026
-
----
-### 武士对决终结者：电影级战斗场景
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 这是一个为 Grok Imagine 编写的详细电影级动作提示词，描述了武士与终结者之间的战斗，包含高速旋转镜头和快速微剪辑，并以一张图片作为主要参考。
-
-#### 📝 提示词
-
-```
-@ Image1 是一场电影战斗场景，主角为一名武士和一名终结者，进行高强度的近身格斗，摄像机围绕位于画面中心的拍摄主体高速旋转，场景采用微剪辑格式，并不断切换多个摄像机角度
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/35349cab87f5e5d0e0f6dc4103582971/thumbnails/thumbnail.jpg" width="600" alt="武士对决终结者：电影级战斗场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3654)**
-
-**作者:** [いにしえ@AI Director & Creator｜Will Oldgram](https://x.com/old_pgmrs_will) | **来源:** [Link](https://x.com/old_pgmrs_will/status/2047942047064309993) | **发布时间:** Apr 25, 2026
-
----
-### 超写实异色瞳肖像
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是一条用于生成照片级真实感肖像的长提示词，包含特定的眼睛颜色和皮肤纹理细节，适用于视频生成场景。
-
-#### 📝 提示词
-
-```
-女孩面部的超写实肖像，极致的面部细节，清晰可见的皮肤纹理、毛孔、细纹及细微瑕疵，电影级布光，焦点清晰，8K 分辨率，对称构图，中性背景。主体呈现异色瞳特征：一只眼睛为鲜艳的深蓝色，另一只为纯黑色，双眼均具备高度细节与反光高光。自然肤色，柔和阴影，逼真的发丝，摄影棚拍摄风格，高动态范围，栩栩如生的表情。人类面部的超写实肖像，极致的面部细节，清晰可见的皮肤纹理、毛孔、细纹及细微瑕疵，电影级布光，焦点清晰，8K 分辨率，对称构图，中性背景。主体呈现异色瞳特征：一只眼睛为鲜艳的深蓝色，另一只为纯黑色，双眼均具备高度细节与反光高光。自然肤色，柔和阴影，逼真的发丝，摄影棚拍摄风格，高动态范围，栩栩如生的表情。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/44b44faa0ee08a7ccf9138370327530e/thumbnails/thumbnail.jpg" width="600" alt="超写实异色瞳肖像">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3706)**
-
-**作者:** [Kuji](https://x.com/Kujiiichan) | **来源:** [Link](https://x.com/Kujiiichan/status/2047928082149826575) | **发布时间:** Apr 25, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2361,6 +2327,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-05-02T06:13:08.883Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-05-02T09:16:00.557Z</sub>
 
 </div>

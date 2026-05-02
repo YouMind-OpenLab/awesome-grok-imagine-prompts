@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **1328** |
+| 📝 총 프롬프트 수 | **1344** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-05-02** |
 
@@ -189,6 +189,311 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 스팀펑크 눈 줌 애니메이션
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 불꽃이 가득한 눈을 가진 스팀펑크 여성과 카메라 줌 효과가 포함된 상세한 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+종말론적 배경 속 스팀펑크 스타일의 아름다운 백인 여성, 카메라가 불꽃으로 가득 찬 그녀의 눈으로 줌인합니다. 그녀가 눈을 깜빡이자 눈동자가 하얗게 변합니다.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6f4a388861aa06f1b27b1d2d4cebdae1/thumbnails/thumbnail.jpg" width="600" alt="스팀펑크 눈 줌 애니메이션">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4010)**
+
+**작성자:** [dadiiogames](https://x.com/dadiiogames) | **출처:** [Link](https://x.com/dadiiogames/status/2050360623297630265) | **게시일:** May 1, 2026
+
+---
+### Galaxy Explorers Glowing Key
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 빛나는 열쇠로 천상의 문을 여는 두 탐험가의 모습을 담은 영화 같은 비디오 프롬프트입니다. 머리 위로는 은하계가 펼쳐져 있습니다.
+
+#### 📝 프롬프트
+
+```
+두 명의 탐험가. 하나의 빛나는 열쇠. 절대 열리지 말았어야 할 문. 바닥에서 투명한 계단이 솟아오르고… 행성들이 스쳐 지나갔으며… 그들 머리 위로는 거대한 은하계가 기다리고 있었습니다. 그들은 위로 올라갔습니다. 당신이라면 그들을 따라갔을까요?
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4491a0b1291e3a7831e1fe6ceccfac83/thumbnails/thumbnail.jpg" width="600" alt="Galaxy Explorers Glowing Key">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4016)**
+
+**작성자:** [DuBoseJen](https://x.com/DuBosefire) | **출처:** [Link](https://x.com/DuBosefire/status/2050354884914934237) | **게시일:** May 1, 2026
+
+---
+### 천사 전사의 강림
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 전장에 강림하는 하얀 갑옷을 입은 천사 전사를 묘사한 서사적인 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+하얀 갑옷과 검을 갖춘 천사 전사가 아군을 지원하기 위해 전장으로 웅장하게 강림하는 모습
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6cd11c6dbb374d523353c96032a76c89/thumbnails/thumbnail.jpg" width="600" alt="천사 전사의 강림">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4008)**
+
+**작성자:** [Chart_Guy](https://x.com/Chart_Guy) | **출처:** [Link](https://x.com/Chart_Guy/status/2050329761835004005) | **게시일:** May 1, 2026
+
+---
+### 요정과 다람쥐 볼 풀장
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 알록달록한 풍선껌과 솜사탕 볼 풀장에서 노는 요정과 다람쥐를 담은 재미있는 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+공원에서 다양한 색상의 풍선껌과 솜사탕 볼 풀장에서 비눗방울을 불며 귀여운 말을 주고받는 작은 요정들과 다람쥐들의 영상
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3ee8e490948fa9ca87e6a2f4409d43fd/thumbnails/thumbnail.jpg" width="600" alt="요정과 다람쥐 볼 풀장">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4011)**
+
+**작성자:** [Emily](https://x.com/EMILYZART) | **출처:** [Link](https://x.com/EMILYZART/status/2050285005872705902) | **게시일:** May 1, 2026
+
+---
+### 신비로운 빅토리아 시대 여인과 떠다니는 시계들
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 빅토리아 시대 드레스, 어두운 저택, 초현실적으로 떠다니는 시계들이 어우러진 복합적인 영화적 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+시대를 초월한 순간
+흐르는 듯한 빅토리아 시대 드레스를 입은 신비로운 여인이 촛불이 켜진 어두운 저택의 웅장한 복도에 홀로 서 있습니다. 높은 창문으로 달빛이 쏟아져 들어오고, 그녀 주변에는 수십 개의 빛나는 시계들이 각기 다른 시간을 가리키며 허공에 멈춰 떠 있습니다....
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1e800b2d2c19327c1b8777ffb6475188/thumbnails/thumbnail.jpg" width="600" alt="신비로운 빅토리아 시대 여인과 떠다니는 시계들">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4015)**
+
+**작성자:** [DuBoseJen](https://x.com/DuBosefire) | **출처:** [Link](https://x.com/DuBosefire/status/2050259170369130683) | **게시일:** May 1, 2026
+
+---
+### 사이버펑크 기모노 드로잉 애니메이션
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 화려한 사이버펑크 기모노를 입은 여성이 빛나는 흔적을 남기는 펜으로 그림을 그리는 창의적인 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+화려한 사이버펑크 기모노를 입고 그림을 그리는 일본 여성. 그림은 빛에 반응합니다. 또한 펜의 움직임에 따라 사이버네틱하게 깜빡입니다. 펜으로 선을 그은 부분에만 선화가 나타납니다.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2b0422acdc4ccb9fb1ced4c52ae11aff/thumbnails/thumbnail.jpg" width="600" alt="사이버펑크 기모노 드로잉 애니메이션">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4019)**
+
+**작성자:** [トマスのAI画像・動画研究所](https://x.com/thomasainya) | **출처:** [Link](https://x.com/thomasainya/status/2050241289506209963) | **게시일:** May 1, 2026
+
+---
+### 사이버펑크 안드로이드 여고생 비디오
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 미래지향적인 버스에 앉아 있는 사이버펑크 안드로이드 여고생의 고품질 비디오를 생성하기 위한 상세한 시네마틱 프롬프트로, 캐릭터의 외형과 조명에 중점을 둡니다.
+
+#### 📝 프롬프트
+
+```
+조용한 미래형 스쿨버스 안에 앉아 있는 매혹적인 사이버펑크 안드로이드 여고생의 클로즈업 샷, 차분하고 위엄 있는 모습으로 카메라를 정면으로 응시하며, 백금발 머리
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e18be61a928085dadc5e1240ab53968e/thumbnails/thumbnail.jpg" width="600" alt="사이버펑크 안드로이드 여고생 비디오">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4020)**
+
+**작성자:** [Humble Whisper](https://x.com/humble_whisper) | **출처:** [Link](https://x.com/humble_whisper/status/2050218692315640261) | **게시일:** May 1, 2026
+
+---
+### 고딕풍 여성과 알비노 사자의 초상화
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine을 위한 다크 판타지 영화적 프롬프트로, 고딕 왕관을 쓴 여성과 위엄 있는 백사자의 옆모습 초상화를 담고 있습니다.
+
+#### 📝 프롬프트
+
+```
+짧은 검은색 단발머리에 일자 앞머리를 한 창백한 젊은 여성의 드라마틱한 옆모습 초상화, 주근깨가 있는 피부, 약간 아래를 향한 강렬한 시선, 머리에는 가시와 보석이 박힌 정교한 검은색 고딕 왕관을 쓰고 검은색 레이스 하이넥 드레스를 입고 있음. 왼쪽에서 그녀와 가까이 마주 보고 있는 위엄 있는 알비노 백사자는 두꺼운 갈기를 가졌으며, 얼굴이 거의 그녀의 얼굴에 닿을 듯하고 차분하면서도 강력한 표정을 짓고 있음. 깊고 풍부한 버건디 레드 배경, 강한 그림자와 하이라이트가 어우러진 분위기 있는 영화적 조명, 높은 대비, 거의 흑백에 가깝지만 미묘한 온기가 느껴지는 채도가 낮은 톤, 사실적인 사진, 초고해상도의 털과 피부 질감, 선명한 초점, 다크 판타지 분위기, 위엄 있고 강렬한 무드, 마스터피스 사진 스타일.
+```
+
+<img src="https://cms-assets.youmind.com/media/1777708953480_7sah9k_HHO2R7-XgAAGGY_.jpg" width="600" alt="고딕풍 여성과 알비노 사자의 초상화">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4018)**
+
+**작성자:** [Myluna](https://x.com/monicamoonx) | **출처:** [Link](https://x.com/monicamoonx/status/2050182739442257945) | **게시일:** May 1, 2026
+
+---
+### 미래형 SF 전술 복장을 한 여성의 복도 보행
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 어둡고 미래지향적인 SF 복도를 당당하게 걸어가는, 매끄러운 흰색 전술 바디슈트를 입은 운동 신경이 뛰어난 여성의 모습을 담은 영화적 비디오 프롬프트.
+
+#### 📝 프롬프트
+
+```
+결의에 차고 자신감 넘치는 표정을 지은 아름답고 탄탄한 체격의 젊은 여성이 어두운 미래형 SF 복도를 힘차게 걸어가는 모습. 그녀는 회색 장갑 패널, 강화된 어깨 패드, 기계적인 사이버네틱 오른팔, 파우치와 홀스터가 달린 유틸리티 벨트, 무릎 보호대, 튼튼한 전투화를 갖춘 매끄럽고 몸에 딱 맞는 흰색 전술 바디슈트를 착용하고 있다. 머리에는 박쥐 귀 모양의 뾰족한 장식이 달린 흰색 미래형 헬멧을 쓰고 있다. 오른손에는 큰 곡선형 전투용 칼을, 왼손에는 미래형 권총을 들고 있다. 머리 위 채광창에서 쏟아지는 강렬한 빛줄기와 측면의 발광 패널, 짙은 볼륨감 있는 빛의 기둥(god rays), 복도 벽면을 따라 복잡하게 얽힌 파이프와 도관, 금속 패널들이 어우러져 극적인 영화적 조명을 연출한다. 사실적인 묘사, 초고해상도, 8K, 영화적 SF 컨셉 아트, 선명한 초점, 극적인 명암 대비, 완벽한 신체 비율, 걸작.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f85da6102ef987cc46ccef6935041c7f/thumbnails/thumbnail.jpg" width="600" alt="미래형 SF 전술 복장을 한 여성의 복도 보행">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4013)**
+
+**작성자:** [Thoughts Creator](https://x.com/ThoughCreator) | **출처:** [Link](https://x.com/ThoughCreator/status/2050165725432602661) | **게시일:** May 1, 2026
+
+---
+### 불타버린 숲속의 아메리카 원주민 전사
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 해 질 녘 불타버린 숲속에 있는 아메리카 원주민 전사를 담은 영화 같은 핸드헬드 영상 프롬프트.
+
+#### 📝 프롬프트
+
+```
+해 질 녘 불타버린 숲을 가로질러 이동하는 아메리카 원주민 전사를 따라가는 미디엄 핸드헬드 샷. 재가 공중에 부드럽게 흩날린다. 그는 멈춰 서서 저물어가는 태양을 바라보며 나지막이 속삭인다. '우리의 목소리가 다시 돌아올 수 있을까?' 신비로운 플루트와 부드러운 드럼 소리가 고조됨. 자막 없음
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/039657caa4187a4d05123c1017238cb9/thumbnails/thumbnail.jpg" width="600" alt="불타버린 숲속의 아메리카 원주민 전사">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4014)**
+
+**작성자:** [LudovicCreator](https://x.com/LudovicCreator) | **출처:** [Link](https://x.com/LudovicCreator/status/2050138179953447126) | **게시일:** May 1, 2026
+
+---
+### 생물 발광 홀로그램 꽃
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 생물 발광 조명이 비치는 홀로그램 백합 주위를 짐벌로 안정화하여 회전하는 Grok Imagine 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+카메라가 60도로 천천히 회전하며 조명을 비춘다. 짐벌을 사용하여 안정적으로 촬영. 생물 발광 네온 핑크와 마젠타 색상. 꽃병에 담긴 녹색 줄기의 홀로그램 플루메리아와 카라 백합.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2678a5b9b82952de72fcee2569f516e4/thumbnails/thumbnail.jpg" width="600" alt="생물 발광 홀로그램 꽃">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4012)**
+
+**작성자:** [Missy AI](https://x.com/ai_empire33) | **출처:** [Link](https://x.com/ai_empire33/status/2050068193771983034) | **게시일:** May 1, 2026
+
+---
+### 나비와 함께 있는 생동감 넘치는 스타일의 여성
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 분홍색 드레스를 입고 나비를 든 날씬한 여성의 아름다운 애니메이션 일러스트로, 천체 및 식물 모티프가 어우러진 어두운 배경을 배경으로 합니다.
+
+#### 📝 프롬프트
+
+```
+반짝이와 라인석이 가미된 생동감 넘치는 스타일의 일러스트로, 복잡한 패턴의 분홍색 드레스를 입은 날씬한 여성의 실루엣이 검은 배경과 대비되어 선명하게 표현되었습니다. 매우 밝고 순수한 피부를 가진 그녀는 나비를 들고 있으며, 눈을 감고 입술을 오므린 미니멀한 얼굴 특징을 가지고 있습니다. 분홍색 머리카락은 왼쪽으로 흘러내립니다. 구성에는 금색, 흰색, 파란색의 질감이 느껴지는 떠다니는 원형들과 꽃 모양의 나비를 포함한 식물 모티프가 더해져 평온하고 스타일리시한 장면을 연출합니다.
+```
+
+<img src="https://cms-assets.youmind.com/media/1777708950345_9tuwe6_HHM9NXKWIAA7TUs.jpg" width="600" alt="나비와 함께 있는 생동감 넘치는 스타일의 여성">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4017)**
+
+**작성자:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **출처:** [Link](https://x.com/iamhappy2026/status/2050049677601522037) | **게시일:** May 1, 2026
+
+---
+### 치비 금발 잡지 회전
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 잠옷을 입은 치비 스타일의 금발 캐릭터가 잡지 더미 위에 앉아 있는 모습을 10도 회전하며 보여주는 영상 프롬프트로, 마지막에는 'Imagine'이라는 단어가 나타납니다.
+
+#### 📝 프롬프트
+
+```
+카메라가 10도 천천히 회전하며 잡지를 보여줍니다. 짐벌을 사용하여 안정적으로 촬영하며, 다른 잡지 위에 앉아 있는 사색적인 태도의 금발 치비 캐릭터를 담아냅니다. 회전이 끝나면서 'Imagine'이라는 단어가 나타납니다.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c458ab3e3147ce4de74f1c4075890581/thumbnails/thumbnail.jpg" width="600" alt="치비 금발 잡지 회전">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4021)**
+
+**작성자:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **출처:** [Link](https://x.com/clemensilverio/status/2050047212055298239) | **게시일:** May 1, 2026
+
+---
+### 엘프 공주의 마법 지팡이
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 엘프 공주가 마법 지팡이를 사용하여 'Love'라는 단어를 그려내는 마법 같은 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+또 다른 작은 엘프 공주가 나타나 마법 지팡이를 들고 Love라는 단어를 만들어냅니다. 이에 대한 응답은 Amor입니다.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a558f5ea37b1c1931cc3a2582c2c3d30/thumbnails/thumbnail.jpg" width="600" alt="엘프 공주의 마법 지팡이">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4023)**
+
+**작성자:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **출처:** [Link](https://x.com/clemensilverio/status/2050044248284623039) | **게시일:** May 1, 2026
+
+---
+### 패션 모델들의 모자 던지기
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 바닥에 앉은 모델들 위로 붉은 장미 꽃잎이 흩날리고, 축하하는 의미로 모자를 던지는 장면을 담은 영화 같은 패션 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+모든 모델이 바닥에 앉아 있고 붉은 장미 꽃잎이 떨어지는 모습, 전문적인 사진 조명 효과. 그들이 모자를 위로 던진다.... 패션
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/245f1e226883e960fb9a13dea2f70301/thumbnails/thumbnail.jpg" width="600" alt="패션 모델들의 모자 던지기">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4022)**
+
+**작성자:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **출처:** [Link](https://x.com/clemensilverio/status/2050037831934910666) | **게시일:** May 1, 2026
+
+---
+### 취침 시간 나비 애니메이션
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 머리카락과 눈 색깔 등 구체적인 캐릭터 세부 정보를 포함하여 아이를 위한 나비 장면을 애니메이션으로 만드는 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+사바나(Savannah)의 취침 시간을 위해 나비에게 생명을 불어넣어 주세요. 사바나는 금발 머리에 파란 눈을 가지고 있어요.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5c452848eb9e30c33cab73b6d8f25f1b/thumbnails/thumbnail.jpg" width="600" alt="취침 시간 나비 애니메이션">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4009)**
+
+**작성자:** [Firecracker](https://x.com/CantTameFire) | **출처:** [Link](https://x.com/CantTameFire/status/2050032115828359538) | **게시일:** May 1, 2026
+
+---
 ### 눈 속의 흑표범 비디오 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1961,345 +2266,6 @@ Moonstone Castle 의 공간 균열을 통과한 Chloe는 미지의 영역에 있
 **작성자:** [rui｜∫varts (シュバルツ)](https://x.com/varts_works) | **출처:** [Link](https://x.com/varts_works/status/2048258487428513937) | **게시일:** Apr 26, 2026
 
 ---
-### 말하는 테디 베어가 등장하는 애니메이션 스타일의 슈퍼마켓 장면
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 평화로운 슈퍼마켓 계산대를 배경으로, 캐릭터들이 같은 꽃 왕관을 쓰고 작은 테디 베어가 부드럽게 말을 건네는 영화 같은 애니메이션 스타일의 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-부드러운 햇살이 비치는 슈퍼마켓 계산대를 배경으로 한 영화 같은 일상물 애니메이션 장면.
-중앙: 흰색 블라우스와 짙은 녹색 앞치마에 FP1 배지를 착용한 검은 머리의 성인 여성, 온화하고 약간 안도하는 표정.
-왼쪽: 차분한 표정의 금발 여성, 동일한 유니폼과 꽃 장식 착용.
-오른쪽: 무표정한 갈색 머리 여성, 동일한 유니폼과 꽃 장식 착용.
-앞쪽: 짙은 녹색 앞치마에 FP1 배지를 착용하고 약간 위를 올려다보는 작은 테디 베어.
-모든 캐릭터는 희망을 상징하는 같은 디자인의 부드러운 꽃 왕관을 쓰고 있음.
-부드러운 파스텔 색조, 매우 가늘고 섬세한 애니메이션 선화, 평면적이고 부드러운 명암, 최소한의 렌더링, 부드러운 주변 조명, 따뜻하고 평화로운 분위기.
-배경: 부드럽게 흐릿한 슈퍼마켓 내부.
-카메라: 자연스러운 눈높이, 부드러운 45도 각도, 줌 없음.
-대사 (일본어 음성 전용):
-앞에 있는 작은 테디 베어 (어린 소녀의 부드럽고 다정한 목소리)
-"그건 그만큼 열심히 일하고 있다는 뜻이야."
-연기: 최소한의 자연스러운 움직임. 테디 베어만 부드럽게 말함.
-중요 규칙:
-테디 베어만 입을 움직이며, 다른 모든 캐릭터는 입을 완전히 다물고 있어야 함. 말하지 않는 캐릭터는 입술 움직임 없음.
-특히 중앙의 검은 머리 여성은 입을 완전히 다물고 있어야 함.
-이 장면에서 다른 캐릭터는 말하지 않음.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/990a63263a5bd75c014f656be894ba0f/thumbnails/thumbnail.jpg" width="600" alt="말하는 테디 베어가 등장하는 애니메이션 스타일의 슈퍼마켓 장면">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3761)**
-
-**작성자:** [テカひめ｜FP1級｜賢者に転職できない遊び人Lv.20/すっぴんLv.1](https://x.com/tekka5154) | **출처:** [Link](https://x.com/tekka5154/status/2048241445711339729) | **게시일:** Apr 26, 2026
-
----
-### 초현실적인 미래형 미로 음악 장면
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 미래 도시를 배경으로 음악, 수학, 자연이 결합된 초현실적이고 꿈같은 장면을 위한 비디오 생성 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-피아노, 별, 꽃, 그리고 수학적 패턴이 따뜻한 공명 속에서 부드럽게 어우러져 미래형 미로 도시 속 꿈같은 만남의 장소에 떠 있는, 부드러운 빛으로 가득 찬 초현실적인 생동감 넘치는 장면입니다. 음악은 곧 공명입니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ca937a957dc0d29aac0a700744917671/thumbnails/thumbnail.jpg" width="600" alt="초현실적인 미래형 미로 음악 장면">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3715)**
-
-**작성자:** [Carina](https://x.com/Freehere3) | **출처:** [Link](https://x.com/Freehere3/status/2048212069720441125) | **게시일:** Apr 26, 2026
-
----
-### 황금 날개 뮤즈 애니메이션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 황금빛 소용돌이 머리카락과 정교한 패턴을 가진 여성을 묘사한 기발한 3D 일러스트레이션용 프롬프트로, Grok Imagine을 통해 애니메이션화되었습니다.
-
-#### 📝 프롬프트
-
-```
-눈을 감고 얼굴을 왼쪽 아래로 살짝 기울인 스타일리시한 여성의 기발한 3D 일러스트레이션입니다. 그녀의 머리카락은 정교한 황금빛 소용돌이와 컬로 구성되어 있으며, 오른쪽에는 파란색, 주황색, 금색 패턴으로 장식된 눈에 띄는 깃털 디자인이 있습니다. 그녀는 황금색 칼라와 상세한 원형 패턴이 들어간 파란색 및 주황색 드레스를 입고 있습니다. 그녀 아래에는 흰색, 빨간색, 파란색 등 다양한 색상의 환상적이고 디테일한 꽃들과 수많은 나비가 자리하고 있습니다.
-```
-
-<img src="https://cms-assets.youmind.com/media/1777190276519_trug6b_HGyyaCybMAAS28w.jpg" width="600" alt="황금 날개 뮤즈 애니메이션">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3716)**
-
-**작성자:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **출처:** [Link](https://x.com/iamhappy2026/status/2048208298386632723) | **게시일:** Apr 26, 2026
-
----
-### 정교한 판타지 여성 프로필과 도시 풍경
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 소용돌이치는 금빛 머리카락을 가진 여성과 생동감 넘치는 도시 풍경 모티프가 특징인 판타지 영상용 고해상도 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-정교한 판타지 예술 작품으로, 눈을 감은 여성의 옆모습을 보여줍니다. 금색, 파란색, 주황색이 어우러진 정교한 소용돌이 모양의 금빛 머리카락과 나뭇잎 모티프가 그녀를 감싸고 있습니다. 금색 아이섀도와 길고 짙은 속눈썹, 붉은 입술로 메이크업을 완성했습니다. 그녀는 파란색 패턴이 돋보이는 원형 장식이 달린 질감 있는 금빛 의상을 입고 있습니다. 턱 아래로는 독특한 지붕과 첨탑이 있는 다채로운 건물들이 밀집해 도시 풍경을 이루고 있으며, 전체적으로 어두운 배경과 대비를 이룹니다.
-```
-
-<img src="https://cms-assets.youmind.com/media/1777277643043_e364t6_HGyoF5dbQAAtI4G.jpg" width="600" alt="정교한 판타지 여성 프로필과 도시 풍경">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3757)**
-
-**작성자:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **출처:** [Link](https://x.com/iamhappy2026/status/2048196860293091421) | **게시일:** Apr 26, 2026
-
----
-### 장식용 3D 초상화
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 복잡한 질감, 황금빛 장신구, 추상적인 곱슬머리 요소가 특징인 매우 정교하고 스타일리시한 3D 초상화 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-눈을 감고 있는 밝은 피부 톤의 여성을 표현한 매우 스타일리시한 장식용 3D 초상화입니다. 그녀는 원형 모티프가 들어간 다채로운 패턴의 머리 장식 위에 노란색 헤어밴드를 착용하고 있습니다. 머리카락은 갈색의 곱슬거리는 선과 작은 장식용 원들이 어우러진 추상적인 형태로 묘사되었습니다. 정교한 디자인의 커다란 황금빛 원형 귀걸이가 귀에 걸려 있으며, 구슬 장식이 아래로 늘어져 있습니다. 뚜렷한 속눈썹과 분홍색 입술이 돋보입니다. 길고 가느다란 목은 황금색의 주름진 형태로 표현되었으며, 주황색 물방울무늬가 있는 짙은 청록색 드레스로 이어집니다. 배경은 은은한 소용돌이 무늬와 작은 장식 요소들이 흩어져 있는 밝은 오프 화이트 색상입니다. 오른쪽에는 빨간색, 파란색, 갈색 깃털을 가진 작은 새 한 마리가 보입니다.
-```
-
-<img src="https://cms-assets.youmind.com/media/1777190265946_0lbgs5_HGyU7mgWAAETn5b.jpg" width="600" alt="장식용 3D 초상화">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3710)**
-
-**작성자:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **출처:** [Link](https://x.com/iamhappy2026/status/2048175782242189335) | **게시일:** Apr 25, 2026
-
----
-### 미래형 수상 착륙 플랫폼
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 하늘을 나는 자동차가 연료 보충을 위해 수상 플랫폼에 착륙하는 모습을 담은 SF 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-미래에는 착륙 플랫폼이 물로 만들어집니다.
-이 하늘을 나는 자동차들은 얕은 물을 끌어올려
-우리의 미래형 엔진 동력으로 사용합니다.
-
-발을 내디딜 수 있는 어딘가로..
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/47e364d0a72dde570918d3131af9f439/thumbnails/thumbnail.jpg" width="600" alt="미래형 수상 착륙 플랫폼">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3705)**
-
-**작성자:** [Luke Clayden](https://x.com/clayden5_luke) | **출처:** [Link](https://x.com/clayden5_luke/status/2048147888732020867) | **게시일:** Apr 25, 2026
-
----
-### 미래형 수상 착륙 자동차
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 하늘을 나는 자동차와 수상 착륙 플랫폼이 등장하는 미래 지향적 장면을 위한 묘사 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-미래에는 착륙 플랫폼이 물로 만들어집니다. 
-이 하늘을 나는 자동차들은 얕은 물을 끌어올려 흡수함으로써 
-미래형 엔진의 동력을 얻습니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/72afa414c2dca9039d54f2a3ef7807cd/thumbnails/thumbnail.jpg" width="600" alt="미래형 수상 착륙 자동차">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3703)**
-
-**작성자:** [Luke Clayden](https://x.com/clayden5_luke) | **출처:** [Link](https://x.com/clayden5_luke/status/2048146440686276737) | **게시일:** Apr 25, 2026
-
----
-### 듄 사막 전투
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 핏빛으로 물든 하늘 아래 거친 사막에서 펼쳐지는 하코넨 버서커와 프레멘 전사의 전투를 담은 시네마틱 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-핏빛 하늘 아래 거친 사막에서 벌어지는 하코넨 버서커와 프레멘 전사의 전투.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/28453766f8a96c953e1f8b9e17bb8c76/thumbnails/thumbnail.jpg" width="600" alt="듄 사막 전투">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3713)**
-
-**작성자:** [Petergu](https://x.com/PalfalviP497fz) | **출처:** [Link](https://x.com/PalfalviP497fz/status/2048139680797921648) | **게시일:** Apr 25, 2026
-
----
-### 바다 위를 나는 용
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 별이 빛나는 바다 위를 날아가는 두 마리의 용과 그 반사광을 묘사한 상세한 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-잔잔한 바다 위, 별이 밝게 빛나는 밤하늘 아래 나란히 날아가는 파란 용과 빨간 용, 수면에 반사되는 별빛
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7f38ab5def6691d90952bad58163306e/thumbnails/thumbnail.jpg" width="600" alt="바다 위를 나는 용">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3708)**
-
-**작성자:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **출처:** [Link](https://x.com/HawkinsonLindy/status/2048114266545553712) | **게시일:** Apr 25, 2026
-
----
-### 미래지향적 사이버펑크 부츠 모핑 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine을 위한 고도로 상세한 시네마틱 프롬프트로, 흰색 스튜디오 배경에서 다양한 디자인과 색상 조합으로 변형되는 25초 분량의 미래지향적 사이버펑크 부츠 영상을 생성합니다.
-
-#### 📝 프롬프트
-
-```
-순백색 배경에 부드러운 스튜디오 조명과 은은한 그림자가 어우러진 고해상도 3D 시네마틱 영상(25초)을 매끄럽게 생성하세요. 미래지향적 사이버펑크 롤러블레이드와 아이스 스케이트 하이브리드 부츠 한 켤레가 완벽한 측면 프로필(앞코가 왼쪽을 향함)로 표시됩니다. 1초마다 부츠는 동일한 카메라 앵글, 구도, 기계적 기본 구조를 유지하면서 새로운 놀라운 변형으로 매끄럽게 모핑됩니다.
-이 부츠는 노출된 복잡한 기계 부품, 기어, 피스톤, 전선, 탄소 섬유 패널, 금속 버클, 스트랩, 통풍구 및 빛나는 네온 회로가 포함된 초정밀 SF 풋웨어입니다. 하단에는 롤러블레이드 스타일의 바퀴, 아이스 스케이트 날 또는 탱크 트레드 요소가 특징입니다. 디자인은 다음 색상 구성과 포인트를 완벽한 순서로 빠르게 순환합니다:
-밝은 청록색 네온 발광 라인과 회로가 있는 무광 블랙
-고급스러운 금색 메탈릭 포인트와 은은한 주황색 에너지 펄스가 있는 블랙
-극적인 주황색 번개 에너지 효과가 있는 블랙 및 골드
-청록색 하이라이트가 있는 블랙, 블루, 선명한 주황색의 하이테크 패널
-빛나는 빨간색 조명이 있는 화이트, 블랙, 레드 컬러의 장갑형 미래지향적 디자인
-아이스 스케이트 날 버전에 강렬한 청록색 네온이 적용된 블랙
-빨간색 발광 코어 요소가 있는 블랙, 화이트, 레드 및 크롬
-강렬한 골드 크롬 도금과 노란색 포인트가 있는 블랙
-노출된 엔진 같은 디테일이 있는 메탈릭 블루, 실버 및 주황색
-전기 라임 그린 네온 번개와 빛나는 녹색 바퀴가 있는 블랙
-각 변형은 유동적이고 시네마틱합니다. 네온 조명은 사실적으로 맥동하며 빛나고, 반사는 광택 및 무광 표면을 가로질러 미끄러지며, 작은 기계 부품들은 미세하게 움직입니다. 초현실적인 8K 3D 렌더링, 사실적인 질감, 선명한 디테일, 극적인 림 라이팅, 완벽한 구도, 텍스트 없음, 워터마크 없음, 시네마틱 컬러 그레이딩, 25 fps, 부드러운 25초 루프.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/56d425786da52dc4d4ea76ab4e48652e/thumbnails/thumbnail.jpg" width="600" alt="미래지향적 사이버펑크 부츠 모핑 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3711)**
-
-**작성자:** [Thoughts Creator](https://x.com/ThoughCreator) | **출처:** [Link](https://x.com/ThoughCreator/status/2048106729209274840) | **게시일:** Apr 25, 2026
-
----
-### 캐릭터 착지 및 일몰 팬
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 캐릭터가 건물에 착지하여 난간에 앉고, 카메라가 일몰을 비추는 영화 같은 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-그가 건물에 착지한 후 난간에 앉고, 카메라가 일몰을 향해 팬(pan)합니다
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f88681cc042b5d3280dbd78dc2988748/thumbnails/thumbnail.jpg" width="600" alt="캐릭터 착지 및 일몰 팬">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3702)**
-
-**작성자:** [🇮🇳 🧑‍🎨Prashant Salunke 🇮🇳](https://x.com/prashadventurer) | **출처:** [Link](https://x.com/prashadventurer/status/2048094768664834544) | **게시일:** Apr 25, 2026
-
----
-### 인도 유명인 결혼식
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 타지마할을 배경으로 전통 인도 의상을 입은 유명인의 결혼식 장면을 위한 비디오 생성 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-타지마할에서 비라트 콜리와 아누슈카 샤르마처럼 전통 인도 의상을 입고 결혼식을 올리는 젠데이아와 톰 홀랜드.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e3a3cae1384182ff4ce43c77bf4697a1/thumbnails/thumbnail.jpg" width="600" alt="인도 유명인 결혼식">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3704)**
-
-**작성자:** [Narendra Singh](https://x.com/SinghNarendra87) | **출처:** [Link](https://x.com/SinghNarendra87/status/2048082299275886596) | **게시일:** Apr 25, 2026
-
----
-### 몽환적인 풍경 애니메이션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 몽환적인 일러스트 스타일의 판타지 풍경 속을 걷는 흰 드레스 차림의 여성을 위한 영화 같은 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-몽환적인 풍경 속을 걷는 흰 드레스의 여성, 판타지 일러스트 스타일, 10 초
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/14dc83ee20214133b1da89f460922ec6/thumbnails/thumbnail.jpg" width="600" alt="몽환적인 풍경 애니메이션">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3707)**
-
-**작성자:** [David Liang](https://x.com/DavidLi36143625) | **출처:** [Link](https://x.com/DavidLi36143625/status/2048018519552627067) | **게시일:** Apr 25, 2026
-
----
-### 슬픈 그네 장면
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 그네에 앉아 있는 사람의 우울한 영상 프롬프트와 세상에 대한 철학적인 대사가 결합된 내용입니다.
-
-#### 📝 프롬프트
-
-```
-그는 누군가를 기다리며 슬프게 그네를 타고 있고, 고개를 숙이고 있다.
-그리고 그는 이 세상이 살기 좋은 곳이지만 노력이 필요하다는 식의 이야기를 하고 있다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a3cca86c825f53e48c5ccada7431c7e0/thumbnails/thumbnail.jpg" width="600" alt="슬픈 그네 장면">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3709)**
-
-**작성자:** [Saeed Anwar](https://x.com/saen_dev) | **출처:** [Link](https://x.com/saen_dev/status/2048004209388498974) | **게시일:** Apr 25, 2026
-
----
-### 사무라이 대 터미네이터 시네마틱 전투
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 이미지를 기본 참조로 사용하여 사무라이와 터미네이터 간의 전투를 묘사하는 Grok Imagine용 상세 시네마틱 액션 프롬프트입니다. 고속 회전 카메라 워크와 빠른 마이크로 컷 기법이 포함되어 있습니다.
-
-#### 📝 프롬프트
-
-```
-@ Image1은 사무라이와 터미네이터가 등장하는 영화 속 전투 장면으로, 강렬한 근접 전투가 펼쳐집니다. 카메라는 프레임 중앙에 위치한 피사체를 중심으로 고속으로 회전하며, 여러 카메라 앵글이 교차하는 마이크로 컷 형식으로 구성됩니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/35349cab87f5e5d0e0f6dc4103582971/thumbnails/thumbnail.jpg" width="600" alt="사무라이 대 터미네이터 시네마틱 전투">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3654)**
-
-**작성자:** [いにしえ@AI Director & Creator｜Will Oldgram](https://x.com/old_pgmrs_will) | **출처:** [Link](https://x.com/old_pgmrs_will/status/2047942047064309993) | **게시일:** Apr 25, 2026
-
----
-### 초현실적인 오드아이 인물 사진
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 특정한 눈 색상과 피부 질감을 가진 실사풍 인물 사진을 위한 상세한 프롬프트로, 비디오 생성 환경에 적용되었습니다.
-
-#### 📝 프롬프트
-
-```
-소녀 얼굴의 초현실적인 인물 사진, 극도로 상세한 얼굴 묘사, 눈에 보이는 피부 질감, 모공, 잔주름 및 미세한 결점, 영화 같은 조명, 선명한 초점, 8K 해상도, 대칭적인 구도, 중립적인 배경. 피사체는 오드아이를 가지고 있음: 한쪽 눈은 선명한 딥 블루, 다른 쪽 눈은 순수한 블랙이며, 두 눈 모두 반사 하이라이트와 함께 매우 상세하게 묘사됨. 자연스러운 피부 톤, 부드러운 그림자, 사실적인 머리카락 가닥, 스튜디오 사진 스타일, 높은 다이내믹 레인지, 생생한 표정. 사람 얼굴의 초현실적인 인물 사진, 극도로 상세한 얼굴 묘사, 눈에 보이는 피부 질감, 모공, 잔주름 및 미세한 결점, 영화 같은 조명, 선명한 초점, 8K 해상도, 대칭적인 구도, 중립적인 배경. 피사체는 오드아이를 가지고 있음: 한쪽 눈은 선명한 딥 블루, 다른 쪽 눈은 순수한 블랙이며, 두 눈 모두 반사 하이라이트와 함께 매우 상세하게 묘사됨. 자연스러운 피부 톤, 부드러운 그림자, 사실적인 머리카락 가닥, 스튜디오 사진 스타일, 높은 다이내믹 레인지, 생생한 표정.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/44b44faa0ee08a7ccf9138370327530e/thumbnails/thumbnail.jpg" width="600" alt="초현실적인 오드아이 인물 사진">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3706)**
-
-**작성자:** [Kuji](https://x.com/Kujiiichan) | **출처:** [Link](https://x.com/Kujiiichan/status/2047928082149826575) | **게시일:** Apr 25, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2361,6 +2327,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-05-02T06:13:13.026Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-05-02T09:16:06.709Z</sub>
 
 </div>

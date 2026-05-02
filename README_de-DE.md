@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1328** |
+| 📝 Total Prompts | **1344** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-02** |
 
@@ -189,6 +189,311 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Steampunk-Augen-Zoom-Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Video-Prompt mit einer Steampunk-Frau, deren Augen in Flammen stehen, inklusive Kamera-Zoom-Effekt.
+
+#### 📝 Prompt
+
+```
+Wunderschöne Steampunk-Frau mit heller Haut in einer apokalyptischen Umgebung; die Kamera zoomt auf ihre Augen, die in Flammen stehen. Sie blinzelt und ihre Augen werden weiß.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6f4a388861aa06f1b27b1d2d4cebdae1/thumbnails/thumbnail.jpg" width="600" alt="Steampunk-Augen-Zoom-Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4010)**
+
+**Author:** [dadiiogames](https://x.com/dadiiogames) | **Source:** [Link](https://x.com/dadiiogames/status/2050360623297630265) | **Published:** May 1, 2026
+
+---
+### Galaxy Explorers Leuchtender Schlüssel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein cineastischer Video-Prompt von zwei Entdeckern, die mit einem leuchtenden Schlüssel eine himmlische Tür öffnen, während die Galaxie über ihnen wartet.
+
+#### 📝 Prompt
+
+```
+Zwei Entdecker. Ein leuchtender Schlüssel. Eine Tür, die niemals hätte geöffnet werden dürfen. Durchsichtige Treppen erhoben sich aus dem Boden… Planeten zogen vorbei… und die gesamte Galaxie wartete über ihnen. Sie stiegen hinauf. Wärst du ihnen gefolgt?
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4491a0b1291e3a7831e1fe6ceccfac83/thumbnails/thumbnail.jpg" width="600" alt="Galaxy Explorers Leuchtender Schlüssel">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4016)**
+
+**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2050354884914934237) | **Published:** May 1, 2026
+
+---
+### Abstieg des Engel-Kriegers
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein epischer Video-Prompt, der einen Engel-Krieger in weißer Rüstung zeigt, der auf ein Schlachtfeld herabsteigt.
+
+#### 📝 Prompt
+
+```
+Engel-Krieger in Weiß mit Rüstung und Schwert, der majestätisch auf ein Schlachtfeld herabsteigt, um seine Armee zu unterstützen
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6cd11c6dbb374d523353c96032a76c89/thumbnails/thumbnail.jpg" width="600" alt="Abstieg des Engel-Kriegers">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4008)**
+
+**Author:** [Chart_Guy](https://x.com/Chart_Guy) | **Source:** [Link](https://x.com/Chart_Guy/status/2050329761835004005) | **Published:** May 1, 2026
+
+---
+### Bällebad mit Feen und Eichhörnchen
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein verspielter Video-Prompt mit Feen und Eichhörnchen in einem farbenfrohen Bällebad aus Kaugummi und Zuckerwatte.
+
+#### 📝 Prompt
+
+```
+Ein Video von kleinen Feen und Eichhörnchen, die in einem Bällebad aus verschiedenfarbigem Kaugummi und Zuckerwatte spielen, Seifenblasen pusten und in einem Park niedliche Dinge sagen
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3ee8e490948fa9ca87e6a2f4409d43fd/thumbnails/thumbnail.jpg" width="600" alt="Bällebad mit Feen und Eichhörnchen">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4011)**
+
+**Author:** [Emily](https://x.com/EMILYZART) | **Source:** [Link](https://x.com/EMILYZART/status/2050285005872705902) | **Published:** May 1, 2026
+
+---
+### Geheimnisvolle viktorianische Frau und schwebende Uhren
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein komplexer filmischer Prompt mit einem viktorianischen Kleid, einem düsteren Herrenhaus und surreal schwebenden Uhren.
+
+#### 📝 Prompt
+
+```
+Zeitlos
+Eine geheimnisvolle Frau in einem fließenden viktorianischen Kleid steht allein im großen Flur eines dunklen, von Kerzen beleuchteten Herrenhauses. Mondlicht fällt durch hohe Fenster, während Dutzende leuchtender Uhren regungslos in der Luft um sie herum schweben, die alle unterschiedliche Zeiten anzeigen....
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1e800b2d2c19327c1b8777ffb6475188/thumbnails/thumbnail.jpg" width="600" alt="Geheimnisvolle viktorianische Frau und schwebende Uhren">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4015)**
+
+**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2050259170369130683) | **Published:** May 1, 2026
+
+---
+### Cyberpunk-Kimono-Zeichenanimation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein kreativer Prompt für eine Frau in einem auffälligen Cyberpunk-Kimono, die mit einem Stift zeichnet, der leuchtende Spuren hinterlässt.
+
+#### 📝 Prompt
+
+```
+Eine japanische Frau in einem auffälligen Cyberpunk-Kimono zeichnet ein Bild. Die Zeichnung reagiert mit Licht. Zudem blinkt die Zeichnung kybernetisch im Rhythmus der Stiftbewegungen. Nur die mit dem Stift nachgezeichneten Bereiche sind als Strichzeichnungen zu sehen.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2b0422acdc4ccb9fb1ced4c52ae11aff/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk-Kimono-Zeichenanimation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4019)**
+
+**Author:** [トマスのAI画像・動画研究所](https://x.com/thomasainya) | **Source:** [Link](https://x.com/thomasainya/status/2050241289506209963) | **Published:** May 1, 2026
+
+---
+### Cyberpunk Android-Schülerin Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter filmischer Prompt zur Erstellung eines hochwertigen Videos einer Cyberpunk-Android-Schülerin, die in einem futuristischen Bus sitzt, mit Fokus auf das Erscheinungsbild des Charakters und die Beleuchtung.
+
+#### 📝 Prompt
+
+```
+Eine Nahaufnahme einer atemberaubenden Cyberpunk-Android-Schülerin, die in einem ruhigen, futuristischen Schulbus sitzt, mit platinblondem Haar direkt in die Kamera blickt und eine ruhige, gebieterische Ausstrahlung hat
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e18be61a928085dadc5e1240ab53968e/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Android-Schülerin Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4020)**
+
+**Author:** [Humble Whisper](https://x.com/humble_whisper) | **Source:** [Link](https://x.com/humble_whisper/status/2050218692315640261) | **Published:** May 1, 2026
+
+---
+### Porträt einer Gothic-Frau und eines Albino-Löwen
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Dark-Fantasy-Cinematic-Prompt für Grok Imagine, das ein Seitenprofil-Porträt einer Frau mit Gothic-Krone und einem majestätischen weißen Löwen zeigt.
+
+#### 📝 Prompt
+
+```
+Dramatisches Seitenprofil-Porträt einer blassen jungen Frau mit kurzem schwarzem Bob und geradem Pony, somprossiger Haut, intensiver Blick leicht nach unten gerichtet, trägt eine kunstvolle schwarze Gothic-Krone mit Stacheln und Juwelen auf dem Kopf, hochgeschlossenes Kleid aus schwarzer Spitze. Ihr gegenüber steht von links ein majestätischer weißer Albino-Löwe mit dichter Mähne, dessen Gesicht ihres fast berührt, ruhiger und kraftvoller Ausdruck. Tiefer, satter burgunderroter Hintergrund, stimmungsvolle filmische Beleuchtung mit starken Schatten und Highlights, hoher Kontrast, entsättigte Töne, fast schwarz-weiß, aber mit subtiler Wärme, fotorealistisch, ultra-detaillierte Fell- und Hauttextur, scharfer Fokus, Dark-Fantasy-Atmosphäre, königliche und intensive Stimmung, Meisterwerk-Fotografiestil.
+```
+
+<img src="https://cms-assets.youmind.com/media/1777708953480_7sah9k_HHO2R7-XgAAGGY_.jpg" width="600" alt="Porträt einer Gothic-Frau und eines Albino-Löwen">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4018)**
+
+**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2050182739442257945) | **Published:** May 1, 2026
+
+---
+### Futuristische Sci-Fi-Taktik: Frau beim Gang durch einen Korridor
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein filmischer Video-Prompt einer athletischen Frau in einem eleganten, weißen taktischen Anzug, die kraftvoll durch einen dunklen, futuristischen Sci-Fi-Korridor schreitet, untermalt von dramatischer Beleuchtung.
+
+#### 📝 Prompt
+
+```
+Eine wunderschöne, athletische junge Frau mit entschlossenem und selbstbewusstem Ausdruck, die kraftvoll durch einen dunklen, futuristischen Sci-Fi-Korridor geht. Sie trägt einen eleganten, ultra-eng anliegenden weißen taktischen Anzug mit grauen Panzerplatten, verstärkten Schulterpolstern, einem mechanischen kybernetischen rechten Arm, einem Utility-Gürtel mit Taschen und Holstern, Kniepanzern und schweren Kampfstiefeln. Sie trägt einen weißen futuristischen Helm mit spitzen, fledermausartigen Ohren. In ihrer rechten Hand hält sie eine große, geschwungene Kampfklinge, in ihrer linken Hand eine futuristische Pistole. Dramatische filmische Beleuchtung mit starken Lichtstrahlen, die von einem Oberlicht und leuchtenden Seitenpaneelen ausgehen, schwere volumetrische Lichtstrahlen, komplizierte Rohre, Leitungen und Metallpaneele säumen die Wände des Korridors. Fotorealistisch, ultra-detailliert, 8K, filmische Sci-Fi-Concept-Art, scharfer Fokus, dramatische Schatten und Highlights, perfekte Anatomie, Meisterwerk
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f85da6102ef987cc46ccef6935041c7f/thumbnails/thumbnail.jpg" width="600" alt="Futuristische Sci-Fi-Taktik: Frau beim Gang durch einen Korridor">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4013)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2050165725432602661) | **Published:** May 1, 2026
+
+---
+### Ureinwohner-Krieger im verbrannten Wald
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein filmischer Handkamera-Video-Prompt eines Ureinwohner-Kriegers in einem verbrannten Wald bei Sonnenuntergang.
+
+#### 📝 Prompt
+
+```
+Mittlere Handkamera-Einstellung verfolgt einen einsamen Ureinwohner-Krieger, der bei Sonnenuntergang durch einen verbrannten Wald geht. Asche schwebt sanft in der Luft. Er hält inne, blickt in die untergehende Sonne und flüstert leise: „Werden unsere Stimmen jemals zurückkehren?“ Ätherische Flötenmusik und sanfte Trommeln schwellen an, keine Untertitel
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/039657caa4187a4d05123c1017238cb9/thumbnails/thumbnail.jpg" width="600" alt="Ureinwohner-Krieger im verbrannten Wald">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4014)**
+
+**Author:** [LudovicCreator](https://x.com/LudovicCreator) | **Source:** [Link](https://x.com/LudovicCreator/status/2050138179953447126) | **Published:** May 1, 2026
+
+---
+### Biolumineszierende holografische Blumen
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Grok Imagine Video-Prompt mit einer gimbal-stabilisierten Rotation um holografische Lilien mit biolumineszenter Beleuchtung.
+
+#### 📝 Prompt
+
+```
+Die Kamera dreht sich langsam um 60 Grad, um die Lampe zu zeigen. Aufnahme mit einem Gimbal zur Stabilisierung. Biolumineszierendes Neonpink und Magenta. Holografische Plumerien und Calla-Lilien mit grünen Stielen in der Vase.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2678a5b9b82952de72fcee2569f516e4/thumbnails/thumbnail.jpg" width="600" alt="Biolumineszierende holografische Blumen">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4012)**
+
+**Author:** [Missy AI](https://x.com/ai_empire33) | **Source:** [Link](https://x.com/ai_empire33/status/2050068193771983034) | **Published:** May 1, 2026
+
+---
+### Lebendige stilisierte Frau mit Schmetterlingen
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Eine wunderschöne animierte Illustration einer schlanken Frau in einem rosa Kleid, die einen Schmetterling hält, vor einem dunklen Hintergrund mit himmlischen und botanischen Motiven.
+
+#### 📝 Prompt
+
+```
+Eine lebendige, stilisierte Illustration mit Glitzer und Strasssteinen, die eine schlanke Frau in einem aufwendig gemusterten rosa Kleid zeigt, deren Silhouette sich scharf vom schwarzen Hintergrund abhebt. Sie hat eine sehr helle, makellose Haut, hält einen Schmetterling und ihre Gesichtszüge sind minimalistisch: geschlossene Augen und gespitzte Lippen. Ihr rosa Haar fällt zur linken Seite. Die Komposition enthält schwebende, texturierte Kreise in Gold, Weiß und Blau sowie botanische Motive, darunter blumenförmige Schmetterlinge, die eine ruhige und stilisierte Szene schaffen.
+```
+
+<img src="https://cms-assets.youmind.com/media/1777708950345_9tuwe6_HHM9NXKWIAA7TUs.jpg" width="600" alt="Lebendige stilisierte Frau mit Schmetterlingen">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4017)**
+
+**Author:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **Source:** [Link](https://x.com/iamhappy2026/status/2050049677601522037) | **Published:** May 1, 2026
+
+---
+### Chibi Blonde Magazin-Rotation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Prompt für eine sanfte 10-Grad-Kameradrehung, die einen blonden Chibi-Charakter im Schlafanzug zeigt, der auf einem Stapel Zeitschriften sitzt und mit dem Wort „Imagine“ endet.
+
+#### 📝 Prompt
+
+```
+Die Kamera dreht sich langsam um 10 Grad, um das Magazin zu zeigen. Aufnahme mit einem Gimbal zur Stabilisierung; auf den anderen Zeitschriften sitzt ein blonder Chibi im Schlafanzug mit nachdenklicher Haltung. Aus der Drehung heraus erscheint das Wort Imagine.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c458ab3e3147ce4de74f1c4075890581/thumbnails/thumbnail.jpg" width="600" alt="Chibi Blonde Magazin-Rotation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4021)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2050047212055298239) | **Published:** May 1, 2026
+
+---
+### Zauberstab der Elfenprinzessin
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein magischer Video-Prompt, in dem eine Elfenprinzessin mit einem Zauberstab das Wort „Love“ in die Luft schreibt.
+
+#### 📝 Prompt
+
+```
+Eine weitere kleine Elfenprinzessin erscheint, hält einen Zauberstab in der Hand und formt das Wort Love. Die Antwort lautet Amor.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a558f5ea37b1c1931cc3a2582c2c3d30/thumbnails/thumbnail.jpg" width="600" alt="Zauberstab der Elfenprinzessin">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4023)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2050044248284623039) | **Published:** May 1, 2026
+
+---
+### Fashion-Models beim Hutwurf
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein cineastischer Fashion-Prompt mit Models auf dem Boden, fallenden roten Rosenblättern und einem feierlichen Hutwurf.
+
+#### 📝 Prompt
+
+```
+Alle Models sitzen auf dem Boden, während rote Rosenblätter herabfallen, untermalt von professioneller Studiobeleuchtung. Sie werfen ihre Hüte in die Luft.... Fashion
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/245f1e226883e960fb9a13dea2f70301/thumbnails/thumbnail.jpg" width="600" alt="Fashion-Models beim Hutwurf">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4022)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2050037831934910666) | **Published:** May 1, 2026
+
+---
+### Schmetterlings-Animation zur Schlafenszeit
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Animation einer Schmetterlingsszene für ein Kind mit spezifischen Charakterdetails wie Haar- und Augenfarbe.
+
+#### 📝 Prompt
+
+```
+Lass uns Savannahs Schmetterling für ihre Schlafenszeit zum Leben erwecken. Sie hat blondes Haar und blaue Augen.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5c452848eb9e30c33cab73b6d8f25f1b/thumbnails/thumbnail.jpg" width="600" alt="Schmetterlings-Animation zur Schlafenszeit">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4009)**
+
+**Author:** [Firecracker](https://x.com/CantTameFire) | **Source:** [Link](https://x.com/CantTameFire/status/2050032115828359538) | **Published:** May 1, 2026
+
+---
 ### Video-Prompt für einen schwarzen Jaguar im Schnee
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1961,345 +2266,6 @@ Verwende präzise die Frau aus diesem Bild. Eine coole und gefährliche Agentin 
 **Author:** [rui｜∫varts (シュバルツ)](https://x.com/varts_works) | **Source:** [Link](https://x.com/varts_works/status/2048258487428513937) | **Published:** Apr 26, 2026
 
 ---
-### Anime-Supermarktszene mit sprechendem Teddybär
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein filmischer Video-Prompt im Anime-Stil, der eine friedliche Supermarktkassenszene zeigt, in der die Charaktere passende Blumenkränze tragen und ein kleiner Teddybär sanft spricht.
-
-#### 📝 Prompt
-
-```
-Eine filmische Slice-of-Life-Anime-Szene an einer Supermarktkasse bei sanftem Tageslicht.
-Zentrum: eine schwarzhaarige erwachsene Frau mit weißer Bluse und dunkelgrüner Schürze mit FP1-Namensschild, sanfter und leicht erleichterter Gesichtsausdruck.
-Links: eine blonde Frau mit ruhigem Ausdruck, gleiche Uniform und Blumen-Accessoire.
-Rechts: eine braunhaarige Frau mit neutralem Ausdruck, gleiche Uniform und Blumen-Accessoire.
-Vorne: ein kleiner Teddybär, der eine dunkelgrüne Schürze mit FP1-Namensschild trägt und leicht nach oben blickt.
-Alle Charaktere tragen passende, zarte Blumenkränze, die Hoffnung symbolisieren.
-Sanfte Pastellfarbpalette, sehr feine und filigrane Anime-Linienführung, flache weiche Schattierung, minimales Rendering, sanfte Umgebungsbeleuchtung, warme und friedliche Atmosphäre.
-Hintergrund: sanft verschwommener Supermarkt-Innenraum.
-Kamera: natürliche Augenhöhe, sanfter 45-Grad-Winkel, kein Zoom.
-Dialog (nur japanische Stimme):
-Der kleine Teddybär vorne (Stimme eines jungen Mädchens, sanft und behutsam)
-„Das bedeutet nur, dass du so hart arbeitest.“
-Schauspiel: minimale natürliche Bewegung. Der Teddybär spricht sanft.
-WICHTIGE REGEL:
-Nur der Teddybär bewegt seinen Mund, alle anderen Charaktere halten ihre Münder komplett geschlossen, keine Lippenbewegungen bei nicht sprechenden Charakteren.
-Insbesondere die zentral stehende schwarzhaarige Frau muss den Mund komplett geschlossen halten.
-Kein anderer Charakter spricht in dieser Szene.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/990a63263a5bd75c014f656be894ba0f/thumbnails/thumbnail.jpg" width="600" alt="Anime-Supermarktszene mit sprechendem Teddybär">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3761)**
-
-**Author:** [テカひめ｜FP1級｜賢者に転職できない遊び人Lv.20/すっぴんLv.1](https://x.com/tekka5154) | **Source:** [Link](https://x.com/tekka5154/status/2048241445711339729) | **Published:** Apr 26, 2026
-
----
-### Surreale, futuristische Labyrinth-Musikszene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Generierungs-Prompt für eine surreale und traumartige Szene, die Musik, Mathematik und Natur in einer futuristischen Stadt vereint.
-
-#### 📝 Prompt
-
-```
-Eine sanfte, lebendige, surreale Szene, in der Klavier, Sterne, Blumen und mathematische Muster in warmer Resonanz miteinander verwoben sind und an einem traumartigen Treffpunkt in einem futuristischen Labyrinth aus Städten schweben, gebadet in zartem Licht. Die Musik ist Resonanz.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ca937a957dc0d29aac0a700744917671/thumbnails/thumbnail.jpg" width="600" alt="Surreale, futuristische Labyrinth-Musikszene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3715)**
-
-**Author:** [Carina](https://x.com/Freehere3) | **Source:** [Link](https://x.com/Freehere3/status/2048212069720441125) | **Published:** Apr 26, 2026
-
----
-### Animation der goldflügeligen Muse
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein beschreibender Prompt für eine skurrile 3D-Illustration einer Frau mit goldenen Haarwirbeln und komplexen Mustern, animiert mit Grok Imagine.
-
-#### 📝 Prompt
-
-```
-Eine skurrile 3D-Illustration zeigt eine stilisierte Frau mit geschlossenen Augen, deren Gesicht leicht nach unten und links geneigt ist. Ihr Haar besteht aus kunstvollen goldenen Wirbeln und Locken, mit einem markanten Federdesign auf der rechten Seite, das mit blauen, orangefarbenen und goldenen Mustern verziert ist. Sie trägt einen goldenen Kragen sowie ein blau-orangefarbenes Kleid mit detaillierten kreisförmigen Mustern. Unter ihr befinden sich detailreiche Fantasieblumen in verschiedenen Farben wie Weiß, Rot und Blau sowie zahlreiche Schmetterlinge.
-```
-
-<img src="https://cms-assets.youmind.com/media/1777190276519_trug6b_HGyyaCybMAAS28w.jpg" width="600" alt="Animation der goldflügeligen Muse">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3716)**
-
-**Author:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **Source:** [Link](https://x.com/iamhappy2026/status/2048208298386632723) | **Published:** Apr 26, 2026
-
----
-### Detailreiches Fantasy-Frauenprofil und Stadtbild
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochdetaillierter Prompt für ein Fantasy-Video, das eine Frau mit wirbelndem goldenen Haar und einem lebendigen Stadtbild-Motiv zeigt.
-
-#### 📝 Prompt
-
-```
-Ein kunstvolles Fantasy-Werk zeigt das Profil einer Frau mit geschlossenen Augen, umgeben von einem aufwendigen, goldenen, wirbelnden Haardesign und einem Blattmotiv in Gold, Blau und Orange. Ihr Make-up umfasst goldenen Lidschatten, lange dunkle Wimpern und rote Lippen. Sie trägt ein strukturiertes goldenes Kleidungsstück mit einer markanten blauen, gemusterten Scheibe. Unter ihrem Kinn bildet eine dichte Anordnung bunter Gebäude mit einzigartigen Dächern und Türmen ein Stadtbild, alles vor einem dunklen Hintergrund.
-```
-
-<img src="https://cms-assets.youmind.com/media/1777277643043_e364t6_HGyoF5dbQAAtI4G.jpg" width="600" alt="Detailreiches Fantasy-Frauenprofil und Stadtbild">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3757)**
-
-**Author:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **Source:** [Link](https://x.com/iamhappy2026/status/2048196860293091421) | **Published:** Apr 26, 2026
-
----
-### Dekoratives 3D-Porträt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochdetaillierter, stilisierter 3D-Porträt-Prompt mit komplexen Texturen, goldenem Schmuck und abstrakten, lockigen Haarelementen.
-
-#### 📝 Prompt
-
-```
-Ein stark stilisiertes, dekoratives 3D-Porträt einer Frau mit geschlossenen Augen und heller Haut. Sie trägt ein gelbes Stirnband über einer gemusterten, farbenfrohen Kopfbedeckung mit kreisförmigen Motiven. Ihr Haar ist als abstrakte Anordnung aus braunen, lockigen Linien und kleinen, verzierten Kreisen dargestellt. Große, goldene, scheibenförmige Ohrringe mit komplizierten Designs hängen an ihren Ohren, zusammen mit baumelnden Perlenelementen. Sie hat markante Wimpern und rosa Lippen. Ihr langer, schlanker Hals ist goldfarben und gerippt und geht in ein dunkelblaugrünes Kleid mit orangefarbenen Punkten über. Der Hintergrund ist in einem hellen Off-White gehalten, mit subtilen, wirbelnden Linienmustern und kleinen, verstreuten Dekorelementen. Ein kleiner Vogel mit roten, blauen und braunen Federn ist auf der rechten Seite zu sehen.
-```
-
-<img src="https://cms-assets.youmind.com/media/1777190265946_0lbgs5_HGyU7mgWAAETn5b.jpg" width="600" alt="Dekoratives 3D-Porträt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3710)**
-
-**Author:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **Source:** [Link](https://x.com/iamhappy2026/status/2048175782242189335) | **Published:** Apr 25, 2026
-
----
-### Futuristische Wasserlandeplattform
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Science-Fiction-Prompt für ein Video, in dem fliegende Autos auf wasserbasierten Plattformen landen, um aufzutanken.
-
-#### 📝 Prompt
-
-```
-In der Zukunft bestehen die Landeplattformen aus Wasser.
-Diese fliegenden Autos schöpfen das flache Wasser,
-um die Motoren unserer zukünftigen Flugautos anzutreiben.
-
-Ein Ort, um auszusteigen...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/47e364d0a72dde570918d3131af9f439/thumbnails/thumbnail.jpg" width="600" alt="Futuristische Wasserlandeplattform">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3705)**
-
-**Author:** [Luke Clayden](https://x.com/clayden5_luke) | **Source:** [Link](https://x.com/clayden5_luke/status/2048147888732020867) | **Published:** Apr 25, 2026
-
----
-### Futuristische Autos mit Wasserlandung
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein beschreibender Prompt für eine futuristische Szene mit fliegenden Autos und Wasserlandeplattformen.
-
-#### 📝 Prompt
-
-```
-In der Zukunft bestehen die Landeplattformen aus Wasser.
-Diese fliegenden Autos ziehen das flache Wasser an und saugen es auf,
-um die Motoren unserer zukünftigen Flugautos anzutreiben.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/72afa414c2dca9039d54f2a3ef7807cd/thumbnails/thumbnail.jpg" width="600" alt="Futuristische Autos mit Wasserlandung">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3703)**
-
-**Author:** [Luke Clayden](https://x.com/clayden5_luke) | **Source:** [Link](https://x.com/clayden5_luke/status/2048146440686276737) | **Published:** Apr 25, 2026
-
----
-### Dune Wüstenschlacht
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein kinoreifer Video-Prompt, der einen Kampf zwischen einem Harkonnen-Berserker und einem Fremen-Krieger in einer wilden Wüste unter einem blutroten Himmel zeigt.
-
-#### 📝 Prompt
-
-```
-Ein Kampf zwischen einem Harkonnen-Berserker und einem Fremen-Krieger in einer wilden Wüste unter einem blutroten Himmel.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/28453766f8a96c953e1f8b9e17bb8c76/thumbnails/thumbnail.jpg" width="600" alt="Dune Wüstenschlacht">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3713)**
-
-**Author:** [Petergu](https://x.com/PalfalviP497fz) | **Source:** [Link](https://x.com/PalfalviP497fz/status/2048139680797921648) | **Published:** Apr 25, 2026
-
----
-### Fliegende Drachen über dem Ozean
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Video-Prompt für zwei Drachen, die über einen sternenklaren Ozean mit Spiegelungen fliegen.
-
-#### 📝 Prompt
-
-```
-Ein blauer und ein roter Drache fliegen Seite an Seite unter einem hellen, sternenklaren Nachthimmel über ruhigem Ozeanwasser, wobei sich das Sternenlicht auf der Wasseroberfläche spiegelt
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7f38ab5def6691d90952bad58163306e/thumbnails/thumbnail.jpg" width="600" alt="Fliegende Drachen über dem Ozean">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3708)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2048114266545553712) | **Published:** Apr 25, 2026
-
----
-### Futuristisches Cyberpunk-Boot-Morphing-Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochdetaillierter, kinoreifer Prompt für Grok Imagine, der ein 25-sekündiges Video eines futuristischen Cyberpunk-Boots generiert, das vor einem weißen Studiohintergrund verschiedene Designs und Farbschemata durchläuft.
-
-#### 📝 Prompt
-
-```
-Erstelle ein flüssiges, 25-sekündiges, hochauflösendes 3D-Kinovideo vor einem rein weißen Hintergrund mit weicher Studiobeleuchtung und subtilen Schatten. Ein einzelner futuristischer Cyberpunk-Rollerblade-/Eislauf-Hybrid-Boot wird im perfekten Seitenprofil (Zehenspitze nach links) dargestellt. Jede Sekunde morpht und transformiert sich der Boot nahtlos in eine neue, atemberaubende Variante, während der exakt gleiche Kamerawinkel, die Komposition und die mechanische Grundstruktur beibehalten werden.
-Der Boot ist ein hochdetaillierter Sci-Fi-Schuh mit freiliegenden, komplexen mechanischen Teilen, Zahnrädern, Kolben, Kabeln, Carbonfaser-Paneelen, Metallschnallen, Riemen, Belüftungsöffnungen und leuchtenden Neon-Schaltkreisen. Er verfügt an der Basis entweder über Rollen im Rollerblade-Stil, Eislaufkufen oder Panzerketten-Elemente. Die Designs durchlaufen schnell und in perfekter Abfolge diese Farbschemata und Akzente:
-Mattschwarz mit hellen cyanfarbenen Neon-Leuchtlinien und Schaltkreisen
-Schwarz mit luxuriösen goldenen Metallic-Akzenten und subtilen orangen Energieimpulsen
-Schwarz und Gold mit dramatischen orangen Blitz-Energieeffekten
-Schwarz, Blau und leuchtend orangefarbene High-Tech-Paneele mit cyanfarbenen Highlights
-Weiß, Schwarz und Rot in einem futuristischen Panzer-Design mit leuchtend roten Lichtern
-Schwarz mit intensivem Cyan-Neon bei der Eislaufkufen-Version
-Schwarz, Weiß, Rot und Chrom mit rot leuchtenden Kernelementen
-Schwarz mit schwerer Gold-Chrom-Beschichtung und gelben Akzenten
-Metallisch Blau, Silber und Orange mit freiliegenden, motorähnlichen Details
-Schwarz mit elektrisch limonengrünen Neon-Blitzen und leuchtend grünen Rollen
-Jede Transformation ist flüssig und kinoreif. Die Neonlichter pulsieren und leuchten realistisch, Reflexionen gleiten über glänzende und matte Oberflächen, und kleine mechanische Teile bewegen sich subtil. Ultrarealistisches 8K-3D-Rendering, fotorealistische Materialien, scharfe Details, dramatisches Rim-Light, perfekte Komposition, kein Text, kein Wasserzeichen, kinoreifes Color Grading, 25 fps, flüssiger 25-Sekunden-Loop.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/56d425786da52dc4d4ea76ab4e48652e/thumbnails/thumbnail.jpg" width="600" alt="Futuristisches Cyberpunk-Boot-Morphing-Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3711)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2048106729209274840) | **Published:** Apr 25, 2026
-
----
-### Charakterlandung und Kameraschwenk in den Sonnenuntergang
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein kinoreifer Video-Prompt, der beschreibt, wie eine Figur auf einem Gebäude landet und sich auf einen Mauervorsprung setzt, während die Kamera einen Sonnenuntergang einfängt.
-
-#### 📝 Prompt
-
-```
-Er landet auf dem Gebäude und setzt sich dann auf den Mauervorsprung, die Kamera schwenkt zum Sonnenuntergang
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f88681cc042b5d3280dbd78dc2988748/thumbnails/thumbnail.jpg" width="600" alt="Charakterlandung und Kameraschwenk in den Sonnenuntergang">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3702)**
-
-**Author:** [🇮🇳 🧑‍🎨Prashant Salunke 🇮🇳](https://x.com/prashadventurer) | **Source:** [Link](https://x.com/prashadventurer/status/2048094768664834544) | **Published:** Apr 25, 2026
-
----
-### Promi-Hochzeit in Indien
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Generierungs-Prompt für eine Promi-Hochzeitsszene am Taj Mahal in traditioneller indischer Kleidung.
-
-#### 📝 Prompt
-
-```
-Zendaya und Tom Holland Hochzeit in traditioneller indischer Kleidung, ähnlich wie bei Virat Kohli und Anushka Sharma am Taj Mahal.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e3a3cae1384182ff4ce43c77bf4697a1/thumbnails/thumbnail.jpg" width="600" alt="Promi-Hochzeit in Indien">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3704)**
-
-**Author:** [Narendra Singh](https://x.com/SinghNarendra87) | **Source:** [Link](https://x.com/SinghNarendra87/status/2048082299275886596) | **Published:** Apr 25, 2026
-
----
-### Traumhafte Landschaftsanimation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein filmischer Video-Prompt für eine Frau in einem weißen Kleid, die durch eine Fantasielandschaft im traumhaften Illustrationsstil geht.
-
-#### 📝 Prompt
-
-```
-Frau in weißem Kleid geht durch eine traumhafte Landschaft, Fantasy-Illustrationsstil, 10 Sekunden
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/14dc83ee20214133b1da89f460922ec6/thumbnails/thumbnail.jpg" width="600" alt="Traumhafte Landschaftsanimation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3707)**
-
-**Author:** [David Liang](https://x.com/DavidLi36143625) | **Source:** [Link](https://x.com/DavidLi36143625/status/2048018519552627067) | **Published:** Apr 25, 2026
-
----
-### Traurige Schaukelszene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein melancholischer Video-Prompt einer Person auf einer Schaukel, kombiniert mit philosophischen Dialogen über die Welt.
-
-#### 📝 Prompt
-
-```
-Er schaukelt traurig und wartet auf jemanden, den Kopf gesenkt.
-Und sie sagt etwas über diese Welt, als wäre sie ein guter Ort zum Leben, aber man muss hart dafür arbeiten.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a3cca86c825f53e48c5ccada7431c7e0/thumbnails/thumbnail.jpg" width="600" alt="Traurige Schaukelszene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3709)**
-
-**Author:** [Saeed Anwar](https://x.com/saen_dev) | **Source:** [Link](https://x.com/saen_dev/status/2048004209388498974) | **Published:** Apr 25, 2026
-
----
-### Samurai gegen Terminator: Kinoreifer Kampf
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein detaillierter, kinoreifer Action-Prompt für Grok Imagine, der einen Kampf zwischen einem Samurai und einem Terminator beschreibt, mit schnell rotierender Kameraführung und rasanten Mikro-Schnitten, basierend auf einem Bild als primäre Referenz.
-
-#### 📝 Prompt
-
-```
-@ Image1 ist eine Kampfszene aus einem Film mit einem Samurai und einem Terminator, hochintensiver Nahkampf, die Kamera dreht sich mit hoher Geschwindigkeit um das im Zentrum des Bildes fixierte Motiv, die Szene ist im Mikro-Schnitt-Format mit wechselnden Kamerawinkeln gestaltet
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/35349cab87f5e5d0e0f6dc4103582971/thumbnails/thumbnail.jpg" width="600" alt="Samurai gegen Terminator: Kinoreifer Kampf">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3654)**
-
-**Author:** [いにしえ@AI Director & Creator｜Will Oldgram](https://x.com/old_pgmrs_will) | **Source:** [Link](https://x.com/old_pgmrs_will/status/2047942047064309993) | **Published:** Apr 25, 2026
-
----
-### Hyperrealistisches Porträt mit Heterochromie
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein langer, hochdetaillierter Prompt für ein fotorealistisches Porträt mit spezifischen Augenfarben und Hauttexturen, hier angewendet auf den Kontext der Videogenerierung.
-
-#### 📝 Prompt
-
-```
-Ultrarealistisches Porträt eines Mädchengesichts, extreme Gesichtsdetails, sichtbare Hauttextur, Poren, feine Linien und subtile Unvollkommenheiten, cineastische Beleuchtung, scharfer Fokus, 8K-Auflösung, symmetrische Komposition, neutraler Hintergrund. Das Subjekt hat Heterochromie: ein Auge in leuchtendem Tiefblau, das andere Auge in reinem Schwarz, beide hochdetailliert mit reflektierenden Glanzlichtern. Natürliche Hauttöne, weiche Schatten, realistische Haarsträhnen, Studiofotografie-Stil, hoher Dynamikumfang, lebensechter Ausdruck. Ultrarealistisches Porträt eines menschlichen Gesichts, extreme Gesichtsdetails, sichtbare Hauttextur, Poren, feine Linien und subtile Unvollkommenheiten, cineastische Beleuchtung, scharfer Fokus, 8K-Auflösung, symmetrische Komposition, neutraler Hintergrund. Das Subjekt hat Heterochromie: ein Auge in leuchtendem Tiefblau, das andere Auge in reinem Schwarz, beide hochdetailliert mit reflektierenden Glanzlichtern. Natürliche Hauttöne, weiche Schatten, realistische Haarsträhnen, Studiofotografie-Stil, hoher Dynamikumfang, lebensechter Ausdruck.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/44b44faa0ee08a7ccf9138370327530e/thumbnails/thumbnail.jpg" width="600" alt="Hyperrealistisches Porträt mit Heterochromie">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3706)**
-
-**Author:** [Kuji](https://x.com/Kujiiichan) | **Source:** [Link](https://x.com/Kujiiichan/status/2047928082149826575) | **Published:** Apr 25, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2361,6 +2327,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-02T06:13:20.193Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-02T09:16:22.182Z</sub>
 
 </div>
