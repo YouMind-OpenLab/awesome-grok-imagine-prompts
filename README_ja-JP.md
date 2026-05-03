@@ -70,7 +70,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 |--------|-------|
 | 📝 プロンプト総数 | **1344** |
 | ⭐ おすすめプロンプト | **3** |
-| 🔄 最終更新 | **2026-05-02** |
+| 🔄 最終更新 | **2026-05-03** |
 
 ---
 
@@ -2325,6 +2325,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-05-02T20:52:25.028Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-05-03T03:52:58.720Z</sub>
 
 </div>
