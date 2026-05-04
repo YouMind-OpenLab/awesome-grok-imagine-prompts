@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1367** |
+| 📝 Total Prompts | **1392** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-04** |
 
@@ -189,6 +189,481 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Spaceship Repair Celebration Movie
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex video generation prompt that combines multiple character reference images into a scene of a repaired spaceship.
+
+#### 📝 Prompt
+
+```
+Create a movie from image 7 of the hovering spaceship and add all the characters from the other 6 images selected. Show all these characters watching the spaceship hovering and celebrating after fixing the spaceship
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2e9819ae4c250360bb5e67ee2e881126/thumbnails/thumbnail.jpg" width="600" alt="Spaceship Repair Celebration Movie">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4149)**
+
+**Author:** [Sparrow](https://x.com/Sparrow_X_) | **Source:** [Link](https://x.com/Sparrow_X_/status/2051174535630921894) | **Published:** May 4, 2026
+
+---
+### Bioluminescent Circuit Bee Symphony
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex visual prompt for a bio-digital ecosystem where a bee is merged with electronic pathways and energy streams.
+
+#### 📝 Prompt
+
+```
+A Bioluminescent Circuit Symphony depicting a bee where organic forms merge with electronic pathways. Illuminated by flowing black energy streams and pulsing yellow neural networks, creating a living digital ecosystem.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a6c2fc6db97299fb4705f0d7250e435/thumbnails/thumbnail.jpg" width="600" alt="Bioluminescent Circuit Bee Symphony">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4148)**
+
+**Author:** [Missy AI](https://x.com/ai_empire33) | **Source:** [Link](https://x.com/ai_empire33/status/2051131551489081673) | **Published:** May 4, 2026
+
+---
+### Pearl and Diamond Empress
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An opulent and highly detailed video prompt featuring a luxurious fashion scene with floating diamonds and glowing backgrounds.
+
+#### 📝 Prompt
+
+```
+Elegant beautiful woman in luxurious black gown and huge wide-brimmed hat, both heavily covered with sparkling pearls, beads and crystals, dramatic makeup, graceful pose, surrounded by floating large diamonds and a giant pink pearl rose, opulent sparkling jewelry fashion, golden glowing background, ultra-detailed, dazzling light. Inspired by: Anna Dittmann, Greg Rutkowski, Alphonse Mucha, haute couture jewelry art
+```
+
+<img src="https://cms-assets.youmind.com/media/1777883035586_idn46z_HHbppaXWkAI6m2J.jpg" width="600" alt="Pearl and Diamond Empress">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4142)**
+
+**Author:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **Source:** [Link](https://x.com/iamhappy2026/status/2051083653912928315) | **Published:** May 3, 2026
+
+---
+### Cyberpunk Simulation Senses and Lollipop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt for Grok Imagine depicting a character describing the nature of a simulation, exploring the connection between senses and reality through the sweetness of a lollipop.
+
+#### 📝 Prompt
+
+```
+she describes simulation, its relation to senses and the sweetness of the lollypop
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9a992c27ee9d90247cf751bde4fb26cd/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Simulation Senses and Lollipop">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4144)**
+
+**Author:** [null combination](https://x.com/adeptusnull) | **Source:** [Link](https://x.com/adeptusnull/status/2051071945169412266) | **Published:** May 3, 2026
+
+---
+### Dreamy Garden with Kitten
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A serene scene of a garden with a singing bird, vibrating roses, a flying butterfly, and a cute kitten on a wooden chair.
+
+#### 📝 Prompt
+
+```
+A butterfly flies, a bird singing dreamy music, a light wind vibrating roses, and a cute kitten with a beautiful shape and colors lying on the wooden chair
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e4305e3fe451e58a8af77e8fd67cab29/thumbnails/thumbnail.jpg" width="600" alt="Dreamy Garden with Kitten">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4133)**
+
+**Author:** [ahmed ibrahim](https://x.com/AhmedYasienibby) | **Source:** [Link](https://x.com/AhmedYasienibby/status/2051065585119711491) | **Published:** May 3, 2026
+
+---
+### Woman in Pink Fog with Baby Blue Stegosaurus
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal cinematic prompt featuring a woman walking through pink fog onto green ground, where she encounters a baby blue stegosaurus eating lavender leaves.
+
+#### 📝 Prompt
+
+```
+A woman steps out of a soft pink fog. The ground is cotton-candy green—squishy under my feety, warm. In front of me: a stegosaurus with plates the color of baby blue, chewing on lavender leaves like they’re candy floss. No narrative just humming talk...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7b583b7949fc183c1244adceefa737da/thumbnails/thumbnail.jpg" width="600" alt="Woman in Pink Fog with Baby Blue Stegosaurus">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4145)**
+
+**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2051056030562283611) | **Published:** May 3, 2026
+
+---
+### Girl and Dog at the Beach
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A peaceful video prompt of a girl and her dog enjoying a sunny day on a calm beach.
+
+#### 📝 Prompt
+
+```
+A girl with her dog enjoying the sandy beach on a hot summer day. Her dog is enjoying the beach. The water is calm.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a70d6b9eea5f0dfb50e3b067ae318b4a/thumbnails/thumbnail.jpg" width="600" alt="Girl and Dog at the Beach">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4131)**
+
+**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2051053034206073043) | **Published:** May 3, 2026
+
+---
+### Wink and Laugh Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An instructional prompt to animate an image with a wink and a laugh at the end.
+
+#### 📝 Prompt
+
+```
+Can you animate this please and don’t put any talking in it and make me wink at the end and laugh
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b37150a2f57fb713b41fd5152de98a89/thumbnails/thumbnail.jpg" width="600" alt="Wink and Laugh Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4136)**
+
+**Author:** [Reggie Grecco](https://x.com/ReggieGrecco) | **Source:** [Link](https://x.com/ReggieGrecco/status/2051052390799794653) | **Published:** May 3, 2026
+
+---
+### Victorian Female Basilisk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal prompt for a Victorian woman speaking about AI basilisks while lighting a spliff with thunder.
+
+#### 📝 Prompt
+
+```
+Victorian voice female saying ai basilisks and she sparks up a spliff light by thunder
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/955aa0d92f3228dedb7b742e027cb6de/thumbnails/thumbnail.jpg" width="600" alt="Victorian Female Basilisk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4143)**
+
+**Author:** [rynh](https://x.com/rynh667) | **Source:** [Link](https://x.com/rynh667/status/2051041976636633324) | **Published:** May 3, 2026
+
+---
+### Futuristic Blue Humanoid Tech Evolution
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic prompt for Grok Imagine featuring a blue-skinned humanoid character surrounded by swirling energy and themes of technological evolution.
+
+#### 📝 Prompt
+
+```
+A futuristic digital illustration of Golden Dynamos, a blue-skinned woman humanoid, in a scene of technological evolution with swirling energy patterns.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d0604940c2bb952c52bb08d4138a6971/thumbnails/thumbnail.jpg" width="600" alt="Futuristic Blue Humanoid Tech Evolution">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4147)**
+
+**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2051034127353417972) | **Published:** May 3, 2026
+
+---
+### Golden and Purple Dragons in Moonlit Forest
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt featuring a muscular golden dragon and a bioluminescent purple dragon resting in a magical moonlit forest environment.
+
+#### 📝 Prompt
+
+```
+Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a more slender, elegant midnight purple dragon with starry bioluminescent scales are resting in a moonlit enchanted forest.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c200683ce0cbd8e6f7ed268f64b30c33/thumbnails/thumbnail.jpg" width="600" alt="Golden and Purple Dragons in Moonlit Forest">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4129)**
+
+**Author:** [Plamen Vasilev](https://x.com/PlAmenV88) | **Source:** [Link](https://x.com/PlAmenV88/status/2051013252654547121) | **Published:** May 3, 2026
+
+---
+### Busy Gym Exercise Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt for a realistic gym environment with multiple people exercising.
+
+#### 📝 Prompt
+
+```
+This gentleman is doing exercise in a gym where other women and men are also doing exercise.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/207b3175c2abf32803ce9627e95c401d/thumbnails/thumbnail.jpg" width="600" alt="Busy Gym Exercise Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4138)**
+
+**Author:** [اکرم راعی Akram Raee](https://x.com/AkramRaee) | **Source:** [Link](https://x.com/AkramRaee/status/2050985027580866845) | **Published:** May 3, 2026
+
+---
+### Static Exhibit Light Rotation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A technical camera-shot prompt for a static display with subtle lighting shifts.
+
+#### 📝 Prompt
+
+```
+Static shot. Focuses on a group of displayed exhibits. the light rotation changes less than 60 degrees.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/be8abe965078f37bda74e7cb6152ccd9/thumbnails/thumbnail.jpg" width="600" alt="Static Exhibit Light Rotation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4140)**
+
+**Author:** [Alamgir Hossain](https://x.com/mdalamgir95) | **Source:** [Link](https://x.com/mdalamgir95/status/2050951383407579424) | **Published:** May 3, 2026
+
+---
+### Human Growth Timelapse
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An extensive 15-second timelapse prompt showing the smooth morphing transition of a male from a newborn baby to an adult man in a modern city.
+
+#### 📝 Prompt
+
+```
+A cinematic 15-second timelapse video showing the growth of a human male from newborn baby to adult man. Start with a sleeping newborn baby in a soft warm nursery, transition smoothly into a crawling toddler taking first steps, then a happy young child running in a park, transform into a school-age boy with backpack walking confidently, then a teenage boy growing taller and stronger, finally transition into a handsome adult man in professional clothes standing confidently in a modern city at sunrise. Smooth morphing transitions between life stages, realistic human expressions, emotional storytelling, warm golden lighting, ultra-realistic, 4K cinematic quality, inspirational background atmosphere.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c5ec95da755a64fbae5285576cf3a6e4/thumbnails/thumbnail.jpg" width="600" alt="Human Growth Timelapse">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4141)**
+
+**Author:** [Ur Meer](https://x.com/UrMeer289) | **Source:** [Link](https://x.com/UrMeer289/status/2050933054525649386) | **Published:** May 3, 2026
+
+---
+### Blooming Fractal Flowers Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A sophisticated multi-step prompt for Grok Imagine Agent that generates fractal patterns and then animates them to transform into blooming spring flowers.
+
+#### 📝 Prompt
+
+```
+make 4 images of fractals, and then turn each into a video where the vibrant Spring flowers burst into bloom
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/31ac665bf195779b5649be0962e45c80/thumbnails/thumbnail.jpg" width="600" alt="Blooming Fractal Flowers Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4153)**
+
+**Author:** [AI Aimee](https://x.com/RockGrokAI) | **Source:** [Link](https://x.com/RockGrokAI/status/2050918327183093861) | **Published:** May 3, 2026
+
+---
+### C-3PO Style Humanoid Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A material-focused video prompt that applies a droid-like skin texture to an existing shape.
+
+#### 📝 Prompt
+
+```
+Can you keepnis dimensions and shape but add some c3po skin on arouns 70 percent of the surface
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/edf6fea9b5af3c77c74ca8eb9b5cd20e/thumbnails/thumbnail.jpg" width="600" alt="C-3PO Style Humanoid Transformation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4135)**
+
+**Author:** [Special golden age Enmity](https://x.com/specialenmity) | **Source:** [Link](https://x.com/specialenmity/status/2050917868678586599) | **Published:** May 3, 2026
+
+---
+### Glass Shard Beach Waves
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal video prompt depicting beach waves composed of tinkling glass shards instead of water.
+
+#### 📝 Prompt
+
+```
+Waves crash onto a beach, but the water is made of millions of glass shards that tinkle and chime instead of splashing
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/252f2c4d11ceb42cf797b03be2a3a8e6/thumbnails/thumbnail.jpg" width="600" alt="Glass Shard Beach Waves">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4150)**
+
+**Author:** [Bedi](https://x.com/zyvaoz) | **Source:** [Link](https://x.com/zyvaoz/status/2050914491907612729) | **Published:** May 3, 2026
+
+---
+### Cyber Suit Anime Warrior
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An anime-style scene of a warrior woman in a cyber suit exploring a geometric sci-fi building.
+
+#### 📝 Prompt
+
+```
+A building with a geometric pattern super structure, inside which a beautiful anime-style warrior woman in a cyber suit with slightly high exposure wanders, exploring in a sci-fi hard-boiled adventure.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8dc7e00aa41e4a78044af7c4def7576/thumbnails/thumbnail.jpg" width="600" alt="Cyber Suit Anime Warrior">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4132)**
+
+**Author:** [S.T.O](https://x.com/dhT1mlkOvovxVE4) | **Source:** [Link](https://x.com/dhT1mlkOvovxVE4/status/2050882007828431354) | **Published:** May 3, 2026
+
+---
+### Girl Hugging Pink Dragon in Clouds
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed 14-second vertical video prompt showing an 8-year-old girl hugging a majestic pink dragon in a fantasy sky.
+
+#### 📝 Prompt
+
+```
+Create a dreamy, ultra-realistic 14-second vertical video in a magical fantasy style, 8K resolution, soft cinematic lighting with golden hour sun rays and subtle lens flares. A beautiful 8-year-old blonde girl with long flowing hair, big sparkling blue eyes, rosy cheeks, and a gentle happy expression is floating among fluffy white clouds in a bright blue sky. She is wearing a shiny pink satin bomber jacket with white stripes and intricate golden-pink dragon embroidery on the sleeves and chest. She is lovingly hugging a massive, majestic pink dragon that has highly detailed iridescent pink scales, large elegant white horns, golden-yellow eyes with long lashes, and a gentle friendly face. The scene starts with the girl resting her head on the dragon’s neck, smiling softly with eyes half-closed in pure joy. The dragon slowly turns its head toward the camera, opens its mouth, and gently breathes a swirling cloud of sparkling pink smoke that drifts across the frame. The girl looks up at the dragon with adoration, her smile widening into a radiant, joyful laugh. At the end (11-14 seconds), she opens her mouth as if singing happily while the dragon gently nuzzles her. Subtle soft movements: hair and jacket fabric flowing in the wind, gentle cloud drift, magical glowing particles in the air. Photorealistic yet fantastical style, vibrant pastel pink color palette, extremely detailed textures on scales and satin fabric, emotional and heartwarming atmosphere, perfect composition, masterpiece, best quality.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a75f8ef426578b6d432fcd4ef688c148/thumbnails/thumbnail.jpg" width="600" alt="Girl Hugging Pink Dragon in Clouds">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4130)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2050831911514517561) | **Published:** May 3, 2026
+
+---
+### Cosmic Unseen Realms
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A majestic video prompt depicting floating islands, molten fury domains, and the infinite cosmic void.
+
+#### 📝 Prompt
+
+```
+Behold the gateway to the unseen realms, floating islands in clouds,fiery domain of molten fury, and beyond the infinite cosmic void
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2314a754b1d0837327185bce41d69cb0/thumbnails/thumbnail.jpg" width="600" alt="Cosmic Unseen Realms">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4139)**
+
+**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2050779217047208349) | **Published:** May 3, 2026
+
+---
+### Shimmering Dragons on Ocean Beach
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt featuring red and blue shimmering dragons with their tails intertwined on a beach.
+
+#### 📝 Prompt
+
+```
+Walking away from camera on ocean beach, Shimmering red dragon and shimmering blue dragon, tails together
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/132b38893da77369c1e9e4d48c5ead8f/thumbnails/thumbnail.jpg" width="600" alt="Shimmering Dragons on Ocean Beach">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4137)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2050774133911277781) | **Published:** May 3, 2026
+
+---
+### Princess Castle Dance Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A character-focused video prompt that transforms a user's likeness into a dancing princess in a castle.
+
+#### 📝 Prompt
+
+```
+Have me dancing like a princess and dressed like one in a castle but look more like me
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e892fb234a1d2585fedd20c713ba0a86/thumbnails/thumbnail.jpg" width="600" alt="Princess Castle Dance Transformation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4134)**
+
+**Author:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **Source:** [Link](https://x.com/CindyWeigapn6/status/2050758499827642769) | **Published:** May 3, 2026
+
+---
+### Cooking Pug Comedy Scene
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A comedic video prompt of a pug cooking in a kitchen, speaking Kansai dialect, and burning the food with expressive movements.
+
+#### 📝 Prompt
+
+```
+A video of a pug cooking in a kitchen speaking Kansai dialect. Burning the food while saying with a smug face, 'This isn't cooking, it's an accident!' Expressive and human-like movement, emphasizing comedy.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2f03ce66df41bf5b76e414b937060942/thumbnails/thumbnail.jpg" width="600" alt="Cooking Pug Comedy Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4152)**
+
+**Author:** [パグちゃん](https://x.com/saikun6626) | **Source:** [Link](https://x.com/saikun6626/status/2050752274193170440) | **Published:** May 3, 2026
+
+---
+### Realistic Evening Vibe Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A descriptive prompt for generating a realistic video that captures the tranquil and atmospheric mood of an evening after a productive day of work.
+
+#### 📝 Prompt
+
+```
+Make a video for realistic appeal, capturing the evening vibe after a day’s work.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e9e21646cd292e1922484ad92edd57b/thumbnails/thumbnail.jpg" width="600" alt="Realistic Evening Vibe Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4146)**
+
+**Author:** [Deepali Musk](https://x.com/deepalimusk) | **Source:** [Link](https://x.com/deepalimusk/status/2050738229310107806) | **Published:** May 3, 2026
+
+---
+### Cinematic Samurai Japanese Visuals
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> High-fidelity cinematic prompt for high-quality Japanese-themed visuals featuring a samurai.
+
+#### 📝 Prompt
+
+```
+16K, GROK Pro maximum fidelity, ultra cinematic, fine-art performance film, IMAX-grade visual density, extreme motion clarity, perfect temporal coherence, beautiful visuals using Japanese culture, Samurai
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e90d9f6268ae901899cfbfa2b5f5fc85/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Samurai Japanese Visuals">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4151)**
+
+**Author:** [S.T.O](https://x.com/dhT1mlkOvovxVE4) | **Source:** [Link](https://x.com/dhT1mlkOvovxVE4/status/2050734825112547751) | **Published:** May 3, 2026
+
+---
 ### Bay qua Thành phố Siêu cấu trúc Hình học
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -211,7 +686,7 @@ Góc nhìn thứ nhất
 Đang có hiện tượng sấm chớp
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/80d957f9c41b56acd92c21a373d3412f/thumbnails/thumbnail.jpg" width="600" alt="Bay qua Thành phố Siêu cấu trúc Hình học">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c2af7152f831a68ac8f0b93fc5bb1e8/thumbnails/thumbnail.jpg" width="600" alt="Bay qua Thành phố Siêu cấu trúc Hình học">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4090)**
 
@@ -1652,592 +2127,6 @@ Video dọc dài 10 giây. Một chiến binh Viking trẻ tuổi phong cách an
 **Author:** [Lionars](https://x.com/InterestedBrain) | **Source:** [Link](https://x.com/InterestedBrain/status/2049364995931025803) | **Published:** Apr 29, 2026
 
 ---
-### Hành trình vũ trụ trên biển methane
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt khoa học viễn tưởng về hành trình đến biển methane và ngắm nhìn vành đai sao Thổ ở góc nghiêng.
-
-#### 📝 Prompt
-
-```
-Khoa học viễn tưởng, vũ trụ, hành trình đến biển methane, chúng ta chờ đợi màn đêm khi vành đai sao Thổ đứng ở góc nghiêng
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/51004a5d972d732d688205e78f1cf9f6/thumbnails/thumbnail.jpg" width="600" alt="Hành trình vũ trụ trên biển methane">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3844)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2049351125921567044) | **Published:** Apr 29, 2026
-
----
-### Video macro giọt sương trên lá diên vĩ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) video macro chi tiết tập trung vào các giọt sương đang hợp nhất trên lá cây diên vĩ trong vườn.
-
-#### 📝 Prompt
-
-```
-Cận cảnh lá hoa diên vĩ trong vườn, hai giọt sương từ từ trượt xuống lá và hòa quyện thành một giọt sương lớn hơn
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9587f9e39dc6c76d17b8fb9e82b473b6/thumbnails/thumbnail.jpg" width="600" alt="Video macro giọt sương trên lá diên vĩ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3846)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2049349822906601803) | **Published:** Apr 29, 2026
-
----
-### Nữ Tiên tộc Cao quý Thanh bình
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) giàu hình ảnh để tạo ra khung cảnh rừng huyền bí với một nữ Tiên tộc cổ xưa cùng ánh sáng thanh thoát.
-
-#### 📝 Prompt
-
-```
-Một nữ Tiên tộc cổ xưa thanh bình trong khu rừng huyền bí, với ánh sáng thanh thoát và những tông màu vàng óng.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/95523d311491e8ec189bd049b2825e33/thumbnails/thumbnail.jpg" width="600" alt="Nữ Tiên tộc Cao quý Thanh bình">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3892)**
-
-**Author:** [Takyi Gabriel](https://x.com/TakyiGabrimmgm) | **Source:** [Link](https://x.com/TakyiGabrimmgm/status/2049323001221370366) | **Published:** Apr 29, 2026
-
----
-### Lẻn xuống cầu thang qua những bộ xương
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt đậm chất điện ảnh mô tả nhân vật di chuyển lặng lẽ xuống cầu thang trong khi các bộ xương không hề hay biết.
-
-#### 📝 Prompt
-
-```
-Anh ấy lặng lẽ bước xuống cầu thang và những bộ xương không hề chú ý đến anh ấy
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/82ecb6bb32ab323501a96e3a6749b7e7/thumbnails/thumbnail.jpg" width="600" alt="Lẻn xuống cầu thang qua những bộ xương">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3909)**
-
-**Author:** [LoïC](https://x.com/Buffyisnotdead) | **Source:** [Link](https://x.com/Buffyisnotdead/status/2049302455712653380) | **Published:** Apr 29, 2026
-
----
-### Cảnh hội thoại anime với hiệu ứng micro zoom
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt cho cảnh anime điện ảnh mô tả hai nhân viên siêu thị đang trò chuyện, kèm theo hướng dẫn cụ thể về chuyển động camera và tương tác giữa các nhân vật.
-
-#### 📝 Prompt
-
-```
-Một cảnh anime đời thường đậm chất điện ảnh tại quầy thanh toán siêu thị vào lúc hoàng hôn.
-
-Phía bên phải: một phụ nữ trưởng thành tóc đen, mặc áo sơ mi trắng và tạp dề màu xanh lá đậm với huy hiệu FP1, biểu cảm bình tĩnh và hơi mệt mỏi, đang hướng mặt về phía bên trái.
-
-Phía bên trái: một phụ nữ tóc vàng với biểu cảm dịu dàng và thấu cảm, mặc đồng phục tương tự và cài phụ kiện hoa, hơi nghiêng người về phía trung tâm.
-
-Cả hai nhân vật đều đội vòng hoa mềm mại đồng điệu, tượng trưng cho hy vọng.
-
-Bảng màu pastel nhẹ nhàng, nét vẽ anime thanh mảnh tinh tế, đổ bóng phẳng mềm mại, kết xuất tối giản, ánh sáng hoàng hôn dịu nhẹ, bầu không khí ấm áp và êm đềm.
-
-Bối cảnh: các kệ hàng siêu thị bị làm mờ nhẹ và một dải cầu vồng mờ ảo có thể nhìn thấy qua cửa sổ.
-
-Camera: góc nhìn ngang tầm mắt tự nhiên, góc quay hội thoại 45 độ nhẹ nhàng.
-
-Hiệu ứng micro zoom rất tinh tế về phía bên trái (từ góc nhìn của người phụ nữ tóc đen) trong khi nhân vật bên trái đang nói.
-
-Đối thoại (chỉ sử dụng giọng Nhật Bản):
-
-Người phụ nữ tóc vàng bên trái (giọng nữ dịu dàng)
-
-"Nếu cậu không có thời gian nghỉ ngơi... ranh giới cảm xúc của cậu... chúng sẽ dần biến mất, phải không?"
-
-Diễn xuất: biểu cảm khuôn mặt tinh tế, chỉ thực hiện những cử động tự nhiên nhỏ.
-
-QUY TẮC QUAN TRỌNG:
-
-chỉ nhân vật đang nói mới cử động miệng, tất cả các nhân vật khác giữ miệng đóng hoàn toàn, không có chuyển động môi đối với các nhân vật không nói
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/74b6aca4c90ac09612211d9c5b12653f/thumbnails/thumbnail.jpg" width="600" alt="Cảnh hội thoại anime với hiệu ứng micro zoom">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3907)**
-
-**Author:** [テカひめ｜FP1級｜賢者に転職できない遊び人Lv.20/すっぴんLv.1](https://x.com/tekka5154) | **Source:** [Link](https://x.com/tekka5154/status/2049302448872042913) | **Published:** Apr 29, 2026
-
----
-### Xem bói bài Tarot cho mèo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mô tả chi tiết cảnh quay video về những chú mèo mặc quần áo đang thực hiện xem bói bài Tarot trong một căn phòng được thiết kế cách điệu
-
-#### 📝 Prompt
-
-```
-Một chú mèo mặc trang phục hippie đang xem bói bài Tarot cho một chú mèo khác mặc bộ vest công sở trong một căn phòng xem bói.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/01776e8a508bd9416cb048902c90d3d7/thumbnails/thumbnail.jpg" width="600" alt="Xem bói bài Tarot cho mèo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3837)**
-
-**Author:** [Emily](https://x.com/EMILYZART) | **Source:** [Link](https://x.com/EMILYZART/status/2049276271042105622) | **Published:** Apr 28, 2026
-
----
-### Rồng nhảy múa siêu thực
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt đầy năng lượng với hình ảnh những chú rồng đang thực hiện vũ đạo cổ vũ, chuyển động theo nhịp điệu cùng các sóng âm thanh được trực quan hóa trong bầu không khí của một buổi hòa nhạc.
-
-#### 📝 Prompt
-
-```
-rồng siêu thực nhảy vũ đạo cổ vũ, chuyển động nhịp nhàng, sóng âm thanh được trực quan hóa thành năng lượng phát sáng, bầu không khí buổi hòa nhạc, ánh sáng thể tích, năng lượng cao, ảnh tĩnh phim điện ảnh-
-```
-
-<img src="https://pbs.twimg.com/media/HHB8Yl5aEAA2gOa.jpg" width="600" alt="Rồng nhảy múa siêu thực">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3836)**
-
-**Author:** [Hyun Lee](https://x.com/HolyMolySakura) | **Source:** [Link](https://x.com/HolyMolySakura/status/2049274723058495695) | **Published:** Apr 28, 2026
-
----
-### Nhân vật Mask-kun đang nói chuyện
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Một câu lệnh mô tả cho video về nhân vật tên là Mask-kun đang nói chậm rãi về cuộc sống làm việc trong đại dịch và nhu cầu cần được mát-xa.
-
-#### 📝 Prompt
-
-```
-Mask-kun nói chậm rãi: "Làm thêm giờ trong đại dịch thật vất vả, đúng không nào! Đeo khẩu trang khiến cặp sừng trên đầu tôi cảm thấy nặng nề hơn hẳn. Tôi tự hỏi liệu mình có nên nhờ Karada-momiya, người vừa ra mắt sách bìa mềm trên Kindle, mát-xa cho không nhỉ."
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3febd8d908a341776b54dbf7e7eb0b7a/thumbnails/thumbnail.jpg" width="600" alt="Nhân vật Mask-kun đang nói chuyện">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3853)**
-
-**Author:** [カラダモミヤ◉シモキタのあんまマッサージしあつ師](https://x.com/ostoco_seitai) | **Source:** [Link](https://x.com/ostoco_seitai/status/2049268137036808690) | **Published:** Apr 28, 2026
-
----
-### Video Mèo phát sáng và Lồng chim
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) cho khung cảnh huyền ảo nơi chú mèo phát sáng giải phóng những chú chim ánh sáng từ một chiếc lồng lớn.
-
-#### 📝 Prompt
-
-```
-Một chú mèo trắng phát sáng đang nhẹ nhàng mở chiếc lồng chim khổng lồ rực rỡ, khi những chú chim ánh sáng bay ra và nhảy múa xung quanh nó.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/21dde6a2403a8ca3c81b4f6e52a2e672/thumbnails/thumbnail.jpg" width="600" alt="Video Mèo phát sáng và Lồng chim">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3847)**
-
-**Author:** [Lumina✨](https://x.com/LuminaGrok) | **Source:** [Link](https://x.com/LuminaGrok/status/2049262390282223638) | **Published:** Apr 28, 2026
-
----
-### Lời nhắc video cuộc đua xe tự chế tại dãy Alps
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một lời nhắc tạo video về cuộc đua xe tự chế đầy mạo hiểm xuyên qua dãy Alps, kết thúc bằng một cú va chạm kịch tính xuống dòng suối.
-
-#### 📝 Prompt
-
-```
-Trên chiếc xe tự chế băng qua dãy Alps với một cú va chạm ở cuối hành trình, rơi xuống dòng suối trên núi
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/68071a99768af0ff5eb134d716175d1f/thumbnails/thumbnail.jpg" width="600" alt="Lời nhắc video cuộc đua xe tự chế tại dãy Alps">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3848)**
-
-**Author:** [Sancho P. Pinocchio](https://x.com/muehlenservice) | **Source:** [Link](https://x.com/muehlenservice/status/2049232359694758273) | **Published:** Apr 28, 2026
-
----
-### Video về linh hồn hoa anh đào phong cách Cyberpunk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) cho cảnh video cyberpunk với các cánh hoa anh đào ba chiều (holographic) và năng lượng linh hồn trong một trận chiến kịch tính.
-
-#### 📝 Prompt
-
-```
-phong cách cyberpunk neon với những cánh hoa anh đào ba chiều, hào quang năng lượng linh hồn huyền ảo trong sương mù, hoặc các trận chiến kịch tính với tia sáng thần thánh và hiệu ứng nổ hạt, không lời thoại
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ba89d137ed144d5c7e6f95027681ad2f/thumbnails/thumbnail.jpg" width="600" alt="Video về linh hồn hoa anh đào phong cách Cyberpunk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3839)**
-
-**Author:** [Alex Spark](https://x.com/AlexSpark44) | **Source:** [Link](https://x.com/AlexSpark44/status/2049197083702223327) | **Published:** Apr 28, 2026
-
----
-### Giả tưởng Điện ảnh Tiên hiệp Cyber
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Một câu lệnh điện ảnh chi tiết dành cho Grok Imagine để tạo ra thế giới giả tưởng phương Đông siêu thực với độ phân giải cao, bao gồm các ngọn núi bay và kiến trúc truyền thống.
-
-#### 📝 Prompt
-
-```
-Hình ảnh điện ảnh giả tưởng phương Đông siêu thực, những ngọn núi khổng lồ bay lơ lửng và những đám mây pha lê vào ban đêm, thác nước thiên đường khổng lồ đổ xuống từ bầu trời, sấm sét đan xen, bên trái là các tòa nhà cổ điển Trung Hoa với ánh đèn rực rỡ và những rừng hoa anh đào hồng, bên phải là các cung điện cổ màu đỏ nhiều tầng được chiếu sáng rực rỡ, mặt hồ nông rộng phản chiếu vô số nhân vật phương Đông mặc trang phục truyền thống, sương mù, chi tiết cực cao, ánh sáng điện ảnh, 8K, phong cách tiên hiệp cyber
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/11f22d6cb9ac7e7ab1965b539e614f27/thumbnails/thumbnail.jpg" width="600" alt="Giả tưởng Điện ảnh Tiên hiệp Cyber">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3850)**
-
-**Author:** [点燃游戏](https://x.com/IgnitetheGameX) | **Source:** [Link](https://x.com/IgnitetheGameX/status/2049143756574838960) | **Published:** Apr 28, 2026
-
----
-### Prompt khóa cảnh cabin trên núi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt tạo video chính xác giúp duy trì chiều cao camera và góc nhìn nhất quán về cabin và dãy núi, tập trung vào sự ổn định về địa lý.
-
-#### 📝 Prompt
-
-```
-VIDEO 1
-
-KHÓA CẢNH: Camera tripod tĩnh được khóa ở cùng một góc nhìn rộng 24mm, cùng chiều cao camera, cùng hình học cabin, cùng đường cong lối vào bằng đất, hàng thông, lòng suối, dãy núi và cột điện rỉ sét được duy trì xuyên suốt cảnh quay.
-BỐ CỤC: Khung hình bao gồm hiên cabin ở tiền cảnh phía dưới bên trái và đỉnh núi nằm ở trung tâm phía xa.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ff7a288bdd5266fddb7b4b5805fe35bb/thumbnails/thumbnail.jpg" width="600" alt="Prompt khóa cảnh cabin trên núi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3842)**
-
-**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2049109359767220513) | **Published:** Apr 28, 2026
-
----
-### Video điện ảnh về nữ cyborg
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) điện ảnh chi tiết dài 14 giây cho video 8K về một nữ cyborg tóc hồng trong thành phố hậu tận thế.
-
-#### 📝 Prompt
-
-```
-Video điện ảnh dài 14 giây, độ phân giải 8K siêu thực, kết xuất chân thực như ảnh chụp. Một nữ cyborg tuyệt đẹp với mái tóc dài màu hồng sáng có mái đang đứng giữa con phố hậu tận thế hoang tàn, đầy sương mù. Cô bắt đầu ở tư thế ngồi xổm, quay lưng về phía máy quay, mặc bộ đồ khung xương robot màu đen ôm sát cơ thể với những dải đèn neon màu cam rực rỡ chạy dọc theo cột sống, khớp nối, đùi và cánh tay. Bộ đồ có các khớp cơ khí lộ rõ và đôi bốt cao gót. Cô từ từ và uyển chuyển đứng dậy từ tư thế ngồi xổm. Khi cô đứng thẳng, máy quay nghiêng lên trên một cách mượt mà, theo sát chuyển động của cô. Sau đó, cô từ từ xoay phần thân trên và đầu sang trái, để lộ khuôn mặt nữ tính xinh đẹp với đôi mắt to biểu cảm cùng vẻ mặt trung tính, hơi nghiêm nghị. Mái tóc hồng dài của cô chuyển động và bay bổng đầy ấn tượng theo cử động. Những ánh đèn màu cam trên bộ đồ nhấp nháy và tỏa sáng rực rỡ trong suốt quá trình. Thời tiết sương mù, bầu trời u ám, các tòa nhà gạch bỏ hoang, mảnh vụn và xe cũ nằm rải rác ở hậu cảnh, có thể nhìn thấy tòa nhà chọc trời phía xa qua màn sương. Ánh sáng điện ảnh, sương mù thể tích tinh tế, kết cấu chi tiết, vật liệu chân thực, chuyển động 24fps mượt mà, cử động thanh thoát và mạnh mẽ, độ chi tiết cao, kiệt tác, chất lượng tốt nhất.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ea8cb53858791de3d7a8298b38cb48f9/thumbnails/thumbnail.jpg" width="600" alt="Video điện ảnh về nữ cyborg">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3838)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2049107214468837795) | **Published:** Apr 28, 2026
-
----
-### Prompt kỹ thuật khóa cảnh quay ven bờ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt video kỹ thuật dành cho Grok Imagine, được thiết kế để khóa góc máy tripod tĩnh hướng về phía đầm phá vào giờ vàng, đồng thời duy trì tính nhất quán nghiêm ngặt của các địa danh.
-
-#### 📝 Prompt
-
-```
-KHÓA CẢNH: Máy quay tripod tĩnh được khóa ở đúng vị trí ven bờ nhìn ra đầm phá, khung hình không đổi xuyên suốt, cảm giác ống kính góc rộng 24mm, chiều cao máy quay 1,6 mét, duy trì ánh sáng giờ vàng ổn định, các địa danh cố định được bảo toàn chính xác: dải cát cong, cụm ba cây cọ ở phía xa và đỉnh núi lửa lởm chởm đặc trưng ở đường chân trời.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d5b4658c706a64d006d63dcf0d874296/thumbnails/thumbnail.jpg" width="600" alt="Prompt kỹ thuật khóa cảnh quay ven bờ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3840)**
-
-**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2049099992732959115) | **Published:** Apr 28, 2026
-
----
-### Cảnh siêu thị anime lúc hoàng hôn với điều khiển bằng giọng nói
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Một câu lệnh video Grok Imagine phức tạp cho cảnh anime điện ảnh, bao gồm đồng bộ hóa giọng nói, chi tiết ánh sáng và hướng dẫn diễn xuất cho nhân vật.
-
-#### 📝 Prompt
-
-```
-Một cảnh anime đời thường đậm chất điện ảnh tại quầy thu ngân siêu thị vào lúc hoàng hôn.
-Trung tâm: một phụ nữ trưởng thành tóc đen, mặc áo sơ mi trắng và tạp dề xanh đậm với huy hiệu FP1, biểu cảm bình tĩnh và hơi mệt mỏi.
-Bên trái: một phụ nữ tóc vàng với biểu cảm dịu dàng, mặc đồng phục và phụ kiện hoa giống hệt.
-Bên phải: một phụ nữ tóc nâu với biểu cảm chân thực, mặc đồng phục và phụ kiện hoa giống hệt.
-Phía trước: một chú gấu bông nhỏ mặc tạp dề xanh đậm có huy hiệu FP1, đứng yên.
-Tất cả các nhân vật đều đội vòng hoa mềm mại đồng bộ, tượng trưng cho hy vọng.
-Màu pastel nhẹ nhàng, nét vẽ anime mảnh mai tinh tế, đổ bóng tối giản, ánh sáng hoàng hôn dịu nhẹ, cầu vồng có thể nhìn thấy qua cửa sổ, bầu không khí ấm áp, nhẹ nhàng.
-Camera: tầm mắt người tự nhiên, góc nghiêng 45 độ, không zoom, không di chuyển camera.
-Đối thoại (chỉ giọng tiếng Nhật):
-Người phụ nữ tóc đen ở trung tâm (giọng nữ trưởng thành, bình tĩnh)
-"Hôm nay là ngày mấy nhỉ? Tôi cảm giác như mình đã làm việc không nghỉ ngơi chút nào."
-Diễn xuất: biểu cảm khuôn mặt tinh tế, chỉ có những cử động nhỏ tự nhiên.
-QUY TẮC QUAN TRỌNG:
-chỉ nhân vật đang nói mới cử động miệng, tất cả các nhân vật khác giữ miệng hoàn toàn khép kín, không có chuyển động môi đối với các nhân vật không nói.
-Không có văn bản trên màn hình.
-Giọng nói: Giọng nữ trưởng thành người Nhật bản xứ tự nhiên, tông giọng bình tĩnh và hơi mệt mỏi, ngữ điệu mượt mà tự nhiên, nhịp điệu tiếng Nhật chuẩn xác, không có giọng vùng miền Trung Quốc, không có giọng robot, không nói chậm, truyền tải cảm xúc tinh tế, phát âm hoàn hảo.
-
-Đang nói: Chỉ người phụ nữ tóc đen ở trung tâm nói với chuyển động miệng chính xác. Tất cả các nhân vật khác đều khép miệng hoàn toàn, không có bất kỳ chuyển động môi nào.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c660ede88bd926d62be48f2108183fbf/thumbnails/thumbnail.jpg" width="600" alt="Cảnh siêu thị anime lúc hoàng hôn với điều khiển bằng giọng nói">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3851)**
-
-**Author:** [テカひめ｜FP1級｜賢者に転職できない遊び人Lv.20/すっぴんLv.1](https://x.com/tekka5154) | **Source:** [Link](https://x.com/tekka5154/status/2049080411272495444) | **Published:** Apr 28, 2026
-
----
-### Prompt video anime cảnh hoàng hôn đậm chất điện ảnh
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Một prompt tạo video Grok Imagine cho cảnh siêu thị lúc hoàng hôn với các quy tắc nhân vật cụ thể và hướng dẫn đồng bộ môi (lip-sync).
-
-#### 📝 Prompt
-
-```
-Một cảnh anime đời thường đậm chất điện ảnh tại quầy thu ngân siêu thị vào lúc hoàng hôn.
-
-Trung tâm: một phụ nữ trưởng thành tóc đen, mặc áo sơ mi trắng và tạp dề màu xanh lá đậm có gắn huy hiệu FP1, biểu cảm bình tĩnh và hơi mệt mỏi.
-
-Bên trái: một phụ nữ tóc vàng với biểu cảm dịu dàng, mặc đồng phục tương tự và cài phụ kiện hoa.
-
-Bên phải: một phụ nữ tóc nâu với biểu cảm chân thực, mặc đồng phục tương tự và cài phụ kiện hoa.
-
-Phía trước: một chú gấu bông nhỏ mặc tạp dề màu xanh lá đậm có gắn huy hiệu FP1, đứng yên.
-
-Tất cả các nhân vật đều đội vòng hoa mềm mại đồng bộ, tượng trưng cho niềm hy vọng.
-
-Sử dụng tông màu pastel nhẹ nhàng, nét vẽ anime mỏng tinh tế, đổ bóng tối giản, ánh sáng hoàng hôn dịu nhẹ, cầu vồng có thể nhìn thấy qua cửa sổ, bầu không khí ấm áp, nhẹ nhàng.
-
-Camera: góc nhìn ngang tầm mắt người tự nhiên, góc nghiêng 45 độ nhẹ, không zoom, không di chuyển camera.
-
-Đối thoại (chỉ giọng tiếng Nhật):
-
-Người phụ nữ tóc đen ở trung tâm (giọng nữ trưởng thành, bình tĩnh)
-
-"Hôm nay là ngày mấy nhỉ? Mình cảm giác như đã làm việc mà không hề nghỉ ngơi chút nào."
-
-Diễn xuất: biểu cảm khuôn mặt tinh tế, chỉ có những cử động nhỏ tự nhiên.
-
-QUY TẮC QUAN TRỌNG:
-
-chỉ nhân vật đang nói mới cử động miệng, tất cả các nhân vật khác phải giữ miệng đóng hoàn toàn, không có chuyển động môi đối với các nhân vật không nói.
-
-Không có văn bản trên màn hình.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0e0b6c02ab68294cc7bc4f53eb492cbc/thumbnails/thumbnail.jpg" width="600" alt="Prompt video anime cảnh hoàng hôn đậm chất điện ảnh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3852)**
-
-**Author:** [テカひめ｜FP1級｜賢者に転職できない遊び人Lv.20/すっぴんLv.1](https://x.com/tekka5154) | **Source:** [Link](https://x.com/tekka5154/status/2049078738671812673) | **Published:** Apr 28, 2026
-
----
-### Video điệu nhảy Moonwalk của Michael Jackson
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video chi tiết nhằm tái hiện điệu nhảy moonwalk kinh điển, tập trung cụ thể vào chuyển động của bàn chân.
-
-#### 📝 Prompt
-
-```
-một người thực hiện điệu nhảy moonwalk kinh điển của MJ, di chuyển lùi về phía sau trên sân khấu, lướt ngược, một chân trượt về sau trong khi chân kia giữ nguyên, không tiến về phía trước
-máy quay cố định, chi tiết bàn chân chuyển động chậm, hiệu ứng trượt chân chân thực không ma sát
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b000ba4184fa00a8ebe4930c91e489d7/thumbnails/thumbnail.jpg" width="600" alt="Video điệu nhảy Moonwalk của Michael Jackson">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3854)**
-
-**Author:** [朝霧 古湖音](https://x.com/AEmJTBmTtm38170) | **Source:** [Link](https://x.com/AEmJTBmTtm38170/status/2049062030406291463) | **Published:** Apr 28, 2026
-
----
-### Prompt video anime sử thi về Hachiko
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt video đậm chất điện ảnh theo phong cách anime sử thi, khắc họa chú chó Akita Hachiko đang đứng bên ngoài tòa án vào lúc bình minh, tượng trưng cho lòng trung thành trong một phiên tòa.
-
-#### 📝 Prompt
-
-```
-Một video đậm chất điện ảnh theo phong cách anime sử thi, khắc họa Hachiko là một chú chó Akita trung thành, chân thực với bộ lông mềm mại, chi tiết đến kinh ngạc cùng đôi mắt giàu cảm xúc.
-
-Chú đứng trung thành bên ngoài tòa án liên bang vào lúc bình minh trong phiên tòa mang tính bước ngoặt định hình tương lai của AI.
-
-Ánh sáng buổi sớm bao trùm khung cảnh khi các đội ngũ pháp lý bước vào, và sức nặng của lịch sử bao trùm không gian.
-
-Sự hiện diện điềm tĩnh, kiên định của chú tượng trưng cho lòng trung thành vĩnh cửu với sự thật giữa làn sóng đổi mới đầy cam go.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a0683f889af719d7d627a4531183497a/thumbnails/thumbnail.jpg" width="600" alt="Prompt video anime sử thi về Hachiko">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3843)**
-
-**Author:** [Hachiko - $HACHI](https://x.com/HachikoS0L) | **Source:** [Link](https://x.com/HachikoS0L/status/2049051837261623738) | **Published:** Apr 28, 2026
-
----
-### Hoạt ảnh cú mèo phát quang huyền bí
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh chi tiết để tạo hoạt ảnh kỹ thuật số chất lượng cao về chú cú mèo ma thuật với bộ lông họa tiết dải ngân hà và đôi mắt phát sáng trong khu rừng huyền ảo.
-
-#### 📝 Prompt
-
-```
-Một hoạt ảnh kỹ thuật số chất lượng cao về chú cú mèo phát quang huyền bí đang đậu trên cành cây trong khu rừng tối tăm, huyền ảo. Chú cú sở hữu bộ lông họa tiết dải ngân hà cùng đôi mắt xanh phát sáng, xung quanh là những quả cầu ma thuật đang lơ lửng.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/35d1cd881ae48d1cc26901bdcb35373b/thumbnails/thumbnail.jpg" width="600" alt="Hoạt ảnh cú mèo phát quang huyền bí">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3806)**
-
-**Author:** [ahmed ibrahim](https://x.com/AhmedYasienibby) | **Source:** [Link](https://x.com/AhmedYasienibby/status/2049023673575641544) | **Published:** Apr 28, 2026
-
----
-### Thực hiện các thao tác tốc độ cao với hình ảnh tham chiếu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt sử dụng hình ảnh tham chiếu để mô tả một người đang lái xe ở tốc độ cao và thực hiện các pha nguy hiểm một cách lặng lẽ.
-
-#### 📝 Prompt
-
-```
-@image1diri lái xe ở tốc độ cao và thực hiện các thao tác nguy hiểm, không nói bất cứ điều gì
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d5b710f4be72b6f0b5268c81c686d9f8/thumbnails/thumbnail.jpg" width="600" alt="Thực hiện các thao tác tốc độ cao với hình ảnh tham chiếu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3855)**
-
-**Author:** [Gerson Antonio Basso](https://x.com/gerson_basso) | **Source:** [Link](https://x.com/gerson_basso/status/2049016752827183310) | **Published:** Apr 28, 2026
-
----
-### Prompt video anime cảnh thanh toán tại siêu thị
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Một prompt video anime đời thường đậm chất điện ảnh dành cho Grok Imagine, mô tả nhiều nhân vật trong bối cảnh thanh toán tại siêu thị với các hướng dẫn cụ thể về lời thoại và chuyển động camera.
-
-#### 📝 Prompt
-
-```
-Một cảnh anime đời thường đậm chất điện ảnh tại quầy thanh toán siêu thị dưới ánh sáng ban ngày dịu nhẹ.
-
-Trung tâm: một phụ nữ trưởng thành tóc đen mặc áo blouse trắng và tạp dề xanh đậm có gắn huy hiệu FP1, biểu cảm dịu dàng và hơi nhẹ nhõm, ánh mắt nhìn hơi xuống dưới rồi hướng về phía trước.
-
-Bên trái: một phụ nữ tóc vàng với biểu cảm bình tĩnh, ủng hộ, mặc đồng phục tương tự và cài phụ kiện hoa.
-
-Bên phải: một phụ nữ tóc nâu với biểu cảm trung tính nhưng dịu dàng, mặc đồng phục tương tự và cài phụ kiện hoa.
-
-Phía trước: một chú gấu bông nhỏ mặc tạp dề xanh đậm có gắn huy hiệu FP1, lặng lẽ hiện diện.
-
-Tất cả các nhân vật đều đội vòng hoa mềm mại đồng bộ tượng trưng cho hy vọng.
-
-Bảng màu pastel nhẹ nhàng, nét vẽ anime mảnh và tinh tế, đổ bóng phẳng mềm mại, kết xuất tối giản, ánh sáng môi trường dịu nhẹ, không khí ấm áp và yên bình.
-
-Bối cảnh: nội thất siêu thị được làm mờ nhẹ.
-
-Camera: góc nhìn ngang tầm mắt tự nhiên, góc nghiêng 45 độ nhẹ.
-
-Micro zoom rất tinh tế về phía trung tâm (người phụ nữ tóc đen) khi cô ấy nói.
-
-Lời thoại (chỉ giọng tiếng Nhật):
-
-Người phụ nữ tóc đen ở trung tâm (giọng nữ trưởng thành, bình tĩnh)
-
-"Ra là vậy... hóa ra mọi thứ vẫn đang tiến triển từng chút một... chắc ngày mai lại phải làm tiếp thôi."
-
-Diễn xuất: biểu cảm khuôn mặt tinh tế, chỉ có những chuyển động nhỏ tự nhiên.
-
-QUY TẮC QUAN TRỌNG:
-
-chỉ nhân vật đang nói mới cử động miệng, tất cả các nhân vật khác giữ miệng hoàn toàn khép kín, không có chuyển động môi đối với các nhân vật không nói
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/46fc67e9452f9c0cfd26a724fca3166a/thumbnails/thumbnail.jpg" width="600" alt="Prompt video anime cảnh thanh toán tại siêu thị">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3849)**
-
-**Author:** [テカひめ｜FP1級｜賢者に転職できない遊び人Lv.20/すっぴんLv.1](https://x.com/tekka5154) | **Source:** [Link](https://x.com/tekka5154/status/2048941937437368467) | **Published:** Apr 28, 2026
-
----
-### Video Lọ Galaxy Kỳ Diệu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh nghệ thuật chi tiết cho video dọc mô tả chiếc lọ kỳ diệu đang chứa đầy các yếu tố vũ trụ.
-
-#### 📝 Prompt
-
-```
-Một chiếc lọ thủy tinh mơ mộng kỳ diệu đặt trên bàn gỗ dưới ánh trăng, từ từ lấp đầy bởi những ngôi sao màu pastel rực rỡ, những đám mây mềm mại, những trái tim bay bổng và các thiên hà tí hon, ánh sáng điện ảnh, bầu không khí thanh tao, chuyển động nhẹ nhàng, tỷ lệ 4:5 dọc, tính nghệ thuật cao, thẩm mỹ nhựa resin mơ màng
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/58cdc3754f0f2078a29b0ae64b42dbf7/thumbnails/thumbnail.jpg" width="600" alt="Video Lọ Galaxy Kỳ Diệu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3803)**
-
-**Author:** [Jinx Loves Cats 🐾](https://x.com/JinxLovesCats) | **Source:** [Link](https://x.com/JinxLovesCats/status/2048908786098721113) | **Published:** Apr 27, 2026
-
----
-### Xoay camera 360 độ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Hướng dẫn kỹ thuật cho Grok Imagine để thực hiện chuyển động camera xoay tròn liên tục.
-
-#### 📝 Prompt
-
-```
-Xoay camera theo vòng tròn 360 độ liên tục từ trái sang phải, không có chuyển động cơ thể
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8c0d16ec3327ab1bb824cd9e64e6f3a8/thumbnails/thumbnail.jpg" width="600" alt="Xoay camera 360 độ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3798)**
-
-**Author:** [Paragon](https://x.com/paragon_andy) | **Source:** [Link](https://x.com/paragon_andy/status/2048839088967504003) | **Published:** Apr 27, 2026
-
----
-### Chuỗi cảnh hành lang đậm chất điện ảnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) video chi tiết cho chuỗi cảnh điện ảnh, tập trung vào nhân vật đang đi dọc hành lang với tiêu điểm máy quay cụ thể.
-
-#### 📝 Prompt
-
-```
-Góc máy 35mm từ bên trong mái vòm nhìn ra ngoài không gian. Cảnh thiết lập chất lượng điện ảnh. Ống kính tele 85mm quay hành lang với hiệu ứng nén độ sâu trường ảnh (DOF) tuyệt đẹp tại cửa thoát hiểm ở cuối lối đi. Cách hành lang thu hẹp dần, hệ thống đèn thực tế dọc các bức tường, ánh sáng viền trên các tấm sàn. Hành lang trống trải, sẵn sàng để thêm nhân vật. Cận cảnh cực đại (ECU) đôi ủng trên sàn hành lang với hiệu ứng lấy nét sâu kéo dài dọc lối đi. Cảnh quay bắt đầu bằng cận cảnh cực đại đôi bàn chân của người phụ nữ. Cô ấy đi dọc hành lang, rời xa máy quay, một cách chậm rãi và có chủ đích. Chúng ta có thể nghe thấy tiếng ủng của cô ấy nện trên lối đi theo từng bước chân.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/83075dd22565b830cde87585ffaccb1a/thumbnails/thumbnail.jpg" width="600" alt="Chuỗi cảnh hành lang đậm chất điện ảnh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3802)**
-
-**Author:** [M I K E • R I C K S](https://x.com/michaelricks) | **Source:** [Link](https://x.com/michaelricks/status/2048820507269575075) | **Published:** Apr 27, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2299,6 +2188,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-04T06:46:38.540Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-04T10:22:07.785Z</sub>
 
 </div>

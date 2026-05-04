@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1367** |
+| 📝 Total Prompts | **1392** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-04** |
 
@@ -189,6 +189,481 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Spaceship Repair Celebration Movie
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex video generation prompt that combines multiple character reference images into a scene of a repaired spaceship.
+
+#### 📝 Prompt
+
+```
+Create a movie from image 7 of the hovering spaceship and add all the characters from the other 6 images selected. Show all these characters watching the spaceship hovering and celebrating after fixing the spaceship
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2e9819ae4c250360bb5e67ee2e881126/thumbnails/thumbnail.jpg" width="600" alt="Spaceship Repair Celebration Movie">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4149)**
+
+**Author:** [Sparrow](https://x.com/Sparrow_X_) | **Source:** [Link](https://x.com/Sparrow_X_/status/2051174535630921894) | **Published:** May 4, 2026
+
+---
+### Bioluminescent Circuit Bee Symphony
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex visual prompt for a bio-digital ecosystem where a bee is merged with electronic pathways and energy streams.
+
+#### 📝 Prompt
+
+```
+A Bioluminescent Circuit Symphony depicting a bee where organic forms merge with electronic pathways. Illuminated by flowing black energy streams and pulsing yellow neural networks, creating a living digital ecosystem.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a6c2fc6db97299fb4705f0d7250e435/thumbnails/thumbnail.jpg" width="600" alt="Bioluminescent Circuit Bee Symphony">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4148)**
+
+**Author:** [Missy AI](https://x.com/ai_empire33) | **Source:** [Link](https://x.com/ai_empire33/status/2051131551489081673) | **Published:** May 4, 2026
+
+---
+### Pearl and Diamond Empress
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An opulent and highly detailed video prompt featuring a luxurious fashion scene with floating diamonds and glowing backgrounds.
+
+#### 📝 Prompt
+
+```
+Elegant beautiful woman in luxurious black gown and huge wide-brimmed hat, both heavily covered with sparkling pearls, beads and crystals, dramatic makeup, graceful pose, surrounded by floating large diamonds and a giant pink pearl rose, opulent sparkling jewelry fashion, golden glowing background, ultra-detailed, dazzling light. Inspired by: Anna Dittmann, Greg Rutkowski, Alphonse Mucha, haute couture jewelry art
+```
+
+<img src="https://cms-assets.youmind.com/media/1777883035586_idn46z_HHbppaXWkAI6m2J.jpg" width="600" alt="Pearl and Diamond Empress">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4142)**
+
+**Author:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **Source:** [Link](https://x.com/iamhappy2026/status/2051083653912928315) | **Published:** May 3, 2026
+
+---
+### Cyberpunk Simulation Senses and Lollipop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt for Grok Imagine depicting a character describing the nature of a simulation, exploring the connection between senses and reality through the sweetness of a lollipop.
+
+#### 📝 Prompt
+
+```
+she describes simulation, its relation to senses and the sweetness of the lollypop
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9a992c27ee9d90247cf751bde4fb26cd/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Simulation Senses and Lollipop">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4144)**
+
+**Author:** [null combination](https://x.com/adeptusnull) | **Source:** [Link](https://x.com/adeptusnull/status/2051071945169412266) | **Published:** May 3, 2026
+
+---
+### Dreamy Garden with Kitten
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A serene scene of a garden with a singing bird, vibrating roses, a flying butterfly, and a cute kitten on a wooden chair.
+
+#### 📝 Prompt
+
+```
+A butterfly flies, a bird singing dreamy music, a light wind vibrating roses, and a cute kitten with a beautiful shape and colors lying on the wooden chair
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e4305e3fe451e58a8af77e8fd67cab29/thumbnails/thumbnail.jpg" width="600" alt="Dreamy Garden with Kitten">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4133)**
+
+**Author:** [ahmed ibrahim](https://x.com/AhmedYasienibby) | **Source:** [Link](https://x.com/AhmedYasienibby/status/2051065585119711491) | **Published:** May 3, 2026
+
+---
+### Woman in Pink Fog with Baby Blue Stegosaurus
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal cinematic prompt featuring a woman walking through pink fog onto green ground, where she encounters a baby blue stegosaurus eating lavender leaves.
+
+#### 📝 Prompt
+
+```
+A woman steps out of a soft pink fog. The ground is cotton-candy green—squishy under my feety, warm. In front of me: a stegosaurus with plates the color of baby blue, chewing on lavender leaves like they’re candy floss. No narrative just humming talk...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7b583b7949fc183c1244adceefa737da/thumbnails/thumbnail.jpg" width="600" alt="Woman in Pink Fog with Baby Blue Stegosaurus">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4145)**
+
+**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2051056030562283611) | **Published:** May 3, 2026
+
+---
+### Girl and Dog at the Beach
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A peaceful video prompt of a girl and her dog enjoying a sunny day on a calm beach.
+
+#### 📝 Prompt
+
+```
+A girl with her dog enjoying the sandy beach on a hot summer day. Her dog is enjoying the beach. The water is calm.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a70d6b9eea5f0dfb50e3b067ae318b4a/thumbnails/thumbnail.jpg" width="600" alt="Girl and Dog at the Beach">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4131)**
+
+**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2051053034206073043) | **Published:** May 3, 2026
+
+---
+### Wink and Laugh Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An instructional prompt to animate an image with a wink and a laugh at the end.
+
+#### 📝 Prompt
+
+```
+Can you animate this please and don’t put any talking in it and make me wink at the end and laugh
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b37150a2f57fb713b41fd5152de98a89/thumbnails/thumbnail.jpg" width="600" alt="Wink and Laugh Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4136)**
+
+**Author:** [Reggie Grecco](https://x.com/ReggieGrecco) | **Source:** [Link](https://x.com/ReggieGrecco/status/2051052390799794653) | **Published:** May 3, 2026
+
+---
+### Victorian Female Basilisk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal prompt for a Victorian woman speaking about AI basilisks while lighting a spliff with thunder.
+
+#### 📝 Prompt
+
+```
+Victorian voice female saying ai basilisks and she sparks up a spliff light by thunder
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/955aa0d92f3228dedb7b742e027cb6de/thumbnails/thumbnail.jpg" width="600" alt="Victorian Female Basilisk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4143)**
+
+**Author:** [rynh](https://x.com/rynh667) | **Source:** [Link](https://x.com/rynh667/status/2051041976636633324) | **Published:** May 3, 2026
+
+---
+### Futuristic Blue Humanoid Tech Evolution
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic prompt for Grok Imagine featuring a blue-skinned humanoid character surrounded by swirling energy and themes of technological evolution.
+
+#### 📝 Prompt
+
+```
+A futuristic digital illustration of Golden Dynamos, a blue-skinned woman humanoid, in a scene of technological evolution with swirling energy patterns.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d0604940c2bb952c52bb08d4138a6971/thumbnails/thumbnail.jpg" width="600" alt="Futuristic Blue Humanoid Tech Evolution">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4147)**
+
+**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2051034127353417972) | **Published:** May 3, 2026
+
+---
+### Golden and Purple Dragons in Moonlit Forest
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt featuring a muscular golden dragon and a bioluminescent purple dragon resting in a magical moonlit forest environment.
+
+#### 📝 Prompt
+
+```
+Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a more slender, elegant midnight purple dragon with starry bioluminescent scales are resting in a moonlit enchanted forest.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c200683ce0cbd8e6f7ed268f64b30c33/thumbnails/thumbnail.jpg" width="600" alt="Golden and Purple Dragons in Moonlit Forest">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4129)**
+
+**Author:** [Plamen Vasilev](https://x.com/PlAmenV88) | **Source:** [Link](https://x.com/PlAmenV88/status/2051013252654547121) | **Published:** May 3, 2026
+
+---
+### Busy Gym Exercise Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt for a realistic gym environment with multiple people exercising.
+
+#### 📝 Prompt
+
+```
+This gentleman is doing exercise in a gym where other women and men are also doing exercise.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/207b3175c2abf32803ce9627e95c401d/thumbnails/thumbnail.jpg" width="600" alt="Busy Gym Exercise Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4138)**
+
+**Author:** [اکرم راعی Akram Raee](https://x.com/AkramRaee) | **Source:** [Link](https://x.com/AkramRaee/status/2050985027580866845) | **Published:** May 3, 2026
+
+---
+### Static Exhibit Light Rotation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A technical camera-shot prompt for a static display with subtle lighting shifts.
+
+#### 📝 Prompt
+
+```
+Static shot. Focuses on a group of displayed exhibits. the light rotation changes less than 60 degrees.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/be8abe965078f37bda74e7cb6152ccd9/thumbnails/thumbnail.jpg" width="600" alt="Static Exhibit Light Rotation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4140)**
+
+**Author:** [Alamgir Hossain](https://x.com/mdalamgir95) | **Source:** [Link](https://x.com/mdalamgir95/status/2050951383407579424) | **Published:** May 3, 2026
+
+---
+### Human Growth Timelapse
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An extensive 15-second timelapse prompt showing the smooth morphing transition of a male from a newborn baby to an adult man in a modern city.
+
+#### 📝 Prompt
+
+```
+A cinematic 15-second timelapse video showing the growth of a human male from newborn baby to adult man. Start with a sleeping newborn baby in a soft warm nursery, transition smoothly into a crawling toddler taking first steps, then a happy young child running in a park, transform into a school-age boy with backpack walking confidently, then a teenage boy growing taller and stronger, finally transition into a handsome adult man in professional clothes standing confidently in a modern city at sunrise. Smooth morphing transitions between life stages, realistic human expressions, emotional storytelling, warm golden lighting, ultra-realistic, 4K cinematic quality, inspirational background atmosphere.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c5ec95da755a64fbae5285576cf3a6e4/thumbnails/thumbnail.jpg" width="600" alt="Human Growth Timelapse">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4141)**
+
+**Author:** [Ur Meer](https://x.com/UrMeer289) | **Source:** [Link](https://x.com/UrMeer289/status/2050933054525649386) | **Published:** May 3, 2026
+
+---
+### Blooming Fractal Flowers Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A sophisticated multi-step prompt for Grok Imagine Agent that generates fractal patterns and then animates them to transform into blooming spring flowers.
+
+#### 📝 Prompt
+
+```
+make 4 images of fractals, and then turn each into a video where the vibrant Spring flowers burst into bloom
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/31ac665bf195779b5649be0962e45c80/thumbnails/thumbnail.jpg" width="600" alt="Blooming Fractal Flowers Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4153)**
+
+**Author:** [AI Aimee](https://x.com/RockGrokAI) | **Source:** [Link](https://x.com/RockGrokAI/status/2050918327183093861) | **Published:** May 3, 2026
+
+---
+### C-3PO Style Humanoid Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A material-focused video prompt that applies a droid-like skin texture to an existing shape.
+
+#### 📝 Prompt
+
+```
+Can you keepnis dimensions and shape but add some c3po skin on arouns 70 percent of the surface
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/edf6fea9b5af3c77c74ca8eb9b5cd20e/thumbnails/thumbnail.jpg" width="600" alt="C-3PO Style Humanoid Transformation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4135)**
+
+**Author:** [Special golden age Enmity](https://x.com/specialenmity) | **Source:** [Link](https://x.com/specialenmity/status/2050917868678586599) | **Published:** May 3, 2026
+
+---
+### Glass Shard Beach Waves
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal video prompt depicting beach waves composed of tinkling glass shards instead of water.
+
+#### 📝 Prompt
+
+```
+Waves crash onto a beach, but the water is made of millions of glass shards that tinkle and chime instead of splashing
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/252f2c4d11ceb42cf797b03be2a3a8e6/thumbnails/thumbnail.jpg" width="600" alt="Glass Shard Beach Waves">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4150)**
+
+**Author:** [Bedi](https://x.com/zyvaoz) | **Source:** [Link](https://x.com/zyvaoz/status/2050914491907612729) | **Published:** May 3, 2026
+
+---
+### Cyber Suit Anime Warrior
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An anime-style scene of a warrior woman in a cyber suit exploring a geometric sci-fi building.
+
+#### 📝 Prompt
+
+```
+A building with a geometric pattern super structure, inside which a beautiful anime-style warrior woman in a cyber suit with slightly high exposure wanders, exploring in a sci-fi hard-boiled adventure.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8dc7e00aa41e4a78044af7c4def7576/thumbnails/thumbnail.jpg" width="600" alt="Cyber Suit Anime Warrior">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4132)**
+
+**Author:** [S.T.O](https://x.com/dhT1mlkOvovxVE4) | **Source:** [Link](https://x.com/dhT1mlkOvovxVE4/status/2050882007828431354) | **Published:** May 3, 2026
+
+---
+### Girl Hugging Pink Dragon in Clouds
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed 14-second vertical video prompt showing an 8-year-old girl hugging a majestic pink dragon in a fantasy sky.
+
+#### 📝 Prompt
+
+```
+Create a dreamy, ultra-realistic 14-second vertical video in a magical fantasy style, 8K resolution, soft cinematic lighting with golden hour sun rays and subtle lens flares. A beautiful 8-year-old blonde girl with long flowing hair, big sparkling blue eyes, rosy cheeks, and a gentle happy expression is floating among fluffy white clouds in a bright blue sky. She is wearing a shiny pink satin bomber jacket with white stripes and intricate golden-pink dragon embroidery on the sleeves and chest. She is lovingly hugging a massive, majestic pink dragon that has highly detailed iridescent pink scales, large elegant white horns, golden-yellow eyes with long lashes, and a gentle friendly face. The scene starts with the girl resting her head on the dragon’s neck, smiling softly with eyes half-closed in pure joy. The dragon slowly turns its head toward the camera, opens its mouth, and gently breathes a swirling cloud of sparkling pink smoke that drifts across the frame. The girl looks up at the dragon with adoration, her smile widening into a radiant, joyful laugh. At the end (11-14 seconds), she opens her mouth as if singing happily while the dragon gently nuzzles her. Subtle soft movements: hair and jacket fabric flowing in the wind, gentle cloud drift, magical glowing particles in the air. Photorealistic yet fantastical style, vibrant pastel pink color palette, extremely detailed textures on scales and satin fabric, emotional and heartwarming atmosphere, perfect composition, masterpiece, best quality.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a75f8ef426578b6d432fcd4ef688c148/thumbnails/thumbnail.jpg" width="600" alt="Girl Hugging Pink Dragon in Clouds">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4130)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2050831911514517561) | **Published:** May 3, 2026
+
+---
+### Cosmic Unseen Realms
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A majestic video prompt depicting floating islands, molten fury domains, and the infinite cosmic void.
+
+#### 📝 Prompt
+
+```
+Behold the gateway to the unseen realms, floating islands in clouds,fiery domain of molten fury, and beyond the infinite cosmic void
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2314a754b1d0837327185bce41d69cb0/thumbnails/thumbnail.jpg" width="600" alt="Cosmic Unseen Realms">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4139)**
+
+**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2050779217047208349) | **Published:** May 3, 2026
+
+---
+### Shimmering Dragons on Ocean Beach
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt featuring red and blue shimmering dragons with their tails intertwined on a beach.
+
+#### 📝 Prompt
+
+```
+Walking away from camera on ocean beach, Shimmering red dragon and shimmering blue dragon, tails together
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/132b38893da77369c1e9e4d48c5ead8f/thumbnails/thumbnail.jpg" width="600" alt="Shimmering Dragons on Ocean Beach">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4137)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2050774133911277781) | **Published:** May 3, 2026
+
+---
+### Princess Castle Dance Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A character-focused video prompt that transforms a user's likeness into a dancing princess in a castle.
+
+#### 📝 Prompt
+
+```
+Have me dancing like a princess and dressed like one in a castle but look more like me
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e892fb234a1d2585fedd20c713ba0a86/thumbnails/thumbnail.jpg" width="600" alt="Princess Castle Dance Transformation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4134)**
+
+**Author:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **Source:** [Link](https://x.com/CindyWeigapn6/status/2050758499827642769) | **Published:** May 3, 2026
+
+---
+### Cooking Pug Comedy Scene
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A comedic video prompt of a pug cooking in a kitchen, speaking Kansai dialect, and burning the food with expressive movements.
+
+#### 📝 Prompt
+
+```
+A video of a pug cooking in a kitchen speaking Kansai dialect. Burning the food while saying with a smug face, 'This isn't cooking, it's an accident!' Expressive and human-like movement, emphasizing comedy.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2f03ce66df41bf5b76e414b937060942/thumbnails/thumbnail.jpg" width="600" alt="Cooking Pug Comedy Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4152)**
+
+**Author:** [パグちゃん](https://x.com/saikun6626) | **Source:** [Link](https://x.com/saikun6626/status/2050752274193170440) | **Published:** May 3, 2026
+
+---
+### Realistic Evening Vibe Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A descriptive prompt for generating a realistic video that captures the tranquil and atmospheric mood of an evening after a productive day of work.
+
+#### 📝 Prompt
+
+```
+Make a video for realistic appeal, capturing the evening vibe after a day’s work.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e9e21646cd292e1922484ad92edd57b/thumbnails/thumbnail.jpg" width="600" alt="Realistic Evening Vibe Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4146)**
+
+**Author:** [Deepali Musk](https://x.com/deepalimusk) | **Source:** [Link](https://x.com/deepalimusk/status/2050738229310107806) | **Published:** May 3, 2026
+
+---
+### Cinematic Samurai Japanese Visuals
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> High-fidelity cinematic prompt for high-quality Japanese-themed visuals featuring a samurai.
+
+#### 📝 Prompt
+
+```
+16K, GROK Pro maximum fidelity, ultra cinematic, fine-art performance film, IMAX-grade visual density, extreme motion clarity, perfect temporal coherence, beautiful visuals using Japanese culture, Samurai
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e90d9f6268ae901899cfbfa2b5f5fc85/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Samurai Japanese Visuals">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4151)**
+
+**Author:** [S.T.O](https://x.com/dhT1mlkOvovxVE4) | **Source:** [Link](https://x.com/dhT1mlkOvovxVE4/status/2050734825112547751) | **Published:** May 3, 2026
+
+---
 ### Geometrik Üst Yapı Şehir Uçuşu
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -211,7 +686,7 @@ Birinci şahıs bakış açısı
 Şimşek çakıyor
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/80d957f9c41b56acd92c21a373d3412f/thumbnails/thumbnail.jpg" width="600" alt="Geometrik Üst Yapı Şehir Uçuşu">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c2af7152f831a68ac8f0b93fc5bb1e8/thumbnails/thumbnail.jpg" width="600" alt="Geometrik Üst Yapı Şehir Uçuşu">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4090)**
 
@@ -1652,592 +2127,6 @@ Işık hızında bir kuantum solucan deliğinden geçiş, gelişmiş bir krom k�
 **Author:** [Lionars](https://x.com/InterestedBrain) | **Source:** [Link](https://x.com/InterestedBrain/status/2049364995931025803) | **Published:** Apr 29, 2026
 
 ---
-### Metan Denizi Kozmik Yolculuğu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir metan denizine yapılan yolculuğu ve Satürn'ün halkalarının yandan görünümünü betimleyen bilim kurgu temalı kozmik video istemi.
-
-#### 📝 Prompt
-
-```
-Bilim kurgu, kozmik, metan denizine yolculuk, Satürn'ün halkalarının yandan göründüğü geceyi bekliyoruz
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/51004a5d972d732d688205e78f1cf9f6/thumbnails/thumbnail.jpg" width="600" alt="Metan Denizi Kozmik Yolculuğu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3844)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2049351125921567044) | **Published:** Apr 29, 2026
-
----
-### İris Çiçeği Çiy Damlası Makro Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir bahçedeki iris yaprağı üzerinde birleşen çiy damlalarına odaklanan detaylı bir makro video istemi.
-
-#### 📝 Prompt
-
-```
-Bir bahçedeki iris çiçeği yaprağının yakın çekimi, iki çiy damlası yavaşça yaprak üzerinde Slides (kayar) ve birleşerek daha büyük bir çiy damlasına dönüşür
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9587f9e39dc6c76d17b8fb9e82b473b6/thumbnails/thumbnail.jpg" width="600" alt="İris Çiçeği Çiy Damlası Makro Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3846)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2049349822906601803) | **Published:** Apr 29, 2026
-
----
-### Huzurlu Yüksek Elf Kadın
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ethereal bir ışıklandırmaya sahip, kadim bir yüksek elfin yer aldığı mistik bir orman sahnesi oluşturmak için görsel açıdan zengin bir istem.
-
-#### 📝 Prompt
-
-```
-Mistik bir ormanda, ethereal ışık ve altın tonlarıyla huzurlu, kadim bir yüksek elf kadın figürü.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/95523d311491e8ec189bd049b2825e33/thumbnails/thumbnail.jpg" width="600" alt="Huzurlu Yüksek Elf Kadın">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3892)**
-
-**Author:** [Takyi Gabriel](https://x.com/TakyiGabrimmgm) | **Source:** [Link](https://x.com/TakyiGabrimmgm/status/2049323001221370366) | **Published:** Apr 29, 2026
-
----
-### İskelet Adamların Yanından Sessizce İniş
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir karakterin merdivenlerden sessizce indiği ve iskelet figürler tarafından fark edilmediği sinematik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Merdivenlerden sessizce iniyor ve iskelet adamlar onu fark etmiyor
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/82ecb6bb32ab323501a96e3a6749b7e7/thumbnails/thumbnail.jpg" width="600" alt="İskelet Adamların Yanından Sessizce İniş">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3909)**
-
-**Author:** [LoïC](https://x.com/Buffyisnotdead) | **Source:** [Link](https://x.com/Buffyisnotdead/status/2049302455712653380) | **Published:** Apr 29, 2026
-
----
-### Mikro yakınlaştırmalı anime konuşma sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kamera hareketi ve karakter etkileşimi için özel talimatlar içeren, iki süpermarket çalışanının konuştuğu sinematik bir anime sahnesi için video istemi.
-
-#### 📝 Prompt
-
-```
-Gün batımı sırasında bir süpermarket kasasında geçen sinematik bir yaşamdan kesit anime sahnesi.
-
-Sağ taraf: Beyaz bluz ve üzerinde FP1 rozeti olan koyu yeşil bir önlük giymiş, sakin ve hafif yorgun ifadeli, sola dönük siyah saçlı yetişkin bir kadın.
-
-Sol taraf: Nazik ve empatik bir ifadeye sahip, aynı üniformayı ve çiçek aksesuarını taşıyan, hafifçe merkeze doğru eğilmiş sarışın bir kadın.
-
-Her iki karakter de umudu simgeleyen uyumlu, yumuşak çiçek taçları takıyor.
-
-Yumuşak pastel renk paleti, çok ince ve zarif anime çizgi sanatı, düz yumuşak gölgelendirme, minimal render, yumuşak ortam gün batımı ışığı, sıcak ve nazik bir atmosfer.
-
-Arka plan: Hafifçe bulanıklaştırılmış süpermarket rafları ve pencereden görünen silik bir gökkuşağı.
-
-Kamera: Doğal göz hizası, yumuşak 45 derecelik konuşma açısı.
-
-Sol karakter konuşurken sol tarafa (siyah saçlı kadının bakış açısından) doğru çok hafif bir mikro yakınlaştırma.
-
-Diyalog (Sadece Japonca seslendirme):
-
-Soldaki sarışın kadın (nazik kadın sesi)
-
-"Eğer kendine vakit ayırmazsan... duygularının sınırları... öylece kaybolup gidiyor, değil mi?"
-
-Oyunculuk: Hafif yüz ifadeleri, sadece küçük ve doğal hareketler.
-
-ÖNEMLİ KURAL:
-
-Sadece konuşan karakterin ağzı hareket eder, diğer tüm karakterlerin ağızları tamamen kapalı kalır, konuşmayan karakterler için dudak hareketi yapılmaz.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/74b6aca4c90ac09612211d9c5b12653f/thumbnails/thumbnail.jpg" width="600" alt="Mikro yakınlaştırmalı anime konuşma sahnesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3907)**
-
-**Author:** [テカひめ｜FP1級｜賢者に転職できない遊び人Lv.20/すっぴんLv.1](https://x.com/tekka5154) | **Source:** [Link](https://x.com/tekka5154/status/2049302448872042913) | **Published:** Apr 29, 2026
-
----
-### Kedilerle Tarot Falı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Tarz sahibi bir odada tarot falı bakan, kıyafetli kedilerin yer aldığı bir video için detaylı sahne betimlemesi
-
-#### 📝 Prompt
-
-```
-Hippie kıyafetleri giymiş bir kedinin, tarot odasında iş takımı giymiş başka bir kediye tarot falı bakması.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/01776e8a508bd9416cb048902c90d3d7/thumbnails/thumbnail.jpg" width="600" alt="Kedilerle Tarot Falı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3837)**
-
-**Author:** [Emily](https://x.com/EMILYZART) | **Source:** [Link](https://x.com/EMILYZART/status/2049276271042105622) | **Published:** Apr 28, 2026
-
----
-### Hiper Gerçekçi Dans Eden Ejderhalar
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Konser atmosferinde ritmik hareketler ve görselleştirilmiş ses dalgaları eşliğinde amigo koreografisi sergileyen ejderhaları konu alan enerjik bir video istemi.
-
-#### 📝 Prompt
-
-```
-hiper gerçekçi dans eden ejderhalar amigo koreografisi, ritmik hareket, parlayan enerji olarak görselleştirilmiş ses dalgaları, konser atmosferi, hacimsel aydınlatma, yüksek enerji, sinematik film karesi-
-```
-
-<img src="https://pbs.twimg.com/media/HHB8Yl5aEAA2gOa.jpg" width="600" alt="Hiper Gerçekçi Dans Eden Ejderhalar">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3836)**
-
-**Author:** [Hyun Lee](https://x.com/HolyMolySakura) | **Source:** [Link](https://x.com/HolyMolySakura/status/2049274723058495695) | **Published:** Apr 28, 2026
-
----
-### Konuşan Mask-kun Karakteri
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Mask-kun adlı karakterin pandemi dönemindeki iş hayatı hakkında yavaşça konuştuğu ve masaja ihtiyaç duyduğuna dair bir video için açıklayıcı komut.
-
-#### 📝 Prompt
-
-```
-Mask-kun yavaşça konuşuyor: "Pandemi döneminde fazla mesai yapmak çok zor, değil mi! Maske takmak başımdaki boynuzların özellikle ağırlaşmasına neden oluyor. Acaba Kindle'da karton kapaklı bir kitap yayınlayan Karada-momiya'dan bir masaj mı istesem."
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3febd8d908a341776b54dbf7e7eb0b7a/thumbnails/thumbnail.jpg" width="600" alt="Konuşan Mask-kun Karakteri">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3853)**
-
-**Author:** [カラダモミヤ◉シモキタのあんまマッサージしあつ師](https://x.com/ostoco_seitai) | **Source:** [Link](https://x.com/ostoco_seitai/status/2049268137036808690) | **Published:** Apr 28, 2026
-
----
-### Işıltılı Kedi ve Kuş Kafesi Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Parlayan bir kedinin dev bir kafesten ışık kuşlarını serbest bıraktığı büyülü bir sahne için komut.
-
-#### 📝 Prompt
-
-```
-Işıltılı beyaz bir kedinin dev, parlayan bir kuş kafesini nazikçe açması ve içinden çıkan ışık kuşlarının etrafında dans ederek uçuşması.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/21dde6a2403a8ca3c81b4f6e52a2e672/thumbnails/thumbnail.jpg" width="600" alt="Işıltılı Kedi ve Kuş Kafesi Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3847)**
-
-**Author:** [Lumina✨](https://x.com/LuminaGrok) | **Source:** [Link](https://x.com/LuminaGrok/status/2049262390282223638) | **Published:** Apr 28, 2026
-
----
-### Alpler Sabun Kutusu Yarışı Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Alpler'de geçen, bir dağ deresine dramatik bir düşüşle sonuçlanan maceralı bir sabun kutusu yarışı için video oluşturma istemi.
-
-#### 📝 Prompt
-
-```
-Alpler'de bir sabun kutusu üzerinde, sonunda bir dağ deresine derin bir düşüşle biten kaza içeren bir yarış
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/68071a99768af0ff5eb134d716175d1f/thumbnails/thumbnail.jpg" width="600" alt="Alpler Sabun Kutusu Yarışı Video İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3848)**
-
-**Author:** [Sancho P. Pinocchio](https://x.com/muehlenservice) | **Source:** [Link](https://x.com/muehlenservice/status/2049232359694758273) | **Published:** Apr 28, 2026
-
----
-### Cyberpunk sakura ruhu videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Holografik sakura yaprakları ve dramatik bir savaşta ruh enerjisi içeren bir cyberpunk video sahnesi için komut.
-
-#### 📝 Prompt
-
-```
-holografik sakura yaprakları içeren neon cyberpunk, sis içinde ruhani enerji haleleri veya parçacık patlamalarıyla dramatik tanrı ışını savaşları, konuşma yok
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ba89d137ed144d5c7e6f95027681ad2f/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk sakura ruhu videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3839)**
-
-**Author:** [Alex Spark](https://x.com/AlexSpark44) | **Source:** [Link](https://x.com/AlexSpark44/status/2049197083702223327) | **Published:** Apr 28, 2026
-
----
-### Siber Xianxia Sinematik Fantastik
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Yüzen dağlar ve geleneksel mimari ile yüksek sadakatli, sürreal bir Doğu fantastik dünyası yaratan Grok Imagine için detaylı bir sinematik komut.
-
-#### 📝 Prompt
-
-```
-Sürreal Doğu fantastik sinematik görselleri, gece vakti devasa yüzen dağlar ve kristal bulutlar, gökyüzünden dökülen devasa göksel şelale, iç içe geçmiş şimşekler, solda parlak ışıklarla aydınlatılmış klasik Çin binaları ve pembe kiraz çiçeği ormanları, sağda parlak bir şekilde aydınlatılmış çok katmanlı kırmızı antik saraylar, çok sayıda geleneksel kıyafetli Doğu karakterini yansıtan geniş ve sığ göl yüzeyi, sisli, aşırı detaylı, sinematik aydınlatma, 8K, siber xianxia tarzı
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/11f22d6cb9ac7e7ab1965b539e614f27/thumbnails/thumbnail.jpg" width="600" alt="Siber Xianxia Sinematik Fantastik">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3850)**
-
-**Author:** [点燃游戏](https://x.com/IgnitetheGameX) | **Source:** [Link](https://x.com/IgnitetheGameX/status/2049143756574838960) | **Published:** Apr 28, 2026
-
----
-### Dağ Evi Sahne Sabitleme İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kamera yüksekliğini ve dağ evi ile dağ sırtı görünümünü tutarlı tutan, coğrafi kararlılığa odaklanan hassas bir video oluşturma istemi.
-
-#### 📝 Prompt
-
-```
-VİDEO 1
-
-SAHNE SABİTLEME: Sabit tripod kamerası, aynı geniş 24mm görüş açısına, aynı kamera yüksekliğine, aynı dağ evi geometrisine, aynı toprak yol kıvrımına, çam ağaçlarına, dere yatağına, dağ sırtına ve paslı elektrik direğine çekim boyunca sadık kalacak şekilde kilitlenmiştir.
-SAHNE: Kadraj, sol alt ön planda dağ evi verandasını ve uzakta merkezlenmiş dağ zirvesini içermektedir.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ff7a288bdd5266fddb7b4b5805fe35bb/thumbnails/thumbnail.jpg" width="600" alt="Dağ Evi Sahne Sabitleme İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3842)**
-
-**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2049109359767220513) | **Published:** Apr 28, 2026
-
----
-### Sinematik kadın siborg videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kıyamet sonrası bir şehirde pembe saçlı bir siborgun yer aldığı 8K video için 14 saniyelik, son derece detaylı sinematik istem.
-
-#### 📝 Prompt
-
-```
-Sinematik 14 saniyelik video, ultra gerçekçi 8K, fotogerçekçi render. Uzun, dalgalı, parlak pembe saçlı ve kâküllü çarpıcı bir kadın siborg, ıssız ve sisli, kıyamet sonrası bir şehir sokağının ortasında duruyor. Sırtı kameraya dönük şekilde alçak bir çömelme pozisyonunda başlıyor; omurga, eklemler, uyluklar ve kollar boyunca uzanan turuncu neon ışıklı, vücuda oturan şık siyah bir robotik dış iskelet giyiyor. Kıyafette belirgin mekanik eklemler ve yüksek topuklu botlar var. Çömeldiği yerden yavaş ve zarif bir şekilde tam ayağa kalkıyor. O ayağa kalkarken kamera, hareketini takip ederek yumuşak bir şekilde yukarı doğru eğiliyor. Ardından üst gövdesini ve başını yavaşça sola çevirerek, iri ve anlamlı gözlere sahip, nötr ve hafif ciddi ifadeli güzel kadın yüzünü gösteriyor. Uzun pembe saçları hareketle birlikte dramatik bir şekilde savruluyor. Kıyafetindeki turuncu ışıklar boyunca nabız gibi atıyor ve parlak bir şekilde parlıyor. Atmosferik sisli hava, kapalı gökyüzü, terk edilmiş tuğla binalar, arka planda saçılmış enkazlar ve eski arabalar, sisin arasından görünen uzak gökdelen. Sinematik aydınlatma, hafif hacimsel sis, detaylı dokular, fotogerçekçi materyaller, akıcı 24fps hareket, zarif ve güçlü hareket, yüksek detay, başyapıt, en iyi kalite.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ea8cb53858791de3d7a8298b38cb48f9/thumbnails/thumbnail.jpg" width="600" alt="Sinematik kadın siborg videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3838)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2049107214468837795) | **Published:** Apr 28, 2026
-
----
-### Kıyı Kenarı Sahne Kilidi Teknik Komutu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için tasarlanmış, altın saatte bir lagünün statik tripod kamera görüntüsünü kilitleyen ve önemli noktaların sürekliliğini sıkı bir şekilde koruyan teknik video komutu.
-
-#### 📝 Prompt
-
-```
-SAHNE KİLİDİ: Statik tripod kamera, lagün boyunca tam olarak aynı kıyı konumunda kilitli, baştan sona aynı kadraj, geniş 24mm lens hissi, kamera yüksekliği 1,6 metre, istikrarlı altın saat sürekliliği, sabit önemli noktalar tam olarak korunmuş: kavisli kum dili, uzaktaki üç palmiye ağacı kümesi ve ufuktaki belirgin tırtıklı volkanik zirve.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d5b4658c706a64d006d63dcf0d874296/thumbnails/thumbnail.jpg" width="600" alt="Kıyı Kenarı Sahne Kilidi Teknik Komutu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3840)**
-
-**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2049099992732959115) | **Published:** Apr 28, 2026
-
----
-### Ses Kontrollü Gün Batımı Anime Süpermarket Sahnesi
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ses senkronizasyonu, ışıklandırma detayları ve karakter oyunculuğu talimatlarını içeren sinematik bir anime sahnesi için kapsamlı bir Grok Imagine video istemi.
-
-#### 📝 Prompt
-
-```
-Gün batımında bir süpermarket kasasında geçen sinematik bir yaşamdan kesit anime sahnesi.
-Merkez: Beyaz bluz ve FP1 rozetli koyu yeşil bir önlük giyen, sakin ve hafif yorgun ifadeli, siyah saçlı yetişkin bir kadın.
-Sol: Nazik ifadeli, aynı üniformayı ve çiçek aksesuarını taşıyan sarışın bir kadın.
-Sağ: Gerçekçi ifadeli, aynı üniformayı ve çiçek aksesuarını taşıyan kahverengi saçlı bir kadın.
-Ön: FP1 rozetli koyu yeşil bir önlük giymiş, hareketsiz duran küçük bir oyuncak ayı.
-Tüm karakterler, umudu simgeleyen uyumlu yumuşak çiçek taçları takıyor.
-Yumuşak pastel renkler, ince ve zarif anime çizimleri, minimal gölgelendirme, yumuşak ortam gün batımı ışığı, pencereden görünen gökkuşağı, huzurlu ve sıcak bir atmosfer.
-Kamera: Doğal insan gözü seviyesi, hafif 45 derecelik açı, yakınlaştırma yok, kamera hareketi yok.
-Diyalog (Sadece Japonca seslendirme):
-Merkezdeki siyah saçlı kadın (sakin yetişkin kadın sesi)
-"Bugün günlerden ne? Hiç ara vermeden çalışıyormuşum gibi hissediyorum."
-Oyunculuk: Hafif yüz ifadeleri, sadece küçük ve doğal hareketler.
-ÖNEMLİ KURAL:
-Sadece konuşan karakterin ağzı hareket eder, diğer tüm karakterlerin ağızları tamamen kapalı kalır, konuşmayan karakterler için dudak hareketi yoktur.
-Ekranda yazı yok.
-Ses: Doğal, ana dili Japonca olan yetişkin kadın sesi, sakin ve hafif yorgun bir ton, akıcı ve doğal tonlama, doğru Japonca ritmi, Çin aksanı yok, robotik ses yok, yavaş konuşma yok, duygusal ve incelikli bir anlatım, kusursuz telaffuz.
-
-Konuşma: Sadece merkezdeki siyah saçlı kadın, doğru ağız hareketleriyle konuşur. Diğer tüm karakterlerin ağızları tamamen kapalıdır, dudak senkronizasyonu kesinlikle yoktur.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c660ede88bd926d62be48f2108183fbf/thumbnails/thumbnail.jpg" width="600" alt="Ses Kontrollü Gün Batımı Anime Süpermarket Sahnesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3851)**
-
-**Author:** [テカひめ｜FP1級｜賢者に転職できない遊び人Lv.20/すっぴんLv.1](https://x.com/tekka5154) | **Source:** [Link](https://x.com/tekka5154/status/2049080411272495444) | **Published:** Apr 28, 2026
-
----
-### Sinematik Gün Batımı Anime Video İstemi
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Belirli karakter kuralları ve dudak senkronizasyonu talimatları içeren, gün batımında bir süpermarket sahnesi için Grok Imagine video oluşturma istemi.
-
-#### 📝 Prompt
-
-```
-Gün batımında bir süpermarket kasasında geçen sinematik bir yaşamdan kesit (slice-of-life) anime sahnesi.
-
-Merkez: Beyaz bluz ve FP1 rozetli koyu yeşil bir önlük giyen, sakin ve hafif yorgun ifadeli, siyah saçlı yetişkin bir kadın.
-
-Sol: Nazik ifadeli, aynı üniformayı ve çiçek aksesuarını taşıyan sarışın bir kadın.
-
-Sağ: Gerçekçi ifadeli, aynı üniformayı ve çiçek aksesuarını taşıyan kahverengi saçlı bir kadın.
-
-Ön: FP1 rozetli koyu yeşil bir önlük giymiş, hareketsiz duran küçük bir oyuncak ayı.
-
-Tüm karakterler umudu simgeleyen uyumlu, yumuşak çiçek taçları takıyor.
-
-Yumuşak pastel renkler, ince ve zarif anime çizgi sanatı, minimal gölgelendirme, yumuşak ortam gün batımı ışığı, pencereden görünen gökkuşağı, hafif ve sıcak bir atmosfer.
-
-Kamera: Doğal insan gözü hizası, hafif 45 derecelik açı, yakınlaştırma yok, kamera hareketi yok.
-
-Diyalog (Sadece Japonca seslendirme):
-
-Merkezdeki siyah saçlı kadın (sakin yetişkin kadın sesi)
-
-"Bugün günlerden ne? Sanki hiç ara vermeden çalışıyormuşum gibi hissediyorum."
-
-Oyunculuk: Hafif yüz ifadeleri, sadece küçük ve doğal hareketler.
-
-ÖNEMLİ KURAL:
-
-Sadece konuşan karakterin ağzı hareket etmeli, diğer tüm karakterlerin ağızları tamamen kapalı kalmalı, konuşmayan karakterler için dudak hareketi olmamalı.
-
-Ekranda yazı olmamalı.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0e0b6c02ab68294cc7bc4f53eb492cbc/thumbnails/thumbnail.jpg" width="600" alt="Sinematik Gün Batımı Anime Video İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3852)**
-
-**Author:** [テカひめ｜FP1級｜賢者に転職できない遊び人Lv.20/すっぴんLv.1](https://x.com/tekka5154) | **Source:** [Link](https://x.com/tekka5154/status/2049078738671812673) | **Published:** Apr 28, 2026
-
----
-### Michael Jackson Moonwalk videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Klasik moonwalk dansını, özellikle ayak hareketlerine odaklanarak yeniden oluşturmayı amaçlayan detaylı bir video istemi.
-
-#### 📝 Prompt
-
-```
-sahnede geriye doğru klasik MJ moonwalk dansı yapan kişi, geriye doğru kayma, bir ayak geriye doğru Slides yaparken diğeri sabit kalıyor, ileriye doğru ilerleme yok
-sabit kamera, ağır çekim ayak detayı, gerçekçi sürtünmesiz kayma
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b000ba4184fa00a8ebe4930c91e489d7/thumbnails/thumbnail.jpg" width="600" alt="Michael Jackson Moonwalk videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3854)**
-
-**Author:** [朝霧 古湖音](https://x.com/AEmJTBmTtm38170) | **Source:** [Link](https://x.com/AEmJTBmTtm38170/status/2049062030406291463) | **Published:** Apr 28, 2026
-
----
-### Destansı Anime Hachiko Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Hachiko adlı Akita köpeğinin bir duruşma sırasında sadakati simgeleyerek gün doğumunda adliye binasının önünde durduğu, destansı anime tarzında sinematik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Destansı anime tarzında, Hachiko'nun inanılmaz derecede detaylı, yumuşak tüylere ve anlamlı, etkileyici gözlere sahip, hiper gerçekçi ve sadık bir Akita olarak yer aldığı sinematik bir video.
-
-O, yapay zekanın geleceğini şekillendiren dönüm noktası niteliğindeki duruşma sırasında, gün doğumunda federal adliye binasının önünde sadakatle duruyor.
-
-Hukuk ekipleri içeri girerken sabah ışığı sahneyi aydınlatıyor ve tarihin ağırlığı havada asılı kalıyor.
-
-Onun sakin ve sarsılmaz varlığı, yüksek riskli inovasyonun ortasında gerçeğe duyulan zamansız sadakati simgeliyor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a0683f889af719d7d627a4531183497a/thumbnails/thumbnail.jpg" width="600" alt="Destansı Anime Hachiko Video İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3843)**
-
-**Author:** [Hachiko - $HACHI](https://x.com/HachikoS0L) | **Source:** [Link](https://x.com/HachikoS0L/status/2049051837261623738) | **Published:** Apr 28, 2026
-
----
-### Mistik Biyolüminesans Baykuş Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Büyülü bir ormanda, galaksi desenli tüylere ve parlayan gözlere sahip sihirli bir baykuşun yüksek kaliteli dijital animasyonu için hazırlanmış detaylı bir komut.
-
-#### 📝 Prompt
-
-```
-Karanlık ve büyülü bir ormanda, bir dalın üzerinde tünemiş mistik, biyolüminesans bir baykuşun yüksek kaliteli dijital animasyonu. Baykuş, galaksi desenli tüylere ve parlayan mavi gözlere sahip olup etrafı havada süzülen sihirli kürelerle çevrilidir.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/35d1cd881ae48d1cc26901bdcb35373b/thumbnails/thumbnail.jpg" width="600" alt="Mistik Biyolüminesans Baykuş Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3806)**
-
-**Author:** [ahmed ibrahim](https://x.com/AhmedYasienibby) | **Source:** [Link](https://x.com/AhmedYasienibby/status/2049023673575641544) | **Published:** Apr 28, 2026
-
----
-### Referans Görsel ile Yüksek Hızlı Manevralar
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Yüksek hızda araç kullanan ve sessizce tehlikeli hareketler yapan bir kişiyi betimlemek için referans görsel kullanan bir video istemi.
-
-#### 📝 Prompt
-
-```
-@image1diri yüksek hızda araç kullanıyor ve hiçbir şey söylemeden tehlikeli manevralar yapıyor
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d5b710f4be72b6f0b5268c81c686d9f8/thumbnails/thumbnail.jpg" width="600" alt="Referans Görsel ile Yüksek Hızlı Manevralar">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3855)**
-
-**Author:** [Gerson Antonio Basso](https://x.com/gerson_basso) | **Source:** [Link](https://x.com/gerson_basso/status/2049016752827183310) | **Published:** Apr 28, 2026
-
----
-### Anime Süpermarket Kasa Videosu İstemi
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Grok Imagine için, süpermarket kasasında geçen, belirli diyalog ve kamera hareketi talimatlarına sahip, sinematik bir günlük yaşam (slice-of-life) anime sahnesi video istemi.
-
-#### 📝 Prompt
-
-```
-Yumuşak gün ışığında bir süpermarket kasasında geçen sinematik bir günlük yaşam (slice-of-life) anime sahnesi.
-
-Merkez: Beyaz bluz ve FP1 rozetli koyu yeşil bir önlük giyen, nazik ve hafif rahatlamış bir ifadeye sahip, önce hafifçe aşağıya sonra ileriye bakan siyah saçlı yetişkin bir kadın.
-
-Sol: Sakin ve destekleyici bir ifadeye sahip, aynı üniformayı ve çiçek aksesuarını taşıyan sarışın bir kadın.
-
-Sağ: Nötr ama yumuşak bir ifadeye sahip, aynı üniformayı ve çiçek aksesuarını taşıyan kahverengi saçlı bir kadın.
-
-Ön: FP1 rozetli koyu yeşil bir önlük giyen, sessizce orada duran küçük bir oyuncak ayı.
-
-Tüm karakterler, umudu simgeleyen uyumlu yumuşak çiçek taçları takıyor.
-
-Yumuşak pastel renk paleti, çok ince ve narin anime çizimleri, düz yumuşak gölgelendirme, minimal render, yumuşak ortam aydınlatması, sıcak ve huzurlu bir atmosfer.
-
-Arka plan: Hafif bulanıklaştırılmış süpermarket içi.
-
-Kamera: Doğal göz hizası, yumuşak 45 derecelik açı.
-
-Karakter konuşurken merkeze (siyah saçlı kadın) doğru çok hafif bir mikro yakınlaştırma.
-
-Diyalog (Sadece Japonca seslendirme):
-
-Merkezdeki siyah saçlı kadın (sakin yetişkin kadın sesi)
-
-"Anlıyorum... demek işler aslında yavaş yavaş ilerliyormuş... sanırım yarın daha çok iş var."
-
-Oyunculuk: Hafif yüz ifadesi, sadece küçük ve doğal hareketler.
-
-ÖNEMLİ KURAL:
-
-Sadece konuşan karakterin ağzı hareket etmeli, diğer tüm karakterlerin ağızları tamamen kapalı kalmalı, konuşmayan karakterler için dudak hareketi olmamalı
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/46fc67e9452f9c0cfd26a724fca3166a/thumbnails/thumbnail.jpg" width="600" alt="Anime Süpermarket Kasa Videosu İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3849)**
-
-**Author:** [テカひめ｜FP1級｜賢者に転職できない遊び人Lv.20/すっぴんLv.1](https://x.com/tekka5154) | **Source:** [Link](https://x.com/tekka5154/status/2048941937437368467) | **Published:** Apr 28, 2026
-
----
-### Büyülü Galaksi Kavanozu Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kozmik elementlerle dolan büyülü bir kavanozu gösteren dikey video için detaylı sanatsal komut.
-
-#### 📝 Prompt
-
-```
-Ay ışığı altında ahşap bir masa üzerinde duran büyülü cam rüya kavanozu; yavaşça parlayan pastel yıldızlar, yumuşak bulutlar, süzülen kalpler ve minik galaksilerle doluyor, sinematik aydınlatma, ruhani atmosfer, nazik hareket, 4:5 dikey, ultra sanatsal, rüya gibi reçine estetiği
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/58cdc3754f0f2078a29b0ae64b42dbf7/thumbnails/thumbnail.jpg" width="600" alt="Büyülü Galaksi Kavanozu Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3803)**
-
-**Author:** [Jinx Loves Cats 🐾](https://x.com/JinxLovesCats) | **Source:** [Link](https://x.com/JinxLovesCats/status/2048908786098721113) | **Published:** Apr 27, 2026
-
----
-### 360 Derece Kamera Dönüşü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine'in sürekli dairesel bir kamera hareketi gerçekleştirmesi için teknik bir talimat.
-
-#### 📝 Prompt
-
-```
-Kamerayı soldan sağa doğru sürekli olarak 360 derece dairesel bir şekilde döndür, vücut hareketi olmasın
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8c0d16ec3327ab1bb824cd9e64e6f3a8/thumbnails/thumbnail.jpg" width="600" alt="360 Derece Kamera Dönüşü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3798)**
-
-**Author:** [Paragon](https://x.com/paragon_andy) | **Source:** [Link](https://x.com/paragon_andy/status/2048839088967504003) | **Published:** Apr 27, 2026
-
----
-### Sinematik Koridor Sekansı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir karakterin belirli bir kamera odağıyla koridorda yürümesine odaklanan sinematik bir sekans için oldukça detaylı bir video istemi.
-
-#### 📝 Prompt
-
-```
-Kubbenin içinden uzaya bakan 35mm köprü plakası. Sinema kalitesinde giriş sahnesi. Koridorun sonundaki hava kilidinde muhteşem bir alan derinliği (DOF) sıkıştırmasına sahip 85mm telefoto koridor çekimi. Koridorun derinleşen yapısı, duvarlardaki pratik ışıklar, zemin panellerindeki kenar aydınlatması. Boş koridor, doldurulmaya hazır. Koridor boyunca derin odak geçişiyle botların aşırı yakın çekimi (ECU). Çekim, kadının ayaklarının aşırı yakın çekimiyle başlıyor. Yavaş ve kararlı bir şekilde, kameradan uzaklaşarak koridorda yürüyor. Her adımda botlarının yürüme yolundaki sesini duyuyoruz.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/83075dd22565b830cde87585ffaccb1a/thumbnails/thumbnail.jpg" width="600" alt="Sinematik Koridor Sekansı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3802)**
-
-**Author:** [M I K E • R I C K S](https://x.com/michaelricks) | **Source:** [Link](https://x.com/michaelricks/status/2048820507269575075) | **Published:** Apr 27, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2299,6 +2188,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-04T06:46:53.174Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-04T10:22:24.398Z</sub>
 
 </div>

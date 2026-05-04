@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **1367** |
+| 📝 提示詞總數 | **1392** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-05-04** |
 
@@ -189,6 +189,481 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### Spaceship Repair Celebration Movie
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex video generation prompt that combines multiple character reference images into a scene of a repaired spaceship.
+
+#### 📝 提示詞
+
+```
+Create a movie from image 7 of the hovering spaceship and add all the characters from the other 6 images selected. Show all these characters watching the spaceship hovering and celebrating after fixing the spaceship
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2e9819ae4c250360bb5e67ee2e881126/thumbnails/thumbnail.jpg" width="600" alt="Spaceship Repair Celebration Movie">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4149)**
+
+**作者:** [Sparrow](https://x.com/Sparrow_X_) | **來源:** [Link](https://x.com/Sparrow_X_/status/2051174535630921894) | **發布時間:** May 4, 2026
+
+---
+### Bioluminescent Circuit Bee Symphony
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex visual prompt for a bio-digital ecosystem where a bee is merged with electronic pathways and energy streams.
+
+#### 📝 提示詞
+
+```
+A Bioluminescent Circuit Symphony depicting a bee where organic forms merge with electronic pathways. Illuminated by flowing black energy streams and pulsing yellow neural networks, creating a living digital ecosystem.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a6c2fc6db97299fb4705f0d7250e435/thumbnails/thumbnail.jpg" width="600" alt="Bioluminescent Circuit Bee Symphony">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4148)**
+
+**作者:** [Missy AI](https://x.com/ai_empire33) | **來源:** [Link](https://x.com/ai_empire33/status/2051131551489081673) | **發布時間:** May 4, 2026
+
+---
+### Pearl and Diamond Empress
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An opulent and highly detailed video prompt featuring a luxurious fashion scene with floating diamonds and glowing backgrounds.
+
+#### 📝 提示詞
+
+```
+Elegant beautiful woman in luxurious black gown and huge wide-brimmed hat, both heavily covered with sparkling pearls, beads and crystals, dramatic makeup, graceful pose, surrounded by floating large diamonds and a giant pink pearl rose, opulent sparkling jewelry fashion, golden glowing background, ultra-detailed, dazzling light. Inspired by: Anna Dittmann, Greg Rutkowski, Alphonse Mucha, haute couture jewelry art
+```
+
+<img src="https://cms-assets.youmind.com/media/1777883035586_idn46z_HHbppaXWkAI6m2J.jpg" width="600" alt="Pearl and Diamond Empress">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4142)**
+
+**作者:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **來源:** [Link](https://x.com/iamhappy2026/status/2051083653912928315) | **發布時間:** May 3, 2026
+
+---
+### Cyberpunk Simulation Senses and Lollipop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt for Grok Imagine depicting a character describing the nature of a simulation, exploring the connection between senses and reality through the sweetness of a lollipop.
+
+#### 📝 提示詞
+
+```
+she describes simulation, its relation to senses and the sweetness of the lollypop
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9a992c27ee9d90247cf751bde4fb26cd/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Simulation Senses and Lollipop">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4144)**
+
+**作者:** [null combination](https://x.com/adeptusnull) | **來源:** [Link](https://x.com/adeptusnull/status/2051071945169412266) | **發布時間:** May 3, 2026
+
+---
+### Dreamy Garden with Kitten
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A serene scene of a garden with a singing bird, vibrating roses, a flying butterfly, and a cute kitten on a wooden chair.
+
+#### 📝 提示詞
+
+```
+A butterfly flies, a bird singing dreamy music, a light wind vibrating roses, and a cute kitten with a beautiful shape and colors lying on the wooden chair
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e4305e3fe451e58a8af77e8fd67cab29/thumbnails/thumbnail.jpg" width="600" alt="Dreamy Garden with Kitten">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4133)**
+
+**作者:** [ahmed ibrahim](https://x.com/AhmedYasienibby) | **來源:** [Link](https://x.com/AhmedYasienibby/status/2051065585119711491) | **發布時間:** May 3, 2026
+
+---
+### Woman in Pink Fog with Baby Blue Stegosaurus
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal cinematic prompt featuring a woman walking through pink fog onto green ground, where she encounters a baby blue stegosaurus eating lavender leaves.
+
+#### 📝 提示詞
+
+```
+A woman steps out of a soft pink fog. The ground is cotton-candy green—squishy under my feety, warm. In front of me: a stegosaurus with plates the color of baby blue, chewing on lavender leaves like they’re candy floss. No narrative just humming talk...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7b583b7949fc183c1244adceefa737da/thumbnails/thumbnail.jpg" width="600" alt="Woman in Pink Fog with Baby Blue Stegosaurus">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4145)**
+
+**作者:** [DuBoseJen](https://x.com/DuBosefire) | **來源:** [Link](https://x.com/DuBosefire/status/2051056030562283611) | **發布時間:** May 3, 2026
+
+---
+### Girl and Dog at the Beach
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A peaceful video prompt of a girl and her dog enjoying a sunny day on a calm beach.
+
+#### 📝 提示詞
+
+```
+A girl with her dog enjoying the sandy beach on a hot summer day. Her dog is enjoying the beach. The water is calm.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a70d6b9eea5f0dfb50e3b067ae318b4a/thumbnails/thumbnail.jpg" width="600" alt="Girl and Dog at the Beach">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4131)**
+
+**作者:** [DuBoseJen](https://x.com/DuBosefire) | **來源:** [Link](https://x.com/DuBosefire/status/2051053034206073043) | **發布時間:** May 3, 2026
+
+---
+### Wink and Laugh Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An instructional prompt to animate an image with a wink and a laugh at the end.
+
+#### 📝 提示詞
+
+```
+Can you animate this please and don’t put any talking in it and make me wink at the end and laugh
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b37150a2f57fb713b41fd5152de98a89/thumbnails/thumbnail.jpg" width="600" alt="Wink and Laugh Animation">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4136)**
+
+**作者:** [Reggie Grecco](https://x.com/ReggieGrecco) | **來源:** [Link](https://x.com/ReggieGrecco/status/2051052390799794653) | **發布時間:** May 3, 2026
+
+---
+### Victorian Female Basilisk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal prompt for a Victorian woman speaking about AI basilisks while lighting a spliff with thunder.
+
+#### 📝 提示詞
+
+```
+Victorian voice female saying ai basilisks and she sparks up a spliff light by thunder
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/955aa0d92f3228dedb7b742e027cb6de/thumbnails/thumbnail.jpg" width="600" alt="Victorian Female Basilisk">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4143)**
+
+**作者:** [rynh](https://x.com/rynh667) | **來源:** [Link](https://x.com/rynh667/status/2051041976636633324) | **發布時間:** May 3, 2026
+
+---
+### Futuristic Blue Humanoid Tech Evolution
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic prompt for Grok Imagine featuring a blue-skinned humanoid character surrounded by swirling energy and themes of technological evolution.
+
+#### 📝 提示詞
+
+```
+A futuristic digital illustration of Golden Dynamos, a blue-skinned woman humanoid, in a scene of technological evolution with swirling energy patterns.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d0604940c2bb952c52bb08d4138a6971/thumbnails/thumbnail.jpg" width="600" alt="Futuristic Blue Humanoid Tech Evolution">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4147)**
+
+**作者:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **來源:** [Link](https://x.com/TLouisevsughan/status/2051034127353417972) | **發布時間:** May 3, 2026
+
+---
+### Golden and Purple Dragons in Moonlit Forest
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt featuring a muscular golden dragon and a bioluminescent purple dragon resting in a magical moonlit forest environment.
+
+#### 📝 提示詞
+
+```
+Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a more slender, elegant midnight purple dragon with starry bioluminescent scales are resting in a moonlit enchanted forest.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c200683ce0cbd8e6f7ed268f64b30c33/thumbnails/thumbnail.jpg" width="600" alt="Golden and Purple Dragons in Moonlit Forest">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4129)**
+
+**作者:** [Plamen Vasilev](https://x.com/PlAmenV88) | **來源:** [Link](https://x.com/PlAmenV88/status/2051013252654547121) | **發布時間:** May 3, 2026
+
+---
+### Busy Gym Exercise Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt for a realistic gym environment with multiple people exercising.
+
+#### 📝 提示詞
+
+```
+This gentleman is doing exercise in a gym where other women and men are also doing exercise.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/207b3175c2abf32803ce9627e95c401d/thumbnails/thumbnail.jpg" width="600" alt="Busy Gym Exercise Scene">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4138)**
+
+**作者:** [اکرم راعی Akram Raee](https://x.com/AkramRaee) | **來源:** [Link](https://x.com/AkramRaee/status/2050985027580866845) | **發布時間:** May 3, 2026
+
+---
+### Static Exhibit Light Rotation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A technical camera-shot prompt for a static display with subtle lighting shifts.
+
+#### 📝 提示詞
+
+```
+Static shot. Focuses on a group of displayed exhibits. the light rotation changes less than 60 degrees.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/be8abe965078f37bda74e7cb6152ccd9/thumbnails/thumbnail.jpg" width="600" alt="Static Exhibit Light Rotation">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4140)**
+
+**作者:** [Alamgir Hossain](https://x.com/mdalamgir95) | **來源:** [Link](https://x.com/mdalamgir95/status/2050951383407579424) | **發布時間:** May 3, 2026
+
+---
+### Human Growth Timelapse
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An extensive 15-second timelapse prompt showing the smooth morphing transition of a male from a newborn baby to an adult man in a modern city.
+
+#### 📝 提示詞
+
+```
+A cinematic 15-second timelapse video showing the growth of a human male from newborn baby to adult man. Start with a sleeping newborn baby in a soft warm nursery, transition smoothly into a crawling toddler taking first steps, then a happy young child running in a park, transform into a school-age boy with backpack walking confidently, then a teenage boy growing taller and stronger, finally transition into a handsome adult man in professional clothes standing confidently in a modern city at sunrise. Smooth morphing transitions between life stages, realistic human expressions, emotional storytelling, warm golden lighting, ultra-realistic, 4K cinematic quality, inspirational background atmosphere.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c5ec95da755a64fbae5285576cf3a6e4/thumbnails/thumbnail.jpg" width="600" alt="Human Growth Timelapse">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4141)**
+
+**作者:** [Ur Meer](https://x.com/UrMeer289) | **來源:** [Link](https://x.com/UrMeer289/status/2050933054525649386) | **發布時間:** May 3, 2026
+
+---
+### Blooming Fractal Flowers Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A sophisticated multi-step prompt for Grok Imagine Agent that generates fractal patterns and then animates them to transform into blooming spring flowers.
+
+#### 📝 提示詞
+
+```
+make 4 images of fractals, and then turn each into a video where the vibrant Spring flowers burst into bloom
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/31ac665bf195779b5649be0962e45c80/thumbnails/thumbnail.jpg" width="600" alt="Blooming Fractal Flowers Video">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4153)**
+
+**作者:** [AI Aimee](https://x.com/RockGrokAI) | **來源:** [Link](https://x.com/RockGrokAI/status/2050918327183093861) | **發布時間:** May 3, 2026
+
+---
+### C-3PO Style Humanoid Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A material-focused video prompt that applies a droid-like skin texture to an existing shape.
+
+#### 📝 提示詞
+
+```
+Can you keepnis dimensions and shape but add some c3po skin on arouns 70 percent of the surface
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/edf6fea9b5af3c77c74ca8eb9b5cd20e/thumbnails/thumbnail.jpg" width="600" alt="C-3PO Style Humanoid Transformation">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4135)**
+
+**作者:** [Special golden age Enmity](https://x.com/specialenmity) | **來源:** [Link](https://x.com/specialenmity/status/2050917868678586599) | **發布時間:** May 3, 2026
+
+---
+### Glass Shard Beach Waves
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal video prompt depicting beach waves composed of tinkling glass shards instead of water.
+
+#### 📝 提示詞
+
+```
+Waves crash onto a beach, but the water is made of millions of glass shards that tinkle and chime instead of splashing
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/252f2c4d11ceb42cf797b03be2a3a8e6/thumbnails/thumbnail.jpg" width="600" alt="Glass Shard Beach Waves">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4150)**
+
+**作者:** [Bedi](https://x.com/zyvaoz) | **來源:** [Link](https://x.com/zyvaoz/status/2050914491907612729) | **發布時間:** May 3, 2026
+
+---
+### Cyber Suit Anime Warrior
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An anime-style scene of a warrior woman in a cyber suit exploring a geometric sci-fi building.
+
+#### 📝 提示詞
+
+```
+A building with a geometric pattern super structure, inside which a beautiful anime-style warrior woman in a cyber suit with slightly high exposure wanders, exploring in a sci-fi hard-boiled adventure.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8dc7e00aa41e4a78044af7c4def7576/thumbnails/thumbnail.jpg" width="600" alt="Cyber Suit Anime Warrior">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4132)**
+
+**作者:** [S.T.O](https://x.com/dhT1mlkOvovxVE4) | **來源:** [Link](https://x.com/dhT1mlkOvovxVE4/status/2050882007828431354) | **發布時間:** May 3, 2026
+
+---
+### Girl Hugging Pink Dragon in Clouds
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed 14-second vertical video prompt showing an 8-year-old girl hugging a majestic pink dragon in a fantasy sky.
+
+#### 📝 提示詞
+
+```
+Create a dreamy, ultra-realistic 14-second vertical video in a magical fantasy style, 8K resolution, soft cinematic lighting with golden hour sun rays and subtle lens flares. A beautiful 8-year-old blonde girl with long flowing hair, big sparkling blue eyes, rosy cheeks, and a gentle happy expression is floating among fluffy white clouds in a bright blue sky. She is wearing a shiny pink satin bomber jacket with white stripes and intricate golden-pink dragon embroidery on the sleeves and chest. She is lovingly hugging a massive, majestic pink dragon that has highly detailed iridescent pink scales, large elegant white horns, golden-yellow eyes with long lashes, and a gentle friendly face. The scene starts with the girl resting her head on the dragon’s neck, smiling softly with eyes half-closed in pure joy. The dragon slowly turns its head toward the camera, opens its mouth, and gently breathes a swirling cloud of sparkling pink smoke that drifts across the frame. The girl looks up at the dragon with adoration, her smile widening into a radiant, joyful laugh. At the end (11-14 seconds), she opens her mouth as if singing happily while the dragon gently nuzzles her. Subtle soft movements: hair and jacket fabric flowing in the wind, gentle cloud drift, magical glowing particles in the air. Photorealistic yet fantastical style, vibrant pastel pink color palette, extremely detailed textures on scales and satin fabric, emotional and heartwarming atmosphere, perfect composition, masterpiece, best quality.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a75f8ef426578b6d432fcd4ef688c148/thumbnails/thumbnail.jpg" width="600" alt="Girl Hugging Pink Dragon in Clouds">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4130)**
+
+**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **來源:** [Link](https://x.com/ThoughCreator/status/2050831911514517561) | **發布時間:** May 3, 2026
+
+---
+### Cosmic Unseen Realms
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A majestic video prompt depicting floating islands, molten fury domains, and the infinite cosmic void.
+
+#### 📝 提示詞
+
+```
+Behold the gateway to the unseen realms, floating islands in clouds,fiery domain of molten fury, and beyond the infinite cosmic void
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2314a754b1d0837327185bce41d69cb0/thumbnails/thumbnail.jpg" width="600" alt="Cosmic Unseen Realms">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4139)**
+
+**作者:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **來源:** [Link](https://x.com/TLouisevsughan/status/2050779217047208349) | **發布時間:** May 3, 2026
+
+---
+### Shimmering Dragons on Ocean Beach
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt featuring red and blue shimmering dragons with their tails intertwined on a beach.
+
+#### 📝 提示詞
+
+```
+Walking away from camera on ocean beach, Shimmering red dragon and shimmering blue dragon, tails together
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/132b38893da77369c1e9e4d48c5ead8f/thumbnails/thumbnail.jpg" width="600" alt="Shimmering Dragons on Ocean Beach">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4137)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2050774133911277781) | **發布時間:** May 3, 2026
+
+---
+### Princess Castle Dance Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A character-focused video prompt that transforms a user's likeness into a dancing princess in a castle.
+
+#### 📝 提示詞
+
+```
+Have me dancing like a princess and dressed like one in a castle but look more like me
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e892fb234a1d2585fedd20c713ba0a86/thumbnails/thumbnail.jpg" width="600" alt="Princess Castle Dance Transformation">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4134)**
+
+**作者:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **來源:** [Link](https://x.com/CindyWeigapn6/status/2050758499827642769) | **發布時間:** May 3, 2026
+
+---
+### Cooking Pug Comedy Scene
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A comedic video prompt of a pug cooking in a kitchen, speaking Kansai dialect, and burning the food with expressive movements.
+
+#### 📝 提示詞
+
+```
+A video of a pug cooking in a kitchen speaking Kansai dialect. Burning the food while saying with a smug face, 'This isn't cooking, it's an accident!' Expressive and human-like movement, emphasizing comedy.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2f03ce66df41bf5b76e414b937060942/thumbnails/thumbnail.jpg" width="600" alt="Cooking Pug Comedy Scene">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4152)**
+
+**作者:** [パグちゃん](https://x.com/saikun6626) | **來源:** [Link](https://x.com/saikun6626/status/2050752274193170440) | **發布時間:** May 3, 2026
+
+---
+### Realistic Evening Vibe Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A descriptive prompt for generating a realistic video that captures the tranquil and atmospheric mood of an evening after a productive day of work.
+
+#### 📝 提示詞
+
+```
+Make a video for realistic appeal, capturing the evening vibe after a day’s work.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e9e21646cd292e1922484ad92edd57b/thumbnails/thumbnail.jpg" width="600" alt="Realistic Evening Vibe Video">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4146)**
+
+**作者:** [Deepali Musk](https://x.com/deepalimusk) | **來源:** [Link](https://x.com/deepalimusk/status/2050738229310107806) | **發布時間:** May 3, 2026
+
+---
+### Cinematic Samurai Japanese Visuals
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> High-fidelity cinematic prompt for high-quality Japanese-themed visuals featuring a samurai.
+
+#### 📝 提示詞
+
+```
+16K, GROK Pro maximum fidelity, ultra cinematic, fine-art performance film, IMAX-grade visual density, extreme motion clarity, perfect temporal coherence, beautiful visuals using Japanese culture, Samurai
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e90d9f6268ae901899cfbfa2b5f5fc85/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Samurai Japanese Visuals">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4151)**
+
+**作者:** [S.T.O](https://x.com/dhT1mlkOvovxVE4) | **來源:** [Link](https://x.com/dhT1mlkOvovxVE4/status/2050734825112547751) | **發布時間:** May 3, 2026
+
+---
 ### 幾何超結構城市飛行視角
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -211,7 +686,7 @@ IMAX 等級視覺密度
 伴隨閃電效果
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/80d957f9c41b56acd92c21a373d3412f/thumbnails/thumbnail.jpg" width="600" alt="幾何超結構城市飛行視角">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c2af7152f831a68ac8f0b93fc5bb1e8/thumbnails/thumbnail.jpg" width="600" alt="幾何超結構城市飛行視角">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4090)**
 
@@ -1652,592 +2127,6 @@ Quantum 4D 固態物體旋轉至暫停，隨後扭曲並翻轉回原始狀態
 **作者:** [Lionars](https://x.com/InterestedBrain) | **來源:** [Link](https://x.com/InterestedBrain/status/2049364995931025803) | **發布時間:** Apr 29, 2026
 
 ---
-### 甲烷海宇宙之旅
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段科幻宇宙影片提示詞，描述前往甲烷海的旅程，並從側面觀賞土星環。
-
-#### 📝 提示詞
-
-```
-科幻，宇宙，前往甲烷海的旅程，我們等待夜幕降臨，此時土星環正從側面呈現
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/51004a5d972d732d688205e78f1cf9f6/thumbnails/thumbnail.jpg" width="600" alt="甲烷海宇宙之旅">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=3844)**
-
-**作者:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **來源:** [Link](https://x.com/TLouisevsughan/status/2049351125921567044) | **發布時間:** Apr 29, 2026
-
----
-### 鳶尾花葉露珠微距影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個詳細的微距影片提示詞，聚焦於花園中鳶尾花葉片上露珠融合的畫面。
-
-#### 📝 提示詞
-
-```
-花園中鳶尾花葉片的特寫，兩顆露珠緩慢地沿著葉片下滑，並逐漸融合為一顆更大的露珠
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9587f9e39dc6c76d17b8fb9e82b473b6/thumbnails/thumbnail.jpg" width="600" alt="鳶尾花葉露珠微距影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=3846)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2049349822906601803) | **發布時間:** Apr 29, 2026
-
----
-### 寧靜的高等精靈女性
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個視覺豐富的提示詞，用於生成以古老高等精靈為主角、充滿空靈光影的神秘森林場景。
-
-#### 📝 提示詞
-
-```
-一位寧靜的古老高等精靈女性偶像，身處神秘森林中，伴隨著空靈的光影與金色的色調。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/95523d311491e8ec189bd049b2825e33/thumbnails/thumbnail.jpg" width="600" alt="寧靜的高等精靈女性">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=3892)**
-
-**作者:** [Takyi Gabriel](https://x.com/TakyiGabrimmgm) | **來源:** [Link](https://x.com/TakyiGabrimmgm/status/2049323001221370366) | **發布時間:** Apr 29, 2026
-
----
-### 悄然潛入：避開骷髏人
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段電影感十足的影片提示詞，描述一個角色在骷髏人身邊悄無聲息地走下樓梯，且未被察覺的場景。
-
-#### 📝 提示詞
-
-```
-他悄無聲息地走下樓梯，而那些骷髏人並沒有注意到他
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/82ecb6bb32ab323501a96e3a6749b7e7/thumbnails/thumbnail.jpg" width="600" alt="悄然潛入：避開骷髏人">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=3909)**
-
-**作者:** [LoïC](https://x.com/Buffyisnotdead) | **來源:** [Link](https://x.com/Buffyisnotdead/status/2049302455712653380) | **發布時間:** Apr 29, 2026
-
----
-### 帶有微縮放效果的動漫對話場景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個電影級動漫場景的影片提示詞，描述兩名超市員工的對話，並包含關於鏡頭運動與角色互動的具體說明。
-
-#### 📝 提示詞
-
-```
-一個發生在日落時分超市收銀台的電影級生活類動漫場景。
-
-右側：一位留著黑髮的成年女性，身穿白色襯衫與深綠色圍裙，佩戴 FP1 徽章，表情冷靜且略顯疲憊，面向左側。
-
-左側：一位金髮女性，表情溫柔且富有同理心，身穿同樣的制服並配戴花朵飾品，身體微微向中心傾斜。
-
-兩位角色都戴著象徵希望的配套柔和花冠。
-
-柔和的粉彩色調，極細緻的動漫線條，平滑柔和的陰影，極簡渲染，柔和的環境日落光影，溫暖而寧靜的氛圍。
-
-背景：柔焦處理的超市貨架，窗外隱約可見一道彩虹。
-
-鏡頭：自然的平視視角，柔和的 45 度對話角度。
-
-當左側角色說話時，鏡頭向左側（從黑髮女性的角度）進行非常細微的微縮放。
-
-對話（僅限日語配音）：
-
-左側的金髮女性（溫柔的女聲）
-
-「如果你沒有休息時間……你內心的界線……就會隨之消失，對吧？」
-
-表演：細微的面部表情，僅有小幅度的自然動作。
-
-重要規則：
-
-僅說話的角色移動嘴部，所有其他角色必須保持嘴部完全閉合，非說話角色不得有任何唇部動作。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/74b6aca4c90ac09612211d9c5b12653f/thumbnails/thumbnail.jpg" width="600" alt="帶有微縮放效果的動漫對話場景">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=3907)**
-
-**作者:** [テカひめ｜FP1級｜賢者に転職できない遊び人Lv.20/すっぴんLv.1](https://x.com/tekka5154) | **來源:** [Link](https://x.com/tekka5154/status/2049302448872042913) | **發布時間:** Apr 29, 2026
-
----
-### 貓咪塔羅牌占卜
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段關於穿著服裝的貓咪在風格化房間內進行塔羅牌占卜的詳細場景描述
-
-#### 📝 提示詞
-
-```
-一隻穿著嬉皮風格服裝的貓咪，正在為另一隻穿著商務西裝的貓咪進行塔羅牌占卜，場景位於一間塔羅牌室中。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/01776e8a508bd9416cb048902c90d3d7/thumbnails/thumbnail.jpg" width="600" alt="貓咪塔羅牌占卜">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=3837)**
-
-**作者:** [Emily](https://x.com/EMILYZART) | **來源:** [Link](https://x.com/EMILYZART/status/2049276271042105622) | **發布時間:** Apr 28, 2026
-
----
-### 超逼真舞龍
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個充滿活力的影片提示詞，描繪了龍在演唱會氛圍中表演啦啦隊編舞，伴隨著節奏感十足的動作與視覺化的聲波。
-
-#### 📝 提示詞
-
-```
-超逼真舞龍表演啦啦隊編舞，節奏感動作，視覺化為發光能量的聲波，演唱會氛圍，體積光，高能量，電影級劇照-
-```
-
-<img src="https://pbs.twimg.com/media/HHB8Yl5aEAA2gOa.jpg" width="600" alt="超逼真舞龍">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=3836)**
-
-**作者:** [Hyun Lee](https://x.com/HolyMolySakura) | **來源:** [Link](https://x.com/HolyMolySakura/status/2049274723058495695) | **發布時間:** Apr 28, 2026
-
----
-### 會說話的 Mask-kun 角色
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一段關於名為 Mask-kun 的角色緩慢講述疫情期間的工作生活，並表示需要按摩的影片描述提示詞。
-
-#### 📝 提示詞
-
-```
-Mask-kun 緩慢地說道：「疫情期間加班真的很辛苦，對吧！戴著口罩讓頭上的角感覺特別沉重。我在想，是不是該找那位在 Kindle 上出版過平裝書的 Karada-momiya 按摩一下呢？」
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3febd8d908a341776b54dbf7e7eb0b7a/thumbnails/thumbnail.jpg" width="600" alt="會說話的 Mask-kun 角色">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=3853)**
-
-**作者:** [カラダモミヤ◉シモキタのあんまマッサージしあつ師](https://x.com/ostoco_seitai) | **來源:** [Link](https://x.com/ostoco_seitai/status/2049268137036808690) | **發布時間:** Apr 28, 2026
-
----
-### 發光貓咪與鳥籠影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個關於魔法場景的提示詞，描述一隻發光的貓咪從巨大的籠子中釋放出光之鳥。
-
-#### 📝 提示詞
-
-```
-一隻發光的白色貓咪輕輕打開一個巨大的發光鳥籠，光之鳥從中飛出並圍繞著牠翩翩起舞。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/21dde6a2403a8ca3c81b4f6e52a2e672/thumbnails/thumbnail.jpg" width="600" alt="發光貓咪與鳥籠影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=3847)**
-
-**作者:** [Lumina✨](https://x.com/LuminaGrok) | **來源:** [Link](https://x.com/LuminaGrok/status/2049262390282223638) | **發布時間:** Apr 28, 2026
-
----
-### 阿爾卑斯山皂飛車大賽影片提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一份關於阿爾卑斯山皂飛車冒險競賽的影片生成提示詞，結尾為衝入溪流的戲劇性撞擊畫面。
-
-#### 📝 提示詞
-
-```
-駕駛皂飛車穿越阿爾卑斯山，結尾發生撞擊並墜入深山溪流中
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/68071a99768af0ff5eb134d716175d1f/thumbnails/thumbnail.jpg" width="600" alt="阿爾卑斯山皂飛車大賽影片提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=3848)**
-
-**作者:** [Sancho P. Pinocchio](https://x.com/muehlenservice) | **來源:** [Link](https://x.com/muehlenservice/status/2049232359694758273) | **發布時間:** Apr 28, 2026
-
----
-### 賽博龐克櫻花靈魂影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個賽博龐克風格的影片場景提示詞，包含全息櫻花花瓣與戲劇性戰鬥中的靈魂能量。
-
-#### 📝 提示詞
-
-```
-霓虹賽博龐克風格，帶有全息櫻花花瓣，霧氣中飄散著空靈的靈魂能量光環，或是在粒子爆炸中進行戲劇性的神聖光束戰鬥，無對話
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ba89d137ed144d5c7e6f95027681ad2f/thumbnails/thumbnail.jpg" width="600" alt="賽博龐克櫻花靈魂影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=3839)**
-
-**作者:** [Alex Spark](https://x.com/AlexSpark44) | **來源:** [Link](https://x.com/AlexSpark44/status/2049197083702223327) | **發布時間:** Apr 28, 2026
-
----
-### 賽博仙俠電影感奇幻
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 這是一份為 Grok Imagine 準備的詳細電影感提示詞，旨在創作一個充滿漂浮山脈與傳統建築的高保真超現實東方奇幻世界。
-
-#### 📝 提示詞
-
-```
-超現實東方奇幻電影視覺，夜晚巨大的漂浮山脈與水晶雲層，從天而降的宏偉天瀑，交織的閃電；左側為燈火輝煌的古典中式建築與粉色櫻花林，右側為層層疊疊、燈火通明的紅色古宮殿，寬闊淺湖倒映著無數身穿傳統長袍的東方角色，霧氣繚繞，極致細節，電影級光影，8K，賽博仙俠風格
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/11f22d6cb9ac7e7ab1965b539e614f27/thumbnails/thumbnail.jpg" width="600" alt="賽博仙俠電影感奇幻">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=3850)**
-
-**作者:** [点燃游戏](https://x.com/IgnitetheGameX) | **來源:** [Link](https://x.com/IgnitetheGameX/status/2049143756574838960) | **發布時間:** Apr 28, 2026
-
----
-### 山間小屋場景鎖定提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一組精確的影片生成提示詞，旨在保持攝影機高度與小屋及山脊視角的一致性，並著重於地理環境的穩定性。
-
-#### 📝 提示詞
-
-```
-影片 1
-
-場景鎖定：使用靜態三腳架攝影機，鎖定在相同的 24mm 廣角視角，保持相同的攝影機高度、小屋幾何結構、泥土車道彎道、松樹、溪床、山脊以及生鏽電線桿，確保在整個鏡頭中維持一致。
-場景佈局：構圖包含左下角前景的小屋門廊，以及遠處置中的山峰。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ff7a288bdd5266fddb7b4b5805fe35bb/thumbnails/thumbnail.jpg" width="600" alt="山間小屋場景鎖定提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=3842)**
-
-**作者:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **來源:** [Link](https://x.com/gpimpmyspace/status/2049109359767220513) | **發布時間:** Apr 28, 2026
-
----
-### 電影感女性生化人影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個 14 秒的高細節電影感提示詞，用於生成一段 8K 影片，內容為一位身處末日城市、擁有粉色頭髮的生化人。
-
-#### 📝 提示詞
-
-```
-電影感 14 秒影片，超寫實 8K，照片級渲染。一位令人驚豔的女性生化人，留著飄逸的亮粉色長瀏海，站在荒涼且霧氣瀰漫的末日城市街道中央。她起初以低蹲姿勢背對鏡頭，身穿一件修身且俐落的黑色機械外骨骼套裝，脊椎、關節、大腿和手臂上閃爍著橘色的霓虹燈光。套裝上有清晰可見的機械關節與高跟靴。她緩慢而優雅地從蹲姿完全站起。當她站立時，鏡頭平滑地向上傾斜，跟隨她的動作。隨後，她緩慢地將上半身與頭部轉向左側，露出她美麗的女性臉龐，擁有大而富有表現力的雙眼，表情中性且略顯嚴肅。她粉色的長髮隨著動作戲劇性地飄動。套裝上的橘色燈光全程閃爍並發出明亮光芒。氛圍霧氣繚繞，陰天，背景為廢棄的磚造建築、散落的碎片與舊車，遠處的摩天大樓在霧中隱約可見。電影級燈光，細膩的體積霧，精細的紋理，照片級材質，流暢的 24fps 動態，優雅且充滿力量的動作，高細節，傑作，最佳品質。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ea8cb53858791de3d7a8298b38cb48f9/thumbnails/thumbnail.jpg" width="600" alt="電影感女性生化人影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=3838)**
-
-**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **來源:** [Link](https://x.com/ThoughCreator/status/2049107214468837795) | **發布時間:** Apr 28, 2026
-
----
-### 岸邊場景鎖定技術提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一份為 Grok Imagine 設計的技術影片提示詞，旨在鎖定潟湖在黃金時刻的靜態三腳架攝影視角，同時嚴格保持地標的連續性。
-
-#### 📝 提示詞
-
-```
-場景鎖定：靜態三腳架攝影機鎖定在潟湖岸邊的同一位置，全程保持相同的構圖，具備 24mm 廣角鏡頭感，攝影機高度 1.6 公尺，保持穩定的黃金時刻連續性，並精確保留固定地標：彎曲的沙嘴、遠處的三棵棕櫚樹叢，以及地平線上獨特的鋸齒狀火山峰。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d5b4658c706a64d006d63dcf0d874296/thumbnails/thumbnail.jpg" width="600" alt="岸邊場景鎖定技術提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=3840)**
-
-**作者:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **來源:** [Link](https://x.com/gpimpmyspace/status/2049099992732959115) | **發布時間:** Apr 28, 2026
-
----
-### 日落動漫超市場景與語音控制
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一個用於 Grok Imagine 的複雜動漫電影感影片提示詞，包含語音同步、光影細節及角色表演指令。
-
-#### 📝 提示詞
-
-```
-一個日落時分超市結帳處的電影感生活化動漫場景。
-中央：一位黑髮成年女性，身穿白色襯衫和深綠色圍裙，佩戴 FP1 徽章，表情冷靜且略顯疲憊。
-左側：一位金髮女性，表情溫柔，身穿相同制服並配戴花朵飾品。
-右側：一位棕髮女性，表情寫實，身穿相同制服並配戴花朵飾品。
-前方：一隻穿著深綠色圍裙並佩戴 FP1 徽章的小泰迪熊，靜止站立。
-所有角色皆配戴象徵希望的柔和花冠。
-柔和粉彩色調，纖細精緻的動漫線條，極簡陰影，柔和的日落環境光，窗外可見彩虹，氛圍溫暖柔和。
-攝影機：自然人眼視角，輕微 45 度角，無縮放，無攝影機移動。
-對話（僅限日語語音）：
-中央黑髮女性（冷靜的成年女性聲音）
-「今天是星期幾？感覺我好像一直沒休息地在工作。」
-表演：細微的面部表情，僅有小幅度的自然動作。
-重要規則：
-僅說話的角色移動嘴部，所有其他角色保持嘴部完全閉合，非說話角色不得有嘴唇動作。
-螢幕上無任何文字。
-語音：自然的日籍成年女性，冷靜且略顯疲憊的語氣，流暢自然的語調，標準的日語節奏，無中文口音，無機械感，語速正常，情感細膩，發音完美。
-
-說話：僅中央黑髮女性說話並有精確的嘴部動作。所有其他角色嘴部完全閉合，無任何唇形同步。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c660ede88bd926d62be48f2108183fbf/thumbnails/thumbnail.jpg" width="600" alt="日落動漫超市場景與語音控制">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=3851)**
-
-**作者:** [テカひめ｜FP1級｜賢者に転職できない遊び人Lv.20/すっぴんLv.1](https://x.com/tekka5154) | **來源:** [Link](https://x.com/tekka5154/status/2049080411272495444) | **發布時間:** Apr 28, 2026
-
----
-### 電影感日落動漫影片提示詞
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 用於 Grok Imagine 的影片生成提示詞，場景為日落時分的超市，包含特定的角色規則與口型同步說明。
-
-#### 📝 提示詞
-
-```
-一場電影感的生活片段動漫場景，設定在日落時分的超市結帳櫃檯。
-
-中間：一位黑髮成年女性，身穿白色襯衫與深綠色圍裙，佩戴 FP1 徽章，表情冷靜且略顯疲憊。
-
-左側：一位金髮女性，表情溫柔，身穿相同制服並配戴花朵飾品。
-
-右側：一位棕髮女性，表情寫實，身穿相同制服並配戴花朵飾品。
-
-前方：一隻穿著深綠色圍裙並佩戴 FP1 徽章的小泰迪熊，靜止站立。
-
-所有角色皆配戴象徵希望的柔和花冠。
-
-柔和的粉彩色調，纖細精緻的動漫線條，極簡陰影，柔和的日落環境光，窗外可見彩虹，氛圍溫暖柔和。
-
-攝影機：自然的人眼視角，輕微的 45 度角，無縮放，無攝影機移動。
-
-對話（僅限日語配音）：
-
-中間的黑髮女性（冷靜的成年女性聲音）
-
-「今天是星期幾呢？感覺我好像一直沒休息地在工作。」
-
-表演：細微的面部表情，僅有小幅度的自然動作。
-
-重要規則：
-
-僅說話的角色移動嘴巴，所有其他角色必須保持嘴巴完全閉合，非說話角色不得有嘴部動作。
-
-螢幕上無任何文字。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0e0b6c02ab68294cc7bc4f53eb492cbc/thumbnails/thumbnail.jpg" width="600" alt="電影感日落動漫影片提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=3852)**
-
-**作者:** [テカひめ｜FP1級｜賢者に転職できない遊び人Lv.20/すっぴんLv.1](https://x.com/tekka5154) | **來源:** [Link](https://x.com/tekka5154/status/2049078738671812673) | **發布時間:** Apr 28, 2026
-
----
-### Michael Jackson Moonwalk 影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份詳細的影片提示詞，旨在重現經典的月球漫步舞蹈，並特別著重於腳步動作的細節。
-
-#### 📝 提示詞
-
-```
-一個人表演經典的 MJ 月球漫步，在舞台上向後移動，向後滑行，一隻腳向後 Slides，另一隻腳保持不動，沒有向前移動
-固定攝影機，慢動作腳部細節，真實且無摩擦的滑行
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b000ba4184fa00a8ebe4930c91e489d7/thumbnails/thumbnail.jpg" width="600" alt="Michael Jackson Moonwalk 影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=3854)**
-
-**作者:** [朝霧 古湖音](https://x.com/AEmJTBmTtm38170) | **來源:** [Link](https://x.com/AEmJTBmTtm38170/status/2049062030406291463) | **發布時間:** Apr 28, 2026
-
----
-### 史詩級動漫風格忠犬八公影片提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一段史詩級動漫風格的電影感影片提示詞，描繪了秋田犬八公在日出時分佇立於法院外，象徵著審判期間的忠誠。
-
-#### 📝 提示詞
-
-```
-一段史詩級動漫風格的電影感影片，主角是忠誠的秋田犬八公，呈現超寫實質感，擁有極致細膩、柔軟的毛髮以及深情且富有表現力的雙眼。
-
-在決定 AI 未來的指標性審判期間，牠在日出時分忠實地守候在聯邦法院外。
-
-晨光灑落在場景中，法律團隊陸續進場，空氣中瀰漫著歷史的厚重感。
-
-牠冷靜且堅定不移的身影，象徵著在高風險創新浪潮中，對真理永恆不變的忠誠。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a0683f889af719d7d627a4531183497a/thumbnails/thumbnail.jpg" width="600" alt="史詩級動漫風格忠犬八公影片提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=3843)**
-
-**作者:** [Hachiko - $HACHI](https://x.com/HachikoS0L) | **來源:** [Link](https://x.com/HachikoS0L/status/2049051837261623738) | **發布時間:** Apr 28, 2026
-
----
-### 神祕生物發光貓頭鷹動畫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個精緻的提示詞，用於製作高品質的數位動畫，呈現一隻擁有星系羽毛與發光雙眼、棲息於魔法森林中的神祕貓頭鷹。
-
-#### 📝 提示詞
-
-```
-一隻高品質的數位動畫，呈現一隻神祕的生物發光貓頭鷹，棲息在黑暗魔法森林的樹枝上。這隻貓頭鷹擁有星系圖案的羽毛與發光的藍色雙眼，周圍環繞著漂浮的魔法光球。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/35d1cd881ae48d1cc26901bdcb35373b/thumbnails/thumbnail.jpg" width="600" alt="神祕生物發光貓頭鷹動畫">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=3806)**
-
-**作者:** [ahmed ibrahim](https://x.com/AhmedYasienibby) | **來源:** [Link](https://x.com/AhmedYasienibby/status/2049023673575641544) | **發布時間:** Apr 28, 2026
-
----
-### 使用參考圖像進行高速機動
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個使用參考圖像的影片提示詞，用於描繪一個人正在高速駕駛並默默執行危險特技的場景。
-
-#### 📝 提示詞
-
-```
-@image1diri 正在高速駕駛並執行危險機動，全程保持沉默
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d5b710f4be72b6f0b5268c81c686d9f8/thumbnails/thumbnail.jpg" width="600" alt="使用參考圖像進行高速機動">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=3855)**
-
-**作者:** [Gerson Antonio Basso](https://x.com/gerson_basso) | **來源:** [Link](https://x.com/gerson_basso/status/2049016752827183310) | **發布時間:** Apr 28, 2026
-
----
-### 動漫超市結帳場景影片提示詞
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 這是一份為 Grok Imagine 設計的電影感生活日常動漫場景影片提示詞，描繪了多位角色在超市結帳處的情境，並包含具體的對話與鏡頭運鏡指令。
-
-#### 📝 提示詞
-
-```
-一場電影感的生活日常動漫場景，設定在柔和日光下的超市結帳櫃檯。
-
-中央：一位留著黑髮的成年女性，身穿白色襯衫與深綠色圍裙，佩戴 FP1 徽章，表情溫柔且帶有一絲釋然，視線先微微向下，隨後看向前方。
-
-左側：一位金髮女性，表情冷靜且充滿支持，穿著同樣的制服並配戴花朵飾品。
-
-右側：一位棕髮女性，表情中性但柔和，穿著同樣的制服並配戴花朵飾品。
-
-前方：一隻穿著深綠色圍裙並佩戴 FP1 徽章的小泰迪熊，靜靜地待著。
-
-所有角色皆配戴象徵希望的柔和花冠。
-
-柔和的粉彩色調，極細緻的動漫線條，平滑柔和的陰影，極簡渲染，柔和的環境光，營造出溫暖平靜的氛圍。
-
-背景：柔焦處理的超市內部。
-
-鏡頭：自然的平視角度，柔和的 45 度角。
-
-在黑髮女性說話時，鏡頭進行非常細微的向中心（黑髮女性）推進。
-
-對話（僅限日語配音）：
-
-中央黑髮女性（冷靜的成年女性聲音）
-
-「原來如此……事情確實正在一點一點地進展著……看來明天還有更多工作要做呢。」
-
-表演：細膩的表情變化，僅有細微自然的動作。
-
-重要規則：
-
-僅說話的角色移動嘴部，所有其他角色必須保持嘴部完全閉合，非說話角色不得有唇部動作。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/46fc67e9452f9c0cfd26a724fca3166a/thumbnails/thumbnail.jpg" width="600" alt="動漫超市結帳場景影片提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=3849)**
-
-**作者:** [テカひめ｜FP1級｜賢者に転職できない遊び人Lv.20/すっぴんLv.1](https://x.com/tekka5154) | **來源:** [Link](https://x.com/tekka5154/status/2048941937437368467) | **發布時間:** Apr 28, 2026
-
----
-### 魔法銀河瓶影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份詳細的藝術提示詞，用於製作一段展示魔法瓶中充滿宇宙元素的直式影片。
-
-#### 📝 提示詞
-
-```
-月光下木桌上的一個魔法玻璃夢想瓶，緩緩填滿了發光的柔和星星、柔軟雲朵、漂浮愛心與微型銀河，電影級光影，空靈氛圍，輕柔動態，4:5 直式比例，極致藝術感，夢幻樹脂美學
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/58cdc3754f0f2078a29b0ae64b42dbf7/thumbnails/thumbnail.jpg" width="600" alt="魔法銀河瓶影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=3803)**
-
-**作者:** [Jinx Loves Cats 🐾](https://x.com/JinxLovesCats) | **來源:** [Link](https://x.com/JinxLovesCats/status/2048908786098721113) | **發布時間:** Apr 27, 2026
-
----
-### 360 度相機旋轉
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 針對 Grok Imagine 執行連續圓形相機運動的技術說明。
-
-#### 📝 提示詞
-
-```
-將相機向左至右連續進行 360 度圓形旋轉，且不包含任何身體移動
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8c0d16ec3327ab1bb824cd9e64e6f3a8/thumbnails/thumbnail.jpg" width="600" alt="360 度相機旋轉">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=3798)**
-
-**作者:** [Paragon](https://x.com/paragon_andy) | **來源:** [Link](https://x.com/paragon_andy/status/2048839088967504003) | **發布時間:** Apr 27, 2026
-
----
-### 電影感走廊序列
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個高度細緻的影片提示詞，用於創作一段電影感序列，重點呈現角色沿著走廊行走的畫面，並包含特定的攝影機對焦設定。
-
-#### 📝 提示詞
-
-```
-從圓頂內部向外眺望太空的 35mm 橋接板視角。電影級的建立鏡頭。85mm 長焦鏡頭拍攝走廊，走廊盡頭的氣閘處呈現出絕美的景深壓縮效果。走廊的縱深感、牆面上的實用照明，以及地板嵌板上的輪廓光。空無一人的走廊，隨時準備加入角色。走廊地板上靴子的極致特寫（ECU），並帶有貫穿走廊的深焦拉鏡。鏡頭以女性雙腳的極致特寫開始。她緩慢而刻意地沿著走廊向前走，背對著攝影機。我們能聽見她每走一步，靴子在走道上發出的聲響。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/83075dd22565b830cde87585ffaccb1a/thumbnails/thumbnail.jpg" width="600" alt="電影感走廊序列">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=3802)**
-
-**作者:** [M I K E • R I C K S](https://x.com/michaelricks) | **來源:** [Link](https://x.com/michaelricks/status/2048820507269575075) | **發布時間:** Apr 27, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2299,6 +2188,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-05-04T06:46:31.123Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-05-04T10:22:01.708Z</sub>
 
 </div>
