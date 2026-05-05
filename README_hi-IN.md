@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1392** |
+| 📝 Total Prompts | **1407** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-05** |
 
@@ -189,11 +189,242 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
-### Spaceship Repair Celebration Movie
+### Tesla स्टेशन स्टार वॉर्स रोबोट्स
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex video generation prompt that combines multiple character reference images into a scene of a repaired spaceship.
+> एक रचनात्मक मैशअप प्रॉम्प्ट जिसमें स्टार वॉर्स के ड्रोइड्स R2-D2 और C-3PO एक भविष्यवादी Tesla चार्जिंग स्टेशन पर काम कर रहे हैं।
+
+#### 📝 Prompt
+
+```
+भविष्य का एक Tesla चार्जिंग स्टेशन जहाँ R2-D2 कॉफी परोसता है और ताज़ा डोनट्स बनाता है, जबकि C-3PO खिड़कियाँ साफ करता है और हवा व टायर में हवा भरता है।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/214742cc2704889e8af45c2c3316160c/thumbnails/thumbnail.jpg" width="600" alt="Tesla स्टेशन स्टार वॉर्स रोबोट्स">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4200)**
+
+**Author:** [Jp](https://x.com/Ke26843284James) | **Source:** [Link](https://x.com/Ke26843284James/status/2051406229721768100) | **Published:** May 4, 2026
+
+---
+### डार्थ वेडर का भावनात्मक अतीत
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक नैरेटिव प्रॉम्प्ट जो बिना मास्क के डार्थ वेडर को पैडमे की एक कोमल, भावनात्मक याद में खोया हुआ दर्शाता है।
+
+#### 📝 Prompt
+
+```
+बिना मास्क के डार्थ वेडर, अपने अतीत की कल्पना करते हुए, गर्भवती पैडमे, कोमल आवाज़ में कहती है, "तुम एक अच्छे पिता बनोगे ऐनी"
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/38f26fa5a50ae0681ea86570a0c0f1e7/thumbnails/thumbnail.jpg" width="600" alt="डार्थ वेडर का भावनात्मक अतीत">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4208)**
+
+**Author:** [Giovanni Sierra](https://x.com/GamerGioHD) | **Source:** [Link](https://x.com/GamerGioHD/status/2051381511220301844) | **Published:** May 4, 2026
+
+---
+### साइ-फाई कैप्टन मिशन स्पीच
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वीडियो जनरेशन प्रॉम्प्ट, जिसमें एक कैप्टन दर्शकों की ओर मुड़कर बात करती है।
+
+#### 📝 Prompt
+
+```
+कैप्टन धीरे-धीरे कैमरे की ओर मुड़ती है और दर्शकों से अपने मिशन और वह क्या कर रही है, इस बारे में बात करती है
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b78705b69c59a493fe9e2ee50f48c483/thumbnails/thumbnail.jpg" width="600" alt="साइ-फाई कैप्टन मिशन स्पीच">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4213)**
+
+**Author:** [Make Britain Great Again](https://x.com/DragonFlam7530) | **Source:** [Link](https://x.com/DragonFlam7530/status/2051373210029940954) | **Published:** May 4, 2026
+
+---
+### मुर्गे का स्टैंड-अप कॉमेडी
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक मज़ेदार वीडियो प्रॉम्प्ट जिसमें एक मुर्गा स्टैंड-अप कॉमेडी करता हुआ दिखाई देता है।
+
+#### 📝 Prompt
+
+```
+एक मुर्गा अंडे देने के दर्द पर स्टैंड-अप कॉमेडी कर रहा है, “हम यूँ ही 'BaGack' नहीं कहते”
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6323d88c08bf16d78c02658f49511a13/thumbnails/thumbnail.jpg" width="600" alt="मुर्गे का स्टैंड-अप कॉमेडी">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4211)**
+
+**Author:** [Lidy E Lane](https://x.com/LidyELane) | **Source:** [Link](https://x.com/LidyELane/status/2051372163312001486) | **Published:** May 4, 2026
+
+---
+### भालू के साथ कुश्ती करते आदमी का एनीमेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 10-सेकंड के लूप के लिए एक अत्यधिक विस्तृत वीडियो प्रॉम्प्ट, जिसमें एक आदमी और एक भालू को नदी के किनारे कुश्ती करते हुए दिखाया गया है, जिसमें यथार्थवादी लाइटिंग और फर का उपयोग किया गया है।
+
+#### 📝 Prompt
+
+```
+नदी के किनारे एक नारंगी जंपसूट पहने आदमी का एक बड़े भालू के साथ हंसी-मजाक में कुश्ती और नृत्य करते हुए एक मजेदार आधुनिक AI संस्करण, उच्च गुणवत्ता वाला यथार्थवादी फर और तरल प्राकृतिक गतिविधियां, सिनेमाई लाइटिंग, गतिशील एक्शन दृश्य, 10-सेकंड का सीमलेस लूप एनीमेशन
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/abbd7820bc44348255dc35c4747fa575/thumbnails/thumbnail.jpg" width="600" alt="भालू के साथ कुश्ती करते आदमी का एनीमेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4199)**
+
+**Author:** [Moke](https://x.com/Moke1966758) | **Source:** [Link](https://x.com/Moke1966758/status/2051368435246891157) | **Published:** May 4, 2026
+
+---
+### बेंच के पास चलती Cybertruck
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक बेंच के पास से गुजरती Cybertruck के लिए एक वीडियो प्रॉम्प्ट, जिसमें बेंच के ज्यामितीय डिज़ाइन तत्व मिलते-जुलते हैं।
+
+#### 📝 Prompt
+
+```
+इस बेंच के पास से गुजरती Cybertruck, बेंच का त्रिकोणीय हिस्सा @cybertruck के डिज़ाइन को दर्शाता है
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/773966fe9e5370b91f3a38cb8a96c67f/thumbnails/thumbnail.jpg" width="600" alt="बेंच के पास चलती Cybertruck">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4210)**
+
+**Author:** [sho](https://x.com/sho00092729) | **Source:** [Link](https://x.com/sho00092729/status/2051320060594295294) | **Published:** May 4, 2026
+
+---
+### लाइब्रेरी में पढ़ता हुआ ऑक्टोपस
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक गहरे, वायुमंडलीय पुस्तकालय में ऑक्टोपस के असली (surreal) दृश्य के लिए एक सिनेमैटिक प्रॉम्प्ट, जिसमें नाटकीय लाल और आबनूस (ebony) लाइटिंग का उपयोग किया गया है।
+
+#### 📝 Prompt
+
+```
+Cinematic shot of [a octopus reading a book, Dark library scene with tall bookshelf desk lamp casting red glow on open book marble table], 35mm फिल्म एस्थेटिक, नाटकीय लो-की कियारोस्क्यूरो (chiaroscuro) लाइटिंग, गहरे लाल रंग के एक्सेंट, गहरे आबनूस (ebony) रंग की परछाइयां
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/768e598dc01f23bf99af267cec8ab693/thumbnails/thumbnail.jpg" width="600" alt="लाइब्रेरी में पढ़ता हुआ ऑक्टोपस">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4203)**
+
+**Author:** [Jeremy Wilson](https://x.com/JeremyWilsiuwe) | **Source:** [Link](https://x.com/JeremyWilsiuwe/status/2051308510273581523) | **Published:** May 4, 2026
+
+---
+### Chiaroscuro Baroque Elegance
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक अत्यधिक वर्णनात्मक प्रॉम्प्ट, जिसमें समृद्ध बनावट, सुनहरे लहजे और नाटकीय 'chiaroscuro' लाइटिंग शैली में ऊर्जावान रचनाओं वाली वीडियो शामिल है।
+
+#### 📝 Prompt
+
+```
+नाटकीय chiaroscuro लाइटिंग, जिसमें प्रकाश और छाया का अद्भुत कंट्रास्ट है
+• समृद्ध ज्वेल टोन, गहरे मखमली रंग और शानदार सुनहरे लहजे
+• गतिशील विकर्ण (diagonals), घूमती हुई हलचल और ऊर्जावान रचनाएँ
+• अलंकृत विवरण, लहराते हुए पर्दे और विस्तृत सजावट..
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/74804b1c3c451cf370165bf7a8449f02/thumbnails/thumbnail.jpg" width="600" alt="Chiaroscuro Baroque Elegance">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4204)**
+
+**Author:** [Amandasatiro](https://x.com/Amandasatiro07) | **Source:** [Link](https://x.com/Amandasatiro07/status/2051295141768351992) | **Published:** May 4, 2026
+
+---
+### गैस जाइंट की कक्षा में अंतरिक्ष स्टेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक विशाल अंतरिक्ष स्टेशन के ऑर्बिटिंग शॉट के लिए एक सिनेमैटिक वीडियो प्रॉम्प्ट, जिसमें विस्तृत लाइटिंग इफेक्ट्स और शांत वातावरण शामिल है।
+
+#### 📝 Prompt
+
+```
+वाइड एस्टेब्लिशिंग शॉट, एक विशाल रिंग के आकार का अंतरिक्ष स्टेशन एक गैस जाइंट की परिक्रमा कर रहा है, जो धीरे-धीरे घूम रहा है जबकि नीचे ग्रह के बादलों में बिजली चमक रही है, धात्विक सतह पर लेंस फ्लेयर्स दिखाई दे रहे हैं, छोटे जहाज शांति से डॉक कर रहे हैं और प्रस्थान कर रहे हैं, दूर सितारे चमक रहे हैं — गहरे अंतरिक्ष सभ्यता का एक शांत और भव्य चित्रण।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7c59f4675edc4f3511887b1f14342518/thumbnails/thumbnail.jpg" width="600" alt="गैस जाइंट की कक्षा में अंतरिक्ष स्टेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4205)**
+
+**Author:** [LudovicCreator](https://x.com/LudovicCreator) | **Source:** [Link](https://x.com/LudovicCreator/status/2051225355353026740) | **Published:** May 4, 2026
+
+---
+### AI टूल्स के साथ कंटेंट क्रिएटर की विकास यात्रा
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक व्यापक प्रॉम्प्ट जो चार दृश्यों के अनुक्रम को रेखांकित करता है, जिसमें सोशल मीडिया प्लेटफॉर्म पर विकास हासिल करने के लिए AI टूल्स का उपयोग करने वाले एक क्रिएटर की यात्रा दिखाई गई है।
+
+#### 📝 Prompt
+
+```
+एक 15-सेकंड का सिनेमैटिक भविष्यवादी वीडियो बनाएं जिसमें एक कंटेंट क्रिएटर को Twitter/X पर आगे बढ़ने के लिए AI टूल्स का उपयोग करते हुए दिखाया गया है। दृश्य 1: व्यक्ति लैपटॉप पर बैठा है, ट्वीट लिखने और ट्रेंड्स का विश्लेषण करने के लिए संघर्ष कर रहा है। दृश्य 2: स्क्रीन पर AI असिस्टेंट दिखाई देता है जो वायरल ट्वीट आइडिया, हैशटैग, ऑडियंस इनसाइट्स जेनरेट कर रहा है और पोस्ट को स्वचालित रूप से शेड्यूल कर रहा है। दृश्य 3: Twitter/X डैशबोर्ड पर बढ़ते फॉलोअर्स, एंगेजमेंट, लाइक्स, रीपोस्ट और ट्रेंडिंग पोस्ट दिखाई दे रहे हैं। दृश्य 4: स्क्रीन पर नोटिफिकेशन की बाढ़ आने पर खुश क्रिएटर का क्लोज-अप। भविष्यवादी नीला इंटरफ़ेस, होलोग्राफिक AI विज़ुअल्स, तेज़ ट्रांज़िशन, आधुनिक सोशल मीडिया एस्थेटिक, यथार्थवादी लाइटिंग, प्रेरणादायक बैकग्राउंड संगीत।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/900bfb3816832177984720f30bdf408c/thumbnails/thumbnail.jpg" width="600" alt="AI टूल्स के साथ कंटेंट क्रिएटर की विकास यात्रा">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4201)**
+
+**Author:** [Ur Meer](https://x.com/UrMeer289) | **Source:** [Link](https://x.com/UrMeer289/status/2051212448913572253) | **Published:** May 4, 2026
+
+---
+### सर्वनाश के बाद की लड़की और एंड्रॉइड संरक्षक
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> एक वीडियो के लिए विस्तृत प्रॉम्प्ट, जिसमें एक संरक्षित सर्वनाश के बाद की दुनिया में अंतिम मानव लड़की को दिखाया गया है, जिसकी देखभाल जीवंत एंड्रॉइड कर रहे हैं।
+
+#### 📝 Prompt
+
+```
+सर्वनाश के बाद की दुनिया में रहने वाली मानवता की अंतिम सुंदर लड़की; दुनिया तबाह नहीं हुई है लेकिन सभी इंसान जा चुके हैं, जहाँ सुविधाएं और इमारतें लगभग वैसी ही हैं जैसी वे थीं, और इंसानों जैसे दिखने वाले एंड्रॉइड उस लड़की की देखभाल कर रहे हैं और उसके जीवन का समर्थन कर रहे हैं।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a4fc8979ebbb2f9fb24031870f5b0b7b/thumbnails/thumbnail.jpg" width="600" alt="सर्वनाश के बाद की लड़की और एंड्रॉइड संरक्षक">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4212)**
+
+**Author:** [S.T.O](https://x.com/dhT1mlkOvovxVE4) | **Source:** [Link](https://x.com/dhT1mlkOvovxVE4/status/2051196347764875299) | **Published:** May 4, 2026
+
+---
+### गिटार सोलो मोशन सीक्वेंस
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक गिटार वादक के लिए एक डायनामिक एनिमेशन प्रॉम्प्ट, जिसमें वह सोलो बजाते हुए नाटकीय प्रभाव के लिए पीछे की ओर झुकता है।
+
+#### 📝 Prompt
+
+```
+गिटार सोलो जहाँ गिटार वादक अपने गिटार को देखते हुए पीछे की ओर झुकता है, और फिर वापस अपनी स्थिति में आ जाता है
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/58f9aa8dd217b04538a67bdc6592fdc5/thumbnails/thumbnail.jpg" width="600" alt="गिटार सोलो मोशन सीक्वेंस">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4209)**
+
+**Author:** [Debarasser La piste](https://x.com/smilking225) | **Source:** [Link](https://x.com/smilking225/status/2051194183076004212) | **Published:** May 4, 2026
+
+---
+### Spaceship Movie and Crew Celebration
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex video generation prompt that directs a cinematic scene featuring a hovering spaceship and multiple characters celebrating together.
 
 #### 📝 Prompt
 
@@ -201,18 +432,18 @@ Why use our gallery?
 Create a movie from image 7 of the hovering spaceship and add all the characters from the other 6 images selected. Show all these characters watching the spaceship hovering and celebrating after fixing the spaceship
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2e9819ae4c250360bb5e67ee2e881126/thumbnails/thumbnail.jpg" width="600" alt="Spaceship Repair Celebration Movie">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dfdc4a53d3a13b460c79735fb66ebda3/thumbnails/thumbnail.jpg" width="600" alt="Spaceship Movie and Crew Celebration">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4149)**
 
 **Author:** [Sparrow](https://x.com/Sparrow_X_) | **Source:** [Link](https://x.com/Sparrow_X_/status/2051174535630921894) | **Published:** May 4, 2026
 
 ---
-### Bioluminescent Circuit Bee Symphony
+### Bioluminescent Bee Circuit
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex visual prompt for a bio-digital ecosystem where a bee is merged with electronic pathways and energy streams.
+> A creative motion prompt depicting a bee as a digital ecosystem where biological forms and electronic pathways merge.
 
 #### 📝 Prompt
 
@@ -220,11 +451,68 @@ Create a movie from image 7 of the hovering spaceship and add all the characters
 A Bioluminescent Circuit Symphony depicting a bee where organic forms merge with electronic pathways. Illuminated by flowing black energy streams and pulsing yellow neural networks, creating a living digital ecosystem.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a6c2fc6db97299fb4705f0d7250e435/thumbnails/thumbnail.jpg" width="600" alt="Bioluminescent Circuit Bee Symphony">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8348419aa97caca2dffdb468fbaa9849/thumbnails/thumbnail.jpg" width="600" alt="Bioluminescent Bee Circuit">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4148)**
 
 **Author:** [Missy AI](https://x.com/ai_empire33) | **Source:** [Link](https://x.com/ai_empire33/status/2051131551489081673) | **Published:** May 4, 2026
+
+---
+### फोटो-यथार्थवादी साइंस-फिक्शन सिटीस्केप
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> विशाल डॉकिंग संरचनाओं और सिनेमैटिक ब्लेड रनर (Blade Runner) सौंदर्यबोध के साथ ब्रूटलिस्ट सिटीस्केप के लिए एक विस्तृत साइंस-फिक्शन प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+फोटो-यथार्थवादी साइंस-फिक्शन सिटीस्केप। एक विशाल कार्गो फ्रेटर किलोमीटर-ऊंची मेगास्ट्रक्चर दीवार से कुछ इंच ऊपर मंडरा रहा है, डॉकिंग क्लैंप बाहर निकल रहे हैं। संरचना घने ब्रूटलिस्ट कंक्रीट और खुली पाइपिंग से बनी है, कोहरे के बीच से एम्बर फ्लडलाइट्स की रोशनी छनकर आ रही है। मध्यम दूरी पर तीन छोटे एस्कॉर्ट क्राफ्ट दिखाई दे रहे हैं। नीचे से ऊपर की ओर देखते हुए शॉट, फोरशॉर्टन्ड स्केल। मूडी ओवरकास्ट आकाश। ब्लेड रनर (Blade Runner) और मास इफेक्ट (Mass Effect) का संगम। सिनेमैटिक लाइटिंग, 8K रेंडर क्वालिटी।
+```
+
+<img src="https://cms-assets.youmind.com/media/1777968420882_avgxu1_HHcT46Ra0AABN0S.jpg" width="600" alt="फोटो-यथार्थवादी साइंस-फिक्शन सिटीस्केप">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4206)**
+
+**Author:** [AetherWave Studio LLC](https://x.com/AetherWave_ai) | **Source:** [Link](https://x.com/AetherWave_ai/status/2051130484202348875) | **Published:** May 4, 2026
+
+---
+### जश्न मनाते हुए हैट फ्लिप वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वीडियो प्रॉम्प्ट जिसमें तीन पात्र जश्न मनाने के लिए हवा में अपनी हैट उछालते हैं।
+
+#### 📝 Prompt
+
+```
+तीनों पात्रों की ओर से एक 'यिहा' (yeehaw) जोड़ें और जश्न मनाने के लिए उन्हें हवा में अपनी हैट उछालने के लिए कहें!
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/796baf0ccd17b67279c1271187e44390/thumbnails/thumbnail.jpg" width="600" alt="जश्न मनाते हुए हैट फ्लिप वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4207)**
+
+**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2051128143541391752) | **Published:** May 4, 2026
+
+---
+### ज्वेलरी और हाथों का क्लोज़-अप
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> वीडियो जनरेशन के लिए एक अत्यधिक वर्णनात्मक प्रॉम्प्ट, जो हाथों, नाखूनों और विशिष्ट ज्वेलरी पीस पर केंद्रित है।
+
+#### 📝 Prompt
+
+```
+दाईं ओर मौजूद व्यक्ति के हाथ सुंदर और थोड़े गंदे हैं, जिनके नाखून मध्यम लंबे, नुकीले और मुड़े हुए हैं। उसने अंगूठियां और ब्रेसलेट पहने हुए हैं, साथ ही उसने एम्बर मेडलियन वाला मोतियों का चोकर भी पहना है।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fd1fca049242336d8ac08ad6411c63c1/thumbnails/thumbnail.jpg" width="600" alt="ज्वेलरी और हाथों का क्लोज़-अप">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4202)**
+
+**Author:** [HiddenFantasies/FantasíasOcultas](https://x.com/JackStackedboy) | **Source:** [Link](https://x.com/JackStackedboy/status/2051112185141592572) | **Published:** May 4, 2026
 
 ---
 ### Pearl and Diamond Empress
@@ -1839,294 +2127,6 @@ SCENE LOCK: स्थिर ट्राइपॉड कैमरा, उसी 
 **Author:** [Jenny BSN RN LMT](https://x.com/mommaleo) | **Source:** [Link](https://x.com/mommaleo/status/2049650868333555759) | **Published:** Apr 30, 2026
 
 ---
-### बुलबुलों के साथ बोर्डो वाइन पीती महिला
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक महिला का सिनेमाई वीडियो प्रॉम्प्ट जो बुलबुलों से घिरी हुई महंगी वाइन का आनंद ले रही है।
-
-#### 📝 Prompt
-
-```
-वह दुनिया से बेखबर अपने चारों ओर तैरते बुलबुलों के साथ दुनिया की सबसे महंगी बोर्डो वाइन का आनंद ले रही है
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0aac0f29acc03fdd3c1cb7a714bcacb1/thumbnails/thumbnail.jpg" width="600" alt="बुलबुलों के साथ बोर्डो वाइन पीती महिला">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3902)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2049625903160811870) | **Published:** Apr 29, 2026
-
----
-### अनुष्ठानिक बटर लैंप अर्पण
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमाई वीडियो प्रॉम्प्ट जिसमें लड़कियाँ एक स्तूप पर पारंपरिक मंत्र के साथ बटर लैंप अर्पित कर रही हैं।
-
-#### 📝 Prompt
-
-```
-इन लड़कियों द्वारा स्तूप पर बटर लैंप अर्पण, अपनी प्रार्थनाओं की दिशा बदलें, ॐ मणि पद्मे हूँ
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/89084d9cd3100d1b2654a39d3057c9be/thumbnails/thumbnail.jpg" width="600" alt="अनुष्ठानिक बटर लैंप अर्पण">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3899)**
-
-**Author:** [Tshering Norbu](https://x.com/Tshering_2025) | **Source:** [Link](https://x.com/Tshering_2025/status/2049623758240178567) | **Published:** Apr 29, 2026
-
----
-### 1970 के दशक की स्केटर महिला
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो प्रॉम्प्ट जो 1970 के दशक की शैली में स्केटर के रूप में पोज़ देती हुई एक महिला को उत्पन्न करता है, जिसने एक विशिष्ट रिंगर टी-शर्ट पहनी हुई है।
-
-#### 📝 Prompt
-
-```
-एक महिला 1970 के दशक की शैली में स्केटर के रूप में पोज़ दे रही है, जिसने सादे बैकग्राउंड के सामने "MEME" रिंगर टी-शर्ट पहनी है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/89d49f6afe685b78c380d4e1e4e75dcf/thumbnails/thumbnail.jpg" width="600" alt="1970 के दशक की स्केटर महिला">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3904)**
-
-**Author:** [Shannon Lee](https://x.com/slpetitjean) | **Source:** [Link](https://x.com/slpetitjean/status/2049588997266255880) | **Published:** Apr 29, 2026
-
----
-### निकोला टेस्ला का जादुई एनीमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक स्टाइलिश एनीमेशन प्रॉम्प्ट जिसमें निकोला टेस्ला एक जादुई रूप से धड़कते हुए नंबर तीन के साथ बातचीत कर रहे हैं, जिसे एक रहस्यमयी बैकग्राउंड स्कोर पर सेट किया गया है।
-
-#### 📝 Prompt
-
-```
-प्रत्येक हेडिंग का ग्राफिकल एनीमेशन बनाएं और निकोला टेस्ला नंबर “3” को पकड़ते हैं जो धड़क रहा है और बहुत जादुई दिखता है, और वह कहते हैं “तीन का असली जादू अभी सामने आना बाकी है!”
-बैकग्राउंड संगीत रहस्यमयी और अवचेतन है
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/33cecc71e0daba35756530bb075267c9/thumbnails/thumbnail.jpg" width="600" alt="निकोला टेस्ला का जादुई एनीमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3898)**
-
-**Author:** [3.MiKeE.H](https://x.com/3MH) | **Source:** [Link](https://x.com/3MH/status/2049583435925045324) | **Published:** Apr 29, 2026
-
----
-### भुली-बिसरी गुफा की खोज
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमैटिक साइंस-फिक्शन प्रॉम्प्ट, जिसमें एक यात्री को गुफा के भीतर एक बायोमैकेनिकल AI की खोज करते हुए दिखाया गया है।
-
-#### 📝 Prompt
-
-```
-एक अकेला यात्री एक भूली-बिसरी गुफा की गहराई में एक अविश्वसनीय खोज करता है, जहाँ उसका सामना एक विशाल, बायोमैकेनिकल AI से होता है, जो प्राचीन रहस्यों को समेटे हुए है...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0c199350c7e92ffa9324993d39c43b6b/thumbnails/thumbnail.jpg" width="600" alt="भुली-बिसरी गुफा की खोज">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3908)**
-
-**Author:** [aran leigh](https://x.com/aran_leigh) | **Source:** [Link](https://x.com/aran_leigh/status/2049574107390370253) | **Published:** Apr 29, 2026
-
----
-### Quantum 4D मोशन प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> क्वांटम 4D सॉलिड स्टेट के घूमने और मुड़ने (warping) का वीडियो जनरेट करने के लिए एक अत्याधुनिक प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-Quantum 4D सॉलिड स्टेट का घूमकर एक पॉज़ पर आना, फिर मुड़ना (warping) और वापस अपनी मूल स्थिति में आ जाना
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/70ae0ce4592d78c2a3537e0e55ba039c/thumbnails/thumbnail.jpg" width="600" alt="Quantum 4D मोशन प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3903)**
-
-**Author:** [Shia Miller](https://x.com/StrategicProce) | **Source:** [Link](https://x.com/StrategicProce/status/2049521402118537318) | **Published:** Apr 29, 2026
-
----
-### नैरेटिव हॉर्स राइड
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक बहु-दृश्य नैरेटिव प्रॉम्प्ट जिसमें घुड़सवारी, उत्साहित भीड़ और एक कैदी शामिल हैं।
-
-#### 📝 Prompt
-
-```
-वह घोड़े पर सवार है। भीड़ हाथ हिलाकर उसका उत्साह बढ़ा रही है। कैदी जेल में है और उसे जाते हुए देख रहा है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c66d7600605ee5698fd360d206c25793/thumbnails/thumbnail.jpg" width="600" alt="नैरेटिव हॉर्स राइड">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3894)**
-
-**Author:** [Rachele Kirk](https://x.com/JustForFunRach) | **Source:** [Link](https://x.com/JustForFunRach/status/2049518681856921642) | **Published:** Apr 29, 2026
-
----
-### मानवता पर: गैलेक्टिक मेगास्ट्रक्चर
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> पृथ्वी जैसे ग्रह की परिक्रमा करते हुए एक भव्य अंतरिक्ष स्टेशन को उत्पन्न करने के लिए एक अत्यधिक विस्तृत, सिनेमाई प्रॉम्प्ट, जिसमें जटिल धात्विक संरचनाएं, चमकते प्लाज्मा रिंग और महाकाव्य कैमरा मूवमेंट शामिल हैं।
-
-#### 📝 Prompt
-
-```
-एक लुभावने नीले पृथ्वी जैसे ग्रह की परिक्रमा करते हुए एक विशाल, ईश्वर के समान भविष्यवादी अंतरिक्ष मेगास्ट्रक्चर का सिनेमाई, फोटो-यथार्थवादी 8K अल्ट्रा-ड्रामेटिक मास्टरपीस वीडियो। विशाल रिंग के आकार के अंतरिक्ष स्टेशन में चमकते हुए तीव्र नीले प्लाज्मा ऊर्जा रिंग हैं जो कच्ची शक्ति के साथ स्पंदित होते हैं, जटिल धात्विक वास्तुकला, ऊंचे शिखर, जटिल औद्योगिक मॉड्यूल और चमकते सियान-नारंगी लहजे हैं। एक विशाल मॉड्यूलर स्पेसशिप सेक्शन केंद्रीय रिंग से चमकते विवरणों के साथ बाहर निकलता है, जबकि पूरी संरचना धीरे-धीरे राजसी भव्यता के साथ घूमती है। कैमरा अत्यंत धीमी गति में चलता है, जो जीवंत नीले ग्रह, घूमते बादलों और गहरे अंतरिक्ष की पृष्ठभूमि के खिलाफ इसके भारी पैमाने और लुभावनी सुंदरता को प्रकट करते हुए, पूरे विशाल स्टेशन के चारों ओर एक अविश्वसनीय रूप से धीमी, विचारशील और महाकाव्य 360-डिग्री कक्षा बनाता है। नाटकीय वॉल्यूमेट्रिक गॉड रेज़ ब्रह्मांडीय धूल और निहारिकाओं के माध्यम से प्रवेश करती हैं, दूर के सितारों से तीव्र लेंस फ्लेयर्स, हर धात्विक सतह पर समृद्ध रिम लाइटिंग, और विस्मय और पारलौकिकता की एक जबरदस्त भावना। गहरा अंतरिक्ष जीवंत नीले-सफेद निहारिकाओं, अनगिनत टिमटिमाते सितारों, दूर की आकाशगंगाओं और धीरे-धीरे लुढ़कते क्षुद्रग्रहों से भरा है। वातावरण भावनात्मक रूप से चार्ज और गहरा सिनेमाई है। हंस ज़िमर की शैली में शक्तिशाली, उभरता हुआ महाकाव्य ऑर्केस्ट्रल सिनेमाई स्कोर, जिसमें गहरे गूंजते हॉर्न, भावनात्मक गाना बजानेवालों, गड़गड़ाहट वाले ड्रम और बढ़ती तारें एक दिल दहला देने वाले चरमोत्कर्ष तक पहुंचती हैं। एलोन मस्क की विशिष्ट आवाज में एक गहरा, प्रेरणादायक और भावुक वॉयसओवर ब्रह्मांड में शक्तिशाली रूप से गूंजता है: “हम मानवता के लिए यहां हैं।” पूरी तरह से अल्ट्रा स्लो मोशन, अति-विस्तृत धात्विक बनावट, यथार्थवादी चमकती रोशनी धीरे-धीरे स्पंदित होती है, सूक्ष्म वायुमंडलीय धुंध, फिल्मी रंग ग्रेडिंग, उथली गहराई, नरम सिनेमाई बोकेह, 24fps, 10-सेकंड की अवधि, अधिकतम भावनात्मक और नाटकीय प्रभाव, उत्कृष्ट विज्ञान-फाई मास्टरपीस। सिनेमाई ऑर्केस्ट्रल ट्रेलर संगीत, C माइनर में निरंतर स्ट्रिंग पैड एक गहरे, गुंजयमान पुरुष वॉयसओवर के लिए एक हार्मोनिक आधार प्रदान करते हैं, एक कम आवृत्ति वाला सिंथ ड्रोन मिक्स के निचले हिस्से में बैठता है, ऑर्केस्ट्रल पर्क्यूशन एक एकल, प्रतिध्वनित ताइको हिट के साथ प्रवेश करता है जिसके बाद एक बढ़ती हुई स्ट्रिंग ट्रेमोलो होती है, टेम्पो 70 BPM है, व्यवस्था में ब्रास स्वेल और स्टैकाटो सेलो ओस्टिनाटो के साथ एक क्रमिक क्रेसेन्डो है, उच्च-आवृत्ति वाले डिजिटल ग्लिच और एक सूक्ष्म सब-बास पल्स संक्रमण को विराम देते हैं, मुखर प्रस्तुति बोली जाती है, लयबद्ध है, और एक छोटे कमरे के रिवर्ब के साथ संसाधित है
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/03579db5fd50e4404e075a3291bbd702/thumbnails/thumbnail.jpg" width="600" alt="मानवता पर: गैलेक्टिक मेगास्ट्रक्चर">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3901)**
-
-**Author:** [DJQuantumTheory](https://x.com/DJQuantumTY) | **Source:** [Link](https://x.com/DJQuantumTY/status/2049511869208273193) | **Published:** Apr 29, 2026
-
----
-### अतिवास्तविक बंदर के अंडे से निकलने का दृश्य
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक अतिवास्तविक प्रॉम्प्ट जो एक पात्र के पैरों के पास पत्थर के अंडों से सफेद बंदरों के निकलने का वर्णन करता है।
-
-#### 📝 Prompt
-
-```
-उसके पैरों के पास 18 पत्थर के अंडे रखे हैं और एक ही समय में हर पत्थर के अंडे से एक सफेद बंदर बाहर निकलता है
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5066c1fab79775755f1f0d2b32c4b536/thumbnails/thumbnail.jpg" width="600" alt="अतिवास्तविक बंदर के अंडे से निकलने का दृश्य">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3893)**
-
-**Author:** [unseendigitalweb](https://x.com/AiMd7997) | **Source:** [Link](https://x.com/AiMd7997/status/2049466007433953318) | **Published:** Apr 29, 2026
-
----
-### Mayan Warrior Digital Codex
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक माया योद्धा का सिनेमाई वीडियो प्रॉम्प्ट, जो एक चमकते डिजिटल दायरे में प्राचीन ओब्सीडियन ब्लेड को सक्रिय कर रहा है।
-
-#### 📝 Prompt
-
-```
-एक डिजिटल सिमुलेशन के केंद्र में, एक शक्तिशाली माया योद्धा सूर्य के प्रकाश से एक प्राचीन ओब्सीडियन ब्लेड को सक्रिय करता है, जिससे पूरा पवित्र डिजिटल दायरा जागृत होकर चमकने लगता है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/edf8f08e94a4bf0cf73e2a1a601e7613/thumbnails/thumbnail.jpg" width="600" alt="Mayan Warrior Digital Codex">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3897)**
-
-**Author:** [🎩 vy6e9e.eth🎩🎲](https://x.com/vydjones) | **Source:** [Link](https://x.com/vydjones/status/2049447336435228979) | **Published:** Apr 29, 2026
-
----
-### इमेज-टू-वीडियो कैरेक्टर एनिमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक रेफरेंस इमेज से कैरेक्टर को एनिमेट करने के लिए मोशन इंस्ट्रक्शन प्रॉम्प्ट, जिसमें कैमरे की ओर मुड़ना, चलना और ऑर्बिटल मूवमेंट शामिल है।
-
-#### 📝 Prompt
-
-```
-दी गई इमेज से: सबसे पहले, वह कैमरे की ओर अपना शरीर घुमाती है। फिर, वह कैमरे की ओर चलती है जबकि कैमरा पीछे की ओर (dolly back) जाता है। दूसरे, जैसे-जैसे वह चलना जारी रखती है, उसके चारों ओर ऑर्बिट करें।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/95b3c88a803692e8811b7cf0983b5649/thumbnails/thumbnail.jpg" width="600" alt="इमेज-टू-वीडियो कैरेक्टर एनिमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3896)**
-
-**Author:** [David Liang](https://x.com/DavidLi36143625) | **Source:** [Link](https://x.com/DavidLi36143625/status/2049407773725855972) | **Published:** Apr 29, 2026
-
----
-### सिनेमैटिक स्पेसक्राफ्ट लॉन्च वीडियो प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक विशाल विमानवाहक पोत के आकार के अंतरिक्ष यान के पानी से उड़ान भरने और समुद्र के ऊपर यात्रा करने के नाटकीय दृश्य को उत्पन्न करने के लिए एक वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-एक अंतरिक्ष यान पानी पर तैर रहा है, यह आसमान में उड़ान भरता है और समुद्र के ऊपर यात्रा करता है, सिनेमैटिक, वायुमंडलीय लाइटिंग, नाटकीय 
-
-यह यान विशाल है, एक विमानवाहक पोत के आकार का, लेकिन गतिशील और तेज़ है
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/36d63291e458bc36e23261f89b5a280c/thumbnails/thumbnail.jpg" width="600" alt="सिनेमैटिक स्पेसक्राफ्ट लॉन्च वीडियो प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3845)**
-
-**Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2049372418670817336) | **Published:** Apr 29, 2026
-
----
-### पर्दा पतला होता जा रहा है
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमैटिक वीडियो प्रॉम्प्ट जिसमें एक महिला कैमरे के पास आती है और इस बारे में एक रहस्यमयी मोनोलॉग बोलती है कि पर्दा पतला होता जा रहा है।
-
-#### 📝 Prompt
-
-```
-वह कैमरे की ओर चलकर आती है, कैमरे में ऐसे देखती है जैसे वह उसके आर-पार देख रही हो, और कहती है “पर्दा पतला होता जा रहा है। जो हमेशा से है, वह गतिमान है....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5d417ae05965185dd10c31d8bf1f1702/thumbnails/thumbnail.jpg" width="600" alt="पर्दा पतला होता जा रहा है">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3841)**
-
-**Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2049371446309466422) | **Published:** Apr 29, 2026
-
----
-### क्वांटम वर्महोल यात्रा
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक अत्यधिक विज़ुअल वीडियो प्रॉम्प्ट, जिसमें क्रोम सूट पहने एक महिला को प्रकाश की गति से वर्महोल के माध्यम से यात्रा करते हुए दिखाया गया है।
-
-#### 📝 Prompt
-
-```
-प्रकाश की गति से एक क्वांटम वर्महोल के माध्यम से यात्रा, उन्नत क्रोम सूट में एक महिला, प्रकाश का घूमना, तीव्र प्रतिबिंब, दिमाग चकरा देने वाला
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/02528f40f2be2d6d0ab3d05ac5436888/thumbnails/thumbnail.jpg" width="600" alt="क्वांटम वर्महोल यात्रा">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3900)**
-
-**Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2049370810918510658) | **Published:** Apr 29, 2026
-
----
-### सिनेमैटिक वाइकिंग वॉरियर द्वंद्व
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 10 सेकंड का एक विस्तृत सिनेमैटिक सीक्वेंस, जिसमें एक एनीमे-शैली के वाइकिंग योद्धा को दावत के हॉल में चुनौती दी जा रही है, जिसमें जटिल कैमरा वर्क और लाइटिंग का उपयोग किया गया है।
-
-#### 📝 Prompt
-
-```
-10 सेकंड का वर्टिकल वीडियो। एक युवा एनीमे सेमी-रियलिस्टिक वाइकिंग योद्धा, छोटी बिना गुंथी लाल दाढ़ी, चमड़े की बनियान, भीड़भाड़ वाले दावत हॉल में आग की रोशनी के किनारे बैठा है। 0-5 सेकंड: मीडियम शॉट, एक विशाल अनुभवी योद्धा आग की लपटों के पार उसका मजाक उड़ाता है, उंगली उठाकर हंसता है, अन्य लोग भी शामिल होते हैं, टोरवाल्ड अपनी साधारण लोहे की कुल्हाड़ी को कसकर पकड़ता है, उसकी उंगलियां सफेद पड़ जाती हैं, ग्लेशियर जैसी नीली आंखें चुनौती देने वाले पर टिकी हैं लेकिन शरीर अभी भी बैठा हुआ है। 5-10 सेकंड: क्लोज-अप स्लो पुश-इन, टोरवाल्ड बिना एक शब्द कहे खड़ा हो जाता है, हाथ में कुल्हाड़ी है, आग की रोशनी उसके जबड़े पर नाच रही है, ऊंचे टेबल पर बैठा जारल अपना हाथ उठाकर द्वंद्व की मूक अनुमति देता है। गर्म फायर-ऑरेंज और चारकोल पैलेट, घना धुआं, इंक-लाइन शैडो, Castlevania और Vinland Saga का सौंदर्य। अंतिम दृश्य: टोरवाल्ड केंद्र के घेरे में कदम रखता है, कुल्हाड़ी तैयार है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d11c5305dce0fc9927954ff82fd8a8cd/thumbnails/thumbnail.jpg" width="600" alt="सिनेमैटिक वाइकिंग वॉरियर द्वंद्व">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3895)**
-
-**Author:** [Lionars](https://x.com/InterestedBrain) | **Source:** [Link](https://x.com/InterestedBrain/status/2049364995931025803) | **Published:** Apr 29, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2188,6 +2188,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-05T06:24:19.046Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-05T10:10:28.039Z</sub>
 
 </div>

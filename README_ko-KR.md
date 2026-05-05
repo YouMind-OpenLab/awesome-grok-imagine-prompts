@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **1392** |
+| 📝 총 프롬프트 수 | **1407** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-05-05** |
 
@@ -189,11 +189,242 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
-### Spaceship Repair Celebration Movie
+### Tesla 스테이션의 Star Wars 로봇
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex video generation prompt that combines multiple character reference images into a scene of a repaired spaceship.
+> 미래형 Tesla 충전소에서 일하는 Star Wars 드로이드 R2-D2와 C-3PO를 담은 창의적인 매시업 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+R2-D2가 커피를 내리고 갓 구운 도넛을 만들며, C-3PO가 창문을 닦고 타이어 공기압을 체크하는 미래의 Tesla 충전소 모습입니다.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/214742cc2704889e8af45c2c3316160c/thumbnails/thumbnail.jpg" width="600" alt="Tesla 스테이션의 Star Wars 로봇">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4200)**
+
+**작성자:** [Jp](https://x.com/Ke26843284James) | **출처:** [Link](https://x.com/Ke26843284James/status/2051406229721768100) | **게시일:** May 4, 2026
+
+---
+### 다스 베이더의 감정적인 과거
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 가면을 벗은 다스 베이더가 파드메와의 부드럽고 감정적인 기억을 회상하는 모습을 묘사한 내러티브 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+가면을 벗은 다스 베이더가 과거를 회상한다. 임신한 파드메가 부드러운 목소리로 말한다. "당신은 좋은 아빠가 될 거예요, 애니."
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/38f26fa5a50ae0681ea86570a0c0f1e7/thumbnails/thumbnail.jpg" width="600" alt="다스 베이더의 감정적인 과거">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4208)**
+
+**작성자:** [Giovanni Sierra](https://x.com/GamerGioHD) | **출처:** [Link](https://x.com/GamerGioHD/status/2051381511220301844) | **게시일:** May 4, 2026
+
+---
+### SF 함장 미션 연설
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 함장이 청중을 향해 몸을 돌려 연설하는 장면을 위한 비디오 생성 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+함장이 천천히 카메라를 향해 몸을 돌려 자신의 임무와 현재 수행 중인 작업에 대해 청중에게 이야기합니다
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b78705b69c59a493fe9e2ee50f48c483/thumbnails/thumbnail.jpg" width="600" alt="SF 함장 미션 연설">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4213)**
+
+**작성자:** [Make Britain Great Again](https://x.com/DragonFlam7530) | **출처:** [Link](https://x.com/DragonFlam7530/status/2051373210029940954) | **게시일:** May 4, 2026
+
+---
+### 닭의 스탠드업 코미디
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 스탠드업 코미디를 선보이는 닭을 주제로 한 유머러스한 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+산란의 고통에 대해 스탠드업 코미디를 하는 닭, "우리가 괜히 '꼬꼬댁' 하고 우는 게 아니라고요"
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6323d88c08bf16d78c02658f49511a13/thumbnails/thumbnail.jpg" width="600" alt="닭의 스탠드업 코미디">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4211)**
+
+**작성자:** [Lidy E Lane](https://x.com/LidyELane) | **출처:** [Link](https://x.com/LidyELane/status/2051372163312001486) | **게시일:** May 4, 2026
+
+---
+### 곰과 레슬링하는 남자 애니메이션
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 강가에서 남자와 곰이 레슬링하는 모습을 담은 10초 분량의 루프 영상용 고해상도 비디오 프롬프트로, 사실적인 조명과 털 질감을 특징으로 합니다.
+
+#### 📝 프롬프트
+
+```
+강가에서 주황색 점프슈트를 입은 남자가 커다란 곰과 장난스럽게 레슬링하며 춤을 추는 재미있고 현대적인 AI 버전 영상, 고품질의 사실적인 털 질감과 자연스럽고 유연한 움직임, 영화 같은 조명, 역동적인 액션 장면, 10초 분량의 끊김 없는 루프 애니메이션
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/abbd7820bc44348255dc35c4747fa575/thumbnails/thumbnail.jpg" width="600" alt="곰과 레슬링하는 남자 애니메이션">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4199)**
+
+**작성자:** [Moke](https://x.com/Moke1966758) | **출처:** [Link](https://x.com/Moke1966758/status/2051368435246891157) | **게시일:** May 4, 2026
+
+---
+### 벤치 근처를 주행하는 Cybertruck
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 기하학적 디자인 요소가 유사한 벤치 옆을 주행하는 Cybertruck 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+이 벤치 옆을 주행하는 Cybertruck, 벤치의 삼각형 부분은 @cybertruck 의 디자인을 반영함
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/773966fe9e5370b91f3a38cb8a96c67f/thumbnails/thumbnail.jpg" width="600" alt="벤치 근처를 주행하는 Cybertruck">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4210)**
+
+**작성자:** [sho](https://x.com/sho00092729) | **출처:** [Link](https://x.com/sho00092729/status/2051320060594295294) | **게시일:** May 4, 2026
+
+---
+### 도서관에서 책을 읽는 문어
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 어둡고 분위기 있는 도서관에서 강렬한 붉은색과 흑단색 조명을 배경으로 한, 초현실적인 문어의 모습을 담은 시네마틱 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+Cinematic shot of [a octopus reading a book, Dark library scene with tall bookshelf desk lamp casting red glow on open book marble table], 35mm 필름 미학, 드라마틱한 로우키 키아로스쿠로 조명, 강렬한 진홍색 포인트, 깊은 흑단색 그림자
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/768e598dc01f23bf99af267cec8ab693/thumbnails/thumbnail.jpg" width="600" alt="도서관에서 책을 읽는 문어">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4203)**
+
+**작성자:** [Jeremy Wilson](https://x.com/JeremyWilsiuwe) | **출처:** [Link](https://x.com/JeremyWilsiuwe/status/2051308510273581523) | **게시일:** May 4, 2026
+
+---
+### 키아로스쿠로 바로크의 우아함
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 풍부한 질감, 금색 포인트, 그리고 드라마틱한 키아로스쿠로 조명 스타일의 역동적인 구성을 특징으로 하는 영상 제작을 위한 상세한 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+강렬한 명암 대비가 돋보이는 드라마틱한 키아로스쿠로 조명
+• 풍부한 보석 톤, 깊이 있는 벨벳 소재, 화려한 금색 포인트
+• 역동적인 대각선 구도, 소용돌이치는 움직임, 에너지 넘치는 구성
+• 정교한 디테일, 흐르는 듯한 드레이프, 화려한 장식
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/74804b1c3c451cf370165bf7a8449f02/thumbnails/thumbnail.jpg" width="600" alt="키아로스쿠로 바로크의 우아함">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4204)**
+
+**작성자:** [Amandasatiro](https://x.com/Amandasatiro07) | **출처:** [Link](https://x.com/Amandasatiro07/status/2051295141768351992) | **게시일:** May 4, 2026
+
+---
+### 가스 거대 행성을 공전하는 우주 정거장
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 상세한 조명 효과와 평온한 분위기가 돋보이는, 거대한 우주 정거장의 궤도 모습을 담은 와이드 설정 숏(establishing shot)을 위한 시네마틱 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+와이드 설정 숏, 거대한 고리 모양의 우주 정거장이 가스 거대 행성을 공전하며 천천히 회전하고, 행성 구름 아래로는 번개가 번쩍입니다. 금속 표면 위로 렌즈 플레어가 화려하게 피어나고, 작은 우주선들이 고요하고 우아하게 도킹하거나 떠나갑니다. 멀리서 별들이 반짝이는, 심우주 문명을 묘사한 평온하고 기념비적인 장면입니다.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7c59f4675edc4f3511887b1f14342518/thumbnails/thumbnail.jpg" width="600" alt="가스 거대 행성을 공전하는 우주 정거장">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4205)**
+
+**작성자:** [LudovicCreator](https://x.com/LudovicCreator) | **출처:** [Link](https://x.com/LudovicCreator/status/2051225355353026740) | **게시일:** May 4, 2026
+
+---
+### AI 툴을 활용한 콘텐츠 크리에이터의 성장 여정
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 소셜 미디어 플랫폼에서 AI 툴을 활용해 성장해 나가는 크리에이터의 여정을 4개의 장면으로 구성한 종합 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+AI 툴을 활용해 Twitter/X에서 성장하는 콘텐츠 크리에이터의 모습을 담은 15초 분량의 미래지향적 시네마틱 영상을 제작하세요. 장면 1: 노트북 앞에 앉아 트윗 작성과 트렌드 분석에 어려움을 겪는 사람. 장면 2: 화면에 AI 어시스턴트가 나타나 바이럴 트윗 아이디어, 해시태그, 타겟 인사이트를 생성하고 게시물을 자동으로 예약하는 모습. 장면 3: 팔로워, 참여도, 좋아요, 리포스트 및 인기 게시물이 증가하는 Twitter/X 대시보드. 장면 4: 화면에 알림이 폭주하는 가운데 미소 짓는 행복한 크리에이터의 클로즈업. 미래지향적인 블루 인터페이스, 홀로그램 AI 비주얼, 빠른 화면 전환, 현대적인 소셜 미디어 감성, 사실적인 조명, 동기 부여가 되는 배경 음악.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/900bfb3816832177984720f30bdf408c/thumbnails/thumbnail.jpg" width="600" alt="AI 툴을 활용한 콘텐츠 크리에이터의 성장 여정">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4201)**
+
+**작성자:** [Ur Meer](https://x.com/UrMeer289) | **출처:** [Link](https://x.com/UrMeer289/status/2051212448913572253) | **게시일:** May 4, 2026
+
+---
+### 포스트 아포칼립스 소녀와 안드로이드 가디언
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 안드로이드의 보살핌을 받으며 보존된 포스트 아포칼립스 세계에 홀로 남은 마지막 인류 소녀를 주인공으로 한 영상의 상세 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+포스트 아포칼립스 세계에 살아남은 인류의 마지막 아름다운 소녀; 세상은 황폐해지지 않았으나 모든 인간은 사라졌고, 시설과 건물은 거의 그대로 남아 있으며, 인간을 닮은 안드로이드들이 소녀를 돌보며 그녀의 삶을 지원하는 모습.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a4fc8979ebbb2f9fb24031870f5b0b7b/thumbnails/thumbnail.jpg" width="600" alt="포스트 아포칼립스 소녀와 안드로이드 가디언">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4212)**
+
+**작성자:** [S.T.O](https://x.com/dhT1mlkOvovxVE4) | **출처:** [Link](https://x.com/dhT1mlkOvovxVE4/status/2051196347764875299) | **게시일:** May 4, 2026
+
+---
+### 기타 솔로 모션 시퀀스
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 기타 연주자가 솔로를 연주하며 극적인 효과를 위해 뒤로 몸을 젖히는 역동적인 애니메이션 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+기타 연주자가 자신의 기타를 바라보며 뒤로 몸을 젖히고, 다시 앞으로 돌아오는 기타 솔로 동작
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/58f9aa8dd217b04538a67bdc6592fdc5/thumbnails/thumbnail.jpg" width="600" alt="기타 솔로 모션 시퀀스">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4209)**
+
+**작성자:** [Debarasser La piste](https://x.com/smilking225) | **출처:** [Link](https://x.com/smilking225/status/2051194183076004212) | **게시일:** May 4, 2026
+
+---
+### Spaceship Movie and Crew Celebration
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex video generation prompt that directs a cinematic scene featuring a hovering spaceship and multiple characters celebrating together.
 
 #### 📝 프롬프트
 
@@ -201,18 +432,18 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 Create a movie from image 7 of the hovering spaceship and add all the characters from the other 6 images selected. Show all these characters watching the spaceship hovering and celebrating after fixing the spaceship
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2e9819ae4c250360bb5e67ee2e881126/thumbnails/thumbnail.jpg" width="600" alt="Spaceship Repair Celebration Movie">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dfdc4a53d3a13b460c79735fb66ebda3/thumbnails/thumbnail.jpg" width="600" alt="Spaceship Movie and Crew Celebration">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4149)**
 
 **작성자:** [Sparrow](https://x.com/Sparrow_X_) | **출처:** [Link](https://x.com/Sparrow_X_/status/2051174535630921894) | **게시일:** May 4, 2026
 
 ---
-### Bioluminescent Circuit Bee Symphony
+### Bioluminescent Bee Circuit
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex visual prompt for a bio-digital ecosystem where a bee is merged with electronic pathways and energy streams.
+> A creative motion prompt depicting a bee as a digital ecosystem where biological forms and electronic pathways merge.
 
 #### 📝 프롬프트
 
@@ -220,11 +451,68 @@ Create a movie from image 7 of the hovering spaceship and add all the characters
 A Bioluminescent Circuit Symphony depicting a bee where organic forms merge with electronic pathways. Illuminated by flowing black energy streams and pulsing yellow neural networks, creating a living digital ecosystem.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a6c2fc6db97299fb4705f0d7250e435/thumbnails/thumbnail.jpg" width="600" alt="Bioluminescent Circuit Bee Symphony">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8348419aa97caca2dffdb468fbaa9849/thumbnails/thumbnail.jpg" width="600" alt="Bioluminescent Bee Circuit">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4148)**
 
 **작성자:** [Missy AI](https://x.com/ai_empire33) | **출처:** [Link](https://x.com/ai_empire33/status/2051131551489081673) | **게시일:** May 4, 2026
+
+---
+### 실사풍 SF 도시 경관
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 거대한 도킹 구조물과 영화 '블레이드 러너' 스타일의 미학이 돋보이는 브루탈리즘 도시 경관을 위한 상세한 SF 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+실사풍 SF 도시 경관. 거대한 화물선이 수 킬로미터 높이의 메가스트럭처 벽면에서 불과 몇 인치 떨어진 곳에 떠 있으며, 도킹 클램프가 뻗어 나와 있습니다. 구조물은 밀도 높은 브루탈리즘 콘크리트와 노출된 배관으로 이루어져 있으며, 호박색 투광 조명이 안개를 뚫고 비칩니다. 중거리에는 3대의 소형 호위함이 보입니다. 아래에서 위를 올려다보는 로우 앵글 샷으로, 원근감을 강조한 거대한 규모를 표현했습니다. 분위기 있는 흐린 하늘. '블레이드 러너'와 '매스 이펙트'가 결합된 느낌. 영화 같은 조명, 8K 렌더링 품질.
+```
+
+<img src="https://cms-assets.youmind.com/media/1777968420882_avgxu1_HHcT46Ra0AABN0S.jpg" width="600" alt="실사풍 SF 도시 경관">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4206)**
+
+**작성자:** [AetherWave Studio LLC](https://x.com/AetherWave_ai) | **출처:** [Link](https://x.com/AetherWave_ai/status/2051130484202348875) | **게시일:** May 4, 2026
+
+---
+### 축하 모자 던지기 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 세 명의 캐릭터가 축하의 의미로 모자를 공중으로 던지는 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+세 명 모두 신나게 '이하(yeehaw)'를 외치며 축하의 의미로 모자를 공중으로 던지게 하세요!
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/796baf0ccd17b67279c1271187e44390/thumbnails/thumbnail.jpg" width="600" alt="축하 모자 던지기 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4207)**
+
+**작성자:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **출처:** [Link](https://x.com/Soaring2TheMoon/status/2051128143541391752) | **게시일:** May 4, 2026
+
+---
+### 주얼리와 손 클로즈업
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 손, 손톱, 그리고 특정 주얼리 아이템에 초점을 맞춘 영상 생성을 위한 상세한 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+오른쪽에 있는 남성은 아름답고 거친 손을 가지고 있으며, 아름답고 거친 중간 길이의 뾰족하고 굽은 손톱을 하고 있습니다. 그는 반지와 팔찌를 착용하고 있으며, 호박색 메달이 달린 진주 초커도 착용하고 있습니다.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fd1fca049242336d8ac08ad6411c63c1/thumbnails/thumbnail.jpg" width="600" alt="주얼리와 손 클로즈업">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4202)**
+
+**작성자:** [HiddenFantasies/FantasíasOcultas](https://x.com/JackStackedboy) | **출처:** [Link](https://x.com/JackStackedboy/status/2051112185141592572) | **게시일:** May 4, 2026
 
 ---
 ### Pearl and Diamond Empress
@@ -1839,294 +2127,6 @@ SCENE LOCK: 동일한 라군 건너편에서 고정된 삼각대 카메라, IMAG
 **작성자:** [Jenny BSN RN LMT](https://x.com/mommaleo) | **출처:** [Link](https://x.com/mommaleo/status/2049650868333555759) | **게시일:** Apr 30, 2026
 
 ---
-### 버블 속에서 보르도 와인을 마시는 여성
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 버블에 둘러싸인 채 고급 와인을 즐기는 여성의 모습을 담은 영화 같은 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-그녀는 주변의 모든 버블 속에서 세상에서 가장 비싼 보르도 와인을 마시며 세상 일을 완전히 잊고 있습니다
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0aac0f29acc03fdd3c1cb7a714bcacb1/thumbnails/thumbnail.jpg" width="600" alt="버블 속에서 보르도 와인을 마시는 여성">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3902)**
-
-**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2049625903160811870) | **게시일:** Apr 29, 2026
-
----
-### 버터 램프 봉헌 의식
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 전통 만트라와 함께 스투파(탑)에서 버터 램프를 봉헌하는 소녀들의 모습을 담은 영화 같은 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-소녀들이 스투파에 버터 램프를 봉헌하는 모습, 옴 마니 파드메 훔(Om mani paymay hong) 만트라를 읊으며 봉헌하는 방향으로 연출
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/89084d9cd3100d1b2654a39d3057c9be/thumbnails/thumbnail.jpg" width="600" alt="버터 램프 봉헌 의식">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3899)**
-
-**작성자:** [Tshering Norbu](https://x.com/Tshering_2025) | **출처:** [Link](https://x.com/Tshering_2025/status/2049623758240178567) | **게시일:** Apr 29, 2026
-
----
-### 1970년대 스케이터 여성
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 1970년대 스타일의 스케이터처럼 포즈를 취하고 특정 링거 티셔츠를 입은 여성을 생성하는 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-단색 배경을 뒤로하고 "MEME" 링거 티셔츠를 입은 1970년대 스타일의 스케이터 여성이 포즈를 취하고 있습니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/89d49f6afe685b78c380d4e1e4e75dcf/thumbnails/thumbnail.jpg" width="600" alt="1970년대 스케이터 여성">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3904)**
-
-**작성자:** [Shannon Lee](https://x.com/slpetitjean) | **출처:** [Link](https://x.com/slpetitjean/status/2049588997266255880) | **게시일:** Apr 29, 2026
-
----
-### 니콜라 테슬라 마법 애니메이션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 니콜라 테슬라가 마법처럼 맥동하는 숫자 '3'과 상호작용하는 모습을 담은 스타일리시한 애니메이션 프롬프트로, 기묘한 배경 음악이 깔려 있습니다.
-
-#### 📝 프롬프트
-
-```
-각 제목과 인물(니콜라 테슬라)의 그래픽 애니메이션을 제작하세요. 니콜라 테슬라가 맥동하며 마법처럼 보이는 숫자 '3'을 붙잡고 "숫자 3의 진정한 마법은 아직 밝혀지지 않았다!"라고 말합니다.
-배경 음악은 기묘하고 잠재의식을 자극하는 느낌이어야 합니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/33cecc71e0daba35756530bb075267c9/thumbnails/thumbnail.jpg" width="600" alt="니콜라 테슬라 마법 애니메이션">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3898)**
-
-**작성자:** [3.MiKeE.H](https://x.com/3MH) | **출처:** [Link](https://x.com/3MH/status/2049583435925045324) | **게시일:** Apr 29, 2026
-
----
-### 잊혀진 동굴의 발견
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 방랑자가 동굴 속에서 바이오메카닉 AI를 발견하는 모습을 담은 영화 같은 SF 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-홀로 남겨진 방랑자가 잊혀진 동굴 깊은 곳에서 놀라운 발견을 하게 됩니다. 그곳에서 그는 고대의 비밀을 간직한 거대한 바이오메카닉 AI인 YouMind와 마주하게 됩니다...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0c199350c7e92ffa9324993d39c43b6b/thumbnails/thumbnail.jpg" width="600" alt="잊혀진 동굴의 발견">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3908)**
-
-**작성자:** [aran leigh](https://x.com/aran_leigh) | **출처:** [Link](https://x.com/aran_leigh/status/2049574107390370253) | **게시일:** Apr 29, 2026
-
----
-### Quantum 4D 모션 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 양자 4D 고체 상태가 회전하고 왜곡되는 영상을 생성하기 위한 정교한 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-Quantum 4D 고체 상태가 회전하다가 잠시 멈춘 뒤, 왜곡되며 다시 원래 상태로 뒤집힘
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/70ae0ce4592d78c2a3537e0e55ba039c/thumbnails/thumbnail.jpg" width="600" alt="Quantum 4D 모션 프롬프트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3903)**
-
-**작성자:** [Shia Miller](https://x.com/StrategicProce) | **출처:** [Link](https://x.com/StrategicProce/status/2049521402118537318) | **게시일:** Apr 29, 2026
-
----
-### 서사적 승마 장면
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 승마, 환호하는 군중, 그리고 죄수가 포함된 다중 장면 서사 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-그녀가 말을 타고 달립니다. 군중이 손을 흔들며 환호합니다. 감옥에 갇힌 죄수는 그녀가 떠나는 모습을 지켜봅니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c66d7600605ee5698fd360d206c25793/thumbnails/thumbnail.jpg" width="600" alt="서사적 승마 장면">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3894)**
-
-**작성자:** [Rachele Kirk](https://x.com/JustForFunRach) | **출처:** [Link](https://x.com/JustForFunRach/status/2049518681856921642) | **게시일:** Apr 29, 2026
-
----
-### 인류에 관하여: 은하계 거대 구조물
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 지구와 유사한 행성을 공전하는 웅장한 우주 정거장을 생성하기 위한 매우 상세하고 영화적인 프롬프트입니다. 복잡한 금속 구조, 빛나는 플라즈마 고리, 그리고 장대한 카메라 움직임이 특징입니다.
-
-#### 📝 프롬프트
-
-```
-지구와 유사한 숨 막힐 듯 아름다운 푸른 행성을 공전하는 거대하고 신성한 미래형 우주 거대 구조물을 담은 영화 같은 8K 초고화질 극적 걸작 영상. 거대한 고리 모양의 우주 정거장에는 강렬한 푸른색 플라즈마 에너지 고리가 뿜어져 나오며 생생한 에너지를 발산하고, 복잡한 금속 건축물, 우뚝 솟은 첨탑, 정교한 산업 모듈, 그리고 빛나는 청록색 및 주황색 포인트가 특징입니다. 중앙 고리에서 뻗어 나온 거대한 모듈식 우주선 섹션은 빛나는 디테일을 보여주며, 전체 구조물은 장엄한 위용을 뽐내며 천천히 회전합니다. 카메라는 극도로 느린 슬로우 모션으로 거대한 정거장 전체를 360도 회전하며, 생동감 넘치는 푸른 행성, 소용돌이치는 구름, 깊은 우주를 배경으로 압도적인 규모와 숨 막히는 아름다움을 드러냅니다. 극적인 볼륨감의 빛줄기가 우주 먼지와 성운을 뚫고 지나가며, 먼 별들로부터 오는 강렬한 렌즈 플레어, 모든 금속 표면의 풍부한 림 라이팅이 경외감과 초월적인 느낌을 자아냅니다. 깊은 우주는 생생한 청백색 성운, 수많은 반짝이는 별, 먼 은하계, 그리고 천천히 굴러가는 소행성들로 가득 차 있습니다. 분위기는 감정적으로 충만하며 매우 영화적입니다. Hans Zimmer 스타일의 웅장하고 고조되는 오케스트라 영화 음악이 깊고 울림 있는 호른, 감성적인 합창단, 천둥 같은 드럼, 그리고 치솟는 현악기와 함께 심장이 뛰는 클라이맥스로 향합니다. Elon Musk의 독특한 목소리로 우주 전역에 울려 퍼지는 깊고 영감을 주며 열정적인 내레이션: “우리는 인류를 위해 여기에 있습니다.” 전체적으로 초슬로우 모션, 초정밀 금속 질감, 천천히 맥동하는 사실적인 빛, 미묘한 대기 안개, 영화적 색 보정, 얕은 피사계 심도, 부드러운 영화적 보케, 24fps, 10초 분량, 최대의 감정적이고 극적인 효과를 담은 초월적인 SF 걸작. 영화적 오케스트라 트레일러 음악, C 단조의 지속적인 현악 패드가 깊고 울림 있는 남성 내레이션을 위한 조화로운 배경을 제공하며, 저주파 신스 드론이 믹스 하단에 깔립니다. 오케스트라 타악기가 단일하고 울림 있는 태고(taiko) 타격으로 시작되어 상승하는 현악 트레몰로로 이어집니다. 템포는 70 BPM이며, 편곡은 브라스의 고조와 스타카토 첼로 오스티나토를 포함한 점진적인 크레센도를 특징으로 합니다. 고주파 디지털 글리치와 미묘한 서브 베이스 펄스가 전환점을 강조하며, 보컬은 낭독조로 리듬감 있게 전달되고 짧은 룸 리버브가 적용되었습니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/03579db5fd50e4404e075a3291bbd702/thumbnails/thumbnail.jpg" width="600" alt="인류에 관하여: 은하계 거대 구조물">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3901)**
-
-**작성자:** [DJQuantumTheory](https://x.com/DJQuantumTY) | **출처:** [Link](https://x.com/DJQuantumTY/status/2049511869208273193) | **게시일:** Apr 29, 2026
-
----
-### 초현실적인 원숭이 부화 장면
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 캐릭터의 발치에서 돌 알을 깨고 나오는 하얀 원숭이들을 묘사한 초현실적인 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-그녀의 발치에는 18개의 돌 알이 놓여 있고, 각 돌 알에서 하얀 원숭이 한 마리씩이 동시에 부화합니다
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5066c1fab79775755f1f0d2b32c4b536/thumbnails/thumbnail.jpg" width="600" alt="초현실적인 원숭이 부화 장면">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3893)**
-
-**작성자:** [unseendigitalweb](https://x.com/AiMd7997) | **출처:** [Link](https://x.com/AiMd7997/status/2049466007433953318) | **게시일:** Apr 29, 2026
-
----
-### 마야 전사 디지털 코덱스
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 빛나는 디지털 영역에서 고대 흑요석 검을 활성화하는 마야 전사의 모습을 담은 시네마틱 비디오 프롬프트.
-
-#### 📝 프롬프트
-
-```
-디지털 시뮬레이션의 중심에서 강력한 마야 전사가 햇빛으로 고대 흑요석 검을 활성화하자, 신성한 디지털 영역 전체가 깨어나며 빛을 발합니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/edf8f08e94a4bf0cf73e2a1a601e7613/thumbnails/thumbnail.jpg" width="600" alt="마야 전사 디지털 코덱스">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3897)**
-
-**작성자:** [🎩 vy6e9e.eth🎩🎲](https://x.com/vydjones) | **출처:** [Link](https://x.com/vydjones/status/2049447336435228979) | **게시일:** Apr 29, 2026
-
----
-### 이미지 기반 캐릭터 애니메이션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 참조 이미지를 사용하여 캐릭터에 애니메이션을 적용하기 위한 동작 지침 프롬프트로, 카메라를 향해 몸을 돌려 걷고 궤도 이동을 수행하는 내용을 포함합니다.
-
-#### 📝 프롬프트
-
-```
-제공된 이미지에서: 첫째, 그녀가 몸을 돌려 카메라를 정면으로 바라봅니다. 그런 다음, 카메라가 뒤로 물러나는(dolly back) 동안 그녀는 카메라를 향해 걸어옵니다. 둘째, 그녀가 계속 걷는 동안 카메라가 그녀를 중심으로 궤도 이동(orbit)합니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/95b3c88a803692e8811b7cf0983b5649/thumbnails/thumbnail.jpg" width="600" alt="이미지 기반 캐릭터 애니메이션">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3896)**
-
-**작성자:** [David Liang](https://x.com/DavidLi36143625) | **출처:** [Link](https://x.com/DavidLi36143625/status/2049407773725855972) | **게시일:** Apr 29, 2026
-
----
-### 영화 같은 우주선 발사 영상 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 항공모함 크기의 거대한 우주선이 바다에서 이륙하여 대양 위를 비행하는 드라마틱한 장면을 생성하기 위한 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-우주선이 물 위에 떠 있다가 하늘로 이륙하여 대양 위를 비행함, 영화 같은 느낌, 분위기 있는 조명, 드라마틱함 
-
-우주선은 항공모함 크기만큼 거대하지만, 기동성이 뛰어나고 빠름
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/36d63291e458bc36e23261f89b5a280c/thumbnails/thumbnail.jpg" width="600" alt="영화 같은 우주선 발사 영상 프롬프트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3845)**
-
-**작성자:** [David Avenue Media](https://x.com/davidavenueai) | **출처:** [Link](https://x.com/davidavenueai/status/2049372418670817336) | **게시일:** Apr 29, 2026
-
----
-### 얇아지는 장막
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 한 여성이 카메라로 다가와 장막이 얇아지고 있다는 신비로운 독백을 읊는 시네마틱 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-그녀가 카메라를 향해 걸어와 마치 카메라 너머를 꿰뚫어 보는 듯한 눈빛으로 말합니다. “장막이 점점 얇아지고 있어. 영원함이 움직이기 시작했지….”
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5d417ae05965185dd10c31d8bf1f1702/thumbnails/thumbnail.jpg" width="600" alt="얇아지는 장막">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3841)**
-
-**작성자:** [David Avenue Media](https://x.com/davidavenueai) | **출처:** [Link](https://x.com/davidavenueai/status/2049371446309466422) | **게시일:** Apr 29, 2026
-
----
-### 양자 웜홀 여행
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 광속 웜홀을 통과하는 크롬 슈트 차림의 여성을 묘사한 시각적으로 뛰어난 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-광속으로 양자 웜홀을 여행하는, 첨단 크롬 슈트를 입은 여성, 소용돌이치는 빛, 강렬한 반사, 경이로운 광경
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/02528f40f2be2d6d0ab3d05ac5436888/thumbnails/thumbnail.jpg" width="600" alt="양자 웜홀 여행">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3900)**
-
-**작성자:** [David Avenue Media](https://x.com/davidavenueai) | **출처:** [Link](https://x.com/davidavenueai/status/2049370810918510658) | **게시일:** Apr 29, 2026
-
----
-### 영화 같은 바이킹 전사의 결투
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 연회장에서 도전을 받는 애니메이션 스타일의 바이킹 전사를 담은 10초 분량의 정교한 시네마틱 영상으로, 복잡한 카메라 워킹과 조명 효과가 특징입니다.
-
-#### 📝 프롬프트
-
-```
-10초 분량의 세로형 영상. 애니메이션 스타일의 반실사풍 젊은 바이킹 전사가 땋지 않은 짧은 붉은 수염을 기르고 가죽 조끼를 입은 채, 사람들로 붐비는 연회장 모닥불가에 앉아 있다. 0~5초: 미디엄 샷. 덩치 큰 노련한 전사가 불길 너머에서 그를 비웃으며 손가락질하고, 주변 사람들도 합세한다. 토르발트(Torvald)는 평범한 철제 도끼를 꽉 쥐어 손마디가 하얗게 질리고, 빙하처럼 푸른 눈으로 도전자를 응시하지만 몸은 여전히 앉아 있다. 5~10초: 클로즈업 및 슬로우 푸시인. 토르발트가 말없이 자리에서 일어나 도끼를 든다. 불빛이 그의 턱 위로 일렁이고, 높은 탁자에 앉은 야를(jarl)이 손을 들어 결투를 묵인한다. 따뜻한 불꽃의 오렌지색과 숯 같은 어두운 색조, 짙은 연기, 잉크 선으로 표현된 그림자가 어우러져 '캐슬바니아(Castlevania)'와 '빈란드 사가(Vinland Saga)'를 연상시키는 미학을 보여준다. 마지막 장면: 토르발트가 도끼를 든 채 결투장 중앙으로 걸어 들어간다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d11c5305dce0fc9927954ff82fd8a8cd/thumbnails/thumbnail.jpg" width="600" alt="영화 같은 바이킹 전사의 결투">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=3895)**
-
-**작성자:** [Lionars](https://x.com/InterestedBrain) | **출처:** [Link](https://x.com/InterestedBrain/status/2049364995931025803) | **게시일:** Apr 29, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2188,6 +2188,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-05-05T06:24:14.300Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-05-05T10:10:23.731Z</sub>
 
 </div>

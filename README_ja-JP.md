@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **1392** |
+| 📝 プロンプト総数 | **1407** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-05-05** |
 
@@ -189,11 +189,242 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
-### Spaceship Repair Celebration Movie
+### Tesla ステーションのスター・ウォーズ・ロボット
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex video generation prompt that combines multiple character reference images into a scene of a repaired spaceship.
+> 未来的な Tesla 充電ステーションで働く、スター・ウォーズのドロイド R2-D2 と C-3PO を描いたクリエイティブなマッシュアッププロンプト。
+
+#### 📝 プロンプト
+
+```
+R2-D2 がコーヒーを淹れて焼きたてのドーナツを提供し、C-3PO が窓拭きやタイヤの空気入れを行う、未来の Tesla 充電ステーション。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/214742cc2704889e8af45c2c3316160c/thumbnails/thumbnail.jpg" width="600" alt="Tesla ステーションのスター・ウォーズ・ロボット">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4200)**
+
+**作者:** [Jp](https://x.com/Ke26843284James) | **ソース:** [Link](https://x.com/Ke26843284James/status/2051406229721768100) | **公開日:** May 4, 2026
+
+---
+### ダース・ベイダーの感情的な過去
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> マスクを外したダース・ベイダーが、パドメとの穏やかで感情的な記憶を振り返る様子を描写したナラティブプロンプト。
+
+#### 📝 プロンプト
+
+```
+マスクを外したダース・ベイダーが過去を回想する。妊娠中のパドメが優しい声で「あなたはきっと良い父親になるわ、アナキン」と語りかけている。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/38f26fa5a50ae0681ea86570a0c0f1e7/thumbnails/thumbnail.jpg" width="600" alt="ダース・ベイダーの感情的な過去">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4208)**
+
+**作者:** [Giovanni Sierra](https://x.com/GamerGioHD) | **ソース:** [Link](https://x.com/GamerGioHD/status/2051381511220301844) | **公開日:** May 4, 2026
+
+---
+### SF キャプテンのミッションスピーチ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> キャプテンが観客の方を向き、語りかけるシーンのための動画生成プロンプトです。
+
+#### 📝 プロンプト
+
+```
+キャプテンがゆっくりとカメラの方を向き、自身のミッションと現在の活動について観客に語りかける
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b78705b69c59a493fe9e2ee50f48c483/thumbnails/thumbnail.jpg" width="600" alt="SF キャプテンのミッションスピーチ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4213)**
+
+**作者:** [Make Britain Great Again](https://x.com/DragonFlam7530) | **ソース:** [Link](https://x.com/DragonFlam7530/status/2051373210029940954) | **公開日:** May 4, 2026
+
+---
+### ニワトリのスタンドアップコメディ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ニワトリがスタンドアップコメディを披露する、ユーモアあふれる動画プロンプトです。
+
+#### 📝 プロンプト
+
+```
+産卵の苦しみについて語るニワトリのスタンドアップコメディ。「私たちが『BaGack』なんて鳴き声を使うのには、それなりの理由があるのよ」
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6323d88c08bf16d78c02658f49511a13/thumbnails/thumbnail.jpg" width="600" alt="ニワトリのスタンドアップコメディ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4211)**
+
+**作者:** [Lidy E Lane](https://x.com/LidyELane) | **ソース:** [Link](https://x.com/LidyELane/status/2051372163312001486) | **公開日:** May 4, 2026
+
+---
+### 男性とクマがレスリングをするアニメーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 川辺で男性とクマがレスリングをする様子を描いた、リアルなライティングと毛並みが特徴の 10 秒間のループ動画用プロンプトです。
+
+#### 📝 プロンプト
+
+```
+オレンジ色のジャンプスーツを着た男性が、川辺で大きなクマと楽しそうにレスリングやダンスをしている様子を AI で現代風に表現。高品質でリアルな毛並みと滑らかで自然な動き、映画のようなライティング、ダイナミックなアクションシーン、10 秒間のシームレスなループアニメーション
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/abbd7820bc44348255dc35c4747fa575/thumbnails/thumbnail.jpg" width="600" alt="男性とクマがレスリングをするアニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4199)**
+
+**作者:** [Moke](https://x.com/Moke1966758) | **ソース:** [Link](https://x.com/Moke1966758/status/2051368435246891157) | **公開日:** May 4, 2026
+
+---
+### ベンチの近くを走行する Cybertruck
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 幾何学的なデザイン要素が共通するベンチの横を Cybertruck が走行する様子を描写するためのビデオプロンプトです。
+
+#### 📝 プロンプト
+
+```
+このベンチの横を走行する Cybertruck。ベンチの三角形の部分が @cybertruck と調和している
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/773966fe9e5370b91f3a38cb8a96c67f/thumbnails/thumbnail.jpg" width="600" alt="ベンチの近くを走行する Cybertruck">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4210)**
+
+**作者:** [sho](https://x.com/sho00092729) | **ソース:** [Link](https://x.com/sho00092729/status/2051320060594295294) | **公開日:** May 4, 2026
+
+---
+### 図書館で読書をするタコ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 暗く雰囲気のある図書館で、ドラマチックな赤と黒のライティングに照らされたタコのシュールなシーンを描くためのシネマティックなプロンプトです。
+
+#### 📝 プロンプト
+
+```
+シネマティックなショット [本を読むタコ、高い本棚のある暗い図書館、デスクランプが本を照らす赤い光、大理石のテーブル]、35mm フィルムの美学、ドラマチックなローキーのキアロスクーロ（明暗法）ライティング、鮮烈な深紅のアクセント、漆黒の影
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/768e598dc01f23bf99af267cec8ab693/thumbnails/thumbnail.jpg" width="600" alt="図書館で読書をするタコ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4203)**
+
+**作者:** [Jeremy Wilson](https://x.com/JeremyWilsiuwe) | **ソース:** [Link](https://x.com/JeremyWilsiuwe/status/2051308510273581523) | **公開日:** May 4, 2026
+
+---
+### キアロスクーロ：バロック様式の優雅さ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 豊かな質感、ゴールドのアクセント、そしてドラマチックなキアロスクーロ（明暗法）のライティングスタイルによる、エネルギッシュな構図のビデオ向け詳細プロンプト。
+
+#### 📝 プロンプト
+
+```
+光と影のコントラストが際立つ、ドラマチックなキアロスクーロ（明暗法）のライティング
+• 豊かなジュエルトーン、深みのあるベルベット、贅沢なゴールドのアクセント
+• ダイナミックな対角線、渦巻くような動き、エネルギッシュな構図
+• 装飾的なディテール、流れるようなドレープ、精巧なインテリア
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/74804b1c3c451cf370165bf7a8449f02/thumbnails/thumbnail.jpg" width="600" alt="キアロスクーロ：バロック様式の優雅さ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4204)**
+
+**作者:** [Amandasatiro](https://x.com/Amandasatiro07) | **ソース:** [Link](https://x.com/Amandasatiro07/status/2051295141768351992) | **公開日:** May 4, 2026
+
+---
+### 巨大ガス惑星を周回する宇宙ステーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 巨大な宇宙ステーションが軌道上にある様子を捉えた、映画のようなワイドショットのビデオプロンプト。繊細なライティング効果と静謐な雰囲気が特徴です。
+
+#### 📝 プロンプト
+
+```
+ワイドショット。巨大なリング状の宇宙ステーションが巨大ガス惑星の軌道をゆっくりと回転している。眼下の惑星の雲間では稲妻が瞬き、金属の表面にはレンズフレアが広がる。小さな宇宙船が優雅に静寂の中でドッキングと離脱を繰り返し、遠方では星々が輝いている。深宇宙文明を描いた、静謐で壮大な光景。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7c59f4675edc4f3511887b1f14342518/thumbnails/thumbnail.jpg" width="600" alt="巨大ガス惑星を周回する宇宙ステーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4205)**
+
+**作者:** [LudovicCreator](https://x.com/LudovicCreator) | **ソース:** [Link](https://x.com/LudovicCreator/status/2051225355353026740) | **公開日:** May 4, 2026
+
+---
+### AI ツールを活用したコンテンツクリエイターの成長ジャーニー
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> AI ツールを活用してソーシャルメディアプラットフォームで成長を遂げるクリエイターの軌跡を、4 つのシーンで構成した包括的なプロンプトです。
+
+#### 📝 プロンプト
+
+```
+AI ツールを活用して Twitter/X で成長するコンテンツクリエイターを描いた、15 秒間の近未来的なシネマティック動画を作成してください。シーン 1：ノート PC の前で、ツイートの作成やトレンド分析に苦戦している様子。シーン 2：画面上に AI アシスタントが現れ、バズるツイートのアイデア、ハッシュタグ、オーディエンスのインサイトを生成し、投稿を自動的にスケジュールする様子。シーン 3：Twitter/X のダッシュボードで、フォロワー数、エンゲージメント、いいね、リポスト、トレンド入りした投稿が増加していく様子。シーン 4：画面上の通知が爆発的に増える中、満足げに微笑むクリエイターのアップ。近未来的なブルーのインターフェース、ホログラフィックな AI ビジュアル、テンポの良い切り替え、モダンなソーシャルメディアの美学、リアルなライティング、モチベーションを高めるバックグラウンドミュージック。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/900bfb3816832177984720f30bdf408c/thumbnails/thumbnail.jpg" width="600" alt="AI ツールを活用したコンテンツクリエイターの成長ジャーニー">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4201)**
+
+**作者:** [Ur Meer](https://x.com/UrMeer289) | **ソース:** [Link](https://x.com/UrMeer289/status/2051212448913572253) | **公開日:** May 4, 2026
+
+---
+### 終末世界の少女とアンドロイドの守護者たち
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 文明崩壊後の世界で、人間にそっくりなアンドロイドたちに守られて暮らす最後の人類の少女を描いた動画用プロンプト。
+
+#### 📝 プロンプト
+
+```
+文明崩壊後の世界で生きる最後の人類の少女。世界は荒廃しておらず、施設や建物は当時のまま残されている。人間にそっくりなアンドロイドたちが、その少女の世話をし、生活を支えている。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a4fc8979ebbb2f9fb24031870f5b0b7b/thumbnails/thumbnail.jpg" width="600" alt="終末世界の少女とアンドロイドの守護者たち">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4212)**
+
+**作者:** [S.T.O](https://x.com/dhT1mlkOvovxVE4) | **ソース:** [Link](https://x.com/dhT1mlkOvovxVE4/status/2051196347764875299) | **公開日:** May 4, 2026
+
+---
+### ギターソロのモーションシーケンス
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ギタープレイヤーがソロを演奏し、ドラマチックな効果のために後ろにのけぞる様子を描いたダイナミックなアニメーションプロンプトです。
+
+#### 📝 プロンプト
+
+```
+ギタープレイヤーがギターを見つめながら後ろにのけぞり、その後再び元の姿勢に戻るギターソロの様子
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/58f9aa8dd217b04538a67bdc6592fdc5/thumbnails/thumbnail.jpg" width="600" alt="ギターソロのモーションシーケンス">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4209)**
+
+**作者:** [Debarasser La piste](https://x.com/smilking225) | **ソース:** [Link](https://x.com/smilking225/status/2051194183076004212) | **公開日:** May 4, 2026
+
+---
+### Spaceship Movie and Crew Celebration
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex video generation prompt that directs a cinematic scene featuring a hovering spaceship and multiple characters celebrating together.
 
 #### 📝 プロンプト
 
@@ -201,18 +432,18 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 Create a movie from image 7 of the hovering spaceship and add all the characters from the other 6 images selected. Show all these characters watching the spaceship hovering and celebrating after fixing the spaceship
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2e9819ae4c250360bb5e67ee2e881126/thumbnails/thumbnail.jpg" width="600" alt="Spaceship Repair Celebration Movie">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dfdc4a53d3a13b460c79735fb66ebda3/thumbnails/thumbnail.jpg" width="600" alt="Spaceship Movie and Crew Celebration">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4149)**
 
 **作者:** [Sparrow](https://x.com/Sparrow_X_) | **ソース:** [Link](https://x.com/Sparrow_X_/status/2051174535630921894) | **公開日:** May 4, 2026
 
 ---
-### Bioluminescent Circuit Bee Symphony
+### Bioluminescent Bee Circuit
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex visual prompt for a bio-digital ecosystem where a bee is merged with electronic pathways and energy streams.
+> A creative motion prompt depicting a bee as a digital ecosystem where biological forms and electronic pathways merge.
 
 #### 📝 プロンプト
 
@@ -220,11 +451,68 @@ Create a movie from image 7 of the hovering spaceship and add all the characters
 A Bioluminescent Circuit Symphony depicting a bee where organic forms merge with electronic pathways. Illuminated by flowing black energy streams and pulsing yellow neural networks, creating a living digital ecosystem.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a6c2fc6db97299fb4705f0d7250e435/thumbnails/thumbnail.jpg" width="600" alt="Bioluminescent Circuit Bee Symphony">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8348419aa97caca2dffdb468fbaa9849/thumbnails/thumbnail.jpg" width="600" alt="Bioluminescent Bee Circuit">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4148)**
 
 **作者:** [Missy AI](https://x.com/ai_empire33) | **ソース:** [Link](https://x.com/ai_empire33/status/2051131551489081673) | **公開日:** May 4, 2026
+
+---
+### フォトリアルな SF 都市景観
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 巨大なドッキング構造物と「ブレードランナー」のような映画的美学を備えた、ブルータリズム様式の都市景観を描く詳細な SF プロンプト。
+
+#### 📝 プロンプト
+
+```
+フォトリアルな SF 都市景観。巨大な貨物船が、ドッキングクランプを伸ばした高さ数キロメートルの巨大構造物の壁面からわずか数センチの距離をホバリングしている。構造物は高密度のブルータリズム様式のコンクリートと露出した配管で構成され、琥珀色の投光器が霧の中にぼんやりと光を放っている。中距離には 3 機の小型護衛艦が見える。下から見上げるアングルで、遠近法によるスケール感を強調。ムードのある曇り空。「ブレードランナー」と「マスエフェクト」を融合させたような世界観。映画のようなライティング、8K レンダリング品質。
+```
+
+<img src="https://cms-assets.youmind.com/media/1777968420882_avgxu1_HHcT46Ra0AABN0S.jpg" width="600" alt="フォトリアルな SF 都市景観">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4206)**
+
+**作者:** [AetherWave Studio LLC](https://x.com/AetherWave_ai) | **ソース:** [Link](https://x.com/AetherWave_ai/status/2051130484202348875) | **公開日:** May 4, 2026
+
+---
+### 帽子を投げて祝う動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 3 人のキャラクターが帽子を空中に投げてお祝いする動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+3 人全員で「イェーイ！」と叫びながら、帽子を空中に投げてお祝いする様子を描写してください！
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/796baf0ccd17b67279c1271187e44390/thumbnails/thumbnail.jpg" width="600" alt="帽子を投げて祝う動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4207)**
+
+**作者:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **ソース:** [Link](https://x.com/Soaring2TheMoon/status/2051128143541391752) | **公開日:** May 4, 2026
+
+---
+### ジュエリーと手のクローズアップ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 手、爪、特定のジュエリーに焦点を当てた、動画生成のための詳細なプロンプト。
+
+#### 📝 プロンプト
+
+```
+右側の男性は、美しく汚れた手をしており、美しく汚れた中くらいの長さの尖ったカーブした爪をしている。彼は指輪とブレスレットを身につけており、琥珀のメダルが付いたパールのチョーカーも着用している。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fd1fca049242336d8ac08ad6411c63c1/thumbnails/thumbnail.jpg" width="600" alt="ジュエリーと手のクローズアップ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4202)**
+
+**作者:** [HiddenFantasies/FantasíasOcultas](https://x.com/JackStackedboy) | **ソース:** [Link](https://x.com/JackStackedboy/status/2051112185141592572) | **公開日:** May 4, 2026
 
 ---
 ### Pearl and Diamond Empress
@@ -1839,294 +2127,6 @@ SCENE LOCK: 三脚で固定された静止カメラ、ラグーンの対岸か�
 **作者:** [Jenny BSN RN LMT](https://x.com/mommaleo) | **ソース:** [Link](https://x.com/mommaleo/status/2049650868333555759) | **公開日:** Apr 30, 2026
 
 ---
-### 泡に囲まれてボルドーワインを楽しむ女性
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 高価なワイングラスを手に、泡に囲まれて優雅なひとときを過ごす女性を描いたシネマティックな動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-周囲の泡に包まれながら、世界で最も高価なボルドーワインを味わい、周りの世界を忘れて没頭する女性
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0aac0f29acc03fdd3c1cb7a714bcacb1/thumbnails/thumbnail.jpg" width="600" alt="泡に囲まれてボルドーワインを楽しむ女性">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3902)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2049625903160811870) | **公開日:** Apr 29, 2026
-
----
-### バターランプ供養の儀式
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ストゥーパで伝統的なマントラを唱えながらバターランプを供養する少女たちの様子を描いた、映画のようなビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-少女たちがストゥーパにバターランプを供養する様子。供養のための指示を反映し、「オン・マニ・ペメ・フン」のマントラを添えて。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/89084d9cd3100d1b2654a39d3057c9be/thumbnails/thumbnail.jpg" width="600" alt="バターランプ供養の儀式">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3899)**
-
-**作者:** [Tshering Norbu](https://x.com/Tshering_2025) | **ソース:** [Link](https://x.com/Tshering_2025/status/2049623758240178567) | **公開日:** Apr 29, 2026
-
----
-### 1970 年代のスケーターガール
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 1970 年代風のスケーターとしてポーズをとる女性を生成するためのビデオプロンプト。特定のリンガー T シャツを着用しています。
-
-#### 📝 プロンプト
-
-```
-無地の背景を前に、「MEME」と書かれたリンガー T シャツを着用し、1970 年代風のスケーターとしてポーズをとる女性。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/89d49f6afe685b78c380d4e1e4e75dcf/thumbnails/thumbnail.jpg" width="600" alt="1970 年代のスケーターガール">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3904)**
-
-**作者:** [Shannon Lee](https://x.com/slpetitjean) | **ソース:** [Link](https://x.com/slpetitjean/status/2049588997266255880) | **公開日:** Apr 29, 2026
-
----
-### ニコラ・テスラ の魔法のアニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ニコラ・テスラ が魔法のように脈動する数字の「3」と対話し、不気味な背景音楽が流れるスタイリッシュなアニメーションプロンプト。
-
-#### 📝 プロンプト
-
-```
-各見出しのグラフィックアニメーションを作成してください。ニコラ・テスラ が脈動する魔法のような数字の「3」を掴み、「3 の真の魔法はまだ明かされていない！」と語りかける様子を描写します。
-背景音楽は不気味で潜在意識に訴えかけるようなものにしてください。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/33cecc71e0daba35756530bb075267c9/thumbnails/thumbnail.jpg" width="600" alt="ニコラ・テスラ の魔法のアニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3898)**
-
-**作者:** [3.MiKeE.H](https://x.com/3MH) | **ソース:** [Link](https://x.com/3MH/status/2049583435925045324) | **公開日:** Apr 29, 2026
-
----
-### 忘れ去られた洞窟での発見
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 洞窟内でバイオメカニカルな AI を発見する放浪者を描いた、映画のような SF 動画用プロンプト。
-
-#### 📝 プロンプト
-
-```
-忘れ去られた洞窟の奥深くで、一人の放浪者が驚くべき発見をする。そこには、古代の秘密を宿した巨大なバイオメカニカルな YouMind が待ち受けていた……
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0c199350c7e92ffa9324993d39c43b6b/thumbnails/thumbnail.jpg" width="600" alt="忘れ去られた洞窟での発見">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3908)**
-
-**作者:** [aran leigh](https://x.com/aran_leigh) | **ソース:** [Link](https://x.com/aran_leigh/status/2049574107390370253) | **公開日:** Apr 29, 2026
-
----
-### Quantum 4D Motion プロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 量子 4D 固体が回転および変形する動画を生成するための高度なプロンプトです。
-
-#### 📝 プロンプト
-
-```
-量子 4D 固体が回転して一時停止し、その後変形して元の状態に戻る
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/70ae0ce4592d78c2a3537e0e55ba039c/thumbnails/thumbnail.jpg" width="600" alt="Quantum 4D Motion プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3903)**
-
-**作者:** [Shia Miller](https://x.com/StrategicProce) | **ソース:** [Link](https://x.com/StrategicProce/status/2049521402118537318) | **公開日:** Apr 29, 2026
-
----
-### 物語の乗馬
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 乗馬、歓声を上げる群衆、そして囚人が登場するマルチシーンの物語プロンプトです。
-
-#### 📝 プロンプト
-
-```
-彼女は馬に乗っている。群衆が手を振り、歓声を上げている。囚人は牢獄の中から彼女が去っていくのを見つめている。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c66d7600605ee5698fd360d206c25793/thumbnails/thumbnail.jpg" width="600" alt="物語の乗馬">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3894)**
-
-**作者:** [Rachele Kirk](https://x.com/JustForFunRach) | **ソース:** [Link](https://x.com/JustForFunRach/status/2049518681856921642) | **公開日:** Apr 29, 2026
-
----
-### 人類について：銀河の巨大構造物
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 地球に似た惑星を周回する壮大な宇宙ステーションを生成するための、非常に詳細で映画のようなプロンプトです。複雑な金属構造、輝くプラズマリング、壮大なカメラワークが特徴です。
-
-#### 📝 プロンプト
-
-```
-地球に似た息をのむほど美しい青い惑星を周回する、神々しいほど巨大な未来の宇宙メガストラクチャーを描いた、映画のようなフォトリアルな 8K 超ドラマチックな傑作ビデオ。巨大なリング状の宇宙ステーションには、圧倒的なエネルギーを放ち脈動する強烈な青いプラズマリング、複雑な金属建築、そびえ立つ尖塔、複雑な産業モジュール、そしてシアンとオレンジの輝くアクセントが施されています。中央のリングからは巨大なモジュール式宇宙船のセクションが伸びており、構造全体が壮大な威厳を持ってゆっくりと回転しています。カメラは極めてスローモーションで、巨大なステーションの周囲を信じられないほどゆっくりと慎重に 360 度周回し、鮮やかな青い惑星、渦巻く雲、深宇宙を背景に、その圧倒的なスケールと息をのむような美しさを明らかにします。ドラマチックなボリューム感のあるゴッドレイが宇宙の塵や星雲を突き抜け、遠くの星からの強烈なレンズフレア、すべての金属表面に豊かなリムライトが当たり、畏敬の念と超越的な感覚を呼び起こします。深宇宙は鮮やかな青と白の星雲、数え切れないほどのきらめく星々、遠くの銀河、そしてゆっくりと回転する小惑星で満たされています。雰囲気は感情的に高揚しており、非常に映画的です。ハンス・ジマーのスタイルで、深く響くホルン、感情的な合唱、雷鳴のようなドラム、そして高揚するストリングスを伴う、力強く壮大なオーケストラの映画音楽が、心臓が鼓動するようなクライマックスへと向かいます。イーロン・マスクの特徴的な声で、深く、刺激的で、情熱的なナレーションが宇宙に力強く響き渡ります。「私たちは人類のためにここにいる」。全体を通して超スローモーション、超詳細な金属テクスチャ、ゆっくりと脈動するリアルな輝き、繊細な大気の霞、フィルムのようなカラーグレーディング、浅い被写界深度、柔らかなシネマティックボケ、24fps、10 秒の尺、最大限の感情的・ドラマチックなインパクト、超越的な SF の傑作。映画のようなオーケストラ・トレーラー音楽。ハ短調の持続的なストリング・パッドが、深く響く男性ナレーションのハーモニックな基盤を提供。ミックスの底部には低周波のシンセドローン。オーケストラ・パーカッションが、単一の反響する太鼓のヒットとそれに続く上昇するストリングスのトレモロで加わる。テンポは 70 BPM。アレンジはブラスのうねりとスタッカートのチェロ・オスティナートを伴う段階的なクレッシェンドが特徴。高周波のデジタルグリッチと繊細なサブベースのパルスがトランジションを強調。ボーカルは語りかけるようなリズムで、短いルームリバーブで処理されている。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/03579db5fd50e4404e075a3291bbd702/thumbnails/thumbnail.jpg" width="600" alt="人類について：銀河の巨大構造物">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3901)**
-
-**作者:** [DJQuantumTheory](https://x.com/DJQuantumTY) | **ソース:** [Link](https://x.com/DJQuantumTY/status/2049511869208273193) | **公開日:** Apr 29, 2026
-
----
-### シュールな猿の孵化シーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> キャラクターの足元で、石の卵から白い猿が孵化する様子を描いたシュールなプロンプト。
-
-#### 📝 プロンプト
-
-```
-彼女の足元には 18 個の石の卵があり、それぞれの石の卵から一斉に白い猿が孵化する
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5066c1fab79775755f1f0d2b32c4b536/thumbnails/thumbnail.jpg" width="600" alt="シュールな猿の孵化シーン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3893)**
-
-**作者:** [unseendigitalweb](https://x.com/AiMd7997) | **ソース:** [Link](https://x.com/AiMd7997/status/2049466007433953318) | **公開日:** Apr 29, 2026
-
----
-### マヤの戦士のデジタル・コーデックス
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 光り輝くデジタル領域で、古代の黒曜石の刃を起動させるマヤの戦士を描いたシネマティックな動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-デジタル・シミュレーションの中心で、力強いマヤの戦士が太陽の光を使い古代の黒曜石の刃を起動させる。その瞬間、神聖なデジタル領域全体が目覚め、光り輝き始める。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/edf8f08e94a4bf0cf73e2a1a601e7613/thumbnails/thumbnail.jpg" width="600" alt="マヤの戦士のデジタル・コーデックス">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3897)**
-
-**作者:** [🎩 vy6e9e.eth🎩🎲](https://x.com/vydjones) | **ソース:** [Link](https://x.com/vydjones/status/2049447336435228979) | **公開日:** Apr 29, 2026
-
----
-### 画像から動画へのキャラクターアニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 参照画像からキャラクターをアニメーション化するためのモーション指示プロンプト。カメラに向かって振り向き、歩きながら旋回する動きを含みます。
-
-#### 📝 プロンプト
-
-```
-指定された画像から：まず、彼女が体を回転させてカメラの方を向きます。次に、カメラが引きながら、彼女がカメラに向かって歩きます。続いて、彼女が歩き続ける間、カメラが彼女の周囲を旋回します。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/95b3c88a803692e8811b7cf0983b5649/thumbnails/thumbnail.jpg" width="600" alt="画像から動画へのキャラクターアニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3896)**
-
-**作者:** [David Liang](https://x.com/DavidLi36143625) | **ソース:** [Link](https://x.com/DavidLi36143625/status/2049407773725855972) | **公開日:** Apr 29, 2026
-
----
-### 映画のような宇宙船発進のビデオプロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 空母サイズの巨大な宇宙船が海面から離陸し、大海原を飛行するドラマチックなシーンを生成するためのビデオプロンプトです。
-
-#### 📝 プロンプト
-
-```
-宇宙船が水面に浮かんでいる。空に向かって離陸し、大海原の上を飛行する。映画のような映像、雰囲気のあるライティング、ドラマチックな演出。
-
-宇宙船は空母ほどの大きさだが、機動力があり、高速で移動する。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/36d63291e458bc36e23261f89b5a280c/thumbnails/thumbnail.jpg" width="600" alt="映画のような宇宙船発進のビデオプロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3845)**
-
-**作者:** [David Avenue Media](https://x.com/davidavenueai) | **ソース:** [Link](https://x.com/davidavenueai/status/2049372418670817336) | **公開日:** Apr 29, 2026
-
----
-### 薄れゆく境界
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 女性がカメラに近づき、境界が薄れつつあることについて謎めいた独白を語る、映画のようなビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-彼女はカメラに向かって歩み寄り、まるでレンズの向こう側を見透かすようにカメラを見つめ、こう語りかける。「境界が薄れつつある。永遠なるものは、常に動き続けている……」
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5d417ae05965185dd10c31d8bf1f1702/thumbnails/thumbnail.jpg" width="600" alt="薄れゆく境界">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3841)**
-
-**作者:** [David Avenue Media](https://x.com/davidavenueai) | **ソース:** [Link](https://x.com/davidavenueai/status/2049371446309466422) | **公開日:** Apr 29, 2026
-
----
-### 量子ワームホール旅行
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> クロームスーツを身にまとった女性が光速のワームホールを旅する様子を描いた、非常に視覚的なビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-量子ワームホールを光速で移動する、先進的なクロームスーツを身にまとった女性。光が渦巻き、強烈な反射が交錯する、驚異的な光景。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/02528f40f2be2d6d0ab3d05ac5436888/thumbnails/thumbnail.jpg" width="600" alt="量子ワームホール旅行">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3900)**
-
-**作者:** [David Avenue Media](https://x.com/davidavenueai) | **ソース:** [Link](https://x.com/davidavenueai/status/2049370810918510658) | **公開日:** Apr 29, 2026
-
----
-### 映画のようなバイキング戦士の決闘
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 宴会場で挑戦を受けるアニメスタイルのバイキング戦士を描いた、複雑なカメラワークとライティングが特徴の 10 秒間のシネマティックな映像。
-
-#### 📝 プロンプト
-
-```
-10 秒間の縦型動画。アニメ調のセミリアルな若いバイキングの戦士。編み込んでいない短い赤髭、レザーベストを着用し、混雑した宴会場の焚き火のそばに座っている。0～5 秒：ミドルショット。焚き火の向こう側で、巨漢のベテラン戦士が彼を指さして嘲笑し、周囲もそれに加わる。トールヴァルトは素朴な鉄の斧を握りしめ、拳を白くさせながら、挑戦者を氷のような青い瞳で見据えているが、体は座ったまま。5～10 秒：クローズアップ、スロープッシュイン。トールヴァルトは無言で立ち上がり、斧を手に取る。焚き火の光が彼の顎を照らし、上座のヤール（首長）が手を挙げて決闘を静かに許可する。温かみのあるファイアオレンジとチャコールグレーの色彩、立ち込める煙、インクラインの影。キャッスルヴァニアとヴィンランド・サガを融合させたような美学。ラスト：トールヴァルトが中央の円陣に踏み込み、斧を構える。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d11c5305dce0fc9927954ff82fd8a8cd/thumbnails/thumbnail.jpg" width="600" alt="映画のようなバイキング戦士の決闘">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=3895)**
-
-**作者:** [Lionars](https://x.com/InterestedBrain) | **ソース:** [Link](https://x.com/InterestedBrain/status/2049364995931025803) | **公開日:** Apr 29, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2188,6 +2188,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-05-05T06:24:13.082Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-05-05T10:10:22.271Z</sub>
 
 </div>
