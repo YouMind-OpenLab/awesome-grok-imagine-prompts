@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1407** |
+| 📝 Total Prompts | **1425** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-07** |
 
@@ -189,6 +189,348 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### เสียงทรงพลังดุจเทพเจ้าและวิดีโอประตูมิติข้ามเวลา
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวภาพยนตร์ที่นำเสนอเสียงอันทรงพลังดุจเทพเจ้า กำลังเตือนเหล่านักเดินทางถึงความเสี่ยงในการก้าวเข้าสู่ประตูมิติข้ามเวลาอันลึกลับ
+
+#### 📝 Prompt
+
+```
+เสียงอันทรงพลังดุจเทพเจ้าดังกึกก้องขึ้นว่า นี่คือประตูมิติข้ามเวลา จงเข้าด้วยความเสี่ยงของเจ้าเอง เจ้ามนุษย์ผู้ต่ำต้อย
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f61b4328631947cf9c827aeff541f348/thumbnails/thumbnail.jpg" width="600" alt="เสียงทรงพลังดุจเทพเจ้าและวิดีโอประตูมิติข้ามเวลา">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4343)**
+
+**Author:** [Make Britain Great Again](https://x.com/DragonFlam7530) | **Source:** [Link](https://x.com/DragonFlam7530/status/2052151532276060620) | **Published:** May 6, 2026
+
+---
+### พลังเวทมนตร์จากไม้เท้าจอมเวท
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์แนวแฟนตาซีสุดตื่นเต้น ที่แสดงภาพจอมเวทหญิงใช้พลังเวทมนตร์ขับไล่เทพผู้ปกครองในฉากทะเลทราย
+
+#### 📝 Prompt
+
+```
+จอมเวทหญิงใช้ไม้เท้าผลักดันเทพผู้ปกครองด้วยพลังเวทมนตร์ที่ระเบิดออกมาอย่างรุนแรง ส่งผลให้เทพผู้ปกครองกระเด็นล้มลงไปกองกับพื้นทรายอย่างหมดทางสู้
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/67672a2b9a797b23b911230ca707c3e9/thumbnails/thumbnail.jpg" width="600" alt="พลังเวทมนตร์จากไม้เท้าจอมเวท">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4340)**
+
+**Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2052139435421249926) | **Published:** May 6, 2026
+
+---
+### วิดีโอสุนัขต้อนรับด้วยความตื่นเต้น
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแบบละเอียดสำหรับการสร้างแอนิเมชันสุนัขที่กระโดดขึ้นด้วยความตื่นเต้น พร้อมคำแนะนำเฉพาะสำหรับการปรับขนาดและลักษณะสายพันธุ์ของสุนัขสีดำ
+
+#### 📝 Prompt
+
+```
+ทำให้พวกมันกระโดดขึ้นมาต้อนรับฉันด้วยความดีใจและตื่นเต้น ตัดหางสุนัขพันธุ์บ็อกเซอร์ออก ปรับขนาดสุนัขสีดำให้ใหญ่ขึ้น 15% และทำให้สุนัขสีดำดูเหมือนพันธุ์ผสมลาบราดอร์
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9885ee480f8513d1dba82cae768edb40/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอสุนัขต้อนรับด้วยความตื่นเต้น">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4345)**
+
+**Author:** [Bellamoe](https://x.com/Bellamoe7575) | **Source:** [Link](https://x.com/Bellamoe7575/status/2052131335460827604) | **Published:** May 6, 2026
+
+---
+### ฉากวัดนักรบพระสงฆ์ผู้ลอยตัว
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์แนวแฟนตาซีระดับสูงที่แสดงภาพพระสงฆ์กำลังลอยตัวและใช้คลื่นพลังเวทมนตร์ในลานวัดที่มีเศษซากปรักหักพัง
+
+#### 📝 Prompt
+
+```
+นักรบพระสงฆ์หนุ่มลอยตัวอยู่กลางอากาศภายในลานวัด มือของเขาส่งคลื่นพลังล่องหนที่เรืองแสงเป็นวงกลม เศษหินและสิ่งของต่าง ๆ ลอยวนอยู่รอบตัวเขาในลักษณะหมุนเป็นวงกลม ธงโบราณสะบัดไหวอย่างรุนแรง
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4c3edf0da81224d8d726206a735a78dd/thumbnails/thumbnail.jpg" width="600" alt="ฉากวัดนักรบพระสงฆ์ผู้ลอยตัว">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4334)**
+
+**Author:** [LudovicCreator](https://x.com/LudovicCreator) | **Source:** [Link](https://x.com/LudovicCreator/status/2052123758622548070) | **Published:** May 6, 2026
+
+---
+### การแลกเปลี่ยนดอกคาร์เนชั่นสีแดง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวภาพยนตร์ที่มีรายละเอียดสูง สำหรับแสดงภาพการแลกเปลี่ยนดอกคาร์เนชั่นสีแดงที่เต็มไปด้วยอารมณ์ความรู้สึกระหว่างผู้หญิงสองคนที่เปรียบเสมือนตัวตนในอดีตและปัจจุบันของพวกเธอเอง
+
+#### 📝 Prompt
+
+```
+ใช้ภาพที่แนบมาเป็นเฟรมแรกของวิดีโอแนวภาพยนตร์ที่สมจริง โดยคงตัวละครผู้หญิงสองคนเดิม ใบหน้าเดิม อัตลักษณ์เดิม เครื่องแต่งกายเดิม พื้นหลังสตูดิโอโทนอบอุ่น แสงเดิม และองค์ประกอบภาพเดิมเอาไว้ ผู้หญิงที่อายุน้อยกว่าทางด้านซ้าย ซึ่งเป็นตัวแทนของตัวเองเมื่อ 10 ปีก่อน ค่อยๆ ยื่นมือไปทางขอบซ้ายของเฟรมแล้วนำดอกคาร์เนชั่นสีแดงหนึ่งดอกเข้ามา เธอหันไปมองตัวตนในปัจจุบันทางด้านขวาด้วยรอยยิ้มที่อ่อนโยนและเต็มไปด้วยความรู้สึก พร้อมกับทำท่าทางส่งดอกคาร์เนชั่นให้เธออย่างช้าๆ ผู้หญิงทางด้านขวาซึ่งเป็นตัวตนในปัจจุบันยิ้มอย่างอบอุ่น ลดมือลงจากใต้คางเล็กน้อยและเอื้อมมือไปรับดอกไม้ จากนั้นทั้งสองคนค่อยๆ หันหน้ามาทางกล้องและยื่นมือออกมาข้างหน้าพร้อมกัน เพื่อมอบดอกคาร์เนชั่นดอกนั้นให้กับผู้ชม การเคลื่อนไหวควรเป็นไปอย่างช้าๆ เป็นธรรมชาติ นุ่มนวล และสื่อถึงอารมณ์ ใช้แสงสตูดิโอแบบภาพยนตร์ที่นุ่มนวล การซูมกล้องเข้าช้าๆ อย่างแนบเนียน และโทนสีที่อบอุ่นและนุ่มนวล ทำให้ดูเหมือนวิดีโอจากการถ่ายทำระดับมืออาชีพ รักษาใบหน้า ทรงผม รูปร่าง ความแตกต่างของอายุ เครื่องแต่งกาย พื้นหลัง และสไตล์โดยรวมจากภาพต้นฉบับไว้อย่างแม่นยำ ห้ามเปลี่ยนตัวตนของบุคคลในภาพ และห้ามเพิ่มบุคคลหรือวัตถุอื่นๆ เข้าไป
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4d114849e4c5dbe8688b303e3aa30517/thumbnails/thumbnail.jpg" width="600" alt="การแลกเปลี่ยนดอกคาร์เนชั่นสีแดง">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4338)**
+
+**Author:** [山田イトウ｜還暦AI伴走者](https://x.com/I_Yamada_AI) | **Source:** [Link](https://x.com/I_Yamada_AI/status/2052080458243203314) | **Published:** May 6, 2026
+
+---
+### ลำดับภาพคลื่นนางเงือกโลมา
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ลำดับภาพแฟนตาซีสุดซับซ้อนที่นางเงือกในร่างโลมาว่ายน้ำท่ามกลางคลื่นที่เต็มไปด้วยฝูงปลา พร้อมโต้ตอบกับแสงจันทร์ที่สะท้อนบนผิวน้ำ
+
+#### 📝 Prompt
+
+```
+สร้างภาพคลื่นในมหาสมุทรที่เต็มไปด้วยฝูงปลา โดยมีนางเงือกในร่างโลมาที่มีผมสีน้ำตาลแดงว่ายไปตามยอดคลื่น แล้วพูดว่า “ฉันจะเป็นผู้พูดภาษาอังกฤษแบบไหนดีนะ” จากนั้นเธอก็คว้าแสงจันทร์ที่สะท้อนบนผิวน้ำแล้วลอยตัวขึ้น
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bcb5b97e2d2dc68953e9760afd725fe6/thumbnails/thumbnail.jpg" width="600" alt="ลำดับภาพคลื่นนางเงือกโลมา">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4342)**
+
+**Author:** [Holliday Rush](https://x.com/HollidayRu41904) | **Source:** [Link](https://x.com/HollidayRu41904/status/2052073784937451529) | **Published:** May 6, 2026
+
+---
+### การเดินในโถงทางเดินแบบภาพยนตร์และการเปลี่ยนผ่านของฉาก
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์ที่มีความซับซ้อนสำหรับการซูมออกอย่างต่อเนื่องตามหลังหญิงสาวในโถงทางเดินพิธีการ โดยเน้นการเปลี่ยนผ่านของสภาพแวดล้อมและการรักษาจังหวะที่มั่นคง
+
+#### 📝 Prompt
+
+```
+ถ่ายภาพหญิงสาวจากด้านหลังขณะที่เธอเดินเพียงลำพังไปตามโถงทางเดินพิธีการสีดำเงาสะท้อนที่ทอดยาว รักษาความมั่นคงและคุณภาพระดับพรีเมียมของชุดกูตูร์สีดำทอง ผมที่พลิ้วไหว เครื่องประดับ และองค์ประกอบของโถงทางเดินที่หรูหรา จังหวะการเดินของเธอต้องคงที่อย่างสมบูรณ์แบบตั้งแต่ต้นจนจบ โดยไม่มีการเร่งหรือชะลอความเร็ว ใช้การซูมออกอย่างต่อเนื่องและนุ่มนวลเพียงครั้งเดียว เพื่อค่อยๆ เผยให้เห็นโถงทางเดินมากขึ้น และตอกย้ำความรู้สึกว่าเธอกำลังเดินผ่านเงื่อนไขของข้อตกลงที่มองไม่เห็น ให้รูปปั้นเงาขนาดใหญ่ด้านหลังเธอยังคงปรากฏให้เห็นในระยะไกล แต่ต้องอยู่นิ่งสนิท ไม่มีการเคลื่อนไหวหรือไล่ตาม ในขณะที่กล้องถอยห่างออกไป ห่วงเงาที่แขวนลอยและเส้นสายที่ห้อยระย้าจะชัดเจนขึ้น และพื้นสะท้อนแสงจะค่อยๆ เปลี่ยนเป็นรอยต่อเส้นทางสีทองบางๆ ใต้ฝีเท้าของเธอ ให้ทุกย่างก้าวสร้างการเปลี่ยนแปลงที่แนบเนียนโดยไม่ทำให้จังหวะการเดินของเธอสะดุด: ห่วงที่อยู่ใกล้เคียงปรับเปลี่ยนเป็นเส้นสายที่เป็นระเบียบ เงาสะท้อนบนพื้นคมชัดขึ้น และทางเดินค่อยๆ ปรับเปลี่ยนตัวเองรอบตัวเธออย่างสง่างามและมีการควบคุม โทนอารมณ์ควรให้ความรู้สึกใกล้ชิด อันตราย และหลีกเลี่ยงไม่ได้ มากกว่าความน่ากลัว เหมือนกับข้อตกลงส่วนตัวที่กำลังเปลี่ยนไปในทางที่เป็นประโยชน์ต่อเธอ จบฉากด้วยการที่เธอยังคงเดินไปข้างหน้าด้วยจังหวะที่สม่ำเสมอเท่าเดิม ในขณะที่โถงทางเดินได้ขยายกว้างขึ้นกลายเป็นเส้นทางที่สว่างไสวด้วยสีทองที่ชัดเจนขึ้นรอบตัวเธอ เน้นการเคลื่อนไหวแบบภาพยนตร์ที่สง่างาม น่าเกรงขาม และมีระดับเท่านั้น
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/711e6db72482f6feb7868260e2bb2cbd/thumbnails/thumbnail.jpg" width="600" alt="การเดินในโถงทางเดินแบบภาพยนตร์และการเปลี่ยนผ่านของฉาก">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4335)**
+
+**Author:** [Minnnnns](https://x.com/minnns_aheya) | **Source:** [Link](https://x.com/minnns_aheya/status/2052068241456132189) | **Published:** May 6, 2026
+
+---
+### วิดีโออินฟลูเอนเซอร์หุ่นฟิกเกอร์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวสตอปโมชันสุดสร้างสรรค์ โดยให้หุ่นฟิกเกอร์สวมบทบาทเป็นอินฟลูเอนเซอร์บนโซเชียลมีเดียที่กำลังพูดคุยกับกล้องมือถือแบบสั่น
+
+#### 📝 Prompt
+
+```
+หุ่นฟิกเกอร์พลาสติกผู้หญิงขนาด 1:6 @Image1 กำลังพูดคุยกับกล้องมือถือแบบสั่นเหมือนอินฟลูเอนเซอร์หญิงคนหนึ่ง @Image1 ยืนหันหน้าเข้าหากล้องและกำลังทำท่าทางประกอบด้วยมือพลาสติกอย่างกระตือรือร้นในสไตล์สตอปโมชัน @Image1 “การเป็นศิลปินหมายถึงการเชื่อมโยงกับเงิน เกมนี้มันถูกล็อกไว้!” ไม่มีดนตรีประกอบ ไม่มีการทำสโลว์โมชัน
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cac65ff549cf5c7efd896992f5d0ff18/thumbnails/thumbnail.jpg" width="600" alt="วิดีโออินฟลูเอนเซอร์หุ่นฟิกเกอร์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4339)**
+
+**Author:** [John Panic](https://x.com/johnpanic44) | **Source:** [Link](https://x.com/johnpanic44/status/2051995925736783886) | **Published:** May 6, 2026
+
+---
+### ขับขี่ท่องราตรีสุดล้ำในบรรยากาศแสงนีออนแบบภาพยนตร์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์ระดับภาพยนตร์ที่เปี่ยมไปด้วยพลัง สำหรับการสร้างวิดีโอการขับขี่มอเตอร์ไซค์ในยามค่ำคืน พร้อมแสงไฟนีออนและภาพโคลสอัปหมวกกันน็อก
+
+#### 📝 Prompt
+
+```
+ขับขี่ท่องราตรีแบบภาพยนตร์ ไร้ทีมงาน ภาพโคลสอัปหมวกกันน็อก ถนนแสงนีออน บรรยากาศเร่งเครื่องเต็มสปีด
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6fa6e36460560a9ab29eda72e8177c87/thumbnails/thumbnail.jpg" width="600" alt="ขับขี่ท่องราตรีสุดล้ำในบรรยากาศแสงนีออนแบบภาพยนตร์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4346)**
+
+**Author:** [Jasmine Ai](https://x.com/jasminekhan90_) | **Source:** [Link](https://x.com/jasminekhan90_/status/2051975023888646537) | **Published:** May 6, 2026
+
+---
+### การเปลี่ยนร่างเป็นปีกนางฟ้าโค้ด
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์ที่ดูสง่างามและเหนือจริง โดยตัวละครจะค่อย ๆ มีปีกนางฟ้าที่ทำจากโค้ดคริสตัลโฮโลแกรมปรากฏขึ้นขณะเดินไปที่หน้าต่าง
+
+#### 📝 Prompt
+
+```
+เธอลุกขึ้นยืนและเดินไปมองออกนอกหน้าต่าง ปีกนางฟ้าที่ทำจากโค้ดคริสตัลโฮโลแกรมค่อย ๆ ก่อตัวขึ้นขณะที่เธอเดิน ดูสง่างามและเหนือจริง
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4fb794a6fcb179f319b212274b038782/thumbnails/thumbnail.jpg" width="600" alt="การเปลี่ยนร่างเป็นปีกนางฟ้าโค้ด">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4337)**
+
+**Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2051923535308943485) | **Published:** May 6, 2026
+
+---
+### ลำดับภาพแอนิเมชันพลังจิตสไตล์ Pixar
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> ชุดคำสั่ง (Prompt) สำหรับสร้างแอนิเมชันแบบภาพยนตร์หลายฉากอย่างละเอียด โดยมีเนื้อหาเกี่ยวกับเด็กหญิงที่พยายามใช้พลังจิต พร้อมรายละเอียดด้านแสงและคำแนะนำในการจัดวางกล้อง
+
+#### 📝 Prompt
+
+```
+สไตล์แอนิเมชัน Pixar แสงธรรมชาติที่นุ่มนวลจากหน้าต่างและแสงสะท้อน การเคลื่อนไหวของผ้าและเส้นผมที่สมจริง เอฟเฟกต์ระยะชัดลึก (Shallow depth of field) ฉากที่ 1: ภาพระยะปานกลาง (Medium shot) เด็กหญิงตัวน้อยนั่งอยู่บนเตียง ยื่นแขนไปข้างหน้า เธอพยายามใช้พลังจิต ใบหน้าของเธอตึงเครียดและร่างกายสั่นเล็กน้อยจากความพยายาม ฉากที่ 2: เปลี่ยนเป็นภาพมุมกว้าง (Wide shot) ให้เห็นทั่วทั้งห้อง ผ้าม่านไหวเล็กน้อย กล้องถูกถือด้วยมืออย่างมั่นคง มีผลส้มวางอยู่ด้านหน้าโดยมีเด็กหญิงเบลออยู่ด้านหลัง ฉากที่ 3: เปลี่ยนเป็นภาพระยะใกล้ (Close-up) ที่ใบหน้าของเด็กหญิง กัดฟัน แก้มป่อง คิ้วขมวด ใบหน้าของเธอสั่นเล็กน้อยจากความพยายาม ฉากที่ 4: ตัดภาพอย่างรวดเร็วไปที่ผลส้มซึ่งยังคงอยู่นิ่ง ฉากที่ 5: ตัดภาพอย่างรวดเร็วไปที่ภาพระยะปานกลาง มือของเด็กหญิงตกลงอย่างหมดแรง เธอเอนตัวลงนอนบนเตียง จ้องมองเพดานและถอนหายใจ ฉากที่ 6: ภาพซูมออกอย่างรวดเร็วจากตัวเด็กหญิง ถอยห่างผ่านห้องนอนออกไปจนเห็นภาพภายนอกห้องจากระยะไกล ซึ่งมีสุนัขตัวหนึ่งกำลังลอยอยู่ในอากาศด้วยสีหน้าหวาดกลัว
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/561cc879a3ff4440fd406b0b86df0868/thumbnails/thumbnail.jpg" width="600" alt="ลำดับภาพแอนิเมชันพลังจิตสไตล์ Pixar">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4348)**
+
+**Author:** [Aiyo](https://x.com/AiyoGame) | **Source:** [Link](https://x.com/AiyoGame/status/2051898889029210136) | **Published:** May 6, 2026
+
+---
+### หญิงสาวและหุ่นยนต์ในออฟฟิศ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ฉากภาพยนตร์ที่มีรายละเอียดของหญิงสาวผมบลอนด์และหุ่นยนต์ในออฟฟิศกำลังช่วยกันเก็บชิ้นส่วนของภาพวาดที่แตกกระจาย
+
+#### 📝 Prompt
+
+```
+หญิงสาวผมบลอนด์ที่มีผมเป็นลอนกำลังอยู่กับหุ่นยนต์ พวกเขาอยู่ในออฟฟิศและกำลังเก็บชิ้นส่วนของภาพวาดที่แตกกระจาย ผู้บริหารที่กำลังหวาดกลัวพูดว่า ฉันคิดว่าเขาจะไม่ทำแบบนั้น แต่เขากลับทำ ฉันรู้สึกเสียใจอย่างสุดซึ้ง
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a4778fc726316842a378edb2c3083746/thumbnails/thumbnail.jpg" width="600" alt="หญิงสาวและหุ่นยนต์ในออฟฟิศ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4349)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2051870492059996527) | **Published:** May 6, 2026
+
+---
+### ฉากกระจกเงาถ่านวาดแนวเหนือจริง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอเชิงศิลปะที่บรรยายถึงฉากแนวเหนือจริงและชวนขนลุกในสไตล์ภาพวาดถ่าน โดยมีตัวละครกำลังโต้ตอบกับกระจกเงาภายในโถงอาคารที่มีความซับซ้อน
+
+#### 📝 Prompt
+
+```
+ฉากนี้ต้องมีความเหนือจริง ชวนขนลุก และลึกซึ้งทางอารมณ์ ฉันจะบรรยายถึงตัวละครสองตัวที่กำลังโต้ตอบกับกระจกเงา โดยมีโถงอาคารที่ซับซ้อนเป็นฉากหลัง การใช้สไตล์ภาพวาดถ่านที่มีไฮไลต์สีเงินและกราไฟต์จะช่วยให้เข้ากับบรรยากาศของเรื่องได้เป็นอย่างดี
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/aa7087db0be749ab0391ec93ab9aef6b/thumbnails/thumbnail.jpg" width="600" alt="ฉากกระจกเงาถ่านวาดแนวเหนือจริง">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4344)**
+
+**Author:** [null combination](https://x.com/adeptusnull) | **Source:** [Link](https://x.com/adeptusnull/status/2051865520270434565) | **Published:** May 6, 2026
+
+---
+### การโต้ตอบของผู้บริหารกับภาพวาด
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์แสดงการโต้ตอบระหว่างผู้บริหารสองคน โดยคนหนึ่งหยิบภาพวาดจากผนังแล้วขว้างใส่คนหนึ่ง
+
+#### 📝 Prompt
+
+```
+เขาพบกับผู้บริหารอีกคนหนึ่ง โดยไม่มีบทสนทนา เขาหยิบภาพวาดจากผนังแล้วขว้างใส่ผู้บริหารอีกคน เขาคิดหรือว่าเขาจะขว้างโดนฉัน? เขาทำมันอย่างแนบเนียนจนคุณไม่ทันสังเกต
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/44179f0c6cfbfcfe365263df1066dd75/thumbnails/thumbnail.jpg" width="600" alt="การโต้ตอบของผู้บริหารกับภาพวาด">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4350)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2051860686720860472) | **Published:** May 6, 2026
+
+---
+### หญิงสาวกับหุ่นยนต์ในอวกาศ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์แนวแฟนตาซีของหญิงสาวและหุ่นยนต์สีขาวตัวเล็กที่กำลังลอยอยู่ในชั้นบรรยากาศใกล้กับพระจันทร์เต็มดวง
+
+#### 📝 Prompt
+
+```
+หญิงสาวผมบลอนด์ที่มีผมปลิวไสวไปตามลม มาพร้อมกับหุ่นยนต์สีขาวตัวเล็ก ทั้งคู่กำลังลอยอยู่ในชั้นบรรยากาศ โดยมีฉากหลังเป็นพระจันทร์เต็มดวง ทั้งสองดูมีความสุขมาก! เธอกล่าวว่า รอฟังข่าวอยู่นะเพื่อน
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/48adeb84e3dc706862a776e82f7c6f16/thumbnails/thumbnail.jpg" width="600" alt="หญิงสาวกับหุ่นยนต์ในอวกาศ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4351)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2051856864619417829) | **Published:** May 6, 2026
+
+---
+### หงส์โยนดอกกุหลาบในทะเลสาบ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์ที่เงียบสงบและเต็มไปด้วยรายละเอียดของหงส์สองตัวที่กำลังว่ายผ่านทะเลสาบกลางหุบเขาและโยนดอกกุหลาบให้กัน พร้อมรายละเอียดดนตรีประกอบ
+
+#### 📝 Prompt
+
+```
+หงส์สีขาวสองตัวว่ายผ่านทะเลสาบ โยนดอกกุหลาบให้กัน ฉากหลังเป็นต้นสนและภูเขา ดนตรีประกอบเป็นเสียงเชลโล
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8ab0e5c408049a41315a85b85e45cb7/thumbnails/thumbnail.jpg" width="600" alt="หงส์โยนดอกกุหลาบในทะเลสาบ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4347)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2051852661373497459) | **Published:** May 6, 2026
+
+---
+### การพบกันของ Sith Green Goblin และ Spider-Man
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สร้างสรรค์ที่นำ Green Goblin ในบทบาท Sith Lord มาเผชิญหน้ากับ Spider-Man
+
+#### 📝 Prompt
+
+```
+สัมผัสพลังแห่งด้านมืดสิ เจ้าแมงมุมน้อย Green Goblin ในร่าง Sith
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/61ee3b6f3846e5d950e93fa417245b93/thumbnails/thumbnail.jpg" width="600" alt="การพบกันของ Sith Green Goblin และ Spider-Man">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4341)**
+
+**Author:** [William Kevin Newman](https://x.com/THE_Newmanator) | **Source:** [Link](https://x.com/THE_Newmanator/status/2051830423802569020) | **Published:** May 6, 2026
+
+---
+### แอนิเมชันปกนิตยสารที่มีชีวิต
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์ระดับมืออาชีพสำหรับการสร้างแอนิเมชันจากปกนิตยสารแบบภาพนิ่ง ด้วยการเคลื่อนไหวของตัวละครที่นุ่มนวล สง่างาม และการจัดแสงระดับมืออาชีพ
+
+#### 📝 Prompt
+
+```
+แอนิเมชันปกนิตยสาร Vanity Fair ที่มีชีวิต ความยาว 15 วินาที สไตล์ภาพยนตร์สุดหรูและสง่างาม ใช้ภาพปกนิตยสารที่อัปโหลดเป็นข้อมูลอ้างอิงหลักเพื่อให้ได้ใบหน้า ท่าทาง การจัดแสง และเลย์เอาต์ที่แม่นยำ การเคลื่อนไหวที่นุ่มนวลและอ่อนโยนเท่านั้น: - Esther Armari ก้มศีรษะลงอย่างแผ่วเบาและค่อยๆ หลับตาลงด้วยสีหน้าที่แสดงอารมณ์อย่างอ่อนโยน - Xavier Moretti ปัดปอยผมหยิกที่เปียกชื้นออกจากใบหน้าของเธอด้วยความรัก - จากนั้นเขาโน้มตัวเข้าไปจูบหน้าผากของเธออย่างแผ่วเบาด้วยความห่วงใยและความรักที่ลึกซึ้ง ข้อความและเลย์เอาต์บนปกนิตยสาร (ชื่อเรื่อง "LA’s Most Influential Couple" รวมถึงพาดหัวข่าวและข้อความย่อยทั้งหมด) จะต้องคงความคมชัดและอยู่นิ่งเหมือนปกนิตยสารจริงทุกประการ การเคลื่อนไหวที่นุ่มนวล โรแมนติก และเต็มไปด้วยอารมณ์ การจัดแสงแบบภาพยนตร์ที่นุ่มนวล บรรยากาศอบอุ่นและโรแมนติก สไตล์ภาพยนตร์แฟชั่นระดับไฮเอนด์ คงความสวยงามในแบบฉบับของ Vanity Fair เอาไว้ --motion 2 --ar 9:16
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1e54d11da9ce7e2fe5e1dd3a1887613c/thumbnails/thumbnail.jpg" width="600" alt="แอนิเมชันปกนิตยสารที่มีชีวิต">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4336)**
+
+**Author:** [Jennifer 🇺🇸 🦅](https://x.com/Jenny_MommaLion) | **Source:** [Link](https://x.com/Jenny_MommaLion/status/2051825948606271750) | **Published:** May 6, 2026
+
+---
 ### หุ่นยนต์ Star Wars ที่สถานีชาร์จ Tesla
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1768,365 +2110,6 @@ SCENE LOCK: ล็อกมุมกล้องแบบขาตั้งก�
 **Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2049976672783331538) | **Published:** Apr 30, 2026
 
 ---
-### ห้องหลบภัยพร้อมระบบล็อกฉากที่เสถียร
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับการสร้างวิดีโอเชิงเทคนิคที่ใช้การล็อกฉากและการกำหนดตำแหน่งกล้อง เพื่อการเปลี่ยนผ่านสภาพแวดล้อมที่เสถียร
-
-#### 📝 Prompt
-
-```
-SCENE LOCK: การสร้างวิดีโอจากภาพ (Frame-to-video) จาก IMAGE 2 ไปยัง IMAGE 3 โดยใช้กล้องขาตั้งแบบคงที่ล็อกไว้ในห้องหลบภัยใต้ดินเดิม ให้ความรู้สึกเหมือนใช้เลนส์มุมกว้าง 24 มม. ความสูงกล้อง 1.45 ม. โดยจัดเฟรมและมุมมองให้เหมือนเดิมตลอดทั้งคลิป จุดสังเกตที่กำหนดไว้จะต้องคงที่อย่างสมบูรณ์:
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c44d9eedee05b2751d4e83364f5fd59/thumbnails/thumbnail.jpg" width="600" alt="ห้องหลบภัยพร้อมระบบล็อกฉากที่เสถียร">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3958)**
-
-**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2049976264698814969) | **Published:** Apr 30, 2026
-
----
-### พรอมต์วิดีโอกองไม้ไฟในป่าดิบชื้น
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์เชิงบรรยายสำหรับการสร้างวิดีโอภาพกองไฟที่กำลังคุอยู่ท่ามกลางบรรยากาศป่าดิบชื้นที่มีหมอกลงหนา
-
-#### 📝 Prompt
-
-```
-จินตนาการถึงกองไม้ที่ถูกรวบรวมไว้ในป่าที่มีหมอกและอากาศเย็น พืชพรรณดูหนาทึบและเขียวขจี
-กองไม้กำลังลุกไหม้เป็นเปลวไฟที่คุกรุ่น
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1ed12ba3c9d81e18520510b6ecd0b6ed/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์วิดีโอกองไม้ไฟในป่าดิบชื้น">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3965)**
-
-**Author:** [Deepali Musk](https://x.com/deepalimusk) | **Source:** [Link](https://x.com/deepalimusk/status/2049954052998377954) | **Published:** Apr 30, 2026
-
----
-### แอนิเมชันผีเสื้อเบ่งบาน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับการสร้างแอนิเมชันที่เน้นการเคลื่อนไหวของผีเสื้อและดอกไม้ที่กำลังเบ่งบาน โดยอ้างอิงจากภาพวาดลายเส้นปากกาและหมึก
-
-#### 📝 Prompt
-
-```
-ทำให้ผีเสื้อบิน และทำให้ดอกไม้เบ่งบาน พร้อมทั้งทำให้ดอกไม้เอนไปทางซ้ายและขวา
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e33ba7349ebec46726a2aa4ab12641cd/thumbnails/thumbnail.jpg" width="600" alt="แอนิเมชันผีเสื้อเบ่งบาน">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3962)**
-
-**Author:** [DW 💉👀🐊](https://x.com/deweller) | **Source:** [Link](https://x.com/deweller/status/2049953305476927514) | **Published:** Apr 30, 2026
-
----
-### วิดีโอพรอมต์นักเดินทางผ่านประตูมิติแห่งจักรวาล
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์ภาพนักเดินทางในจักรวาลที่ยืนอยู่หน้าประตูมิติที่หมุนวนด้วยแสงสีม่วงและสีน้ำเงิน
-
-#### 📝 Prompt
-
-```
-นักเดินทางผู้โดดเดี่ยวคนหนึ่งยืนอยู่ที่ขอบของประตูมิติแห่งจักรวาลที่กำลังหมุนวน แสงสีม่วงเข้มและสีน้ำเงินไฟฟ้ากำลังดึงดูดทุกอย่างเข้าไปข้างใน พร้อมด้วยดวงดาวที่พุ่งผ่านกาแล็กซีใหม่ซึ่งเชื่อมโยงเหล่าเอเลี่ยนจากทั่วทั้งจักรวาลเข้าด้วยกัน
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/28ae8fdc507d38a60a4e8b9afd342981/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอพรอมต์นักเดินทางผ่านประตูมิติแห่งจักรวาล">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3967)**
-
-**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2049945827343204775) | **Published:** Apr 30, 2026
-
----
-### คำทักทายจากแมงมุมที่หน้าต่าง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์แสนสนุกสำหรับแอนิเมชันธีมแมงมุมที่กำลังเกาะอยู่บนหน้าต่าง
-
-#### 📝 Prompt
-
-```
-ราตรีสวัสดิ์เหล่าครีเอเตอร์! ไม่ต้องห่วงนะ ฉันแค่แวะมาเกาะที่หน้าต่างของคุณนิดหน่อยเอง 🕸️🕷️😏💤
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6e4f64fc8afc918b514721b4e5440ca0/thumbnails/thumbnail.jpg" width="600" alt="คำทักทายจากแมงมุมที่หน้าต่าง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3966)**
-
-**Author:** [Petergu](https://x.com/PalfalviP497fz) | **Source:** [Link](https://x.com/PalfalviP497fz/status/2049945089116459123) | **Published:** Apr 30, 2026
-
----
-### พรอมต์วิดีโอสำหรับการตั้งค่ากล้องแบบคงที่สำหรับฉากทะเลสาบ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์เชิงเทคนิคที่เน้นการตั้งค่ากล้องสำหรับภาพนิ่งของทะเลสาบ เพื่อใช้รักษาความต่อเนื่องของฉากในการสร้างวิดีโอ
-
-#### 📝 Prompt
-
-```
-SCENE LOCK: กล้องตั้งขาตั้งนิ่งจากฝั่งตรงข้ามของทะเลสาบเดิม จัดเฟรมเดียวกับ IMAGE 3 และ IMAGE 4 ให้ความรู้สึกเหมือนเลนส์มุมกว้าง 24 มม. ความสูงกล้อง 1.6 เมตร โดยมีจุดสังเกตคงที่คือ สันดอนทรายรูปโค้ง, เนินเขาหินตรงกลาง, ท่าเรือไม้, หินบะซอลต์สีดำ,...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dcc3bb753f4da4851f894d933fe3267d/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์วิดีโอสำหรับการตั้งค่ากล้องแบบคงที่สำหรับฉากทะเลสาบ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3961)**
-
-**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2049920356803293585) | **Published:** Apr 30, 2026
-
----
-### อุโมงค์สเก็ตสไตล์อนิเมะแห่งโลกอนาคต
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์สไตล์อนิเมะของบุคคลที่กำลังเล่นโรลเลอร์สเก็ตผ่านอุโมงค์แห่งโลกอนาคตในอวกาศ
-
-#### 📝 Prompt
-
-```
-เดินทางผ่านอุโมงค์แห่งอวกาศไปกับตัวละครสไตล์อนิเมะที่กำลังเล่นโรลเลอร์สเก็ตอย่างสนุกสนานในโลกอนาคต
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a7741de2f144f2748c38590174f5eb98/thumbnails/thumbnail.jpg" width="600" alt="อุโมงค์สเก็ตสไตล์อนิเมะแห่งโลกอนาคต">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3969)**
-
-**Author:** [Carina](https://x.com/Freehere3) | **Source:** [Link](https://x.com/Freehere3/status/2049903845942202504) | **Published:** Apr 30, 2026
-
----
-### มังกรกำลังดื่มน้ำจากลำธาร
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับสร้างวิดีโอที่มีมังกรสีแดงและสีน้ำเงินอยู่เคียงข้างกันในบรรยากาศป่า
-
-#### 📝 Prompt
-
-```
-มังกรสีแดงและมังกรสีน้ำเงินอยู่เคียงข้างกันในร่มเงาของป่า กำลังดื่มน้ำจากลำธาร
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f7fdcb4cf9d5dabde1add11231df9b02/thumbnails/thumbnail.jpg" width="600" alt="มังกรกำลังดื่มน้ำจากลำธาร">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3970)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2049886774307254779) | **Published:** Apr 30, 2026
-
----
-### การเปิดเผยของพระเยซูและเปโตร
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวภาพยนตร์ที่ถ่ายทอดฉากในพระคัมภีร์ขณะที่พระเยซูกำลังตรัสกับเปโตรเรื่องการสร้างคริสตจักรของพระองค์
-
-#### 📝 Prompt
-
-```
-สร้างวิดีโอพระเยซูกำลังตรัสกับเปโตรว่า บนศิลาแห่งการเปิดเผยที่ว่าพระเยซูคือพระคริสต์ พระบุตรของพระเจ้าผู้ทรงพระชนม์อยู่ พระองค์จะทรงสร้างคริสตจักรของพระองค์ขึ้น
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b1a0c016fb97fe32b946f39c4ea9b9e4/thumbnails/thumbnail.jpg" width="600" alt="การเปิดเผยของพระเยซูและเปโตร">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3964)**
-
-**Author:** [Daniel Cervantes](https://x.com/dec_cer) | **Source:** [Link](https://x.com/dec_cer/status/2049882650152988719) | **Published:** Apr 30, 2026
-
----
-### แอนิเมชัน Rainbow Dance
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์แอนิเมชันสีสันสดใสที่เกี่ยวกับการกระโดดข้ามสายรุ้งและเต้นรำไปกับเพลงที่กำหนด
-
-#### 📝 Prompt
-
-```
-ทำให้เขาเต้นกระโดดข้ามสายรุ้งประกอบเพลง Happy ของ Pharrell Williams โดยเน้นคุณภาพแบบจัดเต็ม
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d12f34d4b505cef44021f4f4cebd513b/thumbnails/thumbnail.jpg" width="600" alt="แอนิเมชัน Rainbow Dance">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3963)**
-
-**Author:** [DJ](https://x.com/DJofTruth) | **Source:** [Link](https://x.com/DJofTruth/status/2049866935123218932) | **Published:** Apr 30, 2026
-
----
-### พรอมต์วิดีโอชุดเกราะต่อสู้ยุทธวิธีแห่งอนาคต
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวภาพยนตร์สำหรับหญิงสาวในชุดเกราะต่อสู้ยุทธวิธีแห่งอนาคตที่กำลังสวมหน้ากากและแว่นกันแดด พร้อมการเคลื่อนไหวของกล้องที่ช้าและตั้งใจ
-
-#### 📝 Prompt
-
-```
-ภาพพอร์ตเทรตระยะใกล้แนวภาพยนตร์ของหญิงสาวสวยสะดุดตา อายุช่วงต้น 20 ปี ผมสีน้ำตาลเกาลัดเป็นลอนยาวประบ่าพร้อมหน้าม้าและปอยผมล้อมกรอบใบหน้า มีกระเล็กน้อยบริเวณจมูกและแก้ม ดวงตาสีฟ้าคมเข้มดูจริงจังและมั่นใจ แต่งหน้าแบบบางเบา เธอสวมชุดเกราะต่อสู้ยุทธวิธีแห่งอนาคตสีดำด้านที่เข้ารูป พร้อมแผ่นเกราะไฮเทคแบบแบ่งส่วน แผ่นรองไหล่เสริมความแข็งแรง ชุดสายรัดหน้าอกพร้อมซิปตรงกลาง รายละเอียดทางกลไกที่ซับซ้อน ร่องรอยการใช้งานและการผ่านศึก และคอปกสูง ในตอนแรกเธอปรากฏตัวโดยไม่มีหน้ากาก จากนั้นหน้ากากยุทธวิธีสีดำที่ปิดจมูกและปากก็ปรากฏขึ้นอย่างนุ่มนวล ตามด้วยการยกมือที่สวมถุงมือขึ้นเพื่อปรับและสวมแว่นกันแดดทรงสปอร์ตแห่งอนาคตทับหน้ากาก การดำเนินเรื่องแบบไดนามิก การเคลื่อนไหวที่ช้าและตั้งใจ ผมขยับเล็กน้อย สมจริงเหมือนภาพถ่าย ผิวหนังรายละเอียดสูง การสะท้อนแสงที่สมจริงบนชุดเกราะ แสงวอลูเมตริกที่ดูมีมิติ ระยะชัดลึกตื้น พื้นหลังถนนในเมืองแห่งอนาคตที่เบลอพร้อมแสงโบเก้และผู้คนที่เดินผ่านไปมาแบบไม่ชัดเจน บรรยากาศไซเบอร์พังค์ที่ดูหม่นขรึม 8k, ผลงานชิ้นเอก, คุณภาพดีที่สุด, การปรับสีแบบภาพยนตร์ --ar 9:16 --stylize 250 --v 6
---video --duration 16 --motion medium --camera slow zoom in from medium shot to extreme close-up
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/83ce7198baea93422568cdd8a6a2ed13/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์วิดีโอชุดเกราะต่อสู้ยุทธวิธีแห่งอนาคต">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3959)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2049862349746831438) | **Published:** Apr 30, 2026
-
----
-### พรอมต์การเคลื่อนไหวของกล้องสำหรับโคมไฟด้วยระบบกันสั่น Gimbal
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอเชิงเทคนิคที่ระบุเทคนิคการหมุนและการกันสั่นของกล้องเพื่อนำเสนอโคมไฟ
-
-#### 📝 Prompt
-
-```
-กล้องค่อย ๆ หมุน 60 องศาเพื่อโชว์โคมไฟ ถ่ายทำด้วย Gimbal เพื่อความนิ่งของภาพ
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4ca6d3252e69ed2fa09cc9f784f5bf84/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์การเคลื่อนไหวของกล้องสำหรับโคมไฟด้วยระบบกันสั่น Gimbal">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3960)**
-
-**Author:** [Alamgir Hossain](https://x.com/mdalamgir95) | **Source:** [Link](https://x.com/mdalamgir95/status/2049839904843346245) | **Published:** Apr 30, 2026
-
----
-### วิดีโออนิเมะสาวไซเบอร์พังค์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับสร้างวิดีโออนิเมะสาวสไตล์ไซเบอร์พังค์ในฉากโรงงานอุตสาหกรรม เพื่อใช้แสดงตัวอย่างการทำลิปซิงค์
-
-#### 📝 Prompt
-
-```
-ภาพดิจิทัลอนิเมะสาวสไตล์ไซเบอร์พังค์ถือปืนแห่งอนาคตในฉากโรงงานอุตสาหกรรมที่มืดมิด
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c89fdc62eaaebf2bed5969fa4990832/thumbnails/thumbnail.jpg" width="600" alt="วิดีโออนิเมะสาวไซเบอร์พังค์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3971)**
-
-**Author:** [Benjamin Ferrarini](https://x.com/Granddragonben) | **Source:** [Link](https://x.com/Granddragonben/status/2049838270742171978) | **Published:** Apr 30, 2026
-
----
-### วิดีโอ 3D Gothic Seraphim
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) สำหรับสร้างวิดีโอ 3D สไตล์โกธิคที่มีตัวละคร Seraphim ในรูปแบบภาพพิมพ์แกะไม้ (linocut) บนพื้นหลังสีแดง
-
-#### 📝 Prompt
-
-```
-หญิงสาว 3D สไตล์โกธิค Seraphim ชุดของเธอมีดวงตาและปีก 6 ข้าง สไตล์ภาพพิมพ์แกะไม้ (linocut) ขาวดำบนพื้นหลังผนังสีแดงที่มีดวงตาของ Seraphim จำนวนมาก
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6a6897d09116953e03b2bd50c775951f/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอ 3D Gothic Seraphim">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3972)**
-
-**Author:** [The Rose Codex](https://x.com/rosegothicart) | **Source:** [Link](https://x.com/rosegothicart/status/2049770432006603009) | **Published:** Apr 30, 2026
-
----
-### พรอมต์ภาพยนตร์ฉากการเผชิญหน้ากับสิ่งมีชีวิตนอกโลก
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ภาพยนตร์ที่บรรยายรายละเอียดอย่างชัดเจนสำหรับฉากไซไฟที่เกี่ยวข้องกับสิ่งมีชีวิตชีวกล (biomechanical) บนดาวเคราะห์อันห่างไกล โดยมองผ่านห้องนักบินของยานสำรวจ
-
-#### 📝 Prompt
-
-```
-จากห้องนักบินของยานสำรวจ นักบินผู้โดดเดี่ยวได้พบเห็นการมาถึงของสิ่งมีชีวิตชีวกลขนาดมหึมาบนดาวเคราะห์อันห่างไกล สเกลความยิ่งใหญ่ของยักษ์ใหญ่แห่งจักรวาลเหล่านี้ช่างน่าทึ่ง...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e7cd9224114f51232a46bf70ff73ebee/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์ภาพยนตร์ฉากการเผชิญหน้ากับสิ่งมีชีวิตนอกโลก">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3905)**
-
-**Author:** [aran leigh](https://x.com/aran_leigh) | **Source:** [Link](https://x.com/aran_leigh/status/2049745114143096862) | **Published:** Apr 30, 2026
-
----
-### วิดีโอภาพยนตร์หุ่นยนต์เดินได้สไตล์อุตสาหกรรม
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) ทางเทคนิคแบบละเอียดสำหรับการสร้างวิดีโอ 8K ที่สมจริงราวกับภาพถ่ายของหุ่นยนต์ทหารขนาดมหึมาที่กำลังเดินผ่านเมืองในยุโรปท่ามกลางสายหมอก
-
-#### 📝 Prompt
-
-```
-วิดีโอภาพยนตร์ความยาว 10 วินาที ในรูปแบบแนวตั้ง 9:16 หรือแนวนอน 16:9 สไตล์สมจริงระดับภาพถ่าย (Photorealistic) ผลงานระดับมาสเตอร์พีซ คุณภาพสูงสุด ความละเอียด 8K
-
-หุ่นยนต์ทหารแบบสองขาขนาดมหึมาสูง 40 เมตร ชื่อ "S-9000" กำลังเดินไปข้างหน้าอย่างช้าๆ ด้วยฝีเท้าที่หนักแน่นและทรงพลังบนรางรถไฟเก่าที่เปียกชื้นในจัตุรัสเมืองแห่งหนึ่งในยุโรปท่ามกลางสายหมอก หุ่นยนต์ยักษ์ตัวนี้มาในโทนสีส้มสลับเทาเข้มที่ดูเก่ากรัง มีร่องรอยสนิม ความเสียหายจากการสู้รบ ท่อสายไฟที่เปิดเปลือย สายไฮดรอลิก หมุดย้ำ ป้ายเตือน และไฟห้องนักบินสีเหลืองที่ส่องสว่าง ส่วนบนของลำตัวเป็นโมดูลบังคับการหุ้มเกราะขนาดใหญ่พร้อมเสาอากาศและจานดาวเทียม ขาของมันมีขนาดใหญ่โตและเชื่อมต่อกันอย่างซับซ้อน พร้อมล้อออฟโรดสีดำขนาดใหญ่หลายล้อที่มีขอบล้อสีส้มสดใสและดอกยางหนา
-
-ในฉากหน้า มีทหารนายหนึ่งในชุดยุทธวิธีสีดำเต็มยศ สวมหมวกนิรภัย สะพายเป้ และถือปืนไรเฟิล ยืนนิ่งอยู่บนรางรถไฟโดยหันหลังให้กล้อง กำลังแหงนมองเครื่องจักรขนาดมหึมาด้วยความทึ่ง มุมกล้องแบบ Low-angle ที่เน้นให้เห็นความแตกต่างของขนาดที่น่าเหลือเชื่อระหว่างมนุษย์ตัวเล็กๆ กับหุ่นยนต์ยักษ์
-
-บรรยากาศมีความหนาทึบ เย็นเยียบ เต็มไปด้วยหมอก ท้องฟ้ามืดครึ้ม แสงไฟแบบซอฟต์โฟกัสสไตล์ภาพยนตร์ มีแสงลอดผ่านหมอก (God rays) หมอกแบบวอลูเมตริก (Volumetric fog) มีความเบลอจากการเคลื่อนไหวเล็กน้อยในส่วนประกอบทางกลไก ฟิสิกส์ที่สมจริงในทุกข้อต่อและลูกสูบ หุ่นยนต์ก้าวเดินอย่างช้าๆ และมั่นคง ขาขวายกขึ้นและวางลง ตามด้วยขาซ้าย ร่างกายที่หนักอึ้งขยับและโอนเอน แขนแกว่งเล็กน้อยเพื่อทรงตัว มีเสียงลูกสูบดังฟู่และไอน้ำพุ่งออกมา
-
-พื้นผิวที่มีรายละเอียดสูง รายละเอียดทางกลไกที่ซับซ้อน การสะท้อนของโลหะที่สมจริง การปรับสีสไตล์ภาพยนตร์ บรรยากาศไซไฟที่ดูหม่นและยิ่งใหญ่ ในสไตล์คอนเซปต์อาร์ตของ Jakub Rozalski และ Syd Mead การเรนเดอร์ที่สมจริงราวกับภาพถ่าย ความละเอียด 8K รายละเอียดคมชัดระดับมาสเตอร์พีซ
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/66971fcc63313fd10e25e58ae7c71c4f/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอภาพยนตร์หุ่นยนต์เดินได้สไตล์อุตสาหกรรม">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3968)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2049690619459539083) | **Published:** Apr 30, 2026
-
----
-### การโต้ตอบของหุ่นยนต์ Optimus Prime
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวภาพยนตร์เหนือจริงที่แสดงภาพศีรษะที่กำลังแตกสลายซึ่งได้รับการดูแลโดยหุ่นยนต์ Optimus ในฉากที่เงียบสงบ
-
-#### 📝 Prompt
-
-```
-ศีรษะแตกสลายและ Optimus ปรากฏตัวขึ้นเพื่อเก็บชิ้นส่วนเหล่านั้น จากนั้นเมื่อเขาเก็บชิ้นส่วนทั้งหมดเสร็จแล้ว เขาก็นำพวกมันไปวางไว้อีกที่หนึ่งอย่างนุ่มนวล โดยไม่มีบทสนทนา
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/17431bae9a796d597f5e908873b74fd1/thumbnails/thumbnail.jpg" width="600" alt="การโต้ตอบของหุ่นยนต์ Optimus Prime">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3974)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2049676994795724959) | **Published:** Apr 30, 2026
-
----
-### ลำดับบทพูดคนเดียวของเชกสเปียร์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพร้อมท์แบบหลายขั้นตอนที่ซับซ้อน ซึ่งรวมถึงบทพูดของตัวละคร การขยายฉากไปสู่โลกที่กำลังหมุน และการปรับให้เป็นยุคสมัยใหม่พร้อมจุดจบแบบหายนะ
-
-#### 📝 Prompt
-
-```
-10 วินาที; 720p
-โปรดให้เชกสเปียร์พูดว่า “All the world’s a stage, And all the men and women merely players; They have their exits and their entrances, And one man in his time plays many parts.”
-
-[ขยาย 10 วินาที]
-ให้เขาเดินจากไป และโลกเริ่มหมุนอยู่เบื้องหลัง รวมถึงชาวเมืองที่เดินอยู่ระหว่างม่านเริ่มมีชีวิตขึ้นมา
-
-[ขยาย 10 วินาที]
-ดำเนินเรื่องต่อแล้วปรับให้เป็นยุคสมัยใหม่ในช่วงท้าย ฉันอยากเห็นเหตุการณ์หายนะบนโลก 😉
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4414e1ed0eaf47ac924f2e1003be2bbf/thumbnails/thumbnail.jpg" width="600" alt="ลำดับบทพูดคนเดียวของเชกสเปียร์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3906)**
-
-**Author:** [Jenny BSN RN LMT](https://x.com/mommaleo) | **Source:** [Link](https://x.com/mommaleo/status/2049650868333555759) | **Published:** Apr 30, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2188,6 +2171,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-07T06:44:28.659Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-07T10:33:05.207Z</sub>
 
 </div>
