@@ -2188,6 +2188,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-05-08T14:11:08.340Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-05-08T17:25:56.524Z</sub>
 
 </div>
