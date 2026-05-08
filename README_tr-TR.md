@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1425** |
+| 📝 Total Prompts | **1438** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-08** |
 
@@ -189,6 +189,272 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Tesla Robotaxi Film Reklamı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kamera kaydırma ve belirli logo yerleşimi içeren, Tesla Robotaxi reklamına yönelik karmaşık bir sinematik istem.
+
+#### 📝 Prompt
+
+```
+Tesla aracını tamamen aynı şekilde tutun, uzun bir yol şeridini göstermek için kamerayı uzaklaştırın, araç şeridinde kalarak ilerlesin, aracın kameranın yanından hızla geçmesini sağlayın, bir film reklamı gibi görüntünün üst kısmındaki Robotaxi logosunu vurgulayın
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/acf2ef5e0de804f7ffd87b501b664c2a/thumbnails/thumbnail.jpg" width="600" alt="Tesla Robotaxi Film Reklamı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4416)**
+
+**Author:** [Alex Patricio](https://x.com/alexpatricio204) | **Source:** [Link](https://x.com/alexpatricio204/status/2052555531982926184) | **Published:** May 8, 2026
+
+---
+### Sinematik Monolog ve Aksiyon Sekansı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir karakterin ünlü bir siberpunk repliğini söylediği ve ardından belirli fiziksel hareketler yaptığı karmaşık bir video istemi.
+
+#### 📝 Prompt
+
+```
+kameraya bakar ve şunu söyler: 
+"Limanın üzerindeki gökyüzü televizyon rengindeydi." ardından arkasını döner ve başka yöne bakar 
+Bu modelde, kollarını kaldırıp ellerini başına koyduğu ve ellerini yavaşça yüzünden aşağı indirdiği bir kurgu oluştur...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1edeb34bc2620ca350bbebde02fb98d7/thumbnails/thumbnail.jpg" width="600" alt="Sinematik Monolog ve Aksiyon Sekansı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4408)**
+
+**Author:** [caroline freebern](https://x.com/myHeartis1true) | **Source:** [Link](https://x.com/myHeartis1true/status/2052505180877340990) | **Published:** May 7, 2026
+
+---
+### Ayı Kendi Kendine Sarılma Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir ayı karakterinin kollarını açarak sarılma hareketinden kendi kendine sarılma hareketine geçişini gösteren bir video hareket istemi.
+
+#### 📝 Prompt
+
+```
+Bu ayının başlangıçta kollarını kocaman açarak sarılmasını ve ardından kendi kendine sarılmasını görmek istiyorum
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/33ed630fdc5b2f6b7db6ede6bd86ca92/thumbnails/thumbnail.jpg" width="600" alt="Ayı Kendi Kendine Sarılma Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4414)**
+
+**Author:** [Andrew Madden](https://x.com/AndrewM34705304) | **Source:** [Link](https://x.com/AndrewM34705304/status/2052471080108126687) | **Published:** May 7, 2026
+
+---
+### Yoğun Şantiye Şefi Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> İş yeri temalı video oluşturma süreçleri için mükemmel olan; görevler, elektronik tablolar ve çalan telefonlarla çevrili yoğun bir şantiye şefini betimleyen bir istem.
+
+#### 📝 Prompt
+
+```
+Görevlerle dolu, kontroller yapan, elektronik tablolarla uğraşan, telefonu çalan, meşgul bir şantiye şefi
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/209e0de5a6fdb298ca4fe8c62ac96d56/thumbnails/thumbnail.jpg" width="600" alt="Yoğun Şantiye Şefi Sahnesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4420)**
+
+**Author:** [iaCcreators](https://x.com/iaCcreatorss) | **Source:** [Link](https://x.com/iaCcreatorss/status/2052457509789516197) | **Published:** May 7, 2026
+
+---
+### İmparatorluk Ejderhası Mecha Savaşçısı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Antik Çin imparatorluk ejderhası tasarımlarından esinlenen kadın bir mecha savaşçısının 8K sinematik videosu için yüksek detaylı bir komut.
+
+#### 📝 Prompt
+
+```
+Sinematik fotogerçekçi 6 saniyelik video, ultra detaylı 8K, antik Çin imparatorluk ejderhalarından esinlenen hiper gelişmiş bir mecha zırhı içindeki yeni nesil Transformers tarzı kadın savaşçı.
+
+O, gümüş-siyah-altın rengi tam vücut zırhı, parlayan camgöbeği vizör gözleri, karmaşık mekanik eklemleri ve akan sıvı altın enerjisi yayan süslü altın ejderha/aslan omuz zırhları ile şık ve güçlü bir sibernetik kadın varlık. Parlayan altın rünler ve alev benzeri enerji desenleri göğsü, kolları ve bacakları boyunca nabız gibi atıyor. Rüzgarda dramatik bir şekilde dalgalanan, kırmızı detaylı beyaz ipek savaş cübbeleri giyiyor. Sağ elinde devasa, süslü ve parlayan bir enerji kılıcı tutuyor.
+
+Sahne, altın saatte, arka planda geleneksel zırhlı askerlerin ve kırmızı sancakların olduğu tozlu bir antik Çin savaş alanında açılıyor.
+
+Kamera, kaskına ve parlayan gözlerine yapılan dramatik, düşük açılı ve kahramanca bir yakın çekimle başlıyor, ardından o yavaşça kılıcını güçlü bir hazırlık duruşuyla kaldırırken vücudunun etrafında pürüzsüzce dönüyor. Zırhından altın bir enerji akıyor, parlak darbeler plakalar boyunca ilerliyor. Kamera dinamik bir şekilde geniş bir sinematik çekime geri çekilirken, o ağır ve yeri sarsan bir adım atıyor; bu sırada heybetli figürü ve arkasındaki kaotik savaş alanı ortaya çıkıyor. Bacaklarının etrafında toz ve közler savruluyor. Hafif mekanik vızıltı ve enerji uğultusu ses efektleri.
+
+Ultra gerçekçi malzemeler, karmaşık metal dokuları, hacimsel ışık hüzmeleri, sinematik renk derecelendirme, Arri Alexa 65 + anamorfik lenslerle çekilmiş, IMAX kalitesi, hiper detaylı, fotogerçekçi, epik ve görkemli atmosfer, 24fps, pürüzsüz hareket, kusursuz anatomi ve mekanik detaylar.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c9a4b2e7bfe22645ff144e9d1132f4ce/thumbnails/thumbnail.jpg" width="600" alt="İmparatorluk Ejderhası Mecha Savaşçısı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4412)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2052454754220122616) | **Published:** May 7, 2026
+
+---
+### Kamera Geri Çekilmesiyle Karakter Ortaya Çıkarma
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> İlk karakterin yanında duran ikinci bir karakteri ortaya çıkaran dramatik bir kamera geri çekilme hareketi oluşturmak için tasarlanmış bir Grok Imagine istemi.
+
+#### 📝 Prompt
+
+```
+Kamera geri çekilir, siyah saçlı ve kırmızı gözlü başka bir kadını ortaya çıkarır, yan yana duruyorlar, el ele tutuşuyorlar
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ead034b3e9fd8adccad2ed08dbbca2c7/thumbnails/thumbnail.jpg" width="600" alt="Kamera Geri Çekilmesiyle Karakter Ortaya Çıkarma">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4415)**
+
+**Author:** [Benjamin Ferrarini](https://x.com/Granddragonben) | **Source:** [Link](https://x.com/Granddragonben/status/2052418646790586768) | **Published:** May 7, 2026
+
+---
+### Orman Deresindeki Metalik Ejderhalar
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Çiçeklerle dolu bir çayırda uçan ve orman deresine dalan yeşil ve mavi metalik ejderhaları konu alan detaylı sinematik sekans.
+
+#### 📝 Prompt
+
+```
+Orman içinden geçen dere, sarı çiçeklerle kaplı küçük çayır, yumuşak orta ışıkta yeşil metalik ejderha, görüş alanına giriyor, suyun altına dalıyor, sudan dışarı çıkıyor ve ardından gece mavisi parlak metalik ejderha onu takip ediyor,
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/af21a57e04da9ddf2af1b2f5a13a3588/thumbnails/thumbnail.jpg" width="600" alt="Orman Deresindeki Metalik Ejderhalar">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4410)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2052408031577874847) | **Published:** May 7, 2026
+
+---
+### Wabi-Sabi ile Büyüleyici Podyum Yürüyüşü
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Bir karakterin, kendine has, ham sanatsal tarzını koruyarak ve özgüven sergileyerek göz alıcı bir podyumda yürümesini canlandırmak için açıklayıcı bir komut.
+
+#### 📝 Prompt
+
+```
+Görselin ham ama büyüleyici hissini değiştirmeden, onun göz alıcı bir podyumda yürümesini istiyorum. Özgüven dolu ve wabi-sabi estetiğini bünyesinde barındıran, bu dünyanın güzelliğini ifade eden bir şekilde yürüdüğünü görmek isterim.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4bc0254160c56ffc041f20a41228644f/thumbnails/thumbnail.jpg" width="600" alt="Wabi-Sabi ile Büyüleyici Podyum Yürüyüşü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4418)**
+
+**Author:** [だえぽ](https://x.com/daepo08) | **Source:** [Link](https://x.com/daepo08/status/2052362850891632810) | **Published:** May 7, 2026
+
+---
+### Kutsal Siber Savaşçı Dönüşümü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Fütüristik bir tapınakta kutsal bir mecha savaşçısının dönüşümünü detaylandıran, 6 saniyelik karmaşık ve sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Yeni nesil Transformers'ın nefes kesici, 6 saniyelik sinematik videosu.
+
+Referans görselden esinlenilen, şık beyaz ve gümüş mekanik kask takan ultra detaylı sibernetik bir savaşçının aşırı yakın çekimiyle başlayın: enerjiyle dönen parlayan kırmızı dairesel optik lensler, karmaşık açık dişliler ve pistonlar, çok sayıda kalın esnek solunum tüpü, süslü gümüş boynuzlar ve dikenler, altın kutsal sembollerle süslü siyah dökümlü cübbe. Kask, kutsal ama tehditkar bir tasarıma sahip.
+
+Savaşçı gerçek zamanlı olarak dramatik bir şekilde dönüşür: zırh plakaları mekanik bir hassasiyetle kayar ve açılır, vücut boyunca parlayan enerji hatları nabız gibi atar, omuzlardan ve kollardan yeni silah sistemleri çıkar, enerji ve metalden kanatlar açılır. Kıvılcımlar, elektrik arkları ve holografik rünler her yere saçılır. Arka plan, neon mavi ve mor aydınlatmalı, yüzen enkazlar ve enerji parçacıklarıyla dolu karanlık ve fütüristik bir siber tapınaktır.
+
+Dinamik kamera: kask üzerinde yakın başlar, ardından savaşçı güçlü bir savaş duruşuna yükselirken ve kırmızı gözleri daha parlak bir şekilde parıldarken yumuşak bir şekilde geri çekilir ve dönüşen savaşçının etrafında döner. Dönüşümün zirvesinde (yaklaşık 3-4 saniye) epik ağır çekim, hareketli parçalarda yoğun hareket bulanıklığı, tanrı ışınları, sinematik renk derecelendirmesi, hiper gerçekçi detaylar, 8K kalite, dramatik orkestral ses tasarımı.
+
+Stil: ultra gerçekçi, fotogerçekçi, siberpunk ve kutsal bilim kurgunun buluşması, çılgın seviyede mekanik detay, kusursuz animasyon, başyapıt.
+Süre: tam olarak 6 saniye, 24fps, akıcı hareket.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9671a526c0fb5b4235b0005e31005421/thumbnails/thumbnail.jpg" width="600" alt="Kutsal Siber Savaşçı Dönüşümü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4411)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2052328407753486539) | **Published:** May 7, 2026
+
+---
+### Huzurlu Sabah Veranda Manzarası
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Orman içindeki bir nehre bakan verandada sohbet eden iki kadının olduğu huzurlu bir sabah sahnesi için oldukça betimleyici bir komut.
+
+#### 📝 Prompt
+
+```
+Gür ormanlar ve kır çiçekleriyle çevrili sakin bir nehre bakan, ahşap kaplı bir verandada huzurlu bir sabah; ağaçların arasından süzülen sıcak ve altın rengi güneş ışığı. Verandada, iki kadın rahat beyaz döner sandalyelerde oturuyor, gülümsüyor ve sohbet ediyor...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/89dc298e63ec679c3a98afb43fc6cfef/thumbnails/thumbnail.jpg" width="600" alt="Huzurlu Sabah Veranda Manzarası">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4409)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2052306597393666105) | **Published:** May 7, 2026
+
+---
+### Göksel Anka Elf İmparatoriçesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Beyaz anka kuşu kanatlarına sahip, dramatik bir İzlanda uçurumunun kenarında, volümetrik sis ve zümrüt detaylarla çevrili asil bir elf savaşçı imparatoriçenin sinematik videosunu oluşturmak için oldukça detaylı bir karanlık fantezi istemi.
+
+#### 📝 Prompt
+
+```
+Karanlık fantezi, ultra fotogerçekçi sinematik düşük açılı tam boy portre, dramatik İzlanda siyah bazalt uçurumunun kenarında asil elf savaşçı imparatoriçe, arkasında dönen yoğun volümetrik sis, karamsar kapalı hava. Zarif ve vakur duruş, zümrüt detaylı göksel altın yüksek topuklu ayakkabılar, soluk ışıldayan ten, keskin elf hatları, parlayan zümrüt gözler, anka kuşu motifli karmaşık altın boynuzlu miğfer, zümrüt detaylı ve savaş izleri taşıyan şık fırçalanmış altın anatomik zırh, yere kadar uzanan koyu zümrüt ipek elbise, tam bacak kapatıcılığı, yırtmaçsız, zırh ve elbise üzerinde birleşen zengin altın anka kuşu tüyü işlemeleri, rüzgarda dalgalanan uzun ipek pelerin, sırttan çıkan altın uçlu tüylere ve altın damarlara sahip devasa beyaz anka kuşu kanatları, zırh ve pelerinle kusursuz bir şekilde bütünleşmiş, parlayan zümrüt taşlı uzun süslü altın ve obsidyen göksel asa tutuyor, dramatik kenar aydınlatması, turkuaz altın renk derecelendirmesi, sinematik atmosfer, anamorfik film görünümü, hiper detaylı, şaheser.
+```
+
+<img src="https://cms-assets.youmind.com/media/1778227021810_0fcpan_HHsxiBcWgAEVcuK.jpg" width="600" alt="Göksel Anka Elf İmparatoriçesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4417)**
+
+**Author:** [DUST](https://x.com/Dustfinger2077) | **Source:** [Link](https://x.com/Dustfinger2077/status/2052288595843535324) | **Published:** May 7, 2026
+
+---
+### Korsan Gemisi Fırtına Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Tuzla kaplı güverteler ve kaotik fırtına rüzgarları içeren bir korsan gemisi sahnesi için detaylı sinematik video istemi.
+
+#### 📝 Prompt
+
+```
+Fırtına yaklaşıyor. Toplar hazır. Güverte tuz ve kaosla kayganlaşmış. Rüzgar yelkenleri parçalıyor.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/43c58805936b142557caa47d7c2051c8/thumbnails/thumbnail.jpg" width="600" alt="Korsan Gemisi Fırtına Sahnesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4419)**
+
+**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2052263407475454007) | **Published:** May 7, 2026
+
+---
+### Yıldızlı Dilek Pulp Kapak
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yıldızlar ve dilekler temalı, nostaljik pulp roman kapağı tarzında sinematik bir video.
+
+#### 📝 Prompt
+
+```
+Dileklerin yıldızlarda biriktiğini ve sonra gerçekleştiğini söylüyor. Pulp Kapak Şablonu
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7266275606f86c260fc5a0ab27bbedaf/thumbnails/thumbnail.jpg" width="600" alt="Yıldızlı Dilek Pulp Kapak">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4413)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2052225158006395260) | **Published:** May 7, 2026
+
+---
 ### Tanrısal Ses ve Zaman Portalı Videosu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1861,255 +2127,6 @@ Gösterişli bir siberpunk kimono giymiş, resim çizen Japon bir kadın. Çizim
 **Author:** [トマスのAI画像・動画研究所](https://x.com/thomasainya) | **Source:** [Link](https://x.com/thomasainya/status/2050241289506209963) | **Published:** May 1, 2026
 
 ---
-### Cyberpunk Android Okul Kızı Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Fütüristik bir otobüste oturan cyberpunk android okul kızının yüksek kaliteli videosunu oluşturmak için karakter görünümü ve aydınlatmaya odaklanan detaylı bir sinematik komut (prompt).
-
-#### 📝 Prompt
-
-```
-Sessiz ve fütüristik bir okul otobüsünün içinde oturan, doğrudan kameraya sakin ve otoriter bir ifadeyle bakan, platin sarısı saçlı, çarpıcı bir cyberpunk android okul kızının yakın çekimi
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e18be61a928085dadc5e1240ab53968e/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Android Okul Kızı Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4020)**
-
-**Author:** [Humble Whisper](https://x.com/humble_whisper) | **Source:** [Link](https://x.com/humble_whisper/status/2050218692315640261) | **Published:** May 1, 2026
-
----
-### Gotik Kadın ve Albino Aslan Portresi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için gotik taçlı bir kadın ve görkemli beyaz bir aslanın yan profil portresini içeren karanlık fantezi temalı sinematik bir istem.
-
-#### 📝 Prompt
-
-```
-kısa siyah küt saçlı ve düz perçemli, çilli tenli, bakışları hafifçe aşağıya yönelmiş, başında sivri uçlu ve mücevherli karmaşık siyah gotik bir taç ve siyah dantel yüksek yakalı bir elbise giyen solgun genç bir kadının dramatik yan profil portresi. Sol taraftan ona yakın bir şekilde bakan, yüzü neredeyse onunkine değen, sakin ve güçlü bir ifadeye sahip görkemli beyaz bir albino aslan. Derin zengin bordo kırmızı arka plan, güçlü gölgeler ve vurgularla karamsar sinematik aydınlatma, yüksek kontrast, neredeyse siyah beyaz ancak hafif sıcaklık içeren doygunluğu azaltılmış tonlar, fotogerçekçi, ultra detaylı kürk ve cilt dokusu, keskin odak, karanlık fantezi atmosferi, asil ve yoğun bir ruh hali, şaheser fotoğrafçılık tarzı.
-```
-
-<img src="https://cms-assets.youmind.com/media/1777708953480_7sah9k_HHO2R7-XgAAGGY_.jpg" width="600" alt="Gotik Kadın ve Albino Aslan Portresi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4018)**
-
-**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2050182739442257945) | **Published:** May 1, 2026
-
----
-### Fütüristik Bilim Kurgu Taktik Kadın Koridor Yürüyüşü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Karanlık, fütüristik bir bilim kurgu koridorunda dramatik ışıklandırma altında güçlü bir şekilde yürüyen, şık beyaz taktik kıyafetli atletik bir kadının sinematik video istemi.
-
-#### 📝 Prompt
-
-```
-Kararlı ve kendinden emin bir ifadeye sahip, güzel ve atletik genç bir kadın, karanlık fütüristik bir bilim kurgu koridorunda güçlü adımlarla yürüyor. Üzerinde gri zırh panelleri, güçlendirilmiş omuz pedleri, mekanik sibernetik sağ kol, cepli ve kılıflı bir kemer, diz zırhı ve ağır savaş botları bulunan, vücuda tam oturan şık beyaz bir taktik kıyafet var. Başında, tepesinde keskin, yarasa kulağına benzer sivri uçlar bulunan beyaz fütüristik bir kask takılı. Sağ elinde büyük, kavisli bir savaş bıçağı, sol elinde ise fütüristik bir tabanca tutuyor. Tepedeki tavan penceresinden gelen güçlü ışık huzmeleri ve parlayan yan panellerle oluşturulmuş dramatik sinematik aydınlatma, yoğun hacimsel ışık hüzmeleri, koridor duvarlarını kaplayan karmaşık borular, kanallar ve metalik paneller. Fotogerçekçi, ultra detaylı, 8K, sinematik bilim kurgu konsept sanatı, keskin odak, dramatik gölgeler ve vurgular, mükemmel anatomi, başyapıt.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f85da6102ef987cc46ccef6935041c7f/thumbnails/thumbnail.jpg" width="600" alt="Fütüristik Bilim Kurgu Taktik Kadın Koridor Yürüyüşü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4013)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2050165725432602661) | **Published:** May 1, 2026
-
----
-### Kızılderili Savaşçı Yanmış Ormanda
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gün batımında yanmış bir ormandaki Kızılderili savaşçıyı konu alan sinematik el kamerası video istemi.
-
-#### 📝 Prompt
-
-```
-Orta ölçekli el kamerası çekimi, gün batımında yanmış bir ormanda ilerleyen yalnız bir Kızılderili savaşçıyı takip ediyor. Küller havada hafifçe süzülüyor. Savaşçı duruyor, batan güneşe doğru bakıyor ve kısık sesle fısıldıyor: 'Seslerimiz bir gün geri dönecek mi?' Ethereal flüt ve hafif davul sesleri yükseliyor, altyazı yok
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ea0c9523b093d1a3ce92a9d9ea5af052/thumbnails/thumbnail.jpg" width="600" alt="Kızılderili Savaşçı Yanmış Ormanda">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4014)**
-
-**Author:** [LudovicCreator](https://x.com/LudovicCreator) | **Source:** [Link](https://x.com/LudovicCreator/status/2050138179953447126) | **Published:** May 1, 2026
-
----
-### Biyolüminesans Holografik Çiçekler
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Biyolüminesans aydınlatmalı holografik zambakların etrafında gimbal sabitlemeli dönüş içeren bir Grok Imagine video istemi.
-
-#### 📝 Prompt
-
-```
-kamera lambayı göstermek için yavaşça 60 derece döner, Sabitleme için Gimbal ile çekim yapın. biyolüminesans neon pembe ve macenta. vazoda yeşil saplı holografik plumeria ve calla zambakları.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2678a5b9b82952de72fcee2569f516e4/thumbnails/thumbnail.jpg" width="600" alt="Biyolüminesans Holografik Çiçekler">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4012)**
-
-**Author:** [Missy AI](https://x.com/ai_empire33) | **Source:** [Link](https://x.com/ai_empire33/status/2050068193771983034) | **Published:** May 1, 2026
-
----
-### Kelebekli Canlı ve Stilize Kadın
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Karanlık bir boşlukta, göksel ve botanik motiflerin önünde, pembe elbiseli ve elinde kelebek tutan ince yapılı bir kadının güzel bir animasyon illüstrasyonu.
-
-#### 📝 Prompt
-
-```
-Siyah bir boşlukta silüeti keskin bir şekilde tanımlanmış, karmaşık desenli pembe bir elbise giyen ince yapılı bir kadını tasvir eden, sim ve yapay elmaslarla süslenmiş canlı ve stilize bir illüstrasyon. Çok açık, pürüzsüz ve güzel bir cilde sahip olan kadının elinde bir kelebek bulunuyor ve yüz hatları minimalist: kapalı gözler ve büzülmüş dudaklar. Pembe saçları sola doğru dökülüyor. Kompozisyon; altın, beyaz ve mavi renklerde yüzen dokulu dairelerin yanı sıra çiçek şeklindeki kelebekler gibi botanik motifleri de içererek huzurlu ve stilize bir sahne yaratıyor.
-```
-
-<img src="https://cms-assets.youmind.com/media/1777708950345_9tuwe6_HHM9NXKWIAA7TUs.jpg" width="600" alt="Kelebekli Canlı ve Stilize Kadın">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4017)**
-
-**Author:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **Source:** [Link](https://x.com/iamhappy2026/status/2050049677601522037) | **Published:** May 1, 2026
-
----
-### Chibi Sarışın Dergi Rotasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Pijamalı chibi tarzı sarışın bir karakterin dergi yığınının üzerinde oturduğunu gösteren ve 'Imagine' kelimesiyle biten, 10 derecelik yumuşak bir kamera rotasyonu için video istemi.
-
-#### 📝 Prompt
-
-```
-Kamera, dergiyi göstermek için yavaşça 10 derece döner. Stabilizasyon için Gimbal ile çekim yapın; diğer dergilerin üzerinde oturan, düşünceli bir tavra sahip pijamalı sarışın bir chibi. Rotasyonun ardından 'Imagine' kelimesi belirir.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c458ab3e3147ce4de74f1c4075890581/thumbnails/thumbnail.jpg" width="600" alt="Chibi Sarışın Dergi Rotasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4021)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2050047212055298239) | **Published:** May 1, 2026
-
----
-### Elf Prensesi Sihirli Değneği
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sihirli değneğini kullanarak 'Love' (Aşk) kelimesini büyüyle yazan bir elf prensesini konu alan sihirli bir video istemi.
-
-#### 📝 Prompt
-
-```
-Başka bir küçük elf prensesi geliyor, elinde sihirli bir değnek tutuyor ve Love kelimesini oluşturuyor. Yanıt ise Amor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a558f5ea37b1c1931cc3a2582c2c3d30/thumbnails/thumbnail.jpg" width="600" alt="Elf Prensesi Sihirli Değneği">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4023)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2050044248284623039) | **Published:** May 1, 2026
-
----
-### Moda Modelleri Şapka Fırlatma
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Yerde oturan modeller, üzerlerine düşen kırmızı gül yaprakları ve kutlama amaçlı şapka fırlatma anını içeren sinematik bir moda istemi.
-
-#### 📝 Prompt
-
-```
-Tüm modeller yerde oturuyor ve üzerlerine kırmızı gül yaprakları düşüyor; profesyonel fotoğrafçılık ışıklandırması kullanılmıştır. Şapkalarını havaya fırlatıyorlar.... Moda
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/245f1e226883e960fb9a13dea2f70301/thumbnails/thumbnail.jpg" width="600" alt="Moda Modelleri Şapka Fırlatma">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4022)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2050037831934910666) | **Published:** May 1, 2026
-
----
-### Uyku Öncesi Kelebek Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Saç ve göz rengi gibi belirli karakter detaylarına sahip bir çocuk için kelebek sahnesini canlandırmaya yönelik bir komut.
-
-#### 📝 Prompt
-
-```
-Savannah'nın kelebeğini uyku vakti için canlandıralım. Kendisi sarı saçlı ve mavi gözlü.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5c452848eb9e30c33cab73b6d8f25f1b/thumbnails/thumbnail.jpg" width="600" alt="Uyku Öncesi Kelebek Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4009)**
-
-**Author:** [Firecracker](https://x.com/CantTameFire) | **Source:** [Link](https://x.com/CantTameFire/status/2050032115828359538) | **Published:** May 1, 2026
-
----
-### Karda Siyah Jaguar Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok-imagine için, derin karda yürüyen siyah bir jaguarı gerçekçi parçacık fiziği ve kürk dokusuyla gösteren son derece ayrıntılı bir video istemi.
-
-#### 📝 Prompt
-
-```
-Parlayan turuncu gözlere sahip siyah bir jaguar, derin karların içinden doğrudan kameraya doğru yürüyor. Pençeleri kara gömülüyor ve beyaz kar tozlarını havaya kaldırıyor. Küçük kar taneleri havada nazikçe süzülüyor ve kürküne konuyor.
-Belirgin koyu rozetleri olan siyah bir jaguar (melanistik leopar)
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2f100ccb3f1bd0a96a3bdc17801b8a19/thumbnails/thumbnail.jpg" width="600" alt="Karda Siyah Jaguar Video İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3973)**
-
-**Author:** [ahmed ibrahim](https://x.com/AhmedYasienibby) | **Source:** [Link](https://x.com/AhmedYasienibby/status/2049979450322719096) | **Published:** Apr 30, 2026
-
----
-### Güneşteki Ejderhalar Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Çimenli bir alanda güneşlenen kırmızı ve mavi ejderhaların yer aldığı bir video için açıklayıcı komut.
-
-#### 📝 Prompt
-
-```
-Çimenlerin üzerine uzanmış güneşin tadını çıkaran dişi kırmızı ejderha ve erkeksi mavi ejderha
-Güneş ışığında parıldıyorlar
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/885645c861bfc28153b1b6b798dcfccb/thumbnails/thumbnail.jpg" width="600" alt="Güneşteki Ejderhalar Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3957)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2049978116668571712) | **Published:** Apr 30, 2026
-
----
-### Optimus ile Rock Müzik Kutlaması
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Rock gitar müziği eşliğinde, bir kadın ile bir Optimus robotunun hakikati kutladığı etkileşimi içeren bir video istemi.
-
-#### 📝 Prompt
-
-```
-Rock müzik, gitar solosu. Kadın 'Erken kutlama' diyor. Ona bir Optimus robotu eşlik ediyor. Robot 'Hakikatin zaferine şerefe!' diyor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a97a050033b986b4bb9e481a69d65917/thumbnails/thumbnail.jpg" width="600" alt="Optimus ile Rock Müzik Kutlaması">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3975)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2049976672783331538) | **Published:** Apr 30, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2171,6 +2188,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-08T06:13:51.601Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-08T09:47:42.575Z</sub>
 
 </div>

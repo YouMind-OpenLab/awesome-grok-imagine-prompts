@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1425** |
+| 📝 Total Prompts | **1438** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-08** |
 
@@ -189,6 +189,272 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Publicité cinématographique pour le Robotaxi de Tesla
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinématographique complexe pour une publicité du Robotaxi de Tesla, incluant des mouvements de caméra panoramiques et un placement spécifique du logo.
+
+#### 📝 Prompt
+
+```
+Gardez la voiture Tesla exactement telle quelle, effectuez un panoramique arrière pour montrer une longue étendue de route, la voiture roule en restant dans sa voie, faites passer la voiture devant la caméra à toute vitesse, mettez en valeur le logo du Robotaxi en haut de l'image comme s'il s'agissait d'une affiche de film.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/acf2ef5e0de804f7ffd87b501b664c2a/thumbnails/thumbnail.jpg" width="600" alt="Publicité cinématographique pour le Robotaxi de Tesla">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4416)**
+
+**Author:** [Alex Patricio](https://x.com/alexpatricio204) | **Source:** [Link](https://x.com/alexpatricio204/status/2052555531982926184) | **Published:** May 8, 2026
+
+---
+### Monologue cinématographique et séquence d'action
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo complexe mettant en scène un personnage prononçant une réplique culte du cyberpunk, suivie de gestes physiques précis.
+
+#### 📝 Prompt
+
+```
+elle regarde la caméra et dit :
+« Le ciel au-dessus du port avait la couleur d'une télévision. » puis elle se retourne, détournant le regard
+Créez un montage dans ce modèle, en levant ses bras, en posant ses mains sur sa tête et en faisant lentement glisser ses mains le long de son visage...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1edeb34bc2620ca350bbebde02fb98d7/thumbnails/thumbnail.jpg" width="600" alt="Monologue cinématographique et séquence d'action">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4408)**
+
+**Author:** [caroline freebern](https://x.com/myHeartis1true) | **Source:** [Link](https://x.com/myHeartis1true/status/2052505180877340990) | **Published:** May 7, 2026
+
+---
+### Animation d'un ours se faisant un câlin
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de mouvement vidéo illustrant un personnage d'ours passant d'une posture bras ouverts à un auto-câlin.
+
+#### 📝 Prompt
+
+```
+J'aimerais voir cet ours commencer avec les bras grands ouverts, puis se faire un câlin à lui-même
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/33ed630fdc5b2f6b7db6ede6bd86ca92/thumbnails/thumbnail.jpg" width="600" alt="Animation d'un ours se faisant un câlin">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4414)**
+
+**Author:** [Andrew Madden](https://x.com/AndrewM34705304) | **Source:** [Link](https://x.com/AndrewM34705304/status/2052471080108126687) | **Published:** May 7, 2026
+
+---
+### Scène d'un chef de chantier débordé
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt décrivant un chef de chantier débordé, entouré de tâches, de feuilles de calcul et de téléphones qui sonnent, idéal pour la génération de vidéos sur le thème du milieu professionnel.
+
+#### 📝 Prompt
+
+```
+Un chef de chantier croulant sous les tâches, contrôles, feuilles de calcul, téléphones qui sonnent, très occupé
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/209e0de5a6fdb298ca4fe8c62ac96d56/thumbnails/thumbnail.jpg" width="600" alt="Scène d'un chef de chantier débordé">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4420)**
+
+**Author:** [iaCcreators](https://x.com/iaCcreatorss) | **Source:** [Link](https://x.com/iaCcreatorss/status/2052457509789516197) | **Published:** May 7, 2026
+
+---
+### Guerrière Mecha Dragon Impérial
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt ultra-détaillé pour une vidéo cinématographique 8K représentant une guerrière mecha inspirée par les designs des dragons impériaux chinois anciens.
+
+#### 📝 Prompt
+
+```
+Vidéo cinématographique photoréaliste de 6 secondes, 8K ultra-détaillée, guerrière de style Transformers de nouvelle génération dans une armure mecha hyper-avancée inspirée des anciens dragons impériaux chinois.
+
+Il s'agit d'une cybernéticienne élégante et puissante, vêtue d'une armure intégrale argentée, noire et dorée, avec des yeux derrière une visière cyan luminescente, des articulations mécaniques complexes et des épaulières ornées en forme de dragon/lion doré émettant une énergie liquide dorée. Des runes dorées lumineuses et des motifs énergétiques semblables à des flammes pulsent sur son torse, ses bras et ses jambes. Elle porte des robes de combat en soie blanche flottantes avec des accents rouges qui ondulent de manière spectaculaire dans le vent. Dans sa main droite, elle brandit une épée énergétique massive et richement ornée.
+
+La scène s'ouvre sur un champ de bataille chinois ancien et poussiéreux à l'heure dorée, avec des soldats en armure traditionnelle et des bannières rouges en arrière-plan flou.
+
+La caméra commence par un gros plan héroïque en contre-plongée sur son casque et ses yeux brillants, puis orbite en douceur autour de son corps tandis qu'elle lève lentement son épée dans une posture de combat puissante. L'énergie dorée déferle à travers son armure, des pulsations lumineuses parcourant les plaques. Elle fait un pas lourd qui fait trembler le sol alors que la caméra recule dynamiquement pour un plan cinématographique large, révélant sa silhouette imposante et le champ de bataille chaotique derrière elle. De la poussière et des braises tourbillonnent autour de ses jambes. Effets sonores subtils de vrombissements mécaniques et de bourdonnements énergétiques.
+
+Matériaux ultra-réalistes, textures métalliques complexes, rayons divins volumétriques, étalonnage cinématographique, tourné avec Arri Alexa 65 + objectifs anamorphiques, qualité IMAX, hyper-détaillé, photoréaliste, atmosphère épique et majestueuse, 24 fps, mouvement fluide, anatomie et détails mécaniques parfaits.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c9a4b2e7bfe22645ff144e9d1132f4ce/thumbnails/thumbnail.jpg" width="600" alt="Guerrière Mecha Dragon Impérial">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4412)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2052454754220122616) | **Published:** May 7, 2026
+
+---
+### Révélation de personnage par recul de caméra
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt Grok Imagine conçu pour créer un mouvement de recul de caméra dramatique qui révèle un second personnage se tenant aux côtés du premier.
+
+#### 📝 Prompt
+
+```
+La caméra recule, révélant une autre femme, cheveux noirs et yeux rouges, elles se tiennent côte à côte, se tenant la main
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ead034b3e9fd8adccad2ed08dbbca2c7/thumbnails/thumbnail.jpg" width="600" alt="Révélation de personnage par recul de caméra">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4415)**
+
+**Author:** [Benjamin Ferrarini](https://x.com/Granddragonben) | **Source:** [Link](https://x.com/Granddragonben/status/2052418646790586768) | **Published:** May 7, 2026
+
+---
+### Dragons métalliques dans un ruisseau forestier
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une séquence cinématographique détaillée mettant en scène des dragons métalliques verts et bleus volant à travers une prairie fleurie et plongeant dans un ruisseau forestier.
+
+#### 📝 Prompt
+
+```
+Ruisseau à travers la forêt, petite prairie avec des fleurs jaunes, dragon métallique vert clair à la lumière douce, entre dans le champ, plonge sous l'eau, ressort de l'eau suivi d'un dragon brillant métallique bleu nuit,
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/af21a57e04da9ddf2af1b2f5a13a3588/thumbnails/thumbnail.jpg" width="600" alt="Dragons métalliques dans un ruisseau forestier">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4410)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2052408031577874847) | **Published:** May 7, 2026
+
+---
+### Défilé de mode envoûtant dans l'esprit Wabi-Sabi
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt descriptif pour animer un personnage défilant sur un podium glamour tout en préservant un style artistique brut et unique, empreint de confiance.
+
+#### 📝 Prompt
+
+```
+Je souhaite qu'elle défile sur un podium glamour sans perdre l'aspect brut mais charmant de l'image. J'aimerais la voir marcher d'une manière qui exprime la beauté de ce monde, avec assurance et en intégrant l'esthétique wabi-sabi.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4bc0254160c56ffc041f20a41228644f/thumbnails/thumbnail.jpg" width="600" alt="Défilé de mode envoûtant dans l'esprit Wabi-Sabi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4418)**
+
+**Author:** [だえぽ](https://x.com/daepo08) | **Source:** [Link](https://x.com/daepo08/status/2052362850891632810) | **Published:** May 7, 2026
+
+---
+### Transformation d'un guerrier cybernétique sacré
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo cinématographique complexe de 6 secondes détaillant la transformation d'un guerrier mecha sacré dans un temple futuriste.
+
+#### 📝 Prompt
+
+```
+Une vidéo cinématographique époustouflante de 6 secondes mettant en scène des Transformers de nouvelle génération.
+
+Commencez par un très gros plan sur un guerrier cybernétique ultra-détaillé portant un casque mécanique élégant blanc et argent inspiré de l'image de référence : des lentilles optiques circulaires rougeoyant d'énergie, des engrenages et pistons apparents complexes, de multiples tubes respiratoires épais et flexibles, des cornes et pointes argentées ornées, une robe noire fluide avec des symboles sacrés dorés. Le casque présente un design à la fois sacré et menaçant.
+
+Le guerrier se transforme de manière spectaculaire en temps réel : les plaques d'armure se déplacent et se déploient avec une précision mécanique, des lignes d'énergie lumineuses parcourent le corps, de nouveaux systèmes d'armes émergent des épaules et des bras, des ailes d'énergie et de métal se déploient. Des étincelles, des arcs électriques et des runes holographiques volent partout. L'arrière-plan est un cyber-temple futuriste sombre avec un éclairage néon bleu et violet, des débris flottants et des particules d'énergie.
+
+Caméra dynamique : commence serré sur le casque, puis recule en douceur et orbite autour du guerrier en pleine transformation alors qu'il se redresse dans une posture de combat puissante, ses yeux rouges brillant plus intensément. Ralenti épique au pic de la transformation (autour de 3-4 secondes), flou de mouvement intense sur les pièces mobiles, rayons divins, étalonnage des couleurs cinématographique, détails hyper-réalistes, qualité 8K, conception sonore orchestrale dramatique suggérée.
+
+Style : ultra-réaliste, photoréaliste, rencontre entre le cyberpunk et la science-fiction sacrée, niveau de détail mécanique insensé, animation impeccable, chef-d'œuvre.
+Durée : exactement 6 secondes, 24 ips, mouvement fluide.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9671a526c0fb5b4235b0005e31005421/thumbnails/thumbnail.jpg" width="600" alt="Transformation d'un guerrier cybernétique sacré">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4411)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2052328407753486539) | **Published:** May 7, 2026
+
+---
+### Scène paisible de matin sur une véranda
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt très descriptif pour une scène matinale paisible sur une véranda surplombant une rivière en forêt avec deux femmes en pleine discussion.
+
+#### 📝 Prompt
+
+```
+Un matin paisible sur une véranda en bois couverte surplombant une rivière calme entourée d'une forêt luxuriante et de fleurs sauvages, avec une lumière dorée et chaleureuse filtrant à travers les arbres. Sur la véranda, deux femmes sont assises dans des fauteuils pivotants blancs confortables, souriantes et en train de...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/89dc298e63ec679c3a98afb43fc6cfef/thumbnails/thumbnail.jpg" width="600" alt="Scène paisible de matin sur une véranda">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4409)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2052306597393666105) | **Published:** May 7, 2026
+
+---
+### Impératrice elfe du Phénix céleste
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de dark fantasy ultra-détaillé pour créer une vidéo cinématographique d'une impératrice guerrière elfe majestueuse dotée d'ailes de phénix blanches, sur fond de falaise islandaise spectaculaire avec brume volumétrique et accents émeraude.
+
+#### 📝 Prompt
+
+```
+Dark fantasy, portrait cinématographique ultra-photoréaliste en pied en contre-plongée, impératrice guerrière elfe majestueuse sur une falaise spectaculaire en basalte noir en Islande, épaisse brume volumétrique tourbillonnant derrière elle, ciel couvert et mélancolique. Posture gracieuse et assurée, talons hauts dorés célestes avec accents émeraude, peau pâle et lumineuse, traits elfiques fins, yeux émeraude brillants, casque à cornes complexe en forme d'ailes dorées avec motifs de phénix, armure anatomique en or brossé élégant avec accents émeraude et traces de combat, robe en soie vert émeraude sombre jusqu'au sol, jambes entièrement couvertes, sans fente, broderies de plumes de phénix en or riche se fondant sur l'armure et la robe, longue cape en soie flottant au vent, ailes de phénix blanches massives avec plumes aux pointes dorées et veines dorées émergeant du dos, se fondant parfaitement avec l'armure et la cape, tenant un grand sceptre céleste orné en or et obsidienne avec une émeraude brillante, éclairage de contour dramatique, étalonnage des couleurs sarcelle et or, atmosphère cinématographique, rendu film anamorphique, hyper détaillé, chef-d'œuvre.
+```
+
+<img src="https://cms-assets.youmind.com/media/1778227021810_0fcpan_HHsxiBcWgAEVcuK.jpg" width="600" alt="Impératrice elfe du Phénix céleste">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4417)**
+
+**Author:** [DUST](https://x.com/Dustfinger2077) | **Source:** [Link](https://x.com/Dustfinger2077/status/2052288595843535324) | **Published:** May 7, 2026
+
+---
+### Scène de tempête sur un navire pirate
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo cinématographique détaillé pour une scène de navire pirate, mettant en avant des ponts couverts de sel et le chaos d'une tempête.
+
+#### 📝 Prompt
+
+```
+La tempête se prépare. Canons prêts. Pont glissant de sel et de chaos. Le vent déchire les voiles.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/43c58805936b142557caa47d7c2051c8/thumbnails/thumbnail.jpg" width="600" alt="Scène de tempête sur un navire pirate">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4419)**
+
+**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2052263407475454007) | **Published:** May 7, 2026
+
+---
+### Couverture de roman pulp « Starry Wish »
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une vidéo cinématographique dans le style d'une couverture de roman pulp vintage, explorant les thèmes des étoiles et des vœux.
+
+#### 📝 Prompt
+
+```
+Elle dit que les vœux s'accumulent dans les étoiles avant de se réaliser. Modèle Slides Pulp Cover
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7266275606f86c260fc5a0ab27bbedaf/thumbnails/thumbnail.jpg" width="600" alt="Couverture de roman pulp « Starry Wish »">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4413)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2052225158006395260) | **Published:** May 7, 2026
+
+---
 ### Voix divine et portail temporel vidéo
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1861,255 +2127,6 @@ Une femme japonaise dessinant une image dans un kimono cyberpunk flashy. Le dess
 **Author:** [トマスのAI画像・動画研究所](https://x.com/thomasainya) | **Source:** [Link](https://x.com/thomasainya/status/2050241289506209963) | **Published:** May 1, 2026
 
 ---
-### Vidéo d'une écolière androïde cyberpunk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinématographique détaillé pour générer une vidéo de haute qualité représentant une écolière androïde cyberpunk assise dans un bus futuriste, mettant l'accent sur l'apparence du personnage et l'éclairage.
-
-#### 📝 Prompt
-
-```
-Gros plan sur une superbe écolière androïde cyberpunk assise dans un bus scolaire futuriste et calme, regardant directement la caméra avec une présence sereine et imposante, cheveux platine
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e18be61a928085dadc5e1240ab53968e/thumbnails/thumbnail.jpg" width="600" alt="Vidéo d'une écolière androïde cyberpunk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4020)**
-
-**Author:** [Humble Whisper](https://x.com/humble_whisper) | **Source:** [Link](https://x.com/humble_whisper/status/2050218692315640261) | **Published:** May 1, 2026
-
----
-### Portrait d'une femme gothique et d'un lion albinos
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinématographique de dark fantasy pour Grok Imagine mettant en scène le portrait de profil d'une femme portant une couronne gothique et d'un majestueux lion blanc.
-
-#### 📝 Prompt
-
-```
-portrait dramatique de profil d'une jeune femme pâle avec un carré court noir et une frange droite, peau tachetée de taches de rousseur, regard intense légèrement dirigé vers le bas, portant une couronne gothique noire complexe avec des pointes et des bijoux sur la tête, robe en dentelle noire à col montant. Face à elle, tout près sur la gauche, un majestueux lion albinos blanc à la crinière épaisse, son visage touchant presque le sien, expression calme et puissante. Fond rouge bordeaux profond et riche, éclairage cinématographique plein d'ambiance avec des ombres et des lumières marquées, contraste élevé, tons désaturés presque noir et blanc mais avec une subtile chaleur, photoréaliste, texture de la fourrure et de la peau ultra-détaillée, mise au point nette, atmosphère de dark fantasy, ambiance royale et intense, style photographie de chef-d'œuvre.
-```
-
-<img src="https://cms-assets.youmind.com/media/1777708953480_7sah9k_HHO2R7-XgAAGGY_.jpg" width="600" alt="Portrait d'une femme gothique et d'un lion albinos">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4018)**
-
-**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2050182739442257945) | **Published:** May 1, 2026
-
----
-### Femme tactique futuriste de science-fiction marchant dans un couloir
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo cinématographique montrant une femme athlétique dans une combinaison tactique blanche élégante, marchant avec assurance dans un couloir sombre de science-fiction futuriste sous un éclairage dramatique.
-
-#### 📝 Prompt
-
-```
-Une belle jeune femme athlétique à l'expression déterminée et confiante, marchant avec puissance dans un sombre couloir de science-fiction futuriste. Elle porte une combinaison tactique blanche élégante et ultra-ajustée avec des panneaux blindés gris, des épaulettes renforcées, un bras cybernétique mécanique à droite, une ceinture utilitaire avec des pochettes et des étuis, des protections aux genoux et de lourdes bottes de combat. Elle porte un casque futuriste blanc avec des oreilles pointues en forme de chauve-souris sur le dessus. Dans sa main droite, elle tient une grande lame de combat incurvée, et dans sa main gauche, un pistolet futuriste. Éclairage cinématographique dramatique avec de puissants faisceaux lumineux provenant d'une lucarne zénithale et de panneaux latéraux lumineux, rayons volumétriques intenses, tuyaux complexes, conduits et panneaux métalliques tapissant les murs du couloir. Photoréaliste, ultra-détaillé, 8K, concept art de science-fiction cinématographique, mise au point nette, ombres et reflets dramatiques, anatomie parfaite, chef-d'œuvre
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f85da6102ef987cc46ccef6935041c7f/thumbnails/thumbnail.jpg" width="600" alt="Femme tactique futuriste de science-fiction marchant dans un couloir">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4013)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2050165725432602661) | **Published:** May 1, 2026
-
----
-### Guerrier amérindien dans une forêt brûlée
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo cinématographique filmé à la main représentant un guerrier amérindien dans une forêt brûlée au coucher du soleil.
-
-#### 📝 Prompt
-
-```
-Plan moyen filmé à la main suivant un guerrier amérindien solitaire se déplaçant dans une forêt brûlée au coucher du soleil. Des cendres flottent doucement dans l'air. Il s'arrête, regarde vers le soleil déclinant et murmure doucement : « Nos voix reviendront-elles un jour ? » Flûte éthérée et percussions légères en fond sonore, sans sous-titres.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ea0c9523b093d1a3ce92a9d9ea5af052/thumbnails/thumbnail.jpg" width="600" alt="Guerrier amérindien dans une forêt brûlée">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4014)**
-
-**Author:** [LudovicCreator](https://x.com/LudovicCreator) | **Source:** [Link](https://x.com/LudovicCreator/status/2050138179953447126) | **Published:** May 1, 2026
-
----
-### Fleurs holographiques bioluminescentes
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo pour Grok Imagine présentant une rotation stabilisée par cardan autour de lys holographiques avec un éclairage bioluminescent.
-
-#### 📝 Prompt
-
-```
-la caméra pivote lentement à 60 degrés pour montrer la lampe, prise de vue avec un cardan pour la stabilisation. rose néon bioluminescent et magenta. frangipaniers et lys calla holographiques avec des tiges vertes dans le vase.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2678a5b9b82952de72fcee2569f516e4/thumbnails/thumbnail.jpg" width="600" alt="Fleurs holographiques bioluminescentes">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4012)**
-
-**Author:** [Missy AI](https://x.com/ai_empire33) | **Source:** [Link](https://x.com/ai_empire33/status/2050068193771983034) | **Published:** May 1, 2026
-
----
-### Femme stylisée vibrante avec des papillons
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Une magnifique illustration animée d'une femme élancée en robe rose tenant un papillon, sur fond de vide sombre avec des motifs célestes et botaniques.
-
-#### 📝 Prompt
-
-```
-Une illustration stylisée et vibrante, agrémentée de paillettes et de strass, représentant une femme élancée vêtue d'une robe rose aux motifs complexes, sa silhouette se détachant nettement sur un vide noir. Elle possède une peau très claire, pure et magnifique, tient un papillon, et ses traits sont minimalistes : yeux fermés et lèvres pincées. Ses cheveux roses tombent sur le côté gauche. La composition intègre des cercles texturés flottants en or, blanc et bleu, ainsi que des motifs botaniques, notamment des papillons en forme de fleurs, créant une scène sereine et stylisée.
-```
-
-<img src="https://cms-assets.youmind.com/media/1777708950345_9tuwe6_HHM9NXKWIAA7TUs.jpg" width="600" alt="Femme stylisée vibrante avec des papillons">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4017)**
-
-**Author:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **Source:** [Link](https://x.com/iamhappy2026/status/2050049677601522037) | **Published:** May 1, 2026
-
----
-### Rotation de magazine avec personnage chibi blond
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo pour une rotation fluide de caméra de 10 degrés montrant un personnage chibi blond en pyjama assis sur une pile de magazines, se terminant par le mot « Imagine ».
-
-#### 📝 Prompt
-
-```
-la caméra pivote lentement de 10 degrés pour montrer le magazine. Filmez avec un stabilisateur Gimbal, un chibi blond en pyjama à l'attitude réfléchie est assis sur les autres magazines. De la rotation apparaît le mot Imagine.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c458ab3e3147ce4de74f1c4075890581/thumbnails/thumbnail.jpg" width="600" alt="Rotation de magazine avec personnage chibi blond">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4021)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2050047212055298239) | **Published:** May 1, 2026
-
----
-### Baguette magique de princesse elfe
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo féerique mettant en scène une princesse elfe utilisant une baguette magique pour écrire le mot « Love ».
-
-#### 📝 Prompt
-
-```
-Une autre petite princesse elfe arrive, tenant une baguette magique, et forme le mot Love. La réponse est Amor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a558f5ea37b1c1931cc3a2582c2c3d30/thumbnails/thumbnail.jpg" width="600" alt="Baguette magique de princesse elfe">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4023)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2050044248284623039) | **Published:** May 1, 2026
-
----
-### Mannequins mode lançant leurs chapeaux
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt mode cinématographique mettant en scène des mannequins au sol, entourées de pétales de roses rouges qui tombent et lançant leurs chapeaux en signe de célébration.
-
-#### 📝 Prompt
-
-```
-Tous les mannequins sont assis au sol tandis que des pétales de roses rouges tombent, avec un éclairage de photographie professionnelle. Ils lancent leurs chapeaux en l'air... Mode
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/245f1e226883e960fb9a13dea2f70301/thumbnails/thumbnail.jpg" width="600" alt="Mannequins mode lançant leurs chapeaux">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4022)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2050037831934910666) | **Published:** May 1, 2026
-
----
-### Animation de papillon pour l'heure du coucher
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour animer une scène de papillon destinée à un enfant, avec des détails spécifiques sur le personnage comme la couleur des cheveux et des yeux.
-
-#### 📝 Prompt
-
-```
-Donnons vie au papillon de Savannah pour son histoire du soir. Elle a les cheveux blonds et les yeux bleus.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5c452848eb9e30c33cab73b6d8f25f1b/thumbnails/thumbnail.jpg" width="600" alt="Animation de papillon pour l'heure du coucher">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4009)**
-
-**Author:** [Firecracker](https://x.com/CantTameFire) | **Source:** [Link](https://x.com/CantTameFire/status/2050032115828359538) | **Published:** May 1, 2026
-
----
-### Prompt vidéo : Jaguar noir dans la neige
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo ultra-détaillé pour Grok-imagine montrant un jaguar noir marchant dans une neige épaisse, avec une physique des particules et une texture de pelage réalistes.
-
-#### 📝 Prompt
-
-```
-Un jaguar noir aux yeux orange lumineux marche droit vers la caméra à travers une neige épaisse. Ses pattes s'enfoncent dans la neige, soulevant de la poudre blanche. De petits flocons tombent doucement dans l'air et se déposent sur son pelage.
-Un jaguar noir (léopard mélanique) avec des rosettes sombres visibles
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2f100ccb3f1bd0a96a3bdc17801b8a19/thumbnails/thumbnail.jpg" width="600" alt="Prompt vidéo : Jaguar noir dans la neige">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3973)**
-
-**Author:** [ahmed ibrahim](https://x.com/AhmedYasienibby) | **Source:** [Link](https://x.com/AhmedYasienibby/status/2049979450322719096) | **Published:** Apr 30, 2026
-
----
-### Vidéo de dragons au soleil
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt descriptif pour une vidéo mettant en scène des dragons rouges et bleus se prélassant au soleil dans un champ d'herbe.
-
-#### 📝 Prompt
-
-```
-Une dragonne rouge et un dragon bleu viril étendus sur l'herbe, profitant du soleil
-Scintillant sous les rayons du soleil
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/885645c861bfc28153b1b6b798dcfccb/thumbnails/thumbnail.jpg" width="600" alt="Vidéo de dragons au soleil">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3957)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2049978116668571712) | **Published:** Apr 30, 2026
-
----
-### Célébration rock avec Optimus
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo mettant en scène de la musique rock à la guitare et l'interaction entre une femme et un robot Optimus célébrant la vérité.
-
-#### 📝 Prompt
-
-```
-Musique rock, solo de guitare. Elle dit : « Célébration en avance ». Accompagnée par un robot Optimus. Le robot dit : « Santé au triomphe de la vérité ! »
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a97a050033b986b4bb9e481a69d65917/thumbnails/thumbnail.jpg" width="600" alt="Célébration rock avec Optimus">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3975)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2049976672783331538) | **Published:** Apr 30, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2171,6 +2188,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-08T06:13:45.458Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-08T09:47:37.022Z</sub>
 
 </div>

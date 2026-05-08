@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **1425** |
+| 📝 提示词总数 | **1438** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-05-08** |
 
@@ -189,6 +189,272 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### Tesla Robotaxi 电影广告
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于 Tesla Robotaxi 广告的复杂电影级提示词，包含摄像机平移和特定的 Logo 放置要求。
+
+#### 📝 提示词
+
+```
+保持 Tesla 汽车原样，镜头平移以展示一段长长的公路，汽车保持在车道内行驶，让汽车从镜头前飞驰而过，并在画面顶部强调 Robotaxi 的 Logo，使其看起来像电影广告一样
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/acf2ef5e0de804f7ffd87b501b664c2a/thumbnails/thumbnail.jpg" width="600" alt="Tesla Robotaxi 电影广告">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4416)**
+
+**作者:** [Alex Patricio](https://x.com/alexpatricio204) | **来源:** [Link](https://x.com/alexpatricio204/status/2052555531982926184) | **发布时间:** May 8, 2026
+
+---
+### 电影级独白与动作序列
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个复杂的视频提示词，包含角色说出一句著名的赛博朋克台词，随后进行特定的肢体动作。
+
+#### 📝 提示词
+
+```
+她看向镜头并说道：
+“港口上方的天空呈现出电视机的颜色。” 随后她转过身去，看向别处。
+在此模型中进行编辑，让她抬起双臂并将双手放在头上，然后缓慢地将手从脸上滑下……
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1edeb34bc2620ca350bbebde02fb98d7/thumbnails/thumbnail.jpg" width="600" alt="电影级独白与动作序列">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4408)**
+
+**作者:** [caroline freebern](https://x.com/myHeartis1true) | **来源:** [Link](https://x.com/myHeartis1true/status/2052505180877340990) | **发布时间:** May 7, 2026
+
+---
+### 小熊自我拥抱动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个视频动态提示词，描绘了一只小熊从张开双臂的拥抱姿势转变为自我拥抱的过程。
+
+#### 📝 提示词
+
+```
+我希望看到这只小熊一开始张开双臂做出大大的拥抱动作，然后转为自我拥抱
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/33ed630fdc5b2f6b7db6ede6bd86ca92/thumbnails/thumbnail.jpg" width="600" alt="小熊自我拥抱动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4414)**
+
+**作者:** [Andrew Madden](https://x.com/AndrewM34705304) | **来源:** [Link](https://x.com/AndrewM34705304/status/2052471080108126687) | **发布时间:** May 7, 2026
+
+---
+### 忙碌的施工经理场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段描述施工经理被任务、电子表格和响个不停的电话包围的提示词，非常适合用于职场主题的视频生成。
+
+#### 📝 提示词
+
+```
+一位忙碌的施工经理，身处繁杂的任务、电子表格和响个不停的电话之中
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/209e0de5a6fdb298ca4fe8c62ac96d56/thumbnails/thumbnail.jpg" width="600" alt="忙碌的施工经理场景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4420)**
+
+**作者:** [iaCcreators](https://x.com/iaCcreatorss) | **来源:** [Link](https://x.com/iaCcreatorss/status/2052457509789516197) | **发布时间:** May 7, 2026
+
+---
+### 御龙机甲战士
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个 8K 电影级视频的高细节提示词，灵感源自中国古代御龙设计的女性机甲战士。
+
+#### 📝 提示词
+
+```
+电影级写实 6 秒视频，超细节 8K 分辨率，采用变形金刚风格的女性战士，身着灵感源自中国古代御龙的超先进机甲。
+
+她是一位外形流畅、力量强大的女性赛博格，身穿银黑金三色全身盔甲，佩戴发光的青色护目镜，拥有复杂的机械关节，肩甲装饰着华丽的金色龙狮图案，并散发出流动的液态金能量。发光的金色符文和火焰般的能量纹路在她胸部、手臂和腿部脉动。她身披飘逸的白色丝绸战袍，点缀着红色细节，在风中剧烈飘动。右手握着一把巨大的华丽发光能量剑。
+
+场景开篇于黄金时刻尘土飞扬的中国古代战场，背景中隐约可见传统盔甲士兵和红色旗帜。
+
+镜头以戏剧性的低角度英雄特写开始，聚焦于她的头盔和发光的双眼，随后平滑地环绕她的身体，此时她缓慢举起长剑，摆出强有力的准备姿态。金色能量在盔甲中涌动，明亮的光脉在装甲板上穿梭。她迈出沉重的一步，地面随之震动，镜头动态拉远至宽广的电影级全景，展现她威严的全身形象以及身后混乱的战场。尘埃和余烬在她腿部周围旋绕。伴有细微的机械运转声和能量嗡嗡声。
+
+超写实材质，复杂的金属纹理，体积光，电影级调色，使用 Arri Alexa 65 搭配变形镜头拍摄，IMAX 级画质，超高细节，照片级真实感，史诗般宏伟的氛围，24fps，平滑运动，完美的解剖结构和机械细节。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c9a4b2e7bfe22645ff144e9d1132f4ce/thumbnails/thumbnail.jpg" width="600" alt="御龙机甲战士">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4412)**
+
+**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **来源:** [Link](https://x.com/ThoughCreator/status/2052454754220122616) | **发布时间:** May 7, 2026
+
+---
+### 摄像机后拉角色揭示
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 这是一个专为 Grok Imagine 设计的提示词，旨在通过戏剧性的摄像机后拉运镜，揭示与第一位角色并肩站立的第二位角色。
+
+#### 📝 提示词
+
+```
+摄像机向后拉，揭示出另一位女性，黑发红眼，她们并肩站立，手牵着手
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ead034b3e9fd8adccad2ed08dbbca2c7/thumbnails/thumbnail.jpg" width="600" alt="摄像机后拉角色揭示">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4415)**
+
+**作者:** [Benjamin Ferrarini](https://x.com/Granddragonben) | **来源:** [Link](https://x.com/Granddragonben/status/2052418646790586768) | **发布时间:** May 7, 2026
+
+---
+### 森林溪流中的金属巨龙
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段细腻的电影级序列，展现了绿色和蓝色的金属巨龙飞过开满鲜花的草地，并潜入森林溪流的场景。
+
+#### 📝 提示词
+
+```
+穿过森林的溪流，开满黄色小花的小草地，柔和的中光下，一条金属绿色的巨龙飞入视野，潜入水中，随后又飞出水面，紧接着一条午夜蓝色的金属光泽巨龙紧随其后。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/af21a57e04da9ddf2af1b2f5a13a3588/thumbnails/thumbnail.jpg" width="600" alt="森林溪流中的金属巨龙">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4410)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2052408031577874847) | **发布时间:** May 7, 2026
+
+---
+### 充满侘寂美感的迷人 T 台走秀
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一个描述性提示词，用于让角色在华丽的 T 台上行走，同时保留其独特、粗犷的艺术风格并展现自信。
+
+#### 📝 提示词
+
+```
+我希望她走在华丽的 T 台上，同时不改变图像中那种粗犷但迷人的质感。我希望看到她以一种展现世界之美的方式行走，充满自信并融入侘寂美学。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4bc0254160c56ffc041f20a41228644f/thumbnails/thumbnail.jpg" width="600" alt="充满侘寂美感的迷人 T 台走秀">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4418)**
+
+**作者:** [だえぽ](https://x.com/daepo08) | **来源:** [Link](https://x.com/daepo08/status/2052362850891632810) | **发布时间:** May 7, 2026
+
+---
+### 神圣赛博战士变身
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段 6 秒的复杂电影级视频提示词，详细描述了未来寺庙中神圣机甲战士的变身过程。
+
+#### 📝 提示词
+
+```
+一段 6 秒令人叹为观止的电影级视频，展现顶尖的变形过程。
+
+从超特写镜头开始，聚焦于一位极其精细的赛博战士，他佩戴着参考图中那种时尚的白银色机械头盔：发光的红色圆形光学镜头伴随着能量旋转，露出错综复杂的齿轮和活塞，多根粗壮且灵活的呼吸管，华丽的银色角和尖刺，身披印有金色神圣符号的黑色长袍。头盔设计既神圣又充满威慑力。
+
+战士在实时中进行戏剧性的变身：装甲板以机械精度移动并展开，发光的能量线在身体上脉动，新的武器系统从肩部和手臂中显现，能量与金属构成的翅膀展开。火花、电弧和全息符文四处飞溅。背景是一个黑暗的未来赛博寺庙，伴有霓虹蓝紫色的灯光、漂浮的碎片和能量粒子。
+
+动态镜头：从头盔的紧凑镜头开始，随后平滑拉远并环绕正在变身的战士，他升起并摆出强有力的战斗姿态，红色的双眼闪烁得更加明亮。在变身巅峰（约 3-4 秒处）采用史诗般的慢动作，移动部件带有强烈的运动模糊，神圣光束，电影级调色，超写实细节，8K 画质，暗示着史诗般的管弦乐音效设计。
+
+风格：超写实，照片级真实感，赛博朋克与神圣科幻的结合，极致的机械细节，完美的动画，杰作。
+时长：精确 6 秒，24fps，流畅动作。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9671a526c0fb5b4235b0005e31005421/thumbnails/thumbnail.jpg" width="600" alt="神圣赛博战士变身">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4411)**
+
+**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **来源:** [Link](https://x.com/ThoughCreator/status/2052328407753486539) | **发布时间:** May 7, 2026
+
+---
+### 宁静的早晨门廊场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个关于森林河流旁门廊上两位女性闲聊的宁静早晨场景的高度描述性提示词。
+
+#### 📝 提示词
+
+```
+一个宁静的早晨，木质带顶门廊俯瞰着被茂密森林和野花环绕的平静河流，温暖的金色阳光穿过树木倾泻而下。在门廊上，两位女性坐在舒适的白色旋转椅上，面带微笑，正在闲聊……
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/89dc298e63ec679c3a98afb43fc6cfef/thumbnails/thumbnail.jpg" width="600" alt="宁静的早晨门廊场景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4409)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2052306597393666105) | **发布时间:** May 7, 2026
+
+---
+### 天界凤凰精灵女皇
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 这是一个高度精细的暗黑奇幻提示词，用于创作一段电影质感的视频，展现一位拥有白色凤凰羽翼的尊贵精灵女皇，背景设定在充满戏剧性的冰岛悬崖边缘，伴有体积雾和祖母绿装饰。
+
+#### 📝 提示词
+
+```
+暗黑奇幻，超写实电影级低角度全身肖像，尊贵的精灵战士女皇站在戏剧性的冰岛黑色玄武岩悬崖边缘，身后浓重的体积雾缭绕，阴郁的阴天。姿态优雅从容，穿着带有祖母绿装饰的天界金色高跟鞋，苍白发光的皮肤，精致的精灵五官，闪烁的祖母绿双眼，饰有凤凰图案的复杂金色角状头盔，带有祖母绿装饰和战斗磨损的流线型拉丝金解剖盔甲，及地深祖母绿丝绸长裙，完全覆盖双腿，无开叉，丰富的金色凤凰羽毛刺绣在盔甲和长裙间融合，长丝绸披风在风中飘动，背部伸展出巨大的白色凤凰羽翼，羽尖带有金色，羽脉呈现金色，与盔甲和披风无缝融合，手持高大华丽的金色与黑曜石天界法杖，顶端镶嵌发光的祖母绿，戏剧性的轮廓光，青金色调，电影氛围，变形镜头感，超精细，杰作。
+```
+
+<img src="https://cms-assets.youmind.com/media/1778227021810_0fcpan_HHsxiBcWgAEVcuK.jpg" width="600" alt="天界凤凰精灵女皇">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4417)**
+
+**作者:** [DUST](https://x.com/Dustfinger2077) | **来源:** [Link](https://x.com/Dustfinger2077/status/2052288595843535324) | **发布时间:** May 7, 2026
+
+---
+### 海盗船风暴场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个详细的电影级视频提示词，用于描绘海盗船场景，包含被盐水浸湿的甲板和混乱的暴风。
+
+#### 📝 提示词
+
+```
+风暴正在形成。大炮已就绪。甲板上满是盐渍与混乱。狂风撕裂着船帆。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/43c58805936b142557caa47d7c2051c8/thumbnails/thumbnail.jpg" width="600" alt="海盗船风暴场景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4419)**
+
+**作者:** [Mario Nawfal](https://x.com/MarioNawfal) | **来源:** [Link](https://x.com/MarioNawfal/status/2052263407475454007) | **发布时间:** May 7, 2026
+
+---
+### 星愿纸浆小说封面
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一部电影质感的视频，采用复古纸浆小说封面风格，以星辰与愿望为主题。
+
+#### 📝 提示词
+
+```
+她说愿望会在星辰中汇聚，最终实现。Plantilla Pulp Cover
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7266275606f86c260fc5a0ab27bbedaf/thumbnails/thumbnail.jpg" width="600" alt="星愿纸浆小说封面">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4413)**
+
+**作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **来源:** [Link](https://x.com/clemensilverio/status/2052225158006395260) | **发布时间:** May 7, 2026
+
+---
 ### 神级旁白与时间之门视频
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1861,255 +2127,6 @@ IMAX 级视觉密度
 **作者:** [トマスのAI画像・動画研究所](https://x.com/thomasainya) | **来源:** [Link](https://x.com/thomasainya/status/2050241289506209963) | **发布时间:** May 1, 2026
 
 ---
-### 赛博朋克仿生人女学生视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份详细的电影级提示词，用于生成高质量的赛博朋克仿生人女学生坐在未来感巴士上的视频，重点展示角色外观与光影效果。
-
-#### 📝 提示词
-
-```
-一张特写镜头，展示了一位令人惊艳的赛博朋克仿生人女学生，她坐在安静的未来感校车内，留着白金色的头发，正以冷静且充满气场的神态直视镜头
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e18be61a928085dadc5e1240ab53968e/thumbnails/thumbnail.jpg" width="600" alt="赛博朋克仿生人女学生视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4020)**
-
-**作者:** [Humble Whisper](https://x.com/humble_whisper) | **来源:** [Link](https://x.com/humble_whisper/status/2050218692315640261) | **发布时间:** May 1, 2026
-
----
-### 哥特风格女性与白化狮子肖像
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是一个为 Grok Imagine 设计的暗黑奇幻电影感提示词，描绘了一位头戴哥特皇冠的女性与一头威严的白狮的侧脸肖像。
-
-#### 📝 提示词
-
-```
-戏剧性的侧脸肖像，一位皮肤白皙的年轻女性，留着黑色短波波头和直刘海，皮肤上有雀斑，眼神深邃且略微向下，头戴饰有尖刺和珠宝的精致黑色哥特皇冠，身穿黑色蕾丝高领礼服。从左侧紧贴着她的是一头威严的白化狮子，鬃毛浓密，脸部几乎触碰着她，表情冷静而有力。深邃浓郁的酒红色背景，充满情绪的电影感光影，强烈的阴影与高光对比，低饱和度色调，近乎黑白但带有微妙的暖意，照片级真实感，超细腻的毛发与皮肤纹理，焦点清晰，暗黑奇幻氛围，高贵而强烈的意境，大师级摄影风格。
-```
-
-<img src="https://cms-assets.youmind.com/media/1777708953480_7sah9k_HHO2R7-XgAAGGY_.jpg" width="600" alt="哥特风格女性与白化狮子肖像">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4018)**
-
-**作者:** [Myluna](https://x.com/monicamoonx) | **来源:** [Link](https://x.com/monicamoonx/status/2050182739442257945) | **发布时间:** May 1, 2026
-
----
-### 未来科幻战术女性走廊漫步
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段电影质感的视频提示词：一位身材健美的女性身着时髦的白色战术紧身衣，在昏暗的未来科幻走廊中大步前行，光影效果极具戏剧性。
-
-#### 📝 提示词
-
-```
-一位美丽、健美的年轻女性，神情坚定自信，在昏暗的未来科幻走廊中大步前行。她身着一件时髦、极度贴身的白色战术紧身衣，配有灰色装甲板、加固肩垫、机械仿生右臂、带有小袋和枪套的战术腰带、护膝以及厚重的战斗靴。她戴着一个白色的未来感头盔，头盔顶部有尖锐的蝙蝠状耳饰。她的右手握着一把巨大的弯曲战斗刀，左手拿着一把未来感手枪。画面呈现戏剧性的电影级光影，强烈的束光从头顶的天窗射入，侧面面板发出微光，走廊墙壁上布满了厚重的体积光束、复杂的管道、导管和金属板。照片级真实感，超精细，8K 分辨率，电影级科幻概念艺术，焦点清晰，戏剧性的阴影与高光，完美的人体结构，杰作。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f85da6102ef987cc46ccef6935041c7f/thumbnails/thumbnail.jpg" width="600" alt="未来科幻战术女性走廊漫步">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4013)**
-
-**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **来源:** [Link](https://x.com/ThoughCreator/status/2050165725432602661) | **发布时间:** May 1, 2026
-
----
-### 美洲原住民战士与被烧毁的森林
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段电影感手持拍摄视频提示词，描绘了一位美洲原住民战士在日落时分身处被烧毁的森林中。
-
-#### 📝 提示词
-
-```
-中景手持镜头跟随一位孤独的美洲原住民战士，在日落时分穿过被烧毁的森林。灰烬在空气中轻轻飘浮。他停下脚步，望向垂落的夕阳，轻声低语：“我们的声音还会回来吗？”空灵的笛声与柔和的鼓声渐强，无字幕。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ea0c9523b093d1a3ce92a9d9ea5af052/thumbnails/thumbnail.jpg" width="600" alt="美洲原住民战士与被烧毁的森林">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4014)**
-
-**作者:** [LudovicCreator](https://x.com/LudovicCreator) | **来源:** [Link](https://x.com/LudovicCreator/status/2050138179953447126) | **发布时间:** May 1, 2026
-
----
-### 生物发光全息花卉
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个 Grok Imagine 视频提示词，展示了围绕全息百合花进行云台稳定旋转的画面，并配有生物发光照明效果。
-
-#### 📝 提示词
-
-```
-摄像机以 60 度角缓慢旋转以展示灯具，使用云台进行稳定拍摄。生物发光霓虹粉色和洋红色。花瓶中插着带有绿色茎秆的全息鸡蛋花和马蹄莲。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2678a5b9b82952de72fcee2569f516e4/thumbnails/thumbnail.jpg" width="600" alt="生物发光全息花卉">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4012)**
-
-**作者:** [Missy AI](https://x.com/ai_empire33) | **来源:** [Link](https://x.com/ai_empire33/status/2050068193771983034) | **发布时间:** May 1, 2026
-
----
-### 充满活力的风格化女性与蝴蝶
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一幅精美的动画插画，描绘了一位身着粉色连衣裙、手持蝴蝶的苗条女性，背景为带有天体和植物图案的深邃虚空。
-
-#### 📝 提示词
-
-```
-一幅充满活力的风格化插画，运用了闪粉和水钻元素，描绘了一位身着复杂图案粉色连衣裙的苗条女性，其轮廓在黑色虚空的映衬下格外清晰。她拥有白皙纯净的肌肤，手中持有一只蝴蝶，面部特征极简：闭着双眼，双唇微抿。她的粉色长发垂向左侧。画面构图包含了金色、白色和蓝色的漂浮纹理圆圈，以及花朵形状的蝴蝶等植物图案，营造出宁静而风格化的场景。
-```
-
-<img src="https://cms-assets.youmind.com/media/1777708950345_9tuwe6_HHM9NXKWIAA7TUs.jpg" width="600" alt="充满活力的风格化女性与蝴蝶">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4017)**
-
-**作者:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **来源:** [Link](https://x.com/iamhappy2026/status/2050049677601522037) | **发布时间:** May 1, 2026
-
----
-### Q 版金发女孩杂志旋转
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个视频提示词，用于实现 10 度的平滑镜头旋转，展示一个穿着睡衣的 Q 版金发角色坐在杂志堆上，最后以“Imagine”一词结尾。
-
-#### 📝 提示词
-
-```
-镜头缓慢旋转 10 度以展示杂志。使用云台进行稳定拍摄，画面中一个穿着睡衣、神情沉思的 Q 版金发女孩坐在杂志堆顶端。随着旋转，画面中浮现出“Imagine”一词。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c458ab3e3147ce4de74f1c4075890581/thumbnails/thumbnail.jpg" width="600" alt="Q 版金发女孩杂志旋转">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4021)**
-
-**作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **来源:** [Link](https://x.com/clemensilverio/status/2050047212055298239) | **发布时间:** May 1, 2026
-
----
-### 精灵公主魔法棒
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个充满魔法的视频提示词，展现了一位精灵公主使用魔法棒拼写出单词“Love”。
-
-#### 📝 提示词
-
-```
-又一位小精灵公主登场，她手持魔法棒，拼写出了单词 Love。回应是 Amor。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a558f5ea37b1c1931cc3a2582c2c3d30/thumbnails/thumbnail.jpg" width="600" alt="精灵公主魔法棒">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4023)**
-
-**作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **来源:** [Link](https://x.com/clemensilverio/status/2050044248284623039) | **发布时间:** May 1, 2026
-
----
-### 时尚模特抛帽
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个电影感的时尚提示词，展现了模特坐在地板上，红色玫瑰花瓣纷纷落下，并伴有庆祝性的抛帽动作。
-
-#### 📝 提示词
-
-```
-所有模特坐在地板上，红色玫瑰花瓣落下，配以专业摄影灯光。她们将帽子抛向空中…… 时尚
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/245f1e226883e960fb9a13dea2f70301/thumbnails/thumbnail.jpg" width="600" alt="时尚模特抛帽">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4022)**
-
-**作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **来源:** [Link](https://x.com/clemensilverio/status/2050037831934910666) | **发布时间:** May 1, 2026
-
----
-### 睡前蝴蝶动画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于为孩子制作蝴蝶场景动画的提示词，包含发色和瞳色等具体的角色细节。
-
-#### 📝 提示词
-
-```
-让我们为 Savannah 的睡前故事赋予这只蝴蝶生命吧。她有着金色的头发和蓝色的眼睛。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5c452848eb9e30c33cab73b6d8f25f1b/thumbnails/thumbnail.jpg" width="600" alt="睡前蝴蝶动画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4009)**
-
-**作者:** [Firecracker](https://x.com/CantTameFire) | **来源:** [Link](https://x.com/CantTameFire/status/2050032115828359538) | **发布时间:** May 1, 2026
-
----
-### 雪中黑豹视频提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个为 Grok-imagine 设计的高细节视频提示词，展示了一只黑豹在深雪中行走，具有逼真的粒子物理效果和毛发质感。
-
-#### 📝 提示词
-
-```
-一只拥有橙色发光双眼的黑豹正穿过深雪径直走向镜头。它的爪子陷入雪中，激起阵阵白色粉末。细小的雪花在空中轻盈飘落，并停留在它的皮毛上。
-一只带有可见深色玫瑰花斑的黑豹（黑色素沉着的豹子）
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2f100ccb3f1bd0a96a3bdc17801b8a19/thumbnails/thumbnail.jpg" width="600" alt="雪中黑豹视频提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3973)**
-
-**作者:** [ahmed ibrahim](https://x.com/AhmedYasienibby) | **来源:** [Link](https://x.com/AhmedYasienibby/status/2049979450322719096) | **发布时间:** Apr 30, 2026
-
----
-### Dragons in the Sun 视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段关于红色和蓝色龙在草地上晒太阳的视频描述提示词。
-
-#### 📝 提示词
-
-```
-红龙女士和雄壮的蓝龙在草地上伸展身体，享受阳光沐浴
-在阳光下闪闪发光
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/885645c861bfc28153b1b6b798dcfccb/thumbnails/thumbnail.jpg" width="600" alt="Dragons in the Sun 视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3957)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2049978116668571712) | **发布时间:** Apr 30, 2026
-
----
-### 与 Optimus 一起庆祝摇滚乐
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段视频提示词，包含摇滚吉他音乐，以及一位女性与 Optimus 机器人共同庆祝真理的互动场景。
-
-#### 📝 提示词
-
-```
-摇滚乐，吉他独奏。她说：“提前庆祝。” 伴随着一个 Optimus 机器人。机器人说：“为真理的胜利干杯！”
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a97a050033b986b4bb9e481a69d65917/thumbnails/thumbnail.jpg" width="600" alt="与 Optimus 一起庆祝摇滚乐">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=3975)**
-
-**作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **来源:** [Link](https://x.com/clemensilverio/status/2049976672783331538) | **发布时间:** Apr 30, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2171,6 +2188,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-05-08T06:13:29.429Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-05-08T09:47:24.689Z</sub>
 
 </div>

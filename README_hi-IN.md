@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1425** |
+| 📝 Total Prompts | **1438** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-08** |
 
@@ -189,6 +189,272 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### Tesla Robotaxi मूवी विज्ञापन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Tesla Robotaxi विज्ञापन के लिए एक जटिल सिनेमैटिक प्रॉम्प्ट, जिसमें कैमरा पैनिंग और विशिष्ट लोगो प्लेसमेंट शामिल है।
+
+#### 📝 Prompt
+
+```
+Tesla कार को बिल्कुल वैसा ही रखें, कैमरे को पैन आउट करें ताकि सड़क का एक लंबा हिस्सा दिखाई दे, कार अपनी लेन में चलते हुए आगे बढ़ रही है, कार को कैमरे के पास से ज़ूम करते हुए गुज़ारें, इमेज के ऊपरी हिस्से में Robotaxi के लोगो पर इस तरह ज़ोर दें जैसे कि यह कोई मूवी विज्ञापन हो
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/acf2ef5e0de804f7ffd87b501b664c2a/thumbnails/thumbnail.jpg" width="600" alt="Tesla Robotaxi मूवी विज्ञापन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4416)**
+
+**Author:** [Alex Patricio](https://x.com/alexpatricio204) | **Source:** [Link](https://x.com/alexpatricio204/status/2052555531982926184) | **Published:** May 8, 2026
+
+---
+### सिनेमैटिक मोनोलॉग और एक्शन सीक्वेंस
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक जटिल वीडियो प्रॉम्प्ट जिसमें एक पात्र प्रसिद्ध साइबरपंक लाइन बोलता है और उसके बाद विशिष्ट शारीरिक हाव-भाव करता है।
+
+#### 📝 Prompt
+
+```
+वह कैमरे की ओर देखती है और कहती है: 
+"The sky above the port was the color of television." फिर वह पीछे मुड़ती है, दूसरी तरफ देखते हुए 
+इस मॉडल में एक एडिट बनाएं, जिसमें वह अपनी भुजाएं ऊपर उठाती है और अपने हाथों को सिर पर रखती है और धीरे-धीरे अपने हाथों को चेहरे से नीचे की ओर ले जाती है...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1edeb34bc2620ca350bbebde02fb98d7/thumbnails/thumbnail.jpg" width="600" alt="सिनेमैटिक मोनोलॉग और एक्शन सीक्वेंस">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4408)**
+
+**Author:** [caroline freebern](https://x.com/myHeartis1true) | **Source:** [Link](https://x.com/myHeartis1true/status/2052505180877340990) | **Published:** May 7, 2026
+
+---
+### भालू का खुद को गले लगाने वाला एनिमेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वीडियो मोशन प्रॉम्प्ट जिसमें एक भालू का किरदार अपनी बाहें फैलाकर गले मिलने की मुद्रा से खुद को गले लगाने की मुद्रा में बदल रहा है।
+
+#### 📝 Prompt
+
+```
+मैं चाहता हूँ कि यह भालू पहले अपनी बाहें फैलाकर गले मिलने की मुद्रा में हो और फिर खुद को गले लगाए
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/33ed630fdc5b2f6b7db6ede6bd86ca92/thumbnails/thumbnail.jpg" width="600" alt="भालू का खुद को गले लगाने वाला एनिमेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4414)**
+
+**Author:** [Andrew Madden](https://x.com/AndrewM34705304) | **Source:** [Link](https://x.com/AndrewM34705304/status/2052471080108126687) | **Published:** May 7, 2026
+
+---
+### व्यस्त निर्माण प्रबंधक का दृश्य
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक प्रॉम्प्ट जो कार्यों, स्प्रेडशीट और बजते फोन से घिरे एक व्यस्त निर्माण प्रबंधक का वर्णन करता है, जो कार्यस्थल-थीम वाले वीडियो निर्माण के लिए एकदम सही है।
+
+#### 📝 Prompt
+
+```
+एक निर्माण प्रबंधक जो कार्यों, नियंत्रणों, स्प्रेडशीट और बजते फोन से भरा हुआ और व्यस्त है
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/209e0de5a6fdb298ca4fe8c62ac96d56/thumbnails/thumbnail.jpg" width="600" alt="व्यस्त निर्माण प्रबंधक का दृश्य">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4420)**
+
+**Author:** [iaCcreators](https://x.com/iaCcreatorss) | **Source:** [Link](https://x.com/iaCcreatorss/status/2052457509789516197) | **Published:** May 7, 2026
+
+---
+### इंपीरियल ड्रैगन मेका वॉरियर
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> प्राचीन चीनी इंपीरियल ड्रैगन डिज़ाइनों से प्रेरित एक महिला मेका वॉरियर के 8K सिनेमैटिक वीडियो के लिए एक उच्च-विवरण वाला प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+सिनेमैटिक फोटो-रियलिस्टिक 6-सेकंड का वीडियो, अल्ट्रा-डिटेल्ड 8K, प्राचीन चीनी इंपीरियल ड्रैगन से प्रेरित हाइपर-एडवांस्ड मेका सूट में नेक्स्ट-लेवल ट्रांसफॉर्मर्स-स्टाइल महिला योद्धा।
+
+वह पूरी तरह से सिल्वर-ब्लैक-गोल्ड आर्मर में एक आकर्षक, शक्तिशाली महिला साइबरनेटिक बीइंग है, जिसकी आँखों पर चमकता हुआ सियान वाइज़र, जटिल मैकेनिकल जोड़, और अलंकृत सुनहरे ड्रैगन/शेर के कंधे के पॉल्ड्रॉन हैं जो बहती हुई लिक्विड-गोल्ड ऊर्जा उत्सर्जित करते हैं। चमकते सुनहरे रून्स और आग जैसे ऊर्जा पैटर्न उसकी छाती, बाहों और पैरों पर धड़कते हैं। उसने लाल लहजे के साथ बहने वाले सफेद रेशमी युद्ध के वस्त्र पहने हैं जो हवा में नाटकीय रूप से लहराते हैं। उसके दाहिने हाथ में एक विशाल अलंकृत चमकती ऊर्जा वाली तलवार है।
+
+दृश्य की शुरुआत गोल्डन आवर में एक धूल भरे प्राचीन चीनी युद्ध के मैदान पर होती है, जिसमें बैकग्राउंड में पारंपरिक बख्तरबंद सैनिक और लाल बैनर दिखाई देते हैं।
+
+कैमरा उसके हेलमेट और चमकती आँखों पर एक नाटकीय लो-एंगल हीरोइक क्लोज़-अप से शुरू होता है, फिर उसके शरीर के चारों ओर धीरे-धीरे घूमता है जबकि वह एक शक्तिशाली रेडी स्टांस में अपनी तलवार उठाती है। सुनहरी ऊर्जा उसके आर्मर से होकर गुजरती है, प्लेटों पर चमकदार पल्स दौड़ती हैं। वह एक भारी, ज़मीन को हिला देने वाला कदम आगे बढ़ाती है, जैसे ही कैमरा गतिशील रूप से पीछे हटकर एक वाइड सिनेमैटिक शॉट में बदलता है, जिससे उसकी पूरी प्रभावशाली आकृति और उसके पीछे का अराजक युद्ध का मैदान दिखाई देता है। उसके पैरों के चारों ओर धूल और अंगारे घूम रहे हैं। सूक्ष्म मैकेनिकल सरसराहट और ऊर्जा की गूँज वाला SFX।
+
+अल्ट्रा-रियलिस्टिक सामग्री, जटिल धातु बनावट, वॉल्यूमेट्रिक गॉड रेज़, सिनेमैटिक कलर ग्रेडिंग, Arri Alexa 65 + एनामोर्फिक लेंस पर शूट किया गया, IMAX क्वालिटी, हाइपर-डिटेल्ड, फोटो-रियलिस्टिक, महाकाव्य और राजसी वातावरण, 24fps, स्मूथ मोशन, सटीक एनाटॉमी और मैकेनिकल विवरण।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c9a4b2e7bfe22645ff144e9d1132f4ce/thumbnails/thumbnail.jpg" width="600" alt="इंपीरियल ड्रैगन मेका वॉरियर">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4412)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2052454754220122616) | **Published:** May 7, 2026
+
+---
+### कैमरा पुलबैक कैरेक्टर रिवील
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक प्रॉम्प्ट, जिसे एक नाटकीय कैमरा पुलबैक मोशन बनाने के लिए डिज़ाइन किया गया है, जो पहले कैरेक्टर के साथ खड़े दूसरे कैरेक्टर को दिखाता है।
+
+#### 📝 Prompt
+
+```
+कैमरा पीछे हटता है, जिससे एक और महिला दिखाई देती है, काले बाल और लाल आँखें, वे कंधे से कंधा मिलाकर खड़ी हैं, एक-दूसरे का हाथ पकड़े हुए
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ead034b3e9fd8adccad2ed08dbbca2c7/thumbnails/thumbnail.jpg" width="600" alt="कैमरा पुलबैक कैरेक्टर रिवील">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4415)**
+
+**Author:** [Benjamin Ferrarini](https://x.com/Granddragonben) | **Source:** [Link](https://x.com/Granddragonben/status/2052418646790586768) | **Published:** May 7, 2026
+
+---
+### जंगल की धारा में धात्विक ड्रेगन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक विस्तृत सिनेमाई दृश्य जिसमें हरे और नीले रंग के धात्विक ड्रेगन फूलों से भरे घास के मैदान से उड़ते हुए और जंगल की धारा में गोता लगाते हुए दिखाई देते हैं।
+
+#### 📝 Prompt
+
+```
+जंगल के बीच से बहती धारा, पीले फूलों वाला छोटा घास का मैदान, हल्का मध्यम-हरा धात्विक ड्रैगन, उड़ते हुए दृश्य में आता है, पानी के नीचे गोता लगाता है, पानी से बाहर निकलता है और उसके पीछे गहरा नीला धात्विक चमकदार ड्रैगन आता है,
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/af21a57e04da9ddf2af1b2f5a13a3588/thumbnails/thumbnail.jpg" width="600" alt="जंगल की धारा में धात्विक ड्रेगन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4410)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2052408031577874847) | **Published:** May 7, 2026
+
+---
+### वाबी-साबी के साथ आकर्षक रनवे वॉक
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> एक आकर्षक रनवे पर चलते हुए कैरेक्टर को एनिमेट करने के लिए एक वर्णनात्मक प्रॉम्प्ट, जो एक अनूठी, कच्ची कलात्मक शैली को बनाए रखते हुए आत्मविश्वास को व्यक्त करता है।
+
+#### 📝 Prompt
+
+```
+मैं चाहता हूँ कि वह इमेज के कच्चे लेकिन आकर्षक अहसास को बदले बिना एक ग्लैमरस रनवे पर चले। मैं उसे इस तरह चलते हुए देखना चाहता हूँ जो इस दुनिया की सुंदरता को व्यक्त करे, आत्मविश्वास से भरपूर हो और जिसमें वाबी-साबी का समावेश हो।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4bc0254160c56ffc041f20a41228644f/thumbnails/thumbnail.jpg" width="600" alt="वाबी-साबी के साथ आकर्षक रनवे वॉक">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4418)**
+
+**Author:** [だえぽ](https://x.com/daepo08) | **Source:** [Link](https://x.com/daepo08/status/2052362850891632810) | **Published:** May 7, 2026
+
+---
+### पवित्र साइबर वॉरियर का रूपांतरण
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक भविष्यवादी मंदिर में एक पवित्र मेका योद्धा के रूपांतरण का विवरण देने वाला 6-सेकंड का जटिल सिनेमाई वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+नेक्स्ट-लेवल ट्रांसफॉर्मर्स का एक शानदार 6-सेकंड का सिनेमाई वीडियो।
+
+रेफरेंस इमेज से प्रेरित एक चिकने सफेद और चांदी के मैकेनिकल हेलमेट को पहने हुए एक अल्ट्रा-डिटेल्ड साइबरनेटिक योद्धा के एक्सट्रीम क्लोज-अप से शुरुआत करें: ऊर्जा के साथ घूमते हुए चमकते लाल गोलाकार ऑप्टिक लेंस, जटिल खुले गियर्स और पिस्टन, कई मोटे लचीले ब्रीदिंग ट्यूब, अलंकृत चांदी के सींग और स्पाइक्स, सुनहरे पवित्र प्रतीकों वाली काली बहती हुई पोशाक। हेलमेट का डिज़ाइन पवित्र होने के साथ-साथ खतरनाक भी है।
+
+योद्धा वास्तविक समय में नाटकीय रूप से रूपांतरित होता है: आर्मर प्लेट्स मैकेनिकल सटीकता के साथ शिफ्ट और अनफोल्ड होती हैं, चमकती ऊर्जा रेखाएं शरीर पर स्पंदित होती हैं, कंधों और भुजाओं से नए हथियार सिस्टम निकलते हैं, ऊर्जा और धातु के पंख फैलते हैं। चिंगारियां, इलेक्ट्रिक आर्क्स और होलोग्राफिक रून्स हर जगह उड़ते हैं। बैकग्राउंड एक गहरा भविष्यवादी साइबर-मंदिर है जिसमें नियॉन नीली और बैंगनी रोशनी, तैरते हुए मलबे और ऊर्जा के कण हैं।
+
+डायनामिक कैमरा: हेलमेट पर टाइट शॉट से शुरू होता है, फिर धीरे-धीरे पीछे हटता है और रूपांतरित होते योद्धा के चारों ओर घूमता है जैसे ही वह एक शक्तिशाली युद्ध मुद्रा में ऊपर उठता है, लाल आंखें और अधिक चमकती हैं। चरम रूपांतरण (लगभग 3-4 सेकंड) पर एपिक स्लो-मोशन, हिलते हुए हिस्सों पर तीव्र मोशन ब्लर, गॉड रेज़, सिनेमाई कलर ग्रेडिंग, हाइपर-रियलिस्टिक विवरण, 8K क्वालिटी, नाटकीय ऑर्केस्ट्रा साउंड डिज़ाइन निहित है।
+
+शैली: अल्ट्रा-रियलिस्टिक, फोटो-रियलिस्टिक, साइबरपंक और पवित्र साइंस-फिक्शन का मेल, मैकेनिकल विवरण का अद्भुत स्तर, त्रुटिहीन एनीमेशन, मास्टरपीस।
+अवधि: ठीक 6 सेकंड, 24fps, स्मूथ मोशन।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9671a526c0fb5b4235b0005e31005421/thumbnails/thumbnail.jpg" width="600" alt="पवित्र साइबर वॉरियर का रूपांतरण">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4411)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2052328407753486539) | **Published:** May 7, 2026
+
+---
+### शांत सुबह का बरामदा दृश्य
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> जंगल और नदी के नज़ारे वाले बरामदे पर दो महिलाओं की बातचीत के शांतिपूर्ण सुबह के दृश्य के लिए एक अत्यधिक वर्णनात्मक प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+एक लकड़ी के ढके हुए बरामदे पर शांतिपूर्ण सुबह, जहाँ से घने जंगल और जंगली फूलों से घिरी एक शांत नदी दिखाई देती है, पेड़ों के बीच से सुनहरी धूप छनकर आ रही है। बरामदे पर, दो महिलाएँ आरामदायक सफेद कुर्सियों पर बैठी हैं, मुस्कुरा रही हैं और बातचीत कर रही हैं...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/89dc298e63ec679c3a98afb43fc6cfef/thumbnails/thumbnail.jpg" width="600" alt="शांत सुबह का बरामदा दृश्य">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4409)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2052306597393666105) | **Published:** May 7, 2026
+
+---
+### सेलेस्टियल फीनिक्स एल्विन एम्प्रेस
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> सफेद फीनिक्स पंखों वाली एक शाही एल्विन योद्धा साम्राज्ञी के सिनेमाई वीडियो बनाने के लिए एक अत्यधिक विस्तृत डार्क फैंटेसी प्रॉम्प्ट, जिसे वॉल्यूमेट्रिक धुंध और पन्ना (emerald) लहजे के साथ एक नाटकीय आइसलैंडिक चट्टान के किनारे पर सेट किया गया है।
+
+#### 📝 Prompt
+
+```
+डार्क फैंटेसी, अल्ट्रा फोटो-रियलिस्टिक सिनेमाई लो-एंगल फुल बॉडी पोर्ट्रेट, नाटकीय आइसलैंडिक ब्लैक बेसाल्ट चट्टान के किनारे पर शाही एल्विन योद्धा साम्राज्ञी, पीछे घूमती भारी वॉल्यूमेट्रिक धुंध, उदास बादल छाए आसमान। सुंदर और संतुलित मुद्रा, पन्ना (emerald) लहजे के साथ सेलेस्टियल गोल्ड हाई हील्स, पीली चमकदार त्वचा, तीखे एल्विन फीचर्स, चमकती पन्ना आँखें, फीनिक्स रूपांकनों के साथ जटिल सुनहरे पंख जैसा सींग वाला हेलमेट, पन्ना लहजे और बैटल वियर के साथ चिकना ब्रश किया हुआ गोल्ड एनाटॉमिकल कवच, फर्श तक लंबी गहरे पन्ने के रंग की रेशमी गाउन, पैरों को पूरी तरह ढके हुए, कोई स्लिट नहीं, कवच और गाउन पर मिश्रित समृद्ध गोल्ड फीनिक्स पंख की कढ़ाई, हवा में लहराता लंबा रेशमी केप, पीठ से निकलते सुनहरी नसों और सुनहरे सिरों वाले पंखों के साथ विशाल सफेद फीनिक्स पंख, जो कवच और केप के साथ सहजता से मिश्रित हैं, चमकते पन्ने के साथ लंबा अलंकृत गोल्ड और ओब्सिडियन सेलेस्टियल स्टाफ पकड़े हुए, नाटकीय रिम लाइटिंग, टील गोल्ड कलर ग्रेडिंग, सिनेमाई वातावरण, एनामोर्फिक फिल्म लुक, हाइपर डिटेल्ड, मास्टरपीस।
+```
+
+<img src="https://cms-assets.youmind.com/media/1778227021810_0fcpan_HHsxiBcWgAEVcuK.jpg" width="600" alt="सेलेस्टियल फीनिक्स एल्विन एम्प्रेस">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4417)**
+
+**Author:** [DUST](https://x.com/Dustfinger2077) | **Source:** [Link](https://x.com/Dustfinger2077/status/2052288595843535324) | **Published:** May 7, 2026
+
+---
+### समुद्री डाकू जहाज का तूफानी दृश्य
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> समुद्री डाकू जहाज के एक दृश्य के लिए विस्तृत सिनेमाई वीडियो प्रॉम्प्ट, जिसमें नमक से भीगे डेक और तूफानी हवाओं का चित्रण है।
+
+#### 📝 Prompt
+
+```
+तूफान बन रहा है। तोपें तैयार हैं। डेक नमक और अराजकता से भीगा हुआ है। हवा पाल को फाड़ रही है।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/43c58805936b142557caa47d7c2051c8/thumbnails/thumbnail.jpg" width="600" alt="समुद्री डाकू जहाज का तूफानी दृश्य">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4419)**
+
+**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2052263407475454007) | **Published:** May 7, 2026
+
+---
+### Starry Wish Pulp Cover
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> विंटेज पल्प नॉवेल कवर की शैली में एक सिनेमैटिक वीडियो, जिसमें सितारों और इच्छाओं के विषय शामिल हैं।
+
+#### 📝 Prompt
+
+```
+वह कहती है कि इच्छाएं सितारों में जमा होती हैं और फिर सच हो जाती हैं। Plantilla Pulp Cover
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7266275606f86c260fc5a0ab27bbedaf/thumbnails/thumbnail.jpg" width="600" alt="Starry Wish Pulp Cover">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4413)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2052225158006395260) | **Published:** May 7, 2026
+
+---
 ### ईश्वरीय आवाज़ और टाइम पोर्टल वीडियो
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1861,255 +2127,6 @@ Grok लोगो वाली टी-शर्ट पहने एक लाल
 **Author:** [トマスのAI画像・動画研究所](https://x.com/thomasainya) | **Source:** [Link](https://x.com/thomasainya/status/2050241289506209963) | **Published:** May 1, 2026
 
 ---
-### साइबरपंक एंड्रॉइड स्कूलगर्ल वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> साइबरपंक एंड्रॉइड स्कूलगर्ल के एक भविष्यवादी बस में बैठे हुए उच्च-गुणवत्ता वाले वीडियो को जनरेट करने के लिए एक विस्तृत सिनेमैटिक प्रॉम्प्ट, जो चरित्र के स्वरूप और लाइटिंग पर केंद्रित है।
-
-#### 📝 Prompt
-
-```
-एक शांत भविष्यवादी स्कूल बस के अंदर बैठी एक शानदार साइबरपंक एंड्रॉइड स्कूलगर्ल का क्लोज़-अप, जो सीधे कैमरे की ओर शांत और प्रभावशाली अंदाज़ में देख रही है, प्लैटिनम बाल
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e18be61a928085dadc5e1240ab53968e/thumbnails/thumbnail.jpg" width="600" alt="साइबरपंक एंड्रॉइड स्कूलगर्ल वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4020)**
-
-**Author:** [Humble Whisper](https://x.com/humble_whisper) | **Source:** [Link](https://x.com/humble_whisper/status/2050218692315640261) | **Published:** May 1, 2026
-
----
-### गॉथिक महिला और एल्बिनो शेर का पोर्ट्रेट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक डार्क फैंटेसी सिनेमैटिक प्रॉम्प्ट, जिसमें गॉथिक ताज पहने एक महिला और एक राजसी सफेद शेर का साइड-प्रोफाइल पोर्ट्रेट दिखाया गया है।
-
-#### 📝 Prompt
-
-```
-छोटी काली बॉब हेयरकट और सीधी बैंग्स वाली एक गोरी युवती का नाटकीय साइड-प्रोफाइल पोर्ट्रेट, चेहरे पर झाइयां, नीचे की ओर झुकी हुई गहरी नजरें, सिर पर नुकीले और रत्नों से जड़ा एक जटिल काला गॉथिक ताज, काली लेस वाली हाई-नेक ड्रेस। बाईं ओर से उसके ठीक सामने एक राजसी सफेद एल्बिनो शेर है जिसकी घनी अयाल है, उसका चेहरा लगभग महिला के चेहरे को छू रहा है, शांत और शक्तिशाली अभिव्यक्ति। गहरा रिच बरगंडी लाल बैकग्राउंड, मजबूत छाया और हाइलाइट्स के साथ मूडी सिनेमैटिक लाइटिंग, हाई कंट्रास्ट, डीसैचुरेटेड टोन जो लगभग ब्लैक एंड व्हाइट हैं लेकिन हल्की गर्माहट के साथ, फोटो-रियलिस्टिक, अल्ट्रा-डिटेल्ड फर और त्वचा की बनावट, शार्प फोकस, डार्क फैंटेसी वातावरण, राजसी और तीव्र मूड, मास्टरपीस फोटोग्राफी स्टाइल।
-```
-
-<img src="https://cms-assets.youmind.com/media/1777708953480_7sah9k_HHO2R7-XgAAGGY_.jpg" width="600" alt="गॉथिक महिला और एल्बिनो शेर का पोर्ट्रेट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4018)**
-
-**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2050182739442257945) | **Published:** May 1, 2026
-
----
-### भविष्यवादी साइंस-फिक्शन टैक्टिकल महिला कॉरिडोर वॉक
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक एथलेटिक महिला का सिनेमाई वीडियो प्रॉम्प्ट, जो एक स्लीक सफेद टैक्टिकल बॉडीसूट पहने हुए नाटकीय रोशनी वाले अंधेरे, भविष्यवादी साइंस-फिक्शन कॉरिडोर में मजबूती से चल रही है।
-
-#### 📝 Prompt
-
-```
-एक सुंदर, एथलेटिक युवा महिला, जिसके चेहरे पर दृढ़ और आत्मविश्वासी भाव हैं, एक अंधेरे भविष्यवादी साइंस-फिक्शन कॉरिडोर में मजबूती से चल रही है। उसने ग्रे आर्मर्ड पैनल, मजबूत शोल्डर पैड्स, मैकेनिकल साइबरनेटिक दाहिने हाथ, पाउच और होल्स्टर वाली यूटिलिटी बेल्ट, घुटने के कवच और भारी कॉम्बैट बूट्स के साथ एक स्लीक, अल्ट्रा-फॉर्म-फिटिंग सफेद टैक्टिकल बॉडीसूट पहना है। उसके पास एक सफेद भविष्यवादी हेलमेट है जिसके ऊपर चमगादड़ जैसे नुकीले कान हैं। उसके दाहिने हाथ में एक बड़ी घुमावदार कॉम्बैट ब्लेड है, और बाएं हाथ में एक भविष्यवादी पिस्तौल है। ऊपर की स्काईलाइट और चमकते साइड पैनल से आती रोशनी की मजबूत किरणों के साथ नाटकीय सिनेमाई लाइटिंग, कॉरिडोर की दीवारों पर जटिल पाइप, कंड्यूट और धात्विक पैनल लगे हैं। फोटो-रियलिस्टिक, अल्ट्रा-डिटेल्ड, 8K, सिनेमाई साइंस-फिक्शन कॉन्सेप्ट आर्ट, शार्प फोकस, नाटकीय छाया और हाइलाइट्स, सटीक शारीरिक बनावट, मास्टरपीस।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f85da6102ef987cc46ccef6935041c7f/thumbnails/thumbnail.jpg" width="600" alt="भविष्यवादी साइंस-फिक्शन टैक्टिकल महिला कॉरिडोर वॉक">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4013)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2050165725432602661) | **Published:** May 1, 2026
-
----
-### नेटिव अमेरिकन योद्धा और जला हुआ जंगल
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> सूर्यास्त के समय जले हुए जंगल में एक नेटिव अमेरिकन योद्धा का सिनेमैटिक हैंडहेल्ड वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-मीडियम हैंडहेल्ड शॉट में सूर्यास्त के समय जले हुए जंगल से गुजरते एक अकेले नेटिव अमेरिकन योद्धा को दिखाया गया है। हवा में राख धीरे-धीरे तैर रही है। वह रुकता है, डूबते सूरज की ओर देखता है, और धीरे से फुसफुसाता है: 'क्या हमारी आवाजें कभी वापस आएंगी?' ईथर जैसी बांसुरी और धीमी ढोल की थाप तेज होती है, कोई सबटाइटल नहीं
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ea0c9523b093d1a3ce92a9d9ea5af052/thumbnails/thumbnail.jpg" width="600" alt="नेटिव अमेरिकन योद्धा और जला हुआ जंगल">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4014)**
-
-**Author:** [LudovicCreator](https://x.com/LudovicCreator) | **Source:** [Link](https://x.com/LudovicCreator/status/2050138179953447126) | **Published:** May 1, 2026
-
----
-### बायोलुमिनेसेंट होलोग्राफिक फूल
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक Grok Imagine वीडियो प्रॉम्प्ट, जिसमें बायोलुमिनेसेंट लाइटिंग के साथ होलोग्राफिक लिली के चारों ओर गिम्बल-स्टेबलाइज्ड रोटेशन दिखाया गया है।
-
-#### 📝 Prompt
-
-```
-कैमरा धीरे-धीरे 60 डिग्री पर घूमता है ताकि लैंप दिखाई दे, स्टेबलाइजेशन के लिए गिम्बल का उपयोग करें। बायोलुमिनेसेंट नियॉन पिंक और मैजेंटा रंग। फूलदान में हरे तनों के साथ होलोग्राफिक प्लमेरिया और काला लिली।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2678a5b9b82952de72fcee2569f516e4/thumbnails/thumbnail.jpg" width="600" alt="बायोलुमिनेसेंट होलोग्राफिक फूल">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4012)**
-
-**Author:** [Missy AI](https://x.com/ai_empire33) | **Source:** [Link](https://x.com/ai_empire33/status/2050068193771983034) | **Published:** May 1, 2026
-
----
-### तितलियों के साथ जीवंत शैलीबद्ध महिला
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> गुलाबी पोशाक में एक पतली महिला का एक सुंदर एनिमेटेड चित्रण, जो एक तितली पकड़े हुए है, जिसे आकाशीय और वानस्पतिक रूपांकनों के साथ एक अंधेरे शून्य के खिलाफ सेट किया गया है।
-
-#### 📝 Prompt
-
-```
-चमक और स्फटिक के साथ एक जीवंत शैलीबद्ध चित्रण, जिसमें एक जटिल पैटर्न वाली गुलाबी पोशाक में एक पतली महिला को दर्शाया गया है, जिसकी आकृति काले शून्य के खिलाफ स्पष्ट रूप से परिभाषित है। उसकी त्वचा बहुत हल्की और सुंदर है, वह एक तितली पकड़े हुए है, और उसके चेहरे की विशेषताएं न्यूनतम हैं: बंद आंखें और सिकोड़े हुए होंठ। उसके गुलाबी बाल बाईं ओर गिरते हैं। रचना में सोने, सफेद और नीले रंग के तैरते हुए, बनावट वाले घेरे शामिल हैं, साथ ही वानस्पतिक रूपांकन भी हैं, जिनमें फूलों के आकार की तितलियाँ शामिल हैं, जो एक शांत और शैलीबद्ध दृश्य बनाती हैं।
-```
-
-<img src="https://cms-assets.youmind.com/media/1777708950345_9tuwe6_HHM9NXKWIAA7TUs.jpg" width="600" alt="तितलियों के साथ जीवंत शैलीबद्ध महिला">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4017)**
-
-**Author:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **Source:** [Link](https://x.com/iamhappy2026/status/2050049677601522037) | **Published:** May 1, 2026
-
----
-### Chibi Blonde Magazine Rotation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक स्मूथ 10-डिग्री कैमरा रोटेशन के लिए वीडियो प्रॉम्प्ट, जिसमें पजामा पहने एक चिबी-स्टाइल ब्लॉन्ड कैरेक्टर को पत्रिकाओं के ढेर पर बैठे हुए दिखाया गया है, जो 'Imagine' शब्द के साथ समाप्त होता है।
-
-#### 📝 Prompt
-
-```
-कैमरा धीरे-धीरे 10 डिग्री घूमता है और पत्रिका को दिखाता है। स्टेबिलाइज़ेशन के लिए गिम्बल (Gimbal) का उपयोग करें, जिसमें अन्य पत्रिकाओं के ऊपर बैठी पजामा पहने एक ब्लॉन्ड चिबी को एक विचारशील मुद्रा में दिखाया गया है। रोटेशन के अंत में 'Imagine' शब्द उभर कर आता है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c458ab3e3147ce4de74f1c4075890581/thumbnails/thumbnail.jpg" width="600" alt="Chibi Blonde Magazine Rotation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4021)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2050047212055298239) | **Published:** May 1, 2026
-
----
-### एल्फ प्रिंसेस मैजिक वांड
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक जादुई वीडियो प्रॉम्प्ट जिसमें एक एल्फ राजकुमारी 'Love' शब्द लिखने के लिए जादू की छड़ी का उपयोग कर रही है।
-
-#### 📝 Prompt
-
-```
-एक और छोटी एल्फ राजकुमारी आती है, हाथ में जादू की छड़ी लिए हुए, और 'Love' शब्द बनाती है। इसका उत्तर 'Amor' है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a558f5ea37b1c1931cc3a2582c2c3d30/thumbnails/thumbnail.jpg" width="600" alt="एल्फ प्रिंसेस मैजिक वांड">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4023)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2050044248284623039) | **Published:** May 1, 2026
-
----
-### फैशन मॉडल्स हैट टॉस
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमैटिक फैशन प्रॉम्प्ट जिसमें मॉडल्स फर्श पर बैठी हैं, ऊपर से लाल गुलाब की पंखुड़ियाँ गिर रही हैं और वे जश्न मनाते हुए अपनी टोपियाँ हवा में उछाल रही हैं।
-
-#### 📝 Prompt
-
-```
-सभी मॉडल्स फर्श पर बैठी हैं और लाल गुलाब की पंखुड़ियाँ गिर रही हैं, साथ ही प्रोफेशनल फोटोग्राफी लाइटिंग का उपयोग किया गया है। वे अपनी टोपियाँ ऊपर उछालती हैं.... फैशन
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/245f1e226883e960fb9a13dea2f70301/thumbnails/thumbnail.jpg" width="600" alt="फैशन मॉडल्स हैट टॉस">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4022)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2050037831934910666) | **Published:** May 1, 2026
-
----
-### बेडटाइम बटरफ्लाई एनिमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक बच्चे के लिए तितली के दृश्य को एनिमेट करने का प्रॉम्प्ट, जिसमें बालों और आंखों के रंग जैसे विशिष्ट चरित्र विवरण शामिल हैं।
-
-#### 📝 Prompt
-
-```
-आइए सवाना के सोने के समय के लिए उसकी तितली में जान डालें। उसके बाल सुनहरे और आँखें नीली हैं।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5c452848eb9e30c33cab73b6d8f25f1b/thumbnails/thumbnail.jpg" width="600" alt="बेडटाइम बटरफ्लाई एनिमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4009)**
-
-**Author:** [Firecracker](https://x.com/CantTameFire) | **Source:** [Link](https://x.com/CantTameFire/status/2050032115828359538) | **Published:** May 1, 2026
-
----
-### बर्फ में ब्लैक जगुआर के लिए वीडियो प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok-imagine के लिए एक अत्यधिक विस्तृत वीडियो प्रॉम्प्ट, जिसमें एक ब्लैक जगुआर को गहरी बर्फ में चलते हुए दिखाया गया है, साथ ही यथार्थवादी पार्टिकल फिजिक्स और फर टेक्सचर भी शामिल है।
-
-#### 📝 Prompt
-
-```
-चमकती नारंगी आँखों वाला एक ब्लैक जगुआर गहरी बर्फ से होते हुए सीधे कैमरे की ओर चल रहा है। उसके पंजे बर्फ में धंस रहे हैं, जिससे सफेद पाउडर हवा में उड़ रहा है। छोटे-छोटे बर्फ के टुकड़े धीरे-धीरे हवा में गिर रहे हैं और उसके फर पर टिक रहे हैं।
-एक ब्लैक जगुआर (मेलानिस्टिक तेंदुआ) जिसके गहरे रोसेट्स स्पष्ट रूप से दिखाई दे रहे हैं
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2f100ccb3f1bd0a96a3bdc17801b8a19/thumbnails/thumbnail.jpg" width="600" alt="बर्फ में ब्लैक जगुआर के लिए वीडियो प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3973)**
-
-**Author:** [ahmed ibrahim](https://x.com/AhmedYasienibby) | **Source:** [Link](https://x.com/AhmedYasienibby/status/2049979450322719096) | **Published:** Apr 30, 2026
-
----
-### Dragons in the Sun वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> घास के मैदान में धूप सेंकते लाल और नीले ड्रेगन वाले वीडियो के लिए एक वर्णनात्मक प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-लेडी रेड ड्रैगन और मर्दाना ब्लू ड्रैगन घास पर फैले हुए धूप का आनंद ले रहे हैं
-धूप में चमकते हुए
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/885645c861bfc28153b1b6b798dcfccb/thumbnails/thumbnail.jpg" width="600" alt="Dragons in the Sun वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3957)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2049978116668571712) | **Published:** Apr 30, 2026
-
----
-### Optimus के साथ रॉक म्यूजिक सेलिब्रेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो प्रॉम्प्ट जिसमें रॉक गिटार संगीत और एक महिला तथा Optimus रोबोट के बीच सच्चाई का जश्न मनाने का दृश्य है।
-
-#### 📝 Prompt
-
-```
-रॉक म्यूजिक, गिटार सोलो। वह कहती है, 'शुरुआती जश्न'। साथ में एक Optimus रोबोट है। रोबोट कहता है, 'सच्चाई की जीत के लिए चीयर्स!'
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a97a050033b986b4bb9e481a69d65917/thumbnails/thumbnail.jpg" width="600" alt="Optimus के साथ रॉक म्यूजिक सेलिब्रेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=3975)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2049976672783331538) | **Published:** Apr 30, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2171,6 +2188,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-08T06:13:39.089Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-08T09:47:33.226Z</sub>
 
 </div>
