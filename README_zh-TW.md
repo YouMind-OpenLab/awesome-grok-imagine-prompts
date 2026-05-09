@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **1438** |
+| 📝 提示詞總數 | **1441** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-05-09** |
 
@@ -189,6 +189,68 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### Humanity New Realities Orbs
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 製作一部影片，內容為一位講者在神秘光球環繞下，探討人類未來的願景。
+
+#### 📝 提示詞
+
+```
+她說道：「現在是人類思考新現實的時候了。」隨後她微笑著，周圍浮現出許多小光球。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c1248d34d2c7318f3c8bb6fc722f095/thumbnails/thumbnail.jpg" width="600" alt="Humanity New Realities Orbs">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4476)**
+
+**作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **來源:** [Link](https://x.com/clemensilverio/status/2052938952798060909) | **發布時間:** May 9, 2026
+
+---
+### 微型森林中的巨貓
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個超現實的場景提示詞：微型樹木從地面長出，一隻巨貓跨越其上。
+
+#### 📝 提示詞
+
+```
+樹木以微型姿態從地面長出，畫面從一隻巨貓跨越樹木的視角進行轉換。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9db754beff35a8014490451bb3b5c443/thumbnails/thumbnail.jpg" width="600" alt="微型森林中的巨貓">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4475)**
+
+**作者:** [🍓](https://x.com/sulegulmenX) | **來源:** [Link](https://x.com/sulegulmenX/status/2052822214311805225) | **發布時間:** May 8, 2026
+
+---
+### 科幻冰雪女王動作場景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個高度細緻、技術性的提示詞，用於製作以冰精靈女王為主角的 8K 電影級科幻短片。
+
+#### 📝 提示詞
+
+```
+一段令人驚嘆的 6 秒超寫實電影級科幻動作影片，解析度為 8K，使用 ARRI Alexa 65 搭配變形鏡頭拍攝，具備戲劇性的調色、細膩的膠片顆粒感以及強烈的體積光效果。
+一位強大的冰精靈戰士女王，擁有飄逸的銀白色長髮、發光的藍色雙眼與尖耳朵，佇立在宏偉的未來主義冰雪混合堡壘中。她身穿精緻的全身銀色與青色發光科幻盔甲，盔甲上佈滿晶體能量電路，頭戴一頂閃爍著藍色電漿光芒的高聳尖刺皇冠，並披著飄逸的金屬質感斗篷。
+她戲劇性地舉起右手，匯聚出一顆旋轉的亮藍色電漿能量球，球體中閃爍著電弧與全息符文。隨著她向前釋放強大的能量衝擊波，周圍爆發出雪花與冰晶粒子。她的頭髮與斗篷在風中劇烈飄動。
+科幻氛圍：古老外星遺跡中流動著霓虹青色的能量脈絡，遺跡覆蓋著冰層，漂浮著全息碎片，藍色發光粒子，戲劇性的耶穌光穿透冰冷的霧氣，伴隨著火花與能量軌跡。
+攝影機運動：動態電影序列 — 從低角度英雄鏡頭開始，隨後快速環繞並推進，最後以戲劇性的特寫鏡頭聚焦在她充滿張力的臉龐與釋放能量衝擊波的手部。強烈的動態感、淺景深、美麗的散景，頭髮、布料與能量特效呈現真實的物理效果。
+照片級真實的皮膚與盔甲紋理，真實的冰雪互動，強大而優雅的動作姿勢，高速能量特效。史詩、兇猛且迷人的科幻奇幻氛圍。6 秒時長，24fps，傑作，最佳品質，超高細節。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/11893caec932e339ed65acc3fb16bb5b/thumbnails/thumbnail.jpg" width="600" alt="科幻冰雪女王動作場景">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4474)**
+
+**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **來源:** [Link](https://x.com/ThoughCreator/status/2052764278340583816) | **發布時間:** May 8, 2026
+
+---
 ### Tesla Robotaxi 電影廣告
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2069,64 +2131,6 @@ IMAX 等級視覺密度
 **作者:** [Chart_Guy](https://x.com/Chart_Guy) | **來源:** [Link](https://x.com/Chart_Guy/status/2050329761835004005) | **發布時間:** May 1, 2026
 
 ---
-### 仙子與松鼠的球池
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個充滿童趣的影片提示詞，描繪了仙子與松鼠在色彩繽紛的泡泡糖與棉花糖球池中玩耍的場景。
-
-#### 📝 提示詞
-
-```
-一段小仙子與松鼠在公園裡玩耍的影片，球池裡裝滿了各種顏色的泡泡糖與棉花糖，牠們一邊吹著泡泡，一邊說著可愛的話語
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3ee8e490948fa9ca87e6a2f4409d43fd/thumbnails/thumbnail.jpg" width="600" alt="仙子與松鼠的球池">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4011)**
-
-**作者:** [Emily](https://x.com/EMILYZART) | **來源:** [Link](https://x.com/EMILYZART/status/2050285005872705902) | **發布時間:** May 1, 2026
-
----
-### 神秘的維多利亞時代女性與漂浮時鐘
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個複雜的電影級提示詞，包含維多利亞時代禮服、陰暗宅邸以及超現實的漂浮時鐘。
-
-#### 📝 提示詞
-
-```
-永恆
-一位身著飄逸維多利亞時代禮服的神秘女子，獨自站在陰暗且燭光搖曳的宅邸大廳中。月光透過高大的窗戶灑落，數十個發光的時鐘靜止地漂浮在她周圍的空中，每個時鐘顯示的時間各不相同……
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1e800b2d2c19327c1b8777ffb6475188/thumbnails/thumbnail.jpg" width="600" alt="神秘的維多利亞時代女性與漂浮時鐘">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4015)**
-
-**作者:** [DuBoseJen](https://x.com/DuBosefire) | **來源:** [Link](https://x.com/DuBosefire/status/2050259170369130683) | **發布時間:** May 1, 2026
-
----
-### 賽博龐克和服繪畫動畫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個創意提示詞，描繪一位身穿華麗賽博龐克和服的女性，正使用一支會留下發光軌跡的筆進行繪畫。
-
-#### 📝 提示詞
-
-```
-一位身穿華麗賽博龐克和服的日本女性正在繪畫。畫作會產生光影反應，並隨著筆的移動呈現出賽博龐克風格的閃爍效果。僅在筆跡經過的地方顯示線條繪畫。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2b0422acdc4ccb9fb1ced4c52ae11aff/thumbnails/thumbnail.jpg" width="600" alt="賽博龐克和服繪畫動畫">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4019)**
-
-**作者:** [トマスのAI画像・動画研究所](https://x.com/thomasainya) | **來源:** [Link](https://x.com/thomasainya/status/2050241289506209963) | **發布時間:** May 1, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2188,6 +2192,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-05-09T06:23:15.274Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-05-09T09:25:59.742Z</sub>
 
 </div>

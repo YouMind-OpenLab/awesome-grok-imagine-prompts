@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **1438** |
+| 📝 提示词总数 | **1441** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-05-09** |
 
@@ -189,6 +189,68 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### Humanity New Realities Orbs
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 创建一个视频，展示一位演讲者在神秘发光球体的环绕下，探讨人类未来的场景。
+
+#### 📝 提示词
+
+```
+她说，现在是人类考虑新现实的时候了。她微笑着，周围浮现出许多小光球。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c1248d34d2c7318f3c8bb6fc722f095/thumbnails/thumbnail.jpg" width="600" alt="Humanity New Realities Orbs">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4476)**
+
+**作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **来源:** [Link](https://x.com/clemensilverio/status/2052938952798060909) | **发布时间:** May 9, 2026
+
+---
+### 微缩森林中的巨猫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个超现实场景提示词：微缩树木从地面生长而出，一只巨猫正跨越其上。
+
+#### 📝 提示词
+
+```
+微缩树木从地面生长而出，镜头切换至一只巨猫跨越树木的画面。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9db754beff35a8014490451bb3b5c443/thumbnails/thumbnail.jpg" width="600" alt="微缩森林中的巨猫">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4475)**
+
+**作者:** [🍓](https://x.com/sulegulmenX) | **来源:** [Link](https://x.com/sulegulmenX/status/2052822214311805225) | **发布时间:** May 8, 2026
+
+---
+### 科幻冰雪女王动作大片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段高度精细、技术性的电影级 8K 科幻视频提示词，主角为一位冰精灵女王。
+
+#### 📝 提示词
+
+```
+一段时长 6 秒、超写实电影级科幻动作视频，8K 分辨率，使用 ARRI Alexa 65 搭配变形镜头拍摄，具备戏剧性的调色、细腻的胶片颗粒感以及强烈的体积光效果。
+一位强大的冰精灵战士女王，拥有飘逸的银白色长发、发光的蓝色双眼和尖耳朵，伫立在宏伟的未来主义冰雪混合要塞中。她身穿精致的全身银色与青色发光科幻盔甲，盔甲上布满晶体能量回路，头戴闪烁着蓝色等离子光芒的高耸尖刺王冠，披风带有流动的金属质感。
+她戏剧性地举起右手，汇聚出一颗旋转的亮蓝色等离子能量球，球体中闪烁着电弧和全息符文。随着她向前释放出强大的能量冲击波，周围的雪花和冰晶瞬间炸开。她的头发和披风在风中剧烈飘动。
+科幻氛围：覆盖着冰层的古老外星遗迹中流淌着霓虹青色能量脉络，漂浮的全息碎片，发光的蓝色粒子，穿透冰冷雾气的戏剧性耶稣光，以及火花和能量轨迹。
+摄像机运动：动态电影序列——从低角度英雄镜头开始，随后快速环绕并推进，最后以她释放能量冲击波时，面部表情与发光手部的戏剧性特写结束。动作激烈，浅景深，唯美的焦外成像，头发、织物和能量特效呈现真实的物理效果。
+照片级真实的皮肤与盔甲质感，逼真的冰雪交互效果，强大而优雅的动作姿态，高速能量特效。史诗、激烈且令人着迷的科幻奇幻氛围。时长 6 秒，24fps，杰作，最佳画质，超高细节。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/11893caec932e339ed65acc3fb16bb5b/thumbnails/thumbnail.jpg" width="600" alt="科幻冰雪女王动作大片">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4474)**
+
+**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **来源:** [Link](https://x.com/ThoughCreator/status/2052764278340583816) | **发布时间:** May 8, 2026
+
+---
 ### Tesla Robotaxi 电影广告
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2069,64 +2131,6 @@ IMAX 级视觉密度
 **作者:** [Chart_Guy](https://x.com/Chart_Guy) | **来源:** [Link](https://x.com/Chart_Guy/status/2050329761835004005) | **发布时间:** May 1, 2026
 
 ---
-### 仙子与松鼠的波波球池
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个充满趣味的视频提示词，描绘了仙子和松鼠在五彩缤纷的泡泡糖与棉花糖波波球池中玩耍的场景。
-
-#### 📝 提示词
-
-```
-一段视频，展示了小仙子和松鼠在公园里一个由各种颜色的泡泡糖和棉花糖组成的波波球池中玩耍，它们一边吹着泡泡，一边说着可爱的话语
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3ee8e490948fa9ca87e6a2f4409d43fd/thumbnails/thumbnail.jpg" width="600" alt="仙子与松鼠的波波球池">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4011)**
-
-**作者:** [Emily](https://x.com/EMILYZART) | **来源:** [Link](https://x.com/EMILYZART/status/2050285005872705902) | **发布时间:** May 1, 2026
-
----
-### 神秘的维多利亚时代女性与悬浮时钟
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个复杂的电影级提示词，包含维多利亚时代的礼服、阴暗的宅邸以及超现实的悬浮时钟。
-
-#### 📝 提示词
-
-```
-永恒
-一位身着飘逸维多利亚时代礼服的神秘女子，独自伫立在阴暗、烛光摇曳的宅邸大厅中。月光透过高大的窗户倾泻而下，数十个发光的时钟在她周围静止悬浮，每一个都显示着不同的时间……
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1e800b2d2c19327c1b8777ffb6475188/thumbnails/thumbnail.jpg" width="600" alt="神秘的维多利亚时代女性与悬浮时钟">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4015)**
-
-**作者:** [DuBoseJen](https://x.com/DuBosefire) | **来源:** [Link](https://x.com/DuBosefire/status/2050259170369130683) | **发布时间:** May 1, 2026
-
----
-### 赛博朋克和服绘画动画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个富有创意的提示词，描述了一位身穿华丽赛博朋克和服的女性，她正在用一支能留下发光轨迹的笔进行绘画。
-
-#### 📝 提示词
-
-```
-一位身穿华丽赛博朋克和服的日本女性正在作画。画作会产生光影反应，并随着笔的移动呈现出赛博朋克风格的闪烁效果。仅在画笔经过的地方显示线条。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2b0422acdc4ccb9fb1ced4c52ae11aff/thumbnails/thumbnail.jpg" width="600" alt="赛博朋克和服绘画动画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4019)**
-
-**作者:** [トマスのAI画像・動画研究所](https://x.com/thomasainya) | **来源:** [Link](https://x.com/thomasainya/status/2050241289506209963) | **发布时间:** May 1, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2188,6 +2192,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-05-09T06:23:13.729Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-05-09T09:25:58.431Z</sub>
 
 </div>

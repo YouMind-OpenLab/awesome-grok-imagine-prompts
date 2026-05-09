@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1438** |
+| 📝 Total Prompts | **1441** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-09** |
 
@@ -189,6 +189,68 @@ Uma Valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Orbes de Novas Realidades da Humanidade
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Cria um vídeo apresentando uma oradora discutindo o futuro da humanidade enquanto está cercada por orbes místicos brilhantes.
+
+#### 📝 Prompt
+
+```
+Ela diz que é hora de considerar novas realidades como humanidade. Ela sorri e pequenos orbes surgem ao seu redor.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c1248d34d2c7318f3c8bb6fc722f095/thumbnails/thumbnail.jpg" width="600" alt="Orbes de Novas Realidades da Humanidade">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4476)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2052938952798060909) | **Published:** May 9, 2026
+
+---
+### Gato Gigante em Floresta em Miniatura
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de cenário surreal onde árvores em miniatura crescem do chão enquanto um gato gigante passa por cima delas.
+
+#### 📝 Prompt
+
+```
+Árvores crescem do chão em miniatura, e o espectador transita de um gato gigante passando por cima das árvores.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9db754beff35a8014490451bb3b5c443/thumbnails/thumbnail.jpg" width="600" alt="Gato Gigante em Floresta em Miniatura">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4475)**
+
+**Author:** [🍓](https://x.com/sulegulmenX) | **Source:** [Link](https://x.com/sulegulmenX/status/2052822214311805225) | **Published:** May 8, 2026
+
+---
+### Ação de Rainha de Gelo Sci-Fi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt técnico altamente detalhado para uma sequência cinematográfica de ficção científica em 8K, apresentando uma rainha elfa de gelo.
+
+#### 📝 Prompt
+
+```
+Um vídeo de ação cinematográfico de ficção científica ultra-realista de 6 segundos em 8K, filmado com ARRI Alexa 65 com lentes anamórficas, gradação de cores dramática, granulação de filme sutil e iluminação volumétrica intensa.
+Uma poderosa rainha guerreira elfa de gelo com longos cabelos prateados esvoaçantes, olhos azuis brilhantes e orelhas pontudas está em uma majestosa fortaleza híbrida de gelo futurista. Ela veste uma armadura de ficção científica intrincada de corpo inteiro em prata e ciano com circuitos de energia cristalinos, uma coroa alta com espinhos pulsando com plasma azul e elementos de capa metálica esvoaçantes.
+Ela levanta a mão direita dramaticamente, canalizando um orbe de energia de plasma azul brilhante e rodopiante que estala com arcos elétricos e runas holográficas. Partículas de neve e gelo explodem ao seu redor enquanto ela libera uma poderosa rajada de energia para frente. Seu cabelo e capa fluem dramaticamente ao vento.
+Atmosfera de ficção científica: veios de energia neon-ciano percorrendo antigas ruínas alienígenas cobertas de gelo, fragmentos holográficos flutuantes, partículas azuis brilhantes, raios de luz dramáticos cortando a névoa congelante, faíscas e rastros de energia.
+Movimento de câmera: Sequência cinematográfica dinâmica — começa com um plano de ângulo baixo, depois orbita rapidamente ao redor dela enquanto se aproxima, terminando em um close-up dramático em seu rosto intenso e mão brilhante enquanto ela libera a rajada de energia. Movimento intenso, profundidade de campo rasa, belo bokeh, física realista no cabelo, tecido e efeitos de energia.
+Textura de pele e armadura fotorrealista, interação realista de gelo e neve, pose de ação poderosa e elegante, efeitos de energia de alta velocidade. Clima de fantasia Sci-Fi épico, feroz e fascinante. 6 segundos de duração, 24fps, obra-prima, melhor qualidade, hiperdetalhado.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/11893caec932e339ed65acc3fb16bb5b/thumbnails/thumbnail.jpg" width="600" alt="Ação de Rainha de Gelo Sci-Fi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4474)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2052764278340583816) | **Published:** May 8, 2026
+
+---
 ### Anúncio de Filme do Tesla Robotaxi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2069,64 +2131,6 @@ Guerreiro anjo de branco com armadura e espada descendo em um campo de batalha p
 **Author:** [Chart_Guy](https://x.com/Chart_Guy) | **Source:** [Link](https://x.com/Chart_Guy/status/2050329761835004005) | **Published:** May 1, 2026
 
 ---
-### Piscina de Bolinhas de Fadas e Esquilos
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo lúdico apresentando fadas e esquilos em uma piscina de bolinhas colorida de chiclete e algodão-doce.
-
-#### 📝 Prompt
-
-```
-Um vídeo de pequenas fadas e esquilos brincando em uma piscina de bolinhas de várias cores de chiclete e algodão-doce, soprando bolhas e dizendo coisas fofas em um parque
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3ee8e490948fa9ca87e6a2f4409d43fd/thumbnails/thumbnail.jpg" width="600" alt="Piscina de Bolinhas de Fadas e Esquilos">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4011)**
-
-**Author:** [Emily](https://x.com/EMILYZART) | **Source:** [Link](https://x.com/EMILYZART/status/2050285005872705902) | **Published:** May 1, 2026
-
----
-### Mulher vitoriana misteriosa e relógios flutuantes
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt cinematográfico complexo envolvendo um vestido vitoriano, uma mansão sombria e relógios flutuantes surreais.
-
-#### 📝 Prompt
-
-```
-Atemporal
-Uma mulher misteriosa em um vestido vitoriano esvoaçante está sozinha no grande corredor de uma mansão escura iluminada por velas. O luar entra pelas janelas altas enquanto dezenas de relógios brilhantes flutuam imóveis no ar ao redor dela, todos marcando horários diferentes....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1e800b2d2c19327c1b8777ffb6475188/thumbnails/thumbnail.jpg" width="600" alt="Mulher vitoriana misteriosa e relógios flutuantes">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4015)**
-
-**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2050259170369130683) | **Published:** May 1, 2026
-
----
-### Animação de Desenho com Quimono Cyberpunk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt criativo para uma mulher vestindo um quimono cyberpunk chamativo, desenhando com uma caneta que deixa rastros brilhantes.
-
-#### 📝 Prompt
-
-```
-uma mulher japonesa desenhando uma imagem vestindo um quimono cyberpunk chamativo. O desenho reage com luz. O desenho também pisca ciberneticamente com o movimento da caneta. Desenhos de linha apenas onde foram traçados com a caneta.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2b0422acdc4ccb9fb1ced4c52ae11aff/thumbnails/thumbnail.jpg" width="600" alt="Animação de Desenho com Quimono Cyberpunk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4019)**
-
-**Author:** [トマスのAI画像・動画研究所](https://x.com/thomasainya) | **Source:** [Link](https://x.com/thomasainya/status/2050241289506209963) | **Published:** May 1, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2188,6 +2192,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-09T06:23:31.253Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-09T09:26:15.294Z</sub>
 
 </div>

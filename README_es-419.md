@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1438** |
+| 📝 Total Prompts | **1441** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-09** |
 
@@ -189,6 +189,68 @@ Una valquiria celestial mística y noble, una mujer digna y hermosa con largo ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Orbes de nuevas realidades de la humanidad
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Crea un video que muestra a una persona hablando sobre el futuro de la humanidad mientras está rodeada de orbes místicos brillantes.
+
+#### 📝 Prompt
+
+```
+Ella dice que es momento de considerar nuevas realidades como humanidad. Ella sonríe y pequeños orbes emergen a su alrededor.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c1248d34d2c7318f3c8bb6fc722f095/thumbnails/thumbnail.jpg" width="600" alt="Orbes de nuevas realidades de la humanidad">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4476)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2052938952798060909) | **Published:** May 9, 2026
+
+---
+### Gato gigante en un bosque en miniatura
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de escenario surrealista donde árboles en miniatura crecen del suelo mientras un gato gigante pasa por encima de ellos.
+
+#### 📝 Prompt
+
+```
+Los árboles crecen del suelo en miniatura y la perspectiva cambia a un gato gigante pasando por encima de los árboles.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9db754beff35a8014490451bb3b5c443/thumbnails/thumbnail.jpg" width="600" alt="Gato gigante en un bosque en miniatura">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4475)**
+
+**Author:** [🍓](https://x.com/sulegulmenX) | **Source:** [Link](https://x.com/sulegulmenX/status/2052822214311805225) | **Published:** May 8, 2026
+
+---
+### Acción de Reina de Hielo de Ciencia Ficción
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt técnico altamente detallado para una secuencia cinemática de ciencia ficción en 8K que presenta a una reina elfa de hielo.
+
+#### 📝 Prompt
+
+```
+Un impresionante video de acción de ciencia ficción cinemática ultrarrealista de 6 segundos en 8K, filmado con ARRI Alexa 65 con lentes anamórficos, gradación de color dramática, grano de película sutil e intensa iluminación volumétrica.
+Una poderosa reina guerrera elfa de hielo con cabello largo y fluido de color blanco plateado, ojos azules brillantes y orejas puntiagudas se encuentra en una majestuosa fortaleza híbrida de hielo futurista. Viste una intrincada armadura de ciencia ficción de cuerpo completo en color plata y cian con circuitos de energía cristalina, una corona alta con púas que pulsa con plasma azul y elementos de capa metálica fluida.
+Levanta su mano derecha dramáticamente, canalizando un orbe de energía de plasma azul brillante que se arremolina y crepita con arcos eléctricos y runas holográficas. Partículas de nieve y hielo explotan a su alrededor mientras lanza una poderosa ráfaga de energía hacia adelante. Su cabello y su capa fluyen dramáticamente con el viento.
+Atmósfera de ciencia ficción: venas de energía de color cian neón recorriendo antiguas ruinas alienígenas cubiertas de hielo, fragmentos holográficos flotantes, partículas azules brillantes, rayos de luz dramáticos atravesando la niebla helada, chispas y estelas de energía.
+Movimiento de cámara: Secuencia cinemática dinámica: comienza con un plano heroico en ángulo bajo, luego orbita rápidamente a su alrededor mientras se acerca, terminando en un primer plano dramático de su rostro intenso y su mano brillante mientras libera la ráfaga de energía. Movimiento intenso, profundidad de campo reducida, hermoso bokeh, física realista en el cabello, la tela y los efectos de energía.
+Textura de piel y armadura fotorrealista, interacción realista con el hielo y la nieve, pose de acción poderosa y elegante, efectos de energía de alta velocidad. Ambiente de fantasía de ciencia ficción épico, feroz y fascinante. Duración de 6 segundos, 24 fps, obra maestra, mejor calidad, hiperdetallado.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/11893caec932e339ed65acc3fb16bb5b/thumbnails/thumbnail.jpg" width="600" alt="Acción de Reina de Hielo de Ciencia Ficción">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4474)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2052764278340583816) | **Published:** May 8, 2026
+
+---
 ### Anuncio cinematográfico del Tesla Robotaxi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2069,64 +2131,6 @@ Guerrero ángel de blanco con armadura y espada descendiendo a un campo de batal
 **Author:** [Chart_Guy](https://x.com/Chart_Guy) | **Source:** [Link](https://x.com/Chart_Guy/status/2050329761835004005) | **Published:** May 1, 2026
 
 ---
-### Pozo de pelotas de hadas y ardillas
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un divertido video generado por IA que muestra hadas y ardillas en un colorido pozo de pelotas de chicle y algodón de azúcar.
-
-#### 📝 Prompt
-
-```
-Un video de pequeñas hadas y ardillas jugando en un pozo de pelotas de colores hechas de chicle y algodón de azúcar, soplando burbujas y diciendo cosas lindas en un parque
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3ee8e490948fa9ca87e6a2f4409d43fd/thumbnails/thumbnail.jpg" width="600" alt="Pozo de pelotas de hadas y ardillas">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4011)**
-
-**Author:** [Emily](https://x.com/EMILYZART) | **Source:** [Link](https://x.com/EMILYZART/status/2050285005872705902) | **Published:** May 1, 2026
-
----
-### Mujer victoriana misteriosa y relojes flotantes
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinematográfico complejo que involucra un vestido victoriano, una mansión oscura y relojes flotantes surrealistas.
-
-#### 📝 Prompt
-
-```
-Atemporal
-Una mujer misteriosa con un vestido victoriano fluido está sola en el gran pasillo de una mansión oscura iluminada por velas. La luz de la luna se filtra a través de ventanas altas mientras decenas de relojes brillantes flotan inmóviles en el aire a su alrededor, todos marcando horas diferentes....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1e800b2d2c19327c1b8777ffb6475188/thumbnails/thumbnail.jpg" width="600" alt="Mujer victoriana misteriosa y relojes flotantes">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4015)**
-
-**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2050259170369130683) | **Published:** May 1, 2026
-
----
-### Animación de dibujo con kimono cyberpunk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt creativo para una mujer con un llamativo kimono cyberpunk dibujando con un bolígrafo que deja trazos brillantes.
-
-#### 📝 Prompt
-
-```
-una mujer japonesa dibujando una imagen con un llamativo kimono cyberpunk. El dibujo reacciona con luz. El dibujo también parpadea cibernéticamente con el movimiento del bolígrafo. Dibujos de líneas solo donde se trazó con el bolígrafo.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2b0422acdc4ccb9fb1ced4c52ae11aff/thumbnails/thumbnail.jpg" width="600" alt="Animación de dibujo con kimono cyberpunk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4019)**
-
-**Author:** [トマスのAI画像・動画研究所](https://x.com/thomasainya) | **Source:** [Link](https://x.com/thomasainya/status/2050241289506209963) | **Published:** May 1, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2188,6 +2192,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-09T06:23:23.407Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-09T09:26:08.795Z</sub>
 
 </div>

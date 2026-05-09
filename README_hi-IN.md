@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1438** |
+| 📝 Total Prompts | **1441** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-09** |
 
@@ -189,6 +189,68 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### Humanity New Realities Orbs
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक ऐसा वीडियो बनाता है जिसमें एक वक्ता रहस्यमय चमकते हुए ओर्ब्स (orbs) से घिरे हुए मानवता के भविष्य पर चर्चा कर रहा है।
+
+#### 📝 Prompt
+
+```
+वह कहती है कि मानवता के रूप में नई वास्तविकताओं पर विचार करने का समय आ गया है। वह मुस्कुराती है और उसके चारों ओर छोटे-छोटे ओर्ब्स (orbs) निकल आते हैं।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c1248d34d2c7318f3c8bb6fc722f095/thumbnails/thumbnail.jpg" width="600" alt="Humanity New Realities Orbs">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4476)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2052938952798060909) | **Published:** May 9, 2026
+
+---
+### लघु वन में विशाल बिल्ली
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक असली जैसा दिखने वाला परिदृश्य प्रॉम्प्ट, जहाँ एक विशाल बिल्ली के कदम रखने पर जमीन से छोटे-छोटे पेड़ उगते हैं।
+
+#### 📝 Prompt
+
+```
+जमीन से छोटे-छोटे पेड़ उगते हैं, और दृश्य एक विशाल बिल्ली के पेड़ों के ऊपर से गुजरने की ओर बदल जाता है।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9db754beff35a8014490451bb3b5c443/thumbnails/thumbnail.jpg" width="600" alt="लघु वन में विशाल बिल्ली">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4475)**
+
+**Author:** [🍓](https://x.com/sulegulmenX) | **Source:** [Link](https://x.com/sulegulmenX/status/2052822214311805225) | **Published:** May 8, 2026
+
+---
+### Sci-Fi आइस क्वीन एक्शन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक आइस-एल्फ क्वीन की विशेषता वाले सिनेमैटिक 8K Sci-Fi सीक्वेंस के लिए एक अत्यधिक विस्तृत, तकनीकी प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+ARRI Alexa 65 और एनामोर्फिक लेंस पर फिल्माया गया, ड्रामेटिक कलर ग्रेडिंग, सूक्ष्म फिल्म ग्रेन और तीव्र वॉल्यूमेट्रिक लाइटिंग के साथ 8K में एक शानदार 6-सेकंड का अल्ट्रा-रियलिस्टिक सिनेमैटिक Sci-Fi एक्शन वीडियो।
+लंबे लहराते चांदी-सफेद बालों, चमकती नीली आंखों और नुकीले कानों वाली एक शक्तिशाली आइस-एल्फ योद्धा रानी एक आलीशान भविष्यवादी-बर्फ हाइब्रिड किले में खड़ी है। उसने क्रिस्टलीय ऊर्जा सर्किट के साथ जटिल फुल-बॉडी सिल्वर और सियान चमकते Sci-Fi कवच, नीले प्लाज्मा के साथ स्पंदित एक लंबा नुकीला ताज और बहते हुए धात्विक केप पहने हुए हैं।
+वह नाटकीय रूप से अपना दाहिना हाथ उठाती है, एक घूमते हुए, चमकीले नीले प्लाज्मा ऊर्जा गोले को चैनल करती है जो इलेक्ट्रिक आर्क्स और होलोग्राफिक रून्स के साथ कड़कड़ाता है। जैसे ही वह आगे एक शक्तिशाली ऊर्जा विस्फोट करती है, उसके चारों ओर बर्फ के कण बिखर जाते हैं। उसके बाल और केप हवा में नाटकीय रूप से लहराते हैं।
+Sci-Fi वातावरण: बर्फ से ढके प्राचीन विदेशी खंडहरों के माध्यम से दौड़ती नियॉन-सियान ऊर्जा नसें, तैरते हुए होलोग्राफिक टुकड़े, चमकते नीले कण, जमती हुई धुंध को काटती ड्रामेटिक गॉड रेज़, चिंगारियां और ऊर्जा की लकीरें।
+कैमरा मूवमेंट: डायनामिक सिनेमैटिक सीक्वेंस — लो-एंगल हीरो शॉट से शुरू होता है, फिर तेजी से उसके चारों ओर घूमते हुए अंदर की ओर बढ़ता है, और उसके तीव्र चेहरे और चमकते हाथ पर एक ड्रामेटिक क्लोज-अप के साथ समाप्त होता है जैसे ही वह ऊर्जा विस्फोट छोड़ती है। तीव्र गति, उथली गहराई (shallow depth of field), सुंदर बोकेह, बालों, कपड़े और ऊर्जा प्रभावों पर यथार्थवादी भौतिकी।
+फोटो-रियलिस्टिक त्वचा और कवच बनावट, यथार्थवादी बर्फ और हिमपात की परस्पर क्रिया, शक्तिशाली और सुरुचिपूर्ण एक्शन पोज़, हाई-स्पीड ऊर्जा प्रभाव। महाकाव्य, उग्र और मंत्रमुग्ध कर देने वाला Sci-Fi फैंटेसी मूड। 6 सेकंड की अवधि, 24fps, मास्टरपीस, सर्वोत्तम गुणवत्ता, हाइपर-विस्तृत।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/11893caec932e339ed65acc3fb16bb5b/thumbnails/thumbnail.jpg" width="600" alt="Sci-Fi आइस क्वीन एक्शन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4474)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2052764278340583816) | **Published:** May 8, 2026
+
+---
 ### Tesla Robotaxi मूवी विज्ञापन
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2069,64 +2131,6 @@ Grok लोगो वाली टी-शर्ट पहने एक लाल
 **Author:** [Chart_Guy](https://x.com/Chart_Guy) | **Source:** [Link](https://x.com/Chart_Guy/status/2050329761835004005) | **Published:** May 1, 2026
 
 ---
-### Fairies and Squirrels Ball Pit
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक चंचल वीडियो प्रॉम्प्ट जिसमें रंग-बिरंगे बबल गम और कॉटन कैंडी बॉल पिट में परियां और गिलहरियां दिखाई गई हैं।
-
-#### 📝 Prompt
-
-```
-छोटी परियों और गिलहरियों का एक वीडियो, जो बबल गम और कॉटन कैंडी के विभिन्न रंगों वाले बॉल पिट में खेल रहे हैं, बुलबुले उड़ा रहे हैं और पार्क में प्यारी-प्यारी बातें कर रहे हैं
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3ee8e490948fa9ca87e6a2f4409d43fd/thumbnails/thumbnail.jpg" width="600" alt="Fairies and Squirrels Ball Pit">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4011)**
-
-**Author:** [Emily](https://x.com/EMILYZART) | **Source:** [Link](https://x.com/EMILYZART/status/2050285005872705902) | **Published:** May 1, 2026
-
----
-### रहस्यमयी विक्टोरियन महिला और हवा में तैरती घड़ियाँ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक जटिल सिनेमैटिक प्रॉम्प्ट जिसमें विक्टोरियन गाउन, एक अंधेरी हवेली और हवा में तैरती असली (surreal) घड़ियाँ शामिल हैं।
-
-#### 📝 Prompt
-
-```
-कालातीत (Timeless)
-एक रहस्यमयी महिला, जिसने लहराता हुआ विक्टोरियन गाउन पहना है, एक अंधेरी, मोमबत्तियों से जगमगाती हवेली के भव्य गलियारे में अकेली खड़ी है। ऊंची खिड़कियों से चांदनी छनकर अंदर आ रही है, जबकि उसके चारों ओर दर्जनों चमकती हुई घड़ियाँ हवा में स्थिर तैर रही हैं, और उन सभी में अलग-अलग समय दिख रहा है....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1e800b2d2c19327c1b8777ffb6475188/thumbnails/thumbnail.jpg" width="600" alt="रहस्यमयी विक्टोरियन महिला और हवा में तैरती घड़ियाँ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4015)**
-
-**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2050259170369130683) | **Published:** May 1, 2026
-
----
-### साइबरपंक किमोनो ड्राइंग एनिमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक भड़कीले साइबरपंक किमोनो में एक महिला का रचनात्मक प्रॉम्प्ट, जो एक ऐसे पेन से चित्र बना रही है जो चमकते हुए निशान छोड़ता है।
-
-#### 📝 Prompt
-
-```
-एक जापानी महिला जो भड़कीले साइबरपंक किमोनो में चित्र बना रही है। ड्राइंग रोशनी के साथ प्रतिक्रिया करती है। पेन की गति के साथ ड्राइंग साइबरनेटिक रूप से झिलमिलाती भी है। केवल वे रेखाचित्र जहाँ पेन से ट्रेस किया गया है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2b0422acdc4ccb9fb1ced4c52ae11aff/thumbnails/thumbnail.jpg" width="600" alt="साइबरपंक किमोनो ड्राइंग एनिमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4019)**
-
-**Author:** [トマスのAI画像・動画研究所](https://x.com/thomasainya) | **Source:** [Link](https://x.com/thomasainya/status/2050241289506209963) | **Published:** May 1, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2188,6 +2192,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-09T06:23:20.159Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-09T09:26:06.237Z</sub>
 
 </div>

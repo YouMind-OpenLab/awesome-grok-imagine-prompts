@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1438** |
+| 📝 Total Prompts | **1441** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-09** |
 
@@ -189,6 +189,68 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Humanity New Realities Orbs
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Crée une vidéo mettant en scène une personne discutant de l'avenir de l'humanité, entourée d'orbes mystiques lumineuses.
+
+#### 📝 Prompt
+
+```
+Elle déclare qu'il est temps pour l'humanité d'envisager de nouvelles réalités. Elle sourit et de petites orbes apparaissent autour d'elle.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c1248d34d2c7318f3c8bb6fc722f095/thumbnails/thumbnail.jpg" width="600" alt="Humanity New Realities Orbs">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4476)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2052938952798060909) | **Published:** May 9, 2026
+
+---
+### Chat géant dans une forêt miniature
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de scénario surréaliste où des arbres miniatures poussent du sol tandis qu'un chat géant les enjambe.
+
+#### 📝 Prompt
+
+```
+Des arbres miniatures poussent du sol, et le spectateur voit un chat géant enjamber ces arbres.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9db754beff35a8014490451bb3b5c443/thumbnails/thumbnail.jpg" width="600" alt="Chat géant dans une forêt miniature">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4475)**
+
+**Author:** [🍓](https://x.com/sulegulmenX) | **Source:** [Link](https://x.com/sulegulmenX/status/2052822214311805225) | **Published:** May 8, 2026
+
+---
+### Action de reine des glaces de science-fiction
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt technique très détaillé pour une séquence cinématographique de science-fiction en 8K mettant en scène une reine elfe des glaces.
+
+#### 📝 Prompt
+
+```
+Une vidéo d'action de science-fiction cinématographique ultra-réaliste de 6 secondes en 8K, filmée avec une ARRI Alexa 65 et des objectifs anamorphiques, étalonnage des couleurs dramatique, grain de film subtil et éclairage volumétrique intense.
+Une puissante reine guerrière elfe des glaces aux longs cheveux argentés flottants, aux yeux bleu brillant et aux oreilles pointues se tient dans une majestueuse forteresse hybride futuriste et glacée. Elle porte une armure de science-fiction complexe argentée et cyan avec des circuits d'énergie cristallins, une haute couronne à pointes pulsant de plasma bleu et des éléments de cape métalliques fluides.
+Elle lève sa main droite de manière spectaculaire, canalisant un orbe d'énergie plasma bleu vif tourbillonnant qui crépite d'arcs électriques et de runes holographiques. Des particules de neige et de glace explosent autour d'elle alors qu'elle libère une puissante décharge d'énergie vers l'avant. Ses cheveux et sa cape flottent spectaculairement dans le vent.
+Atmosphère de science-fiction : veines d'énergie néon-cyan parcourant d'anciennes ruines extraterrestres couvertes de glace, éclats holographiques flottants, particules bleu brillant, rayons divins dramatiques perçant la brume glaciale, étincelles et traînées d'énergie.
+Mouvement de caméra : Séquence cinématographique dynamique — commence par un plan en contre-plongée, puis orbite rapidement autour d'elle tout en effectuant un zoom avant, se terminant par un gros plan dramatique sur son visage intense et sa main brillante alors qu'elle libère la décharge d'énergie. Mouvement intense, faible profondeur de champ, magnifique bokeh, physique réaliste sur les cheveux, le tissu et les effets d'énergie.
+Texture de peau et d'armure photoréaliste, interaction réaliste avec la glace et la neige, pose d'action puissante et élégante, effets d'énergie à haute vitesse. Ambiance fantastique de science-fiction épique, féroce et fascinante. Durée de 6 secondes, 24 ips, chef-d'œuvre, meilleure qualité, hyper-détaillé.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/11893caec932e339ed65acc3fb16bb5b/thumbnails/thumbnail.jpg" width="600" alt="Action de reine des glaces de science-fiction">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4474)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2052764278340583816) | **Published:** May 8, 2026
+
+---
 ### Publicité cinématographique pour le Robotaxi de Tesla
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2069,64 +2131,6 @@ Ange guerrier en armure blanche avec une épée descendant sur un champ de batai
 **Author:** [Chart_Guy](https://x.com/Chart_Guy) | **Source:** [Link](https://x.com/Chart_Guy/status/2050329761835004005) | **Published:** May 1, 2026
 
 ---
-### Piscine à balles des fées et des écureuils
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo ludique mettant en scène des fées et des écureuils dans une piscine à balles aux couleurs de chewing-gum et de barbe à papa.
-
-#### 📝 Prompt
-
-```
-Une vidéo de petites fées et d'écureuils jouant dans une piscine à balles aux couleurs de chewing-gum et de barbe à papa, faisant des bulles et disant des choses mignonnes dans un parc
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3ee8e490948fa9ca87e6a2f4409d43fd/thumbnails/thumbnail.jpg" width="600" alt="Piscine à balles des fées et des écureuils">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4011)**
-
-**Author:** [Emily](https://x.com/EMILYZART) | **Source:** [Link](https://x.com/EMILYZART/status/2050285005872705902) | **Published:** May 1, 2026
-
----
-### Mystérieuse femme victorienne et horloges flottantes
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinématographique complexe mettant en scène une robe victorienne, un manoir sombre et des horloges flottantes surréalistes.
-
-#### 📝 Prompt
-
-```
-Intemporel
-Une femme mystérieuse vêtue d'une robe victorienne fluide se tient seule dans le grand hall d'un manoir sombre éclairé à la bougie. La lumière de la lune traverse les hautes fenêtres tandis que des dizaines d'horloges lumineuses flottent immobiles dans les airs autour d'elle, affichant toutes des heures différentes....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1e800b2d2c19327c1b8777ffb6475188/thumbnails/thumbnail.jpg" width="600" alt="Mystérieuse femme victorienne et horloges flottantes">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4015)**
-
-**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2050259170369130683) | **Published:** May 1, 2026
-
----
-### Animation de dessin en kimono cyberpunk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt créatif pour une femme vêtue d'un kimono cyberpunk flashy, dessinant avec un stylo qui laisse des traces lumineuses.
-
-#### 📝 Prompt
-
-```
-Une femme japonaise dessinant une image dans un kimono cyberpunk flashy. Le dessin réagit à la lumière. Le dessin clignote également de manière cybernétique avec le mouvement du stylo. Dessins au trait uniquement là où le stylo est passé.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2b0422acdc4ccb9fb1ced4c52ae11aff/thumbnails/thumbnail.jpg" width="600" alt="Animation de dessin en kimono cyberpunk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4019)**
-
-**Author:** [トマスのAI画像・動画研究所](https://x.com/thomasainya) | **Source:** [Link](https://x.com/thomasainya/status/2050241289506209963) | **Published:** May 1, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2188,6 +2192,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-09T06:23:26.601Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-09T09:26:11.302Z</sub>
 
 </div>

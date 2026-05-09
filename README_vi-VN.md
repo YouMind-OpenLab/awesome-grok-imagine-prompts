@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1438** |
+| 📝 Total Prompts | **1441** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-09** |
 
@@ -189,6 +189,68 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Những thực tại mới của nhân loại với các quả cầu ánh sáng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Tạo một video có người diễn thuyết đang thảo luận về tương lai của nhân loại trong khi được bao quanh bởi những quả cầu phát sáng đầy huyền bí.
+
+#### 📝 Prompt
+
+```
+Cô ấy nói rằng đã đến lúc nhân loại cần cân nhắc về những thực tại mới. Cô ấy mỉm cười và những quả cầu nhỏ xuất hiện xung quanh cô.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c1248d34d2c7318f3c8bb6fc722f095/thumbnails/thumbnail.jpg" width="600" alt="Những thực tại mới của nhân loại với các quả cầu ánh sáng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4476)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2052938952798060909) | **Published:** May 9, 2026
+
+---
+### Chú mèo khổng lồ trong khu rừng tí hon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý kịch bản siêu thực, nơi những cái cây tí hon mọc lên từ mặt đất khi một chú mèo khổng lồ bước qua chúng.
+
+#### 📝 Prompt
+
+```
+Những cái cây mọc lên từ mặt đất ở dạng tí hon, và người xem sẽ chuyển cảnh từ góc nhìn một chú mèo khổng lồ đang bước qua những cái cây đó.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9db754beff35a8014490451bb3b5c443/thumbnails/thumbnail.jpg" width="600" alt="Chú mèo khổng lồ trong khu rừng tí hon">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4475)**
+
+**Author:** [🍓](https://x.com/sulegulmenX) | **Source:** [Link](https://x.com/sulegulmenX/status/2052822214311805225) | **Published:** May 8, 2026
+
+---
+### Hành động Nữ hoàng Băng giá Khoa học viễn tưởng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh kỹ thuật chi tiết cao dành cho phân cảnh khoa học viễn tưởng điện ảnh 8K với nhân vật nữ hoàng tiên băng.
+
+#### 📝 Prompt
+
+```
+Một video hành động khoa học viễn tưởng điện ảnh siêu thực dài 6 giây ở độ phân giải 8K, được quay bằng máy ARRI Alexa 65 với ống kính anamorphic, chỉnh màu ấn tượng, hạt phim tinh tế và ánh sáng thể tích cường độ cao.
+Một nữ hoàng chiến binh tiên băng quyền năng với mái tóc bạc trắng dài bồng bềnh, đôi mắt xanh phát sáng và đôi tai nhọn đứng trong một pháo đài lai giữa tương lai và băng giá đầy uy nghiêm. Cô mặc bộ giáp khoa học viễn tưởng toàn thân tinh xảo màu bạc và xanh lơ với các mạch năng lượng tinh thể, chiếc vương miện cao nhọn tỏa ra xung nhịp plasma xanh cùng các chi tiết áo choàng kim loại bay bổng.
+Cô giơ tay phải lên một cách đầy kịch tính, điều khiển một quả cầu năng lượng plasma màu xanh sáng rực đang xoáy tròn, nổ lách tách với các tia điện và ký tự rune ba chiều. Các hạt tuyết và băng nổ tung xung quanh khi cô tung ra luồng năng lượng mạnh mẽ về phía trước. Tóc và áo choàng của cô bay bổng đầy ấn tượng trong gió.
+Không khí khoa học viễn tưởng: các đường vân năng lượng màu xanh neon chạy qua những tàn tích cổ đại phủ đầy băng, các mảnh vỡ ba chiều lơ lửng, các hạt màu xanh phát sáng, những tia sáng thần thánh ấn tượng xuyên qua màn sương giá, các tia lửa và vệt năng lượng.
+Chuyển động máy quay: Phân cảnh điện ảnh năng động — bắt đầu bằng góc quay thấp lấy nhân vật làm trung tâm, sau đó nhanh chóng xoay quanh cô ấy trong khi tiến lại gần, kết thúc bằng một cảnh cận cảnh đầy ấn tượng vào khuôn mặt sắc sảo và bàn tay đang phát sáng khi cô tung ra luồng năng lượng. Chuyển động mạnh mẽ, độ sâu trường ảnh nông, hiệu ứng bokeh tuyệt đẹp, vật lý chân thực trên tóc, vải và các hiệu ứng năng lượng.
+Kết cấu da và giáp chân thực, tương tác băng tuyết sống động, tư thế hành động mạnh mẽ và thanh lịch, hiệu ứng năng lượng tốc độ cao. Tâm trạng giả tưởng khoa học viễn tưởng sử thi, dữ dội và đầy mê hoặc. Thời lượng 6 giây, 24fps, kiệt tác, chất lượng tốt nhất, siêu chi tiết.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/11893caec932e339ed65acc3fb16bb5b/thumbnails/thumbnail.jpg" width="600" alt="Hành động Nữ hoàng Băng giá Khoa học viễn tưởng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4474)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2052764278340583816) | **Published:** May 8, 2026
+
+---
 ### Quảng cáo phim Tesla Robotaxi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2069,64 +2131,6 @@ Thiên thần chiến binh mặc giáp trắng, cầm kiếm đang giáng xuốn
 **Author:** [Chart_Guy](https://x.com/Chart_Guy) | **Source:** [Link](https://x.com/Chart_Guy/status/2050329761835004005) | **Published:** May 1, 2026
 
 ---
-### Nhà bóng Tiên nhỏ và Sóc
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt vui nhộn với hình ảnh các nàng tiên và chú sóc trong nhà bóng đầy màu sắc như kẹo cao su và kẹo bông.
-
-#### 📝 Prompt
-
-```
-Video về những nàng tiên nhỏ và chú sóc đang chơi đùa trong nhà bóng với đủ màu sắc như kẹo cao su và kẹo bông, cùng nhau thổi bong bóng và nói những lời dễ thương trong công viên
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3ee8e490948fa9ca87e6a2f4409d43fd/thumbnails/thumbnail.jpg" width="600" alt="Nhà bóng Tiên nhỏ và Sóc">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4011)**
-
-**Author:** [Emily](https://x.com/EMILYZART) | **Source:** [Link](https://x.com/EMILYZART/status/2050285005872705902) | **Published:** May 1, 2026
-
----
-### Người phụ nữ thời Victoria bí ẩn và những chiếc đồng hồ trôi nổi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) điện ảnh phức tạp với hình ảnh chiếc váy thời Victoria, một dinh thự u tối và những chiếc đồng hồ trôi nổi đầy siêu thực.
-
-#### 📝 Prompt
-
-```
-Vượt thời gian
-Một người phụ nữ bí ẩn trong chiếc váy thời Victoria thướt tha đứng một mình tại sảnh lớn của một dinh thự u tối, lung linh ánh nến. Ánh trăng tràn qua những khung cửa sổ cao, trong khi hàng chục chiếc đồng hồ phát sáng lơ lửng bất động trong không trung xung quanh cô, tất cả đều chỉ những thời điểm khác nhau....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1e800b2d2c19327c1b8777ffb6475188/thumbnails/thumbnail.jpg" width="600" alt="Người phụ nữ thời Victoria bí ẩn và những chiếc đồng hồ trôi nổi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4015)**
-
-**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2050259170369130683) | **Published:** May 1, 2026
-
----
-### Hoạt ảnh vẽ tranh phong cách Cyberpunk Kimono
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh sáng tạo về người phụ nữ mặc bộ kimono cyberpunk hào nhoáng đang vẽ bằng chiếc bút để lại những vệt sáng.
-
-#### 📝 Prompt
-
-```
-Một người phụ nữ Nhật Bản đang vẽ tranh trong bộ kimono cyberpunk hào nhoáng. Bức vẽ phản ứng với ánh sáng. Bức vẽ cũng nhấp nháy theo phong cách điều khiển học (cybernetic) theo chuyển động của bút. Chỉ hiển thị các nét vẽ tại những vị trí được bút vẽ qua.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2b0422acdc4ccb9fb1ced4c52ae11aff/thumbnails/thumbnail.jpg" width="600" alt="Hoạt ảnh vẽ tranh phong cách Cyberpunk Kimono">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4019)**
-
-**Author:** [トマスのAI画像・動画研究所](https://x.com/thomasainya) | **Source:** [Link](https://x.com/thomasainya/status/2050241289506209963) | **Published:** May 1, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2188,6 +2192,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-09T06:23:19.206Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-09T09:26:04.947Z</sub>
 
 </div>

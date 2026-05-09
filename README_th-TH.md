@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1438** |
+| 📝 Total Prompts | **1441** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-09** |
 
@@ -189,6 +189,68 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### Humanity New Realities Orbs
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> สร้างวิดีโอที่มีผู้พูดกำลังอภิปรายเกี่ยวกับอนาคตของมนุษยชาติ โดยมีลูกบอลแสงลึกลับลอยอยู่รอบตัว
+
+#### 📝 Prompt
+
+```
+เธอกล่าวว่า ถึงเวลาแล้วที่เราในฐานะมนุษยชาติต้องพิจารณาถึงความเป็นจริงใหม่ๆ เธอยิ้มออกมาและมีลูกบอลแสงขนาดเล็กปรากฏขึ้นรอบตัวเธอ
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c1248d34d2c7318f3c8bb6fc722f095/thumbnails/thumbnail.jpg" width="600" alt="Humanity New Realities Orbs">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4476)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2052938952798060909) | **Published:** May 9, 2026
+
+---
+### แมวยักษ์ในป่าจิ๋ว
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สถานการณ์เหนือจริงที่ต้นไม้ขนาดจิ๋วงอกขึ้นมาจากพื้นดิน ในขณะที่แมวยักษ์ก้าวข้ามผ่านพวกมันไป
+
+#### 📝 Prompt
+
+```
+ต้นไม้ขนาดจิ๋วงอกขึ้นมาจากพื้นดิน และมุมมองของผู้รับชมจะเปลี่ยนผ่านไปสู่ภาพของแมวยักษ์ที่กำลังก้าวข้ามต้นไม้เหล่านั้น
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9db754beff35a8014490451bb3b5c443/thumbnails/thumbnail.jpg" width="600" alt="แมวยักษ์ในป่าจิ๋ว">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4475)**
+
+**Author:** [🍓](https://x.com/sulegulmenX) | **Source:** [Link](https://x.com/sulegulmenX/status/2052822214311805225) | **Published:** May 8, 2026
+
+---
+### ฉากแอ็กชันราชินีน้ำแข็งแนวไซไฟ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์เชิงเทคนิคที่มีรายละเอียดสูงสำหรับวิดีโอซีนีมาติกแนวไซไฟความละเอียด 8K ที่มีตัวละครราชินีเอลฟ์น้ำแข็ง
+
+#### 📝 Prompt
+
+```
+วิดีโอแอ็กชันแนวไซไฟความละเอียด 8K ที่สมจริงระดับอัลตราซีนีมาติกความยาว 6 วินาที ถ่ายทำด้วยกล้อง ARRI Alexa 65 พร้อมเลนส์อะนามอร์ฟิก การปรับแต่งสีแบบดรามาติก เกรนฟิล์มที่ละเอียดอ่อน และแสงวอลูเมตริกที่เข้มข้น
+ราชินีนักรบเอลฟ์น้ำแข็งผู้ทรงพลังที่มีผมสีเงินขาวสลวย ดวงตาสีฟ้าเรืองแสง และหูแหลม ยืนอยู่ในป้อมปราการอันโอ่อ่าที่ผสมผสานระหว่างความล้ำสมัยและน้ำแข็ง เธอสวมชุดเกราะไซไฟสีเงินและสีฟ้าเรืองแสงที่ซับซ้อนพร้อมวงจรพลังงานคริสตัล มงกุฎหนามสูงที่เปล่งประกายด้วยพลาสมาสีฟ้า และผ้าคลุมโลหะที่พลิ้วไหว
+เธอยกมือขวาขึ้นอย่างดรามาติก รวบรวมลูกบอลพลังงานพลาสมาสีฟ้าสว่างที่หมุนวนและมีประกายไฟฟ้าพร้อมอักขระโฮโลแกรม ละอองหิมะและน้ำแข็งแตกกระจายรอบตัวเธอขณะที่เธอปล่อยพลังงานมหาศาลไปข้างหน้า เส้นผมและผ้าคลุมของเธอพลิ้วไหวอย่างรุนแรงตามแรงลม
+บรรยากาศแนวไซไฟ: เส้นเลือดพลังงานสีฟ้าอมเขียวที่ไหลผ่านซากปรักหักพังของเอเลี่ยนโบราณที่ปกคลุมด้วยน้ำแข็ง เศษโฮโลแกรมที่ลอยอยู่ อนุภาคสีฟ้าเรืองแสง ลำแสงเทพ (god rays) ที่ตัดผ่านหมอกที่เย็นจัด ประกายไฟ และร่องรอยของพลังงาน
+การเคลื่อนไหวของกล้อง: ลำดับภาพซีนีมาติกแบบไดนามิก — เริ่มต้นด้วยมุมกล้องต่ำแบบฮีโร่ จากนั้นหมุนรอบตัวเธออย่างรวดเร็วพร้อมซูมเข้าไป จบลงด้วยการโคลสอัปที่ใบหน้าอันดุดันและมือที่เรืองแสงของเธอในขณะที่เธอปล่อยพลังงานออกมา การเคลื่อนไหวที่เข้มข้น ระยะชัดลึกที่ตื้น โบเก้ที่สวยงาม ฟิสิกส์ที่สมจริงของเส้นผม ผ้า และเอฟเฟกต์พลังงาน
+พื้นผิวผิวหนังและชุดเกราะที่สมจริง การโต้ตอบของน้ำแข็งและหิมะที่สมจริง ท่าทางแอ็กชันที่ทรงพลังและสง่างาม เอฟเฟกต์พลังงานความเร็วสูง อารมณ์แฟนตาซีไซไฟที่ยิ่งใหญ่ ดุดัน และน่าหลงใหล ความยาว 6 วินาที, 24fps, ผลงานชิ้นเอก, คุณภาพดีที่สุด, รายละเอียดสูง
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/11893caec932e339ed65acc3fb16bb5b/thumbnails/thumbnail.jpg" width="600" alt="ฉากแอ็กชันราชินีน้ำแข็งแนวไซไฟ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4474)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2052764278340583816) | **Published:** May 8, 2026
+
+---
 ### โฆษณาภาพยนตร์ Tesla Robotaxi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2069,64 +2131,6 @@ SCENE LOCK: ล็อกมุมกล้องแบบขาตั้งก�
 **Author:** [Chart_Guy](https://x.com/Chart_Guy) | **Source:** [Link](https://x.com/Chart_Guy/status/2050329761835004005) | **Published:** May 1, 2026
 
 ---
-### บ่อบอลนางฟ้าและกระรอกน้อย
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพร้อมท์แสนสนุกที่มีเหล่านางฟ้าและกระรอกน้อยในบ่อบอลสีสันสดใสที่ทำจากหมากฝรั่งและสายไหม
-
-#### 📝 Prompt
-
-```
-วิดีโอของเหล่านางฟ้าและกระรอกน้อยที่กำลังเล่นสนุกอยู่ในบ่อบอลสีสันสดใสที่ทำจากหมากฝรั่งและสายไหม พร้อมเป่าฟองสบู่และพูดจาน่ารัก ๆ อยู่ในสวน
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3ee8e490948fa9ca87e6a2f4409d43fd/thumbnails/thumbnail.jpg" width="600" alt="บ่อบอลนางฟ้าและกระรอกน้อย">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4011)**
-
-**Author:** [Emily](https://x.com/EMILYZART) | **Source:** [Link](https://x.com/EMILYZART/status/2050285005872705902) | **Published:** May 1, 2026
-
----
-### หญิงสาวในยุควิกตอเรียสุดลึกลับกับนาฬิกาลอยได้
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์แนวภาพยนตร์ที่ซับซ้อน ซึ่งประกอบด้วยชุดกระโปรงยุควิกตอเรีย คฤหาสน์มืดมิด และนาฬิกาลอยได้ที่ดูเหนือจริง
-
-#### 📝 Prompt
-
-```
-เหนือกาลเวลา
-หญิงสาวลึกลับในชุดกระโปรงยุควิกตอเรียพลิ้วไหว ยืนอยู่เพียงลำพังในโถงทางเดินอันโอ่อ่าของคฤหาสน์มืดมิดที่ส่องสว่างด้วยแสงเทียน แสงจันทร์สาดส่องผ่านหน้าต่างบานสูง ในขณะที่นาฬิกาเรืองแสงหลายสิบเรือนลอยนิ่งอยู่กลางอากาศรอบตัวเธอ โดยแต่ละเรือนต่างแสดงเวลาที่แตกต่างกันออกไป....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1e800b2d2c19327c1b8777ffb6475188/thumbnails/thumbnail.jpg" width="600" alt="หญิงสาวในยุควิกตอเรียสุดลึกลับกับนาฬิกาลอยได้">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4015)**
-
-**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2050259170369130683) | **Published:** May 1, 2026
-
----
-### แอนิเมชันการวาดภาพด้วยชุดกิโมโนสไตล์ไซเบอร์พังค์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สร้างสรรค์สำหรับภาพหญิงสาวในชุดกิโมโนสไตล์ไซเบอร์พังค์สุดล้ำ กำลังวาดภาพด้วยปากกาที่ทิ้งร่องรอยแสงเรืองรองเอาไว้
-
-#### 📝 Prompt
-
-```
-หญิงสาวชาวญี่ปุ่นกำลังวาดภาพในชุดกิโมโนสไตล์ไซเบอร์พังค์สุดล้ำ ภาพวาดมีการตอบสนองด้วยแสง และกะพริบแบบไซเบอร์ตามการเคลื่อนไหวของปากกา โดยมีเฉพาะเส้นที่วาดด้วยปากกาเท่านั้นที่ปรากฏขึ้น
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2b0422acdc4ccb9fb1ced4c52ae11aff/thumbnails/thumbnail.jpg" width="600" alt="แอนิเมชันการวาดภาพด้วยชุดกิโมโนสไตล์ไซเบอร์พังค์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4019)**
-
-**Author:** [トマスのAI画像・動画研究所](https://x.com/thomasainya) | **Source:** [Link](https://x.com/thomasainya/status/2050241289506209963) | **Published:** May 1, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2188,6 +2192,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-09T06:23:18.243Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-09T09:26:03.518Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **1438** |
+| 📝 총 프롬프트 수 | **1441** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-05-09** |
 
@@ -189,6 +189,68 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### Humanity New Realities Orbs
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 인류의 미래에 대해 이야기하는 화자와 그 주변을 감싼 신비로운 빛의 구체를 담은 영상을 생성합니다.
+
+#### 📝 프롬프트
+
+```
+그녀는 이제 인류로서 새로운 현실을 고려해야 할 때라고 말합니다. 그녀가 미소를 짓자 주변으로 작은 구체들이 나타납니다.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c1248d34d2c7318f3c8bb6fc722f095/thumbnails/thumbnail.jpg" width="600" alt="Humanity New Realities Orbs">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4476)**
+
+**작성자:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **출처:** [Link](https://x.com/clemensilverio/status/2052938952798060909) | **게시일:** May 9, 2026
+
+---
+### 미니어처 숲속의 거대 고양이
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 거대 고양이가 미니어처 나무들 위를 걸어가는 초현실적인 시나리오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+땅에서 미니어처 나무들이 자라나고, 거대 고양이가 그 위를 성큼성큼 걸어가는 장면으로 전환됩니다.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9db754beff35a8014490451bb3b5c443/thumbnails/thumbnail.jpg" width="600" alt="미니어처 숲속의 거대 고양이">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4475)**
+
+**작성자:** [🍓](https://x.com/sulegulmenX) | **출처:** [Link](https://x.com/sulegulmenX/status/2052822214311805225) | **게시일:** May 8, 2026
+
+---
+### SF 아이스 퀸 액션
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 얼음 요정 여왕이 등장하는 영화 같은 8K SF 시퀀스를 위한 매우 상세하고 기술적인 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+ARRI Alexa 65와 아나모픽 렌즈로 촬영한 8K 해상도의 놀라운 6초 분량 초현실적 SF 액션 영상으로, 드라마틱한 색감 보정, 은은한 필름 그레인, 강렬한 볼륨 조명 효과가 특징입니다.
+길게 휘날리는 은백색 머리카락과 빛나는 푸른 눈, 뾰족한 귀를 가진 강력한 얼음 요정 전사 여왕이 웅장한 미래형 얼음 요새에 서 있습니다. 그녀는 결정체 에너지 회로가 흐르는 정교한 전신 은색 및 청록색 발광 SF 갑옷을 입고 있으며, 푸른 플라즈마가 맥동하는 높은 뿔 왕관과 흐르는 듯한 금속 망토를 착용하고 있습니다.
+그녀가 극적으로 오른손을 들어 올리자 전기 아크와 홀로그램 룬이 번쩍이는 소용돌이치는 밝은 푸른색 플라즈마 에너지 구체가 형성됩니다. 그녀가 강력한 에너지 폭발을 전방으로 방출함에 따라 주변으로 눈과 얼음 입자가 폭발하듯 흩어집니다. 그녀의 머리카락과 망토는 바람에 극적으로 휘날립니다.
+SF 분위기: 얼음으로 뒤덮인 고대 외계 유적을 가로지르는 네온 청록색 에너지 혈관, 떠다니는 홀로그램 파편, 빛나는 푸른 입자, 차가운 안개를 뚫고 들어오는 드라마틱한 빛 내림(god rays), 불꽃과 에너지 궤적.
+카메라 무빙: 역동적인 시네마틱 시퀀스 — 로우 앵글의 히어로 샷으로 시작하여 빠르게 그녀 주변을 회전하며 줌인하고, 그녀가 에너지 폭발을 방출하는 강렬한 얼굴과 빛나는 손을 클로즈업하며 마무리됩니다. 강렬한 움직임, 얕은 피사계 심도, 아름다운 보케, 머리카락과 의상 및 에너지 효과의 사실적인 물리 엔진 적용.
+사진처럼 사실적인 피부와 갑옷 질감, 얼음과 눈의 사실적인 상호작용, 강력하고 우아한 액션 포즈, 고속 에너지 효과. 웅장하고 치열하며 매혹적인 SF 판타지 분위기. 6초 분량, 24fps, 마스터피스, 최고 품질, 초고해상도.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/11893caec932e339ed65acc3fb16bb5b/thumbnails/thumbnail.jpg" width="600" alt="SF 아이스 퀸 액션">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4474)**
+
+**작성자:** [Thoughts Creator](https://x.com/ThoughCreator) | **출처:** [Link](https://x.com/ThoughCreator/status/2052764278340583816) | **게시일:** May 8, 2026
+
+---
 ### Tesla Robotaxi 영화 광고
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2069,64 +2131,6 @@ Grok 로고 티셔츠를 입고 미래 도시의 런웨이를 걷는 빨간 머�
 **작성자:** [Chart_Guy](https://x.com/Chart_Guy) | **출처:** [Link](https://x.com/Chart_Guy/status/2050329761835004005) | **게시일:** May 1, 2026
 
 ---
-### 요정과 다람쥐 볼 풀장
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 알록달록한 풍선껌과 솜사탕 볼 풀장에서 노는 요정과 다람쥐를 담은 재미있는 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-공원에서 다양한 색상의 풍선껌과 솜사탕 볼 풀장에서 비눗방울을 불며 귀여운 말을 주고받는 작은 요정들과 다람쥐들의 영상
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3ee8e490948fa9ca87e6a2f4409d43fd/thumbnails/thumbnail.jpg" width="600" alt="요정과 다람쥐 볼 풀장">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4011)**
-
-**작성자:** [Emily](https://x.com/EMILYZART) | **출처:** [Link](https://x.com/EMILYZART/status/2050285005872705902) | **게시일:** May 1, 2026
-
----
-### 신비로운 빅토리아 시대 여인과 떠다니는 시계들
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 빅토리아 시대 드레스, 어두운 저택, 초현실적으로 떠다니는 시계들이 어우러진 복합적인 영화적 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-시대를 초월한 순간
-흐르는 듯한 빅토리아 시대 드레스를 입은 신비로운 여인이 촛불이 켜진 어두운 저택의 웅장한 복도에 홀로 서 있습니다. 높은 창문으로 달빛이 쏟아져 들어오고, 그녀 주변에는 수십 개의 빛나는 시계들이 각기 다른 시간을 가리키며 허공에 멈춰 떠 있습니다....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1e800b2d2c19327c1b8777ffb6475188/thumbnails/thumbnail.jpg" width="600" alt="신비로운 빅토리아 시대 여인과 떠다니는 시계들">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4015)**
-
-**작성자:** [DuBoseJen](https://x.com/DuBosefire) | **출처:** [Link](https://x.com/DuBosefire/status/2050259170369130683) | **게시일:** May 1, 2026
-
----
-### 사이버펑크 기모노 드로잉 애니메이션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 화려한 사이버펑크 기모노를 입은 여성이 빛나는 흔적을 남기는 펜으로 그림을 그리는 창의적인 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-화려한 사이버펑크 기모노를 입고 그림을 그리는 일본 여성. 그림은 빛에 반응합니다. 또한 펜의 움직임에 따라 사이버네틱하게 깜빡입니다. 펜으로 선을 그은 부분에만 선화가 나타납니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2b0422acdc4ccb9fb1ced4c52ae11aff/thumbnails/thumbnail.jpg" width="600" alt="사이버펑크 기모노 드로잉 애니메이션">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4019)**
-
-**작성자:** [トマスのAI画像・動画研究所](https://x.com/thomasainya) | **출처:** [Link](https://x.com/thomasainya/status/2050241289506209963) | **게시일:** May 1, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2188,6 +2192,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-05-09T06:23:17.362Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-05-09T09:26:02.245Z</sub>
 
 </div>

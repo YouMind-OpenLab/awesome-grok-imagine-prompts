@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1438** |
+| 📝 Total Prompts | **1441** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-09** |
 
@@ -189,6 +189,68 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Humanity New Realities Orbs
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Creates a video featuring a speaker discussing humanity's future while surrounded by mystical glowing orbs.
+
+#### 📝 Prompt
+
+```
+She says It is time to consider new realities as humanity. She smiles and small orbs come out around her.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c1248d34d2c7318f3c8bb6fc722f095/thumbnails/thumbnail.jpg" width="600" alt="Humanity New Realities Orbs">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4476)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2052938952798060909) | **Published:** May 9, 2026
+
+---
+### Giant Cat in Miniature Forest
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal scenario prompt where miniature trees grow from the ground as a giant cat steps over them.
+
+#### 📝 Prompt
+
+```
+Trees grow out of the ground in miniature, and the viewer transitions from a giant cat stepping over trees.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9db754beff35a8014490451bb3b5c443/thumbnails/thumbnail.jpg" width="600" alt="Giant Cat in Miniature Forest">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4475)**
+
+**Author:** [🍓](https://x.com/sulegulmenX) | **Source:** [Link](https://x.com/sulegulmenX/status/2052822214311805225) | **Published:** May 8, 2026
+
+---
+### Sci-Fi Ice Queen Action
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed, technical prompt for a cinematic 8K sci-fi sequence featuring an ice-elf queen.
+
+#### 📝 Prompt
+
+```
+A stunning 6-second ultra-realistic cinematic Sci-Fi action video in 8K, filmed on ARRI Alexa 65 with anamorphic lenses, dramatic color grading, subtle film grain, and intense volumetric lighting.
+A powerful ice-elf warrior queen with long flowing silver-white hair, glowing blue eyes, and pointed ears stands in a majestic futuristic-ice hybrid fortress. She wears intricate full-body silver and cyan glowing sci-fi armor with crystalline energy circuits, a tall spiked crown pulsing with blue plasma, and flowing metallic cape elements.
+She raises her right hand dramatically, channeling a swirling, bright blue plasma energy orb that crackles with electric arcs and holographic runes. Snow and ice particles explode around her as she unleashes a powerful energy blast forward. Her hair and cape flow dramatically in the wind.
+Sci-Fi atmosphere: neon-cyan energy veins running through ancient alien ruins covered in ice, floating holographic shards, glowing blue particles, dramatic god rays cutting through freezing mist, sparks and energy trails.
+Camera movement: Dynamic cinematic sequence — starts with a low-angle hero shot, then rapidly orbits around her while pushing in, ending in a dramatic close-up on her intense face and glowing hand as she releases the energy blast. Intense motion, shallow depth of field, beautiful bokeh, realistic physics on hair, fabric, and energy effects.
+Photorealistic skin and armor texture, realistic ice and snow interaction, powerful and elegant action pose, high-speed energy effects. Epic, fierce, and mesmerizing Sci-Fi fantasy mood. 6 seconds duration, 24fps, masterpiece, best quality, hyper-detailed.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/11893caec932e339ed65acc3fb16bb5b/thumbnails/thumbnail.jpg" width="600" alt="Sci-Fi Ice Queen Action">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4474)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2052764278340583816) | **Published:** May 8, 2026
+
+---
 ### Tesla Robotaxi Movie Ad
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2069,64 +2131,6 @@ Angel warrior in white with armor and sword descending onto a battlefield to sup
 **Author:** [Chart_Guy](https://x.com/Chart_Guy) | **Source:** [Link](https://x.com/Chart_Guy/status/2050329761835004005) | **Published:** May 1, 2026
 
 ---
-### Fairies and Squirrels Ball Pit
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A playful video prompt featuring fairies and squirrels in a colorful bubble gum and cotton candy ball pit.
-
-#### 📝 Prompt
-
-```
-A Video of little fairies and squirrels playing in a ball pit of different colors of bubble gum and cotton candy blowing bubbles and saying cute things in a park
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3ee8e490948fa9ca87e6a2f4409d43fd/thumbnails/thumbnail.jpg" width="600" alt="Fairies and Squirrels Ball Pit">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4011)**
-
-**Author:** [Emily](https://x.com/EMILYZART) | **Source:** [Link](https://x.com/EMILYZART/status/2050285005872705902) | **Published:** May 1, 2026
-
----
-### Mysterious Victorian Woman and Floating Clocks
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A complex cinematic prompt involving a Victorian gown, a dark mansion, and surreal floating clocks.
-
-#### 📝 Prompt
-
-```
-Timeless
-A mysterious woman in a flowing Victorian gown stands alone in the grand hallway of a dark, candle-lit mansion. Moonlight spills through tall windows as dozens of glowing clocks float motionless in the air around her, all showing different times....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1e800b2d2c19327c1b8777ffb6475188/thumbnails/thumbnail.jpg" width="600" alt="Mysterious Victorian Woman and Floating Clocks">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4015)**
-
-**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2050259170369130683) | **Published:** May 1, 2026
-
----
-### Cyberpunk Kimono Drawing Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A creative prompt for a woman in a flashy cyberpunk kimono drawing with a pen that leaves glowing traces.
-
-#### 📝 Prompt
-
-```
-a Japanese woman drawing a picture in a flashy cyberpunk kimono. The drawing reacts with light. The drawing also blinks cybernetically with the movement of the pen. Line drawings only where traced with the pen.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2b0422acdc4ccb9fb1ced4c52ae11aff/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Kimono Drawing Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4019)**
-
-**Author:** [トマスのAI画像・動画研究所](https://x.com/thomasainya) | **Source:** [Link](https://x.com/thomasainya/status/2050241289506209963) | **Published:** May 1, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2188,6 +2192,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-09T06:23:12.741Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-09T09:25:57.128Z</sub>
 
 </div>

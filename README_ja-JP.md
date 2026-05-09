@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **1438** |
+| 📝 プロンプト総数 | **1441** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-05-09** |
 
@@ -189,6 +189,68 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### Humanity New Realities Orbs
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 神秘的な光を放つオーブに囲まれながら、人類の未来について語るスピーカーの動画を生成します。
+
+#### 📝 プロンプト
+
+```
+彼女は「今こそ人類として新しい現実を考える時です」と語ります。彼女が微笑むと、その周囲に小さなオーブが現れます。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c1248d34d2c7318f3c8bb6fc722f095/thumbnails/thumbnail.jpg" width="600" alt="Humanity New Realities Orbs">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4476)**
+
+**作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **ソース:** [Link](https://x.com/clemensilverio/status/2052938952798060909) | **公開日:** May 9, 2026
+
+---
+### ミニチュアの森に現れた巨大猫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ミニチュアの木々が生い茂る地面を、巨大な猫がまたいで歩くというシュールなシナリオプロンプトです。
+
+#### 📝 プロンプト
+
+```
+地面からミニチュアの木々が生え、巨大な猫がそれらをまたいで歩く様子に視点が切り替わります。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9db754beff35a8014490451bb3b5c443/thumbnails/thumbnail.jpg" width="600" alt="ミニチュアの森に現れた巨大猫">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4475)**
+
+**作者:** [🍓](https://x.com/sulegulmenX) | **ソース:** [Link](https://x.com/sulegulmenX/status/2052822214311805225) | **公開日:** May 8, 2026
+
+---
+### SF アイスクイーン・アクション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 氷の妖精の女王が登場する、映画のような 8K SF シークエンスのための非常に詳細でテクニカルなプロンプト。
+
+#### 📝 プロンプト
+
+```
+ARRI Alexa 65 とアナモフィックレンズで撮影された、8K の超リアルで映画のような 6 秒間の SF アクション動画。ドラマチックなカラーグレーディング、繊細なフィルムグレイン、強烈なボリュームライトが特徴です。
+長く流れるような銀白色の髪、輝く青い瞳、尖った耳を持つ力強い氷の妖精の戦士の女王が、未来的な氷の要塞に佇んでいます。彼女は、結晶エネルギー回路が施された複雑な全身銀色とシアン色の SF アーマーを身にまとい、青いプラズマを放つ高いスパイク状の冠と、流れるようなメタリックなケープを纏っています。
+彼女が右手をドラマチックに掲げると、電気アークとホログラフィックなルーン文字が弾ける、渦巻く明るい青色のプラズマエネルギーのオーブが形成されます。彼女が強力なエネルギーブラストを前方に放つと、雪と氷の粒子が周囲に飛び散ります。髪とケープが風になびき、ドラマチックに揺れ動きます。
+SF の雰囲気：氷に覆われた古代の異星人の遺跡を走るネオンシアンのエネルギー脈、浮かぶホログラフィックな破片、輝く青い粒子、凍てつく霧を切り裂くドラマチックな光の筋、火花とエネルギーの軌跡。
+カメラワーク：ダイナミックなシネマティック・シークエンス。ローアングルからのヒーローショットで始まり、彼女の周囲を急速に旋回しながらズームインし、エネルギーブラストを放つ彼女の力強い表情と輝く手に迫るドラマチックなクローズアップで終わります。激しい動き、浅い被写界深度、美しいボケ味、髪・布・エネルギーエフェクトのリアルな物理演算。
+フォトリアルな肌とアーマーの質感、氷と雪のリアルな相互作用、力強く優雅なアクションポーズ、高速エネルギーエフェクト。壮大で激しく、魅惑的な SF ファンタジーのムード。6 秒間、24fps、マスターピース、最高品質、ハイパーディテール。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/11893caec932e339ed65acc3fb16bb5b/thumbnails/thumbnail.jpg" width="600" alt="SF アイスクイーン・アクション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4474)**
+
+**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **ソース:** [Link](https://x.com/ThoughCreator/status/2052764278340583816) | **公開日:** May 8, 2026
+
+---
 ### Tesla Robotaxi 映画広告
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2069,64 +2131,6 @@ Grok のロゴ入り T シャツを着た赤毛の少女が近未来都市のラ
 **作者:** [Chart_Guy](https://x.com/Chart_Guy) | **ソース:** [Link](https://x.com/Chart_Guy/status/2050329761835004005) | **公開日:** May 1, 2026
 
 ---
-### 妖精とリスのボールプール
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> カラフルなバブルガムと綿菓子のボールプールで遊ぶ、妖精とリスが登場する遊び心あふれるビデオプロンプトです。
-
-#### 📝 プロンプト
-
-```
-公園で、色とりどりのバブルガムと綿菓子のボールプールの中で遊びながら、シャボン玉を飛ばして可愛い言葉をささやく小さな妖精とリスたちのビデオ
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3ee8e490948fa9ca87e6a2f4409d43fd/thumbnails/thumbnail.jpg" width="600" alt="妖精とリスのボールプール">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4011)**
-
-**作者:** [Emily](https://x.com/EMILYZART) | **ソース:** [Link](https://x.com/EMILYZART/status/2050285005872705902) | **公開日:** May 1, 2026
-
----
-### 謎めいたヴィクトリア朝の女性と浮かぶ時計
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ヴィクトリア朝のドレス、暗い屋敷、そしてシュールに浮かぶ時計を組み合わせた、複雑でシネマティックなプロンプト。
-
-#### 📝 プロンプト
-
-```
-永遠の時
-ヴィクトリア朝の流れるようなドレスを纏った謎めいた女性が、キャンドルの灯る暗い屋敷の壮大な廊下に一人佇んでいる。高い窓から月明かりが差し込み、彼女の周囲には数十個の光る時計が静止して浮かんでおり、それぞれが異なる時刻を刻んでいる……。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1e800b2d2c19327c1b8777ffb6475188/thumbnails/thumbnail.jpg" width="600" alt="謎めいたヴィクトリア朝の女性と浮かぶ時計">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4015)**
-
-**作者:** [DuBoseJen](https://x.com/DuBosefire) | **ソース:** [Link](https://x.com/DuBosefire/status/2050259170369130683) | **公開日:** May 1, 2026
-
----
-### サイバーパンク着物のドローイングアニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 鮮やかなサイバーパンク着物をまとった女性が、光の軌跡を残すペンで絵を描くクリエイティブなプロンプトです。
-
-#### 📝 プロンプト
-
-```
-鮮やかなサイバーパンク着物を着た日本人女性が絵を描いている。描かれた絵は光に反応し、ペンの動きに合わせてサイバーな点滅をする。ペンでなぞった部分のみが線画として浮かび上がる。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2b0422acdc4ccb9fb1ced4c52ae11aff/thumbnails/thumbnail.jpg" width="600" alt="サイバーパンク着物のドローイングアニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4019)**
-
-**作者:** [トマスのAI画像・動画研究所](https://x.com/thomasainya) | **ソース:** [Link](https://x.com/thomasainya/status/2050241289506209963) | **公開日:** May 1, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2188,6 +2192,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-05-09T06:23:16.147Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-05-09T09:26:01.017Z</sub>
 
 </div>

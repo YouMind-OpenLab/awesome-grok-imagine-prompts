@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1438** |
+| 📝 Total Prompts | **1441** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-09** |
 
@@ -189,6 +189,68 @@ Una mistica e nobile Valchiria celestiale, una donna dignitosa e bellissima con 
 
 > 📝 Sorted by publish date (newest first)
 
+### Humanity New Realities Orbs
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Crea un video in cui una persona parla del futuro dell'umanità circondata da sfere mistiche luminose.
+
+#### 📝 Prompt
+
+```
+Dice che è giunto il momento per l'umanità di considerare nuove realtà. Sorride e piccole sfere emergono attorno a lei.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c1248d34d2c7318f3c8bb6fc722f095/thumbnails/thumbnail.jpg" width="600" alt="Humanity New Realities Orbs">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4476)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2052938952798060909) | **Published:** May 9, 2026
+
+---
+### Gatto gigante in una foresta in miniatura
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per uno scenario surreale in cui alberi in miniatura crescono dal terreno mentre un gatto gigante li scavalca.
+
+#### 📝 Prompt
+
+```
+Gli alberi crescono dal terreno in miniatura e l'inquadratura passa a un gatto gigante che scavalca gli alberi.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9db754beff35a8014490451bb3b5c443/thumbnails/thumbnail.jpg" width="600" alt="Gatto gigante in una foresta in miniatura">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4475)**
+
+**Author:** [🍓](https://x.com/sulegulmenX) | **Source:** [Link](https://x.com/sulegulmenX/status/2052822214311805225) | **Published:** May 8, 2026
+
+---
+### Azione Sci-Fi: La Regina dei Ghiacci
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt tecnico altamente dettagliato per una sequenza cinematografica sci-fi in 8K con protagonista una regina elfo dei ghiacci.
+
+#### 📝 Prompt
+
+```
+Uno straordinario video d'azione Sci-Fi cinematografico ultra-realistico di 6 secondi in 8K, girato con ARRI Alexa 65 e lenti anamorfiche, color grading drammatico, sottile grana della pellicola e intensa illuminazione volumetrica.
+Una potente regina guerriera elfo dei ghiacci con lunghi capelli fluenti bianco-argento, occhi azzurri luminosi e orecchie a punta si erge in una maestosa fortezza ibrida ghiaccio-futuristica. Indossa un'intricata armatura sci-fi integrale color argento e ciano con circuiti energetici cristallini, un'alta corona a punte che pulsa di plasma blu e mantelli metallici fluenti.
+Solleva drammaticamente la mano destra, canalizzando una sfera di plasma blu brillante che vortica e scoppietta con archi elettrici e rune olografiche. Particelle di neve e ghiaccio esplodono intorno a lei mentre scatena un potente getto di energia in avanti. I capelli e il mantello fluttuano drammaticamente al vento.
+Atmosfera Sci-Fi: venature di energia neon-ciano che attraversano antiche rovine aliene ricoperte di ghiaccio, frammenti olografici fluttuanti, particelle blu luminose, drammatici raggi di luce che tagliano la nebbia gelida, scintille e scie energetiche.
+Movimento di camera: sequenza cinematografica dinamica — inizia con un'inquadratura dal basso dell'eroina, poi orbita rapidamente attorno a lei avvicinandosi, terminando con un drammatico primo piano sul suo volto intenso e sulla mano luminosa mentre rilascia l'esplosione di energia. Movimento intenso, profondità di campo ridotta, bellissimo bokeh, fisica realistica su capelli, tessuti ed effetti energetici.
+Texture della pelle e dell'armatura fotorealistiche, interazione realistica tra ghiaccio e neve, posa d'azione potente ed elegante, effetti energetici ad alta velocità. Atmosfera fantasy Sci-Fi epica, feroce e ipnotica. Durata 6 secondi, 24fps, capolavoro, massima qualità, iper-dettagliato.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/11893caec932e339ed65acc3fb16bb5b/thumbnails/thumbnail.jpg" width="600" alt="Azione Sci-Fi: La Regina dei Ghiacci">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4474)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2052764278340583816) | **Published:** May 8, 2026
+
+---
 ### Pubblicità cinematografica del Tesla Robotaxi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2069,64 +2131,6 @@ Guerriero angelo in bianco con armatura e spada che discende su un campo di batt
 **Author:** [Chart_Guy](https://x.com/Chart_Guy) | **Source:** [Link](https://x.com/Chart_Guy/status/2050329761835004005) | **Published:** May 1, 2026
 
 ---
-### Piscina di palline con fate e scoiattoli
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un divertente prompt video con fate e scoiattoli in una colorata piscina di palline fatta di chewing gum e zucchero filato.
-
-#### 📝 Prompt
-
-```
-Un video di piccole fate e scoiattoli che giocano in una piscina di palline dai colori del chewing gum e dello zucchero filato, mentre soffiano bolle e dicono cose carine in un parco
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3ee8e490948fa9ca87e6a2f4409d43fd/thumbnails/thumbnail.jpg" width="600" alt="Piscina di palline con fate e scoiattoli">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4011)**
-
-**Author:** [Emily](https://x.com/EMILYZART) | **Source:** [Link](https://x.com/EMILYZART/status/2050285005872705902) | **Published:** May 1, 2026
-
----
-### Misteriosa donna vittoriana e orologi fluttuanti
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un complesso prompt cinematografico che coinvolge un abito vittoriano, una villa oscura e orologi fluttuanti surreali.
-
-#### 📝 Prompt
-
-```
-Senza tempo
-Una donna misteriosa con un fluente abito vittoriano è sola nel grande corridoio di una villa oscura illuminata dalle candele. La luce della luna filtra attraverso le alte finestre mentre decine di orologi luminosi fluttuano immobili nell'aria attorno a lei, segnando tutti orari diversi....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1e800b2d2c19327c1b8777ffb6475188/thumbnails/thumbnail.jpg" width="600" alt="Misteriosa donna vittoriana e orologi fluttuanti">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4015)**
-
-**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2050259170369130683) | **Published:** May 1, 2026
-
----
-### Animazione di disegno in kimono cyberpunk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt creativo per una donna con un vistoso kimono cyberpunk che disegna con una penna che lascia tracce luminose.
-
-#### 📝 Prompt
-
-```
-una donna giapponese che disegna un'immagine indossando un vistoso kimono cyberpunk. Il disegno reagisce con la luce. Il disegno lampeggia anche in modo cibernetico con il movimento della penna. Disegni a linee solo dove tracciati con la penna.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2b0422acdc4ccb9fb1ced4c52ae11aff/thumbnails/thumbnail.jpg" width="600" alt="Animazione di disegno in kimono cyberpunk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4019)**
-
-**Author:** [トマスのAI画像・動画研究所](https://x.com/thomasainya) | **Source:** [Link](https://x.com/thomasainya/status/2050241289506209963) | **Published:** May 1, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2188,6 +2192,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-09T06:23:28.176Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-09T09:26:12.627Z</sub>
 
 </div>

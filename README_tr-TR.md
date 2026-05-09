@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1438** |
+| 📝 Total Prompts | **1441** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-09** |
 
@@ -189,6 +189,68 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### İnsanlığın Yeni Gerçeklik Küreleri
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> İnsanlığın geleceği hakkında konuşan ve etrafı mistik parlayan kürelerle çevrili bir konuşmacının yer aldığı bir video oluşturur.
+
+#### 📝 Prompt
+
+```
+İnsanlık olarak yeni gerçeklikleri düşünme zamanının geldiğini söylüyor. Gülümsüyor ve etrafında küçük küreler beliriyor.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c1248d34d2c7318f3c8bb6fc722f095/thumbnails/thumbnail.jpg" width="600" alt="İnsanlığın Yeni Gerçeklik Küreleri">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4476)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2052938952798060909) | **Published:** May 9, 2026
+
+---
+### Minyatür Ormandaki Dev Kedi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Dev bir kedinin üzerinden geçtiği minyatür ağaçların yerden büyüdüğü sürreal bir senaryo istemi.
+
+#### 📝 Prompt
+
+```
+Ağaçlar yerden minyatür bir şekilde büyüyor ve izleyici, ağaçların üzerinden adım atan dev bir kediye geçiş yapıyor.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9db754beff35a8014490451bb3b5c443/thumbnails/thumbnail.jpg" width="600" alt="Minyatür Ormandaki Dev Kedi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4475)**
+
+**Author:** [🍓](https://x.com/sulegulmenX) | **Source:** [Link](https://x.com/sulegulmenX/status/2052822214311805225) | **Published:** May 8, 2026
+
+---
+### Bilim Kurgu Buz Kraliçesi Aksiyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Buz elfi kraliçesini içeren sinematik 8K bilim kurgu sekansı için oldukça detaylı, teknik bir komut.
+
+#### 📝 Prompt
+
+```
+ARRI Alexa 65 ile anamorfik lensler kullanılarak çekilmiş, dramatik renk düzenlemesi, hafif film greni ve yoğun hacimsel aydınlatmaya sahip, 8K çözünürlüğünde 6 saniyelik çarpıcı ve ultra gerçekçi sinematik bilim kurgu aksiyon videosu.
+Uzun, dalgalı gümüş-beyaz saçlara, parlayan mavi gözlere ve sivri kulaklara sahip güçlü bir buz elfi savaşçı kraliçe, görkemli, fütüristik ve buzdan oluşan hibrit bir kalede duruyor. Üzerinde kristal enerji devrelerine sahip, karmaşık, tüm vücudu saran gümüş ve camgöbeği renginde parlayan bir bilim kurgu zırhı, mavi plazma ile nabız gibi atan uzun sivri bir taç ve dökümlü metalik pelerin parçaları bulunuyor.
+Sağ elini dramatik bir şekilde kaldırarak elektrik arkları ve holografik rünlerle çatırdayan, dönen parlak mavi bir plazma enerji küresini yönlendiriyor. Güçlü bir enerji patlamasını ileriye doğru serbest bırakırken etrafında kar ve buz parçacıkları patlıyor. Saçları ve pelerini rüzgarda dramatik bir şekilde dalgalanıyor.
+Bilim kurgu atmosferi: buzla kaplı antik uzaylı kalıntıları arasından geçen neon camgöbeği enerji damarları, yüzen holografik parçalar, parlayan mavi parçacıklar, dondurucu sisin içinden geçen dramatik tanrı ışınları, kıvılcımlar ve enerji izleri.
+Kamera hareketi: Dinamik sinematik sekans — düşük açılı bir kahraman çekimiyle başlar, ardından hızla etrafında dönerek yakınlaşır ve enerji patlamasını serbest bırakırken yoğun yüzüne ve parlayan eline yapılan dramatik bir yakın çekimle sona erer. Yoğun hareket, sığ alan derinliği, güzel bokeh efekti, saç, kumaş ve enerji efektlerinde gerçekçi fizik kuralları.
+Fotogerçekçi cilt ve zırh dokusu, gerçekçi buz ve kar etkileşimi, güçlü ve zarif aksiyon pozu, yüksek hızlı enerji efektleri. Epik, vahşi ve büyüleyici bilim kurgu fantezi havası. 6 saniye süre, 24fps, başyapıt, en iyi kalite, hiper detaylı.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/11893caec932e339ed65acc3fb16bb5b/thumbnails/thumbnail.jpg" width="600" alt="Bilim Kurgu Buz Kraliçesi Aksiyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4474)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2052764278340583816) | **Published:** May 8, 2026
+
+---
 ### Tesla Robotaxi Film Reklamı
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2069,64 +2131,6 @@ Ordusuna destek olmak için savaş alanına görkemli bir şekilde inen, beyaz z
 **Author:** [Chart_Guy](https://x.com/Chart_Guy) | **Source:** [Link](https://x.com/Chart_Guy/status/2050329761835004005) | **Published:** May 1, 2026
 
 ---
-### Periler ve Sincaplar Top Havuzu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Renkli ciklet ve pamuk şekerden oluşan bir top havuzunda oynayan periler ve sincapları içeren eğlenceli bir video istemi.
-
-#### 📝 Prompt
-
-```
-Bir parkta, farklı renklerdeki ciklet ve pamuk şekerden oluşan bir top havuzunda oynayan, baloncuklar çıkaran ve sevimli şeyler söyleyen küçük periler ve sincapların videosu
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3ee8e490948fa9ca87e6a2f4409d43fd/thumbnails/thumbnail.jpg" width="600" alt="Periler ve Sincaplar Top Havuzu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4011)**
-
-**Author:** [Emily](https://x.com/EMILYZART) | **Source:** [Link](https://x.com/EMILYZART/status/2050285005872705902) | **Published:** May 1, 2026
-
----
-### Gizemli Viktorya Dönemi Kadını ve Süzülen Saatler
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Viktorya dönemi elbisesi, karanlık bir malikane ve gerçeküstü süzülen saatleri içeren karmaşık bir sinematik komut (prompt).
-
-#### 📝 Prompt
-
-```
-Zamansız
-Akıcı bir Viktorya dönemi elbisesi içindeki gizemli bir kadın, karanlık ve mumlarla aydınlatılmış bir malikanenin büyük koridorunda tek başına duruyor. Ay ışığı yüksek pencerelerden içeri süzülürken, düzinelerce parlayan saat havada hareketsiz bir şekilde onun etrafında süzülüyor ve hepsi farklı zamanları gösteriyor....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1e800b2d2c19327c1b8777ffb6475188/thumbnails/thumbnail.jpg" width="600" alt="Gizemli Viktorya Dönemi Kadını ve Süzülen Saatler">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4015)**
-
-**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2050259170369130683) | **Published:** May 1, 2026
-
----
-### Cyberpunk Kimono Çizim Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Parlak, siberpunk bir kimono giymiş ve arkasında ışıklı izler bırakan bir kalemle çizim yapan bir kadın için yaratıcı bir komut.
-
-#### 📝 Prompt
-
-```
-Gösterişli bir siberpunk kimono giymiş, resim çizen Japon bir kadın. Çizim ışıkla tepki veriyor. Çizim ayrıca kalemin hareketiyle sibernetik bir şekilde yanıp sönüyor. Sadece kalemle üzerinden geçilen yerlerde çizgi çizimleri mevcut.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2b0422acdc4ccb9fb1ced4c52ae11aff/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Kimono Çizim Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4019)**
-
-**Author:** [トマスのAI画像・動画研究所](https://x.com/thomasainya) | **Source:** [Link](https://x.com/thomasainya/status/2050241289506209963) | **Published:** May 1, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2188,6 +2192,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-09T06:23:32.380Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-09T09:26:16.601Z</sub>
 
 </div>

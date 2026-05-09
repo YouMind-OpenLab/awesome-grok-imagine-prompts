@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1438** |
+| 📝 Total Prompts | **1441** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-09** |
 
@@ -189,6 +189,68 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Humanity New Realities Orbs
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Erstellt ein Video, in dem eine Sprecherin über die Zukunft der Menschheit spricht, umgeben von mystischen, leuchtenden Sphären.
+
+#### 📝 Prompt
+
+```
+Sie sagt: Es ist an der Zeit, dass die Menschheit neue Realitäten in Betracht zieht. Sie lächelt und kleine Sphären erscheinen um sie herum.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c1248d34d2c7318f3c8bb6fc722f095/thumbnails/thumbnail.jpg" width="600" alt="Humanity New Realities Orbs">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4476)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2052938952798060909) | **Published:** May 9, 2026
+
+---
+### Riesige Katze im Miniaturwald
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein surrealer Szenario-Prompt, bei dem Miniaturbäume aus dem Boden wachsen, während eine riesige Katze über sie hinwegschreitet.
+
+#### 📝 Prompt
+
+```
+Bäume wachsen im Miniaturformat aus dem Boden, und der Betrachter erlebt den Übergang zu einer riesigen Katze, die über die Bäume schreitet.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9db754beff35a8014490451bb3b5c443/thumbnails/thumbnail.jpg" width="600" alt="Riesige Katze im Miniaturwald">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4475)**
+
+**Author:** [🍓](https://x.com/sulegulmenX) | **Source:** [Link](https://x.com/sulegulmenX/status/2052822214311805225) | **Published:** May 8, 2026
+
+---
+### Sci-Fi-Eiskönigin-Action
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochdetaillierter, technischer Prompt für eine filmreife 8K-Sci-Fi-Sequenz mit einer Eiselfen-Königin.
+
+#### 📝 Prompt
+
+```
+Ein atemberaubendes, 6-sekündiges, ultrarealistisches filmisches Sci-Fi-Action-Video in 8K, gedreht auf ARRI Alexa 65 mit anamorphen Objektiven, dramatischem Color Grading, subtilem Filmkorn und intensiver volumetrischer Beleuchtung.
+Eine mächtige Eiselfen-Kriegerkönigin mit langem, fließendem silberweißem Haar, leuchtend blauen Augen und spitzen Ohren steht in einer majestätischen, futuristischen Festung aus Eis. Sie trägt eine detailreiche, am ganzen Körper silber und cyan leuchtende Sci-Fi-Rüstung mit kristallinen Energieschaltkreisen, eine hohe, mit blauem Plasma pulsierende Stachelkrone und fließende metallische Cape-Elemente.
+Sie hebt dramatisch ihre rechte Hand und kanalisiert eine wirbelnde, hellblaue Plasma-Energiekugel, die vor elektrischen Lichtbögen und holografischen Runen knistert. Schnee- und Eispartikel explodieren um sie herum, während sie einen mächtigen Energiestoß nach vorne entfesselt. Ihr Haar und ihr Cape wehen dramatisch im Wind.
+Sci-Fi-Atmosphäre: neon-cyane Energieadern, die durch mit Eis bedeckte, uralte Alien-Ruinen verlaufen, schwebende holografische Scherben, leuchtend blaue Partikel, dramatische Lichtstrahlen, die durch gefrierenden Nebel schneiden, Funken und Energiespuren.
+Kamerabewegung: Dynamische filmische Sequenz – beginnt mit einer Heldenaufnahme aus der Froschperspektive, umkreist sie dann schnell bei gleichzeitigem Zoom, und endet in einer dramatischen Nahaufnahme ihres intensiven Gesichts und ihrer leuchtenden Hand, während sie den Energiestoß freisetzt. Intensive Bewegung, geringe Schärfentiefe, wunderschönes Bokeh, realistische Physik bei Haaren, Stoff und Energieeffekten.
+Fotorealistische Haut- und Rüstungstextur, realistische Interaktion von Eis und Schnee, kraftvolle und elegante Action-Pose, Hochgeschwindigkeits-Energieeffekte. Epische, wilde und faszinierende Sci-Fi-Fantasy-Stimmung. 6 Sekunden Dauer, 24 fps, Meisterwerk, beste Qualität, hyperdetailliert.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/11893caec932e339ed65acc3fb16bb5b/thumbnails/thumbnail.jpg" width="600" alt="Sci-Fi-Eiskönigin-Action">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4474)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2052764278340583816) | **Published:** May 8, 2026
+
+---
 ### Tesla Robotaxi Filmwerbung
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2069,64 +2131,6 @@ Engel-Krieger in Weiß mit Rüstung und Schwert, der majestätisch auf ein Schla
 **Author:** [Chart_Guy](https://x.com/Chart_Guy) | **Source:** [Link](https://x.com/Chart_Guy/status/2050329761835004005) | **Published:** May 1, 2026
 
 ---
-### Bällebad mit Feen und Eichhörnchen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein verspielter Video-Prompt mit Feen und Eichhörnchen in einem farbenfrohen Bällebad aus Kaugummi und Zuckerwatte.
-
-#### 📝 Prompt
-
-```
-Ein Video von kleinen Feen und Eichhörnchen, die in einem Bällebad aus verschiedenfarbigem Kaugummi und Zuckerwatte spielen, Seifenblasen pusten und in einem Park niedliche Dinge sagen
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3ee8e490948fa9ca87e6a2f4409d43fd/thumbnails/thumbnail.jpg" width="600" alt="Bällebad mit Feen und Eichhörnchen">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4011)**
-
-**Author:** [Emily](https://x.com/EMILYZART) | **Source:** [Link](https://x.com/EMILYZART/status/2050285005872705902) | **Published:** May 1, 2026
-
----
-### Geheimnisvolle viktorianische Frau und schwebende Uhren
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein komplexer filmischer Prompt mit einem viktorianischen Kleid, einem düsteren Herrenhaus und surreal schwebenden Uhren.
-
-#### 📝 Prompt
-
-```
-Zeitlos
-Eine geheimnisvolle Frau in einem fließenden viktorianischen Kleid steht allein im großen Flur eines dunklen, von Kerzen beleuchteten Herrenhauses. Mondlicht fällt durch hohe Fenster, während Dutzende leuchtender Uhren regungslos in der Luft um sie herum schweben, die alle unterschiedliche Zeiten anzeigen....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1e800b2d2c19327c1b8777ffb6475188/thumbnails/thumbnail.jpg" width="600" alt="Geheimnisvolle viktorianische Frau und schwebende Uhren">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4015)**
-
-**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2050259170369130683) | **Published:** May 1, 2026
-
----
-### Cyberpunk-Kimono-Zeichenanimation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein kreativer Prompt für eine Frau in einem auffälligen Cyberpunk-Kimono, die mit einem Stift zeichnet, der leuchtende Spuren hinterlässt.
-
-#### 📝 Prompt
-
-```
-Eine japanische Frau in einem auffälligen Cyberpunk-Kimono zeichnet ein Bild. Die Zeichnung reagiert mit Licht. Zudem blinkt die Zeichnung kybernetisch im Rhythmus der Stiftbewegungen. Nur die mit dem Stift nachgezeichneten Bereiche sind als Strichzeichnungen zu sehen.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2b0422acdc4ccb9fb1ced4c52ae11aff/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk-Kimono-Zeichenanimation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4019)**
-
-**Author:** [トマスのAI画像・動画研究所](https://x.com/thomasainya) | **Source:** [Link](https://x.com/thomasainya/status/2050241289506209963) | **Published:** May 1, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2188,6 +2192,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-09T06:23:24.971Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-09T09:26:10.049Z</sub>
 
 </div>
