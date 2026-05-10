@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1441** |
+| 📝 Total Prompts | **1451** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-10** |
 
@@ -189,23 +189,215 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
-### Humanity New Realities Orbs
+### Futuristic Warrior Mother in Flower Field
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Creates a video featuring a speaker discussing humanity's future while surrounded by mystical glowing orbs.
+> A cinematic prompt for a futuristic warrior mother standing in a spring flower field at golden hour, carrying a child.
 
 #### 📝 Prompt
 
 ```
-She says It is time to consider new realities as humanity. She smiles and small orbs come out around her.
+Cinematic futuristic warrior mother standing peacefully in a vast spring flower field at golden hour, wearing a beige exo-suit with layered matte armor plates, tactical fabric wraps, soft desert-toned sci-fi design, carrying a sleeping child in a cloth sling on her back, holding an advanced futuristic rifle lowered gently at her side, calm protective expression, gentle heroic stance, wind flowing through fabric and flowers, ultra detailed, emotional atmosphere, realistic skin textures, cinematic depth of field, soft sunlight, distant futuristic megastructures and hovering ships on horizon, subtle dust particles in air, grounded sci-fi aesthetic, photorealistic, high detail, movie still composition, balanced warm color grading,  epic yet intimate mood,  volumetric lighting, ultra realistic, 8k.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c1248d34d2c7318f3c8bb6fc722f095/thumbnails/thumbnail.jpg" width="600" alt="Humanity New Realities Orbs">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c603b277d482b3947359337342b82abd/thumbnails/thumbnail.jpg" width="600" alt="Futuristic Warrior Mother in Flower Field">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4526)**
+
+**Author:** [DUST](https://x.com/Dustfinger2077) | **Source:** [Link](https://x.com/Dustfinger2077/status/2053379756540715378) | **Published:** May 10, 2026
+
+---
+### Skydiving Animals in Candy Kingdom
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A whimsical and imaginative prompt for Grok Imagine featuring a bunny and mouse skydiving into a world of sushi and candy.
+
+#### 📝 Prompt
+
+```
+A baby bunny and baby mouse skydiving into a magical kingdom made our of sushi and candy
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/47441ab40503e91f1c9367f8e6cecb9f/thumbnails/thumbnail.jpg" width="600" alt="Skydiving Animals in Candy Kingdom">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4525)**
+
+**Author:** [ĐOGEARMY GENERAL](https://x.com/TheTeslaBull) | **Source:** [Link](https://x.com/TheTeslaBull/status/2053277900179206569) | **Published:** May 10, 2026
+
+---
+### Gelatinous Blob on Airplane
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal cinematic video prompt of a blob character looking out an airplane window.
+
+#### 📝 Prompt
+
+```
+A gelatinous blob character sits on an airplane, gazing out a window in a surreal, cinematic style.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b66df3c8d63b47e37fa65fca46fde94d/thumbnails/thumbnail.jpg" width="600" alt="Gelatinous Blob on Airplane">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4518)**
+
+**Author:** [Angie Ramos Mendez](https://x.com/AngieRamos2030) | **Source:** [Link](https://x.com/AngieRamos2030/status/2053225507626299583) | **Published:** May 9, 2026
+
+---
+### Optimus Prime Police Chase
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A dynamic action video prompt for Grok Imagine featuring a transforming car and a police pursuit.
+
+#### 📝 Prompt
+
+```
+Make the ultimate police cruise roof open. Optimus launches out of the roof on the car being pursued.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3ab7f6acc32fcff3f7011a1b0e2eeb1d/thumbnails/thumbnail.jpg" width="600" alt="Optimus Prime Police Chase">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4521)**
+
+**Author:** [JG Page](https://x.com/jgpage99) | **Source:** [Link](https://x.com/jgpage99/status/2053187982308397374) | **Published:** May 9, 2026
+
+---
+### Cinematic Cyberpunk Samurai with Dragons
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-intensity cinematic prompt for creating a cyberpunk scene featuring a lone samurai on a floating rooftop surrounded by holographic dragons and neon rain.
+
+#### 📝 Prompt
+
+```
+cinematic cyberpunk samurai on a floating rooftop at dramatic dusk, glowing cherry blossoms and floating code particles in the air, massive holographic dragons circling neon megacity skyline, heavy rain reflections on katana and wet concrete, volumetric god rays, ultra detailed, 8k, shot on 70mm IMAX, cinematic chaos --ar 16:9 --stylize 650
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/42859236fd47f27471eeaef00d9d0ad0/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Cyberpunk Samurai with Dragons">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4524)**
+
+**Author:** [Shah](https://x.com/ai_with_shah) | **Source:** [Link](https://x.com/ai_with_shah/status/2053091718786924800) | **Published:** May 9, 2026
+
+---
+### Mecha Rockstar Cinematic
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An epic, highly detailed cinematic prompt featuring a futuristic mecha robot performing with an electric guitar, featuring dynamic camera orbits and sci-fi lighting.
+
+#### 📝 Prompt
+
+```
+A powerful white-and-black futuristic mecha robot stands in a dramatic heroic pose, powerfully holding a massive futuristic electric guitar with both hands like a rockstar weapon. Cinematic Sci-Fi scene, ultra-realistic 8K detail, dramatic rim lighting with subtle red energy glows pulsing along the robot’s armor and the guitar’s strings.
+The robot slowly raises the guitar, strums it with mechanical precision — bright blue and red energy sparks and light trails explode from the strings with every chord. The camera starts with a low-angle full shot, then smoothly orbits around the robot in a dynamic 360-degree cinematic arc while slowly pushing in, revealing intricate mechanical details and glowing red graffiti on its thigh.
+Intense sci-fi atmosphere, volumetric god rays cutting through light dust, subtle lens flares, film grain, anamorphic bokeh. Epic and badass mood, like a music video trailer. Slow-motion on the strumming moments for maximum impact. 6 seconds duration, 24fps, cinematic color grading, hyper-detailed, photorealistic, directed by Denis Villeneuve and Michael Bay.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/924bd9ac6ada9931c401087340b4c343/thumbnails/thumbnail.jpg" width="600" alt="Mecha Rockstar Cinematic">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4522)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2053056718691787073) | **Published:** May 9, 2026
+
+---
+### Blob Sucked Out Airplane
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal cinematic video prompt of a gelatinous blob character breaking an airplane window and being sucked out.
+
+#### 📝 Prompt
+
+```
+A gelatinous blob character sits on an airplane, gazing out a window in a surreal, cinematic style. Suddenly, he gets up, breaks the glass of the plane window and gets sucked out of the plane.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/85223c0c0eb85a9a705a4c63e6fd261b/thumbnails/thumbnail.jpg" width="600" alt="Blob Sucked Out Airplane">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4519)**
+
+**Author:** [Lynn Hocker](https://x.com/Auroraskye3993) | **Source:** [Link](https://x.com/Auroraskye3993/status/2053042397542777162) | **Published:** May 9, 2026
+
+---
+### Cyberpunk Mecha Action Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An epic, high-detail action sequence featuring a colossal mecha in a rainy cyberpunk city, complete with explosions and energy weapons.
+
+#### 📝 Prompt
+
+```
+Cinematic 6-second action scene, epic slow-motion: A colossal beautiful female mecha in shiny pink and vibrant blue armored suit with glowing magenta circuits and long flowing silver hair stands in a rainy cyberpunk city at night. She powerfully stomps forward, her giant foot smashing the street causing a massive fiery explosion, flying debris, sparks and shockwave. She swings a long blazing orange energy sword in her right hand. Heavy rain, dramatic neon reflections on wet ground and armor, flying cars and destruction. Dynamic low-angle tracking camera, intense action, volumetric lighting, cinematic masterpiece, ultra realistic, photorealistic, 8K detail --ar 9:16
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2a1f1cb1ac16722b5d4322c5168beb1e/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Mecha Action Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4517)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2053011628648432032) | **Published:** May 9, 2026
+
+---
+### Loch Ness Monster Grin
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic prompt featuring the Loch Ness monster emerging from the water and turning to reveal a cartoon-style grin as the camera pulls back.
+
+#### 📝 Prompt
+
+```
+Add loch nest sea monster and when he emerges from water camera pulls back  he turns and gives really cartoon style grin
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/258487e695ce1d522993819ebd7edad9/thumbnails/thumbnail.jpg" width="600" alt="Loch Ness Monster Grin">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4523)**
+
+**Author:** [Fred Rose](https://x.com/FredroseRose) | **Source:** [Link](https://x.com/FredroseRose/status/2052992725826318431) | **Published:** May 9, 2026
+
+---
+### New Realities and Floating Orbs
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt featuring a woman speaking about humanity while smiling as magical orbs appear around her.
+
+#### 📝 Prompt
+
+```
+She says it is time to consider new realities as humanity. She smiles and small orbs come out around her. @imagine @grok
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ad0fd9ed829e22de79d77cb19e38ac46/thumbnails/thumbnail.jpg" width="600" alt="New Realities and Floating Orbs">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4476)**
 
 **Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2052938952798060909) | **Published:** May 9, 2026
+
+---
+### Cyberpunk Tactical Woman Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed cinematic prompt for a cyberpunk scene featuring a woman in tactical armor with neon reflections and dynamic camera movement.
+
+#### 📝 Prompt
+
+```
+A stunning photorealistic cyberpunk sci-fi cinematic video, 6 seconds long, 4K, ultra-detailed, shot on ARRI Alexa 65 with anamorphic lenses. A beautiful young woman with short messy silver-white hair stands in the center of a futuristic cyberpunk city street at dusk. She wears sleek, battle-worn white and black tactical power armor with glowing blue and orange accents, a high-tech helmet with a clear visor pushed up, and black gloves. She slowly turns her head toward the camera with a confident, intense gaze, her short hair gently moving in the wind. Subtle rain falls around her, neon reflections shimmer on her wet armor. Holographic advertisements and pink, cyan, and purple neon signs glow in the background. Flying cars streak across the sky, distant skyscrapers with massive digital billboards tower above. Cinematic camera movement: starts with a medium shot from a low heroic angle, slowly orbits around her 180 degrees while gently pushing in, creating a dramatic reveal of her armor and the cyberpunk environment. Moody volumetric lighting, god rays cutting through rain and fog, lens flares, shallow depth of field, film grain, subtle chromatic aberration. Ultra photorealistic, hyper-detailed textures, perfect anatomy, atmospheric cyberpunk mood, Blade Runner 2049 aesthetic, extremely high quality, masterpiece, best quality. Style: Cinematic, photorealistic, cyberpunk, sci-fi, dramatic lighting Duration: 6 seconds Motion: Smooth, cinematic, slow and powerful Camera: Dynamic orbiting shot with slow push-in
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7af1d3aa83a31adf99d288da52f08985/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Tactical Woman Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4520)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2052910794166178135) | **Published:** May 9, 2026
 
 ---
 ### Giant Cat in Miniature Forest
@@ -1939,198 +2131,6 @@ Chaotic first AI generation, messy swirling colors, broken shapes and emotional 
 **Author:** [Maria](https://x.com/NeuroPaletteArt) | **Source:** [Link](https://x.com/NeuroPaletteArt/status/2050495053898862907) | **Published:** May 2, 2026
 
 ---
-### Professional Surfer Aerial Drone Shot
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A comprehensive, high-quality cinematic prompt for a surfing video with complex camera transitions and lighting.
-
-#### 📝 Prompt
-
-```
-A professional surfer drops into a towering wave at sunset, body low and perfectly balanced on the board, opening on a wide aerial drone shot revealing the massive scale of the wave curling like a moving mountain, then the camera dives behind the surfer into a tight FPV tracking shot as he carves down the face, water spraying violently into the lens, transitioning into a dramatic barrel shot from inside the wave with sunlight refracting through the translucent water walls, followed by a rotating as he performs a sharp cutback, ending in slow motion as the wave crashes, mist, and golden light, ultra-realistic water physics, cinematic and adrenaline-filled atmosphere.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5d7dbb899c73b11ad757c58e5ad6ce7e/thumbnails/thumbnail.jpg" width="600" alt="Professional Surfer Aerial Drone Shot">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4078)**
-
-**Author:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Source:** [Link](https://x.com/CharaspowerAI/status/2050493027223777569) | **Published:** May 2, 2026
-
----
-### Lunar Realm Portal Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A sci-fi surrealist prompt where people living on the moon discover a portal leading to a realm filled with galaxies.
-
-#### 📝 Prompt
-
-```
-People living on the moon… behind them is a secret set of doors. When they open them, they step into a whole new realm full of planets and galaxies ✨
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/59524f26658d87bec7dae63bbd1c94b1/thumbnails/thumbnail.jpg" width="600" alt="Lunar Realm Portal Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4072)**
-
-**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2050460104634343673) | **Published:** May 2, 2026
-
----
-### Surreal Floating City Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A surreal prompt for a video featuring a woman floating above a glowing city with mysterious silver hands and drifting bubbles.
-
-#### 📝 Prompt
-
-```
-She floats gracefully above the glowing city, long hair flowing in the wind. A mysterious silver hand reaches out to touch her as bubbles drift upward like dreams ✨
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ea209fe2ca89f8b0837d2b73b1bbfed5/thumbnails/thumbnail.jpg" width="600" alt="Surreal Floating City Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4069)**
-
-**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2050455908510060584) | **Published:** May 2, 2026
-
----
-### Cinematic Dinosaur in Ashy Clouds
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed cinematic prompt for a static shot of a dinosaur submerged in dark, rolling ashy clouds.
-
-#### 📝 Prompt
-
-```
-A high-end static shot. A dinosaur is seen from a back view, partially submerged in a thick, rolling sea of dark, ashy clouds. The environment remains completely unchanged: the vast, desaturated grey-blue sky, the dense layers of heavy cumulus clouds...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/134d1008954e9de23aca3db2fcc5e230/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Dinosaur in Ashy Clouds">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4076)**
-
-**Author:** [ozin.owl](https://x.com/ozinowl) | **Source:** [Link](https://x.com/ozinowl/status/2050414725955977389) | **Published:** May 2, 2026
-
----
-### Surreal Tavern Puzzle Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A dreamlike video prompt where a cozy tavern environment deconstructs into puzzle pieces leading to an enchanted forest.
-
-#### 📝 Prompt
-
-```
-You’re sitting in a cozy tavern by the fire when the whole world starts FALLING APART into puzzle pieces…
-
-They swirl down from the ceiling, lock together, and suddenly the floor cracks open — the tavern door swings wide into a glowing enchanted forest path that stretches forever into the stars 🔥
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0ed8d7cb62e6af8f1d8b5bad2dd2d436/thumbnails/thumbnail.jpg" width="600" alt="Surreal Tavern Puzzle Transformation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4081)**
-
-**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2050391575629279346) | **Published:** May 2, 2026
-
----
-### Magical Book Drawing Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A complex 8K cinematic video prompt that animates a hand-drawn ink illustration into a 3D creature upon being touched by a finger.
-
-#### 📝 Prompt
-
-```
-An ultra-photorealistic, 8K cinematic macro video, showcasing a magical creation from a single touch. The scene opens on an aged worn page of an old book, lit warmly and intimately as if inside a cozy study. In the middle of the page, a delicate hand-drawn ink drawing of {your object}. A human finger gently enters the frame and touches the middle of the drawing. At the point of contact, a brilliant surge of bright neon pink-purple light sparks bursts outward, and the {your object} ink lines begin to ripple and distort as if alive. {your object} starts to twitch, move, and slowly rise off the page in a seamless 2D-to-3D transformation. Ink strokes stretch and thicken into muscular forms, and its eyes ignite with a fiery blue glow. The transformation feels dramatic and awe-inspiring, as if {your object} is tearing itself free from the flat page into reality.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9fbb2948633492992f20914add5dd1de/thumbnails/thumbnail.jpg" width="600" alt="Magical Book Drawing Transformation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4071)**
-
-**Author:** [Zyrella](https://x.com/Zyrellix) | **Source:** [Link](https://x.com/Zyrellix/status/2050388225924239449) | **Published:** May 2, 2026
-
----
-### Sheep Gathering at Sunrise Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed Grok Imagine prompt for a scenic video of sheep, a sheepdog, and predators in a natural landscape at sunrise.
-
-#### 📝 Prompt
-
-```
-A flock of sheep gathers at sunrise, with a sheepdog and distant predators in a natural landscape.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e45eea2ab448729239f1aa539817fb26/thumbnails/thumbnail.jpg" width="600" alt="Sheep Gathering at Sunrise Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4086)**
-
-**Author:** [Shepherd of Truth](https://x.com/truthXXshepherd) | **Source:** [Link](https://x.com/truthXXshepherd/status/2050378146772578601) | **Published:** May 2, 2026
-
----
-### Steampunk Eye Zoom Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed video prompt involving a steampunk woman with eyes full of flames and a camera zoom effect.
-
-#### 📝 Prompt
-
-```
-Steampunk beautiful white woman, in apocalyptic context, camera zooms in on her eyes full of flames. She blinks and her eyes turn white.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6f4a388861aa06f1b27b1d2d4cebdae1/thumbnails/thumbnail.jpg" width="600" alt="Steampunk Eye Zoom Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4010)**
-
-**Author:** [dadiiogames](https://x.com/dadiiogames) | **Source:** [Link](https://x.com/dadiiogames/status/2050360623297630265) | **Published:** May 1, 2026
-
----
-### Galaxy Explorers Glowing Key
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt of two explorers opening a celestial door with a glowing key as the galaxy waits above.
-
-#### 📝 Prompt
-
-```
-Two explorers. One glowing key. A door that should never have opened. See-through stairs rose from the floor… planets drifted past… and the entire galaxy waited above them. They went up. Would you have followed?”
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4491a0b1291e3a7831e1fe6ceccfac83/thumbnails/thumbnail.jpg" width="600" alt="Galaxy Explorers Glowing Key">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4016)**
-
-**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2050354884914934237) | **Published:** May 1, 2026
-
----
-### Angel Warrior Descent
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An epic video prompt depicting an angel warrior in white armor descending onto a battlefield.
-
-#### 📝 Prompt
-
-```
-Angel warrior in white with armor and sword descending onto a battlefield to support his army majestically arriving
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6cd11c6dbb374d523353c96032a76c89/thumbnails/thumbnail.jpg" width="600" alt="Angel Warrior Descent">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4008)**
-
-**Author:** [Chart_Guy](https://x.com/Chart_Guy) | **Source:** [Link](https://x.com/Chart_Guy/status/2050329761835004005) | **Published:** May 1, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2192,6 +2192,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-10T06:39:32.497Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-10T09:43:52.840Z</sub>
 
 </div>

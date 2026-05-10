@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1441** |
+| 📝 Total Prompts | **1451** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-10** |
 
@@ -189,6 +189,179 @@ Uma valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Mãe guerreira futurista em um campo de flores
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt cinematográfico de uma mãe guerreira futurista em um campo de flores na primavera durante a hora dourada, carregando uma criança.
+
+#### 📝 Prompt
+
+```
+Mãe guerreira futurista cinematográfica em pé pacificamente em um vasto campo de flores na primavera durante a hora dourada, vestindo um exoesqueleto bege com placas de armadura foscas em camadas, faixas de tecido tático, design de ficção científica em tons suaves de deserto, carregando uma criança dormindo em um sling de pano nas costas, segurando um rifle futurista avançado abaixado suavemente ao lado do corpo, expressão calma e protetora, postura heroica e gentil, vento soprando através do tecido e das flores, ultra detalhado, atmosfera emocional, texturas de pele realistas, profundidade de campo cinematográfica, luz solar suave, megastruturas futuristas distantes e naves pairando no horizonte, partículas sutis de poeira no ar, estética de ficção científica realista, fotorrealista, alto detalhe, composição de cena de filme, gradação de cores quentes equilibrada, clima épico e íntimo, iluminação volumétrica, ultrarrealista, 8k.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c603b277d482b3947359337342b82abd/thumbnails/thumbnail.jpg" width="600" alt="Mãe guerreira futurista em um campo de flores">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4526)**
+
+**Author:** [DUST](https://x.com/Dustfinger2077) | **Source:** [Link](https://x.com/Dustfinger2077/status/2053379756540715378) | **Published:** May 10, 2026
+
+---
+### Animais saltando de paraquedas no Reino dos Doces
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt criativo e fantasioso para o Grok Imagine, apresentando um coelhinho e um ratinho saltando de paraquedas em um mundo de sushi e doces.
+
+#### 📝 Prompt
+
+```
+Um coelhinho e um ratinho saltando de paraquedas em um reino mágico feito de sushi e doces
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/47441ab40503e91f1c9367f8e6cecb9f/thumbnails/thumbnail.jpg" width="600" alt="Animais saltando de paraquedas no Reino dos Doces">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4525)**
+
+**Author:** [ĐOGEARMY GENERAL](https://x.com/TheTeslaBull) | **Source:** [Link](https://x.com/TheTeslaBull/status/2053277900179206569) | **Published:** May 10, 2026
+
+---
+### Bolha gelatinosa em um avião
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico surreal de um personagem em forma de bolha olhando pela janela de um avião.
+
+#### 📝 Prompt
+
+```
+Um personagem em forma de bolha gelatinosa está sentado em um avião, observando pela janela em um estilo cinematográfico e surreal.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b66df3c8d63b47e37fa65fca46fde94d/thumbnails/thumbnail.jpg" width="600" alt="Bolha gelatinosa em um avião">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4518)**
+
+**Author:** [Angie Ramos Mendez](https://x.com/AngieRamos2030) | **Source:** [Link](https://x.com/AngieRamos2030/status/2053225507626299583) | **Published:** May 9, 2026
+
+---
+### Perseguição Policial do Optimus Prime
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo de ação dinâmica para o Grok Imagine, apresentando um carro que se transforma e uma perseguição policial.
+
+#### 📝 Prompt
+
+```
+Faça o carro de patrulha policial definitivo com o teto aberto. Optimus salta para fora do teto do carro que está sendo perseguido.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3ab7f6acc32fcff3f7011a1b0e2eeb1d/thumbnails/thumbnail.jpg" width="600" alt="Perseguição Policial do Optimus Prime">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4521)**
+
+**Author:** [JG Page](https://x.com/jgpage99) | **Source:** [Link](https://x.com/jgpage99/status/2053187982308397374) | **Published:** May 9, 2026
+
+---
+### Samurai Cyberpunk Cinematográfico com Dragões
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt cinematográfico de alta intensidade para criar uma cena cyberpunk apresentando um samurai solitário em um telhado flutuante, cercado por dragões holográficos e chuva neon.
+
+#### 📝 Prompt
+
+```
+samurai cyberpunk cinematográfico em um telhado flutuante ao anoitecer dramático, flores de cerejeira brilhantes e partículas de código flutuando no ar, dragões holográficos massivos circulando o horizonte de uma megacidade neon, reflexos de chuva pesada na katana e no concreto molhado, raios de luz volumétricos, ultra detalhado, 8k, filmado em IMAX 70mm, caos cinematográfico --ar 16:9 --stylize 650
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/42859236fd47f27471eeaef00d9d0ad0/thumbnails/thumbnail.jpg" width="600" alt="Samurai Cyberpunk Cinematográfico com Dragões">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4524)**
+
+**Author:** [Shah](https://x.com/ai_with_shah) | **Source:** [Link](https://x.com/ai_with_shah/status/2053091718786924800) | **Published:** May 9, 2026
+
+---
+### Mecha Rockstar Cinematográfico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt cinematográfico épico e altamente detalhado apresentando um robô mecha futurista tocando com uma guitarra elétrica, com órbitas de câmera dinâmicas e iluminação sci-fi.
+
+#### 📝 Prompt
+
+```
+Um poderoso robô mecha futurista em branco e preto permanece em uma pose heroica dramática, segurando com força uma enorme guitarra elétrica futurista com ambas as mãos como se fosse uma arma de rockstar. Cena de ficção científica cinematográfica, detalhes ultra-realistas em 8K, iluminação de contorno dramática com brilhos de energia vermelha sutis pulsando ao longo da armadura do robô e das cordas da guitarra.
+O robô levanta a guitarra lentamente e a dedilha com precisão mecânica — faíscas de energia azul e vermelha e rastros de luz explodem das cordas a cada acorde. A câmera começa com um plano geral de ângulo baixo, depois orbita suavemente ao redor do robô em um arco cinematográfico dinâmico de 360 graus enquanto se aproxima lentamente, revelando detalhes mecânicos intrincados e grafites vermelhos brilhantes em sua coxa.
+Atmosfera intensa de ficção científica, raios de luz volumétricos cortando a poeira, reflexos de lente sutis, granulação de filme, bokeh anamórfico. Clima épico e impactante, como um trailer de videoclipe. Câmera lenta nos momentos das dedilhadas para impacto máximo. 6 segundos de duração, 24fps, color grading cinematográfico, hiperdetalhado, fotorrealista, dirigido por Denis Villeneuve e Michael Bay.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/924bd9ac6ada9931c401087340b4c343/thumbnails/thumbnail.jpg" width="600" alt="Mecha Rockstar Cinematográfico">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4522)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2053056718691787073) | **Published:** May 9, 2026
+
+---
+### Blob sugado para fora de um avião
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico surreal de um personagem de geleia gelatinosa quebrando a janela de um avião e sendo sugado para fora.
+
+#### 📝 Prompt
+
+```
+Um personagem de geleia gelatinosa está sentado em um avião, olhando pela janela em um estilo cinematográfico e surreal. De repente, ele se levanta, quebra o vidro da janela do avião e é sugado para fora da aeronave.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/85223c0c0eb85a9a705a4c63e6fd261b/thumbnails/thumbnail.jpg" width="600" alt="Blob sugado para fora de um avião">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4519)**
+
+**Author:** [Lynn Hocker](https://x.com/Auroraskye3993) | **Source:** [Link](https://x.com/Auroraskye3993/status/2053042397542777162) | **Published:** May 9, 2026
+
+---
+### Cena de Ação Mecha Cyberpunk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Uma sequência de ação épica e altamente detalhada apresentando um mecha colossal em uma cidade cyberpunk chuvosa, completa com explosões e armas de energia.
+
+#### 📝 Prompt
+
+```
+Cena de ação cinematográfica de 6 segundos, câmera lenta épica: Um mecha feminino colossal e belo, com traje blindado rosa brilhante e azul vibrante, circuitos magenta brilhantes e longos cabelos prateados esvoaçantes, está em uma cidade cyberpunk chuvosa à noite. Ela pisa para frente com força, seu pé gigante esmaga a rua causando uma enorme explosão de fogo, detritos voadores, faíscas e uma onda de choque. Ela balança uma longa espada de energia laranja flamejante em sua mão direita. Chuva forte, reflexos de neon dramáticos no chão molhado e na armadura, carros voadores e destruição. Câmera de rastreamento dinâmica em ângulo baixo, ação intensa, iluminação volumétrica, obra-prima cinematográfica, ultrarrealista, fotorrealista, detalhes em 8K --ar 9:16
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2a1f1cb1ac16722b5d4322c5168beb1e/thumbnails/thumbnail.jpg" width="600" alt="Cena de Ação Mecha Cyberpunk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4517)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2053011628648432032) | **Published:** May 9, 2026
+
+---
+### Sorriso do Monstro do Lago Ness
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt cinematográfico apresentando o monstro do Lago Ness emergindo da água e virando-se para revelar um sorriso estilo desenho animado enquanto a câmera se afasta.
+
+#### 📝 Prompt
+
+```
+Adicione o monstro marinho do Lago Ness e, quando ele emergir da água, a câmera se afasta, ele se vira e dá um sorriso bem estilo desenho animado
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/258487e695ce1d522993819ebd7edad9/thumbnails/thumbnail.jpg" width="600" alt="Sorriso do Monstro do Lago Ness">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4523)**
+
+**Author:** [Fred Rose](https://x.com/FredroseRose) | **Source:** [Link](https://x.com/FredroseRose/status/2052992725826318431) | **Published:** May 9, 2026
+
+---
 ### Humanity New Realities Orbs
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -201,11 +374,30 @@ Uma valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 Ela diz que é hora de considerar novas realidades como humanidade. Ela sorri e pequenos orbes surgem ao seu redor.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c1248d34d2c7318f3c8bb6fc722f095/thumbnails/thumbnail.jpg" width="600" alt="Humanity New Realities Orbs">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ad0fd9ed829e22de79d77cb19e38ac46/thumbnails/thumbnail.jpg" width="600" alt="Humanity New Realities Orbs">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4476)**
 
 **Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2052938952798060909) | **Published:** May 9, 2026
+
+---
+### Animação de Mulher Tática Cyberpunk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt cinematográfico altamente detalhado para uma cena cyberpunk apresentando uma mulher com armadura tática, reflexos neon e movimento de câmera dinâmico.
+
+#### 📝 Prompt
+
+```
+Um vídeo cinematográfico de ficção científica cyberpunk fotorrealista impressionante, com 6 segundos de duração, 4K, ultra detalhado, filmado com ARRI Alexa 65 e lentes anamórficas. Uma bela jovem com cabelo curto e bagunçado branco-prateado está no centro de uma rua futurista de uma cidade cyberpunk ao anoitecer. Ela veste uma armadura tática elegante e desgastada pelo combate nas cores branca e preta, com detalhes brilhantes em azul e laranja, um capacete de alta tecnologia com a viseira transparente levantada e luvas pretas. Ela vira lentamente a cabeça em direção à câmera com um olhar confiante e intenso, seu cabelo curto movendo-se suavemente ao vento. Uma chuva fina cai ao seu redor, reflexos neon cintilam em sua armadura molhada. Anúncios holográficos e letreiros neon em rosa, ciano e roxo brilham ao fundo. Carros voadores cruzam o céu, arranha-céus distantes com enormes outdoors digitais elevam-se acima. Movimento de câmera cinematográfico: começa com um plano médio em um ângulo heroico baixo, orbita lentamente 180 graus ao redor dela enquanto se aproxima suavemente, criando uma revelação dramática de sua armadura e do ambiente cyberpunk. Iluminação volumétrica temperamental, raios de luz atravessando a chuva e o nevoeiro, reflexos de lente (lens flares), profundidade de campo rasa, granulação de filme, aberração cromática sutil. Ultra fotorrealista, texturas hiperdetalhadas, anatomia perfeita, atmosfera cyberpunk, estética de Blade Runner 2049, qualidade extremamente alta, obra-prima, melhor qualidade. Estilo: Cinematográfico, fotorrealista, cyberpunk, ficção científica, iluminação dramática. Duração: 6 segundos. Movimento: Suave, cinematográfico, lento e poderoso. Câmera: Movimento orbital dinâmico com aproximação lenta.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7af1d3aa83a31adf99d288da52f08985/thumbnails/thumbnail.jpg" width="600" alt="Animação de Mulher Tática Cyberpunk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4520)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2052910794166178135) | **Published:** May 9, 2026
 
 ---
 ### Gato Gigante em Floresta em Miniatura
@@ -1939,198 +2131,6 @@ Primeira geração de IA caótica, cores rodopiantes e bagunçadas, formas quebr
 **Author:** [Maria](https://x.com/NeuroPaletteArt) | **Source:** [Link](https://x.com/NeuroPaletteArt/status/2050495053898862907) | **Published:** May 2, 2026
 
 ---
-### Drone shot aéreo de surfista profissional
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt cinematográfico abrangente e de alta qualidade para um vídeo de surfe com transições de câmera complexas e iluminação.
-
-#### 📝 Prompt
-
-```
-Um surfista profissional desce uma onda imponente ao pôr do sol, com o corpo baixo e perfeitamente equilibrado na prancha, começando com um plano aéreo amplo de drone que revela a escala massiva da onda curvando-se como uma montanha em movimento, então a câmera mergulha atrás do surfista em um plano de rastreamento FPV fechado enquanto ele corta a face da onda, com a água espirrando violentamente na lente, transicionando para um plano dramático de dentro do tubo com a luz do sol refratando através das paredes de água translúcidas, seguido por uma rotação enquanto ele realiza um cutback acentuado, terminando em câmera lenta conforme a onda quebra, névoa e luz dourada, física da água ultrarrealista, atmosfera cinematográfica e cheia de adrenalina.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5d7dbb899c73b11ad757c58e5ad6ce7e/thumbnails/thumbnail.jpg" width="600" alt="Drone shot aéreo de surfista profissional">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4078)**
-
-**Author:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Source:** [Link](https://x.com/CharaspowerAI/status/2050493027223777569) | **Published:** May 2, 2026
-
----
-### Animação do Portal do Reino Lunar
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt surrealista de ficção científica onde pessoas que vivem na lua descobrem um portal que leva a um reino repleto de galáxias.
-
-#### 📝 Prompt
-
-```
-Pessoas vivendo na lua... atrás delas há um conjunto secreto de portas. Quando as abrem, elas entram em um reino totalmente novo, cheio de planetas e galáxias ✨
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/59524f26658d87bec7dae63bbd1c94b1/thumbnails/thumbnail.jpg" width="600" alt="Animação do Portal do Reino Lunar">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4072)**
-
-**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2050460104634343673) | **Published:** May 2, 2026
-
----
-### Animação de Cidade Flutuante Surreal
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt surreal para um vídeo apresentando uma mulher flutuando acima de uma cidade brilhante com mãos prateadas misteriosas e bolhas à deriva.
-
-#### 📝 Prompt
-
-```
-Ela flutua graciosamente acima da cidade brilhante, com seus longos cabelos ao vento. Uma mão prateada misteriosa se estende para tocá-la enquanto bolhas flutuam para cima como sonhos ✨
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ea209fe2ca89f8b0837d2b73b1bbfed5/thumbnails/thumbnail.jpg" width="600" alt="Animação de Cidade Flutuante Surreal">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4069)**
-
-**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2050455908510060584) | **Published:** May 2, 2026
-
----
-### Dinossauro cinematográfico em nuvens de cinzas
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt cinematográfico altamente detalhado para uma cena estática de um dinossauro submerso em nuvens escuras e densas de cinzas.
-
-#### 📝 Prompt
-
-```
-Uma cena estática de alta qualidade. Um dinossauro é visto de costas, parcialmente submerso em um mar espesso e ondulante de nuvens escuras e cinzentas. O ambiente permanece completamente inalterado: o vasto céu cinza-azulado dessaturado, as camadas densas de nuvens cúmulos pesadas...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/134d1008954e9de23aca3db2fcc5e230/thumbnails/thumbnail.jpg" width="600" alt="Dinossauro cinematográfico em nuvens de cinzas">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4076)**
-
-**Author:** [ozin.owl](https://x.com/ozinowl) | **Source:** [Link](https://x.com/ozinowl/status/2050414725955977389) | **Published:** May 2, 2026
-
----
-### Transformação Surreal de Taverna em Quebra-cabeça
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo onírico onde um ambiente aconchegante de taverna se desconstrói em peças de quebra-cabeça, revelando uma floresta encantada.
-
-#### 📝 Prompt
-
-```
-Você está sentado em uma taverna aconchegante perto da lareira quando o mundo inteiro começa a DESMORONAR em peças de quebra-cabeça…
-
-Elas giram descendo do teto, encaixam-se, e de repente o chão se abre — a porta da taverna se escancara para um caminho de floresta encantada e brilhante que se estende infinitamente em direção às estrelas 🔥
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0ed8d7cb62e6af8f1d8b5bad2dd2d436/thumbnails/thumbnail.jpg" width="600" alt="Transformação Surreal de Taverna em Quebra-cabeça">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4081)**
-
-**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2050391575629279346) | **Published:** May 2, 2026
-
----
-### Transformação Mágica de Desenho em Livro
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cinematográfico 8K complexo que anima uma ilustração à mão em tinta, transformando-a em uma criatura 3D ao ser tocada por um dedo.
-
-#### 📝 Prompt
-
-```
-Um vídeo macro cinematográfico 8K ultra-fotorrealista, exibindo uma criação mágica a partir de um único toque. A cena abre em uma página gasta de um livro antigo, iluminada de forma quente e íntima, como se estivesse dentro de um escritório aconchegante. No meio da página, um delicado desenho à mão em tinta de {your object}. Um dedo humano entra suavemente no quadro e toca o centro do desenho. No ponto de contato, uma onda brilhante de luz neon rosa-púrpura explode para fora, e as linhas de tinta de {your object} começam a ondular e se distorcer como se estivessem vivas. {your object} começa a se contrair, mover-se e subir lentamente da página em uma transformação 2D para 3D contínua. Os traços de tinta se esticam e engrossam em formas musculares, e seus olhos se acendem com um brilho azul intenso. A transformação parece dramática e impressionante, como se {your object} estivesse se libertando da página plana para a realidade.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9fbb2948633492992f20914add5dd1de/thumbnails/thumbnail.jpg" width="600" alt="Transformação Mágica de Desenho em Livro">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4071)**
-
-**Author:** [Zyrella](https://x.com/Zyrellix) | **Source:** [Link](https://x.com/Zyrellix/status/2050388225924239449) | **Published:** May 2, 2026
-
----
-### Vídeo de Ovelhas Reunidas ao Nascer do Sol
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado do Grok Imagine para um vídeo cênico de ovelhas, um cão pastor e predadores em uma paisagem natural ao nascer do sol.
-
-#### 📝 Prompt
-
-```
-Um rebanho de ovelhas se reúne ao nascer do sol, com um cão pastor e predadores distantes em uma paisagem natural.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e45eea2ab448729239f1aa539817fb26/thumbnails/thumbnail.jpg" width="600" alt="Vídeo de Ovelhas Reunidas ao Nascer do Sol">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4086)**
-
-**Author:** [Shepherd of Truth](https://x.com/truthXXshepherd) | **Source:** [Link](https://x.com/truthXXshepherd/status/2050378146772578601) | **Published:** May 2, 2026
-
----
-### Animação de Zoom no Olho Steampunk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo detalhado envolvendo uma mulher steampunk com olhos cheios de chamas e um efeito de zoom de câmera.
-
-#### 📝 Prompt
-
-```
-Bela mulher branca steampunk, em um contexto apocalíptico, a câmera dá zoom em seus olhos cheios de chamas. Ela pisca e seus olhos ficam brancos.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6f4a388861aa06f1b27b1d2d4cebdae1/thumbnails/thumbnail.jpg" width="600" alt="Animação de Zoom no Olho Steampunk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4010)**
-
-**Author:** [dadiiogames](https://x.com/dadiiogames) | **Source:** [Link](https://x.com/dadiiogames/status/2050360623297630265) | **Published:** May 1, 2026
-
----
-### Chave Brilhante dos Exploradores da Galáxia
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cinematográfico de dois exploradores abrindo uma porta celestial com uma chave brilhante enquanto a galáxia aguarda acima.
-
-#### 📝 Prompt
-
-```
-Dois exploradores. Uma chave brilhante. Uma porta que nunca deveria ter sido aberta. Escadas transparentes surgiram do chão… planetas flutuavam… e a galáxia inteira esperava por eles lá no alto. Eles subiram. Você teria os seguido?
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4491a0b1291e3a7831e1fe6ceccfac83/thumbnails/thumbnail.jpg" width="600" alt="Chave Brilhante dos Exploradores da Galáxia">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4016)**
-
-**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2050354884914934237) | **Published:** May 1, 2026
-
----
-### A Descida do Guerreiro Anjo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo épico que retrata um guerreiro anjo com armadura branca descendo em um campo de batalha.
-
-#### 📝 Prompt
-
-```
-Guerreiro anjo de branco com armadura e espada descendo em um campo de batalha para apoiar seu exército, chegando de forma majestosa
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6cd11c6dbb374d523353c96032a76c89/thumbnails/thumbnail.jpg" width="600" alt="A Descida do Guerreiro Anjo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4008)**
-
-**Author:** [Chart_Guy](https://x.com/Chart_Guy) | **Source:** [Link](https://x.com/Chart_Guy/status/2050329761835004005) | **Published:** May 1, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2192,6 +2192,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-10T06:39:47.834Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-10T09:44:13.393Z</sub>
 
 </div>

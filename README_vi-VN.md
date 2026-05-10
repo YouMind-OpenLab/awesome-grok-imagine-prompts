@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1441** |
+| 📝 Total Prompts | **1451** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-10** |
 
@@ -189,6 +189,179 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Nữ chiến binh tương lai và con trong cánh đồng hoa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) đậm chất điện ảnh về một nữ chiến binh tương lai đang đứng giữa cánh đồng hoa mùa xuân vào giờ vàng, trên lưng địu một đứa trẻ.
+
+#### 📝 Prompt
+
+```
+Hình ảnh điện ảnh về nữ chiến binh tương lai đang đứng bình yên giữa cánh đồng hoa mùa xuân bao la vào giờ vàng, mặc bộ exo-suit màu be với các lớp giáp nhám, vải bọc chiến thuật, thiết kế khoa học viễn tưởng tông màu sa mạc nhẹ nhàng, địu một đứa trẻ đang ngủ trong chiếc khăn vải trên lưng, tay cầm khẩu súng trường tương lai tiên tiến hạ thấp nhẹ nhàng bên hông, biểu cảm bảo vệ điềm tĩnh, tư thế anh hùng dịu dàng, gió thổi qua lớp vải và những bông hoa, siêu chi tiết, bầu không khí giàu cảm xúc, kết cấu da chân thực, độ sâu trường ảnh điện ảnh, ánh sáng mặt trời dịu nhẹ, các siêu cấu trúc tương lai và tàu bay ở phía xa chân trời, những hạt bụi li ti trong không trung, thẩm mỹ khoa học viễn tưởng thực tế, chân thực như ảnh chụp, độ chi tiết cao, bố cục ảnh tĩnh phim, phân loại màu ấm cân bằng, tâm trạng vừa hùng tráng vừa gần gũi, ánh sáng thể tích, siêu thực, 8k.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c603b277d482b3947359337342b82abd/thumbnails/thumbnail.jpg" width="600" alt="Nữ chiến binh tương lai và con trong cánh đồng hoa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4526)**
+
+**Author:** [DUST](https://x.com/Dustfinger2077) | **Source:** [Link](https://x.com/Dustfinger2077/status/2053379756540715378) | **Published:** May 10, 2026
+
+---
+### Các loài vật nhảy dù tại Vương quốc Kẹo ngọt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh đầy sáng tạo và bay bổng dành cho Grok Imagine, mô tả cảnh một chú thỏ và một chú chuột đang nhảy dù xuống một thế giới làm từ sushi và kẹo.
+
+#### 📝 Prompt
+
+```
+Một chú thỏ con và một chú chuột con đang nhảy dù xuống một vương quốc kỳ diệu được làm từ sushi và kẹo
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/47441ab40503e91f1c9367f8e6cecb9f/thumbnails/thumbnail.jpg" width="600" alt="Các loài vật nhảy dù tại Vương quốc Kẹo ngọt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4525)**
+
+**Author:** [ĐOGEARMY GENERAL](https://x.com/TheTeslaBull) | **Source:** [Link](https://x.com/TheTeslaBull/status/2053277900179206569) | **Published:** May 10, 2026
+
+---
+### Khối thạch trên máy bay
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video điện ảnh siêu thực về một nhân vật dạng khối đang nhìn ra ngoài cửa sổ máy bay.
+
+#### 📝 Prompt
+
+```
+Một nhân vật dạng khối thạch ngồi trên máy bay, đang nhìn ra ngoài cửa sổ theo phong cách điện ảnh siêu thực.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b66df3c8d63b47e37fa65fca46fde94d/thumbnails/thumbnail.jpg" width="600" alt="Khối thạch trên máy bay">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4518)**
+
+**Author:** [Angie Ramos Mendez](https://x.com/AngieRamos2030) | **Source:** [Link](https://x.com/AngieRamos2030/status/2053225507626299583) | **Published:** May 9, 2026
+
+---
+### Cuộc rượt đuổi của cảnh sát Optimus Prime
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt hành động đầy năng động cho Grok Imagine, mô tả cảnh một chiếc xe biến hình và cuộc rượt đuổi của cảnh sát.
+
+#### 📝 Prompt
+
+```
+Tạo cảnh một chiếc xe cảnh sát tối tân với phần mui mở. Optimus phóng ra từ mui xe đang bị truy đuổi.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3ab7f6acc32fcff3f7011a1b0e2eeb1d/thumbnails/thumbnail.jpg" width="600" alt="Cuộc rượt đuổi của cảnh sát Optimus Prime">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4521)**
+
+**Author:** [JG Page](https://x.com/jgpage99) | **Source:** [Link](https://x.com/jgpage99/status/2053187982308397374) | **Published:** May 9, 2026
+
+---
+### Samurai Cyberpunk Điện ảnh cùng Rồng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) điện ảnh cường độ cao để tạo ra khung cảnh cyberpunk với một samurai đơn độc trên sân thượng lơ lửng, bao quanh bởi những con rồng ba chiều và cơn mưa neon.
+
+#### 📝 Prompt
+
+```
+samurai cyberpunk điện ảnh trên sân thượng lơ lửng vào lúc hoàng hôn đầy kịch tính, hoa anh đào phát sáng và các hạt mã (code) trôi nổi trong không trung, những con rồng ba chiều khổng lồ bay lượn quanh đường chân trời của siêu đô thị neon, mưa nặng hạt phản chiếu trên thanh katana và nền bê tông ướt, hiệu ứng ánh sáng volumetric, siêu chi tiết, 8k, quay bằng máy 70mm IMAX, sự hỗn loạn điện ảnh --ar 16:9 --stylize 650
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/42859236fd47f27471eeaef00d9d0ad0/thumbnails/thumbnail.jpg" width="600" alt="Samurai Cyberpunk Điện ảnh cùng Rồng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4524)**
+
+**Author:** [Shah](https://x.com/ai_with_shah) | **Source:** [Link](https://x.com/ai_with_shah/status/2053091718786924800) | **Published:** May 9, 2026
+
+---
+### Mecha Rockstar Cinematic
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) điện ảnh hoành tráng, cực kỳ chi tiết về một robot mecha tương lai đang biểu diễn với đàn guitar điện, kết hợp các góc quay chuyển động linh hoạt và ánh sáng phong cách khoa học viễn tưởng.
+
+#### 📝 Prompt
+
+```
+Một robot mecha tương lai màu trắng đen đầy uy lực đang đứng trong tư thế anh hùng đầy kịch tính, đôi tay nắm chặt cây đàn guitar điện tương lai khổng lồ như một vũ khí của ngôi sao nhạc rock. Bối cảnh khoa học viễn tưởng điện ảnh, chi tiết 8K siêu thực, ánh sáng viền kịch tính với những vệt sáng năng lượng đỏ tinh tế chạy dọc theo lớp giáp của robot và dây đàn.
+Robot từ từ nâng cây đàn lên, gảy đàn với độ chính xác cơ khí — những tia lửa năng lượng màu xanh và đỏ cùng các vệt sáng bùng nổ từ dây đàn theo từng hợp âm. Máy quay bắt đầu với góc thấp toàn cảnh, sau đó xoay mượt mà quanh robot theo một vòng cung điện ảnh 360 độ đầy năng động, đồng thời từ từ tiến lại gần, làm lộ rõ các chi tiết cơ khí phức tạp và những hình vẽ graffiti màu đỏ phát sáng trên đùi robot.
+Không khí khoa học viễn tưởng mãnh liệt, các tia sáng volumetric xuyên qua lớp bụi mờ, hiệu ứng lóe sáng ống kính (lens flare) tinh tế, hạt phim, bokeh anamorphic. Tâm trạng hoành tráng và cực chất, giống như một đoạn trailer video âm nhạc. Hiệu ứng quay chậm (slow-motion) ở những khoảnh khắc gảy đàn để tạo tác động tối đa. Thời lượng 6 giây, 24fps, chỉnh màu điện ảnh, siêu chi tiết, chân thực như ảnh chụp, được đạo diễn bởi Denis Villeneuve và Michael Bay.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/924bd9ac6ada9931c401087340b4c343/thumbnails/thumbnail.jpg" width="600" alt="Mecha Rockstar Cinematic">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4522)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2053056718691787073) | **Published:** May 9, 2026
+
+---
+### Khối thạch bị hút ra khỏi máy bay
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video điện ảnh siêu thực về một nhân vật dạng khối thạch làm vỡ cửa sổ máy bay và bị hút ra ngoài.
+
+#### 📝 Prompt
+
+```
+Một nhân vật dạng khối thạch đang ngồi trên máy bay, nhìn ra ngoài cửa sổ theo phong cách điện ảnh siêu thực. Đột nhiên, nó đứng dậy, làm vỡ kính cửa sổ máy bay và bị hút ra ngoài.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/85223c0c0eb85a9a705a4c63e6fd261b/thumbnails/thumbnail.jpg" width="600" alt="Khối thạch bị hút ra khỏi máy bay">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4519)**
+
+**Author:** [Lynn Hocker](https://x.com/Auroraskye3993) | **Source:** [Link](https://x.com/Auroraskye3993/status/2053042397542777162) | **Published:** May 9, 2026
+
+---
+### Cảnh hành động Mecha phong cách Cyberpunk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một phân cảnh hành động hoành tráng, độ chi tiết cao với robot khổng lồ trong thành phố cyberpunk dưới mưa, bao gồm các hiệu ứng cháy nổ và vũ khí năng lượng.
+
+#### 📝 Prompt
+
+```
+Cảnh hành động điện ảnh 6 giây, quay chậm hoành tráng: Một robot nữ khổng lồ tuyệt đẹp trong bộ giáp màu hồng sáng và xanh dương rực rỡ với các mạch điện màu đỏ tươi phát sáng và mái tóc bạc dài thướt tha đứng giữa thành phố cyberpunk trong đêm mưa. Cô dậm chân mạnh mẽ về phía trước, bàn chân khổng lồ nghiền nát mặt đường gây ra một vụ nổ dữ dội, mảnh vỡ bay tung tóe, tia lửa và sóng xung kích. Cô vung thanh kiếm năng lượng màu cam rực lửa trên tay phải. Mưa nặng hạt, ánh đèn neon phản chiếu đầy kịch tính trên mặt đất ướt và bộ giáp, xe bay và sự tàn phá. Camera di chuyển góc thấp đầy năng động, hành động cường độ cao, ánh sáng thể tích, kiệt tác điện ảnh, siêu thực, chân thực, chi tiết 8K --ar 9:16
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2a1f1cb1ac16722b5d4322c5168beb1e/thumbnails/thumbnail.jpg" width="600" alt="Cảnh hành động Mecha phong cách Cyberpunk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4517)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2053011628648432032) | **Published:** May 9, 2026
+
+---
+### Nụ cười của quái vật hồ Loch Ness
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) đậm chất điện ảnh mô tả quái vật hồ Loch Ness trồi lên khỏi mặt nước và quay đầu để lộ nụ cười theo phong cách hoạt hình khi máy quay lùi lại.
+
+#### 📝 Prompt
+
+```
+Thêm quái vật biển hồ Loch Ness, khi nó trồi lên khỏi mặt nước, máy quay lùi lại, nó quay đầu và nở một nụ cười đậm chất hoạt hình
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/258487e695ce1d522993819ebd7edad9/thumbnails/thumbnail.jpg" width="600" alt="Nụ cười của quái vật hồ Loch Ness">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4523)**
+
+**Author:** [Fred Rose](https://x.com/FredroseRose) | **Source:** [Link](https://x.com/FredroseRose/status/2052992725826318431) | **Published:** May 9, 2026
+
+---
 ### Những thực tại mới của nhân loại với các quả cầu ánh sáng
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -201,11 +374,30 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 Cô ấy nói rằng đã đến lúc nhân loại cần cân nhắc về những thực tại mới. Cô ấy mỉm cười và những quả cầu nhỏ xuất hiện xung quanh cô.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c1248d34d2c7318f3c8bb6fc722f095/thumbnails/thumbnail.jpg" width="600" alt="Những thực tại mới của nhân loại với các quả cầu ánh sáng">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ad0fd9ed829e22de79d77cb19e38ac46/thumbnails/thumbnail.jpg" width="600" alt="Những thực tại mới của nhân loại với các quả cầu ánh sáng">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4476)**
 
 **Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2052938952798060909) | **Published:** May 9, 2026
+
+---
+### Hoạt ảnh Nữ chiến binh Cyberpunk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) điện ảnh chi tiết cao cho bối cảnh cyberpunk, khắc họa một người phụ nữ mặc giáp chiến thuật với các hiệu ứng phản chiếu neon và chuyển động camera linh hoạt.
+
+#### 📝 Prompt
+
+```
+Một video điện ảnh khoa học viễn tưởng cyberpunk chân thực đến kinh ngạc, dài 6 giây, độ phân giải 4K, siêu chi tiết, được quay bằng máy quay ARRI Alexa 65 với ống kính anamorphic. Một cô gái trẻ xinh đẹp với mái tóc ngắn màu bạc trắng rối nhẹ đứng giữa con phố cyberpunk tương lai vào lúc hoàng hôn. Cô mặc bộ giáp chiến thuật màu trắng đen bóng bẩy, đã sờn cũ qua trận mạc với các điểm nhấn phát sáng màu xanh dương và cam, đội mũ bảo hiểm công nghệ cao với tấm che trong suốt được đẩy lên, và đeo găng tay đen. Cô từ từ quay đầu về phía camera với ánh nhìn tự tin, mãnh liệt, mái tóc ngắn khẽ lay động trong gió. Những hạt mưa nhỏ rơi xung quanh, ánh đèn neon phản chiếu lung linh trên bộ giáp ướt át. Các bảng quảng cáo ba chiều cùng những biển hiệu neon màu hồng, lục lam và tím rực sáng ở phía sau. Những chiếc xe bay lướt qua bầu trời, các tòa nhà chọc trời ở phía xa với những bảng quảng cáo kỹ thuật số khổng lồ vươn cao. Chuyển động camera điện ảnh: bắt đầu bằng cảnh quay trung bình từ góc thấp đầy uy quyền, từ từ xoay quanh cô 180 độ trong khi nhẹ nhàng tiến lại gần, tạo nên màn lộ diện đầy kịch tính về bộ giáp và môi trường cyberpunk. Ánh sáng thể tích đầy tâm trạng, các tia sáng xuyên qua mưa và sương mù, hiệu ứng lóe sáng ống kính (lens flare), độ sâu trường ảnh nông, hạt phim, quang sai màu tinh tế. Siêu chân thực, kết cấu siêu chi tiết, giải phẫu hoàn hảo, không khí cyberpunk đậm chất, thẩm mỹ Blade Runner 2049, chất lượng cực cao, kiệt tác, chất lượng tốt nhất. Phong cách: Điện ảnh, chân thực, cyberpunk, khoa học viễn tưởng, ánh sáng kịch tính. Thời lượng: 6 giây. Chuyển động: Mượt mà, điện ảnh, chậm rãi và mạnh mẽ. Camera: Cảnh quay xoay quanh linh hoạt với hiệu ứng tiến lại gần chậm.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7af1d3aa83a31adf99d288da52f08985/thumbnails/thumbnail.jpg" width="600" alt="Hoạt ảnh Nữ chiến binh Cyberpunk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4520)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2052910794166178135) | **Published:** May 9, 2026
 
 ---
 ### Chú mèo khổng lồ trong khu rừng tí hon
@@ -1939,198 +2131,6 @@ Sản phẩm AI tạo sinh hỗn loạn đầu tiên, các dải màu xoáy lộ
 **Author:** [Maria](https://x.com/NeuroPaletteArt) | **Source:** [Link](https://x.com/NeuroPaletteArt/status/2050495053898862907) | **Published:** May 2, 2026
 
 ---
-### Cảnh quay lướt sóng chuyên nghiệp từ flycam
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) điện ảnh toàn diện, chất lượng cao dành cho video lướt sóng với các chuyển cảnh camera và hiệu ứng ánh sáng phức tạp.
-
-#### 📝 Prompt
-
-```
-Một vận động viên lướt sóng chuyên nghiệp lao xuống con sóng khổng lồ lúc hoàng hôn, cơ thể hạ thấp và giữ thăng bằng hoàn hảo trên ván, mở đầu bằng cú máy flycam góc rộng từ trên cao cho thấy quy mô đồ sộ của con sóng cuộn trào như một ngọn núi di động, sau đó camera lao xuống phía sau người lướt sóng vào một cú máy FPV bám đuổi sát nút khi anh ấy lướt dọc theo mặt sóng, nước bắn tung tóe dữ dội vào ống kính, chuyển sang cảnh quay kịch tính bên trong lòng ống sóng với ánh mặt trời khúc xạ qua những bức tường nước trong suốt, tiếp nối bằng cú xoay người khi anh ấy thực hiện động tác cutback sắc bén, kết thúc bằng hiệu ứng quay chậm khi con sóng đổ ập xuống, sương nước và ánh sáng vàng rực rỡ, hiệu ứng vật lý nước siêu thực, không khí đậm chất điện ảnh và đầy phấn khích.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5d7dbb899c73b11ad757c58e5ad6ce7e/thumbnails/thumbnail.jpg" width="600" alt="Cảnh quay lướt sóng chuyên nghiệp từ flycam">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4078)**
-
-**Author:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Source:** [Link](https://x.com/CharaspowerAI/status/2050493027223777569) | **Published:** May 2, 2026
-
----
-### Hoạt ảnh Cổng không gian Lunar Realm
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh theo phong cách khoa học viễn tưởng siêu thực, nơi những người sống trên mặt trăng khám phá ra một cánh cổng dẫn đến một cõi đầy các thiên hà.
-
-#### 📝 Prompt
-
-```
-Những người sống trên mặt trăng… phía sau họ là một bộ cửa bí mật. Khi họ mở chúng ra, họ bước vào một cõi hoàn toàn mới đầy các hành tinh và thiên hà ✨
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/59524f26658d87bec7dae63bbd1c94b1/thumbnails/thumbnail.jpg" width="600" alt="Hoạt ảnh Cổng không gian Lunar Realm">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4072)**
-
-**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2050460104634343673) | **Published:** May 2, 2026
-
----
-### Hoạt ảnh thành phố nổi siêu thực
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh siêu thực cho video về một người phụ nữ đang lơ lửng phía trên thành phố rực rỡ ánh sáng với những bàn tay bạc bí ẩn và các bong bóng trôi nổi.
-
-#### 📝 Prompt
-
-```
-Cô ấy lơ lửng một cách duyên dáng phía trên thành phố rực rỡ, mái tóc dài bay trong gió. Một bàn tay bạc bí ẩn vươn ra chạm vào cô khi những bong bóng trôi nổi lên trên như những giấc mơ ✨
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ea209fe2ca89f8b0837d2b73b1bbfed5/thumbnails/thumbnail.jpg" width="600" alt="Hoạt ảnh thành phố nổi siêu thực">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4069)**
-
-**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2050455908510060584) | **Published:** May 2, 2026
-
----
-### Khủng long điện ảnh trong những đám mây tro bụi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) điện ảnh chi tiết cao cho cảnh quay tĩnh của một chú khủng long đang chìm trong những đám mây tro bụi cuồn cuộn, tối tăm.
-
-#### 📝 Prompt
-
-```
-Một cảnh quay tĩnh cao cấp. Một chú khủng long được nhìn từ phía sau, chìm một phần trong biển mây tro bụi dày đặc, cuồn cuộn và tối tăm. Môi trường xung quanh vẫn hoàn toàn không thay đổi: bầu trời xanh xám rộng lớn, nhạt màu cùng những tầng mây tích dày đặc...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/134d1008954e9de23aca3db2fcc5e230/thumbnails/thumbnail.jpg" width="600" alt="Khủng long điện ảnh trong những đám mây tro bụi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4076)**
-
-**Author:** [ozin.owl](https://x.com/ozinowl) | **Source:** [Link](https://x.com/ozinowl/status/2050414725955977389) | **Published:** May 2, 2026
-
----
-### Biến hình quán rượu siêu thực thành mảnh ghép
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt mang phong cách mơ màng, nơi không gian quán rượu ấm cúng tan rã thành các mảnh ghép, dẫn lối đến một khu rừng mê hoặc.
-
-#### 📝 Prompt
-
-```
-Bạn đang ngồi trong một quán rượu ấm cúng bên lò sưởi thì cả thế giới bắt đầu TAN VỠ thành những mảnh ghép…
-
-Chúng xoay tròn từ trên trần nhà, khớp lại với nhau, và đột nhiên sàn nhà nứt ra — cánh cửa quán rượu mở rộng dẫn lối vào một con đường trong khu rừng mê hoặc rực rỡ, trải dài bất tận đến tận những vì sao 🔥
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0ed8d7cb62e6af8f1d8b5bad2dd2d436/thumbnails/thumbnail.jpg" width="600" alt="Biến hình quán rượu siêu thực thành mảnh ghép">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4081)**
-
-**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2050391575629279346) | **Published:** May 2, 2026
-
----
-### Phép thuật biến hình từ tranh vẽ trong sách
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) tạo video điện ảnh 8K phức tạp, mô phỏng cảnh một hình vẽ mực thủ công biến thành sinh vật 3D khi được ngón tay chạm vào.
-
-#### 📝 Prompt
-
-```
-Một video macro điện ảnh 8K siêu thực, khắc họa khoảnh khắc sáng tạo kỳ diệu chỉ bằng một cú chạm. Cảnh quay mở đầu trên trang giấy cũ kỹ của một cuốn sách cổ, được chiếu sáng ấm áp và gần gũi như trong một phòng đọc sách ấm cúng. Ở giữa trang giấy là một hình vẽ mực thủ công tinh xảo về {your object}. Một ngón tay người nhẹ nhàng tiến vào khung hình và chạm vào giữa hình vẽ. Tại điểm tiếp xúc, một luồng sáng neon hồng tím rực rỡ bùng phát ra ngoài, và các nét mực của {your object} bắt đầu gợn sóng và biến dạng như thể đang sống lại. {your object} bắt đầu co giật, cử động và từ từ nhô lên khỏi trang giấy trong một quá trình chuyển đổi 2D sang 3D mượt mà. Các nét mực kéo giãn và dày lên thành những khối cơ bắp, đôi mắt của nó bừng sáng với ánh lửa màu xanh lam. Quá trình biến hình mang lại cảm giác kịch tính và đầy kinh ngạc, như thể {your object} đang tự xé toạc mình khỏi trang giấy phẳng để bước vào thế giới thực.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9fbb2948633492992f20914add5dd1de/thumbnails/thumbnail.jpg" width="600" alt="Phép thuật biến hình từ tranh vẽ trong sách">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4071)**
-
-**Author:** [Zyrella](https://x.com/Zyrellix) | **Source:** [Link](https://x.com/Zyrellix/status/2050388225924239449) | **Published:** May 2, 2026
-
----
-### Video đàn cừu tụ họp lúc bình minh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh Grok Imagine chi tiết để tạo video phong cảnh về đàn cừu, chó chăn cừu và các loài thú săn mồi trong khung cảnh thiên nhiên vào lúc bình minh.
-
-#### 📝 Prompt
-
-```
-Một đàn cừu tụ họp lúc bình minh, cùng với một chú chó chăn cừu và những loài thú săn mồi ở phía xa trong một khung cảnh thiên nhiên.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e45eea2ab448729239f1aa539817fb26/thumbnails/thumbnail.jpg" width="600" alt="Video đàn cừu tụ họp lúc bình minh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4086)**
-
-**Author:** [Shepherd of Truth](https://x.com/truthXXshepherd) | **Source:** [Link](https://x.com/truthXXshepherd/status/2050378146772578601) | **Published:** May 2, 2026
-
----
-### Hiệu ứng hoạt ảnh thu phóng mắt phong cách Steampunk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt chi tiết về một người phụ nữ phong cách steampunk với đôi mắt rực lửa và hiệu ứng thu phóng camera.
-
-#### 📝 Prompt
-
-```
-Người phụ nữ da trắng xinh đẹp phong cách Steampunk, trong bối cảnh hậu tận thế, camera thu phóng vào đôi mắt rực lửa của cô ấy. Cô ấy chớp mắt và đôi mắt chuyển sang màu trắng.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6f4a388861aa06f1b27b1d2d4cebdae1/thumbnails/thumbnail.jpg" width="600" alt="Hiệu ứng hoạt ảnh thu phóng mắt phong cách Steampunk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4010)**
-
-**Author:** [dadiiogames](https://x.com/dadiiogames) | **Source:** [Link](https://x.com/dadiiogames/status/2050360623297630265) | **Published:** May 1, 2026
-
----
-### Chìa khóa phát sáng của những nhà thám hiểm thiên hà
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video điện ảnh về hai nhà thám hiểm đang mở một cánh cửa thiên thể bằng chiếc chìa khóa phát sáng trong khi cả thiên hà đang chờ đợi phía trên.
-
-#### 📝 Prompt
-
-```
-Hai nhà thám hiểm. Một chiếc chìa khóa phát sáng. Một cánh cửa lẽ ra không bao giờ nên mở. Những bậc thang trong suốt nhô lên từ sàn nhà… các hành tinh trôi lững lờ… và cả thiên hà đang chờ đợi phía trên họ. Họ đã bước lên. Liệu bạn có dám đi theo?
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4491a0b1291e3a7831e1fe6ceccfac83/thumbnails/thumbnail.jpg" width="600" alt="Chìa khóa phát sáng của những nhà thám hiểm thiên hà">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4016)**
-
-**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2050354884914934237) | **Published:** May 1, 2026
-
----
-### Thiên thần chiến binh giáng thế
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt sử thi mô tả một thiên thần chiến binh trong bộ giáp trắng đang giáng xuống chiến trường.
-
-#### 📝 Prompt
-
-```
-Thiên thần chiến binh mặc giáp trắng, cầm kiếm đang giáng xuống chiến trường để hỗ trợ quân đội của mình một cách đầy uy nghiêm
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6cd11c6dbb374d523353c96032a76c89/thumbnails/thumbnail.jpg" width="600" alt="Thiên thần chiến binh giáng thế">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4008)**
-
-**Author:** [Chart_Guy](https://x.com/Chart_Guy) | **Source:** [Link](https://x.com/Chart_Guy/status/2050329761835004005) | **Published:** May 1, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2192,6 +2192,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-10T06:39:40.571Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-10T09:44:02.075Z</sub>
 
 </div>

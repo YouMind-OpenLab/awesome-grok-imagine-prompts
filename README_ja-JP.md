@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **1441** |
+| 📝 プロンプト総数 | **1451** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-05-10** |
 
@@ -189,6 +189,179 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### 花畑に立つ未来の戦士である母親
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ゴールデンアワーの春の花畑に、子供を背負って立つ未来の戦士である母親をイメージしたシネマティックなプロンプト。
+
+#### 📝 プロンプト
+
+```
+ゴールデンアワーの広大な春の花畑に穏やかに立つ、未来の戦士である母親。ベージュ色のエクソスーツを着用し、マットな質感の装甲プレートを重ね、タクティカルな布地を巻き付けた、砂漠の色調を基調としたソフトな SF デザイン。背中の布製スリングで眠る子供を背負い、先端的な未来のライフルを脇に優しく下げて持っている。穏やかで守護的な表情、優しく英雄的な立ち姿。風が布地と花々を揺らす。超詳細、感情的な雰囲気、リアルな肌の質感、シネマティックな被写界深度、柔らかな陽光。地平線には遠くの未来的な巨大建造物やホバーシップが見える。空気中に舞う微細な塵。地に足のついた SF の美学、フォトリアル、高精細、映画のワンシーンのような構図、バランスの取れた温かみのあるカラーグレーディング、壮大でありながら親密なムード、ボリュームライティング、超リアル、8k。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c603b277d482b3947359337342b82abd/thumbnails/thumbnail.jpg" width="600" alt="花畑に立つ未来の戦士である母親">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4526)**
+
+**作者:** [DUST](https://x.com/Dustfinger2077) | **ソース:** [Link](https://x.com/Dustfinger2077/status/2053379756540715378) | **公開日:** May 10, 2026
+
+---
+### キャンディ王国でスカイダイビングする動物たち
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 向けの遊び心あふれる独創的なプロンプトです。ウサギとネズミが寿司とキャンディでできた世界へスカイダイビングする様子を描きます。
+
+#### 📝 プロンプト
+
+```
+寿司とキャンディでできた魔法の王国へスカイダイビングする、ウサギの赤ちゃんとネズミの赤ちゃん
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/47441ab40503e91f1c9367f8e6cecb9f/thumbnails/thumbnail.jpg" width="600" alt="キャンディ王国でスカイダイビングする動物たち">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4525)**
+
+**作者:** [ĐOGEARMY GENERAL](https://x.com/TheTeslaBull) | **ソース:** [Link](https://x.com/TheTeslaBull/status/2053277900179206569) | **公開日:** May 10, 2026
+
+---
+### 飛行機に乗るゼリー状のキャラクター
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 飛行機の窓の外を眺めるゼリー状のキャラクターを描いた、シュールで映画のようなビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+ゼリー状のキャラクターが飛行機に乗り、窓の外を眺めている様子を、シュールかつ映画のようなスタイルで表現。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b66df3c8d63b47e37fa65fca46fde94d/thumbnails/thumbnail.jpg" width="600" alt="飛行機に乗るゼリー状のキャラクター">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4518)**
+
+**作者:** [Angie Ramos Mendez](https://x.com/AngieRamos2030) | **ソース:** [Link](https://x.com/AngieRamos2030/status/2053225507626299583) | **公開日:** May 9, 2026
+
+---
+### オプティマスプライムのポリスチェイス
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 変形する車と警察の追跡劇を描いた、Grok Imagine 用のダイナミックなアクション動画プロンプトです。
+
+#### 📝 プロンプト
+
+```
+究極のパトカーがルーフを開放する様子を表現してください。追跡されている車からオプティマスがルーフを突き破って飛び出します。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3ab7f6acc32fcff3f7011a1b0e2eeb1d/thumbnails/thumbnail.jpg" width="600" alt="オプティマスプライムのポリスチェイス">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4521)**
+
+**作者:** [JG Page](https://x.com/jgpage99) | **ソース:** [Link](https://x.com/jgpage99/status/2053187982308397374) | **公開日:** May 9, 2026
+
+---
+### 映画のようなサイバーパンク・サムライとドラゴン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 浮遊する屋上でホログラムのドラゴンとネオンの雨に囲まれた、孤独なサムライを描くサイバーパンクシーンのための高精細なシネマティック・プロンプトです。
+
+#### 📝 プロンプト
+
+```
+cinematic cyberpunk samurai on a floating rooftop at dramatic dusk, glowing cherry blossoms and floating code particles in the air, massive holographic dragons circling neon megacity skyline, heavy rain reflections on katana and wet concrete, volumetric god rays, ultra detailed, 8k, shot on 70mm IMAX, cinematic chaos --ar 16:9 --stylize 650
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/42859236fd47f27471eeaef00d9d0ad0/thumbnails/thumbnail.jpg" width="600" alt="映画のようなサイバーパンク・サムライとドラゴン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4524)**
+
+**作者:** [Shah](https://x.com/ai_with_shah) | **ソース:** [Link](https://x.com/ai_with_shah/status/2053091718786924800) | **公開日:** May 9, 2026
+
+---
+### メカ・ロックスターのシネマティック映像
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> エレクトリックギターを演奏する未来的なメカロボットをフィーチャーした、壮大で高精細なシネマティックプロンプト。ダイナミックなカメラワークと SF 風のライティングが特徴です。
+
+#### 📝 プロンプト
+
+```
+白と黒の未来的なメカロボットがドラマチックなヒーローポーズで立ち、巨大な近未来型エレクトリックギターをロックスターの武器のように両手で力強く構えている。シネマティックな SF シーン、超リアルな 8K ディテール。ロボットの装甲とギターの弦に沿って脈動する、かすかな赤いエネルギーの輝きを伴ったドラマチックなリムライト。
+ロボットがゆっくりとギターを持ち上げ、機械的な精度でかき鳴らすと、コードを弾くたびに明るい青と赤のエネルギーの火花と光の軌跡が弾け飛ぶ。カメラはローアングルのフルショットから始まり、ロボットの周囲をダイナミックな 360 度のシネマティックな弧を描いて滑らかに旋回しながらゆっくりとズームインし、複雑なメカのディテールと太ももに描かれた光る赤いグラフィティを映し出す。
+強烈な SF の雰囲気、光る塵の中を突き抜けるボリュメトリックなゴッドレイ、繊細なレンズフレア、フィルムグレイン、アナモルフィックボケ。ミュージックビデオの予告編のような、壮大でクールなムード。ストロークの瞬間はスローモーションでインパクトを最大化。6 秒間、24fps、シネマティックなカラーグレーディング、超高精細、フォトリアル、ドゥニ・ヴィルヌーヴ監督とマイケル・ベイ監督の演出スタイル。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/924bd9ac6ada9931c401087340b4c343/thumbnails/thumbnail.jpg" width="600" alt="メカ・ロックスターのシネマティック映像">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4522)**
+
+**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **ソース:** [Link](https://x.com/ThoughCreator/status/2053056718691787073) | **公開日:** May 9, 2026
+
+---
+### 飛行機から吸い出されるゼリー状のキャラクター
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ゼリー状のキャラクターが飛行機の窓を突き破り、外へ吸い出される様子を描いた、シュールで映画のようなビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+ゼリー状のキャラクターが飛行機の座席に座り、窓の外を眺めている。シュールで映画のようなスタイル。突然、キャラクターが立ち上がり、飛行機の窓ガラスを突き破って外へ吸い出されていく。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/85223c0c0eb85a9a705a4c63e6fd261b/thumbnails/thumbnail.jpg" width="600" alt="飛行機から吸い出されるゼリー状のキャラクター">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4519)**
+
+**作者:** [Lynn Hocker](https://x.com/Auroraskye3993) | **ソース:** [Link](https://x.com/Auroraskye3993/status/2053042397542777162) | **公開日:** May 9, 2026
+
+---
+### サイバーパンク・メカ・アクションシーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 雨の降るサイバーパンク都市を舞台に、巨大メカが繰り広げる爆発やエネルギー兵器を駆使した、高精細で壮大なアクションシークエンス。
+
+#### 📝 プロンプト
+
+```
+6 秒間の映画のようなアクションシーン、壮大なスローモーション：輝くピンクと鮮やかなブルーの装甲スーツに身を包み、マゼンタ色の回路が発光する、長く流れる銀髪の美しい巨大女性型メカが、夜の雨降るサイバーパンク都市に佇んでいる。彼女が力強く前進し、巨大な足で通りを踏みつけると、激しい爆発が起こり、破片や火花が飛び散り、衝撃波が広がる。彼女は右手に持つ長く燃え盛るオレンジ色のエネルギーソードを振り抜く。激しい雨、濡れた地面と装甲に反射するドラマチックなネオン、空飛ぶ車と破壊の光景。ダイナミックなローアングル・トラッキングカメラ、激しいアクション、ボリュームライト、映画の傑作、超リアル、フォトリアル、8K ディテール --ar 9:16
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2a1f1cb1ac16722b5d4322c5168beb1e/thumbnails/thumbnail.jpg" width="600" alt="サイバーパンク・メカ・アクションシーン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4517)**
+
+**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **ソース:** [Link](https://x.com/ThoughCreator/status/2053011628648432032) | **公開日:** May 9, 2026
+
+---
+### ネス湖の怪獣の笑顔
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ネス湖の怪獣が水中から現れ、カメラが引くにつれて振り返り、カートゥーン調の笑顔を見せるシネマティックなプロンプト。
+
+#### 📝 プロンプト
+
+```
+ネス湖の海獣を追加し、水面から現れる際にカメラが引き、振り返ってカートゥーン調の満面の笑みを浮かべる様子
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/258487e695ce1d522993819ebd7edad9/thumbnails/thumbnail.jpg" width="600" alt="ネス湖の怪獣の笑顔">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4523)**
+
+**作者:** [Fred Rose](https://x.com/FredroseRose) | **ソース:** [Link](https://x.com/FredroseRose/status/2052992725826318431) | **公開日:** May 9, 2026
+
+---
 ### Humanity New Realities Orbs
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -201,11 +374,30 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 彼女は「今こそ人類として新しい現実を考える時です」と語ります。彼女が微笑むと、その周囲に小さなオーブが現れます。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c1248d34d2c7318f3c8bb6fc722f095/thumbnails/thumbnail.jpg" width="600" alt="Humanity New Realities Orbs">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ad0fd9ed829e22de79d77cb19e38ac46/thumbnails/thumbnail.jpg" width="600" alt="Humanity New Realities Orbs">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4476)**
 
 **作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **ソース:** [Link](https://x.com/clemensilverio/status/2052938952798060909) | **公開日:** May 9, 2026
+
+---
+### サイバーパンク・タクティカル・ウーマンのアニメーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ネオンの反射とダイナミックなカメラワークが特徴的な、タクティカルアーマーを纏った女性が登場するサイバーパンクシーン向けの、非常に詳細なシネマティックプロンプトです。
+
+#### 📝 プロンプト
+
+```
+圧倒的なフォトリアリズムを誇るサイバーパンク SF シネマティックビデオ、6 秒間、4K、超高精細、ARRI Alexa 65 およびアナモフィックレンズで撮影。夕暮れ時の近未来的なサイバーパンクの街並みの中央に、短く無造作な銀白色の髪を持つ美しい若い女性が立っている。彼女は、青とオレンジの光を放つ洗練された戦闘用の白と黒のタクティカル・パワーアーマーを着用し、バイザーを上げたハイテクヘルメットと黒いグローブを身につけている。彼女が自信に満ちた鋭い眼差しでゆっくりとカメラの方へ顔を向けると、短い髪が風に優しくなびく。周囲には小雨が降り、濡れたアーマーにネオンの光が反射してきらめく。背景にはホログラフィック広告やピンク、シアン、パープルのネオンサインが輝く。空には空飛ぶ車が駆け抜け、遠くには巨大なデジタル看板を掲げた高層ビルがそびえ立つ。シネマティックなカメラワーク：ローアングルからのヒーローショット（ミディアムショット）で始まり、ゆっくりと 180 度旋回しながら被写体に接近し、彼女のアーマーとサイバーパンクな環境をドラマチックに描き出す。ムードのあるボリュームライト、雨と霧を切り裂くゴッドレイ、レンズフレア、浅い被写界深度、フィルムグレイン、微細な色収差。超フォトリアリスティック、超高精細なテクスチャ、完璧な解剖学的構造、雰囲気のあるサイバーパンクなムード、『ブレードランナー 2049』の美学、極めて高品質、傑作、最高品質。スタイル：シネマティック、フォトリアリスティック、サイバーパンク、SF、ドラマチックなライティング。長さ：6 秒。モーション：スムーズ、シネマティック、スローで力強い動き。カメラ：ダイナミックな旋回ショットとゆっくりとしたズームイン。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7af1d3aa83a31adf99d288da52f08985/thumbnails/thumbnail.jpg" width="600" alt="サイバーパンク・タクティカル・ウーマンのアニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4520)**
+
+**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **ソース:** [Link](https://x.com/ThoughCreator/status/2052910794166178135) | **公開日:** May 9, 2026
 
 ---
 ### ミニチュアの森に現れた巨大猫
@@ -1939,198 +2131,6 @@ Grok のロゴ入り T シャツを着た赤毛の少女が近未来都市のラ
 **作者:** [Maria](https://x.com/NeuroPaletteArt) | **ソース:** [Link](https://x.com/NeuroPaletteArt/status/2050495053898862907) | **公開日:** May 2, 2026
 
 ---
-### プロサーファーの空撮ドローン映像
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 複雑なカメラワークとライティングを駆使した、サーフィン動画向けの高品質で包括的なシネマティックプロンプトです。
-
-#### 📝 プロンプト
-
-```
-夕暮れ時、プロサーファーが巨大な波にドロップインする。ボード上で重心を低く保ち、完璧なバランスでライディングする姿を捉えたワイドな空撮ドローンショットから始まり、動く山のようにうねる波の壮大なスケールを映し出す。その後、カメラはサーファーの背後へと潜り込み、タイトな FPV トラッキングショットへと切り替わる。サーファーが波の斜面を切り裂くように滑走すると、激しい水しぶきがレンズに飛び散る。続いて、半透明の波の壁を通して太陽光が屈折する、波の内側からのドラマチックなバレルショットへ。さらに、鋭いカットバックを決める際の回転動作を捉え、最後は波が砕け散る瞬間をスローモーションで描写する。霧と黄金色の光、超リアルな水の物理演算が、映画のようなアドレナリン全開の雰囲気を演出する。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5d7dbb899c73b11ad757c58e5ad6ce7e/thumbnails/thumbnail.jpg" width="600" alt="プロサーファーの空撮ドローン映像">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4078)**
-
-**作者:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **ソース:** [Link](https://x.com/CharaspowerAI/status/2050493027223777569) | **公開日:** May 2, 2026
-
----
-### Lunar Realm Portal Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 月面に住む人々が、銀河に満ちた領域へと続くポータルを発見するという、SF シュルレアリスムのプロンプトです。
-
-#### 📝 プロンプト
-
-```
-月面に住む人々……その背後には秘密の扉がありました。彼らがその扉を開けると、そこには惑星と銀河に満ちた全く新しい世界が広がっていました ✨
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/59524f26658d87bec7dae63bbd1c94b1/thumbnails/thumbnail.jpg" width="600" alt="Lunar Realm Portal Animation">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4072)**
-
-**作者:** [DuBoseJen](https://x.com/DuBosefire) | **ソース:** [Link](https://x.com/DuBosefire/status/2050460104634343673) | **公開日:** May 2, 2026
-
----
-### シュールな浮遊都市のアニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 輝く都市の上空に浮かぶ女性と、神秘的な銀色の手、そして漂う泡を描いた、シュールな動画生成用プロンプトです。
-
-#### 📝 プロンプト
-
-```
-彼女は輝く都市の上空を優雅に漂い、長い髪が風になびいている。神秘的な銀色の手が彼女に触れようと伸び、夢のように泡が浮かび上がっていく ✨
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ea209fe2ca89f8b0837d2b73b1bbfed5/thumbnails/thumbnail.jpg" width="600" alt="シュールな浮遊都市のアニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4069)**
-
-**作者:** [DuBoseJen](https://x.com/DuBosefire) | **ソース:** [Link](https://x.com/DuBosefire/status/2050455908510060584) | **公開日:** May 2, 2026
-
----
-### 灰色の雲の中に佇む恐竜のシネマティックな光景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 暗く立ち込める灰色の雲の中に沈む恐竜を捉えた、高精細なシネマティック・プロンプト。
-
-#### 📝 プロンプト
-
-```
-ハイエンドな静止画ショット。厚く立ち込める暗い灰色の雲の海に半分沈んだ、恐竜の後ろ姿。環境は一切変化せず、彩度の低い広大な青灰色の空、重厚な積乱雲の層が広がっている...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/134d1008954e9de23aca3db2fcc5e230/thumbnails/thumbnail.jpg" width="600" alt="灰色の雲の中に佇む恐竜のシネマティックな光景">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4076)**
-
-**作者:** [ozin.owl](https://x.com/ozinowl) | **ソース:** [Link](https://x.com/ozinowl/status/2050414725955977389) | **公開日:** May 2, 2026
-
----
-### シュールな酒場のパズル変身
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 居心地の良い酒場がパズルのピースへと分解され、魔法の森へとつながっていく夢のようなビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-暖炉のある居心地の良い酒場でくつろいでいると、世界全体がパズルのピースとなって崩れ落ちていく……
-
-ピースが天井から渦を巻いて降り注ぎ、互いに組み合わさった瞬間、床が割れる。酒場のドアが大きく開き、その先には星空へとどこまでも続く、光り輝く魔法の森の小道が広がっている 🔥
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0ed8d7cb62e6af8f1d8b5bad2dd2d436/thumbnails/thumbnail.jpg" width="600" alt="シュールな酒場のパズル変身">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4081)**
-
-**作者:** [DuBoseJen](https://x.com/DuBosefire) | **ソース:** [Link](https://x.com/DuBosefire/status/2050391575629279346) | **公開日:** May 2, 2026
-
----
-### 魔法のブックドローイング・トランスフォーメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 手描きのインクイラストが指に触れられることで 3D の生き物へとアニメーション化する、複雑な 8K シネマティックビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-超フォトリアルな 8K シネマティックマクロビデオ。たった一度の接触から生まれる魔法のような創造の瞬間を描き出します。舞台は、居心地の良い書斎を思わせる温かく親密な光に包まれた、古びた本のページ。ページの中央には、{your object} の繊細な手描きのインク画があります。人間の指がゆっくりとフレームに入り、絵の中央に触れます。接触した瞬間、鮮やかなネオンピンクとパープルの光が弾け飛び、{your object} のインクの線が生きているかのように波打ち、歪み始めます。{your object} はピクピクと動き出し、シームレスな 2D から 3D への変身を遂げながら、ゆっくりとページから浮かび上がります。インクのストロークは伸びて太くなり、筋肉質なフォルムへと変化し、その瞳は燃えるような青い光を放ちます。まるで {your object} が平らなページを突き破り、現実世界へと飛び出してくるかのような、ドラマチックで畏怖の念を抱かせる変身シーンです。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9fbb2948633492992f20914add5dd1de/thumbnails/thumbnail.jpg" width="600" alt="魔法のブックドローイング・トランスフォーメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4071)**
-
-**作者:** [Zyrella](https://x.com/Zyrellix) | **ソース:** [Link](https://x.com/Zyrellix/status/2050388225924239449) | **公開日:** May 2, 2026
-
----
-### 日の出の羊の群れ動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 日の出の自然な風景の中で、羊、牧羊犬、そして捕食者が登場する映像を作成するための、詳細な Grok Imagine プロンプトです。
-
-#### 📝 プロンプト
-
-```
-日の出の自然な風景の中で、牧羊犬と遠くに捕食者がいる中、羊の群れが集まっている様子。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e45eea2ab448729239f1aa539817fb26/thumbnails/thumbnail.jpg" width="600" alt="日の出の羊の群れ動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4086)**
-
-**作者:** [Shepherd of Truth](https://x.com/truthXXshepherd) | **ソース:** [Link](https://x.com/truthXXshepherd/status/2050378146772578601) | **公開日:** May 2, 2026
-
----
-### スチームパンクな瞳のズームアニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 炎が宿る瞳を持つスチームパンク風の女性と、カメラのズームエフェクトを組み合わせた詳細な動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-スチームパンク風の美しい白人女性、終末的な背景。カメラが彼女の炎に満ちた瞳にズームインする。彼女が瞬きをすると、瞳が白く変化する。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6f4a388861aa06f1b27b1d2d4cebdae1/thumbnails/thumbnail.jpg" width="600" alt="スチームパンクな瞳のズームアニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4010)**
-
-**作者:** [dadiiogames](https://x.com/dadiiogames) | **ソース:** [Link](https://x.com/dadiiogames/status/2050360623297630265) | **公開日:** May 1, 2026
-
----
-### Galaxy Explorers Glowing Key
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 光り輝く鍵で天上の扉を開く 2 人の探検家と、その頭上に広がる銀河を捉えたシネマティックな動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-2 人の探検家。1 つの光り輝く鍵。決して開けてはならなかった扉。床から浮かび上がる透明な階段……漂う惑星たち……そして、彼らの頭上には銀河のすべてが待ち受けていた。彼らは階段を上った。あなたなら、彼らについて行っただろうか？
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4491a0b1291e3a7831e1fe6ceccfac83/thumbnails/thumbnail.jpg" width="600" alt="Galaxy Explorers Glowing Key">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4016)**
-
-**作者:** [DuBoseJen](https://x.com/DuBosefire) | **ソース:** [Link](https://x.com/DuBosefire/status/2050354884914934237) | **公開日:** May 1, 2026
-
----
-### エンジェル・ウォリアーの降臨
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 白い鎧をまとった天使の戦士が戦場へと舞い降りる様子を描いた、壮大なビデオプロンプトです。
-
-#### 📝 プロンプト
-
-```
-白い鎧と剣を身にまとった天使の戦士が、味方の軍勢を援護するために戦場へ威厳を持って舞い降りる様子
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6cd11c6dbb374d523353c96032a76c89/thumbnails/thumbnail.jpg" width="600" alt="エンジェル・ウォリアーの降臨">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4008)**
-
-**作者:** [Chart_Guy](https://x.com/Chart_Guy) | **ソース:** [Link](https://x.com/Chart_Guy/status/2050329761835004005) | **公開日:** May 1, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2192,6 +2192,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-05-10T06:39:36.434Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-05-10T09:43:57.236Z</sub>
 
 </div>
