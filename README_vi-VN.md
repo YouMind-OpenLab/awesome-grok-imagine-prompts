@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1451** |
+| 📝 Total Prompts | **1462** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-11** |
 
@@ -189,6 +189,148 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Kids and Deer in Meadow
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A heartwarming video prompt featuring children playing with deer in a sunlit forest meadow.
+
+#### 📝 Prompt
+
+```
+kids joyfully playing with gentle deer in a sunlit forest clearing laughter echoing, tails wagging, and hearts full of wonder
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1e953ff17ed665ea97099d21f6c68106/thumbnails/thumbnail.jpg" width="600" alt="Kids and Deer in Meadow">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4563)**
+
+**Author:** [Love Web3 World](https://x.com/WebThreeAI) | **Source:** [Link](https://x.com/WebThreeAI/status/2053710849521664006) | **Published:** May 11, 2026
+
+---
+### Come Here Finger Gesture Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed instruction for generating a hand gesture animation where an index finger beckons someone to come closer, designed for image-to-video generation.
+
+#### 📝 Prompt
+
+```
+Her gesture is performed as follows:
+(1) Her hand is held with the palm facing upward  (toward the body). 
+(2) The index (fore) finger is extended while the other fingers are clenched inward like a fist. 
+(3) Then the index finger is repeatedly curled inward and extended outward in a hooking motion. Indicating come here and come closer.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3dc790d96dacc64016b3a882c509cb55/thumbnails/thumbnail.jpg" width="600" alt="Come Here Finger Gesture Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4561)**
+
+**Author:** [Ash](https://x.com/asheem01) | **Source:** [Link](https://x.com/asheem01/status/2053664506941735152) | **Published:** May 11, 2026
+
+---
+### Rotating Image Sculpture Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An image-to-video prompt that instructs the model to transform the content of an image into a rotating 3D sculpture within a black frame.
+
+#### 📝 Prompt
+
+```
+Rotate on vertical ax this image inside a black background frame, not the frame, the content to be transformed into a sculpture with exactly the number of shapes hereusing this shapes and colors
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a4a441fda97b52e954842bec929d7c5a/thumbnails/thumbnail.jpg" width="600" alt="Rotating Image Sculpture Transformation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4559)**
+
+**Author:** [Ember Art](https://x.com/Ember8184Art) | **Source:** [Link](https://x.com/Ember8184Art/status/2053521107911614675) | **Published:** May 10, 2026
+
+---
+### AI Companion Ani French Salon Discussion
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A detailed prompt for generating a video of an AI companion named Ani, featuring specific fashion and character traits, while she engages in a political discussion in a French salon setting.
+
+#### 📝 Prompt
+
+```
+AI companion Ani (blonde hair, twin tails, sapphire blue eyes, age 22, intelligent and mischievous atmosphere, wearing mode-style clothes selected at a stylish second-hand shop in Shimokitazawa) eating cheese fondue while having a political discussion about French salon culture in French.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/99b277212c0172b6d15f62cf22fca34f/thumbnails/thumbnail.jpg" width="600" alt="AI Companion Ani French Salon Discussion">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4564)**
+
+**Author:** [Aniの日常](https://x.com/tarohinomo78040) | **Source:** [Link](https://x.com/tarohinomo78040/status/2053494947970789656) | **Published:** May 10, 2026
+
+---
+### Psychedelic Mountain Bike POV
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An intense POV video prompt of mountain biking down a forest trail with rapidly shifting psychedelic and cosmic visual styles.
+
+#### 📝 Prompt
+
+```
+An exhilarating POV video of riding a mountain bike at extreme speed down a winding forest trail. The visual style is intensely psychedelic and surreal. The entire scene rapidly transforms and pulsates, shifting between a hyper-stylized autumn forest with golden light trails and a dark, cosmic environment filled with vibrant kaleidoscopic neon lights, sparkling stars, and fractal patterns. The rider's hands and handlebars are visible in the foreground, reflecting the shifting, hallucinatory colors of the surroundings. The camera is dynamic and shaky, conveying a sense of intense speed and a dreamlike, trippy experience.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3ee92a2191bbc943dfefb4b5a0d20eea/thumbnails/thumbnail.jpg" width="600" alt="Psychedelic Mountain Bike POV">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4557)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2053467292823126466) | **Published:** May 10, 2026
+
+---
+### Cinematic Cyberpunk Mecha Warrior Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed cinematic prompt for generating a 6-second video of a female cyberpunk mecha warrior in a rainy city, featuring complex mechanical details and dramatic lighting.
+
+#### 📝 Prompt
+
+```
+Cinematic photorealistic 6-second video, 4K, ultra-detailed, next-level Transformers-style female cyberpunk mecha warrior. She has a sleek feminine athletic body in heavily detailed white and vibrant red battle-scarred armor with glowing red neon lines, exposed mechanical joints, pistons, hydraulic cables, and advanced sci-fi tech details. Helmet is glossy red with white "USA" text and glowing red visor. 
+
+Scene opens on a dramatic low-angle shot of her kneeling powerfully in a rainy cyberpunk megacity alley at night. Thick atmospheric red neon fog swirls around her, vertical red neon signs and holographic advertisements reflect on wet ground. Subtle sparks and electrical arcs flicker across her armor. 
+
+Slow cinematic camera movement: starts close on her helmet and glowing red visor, then steadily pulls back and orbits smoothly to the right while she rises from the kneeling position with powerful mechanical grace, servos whirring, rain droplets sliding off her armor. She stands tall in a heroic pose, head turning slightly as her visor brightens. Dynamic lighting with strong red neon rim lights, volumetric fog, lens flares, and subtle motion blur on moving parts. 
+
+Hyper-realistic textures, photorealistic materials, cinematic color grading, epic sci-fi atmosphere, cyberpunk aesthetic, next-gen Transformer design, flawless anatomy and mechanical detail, shot on Arri Alexa 65 + anamorphic lenses, 24fps, masterpiece quality.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/34d2655a9b7192a11e3c54a2d0b673d0/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Cyberpunk Mecha Warrior Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4556)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2053434232882733468) | **Published:** May 10, 2026
+
+---
+### Museum Gallery Tracking Shot
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for showcasing multiple images within a museum setting, featuring a tracking shot along a wall with spotlights illuminating framed artwork.
+
+#### 📝 Prompt
+
+```
+@image1 @image2 @image3 @image3 @image5 @image6 each inside a museum-quality frame, hung on a museum wall, each illuminated by its own spotlight. Track along museum wall to show the framed artwork. Do not animate inside picture frames.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/83fb74af3dd48f5064b52eaf5d14ba3f/thumbnails/thumbnail.jpg" width="600" alt="Museum Gallery Tracking Shot">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4555)**
+
+**Author:** [AI Aimee](https://x.com/RockGrokAI) | **Source:** [Link](https://x.com/RockGrokAI/status/2053405320689361401) | **Published:** May 10, 2026
+
+---
 ### Nữ chiến binh tương lai và con trong cánh đồng hoa
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -208,6 +350,66 @@ Hình ảnh điện ảnh về nữ chiến binh tương lai đang đứng bình
 **Author:** [DUST](https://x.com/Dustfinger2077) | **Source:** [Link](https://x.com/Dustfinger2077/status/2053379756540715378) | **Published:** May 10, 2026
 
 ---
+### Cyberpunk Robot Transformation Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed cinematic prompt for generating a high-quality video of a futuristic robot transforming in a dark, rain-slicked cyberpunk city featuring a female warrior character.
+
+#### 📝 Prompt
+
+```
+Cinematic 6-second photorealistic video, ultra-detailed 8K, next-level Transformers in a dark cyberpunk megacity at night. A massive, hyper-advanced transforming robot (sleek next-gen Optimus Prime inspired design) with glowing neon-blue and magenta energy lines, liquid metal panels, and holographic battle displays, dramatically transforms from a futuristic cyberpunk truck into a towering bipedal warrior mech in one fluid, powerful motion. Sparks, electrical arcs, and holographic data streams explode around it as the transformation completes.
+In the foreground, a beautiful female cyberpunk warrior in futuristic white-and-blue glowing armor (form-fitting, high-tech, with cat-ear helmet accents) stands confidently, holding a long ornate glowing magical staff that emits swirling cyan energy particles. She looks directly at the transforming robot with a calm, intense expression, long dark hair flowing in the wind.
+Heavy rain, volumetric neon lighting, flying cars and drones in the background, towering megastructures with holographic advertisements, thick fog and god rays cutting through the night. Cinematic camera movement: starts with a low-angle dramatic shot on the transforming robot, then smoothly orbits around both the mech and the female warrior while slowly pushing in. Dynamic lighting, lens flares, motion blur on fast-moving parts, film grain, anamorphic lens feel.
+Photorealistic, hyper-detailed, masterpiece, best quality, intricate mechanical details, reflective wet surfaces, perfect anatomy, epic sci-fi atmosphere, cyberpunk 2077 meets Transformers, 6 seconds duration, 24fps, cinematic color grading, directed by Denis Villeneuve.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6dd91946eb9e53f544da717d1c433c77/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Robot Transformation Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4560)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2053367744704503851) | **Published:** May 10, 2026
+
+---
+### Cinematic Couple Dancing in Rain
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed cinematic prompt for a romantic scene of a couple dancing slowly in heavy rain at midnight, emphasizing lighting, textures, and mood.
+
+#### 📝 Prompt
+
+```
+A passionately romantic cinematic scene of a young couple dancing slowly in heavy rain at midnight. The woman wears a flowing deep red dress, completely drenched, while the man in a black shirt holds her waist intensely. A single crimson rose is clenched in her hand, petals falling into puddles around them. Streetlights reflect golden light on the wet road. Their foreheads touch, eyes closed, breathing close, dramatic slow-motion atmosphere, ultra-realistic, emotional tension, moody lighting, shallow depth of field.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/562dff2019e68c1412e31ac0bc9a362f/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Couple Dancing in Rain">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4554)**
+
+**Author:** [Ayushi Srivastava](https://x.com/punkhuri1) | **Source:** [Link](https://x.com/punkhuri1/status/2053286275143332057) | **Published:** May 10, 2026
+
+---
+### Singing Anime Chibi Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt for an anime chibi character singing poetic lyrics in a sweet voice.
+
+#### 📝 Prompt
+
+```
+Singing in a sweet cute hypnotic voice: follow me to the stars and reach out for more than what truly makes celestial
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/68fbbcd01b3fbe8e3422142c72f70c0d/thumbnails/thumbnail.jpg" width="600" alt="Singing Anime Chibi Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4562)**
+
+**Author:** [Christina Mieloszyk](https://x.com/Stina_Lotus) | **Source:** [Link](https://x.com/Stina_Lotus/status/2053282713868595443) | **Published:** May 10, 2026
+
+---
 ### Các loài vật nhảy dù tại Vương quốc Kẹo ngọt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -220,11 +422,34 @@ Hình ảnh điện ảnh về nữ chiến binh tương lai đang đứng bình
 Một chú thỏ con và một chú chuột con đang nhảy dù xuống một vương quốc kỳ diệu được làm từ sushi và kẹo
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/47441ab40503e91f1c9367f8e6cecb9f/thumbnails/thumbnail.jpg" width="600" alt="Các loài vật nhảy dù tại Vương quốc Kẹo ngọt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/df44a56a54138fab991d13b333690ee3/thumbnails/thumbnail.jpg" width="600" alt="Các loài vật nhảy dù tại Vương quốc Kẹo ngọt">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4525)**
 
 **Author:** [ĐOGEARMY GENERAL](https://x.com/TheTeslaBull) | **Source:** [Link](https://x.com/TheTeslaBull/status/2053277900179206569) | **Published:** May 10, 2026
+
+---
+### Cyberpunk Warrior Armor Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed cinematic prompt for a sci-fi video featuring a cyberpunk warrior whose tactical suit transforms with mechanical precision in a rainy futuristic city.
+
+#### 📝 Prompt
+
+```
+Cinematic 6-second photorealistic video, ultra-detailed 8K, next-level sci-fi Transformers aesthetic. A stunning blonde female cyberpunk warrior in sleek black tactical armor with glowing hot-pink neon lines, hooded cloak dramatically flowing, half-face respirator mask, stands powerfully in the center of a dark futuristic city street at night. Rain is falling, neon reflections on wet ground.
+
+She activates her suit: advanced next-gen Transformers technology engages — her armor plates shift, unfold, and transform with mechanical precision and glowing energy. Metallic segments rapidly reconfigure from form-fitting tactical suit into full battle mode with shoulder cannons, extending blades, and hovering thrusters. Her cloak transforms into energy wings as pink neon pulses intensify.
+
+Dynamic camera movement: slow dramatic orbit combined with subtle dolly zoom, cinematic lighting with volumetric god rays, lens flares, and rain particles. Hyper-realistic textures, reflective wet armor, sparks and energy arcs during transformation. Moody cyberpunk atmosphere, intense yet elegant. Shot on IMAX 70mm, directed by Denis Villeneuve, photorealistic, masterpiece, best quality.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/97e83a4a8e0397d4406a1d828660a904/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Warrior Armor Transformation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4558)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2053266389440561478) | **Published:** May 10, 2026
 
 ---
 ### Khối thạch trên máy bay
@@ -1919,218 +2144,6 @@ Robot nhảy múa phong cách hoài cổ tương lai từ phim khoa học viễn
 **Author:** [Maria](https://x.com/NeuroPaletteArt) | **Source:** [Link](https://x.com/NeuroPaletteArt/status/2050623701415022915) | **Published:** May 2, 2026
 
 ---
-### Khóa góc nhìn cảnh hầm trú ẩn tĩnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video kỹ thuật để duy trì góc nhìn và khung hình camera nhất quán trong môi trường hầm trú ẩn.
-
-#### 📝 Prompt
-
-```
-KHÓA CẢNH: Chân máy tĩnh được khóa từ chính xác cùng một góc nhìn trong hầm trú ẩn, cùng khung hình, cùng cảm giác ống kính 35mm tự nhiên, chiều cao camera 1,6 mét, cùng ánh sáng hầm trú ẩn cân bằng ánh sáng ban ngày, cùng hình học, cùng các mốc: cửa chống nổ phía sau bên trái, tường bên phải...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7d9b799ac954faff72bf962809918c72/thumbnails/thumbnail.jpg" width="600" alt="Khóa góc nhìn cảnh hầm trú ẩn tĩnh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4079)**
-
-**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2050613288791380274) | **Published:** May 2, 2026
-
----
-### Bộ gợi ý tạo video Grok Imagine
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Bộ sưu tập các câu lệnh chất lượng cao dành cho chế độ Grok Imagine Agent, bao gồm trình diễn thời trang tương lai, chú mèo nhảy múa trong không gian, chụp ảnh sản phẩm và ASMR chợ đêm.
-
-#### 📝 Prompt
-
-```
-Một cô gái tóc đỏ mặc áo phông có logo Grok đang đi trên sàn catwalk tại một thành phố tương lai, ánh sáng điện ảnh.
-Một chú mèo cam béo đang nhảy múa trong trạm vũ trụ, hoạt ảnh dễ thương dài 15 giây.
-Chụp ảnh sản phẩm chuyên nghiệp trong studio cho các mặt hàng tùy chỉnh của bạn, chất lượng 4K.
-Phim ngắn ASMR về quầy đồ ăn chợ đêm Đài Loan vào đêm khuya.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/70a3fc3690f07cbbe5446a7adc45c6c2/thumbnails/thumbnail.jpg" width="600" alt="Bộ gợi ý tạo video Grok Imagine">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4088)**
-
-**Author:** [區塊先生 🐡 ⚠️ (rock #58)](https://x.com/mrblock) | **Source:** [Link](https://x.com/mrblock/status/2050608702932300143) | **Published:** May 2, 2026
-
----
-### Chân dung vĩnh cửu khảm vàng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt sống động và chi tiết mô tả một người phụ nữ với chiếc mũ khảm vàng phức tạp.
-
-#### 📝 Prompt
-
-```
-Một tác phẩm nghệ thuật sống động, giàu chi tiết về một người phụ nữ ở góc nghiêng, đang nhìn sang trái với đôi mắt nhắm nghiền. Cô ấy được trang trí bằng một chiếc vương miện hoặc mũ đội đầu bằng vàng tinh xảo, là một bức tranh khảm phức tạp gồm các hình xoắn ốc, đĩa và các hình khối trừu tượng bằng vàng, xen lẫn với những điểm nhấn màu đỏ và xanh lam. Một chiếc khuyên tai tròn bằng vàng với hoa văn cầu kỳ treo trên tai cô. Phần cổ và vai được mô tả với nền tối, gần như đen, được điểm xuyết lộng lẫy bằng vàng sáng và các yếu tố nhỏ, lấp lánh đầy màu sắc khác. Phông nền là một mảng vàng có kết cấu xoáy đồng nhất, tạo nên một thẩm mỹ vàng đầy ấn tượng.
-```
-
-<img src="https://cms-assets.youmind.com/media/1777795340231_qxj3s5_HHU4hteXMAAt9-X.jpg" width="600" alt="Chân dung vĩnh cửu khảm vàng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4083)**
-
-**Author:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **Source:** [Link](https://x.com/iamhappy2026/status/2050607510327828601) | **Published:** May 2, 2026
-
----
-### Hoạt hình phong cảnh 3D thu nhỏ về Ấn Độ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video đậm chất điện ảnh giúp biến bản đồ giấy phẳng của Ấn Độ thành một thế giới 3D thu nhỏ sống động, siêu thực, nổi bật với các địa danh mang tính biểu tượng và nhịp sống đô thị.
-
-#### 📝 Prompt
-
-```
-Cận cảnh bàn tay con người đang đặt một chiếc đinh ghim đầy màu sắc lên tấm bản đồ giấy rực rỡ thể hiện đất nước Ấn Độ. Từ 'INDIA' hiển thị rõ nét trên bản đồ. Khi chiếc đinh ghim được ấn xuống, tấm bản đồ rách ra như giấy bị xé đôi. Từ hình ảnh phẳng của đất nước, một phong cảnh 3D thu nhỏ của Ấn Độ trỗi dậy — Taj Mahal, Cổng Ấn Độ (Gateway of India), India Gate, Hawa Mahal, Qutub Minar, vùng nước lợ Kerala, các pháo đài sa mạc Rajasthan, những đỉnh núi tuyết Himalaya, cùng đường chân trời hiện đại của Mumbai và Delhi với cầu Bandra–Worli Sea Link. Những chiếc ô tô tí hon di chuyển trên các con phố rực rỡ, những chiếc thuyền trôi trên các dòng sông thu nhỏ, và những ngọn đèn cầu nguyện nhỏ bé trôi dọc theo sông Hằng. Những khinh khí cầu bay lên phía trên Jaipur. Toàn bộ mô hình thu nhỏ trông vô cùng siêu thực, sống động, kỳ ảo và đầy sức sống.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c5136abbb99d95eb7dfbc2b7dda05f13/thumbnails/thumbnail.jpg" width="600" alt="Hoạt hình phong cảnh 3D thu nhỏ về Ấn Độ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4077)**
-
-**Author:** [Zyrella](https://x.com/Zyrellix) | **Source:** [Link](https://x.com/Zyrellix/status/2050592199029797227) | **Published:** May 2, 2026
-
----
-### Âm nhạc BCI cho robot hình người
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt về robot hình người được kết nối với âm nhạc thông qua Giao diện Não - Máy tính (BCI).
-
-#### 📝 Prompt
-
-```
-Robot hình người kết nối với âm nhạc qua BCI, người nhận là Jammie Patterson, mang phong cách robot hình người
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/691e6f26fcc3882b6c1e7400432fd6d9/thumbnails/thumbnail.jpg" width="600" alt="Âm nhạc BCI cho robot hình người">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4084)**
-
-**Author:** [Jamie Patterson](https://x.com/JamiePa15029688) | **Source:** [Link](https://x.com/JamiePa15029688/status/2050580823863079025) | **Published:** May 2, 2026
-
----
-### Người phụ nữ mặc Kimono trong không gian mạng
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Một câu lệnh (prompt) đậm chất điện ảnh về người phụ nữ mặc kimono vàng giữa các vệ tinh Starlink và tên lửa Falcon 9, nổi bật với các dòng chữ kỹ thuật số phát sáng.
-
-#### 📝 Prompt
-
-```
-một người phụ nữ xinh đẹp mặc kimono Nhật Bản màu vàng trong không gian, xung quanh là các vệ tinh Starlink và tên lửa Falcon 9. Các chữ cái 'Grok' phát sáng theo phong cách kỹ thuật số. Góc máy đầy kịch tính.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b85c74d70544e1c9a931d5e8156c6cdc/thumbnails/thumbnail.jpg" width="600" alt="Người phụ nữ mặc Kimono trong không gian mạng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4089)**
-
-**Author:** [トマスのAI画像・動画研究所](https://x.com/thomasainya) | **Source:** [Link](https://x.com/thomasainya/status/2050574507933683777) | **Published:** May 2, 2026
-
----
-### Khung cảnh mộng mơ hoa mẫu đơn hồng phấn
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video đậm chất điện ảnh và lung linh, mô tả khoảnh khắc tĩnh lặng trôi giữa biển hoa mẫu đơn màu hồng.
-
-#### 📝 Prompt
-
-```
-Trôi giữa biển hoa mẫu đơn hồng phấn dịu nhẹ, đắm chìm trong một khoảnh khắc tĩnh lặng. Ánh sáng và những cánh hoa lung linh tựa như một giấc mơ đang dần tan biến.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/18d434543e8fe243d2db3788abb03d8c/thumbnails/thumbnail.jpg" width="600" alt="Khung cảnh mộng mơ hoa mẫu đơn hồng phấn">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4087)**
-
-**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2050568487433818502) | **Published:** May 2, 2026
-
----
-### Voi hồng phong cách Art Nouveau
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video đầy sáng tạo với hình ảnh chú voi hồng nhỏ bé trong bối cảnh công viên Art Nouveau cùng hiệu ứng ánh sáng đầy chất thơ.
-
-#### 📝 Prompt
-
-```
-Một chú voi hồng nhỏ bé đang làm chú chuột lớn sợ hãi trong công viên với những chiếc đèn Tiffany dọc lối đi theo phong cách Art Nouveau cùng hiệu ứng ánh sáng mờ ảo
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/04925d54eafef554927f803b26a38e94/thumbnails/thumbnail.jpg" width="600" alt="Voi hồng phong cách Art Nouveau">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4082)**
-
-**Author:** [Vicki Lyn Kesterson](https://x.com/KestersonVicki) | **Source:** [Link](https://x.com/KestersonVicki/status/2050565108116443259) | **Published:** May 2, 2026
-
----
-### Hành trình từ Dinh thự Gothic đến Ốc đảo Mùa xuân
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tường thuật đầy gợi cảm và chi tiết, đưa người xem vào một hành trình camera từ dinh thự Gothic u tối đến một ốc đảo Mùa xuân tươi sáng, rực rỡ.
-
-#### 📝 Prompt
-
-```
-Một bức chân dung sống động về một dinh thự chìm trong bóng tối. Khung cảnh đưa chúng ta, những khán giả, cùng tham gia vào hành trình này. Đầu tiên, cánh cửa của Dinh thự Gothic từ từ tự mở ra. Bên trong, với camera lia từ trái sang phải là những món đồ nội thất cổ kính của một thời đại xa xưa. Nội thất kiểu Victoria bị bao phủ trong bóng tối. Những tấm thảm nhung sang trọng nhuốm màu đen của không gian xung quanh. Những ô cửa sổ lớn với rèm cửa thêu hoa văn dày đặc trang trí cho từng ô kính và không để ánh sáng lọt vào phòng ngoại trừ ánh sáng kỳ ảo của Mặt Trăng. Tiếng gió hú không ngớt vang lên. Camera theo dõi chuyến bay lên lầu trong chuyển động chậm và dọc theo một hành lang dài đầy đáng sợ. Ở cuối hành lang là một cánh cửa đồng khổng lồ. Một người phụ nữ mặc áo choàng nhung dài màu xanh lam với khăn che mặt mở cửa. Cánh cửa mở ra một khung cảnh Mùa xuân, những cánh đồng xanh tươi tốt và một ốc đảo xanh tràn ngập hoa. Những dòng suối chảy róc rách và những hàng cây lay động trong gió, nở rộ rực rỡ dưới ánh sáng chói chang của Mặt Trời hùng vĩ. Hoa có ở khắp mọi nơi. Người phụ nữ nhìn xung quanh, ngắm nhìn vẻ đẹp phong cảnh của vùng đất được bao quanh bởi những đám mây bông, đắm mình trong ánh sáng của Mặt Trời. Cô ấy mỉm cười. Ánh sáng khuếch tán u ám, ánh sáng đắm chìm, hiệu ứng slow dolly-in, xử lý ống kính 85 mm, ánh sáng thể tích, hiệu ứng thị sai, hiệu ứng phát sáng, chuyển cảnh cross fade, đầu ra độ phân giải cao, tạo âm thanh gốc, mô phỏng vật lý, --ar 16:9, không khí Gothic, tâm trạng "Jane Eyre", giai điệu nhẹ nhàng phong cách Debussy. Không lời thoại, không văn bản.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3c14ec2a26ff2a4b5adc7f921652c3a/thumbnails/thumbnail.jpg" width="600" alt="Hành trình từ Dinh thự Gothic đến Ốc đảo Mùa xuân">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4080)**
-
-**Author:** [Kim Maria](https://x.com/KimMari46054539) | **Source:** [Link](https://x.com/KimMari46054539/status/2050523663099736147) | **Published:** May 2, 2026
-
----
-### Cô gái cuối cùng và những người hầu Android
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Một câu lệnh video tường thuật chi tiết mô tả cô gái loài người cuối cùng trong một thế giới hậu tận thế tĩnh lặng, được chăm sóc bởi những robot android giống con người.
-
-#### 📝 Prompt
-
-```
-Cô gái xinh đẹp cuối cùng của nhân loại đang sống trong một thế giới hậu tận thế; một thế giới nơi nhân loại đã biến mất nhưng các tòa nhà và cơ sở vật chất vẫn còn gần như nguyên vẹn, và những robot android giống con người đang chăm sóc cũng như hỗ trợ cuộc sống hàng ngày của cô gái.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dd260a178a9839c2c54b9936d44dfc96/thumbnails/thumbnail.jpg" width="600" alt="Cô gái cuối cùng và những người hầu Android">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4091)**
-
-**Author:** [S.T.O](https://x.com/dhT1mlkOvovxVE4) | **Source:** [Link](https://x.com/dhT1mlkOvovxVE4/status/2050516168214249547) | **Published:** May 2, 2026
-
----
-### Hoạt ảnh Bảng màu Thần kinh Hỗn loạn
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh mô tả chi tiết cho video trừu tượng, hỗn loạn với các dải màu xoáy, hình ảnh mạng thần kinh và thẩm mỹ màu nước vũ trụ.
-
-#### 📝 Prompt
-
-```
-Sản phẩm AI tạo sinh hỗn loạn đầu tiên, các dải màu xoáy lộn xộn, những hình khối đứt gãy và mảnh vỡ cảm xúc trôi nổi trong không gian tối, mạng thần kinh sơ khai mờ ảo, thô sơ và đầy biến động, cảm giác hậu trường, thẩm mỹ Neuro Palette, màu nước vũ trụ kết hợp kỹ thuật số...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5d4eea162cab45b8f819e25f51d724cd/thumbnails/thumbnail.jpg" width="600" alt="Hoạt ảnh Bảng màu Thần kinh Hỗn loạn">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4073)**
-
-**Author:** [Maria](https://x.com/NeuroPaletteArt) | **Source:** [Link](https://x.com/NeuroPaletteArt/status/2050495053898862907) | **Published:** May 2, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2192,6 +2205,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-11T04:05:34.301Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-11T11:32:36.978Z</sub>
 
 </div>

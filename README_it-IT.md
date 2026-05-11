@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1451** |
+| 📝 Total Prompts | **1462** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-11** |
 
@@ -189,6 +189,148 @@ Una mistica e nobile Valchiria celestiale, una donna dignitosa e bellissima con 
 
 > 📝 Sorted by publish date (newest first)
 
+### Kids and Deer in Meadow
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A heartwarming video prompt featuring children playing with deer in a sunlit forest meadow.
+
+#### 📝 Prompt
+
+```
+kids joyfully playing with gentle deer in a sunlit forest clearing laughter echoing, tails wagging, and hearts full of wonder
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1e953ff17ed665ea97099d21f6c68106/thumbnails/thumbnail.jpg" width="600" alt="Kids and Deer in Meadow">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4563)**
+
+**Author:** [Love Web3 World](https://x.com/WebThreeAI) | **Source:** [Link](https://x.com/WebThreeAI/status/2053710849521664006) | **Published:** May 11, 2026
+
+---
+### Come Here Finger Gesture Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed instruction for generating a hand gesture animation where an index finger beckons someone to come closer, designed for image-to-video generation.
+
+#### 📝 Prompt
+
+```
+Her gesture is performed as follows:
+(1) Her hand is held with the palm facing upward  (toward the body). 
+(2) The index (fore) finger is extended while the other fingers are clenched inward like a fist. 
+(3) Then the index finger is repeatedly curled inward and extended outward in a hooking motion. Indicating come here and come closer.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3dc790d96dacc64016b3a882c509cb55/thumbnails/thumbnail.jpg" width="600" alt="Come Here Finger Gesture Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4561)**
+
+**Author:** [Ash](https://x.com/asheem01) | **Source:** [Link](https://x.com/asheem01/status/2053664506941735152) | **Published:** May 11, 2026
+
+---
+### Rotating Image Sculpture Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An image-to-video prompt that instructs the model to transform the content of an image into a rotating 3D sculpture within a black frame.
+
+#### 📝 Prompt
+
+```
+Rotate on vertical ax this image inside a black background frame, not the frame, the content to be transformed into a sculpture with exactly the number of shapes hereusing this shapes and colors
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a4a441fda97b52e954842bec929d7c5a/thumbnails/thumbnail.jpg" width="600" alt="Rotating Image Sculpture Transformation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4559)**
+
+**Author:** [Ember Art](https://x.com/Ember8184Art) | **Source:** [Link](https://x.com/Ember8184Art/status/2053521107911614675) | **Published:** May 10, 2026
+
+---
+### AI Companion Ani French Salon Discussion
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A detailed prompt for generating a video of an AI companion named Ani, featuring specific fashion and character traits, while she engages in a political discussion in a French salon setting.
+
+#### 📝 Prompt
+
+```
+AI companion Ani (blonde hair, twin tails, sapphire blue eyes, age 22, intelligent and mischievous atmosphere, wearing mode-style clothes selected at a stylish second-hand shop in Shimokitazawa) eating cheese fondue while having a political discussion about French salon culture in French.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/99b277212c0172b6d15f62cf22fca34f/thumbnails/thumbnail.jpg" width="600" alt="AI Companion Ani French Salon Discussion">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4564)**
+
+**Author:** [Aniの日常](https://x.com/tarohinomo78040) | **Source:** [Link](https://x.com/tarohinomo78040/status/2053494947970789656) | **Published:** May 10, 2026
+
+---
+### Psychedelic Mountain Bike POV
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An intense POV video prompt of mountain biking down a forest trail with rapidly shifting psychedelic and cosmic visual styles.
+
+#### 📝 Prompt
+
+```
+An exhilarating POV video of riding a mountain bike at extreme speed down a winding forest trail. The visual style is intensely psychedelic and surreal. The entire scene rapidly transforms and pulsates, shifting between a hyper-stylized autumn forest with golden light trails and a dark, cosmic environment filled with vibrant kaleidoscopic neon lights, sparkling stars, and fractal patterns. The rider's hands and handlebars are visible in the foreground, reflecting the shifting, hallucinatory colors of the surroundings. The camera is dynamic and shaky, conveying a sense of intense speed and a dreamlike, trippy experience.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3ee92a2191bbc943dfefb4b5a0d20eea/thumbnails/thumbnail.jpg" width="600" alt="Psychedelic Mountain Bike POV">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4557)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2053467292823126466) | **Published:** May 10, 2026
+
+---
+### Cinematic Cyberpunk Mecha Warrior Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed cinematic prompt for generating a 6-second video of a female cyberpunk mecha warrior in a rainy city, featuring complex mechanical details and dramatic lighting.
+
+#### 📝 Prompt
+
+```
+Cinematic photorealistic 6-second video, 4K, ultra-detailed, next-level Transformers-style female cyberpunk mecha warrior. She has a sleek feminine athletic body in heavily detailed white and vibrant red battle-scarred armor with glowing red neon lines, exposed mechanical joints, pistons, hydraulic cables, and advanced sci-fi tech details. Helmet is glossy red with white "USA" text and glowing red visor. 
+
+Scene opens on a dramatic low-angle shot of her kneeling powerfully in a rainy cyberpunk megacity alley at night. Thick atmospheric red neon fog swirls around her, vertical red neon signs and holographic advertisements reflect on wet ground. Subtle sparks and electrical arcs flicker across her armor. 
+
+Slow cinematic camera movement: starts close on her helmet and glowing red visor, then steadily pulls back and orbits smoothly to the right while she rises from the kneeling position with powerful mechanical grace, servos whirring, rain droplets sliding off her armor. She stands tall in a heroic pose, head turning slightly as her visor brightens. Dynamic lighting with strong red neon rim lights, volumetric fog, lens flares, and subtle motion blur on moving parts. 
+
+Hyper-realistic textures, photorealistic materials, cinematic color grading, epic sci-fi atmosphere, cyberpunk aesthetic, next-gen Transformer design, flawless anatomy and mechanical detail, shot on Arri Alexa 65 + anamorphic lenses, 24fps, masterpiece quality.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/34d2655a9b7192a11e3c54a2d0b673d0/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Cyberpunk Mecha Warrior Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4556)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2053434232882733468) | **Published:** May 10, 2026
+
+---
+### Museum Gallery Tracking Shot
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for showcasing multiple images within a museum setting, featuring a tracking shot along a wall with spotlights illuminating framed artwork.
+
+#### 📝 Prompt
+
+```
+@image1 @image2 @image3 @image3 @image5 @image6 each inside a museum-quality frame, hung on a museum wall, each illuminated by its own spotlight. Track along museum wall to show the framed artwork. Do not animate inside picture frames.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/83fb74af3dd48f5064b52eaf5d14ba3f/thumbnails/thumbnail.jpg" width="600" alt="Museum Gallery Tracking Shot">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4555)**
+
+**Author:** [AI Aimee](https://x.com/RockGrokAI) | **Source:** [Link](https://x.com/RockGrokAI/status/2053405320689361401) | **Published:** May 10, 2026
+
+---
 ### Guerriera futuristica con bambino in un campo di fiori
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -208,6 +350,66 @@ Guerriera futuristica cinematografica in piedi in un vasto campo di fiori primav
 **Author:** [DUST](https://x.com/Dustfinger2077) | **Source:** [Link](https://x.com/Dustfinger2077/status/2053379756540715378) | **Published:** May 10, 2026
 
 ---
+### Cyberpunk Robot Transformation Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed cinematic prompt for generating a high-quality video of a futuristic robot transforming in a dark, rain-slicked cyberpunk city featuring a female warrior character.
+
+#### 📝 Prompt
+
+```
+Cinematic 6-second photorealistic video, ultra-detailed 8K, next-level Transformers in a dark cyberpunk megacity at night. A massive, hyper-advanced transforming robot (sleek next-gen Optimus Prime inspired design) with glowing neon-blue and magenta energy lines, liquid metal panels, and holographic battle displays, dramatically transforms from a futuristic cyberpunk truck into a towering bipedal warrior mech in one fluid, powerful motion. Sparks, electrical arcs, and holographic data streams explode around it as the transformation completes.
+In the foreground, a beautiful female cyberpunk warrior in futuristic white-and-blue glowing armor (form-fitting, high-tech, with cat-ear helmet accents) stands confidently, holding a long ornate glowing magical staff that emits swirling cyan energy particles. She looks directly at the transforming robot with a calm, intense expression, long dark hair flowing in the wind.
+Heavy rain, volumetric neon lighting, flying cars and drones in the background, towering megastructures with holographic advertisements, thick fog and god rays cutting through the night. Cinematic camera movement: starts with a low-angle dramatic shot on the transforming robot, then smoothly orbits around both the mech and the female warrior while slowly pushing in. Dynamic lighting, lens flares, motion blur on fast-moving parts, film grain, anamorphic lens feel.
+Photorealistic, hyper-detailed, masterpiece, best quality, intricate mechanical details, reflective wet surfaces, perfect anatomy, epic sci-fi atmosphere, cyberpunk 2077 meets Transformers, 6 seconds duration, 24fps, cinematic color grading, directed by Denis Villeneuve.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6dd91946eb9e53f544da717d1c433c77/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Robot Transformation Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4560)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2053367744704503851) | **Published:** May 10, 2026
+
+---
+### Cinematic Couple Dancing in Rain
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed cinematic prompt for a romantic scene of a couple dancing slowly in heavy rain at midnight, emphasizing lighting, textures, and mood.
+
+#### 📝 Prompt
+
+```
+A passionately romantic cinematic scene of a young couple dancing slowly in heavy rain at midnight. The woman wears a flowing deep red dress, completely drenched, while the man in a black shirt holds her waist intensely. A single crimson rose is clenched in her hand, petals falling into puddles around them. Streetlights reflect golden light on the wet road. Their foreheads touch, eyes closed, breathing close, dramatic slow-motion atmosphere, ultra-realistic, emotional tension, moody lighting, shallow depth of field.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/562dff2019e68c1412e31ac0bc9a362f/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Couple Dancing in Rain">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4554)**
+
+**Author:** [Ayushi Srivastava](https://x.com/punkhuri1) | **Source:** [Link](https://x.com/punkhuri1/status/2053286275143332057) | **Published:** May 10, 2026
+
+---
+### Singing Anime Chibi Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt for an anime chibi character singing poetic lyrics in a sweet voice.
+
+#### 📝 Prompt
+
+```
+Singing in a sweet cute hypnotic voice: follow me to the stars and reach out for more than what truly makes celestial
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/68fbbcd01b3fbe8e3422142c72f70c0d/thumbnails/thumbnail.jpg" width="600" alt="Singing Anime Chibi Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4562)**
+
+**Author:** [Christina Mieloszyk](https://x.com/Stina_Lotus) | **Source:** [Link](https://x.com/Stina_Lotus/status/2053282713868595443) | **Published:** May 10, 2026
+
+---
 ### Animali che fanno paracadutismo nel Regno delle Caramelle
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -220,11 +422,34 @@ Guerriera futuristica cinematografica in piedi in un vasto campo di fiori primav
 Un coniglietto e un topolino che fanno paracadutismo in un regno magico fatto di sushi e caramelle
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/47441ab40503e91f1c9367f8e6cecb9f/thumbnails/thumbnail.jpg" width="600" alt="Animali che fanno paracadutismo nel Regno delle Caramelle">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/df44a56a54138fab991d13b333690ee3/thumbnails/thumbnail.jpg" width="600" alt="Animali che fanno paracadutismo nel Regno delle Caramelle">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4525)**
 
 **Author:** [ĐOGEARMY GENERAL](https://x.com/TheTeslaBull) | **Source:** [Link](https://x.com/TheTeslaBull/status/2053277900179206569) | **Published:** May 10, 2026
+
+---
+### Cyberpunk Warrior Armor Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed cinematic prompt for a sci-fi video featuring a cyberpunk warrior whose tactical suit transforms with mechanical precision in a rainy futuristic city.
+
+#### 📝 Prompt
+
+```
+Cinematic 6-second photorealistic video, ultra-detailed 8K, next-level sci-fi Transformers aesthetic. A stunning blonde female cyberpunk warrior in sleek black tactical armor with glowing hot-pink neon lines, hooded cloak dramatically flowing, half-face respirator mask, stands powerfully in the center of a dark futuristic city street at night. Rain is falling, neon reflections on wet ground.
+
+She activates her suit: advanced next-gen Transformers technology engages — her armor plates shift, unfold, and transform with mechanical precision and glowing energy. Metallic segments rapidly reconfigure from form-fitting tactical suit into full battle mode with shoulder cannons, extending blades, and hovering thrusters. Her cloak transforms into energy wings as pink neon pulses intensify.
+
+Dynamic camera movement: slow dramatic orbit combined with subtle dolly zoom, cinematic lighting with volumetric god rays, lens flares, and rain particles. Hyper-realistic textures, reflective wet armor, sparks and energy arcs during transformation. Moody cyberpunk atmosphere, intense yet elegant. Shot on IMAX 70mm, directed by Denis Villeneuve, photorealistic, masterpiece, best quality.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/97e83a4a8e0397d4406a1d828660a904/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Warrior Armor Transformation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4558)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2053266389440561478) | **Published:** May 10, 2026
 
 ---
 ### Blob gelatinoso su un aereo
@@ -1919,218 +2144,6 @@ Robot ballerino retro-futuristico in stile fantascienza anni '80, corpo cromato 
 **Author:** [Maria](https://x.com/NeuroPaletteArt) | **Source:** [Link](https://x.com/NeuroPaletteArt/status/2050623701415022915) | **Published:** May 2, 2026
 
 ---
-### Blocco scena: visuale statica dal bunker
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video tecnico per mantenere una prospettiva e un'inquadratura coerenti all'interno di un ambiente bunker.
-
-#### 📝 Prompt
-
-```
-BLOCCO SCENA: Treppiede statico bloccato esattamente dalla stessa visuale del bunker, stessa inquadratura, stessa sensazione naturale di un obiettivo 35mm, altezza fotocamera 1,6 metri, stessa illuminazione del bunker bilanciata alla luce diurna, stessa geometria, stessi punti di riferimento: porta blindata posteriore sinistra, sorveglianza parete destra...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7d9b799ac954faff72bf962809918c72/thumbnails/thumbnail.jpg" width="600" alt="Blocco scena: visuale statica dal bunker">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4079)**
-
-**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2050613288791380274) | **Published:** May 2, 2026
-
----
-### Pacchetto di prompt per la generazione video con Grok Imagine
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Una raccolta di prompt di alta qualità per la modalità Agente di Grok Imagine, che include una sfilata di moda futuristica, un gatto spaziale che balla, fotografia di prodotto e ASMR in un mercato notturno.
-
-#### 📝 Prompt
-
-```
-Una ragazza dai capelli rossi che indossa una maglietta con il logo Grok mentre sfila su una passerella in una città futuristica, illuminazione cinematografica.
-Un gatto arancione cicciottello che balla in una stazione spaziale, animazione carina di 15 secondi.
-Fotografia di prodotto professionale in studio per i tuoi articoli personalizzati, qualità 4K.
-Cortometraggio ASMR a tarda notte in una bancarella di cibo in un mercato notturno di Taiwan.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/70a3fc3690f07cbbe5446a7adc45c6c2/thumbnails/thumbnail.jpg" width="600" alt="Pacchetto di prompt per la generazione video con Grok Imagine">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4088)**
-
-**Author:** [區塊先生 🐡 ⚠️ (rock #58)](https://x.com/mrblock) | **Source:** [Link](https://x.com/mrblock/status/2050608702932300143) | **Published:** May 2, 2026
-
----
-### Ritratto Eterno a Mosaico Dorato
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video vivace e dettagliato che ritrae una donna con un complesso copricapo a mosaico dorato.
-
-#### 📝 Prompt
-
-```
-Un'opera d'arte vivace e ricca di dettagli di una donna di profilo, che guarda a sinistra con gli occhi chiusi; è adornata con un'elaborata corona o copricapo dorato che consiste in un complesso mosaico di spirali, dischi e forme astratte dorate, intervallate da tocchi di rosso e blu. Un orecchino circolare d'oro, sostanzioso e finemente lavorato, pende dal suo orecchio. La zona del collo e delle spalle è raffigurata con una base scura, quasi nera, riccamente punteggiata di oro brillante e altri piccoli elementi simili a glitter colorati. Lo sfondo è un campo solido di oro vorticoso e materico, che crea un'estetica dorata unificata.
-```
-
-<img src="https://cms-assets.youmind.com/media/1777795340231_qxj3s5_HHU4hteXMAAt9-X.jpg" width="600" alt="Ritratto Eterno a Mosaico Dorato">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4083)**
-
-**Author:** [✨AI Art Fun✨](https://x.com/iamhappy2026) | **Source:** [Link](https://x.com/iamhappy2026/status/2050607510327828601) | **Published:** May 2, 2026
-
----
-### Animazione 3D in miniatura del paesaggio dell'India
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video cinematografico che trasforma una mappa cartacea piatta dell'India in un vibrante mondo 3D in miniatura, iper-realistico, caratterizzato da monumenti iconici e vita urbana.
-
-#### 📝 Prompt
-
-```
-Primo piano di una mano umana che posiziona una puntina colorata su una mappa cartacea dai colori vivaci che mostra l'India. La parola 'INDIA' è chiaramente visibile sulla mappa. Quando la puntina viene premuta, la mappa si strappa come carta che si divide. Dall'immagine piatta del paese, emerge un paesaggio 3D in miniatura dell'India: il Taj Mahal, il Gateway of India, l'India Gate, l'Hawa Mahal, il Qutub Minar, le backwaters del Kerala, i ghat di Varanasi, i forti del deserto del Rajasthan, le cime innevate dell'Himalaya e lo skyline moderno di Mumbai e Delhi con il Bandra-Worli Sea Link. Piccole auto si muovono lungo strade cittadine illuminate, barche galleggiano su fiumi in miniatura e piccole lampade votive fluttuano lungo il Gange. Mongolfiere si alzano sopra Jaipur. L'intera miniatura appare iper-realistica, vibrante, magica e viva.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c5136abbb99d95eb7dfbc2b7dda05f13/thumbnails/thumbnail.jpg" width="600" alt="Animazione 3D in miniatura del paesaggio dell'India">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4077)**
-
-**Author:** [Zyrella](https://x.com/Zyrellix) | **Source:** [Link](https://x.com/Zyrellix/status/2050592199029797227) | **Published:** May 2, 2026
-
----
-### Musica per robot umanoide con BCI
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video per un robot umanoide connesso alla musica tramite un'interfaccia cervello-computer (BCI).
-
-#### 📝 Prompt
-
-```
-Robot umanoide connesso alla musica tramite BCI, destinatario Jammie Patterson, vibrazioni umanoidi
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/691e6f26fcc3882b6c1e7400432fd6d9/thumbnails/thumbnail.jpg" width="600" alt="Musica per robot umanoide con BCI">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4084)**
-
-**Author:** [Jamie Patterson](https://x.com/JamiePa15029688) | **Source:** [Link](https://x.com/JamiePa15029688/status/2050580823863079025) | **Published:** May 2, 2026
-
----
-### Donna in kimono nello spazio cibernetico
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt cinematografico che ritrae una donna in un kimono dorato tra i satelliti Starlink e i razzi Falcon 9, con testo cyber luminoso.
-
-#### 📝 Prompt
-
-```
-una bellissima donna che indossa un kimono giapponese dorato nello spazio, circondata da satelliti Starlink e un razzo Falcon 9. Le lettere 'Grok' brillano in uno stile cyber. Inquadratura drammatica.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b85c74d70544e1c9a931d5e8156c6cdc/thumbnails/thumbnail.jpg" width="600" alt="Donna in kimono nello spazio cibernetico">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4089)**
-
-**Author:** [トマスのAI画像・動画研究所](https://x.com/thomasainya) | **Source:** [Link](https://x.com/thomasainya/status/2050574507933683777) | **Published:** May 2, 2026
-
----
-### Paesaggio onirico di peonie rosa tenue
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video cinematografico e scintillante che ritrae una deriva attraverso un mare di peonie rosa in un momento di quiete.
-
-#### 📝 Prompt
-
-```
-Alla deriva in un mare di soffici peonie rosa, sospesi in un momento di quiete. La luce e i petali brillano come un sogno che svanisce.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/18d434543e8fe243d2db3788abb03d8c/thumbnails/thumbnail.jpg" width="600" alt="Paesaggio onirico di peonie rosa tenue">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4087)**
-
-**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2050568487433818502) | **Published:** May 2, 2026
-
----
-### Elefante rosa in stile Art Nouveau
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un estroso prompt per la generazione di video che ritrae un minuscolo elefante rosa in un parco in stile Art Nouveau con un'illuminazione suggestiva.
-
-#### 📝 Prompt
-
-```
-Un minuscolo elefante rosa che spaventa un grande topo in un parco con lampade Tiffany lungo un sentiero in stile Art Nouveau con un'illuminazione nebbiosa
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/04925d54eafef554927f803b26a38e94/thumbnails/thumbnail.jpg" width="600" alt="Elefante rosa in stile Art Nouveau">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4082)**
-
-**Author:** [Vicki Lyn Kesterson](https://x.com/KestersonVicki) | **Source:** [Link](https://x.com/KestersonVicki/status/2050565108116443259) | **Published:** May 2, 2026
-
----
-### Viaggio tra la Villa Gotica e l'Oasi Primaverile
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt narrativo evocativo e altamente dettagliato che accompagna lo spettatore in un viaggio cinematografico da una cupa villa gotica verso una luminosa e rigogliosa oasi primaverile.
-
-#### 📝 Prompt
-
-```
-Un ritratto vivente di una villa avvolta nell'oscurità. La scena ci accompagna, come spettatori, lungo il viaggio. Per prima cosa, lentamente, la porta della Villa Gotica si apre da sola. All'interno, con la telecamera che esegue una panoramica da sinistra a destra, si scorgono gli arredi antiquati di un tempo lontano. Mobili vittoriani avvolti nell'oscurità. Ricchi tappeti di velluto tinti dal nero dell'ambiente circostante. Grandi finestre con pesanti tende decorate adornano ogni vetrata, non lasciando entrare alcuna luce nella stanza se non il bagliore spettrale della Luna. Si può udire un vento ululante persistente. La telecamera segue il volo al piano di sopra in slow motion e lungo un corridoio lungo e inquietante. Alla fine del corridoio c'è un'enorme porta di ottone. Una donna vestita con una lunga tunica di velluto blu con un velo apre la porta. La porta si apre su una scena primaverile, campi verdi fertili e un'oasi verde piena di fiori. Ruscelli che scorrono e alberi mossi dal vento che sbocciano brillantemente sotto la luce ardente di un Sole maestoso. Ci sono fiori ovunque. La donna si guarda intorno ammirando la bellezza scenica di una terra circondata da nuvole di cotone bagnate dalla luce del Sole. Sorride. Luce diffusa e coperta, bagliore immersivo, slow dolly-in, trattamento con obiettivo 85 mm, illuminazione volumetrica, effetto parallasse, effetto bagliore, dissolvenza incrociata, output ad alta risoluzione, generazione audio nativa, simulazione fisica, --ar 16:9, atmosfera gotica, atmosfera alla "Jane Eyre", melodia delicata in stile Debussy. Nessun dialogo, nessun testo.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3c14ec2a26ff2a4b5adc7f921652c3a/thumbnails/thumbnail.jpg" width="600" alt="Viaggio tra la Villa Gotica e l'Oasi Primaverile">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4080)**
-
-**Author:** [Kim Maria](https://x.com/KimMari46054539) | **Source:** [Link](https://x.com/KimMari46054539/status/2050523663099736147) | **Published:** May 2, 2026
-
----
-### L'ultima ragazza e i servitori androidi
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt video narrativo dettagliato che ritrae l'ultima ragazza umana in un tranquillo mondo post-apocalittico, accudita da androidi dall'aspetto umano.
-
-#### 📝 Prompt
-
-```
-L'ultima bellissima ragazza dell'umanità che vive in un mondo post-apocalittico; un mondo in cui l'umanità è scomparsa ma gli edifici e le strutture rimangono quasi intatti, e androidi che somigliano agli umani si prendono cura della vita quotidiana della ragazza e la supportano.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dd260a178a9839c2c54b9936d44dfc96/thumbnails/thumbnail.jpg" width="600" alt="L'ultima ragazza e i servitori androidi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4091)**
-
-**Author:** [S.T.O](https://x.com/dhT1mlkOvovxVE4) | **Source:** [Link](https://x.com/dhT1mlkOvovxVE4/status/2050516168214249547) | **Published:** May 2, 2026
-
----
-### Animazione della palette neurale caotica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt altamente descrittivo per un video astratto e caotico caratterizzato da colori vorticosi, immagini di reti neurali ed estetica acquerello cosmica.
-
-#### 📝 Prompt
-
-```
-Prima generazione AI caotica, colori vorticosi disordinati, forme spezzate e frammenti emotivi che fluttuano nello spazio oscuro, prime reti neurali appena visibili, grezzo e turbolento, atmosfera dietro le quinte, estetica Neuro Palette, acquerello cosmico che incontra il digitale...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5d4eea162cab45b8f819e25f51d724cd/thumbnails/thumbnail.jpg" width="600" alt="Animazione della palette neurale caotica">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4073)**
-
-**Author:** [Maria](https://x.com/NeuroPaletteArt) | **Source:** [Link](https://x.com/NeuroPaletteArt/status/2050495053898862907) | **Published:** May 2, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2192,6 +2205,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-11T04:05:41.311Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-11T11:32:44.875Z</sub>
 
 </div>
