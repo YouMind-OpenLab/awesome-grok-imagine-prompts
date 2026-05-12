@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **1462** |
+| 📝 提示词总数 | **1477** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-05-12** |
 
@@ -189,6 +189,190 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 小袋尺寸微型小猫视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段关于超微型黑白小猫的高细节微距视频提示词，包含逼真的音频描述和 TikTok 风格审美。
+
+#### 📝 提示词
+
+```
+6 秒超逼真电影级微距视频，一只只有人类指尖大小的超微型黑白小猫站在人的手指上，柔软蓬松的毛发在微风中轻轻拂动，小猫好奇地四处张望，张开嘴发出可爱的“喵喵”声，小爪子自然地抓着皮肤，闪烁的大眼睛，逼真的胡须抽动，浅景深，温暖舒适的灯光，超细节的皮肤毛孔和毛发纹理，微距 DSLR 镜头质感，照片级真实感，情感充沛的可爱氛围，细腻的手持摄像机运动，柔和的背景虚化，逼真的动作，TikTok 可爱风审美。
+
+音频：
+可爱的 TikTok 风格卡哇伊背景音乐，伴有细小的铃铛声、柔和的尤克里里拨弦声、俏皮的钟声旋律，结合与嘴部动作同步的逼真小猫“喵喵”叫声，营造出舒适的 TikTok 病毒式传播氛围。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a55e551a0e43a7a50a23aad172f2c6bd/thumbnails/thumbnail.jpg" width="600" alt="小袋尺寸微型小猫视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4633)**
+
+**作者:** [🌸 Bubskyy 🌸](https://x.com/NyaiiBubu) | **来源:** [Link](https://x.com/NyaiiBubu/status/2054085958405062865) | **发布时间:** May 12, 2026
+
+---
+### 皮克斯风格：开心果树的故事
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个皮克斯动画风格的叙事提示词，讲述了一位角色和他那棵特别的开心果树的故事。
+
+#### 📝 提示词
+
+```
+采用皮克斯动画电影风格，讲述了一位古怪而坚定的角色——怀特豪斯博士（Dr. White House），他拥有一棵来自克尔曼（Kerman）的特别开心果树。泰坦尼克号式剪辑。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4dede4a15a50f1972a7c5d37ef4ddcea/thumbnails/thumbnail.jpg" width="600" alt="皮克斯风格：开心果树的故事">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4623)**
+
+**作者:** [piensaporti](https://x.com/Cyperpiens7011) | **来源:** [Link](https://x.com/Cyperpiens7011/status/2053972728500330590) | **发布时间:** May 11, 2026
+
+---
+### 古怪角色与开心果树
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个以角色为核心的提示词，讲述了 Dr. White House 对赌场中一棵开心果树的痴迷。
+
+#### 📝 提示词
+
+```
+Dr. White House 有一棵特别的开心果树，但他对这棵树的喜爱胜过生命，关于开心果树与赌场的故事
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/78d8b6a93d13b01c424b4bef3a0b30f3/thumbnails/thumbnail.jpg" width="600" alt="古怪角色与开心果树">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4626)**
+
+**作者:** [piensaporti](https://x.com/Cyperpiens7011) | **来源:** [Link](https://x.com/Cyperpiens7011/status/2053972544383037483) | **发布时间:** May 11, 2026
+
+---
+### 电影感情感痛苦提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 这是一份为 Grok Imagine 设计的高细节电影感提示词，侧重于光影、运镜以及强烈的表情表达，并包含具体的语音提示和日语对白。
+
+#### 📝 提示词
+
+```
+电影感紧凑特写，柔和写实光影，缓慢推镜头，浅景深。
+
+整个场景中，情感状态始终保持极低效价和极高唤醒度，营造出压倒性的内在张力、不稳定的情绪压力以及克制的心理痛苦。
+
+[character] 的呼吸不匀，眼神游离，面部肌肉持续紧绷且充满情感冲突。表演应呈现出表面克制但内心崩溃的状态。
+
+语音：
+紧绷的声线，不稳定的气息支撑，句末轻微颤抖，情感克制的表达。
+
+[character] 的对白：
+“I have been waiting for this for a long time.”
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4c9308482db15d1d1bb0b8e75cad15fd/thumbnails/thumbnail.jpg" width="600" alt="电影感情感痛苦提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4628)**
+
+**作者:** [Flenzy24](https://x.com/flenzy223) | **来源:** [Link](https://x.com/flenzy223/status/2053879474958057983) | **发布时间:** May 11, 2026
+
+---
+### 动画鹈鹕水彩画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 让一幅鹈鹕水彩画栩栩如生，使其降落在沙滩上并四处走动。
+
+#### 📝 提示词
+
+```
+让我的鹈鹕水彩画动起来。当鹈鹕降落在沙滩上后，让它四处走动一下。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c8ccb11aa982078fe6d9f3a8379f1c04/thumbnails/thumbnail.jpg" width="600" alt="动画鹈鹕水彩画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4629)**
+
+**作者:** [DebZ](https://x.com/DebZ6063) | **来源:** [Link](https://x.com/DebZ6063/status/2053867533510262965) | **发布时间:** May 11, 2026
+
+---
+### 未来感悬浮花园乌托邦
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用于生成一段宁静的未来感乌托邦视频的提示词，包含悬浮花园和雪山景观。
+
+#### 📝 提示词
+
+```
+一个宁静的未来感乌托邦，拥有悬浮花园、水晶湖泊和白雪皑皑的山脉。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8920e526bce9ca3331b00454f88286ab/thumbnails/thumbnail.jpg" width="600" alt="未来感悬浮花园乌托邦">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4634)**
+
+**作者:** [@ed](https://x.com/edneme) | **来源:** [Link](https://x.com/edneme/status/2053830601287844212) | **发布时间:** May 11, 2026
+
+---
+### 郊区住宅区无人机第一视角视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 生成一段以移轴摄影风格拍摄的、飞越郊区住宅区的电影级无人机视角视频。
+
+#### 📝 提示词
+
+```
+一架带有摄像头的无人机飞越郊区住宅区，无人机摄像头的 POV 视角，移轴摄影风格
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5ef49d30582f26195e73fcb9857279b6/thumbnails/thumbnail.jpg" width="600" alt="郊区住宅区无人机第一视角视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4622)**
+
+**作者:** [Gagaror](https://x.com/theRealGagaror) | **来源:** [Link](https://x.com/theRealGagaror/status/2053827953964839092) | **发布时间:** May 11, 2026
+
+---
+### 博物馆画廊追踪镜头
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一款专为 Grok Imagine 设计的电影级视频提示词，可生成沿着博物馆墙壁平滑移动的追踪镜头，并用聚光灯突出显示每一幅装裱好的画作。
+
+#### 📝 提示词
+
+```
+每一幅画都装在博物馆级的画框中，悬挂在博物馆的墙上，并由各自的聚光灯进行戏剧性的照明。以平视角度沿墙壁平滑移动，每幅画展示几秒钟。场景之间无淡入淡出效果
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/24f817c19e6cb72dc293e7876d23d434/thumbnails/thumbnail.jpg" width="600" alt="博物馆画廊追踪镜头">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4635)**
+
+**作者:** [AI Aimee](https://x.com/RockGrokAI) | **来源:** [Link](https://x.com/RockGrokAI/status/2053826199671984197) | **发布时间:** May 11, 2026
+
+---
+### 赛博龙族混合战士
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个关于赛博朋克工业工厂背景下赛博龙族战士的详尽电影级视频提示词。
+
+#### 📝 提示词
+
+```
+一段令人惊叹的 6 秒电影级写实视频，展现了一位震撼人心的赛博龙族混合女性战士，融合了顶级变形金刚设计与暗黑赛博朋克科幻风格。她拥有凶猛的生物机械龙首，配有错综复杂的金属鳞片、锋利的犄角、闪烁的深红色双眼，侧脸隐约可见人类女性的面部特征。她的身体完美融合了有机曲线与先进的赛博机械装甲，裸露的线路、发光的电路以及黑曜石黑、枪金属银和青铜色的爬行动物鳞片纹理清晰可见。她身穿一件优雅修长的黑色紧身礼服，细节处极具高级时装感，肩部、手臂和臀部巧妙地集成了龙鳞装甲。一条强壮的机械龙尾带有尖刺，在她身后摆动。她站在一座宏伟且充满氛围感的赛博朋克工业工厂内，姿态自信而富有戏剧性，周围悬挂着铁链，布满生锈的管道，火花四溅，霓虹灯光闪烁，体积光穿透浓雾。摄像机运动（6 秒）：开始时是一个缓慢而有力的全身环绕跟拍，从左向右移动。第 2 秒时，她缓慢地将头转向摄像机，红色双眼明亮闪烁。第 3.5 秒时，她有力地向前迈出一步，尾巴以机械般的精准度甩动，地面火花四溅。最后 2 秒：戏剧性的低角度英雄特写，她抬起利爪，能量在电路中脉动，伴随着强烈的电影级灯光和镜头光晕。超写实，8K 分辨率，超精细纹理，电影级调色，戏剧性轮廓光，忧郁的赛博朋克氛围，使用 Arri Alexa 65 搭配变形镜头拍摄，带有细腻的胶片颗粒感，细节无可挑剔，大师级品质，达到变形金刚级别的机械复杂度和真实感。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/37db13676e8ed27accc63ac1009ff7a5/thumbnails/thumbnail.jpg" width="600" alt="赛博龙族混合战士">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4627)**
+
+**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **来源:** [Link](https://x.com/ThoughCreator/status/2053736079375970441) | **发布时间:** May 11, 2026
+
+---
 ### Kids and Deer in Meadow
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -208,26 +392,150 @@ kids joyfully playing with gentle deer in a sunlit forest clearing laughter echo
 **作者:** [Love Web3 World](https://x.com/WebThreeAI) | **来源:** [Link](https://x.com/WebThreeAI/status/2053710849521664006) | **发布时间:** May 11, 2026
 
 ---
-### Come Here Finger Gesture Video Prompt
+### 中世纪双重曝光动画
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed instruction for generating a hand gesture animation where an index finger beckons someone to come closer, designed for image-to-video generation.
+> 一个复杂的视觉效果提示词，将中世纪情侣与城堡及彩色玻璃管风琴融合在一起。
+
+#### 📝 提示词
+
+```
+一幅中世纪男女情侣的双重曝光肖像，与宏伟的城堡无缝融合，城堡的轮廓融入了人物形态中。两人逐渐转化为精美的彩色玻璃窗，并与古典风格的管风琴（Orgel）完美交织。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bab2c93c07dd93f710ee0fd2f1d7b469/thumbnails/thumbnail.jpg" width="600" alt="中世纪双重曝光动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4631)**
+
+**作者:** [Carina](https://x.com/Freehere3) | **来源:** [Link](https://x.com/Freehere3/status/2053688075151192409) | **发布时间:** May 11, 2026
+
+---
+### 赛博朋克龙族战士变身
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段详细的电影级提示词，用于描述在未来工业场景中，女性赛博朋克龙族混血战士的高科技变身过程。
+
+#### 📝 提示词
+
+```
+电影级 6 秒照片级真实视频，超精细 8K 画质，顶级《变形金刚》风格赛博朋克科幻动作序列。
+
+一位强大的女性赛博朋克龙族混血战士（角色与参考图完全一致：美丽而凶猛的面容，闪烁着电光蓝的双眼，张嘴怒吼，头部带有精致的金属龙角和鳞片，长辫发型，巨大的机械龙翼）站在黑暗的未来工业工厂中，周围布满了高耸的管道、闪烁的霓虹灯、火花和浓重的蒸汽。
+
+她在一个流畅的高科技序列中进行戏剧性变身：她的装甲板像先进的《变形金刚》一样以机械精度移动并展开，显露出更复杂的生物机械细节、发光的能量线条，以及从肩部和手臂部署的武器系统。她巨大的翅膀伴随着强劲的风声完全展开，四散飞溅的火花和碎片。
+
+动态运镜：从戏剧性的低角度全身镜头开始，随后在镜头平滑环绕的同时，她发出怒吼并蓄力，明亮的蓝色能量在她的套装中脉动。爆炸性的粒子特效，穿透烟雾的体积光（God rays），深邃阴影与青橙色调的强烈电影级布光。
+
+金属、鳞片和皮肤的超写实纹理，流畅的动作，24fps，好莱坞大片质感，导演风格参考 Denis Villeneuve 的科幻电影，史诗般激烈的氛围，无文字，无缝循环的变身动作。
+
+--ar 16:9 --stylize 750 --v 6
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b21ae69918a56edb16129386d48d9afd/thumbnails/thumbnail.jpg" width="600" alt="赛博朋克龙族战士变身">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4632)**
+
+**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **来源:** [Link](https://x.com/ThoughCreator/status/2053665980275159135) | **发布时间:** May 11, 2026
+
+---
+### Beckoning Hand Gesture Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A technical prompt designed for generating a realistic beckoning hand gesture, providing step-by-step instructions for finger movement and hand positioning in video generation.
 
 #### 📝 提示词
 
 ```
 Her gesture is performed as follows:
-(1) Her hand is held with the palm facing upward  (toward the body). 
+(1) Her hand is held with the palm facing upward (toward the body). 
 (2) The index (fore) finger is extended while the other fingers are clenched inward like a fist. 
 (3) Then the index finger is repeatedly curled inward and extended outward in a hooking motion. Indicating come here and come closer.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3dc790d96dacc64016b3a882c509cb55/thumbnails/thumbnail.jpg" width="600" alt="Come Here Finger Gesture Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c746c5955e42bf38970c92f3743b8b25/thumbnails/thumbnail.jpg" width="600" alt="Beckoning Hand Gesture Animation">
 
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4561)**
 
 **作者:** [Ash](https://x.com/asheem01) | **来源:** [Link](https://x.com/asheem01/status/2053664506941735152) | **发布时间:** May 11, 2026
+
+---
+### 荷叶上的青蛙视频提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于生成视频的宁静提示词，描绘了豹纹蛙在荷塘环境中的荷叶上休憩的场景。
+
+#### 📝 提示词
+
+```
+两只豹纹蛙在池塘的荷叶上休憩，上方有棕榈叶遮蔽，周围环绕着荷花。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/83b6348ed64237c9187340e5004645e1/thumbnails/thumbnail.jpg" width="600" alt="荷叶上的青蛙视频提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4621)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2053653799773098346) | **发布时间:** May 11, 2026
+
+---
+### 海岸景观跳伞视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 捕捉了一位跳伞运动员在壮丽海岸线上空的画面，具有高对比度的光影效果和生动的海洋色彩。
+
+#### 📝 提示词
+
+```
+一位跳伞运动员 环境：位于壮丽海岸景观上方 10,000 英尺处，下方是崎岖的悬崖和深蓝色的海洋。强烈的明亮日光。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a7bde2989770de469fdb5fecab29460e/thumbnails/thumbnail.jpg" width="600" alt="海岸景观跳伞视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4624)**
+
+**作者:** [Sharon B 🔥Eternal Flame🔥 #uto](https://x.com/b_sharon62805) | **来源:** [Link](https://x.com/b_sharon62805/status/2053649274098130954) | **发布时间:** May 11, 2026
+
+---
+### 月光森林中的巨龙
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段高质量的电影级慢动作提示词，描绘了金色巨龙与紫色巨龙在魔法森林中温情互动的场景。
+
+#### 📝 提示词
+
+```
+电影级特写，慢动作视频。一只体型庞大、肌肉发达的金色巨龙，与一只身形修长、优雅且带有星光般生物发光鳞片的午夜紫色巨龙，正休憩于月光笼罩的魔法森林中。两只巨龙缓慢而温柔地将头靠近彼此。金色巨龙轻轻地蹭着紫色巨龙的颈部。它们的鳞片闪烁着光芒，映照出银色的月光。摄像机运动：静态镜头，镜头捕捉到鳞片下细微的肌肉起伏以及它们眼中柔和的琥珀色光芒。氛围与光影：背景采用柔焦效果，映衬着一轮巨大的满月。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8ed9d9d41f096429cc90306a18ac68e1/thumbnails/thumbnail.jpg" width="600" alt="月光森林中的巨龙">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4625)**
+
+**作者:** [auqib](https://x.com/auqibhabib) | **来源:** [Link](https://x.com/auqibhabib/status/2053639419266322623) | **发布时间:** May 11, 2026
+
+---
+### 火星之神战斗场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个史诗般的电影级提示词，描绘了一位火星神祇在流星雨和爆炸中穿行的场景。
+
+#### 📝 提示词
+
+```
+火星之神在画面中向前走，摄像机随之向后移动。他挥舞着手中的剑，动作充满攻击性；背景中，红色的天空、风暴和流星坠落在行星表面，伴随着阵阵爆炸。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bc5777014a9d0a04df7e0a8c4108d855/thumbnails/thumbnail.jpg" width="600" alt="火星之神战斗场景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4630)**
+
+**作者:** [Robadang ✏️ AI Artist](https://x.com/dang_machina) | **来源:** [Link](https://x.com/dang_machina/status/2053635757408166303) | **发布时间:** May 11, 2026
 
 ---
 ### Rotating Image Sculpture Transformation
@@ -287,11 +595,11 @@ An exhilarating POV video of riding a mountain bike at extreme speed down a wind
 **作者:** [Mr Das](https://x.com/MrDasOnX) | **来源:** [Link](https://x.com/MrDasOnX/status/2053467292823126466) | **发布时间:** May 10, 2026
 
 ---
-### Cinematic Cyberpunk Mecha Warrior Video
+### Cyberpunk Mecha Warrior Video Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed cinematic prompt for generating a 6-second video of a female cyberpunk mecha warrior in a rainy city, featuring complex mechanical details and dramatic lighting.
+> A detailed cinematic video prompt for generating a high-quality 6-second clip of a female cyberpunk warrior in battle-damaged red and white armor, kneeling in a rainy neon-lit alleyway.
 
 #### 📝 提示词
 
@@ -305,7 +613,7 @@ Slow cinematic camera movement: starts close on her helmet and glowing red visor
 Hyper-realistic textures, photorealistic materials, cinematic color grading, epic sci-fi atmosphere, cyberpunk aesthetic, next-gen Transformer design, flawless anatomy and mechanical detail, shot on Arri Alexa 65 + anamorphic lenses, 24fps, masterpiece quality.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/34d2655a9b7192a11e3c54a2d0b673d0/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Cyberpunk Mecha Warrior Video">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b105be846e0954cc5f96e8983e1cf876/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Mecha Warrior Video Prompt">
 
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4556)**
 
@@ -1849,301 +2157,6 @@ make 4 images of fractals, and then turn each into a video where the vibrant Spr
 **作者:** [AI Aimee](https://x.com/RockGrokAI) | **来源:** [Link](https://x.com/RockGrokAI/status/2050918327183093861) | **发布时间:** May 3, 2026
 
 ---
-### C-3PO Style Humanoid Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A material-focused video prompt that applies a droid-like skin texture to an existing shape.
-
-#### 📝 提示词
-
-```
-Can you keepnis dimensions and shape but add some c3po skin on arouns 70 percent of the surface
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/edf6fea9b5af3c77c74ca8eb9b5cd20e/thumbnails/thumbnail.jpg" width="600" alt="C-3PO Style Humanoid Transformation">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4135)**
-
-**作者:** [Special golden age Enmity](https://x.com/specialenmity) | **来源:** [Link](https://x.com/specialenmity/status/2050917868678586599) | **发布时间:** May 3, 2026
-
----
-### Glass Shard Beach Waves
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A surreal video prompt depicting beach waves composed of tinkling glass shards instead of water.
-
-#### 📝 提示词
-
-```
-Waves crash onto a beach, but the water is made of millions of glass shards that tinkle and chime instead of splashing
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/252f2c4d11ceb42cf797b03be2a3a8e6/thumbnails/thumbnail.jpg" width="600" alt="Glass Shard Beach Waves">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4150)**
-
-**作者:** [Bedi](https://x.com/zyvaoz) | **来源:** [Link](https://x.com/zyvaoz/status/2050914491907612729) | **发布时间:** May 3, 2026
-
----
-### Cyber Suit Anime Warrior
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An anime-style scene of a warrior woman in a cyber suit exploring a geometric sci-fi building.
-
-#### 📝 提示词
-
-```
-A building with a geometric pattern super structure, inside which a beautiful anime-style warrior woman in a cyber suit with slightly high exposure wanders, exploring in a sci-fi hard-boiled adventure.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8dc7e00aa41e4a78044af7c4def7576/thumbnails/thumbnail.jpg" width="600" alt="Cyber Suit Anime Warrior">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4132)**
-
-**作者:** [S.T.O](https://x.com/dhT1mlkOvovxVE4) | **来源:** [Link](https://x.com/dhT1mlkOvovxVE4/status/2050882007828431354) | **发布时间:** May 3, 2026
-
----
-### Girl Hugging Pink Dragon in Clouds
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed 14-second vertical video prompt showing an 8-year-old girl hugging a majestic pink dragon in a fantasy sky.
-
-#### 📝 提示词
-
-```
-Create a dreamy, ultra-realistic 14-second vertical video in a magical fantasy style, 8K resolution, soft cinematic lighting with golden hour sun rays and subtle lens flares. A beautiful 8-year-old blonde girl with long flowing hair, big sparkling blue eyes, rosy cheeks, and a gentle happy expression is floating among fluffy white clouds in a bright blue sky. She is wearing a shiny pink satin bomber jacket with white stripes and intricate golden-pink dragon embroidery on the sleeves and chest. She is lovingly hugging a massive, majestic pink dragon that has highly detailed iridescent pink scales, large elegant white horns, golden-yellow eyes with long lashes, and a gentle friendly face. The scene starts with the girl resting her head on the dragon’s neck, smiling softly with eyes half-closed in pure joy. The dragon slowly turns its head toward the camera, opens its mouth, and gently breathes a swirling cloud of sparkling pink smoke that drifts across the frame. The girl looks up at the dragon with adoration, her smile widening into a radiant, joyful laugh. At the end (11-14 seconds), she opens her mouth as if singing happily while the dragon gently nuzzles her. Subtle soft movements: hair and jacket fabric flowing in the wind, gentle cloud drift, magical glowing particles in the air. Photorealistic yet fantastical style, vibrant pastel pink color palette, extremely detailed textures on scales and satin fabric, emotional and heartwarming atmosphere, perfect composition, masterpiece, best quality.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a75f8ef426578b6d432fcd4ef688c148/thumbnails/thumbnail.jpg" width="600" alt="Girl Hugging Pink Dragon in Clouds">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4130)**
-
-**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **来源:** [Link](https://x.com/ThoughCreator/status/2050831911514517561) | **发布时间:** May 3, 2026
-
----
-### Cosmic Unseen Realms
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A majestic video prompt depicting floating islands, molten fury domains, and the infinite cosmic void.
-
-#### 📝 提示词
-
-```
-Behold the gateway to the unseen realms, floating islands in clouds,fiery domain of molten fury, and beyond the infinite cosmic void
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2314a754b1d0837327185bce41d69cb0/thumbnails/thumbnail.jpg" width="600" alt="Cosmic Unseen Realms">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4139)**
-
-**作者:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **来源:** [Link](https://x.com/TLouisevsughan/status/2050779217047208349) | **发布时间:** May 3, 2026
-
----
-### Shimmering Dragons on Ocean Beach
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt featuring red and blue shimmering dragons with their tails intertwined on a beach.
-
-#### 📝 提示词
-
-```
-Walking away from camera on ocean beach, Shimmering red dragon and shimmering blue dragon, tails together
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/132b38893da77369c1e9e4d48c5ead8f/thumbnails/thumbnail.jpg" width="600" alt="Shimmering Dragons on Ocean Beach">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4137)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2050774133911277781) | **发布时间:** May 3, 2026
-
----
-### Princess Castle Dance Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A character-focused video prompt that transforms a user's likeness into a dancing princess in a castle.
-
-#### 📝 提示词
-
-```
-Have me dancing like a princess and dressed like one in a castle but look more like me
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e892fb234a1d2585fedd20c713ba0a86/thumbnails/thumbnail.jpg" width="600" alt="Princess Castle Dance Transformation">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4134)**
-
-**作者:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **来源:** [Link](https://x.com/CindyWeigapn6/status/2050758499827642769) | **发布时间:** May 3, 2026
-
----
-### Cooking Pug Comedy Scene
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A comedic video prompt of a pug cooking in a kitchen, speaking Kansai dialect, and burning the food with expressive movements.
-
-#### 📝 提示词
-
-```
-A video of a pug cooking in a kitchen speaking Kansai dialect. Burning the food while saying with a smug face, 'This isn't cooking, it's an accident!' Expressive and human-like movement, emphasizing comedy.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2f03ce66df41bf5b76e414b937060942/thumbnails/thumbnail.jpg" width="600" alt="Cooking Pug Comedy Scene">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4152)**
-
-**作者:** [パグちゃん](https://x.com/saikun6626) | **来源:** [Link](https://x.com/saikun6626/status/2050752274193170440) | **发布时间:** May 3, 2026
-
----
-### Realistic Evening Vibe Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A descriptive prompt for generating a realistic video that captures the tranquil and atmospheric mood of an evening after a productive day of work.
-
-#### 📝 提示词
-
-```
-Make a video for realistic appeal, capturing the evening vibe after a day’s work.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e9e21646cd292e1922484ad92edd57b/thumbnails/thumbnail.jpg" width="600" alt="Realistic Evening Vibe Video">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4146)**
-
-**作者:** [Deepali Musk](https://x.com/deepalimusk) | **来源:** [Link](https://x.com/deepalimusk/status/2050738229310107806) | **发布时间:** May 3, 2026
-
----
-### Cinematic Samurai Japanese Visuals
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> High-fidelity cinematic prompt for high-quality Japanese-themed visuals featuring a samurai.
-
-#### 📝 提示词
-
-```
-16K, GROK Pro maximum fidelity, ultra cinematic, fine-art performance film, IMAX-grade visual density, extreme motion clarity, perfect temporal coherence, beautiful visuals using Japanese culture, Samurai
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e90d9f6268ae901899cfbfa2b5f5fc85/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Samurai Japanese Visuals">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4151)**
-
-**作者:** [S.T.O](https://x.com/dhT1mlkOvovxVE4) | **来源:** [Link](https://x.com/dhT1mlkOvovxVE4/status/2050734825112547751) | **发布时间:** May 3, 2026
-
----
-### 几何超结构城市飞行穿梭
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一个高精度的技术提示词，用于生成具有闪电特效的几何大都市的高保真、电影级第一人称飞行穿梭视频。
-
-#### 📝 提示词
-
-```
-16K，Grok Pro 最高保真度
-极致电影感，艺术级表现力影片
-IMAX 级视觉密度
-极高的运动清晰度
-完美的时间连贯性
-
-以高速穿梭于由几何超结构组成的巨大城市中的视频
-
-第一人称视角
-
-伴有闪电效果
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c2af7152f831a68ac8f0b93fc5bb1e8/thumbnails/thumbnail.jpg" width="600" alt="几何超结构城市飞行穿梭">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4090)**
-
-**作者:** [S.T.O](https://x.com/dhT1mlkOvovxVE4) | **来源:** [Link](https://x.com/dhT1mlkOvovxVE4/status/2050733892530012548) | **发布时间:** May 3, 2026
-
----
-### 超现实阶梯攀登
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个超现实且充满氛围感的提示词，描述了一个角色沿着楼梯攀登并进入消失的天花板。
-
-#### 📝 提示词
-
-```
-那天晚上她拾级而上……天花板竟凭空消失了。🌌🪜 你敢迈出最后一步吗？👀
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3f85c4daf414e774066d130bd382b8ad/thumbnails/thumbnail.jpg" width="600" alt="超现实阶梯攀登">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4075)**
-
-**作者:** [DuBoseJen](https://x.com/DuBosefire) | **来源:** [Link](https://x.com/DuBosefire/status/2050714061311025538) | **发布时间:** May 2, 2026
-
----
-### 太空小猫宇航员
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段关于可爱的虎斑猫宇航员在太空中漂浮的写实视频提示词。
-
-#### 📝 提示词
-
-```
-写实风格，一只可爱的虎斑猫宇航员在太空中漂浮，背景是地球，戴着头盔，星星闪烁，毛发细节极其丰富。一只宇航员的手伸出来触碰这只小猫，暗示它并不孤单。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a85202ea95f27f832cba5dad199b2e73/thumbnails/thumbnail.jpg" width="600" alt="太空小猫宇航员">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4085)**
-
-**作者:** [Jinx Loves Cats 🐾](https://x.com/JinxLovesCats) | **来源:** [Link](https://x.com/JinxLovesCats/status/2050696889884917946) | **发布时间:** May 2, 2026
-
----
-### 逼真的航天器飞掠镜头
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段关于航天器在深空中漂浮的逼真电影感镜头提示词。
-
-#### 📝 提示词
-
-```
-让它在太空中漂浮，并呈现出逼真的视觉效果…… STC-01 航天器
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0ce43c9c8775a4866101a79985c2da78/thumbnails/thumbnail.jpg" width="600" alt="逼真的航天器飞掠镜头">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4074)**
-
-**作者:** [Stephen T. Chubet🇺🇸](https://x.com/steveC227stc) | **来源:** [Link](https://x.com/steveC227stc/status/2050630195770429564) | **发布时间:** May 2, 2026
-
----
-### 复古未来主义跳舞机器人
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个详细的提示词，用于创作 20 世纪 80 年代科幻风格的动画，展示一个铬合金机器人在霓虹灯闪烁的街机舞台上跳舞。
-
-#### 📝 提示词
-
-```
-来自 20 世纪 80 年代科幻作品的复古未来主义跳舞机器人，拥有铬合金机身和发光的红色眼睛，在粉色与青色霓虹灯点缀的复古街机舞台上跳着机械舞……
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fd320695f2618bccb11a460a2af4ee92/thumbnails/thumbnail.jpg" width="600" alt="复古未来主义跳舞机器人">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4070)**
-
-**作者:** [Maria](https://x.com/NeuroPaletteArt) | **来源:** [Link](https://x.com/NeuroPaletteArt/status/2050623701415022915) | **发布时间:** May 2, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2205,6 +2218,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-05-12T03:49:49.016Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-05-12T10:40:06.336Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1462** |
+| 📝 Total Prompts | **1477** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-12** |
 
@@ -189,6 +189,190 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Video eines winzigen Kätzchens in Sachet-Größe
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochdetaillierter Makro-Video-Prompt für ein winziges schwarz-weißes Kätzchen, inklusive realistischer Audiobeschreibung und TikTok-Ästhetik.
+
+#### 📝 Prompt
+
+```
+6-sekündiges, ultrarealistisches, filmisches Makro-Video eines extrem winzigen schwarz-weißen Kätzchens in der Größe einer menschlichen Fingerspitze, das auf einem Finger steht. Weiches, flauschiges Fell bewegt sich sanft im leichten Luftzug, das Kätzchen schaut neugierig umher, öffnet das Maul und gibt niedliche „Miau-Miau“-Laute von sich, winzige Pfoten greifen natürlich nach der Haut, riesige funkelnde Augen, realistische zuckende Schnurrhaare, geringe Schärfentiefe, warme gemütliche Beleuchtung, ultra-detaillierte Hautporen und Fellsträhnen, Makro-DSLR-Objektiv-Optik, fotorealistisch, emotionale niedliche Atmosphäre, subtile Handkamera-Bewegung, weicher Bokeh-Hintergrund, realistische Bewegung, TikTok Cute-Core-Ästhetik.
+
+Audio:
+Niedliche Hintergrundmusik im Kawaii-TikTok-Stil mit kleinen Glöckchen, sanfter gezupfter Ukulele, verspielter Glockenspiel-Melodie, kombiniert mit entzückenden, realistischen „Miau-Miau“-Lauten des Kätzchens, die synchron zur Mundbewegung sind, gemütlicher, viraler TikTok-Vibe.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a55e551a0e43a7a50a23aad172f2c6bd/thumbnails/thumbnail.jpg" width="600" alt="Video eines winzigen Kätzchens in Sachet-Größe">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4633)**
+
+**Author:** [🌸 Bubskyy 🌸](https://x.com/NyaiiBubu) | **Source:** [Link](https://x.com/NyaiiBubu/status/2054085958405062865) | **Published:** May 12, 2026
+
+---
+### Geschichte über einen Pistazienbaum im Pixar-Stil
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein narrativer Prompt im Pixar-Animationsstil über eine Figur und ihren besonderen Pistazienbaum.
+
+#### 📝 Prompt
+
+```
+Im Stil eines Pixar-Animationsfilms: Dr. White House, eine exzentrische und entschlossene Figur, besitzt einen besonderen Pistazienbaum aus Kerman. Titanic-Schnitt
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4dede4a15a50f1972a7c5d37ef4ddcea/thumbnails/thumbnail.jpg" width="600" alt="Geschichte über einen Pistazienbaum im Pixar-Stil">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4623)**
+
+**Author:** [piensaporti](https://x.com/Cyperpiens7011) | **Source:** [Link](https://x.com/Cyperpiens7011/status/2053972728500330590) | **Published:** May 11, 2026
+
+---
+### Skurriler Charakter mit Pistazienbaum
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein charakterzentrierter Prompt mit Dr. White House und seiner Besessenheit von einem Pistazienbaum in einer Casino-Umgebung.
+
+#### 📝 Prompt
+
+```
+Dr. White House hat einen besonderen Pistazienbaum, liebt diesen Baum aber mehr als alles andere, Papi, Bäume und Casinos
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/78d8b6a93d13b01c424b4bef3a0b30f3/thumbnails/thumbnail.jpg" width="600" alt="Skurriler Charakter mit Pistazienbaum">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4626)**
+
+**Author:** [piensaporti](https://x.com/Cyperpiens7011) | **Source:** [Link](https://x.com/Cyperpiens7011/status/2053972544383037483) | **Published:** May 11, 2026
+
+---
+### Cinematic Emotional Distress Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochdetaillierter, kinoreifer Prompt für Grok Imagine, der sich auf Beleuchtung, Kamerabewegung und intensiven emotionalen Ausdruck mit spezifischen stimmlichen Hinweisen und japanischen Dialogen konzentriert.
+
+#### 📝 Prompt
+
+```
+kinoreife, enge Nahaufnahme, weiche realistische Beleuchtung, langsamer Zoom (Push-in), geringe Schärfentiefe.
+
+Der emotionale Zustand bleibt während der gesamten Szene bei extrem niedriger Valenz und extrem hoher Erregung, was eine überwältigende innere Spannung, instabilen emotionalen Druck und unterdrückte psychische Not erzeugt.
+
+Die Atmung von [character] ist ungleichmäßig, der Blick instabil, die Gesichtsmuskulatur angespannt und emotional hin- und hergerissen. Die Darstellung sollte oberflächlich kontrolliert, aber innerlich überwältigt wirken.
+
+Stimme:
+straffe stimmliche Spannung, instabile Atemstütze, leichtes Zittern gegen Ende des Satzes, emotional zurückhaltende Ausdrucksweise
+
+Dialog von [character]:
+„I have been waiting for this for a long time.“
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4c9308482db15d1d1bb0b8e75cad15fd/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Emotional Distress Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4628)**
+
+**Author:** [Flenzy24](https://x.com/flenzy223) | **Source:** [Link](https://x.com/flenzy223/status/2053879474958057983) | **Published:** May 11, 2026
+
+---
+### Animiertes Aquarell-Gemälde eines Pelikans
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Erweckt ein Aquarell-Gemälde eines Pelikans zum Leben, indem er an einem Strand landet und umherläuft.
+
+#### 📝 Prompt
+
+```
+Erwecke mein Aquarell-Gemälde eines Pelikans zum Leben. Sobald der Pelikan am Strand landet, soll er ein wenig umherlaufen.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c8ccb11aa982078fe6d9f3a8379f1c04/thumbnails/thumbnail.jpg" width="600" alt="Animiertes Aquarell-Gemälde eines Pelikans">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4629)**
+
+**Author:** [DebZ](https://x.com/DebZ6063) | **Source:** [Link](https://x.com/DebZ6063/status/2053867533510262965) | **Published:** May 11, 2026
+
+---
+### Futuristische utopische Schwebegärten
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Erstellung eines ruhigen Videos einer futuristischen Utopie mit schwebenden Gärten und schneebedeckten Bergen.
+
+#### 📝 Prompt
+
+```
+Eine friedliche, futuristische Utopie mit schwebenden Gärten, kristallklaren Seen und schneebedeckten Bergen.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8920e526bce9ca3331b00454f88286ab/thumbnails/thumbnail.jpg" width="600" alt="Futuristische utopische Schwebegärten">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4634)**
+
+**Author:** [@ed](https://x.com/edneme) | **Source:** [Link](https://x.com/edneme/status/2053830601287844212) | **Published:** May 11, 2026
+
+---
+### Drohnen-POV-Video einer Vorstadtsiedlung
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Erzeugt eine filmische Drohnenperspektive, die über ein Vorstadtgebiet fliegt, im Tilt-Shift-Stil.
+
+#### 📝 Prompt
+
+```
+Eine Drohne mit Kamera fliegt über eine Vorstadtsiedlung, POV aus der Drohnenkamera, Tilt-Shift-Stil
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5ef49d30582f26195e73fcb9857279b6/thumbnails/thumbnail.jpg" width="600" alt="Drohnen-POV-Video einer Vorstadtsiedlung">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4622)**
+
+**Author:** [Gagaror](https://x.com/theRealGagaror) | **Source:** [Link](https://x.com/theRealGagaror/status/2053827953964839092) | **Published:** May 11, 2026
+
+---
+### Museums-Galerie Kamerafahrt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein cineastischer Video-Prompt für Grok Imagine, der eine flüssige Kamerafahrt entlang einer Museumswand erzeugt und einzelne gerahmte Bilder mit Scheinwerfern hervorhebt.
+
+#### 📝 Prompt
+
+```
+jedes in seinem eigenen, hochwertigen Museums-Bilderrahmen, hängend an einer Museumswand, dramatisch beleuchtet durch einen eigenen Scheinwerfer. Fahren Sie flüssig auf Augenhöhe an der Wand entlang und zeigen Sie jedes Bild für einige Sekunden. Keine Überblendungen zwischen den Szenen
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/24f817c19e6cb72dc293e7876d23d434/thumbnails/thumbnail.jpg" width="600" alt="Museums-Galerie Kamerafahrt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4635)**
+
+**Author:** [AI Aimee](https://x.com/RockGrokAI) | **Source:** [Link](https://x.com/RockGrokAI/status/2053826199671984197) | **Published:** May 11, 2026
+
+---
+### Cyber-Dragon Hybrid-Kriegerin
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein umfassender filmischer Video-Prompt für eine kybernetische Drachenkriegerin in einer industriellen Cyberpunk-Fabrikumgebung.
+
+#### 📝 Prompt
+
+```
+Ein atemberaubendes, fotorealistisches 6-sekündiges filmisches Video einer beeindruckenden Cyber-Drachen-Hybrid-Kriegerin; erstklassiges Transformers-Design trifft auf düstere Cyberpunk-Sci-Fi. Sie hat einen wilden biomechanischen Drachenkopf mit komplexen metallischen Schuppen, scharfen Hörnern, leuchtend karmesinroten Augen und sichtbaren menschlichen, weiblichen Gesichtszügen an der Seite. Ihr Körper ist eine perfekte Verschmelzung aus organischen Kurven und fortschrittlicher kybernetischer Rüstung mit freiliegenden Kabeln, leuchtenden Schaltkreisen und reptilienartigen Schuppenmustern in Obsidianschwarz, Gunmetal-Silber und Bronze. Sie trägt ein elegantes, figurbetontes langes schwarzes Kleid mit High-Fashion-Details und dezent integrierten Drachenschuppen-Rüstungsteilen an Schultern, Armen und Hüften. Ein langer, kraftvoller mechanischer Drachenschwanz mit Stacheln schwingt hinter ihr. Sie steht in einer dramatischen, selbstbewussten Pose in einer massiven, atmosphärischen Cyberpunk-Industriefabrik voller hängender Ketten, verrosteter Rohre, Funken, Neonakzenten und volumetrischen Lichtstrahlen, die durch dichten Nebel schneiden. Kamerabewegung (6 Sekunden): Beginnt mit einer langsamen, kraftvollen Ganzkörper-Tracking-Aufnahme, die von links nach rechts um sie herum kreist. Bei 2 Sekunden dreht sie langsam ihren Kopf zur Kamera, wobei ihre roten Augen hell aufleuchten. Bei 3,5 Sekunden macht sie einen kraftvollen Schritt nach vorne, ihr Schwanz peitscht mit mechanischer Präzision, während Funken vom Boden sprühen. Letzte 2 Sekunden: dramatische Low-Angle-Heldenaufnahme, während sie ihre bekrallte Hand hebt, Energie durch ihre Schaltkreise pulsiert, mit intensiver filmischer Beleuchtung und Lens Flares. Ultra-fotorealistisch, 8K, hyperdetaillierte Texturen, filmisches Color Grading, dramatisches Rim-Light, stimmungsvolle Cyberpunk-Atmosphäre, gedreht auf Arri Alexa 65 + anamorphen Objektiven, dezente Filmkörnung, tadellose Details, Meisterwerk-Qualität, mechanische Komplexität und Realismus auf Transformers-Niveau.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/37db13676e8ed27accc63ac1009ff7a5/thumbnails/thumbnail.jpg" width="600" alt="Cyber-Dragon Hybrid-Kriegerin">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4627)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2053736079375970441) | **Published:** May 11, 2026
+
+---
 ### Kids and Deer in Meadow
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -208,26 +392,150 @@ kids joyfully playing with gentle deer in a sunlit forest clearing laughter echo
 **Author:** [Love Web3 World](https://x.com/WebThreeAI) | **Source:** [Link](https://x.com/WebThreeAI/status/2053710849521664006) | **Published:** May 11, 2026
 
 ---
-### Come Here Finger Gesture Video Prompt
+### Mittelalterliche Doppelbelichtungs-Animation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed instruction for generating a hand gesture animation where an index finger beckons someone to come closer, designed for image-to-video generation.
+> Ein komplexer Prompt für visuelle Effekte, der ein mittelalterliches Paar mit einer Burg und einer Buntglas-Orgel verschmilzt.
+
+#### 📝 Prompt
+
+```
+Ein Doppelbelichtungs-Porträt eines liebevollen mittelalterlichen Paares, das nahtlos mit einer prächtigen Burg verschmilzt, die in ihre Formen übergeht. Beide Personen lösen sich in kunstvolle Buntglasfenster auf, die nahtlos mit einer Orgel im alten Stil kombiniert sind.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bab2c93c07dd93f710ee0fd2f1d7b469/thumbnails/thumbnail.jpg" width="600" alt="Mittelalterliche Doppelbelichtungs-Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4631)**
+
+**Author:** [Carina](https://x.com/Freehere3) | **Source:** [Link](https://x.com/Freehere3/status/2053688075151192409) | **Published:** May 11, 2026
+
+---
+### Cyberpunk Drachenkrieger-Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter filmischer Prompt für eine High-Tech-Transformationssequenz mit einer weiblichen Cyberpunk-Drachen-Hybrid-Kriegerin in einer futuristischen industriellen Umgebung.
+
+#### 📝 Prompt
+
+```
+Filmreifes 6-Sekunden-fotorealistisches Video, hochdetailliertes 8K, Cyberpunk-Sci-Fi-Actionsequenz im Transformers-Stil der nächsten Generation.
+
+Eine mächtige weibliche Cyberpunk-Drachen-Hybrid-Kriegerin (exakt dieselbe Figur wie in der Referenz: wunderschönes, grimmiges Gesicht mit leuchtend elektrisch blauen Augen, weit aufgerissener Mund, der vor Wut schreit, kunstvolle metallische Drachenhörner und Schuppen am Kopf, langes geflochtenes Haar, massive mechanische Drachenflügel) steht in einer dunklen, futuristischen Industriefabrik voller hoch aufragender Rohre, leuchtender Neonlichter, Funken und dichtem Dampf.
+
+Sie transformiert sich dramatisch in einer flüssigen High-Tech-Sequenz: Ihre Panzerplatten verschieben und entfalten sich mit mechanischer Präzision wie bei modernen Transformers, wobei komplexere biomechanische Details, leuchtende Energielinien und Waffensysteme, die aus ihren Schultern und Armen ausfahren, zum Vorschein kommen. Ihre massiven Flügel breiten sich mit einem kraftvollen Rauschen vollständig aus und wirbeln Funken und Trümmer auf.
+
+Dynamische Kamerabewegung: beginnt mit einer dramatischen Ganzkörperaufnahme aus der Froschperspektive, kreist dann flüssig um sie herum, während sie brüllt und sich mit heller blauer Energie auflädt, die durch ihren Anzug pulsiert. Explosive Partikeleffekte, volumetrische Lichtstrahlen, die durch den Rauch schneiden, intensive filmische Beleuchtung mit tiefen Schatten und Cyan-Orange-Farbkorrektur.
+
+Hyperrealistische Texturen auf Metall, Schuppen und Haut, makellose Bewegung, 24 fps, Hollywood-Blockbuster-Qualität, inszeniert wie ein Sci-Fi-Film von Denis Villeneuve, epische und intensive Atmosphäre, kein Text, nahtlos wiederholbare Transformations-Action.
+
+--ar 16:9 --stylize 750 --v 6
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b21ae69918a56edb16129386d48d9afd/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Drachenkrieger-Transformation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4632)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2053665980275159135) | **Published:** May 11, 2026
+
+---
+### Beckoning Hand Gesture Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A technical prompt designed for generating a realistic beckoning hand gesture, providing step-by-step instructions for finger movement and hand positioning in video generation.
 
 #### 📝 Prompt
 
 ```
 Her gesture is performed as follows:
-(1) Her hand is held with the palm facing upward  (toward the body). 
+(1) Her hand is held with the palm facing upward (toward the body). 
 (2) The index (fore) finger is extended while the other fingers are clenched inward like a fist. 
 (3) Then the index finger is repeatedly curled inward and extended outward in a hooking motion. Indicating come here and come closer.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3dc790d96dacc64016b3a882c509cb55/thumbnails/thumbnail.jpg" width="600" alt="Come Here Finger Gesture Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c746c5955e42bf38970c92f3743b8b25/thumbnails/thumbnail.jpg" width="600" alt="Beckoning Hand Gesture Animation">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4561)**
 
 **Author:** [Ash](https://x.com/asheem01) | **Source:** [Link](https://x.com/asheem01/status/2053664506941735152) | **Published:** May 11, 2026
+
+---
+### Video-Prompt: Frösche auf einem Seerosenblatt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein ruhiger Prompt zur Erstellung eines Videos von Leopardfröschen, die auf Seerosenblättern in einem Lotusteich ruhen.
+
+#### 📝 Prompt
+
+```
+Zwei Leopardfrösche auf einem Seerosenblatt unter Palmwedeln an einem Teich mit Lotusblumen.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/83b6348ed64237c9187340e5004645e1/thumbnails/thumbnail.jpg" width="600" alt="Video-Prompt: Frösche auf einem Seerosenblatt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4621)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2053653799773098346) | **Published:** May 11, 2026
+
+---
+### Video eines Fallschirmspringers über einer Küstenlandschaft
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Zeigt einen Fallschirmspringer über einer dramatischen Küstenlinie mit kontrastreicher Beleuchtung und lebendigen Ozeanfarben.
+
+#### 📝 Prompt
+
+```
+Ein Fallschirmspringer. Umgebung: 3.000 Meter über einer dramatischen Küstenlandschaft mit schroffen Klippen und tiefblauem Ozean. Intensives, helles Tageslicht.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a7bde2989770de469fdb5fecab29460e/thumbnails/thumbnail.jpg" width="600" alt="Video eines Fallschirmspringers über einer Küstenlandschaft">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4624)**
+
+**Author:** [Sharon B 🔥Eternal Flame🔥 #uto](https://x.com/b_sharon62805) | **Source:** [Link](https://x.com/b_sharon62805/status/2053649274098130954) | **Published:** May 11, 2026
+
+---
+### Drachen im mondbeschienenen Wald
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochwertiger, filmischer Zeitlupen-Prompt von einem goldenen und einem violetten Drachen, die zärtlich in einem verzauberten Wald interagieren.
+
+#### 📝 Prompt
+
+```
+Filmische Nahaufnahme, Zeitlupenvideo. Ein massiver, muskulöser goldener Drache und ein schlankerer, eleganter mitternachtsvioletter Drache mit sternenartigen biolumineszenten Schuppen ruhen in einem mondbeschienenen, verzauberten Wald. Die beiden Drachen bewegen ihre Köpfe langsam und zärtlich aufeinander zu. Der goldene Drache stupst sanft den Hals des violetten Drachen an. Ihre Schuppen schimmern und reflektieren das silberne Mondlicht. Kamerabewegung: Statische Aufnahme, die Kamera fängt die subtilen Muskelbewegungen unter den Schuppen und das sanfte bernsteinfarbene Leuchten in ihren Augen ein. Atmosphäre & Beleuchtung: Hintergrund mit weichem Fokus und einem riesigen Vollmond.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8ed9d9d41f096429cc90306a18ac68e1/thumbnails/thumbnail.jpg" width="600" alt="Drachen im mondbeschienenen Wald">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4625)**
+
+**Author:** [auqib](https://x.com/auqibhabib) | **Source:** [Link](https://x.com/auqibhabib/status/2053639419266322623) | **Published:** May 11, 2026
+
+---
+### Kampfszene: Gott des Mars
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein epischer, filmreifer Prompt eines Mars-Gottes, der durch einen Sturm aus Meteoriten und Explosionen schreitet.
+
+#### 📝 Prompt
+
+```
+Der Gott des Mars schreitet im Bild voran, während die Kamera rückwärts fährt. Er schwingt sein Schwert auf aggressive Weise, während der rote Himmel, Stürme und Meteoriten auf die Planetenoberfläche niedergehen und im Hintergrund Explosionen stattfinden.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bc5777014a9d0a04df7e0a8c4108d855/thumbnails/thumbnail.jpg" width="600" alt="Kampfszene: Gott des Mars">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4630)**
+
+**Author:** [Robadang ✏️ AI Artist](https://x.com/dang_machina) | **Source:** [Link](https://x.com/dang_machina/status/2053635757408166303) | **Published:** May 11, 2026
 
 ---
 ### Rotating Image Sculpture Transformation
@@ -287,11 +595,11 @@ An exhilarating POV video of riding a mountain bike at extreme speed down a wind
 **Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2053467292823126466) | **Published:** May 10, 2026
 
 ---
-### Cinematic Cyberpunk Mecha Warrior Video
+### Cyberpunk Mecha Warrior Video Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed cinematic prompt for generating a 6-second video of a female cyberpunk mecha warrior in a rainy city, featuring complex mechanical details and dramatic lighting.
+> A detailed cinematic video prompt for generating a high-quality 6-second clip of a female cyberpunk warrior in battle-damaged red and white armor, kneeling in a rainy neon-lit alleyway.
 
 #### 📝 Prompt
 
@@ -305,7 +613,7 @@ Slow cinematic camera movement: starts close on her helmet and glowing red visor
 Hyper-realistic textures, photorealistic materials, cinematic color grading, epic sci-fi atmosphere, cyberpunk aesthetic, next-gen Transformer design, flawless anatomy and mechanical detail, shot on Arri Alexa 65 + anamorphic lenses, 24fps, masterpiece quality.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/34d2655a9b7192a11e3c54a2d0b673d0/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Cyberpunk Mecha Warrior Video">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b105be846e0954cc5f96e8983e1cf876/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Mecha Warrior Video Prompt">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4556)**
 
@@ -1849,301 +2157,6 @@ make 4 images of fractals, and then turn each into a video where the vibrant Spr
 **Author:** [AI Aimee](https://x.com/RockGrokAI) | **Source:** [Link](https://x.com/RockGrokAI/status/2050918327183093861) | **Published:** May 3, 2026
 
 ---
-### C-3PO Style Humanoid Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A material-focused video prompt that applies a droid-like skin texture to an existing shape.
-
-#### 📝 Prompt
-
-```
-Can you keepnis dimensions and shape but add some c3po skin on arouns 70 percent of the surface
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/edf6fea9b5af3c77c74ca8eb9b5cd20e/thumbnails/thumbnail.jpg" width="600" alt="C-3PO Style Humanoid Transformation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4135)**
-
-**Author:** [Special golden age Enmity](https://x.com/specialenmity) | **Source:** [Link](https://x.com/specialenmity/status/2050917868678586599) | **Published:** May 3, 2026
-
----
-### Glass Shard Beach Waves
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A surreal video prompt depicting beach waves composed of tinkling glass shards instead of water.
-
-#### 📝 Prompt
-
-```
-Waves crash onto a beach, but the water is made of millions of glass shards that tinkle and chime instead of splashing
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/252f2c4d11ceb42cf797b03be2a3a8e6/thumbnails/thumbnail.jpg" width="600" alt="Glass Shard Beach Waves">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4150)**
-
-**Author:** [Bedi](https://x.com/zyvaoz) | **Source:** [Link](https://x.com/zyvaoz/status/2050914491907612729) | **Published:** May 3, 2026
-
----
-### Cyber Suit Anime Warrior
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An anime-style scene of a warrior woman in a cyber suit exploring a geometric sci-fi building.
-
-#### 📝 Prompt
-
-```
-A building with a geometric pattern super structure, inside which a beautiful anime-style warrior woman in a cyber suit with slightly high exposure wanders, exploring in a sci-fi hard-boiled adventure.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8dc7e00aa41e4a78044af7c4def7576/thumbnails/thumbnail.jpg" width="600" alt="Cyber Suit Anime Warrior">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4132)**
-
-**Author:** [S.T.O](https://x.com/dhT1mlkOvovxVE4) | **Source:** [Link](https://x.com/dhT1mlkOvovxVE4/status/2050882007828431354) | **Published:** May 3, 2026
-
----
-### Girl Hugging Pink Dragon in Clouds
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed 14-second vertical video prompt showing an 8-year-old girl hugging a majestic pink dragon in a fantasy sky.
-
-#### 📝 Prompt
-
-```
-Create a dreamy, ultra-realistic 14-second vertical video in a magical fantasy style, 8K resolution, soft cinematic lighting with golden hour sun rays and subtle lens flares. A beautiful 8-year-old blonde girl with long flowing hair, big sparkling blue eyes, rosy cheeks, and a gentle happy expression is floating among fluffy white clouds in a bright blue sky. She is wearing a shiny pink satin bomber jacket with white stripes and intricate golden-pink dragon embroidery on the sleeves and chest. She is lovingly hugging a massive, majestic pink dragon that has highly detailed iridescent pink scales, large elegant white horns, golden-yellow eyes with long lashes, and a gentle friendly face. The scene starts with the girl resting her head on the dragon’s neck, smiling softly with eyes half-closed in pure joy. The dragon slowly turns its head toward the camera, opens its mouth, and gently breathes a swirling cloud of sparkling pink smoke that drifts across the frame. The girl looks up at the dragon with adoration, her smile widening into a radiant, joyful laugh. At the end (11-14 seconds), she opens her mouth as if singing happily while the dragon gently nuzzles her. Subtle soft movements: hair and jacket fabric flowing in the wind, gentle cloud drift, magical glowing particles in the air. Photorealistic yet fantastical style, vibrant pastel pink color palette, extremely detailed textures on scales and satin fabric, emotional and heartwarming atmosphere, perfect composition, masterpiece, best quality.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a75f8ef426578b6d432fcd4ef688c148/thumbnails/thumbnail.jpg" width="600" alt="Girl Hugging Pink Dragon in Clouds">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4130)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2050831911514517561) | **Published:** May 3, 2026
-
----
-### Cosmic Unseen Realms
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A majestic video prompt depicting floating islands, molten fury domains, and the infinite cosmic void.
-
-#### 📝 Prompt
-
-```
-Behold the gateway to the unseen realms, floating islands in clouds,fiery domain of molten fury, and beyond the infinite cosmic void
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2314a754b1d0837327185bce41d69cb0/thumbnails/thumbnail.jpg" width="600" alt="Cosmic Unseen Realms">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4139)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2050779217047208349) | **Published:** May 3, 2026
-
----
-### Shimmering Dragons on Ocean Beach
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt featuring red and blue shimmering dragons with their tails intertwined on a beach.
-
-#### 📝 Prompt
-
-```
-Walking away from camera on ocean beach, Shimmering red dragon and shimmering blue dragon, tails together
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/132b38893da77369c1e9e4d48c5ead8f/thumbnails/thumbnail.jpg" width="600" alt="Shimmering Dragons on Ocean Beach">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4137)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2050774133911277781) | **Published:** May 3, 2026
-
----
-### Princess Castle Dance Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A character-focused video prompt that transforms a user's likeness into a dancing princess in a castle.
-
-#### 📝 Prompt
-
-```
-Have me dancing like a princess and dressed like one in a castle but look more like me
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e892fb234a1d2585fedd20c713ba0a86/thumbnails/thumbnail.jpg" width="600" alt="Princess Castle Dance Transformation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4134)**
-
-**Author:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **Source:** [Link](https://x.com/CindyWeigapn6/status/2050758499827642769) | **Published:** May 3, 2026
-
----
-### Cooking Pug Comedy Scene
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A comedic video prompt of a pug cooking in a kitchen, speaking Kansai dialect, and burning the food with expressive movements.
-
-#### 📝 Prompt
-
-```
-A video of a pug cooking in a kitchen speaking Kansai dialect. Burning the food while saying with a smug face, 'This isn't cooking, it's an accident!' Expressive and human-like movement, emphasizing comedy.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2f03ce66df41bf5b76e414b937060942/thumbnails/thumbnail.jpg" width="600" alt="Cooking Pug Comedy Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4152)**
-
-**Author:** [パグちゃん](https://x.com/saikun6626) | **Source:** [Link](https://x.com/saikun6626/status/2050752274193170440) | **Published:** May 3, 2026
-
----
-### Realistic Evening Vibe Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A descriptive prompt for generating a realistic video that captures the tranquil and atmospheric mood of an evening after a productive day of work.
-
-#### 📝 Prompt
-
-```
-Make a video for realistic appeal, capturing the evening vibe after a day’s work.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e9e21646cd292e1922484ad92edd57b/thumbnails/thumbnail.jpg" width="600" alt="Realistic Evening Vibe Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4146)**
-
-**Author:** [Deepali Musk](https://x.com/deepalimusk) | **Source:** [Link](https://x.com/deepalimusk/status/2050738229310107806) | **Published:** May 3, 2026
-
----
-### Cinematic Samurai Japanese Visuals
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> High-fidelity cinematic prompt for high-quality Japanese-themed visuals featuring a samurai.
-
-#### 📝 Prompt
-
-```
-16K, GROK Pro maximum fidelity, ultra cinematic, fine-art performance film, IMAX-grade visual density, extreme motion clarity, perfect temporal coherence, beautiful visuals using Japanese culture, Samurai
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e90d9f6268ae901899cfbfa2b5f5fc85/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Samurai Japanese Visuals">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4151)**
-
-**Author:** [S.T.O](https://x.com/dhT1mlkOvovxVE4) | **Source:** [Link](https://x.com/dhT1mlkOvovxVE4/status/2050734825112547751) | **Published:** May 3, 2026
-
----
-### Geometrischer Überbau: Flug durch eine Megacity
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein hochdetaillierter technischer Prompt zur Erstellung eines cineastischen First-Person-Fluges durch eine geometrische Megacity in High-Fidelity mit Blitzeffekten.
-
-#### 📝 Prompt
-
-```
-16K, Grok Pro maximale Wiedergabetreue
-ultracineastisch, künstlerischer Performance-Film
-visuelle Dichte in IMAX-Qualität
-extreme Bewegungsschärfe
-perfekte zeitliche Kohärenz
-
-Video eines Hochgeschwindigkeitsflugs durch eine riesige Stadt aus geometrischen Überbauten
-
-First-Person-Perspektive
-
-Blitze treten auf
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c2af7152f831a68ac8f0b93fc5bb1e8/thumbnails/thumbnail.jpg" width="600" alt="Geometrischer Überbau: Flug durch eine Megacity">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4090)**
-
-**Author:** [S.T.O](https://x.com/dhT1mlkOvovxVE4) | **Source:** [Link](https://x.com/dhT1mlkOvovxVE4/status/2050733892530012548) | **Published:** May 3, 2026
-
----
-### Surrealer Treppenaufstieg
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein surrealer und atmosphärischer Prompt, der eine Figur beschreibt, die eine Treppe in eine sich auflösende Decke hinaufsteigt.
-
-#### 📝 Prompt
-
-```
-Sie stieg eines Nachts die Treppe hinauf… und die Decke verschwand einfach. 🌌🪜 Würdest du den letzten Schritt wagen? 👀
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3f85c4daf414e774066d130bd382b8ad/thumbnails/thumbnail.jpg" width="600" alt="Surrealer Treppenaufstieg">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4075)**
-
-**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2050714061311025538) | **Published:** May 2, 2026
-
----
-### Weltraum-Kätzchen-Astronaut
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein fotorealistischer Video-Prompt von einem süßen getigerten Astronauten-Kätzchen, das im Weltraum schwebt.
-
-#### 📝 Prompt
-
-```
-Fotorealistisches, süßes getigertes Astronauten-Kätzchen, das im Weltraum schwebt, mit der Erde im Hintergrund, Helm auf, leuchtende Sterne, ultra-detailliertes Fell. Die Hand eines Astronauten kommt ins Bild, um das Kätzchen zu berühren, damit wir wissen, dass es nicht allein ist.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a85202ea95f27f832cba5dad199b2e73/thumbnails/thumbnail.jpg" width="600" alt="Weltraum-Kätzchen-Astronaut">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4085)**
-
-**Author:** [Jinx Loves Cats 🐾](https://x.com/JinxLovesCats) | **Source:** [Link](https://x.com/JinxLovesCats/status/2050696889884917946) | **Published:** May 2, 2026
-
----
-### Realistischer Vorbeiflug eines Raumschiffs
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für eine realistische, filmreife Aufnahme eines Raumschiffs, das durch den Weltraum schwebt.
-
-#### 📝 Prompt
-
-```
-Lass es realistisch durch den Weltraum schweben... STC-01 Spacecraft
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0ce43c9c8775a4866101a79985c2da78/thumbnails/thumbnail.jpg" width="600" alt="Realistischer Vorbeiflug eines Raumschiffs">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4074)**
-
-**Author:** [Stephen T. Chubet🇺🇸](https://x.com/steveC227stc) | **Source:** [Link](https://x.com/steveC227stc/status/2050630195770429564) | **Published:** May 2, 2026
-
----
-### Retro-futuristischer tanzender Roboter
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt zur Erstellung einer Animation im Sci-Fi-Stil der 1980er Jahre, die einen Chrom-Roboter zeigt, der auf einer neonbeleuchteten Arcade-Bühne tanzt.
-
-#### 📝 Prompt
-
-```
-Retro-futuristischer tanzender Roboter im Stil der 80er-Jahre-Sci-Fi, Chrom-Körper mit leuchtend roten Augen, führt den Robot-Dance auf einer Retro-Arcade-Bühne mit pinkfarbenen und cyanfarbenen Neonlichtern aus....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fd320695f2618bccb11a460a2af4ee92/thumbnails/thumbnail.jpg" width="600" alt="Retro-futuristischer tanzender Roboter">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4070)**
-
-**Author:** [Maria](https://x.com/NeuroPaletteArt) | **Source:** [Link](https://x.com/NeuroPaletteArt/status/2050623701415022915) | **Published:** May 2, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2205,6 +2218,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-12T03:50:01.315Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-12T10:40:17.974Z</sub>
 
 </div>

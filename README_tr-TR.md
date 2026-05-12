@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1462** |
+| 📝 Total Prompts | **1477** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-12** |
 
@@ -189,6 +189,190 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Parmak Boyutunda Minyatür Yavru Kedi Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gerçekçi ses efektleri ve TikTok estetiği açıklamalarıyla tamamlanmış, son derece detaylı bir makro yavru kedi videosu istemi.
+
+#### 📝 Prompt
+
+```
+İnsan parmağı boyutunda, bir insan parmağının üzerinde duran, son derece küçük siyah-beyaz bir yavru kedinin 6 saniyelik ultra gerçekçi sinematik makro videosu; hafif esintiyle nazikçe hareket eden yumuşak tüyler, merakla etrafına bakarken ağzını açıp sevimli "miyav miyav" sesleri çıkaran kedi, cildi doğal bir şekilde kavrayan minik patiler, kocaman parlayan gözler, seğiren gerçekçi bıyıklar, sığ alan derinliği, sıcak ve huzurlu bir aydınlatma, ultra detaylı cilt gözenekleri ve tüy telleri, makro DSLR lens görünümü, fotogerçekçi, duygusal ve sevimli bir atmosfer, hafif el kamerası hareketi, yumuşak bokeh arka plan, gerçekçi hareket, TikTok cute-core estetiği.
+
+Ses:
+Minik ziller, yumuşak ukulele tınıları ve oyuncu çan melodileri içeren sevimli TikTok tarzı kawaii arka plan müziği; ağız hareketleriyle senkronize edilmiş gerçekçi yavru kedi "miyav miyav" sesleriyle birleştirilmiş, huzurlu ve viral TikTok havası.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a55e551a0e43a7a50a23aad172f2c6bd/thumbnails/thumbnail.jpg" width="600" alt="Parmak Boyutunda Minyatür Yavru Kedi Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4633)**
+
+**Author:** [🌸 Bubskyy 🌸](https://x.com/NyaiiBubu) | **Source:** [Link](https://x.com/NyaiiBubu/status/2054085958405062865) | **Published:** May 12, 2026
+
+---
+### Pixar Tarzı Antep Fıstığı Ağacı Hikayesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir karakteri ve onun özel antep fıstığı ağacını konu alan, Pixar animasyon tarzında bir anlatı istemi.
+
+#### 📝 Prompt
+
+```
+Pixar animasyon filmi tarzında; tuhaf ve kararlı bir karakter olan Dr. White House'un, Kerman'dan gelen özel bir antep fıstığı ağacı var. Titanic kurgusu
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4dede4a15a50f1972a7c5d37ef4ddcea/thumbnails/thumbnail.jpg" width="600" alt="Pixar Tarzı Antep Fıstığı Ağacı Hikayesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4623)**
+
+**Author:** [piensaporti](https://x.com/Cyperpiens7011) | **Source:** [Link](https://x.com/Cyperpiens7011/status/2053972728500330590) | **Published:** May 11, 2026
+
+---
+### Antepli Fıstık Ağacı ile İlginç Karakter
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Dr. White House'un bir kumarhane ortamında antep fıstığı ağacına olan takıntısını konu alan karakter odaklı bir istem.
+
+#### 📝 Prompt
+
+```
+Dr. White House'un özel bir antep fıstığı ağacı var ama ağacı hayatından bile çok seviyor, baba; ağaçlar ve kumarhane
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/78d8b6a93d13b01c424b4bef3a0b30f3/thumbnails/thumbnail.jpg" width="600" alt="Antepli Fıstık Ağacı ile İlginç Karakter">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4626)**
+
+**Author:** [piensaporti](https://x.com/Cyperpiens7011) | **Source:** [Link](https://x.com/Cyperpiens7011/status/2053972544383037483) | **Published:** May 11, 2026
+
+---
+### Sinematik Duygusal Sıkıntı İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için aydınlatma, kamera hareketi ve belirli sesli ipuçları ile Japonca diyaloglar içeren yoğun duygusal ifadeye odaklanan, son derece ayrıntılı sinematik bir istem.
+
+#### 📝 Prompt
+
+```
+sinematik yakın plan, yumuşak gerçekçi aydınlatma, yavaş yakınlaşma (slow push-in), sığ alan derinliği.
+
+Duygusal durum sahne boyunca son derece düşük değerlikte ve son derece yüksek uyarılma seviyesinde kalarak bunaltıcı bir iç gerilim, dengesiz duygusal baskı ve bastırılmış psikolojik sıkıntı yaratır.
+
+[character]’in nefes alışverişi düzensiz, göz odağı dengesiz, yüzündeki gerginlik kalıcı ve duygusal olarak çelişkili. Performans, yüzeyde kontrollü ancak içsel olarak bunalmış hissettirmelidir.
+
+Ses:
+sıkışık vokal gerilimi, dengesiz nefes desteği, cümlenin sonuna doğru hafif titreme, duygusal olarak bastırılmış bir anlatım
+
+[character]’in Diyaloğu:
+“Bunu uzun zamandır bekliyordum.”
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4c9308482db15d1d1bb0b8e75cad15fd/thumbnails/thumbnail.jpg" width="600" alt="Sinematik Duygusal Sıkıntı İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4628)**
+
+**Author:** [Flenzy24](https://x.com/flenzy223) | **Source:** [Link](https://x.com/flenzy223/status/2053879474958057983) | **Published:** May 11, 2026
+
+---
+### Hareketli Pelikan Sulu Boya Tablosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir pelikanın sulu boya tablosunu canlandırarak sahile konmasını ve etrafta yürümesini sağlar.
+
+#### 📝 Prompt
+
+```
+Pelikan Sulu Boya Tablomu canlandır. Pelikan sahile indikten sonra biraz etrafta yürüsün.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c8ccb11aa982078fe6d9f3a8379f1c04/thumbnails/thumbnail.jpg" width="600" alt="Hareketli Pelikan Sulu Boya Tablosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4629)**
+
+**Author:** [DebZ](https://x.com/DebZ6063) | **Source:** [Link](https://x.com/DebZ6063/status/2053867533510262965) | **Published:** May 11, 2026
+
+---
+### Fütüristik Yüzen Bahçeler Ütopyası
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yüzen bahçeler ve karla kaplı dağlarla dolu fütüristik bir ütopyanın huzurlu videosunu oluşturmak için bir istem.
+
+#### 📝 Prompt
+
+```
+Yüzen bahçeler, kristal göller ve karla kaplı dağlardan oluşan huzurlu ve fütüristik bir ütopya.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8920e526bce9ca3331b00454f88286ab/thumbnails/thumbnail.jpg" width="600" alt="Fütüristik Yüzen Bahçeler Ütopyası">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4634)**
+
+**Author:** [@ed](https://x.com/edneme) | **Source:** [Link](https://x.com/edneme/status/2053830601287844212) | **Published:** May 11, 2026
+
+---
+### Banliyö Mahallesi Drone POV Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Tilt-shift görsel stilini kullanarak bir banliyö bölgesinin üzerinde uçan sinematik bir drone perspektifi oluşturur.
+
+#### 📝 Prompt
+
+```
+Kameraya sahip bir drone banliyö mahallesinin üzerinde uçuyor, drone kamerasından POV, tilt-shift stili
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5ef49d30582f26195e73fcb9857279b6/thumbnails/thumbnail.jpg" width="600" alt="Banliyö Mahallesi Drone POV Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4622)**
+
+**Author:** [Gagaror](https://x.com/theRealGagaror) | **Source:** [Link](https://x.com/theRealGagaror/status/2053827953964839092) | **Published:** May 11, 2026
+
+---
+### Müze Galerisi Takip Çekimi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için tasarlanmış, müze duvarı boyunca pürüzsüz bir kamera takip çekimi oluşturan ve çerçeveli görselleri spot ışıklarıyla vurgulayan sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+her biri kendi müze kalitesinde resim çerçevesinde, müze duvarında asılı ve her biri kendi spot ışığıyla dramatik bir şekilde aydınlatılmış. Duvar boyunca göz hizasında pürüzsüzce ilerleyin, her görseli birkaç saniye boyunca gösterin. Sahneler arasında kararma olmasın
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/24f817c19e6cb72dc293e7876d23d434/thumbnails/thumbnail.jpg" width="600" alt="Müze Galerisi Takip Çekimi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4635)**
+
+**Author:** [AI Aimee](https://x.com/RockGrokAI) | **Source:** [Link](https://x.com/RockGrokAI/status/2053826199671984197) | **Published:** May 11, 2026
+
+---
+### Siber-Ejderha Hibrit Savaşçı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Cyberpunk endüstriyel fabrika ortamında siberetik bir ejderha savaşçı için kapsamlı sinematik video istemi.
+
+#### 📝 Prompt
+
+```
+Nefes kesici bir siber-ejderha hibrit kadın savaşçının yer aldığı, üst düzey Transformers tasarımı ile karanlık cyberpunk bilim kurgusunun buluştuğu, 6 saniyelik büyüleyici ve fotogerçekçi sinematik video. Karmaşık metalik pullara, keskin boynuzlara, parlayan kızıl gözlere ve yan tarafında belirgin insan kadın yüz hatlarına sahip vahşi, biyomekanik bir ejderha kafası var. Vücudu; organik kıvrımların, gelişmiş siberetik zırhın, açıkta kalan kabloların, parlayan devrelerin ve obsidyen siyahı, tunç grisi ve bronz renklerindeki sürüngen pul desenlerinin mükemmel bir füzyonu. Omuzlarında, kollarında ve kalçalarında zarif bir şekilde entegre edilmiş ejderha pulu zırh parçaları bulunan, yüksek moda detaylarına sahip, vücuda oturan uzun siyah bir elbise giyiyor. Arkasında dikenli, uzun ve güçlü mekanik bir ejderha kuyruğu sallanıyor. Asılı zincirler, paslı borular, kıvılcımlar, neon vurgular ve yoğun sisin içinden geçen hacimsel ışık hüzmeleriyle dolu, atmosferik ve devasa bir cyberpunk endüstriyel fabrikanın içinde dramatik ve kendinden emin bir duruş sergiliyor. Kamera hareketi (6 saniye): Soldan sağa doğru etrafında dönen, yavaş ve güçlü bir tam vücut takip çekimiyle başlar. 2. saniyede başını yavaşça kameraya doğru çevirir ve kırmızı gözleri parlak bir şekilde parlar. 3.5. saniyede güçlü bir adım öne atar, kuyruğu mekanik bir hassasiyetle savrulur ve yerden kıvılcımlar çıkar. Son 2 saniye: Pençeli elini kaldırdığı, enerjinin devrelerinden geçtiği, yoğun sinematik ışıklandırma ve lens parlamalarıyla desteklenen dramatik, düşük açılı bir kahraman çekimi. Ultra fotogerçekçi, 8K, hiper detaylı dokular, sinematik renk düzenleme, dramatik kenar ışıklandırması, karamsar cyberpunk atmosferi, Arri Alexa 65 + anamorfik lenslerle çekilmiş, hafif film greni, kusursuz detaylar, başyapıt kalitesi, Transformers seviyesinde mekanik karmaşıklık ve gerçekçilik.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/37db13676e8ed27accc63ac1009ff7a5/thumbnails/thumbnail.jpg" width="600" alt="Siber-Ejderha Hibrit Savaşçı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4627)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2053736079375970441) | **Published:** May 11, 2026
+
+---
 ### Kids and Deer in Meadow
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -208,26 +392,150 @@ kids joyfully playing with gentle deer in a sunlit forest clearing laughter echo
 **Author:** [Love Web3 World](https://x.com/WebThreeAI) | **Source:** [Link](https://x.com/WebThreeAI/status/2053710849521664006) | **Published:** May 11, 2026
 
 ---
-### Come Here Finger Gesture Video Prompt
+### Orta Çağ Çift Pozlama Animasyonu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed instruction for generating a hand gesture animation where an index finger beckons someone to come closer, designed for image-to-video generation.
+> Orta Çağ'dan bir çifti, bir kale ve vitraylı org ile harmanlayan karmaşık bir görsel efekt istemi.
+
+#### 📝 Prompt
+
+```
+Birbirini seven Orta Çağ dönemine ait bir kadın ve erkeğin, formlarıyla bütünleşen görkemli bir kale ile kusursuz bir şekilde harmanlandığı çift pozlama portresi. Her iki figür de karmaşık vitray pencerelere dönüşerek eski tarz bir org (Orgel) ile kusursuz bir şekilde birleşiyor.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bab2c93c07dd93f710ee0fd2f1d7b469/thumbnails/thumbnail.jpg" width="600" alt="Orta Çağ Çift Pozlama Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4631)**
+
+**Author:** [Carina](https://x.com/Freehere3) | **Source:** [Link](https://x.com/Freehere3/status/2053688075151192409) | **Published:** May 11, 2026
+
+---
+### Cyberpunk Ejderha Savaşçı Dönüşümü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Fütüristik bir endüstriyel ortamda, kadın bir cyberpunk ejderha-hibrit savaşçının yer aldığı yüksek teknolojili dönüşüm sekansı için detaylı sinematik komut (prompt).
+
+#### 📝 Prompt
+
+```
+6 saniyelik sinematik fotogerçekçi video, ultra detaylı 8K, yeni nesil Transformers tarzı cyberpunk bilim kurgu aksiyon sekansı.
+
+Güçlü bir kadın cyberpunk ejderha-hibrit savaşçı (referansla aynı karakter: parlayan elektrik mavisi gözlere sahip güzel ve vahşi bir yüz, öfkeyle bağıran açık bir ağız, karmaşık metalik ejderha boynuzları ve kafasında pullar, uzun örgülü saçlar, devasa mekanik ejderha kanatları), yüksek borular, parlayan neon ışıklar, kıvılcımlar ve yoğun buharla dolu karanlık, fütüristik bir endüstriyel fabrikada duruyor.
+
+Akıcı ve yüksek teknolojili bir sekansla dramatik bir şekilde dönüşüyor: zırh plakaları gelişmiş Transformers'lar gibi mekanik bir hassasiyetle kayıp açılıyor; daha karmaşık biyomekanik detayları, parlayan enerji hatlarını ve omuzlarından ve kollarından çıkan silah sistemlerini ortaya çıkarıyor. Devasa kanatları güçlü bir vınlama sesiyle tamamen açılıyor, kıvılcımlar ve enkaz parçaları etrafa saçılıyor.
+
+Dinamik kamera hareketi: dramatik bir düşük açılı tam vücut çekimiyle başlıyor, ardından o kükreyip kıyafetinden yayılan parlak mavi enerjiyle güç toplarken etrafında pürüzsüzce dönüyor. Patlayıcı parçacık efektleri, dumanın arasından süzülen hacimsel tanrı ışıkları (god rays), derin gölgeler ve camgöbeği-turuncu renk derecelendirmesiyle yoğun sinematik aydınlatma.
+
+Metal, pullar ve cilt üzerinde hiper gerçekçi dokular, kusursuz hareket, 24fps, Hollywood gişe filmi kalitesi, Denis Villeneuve bilim kurgu filmi gibi yönetilmiş, epik ve yoğun atmosfer, metin yok, kesintisiz döngüye uygun dönüşüm aksiyonu.
+
+--ar 16:9 --stylize 750 --v 6
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b21ae69918a56edb16129386d48d9afd/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Ejderha Savaşçı Dönüşümü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4632)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2053665980275159135) | **Published:** May 11, 2026
+
+---
+### Beckoning Hand Gesture Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A technical prompt designed for generating a realistic beckoning hand gesture, providing step-by-step instructions for finger movement and hand positioning in video generation.
 
 #### 📝 Prompt
 
 ```
 Her gesture is performed as follows:
-(1) Her hand is held with the palm facing upward  (toward the body). 
+(1) Her hand is held with the palm facing upward (toward the body). 
 (2) The index (fore) finger is extended while the other fingers are clenched inward like a fist. 
 (3) Then the index finger is repeatedly curled inward and extended outward in a hooking motion. Indicating come here and come closer.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3dc790d96dacc64016b3a882c509cb55/thumbnails/thumbnail.jpg" width="600" alt="Come Here Finger Gesture Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c746c5955e42bf38970c92f3743b8b25/thumbnails/thumbnail.jpg" width="600" alt="Beckoning Hand Gesture Animation">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4561)**
 
 **Author:** [Ash](https://x.com/asheem01) | **Source:** [Link](https://x.com/asheem01/status/2053664506941735152) | **Published:** May 11, 2026
+
+---
+### Nilüfer Yaprağı Üzerindeki Kurbağalar Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Nilüfer çiçekleriyle dolu bir gölet ortamında, nilüfer yaprakları üzerinde dinlenen leopar kurbağalarının videosunu oluşturmak için huzurlu bir istem.
+
+#### 📝 Prompt
+
+```
+Nilüfer çiçeklerinin bulunduğu bir gölette, palmiye yapraklarının altındaki bir nilüfer yaprağının üzerinde duran iki leopar kurbağası.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/83b6348ed64237c9187340e5004645e1/thumbnails/thumbnail.jpg" width="600" alt="Nilüfer Yaprağı Üzerindeki Kurbağalar Video İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4621)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2053653799773098346) | **Published:** May 11, 2026
+
+---
+### Kıyı Manzaralı Yamaç Paraşütçüsü Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yüksek kontrastlı aydınlatma ve canlı okyanus renkleriyle, etkileyici bir kıyı şeridi üzerinde süzülen bir yamaç paraşütçüsünü görüntüler.
+
+#### 📝 Prompt
+
+```
+Bir yamaç paraşütçüsü  Ortam: Sarp kayalıklar ve masmavi bir okyanusun bulunduğu etkileyici bir kıyı manzarasının 10.000 fit üzerinde. Yoğun, parlak gün ışığı.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a7bde2989770de469fdb5fecab29460e/thumbnails/thumbnail.jpg" width="600" alt="Kıyı Manzaralı Yamaç Paraşütçüsü Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4624)**
+
+**Author:** [Sharon B 🔥Eternal Flame🔥 #uto](https://x.com/b_sharon62805) | **Source:** [Link](https://x.com/b_sharon62805/status/2053649274098130954) | **Published:** May 11, 2026
+
+---
+### Ay Işığı Altındaki Ormanda Ejderhalar
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Büyülü bir ormanda şefkatle etkileşime giren altın ve mor renkli ejderhaların yer aldığı, yüksek kaliteli ve sinematik bir ağır çekim istemi.
+
+#### 📝 Prompt
+
+```
+Sinematik yakın çekim, ağır çekim video. Devasa, kaslı altın bir ejderha ve yıldız gibi parlayan biyolüminesans pullara sahip daha ince, zarif gece mavisi/mor bir ejderha, ay ışığı altındaki büyülü bir ormanda dinleniyor. İki ejderha yavaşça ve şefkatle başlarını birbirine doğru yaklaştırıyor. Altın ejderha, mor ejderhanın boynunu nazikçe dürtüyor. Pulları parlıyor ve gümüş rengi ay ışığını yansıtıyor. Kamera Hareketi: sabit çekim, kamera pulların altındaki ince kas hareketlerini ve gözlerindeki yumuşak kehribar parıltısını yakalıyor. Atmosfer ve Aydınlatma: Dev bir dolunayın olduğu yumuşak odaklı arka plan.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8ed9d9d41f096429cc90306a18ac68e1/thumbnails/thumbnail.jpg" width="600" alt="Ay Işığı Altındaki Ormanda Ejderhalar">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4625)**
+
+**Author:** [auqib](https://x.com/auqibhabib) | **Source:** [Link](https://x.com/auqibhabib/status/2053639419266322623) | **Published:** May 11, 2026
+
+---
+### Mars Tanrısı Savaş Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mars tanrısının meteor fırtınası ve patlamalar arasında yürüdüğü epik ve sinematik bir istem.
+
+#### 📝 Prompt
+
+```
+Kamera geriye doğru hareket ederken Mars Tanrısı kadrajda ileriye doğru yürüyor. Kılıcını agresif bir şekilde savururken, arka plandaki patlamalarla birlikte kırmızı gökyüzü, fırtınalar ve meteorlar gezegenin yüzeyine düşüyor.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bc5777014a9d0a04df7e0a8c4108d855/thumbnails/thumbnail.jpg" width="600" alt="Mars Tanrısı Savaş Sahnesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4630)**
+
+**Author:** [Robadang ✏️ AI Artist](https://x.com/dang_machina) | **Source:** [Link](https://x.com/dang_machina/status/2053635757408166303) | **Published:** May 11, 2026
 
 ---
 ### Rotating Image Sculpture Transformation
@@ -287,11 +595,11 @@ An exhilarating POV video of riding a mountain bike at extreme speed down a wind
 **Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2053467292823126466) | **Published:** May 10, 2026
 
 ---
-### Cinematic Cyberpunk Mecha Warrior Video
+### Cyberpunk Mecha Warrior Video Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed cinematic prompt for generating a 6-second video of a female cyberpunk mecha warrior in a rainy city, featuring complex mechanical details and dramatic lighting.
+> A detailed cinematic video prompt for generating a high-quality 6-second clip of a female cyberpunk warrior in battle-damaged red and white armor, kneeling in a rainy neon-lit alleyway.
 
 #### 📝 Prompt
 
@@ -305,7 +613,7 @@ Slow cinematic camera movement: starts close on her helmet and glowing red visor
 Hyper-realistic textures, photorealistic materials, cinematic color grading, epic sci-fi atmosphere, cyberpunk aesthetic, next-gen Transformer design, flawless anatomy and mechanical detail, shot on Arri Alexa 65 + anamorphic lenses, 24fps, masterpiece quality.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/34d2655a9b7192a11e3c54a2d0b673d0/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Cyberpunk Mecha Warrior Video">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b105be846e0954cc5f96e8983e1cf876/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Mecha Warrior Video Prompt">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4556)**
 
@@ -1849,301 +2157,6 @@ make 4 images of fractals, and then turn each into a video where the vibrant Spr
 **Author:** [AI Aimee](https://x.com/RockGrokAI) | **Source:** [Link](https://x.com/RockGrokAI/status/2050918327183093861) | **Published:** May 3, 2026
 
 ---
-### C-3PO Style Humanoid Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A material-focused video prompt that applies a droid-like skin texture to an existing shape.
-
-#### 📝 Prompt
-
-```
-Can you keepnis dimensions and shape but add some c3po skin on arouns 70 percent of the surface
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/edf6fea9b5af3c77c74ca8eb9b5cd20e/thumbnails/thumbnail.jpg" width="600" alt="C-3PO Style Humanoid Transformation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4135)**
-
-**Author:** [Special golden age Enmity](https://x.com/specialenmity) | **Source:** [Link](https://x.com/specialenmity/status/2050917868678586599) | **Published:** May 3, 2026
-
----
-### Glass Shard Beach Waves
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A surreal video prompt depicting beach waves composed of tinkling glass shards instead of water.
-
-#### 📝 Prompt
-
-```
-Waves crash onto a beach, but the water is made of millions of glass shards that tinkle and chime instead of splashing
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/252f2c4d11ceb42cf797b03be2a3a8e6/thumbnails/thumbnail.jpg" width="600" alt="Glass Shard Beach Waves">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4150)**
-
-**Author:** [Bedi](https://x.com/zyvaoz) | **Source:** [Link](https://x.com/zyvaoz/status/2050914491907612729) | **Published:** May 3, 2026
-
----
-### Cyber Suit Anime Warrior
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An anime-style scene of a warrior woman in a cyber suit exploring a geometric sci-fi building.
-
-#### 📝 Prompt
-
-```
-A building with a geometric pattern super structure, inside which a beautiful anime-style warrior woman in a cyber suit with slightly high exposure wanders, exploring in a sci-fi hard-boiled adventure.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8dc7e00aa41e4a78044af7c4def7576/thumbnails/thumbnail.jpg" width="600" alt="Cyber Suit Anime Warrior">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4132)**
-
-**Author:** [S.T.O](https://x.com/dhT1mlkOvovxVE4) | **Source:** [Link](https://x.com/dhT1mlkOvovxVE4/status/2050882007828431354) | **Published:** May 3, 2026
-
----
-### Girl Hugging Pink Dragon in Clouds
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed 14-second vertical video prompt showing an 8-year-old girl hugging a majestic pink dragon in a fantasy sky.
-
-#### 📝 Prompt
-
-```
-Create a dreamy, ultra-realistic 14-second vertical video in a magical fantasy style, 8K resolution, soft cinematic lighting with golden hour sun rays and subtle lens flares. A beautiful 8-year-old blonde girl with long flowing hair, big sparkling blue eyes, rosy cheeks, and a gentle happy expression is floating among fluffy white clouds in a bright blue sky. She is wearing a shiny pink satin bomber jacket with white stripes and intricate golden-pink dragon embroidery on the sleeves and chest. She is lovingly hugging a massive, majestic pink dragon that has highly detailed iridescent pink scales, large elegant white horns, golden-yellow eyes with long lashes, and a gentle friendly face. The scene starts with the girl resting her head on the dragon’s neck, smiling softly with eyes half-closed in pure joy. The dragon slowly turns its head toward the camera, opens its mouth, and gently breathes a swirling cloud of sparkling pink smoke that drifts across the frame. The girl looks up at the dragon with adoration, her smile widening into a radiant, joyful laugh. At the end (11-14 seconds), she opens her mouth as if singing happily while the dragon gently nuzzles her. Subtle soft movements: hair and jacket fabric flowing in the wind, gentle cloud drift, magical glowing particles in the air. Photorealistic yet fantastical style, vibrant pastel pink color palette, extremely detailed textures on scales and satin fabric, emotional and heartwarming atmosphere, perfect composition, masterpiece, best quality.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a75f8ef426578b6d432fcd4ef688c148/thumbnails/thumbnail.jpg" width="600" alt="Girl Hugging Pink Dragon in Clouds">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4130)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2050831911514517561) | **Published:** May 3, 2026
-
----
-### Cosmic Unseen Realms
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A majestic video prompt depicting floating islands, molten fury domains, and the infinite cosmic void.
-
-#### 📝 Prompt
-
-```
-Behold the gateway to the unseen realms, floating islands in clouds,fiery domain of molten fury, and beyond the infinite cosmic void
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2314a754b1d0837327185bce41d69cb0/thumbnails/thumbnail.jpg" width="600" alt="Cosmic Unseen Realms">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4139)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2050779217047208349) | **Published:** May 3, 2026
-
----
-### Shimmering Dragons on Ocean Beach
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt featuring red and blue shimmering dragons with their tails intertwined on a beach.
-
-#### 📝 Prompt
-
-```
-Walking away from camera on ocean beach, Shimmering red dragon and shimmering blue dragon, tails together
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/132b38893da77369c1e9e4d48c5ead8f/thumbnails/thumbnail.jpg" width="600" alt="Shimmering Dragons on Ocean Beach">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4137)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2050774133911277781) | **Published:** May 3, 2026
-
----
-### Princess Castle Dance Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A character-focused video prompt that transforms a user's likeness into a dancing princess in a castle.
-
-#### 📝 Prompt
-
-```
-Have me dancing like a princess and dressed like one in a castle but look more like me
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e892fb234a1d2585fedd20c713ba0a86/thumbnails/thumbnail.jpg" width="600" alt="Princess Castle Dance Transformation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4134)**
-
-**Author:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **Source:** [Link](https://x.com/CindyWeigapn6/status/2050758499827642769) | **Published:** May 3, 2026
-
----
-### Cooking Pug Comedy Scene
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A comedic video prompt of a pug cooking in a kitchen, speaking Kansai dialect, and burning the food with expressive movements.
-
-#### 📝 Prompt
-
-```
-A video of a pug cooking in a kitchen speaking Kansai dialect. Burning the food while saying with a smug face, 'This isn't cooking, it's an accident!' Expressive and human-like movement, emphasizing comedy.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2f03ce66df41bf5b76e414b937060942/thumbnails/thumbnail.jpg" width="600" alt="Cooking Pug Comedy Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4152)**
-
-**Author:** [パグちゃん](https://x.com/saikun6626) | **Source:** [Link](https://x.com/saikun6626/status/2050752274193170440) | **Published:** May 3, 2026
-
----
-### Realistic Evening Vibe Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A descriptive prompt for generating a realistic video that captures the tranquil and atmospheric mood of an evening after a productive day of work.
-
-#### 📝 Prompt
-
-```
-Make a video for realistic appeal, capturing the evening vibe after a day’s work.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e9e21646cd292e1922484ad92edd57b/thumbnails/thumbnail.jpg" width="600" alt="Realistic Evening Vibe Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4146)**
-
-**Author:** [Deepali Musk](https://x.com/deepalimusk) | **Source:** [Link](https://x.com/deepalimusk/status/2050738229310107806) | **Published:** May 3, 2026
-
----
-### Cinematic Samurai Japanese Visuals
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> High-fidelity cinematic prompt for high-quality Japanese-themed visuals featuring a samurai.
-
-#### 📝 Prompt
-
-```
-16K, GROK Pro maximum fidelity, ultra cinematic, fine-art performance film, IMAX-grade visual density, extreme motion clarity, perfect temporal coherence, beautiful visuals using Japanese culture, Samurai
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e90d9f6268ae901899cfbfa2b5f5fc85/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Samurai Japanese Visuals">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4151)**
-
-**Author:** [S.T.O](https://x.com/dhT1mlkOvovxVE4) | **Source:** [Link](https://x.com/dhT1mlkOvovxVE4/status/2050734825112547751) | **Published:** May 3, 2026
-
----
-### Geometrik Üst Yapı Şehir Uçuşu
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Şimşek efektlerine sahip geometrik bir mega şehrin yüksek sadakatli, sinematik birinci şahıs uçuşunu oluşturmak için oldukça ayrıntılı teknik bir komut.
-
-#### 📝 Prompt
-
-```
-16K, Grok Pro maksimum sadakat
-ultra sinematik, güzel sanatlar performans filmi
-IMAX kalitesinde görsel yoğunluk
-aşırı hareket netliği
-mükemmel zamansal tutarlılık
-
-Geometrik üst yapılardan oluşan devasa bir şehrin içinden yüksek hızla uçuş videosu
-
-Birinci şahıs bakış açısı
-
-Şimşek çakıyor
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c2af7152f831a68ac8f0b93fc5bb1e8/thumbnails/thumbnail.jpg" width="600" alt="Geometrik Üst Yapı Şehir Uçuşu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4090)**
-
-**Author:** [S.T.O](https://x.com/dhT1mlkOvovxVE4) | **Source:** [Link](https://x.com/dhT1mlkOvovxVE4/status/2050733892530012548) | **Published:** May 3, 2026
-
----
-### Sürreal Merdiven Tırmanışı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir karakterin gözden kaybolan bir tavana doğru merdivenleri tırmanmasını betimleyen, sürreal ve atmosferik bir istem.
-
-#### 📝 Prompt
-
-```
-Bir gece merdivenleri tırmanıyordu… ve tavan aniden gözden kayboldu. 🌌🪜 O son adımı atar mıydın? 👀
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3f85c4daf414e774066d130bd382b8ad/thumbnails/thumbnail.jpg" width="600" alt="Sürreal Merdiven Tırmanışı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4075)**
-
-**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2050714061311025538) | **Published:** May 2, 2026
-
----
-### Uzay Kedisi Astronot
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Uzayda süzülen sevimli bir tekir kedi astronotun fotogerçekçi video istemi.
-
-#### 📝 Prompt
-
-```
-Arka planda Dünya, kaskı takılı, parlayan yıldızlar ve ultra detaylı tüyleriyle uzayda süzülen fotogerçekçi sevimli tekir kedi astronot. Bir astronotun eli, yalnız olmadığını göstermek için kediye dokunmak üzere uzanıyor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a85202ea95f27f832cba5dad199b2e73/thumbnails/thumbnail.jpg" width="600" alt="Uzay Kedisi Astronot">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4085)**
-
-**Author:** [Jinx Loves Cats 🐾](https://x.com/JinxLovesCats) | **Source:** [Link](https://x.com/JinxLovesCats/status/2050696889884917946) | **Published:** May 2, 2026
-
----
-### Gerçekçi Uzay Aracı Geçişi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Derin uzayda süzülen bir uzay aracının gerçekçi ve sinematik bir çekimi için komut.
-
-#### 📝 Prompt
-
-```
-Bunun uzayda süzülmesini sağlayın ve gerçekçi görünmesini isteyin.... STC-01 Uzay Aracı
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0ce43c9c8775a4866101a79985c2da78/thumbnails/thumbnail.jpg" width="600" alt="Gerçekçi Uzay Aracı Geçişi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4074)**
-
-**Author:** [Stephen T. Chubet🇺🇸](https://x.com/steveC227stc) | **Source:** [Link](https://x.com/steveC227stc/status/2050630195770429564) | **Published:** May 2, 2026
-
----
-### Retro Fütüristik Dans Eden Robot
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Neon ışıklı bir atari salonu sahnesinde dans figürleri sergileyen krom bir robotun 1980'ler bilim kurgu tarzı animasyonunu oluşturmak için detaylı bir komut.
-
-#### 📝 Prompt
-
-```
-1980'lerin bilim kurgu tarzında retro-fütüristik dans eden robot, parlayan kırmızı gözlü krom gövde, pembe ve camgöbeği neon ışıklarla süslü retro bir atari sahnesinde robot dansı yapıyor...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fd320695f2618bccb11a460a2af4ee92/thumbnails/thumbnail.jpg" width="600" alt="Retro Fütüristik Dans Eden Robot">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4070)**
-
-**Author:** [Maria](https://x.com/NeuroPaletteArt) | **Source:** [Link](https://x.com/NeuroPaletteArt/status/2050623701415022915) | **Published:** May 2, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2205,6 +2218,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-12T03:50:06.757Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-12T10:40:24.183Z</sub>
 
 </div>
