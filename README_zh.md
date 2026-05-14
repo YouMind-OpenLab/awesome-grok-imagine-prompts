@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **1507** |
+| 📝 提示词总数 | **1508** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-05-14** |
 
@@ -189,6 +189,37 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 马斯克父子 Are you OK 北京话短剧
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 一段写实新闻花絮风格的 Grok Imagine 短视频提示词：国际商务活动现场中，像马斯克的父亲牵着小儿子，用雷军式英文问 “Are you OK?”，孩子用北京话机智回应。
+
+#### 📝 提示词
+
+```
+基于参考图生成一段写实短视频：庄重华丽的国际商务活动现场，大理石走廊、暖色灯光，远处有穿西装的人经过。一位像马斯克的父亲穿黑色西装，牵着穿中式蓝色小马甲的小儿子往前走。镜头像新闻花絮跟拍，真实自然，轻微手持感。
+
+视频开始时，父亲低头看着儿子，突然非常认真地用雷军经典英文口吻问他：“Are you OK?” 语气朴素、认真、带一点尴尬喜感。小男孩抬头看了他一眼，用地道北京话回应：“爸，您甭 OK 了，您这一下给我整不会了。” 父亲愣住。小男孩继续说：“您要真想问我，就说：没事儿吧您？这才像那么回事儿。” 父亲尴尬地笑了笑，孩子牵着他继续往前走。
+
+画面要求：父亲一定是朝儿子说 “Are you OK?”，不是对镜头说；孩子用北京话自然回应，语气像北京小孩儿嘴贫但不夸张。写实新闻现场感，父子互动温暖可爱，唇形尽量匹配对白。
+
+风格：真实、轻喜剧、亲子反差、北京话幽默。
+
+时长：8–10 秒。
+
+比例：9:16 或 16:9。
+
+避免：卡通化、鬼畜、夸张变脸、脸部崩坏、字幕乱码、嘴型严重不匹配。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bd7ae8d1de55c36c7636c0111d5aaaa0/thumbnails/thumbnail.jpg" width="600" alt="马斯克父子 Are you OK 北京话短剧">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4773)**
+
+**作者:** [Jared 宗源](https://x.com/jaredliu_bravo) | **来源:** [Link](https://x.com/jaredliu_bravo/status/2054913526922424497) | **发布时间:** May 14, 2026
+
+---
 ### 金星女性天堂星球
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2160,25 +2191,6 @@ cinematic cyberpunk samurai on a floating rooftop at dramatic dusk, glowing cher
 **作者:** [William Kevin Newman](https://x.com/THE_Newmanator) | **来源:** [Link](https://x.com/THE_Newmanator/status/2051830423802569020) | **发布时间:** May 6, 2026
 
 ---
-### 动态杂志封面动画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个精妙的提示词，用于为静态杂志封面添加细腻、优雅的人物动作及专业灯光效果。
-
-#### 📝 提示词
-
-```
-Vanity Fair 杂志封面动态效果，15 秒，极具电影质感与优雅格调。请使用上传的杂志封面图片作为核心参考，确保人脸、姿态、光影和排版精准一致。仅包含细腻、柔和的动作：- Esther Armari 轻轻低头，缓慢闭上双眼，表情温柔动人。- Xavier Moretti 深情地用手拂去她脸颊上的一缕湿润卷发。- 随后他俯身，满怀爱意地轻吻她的额头。杂志的文字与排版（标题“LA’s Most Influential Couple”以及所有标题和副标题）保持完全清晰、锐利且静止，如同真实的杂志封面。动作轻柔、浪漫且富有情感。柔和的电影级灯光，营造温暖浪漫的氛围。高端时尚影片风格。完整保留 Vanity Fair 的美学风格。--motion 2 --ar 9:16
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1e54d11da9ce7e2fe5e1dd3a1887613c/thumbnails/thumbnail.jpg" width="600" alt="动态杂志封面动画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4336)**
-
-**作者:** [Jennifer 🇺🇸 🦅](https://x.com/Jenny_MommaLion) | **来源:** [Link](https://x.com/Jenny_MommaLion/status/2051825948606271750) | **发布时间:** May 6, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2240,6 +2252,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-05-14T10:28:01.811Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-05-14T14:30:37.523Z</sub>
 
 </div>

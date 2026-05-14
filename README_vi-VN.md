@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1507** |
+| 📝 Total Prompts | **1508** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-14** |
 
@@ -189,6 +189,37 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### 马斯克父子 Are you OK 北京话短剧
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 一段写实新闻花絮风格的 Grok Imagine 短视频提示词：国际商务活动现场中，像马斯克的父亲牵着小儿子，用雷军式英文问 “Are you OK?”，孩子用北京话机智回应。
+
+#### 📝 Prompt
+
+```
+基于参考图生成一段写实短视频：庄重华丽的国际商务活动现场，大理石走廊、暖色灯光，远处有穿西装的人经过。一位像马斯克的父亲穿黑色西装，牵着穿中式蓝色小马甲的小儿子往前走。镜头像新闻花絮跟拍，真实自然，轻微手持感。
+
+视频开始时，父亲低头看着儿子，突然非常认真地用雷军经典英文口吻问他：“Are you OK?” 语气朴素、认真、带一点尴尬喜感。小男孩抬头看了他一眼，用地道北京话回应：“爸，您甭 OK 了，您这一下给我整不会了。” 父亲愣住。小男孩继续说：“您要真想问我，就说：没事儿吧您？这才像那么回事儿。” 父亲尴尬地笑了笑，孩子牵着他继续往前走。
+
+画面要求：父亲一定是朝儿子说 “Are you OK?”，不是对镜头说；孩子用北京话自然回应，语气像北京小孩儿嘴贫但不夸张。写实新闻现场感，父子互动温暖可爱，唇形尽量匹配对白。
+
+风格：真实、轻喜剧、亲子反差、北京话幽默。
+
+时长：8–10 秒。
+
+比例：9:16 或 16:9。
+
+避免：卡通化、鬼畜、夸张变脸、脸部崩坏、字幕乱码、嘴型严重不匹配。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bd7ae8d1de55c36c7636c0111d5aaaa0/thumbnails/thumbnail.jpg" width="600" alt="马斯克父子 Are you OK 北京话短剧">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4773)**
+
+**Author:** [Jared 宗源](https://x.com/jaredliu_bravo) | **Source:** [Link](https://x.com/jaredliu_bravo/status/2054913526922424497) | **Published:** May 14, 2026
+
+---
 ### Hành tinh thiên đường của người phụ nữ Sao Kim
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2160,25 +2191,6 @@ Cảm nhận sức mạnh của phe bóng tối đi nào, nhóc Spider-Man, Gree
 **Author:** [William Kevin Newman](https://x.com/THE_Newmanator) | **Source:** [Link](https://x.com/THE_Newmanator/status/2051830423802569020) | **Published:** May 6, 2026
 
 ---
-### Hoạt ảnh trang bìa tạp chí sống động
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tinh tế để tạo hoạt ảnh cho trang bìa tạp chí tĩnh với các chuyển động nhân vật nhẹ nhàng, thanh lịch và ánh sáng chuyên nghiệp.
-
-#### 📝 Prompt
-
-```
-Hoạt ảnh trang bìa tạp chí Vanity Fair sống động, 15 giây, đậm chất điện ảnh và thanh lịch. Sử dụng hình ảnh trang bìa tạp chí đã tải lên làm tham chiếu chính xác cho khuôn mặt, tư thế, ánh sáng và bố cục. Chuyển động nhẹ nhàng, tinh tế: - Esther Armari nhẹ nhàng cúi đầu và từ từ nhắm mắt với biểu cảm dịu dàng, đầy cảm xúc. - Xavier Moretti âu yếm vuốt một lọn tóc xoăn ướt khỏi khuôn mặt cô bằng tay. - Sau đó, anh nghiêng người và nhẹ nhàng hôn lên trán cô với sự quan tâm và tình cảm sâu sắc. Văn bản và bố cục tạp chí (tiêu đề "LA’s Most Influential Couple", tất cả các tiêu đề chính và phụ) vẫn giữ nguyên độ sắc nét, rõ ràng và tĩnh như một trang bìa tạp chí thực thụ. Chuyển động nhẹ nhàng, lãng mạn và đầy cảm xúc. Ánh sáng điện ảnh dịu nhẹ, bầu không khí lãng mạn ấm áp. Phong cách phim thời trang cao cấp. Giữ nguyên tính thẩm mỹ của Vanity Fair. --motion 2 --ar 9:16
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1e54d11da9ce7e2fe5e1dd3a1887613c/thumbnails/thumbnail.jpg" width="600" alt="Hoạt ảnh trang bìa tạp chí sống động">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4336)**
-
-**Author:** [Jennifer 🇺🇸 🦅](https://x.com/Jenny_MommaLion) | **Source:** [Link](https://x.com/Jenny_MommaLion/status/2051825948606271750) | **Published:** May 6, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2240,6 +2252,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-14T10:28:07.595Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-14T14:30:44.135Z</sub>
 
 </div>

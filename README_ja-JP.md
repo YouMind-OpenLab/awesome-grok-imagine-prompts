@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **1507** |
+| 📝 プロンプト総数 | **1508** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-05-14** |
 
@@ -189,6 +189,37 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### 马斯克父子 Are you OK 北京话短剧
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 一段写实新闻花絮风格的 Grok Imagine 短视频提示词：国际商务活动现场中，像马斯克的父亲牵着小儿子，用雷军式英文问 “Are you OK?”，孩子用北京话机智回应。
+
+#### 📝 プロンプト
+
+```
+基于参考图生成一段写实短视频：庄重华丽的国际商务活动现场，大理石走廊、暖色灯光，远处有穿西装的人经过。一位像马斯克的父亲穿黑色西装，牵着穿中式蓝色小马甲的小儿子往前走。镜头像新闻花絮跟拍，真实自然，轻微手持感。
+
+视频开始时，父亲低头看着儿子，突然非常认真地用雷军经典英文口吻问他：“Are you OK?” 语气朴素、认真、带一点尴尬喜感。小男孩抬头看了他一眼，用地道北京话回应：“爸，您甭 OK 了，您这一下给我整不会了。” 父亲愣住。小男孩继续说：“您要真想问我，就说：没事儿吧您？这才像那么回事儿。” 父亲尴尬地笑了笑，孩子牵着他继续往前走。
+
+画面要求：父亲一定是朝儿子说 “Are you OK?”，不是对镜头说；孩子用北京话自然回应，语气像北京小孩儿嘴贫但不夸张。写实新闻现场感，父子互动温暖可爱，唇形尽量匹配对白。
+
+风格：真实、轻喜剧、亲子反差、北京话幽默。
+
+时长：8–10 秒。
+
+比例：9:16 或 16:9。
+
+避免：卡通化、鬼畜、夸张变脸、脸部崩坏、字幕乱码、嘴型严重不匹配。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bd7ae8d1de55c36c7636c0111d5aaaa0/thumbnails/thumbnail.jpg" width="600" alt="马斯克父子 Are you OK 北京话短剧">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4773)**
+
+**作者:** [Jared 宗源](https://x.com/jaredliu_bravo) | **ソース:** [Link](https://x.com/jaredliu_bravo/status/2054913526922424497) | **公開日:** May 14, 2026
+
+---
 ### 金星の女性と楽園の惑星
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2160,25 +2191,6 @@ Tesla の車両はそのまま維持し、カメラをパンアウトして長�
 **作者:** [William Kevin Newman](https://x.com/THE_Newmanator) | **ソース:** [Link](https://x.com/THE_Newmanator/status/2051830423802569020) | **公開日:** May 6, 2026
 
 ---
-### 雑誌の表紙を動かすアニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 静止画の雑誌の表紙を、繊細で優雅なキャラクターの動きとプロフェッショナルなライティングでアニメーション化するための洗練されたプロンプトです。
-
-#### 📝 プロンプト
-
-```
-Vanity Fair の雑誌の表紙を動かすアニメーション、15 秒、超映画的でエレガントな仕上がり。アップロードした雑誌の表紙画像を強力なリファレンスとして使用し、顔立ち、ポーズ、ライティング、レイアウトを正確に再現してください。繊細で優しい動きのみ： - Esther Armari がゆっくりと頭を下げ、穏やかで感情的な表情で静かに目を閉じる。 - Xavier Moretti が愛情を込めて、彼女の顔にかかった濡れた巻き毛を指で払う。 - その後、彼が身を乗り出し、深い慈しみと愛情を込めて彼女の額に優しくキスをする。雑誌のテキストとレイアウト（タイトル「LA’s Most Influential Couple」、すべての見出しとサブテキスト）は、本物の雑誌の表紙のように完全に鮮明でシャープな静止状態を保つこと。穏やかでロマンチック、かつ感情的な動き。柔らかなシネマティックライティング、温かくロマンチックな雰囲気。ハイエンドなファッションフィルムスタイル。Vanity Fair の美学をそのまま維持してください。 --motion 2 --ar 9:16
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1e54d11da9ce7e2fe5e1dd3a1887613c/thumbnails/thumbnail.jpg" width="600" alt="雑誌の表紙を動かすアニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4336)**
-
-**作者:** [Jennifer 🇺🇸 🦅](https://x.com/Jenny_MommaLion) | **ソース:** [Link](https://x.com/Jenny_MommaLion/status/2051825948606271750) | **公開日:** May 6, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2240,6 +2252,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-05-14T10:28:04.288Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-05-14T14:30:40.338Z</sub>
 
 </div>

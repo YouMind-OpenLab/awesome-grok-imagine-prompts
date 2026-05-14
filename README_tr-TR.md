@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1507** |
+| 📝 Total Prompts | **1508** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-14** |
 
@@ -189,6 +189,37 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### 马斯克父子 Are you OK 北京话短剧
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 一段写实新闻花絮风格的 Grok Imagine 短视频提示词：国际商务活动现场中，像马斯克的父亲牵着小儿子，用雷军式英文问 “Are you OK?”，孩子用北京话机智回应。
+
+#### 📝 Prompt
+
+```
+基于参考图生成一段写实短视频：庄重华丽的国际商务活动现场，大理石走廊、暖色灯光，远处有穿西装的人经过。一位像马斯克的父亲穿黑色西装，牵着穿中式蓝色小马甲的小儿子往前走。镜头像新闻花絮跟拍，真实自然，轻微手持感。
+
+视频开始时，父亲低头看着儿子，突然非常认真地用雷军经典英文口吻问他：“Are you OK?” 语气朴素、认真、带一点尴尬喜感。小男孩抬头看了他一眼，用地道北京话回应：“爸，您甭 OK 了，您这一下给我整不会了。” 父亲愣住。小男孩继续说：“您要真想问我，就说：没事儿吧您？这才像那么回事儿。” 父亲尴尬地笑了笑，孩子牵着他继续往前走。
+
+画面要求：父亲一定是朝儿子说 “Are you OK?”，不是对镜头说；孩子用北京话自然回应，语气像北京小孩儿嘴贫但不夸张。写实新闻现场感，父子互动温暖可爱，唇形尽量匹配对白。
+
+风格：真实、轻喜剧、亲子反差、北京话幽默。
+
+时长：8–10 秒。
+
+比例：9:16 或 16:9。
+
+避免：卡通化、鬼畜、夸张变脸、脸部崩坏、字幕乱码、嘴型严重不匹配。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bd7ae8d1de55c36c7636c0111d5aaaa0/thumbnails/thumbnail.jpg" width="600" alt="马斯克父子 Are you OK 北京话短剧">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4773)**
+
+**Author:** [Jared 宗源](https://x.com/jaredliu_bravo) | **Source:** [Link](https://x.com/jaredliu_bravo/status/2054913526922424497) | **Published:** May 14, 2026
+
+---
 ### Venüs Kadını Cennet Gezegeni
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2160,25 +2191,6 @@ Karanlık tarafın gücünü hisset, bana katıl küçük örümcek adam, bir Si
 **Author:** [William Kevin Newman](https://x.com/THE_Newmanator) | **Source:** [Link](https://x.com/THE_Newmanator/status/2051830423802569020) | **Published:** May 6, 2026
 
 ---
-### Canlı Dergi Kapağı Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Statik bir dergi kapağını incelikli, zarif karakter hareketleri ve profesyonel aydınlatma ile canlandırmak için geliştirilmiş sofistike bir komut.
-
-#### 📝 Prompt
-
-```
-Canlı Vanity Fair dergi kapağı animasyonu, 15 saniye, ultra sinematik ve zarif. Yüklenen dergi kapağı görselini; yüzler, pozlar, aydınlatma ve düzenin tam olarak yansıtılması için güçlü bir referans olarak kullanın. Sadece incelikli ve hassas hareketler: - Esther Armari nazikçe başını eğer ve yumuşak, duygusal bir ifadeyle gözlerini yavaşça kapatır. - Xavier Moretti, sevgiyle bir tutam ıslak kıvırcık saçı eliyle yüzünden çeker. - Ardından ona doğru eğilir ve derin bir özen ve şefkatle alnından nazikçe öper. Dergi metni ve düzeni ("LA’s Most Influential Couple" başlığı, tüm manşetler ve alt metinler) gerçek bir dergi kapağındaki gibi tamamen net, keskin ve sabit kalmalıdır. Nazik, romantik ve duygusal hareketler. Yumuşak sinematik aydınlatma, sıcak romantik atmosfer. Üst düzey moda filmi tarzı. Vanity Fair estetiğini koruyun. --motion 2 --ar 9:16
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1e54d11da9ce7e2fe5e1dd3a1887613c/thumbnails/thumbnail.jpg" width="600" alt="Canlı Dergi Kapağı Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4336)**
-
-**Author:** [Jennifer 🇺🇸 🦅](https://x.com/Jenny_MommaLion) | **Source:** [Link](https://x.com/Jenny_MommaLion/status/2051825948606271750) | **Published:** May 6, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2240,6 +2252,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-14T10:28:17.449Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-14T14:30:55.138Z</sub>
 
 </div>

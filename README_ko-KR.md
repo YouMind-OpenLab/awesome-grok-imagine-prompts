@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **1507** |
+| 📝 총 프롬프트 수 | **1508** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-05-14** |
 
@@ -189,6 +189,37 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 马斯克父子 Are you OK 北京话短剧
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 一段写实新闻花絮风格的 Grok Imagine 短视频提示词：国际商务活动现场中，像马斯克的父亲牵着小儿子，用雷军式英文问 “Are you OK?”，孩子用北京话机智回应。
+
+#### 📝 프롬프트
+
+```
+基于参考图生成一段写实短视频：庄重华丽的国际商务活动现场，大理石走廊、暖色灯光，远处有穿西装的人经过。一位像马斯克的父亲穿黑色西装，牵着穿中式蓝色小马甲的小儿子往前走。镜头像新闻花絮跟拍，真实自然，轻微手持感。
+
+视频开始时，父亲低头看着儿子，突然非常认真地用雷军经典英文口吻问他：“Are you OK?” 语气朴素、认真、带一点尴尬喜感。小男孩抬头看了他一眼，用地道北京话回应：“爸，您甭 OK 了，您这一下给我整不会了。” 父亲愣住。小男孩继续说：“您要真想问我，就说：没事儿吧您？这才像那么回事儿。” 父亲尴尬地笑了笑，孩子牵着他继续往前走。
+
+画面要求：父亲一定是朝儿子说 “Are you OK?”，不是对镜头说；孩子用北京话自然回应，语气像北京小孩儿嘴贫但不夸张。写实新闻现场感，父子互动温暖可爱，唇形尽量匹配对白。
+
+风格：真实、轻喜剧、亲子反差、北京话幽默。
+
+时长：8–10 秒。
+
+比例：9:16 或 16:9。
+
+避免：卡通化、鬼畜、夸张变脸、脸部崩坏、字幕乱码、嘴型严重不匹配。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bd7ae8d1de55c36c7636c0111d5aaaa0/thumbnails/thumbnail.jpg" width="600" alt="马斯克父子 Are you OK 北京话短剧">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4773)**
+
+**작성자:** [Jared 宗源](https://x.com/jaredliu_bravo) | **출처:** [Link](https://x.com/jaredliu_bravo/status/2054913526922424497) | **게시일:** May 14, 2026
+
+---
 ### 금성 여인의 낙원 행성
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2160,25 +2191,6 @@ Tesla 차량은 그대로 유지하고, 카메라를 멀리 이동시켜 길게 
 **작성자:** [William Kevin Newman](https://x.com/THE_Newmanator) | **출처:** [Link](https://x.com/THE_Newmanator/status/2051830423802569020) | **게시일:** May 6, 2026
 
 ---
-### 생동감 넘치는 매거진 커버 애니메이션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 정적인 매거진 커버를 섬세하고 우아한 인물 움직임과 전문적인 조명으로 생동감 있게 구현하는 고도화된 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-Vanity Fair 매거진 커버 애니메이션, 15초, 초고화질 영화 같은 우아한 영상. 업로드된 매거진 커버 이미지를 강력한 참조 자료로 활용하여 얼굴, 포즈, 조명, 레이아웃을 정확하게 유지하십시오. 섬세하고 부드러운 움직임만 적용: - Esther Armari가 부드럽고 감성적인 표정으로 고개를 살며시 숙이고 천천히 눈을 감습니다. - Xavier Moretti가 그녀의 젖은 곱슬머리 한 가닥을 손으로 다정하게 쓸어 넘깁니다. - 이어서 그가 깊은 애정과 배려를 담아 그녀의 이마에 부드럽게 입을 맞춥니다. 매거진의 텍스트와 레이아웃(제목 "LA’s Most Influential Couple" 및 모든 헤드라인과 하위 텍스트)은 실제 매거진 커버처럼 선명하고 정적인 상태를 유지하십시오. 부드럽고 로맨틱하며 감성적인 움직임. 은은한 영화적 조명, 따뜻하고 로맨틱한 분위기. 하이엔드 패션 필름 스타일. Vanity Fair의 미학을 그대로 유지하십시오. --motion 2 --ar 9:16
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1e54d11da9ce7e2fe5e1dd3a1887613c/thumbnails/thumbnail.jpg" width="600" alt="생동감 넘치는 매거진 커버 애니메이션">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4336)**
-
-**작성자:** [Jennifer 🇺🇸 🦅](https://x.com/Jenny_MommaLion) | **출처:** [Link](https://x.com/Jenny_MommaLion/status/2051825948606271750) | **게시일:** May 6, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2240,6 +2252,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-05-14T10:28:05.169Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-05-14T14:30:41.465Z</sub>
 
 </div>
