@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1494** |
+| 📝 Total Prompts | **1507** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-14** |
 
@@ -189,6 +189,266 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### ดาวเคราะห์สวรรค์แห่งหญิงสาวชาววีนัส
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวภาพยนตร์สำหรับหญิงสาวแสนสวยบนดาวเคราะห์สวรรค์ที่มีออร่าจักรวาลอันเจิดจ้า
+
+#### 📝 Prompt
+
+```
+หญิงสาวชาววีนัสแสนสวย, แสงสีทองนวลตา, ทิวทัศน์ดาวเคราะห์สวรรค์, ชุดพลิ้วไหวสง่างาม, ออร่าเจิดจ้า, อารยธรรมจักรวาลอันเงียบสงบ, ภาพพอร์ตเทรตแฟนตาซีสมจริงระดับอัลตร้า, แสงแดดแบบภาพยนตร์
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e9d4a71d4ebda4919c89a8e86a7fe52/thumbnails/thumbnail.jpg" width="600" alt="ดาวเคราะห์สวรรค์แห่งหญิงสาวชาววีนัส">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4769)**
+
+**Author:** [Narmina](https://x.com/narminamoon) | **Source:** [Link](https://x.com/narminamoon/status/2054588306747162627) | **Published:** May 13, 2026
+
+---
+### ภาพพอร์ตเทรตนักรบหญิง Orion ในธีมไซไฟ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์ไซไฟรายละเอียดสูงสำหรับนักรบหญิงในชุดเกราะแห่งอนาคต พร้อมแสงสีคอสมิกและเงาแบบภาพยนตร์
+
+#### 📝 Prompt
+
+```
+นักรบหญิง Orion ผู้ทรงพลัง, ชุดเกราะแห่งอนาคตสีเข้ม, บรรยากาศการต่อสู้ในอวกาศ, แสงสีแดงและสีน้ำเงินเรืองรอง, สายตาที่ดูลึกลับและทรงพลัง, ภาพพอร์ตเทรตไซไฟที่สมจริงเป็นพิเศษ, เงาแบบภาพยนตร์
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/49d505302c6916f63402bea08e8bcf76/thumbnails/thumbnail.jpg" width="600" alt="ภาพพอร์ตเทรตนักรบหญิง Orion ในธีมไซไฟ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4761)**
+
+**Author:** [Narmina](https://x.com/narminamoon) | **Source:** [Link](https://x.com/narminamoon/status/2054587951061844327) | **Published:** May 13, 2026
+
+---
+### ชุดคลุมดาราจักรจากแอนโดรเมดาอันวิจิตร
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์แนวไซไฟแฟนตาซีที่ลงรายละเอียดเกี่ยวกับหญิงสาวผู้สง่างามที่มีผิวสีเงินและสวมชุดคลุมดาราจักรในพระราชวังแห่งจักรวาล
+
+#### 📝 Prompt
+
+```
+หญิงสาวจากแอนโดรเมดาผู้สง่างาม, ผิวสีเงินเปล่งประกาย, ผมยาวสีขาว, พระราชวังแห่งจักรวาล, ดวงดาวโฮโลกราฟิก, ชุดคลุมคอสมิกสุดหรู, ไซไฟแฟนตาซีสมจริงระดับอัลตรา, พลังงานหญิงอันศักดิ์สิทธิ์, แสงแบบภาพยนตร์, รายละเอียดสูง
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2e442ef2e4de86fa72c0a981b8e7869f/thumbnails/thumbnail.jpg" width="600" alt="ชุดคลุมดาราจักรจากแอนโดรเมดาอันวิจิตร">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4762)**
+
+**Author:** [Narmina](https://x.com/narminamoon) | **Source:** [Link](https://x.com/narminamoon/status/2054587169402974372) | **Published:** May 13, 2026
+
+---
+### มนุษย์ต่างดาวหญิงผิวสีฟ้าในธีมอียิปต์ไซไฟ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์แนวไซไฟที่มีตัวละครมนุษย์ต่างดาวหญิงผิวสีฟ้าในฉากอียิปต์ท่ามกลางอวกาศ
+
+#### 📝 Prompt
+
+```
+มนุษย์ต่างดาวหญิงผิวสีฟ้าจากดาวซิริอุส, ชุดแห่งอนาคตที่สง่างาม, สถาปัตยกรรมอียิปต์ในอวกาศ, ดวงดาวและพีระมิด, คริสตัลเรืองแสง, ภาพพอร์ตเทรตแนวไซไฟที่สมจริงเป็นพิเศษ
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fe07cfea77ee3a490046f1d7281bc217/thumbnails/thumbnail.jpg" width="600" alt="มนุษย์ต่างดาวหญิงผิวสีฟ้าในธีมอียิปต์ไซไฟ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4763)**
+
+**Author:** [Narmina](https://x.com/narminamoon) | **Source:** [Link](https://x.com/narminamoon/status/2054586816234131840) | **Published:** May 13, 2026
+
+---
+### หญิงสาวบินขึ้นจากม้านั่งผีเสื้อ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่งแบบ Cinematic ที่บรรยายถึงหญิงสาวที่นั่งอยู่บนม้านั่งธีมผีเสื้อ จากนั้นเธอลุกขึ้นยืนและบินจากไปโดยมีปีกขยับไปพร้อมกับเธอ
+
+#### 📝 Prompt
+
+```
+ให้หญิงสาวที่นั่งอยู่บนม้านั่งผีเสื้อลุกขึ้นยืน โดยให้ปีกขยับตามเธอไปและทำให้เธอสามารถบินได้ พร้อมกับให้เธอหัวเราะอย่างนุ่มนวลและอ่อนหวาน ทำให้ภาพออกมาดูสมูทและสวยงาม
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/011354912893e24045ecd43702118a60/thumbnails/thumbnail.jpg" width="600" alt="หญิงสาวบินขึ้นจากม้านั่งผีเสื้อ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4768)**
+
+**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2054576561416741025) | **Published:** May 13, 2026
+
+---
+### ฉากแอ็กชันคนตัดไม้สไตล์ภาพยนตร์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอคุณภาพสูงระดับภาพยนตร์สำหรับ Grok Imagine ที่มีคนตัดไม้ในป่าท่ามกลางสายหมอก พร้อมเอฟเฟกต์สโลว์โมชันสุดดราม่า
+
+#### 📝 Prompt
+
+```
+คนตัดไม้มาดเข้มในป่าท่ามกลางสายหมอกยามพระอาทิตย์ขึ้น กำลังเหวี่ยงขวานหนักเข้าใส่ท่อนไม้ขนาดใหญ่ เศษไม้กระเด็นกระจายด้วยเอฟเฟกต์สโลว์โมชันสุดดราม่า ถ่ายทำด้วยมุมกล้องโคลสอัปแบบภาพยนตร์ สมจริงระดับไฮเปอร์ คุณภาพระดับภาพยนตร์แอ็กชันฮอลลีวูด
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e7e4a6a2a3ac5c3150aedef8fe58f7f/thumbnails/thumbnail.jpg" width="600" alt="ฉากแอ็กชันคนตัดไม้สไตล์ภาพยนตร์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4772)**
+
+**Author:** [クレア](https://x.com/kureakurea01) | **Source:** [Link](https://x.com/kureakurea01/status/2054567553570373985) | **Published:** May 13, 2026
+
+---
+### วิดีโอภาพยนตร์ Mecha City Transformers
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์แนวไซไฟที่มีรายละเอียดสูงสำหรับวิดีโอความยาว 6 วินาที ของหุ่นยนต์เมกะที่ผสานรวมเข้ากับเมืองไซเบอร์พังก์เหนือชั้นบรรยากาศโลก
+
+#### 📝 Prompt
+
+```
+วิดีโอไซไฟความยาว 6 วินาทีที่สมจริงระดับไฮเปอร์ในสไตล์ Transformers ยุคใหม่ผสมผสานกับความสวยงามแบบดาร์กไซเบอร์พังก์ หุ่นยนต์เมกะฮิวแมนนอยด์สีขาวดำขนาดมหึมาสูง 200 เมตร ซึ่งมีส่วนหลังและไหล่หลอมรวมเข้ากับเมืองเมกะซิตี้ไซเบอร์พังก์ขนาดใหญ่ที่เต็มไปด้วยยอดตึกนีออน เสาอากาศ และตึกระฟ้า ยืนตระหง่านอยู่เหนือชั้นบรรยากาศของโลก หุ่นยนต์ยักษ์มีหัวคล้ายกะโหลกที่ดูน่าเกรงขามพร้อมดวงตาสีแดงเรืองแสง
+เริ่มต้นด้วยมุมกล้องทางอากาศที่ดูน่าตื่นตาตื่นใจ ค่อยๆ ซูมเข้าไปในขณะที่ไททันค่อยๆ หันลำตัวส่วนบนและศีรษะมาทางกล้องด้วยการเคลื่อนไหวทางกลไกที่ทรงพลัง ดวงตาสีแดงของมันสว่างวาบ จากนั้นกล้องจะเคลื่อนที่รอบลำตัวขนาดใหญ่ของมันอย่างนุ่มนวล เผยให้เห็นแผ่นเกราะที่ผ่านการต่อสู้มาอย่างโชกโชน สายไฟที่เปิดเผย และแสงไฟของเมืองที่กะพริบเหมือนเครือข่ายประสาท
+ที่วินาทีที่ 3 มันก้าวเท้าหนักๆ ไปข้างหน้าหนึ่งก้าว แรงกระแทกทำให้เกิดคลื่นกระแทกขนาดใหญ่ ส่งกลุ่มควัน ไอน้ำ และเศษซากจำนวนมหาศาลพุ่งขึ้นจากมหาสมุทรและแนวชายฝั่งด้านล่าง พื้นดินสั่นสะเทือนอย่างรุนแรง
+ช็อตสุดท้าย: มุมกล้องต่ำแบบฮีโร่ที่ค่อยๆ ถอยออกในขณะที่หุ่นยนต์เมกะชูกำปั้นขวาขึ้นอย่างทรงพลัง พร้อมพลังงานที่ปะทุไปตามแขน เผยให้เห็นสเกลที่ยิ่งใหญ่ตัดกับความโค้งของโลก การปรับโทนสีแบบไซเบอร์พังก์สีฟ้าอมส้ม แสงเทพ (god rays) ที่มีความหนาแน่น หมอกในบรรยากาศ อนุภาคที่ลอยอยู่ และเกรนฟิล์มที่ละเอียดอ่อน ความละเอียด 8K, รายละเอียดสูงพิเศษ, สมจริงเหมือนภาพถ่าย, คุณภาพระดับ IMAX, การเคลื่อนไหวของกล้องแบบไดนามิก, การออกแบบเสียงที่เข้มข้นพร้อมเสียงกลไกที่หนักแน่นและเสียงลมคำราม
+สไตล์: สมจริงระดับไฮเปอร์, ภาพยนตร์, Transformers ยุคใหม่, ไซเบอร์พังก์, Blade Runner 2049 พบกับ Pacific Rim, แสงที่น่าตื่นตาตื่นใจ, โมชั่นเบลอในการเคลื่อนไหวที่รวดเร็ว
+กล้อง: ภาพยนตร์, การเคลื่อนที่รอบวัตถุอย่างนุ่มนวล + การซูมเข้าและถอยออกที่น่าตื่นตาตื่นใจ, การสั่นแบบถือกล้องถ่ายทำเล็กน้อยเมื่อเกิดแรงกระแทก
+ความยาว: 6 วินาทีพอดี, 24fps, คุณภาพการเคลื่อนไหวสูง
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0f815be4a8c01a46938a067d8f132799/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอภาพยนตร์ Mecha City Transformers">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4764)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2054528992900702699) | **Published:** May 13, 2026
+
+---
+### การเปลี่ยนผ่านของลวดลายจากหินสู่ทอง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแบบเมตามอร์ฟิกที่แสดงภาพวิวัฒนาการของลวดลายจากรากฐานหินโบราณไปสู่แผงวงจรอิเล็กทรอนิกส์สมัยใหม่
+
+#### 📝 Prompt
+
+```
+จากหินสู่ทอง 
+
+จากรากฐานหินของเมืองโบราณไปจนถึงแผงวงจรในปัจจุบัน ล้วนถูกสร้างขึ้นบนลวดลายและพิมพ์เขียวเดียวกัน
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6cf2a09c6d05ded6a1eb5f70b2028d3c/thumbnails/thumbnail.jpg" width="600" alt="การเปลี่ยนผ่านของลวดลายจากหินสู่ทอง">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4760)**
+
+**Author:** [Tommy Maloney](https://x.com/ThomasMalo26860) | **Source:** [Link](https://x.com/ThomasMalo26860/status/2054490062125998090) | **Published:** May 13, 2026
+
+---
+### เทพธิดา Hathorian ในธีมไซไฟสุดล้ำ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง (Prompt) โดยละเอียดสำหรับเทพธิดาอียิปต์แห่งสรวงสวรรค์ที่แฝงไปด้วยพลังงานไซไฟทางจิตวิญญาณ
+
+#### 📝 Prompt
+
+```
+หญิงสาว Hathorian ผู้สูงศักดิ์, เทพธิดาแห่งจักรวาลอียิปต์, ออร่าสีทองขาว, วิหารศักดิ์สิทธิ์, เครื่องประดับจากสรวงสวรรค์, ชุดคลุมพลิ้วไหวสง่างาม, พลังงานทางจิตวิญญาณที่เปี่ยมด้วยความรัก, แฟนตาซีไซไฟสมจริงขั้นสุด, แสงแบบภาพยนตร์, รายละเอียดสูง
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/83728902e96133eecf819f2580f5c855/thumbnails/thumbnail.jpg" width="600" alt="เทพธิดา Hathorian ในธีมไซไฟสุดล้ำ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4765)**
+
+**Author:** [Narmina](https://x.com/narminamoon) | **Source:** [Link](https://x.com/narminamoon/status/2054461946577953002) | **Published:** May 13, 2026
+
+---
+### Lyran Feline Woman Fantasy
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์แฟนตาซีแบบละเอียดสำหรับวิดีโอที่นำเสนอหญิงสาวเผ่าพันธุ์แมว Lyran ในเมืองแห่งจักรวาลสีทอง
+
+#### 📝 Prompt
+
+```
+หญิงสาวมนุษย์กึ่งแมวเผ่าพันธุ์ Lyran, หูแมว, ผมหยิก, เมืองแห่งจักรวาลสีทอง, แฟนตาซีไซไฟเชิงจิตวิญญาณ, ภาพพอร์ตเทรตแบบภาพยนตร์, รายละเอียดคมชัดสูง
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ff49e4ddeb53c37a0fed5677d714a0d0/thumbnails/thumbnail.jpg" width="600" alt="Lyran Feline Woman Fantasy">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4767)**
+
+**Author:** [Narmina](https://x.com/narminamoon) | **Source:** [Link](https://x.com/narminamoon/status/2054461533975892064) | **Published:** May 13, 2026
+
+---
+### หญิงสาวชาวเพลีเอเดียนในเมืองคริสตัล
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์แนวไซไฟเชิงจิตวิญญาณสำหรับภาพหญิงสาวผมบลอนด์ในเมืองคริสตัลแห่งจักรวาลสุดล้ำสมัย
+
+#### 📝 Prompt
+
+```
+Beautiful pleiadian woman, long blonde hair, glowing blue eyes, futuristic white silver dress, crystal city, cosmic background, ultra realistic, cinematic lighting, spiritual sci fi aesthetic, highly detailed
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2ae23d7d934e15f297693f7933a38495/thumbnails/thumbnail.jpg" width="600" alt="หญิงสาวชาวเพลีเอเดียนในเมืองคริสตัล">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4766)**
+
+**Author:** [Narmina](https://x.com/narminamoon) | **Source:** [Link](https://x.com/narminamoon/status/2054461158480916609) | **Published:** May 13, 2026
+
+---
+### รูปทรงเรขาคณิตหมุนวน
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์ภาพเคลื่อนไหวแบบนามธรรมที่เกี่ยวข้องกับการย่อขนาดและหมุนรูปทรงต่าง ๆ บนแกนแนวตั้ง
+
+#### 📝 Prompt
+
+```
+ย่อขนาดรูปทรงทั้งหมดพร้อมกับหมุนหลาย ๆ ครั้งบนแกนแนวตั้งในรูปแบบที่หลากหลาย
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c3b2ac97ae6704e6bddecdef15fc9396/thumbnails/thumbnail.jpg" width="600" alt="รูปทรงเรขาคณิตหมุนวน">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4770)**
+
+**Author:** [Ember Art](https://x.com/Ember8184Art) | **Source:** [Link](https://x.com/Ember8184Art/status/2054448138857943367) | **Published:** May 13, 2026
+
+---
+### การเปลี่ยนร่างจักรกลไซบอร์กสไตล์ไซเบอร์พังก์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอระดับภาพยนตร์ที่มีความละเอียดสูงสำหรับการเปลี่ยนร่างของตัวละครหญิงไซบอร์กในโรงเก็บยานแห่งอนาคต โดยระบุรายละเอียดการเคลื่อนกล้อง แสง และการเคลื่อนไหวของกลไก
+
+#### 📝 Prompt
+
+```
+วิดีโอความยาว 6 วินาทีแบบภาพยนตร์สมจริงของหญิงสาวไซบอร์กสุดสวยในสไตล์ Transformers ขั้นสูง บรรยากาศไซไฟไซเบอร์พังก์ เธอคือหญิงสาวสวยคนเดิมที่มีผมยาวสีบลอนด์แพลทินัมมัดหางม้าสูง ใบหน้าไร้ที่ติ ดวงตาสีฟ้าโดดเด่น สวมชุดเกราะหุ่นยนต์สีขาวดำเงางามที่มีรายละเอียดสูง เผยให้เห็นข้อต่อกลไกที่ซับซ้อน เส้นพลังงานสีฟ้าเรืองแสง และแผ่นโลหะที่ผ่านศึกมา
+ลำดับเหตุการณ์แบบไดนามิก: เธอยืนอยู่ในโรงเก็บยานไซเบอร์พังก์แห่งอนาคตที่มืดมิด มีแสงนีออนขนาดใหญ่ สายฝน และรถบินได้ในฉากหลัง กล้องค่อย ๆ โคจรรอบตัวเธอ ทันใดนั้นร่างกายของเธอก็เริ่มการเปลี่ยนร่างที่ทรงพลังและลื่นไหลในระดับถัดไป แผ่นเกราะขยับและกางออกด้วยความแม่นยำของกลไก พลังงานพลาสม่าสีฟ้าเรืองแสงพุ่งผ่านวงจรของเธอ หางม้าของเธอสะบัดอย่างน่าทึ่งขณะที่เธอหมุนตัว แขนและขาของเธอปรับเปลี่ยนรูปแบบเข้าสู่โหมดการต่อสู้ที่ล้ำสมัยยิ่งขึ้นพร้อมโมดูลอาวุธใหม่ที่ปรากฏออกมา ประกายไฟและกระแสข้อมูลโฮโลแกรมลอยอยู่รอบตัวเธอ
+รายละเอียดสมจริงระดับสูง 8K แสงแบบภาพยนตร์พร้อมแสงนีออนแบบวอลูเมตริก แสงขอบที่ดูดราม่า ระยะชัดลึกตื้น ถ่ายด้วย Arri Alexa 65 + เลนส์อะนามอร์ฟิก การปรับสีสไตล์ไซเบอร์พังก์ที่เข้มข้น บรรยากาศที่ดูมีอารมณ์ การเคลื่อนไหวของกลไกที่มีรายละเอียดสูง 24fps ที่ลื่นไหล อารมณ์ที่ยิ่งใหญ่และทรงพลัง
+ความแรงของการเคลื่อนไหว: สูง
+การเคลื่อนไหวของกล้อง: โคจรรอบอย่างนุ่มนวล + ซูมเข้าเล็กน้อยอย่างมีชั้นเชิง
+ระยะเวลา: 6 วินาที
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8a6a4bf4dec6472284e220bdeee8c94a/thumbnails/thumbnail.jpg" width="600" alt="การเปลี่ยนร่างจักรกลไซบอร์กสไตล์ไซเบอร์พังก์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4771)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2054363052007628805) | **Published:** May 13, 2026
+
+---
 ### บทวิจารณ์ SpaceX สไตล์สาวแคลิฟอร์เนีย
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1922,256 +2182,6 @@ Dark fantasy, ultra photorealistic cinematic low angle full body portrait, regal
 **Author:** [Jennifer 🇺🇸 🦅](https://x.com/Jenny_MommaLion) | **Source:** [Link](https://x.com/Jenny_MommaLion/status/2051825948606271750) | **Published:** May 6, 2026
 
 ---
-### หุ่นยนต์ Star Wars ที่สถานีชาร์จ Tesla
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สร้างสรรค์ที่นำหุ่นดรอยด์จาก Star Wars อย่าง R2-D2 และ C-3PO มาทำงานที่สถานีชาร์จ Tesla สุดล้ำแห่งอนาคต
-
-#### 📝 Prompt
-
-```
-สถานีชาร์จ Tesla แห่งอนาคตที่ R2-D2 กำลังชงกาแฟและทำโดนัทสดใหม่ ส่วน C-3PO กำลังเช็ดกระจกและเติมลมยาง
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/214742cc2704889e8af45c2c3316160c/thumbnails/thumbnail.jpg" width="600" alt="หุ่นยนต์ Star Wars ที่สถานีชาร์จ Tesla">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4200)**
-
-**Author:** [Jp](https://x.com/Ke26843284James) | **Source:** [Link](https://x.com/Ke26843284James/status/2051406229721768100) | **Published:** May 4, 2026
-
----
-### อดีตอันเปี่ยมด้วยอารมณ์ของ Darth Vader
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์เชิงบรรยายที่ถ่ายทอดภาพของ Darth Vader ในร่างที่ถอดหน้ากากออก กำลังหวนนึกถึงความทรงจำอันอ่อนโยนและเปี่ยมด้วยอารมณ์ที่มีต่อ Padme
-
-#### 📝 Prompt
-
-```
-Darth Vader ในร่างที่ถอดหน้ากากออก กำลังจินตนาการถึงอดีตของเขา เห็น Padme ในขณะที่กำลังตั้งครรภ์ และพูดด้วยน้ำเสียงอ่อนโยนว่า "คุณจะเป็นพ่อที่ดีนะ แอนนี่"
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/38f26fa5a50ae0681ea86570a0c0f1e7/thumbnails/thumbnail.jpg" width="600" alt="อดีตอันเปี่ยมด้วยอารมณ์ของ Darth Vader">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4208)**
-
-**Author:** [Giovanni Sierra](https://x.com/GamerGioHD) | **Source:** [Link](https://x.com/GamerGioHD/status/2051381511220301844) | **Published:** May 4, 2026
-
----
-### สุนทรพจน์ภารกิจกัปตันแนวไซไฟ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับการสร้างวิดีโอในฉากที่กัปตันหันหน้ามาหาผู้ชมและกล่าวสุนทรพจน์
-
-#### 📝 Prompt
-
-```
-กัปตันค่อย ๆ หันหน้ามาทางกล้องและพูดคุยกับผู้ชมเกี่ยวกับภารกิจของเธอและสิ่งที่เธอกำลังทำอยู่
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b78705b69c59a493fe9e2ee50f48c483/thumbnails/thumbnail.jpg" width="600" alt="สุนทรพจน์ภารกิจกัปตันแนวไซไฟ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4213)**
-
-**Author:** [Make Britain Great Again](https://x.com/DragonFlam7530) | **Source:** [Link](https://x.com/DragonFlam7530/status/2051373210029940954) | **Published:** May 4, 2026
-
----
-### ไก่เดี่ยวไมโครโฟน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์สุดฮาที่นำเสนอไก่กำลังแสดงเดี่ยวไมโครโฟน
-
-#### 📝 Prompt
-
-```
-ไก่กำลังแสดงเดี่ยวไมโครโฟนเกี่ยวกับความเจ็บปวดของการออกไข่ โดยพูดว่า “ที่เราส่งเสียงร้องกะต๊าก ไม่ใช่เพราะไม่มีเหตุผลหรอกนะ”
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6323d88c08bf16d78c02658f49511a13/thumbnails/thumbnail.jpg" width="600" alt="ไก่เดี่ยวไมโครโฟน">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4211)**
-
-**Author:** [Lidy E Lane](https://x.com/LidyELane) | **Source:** [Link](https://x.com/LidyELane/status/2051372163312001486) | **Published:** May 4, 2026
-
----
-### แอนิเมชันคนปล้ำกับหมี
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์ที่มีรายละเอียดสูงสำหรับวิดีโอวนลูปความยาว 10 วินาที ที่แสดงภาพคนและหมีกำลังปล้ำกันใกล้แม่น้ำ พร้อมแสงและขนที่สมจริง
-
-#### 📝 Prompt
-
-```
-เวอร์ชัน AI สมัยใหม่ที่สนุกสนานของชายในชุดจัมพ์สูทสีส้มกำลังหยอกล้อปล้ำและเต้นรำกับหมีตัวใหญ่ริมแม่น้ำ ขนที่สมจริงคุณภาพสูงและการเคลื่อนไหวที่เป็นธรรมชาติลื่นไหล แสงแบบภาพยนตร์ ฉากแอ็กชันที่เต็มไปด้วยพลัง แอนิเมชันวนลูปต่อเนื่อง 10 วินาที
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/abbd7820bc44348255dc35c4747fa575/thumbnails/thumbnail.jpg" width="600" alt="แอนิเมชันคนปล้ำกับหมี">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4199)**
-
-**Author:** [Moke](https://x.com/Moke1966758) | **Source:** [Link](https://x.com/Moke1966758/status/2051368435246891157) | **Published:** May 4, 2026
-
----
-### Cybertruck ขับผ่านม้านั่ง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์สำหรับ Cybertruck ที่กำลังขับผ่านม้านั่งซึ่งมีการออกแบบเชิงเรขาคณิตที่คล้ายคลึงกัน
-
-#### 📝 Prompt
-
-```
-Cybertruck ขับผ่านม้านั่งตัวนี้ โดยส่วนที่เป็นรูปทรงสามเหลี่ยมของม้านั่งสะท้อนถึงดีไซน์ของ @cybertruck
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/773966fe9e5370b91f3a38cb8a96c67f/thumbnails/thumbnail.jpg" width="600" alt="Cybertruck ขับผ่านม้านั่ง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4210)**
-
-**Author:** [sho](https://x.com/sho00092729) | **Source:** [Link](https://x.com/sho00092729/status/2051320060594295294) | **Published:** May 4, 2026
-
----
-### ปลาหมึกยักษ์กำลังอ่านหนังสือในห้องสมุด
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) สไตล์ภาพยนตร์สำหรับฉากเหนือจริงของปลาหมึกยักษ์ในห้องสมุดที่มืดมิดและเปี่ยมด้วยบรรยากาศ พร้อมการจัดแสงสีแดงและสีดำสนิทที่ดูน่าตื่นตา
-
-#### 📝 Prompt
-
-```
-ภาพถ่ายสไตล์ภาพยนตร์ของ [ปลาหมึกยักษ์กำลังอ่านหนังสือ, ฉากห้องสมุดมืดที่มีชั้นหนังสือสูง โคมไฟตั้งโต๊ะส่องแสงสีแดงลงบนหนังสือที่เปิดอยู่บนโต๊ะหินอ่อน], สุนทรียศาสตร์แบบฟิล์ม 35 มม., การจัดแสงแบบ Chiaroscuro ที่เน้นความมืดและแสงเงาอย่างมีชั้นเชิง, เน้นโทนสีแดงเข้มจัด, เงาสีดำสนิท
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/768e598dc01f23bf99af267cec8ab693/thumbnails/thumbnail.jpg" width="600" alt="ปลาหมึกยักษ์กำลังอ่านหนังสือในห้องสมุด">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4203)**
-
-**Author:** [Jeremy Wilson](https://x.com/JeremyWilsiuwe) | **Source:** [Link](https://x.com/JeremyWilsiuwe/status/2051308510273581523) | **Published:** May 4, 2026
-
----
-### ความสง่างามแบบบาโรกในสไตล์ Chiaroscuro
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ที่บรรยายรายละเอียดอย่างชัดเจนสำหรับวิดีโอที่เน้นพื้นผิวที่หรูหรา การตกแต่งด้วยสีทอง และองค์ประกอบที่เต็มไปด้วยพลังในสไตล์แสงแบบ Chiaroscuro ที่ดูมีมิติ
-
-#### 📝 Prompt
-
-```
-แสงแบบ Chiaroscuro ที่ดูมีมิติพร้อมความตัดกันที่โดดเด่นระหว่างแสงและเงา
-• โทนสีอัญมณีที่เข้มข้น ผ้ากำมะหยี่เนื้อลึก และการตกแต่งด้วยสีทองที่หรูหรา
-• เส้นทแยงมุมที่ดูมีพลัง การเคลื่อนไหวที่หมุนวน และองค์ประกอบที่เต็มไปด้วยชีวิตชีวา
-• รายละเอียดที่วิจิตรบรรจง ผ้าที่ทิ้งตัวพริ้วไหว และการตกแต่งที่ประณีต
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/74804b1c3c451cf370165bf7a8449f02/thumbnails/thumbnail.jpg" width="600" alt="ความสง่างามแบบบาโรกในสไตล์ Chiaroscuro">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4204)**
-
-**Author:** [Amandasatiro](https://x.com/Amandasatiro07) | **Source:** [Link](https://x.com/Amandasatiro07/status/2051295141768351992) | **Published:** May 4, 2026
-
----
-### สถานีอวกาศที่โคจรรอบดาวเคราะห์แก๊สยักษ์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวภาพยนตร์สำหรับช็อตเปิดกว้างที่เผยให้เห็นสถานีอวกาศขนาดมหึมาในวงโคจร พร้อมเอฟเฟกต์แสงที่ละเอียดและบรรยากาศที่เงียบสงบ
-
-#### 📝 Prompt
-
-```
-ช็อตเปิดกว้าง สถานีอวกาศรูปวงแหวนขนาดมหึมากำลังโคจรรอบดาวเคราะห์แก๊สยักษ์ หมุนอย่างช้าๆ ในขณะที่มีแสงฟ้าแลบวาบอยู่ในหมู่เมฆของดาวเคราะห์เบื้องล่าง แสงแฟลร์จากเลนส์กระจายไปทั่วพื้นผิวโลหะ ยานลำเล็กๆ จอดเทียบท่าและออกเดินทางอย่างเงียบเชียบ ดวงดาวระยิบระยับอยู่ไกลออกไป เป็นภาพแทนของอารยธรรมในห้วงอวกาศลึกที่เงียบสงบและยิ่งใหญ่
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7c59f4675edc4f3511887b1f14342518/thumbnails/thumbnail.jpg" width="600" alt="สถานีอวกาศที่โคจรรอบดาวเคราะห์แก๊สยักษ์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4205)**
-
-**Author:** [LudovicCreator](https://x.com/LudovicCreator) | **Source:** [Link](https://x.com/LudovicCreator/status/2051225355353026740) | **Published:** May 4, 2026
-
----
-### เส้นทางการเติบโตของ Content Creator ด้วยเครื่องมือ AI
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ชุดคำสั่ง (Prompt) ที่ครอบคลุมซึ่งสรุปเหตุการณ์ 4 ฉาก เพื่อแสดงให้เห็นถึงเส้นทางของครีเอเตอร์ที่ใช้เครื่องมือ AI ในการสร้างการเติบโตบนแพลตฟอร์มโซเชียลมีเดีย
-
-#### 📝 Prompt
-
-```
-สร้างวิดีโอแนวล้ำสมัยความยาว 15 วินาที ที่แสดงให้เห็น Content Creator ใช้เครื่องมือ AI เพื่อสร้างการเติบโตบน Twitter/X ฉากที่ 1: คนนั่งอยู่หน้าแล็ปท็อป กำลังประสบปัญหาในการเขียนทวีตและวิเคราะห์เทรนด์ ฉากที่ 2: ผู้ช่วย AI ปรากฏขึ้นบนหน้าจอเพื่อสร้างไอเดียทวีตที่เป็นไวรัล แฮชแท็ก ข้อมูลเชิงลึกของกลุ่มเป้าหมาย และตั้งเวลาโพสต์โดยอัตโนมัติ ฉากที่ 3: แดชบอร์ดของ Twitter/X แสดงจำนวนผู้ติดตาม การมีส่วนร่วม ยอดไลก์ ยอดรีโพสต์ และโพสต์ที่กำลังเป็นกระแสที่เพิ่มขึ้น ฉากที่ 4: ภาพระยะใกล้ของครีเอเตอร์ที่กำลังยิ้มอย่างมีความสุข ในขณะที่การแจ้งเตือนบนหน้าจอดังขึ้นอย่างต่อเนื่อง อินเทอร์เฟซสีน้ำเงินแนวล้ำสมัย ภาพโฮโลแกรมของ AI การเปลี่ยนฉากที่รวดเร็ว สุนทรียศาสตร์แบบโซเชียลมีเดียสมัยใหม่ แสงที่สมจริง และดนตรีประกอบที่สร้างแรงบันดาลใจ
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/900bfb3816832177984720f30bdf408c/thumbnails/thumbnail.jpg" width="600" alt="เส้นทางการเติบโตของ Content Creator ด้วยเครื่องมือ AI">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4201)**
-
-**Author:** [Ur Meer](https://x.com/UrMeer289) | **Source:** [Link](https://x.com/UrMeer289/status/2051212448913572253) | **Published:** May 4, 2026
-
----
-### เด็กสาวในโลกหลังวันสิ้นโลกและเหล่าหุ่นยนต์แอนดรอยด์ผู้พิทักษ์
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> คำสั่ง (Prompt) โดยละเอียดสำหรับวิดีโอที่นำเสนอเด็กสาวมนุษย์คนสุดท้ายในโลกหลังวันสิ้นโลกที่ยังคงสภาพสมบูรณ์ โดยมีหุ่นยนต์แอนดรอยด์ที่เหมือนมนุษย์คอยดูแล
-
-#### 📝 Prompt
-
-```
-เด็กสาวผู้สวยงามคนสุดท้ายของมนุษยชาติที่อาศัยอยู่ในโลกหลังวันสิ้นโลก โลกไม่ได้ถูกทำลายจนราบคาบแต่ไม่มีมนุษย์หลงเหลืออยู่แล้ว สิ่งอำนวยความสะดวกและอาคารต่างๆ ยังคงอยู่ในสภาพเกือบสมบูรณ์ โดยมีหุ่นยนต์แอนดรอยด์ที่มีรูปลักษณ์เหมือนมนุษย์คอยดูแลและสนับสนุนการใช้ชีวิตของเด็กสาวคนนี้
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a4fc8979ebbb2f9fb24031870f5b0b7b/thumbnails/thumbnail.jpg" width="600" alt="เด็กสาวในโลกหลังวันสิ้นโลกและเหล่าหุ่นยนต์แอนดรอยด์ผู้พิทักษ์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4212)**
-
-**Author:** [S.T.O](https://x.com/dhT1mlkOvovxVE4) | **Source:** [Link](https://x.com/dhT1mlkOvovxVE4/status/2051196347764875299) | **Published:** May 4, 2026
-
----
-### ลำดับท่าทางโซโล่กีตาร์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์แอนิเมชันแบบไดนามิกสำหรับนักกีตาร์ที่กำลังโซโล่และเอนตัวไปด้านหลังเพื่อเพิ่มความน่าตื่นเต้น
-
-#### 📝 Prompt
-
-```
-โซโล่กีตาร์โดยนักกีตาร์เอนตัวไปด้านหลังขณะมองที่กีตาร์ของเขา จากนั้นจึงเอนตัวกลับเข้ามา
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/58f9aa8dd217b04538a67bdc6592fdc5/thumbnails/thumbnail.jpg" width="600" alt="ลำดับท่าทางโซโล่กีตาร์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4209)**
-
-**Author:** [Debarasser La piste](https://x.com/smilking225) | **Source:** [Link](https://x.com/smilking225/status/2051194183076004212) | **Published:** May 4, 2026
-
----
-### Spaceship Movie and Crew Celebration
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A complex video generation prompt that directs a cinematic scene featuring a hovering spaceship and multiple characters celebrating together.
-
-#### 📝 Prompt
-
-```
-Create a movie from image 7 of the hovering spaceship and add all the characters from the other 6 images selected. Show all these characters watching the spaceship hovering and celebrating after fixing the spaceship
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dfdc4a53d3a13b460c79735fb66ebda3/thumbnails/thumbnail.jpg" width="600" alt="Spaceship Movie and Crew Celebration">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4149)**
-
-**Author:** [Sparrow](https://x.com/Sparrow_X_) | **Source:** [Link](https://x.com/Sparrow_X_/status/2051174535630921894) | **Published:** May 4, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2233,6 +2243,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-14T06:57:41.044Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-14T10:28:06.179Z</sub>
 
 </div>

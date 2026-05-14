@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1494** |
+| 📝 Total Prompts | **1507** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-14** |
 
@@ -189,6 +189,266 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Venusianische Frau auf einem Paradiesplaneten
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein filmischer Video-Prompt für eine wunderschöne Frau auf einem Paradiesplaneten mit einer strahlenden kosmischen Aura.
+
+#### 📝 Prompt
+
+```
+Wunderschöne venusianische Frau, sanfter goldener Glanz, Paradiesplaneten-Landschaft, elegantes fließendes Kleid, strahlende Aura, friedliche kosmische Zivilisation, ultrarealistisches Fantasy-Porträt, filmisches Sonnenlicht
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e9d4a71d4ebda4919c89a8e86a7fe52/thumbnails/thumbnail.jpg" width="600" alt="Venusianische Frau auf einem Paradiesplaneten">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4769)**
+
+**Author:** [Narmina](https://x.com/narminamoon) | **Source:** [Link](https://x.com/narminamoon/status/2054588306747162627) | **Published:** May 13, 2026
+
+---
+### Orion-Kriegerin Sci-Fi-Porträt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochdetaillierter Sci-Fi-Prompt für eine Kriegerin in futuristischer Rüstung mit kosmischer Beleuchtung und filmischen Schatten.
+
+#### 📝 Prompt
+
+```
+Mächtige Orion-Kriegerin, dunkle futuristische Rüstung, kosmische Schlachtatmosphäre, leuchtend rote und blaue Lichter, starker mystischer Blick, ultrarealistisches Sci-Fi-Porträt, filmische Schatten
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/49d505302c6916f63402bea08e8bcf76/thumbnails/thumbnail.jpg" width="600" alt="Orion-Kriegerin Sci-Fi-Porträt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4761)**
+
+**Author:** [Narmina](https://x.com/narminamoon) | **Source:** [Link](https://x.com/narminamoon/status/2054587951061844327) | **Published:** May 13, 2026
+
+---
+### Ätherisches andromedanisches Himmelsgewand
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Sci-Fi-Fantasy-Prompt für eine ätherische Frau mit silberner Haut und himmlischen Gewändern in einem kosmischen Palast.
+
+#### 📝 Prompt
+
+```
+Ätherische andromedanische Frau, silbern leuchtende Haut, langes weißes Haar, himmlischer Palast, holografische Sterne, elegantes kosmisches Gewand, ultrarealistische Sci-Fi-Fantasy, göttliche weibliche Energie, filmische Beleuchtung, hochdetailliert
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2e442ef2e4de86fa72c0a981b8e7869f/thumbnails/thumbnail.jpg" width="600" alt="Ätherisches andromedanisches Himmelsgewand">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4762)**
+
+**Author:** [Narmina](https://x.com/narminamoon) | **Source:** [Link](https://x.com/narminamoon/status/2054587169402974372) | **Published:** May 13, 2026
+
+---
+### Blaue Alien-Frau ägyptische Sci-Fi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Sci-Fi-Video-Prompt mit einer blauhäutigen Alien-Frau in einem kosmischen ägyptischen Setting.
+
+#### 📝 Prompt
+
+```
+Blauhäutige Sirius-Alien-Frau, elegante futuristische Kleidung, ägyptische kosmische Architektur, Sterne und Pyramiden, leuchtender Kristall, ultrarealistisches Sci-Fi-Porträt
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fe07cfea77ee3a490046f1d7281bc217/thumbnails/thumbnail.jpg" width="600" alt="Blaue Alien-Frau ägyptische Sci-Fi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4763)**
+
+**Author:** [Narmina](https://x.com/narminamoon) | **Source:** [Link](https://x.com/narminamoon/status/2054586816234131840) | **Published:** May 13, 2026
+
+---
+### Frau fliegt von Schmetterlingsbank
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein cineastischer Prompt, der eine Frau auf einer Schmetterlingsbank beschreibt, die aufsteht und davonfliegt, während sich die Flügel mit ihr bewegen.
+
+#### 📝 Prompt
+
+```
+Lasse eine Dame, die auf der Schmetterlingsbank sitzt, aufstehen, wobei sich die Flügel mit ihr bewegen und sie fliegen kann. Sie soll sanft und süß lachen, und die Szene soll flüssig und ästhetisch gestaltet sein.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/011354912893e24045ecd43702118a60/thumbnails/thumbnail.jpg" width="600" alt="Frau fliegt von Schmetterlingsbank">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4768)**
+
+**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2054576561416741025) | **Published:** May 13, 2026
+
+---
+### Filmreife Holzfäller-Actionsequenz
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochwertiger, filmreifer Video-Prompt für Grok Imagine, der einen Holzfäller in einem nebligen Wald mit dramatischen Zeitlupeneffekten zeigt.
+
+#### 📝 Prompt
+
+```
+Ein rauer Holzfäller in einem nebligen Wald bei Sonnenaufgang, der eine schwere Axt in einen riesigen Baumstamm schlägt, dramatische Zeitlupen-Holzexplosion, filmreife Nahaufnahmen, hyperrealistisch, Hollywood-Actionfilm-Qualität
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e7e4a6a2a3ac5c3150aedef8fe58f7f/thumbnails/thumbnail.jpg" width="600" alt="Filmreife Holzfäller-Actionsequenz">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4772)**
+
+**Author:** [クレア](https://x.com/kureakurea01) | **Source:** [Link](https://x.com/kureakurea01/status/2054567553570373985) | **Published:** May 13, 2026
+
+---
+### Mecha City Transformers Kinovideo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein massiver, detaillierter Sci-Fi-Prompt für ein 6-sekündiges Video eines Mechas, der mit einer Cyberpunk-Stadt über der Erde verschmolzen ist.
+
+#### 📝 Prompt
+
+```
+Ein hyperrealistisches, filmisches 6-sekündiges Sci-Fi-Video im Transformers-Stil der nächsten Generation, kombiniert mit dunkler Cyberpunk-Ästhetik. Ein kolossaler, 200 Meter hoher, weiß-schwarzer humanoider Mecha, dessen Rücken und Schultern mit einer riesigen, weitläufigen Cyberpunk-Megastadt verschmolzen sind, die mit leuchtenden Neon-Spitzen, Antennen und Wolkenkratzern bedeckt ist, steht dominant über der Erdatmosphäre. Der riesige Roboter hat einen bedrohlichen, totenkopfartigen Kopf mit leuchtend roten Optiken.
+Beginnen Sie mit einer dramatischen Luftaufnahme aus der Vogelperspektive, die langsam heranzoomt, während der Titan seinen Oberkörper und Kopf mit kraftvoller mechanischer Bewegung langsam zur Kamera dreht. Seine roten Augen leuchten hell auf. Die Kamera umkreist dann sanft seinen massiven Torso und enthüllt komplizierte, kampferprobte Panzerplatten, freiliegende Verkabelungen und Lichter der Stadt, die wie neuronale Netzwerke pulsieren.
+Bei 3 Sekunden macht er einen schweren Schritt nach vorne – der Aufprall erzeugt massive Schockwellen, die riesige Rauchwolken, Wasserdampf und Trümmer vom Ozean und der Küste unter ihm nach oben schleudern. Der Boden bebt heftig.
+Letzte Einstellung: dramatischer Hero-Shot aus der Froschperspektive, während der Mecha kraftvoll seine rechte Faust hebt und Energie entlang seines Arms knistert. Epische Dimensionen vor der Krümmung des Planeten, türkise-orangefarbene Cyberpunk-Farbkorrektur, volumetrische Lichtstrahlen, atmosphärischer Dunst, fliegende Partikel und subtiles Filmkorn. 8K, ultra-detailliert, fotorealistisch, IMAX-Qualität, dynamische Kamerabewegung, intensives Sounddesign mit tiefem mechanischem Knarren und heulendem Wind.
+Stil: Hyperrealistisch, filmisch, Next-Gen Transformers, Cyberpunk, Blade Runner 2049 trifft Pacific Rim, dramatische Beleuchtung, Bewegungsunschärfe bei schnellen Bewegungen.
+Kamera: Filmisch, sanfte Umlaufbahn + dramatischer Zoom hinein und heraus, subtiles Handkamera-Wackeln beim Aufprall.
+Dauer: Exakt 6 Sekunden, 24 fps, hohe Bewegungsqualität.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0f815be4a8c01a46938a067d8f132799/thumbnails/thumbnail.jpg" width="600" alt="Mecha City Transformers Kinovideo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4764)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2054528992900702699) | **Published:** May 13, 2026
+
+---
+### Übergang von Stein zu Gold
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein metamorpher Video-Prompt, der die Entwicklung von Mustern von antiken Steinfundamenten bis hin zu modernen elektronischen Leiterplatten visualisiert.
+
+#### 📝 Prompt
+
+```
+Von Stein zu Gold 
+
+Von den Grundsteinen antiker Städte bis hin zu modernen Leiterplatten – alles basiert auf denselben Mustern und Blaupausen.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6cf2a09c6d05ded6a1eb5f70b2028d3c/thumbnails/thumbnail.jpg" width="600" alt="Übergang von Stein zu Gold">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4760)**
+
+**Author:** [Tommy Maloney](https://x.com/ThomasMalo26860) | **Source:** [Link](https://x.com/ThomasMalo26860/status/2054490062125998090) | **Published:** May 13, 2026
+
+---
+### Göttliche Hathor-Sci-Fi-Göttin
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Prompt für eine himmlische ägyptische Göttin mit spiritueller Sci-Fi-Energie.
+
+#### 📝 Prompt
+
+```
+Göttliche Hathor-Frau, ägyptische kosmische Göttin, gold-weiße Aura, heilige Tempel, himmlischer Schmuck, elegantes fließendes Gewand, liebevolle spirituelle Energie, ultrarealistische Sci-Fi-Fantasy, filmische Beleuchtung, hochdetailliert
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/83728902e96133eecf819f2580f5c855/thumbnails/thumbnail.jpg" width="600" alt="Göttliche Hathor-Sci-Fi-Göttin">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4765)**
+
+**Author:** [Narmina](https://x.com/narminamoon) | **Source:** [Link](https://x.com/narminamoon/status/2054461946577953002) | **Published:** May 13, 2026
+
+---
+### Lyran Feline Woman Fantasy
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Fantasy-Prompt für ein Video, das eine Lyraner-Katzenfrau in einer goldenen kosmischen Stadt zeigt.
+
+#### 📝 Prompt
+
+```
+Lyraner-Katzenfrau, humanoide Katzenwesen, Katzenohren, lockiges Haar, goldene kosmische Stadt, spirituelle Fantasy-Sci-Fi, filmisches Porträt, ultra-detailliert
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ff49e4ddeb53c37a0fed5677d714a0d0/thumbnails/thumbnail.jpg" width="600" alt="Lyran Feline Woman Fantasy">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4767)**
+
+**Author:** [Narmina](https://x.com/narminamoon) | **Source:** [Link](https://x.com/narminamoon/status/2054461533975892064) | **Published:** May 13, 2026
+
+---
+### Plejader-Frau in der Kristallstadt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein spiritueller Sci-Fi-Prompt für eine blonde Frau in einer futuristischen kosmischen Kristallstadt.
+
+#### 📝 Prompt
+
+```
+Wunderschöne Plejader-Frau, langes blondes Haar, leuchtend blaue Augen, futuristisches weiß-silbernes Kleid, Kristallstadt, kosmischer Hintergrund, ultrarealistisch, filmische Beleuchtung, spirituelle Sci-Fi-Ästhetik, hochdetailliert
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2ae23d7d934e15f297693f7933a38495/thumbnails/thumbnail.jpg" width="600" alt="Plejader-Frau in der Kristallstadt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4766)**
+
+**Author:** [Narmina](https://x.com/narminamoon) | **Source:** [Link](https://x.com/narminamoon/status/2054461158480916609) | **Published:** May 13, 2026
+
+---
+### Rotierende geometrische Formen
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein abstrakter Motion-Prompt, bei dem Formen auf einer vertikalen Achse verkleinert und rotiert werden.
+
+#### 📝 Prompt
+
+```
+Verkleinere alle Formen und rotiere sie dabei mehrfach auf verschiedene Weise um die vertikale Achse
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c3b2ac97ae6704e6bddecdef15fc9396/thumbnails/thumbnail.jpg" width="600" alt="Rotierende geometrische Formen">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4770)**
+
+**Author:** [Ember Art](https://x.com/Ember8184Art) | **Source:** [Link](https://x.com/Ember8184Art/status/2054448138857943367) | **Published:** May 13, 2026
+
+---
+### Cyberpunk Cyborg Mechanische Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochauflösender, kinoreifer Video-Prompt für die Transformation einer weiblichen Cyborg-Figur in einem futuristischen Hangar, inklusive Details zu Kameraführung, Beleuchtung und mechanischen Bewegungsabläufen.
+
+#### 📝 Prompt
+
+```
+Kinoreifes, fotorealistisches 6-Sekunden-Video einer atemberaubenden weiblichen Cyborg im Next-Level-Transformers-Stil, Cyberpunk-Sci-Fi-Atmosphäre. Sie ist dieselbe schöne junge Frau mit langem, fließendem platinblonden Haar in einem hohen Pferdeschwanz, makellosem Gesicht, auffälligen blauen Augen, bekleidet mit einem eleganten, ultra-detaillierten, glänzend weiß-schwarzen Roboter-Anzug mit freiliegenden, komplexen mechanischen Gelenken, leuchtenden blauen Energielinien und kampferprobten Metallplatten.
+Dynamische Sequenz: Sie steht in einem dunklen, futuristischen Cyberpunk-Hangar mit riesigen Neonlichtern, Regen und fliegenden Autos im Hintergrund. Die Kamera umkreist sie langsam. Plötzlich beginnt ihr Körper eine kraftvolle, flüssige Next-Level-Transformation – Panzerplatten verschieben und entfalten sich mit mechanischer Präzision, leuchtende blaue Plasmaenergie durchströmt ihre Schaltkreise, ihr Pferdeschwanz peitscht dramatisch, während sie sich dreht. Ihre Arme und Beine konfigurieren sich in eine fortschrittlichere Kampfform um, wobei neue Waffenmodule zum Vorschein kommen. Funken und holografische Datenströme fliegen um sie herum.
+Ultra-realistische Details, 8K, kinoreife Beleuchtung mit volumetrischem Neon-Glühen, dramatisches Kantenlicht, geringe Schärfentiefe, gedreht mit Arri Alexa 65 + anamorphen Objektiven, intensives Cyberpunk-Color-Grading, stimmungsvolle Atmosphäre, hochdetaillierte mechanische Bewegungen, flüssige 24 fps, epische und kraftvolle Stimmung.
+Bewegungsstärke: Hoch
+Kamerabewegung: Sanfte Umlaufbewegung + leichter, dramatischer Zoom nach vorne
+Dauer: 6 Sekunden
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8a6a4bf4dec6472284e220bdeee8c94a/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Cyborg Mechanische Transformation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4771)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2054363052007628805) | **Published:** May 13, 2026
+
+---
 ### California Girl SpaceX Kommentar
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1919,256 +2179,6 @@ Animation eines lebendigen Vanity Fair Magazin-Covers, 15 Sekunden, ultra-kinema
 **Author:** [Jennifer 🇺🇸 🦅](https://x.com/Jenny_MommaLion) | **Source:** [Link](https://x.com/Jenny_MommaLion/status/2051825948606271750) | **Published:** May 6, 2026
 
 ---
-### Tesla-Station mit Star Wars-Robotern
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein kreativer Mashup-Prompt mit den Star Wars-Droiden R2-D2 und C-3PO, die an einer futuristischen Tesla-Ladestation arbeiten.
-
-#### 📝 Prompt
-
-```
-Eine futuristische Tesla-Ladestation, an der R2-D2 Kaffee serviert und frische Donuts backt, während C-3PO die Fenster putzt sowie Luft und Reifen prüft.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/214742cc2704889e8af45c2c3316160c/thumbnails/thumbnail.jpg" width="600" alt="Tesla-Station mit Star Wars-Robotern">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4200)**
-
-**Author:** [Jp](https://x.com/Ke26843284James) | **Source:** [Link](https://x.com/Ke26843284James/status/2051406229721768100) | **Published:** May 4, 2026
-
----
-### Darth Vaders emotionale Vergangenheit
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein narrativer Prompt, der einen demaskierten Darth Vader zeigt, wie er über eine sanfte, emotionale Erinnerung an Padmé nachdenkt.
-
-#### 📝 Prompt
-
-```
-Darth Vader demaskiert, stellt sich seine Vergangenheit vor, Padmé schwanger, sagt mit sanfter Stimme: „Du wirst ein guter Vater sein, Anne“
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/38f26fa5a50ae0681ea86570a0c0f1e7/thumbnails/thumbnail.jpg" width="600" alt="Darth Vaders emotionale Vergangenheit">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4208)**
-
-**Author:** [Giovanni Sierra](https://x.com/GamerGioHD) | **Source:** [Link](https://x.com/GamerGioHD/status/2051381511220301844) | **Published:** May 4, 2026
-
----
-### Sci-Fi-Kapitänsrede für eine Mission
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Videogenerierungs-Prompt für eine Szene, in der sich ein Kapitän zur Kamera dreht und spricht.
-
-#### 📝 Prompt
-
-```
-Die Kapitänin dreht sich langsam zur Kamera und spricht zum Publikum über ihre Mission und ihr aktuelles Vorhaben.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b78705b69c59a493fe9e2ee50f48c483/thumbnails/thumbnail.jpg" width="600" alt="Sci-Fi-Kapitänsrede für eine Mission">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4213)**
-
-**Author:** [Make Britain Great Again](https://x.com/DragonFlam7530) | **Source:** [Link](https://x.com/DragonFlam7530/status/2051373210029940954) | **Published:** May 4, 2026
-
----
-### Hühner-Stand-up-Comedy
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein humorvoller Video-Prompt, in dem ein Huhn eine Stand-up-Comedy-Nummer aufführt.
-
-#### 📝 Prompt
-
-```
-Ein Huhn bei einer Stand-up-Comedy-Nummer über die Qualen des Eierlegens: „Wir sagen nicht umsonst ‚Gack-Gack‘“
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6323d88c08bf16d78c02658f49511a13/thumbnails/thumbnail.jpg" width="600" alt="Hühner-Stand-up-Comedy">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4211)**
-
-**Author:** [Lidy E Lane](https://x.com/LidyELane) | **Source:** [Link](https://x.com/LidyELane/status/2051372163312001486) | **Published:** May 4, 2026
-
----
-### Animation eines ringenden Mannes mit einem Bären
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochdetaillierter Video-Prompt für eine 10-sekündige Schleife, die einen Mann und einen Bären beim Ringen in der Nähe eines Flusses zeigt, mit realistischer Beleuchtung und Fell.
-
-#### 📝 Prompt
-
-```
-Eine unterhaltsame, moderne KI-Version eines Mannes in einem orangefarbenen Overall, der spielerisch mit einem großen Bären an einem Fluss ringt und tanzt, hochwertiges, realistisches Fell und flüssige, natürliche Bewegungen, filmische Beleuchtung, dynamische Actionszene, 10-sekündige nahtlose Loop-Animation
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/abbd7820bc44348255dc35c4747fa575/thumbnails/thumbnail.jpg" width="600" alt="Animation eines ringenden Mannes mit einem Bären">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4199)**
-
-**Author:** [Moke](https://x.com/Moke1966758) | **Source:** [Link](https://x.com/Moke1966758/status/2051368435246891157) | **Published:** May 4, 2026
-
----
-### Cybertruck fährt an einer Bank vorbei
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Prompt für einen Cybertruck, der an einer Bank vorbeifährt, die ähnliche geometrische Designelemente aufweist.
-
-#### 📝 Prompt
-
-```
-Cybertruck fährt an dieser Bank vorbei, der dreieckige Teil der Bank spiegelt das Design des @cybertruck wider
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/773966fe9e5370b91f3a38cb8a96c67f/thumbnails/thumbnail.jpg" width="600" alt="Cybertruck fährt an einer Bank vorbei">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4210)**
-
-**Author:** [sho](https://x.com/sho00092729) | **Source:** [Link](https://x.com/sho00092729/status/2051320060594295294) | **Published:** May 4, 2026
-
----
-### Oktopus beim Lesen in einer Bibliothek
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein cineastischer Prompt für eine surreale Szene mit einem Oktopus in einer dunklen, atmosphärischen Bibliothek mit dramatischer Beleuchtung in Rot und Ebenholz.
-
-#### 📝 Prompt
-
-```
-Cineastische Aufnahme von [einem Oktopus, der ein Buch liest, dunkle Bibliotheksszene mit hohem Bücherregal, Schreibtischlampe wirft rotes Licht auf ein aufgeschlagenes Buch, Marmortisch], 35-mm-Film-Ästhetik, dramatische Low-Key-Chiaroscuro-Beleuchtung, intensive karmesinrote Akzente, tiefe ebenholzfarbene Schatten
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/768e598dc01f23bf99af267cec8ab693/thumbnails/thumbnail.jpg" width="600" alt="Oktopus beim Lesen in einer Bibliothek">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4203)**
-
-**Author:** [Jeremy Wilson](https://x.com/JeremyWilsiuwe) | **Source:** [Link](https://x.com/JeremyWilsiuwe/status/2051308510273581523) | **Published:** May 4, 2026
-
----
-### Barocke Chiaroscuro-Eleganz
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochgradig beschreibender Prompt für ein Video mit satten Texturen, goldenen Akzenten und energiegeladenen Kompositionen im dramatischen Chiaroscuro-Lichtstil.
-
-#### 📝 Prompt
-
-```
-Dramatische Chiaroscuro-Beleuchtung mit markanten Licht- und Schattenkontrasten
-• Satte Juwelenfarben, tiefes Samt und verschwenderische Goldakzente
-• Dynamische Diagonalen, wirbelnde Bewegungen und energiegeladene Kompositionen
-• Verzierte Details, fließende Stoffe und aufwendiges Dekor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/74804b1c3c451cf370165bf7a8449f02/thumbnails/thumbnail.jpg" width="600" alt="Barocke Chiaroscuro-Eleganz">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4204)**
-
-**Author:** [Amandasatiro](https://x.com/Amandasatiro07) | **Source:** [Link](https://x.com/Amandasatiro07/status/2051295141768351992) | **Published:** May 4, 2026
-
----
-### Raumstation im Orbit eines Gasriesen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein cineastischer Video-Prompt für eine weite Einstellungsgröße einer massiven Raumstation im Orbit, mit detaillierten Lichteffekten und einer ruhigen Atmosphäre.
-
-#### 📝 Prompt
-
-```
-Weite Einstellungsgröße, eine kolossale ringförmige Raumstation umkreist einen Gasriesen und rotiert langsam, während Blitze in den Wolken des Planeten darunter zucken, Lens Flares erstrecken sich über die metallische Oberfläche, winzige Schiffe docken in anmutiger Stille an und ab, Sterne funkeln in der Ferne – eine ruhige, monumentale Darstellung einer Zivilisation im tiefen Weltraum.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7c59f4675edc4f3511887b1f14342518/thumbnails/thumbnail.jpg" width="600" alt="Raumstation im Orbit eines Gasriesen">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4205)**
-
-**Author:** [LudovicCreator](https://x.com/LudovicCreator) | **Source:** [Link](https://x.com/LudovicCreator/status/2051225355353026740) | **Published:** May 4, 2026
-
----
-### Wachstumsreise eines Content Creators mit KI-Tools
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein umfassender Prompt, der eine Sequenz aus vier Szenen skizziert, die den Weg eines Creators zeigt, der KI-Tools nutzt, um auf Social-Media-Plattformen zu wachsen.
-
-#### 📝 Prompt
-
-```
-Erstelle ein cineastisches, 15-sekündiges futuristisches Video, das einen Content Creator zeigt, der KI-Tools nutzt, um auf Twitter/X zu wachsen. Szene 1: Eine Person sitzt am Laptop und hat Schwierigkeiten, Tweets zu schreiben und Trends zu analysieren. Szene 2: Ein KI-Assistent erscheint auf dem Bildschirm und generiert virale Tweet-Ideen, Hashtags, Einblicke in die Zielgruppe und plant Beiträge automatisch. Szene 3: Das Twitter/X-Dashboard zeigt steigende Followerzahlen, Engagement, Likes, Reposts und Trend-Beiträge. Szene 4: Nahaufnahme des glücklichen Creators, der lächelt, während Benachrichtigungen auf dem Bildschirm explodieren. Futuristische blaue Benutzeroberfläche, holografische KI-Visuals, schnelle Übergänge, moderne Social-Media-Ästhetik, realistische Beleuchtung, motivierende Hintergrundmusik.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/900bfb3816832177984720f30bdf408c/thumbnails/thumbnail.jpg" width="600" alt="Wachstumsreise eines Content Creators mit KI-Tools">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4201)**
-
-**Author:** [Ur Meer](https://x.com/UrMeer289) | **Source:** [Link](https://x.com/UrMeer289/status/2051212448913572253) | **Published:** May 4, 2026
-
----
-### Postapokalyptisches Mädchen und Androiden-Wächter
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein detaillierter Prompt für ein Video, das das letzte menschliche Mädchen in einer erhaltenen postapokalyptischen Welt zeigt, die von lebensechten Androiden umsorgt wird.
-
-#### 📝 Prompt
-
-```
-Das letzte schöne Mädchen der Menschheit lebt in einer postapokalyptischen Welt; die Welt ist nicht zerstört, aber alle Menschen sind verschwunden. Einrichtungen und Gebäude sind fast unverändert erhalten, während menschenähnliche Androiden sich um das Mädchen kümmern und ihr Leben unterstützen.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a4fc8979ebbb2f9fb24031870f5b0b7b/thumbnails/thumbnail.jpg" width="600" alt="Postapokalyptisches Mädchen und Androiden-Wächter">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4212)**
-
-**Author:** [S.T.O](https://x.com/dhT1mlkOvovxVE4) | **Source:** [Link](https://x.com/dhT1mlkOvovxVE4/status/2051196347764875299) | **Published:** May 4, 2026
-
----
-### Gitarrensolo-Bewegungssequenz
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein dynamischer Animations-Prompt für einen Gitarristen, der ein Solo spielt und sich für einen dramatischen Effekt zurücklehnt.
-
-#### 📝 Prompt
-
-```
-Gitarrensolo, bei dem sich der Gitarrist zurücklehnt, während er auf seine Gitarre schaut, und sich dann wieder aufrichtet
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/58f9aa8dd217b04538a67bdc6592fdc5/thumbnails/thumbnail.jpg" width="600" alt="Gitarrensolo-Bewegungssequenz">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4209)**
-
-**Author:** [Debarasser La piste](https://x.com/smilking225) | **Source:** [Link](https://x.com/smilking225/status/2051194183076004212) | **Published:** May 4, 2026
-
----
-### Spaceship Movie and Crew Celebration
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A complex video generation prompt that directs a cinematic scene featuring a hovering spaceship and multiple characters celebrating together.
-
-#### 📝 Prompt
-
-```
-Create a movie from image 7 of the hovering spaceship and add all the characters from the other 6 images selected. Show all these characters watching the spaceship hovering and celebrating after fixing the spaceship
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dfdc4a53d3a13b460c79735fb66ebda3/thumbnails/thumbnail.jpg" width="600" alt="Spaceship Movie and Crew Celebration">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4149)**
-
-**Author:** [Sparrow](https://x.com/Sparrow_X_) | **Source:** [Link](https://x.com/Sparrow_X_/status/2051174535630921894) | **Published:** May 4, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2230,6 +2240,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-14T06:57:48.766Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-14T10:28:11.804Z</sub>
 
 </div>

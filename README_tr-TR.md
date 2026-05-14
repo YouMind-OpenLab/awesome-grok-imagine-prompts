@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1494** |
+| 📝 Total Prompts | **1507** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-14** |
 
@@ -189,6 +189,266 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Venüs Kadını Cennet Gezegeni
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Işıltılı bir kozmik auraya sahip, cennet gibi bir gezegendeki güzel bir kadın için sinematik video istemi.
+
+#### 📝 Prompt
+
+```
+Güzel Venüs kadını, yumuşak altın rengi parıltı, cennet gezegen manzarası, zarif dökümlü elbise, ışıldayan aura, huzurlu kozmik medeniyet, ultra gerçekçi fantastik portre, sinematik gün ışığı
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e9d4a71d4ebda4919c89a8e86a7fe52/thumbnails/thumbnail.jpg" width="600" alt="Venüs Kadını Cennet Gezegeni">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4769)**
+
+**Author:** [Narmina](https://x.com/narminamoon) | **Source:** [Link](https://x.com/narminamoon/status/2054588306747162627) | **Published:** May 13, 2026
+
+---
+### Orion Savaşçı Kadın Bilim Kurgu Portresi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Fütüristik zırhlı, kozmik ışıklandırmalı ve sinematik gölgeli bir savaşçı kadın için yüksek detaylı bilim kurgu istemi.
+
+#### 📝 Prompt
+
+```
+Güçlü orion savaşçı kadın, karanlık fütüristik zırh, kozmik savaş atmosferi, parlayan kırmızı ve mavi ışıklar, güçlü mistik bakışlar, ultra gerçekçi bilim kurgu portresi, sinematik gölgeler
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/49d505302c6916f63402bea08e8bcf76/thumbnails/thumbnail.jpg" width="600" alt="Orion Savaşçı Kadın Bilim Kurgu Portresi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4761)**
+
+**Author:** [Narmina](https://x.com/narminamoon) | **Source:** [Link](https://x.com/narminamoon/status/2054587951061844327) | **Published:** May 13, 2026
+
+---
+### Ethereal Andromedan Celestial Robe
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kozmik bir sarayda, gümüş rengi teni ve göksel cübbeleriyle ruhani bir kadın için detaylı bir bilim kurgu fantezi istemi.
+
+#### 📝 Prompt
+
+```
+Ruhani Andromedalı kadın, gümüş parıltılı ten, uzun beyaz saç, göksel saray, holografik yıldızlar, zarif kozmik cübbe, ultra gerçekçi bilim kurgu fantezi, ilahi dişil enerji, sinematik aydınlatma, yüksek detaylı
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2e442ef2e4de86fa72c0a981b8e7869f/thumbnails/thumbnail.jpg" width="600" alt="Ethereal Andromedan Celestial Robe">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4762)**
+
+**Author:** [Narmina](https://x.com/narminamoon) | **Source:** [Link](https://x.com/narminamoon/status/2054587169402974372) | **Published:** May 13, 2026
+
+---
+### Mavi Uzaylı Kadın Mısırlı Bilim Kurgu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kozmik bir Mısır ortamında mavi tenli bir uzaylı kadını konu alan bilim kurgu video istemi.
+
+#### 📝 Prompt
+
+```
+Mavi tenli Sirius uzaylı kadını, zarif fütüristik kıyafetler, Mısır kozmik mimarisi, yıldızlar ve piramitler, parlayan kristal, ultra gerçekçi bilim kurgu portresi
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fe07cfea77ee3a490046f1d7281bc217/thumbnails/thumbnail.jpg" width="600" alt="Mavi Uzaylı Kadın Mısırlı Bilim Kurgu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4763)**
+
+**Author:** [Narmina](https://x.com/narminamoon) | **Source:** [Link](https://x.com/narminamoon/status/2054586816234131840) | **Published:** May 13, 2026
+
+---
+### Kelebek Banktan Uçan Kadın
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kelebek temalı bir bankta oturan, ardından ayağa kalkıp kanatların kendisiyle birlikte hareket etmesiyle uçmaya başlayan bir kadını betimleyen sinematik bir komut.
+
+#### 📝 Prompt
+
+```
+Kelebek bankta oturan bir kadının ayağa kalkmasını sağlayın; kanatlar onunla birlikte hareket etsin ve kadın uçabilsin. Nazik ve tatlı bir şekilde gülümsemesini sağlayın, görüntüyü pürüzsüz ve estetik hale getirin.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/011354912893e24045ecd43702118a60/thumbnails/thumbnail.jpg" width="600" alt="Kelebek Banktan Uçan Kadın">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4768)**
+
+**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2054576561416741025) | **Published:** May 13, 2026
+
+---
+### Sinematik Oduncu Aksiyon Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sisli bir ormandaki oduncuyu dramatik ağır çekim efektleriyle gösteren, Grok Imagine için yüksek kaliteli sinematik video istemi.
+
+#### 📝 Prompt
+
+```
+Gün doğumunda sisli bir ormanda, ağır bir baltayı dev bir kütüğe savuran sert bir oduncu, dramatik ağır çekim ahşap patlaması, sinematik yakın çekimler, hiper gerçekçi, Hollywood aksiyon filmi kalitesi
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e7e4a6a2a3ac5c3150aedef8fe58f7f/thumbnails/thumbnail.jpg" width="600" alt="Sinematik Oduncu Aksiyon Sahnesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4772)**
+
+**Author:** [クレア](https://x.com/kureakurea01) | **Source:** [Link](https://x.com/kureakurea01/status/2054567553570373985) | **Published:** May 13, 2026
+
+---
+### Mecha City Transformers Sinematik Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Dünya üzerinde siberpunk bir şehirle bütünleşmiş bir mecha'nın 6 saniyelik videosu için devasa, detaylı bir bilim kurgu istemi.
+
+#### 📝 Prompt
+
+```
+Transformers tarzının üst seviyesi ile karanlık siberpunk estetiğinin harmanlandığı, hiper gerçekçi, 6 saniyelik sinematik bir bilim kurgu videosu. 200 metre boyunda, beyaz-siyah renkli devasa insansı bir mecha; sırtı ve omuzları, parlayan neon kuleler, antenler ve gökdelenlerle kaplı devasa bir siberpunk megakentiyle bütünleşmiş halde, Dünya atmosferinin üzerinde baskın bir şekilde duruyor. Dev robotun, parlayan kırmızı optiklere sahip, kafatasına benzeyen tehditkar bir başı var.
+Çekime, Titan'ın üst gövdesini ve başını güçlü mekanik hareketlerle yavaşça kameraya doğru çevirdiği, dramatik bir yüksek açılı hava çekimiyle başlayın. Kırmızı gözleri parlak bir şekilde yanıyor. Kamera daha sonra devasa gövdesinin etrafında yumuşak bir şekilde dönerek karmaşık, savaşta yıpranmış zırh plakalarını, açıkta kalan kabloları ve sinir ağları gibi atan şehir ışıklarını ortaya çıkarıyor.
+3. saniyede, ağır bir adım atıyor; bu darbe devasa şok dalgaları yaratarak aşağıdaki okyanustan ve kıyı şeridinden duman, su buharı ve enkaz bulutlarının yukarı doğru patlamasına neden oluyor. Yer şiddetle sarsılıyor.
+Final çekimi: Mecha sağ yumruğunu güçlü bir şekilde havaya kaldırırken, kolu boyunca enerji kıvılcımları saçılırken dramatik bir düşük açılı kahraman çekilişi. Gezegenin eğriliğine karşı ortaya çıkan epik ölçek, turkuaz-turuncu siberpunk renk paleti, hacimsel ışık huzmeleri, atmosferik pus, uçuşan parçacıklar ve hafif film greni. 8K, ultra detaylı, fotogerçekçi, IMAX kalitesi, dinamik kamera hareketi, derin mekanik iniltiler ve uğuldayan rüzgarla yoğun ses tasarımı.
+Stil: Hiper gerçekçi, sinematik, yeni nesil Transformers, siberpunk, Blade Runner 2049 ve Pacific Rim esintili, dramatik aydınlatma, hızlı hareketlerde hareket bulanıklığı.
+Kamera: Sinematik, yumuşak yörünge hareketi + dramatik yakınlaşma ve uzaklaşma, darbe anında hafif el kamerası sarsıntısı.
+Süre: Tam olarak 6 saniye, 24fps, yüksek hareket kalitesi.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0f815be4a8c01a46938a067d8f132799/thumbnails/thumbnail.jpg" width="600" alt="Mecha City Transformers Sinematik Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4764)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2054528992900702699) | **Published:** May 13, 2026
+
+---
+### Taştan altına desen geçişi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Antik taş temellerden modern elektronik devre kartlarına kadar desenlerin evrimini görselleştiren metamorfik bir video istemi.
+
+#### 📝 Prompt
+
+```
+taştan altına 
+
+Antik şehirlerin temel taşlarından günümüzün devre kartlarına kadar her şey aynı desenler ve planlar üzerine inşa edilmiştir
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6cf2a09c6d05ded6a1eb5f70b2028d3c/thumbnails/thumbnail.jpg" width="600" alt="Taştan altına desen geçişi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4760)**
+
+**Author:** [Tommy Maloney](https://x.com/ThomasMalo26860) | **Source:** [Link](https://x.com/ThomasMalo26860/status/2054490062125998090) | **Published:** May 13, 2026
+
+---
+### İlahi Hathor Tanrıçası Bilim Kurgu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Manevi bilim kurgu enerjisine sahip, göksel bir Mısır tanrıçası için detaylı bir istem.
+
+#### 📝 Prompt
+
+```
+İlahi Hathor kadını, Mısır kozmik tanrıçası, altın beyaz aura, kutsal tapınaklar, göksel mücevherler, zarif dökümlü elbise, sevgi dolu manevi enerji, ultra gerçekçi bilim kurgu fantezisi, sinematik aydınlatma, yüksek detaylı
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/83728902e96133eecf819f2580f5c855/thumbnails/thumbnail.jpg" width="600" alt="İlahi Hathor Tanrıçası Bilim Kurgu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4765)**
+
+**Author:** [Narmina](https://x.com/narminamoon) | **Source:** [Link](https://x.com/narminamoon/status/2054461946577953002) | **Published:** May 13, 2026
+
+---
+### Lyran Kedi Kadın Fantastik
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Altın bir kozmik şehirde yaşayan Lyran kedi kadın figürünü konu alan, video için detaylı bir fantastik istem.
+
+#### 📝 Prompt
+
+```
+Lyran kedi insansı kadın, kedi kulakları, kıvırcık saç, altın kozmik şehir, spiritüel fantastik bilim kurgu, sinematik portre, ultra detaylı
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ff49e4ddeb53c37a0fed5677d714a0d0/thumbnails/thumbnail.jpg" width="600" alt="Lyran Kedi Kadın Fantastik">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4767)**
+
+**Author:** [Narmina](https://x.com/narminamoon) | **Source:** [Link](https://x.com/narminamoon/status/2054461533975892064) | **Published:** May 13, 2026
+
+---
+### Pleiadian Kadını Kristal Şehir
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Fütüristik bir kozmik kristal şehirde sarışın bir kadın için spiritüel bilim kurgu istemi.
+
+#### 📝 Prompt
+
+```
+Güzel Pleiadian kadını, uzun sarı saçlar, parlayan mavi gözler, fütüristik beyaz gümüş elbise, kristal şehir, kozmik arka plan, ultra gerçekçi, sinematik aydınlatma, spiritüel bilim kurgu estetiği, yüksek detaylı
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2ae23d7d934e15f297693f7933a38495/thumbnails/thumbnail.jpg" width="600" alt="Pleiadian Kadını Kristal Şehir">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4766)**
+
+**Author:** [Narmina](https://x.com/narminamoon) | **Source:** [Link](https://x.com/narminamoon/status/2054461158480916609) | **Published:** May 13, 2026
+
+---
+### Dönen Geometrik Şekiller
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Şekillerin dikey bir eksende küçültülmesini ve döndürülmesini içeren soyut bir hareket istemi.
+
+#### 📝 Prompt
+
+```
+Tüm şekilleri dikey eksende çeşitli şekillerde birçok kez döndürürken aynı zamanda küçültün
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c3b2ac97ae6704e6bddecdef15fc9396/thumbnails/thumbnail.jpg" width="600" alt="Dönen Geometrik Şekiller">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4770)**
+
+**Author:** [Ember Art](https://x.com/Ember8184Art) | **Source:** [Link](https://x.com/Ember8184Art/status/2054448138857943367) | **Published:** May 13, 2026
+
+---
+### Cyberpunk Siborg Mekanik Dönüşümü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Fütüristik bir hangarda gerçekleşen kadın siborg karakter dönüşümü için kamera açıları, ışıklandırma ve mekanik hareket detaylarını içeren yüksek sadakatli sinematik video istemi.
+
+#### 📝 Prompt
+
+```
+Üst düzey Transformers tarzında, cyberpunk bilim kurgu atmosferine sahip, çarpıcı bir kadın siborgun 6 saniyelik sinematik fotogerçekçi videosu. Karakter, yüksek at kuyruğu yapılmış uzun, dalgalı platin sarısı saçlara, kusursuz bir yüze ve çarpıcı mavi gözlere sahip aynı güzel genç kadın. Üzerinde, açıkta kalan karmaşık mekanik eklemleri, parlayan mavi enerji hatları ve savaşta yıpranmış metalik kaplamaları olan, ultra detaylı, parlak beyaz ve siyah robotik bir zırh takımı bulunuyor.
+Dinamik sekans: Karakter, arka planda devasa neon ışıkların, yağmurun ve uçan arabaların olduğu karanlık, fütüristik bir cyberpunk şehir hangarında duruyor. Kamera yavaşça etrafında dönüyor. Aniden vücudu güçlü ve akıcı bir şekilde üst düzey dönüşümüne başlıyor; zırh plakaları mekanik bir hassasiyetle kayıp açılıyor, parlayan mavi plazma enerjisi devrelerinden geçiyor, döndüğü sırada at kuyruğu dramatik bir şekilde savruluyor. Kolları ve bacakları, ortaya çıkan yeni silah modülleriyle daha gelişmiş bir savaş formuna dönüşüyor. Etrafında kıvılcımlar ve holografik veri akışları uçuşuyor.
+Ultra gerçekçi detaylar, 8K, hacimsel neon parıltılı sinematik ışıklandırma, dramatik kenar ışıklandırması, sığ alan derinliği, Arri Alexa 65 + anamorfik lenslerle çekilmiş, yoğun cyberpunk renk derecelendirmesi, karamsar atmosfer, son derece detaylı mekanik hareketler, akıcı 24fps, epik ve güçlü bir ruh hali.
+Hareket gücü: Yüksek
+Kamera hareketi: Akıcı yörünge hareketi + hafif dramatik yakınlaşma
+Süre: 6 saniye
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8a6a4bf4dec6472284e220bdeee8c94a/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Siborg Mekanik Dönüşümü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4771)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2054363052007628805) | **Published:** May 13, 2026
+
+---
 ### California Girl SpaceX Yorumu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1919,256 +2179,6 @@ Canlı Vanity Fair dergi kapağı animasyonu, 15 saniye, ultra sinematik ve zari
 **Author:** [Jennifer 🇺🇸 🦅](https://x.com/Jenny_MommaLion) | **Source:** [Link](https://x.com/Jenny_MommaLion/status/2051825948606271750) | **Published:** May 6, 2026
 
 ---
-### Tesla İstasyonu Star Wars Robotları
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Star Wars droidleri R2-D2 ve C-3PO'nun fütüristik bir Tesla şarj istasyonunda çalıştığı yaratıcı bir mashup istemi.
-
-#### 📝 Prompt
-
-```
-R2-D2'nun kahve servis ettiği ve taze donutlar hazırladığı, C-3PO'nun ise camları sildiği, hava ve lastik kontrolü yaptığı fütüristik bir Tesla şarj istasyonu.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/214742cc2704889e8af45c2c3316160c/thumbnails/thumbnail.jpg" width="600" alt="Tesla İstasyonu Star Wars Robotları">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4200)**
-
-**Author:** [Jp](https://x.com/Ke26843284James) | **Source:** [Link](https://x.com/Ke26843284James/status/2051406229721768100) | **Published:** May 4, 2026
-
----
-### Darth Vader'ın Duygusal Geçmişi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Maskesiz bir Darth Vader'ın Padme ile ilgili yumuşak ve duygusal bir anısını hatırlamasını betimleyen anlatısal bir istem.
-
-#### 📝 Prompt
-
-```
-Darth Vader maskesiz, geçmişini hayal ediyor, hamile Padme yumuşak bir sesle şöyle diyor: "İyi bir baba olacaksın, Anne"
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/38f26fa5a50ae0681ea86570a0c0f1e7/thumbnails/thumbnail.jpg" width="600" alt="Darth Vader'ın Duygusal Geçmişi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4208)**
-
-**Author:** [Giovanni Sierra](https://x.com/GamerGioHD) | **Source:** [Link](https://x.com/GamerGioHD/status/2051381511220301844) | **Published:** May 4, 2026
-
----
-### Bilim Kurgu Kaptanı Görev Konuşması
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir kaptanın izleyiciye dönüp konuştuğu sahne için video oluşturma istemi.
-
-#### 📝 Prompt
-
-```
-Kaptan yavaşça kameraya döner ve izleyiciye görevi ve yaptıkları hakkında konuşur
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b78705b69c59a493fe9e2ee50f48c483/thumbnails/thumbnail.jpg" width="600" alt="Bilim Kurgu Kaptanı Görev Konuşması">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4213)**
-
-**Author:** [Make Britain Great Again](https://x.com/DragonFlam7530) | **Source:** [Link](https://x.com/DragonFlam7530/status/2051373210029940954) | **Published:** May 4, 2026
-
----
-### Tavuktan Stand-Up Gösterisi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Tavuğun stand-up komedi gösterisi yaptığı mizahi bir video istemi.
-
-#### 📝 Prompt
-
-```
-Yumurta bırakmanın acısı hakkında stand-up yapan bir tavuk: “Boşuna gıdaklamıyoruz”
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6323d88c08bf16d78c02658f49511a13/thumbnails/thumbnail.jpg" width="600" alt="Tavuktan Stand-Up Gösterisi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4211)**
-
-**Author:** [Lidy E Lane](https://x.com/LidyELane) | **Source:** [Link](https://x.com/LidyELane/status/2051372163312001486) | **Published:** May 4, 2026
-
----
-### Ayıyla Güreşen Adam Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Nehir kenarında güreşen bir adam ve bir ayıyı konu alan, gerçekçi ışıklandırma ve kürk detaylarına sahip 10 saniyelik döngü için oldukça ayrıntılı bir video istemi.
-
-#### 📝 Prompt
-
-```
-Turuncu tulumlu bir adamın nehir kenarında büyük bir ayıyla eğlenceli bir şekilde güreştiği ve dans ettiği modern ve eğlenceli bir AI versiyonu; yüksek kaliteli gerçekçi kürk ve akıcı doğal hareketler, sinematik ışıklandırma, dinamik aksiyon sahnesi, 10 saniyelik kesintisiz döngü animasyonu
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/abbd7820bc44348255dc35c4747fa575/thumbnails/thumbnail.jpg" width="600" alt="Ayıyla Güreşen Adam Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4199)**
-
-**Author:** [Moke](https://x.com/Moke1966758) | **Source:** [Link](https://x.com/Moke1966758/status/2051368435246891157) | **Published:** May 4, 2026
-
----
-### Bankın Yakınında Giden Cybertruck
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Benzer geometrik tasarım öğelerine sahip bir bankın yanından geçen Cybertruck için video istemi.
-
-#### 📝 Prompt
-
-```
-Bu bankın yanından geçen Cybertruck, bankın üçgen kısmı @cybertruck ile uyumlu
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/773966fe9e5370b91f3a38cb8a96c67f/thumbnails/thumbnail.jpg" width="600" alt="Bankın Yakınında Giden Cybertruck">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4210)**
-
-**Author:** [sho](https://x.com/sho00092729) | **Source:** [Link](https://x.com/sho00092729/status/2051320060594295294) | **Published:** May 4, 2026
-
----
-### Kütüphanede Kitap Okuyan Ahtapot
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Karanlık ve atmosferik bir kütüphanede, dramatik kırmızı ve abanoz ışıklandırmalarla çevrili gerçeküstü bir ahtapot sahnesi için sinematik bir istem.
-
-#### 📝 Prompt
-
-```
-Sinematik çekim [kitap okuyan bir ahtapot, yüksek kitap rafları olan karanlık kütüphane sahnesi, açık kitabın üzerine kırmızı bir parıltı yansıtan masa lambası, mermer masa], 35mm film estetiği, dramatik düşük anahtarlı chiaroscuro ışıklandırma, yoğun kızıl kırmızı vurgular, derin abanoz gölgeler
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/768e598dc01f23bf99af267cec8ab693/thumbnails/thumbnail.jpg" width="600" alt="Kütüphanede Kitap Okuyan Ahtapot">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4203)**
-
-**Author:** [Jeremy Wilson](https://x.com/JeremyWilsiuwe) | **Source:** [Link](https://x.com/JeremyWilsiuwe/status/2051308510273581523) | **Published:** May 4, 2026
-
----
-### Chiaroscuro Barok Zarafeti
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Zengin dokular, altın vurgular ve dramatik bir chiaroscuro aydınlatma tarzında enerjik kompozisyonlar içeren bir video için oldukça açıklayıcı bir istem.
-
-#### 📝 Prompt
-
-```
-Çarpıcı ışık ve gölge kontrastlarıyla dramatik chiaroscuro aydınlatma
-• Zengin mücevher tonları, koyu kadifeler ve gösterişli altın vurgular
-• Dinamik diyagonaller, sarmal hareketler ve enerjik kompozisyonlar
-• Süslü detaylar, dökümlü kumaşlar ve ayrıntılı dekor..
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/74804b1c3c451cf370165bf7a8449f02/thumbnails/thumbnail.jpg" width="600" alt="Chiaroscuro Barok Zarafeti">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4204)**
-
-**Author:** [Amandasatiro](https://x.com/Amandasatiro07) | **Source:** [Link](https://x.com/Amandasatiro07/status/2051295141768351992) | **Published:** May 4, 2026
-
----
-### Gaz Devinin Yörüngesindeki Uzay İstasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Devasa bir uzay istasyonunun yörüngedeki geniş açılı genel çekimi için, detaylı ışık efektleri ve dingin bir atmosfer içeren sinematik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Geniş açılı genel çekim; devasa halka şeklinde bir uzay istasyonu bir gaz devinin yörüngesinde yavaşça dönüyor, gezegenin bulutlarında şimşekler çakıyor, metalik yüzeyde lens parlamaları oluşuyor, küçük gemiler zarif bir sessizlik içinde yanaşıp ayrılıyor, uzakta yıldızlar parlıyor — derin uzay medeniyetinin dingin ve anıtsal bir tasviri.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7c59f4675edc4f3511887b1f14342518/thumbnails/thumbnail.jpg" width="600" alt="Gaz Devinin Yörüngesindeki Uzay İstasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4205)**
-
-**Author:** [LudovicCreator](https://x.com/LudovicCreator) | **Source:** [Link](https://x.com/LudovicCreator/status/2051225355353026740) | **Published:** May 4, 2026
-
----
-### AI Araçlarıyla İçerik Üreticisi Büyüme Yolculuğu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir içerik üreticisinin sosyal medya platformlarında büyüme sağlamak için AI araçlarını kullanma yolculuğunu gösteren dört sahneli bir sekansı özetleyen kapsamlı bir istem.
-
-#### 📝 Prompt
-
-```
-Bir içerik üreticisinin Twitter/X'te büyümek için AI araçlarını kullandığını gösteren 15 saniyelik sinematik ve fütüristik bir video oluşturun. 1. Sahne: Dizüstü bilgisayar başında oturan, tweet yazmakta ve trendleri analiz etmekte zorlanan bir kişi. 2. Sahne: Ekranda beliren AI asistanı; viral tweet fikirleri, hashtag'ler, hedef kitle içgörüleri oluşturuyor ve gönderileri otomatik olarak planlıyor. 3. Sahne: Twitter/X paneli; artan takipçi sayısını, etkileşimi, beğenileri, yeniden gönderileri ve trend olan paylaşımları gösteriyor. 4. Sahne: Ekranda bildirimler patlarken gülümseyen mutlu içerik üreticisinin yakın çekimi. Fütüristik mavi arayüz, holografik AI görselleri, hızlı geçişler, modern sosyal medya estetiği, gerçekçi aydınlatma, motivasyonel arka plan müziği.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/900bfb3816832177984720f30bdf408c/thumbnails/thumbnail.jpg" width="600" alt="AI Araçlarıyla İçerik Üreticisi Büyüme Yolculuğu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4201)**
-
-**Author:** [Ur Meer](https://x.com/UrMeer289) | **Source:** [Link](https://x.com/UrMeer289/status/2051212448913572253) | **Published:** May 4, 2026
-
----
-### Kıyamet Sonrası Kız ve Android Muhafızlar
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Kıyamet sonrası korunmuş bir dünyada, gerçekçi androidlerin bakımını üstlendiği son insan kızın yer aldığı bir video için detaylı bir istem.
-
-#### 📝 Prompt
-
-```
-Kıyamet sonrası bir dünyada yaşayan insanlığın son güzel kızı; dünya harap olmamış ancak tüm insanlar gitmiş, tesisler ve binalar neredeyse oldukları gibi kalmış; insanlara benzeyen androidler ise kıza bakıyor ve yaşamını destekliyor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a4fc8979ebbb2f9fb24031870f5b0b7b/thumbnails/thumbnail.jpg" width="600" alt="Kıyamet Sonrası Kız ve Android Muhafızlar">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4212)**
-
-**Author:** [S.T.O](https://x.com/dhT1mlkOvovxVE4) | **Source:** [Link](https://x.com/dhT1mlkOvovxVE4/status/2051196347764875299) | **Published:** May 4, 2026
-
----
-### Gitar Solosu Hareket Dizisi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Solo performans sergileyen ve dramatik bir etki için arkaya yaslanan bir gitarist için dinamik bir animasyon istemi.
-
-#### 📝 Prompt
-
-```
-gitaristin gitarına bakarken arkaya yaslandığı ve ardından tekrar öne doğru eğildiği bir gitar solosu
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/58f9aa8dd217b04538a67bdc6592fdc5/thumbnails/thumbnail.jpg" width="600" alt="Gitar Solosu Hareket Dizisi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4209)**
-
-**Author:** [Debarasser La piste](https://x.com/smilking225) | **Source:** [Link](https://x.com/smilking225/status/2051194183076004212) | **Published:** May 4, 2026
-
----
-### Spaceship Movie and Crew Celebration
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A complex video generation prompt that directs a cinematic scene featuring a hovering spaceship and multiple characters celebrating together.
-
-#### 📝 Prompt
-
-```
-Create a movie from image 7 of the hovering spaceship and add all the characters from the other 6 images selected. Show all these characters watching the spaceship hovering and celebrating after fixing the spaceship
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dfdc4a53d3a13b460c79735fb66ebda3/thumbnails/thumbnail.jpg" width="600" alt="Spaceship Movie and Crew Celebration">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4149)**
-
-**Author:** [Sparrow](https://x.com/Sparrow_X_) | **Source:** [Link](https://x.com/Sparrow_X_/status/2051174535630921894) | **Published:** May 4, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2230,6 +2240,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-14T06:57:58.073Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-14T10:28:17.449Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **1494** |
+| 📝 提示词总数 | **1507** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-05-14** |
 
@@ -189,6 +189,266 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 金星女性天堂星球
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个关于天堂星球上的美丽女性的电影级视频提示词，带有璀璨的宇宙光环。
+
+#### 📝 提示词
+
+```
+美丽的金星女性，柔和的金光，天堂星球风景，优雅的飘逸长裙，璀璨光环，宁静的宇宙文明，超写实奇幻肖像，电影级阳光
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e9d4a71d4ebda4919c89a8e86a7fe52/thumbnails/thumbnail.jpg" width="600" alt="金星女性天堂星球">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4769)**
+
+**作者:** [Narmina](https://x.com/narminamoon) | **来源:** [Link](https://x.com/narminamoon/status/2054588306747162627) | **发布时间:** May 13, 2026
+
+---
+### 猎户座女战士科幻肖像
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个高细节的科幻提示词，描绘了身着未来感盔甲、伴有宇宙光影和电影级阴影的女战士。
+
+#### 📝 提示词
+
+```
+强大的猎户座女战士，深色未来感盔甲，宇宙战斗氛围，红蓝交织的荧光，坚毅而神秘的目光，超写实科幻肖像，电影级阴影
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/49d505302c6916f63402bea08e8bcf76/thumbnails/thumbnail.jpg" width="600" alt="猎户座女战士科幻肖像">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4761)**
+
+**作者:** [Narmina](https://x.com/narminamoon) | **来源:** [Link](https://x.com/narminamoon/status/2054587951061844327) | **发布时间:** May 13, 2026
+
+---
+### 空灵仙女座星际长袍
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 这是一段详尽的科幻奇幻风格提示词，描绘了一位身着星际长袍、拥有银色皮肤的空灵女性，置身于宇宙宫殿之中。
+
+#### 📝 提示词
+
+```
+空灵的仙女座女性，银色发光皮肤，长白发，星际宫殿，全息星星，优雅的宇宙长袍，超写实科幻奇幻，神圣的女性能量，电影级灯光，高度细节化
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2e442ef2e4de86fa72c0a981b8e7869f/thumbnails/thumbnail.jpg" width="600" alt="空灵仙女座星际长袍">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4762)**
+
+**作者:** [Narmina](https://x.com/narminamoon) | **来源:** [Link](https://x.com/narminamoon/status/2054587169402974372) | **发布时间:** May 13, 2026
+
+---
+### 蓝色外星女性埃及科幻风格
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个科幻视频提示词，展示了在宇宙埃及背景下的一位蓝色皮肤外星女性。
+
+#### 📝 提示词
+
+```
+蓝色皮肤的天狼星外星女性，优雅的未来感服饰，埃及宇宙建筑，星辰与金字塔，发光水晶，超写实科幻肖像
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fe07cfea77ee3a490046f1d7281bc217/thumbnails/thumbnail.jpg" width="600" alt="蓝色外星女性埃及科幻风格">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4763)**
+
+**作者:** [Narmina](https://x.com/narminamoon) | **来源:** [Link](https://x.com/narminamoon/status/2054586816234131840) | **发布时间:** May 13, 2026
+
+---
+### 坐在蝴蝶长椅上飞翔的女子
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个电影感的提示词，描述了一位坐在蝴蝶主题长椅上的女子站起身并飞走，翅膀随她一同扇动的场景。
+
+#### 📝 提示词
+
+```
+让坐在蝴蝶长椅上的女士站起来，翅膀随她一同移动，使她能够飞翔；让她发出温柔甜美的笑声，并确保画面流畅且美观。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/011354912893e24045ecd43702118a60/thumbnails/thumbnail.jpg" width="600" alt="坐在蝴蝶长椅上飞翔的女子">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4768)**
+
+**作者:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **来源:** [Link](https://x.com/Soaring2TheMoon/status/2054576561416741025) | **发布时间:** May 13, 2026
+
+---
+### 电影级伐木工动作场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 这是一个为 Grok Imagine 设计的高质量电影级视频提示词，展现了迷雾森林中伐木工的震撼慢动作特效。
+
+#### 📝 提示词
+
+```
+一位粗犷的伐木工在日出时的迷雾森林中，挥舞着沉重的斧头劈向巨大的原木，极具戏剧性的慢动作木屑飞溅，电影级特写镜头，超写实，好莱坞动作大片质感
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e7e4a6a2a3ac5c3150aedef8fe58f7f/thumbnails/thumbnail.jpg" width="600" alt="电影级伐木工动作场景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4772)**
+
+**作者:** [クレア](https://x.com/kureakurea01) | **来源:** [Link](https://x.com/kureakurea01/status/2054567553570373985) | **发布时间:** May 13, 2026
+
+---
+### 机甲城市变形金刚电影级视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个宏大且细节丰富的科幻提示词，用于生成一段 6 秒的视频，展示一个与地球上方的赛博朋克城市融为一体的机甲。
+
+#### 📝 提示词
+
+```
+一段超写实、电影级的 6 秒科幻视频，融合了顶尖的“变形金刚”风格与暗黑赛博朋克美学。一个 200 米高的巨型黑白人形机甲，其背部和肩部与一座庞大且蔓延的赛博朋克超级城市融为一体，城市中布满了发光的霓虹尖塔、天线和摩天大楼，机甲傲然屹立在地球大气层之上。这个巨型机器人拥有一个带有发光红色光学镜头的骷髅状头部，显得极具威胁感。
+视频以戏剧性的高空俯拍镜头开始，镜头缓慢推进，泰坦机甲伴随着强有力的机械动作，缓慢地将上半身和头部转向镜头。它红色的双眼猛然亮起。随后，镜头平滑地绕着其巨大的躯干旋转，展现出复杂的战损装甲板、裸露的线路以及像神经网络般跳动的城市灯光。
+在第 3 秒时，它沉重地向前迈出一步——冲击力产生了巨大的冲击波，使下方的海洋和海岸线激起滚滚烟尘、水汽和碎片。地面剧烈震动。
+最终镜头：戏剧性的低角度英雄式拉远，机甲强有力地举起右拳，能量在其手臂上噼啪作响。在地球弧线的映衬下展现出史诗般的规模，采用青橙色调的赛博朋克配色，呈现体积光、大气霾、飞舞的颗粒感和细腻的胶片颗粒。8K 分辨率，超精细，照片级真实感，IMAX 品质，动态镜头运动，深沉的机械轰鸣声与呼啸的风声交织出震撼的音效设计。
+风格：超写实、电影级、次世代“变形金刚”、赛博朋克，《银翼杀手 2049》与《环太平洋》的结合，戏剧性光影，快速运动时带有动态模糊。
+镜头：电影级，平滑环绕 + 戏剧性推进与拉远，冲击时带有轻微的手持晃动感。
+时长：精确 6 秒，24fps，高运动质量。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0f815be4a8c01a46938a067d8f132799/thumbnails/thumbnail.jpg" width="600" alt="机甲城市变形金刚电影级视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4764)**
+
+**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **来源:** [Link](https://x.com/ThoughCreator/status/2054528992900702699) | **发布时间:** May 13, 2026
+
+---
+### 从石材到黄金的图案演变
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段变形视频提示词，展示了从古代石材基底到现代电子电路项目（boards）的图案演变过程。
+
+#### 📝 提示词
+
+```
+从石材到黄金 
+
+从古城的基石到现代的电路项目（boards），它们都建立在相同的图案与蓝图之上。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6cf2a09c6d05ded6a1eb5f70b2028d3c/thumbnails/thumbnail.jpg" width="600" alt="从石材到黄金的图案演变">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4760)**
+
+**作者:** [Tommy Maloney](https://x.com/ThomasMalo26860) | **来源:** [Link](https://x.com/ThomasMalo26860/status/2054490062125998090) | **发布时间:** May 13, 2026
+
+---
+### 神圣哈托尔科幻女神
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个关于拥有灵性科幻能量的古埃及天体女神的详细提示词。
+
+#### 📝 提示词
+
+```
+神圣的哈托尔女性，埃及宇宙女神，金白色光环，神圣寺庙，天体珠宝，优雅飘逸的长袍，充满爱意的灵性能量，超写实科幻奇幻，电影级光效，高度细节化
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/83728902e96133eecf819f2580f5c855/thumbnails/thumbnail.jpg" width="600" alt="神圣哈托尔科幻女神">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4765)**
+
+**作者:** [Narmina](https://x.com/narminamoon) | **来源:** [Link](https://x.com/narminamoon/status/2054461946577953002) | **发布时间:** May 13, 2026
+
+---
+### 天琴座猫科女性奇幻形象
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段详细的奇幻视频提示词，描绘了金色宇宙城市中的天琴座猫科女性。
+
+#### 📝 提示词
+
+```
+天琴座猫科类人女性，猫耳，卷发，金色宇宙城市，灵性奇幻科幻，电影级肖像，超高细节
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ff49e4ddeb53c37a0fed5677d714a0d0/thumbnails/thumbnail.jpg" width="600" alt="天琴座猫科女性奇幻形象">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4767)**
+
+**作者:** [Narmina](https://x.com/narminamoon) | **来源:** [Link](https://x.com/narminamoon/status/2054461533975892064) | **发布时间:** May 13, 2026
+
+---
+### 昴宿星女子与水晶之城
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个关于未来宇宙水晶之城中金发女子的灵性科幻提示词。
+
+#### 📝 提示词
+
+```
+美丽的昴宿星女子，金色长发，发光的蓝色眼睛，未来感银白色礼服，水晶之城，宇宙背景，超写实，电影级光效，灵性科幻美学，高度细节
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2ae23d7d934e15f297693f7933a38495/thumbnails/thumbnail.jpg" width="600" alt="昴宿星女子与水晶之城">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4766)**
+
+**作者:** [Narmina](https://x.com/narminamoon) | **来源:** [Link](https://x.com/narminamoon/status/2054461158480916609) | **发布时间:** May 13, 2026
+
+---
+### 旋转的几何图形
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个抽象的动态提示词，涉及在垂直轴上缩小并旋转图形。
+
+#### 📝 提示词
+
+```
+将所有图形缩小，同时在垂直轴上以多种方式进行多次旋转
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c3b2ac97ae6704e6bddecdef15fc9396/thumbnails/thumbnail.jpg" width="600" alt="旋转的几何图形">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4770)**
+
+**作者:** [Ember Art](https://x.com/Ember8184Art) | **来源:** [Link](https://x.com/Ember8184Art/status/2054448138857943367) | **发布时间:** May 13, 2026
+
+---
+### 赛博朋克机械改造
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于生成未来感机库中女性赛博格角色改造的高保真电影级视频提示词，详细说明了摄像机运镜、灯光和机械运动细节。
+
+#### 📝 提示词
+
+```
+电影级写实风格 6 秒视频，展现一位处于顶级变形金刚风格下的惊艳女性赛博格，充满赛博朋克科幻氛围。她是一位拥有飘逸铂金色高马尾的绝美年轻女性，面容无瑕，双眸湛蓝，身着一套精致、超细节的黑白光泽感机械装甲，露出复杂的机械关节，闪烁着蓝色能量流，并带有战斗磨损的金属板。
+动态序列：她站在一个昏暗的未来赛博朋克城市机库中，背景是巨大的霓虹灯、雨水和飞行汽车。摄像机缓慢绕她旋转。突然，她的身体开始进行强力、流畅的顶级变形——装甲板以机械精度移动并展开，蓝色的等离子能量涌动在她的电路中，她转身时马尾辫剧烈甩动。她的手臂和腿部重新配置为更先进的战斗形态，并浮现出新的武器模块。火花和全息数据流在她周围飞舞。
+超写实细节，8K 分辨率，电影级灯光配合体积霓虹光效，戏剧性的轮廓光，浅景深，使用 Arri Alexa 65 搭配变形镜头拍摄，强烈的赛博朋克调色，情绪化氛围，高度精细的机械运动，平滑的 24fps，史诗且充满力量感的氛围。
+运动强度：高
+摄像机运动：平滑环绕 + 轻微戏剧性推近
+时长：6 秒
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8a6a4bf4dec6472284e220bdeee8c94a/thumbnails/thumbnail.jpg" width="600" alt="赛博朋克机械改造">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4771)**
+
+**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **来源:** [Link](https://x.com/ThoughCreator/status/2054363052007628805) | **发布时间:** May 13, 2026
+
+---
 ### 加州女孩对 SpaceX 的评论
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1919,256 +2179,6 @@ Vanity Fair 杂志封面动态效果，15 秒，极具电影质感与优雅格�
 **作者:** [Jennifer 🇺🇸 🦅](https://x.com/Jenny_MommaLion) | **来源:** [Link](https://x.com/Jenny_MommaLion/status/2051825948606271750) | **发布时间:** May 6, 2026
 
 ---
-### 特斯拉充电站里的星球大战机器人
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个充满创意的混合提示词，描绘了星球大战中的机器人 R2-D2 和 C-3PO 在未来感十足的特斯拉充电站工作的场景。
-
-#### 📝 提示词
-
-```
-在未来的特斯拉充电站，R2-D2 负责冲泡咖啡和制作新鲜甜甜圈，而 C-3PO 则负责擦拭车窗以及为轮胎充气。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/214742cc2704889e8af45c2c3316160c/thumbnails/thumbnail.jpg" width="600" alt="特斯拉充电站里的星球大战机器人">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4200)**
-
-**作者:** [Jp](https://x.com/Ke26843284James) | **来源:** [Link](https://x.com/Ke26843284James/status/2051406229721768100) | **发布时间:** May 4, 2026
-
----
-### 达斯·维达的情感往事
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个叙事提示词，描绘了摘下面具的达斯·维达回忆起关于帕德梅的一段温柔而感性的记忆。
-
-#### 📝 提示词
-
-```
-达斯·维达摘下面具，想象着他的过去，帕德梅怀着身孕，用温柔的声音说道：“你会成为一个好父亲的，安妮。”
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/38f26fa5a50ae0681ea86570a0c0f1e7/thumbnails/thumbnail.jpg" width="600" alt="达斯·维达的情感往事">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4208)**
-
-**作者:** [Giovanni Sierra](https://x.com/GamerGioHD) | **来源:** [Link](https://x.com/GamerGioHD/status/2051381511220301844) | **发布时间:** May 4, 2026
-
----
-### 科幻舰长任务演讲
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段视频生成提示词，场景为舰长转身面向观众并发表讲话。
-
-#### 📝 提示词
-
-```
-舰长缓慢地转向镜头，向观众讲述她的任务以及她正在执行的工作
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b78705b69c59a493fe9e2ee50f48c483/thumbnails/thumbnail.jpg" width="600" alt="科幻舰长任务演讲">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4213)**
-
-**作者:** [Make Britain Great Again](https://x.com/DragonFlam7530) | **来源:** [Link](https://x.com/DragonFlam7530/status/2051373210029940954) | **发布时间:** May 4, 2026
-
----
-### 小鸡脱口秀
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段幽默的视频提示词，讲述了一只小鸡表演脱口秀的场景。
-
-#### 📝 提示词
-
-```
-一只小鸡在表演脱口秀，吐槽下蛋的痛苦，它说：“我们叫‘咯咯哒’可不是白叫的。”
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6323d88c08bf16d78c02658f49511a13/thumbnails/thumbnail.jpg" width="600" alt="小鸡脱口秀">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4211)**
-
-**作者:** [Lidy E Lane](https://x.com/LidyELane) | **来源:** [Link](https://x.com/LidyELane/status/2051372163312001486) | **发布时间:** May 4, 2026
-
----
-### 人熊摔跤动画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个高度详细的 10 秒循环视频提示词，描绘了一名男子与一只熊在河边摔跤的场景，具有逼真的光影和毛发效果。
-
-#### 📝 提示词
-
-```
-一个有趣的现代 AI 版本：一名身穿橙色连体衣的男子在河边与一只大熊嬉戏摔跤并跳舞，具有高质量的逼真毛发和流畅自然的动作，电影级光影，动态动作场景，10 秒无缝循环动画
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/abbd7820bc44348255dc35c4747fa575/thumbnails/thumbnail.jpg" width="600" alt="人熊摔跤动画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4199)**
-
-**作者:** [Moke](https://x.com/Moke1966758) | **来源:** [Link](https://x.com/Moke1966758/status/2051368435246891157) | **发布时间:** May 4, 2026
-
----
-### Cybertruck 在长椅旁行驶
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个关于 Cybertruck 在长椅旁行驶的视频提示词，该长椅具有相似的几何设计元素。
-
-#### 📝 提示词
-
-```
-Cybertruck 在此长椅旁行驶，长椅的三角形部分与 @cybertruck 相呼应
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/773966fe9e5370b91f3a38cb8a96c67f/thumbnails/thumbnail.jpg" width="600" alt="Cybertruck 在长椅旁行驶">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4210)**
-
-**作者:** [sho](https://x.com/sho00092729) | **来源:** [Link](https://x.com/sho00092729/status/2051320060594295294) | **发布时间:** May 4, 2026
-
----
-### 图书馆里阅读的章鱼
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个超现实场景的电影级提示词，描绘了一只章鱼在昏暗、充满氛围感的图书馆中，伴随着戏剧性的红色与乌木色光影。
-
-#### 📝 提示词
-
-```
-电影级镜头：[一只章鱼正在阅读书籍，昏暗的图书馆场景，高大的书架，台灯将红色的光投射在打开的书本和大理石桌面上]，35mm 胶片美学，戏剧性的低调明暗对比照明，强烈的深红色点缀，深邃的乌木色阴影
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/768e598dc01f23bf99af267cec8ab693/thumbnails/thumbnail.jpg" width="600" alt="图书馆里阅读的章鱼">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4203)**
-
-**作者:** [Jeremy Wilson](https://x.com/JeremyWilsiuwe) | **来源:** [Link](https://x.com/JeremyWilsiuwe/status/2051308510273581523) | **发布时间:** May 4, 2026
-
----
-### 明暗对照法巴洛克优雅风格
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个极具描述性的视频提示词，旨在呈现丰富的纹理、金色点缀以及戏剧性明暗对照照明风格下的活力构图。
-
-#### 📝 提示词
-
-```
-戏剧性的明暗对照照明，呈现出鲜明的光影对比
-• 浓郁的宝石色调、深邃的天鹅绒质感以及奢华的金色点缀
-• 动态的对角线、旋转的动感以及充满活力的构图
-• 华丽的细节、流动的褶皱以及精致的装饰。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/74804b1c3c451cf370165bf7a8449f02/thumbnails/thumbnail.jpg" width="600" alt="明暗对照法巴洛克优雅风格">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4204)**
-
-**作者:** [Amandasatiro](https://x.com/Amandasatiro07) | **来源:** [Link](https://x.com/Amandasatiro07/status/2051295141768351992) | **发布时间:** May 4, 2026
-
----
-### 环绕气态巨行星的空间站
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个电影级的视频提示词，用于拍摄大型空间站轨道的广角定场镜头，呈现细腻的光影效果与宁静的氛围。
-
-#### 📝 提示词
-
-```
-广角定场镜头，一座巨大的环形空间站环绕着一颗气态巨行星缓慢旋转，行星云层下方闪烁着雷电，金属表面泛起镜头光晕，微小的飞船在静谧中优雅地停靠与离港，远处的星辰闪烁 —— 这是一幅宁静而宏伟的深空文明图景。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7c59f4675edc4f3511887b1f14342518/thumbnails/thumbnail.jpg" width="600" alt="环绕气态巨行星的空间站">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4205)**
-
-**作者:** [LudovicCreator](https://x.com/LudovicCreator) | **来源:** [Link](https://x.com/LudovicCreator/status/2051225355353026740) | **发布时间:** May 4, 2026
-
----
-### AI 工具助力内容创作者成长之旅
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份详尽的提示词，勾勒出四个场景的序列，展示创作者如何利用 AI 工具在社交媒体平台上实现增长。
-
-#### 📝 提示词
-
-```
-制作一段 15 秒的未来感电影级视频，展示内容创作者如何利用 AI 工具在 Twitter/X 上实现增长。场景 1：一个人坐在笔记本电脑前，为撰写推文和分析趋势而苦恼。场景 2：屏幕上出现 AI 助手，自动生成爆款推文创意、标签、受众洞察并安排发布。场景 3：Twitter/X 仪表盘显示粉丝数、互动量、点赞数、转发数和热门推文不断增长。场景 4：创作者开心地微笑，屏幕上通知消息不断弹出。采用未来感蓝色界面、全息 AI 视觉效果、快速转场、现代社交媒体美学、逼真的光影效果以及励志的背景音乐。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/900bfb3816832177984720f30bdf408c/thumbnails/thumbnail.jpg" width="600" alt="AI 工具助力内容创作者成长之旅">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4201)**
-
-**作者:** [Ur Meer](https://x.com/UrMeer289) | **来源:** [Link](https://x.com/UrMeer289/status/2051212448913572253) | **发布时间:** May 4, 2026
-
----
-### 末日后的少女与仿生人守护者
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一段详细的视频提示词，描述了在保存完好的末日世界中，最后一名人类少女在栩栩如生的仿生人照料下生活的情景。
-
-#### 📝 提示词
-
-```
-人类最后一位美丽的少女生活在一个末日后的世界；世界并未遭到破坏，但所有人类都已消失，设施和建筑几乎保持原样，仿生人如同真人一般照料着少女并维持她的生活。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a4fc8979ebbb2f9fb24031870f5b0b7b/thumbnails/thumbnail.jpg" width="600" alt="末日后的少女与仿生人守护者">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4212)**
-
-**作者:** [S.T.O](https://x.com/dhT1mlkOvovxVE4) | **来源:** [Link](https://x.com/dhT1mlkOvovxVE4/status/2051196347764875299) | **发布时间:** May 4, 2026
-
----
-### 吉他独奏动作序列
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个动态动画提示词，描述吉他手在演奏独奏时向后倾斜以营造戏剧性效果。
-
-#### 📝 提示词
-
-```
-吉他独奏，吉他手一边看着吉他一边向后倾斜，然后再次向后仰身
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/58f9aa8dd217b04538a67bdc6592fdc5/thumbnails/thumbnail.jpg" width="600" alt="吉他独奏动作序列">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4209)**
-
-**作者:** [Debarasser La piste](https://x.com/smilking225) | **来源:** [Link](https://x.com/smilking225/status/2051194183076004212) | **发布时间:** May 4, 2026
-
----
-### Spaceship Movie and Crew Celebration
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A complex video generation prompt that directs a cinematic scene featuring a hovering spaceship and multiple characters celebrating together.
-
-#### 📝 提示词
-
-```
-Create a movie from image 7 of the hovering spaceship and add all the characters from the other 6 images selected. Show all these characters watching the spaceship hovering and celebrating after fixing the spaceship
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dfdc4a53d3a13b460c79735fb66ebda3/thumbnails/thumbnail.jpg" width="600" alt="Spaceship Movie and Crew Celebration">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4149)**
-
-**作者:** [Sparrow](https://x.com/Sparrow_X_) | **来源:** [Link](https://x.com/Sparrow_X_/status/2051174535630921894) | **发布时间:** May 4, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2230,6 +2240,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-05-14T06:57:34.835Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-05-14T10:28:01.811Z</sub>
 
 </div>
