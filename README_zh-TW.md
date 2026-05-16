@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **1508** |
+| 📝 提示詞總數 | **1519** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-05-16** |
 
@@ -189,6 +189,199 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 角色服裝變色序列
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個影片動作提示詞，指示主體在轉身時服裝顏色從黑色變為棕色，最後以角色揭露作為結尾。
+
+#### 📝 提示詞
+
+```
+讓這位人物轉身兩次，服裝先變為黑色，再變為棕色，最後變回原樣，接著她摘下帽子，露出美麗的紅色捲髮並笑了起來！
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e3fe09cef57995fa7ec2a086cb6ac0ad/thumbnails/thumbnail.jpg" width="600" alt="角色服裝變色序列">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4856)**
+
+**作者:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **來源:** [Link](https://x.com/CindyWeigapn6/status/2055373714569490808) | **發布時間:** May 15, 2026
+
+---
+### 山羊跳向月球
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個充滿奇幻與超現實感的影片提示詞，內容描述山羊穿著芭蕾舞裙，在彩虹的伴隨下跳向月球並表演後空翻。
+
+#### 📝 提示詞
+
+```
+讓山羊跳向月球再跳回來，腳下伴隨著彩虹，並穿著芭蕾舞裙表演後空翻
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/869a2b5962345afdf557b3a7215b0c34/thumbnails/thumbnail.jpg" width="600" alt="山羊跳向月球">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4857)**
+
+**作者:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **來源:** [Link](https://x.com/CindyWeigapn6/status/2055370762031186048) | **發布時間:** May 15, 2026
+
+---
+### 全息數據藤蔓動畫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個以科技為核心的提示詞，用於創作漂浮的全息數據藤蔓與能量脈衝交織的無縫動畫。
+
+#### 📝 提示詞
+
+```
+漂浮的全息數據藤蔓與發光的能量脈衝交織，簡潔的科技極簡配色，完美無縫的動畫效果
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/83a53b7be9bde4f088eef7a638bd8789/thumbnails/thumbnail.jpg" width="600" alt="全息數據藤蔓動畫">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4862)**
+
+**作者:** [𝐙𝐞𝐧𝐠 💜](https://x.com/zeng_wt) | **來源:** [Link](https://x.com/zeng_wt/status/2055332447684903306) | **發布時間:** May 15, 2026
+
+---
+### Tesla Roadster SpaceX 火箭
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段關於 Tesla Roadster v2（隱形灰配色）利用 SpaceX 火箭進行時空旅行的電影級影片提示詞。
+
+#### 📝 提示詞
+
+```
+一輛隱形灰配色的 Tesla Roadster v2，啟動其 SpaceX 火箭並穿越時空。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/322b375fd5249f70defd58bf5ed34f1c/thumbnails/thumbnail.jpg" width="600" alt="Tesla Roadster SpaceX 火箭">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4854)**
+
+**作者:** [Peter Frandsen 🇸🇪](https://x.com/happy_swede) | **來源:** [Link](https://x.com/happy_swede/status/2055290643061051573) | **發布時間:** May 15, 2026
+
+---
+### 角色移動影片指令
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個功能性的影片生成提示詞，引導角色走下山坡，並在說話的同時與特定的參考影格進行互動。
+
+#### 📝 提示詞
+
+```
+讓圖片 3 走下山坡，並經過圖片 2 和圖片 3，同時以英文和中文說「早安」，並說「祝你有美好的一天」。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8ef23ca30317bb75d4dfeefcb3853ad/thumbnails/thumbnail.jpg" width="600" alt="角色移動影片指令">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4859)**
+
+**作者:** [Amandasatiro](https://x.com/Amandasatiro07) | **來源:** [Link](https://x.com/Amandasatiro07/status/2055275119740686679) | **發布時間:** May 15, 2026
+
+---
+### 超現實叢林螢幕穿越
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個電影級提示詞，用於生成一段超現實影片：一位女性從數位螢幕中走出，進入充滿活力的叢林世界，融合了高級時裝與生態未來主義元素。
+
+#### 📝 提示詞
+
+```
+一個電影級的超現實場景，一位自信的女性從嵌入地面的巨大破裂數位螢幕中走出。螢幕內是一個充滿活力的叢林世界，有著發光的植物、薄霧和生物發光野生動物。當她向前邁步時，藤蔓和水從螢幕中湧出，畫面定格在動態瞬間，呈現出逼真的水花與粒子效果。她的長髮自然飄動，表情冷靜而強大。她穿著現代高級時裝，融合了有機紋理與俐落設計。戲劇性的電影光影、深沉的暗色背景、超逼真細節、淺景深、奇幻寫實主義、4K 解析度、高對比度、銳利對焦、奢華生態未來主義海報、超現實數位藝術、專業調色。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/383d6d0e997325da111343ad10c2249e/thumbnails/thumbnail.jpg" width="600" alt="超現實叢林螢幕穿越">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4860)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **來源:** [Link](https://x.com/MrDasOnX/status/2055273422276694408) | **發布時間:** May 15, 2026
+
+---
+### 賽博龐克仿生人機械變形影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一份精細的電影級提示詞，用於生成一段 6 秒的高端影片，展示兩名女性仿生人在黑暗工業機庫中進行流暢的機械變形過程。
+
+#### 📝 提示詞
+
+```
+電影級 6 秒照片級真實感影片，超細節次世代賽博龐克變形金剛場景。兩名未來感女性仿生人極度靠近，在充滿藍色體積霧與霓虹光影的黑暗工業機庫中，面對面進行緊張的對峙。左側仿生人戴著光澤黑頭盔，配有發光的紅色護目鏡，頸部複雜的機械纜線閃爍著紅色能量。右側仿生人擁有破碎的白色陶瓷面孔，露出發光的紅色賽博內部結構、外露的機械下顎以及長長的黑色纜線髒辮。兩者皆穿著緊身、超亮面的黑色液態金屬緊身衣，並帶有發光的紅色電路紋路。0–2 秒：緩慢且戲劇性的特寫，她們深情對視，紅色光芒脈動增強，微弱的火花與能量在兩者間閃爍。2–4 秒：兩名仿生人開始同步、流暢的次世代變形——頭部、肩部與胸部的面板如先進的變形金剛般精準地平滑移動與展開，露出下方更複雜的發光賽博結構，同時保持其優雅的女性形態。4–6 秒：變形加劇，攝影機戲劇性地環繞她們拍攝，伴隨明亮的紅藍鏡頭光暈、飛濺的火花與能量粒子。她們緩緩向彼此伸出手，身體散發出強大的發光能量，史詩般的賽博龐克氛圍、戲劇性的輪廓光、電影級調色、超寫實細節、8K 解析度，使用 ARRI Alexa 65 搭配變形鏡頭拍攝，帶有細微的底片顆粒感，大師級構圖，令人屏息的科幻視覺效果。風格：照片級真實感、電影感、賽博龐克、高端視覺特效 (VFX)、戲劇性光影、情緒化且強烈。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/24db440367726435312c3bc663a44250/thumbnails/thumbnail.jpg" width="600" alt="賽博龐克仿生人機械變形影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4864)**
+
+**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **來源:** [Link](https://x.com/ThoughCreator/status/2055213619076571426) | **發布時間:** May 15, 2026
+
+---
+### 動態髮色與唇色變換
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個複雜的轉換提示詞，可在單一影片序列中循環變換多種髮色並更改唇色。
+
+#### 📝 提示詞
+
+```
+讓她的髮色從銀色變為白色，再變為金色、粉紅色、薰衣草色、紫色、黃色、橘色、藍色，並將唇色變為櫻桃紅
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5fd92ce04eb342c2fdbdc5b621e213cb/thumbnails/thumbnail.jpg" width="600" alt="動態髮色與唇色變換">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4858)**
+
+**作者:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **來源:** [Link](https://x.com/CindyWeigapn6/status/2055193653128143055) | **發布時間:** May 15, 2026
+
+---
+### 未來感遊牧沙丘音樂節
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 以第一人稱視角呈現一場科幻沙漠音樂節，場景包含銅製自行車與裝飾華麗的駱駝，背景則是暴風雨前的天空。
+
+#### 📝 提示詞
+
+```
+POV：你誤打誤撞闖入了一場位於沙丘之上的未來感遊牧音樂節。在暴風雨前的天空下，銅製自行車、裝飾華麗的駱駝以及無盡的派對旗幟交織成一幅奇景。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e415134402f087606792c40246d9344/thumbnails/thumbnail.jpg" width="600" alt="未來感遊牧沙丘音樂節">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4855)**
+
+**作者:** [Jacqueline](https://x.com/lipsticktazer69) | **來源:** [Link](https://x.com/lipsticktazer69/status/2055131067913212319) | **發布時間:** May 15, 2026
+
+---
+### 巨型機甲軌道降落
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個極其精細的科幻賽博龐克提示詞，描述了巨型機甲機器人降落地球的場景，包含震撼的衝擊波、霓虹城市景觀以及電影級的運鏡效果。
+
+#### 📝 提示詞
+
+```
+電影級寫實風格 6 秒影片，超精細 8K 解析度，次世代變形金剛科幻賽博龐克風格。一具高達 200 公尺的巨型人形機甲機器人，外殼採用光滑的銀白色與消光黑裝甲，搭配發光的青色電路紋路與紅色威懾光學眼，正從軌道戲劇性地降落至地球。
+這台巨大的機器人以撼動大地的衝擊力降落在夜晚廣闊的賽博龐克巨型城市邊緣——其巨大的雙腳猛烈撞擊大氣層，激起巨大的塵土、火焰與發光碎片衝擊波，在星球表面擴散開來。全息能量環與霓虹藍色電漿弧在其強而有力的手臂與拳頭周圍劇烈旋轉。
+動態低角度電影鏡頭從下方緩慢環繞巨型機器人並向上傾斜，捕捉其對比發光藍色地球地平線與星空背景下如神一般的巨大比例。遠處下方可見飛行汽車與霓虹燈閃爍的摩天大樓。體積光、大氣霾、鏡頭光暈、快速移動粒子的動態模糊、超寫實金屬反射與複雜的機械細節。
+賽博龐克色調，包含深黑色、鮮豔的霓虹青色、洋紅色與紅色點綴，戲劇性的邊緣光。細節極致，寫實風格，IMAX 品質，使用 Arri Alexa 65 搭配變形鏡頭拍攝，由 Denis Villeneuve 與 Michael Bay 執導，24fps，電影傑作 --ar 16:9 --stylize 250 --v 6
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d330bf382dd9fd8bb84a2ee3590997f1/thumbnails/thumbnail.jpg" width="600" alt="巨型機甲軌道降落">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4861)**
+
+**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **來源:** [Link](https://x.com/ThoughCreator/status/2055099462150988115) | **發布時間:** May 15, 2026
+
+---
 ### 马斯克父子 Are you OK 北京话短剧
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -218,6 +411,30 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4773)**
 
 **作者:** [Jared 宗源](https://x.com/jaredliu_bravo) | **來源:** [Link](https://x.com/jaredliu_bravo/status/2054913526922424497) | **發布時間:** May 14, 2026
+
+---
+### 身穿賽博動力裝甲的機械馬騎士
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個為 Grok Imagine 設計的詳細提示詞，用於生成一段電影級科幻影片，內容為一名身穿霧面黑賽博動力裝甲的女性，騎著先進的生物機械馬穿梭於反烏托邦賽博龐克城市。
+
+#### 📝 提示詞
+
+```
+一段 6 秒的電影級、超寫實影片，採用頂級變形金剛科幻賽博龐克風格。一位美麗的年輕女性身穿流線型、細節豐富的霧面黑與槍灰色賽博動力裝甲，裝甲上有藍白色發光裝飾，她騎著一匹巨大的、高度先進的生物機械馬，穿梭於一座荒廢且廣闊的反烏托邦超級城市中。
+這匹機械馬是有機肌肉、活塞、電纜與重型裝甲板的精密結合體——具備次世代變形金剛等級的細節，包含可移動的面板與細微的發光能量線。女性表情嚴肅且專注，頭戴配有 HUD 護目鏡與氧氣面罩元件的戰術頭盔，深色頭髮在風中微微飄動。
+攝影機以戲劇性的低角度側前方追蹤鏡頭開始，隨著她們在充滿崩塌摩天大樓、懸掛電線、煙霧與飛舞餘燼的毀滅街道上強勁奔馳，攝影機緩緩環繞拍攝。機械馬的金屬馬蹄在地面擊出火花。動態的賽博龐克燈光效果，體積光穿透塵埃，霓虹燈倒映在潮濕的金屬表面，背景中有細微的全息廣告看板閃爍。
+超寫實細節，8K 照片級真實感，採用冷青色與暖橙色調的電影級調色，強烈的動態感，戲劇性的景深，細微的膠片顆粒感，使用 Arri Alexa 65 搭配變形鏡頭拍攝。高速運動，具備完美的解剖結構與機械真實感。長度 6 秒，流暢的 24fps 電影級動態。
+負面提示詞（建議）：
+模糊、變形、低畫質、卡通、動畫、多餘肢體、文字、浮水印、過度曝光、塑膠感皮膚、解剖結構錯誤、細節不足、平淡光影。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f9701c2cb9d34351bb27fffca481f5f1/thumbnails/thumbnail.jpg" width="600" alt="身穿賽博動力裝甲的機械馬騎士">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4863)**
+
+**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **來源:** [Link](https://x.com/ThoughCreator/status/2054897466357723390) | **發布時間:** May 14, 2026
 
 ---
 ### 金星女性天堂星球
@@ -1982,215 +2199,6 @@ cinematic cyberpunk samurai on a floating rooftop at dramatic dusk, glowing cher
 **作者:** [Holliday Rush](https://x.com/HollidayRu41904) | **來源:** [Link](https://x.com/HollidayRu41904/status/2052073784937451529) | **發布時間:** May 6, 2026
 
 ---
-### 電影感長廊漫步與場景變換
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個複雜的影片提示詞，用於實現跟隨一名女性在儀式長廊中行走的連續拉遠鏡頭，並呈現環境變換與穩定的節奏。
-
-#### 📝 提示詞
-
-```
-讓畫面中的女性保持背影，獨自走在長長的黑色反光儀式長廊中。確保她的黑金高級訂製服、飄逸長髮、珠寶以及奢華的長廊構圖保持穩定且具備高級質感。她的步伐必須從始至終保持絕對平穩，不得加速或減速。僅使用一個連續且平滑的拉遠鏡頭，逐漸展現更多長廊細節，並加深她正走在某種無形契約之中的氛圍。讓她身後遠處那座巨大的陰影雕像保持可見，但必須完全靜止，不得移動或靠近。隨著鏡頭拉遠，懸浮的陰影環與垂掛的線條變得更加清晰，反光地板緩緩轉化為她腳下細緻的金色路徑縫隙。讓每一次落腳都觸發細微的變換，且不影響她的步伐：周圍的環狀物精煉為有序的線條，地板倒影變得銳利，通道在她周圍以一種克制的優雅悄然重塑。情感基調應呈現出親密、危險且不可避免的感覺，而非恐怖感——就像一場已經開始向她有利方向傾斜的私人交易。結尾時，她仍以同樣穩定的節奏向前行走，而長廊已擴展為一條更清晰、閃爍著金光的道路。呈現優雅、不祥且具備高級感的電影級動態。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/711e6db72482f6feb7868260e2bb2cbd/thumbnails/thumbnail.jpg" width="600" alt="電影感長廊漫步與場景變換">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4335)**
-
-**作者:** [Minnnnns](https://x.com/minnns_aheya) | **來源:** [Link](https://x.com/minnns_aheya/status/2052068241456132189) | **發布時間:** May 6, 2026
-
----
-### 可動人偶網紅影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個創意定格動畫風格的影片提示詞，描述一個可動人偶化身為社群媒體網紅，對著手持晃動的攝影機說話。
-
-#### 📝 提示詞
-
-```
-這款 1:6 比例的女性塑膠可動人偶 @Image1 ，正對著晃動的手持攝影機說話，宛如一位單人網紅。@Image1 面對鏡頭站立，並以生動的定格動畫方式，用塑膠手勢做出強調動作。@Image1 說道：「身為藝術家意味著要與金錢掛鉤。這場遊戲是被操縱的！」無音樂，無慢動作。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cac65ff549cf5c7efd896992f5d0ff18/thumbnails/thumbnail.jpg" width="600" alt="可動人偶網紅影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4339)**
-
-**作者:** [John Panic](https://x.com/johnpanic44) | **來源:** [Link](https://x.com/johnpanic44/status/2051995925736783886) | **發布時間:** May 6, 2026
-
----
-### 電影感夜間騎行霓虹街道
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個高能量的電影感提示詞，用於生成帶有霓虹燈光和頭盔特寫鏡頭的夜間摩托車騎行畫面。
-
-#### 📝 提示詞
-
-```
-電影感夜間騎行，無人拍攝。頭盔特寫，霓虹街道，全速前進的氛圍
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6fa6e36460560a9ab29eda72e8177c87/thumbnails/thumbnail.jpg" width="600" alt="電影感夜間騎行霓虹街道">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4346)**
-
-**作者:** [Jasmine Ai](https://x.com/jasminekhan90_) | **來源:** [Link](https://x.com/jasminekhan90_/status/2051975023888646537) | **發布時間:** May 6, 2026
-
----
-### 程式碼天使之翼變身
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個優雅且超凡脫俗的影片提示詞：角色在走向窗戶的過程中，背後幻化出全息水晶般的程式碼天使之翼。
-
-#### 📝 提示詞
-
-```
-她站起身走向窗邊，在她行走時，全息水晶般的程式碼天使之翼逐漸成形，優雅且超凡脫俗
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4fb794a6fcb179f319b212274b038782/thumbnails/thumbnail.jpg" width="600" alt="程式碼天使之翼變身">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4337)**
-
-**作者:** [David Avenue Media](https://x.com/davidavenueai) | **來源:** [Link](https://x.com/davidavenueai/status/2051923535308943485) | **發布時間:** May 6, 2026
-
----
-### 皮克斯風格念力動畫序列
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 這是一份詳細的多場景電影級提示詞，用於製作一段關於小女孩嘗試使用念力的動畫序列，內容包含完整的燈光細節與運鏡指令。
-
-#### 📝 提示詞
-
-```
-皮克斯動畫風格，窗戶透進的柔和自然光與反射光，真實的布料與頭髮擺動，淺景深效果。場景 1：中景，一個小女孩坐在床上，雙臂向前伸展。她正試圖施展念力。她的表情緊繃，身體因用力而微微顫抖。場景 2：切換至廣角鏡頭，展示整個房間。窗簾微微擺動。攝影機以手持方式保持穩定。前景處有一顆橘子，背景中的女孩呈現模糊狀態。場景 3：切換至女孩臉部的特寫鏡頭。咬緊牙關、鼓起臉頰、眉頭深鎖。她的臉部因努力而微微顫抖。場景 4：快速剪輯至橘子的特寫，橘子紋風不動。場景 5：快速剪輯至中景。女孩無力地垂下雙手，向後倒在床上，盯著天花板並嘆了一口氣。場景 6：從女孩身上快速拉遠鏡頭，穿過臥室，最終呈現房間的遠景外觀，畫面中一隻狗正驚恐地漂浮在半空中。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/561cc879a3ff4440fd406b0b86df0868/thumbnails/thumbnail.jpg" width="600" alt="皮克斯風格念力動畫序列">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4348)**
-
-**作者:** [Aiyo](https://x.com/AiyoGame) | **來源:** [Link](https://x.com/AiyoGame/status/2051898889029210136) | **發布時間:** May 6, 2026
-
----
-### 辦公室裡的女子與機器人
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一幕細膩的電影場景，描繪了一位金髮女子與一個機器人在辦公室中拾起破碎畫作的碎片。
-
-#### 📝 提示詞
-
-```
-留著波浪捲髮的金髮女子與一個機器人在一起。他們在辦公室裡拾起破碎畫作的碎片。驚恐的主管說：「我以為他不會這麼做，但他還是做了。我感到萬分沮喪。」
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a4778fc726316842a378edb2c3083746/thumbnails/thumbnail.jpg" width="600" alt="辦公室裡的女子與機器人">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4349)**
-
-**作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **來源:** [Link](https://x.com/clemensilverio/status/2051870492059996527) | **發布時間:** May 6, 2026
-
----
-### 超現實炭筆鏡像場景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個藝術感十足的影片提示詞，描述了在複雜中庭中，人物與鏡子互動的超現實、詭譎場景，並採用素描炭筆風格。
-
-#### 📝 提示詞
-
-```
-場景需要呈現出超現實、詭譎且情感深邃的氛圍。我將描述兩個人物與一面鏡子互動，背景是一個複雜的中庭。採用帶有銀色與石墨亮點的炭筆素描風格，應該能完美契合這種情緒。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/aa7087db0be749ab0391ec93ab9aef6b/thumbnails/thumbnail.jpg" width="600" alt="超現實炭筆鏡像場景">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4344)**
-
-**作者:** [null combination](https://x.com/adeptusnull) | **來源:** [Link](https://x.com/adeptusnull/status/2051865520270434565) | **發布時間:** May 6, 2026
-
----
-### 高管與畫作的互動
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段兩位高管之間的互動影片提示詞，其中一人將牆上的畫作扔向另一人。
-
-#### 📝 提示詞
-
-```
-他遇見了另一位高管。全程無對話。他將牆上的一幅畫取下並扔向對方。他以為自己會擊中我嗎？他做得非常隱晦，以至於你根本沒有察覺。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/44179f0c6cfbfcfe365263df1066dd75/thumbnails/thumbnail.jpg" width="600" alt="高管與畫作的互動">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4350)**
-
-**作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **來源:** [Link](https://x.com/clemensilverio/status/2051860686720860472) | **發布時間:** May 6, 2026
-
----
-### 太空中的女子與機器人
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段充滿奇幻色彩的影片提示詞，描述一名女子與一個白色小機器人在滿月附近的太空中漂浮。
-
-#### 📝 提示詞
-
-```
-金髮女子，頭髮在風中飄逸。身旁跟著一個白色小機器人，兩者都在大氣層中漂浮。他們漂浮在可以看到滿月的地方。他們看起來都非常開心！她說：「等待消息，朋友。」
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/48adeb84e3dc706862a776e82f7c6f16/thumbnails/thumbnail.jpg" width="600" alt="太空中的女子與機器人">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4351)**
-
-**作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **來源:** [Link](https://x.com/clemensilverio/status/2051856864619417829) | **發布時間:** May 6, 2026
-
----
-### 天鵝在湖面上拋擲玫瑰
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個寧靜且細膩的影片提示詞，描述兩隻天鵝在山間湖泊上滑行並互相拋擲玫瑰的場景，並包含背景音樂的詳細說明。
-
-#### 📝 提示詞
-
-```
-兩隻白天鵝在湖面上滑行，互相拋擲玫瑰，背景為松樹與群山，背景音樂為大提琴
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8ab0e5c408049a41315a85b85e45cb7/thumbnails/thumbnail.jpg" width="600" alt="天鵝在湖面上拋擲玫瑰">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4347)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2051852661373497459) | **發布時間:** May 6, 2026
-
----
-### Sith Green Goblin 與 Spider-Man 跨界聯動
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個充滿創意的混合提示詞，描繪 Green Goblin 化身為 Sith Lord 與 Spider-Man 對峙的場景。
-
-#### 📝 提示詞
-
-```
-感受原力黑暗面的力量吧，加入我吧，小蜘蛛，化身為 Sith 的 Green Goblin
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/61ee3b6f3846e5d950e93fa417245b93/thumbnails/thumbnail.jpg" width="600" alt="Sith Green Goblin 與 Spider-Man 跨界聯動">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4341)**
-
-**作者:** [William Kevin Newman](https://x.com/THE_Newmanator) | **來源:** [Link](https://x.com/THE_Newmanator/status/2051830423802569020) | **發布時間:** May 6, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2252,6 +2260,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-05-16T06:27:40.266Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-05-16T09:48:23.031Z</sub>
 
 </div>

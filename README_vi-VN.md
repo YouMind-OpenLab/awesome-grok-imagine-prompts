@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1508** |
+| 📝 Total Prompts | **1519** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-16** |
 
@@ -189,6 +189,199 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Chuỗi thay đổi màu sắc trang phục nhân vật
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh chuyển động video hướng dẫn nhân vật xoay người trong khi trang phục thay đổi màu sắc từ đen sang nâu, kết thúc bằng cảnh lộ diện nhân vật.
+
+#### 📝 Prompt
+
+```
+Hãy để nhân vật này xoay người hai lần, trang phục chuyển từ màu đen sang màu nâu rồi quay lại màu cũ, sau đó cô ấy bỏ mũ ra, để lộ mái tóc xoăn màu đỏ tuyệt đẹp và cười tươi!
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e3fe09cef57995fa7ec2a086cb6ac0ad/thumbnails/thumbnail.jpg" width="600" alt="Chuỗi thay đổi màu sắc trang phục nhân vật">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4856)**
+
+**Author:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **Source:** [Link](https://x.com/CindyWeigapn6/status/2055373714569490808) | **Published:** May 15, 2026
+
+---
+### Những chú dê nhảy lên mặt trăng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video đầy kỳ ảo và siêu thực về những chú dê nhảy lên mặt trăng cùng cầu vồng và những cú lộn ngược khi đang mặc váy tutu.
+
+#### 📝 Prompt
+
+```
+Hãy để những chú dê nhảy lên mặt trăng rồi quay trở lại với cầu vồng dưới chân, thực hiện các cú lộn ngược trong khi đang mặc váy tutu
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/869a2b5962345afdf557b3a7215b0c34/thumbnails/thumbnail.jpg" width="600" alt="Những chú dê nhảy lên mặt trăng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4857)**
+
+**Author:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **Source:** [Link](https://x.com/CindyWeigapn6/status/2055370762031186048) | **Published:** May 15, 2026
+
+---
+### Hoạt ảnh Dây leo Dữ liệu Ảnh ký
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tập trung vào công nghệ để tạo hoạt ảnh liền mạch về các dây leo dữ liệu ảnh ký trôi nổi với các xung năng lượng.
+
+#### 📝 Prompt
+
+```
+Các dây leo dữ liệu ảnh ký trôi nổi đan xen với những xung năng lượng phát sáng, bảng màu công nghệ tối giản tinh tế, hoạt ảnh liền mạch hoàn hảo
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/83a53b7be9bde4f088eef7a638bd8789/thumbnails/thumbnail.jpg" width="600" alt="Hoạt ảnh Dây leo Dữ liệu Ảnh ký">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4862)**
+
+**Author:** [𝐙𝐞𝐧𝐠 💜](https://x.com/zeng_wt) | **Source:** [Link](https://x.com/zeng_wt/status/2055332447684903306) | **Published:** May 15, 2026
+
+---
+### Tên lửa SpaceX trên Tesla Roadster
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video điện ảnh về chiếc Tesla Roadster v2 màu Stealth Grey sử dụng tên lửa SpaceX để du hành thời gian.
+
+#### 📝 Prompt
+
+```
+Một chiếc Tesla Roadster v2 màu Stealth Grey, kích hoạt tên lửa SpaceX và lao xuyên thời gian.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/322b375fd5249f70defd58bf5ed34f1c/thumbnails/thumbnail.jpg" width="600" alt="Tên lửa SpaceX trên Tesla Roadster">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4854)**
+
+**Author:** [Peter Frandsen 🇸🇪](https://x.com/happy_swede) | **Source:** [Link](https://x.com/happy_swede/status/2055290643061051573) | **Published:** May 15, 2026
+
+---
+### Hướng dẫn tạo video chuyển động nhân vật
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video chức năng hướng dẫn nhân vật đi xuống đồi và tương tác với các khung hình tham chiếu cụ thể trong khi đang nói.
+
+#### 📝 Prompt
+
+```
+Hãy để nhân vật trong ảnh 3 đi xuống đồi, đi qua các ảnh 2 và 3, sau đó nói "good morning" bằng tiếng Anh và tiếng Trung, rồi nói "have an amazing day"
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8ef23ca30317bb75d4dfeefcb3853ad/thumbnails/thumbnail.jpg" width="600" alt="Hướng dẫn tạo video chuyển động nhân vật">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4859)**
+
+**Author:** [Amandasatiro](https://x.com/Amandasatiro07) | **Source:** [Link](https://x.com/Amandasatiro07/status/2055275119740686679) | **Published:** May 15, 2026
+
+---
+### Thoát khỏi màn hình: Khu rừng siêu thực
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh điện ảnh để tạo video siêu thực về một người phụ nữ bước ra từ màn hình kỹ thuật số vào thế giới rừng rậm sống động, kết hợp các yếu tố thời trang cao cấp và sinh thái tương lai.
+
+#### 📝 Prompt
+
+```
+Một khung cảnh điện ảnh siêu thực về một người phụ nữ đầy tự tin đang bước ra từ một màn hình kỹ thuật số khổng lồ bị nứt vỡ cắm trên mặt đất. Bên trong màn hình là một thế giới rừng rậm sống động với các loài thực vật phát sáng, sương mù và động vật hoang dã phát quang sinh học. Những dây leo và nước tràn ra khỏi màn hình khi cô bước tới, khoảnh khắc đóng băng giữa chuyển động với hiệu ứng tia nước và hạt bụi chân thực. Mái tóc dài của cô bay tự nhiên, biểu cảm bình tĩnh và đầy quyền năng. Cô mặc một bộ trang phục thời trang cao cấp hiện đại, kết hợp giữa kết cấu hữu cơ và thiết kế tinh tế. Ánh sáng điện ảnh ấn tượng, hậu cảnh tối đầy tâm trạng, chi tiết siêu thực, độ sâu trường ảnh nông, chủ nghĩa hiện thực giả tưởng, độ phân giải 4K, độ tương phản cao, lấy nét sắc nét, áp phích sinh thái tương lai sang trọng, nghệ thuật kỹ thuật số siêu thực, chỉnh màu chuyên nghiệp.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/383d6d0e997325da111343ad10c2249e/thumbnails/thumbnail.jpg" width="600" alt="Thoát khỏi màn hình: Khu rừng siêu thực">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4860)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2055273422276694408) | **Published:** May 15, 2026
+
+---
+### Video biến hình cơ khí Android phong cách Cyberpunk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) điện ảnh chi tiết để tạo video chất lượng cao dài 6 giây về hai nữ android đang trải qua quá trình biến hình cơ khí mượt mà trong một nhà kho công nghiệp tối tăm.
+
+#### 📝 Prompt
+
+```
+Video chân thực dài 6 giây mang tính điện ảnh, cảnh biến hình Transformers phong cách cyberpunk cực kỳ chi tiết và đẳng cấp. Hai nữ android tương lai đứng sát nhau, đối mặt trong tư thế căng thẳng bên trong một nhà kho công nghiệp tối tăm, đầy sương mù xanh và các điểm nhấn neon rực rỡ. Android bên trái đội mũ bảo hiểm đen bóng với kính che mắt đỏ rực và các dây cáp cổ cơ khí phức tạp đang nhấp nháy năng lượng đỏ. Android bên phải có khuôn mặt sứ trắng nứt nẻ để lộ các bộ phận điều khiển học màu đỏ rực, hàm cơ khí lộ ra và mái tóc tết bằng dây cáp đen dài. Cả hai đều mặc bộ đồ bó sát làm từ kim loại lỏng màu đen siêu bóng với các đường mạch điện đỏ phát sáng. Từ 0–2 giây: cận cảnh chậm đầy kịch tính khi họ nhìn chằm chằm vào nhau, ánh sáng đỏ nhấp nháy mạnh hơn, những tia lửa mờ và năng lượng phóng ra giữa họ. Từ 2–4 giây: cả hai android bắt đầu quá trình biến hình đồng bộ, mượt mà — các tấm trên đầu, vai và ngực dịch chuyển và mở ra một cách chính xác như những Transformers tiên tiến, để lộ các cấu trúc điều khiển học phát sáng phức tạp hơn bên dưới trong khi vẫn giữ được hình dáng nữ tính thanh lịch. Từ 4–6 giây: quá trình biến hình trở nên dữ dội hơn với góc máy quay xoay quanh họ, hiệu ứng lóe sáng (lens flare) đỏ và xanh, tia lửa bay và các hạt năng lượng. Họ từ từ đưa tay về phía nhau khi cơ thể phát ra nguồn năng lượng mạnh mẽ, bầu không khí cyberpunk hùng tráng, ánh sáng viền kịch tính, chỉnh màu điện ảnh, chi tiết siêu thực, 8K, quay bằng ARRI Alexa 65 + ống kính anamorphic, hạt phim tinh tế, bố cục bậc thầy, hình ảnh khoa học viễn tưởng ngoạn mục. Phong cách: chân thực, điện ảnh, cyberpunk, hiệu ứng hình ảnh (VFX) cao cấp, ánh sáng kịch tính, tâm trạng và mãnh liệt.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/24db440367726435312c3bc663a44250/thumbnails/thumbnail.jpg" width="600" alt="Video biến hình cơ khí Android phong cách Cyberpunk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4864)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2055213619076571426) | **Published:** May 15, 2026
+
+---
+### Chuyển đổi màu tóc và màu môi linh hoạt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh chuyển đổi phức tạp giúp thay đổi luân phiên nhiều màu tóc và màu môi trong cùng một đoạn video.
+
+#### 📝 Prompt
+
+```
+Hãy để cô ấy thay đổi màu tóc từ bạc sang trắng, vàng kim, hồng, oải hương, tím, vàng, cam, xanh dương và màu môi sang đỏ anh đào
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5fd92ce04eb342c2fdbdc5b621e213cb/thumbnails/thumbnail.jpg" width="600" alt="Chuyển đổi màu tóc và màu môi linh hoạt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4858)**
+
+**Author:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **Source:** [Link](https://x.com/CindyWeigapn6/status/2055193653128143055) | **Published:** May 15, 2026
+
+---
+### Lễ hội Sa mạc Du mục Tương lai
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Góc nhìn thứ nhất về một lễ hội khoa học viễn tưởng trên sa mạc với những chiếc xe đạp đồng và lạc đà được trang trí dưới bầu trời đầy giông bão.
+
+#### 📝 Prompt
+
+```
+POV: Bạn vừa tình cờ bước vào một lễ hội du mục tương lai giữa những cồn cát. Những chiếc xe đạp đồng, lạc đà được trang trí công phu và vô vàn biểu ngữ tiệc tùng dưới bầu trời đầy giông bão.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e415134402f087606792c40246d9344/thumbnails/thumbnail.jpg" width="600" alt="Lễ hội Sa mạc Du mục Tương lai">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4855)**
+
+**Author:** [Jacqueline](https://x.com/lipsticktazer69) | **Source:** [Link](https://x.com/lipsticktazer69/status/2055131067913212319) | **Published:** May 15, 2026
+
+---
+### Robot Khổng Lồ Đổ Bộ Từ Quỹ Đạo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) khoa học viễn tưởng cyberpunk cực kỳ chi tiết về cảnh một robot khổng lồ đổ bộ xuống Trái Đất, với các hiệu ứng sóng xung kích ấn tượng, khung cảnh thành phố neon và góc máy đậm chất điện ảnh.
+
+#### 📝 Prompt
+
+```
+Video 6 giây chân thực như ảnh chụp, độ phân giải 8K siêu chi tiết, phong cách khoa học viễn tưởng cyberpunk đỉnh cao như Transformers. Một robot hình người khổng lồ cao 200 mét, với lớp giáp màu bạc trắng bóng bẩy và đen nhám, các đường mạch điện màu xanh cyan phát sáng cùng đôi mắt đỏ đầy đe dọa, đang hạ cánh đầy kịch tính từ quỹ đạo xuống Trái Đất.
+Robot khổng lồ tiếp đất với cú va chạm rung chuyển mặt đất ngay rìa một siêu đô thị cyberpunk về đêm — đôi chân khổng lồ của nó đập mạnh vào bầu khí quyển, tạo ra một làn sóng xung kích dữ dội gồm bụi, lửa và các mảnh vỡ phát sáng lan tỏa khắp bề mặt hành tinh. Các vòng năng lượng ba chiều và những tia plasma màu xanh neon xoáy mạnh xung quanh cánh tay và nắm đấm đầy uy lực của nó.
+Camera điện ảnh góc thấp năng động từ từ xoay quanh robot khổng lồ từ phía dưới và hướng lên trên, ghi lại quy mô to lớn như một vị thần của nó trên nền đường chân trời Trái Đất màu xanh phát sáng và không gian đầy sao. Những chiếc xe bay và các tòa nhà chọc trời rực rỡ ánh đèn neon có thể nhìn thấy ở phía xa bên dưới. Hiệu ứng tia sáng (god rays), sương mù khí quyển, lóe sáng ống kính (lens flare), nhòe chuyển động trên các hạt di chuyển nhanh, phản chiếu kim loại siêu thực và các chi tiết cơ khí tinh xảo.
+Phối màu cyberpunk với sắc đen sâu, các điểm nhấn màu xanh neon, đỏ và tím magenta rực rỡ, ánh sáng viền kịch tính. Chi tiết đến kinh ngạc, chân thực như ảnh chụp, chất lượng IMAX, quay bằng máy Arri Alexa 65 kết hợp ống kính anamorphic, đạo diễn bởi Denis Villeneuve và Michael Bay, 24fps, kiệt tác điện ảnh --ar 16:9 --stylize 250 --v 6
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d330bf382dd9fd8bb84a2ee3590997f1/thumbnails/thumbnail.jpg" width="600" alt="Robot Khổng Lồ Đổ Bộ Từ Quỹ Đạo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4861)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2055099462150988115) | **Published:** May 15, 2026
+
+---
 ### 马斯克父子 Are you OK 北京话短剧
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -218,6 +411,30 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4773)**
 
 **Author:** [Jared 宗源](https://x.com/jaredliu_bravo) | **Source:** [Link](https://x.com/jaredliu_bravo/status/2054913526922424497) | **Published:** May 14, 2026
+
+---
+### Chiến binh mặc giáp điều khiển học cưỡi ngựa robot
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh Grok Imagine chi tiết cho video khoa học viễn tưởng đậm chất điện ảnh, mô tả một người phụ nữ mặc giáp điều khiển học màu đen mờ đang cưỡi một con ngựa robot cơ sinh học tiên tiến băng qua thành phố cyberpunk hậu tận thế.
+
+#### 📝 Prompt
+
+```
+Video điện ảnh dài 6 giây, siêu thực tế theo phong cách khoa học viễn tưởng cyberpunk đẳng cấp Transformers. Một người phụ nữ trẻ xinh đẹp trong bộ giáp điều khiển học màu đen mờ và xám nòng súng tinh xảo, với các điểm nhấn màu xanh trắng phát sáng, đang cưỡi một con ngựa robot cơ sinh học siêu tiên tiến băng qua một siêu đô thị hậu tận thế đổ nát.
+Con ngựa cơ khí là sự kết hợp phức tạp giữa cơ bắp hữu cơ, piston, dây cáp và các tấm giáp hạng nặng — chi tiết đẳng cấp Transformer thế hệ mới với các tấm ốp chuyển động và những đường năng lượng phát sáng tinh tế. Người phụ nữ có biểu cảm nghiêm nghị, tập trung, đội mũ bảo hiểm chiến thuật với kính HUD và mặt nạ dưỡng khí, mái tóc đen khẽ bay trong gió.
+Camera bắt đầu với góc quay thấp đầy kịch tính từ phía trước bên cạnh, từ từ xoay quanh họ khi họ phi nước đại mạnh mẽ qua những con phố bị tàn phá với các tòa nhà chọc trời đổ nát, dây điện treo lơ lửng, khói và tàn lửa bay. Móng ngựa kim loại tạo ra tia lửa trên mặt đất. Ánh sáng cyberpunk năng động với các tia sáng thể tích xuyên qua bụi, phản chiếu neon trên bề mặt kim loại ướt, các bảng quảng cáo ba chiều tinh tế nhấp nháy ở phía sau.
+Chi tiết siêu thực, độ phân giải 8K, chỉnh màu điện ảnh với tông màu xanh mòng két lạnh và cam ấm, chuyển động cường độ cao, độ sâu trường ảnh ấn tượng, hạt phim tinh tế, quay bằng Arri Alexa 65 + ống kính anamorphic. Chuyển động tốc độ cao với giải phẫu hoàn hảo và độ chân thực cơ khí. Thời lượng 6 giây, chuyển động điện ảnh 24fps mượt mà.
+Câu lệnh phủ định (khuyên dùng):
+mờ, biến dạng, chất lượng thấp, hoạt hình, anime, thừa chi tiết cơ thể, văn bản, hình mờ, phơi sáng quá mức, da nhựa, giải phẫu xấu, chi tiết thấp, ánh sáng phẳng.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f9701c2cb9d34351bb27fffca481f5f1/thumbnails/thumbnail.jpg" width="600" alt="Chiến binh mặc giáp điều khiển học cưỡi ngựa robot">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4863)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2054897466357723390) | **Published:** May 14, 2026
 
 ---
 ### Hành tinh thiên đường của người phụ nữ Sao Kim
@@ -1982,215 +2199,6 @@ Hãy tạo ra một con sóng giữa đại dương đầy ắp cá, nơi một 
 **Author:** [Holliday Rush](https://x.com/HollidayRu41904) | **Source:** [Link](https://x.com/HollidayRu41904/status/2052073784937451529) | **Published:** May 6, 2026
 
 ---
-### Chuyển cảnh và bước đi điện ảnh trong hành lang
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video phức tạp cho hiệu ứng thu nhỏ liên tục theo chân một người phụ nữ trong hành lang nghi lễ, với sự biến đổi môi trường và nhịp độ ổn định.
-
-#### 📝 Prompt
-
-```
-Giữ hình ảnh người phụ nữ bước đi một mình từ phía sau khi cô di chuyển dọc theo hành lang nghi lễ dài với sàn đen phản chiếu. Duy trì sự ổn định và đẳng cấp cho bộ trang phục couture đen vàng, mái tóc bồng bềnh, trang sức và bố cục hành lang sang trọng. Sải bước của cô phải giữ nhịp độ hoàn hảo từ đầu đến cuối, không nhanh hơn cũng không chậm lại. Chỉ sử dụng một cú thu nhỏ (zoom-out) mượt mà liên tục, dần dần hé lộ thêm không gian hành lang và làm sâu sắc thêm cảm giác cô đang bước đi trong những điều khoản của một thỏa thuận vô hình. Giữ bức tượng bóng tối đồ sộ phía sau cô hiển thị ở phía xa, nhưng phải hoàn toàn tĩnh lặng, không bao giờ đuổi theo hay tiến lại gần. Khi máy quay lùi lại, các vòng lặp bóng đổ lơ lửng và các đường nét treo trở nên rõ ràng hơn, sàn nhà phản chiếu dần chuyển thành những đường chỉ vàng mỏng dưới mỗi bước chân. Để mỗi bước chân kích hoạt một sự biến đổi tinh tế mà không làm gián đoạn nhịp độ của cô: các vòng lặp gần đó tinh chỉnh thành những đường nét trật tự, hình ảnh phản chiếu trên sàn sắc nét hơn, và lối đi lặng lẽ viết lại chính nó xung quanh cô với sự thanh lịch có kiểm soát. Tông màu cảm xúc nên mang lại cảm giác thân mật, nguy hiểm và tất yếu thay vì kinh dị — giống như một thỏa thuận riêng tư đang dần chuyển hướng có lợi cho cô. Kết thúc với cảnh cô vẫn đang bước về phía trước với nhịp độ đều đặn như cũ trong khi hành lang đã mở rộng thành một lối đi rực rỡ ánh vàng rõ nét hơn xung quanh cô. Chỉ sử dụng chuyển động điện ảnh thanh lịch, đầy điềm báo và cao cấp.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/711e6db72482f6feb7868260e2bb2cbd/thumbnails/thumbnail.jpg" width="600" alt="Chuyển cảnh và bước đi điện ảnh trong hành lang">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4335)**
-
-**Author:** [Minnnnns](https://x.com/minnns_aheya) | **Source:** [Link](https://x.com/minnns_aheya/status/2052068241456132189) | **Published:** May 6, 2026
-
----
-### Video nhân vật hành động làm Influencer
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý video sáng tạo theo phong cách stop-motion, trong đó một nhân vật hành động đóng vai người có sức ảnh hưởng trên mạng xã hội đang trò chuyện với máy quay cầm tay rung lắc.
-
-#### 📝 Prompt
-
-```
-Mô hình nhân vật hành động bằng nhựa tỷ lệ 1:6, @Image1 , đang trò chuyện với máy quay cầm tay rung lắc như một nữ influencer thực thụ. @Image1  đứng đối diện với máy quay và thực hiện các cử chỉ đầy nhấn mạnh bằng đôi tay nhựa theo phong cách stop motion sống động. @Image1  “Làm nghệ sĩ nghĩa là phải gắn liền với tiền bạc. Trò chơi này đã bị dàn xếp rồi!” Không nhạc, không quay chậm.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cac65ff549cf5c7efd896992f5d0ff18/thumbnails/thumbnail.jpg" width="600" alt="Video nhân vật hành động làm Influencer">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4339)**
-
-**Author:** [John Panic](https://x.com/johnpanic44) | **Source:** [Link](https://x.com/johnpanic44/status/2051995925736783886) | **Published:** May 6, 2026
-
----
-### Chuyến đi đêm đậm chất điện ảnh trên những con phố đèn neon
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) điện ảnh đầy năng lượng để tạo ra cảnh lái xe mô tô ban đêm với ánh sáng neon và các góc quay cận cảnh mũ bảo hiểm.
-
-#### 📝 Prompt
-
-```
-Chuyến đi đêm đậm chất điện ảnh, không cần ê-kíp. Cận cảnh mũ bảo hiểm, những con phố đèn neon, cảm giác tăng tốc hết ga
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6fa6e36460560a9ab29eda72e8177c87/thumbnails/thumbnail.jpg" width="600" alt="Chuyến đi đêm đậm chất điện ảnh trên những con phố đèn neon">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4346)**
-
-**Author:** [Jasmine Ai](https://x.com/jasminekhan90_) | **Source:** [Link](https://x.com/jasminekhan90_/status/2051975023888646537) | **Published:** May 6, 2026
-
----
-### Biến hình đôi cánh thiên thần mã code
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video đầy thanh tao và huyền ảo, nơi nhân vật xuất hiện đôi cánh thiên thần bằng mã code tinh thể ba chiều khi đang bước về phía cửa sổ.
-
-#### 📝 Prompt
-
-```
-Cô ấy đứng dậy và bước đến nhìn ra cửa sổ, đôi cánh thiên thần bằng mã code tinh thể ba chiều dần hình thành khi cô bước đi, thanh tao, huyền ảo
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4fb794a6fcb179f319b212274b038782/thumbnails/thumbnail.jpg" width="600" alt="Biến hình đôi cánh thiên thần mã code">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4337)**
-
-**Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2051923535308943485) | **Published:** May 6, 2026
-
----
-### Chuỗi hoạt ảnh phong cách Pixar về năng lực điều khiển vật thể bằng ý nghĩ
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Một câu lệnh (prompt) điện ảnh chi tiết gồm nhiều cảnh cho chuỗi hoạt ảnh về một cô bé đang cố gắng sử dụng năng lực điều khiển vật thể bằng ý nghĩ, bao gồm các chi tiết về ánh sáng và hướng dẫn góc máy.
-
-#### 📝 Prompt
-
-```
-Phong cách hoạt hình Pixar, ánh sáng tự nhiên dịu nhẹ từ cửa sổ kết hợp ánh sáng phản chiếu, chuyển động của vải và tóc chân thực, hiệu ứng độ sâu trường ảnh nông. Cảnh 1: Cảnh trung, một cô bé đang ngồi trên giường, hai tay vươn về phía trước. Cô bé đang cố gắng thực hiện năng lực điều khiển vật thể bằng ý nghĩ. Gương mặt cô bé căng thẳng, cơ thể hơi run lên vì gắng sức. Cảnh 2: Chuyển sang cảnh toàn, bao quát toàn bộ căn phòng. Rèm cửa đung đưa nhẹ. Máy quay được giữ ổn định bằng tay. Một quả cam nằm ở tiền cảnh, cô bé bị làm mờ ở hậu cảnh. Cảnh 3: Chuyển sang cận cảnh gương mặt cô bé. Nghiến răng, phồng má, nhíu mày. Gương mặt cô bé run nhẹ vì nỗ lực. Cảnh 4: Cắt nhanh sang cận cảnh quả cam, bất động. Cảnh 5: Cắt nhanh sang cảnh trung. Đôi tay cô bé buông thõng bất lực, cô bé ngã người ra sau giường, nhìn lên trần nhà và thở dài. Cảnh 6: Cú zoom xa nhanh từ cô bé, lùi dần qua phòng ngủ ra đến cảnh ngoại thất xa của căn phòng, nơi một chú chó đang lơ lửng giữa không trung với vẻ mặt kinh hãi.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/561cc879a3ff4440fd406b0b86df0868/thumbnails/thumbnail.jpg" width="600" alt="Chuỗi hoạt ảnh phong cách Pixar về năng lực điều khiển vật thể bằng ý nghĩ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4348)**
-
-**Author:** [Aiyo](https://x.com/AiyoGame) | **Source:** [Link](https://x.com/AiyoGame/status/2051898889029210136) | **Published:** May 6, 2026
-
----
-### Người phụ nữ và Robot trong văn phòng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một cảnh quay điện ảnh chi tiết mô tả một người phụ nữ tóc vàng và một robot trong văn phòng đang nhặt những mảnh vỡ của một bức tranh.
-
-#### 📝 Prompt
-
-```
-Người phụ nữ tóc vàng với mái tóc gợn sóng đi cùng một robot. Họ đang ở trong văn phòng và nhặt những mảnh vỡ của một bức tranh. Vị giám đốc điều hành sợ hãi nói: Tôi đã nghĩ anh ta sẽ không làm vậy, nhưng anh ta đã làm. Tôi thật sự suy sụp.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a4778fc726316842a378edb2c3083746/thumbnails/thumbnail.jpg" width="600" alt="Người phụ nữ và Robot trong văn phòng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4349)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2051870492059996527) | **Published:** May 6, 2026
-
----
-### Cảnh gương than chì siêu thực
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video nghệ thuật mô tả khung cảnh siêu thực, kỳ quái theo phong cách phác thảo bằng than chì, với các nhân vật đang tương tác với một chiếc gương trong một không gian giếng trời phức tạp.
-
-#### 📝 Prompt
-
-```
-Khung cảnh cần mang tính siêu thực, kỳ quái và giàu cảm xúc. Tôi sẽ mô tả hai nhân vật đang tương tác với một chiếc gương, phía sau là một không gian giếng trời phức tạp. Việc sử dụng phong cách phác thảo bằng than chì với các điểm nhấn màu bạc và than chì sẽ phù hợp với tâm trạng của tác phẩm.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/aa7087db0be749ab0391ec93ab9aef6b/thumbnails/thumbnail.jpg" width="600" alt="Cảnh gương than chì siêu thực">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4344)**
-
-**Author:** [null combination](https://x.com/adeptusnull) | **Source:** [Link](https://x.com/adeptusnull/status/2051865520270434565) | **Published:** May 6, 2026
-
----
-### Tương tác giữa các giám đốc điều hành với bức tranh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một lời nhắc tương tác video giữa hai giám đốc điều hành, trong đó một người lấy bức tranh trên tường ném vào người kia.
-
-#### 📝 Prompt
-
-```
-Anh ấy gặp một giám đốc điều hành khác. Không có lời thoại. Anh ấy lấy một bức tranh trên tường và ném nó về phía người kia. Anh ta có nghĩ rằng mình sẽ đánh trúng tôi không? Anh ta đã làm điều đó một cách tinh vi đến mức bạn không hề nhận ra.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/44179f0c6cfbfcfe365263df1066dd75/thumbnails/thumbnail.jpg" width="600" alt="Tương tác giữa các giám đốc điều hành với bức tranh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4350)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2051860686720860472) | **Published:** May 6, 2026
-
----
-### Người phụ nữ và Robot ngoài không gian
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý video đầy chất thơ về một người phụ nữ và một chú robot nhỏ màu trắng đang lơ lửng trong bầu khí quyển gần mặt trăng tròn.
-
-#### 📝 Prompt
-
-```
-Người phụ nữ tóc vàng với mái tóc bay trong gió. Đồng hành cùng một chú robot nhỏ màu trắng, cả hai đang lơ lửng trong bầu khí quyển. Họ đang trôi dạt ở nơi có thể nhìn thấy mặt trăng tròn. Cả hai đều rất hạnh phúc! Cô ấy nói Đang chờ tin tức, bạn của tôi.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/48adeb84e3dc706862a776e82f7c6f16/thumbnails/thumbnail.jpg" width="600" alt="Người phụ nữ và Robot ngoài không gian">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4351)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2051856864619417829) | **Published:** May 6, 2026
-
----
-### Thiên nga tung hoa hồng trên hồ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt chi tiết và thanh bình về hai chú thiên nga đang lướt trên mặt hồ giữa núi và tung hoa hồng cho nhau, kèm theo các chi tiết về nhạc nền.
-
-#### 📝 Prompt
-
-```
-Hai chú thiên nga trắng lướt trên mặt hồ, tung hoa hồng cho nhau, hậu cảnh là rừng thông và núi non, nhạc nền cello
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8ab0e5c408049a41315a85b85e45cb7/thumbnails/thumbnail.jpg" width="600" alt="Thiên nga tung hoa hồng trên hồ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4347)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2051852661373497459) | **Published:** May 6, 2026
-
----
-### Sự kết hợp giữa Sith Green Goblin và Spider-Man
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý sáng tạo kết hợp hình ảnh Green Goblin trong vai một Chúa tể Sith đang đối đầu với Spider-Man.
-
-#### 📝 Prompt
-
-```
-Cảm nhận sức mạnh của phe bóng tối đi nào, nhóc Spider-Man, Green Goblin trong vai một Sith
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/61ee3b6f3846e5d950e93fa417245b93/thumbnails/thumbnail.jpg" width="600" alt="Sự kết hợp giữa Sith Green Goblin và Spider-Man">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4341)**
-
-**Author:** [William Kevin Newman](https://x.com/THE_Newmanator) | **Source:** [Link](https://x.com/THE_Newmanator/status/2051830423802569020) | **Published:** May 6, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2252,6 +2260,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-16T06:27:46.299Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-16T09:48:27.643Z</sub>
 
 </div>

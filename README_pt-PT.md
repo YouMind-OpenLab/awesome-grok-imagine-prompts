@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1508** |
+| 📝 Total Prompts | **1519** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-16** |
 
@@ -189,6 +189,199 @@ Uma Valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Sequência de Mudança de Cor da Roupa do Personagem
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de movimento de vídeo que instrui o personagem a girar enquanto sua roupa muda de cor, de preto para marrom, terminando com uma revelação do personagem.
+
+#### 📝 Prompt
+
+```
+Faça esta pessoa girar duas vezes e a roupa mudar para preto, depois para marrom e voltar ao original; em seguida, ela tira o chapéu, revela lindos cachos ruivos e dá uma risada!
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e3fe09cef57995fa7ec2a086cb6ac0ad/thumbnails/thumbnail.jpg" width="600" alt="Sequência de Mudança de Cor da Roupa do Personagem">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4856)**
+
+**Author:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **Source:** [Link](https://x.com/CindyWeigapn6/status/2055373714569490808) | **Published:** May 15, 2026
+
+---
+### Cabras saltando até a Lua
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo surreal e extravagante envolvendo cabras saltando até a Lua com arco-íris e mortais para trás enquanto usam tutus.
+
+#### 📝 Prompt
+
+```
+Faça as cabras saltarem até a Lua e voltarem com arco-íris sob seus pés, dando mortais para trás enquanto usam tutus
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/869a2b5962345afdf557b3a7215b0c34/thumbnails/thumbnail.jpg" width="600" alt="Cabras saltando até a Lua">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4857)**
+
+**Author:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **Source:** [Link](https://x.com/CindyWeigapn6/status/2055370762031186048) | **Published:** May 15, 2026
+
+---
+### Animação de Vinhas de Dados Holográficas
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt focado em tecnologia para criar uma animação contínua de vinhas de dados holográficas flutuantes com pulsos de energia.
+
+#### 📝 Prompt
+
+```
+Vinhas de dados holográficas flutuantes entrelaçando-se com pulsos de energia luminosos, paleta tecnológica minimalista e limpa, animação contínua perfeita
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/83a53b7be9bde4f088eef7a638bd8789/thumbnails/thumbnail.jpg" width="600" alt="Animação de Vinhas de Dados Holográficas">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4862)**
+
+**Author:** [𝐙𝐞𝐧𝐠 💜](https://x.com/zeng_wt) | **Source:** [Link](https://x.com/zeng_wt/status/2055332447684903306) | **Published:** May 15, 2026
+
+---
+### Tesla Roadster com foguetes SpaceX
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico de um Tesla Roadster v2 na cor Stealth Grey utilizando foguetes SpaceX para viajar no tempo.
+
+#### 📝 Prompt
+
+```
+Um Tesla Roadster v2 na cor Stealth Grey, acionando seus foguetes SpaceX e viajando através do tempo.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/322b375fd5249f70defd58bf5ed34f1c/thumbnails/thumbnail.jpg" width="600" alt="Tesla Roadster com foguetes SpaceX">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4854)**
+
+**Author:** [Peter Frandsen 🇸🇪](https://x.com/happy_swede) | **Source:** [Link](https://x.com/happy_swede/status/2055290643061051573) | **Published:** May 15, 2026
+
+---
+### Instrução de vídeo para movimento de personagem
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt funcional de geração de vídeo que orienta um personagem a descer uma colina e interagir com quadros de referência específicos enquanto fala.
+
+#### 📝 Prompt
+
+```
+Faça com que a imagem 3 desça a colina, passe pelas imagens 2 e 3, diga 'bom dia' em inglês e chinês e diga 'tenha um dia incrível'
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8ef23ca30317bb75d4dfeefcb3853ad/thumbnails/thumbnail.jpg" width="600" alt="Instrução de vídeo para movimento de personagem">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4859)**
+
+**Author:** [Amandasatiro](https://x.com/Amandasatiro07) | **Source:** [Link](https://x.com/Amandasatiro07/status/2055275119740686679) | **Published:** May 15, 2026
+
+---
+### Fuga Surreal da Tela na Selva
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt cinematográfico para gerar um vídeo surreal de uma mulher emergindo de uma tela digital para um mundo de selva vibrante, apresentando elementos de alta costura e eco-futurismo.
+
+#### 📝 Prompt
+
+```
+Uma cena cinematográfica surreal de uma mulher confiante emergindo de uma enorme tela digital rachada inserida no solo. Dentro da tela, um mundo de selva vibrante com plantas brilhantes, névoa e vida selvagem bioluminescente. Vinhas e água transbordam da tela enquanto ela dá um passo à frente, congelada em pleno movimento com efeitos realistas de respingos e partículas. Seu longo cabelo flui naturalmente, sua expressão é calma e poderosa. Ela veste um traje moderno de alta costura que mistura texturas orgânicas e design elegante. Iluminação cinematográfica dramática, fundo escuro e atmosférico, detalhes ultrarrealistas, profundidade de campo rasa, realismo fantástico, resolução 4K, alto contraste, foco nítido, pôster de luxo eco-futurista, arte digital surreal, correção de cor profissional.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/383d6d0e997325da111343ad10c2249e/thumbnails/thumbnail.jpg" width="600" alt="Fuga Surreal da Tela na Selva">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4860)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2055273422276694408) | **Published:** May 15, 2026
+
+---
+### Vídeo de Transformação Mecânica de Android Cyberpunk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt cinematográfico detalhado para gerar um vídeo de alta qualidade com 6 segundos de duas androids passando por uma transformação mecânica fluida em um hangar industrial escuro.
+
+#### 📝 Prompt
+
+```
+Vídeo fotorrealista cinematográfico de 6 segundos, cena de Transformers cyberpunk de nível avançado e ultra detalhada. Duas androids futuristas estão extremamente próximas, frente a frente em um confronto tenso de perfil dentro de um hangar industrial escuro e atmosférico, preenchido com névoa volumétrica azul e detalhes em neon brilhante. A android à esquerda possui um capacete preto brilhante com olhos de visor vermelho brilhante e cabos mecânicos complexos no pescoço pulsando com energia vermelha. A android à direita tem um rosto de porcelana branca rachado revelando partes internas cibernéticas vermelhas brilhantes, mandíbula mecânica exposta e longos dreadlocks de cabos pretos. Ambas vestem trajes de metal líquido preto ultra brilhante e colado ao corpo, com linhas de circuito vermelhas brilhantes. De 0 a 2 segundos: close-up dramático e lento enquanto se encaram intensamente, luzes vermelhas pulsando mais forte, faíscas fracas e energia arqueando entre elas. De 2 a 4 segundos: ambas as androids iniciam uma transformação sincronizada e fluida de nível avançado — painéis em suas cabeças, ombros e peitos se deslocam e se abrem suavemente com precisão mecânica como Transformers avançados, revelando estruturas cibernéticas brilhantes mais complexas por baixo, mantendo suas formas femininas elegantes. De 4 a 6 segundos: a transformação se intensifica com uma órbita de câmera dramática ao redor delas, reflexos de lente vermelhos e azuis brilhantes, faíscas voando e partículas de energia. Elas levantam lentamente as mãos uma em direção à outra enquanto seus corpos emitem uma poderosa energia brilhante, atmosfera cyberpunk épica, iluminação de contorno dramática, color grading cinematográfico, detalhes hiper-realistas, 8K, filmado com ARRI Alexa 65 + lentes anamórficas, granulação de filme sutil, composição magistral, visuais de ficção científica de tirar o fôlego. Estilo: fotorrealista, cinematográfico, cyberpunk, VFX de alta qualidade, iluminação dramática, sombrio e intenso.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/24db440367726435312c3bc663a44250/thumbnails/thumbnail.jpg" width="600" alt="Vídeo de Transformação Mecânica de Android Cyberpunk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4864)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2055213619076571426) | **Published:** May 15, 2026
+
+---
+### Transição Dinâmica de Cor de Cabelo e Lábios
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de transformação complexo que alterna entre várias cores de cabelo e altera a cor dos lábios em uma única sequência de vídeo.
+
+#### 📝 Prompt
+
+```
+Faça com que ela mude o cabelo de prata para branco, para loiro, para rosa, para lavanda, para roxo, para amarelo, para laranja, para azul e os lábios para vermelho cereja
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5fd92ce04eb342c2fdbdc5b621e213cb/thumbnails/thumbnail.jpg" width="600" alt="Transição Dinâmica de Cor de Cabelo e Lábios">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4858)**
+
+**Author:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **Source:** [Link](https://x.com/CindyWeigapn6/status/2055193653128143055) | **Published:** May 15, 2026
+
+---
+### Festival Futurista Nômade nas Dunas
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Uma perspectiva em primeira pessoa de um festival futurista no deserto, com bicicletas de cobre e camelos decorados sob um céu tempestuoso.
+
+#### 📝 Prompt
+
+```
+POV: Você acabou de chegar a um festival nômade futurista nas dunas. Bicicletas de cobre, camelos decorados e faixas de festa sem fim sob um céu tempestuoso.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e415134402f087606792c40246d9344/thumbnails/thumbnail.jpg" width="600" alt="Festival Futurista Nômade nas Dunas">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4855)**
+
+**Author:** [Jacqueline](https://x.com/lipsticktazer69) | **Source:** [Link](https://x.com/lipsticktazer69/status/2055131067913212319) | **Published:** May 15, 2026
+
+---
+### Pouso Orbital de Mecha Gigante
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de ficção científica cyberpunk incrivelmente detalhado para um robô mecha massivo pousando na Terra, apresentando ondas de choque dramáticas, paisagens urbanas de neon e trabalho de câmera cinematográfico.
+
+#### 📝 Prompt
+
+```
+Vídeo cinematográfico fotorrealista de 6 segundos, 8K ultra detalhado, estilo sci-fi cyberpunk nível Transformers. Um robô mecha humanoide colossal de 200 metros de altura, com blindagem elegante em prata-branco e preto fosco, linhas de circuito ciano brilhantes e olhos ópticos vermelhos ameaçadores, desce dramaticamente da órbita em direção à Terra.
+O robô massivo aterrissa com um impacto estrondoso na borda de uma megacidade cyberpunk à noite — seus pés enormes atingindo a atmosfera, criando uma onda de choque massiva de poeira, fogo e detritos brilhantes que se espalham pela superfície do planeta. Anéis de energia holográficos e arcos de plasma azul neon giram intensamente ao redor de seus braços e punhos poderosos.
+Câmera cinematográfica dinâmica em ângulo baixo orbita lentamente o robô gigante por baixo enquanto inclina para cima, capturando sua escala divina contra o horizonte azul brilhante da Terra e o pano de fundo estrelado do espaço. Carros voadores e arranha-céus iluminados por neon visíveis lá embaixo. Raios divinos volumétricos, névoa atmosférica, reflexos de lente, desfoque de movimento em partículas de movimento rápido, reflexos metálicos hiper-realistas e detalhes mecânicos complexos.
+Color grading cyberpunk com pretos profundos, neon ciano vibrante, detalhes em magenta e vermelho, iluminação de contorno dramática. Insanamente detalhado, fotorrealista, qualidade IMAX, filmado com Arri Alexa 65 + lentes anamórficas, dirigido por Denis Villeneuve e Michael Bay, 24fps, obra-prima cinematográfica --ar 16:9 --stylize 250 --v 6
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d330bf382dd9fd8bb84a2ee3590997f1/thumbnails/thumbnail.jpg" width="600" alt="Pouso Orbital de Mecha Gigante">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4861)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2055099462150988115) | **Published:** May 15, 2026
+
+---
 ### 马斯克父子 Are you OK 北京话短剧
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -218,6 +411,30 @@ Uma Valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4773)**
 
 **Author:** [Jared 宗源](https://x.com/jaredliu_bravo) | **Source:** [Link](https://x.com/jaredliu_bravo/status/2054913526922424497) | **Published:** May 14, 2026
+
+---
+### Cavaleira de Armadura Cibernética em Cavalo Robótico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado para o Grok Imagine para um vídeo cinematográfico de ficção científica, apresentando uma mulher com armadura cibernética preto fosco montada em um cavalo robótico biomecânico avançado através de uma cidade cyberpunk distópica.
+
+#### 📝 Prompt
+
+```
+Um vídeo cinematográfico de 6 segundos, ultra-fotorrealista, no estilo de ficção científica cyberpunk de alto nível, ao estilo Transformers. Uma bela jovem em uma armadura cibernética elegante e altamente detalhada, em preto fosco e metal escuro com detalhes em azul-branco brilhante, cavalga um enorme cavalo robótico biomecânico hiper-avançado através de uma vasta megacidade distópica em ruínas.
+O cavalo mecânico é uma fusão complexa de músculos orgânicos, pistões, cabos e placas de blindagem pesada — detalhes de nível Transformer de última geração com painéis móveis e linhas de energia brilhantes sutis. A mulher tem uma expressão séria e focada, usando um capacete tático com visores HUD e elementos de máscara de oxigênio, com seu cabelo escuro movendo-se levemente ao vento.
+A câmera começa com um plano de rastreamento dramático em ângulo baixo, vindo da frente lateral, orbitando lentamente ao redor deles enquanto galopam poderosamente por ruas destruídas, repletas de arranha-céus em ruínas, fios pendurados, fumaça e brasas voadoras. Os cascos metálicos do cavalo soltam faíscas no chão. Iluminação cyberpunk dinâmica com raios de luz volumétricos atravessando a poeira, reflexos de neon em superfícies metálicas molhadas e outdoors holográficos sutis piscando ao fundo.
+Detalhes ultra-realistas, fotorrealismo 8K, gradação de cor cinematográfica com tons frios de azul-petróleo e quentes de laranja, movimento intenso, profundidade de campo dramática, granulação de filme sutil, filmado com Arri Alexa 65 + lentes anamórficas. Movimento de alta velocidade com anatomia perfeita e realismo mecânico. Duração de 6 segundos, movimento cinematográfico suave a 24fps.
+Prompt negativo (recomendado):
+borrado, deformado, baixa qualidade, desenho animado, anime, membros extras, texto, marca d'água, superexposto, pele de plástico, anatomia ruim, baixo detalhe, iluminação plana.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f9701c2cb9d34351bb27fffca481f5f1/thumbnails/thumbnail.jpg" width="600" alt="Cavaleira de Armadura Cibernética em Cavalo Robótico">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4863)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2054897466357723390) | **Published:** May 14, 2026
 
 ---
 ### Planeta Paraíso da Mulher Venusiana
@@ -1982,215 +2199,6 @@ Faça desta uma onda no oceano cheia de peixes, onde uma sereia em forma de golf
 **Author:** [Holliday Rush](https://x.com/HollidayRu41904) | **Source:** [Link](https://x.com/HollidayRu41904/status/2052073784937451529) | **Published:** May 6, 2026
 
 ---
-### Caminhada em Corredor Cinematográfico e Transformação
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo complexo para um zoom out contínuo seguindo uma mulher em um corredor cerimonial, apresentando transformação de ambiente e ritmo estável.
-
-#### 📝 Prompt
-
-```
-Mantenha a mulher em uma caminhada solitária vista de costas enquanto ela se move sozinha pelo longo corredor cerimonial de reflexo preto. Mantenha seu traje de alta costura em preto e dourado, cabelo fluido, joias e a composição luxuosa do corredor estáveis e premium. Seu passo deve permanecer perfeitamente constante do início ao fim, sem nunca acelerar ou diminuir. Use apenas um zoom out contínuo e suave, revelando gradualmente mais do corredor e aprofundando a sensação de que ela está caminhando através dos termos de um acordo invisível. Mantenha a estátua monumental sombreada atrás dela visível à distância, mas completamente imóvel, sem nunca persegui-la ou avançar. À medida que a câmera se retrai, laços de sombra suspensos e linhas pendentes tornam-se mais claros, e o piso reflexivo resolve-se lentamente em finas costuras de rota dourada sob seus passos. Deixe que cada pisada desencadeie uma transformação sutil sem quebrar seu ritmo: laços próximos refinam-se em linhas ordenadas, reflexos no chão tornam-se mais nítidos e a passagem se reescreve silenciosamente ao redor dela com elegância controlada. O tom emocional deve parecer íntimo, perigoso e inevitável, em vez de horripilante — como um acordo privado que já está se voltando a seu favor. Termine com ela ainda caminhando para frente no mesmo ritmo medido, enquanto o corredor se alargou para um caminho iluminado por ouro mais legível ao seu redor. Movimento cinematográfico elegante, sinistro e premium apenas.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/711e6db72482f6feb7868260e2bb2cbd/thumbnails/thumbnail.jpg" width="600" alt="Caminhada em Corredor Cinematográfico e Transformação">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4335)**
-
-**Author:** [Minnnnns](https://x.com/minnns_aheya) | **Source:** [Link](https://x.com/minnns_aheya/status/2052068241456132189) | **Published:** May 6, 2026
-
----
-### Vídeo de Influenciador Action Figure
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo criativo em estilo stop-motion onde uma action figure atua como uma influenciadora de redes sociais falando com uma câmera portátil trêmula.
-
-#### 📝 Prompt
-
-```
-A action figure de brinquedo feminina em escala 1:6, @Image1 , está falando com uma câmera portátil trêmula como uma influenciadora. @Image1  está de frente para a câmera e gesticula enfaticamente com suas mãos de plástico de uma maneira animada em stop motion. @Image1  “Ser um artista significa estar conectado ao dinheiro. O jogo é viciado!” Sem música, sem câmera lenta.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cac65ff549cf5c7efd896992f5d0ff18/thumbnails/thumbnail.jpg" width="600" alt="Vídeo de Influenciador Action Figure">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4339)**
-
-**Author:** [John Panic](https://x.com/johnpanic44) | **Source:** [Link](https://x.com/johnpanic44/status/2051995925736783886) | **Published:** May 6, 2026
-
----
-### Passeio Noturno Cinematográfico em Ruas de Neon
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt cinematográfico de alta energia para gerar um passeio de moto noturno com iluminação neon e closes no capacete.
-
-#### 📝 Prompt
-
-```
-Passeio noturno cinematográfico, sem equipe. Closes no capacete, ruas de neon, vibe de aceleração total
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6fa6e36460560a9ab29eda72e8177c87/thumbnails/thumbnail.jpg" width="600" alt="Passeio Noturno Cinematográfico em Ruas de Neon">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4346)**
-
-**Author:** [Jasmine Ai](https://x.com/jasminekhan90_) | **Source:** [Link](https://x.com/jasminekhan90_/status/2051975023888646537) | **Published:** May 6, 2026
-
----
-### Transformação com Asas de Anjo em Código
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo elegante e etéreo onde uma personagem desenvolve asas de anjo feitas de código cristalino holográfico enquanto caminha em direção a uma janela.
-
-#### 📝 Prompt
-
-```
-Ela se levanta e caminha para olhar pela janela, asas de anjo feitas de código cristalino holográfico se formam enquanto ela caminha, elegante, etéreo
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4fb794a6fcb179f319b212274b038782/thumbnails/thumbnail.jpg" width="600" alt="Transformação com Asas de Anjo em Código">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4337)**
-
-**Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2051923535308943485) | **Published:** May 6, 2026
-
----
-### Sequência de animação com telecinese no estilo Pixar
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Um prompt cinematográfico detalhado de várias cenas para uma sequência animada apresentando uma jovem tentando usar telecinese, completo com detalhes de iluminação e instruções de câmera.
-
-#### 📝 Prompt
-
-```
-Estilo de animação Pixar, luz natural suave vinda da janela e iluminação reflexiva, movimento realista de tecido e cabelo, efeito de profundidade de campo reduzida. Cena 1: Plano médio, uma garotinha sentada em sua cama, braços estendidos para frente. Ela está tentando realizar telecinese. Seu rosto está tenso e seu corpo treme levemente pelo esforço. Cena 2: Mudança para um plano aberto, mostrando o quarto inteiro. As cortinas balançam levemente. A câmera é mantida estável manualmente. Uma laranja está em primeiro plano, com a garota desfocada ao fundo. Cena 3: Mudança para um close-up do rosto da garota. Dentes cerrados, bochechas estufadas, sobrancelhas franzidas. Seu rosto treme levemente pelo esforço. Cena 4: Corte rápido para um close-up da laranja, imóvel. Cena 5: Corte rápido para um plano médio. As mãos da garota caem sem forças, ela cai para trás na cama, olhando para o teto e soltando um suspiro. Cena 6: Um zoom rápido para trás a partir da garota, afastando-se pelo quarto até uma tomada externa distante do cômodo, onde um cachorro está flutuando no ar com uma expressão de terror.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/561cc879a3ff4440fd406b0b86df0868/thumbnails/thumbnail.jpg" width="600" alt="Sequência de animação com telecinese no estilo Pixar">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4348)**
-
-**Author:** [Aiyo](https://x.com/AiyoGame) | **Source:** [Link](https://x.com/AiyoGame/status/2051898889029210136) | **Published:** May 6, 2026
-
----
-### Mulher e robô no escritório
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Uma cena cinematográfica detalhada apresentando uma mulher loira e um robô em um escritório recolhendo os pedaços de uma pintura quebrada.
-
-#### 📝 Prompt
-
-```
-Mulher loira de cabelos ondulados acompanhada por um robô. Eles estão em um escritório recolhendo os pedaços de uma pintura quebrada. O executivo assustado diz: Eu pensei que ele não faria isso, mas ele fez. Estou devastado.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a4778fc726316842a378edb2c3083746/thumbnails/thumbnail.jpg" width="600" alt="Mulher e robô no escritório">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4349)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2051870492059996527) | **Published:** May 6, 2026
-
----
-### Cena Surreal de Espelho em Carvão
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo artístico que descreve uma cena surreal e inquietante em um estilo de esboço a carvão, apresentando figuras interagindo com um espelho em um átrio complexo.
-
-#### 📝 Prompt
-
-```
-A cena precisa ser surreal, inquietante e emocionalmente profunda. Vou descrever duas figuras interagindo com um espelho, com um átrio complexo ao fundo. O uso de um estilo de esboço a carvão com destaques em prata e grafite deve combinar com a atmosfera.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/aa7087db0be749ab0391ec93ab9aef6b/thumbnails/thumbnail.jpg" width="600" alt="Cena Surreal de Espelho em Carvão">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4344)**
-
-**Author:** [null combination](https://x.com/adeptusnull) | **Source:** [Link](https://x.com/adeptusnull/status/2051865520270434565) | **Published:** May 6, 2026
-
----
-### Interação Executiva com Quadro
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de interação em vídeo entre dois executivos, onde um deles retira um quadro da parede e o arremessa contra o outro.
-
-#### 📝 Prompt
-
-```
-Ele encontra outro executivo. Sem diálogos. Ele retira um quadro da parede e o arremessa contra o outro executivo. Ele achou que ia me acertar? Ele fez isso de forma sutil e você não percebeu.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/44179f0c6cfbfcfe365263df1066dd75/thumbnails/thumbnail.jpg" width="600" alt="Interação Executiva com Quadro">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4350)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2051860686720860472) | **Published:** May 6, 2026
-
----
-### Mulher e robô no espaço
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo criativo de uma mulher e um pequeno robô branco flutuando na atmosfera perto de uma lua cheia.
-
-#### 📝 Prompt
-
-```
-Mulher loira com o cabelo ao vento. Acompanhada por um pequeno robô branco, ambos flutuam na atmosfera. Eles flutuam em um local onde uma lua cheia pode ser vista. Ambos estão muito felizes! Ela diz: Esperando por notícias, amigo.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/48adeb84e3dc706862a776e82f7c6f16/thumbnails/thumbnail.jpg" width="600" alt="Mulher e robô no espaço">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4351)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2051856864619417829) | **Published:** May 6, 2026
-
----
-### Cisnes lançando uma rosa no lago
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo sereno e detalhado de dois cisnes deslizando por um lago nas montanhas e lançando uma rosa um para o outro, completo com detalhes de música de fundo.
-
-#### 📝 Prompt
-
-```
-Dois cisnes brancos deslizam pelo lago, lançam uma rosa um para o outro, fundo com pinheiros e montanhas, música de fundo de violoncelo
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8ab0e5c408049a41315a85b85e45cb7/thumbnails/thumbnail.jpg" width="600" alt="Cisnes lançando uma rosa no lago">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4347)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2051852661373497459) | **Published:** May 6, 2026
-
----
-### Crossover entre Sith Green Goblin e Spider-Man
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt criativo que mistura o Green Goblin como um Lorde Sith confrontando o Spider-Man.
-
-#### 📝 Prompt
-
-```
-Sinta o poder do lado sombrio, junte-se a mim pequeno Spider-Man, o Green Goblin como um Sith
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/61ee3b6f3846e5d950e93fa417245b93/thumbnails/thumbnail.jpg" width="600" alt="Crossover entre Sith Green Goblin e Spider-Man">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4341)**
-
-**Author:** [William Kevin Newman](https://x.com/THE_Newmanator) | **Source:** [Link](https://x.com/THE_Newmanator/status/2051830423802569020) | **Published:** May 6, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2252,6 +2260,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-16T06:27:59.658Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-16T09:48:36.434Z</sub>
 
 </div>
