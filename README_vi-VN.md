@@ -189,307 +189,307 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
-### Ancient Sanctuary Lotus Prompt
+### Prompt về Thánh địa Sen cổ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A serene grok-imagine prompt for a waterfall scene with lotus lanterns under the Milky Way.
+> Một prompt grok-imagine thanh bình về khung cảnh thác nước với những chiếc đèn lồng hoa sen dưới dải Ngân Hà.
 
 #### 📝 Prompt
 
 ```
-Floating lotus lanterns, a whispering waterfall, and the Milky Way watching over an ancient stone sanctuary.
+Những chiếc đèn lồng hoa sen trôi nổi, thác nước thì thầm và dải Ngân Hà đang canh giữ một thánh địa bằng đá cổ kính.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/672bb8a18dfc7d899a4784ac4d15a6df/thumbnails/thumbnail.jpg" width="600" alt="Ancient Sanctuary Lotus Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/672bb8a18dfc7d899a4784ac4d15a6df/thumbnails/thumbnail.jpg" width="600" alt="Prompt về Thánh địa Sen cổ">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4908)**
 
 **Author:** [Missy AI](https://x.com/ai_empire33) | **Source:** [Link](https://x.com/ai_empire33/status/2055821923800780924) | **Published:** May 17, 2026
 
 ---
-### Continuous Character Transformation Sequence
+### Chuỗi biến hình nhân vật liên tục
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A morphing video sequence where a character transforms through various identities including a woman, a wizard, Santa Claus, and a robot.
+> Một chuỗi video biến hình, trong đó nhân vật thay đổi qua nhiều danh tính khác nhau bao gồm một người phụ nữ, một phù thủy, ông già Noel và một robot.
 
 #### 📝 Prompt
 
 ```
-Have him transform into a woman than into a wizard then into Santa Claus then into a robot
+Hãy để anh ấy biến hình thành một người phụ nữ, sau đó thành một phù thủy, tiếp đến là ông già Noel và cuối cùng là một robot
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6f89e82a3abfb963ac5937c87fc2d881/thumbnails/thumbnail.jpg" width="600" alt="Continuous Character Transformation Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6f89e82a3abfb963ac5937c87fc2d881/thumbnails/thumbnail.jpg" width="600" alt="Chuỗi biến hình nhân vật liên tục">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4895)**
 
 **Author:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **Source:** [Link](https://x.com/CindyWeigapn6/status/2055786953103069359) | **Published:** May 16, 2026
 
 ---
-### Cinematic Dragons in Moonlit Forest
+### Rồng điện ảnh trong khu rừng dưới ánh trăng
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-quality slow-motion video prompt featuring a muscular golden dragon and a starry purple dragon in an enchanted moonlit forest.
+> Một câu lệnh tạo video chuyển động chậm chất lượng cao, với hình ảnh một chú rồng vàng cơ bắp và một chú rồng tím đầy sao trong khu rừng huyền bí dưới ánh trăng.
 
 #### 📝 Prompt
 
 ```
-Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a more slender, elegant midnight purple dragon with starry bioluminescent scales are resting in a moonlit enchanted forest. The two dragons slowly and tenderly move their head.
+Video quay cận cảnh điện ảnh, chuyển động chậm. Một chú rồng vàng to lớn, cơ bắp và một chú rồng tím than thanh mảnh, thanh lịch với lớp vảy phát quang đầy sao đang nghỉ ngơi trong khu rừng huyền bí dưới ánh trăng. Hai chú rồng từ từ và âu yếm di chuyển đầu của chúng.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/76be608144f7dcc699a9d6c3661a2174/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Dragons in Moonlit Forest">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/76be608144f7dcc699a9d6c3661a2174/thumbnails/thumbnail.jpg" width="600" alt="Rồng điện ảnh trong khu rừng dưới ánh trăng">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4906)**
 
 **Author:** [Maryama Cissey](https://x.com/Sweet_Maryama) | **Source:** [Link](https://x.com/Sweet_Maryama/status/2055762930369429640) | **Published:** May 16, 2026
 
 ---
-### Steampunk Elephant Guardian Awakening
+### Sự thức tỉnh của Voi bảo hộ phong cách Steampunk
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A fantasy video prompt featuring a crystal sorceress awakening a steampunk elephant in an arctic environment.
+> Một video prompt giả tưởng với hình ảnh nữ phù thủy pha lê đánh thức một chú voi phong cách steampunk trong môi trường Bắc Cực.
 
 #### 📝 Prompt
 
 ```
-Blue Crystal Sorceress Awakens Her Steampunk Elephant Guardian in the Frozen Realm. Magic & gears collide under arctic skies!
+Nữ phù thủy pha lê xanh đánh thức Voi bảo hộ phong cách Steampunk của cô tại vùng đất băng giá. Phép thuật và bánh răng va chạm dưới bầu trời Bắc Cực!
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/970daa4aca0f71a31b3f53209ed734fb/thumbnails/thumbnail.jpg" width="600" alt="Steampunk Elephant Guardian Awakening">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/970daa4aca0f71a31b3f53209ed734fb/thumbnails/thumbnail.jpg" width="600" alt="Sự thức tỉnh của Voi bảo hộ phong cách Steampunk">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4907)**
 
 **Author:** [AI영상공작실](https://x.com/lee_young71) | **Source:** [Link](https://x.com/lee_young71/status/2055754008372080710) | **Published:** May 16, 2026
 
 ---
-### Aliens in Conference with Earth Hologram
+### Người ngoài hành tinh họp bàn với ảnh toàn ký Trái Đất
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt describing extraterrestrials sitting at a conference table with a floating blue Earth hologram.
+> Một câu lệnh tạo video điện ảnh mô tả người ngoài hành tinh đang ngồi tại bàn họp với ảnh toàn ký Trái Đất màu xanh dương lơ lửng.
 
 #### 📝 Prompt
 
 ```
-They head to a conference table and sit down; there is a hologram with the blue planet Earth. One of the extraterrestrials points to North America....
+Họ tiến về phía bàn họp và ngồi xuống; có một ảnh toàn ký về hành tinh Trái Đất màu xanh dương. Một trong những người ngoài hành tinh chỉ tay về phía Bắc Mỹ....
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8c0bea8b402b7d1c5851e575b0408049/thumbnails/thumbnail.jpg" width="600" alt="Aliens in Conference with Earth Hologram">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8c0bea8b402b7d1c5851e575b0408049/thumbnails/thumbnail.jpg" width="600" alt="Người ngoài hành tinh họp bàn với ảnh toàn ký Trái Đất">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4909)**
 
 **Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2055698478127296747) | **Published:** May 16, 2026
 
 ---
-### Pokemon Card Unboxing First Person POV
+### Video mở hộp thẻ bài Pokemon góc nhìn thứ nhất
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed image-to-video prompt for creating a first-person perspective unboxing video of a gold Mega Lucario Pokemon card pack.
+> Một câu lệnh (prompt) image-to-video chi tiết để tạo video mở hộp thẻ bài Pokemon Mega Lucario phiên bản vàng dưới góc nhìn thứ nhất.
 
 #### 📝 Prompt
 
 ```
-I have two images. I want to create a video where a user in first POV opens the Mega Evolution pack and all cards in the pack are the gold Mega Lucario ex card
+Tôi có hai hình ảnh. Tôi muốn tạo một video trong đó người dùng ở góc nhìn thứ nhất mở gói Mega Evolution và tất cả các thẻ bài trong gói đều là thẻ Mega Lucario ex phiên bản vàng
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8173700fcd22bdb52e255658b5fe3bc9/thumbnails/thumbnail.jpg" width="600" alt="Pokemon Card Unboxing First Person POV">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8173700fcd22bdb52e255658b5fe3bc9/thumbnails/thumbnail.jpg" width="600" alt="Video mở hộp thẻ bài Pokemon góc nhìn thứ nhất">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4904)**
 
 **Author:** [Joe](https://x.com/CardCaptain) | **Source:** [Link](https://x.com/CardCaptain/status/2055697504470253896) | **Published:** May 16, 2026
 
 ---
-### Comic Style Cowboy and Cattle Pasture
+### Cao bồi và đồng cỏ gia súc phong cách truyện tranh
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A comic book style video prompt depicting a cowboy and his lady riding through a pasture overlooking grazing cattle.
+> Một video prompt theo phong cách truyện tranh mô tả một chàng cao bồi và người thương đang cưỡi ngựa trên đồng cỏ, nhìn xuống đàn gia súc đang gặm cỏ.
 
 #### 📝 Prompt
 
 ```
-Comic book style 
-Cowboy and his lady ride the pasture overlooking black angus cattle grazing
+Phong cách truyện tranh 
+Chàng cao bồi và người thương cưỡi ngựa trên đồng cỏ, nhìn xuống đàn bò Angus đen đang gặm cỏ
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f16fb43dc6a97bdb9373db4c464e62dd/thumbnails/thumbnail.jpg" width="600" alt="Comic Style Cowboy and Cattle Pasture">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f16fb43dc6a97bdb9373db4c464e62dd/thumbnails/thumbnail.jpg" width="600" alt="Cao bồi và đồng cỏ gia súc phong cách truyện tranh">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4905)**
 
 **Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2055691304684986599) | **Published:** May 16, 2026
 
 ---
-### Translucent Aliens Handshake Scene
+### Cảnh bắt tay của người ngoài hành tinh trong suốt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A motion-focused prompt for Grok Imagine featuring two translucent aliens meeting and shaking hands without dialogue.
+> Một câu lệnh tập trung vào chuyển động dành cho Grok Imagine, mô tả hai người ngoài hành tinh trong suốt gặp gỡ và bắt tay mà không có lời thoại.
 
 #### 📝 Prompt
 
 ```
-They stop at 3 seconds into the scene. No dialogue. Upon stopping, two translucent extraterrestrials meet and shake hands.
+Họ dừng lại ở giây thứ 3 của cảnh quay. Không có lời thoại. Khi dừng lại, hai người ngoài hành tinh trong suốt gặp nhau và bắt tay.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c5afb652c8fdd38f642304156cc10ed1/thumbnails/thumbnail.jpg" width="600" alt="Translucent Aliens Handshake Scene">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c5afb652c8fdd38f642304156cc10ed1/thumbnails/thumbnail.jpg" width="600" alt="Cảnh bắt tay của người ngoài hành tinh trong suốt">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4910)**
 
 **Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2055691018041717157) | **Published:** May 16, 2026
 
 ---
-### Foggy Character Head Movement
+### Chuyển động đầu của nhân vật trong sương mù
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt describing subtle character motion within a misty and foggy environment.
+> Một câu lệnh (prompt) video điện ảnh mô tả chuyển động tinh tế của nhân vật trong môi trường sương mù dày đặc.
 
 #### 📝 Prompt
 
 ```
-he stands still, only moving his head looking from side to side, it is foggy and misty
+anh ấy đứng yên, chỉ cử động đầu nhìn sang hai bên, không gian đầy sương mù và mờ ảo
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c032613ae022042f47138d5a5b98978e/thumbnails/thumbnail.jpg" width="600" alt="Foggy Character Head Movement">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c032613ae022042f47138d5a5b98978e/thumbnails/thumbnail.jpg" width="600" alt="Chuyển động đầu của nhân vật trong sương mù">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4902)**
 
 **Author:** [Richard](https://x.com/CharlieWP100) | **Source:** [Link](https://x.com/CharlieWP100/status/2055676152677556510) | **Published:** May 16, 2026
 
 ---
-### Flame and Rose Couture Catwalk
+### Sàn diễn thời trang Flame and Rose Couture
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic fashion show video featuring a woman in a surreal, dramatic gown made of flames and roses striding down a runway.
+> Một video trình diễn thời trang đậm chất điện ảnh, ghi lại hình ảnh một người phụ nữ trong bộ váy siêu thực, đầy kịch tính được kết từ lửa và hoa hồng đang sải bước trên sàn catwalk.
 
 #### 📝 Prompt
 
 ```
-A poised woman in a surreal flame and rose couture gown strides down a luxury catwalk in a dramatic, cinematic style.
+Một người phụ nữ đầy thần thái trong bộ váy cao cấp siêu thực kết từ lửa và hoa hồng đang sải bước trên sàn catwalk sang trọng với phong cách điện ảnh đầy kịch tính.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f39c61dedb32c0b494415777e85f9396/thumbnails/thumbnail.jpg" width="600" alt="Flame and Rose Couture Catwalk">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f39c61dedb32c0b494415777e85f9396/thumbnails/thumbnail.jpg" width="600" alt="Sàn diễn thời trang Flame and Rose Couture">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4901)**
 
 **Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2055664046104576461) | **Published:** May 16, 2026
 
 ---
-### Robin Williams Popeye Metamorphosis
+### Sự biến hóa của Robin Williams trong vai Popeye
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A creative transformation video turning a static drawing of Robin Williams as Popeye into a dynamic animated character.
+> Một video sáng tạo biến bức vẽ tĩnh của Robin Williams trong vai Popeye thành một nhân vật hoạt hình sống động.
 
 #### 📝 Prompt
 
 ```
-Professor Don with his drawing of Robin Williams as Popeye that metamorphosis into an animated character
+Giáo sư Don cùng bức vẽ Robin Williams trong vai Popeye của ông đã biến hóa thành một nhân vật hoạt hình
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5eb7d7ac945a23610df893e88a376fe7/thumbnails/thumbnail.jpg" width="600" alt="Robin Williams Popeye Metamorphosis">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5eb7d7ac945a23610df893e88a376fe7/thumbnails/thumbnail.jpg" width="600" alt="Sự biến hóa của Robin Williams trong vai Popeye">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4897)**
 
 **Author:** [the don of hockey](https://x.com/don_allain) | **Source:** [Link](https://x.com/don_allain/status/2055595209807798536) | **Published:** May 16, 2026
 
 ---
-### Epic Cyber-Fantasy Transformation
+### Biến hình Cyber-Fantasy hoành tráng
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An extremely detailed 6-second cinematic video prompt featuring an elf queen on a crystal stag that transforms into a biomechanical robot.
+> Một đoạn prompt video điện ảnh dài 6 giây cực kỳ chi tiết, mô tả nữ hoàng yêu tinh trên lưng chú hươu pha lê biến hình thành robot cơ khí sinh học.
 
 #### 📝 Prompt
 
 ```
-Cinematic 6-second photorealistic video, ultra-realistic 8K, shot on ARRI Alexa 65 with anamorphic lenses, dramatic golden hour lighting in an enchanted autumn forest. Start with a majestic elf queen with long flowing platinum-silver hair and glowing turquoise armor riding a majestic glowing blue crystalline stag with ornate golden antlers. The scene is bathed in warm sunlight rays piercing through vibrant orange and red falling maple leaves. At 1.5 seconds, the camera begins a slow majestic orbit around them as the stag's crystalline blue patterns intensify and start pulsing with energy. At 2.8 seconds, the "next-level transformation" begins: the stag's body elegantly morphs and unfolds in a seamless, organic-mechanical hybrid transformation — glowing blue crystal armor plates shift and expand into futuristic biomechanical robotic limbs and thrusters while maintaining its elegant deer silhouette, antlers transforming into massive glowing energy cannons. Simultaneously, the elf queen's armor fluidly transforms into sleek, ornate cyber-fantasy battle armor with glowing turquoise energy circuits. Her hair flows dramatically in the wind as golden energy particles swirl around them. The transformation is smooth, elegant, and extremely detailed — no hard cuts, perfect fluid motion, intricate mechanical and magical details blending seamlessly. Epic orchestral swell with deep bass. End at 6 seconds with both fully transformed into their ultimate cyber-fantasy forms standing powerfully in the sunlit autumn forest, leaves still gently falling, camera pulling back to a heroic wide shot, cinematic color grading, volumetric god rays, ultra-detailed textures, photorealistic fur, metal, and energy effects, masterpiece quality, hyper-realistic.
+Video điện ảnh dài 6 giây chân thực như ảnh chụp, độ phân giải 8K siêu thực, quay bằng máy ARRI Alexa 65 với ống kính anamorphic, ánh sáng giờ vàng đầy kịch tính trong khu rừng mùa thu huyền ảo. Bắt đầu với một nữ hoàng yêu tinh uy nghi có mái tóc bạch kim dài thướt tha và bộ giáp màu ngọc lam rực rỡ, đang cưỡi trên lưng chú hươu pha lê màu xanh lam phát sáng với cặp gạc vàng tinh xảo. Khung cảnh được bao phủ bởi những tia nắng ấm áp xuyên qua những chiếc lá phong màu cam và đỏ đang rơi. Ở giây thứ 1,5, máy quay bắt đầu chuyển động xoay chậm đầy uy nghi xung quanh họ khi các họa tiết pha lê xanh trên thân hươu trở nên đậm nét hơn và bắt đầu phát xung năng lượng. Ở giây thứ 2,8, "cuộc biến hình đỉnh cao" bắt đầu: cơ thể chú hươu biến đổi và mở rộng một cách thanh thoát trong quá trình chuyển đổi lai giữa cơ khí và sinh học liền mạch — các tấm giáp pha lê xanh phát sáng dịch chuyển và mở rộng thành các chi và động cơ đẩy robot cơ khí sinh học tương lai, trong khi vẫn giữ nguyên hình dáng hươu thanh mảnh, cặp gạc biến thành những khẩu pháo năng lượng khổng lồ rực sáng. Đồng thời, bộ giáp của nữ hoàng yêu tinh biến đổi mượt mà thành bộ giáp chiến đấu cyber-fantasy tinh xảo, bóng bẩy với các mạch năng lượng màu ngọc lam. Mái tóc của cô bay trong gió đầy kịch tính khi các hạt năng lượng vàng xoáy quanh họ. Quá trình biến hình diễn ra mượt mà, thanh thoát và cực kỳ chi tiết — không có vết cắt cứng, chuyển động trôi chảy hoàn hảo, các chi tiết cơ khí và phép thuật đan xen liền mạch. Nhạc nền dàn nhạc hoành tráng với âm bass trầm. Kết thúc ở giây thứ 6 với cả hai đã biến hình hoàn toàn sang dạng cyber-fantasy tối thượng, đứng đầy quyền năng trong khu rừng mùa thu ngập nắng, lá vẫn nhẹ nhàng rơi, máy quay lùi ra xa tạo thành cú máy toàn cảnh đầy anh hùng, chỉnh màu điện ảnh, hiệu ứng tia sáng thần thánh (god rays), kết cấu siêu chi tiết, lông thú, kim loại và hiệu ứng năng lượng chân thực, chất lượng kiệt tác, siêu thực.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2423edadb55d5cbcedcff4917f0faea9/thumbnails/thumbnail.jpg" width="600" alt="Epic Cyber-Fantasy Transformation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2423edadb55d5cbcedcff4917f0faea9/thumbnails/thumbnail.jpg" width="600" alt="Biến hình Cyber-Fantasy hoành tráng">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4898)**
 
 **Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2055564820531867868) | **Published:** May 16, 2026
 
 ---
-### Cat Watching Sunrise Landscape
+### Mèo ngắm cảnh bình minh
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A descriptive video prompt depicting a cat observing a natural landscape with rising smoke and morning birds.
+> Một câu lệnh tạo video mô tả cảnh một chú mèo đang quan sát phong cảnh thiên nhiên với làn khói bốc lên và những chú chim buổi sáng.
 
 #### 📝 Prompt
 
 ```
-The cat looks at this natural landscape and she sees smoke rising from the ground, birds flying and chirping, and the sun begins to rise.
+Chú mèo nhìn ra phong cảnh thiên nhiên này và thấy khói bốc lên từ mặt đất, những chú chim đang bay lượn và hót vang, cùng lúc đó mặt trời bắt đầu mọc.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1fad45a8da3ea2f6d60ac6d9b88f675e/thumbnails/thumbnail.jpg" width="600" alt="Cat Watching Sunrise Landscape">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1fad45a8da3ea2f6d60ac6d9b88f675e/thumbnails/thumbnail.jpg" width="600" alt="Mèo ngắm cảnh bình minh">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4903)**
 
 **Author:** [ahmed ibrahim](https://x.com/AhmedYasienibby) | **Source:** [Link](https://x.com/AhmedYasienibby/status/2055521056706740511) | **Published:** May 16, 2026
 
 ---
-### Cyberpunk Demonic Cyborg Warlord
+### Lãnh chúa Cyborg Quỷ dữ phong cách Cyberpunk
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An epic cinematic prompt for a photorealistic 6-second video of a Transformers-style demonic cyborg warlord in a rainy megacity.
+> Một câu lệnh (prompt) điện ảnh hoành tráng cho video 6 giây chân thực về một lãnh chúa cyborg quỷ dữ phong cách Transformers trong một siêu đô thị đầy mưa.
 
 #### 📝 Prompt
 
 ```
-Cinematic 6-second photorealistic video of a terrifying next-level Transformers-style cyberpunk demonic cyborg warlord, ultra-detailed mechanical body with dark matte-black armored plates, exposed hydraulic pipes, thick glowing orange energy cables, and massive cracked lava-like glowing orange horns that pulse with power. His face has intricate black tribal tattoos on pale synthetic skin, intense glowing orange slit eyes, and a savage roaring mouth full of sharp metallic fangs.
-Dynamic sequence: The cyborg slowly rises from a crouched position in a dark rainy cyberpunk megacity alley at night, neon lights reflecting off wet metal surfaces. He dramatically lifts his head, horns blazing brighter, eyes flaring with power as orange energy arcs across his armor. He lets out a powerful mechanical roar while heavy rain pours down, sparks and molten orange energy dripping from his mouth and joints. Camera starts with a low-angle hero shot, smoothly orbits around him while pushing in for a dramatic close-up on his roaring face, then pulls back to a powerful wide shot as lightning flashes in the background.
-Photorealistic, hyper-detailed, 8K, cinematic color grading, dramatic volumetric lighting, god rays, heavy film grain, anamorphic lens flares, moody cyberpunk atmosphere, dark tones with vibrant orange accents, next-level Transformers design mixed with Blade Runner 2049 and Ghost in the Shell aesthetics, extremely realistic textures on metal, rubber hoses, and synthetic skin, fluid motion, 24fps, masterpiece, best quality.
+Video 6 giây chân thực, đậm chất điện ảnh về một lãnh chúa cyborg quỷ dữ phong cách Cyberpunk Transformers đáng sợ, cơ thể cơ khí chi tiết đến từng milimet với các tấm giáp đen mờ, đường ống thủy lực lộ ra ngoài, dây cáp năng lượng màu cam rực rỡ và cặp sừng lớn nứt nẻ như nham thạch, phát ra ánh sáng cam rực rỡ đầy quyền năng. Gương mặt nhân vật có những hình xăm bộ lạc đen phức tạp trên làn da tổng hợp nhợt nhạt, đôi mắt khe hở màu cam rực sáng cùng cái miệng gầm thét dữ tợn đầy răng nanh kim loại sắc nhọn.
+Chuỗi chuyển động năng động: Cyborg từ từ đứng dậy từ tư thế ngồi xổm trong một con hẻm siêu đô thị Cyberpunk tối tăm đầy mưa vào ban đêm, ánh đèn neon phản chiếu trên bề mặt kim loại ướt át. Hắn ngẩng đầu đầy kịch tính, cặp sừng rực sáng hơn, đôi mắt lóe lên quyền năng khi các tia năng lượng màu cam chạy dọc khắp bộ giáp. Hắn gầm lên một tiếng cơ khí đầy uy lực trong khi mưa trút xuống xối xả, các tia lửa và năng lượng nóng chảy màu cam nhỏ giọt từ miệng và các khớp nối. Camera bắt đầu với góc quay thấp (hero shot), xoay mượt mà quanh nhân vật rồi tiến sát vào cận cảnh gương mặt đang gầm thét, sau đó lùi lại thành một cú máy toàn cảnh đầy uy lực khi tia chớp lóe lên ở phía sau.
+Chân thực, siêu chi tiết, 8K, chỉnh màu điện ảnh, ánh sáng khối (volumetric lighting) kịch tính, tia sáng thần thánh (god rays), nhiễu hạt phim (film grain) đậm, hiệu ứng ống kính anamorphic, bầu không khí Cyberpunk tâm trạng, tông màu tối với các điểm nhấn màu cam rực rỡ, thiết kế Transformers đẳng cấp kết hợp với thẩm mỹ của Blade Runner 2049 và Ghost in the Shell, kết cấu cực kỳ thực tế trên kim loại, ống cao su và da tổng hợp, chuyển động mượt mà, 24fps, kiệt tác, chất lượng tốt nhất.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d1199e53958b7be09b6ca027b576f7c9/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Demonic Cyborg Warlord">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d1199e53958b7be09b6ca027b576f7c9/thumbnails/thumbnail.jpg" width="600" alt="Lãnh chúa Cyborg Quỷ dữ phong cách Cyberpunk">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4899)**
 
 **Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2055482609757462894) | **Published:** May 16, 2026
 
 ---
-### Woman Playing Flute Sunrise
+### Người phụ nữ thổi sáo lúc bình minh
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A serene video prompt depicting a woman with pink-blonde hair and a crystal crown playing a bamboo flute on a bench during a golden sunrise, surrounded by attentive birds.
+> Một gợi ý video thanh bình mô tả một người phụ nữ có mái tóc màu hồng vàng và vương miện pha lê đang thổi sáo trúc trên ghế dài vào lúc bình minh rực rỡ, xung quanh là những chú chim đang chăm chú lắng nghe.
 
 #### 📝 Prompt
 
 ```
-The gentle woman with long flowing pink-blonde hair and delicate crystal crown sits on the wooden bench at golden sunrise, playing the bamboo flute very quietly so that only the animals can hear. Birds perch close and listen attentively.
+Người phụ nữ dịu dàng với mái tóc dài màu hồng vàng bồng bềnh và chiếc vương miện pha lê tinh xảo ngồi trên chiếc ghế gỗ vào lúc bình minh rực rỡ, thổi sáo trúc thật khẽ khàng để chỉ những loài vật mới có thể nghe thấy. Những chú chim đậu gần đó và chăm chú lắng nghe.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/391d63ab714f26360d296b6e7e956158/thumbnails/thumbnail.jpg" width="600" alt="Woman Playing Flute Sunrise">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/391d63ab714f26360d296b6e7e956158/thumbnails/thumbnail.jpg" width="600" alt="Người phụ nữ thổi sáo lúc bình minh">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4900)**
 
 **Author:** [Carina](https://x.com/Freehere3) | **Source:** [Link](https://x.com/Freehere3/status/2055462004047942018) | **Published:** May 16, 2026
 
 ---
-### South Park Space Science Mission
+### Sứ mệnh khoa học không gian South Park
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An animation featuring characters from South Park on a space mission, designed with a nostalgic G4 TV Attack of the Show aesthetic.
+> Một đoạn hoạt hình với các nhân vật từ South Park trong một sứ mệnh không gian, được thiết kế theo phong cách hoài cổ của chương trình Attack of the Show trên kênh G4.
 
 #### 📝 Prompt
 
 ```
-South Park style, Craig, Tweek, Jimmy, Clyde, Wendy, Token on a space science mission, Play Attack of the Show G4 aesthetic
+Phong cách South Park, Craig, Tweek, Jimmy, Clyde, Wendy, Token trong một sứ mệnh khoa học không gian, phong cách thẩm mỹ của chương trình Attack of the Show trên kênh G4
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a323caf0bb73af52c959a78914496d8/thumbnails/thumbnail.jpg" width="600" alt="South Park Space Science Mission">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a323caf0bb73af52c959a78914496d8/thumbnails/thumbnail.jpg" width="600" alt="Sứ mệnh khoa học không gian South Park">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4896)**
 
@@ -2246,6 +2246,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-17T09:55:31.564Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-17T13:48:42.671Z</sub>
 
 </div>

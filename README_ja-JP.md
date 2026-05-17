@@ -189,172 +189,172 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
-### Ancient Sanctuary Lotus Prompt
+### 古代の聖域の蓮のプロンプト
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A serene grok-imagine prompt for a waterfall scene with lotus lanterns under the Milky Way.
+> 天の川の下、蓮のランタンが浮かぶ滝の風景を描くための、穏やかな grok-imagine プロンプトです。
 
 #### 📝 プロンプト
 
 ```
-Floating lotus lanterns, a whispering waterfall, and the Milky Way watching over an ancient stone sanctuary.
+浮かぶ蓮のランタン、ささやくような滝、そして古代の石の聖域を見守る天の川。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/672bb8a18dfc7d899a4784ac4d15a6df/thumbnails/thumbnail.jpg" width="600" alt="Ancient Sanctuary Lotus Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/672bb8a18dfc7d899a4784ac4d15a6df/thumbnails/thumbnail.jpg" width="600" alt="古代の聖域の蓮のプロンプト">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4908)**
 
 **作者:** [Missy AI](https://x.com/ai_empire33) | **ソース:** [Link](https://x.com/ai_empire33/status/2055821923800780924) | **公開日:** May 17, 2026
 
 ---
-### Continuous Character Transformation Sequence
+### 連続的なキャラクター変身シーケンス
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A morphing video sequence where a character transforms through various identities including a woman, a wizard, Santa Claus, and a robot.
+> 女性、魔法使い、サンタクロース、ロボットなど、キャラクターがさまざまな姿に変身していくモーフィング動画シーケンス。
 
 #### 📝 プロンプト
 
 ```
-Have him transform into a woman than into a wizard then into Santa Claus then into a robot
+彼を女性に変身させ、次に魔法使い、サンタクロース、そしてロボットへと変身させてください
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6f89e82a3abfb963ac5937c87fc2d881/thumbnails/thumbnail.jpg" width="600" alt="Continuous Character Transformation Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6f89e82a3abfb963ac5937c87fc2d881/thumbnails/thumbnail.jpg" width="600" alt="連続的なキャラクター変身シーケンス">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4895)**
 
 **作者:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **ソース:** [Link](https://x.com/CindyWeigapn6/status/2055786953103069359) | **公開日:** May 16, 2026
 
 ---
-### Cinematic Dragons in Moonlit Forest
+### 月明かりの森に佇むシネマティックなドラゴン
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-quality slow-motion video prompt featuring a muscular golden dragon and a starry purple dragon in an enchanted moonlit forest.
+> 筋肉質な黄金のドラゴンと星空のような紫のドラゴンが、魔法のような月明かりの森にいる様子を描いた、高品質なスローモーション動画用プロンプトです。
 
 #### 📝 プロンプト
 
 ```
-Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a more slender, elegant midnight purple dragon with starry bioluminescent scales are resting in a moonlit enchanted forest. The two dragons slowly and tenderly move their head.
+シネマティックなクローズアップ、スローモーション動画。巨大で筋肉質な黄金のドラゴンと、星のように輝く生物発光の鱗を持つ、よりスリムで優雅なミッドナイトパープルのドラゴンが、月明かりに照らされた魔法の森で休んでいる。2 頭のドラゴンがゆっくりと、優しく頭を動かしている。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/76be608144f7dcc699a9d6c3661a2174/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Dragons in Moonlit Forest">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/76be608144f7dcc699a9d6c3661a2174/thumbnails/thumbnail.jpg" width="600" alt="月明かりの森に佇むシネマティックなドラゴン">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4906)**
 
 **作者:** [Maryama Cissey](https://x.com/Sweet_Maryama) | **ソース:** [Link](https://x.com/Sweet_Maryama/status/2055762930369429640) | **公開日:** May 16, 2026
 
 ---
-### Steampunk Elephant Guardian Awakening
+### スチームパンクな象の守護者の覚醒
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A fantasy video prompt featuring a crystal sorceress awakening a steampunk elephant in an arctic environment.
+> 北極の環境で、クリスタルの魔術師がスチームパンクな象を覚醒させるファンタジー動画プロンプト。
 
 #### 📝 プロンプト
 
 ```
-Blue Crystal Sorceress Awakens Her Steampunk Elephant Guardian in the Frozen Realm. Magic & gears collide under arctic skies!
+青いクリスタルの魔術師が、凍てつく領域でスチームパンクな象の守護者を覚醒させる。北極の空の下、魔法と歯車が交錯する！
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/970daa4aca0f71a31b3f53209ed734fb/thumbnails/thumbnail.jpg" width="600" alt="Steampunk Elephant Guardian Awakening">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/970daa4aca0f71a31b3f53209ed734fb/thumbnails/thumbnail.jpg" width="600" alt="スチームパンクな象の守護者の覚醒">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4907)**
 
 **作者:** [AI영상공작실](https://x.com/lee_young71) | **ソース:** [Link](https://x.com/lee_young71/status/2055754008372080710) | **公開日:** May 16, 2026
 
 ---
-### Aliens in Conference with Earth Hologram
+### 地球のホログラムを囲んで会議をするエイリアン
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt describing extraterrestrials sitting at a conference table with a floating blue Earth hologram.
+> 会議テーブルに座り、浮かび上がる青い地球のホログラムを囲む地球外生命体を描いたシネマティックな動画プロンプト。
 
 #### 📝 プロンプト
 
 ```
-They head to a conference table and sit down; there is a hologram with the blue planet Earth. One of the extraterrestrials points to North America....
+彼らは会議テーブルに向かい、着席します。そこには青い地球のホログラムが浮かんでいます。エイリアンの 1 人が北アメリカを指さし……。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8c0bea8b402b7d1c5851e575b0408049/thumbnails/thumbnail.jpg" width="600" alt="Aliens in Conference with Earth Hologram">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8c0bea8b402b7d1c5851e575b0408049/thumbnails/thumbnail.jpg" width="600" alt="地球のホログラムを囲んで会議をするエイリアン">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4909)**
 
 **作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **ソース:** [Link](https://x.com/clemensilverio/status/2055698478127296747) | **公開日:** May 16, 2026
 
 ---
-### Pokemon Card Unboxing First Person POV
+### ポケモンカード開封動画：一人称視点（POV）
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed image-to-video prompt for creating a first-person perspective unboxing video of a gold Mega Lucario Pokemon card pack.
+> ゴールドのメガルカリオ ex ポケモンカードパックを開封する一人称視点（POV）の動画を作成するための、詳細な画像から動画へのプロンプトです。
 
 #### 📝 プロンプト
 
 ```
-I have two images. I want to create a video where a user in first POV opens the Mega Evolution pack and all cards in the pack are the gold Mega Lucario ex card
+2 枚の画像があります。一人称視点（POV）でユーザーがメガシンカパックを開封し、パック内のすべてのカードがゴールドのメガルカリオ ex カードである動画を作成したいです。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8173700fcd22bdb52e255658b5fe3bc9/thumbnails/thumbnail.jpg" width="600" alt="Pokemon Card Unboxing First Person POV">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8173700fcd22bdb52e255658b5fe3bc9/thumbnails/thumbnail.jpg" width="600" alt="ポケモンカード開封動画：一人称視点（POV）">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4904)**
 
 **作者:** [Joe](https://x.com/CardCaptain) | **ソース:** [Link](https://x.com/CardCaptain/status/2055697504470253896) | **公開日:** May 16, 2026
 
 ---
-### Comic Style Cowboy and Cattle Pasture
+### コミック調の牧童と牛の放牧地
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A comic book style video prompt depicting a cowboy and his lady riding through a pasture overlooking grazing cattle.
+> 牧草地で牛が草を食む様子を見下ろしながら馬に乗る、カウボーイと女性を描いたコミックブック風の動画プロンプト。
 
 #### 📝 プロンプト
 
 ```
-Comic book style 
-Cowboy and his lady ride the pasture overlooking black angus cattle grazing
+コミックブック風 
+カウボーイと女性が、放牧されているブラックアンガス牛を見下ろしながら牧草地を馬で駆ける
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f16fb43dc6a97bdb9373db4c464e62dd/thumbnails/thumbnail.jpg" width="600" alt="Comic Style Cowboy and Cattle Pasture">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f16fb43dc6a97bdb9373db4c464e62dd/thumbnails/thumbnail.jpg" width="600" alt="コミック調の牧童と牛の放牧地">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4905)**
 
 **作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2055691304684986599) | **公開日:** May 16, 2026
 
 ---
-### Translucent Aliens Handshake Scene
+### 半透明のエイリアンが握手するシーン
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A motion-focused prompt for Grok Imagine featuring two translucent aliens meeting and shaking hands without dialogue.
+> Grok Imagine 用のモーション重視のプロンプト。2 体の半透明のエイリアンが出会い、会話なしで握手を交わす様子を描写します。
 
 #### 📝 プロンプト
 
 ```
-They stop at 3 seconds into the scene. No dialogue. Upon stopping, two translucent extraterrestrials meet and shake hands.
+シーン開始から 3 秒の時点で停止します。会話はなし。停止すると、2 体の半透明の地球外生命体が出会い、握手を交わします。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c5afb652c8fdd38f642304156cc10ed1/thumbnails/thumbnail.jpg" width="600" alt="Translucent Aliens Handshake Scene">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c5afb652c8fdd38f642304156cc10ed1/thumbnails/thumbnail.jpg" width="600" alt="半透明のエイリアンが握手するシーン">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4910)**
 
 **作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **ソース:** [Link](https://x.com/clemensilverio/status/2055691018041717157) | **公開日:** May 16, 2026
 
 ---
-### Foggy Character Head Movement
+### 霧の中のキャラクターの頭部動作
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt describing subtle character motion within a misty and foggy environment.
+> 霧が立ち込める環境で、キャラクターがわずかに動く様子を描写したシネマティックな動画プロンプトです。
 
 #### 📝 プロンプト
 
 ```
-he stands still, only moving his head looking from side to side, it is foggy and misty
+彼は静止しており、頭だけを左右に動かしている。周囲は霧が立ち込めており、かすんでいる。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c032613ae022042f47138d5a5b98978e/thumbnails/thumbnail.jpg" width="600" alt="Foggy Character Head Movement">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c032613ae022042f47138d5a5b98978e/thumbnails/thumbnail.jpg" width="600" alt="霧の中のキャラクターの頭部動作">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4902)**
 
@@ -365,12 +365,12 @@ he stands still, only moving his head looking from side to side, it is foggy and
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic fashion show video featuring a woman in a surreal, dramatic gown made of flames and roses striding down a runway.
+> 炎と薔薇で構成されたシュールでドラマチックなガウンを纏った女性が、ランウェイを闊歩する様子を捉えたシネマティックなファッションショー動画。
 
 #### 📝 プロンプト
 
 ```
-A poised woman in a surreal flame and rose couture gown strides down a luxury catwalk in a dramatic, cinematic style.
+シュールな炎と薔薇のクチュールガウンを纏った気品ある女性が、ドラマチックかつシネマティックなスタイルで高級感あふれるランウェイを闊歩する。
 ```
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f39c61dedb32c0b494415777e85f9396/thumbnails/thumbnail.jpg" width="600" alt="Flame and Rose Couture Catwalk">
@@ -380,116 +380,116 @@ A poised woman in a surreal flame and rose couture gown strides down a luxury ca
 **作者:** [Mr Das](https://x.com/MrDasOnX) | **ソース:** [Link](https://x.com/MrDasOnX/status/2055664046104576461) | **公開日:** May 16, 2026
 
 ---
-### Robin Williams Popeye Metamorphosis
+### ロビン・ウィリアムズのポパイへの変身
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A creative transformation video turning a static drawing of Robin Williams as Popeye into a dynamic animated character.
+> ロビン・ウィリアムズがポパイに扮した静止画を、躍動感あふれるアニメーションキャラクターへと変身させるクリエイティブな動画です。
 
 #### 📝 プロンプト
 
 ```
-Professor Don with his drawing of Robin Williams as Popeye that metamorphosis into an animated character
+ロビン・ウィリアムズがポパイに扮した自身の描いた絵を、アニメーションキャラクターへと変身させる Don 教授
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5eb7d7ac945a23610df893e88a376fe7/thumbnails/thumbnail.jpg" width="600" alt="Robin Williams Popeye Metamorphosis">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5eb7d7ac945a23610df893e88a376fe7/thumbnails/thumbnail.jpg" width="600" alt="ロビン・ウィリアムズのポパイへの変身">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4897)**
 
 **作者:** [the don of hockey](https://x.com/don_allain) | **ソース:** [Link](https://x.com/don_allain/status/2055595209807798536) | **公開日:** May 16, 2026
 
 ---
-### Epic Cyber-Fantasy Transformation
+### 壮大なサイバーファンタジーへの変身
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An extremely detailed 6-second cinematic video prompt featuring an elf queen on a crystal stag that transforms into a biomechanical robot.
+> クリスタル製の雄鹿に乗ったエルフの女王が、バイオメカニカルなロボットへと変身する様子を描いた、非常に詳細な 6 秒間のシネマティック動画プロンプト。
 
 #### 📝 プロンプト
 
 ```
-Cinematic 6-second photorealistic video, ultra-realistic 8K, shot on ARRI Alexa 65 with anamorphic lenses, dramatic golden hour lighting in an enchanted autumn forest. Start with a majestic elf queen with long flowing platinum-silver hair and glowing turquoise armor riding a majestic glowing blue crystalline stag with ornate golden antlers. The scene is bathed in warm sunlight rays piercing through vibrant orange and red falling maple leaves. At 1.5 seconds, the camera begins a slow majestic orbit around them as the stag's crystalline blue patterns intensify and start pulsing with energy. At 2.8 seconds, the "next-level transformation" begins: the stag's body elegantly morphs and unfolds in a seamless, organic-mechanical hybrid transformation — glowing blue crystal armor plates shift and expand into futuristic biomechanical robotic limbs and thrusters while maintaining its elegant deer silhouette, antlers transforming into massive glowing energy cannons. Simultaneously, the elf queen's armor fluidly transforms into sleek, ornate cyber-fantasy battle armor with glowing turquoise energy circuits. Her hair flows dramatically in the wind as golden energy particles swirl around them. The transformation is smooth, elegant, and extremely detailed — no hard cuts, perfect fluid motion, intricate mechanical and magical details blending seamlessly. Epic orchestral swell with deep bass. End at 6 seconds with both fully transformed into their ultimate cyber-fantasy forms standing powerfully in the sunlit autumn forest, leaves still gently falling, camera pulling back to a heroic wide shot, cinematic color grading, volumetric god rays, ultra-detailed textures, photorealistic fur, metal, and energy effects, masterpiece quality, hyper-realistic.
+6 秒間のシネマティックなフォトリアル動画、超高精細 8K、ARRI Alexa 65 でアナモフィックレンズを使用して撮影、魔法の秋の森を舞台にしたドラマチックなゴールデンアワーのライティング。プラチナシルバーの長い髪をなびかせ、輝くターコイズブルーの鎧を纏った威厳あるエルフの女王が、華やかな金の角を持つ、青く輝くクリスタルの雄鹿に乗っている場面から開始。鮮やかなオレンジや赤の紅葉が舞い散る中、温かい陽光が差し込む情景。1.5 秒地点で、カメラがゆっくりと雄鹿の周囲を旋回し始め、雄鹿のクリスタル模様が激しく脈動し始める。2.8 秒地点で「次世代の変身」が開始。雄鹿の体がエレガントかつシームレスに、有機的でメカニカルなハイブリッド形態へと変形する。青く光るクリスタルの装甲板が展開し、鹿の優美なシルエットを保ったまま未来的なバイオメカニカルな脚部とスラスターへと変化し、角は巨大なエネルギーキャノンへと変貌する。同時に、エルフの女王の鎧も、ターコイズブルーのエネルギー回路が光る、洗練された華やかなサイバーファンタジー風のバトルアーマーへと流れるように変化する。彼女の髪は風にドラマチックになびき、黄金のエネルギー粒子が周囲を渦巻く。変身は滑らかで優雅、かつ極めて詳細。カット割りなしの完璧で流れるような動きで、複雑なメカニカルなディテールと魔法の要素がシームレスに融合する。重低音を伴う壮大なオーケストラサウンド。6 秒地点で、完全にサイバーファンタジーの究極形態へと変身した二人が、陽光あふれる秋の森に力強く佇む姿で終了。葉が静かに舞い落ちる中、カメラが引いていき、英雄的なワイドショットへ。シネマティックなカラーグレーディング、ボリューム感のあるゴッドレイ、超詳細なテクスチャ、フォトリアルな毛皮、金属、エネルギーエフェクト、マスターピース品質、ハイパーリアリスティック。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2423edadb55d5cbcedcff4917f0faea9/thumbnails/thumbnail.jpg" width="600" alt="Epic Cyber-Fantasy Transformation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2423edadb55d5cbcedcff4917f0faea9/thumbnails/thumbnail.jpg" width="600" alt="壮大なサイバーファンタジーへの変身">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4898)**
 
 **作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **ソース:** [Link](https://x.com/ThoughCreator/status/2055564820531867868) | **公開日:** May 16, 2026
 
 ---
-### Cat Watching Sunrise Landscape
+### 朝日を眺める猫の風景
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A descriptive video prompt depicting a cat observing a natural landscape with rising smoke and morning birds.
+> 立ち昇る煙と朝の鳥たちがいる自然の風景を眺める猫を描いた、説明的な動画プロンプトです。
 
 #### 📝 プロンプト
 
 ```
-The cat looks at this natural landscape and she sees smoke rising from the ground, birds flying and chirping, and the sun begins to rise.
+猫がこの自然の風景を眺めています。地面から煙が立ち昇り、鳥たちがさえずりながら飛び交い、太陽が昇り始めます。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1fad45a8da3ea2f6d60ac6d9b88f675e/thumbnails/thumbnail.jpg" width="600" alt="Cat Watching Sunrise Landscape">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1fad45a8da3ea2f6d60ac6d9b88f675e/thumbnails/thumbnail.jpg" width="600" alt="朝日を眺める猫の風景">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4903)**
 
 **作者:** [ahmed ibrahim](https://x.com/AhmedYasienibby) | **ソース:** [Link](https://x.com/AhmedYasienibby/status/2055521056706740511) | **公開日:** May 16, 2026
 
 ---
-### Cyberpunk Demonic Cyborg Warlord
+### サイバーパンクの悪魔的サイボーグ軍閥
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An epic cinematic prompt for a photorealistic 6-second video of a Transformers-style demonic cyborg warlord in a rainy megacity.
+> 雨の降るメガシティを舞台にした、トランスフォーマー風の悪魔的サイボーグ軍閥が登場する、6 秒間のフォトリアルな動画のための壮大なシネマティックプロンプト。
 
 #### 📝 プロンプト
 
 ```
-Cinematic 6-second photorealistic video of a terrifying next-level Transformers-style cyberpunk demonic cyborg warlord, ultra-detailed mechanical body with dark matte-black armored plates, exposed hydraulic pipes, thick glowing orange energy cables, and massive cracked lava-like glowing orange horns that pulse with power. His face has intricate black tribal tattoos on pale synthetic skin, intense glowing orange slit eyes, and a savage roaring mouth full of sharp metallic fangs.
-Dynamic sequence: The cyborg slowly rises from a crouched position in a dark rainy cyberpunk megacity alley at night, neon lights reflecting off wet metal surfaces. He dramatically lifts his head, horns blazing brighter, eyes flaring with power as orange energy arcs across his armor. He lets out a powerful mechanical roar while heavy rain pours down, sparks and molten orange energy dripping from his mouth and joints. Camera starts with a low-angle hero shot, smoothly orbits around him while pushing in for a dramatic close-up on his roaring face, then pulls back to a powerful wide shot as lightning flashes in the background.
-Photorealistic, hyper-detailed, 8K, cinematic color grading, dramatic volumetric lighting, god rays, heavy film grain, anamorphic lens flares, moody cyberpunk atmosphere, dark tones with vibrant orange accents, next-level Transformers design mixed with Blade Runner 2049 and Ghost in the Shell aesthetics, extremely realistic textures on metal, rubber hoses, and synthetic skin, fluid motion, 24fps, masterpiece, best quality.
+トランスフォーマー風の次世代サイバーパンクな悪魔的サイボーグ軍閥を捉えた、6 秒間のフォトリアルなシネマティック動画。ダークマットブラックの装甲プレート、露出した油圧パイプ、太く発光するオレンジ色のエネルギーケーブル、そしてパワーを宿して脈動する巨大でひび割れた溶岩のようなオレンジ色の角を備えた、超高精細なメカボディ。顔には淡い合成皮膚に複雑な黒のトライバルタトゥーが施され、強烈に光るオレンジ色のスリット状の瞳と、鋭い金属の牙が並ぶ獰猛な咆哮する口を持つ。
+ダイナミックなシーケンス：夜のサイバーパンクなメガシティの路地裏、雨の中でしゃがみ込んでいたサイボーグがゆっくりと立ち上がる。ネオンライトが濡れた金属の表面に反射する。彼が劇的に頭を上げると、角がより明るく輝き、オレンジ色のエネルギーが装甲を伝う中で瞳が力強く発光する。激しい雨が降り注ぐ中、彼は力強い機械的な咆哮を上げ、口や関節からは火花と溶けたオレンジ色のエネルギーが滴り落ちる。カメラはローアングルのヒーローショットから始まり、滑らかに彼の周囲を旋回しながら咆哮する顔のドラマチックなクローズアップへとズームインし、背景に稲妻が走る中で力強いワイドショットへと引き戻す。
+フォトリアル、超高精細、8K、シネマティックなカラーグレーディング、ドラマチックなボリュームライティング、ゴッドレイ、重厚なフィルムグレイン、アナモルフィックレンズフレア、ムードのあるサイバーパンクな雰囲気、ダークトーンに鮮やかなオレンジのアクセント、Blade Runner 2049 や Ghost in the Shell の美学を融合させた次世代のトランスフォーマーデザイン、金属・ゴムホース・合成皮膚の極めてリアルな質感、滑らかな動き、24fps、傑作、最高品質。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d1199e53958b7be09b6ca027b576f7c9/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Demonic Cyborg Warlord">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d1199e53958b7be09b6ca027b576f7c9/thumbnails/thumbnail.jpg" width="600" alt="サイバーパンクの悪魔的サイボーグ軍閥">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4899)**
 
 **作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **ソース:** [Link](https://x.com/ThoughCreator/status/2055482609757462894) | **公開日:** May 16, 2026
 
 ---
-### Woman Playing Flute Sunrise
+### 日の出の中でフルートを吹く女性
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A serene video prompt depicting a woman with pink-blonde hair and a crystal crown playing a bamboo flute on a bench during a golden sunrise, surrounded by attentive birds.
+> ピンクブロンドの髪にクリスタルの冠をつけた女性が、黄金色の日の出の中、ベンチで竹のフルートを吹き、鳥たちが静かに耳を傾けている様子を描いた穏やかな動画プロンプト。
 
 #### 📝 プロンプト
 
 ```
-The gentle woman with long flowing pink-blonde hair and delicate crystal crown sits on the wooden bench at golden sunrise, playing the bamboo flute very quietly so that only the animals can hear. Birds perch close and listen attentively.
+長く流れるようなピンクブロンドの髪と繊細なクリスタルの冠をつけた穏やかな女性が、黄金色の日の出の中、木製のベンチに座り、動物たちにしか聞こえないほど静かに竹のフルートを奏でています。鳥たちは近くにとまり、熱心に耳を傾けています。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/391d63ab714f26360d296b6e7e956158/thumbnails/thumbnail.jpg" width="600" alt="Woman Playing Flute Sunrise">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/391d63ab714f26360d296b6e7e956158/thumbnails/thumbnail.jpg" width="600" alt="日の出の中でフルートを吹く女性">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4900)**
 
 **作者:** [Carina](https://x.com/Freehere3) | **ソース:** [Link](https://x.com/Freehere3/status/2055462004047942018) | **公開日:** May 16, 2026
 
 ---
-### South Park Space Science Mission
+### サウスパーク 宇宙科学ミッション
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An animation featuring characters from South Park on a space mission, designed with a nostalgic G4 TV Attack of the Show aesthetic.
+> サウスパークのキャラクターたちが宇宙ミッションに挑むアニメーション。懐かしの G4 TV「Attack of the Show」の美学を取り入れたデザインです。
 
 #### 📝 プロンプト
 
 ```
-South Park style, Craig, Tweek, Jimmy, Clyde, Wendy, Token on a space science mission, Play Attack of the Show G4 aesthetic
+サウスパーク風、クレイグ、トゥイーク、ジミー、クライド、ウェンディ、トーケンが宇宙科学ミッションに挑戦、G4「Attack of the Show」の美学を再現
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a323caf0bb73af52c959a78914496d8/thumbnails/thumbnail.jpg" width="600" alt="South Park Space Science Mission">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a323caf0bb73af52c959a78914496d8/thumbnails/thumbnail.jpg" width="600" alt="サウスパーク 宇宙科学ミッション">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4896)**
 
@@ -2246,6 +2246,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-05-17T09:55:27.840Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-05-17T13:48:39.442Z</sub>
 
 </div>

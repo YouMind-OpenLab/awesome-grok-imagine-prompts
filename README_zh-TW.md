@@ -189,307 +189,307 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
-### Ancient Sanctuary Lotus Prompt
+### 古老聖殿蓮花提示詞
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A serene grok-imagine prompt for a waterfall scene with lotus lanterns under the Milky Way.
+> 一個寧靜的 grok-imagine 提示詞，描繪了銀河下伴隨蓮花燈的瀑布場景。
 
 #### 📝 提示詞
 
 ```
-Floating lotus lanterns, a whispering waterfall, and the Milky Way watching over an ancient stone sanctuary.
+漂浮的蓮花燈、低語的瀑布，以及守護著古老石造聖殿的銀河。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/672bb8a18dfc7d899a4784ac4d15a6df/thumbnails/thumbnail.jpg" width="600" alt="Ancient Sanctuary Lotus Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/672bb8a18dfc7d899a4784ac4d15a6df/thumbnails/thumbnail.jpg" width="600" alt="古老聖殿蓮花提示詞">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4908)**
 
 **作者:** [Missy AI](https://x.com/ai_empire33) | **來源:** [Link](https://x.com/ai_empire33/status/2055821923800780924) | **發布時間:** May 17, 2026
 
 ---
-### Continuous Character Transformation Sequence
+### 連續角色變形序列
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A morphing video sequence where a character transforms through various identities including a woman, a wizard, Santa Claus, and a robot.
+> 一段變形影片序列，角色會變換為各種身分，包括女性、巫師、聖誕老人和機器人。
 
 #### 📝 提示詞
 
 ```
-Have him transform into a woman than into a wizard then into Santa Claus then into a robot
+讓他變身為女性，接著變身為巫師，然後變身為聖誕老人，最後變身為機器人
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6f89e82a3abfb963ac5937c87fc2d881/thumbnails/thumbnail.jpg" width="600" alt="Continuous Character Transformation Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6f89e82a3abfb963ac5937c87fc2d881/thumbnails/thumbnail.jpg" width="600" alt="連續角色變形序列">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4895)**
 
 **作者:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **來源:** [Link](https://x.com/CindyWeigapn6/status/2055786953103069359) | **發布時間:** May 16, 2026
 
 ---
-### Cinematic Dragons in Moonlit Forest
+### 月光森林中的電影感巨龍
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-quality slow-motion video prompt featuring a muscular golden dragon and a starry purple dragon in an enchanted moonlit forest.
+> 這是一個高品質的慢動作影片提示詞，描繪了一隻肌肉發達的黃金巨龍與一隻星光熠熠的紫色巨龍在夢幻月光森林中的場景。
 
 #### 📝 提示詞
 
 ```
-Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a more slender, elegant midnight purple dragon with starry bioluminescent scales are resting in a moonlit enchanted forest. The two dragons slowly and tenderly move their head.
+電影感特寫，慢動作影片。一隻巨大、肌肉發達的黃金巨龍，與一隻身形修長、優雅的午夜紫巨龍（身上帶有星光般的生物發光鱗片），正棲息在月光籠罩的夢幻森林中。兩隻巨龍正緩慢且溫柔地移動牠們的頭部。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/76be608144f7dcc699a9d6c3661a2174/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Dragons in Moonlit Forest">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/76be608144f7dcc699a9d6c3661a2174/thumbnails/thumbnail.jpg" width="600" alt="月光森林中的電影感巨龍">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4906)**
 
 **作者:** [Maryama Cissey](https://x.com/Sweet_Maryama) | **來源:** [Link](https://x.com/Sweet_Maryama/status/2055762930369429640) | **發布時間:** May 16, 2026
 
 ---
-### Steampunk Elephant Guardian Awakening
+### 蒸汽龐克大象守護者覺醒
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A fantasy video prompt featuring a crystal sorceress awakening a steampunk elephant in an arctic environment.
+> 一個奇幻影片提示詞，描述一位水晶女巫在北極環境中喚醒一隻蒸汽龐克大象。
 
 #### 📝 提示詞
 
 ```
-Blue Crystal Sorceress Awakens Her Steampunk Elephant Guardian in the Frozen Realm. Magic & gears collide under arctic skies!
+藍色水晶女巫在冰封領域喚醒她的蒸汽龐克大象守護者。魔法與齒輪在北極天際下激烈碰撞！
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/970daa4aca0f71a31b3f53209ed734fb/thumbnails/thumbnail.jpg" width="600" alt="Steampunk Elephant Guardian Awakening">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/970daa4aca0f71a31b3f53209ed734fb/thumbnails/thumbnail.jpg" width="600" alt="蒸汽龐克大象守護者覺醒">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4907)**
 
 **作者:** [AI영상공작실](https://x.com/lee_young71) | **來源:** [Link](https://x.com/lee_young71/status/2055754008372080710) | **發布時間:** May 16, 2026
 
 ---
-### Aliens in Conference with Earth Hologram
+### 外星人與地球全息投影的會議場景
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt describing extraterrestrials sitting at a conference table with a floating blue Earth hologram.
+> 一段電影級的影片提示詞，描述外星人坐在會議桌前，桌上懸浮著藍色地球全息投影。
 
 #### 📝 提示詞
 
 ```
-They head to a conference table and sit down; there is a hologram with the blue planet Earth. One of the extraterrestrials points to North America....
+他們走向會議桌並坐下；桌上出現了一個藍色地球的全息投影。其中一名外星人指向北美洲……
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8c0bea8b402b7d1c5851e575b0408049/thumbnails/thumbnail.jpg" width="600" alt="Aliens in Conference with Earth Hologram">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8c0bea8b402b7d1c5851e575b0408049/thumbnails/thumbnail.jpg" width="600" alt="外星人與地球全息投影的會議場景">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4909)**
 
 **作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **來源:** [Link](https://x.com/clemensilverio/status/2055698478127296747) | **發布時間:** May 16, 2026
 
 ---
-### Pokemon Card Unboxing First Person POV
+### 寶可夢卡牌開箱第一人稱視角
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed image-to-video prompt for creating a first-person perspective unboxing video of a gold Mega Lucario Pokemon card pack.
+> 這是一個詳細的「圖生影」提示詞，用於創作第一人稱視角的金色超級路卡利歐寶可夢卡包開箱影片。
 
 #### 📝 提示詞
 
 ```
-I have two images. I want to create a video where a user in first POV opens the Mega Evolution pack and all cards in the pack are the gold Mega Lucario ex card
+我有兩張圖片。我想要創作一段影片，內容是使用者以第一人稱視角打開超級進化卡包，且卡包中的所有卡牌皆為金色超級路卡利歐 ex 卡。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8173700fcd22bdb52e255658b5fe3bc9/thumbnails/thumbnail.jpg" width="600" alt="Pokemon Card Unboxing First Person POV">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8173700fcd22bdb52e255658b5fe3bc9/thumbnails/thumbnail.jpg" width="600" alt="寶可夢卡牌開箱第一人稱視角">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4904)**
 
 **作者:** [Joe](https://x.com/CardCaptain) | **來源:** [Link](https://x.com/CardCaptain/status/2055697504470253896) | **發布時間:** May 16, 2026
 
 ---
-### Comic Style Cowboy and Cattle Pasture
+### 漫畫風格的牛仔與牧場
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A comic book style video prompt depicting a cowboy and his lady riding through a pasture overlooking grazing cattle.
+> 這是一個漫畫風格的影片提示詞，描繪了一位牛仔與他的女伴騎馬穿過牧場，俯瞰著正在吃草的牛群。
 
 #### 📝 提示詞
 
 ```
-Comic book style 
-Cowboy and his lady ride the pasture overlooking black angus cattle grazing
+漫畫風格 
+牛仔與他的女伴騎馬穿過牧場，俯瞰著正在吃草的安格斯黑牛
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f16fb43dc6a97bdb9373db4c464e62dd/thumbnails/thumbnail.jpg" width="600" alt="Comic Style Cowboy and Cattle Pasture">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f16fb43dc6a97bdb9373db4c464e62dd/thumbnails/thumbnail.jpg" width="600" alt="漫畫風格的牛仔與牧場">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4905)**
 
 **作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2055691304684986599) | **發布時間:** May 16, 2026
 
 ---
-### Translucent Aliens Handshake Scene
+### 半透明外星人握手場景
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A motion-focused prompt for Grok Imagine featuring two translucent aliens meeting and shaking hands without dialogue.
+> 這是一個專為 Grok Imagine 設計的動態提示詞，描述兩位半透明外星人見面並握手的場景，過程中無任何對話。
 
 #### 📝 提示詞
 
 ```
-They stop at 3 seconds into the scene. No dialogue. Upon stopping, two translucent extraterrestrials meet and shake hands.
+場景在第 3 秒時停止。過程中沒有對話。停止後，兩位半透明的外星人相遇並握手。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c5afb652c8fdd38f642304156cc10ed1/thumbnails/thumbnail.jpg" width="600" alt="Translucent Aliens Handshake Scene">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c5afb652c8fdd38f642304156cc10ed1/thumbnails/thumbnail.jpg" width="600" alt="半透明外星人握手場景">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4910)**
 
 **作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **來源:** [Link](https://x.com/clemensilverio/status/2055691018041717157) | **發布時間:** May 16, 2026
 
 ---
-### Foggy Character Head Movement
+### 霧中角色頭部動作
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt describing subtle character motion within a misty and foggy environment.
+> 一段電影級影片提示詞，描述角色在霧氣繚繞的環境中細微的動作。
 
 #### 📝 提示詞
 
 ```
-he stands still, only moving his head looking from side to side, it is foggy and misty
+他靜止站立，僅移動頭部左右環顧，周圍充滿霧氣與薄霧
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c032613ae022042f47138d5a5b98978e/thumbnails/thumbnail.jpg" width="600" alt="Foggy Character Head Movement">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c032613ae022042f47138d5a5b98978e/thumbnails/thumbnail.jpg" width="600" alt="霧中角色頭部動作">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4902)**
 
 **作者:** [Richard](https://x.com/CharlieWP100) | **來源:** [Link](https://x.com/CharlieWP100/status/2055676152677556510) | **發布時間:** May 16, 2026
 
 ---
-### Flame and Rose Couture Catwalk
+### 火焰與玫瑰高級訂製時裝秀
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic fashion show video featuring a woman in a surreal, dramatic gown made of flames and roses striding down a runway.
+> 一部電影感十足的時裝秀影片，展示了一位身穿由火焰與玫瑰組成的超現實戲劇性禮服的女性，正自信地走在伸展台上。
 
 #### 📝 提示詞
 
 ```
-A poised woman in a surreal flame and rose couture gown strides down a luxury catwalk in a dramatic, cinematic style.
+一位優雅的女性身穿超現實的火焰與玫瑰高級訂製禮服，以戲劇性的電影風格走在奢華的伸展台上。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f39c61dedb32c0b494415777e85f9396/thumbnails/thumbnail.jpg" width="600" alt="Flame and Rose Couture Catwalk">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f39c61dedb32c0b494415777e85f9396/thumbnails/thumbnail.jpg" width="600" alt="火焰與玫瑰高級訂製時裝秀">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4901)**
 
 **作者:** [Mr Das](https://x.com/MrDasOnX) | **來源:** [Link](https://x.com/MrDasOnX/status/2055664046104576461) | **發布時間:** May 16, 2026
 
 ---
-### Robin Williams Popeye Metamorphosis
+### Robin Williams 飾演 Popeye 的變形動畫
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A creative transformation video turning a static drawing of Robin Williams as Popeye into a dynamic animated character.
+> 這是一部創意變形影片，將 Robin Williams 飾演 Popeye 的靜態畫作轉化為栩栩如生的動畫角色。
 
 #### 📝 提示詞
 
 ```
-Professor Don with his drawing of Robin Williams as Popeye that metamorphosis into an animated character
+Don 教授展示他繪製的 Robin Williams 版 Popeye，並將其變形為動畫角色
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5eb7d7ac945a23610df893e88a376fe7/thumbnails/thumbnail.jpg" width="600" alt="Robin Williams Popeye Metamorphosis">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5eb7d7ac945a23610df893e88a376fe7/thumbnails/thumbnail.jpg" width="600" alt="Robin Williams 飾演 Popeye 的變形動畫">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4897)**
 
 **作者:** [the don of hockey](https://x.com/don_allain) | **來源:** [Link](https://x.com/don_allain/status/2055595209807798536) | **發布時間:** May 16, 2026
 
 ---
-### Epic Cyber-Fantasy Transformation
+### 史詩級賽博奇幻變身
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An extremely detailed 6-second cinematic video prompt featuring an elf queen on a crystal stag that transforms into a biomechanical robot.
+> 一個極其細緻的 6 秒電影級影片提示詞，描述一位精靈女王騎著水晶雄鹿變身為生物機械機器人的過程。
 
 #### 📝 提示詞
 
 ```
-Cinematic 6-second photorealistic video, ultra-realistic 8K, shot on ARRI Alexa 65 with anamorphic lenses, dramatic golden hour lighting in an enchanted autumn forest. Start with a majestic elf queen with long flowing platinum-silver hair and glowing turquoise armor riding a majestic glowing blue crystalline stag with ornate golden antlers. The scene is bathed in warm sunlight rays piercing through vibrant orange and red falling maple leaves. At 1.5 seconds, the camera begins a slow majestic orbit around them as the stag's crystalline blue patterns intensify and start pulsing with energy. At 2.8 seconds, the "next-level transformation" begins: the stag's body elegantly morphs and unfolds in a seamless, organic-mechanical hybrid transformation — glowing blue crystal armor plates shift and expand into futuristic biomechanical robotic limbs and thrusters while maintaining its elegant deer silhouette, antlers transforming into massive glowing energy cannons. Simultaneously, the elf queen's armor fluidly transforms into sleek, ornate cyber-fantasy battle armor with glowing turquoise energy circuits. Her hair flows dramatically in the wind as golden energy particles swirl around them. The transformation is smooth, elegant, and extremely detailed — no hard cuts, perfect fluid motion, intricate mechanical and magical details blending seamlessly. Epic orchestral swell with deep bass. End at 6 seconds with both fully transformed into their ultimate cyber-fantasy forms standing powerfully in the sunlit autumn forest, leaves still gently falling, camera pulling back to a heroic wide shot, cinematic color grading, volumetric god rays, ultra-detailed textures, photorealistic fur, metal, and energy effects, masterpiece quality, hyper-realistic.
+電影級 6 秒照片級真實感影片，超寫實 8K，使用 ARRI Alexa 65 搭配變形鏡頭拍攝，魔法秋季森林中戲劇性的黃金時刻光影。開場時，一位擁有飄逸白銀長髮與發光青綠色盔甲的威嚴精靈女王，騎著一頭散發藍色光芒、長有華麗金色鹿角的雄鹿。場景沐浴在穿透鮮豔橘紅色落葉的溫暖陽光中。在 1.5 秒時，攝影機開始緩慢而宏偉地繞行，雄鹿身上的藍色水晶紋路增強並開始閃爍能量。在 2.8 秒時，「進階變身」開始：雄鹿的身體優雅地變形並展開，呈現出流暢的有機與機械混合變身過程——發光的藍色水晶裝甲板移動並擴展為未來感的生物機械肢體與推進器，同時保持其優雅的鹿形輪廓，鹿角則轉化為巨大的發光能量砲。與此同時，精靈女王的盔甲流暢地轉化為帶有青綠色發光能量電路的精緻賽博奇幻戰甲。她的長髮在風中戲劇性地飄動，金色能量粒子在周圍旋轉。變身過程平滑、優雅且極其細緻——沒有硬切，動作完美流暢，複雜的機械與魔法細節無縫融合。伴隨深沉低音的史詩管弦樂高潮。在 6 秒時結束，兩人皆已完全轉化為終極賽博奇幻型態，強勢地矗立在陽光灑落的秋季森林中，落葉仍輕柔飄落，攝影機拉遠至英雄式的廣角鏡頭，電影級調色，體積光（God rays），超細緻紋理，照片級真實的毛髮、金屬與能量特效，大師級品質，超寫實。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2423edadb55d5cbcedcff4917f0faea9/thumbnails/thumbnail.jpg" width="600" alt="Epic Cyber-Fantasy Transformation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2423edadb55d5cbcedcff4917f0faea9/thumbnails/thumbnail.jpg" width="600" alt="史詩級賽博奇幻變身">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4898)**
 
 **作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **來源:** [Link](https://x.com/ThoughCreator/status/2055564820531867868) | **發布時間:** May 16, 2026
 
 ---
-### Cat Watching Sunrise Landscape
+### 貓咪觀賞日出風景
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A descriptive video prompt depicting a cat observing a natural landscape with rising smoke and morning birds.
+> 一段描述性的影片提示詞，描繪了一隻貓咪正在觀察自然風景，畫面中伴隨著升起的煙霧與晨間鳥鳴。
 
 #### 📝 提示詞
 
 ```
-The cat looks at this natural landscape and she sees smoke rising from the ground, birds flying and chirping, and the sun begins to rise.
+貓咪凝視著這片自然風景，牠看見地面升起縷縷輕煙，鳥兒在空中飛翔鳴叫，太陽也開始緩緩升起。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1fad45a8da3ea2f6d60ac6d9b88f675e/thumbnails/thumbnail.jpg" width="600" alt="Cat Watching Sunrise Landscape">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1fad45a8da3ea2f6d60ac6d9b88f675e/thumbnails/thumbnail.jpg" width="600" alt="貓咪觀賞日出風景">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4903)**
 
 **作者:** [ahmed ibrahim](https://x.com/AhmedYasienibby) | **來源:** [Link](https://x.com/AhmedYasienibby/status/2055521056706740511) | **發布時間:** May 16, 2026
 
 ---
-### Cyberpunk Demonic Cyborg Warlord
+### 電馭叛客惡魔生化軍閥
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An epic cinematic prompt for a photorealistic 6-second video of a Transformers-style demonic cyborg warlord in a rainy megacity.
+> 一個史詩級電影感提示詞，用於生成 6 秒鐘的超寫實影片，內容為在雨中大都市裡的變形金剛風格惡魔生化軍閥。
 
 #### 📝 提示詞
 
 ```
-Cinematic 6-second photorealistic video of a terrifying next-level Transformers-style cyberpunk demonic cyborg warlord, ultra-detailed mechanical body with dark matte-black armored plates, exposed hydraulic pipes, thick glowing orange energy cables, and massive cracked lava-like glowing orange horns that pulse with power. His face has intricate black tribal tattoos on pale synthetic skin, intense glowing orange slit eyes, and a savage roaring mouth full of sharp metallic fangs.
-Dynamic sequence: The cyborg slowly rises from a crouched position in a dark rainy cyberpunk megacity alley at night, neon lights reflecting off wet metal surfaces. He dramatically lifts his head, horns blazing brighter, eyes flaring with power as orange energy arcs across his armor. He lets out a powerful mechanical roar while heavy rain pours down, sparks and molten orange energy dripping from his mouth and joints. Camera starts with a low-angle hero shot, smoothly orbits around him while pushing in for a dramatic close-up on his roaring face, then pulls back to a powerful wide shot as lightning flashes in the background.
-Photorealistic, hyper-detailed, 8K, cinematic color grading, dramatic volumetric lighting, god rays, heavy film grain, anamorphic lens flares, moody cyberpunk atmosphere, dark tones with vibrant orange accents, next-level Transformers design mixed with Blade Runner 2049 and Ghost in the Shell aesthetics, extremely realistic textures on metal, rubber hoses, and synthetic skin, fluid motion, 24fps, masterpiece, best quality.
+6 秒鐘電影感超寫實影片，呈現一位令人恐懼、次世代變形金剛風格的電馭叛客惡魔生化軍閥。其機械身體細節極致，擁有深霧面黑色裝甲板、外露的液壓管、粗壯且發出橘色光芒的能量纜線，以及巨大的裂紋熔岩狀橘色發光角，並隨能量脈動。他的臉部在蒼白的合成皮膚上有複雜的黑色部落紋身，雙眼為強烈的橘色細長光芒，口中長滿鋒利的金屬獠牙。
+動態序列：該生化人於深夜在陰暗多雨的電馭叛客大都市巷弄中，從蹲姿緩緩站起，霓虹燈光映照在濕潤的金屬表面。他戲劇性地抬起頭，雙角光芒大作，雙眼因能量爆發而閃爍，橘色能量弧線在裝甲上流竄。他在傾盆大雨中發出強而有力的機械咆哮，火花與熔融的橘色能量從口中及關節處滴落。鏡頭以低角度英雄視角開始，平滑地環繞他旋轉並推進，戲劇性地特寫他咆哮的臉龐，隨後拉遠至震撼的廣角鏡頭，背景中閃電劃過。
+超寫實、極致細節、8K、電影級調色、戲劇性體積光、耶穌光、厚重底片顆粒、變形鏡頭光暈、憂鬱的電馭叛客氛圍、深色調搭配鮮豔的橘色點綴、結合《銀翼殺手 2049》與《攻殼機動隊》美學的次世代變形金剛設計，金屬、橡膠軟管與合成皮膚的質感極度逼真、流暢動作、24fps、傑作、最高品質。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d1199e53958b7be09b6ca027b576f7c9/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Demonic Cyborg Warlord">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d1199e53958b7be09b6ca027b576f7c9/thumbnails/thumbnail.jpg" width="600" alt="電馭叛客惡魔生化軍閥">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4899)**
 
 **作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **來源:** [Link](https://x.com/ThoughCreator/status/2055482609757462894) | **發布時間:** May 16, 2026
 
 ---
-### Woman Playing Flute Sunrise
+### 女子晨曦吹笛
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A serene video prompt depicting a woman with pink-blonde hair and a crystal crown playing a bamboo flute on a bench during a golden sunrise, surrounded by attentive birds.
+> 一段寧靜的影片提示詞，描繪了一位留著粉金色頭髮、頭戴水晶皇冠的女子，在金色的晨曦中坐在長椅上吹奏竹笛，周圍環繞著專注聆聽的鳥兒。
 
 #### 📝 提示詞
 
 ```
-The gentle woman with long flowing pink-blonde hair and delicate crystal crown sits on the wooden bench at golden sunrise, playing the bamboo flute very quietly so that only the animals can hear. Birds perch close and listen attentively.
+留著飄逸粉金色長髮、頭戴精緻水晶皇冠的溫柔女子，坐在金色的晨曦中，於木長椅上輕柔地吹奏著竹笛，笛聲細膩，唯有動物們能聽見。鳥兒們停棲在近處，專注地聆聽。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/391d63ab714f26360d296b6e7e956158/thumbnails/thumbnail.jpg" width="600" alt="Woman Playing Flute Sunrise">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/391d63ab714f26360d296b6e7e956158/thumbnails/thumbnail.jpg" width="600" alt="女子晨曦吹笛">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4900)**
 
 **作者:** [Carina](https://x.com/Freehere3) | **來源:** [Link](https://x.com/Freehere3/status/2055462004047942018) | **發布時間:** May 16, 2026
 
 ---
-### South Park Space Science Mission
+### 南方公園太空科學任務
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An animation featuring characters from South Park on a space mission, designed with a nostalgic G4 TV Attack of the Show aesthetic.
+> 一部以《南方公園》角色為主角的太空任務動畫，採用了懷舊的 G4 TV《Attack of the Show》美學設計。
 
 #### 📝 提示詞
 
 ```
-South Park style, Craig, Tweek, Jimmy, Clyde, Wendy, Token on a space science mission, Play Attack of the Show G4 aesthetic
+南方公園風格，Craig、Tweek、Jimmy、Clyde、Wendy、Token 執行太空科學任務，呈現《Attack of the Show》G4 美學
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a323caf0bb73af52c959a78914496d8/thumbnails/thumbnail.jpg" width="600" alt="South Park Space Science Mission">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a323caf0bb73af52c959a78914496d8/thumbnails/thumbnail.jpg" width="600" alt="南方公園太空科學任務">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4896)**
 
@@ -2246,6 +2246,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-05-17T09:55:26.880Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-05-17T13:48:38.516Z</sub>
 
 </div>
