@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **1519** |
+| 📝 提示词总数 | **1535** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-05-17** |
 
@@ -189,6 +189,313 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### Ancient Sanctuary Lotus Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A serene grok-imagine prompt for a waterfall scene with lotus lanterns under the Milky Way.
+
+#### 📝 提示词
+
+```
+Floating lotus lanterns, a whispering waterfall, and the Milky Way watching over an ancient stone sanctuary.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/672bb8a18dfc7d899a4784ac4d15a6df/thumbnails/thumbnail.jpg" width="600" alt="Ancient Sanctuary Lotus Prompt">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4908)**
+
+**作者:** [Missy AI](https://x.com/ai_empire33) | **来源:** [Link](https://x.com/ai_empire33/status/2055821923800780924) | **发布时间:** May 17, 2026
+
+---
+### Continuous Character Transformation Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A morphing video sequence where a character transforms through various identities including a woman, a wizard, Santa Claus, and a robot.
+
+#### 📝 提示词
+
+```
+Have him transform into a woman than into a wizard then into Santa Claus then into a robot
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6f89e82a3abfb963ac5937c87fc2d881/thumbnails/thumbnail.jpg" width="600" alt="Continuous Character Transformation Sequence">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4895)**
+
+**作者:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **来源:** [Link](https://x.com/CindyWeigapn6/status/2055786953103069359) | **发布时间:** May 16, 2026
+
+---
+### Cinematic Dragons in Moonlit Forest
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-quality slow-motion video prompt featuring a muscular golden dragon and a starry purple dragon in an enchanted moonlit forest.
+
+#### 📝 提示词
+
+```
+Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a more slender, elegant midnight purple dragon with starry bioluminescent scales are resting in a moonlit enchanted forest. The two dragons slowly and tenderly move their head.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/76be608144f7dcc699a9d6c3661a2174/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Dragons in Moonlit Forest">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4906)**
+
+**作者:** [Maryama Cissey](https://x.com/Sweet_Maryama) | **来源:** [Link](https://x.com/Sweet_Maryama/status/2055762930369429640) | **发布时间:** May 16, 2026
+
+---
+### Steampunk Elephant Guardian Awakening
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A fantasy video prompt featuring a crystal sorceress awakening a steampunk elephant in an arctic environment.
+
+#### 📝 提示词
+
+```
+Blue Crystal Sorceress Awakens Her Steampunk Elephant Guardian in the Frozen Realm. Magic & gears collide under arctic skies!
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/970daa4aca0f71a31b3f53209ed734fb/thumbnails/thumbnail.jpg" width="600" alt="Steampunk Elephant Guardian Awakening">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4907)**
+
+**作者:** [AI영상공작실](https://x.com/lee_young71) | **来源:** [Link](https://x.com/lee_young71/status/2055754008372080710) | **发布时间:** May 16, 2026
+
+---
+### Aliens in Conference with Earth Hologram
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt describing extraterrestrials sitting at a conference table with a floating blue Earth hologram.
+
+#### 📝 提示词
+
+```
+They head to a conference table and sit down; there is a hologram with the blue planet Earth. One of the extraterrestrials points to North America....
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8c0bea8b402b7d1c5851e575b0408049/thumbnails/thumbnail.jpg" width="600" alt="Aliens in Conference with Earth Hologram">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4909)**
+
+**作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **来源:** [Link](https://x.com/clemensilverio/status/2055698478127296747) | **发布时间:** May 16, 2026
+
+---
+### Pokemon Card Unboxing First Person POV
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed image-to-video prompt for creating a first-person perspective unboxing video of a gold Mega Lucario Pokemon card pack.
+
+#### 📝 提示词
+
+```
+I have two images. I want to create a video where a user in first POV opens the Mega Evolution pack and all cards in the pack are the gold Mega Lucario ex card
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8173700fcd22bdb52e255658b5fe3bc9/thumbnails/thumbnail.jpg" width="600" alt="Pokemon Card Unboxing First Person POV">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4904)**
+
+**作者:** [Joe](https://x.com/CardCaptain) | **来源:** [Link](https://x.com/CardCaptain/status/2055697504470253896) | **发布时间:** May 16, 2026
+
+---
+### Comic Style Cowboy and Cattle Pasture
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comic book style video prompt depicting a cowboy and his lady riding through a pasture overlooking grazing cattle.
+
+#### 📝 提示词
+
+```
+Comic book style 
+Cowboy and his lady ride the pasture overlooking black angus cattle grazing
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f16fb43dc6a97bdb9373db4c464e62dd/thumbnails/thumbnail.jpg" width="600" alt="Comic Style Cowboy and Cattle Pasture">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4905)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2055691304684986599) | **发布时间:** May 16, 2026
+
+---
+### Translucent Aliens Handshake Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A motion-focused prompt for Grok Imagine featuring two translucent aliens meeting and shaking hands without dialogue.
+
+#### 📝 提示词
+
+```
+They stop at 3 seconds into the scene. No dialogue. Upon stopping, two translucent extraterrestrials meet and shake hands.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c5afb652c8fdd38f642304156cc10ed1/thumbnails/thumbnail.jpg" width="600" alt="Translucent Aliens Handshake Scene">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4910)**
+
+**作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **来源:** [Link](https://x.com/clemensilverio/status/2055691018041717157) | **发布时间:** May 16, 2026
+
+---
+### Foggy Character Head Movement
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt describing subtle character motion within a misty and foggy environment.
+
+#### 📝 提示词
+
+```
+he stands still, only moving his head looking from side to side, it is foggy and misty
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c032613ae022042f47138d5a5b98978e/thumbnails/thumbnail.jpg" width="600" alt="Foggy Character Head Movement">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4902)**
+
+**作者:** [Richard](https://x.com/CharlieWP100) | **来源:** [Link](https://x.com/CharlieWP100/status/2055676152677556510) | **发布时间:** May 16, 2026
+
+---
+### Flame and Rose Couture Catwalk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic fashion show video featuring a woman in a surreal, dramatic gown made of flames and roses striding down a runway.
+
+#### 📝 提示词
+
+```
+A poised woman in a surreal flame and rose couture gown strides down a luxury catwalk in a dramatic, cinematic style.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f39c61dedb32c0b494415777e85f9396/thumbnails/thumbnail.jpg" width="600" alt="Flame and Rose Couture Catwalk">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4901)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **来源:** [Link](https://x.com/MrDasOnX/status/2055664046104576461) | **发布时间:** May 16, 2026
+
+---
+### Robin Williams Popeye Metamorphosis
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative transformation video turning a static drawing of Robin Williams as Popeye into a dynamic animated character.
+
+#### 📝 提示词
+
+```
+Professor Don with his drawing of Robin Williams as Popeye that metamorphosis into an animated character
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5eb7d7ac945a23610df893e88a376fe7/thumbnails/thumbnail.jpg" width="600" alt="Robin Williams Popeye Metamorphosis">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4897)**
+
+**作者:** [the don of hockey](https://x.com/don_allain) | **来源:** [Link](https://x.com/don_allain/status/2055595209807798536) | **发布时间:** May 16, 2026
+
+---
+### Epic Cyber-Fantasy Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An extremely detailed 6-second cinematic video prompt featuring an elf queen on a crystal stag that transforms into a biomechanical robot.
+
+#### 📝 提示词
+
+```
+Cinematic 6-second photorealistic video, ultra-realistic 8K, shot on ARRI Alexa 65 with anamorphic lenses, dramatic golden hour lighting in an enchanted autumn forest. Start with a majestic elf queen with long flowing platinum-silver hair and glowing turquoise armor riding a majestic glowing blue crystalline stag with ornate golden antlers. The scene is bathed in warm sunlight rays piercing through vibrant orange and red falling maple leaves. At 1.5 seconds, the camera begins a slow majestic orbit around them as the stag's crystalline blue patterns intensify and start pulsing with energy. At 2.8 seconds, the "next-level transformation" begins: the stag's body elegantly morphs and unfolds in a seamless, organic-mechanical hybrid transformation — glowing blue crystal armor plates shift and expand into futuristic biomechanical robotic limbs and thrusters while maintaining its elegant deer silhouette, antlers transforming into massive glowing energy cannons. Simultaneously, the elf queen's armor fluidly transforms into sleek, ornate cyber-fantasy battle armor with glowing turquoise energy circuits. Her hair flows dramatically in the wind as golden energy particles swirl around them. The transformation is smooth, elegant, and extremely detailed — no hard cuts, perfect fluid motion, intricate mechanical and magical details blending seamlessly. Epic orchestral swell with deep bass. End at 6 seconds with both fully transformed into their ultimate cyber-fantasy forms standing powerfully in the sunlit autumn forest, leaves still gently falling, camera pulling back to a heroic wide shot, cinematic color grading, volumetric god rays, ultra-detailed textures, photorealistic fur, metal, and energy effects, masterpiece quality, hyper-realistic.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2423edadb55d5cbcedcff4917f0faea9/thumbnails/thumbnail.jpg" width="600" alt="Epic Cyber-Fantasy Transformation">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4898)**
+
+**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **来源:** [Link](https://x.com/ThoughCreator/status/2055564820531867868) | **发布时间:** May 16, 2026
+
+---
+### Cat Watching Sunrise Landscape
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A descriptive video prompt depicting a cat observing a natural landscape with rising smoke and morning birds.
+
+#### 📝 提示词
+
+```
+The cat looks at this natural landscape and she sees smoke rising from the ground, birds flying and chirping, and the sun begins to rise.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1fad45a8da3ea2f6d60ac6d9b88f675e/thumbnails/thumbnail.jpg" width="600" alt="Cat Watching Sunrise Landscape">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4903)**
+
+**作者:** [ahmed ibrahim](https://x.com/AhmedYasienibby) | **来源:** [Link](https://x.com/AhmedYasienibby/status/2055521056706740511) | **发布时间:** May 16, 2026
+
+---
+### Cyberpunk Demonic Cyborg Warlord
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An epic cinematic prompt for a photorealistic 6-second video of a Transformers-style demonic cyborg warlord in a rainy megacity.
+
+#### 📝 提示词
+
+```
+Cinematic 6-second photorealistic video of a terrifying next-level Transformers-style cyberpunk demonic cyborg warlord, ultra-detailed mechanical body with dark matte-black armored plates, exposed hydraulic pipes, thick glowing orange energy cables, and massive cracked lava-like glowing orange horns that pulse with power. His face has intricate black tribal tattoos on pale synthetic skin, intense glowing orange slit eyes, and a savage roaring mouth full of sharp metallic fangs.
+Dynamic sequence: The cyborg slowly rises from a crouched position in a dark rainy cyberpunk megacity alley at night, neon lights reflecting off wet metal surfaces. He dramatically lifts his head, horns blazing brighter, eyes flaring with power as orange energy arcs across his armor. He lets out a powerful mechanical roar while heavy rain pours down, sparks and molten orange energy dripping from his mouth and joints. Camera starts with a low-angle hero shot, smoothly orbits around him while pushing in for a dramatic close-up on his roaring face, then pulls back to a powerful wide shot as lightning flashes in the background.
+Photorealistic, hyper-detailed, 8K, cinematic color grading, dramatic volumetric lighting, god rays, heavy film grain, anamorphic lens flares, moody cyberpunk atmosphere, dark tones with vibrant orange accents, next-level Transformers design mixed with Blade Runner 2049 and Ghost in the Shell aesthetics, extremely realistic textures on metal, rubber hoses, and synthetic skin, fluid motion, 24fps, masterpiece, best quality.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d1199e53958b7be09b6ca027b576f7c9/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Demonic Cyborg Warlord">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4899)**
+
+**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **来源:** [Link](https://x.com/ThoughCreator/status/2055482609757462894) | **发布时间:** May 16, 2026
+
+---
+### Woman Playing Flute Sunrise
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A serene video prompt depicting a woman with pink-blonde hair and a crystal crown playing a bamboo flute on a bench during a golden sunrise, surrounded by attentive birds.
+
+#### 📝 提示词
+
+```
+The gentle woman with long flowing pink-blonde hair and delicate crystal crown sits on the wooden bench at golden sunrise, playing the bamboo flute very quietly so that only the animals can hear. Birds perch close and listen attentively.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/391d63ab714f26360d296b6e7e956158/thumbnails/thumbnail.jpg" width="600" alt="Woman Playing Flute Sunrise">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4900)**
+
+**作者:** [Carina](https://x.com/Freehere3) | **来源:** [Link](https://x.com/Freehere3/status/2055462004047942018) | **发布时间:** May 16, 2026
+
+---
+### South Park Space Science Mission
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An animation featuring characters from South Park on a space mission, designed with a nostalgic G4 TV Attack of the Show aesthetic.
+
+#### 📝 提示词
+
+```
+South Park style, Craig, Tweek, Jimmy, Clyde, Wendy, Token on a space science mission, Play Attack of the Show G4 aesthetic
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a323caf0bb73af52c959a78914496d8/thumbnails/thumbnail.jpg" width="600" alt="South Park Space Science Mission">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4896)**
+
+**作者:** [Ruzzel Francisco](https://x.com/RuzzelFrannuwp) | **来源:** [Link](https://x.com/RuzzelFrannuwp/status/2055451406975615240) | **发布时间:** May 16, 2026
+
+---
 ### 角色服装变色序列
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1878,327 +2185,6 @@ cinematic cyberpunk samurai on a floating rooftop at dramatic dusk, glowing cher
 **作者:** [Andrew Madden](https://x.com/AndrewM34705304) | **来源:** [Link](https://x.com/AndrewM34705304/status/2052471080108126687) | **发布时间:** May 7, 2026
 
 ---
-### 忙碌的施工经理场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段描述施工经理被任务、电子表格和响个不停的电话包围的提示词，非常适合用于职场主题的视频生成。
-
-#### 📝 提示词
-
-```
-一位忙碌的施工经理，身处繁杂的任务、电子表格和响个不停的电话之中
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/209e0de5a6fdb298ca4fe8c62ac96d56/thumbnails/thumbnail.jpg" width="600" alt="忙碌的施工经理场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4420)**
-
-**作者:** [iaCcreators](https://x.com/iaCcreatorss) | **来源:** [Link](https://x.com/iaCcreatorss/status/2052457509789516197) | **发布时间:** May 7, 2026
-
----
-### 御龙机甲战士
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个 8K 电影级视频的高细节提示词，灵感源自中国古代御龙设计的女性机甲战士。
-
-#### 📝 提示词
-
-```
-电影级写实 6 秒视频，超细节 8K 分辨率，采用变形金刚风格的女性战士，身着灵感源自中国古代御龙的超先进机甲。
-
-她是一位外形流畅、力量强大的女性赛博格，身穿银黑金三色全身盔甲，佩戴发光的青色护目镜，拥有复杂的机械关节，肩甲装饰着华丽的金色龙狮图案，并散发出流动的液态金能量。发光的金色符文和火焰般的能量纹路在她胸部、手臂和腿部脉动。她身披飘逸的白色丝绸战袍，点缀着红色细节，在风中剧烈飘动。右手握着一把巨大的华丽发光能量剑。
-
-场景开篇于黄金时刻尘土飞扬的中国古代战场，背景中隐约可见传统盔甲士兵和红色旗帜。
-
-镜头以戏剧性的低角度英雄特写开始，聚焦于她的头盔和发光的双眼，随后平滑地环绕她的身体，此时她缓慢举起长剑，摆出强有力的准备姿态。金色能量在盔甲中涌动，明亮的光脉在装甲板上穿梭。她迈出沉重的一步，地面随之震动，镜头动态拉远至宽广的电影级全景，展现她威严的全身形象以及身后混乱的战场。尘埃和余烬在她腿部周围旋绕。伴有细微的机械运转声和能量嗡嗡声。
-
-超写实材质，复杂的金属纹理，体积光，电影级调色，使用 Arri Alexa 65 搭配变形镜头拍摄，IMAX 级画质，超高细节，照片级真实感，史诗般宏伟的氛围，24fps，平滑运动，完美的解剖结构和机械细节。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c9a4b2e7bfe22645ff144e9d1132f4ce/thumbnails/thumbnail.jpg" width="600" alt="御龙机甲战士">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4412)**
-
-**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **来源:** [Link](https://x.com/ThoughCreator/status/2052454754220122616) | **发布时间:** May 7, 2026
-
----
-### 摄像机后拉角色揭示
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是一个专为 Grok Imagine 设计的提示词，旨在通过戏剧性的摄像机后拉运镜，揭示与第一位角色并肩站立的第二位角色。
-
-#### 📝 提示词
-
-```
-摄像机向后拉，揭示出另一位女性，黑发红眼，她们并肩站立，手牵着手
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ead034b3e9fd8adccad2ed08dbbca2c7/thumbnails/thumbnail.jpg" width="600" alt="摄像机后拉角色揭示">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4415)**
-
-**作者:** [Benjamin Ferrarini](https://x.com/Granddragonben) | **来源:** [Link](https://x.com/Granddragonben/status/2052418646790586768) | **发布时间:** May 7, 2026
-
----
-### 森林溪流中的金属巨龙
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段细腻的电影级序列，展现了绿色和蓝色的金属巨龙飞过开满鲜花的草地，并潜入森林溪流的场景。
-
-#### 📝 提示词
-
-```
-穿过森林的溪流，开满黄色小花的小草地，柔和的中光下，一条金属绿色的巨龙飞入视野，潜入水中，随后又飞出水面，紧接着一条午夜蓝色的金属光泽巨龙紧随其后。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/af21a57e04da9ddf2af1b2f5a13a3588/thumbnails/thumbnail.jpg" width="600" alt="森林溪流中的金属巨龙">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4410)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2052408031577874847) | **发布时间:** May 7, 2026
-
----
-### 充满侘寂美感的迷人 T 台走秀
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一个描述性提示词，用于让角色在华丽的 T 台上行走，同时保留其独特、粗犷的艺术风格并展现自信。
-
-#### 📝 提示词
-
-```
-我希望她走在华丽的 T 台上，同时不改变图像中那种粗犷但迷人的质感。我希望看到她以一种展现世界之美的方式行走，充满自信并融入侘寂美学。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4bc0254160c56ffc041f20a41228644f/thumbnails/thumbnail.jpg" width="600" alt="充满侘寂美感的迷人 T 台走秀">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4418)**
-
-**作者:** [だえぽ](https://x.com/daepo08) | **来源:** [Link](https://x.com/daepo08/status/2052362850891632810) | **发布时间:** May 7, 2026
-
----
-### 神圣赛博战士变身
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段 6 秒的复杂电影级视频提示词，详细描述了未来寺庙中神圣机甲战士的变身过程。
-
-#### 📝 提示词
-
-```
-一段 6 秒令人叹为观止的电影级视频，展现顶尖的变形过程。
-
-从超特写镜头开始，聚焦于一位极其精细的赛博战士，他佩戴着参考图中那种时尚的白银色机械头盔：发光的红色圆形光学镜头伴随着能量旋转，露出错综复杂的齿轮和活塞，多根粗壮且灵活的呼吸管，华丽的银色角和尖刺，身披印有金色神圣符号的黑色长袍。头盔设计既神圣又充满威慑力。
-
-战士在实时中进行戏剧性的变身：装甲板以机械精度移动并展开，发光的能量线在身体上脉动，新的武器系统从肩部和手臂中显现，能量与金属构成的翅膀展开。火花、电弧和全息符文四处飞溅。背景是一个黑暗的未来赛博寺庙，伴有霓虹蓝紫色的灯光、漂浮的碎片和能量粒子。
-
-动态镜头：从头盔的紧凑镜头开始，随后平滑拉远并环绕正在变身的战士，他升起并摆出强有力的战斗姿态，红色的双眼闪烁得更加明亮。在变身巅峰（约 3-4 秒处）采用史诗般的慢动作，移动部件带有强烈的运动模糊，神圣光束，电影级调色，超写实细节，8K 画质，暗示着史诗般的管弦乐音效设计。
-
-风格：超写实，照片级真实感，赛博朋克与神圣科幻的结合，极致的机械细节，完美的动画，杰作。
-时长：精确 6 秒，24fps，流畅动作。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9671a526c0fb5b4235b0005e31005421/thumbnails/thumbnail.jpg" width="600" alt="神圣赛博战士变身">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4411)**
-
-**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **来源:** [Link](https://x.com/ThoughCreator/status/2052328407753486539) | **发布时间:** May 7, 2026
-
----
-### 宁静的早晨门廊场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个关于森林河流旁门廊上两位女性闲聊的宁静早晨场景的高度描述性提示词。
-
-#### 📝 提示词
-
-```
-一个宁静的早晨，木质带顶门廊俯瞰着被茂密森林和野花环绕的平静河流，温暖的金色阳光穿过树木倾泻而下。在门廊上，两位女性坐在舒适的白色旋转椅上，面带微笑，正在闲聊……
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/89dc298e63ec679c3a98afb43fc6cfef/thumbnails/thumbnail.jpg" width="600" alt="宁静的早晨门廊场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4409)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2052306597393666105) | **发布时间:** May 7, 2026
-
----
-### 天界凤凰精灵女皇
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是一个高度精细的暗黑奇幻提示词，用于创作一段电影质感的视频，展现一位拥有白色凤凰羽翼的尊贵精灵女皇，背景设定在充满戏剧性的冰岛悬崖边缘，伴有体积雾和祖母绿装饰。
-
-#### 📝 提示词
-
-```
-暗黑奇幻，超写实电影级低角度全身肖像，尊贵的精灵战士女皇站在戏剧性的冰岛黑色玄武岩悬崖边缘，身后浓重的体积雾缭绕，阴郁的阴天。姿态优雅从容，穿着带有祖母绿装饰的天界金色高跟鞋，苍白发光的皮肤，精致的精灵五官，闪烁的祖母绿双眼，饰有凤凰图案的复杂金色角状头盔，带有祖母绿装饰和战斗磨损的流线型拉丝金解剖盔甲，及地深祖母绿丝绸长裙，完全覆盖双腿，无开叉，丰富的金色凤凰羽毛刺绣在盔甲和长裙间融合，长丝绸披风在风中飘动，背部伸展出巨大的白色凤凰羽翼，羽尖带有金色，羽脉呈现金色，与盔甲和披风无缝融合，手持高大华丽的金色与黑曜石天界法杖，顶端镶嵌发光的祖母绿，戏剧性的轮廓光，青金色调，电影氛围，变形镜头感，超精细，杰作。
-```
-
-<img src="https://cms-assets.youmind.com/media/1778227021810_0fcpan_HHsxiBcWgAEVcuK.jpg" width="600" alt="天界凤凰精灵女皇">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4417)**
-
-**作者:** [DUST](https://x.com/Dustfinger2077) | **来源:** [Link](https://x.com/Dustfinger2077/status/2052288595843535324) | **发布时间:** May 7, 2026
-
----
-### 海盗船风暴场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个详细的电影级视频提示词，用于描绘海盗船场景，包含被盐水浸湿的甲板和混乱的暴风。
-
-#### 📝 提示词
-
-```
-风暴正在形成。大炮已就绪。甲板上满是盐渍与混乱。狂风撕裂着船帆。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/43c58805936b142557caa47d7c2051c8/thumbnails/thumbnail.jpg" width="600" alt="海盗船风暴场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4419)**
-
-**作者:** [Mario Nawfal](https://x.com/MarioNawfal) | **来源:** [Link](https://x.com/MarioNawfal/status/2052263407475454007) | **发布时间:** May 7, 2026
-
----
-### 星愿纸浆小说封面
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一部电影质感的视频，采用复古纸浆小说封面风格，以星辰与愿望为主题。
-
-#### 📝 提示词
-
-```
-她说愿望会在星辰中汇聚，最终实现。Plantilla Pulp Cover
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7266275606f86c260fc5a0ab27bbedaf/thumbnails/thumbnail.jpg" width="600" alt="星愿纸浆小说封面">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4413)**
-
-**作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **来源:** [Link](https://x.com/clemensilverio/status/2052225158006395260) | **发布时间:** May 7, 2026
-
----
-### 神级旁白与时间之门视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个电影感十足的视频提示词：充满力量的神级旁白警告旅行者，进入神秘的时间之门将面临风险。
-
-#### 📝 提示词
-
-```
-神级旁白轰然响起，宣告此处为时间之门，凡人进入需自担风险
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f61b4328631947cf9c827aeff541f348/thumbnails/thumbnail.jpg" width="600" alt="神级旁白与时间之门视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4343)**
-
-**作者:** [Make Britain Great Again](https://x.com/DragonFlam7530) | **来源:** [Link](https://x.com/DragonFlam7530/status/2052151532276060620) | **发布时间:** May 6, 2026
-
----
-### 女巫法杖魔法冲击
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个充满动作感的奇幻视频提示词，讲述了一位女巫在沙漠场景中使用魔法击退执政官的故事。
-
-#### 📝 提示词
-
-```
-女巫挥动法杖抵御执政官，强大的魔法冲击迸发而出，将执政官击飞，使其无助地跌入沙中
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/67672a2b9a797b23b911230ca707c3e9/thumbnails/thumbnail.jpg" width="600" alt="女巫法杖魔法冲击">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4340)**
-
-**作者:** [David Avenue Media](https://x.com/davidavenueai) | **来源:** [Link](https://x.com/davidavenueai/status/2052139435421249926) | **发布时间:** May 6, 2026
-
----
-### 狗狗兴奋迎接视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份详细的视频提示词，用于生成狗狗兴奋跳跃迎接的动画，并包含关于修改黑色狗狗体型和品种外观的具体说明。
-
-#### 📝 提示词
-
-```
-让它们跳起来，开心地迎接我。剪掉拳师犬的尾巴。将黑色狗狗的体型放大 15%。让黑色狗狗看起来像拉布拉多混种。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9885ee480f8513d1dba82cae768edb40/thumbnails/thumbnail.jpg" width="600" alt="狗狗兴奋迎接视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4345)**
-
-**作者:** [Bellamoe](https://x.com/Bellamoe7575) | **来源:** [Link](https://x.com/Bellamoe7575/status/2052131335460827604) | **发布时间:** May 6, 2026
-
----
-### 悬浮武僧寺庙场景序列
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段详尽的高魔奇幻视频提示词，描述了一位悬浮的武僧在布满碎石的庭院中使用魔法原力波的场景。
-
-#### 📝 提示词
-
-```
-一位年轻的武僧悬浮在寺庙庭院半空中，双手释放出闪烁的同心圆状无形原力波，碎石和散落的石块在他周围呈圆形漂浮，古老的旗帜剧烈飘动
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4c3edf0da81224d8d726206a735a78dd/thumbnails/thumbnail.jpg" width="600" alt="悬浮武僧寺庙场景序列">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4334)**
-
-**作者:** [LudovicCreator](https://x.com/LudovicCreator) | **来源:** [Link](https://x.com/LudovicCreator/status/2052123758622548070) | **发布时间:** May 6, 2026
-
----
-### 红康乃馨交换
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是一个高度详细的电影级视频提示词，展示了两位女性（分别代表过去和现在的自己）之间感人的红康乃馨交换过程。
-
-#### 📝 提示词
-
-```
-请使用附带的图片作为写实电影级视频的第一帧。保持画面中的两位女性不变，确保面部特征、身份、服装、温暖的摄影棚背景、光影效果以及构图与原图一致。左侧较年轻的女性（代表 10 年前的自己）轻轻向画面左侧边缘伸手，取出一朵红康乃馨。她带着温柔感人的微笑看向右侧现在的自己，并缓慢地做出将康乃馨递给对方的动作。右侧现在的女性温暖地微笑，将双手从下巴下方微微放下，并伸向那朵花。随后，两人缓慢转向镜头，共同将手向前伸出，将这朵红康乃馨呈现给观众。动作应缓慢、自然、细腻且富有情感。使用柔和的电影级摄影棚灯光，配合微妙的缓慢推镜头，并采用温暖柔和的色调。使其看起来像一段专业的实拍视频。请务必保留起始图片中的确切面容、发型、体型、年龄差异、服装、背景和整体风格。请勿改变她们的身份。请勿添加额外的人员或物体。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4d114849e4c5dbe8688b303e3aa30517/thumbnails/thumbnail.jpg" width="600" alt="红康乃馨交换">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4338)**
-
-**作者:** [山田イトウ｜還暦AI伴走者](https://x.com/I_Yamada_AI) | **来源:** [Link](https://x.com/I_Yamada_AI/status/2052080458243203314) | **发布时间:** May 6, 2026
-
----
-### 美人鱼海豚波浪序列
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个复杂的奇幻序列，描绘了一条海豚形状的美人鱼在充满鱼群的波浪中游动，并与月亮的倒影进行互动。
-
-#### 📝 提示词
-
-```
-将其制作成海洋中的波浪，浪中充满鱼群，一条有着红棕色头发的海豚形状美人鱼沿着浪尖游动，并说道：“我究竟会是哪种英语使用者呢？”，随后她抓住了月亮的倒影并升起。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bcb5b97e2d2dc68953e9760afd725fe6/thumbnails/thumbnail.jpg" width="600" alt="美人鱼海豚波浪序列">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4342)**
-
-**作者:** [Holliday Rush](https://x.com/HollidayRu41904) | **来源:** [Link](https://x.com/HollidayRu41904/status/2052073784937451529) | **发布时间:** May 6, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2260,6 +2246,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-05-17T04:02:20.056Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-05-17T09:55:25.328Z</sub>
 
 </div>
