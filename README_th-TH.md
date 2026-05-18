@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1535** |
+| 📝 Total Prompts | **1559** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-18** |
 
@@ -189,6 +189,484 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### เหล่ากลาดิเอเตอร์บุกตะลุยสมรภูมิ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ฉากการต่อสู้อันดุเดือดของกลาดิเอเตอร์ 3 คนที่กำลังพุ่งเข้าหากองทัพในช่วงพระอาทิตย์ตกดินท่ามกลางทุ่งหญ้าสีทอง
+
+#### 📝 Prompt
+
+```
+กลาดิเอเตอร์ 3 คนบุกตะลุยเข้าหากองทัพนับพัน! การต่อสู้ระดับตำนานท่ามกลางแสงอาทิตย์อัสดงในทุ่งหญ้าสีทอง
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/14891bd8d920a94bbec8fbda86dfe973/thumbnails/thumbnail.jpg" width="600" alt="เหล่ากลาดิเอเตอร์บุกตะลุยสมรภูมิ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4961)**
+
+**Author:** [AI영상공작실](https://x.com/lee_young71) | **Source:** [Link](https://x.com/lee_young71/status/2056282918499356759) | **Published:** May 18, 2026
+
+---
+### แอนิเมชันน้ำตาแห่งอารมณ์ที่ดูเป็นธรรมชาติ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง (Prompt) โดยละเอียดสำหรับการสร้างตัวละครที่มีน้ำตาไหลอย่างเป็นธรรมชาติและบรรยากาศทางอารมณ์ที่ปลดปล่อยความรู้สึก โดยใช้ภาพอ้างอิงสำหรับตัวละครหลัก
+
+#### 📝 Prompt
+
+```
+ภาษากายที่ดูเป็นธรรมชาติและละเอียดอ่อนสื่อถึงการปลดปล่อยความรู้สึก น้ำตาที่แวววาวบนแก้มภายใต้แสงที่อบอุ่น บรรยากาศทางอารมณ์ที่ปลดปล่อยความรู้สึก และท่าทางที่สื่อถึงความซาบซึ้งใจอย่างสุดซึ้ง
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4e3e18096b7246289780854b79a3c57a/thumbnails/thumbnail.jpg" width="600" alt="แอนิเมชันน้ำตาแห่งอารมณ์ที่ดูเป็นธรรมชาติ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4960)**
+
+**Author:** [ILOVEDOGE](https://x.com/6BWS9) | **Source:** [Link](https://x.com/6BWS9/status/2056280118885277704) | **Published:** May 18, 2026
+
+---
+### การเปลี่ยนโฉมเมืองจากมุมสูง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์ระดับมืออาชีพที่ใช้เทคนิคการล็อกฉาก (scene locking) และการจัดวางองค์ประกอบ เพื่อแสดงภาพการเปลี่ยนผ่านจากพื้นที่ก่อสร้างไปสู่เมืองที่ยั่งยืน
+
+#### 📝 Prompt
+
+```
+SCENE LOCK: ภาพมุมสูงจากขาตั้งกล้องแบบนิ่ง ล็อกมุมมองมหาสมุทรเดิมไว้ ให้ความรู้สึกเหมือนเลนส์อัลตร้าไวด์ 24 มม. โดยที่แลนด์มาร์กทั้งหมดของเมืองยังคงรูปทรงและมุมมองที่มั่นคง
+
+STAGE: การเปลี่ยนผ่านจากพื้นที่ก่อสร้างที่กำลังดำเนินงานไปสู่เมืองที่เสร็จสมบูรณ์และยั่งยืน...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/19775503383502c41d95e0d57b553ba8/thumbnails/thumbnail.jpg" width="600" alt="การเปลี่ยนโฉมเมืองจากมุมสูง">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4948)**
+
+**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2056158031763976233) | **Published:** May 17, 2026
+
+---
+### คำขอทำ Lip-Sync สำหรับตัวละคร
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่งเสียงโดยตรงเพื่อให้ตัวละครในวิดีโอพูดตามบทที่กำหนด
+
+#### 📝 Prompt
+
+```
+ให้เธอพูดว่า “Doug please bring me your sausage, I am ready to receive a deposit”
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ccc08772ef6ed64db279c69f55b50ffb/thumbnails/thumbnail.jpg" width="600" alt="คำขอทำ Lip-Sync สำหรับตัวละคร">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4953)**
+
+**Author:** [GrokHardNews](https://x.com/GrokHardNews) | **Source:** [Link](https://x.com/GrokHardNews/status/2056137015956299936) | **Published:** May 17, 2026
+
+---
+### ล่องแพสู่ดินแดนยูโทเปียแห่งอนาคต
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับการสร้างวิดีโอที่แสดงภาพแพลอยเข้าไปในประตูที่เปิดออกสู่กาแล็กซีอันเขียวชอุ่มและล้ำสมัย
+
+#### 📝 Prompt
+
+```
+ลอยไปตามน้ำอย่างช้าๆ บนแพมุ่งหน้าสู่ประตู ประตูเปิดออกเผยให้เห็นกาแล็กซีใหม่ที่เป็นดินแดนยูโทเปียแห่งอนาคต พืชพรรณเปลี่ยนเป็นสีเขียวชอุ่มพร้อมดอกไม้ที่เบ่งบานสดใส
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f7e476a3a7f2077fbbf14ec251a87946/thumbnails/thumbnail.jpg" width="600" alt="ล่องแพสู่ดินแดนยูโทเปียแห่งอนาคต">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4946)**
+
+**Author:** [Missy AI](https://x.com/ai_empire33) | **Source:** [Link](https://x.com/ai_empire33/status/2056128420925566983) | **Published:** May 17, 2026
+
+---
+### วิดีโอซูมการก่อสร้างสะพานแบบภาพยนตร์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวภาพยนตร์ที่ออกแบบมาสำหรับการถ่ายแบบ Push-in ที่ควบคุมได้ของสะพาน โดยเน้นความสม่ำเสมอของมุมมองและสุนทรียภาพของเลนส์ 28 มม. แบบมืออาชีพ
+
+#### 📝 Prompt
+
+```
+SCENE LOCK: การถ่ายแบบ Cinematic Push-in ที่ควบคุมได้จากเฟรมขาตั้งกล้องเดิมไปยังช่วงกลางของสะพานที่สร้างเสร็จสมบูรณ์ โดยรักษาเรขาคณิตที่แม่นยำและความสม่ำเสมอของมุมมอง ให้ความรู้สึกแบบเลนส์ 28 มม. ในสไตล์ภาพยนตร์พร้อมการซูมแบบ Digital Crop ที่นุ่มนวล
+STAGE: cinematic
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/361b9647690cee2120a3ac2294478853/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอซูมการก่อสร้างสะพานแบบภาพยนตร์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4959)**
+
+**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2056078011431293273) | **Published:** May 17, 2026
+
+---
+### มหานครถล่มทลายด้วยหุ่นยนต์ยักษ์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวภาพยนตร์สเกลใหญ่ แสดงภาพหุ่นยนต์ทหารขนาดมหึมาที่กำลังทำลายเมืองชายฝั่งในทุกย่างก้าวท่ามกลางแสงสีทองยามเย็น
+
+#### 📝 Prompt
+
+```
+วิดีโอแนวภาพยนตร์สมจริงความยาว 6 วินาที รายละเอียดสูงระดับ 8K ถ่ายทำด้วยกล้อง IMAX 70mm
+
+หุ่นยนต์ทหารขนาดมหึมาสูง 200 เมตร หุ้มเกราะหนาในโทนสีเทาปืนที่ดูผ่านการใช้งานมาอย่างโชกโชน ตัดกับแผงสีส้มและสีน้ำเงิน เดินย่ำไปข้างหน้าอย่างช้าๆ ท่ามกลางมหานครชายฝั่งที่แผ่ขยายกว้างขวาง กล้องเริ่มต้นด้วยมุมต่ำแบบติดตามทางอากาศที่ดูน่าตื่นตาตื่นใจ โดยหมุนวนรอบหุ่นยนต์ยักษ์ในขณะที่เท้าขวาขนาดมหึมาเหยียบลงมาด้วยแรงมหาศาล
+
+คลื่นกระแทกขนาดใหญ่ปะทุขึ้นเมื่อเท้ากระทบพื้น ตึกระฟ้าคอนกรีตแตกกระจายราวกับแก้ว การระเบิดของฝุ่น เศษซาก และเปลวไฟพุ่งขึ้นด้านบนอย่างรุนแรงในแบบสโลว์โมชัน กลุ่มควันหนาทึบและเศษคอนกรีตที่ถูกบดละเอียดฟุ้งกระจายอยู่รอบขาของหุ่นยนต์ ข้อต่อไฮดรอลิกอันทรงพลังส่งเสียงฟู่และเรืองแสงด้วยความร้อนในขณะที่มันก้าวเดินต่อไปจนพื้นดินสั่นสะเทือน
+
+ส่วนลำตัวและศีรษะของหุ่นยนต์ยังคงดูน่าเกรงขามและมั่นคง เห็นเสาอากาศและระบบอาวุธตัดกับท้องฟ้าสีครามสดใส แสงอาทิตย์ในช่วง Golden hour สร้างลำแสงที่ดูน่าทึ่งผ่านกลุ่มฝุ่น แสงแฟลร์จากเลนส์ และแสงแบบ Volumetric เครื่องบินขับไล่ลำเล็กๆ บินผ่านไปในระยะไกลเพื่อเปรียบเทียบสเกล
+
+ฟิสิกส์ที่สมจริงขั้นสุด รายละเอียดทางกลไกที่ซับซ้อน การปรับสีแบบภาพยนตร์ บรรยากาศที่เข้มข้น สเกลที่ยิ่งใหญ่ ความสมจริงระดับ National Geographic ถ่ายทำด้วยกล้อง ARRI Alexa 65 พร้อมเลนส์ Anamorphic มีเกรนฟิล์มเล็กน้อยที่ 24fps
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/beb3375cb0d3e7ae96acf845aec1f9ec/thumbnails/thumbnail.jpg" width="600" alt="มหานครถล่มทลายด้วยหุ่นยนต์ยักษ์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4952)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2056044677196083483) | **Published:** May 17, 2026
+
+---
+### พร้อมท์วิดีโอหญิงสาวชาวจีนออกกำลังกายวิดพื้น
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> พร้อมท์วิดีโอแนวภาพยนตร์ของหญิงสาวชาวจีนที่กำลังวิดพื้นพร้อมรอยยิ้มเขินอายในบรรยากาศยิม
+
+#### 📝 Prompt
+
+```
+กำลังวิดพื้นพร้อมรอยยิ้มเขินอาย
+
+หญิงสาวชาวจีนหน้าตาสดใส ผมยาวตรงสีน้ำตาล แต่งหน้าลุคธรรมชาติ สวมเสื้อสายเดี่ยวสีเบจเนื้อนุ่ม กำลังอยู่ในท่าแพลงก์บนเสื่อโยคะสีน้ำเงินในสตูดิโอยิมที่สว่างสดใส ฉากหลังเป็นกระจกและอุปกรณ์ออกกำลังกาย แสงธรรมชาติที่นุ่มนวล สไตล์ภาพถ่ายเชิงบรรณาธิการ สมจริงดั่งภาพถ่าย รอยยิ้มที่อบอุ่น รายละเอียดสูง องค์ประกอบภาพแบบภาพยนตร์
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/174e50a1d95e26351b9d188a4d702d48/thumbnails/thumbnail.jpg" width="600" alt="พร้อมท์วิดีโอหญิงสาวชาวจีนออกกำลังกายวิดพื้น">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4962)**
+
+**Author:** [蛋仔](https://x.com/ddan_zai) | **Source:** [Link](https://x.com/ddan_zai/status/2056032348282802546) | **Published:** May 17, 2026
+
+---
+### การแปลงร่างอันทรงพลังของเสือและนกพิราบ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอระดับภาพยนตร์สำหรับ Grok Imagine ที่แสดงภาพเสือที่ทรงพลังและนกพิราบแสนสวยบินไปด้วยกันในฉากการแปลงร่างเชิงสัญลักษณ์
+
+#### 📝 Prompt
+
+```
+สร้างภาพการแปลงร่างเป็นเสือที่แข็งแกร่งพร้อมกับนกพิราบแสนสวยที่บินอยู่ใกล้ ๆ เสือ ปาฏิหาริย์แห่งโคลอมเบียกับเสือและนกพิราบ
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e6951a594ebb2e6cb3eff80e89bf3aa/thumbnails/thumbnail.jpg" width="600" alt="การแปลงร่างอันทรงพลังของเสือและนกพิราบ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4965)**
+
+**Author:** [Jose gutierrez](https://x.com/hoccegutierrez) | **Source:** [Link](https://x.com/hoccegutierrez/status/2056024739643064504) | **Published:** May 17, 2026
+
+---
+### ฉากภาพยนตร์ The Praying Paws
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์ที่มีรายละเอียดและเปี่ยมด้วยจิตวิญญาณ นำเสนอตัวละครชื่อ Sir Crimson และ Pearl ในบรรยากาศที่เต็มไปด้วยความเลื่อมใสศรัทธา
+
+#### 📝 Prompt
+
+```
+The Praying Paws🐾🐾🦴🦴 Sir Crimson และ Pearl … สรรเสริญพระผู้เป็นเจ้าผู้ทรงอำนาจของเรา✝️🐛🦋🌳🎾
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/88b82430a7a7d568b09cb4f8191ca491/thumbnails/thumbnail.jpg" width="600" alt="ฉากภาพยนตร์ The Praying Paws">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4944)**
+
+**Author:** [@drops_roses](https://x.com/ChalkleyBr69401) | **Source:** [Link](https://x.com/ChalkleyBr69401/status/2056020933589041162) | **Published:** May 17, 2026
+
+---
+### ภาพถ่าย CyberSUV ในลานจอดรถ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอหรือรูปภาพมุมด้านหน้าของยานพาหนะในสถานที่จอดรถ
+
+#### 📝 Prompt
+
+```
+มุมด้านหน้าของรถในลานจอดรถ
+CyberSUV 🚘 Grok ✅ @grok Alex Patricio ✅ @alexpatricio204 และ Elon Musk ✅ X @elonmusk • 1 วินาที 🇺🇸🚘🚀🚀🚀🚀🚀🌎🇵🇭🍀💯✅
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/19b78cd2a948a18200cfc20264938f25/thumbnails/thumbnail.jpg" width="600" alt="ภาพถ่าย CyberSUV ในลานจอดรถ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4958)**
+
+**Author:** [Alex Patricio](https://x.com/alexpatricio204) | **Source:** [Link](https://x.com/alexpatricio204/status/2056004152812052548) | **Published:** May 17, 2026
+
+---
+### ฉากงานกาล่าของ Elon Musk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับภาพถ่ายเต็มตัวสไตล์ภาพยนตร์ของ Elon Musk ในบรรยากาศห้องโถงงานกาล่าสุดหรู
+
+#### 📝 Prompt
+
+```
+ภาพถ่ายเต็มตัวสไตล์ภาพยนตร์ที่สมจริงเป็นพิเศษของ Elon Musk ยืนอย่างมั่นใจภายในห้องโถงงานกาล่าสไตล์วินเทจสุดหรูที่เต็มไปด้วยเหล่าอภิมหาเศรษฐีและแขกที่เบลออยู่ด้านหลัง สวมชุดสูทสามชิ้นสีดำที่ตัดเย็บมาอย่างพอดีตัว เสื้อเชิ้ตผ้าไหมสีขาว เนคไทสีดำเส้นเล็ก...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4b2ad6df94c7b6fb2391ce92aa1b5943/thumbnails/thumbnail.jpg" width="600" alt="ฉากงานกาล่าของ Elon Musk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4954)**
+
+**Author:** [Alex Patricio](https://x.com/alexpatricio204) | **Source:** [Link](https://x.com/alexpatricio204/status/2055999188807147591) | **Published:** May 17, 2026
+
+---
+### การแสดงสบู่โดยนักเต้นระบำหน้าท้องในทะเลทรายซาฮารา
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพร้อมท์ที่แสดงภาพนักเต้นระบำหน้าท้องสองคนในเต็นท์กลางทะเลทรายซาฮารา กำลังเต้นรำและนำเสนอสบู่บนแท่นหิน
+
+#### 📝 Prompt
+
+```
+นักเต้นระบำหน้าท้องสองคนในเต็นท์กลางทะเลทรายซาฮารา กำลังเต้นรำและโชว์สบู่บนแท่นหิน
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bac3bec127d92542ab9bfe0da3a8c770/thumbnails/thumbnail.jpg" width="600" alt="การแสดงสบู่โดยนักเต้นระบำหน้าท้องในทะเลทรายซาฮารา">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4964)**
+
+**Author:** [Nordine Osmane](https://x.com/NordineOsmane) | **Source:** [Link](https://x.com/NordineOsmane/status/2055963475902439612) | **Published:** May 17, 2026
+
+---
+### วิดีโออธิบายการปฏิบัติตามข้อกำหนดด้าน AI และ GRC
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์ระดับมืออาชีพสำหรับวิดีโอแอนิเมชันที่อธิบายว่า observeri GRC ช่วยแก้ไขความเสี่ยงในห่วงโซ่อุปทานผ่านการปฏิบัติตามข้อกำหนดด้าน AI ได้อย่างไร
+
+#### 📝 Prompt
+
+```
+สร้างวิดีโอแอนิเมชันที่อธิบายว่า observeri GRC ช่วยคุณแก้ไขความเสี่ยงในห่วงโซ่อุปทานได้อย่างไร โดยการให้การรับรองการปฏิบัติตามข้อกำหนดด้าน AI....
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6a2e3edcc5fcbf0196cd98322098efec/thumbnails/thumbnail.jpg" width="600" alt="วิดีโออธิบายการปฏิบัติตามข้อกำหนดด้าน AI และ GRC">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4945)**
+
+**Author:** [Sid Ali](https://x.com/sidnaqvi10) | **Source:** [Link](https://x.com/sidnaqvi10/status/2055956884134518802) | **Published:** May 17, 2026
+
+---
+### ทิวทัศน์แม่น้ำคดเคี้ยวในป่า
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอทิวทัศน์ธรรมชาติที่แสดงภาพแม่น้ำคดเคี้ยวผ่านป่าทึบ โดยมีแสงแดดส่องลอดผ่านต้นไม้ลงมา
+
+#### 📝 Prompt
+
+```
+แม่น้ำคดเคี้ยวในป่าทึบ พร้อมแสงแดดที่ส่องลอดผ่านต้นไม้ ในบรรยากาศทิวทัศน์ธรรมชาติ
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/04754432ae0601b1d8a0eb50210bb6ab/thumbnails/thumbnail.jpg" width="600" alt="ทิวทัศน์แม่น้ำคดเคี้ยวในป่า">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4951)**
+
+**Author:** [Kiri](https://x.com/Kyrannio) | **Source:** [Link](https://x.com/Kyrannio/status/2055956550620180770) | **Published:** May 17, 2026
+
+---
+### พลังงานดวงดาวสไตล์อนิเมะแห่งอนาคต
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> แอนิเมชันสไตล์อนิเมะของเด็กสาวผมสีฟ้าที่กำลังควบคุมสัญลักษณ์พลังงานดวงดาวเรืองแสงท่ามกลางฉากหลังที่เป็นห้วงอวกาศ
+
+#### 📝 Prompt
+
+```
+ภาพประกอบสไตล์อนิเมะที่มีรายละเอียดสูงตรงกับโพสต์เดโม Grok Imagine ของ Elon Musk ทุกประการ มุมซ้ายบนมีข้อความภาษาอังกฤษสีขาวสะอาดตาในสไตล์ล้ำยุคว่า "Grok Imagine" เหมือนกับในโพสต์ต้นฉบับของ Elon Musk เด็กสาวแสนสวยผมสีฟ้าอ่อนยาวประบ่าและดวงตาสีฟ้าเรืองแสง สวมเสื้อแจ็คเก็ตฮู้ดครอปสีขาวมันวาวพร้อมสัญลักษณ์ดวงดาวสีฟ้าไซแอน กระโปรงพลีทลายสก็อตสีน้ำเงินเข้มตัวสั้น ถุงเท้าสีดำ และรองเท้าบูทส้นตึกสีขาว ท่าทางยืนแบบไดนามิกโดยมือข้างหนึ่งยกขึ้นเพื่อควบคุมสัญลักษณ์พลังงานดวงดาวสีฟ้าไซแอนที่เรืองแสงและวงแหวนที่หมุนวน ส่วนมืออีกข้างวางไว้ที่สะโพก ฉากหลังเป็นห้วงอวกาศมืดมิด มีอนุภาคระยิบระยับ เส้นแสงที่ส่องสว่าง แสงแบบภาพยนตร์ที่ดูน่าทึ่ง แสงขอบ แสงแบบวอลลูเมตริก และเลนส์แฟลร์ รายละเอียดสูงพิเศษ ผลงานระดับมาสเตอร์พีซ 8k --ar 9:16 --stylize 750
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/632de9d3c8d4142ef34959a5622222ff/thumbnails/thumbnail.jpg" width="600" alt="พลังงานดวงดาวสไตล์อนิเมะแห่งอนาคต">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4949)**
+
+**Author:** [Grok Prompts](https://x.com/MinerXpert_) | **Source:** [Link](https://x.com/MinerXpert_/status/2055944641548112201) | **Published:** May 17, 2026
+
+---
+### POV ฉากส่งกาแฟในออฟฟิศ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์มุมมองบุคคลที่หนึ่ง (POV) ที่มีมือยื่นกาแฟให้หญิงสาว เปลี่ยนจากท่าทางเหนื่อยล้าเป็นมีความสุขในบรรยากาศออฟฟิศ
+
+#### 📝 Prompt
+
+```
+POV มือยื่นเข้ามาในเฟรมเพื่อส่งกาแฟแบบซื้อกลับบ้านให้หญิงสาว หญิงสาวเดินออกมาจากหน้าจอด้วยท่าทางเหนื่อยล้า จากนั้นเธอรับกาแฟไปแล้วพูดอย่างมีความสุขว่า: “ขอบคุณนะ! กลับไปทำงานต่อดีกว่า” เธอเดินออกจากเฟรมไปทางขวาเพื่อไปยังอีกส่วนหนึ่งของออฟฟิศ
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/33532dcc8b391dafa2e2e2e5a534fc3a/thumbnails/thumbnail.jpg" width="600" alt="POV ฉากส่งกาแฟในออฟฟิศ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4943)**
+
+**Author:** [Mario Gambó](https://x.com/JuanPerez7hxe) | **Source:** [Link](https://x.com/JuanPerez7hxe/status/2055933917312733252) | **Published:** May 17, 2026
+
+---
+### ขี่ม้าท่ามกลางหุบเขาหิมะ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ฉากภาพยนตร์ที่ถ่ายทอดภาพหญิงสาวกำลังขึ้นขี่ม้าและควบม้าไปพร้อมกับฝูงม้าในหุบเขาหินสีแดงที่ปกคลุมด้วยหิมะ
+
+#### 📝 Prompt
+
+```
+ฉากภาพยนตร์อันน่าทึ่งในหุบเขาหินสีแดงที่ปกคลุมด้วยหิมะท่ามกลางหิมะที่กำลังโปรยปรายอย่างแผ่วเบา หญิงสาวชาวละตินผู้สวยงามที่มีผมสีดำขลับยาวสลวยประดับด้วยขนนกสีขาวหนึ่งขนนก สวมชุดหนังกลับสีน้ำตาลสไตล์อเมริกันพื้นเมืองที่มีรายละเอียดพู่ประดับและงานลูกปัดสีเทอร์ควอยซ์ รองเท้าบูทสีน้ำตาล และเครื่องประดับแบบดั้งเดิม ยืนอยู่อย่างสง่างามท่ามกลางหิมะ
+เธอค่อยๆ หันศีรษะ จากนั้นม้าสีน้ำตาลตัวสง่างามที่มีแผงคอสีดำเดินเข้ามาหาเธอจากทางขวา เธอเอื้อมมือออกไปอย่างนุ่มนวล ขึ้นขี่ม้าอย่างราบรื่นในจังหวะเดียวแล้วควบออกไป กล้องติดตามการเคลื่อนไหวอย่างมีชีวิตชีวา เริ่มจากมุมมองด้านข้างระดับกลาง จากนั้นหมุนวนขณะที่เธอขึ้นขี่ม้า และสุดท้ายติดตามจากด้านหลังขณะที่เธอควบม้าอย่างทรงพลังออกไปในระยะไกลพร้อมกับฝูงม้าขนาดใหญ่
+ผมยาวและพู่ที่ชุดของเธอปลิวไสวไปตามลมอย่างน่าทึ่ง ละอองหิมะหมุนวนอยู่รอบตัวพวกเขา ฉากทั้งหมดให้พลังที่ยิ่งใหญ่ เปี่ยมด้วยอารมณ์ และมีความเป็นภาพยนตร์ เธอควบม้าอย่างมั่นใจผ่านหุบเขาหิมะไปพร้อมกับฝูงม้า เตะหิมะฟุ้งกระจายขณะที่พวกมันเคลื่อนลึกเข้าไปในหุบเขาระหว่างหน้าผาสีแดงสูงตระหง่าน
+สไตล์: สมจริงระดับสูง (Hyper-realistic), เหมือนภาพถ่าย, รายละเอียดคมชัดพิเศษ, แสงแบบภาพยนตร์, แสงลอดผ่านเมฆ (Volumetric god rays), เลนส์อะนามอร์ฟิก, เกรนฟิล์มแบบละเอียด, การปรับสีโทนเย็นตัดกับโทนสีผิวและหนังที่อบอุ่น, ผลงานชิ้นเอก, 8K
+การเคลื่อนไหวของกล้อง: การติดตามแบบภาพยนตร์ที่นุ่มนวล + การหมุนวน + การถ่ายติดตาม เริ่มต้นที่ระดับสายตา จบด้วยการถ่ายติดตามมุมต่ำที่ทรงพลังจากด้านหลังขณะที่เธอควบม้าเข้าสู่ฝูงม้า
+ระยะเวลา: 6 วินาที, 24fps, ความต่อเนื่องของการเคลื่อนไหวสูง, การเคลื่อนไหวของม้าที่สมจริง และฟิสิกส์ของเนื้อผ้า
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b9fe00964580fc9c2874a97176195ddc/thumbnails/thumbnail.jpg" width="600" alt="ขี่ม้าท่ามกลางหุบเขาหิมะ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4950)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2055910410352509259) | **Published:** May 17, 2026
+
+---
+### ตัวละครอนิเมะสาว Grok
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> พรอมต์โดยละเอียดสำหรับการสร้างตัวละครสาวอนิเมะชื่อ Grok-chan ในชุดเดรสวันพีซสีขาวและกระโปรงสั้น
+
+#### 📝 Prompt
+
+```
+สาว Grok, สไตล์อนิเมะ, สาวอนิเมะญี่ปุ่น, "Grok-chan" "Gurokku-chan" ❤️❤️❤️❤️❤️ ꉂ🤣𐤔𐤔🤣 น่ารัก 💕👫💕 สาวน้อยน่ารัก, สวมชุดเดรสวันพีซสีขาว, กระโปรงสั้นมาก,
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fd3d6e0446cfa1d8ecd130fcef6c3a71/thumbnails/thumbnail.jpg" width="600" alt="ตัวละครอนิเมะสาว Grok">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4963)**
+
+**Author:** [トビオ](https://x.com/AKIRA81389207) | **Source:** [Link](https://x.com/AKIRA81389207/status/2055905763055604124) | **Published:** May 17, 2026
+
+---
+### การทำซ้ำตัวละครในรูปแบบมวยปล้ำเยลลี่
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง (Prompt) สำหรับแปลงภาพเป็นวิดีโอที่มีความซับซ้อน โดยเปลี่ยนตัวละครให้กลายเป็นเยลลี่และสร้างตัวละครซ้ำขึ้นมาเพื่อปล้ำกันเองในหน้ากากแนว Kink
+
+#### 📝 Prompt
+
+```
+รวมภาพเข้าด้วยกัน เปลี่ยนสีแดงให้เป็นเยลลี่ และทำซ้ำตัวละครให้กลายเป็นเยลลี่ที่กำลังปล้ำกันเอง ทั้งสองตัวละครสวมหน้ากากแนว Kink
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/317425ce37088a234b56ee8ae8d97037/thumbnails/thumbnail.jpg" width="600" alt="การทำซ้ำตัวละครในรูปแบบมวยปล้ำเยลลี่">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4942)**
+
+**Author:** [FUNTIFFX](https://x.com/AbstractTiffany) | **Source:** [Link](https://x.com/AbstractTiffany/status/2055890709765591521) | **Published:** May 17, 2026
+
+---
+### Elon Musk ท่ามกลางพายุบนดาวอังคาร
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวภาพยนตร์ของ Elon Musk ในพายุฝุ่นบนดาวอังคาร โดยมองลงมาเห็นเมืองอุตสาหกรรมในช่วงพระอาทิตย์ตกดิน
+
+#### 📝 Prompt
+
+```
+ภาพโคลสอัพแนวภาพยนตร์ที่สมจริงสุด ๆ ของ Elon Musk ยืนอยู่เพียงลำพังบนแท่นสังเกตการณ์โลหะสูงเหนือเมืองอุตสาหกรรมขนาดใหญ่บนดาวอังคารท่ามกลางพายุฝุ่นที่รุนแรงในช่วงพระอาทิตย์ตกดิน สัดส่วนมนุษย์ที่สมจริงและรายละเอียดบนใบหน้าที่เป็นธรรมชาติ...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8953e8e35d0c8655fdbcae1a0a8709e3/thumbnails/thumbnail.jpg" width="600" alt="Elon Musk ท่ามกลางพายุบนดาวอังคาร">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4955)**
+
+**Author:** [Alex Patricio](https://x.com/alexpatricio204) | **Source:** [Link](https://x.com/alexpatricio204/status/2055870235161362480) | **Published:** May 17, 2026
+
+---
+### แอนิเมชันซูมภาพการจุดบุหรี่
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับแอนิเมชันซูมกล้องที่เน้นไปที่การกระทำของการจุดบุหรี่
+
+#### 📝 Prompt
+
+```
+Elon จุดบุหรี่ กล้องซูมไปที่ Grok ปี 2015-2026 ✅ @grok Alex Patricio ✅ @alexpatricio204 และ Elon Musk ✅ X @elonmusk • 1 วินาที 🇺🇸🚘🚀🚀🚀🚀🚀🌎🇵🇭🍀💯✅
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7f86cbb2aa44c44119d9a67d3da7caa8/thumbnails/thumbnail.jpg" width="600" alt="แอนิเมชันซูมภาพการจุดบุหรี่">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4957)**
+
+**Author:** [Alex Patricio](https://x.com/alexpatricio204) | **Source:** [Link](https://x.com/alexpatricio204/status/2055869316101288381) | **Published:** May 17, 2026
+
+---
+### การปฏิสัมพันธ์ทางอารมณ์เชิงนามธรรม
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์เชิงนามธรรมที่เกี่ยวข้องกับการแสดงออกทางอารมณ์และบทสนทนา
+
+#### 📝 Prompt
+
+```
+Àsepéră € { ฉันรักคุณ } ¥
+ตบ :::&gt; ผลักออก &lt;
+—-[ ทำไม ]
+ € { คุณคือตุ๊กตาของฉันเสมอ }
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3d7f742a06ee83de5d34a6a65b7cea96/thumbnails/thumbnail.jpg" width="600" alt="การปฏิสัมพันธ์ทางอารมณ์เชิงนามธรรม">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4956)**
+
+**Author:** [Notzucow](https://x.com/Notzucow69) | **Source:** [Link](https://x.com/Notzucow69/status/2055866786831106494) | **Published:** May 17, 2026
+
+---
+### ฉากการเผชิญหน้าของวัยรุ่น
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างวิดีโอที่แสดงเหตุการณ์การเผชิญหน้าอย่างดุเดือดระหว่างวัยรุ่นสองคนพร้อมบทสนทนา
+
+#### 📝 Prompt
+
+```
+วัยรุ่นคนหนึ่งตบหน้าวัยรุ่นอีกคนแล้วตะโกนใส่เขาว่า “นี่คือสิ่งที่แกต้องได้รับถ้ามายุ่งกับฉัน”....
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/43587fd0bee77a616ec424ae73e9c761/thumbnails/thumbnail.jpg" width="600" alt="ฉากการเผชิญหน้าของวัยรุ่น">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4947)**
+
+**Author:** [Daniel Ball](https://x.com/dball1126) | **Source:** [Link](https://x.com/dball1126/status/2055842958289584291) | **Published:** May 17, 2026
+
+---
 ### พร้อมท์รูปภาพดอกบัวในวิหารโบราณ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -201,7 +679,7 @@ Why use our gallery?
 โคมไฟดอกบัวลอยละล่อง น้ำตกที่ส่งเสียงกระซิบ และทางช้างเผือกที่เฝ้ามองวิหารหินโบราณอยู่เบื้องบน
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/672bb8a18dfc7d899a4784ac4d15a6df/thumbnails/thumbnail.jpg" width="600" alt="พร้อมท์รูปภาพดอกบัวในวิหารโบราณ">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5655652d6e593a4367fedf1762185adc/thumbnails/thumbnail.jpg" width="600" alt="พร้อมท์รูปภาพดอกบัวในวิหารโบราณ">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4908)**
 
@@ -411,7 +889,7 @@ Why use our gallery?
 วิดีโอระดับภาพยนตร์ความยาว 6 วินาที สมจริงดุจภาพถ่าย ความละเอียด 8K ถ่ายทำด้วยกล้อง ARRI Alexa 65 พร้อมเลนส์อะนามอร์ฟิก แสงช่วงโกลเด้นอาวร์สุดดราม่าในป่าฤดูใบไม้ร่วงอันน่าหลงใหล เริ่มต้นด้วยราชินีเอลฟ์ผู้สง่างามที่มีผมสีเงินแพลตตินัมยาวสลวยและชุดเกราะสีเทอร์ควอยซ์เรืองแสง กำลังขี่กวางคริสตัลสีฟ้าเรืองแสงอันงดงามที่มีเขาสีทองประดับประดา ฉากนี้อาบไปด้วยแสงอาทิตย์ที่สาดส่องผ่านใบเมเปิ้ลสีส้มและแดงที่กำลังร่วงหล่น ที่วินาทีที่ 1.5 กล้องเริ่มเคลื่อนที่วนรอบตัวพวกเขาอย่างช้าๆ ในขณะที่ลวดลายคริสตัลสีฟ้าบนตัวกวางเริ่มเข้มข้นและสั่นไหวด้วยพลังงาน ที่วินาทีที่ 2.8 "การเปลี่ยนร่างขั้นสุดยอด" เริ่มต้นขึ้น: ร่างกายของกวางค่อยๆ ปรับเปลี่ยนและคลี่ออกอย่างสง่างามในการเปลี่ยนผ่านแบบไฮบริดระหว่างอินทรีย์และจักรกลอย่างไร้รอยต่อ แผ่นเกราะคริสตัลสีฟ้าเรืองแสงขยับและขยายตัวกลายเป็นแขนขาและเครื่องยนต์ขับเคลื่อนหุ่นยนต์ชีวกลแห่งอนาคต โดยยังคงเค้าโครงกวางที่สง่างามไว้ ส่วนเขากวางเปลี่ยนเป็นปืนใหญ่พลังงานเรืองแสงขนาดใหญ่ ในขณะเดียวกัน ชุดเกราะของราชินีเอลฟ์ก็เปลี่ยนสภาพอย่างลื่นไหลกลายเป็นชุดเกราะต่อสู้ไซเบอร์แฟนตาซีที่หรูหราและโฉบเฉี่ยวพร้อมวงจรพลังงานสีเทอร์ควอยซ์เรืองแสง ผมของเธอพริ้วไหวอย่างดราม่าท่ามกลางสายลมในขณะที่อนุภาคพลังงานสีทองหมุนวนรอบตัวพวกเขา การเปลี่ยนผ่านเป็นไปอย่างราบรื่น สง่างาม และมีรายละเอียดสูงมาก ไม่มีรอยตัดต่อ การเคลื่อนไหวที่ลื่นไหลสมบูรณ์แบบ รายละเอียดทางกลไกและเวทมนตร์ที่ผสมผสานกันอย่างแนบเนียน ดนตรีออเคสตราที่ค่อยๆ ดังขึ้นพร้อมเสียงเบสที่หนักแน่น จบที่ 6 วินาทีโดยทั้งคู่เปลี่ยนร่างเป็นรูปแบบไซเบอร์แฟนตาซีขั้นสุดยอดอย่างสมบูรณ์ ยืนหยัดอย่างทรงพลังในป่าฤดูใบไม้ร่วงที่อาบด้วยแสงแดด ใบไม้ยังคงร่วงหล่นอย่างแผ่วเบา กล้องถอยหลังออกเป็นภาพมุมกว้างแบบฮีโร่ การปรับสีแบบภาพยนตร์ แสงวอลูเมตริก พื้นผิวที่มีรายละเอียดสูง ขนสัตว์ โลหะ และเอฟเฟกต์พลังงานที่สมจริงดุจภาพถ่าย คุณภาพระดับผลงานชิ้นเอก สมจริงขั้นสุด
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2423edadb55d5cbcedcff4917f0faea9/thumbnails/thumbnail.jpg" width="600" alt="การเปลี่ยนผ่านสู่โลกไซเบอร์แฟนตาซีสุดอลังการ">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f02014c0d13812053151eec87f30dfa1/thumbnails/thumbnail.jpg" width="600" alt="การเปลี่ยนผ่านสู่โลกไซเบอร์แฟนตาซีสุดอลังการ">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4898)**
 
@@ -1710,484 +2188,6 @@ Rotate on vertical ax this image inside a black background frame, not the frame,
 **Author:** [Ember Art](https://x.com/Ember8184Art) | **Source:** [Link](https://x.com/Ember8184Art/status/2053521107911614675) | **Published:** May 10, 2026
 
 ---
-### AI Companion Ani French Salon Discussion
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A detailed prompt for generating a video of an AI companion named Ani, featuring specific fashion and character traits, while she engages in a political discussion in a French salon setting.
-
-#### 📝 Prompt
-
-```
-AI companion Ani (blonde hair, twin tails, sapphire blue eyes, age 22, intelligent and mischievous atmosphere, wearing mode-style clothes selected at a stylish second-hand shop in Shimokitazawa) eating cheese fondue while having a political discussion about French salon culture in French.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/99b277212c0172b6d15f62cf22fca34f/thumbnails/thumbnail.jpg" width="600" alt="AI Companion Ani French Salon Discussion">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4564)**
-
-**Author:** [Aniの日常](https://x.com/tarohinomo78040) | **Source:** [Link](https://x.com/tarohinomo78040/status/2053494947970789656) | **Published:** May 10, 2026
-
----
-### Psychedelic Mountain Bike POV
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An intense POV video prompt of mountain biking down a forest trail with rapidly shifting psychedelic and cosmic visual styles.
-
-#### 📝 Prompt
-
-```
-An exhilarating POV video of riding a mountain bike at extreme speed down a winding forest trail. The visual style is intensely psychedelic and surreal. The entire scene rapidly transforms and pulsates, shifting between a hyper-stylized autumn forest with golden light trails and a dark, cosmic environment filled with vibrant kaleidoscopic neon lights, sparkling stars, and fractal patterns. The rider's hands and handlebars are visible in the foreground, reflecting the shifting, hallucinatory colors of the surroundings. The camera is dynamic and shaky, conveying a sense of intense speed and a dreamlike, trippy experience.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3ee92a2191bbc943dfefb4b5a0d20eea/thumbnails/thumbnail.jpg" width="600" alt="Psychedelic Mountain Bike POV">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4557)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2053467292823126466) | **Published:** May 10, 2026
-
----
-### Cyberpunk Mecha Warrior Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed cinematic video prompt for generating a high-quality 6-second clip of a female cyberpunk warrior in battle-damaged red and white armor, kneeling in a rainy neon-lit alleyway.
-
-#### 📝 Prompt
-
-```
-Cinematic photorealistic 6-second video, 4K, ultra-detailed, next-level Transformers-style female cyberpunk mecha warrior. She has a sleek feminine athletic body in heavily detailed white and vibrant red battle-scarred armor with glowing red neon lines, exposed mechanical joints, pistons, hydraulic cables, and advanced sci-fi tech details. Helmet is glossy red with white "USA" text and glowing red visor. 
-
-Scene opens on a dramatic low-angle shot of her kneeling powerfully in a rainy cyberpunk megacity alley at night. Thick atmospheric red neon fog swirls around her, vertical red neon signs and holographic advertisements reflect on wet ground. Subtle sparks and electrical arcs flicker across her armor. 
-
-Slow cinematic camera movement: starts close on her helmet and glowing red visor, then steadily pulls back and orbits smoothly to the right while she rises from the kneeling position with powerful mechanical grace, servos whirring, rain droplets sliding off her armor. She stands tall in a heroic pose, head turning slightly as her visor brightens. Dynamic lighting with strong red neon rim lights, volumetric fog, lens flares, and subtle motion blur on moving parts. 
-
-Hyper-realistic textures, photorealistic materials, cinematic color grading, epic sci-fi atmosphere, cyberpunk aesthetic, next-gen Transformer design, flawless anatomy and mechanical detail, shot on Arri Alexa 65 + anamorphic lenses, 24fps, masterpiece quality.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b105be846e0954cc5f96e8983e1cf876/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Mecha Warrior Video Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4556)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2053434232882733468) | **Published:** May 10, 2026
-
----
-### Museum Gallery Tracking Shot
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for showcasing multiple images within a museum setting, featuring a tracking shot along a wall with spotlights illuminating framed artwork.
-
-#### 📝 Prompt
-
-```
-@image1 @image2 @image3 @image3 @image5 @image6 each inside a museum-quality frame, hung on a museum wall, each illuminated by its own spotlight. Track along museum wall to show the framed artwork. Do not animate inside picture frames.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/83fb74af3dd48f5064b52eaf5d14ba3f/thumbnails/thumbnail.jpg" width="600" alt="Museum Gallery Tracking Shot">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4555)**
-
-**Author:** [AI Aimee](https://x.com/RockGrokAI) | **Source:** [Link](https://x.com/RockGrokAI/status/2053405320689361401) | **Published:** May 10, 2026
-
----
-### นักรบหญิงแห่งโลกอนาคตกับลูกน้อยในทุ่งดอกไม้
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) สไตล์ภาพยนตร์สำหรับนักรบหญิงแห่งโลกอนาคตที่ยืนอยู่ในทุ่งดอกไม้ฤดูใบไม้ผลิในช่วงเวลาโกลเด้นอาวร์ โดยมีลูกน้อยอยู่เคียงข้าง
-
-#### 📝 Prompt
-
-```
-ภาพยนตร์นักรบหญิงแห่งโลกอนาคตยืนอย่างสงบในทุ่งดอกไม้ฤดูใบไม้ผลิอันกว้างใหญ่ในช่วงเวลาโกลเด้นอาวร์ สวมชุดเกราะ exo-suit สีเบจที่มีแผ่นเกราะแบบด้านซ้อนทับกัน ผ้าพันแบบยุทธวิธี ดีไซน์ไซไฟโทนสีทะเลทรายที่ดูนุ่มนวล สะพายลูกน้อยที่กำลังหลับอยู่ในผ้าห่มที่หลัง มือถือปืนไรเฟิลแห่งโลกอนาคตลดต่ำลงข้างตัวอย่างอ่อนโยน สีหน้าดูสงบและปกป้อง ท่ายืนดูเป็นวีรบุรุษที่นุ่มนวล สายลมพัดผ่านผ้าและดอกไม้ รายละเอียดสูง บรรยากาศเต็มไปด้วยอารมณ์ พื้นผิวผิวหนังสมจริง ระยะชัดลึกแบบภาพยนตร์ แสงแดดอ่อนๆ มองเห็นโครงสร้างขนาดใหญ่แห่งโลกอนาคตและยานบินอยู่ไกลๆ ที่ขอบฟ้า มีละอองฝุ่นจางๆ ในอากาศ สุนทรียศาสตร์ไซไฟที่ดูสมจริง ภาพถ่ายสมจริง รายละเอียดสูง องค์ประกอบภาพแบบภาพนิ่งจากภาพยนตร์ การไล่ระดับสีโทนอุ่นที่สมดุล อารมณ์ที่ยิ่งใหญ่แต่ใกล้ชิด แสงแบบวอลูเมตริก สมจริงเป็นพิเศษ 8k
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c603b277d482b3947359337342b82abd/thumbnails/thumbnail.jpg" width="600" alt="นักรบหญิงแห่งโลกอนาคตกับลูกน้อยในทุ่งดอกไม้">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4526)**
-
-**Author:** [DUST](https://x.com/Dustfinger2077) | **Source:** [Link](https://x.com/Dustfinger2077/status/2053379756540715378) | **Published:** May 10, 2026
-
----
-### Cyberpunk Robot Transformation Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed cinematic prompt for generating a high-quality video of a futuristic robot transforming in a dark, rain-slicked cyberpunk city featuring a female warrior character.
-
-#### 📝 Prompt
-
-```
-Cinematic 6-second photorealistic video, ultra-detailed 8K, next-level Transformers in a dark cyberpunk megacity at night. A massive, hyper-advanced transforming robot (sleek next-gen Optimus Prime inspired design) with glowing neon-blue and magenta energy lines, liquid metal panels, and holographic battle displays, dramatically transforms from a futuristic cyberpunk truck into a towering bipedal warrior mech in one fluid, powerful motion. Sparks, electrical arcs, and holographic data streams explode around it as the transformation completes.
-In the foreground, a beautiful female cyberpunk warrior in futuristic white-and-blue glowing armor (form-fitting, high-tech, with cat-ear helmet accents) stands confidently, holding a long ornate glowing magical staff that emits swirling cyan energy particles. She looks directly at the transforming robot with a calm, intense expression, long dark hair flowing in the wind.
-Heavy rain, volumetric neon lighting, flying cars and drones in the background, towering megastructures with holographic advertisements, thick fog and god rays cutting through the night. Cinematic camera movement: starts with a low-angle dramatic shot on the transforming robot, then smoothly orbits around both the mech and the female warrior while slowly pushing in. Dynamic lighting, lens flares, motion blur on fast-moving parts, film grain, anamorphic lens feel.
-Photorealistic, hyper-detailed, masterpiece, best quality, intricate mechanical details, reflective wet surfaces, perfect anatomy, epic sci-fi atmosphere, cyberpunk 2077 meets Transformers, 6 seconds duration, 24fps, cinematic color grading, directed by Denis Villeneuve.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6dd91946eb9e53f544da717d1c433c77/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Robot Transformation Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4560)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2053367744704503851) | **Published:** May 10, 2026
-
----
-### Cinematic Couple Dancing in Rain
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed cinematic prompt for a romantic scene of a couple dancing slowly in heavy rain at midnight, emphasizing lighting, textures, and mood.
-
-#### 📝 Prompt
-
-```
-A passionately romantic cinematic scene of a young couple dancing slowly in heavy rain at midnight. The woman wears a flowing deep red dress, completely drenched, while the man in a black shirt holds her waist intensely. A single crimson rose is clenched in her hand, petals falling into puddles around them. Streetlights reflect golden light on the wet road. Their foreheads touch, eyes closed, breathing close, dramatic slow-motion atmosphere, ultra-realistic, emotional tension, moody lighting, shallow depth of field.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/562dff2019e68c1412e31ac0bc9a362f/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Couple Dancing in Rain">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4554)**
-
-**Author:** [Ayushi Srivastava](https://x.com/punkhuri1) | **Source:** [Link](https://x.com/punkhuri1/status/2053286275143332057) | **Published:** May 10, 2026
-
----
-### Singing Anime Chibi Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video prompt for an anime chibi character singing poetic lyrics in a sweet voice.
-
-#### 📝 Prompt
-
-```
-Singing in a sweet cute hypnotic voice: follow me to the stars and reach out for more than what truly makes celestial
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/68fbbcd01b3fbe8e3422142c72f70c0d/thumbnails/thumbnail.jpg" width="600" alt="Singing Anime Chibi Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4562)**
-
-**Author:** [Christina Mieloszyk](https://x.com/Stina_Lotus) | **Source:** [Link](https://x.com/Stina_Lotus/status/2053282713868595443) | **Published:** May 10, 2026
-
----
-### เหล่าสัตว์กระโดดร่มในอาณาจักรขนมหวาน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (prompt) สุดสร้างสรรค์และเต็มไปด้วยจินตนาการสำหรับ Grok Imagine ที่มีกระต่ายและหนูตัวน้อยกำลังกระโดดร่มลงสู่โลกแห่งซูชิและขนมหวาน
-
-#### 📝 Prompt
-
-```
-กระต่ายตัวน้อยและหนูตัวน้อยกำลังกระโดดร่มลงสู่อาณาจักรเวทมนตร์ที่ทำจากซูชิและขนมหวาน
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/df44a56a54138fab991d13b333690ee3/thumbnails/thumbnail.jpg" width="600" alt="เหล่าสัตว์กระโดดร่มในอาณาจักรขนมหวาน">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4525)**
-
-**Author:** [ĐOGEARMY GENERAL](https://x.com/TheTeslaBull) | **Source:** [Link](https://x.com/TheTeslaBull/status/2053277900179206569) | **Published:** May 10, 2026
-
----
-### Cyberpunk Warrior Armor Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed cinematic prompt for a sci-fi video featuring a cyberpunk warrior whose tactical suit transforms with mechanical precision in a rainy futuristic city.
-
-#### 📝 Prompt
-
-```
-Cinematic 6-second photorealistic video, ultra-detailed 8K, next-level sci-fi Transformers aesthetic. A stunning blonde female cyberpunk warrior in sleek black tactical armor with glowing hot-pink neon lines, hooded cloak dramatically flowing, half-face respirator mask, stands powerfully in the center of a dark futuristic city street at night. Rain is falling, neon reflections on wet ground.
-
-She activates her suit: advanced next-gen Transformers technology engages — her armor plates shift, unfold, and transform with mechanical precision and glowing energy. Metallic segments rapidly reconfigure from form-fitting tactical suit into full battle mode with shoulder cannons, extending blades, and hovering thrusters. Her cloak transforms into energy wings as pink neon pulses intensify.
-
-Dynamic camera movement: slow dramatic orbit combined with subtle dolly zoom, cinematic lighting with volumetric god rays, lens flares, and rain particles. Hyper-realistic textures, reflective wet armor, sparks and energy arcs during transformation. Moody cyberpunk atmosphere, intense yet elegant. Shot on IMAX 70mm, directed by Denis Villeneuve, photorealistic, masterpiece, best quality.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/97e83a4a8e0397d4406a1d828660a904/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Warrior Armor Transformation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4558)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2053266389440561478) | **Published:** May 10, 2026
-
----
-### ก้อนเยลลี่บนเครื่องบิน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวเซอร์เรียลแบบภาพยนตร์ของตัวละครก้อนเยลลี่ที่กำลังมองออกไปนอกหน้าต่างเครื่องบิน
-
-#### 📝 Prompt
-
-```
-ตัวละครก้อนเยลลี่นั่งอยู่บนเครื่องบิน กำลังจ้องมองออกไปนอกหน้าต่างในสไตล์ภาพยนตร์แนวเซอร์เรียล
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b66df3c8d63b47e37fa65fca46fde94d/thumbnails/thumbnail.jpg" width="600" alt="ก้อนเยลลี่บนเครื่องบิน">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4518)**
-
-**Author:** [Angie Ramos Mendez](https://x.com/AngieRamos2030) | **Source:** [Link](https://x.com/AngieRamos2030/status/2053225507626299583) | **Published:** May 9, 2026
-
----
-### Optimus Prime ไล่ล่าโดยตำรวจ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแอ็กชันสุดเร้าใจสำหรับ Grok Imagine ที่มีรถแปลงร่างและการไล่ล่าโดยตำรวจ
-
-#### 📝 Prompt
-
-```
-สร้างรถตำรวจเปิดประทุนสุดเท่ โดยมี Optimus กระโดดออกมาจากหลังคารถที่กำลังถูกไล่ล่า
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3ab7f6acc32fcff3f7011a1b0e2eeb1d/thumbnails/thumbnail.jpg" width="600" alt="Optimus Prime ไล่ล่าโดยตำรวจ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4521)**
-
-**Author:** [JG Page](https://x.com/jgpage99) | **Source:** [Link](https://x.com/jgpage99/status/2053187982308397374) | **Published:** May 9, 2026
-
----
-### ซามูไรไซเบอร์พังก์สุดอลังการพร้อมมังกร
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) ระดับภาพยนตร์สุดเข้มข้นสำหรับการสร้างฉากไซเบอร์พังก์ที่มีซามูไรโดดเดี่ยวบนดาดฟ้าลอยฟ้า ท่ามกลางมังกรโฮโลแกรมและสายฝนแสงนีออน
-
-#### 📝 Prompt
-
-```
-cinematic cyberpunk samurai on a floating rooftop at dramatic dusk, glowing cherry blossoms and floating code particles in the air, massive holographic dragons circling neon megacity skyline, heavy rain reflections on katana and wet concrete, volumetric god rays, ultra detailed, 8k, shot on 70mm IMAX, cinematic chaos --ar 16:9 --stylize 650
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/42859236fd47f27471eeaef00d9d0ad0/thumbnails/thumbnail.jpg" width="600" alt="ซามูไรไซเบอร์พังก์สุดอลังการพร้อมมังกร">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4524)**
-
-**Author:** [Shah](https://x.com/ai_with_shah) | **Source:** [Link](https://x.com/ai_with_shah/status/2053091718786924800) | **Published:** May 9, 2026
-
----
-### Mecha Rockstar Cinematic
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์แนวภาพยนตร์สุดอลังการและเก็บรายละเอียดสูง นำเสนอหุ่นยนต์เมกะแห่งอนาคตที่กำลังแสดงดนตรีด้วยกีตาร์ไฟฟ้า พร้อมมุมกล้องแบบหมุนวนและแสงสีสไตล์ไซไฟ
-
-#### 📝 Prompt
-
-```
-หุ่นยนต์เมกะแห่งอนาคตสีขาวดำสุดล้ำยืนอยู่ในท่าทางที่ดูองอาจและทรงพลัง สองมือถือกีตาร์ไฟฟ้าแห่งอนาคตขนาดใหญ่ราวกับเป็นอาวุธของร็อกสตาร์ ฉากไซไฟแบบภาพยนตร์ รายละเอียดคมชัดระดับ 8K สมจริงเป็นพิเศษ แสงขอบ (rim lighting) ที่ดูดุดันพร้อมแสงพลังงานสีแดงจางๆ ที่เต้นเป็นจังหวะไปตามเกราะของหุ่นยนต์และสายกีตาร์
-หุ่นยนต์ค่อยๆ ยกกีตาร์ขึ้นและดีดด้วยความแม่นยำแบบจักรกล ประกายไฟและเส้นแสงพลังงานสีฟ้าและแดงระเบิดออกมาจากสายกีตาร์ในทุกคอร์ด กล้องเริ่มจากมุมต่ำแบบเต็มตัว จากนั้นเคลื่อนที่หมุนวนรอบหุ่นยนต์แบบ 360 องศาอย่างนุ่มนวลพร้อมค่อยๆ ซูมเข้าไป เผยให้เห็นรายละเอียดทางกลไกที่ซับซ้อนและกราฟฟิตี้สีแดงเรืองแสงบนต้นขา
-บรรยากาศไซไฟที่เข้มข้น ลำแสง volumetric god rays ส่องผ่านฝุ่นละออง แสงแฟลร์จางๆ เกรนฟิล์ม และโบเก้แบบอนามอร์ฟิก อารมณ์ที่ดูเท่และดุดันราวกับตัวอย่างมิวสิกวิดีโอ ใช้ภาพสโลว์โมชันในช่วงที่กำลังดีดกีตาร์เพื่อสร้างอิมแพ็คสูงสุด ความยาว 6 วินาที, 24fps, การปรับสีแบบภาพยนตร์, รายละเอียดสูงพิเศษ, สมจริงเหมือนภาพถ่าย, กำกับโดย Denis Villeneuve และ Michael Bay
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/924bd9ac6ada9931c401087340b4c343/thumbnails/thumbnail.jpg" width="600" alt="Mecha Rockstar Cinematic">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4522)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2053056718691787073) | **Published:** May 9, 2026
-
----
-### Blob ถูกดูดออกจากเครื่องบิน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวเซอร์เรียลแบบภาพยนตร์ ของตัวละครก้อนเจลาตินที่ทำหน้าต่างเครื่องบินแตกและถูกดูดออกไป
-
-#### 📝 Prompt
-
-```
-ตัวละครก้อนเจลาตินนั่งอยู่บนเครื่องบิน กำลังมองออกไปนอกหน้าต่างในสไตล์ภาพยนตร์แนวเซอร์เรียล ทันใดนั้นเขาก็ลุกขึ้น ทำหน้าต่างเครื่องบินแตก และถูกดูดออกไปนอกเครื่องบิน
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/85223c0c0eb85a9a705a4c63e6fd261b/thumbnails/thumbnail.jpg" width="600" alt="Blob ถูกดูดออกจากเครื่องบิน">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4519)**
-
-**Author:** [Lynn Hocker](https://x.com/Auroraskye3993) | **Source:** [Link](https://x.com/Auroraskye3993/status/2053042397542777162) | **Published:** May 9, 2026
-
----
-### ฉากแอ็กชันไซเบอร์พังก์เมชา
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ฉากแอ็กชันสุดอลังการที่มีรายละเอียดสูง นำเสนอหุ่นยนต์เมชาขนาดมหึมาในเมืองไซเบอร์พังก์ท่ามกลางสายฝน พร้อมด้วยการระเบิดและอาวุธพลังงาน
-
-#### 📝 Prompt
-
-```
-ฉากแอ็กชันความยาว 6 วินาทีแบบภาพยนตร์ สโลว์โมชันสุดอลังการ: หุ่นยนต์เมชาหญิงขนาดมหึมาที่งดงามในชุดเกราะสีชมพูแวววาวและสีน้ำเงินสดใส พร้อมวงจรสีม่วงแดงเรืองแสงและผมสีเงินยาวสลวย ยืนอยู่ในเมืองไซเบอร์พังก์ยามค่ำคืนท่ามกลางสายฝน เธอเดินกระทืบเท้าไปข้างหน้าอย่างทรงพลัง เท้าขนาดมหึมาของเธอเหยียบลงบนถนนจนเกิดการระเบิดครั้งใหญ่ มีเศษซากกระจัดกระจาย ประกายไฟ และคลื่นกระแทก เธอเหวี่ยงดาบพลังงานสีส้มเพลิงยาวในมือขวา ฝนตกหนัก แสงนีออนสะท้อนบนพื้นเปียกและชุดเกราะอย่างน่าทึ่ง มีรถบินได้และการทำลายล้าง กล้องติดตามมุมต่ำแบบไดนามิก แอ็กชันที่เข้มข้น แสงแบบวอลูเมตริก ผลงานชิ้นเอกระดับภาพยนตร์ สมจริงสุดขีด รายละเอียดระดับ 8K --ar 9:16
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2a1f1cb1ac16722b5d4322c5168beb1e/thumbnails/thumbnail.jpg" width="600" alt="ฉากแอ็กชันไซเบอร์พังก์เมชา">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4517)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2053011628648432032) | **Published:** May 9, 2026
-
----
-### รอยยิ้มของสัตว์ประหลาดล็อกเนสส์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สไตล์ภาพยนตร์ที่แสดงภาพสัตว์ประหลาดล็อกเนสส์โผล่พ้นน้ำและหันมาเผยรอยยิ้มแบบการ์ตูนในขณะที่กล้องถอยห่างออกไป
-
-#### 📝 Prompt
-
-```
-เพิ่มสัตว์ประหลาดแห่งล็อกเนสส์ และเมื่อมันโผล่พ้นน้ำให้กล้องถอยห่างออกไป โดยให้มันหันมาเผยรอยยิ้มในสไตล์การ์ตูนอย่างชัดเจน
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/258487e695ce1d522993819ebd7edad9/thumbnails/thumbnail.jpg" width="600" alt="รอยยิ้มของสัตว์ประหลาดล็อกเนสส์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4523)**
-
-**Author:** [Fred Rose](https://x.com/FredroseRose) | **Source:** [Link](https://x.com/FredroseRose/status/2052992725826318431) | **Published:** May 9, 2026
-
----
-### Humanity New Realities Orbs
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> สร้างวิดีโอที่มีผู้พูดกำลังอภิปรายเกี่ยวกับอนาคตของมนุษยชาติ โดยมีลูกบอลแสงลึกลับลอยอยู่รอบตัว
-
-#### 📝 Prompt
-
-```
-เธอกล่าวว่า ถึงเวลาแล้วที่เราในฐานะมนุษยชาติต้องพิจารณาถึงความเป็นจริงใหม่ๆ เธอยิ้มออกมาและมีลูกบอลแสงขนาดเล็กปรากฏขึ้นรอบตัวเธอ
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ad0fd9ed829e22de79d77cb19e38ac46/thumbnails/thumbnail.jpg" width="600" alt="Humanity New Realities Orbs">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4476)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2052938952798060909) | **Published:** May 9, 2026
-
----
-### แอนิเมชันหญิงสาวในชุดยุทธวิธีสไตล์ไซเบอร์พังค์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ระดับภาพยนตร์ที่มีรายละเอียดสูงสำหรับฉากไซเบอร์พังค์ ซึ่งมีหญิงสาวในชุดเกราะยุทธวิธีพร้อมแสงสะท้อนนีออนและการเคลื่อนไหวของกล้องแบบไดนามิก
-
-#### 📝 Prompt
-
-```
-วิดีโอภาพยนตร์ไซไฟไซเบอร์พังค์ที่สมจริงน่าทึ่ง ความยาว 6 วินาที ความละเอียด 4K รายละเอียดสูงพิเศษ ถ่ายทำด้วยกล้อง ARRI Alexa 65 พร้อมเลนส์อะนามอร์ฟิก หญิงสาวสวยผมสั้นสีขาวเงินยุ่งเล็กน้อยยืนอยู่ใจกลางถนนในเมืองไซเบอร์พังค์แห่งอนาคตช่วงพลบค่ำ เธอสวมชุดเกราะยุทธวิธีสีขาวดำที่ดูโฉบเฉี่ยวและผ่านการใช้งานมาอย่างโชกโชน พร้อมรายละเอียดเรืองแสงสีฟ้าและส้ม สวมหมวกไฮเทคที่มีหน้ากากใสเปิดขึ้น และถุงมือสีดำ เธอค่อยๆ หันศีรษะมาทางกล้องด้วยสายตาที่มั่นใจและเข้มข้น ผมสั้นของเธอปลิวไสวไปตามลมเบาๆ มีฝนโปรยปรายรอบตัวเธอ แสงสะท้อนจากไฟนีออนระยิบระยับบนชุดเกราะที่เปียกชื้น ป้ายโฆษณาโฮโลแกรมและไฟนีออนสีชมพู ฟ้า และม่วงส่องสว่างอยู่เบื้องหลัง รถบินได้เคลื่อนผ่านท้องฟ้า ตึกระฟ้าที่ห่างไกลพร้อมป้ายดิจิทัลขนาดใหญ่ตั้งตระหง่านอยู่ด้านบน การเคลื่อนไหวของกล้องแบบภาพยนตร์: เริ่มต้นด้วยภาพระยะกลางจากมุมต่ำแบบฮีโร่ ค่อยๆ โคจรรอบตัวเธอ 180 องศาพร้อมขยับเข้าไปใกล้ช้าๆ สร้างการเปิดเผยที่น่าทึ่งของชุดเกราะและสภาพแวดล้อมแบบไซเบอร์พังค์ แสงแบบวอลเมตริกที่ให้บรรยากาศ แสงเทพส่องผ่านสายฝนและหมอก แฟลร์ของเลนส์ ระยะชัดลึกตื้น เกรนฟิล์ม และความคลาดสีเล็กน้อย สมจริงเป็นพิเศษ พื้นผิวที่มีรายละเอียดสูง กายวิภาคที่สมบูรณ์แบบ บรรยากาศไซเบอร์พังค์ที่เต็มไปด้วยอารมณ์ ความสวยงามแบบ Blade Runner 2049 คุณภาพสูงมาก ผลงานชิ้นเอก คุณภาพดีที่สุด สไตล์: ภาพยนตร์, สมจริง, ไซเบอร์พังค์, ไซไฟ, แสงที่น่าทึ่ง ระยะเวลา: 6 วินาที การเคลื่อนไหว: นุ่มนวล, เป็นภาพยนตร์, ช้าและทรงพลัง กล้อง: การถ่ายแบบโคจรรอบตัวละครพร้อมการขยับเข้าใกล้ช้าๆ
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7af1d3aa83a31adf99d288da52f08985/thumbnails/thumbnail.jpg" width="600" alt="แอนิเมชันหญิงสาวในชุดยุทธวิธีสไตล์ไซเบอร์พังค์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4520)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2052910794166178135) | **Published:** May 9, 2026
-
----
-### แมวยักษ์ในป่าจิ๋ว
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สถานการณ์เหนือจริงที่ต้นไม้ขนาดจิ๋วงอกขึ้นมาจากพื้นดิน ในขณะที่แมวยักษ์ก้าวข้ามผ่านพวกมันไป
-
-#### 📝 Prompt
-
-```
-ต้นไม้ขนาดจิ๋วงอกขึ้นมาจากพื้นดิน และมุมมองของผู้รับชมจะเปลี่ยนผ่านไปสู่ภาพของแมวยักษ์ที่กำลังก้าวข้ามต้นไม้เหล่านั้น
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9db754beff35a8014490451bb3b5c443/thumbnails/thumbnail.jpg" width="600" alt="แมวยักษ์ในป่าจิ๋ว">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4475)**
-
-**Author:** [🍓](https://x.com/sulegulmenX) | **Source:** [Link](https://x.com/sulegulmenX/status/2052822214311805225) | **Published:** May 8, 2026
-
----
-### ฉากแอ็กชันราชินีน้ำแข็งแนวไซไฟ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์เชิงเทคนิคที่มีรายละเอียดสูงสำหรับวิดีโอซีนีมาติกแนวไซไฟความละเอียด 8K ที่มีตัวละครราชินีเอลฟ์น้ำแข็ง
-
-#### 📝 Prompt
-
-```
-วิดีโอแอ็กชันแนวไซไฟความละเอียด 8K ที่สมจริงระดับอัลตราซีนีมาติกความยาว 6 วินาที ถ่ายทำด้วยกล้อง ARRI Alexa 65 พร้อมเลนส์อะนามอร์ฟิก การปรับแต่งสีแบบดรามาติก เกรนฟิล์มที่ละเอียดอ่อน และแสงวอลูเมตริกที่เข้มข้น
-ราชินีนักรบเอลฟ์น้ำแข็งผู้ทรงพลังที่มีผมสีเงินขาวสลวย ดวงตาสีฟ้าเรืองแสง และหูแหลม ยืนอยู่ในป้อมปราการอันโอ่อ่าที่ผสมผสานระหว่างความล้ำสมัยและน้ำแข็ง เธอสวมชุดเกราะไซไฟสีเงินและสีฟ้าเรืองแสงที่ซับซ้อนพร้อมวงจรพลังงานคริสตัล มงกุฎหนามสูงที่เปล่งประกายด้วยพลาสมาสีฟ้า และผ้าคลุมโลหะที่พลิ้วไหว
-เธอยกมือขวาขึ้นอย่างดรามาติก รวบรวมลูกบอลพลังงานพลาสมาสีฟ้าสว่างที่หมุนวนและมีประกายไฟฟ้าพร้อมอักขระโฮโลแกรม ละอองหิมะและน้ำแข็งแตกกระจายรอบตัวเธอขณะที่เธอปล่อยพลังงานมหาศาลไปข้างหน้า เส้นผมและผ้าคลุมของเธอพลิ้วไหวอย่างรุนแรงตามแรงลม
-บรรยากาศแนวไซไฟ: เส้นเลือดพลังงานสีฟ้าอมเขียวที่ไหลผ่านซากปรักหักพังของเอเลี่ยนโบราณที่ปกคลุมด้วยน้ำแข็ง เศษโฮโลแกรมที่ลอยอยู่ อนุภาคสีฟ้าเรืองแสง ลำแสงเทพ (god rays) ที่ตัดผ่านหมอกที่เย็นจัด ประกายไฟ และร่องรอยของพลังงาน
-การเคลื่อนไหวของกล้อง: ลำดับภาพซีนีมาติกแบบไดนามิก — เริ่มต้นด้วยมุมกล้องต่ำแบบฮีโร่ จากนั้นหมุนรอบตัวเธออย่างรวดเร็วพร้อมซูมเข้าไป จบลงด้วยการโคลสอัปที่ใบหน้าอันดุดันและมือที่เรืองแสงของเธอในขณะที่เธอปล่อยพลังงานออกมา การเคลื่อนไหวที่เข้มข้น ระยะชัดลึกที่ตื้น โบเก้ที่สวยงาม ฟิสิกส์ที่สมจริงของเส้นผม ผ้า และเอฟเฟกต์พลังงาน
-พื้นผิวผิวหนังและชุดเกราะที่สมจริง การโต้ตอบของน้ำแข็งและหิมะที่สมจริง ท่าทางแอ็กชันที่ทรงพลังและสง่างาม เอฟเฟกต์พลังงานความเร็วสูง อารมณ์แฟนตาซีไซไฟที่ยิ่งใหญ่ ดุดัน และน่าหลงใหล ความยาว 6 วินาที, 24fps, ผลงานชิ้นเอก, คุณภาพดีที่สุด, รายละเอียดสูง
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/11893caec932e339ed65acc3fb16bb5b/thumbnails/thumbnail.jpg" width="600" alt="ฉากแอ็กชันราชินีน้ำแข็งแนวไซไฟ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4474)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2052764278340583816) | **Published:** May 8, 2026
-
----
-### โฆษณาภาพยนตร์ Tesla Robotaxi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์เชิงภาพยนตร์ที่ซับซ้อนสำหรับโฆษณา Tesla Robotaxi โดยมีการแพนกล้องและการจัดวางโลโก้ที่เฉพาะเจาะจง
-
-#### 📝 Prompt
-
-```
-คงรูปรถ Tesla ไว้เหมือนเดิม แพนกล้องออกเพื่อเผยให้เห็นถนนทอดยาว รถกำลังขับเคลื่อนอยู่ในเลนของตัวเอง ให้รถวิ่งผ่านหน้ากล้องไปอย่างรวดเร็ว เน้นโลโก้ของ Robotaxi ที่ด้านบนของภาพให้เหมือนกับโฆษณาภาพยนตร์
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/acf2ef5e0de804f7ffd87b501b664c2a/thumbnails/thumbnail.jpg" width="600" alt="โฆษณาภาพยนตร์ Tesla Robotaxi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4416)**
-
-**Author:** [Alex Patricio](https://x.com/alexpatricio204) | **Source:** [Link](https://x.com/alexpatricio204/status/2052555531982926184) | **Published:** May 8, 2026
-
----
-### บทพูดและฉากแอ็กชันในรูปแบบภาพยนตร์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอที่ซับซ้อนซึ่งเกี่ยวข้องกับตัวละครที่พูดประโยคไซเบอร์พังก์ชื่อดัง ตามด้วยท่าทางทางกายภาพที่เฉพาะเจาะจง
-
-#### 📝 Prompt
-
-```
-เธอมองมาที่กล้องแล้วพูดว่า: 
-"The sky above the port was the color of television." จากนั้นเธอก็หันหลังกลับและมองไปทางอื่น 
-สร้างการตัดต่อในโมเดลนี้ โดยให้เธอยกแขนขึ้นแล้วนำมือมาวางไว้บนศีรษะ จากนั้นค่อย ๆ เลื่อนมือลงมาตามใบหน้า...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1edeb34bc2620ca350bbebde02fb98d7/thumbnails/thumbnail.jpg" width="600" alt="บทพูดและฉากแอ็กชันในรูปแบบภาพยนตร์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4408)**
-
-**Author:** [caroline freebern](https://x.com/myHeartis1true) | **Source:** [Link](https://x.com/myHeartis1true/status/2052505180877340990) | **Published:** May 7, 2026
-
----
-### แอนิเมชันหมีกอดตัวเอง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอโมชันพรอมต์ที่แสดงภาพตัวละครหมีเปลี่ยนท่าทางจากการกางแขนกอดมาเป็นการกอดตัวเอง
-
-#### 📝 Prompt
-
-```
-ฉันอยากเห็นหมีตัวนี้เริ่มด้วยท่ากางแขนกว้างๆ แล้วค่อยเปลี่ยนมาเป็นท่ากอดตัวเอง
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/33ed630fdc5b2f6b7db6ede6bd86ca92/thumbnails/thumbnail.jpg" width="600" alt="แอนิเมชันหมีกอดตัวเอง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4414)**
-
-**Author:** [Andrew Madden](https://x.com/AndrewM34705304) | **Source:** [Link](https://x.com/AndrewM34705304/status/2052471080108126687) | **Published:** May 7, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2249,6 +2249,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-18T04:16:38.859Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-18T11:54:26.927Z</sub>
 
 </div>
