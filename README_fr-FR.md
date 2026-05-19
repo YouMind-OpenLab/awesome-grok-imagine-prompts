@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1559** |
+| 📝 Total Prompts | **1569** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-19** |
 
@@ -189,6 +189,158 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Vidéo d'une fleur dansante et de la Terre
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo sain demandant une fleur dansante avec des cœurs, une maison colorée et une vue de la planète Terre.
+
+#### 📝 Prompt
+
+```
+Ce soir, ma fille Savannah aimerait créer une image d'une fleur dansante avec des cœurs en arrière-plan. Elle demande également s'il serait possible d'avoir une maison rose et violette. Elle adorerait aussi voir la Terre dans la vidéo.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/597fbfe89eea55e0b284a2882366d9e8/thumbnails/thumbnail.jpg" width="600" alt="Vidéo d'une fleur dansante et de la Terre">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5004)**
+
+**Author:** [Firecracker](https://x.com/CantTameFire) | **Source:** [Link](https://x.com/CantTameFire/status/2056550752038883413) | **Published:** May 19, 2026
+
+---
+### Dialogue de cow-boy cinématographique
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo détaillé mettant en place une scène de dialogue spécifique entre plusieurs personnages dans un décor western.
+
+#### 📝 Prompt
+
+```
+Demandez à Leola, située à droite, de demander à Faye où se trouvent les vrais cow-boys, puis faites dire à deux beaux cow-boys masculins légèrement plus âgés : « Nous voilà, les filles ! »
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/058258b42f1e3133a715ce697e7f0a89/thumbnails/thumbnail.jpg" width="600" alt="Dialogue de cow-boy cinématographique">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5002)**
+
+**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2056504322095980830) | **Published:** May 18, 2026
+
+---
+### Cowboys masculins avec texte scintillant
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo qui demande au modèle d'ajuster la masculinité des personnages et d'ajouter un texte animé scintillant spécifique à la fin.
+
+#### 📝 Prompt
+
+```
+Rends les cowboys un peu plus masculins, puis sur la dernière page, affiche le texte « Faye » en lettres scintillantes
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a4cbdcb5e9b5cb3775a98ff0f054e307/thumbnails/thumbnail.jpg" width="600" alt="Cowboys masculins avec texte scintillant">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5003)**
+
+**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2056501407734206619) | **Published:** May 18, 2026
+
+---
+### Portrait zoom caméra à l'épaule avec tremblements
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de mouvement cinématographique pour un zoom caméra à l'épaule avec tremblements, se concentrant sur le visage d'une femme alors qu'elle esquisse un doux sourire.
+
+#### 📝 Prompt
+
+```
+la caméra zoome lentement sur son visage, caméra à l'épaule avec tremblements, la femme sourit doucement
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f178a9dea58799bf74ca5e7e70eeacb9/thumbnails/thumbnail.jpg" width="600" alt="Portrait zoom caméra à l'épaule avec tremblements">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4999)**
+
+**Author:** [Patrick Jordan](https://x.com/gyjfbngcv6) | **Source:** [Link](https://x.com/gyjfbngcv6/status/2056496860093710843) | **Published:** May 18, 2026
+
+---
+### Célébration joyeuse sous le soleil
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo cinématographique montrant un homme sautant de joie sous le soleil, entouré d'oiseaux et de sa femme qui vient l'enlacer.
+
+#### 📝 Prompt
+
+```
+Il décide d'être heureux, saute en l'air et lève les bras, tandis que le soleil brille directement sur lui et que les oiseaux volent autour de lui !! Et sa femme court vers lui pour l'enlacer !!!
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/19c5a88a9522632a2eb3dbe2c31729a1/thumbnails/thumbnail.jpg" width="600" alt="Célébration joyeuse sous le soleil">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4998)**
+
+**Author:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **Source:** [Link](https://x.com/CindyWeigapn6/status/2056478511641010280) | **Published:** May 18, 2026
+
+---
+### Scène d'action avec un chat façon John Wick
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt d'action hyper-détaillé et à fort contraste mettant en scène un chat agent dans le style de John Wick, figé en plein milieu d'une explosion avec une caméra en orbite.
+
+#### 📝 Prompt
+
+```
+Le temps se fige au cœur d'une explosion dans une rue du centre-ville, débris en suspension, caméra orbitant autour d'un chat agent immobile en plein saut — contraste élevé, photoréaliste, hyper-détails 4K.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/437e7d0111ea1ac51d93f986814d875b/thumbnails/thumbnail.jpg" width="600" alt="Scène d'action avec un chat façon John Wick">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4996)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2056368161361158235) | **Published:** May 18, 2026
+
+---
+### Vidéo d'armure de combat Cyber Samurai
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinématographique ultra-détaillé pour une vidéo verticale de 6 secondes mettant en scène un guerrier cyber-samouraï dans une armure méca en pleine transformation.
+
+#### 📝 Prompt
+
+```
+Vidéo cinématographique ultra-détaillée de 6 secondes, mélange de Transformers de haut niveau et de science-fiction cyberpunk. Une magnifique guerrière cyber-samouraï asiatique vêtue d'une imposante armure de combat transformable se tient debout avec puissance au centre. Sa combinaison méca noire et argentée aux lignes épurées arbore des lignes d'énergie dragon orange doré qui pulsent et circulent sur le torse, les épaules et les jambes. Épaulières complexes en forme de lion-dragon, casque orné de roses rouge foncé et d'ornements mécaniques, longue cape flottante. Elle dégaine et enflamme de façon spectaculaire un immense katana d'énergie lumineuse aux motifs de flammes tourbillonnantes. Les plaques d'armure se déplacent et se transforment mécaniquement avec des étincelles et des mouvements hydrauliques. Séquence d'action épique au ralenti : elle tourne, frappe, l'énergie explose autour d'elle. Arrière-plan : vaste armée de cyber-soldats, bannière de guerre rouge géante avec symbole lumineux, champ de bataille dystopique avec fumée, accents néon et drones en vol stationnaire. Mouvement de caméra cinématographique : prise de vue en contre-plongée circulaire, éclairage dramatique, rayons divins volumétriques, étincelles, effets d'énergie. Hyper-réaliste, photoréaliste, chef-d'œuvre, meilleure qualité, 8K, atmosphère de science-fiction intense --ar 9:16 --motion 3
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e833ca7a336a095a5d09a0fecd6d220f/thumbnails/thumbnail.jpg" width="600" alt="Vidéo d'armure de combat Cyber Samurai">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4995)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2056365724461941119) | **Published:** May 18, 2026
+
+---
+### Dîner pizza entre Sinatra et Yogi Berra
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo cinématographique mettant en scène Frank Sinatra et Yogi Berra en costumes de créateurs, dégustant une pizza et une bière à table.
+
+#### 📝 Prompt
+
+```
+Ils portent des costumes italiens de créateurs, rejoints par Frank Sinatra et Yogi Berra. Ensuite, ils s'assoient à une table avec des pizzas et des bières Peroni...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ff77132e761ee73566ea04caea2630bf/thumbnails/thumbnail.jpg" width="600" alt="Dîner pizza entre Sinatra et Yogi Berra">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5001)**
+
+**Author:** [the moose 55](https://x.com/themoose551) | **Source:** [Link](https://x.com/themoose551/status/2056339167005573434) | **Published:** May 18, 2026
+
+---
 ### Gladiateurs chargeant sur le champ de bataille
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -220,11 +372,57 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 langage corporel naturel et subtil exprimant une libération cathartique, larmes visibles brillant sur les joues sous une lumière chaude, atmosphère émotionnelle cathartique, profonde gratitude exprimée par la posture
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4e3e18096b7246289780854b79a3c57a/thumbnails/thumbnail.jpg" width="600" alt="Animation de larmes émotionnelles naturelles">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1739971bf9e34c3c9370451c071f3dd5/thumbnails/thumbnail.jpg" width="600" alt="Animation de larmes émotionnelles naturelles">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4960)**
 
 **Author:** [ILOVEDOGE](https://x.com/6BWS9) | **Source:** [Link](https://x.com/6BWS9/status/2056280118885277704) | **Published:** May 18, 2026
+
+---
+### Lotus de cristal mode surréaliste
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo éditorial détaillé mettant en scène une femme élégante, un chat blanc et un immense lotus de cristal irisé.
+
+#### 📝 Prompt
+
+```
+Une illustration éditoriale surréaliste d'une femme élégante au visage fin et allongé, vue de profil, portant une spectaculaire robe à col roulé bleu foncé, longue jusqu'au sol, aux manches longues qui s'étalent gracieusement à ses pieds. Derrière et au-dessus d'elle s'élève une fleur de lotus en cristal extraordinairement grande et fantastique — surnaturelle et unique, avec des pétales irisés qui s'enroulent de manière asymétrique, mêlant des teintes magenta profond et violet à des bords blanc perle translucides qui semblent luire doucement, contrairement à tout lotus réel — sa haute tige se tordant élégamment le long de son corps avec des feuilles exotiques surdimensionnées. À ses pieds est assis un chat blanc immaculé aux yeux bleu vif perçants, regardant devant lui avec une mystique tranquille. L'arrière-plan est d'un vert sauge sourd et mélancolique avec de subtiles nuances dorées, pictural et atmosphérique. L'ambiance générale est poétique, mystérieuse et à la pointe de la mode. Style : illustration d'art numérique avec éclairage cinématographique, haute précision, élégance éditoriale.
+
+Elle reçoit un bouquet de fleurs en cristal
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/79c62fe707db4a649031f2cf9e728d9a/thumbnails/thumbnail.jpg" width="600" alt="Lotus de cristal mode surréaliste">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4997)**
+
+**Author:** [Y.J Z.C](https://x.com/yjzc424985) | **Source:** [Link](https://x.com/yjzc424985/status/2056267062641889425) | **Published:** May 18, 2026
+
+---
+### Vidéo de mécha cyberpunk biomécanique colossal
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinématographique détaillé pour une machine de guerre de 200 mètres de haut s'activant dans une mégalopole néon, incluant des instructions complexes de mouvement et d'éclairage.
+
+#### 📝 Prompt
+
+```
+Vidéo photoréaliste cinématographique de 6 secondes, 8K ultra-détaillée, mécha cyberpunk colossal de style Transformers nouvelle génération inspiré de l'image de référence.
+
+Une imposante machine de guerre biomécanique de 200 mètres de haut dotée de cornes dorées incurvées massives, d'un noyau orange en fusion brillant dans sa poitrine, d'un blindage blanc et or marqué par les combats, et d'énormes anneaux mécaniques hérissés de pointes orbitant derrière son dos comme des ailes d'énergie sombre. Le robot se dresse de manière dominante au-dessus d'une mégalopole cyberpunk baignée de néons au crépuscule, avec des gratte-ciels denses illuminés par des publicités holographiques et des véhicules volants naviguant entre les bâtiments.
+
+Mouvement de caméra dynamique : commence par un plan héroïque en contre-plongée s'élevant de manière spectaculaire depuis les rues brumeuses le long des jambes et du torse du géant, révélant ses yeux brillants et son imposante silhouette cornue sur fond de ciel au coucher du soleil avec des reflets d'objectif. À 3 secondes, le mécha s'active lentement : une énergie orange vive pulse à travers ses circuits, de la vapeur et des étincelles jaillissent des articulations, les anneaux orbitaux tournent plus vite avec des arcs électriques. À 5 secondes, il fait un pas en avant massif qui fait trembler la terre, envoyant des ondes de choc et des nuages de poussière à travers la ville en contrebas tandis que des drones de combat tournent autour de lui.
+
+Détails photoréalistes, textures métalliques complexes, rayons divins volumétriques, étalonnage des couleurs cinématographique avec une palette cyberpunk bleu sarcelle et orange, objectif anamorphique, grain de film subtil, qualité IMAX, mouvement hyper-réaliste, échelle épique, éclairage dramatique, chef-d'œuvre, meilleure qualité.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b0a6e1afdf74f0b9b3a87cf1e7436970/thumbnails/thumbnail.jpg" width="600" alt="Vidéo de mécha cyberpunk biomécanique colossal">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5000)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2056233579789873411) | **Published:** May 18, 2026
 
 ---
 ### Transformation urbaine vue du ciel
@@ -1982,209 +2180,6 @@ chacune dans son propre cadre de qualité muséale, accrochée sur un mur de mus
 **Author:** [AI Aimee](https://x.com/RockGrokAI) | **Source:** [Link](https://x.com/RockGrokAI/status/2053826199671984197) | **Published:** May 11, 2026
 
 ---
-### Guerrière hybride cyber-dragon
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo cinématographique détaillé pour une guerrière cyber-dragon dans un décor d'usine industrielle cyberpunk.
-
-#### 📝 Prompt
-
-```
-Une superbe vidéo cinématographique photoréaliste de 6 secondes montrant une guerrière hybride cyber-dragon à couper le souffle, un design digne des meilleurs Transformers mêlant science-fiction cyberpunk sombre. Elle possède une tête de dragon biomécanique féroce avec des écailles métalliques complexes, des cornes acérées, des yeux rouge cramoisi lumineux et des traits faciaux humains visibles sur le côté. Son corps est une fusion parfaite de courbes organiques et d'armures cybernétiques avancées avec des câblages apparents, des circuits lumineux et des motifs d'écailles reptiliennes en noir obsidienne, argent métallisé et bronze. Elle porte une élégante robe noire moulante aux détails haute couture, avec des pièces d'armure en écailles de dragon subtilement intégrées sur les épaules, les bras et les hanches. Une longue et puissante queue de dragon mécanique hérissée de pointes se balance derrière elle. Elle adopte une pose dramatique et assurée à l'intérieur d'une immense usine industrielle cyberpunk atmosphérique, remplie de chaînes suspendues, de tuyaux rouillés, d'étincelles, d'accents néon et de rayons de lumière volumétriques perçant à travers un brouillard épais. Mouvement de caméra (6 secondes) : Commence par un travelling lent et puissant autour d'elle, de gauche à droite. À 2 secondes, elle tourne lentement la tête vers la caméra, ses yeux rouges s'illuminant intensément. À 3,5 secondes, elle fait un pas puissant en avant, sa queue fouettant l'air avec une précision mécanique tandis que des étincelles jaillissent du sol. 2 dernières secondes : plan héroïque en contre-plongée spectaculaire alors qu'elle lève sa main griffue, l'énergie pulsant à travers ses circuits, avec un éclairage cinématographique intense et des reflets d'objectif. Ultra photoréaliste, 8K, textures hyper-détaillées, étalonnage cinématographique, éclairage de contour dramatique, atmosphère cyberpunk sombre, tourné avec Arri Alexa 65 + objectifs anamorphiques, grain de film subtil, détails impeccables, qualité chef-d'œuvre, complexité mécanique et réalisme au niveau des meilleurs Transformers.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8fd995c501e6cf1cc653ea9d70fc4836/thumbnails/thumbnail.jpg" width="600" alt="Guerrière hybride cyber-dragon">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4627)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2053736079375970441) | **Published:** May 11, 2026
-
----
-### Kids and Deer in Meadow
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A heartwarming video prompt featuring children playing with deer in a sunlit forest meadow.
-
-#### 📝 Prompt
-
-```
-kids joyfully playing with gentle deer in a sunlit forest clearing laughter echoing, tails wagging, and hearts full of wonder
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1e953ff17ed665ea97099d21f6c68106/thumbnails/thumbnail.jpg" width="600" alt="Kids and Deer in Meadow">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4563)**
-
-**Author:** [Love Web3 World](https://x.com/WebThreeAI) | **Source:** [Link](https://x.com/WebThreeAI/status/2053710849521664006) | **Published:** May 11, 2026
-
----
-### Animation en double exposition médiévale
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt d'effet visuel complexe mêlant un couple médiéval à un château et à un orgue en vitrail.
-
-#### 📝 Prompt
-
-```
-Un portrait en double exposition d'un couple médiéval amoureux, fusionné harmonieusement avec un grand château qui se fond dans leurs silhouettes. Les deux personnages se dissolvent dans des vitraux complexes, intégrés de manière fluide à un orgue de style ancien (Orgel).
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bab2c93c07dd93f710ee0fd2f1d7b469/thumbnails/thumbnail.jpg" width="600" alt="Animation en double exposition médiévale">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4631)**
-
-**Author:** [Carina](https://x.com/Freehere3) | **Source:** [Link](https://x.com/Freehere3/status/2053688075151192409) | **Published:** May 11, 2026
-
----
-### Transformation d'une guerrière dragon cyberpunk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinématographique détaillé pour une séquence de transformation high-tech mettant en scène une guerrière hybride dragon cyberpunk dans un environnement industriel futuriste.
-
-#### 📝 Prompt
-
-```
-Vidéo photoréaliste cinématographique de 6 secondes, 8K ultra-détaillée, séquence d'action de science-fiction cyberpunk de haut niveau dans le style Transformers.
-
-Une puissante guerrière hybride dragon cyberpunk (personnage identique à la référence : visage magnifique et féroce avec des yeux bleu électrique brillants, bouche grande ouverte hurlant de rage, cornes de dragon métalliques élaborées et écailles sur la tête, longs cheveux tressés, ailes de dragon mécaniques massives) se tient dans une usine industrielle sombre et futuriste remplie de tuyaux imposants, de néons brillants, d'étincelles et de vapeur épaisse.
-
-Elle se transforme de manière spectaculaire dans une séquence fluide et high-tech : ses plaques d'armure se déplacent et se déploient avec une précision mécanique digne des Transformers, révélant des détails biomécaniques complexes, des lignes d'énergie lumineuses et des systèmes d'armes se déployant depuis ses épaules et ses bras. Ses ailes massives se déploient complètement dans un souffle puissant, projetant des étincelles et des débris.
-
-Mouvement de caméra dynamique : commence par un plan en pied spectaculaire en contre-plongée, puis tourne autour d'elle avec fluidité tandis qu'elle rugit et se charge d'une énergie bleue brillante pulsant à travers sa combinaison. Effets de particules explosifs, rayons divins volumétriques perçant la fumée, éclairage cinématographique intense avec des ombres profondes et un étalonnage des couleurs cyan-orange.
-
-Textures hyper-réalistes sur le métal, les écailles et la peau, mouvement impeccable, 24 fps, qualité blockbuster hollywoodien, réalisé comme un film de science-fiction de Denis Villeneuve, atmosphère épique et intense, pas de texte, action de transformation en boucle fluide.
-
---ar 16:9 --stylize 750 --v 6
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b21ae69918a56edb16129386d48d9afd/thumbnails/thumbnail.jpg" width="600" alt="Transformation d'une guerrière dragon cyberpunk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4632)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2053665980275159135) | **Published:** May 11, 2026
-
----
-### Beckoning Hand Gesture Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A technical prompt designed for generating a realistic beckoning hand gesture, providing step-by-step instructions for finger movement and hand positioning in video generation.
-
-#### 📝 Prompt
-
-```
-Her gesture is performed as follows:
-(1) Her hand is held with the palm facing upward (toward the body). 
-(2) The index (fore) finger is extended while the other fingers are clenched inward like a fist. 
-(3) Then the index finger is repeatedly curled inward and extended outward in a hooking motion. Indicating come here and come closer.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c746c5955e42bf38970c92f3743b8b25/thumbnails/thumbnail.jpg" width="600" alt="Beckoning Hand Gesture Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4561)**
-
-**Author:** [Ash](https://x.com/asheem01) | **Source:** [Link](https://x.com/asheem01/status/2053664506941735152) | **Published:** May 11, 2026
-
----
-### Prompt vidéo : Grenouilles sur un nénuphar
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt serein pour générer une vidéo de grenouilles léopards se reposant sur des nénuphars dans un étang de lotus.
-
-#### 📝 Prompt
-
-```
-Deux grenouilles léopards sur un nénuphar sous des feuilles de palmier dans un étang avec des fleurs de lotus.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/83b6348ed64237c9187340e5004645e1/thumbnails/thumbnail.jpg" width="600" alt="Prompt vidéo : Grenouilles sur un nénuphar">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4621)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2053653799773098346) | **Published:** May 11, 2026
-
----
-### Vidéo de parachutiste au-dessus d'un paysage côtier
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Capture un parachutiste survolant un littoral spectaculaire avec un éclairage à fort contraste et des couleurs océaniques vives.
-
-#### 📝 Prompt
-
-```
-Un parachutiste Environnement : à 10 000 pieds au-dessus d'un paysage côtier spectaculaire avec des falaises déchiquetées et un océan bleu profond. Lumière du jour intense et vive.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a7bde2989770de469fdb5fecab29460e/thumbnails/thumbnail.jpg" width="600" alt="Vidéo de parachutiste au-dessus d'un paysage côtier">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4624)**
-
-**Author:** [Sharon B 🔥Eternal Flame🔥 #uto](https://x.com/b_sharon62805) | **Source:** [Link](https://x.com/b_sharon62805/status/2053649274098130954) | **Published:** May 11, 2026
-
----
-### Dragons dans une forêt au clair de lune
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo cinématographique au ralenti de haute qualité montrant un dragon doré et un dragon violet interagissant tendrement dans une forêt enchantée.
-
-#### 📝 Prompt
-
-```
-Gros plan cinématographique, vidéo au ralenti. Un dragon doré massif et musclé et un dragon violet nuit plus svelte et élégant, doté d'écailles bioluminescentes étoilées, se reposent dans une forêt enchantée sous la lumière de la lune. Les deux dragons rapprochent lentement et tendrement leurs têtes l'un de l'autre. Le dragon doré donne un léger coup de museau sur le cou du dragon violet. Leurs écailles scintillent et reflètent la lumière argentée de la lune. Mouvement de caméra : plan fixe, la caméra capture les subtiles ondulations musculaires sous les écailles et la douce lueur ambrée dans leurs yeux. Atmosphère et éclairage : arrière-plan à mise au point douce avec une lune géante pleine.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8ed9d9d41f096429cc90306a18ac68e1/thumbnails/thumbnail.jpg" width="600" alt="Dragons dans une forêt au clair de lune">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4625)**
-
-**Author:** [auqib](https://x.com/auqibhabib) | **Source:** [Link](https://x.com/auqibhabib/status/2053639419266322623) | **Published:** May 11, 2026
-
----
-### Scène de bataille du Dieu de Mars
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinématographique épique représentant une divinité martienne marchant à travers une tempête de météores et d'explosions.
-
-#### 📝 Prompt
-
-```
-Le Dieu de Mars avance dans le cadre tandis que la caméra recule. Il brandit son épée de manière agressive alors que le ciel rouge, les tempêtes et les météores s'abattent sur la surface de la planète avec des explosions en arrière-plan.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bc5777014a9d0a04df7e0a8c4108d855/thumbnails/thumbnail.jpg" width="600" alt="Scène de bataille du Dieu de Mars">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4630)**
-
-**Author:** [Robadang ✏️ AI Artist](https://x.com/dang_machina) | **Source:** [Link](https://x.com/dang_machina/status/2053635757408166303) | **Published:** May 11, 2026
-
----
-### Rotating Image Sculpture Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An image-to-video prompt that instructs the model to transform the content of an image into a rotating 3D sculpture within a black frame.
-
-#### 📝 Prompt
-
-```
-Rotate on vertical ax this image inside a black background frame, not the frame, the content to be transformed into a sculpture with exactly the number of shapes hereusing this shapes and colors
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a4a441fda97b52e954842bec929d7c5a/thumbnails/thumbnail.jpg" width="600" alt="Rotating Image Sculpture Transformation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4559)**
-
-**Author:** [Ember Art](https://x.com/Ember8184Art) | **Source:** [Link](https://x.com/Ember8184Art/status/2053521107911614675) | **Published:** May 10, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2246,6 +2241,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-19T04:12:12.815Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-19T11:31:53.176Z</sub>
 
 </div>

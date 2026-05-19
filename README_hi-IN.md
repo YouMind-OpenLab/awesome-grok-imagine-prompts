@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1559** |
+| 📝 Total Prompts | **1569** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-19** |
 
@@ -189,6 +189,158 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### नाचते हुए फूल और पृथ्वी का वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक मनमोहक वीडियो प्रॉम्प्ट जिसमें नाचते हुए फूल के पीछे दिल, एक रंगीन घर और पृथ्वी का दृश्य शामिल करने का अनुरोध किया गया है।
+
+#### 📝 Prompt
+
+```
+आज रात, मेरी बेटी Savannah एक नाचते हुए फूल की तस्वीर बनाना चाहती है जिसके पीछे दिल हों। वह यह भी अनुरोध कर रही है कि क्या उसे गुलाबी और बैंगनी रंग का घर मिल सकता है। वह वीडियो में पृथ्वी को भी देखना पसंद करेगी।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/597fbfe89eea55e0b284a2882366d9e8/thumbnails/thumbnail.jpg" width="600" alt="नाचते हुए फूल और पृथ्वी का वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5004)**
+
+**Author:** [Firecracker](https://x.com/CantTameFire) | **Source:** [Link](https://x.com/CantTameFire/status/2056550752038883413) | **Published:** May 19, 2026
+
+---
+### सिनेमैटिक काउबॉय संवाद
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक विस्तृत वीडियो प्रॉम्प्ट जो वेस्टर्न सेटिंग में कई पात्रों के बीच एक विशिष्ट संवाद दृश्य तैयार करता है।
+
+#### 📝 Prompt
+
+```
+लियोला (Leola) को दाईं ओर रखें और उससे फेय (Faye) से यह पूछने के लिए कहें कि असली काउबॉय कहाँ हैं, फिर दो आकर्षक, थोड़े अधिक उम्र के मर्दाना काउबॉय को यह कहते हुए दिखाएं कि हम यहाँ हैं, गर्ल्स!
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/058258b42f1e3133a715ce697e7f0a89/thumbnails/thumbnail.jpg" width="600" alt="सिनेमैटिक काउबॉय संवाद">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5002)**
+
+**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2056504322095980830) | **Published:** May 18, 2026
+
+---
+### चमकते टेक्स्ट के साथ मर्दाना काउबॉय
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वीडियो प्रॉम्प्ट जो मॉडल को पात्रों की मर्दानगी को समायोजित करने और अंत में विशिष्ट एनिमेटेड चमकता हुआ टेक्स्ट जोड़ने का निर्देश देता है।
+
+#### 📝 Prompt
+
+```
+काउबॉय को थोड़ा और मर्दाना बनाएं, और फिर अंतिम पेज पर चमकते अक्षरों में 'Faye' लिखें
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a4cbdcb5e9b5cb3775a98ff0f054e307/thumbnails/thumbnail.jpg" width="600" alt="चमकते टेक्स्ट के साथ मर्दाना काउबॉय">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5003)**
+
+**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2056501407734206619) | **Published:** May 18, 2026
+
+---
+### हैंडहेल्ड शेकी कैमरा ज़ूम पोर्ट्रेट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक हैंडहेल्ड, शेकी कैमरा ज़ूम के लिए एक सिनेमैटिक मोशन प्रॉम्प्ट, जो एक महिला के चेहरे पर केंद्रित है जब वह धीरे से मुस्कुराती है।
+
+#### 📝 Prompt
+
+```
+कैमरा धीरे-धीरे उसके चेहरे पर ज़ूम इन करता है, हैंड हेल्ड कैमरा शेकी, महिला धीरे से मुस्कुराती है
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f178a9dea58799bf74ca5e7e70eeacb9/thumbnails/thumbnail.jpg" width="600" alt="हैंडहेल्ड शेकी कैमरा ज़ूम पोर्ट्रेट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4999)**
+
+**Author:** [Patrick Jordan](https://x.com/gyjfbngcv6) | **Source:** [Link](https://x.com/gyjfbngcv6/status/2056496860093710843) | **Published:** May 18, 2026
+
+---
+### आनंदमयी सूर्योदय उत्सव
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सिनेमाई वीडियो प्रॉम्प्ट जिसमें एक व्यक्ति सूरज की रोशनी में खुशी से उछल रहा है, उसके चारों ओर पक्षी हैं और उसकी पत्नी उसे गले लगा रही है।
+
+#### 📝 Prompt
+
+```
+वह खुश होने का फैसला करता है और ऊपर की ओर उछलकर अपने हाथ हवा में लहराता है, सूरज की किरणें सीधे उस पर पड़ रही हैं और पक्षी उसके चारों ओर उड़ रहे हैं!! और उसकी पत्नी दौड़कर उसे गले लगा लेती है!!!
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/19c5a88a9522632a2eb3dbe2c31729a1/thumbnails/thumbnail.jpg" width="600" alt="आनंदमयी सूर्योदय उत्सव">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4998)**
+
+**Author:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **Source:** [Link](https://x.com/CindyWeigapn6/status/2056478511641010280) | **Published:** May 18, 2026
+
+---
+### John Wick Cat Action Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक हाई-कॉन्ट्रास्ट, हाइपर-डिटेल्ड एक्शन प्रॉम्प्ट, जिसमें जॉन विक (John Wick) स्टाइल का एक बिल्ली एजेंट विस्फोट के बीच समय रुकने वाले दृश्य में ऑर्बिटिंग कैमरे के साथ दिखाई दे रहा है।
+
+#### 📝 Prompt
+
+```
+शहर की सड़क पर विस्फोट के बीच समय थम गया है, मलबा हवा में लटका हुआ है, कैमरा एक स्थिर एजेंट बिल्ली के चारों ओर घूम रहा है जो छलांग लगाने की स्थिति में है — हाई कॉन्ट्रास्ट, फोटो-रियलिस्टिक, 4K हाइपर डिटेल।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/437e7d0111ea1ac51d93f986814d875b/thumbnails/thumbnail.jpg" width="600" alt="John Wick Cat Action Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4996)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2056368161361158235) | **Published:** May 18, 2026
+
+---
+### साइबर समुराई पावर आर्मर वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 6-सेकंड के वर्टिकल वीडियो के लिए एक अल्ट्रा-डिटेल्ड सिनेमैटिक प्रॉम्प्ट, जिसमें शिफ्टिंग मेच आर्मर में एक साइबर-समुराई योद्धा को दिखाया गया है।
+
+#### 📝 Prompt
+
+```
+6-सेकंड का अल्ट्रा-डिटेल्ड सिनेमैटिक वीडियो, नेक्स्ट-लेवल ट्रांसफॉर्मर्स और साइबरपंक साइंस-फिक्शन का संगम। भारी ट्रांसफॉर्मिंग पावर आर्मर में एक सुंदर एशियाई महिला साइबर-समुराई योद्धा मजबूती से केंद्र में खड़ी है। उसके स्लीक ब्लैक-सिल्वर मेच सूट में चमकती नारंगी-सुनहरी ड्रैगन एनर्जी लाइन्स हैं जो छाती, कंधों और पैरों पर स्पंदित और प्रवाहित होती हैं। जटिल लायन-ड्रैगन शोल्डर गार्ड्स, गहरे लाल गुलाब और यांत्रिक आभूषणों वाला अलंकृत हेलमेट, लंबी लहराती केप। वह नाटकीय रूप से एक विशाल चमकती एनर्जी कटाना निकालती है और उसे प्रज्वलित करती है, जिसमें ज्वाला के पैटर्न घूम रहे हैं। आर्मर प्लेट्स यांत्रिक रूप से स्पार्क्स और हाइड्रोलिक मूवमेंट के साथ शिफ्ट और ट्रांसफॉर्म होती हैं। एपिक स्लो-मोशन एक्शन सीक्वेंस: वह घूमती है, वार करती है, और उसके चारों ओर ऊर्जा का विस्फोट होता है। बैकग्राउंड: साइबर-सैनिकों की विशाल सेना, चमकते प्रतीक वाला विशाल लाल युद्ध बैनर, धुएं, नियॉन एक्सेंट और मंडराते ड्रोन्स के साथ डिस्टोपियन युद्ध का मैदान। सिनेमैटिक कैमरा मूवमेंट: लो एंगल सर्कलिंग शॉट, नाटकीय लाइटिंग, वॉल्यूमेट्रिक गॉड रेज़, स्पार्क्स, एनर्जी इफेक्ट्स। हाइपर-रियलिस्टिक, फोटो-रियलिस्टिक, मास्टरपीस, बेस्ट क्वालिटी, 8K, तीव्र साइंस-फिक्शन वातावरण --ar 9:16 --motion 3
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e833ca7a336a095a5d09a0fecd6d220f/thumbnails/thumbnail.jpg" width="600" alt="साइबर समुराई पावर आर्मर वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4995)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2056365724461941119) | **Published:** May 18, 2026
+
+---
+### सिनात्रा और योगी बेरा का पिज़्ज़ा डिनर
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सिनेमैटिक वीडियो प्रॉम्प्ट जिसमें फ्रैंक सिनात्रा और योगी बेरा डिज़ाइनर सूट पहने एक मेज़ पर पिज़्ज़ा और बीयर का आनंद ले रहे हैं।
+
+#### 📝 Prompt
+
+```
+उन्होंने डिज़ाइनर इटैलियन सूट पहने हैं और उनके साथ फ्रैंक सिनात्रा और योगी बेरा मौजूद हैं। इसके बाद वे एक मेज़ पर बैठकर पिज़्ज़ा और पेरोनी बीयर का आनंद लेते हैं ....
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ff77132e761ee73566ea04caea2630bf/thumbnails/thumbnail.jpg" width="600" alt="सिनात्रा और योगी बेरा का पिज़्ज़ा डिनर">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5001)**
+
+**Author:** [the moose 55](https://x.com/themoose551) | **Source:** [Link](https://x.com/themoose551/status/2056339167005573434) | **Published:** May 18, 2026
+
+---
 ### युद्ध के मैदान में दौड़ते ग्लेडियेटर्स
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -220,11 +372,57 @@ Why use our gallery?
 कैथार्टिक रिलीज को दर्शाती सूक्ष्म प्राकृतिक शारीरिक भाषा, गर्म रोशनी में गालों पर चमकते स्पष्ट आंसू, कैथार्टिक भावनात्मक माहौल, मुद्रा के माध्यम से व्यक्त की गई गहरी कृतज्ञता
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4e3e18096b7246289780854b79a3c57a/thumbnails/thumbnail.jpg" width="600" alt="प्राकृतिक भावनात्मक आंसुओं का एनीमेशन">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1739971bf9e34c3c9370451c071f3dd5/thumbnails/thumbnail.jpg" width="600" alt="प्राकृतिक भावनात्मक आंसुओं का एनीमेशन">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4960)**
 
 **Author:** [ILOVEDOGE](https://x.com/6BWS9) | **Source:** [Link](https://x.com/6BWS9/status/2056280118885277704) | **Published:** May 18, 2026
+
+---
+### अतियथार्थवादी फैशन क्रिस्टल लोटस
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक विस्तृत एडिटोरियल वीडियो प्रॉम्प्ट जिसमें एक सुंदर महिला, एक सफेद बिल्ली और एक विशाल इंद्रधनुषी क्रिस्टल कमल दिखाया गया है।
+
+#### 📝 Prompt
+
+```
+एक सुंदर महिला का अतियथार्थवादी एडिटोरियल चित्रण, जिसके बाल पीछे की ओर सलीके से बंधे हैं। वह प्रोफाइल में दिखाई दे रही है और उसने गहरे नीले रंग का नाटकीय फ्लोर-लेंथ टर्टलनेक गाउन पहना है, जिसकी लंबी आस्तीनें उसके पैरों पर खूबसूरती से गिर रही हैं। उसके पीछे और ऊपर एक असाधारण रूप से बड़ा, काल्पनिक क्रिस्टल कमल का फूल है — जो अलौकिक और अद्वितीय है, जिसकी इंद्रधनुषी पंखुड़ियाँ विषम रूप से घूमती हैं। इसमें गहरे मैजेंटा और बैंगनी रंगों का मिश्रण है, जिसके किनारे पारभासी मोती-सफेद हैं जो धीरे-धीरे चमकते हुए प्रतीत होते हैं, किसी भी वास्तविक कमल से अलग — इसका लंबा तना उसके शरीर के बगल में बड़े विदेशी पत्तों के साथ खूबसूरती से मुड़ा हुआ है। उसके पैरों के पास एक बेदाग सफेद बिल्ली बैठी है जिसकी चमकदार नीली आँखें हैं, जो शांत रहस्य के साथ आगे देख रही है। पृष्ठभूमि एक मूडी, म्यूट सेज-ग्रीन रंग की है जिसमें हल्के सुनहरे रंग की झलक है, जो पेंटिंग जैसी और वायुमंडलीय है। समग्र मूड काव्यात्मक, रहस्यमय और फैशन-फॉरवर्ड है। शैली: सिनेमाई प्रकाश व्यवस्था के साथ डिजिटल फाइन आर्ट चित्रण, उच्च विवरण, एडिटोरियल लालित्य।
+
+उसे क्रिस्टल के फूलों का एक गुलदस्ता दिया गया है
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/79c62fe707db4a649031f2cf9e728d9a/thumbnails/thumbnail.jpg" width="600" alt="अतियथार्थवादी फैशन क्रिस्टल लोटस">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4997)**
+
+**Author:** [Y.J Z.C](https://x.com/yjzc424985) | **Source:** [Link](https://x.com/yjzc424985/status/2056267062641889425) | **Published:** May 18, 2026
+
+---
+### विशाल बायोमैकेनिकल साइबरपंक मेका वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक नियॉन मेगासिटी में सक्रिय होते 200 मीटर ऊंचे युद्ध मशीन के लिए एक विस्तृत सिनेमैटिक प्रॉम्प्ट, जिसमें जटिल गति और लाइटिंग के निर्देश शामिल हैं।
+
+#### 📝 Prompt
+
+```
+सिनेमैटिक 6-सेकंड का फोटो-रियलिस्टिक वीडियो, अल्ट्रा-डिटेल्ड 8K, रेफरेंस इमेज से प्रेरित नेक्स्ट-लेवल ट्रांसफॉर्मर्स-स्टाइल का विशाल साइबरपंक मेका।
+
+एक 200 मीटर ऊंचा विशाल बायोमैकेनिकल युद्ध मशीन, जिसके सिर पर बड़े मुड़े हुए सुनहरे सींग हैं, छाती में चमकता हुआ पिघला हुआ नारंगी कोर, युद्ध से घिसी हुई सफेद और सुनहरी कवच प्लेटिंग, और पीठ के पीछे डार्क एनर्जी विंग्स की तरह घूमते हुए विशाल नुकीले मैकेनिकल रिंग्स हैं। यह रोबोट शाम के समय नियॉन से सराबोर एक विशाल साइबरपंक मेगासिटी के ऊपर हावी होकर खड़ा है, जहां घनी गगनचुंबी इमारतें होलोग्राफिक विज्ञापनों से चमक रही हैं और उड़ने वाले वाहन इमारतों के बीच से गुजर रहे हैं।
+
+डायनामिक कैमरा मूवमेंट: शुरुआत एक लो-एंगल हीरो शॉट से होती है जो धुंधली सड़कों से ऊपर उठकर विशालकाय रोबोट के पैरों और धड़ तक जाता है, जिससे इसकी चमकती आंखें और नाटकीय सूर्यास्त के आकाश के सामने इसकी प्रभावशाली सींगों वाली आकृति दिखाई देती है। 3 सेकंड पर, मेका धीरे-धीरे पावर अप होता है — इसके सर्किट में चमकीली नारंगी ऊर्जा दौड़ती है, जोड़ों से भाप और चिंगारियां निकलती हैं, और घूमते हुए रिंग्स इलेक्ट्रिक आर्क के साथ तेजी से घूमने लगते हैं। 5 सेकंड पर, यह एक विशाल, धरती को हिला देने वाला कदम आगे बढ़ाता है, जिससे नीचे शहर में शॉकवेव्स और धूल के बादल उठते हैं जबकि फाइटर ड्रोन इसके चारों ओर मंडराते हैं।
+
+फोटो-रियलिस्टिक विवरण, जटिल धात्विक बनावट, वॉल्यूमेट्रिक गॉड रेज़, गहरे टील-ऑरेंज साइबरपंक पैलेट के साथ सिनेमैटिक कलर ग्रेडिंग, एनामोर्फिक लेंस, सूक्ष्म फिल्म ग्रेन, IMAX क्वालिटी, हाइपर-रियलिस्टिक मोशन, महाकाव्य पैमाना, नाटकीय लाइटिंग, मास्टरपीस, सर्वश्रेष्ठ गुणवत्ता।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b0a6e1afdf74f0b9b3a87cf1e7436970/thumbnails/thumbnail.jpg" width="600" alt="विशाल बायोमैकेनिकल साइबरपंक मेका वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5000)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2056233579789873411) | **Published:** May 18, 2026
 
 ---
 ### एरियल सिटी कंस्ट्रक्शन ट्रांसफॉर्मेशन
@@ -1984,209 +2182,6 @@ low quality, blurry, deformed, extra limbs, weapon, gun, text artifacts, waterma
 **Author:** [AI Aimee](https://x.com/RockGrokAI) | **Source:** [Link](https://x.com/RockGrokAI/status/2053826199671984197) | **Published:** May 11, 2026
 
 ---
-### साइबर-ड्रैगन हाइब्रिड वॉरियर
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> साइबरपंक इंडस्ट्रियल फैक्ट्री सेटिंग में एक साइबरनेटिक ड्रैगन योद्धा के लिए एक विस्तृत सिनेमैटिक वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-एक शानदार फोटो-रियलिस्टिक 6-सेकंड का सिनेमैटिक वीडियो, जिसमें एक अद्भुत साइबर-ड्रैगन हाइब्रिड महिला योद्धा दिखाई गई है, जिसका डिज़ाइन नेक्स्ट-लेवल ट्रांसफॉर्मर्स और डार्क साइबरपंक साइंस-फिक्शन का मेल है। उसके पास जटिल धात्विक स्केल्स, नुकीले सींग, चमकती लाल आँखें और चेहरे के किनारे पर मानवीय महिला विशेषताओं वाला एक उग्र बायोमैकेनिकल ड्रैगन सिर है। उसका शरीर ऑर्गेनिक कर्व्स और उन्नत साइबरनेटिक आर्मर का एक बेहतरीन मिश्रण है, जिसमें ओब्सीडियन ब्लैक, गनमेटल सिल्वर और ब्रॉन्ज रंगों में खुली वायरिंग, चमकते सर्किट और सरीसृप जैसे स्केल्स के पैटर्न हैं। उसने हाई-फैशन विवरणों वाली एक सुंदर, फिटिंग वाली लंबी काली ड्रेस पहनी है, जिसके कंधों, बाहों और कूल्हों पर सूक्ष्म ड्रैगन-स्केल आर्मर के टुकड़े लगे हैं। उसके पीछे कांटों वाली एक लंबी, शक्तिशाली मैकेनिकल ड्रैगन पूंछ लहरा रही है। वह एक विशाल, वायुमंडलीय साइबरपंक इंडस्ट्रियल फैक्ट्री के अंदर एक नाटकीय और आत्मविश्वास से भरी मुद्रा में खड़ी है, जहाँ लटकती जंजीरें, जंग लगे पाइप, चिंगारियां, नियॉन एक्सेंट और घने कोहरे के बीच से आती हुई वॉल्यूमेट्रिक गॉड रेज़ मौजूद हैं। कैमरा मोशन (6 सेकंड): शुरुआत एक धीमे, शक्तिशाली फुल-बॉडी ट्रैकिंग शॉट से होती है जो उसके चारों ओर बाएं से दाएं घूमता है। 2 सेकंड पर, वह धीरे से अपना सिर कैमरे की ओर घुमाती है, उसकी लाल आँखें चमक उठती हैं। 3.5 सेकंड पर, वह एक शक्तिशाली कदम आगे बढ़ाती है, उसकी पूंछ मैकेनिकल सटीकता के साथ हिलती है और फर्श से चिंगारियां निकलती हैं। अंतिम 2 सेकंड: एक नाटकीय लो-एंगल हीरो शॉट, जिसमें वह अपना पंजों वाला हाथ उठाती है, उसके सर्किट में ऊर्जा दौड़ रही है, साथ ही तीव्र सिनेमैटिक लाइटिंग और लेंस फ्लेयर्स हैं। अल्ट्रा फोटो-रियलिस्टिक, 8K, हाइपर-डिटेल्ड टेक्सचर, सिनेमैटिक कलर ग्रेडिंग, ड्रामेटिक रिम लाइटिंग, मूडी साइबरपंक वातावरण, Arri Alexa 65 + एनामोर्फिक लेंस पर शूट किया गया, सूक्ष्म फिल्म ग्रेन, त्रुटिहीन विवरण, मास्टरपीस क्वालिटी, नेक्स्ट-लेवल ट्रांसफॉर्मर्स-लेवल मैकेनिकल जटिलता और यथार्थवाद।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8fd995c501e6cf1cc653ea9d70fc4836/thumbnails/thumbnail.jpg" width="600" alt="साइबर-ड्रैगन हाइब्रिड वॉरियर">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4627)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2053736079375970441) | **Published:** May 11, 2026
-
----
-### Kids and Deer in Meadow
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A heartwarming video prompt featuring children playing with deer in a sunlit forest meadow.
-
-#### 📝 Prompt
-
-```
-kids joyfully playing with gentle deer in a sunlit forest clearing laughter echoing, tails wagging, and hearts full of wonder
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1e953ff17ed665ea97099d21f6c68106/thumbnails/thumbnail.jpg" width="600" alt="Kids and Deer in Meadow">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4563)**
-
-**Author:** [Love Web3 World](https://x.com/WebThreeAI) | **Source:** [Link](https://x.com/WebThreeAI/status/2053710849521664006) | **Published:** May 11, 2026
-
----
-### मध्ययुगीन डबल एक्सपोज़र एनीमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक जटिल विज़ुअल इफ़ेक्ट प्रॉम्प्ट जो एक मध्ययुगीन जोड़े को महल और स्टेनड ग्लास ऑर्गन के साथ मिश्रित करता है।
-
-#### 📝 Prompt
-
-```
-एक प्यार करने वाले मध्ययुगीन पुरुष-महिला जोड़े का डबल एक्सपोज़र पोर्ट्रेट, जो उनके रूपों में विलीन होते एक भव्य महल के साथ सहजता से मिश्रित है। दोनों लोग जटिल स्टेनड ग्लास खिड़कियों में घुल-मिल जाते हैं, जो एक पुरानी शैली के ऑर्गन (Orgel) के साथ सहजता से मिश्रित हैं।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bab2c93c07dd93f710ee0fd2f1d7b469/thumbnails/thumbnail.jpg" width="600" alt="मध्ययुगीन डबल एक्सपोज़र एनीमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4631)**
-
-**Author:** [Carina](https://x.com/Freehere3) | **Source:** [Link](https://x.com/Freehere3/status/2053688075151192409) | **Published:** May 11, 2026
-
----
-### साइबरपंक ड्रैगन वॉरियर ट्रांसफॉर्मेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> भविष्यवादी औद्योगिक परिवेश में एक महिला साइबरपंक ड्रैगन-हाइब्रिड योद्धा के हाई-टेक रूपांतरण अनुक्रम के लिए एक विस्तृत सिनेमैटिक प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-सिनेमैटिक 6-सेकंड का फोटो-रियलिस्टिक वीडियो, अल्ट्रा-डिटेल्ड 8K, नेक्स्ट-लेवल ट्रांसफॉर्मर्स-स्टाइल साइबरपंक साइंस-फिक्शन एक्शन सीक्वेंस।
-
-एक शक्तिशाली महिला साइबरपंक ड्रैगन-हाइब्रिड योद्धा (रेफरेंस के अनुसार बिल्कुल वही कैरेक्टर: चमकती इलेक्ट्रिक नीली आंखों वाला सुंदर उग्र चेहरा, गुस्से में चिल्लाता हुआ खुला मुंह, सिर पर विस्तृत धात्विक ड्रैगन सींग और शल्क, लंबे गूंथे हुए बाल, विशाल यांत्रिक ड्रैगन पंख) ऊंचे पाइपों, चमकती नियॉन लाइटों, चिंगारियों और घने भाप से भरे एक अंधेरे भविष्यवादी औद्योगिक कारखाने में खड़ी है।
-
-वह एक तरल, हाई-टेक अनुक्रम में नाटकीय रूप से रूपांतरित होती है: उसकी कवच प्लेटें उन्नत ट्रांसफॉर्मर्स की तरह यांत्रिक सटीकता के साथ शिफ्ट और अनफोल्ड होती हैं, जिससे अधिक जटिल बायोमैकेनिकल विवरण, चमकती ऊर्जा रेखाएं और उसके कंधों व भुजाओं से तैनात हथियार प्रणालियां दिखाई देती हैं। उसके विशाल पंख एक शक्तिशाली 'वूश' के साथ पूरी तरह फैल जाते हैं, जिससे चिंगारियां और मलबा बिखर जाता है।
-
-डायनेमिक कैमरा मूवमेंट: एक नाटकीय लो-एंगल फुल-बॉडी शॉट से शुरू होता है, फिर उसके चारों ओर सुचारू रूप से घूमता है जबकि वह दहाड़ती है और अपने सूट के माध्यम से नीली ऊर्जा के साथ पावर अप करती है। विस्फोटक पार्टिकल इफेक्ट्स, धुएं के बीच से आती वॉल्यूमेट्रिक गॉड रेज़, गहरे छाया और सियान-ऑरेंज कलर ग्रेडिंग के साथ तीव्र सिनेमैटिक लाइटिंग।
-
-धातु, शल्क और त्वचा पर हाइपर-रियलिस्टिक टेक्सचर, त्रुटिहीन गति, 24fps, हॉलीवुड ब्लॉकबस्टर क्वालिटी, डेनिस विलेन्यूवे की साइंस-फिक्शन फिल्म की तरह निर्देशित, महाकाव्य और तीव्र वातावरण, कोई टेक्स्ट नहीं, सीमलेस लूपेबल ट्रांसफॉर्मेशन एक्शन।
-
---ar 16:9 --stylize 750 --v 6
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b21ae69918a56edb16129386d48d9afd/thumbnails/thumbnail.jpg" width="600" alt="साइबरपंक ड्रैगन वॉरियर ट्रांसफॉर्मेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4632)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2053665980275159135) | **Published:** May 11, 2026
-
----
-### Beckoning Hand Gesture Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A technical prompt designed for generating a realistic beckoning hand gesture, providing step-by-step instructions for finger movement and hand positioning in video generation.
-
-#### 📝 Prompt
-
-```
-Her gesture is performed as follows:
-(1) Her hand is held with the palm facing upward (toward the body). 
-(2) The index (fore) finger is extended while the other fingers are clenched inward like a fist. 
-(3) Then the index finger is repeatedly curled inward and extended outward in a hooking motion. Indicating come here and come closer.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c746c5955e42bf38970c92f3743b8b25/thumbnails/thumbnail.jpg" width="600" alt="Beckoning Hand Gesture Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4561)**
-
-**Author:** [Ash](https://x.com/asheem01) | **Source:** [Link](https://x.com/asheem01/status/2053664506941735152) | **Published:** May 11, 2026
-
----
-### लिली पैड पर मेंढकों के लिए वीडियो प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> कमल के तालाब के वातावरण में लिली पैड पर आराम करते हुए तेंदुआ मेंढकों का वीडियो बनाने के लिए एक शांत प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-कमल के फूलों वाले तालाब में ताड़ के पत्तों के नीचे लिली पैड पर दो तेंदुआ मेंढक।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/83b6348ed64237c9187340e5004645e1/thumbnails/thumbnail.jpg" width="600" alt="लिली पैड पर मेंढकों के लिए वीडियो प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4621)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2053653799773098346) | **Published:** May 11, 2026
-
----
-### तटीय परिदृश्य स्काईडाइवर वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> यह वीडियो एक नाटकीय तटरेखा के ऊपर स्काईडाइवर को कैद करता है, जिसमें उच्च कंट्रास्ट लाइटिंग और समुद्र के जीवंत रंग दिखाई देते हैं।
-
-#### 📝 Prompt
-
-```
-एक स्काईडाइवर  वातावरण: ऊबड़-खाबड़ चट्टानों और गहरे नीले समुद्र वाले एक नाटकीय तटीय परिदृश्य से 10,000 फीट ऊपर। तीव्र, उज्ज्वल दिन का प्रकाश।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a7bde2989770de469fdb5fecab29460e/thumbnails/thumbnail.jpg" width="600" alt="तटीय परिदृश्य स्काईडाइवर वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4624)**
-
-**Author:** [Sharon B 🔥Eternal Flame🔥 #uto](https://x.com/b_sharon62805) | **Source:** [Link](https://x.com/b_sharon62805/status/2053649274098130954) | **Published:** May 11, 2026
-
----
-### चांदनी रात के जंगल में ड्रेगन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक जादुई जंगल में सुनहरे और बैंगनी रंग के ड्रेगन के बीच कोमल बातचीत का एक उच्च-गुणवत्ता वाला सिनेमैटिक स्लो-मोशन प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-सिनेमैटिक क्लोज-अप, स्लो-मोशन वीडियो। एक विशाल, मांसल सुनहरा ड्रैगन और तारों जैसी बायोलुमिनेसेंट (चमकदार) स्केल्स वाला एक अधिक पतला, सुंदर गहरा बैंगनी ड्रैगन चांदनी से सराबोर एक जादुई जंगल में आराम कर रहे हैं। दोनों ड्रैगन धीरे-धीरे और कोमलता से अपने सिर एक-दूसरे की ओर बढ़ाते हैं। सुनहरा ड्रैगन धीरे से बैंगनी ड्रैगन की गर्दन को सहलाता है। उनकी स्केल्स चमकती हैं और चांदी जैसी चांदनी को प्रतिबिंबित करती हैं। कैमरा मूवमेंट: स्थिर शॉट, कैमरा स्केल्स के नीचे मांसपेशियों की सूक्ष्म हलचल और उनकी आंखों में हल्की एम्बर चमक को कैद करता है। वातावरण और प्रकाश: विशाल पूर्णिमा के साथ सॉफ्ट-फोकस बैकग्राउंड।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8ed9d9d41f096429cc90306a18ac68e1/thumbnails/thumbnail.jpg" width="600" alt="चांदनी रात के जंगल में ड्रेगन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4625)**
-
-**Author:** [auqib](https://x.com/auqibhabib) | **Source:** [Link](https://x.com/auqibhabib/status/2053639419266322623) | **Published:** May 11, 2026
-
----
-### मंगल ग्रह के देवता का युद्ध दृश्य
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> मंगल ग्रह के एक देवता का उल्कापिंडों और विस्फोटों के तूफान के बीच चलने का एक महाकाव्य सिनेमाई प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-मंगल ग्रह का देवता फ्रेम में आगे की ओर चलता है और कैमरा पीछे की ओर ट्रैक करता है। वह आक्रामक तरीके से अपनी तलवार घुमाता है, जबकि लाल आकाश, तूफान और उल्कापिंड पृष्ठभूमि में विस्फोटों के साथ ग्रह की सतह पर गिर रहे हैं।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bc5777014a9d0a04df7e0a8c4108d855/thumbnails/thumbnail.jpg" width="600" alt="मंगल ग्रह के देवता का युद्ध दृश्य">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4630)**
-
-**Author:** [Robadang ✏️ AI Artist](https://x.com/dang_machina) | **Source:** [Link](https://x.com/dang_machina/status/2053635757408166303) | **Published:** May 11, 2026
-
----
-### Rotating Image Sculpture Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An image-to-video prompt that instructs the model to transform the content of an image into a rotating 3D sculpture within a black frame.
-
-#### 📝 Prompt
-
-```
-Rotate on vertical ax this image inside a black background frame, not the frame, the content to be transformed into a sculpture with exactly the number of shapes hereusing this shapes and colors
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a4a441fda97b52e954842bec929d7c5a/thumbnails/thumbnail.jpg" width="600" alt="Rotating Image Sculpture Transformation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4559)**
-
-**Author:** [Ember Art](https://x.com/Ember8184Art) | **Source:** [Link](https://x.com/Ember8184Art/status/2053521107911614675) | **Published:** May 10, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2248,6 +2243,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-19T04:12:07.235Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-19T11:31:45.658Z</sub>
 
 </div>

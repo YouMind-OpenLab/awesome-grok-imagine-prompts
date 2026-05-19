@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1559** |
+| 📝 Total Prompts | **1569** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-19** |
 
@@ -189,6 +189,158 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Dans Eden Çiçek ve Dünya Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kalplerle dans eden bir çiçek, renkli bir ev ve Dünya gezegeni manzarası içeren iç açıcı bir video istemi.
+
+#### 📝 Prompt
+
+```
+Bu akşam kızım Savannah, arkasında kalpler olan dans eden bir çiçek resmi yapmak istiyor. Ayrıca pembe ve mor bir ev eklenmesini rica ediyor. Videoda Dünya'yı da görmeyi çok ister.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/597fbfe89eea55e0b284a2882366d9e8/thumbnails/thumbnail.jpg" width="600" alt="Dans Eden Çiçek ve Dünya Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5004)**
+
+**Author:** [Firecracker](https://x.com/CantTameFire) | **Source:** [Link](https://x.com/CantTameFire/status/2056550752038883413) | **Published:** May 19, 2026
+
+---
+### Sinematik Kovboy Diyaloğu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir western ortamında birden fazla karakter arasındaki belirli bir diyalog sahnesini kurgulayan detaylı bir video istemi.
+
+#### 📝 Prompt
+
+```
+Sağ taraftaki Leola'nın Faye'e gerçek kovboyların nerede olduğunu sormasını sağlayın; ardından hafif yaşlı, yakışıklı ve maskülen iki kovboyun 'İşte buradayız kızlar!' demesini sağlayın.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/058258b42f1e3133a715ce697e7f0a89/thumbnails/thumbnail.jpg" width="600" alt="Sinematik Kovboy Diyaloğu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5002)**
+
+**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2056504322095980830) | **Published:** May 18, 2026
+
+---
+### Işıltılı Metinli Maskülen Kovboylar
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Modelin karakter maskülenliğini ayarlamasını ve sonunda belirli bir animasyonlu ışıltılı metin eklemesini sağlayan bir video istemi.
+
+#### 📝 Prompt
+
+```
+Kovboyları biraz daha maskülen yap ve ardından son sayfada ışıltılı harflerle Faye yazısını ekle
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a4cbdcb5e9b5cb3775a98ff0f054e307/thumbnails/thumbnail.jpg" width="600" alt="Işıltılı Metinli Maskülen Kovboylar">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5003)**
+
+**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2056501407734206619) | **Published:** May 18, 2026
+
+---
+### Elde Taşınan Sarsıntılı Kamera ile Yakın Çekim Portre
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir kadının yüzüne odaklanan ve o hafifçe gülümsemeye başladığında devreye giren, elde taşınan sarsıntılı kamera yakınlaştırması için sinematik bir hareket istemi.
+
+#### 📝 Prompt
+
+```
+kamera yavaşça yüzüne yakınlaşıyor, elde taşınan sarsıntılı kamera, kadın hafifçe gülümsüyor
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f178a9dea58799bf74ca5e7e70eeacb9/thumbnails/thumbnail.jpg" width="600" alt="Elde Taşınan Sarsıntılı Kamera ile Yakın Çekim Portre">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4999)**
+
+**Author:** [Patrick Jordan](https://x.com/gyjfbngcv6) | **Source:** [Link](https://x.com/gyjfbngcv6/status/2056496860093710843) | **Published:** May 18, 2026
+
+---
+### Neşeli Güneş Işığı Kutlaması
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Güneş ışığı altında, kuşlarla çevrili bir şekilde zıplayarak sevincini yaşayan ve eşi tarafından kucaklanan bir adamın sinematik video istemi.
+
+#### 📝 Prompt
+
+```
+Mutlu olmaya karar veriyor, yukarı doğru zıplayıp ellerini havaya kaldırıyor; güneş doğrudan üzerine parlıyor ve kuşlar etrafında uçuşuyor!! Sonrasında eşi koşarak gelip ona sarılıyor!!!
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/19c5a88a9522632a2eb3dbe2c31729a1/thumbnails/thumbnail.jpg" width="600" alt="Neşeli Güneş Işığı Kutlaması">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4998)**
+
+**Author:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **Source:** [Link](https://x.com/CindyWeigapn6/status/2056478511641010280) | **Published:** May 18, 2026
+
+---
+### John Wick Kedi Aksiyon Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> John Wick tarzı kedi bir ajanın, patlama anında zamanın donduğu ve kameranın etrafında döndüğü bir sahnede yer aldığı, yüksek kontrastlı ve hiper detaylı bir aksiyon istemi.
+
+#### 📝 Prompt
+
+```
+Şehir merkezinde bir sokakta patlama anında zaman donuyor, enkaz havada asılı kalıyor, kamera havada sıçramış hareketsiz bir kedi ajanın etrafında dönüyor — yüksek kontrast, fotogerçekçi, 4K hiper detay.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/437e7d0111ea1ac51d93f986814d875b/thumbnails/thumbnail.jpg" width="600" alt="John Wick Kedi Aksiyon Sahnesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4996)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2056368161361158235) | **Published:** May 18, 2026
+
+---
+### Cyber Samurai Güç Zırhı Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Değişen mekanik zırh içindeki bir cyber-samuray savaşçısını konu alan, 6 saniyelik dikey video için ultra detaylı sinematik komut.
+
+#### 📝 Prompt
+
+```
+6 saniyelik ultra detaylı sinematik video, Transformers ile cyberpunk bilim kurgunun birleştiği üst düzey bir çalışma. Ağır ve dönüşebilen bir güç zırhı içindeki güzel bir Asyalı kadın cyber-samuray savaşçısı, merkezde güçlü bir duruş sergiliyor. Şık siyah-gümüş mekanik kıyafeti, göğüs, omuz ve bacaklarında nabız gibi atan ve akan parlayan turuncu-altın ejderha enerjisi çizgilerine sahip. Karmaşık aslan-ejderha omuz korumaları, koyu kırmızı güller ve mekanik süslemelerle bezeli gösterişli bir kask, uzun ve dalgalı bir pelerin. Dramatik bir şekilde devasa, parlayan ve üzerinde alev desenleri dönen bir enerji katanasını çekip ateşliyor. Zırh plakaları kıvılcımlar ve hidrolik hareketlerle mekanik olarak kayıyor ve dönüşüyor. Epik ağır çekim aksiyon sekansı: dönüyor, kesiyor ve etrafında enerji patlamaları yaşanıyor. Arka plan: devasa bir cyber-asker ordusu, parlayan sembollü dev kırmızı savaş sancağı, dumanlı, neon vurgulu ve havada asılı dronların olduğu distopik bir savaş alanı. Sinematik kamera hareketi: düşük açılı dairesel çekim, dramatik aydınlatma, hacimsel tanrı ışıkları, kıvılcımlar, enerji efektleri. Hiper gerçekçi, fotogerçekçi, başyapıt, en iyi kalite, 8K, yoğun bilim kurgu atmosferi --ar 9:16 --motion 3
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e833ca7a336a095a5d09a0fecd6d220f/thumbnails/thumbnail.jpg" width="600" alt="Cyber Samurai Güç Zırhı Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4995)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2056365724461941119) | **Published:** May 18, 2026
+
+---
+### Sinatra ve Yogi Berra ile Pizza Yemeği
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Frank Sinatra ve Yogi Berra'nın tasarımcı takım elbiseleri içinde bir masada pizza yiyip bira içtiklerini gösteren sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Üzerlerinde tasarımcı İtalyan takım elbiseleriyle Frank Sinatra ve Yogi Berra bir araya geliyor. Ardından pizza ve Peroni biralarıyla bir masaya oturuyorlar....
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ff77132e761ee73566ea04caea2630bf/thumbnails/thumbnail.jpg" width="600" alt="Sinatra ve Yogi Berra ile Pizza Yemeği">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5001)**
+
+**Author:** [the moose 55](https://x.com/themoose551) | **Source:** [Link](https://x.com/themoose551/status/2056339167005573434) | **Published:** May 18, 2026
+
+---
 ### Savaş Alanına Hücum Eden Gladyatörler
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -220,11 +372,57 @@ Binlerce kişilik orduya doğru doğrudan hücum eden 3 Gladyatör! Altın sarı
 katartik bir rahatlamayı yansıtan incelikli doğal vücut dili, sıcak ışık altında yanaklarda parlayan gözyaşları, katartik duygusal atmosfer, duruşla ifade edilen derin minnettarlık
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4e3e18096b7246289780854b79a3c57a/thumbnails/thumbnail.jpg" width="600" alt="Doğal Duygusal Gözyaşı Animasyonu">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1739971bf9e34c3c9370451c071f3dd5/thumbnails/thumbnail.jpg" width="600" alt="Doğal Duygusal Gözyaşı Animasyonu">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4960)**
 
 **Author:** [ILOVEDOGE](https://x.com/6BWS9) | **Source:** [Link](https://x.com/6BWS9/status/2056280118885277704) | **Published:** May 18, 2026
+
+---
+### Sürrealist Moda Kristal Lotus
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Zarif bir kadın, beyaz bir kedi ve devasa, yanardöner bir kristal lotusu konu alan detaylı bir editoryal video istemi.
+
+#### 📝 Prompt
+
+```
+Zarif, uzun ve pürüzsüz hatlara sahip bir kadının profilden görünen sürrealist editoryal illüstrasyonu; üzerinde, ayaklarına zarif bir şekilde dökülen, uzun kollu, dramatik, yerlere kadar uzanan koyu lacivert balıkçı yaka bir elbise var. Arkasında ve üzerinde, gerçek bir lotustan farklı olarak, yumuşak bir şekilde parlıyormuş gibi görünen yarı saydam inci beyazı kenarlarla derin macenta ve menekşe tonlarını birleştiren, asimetrik olarak sarmallanan yanardöner taç yapraklarıyla, dünya dışı ve eşsiz, olağanüstü büyüklükte fantastik bir kristal lotus çiçeği yükseliyor; uzun sapı, büyük egzotik yapraklarıyla birlikte vücudunun yanında zarifçe kıvrılıyor. Ayaklarının dibinde, delici parlak mavi gözlere sahip, sessiz bir gizemle ileriye bakan bembeyaz bir kedi oturuyor. Arka plan, hafif altın alt tonlara sahip, resimsel ve atmosferik, karamsar ve soluk bir adaçayı yeşili. Genel atmosfer şiirsel, gizemli ve moda odaklı. Stil: sinematik aydınlatmalı dijital güzel sanatlar illüstrasyonu, yüksek detay, editoryal zarafet.
+
+Ona bir kristal çiçek buketi uzatılıyor
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/79c62fe707db4a649031f2cf9e728d9a/thumbnails/thumbnail.jpg" width="600" alt="Sürrealist Moda Kristal Lotus">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4997)**
+
+**Author:** [Y.J Z.C](https://x.com/yjzc424985) | **Source:** [Link](https://x.com/yjzc424985/status/2056267062641889425) | **Published:** May 18, 2026
+
+---
+### Devasa Biyomekanik Siberpunk Mecha Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Neon bir megakentte güçlenen 200 metre boyundaki bir savaş makinesi için karmaşık hareket ve ışıklandırma talimatları içeren detaylı sinematik komut.
+
+#### 📝 Prompt
+
+```
+Sinematik 6 saniyelik fotogerçekçi video, ultra detaylı 8K, referans görselden esinlenilmiş, Transformers tarzı üst düzey devasa siberpunk mecha.
+
+Devasa kavisli altın boynuzlara, göğsünde parlayan erimiş turuncu bir çekirdeğe, savaşta yıpranmış beyaz-altın zırh plakalarına ve arkasında karanlık enerji kanatları gibi dönen devasa sivri uçlu mekanik halkalara sahip 200 metre boyunda biyomekanik bir savaş makinesi. Robot, gün batımında neon ışıklarıyla yıkanan, holografik reklamlarla parlayan gökdelenlerin ve binalar arasında süzülen uçan araçların olduğu geniş bir siberpunk megakentin üzerinde baskın bir şekilde duruyor.
+
+Dinamik kamera hareketi: Sisli sokaklardan devin bacakları ve gövdesi boyunca dramatik bir şekilde yükselen düşük açılı bir kahraman çekimiyle başlar; parlayan gözlerini ve dramatik gün batımı gökyüzüne karşı heybetli boynuzlu silüetini ortaya çıkarır. 3. saniyede mecha yavaşça güçlenir; devrelerinden parlak turuncu enerji darbeleri geçer, eklemlerinden buhar ve kıvılcımlar fışkırır, yörüngedeki halkalar elektrik arklarıyla daha hızlı döner. 5. saniyede, devasa bir adım atarak yeri sarsar, aşağıdaki şehre şok dalgaları ve toz bulutları yayarken savaş dronları etrafını sarar.
+
+Fotogerçekçi detaylar, girift metalik dokular, hacimsel tanrı ışıkları, derin turkuaz-turuncu siberpunk paletiyle sinematik renk düzenlemesi, anamorfik lens, hafif film greni, IMAX kalitesi, hiper gerçekçi hareket, epik ölçek, dramatik ışıklandırma, başyapıt, en iyi kalite.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b0a6e1afdf74f0b9b3a87cf1e7436970/thumbnails/thumbnail.jpg" width="600" alt="Devasa Biyomekanik Siberpunk Mecha Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5000)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2056233579789873411) | **Published:** May 18, 2026
 
 ---
 ### Havadan Şehir İnşaatı Dönüşümü
@@ -1982,209 +2180,6 @@ her biri kendi müze kalitesinde resim çerçevesinde, müze duvarında asılı 
 **Author:** [AI Aimee](https://x.com/RockGrokAI) | **Source:** [Link](https://x.com/RockGrokAI/status/2053826199671984197) | **Published:** May 11, 2026
 
 ---
-### Siber-Ejderha Hibrit Savaşçı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Cyberpunk endüstriyel fabrika ortamında siberetik bir ejderha savaşçı için kapsamlı sinematik video istemi.
-
-#### 📝 Prompt
-
-```
-Nefes kesici bir siber-ejderha hibrit kadın savaşçının yer aldığı, üst düzey Transformers tasarımı ile karanlık cyberpunk bilim kurgusunun buluştuğu, 6 saniyelik büyüleyici ve fotogerçekçi sinematik video. Karmaşık metalik pullara, keskin boynuzlara, parlayan kızıl gözlere ve yan tarafında belirgin insan kadın yüz hatlarına sahip vahşi, biyomekanik bir ejderha kafası var. Vücudu; organik kıvrımların, gelişmiş siberetik zırhın, açıkta kalan kabloların, parlayan devrelerin ve obsidyen siyahı, tunç grisi ve bronz renklerindeki sürüngen pul desenlerinin mükemmel bir füzyonu. Omuzlarında, kollarında ve kalçalarında zarif bir şekilde entegre edilmiş ejderha pulu zırh parçaları bulunan, yüksek moda detaylarına sahip, vücuda oturan uzun siyah bir elbise giyiyor. Arkasında dikenli, uzun ve güçlü mekanik bir ejderha kuyruğu sallanıyor. Asılı zincirler, paslı borular, kıvılcımlar, neon vurgular ve yoğun sisin içinden geçen hacimsel ışık hüzmeleriyle dolu, atmosferik ve devasa bir cyberpunk endüstriyel fabrikanın içinde dramatik ve kendinden emin bir duruş sergiliyor. Kamera hareketi (6 saniye): Soldan sağa doğru etrafında dönen, yavaş ve güçlü bir tam vücut takip çekimiyle başlar. 2. saniyede başını yavaşça kameraya doğru çevirir ve kırmızı gözleri parlak bir şekilde parlar. 3.5. saniyede güçlü bir adım öne atar, kuyruğu mekanik bir hassasiyetle savrulur ve yerden kıvılcımlar çıkar. Son 2 saniye: Pençeli elini kaldırdığı, enerjinin devrelerinden geçtiği, yoğun sinematik ışıklandırma ve lens parlamalarıyla desteklenen dramatik, düşük açılı bir kahraman çekimi. Ultra fotogerçekçi, 8K, hiper detaylı dokular, sinematik renk düzenleme, dramatik kenar ışıklandırması, karamsar cyberpunk atmosferi, Arri Alexa 65 + anamorfik lenslerle çekilmiş, hafif film greni, kusursuz detaylar, başyapıt kalitesi, Transformers seviyesinde mekanik karmaşıklık ve gerçekçilik.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8fd995c501e6cf1cc653ea9d70fc4836/thumbnails/thumbnail.jpg" width="600" alt="Siber-Ejderha Hibrit Savaşçı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4627)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2053736079375970441) | **Published:** May 11, 2026
-
----
-### Kids and Deer in Meadow
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A heartwarming video prompt featuring children playing with deer in a sunlit forest meadow.
-
-#### 📝 Prompt
-
-```
-kids joyfully playing with gentle deer in a sunlit forest clearing laughter echoing, tails wagging, and hearts full of wonder
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1e953ff17ed665ea97099d21f6c68106/thumbnails/thumbnail.jpg" width="600" alt="Kids and Deer in Meadow">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4563)**
-
-**Author:** [Love Web3 World](https://x.com/WebThreeAI) | **Source:** [Link](https://x.com/WebThreeAI/status/2053710849521664006) | **Published:** May 11, 2026
-
----
-### Orta Çağ Çift Pozlama Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Orta Çağ'dan bir çifti, bir kale ve vitraylı org ile harmanlayan karmaşık bir görsel efekt istemi.
-
-#### 📝 Prompt
-
-```
-Birbirini seven Orta Çağ dönemine ait bir kadın ve erkeğin, formlarıyla bütünleşen görkemli bir kale ile kusursuz bir şekilde harmanlandığı çift pozlama portresi. Her iki figür de karmaşık vitray pencerelere dönüşerek eski tarz bir org (Orgel) ile kusursuz bir şekilde birleşiyor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bab2c93c07dd93f710ee0fd2f1d7b469/thumbnails/thumbnail.jpg" width="600" alt="Orta Çağ Çift Pozlama Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4631)**
-
-**Author:** [Carina](https://x.com/Freehere3) | **Source:** [Link](https://x.com/Freehere3/status/2053688075151192409) | **Published:** May 11, 2026
-
----
-### Cyberpunk Ejderha Savaşçı Dönüşümü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Fütüristik bir endüstriyel ortamda, kadın bir cyberpunk ejderha-hibrit savaşçının yer aldığı yüksek teknolojili dönüşüm sekansı için detaylı sinematik komut (prompt).
-
-#### 📝 Prompt
-
-```
-6 saniyelik sinematik fotogerçekçi video, ultra detaylı 8K, yeni nesil Transformers tarzı cyberpunk bilim kurgu aksiyon sekansı.
-
-Güçlü bir kadın cyberpunk ejderha-hibrit savaşçı (referansla aynı karakter: parlayan elektrik mavisi gözlere sahip güzel ve vahşi bir yüz, öfkeyle bağıran açık bir ağız, karmaşık metalik ejderha boynuzları ve kafasında pullar, uzun örgülü saçlar, devasa mekanik ejderha kanatları), yüksek borular, parlayan neon ışıklar, kıvılcımlar ve yoğun buharla dolu karanlık, fütüristik bir endüstriyel fabrikada duruyor.
-
-Akıcı ve yüksek teknolojili bir sekansla dramatik bir şekilde dönüşüyor: zırh plakaları gelişmiş Transformers'lar gibi mekanik bir hassasiyetle kayıp açılıyor; daha karmaşık biyomekanik detayları, parlayan enerji hatlarını ve omuzlarından ve kollarından çıkan silah sistemlerini ortaya çıkarıyor. Devasa kanatları güçlü bir vınlama sesiyle tamamen açılıyor, kıvılcımlar ve enkaz parçaları etrafa saçılıyor.
-
-Dinamik kamera hareketi: dramatik bir düşük açılı tam vücut çekimiyle başlıyor, ardından o kükreyip kıyafetinden yayılan parlak mavi enerjiyle güç toplarken etrafında pürüzsüzce dönüyor. Patlayıcı parçacık efektleri, dumanın arasından süzülen hacimsel tanrı ışıkları (god rays), derin gölgeler ve camgöbeği-turuncu renk derecelendirmesiyle yoğun sinematik aydınlatma.
-
-Metal, pullar ve cilt üzerinde hiper gerçekçi dokular, kusursuz hareket, 24fps, Hollywood gişe filmi kalitesi, Denis Villeneuve bilim kurgu filmi gibi yönetilmiş, epik ve yoğun atmosfer, metin yok, kesintisiz döngüye uygun dönüşüm aksiyonu.
-
---ar 16:9 --stylize 750 --v 6
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b21ae69918a56edb16129386d48d9afd/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Ejderha Savaşçı Dönüşümü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4632)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2053665980275159135) | **Published:** May 11, 2026
-
----
-### Beckoning Hand Gesture Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A technical prompt designed for generating a realistic beckoning hand gesture, providing step-by-step instructions for finger movement and hand positioning in video generation.
-
-#### 📝 Prompt
-
-```
-Her gesture is performed as follows:
-(1) Her hand is held with the palm facing upward (toward the body). 
-(2) The index (fore) finger is extended while the other fingers are clenched inward like a fist. 
-(3) Then the index finger is repeatedly curled inward and extended outward in a hooking motion. Indicating come here and come closer.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c746c5955e42bf38970c92f3743b8b25/thumbnails/thumbnail.jpg" width="600" alt="Beckoning Hand Gesture Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4561)**
-
-**Author:** [Ash](https://x.com/asheem01) | **Source:** [Link](https://x.com/asheem01/status/2053664506941735152) | **Published:** May 11, 2026
-
----
-### Nilüfer Yaprağı Üzerindeki Kurbağalar Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Nilüfer çiçekleriyle dolu bir gölet ortamında, nilüfer yaprakları üzerinde dinlenen leopar kurbağalarının videosunu oluşturmak için huzurlu bir istem.
-
-#### 📝 Prompt
-
-```
-Nilüfer çiçeklerinin bulunduğu bir gölette, palmiye yapraklarının altındaki bir nilüfer yaprağının üzerinde duran iki leopar kurbağası.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/83b6348ed64237c9187340e5004645e1/thumbnails/thumbnail.jpg" width="600" alt="Nilüfer Yaprağı Üzerindeki Kurbağalar Video İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4621)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2053653799773098346) | **Published:** May 11, 2026
-
----
-### Kıyı Manzaralı Yamaç Paraşütçüsü Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Yüksek kontrastlı aydınlatma ve canlı okyanus renkleriyle, etkileyici bir kıyı şeridi üzerinde süzülen bir yamaç paraşütçüsünü görüntüler.
-
-#### 📝 Prompt
-
-```
-Bir yamaç paraşütçüsü  Ortam: Sarp kayalıklar ve masmavi bir okyanusun bulunduğu etkileyici bir kıyı manzarasının 10.000 fit üzerinde. Yoğun, parlak gün ışığı.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a7bde2989770de469fdb5fecab29460e/thumbnails/thumbnail.jpg" width="600" alt="Kıyı Manzaralı Yamaç Paraşütçüsü Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4624)**
-
-**Author:** [Sharon B 🔥Eternal Flame🔥 #uto](https://x.com/b_sharon62805) | **Source:** [Link](https://x.com/b_sharon62805/status/2053649274098130954) | **Published:** May 11, 2026
-
----
-### Ay Işığı Altındaki Ormanda Ejderhalar
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Büyülü bir ormanda şefkatle etkileşime giren altın ve mor renkli ejderhaların yer aldığı, yüksek kaliteli ve sinematik bir ağır çekim istemi.
-
-#### 📝 Prompt
-
-```
-Sinematik yakın çekim, ağır çekim video. Devasa, kaslı altın bir ejderha ve yıldız gibi parlayan biyolüminesans pullara sahip daha ince, zarif gece mavisi/mor bir ejderha, ay ışığı altındaki büyülü bir ormanda dinleniyor. İki ejderha yavaşça ve şefkatle başlarını birbirine doğru yaklaştırıyor. Altın ejderha, mor ejderhanın boynunu nazikçe dürtüyor. Pulları parlıyor ve gümüş rengi ay ışığını yansıtıyor. Kamera Hareketi: sabit çekim, kamera pulların altındaki ince kas hareketlerini ve gözlerindeki yumuşak kehribar parıltısını yakalıyor. Atmosfer ve Aydınlatma: Dev bir dolunayın olduğu yumuşak odaklı arka plan.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8ed9d9d41f096429cc90306a18ac68e1/thumbnails/thumbnail.jpg" width="600" alt="Ay Işığı Altındaki Ormanda Ejderhalar">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4625)**
-
-**Author:** [auqib](https://x.com/auqibhabib) | **Source:** [Link](https://x.com/auqibhabib/status/2053639419266322623) | **Published:** May 11, 2026
-
----
-### Mars Tanrısı Savaş Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mars tanrısının meteor fırtınası ve patlamalar arasında yürüdüğü epik ve sinematik bir istem.
-
-#### 📝 Prompt
-
-```
-Kamera geriye doğru hareket ederken Mars Tanrısı kadrajda ileriye doğru yürüyor. Kılıcını agresif bir şekilde savururken, arka plandaki patlamalarla birlikte kırmızı gökyüzü, fırtınalar ve meteorlar gezegenin yüzeyine düşüyor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bc5777014a9d0a04df7e0a8c4108d855/thumbnails/thumbnail.jpg" width="600" alt="Mars Tanrısı Savaş Sahnesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4630)**
-
-**Author:** [Robadang ✏️ AI Artist](https://x.com/dang_machina) | **Source:** [Link](https://x.com/dang_machina/status/2053635757408166303) | **Published:** May 11, 2026
-
----
-### Rotating Image Sculpture Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An image-to-video prompt that instructs the model to transform the content of an image into a rotating 3D sculpture within a black frame.
-
-#### 📝 Prompt
-
-```
-Rotate on vertical ax this image inside a black background frame, not the frame, the content to be transformed into a sculpture with exactly the number of shapes hereusing this shapes and colors
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a4a441fda97b52e954842bec929d7c5a/thumbnails/thumbnail.jpg" width="600" alt="Rotating Image Sculpture Transformation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4559)**
-
-**Author:** [Ember Art](https://x.com/Ember8184Art) | **Source:** [Link](https://x.com/Ember8184Art/status/2053521107911614675) | **Published:** May 10, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2246,6 +2241,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-19T04:12:18.849Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-19T11:32:01.016Z</sub>
 
 </div>

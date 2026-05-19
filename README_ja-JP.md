@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **1559** |
+| 📝 プロンプト総数 | **1569** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-05-19** |
 
@@ -189,6 +189,158 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### 踊る花と地球の動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ハートと一緒に踊る花、カラフルな家、そして地球の景色をリクエストする、心温まる動画プロンプトです。
+
+#### 📝 プロンプト
+
+```
+今夜、娘の Savannah が、後ろにハートが浮かぶ踊る花の絵を作りたいと言っています。また、ピンクと紫の家も入れてほしいそうです。動画の中に地球も映っていたら嬉しいとのことです。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/597fbfe89eea55e0b284a2882366d9e8/thumbnails/thumbnail.jpg" width="600" alt="踊る花と地球の動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5004)**
+
+**作者:** [Firecracker](https://x.com/CantTameFire) | **ソース:** [Link](https://x.com/CantTameFire/status/2056550752038883413) | **公開日:** May 19, 2026
+
+---
+### 映画のようなカウボーイの対話
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 西部劇の舞台で、複数の登場人物による特定の対話シーンを作成するための詳細なビデオプロンプトです。
+
+#### 📝 プロンプト
+
+```
+右側にいる Leola が Faye に「本物のカウボーイはどこ？」と尋ね、少し年上のハンサムで男らしいカウボーイ 2 人が「お嬢さんたち、私たちがここだよ！」と答えるシーン。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/058258b42f1e3133a715ce697e7f0a89/thumbnails/thumbnail.jpg" width="600" alt="映画のようなカウボーイの対話">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5002)**
+
+**作者:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **ソース:** [Link](https://x.com/Soaring2TheMoon/status/2056504322095980830) | **公開日:** May 18, 2026
+
+---
+### 力強いカウボーイとキラキラ輝くテキスト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> キャラクターの力強さを調整し、最後にアニメーション付きのキラキラしたテキストを追加するようモデルに指示するビデオプロンプトです。
+
+#### 📝 プロンプト
+
+```
+カウボーイをもう少し力強くして、最後のページに「Faye」というキラキラ輝く文字を表示してください
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a4cbdcb5e9b5cb3775a98ff0f054e307/thumbnails/thumbnail.jpg" width="600" alt="力強いカウボーイとキラキラ輝くテキスト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5003)**
+
+**作者:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **ソース:** [Link](https://x.com/Soaring2TheMoon/status/2056501407734206619) | **公開日:** May 18, 2026
+
+---
+### 手持ちカメラの揺れを伴うズームポートレート
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 女性がふと柔らかい微笑みを浮かべる様子を、手持ちカメラ特有の揺れを伴うズームで捉えるシネマティックなモーションプロンプトです。
+
+#### 📝 プロンプト
+
+```
+camera slowly zooms in on her face, hand held camera shaky, woman smiles softly
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f178a9dea58799bf74ca5e7e70eeacb9/thumbnails/thumbnail.jpg" width="600" alt="手持ちカメラの揺れを伴うズームポートレート">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4999)**
+
+**作者:** [Patrick Jordan](https://x.com/gyjfbngcv6) | **ソース:** [Link](https://x.com/gyjfbngcv6/status/2056496860093710843) | **公開日:** May 18, 2026
+
+---
+### 喜びあふれる陽光のセレブレーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 陽光の中で喜びのあまり飛び跳ねる男性と、その周りを舞う鳥たち、そして駆け寄って抱きしめる妻を描いたシネマティックな動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+彼は幸せを感じて飛び上がり、両手を高く振り上げる。太陽の光が彼に直接降り注ぎ、鳥たちが彼の周りを飛び回る！！そして妻が駆け寄り、彼を抱きしめる！！！
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/19c5a88a9522632a2eb3dbe2c31729a1/thumbnails/thumbnail.jpg" width="600" alt="喜びあふれる陽光のセレブレーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4998)**
+
+**作者:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **ソース:** [Link](https://x.com/CindyWeigapn6/status/2056478511641010280) | **公開日:** May 18, 2026
+
+---
+### ジョン・ウィック風の猫のアクションシーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ジョン・ウィック風の猫エージェントが爆発の瞬間に時が止まった街中で躍動する、高コントラストで超高精細なアクションプロンプト。カメラが周囲を旋回する演出。
+
+#### 📝 プロンプト
+
+```
+ダウンタウンの路上で爆発の瞬間に時が止まり、破片が空中に静止している。カメラがジャンプ中の猫エージェントの周囲を旋回する — 高コントラスト、フォトリアル、4K 超高精細。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/437e7d0111ea1ac51d93f986814d875b/thumbnails/thumbnail.jpg" width="600" alt="ジョン・ウィック風の猫のアクションシーン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4996)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **ソース:** [Link](https://x.com/MrDasOnX/status/2056368161361158235) | **公開日:** May 18, 2026
+
+---
+### サイバー侍パワーアーマー動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 変形するメカアーマーを纏ったサイバー侍が登場する、6 秒間の縦型動画用超高精細シネマティックプロンプト。
+
+#### 📝 プロンプト
+
+```
+6 秒間の超高精細シネマティック動画。トランスフォーマーとサイバーパンク SF が融合した次世代の映像。重厚な変形パワーアーマーを纏った美しいアジア系の女性サイバー侍が、中央で力強く立っている。洗練された黒と銀のメカスーツには、胸部、肩、脚部を脈動するように流れるオレンジゴールドの龍のエネルギーラインが走る。精巧な獅子龍の肩当て、ダークレッドのバラと機械的な装飾が施された華やかな兜、長くたなびくマント。彼女が炎の模様が渦巻く巨大な発光エネルギー刀を劇的に抜き放ち、点火する。火花と油圧の動きとともに、アーマープレートが機械的にシフトして変形する。壮大なスローモーションのアクションシーン：彼女が回転し、斬りつけ、周囲でエネルギーが爆発する。背景：サイバー兵士の広大な軍勢、光るシンボルが描かれた巨大な赤い軍旗、煙とネオンのアクセント、ホバリングするドローンが漂うディストピアの戦場。シネマティックなカメラワーク：ローアングルでの旋回ショット、ドラマチックなライティング、ボリューム感のあるゴッドレイ、火花、エネルギーエフェクト。超リアル、フォトリアル、傑作、最高品質、8K、強烈な SF の雰囲気 --ar 9:16 --motion 3
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e833ca7a336a095a5d09a0fecd6d220f/thumbnails/thumbnail.jpg" width="600" alt="サイバー侍パワーアーマー動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4995)**
+
+**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **ソース:** [Link](https://x.com/ThoughCreator/status/2056365724461941119) | **公開日:** May 18, 2026
+
+---
+### フランク・シナトラとヨギ・ベラのピザディナー
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> デザイナーズスーツを身にまとったフランク・シナトラとヨギ・ベラが、テーブルでピザとビールを楽しんでいる様子を描いたシネマティックな動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+彼らはデザイナーズブランドのイタリアンスーツを着用し、フランク・シナトラとヨギ・ベラが同席しています。次に、彼らがピザとペローニビールが置かれたテーブルに座ります……
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ff77132e761ee73566ea04caea2630bf/thumbnails/thumbnail.jpg" width="600" alt="フランク・シナトラとヨギ・ベラのピザディナー">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5001)**
+
+**作者:** [the moose 55](https://x.com/themoose551) | **ソース:** [Link](https://x.com/themoose551/status/2056339167005573434) | **公開日:** May 18, 2026
+
+---
 ### 戦場を駆ける剣闘士たち
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -220,11 +372,57 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 カタルシスを表現する自然な身体言語、温かい光の中で頬にきらめく涙、感情的な解放感、姿勢から伝わる深い感謝の念
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4e3e18096b7246289780854b79a3c57a/thumbnails/thumbnail.jpg" width="600" alt="自然な涙の感情アニメーション">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1739971bf9e34c3c9370451c071f3dd5/thumbnails/thumbnail.jpg" width="600" alt="自然な涙の感情アニメーション">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4960)**
 
 **作者:** [ILOVEDOGE](https://x.com/6BWS9) | **ソース:** [Link](https://x.com/6BWS9/status/2056280118885277704) | **公開日:** May 18, 2026
+
+---
+### シュルレアリスム・ファッション：クリスタル・ロータス
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> エレガントな女性、白い猫、そして巨大な虹色のクリスタル・ロータスが登場する、詳細なエディトリアル動画用プロンプト。
+
+#### 📝 プロンプト
+
+```
+シュルレアリスム風のエディトリアル・イラストレーション。横顔を見せる、なめらかな眉と長い頭部を持つエレガントな女性。彼女は、足元まで優雅に広がるドラマチックなダークブルーの長袖タートルネック・ドレスを着用している。彼女の背後と頭上には、この世のものとは思えないほど巨大で幻想的なクリスタル・ロータスの花がそびえ立つ。深みのあるマゼンタとバイオレットの色調に、柔らかく発光する半透明のパールホワイトの縁取りが組み合わさった虹色の花びらが非対称に渦を巻き、現実の蓮とは一線を画す唯一無二の存在感を放っている。その高い茎は彼女の体の横で優雅にねじれ、巨大なエキゾチックな葉を広げている。足元には、鋭い青い瞳を持ち、静かな神秘を湛えて前方を見つめる真っ白な猫が座っている。背景は、かすかな黄金色のアンダートーンを持つ、落ち着いたセージグリーンの色調で、絵画的で雰囲気がある。全体的に詩的でミステリアス、かつファッション性の高いムード。スタイル：シネマティックなライティングを施したデジタル・ファインアート・イラストレーション、高精細、エディトリアルなエレガンス。
+
+彼女はクリスタルの花束を手渡されている
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/79c62fe707db4a649031f2cf9e728d9a/thumbnails/thumbnail.jpg" width="600" alt="シュルレアリスム・ファッション：クリスタル・ロータス">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4997)**
+
+**作者:** [Y.J Z.C](https://x.com/yjzc424985) | **ソース:** [Link](https://x.com/yjzc424985/status/2056267062641889425) | **公開日:** May 18, 2026
+
+---
+### 巨大なバイオメカニカル・サイバーパンク・メカの動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ネオン輝くメガシティで起動する、高さ 200 メートルの巨大兵器を詳細に描いたシネマティックなプロンプト。複雑な動きとライティングの指示を含みます。
+
+#### 📝 プロンプト
+
+```
+シネマティックな 6 秒間のフォトリアルな動画、超高精細 8K、参照画像からインスピレーションを得た次世代のトランスフォーマー風巨大サイバーパンク・メカ。
+
+高さ 200 メートルのそびえ立つバイオメカニカルな巨大兵器。巨大で湾曲した黄金の角、胸部で輝く溶岩のようなオレンジ色のコア、戦闘で摩耗した白と金の装甲板、そして背後にはダークエネルギーの翼のように回転する巨大なスパイク状の機械リングを備えている。ロボットは、夕暮れ時のネオンに染まった広大なサイバーパンク・メガシティを見下ろすように立っており、密集した超高層ビルはホログラム広告で輝き、空飛ぶ乗り物がビルの間を縫うように行き交っている。
+
+ダイナミックなカメラワーク：霧に包まれた通りから、巨人の脚と胴体に沿って劇的に上昇するローアングルのヒーローショットで開始。ドラマチックな夕焼けの空を背景に、光る目と威圧的な角のシルエットが浮かび上がる。3 秒地点でメカがゆっくりと起動し、回路をオレンジ色のエネルギーが脈打ち、関節から蒸気と火花が噴き出し、軌道上のリングが放電しながら高速回転する。5 秒地点で、大地を揺るがす巨大な一歩を踏み出し、衝撃波と土煙が下の街に広がる中、戦闘ドローンが周囲に群がる。
+
+フォトリアルなディテール、複雑な金属の質感、ボリューム感のあるゴッドレイ、ディープティールとオレンジのサイバーパンクカラーパレットによるシネマティックなカラーグレーディング、アナモルフィックレンズ、繊細なフィルムグレイン、IMAX クオリティ、ハイパーリアルな動き、壮大なスケール、ドラマチックなライティング、マスターピース、最高品質。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b0a6e1afdf74f0b9b3a87cf1e7436970/thumbnails/thumbnail.jpg" width="600" alt="巨大なバイオメカニカル・サイバーパンク・メカの動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5000)**
+
+**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **ソース:** [Link](https://x.com/ThoughCreator/status/2056233579789873411) | **公開日:** May 18, 2026
 
 ---
 ### 空中都市建設の変貌
@@ -1982,209 +2180,6 @@ Dr. White House は特別なピスタチオの木を持っているが、人生�
 **作者:** [AI Aimee](https://x.com/RockGrokAI) | **ソース:** [Link](https://x.com/RockGrokAI/status/2053826199671984197) | **公開日:** May 11, 2026
 
 ---
-### サイバー・ドラゴン・ハイブリッド・ウォーリアー
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> サイバーパンクな工業工場を舞台にした、サイバネティックなドラゴン戦士のための詳細なシネマティック動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-息をのむようなサイバー・ドラゴン・ハイブリッドの女性戦士を描いた、フォトリアルな 6 秒間のシネマティック動画。次世代の Transformers デザインとダークなサイバーパンク SF が融合した世界観。彼女は、複雑な金属の鱗、鋭い角、赤く光る瞳を持ち、側面に人間の女性の顔立ちがのぞく、獰猛なバイオメカニカル・ドラゴンの頭部を備えています。その体は、有機的な曲線と高度なサイバーネティック・アーマーが完璧に融合しており、露出した配線、光る回路、そして黒曜石のようなブラック、ガンメタル・シルバー、ブロンズの爬虫類の鱗模様が特徴です。彼女は、ハイファッションなディテールと、肩、腕、腰にさりげなく組み込まれたドラゴンの鱗状のアーマーをあしらった、エレガントで体にフィットする黒いロングドレスを着用しています。背後には、スパイクのついた長く力強い機械のドラゴンの尻尾が揺れています。彼女は、吊り下げられた鎖、錆びたパイプ、火花、ネオンのアクセント、そして濃い霧を切り裂くボリューム感のあるゴッドレイに満ちた、壮大で雰囲気のあるサイバーパンクな工業工場の中で、ドラマチックで自信に満ちたポーズをとっています。カメラワーク（6 秒間）：左から右へ彼女の全身をゆっくりと力強く捉えるトラッキングショットから開始。2 秒地点で、彼女はゆっくりとカメラの方へ顔を向け、赤い瞳が明るく輝きます。3.5 秒地点で、彼女は力強く一歩踏み出し、機械的な精度で尻尾を振ると、床から火花が飛び散ります。最後の 2 秒間：彼女が爪のある手を上げ、回路にエネルギーが脈動するドラマチックなローアングルのヒーローショット。強烈なシネマティック・ライティングとレンズフレア。超フォトリアル、8K、超高精細なテクスチャ、シネマティックなカラーグレーディング、ドラマチックなリムライト、ムードのあるサイバーパンクな雰囲気、Arri Alexa 65 + アナモフィックレンズで撮影、繊細なフィルムグレイン、完璧なディテール、傑作のクオリティ、Transformers レベルの機械的な複雑さとリアリズム。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8fd995c501e6cf1cc653ea9d70fc4836/thumbnails/thumbnail.jpg" width="600" alt="サイバー・ドラゴン・ハイブリッド・ウォーリアー">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4627)**
-
-**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **ソース:** [Link](https://x.com/ThoughCreator/status/2053736079375970441) | **公開日:** May 11, 2026
-
----
-### Kids and Deer in Meadow
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A heartwarming video prompt featuring children playing with deer in a sunlit forest meadow.
-
-#### 📝 プロンプト
-
-```
-kids joyfully playing with gentle deer in a sunlit forest clearing laughter echoing, tails wagging, and hearts full of wonder
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1e953ff17ed665ea97099d21f6c68106/thumbnails/thumbnail.jpg" width="600" alt="Kids and Deer in Meadow">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4563)**
-
-**作者:** [Love Web3 World](https://x.com/WebThreeAI) | **ソース:** [Link](https://x.com/WebThreeAI/status/2053710849521664006) | **公開日:** May 11, 2026
-
----
-### 中世風ダブルエクスポージャー・アニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 中世のカップル、城、ステンドグラスのパイプオルガンを融合させた、複雑な視覚効果を生み出すためのプロンプトです。
-
-#### 📝 プロンプト
-
-```
-中世の男女のカップルを写したダブルエクスポージャーのポートレート。壮大な城が彼らの姿とシームレスに融合しています。二人の人物は精巧なステンドグラスへと溶け込み、さらに古風なパイプオルガン（Orgel）とも滑らかに重なり合っています。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bab2c93c07dd93f710ee0fd2f1d7b469/thumbnails/thumbnail.jpg" width="600" alt="中世風ダブルエクスポージャー・アニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4631)**
-
-**作者:** [Carina](https://x.com/Freehere3) | **ソース:** [Link](https://x.com/Freehere3/status/2053688075151192409) | **公開日:** May 11, 2026
-
----
-### サイバーパンク・ドラゴン・ウォリアーの変身
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 近未来的な工業地帯を舞台に、サイバーパンクなドラゴン・ハイブリッドの女性戦士が変身する様子を描いた、高精細なシネマティック・プロンプト。
-
-#### 📝 プロンプト
-
-```
-6 秒間のシネマティックなフォトリアル動画、超高精細 8K、次世代の Transformers スタイルのサイバーパンク SF アクションシーケンス。
-
-力強いサイバーパンク・ドラゴン・ハイブリッドの女性戦士（リファレンスと同一キャラクター：美しく獰猛な表情、光るエレクトリックブルーの瞳、怒りに満ちて大きく開かれた口、精巧な金属製のドラゴンの角と頭部の鱗、長い三つ編み、巨大な機械仕掛けのドラゴンの翼）が、そびえ立つパイプ、輝くネオンライト、火花、立ち込める蒸気に満ちた暗い近未来の工場に立っている。
-
-彼女は流れるようなハイテクなシーケンスで劇的に変身する。装甲プレートが Transformers のように機械的な精度で展開・変形し、より複雑なバイオメカニカルなディテール、光るエネルギーライン、肩や腕から展開される武器システムが露わになる。巨大な翼が力強い音を立てて完全に広がり、火花と破片を撒き散らす。
-
-ダイナミックなカメラワーク：ドラマチックなローアングルからの全身ショットで始まり、彼女が咆哮しスーツに明るい青色のエネルギーが脈動する間、滑らかに周囲を旋回する。爆発的なパーティクルエフェクト、煙を切り裂くボリュメトリックなゴッドレイ、深い影とシアン・オレンジのカラーグレーディングによる強烈なシネマティック・ライティング。
-
-金属、鱗、肌のハイパーリアルな質感、完璧なモーション、24 fps、ハリウッド大作映画のクオリティ、Denis Villeneuve 監督の SF 映画のような演出、壮大で緊迫感のある雰囲気、テキストなし、シームレスにループ可能な変身アクション。
-
---ar 16:9 --stylize 750 --v 6
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b21ae69918a56edb16129386d48d9afd/thumbnails/thumbnail.jpg" width="600" alt="サイバーパンク・ドラゴン・ウォリアーの変身">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4632)**
-
-**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **ソース:** [Link](https://x.com/ThoughCreator/status/2053665980275159135) | **公開日:** May 11, 2026
-
----
-### Beckoning Hand Gesture Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A technical prompt designed for generating a realistic beckoning hand gesture, providing step-by-step instructions for finger movement and hand positioning in video generation.
-
-#### 📝 プロンプト
-
-```
-Her gesture is performed as follows:
-(1) Her hand is held with the palm facing upward (toward the body). 
-(2) The index (fore) finger is extended while the other fingers are clenched inward like a fist. 
-(3) Then the index finger is repeatedly curled inward and extended outward in a hooking motion. Indicating come here and come closer.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c746c5955e42bf38970c92f3743b8b25/thumbnails/thumbnail.jpg" width="600" alt="Beckoning Hand Gesture Animation">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4561)**
-
-**作者:** [Ash](https://x.com/asheem01) | **ソース:** [Link](https://x.com/asheem01/status/2053664506941735152) | **公開日:** May 11, 2026
-
----
-### ハスの葉の上のカエル 動画プロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ハスの池でハスの葉の上に休むヒョウガエルの動画を生成するための、穏やかな雰囲気のプロンプトです。
-
-#### 📝 プロンプト
-
-```
-ハスの花が咲く池で、ヤシの葉の下、ハスの葉の上にいる 2 匹のヒョウガエル。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/83b6348ed64237c9187340e5004645e1/thumbnails/thumbnail.jpg" width="600" alt="ハスの葉の上のカエル 動画プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4621)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2053653799773098346) | **公開日:** May 11, 2026
-
----
-### 海岸風景とスカイダイバーの動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ドラマチックな海岸線の上空を飛ぶスカイダイバーを、コントラストの強いライティングと鮮やかな海の色で捉えた映像です。
-
-#### 📝 プロンプト
-
-```
-スカイダイバー  環境：ドラマチックな海岸線と切り立った崖、深い青色の海が広がる高度 10,000 フィートの上空。強烈で明るい日光。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a7bde2989770de469fdb5fecab29460e/thumbnails/thumbnail.jpg" width="600" alt="海岸風景とスカイダイバーの動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4624)**
-
-**作者:** [Sharon B 🔥Eternal Flame🔥 #uto](https://x.com/b_sharon62805) | **ソース:** [Link](https://x.com/b_sharon62805/status/2053649274098130954) | **公開日:** May 11, 2026
-
----
-### 月明かりの森に棲むドラゴン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 魔法の森で優しく触れ合う、黄金と紫のドラゴンの高品質なシネマティック・スローモーション用プロンプト。
-
-#### 📝 プロンプト
-
-```
-シネマティックなクローズアップ、スローモーション映像。巨大で筋肉質な黄金のドラゴンと、星のように輝く生物発光の鱗を持つ、より細身で優雅なミッドナイトパープルのドラゴンが、月明かりに照らされた魔法の森で休んでいる。2 頭のドラゴンはゆっくりと、優しく互いに頭を寄せ合う。黄金のドラゴンが紫のドラゴンの首を優しく小突く。彼らの鱗は銀色の月光を反射してきらめく。カメラワーク：静止画。カメラは鱗の下の繊細な筋肉の動きと、彼らの瞳の柔らかな琥珀色の輝きを捉える。雰囲気と照明：巨大な満月を背景にしたソフトフォーカス。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8ed9d9d41f096429cc90306a18ac68e1/thumbnails/thumbnail.jpg" width="600" alt="月明かりの森に棲むドラゴン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4625)**
-
-**作者:** [auqib](https://x.com/auqibhabib) | **ソース:** [Link](https://x.com/auqibhabib/status/2053639419266322623) | **公開日:** May 11, 2026
-
----
-### 火星の神の戦闘シーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 火星の神が流星群と爆発の嵐の中を歩く、壮大なシネマティック・プロンプト。
-
-#### 📝 プロンプト
-
-```
-カメラが後方に移動する中、火星の神がフレーム内を前進します。彼が剣を激しく振り下ろすと、背景では赤い空に嵐と流星が惑星の地表へ降り注ぎ、爆発が起こります。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bc5777014a9d0a04df7e0a8c4108d855/thumbnails/thumbnail.jpg" width="600" alt="火星の神の戦闘シーン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4630)**
-
-**作者:** [Robadang ✏️ AI Artist](https://x.com/dang_machina) | **ソース:** [Link](https://x.com/dang_machina/status/2053635757408166303) | **公開日:** May 11, 2026
-
----
-### Rotating Image Sculpture Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An image-to-video prompt that instructs the model to transform the content of an image into a rotating 3D sculpture within a black frame.
-
-#### 📝 プロンプト
-
-```
-Rotate on vertical ax this image inside a black background frame, not the frame, the content to be transformed into a sculpture with exactly the number of shapes hereusing this shapes and colors
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a4a441fda97b52e954842bec929d7c5a/thumbnails/thumbnail.jpg" width="600" alt="Rotating Image Sculpture Transformation">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4559)**
-
-**作者:** [Ember Art](https://x.com/Ember8184Art) | **ソース:** [Link](https://x.com/Ember8184Art/status/2053521107911614675) | **公開日:** May 10, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2246,6 +2241,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-05-19T04:12:01.605Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-05-19T11:31:36.068Z</sub>
 
 </div>

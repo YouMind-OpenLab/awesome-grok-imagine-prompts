@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1559** |
+| 📝 Total Prompts | **1569** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-19** |
 
@@ -189,6 +189,158 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### วิดีโอดอกไม้เต้นระบำและโลก
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวสร้างสรรค์ที่ขอให้มีดอกไม้เต้นระบำพร้อมหัวใจ บ้านสีสันสดใส และมุมมองของโลก
+
+#### 📝 Prompt
+
+```
+คืนนี้ Savannah ลูกสาวของฉันอยากทำรูปดอกไม้เต้นระบำที่มีหัวใจอยู่ด้านหลัง เธอขอเพิ่มว่าอยากได้บ้านสีชมพูและสีม่วงด้วย นอกจากนี้เธอยังอยากเห็นโลกในวิดีโอนี้อีกด้วย
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/597fbfe89eea55e0b284a2882366d9e8/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอดอกไม้เต้นระบำและโลก">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5004)**
+
+**Author:** [Firecracker](https://x.com/CantTameFire) | **Source:** [Link](https://x.com/CantTameFire/status/2056550752038883413) | **Published:** May 19, 2026
+
+---
+### บทสนทนาคาวบอยสไตล์ภาพยนตร์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแบบละเอียดสำหรับการตั้งค่าฉากบทสนทนาเฉพาะระหว่างตัวละครหลายตัวในบรรยากาศแบบตะวันตก
+
+#### 📝 Prompt
+
+```
+ให้ Leola ที่อยู่ทางขวาถาม Faye ว่าคาวบอยตัวจริงอยู่ที่ไหน แล้วให้คาวบอยชายวัยกลางคนหน้าตาดีสองคนพูดว่า เราอยู่นี่แล้วสาวๆ!
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/058258b42f1e3133a715ce697e7f0a89/thumbnails/thumbnail.jpg" width="600" alt="บทสนทนาคาวบอยสไตล์ภาพยนตร์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5002)**
+
+**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2056504322095980830) | **Published:** May 18, 2026
+
+---
+### คาวบอยหนุ่มสุดเท่พร้อมข้อความวิบวับ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่งวิดีโอ (Prompt) ที่ช่วยให้โมเดลปรับความแมนของตัวละครและเพิ่มข้อความแอนิเมชันวิบวับในตอนท้าย
+
+#### 📝 Prompt
+
+```
+ปรับให้คาวบอยดูมีความเป็นชายมากขึ้นอีกนิด แล้วในหน้าสุดท้ายให้ใส่ข้อความคำว่า Faye ด้วยตัวอักษรวิบวับ
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a4cbdcb5e9b5cb3775a98ff0f054e307/thumbnails/thumbnail.jpg" width="600" alt="คาวบอยหนุ่มสุดเท่พร้อมข้อความวิบวับ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5003)**
+
+**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2056501407734206619) | **Published:** May 18, 2026
+
+---
+### ภาพพอร์ตเทรตซูมด้วยกล้องมือถือแบบสั่นไหว
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์การเคลื่อนไหวแบบภาพยนตร์สำหรับการซูมกล้องมือถือแบบสั่นไหว ซึ่งเน้นไปที่ใบหน้าของผู้หญิงขณะที่เธอยิ้มออกมาอย่างอ่อนโยน
+
+#### 📝 Prompt
+
+```
+กล้องค่อย ๆ ซูมเข้าไปที่ใบหน้าของเธอ, กล้องมือถือแบบสั่นไหว, ผู้หญิงยิ้มอย่างอ่อนโยน
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f178a9dea58799bf74ca5e7e70eeacb9/thumbnails/thumbnail.jpg" width="600" alt="ภาพพอร์ตเทรตซูมด้วยกล้องมือถือแบบสั่นไหว">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4999)**
+
+**Author:** [Patrick Jordan](https://x.com/gyjfbngcv6) | **Source:** [Link](https://x.com/gyjfbngcv6/status/2056496860093710843) | **Published:** May 18, 2026
+
+---
+### เฉลิมฉลองท่ามกลางแสงแดดอันสดใส
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวภาพยนตร์ของชายคนหนึ่งที่กระโดดด้วยความดีใจท่ามกลางแสงแดด โดยมีนกบินวนอยู่รอบๆ และภรรยาที่วิ่งเข้ามาสวมกอด
+
+#### 📝 Prompt
+
+```
+เขาตัดสินใจที่จะมีความสุขแล้วกระโดดขึ้นพร้อมกับแกว่งมือขึ้นไปบนฟ้า แสงแดดส่องลงมาที่ตัวเขาโดยตรงและมีเหล่านกบินวนอยู่รอบตัวเขา!! จากนั้นภรรยาของเขาก็วิ่งเข้ามาสวมกอดเขา!!!
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/19c5a88a9522632a2eb3dbe2c31729a1/thumbnails/thumbnail.jpg" width="600" alt="เฉลิมฉลองท่ามกลางแสงแดดอันสดใส">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4998)**
+
+**Author:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **Source:** [Link](https://x.com/CindyWeigapn6/status/2056478511641010280) | **Published:** May 18, 2026
+
+---
+### ฉากแอ็กชันแมวสไตล์ John Wick
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์ภาพแอ็กชันที่มีความเปรียบต่างสูงและรายละเอียดสูงพิเศษ นำเสนอแมวสายลับในสไตล์ John Wick ท่ามกลางฉากหยุดเวลาขณะเกิดการระเบิด พร้อมมุมกล้องแบบหมุนรอบ
+
+#### 📝 Prompt
+
+```
+เวลาหยุดนิ่งกลางการระเบิดบนถนนในตัวเมือง เศษซากต่าง ๆ ลอยค้างอยู่กลางอากาศ กล้องหมุนรอบแมวสายลับที่หยุดนิ่งขณะกระโดด — ความเปรียบต่างสูง สมจริงดั่งภาพถ่าย รายละเอียดคมชัดระดับ 4K
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/437e7d0111ea1ac51d93f986814d875b/thumbnails/thumbnail.jpg" width="600" alt="ฉากแอ็กชันแมวสไตล์ John Wick">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4996)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2056368161361158235) | **Published:** May 18, 2026
+
+---
+### วิดีโอชุดเกราะพลังไซเบอร์ซามูไร
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวภาพยนตร์ที่มีรายละเอียดสูงสำหรับวิดีโอแนวตั้งความยาว 6 วินาที ที่นำเสนอนักรบไซเบอร์ซามูไรในชุดเกราะจักรกลที่เปลี่ยนรูปร่างได้
+
+#### 📝 Prompt
+
+```
+วิดีโอแนวภาพยนตร์ความละเอียดสูงความยาว 6 วินาที ผสมผสานความล้ำสมัยของ Transformers เข้ากับไซไฟไซเบอร์พังก์ นักรบหญิงไซเบอร์ซามูไรชาวเอเชียผู้สง่างามในชุดเกราะพลังงานที่เปลี่ยนรูปร่างได้ยืนอยู่อย่างทรงพลังตรงกลางภาพ ชุดเมคสีดำเงินโฉบเฉี่ยวของเธอมีเส้นพลังงานมังกรสีส้มทองที่ส่องสว่างและไหลเวียนไปทั่วหน้าอก ไหล่ และขา เกราะไหล่รูปสิงโตมังกรที่ซับซ้อน หมวกเกราะประดับด้วยดอกกุหลาบสีแดงเข้มและเครื่องประดับจักรกล พร้อมผ้าคลุมยาวที่พลิ้วไหว เธอชักดาบคาตานะพลังงานขนาดใหญ่ที่มีลวดลายเปลวไฟหมุนวนออกมาอย่างน่าทึ่ง แผ่นเกราะขยับและเปลี่ยนรูปร่างด้วยกลไกพร้อมประกายไฟและการเคลื่อนไหวแบบไฮดรอลิก ลำดับภาพสโลว์โมชั่นสุดอลังการ: เธอหมุนตัว ฟาดฟัน และพลังงานระเบิดออกรอบตัวเธอ ฉากหลัง: กองทัพทหารไซเบอร์ขนาดใหญ่ ธงสงครามสีแดงยักษ์ที่มีสัญลักษณ์เรืองแสง สนามรบดิสโทเปียที่มีควัน แสงนีออน และโดรนที่บินวนอยู่ การเคลื่อนไหวของกล้องแบบภาพยนตร์: มุมต่ำแบบหมุนรอบตัว แสงที่ดูดราม่า ลำแสงเทพ (god rays) และเอฟเฟกต์พลังงาน สมจริงระดับไฮเปอร์เรียลลิสติก ผลงานชิ้นเอก คุณภาพดีที่สุด 8K บรรยากาศไซไฟที่เข้มข้น --ar 9:16 --motion 3
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e833ca7a336a095a5d09a0fecd6d220f/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอชุดเกราะพลังไซเบอร์ซามูไร">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4995)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2056365724461941119) | **Published:** May 18, 2026
+
+---
+### มื้อค่ำพิซซ่าของ Sinatra และ Yogi Berra
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวภาพยนตร์ที่มี Frank Sinatra และ Yogi Berra ในชุดสูทดีไซเนอร์กำลังเพลิดเพลินกับพิซซ่าและเบียร์ที่โต๊ะอาหาร
+
+#### 📝 Prompt
+
+```
+พวกเขาอยู่ในชุดสูทดีไซเนอร์สไตล์อิตาลีโดยมี Frank Sinatra และ Yogi Berra ร่วมโต๊ะ จากนั้นพวกเขาก็นั่งลงที่โต๊ะพร้อมกับพิซซ่าและเบียร์ Peroni ....
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ff77132e761ee73566ea04caea2630bf/thumbnails/thumbnail.jpg" width="600" alt="มื้อค่ำพิซซ่าของ Sinatra และ Yogi Berra">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5001)**
+
+**Author:** [the moose 55](https://x.com/themoose551) | **Source:** [Link](https://x.com/themoose551/status/2056339167005573434) | **Published:** May 18, 2026
+
+---
 ### เหล่ากลาดิเอเตอร์บุกตะลุยสมรภูมิ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -220,11 +372,57 @@ Why use our gallery?
 ภาษากายที่ดูเป็นธรรมชาติและละเอียดอ่อนสื่อถึงการปลดปล่อยความรู้สึก น้ำตาที่แวววาวบนแก้มภายใต้แสงที่อบอุ่น บรรยากาศทางอารมณ์ที่ปลดปล่อยความรู้สึก และท่าทางที่สื่อถึงความซาบซึ้งใจอย่างสุดซึ้ง
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4e3e18096b7246289780854b79a3c57a/thumbnails/thumbnail.jpg" width="600" alt="แอนิเมชันน้ำตาแห่งอารมณ์ที่ดูเป็นธรรมชาติ">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1739971bf9e34c3c9370451c071f3dd5/thumbnails/thumbnail.jpg" width="600" alt="แอนิเมชันน้ำตาแห่งอารมณ์ที่ดูเป็นธรรมชาติ">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4960)**
 
 **Author:** [ILOVEDOGE](https://x.com/6BWS9) | **Source:** [Link](https://x.com/6BWS9/status/2056280118885277704) | **Published:** May 18, 2026
+
+---
+### แฟชั่นแนวเซอร์เรียลลิสต์ ดอกบัวคริสตัล
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวบรรณาธิการที่มีรายละเอียดสูง นำเสนอหญิงสาวผู้สง่างาม แมวสีขาว และดอกบัวคริสตัลขนาดมหึมาที่เปล่งประกายระยิบระยับ
+
+#### 📝 Prompt
+
+```
+ภาพประกอบแนวบรรณาธิการแบบเซอร์เรียลลิสต์ของหญิงสาวผู้สง่างามที่มีรูปหน้าเรียวยาว เห็นในมุมข้าง สวมชุดคอเต่าสีน้ำเงินเข้มยาวจรดพื้นพร้อมแขนยาวที่ทิ้งตัวอย่างงดงามที่ปลายเท้า ด้านหลังและเหนือศีรษะของเธอมีดอกบัวคริสตัลขนาดใหญ่พิเศษที่ดูเหนือจริงและมีเอกลักษณ์เฉพาะตัว กลีบดอกที่มีสีรุ้งหมุนวนอย่างไม่สมมาตร ผสมผสานเฉดสีม่วงแดงและม่วงเข้มเข้ากับขอบสีขาวมุกโปร่งแสงที่ดูเหมือนจะเรืองแสงอย่างนุ่มนวล ไม่เหมือนดอกบัวจริงใดๆ ก้านดอกสูงบิดตัวอย่างสง่างามข้างกายเธอพร้อมใบไม้แปลกตาขนาดใหญ่ ที่ปลายเท้าของเธอมีแมวสีขาวบริสุทธิ์ที่มีดวงตาสีฟ้าสดใสจ้องมองไปข้างหน้าด้วยความลึกลับที่เงียบสงบ พื้นหลังเป็นสีเขียวเซจหม่นๆ ที่มีโทนสีทองจางๆ ให้ความรู้สึกเหมือนภาพวาดและมีบรรยากาศ อารมณ์โดยรวมมีความเป็นกวี ลึกลับ และนำสมัย สไตล์: ภาพประกอบดิจิทัลอาร์ตพร้อมแสงแบบภาพยนตร์ รายละเอียดสูง และความสง่างามระดับบรรณาธิการ
+
+เธอได้รับช่อดอกไม้คริสตัล
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/79c62fe707db4a649031f2cf9e728d9a/thumbnails/thumbnail.jpg" width="600" alt="แฟชั่นแนวเซอร์เรียลลิสต์ ดอกบัวคริสตัล">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4997)**
+
+**Author:** [Y.J Z.C](https://x.com/yjzc424985) | **Source:** [Link](https://x.com/yjzc424985/status/2056267062641889425) | **Published:** May 18, 2026
+
+---
+### วิดีโอเมคาสไตล์ไซเบอร์พังก์ชีวกลขนาดมหึมา
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์แบบภาพยนตร์ที่มีรายละเอียดสำหรับเครื่องจักรสงครามสูง 200 เมตรที่กำลังเตรียมพร้อมในเมืองใหญ่สไตล์นีออน พร้อมคำแนะนำด้านการเคลื่อนไหวและแสงที่ซับซ้อน
+
+#### 📝 Prompt
+
+```
+วิดีโอสมจริงระดับภาพยนตร์ความยาว 6 วินาที ความละเอียด 8K รายละเอียดสูงพิเศษ เมคาไซเบอร์พังก์ขนาดมหึมาสไตล์ Transformers ระดับถัดไปที่ได้รับแรงบันดาลใจจากภาพอ้างอิง
+
+เครื่องจักรสงครามชีวกลสูงตระหง่าน 200 เมตร พร้อมเขาสีทองโค้งขนาดใหญ่ แกนกลางสีส้มหลอมละลายที่ส่องสว่างในหน้าอก เกราะสีขาวสลับทองที่ผ่านการต่อสู้มาอย่างโชกโชน และวงแหวนกลไกหนามขนาดมหึมาที่โคจรอยู่ด้านหลังเหมือนปีกพลังงานมืด หุ่นยนต์ยืนตระหง่านอยู่เหนือเมืองใหญ่สไตล์ไซเบอร์พังก์ที่อาบไปด้วยแสงนีออนในช่วงพลบค่ำ ตึกระฟ้าหนาแน่นส่องสว่างด้วยโฆษณาโฮโลแกรมและยานพาหนะบินได้ที่เคลื่อนที่ไปมาระหว่างตึก
+
+การเคลื่อนไหวของกล้องแบบไดนามิก: เริ่มต้นด้วยมุมต่ำแบบฮีโร่ที่ค่อยๆ เลื่อนขึ้นจากถนนที่มีหมอกหนาไปตามขาและลำตัวของยักษ์ เผยให้เห็นดวงตาที่ส่องสว่างและเงาของเขาที่ดูน่าเกรงขามตัดกับท้องฟ้าช่วงพระอาทิตย์ตกดินพร้อมแสงแฟลร์จากเลนส์ ในวินาทีที่ 3 เมคาค่อยๆ เริ่มทำงาน พลังงานสีส้มสว่างวาบไปตามวงจร มีไอน้ำและประกายไฟพุ่งออกมาจากข้อต่อ วงแหวนที่โคจรอยู่หมุนเร็วขึ้นพร้อมกับกระแสไฟฟ้า ในวินาทีที่ 5 มันก้าวไปข้างหน้าหนึ่งก้าวใหญ่จนแผ่นดินสะเทือน ส่งคลื่นกระแทกและกลุ่มฝุ่นกระจายไปทั่วเมืองเบื้องล่าง ในขณะที่โดรนรบฝูงใหญ่บินวนอยู่รอบๆ
+
+รายละเอียดสมจริง พื้นผิวโลหะที่ซับซ้อน แสงวอลูเมตริก (God rays) การปรับสีแบบภาพยนตร์ด้วยโทนสีไซเบอร์พังก์น้ำเงินอมเขียวและส้ม เลนส์อะนามอร์ฟิก เกรนฟิล์มละเอียด คุณภาพระดับ IMAX การเคลื่อนไหวที่สมจริงสุดๆ สเกลที่ยิ่งใหญ่ แสงที่น่าทึ่ง ผลงานชิ้นเอก คุณภาพดีที่สุด
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b0a6e1afdf74f0b9b3a87cf1e7436970/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอเมคาสไตล์ไซเบอร์พังก์ชีวกลขนาดมหึมา">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5000)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2056233579789873411) | **Published:** May 18, 2026
 
 ---
 ### การเปลี่ยนโฉมเมืองจากมุมสูง
@@ -1985,209 +2183,6 @@ Dr. White House มีต้นพิสตาชิโอสุดพิเศ�
 **Author:** [AI Aimee](https://x.com/RockGrokAI) | **Source:** [Link](https://x.com/RockGrokAI/status/2053826199671984197) | **Published:** May 11, 2026
 
 ---
-### นักรบลูกผสมไซเบอร์-มังกร
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอระดับภาพยนตร์แบบละเอียดสำหรับนักรบมังกรไซเบอร์เนติกในฉากโรงงานอุตสาหกรรมสไตล์ไซเบอร์พังก์
-
-#### 📝 Prompt
-
-```
-วิดีโอระดับภาพยนตร์ความยาว 6 วินาทีที่สมจริงจนน่าทึ่งของนักรบหญิงลูกผสมไซเบอร์-มังกรสุดอลังการ ดีไซน์ระดับ Transformers ผสมผสานกับความดาร์กของไซเบอร์พังก์ไซไฟ เธอมีหัวมังกรชีวกลที่ดุดันพร้อมเกล็ดโลหะที่ซับซ้อน เขาที่แหลมคม ดวงตาสีแดงฉานที่ส่องสว่าง และเผยให้เห็นใบหน้าของมนุษย์ผู้หญิงที่ด้านข้าง ร่างกายของเธอเป็นการผสมผสานที่ลงตัวระหว่างส่วนโค้งเว้าแบบธรรมชาติและชุดเกราะไซเบอร์เนติกขั้นสูงที่มีสายไฟโผล่ออกมา วงจรที่เรืองแสง และลวดลายเกล็ดสัตว์เลื้อยคลานในโทนสีดำออบซิเดียน สีเงินกันเมทัล และสีบรอนซ์ เธอสวมชุดเดรสยาวสีดำเข้ารูปที่ดูสง่างามพร้อมรายละเอียดแฟชั่นชั้นสูงและชิ้นส่วนเกราะเกล็ดมังกรที่ผสานเข้ากับไหล่ แขน และสะโพกอย่างแนบเนียน หางมังกรกลที่ทรงพลังและมีหนามแหลมแกว่งไกวอยู่ด้านหลัง เธออยู่ในท่าทางที่ดูมั่นใจและน่าเกรงขามภายในโรงงานอุตสาหกรรมไซเบอร์พังก์ขนาดใหญ่ที่เต็มไปด้วยโซ่ที่ห้อยลงมา ท่อสนิม ประกายไฟ แสงนีออน และลำแสงที่ส่องผ่านหมอกหนา การเคลื่อนไหวของกล้อง (6 วินาที): เริ่มต้นด้วยการแพนกล้องติดตามตัวเต็มตัวอย่างช้าๆ และทรงพลังโดยหมุนรอบตัวเธอจากซ้ายไปขวา ในวินาทีที่ 2 เธอค่อยๆ หันศีรษะมาทางกล้อง ดวงตาสีแดงส่องประกายสว่างขึ้น ในวินาทีที่ 3.5 เธอเดินก้าวไปข้างหน้าอย่างทรงพลัง หางของเธอสะบัดด้วยความแม่นยำแบบเครื่องจักรพร้อมประกายไฟที่กระเด็นจากพื้น 2 วินาทีสุดท้าย: ช็อตฮีโร่มุมต่ำสุดดราม่าขณะที่เธอยกมือที่มีกรงเล็บขึ้น พลังงานไหลผ่านวงจรของเธอ พร้อมแสงระดับภาพยนตร์ที่เข้มข้นและแสงแฟลร์ สมจริงระดับอัลตร้าโฟโต้เรียลลิสติก, 8K, พื้นผิวรายละเอียดสูง, การปรับสีแบบภาพยนตร์, แสงขอบที่ดูดราม่า, บรรยากาศไซเบอร์พังก์ที่น่าค้นหา, ถ่ายทำด้วย Arri Alexa 65 + เลนส์อะนามอร์ฟิก, เกรนฟิล์มที่ละเอียดอ่อน, รายละเอียดที่ไร้ที่ติ, คุณภาพระดับมาสเตอร์พีซ, ความซับซ้อนทางกลไกและความสมจริงระดับ Transformers
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8fd995c501e6cf1cc653ea9d70fc4836/thumbnails/thumbnail.jpg" width="600" alt="นักรบลูกผสมไซเบอร์-มังกร">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4627)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2053736079375970441) | **Published:** May 11, 2026
-
----
-### Kids and Deer in Meadow
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A heartwarming video prompt featuring children playing with deer in a sunlit forest meadow.
-
-#### 📝 Prompt
-
-```
-kids joyfully playing with gentle deer in a sunlit forest clearing laughter echoing, tails wagging, and hearts full of wonder
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1e953ff17ed665ea97099d21f6c68106/thumbnails/thumbnail.jpg" width="600" alt="Kids and Deer in Meadow">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4563)**
-
-**Author:** [Love Web3 World](https://x.com/WebThreeAI) | **Source:** [Link](https://x.com/WebThreeAI/status/2053710849521664006) | **Published:** May 11, 2026
-
----
-### แอนิเมชันแบบ Double Exposure ยุคกลาง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่งสร้างภาพเอฟเฟกต์ภาพซ้อนที่ซับซ้อน โดยผสมผสานคู่รักยุคกลางเข้ากับปราสาทและออร์แกนกระจกสี
-
-#### 📝 Prompt
-
-```
-ภาพพอร์ตเทรตแบบ Double Exposure ของคู่รักชายหญิงในยุคกลาง ที่ผสมผสานเข้ากับปราสาทอันยิ่งใหญ่อย่างแนบเนียน ทั้งสองคนค่อย ๆ เลือนหายไปเป็นหน้าต่างกระจกสีที่วิจิตรบรรจง ผสานเข้ากับออร์แกนแบบโบราณ (Orgel) ได้อย่างลงตัว
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bab2c93c07dd93f710ee0fd2f1d7b469/thumbnails/thumbnail.jpg" width="600" alt="แอนิเมชันแบบ Double Exposure ยุคกลาง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4631)**
-
-**Author:** [Carina](https://x.com/Freehere3) | **Source:** [Link](https://x.com/Freehere3/status/2053688075151192409) | **Published:** May 11, 2026
-
----
-### การแปลงร่างนักรบมังกรไซเบอร์พังก์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ระดับภาพยนตร์ที่มีรายละเอียดสูงสำหรับฉากการแปลงร่างสุดล้ำของนักรบหญิงลูกผสมมังกรไซเบอร์พังก์ในฉากหลังโรงงานอุตสาหกรรมแห่งอนาคต
-
-#### 📝 Prompt
-
-```
-วิดีโอสมจริงระดับภาพยนตร์ความยาว 6 วินาที ความละเอียด 8K รายละเอียดสูงพิเศษ ฉากแอ็กชันไซไฟไซเบอร์พังก์สไตล์ Transformers ระดับถัดไป
-
-นักรบหญิงลูกผสมมังกรไซเบอร์พังก์ผู้ทรงพลัง (ตัวละครเดียวกับภาพอ้างอิง: ใบหน้าสวยดุดันพร้อมดวงตาสีฟ้าไฟฟ้าเรืองแสง อ้าปากกว้างตะโกนด้วยความโกรธ มีเขามังกรโลหะและเกล็ดบนศีรษะอย่างประณีต ผมเปียยาว ปีกมังกรกลขนาดใหญ่) ยืนอยู่ในโรงงานอุตสาหกรรมแห่งอนาคตที่มืดมิด เต็มไปด้วยท่อขนาดมหึมา แสงนีออนเรืองแสง ประกายไฟ และไอน้ำหนาทึบ
-
-เธอแปลงร่างอย่างน่าทึ่งในลำดับที่ลื่นไหลและล้ำสมัย: แผ่นเกราะของเธอขยับและกางออกด้วยความแม่นยำเชิงกลเหมือน Transformers ขั้นสูง เผยให้เห็นรายละเอียดทางชีวกลศาสตร์ที่ซับซ้อนยิ่งขึ้น เส้นพลังงานเรืองแสง และระบบอาวุธที่ติดตั้งจากไหล่และแขนของเธอ ปีกขนาดใหญ่ของเธอกางออกเต็มที่พร้อมเสียงลมพัดแรง กระจายประกายไฟและเศษซาก
-
-การเคลื่อนไหวของกล้องแบบไดนามิก: เริ่มต้นด้วยมุมต่ำที่เห็นทั้งตัวอย่างน่าทึ่ง จากนั้นหมุนรอบตัวเธออย่างนุ่มนวลในขณะที่เธอคำรามและชาร์จพลังด้วยพลังงานสีฟ้าสว่างที่เต้นเป็นจังหวะผ่านชุดของเธอ เอฟเฟกต์อนุภาคระเบิด ลำแสงวอลูเมตริกที่ตัดผ่านควัน แสงระดับภาพยนตร์ที่เข้มข้นพร้อมเงาลึกและการปรับโทนสีฟ้า-ส้ม
-
-พื้นผิวสมจริงระดับสูงบนโลหะ เกล็ด และผิวหนัง การเคลื่อนไหวที่ไร้ที่ติ 24fps คุณภาพระดับภาพยนตร์ฮอลลีวูด กำกับเหมือนภาพยนตร์ไซไฟของ Denis Villeneuve บรรยากาศยิ่งใหญ่และเข้มข้น ไม่มีข้อความ เป็นฉากการแปลงร่างที่วนลูปได้อย่างไร้รอยต่อ
-
---ar 16:9 --stylize 750 --v 6
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b21ae69918a56edb16129386d48d9afd/thumbnails/thumbnail.jpg" width="600" alt="การแปลงร่างนักรบมังกรไซเบอร์พังก์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4632)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2053665980275159135) | **Published:** May 11, 2026
-
----
-### Beckoning Hand Gesture Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A technical prompt designed for generating a realistic beckoning hand gesture, providing step-by-step instructions for finger movement and hand positioning in video generation.
-
-#### 📝 Prompt
-
-```
-Her gesture is performed as follows:
-(1) Her hand is held with the palm facing upward (toward the body). 
-(2) The index (fore) finger is extended while the other fingers are clenched inward like a fist. 
-(3) Then the index finger is repeatedly curled inward and extended outward in a hooking motion. Indicating come here and come closer.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c746c5955e42bf38970c92f3743b8b25/thumbnails/thumbnail.jpg" width="600" alt="Beckoning Hand Gesture Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4561)**
-
-**Author:** [Ash](https://x.com/asheem01) | **Source:** [Link](https://x.com/asheem01/status/2053664506941735152) | **Published:** May 11, 2026
-
----
-### พร้อมท์วิดีโอ กบอยู่บนใบบัว
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พร้อมท์ที่ให้ความรู้สึกสงบสำหรับการสร้างวิดีโอของกบเลพเพิร์ดที่กำลังพักผ่อนอยู่บนใบบัวในสภาพแวดล้อมของสระบัว
-
-#### 📝 Prompt
-
-```
-กบเลพเพิร์ดสองตัวอยู่บนใบบัวใต้ใบปาล์มในสระน้ำที่มีดอกบัว
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/83b6348ed64237c9187340e5004645e1/thumbnails/thumbnail.jpg" width="600" alt="พร้อมท์วิดีโอ กบอยู่บนใบบัว">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4621)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2053653799773098346) | **Published:** May 11, 2026
-
----
-### วิดีโอนักกระโดดร่มเหนือทิวทัศน์ชายฝั่ง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> บันทึกภาพนักกระโดดร่มเหนือแนวชายฝั่งที่สวยงามตระการตา พร้อมแสงที่มีคอนทราสต์สูงและสีสันของมหาสมุทรที่สดใส
-
-#### 📝 Prompt
-
-```
-นักกระโดดร่ม สภาพแวดล้อม: ความสูง 10,000 ฟุตเหนือทิวทัศน์ชายฝั่งที่น่าทึ่งพร้อมหน้าผาสูงชันและมหาสมุทรสีน้ำเงินเข้ม แสงแดดจัดจ้าและเข้มข้น
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a7bde2989770de469fdb5fecab29460e/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอนักกระโดดร่มเหนือทิวทัศน์ชายฝั่ง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4624)**
-
-**Author:** [Sharon B 🔥Eternal Flame🔥 #uto](https://x.com/b_sharon62805) | **Source:** [Link](https://x.com/b_sharon62805/status/2053649274098130954) | **Published:** May 11, 2026
-
----
-### มังกรในป่าใต้แสงจันทร์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอสโลว์โมชันคุณภาพระดับภาพยนตร์ แสดงภาพมังกรสีทองและสีม่วงที่กำลังหยอกล้อกันอย่างอ่อนโยนในป่าเวทมนตร์
-
-#### 📝 Prompt
-
-```
-วิดีโอสโลว์โมชันแบบโคลสอัพสไตล์ภาพยนตร์ มังกรสีทองขนาดใหญ่ที่มีกล้ามเนื้อชัดเจน และมังกรสีม่วงเข้มรูปร่างเพรียวบางสง่างามที่มีเกล็ดเรืองแสงดั่งดวงดาว กำลังพักผ่อนอยู่ในป่าเวทมนตร์ใต้แสงจันทร์ มังกรทั้งสองค่อย ๆ ขยับหัวเข้าหากันอย่างอ่อนโยน มังกรสีทองใช้หัวดันคอของมังกรสีม่วงอย่างแผ่วเบา เกล็ดของพวกมันส่องประกายสะท้อนแสงจันทร์สีเงิน การเคลื่อนไหวของกล้อง: ภาพนิ่ง กล้องจับภาพความเคลื่อนไหวของกล้ามเนื้อใต้เกล็ดและประกายสีอำพันในดวงตาของพวกมัน บรรยากาศและแสง: พื้นหลังแบบซอฟต์โฟกัสพร้อมพระจันทร์เต็มดวงขนาดใหญ่
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8ed9d9d41f096429cc90306a18ac68e1/thumbnails/thumbnail.jpg" width="600" alt="มังกรในป่าใต้แสงจันทร์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4625)**
-
-**Author:** [auqib](https://x.com/auqibhabib) | **Source:** [Link](https://x.com/auqibhabib/status/2053639419266322623) | **Published:** May 11, 2026
-
----
-### ฉากการต่อสู้ของเทพเจ้าแห่งดาวอังคาร
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ภาพยนตร์สุดอลังการของเทพเจ้าแห่งดาวอังคารที่กำลังเดินฝ่าพายุอุกกาบาตและการระเบิด
-
-#### 📝 Prompt
-
-```
-เทพเจ้าแห่งดาวอังคารเดินตรงมาข้างหน้าในเฟรมขณะที่กล้องถอยหลังตาม เขาเหวี่ยงดาบอย่างดุดัน ท่ามกลางท้องฟ้าสีแดง พายุ และอุกกาบาตที่ตกลงสู่พื้นผิวดาวพร้อมกับการระเบิดในฉากหลัง
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bc5777014a9d0a04df7e0a8c4108d855/thumbnails/thumbnail.jpg" width="600" alt="ฉากการต่อสู้ของเทพเจ้าแห่งดาวอังคาร">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4630)**
-
-**Author:** [Robadang ✏️ AI Artist](https://x.com/dang_machina) | **Source:** [Link](https://x.com/dang_machina/status/2053635757408166303) | **Published:** May 11, 2026
-
----
-### Rotating Image Sculpture Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An image-to-video prompt that instructs the model to transform the content of an image into a rotating 3D sculpture within a black frame.
-
-#### 📝 Prompt
-
-```
-Rotate on vertical ax this image inside a black background frame, not the frame, the content to be transformed into a sculpture with exactly the number of shapes hereusing this shapes and colors
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a4a441fda97b52e954842bec929d7c5a/thumbnails/thumbnail.jpg" width="600" alt="Rotating Image Sculpture Transformation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4559)**
-
-**Author:** [Ember Art](https://x.com/Ember8184Art) | **Source:** [Link](https://x.com/Ember8184Art/status/2053521107911614675) | **Published:** May 10, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2249,6 +2244,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-19T04:12:04.466Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-19T11:31:41.509Z</sub>
 
 </div>
