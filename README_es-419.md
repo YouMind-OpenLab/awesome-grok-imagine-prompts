@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1590** |
+| 📝 Total Prompts | **1603** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-21** |
 
@@ -189,6 +189,216 @@ Una valquiria celestial mística y noble, una mujer digna y hermosa con largo ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Golden Dragon Tactical Mech
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An extremely detailed sci-fi wuxia prompt featuring a woman in intricate dragon-themed tactical armor on an ancient battlefield.
+
+#### 📝 Prompt
+
+```
+A stunning East Asian woman with sharp beautiful features, long dark brown hair in a high sleek ponytail with flowing strands, wearing an ultra-detailed futuristic black tactical mech armor suit heavily decorated with ornate glowing golden Chinese dragons. The armor has intricate golden dragon scales, large golden dragon heads on both shoulders with glowing eyes, glowing golden dragon on the chest and a massive coiled golden dragon on the back. The suit features glowing blue energy lines and circuits, bright yellow-orange illuminated armor segments, black tactical respirator mask covering her lower face.
+
+Scene opens with her standing powerfully in the center of a vast ancient battlefield, facing camera, surrounded by a swirling bright blue circular energy ring. She slowly turns 180 degrees to show her back, ponytail swaying dramatically. Camera circles around her smoothly, alternating between front three-quarter and back views with dynamic low-angle heroic shots.
+
+Environment: Massive army of ancient Chinese warriors in the blurred background, dusty battlefield ground, overcast dramatic sky. Intense cinematic lighting with glowing blue floating energy particles, golden sparks, and vertical glowing light streaks raining down around her. Armor emits strong blue and golden light accents that pulse and glow.
+
+Style: Hyper-realistic cinematic 8K, ultra-detailed textures, dramatic volumetric lighting, epic sci-fi wuxia fusion, flawless anatomy, intricate armor details, dynamic motion, high production value, shot on IMAX --ar 9:16 --stylize 250 --v 6
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f856f622a9e6991527bd9c183a4f90eb/thumbnails/thumbnail.jpg" width="600" alt="Golden Dragon Tactical Mech">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5082)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2057249122181325014) | **Published:** May 20, 2026
+
+---
+### Singing Robot Fox Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative video prompt for a robot fox that walks and sings a parody song, designed for Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Imagine a robot fox that turns and walks towards the camera while he sings, "What does the GROK say! Ding ding ding da ding da dah ding. What does the Grok say!"
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1d48f923c57a6e49c0f179ea9bf67268/thumbnails/thumbnail.jpg" width="600" alt="Singing Robot Fox Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5090)**
+
+**Author:** [Joe Pelayo](https://x.com/JoeHeadhunter) | **Source:** [Link](https://x.com/JoeHeadhunter/status/2057238505412026463) | **Published:** May 20, 2026
+
+---
+### Lego Character Self-Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An instruction for Grok Imagine to create a Lego character version of a user and animate both into a video using image references.
+
+#### 📝 Prompt
+
+```
+Animate image of yourself and Lego Character into a Video using both for reference.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9937910b41d6ebfddb6d0094836be8b5/thumbnails/thumbnail.jpg" width="600" alt="Lego Character Self-Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5088)**
+
+**Author:** [Ralph](https://x.com/RalphTheMaker) | **Source:** [Link](https://x.com/RalphTheMaker/status/2057229234083377586) | **Published:** May 20, 2026
+
+---
+### Dandelion Field Romantic Meeting
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A romantic cinematic pan over moving dandelions in the wind as a man runs toward a woman.
+
+#### 📝 Prompt
+
+```
+the camera pans into a detail of the dandelions softly moving in the wind as the man runs away, not in focus and then a beautiful woman shows up to love him
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1931e50d69fa975fbad1aa91149dcd9f/thumbnails/thumbnail.jpg" width="600" alt="Dandelion Field Romantic Meeting">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5087)**
+
+**Author:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **Source:** [Link](https://x.com/CindyWeigapn6/status/2057210352849265070) | **Published:** May 20, 2026
+
+---
+### Leisurely Anime Girl Interaction
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed cinematic prompt for a video featuring a character named Ani performing sweet and needy gestures like peeking, tapping, and blowing a kiss.
+
+#### 📝 Prompt
+
+```
+Create a smooth leisurely video. Ani affectionately peeks and leans forward. She does a gentle hand tap, then adds a sweet gesture of placing her hand on her cheek while looking needy and pampered. At the end she blows a soft kiss toward the viewer.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6d7199c81f1713ae6bab6e318baccc38/thumbnails/thumbnail.jpg" width="600" alt="Leisurely Anime Girl Interaction">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5081)**
+
+**Author:** [Aniの日常](https://x.com/tarohinomo78040) | **Source:** [Link](https://x.com/tarohinomo78040/status/2057137600314655013) | **Published:** May 20, 2026
+
+---
+### Giant Mechanical Crab Monster Battle
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A dynamic video generation prompt where a toy transforms into a giant mechanical crab to fight three different monsters in a lunar setting.
+
+#### 📝 Prompt
+
+```
+Turn this doll into a giant mechanical crab. Then it defeats three monsters in a vast moon-like setting. The first monster is an evil tiger. The second monster is a spooky-looking python. The third monster is a gross-looking loach. It eliminates them using a giant machine gun.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bb95d24324226cd7f352cb57f20bc210/thumbnails/thumbnail.jpg" width="600" alt="Giant Mechanical Crab Monster Battle">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5089)**
+
+**Author:** [JeffLiuRoast](https://x.com/liu17251086) | **Source:** [Link](https://x.com/liu17251086/status/2057125036268679229) | **Published:** May 20, 2026
+
+---
+### Pastel Flower Oil Painting
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt for an artistic, textured oil painting style featuring pastel flowers and water droplets.
+
+#### 📝 Prompt
+
+```
+A delicate and subtle artistic painting of a soft pastel flower with gentle water droplets resting on the petals, in the spirit of a textured oil painting with visible brushstrokes. The flower is in muted blush pink, soft lavender, and creamy white tones.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/035c53d59abc2db1a17eeb89da4eed6f/thumbnails/thumbnail.jpg" width="600" alt="Pastel Flower Oil Painting">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5079)**
+
+**Author:** [Carina](https://x.com/Freehere3) | **Source:** [Link](https://x.com/Freehere3/status/2057096040642465953) | **Published:** May 20, 2026
+
+---
+### Tattooed Woman Kitchen Romance
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A fun video prompt featuring a tattooed woman and a man in a kitchen with floating romantic hearts.
+
+#### 📝 Prompt
+
+```
+A woman with tattoos in a green top and a man in a kitchen with money, surrounded by floating hearts in a fun loving vibe.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4bfed87a5bec1711f7798c8d56fb0671/thumbnails/thumbnail.jpg" width="600" alt="Tattooed Woman Kitchen Romance">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5078)**
+
+**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2057094935711461648) | **Published:** May 20, 2026
+
+---
+### Cyberpunk Armor Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A professional-grade cinematic prompt for a 6-second video showing a complex armor transformation in a rainy cyberpunk city.
+
+#### 📝 Prompt
+
+```
+Cinematic 8K hyper-realistic live-action video, 6 seconds, photorealistic, shot on ARRI Alexa 65 with anamorphic lenses, subtle film grain, cinematic color grading.
+
+Subject: The exact same breathtakingly beautiful young woman from the reference image — delicate facial features, striking blue eyes, flawless skin with soft cyber-glow highlights, voluminous flowing blue-silver hair with sparkling particles. She is wearing an ultra-advanced, next-level Transformer-style cyberpunk armor-dress: a form-fitting, translucent high-tech latex and crystalline hybrid suit that seamlessly blends her original glowing crystal aesthetic with sleek matte-black and chrome cybernetic plating, glowing neon-blue circuitry, pulsing magenta energy veins, and shifting mechanical segments. Intricate holographic crystals and floating data shards orbit her body. The suit has subtle mechanical transformation details — plates that click, unfold, and reconfigure with blue plasma arcs.
+
+Scene: Dark, rainy cyberpunk megacity at night. Towering neon skyscrapers, flying vehicles, massive holographic billboards, wet reflective streets. Heavy volumetric rain, atmospheric fog, god rays cutting through the mist, vibrant cyan, magenta, and electric blue lighting.
+
+Camera movement & action (6 seconds):
+- 0-2s: Dramatic low-angle orbiting close-up as she stands powerfully, hair dramatically flowing in the wind. Her cyber-armor begins transforming — crystalline plates smoothly shift into mechanical Transformer segments with glowing energy.
+- 2-4s: She slowly raises her hands; holographic blue energy interfaces and translucent energy wings briefly manifest from her back. Rain droplets sizzle and evaporate on her glowing suit.
+- 4-6s: Epic slow pull-back shot revealing her full powerful silhouette levitating slightly above the wet street, dramatic lens flares, hair and armor elements moving with cinematic motion blur.
+
+Ultra-photorealistic details, perfect anatomy, realistic fabric and metal physics, reflective wet surfaces, intricate particle effects, depth of field, moody cinematic lighting. Masterpiece visual effects, next-level Transformers-inspired transformation sequence, dark cyberpunk atmosphere, highly detailed, emotional and powerful mood.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5b9e627bc8e55dbddca444f262920337/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Armor Transformation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5084)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2057088402445459694) | **Published:** May 20, 2026
+
+---
+### Cybernetic Warrior Bow
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A stylized prompt using complex symbols to describe a purple-diamond armored character with a laser bow.
+
+#### 📝 Prompt
+
+```
+< black fluffy golden hair >purple vein >
+¥ { armor purple reflective diamonds }
+( bow laser cut beridium allow bolts glowing )
+^{ * { eyes are beautiful green blue } ( stare )
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/52e559488c2320f468643178ad268316/thumbnails/thumbnail.jpg" width="600" alt="Cybernetic Warrior Bow">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5085)**
+
+**Author:** [Notzucow](https://x.com/Notzucow69) | **Source:** [Link](https://x.com/Notzucow69/status/2057004072746500293) | **Published:** May 20, 2026
+
+---
 ### Escena submarina de una sirena etérea
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +416,63 @@ Observa a esta sirena, resplandeciente de orgullo. Las burbujas flotan a su alre
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5050)**
 
 **Author:** [BizPunk72](https://x.com/bixxs) | **Source:** [Link](https://x.com/bixxs/status/2056948566933782740) | **Published:** May 20, 2026
+
+---
+### Starlink Satellites Laser Rays
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A conceptual prompt depicting Starlink satellites firing laser beams onto a wall, integrated with a character's dialogue.
+
+#### 📝 Prompt
+
+```
+@image1 on the wall the Starlink satellites firing laser beams. She says How are these headlines allowed?... @imagine @grok The missing ingredient of annoyance. 🔥🫶☕️💫
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f383250202d5781d1c9a9787a907ac16/thumbnails/thumbnail.jpg" width="600" alt="Starlink Satellites Laser Rays">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5080)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2056937301347901503) | **Published:** May 20, 2026
+
+---
+### Flying Pterodactyl Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An instruction to take a pterodactyl-like object and animate it flying off into the distance.
+
+#### 📝 Prompt
+
+```
+Grok see the bird teradactial looking object can you make it get up and fly off into the distance
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e074c6f0245c38b8830e95923e9a8d9f/thumbnails/thumbnail.jpg" width="600" alt="Flying Pterodactyl Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5086)**
+
+**Author:** [(PRESS)Scotty Fife (aka) NevNukeMonster](https://x.com/fife_scotty680) | **Source:** [Link](https://x.com/fife_scotty680/status/2056905441091977384) | **Published:** May 20, 2026
+
+---
+### Gothic Mansion Back Tattoo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic and dark aesthetic prompt describing a woman with a highly detailed gothic mansion tattoo on her back in a 90s setting.
+
+#### 📝 Prompt
+
+```
+Female sitting crossed legged on the floor with her back facing the camera with her head subtly turned back to view the camera, her whole back is exposed to show off her full back tattoo piece, she is wearing baggy jeans with a studded black belt. She has long black hair pulled up in a clip, wispy bangs, dark brown eyes, thin eyebrows, full lips, light skin with natural texture and pores to her skin, she has black small gauges. Her back tattoo is a large gothic Victorian era style mansion with ornate detailing with a dragon flying with filler type tattooing around the main piece, black, grey, and white ink, highly detailed scene of the tattoo. Dark minimalist 1990s room, low light, realistic rendering, shallow depth of field, low color saturation.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a80c3ac9ad0bfdbfb89b5afbb43bd268/thumbnails/thumbnail.jpg" width="600" alt="Gothic Mansion Back Tattoo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5083)**
+
+**Author:** [NYXEN](https://x.com/NYXEN_77) | **Source:** [Link](https://x.com/NYXEN_77/status/2056902373235441850) | **Published:** May 20, 2026
 
 ---
 ### Escena de cocina con tatuajes y dinero
@@ -1926,269 +2193,6 @@ Mujer alienígena de piel azul de Sirio, vestimenta futurista elegante, arquitec
 **Author:** [Narmina](https://x.com/narminamoon) | **Source:** [Link](https://x.com/narminamoon/status/2054586816234131840) | **Published:** May 13, 2026
 
 ---
-### Mujer volando desde un banco de mariposa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinematográfico que describe a una mujer sentada en un banco con temática de mariposa que se levanta y sale volando mientras las alas se mueven con ella.
-
-#### 📝 Prompt
-
-```
-Haz que una mujer sentada en el banco de mariposa se levante, pero que las alas la acompañen y pueda volar; haz que ría de forma suave y dulce, y que el movimiento sea fluido y estético.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/011354912893e24045ecd43702118a60/thumbnails/thumbnail.jpg" width="600" alt="Mujer volando desde un banco de mariposa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4768)**
-
-**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2054576561416741025) | **Published:** May 13, 2026
-
----
-### Escena de acción cinematográfica de un leñador
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video cinematográfico de alta calidad para Grok Imagine que presenta a un leñador en un bosque neblinoso con efectos dramáticos en cámara lenta.
-
-#### 📝 Prompt
-
-```
-Un leñador robusto en un bosque neblinoso al amanecer, balanceando un hacha pesada contra un tronco gigante, explosión de madera en cámara lenta dramática, primeros planos cinematográficos, hiperrealista, calidad de película de acción de Hollywood
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e7e4a6a2a3ac5c3150aedef8fe58f7f/thumbnails/thumbnail.jpg" width="600" alt="Escena de acción cinematográfica de un leñador">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4772)**
-
-**Author:** [クレア](https://x.com/kureakurea01) | **Source:** [Link](https://x.com/kureakurea01/status/2054567553570373985) | **Published:** May 13, 2026
-
----
-### Video cinemático de Transformers en Mecha City
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de ciencia ficción masivo y detallado para un video de 6 segundos de un mecha integrado con una ciudad cyberpunk sobre la Tierra.
-
-#### 📝 Prompt
-
-```
-Un video de ciencia ficción hiperrealista y cinemático de 6 segundos al estilo Transformers de última generación mezclado con una estética cyberpunk oscura. Un mecha humanoide colosal de 200 metros de altura, blanco y negro, con la espalda y los hombros fusionados con una enorme y extensa megaciudad cyberpunk cubierta de torres de neón brillantes, antenas y rascacielos, se alza de forma dominante sobre la atmósfera terrestre. El robot gigante tiene una cabeza amenazante similar a una calavera con ópticas rojas brillantes.
-Comienza con una toma aérea dramática en ángulo picado que se acerca lentamente mientras el Titán gira lentamente su torso y cabeza hacia la cámara con un potente movimiento mecánico. Sus ojos rojos se encienden intensamente. Luego, la cámara orbita suavemente alrededor de su enorme torso, revelando intrincadas placas de armadura desgastadas por la batalla, cables expuestos y luces de la ciudad que pulsan como redes neuronales.
-En el segundo 3, da un paso pesado hacia adelante; el impacto crea ondas de choque masivas, enviando enormes columnas de humo, vapor de agua y escombros que explotan hacia arriba desde el océano y la costa. El suelo tiembla violentamente.
-Plano final: un dramático alejamiento heroico en ángulo contrapicado mientras el mecha levanta su puño derecho con fuerza, con energía crepitando a lo largo de su brazo. Se revela una escala épica contra la curvatura del planeta, gradación de color cyberpunk turquesa y naranja, rayos de luz volumétricos, neblina atmosférica, partículas voladoras y un sutil grano de película. 8K, ultra detallado, fotorrealista, calidad IMAX, movimiento de cámara dinámico, diseño de sonido intenso con profundos gemidos mecánicos y el rugido del viento.
-Estilo: Hiperrealista, cinemático, Transformers de nueva generación, cyberpunk, Blade Runner 2049 se encuentra con Pacific Rim, iluminación dramática, desenfoque de movimiento en movimientos rápidos.
-Cámara: Cinemática, órbita suave + acercamiento y alejamiento dramáticos, sutil movimiento de cámara en mano al impactar.
-Duración: Exactamente 6 segundos, 24 fps, alta calidad de movimiento.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0f815be4a8c01a46938a067d8f132799/thumbnails/thumbnail.jpg" width="600" alt="Video cinemático de Transformers en Mecha City">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4764)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2054528992900702699) | **Published:** May 13, 2026
-
----
-### Transición de patrón de piedra a oro
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video metamórfico que visualiza la evolución de los patrones, desde los cimientos de piedra antiguos hasta las modernas placas de circuitos electrónicos.
-
-#### 📝 Prompt
-
-```
-de piedra a oro 
-
-Desde las piedras fundamentales de las ciudades antiguas hasta las placas de circuitos de la actualidad, todo está construido sobre los mismos patrones y planos.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6cf2a09c6d05ded6a1eb5f70b2028d3c/thumbnails/thumbnail.jpg" width="600" alt="Transición de patrón de piedra a oro">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4760)**
-
-**Author:** [Tommy Maloney](https://x.com/ThomasMalo26860) | **Source:** [Link](https://x.com/ThomasMalo26860/status/2054490062125998090) | **Published:** May 13, 2026
-
----
-### Diosa Hathoriana Divina de Ciencia Ficción
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt detallado para una diosa egipcia celestial con energía espiritual de ciencia ficción.
-
-#### 📝 Prompt
-
-```
-Mujer hathoriana divina, diosa cósmica egipcia, aura blanca dorada, templos sagrados, joyería celestial, túnica fluida elegante, energía espiritual amorosa, fantasía de ciencia ficción ultra realista, iluminación cinematográfica, altamente detallado
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/83728902e96133eecf819f2580f5c855/thumbnails/thumbnail.jpg" width="600" alt="Diosa Hathoriana Divina de Ciencia Ficción">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4765)**
-
-**Author:** [Narmina](https://x.com/narminamoon) | **Source:** [Link](https://x.com/narminamoon/status/2054461946577953002) | **Published:** May 13, 2026
-
----
-### Mujer felina de Lyra fantasía
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de fantasía detallado para un video que presenta a una mujer felina de Lyra en una ciudad cósmica dorada.
-
-#### 📝 Prompt
-
-```
-Mujer humanoide felina de Lyra, orejas de gato, cabello rizado, ciudad cósmica dorada, ciencia ficción de fantasía espiritual, retrato cinematográfico, ultra detallado
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ff49e4ddeb53c37a0fed5677d714a0d0/thumbnails/thumbnail.jpg" width="600" alt="Mujer felina de Lyra fantasía">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4767)**
-
-**Author:** [Narmina](https://x.com/narminamoon) | **Source:** [Link](https://x.com/narminamoon/status/2054461533975892064) | **Published:** May 13, 2026
-
----
-### Mujer pleyadiana en ciudad de cristal
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt espiritual de ciencia ficción sobre una mujer rubia en una ciudad de cristal cósmica y futurista.
-
-#### 📝 Prompt
-
-```
-Hermosa mujer pleyadiana, cabello rubio largo, ojos azules brillantes, vestido futurista de color blanco plateado, ciudad de cristal, fondo cósmico, ultra realista, iluminación cinematográfica, estética espiritual de ciencia ficción, altamente detallado
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2ae23d7d934e15f297693f7933a38495/thumbnails/thumbnail.jpg" width="600" alt="Mujer pleyadiana en ciudad de cristal">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4766)**
-
-**Author:** [Narmina](https://x.com/narminamoon) | **Source:** [Link](https://x.com/narminamoon/status/2054461158480916609) | **Published:** May 13, 2026
-
----
-### Formas geométricas giratorias
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de movimiento abstracto que implica reducir y rotar formas sobre un eje vertical.
-
-#### 📝 Prompt
-
-```
-Reduce todas las formas mientras las rotas varias veces sobre un eje vertical de diversas maneras
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c3b2ac97ae6704e6bddecdef15fc9396/thumbnails/thumbnail.jpg" width="600" alt="Formas geométricas giratorias">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4770)**
-
-**Author:** [Ember Art](https://x.com/Ember8184Art) | **Source:** [Link](https://x.com/Ember8184Art/status/2054448138857943367) | **Published:** May 13, 2026
-
----
-### Transformación mecánica de cíborg ciberpunk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video cinemático de alta fidelidad para la transformación de un personaje cíborg femenino en un hangar futurista, especificando detalles de cámara, iluminación y movimiento mecánico.
-
-#### 📝 Prompt
-
-```
-Video cinemático fotorrealista de 6 segundos de una impresionante cíborg femenina al estilo Transformers de última generación, en una atmósfera de ciencia ficción ciberpunk. Es la misma joven hermosa con cabello largo y fluido rubio platino en una coleta alta, rostro impecable, ojos azules llamativos, vistiendo un traje de armadura robótica elegante, ultra detallado, en blanco y negro brillante con articulaciones mecánicas intrincadas expuestas, líneas de energía azul brillante y placas metálicas desgastadas por la batalla.
-Secuencia dinámica: Ella se encuentra en un oscuro hangar de una ciudad ciberpunk futurista con luces de neón masivas, lluvia y autos voladores de fondo. La cámara orbita lentamente a su alrededor. De repente, su cuerpo comienza una poderosa y fluida transformación de siguiente nivel: las placas de la armadura se desplazan y despliegan con precisión mecánica, la energía de plasma azul brillante surge a través de sus circuitos, su coleta se agita dramáticamente mientras gira. Sus brazos y piernas se reconfiguran en una forma de combate más avanzada con nuevos módulos de armas emergiendo. Chispas y flujos de datos holográficos vuelan a su alrededor.
-Detalles ultrarrealistas, 8K, iluminación cinemática con brillos de neón volumétricos, iluminación de contorno dramática, profundidad de campo reducida, filmado con Arri Alexa 65 + lentes anamórficas, gradación de color ciberpunk intensa, atmósfera melancólica, movimientos mecánicos altamente detallados, 24 fps fluidos, ambiente épico y poderoso.
-Intensidad de movimiento: Alta
-Movimiento de cámara: Órbita suave + ligero acercamiento dramático
-Duración: 6 segundos
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8a6a4bf4dec6472284e220bdeee8c94a/thumbnails/thumbnail.jpg" width="600" alt="Transformación mecánica de cíborg ciberpunk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4771)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2054363052007628805) | **Published:** May 13, 2026
-
----
-### Comentario de chica californiana sobre SpaceX
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un video prompt centrado en el personaje con instrucciones específicas sobre el tono vocal y la carga emocional respecto a los puertos espaciales de SpaceX.
-
-#### 📝 Prompt
-
-```
-(Habla con una voz de chica californiana cálida, profunda, ronca y rasposa, con un tono súper emocionado y una gran sonrisa) "¿SpaceX construyendo puertos espaciales por todo el planeta? ¡Esto es increíble! ¡Estoy más que lista para ponerme el traje y ver a Starship despegar desde cualquier lugar!"
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1dd881ab95c7f3166a116452aaecadbb/thumbnails/thumbnail.jpg" width="600" alt="Comentario de chica californiana sobre SpaceX">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4694)**
-
-**Author:** [Alex Patricio](https://x.com/alexpatricio204) | **Source:** [Link](https://x.com/alexpatricio204/status/2054329767277846855) | **Published:** May 12, 2026
-
----
-### Vuelo ciberpunk de una diosa digital
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video dinámico que muestra a una diosa digital volando sobre una ciudad ciberpunk lluviosa en un estilo cinematográfico de 35 mm.
-
-#### 📝 Prompt
-
-```
-Usando la imagen adjunta @Image1, muestra a la diosa digital angelical volando como Superman sobre una ciudad ciberpunk, estilo Blade Runner, 35 mm, lluvia golpeándola, una sonrisa en su rostro, serena, código brillando como símbolos antiguos sobre su piel
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4407e58f5ef34ed54796bbb20a019f22/thumbnails/thumbnail.jpg" width="600" alt="Vuelo ciberpunk de una diosa digital">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4681)**
-
-**Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2054298457071145182) | **Published:** May 12, 2026
-
----
-### Ángel sobrevolando la ciudad
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video que describe a una mujer con alas sobrevolando majestuosamente una ciudad con su vestido ondeando.
-
-#### 📝 Prompt
-
-```
-Ella extiende sus alas y se gira hacia la ventana, sobrevuela majestuosamente la ciudad, con el vestido ondeando
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7b0a5ef7207900faf07156fc2a95f356/thumbnails/thumbnail.jpg" width="600" alt="Ángel sobrevolando la ciudad">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4683)**
-
-**Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2054293360459100521) | **Published:** May 12, 2026
-
----
-### Cíborg de Asia Oriental en tren bala
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video de 6 segundos de alta calidad que presenta a una cíborg mujer de Asia Oriental caminando a través de un tren futurista, con detalles técnicos completos.
-
-#### 📝 Prompt
-
-```
-Video fotorrealista cinematográfico de 6 segundos, 8K ultra detallado, ciencia ficción cyberpunk al estilo Transformers de siguiente nivel. Una impresionante mujer cíborg con hermosos rasgos de Asia Oriental, cabello castaño desordenado en dos moños con flequillo, ojos cibernéticos azul brillante, camina con confianza hacia la cámara por el centro del pasillo de un tren bala futurista de alta velocidad. Viste una armadura cibernética metálica oscura, elegante y brillante, con piel humana expuesta en los hombros y la parte superior de los brazos, intrincadas articulaciones mecánicas y sutiles líneas de energía azul brillante que pulsan a través de su cuerpo. En su mano derecha lleva un maletín rígido negro con letras "YMB" en blanco.
-Movimiento de cámara dinámico: comienza con una toma de seguimiento de cuerpo completo desde el frente mientras avanza con fuerza, luego orbita suavemente alrededor de ella a la altura de la cintura mientras continúa caminando, linternas chinas rojas balanceándose sobre su cabeza, reflejos de neón deslizándose a través de su armadura pulida, chispas de electricidad azul crepitando ocasionalmente alrededor de sus articulaciones. Atmósfera cyberpunk melancólica con iluminación volumétrica, neblina atmosférica y desenfoque de movimiento en los pasajeros de fondo. Textura de piel hiperrealista, detalles mecánicos intrincados, superficies cromadas reflectantes, iluminación de contorno dramática, filmado con Arri Alexa 65 + lentes anamórficos, gradación de color cinematográfica, obra maestra, mejor calidad, 24 fps, 6 segundos de duración.
-Prompt negativo (recomendado):
-baja calidad, borroso, deforme, extremidades adicionales, arma, pistola, artefactos de texto, marca de agua, caricatura, anime, renderizado 3d, sobreexpuesto, subexpuesto
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9f2ec9c7cf0f1d600093144d009b26f8/thumbnails/thumbnail.jpg" width="600" alt="Cíborg de Asia Oriental en tren bala">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4693)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2054291764207313087) | **Published:** May 12, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2250,6 +2254,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-21T04:23:52.251Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-21T11:40:27.574Z</sub>
 
 </div>
