@@ -303,210 +303,210 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 **作者:** [Michael Bradley](https://x.com/MikeBradleySr2) | **ソース:** [Link](https://x.com/MikeBradleySr2/status/2057385133187981793) | **公開日:** May 21, 2026
 
 ---
-### Golden Dragon Tactical Mech
+### ゴールデン・ドラゴン・タクティカル・メック
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An extremely detailed sci-fi wuxia prompt featuring a woman in intricate dragon-themed tactical armor on an ancient battlefield.
+> 古代の戦場に立つ、精巧な龍をモチーフにしたタクティカルアーマーを纏った女性を描く、極めて詳細な SF 武侠プロンプト。
 
 #### 📝 プロンプト
 
 ```
-A stunning East Asian woman with sharp beautiful features, long dark brown hair in a high sleek ponytail with flowing strands, wearing an ultra-detailed futuristic black tactical mech armor suit heavily decorated with ornate glowing golden Chinese dragons. The armor has intricate golden dragon scales, large golden dragon heads on both shoulders with glowing eyes, glowing golden dragon on the chest and a massive coiled golden dragon on the back. The suit features glowing blue energy lines and circuits, bright yellow-orange illuminated armor segments, black tactical respirator mask covering her lower face.
+鋭く美しい顔立ちの東アジア系の女性。長くダークブラウンの髪を高い位置でなめらかにポニーテールにまとめ、後れ毛をなびかせている。超精巧な近未来風の黒いタクティカル・メック・アーマーを着用し、装飾的で光り輝く黄金の中国龍が重厚に施されている。アーマーには複雑な黄金の龍の鱗、両肩には光る眼を持つ巨大な黄金の龍の頭部、胸部には光り輝く黄金の龍、そして背中には巨大な黄金の龍がとぐろを巻いている。スーツには青く光るエネルギーラインと回路が走り、明るい黄橙色に発光するアーマーセグメント、下顔面を覆う黒いタクティカル・レスピレーター・マスクが特徴。
 
-Scene opens with her standing powerfully in the center of a vast ancient battlefield, facing camera, surrounded by a swirling bright blue circular energy ring. She slowly turns 180 degrees to show her back, ponytail swaying dramatically. Camera circles around her smoothly, alternating between front three-quarter and back views with dynamic low-angle heroic shots.
+広大な古代の戦場の中央に力強く立ち、カメラに向き合う姿からシーンが始まる。彼女の周囲には渦巻く明るい青色の円形エネルギーリング。彼女はゆっくりと 180 度回転して背中を見せ、ポニーテールがドラマチックに揺れる。カメラは彼女の周囲を滑らかに旋回し、フロントの 3/4 ビューとバックビューを交互に映し出し、ダイナミックなローアングルのヒーローショットを捉える。
 
-Environment: Massive army of ancient Chinese warriors in the blurred background, dusty battlefield ground, overcast dramatic sky. Intense cinematic lighting with glowing blue floating energy particles, golden sparks, and vertical glowing light streaks raining down around her. Armor emits strong blue and golden light accents that pulse and glow.
+環境：背景にはぼやけた巨大な古代中国の軍勢、埃っぽい戦場の地面、曇天のドラマチックな空。青く光る浮遊エネルギー粒子、黄金の火花、そして周囲に降り注ぐ垂直に光る光の筋による、強烈なシネマティックライティング。アーマーは脈動し輝く力強い青と金の光のアクセントを放つ。
 
-Style: Hyper-realistic cinematic 8K, ultra-detailed textures, dramatic volumetric lighting, epic sci-fi wuxia fusion, flawless anatomy, intricate armor details, dynamic motion, high production value, shot on IMAX --ar 9:16 --stylize 250 --v 6
+スタイル：ハイパーリアリスティックなシネマティック 8K、超詳細なテクスチャ、ドラマチックなボリュームライティング、壮大な SF 武侠フュージョン、完璧な解剖学的構造、複雑なアーマーのディテール、ダイナミックな動き、高いプロダクションバリュー、IMAX 撮影 --ar 9:16 --stylize 250 --v 6
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f856f622a9e6991527bd9c183a4f90eb/thumbnails/thumbnail.jpg" width="600" alt="Golden Dragon Tactical Mech">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f856f622a9e6991527bd9c183a4f90eb/thumbnails/thumbnail.jpg" width="600" alt="ゴールデン・ドラゴン・タクティカル・メック">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5082)**
 
 **作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **ソース:** [Link](https://x.com/ThoughCreator/status/2057249122181325014) | **公開日:** May 20, 2026
 
 ---
-### Singing Robot Fox Animation
+### 歌うロボットキツネのアニメーション
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A creative video prompt for a robot fox that walks and sings a parody song, designed for Grok Imagine.
+> Grok Imagine 向けに設計された、歩きながらパロディソングを歌うロボットキツネのクリエイティブなビデオプロンプトです。
 
 #### 📝 プロンプト
 
 ```
-Imagine a robot fox that turns and walks towards the camera while he sings, "What does the GROK say! Ding ding ding da ding da dah ding. What does the Grok say!"
+ロボットのキツネがこちらを向き、カメラに向かって歩きながら「What does the GROK say! Ding ding ding da ding da dah ding. What does the Grok say!」と歌っている様子を生成してください。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1d48f923c57a6e49c0f179ea9bf67268/thumbnails/thumbnail.jpg" width="600" alt="Singing Robot Fox Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1d48f923c57a6e49c0f179ea9bf67268/thumbnails/thumbnail.jpg" width="600" alt="歌うロボットキツネのアニメーション">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5090)**
 
 **作者:** [Joe Pelayo](https://x.com/JoeHeadhunter) | **ソース:** [Link](https://x.com/JoeHeadhunter/status/2057238505412026463) | **公開日:** May 20, 2026
 
 ---
-### Lego Character Self-Animation
+### レゴキャラクターの自己アニメーション化
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An instruction for Grok Imagine to create a Lego character version of a user and animate both into a video using image references.
+> Grok Imagine を使用して、ユーザー自身のレゴキャラクター版を作成し、画像参照を用いて両方を動画にアニメーション化するための指示です。
 
 #### 📝 プロンプト
 
 ```
-Animate image of yourself and Lego Character into a Video using both for reference.
+自分自身の画像とレゴキャラクターの画像を両方参照し、動画にアニメーション化します。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9937910b41d6ebfddb6d0094836be8b5/thumbnails/thumbnail.jpg" width="600" alt="Lego Character Self-Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9937910b41d6ebfddb6d0094836be8b5/thumbnails/thumbnail.jpg" width="600" alt="レゴキャラクターの自己アニメーション化">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5088)**
 
 **作者:** [Ralph](https://x.com/RalphTheMaker) | **ソース:** [Link](https://x.com/RalphTheMaker/status/2057229234083377586) | **公開日:** May 20, 2026
 
 ---
-### Dandelion Field Romantic Meeting
+### タンポポ畑でのロマンチックな出会い
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A romantic cinematic pan over moving dandelions in the wind as a man runs toward a woman.
+> 風に揺れるタンポポの上をカメラがロマンチックにパンし、男性が女性のもとへ駆け寄るシネマティックな映像。
 
 #### 📝 プロンプト
 
 ```
-the camera pans into a detail of the dandelions softly moving in the wind as the man runs away, not in focus and then a beautiful woman shows up to love him
+カメラが風に優しく揺れるタンポポの細部をパンしていく。ピントの合っていない男性が走り去り、その先に彼を愛する美しい女性が現れる。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1931e50d69fa975fbad1aa91149dcd9f/thumbnails/thumbnail.jpg" width="600" alt="Dandelion Field Romantic Meeting">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1931e50d69fa975fbad1aa91149dcd9f/thumbnails/thumbnail.jpg" width="600" alt="タンポポ畑でのロマンチックな出会い">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5087)**
 
 **作者:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **ソース:** [Link](https://x.com/CindyWeigapn6/status/2057210352849265070) | **公開日:** May 20, 2026
 
 ---
-### Leisurely Anime Girl Interaction
+### のんびりとしたアニメ少女との交流
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed cinematic prompt for a video featuring a character named Ani performing sweet and needy gestures like peeking, tapping, and blowing a kiss.
+> Ani というキャラクターが、覗き込み、タップ、投げキッスなどの甘えん坊な仕草をする、詳細なシネマティック動画生成用プロンプトです。
 
 #### 📝 プロンプト
 
 ```
-Create a smooth leisurely video. Ani affectionately peeks and leans forward. She does a gentle hand tap, then adds a sweet gesture of placing her hand on her cheek while looking needy and pampered. At the end she blows a soft kiss toward the viewer.
+スムーズでゆったりとした動画を作成してください。Ani が愛情を込めてこちらを覗き込み、身を乗り出します。彼女は優しく手でタップし、甘えん坊で可愛らしい表情で頬に手を添えるという甘い仕草を見せます。最後に、視聴者に向かって優しく投げキッスをします。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6d7199c81f1713ae6bab6e318baccc38/thumbnails/thumbnail.jpg" width="600" alt="Leisurely Anime Girl Interaction">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6d7199c81f1713ae6bab6e318baccc38/thumbnails/thumbnail.jpg" width="600" alt="のんびりとしたアニメ少女との交流">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5081)**
 
 **作者:** [Aniの日常](https://x.com/tarohinomo78040) | **ソース:** [Link](https://x.com/tarohinomo78040/status/2057137600314655013) | **公開日:** May 20, 2026
 
 ---
-### Giant Mechanical Crab Monster Battle
+### 巨大メカ蟹モンスターバトル
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A dynamic video generation prompt where a toy transforms into a giant mechanical crab to fight three different monsters in a lunar setting.
+> おもちゃが巨大なメカ蟹に変身し、月面を舞台に 3 体の異なるモンスターと戦うというダイナミックな動画生成プロンプトです。
 
 #### 📝 プロンプト
 
 ```
-Turn this doll into a giant mechanical crab. Then it defeats three monsters in a vast moon-like setting. The first monster is an evil tiger. The second monster is a spooky-looking python. The third monster is a gross-looking loach. It eliminates them using a giant machine gun.
+この人形を巨大なメカ蟹に変身させてください。その後、広大な月面のような場所で 3 体のモンスターを倒します。1 体目のモンスターは邪悪な虎、2 体目は不気味なニシキヘビ、3 体目は気味の悪いドジョウです。メカ蟹は巨大な機関銃を使ってそれらを殲滅します。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bb95d24324226cd7f352cb57f20bc210/thumbnails/thumbnail.jpg" width="600" alt="Giant Mechanical Crab Monster Battle">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bb95d24324226cd7f352cb57f20bc210/thumbnails/thumbnail.jpg" width="600" alt="巨大メカ蟹モンスターバトル">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5089)**
 
 **作者:** [JeffLiuRoast](https://x.com/liu17251086) | **ソース:** [Link](https://x.com/liu17251086/status/2057125036268679229) | **公開日:** May 20, 2026
 
 ---
-### Pastel Flower Oil Painting
+### パステルカラーのフラワーオイルペインティング
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A video generation prompt for an artistic, textured oil painting style featuring pastel flowers and water droplets.
+> パステルカラーの花と水滴をあしらった、芸術的で質感のある油絵スタイルの動画生成プロンプトです。
 
 #### 📝 プロンプト
 
 ```
-A delicate and subtle artistic painting of a soft pastel flower with gentle water droplets resting on the petals, in the spirit of a textured oil painting with visible brushstrokes. The flower is in muted blush pink, soft lavender, and creamy white tones.
+花びらに優しい水滴が乗った、繊細で淡いパステルカラーの花の芸術的な絵画。筆致が感じられる質感のある油絵のスタイルです。花は落ち着いたブラッシュピンク、ソフトラベンダー、クリーミーホワイトの色調で表現されています。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/035c53d59abc2db1a17eeb89da4eed6f/thumbnails/thumbnail.jpg" width="600" alt="Pastel Flower Oil Painting">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/035c53d59abc2db1a17eeb89da4eed6f/thumbnails/thumbnail.jpg" width="600" alt="パステルカラーのフラワーオイルペインティング">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5079)**
 
 **作者:** [Carina](https://x.com/Freehere3) | **ソース:** [Link](https://x.com/Freehere3/status/2057096040642465953) | **公開日:** May 20, 2026
 
 ---
-### Tattooed Woman Kitchen Romance
+### タトゥーのある女性とキッチンのロマンス
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A fun video prompt featuring a tattooed woman and a man in a kitchen with floating romantic hearts.
+> タトゥーのある女性と男性がキッチンで過ごす、ハートが浮かぶロマンチックで楽しい動画プロンプトです。
 
 #### 📝 プロンプト
 
 ```
-A woman with tattoos in a green top and a man in a kitchen with money, surrounded by floating hearts in a fun loving vibe.
+緑のトップスを着たタトゥーのある女性と男性がキッチンにいて、周りにはお金が舞い、ハートが浮かぶ楽しげで愛にあふれた雰囲気の動画。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4bfed87a5bec1711f7798c8d56fb0671/thumbnails/thumbnail.jpg" width="600" alt="Tattooed Woman Kitchen Romance">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4bfed87a5bec1711f7798c8d56fb0671/thumbnails/thumbnail.jpg" width="600" alt="タトゥーのある女性とキッチンのロマンス">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5078)**
 
 **作者:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **ソース:** [Link](https://x.com/maggiejuang1/status/2057094935711461648) | **公開日:** May 20, 2026
 
 ---
-### Cyberpunk Armor Transformation
+### サイバーパンク・アーマーの変身
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A professional-grade cinematic prompt for a 6-second video showing a complex armor transformation in a rainy cyberpunk city.
+> 雨の降るサイバーパンク都市で、複雑なアーマーが変身する様子を描いた 6 秒間の動画用プロフェッショナル・シネマティック・プロンプト。
 
 #### 📝 プロンプト
 
 ```
-Cinematic 8K hyper-realistic live-action video, 6 seconds, photorealistic, shot on ARRI Alexa 65 with anamorphic lenses, subtle film grain, cinematic color grading.
+シネマティックな 8K 超リアル・実写動画、6 秒間、フォトリアル、ARRI Alexa 65 とアナモフィックレンズで撮影、繊細なフィルムグレイン、シネマティックなカラーグレーディング。
 
-Subject: The exact same breathtakingly beautiful young woman from the reference image — delicate facial features, striking blue eyes, flawless skin with soft cyber-glow highlights, voluminous flowing blue-silver hair with sparkling particles. She is wearing an ultra-advanced, next-level Transformer-style cyberpunk armor-dress: a form-fitting, translucent high-tech latex and crystalline hybrid suit that seamlessly blends her original glowing crystal aesthetic with sleek matte-black and chrome cybernetic plating, glowing neon-blue circuitry, pulsing magenta energy veins, and shifting mechanical segments. Intricate holographic crystals and floating data shards orbit her body. The suit has subtle mechanical transformation details — plates that click, unfold, and reconfigure with blue plasma arcs.
+被写体：リファレンス画像と全く同じ、息をのむほど美しい若い女性。繊細な顔立ち、印象的な青い瞳、柔らかなサイバーグローのハイライトが映える完璧な肌、きらめく粒子をまとったボリューム感のある青銀色の髪。彼女は超高度で次世代のトランスフォーマー風サイバーパンク・アーマー・ドレスを着用。体にフィットする半透明のハイテク・ラテックスとクリスタルのハイブリッドスーツで、元の輝くクリスタルの美学と、滑らかなマットブラックおよびクロームのサイバーネティック・メッキ、光るネオンブルーの回路、脈動するマゼンタのエネルギー脈、そして変形する機械的なセグメントがシームレスに融合している。複雑なホログラフィック・クリスタルと浮遊するデータのかけらが彼女の周囲を漂う。スーツには微細な機械的変形のディテールがあり、プレートがカチリと音を立てて展開し、青いプラズマアークとともに再構成される。
 
-Scene: Dark, rainy cyberpunk megacity at night. Towering neon skyscrapers, flying vehicles, massive holographic billboards, wet reflective streets. Heavy volumetric rain, atmospheric fog, god rays cutting through the mist, vibrant cyan, magenta, and electric blue lighting.
+シーン：夜の暗く雨の降るサイバーパンク・メガシティ。そびえ立つネオンの摩天楼、空飛ぶ乗り物、巨大なホログラフィック看板、濡れて反射する路面。激しいボリューム感のある雨、大気中の霧、霧を切り裂くゴッドレイ、鮮やかなシアン、マゼンタ、エレクトリックブルーのライティング。
 
-Camera movement & action (6 seconds):
-- 0-2s: Dramatic low-angle orbiting close-up as she stands powerfully, hair dramatically flowing in the wind. Her cyber-armor begins transforming — crystalline plates smoothly shift into mechanical Transformer segments with glowing energy.
-- 2-4s: She slowly raises her hands; holographic blue energy interfaces and translucent energy wings briefly manifest from her back. Rain droplets sizzle and evaporate on her glowing suit.
-- 4-6s: Epic slow pull-back shot revealing her full powerful silhouette levitating slightly above the wet street, dramatic lens flares, hair and armor elements moving with cinematic motion blur.
+カメラワークとアクション（6 秒間）：
+- 0～2秒：彼女が力強く立ち、風になびく髪がドラマチックな、ローアングルからのオービット・クローズアップ。サイバー・アーマーが変身を開始し、クリスタルのプレートが輝くエネルギーを伴い、滑らかに機械的なトランスフォーマーのセグメントへと変化する。
+- 2～4秒：彼女がゆっくりと両手を上げると、ホログラフィックな青いエネルギーのインターフェースと半透明のエネルギーの翼が背中から一瞬現れる。雨粒が光るスーツの上でジリジリと蒸発する。
+- 4～6秒：濡れた路面からわずかに浮遊する彼女の力強いシルエットを捉える、壮大なスロー・プルバック・ショット。ドラマチックなレンズフレア、髪とアーマーの要素がシネマティックなモーションブラーとともに動く。
 
-Ultra-photorealistic details, perfect anatomy, realistic fabric and metal physics, reflective wet surfaces, intricate particle effects, depth of field, moody cinematic lighting. Masterpiece visual effects, next-level Transformers-inspired transformation sequence, dark cyberpunk atmosphere, highly detailed, emotional and powerful mood.
+超フォトリアルなディテール、完璧な解剖学的構造、リアルな布地と金属の物理演算、反射する濡れた表面、複雑なパーティクルエフェクト、被写界深度、ムードのあるシネマティックなライティング。傑作の視覚効果、次世代のトランスフォーマーにインスパイアされた変身シークエンス、ダークなサイバーパンクの雰囲気、高精細で感情的かつパワフルなムード。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5b9e627bc8e55dbddca444f262920337/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Armor Transformation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5b9e627bc8e55dbddca444f262920337/thumbnails/thumbnail.jpg" width="600" alt="サイバーパンク・アーマーの変身">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5084)**
 
 **作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **ソース:** [Link](https://x.com/ThoughCreator/status/2057088402445459694) | **公開日:** May 20, 2026
 
 ---
-### Cybernetic Warrior Bow
+### サイバネティック・ウォリアー・ボウ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A stylized prompt using complex symbols to describe a purple-diamond armored character with a laser bow.
+> 紫色のダイヤモンドの鎧を纏い、レーザーの弓を構えたキャラクターを描写するための、複雑な記号を用いたスタイライズド・プロンプトです。
 
 #### 📝 プロンプト
 
 ```
-< black fluffy golden hair >purple vein >
-¥ { armor purple reflective diamonds }
-( bow laser cut beridium allow bolts glowing )
-^{ * { eyes are beautiful green blue } ( stare )
+< 黒くふわふわした金髪 >紫の血管 >
+¥ { 紫色の反射するダイヤモンドの鎧 }
+( ベリリウム合金のボルトを放つ光るレーザーの弓 )
+^{ * { 美しい緑と青の瞳 } ( 凝視 )
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/52e559488c2320f468643178ad268316/thumbnails/thumbnail.jpg" width="600" alt="Cybernetic Warrior Bow">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/52e559488c2320f468643178ad268316/thumbnails/thumbnail.jpg" width="600" alt="サイバネティック・ウォリアー・ボウ">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5085)**
 
@@ -532,57 +532,57 @@ Ultra-photorealistic details, perfect anatomy, realistic fabric and metal physic
 **作者:** [BizPunk72](https://x.com/bixxs) | **ソース:** [Link](https://x.com/bixxs/status/2056948566933782740) | **公開日:** May 20, 2026
 
 ---
-### Starlink Satellites Laser Rays
+### Starlink 衛星のレーザー光線
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A conceptual prompt depicting Starlink satellites firing laser beams onto a wall, integrated with a character's dialogue.
+> Starlink 衛星が壁に向かってレーザービームを照射している様子を描いたコンセプトプロンプト。キャラクターのセリフも含まれています。
 
 #### 📝 プロンプト
 
 ```
-@image1 on the wall the Starlink satellites firing laser beams. She says How are these headlines allowed?... @imagine @grok The missing ingredient of annoyance. 🔥🫶☕️💫
+@image1 壁に Starlink 衛星がレーザービームを照射している。彼女は「どうしてこんな見出しが許されるの？」と言う... @imagine @grok 苛立ちという名の欠けている要素。🔥🫶☕️💫
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f383250202d5781d1c9a9787a907ac16/thumbnails/thumbnail.jpg" width="600" alt="Starlink Satellites Laser Rays">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f383250202d5781d1c9a9787a907ac16/thumbnails/thumbnail.jpg" width="600" alt="Starlink 衛星のレーザー光線">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5080)**
 
 **作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **ソース:** [Link](https://x.com/clemensilverio/status/2056937301347901503) | **公開日:** May 20, 2026
 
 ---
-### Flying Pterodactyl Animation
+### プテラノドンの飛行アニメーション
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An instruction to take a pterodactyl-like object and animate it flying off into the distance.
+> プテラノドンのようなオブジェクトをアニメーション化し、遠くへ飛び去るようにする指示です。
 
 #### 📝 プロンプト
 
 ```
-Grok see the bird teradactial looking object can you make it get up and fly off into the distance
+Grok 、この鳥やプテラノドンのようなオブジェクトを立ち上がらせて、遠くへ飛び去るようにアニメーション化できますか？
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e074c6f0245c38b8830e95923e9a8d9f/thumbnails/thumbnail.jpg" width="600" alt="Flying Pterodactyl Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e074c6f0245c38b8830e95923e9a8d9f/thumbnails/thumbnail.jpg" width="600" alt="プテラノドンの飛行アニメーション">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5086)**
 
 **作者:** [(PRESS)Scotty Fife (aka) NevNukeMonster](https://x.com/fife_scotty680) | **ソース:** [Link](https://x.com/fife_scotty680/status/2056905441091977384) | **公開日:** May 20, 2026
 
 ---
-### Gothic Mansion Back Tattoo
+### ゴシックマンションの背中タトゥー
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic and dark aesthetic prompt describing a woman with a highly detailed gothic mansion tattoo on her back in a 90s setting.
+> 90 年代を舞台に、背中に精巧なゴシックマンションのタトゥーを入れた女性を描く、映画的でダークな美学のプロンプト。
 
 #### 📝 プロンプト
 
 ```
-Female sitting crossed legged on the floor with her back facing the camera with her head subtly turned back to view the camera, her whole back is exposed to show off her full back tattoo piece, she is wearing baggy jeans with a studded black belt. She has long black hair pulled up in a clip, wispy bangs, dark brown eyes, thin eyebrows, full lips, light skin with natural texture and pores to her skin, she has black small gauges. Her back tattoo is a large gothic Victorian era style mansion with ornate detailing with a dragon flying with filler type tattooing around the main piece, black, grey, and white ink, highly detailed scene of the tattoo. Dark minimalist 1990s room, low light, realistic rendering, shallow depth of field, low color saturation.
+床に足を組んで座り、カメラに背を向けながら、わずかに顔を振り返ってこちらを見つめる女性。背中全体が露わになっており、背中一面のタトゥーが強調されている。服装はスタッズ付きの黒いベルトを合わせたバギーパンツ。黒髪のロングヘアをクリップで留め、薄い前髪、ダークブラウンの瞳、細い眉、ふっくらとした唇。肌は明るく、自然な質感と毛穴までリアルに表現されている。耳には小さな黒いゲージピアス。背中のタトゥーは、装飾が施されたヴィクトリア朝様式の巨大なゴシックマンションで、周囲には龍が舞い、フィラー（隙間埋め）のタトゥーが描かれている。黒、グレー、白のインクを使用し、非常に精巧なタトゥーの描写。1990 年代のダークでミニマルな部屋、ローライト、リアルなレンダリング、浅い被写界深度、低彩度。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a80c3ac9ad0bfdbfb89b5afbb43bd268/thumbnails/thumbnail.jpg" width="600" alt="Gothic Mansion Back Tattoo">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a80c3ac9ad0bfdbfb89b5afbb43bd268/thumbnails/thumbnail.jpg" width="600" alt="ゴシックマンションの背中タトゥー">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5083)**
 
@@ -2237,6 +2237,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-05-22T11:04:10.180Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-05-22T14:58:44.887Z</sub>
 
 </div>

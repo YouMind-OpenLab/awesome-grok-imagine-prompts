@@ -307,18 +307,18 @@ Faça a caneta desenhar a frase “Você foi julgado e considerado insuficiente�
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An extremely detailed sci-fi wuxia prompt featuring a woman in intricate dragon-themed tactical armor on an ancient battlefield.
+> Um prompt de wuxia sci-fi extremamente detalhado apresentando uma mulher em uma armadura tática intrincada com tema de dragão em um antigo campo de batalha.
 
 #### 📝 Prompt
 
 ```
-A stunning East Asian woman with sharp beautiful features, long dark brown hair in a high sleek ponytail with flowing strands, wearing an ultra-detailed futuristic black tactical mech armor suit heavily decorated with ornate glowing golden Chinese dragons. The armor has intricate golden dragon scales, large golden dragon heads on both shoulders with glowing eyes, glowing golden dragon on the chest and a massive coiled golden dragon on the back. The suit features glowing blue energy lines and circuits, bright yellow-orange illuminated armor segments, black tactical respirator mask covering her lower face.
+Uma mulher do leste asiático deslumbrante com traços bonitos e marcantes, longos cabelos castanhos escuros em um rabo de cavalo alto e elegante com mechas soltas, vestindo um traje de armadura mech tática futurista ultra detalhado, fortemente decorado com dragões chineses dourados brilhantes e ornamentados. A armadura possui escamas de dragão douradas intrincadas, grandes cabeças de dragão douradas em ambos os ombros com olhos brilhantes, um dragão dourado brilhante no peito e um enorme dragão dourado enrolado nas costas. O traje apresenta linhas de energia e circuitos azuis brilhantes, segmentos de armadura iluminados em amarelo-alaranjado e uma máscara respiratória tática preta cobrindo a parte inferior do rosto.
 
-Scene opens with her standing powerfully in the center of a vast ancient battlefield, facing camera, surrounded by a swirling bright blue circular energy ring. She slowly turns 180 degrees to show her back, ponytail swaying dramatically. Camera circles around her smoothly, alternating between front three-quarter and back views with dynamic low-angle heroic shots.
+A cena começa com ela em uma pose poderosa no centro de um vasto campo de batalha antigo, de frente para a câmera, cercada por um anel de energia circular azul brilhante. Ela gira lentamente 180 graus para mostrar as costas, com o rabo de cavalo balançando dramaticamente. A câmera circula suavemente ao redor dela, alternando entre vistas de três quartos frontal e traseira com planos heroicos dinâmicos de ângulo baixo.
 
-Environment: Massive army of ancient Chinese warriors in the blurred background, dusty battlefield ground, overcast dramatic sky. Intense cinematic lighting with glowing blue floating energy particles, golden sparks, and vertical glowing light streaks raining down around her. Armor emits strong blue and golden light accents that pulse and glow.
+Ambiente: Um exército massivo de guerreiros chineses antigos ao fundo, desfocado, solo de campo de batalha empoeirado, céu dramático nublado. Iluminação cinematográfica intensa com partículas de energia flutuantes azuis brilhantes, faíscas douradas e feixes de luz verticais brilhantes caindo ao redor dela. A armadura emite fortes detalhes de luz azul e dourada que pulsam e brilham.
 
-Style: Hyper-realistic cinematic 8K, ultra-detailed textures, dramatic volumetric lighting, epic sci-fi wuxia fusion, flawless anatomy, intricate armor details, dynamic motion, high production value, shot on IMAX --ar 9:16 --stylize 250 --v 6
+Estilo: Cinematográfico hiper-realista 8K, texturas ultra detalhadas, iluminação volumétrica dramática, fusão épica de sci-fi wuxia, anatomia impecável, detalhes intrincados da armadura, movimento dinâmico, alto valor de produção, filmado em IMAX --ar 9:16 --stylize 250 --v 6
 ```
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f856f622a9e6991527bd9c183a4f90eb/thumbnails/thumbnail.jpg" width="600" alt="Golden Dragon Tactical Mech">
@@ -328,185 +328,185 @@ Style: Hyper-realistic cinematic 8K, ultra-detailed textures, dramatic volumetri
 **Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2057249122181325014) | **Published:** May 20, 2026
 
 ---
-### Singing Robot Fox Animation
+### Animação de Raposa Robô Cantante
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A creative video prompt for a robot fox that walks and sings a parody song, designed for Grok Imagine.
+> Um prompt de vídeo criativo para uma raposa robô que caminha e canta uma paródia, projetado para o Grok Imagine.
 
 #### 📝 Prompt
 
 ```
-Imagine a robot fox that turns and walks towards the camera while he sings, "What does the GROK say! Ding ding ding da ding da dah ding. What does the Grok say!"
+Imagine uma raposa robô que se vira e caminha em direção à câmera enquanto canta: "O que o GROK diz! Ding ding ding da ding da dah ding. O que o Grok diz!"
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1d48f923c57a6e49c0f179ea9bf67268/thumbnails/thumbnail.jpg" width="600" alt="Singing Robot Fox Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1d48f923c57a6e49c0f179ea9bf67268/thumbnails/thumbnail.jpg" width="600" alt="Animação de Raposa Robô Cantante">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5090)**
 
 **Author:** [Joe Pelayo](https://x.com/JoeHeadhunter) | **Source:** [Link](https://x.com/JoeHeadhunter/status/2057238505412026463) | **Published:** May 20, 2026
 
 ---
-### Lego Character Self-Animation
+### Autoanimação de Personagem Lego
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An instruction for Grok Imagine to create a Lego character version of a user and animate both into a video using image references.
+> Uma instrução para o Grok Imagine criar uma versão em Lego de um usuário e animar ambos em um vídeo usando referências de imagem.
 
 #### 📝 Prompt
 
 ```
-Animate image of yourself and Lego Character into a Video using both for reference.
+Anime uma imagem sua e de um personagem Lego em um vídeo, usando ambas como referência.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9937910b41d6ebfddb6d0094836be8b5/thumbnails/thumbnail.jpg" width="600" alt="Lego Character Self-Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9937910b41d6ebfddb6d0094836be8b5/thumbnails/thumbnail.jpg" width="600" alt="Autoanimação de Personagem Lego">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5088)**
 
 **Author:** [Ralph](https://x.com/RalphTheMaker) | **Source:** [Link](https://x.com/RalphTheMaker/status/2057229234083377586) | **Published:** May 20, 2026
 
 ---
-### Dandelion Field Romantic Meeting
+### Encontro Romântico em Campo de Dentes-de-leão
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A romantic cinematic pan over moving dandelions in the wind as a man runs toward a woman.
+> Uma tomada cinematográfica romântica sobre dentes-de-leão movendo-se ao vento enquanto um homem corre em direção a uma mulher.
 
 #### 📝 Prompt
 
 ```
-the camera pans into a detail of the dandelions softly moving in the wind as the man runs away, not in focus and then a beautiful woman shows up to love him
+a câmera faz um movimento panorâmico para um detalhe dos dentes-de-leão movendo-se suavemente ao vento enquanto o homem corre para longe, fora de foco, e então uma bela mulher aparece para amá-lo
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1931e50d69fa975fbad1aa91149dcd9f/thumbnails/thumbnail.jpg" width="600" alt="Dandelion Field Romantic Meeting">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1931e50d69fa975fbad1aa91149dcd9f/thumbnails/thumbnail.jpg" width="600" alt="Encontro Romântico em Campo de Dentes-de-leão">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5087)**
 
 **Author:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **Source:** [Link](https://x.com/CindyWeigapn6/status/2057210352849265070) | **Published:** May 20, 2026
 
 ---
-### Leisurely Anime Girl Interaction
+### Interação Relaxada com Garota de Anime
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed cinematic prompt for a video featuring a character named Ani performing sweet and needy gestures like peeking, tapping, and blowing a kiss.
+> Um prompt cinematográfico detalhado para um vídeo apresentando uma personagem chamada Ani realizando gestos doces e carentes, como espiar, dar tapinhas e mandar um beijo.
 
 #### 📝 Prompt
 
 ```
-Create a smooth leisurely video. Ani affectionately peeks and leans forward. She does a gentle hand tap, then adds a sweet gesture of placing her hand on her cheek while looking needy and pampered. At the end she blows a soft kiss toward the viewer.
+Crie um vídeo suave e relaxado. Ani espreita afetuosamente e inclina-se para frente. Ela dá um leve tapinha com a mão e, em seguida, faz um gesto doce, colocando a mão na bochecha enquanto parece carente e mimada. No final, ela manda um beijo suave em direção ao espectador.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6d7199c81f1713ae6bab6e318baccc38/thumbnails/thumbnail.jpg" width="600" alt="Leisurely Anime Girl Interaction">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6d7199c81f1713ae6bab6e318baccc38/thumbnails/thumbnail.jpg" width="600" alt="Interação Relaxada com Garota de Anime">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5081)**
 
 **Author:** [Aniの日常](https://x.com/tarohinomo78040) | **Source:** [Link](https://x.com/tarohinomo78040/status/2057137600314655013) | **Published:** May 20, 2026
 
 ---
-### Giant Mechanical Crab Monster Battle
+### Batalha contra um Monstro Caranguejo Mecânico Gigante
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A dynamic video generation prompt where a toy transforms into a giant mechanical crab to fight three different monsters in a lunar setting.
+> Um prompt dinâmico de geração de vídeo onde um brinquedo se transforma em um caranguejo mecânico gigante para lutar contra três monstros diferentes em um cenário lunar.
 
 #### 📝 Prompt
 
 ```
-Turn this doll into a giant mechanical crab. Then it defeats three monsters in a vast moon-like setting. The first monster is an evil tiger. The second monster is a spooky-looking python. The third monster is a gross-looking loach. It eliminates them using a giant machine gun.
+Transforme este boneco em um caranguejo mecânico gigante. Em seguida, ele derrota três monstros em um vasto cenário que lembra a lua. O primeiro monstro é um tigre maligno. O segundo monstro é uma píton de aparência assustadora. O terceiro monstro é um peixe-cobra de aparência repugnante. Ele os elimina usando uma metralhadora gigante.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bb95d24324226cd7f352cb57f20bc210/thumbnails/thumbnail.jpg" width="600" alt="Giant Mechanical Crab Monster Battle">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bb95d24324226cd7f352cb57f20bc210/thumbnails/thumbnail.jpg" width="600" alt="Batalha contra um Monstro Caranguejo Mecânico Gigante">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5089)**
 
 **Author:** [JeffLiuRoast](https://x.com/liu17251086) | **Source:** [Link](https://x.com/liu17251086/status/2057125036268679229) | **Published:** May 20, 2026
 
 ---
-### Pastel Flower Oil Painting
+### Pintura a óleo de flores em tons pastéis
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A video generation prompt for an artistic, textured oil painting style featuring pastel flowers and water droplets.
+> Um prompt de geração de vídeo para um estilo artístico de pintura a óleo texturizada, apresentando flores em tons pastéis e gotas de água.
 
 #### 📝 Prompt
 
 ```
-A delicate and subtle artistic painting of a soft pastel flower with gentle water droplets resting on the petals, in the spirit of a textured oil painting with visible brushstrokes. The flower is in muted blush pink, soft lavender, and creamy white tones.
+Uma pintura artística delicada e sutil de uma flor em tons pastéis suaves com gotas de água delicadas sobre as pétalas, no espírito de uma pintura a óleo texturizada com pinceladas visíveis. A flor apresenta tons de rosa blush suave, lavanda suave e branco cremoso.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/035c53d59abc2db1a17eeb89da4eed6f/thumbnails/thumbnail.jpg" width="600" alt="Pastel Flower Oil Painting">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/035c53d59abc2db1a17eeb89da4eed6f/thumbnails/thumbnail.jpg" width="600" alt="Pintura a óleo de flores em tons pastéis">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5079)**
 
 **Author:** [Carina](https://x.com/Freehere3) | **Source:** [Link](https://x.com/Freehere3/status/2057096040642465953) | **Published:** May 20, 2026
 
 ---
-### Tattooed Woman Kitchen Romance
+### Romance na Cozinha com Mulher Tatuada
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A fun video prompt featuring a tattooed woman and a man in a kitchen with floating romantic hearts.
+> Um prompt de vídeo divertido apresentando uma mulher tatuada e um homem em uma cozinha com corações românticos flutuantes.
 
 #### 📝 Prompt
 
 ```
-A woman with tattoos in a green top and a man in a kitchen with money, surrounded by floating hearts in a fun loving vibe.
+Uma mulher com tatuagens vestindo uma blusa verde e um homem em uma cozinha com dinheiro, cercados por corações flutuantes em um clima divertido e amoroso.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4bfed87a5bec1711f7798c8d56fb0671/thumbnails/thumbnail.jpg" width="600" alt="Tattooed Woman Kitchen Romance">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4bfed87a5bec1711f7798c8d56fb0671/thumbnails/thumbnail.jpg" width="600" alt="Romance na Cozinha com Mulher Tatuada">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5078)**
 
 **Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2057094935711461648) | **Published:** May 20, 2026
 
 ---
-### Cyberpunk Armor Transformation
+### Transformação de Armadura Cyberpunk
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A professional-grade cinematic prompt for a 6-second video showing a complex armor transformation in a rainy cyberpunk city.
+> Um prompt cinematográfico de nível profissional para um vídeo de 6 segundos mostrando uma transformação complexa de armadura em uma cidade cyberpunk chuvosa.
 
 #### 📝 Prompt
 
 ```
-Cinematic 8K hyper-realistic live-action video, 6 seconds, photorealistic, shot on ARRI Alexa 65 with anamorphic lenses, subtle film grain, cinematic color grading.
+Vídeo live-action cinematográfico hiper-realista em 8K, 6 segundos, fotorrealista, filmado com ARRI Alexa 65 com lentes anamórficas, granulação de filme sutil, color grading cinematográfico.
 
-Subject: The exact same breathtakingly beautiful young woman from the reference image — delicate facial features, striking blue eyes, flawless skin with soft cyber-glow highlights, voluminous flowing blue-silver hair with sparkling particles. She is wearing an ultra-advanced, next-level Transformer-style cyberpunk armor-dress: a form-fitting, translucent high-tech latex and crystalline hybrid suit that seamlessly blends her original glowing crystal aesthetic with sleek matte-black and chrome cybernetic plating, glowing neon-blue circuitry, pulsing magenta energy veins, and shifting mechanical segments. Intricate holographic crystals and floating data shards orbit her body. The suit has subtle mechanical transformation details — plates that click, unfold, and reconfigure with blue plasma arcs.
+Sujeito: Exatamente a mesma jovem deslumbrante da imagem de referência — traços faciais delicados, olhos azuis marcantes, pele impecável com suaves reflexos de brilho cibernético, cabelo azul-prateado volumoso e fluido com partículas brilhantes. Ela veste um vestido-armadura cyberpunk de nível avançado, estilo Transformer: um traje híbrido de látex tecnológico translúcido e cristalino que se ajusta ao corpo, misturando perfeitamente sua estética de cristal brilhante original com placas cibernéticas elegantes em preto fosco e cromo, circuitos neon azuis brilhantes, veias de energia magenta pulsantes e segmentos mecânicos móveis. Cristais holográficos intrincados e fragmentos de dados flutuantes orbitam seu corpo. O traje possui detalhes sutis de transformação mecânica — placas que se encaixam, desdobram e reconfiguram com arcos de plasma azul.
 
-Scene: Dark, rainy cyberpunk megacity at night. Towering neon skyscrapers, flying vehicles, massive holographic billboards, wet reflective streets. Heavy volumetric rain, atmospheric fog, god rays cutting through the mist, vibrant cyan, magenta, and electric blue lighting.
+Cena: Megacidade cyberpunk escura e chuvosa à noite. Arranha-céus de neon imponentes, veículos voadores, outdoors holográficos massivos, ruas molhadas e reflexivas. Chuva volumétrica intensa, neblina atmosférica, raios de luz cortando a névoa, iluminação vibrante em ciano, magenta e azul elétrico.
 
-Camera movement & action (6 seconds):
-- 0-2s: Dramatic low-angle orbiting close-up as she stands powerfully, hair dramatically flowing in the wind. Her cyber-armor begins transforming — crystalline plates smoothly shift into mechanical Transformer segments with glowing energy.
-- 2-4s: She slowly raises her hands; holographic blue energy interfaces and translucent energy wings briefly manifest from her back. Rain droplets sizzle and evaporate on her glowing suit.
-- 4-6s: Epic slow pull-back shot revealing her full powerful silhouette levitating slightly above the wet street, dramatic lens flares, hair and armor elements moving with cinematic motion blur.
+Movimento de câmera e ação (6 segundos):
+- 0-2s: Close-up dramático em ângulo baixo orbitando enquanto ela permanece em uma pose poderosa, com o cabelo fluindo dramaticamente ao vento. Sua armadura cibernética começa a se transformar — placas cristalinas mudam suavemente para segmentos mecânicos estilo Transformer com energia brilhante.
+- 2-4s: Ela levanta as mãos lentamente; interfaces de energia azul holográfica e asas de energia translúcidas se manifestam brevemente em suas costas. Gotas de chuva sibilam e evaporam em seu traje brilhante.
+- 4-6s: Tomada épica de afastamento lento revelando sua silhueta poderosa completa levitando levemente acima da rua molhada, reflexos de lente dramáticos, cabelo e elementos da armadura movendo-se com desfoque de movimento cinematográfico.
 
-Ultra-photorealistic details, perfect anatomy, realistic fabric and metal physics, reflective wet surfaces, intricate particle effects, depth of field, moody cinematic lighting. Masterpiece visual effects, next-level Transformers-inspired transformation sequence, dark cyberpunk atmosphere, highly detailed, emotional and powerful mood.
+Detalhes ultra-fotorrealistas, anatomia perfeita, física realista de tecido e metal, superfícies molhadas reflexivas, efeitos de partículas intrincados, profundidade de campo, iluminação cinematográfica atmosférica. Efeitos visuais de obra-prima, sequência de transformação inspirada em Transformers de alto nível, atmosfera cyberpunk sombria, altamente detalhado, clima emocional e poderoso.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5b9e627bc8e55dbddca444f262920337/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Armor Transformation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5b9e627bc8e55dbddca444f262920337/thumbnails/thumbnail.jpg" width="600" alt="Transformação de Armadura Cyberpunk">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5084)**
 
 **Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2057088402445459694) | **Published:** May 20, 2026
 
 ---
-### Cybernetic Warrior Bow
+### Arqueiro Cibernético
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A stylized prompt using complex symbols to describe a purple-diamond armored character with a laser bow.
+> Um prompt estilizado que utiliza símbolos complexos para descrever um personagem com armadura de diamantes roxos e um arco a laser.
 
 #### 📝 Prompt
 
 ```
-< black fluffy golden hair >purple vein >
-¥ { armor purple reflective diamonds }
-( bow laser cut beridium allow bolts glowing )
-^{ * { eyes are beautiful green blue } ( stare )
+< cabelo dourado fofo e preto > veia roxa >
+¥ { armadura de diamantes roxos reflexivos }
+( arco de laser com parafusos de liga de berídio brilhantes )
+^{ * { olhos são de um lindo azul esverdeado } ( olhar fixo )
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/52e559488c2320f468643178ad268316/thumbnails/thumbnail.jpg" width="600" alt="Cybernetic Warrior Bow">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/52e559488c2320f468643178ad268316/thumbnails/thumbnail.jpg" width="600" alt="Arqueiro Cibernético">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5085)**
 
@@ -532,57 +532,57 @@ Observe esta sereia, brilhando de orgulho. Bolhas flutuam ao seu redor, dando um
 **Author:** [BizPunk72](https://x.com/bixxs) | **Source:** [Link](https://x.com/bixxs/status/2056948566933782740) | **Published:** May 20, 2026
 
 ---
-### Starlink Satellites Laser Rays
+### Raios laser dos satélites Starlink
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A conceptual prompt depicting Starlink satellites firing laser beams onto a wall, integrated with a character's dialogue.
+> Um prompt conceitual retratando satélites Starlink disparando feixes de laser em uma parede, integrado ao diálogo de uma personagem.
 
 #### 📝 Prompt
 
 ```
-@image1 on the wall the Starlink satellites firing laser beams. She says How are these headlines allowed?... @imagine @grok The missing ingredient of annoyance. 🔥🫶☕️💫
+@image1 na parede os satélites Starlink disparando feixes de laser. Ela diz Como essas manchetes são permitidas?... @imagine @grok O ingrediente que faltava para o incômodo. 🔥🫶☕️💫
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f383250202d5781d1c9a9787a907ac16/thumbnails/thumbnail.jpg" width="600" alt="Starlink Satellites Laser Rays">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f383250202d5781d1c9a9787a907ac16/thumbnails/thumbnail.jpg" width="600" alt="Raios laser dos satélites Starlink">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5080)**
 
 **Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2056937301347901503) | **Published:** May 20, 2026
 
 ---
-### Flying Pterodactyl Animation
+### Animação de Pterodáctilo Voando
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An instruction to take a pterodactyl-like object and animate it flying off into the distance.
+> Uma instrução para pegar um objeto semelhante a um pterodáctilo e animá-lo voando para longe.
 
 #### 📝 Prompt
 
 ```
-Grok see the bird teradactial looking object can you make it get up and fly off into the distance
+Grok, veja este objeto que parece um pterodáctilo. Você pode fazer com que ele se levante e voe para longe?
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e074c6f0245c38b8830e95923e9a8d9f/thumbnails/thumbnail.jpg" width="600" alt="Flying Pterodactyl Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e074c6f0245c38b8830e95923e9a8d9f/thumbnails/thumbnail.jpg" width="600" alt="Animação de Pterodáctilo Voando">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5086)**
 
 **Author:** [(PRESS)Scotty Fife (aka) NevNukeMonster](https://x.com/fife_scotty680) | **Source:** [Link](https://x.com/fife_scotty680/status/2056905441091977384) | **Published:** May 20, 2026
 
 ---
-### Gothic Mansion Back Tattoo
+### Tatuagem nas costas de mansão gótica
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic and dark aesthetic prompt describing a woman with a highly detailed gothic mansion tattoo on her back in a 90s setting.
+> Um prompt de estética cinematográfica e sombria descrevendo uma mulher com uma tatuagem de mansão gótica altamente detalhada nas costas em um cenário dos anos 90.
 
 #### 📝 Prompt
 
 ```
-Female sitting crossed legged on the floor with her back facing the camera with her head subtly turned back to view the camera, her whole back is exposed to show off her full back tattoo piece, she is wearing baggy jeans with a studded black belt. She has long black hair pulled up in a clip, wispy bangs, dark brown eyes, thin eyebrows, full lips, light skin with natural texture and pores to her skin, she has black small gauges. Her back tattoo is a large gothic Victorian era style mansion with ornate detailing with a dragon flying with filler type tattooing around the main piece, black, grey, and white ink, highly detailed scene of the tattoo. Dark minimalist 1990s room, low light, realistic rendering, shallow depth of field, low color saturation.
+Mulher sentada de pernas cruzadas no chão, de costas para a câmera, com a cabeça sutilmente virada para trás para olhar para a lente; suas costas estão totalmente expostas para exibir a tatuagem que cobre toda a extensão, ela veste jeans largos com um cinto preto de tachas. Ela tem cabelos pretos longos presos com uma presilha, franja desfiada, olhos castanhos escuros, sobrancelhas finas, lábios carnudos, pele clara com textura natural e poros visíveis, e usa alargadores pretos pequenos. A tatuagem em suas costas é uma mansão grande em estilo gótico vitoriano com detalhes ornamentados, apresentando um dragão voando com preenchimento ao redor da peça principal, tinta preta, cinza e branca, cena da tatuagem altamente detalhada. Quarto minimalista e sombrio dos anos 1990, pouca luz, renderização realista, profundidade de campo rasa, baixa saturação de cor.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a80c3ac9ad0bfdbfb89b5afbb43bd268/thumbnails/thumbnail.jpg" width="600" alt="Gothic Mansion Back Tattoo">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a80c3ac9ad0bfdbfb89b5afbb43bd268/thumbnails/thumbnail.jpg" width="600" alt="Tatuagem nas costas de mansão gótica">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5083)**
 
@@ -2237,6 +2237,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-22T11:04:21.244Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-22T14:58:58.366Z</sub>
 
 </div>

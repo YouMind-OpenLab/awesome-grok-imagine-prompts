@@ -303,210 +303,210 @@ Hãy để chiếc bút vẽ dòng chữ “Ngươi đã bị phán xét và b�
 **Author:** [Michael Bradley](https://x.com/MikeBradleySr2) | **Source:** [Link](https://x.com/MikeBradleySr2/status/2057385133187981793) | **Published:** May 21, 2026
 
 ---
-### Golden Dragon Tactical Mech
+### Cơ giáp chiến thuật Rồng Vàng
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An extremely detailed sci-fi wuxia prompt featuring a woman in intricate dragon-themed tactical armor on an ancient battlefield.
+> Một câu lệnh (prompt) khoa học viễn tưởng kết hợp võ hiệp cực kỳ chi tiết, khắc họa một người phụ nữ trong bộ giáp chiến thuật chủ đề rồng tinh xảo trên chiến trường cổ đại.
 
 #### 📝 Prompt
 
 ```
-A stunning East Asian woman with sharp beautiful features, long dark brown hair in a high sleek ponytail with flowing strands, wearing an ultra-detailed futuristic black tactical mech armor suit heavily decorated with ornate glowing golden Chinese dragons. The armor has intricate golden dragon scales, large golden dragon heads on both shoulders with glowing eyes, glowing golden dragon on the chest and a massive coiled golden dragon on the back. The suit features glowing blue energy lines and circuits, bright yellow-orange illuminated armor segments, black tactical respirator mask covering her lower face.
+Một người phụ nữ Đông Á tuyệt đẹp với các đường nét sắc sảo, mái tóc nâu sẫm dài buộc đuôi ngựa cao gọn gàng với những lọn tóc buông xõa, mặc bộ giáp cơ giáp chiến thuật tương lai màu đen siêu chi tiết, được trang trí công phu bằng hình tượng rồng Trung Hoa màu vàng rực rỡ. Bộ giáp có các vảy rồng vàng tinh xảo, đầu rồng vàng lớn trên cả hai vai với đôi mắt phát sáng, rồng vàng phát sáng trên ngực và một con rồng vàng cuộn mình khổng lồ ở phía sau lưng. Bộ giáp có các đường năng lượng và mạch điện màu xanh lam phát sáng, các phân đoạn giáp chiếu sáng màu vàng cam rực rỡ, mặt nạ phòng độc chiến thuật màu đen che nửa khuôn mặt dưới.
 
-Scene opens with her standing powerfully in the center of a vast ancient battlefield, facing camera, surrounded by a swirling bright blue circular energy ring. She slowly turns 180 degrees to show her back, ponytail swaying dramatically. Camera circles around her smoothly, alternating between front three-quarter and back views with dynamic low-angle heroic shots.
+Cảnh quay mở đầu với cô đứng đầy uy quyền ở trung tâm một chiến trường cổ đại rộng lớn, đối diện với máy quay, bao quanh bởi một vòng năng lượng hình tròn màu xanh lam sáng rực đang xoáy tròn. Cô chậm rãi xoay người 180 độ để lộ phần lưng, mái tóc đuôi ngựa đung đưa đầy ấn tượng. Máy quay di chuyển mượt mà xung quanh cô, luân phiên giữa góc nhìn ba phần tư phía trước và phía sau với các cú máy góc thấp đầy anh hùng và năng động.
 
-Environment: Massive army of ancient Chinese warriors in the blurred background, dusty battlefield ground, overcast dramatic sky. Intense cinematic lighting with glowing blue floating energy particles, golden sparks, and vertical glowing light streaks raining down around her. Armor emits strong blue and golden light accents that pulse and glow.
+Bối cảnh: Đội quân chiến binh Trung Hoa cổ đại khổng lồ ở hậu cảnh mờ ảo, mặt đất chiến trường đầy bụi bặm, bầu trời u ám đầy kịch tính. Ánh sáng điện ảnh cường độ cao với các hạt năng lượng xanh lam phát sáng trôi nổi, tia lửa vàng và những vệt sáng dọc rực rỡ đổ xuống xung quanh cô. Bộ giáp tỏa ra các điểm nhấn ánh sáng xanh và vàng mạnh mẽ, nhấp nháy và phát sáng.
 
-Style: Hyper-realistic cinematic 8K, ultra-detailed textures, dramatic volumetric lighting, epic sci-fi wuxia fusion, flawless anatomy, intricate armor details, dynamic motion, high production value, shot on IMAX --ar 9:16 --stylize 250 --v 6
+Phong cách: Điện ảnh siêu thực 8K, kết cấu siêu chi tiết, ánh sáng thể tích kịch tính, sự kết hợp sử thi giữa khoa học viễn tưởng và võ hiệp, giải phẫu hoàn hảo, chi tiết giáp phức tạp, chuyển động năng động, giá trị sản xuất cao, quay bằng IMAX --ar 9:16 --stylize 250 --v 6
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f856f622a9e6991527bd9c183a4f90eb/thumbnails/thumbnail.jpg" width="600" alt="Golden Dragon Tactical Mech">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f856f622a9e6991527bd9c183a4f90eb/thumbnails/thumbnail.jpg" width="600" alt="Cơ giáp chiến thuật Rồng Vàng">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5082)**
 
 **Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2057249122181325014) | **Published:** May 20, 2026
 
 ---
-### Singing Robot Fox Animation
+### Hoạt hình chú cáo robot biết hát
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A creative video prompt for a robot fox that walks and sings a parody song, designed for Grok Imagine.
+> Một gợi ý video sáng tạo về chú cáo robot vừa đi vừa hát một bài hát chế, được thiết kế cho Grok Imagine.
 
 #### 📝 Prompt
 
 ```
-Imagine a robot fox that turns and walks towards the camera while he sings, "What does the GROK say! Ding ding ding da ding da dah ding. What does the Grok say!"
+Hãy tưởng tượng một chú cáo robot quay người và bước về phía máy quay trong khi hát: "Grok nói gì nào! Ding ding ding da ding da dah ding. Grok nói gì nào!"
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1d48f923c57a6e49c0f179ea9bf67268/thumbnails/thumbnail.jpg" width="600" alt="Singing Robot Fox Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1d48f923c57a6e49c0f179ea9bf67268/thumbnails/thumbnail.jpg" width="600" alt="Hoạt hình chú cáo robot biết hát">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5090)**
 
 **Author:** [Joe Pelayo](https://x.com/JoeHeadhunter) | **Source:** [Link](https://x.com/JoeHeadhunter/status/2057238505412026463) | **Published:** May 20, 2026
 
 ---
-### Lego Character Self-Animation
+### Tự tạo hoạt ảnh cho nhân vật Lego
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An instruction for Grok Imagine to create a Lego character version of a user and animate both into a video using image references.
+> Hướng dẫn dành cho Grok Imagine để tạo phiên bản nhân vật Lego của người dùng và tạo hoạt ảnh cho cả hai thành video bằng cách sử dụng hình ảnh tham chiếu.
 
 #### 📝 Prompt
 
 ```
-Animate image of yourself and Lego Character into a Video using both for reference.
+Tạo hoạt ảnh cho hình ảnh của bạn và nhân vật Lego thành một video bằng cách sử dụng cả hai làm hình ảnh tham chiếu.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9937910b41d6ebfddb6d0094836be8b5/thumbnails/thumbnail.jpg" width="600" alt="Lego Character Self-Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9937910b41d6ebfddb6d0094836be8b5/thumbnails/thumbnail.jpg" width="600" alt="Tự tạo hoạt ảnh cho nhân vật Lego">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5088)**
 
 **Author:** [Ralph](https://x.com/RalphTheMaker) | **Source:** [Link](https://x.com/RalphTheMaker/status/2057229234083377586) | **Published:** May 20, 2026
 
 ---
-### Dandelion Field Romantic Meeting
+### Cuộc gặp gỡ lãng mạn trên cánh đồng bồ công anh
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A romantic cinematic pan over moving dandelions in the wind as a man runs toward a woman.
+> Một thước phim điện ảnh lãng mạn quay cảnh những bông bồ công anh đung đưa trong gió khi một người đàn ông chạy về phía một người phụ nữ.
 
 #### 📝 Prompt
 
 ```
-the camera pans into a detail of the dandelions softly moving in the wind as the man runs away, not in focus and then a beautiful woman shows up to love him
+máy quay lia vào chi tiết những bông bồ công anh đang chuyển động nhẹ nhàng trong gió khi người đàn ông chạy đi, không lấy nét, sau đó một người phụ nữ xinh đẹp xuất hiện để trao tình yêu cho anh ấy
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1931e50d69fa975fbad1aa91149dcd9f/thumbnails/thumbnail.jpg" width="600" alt="Dandelion Field Romantic Meeting">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1931e50d69fa975fbad1aa91149dcd9f/thumbnails/thumbnail.jpg" width="600" alt="Cuộc gặp gỡ lãng mạn trên cánh đồng bồ công anh">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5087)**
 
 **Author:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **Source:** [Link](https://x.com/CindyWeigapn6/status/2057210352849265070) | **Published:** May 20, 2026
 
 ---
-### Leisurely Anime Girl Interaction
+### Tương tác cùng cô gái anime thư thái
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed cinematic prompt for a video featuring a character named Ani performing sweet and needy gestures like peeking, tapping, and blowing a kiss.
+> Một câu lệnh điện ảnh chi tiết cho video có nhân vật tên Ani thực hiện các cử chỉ ngọt ngào và nũng nịu như nhìn trộm, chạm tay và hôn gió.
 
 #### 📝 Prompt
 
 ```
-Create a smooth leisurely video. Ani affectionately peeks and leans forward. She does a gentle hand tap, then adds a sweet gesture of placing her hand on her cheek while looking needy and pampered. At the end she blows a soft kiss toward the viewer.
+Tạo một video thư thái, mượt mà. Ani nhìn trộm một cách đầy trìu mến rồi rướn người về phía trước. Cô ấy chạm tay nhẹ nhàng, sau đó thực hiện cử chỉ ngọt ngào là đặt tay lên má với vẻ ngoài nũng nịu và được cưng chiều. Cuối cùng, cô ấy gửi một nụ hôn gió nhẹ nhàng về phía người xem.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6d7199c81f1713ae6bab6e318baccc38/thumbnails/thumbnail.jpg" width="600" alt="Leisurely Anime Girl Interaction">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6d7199c81f1713ae6bab6e318baccc38/thumbnails/thumbnail.jpg" width="600" alt="Tương tác cùng cô gái anime thư thái">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5081)**
 
 **Author:** [Aniの日常](https://x.com/tarohinomo78040) | **Source:** [Link](https://x.com/tarohinomo78040/status/2057137600314655013) | **Published:** May 20, 2026
 
 ---
-### Giant Mechanical Crab Monster Battle
+### Trận chiến của quái vật cua máy khổng lồ
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A dynamic video generation prompt where a toy transforms into a giant mechanical crab to fight three different monsters in a lunar setting.
+> Một câu lệnh tạo video động, trong đó một món đồ chơi biến hình thành một con cua máy khổng lồ để chiến đấu với ba loại quái vật khác nhau trên bề mặt mặt trăng.
 
 #### 📝 Prompt
 
 ```
-Turn this doll into a giant mechanical crab. Then it defeats three monsters in a vast moon-like setting. The first monster is an evil tiger. The second monster is a spooky-looking python. The third monster is a gross-looking loach. It eliminates them using a giant machine gun.
+Hãy biến con búp bê này thành một con cua máy khổng lồ. Sau đó, nó đánh bại ba con quái vật trong một khung cảnh rộng lớn giống như mặt trăng. Con quái vật đầu tiên là một con hổ hung ác. Con quái vật thứ hai là một con trăn trông đáng sợ. Con quái vật thứ ba là một con cá chạch trông gớm ghiếc. Nó tiêu diệt chúng bằng một khẩu súng máy khổng lồ.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bb95d24324226cd7f352cb57f20bc210/thumbnails/thumbnail.jpg" width="600" alt="Giant Mechanical Crab Monster Battle">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bb95d24324226cd7f352cb57f20bc210/thumbnails/thumbnail.jpg" width="600" alt="Trận chiến của quái vật cua máy khổng lồ">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5089)**
 
 **Author:** [JeffLiuRoast](https://x.com/liu17251086) | **Source:** [Link](https://x.com/liu17251086/status/2057125036268679229) | **Published:** May 20, 2026
 
 ---
-### Pastel Flower Oil Painting
+### Tranh sơn dầu hoa màu pastel
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A video generation prompt for an artistic, textured oil painting style featuring pastel flowers and water droplets.
+> Một câu lệnh tạo video cho phong cách tranh sơn dầu nghệ thuật, có kết cấu với các bông hoa màu pastel và những giọt nước.
 
 #### 📝 Prompt
 
 ```
-A delicate and subtle artistic painting of a soft pastel flower with gentle water droplets resting on the petals, in the spirit of a textured oil painting with visible brushstrokes. The flower is in muted blush pink, soft lavender, and creamy white tones.
+Một bức tranh nghệ thuật tinh tế và nhẹ nhàng về bông hoa màu pastel mềm mại với những giọt nước dịu dàng đọng trên cánh hoa, mang tinh thần của một bức tranh sơn dầu có kết cấu với các nét cọ rõ rệt. Bông hoa có các tông màu hồng phấn dịu, tím oải hương nhạt và trắng kem.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/035c53d59abc2db1a17eeb89da4eed6f/thumbnails/thumbnail.jpg" width="600" alt="Pastel Flower Oil Painting">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/035c53d59abc2db1a17eeb89da4eed6f/thumbnails/thumbnail.jpg" width="600" alt="Tranh sơn dầu hoa màu pastel">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5079)**
 
 **Author:** [Carina](https://x.com/Freehere3) | **Source:** [Link](https://x.com/Freehere3/status/2057096040642465953) | **Published:** May 20, 2026
 
 ---
-### Tattooed Woman Kitchen Romance
+### Chuyện tình lãng mạn trong bếp cùng cô nàng xăm mình
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A fun video prompt featuring a tattooed woman and a man in a kitchen with floating romantic hearts.
+> Một video prompt thú vị với hình ảnh một người phụ nữ xăm mình và một người đàn ông trong căn bếp cùng những trái tim lãng mạn bay bổng.
 
 #### 📝 Prompt
 
 ```
-A woman with tattoos in a green top and a man in a kitchen with money, surrounded by floating hearts in a fun loving vibe.
+Một người phụ nữ xăm mình mặc áo xanh cùng một người đàn ông trong căn bếp với tiền mặt, xung quanh là những trái tim bay bổng tạo nên bầu không khí đầy yêu thương và vui vẻ.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4bfed87a5bec1711f7798c8d56fb0671/thumbnails/thumbnail.jpg" width="600" alt="Tattooed Woman Kitchen Romance">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4bfed87a5bec1711f7798c8d56fb0671/thumbnails/thumbnail.jpg" width="600" alt="Chuyện tình lãng mạn trong bếp cùng cô nàng xăm mình">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5078)**
 
 **Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2057094935711461648) | **Published:** May 20, 2026
 
 ---
-### Cyberpunk Armor Transformation
+### Biến hình Giáp Cyberpunk
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A professional-grade cinematic prompt for a 6-second video showing a complex armor transformation in a rainy cyberpunk city.
+> Một câu lệnh (prompt) điện ảnh chuyên nghiệp cho video dài 6 giây mô tả quá trình biến hình giáp phức tạp trong thành phố cyberpunk dưới mưa.
 
 #### 📝 Prompt
 
 ```
-Cinematic 8K hyper-realistic live-action video, 6 seconds, photorealistic, shot on ARRI Alexa 65 with anamorphic lenses, subtle film grain, cinematic color grading.
+Video live-action chân thực 8K chuẩn điện ảnh, 6 giây, siêu thực, quay bằng máy ARRI Alexa 65 với ống kính anamorphic, hạt phim tinh tế, chỉnh màu điện ảnh.
 
-Subject: The exact same breathtakingly beautiful young woman from the reference image — delicate facial features, striking blue eyes, flawless skin with soft cyber-glow highlights, voluminous flowing blue-silver hair with sparkling particles. She is wearing an ultra-advanced, next-level Transformer-style cyberpunk armor-dress: a form-fitting, translucent high-tech latex and crystalline hybrid suit that seamlessly blends her original glowing crystal aesthetic with sleek matte-black and chrome cybernetic plating, glowing neon-blue circuitry, pulsing magenta energy veins, and shifting mechanical segments. Intricate holographic crystals and floating data shards orbit her body. The suit has subtle mechanical transformation details — plates that click, unfold, and reconfigure with blue plasma arcs.
+Chủ thể: Chính xác là người phụ nữ trẻ đẹp đến nghẹt thở từ hình ảnh tham chiếu — đường nét khuôn mặt thanh tú, đôi mắt xanh ấn tượng, làn da không tì vết với những điểm nhấn phát sáng cyber nhẹ nhàng, mái tóc dài bồng bềnh màu xanh bạc với các hạt lấp lánh. Cô ấy đang mặc một bộ giáp-váy cyberpunk kiểu Transformer cấp độ cao, tối tân: một bộ đồ hybrid ôm sát cơ thể làm từ latex công nghệ cao trong suốt và tinh thể, kết hợp hoàn hảo giữa thẩm mỹ tinh thể phát sáng ban đầu của cô với các lớp mạ cybernetic màu đen nhám và chrome bóng bẩy, mạch điện neon xanh dương phát sáng, các đường năng lượng màu đỏ tươi đang đập và các phân đoạn cơ khí đang dịch chuyển. Các tinh thể holographic phức tạp và những mảnh dữ liệu trôi nổi bao quanh cơ thể cô. Bộ giáp có các chi tiết biến hình cơ khí tinh tế — các tấm giáp khớp nối, mở ra và tái cấu trúc với các tia plasma màu xanh dương.
 
-Scene: Dark, rainy cyberpunk megacity at night. Towering neon skyscrapers, flying vehicles, massive holographic billboards, wet reflective streets. Heavy volumetric rain, atmospheric fog, god rays cutting through the mist, vibrant cyan, magenta, and electric blue lighting.
+Bối cảnh: Siêu đô thị cyberpunk tối tăm, đầy mưa vào ban đêm. Những tòa nhà chọc trời neon cao chót vót, phương tiện bay, bảng quảng cáo holographic khổng lồ, đường phố ướt át phản chiếu ánh sáng. Mưa nặng hạt, sương mù dày đặc, những tia sáng xuyên qua màn sương, ánh sáng màu xanh cyan, đỏ tươi và xanh điện rực rỡ.
 
-Camera movement & action (6 seconds):
-- 0-2s: Dramatic low-angle orbiting close-up as she stands powerfully, hair dramatically flowing in the wind. Her cyber-armor begins transforming — crystalline plates smoothly shift into mechanical Transformer segments with glowing energy.
-- 2-4s: She slowly raises her hands; holographic blue energy interfaces and translucent energy wings briefly manifest from her back. Rain droplets sizzle and evaporate on her glowing suit.
-- 4-6s: Epic slow pull-back shot revealing her full powerful silhouette levitating slightly above the wet street, dramatic lens flares, hair and armor elements moving with cinematic motion blur.
+Chuyển động camera & hành động (6 giây):
+- 0-2s: Cận cảnh góc thấp đầy kịch tính khi cô đứng đầy quyền năng, mái tóc bay mạnh mẽ trong gió. Bộ giáp cyber của cô bắt đầu biến hình — các tấm tinh thể dịch chuyển mượt mà thành các phân đoạn cơ khí kiểu Transformer với năng lượng phát sáng.
+- 2-4s: Cô từ từ giơ tay lên; các giao diện năng lượng holographic màu xanh dương và đôi cánh năng lượng trong suốt thoáng hiện ra từ sau lưng. Những giọt mưa xèo xèo và bốc hơi trên bộ giáp đang phát sáng của cô.
+- 4-6s: Cú quay lùi chậm đầy hoành tráng để lộ toàn bộ bóng dáng quyền năng của cô đang lơ lửng nhẹ trên con phố ướt, hiệu ứng lóe sáng (lens flare) ấn tượng, tóc và các chi tiết giáp di chuyển với độ nhòe chuyển động điện ảnh.
 
-Ultra-photorealistic details, perfect anatomy, realistic fabric and metal physics, reflective wet surfaces, intricate particle effects, depth of field, moody cinematic lighting. Masterpiece visual effects, next-level Transformers-inspired transformation sequence, dark cyberpunk atmosphere, highly detailed, emotional and powerful mood.
+Chi tiết siêu thực, giải phẫu hoàn hảo, vật lý vải và kim loại chân thực, bề mặt ướt phản chiếu, hiệu ứng hạt phức tạp, độ sâu trường ảnh, ánh sáng điện ảnh đầy tâm trạng. Hiệu ứng hình ảnh kiệt tác, chuỗi biến hình lấy cảm hứng từ Transformers đẳng cấp, bầu không khí cyberpunk tối tăm, chi tiết cao, tâm trạng mạnh mẽ và đầy cảm xúc.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5b9e627bc8e55dbddca444f262920337/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Armor Transformation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5b9e627bc8e55dbddca444f262920337/thumbnails/thumbnail.jpg" width="600" alt="Biến hình Giáp Cyberpunk">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5084)**
 
 **Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2057088402445459694) | **Published:** May 20, 2026
 
 ---
-### Cybernetic Warrior Bow
+### Cung Thủ Chiến Binh Điều Khiển Học
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A stylized prompt using complex symbols to describe a purple-diamond armored character with a laser bow.
+> Một câu lệnh được cách điệu sử dụng các ký hiệu phức tạp để mô tả một nhân vật mặc giáp kim cương tím với cây cung laser.
 
 #### 📝 Prompt
 
 ```
-< black fluffy golden hair >purple vein >
-¥ { armor purple reflective diamonds }
-( bow laser cut beridium allow bolts glowing )
-^{ * { eyes are beautiful green blue } ( stare )
+< tóc vàng bồng bềnh đen > tĩnh mạch tím >
+¥ { giáp kim cương phản quang màu tím }
+( cung laser cắt bằng hợp kim beridium các tia sáng )
+^{ * { đôi mắt xanh lục lam tuyệt đẹp } ( nhìn chằm chằm )
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/52e559488c2320f468643178ad268316/thumbnails/thumbnail.jpg" width="600" alt="Cybernetic Warrior Bow">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/52e559488c2320f468643178ad268316/thumbnails/thumbnail.jpg" width="600" alt="Cung Thủ Chiến Binh Điều Khiển Học">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5085)**
 
@@ -532,57 +532,57 @@ Hãy ngắm nhìn nàng tiên cá này, tỏa sáng đầy kiêu hãnh. Những 
 **Author:** [BizPunk72](https://x.com/bixxs) | **Source:** [Link](https://x.com/bixxs/status/2056948566933782740) | **Published:** May 20, 2026
 
 ---
-### Starlink Satellites Laser Rays
+### Tia laser từ vệ tinh Starlink
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A conceptual prompt depicting Starlink satellites firing laser beams onto a wall, integrated with a character's dialogue.
+> Một gợi ý mang tính khái niệm mô tả các vệ tinh Starlink đang bắn tia laser lên tường, kết hợp với lời thoại của nhân vật.
 
 #### 📝 Prompt
 
 ```
-@image1 on the wall the Starlink satellites firing laser beams. She says How are these headlines allowed?... @imagine @grok The missing ingredient of annoyance. 🔥🫶☕️💫
+@image1 trên tường là các vệ tinh Starlink đang bắn tia laser. Cô ấy nói Làm sao những tiêu đề này được phép tồn tại?... @imagine @grok Thành phần còn thiếu của sự khó chịu. 🔥🫶☕️💫
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f383250202d5781d1c9a9787a907ac16/thumbnails/thumbnail.jpg" width="600" alt="Starlink Satellites Laser Rays">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f383250202d5781d1c9a9787a907ac16/thumbnails/thumbnail.jpg" width="600" alt="Tia laser từ vệ tinh Starlink">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5080)**
 
 **Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2056937301347901503) | **Published:** May 20, 2026
 
 ---
-### Flying Pterodactyl Animation
+### Hoạt ảnh thằn lằn bay
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An instruction to take a pterodactyl-like object and animate it flying off into the distance.
+> Hướng dẫn lấy một vật thể giống thằn lằn bay và tạo hoạt ảnh cho nó bay xa dần vào khoảng không.
 
 #### 📝 Prompt
 
 ```
-Grok see the bird teradactial looking object can you make it get up and fly off into the distance
+Grok, hãy nhìn vật thể trông giống thằn lằn bay này, bạn có thể làm cho nó bay lên và bay xa dần vào khoảng không được không
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e074c6f0245c38b8830e95923e9a8d9f/thumbnails/thumbnail.jpg" width="600" alt="Flying Pterodactyl Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e074c6f0245c38b8830e95923e9a8d9f/thumbnails/thumbnail.jpg" width="600" alt="Hoạt ảnh thằn lằn bay">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5086)**
 
 **Author:** [(PRESS)Scotty Fife (aka) NevNukeMonster](https://x.com/fife_scotty680) | **Source:** [Link](https://x.com/fife_scotty680/status/2056905441091977384) | **Published:** May 20, 2026
 
 ---
-### Gothic Mansion Back Tattoo
+### Hình xăm biệt thự Gothic trên lưng
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic and dark aesthetic prompt describing a woman with a highly detailed gothic mansion tattoo on her back in a 90s setting.
+> Một câu lệnh (prompt) mô tả thẩm mỹ điện ảnh và u tối về một người phụ nữ với hình xăm biệt thự Gothic cực kỳ chi tiết trên lưng trong bối cảnh thập niên 90.
 
 #### 📝 Prompt
 
 ```
-Female sitting crossed legged on the floor with her back facing the camera with her head subtly turned back to view the camera, her whole back is exposed to show off her full back tattoo piece, she is wearing baggy jeans with a studded black belt. She has long black hair pulled up in a clip, wispy bangs, dark brown eyes, thin eyebrows, full lips, light skin with natural texture and pores to her skin, she has black small gauges. Her back tattoo is a large gothic Victorian era style mansion with ornate detailing with a dragon flying with filler type tattooing around the main piece, black, grey, and white ink, highly detailed scene of the tattoo. Dark minimalist 1990s room, low light, realistic rendering, shallow depth of field, low color saturation.
+Người phụ nữ ngồi khoanh chân trên sàn, quay lưng về phía máy ảnh và hơi nghiêng đầu nhìn lại, toàn bộ phần lưng để lộ ra để khoe trọn hình xăm kín lưng, cô mặc quần jeans thụng với thắt lưng đen đính đinh tán. Cô có mái tóc đen dài được búi cao bằng kẹp, tóc mái thưa, đôi mắt nâu sẫm, lông mày mảnh, đôi môi đầy đặn, làn da sáng với kết cấu và lỗ chân lông tự nhiên, cô đeo khuyên tai đen nhỏ. Hình xăm trên lưng cô là một biệt thự lớn theo phong cách Gothic thời Victoria với các chi tiết trang trí công phu, cùng hình ảnh rồng bay và các họa tiết xăm bổ trợ xung quanh tác phẩm chính, sử dụng mực đen, xám và trắng, cảnh tượng hình xăm vô cùng chi tiết. Căn phòng tối giản phong cách thập niên 1990, ánh sáng yếu, kết xuất chân thực, độ sâu trường ảnh nông, độ bão hòa màu thấp.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a80c3ac9ad0bfdbfb89b5afbb43bd268/thumbnails/thumbnail.jpg" width="600" alt="Gothic Mansion Back Tattoo">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a80c3ac9ad0bfdbfb89b5afbb43bd268/thumbnails/thumbnail.jpg" width="600" alt="Hình xăm biệt thự Gothic trên lưng">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5083)**
 
@@ -2237,6 +2237,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-22T11:04:13.651Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-22T14:58:49.211Z</sub>
 
 </div>

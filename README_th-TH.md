@@ -303,210 +303,210 @@ Why use our gallery?
 **Author:** [Michael Bradley](https://x.com/MikeBradleySr2) | **Source:** [Link](https://x.com/MikeBradleySr2/status/2057385133187981793) | **Published:** May 21, 2026
 
 ---
-### Golden Dragon Tactical Mech
+### หุ่นยนต์รบยุทธวิธีมังกรทอง
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An extremely detailed sci-fi wuxia prompt featuring a woman in intricate dragon-themed tactical armor on an ancient battlefield.
+> พรอมต์แนวไซไฟกำลังภายในที่เน้นรายละเอียดสูง นำเสนอภาพหญิงสาวในชุดเกราะยุทธวิธีธีมมังกรอันวิจิตรบนสมรภูมิรบโบราณ
 
 #### 📝 Prompt
 
 ```
-A stunning East Asian woman with sharp beautiful features, long dark brown hair in a high sleek ponytail with flowing strands, wearing an ultra-detailed futuristic black tactical mech armor suit heavily decorated with ornate glowing golden Chinese dragons. The armor has intricate golden dragon scales, large golden dragon heads on both shoulders with glowing eyes, glowing golden dragon on the chest and a massive coiled golden dragon on the back. The suit features glowing blue energy lines and circuits, bright yellow-orange illuminated armor segments, black tactical respirator mask covering her lower face.
+หญิงสาวชาวเอเชียตะวันออกผู้สวยสง่า มีใบหน้าคมสวย ผมยาวสีน้ำตาลเข้มรวบเป็นหางม้าสูงเรียบตึงพร้อมปอยผมที่พลิ้วไหว สวมชุดเกราะหุ่นยนต์ยุทธวิธีสีดำแห่งอนาคตที่มีรายละเอียดสูงเป็นพิเศษ ตกแต่งอย่างประณีตด้วยลวดลายมังกรจีนสีทองเรืองแสง ชุดเกราะมีเกล็ดมังกรสีทองที่ซับซ้อน หัวมังกรสีทองขนาดใหญ่บนไหล่ทั้งสองข้างพร้อมดวงตาที่เรืองแสง มังกรสีทองเรืองแสงที่หน้าอก และมังกรสีทองขนาดมหึมาขดตัวอยู่ด้านหลัง ชุดนี้มีเส้นพลังงานและวงจรสีฟ้าเรืองแสง ส่วนประกอบของเกราะส่องสว่างด้วยสีเหลืองส้ม และหน้ากากช่วยหายใจยุทธวิธีสีดำปกปิดใบหน้าส่วนล่าง
 
-Scene opens with her standing powerfully in the center of a vast ancient battlefield, facing camera, surrounded by a swirling bright blue circular energy ring. She slowly turns 180 degrees to show her back, ponytail swaying dramatically. Camera circles around her smoothly, alternating between front three-quarter and back views with dynamic low-angle heroic shots.
+ฉากเปิดตัวด้วยการที่เธอยืนอย่างทรงพลังอยู่กลางสมรภูมิรบโบราณอันกว้างใหญ่ หันหน้าเข้าหากล้อง ล้อมรอบด้วยวงแหวนพลังงานสีฟ้าสดใสที่หมุนวน เธอค่อยๆ หันตัว 180 องศาเพื่อโชว์ด้านหลัง หางม้าพลิ้วไหวอย่างมีชั้นเชิง กล้องเคลื่อนที่รอบตัวเธออย่างนุ่มนวล สลับระหว่างมุมมองสามส่วนด้านหน้าและด้านหลังพร้อมช็อตมุมต่ำที่ดูฮีโร่และทรงพลัง
 
-Environment: Massive army of ancient Chinese warriors in the blurred background, dusty battlefield ground, overcast dramatic sky. Intense cinematic lighting with glowing blue floating energy particles, golden sparks, and vertical glowing light streaks raining down around her. Armor emits strong blue and golden light accents that pulse and glow.
+สภาพแวดล้อม: กองทัพนักรบจีนโบราณขนาดมหึมาในพื้นหลังที่เบลอ พื้นสนามรบที่เต็มไปด้วยฝุ่น ท้องฟ้ามืดครึ้มดูน่าเกรงขาม แสงแบบภาพยนตร์ที่เข้มข้นพร้อมอนุภาคพลังงานสีฟ้าลอยฟุ้ง ประกายไฟสีทอง และลำแสงแนวตั้งที่ส่องลงมารอบตัวเธอ ชุดเกราะเปล่งแสงสีฟ้าและสีทองที่เต้นเป็นจังหวะและเรืองแสง
 
-Style: Hyper-realistic cinematic 8K, ultra-detailed textures, dramatic volumetric lighting, epic sci-fi wuxia fusion, flawless anatomy, intricate armor details, dynamic motion, high production value, shot on IMAX --ar 9:16 --stylize 250 --v 6
+สไตล์: ไฮเปอร์เรียลลิสติกแบบภาพยนตร์ 8K, พื้นผิวรายละเอียดสูงพิเศษ, แสงวอลูเมตริกที่น่าทึ่ง, การผสมผสานระหว่างไซไฟและกำลังภายในที่ยิ่งใหญ่, กายวิภาคที่ไร้ที่ติ, รายละเอียดเกราะที่ซับซ้อน, การเคลื่อนไหวแบบไดนามิก, คุณภาพการผลิตระดับสูง, ถ่ายทำด้วย IMAX --ar 9:16 --stylize 250 --v 6
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f856f622a9e6991527bd9c183a4f90eb/thumbnails/thumbnail.jpg" width="600" alt="Golden Dragon Tactical Mech">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f856f622a9e6991527bd9c183a4f90eb/thumbnails/thumbnail.jpg" width="600" alt="หุ่นยนต์รบยุทธวิธีมังกรทอง">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5082)**
 
 **Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2057249122181325014) | **Published:** May 20, 2026
 
 ---
-### Singing Robot Fox Animation
+### แอนิเมชันหุ่นยนต์สุนัขจิ้งจี้งร้องเพลง
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A creative video prompt for a robot fox that walks and sings a parody song, designed for Grok Imagine.
+> พรอมต์วิดีโอสร้างสรรค์สำหรับหุ่นยนต์สุนัขจิ้งจอกที่เดินและร้องเพลงล้อเลียน ออกแบบมาเพื่อใช้งานกับ Grok Imagine
 
 #### 📝 Prompt
 
 ```
-Imagine a robot fox that turns and walks towards the camera while he sings, "What does the GROK say! Ding ding ding da ding da dah ding. What does the Grok say!"
+จินตนาการถึงหุ่นยนต์สุนัขจิ้งจอกที่หันมาและเดินตรงมาที่กล้องพร้อมกับร้องเพลงว่า "What does the GROK say! Ding ding ding da ding da dah ding. What does the Grok say!"
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1d48f923c57a6e49c0f179ea9bf67268/thumbnails/thumbnail.jpg" width="600" alt="Singing Robot Fox Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1d48f923c57a6e49c0f179ea9bf67268/thumbnails/thumbnail.jpg" width="600" alt="แอนิเมชันหุ่นยนต์สุนัขจิ้งจี้งร้องเพลง">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5090)**
 
 **Author:** [Joe Pelayo](https://x.com/JoeHeadhunter) | **Source:** [Link](https://x.com/JoeHeadhunter/status/2057238505412026463) | **Published:** May 20, 2026
 
 ---
-### Lego Character Self-Animation
+### สร้างแอนิเมชันตัวละคร Lego จากภาพถ่ายของคุณ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An instruction for Grok Imagine to create a Lego character version of a user and animate both into a video using image references.
+> คำสั่งสำหรับ Grok Imagine เพื่อสร้างตัวละคร Lego ในรูปแบบของคุณ และนำภาพทั้งสองมาทำเป็นวิดีโอแอนิเมชันโดยใช้ภาพอ้างอิง
 
 #### 📝 Prompt
 
 ```
-Animate image of yourself and Lego Character into a Video using both for reference.
+สร้างวิดีโอแอนิเมชันจากภาพถ่ายของคุณและตัวละคร Lego โดยใช้ทั้งสองภาพเป็นข้อมูลอ้างอิง
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9937910b41d6ebfddb6d0094836be8b5/thumbnails/thumbnail.jpg" width="600" alt="Lego Character Self-Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9937910b41d6ebfddb6d0094836be8b5/thumbnails/thumbnail.jpg" width="600" alt="สร้างแอนิเมชันตัวละคร Lego จากภาพถ่ายของคุณ">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5088)**
 
 **Author:** [Ralph](https://x.com/RalphTheMaker) | **Source:** [Link](https://x.com/RalphTheMaker/status/2057229234083377586) | **Published:** May 20, 2026
 
 ---
-### Dandelion Field Romantic Meeting
+### นัดพบสุดโรแมนติกกลางทุ่งดอกแดนดิไลออน
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A romantic cinematic pan over moving dandelions in the wind as a man runs toward a woman.
+> ภาพยนตร์แนวโรแมนติกที่แพนกล้องผ่านทุ่งดอกแดนดิไลออนที่พริ้วไหวตามสายลม ขณะที่ชายคนหนึ่งกำลังวิ่งไปหาหญิงสาว
 
 #### 📝 Prompt
 
 ```
-the camera pans into a detail of the dandelions softly moving in the wind as the man runs away, not in focus and then a beautiful woman shows up to love him
+กล้องแพนเข้าไปที่รายละเอียดของดอกแดนดิไลออนที่กำลังพริ้วไหวอย่างนุ่มนวลตามสายลม ในขณะที่ชายคนหนึ่งวิ่งออกไปโดยที่ภาพไม่ได้โฟกัสที่ตัวเขา จากนั้นหญิงสาวแสนสวยก็ปรากฏตัวขึ้นเพื่อมอบความรักให้กับเขา
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1931e50d69fa975fbad1aa91149dcd9f/thumbnails/thumbnail.jpg" width="600" alt="Dandelion Field Romantic Meeting">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1931e50d69fa975fbad1aa91149dcd9f/thumbnails/thumbnail.jpg" width="600" alt="นัดพบสุดโรแมนติกกลางทุ่งดอกแดนดิไลออน">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5087)**
 
 **Author:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **Source:** [Link](https://x.com/CindyWeigapn6/status/2057210352849265070) | **Published:** May 20, 2026
 
 ---
-### Leisurely Anime Girl Interaction
+### ปฏิสัมพันธ์แสนสบายของสาวน้อยอนิเมะ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed cinematic prompt for a video featuring a character named Ani performing sweet and needy gestures like peeking, tapping, and blowing a kiss.
+> พรอมต์ภาพยนตร์แบบละเอียดสำหรับวิดีโอที่มีตัวละครชื่อ Ani กำลังแสดงท่าทางน่ารักและออดอ้อน เช่น การแอบมอง การแตะเบาๆ และการส่งจูบ
 
 #### 📝 Prompt
 
 ```
-Create a smooth leisurely video. Ani affectionately peeks and leans forward. She does a gentle hand tap, then adds a sweet gesture of placing her hand on her cheek while looking needy and pampered. At the end she blows a soft kiss toward the viewer.
+สร้างวิดีโอที่ดูนุ่มนวลและผ่อนคลาย Ani แอบมองและโน้มตัวไปข้างหน้าอย่างน่าเอ็นดู เธอใช้มือแตะเบาๆ จากนั้นทำท่าทางน่ารักด้วยการวางมือบนแก้มพร้อมทำหน้าตาออดอ้อนและต้องการการเอาใจ ในตอนท้ายเธอส่งจูบเบาๆ ให้กับผู้ชม
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6d7199c81f1713ae6bab6e318baccc38/thumbnails/thumbnail.jpg" width="600" alt="Leisurely Anime Girl Interaction">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6d7199c81f1713ae6bab6e318baccc38/thumbnails/thumbnail.jpg" width="600" alt="ปฏิสัมพันธ์แสนสบายของสาวน้อยอนิเมะ">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5081)**
 
 **Author:** [Aniの日常](https://x.com/tarohinomo78040) | **Source:** [Link](https://x.com/tarohinomo78040/status/2057137600314655013) | **Published:** May 20, 2026
 
 ---
-### Giant Mechanical Crab Monster Battle
+### ศึกสัตว์ประหลาดปูจักรกลยักษ์
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A dynamic video generation prompt where a toy transforms into a giant mechanical crab to fight three different monsters in a lunar setting.
+> พรอมต์สำหรับการสร้างวิดีโอแบบไดนามิกที่ของเล่นชิ้นหนึ่งแปลงร่างเป็นปูจักรกลยักษ์เพื่อต่อสู้กับสัตว์ประหลาด 3 ชนิดบนพื้นผิวดวงจันทร์
 
 #### 📝 Prompt
 
 ```
-Turn this doll into a giant mechanical crab. Then it defeats three monsters in a vast moon-like setting. The first monster is an evil tiger. The second monster is a spooky-looking python. The third monster is a gross-looking loach. It eliminates them using a giant machine gun.
+เปลี่ยนตุ๊กตาตัวนี้ให้กลายเป็นปูจักรกลยักษ์ จากนั้นให้มันเอาชนะสัตว์ประหลาด 3 ตัวในฉากที่กว้างใหญ่ราวกับอยู่บนดวงจันทร์ สัตว์ประหลาดตัวแรกคือเสือร้าย ตัวที่สองคืองูหลามที่ดูน่าขนลุก และตัวที่สามคือปลาไหลที่ดูน่ารังเกียจ มันกำจัดพวกมันด้วยปืนกลยักษ์
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bb95d24324226cd7f352cb57f20bc210/thumbnails/thumbnail.jpg" width="600" alt="Giant Mechanical Crab Monster Battle">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bb95d24324226cd7f352cb57f20bc210/thumbnails/thumbnail.jpg" width="600" alt="ศึกสัตว์ประหลาดปูจักรกลยักษ์">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5089)**
 
 **Author:** [JeffLiuRoast](https://x.com/liu17251086) | **Source:** [Link](https://x.com/liu17251086/status/2057125036268679229) | **Published:** May 20, 2026
 
 ---
-### Pastel Flower Oil Painting
+### ภาพวาดสีน้ำมันดอกไม้โทนพาสเทล
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A video generation prompt for an artistic, textured oil painting style featuring pastel flowers and water droplets.
+> พรอมต์สำหรับสร้างวิดีโอในสไตล์ภาพวาดสีน้ำมันที่มีพื้นผิวสวยงาม โดดเด่นด้วยดอกไม้โทนพาสเทลและหยดน้ำ
 
 #### 📝 Prompt
 
 ```
-A delicate and subtle artistic painting of a soft pastel flower with gentle water droplets resting on the petals, in the spirit of a textured oil painting with visible brushstrokes. The flower is in muted blush pink, soft lavender, and creamy white tones.
+ภาพวาดศิลปะที่ละเอียดอ่อนและนุ่มนวลของดอกไม้โทนพาสเทลหวาน พร้อมหยดน้ำที่เกาะอยู่บนกลีบดอกไม้ ในสไตล์ภาพวาดสีน้ำมันที่มีพื้นผิวและรอยฝีแปรงที่ชัดเจน ดอกไม้มาในโทนสีชมพูอ่อน สีลาเวนเดอร์นุ่มนวล และสีขาวครีม
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/035c53d59abc2db1a17eeb89da4eed6f/thumbnails/thumbnail.jpg" width="600" alt="Pastel Flower Oil Painting">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/035c53d59abc2db1a17eeb89da4eed6f/thumbnails/thumbnail.jpg" width="600" alt="ภาพวาดสีน้ำมันดอกไม้โทนพาสเทล">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5079)**
 
 **Author:** [Carina](https://x.com/Freehere3) | **Source:** [Link](https://x.com/Freehere3/status/2057096040642465953) | **Published:** May 20, 2026
 
 ---
-### Tattooed Woman Kitchen Romance
+### ความรักในครัวของสาวรอยสัก
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A fun video prompt featuring a tattooed woman and a man in a kitchen with floating romantic hearts.
+> วิดีโอพร้อมท์แสนสนุกที่มีหญิงสาวรอยสักและชายหนุ่มในห้องครัว พร้อมหัวใจลอยฟุ้งสุดโรแมนติก
 
 #### 📝 Prompt
 
 ```
-A woman with tattoos in a green top and a man in a kitchen with money, surrounded by floating hearts in a fun loving vibe.
+หญิงสาวรอยสักในเสื้อสีเขียวและชายหนุ่มในห้องครัวที่มีเงินรายล้อม พร้อมด้วยหัวใจที่ลอยฟุ้งในบรรยากาศแสนสนุกและอบอวลไปด้วยความรัก
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4bfed87a5bec1711f7798c8d56fb0671/thumbnails/thumbnail.jpg" width="600" alt="Tattooed Woman Kitchen Romance">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4bfed87a5bec1711f7798c8d56fb0671/thumbnails/thumbnail.jpg" width="600" alt="ความรักในครัวของสาวรอยสัก">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5078)**
 
 **Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2057094935711461648) | **Published:** May 20, 2026
 
 ---
-### Cyberpunk Armor Transformation
+### การแปลงร่างชุดเกราะไซเบอร์พังก์
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A professional-grade cinematic prompt for a 6-second video showing a complex armor transformation in a rainy cyberpunk city.
+> พรอมต์ระดับมืออาชีพสำหรับวิดีโอความยาว 6 วินาที ที่แสดงการแปลงร่างชุดเกราะอันซับซ้อนในเมืองไซเบอร์พังก์ท่ามกลางสายฝน
 
 #### 📝 Prompt
 
 ```
-Cinematic 8K hyper-realistic live-action video, 6 seconds, photorealistic, shot on ARRI Alexa 65 with anamorphic lenses, subtle film grain, cinematic color grading.
+วิดีโอไลฟ์แอ็กชันระดับ Cinematic 8K สมจริงเป็นพิเศษ ความยาว 6 วินาที ถ่ายทำด้วยกล้อง ARRI Alexa 65 พร้อมเลนส์ Anamorphic มีเกรนฟิล์มที่นุ่มนวล และการปรับสีแบบภาพยนตร์
 
-Subject: The exact same breathtakingly beautiful young woman from the reference image — delicate facial features, striking blue eyes, flawless skin with soft cyber-glow highlights, voluminous flowing blue-silver hair with sparkling particles. She is wearing an ultra-advanced, next-level Transformer-style cyberpunk armor-dress: a form-fitting, translucent high-tech latex and crystalline hybrid suit that seamlessly blends her original glowing crystal aesthetic with sleek matte-black and chrome cybernetic plating, glowing neon-blue circuitry, pulsing magenta energy veins, and shifting mechanical segments. Intricate holographic crystals and floating data shards orbit her body. The suit has subtle mechanical transformation details — plates that click, unfold, and reconfigure with blue plasma arcs.
+ตัวละคร: หญิงสาวผู้สวยงามน่าทึ่งคนเดิมจากภาพอ้างอิง — ใบหน้าละเอียดอ่อน ดวงตาสีฟ้าโดดเด่น ผิวพรรณไร้ที่ติพร้อมไฮไลต์แสงไซเบอร์อ่อนๆ ผมสีฟ้าเงินสลวยเป็นลอนพร้อมประกายระยิบระยับ เธอสวมชุดเกราะไซเบอร์พังก์สไตล์ Transformer ขั้นสูง: ชุดไฮบริดที่เข้ารูปทำจากลาเท็กซ์ไฮเทคโปร่งแสงและคริสตัล ซึ่งผสมผสานความงามของคริสตัลเรืองแสงเดิมเข้ากับแผ่นโลหะไซเบอร์เนติกสีดำด้านและโครเมียมได้อย่างลงตัว มีวงจรนีออนสีฟ้าเรืองแสง เส้นเลือดพลังงานสีม่วงแดง และชิ้นส่วนกลไกที่ขยับได้ มีคริสตัลโฮโลแกรมที่ซับซ้อนและเศษข้อมูลลอยวนรอบตัวเธอ ชุดมีรายละเอียดการแปลงร่างเชิงกลที่ละเอียดอ่อน เช่น แผ่นเกราะที่คลิก กางออก และปรับเปลี่ยนรูปร่างพร้อมประกายพลาสม่าสีฟ้า
 
-Scene: Dark, rainy cyberpunk megacity at night. Towering neon skyscrapers, flying vehicles, massive holographic billboards, wet reflective streets. Heavy volumetric rain, atmospheric fog, god rays cutting through the mist, vibrant cyan, magenta, and electric blue lighting.
+ฉาก: มหานครไซเบอร์พังก์ที่มืดมิดและเต็มไปด้วยสายฝนในยามค่ำคืน ตึกระฟ้าที่เต็มไปด้วยแสงนีออน ยานพาหนะบินได้ ป้ายโฆษณาโฮโลแกรมขนาดใหญ่ และถนนที่เปียกชื้นสะท้อนแสง ฝนตกหนัก หมอกหนา แสงเทพ (God rays) ที่ตัดผ่านหมอก พร้อมแสงสีฟ้าไซแอน สีม่วงแดง และสีน้ำเงินไฟฟ้าที่สดใส
 
-Camera movement & action (6 seconds):
-- 0-2s: Dramatic low-angle orbiting close-up as she stands powerfully, hair dramatically flowing in the wind. Her cyber-armor begins transforming — crystalline plates smoothly shift into mechanical Transformer segments with glowing energy.
-- 2-4s: She slowly raises her hands; holographic blue energy interfaces and translucent energy wings briefly manifest from her back. Rain droplets sizzle and evaporate on her glowing suit.
-- 4-6s: Epic slow pull-back shot revealing her full powerful silhouette levitating slightly above the wet street, dramatic lens flares, hair and armor elements moving with cinematic motion blur.
+การเคลื่อนไหวของกล้องและแอ็กชัน (6 วินาที):
+- 0-2 วินาที: ภาพโคลสอัพมุมต่ำแบบหมุนรอบตัวอย่างน่าตื่นตาขณะที่เธอยืนอย่างทรงพลัง ผมปลิวไสวไปตามลม ชุดเกราะไซเบอร์เริ่มแปลงร่าง แผ่นคริสตัลค่อยๆ เปลี่ยนเป็นชิ้นส่วนกลไกสไตล์ Transformer พร้อมพลังงานเรืองแสง
+- 2-4 วินาที: เธอค่อยๆ ยกมือขึ้น อินเทอร์เฟซพลังงานโฮโลแกรมสีฟ้าและปีกพลังงานโปร่งแสงปรากฏขึ้นจากด้านหลังของเธอ หยดฝนระเหยกลายเป็นไอเมื่อกระทบกับชุดที่เรืองแสง
+- 4-6 วินาที: ภาพดึงกล้องออกช้าๆ อย่างยิ่งใหญ่ เผยให้เห็นเงาร่างอันทรงพลังของเธอกำลังลอยอยู่เหนือถนนที่เปียกชื้นเล็กน้อย มีแสงแฟลร์จากเลนส์ที่ดูน่าทึ่ง ผมและชิ้นส่วนชุดเกราะเคลื่อนไหวพร้อมเอฟเฟกต์ Motion Blur แบบภาพยนตร์
 
-Ultra-photorealistic details, perfect anatomy, realistic fabric and metal physics, reflective wet surfaces, intricate particle effects, depth of field, moody cinematic lighting. Masterpiece visual effects, next-level Transformers-inspired transformation sequence, dark cyberpunk atmosphere, highly detailed, emotional and powerful mood.
+รายละเอียดสมจริงระดับสูงสุด กายวิภาคที่สมบูรณ์แบบ ฟิสิกส์ของผ้าและโลหะที่สมจริง พื้นผิวเปียกที่สะท้อนแสง เอฟเฟกต์อนุภาคที่ซับซ้อน ระยะชัดลึก และแสงในบรรยากาศแบบภาพยนตร์ เอฟเฟกต์ภาพระดับมาสเตอร์พีซ ลำดับการแปลงร่างที่ได้รับแรงบันดาลใจจาก Transformers บรรยากาศไซเบอร์พังก์ที่มืดมิด รายละเอียดสูง อารมณ์ที่ทรงพลังและลึกซึ้ง
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5b9e627bc8e55dbddca444f262920337/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Armor Transformation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5b9e627bc8e55dbddca444f262920337/thumbnails/thumbnail.jpg" width="600" alt="การแปลงร่างชุดเกราะไซเบอร์พังก์">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5084)**
 
 **Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2057088402445459694) | **Published:** May 20, 2026
 
 ---
-### Cybernetic Warrior Bow
+### นักรบไซเบอร์เนติกถือธนู
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A stylized prompt using complex symbols to describe a purple-diamond armored character with a laser bow.
+> พรอมต์ที่มีสไตล์โดยใช้สัญลักษณ์ซับซ้อนเพื่อบรรยายถึงตัวละครในชุดเกราะเพชรสีม่วงที่ถือธนูเลเซอร์
 
 #### 📝 Prompt
 
 ```
-< black fluffy golden hair >purple vein >
-¥ { armor purple reflective diamonds }
-( bow laser cut beridium allow bolts glowing )
-^{ * { eyes are beautiful green blue } ( stare )
+< ผมสีทองฟูสีดำ >เส้นเลือดสีม่วง >
+¥ { ชุดเกราะเพชรสะท้อนแสงสีม่วง }
+( ธนูเลเซอร์ตัดด้วยโบลต์อัลลอยเบอริเดียมที่เรืองแสง )
+^{ * { ดวงตาสีเขียวอมฟ้าที่งดงาม } ( จ้องมอง )
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/52e559488c2320f468643178ad268316/thumbnails/thumbnail.jpg" width="600" alt="Cybernetic Warrior Bow">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/52e559488c2320f468643178ad268316/thumbnails/thumbnail.jpg" width="600" alt="นักรบไซเบอร์เนติกถือธนู">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5085)**
 
@@ -532,57 +532,57 @@ Ultra-photorealistic details, perfect anatomy, realistic fabric and metal physic
 **Author:** [BizPunk72](https://x.com/bixxs) | **Source:** [Link](https://x.com/bixxs/status/2056948566933782740) | **Published:** May 20, 2026
 
 ---
-### Starlink Satellites Laser Rays
+### ลำแสงเลเซอร์จากดาวเทียม Starlink
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A conceptual prompt depicting Starlink satellites firing laser beams onto a wall, integrated with a character's dialogue.
+> พรอมต์เชิงแนวคิดที่แสดงภาพดาวเทียม Starlink ยิงลำแสงเลเซอร์ลงบนผนัง พร้อมบทสนทนาของตัวละคร
 
 #### 📝 Prompt
 
 ```
-@image1 on the wall the Starlink satellites firing laser beams. She says How are these headlines allowed?... @imagine @grok The missing ingredient of annoyance. 🔥🫶☕️💫
+@image1 บนผนังมีดาวเทียม Starlink กำลังยิงลำแสงเลเซอร์ เธอพูดว่า พาดหัวข่าวพวกนี้ได้รับอนุญาตให้เผยแพร่ได้อย่างไร?... @imagine @grok ส่วนผสมที่ขาดหายไปของความน่ารำคาญ 🔥🫶☕️💫
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f383250202d5781d1c9a9787a907ac16/thumbnails/thumbnail.jpg" width="600" alt="Starlink Satellites Laser Rays">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f383250202d5781d1c9a9787a907ac16/thumbnails/thumbnail.jpg" width="600" alt="ลำแสงเลเซอร์จากดาวเทียม Starlink">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5080)**
 
 **Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2056937301347901503) | **Published:** May 20, 2026
 
 ---
-### Flying Pterodactyl Animation
+### แอนิเมชันเทอโรแดกทิลบิน
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An instruction to take a pterodactyl-like object and animate it flying off into the distance.
+> คำสั่งสำหรับนำวัตถุที่มีลักษณะคล้ายเทอโรแดกทิลมาทำแอนิเมชันให้บินออกไปไกลๆ
 
 #### 📝 Prompt
 
 ```
-Grok see the bird teradactial looking object can you make it get up and fly off into the distance
+Grok ดูวัตถุที่ดูเหมือนนกเทอโรแดกทิลตัวนี้หน่อย คุณช่วยทำให้มันลุกขึ้นแล้วบินออกไปไกลๆ ได้ไหม
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e074c6f0245c38b8830e95923e9a8d9f/thumbnails/thumbnail.jpg" width="600" alt="Flying Pterodactyl Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e074c6f0245c38b8830e95923e9a8d9f/thumbnails/thumbnail.jpg" width="600" alt="แอนิเมชันเทอโรแดกทิลบิน">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5086)**
 
 **Author:** [(PRESS)Scotty Fife (aka) NevNukeMonster](https://x.com/fife_scotty680) | **Source:** [Link](https://x.com/fife_scotty680/status/2056905441091977384) | **Published:** May 20, 2026
 
 ---
-### Gothic Mansion Back Tattoo
+### รอยสักคฤหาสน์สไตล์โกธิคเต็มหลัง
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic and dark aesthetic prompt describing a woman with a highly detailed gothic mansion tattoo on her back in a 90s setting.
+> พรอมต์แนวภาพยนตร์ที่มีความมืดหม่น บรรยายภาพหญิงสาวที่มีรอยสักคฤหาสน์สไตล์โกธิครายละเอียดสูงบนแผ่นหลัง ในบรรยากาศยุค 90
 
 #### 📝 Prompt
 
 ```
-Female sitting crossed legged on the floor with her back facing the camera with her head subtly turned back to view the camera, her whole back is exposed to show off her full back tattoo piece, she is wearing baggy jeans with a studded black belt. She has long black hair pulled up in a clip, wispy bangs, dark brown eyes, thin eyebrows, full lips, light skin with natural texture and pores to her skin, she has black small gauges. Her back tattoo is a large gothic Victorian era style mansion with ornate detailing with a dragon flying with filler type tattooing around the main piece, black, grey, and white ink, highly detailed scene of the tattoo. Dark minimalist 1990s room, low light, realistic rendering, shallow depth of field, low color saturation.
+หญิงสาวนั่งขัดสมาธิบนพื้นโดยหันหลังให้กล้องและหันหน้ากลับมามองกล้องเล็กน้อย เผยให้เห็นแผ่นหลังทั้งหมดที่มีรอยสักเต็มหลัง เธอสวมกางเกงยีนส์ทรงหลวมและเข็มขัดหนังสีดำประดับหมุด ผมสีดำยาวรวบขึ้นด้วยกิ๊บ มีหน้าม้าบางๆ ดวงตาสีน้ำตาลเข้ม คิ้วเรียวบาง ริมฝีปากอิ่ม ผิวขาวที่มีพื้นผิวและรูขุมขนตามธรรมชาติ เธอใส่จิวหูสีดำขนาดเล็ก รอยสักบนแผ่นหลังของเธอเป็นรูปคฤหาสน์สไตล์วิคตอเรียนโกธิคขนาดใหญ่ที่มีรายละเอียดวิจิตรบรรจง พร้อมลายสักมังกรบินและลายประกอบรอบชิ้นงานหลัก ใช้หมึกสีดำ สีเทา และสีขาว เป็นภาพรอยสักที่มีรายละเอียดสูง ห้องสไตล์มินิมอลโทนเข้มในยุค 1990 แสงน้อย การเรนเดอร์ที่สมจริง ระยะชัดลึกตื้น และความอิ่มตัวของสีต่ำ
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a80c3ac9ad0bfdbfb89b5afbb43bd268/thumbnails/thumbnail.jpg" width="600" alt="Gothic Mansion Back Tattoo">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a80c3ac9ad0bfdbfb89b5afbb43bd268/thumbnails/thumbnail.jpg" width="600" alt="รอยสักคฤหาสน์สไตล์โกธิคเต็มหลัง">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5083)**
 
@@ -2237,6 +2237,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-22T11:04:12.760Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-22T14:58:48.148Z</sub>
 
 </div>

@@ -303,210 +303,210 @@ Kalemin “Yargılandın ve eksik bulundun” sözünü çizmesini sağla… ve 
 **Author:** [Michael Bradley](https://x.com/MikeBradleySr2) | **Source:** [Link](https://x.com/MikeBradleySr2/status/2057385133187981793) | **Published:** May 21, 2026
 
 ---
-### Golden Dragon Tactical Mech
+### Altın Ejderha Taktiksel Mech
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An extremely detailed sci-fi wuxia prompt featuring a woman in intricate dragon-themed tactical armor on an ancient battlefield.
+> Antik bir savaş alanında, karmaşık ejderha temalı taktiksel zırh içindeki bir kadını konu alan, son derece detaylı bir bilim kurgu wuxia istemi.
 
 #### 📝 Prompt
 
 ```
-A stunning East Asian woman with sharp beautiful features, long dark brown hair in a high sleek ponytail with flowing strands, wearing an ultra-detailed futuristic black tactical mech armor suit heavily decorated with ornate glowing golden Chinese dragons. The armor has intricate golden dragon scales, large golden dragon heads on both shoulders with glowing eyes, glowing golden dragon on the chest and a massive coiled golden dragon on the back. The suit features glowing blue energy lines and circuits, bright yellow-orange illuminated armor segments, black tactical respirator mask covering her lower face.
+Keskin ve güzel hatlara sahip, uzun koyu kahverengi saçları yüksek ve şık bir at kuyruğu şeklinde toplanmış, saç tutamları uçuşan çarpıcı bir Doğu Asyalı kadın; üzerinde süslü, parlayan altın renkli Çin ejderhalarıyla yoğun bir şekilde dekore edilmiş, ultra detaylı fütüristik siyah taktiksel mech zırhı var. Zırh, karmaşık altın ejderha pullarına, her iki omuzda parlayan gözlere sahip büyük altın ejderha başlarına, göğüste parlayan altın bir ejderhaya ve sırtta devasa, kıvrımlı bir altın ejderhaya sahip. Kıyafet, parlayan mavi enerji hatları ve devreler, parlak sarı-turuncu aydınlatmalı zırh bölümleri ve yüzünün alt kısmını kaplayan siyah taktiksel solunum maskesi içeriyor.
 
-Scene opens with her standing powerfully in the center of a vast ancient battlefield, facing camera, surrounded by a swirling bright blue circular energy ring. She slowly turns 180 degrees to show her back, ponytail swaying dramatically. Camera circles around her smoothly, alternating between front three-quarter and back views with dynamic low-angle heroic shots.
+Sahne, kadının devasa bir antik savaş alanının merkezinde, kameraya dönük şekilde güçlü bir duruş sergilemesiyle başlıyor; etrafı dönen parlak mavi dairesel bir enerji halkasıyla çevrili. Yavaşça 180 derece dönerek sırtını gösteriyor, at kuyruğu dramatik bir şekilde savruluyor. Kamera, dinamik düşük açılı kahramanca çekimlerle ön üç çeyrek ve arka görünümler arasında geçiş yaparak etrafında pürüzsüzce dönüyor.
 
-Environment: Massive army of ancient Chinese warriors in the blurred background, dusty battlefield ground, overcast dramatic sky. Intense cinematic lighting with glowing blue floating energy particles, golden sparks, and vertical glowing light streaks raining down around her. Armor emits strong blue and golden light accents that pulse and glow.
+Çevre: Bulanık arka planda devasa bir antik Çin savaşçı ordusu, tozlu savaş alanı zemini, kapalı ve dramatik bir gökyüzü. Parlayan mavi yüzen enerji parçacıkları, altın kıvılcımlar ve etrafına dikey olarak yağan parlayan ışık çizgileriyle yoğun sinematik aydınlatma. Zırh, nabız gibi atan ve parlayan güçlü mavi ve altın ışık vurguları yayıyor.
 
-Style: Hyper-realistic cinematic 8K, ultra-detailed textures, dramatic volumetric lighting, epic sci-fi wuxia fusion, flawless anatomy, intricate armor details, dynamic motion, high production value, shot on IMAX --ar 9:16 --stylize 250 --v 6
+Tarz: Hiper gerçekçi sinematik 8K, ultra detaylı dokular, dramatik hacimsel aydınlatma, epik bilim kurgu wuxia füzyonu, kusursuz anatomi, karmaşık zırh detayları, dinamik hareket, yüksek prodüksiyon değeri, IMAX ile çekilmiş --ar 9:16 --stylize 250 --v 6
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f856f622a9e6991527bd9c183a4f90eb/thumbnails/thumbnail.jpg" width="600" alt="Golden Dragon Tactical Mech">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f856f622a9e6991527bd9c183a4f90eb/thumbnails/thumbnail.jpg" width="600" alt="Altın Ejderha Taktiksel Mech">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5082)**
 
 **Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2057249122181325014) | **Published:** May 20, 2026
 
 ---
-### Singing Robot Fox Animation
+### Şarkı Söyleyen Robot Tilki Animasyonu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A creative video prompt for a robot fox that walks and sings a parody song, designed for Grok Imagine.
+> Grok Imagine için tasarlanmış, yürüyen ve parodi bir şarkı söyleyen robot tilkiye yönelik yaratıcı bir video istemi.
 
 #### 📝 Prompt
 
 ```
-Imagine a robot fox that turns and walks towards the camera while he sings, "What does the GROK say! Ding ding ding da ding da dah ding. What does the Grok say!"
+Kameraya doğru dönüp yürürken "What does the GROK say! Ding ding ding da ding da dah ding. What does the Grok say!" şarkısını söyleyen bir robot tilki hayal edin.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1d48f923c57a6e49c0f179ea9bf67268/thumbnails/thumbnail.jpg" width="600" alt="Singing Robot Fox Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1d48f923c57a6e49c0f179ea9bf67268/thumbnails/thumbnail.jpg" width="600" alt="Şarkı Söyleyen Robot Tilki Animasyonu">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5090)**
 
 **Author:** [Joe Pelayo](https://x.com/JoeHeadhunter) | **Source:** [Link](https://x.com/JoeHeadhunter/status/2057238505412026463) | **Published:** May 20, 2026
 
 ---
-### Lego Character Self-Animation
+### Lego Karakteri ile Kendini Canlandırma
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An instruction for Grok Imagine to create a Lego character version of a user and animate both into a video using image references.
+> Grok Imagine'in, bir kullanıcının Lego karakteri versiyonunu oluşturması ve görsel referanslar kullanarak her ikisini de bir videoda canlandırması için bir talimat.
 
 #### 📝 Prompt
 
 ```
-Animate image of yourself and Lego Character into a Video using both for reference.
+Kendinizin ve Lego Karakterinizin görselini, her ikisini de referans alarak bir videoda canlandırın.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9937910b41d6ebfddb6d0094836be8b5/thumbnails/thumbnail.jpg" width="600" alt="Lego Character Self-Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9937910b41d6ebfddb6d0094836be8b5/thumbnails/thumbnail.jpg" width="600" alt="Lego Karakteri ile Kendini Canlandırma">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5088)**
 
 **Author:** [Ralph](https://x.com/RalphTheMaker) | **Source:** [Link](https://x.com/RalphTheMaker/status/2057229234083377586) | **Published:** May 20, 2026
 
 ---
-### Dandelion Field Romantic Meeting
+### Karahindiba Tarlasında Romantik Buluşma
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A romantic cinematic pan over moving dandelions in the wind as a man runs toward a woman.
+> Bir adamın bir kadına doğru koştuğu sırada, rüzgarda hareket eden karahindibaların üzerinde romantik ve sinematik bir kamera geçişi.
 
 #### 📝 Prompt
 
 ```
-the camera pans into a detail of the dandelions softly moving in the wind as the man runs away, not in focus and then a beautiful woman shows up to love him
+kamera, rüzgarda hafifçe sallanan karahindibaların detayına odaklanarak kayar; bu sırada adam odakta olmadan uzaklaşır ve ardından güzel bir kadın ona olan sevgisini göstermek için belirir
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1931e50d69fa975fbad1aa91149dcd9f/thumbnails/thumbnail.jpg" width="600" alt="Dandelion Field Romantic Meeting">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1931e50d69fa975fbad1aa91149dcd9f/thumbnails/thumbnail.jpg" width="600" alt="Karahindiba Tarlasında Romantik Buluşma">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5087)**
 
 **Author:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **Source:** [Link](https://x.com/CindyWeigapn6/status/2057210352849265070) | **Published:** May 20, 2026
 
 ---
-### Leisurely Anime Girl Interaction
+### Keyifli Anime Kızı Etkileşimi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed cinematic prompt for a video featuring a character named Ani performing sweet and needy gestures like peeking, tapping, and blowing a kiss.
+> Ani adındaki bir karakterin gözetleme, hafifçe dokunma ve öpücük gönderme gibi tatlı ve ilgi bekleyen hareketler sergilediği bir video için detaylı sinematik komut.
 
 #### 📝 Prompt
 
 ```
-Create a smooth leisurely video. Ani affectionately peeks and leans forward. She does a gentle hand tap, then adds a sweet gesture of placing her hand on her cheek while looking needy and pampered. At the end she blows a soft kiss toward the viewer.
+Akıcı ve keyifli bir video oluşturun. Ani sevgi dolu bir şekilde gözetliyor ve öne doğru eğiliyor. Nazikçe elini dokunduruyor, ardından ilgi bekleyen ve şımartılmış bir ifadeyle elini yanağına koyduğu tatlı bir hareket ekliyor. Sonunda izleyiciye doğru yumuşak bir öpücük gönderiyor.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6d7199c81f1713ae6bab6e318baccc38/thumbnails/thumbnail.jpg" width="600" alt="Leisurely Anime Girl Interaction">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6d7199c81f1713ae6bab6e318baccc38/thumbnails/thumbnail.jpg" width="600" alt="Keyifli Anime Kızı Etkileşimi">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5081)**
 
 **Author:** [Aniの日常](https://x.com/tarohinomo78040) | **Source:** [Link](https://x.com/tarohinomo78040/status/2057137600314655013) | **Published:** May 20, 2026
 
 ---
-### Giant Mechanical Crab Monster Battle
+### Dev Mekanik Yengeç Canavarı Savaşı
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A dynamic video generation prompt where a toy transforms into a giant mechanical crab to fight three different monsters in a lunar setting.
+> Bir oyuncağın ay benzeri bir ortamda üç farklı canavarla savaşmak için dev bir mekanik yengece dönüştüğü dinamik bir video oluşturma istemi.
 
 #### 📝 Prompt
 
 ```
-Turn this doll into a giant mechanical crab. Then it defeats three monsters in a vast moon-like setting. The first monster is an evil tiger. The second monster is a spooky-looking python. The third monster is a gross-looking loach. It eliminates them using a giant machine gun.
+Bu oyuncağı dev bir mekanik yengece dönüştür. Ardından, ay benzeri uçsuz bucaksız bir ortamda üç canavarı mağlup etmesini sağla. İlk canavar kötü bir kaplan. İkinci canavar ürkütücü görünümlü bir piton. Üçüncü canavar ise iğrenç görünümlü bir çamur balığı. Dev bir makineli tüfek kullanarak hepsini yok ediyor.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bb95d24324226cd7f352cb57f20bc210/thumbnails/thumbnail.jpg" width="600" alt="Giant Mechanical Crab Monster Battle">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bb95d24324226cd7f352cb57f20bc210/thumbnails/thumbnail.jpg" width="600" alt="Dev Mekanik Yengeç Canavarı Savaşı">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5089)**
 
 **Author:** [JeffLiuRoast](https://x.com/liu17251086) | **Source:** [Link](https://x.com/liu17251086/status/2057125036268679229) | **Published:** May 20, 2026
 
 ---
-### Pastel Flower Oil Painting
+### Pastel Çiçekli Yağlı Boya Tablo
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A video generation prompt for an artistic, textured oil painting style featuring pastel flowers and water droplets.
+> Pastel çiçekler ve su damlaları içeren, sanatsal ve dokulu bir yağlı boya stili için video oluşturma istemi.
 
 #### 📝 Prompt
 
 ```
-A delicate and subtle artistic painting of a soft pastel flower with gentle water droplets resting on the petals, in the spirit of a textured oil painting with visible brushstrokes. The flower is in muted blush pink, soft lavender, and creamy white tones.
+Görünen fırça darbeleriyle dokulu bir yağlı boya tablosu ruhunu yansıtan; taç yaprakları üzerinde hafif su damlaları bulunan, narin ve incelikli bir pastel çiçek tablosu. Çiçek; soluk gül kurusu, yumuşak lavanta ve kremsi beyaz tonlarındadır.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/035c53d59abc2db1a17eeb89da4eed6f/thumbnails/thumbnail.jpg" width="600" alt="Pastel Flower Oil Painting">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/035c53d59abc2db1a17eeb89da4eed6f/thumbnails/thumbnail.jpg" width="600" alt="Pastel Çiçekli Yağlı Boya Tablo">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5079)**
 
 **Author:** [Carina](https://x.com/Freehere3) | **Source:** [Link](https://x.com/Freehere3/status/2057096040642465953) | **Published:** May 20, 2026
 
 ---
-### Tattooed Woman Kitchen Romance
+### Dövmeli Kadın Mutfakta Romantizm
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A fun video prompt featuring a tattooed woman and a man in a kitchen with floating romantic hearts.
+> Mutfakta dövmeli bir kadın ve bir erkeğin yer aldığı, etrafta uçuşan romantik kalplerle süslü eğlenceli bir video istemi.
 
 #### 📝 Prompt
 
 ```
-A woman with tattoos in a green top and a man in a kitchen with money, surrounded by floating hearts in a fun loving vibe.
+Yeşil üstlü dövmeli bir kadın ve mutfakta paralarla birlikte duran bir adam; etrafları eğlenceli ve sevgi dolu bir atmosferde uçuşan kalplerle çevrili.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4bfed87a5bec1711f7798c8d56fb0671/thumbnails/thumbnail.jpg" width="600" alt="Tattooed Woman Kitchen Romance">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4bfed87a5bec1711f7798c8d56fb0671/thumbnails/thumbnail.jpg" width="600" alt="Dövmeli Kadın Mutfakta Romantizm">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5078)**
 
 **Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2057094935711461648) | **Published:** May 20, 2026
 
 ---
-### Cyberpunk Armor Transformation
+### Cyberpunk Zırh Dönüşümü
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A professional-grade cinematic prompt for a 6-second video showing a complex armor transformation in a rainy cyberpunk city.
+> Yağmurlu bir cyberpunk şehrinde karmaşık bir zırh dönüşümünü gösteren 6 saniyelik video için profesyonel düzeyde sinematik komut (prompt).
 
 #### 📝 Prompt
 
 ```
-Cinematic 8K hyper-realistic live-action video, 6 seconds, photorealistic, shot on ARRI Alexa 65 with anamorphic lenses, subtle film grain, cinematic color grading.
+Sinematik 8K hiper gerçekçi canlı çekim video, 6 saniye, fotogerçekçi, anamorfik lenslerle ARRI Alexa 65 ile çekilmiş, hafif film greni, sinematik renk düzenleme.
 
-Subject: The exact same breathtakingly beautiful young woman from the reference image — delicate facial features, striking blue eyes, flawless skin with soft cyber-glow highlights, voluminous flowing blue-silver hair with sparkling particles. She is wearing an ultra-advanced, next-level Transformer-style cyberpunk armor-dress: a form-fitting, translucent high-tech latex and crystalline hybrid suit that seamlessly blends her original glowing crystal aesthetic with sleek matte-black and chrome cybernetic plating, glowing neon-blue circuitry, pulsing magenta energy veins, and shifting mechanical segments. Intricate holographic crystals and floating data shards orbit her body. The suit has subtle mechanical transformation details — plates that click, unfold, and reconfigure with blue plasma arcs.
+Konu: Referans görseldeki nefes kesici güzellikteki genç kadının birebir aynısı — narin yüz hatları, çarpıcı mavi gözler, yumuşak siber parıltılı vurgulara sahip kusursuz bir cilt, parıldayan parçacıklarla hacimli, dalgalı mavi-gümüş saçlar. Üzerinde ultra gelişmiş, yeni nesil Transformer tarzı bir cyberpunk zırh-elbise var: orijinal parlayan kristal estetiğini pürüzsüz mat siyah ve krom sibernetik kaplamalarla, parlayan neon mavi devrelerle, atan macenta enerji damarlarıyla ve hareket eden mekanik bölümlerle kusursuz bir şekilde birleştiren, vücuda oturan, yarı saydam yüksek teknolojili lateks ve kristal hibrit bir kıyafet. Karmaşık holografik kristaller ve yüzen veri parçacıkları vücudunun etrafında dönüyor. Kıyafet, tıkırdayan, açılan ve mavi plazma arklarıyla yeniden yapılandırılan plakalar gibi ince mekanik dönüşüm detaylarına sahip.
 
-Scene: Dark, rainy cyberpunk megacity at night. Towering neon skyscrapers, flying vehicles, massive holographic billboards, wet reflective streets. Heavy volumetric rain, atmospheric fog, god rays cutting through the mist, vibrant cyan, magenta, and electric blue lighting.
+Sahne: Gece, karanlık ve yağmurlu bir cyberpunk mega şehri. Yüksek neon gökdelenler, uçan araçlar, devasa holografik reklam panoları, ıslak yansıtıcı sokaklar. Yoğun hacimsel yağmur, atmosferik sis, sisin içinden geçen tanrı ışıkları (god rays), canlı camgöbeği, macenta ve elektrik mavisi aydınlatma.
 
-Camera movement & action (6 seconds):
-- 0-2s: Dramatic low-angle orbiting close-up as she stands powerfully, hair dramatically flowing in the wind. Her cyber-armor begins transforming — crystalline plates smoothly shift into mechanical Transformer segments with glowing energy.
-- 2-4s: She slowly raises her hands; holographic blue energy interfaces and translucent energy wings briefly manifest from her back. Rain droplets sizzle and evaporate on her glowing suit.
-- 4-6s: Epic slow pull-back shot revealing her full powerful silhouette levitating slightly above the wet street, dramatic lens flares, hair and armor elements moving with cinematic motion blur.
+Kamera hareketi ve aksiyon (6 saniye):
+- 0-2 sn: O güçlü bir şekilde dururken dramatik düşük açılı yörüngesel yakın çekim, saçları rüzgarda dramatik bir şekilde savruluyor. Siber zırhı dönüşmeye başlıyor — kristal plakalar, parlayan enerjiyle mekanik Transformer bölümlerine pürüzsüzce geçiş yapıyor.
+- 2-4 sn: Yavaşça ellerini kaldırıyor; holografik mavi enerji arayüzleri ve yarı saydam enerji kanatları kısa süreliğine sırtından beliriyor. Yağmur damlaları parlayan kıyafetinin üzerinde cızırdıyor ve buharlaşıyor.
+- 4-6 sn: Islak caddenin üzerinde hafifçe süzülen güçlü silüetini ortaya çıkaran epik yavaş geri çekilme çekimi, dramatik lens parlamaları, sinematik hareket bulanıklığıyla hareket eden saç ve zırh unsurları.
 
-Ultra-photorealistic details, perfect anatomy, realistic fabric and metal physics, reflective wet surfaces, intricate particle effects, depth of field, moody cinematic lighting. Masterpiece visual effects, next-level Transformers-inspired transformation sequence, dark cyberpunk atmosphere, highly detailed, emotional and powerful mood.
+Ultra fotogerçekçi detaylar, mükemmel anatomi, gerçekçi kumaş ve metal fiziği, yansıtıcı ıslak yüzeyler, karmaşık parçacık efektleri, alan derinliği, karamsar sinematik aydınlatma. Başyapıt görsel efektler, yeni nesil Transformers esintili dönüşüm sekansı, karanlık cyberpunk atmosferi, yüksek detaylı, duygusal ve güçlü bir atmosfer.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5b9e627bc8e55dbddca444f262920337/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Armor Transformation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5b9e627bc8e55dbddca444f262920337/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Zırh Dönüşümü">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5084)**
 
 **Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2057088402445459694) | **Published:** May 20, 2026
 
 ---
-### Cybernetic Warrior Bow
+### Siberetik Savaşçı Yayı
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A stylized prompt using complex symbols to describe a purple-diamond armored character with a laser bow.
+> Lazer yaylı, mor elmas zırhlı bir karakteri tanımlamak için karmaşık semboller kullanan stilize bir istem.
 
 #### 📝 Prompt
 
 ```
-< black fluffy golden hair >purple vein >
-¥ { armor purple reflective diamonds }
-( bow laser cut beridium allow bolts glowing )
-^{ * { eyes are beautiful green blue } ( stare )
+< siyah kabarık altın saçlar >mor damar >
+¥ { zırh mor yansıtıcı elmaslar }
+( yay lazer kesim beridyum alaşımlı parlayan cıvatalar )
+^{ * { gözler güzel yeşil mavi } ( bakış )
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/52e559488c2320f468643178ad268316/thumbnails/thumbnail.jpg" width="600" alt="Cybernetic Warrior Bow">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/52e559488c2320f468643178ad268316/thumbnails/thumbnail.jpg" width="600" alt="Siberetik Savaşçı Yayı">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5085)**
 
@@ -532,57 +532,57 @@ Gururla parlayan bu deniz kızını izleyin. Etrafında süzülen baloncuklar, s
 **Author:** [BizPunk72](https://x.com/bixxs) | **Source:** [Link](https://x.com/bixxs/status/2056948566933782740) | **Published:** May 20, 2026
 
 ---
-### Starlink Satellites Laser Rays
+### Starlink Uydu Lazer Işınları
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A conceptual prompt depicting Starlink satellites firing laser beams onto a wall, integrated with a character's dialogue.
+> Starlink uydularının bir duvara lazer ışınları ateşlediği ve bir karakterin diyaloğuyla bütünleştirilmiş kavramsal bir görsel istemi.
 
 #### 📝 Prompt
 
 ```
-@image1 on the wall the Starlink satellites firing laser beams. She says How are these headlines allowed?... @imagine @grok The missing ingredient of annoyance. 🔥🫶☕️💫
+@image1 duvarda Starlink uyduları lazer ışınları ateşliyor. O şöyle diyor: Bu manşetlere nasıl izin veriliyor?... @imagine @grok Can sıkıntısının eksik malzemesi. 🔥🫶☕️💫
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f383250202d5781d1c9a9787a907ac16/thumbnails/thumbnail.jpg" width="600" alt="Starlink Satellites Laser Rays">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f383250202d5781d1c9a9787a907ac16/thumbnails/thumbnail.jpg" width="600" alt="Starlink Uydu Lazer Işınları">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5080)**
 
 **Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2056937301347901503) | **Published:** May 20, 2026
 
 ---
-### Flying Pterodactyl Animation
+### Uçan Pterodactyl Animasyonu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An instruction to take a pterodactyl-like object and animate it flying off into the distance.
+> Pterodactyl benzeri bir nesneyi alıp uzaklara doğru uçacak şekilde canlandırma talimatı.
 
 #### 📝 Prompt
 
 ```
-Grok see the bird teradactial looking object can you make it get up and fly off into the distance
+Grok, şu kuş benzeri pterodactyl nesnesini görüyor musun? Onu ayağa kaldırıp uzaklara doğru uçurabilir misin?
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e074c6f0245c38b8830e95923e9a8d9f/thumbnails/thumbnail.jpg" width="600" alt="Flying Pterodactyl Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e074c6f0245c38b8830e95923e9a8d9f/thumbnails/thumbnail.jpg" width="600" alt="Uçan Pterodactyl Animasyonu">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5086)**
 
 **Author:** [(PRESS)Scotty Fife (aka) NevNukeMonster](https://x.com/fife_scotty680) | **Source:** [Link](https://x.com/fife_scotty680/status/2056905441091977384) | **Published:** May 20, 2026
 
 ---
-### Gothic Mansion Back Tattoo
+### Gotik Köşk Sırt Dövmesi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic and dark aesthetic prompt describing a woman with a highly detailed gothic mansion tattoo on her back in a 90s setting.
+> 90'lar atmosferinde, sırtında oldukça detaylı bir gotik köşk dövmesi olan bir kadını betimleyen sinematik ve karanlık estetik bir komut.
 
 #### 📝 Prompt
 
 ```
-Female sitting crossed legged on the floor with her back facing the camera with her head subtly turned back to view the camera, her whole back is exposed to show off her full back tattoo piece, she is wearing baggy jeans with a studded black belt. She has long black hair pulled up in a clip, wispy bangs, dark brown eyes, thin eyebrows, full lips, light skin with natural texture and pores to her skin, she has black small gauges. Her back tattoo is a large gothic Victorian era style mansion with ornate detailing with a dragon flying with filler type tattooing around the main piece, black, grey, and white ink, highly detailed scene of the tattoo. Dark minimalist 1990s room, low light, realistic rendering, shallow depth of field, low color saturation.
+Yerde bağdaş kurmuş oturan, sırtı kameraya dönük, başını hafifçe kameraya doğru çevirmiş bir kadın; tüm sırt dövmesini sergilemek için sırtı tamamen açık, üzerinde bol kesim kot pantolon ve zımbalı siyah bir kemer var. Uzun siyah saçları bir toka ile tutturulmuş, ince perçemleri, koyu kahverengi gözleri, ince kaşları, dolgun dudakları, doğal dokusu ve gözenekleri belirgin açık teni var, kulaklarında küçük siyah tünel küpeler bulunuyor. Sırtındaki dövme, süslü detaylara sahip, büyük ve Viktorya dönemi tarzında gotik bir köşk; ana parçanın etrafında dolgu dövme tarzında uçan bir ejderha figürü var, siyah, gri ve beyaz mürekkep kullanılmış, oldukça detaylı bir dövme sahnesi. Karanlık, minimalist 1990'lar odası, düşük ışık, gerçekçi render, sığ alan derinliği, düşük renk doygunluğu.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a80c3ac9ad0bfdbfb89b5afbb43bd268/thumbnails/thumbnail.jpg" width="600" alt="Gothic Mansion Back Tattoo">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a80c3ac9ad0bfdbfb89b5afbb43bd268/thumbnails/thumbnail.jpg" width="600" alt="Gotik Köşk Sırt Dövmesi">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5083)**
 
@@ -2237,6 +2237,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-22T11:04:23.910Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-22T14:59:01.481Z</sub>
 
 </div>
