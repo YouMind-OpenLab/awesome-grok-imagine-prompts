@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **1603** |
+| 📝 총 프롬프트 수 | **1609** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-05-22** |
 
@@ -189,6 +189,120 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 우주를 유영하는 미래형 우주선
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 성운을 배경으로 심우주에 떠 있는 매끄러운 우주선을 중심으로 회전하는 카메라 무빙 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+심우주에 떠 있는 미래형 우주선 외관을 따라 천천히 회전하는 카메라 무빙으로, 매끄러운 선체와 빛나는 창문을 다양한 각도에서 보여주며 배경에는 별과 성운이 펼쳐집니다.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/80bea774f89a41c3024c9c612ed737e6/thumbnails/thumbnail.jpg" width="600" alt="우주를 유영하는 미래형 우주선">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5131)**
+
+**작성자:** [MIUZAH DEIOPAH OF THE PLEIADES](https://x.com/Octillion111111) | **출처:** [Link](https://x.com/Octillion111111/status/2057566105393054058) | **게시일:** May 21, 2026
+
+---
+### 주방에서 느껴지는 장난스러운 사랑의 분위기
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 주방에서 떠다니는 하트와 돈에 둘러싸인 커플의 모습을 담은 비디오 프롬프트로, 장난스럽고 사랑스러운 분위기를 연출합니다.
+
+#### 📝 프롬프트
+
+```
+녹색 상의를 입은 문신을 한 여성과 주방에서 사랑스럽게 미소 짓는 남성, 주변에는 돈과 수많은 하트가 떠다니며 장난스러운 사랑의 분위기를 자아냅니다.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/43e1ead2d76c388c2eb9f11106fa276e/thumbnails/thumbnail.jpg" width="600" alt="주방에서 느껴지는 장난스러운 사랑의 분위기">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5129)**
+
+**작성자:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **출처:** [Link](https://x.com/maggiejuang1/status/2057477179902988408) | **게시일:** May 21, 2026
+
+---
+### 백금발의 뱀파이어 여성
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 긴 백금발과 붉은 눈을 가진 아름다운 뱀파이어 여성이 검은 장미를 들고 있는 모습을 담은 영화 같은 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+긴 백금발과 붉은 눈을 가진 아름다운 뱀파이어 여성이 가슴에 검은 장미를 들고 있는 모습
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/57ded65af302fe1d749690cfbc155af8/thumbnails/thumbnail.jpg" width="600" alt="백금발의 뱀파이어 여성">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5128)**
+
+**작성자:** [Benjamin Ferrarini](https://x.com/Granddragonben) | **출처:** [Link](https://x.com/Granddragonben/status/2057455897903804911) | **게시일:** May 21, 2026
+
+---
+### 엘리베이터 패션 미러 월드
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 엘리베이터 미러 월드 안에서 부드러운 움직임과 몽환적인 물리 효과를 테스트하는 스타일리시한 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+엘리베이터 패션 • 미러 월드 • Slides (부드러운 움직임 및 몽환적인 물리 효과 테스트)
+```
+
+<img src="https://cms-assets.youmind.com/media/1779438773089_01l2a5_HI2KbXAa8AEdUhJ.jpg" width="600" alt="엘리베이터 패션 미러 월드">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5132)**
+
+**작성자:** [sugarcane](https://x.com/sugarcanebkk) | **출처:** [Link](https://x.com/sugarcanebkk/status/2057452874289095060) | **게시일:** May 21, 2026
+
+---
+### 화려한 폭발 장면 화면 비율 재조정
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 생동감 넘치는 분출 및 폭발 애니메이션을 16:9 영화적 화면 비율로 재조정하고, 맑고 푸른 하늘을 배경으로 액션을 중앙에 배치하도록 설계된 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+16:9 화면 비율로 재조정하여, 푸른 하늘을 배경으로 화려한 분출과 폭발 장면이 중앙에 오도록 배치하세요.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/885d22b1f8d2a523309867eaf667beec/thumbnails/thumbnail.jpg" width="600" alt="화려한 폭발 장면 화면 비율 재조정">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5133)**
+
+**작성자:** [Dwaynemeiers](https://x.com/Dwaynemeiers) | **출처:** [Link](https://x.com/Dwaynemeiers/status/2057406674437357960) | **게시일:** May 21, 2026
+
+---
+### 성경 구절 펜 드로잉 애니메이션
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 심판과 조상의 죄에 관한 성경 구절을 펜으로 그려내는 모습을 영화 같은 조명으로 연출한 애니메이션입니다.
+
+#### 📝 프롬프트
+
+```
+펜으로 “너는 저울에 달려서 부족함이 보였다”라는 문구를 적고, 아담과 하와의 죄가 후대에 대물림된다는 성경 구절을 그려주세요. 빛의 언어를 통해 표현해 주세요.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a1469bce60579a51c99496a4cc1dbc3c/thumbnails/thumbnail.jpg" width="600" alt="성경 구절 펜 드로잉 애니메이션">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5130)**
+
+**작성자:** [Michael Bradley](https://x.com/MikeBradleySr2) | **출처:** [Link](https://x.com/MikeBradleySr2/status/2057385133187981793) | **게시일:** May 21, 2026
+
+---
 ### Golden Dragon Tactical Mech
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2062,137 +2176,6 @@ POV: 당신은 지금 모래 언덕에서 열리는 미래지향적 유목민 �
 **작성자:** [Thoughts Creator](https://x.com/ThoughCreator) | **출처:** [Link](https://x.com/ThoughCreator/status/2055099462150988115) | **게시일:** May 15, 2026
 
 ---
-### 马斯克父子 Are you OK 北京话短剧
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 一段写实新闻花絮风格的 Grok Imagine 短视频提示词：国际商务活动现场中，像马斯克的父亲牵着小儿子，用雷军式英文问 “Are you OK?”，孩子用北京话机智回应。
-
-#### 📝 프롬프트
-
-```
-基于参考图生成一段写实短视频：庄重华丽的国际商务活动现场，大理石走廊、暖色灯光，远处有穿西装的人经过。一位像马斯克的父亲穿黑色西装，牵着穿中式蓝色小马甲的小儿子往前走。镜头像新闻花絮跟拍，真实自然，轻微手持感。
-
-视频开始时，父亲低头看着儿子，突然非常认真地用雷军经典英文口吻问他：“Are you OK?” 语气朴素、认真、带一点尴尬喜感。小男孩抬头看了他一眼，用地道北京话回应：“爸，您甭 OK 了，您这一下给我整不会了。” 父亲愣住。小男孩继续说：“您要真想问我，就说：没事儿吧您？这才像那么回事儿。” 父亲尴尬地笑了笑，孩子牵着他继续往前走。
-
-画面要求：父亲一定是朝儿子说 “Are you OK?”，不是对镜头说；孩子用北京话自然回应，语气像北京小孩儿嘴贫但不夸张。写实新闻现场感，父子互动温暖可爱，唇形尽量匹配对白。
-
-风格：真实、轻喜剧、亲子反差、北京话幽默。
-
-时长：8–10 秒。
-
-比例：9:16 或 16:9。
-
-避免：卡通化、鬼畜、夸张变脸、脸部崩坏、字幕乱码、嘴型严重不匹配。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bd7ae8d1de55c36c7636c0111d5aaaa0/thumbnails/thumbnail.jpg" width="600" alt="马斯克父子 Are you OK 北京话短剧">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4773)**
-
-**작성자:** [Jared 宗源](https://x.com/jaredliu_bravo) | **출처:** [Link](https://x.com/jaredliu_bravo/status/2054913526922424497) | **게시일:** May 14, 2026
-
----
-### 로봇 말을 탄 사이버네틱 파워 아머 라이더
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 디스토피아적 사이버펑크 도시를 배경으로, 매트 블랙 사이버네틱 아머를 입은 여성이 최첨단 생체역학 로봇 말을 타고 달리는 시네마틱 SF 영상을 위한 상세한 Grok Imagine 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-차세대 트랜스포머 스타일의 SF 사이버펑크를 구현한 6초 분량의 초현실적 시네마틱 영상. 매끄럽고 디테일한 매트 블랙 및 건메탈 색상의 사이버네틱 파워 아머를 입고 푸른빛이 감도는 흰색 포인트가 돋보이는 아름다운 젊은 여성이, 폐허가 된 광활한 디스토피아 메가시티를 가로질러 거대하고 고도로 발달한 생체역학 로봇 말을 타고 질주합니다.
-기계 말은 유기적인 근육, 피스톤, 케이블, 중장갑이 복잡하게 결합된 형태이며, 패널이 움직이고 은은한 에너지 라인이 빛나는 차세대 트랜스포머급 디테일을 자랑합니다. 여성은 HUD 바이저와 산소 마스크가 장착된 전술 헬멧을 쓰고 진지하고 집중된 표정을 짓고 있으며, 검은 머리카락이 바람에 살짝 흩날립니다.
-카메라는 측면 전방에서 극적인 로우 앵글 트래킹 샷으로 시작하여, 무너진 고층 빌딩, 늘어진 전선, 연기, 날리는 불씨로 가득 찬 파괴된 거리를 힘차게 질주하는 그들의 주변을 천천히 회전합니다. 말의 금속 발굽이 지면에 닿을 때마다 불꽃이 튑니다. 먼지 사이로 쏟아지는 볼류메트릭 갓 레이(god rays), 젖은 금속 표면에 비치는 네온 반사, 배경에서 희미하게 깜빡이는 홀로그램 광고판 등 역동적인 사이버펑크 조명이 연출됩니다.
-초현실적인 디테일, 8K 포토리얼리즘, 쿨한 청록색과 따뜻한 오렌지 톤의 시네마틱 컬러 그레이딩, 강렬한 움직임, 극적인 피사계 심도, 은은한 필름 그레인, Arri Alexa 65 및 아나모픽 렌즈로 촬영한 듯한 느낌. 완벽한 해부학적 구조와 기계적 사실감을 갖춘 고속 모션. 6초 분량, 부드러운 24fps 시네마틱 모션.
-부정 프롬프트 (권장):
-흐릿함, 변형, 저품질, 만화, 애니메이션, 추가 팔다리, 텍스트, 워터마크, 과다 노출, 플라스틱 피부, 잘못된 해부학적 구조, 낮은 디테일, 평면적인 조명.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f9701c2cb9d34351bb27fffca481f5f1/thumbnails/thumbnail.jpg" width="600" alt="로봇 말을 탄 사이버네틱 파워 아머 라이더">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4863)**
-
-**작성자:** [Thoughts Creator](https://x.com/ThoughCreator) | **출처:** [Link](https://x.com/ThoughCreator/status/2054897466357723390) | **게시일:** May 14, 2026
-
----
-### 금성 여인의 낙원 행성
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 찬란한 우주적 아우라를 지닌 낙원 행성의 아름다운 여인을 위한 시네마틱 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-아름다운 금성 여인, 부드러운 황금빛 광채, 낙원 행성 풍경, 우아하게 흐르는 드레스, 찬란한 아우라, 평화로운 우주 문명, 초현실적인 판타지 초상화, 시네마틱 햇살
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e9d4a71d4ebda4919c89a8e86a7fe52/thumbnails/thumbnail.jpg" width="600" alt="금성 여인의 낙원 행성">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4769)**
-
-**작성자:** [Narmina](https://x.com/narminamoon) | **출처:** [Link](https://x.com/narminamoon/status/2054588306747162627) | **게시일:** May 13, 2026
-
----
-### 오리온 전사 여성 SF 인물화
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 우주적인 조명과 영화 같은 그림자가 어우러진 미래형 갑옷을 입은 전사 여성의 고해상도 SF 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-강인한 오리온 전사 여성, 어두운 미래형 갑옷, 우주적인 전투 분위기, 붉은색과 푸른색의 빛나는 조명, 강렬하고 신비로운 눈빛, 초현실적인 SF 인물화, 영화 같은 그림자
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/49d505302c6916f63402bea08e8bcf76/thumbnails/thumbnail.jpg" width="600" alt="오리온 전사 여성 SF 인물화">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4761)**
-
-**작성자:** [Narmina](https://x.com/narminamoon) | **출처:** [Link](https://x.com/narminamoon/status/2054587951061844327) | **게시일:** May 13, 2026
-
----
-### 에테리얼 안드로메다 천상의 로브
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 우주 궁전 속 은빛 피부와 천상의 로브를 걸친 에테리얼한 여성을 묘사한 상세한 SF 판타지 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-에테리얼한 안드로메다 여성, 은빛으로 빛나는 피부, 긴 백발, 천상의 궁전, 홀로그램 별들, 우아한 코스믹 로브, 초현실적인 SF 판타지, 신성한 여성 에너지, 영화 같은 조명, 고도로 상세함
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2e442ef2e4de86fa72c0a981b8e7869f/thumbnails/thumbnail.jpg" width="600" alt="에테리얼 안드로메다 천상의 로브">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4762)**
-
-**작성자:** [Narmina](https://x.com/narminamoon) | **출처:** [Link](https://x.com/narminamoon/status/2054587169402974372) | **게시일:** May 13, 2026
-
----
-### 푸른 피부의 외계 여성 이집트 SF
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 우주적인 이집트 배경 속 푸른 피부의 외계 여성을 담은 SF 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-푸른 피부의 시리우스 외계 여성, 우아한 미래지향적 의상, 이집트풍 우주 건축물, 별과 피라미드, 빛나는 수정, 초현실적인 SF 인물 사진
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fe07cfea77ee3a490046f1d7281bc217/thumbnails/thumbnail.jpg" width="600" alt="푸른 피부의 외계 여성 이집트 SF">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4763)**
-
-**작성자:** [Narmina](https://x.com/narminamoon) | **출처:** [Link](https://x.com/narminamoon/status/2054586816234131840) | **게시일:** May 13, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2254,6 +2237,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-05-22T04:20:40.120Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-05-22T11:04:11.733Z</sub>
 
 </div>

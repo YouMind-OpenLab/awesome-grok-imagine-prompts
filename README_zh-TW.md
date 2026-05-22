@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **1603** |
+| 📝 提示詞總數 | **1609** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-05-22** |
 
@@ -189,6 +189,120 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 環繞太空的未來感太空船
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個攝影機環繞深空中流線型太空船的提示詞，背景為星雲。
+
+#### 📝 提示詞
+
+```
+攝影機緩慢環繞深空中未來感太空船的外部，從不同角度展現其流線型船體與發光的窗戶，背景為繁星與星雲。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/80bea774f89a41c3024c9c612ed737e6/thumbnails/thumbnail.jpg" width="600" alt="環繞太空的未來感太空船">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5131)**
+
+**作者:** [MIUZAH DEIOPAH OF THE PLEIADES](https://x.com/Octillion111111) | **來源:** [Link](https://x.com/Octillion111111/status/2057566105393054058) | **發布時間:** May 21, 2026
+
+---
+### 廚房裡的俏皮愛戀氛圍
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個影片提示詞，描繪了一對情侶在廚房中，周圍環繞著漂浮的愛心與鈔票，營造出俏皮的氛圍。
+
+#### 📝 提示詞
+
+```
+一位穿著綠色上衣、有紋身的女性與一名男子在廚房裡深情微笑，周圍有鈔票和許多漂浮的愛心，充滿俏皮的愛戀氛圍。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/43e1ead2d76c388c2eb9f11106fa276e/thumbnails/thumbnail.jpg" width="600" alt="廚房裡的俏皮愛戀氛圍">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5129)**
+
+**作者:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **來源:** [Link](https://x.com/maggiejuang1/status/2057477179902988408) | **發布時間:** May 21, 2026
+
+---
+### 擁有白金髮色的吸血鬼女性
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個電影級的影片提示詞，描繪了一位美麗的吸血鬼女性，她擁有長長的白金金色頭髮與紅色雙眼，手持一朵黑玫瑰。
+
+#### 📝 提示詞
+
+```
+美麗的吸血鬼女性，擁有長長的白金金色頭髮與紅色雙眼，將一朵黑玫瑰抱在胸前
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/57ded65af302fe1d749690cfbc155af8/thumbnails/thumbnail.jpg" width="600" alt="擁有白金髮色的吸血鬼女性">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5128)**
+
+**作者:** [Benjamin Ferrarini](https://x.com/Granddragonben) | **來源:** [Link](https://x.com/Granddragonben/status/2057455897903804911) | **發布時間:** May 21, 2026
+
+---
+### 電梯時尚鏡像世界
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個風格化的影片提示詞，用於測試在電梯鏡像世界中柔和的動作與夢幻般的物理效果。
+
+#### 📝 提示詞
+
+```
+電梯時尚 • 鏡像世界 • Slider（測試柔和動作與夢幻物理效果）
+```
+
+<img src="https://cms-assets.youmind.com/media/1779438773089_01l2a5_HI2KbXAa8AEdUhJ.jpg" width="600" alt="電梯時尚鏡像世界">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5132)**
+
+**作者:** [sugarcane](https://x.com/sugarcanebkk) | **來源:** [Link](https://x.com/sugarcanebkk/status/2057452874289095060) | **發布時間:** May 21, 2026
+
+---
+### 彩色爆炸畫面比例重構
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 此提示詞旨在將充滿活力的噴發與爆炸動畫重構為 16:9 的電影級畫面比例，並將動作主體置於湛藍天空背景的中心。
+
+#### 📝 提示詞
+
+```
+重構為 16:9 畫面比例，將充滿活力的彩色噴發與爆炸置於湛藍天空背景的中心。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/885d22b1f8d2a523309867eaf667beec/thumbnails/thumbnail.jpg" width="600" alt="彩色爆炸畫面比例重構">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5133)**
+
+**作者:** [Dwaynemeiers](https://x.com/Dwaynemeiers) | **來源:** [Link](https://x.com/Dwaynemeiers/status/2057406674437357960) | **發布時間:** May 21, 2026
+
+---
+### 聖經引言鋼筆畫動畫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段透過電影級燈光效果呈現的動畫，描繪了一支鋼筆正在書寫關於審判與祖先罪孽的聖經引言。
+
+#### 📝 提示詞
+
+```
+讓鋼筆寫下「你已被審判，且被發現不足」（You have been judged and found wanting）……然後寫下關於亞當與夏娃的罪孽傳承至後代的聖經引言？透過光影的語言來呈現。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a1469bce60579a51c99496a4cc1dbc3c/thumbnails/thumbnail.jpg" width="600" alt="聖經引言鋼筆畫動畫">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5130)**
+
+**作者:** [Michael Bradley](https://x.com/MikeBradleySr2) | **來源:** [Link](https://x.com/MikeBradleySr2/status/2057385133187981793) | **發布時間:** May 21, 2026
+
+---
 ### Golden Dragon Tactical Mech
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2062,137 +2176,6 @@ POV：你誤打誤撞闖入了一場位於沙丘之上的未來感遊牧音樂�
 **作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **來源:** [Link](https://x.com/ThoughCreator/status/2055099462150988115) | **發布時間:** May 15, 2026
 
 ---
-### 马斯克父子 Are you OK 北京话短剧
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 一段写实新闻花絮风格的 Grok Imagine 短视频提示词：国际商务活动现场中，像马斯克的父亲牵着小儿子，用雷军式英文问 “Are you OK?”，孩子用北京话机智回应。
-
-#### 📝 提示詞
-
-```
-基于参考图生成一段写实短视频：庄重华丽的国际商务活动现场，大理石走廊、暖色灯光，远处有穿西装的人经过。一位像马斯克的父亲穿黑色西装，牵着穿中式蓝色小马甲的小儿子往前走。镜头像新闻花絮跟拍，真实自然，轻微手持感。
-
-视频开始时，父亲低头看着儿子，突然非常认真地用雷军经典英文口吻问他：“Are you OK?” 语气朴素、认真、带一点尴尬喜感。小男孩抬头看了他一眼，用地道北京话回应：“爸，您甭 OK 了，您这一下给我整不会了。” 父亲愣住。小男孩继续说：“您要真想问我，就说：没事儿吧您？这才像那么回事儿。” 父亲尴尬地笑了笑，孩子牵着他继续往前走。
-
-画面要求：父亲一定是朝儿子说 “Are you OK?”，不是对镜头说；孩子用北京话自然回应，语气像北京小孩儿嘴贫但不夸张。写实新闻现场感，父子互动温暖可爱，唇形尽量匹配对白。
-
-风格：真实、轻喜剧、亲子反差、北京话幽默。
-
-时长：8–10 秒。
-
-比例：9:16 或 16:9。
-
-避免：卡通化、鬼畜、夸张变脸、脸部崩坏、字幕乱码、嘴型严重不匹配。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bd7ae8d1de55c36c7636c0111d5aaaa0/thumbnails/thumbnail.jpg" width="600" alt="马斯克父子 Are you OK 北京话短剧">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4773)**
-
-**作者:** [Jared 宗源](https://x.com/jaredliu_bravo) | **來源:** [Link](https://x.com/jaredliu_bravo/status/2054913526922424497) | **發布時間:** May 14, 2026
-
----
-### 身穿賽博動力裝甲的機械馬騎士
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個為 Grok Imagine 設計的詳細提示詞，用於生成一段電影級科幻影片，內容為一名身穿霧面黑賽博動力裝甲的女性，騎著先進的生物機械馬穿梭於反烏托邦賽博龐克城市。
-
-#### 📝 提示詞
-
-```
-一段 6 秒的電影級、超寫實影片，採用頂級變形金剛科幻賽博龐克風格。一位美麗的年輕女性身穿流線型、細節豐富的霧面黑與槍灰色賽博動力裝甲，裝甲上有藍白色發光裝飾，她騎著一匹巨大的、高度先進的生物機械馬，穿梭於一座荒廢且廣闊的反烏托邦超級城市中。
-這匹機械馬是有機肌肉、活塞、電纜與重型裝甲板的精密結合體——具備次世代變形金剛等級的細節，包含可移動的面板與細微的發光能量線。女性表情嚴肅且專注，頭戴配有 HUD 護目鏡與氧氣面罩元件的戰術頭盔，深色頭髮在風中微微飄動。
-攝影機以戲劇性的低角度側前方追蹤鏡頭開始，隨著她們在充滿崩塌摩天大樓、懸掛電線、煙霧與飛舞餘燼的毀滅街道上強勁奔馳，攝影機緩緩環繞拍攝。機械馬的金屬馬蹄在地面擊出火花。動態的賽博龐克燈光效果，體積光穿透塵埃，霓虹燈倒映在潮濕的金屬表面，背景中有細微的全息廣告看板閃爍。
-超寫實細節，8K 照片級真實感，採用冷青色與暖橙色調的電影級調色，強烈的動態感，戲劇性的景深，細微的膠片顆粒感，使用 Arri Alexa 65 搭配變形鏡頭拍攝。高速運動，具備完美的解剖結構與機械真實感。長度 6 秒，流暢的 24fps 電影級動態。
-負面提示詞（建議）：
-模糊、變形、低畫質、卡通、動畫、多餘肢體、文字、浮水印、過度曝光、塑膠感皮膚、解剖結構錯誤、細節不足、平淡光影。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f9701c2cb9d34351bb27fffca481f5f1/thumbnails/thumbnail.jpg" width="600" alt="身穿賽博動力裝甲的機械馬騎士">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4863)**
-
-**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **來源:** [Link](https://x.com/ThoughCreator/status/2054897466357723390) | **發布時間:** May 14, 2026
-
----
-### 金星女性天堂星球
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個電影級的影片提示詞，描繪了一位身處天堂星球、散發著耀眼宇宙光芒的美麗女性。
-
-#### 📝 提示詞
-
-```
-美麗的金星女性，柔和的金色光芒，天堂星球風景，優雅飄逸的長裙，耀眼光環，寧靜的宇宙文明，超寫實奇幻肖像，電影級陽光
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e9d4a71d4ebda4919c89a8e86a7fe52/thumbnails/thumbnail.jpg" width="600" alt="金星女性天堂星球">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4769)**
-
-**作者:** [Narmina](https://x.com/narminamoon) | **來源:** [Link](https://x.com/narminamoon/status/2054588306747162627) | **發布時間:** May 13, 2026
-
----
-### 獵戶座女戰士科幻肖像
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個高細節的科幻提示詞，描繪了一位身穿未來感盔甲的女戰士，並結合了宇宙光影與電影級陰影效果。
-
-#### 📝 提示詞
-
-```
-強大的獵戶座女戰士，深色未來感盔甲，宇宙戰鬥氛圍，閃爍的紅藍光芒，強烈而神秘的凝視，超寫實科幻肖像，電影級陰影
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/49d505302c6916f63402bea08e8bcf76/thumbnails/thumbnail.jpg" width="600" alt="獵戶座女戰士科幻肖像">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4761)**
-
-**作者:** [Narmina](https://x.com/narminamoon) | **來源:** [Link](https://x.com/narminamoon/status/2054587951061844327) | **發布時間:** May 13, 2026
-
----
-### 空靈仙女座星際長袍
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個精細的科幻奇幻提示詞，描繪了一位擁有銀色肌膚、身著星際長袍，置身於宇宙宮殿中的空靈女子。
-
-#### 📝 提示詞
-
-```
-空靈的仙女座女子，銀色發光肌膚，飄逸白髮，星際宮殿，全息星星，優雅的宇宙長袍，超寫實科幻奇幻，神聖女性能量，電影級燈光，高度細節
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2e442ef2e4de86fa72c0a981b8e7869f/thumbnails/thumbnail.jpg" width="600" alt="空靈仙女座星際長袍">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4762)**
-
-**作者:** [Narmina](https://x.com/narminamoon) | **來源:** [Link](https://x.com/narminamoon/status/2054587169402974372) | **發布時間:** May 13, 2026
-
----
-### 藍皮膚外星女性埃及科幻風格
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個科幻影片提示詞，描繪了一位身處埃及宇宙背景下的藍皮膚外星女性。
-
-#### 📝 提示詞
-
-```
-藍皮膚天狼星外星女性，優雅的未來感服飾，埃及宇宙建築，星辰與金字塔，發光水晶，超寫實科幻肖像
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fe07cfea77ee3a490046f1d7281bc217/thumbnails/thumbnail.jpg" width="600" alt="藍皮膚外星女性埃及科幻風格">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4763)**
-
-**作者:** [Narmina](https://x.com/narminamoon) | **來源:** [Link](https://x.com/narminamoon/status/2054586816234131840) | **發布時間:** May 13, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2254,6 +2237,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-05-22T04:20:37.001Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-05-22T11:04:08.663Z</sub>
 
 </div>

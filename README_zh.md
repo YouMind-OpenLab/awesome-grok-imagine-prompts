@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **1603** |
+| 📝 提示词总数 | **1609** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-05-22** |
 
@@ -189,6 +189,120 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 环绕太空的未来感飞船
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个摄像机环绕深空中流线型飞船的提示词，背景为星云。
+
+#### 📝 提示词
+
+```
+摄像机在深空中围绕未来感飞船的外壳进行缓慢环绕运动，从不同角度展现其流线型船体和发光的舷窗，背景为星辰与星云。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/80bea774f89a41c3024c9c612ed737e6/thumbnails/thumbnail.jpg" width="600" alt="环绕太空的未来感飞船">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5131)**
+
+**作者:** [MIUZAH DEIOPAH OF THE PLEIADES](https://x.com/Octillion111111) | **来源:** [Link](https://x.com/Octillion111111/status/2057566105393054058) | **发布时间:** May 21, 2026
+
+---
+### 厨房里的俏皮爱意氛围
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个视频提示词，描绘了一对情侣在厨房中，周围环绕着漂浮的心形图案和钱币，营造出一种俏皮的氛围。
+
+#### 📝 提示词
+
+```
+一位身穿绿色上衣、有纹身的女性和一位面带深情微笑的男性在厨房中，周围有钱币和许多漂浮的心形图案，充满俏皮的爱意氛围。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/43e1ead2d76c388c2eb9f11106fa276e/thumbnails/thumbnail.jpg" width="600" alt="厨房里的俏皮爱意氛围">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5129)**
+
+**作者:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **来源:** [Link](https://x.com/maggiejuang1/status/2057477179902988408) | **发布时间:** May 21, 2026
+
+---
+### 拥有铂金色头发的吸血鬼女性
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段电影质感的视频提示词，描绘了一位拥有长款铂金色头发和红色眼睛、手持黑色玫瑰的美丽吸血鬼女性。
+
+#### 📝 提示词
+
+```
+一位拥有长款铂金色头发和红色眼睛的美丽吸血鬼女性，怀中抱着一朵黑色玫瑰
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/57ded65af302fe1d749690cfbc155af8/thumbnails/thumbnail.jpg" width="600" alt="拥有铂金色头发的吸血鬼女性">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5128)**
+
+**作者:** [Benjamin Ferrarini](https://x.com/Granddragonben) | **来源:** [Link](https://x.com/Granddragonben/status/2057455897903804911) | **发布时间:** May 21, 2026
+
+---
+### 电梯时尚镜面世界
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个风格化的视频提示词，旨在测试电梯镜面世界中柔和的运动感与梦幻般的物理效果。
+
+#### 📝 提示词
+
+```
+电梯时尚 • 镜面世界 • Slider（测试柔和运动与梦幻物理效果）
+```
+
+<img src="https://cms-assets.youmind.com/media/1779438773089_01l2a5_HI2KbXAa8AEdUhJ.jpg" width="600" alt="电梯时尚镜面世界">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5132)**
+
+**作者:** [sugarcane](https://x.com/sugarcanebkk) | **来源:** [Link](https://x.com/sugarcanebkk/status/2057452874289095060) | **发布时间:** May 21, 2026
+
+---
+### 炫彩爆炸画面比例重构
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 此提示词旨在将充满活力的喷发与爆炸动画重构为 16:9 的电影级画面比例，并将动作主体置于湛蓝天空的中心位置。
+
+#### 📝 提示词
+
+```
+重构为 16:9 画面比例，将充满活力的炫彩喷发与爆炸置于湛蓝天空的中心。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/885d22b1f8d2a523309867eaf667beec/thumbnails/thumbnail.jpg" width="600" alt="炫彩爆炸画面比例重构">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5133)**
+
+**作者:** [Dwaynemeiers](https://x.com/Dwaynemeiers) | **来源:** [Link](https://x.com/Dwaynemeiers/status/2057406674437357960) | **发布时间:** May 21, 2026
+
+---
+### 圣经引语钢笔画动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段通过电影级光影效果呈现的动画，描绘了一支钢笔书写关于审判与原罪的圣经引语。
+
+#### 📝 提示词
+
+```
+让钢笔写下“你已受审，且被发现有所欠缺”这句话……然后写下圣经中关于亚当和夏娃的罪孽代代相传的引语？通过光影的语言来呈现。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a1469bce60579a51c99496a4cc1dbc3c/thumbnails/thumbnail.jpg" width="600" alt="圣经引语钢笔画动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5130)**
+
+**作者:** [Michael Bradley](https://x.com/MikeBradleySr2) | **来源:** [Link](https://x.com/MikeBradleySr2/status/2057385133187981793) | **发布时间:** May 21, 2026
+
+---
 ### Golden Dragon Tactical Mech
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2062,137 +2176,6 @@ POV：你偶然闯入了一场位于沙丘之上的未来主义游牧节日。�
 **作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **来源:** [Link](https://x.com/ThoughCreator/status/2055099462150988115) | **发布时间:** May 15, 2026
 
 ---
-### 马斯克父子 Are you OK 北京话短剧
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 一段写实新闻花絮风格的 Grok Imagine 短视频提示词：国际商务活动现场中，像马斯克的父亲牵着小儿子，用雷军式英文问 “Are you OK?”，孩子用北京话机智回应。
-
-#### 📝 提示词
-
-```
-基于参考图生成一段写实短视频：庄重华丽的国际商务活动现场，大理石走廊、暖色灯光，远处有穿西装的人经过。一位像马斯克的父亲穿黑色西装，牵着穿中式蓝色小马甲的小儿子往前走。镜头像新闻花絮跟拍，真实自然，轻微手持感。
-
-视频开始时，父亲低头看着儿子，突然非常认真地用雷军经典英文口吻问他：“Are you OK?” 语气朴素、认真、带一点尴尬喜感。小男孩抬头看了他一眼，用地道北京话回应：“爸，您甭 OK 了，您这一下给我整不会了。” 父亲愣住。小男孩继续说：“您要真想问我，就说：没事儿吧您？这才像那么回事儿。” 父亲尴尬地笑了笑，孩子牵着他继续往前走。
-
-画面要求：父亲一定是朝儿子说 “Are you OK?”，不是对镜头说；孩子用北京话自然回应，语气像北京小孩儿嘴贫但不夸张。写实新闻现场感，父子互动温暖可爱，唇形尽量匹配对白。
-
-风格：真实、轻喜剧、亲子反差、北京话幽默。
-
-时长：8–10 秒。
-
-比例：9:16 或 16:9。
-
-避免：卡通化、鬼畜、夸张变脸、脸部崩坏、字幕乱码、嘴型严重不匹配。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bd7ae8d1de55c36c7636c0111d5aaaa0/thumbnails/thumbnail.jpg" width="600" alt="马斯克父子 Are you OK 北京话短剧">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4773)**
-
-**作者:** [Jared 宗源](https://x.com/jaredliu_bravo) | **来源:** [Link](https://x.com/jaredliu_bravo/status/2054913526922424497) | **发布时间:** May 14, 2026
-
----
-### 身着赛博动力装甲的机械马骑士
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个详细的 Grok Imagine 提示词，用于创作一部电影级科幻视频：一位身着哑光黑赛博动力装甲的女性，骑着先进的生物机械马穿过反乌托邦赛博朋克城市。
-
-#### 📝 提示词
-
-```
-一段 6 秒的电影级、超写实视频，采用顶尖的《变形金刚》科幻赛博朋克风格。一位美丽的年轻女性身着线条流畅、细节丰富的哑光黑与枪灰色赛博动力装甲，装甲带有蓝白色发光点缀，她骑着一匹巨大的超先进生物机械马，穿过一座废墟遍地的反乌托邦大都市。
-这匹机械马是生物肌肉、活塞、线缆与重型装甲板的复杂融合体——具备《变形金刚》级别的细节，拥有可移动的面板和细微的发光能量线。女子表情严肃且专注，佩戴着带有 HUD 目镜和氧气面罩组件的战术头盔，深色长发在风中微微飘动。
-镜头以戏剧性的低角度侧前方追踪拍摄开始，随着他们在大街上强力驰骋，镜头缓慢环绕。街道两侧是坍塌的摩天大楼、悬挂的电线、烟雾和飞舞的余烬。机械马的金属蹄在地面上激起火花。动态的赛博朋克光影，体积光穿透尘埃，霓虹灯倒映在潮湿的金属表面，背景中闪烁着细微的全息广告牌。
-超写实细节，8K 摄影质感，电影级调色，冷青色与暖橙色调，强烈的运动感，戏剧性的景深，细微的胶片颗粒感，使用 Arri Alexa 65 搭配变形镜头拍摄。高速运动，完美的解剖结构与机械真实感。时长 6 秒，流畅的 24fps 电影级动态。
-负面提示词（推荐）：
-模糊、畸形、低质量、卡通、动漫、多余肢体、文字、水印、曝光过度、塑料质感皮肤、解剖结构错误、低细节、平淡光影。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f9701c2cb9d34351bb27fffca481f5f1/thumbnails/thumbnail.jpg" width="600" alt="身着赛博动力装甲的机械马骑士">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4863)**
-
-**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **来源:** [Link](https://x.com/ThoughCreator/status/2054897466357723390) | **发布时间:** May 14, 2026
-
----
-### 金星女性天堂星球
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个关于天堂星球上的美丽女性的电影级视频提示词，带有璀璨的宇宙光环。
-
-#### 📝 提示词
-
-```
-美丽的金星女性，柔和的金光，天堂星球风景，优雅的飘逸长裙，璀璨光环，宁静的宇宙文明，超写实奇幻肖像，电影级阳光
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e9d4a71d4ebda4919c89a8e86a7fe52/thumbnails/thumbnail.jpg" width="600" alt="金星女性天堂星球">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4769)**
-
-**作者:** [Narmina](https://x.com/narminamoon) | **来源:** [Link](https://x.com/narminamoon/status/2054588306747162627) | **发布时间:** May 13, 2026
-
----
-### 猎户座女战士科幻肖像
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个高细节的科幻提示词，描绘了身着未来感盔甲、伴有宇宙光影和电影级阴影的女战士。
-
-#### 📝 提示词
-
-```
-强大的猎户座女战士，深色未来感盔甲，宇宙战斗氛围，红蓝交织的荧光，坚毅而神秘的目光，超写实科幻肖像，电影级阴影
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/49d505302c6916f63402bea08e8bcf76/thumbnails/thumbnail.jpg" width="600" alt="猎户座女战士科幻肖像">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4761)**
-
-**作者:** [Narmina](https://x.com/narminamoon) | **来源:** [Link](https://x.com/narminamoon/status/2054587951061844327) | **发布时间:** May 13, 2026
-
----
-### 空灵仙女座星际长袍
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是一段详尽的科幻奇幻风格提示词，描绘了一位身着星际长袍、拥有银色皮肤的空灵女性，置身于宇宙宫殿之中。
-
-#### 📝 提示词
-
-```
-空灵的仙女座女性，银色发光皮肤，长白发，星际宫殿，全息星星，优雅的宇宙长袍，超写实科幻奇幻，神圣的女性能量，电影级灯光，高度细节化
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2e442ef2e4de86fa72c0a981b8e7869f/thumbnails/thumbnail.jpg" width="600" alt="空灵仙女座星际长袍">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4762)**
-
-**作者:** [Narmina](https://x.com/narminamoon) | **来源:** [Link](https://x.com/narminamoon/status/2054587169402974372) | **发布时间:** May 13, 2026
-
----
-### 蓝色外星女性埃及科幻风格
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个科幻视频提示词，展示了在宇宙埃及背景下的一位蓝色皮肤外星女性。
-
-#### 📝 提示词
-
-```
-蓝色皮肤的天狼星外星女性，优雅的未来感服饰，埃及宇宙建筑，星辰与金字塔，发光水晶，超写实科幻肖像
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fe07cfea77ee3a490046f1d7281bc217/thumbnails/thumbnail.jpg" width="600" alt="蓝色外星女性埃及科幻风格">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4763)**
-
-**作者:** [Narmina](https://x.com/narminamoon) | **来源:** [Link](https://x.com/narminamoon/status/2054586816234131840) | **发布时间:** May 13, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2254,6 +2237,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-05-22T04:20:35.529Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-05-22T11:04:06.801Z</sub>
 
 </div>

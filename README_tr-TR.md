@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1603** |
+| 📝 Total Prompts | **1609** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-22** |
 
@@ -189,6 +189,120 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Uzayda Yörüngede Dönen Fütüristik Uzay Gemisi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Derin uzayda, bulutsu arka planlarıyla şık bir uzay gemisinin etrafında dönen bir kamera hareketi istemi.
+
+#### 📝 Prompt
+
+```
+Derin uzaydaki fütüristik uzay gemisinin dış yüzeyi etrafında yavaşça dönen kamera hareketi; geminin şık gövdesini ve parlayan pencerelerini farklı açılardan gözler önüne sererken, arka planda yıldızlar ve bulutsular yer alıyor.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/80bea774f89a41c3024c9c612ed737e6/thumbnails/thumbnail.jpg" width="600" alt="Uzayda Yörüngede Dönen Fütüristik Uzay Gemisi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5131)**
+
+**Author:** [MIUZAH DEIOPAH OF THE PLEIADES](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2057566105393054058) | **Published:** May 21, 2026
+
+---
+### Mutfakta Eğlenceli Aşk Havası
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mutfakta etrafı uçuşan kalpler ve paralarla çevrili, eğlenceli bir atmosfer yaratan bir çifti betimleyen video istemi.
+
+#### 📝 Prompt
+
+```
+Yeşil üst giymiş dövmeli bir kadın ve mutfakta sevgiyle gülümseyen bir adam, etrafta paralar ve çok sayıda uçuşan kalp, eğlenceli aşk havası.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/43e1ead2d76c388c2eb9f11106fa276e/thumbnails/thumbnail.jpg" width="600" alt="Mutfakta Eğlenceli Aşk Havası">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5129)**
+
+**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2057477179902988408) | **Published:** May 21, 2026
+
+---
+### Platin Saçlı Vampir Kadın
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Uzun platin sarısı saçlı, kırmızı gözlü ve elinde siyah bir gül tutan güzel bir vampir kadını konu alan sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Uzun platin sarısı saçlı ve kırmızı gözlü, göğsünde siyah bir gül tutan güzel vampir kadın
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/57ded65af302fe1d749690cfbc155af8/thumbnails/thumbnail.jpg" width="600" alt="Platin Saçlı Vampir Kadın">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5128)**
+
+**Author:** [Benjamin Ferrarini](https://x.com/Granddragonben) | **Source:** [Link](https://x.com/Granddragonben/status/2057455897903804911) | **Published:** May 21, 2026
+
+---
+### Asansör Moda Ayna Dünyası
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Asansör ayna dünyasında yumuşak hareketleri ve rüya gibi fiziği test eden stilize bir video istemi.
+
+#### 📝 Prompt
+
+```
+Asansör modası • Ayna dünyası • Slides (yumuşak hareket ve rüya gibi fizik testi)
+```
+
+<img src="https://cms-assets.youmind.com/media/1779438773089_01l2a5_HI2KbXAa8AEdUhJ.jpg" width="600" alt="Asansör Moda Ayna Dünyası">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5132)**
+
+**Author:** [sugarcane](https://x.com/sugarcanebkk) | **Source:** [Link](https://x.com/sugarcanebkk/status/2057452874289095060) | **Published:** May 21, 2026
+
+---
+### Renkli Patlama En Boy Oranı Yeniden Çerçeveleme
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Canlı bir patlama ve infilak animasyonunu 16:9 sinematik en boy oranına göre yeniden çerçevelemek, aksiyonu masmavi bir gökyüzüne karşı ortalamak için tasarlanmış bir komut.
+
+#### 📝 Prompt
+
+```
+16:9 en boy oranına yeniden çerçeveleyin, canlı renkli patlamayı ve infilakı masmavi gökyüzüne karşı ortalayın.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/885d22b1f8d2a523309867eaf667beec/thumbnails/thumbnail.jpg" width="600" alt="Renkli Patlama En Boy Oranı Yeniden Çerçeveleme">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5133)**
+
+**Author:** [Dwaynemeiers](https://x.com/Dwaynemeiers) | **Source:** [Link](https://x.com/Dwaynemeiers/status/2057406674437357960) | **Published:** May 21, 2026
+
+---
+### İncil'den alıntı kalem çizimi animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sinematik bir aydınlatma ile aktarılan, yargı ve ataların günahı hakkındaki bir İncil alıntısını çizen bir kalem animasyonu.
+
+#### 📝 Prompt
+
+```
+Kalemin “Yargılandın ve eksik bulundun” sözünü çizmesini sağla… ve ardından İncil'den Adem ile Havva'nın günahının gelecek nesillere aktarılmasıyla ilgili alıntıyı ekle? Işığın diliyle
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a1469bce60579a51c99496a4cc1dbc3c/thumbnails/thumbnail.jpg" width="600" alt="İncil'den alıntı kalem çizimi animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5130)**
+
+**Author:** [Michael Bradley](https://x.com/MikeBradleySr2) | **Source:** [Link](https://x.com/MikeBradleySr2/status/2057385133187981793) | **Published:** May 21, 2026
+
+---
 ### Golden Dragon Tactical Mech
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2062,137 +2176,6 @@ Derin siyahlar, canlı neon camgöbeği, macenta ve kırmızı vurgular ile dram
 **Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2055099462150988115) | **Published:** May 15, 2026
 
 ---
-### 马斯克父子 Are you OK 北京话短剧
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 一段写实新闻花絮风格的 Grok Imagine 短视频提示词：国际商务活动现场中，像马斯克的父亲牵着小儿子，用雷军式英文问 “Are you OK?”，孩子用北京话机智回应。
-
-#### 📝 Prompt
-
-```
-基于参考图生成一段写实短视频：庄重华丽的国际商务活动现场，大理石走廊、暖色灯光，远处有穿西装的人经过。一位像马斯克的父亲穿黑色西装，牵着穿中式蓝色小马甲的小儿子往前走。镜头像新闻花絮跟拍，真实自然，轻微手持感。
-
-视频开始时，父亲低头看着儿子，突然非常认真地用雷军经典英文口吻问他：“Are you OK?” 语气朴素、认真、带一点尴尬喜感。小男孩抬头看了他一眼，用地道北京话回应：“爸，您甭 OK 了，您这一下给我整不会了。” 父亲愣住。小男孩继续说：“您要真想问我，就说：没事儿吧您？这才像那么回事儿。” 父亲尴尬地笑了笑，孩子牵着他继续往前走。
-
-画面要求：父亲一定是朝儿子说 “Are you OK?”，不是对镜头说；孩子用北京话自然回应，语气像北京小孩儿嘴贫但不夸张。写实新闻现场感，父子互动温暖可爱，唇形尽量匹配对白。
-
-风格：真实、轻喜剧、亲子反差、北京话幽默。
-
-时长：8–10 秒。
-
-比例：9:16 或 16:9。
-
-避免：卡通化、鬼畜、夸张变脸、脸部崩坏、字幕乱码、嘴型严重不匹配。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bd7ae8d1de55c36c7636c0111d5aaaa0/thumbnails/thumbnail.jpg" width="600" alt="马斯克父子 Are you OK 北京话短剧">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4773)**
-
-**Author:** [Jared 宗源](https://x.com/jaredliu_bravo) | **Source:** [Link](https://x.com/jaredliu_bravo/status/2054913526922424497) | **Published:** May 14, 2026
-
----
-### Robotik At Üzerinde Sibernetik Güç Zırhlı Sürücü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Distopik bir siberpunk şehrinde gelişmiş biyomekanik bir robotik ata binen, mat siyah sibernetik zırhlı bir kadını konu alan sinematik bilim kurgu videosu için ayrıntılı bir Grok Imagine istemi.
-
-#### 📝 Prompt
-
-```
-Üst düzey Transformers bilim kurgu siberpunk tarzında 6 saniyelik sinematik, ultra gerçekçi bir video. Parlak mavi-beyaz vurgulara sahip, şık, son derece detaylı mat siyah ve tunç rengi sibernetik güç zırhı içindeki güzel genç bir kadın, harabe halindeki geniş, distopik bir mega şehirde devasa, hiper gelişmiş biyomekanik bir robotik ata biniyor.
-Mekanik at; organik kaslar, pistonlar, kablolar ve ağır zırh plakalarının karmaşık bir birleşimi; hareketli panelleri ve hafifçe parlayan enerji hatlarıyla yeni nesil Transformer seviyesinde detaylara sahip. Kadının ciddi ve odaklanmış bir ifadesi var, HUD vizörlü ve oksijen maskesi parçalı taktiksel bir kask takıyor, koyu renkli saçları rüzgarda hafifçe dalgalanıyor.
-Kamera, yandan öne doğru dramatik bir düşük açılı takip çekimiyle başlıyor ve yıkılmış gökdelenler, sarkan kablolar, duman ve uçuşan közlerle dolu harap sokaklarda güçlü bir şekilde dörtnala ilerlerken yavaşça etraflarında dönüyor. Atın metalik toynakları yere çarptığında kıvılcımlar çıkıyor. Tozun içinden geçen hacimsel ışık hüzmeleri, ıslak metal yüzeylerde neon yansımalar ve arka planda hafifçe titreyen holografik reklam panoları ile dinamik siberpunk aydınlatması.
-Ultra gerçekçi detaylar, 8K fotogerçekçilik, soğuk turkuaz ve sıcak turuncu tonlarıyla sinematik renk derecelendirmesi, yoğun hareket, dramatik alan derinliği, hafif film greni, Arri Alexa 65 + anamorfik lenslerle çekilmiş. Kusursuz anatomi ve mekanik gerçekçilikle yüksek hızlı hareket. 6 saniye süre, akıcı 24fps sinematik hareket.
-Negatif istem (önerilen):
-bulanık, deforme olmuş, düşük kalite, çizgi film, anime, fazladan uzuvlar, metin, filigran, aşırı pozlanmış, plastik cilt, kötü anatomi, düşük detay, düz aydınlatma.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f9701c2cb9d34351bb27fffca481f5f1/thumbnails/thumbnail.jpg" width="600" alt="Robotik At Üzerinde Sibernetik Güç Zırhlı Sürücü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4863)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2054897466357723390) | **Published:** May 14, 2026
-
----
-### Venüs Kadını Cennet Gezegeni
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Işıltılı bir kozmik auraya sahip, cennet gibi bir gezegendeki güzel bir kadın için sinematik video istemi.
-
-#### 📝 Prompt
-
-```
-Güzel Venüs kadını, yumuşak altın rengi parıltı, cennet gezegen manzarası, zarif dökümlü elbise, ışıldayan aura, huzurlu kozmik medeniyet, ultra gerçekçi fantastik portre, sinematik gün ışığı
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e9d4a71d4ebda4919c89a8e86a7fe52/thumbnails/thumbnail.jpg" width="600" alt="Venüs Kadını Cennet Gezegeni">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4769)**
-
-**Author:** [Narmina](https://x.com/narminamoon) | **Source:** [Link](https://x.com/narminamoon/status/2054588306747162627) | **Published:** May 13, 2026
-
----
-### Orion Savaşçı Kadın Bilim Kurgu Portresi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Fütüristik zırhlı, kozmik ışıklandırmalı ve sinematik gölgeli bir savaşçı kadın için yüksek detaylı bilim kurgu istemi.
-
-#### 📝 Prompt
-
-```
-Güçlü orion savaşçı kadın, karanlık fütüristik zırh, kozmik savaş atmosferi, parlayan kırmızı ve mavi ışıklar, güçlü mistik bakışlar, ultra gerçekçi bilim kurgu portresi, sinematik gölgeler
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/49d505302c6916f63402bea08e8bcf76/thumbnails/thumbnail.jpg" width="600" alt="Orion Savaşçı Kadın Bilim Kurgu Portresi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4761)**
-
-**Author:** [Narmina](https://x.com/narminamoon) | **Source:** [Link](https://x.com/narminamoon/status/2054587951061844327) | **Published:** May 13, 2026
-
----
-### Ethereal Andromedan Celestial Robe
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kozmik bir sarayda, gümüş rengi teni ve göksel cübbeleriyle ruhani bir kadın için detaylı bir bilim kurgu fantezi istemi.
-
-#### 📝 Prompt
-
-```
-Ruhani Andromedalı kadın, gümüş parıltılı ten, uzun beyaz saç, göksel saray, holografik yıldızlar, zarif kozmik cübbe, ultra gerçekçi bilim kurgu fantezi, ilahi dişil enerji, sinematik aydınlatma, yüksek detaylı
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2e442ef2e4de86fa72c0a981b8e7869f/thumbnails/thumbnail.jpg" width="600" alt="Ethereal Andromedan Celestial Robe">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4762)**
-
-**Author:** [Narmina](https://x.com/narminamoon) | **Source:** [Link](https://x.com/narminamoon/status/2054587169402974372) | **Published:** May 13, 2026
-
----
-### Mavi Uzaylı Kadın Mısırlı Bilim Kurgu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kozmik bir Mısır ortamında mavi tenli bir uzaylı kadını konu alan bilim kurgu video istemi.
-
-#### 📝 Prompt
-
-```
-Mavi tenli Sirius uzaylı kadını, zarif fütüristik kıyafetler, Mısır kozmik mimarisi, yıldızlar ve piramitler, parlayan kristal, ultra gerçekçi bilim kurgu portresi
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fe07cfea77ee3a490046f1d7281bc217/thumbnails/thumbnail.jpg" width="600" alt="Mavi Uzaylı Kadın Mısırlı Bilim Kurgu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4763)**
-
-**Author:** [Narmina](https://x.com/narminamoon) | **Source:** [Link](https://x.com/narminamoon/status/2054586816234131840) | **Published:** May 13, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2254,6 +2237,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-22T04:20:54.165Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-22T11:04:23.910Z</sub>
 
 </div>

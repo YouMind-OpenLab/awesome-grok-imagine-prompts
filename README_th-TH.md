@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1603** |
+| 📝 Total Prompts | **1609** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-22** |
 
@@ -189,6 +189,120 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### ยานอวกาศแห่งอนาคตที่กำลังโคจรรอบอวกาศ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง (prompt) สำหรับการเคลื่อนที่ของกล้องที่โคจรรอบยานอวกาศรูปทรงโฉบเฉี่ยวในห้วงอวกาศลึก โดยมีฉากหลังเป็นเนบิวลา
+
+#### 📝 Prompt
+
+```
+การเคลื่อนที่ของกล้องแบบโคจรช้าๆ รอบภายนอกของยานอวกาศแห่งอนาคตในห้วงอวกาศลึก เผยให้เห็นตัวยานที่โฉบเฉี่ยวและหน้าต่างที่ส่องแสงจากมุมต่างๆ โดยมีดวงดาวและเนบิวลาเป็นฉากหลัง
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/80bea774f89a41c3024c9c612ed737e6/thumbnails/thumbnail.jpg" width="600" alt="ยานอวกาศแห่งอนาคตที่กำลังโคจรรอบอวกาศ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5131)**
+
+**Author:** [MIUZAH DEIOPAH OF THE PLEIADES](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2057566105393054058) | **Published:** May 21, 2026
+
+---
+### บรรยากาศความรักสุดหยอกล้อในห้องครัว
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์ที่แสดงภาพคู่รักในห้องครัว ท่ามกลางเงินและหัวใจที่ลอยฟุ้ง สร้างบรรยากาศที่ดูสนุกสนานและขี้เล่น
+
+#### 📝 Prompt
+
+```
+หญิงสาวที่มีรอยสักในชุดสีเขียวและชายหนุ่มที่กำลังยิ้มให้กันอย่างรักใคร่ในห้องครัว ท่ามกลางเงินและหัวใจจำนวนมากที่ลอยอยู่รอบตัว ให้บรรยากาศความรักที่ดูสนุกสนานและขี้เล่น
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/43e1ead2d76c388c2eb9f11106fa276e/thumbnails/thumbnail.jpg" width="600" alt="บรรยากาศความรักสุดหยอกล้อในห้องครัว">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5129)**
+
+**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2057477179902988408) | **Published:** May 21, 2026
+
+---
+### แวมไพร์สาวผมสีบลอนด์แพลทินัม
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวภาพยนตร์ที่นำเสนอแวมไพร์สาวสวยที่มีผมยาวสีบลอนด์แพลทินัมและดวงตาสีแดง กำลังถือดอกกุหลาบสีดำ
+
+#### 📝 Prompt
+
+```
+แวมไพร์สาวสวยผมยาวสีบลอนด์แพลทินัมและดวงตาสีแดง กำลังถือดอกกุหลาบสีดำไว้ที่หน้าอก
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/57ded65af302fe1d749690cfbc155af8/thumbnails/thumbnail.jpg" width="600" alt="แวมไพร์สาวผมสีบลอนด์แพลทินัม">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5128)**
+
+**Author:** [Benjamin Ferrarini](https://x.com/Granddragonben) | **Source:** [Link](https://x.com/Granddragonben/status/2057455897903804911) | **Published:** May 21, 2026
+
+---
+### โลกกระจกแฟชั่นในลิฟต์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์ที่มีสไตล์ ทดสอบการเคลื่อนไหวที่นุ่มนวลและฟิสิกส์แบบชวนฝันภายในโลกกระจกในลิฟต์
+
+#### 📝 Prompt
+
+```
+แฟชั่นในลิฟต์ • โลกกระจก • Slides (ทดสอบการเคลื่อนไหวที่นุ่มนวลและฟิสิกส์แบบชวนฝัน)
+```
+
+<img src="https://cms-assets.youmind.com/media/1779438773089_01l2a5_HI2KbXAa8AEdUhJ.jpg" width="600" alt="โลกกระจกแฟชั่นในลิฟต์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5132)**
+
+**Author:** [sugarcane](https://x.com/sugarcanebkk) | **Source:** [Link](https://x.com/sugarcanebkk/status/2057452874289095060) | **Published:** May 21, 2026
+
+---
+### การปรับสัดส่วนภาพ Colorful Explosion
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์ที่ออกแบบมาเพื่อปรับสัดส่วนภาพแอนิเมชันการระเบิดที่มีสีสันสดใสให้เป็นสัดส่วนภาพแบบภาพยนตร์ 16:9 โดยเน้นจุดศูนย์กลางของเหตุการณ์ให้ตัดกับท้องฟ้าสีครามที่สดใส
+
+#### 📝 Prompt
+
+```
+ปรับสัดส่วนภาพเป็น 16:9 โดยจัดวางการระเบิดที่มีสีสันสดใสไว้ที่กึ่งกลางภาพตัดกับท้องฟ้าสีคราม
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/885d22b1f8d2a523309867eaf667beec/thumbnails/thumbnail.jpg" width="600" alt="การปรับสัดส่วนภาพ Colorful Explosion">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5133)**
+
+**Author:** [Dwaynemeiers](https://x.com/Dwaynemeiers) | **Source:** [Link](https://x.com/Dwaynemeiers/status/2057406674437357960) | **Published:** May 21, 2026
+
+---
+### แอนิเมชันลายเส้นปากกาวาดข้อความจากคัมภีร์ไบเบิล
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> แอนิเมชันแสดงภาพปากกากำลังวาดข้อความจากคัมภีร์ไบเบิลเกี่ยวกับเรื่องการพิพากษาและบาปจากบรรพบุรุษ โดยถ่ายทอดผ่านการจัดแสงในรูปแบบภาพยนตร์
+
+#### 📝 Prompt
+
+```
+ให้ปากกาวาดข้อความที่ว่า “เจ้าถูกตัดสินแล้วและพบว่ายังบกพร่อง” … จากนั้นตามด้วยข้อความจากคัมภีร์ไบเบิลเกี่ยวกับบาปของอาดัมและเอวาที่ส่งต่อมายังคนรุ่นหลัง โดยถ่ายทอดผ่านภาษาของแสง
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a1469bce60579a51c99496a4cc1dbc3c/thumbnails/thumbnail.jpg" width="600" alt="แอนิเมชันลายเส้นปากกาวาดข้อความจากคัมภีร์ไบเบิล">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5130)**
+
+**Author:** [Michael Bradley](https://x.com/MikeBradleySr2) | **Source:** [Link](https://x.com/MikeBradleySr2/status/2057385133187981793) | **Published:** May 21, 2026
+
+---
 ### Golden Dragon Tactical Mech
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2062,137 +2176,6 @@ POV: คุณเพิ่งหลงเข้ามาในเทศกาล
 **Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2055099462150988115) | **Published:** May 15, 2026
 
 ---
-### 马斯克父子 Are you OK 北京话短剧
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 一段写实新闻花絮风格的 Grok Imagine 短视频提示词：国际商务活动现场中，像马斯克的父亲牵着小儿子，用雷军式英文问 “Are you OK?”，孩子用北京话机智回应。
-
-#### 📝 Prompt
-
-```
-基于参考图生成一段写实短视频：庄重华丽的国际商务活动现场，大理石走廊、暖色灯光，远处有穿西装的人经过。一位像马斯克的父亲穿黑色西装，牵着穿中式蓝色小马甲的小儿子往前走。镜头像新闻花絮跟拍，真实自然，轻微手持感。
-
-视频开始时，父亲低头看着儿子，突然非常认真地用雷军经典英文口吻问他：“Are you OK?” 语气朴素、认真、带一点尴尬喜感。小男孩抬头看了他一眼，用地道北京话回应：“爸，您甭 OK 了，您这一下给我整不会了。” 父亲愣住。小男孩继续说：“您要真想问我，就说：没事儿吧您？这才像那么回事儿。” 父亲尴尬地笑了笑，孩子牵着他继续往前走。
-
-画面要求：父亲一定是朝儿子说 “Are you OK?”，不是对镜头说；孩子用北京话自然回应，语气像北京小孩儿嘴贫但不夸张。写实新闻现场感，父子互动温暖可爱，唇形尽量匹配对白。
-
-风格：真实、轻喜剧、亲子反差、北京话幽默。
-
-时长：8–10 秒。
-
-比例：9:16 或 16:9。
-
-避免：卡通化、鬼畜、夸张变脸、脸部崩坏、字幕乱码、嘴型严重不匹配。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bd7ae8d1de55c36c7636c0111d5aaaa0/thumbnails/thumbnail.jpg" width="600" alt="马斯克父子 Are you OK 北京话短剧">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4773)**
-
-**Author:** [Jared 宗源](https://x.com/jaredliu_bravo) | **Source:** [Link](https://x.com/jaredliu_bravo/status/2054913526922424497) | **Published:** May 14, 2026
-
----
-### นักรบในชุดเกราะไซเบอร์เนติกขี่ม้าหุ่นยนต์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) สำหรับ Grok Imagine เพื่อสร้างวิดีโอแนวไซไฟระดับภาพยนตร์ ที่มีหญิงสาวในชุดเกราะไซเบอร์เนติกสีดำด้านขี่ม้าหุ่นยนต์ชีวกลไกสุดล้ำผ่านเมืองไซเบอร์พังค์ที่ล่มสลาย
-
-#### 📝 Prompt
-
-```
-วิดีโอแนวภาพยนตร์ความยาว 6 วินาที ที่มีความสมจริงระดับสูงสุดในสไตล์ไซไฟไซเบอร์พังค์แบบ Transformers หญิงสาวสวยในชุดเกราะไซเบอร์เนติกสีดำด้านและสีกันเมทัลที่มีรายละเอียดสูง พร้อมแสงสีฟ้าขาวสว่างไสว กำลังขี่ม้าหุ่นยนต์ชีวกลไกสุดล้ำขนาดใหญ่ผ่านมหานครที่ล่มสลายและกว้างใหญ่
-ม้าจักรกลเป็นส่วนผสมที่ซับซ้อนของกล้ามเนื้ออินทรีย์ ลูกสูบ สายเคเบิล และแผ่นเกราะหนา ซึ่งมีรายละเอียดระดับ Transformer ยุคใหม่ พร้อมแผ่นเกราะที่ขยับได้และเส้นพลังงานที่เรืองแสงจางๆ หญิงสาวมีสีหน้าจริงจังและมุ่งมั่น สวมหมวกยุทธวิธีที่มีหน้ากาก HUD และส่วนประกอบของหน้ากากออกซิเจน ผมสีเข้มของเธอปลิวไสวเล็กน้อยตามแรงลม
-กล้องเริ่มต้นด้วยมุมต่ำแบบติดตามจากด้านข้างค่อนไปทางด้านหน้า ค่อยๆ เคลื่อนที่เป็นวงกลมรอบตัวพวกเขาขณะที่พวกเขากำลังควบม้าอย่างทรงพลังผ่านถนนที่พังทลายซึ่งเต็มไปด้วยตึกระฟ้าที่ปรักหักพัง สายไฟที่ห้อยระย้า ควัน และประกายไฟที่ลอยอยู่ในอากาศ กีบเท้าโลหะของม้ากระทบพื้นจนเกิดประกายไฟ แสงสีแบบไซเบอร์พังค์ที่ดูมีมิติด้วยลำแสงที่ส่องผ่านฝุ่นละออง การสะท้อนของแสงนีออนบนพื้นผิวโลหะที่เปียกชื้น และป้ายโฆษณาโฮโลแกรมที่กะพริบอยู่เบื้องหลัง
-รายละเอียดสมจริงระดับอัลตร้า 8K การปรับสีแบบภาพยนตร์ด้วยโทนสีฟ้าอมเขียวและส้มอบอุ่น การเคลื่อนไหวที่เข้มข้น ระยะชัดลึกที่น่าทึ่ง เกรนฟิล์มที่ละเอียด ถ่ายทำด้วยกล้อง Arri Alexa 65 และเลนส์อะนามอร์ฟิก การเคลื่อนไหวความเร็วสูงพร้อมกายวิภาคที่สมบูรณ์แบบและความสมจริงของเครื่องจักร ความยาว 6 วินาที การเคลื่อนไหวแบบภาพยนตร์ที่ลื่นไหลที่ 24fps
-คำสั่งเชิงลบ (แนะนำ):
-เบลอ, ผิดรูป, คุณภาพต่ำ, การ์ตูน, อะนิเมะ, แขนขาเกิน, ข้อความ, ลายน้ำ, แสงจ้าเกินไป, ผิวพลาสติก, กายวิภาคผิดปกติ, รายละเอียดต่ำ, แสงแบน
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f9701c2cb9d34351bb27fffca481f5f1/thumbnails/thumbnail.jpg" width="600" alt="นักรบในชุดเกราะไซเบอร์เนติกขี่ม้าหุ่นยนต์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4863)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2054897466357723390) | **Published:** May 14, 2026
-
----
-### ดาวเคราะห์สวรรค์แห่งหญิงสาวชาววีนัส
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวภาพยนตร์สำหรับหญิงสาวแสนสวยบนดาวเคราะห์สวรรค์ที่มีออร่าจักรวาลอันเจิดจ้า
-
-#### 📝 Prompt
-
-```
-หญิงสาวชาววีนัสแสนสวย, แสงสีทองนวลตา, ทิวทัศน์ดาวเคราะห์สวรรค์, ชุดพลิ้วไหวสง่างาม, ออร่าเจิดจ้า, อารยธรรมจักรวาลอันเงียบสงบ, ภาพพอร์ตเทรตแฟนตาซีสมจริงระดับอัลตร้า, แสงแดดแบบภาพยนตร์
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e9d4a71d4ebda4919c89a8e86a7fe52/thumbnails/thumbnail.jpg" width="600" alt="ดาวเคราะห์สวรรค์แห่งหญิงสาวชาววีนัส">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4769)**
-
-**Author:** [Narmina](https://x.com/narminamoon) | **Source:** [Link](https://x.com/narminamoon/status/2054588306747162627) | **Published:** May 13, 2026
-
----
-### ภาพพอร์ตเทรตนักรบหญิง Orion ในธีมไซไฟ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ไซไฟรายละเอียดสูงสำหรับนักรบหญิงในชุดเกราะแห่งอนาคต พร้อมแสงสีคอสมิกและเงาแบบภาพยนตร์
-
-#### 📝 Prompt
-
-```
-นักรบหญิง Orion ผู้ทรงพลัง, ชุดเกราะแห่งอนาคตสีเข้ม, บรรยากาศการต่อสู้ในอวกาศ, แสงสีแดงและสีน้ำเงินเรืองรอง, สายตาที่ดูลึกลับและทรงพลัง, ภาพพอร์ตเทรตไซไฟที่สมจริงเป็นพิเศษ, เงาแบบภาพยนตร์
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/49d505302c6916f63402bea08e8bcf76/thumbnails/thumbnail.jpg" width="600" alt="ภาพพอร์ตเทรตนักรบหญิง Orion ในธีมไซไฟ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4761)**
-
-**Author:** [Narmina](https://x.com/narminamoon) | **Source:** [Link](https://x.com/narminamoon/status/2054587951061844327) | **Published:** May 13, 2026
-
----
-### ชุดคลุมดาราจักรจากแอนโดรเมดาอันวิจิตร
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์แนวไซไฟแฟนตาซีที่ลงรายละเอียดเกี่ยวกับหญิงสาวผู้สง่างามที่มีผิวสีเงินและสวมชุดคลุมดาราจักรในพระราชวังแห่งจักรวาล
-
-#### 📝 Prompt
-
-```
-หญิงสาวจากแอนโดรเมดาผู้สง่างาม, ผิวสีเงินเปล่งประกาย, ผมยาวสีขาว, พระราชวังแห่งจักรวาล, ดวงดาวโฮโลกราฟิก, ชุดคลุมคอสมิกสุดหรู, ไซไฟแฟนตาซีสมจริงระดับอัลตรา, พลังงานหญิงอันศักดิ์สิทธิ์, แสงแบบภาพยนตร์, รายละเอียดสูง
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2e442ef2e4de86fa72c0a981b8e7869f/thumbnails/thumbnail.jpg" width="600" alt="ชุดคลุมดาราจักรจากแอนโดรเมดาอันวิจิตร">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4762)**
-
-**Author:** [Narmina](https://x.com/narminamoon) | **Source:** [Link](https://x.com/narminamoon/status/2054587169402974372) | **Published:** May 13, 2026
-
----
-### มนุษย์ต่างดาวหญิงผิวสีฟ้าในธีมอียิปต์ไซไฟ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์แนวไซไฟที่มีตัวละครมนุษย์ต่างดาวหญิงผิวสีฟ้าในฉากอียิปต์ท่ามกลางอวกาศ
-
-#### 📝 Prompt
-
-```
-มนุษย์ต่างดาวหญิงผิวสีฟ้าจากดาวซิริอุส, ชุดแห่งอนาคตที่สง่างาม, สถาปัตยกรรมอียิปต์ในอวกาศ, ดวงดาวและพีระมิด, คริสตัลเรืองแสง, ภาพพอร์ตเทรตแนวไซไฟที่สมจริงเป็นพิเศษ
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fe07cfea77ee3a490046f1d7281bc217/thumbnails/thumbnail.jpg" width="600" alt="มนุษย์ต่างดาวหญิงผิวสีฟ้าในธีมอียิปต์ไซไฟ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4763)**
-
-**Author:** [Narmina](https://x.com/narminamoon) | **Source:** [Link](https://x.com/narminamoon/status/2054586816234131840) | **Published:** May 13, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2254,6 +2237,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-22T04:20:41.139Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-22T11:04:12.760Z</sub>
 
 </div>

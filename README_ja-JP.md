@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **1603** |
+| 📝 プロンプト総数 | **1609** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-05-22** |
 
@@ -189,6 +189,120 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### 宇宙を周回する未来的な宇宙船
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 星雲を背景に、深宇宙で洗練された宇宙船の周りを旋回するカメラワークのプロンプト。
+
+#### 📝 プロンプト
+
+```
+深宇宙に浮かぶ未来的な宇宙船の外観をゆっくりと周回するカメラワーク。洗練された船体や光る窓をさまざまな角度から映し出し、背景には星々や星雲が広がっている。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/80bea774f89a41c3024c9c612ed737e6/thumbnails/thumbnail.jpg" width="600" alt="宇宙を周回する未来的な宇宙船">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5131)**
+
+**作者:** [MIUZAH DEIOPAH OF THE PLEIADES](https://x.com/Octillion111111) | **ソース:** [Link](https://x.com/Octillion111111/status/2057566105393054058) | **公開日:** May 21, 2026
+
+---
+### キッチンでの遊び心あふれるラブムード
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> キッチンで浮遊するハートと紙幣に囲まれ、遊び心のある雰囲気を演出するカップルを描いたビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+緑色のトップスを着たタトゥーのある女性と、キッチンで愛情を込めて微笑む男性。周囲には紙幣とたくさんの浮遊するハートがあり、遊び心のあるラブムード。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/43e1ead2d76c388c2eb9f11106fa276e/thumbnails/thumbnail.jpg" width="600" alt="キッチンでの遊び心あふれるラブムード">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5129)**
+
+**作者:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **ソース:** [Link](https://x.com/maggiejuang1/status/2057477179902988408) | **公開日:** May 21, 2026
+
+---
+### プラチナブロンドの髪を持つ吸血鬼の女性
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 長いプラチナブロンドの髪と赤い瞳を持ち、黒いバラを手にした美しい吸血鬼の女性を描いたシネマティックな動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+長いプラチナブロンドの髪と赤い瞳を持ち、胸元に黒いバラを抱えた美しい吸血鬼の女性
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/57ded65af302fe1d749690cfbc155af8/thumbnails/thumbnail.jpg" width="600" alt="プラチナブロンドの髪を持つ吸血鬼の女性">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5128)**
+
+**作者:** [Benjamin Ferrarini](https://x.com/Granddragonben) | **ソース:** [Link](https://x.com/Granddragonben/status/2057455897903804911) | **公開日:** May 21, 2026
+
+---
+### エレベーター・ファッション・ミラー・ワールド
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> エレベーター内の鏡の世界で、穏やかな動きと夢のような物理演算をテストするためのスタイライズされたビデオプロンプトです。
+
+#### 📝 プロンプト
+
+```
+エレベーター・ファッション • ミラー・ワールド • Slides （穏やかな動きと夢のような物理演算のテスト）
+```
+
+<img src="https://cms-assets.youmind.com/media/1779438773089_01l2a5_HI2KbXAa8AEdUhJ.jpg" width="600" alt="エレベーター・ファッション・ミラー・ワールド">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5132)**
+
+**作者:** [sugarcane](https://x.com/sugarcanebkk) | **ソース:** [Link](https://x.com/sugarcanebkk/status/2057452874289095060) | **公開日:** May 21, 2026
+
+---
+### カラフルな爆発のアスペクト比リフレーム
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 鮮やかな噴火と爆発のアニメーションを 16:9 のシネマティックなアスペクト比にリフレームし、青空を背景にアクションを中央に配置するように設計されたプロンプトです。
+
+#### 📝 プロンプト
+
+```
+16:9 のアスペクト比にリフレームし、鮮やかな色彩の噴火と爆発を青空の中央に配置してください。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/885d22b1f8d2a523309867eaf667beec/thumbnails/thumbnail.jpg" width="600" alt="カラフルな爆発のアスペクト比リフレーム">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5133)**
+
+**作者:** [Dwaynemeiers](https://x.com/Dwaynemeiers) | **ソース:** [Link](https://x.com/Dwaynemeiers/status/2057406674437357960) | **公開日:** May 21, 2026
+
+---
+### 聖書の引用文をペンで描くアニメーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 審判と先祖の罪に関する聖書の引用文を、映画のようなライティングでペンが描き出すアニメーション。
+
+#### 📝 プロンプト
+
+```
+「汝は量られ、不足ありと認められた（You have been judged and found wanting）」という言葉をペンで描き……その後に、アダムとイブの罪が後の世代に受け継がれるという聖書の引用文を描いてください。光の演出を通して表現してください。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a1469bce60579a51c99496a4cc1dbc3c/thumbnails/thumbnail.jpg" width="600" alt="聖書の引用文をペンで描くアニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5130)**
+
+**作者:** [Michael Bradley](https://x.com/MikeBradleySr2) | **ソース:** [Link](https://x.com/MikeBradleySr2/status/2057385133187981793) | **公開日:** May 21, 2026
+
+---
 ### Golden Dragon Tactical Mech
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2062,137 +2176,6 @@ POV：砂丘で繰り広げられる未来的なノマド・フェスティバ�
 **作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **ソース:** [Link](https://x.com/ThoughCreator/status/2055099462150988115) | **公開日:** May 15, 2026
 
 ---
-### 马斯克父子 Are you OK 北京话短剧
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 一段写实新闻花絮风格的 Grok Imagine 短视频提示词：国际商务活动现场中，像马斯克的父亲牵着小儿子，用雷军式英文问 “Are you OK?”，孩子用北京话机智回应。
-
-#### 📝 プロンプト
-
-```
-基于参考图生成一段写实短视频：庄重华丽的国际商务活动现场，大理石走廊、暖色灯光，远处有穿西装的人经过。一位像马斯克的父亲穿黑色西装，牵着穿中式蓝色小马甲的小儿子往前走。镜头像新闻花絮跟拍，真实自然，轻微手持感。
-
-视频开始时，父亲低头看着儿子，突然非常认真地用雷军经典英文口吻问他：“Are you OK?” 语气朴素、认真、带一点尴尬喜感。小男孩抬头看了他一眼，用地道北京话回应：“爸，您甭 OK 了，您这一下给我整不会了。” 父亲愣住。小男孩继续说：“您要真想问我，就说：没事儿吧您？这才像那么回事儿。” 父亲尴尬地笑了笑，孩子牵着他继续往前走。
-
-画面要求：父亲一定是朝儿子说 “Are you OK?”，不是对镜头说；孩子用北京话自然回应，语气像北京小孩儿嘴贫但不夸张。写实新闻现场感，父子互动温暖可爱，唇形尽量匹配对白。
-
-风格：真实、轻喜剧、亲子反差、北京话幽默。
-
-时长：8–10 秒。
-
-比例：9:16 或 16:9。
-
-避免：卡通化、鬼畜、夸张变脸、脸部崩坏、字幕乱码、嘴型严重不匹配。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bd7ae8d1de55c36c7636c0111d5aaaa0/thumbnails/thumbnail.jpg" width="600" alt="马斯克父子 Are you OK 北京话短剧">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4773)**
-
-**作者:** [Jared 宗源](https://x.com/jaredliu_bravo) | **ソース:** [Link](https://x.com/jaredliu_bravo/status/2054913526922424497) | **公開日:** May 14, 2026
-
----
-### サイバネティック・パワーアーマーを纏ったライダーとロボット馬
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ディストピアなサイバーパンク都市を舞台に、マットブラックのサイバネティック・アーマーを纏った女性が高度なバイオメカニカル・ロボット馬に騎乗する、映画のようなSF動画を作成するための詳細な Grok Imagine プロンプト。
-
-#### 📝 プロンプト
-
-```
-次世代のトランスフォーマー風 SF サイバーパンクスタイルで描く、6 秒間の映画のような超写実的動画。美しく若い女性が、マットブラックとガンメタルの細部まで作り込まれた洗練されたサイバネティック・パワーアーマーを纏い、青白く光るアクセントを放ちながら、荒廃した広大なディストピアの巨大都市を巨大で超高度なバイオメカニカル・ロボット馬で駆け抜ける。
-この機械の馬は、有機的な筋肉、ピストン、ケーブル、そして重厚な装甲板が複雑に融合しており、パネルが変形し、微かなエネルギーラインが光る、トランスフォーマー級の次世代ディテールを備えている。女性は真剣で集中した表情を浮かべ、HUD バイザーと酸素マスクの要素を備えたタクティカルヘルメットを着用し、黒髪が風にわずかになびいている。
-カメラはドラマチックなローアングルのサイドフロントからのトラッキングショットで始まり、崩壊した高層ビル、垂れ下がる電線、煙、舞い散る火の粉で満たされた破壊された通りを力強く疾走する二人をゆっくりと旋回する。馬の金属製の蹄が地面に火花を散らす。埃の中を突き抜けるボリュメトリックなゴッドレイ、濡れた金属面に反射するネオン、背景でちらつく微かなホログラム看板など、ダイナミックなサイバーパンクのライティング。
-超リアルなディテール、8K フォトリアリズム、クールなティールと温かみのあるオレンジのトーンによる映画のようなカラーグレーディング、激しい動き、ドラマチックな被写界深度、微かなフィルムグレイン。Arri Alexa 65 とアナモフィックレンズで撮影。完璧な解剖学的構造と機械的なリアリズムを備えた高速モーション。6 秒間、滑らかな 24fps のシネマティックな動き。
-ネガティブプロンプト（推奨）:
-ぼやけ、変形、低品質、漫画、アニメ、余分な手足、テキスト、透かし、露出過多、プラスチックのような肌、不自然な解剖学的構造、低ディテール、フラットなライティング。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f9701c2cb9d34351bb27fffca481f5f1/thumbnails/thumbnail.jpg" width="600" alt="サイバネティック・パワーアーマーを纏ったライダーとロボット馬">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4863)**
-
-**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **ソース:** [Link](https://x.com/ThoughCreator/status/2054897466357723390) | **公開日:** May 14, 2026
-
----
-### 金星の女性と楽園の惑星
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 輝く宇宙のオーラに包まれた楽園の惑星に佇む、美しい女性のためのシネマティックなビデオプロンプトです。
-
-#### 📝 プロンプト
-
-```
-美しい金星の女性、柔らかな黄金の輝き、楽園の惑星の風景、エレガントな流れるドレス、輝くオーラ、平和な宇宙文明、超リアルなファンタジーポートレート、シネマティックな陽光
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e9d4a71d4ebda4919c89a8e86a7fe52/thumbnails/thumbnail.jpg" width="600" alt="金星の女性と楽園の惑星">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4769)**
-
-**作者:** [Narmina](https://x.com/narminamoon) | **ソース:** [Link](https://x.com/narminamoon/status/2054588306747162627) | **公開日:** May 13, 2026
-
----
-### オリオンの女戦士 SF ポートレート
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 近未来的なアーマーを身にまとった女戦士の、宇宙的なライティングと映画のような陰影が特徴的な高精細 SF プロンプト。
-
-#### 📝 プロンプト
-
-```
-力強いオリオンの女戦士、ダークな近未来アーマー、宇宙的な戦闘の雰囲気、赤と青の光の輝き、力強く神秘的な眼差し、超リアルな SF ポートレート、映画のような陰影
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/49d505302c6916f63402bea08e8bcf76/thumbnails/thumbnail.jpg" width="600" alt="オリオンの女戦士 SF ポートレート">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4761)**
-
-**作者:** [Narmina](https://x.com/narminamoon) | **ソース:** [Link](https://x.com/narminamoon/status/2054587951061844327) | **公開日:** May 13, 2026
-
----
-### エーテル状のアンドロメダ星雲の天上のローブ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 宇宙の宮殿に佇む、銀色の肌と天上のローブを纏ったエーテル状の女性を描くための、詳細な SF ファンタジープロンプトです。
-
-#### 📝 プロンプト
-
-```
-エーテル状のアンドロメダの女性、銀色に輝く肌、長い白髪、天上の宮殿、ホログラフィックな星々、エレガントな宇宙のローブ、超リアルな SF ファンタジー、神聖な女性のエネルギー、映画のようなライティング、高精細
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2e442ef2e4de86fa72c0a981b8e7869f/thumbnails/thumbnail.jpg" width="600" alt="エーテル状のアンドロメダ星雲の天上のローブ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4762)**
-
-**作者:** [Narmina](https://x.com/narminamoon) | **ソース:** [Link](https://x.com/narminamoon/status/2054587169402974372) | **公開日:** May 13, 2026
-
----
-### 青い肌の異星人女性 エジプト風 SF
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 宇宙的なエジプトの舞台に佇む、青い肌の異星人女性を描いた SF 動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-青い肌のシリウス星人女性、エレガントで未来的な衣装、エジプト風の宇宙的建築、星々とピラミッド、輝くクリスタル、超リアルな SF ポートレート
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fe07cfea77ee3a490046f1d7281bc217/thumbnails/thumbnail.jpg" width="600" alt="青い肌の異星人女性 エジプト風 SF">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4763)**
-
-**作者:** [Narmina](https://x.com/narminamoon) | **ソース:** [Link](https://x.com/narminamoon/status/2054586816234131840) | **公開日:** May 13, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2254,6 +2237,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-05-22T04:20:38.556Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-05-22T11:04:10.180Z</sub>
 
 </div>

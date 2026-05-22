@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1603** |
+| 📝 Total Prompts | **1609** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-22** |
 
@@ -189,6 +189,120 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Vaisseau spatial futuriste en orbite dans l'espace
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de mouvement de caméra orbitant autour d'un vaisseau spatial élégant dans l'espace lointain avec des nébuleuses en arrière-plan.
+
+#### 📝 Prompt
+
+```
+Mouvement de caméra en orbite lente autour de l'extérieur du vaisseau spatial futuriste dans l'espace lointain, révélant sa coque élégante et ses fenêtres lumineuses sous différents angles, avec des étoiles et des nébuleuses en arrière-plan.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/80bea774f89a41c3024c9c612ed737e6/thumbnails/thumbnail.jpg" width="600" alt="Vaisseau spatial futuriste en orbite dans l'espace">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5131)**
+
+**Author:** [MIUZAH DEIOPAH OF THE PLEIADES](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2057566105393054058) | **Published:** May 21, 2026
+
+---
+### Ambiance amoureuse et ludique en cuisine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo illustrant un couple dans une cuisine entouré de cœurs et de billets flottants, créant une atmosphère ludique.
+
+#### 📝 Prompt
+
+```
+Une femme tatouée en haut vert et un homme souriant tendrement dans une cuisine avec de l'argent et de nombreux cœurs flottants, ambiance amoureuse et ludique.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/43e1ead2d76c388c2eb9f11106fa276e/thumbnails/thumbnail.jpg" width="600" alt="Ambiance amoureuse et ludique en cuisine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5129)**
+
+**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2057477179902988408) | **Published:** May 21, 2026
+
+---
+### Femme vampire aux cheveux platine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo cinématographique mettant en scène une belle femme vampire aux longs cheveux blond platine et aux yeux rouges tenant une rose noire.
+
+#### 📝 Prompt
+
+```
+Belle femme vampire aux longs cheveux blond platine et aux yeux rouges, tenant une rose noire contre sa poitrine
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/57ded65af302fe1d749690cfbc155af8/thumbnails/thumbnail.jpg" width="600" alt="Femme vampire aux cheveux platine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5128)**
+
+**Author:** [Benjamin Ferrarini](https://x.com/Granddragonben) | **Source:** [Link](https://x.com/Granddragonben/status/2057455897903804911) | **Published:** May 21, 2026
+
+---
+### Monde de miroir mode dans un ascenseur
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo stylisé testant des mouvements doux et une physique onirique au sein d'un monde de miroir dans un ascenseur.
+
+#### 📝 Prompt
+
+```
+Mode dans un ascenseur • Monde de miroir • Slides (test de mouvements doux et physique onirique)
+```
+
+<img src="https://cms-assets.youmind.com/media/1779438773089_01l2a5_HI2KbXAa8AEdUhJ.jpg" width="600" alt="Monde de miroir mode dans un ascenseur">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5132)**
+
+**Author:** [sugarcane](https://x.com/sugarcanebkk) | **Source:** [Link](https://x.com/sugarcanebkk/status/2057452874289095060) | **Published:** May 21, 2026
+
+---
+### Recadrage au format 16:9 d'une explosion colorée
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt conçu pour recadrer une animation d'éruption et d'explosion vibrante au format cinématographique 16:9, en centrant l'action sur un ciel bleu dégagé.
+
+#### 📝 Prompt
+
+```
+Recadrer au format 16:9, en centrant l'éruption et l'explosion colorées et vibrantes sur le ciel bleu.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/885d22b1f8d2a523309867eaf667beec/thumbnails/thumbnail.jpg" width="600" alt="Recadrage au format 16:9 d'une explosion colorée">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5133)**
+
+**Author:** [Dwaynemeiers](https://x.com/Dwaynemeiers) | **Source:** [Link](https://x.com/Dwaynemeiers/status/2057406674437357960) | **Published:** May 21, 2026
+
+---
+### Animation au stylo d'une citation biblique
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une animation représentant un stylo traçant une citation biblique sur le jugement et le péché ancestral, mise en valeur par un éclairage cinématographique.
+
+#### 📝 Prompt
+
+```
+Faites en sorte que le stylo écrive la phrase « Tu as été pesé et trouvé léger »… puis la citation biblique sur le péché d'Adam et Ève transmis aux générations futures ? Le tout à travers un jeu de lumière.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a1469bce60579a51c99496a4cc1dbc3c/thumbnails/thumbnail.jpg" width="600" alt="Animation au stylo d'une citation biblique">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5130)**
+
+**Author:** [Michael Bradley](https://x.com/MikeBradleySr2) | **Source:** [Link](https://x.com/MikeBradleySr2/status/2057385133187981793) | **Published:** May 21, 2026
+
+---
 ### Golden Dragon Tactical Mech
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2062,137 +2176,6 @@ Caméra cinématographique dynamique en contre-plongée orbitant lentement autou
 **Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2055099462150988115) | **Published:** May 15, 2026
 
 ---
-### 马斯克父子 Are you OK 北京话短剧
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 一段写实新闻花絮风格的 Grok Imagine 短视频提示词：国际商务活动现场中，像马斯克的父亲牵着小儿子，用雷军式英文问 “Are you OK?”，孩子用北京话机智回应。
-
-#### 📝 Prompt
-
-```
-基于参考图生成一段写实短视频：庄重华丽的国际商务活动现场，大理石走廊、暖色灯光，远处有穿西装的人经过。一位像马斯克的父亲穿黑色西装，牵着穿中式蓝色小马甲的小儿子往前走。镜头像新闻花絮跟拍，真实自然，轻微手持感。
-
-视频开始时，父亲低头看着儿子，突然非常认真地用雷军经典英文口吻问他：“Are you OK?” 语气朴素、认真、带一点尴尬喜感。小男孩抬头看了他一眼，用地道北京话回应：“爸，您甭 OK 了，您这一下给我整不会了。” 父亲愣住。小男孩继续说：“您要真想问我，就说：没事儿吧您？这才像那么回事儿。” 父亲尴尬地笑了笑，孩子牵着他继续往前走。
-
-画面要求：父亲一定是朝儿子说 “Are you OK?”，不是对镜头说；孩子用北京话自然回应，语气像北京小孩儿嘴贫但不夸张。写实新闻现场感，父子互动温暖可爱，唇形尽量匹配对白。
-
-风格：真实、轻喜剧、亲子反差、北京话幽默。
-
-时长：8–10 秒。
-
-比例：9:16 或 16:9。
-
-避免：卡通化、鬼畜、夸张变脸、脸部崩坏、字幕乱码、嘴型严重不匹配。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bd7ae8d1de55c36c7636c0111d5aaaa0/thumbnails/thumbnail.jpg" width="600" alt="马斯克父子 Are you OK 北京话短剧">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4773)**
-
-**Author:** [Jared 宗源](https://x.com/jaredliu_bravo) | **Source:** [Link](https://x.com/jaredliu_bravo/status/2054913526922424497) | **Published:** May 14, 2026
-
----
-### Cavalier en armure cybernétique sur cheval robotique
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt détaillé pour Grok Imagine, conçu pour une vidéo de science-fiction cinématographique mettant en scène une femme en armure cybernétique noir mat chevauchant un cheval robotique biomécanique avancé dans une ville cyberpunk dystopique.
-
-#### 📝 Prompt
-
-```
-Une vidéo cinématographique de 6 secondes, ultra-photoréaliste, dans un style science-fiction cyberpunk digne des meilleurs Transformers. Une belle jeune femme vêtue d'une armure cybernétique noir mat et gris acier, richement détaillée avec des accents bleu-blanc lumineux, chevauche un cheval robotique biomécanique hyper-avancé à travers une mégalopole dystopique en ruines.
-Le cheval mécanique est une fusion complexe de muscles organiques, de pistons, de câbles et de plaques de blindage lourdes — un niveau de détail digne de la nouvelle génération de Transformers avec des panneaux mobiles et de subtiles lignes d'énergie lumineuses. La femme a une expression sérieuse et concentrée, portant un casque tactique avec visières HUD et des éléments de masque à oxygène, ses cheveux sombres bougeant légèrement dans le vent.
-La caméra commence par un plan de suivi spectaculaire en contre-plongée depuis l'avant-côté, orbitant lentement autour d'eux alors qu'ils galopent avec puissance à travers des rues détruites remplies de gratte-ciel en ruine, de câbles suspendus, de fumée et de braises volantes. Les sabots métalliques du cheval font jaillir des étincelles sur le sol. Éclairage cyberpunk dynamique avec des rayons volumétriques perçant la poussière, reflets néon sur les surfaces métalliques humides, panneaux publicitaires holographiques subtils vacillant en arrière-plan.
-Détails ultra-réalistes, photoréalisme 8K, étalonnage cinématographique avec des tons bleu sarcelle froids et orange chauds, mouvement intense, profondeur de champ dramatique, grain de film subtil, tourné avec une Arri Alexa 65 et des objectifs anamorphiques. Mouvement à haute vitesse avec une anatomie parfaite et un réalisme mécanique. Durée de 6 secondes, mouvement cinématographique fluide à 24 fps.
-Prompt négatif (recommandé) :
-flou, déformé, basse qualité, dessin animé, anime, membres supplémentaires, texte, filigrane, surexposé, peau en plastique, mauvaise anatomie, faible niveau de détail, éclairage plat.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f9701c2cb9d34351bb27fffca481f5f1/thumbnails/thumbnail.jpg" width="600" alt="Cavalier en armure cybernétique sur cheval robotique">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4863)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2054897466357723390) | **Published:** May 14, 2026
-
----
-### Paradis de la femme vénusienne
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo cinématographique représentant une belle femme sur une planète paradisiaque avec une aura cosmique rayonnante.
-
-#### 📝 Prompt
-
-```
-Belle femme vénusienne, douce lueur dorée, paysage de planète paradisiaque, robe élégante et fluide, aura rayonnante, civilisation cosmique paisible, portrait fantastique ultra réaliste, lumière du soleil cinématographique
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e9d4a71d4ebda4919c89a8e86a7fe52/thumbnails/thumbnail.jpg" width="600" alt="Paradis de la femme vénusienne">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4769)**
-
-**Author:** [Narmina](https://x.com/narminamoon) | **Source:** [Link](https://x.com/narminamoon/status/2054588306747162627) | **Published:** May 13, 2026
-
----
-### Portrait de femme guerrière Orion science-fiction
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de science-fiction très détaillé pour une femme guerrière en armure futuriste avec un éclairage cosmique et des ombres cinématographiques.
-
-#### 📝 Prompt
-
-```
-Puissante femme guerrière Orion, armure futuriste sombre, atmosphère de bataille cosmique, lumières rouge et bleue éclatantes, regard mystique intense, portrait de science-fiction ultra réaliste, ombres cinématographiques
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/49d505302c6916f63402bea08e8bcf76/thumbnails/thumbnail.jpg" width="600" alt="Portrait de femme guerrière Orion science-fiction">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4761)**
-
-**Author:** [Narmina](https://x.com/narminamoon) | **Source:** [Link](https://x.com/narminamoon/status/2054587951061844327) | **Published:** May 13, 2026
-
----
-### Robe céleste éthérée d'Andromède
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de science-fiction et fantasy détaillé représentant une femme éthérée à la peau argentée vêtue de robes célestes dans un palais cosmique.
-
-#### 📝 Prompt
-
-```
-Femme éthérée d'Andromède, peau argentée lumineuse, longs cheveux blancs, palais céleste, étoiles holographiques, élégante robe cosmique, science-fiction et fantasy ultra réaliste, énergie féminine divine, éclairage cinématographique, hautement détaillé
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2e442ef2e4de86fa72c0a981b8e7869f/thumbnails/thumbnail.jpg" width="600" alt="Robe céleste éthérée d'Andromède">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4762)**
-
-**Author:** [Narmina](https://x.com/narminamoon) | **Source:** [Link](https://x.com/narminamoon/status/2054587169402974372) | **Published:** May 13, 2026
-
----
-### Femme extraterrestre bleue, science-fiction égyptienne
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo de science-fiction mettant en scène une femme extraterrestre à la peau bleue dans un décor égyptien cosmique.
-
-#### 📝 Prompt
-
-```
-Femme extraterrestre de Sirius à la peau bleue, vêtements futuristes élégants, architecture égyptienne cosmique, étoiles et pyramides, cristal brillant, portrait de science-fiction ultra réaliste
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fe07cfea77ee3a490046f1d7281bc217/thumbnails/thumbnail.jpg" width="600" alt="Femme extraterrestre bleue, science-fiction égyptienne">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4763)**
-
-**Author:** [Narmina](https://x.com/narminamoon) | **Source:** [Link](https://x.com/narminamoon/status/2054586816234131840) | **Published:** May 13, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2254,6 +2237,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-22T04:20:48.916Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-22T11:04:19.359Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1603** |
+| 📝 Total Prompts | **1609** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-22** |
 
@@ -189,6 +189,120 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Tàu vũ trụ tương lai đang bay trên quỹ đạo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh chuyển động camera xoay quanh con tàu vũ trụ kiểu dáng đẹp trong không gian sâu thẳm với nền tinh vân.
+
+#### 📝 Prompt
+
+```
+Chuyển động camera xoay chậm quanh bên ngoài con tàu vũ trụ tương lai trong không gian sâu thẳm, làm lộ ra phần thân tàu bóng bẩy và những ô cửa sổ phát sáng từ các góc độ khác nhau, với các vì sao và tinh vân ở phía sau.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/80bea774f89a41c3024c9c612ed737e6/thumbnails/thumbnail.jpg" width="600" alt="Tàu vũ trụ tương lai đang bay trên quỹ đạo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5131)**
+
+**Author:** [MIUZAH DEIOPAH OF THE PLEIADES](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2057566105393054058) | **Published:** May 21, 2026
+
+---
+### Không khí tình yêu tinh nghịch trong căn bếp
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt mô tả một cặp đôi trong căn bếp với những trái tim và tiền bay lơ lửng xung quanh, tạo nên một bầu không khí tinh nghịch.
+
+#### 📝 Prompt
+
+```
+Một người phụ nữ xăm mình mặc áo xanh và một người đàn ông đang mỉm cười âu yếm trong căn bếp với tiền và rất nhiều trái tim bay lơ lửng, mang lại cảm giác tình yêu tinh nghịch.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/43e1ead2d76c388c2eb9f11106fa276e/thumbnails/thumbnail.jpg" width="600" alt="Không khí tình yêu tinh nghịch trong căn bếp">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5129)**
+
+**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2057477179902988408) | **Published:** May 21, 2026
+
+---
+### Nữ ma cà rồng với mái tóc bạch kim
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video điện ảnh về một nữ ma cà rồng xinh đẹp với mái tóc vàng bạch kim dài và đôi mắt đỏ đang cầm một bông hồng đen.
+
+#### 📝 Prompt
+
+```
+Nữ ma cà rồng xinh đẹp với mái tóc vàng bạch kim dài và đôi mắt đỏ, đang ôm một bông hồng đen trước ngực
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/57ded65af302fe1d749690cfbc155af8/thumbnails/thumbnail.jpg" width="600" alt="Nữ ma cà rồng với mái tóc bạch kim">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5128)**
+
+**Author:** [Benjamin Ferrarini](https://x.com/Granddragonben) | **Source:** [Link](https://x.com/Granddragonben/status/2057455897903804911) | **Published:** May 21, 2026
+
+---
+### Thế giới gương thời trang trong thang máy
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt cách điệu nhằm thử nghiệm chuyển động nhẹ nhàng và hiệu ứng vật lý mơ mộng trong thế giới gương của thang máy.
+
+#### 📝 Prompt
+
+```
+Thời trang thang máy • Thế giới gương • Slides (thử nghiệm chuyển động nhẹ nhàng & hiệu ứng vật lý mơ mộng)
+```
+
+<img src="https://cms-assets.youmind.com/media/1779438773089_01l2a5_HI2KbXAa8AEdUhJ.jpg" width="600" alt="Thế giới gương thời trang trong thang máy">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5132)**
+
+**Author:** [sugarcane](https://x.com/sugarcanebkk) | **Source:** [Link](https://x.com/sugarcanebkk/status/2057452874289095060) | **Published:** May 21, 2026
+
+---
+### Điều chỉnh tỷ lệ khung hình cho hiệu ứng nổ đầy màu sắc
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh được thiết kế để điều chỉnh hoạt ảnh vụ nổ rực rỡ sang tỷ lệ khung hình điện ảnh 16:9, tập trung hành động vào giữa bầu trời xanh trong.
+
+#### 📝 Prompt
+
+```
+Điều chỉnh sang tỷ lệ khung hình 16:9, tập trung vụ nổ đầy màu sắc rực rỡ vào giữa bầu trời xanh.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/885d22b1f8d2a523309867eaf667beec/thumbnails/thumbnail.jpg" width="600" alt="Điều chỉnh tỷ lệ khung hình cho hiệu ứng nổ đầy màu sắc">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5133)**
+
+**Author:** [Dwaynemeiers](https://x.com/Dwaynemeiers) | **Source:** [Link](https://x.com/Dwaynemeiers/status/2057406674437357960) | **Published:** May 21, 2026
+
+---
+### Hoạt ảnh vẽ bút chì trích dẫn Kinh Thánh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một đoạn hoạt ảnh mô tả cảnh một chiếc bút đang vẽ lại câu trích dẫn trong Kinh Thánh về sự phán xét và tội lỗi tổ tông, được thể hiện qua hiệu ứng ánh sáng điện ảnh.
+
+#### 📝 Prompt
+
+```
+Hãy để chiếc bút vẽ dòng chữ “Ngươi đã bị phán xét và bị thấy là thiếu hụt” … và sau đó là câu trích dẫn từ Kinh Thánh về tội lỗi của Adam và Eva được truyền lại cho các thế hệ tương lai? Thông qua ngôn ngữ của ánh sáng
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a1469bce60579a51c99496a4cc1dbc3c/thumbnails/thumbnail.jpg" width="600" alt="Hoạt ảnh vẽ bút chì trích dẫn Kinh Thánh">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5130)**
+
+**Author:** [Michael Bradley](https://x.com/MikeBradleySr2) | **Source:** [Link](https://x.com/MikeBradleySr2/status/2057385133187981793) | **Published:** May 21, 2026
+
+---
 ### Golden Dragon Tactical Mech
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2062,137 +2176,6 @@ Phối màu cyberpunk với sắc đen sâu, các điểm nhấn màu xanh neon,
 **Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2055099462150988115) | **Published:** May 15, 2026
 
 ---
-### 马斯克父子 Are you OK 北京话短剧
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 一段写实新闻花絮风格的 Grok Imagine 短视频提示词：国际商务活动现场中，像马斯克的父亲牵着小儿子，用雷军式英文问 “Are you OK?”，孩子用北京话机智回应。
-
-#### 📝 Prompt
-
-```
-基于参考图生成一段写实短视频：庄重华丽的国际商务活动现场，大理石走廊、暖色灯光，远处有穿西装的人经过。一位像马斯克的父亲穿黑色西装，牵着穿中式蓝色小马甲的小儿子往前走。镜头像新闻花絮跟拍，真实自然，轻微手持感。
-
-视频开始时，父亲低头看着儿子，突然非常认真地用雷军经典英文口吻问他：“Are you OK?” 语气朴素、认真、带一点尴尬喜感。小男孩抬头看了他一眼，用地道北京话回应：“爸，您甭 OK 了，您这一下给我整不会了。” 父亲愣住。小男孩继续说：“您要真想问我，就说：没事儿吧您？这才像那么回事儿。” 父亲尴尬地笑了笑，孩子牵着他继续往前走。
-
-画面要求：父亲一定是朝儿子说 “Are you OK?”，不是对镜头说；孩子用北京话自然回应，语气像北京小孩儿嘴贫但不夸张。写实新闻现场感，父子互动温暖可爱，唇形尽量匹配对白。
-
-风格：真实、轻喜剧、亲子反差、北京话幽默。
-
-时长：8–10 秒。
-
-比例：9:16 或 16:9。
-
-避免：卡通化、鬼畜、夸张变脸、脸部崩坏、字幕乱码、嘴型严重不匹配。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bd7ae8d1de55c36c7636c0111d5aaaa0/thumbnails/thumbnail.jpg" width="600" alt="马斯克父子 Are you OK 北京话短剧">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4773)**
-
-**Author:** [Jared 宗源](https://x.com/jaredliu_bravo) | **Source:** [Link](https://x.com/jaredliu_bravo/status/2054913526922424497) | **Published:** May 14, 2026
-
----
-### Chiến binh mặc giáp điều khiển học cưỡi ngựa robot
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh Grok Imagine chi tiết cho video khoa học viễn tưởng đậm chất điện ảnh, mô tả một người phụ nữ mặc giáp điều khiển học màu đen mờ đang cưỡi một con ngựa robot cơ sinh học tiên tiến băng qua thành phố cyberpunk hậu tận thế.
-
-#### 📝 Prompt
-
-```
-Video điện ảnh dài 6 giây, siêu thực tế theo phong cách khoa học viễn tưởng cyberpunk đẳng cấp Transformers. Một người phụ nữ trẻ xinh đẹp trong bộ giáp điều khiển học màu đen mờ và xám nòng súng tinh xảo, với các điểm nhấn màu xanh trắng phát sáng, đang cưỡi một con ngựa robot cơ sinh học siêu tiên tiến băng qua một siêu đô thị hậu tận thế đổ nát.
-Con ngựa cơ khí là sự kết hợp phức tạp giữa cơ bắp hữu cơ, piston, dây cáp và các tấm giáp hạng nặng — chi tiết đẳng cấp Transformer thế hệ mới với các tấm ốp chuyển động và những đường năng lượng phát sáng tinh tế. Người phụ nữ có biểu cảm nghiêm nghị, tập trung, đội mũ bảo hiểm chiến thuật với kính HUD và mặt nạ dưỡng khí, mái tóc đen khẽ bay trong gió.
-Camera bắt đầu với góc quay thấp đầy kịch tính từ phía trước bên cạnh, từ từ xoay quanh họ khi họ phi nước đại mạnh mẽ qua những con phố bị tàn phá với các tòa nhà chọc trời đổ nát, dây điện treo lơ lửng, khói và tàn lửa bay. Móng ngựa kim loại tạo ra tia lửa trên mặt đất. Ánh sáng cyberpunk năng động với các tia sáng thể tích xuyên qua bụi, phản chiếu neon trên bề mặt kim loại ướt, các bảng quảng cáo ba chiều tinh tế nhấp nháy ở phía sau.
-Chi tiết siêu thực, độ phân giải 8K, chỉnh màu điện ảnh với tông màu xanh mòng két lạnh và cam ấm, chuyển động cường độ cao, độ sâu trường ảnh ấn tượng, hạt phim tinh tế, quay bằng Arri Alexa 65 + ống kính anamorphic. Chuyển động tốc độ cao với giải phẫu hoàn hảo và độ chân thực cơ khí. Thời lượng 6 giây, chuyển động điện ảnh 24fps mượt mà.
-Câu lệnh phủ định (khuyên dùng):
-mờ, biến dạng, chất lượng thấp, hoạt hình, anime, thừa chi tiết cơ thể, văn bản, hình mờ, phơi sáng quá mức, da nhựa, giải phẫu xấu, chi tiết thấp, ánh sáng phẳng.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f9701c2cb9d34351bb27fffca481f5f1/thumbnails/thumbnail.jpg" width="600" alt="Chiến binh mặc giáp điều khiển học cưỡi ngựa robot">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4863)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2054897466357723390) | **Published:** May 14, 2026
-
----
-### Hành tinh thiên đường của người phụ nữ Sao Kim
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video điện ảnh về người phụ nữ xinh đẹp trên hành tinh thiên đường với hào quang vũ trụ rạng rỡ.
-
-#### 📝 Prompt
-
-```
-Người phụ nữ Sao Kim xinh đẹp, ánh sáng vàng dịu nhẹ, phong cảnh hành tinh thiên đường, váy thướt tha thanh lịch, hào quang rạng rỡ, nền văn minh vũ trụ yên bình, chân dung giả tưởng siêu thực, ánh sáng mặt trời điện ảnh
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e9d4a71d4ebda4919c89a8e86a7fe52/thumbnails/thumbnail.jpg" width="600" alt="Hành tinh thiên đường của người phụ nữ Sao Kim">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4769)**
-
-**Author:** [Narmina](https://x.com/narminamoon) | **Source:** [Link](https://x.com/narminamoon/status/2054588306747162627) | **Published:** May 13, 2026
-
----
-### Chân dung nữ chiến binh Orion phong cách khoa học viễn tưởng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) khoa học viễn tưởng chi tiết cao về nữ chiến binh trong bộ giáp tương lai với ánh sáng vũ trụ và hiệu ứng đổ bóng điện ảnh.
-
-#### 📝 Prompt
-
-```
-Nữ chiến binh Orion đầy quyền năng, bộ giáp tương lai tối màu, bầu không khí chiến trận vũ trụ, ánh sáng đỏ và xanh lam rực rỡ, ánh nhìn huyền bí đầy mạnh mẽ, chân dung khoa học viễn tưởng siêu thực, hiệu ứng đổ bóng điện ảnh
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/49d505302c6916f63402bea08e8bcf76/thumbnails/thumbnail.jpg" width="600" alt="Chân dung nữ chiến binh Orion phong cách khoa học viễn tưởng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4761)**
-
-**Author:** [Narmina](https://x.com/narminamoon) | **Source:** [Link](https://x.com/narminamoon/status/2054587951061844327) | **Published:** May 13, 2026
-
----
-### Trang phục Thiên thể Andromeda Thanh tao
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh giả tưởng khoa học viễn tưởng chi tiết về một người phụ nữ thanh tao với làn da bạc và trang phục thiên thể trong một cung điện vũ trụ.
-
-#### 📝 Prompt
-
-```
-Người phụ nữ Andromeda thanh tao, làn da phát sáng màu bạc, mái tóc trắng dài, cung điện thiên thể, các vì sao ba chiều, trang phục vũ trụ thanh lịch, giả tưởng khoa học viễn tưởng siêu thực, năng lượng nữ tính thần thánh, ánh sáng điện ảnh, độ chi tiết cao
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2e442ef2e4de86fa72c0a981b8e7869f/thumbnails/thumbnail.jpg" width="600" alt="Trang phục Thiên thể Andromeda Thanh tao">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4762)**
-
-**Author:** [Narmina](https://x.com/narminamoon) | **Source:** [Link](https://x.com/narminamoon/status/2054587169402974372) | **Published:** May 13, 2026
-
----
-### Người phụ nữ ngoài hành tinh da xanh phong cách Ai Cập viễn tưởng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video khoa học viễn tưởng với hình ảnh người phụ nữ ngoài hành tinh da xanh trong bối cảnh Ai Cập vũ trụ.
-
-#### 📝 Prompt
-
-```
-Người phụ nữ ngoài hành tinh da xanh từ chòm sao Sirius, trang phục tương lai thanh lịch, kiến trúc Ai Cập vũ trụ, các vì sao và kim tự tháp, tinh thể phát sáng, chân dung khoa học viễn tưởng siêu thực
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fe07cfea77ee3a490046f1d7281bc217/thumbnails/thumbnail.jpg" width="600" alt="Người phụ nữ ngoài hành tinh da xanh phong cách Ai Cập viễn tưởng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4763)**
-
-**Author:** [Narmina](https://x.com/narminamoon) | **Source:** [Link](https://x.com/narminamoon/status/2054586816234131840) | **Published:** May 13, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2254,6 +2237,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-22T04:20:42.169Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-22T11:04:13.651Z</sub>
 
 </div>

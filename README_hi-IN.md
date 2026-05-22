@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1603** |
+| 📝 Total Prompts | **1609** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-22** |
 
@@ -189,6 +189,120 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### अंतरिक्ष में चक्कर लगाता भविष्य का स्पेसशिप
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> गहरे अंतरिक्ष में नेबुला की पृष्ठभूमि के साथ एक स्लीक स्पेसशिप के चारों ओर चक्कर लगाती कैमरा मूवमेंट प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+गहरे अंतरिक्ष में भविष्य के स्पेसशिप के बाहरी हिस्से के चारों ओर धीमी गति से चक्कर लगाती कैमरा मूवमेंट, जो अलग-अलग कोणों से इसके स्लीक हल (hull) और चमकती खिड़कियों को दिखाती है, पृष्ठभूमि में तारे और नेबुला मौजूद हैं।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/80bea774f89a41c3024c9c612ed737e6/thumbnails/thumbnail.jpg" width="600" alt="अंतरिक्ष में चक्कर लगाता भविष्य का स्पेसशिप">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5131)**
+
+**Author:** [MIUZAH DEIOPAH OF THE PLEIADES](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2057566105393054058) | **Published:** May 21, 2026
+
+---
+### रसोई में चंचल प्रेम का माहौल
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वीडियो प्रॉम्प्ट जिसमें रसोई में एक जोड़ा तैरते हुए दिलों और पैसों से घिरा हुआ है, जो एक चंचल माहौल बना रहा है।
+
+#### 📝 Prompt
+
+```
+हरे रंग की टॉप पहने टैटू वाली महिला और रसोई में प्यार से मुस्कुराता हुआ एक पुरुष, साथ में पैसे और ढेर सारे तैरते हुए दिल, चंचल प्रेम का माहौल।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/43e1ead2d76c388c2eb9f11106fa276e/thumbnails/thumbnail.jpg" width="600" alt="रसोई में चंचल प्रेम का माहौल">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5129)**
+
+**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2057477179902988408) | **Published:** May 21, 2026
+
+---
+### प्लेटिनम बालों वाली वैम्पायर महिला
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सिनेमैटिक वीडियो प्रॉम्प्ट जिसमें लंबे प्लेटिनम सुनहरे बालों और लाल आंखों वाली एक खूबसूरत वैम्पायर महिला काले गुलाब को पकड़े हुए है।
+
+#### 📝 Prompt
+
+```
+लंबे प्लेटिनम सुनहरे बालों और लाल आंखों वाली खूबसूरत वैम्पायर महिला, जो अपनी छाती पर एक काला गुलाब पकड़े हुए है
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/57ded65af302fe1d749690cfbc155af8/thumbnails/thumbnail.jpg" width="600" alt="प्लेटिनम बालों वाली वैम्पायर महिला">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5128)**
+
+**Author:** [Benjamin Ferrarini](https://x.com/Granddragonben) | **Source:** [Link](https://x.com/Granddragonben/status/2057455897903804911) | **Published:** May 21, 2026
+
+---
+### एलीवेटर फैशन मिरर वर्ल्ड
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक स्टाइलिश वीडियो प्रॉम्प्ट जो एलीवेटर मिरर वर्ल्ड के भीतर धीमी गति और स्वप्निल भौतिकी (dreamy physics) का परीक्षण करता है।
+
+#### 📝 Prompt
+
+```
+एलीवेटर फैशन • मिरर वर्ल्ड • Slides (धीमी गति और स्वप्निल भौतिकी का परीक्षण)
+```
+
+<img src="https://cms-assets.youmind.com/media/1779438773089_01l2a5_HI2KbXAa8AEdUhJ.jpg" width="600" alt="एलीवेटर फैशन मिरर वर्ल्ड">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5132)**
+
+**Author:** [sugarcane](https://x.com/sugarcanebkk) | **Source:** [Link](https://x.com/sugarcanebkk/status/2057452874289095060) | **Published:** May 21, 2026
+
+---
+### रंगीन विस्फोट आस्पेक्ट रेशियो रीफ्रेम
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक जीवंत विस्फोट एनीमेशन को 16:9 सिनेमाई आस्पेक्ट रेशियो में रीफ्रेम करने के लिए डिज़ाइन किया गया प्रॉम्प्ट, जो एक्शन को साफ नीले आकाश के केंद्र में रखता है।
+
+#### 📝 Prompt
+
+```
+16:9 आस्पेक्ट रेशियो में रीफ्रेम करें, जीवंत रंगीन विस्फोट को नीले आकाश के केंद्र में रखें।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/885d22b1f8d2a523309867eaf667beec/thumbnails/thumbnail.jpg" width="600" alt="रंगीन विस्फोट आस्पेक्ट रेशियो रीफ्रेम">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5133)**
+
+**Author:** [Dwaynemeiers](https://x.com/Dwaynemeiers) | **Source:** [Link](https://x.com/Dwaynemeiers/status/2057406674437357960) | **Published:** May 21, 2026
+
+---
+### बाइबिल के उद्धरण का पेन ड्राइंग एनीमेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक एनीमेशन जिसमें एक पेन को न्याय और पैतृक पाप के बारे में बाइबिल के एक उद्धरण को चित्रित करते हुए दिखाया गया है, जिसे सिनेमाई प्रकाश व्यवस्था के माध्यम से प्रस्तुत किया गया है।
+
+#### 📝 Prompt
+
+```
+पेन से यह कहावत लिखवाएं “You have been judged and found wanting” … और फिर बाइबिल से वह उद्धरण जिसमें आदम और हव्वा के पाप को आने वाली पीढ़ियों तक पहुँचाने की बात कही गई है? प्रकाश की भाषा के माध्यम से
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a1469bce60579a51c99496a4cc1dbc3c/thumbnails/thumbnail.jpg" width="600" alt="बाइबिल के उद्धरण का पेन ड्राइंग एनीमेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5130)**
+
+**Author:** [Michael Bradley](https://x.com/MikeBradleySr2) | **Source:** [Link](https://x.com/MikeBradleySr2/status/2057385133187981793) | **Published:** May 21, 2026
+
+---
 ### Golden Dragon Tactical Mech
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2064,137 +2178,6 @@ POV: आप अभी-अभी रेत के टीलों में आ�
 **Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2055099462150988115) | **Published:** May 15, 2026
 
 ---
-### 马斯克父子 Are you OK 北京话短剧
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 一段写实新闻花絮风格的 Grok Imagine 短视频提示词：国际商务活动现场中，像马斯克的父亲牵着小儿子，用雷军式英文问 “Are you OK?”，孩子用北京话机智回应。
-
-#### 📝 Prompt
-
-```
-基于参考图生成一段写实短视频：庄重华丽的国际商务活动现场，大理石走廊、暖色灯光，远处有穿西装的人经过。一位像马斯克的父亲穿黑色西装，牵着穿中式蓝色小马甲的小儿子往前走。镜头像新闻花絮跟拍，真实自然，轻微手持感。
-
-视频开始时，父亲低头看着儿子，突然非常认真地用雷军经典英文口吻问他：“Are you OK?” 语气朴素、认真、带一点尴尬喜感。小男孩抬头看了他一眼，用地道北京话回应：“爸，您甭 OK 了，您这一下给我整不会了。” 父亲愣住。小男孩继续说：“您要真想问我，就说：没事儿吧您？这才像那么回事儿。” 父亲尴尬地笑了笑，孩子牵着他继续往前走。
-
-画面要求：父亲一定是朝儿子说 “Are you OK?”，不是对镜头说；孩子用北京话自然回应，语气像北京小孩儿嘴贫但不夸张。写实新闻现场感，父子互动温暖可爱，唇形尽量匹配对白。
-
-风格：真实、轻喜剧、亲子反差、北京话幽默。
-
-时长：8–10 秒。
-
-比例：9:16 或 16:9。
-
-避免：卡通化、鬼畜、夸张变脸、脸部崩坏、字幕乱码、嘴型严重不匹配。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bd7ae8d1de55c36c7636c0111d5aaaa0/thumbnails/thumbnail.jpg" width="600" alt="马斯克父子 Are you OK 北京话短剧">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4773)**
-
-**Author:** [Jared 宗源](https://x.com/jaredliu_bravo) | **Source:** [Link](https://x.com/jaredliu_bravo/status/2054913526922424497) | **Published:** May 14, 2026
-
----
-### रोबोटिक घोड़े पर सवार साइबरनेटिक पावर आर्मर राइडर
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमैटिक साइंस-फिक्शन वीडियो के लिए विस्तृत Grok Imagine प्रॉम्प्ट, जिसमें एक महिला मैट-ब्लैक साइबरनेटिक आर्मर पहने हुए एक उन्नत बायोमैकेनिकल रोबोटिक घोड़े पर सवार होकर एक डिस्टोपियन साइबरपंक शहर से गुजर रही है।
-
-#### 📝 Prompt
-
-```
-नेक्स्ट-लेवल ट्रांसफॉर्मर्स साइंस-फिक्शन साइबरपंक स्टाइल में 6-सेकंड का सिनेमैटिक, अल्ट्रा-फोटोरीलिस्टिक वीडियो। एक सुंदर युवा महिला, जो चमकदार नीले-सफेद एक्सेंट के साथ चिकने, अत्यधिक विस्तृत मैट-ब्लैक और गनमेटल साइबरनेटिक पावर आर्मर में है, एक विशाल, हाइपर-एडवांस्ड बायोमैकेनिकल रोबोटिक घोड़े पर सवार होकर खंडहर हो चुके एक विशाल डिस्टोपियन मेगासिटी से गुजर रही है।
-यह यांत्रिक घोड़ा जैविक मांसपेशियों, पिस्टन, केबलों और भारी आर्मर प्लेटिंग का एक जटिल मिश्रण है — शिफ्टिंग पैनल और सूक्ष्म चमकती ऊर्जा लाइनों के साथ नेक्स्ट-जेन ट्रांसफॉर्मर स्तर का विवरण। महिला के चेहरे पर एक गंभीर, केंद्रित भाव है, उसने HUD विज़र और ऑक्सीजन मास्क तत्वों के साथ एक टैक्टिकल हेलमेट पहना है, और उसके काले बाल हवा में हल्के से लहरा रहे हैं।
-कैमरा साइड-फ्रंट से एक नाटकीय लो-एंगल ट्रैकिंग शॉट के साथ शुरू होता है, जो धीरे-धीरे उनके चारों ओर घूमता है क्योंकि वे ढहती गगनचुंबी इमारतों, लटकते तारों, धुएं और उड़ती हुई चिंगारियों से भरी नष्ट हो चुकी सड़कों पर तेजी से दौड़ते हैं। घोड़े के धात्विक खुर जमीन पर चिंगारियां पैदा करते हैं। धूल के बीच से गुजरती वॉल्यूमेट्रिक गॉड रेज़, गीली धातु की सतहों पर नियॉन रिफ्लेक्शन और बैकग्राउंड में टिमटिमाते सूक्ष्म होलोग्राफिक बिलबोर्ड के साथ डायनामिक साइबरपंक लाइटिंग।
-अल्ट्रा-रीलिस्टिक विवरण, 8K फोटोरीलिज्म, कूल टील और वार्म ऑरेंज टोन के साथ सिनेमैटिक कलर ग्रेडिंग, तीव्र गति, नाटकीय डेप्थ ऑफ फील्ड, सूक्ष्म फिल्म ग्रेन, Arri Alexa 65 + एनामोर्फिक लेंस पर शूट किया गया। सटीक एनाटॉमी और मैकेनिकल यथार्थवाद के साथ हाई-स्पीड मोशन। 6 सेकंड की अवधि, स्मूथ 24fps सिनेमैटिक मोशन।
-नेगेटिव प्रॉम्प्ट (अनुशंसित):
-blurry, deformed, low quality, cartoon, anime, extra limbs, text, watermark, overexposed, plastic skin, bad anatomy, low detail, flat lighting.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f9701c2cb9d34351bb27fffca481f5f1/thumbnails/thumbnail.jpg" width="600" alt="रोबोटिक घोड़े पर सवार साइबरनेटिक पावर आर्मर राइडर">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4863)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2054897466357723390) | **Published:** May 14, 2026
-
----
-### शुक्र ग्रह की महिला और स्वर्ग जैसा ग्रह
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक स्वर्ग जैसे ग्रह पर मौजूद सुंदर महिला के लिए एक सिनेमाई वीडियो प्रॉम्प्ट, जिसमें एक चमकदार ब्रह्मांडीय आभा है।
-
-#### 📝 Prompt
-
-```
-सुंदर शुक्र ग्रह की महिला, हल्की सुनहरी चमक, स्वर्ग जैसे ग्रह का दृश्य, सुंदर बहती हुई पोशाक, चमकदार आभा, शांतिपूर्ण ब्रह्मांडीय सभ्यता, अति यथार्थवादी फंतासी पोर्ट्रेट, सिनेमाई सूर्य का प्रकाश
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e9d4a71d4ebda4919c89a8e86a7fe52/thumbnails/thumbnail.jpg" width="600" alt="शुक्र ग्रह की महिला और स्वर्ग जैसा ग्रह">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4769)**
-
-**Author:** [Narmina](https://x.com/narminamoon) | **Source:** [Link](https://x.com/narminamoon/status/2054588306747162627) | **Published:** May 13, 2026
-
----
-### ओरियन वॉरियर वुमन साइंस-फिक्शन पोर्ट्रेट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> भविष्यवादी कवच में एक योद्धा महिला के लिए एक उच्च-विवरण वाला साइंस-फिक्शन प्रॉम्प्ट, जिसमें ब्रह्मांडीय प्रकाश और सिनेमाई छायाएं हैं।
-
-#### 📝 Prompt
-
-```
-शक्तिशाली ओरियन योद्धा महिला, गहरा भविष्यवादी कवच, ब्रह्मांडीय युद्ध का माहौल, चमकती लाल और नीली रोशनी, मजबूत रहस्यमय दृष्टि, अल्ट्रा रियलिस्टिक साइंस-फिक्शन पोर्ट्रेट, सिनेमाई छायाएं
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/49d505302c6916f63402bea08e8bcf76/thumbnails/thumbnail.jpg" width="600" alt="ओरियन वॉरियर वुमन साइंस-फिक्शन पोर्ट्रेट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4761)**
-
-**Author:** [Narmina](https://x.com/narminamoon) | **Source:** [Link](https://x.com/narminamoon/status/2054587951061844327) | **Published:** May 13, 2026
-
----
-### Ethereal Andromedan Celestial Robe
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> कॉस्मिक पैलेस में चांदी जैसी त्वचा और दिव्य वस्त्रों वाली एक अलौकिक महिला के लिए एक विस्तृत साइंस-फिक्शन फैंटेसी प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-Ethereal andromedan woman, silver glowing skin, long white hair, celestial palace, holographic stars, elegant cosmic robe, ultra realistic sci fi fantasy, divine feminine energy, cinematic lighting, highly detailed
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2e442ef2e4de86fa72c0a981b8e7869f/thumbnails/thumbnail.jpg" width="600" alt="Ethereal Andromedan Celestial Robe">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4762)**
-
-**Author:** [Narmina](https://x.com/narminamoon) | **Source:** [Link](https://x.com/narminamoon/status/2054587169402974372) | **Published:** May 13, 2026
-
----
-### नीली एलियन महिला इजिप्शियन साइंस-फिक्शन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक साइंस-फिक्शन वीडियो प्रॉम्प्ट जिसमें ब्रह्मांडीय इजिप्शियन परिवेश में नीली त्वचा वाली एक एलियन महिला है।
-
-#### 📝 Prompt
-
-```
-नीली त्वचा वाली सीरियस एलियन महिला, सुंदर भविष्यवादी कपड़े, इजिप्शियन ब्रह्मांडीय वास्तुकला, तारे और पिरामिड, चमकता हुआ क्रिस्टल, अल्ट्रा रियलिस्टिक साइंस-फिक्शन पोर्ट्रेट
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fe07cfea77ee3a490046f1d7281bc217/thumbnails/thumbnail.jpg" width="600" alt="नीली एलियन महिला इजिप्शियन साइंस-फिक्शन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4763)**
-
-**Author:** [Narmina](https://x.com/narminamoon) | **Source:** [Link](https://x.com/narminamoon/status/2054586816234131840) | **Published:** May 13, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2256,6 +2239,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-22T04:20:43.497Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-22T11:04:14.842Z</sub>
 
 </div>
