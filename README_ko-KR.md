@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **1609** |
+| 📝 총 프롬프트 수 | **1623** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-05-23** |
 
@@ -189,6 +189,276 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### Boy Diving Into Water Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt describing a boy turning around and diving into water with energetic dialogue.
+
+#### 📝 프롬프트
+
+```
+This is what I was born to do! Hold my shoes and watch this! Now the boy turns around and dive into the water!
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c7150e03eb7ba61d0ecbd362ef6bd70f/thumbnails/thumbnail.jpg" width="600" alt="Boy Diving Into Water Scene">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5158)**
+
+**작성자:** [Martin Lopez](https://x.com/Bernviktum) | **출처:** [Link](https://x.com/Bernviktum/status/2057974346166014368) | **게시일:** May 22, 2026
+
+---
+### Cinematic 8K Quality Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt focusing on lighting, textures, and volumetric effects for high-end cinematic video.
+
+#### 📝 프롬프트
+
+```
+Realistic 8K cinematic quality / play camera /Volumetric effect /intense shadows and sounds / eyes should be deep / the leather reflects the light from the surroundings / beauty of her hair strands / The beauty shiny crystalline / her arms and and legs
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3b62c2c2483d03b1601d2f2fbefeffda/thumbnails/thumbnail.jpg" width="600" alt="Cinematic 8K Quality Video">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5161)**
+
+**작성자:** [Arak Dark](https://x.com/orgunus93304) | **출처:** [Link](https://x.com/orgunus93304/status/2057960490744082520) | **게시일:** May 22, 2026
+
+---
+### Batman and Joker Yin-Yang Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt featuring Batman and Joker integrated into a complex Yin-Yang architectural symphony.
+
+#### 📝 프롬프트
+
+```
+Batman X Joker in the Visual Symphony of the Enhanced Yin - Yang Quartet Architecture
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6b8e7213ef166eb36ddbb0530f13c14b/thumbnails/thumbnail.jpg" width="600" alt="Batman and Joker Yin-Yang Video">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5168)**
+
+**작성자:** [Cinema X](https://x.com/Above1988) | **출처:** [Link](https://x.com/Above1988/status/2057955138371784968) | **게시일:** May 22, 2026
+
+---
+### Static Tripod Coastal Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A technical video prompt specifying camera angle, lens feel, and environment details for a coastal scene.
+
+#### 📝 프롬프트
+
+```
+SCENE LOCK: static tripod shot locked from the exact same front 3/4 bow angle as all image frames, natural 35mm lens feel, stable geometry and continuity with cracked slipway stones, RNLI boathouse doors, rusted hand winch, shoreline horizon
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8c219c96b0475905f80ded7acddeae9a/thumbnails/thumbnail.jpg" width="600" alt="Static Tripod Coastal Scene">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5157)**
+
+**작성자:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **출처:** [Link](https://x.com/gpimpmyspace/status/2057952748587626679) | **게시일:** May 22, 2026
+
+---
+### Modern Luxury Villa Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video of a modern white luxury villa featuring a turquoise pool, wooden terrace, and olive trees, created with Grok Imagine.
+
+#### 📝 프롬프트
+
+```
+Modern white luxury villa, turquoise pool, wooden terrace, olive trees and perfect cinematic lighting.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/35f6c111e7ae612a0c937c06af60e2c1/thumbnails/thumbnail.jpg" width="600" alt="Modern Luxury Villa Video">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5170)**
+
+**작성자:** [@PaulImagineX](https://x.com/rezaazer819794) | **출처:** [Link](https://x.com/rezaazer819794/status/2057878912160485470) | **게시일:** May 22, 2026
+
+---
+### 1800s Elven Cottage Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt for an 1800s-style scene featuring an elven brunette with wings inside a vine-covered cottage.
+
+#### 📝 프롬프트
+
+```
+1800’s elven brunette with wings standing inside a cottage overgrown with vines at a table covered with herbs
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c79d2bf62bf24c942563a12e45a20c69/thumbnails/thumbnail.jpg" width="600" alt="1800s Elven Cottage Scene">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5165)**
+
+**작성자:** [✨Alien Queen](https://x.com/MuskWaifu) | **출처:** [Link](https://x.com/MuskWaifu/status/2057878021428621780) | **게시일:** May 22, 2026
+
+---
+### 360 Orbit Harbor Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A technical camera prompt for a smooth 360-degree orbit around an elderly man at a harbor.
+
+#### 📝 프롬프트
+
+```
+The camera slowly and smoothly orbits 360 degrees around the elderly man with wrinkled face and clasped hands sitting cross-legged on the wooden pier in the harbor, revealing the full scene with weathered wooden fishing boats, cloudy overcast sky, water ripples.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/23ef596833786532e02eebd197672250/thumbnails/thumbnail.jpg" width="600" alt="360 Orbit Harbor Scene">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5163)**
+
+**작성자:** [BMX](https://x.com/bmx_ai13) | **출처:** [Link](https://x.com/bmx_ai13/status/2057826819680952608) | **게시일:** May 22, 2026
+
+---
+### Ganesha Ocean POV Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt for Grok-Imagine depicting the deity Ganesha emerging from the ocean and walking over the viewer with a shaky handheld camera effect.
+
+#### 📝 프롬프트
+
+```
+Ganesha walks over the POV person, real life little bit shaky camera, NO BACKGROUND MUSIC NO DIALOGUES.
+```
+
+<img src="https://cms-assets.youmind.com/media/1779524042345_mvrk70_HI7FgYLbcAArhwF.jpg" width="600" alt="Ganesha Ocean POV Video">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5167)**
+
+**작성자:** [safalexeai](https://x.com/safal_exe_ai) | **출처:** [Link](https://x.com/safal_exe_ai/status/2057799545048952980) | **게시일:** May 22, 2026
+
+---
+### Talking Woman with Synchronized Subtitles
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A detailed prompt for Grok Imagine to generate a video of a woman speaking naturally with perfectly synchronized and stylized Japanese subtitles.
+
+#### 📝 프롬프트
+
+```
+A woman smiling and speaking naturally to the camera. Dialogue: 'Instead of making an AI video right away, it's better to make an image with ChatGPT first!' Display Japanese subtitles fully synchronized with the dialogue. Subtitles should be centered on the screen. Center-aligned. Display clearly with white text and black borders. Thick, easy-to-read font. Subtitles break into 1-2 lines. Size is readable on smartphones. Subtitles are fully synchronized with the speaking timing. Subtitles are not cut off in the middle.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e280e00fc329b99e354ddc9ceb81dc6a/thumbnails/thumbnail.jpg" width="600" alt="Talking Woman with Synchronized Subtitles">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5169)**
+
+**작성자:** [読まれるnote画像ナビ【AI副業】](https://x.com/promptdesignjp) | **출처:** [Link](https://x.com/promptdesignjp/status/2057785207500234836) | **게시일:** May 22, 2026
+
+---
+### SpaceX Dragon ISS Docking Zoom
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A technical video prompt for a slow zoom of the SpaceX Dragon capsule docking with the International Space Station.
+
+#### 📝 프롬프트
+
+```
+No voice 
+DO NOT CHANGE ANYTHING 
+Slowly zoom in and watch SpaceX Dragon capsule docking with the International Space Station....CRS-34 Docking — Lirathen Voss — 👽🛰️
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e1b9036455d65c067ff6ff729f6ded23/thumbnails/thumbnail.jpg" width="600" alt="SpaceX Dragon ISS Docking Zoom">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5164)**
+
+**작성자:** [Alex Patricio](https://x.com/alexpatricio204) | **출처:** [Link](https://x.com/alexpatricio204/status/2057739059062046761) | **게시일:** May 22, 2026
+
+---
+### Alien Anthropologist Data Cube Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed cinematic prompt for an alien character examining a holographic cube in a high-tech lab.
+
+#### 📝 프롬프트
+
+```
+No voice 
+
+Ultra-cinematic 5-second vertical video, hyper-realistic 8K, smooth 24fps, dramatic rim lighting. Male alien anthropologist Lirathen Voss (pale bluish-gray textured skin, sharp pointed ears, intense soft turquoise eyes, sleek black and gold armor) examining a holographic data-cube in a dimly lit, high-tech research lab. Dust particles dancing in light beams, shallow depth of field, subtle camera push-in.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/aeb8e3ccaa12176a2577b64025b1e54b/thumbnails/thumbnail.jpg" width="600" alt="Alien Anthropologist Data Cube Video">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5159)**
+
+**작성자:** [Alex Patricio](https://x.com/alexpatricio204) | **출처:** [Link](https://x.com/alexpatricio204/status/2057728482205999320) | **게시일:** May 22, 2026
+
+---
+### Samurai vs Ninjas Action Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An action-packed prompt for a samurai fighting ninjas with fast, inhuman speed and whiplash movements.
+
+#### 📝 프롬프트
+
+```
+A samurai fights off attacking ninjas. Fast whiplash movements. The ninjas are like quick shadows that dash then attack. The samurai swings wildly, back and forth, with inhuman speed.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/95fddf12f286345be473c7f71821885c/thumbnails/thumbnail.jpg" width="600" alt="Samurai vs Ninjas Action Video">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5160)**
+
+**작성자:** [RJ](https://x.com/rjmoonlighter) | **출처:** [Link](https://x.com/rjmoonlighter/status/2057726315231580453) | **게시일:** May 22, 2026
+
+---
+### Rocket Launching to Moon Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Generates a video of a beautifully lit moon in the night sky with a rocket ascending toward it.
+
+#### 📝 프롬프트
+
+```
+Generate an image of the moon that is lit up beautifully bright in the night sky and have a rocket shouting up in the sky towards it.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6303746517129c5edf6aa355962676dd/thumbnails/thumbnail.jpg" width="600" alt="Rocket Launching to Moon Video">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5162)**
+
+**작성자:** [S Stone](https://x.com/SStone63809012) | **출처:** [Link](https://x.com/SStone63809012/status/2057689360317747445) | **게시일:** May 22, 2026
+
+---
+### Dissolving Spiritual Scientific Body
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An advanced visual effects prompt describing a body blurring into light and revealing a crystal atomic spiritual form.
+
+#### 📝 프롬프트
+
+```
+solid body slowly blurs and dissolves as if fading at the speed of light, revealing the true form underneath — a glowing spiritual-scientific body made of beautiful electron clouds and crystal-like glass atomic structure
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/77de9c7bed5f67e6431323c73867e64a/thumbnails/thumbnail.jpg" width="600" alt="Dissolving Spiritual Scientific Body">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5166)**
+
+**작성자:** [Chelle](https://x.com/freesawn137) | **출처:** [Link](https://x.com/freesawn137/status/2057671936952393893) | **게시일:** May 22, 2026
+
+---
 ### 우주를 유영하는 미래형 우주선
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1905,277 +2175,6 @@ Grok girl, 애니메이션 스타일, 일본 애니메이션 소녀, "Grok-chan"
 **작성자:** [Thoughts Creator](https://x.com/ThoughCreator) | **출처:** [Link](https://x.com/ThoughCreator/status/2055564820531867868) | **게시일:** May 16, 2026
 
 ---
-### 일출 풍경을 바라보는 고양이
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 피어오르는 연기와 아침 새들이 있는 자연 풍경을 관찰하는 고양이를 묘사한 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-고양이가 이 자연 풍경을 바라보고 있습니다. 고양이는 땅에서 피어오르는 연기와 날아다니며 지저귀는 새들을 보고 있으며, 태양이 떠오르기 시작합니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1fad45a8da3ea2f6d60ac6d9b88f675e/thumbnails/thumbnail.jpg" width="600" alt="일출 풍경을 바라보는 고양이">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4903)**
-
-**작성자:** [ahmed ibrahim](https://x.com/AhmedYasienibby) | **출처:** [Link](https://x.com/AhmedYasienibby/status/2055521056706740511) | **게시일:** May 16, 2026
-
----
-### 사이버펑크 악마 사이보그 워로드
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 비 내리는 메가시티를 배경으로 한 트랜스포머 스타일의 악마 사이보그 워로드를 담은 6초 분량의 실사풍 시네마틱 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-트랜스포머 스타일의 압도적인 차세대 사이버펑크 악마 사이보그 워로드를 담은 6초 분량의 실사풍 시네마틱 영상. 어두운 무광 블랙 장갑판, 노출된 유압 파이프, 굵고 빛나는 오렌지색 에너지 케이블, 그리고 강력한 에너지를 내뿜으며 갈라진 거대한 용암 같은 오렌지색 뿔로 이루어진 초정밀 기계 몸체. 창백한 합성 피부 위로 복잡한 검은색 부족 문신이 새겨져 있고, 강렬하게 빛나는 오렌지색 세로 눈동자와 날카로운 금속 송곳니가 가득한 사나운 입을 가짐.
-역동적인 시퀀스: 밤, 비 내리는 어두운 사이버펑크 메가시티 골목에서 사이보그가 웅크린 자세에서 천천히 일어난다. 젖은 금속 표면에 네온사인이 반사된다. 그가 극적으로 고개를 들자 뿔이 더 밝게 빛나고, 눈에서 에너지가 뿜어져 나오며 갑옷을 따라 오렌지색 에너지 아크가 흐른다. 폭우가 쏟아지는 가운데 그가 강력한 기계적 포효를 내지르며, 입과 관절에서 불꽃과 녹아내리는 듯한 오렌지색 에너지가 뚝뚝 떨어진다. 카메라는 로우 앵글의 히어로 샷으로 시작하여, 그를 부드럽게 회전하며 포효하는 얼굴을 극적으로 클로즈업한 뒤, 배경에 번개가 치는 강력한 와이드 샷으로 빠져나간다.
-실사풍, 초정밀, 8K, 시네마틱 컬러 그레이딩, 극적인 볼류메트릭 라이팅, 갓 레이, 짙은 필름 그레인, 아나모픽 렌즈 플레어, 분위기 있는 사이버펑크 무드, 어두운 톤과 대비되는 선명한 오렌지색 포인트, 블레이드 러너 2049 및 공각기동대 미학이 결합된 차세대 트랜스포머 디자인, 금속과 고무 호스, 합성 피부의 극도로 사실적인 질감, 유려한 움직임, 24fps, 마스터피스, 최고 품질.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d1199e53958b7be09b6ca027b576f7c9/thumbnails/thumbnail.jpg" width="600" alt="사이버펑크 악마 사이보그 워로드">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4899)**
-
-**작성자:** [Thoughts Creator](https://x.com/ThoughCreator) | **출처:** [Link](https://x.com/ThoughCreator/status/2055482609757462894) | **게시일:** May 16, 2026
-
----
-### 일출 속에서 플루트를 연주하는 여성
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 황금빛 일출 아래 벤치에 앉아 대나무 플루트를 연주하는 핑크 블론드 헤어와 크리스털 왕관을 쓴 여성과 그 주변에 모여든 새들을 묘사한 평온한 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-길게 흐르는 핑크 블론드 헤어와 섬세한 크리스털 왕관을 쓴 온화한 여성이 황금빛 일출 속 나무 벤치에 앉아 동물들만 들을 수 있을 정도로 아주 조용히 대나무 플루트를 연주합니다. 새들은 가까이 내려앉아 귀를 기울입니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/391d63ab714f26360d296b6e7e956158/thumbnails/thumbnail.jpg" width="600" alt="일출 속에서 플루트를 연주하는 여성">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4900)**
-
-**작성자:** [Carina](https://x.com/Freehere3) | **출처:** [Link](https://x.com/Freehere3/status/2055462004047942018) | **게시일:** May 16, 2026
-
----
-### 사우스 파크 우주 과학 미션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 사우스 파크 캐릭터들이 우주 미션을 수행하는 애니메이션으로, G4 TV의 'Attack of the Show' 특유의 향수를 불러일으키는 미학으로 디자인되었습니다.
-
-#### 📝 프롬프트
-
-```
-사우스 파크 스타일, 크레이그, 트윅, 지미, 클라이드, 웬디, 토큰이 참여하는 우주 과학 미션, G4 'Attack of the Show' 미학 적용
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a323caf0bb73af52c959a78914496d8/thumbnails/thumbnail.jpg" width="600" alt="사우스 파크 우주 과학 미션">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4896)**
-
-**작성자:** [Ruzzel Francisco](https://x.com/RuzzelFrannuwp) | **출처:** [Link](https://x.com/RuzzelFrannuwp/status/2055451406975615240) | **게시일:** May 16, 2026
-
----
-### 캐릭터 의상 색상 변경 시퀀스
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 피사체가 회전하면서 의상 색상이 검은색에서 갈색으로 변하고, 마지막에 캐릭터의 본모습이 드러나도록 지시하는 비디오 모션 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-이 사람이 두 번 회전하게 하세요. 의상은 검은색으로 변했다가 갈색으로 변한 뒤 다시 원래대로 돌아오고, 그녀가 모자를 벗으면 아름다운 빨간색 곱슬머리가 드러나며 웃음을 터뜨립니다!
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e3fe09cef57995fa7ec2a086cb6ac0ad/thumbnails/thumbnail.jpg" width="600" alt="캐릭터 의상 색상 변경 시퀀스">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4856)**
-
-**작성자:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **출처:** [Link](https://x.com/CindyWeigapn6/status/2055373714569490808) | **게시일:** May 15, 2026
-
----
-### 달을 향해 뛰어오르는 염소들
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 발레복을 입고 무지개 위를 뛰어넘으며 공중제비를 돌며 달까지 도약하는 염소들을 담은 엉뚱하고 초현실적인 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-염소들이 발레복을 입고 발밑에 무지개를 둔 채 공중제비를 돌며 달까지 뛰어올랐다가 다시 내려오게 하세요
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/869a2b5962345afdf557b3a7215b0c34/thumbnails/thumbnail.jpg" width="600" alt="달을 향해 뛰어오르는 염소들">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4857)**
-
-**작성자:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **출처:** [Link](https://x.com/CindyWeigapn6/status/2055370762031186048) | **게시일:** May 15, 2026
-
----
-### 홀로그램 데이터 바인 애니메이션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 에너지 펄스가 흐르는 부유식 홀로그램 데이터 바인의 매끄러운 애니메이션을 생성하기 위한 기술 중심 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-빛나는 에너지 펄스와 얽혀 있는 부유식 홀로그램 데이터 바인, 깔끔한 테크 미니멀 팔레트, 완벽하게 매끄러운 애니메이션
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/83a53b7be9bde4f088eef7a638bd8789/thumbnails/thumbnail.jpg" width="600" alt="홀로그램 데이터 바인 애니메이션">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4862)**
-
-**작성자:** [𝐙𝐞𝐧𝐠 💜](https://x.com/zeng_wt) | **출처:** [Link](https://x.com/zeng_wt/status/2055332447684903306) | **게시일:** May 15, 2026
-
----
-### Tesla Roadster SpaceX 로켓
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> SpaceX 로켓을 사용하여 시간 여행을 하는 스텔스 그레이 색상의 Tesla Roadster v2를 담은 영화 같은 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-스텔스 그레이 색상의 Tesla Roadster v2가 SpaceX 로켓을 점화하며 시간을 가로질러 질주하는 모습.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/322b375fd5249f70defd58bf5ed34f1c/thumbnails/thumbnail.jpg" width="600" alt="Tesla Roadster SpaceX 로켓">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4854)**
-
-**작성자:** [Peter Frandsen 🇸🇪](https://x.com/happy_swede) | **출처:** [Link](https://x.com/happy_swede/status/2055290643061051573) | **게시일:** May 15, 2026
-
----
-### 캐릭터 움직임 영상 지침
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 캐릭터가 언덕을 내려오며 특정 참조 프레임과 상호작용하고 대화하도록 지시하는 기능적 영상 생성 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-이미지 3이 언덕을 내려와 이미지 2와 3을 지나가게 하고, 영어와 중국어로 '좋은 아침입니다'라고 말한 뒤 '멋진 하루 보내세요'라고 말하게 하세요.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8ef23ca30317bb75d4dfeefcb3853ad/thumbnails/thumbnail.jpg" width="600" alt="캐릭터 움직임 영상 지침">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4859)**
-
-**작성자:** [Amandasatiro](https://x.com/Amandasatiro07) | **출처:** [Link](https://x.com/Amandasatiro07/status/2055275119740686679) | **게시일:** May 15, 2026
-
----
-### 초현실적인 정글 스크린 탈출
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 디지털 스크린에서 활기찬 정글 세계로 걸어 나오는 여성의 초현실적인 영상을 생성하기 위한 시네마틱 프롬프트로, 하이패션과 에코 퓨처리즘 요소를 포함합니다.
-
-#### 📝 프롬프트
-
-```
-지면에 박힌 거대한 균열이 간 디지털 스크린에서 자신감 넘치는 여성이 걸어 나오는 초현실적인 시네마틱 장면입니다. 스크린 안쪽은 빛나는 식물, 안개, 생물 발광을 하는 야생 동물들로 가득한 활기찬 정글 세계입니다. 그녀가 앞으로 발을 내딛자 덩굴과 물이 스크린 밖으로 쏟아져 나오며, 사실적인 물보라와 입자 효과가 동작 중간에 멈춘 듯 연출됩니다. 그녀의 긴 머리카락은 자연스럽게 흩날리고, 표정은 차분하면서도 강렬합니다. 그녀는 유기적인 질감과 세련된 디자인이 조화를 이룬 현대적인 하이패션 의상을 입고 있습니다. 드라마틱한 시네마틱 조명, 분위기 있는 어두운 배경, 초현실적인 디테일, 얕은 피사계 심도, 판타지 리얼리즘, 4K 해상도, 높은 대비, 선명한 초점, 럭셔리 에코 퓨처리즘 포스터, 초현실적 디지털 아트, 전문적인 색 보정이 적용되었습니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/383d6d0e997325da111343ad10c2249e/thumbnails/thumbnail.jpg" width="600" alt="초현실적인 정글 스크린 탈출">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4860)**
-
-**작성자:** [Mr Das](https://x.com/MrDasOnX) | **출처:** [Link](https://x.com/MrDasOnX/status/2055273422276694408) | **게시일:** May 15, 2026
-
----
-### 사이버펑크 안드로이드 기계 변신 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 어두운 산업용 격납고에서 두 명의 여성 안드로이드가 유려하게 기계적 변신을 하는 6초 분량의 하이엔드 시네마틱 영상 생성용 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-시네마틱 6초 포토리얼리스틱 영상, 초정밀 차세대 사이버펑크 트랜스포머 장면. 푸른색 볼류메트릭 안개와 빛나는 네온 조명으로 가득 찬 어둡고 분위기 있는 산업용 격납고 안에서, 두 명의 미래지향적 여성 안드로이드가 긴장감 넘치는 옆모습으로 서로를 마주 보고 매우 가깝게 서 있습니다. 왼쪽 안드로이드는 빛나는 붉은 바이저 눈을 가진 광택 나는 검은색 헬멧을 쓰고 있으며, 붉은 에너지가 맥동하는 복잡한 기계식 목 케이블이 드러나 있습니다. 오른쪽 안드로이드는 갈라진 흰색 도자기 얼굴 사이로 빛나는 붉은 사이버네틱 내부 구조와 노출된 기계식 턱, 긴 검은색 케이블 드레드락 헤어스타일을 하고 있습니다. 둘 다 빛나는 붉은 회로 라인이 있는 피부에 밀착된 초광택 검은색 액체 금속 바디슈트를 착용하고 있습니다. 0~2초: 강렬하게 서로를 응시하는 느리고 극적인 클로즈업, 붉은 조명이 더 강하게 맥동하며 희미한 불꽃과 에너지가 그들 사이에서 아크를 그리며 튑니다. 2~4초: 두 안드로이드가 동기화된 유려한 차세대 변신을 시작합니다. 머리, 어깨, 가슴의 패널들이 고급 트랜스포머처럼 기계적 정밀함으로 부드럽게 이동하고 펼쳐지며, 우아한 여성적 형태를 유지하면서도 그 아래의 더욱 복잡하고 빛나는 사이버네틱 구조를 드러냅니다. 4~6초: 카메라가 그들 주위를 극적으로 회전하며 변신이 절정에 달하고, 밝은 붉은색과 푸른색 렌즈 플레어, 튀는 불꽃과 에너지 입자가 나타납니다. 그들이 서로를 향해 천천히 손을 들어 올리자 몸에서 강력한 빛 에너지가 방출됩니다. 웅장한 사이버펑크 분위기, 극적인 림 라이트, 시네마틱 컬러 그레이딩, 초현실적인 디테일, 8K 화질, ARRI Alexa 65 및 아나모픽 렌즈로 촬영, 미세한 필름 그레인, 마스터급 구도, 숨 막히는 SF 비주얼. 스타일: 포토리얼리스틱, 시네마틱, 사이버펑크, 하이엔드 VFX, 극적인 조명, 분위기 있고 강렬함.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/24db440367726435312c3bc663a44250/thumbnails/thumbnail.jpg" width="600" alt="사이버펑크 안드로이드 기계 변신 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4864)**
-
-**작성자:** [Thoughts Creator](https://x.com/ThoughCreator) | **출처:** [Link](https://x.com/ThoughCreator/status/2055213619076571426) | **게시일:** May 15, 2026
-
----
-### 역동적인 헤어 및 립 컬러 전환
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 단일 영상 시퀀스 내에서 여러 헤어 컬러를 순환하고 립 컬러를 변경하는 복합 변환 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-그녀의 머리색을 은색에서 흰색, 금발, 분홍색, 라벤더색, 보라색, 노란색, 주황색, 파란색으로 순차적으로 바꾸고 입술 색은 체리 레드 색상으로 변경해 줘
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5fd92ce04eb342c2fdbdc5b621e213cb/thumbnails/thumbnail.jpg" width="600" alt="역동적인 헤어 및 립 컬러 전환">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4858)**
-
-**작성자:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **출처:** [Link](https://x.com/CindyWeigapn6/status/2055193653128143055) | **게시일:** May 15, 2026
-
----
-### 미래지향적 유목민 사막 축제
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 폭풍우 치는 하늘 아래 구리빛 자전거와 화려하게 장식된 낙타들이 어우러진 SF풍 사막 축제의 1인칭 시점.
-
-#### 📝 프롬프트
-
-```
-POV: 당신은 지금 모래 언덕에서 열리는 미래지향적 유목민 축제에 발을 들였습니다. 폭풍우 치는 하늘 아래 구리빛 자전거, 장식된 낙타, 그리고 끝없이 펼쳐진 파티 배너들이 장관을 이룹니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e415134402f087606792c40246d9344/thumbnails/thumbnail.jpg" width="600" alt="미래지향적 유목민 사막 축제">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4855)**
-
-**작성자:** [Jacqueline](https://x.com/lipsticktazer69) | **출처:** [Link](https://x.com/lipsticktazer69/status/2055131067913212319) | **게시일:** May 15, 2026
-
----
-### 거대 메카의 궤도 착륙
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 지구에 착륙하는 거대 메카 로봇을 위한 매우 상세한 SF 사이버펑크 프롬프트로, 극적인 충격파, 네온 도시 풍경, 영화 같은 카메라 워크가 특징입니다.
-
-#### 📝 프롬프트
-
-```
-영화 같은 사실적인 6초 영상, 초고해상도 8K, 차세대 트랜스포머 SF 사이버펑크 스타일. 높이 200미터의 거대한 인간형 메카 로봇이 매끄러운 은백색과 무광 검정색 장갑판, 빛나는 청록색 회로 라인, 위협적인 붉은 광학 눈을 장착하고 궤도에서 지구를 향해 극적으로 하강합니다.
-거대한 로봇이 밤의 광활한 사이버펑크 메가시티 가장자리에 지구가 흔들릴 정도의 충격으로 착륙합니다. 거대한 발이 대기를 강타하며 먼지, 불꽃, 빛나는 파편으로 이루어진 거대한 충격파를 일으키고, 이는 행성 표면을 가로질러 퍼져 나갑니다. 홀로그램 에너지 링과 네온 블루 플라즈마 아크가 강력한 팔과 주먹 주변에서 강렬하게 소용돌이칩니다.
-역동적인 로우 앵글의 영화적 카메라가 거대 로봇 아래에서 천천히 회전하며 위로 기울어지며, 빛나는 푸른 지구 지평선과 별이 빛나는 우주 배경을 뒤로한 채 로봇의 신적인 규모를 포착합니다. 저 멀리 아래로 날아다니는 자동차와 네온 불빛의 마천루가 보입니다. 볼륨감 있는 갓 레이, 대기 안개, 렌즈 플레어, 빠르게 움직이는 입자의 모션 블러, 초현실적인 금속 반사 및 복잡한 기계적 디테일이 돋보입니다.
-딥 블랙, 생동감 넘치는 네온 시안, 마젠타 및 레드 액센트가 어우러진 사이버펑크 색감 보정, 극적인 림 라이팅. 미친 듯이 상세하고 사실적이며 IMAX 퀄리티, Arri Alexa 65 및 아나모픽 렌즈로 촬영, 드니 빌뇌브와 마이클 베이 감독 스타일, 24fps, 영화적 걸작 --ar 16:9 --stylize 250 --v 6
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d330bf382dd9fd8bb84a2ee3590997f1/thumbnails/thumbnail.jpg" width="600" alt="거대 메카의 궤도 착륙">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=4861)**
-
-**작성자:** [Thoughts Creator](https://x.com/ThoughCreator) | **출처:** [Link](https://x.com/ThoughCreator/status/2055099462150988115) | **게시일:** May 15, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2237,6 +2236,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-05-23T06:46:34.779Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-05-23T10:08:17.603Z</sub>
 
 </div>

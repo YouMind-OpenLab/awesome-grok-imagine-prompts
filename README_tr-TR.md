@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1609** |
+| 📝 Total Prompts | **1623** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-23** |
 
@@ -189,6 +189,276 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Boy Diving Into Water Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt describing a boy turning around and diving into water with energetic dialogue.
+
+#### 📝 Prompt
+
+```
+This is what I was born to do! Hold my shoes and watch this! Now the boy turns around and dive into the water!
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c7150e03eb7ba61d0ecbd362ef6bd70f/thumbnails/thumbnail.jpg" width="600" alt="Boy Diving Into Water Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5158)**
+
+**Author:** [Martin Lopez](https://x.com/Bernviktum) | **Source:** [Link](https://x.com/Bernviktum/status/2057974346166014368) | **Published:** May 22, 2026
+
+---
+### Cinematic 8K Quality Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt focusing on lighting, textures, and volumetric effects for high-end cinematic video.
+
+#### 📝 Prompt
+
+```
+Realistic 8K cinematic quality / play camera /Volumetric effect /intense shadows and sounds / eyes should be deep / the leather reflects the light from the surroundings / beauty of her hair strands / The beauty shiny crystalline / her arms and and legs
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3b62c2c2483d03b1601d2f2fbefeffda/thumbnails/thumbnail.jpg" width="600" alt="Cinematic 8K Quality Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5161)**
+
+**Author:** [Arak Dark](https://x.com/orgunus93304) | **Source:** [Link](https://x.com/orgunus93304/status/2057960490744082520) | **Published:** May 22, 2026
+
+---
+### Batman and Joker Yin-Yang Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt featuring Batman and Joker integrated into a complex Yin-Yang architectural symphony.
+
+#### 📝 Prompt
+
+```
+Batman X Joker in the Visual Symphony of the Enhanced Yin - Yang Quartet Architecture
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6b8e7213ef166eb36ddbb0530f13c14b/thumbnails/thumbnail.jpg" width="600" alt="Batman and Joker Yin-Yang Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5168)**
+
+**Author:** [Cinema X](https://x.com/Above1988) | **Source:** [Link](https://x.com/Above1988/status/2057955138371784968) | **Published:** May 22, 2026
+
+---
+### Static Tripod Coastal Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A technical video prompt specifying camera angle, lens feel, and environment details for a coastal scene.
+
+#### 📝 Prompt
+
+```
+SCENE LOCK: static tripod shot locked from the exact same front 3/4 bow angle as all image frames, natural 35mm lens feel, stable geometry and continuity with cracked slipway stones, RNLI boathouse doors, rusted hand winch, shoreline horizon
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8c219c96b0475905f80ded7acddeae9a/thumbnails/thumbnail.jpg" width="600" alt="Static Tripod Coastal Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5157)**
+
+**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2057952748587626679) | **Published:** May 22, 2026
+
+---
+### Modern Luxury Villa Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video of a modern white luxury villa featuring a turquoise pool, wooden terrace, and olive trees, created with Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Modern white luxury villa, turquoise pool, wooden terrace, olive trees and perfect cinematic lighting.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/35f6c111e7ae612a0c937c06af60e2c1/thumbnails/thumbnail.jpg" width="600" alt="Modern Luxury Villa Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5170)**
+
+**Author:** [@PaulImagineX](https://x.com/rezaazer819794) | **Source:** [Link](https://x.com/rezaazer819794/status/2057878912160485470) | **Published:** May 22, 2026
+
+---
+### 1800s Elven Cottage Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt for an 1800s-style scene featuring an elven brunette with wings inside a vine-covered cottage.
+
+#### 📝 Prompt
+
+```
+1800’s elven brunette with wings standing inside a cottage overgrown with vines at a table covered with herbs
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c79d2bf62bf24c942563a12e45a20c69/thumbnails/thumbnail.jpg" width="600" alt="1800s Elven Cottage Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5165)**
+
+**Author:** [✨Alien Queen](https://x.com/MuskWaifu) | **Source:** [Link](https://x.com/MuskWaifu/status/2057878021428621780) | **Published:** May 22, 2026
+
+---
+### 360 Orbit Harbor Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A technical camera prompt for a smooth 360-degree orbit around an elderly man at a harbor.
+
+#### 📝 Prompt
+
+```
+The camera slowly and smoothly orbits 360 degrees around the elderly man with wrinkled face and clasped hands sitting cross-legged on the wooden pier in the harbor, revealing the full scene with weathered wooden fishing boats, cloudy overcast sky, water ripples.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/23ef596833786532e02eebd197672250/thumbnails/thumbnail.jpg" width="600" alt="360 Orbit Harbor Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5163)**
+
+**Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2057826819680952608) | **Published:** May 22, 2026
+
+---
+### Ganesha Ocean POV Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt for Grok-Imagine depicting the deity Ganesha emerging from the ocean and walking over the viewer with a shaky handheld camera effect.
+
+#### 📝 Prompt
+
+```
+Ganesha walks over the POV person, real life little bit shaky camera, NO BACKGROUND MUSIC NO DIALOGUES.
+```
+
+<img src="https://cms-assets.youmind.com/media/1779524042345_mvrk70_HI7FgYLbcAArhwF.jpg" width="600" alt="Ganesha Ocean POV Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5167)**
+
+**Author:** [safalexeai](https://x.com/safal_exe_ai) | **Source:** [Link](https://x.com/safal_exe_ai/status/2057799545048952980) | **Published:** May 22, 2026
+
+---
+### Talking Woman with Synchronized Subtitles
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A detailed prompt for Grok Imagine to generate a video of a woman speaking naturally with perfectly synchronized and stylized Japanese subtitles.
+
+#### 📝 Prompt
+
+```
+A woman smiling and speaking naturally to the camera. Dialogue: 'Instead of making an AI video right away, it's better to make an image with ChatGPT first!' Display Japanese subtitles fully synchronized with the dialogue. Subtitles should be centered on the screen. Center-aligned. Display clearly with white text and black borders. Thick, easy-to-read font. Subtitles break into 1-2 lines. Size is readable on smartphones. Subtitles are fully synchronized with the speaking timing. Subtitles are not cut off in the middle.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e280e00fc329b99e354ddc9ceb81dc6a/thumbnails/thumbnail.jpg" width="600" alt="Talking Woman with Synchronized Subtitles">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5169)**
+
+**Author:** [読まれるnote画像ナビ【AI副業】](https://x.com/promptdesignjp) | **Source:** [Link](https://x.com/promptdesignjp/status/2057785207500234836) | **Published:** May 22, 2026
+
+---
+### SpaceX Dragon ISS Docking Zoom
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A technical video prompt for a slow zoom of the SpaceX Dragon capsule docking with the International Space Station.
+
+#### 📝 Prompt
+
+```
+No voice 
+DO NOT CHANGE ANYTHING 
+Slowly zoom in and watch SpaceX Dragon capsule docking with the International Space Station....CRS-34 Docking — Lirathen Voss — 👽🛰️
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e1b9036455d65c067ff6ff729f6ded23/thumbnails/thumbnail.jpg" width="600" alt="SpaceX Dragon ISS Docking Zoom">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5164)**
+
+**Author:** [Alex Patricio](https://x.com/alexpatricio204) | **Source:** [Link](https://x.com/alexpatricio204/status/2057739059062046761) | **Published:** May 22, 2026
+
+---
+### Alien Anthropologist Data Cube Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed cinematic prompt for an alien character examining a holographic cube in a high-tech lab.
+
+#### 📝 Prompt
+
+```
+No voice 
+
+Ultra-cinematic 5-second vertical video, hyper-realistic 8K, smooth 24fps, dramatic rim lighting. Male alien anthropologist Lirathen Voss (pale bluish-gray textured skin, sharp pointed ears, intense soft turquoise eyes, sleek black and gold armor) examining a holographic data-cube in a dimly lit, high-tech research lab. Dust particles dancing in light beams, shallow depth of field, subtle camera push-in.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/aeb8e3ccaa12176a2577b64025b1e54b/thumbnails/thumbnail.jpg" width="600" alt="Alien Anthropologist Data Cube Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5159)**
+
+**Author:** [Alex Patricio](https://x.com/alexpatricio204) | **Source:** [Link](https://x.com/alexpatricio204/status/2057728482205999320) | **Published:** May 22, 2026
+
+---
+### Samurai vs Ninjas Action Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An action-packed prompt for a samurai fighting ninjas with fast, inhuman speed and whiplash movements.
+
+#### 📝 Prompt
+
+```
+A samurai fights off attacking ninjas. Fast whiplash movements. The ninjas are like quick shadows that dash then attack. The samurai swings wildly, back and forth, with inhuman speed.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/95fddf12f286345be473c7f71821885c/thumbnails/thumbnail.jpg" width="600" alt="Samurai vs Ninjas Action Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5160)**
+
+**Author:** [RJ](https://x.com/rjmoonlighter) | **Source:** [Link](https://x.com/rjmoonlighter/status/2057726315231580453) | **Published:** May 22, 2026
+
+---
+### Rocket Launching to Moon Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Generates a video of a beautifully lit moon in the night sky with a rocket ascending toward it.
+
+#### 📝 Prompt
+
+```
+Generate an image of the moon that is lit up beautifully bright in the night sky and have a rocket shouting up in the sky towards it.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6303746517129c5edf6aa355962676dd/thumbnails/thumbnail.jpg" width="600" alt="Rocket Launching to Moon Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5162)**
+
+**Author:** [S Stone](https://x.com/SStone63809012) | **Source:** [Link](https://x.com/SStone63809012/status/2057689360317747445) | **Published:** May 22, 2026
+
+---
+### Dissolving Spiritual Scientific Body
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An advanced visual effects prompt describing a body blurring into light and revealing a crystal atomic spiritual form.
+
+#### 📝 Prompt
+
+```
+solid body slowly blurs and dissolves as if fading at the speed of light, revealing the true form underneath — a glowing spiritual-scientific body made of beautiful electron clouds and crystal-like glass atomic structure
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/77de9c7bed5f67e6431323c73867e64a/thumbnails/thumbnail.jpg" width="600" alt="Dissolving Spiritual Scientific Body">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5166)**
+
+**Author:** [Chelle](https://x.com/freesawn137) | **Source:** [Link](https://x.com/freesawn137/status/2057671936952393893) | **Published:** May 22, 2026
+
+---
 ### Uzayda Yörüngede Dönen Fütüristik Uzay Gemisi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1905,277 +2175,6 @@ Sinematik 6 saniyelik fotogerçekçi video, ultra gerçekçi 8K, anamorfik lensl
 **Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2055564820531867868) | **Published:** May 16, 2026
 
 ---
-### Gün Doğumu Manzarasını İzleyen Kedi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Yükselen dumanlar ve sabah kuşlarıyla dolu doğal bir manzarayı izleyen bir kediyi betimleyen açıklayıcı bir video istemi.
-
-#### 📝 Prompt
-
-```
-Kedi bu doğal manzaraya bakıyor; yerden yükselen dumanları, uçan ve cıvıldayan kuşları görüyor ve güneş doğmaya başlıyor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1fad45a8da3ea2f6d60ac6d9b88f675e/thumbnails/thumbnail.jpg" width="600" alt="Gün Doğumu Manzarasını İzleyen Kedi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4903)**
-
-**Author:** [ahmed ibrahim](https://x.com/AhmedYasienibby) | **Source:** [Link](https://x.com/AhmedYasienibby/status/2055521056706740511) | **Published:** May 16, 2026
-
----
-### Cyberpunk Şeytani Siborg Savaş Lordu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Yağmurlu bir mega şehirde geçen, Transformers tarzı şeytani bir siborg savaş lordunun 6 saniyelik fotogerçekçi videosu için epik sinematik komut.
-
-#### 📝 Prompt
-
-```
-Transformers tarzı, korkutucu ve üst düzey bir cyberpunk şeytani siborg savaş lordunun 6 saniyelik sinematik ve fotogerçekçi videosu; koyu mat siyah zırh plakaları, açıkta duran hidrolik borular, kalın parlayan turuncu enerji kabloları ve güçle titreşen devasa, çatlak lav benzeri turuncu boynuzlara sahip ultra detaylı mekanik gövde. Yüzünde soluk sentetik deri üzerinde karmaşık siyah kabile dövmeleri, yoğun parlayan turuncu yarık gözler ve keskin metalik dişlerle dolu vahşi, kükreyen bir ağız var.
-Dinamik sekans: Siborg, gece vakti karanlık ve yağmurlu bir cyberpunk mega şehir sokağında çömelmiş pozisyondan yavaşça ayağa kalkar; neon ışıkları ıslak metal yüzeylerden yansır. Başını dramatik bir şekilde kaldırır, boynuzları daha parlak bir şekilde yanar, zırhının üzerinde turuncu enerji kıvılcımları dolaşırken gözleri güçle parlar. Şiddetli yağmur yağarken güçlü bir mekanik kükreme çıkarır; ağzından ve eklemlerinden kıvılcımlar ve erimiş turuncu enerji damlar. Kamera düşük açılı bir kahraman çekimiyle başlar, etrafında akıcı bir şekilde dönerken kükreyen yüzüne dramatik bir yakın çekim için yaklaşır ve ardından arka planda şimşekler çakarken güçlü bir geniş çekime geri döner.
-Fotogerçekçi, hiper detaylı, 8K, sinematik renk derecelendirme, dramatik hacimsel aydınlatma, tanrı ışınları, yoğun film greni, anamorfik lens parlamaları, karamsar cyberpunk atmosferi, canlı turuncu vurgularla koyu tonlar, Blade Runner 2049 ve Ghost in the Shell estetiğiyle harmanlanmış üst düzey Transformers tasarımı, metal, kauçuk hortumlar ve sentetik deri üzerinde son derece gerçekçi dokular, akıcı hareket, 24fps, başyapıt, en iyi kalite.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d1199e53958b7be09b6ca027b576f7c9/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Şeytani Siborg Savaş Lordu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4899)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2055482609757462894) | **Published:** May 16, 2026
-
----
-### Gün Doğumunda Flüt Çalan Kadın
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Altın rengi bir gün doğumunda, ahşap bir bankta oturup bambu flüt çalan, pembe-sarı saçlı ve kristal taçlı bir kadının, etrafındaki kuşların dikkatle dinlediği huzurlu bir video istemi.
-
-#### 📝 Prompt
-
-```
-Uzun, dalgalı pembe-sarı saçları ve zarif kristal tacıyla huzurlu kadın, altın rengi gün doğumunda ahşap bankta oturuyor ve sadece hayvanların duyabileceği kadar kısık bir sesle bambu flüt çalıyor. Kuşlar yakınına konmuş, dikkatle onu dinliyor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/391d63ab714f26360d296b6e7e956158/thumbnails/thumbnail.jpg" width="600" alt="Gün Doğumunda Flüt Çalan Kadın">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4900)**
-
-**Author:** [Carina](https://x.com/Freehere3) | **Source:** [Link](https://x.com/Freehere3/status/2055462004047942018) | **Published:** May 16, 2026
-
----
-### South Park Uzay Bilimi Görevi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> South Park karakterlerinin bir uzay görevindeki maceralarını konu alan, nostaljik G4 TV Attack of the Show estetiğiyle tasarlanmış bir animasyon.
-
-#### 📝 Prompt
-
-```
-South Park tarzı, Craig, Tweek, Jimmy, Clyde, Wendy, Token bir uzay bilimi görevinde, Attack of the Show G4 estetiği
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a323caf0bb73af52c959a78914496d8/thumbnails/thumbnail.jpg" width="600" alt="South Park Uzay Bilimi Görevi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4896)**
-
-**Author:** [Ruzzel Francisco](https://x.com/RuzzelFrannuwp) | **Source:** [Link](https://x.com/RuzzelFrannuwp/status/2055451406975615240) | **Published:** May 16, 2026
-
----
-### Karakter Kıyafet Rengi Değişim Sekansı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Karakterin kendi etrafında dönerken kıyafetinin siyahtan kahverengiye dönüştüğü ve karakterin kendini gösterdiği bir video hareket komutu.
-
-#### 📝 Prompt
-
-```
-Bu kişinin iki kez kendi etrafında dönmesini sağla; kıyafeti önce siyaha, sonra kahverengiye, ardından tekrar eski rengine dönsün. Sonunda şapkasını çıkarsın, güzel kızıl bukleleri ortaya çıksın ve gülsün!
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e3fe09cef57995fa7ec2a086cb6ac0ad/thumbnails/thumbnail.jpg" width="600" alt="Karakter Kıyafet Rengi Değişim Sekansı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4856)**
-
-**Author:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **Source:** [Link](https://x.com/CindyWeigapn6/status/2055373714569490808) | **Published:** May 15, 2026
-
----
-### Aya Zıplayan Keçiler
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Tütü giymiş keçilerin gökkuşakları eşliğinde ters taklalar atarak aya zıpladığı, fantastik ve sürreal bir video istemi.
-
-#### 📝 Prompt
-
-```
-Keçilerin ayaklarının altında gökkuşakları ile aya zıplayıp geri dönmelerini, tütü giyerek ters taklalar atmalarını sağlayın
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/869a2b5962345afdf557b3a7215b0c34/thumbnails/thumbnail.jpg" width="600" alt="Aya Zıplayan Keçiler">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4857)**
-
-**Author:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **Source:** [Link](https://x.com/CindyWeigapn6/status/2055370762031186048) | **Published:** May 15, 2026
-
----
-### Holografik Veri Sarmaşıkları Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Enerji darbeleriyle süzülen holografik veri sarmaşıklarının kesintisiz bir animasyonunu oluşturmak için teknoloji odaklı bir komut.
-
-#### 📝 Prompt
-
-```
-Işıltılı enerji darbeleriyle birbirine dolanan süzülen holografik veri sarmaşıkları, temiz teknolojik-minimalist palet, kusursuz kesintisiz animasyon
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/83a53b7be9bde4f088eef7a638bd8789/thumbnails/thumbnail.jpg" width="600" alt="Holografik Veri Sarmaşıkları Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4862)**
-
-**Author:** [𝐙𝐞𝐧𝐠 💜](https://x.com/zeng_wt) | **Source:** [Link](https://x.com/zeng_wt/status/2055332447684903306) | **Published:** May 15, 2026
-
----
-### Tesla Roadster SpaceX Roketleri
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Stealth Grey rengindeki bir Tesla Roadster v2'nin zaman yolculuğu için SpaceX roketlerini kullandığı sinematik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Stealth Grey renginde bir Tesla Roadster v2, SpaceX roketlerini ateşliyor ve zamanın içinden geçip gidiyor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/322b375fd5249f70defd58bf5ed34f1c/thumbnails/thumbnail.jpg" width="600" alt="Tesla Roadster SpaceX Roketleri">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4854)**
-
-**Author:** [Peter Frandsen 🇸🇪](https://x.com/happy_swede) | **Source:** [Link](https://x.com/happy_swede/status/2055290643061051573) | **Published:** May 15, 2026
-
----
-### Karakter Hareketi Video Talimatı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir karakterin tepeden aşağı yürümesini, konuşurken belirli referans kareleriyle etkileşime girmesini yönlendiren işlevsel bir video oluşturma istemi.
-
-#### 📝 Prompt
-
-```
-3 numaralı görselin tepeden aşağı yürümesini, 2 ve 3 numaralı görsellerin içinden geçmesini, İngilizce ve Çince olarak günaydın demesini ve harika bir gün geçirmenizi dilerim demesini sağlayalım
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8ef23ca30317bb75d4dfeefcb3853ad/thumbnails/thumbnail.jpg" width="600" alt="Karakter Hareketi Video Talimatı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4859)**
-
-**Author:** [Amandasatiro](https://x.com/Amandasatiro07) | **Source:** [Link](https://x.com/Amandasatiro07/status/2055275119740686679) | **Published:** May 15, 2026
-
----
-### Sürreal Orman Ekran Kaçışı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir kadının dijital bir ekrandan canlı bir orman dünyasına adım atışını konu alan, yüksek moda ve eko-fütüristik öğeler içeren sürreal bir video oluşturma istemi.
-
-#### 📝 Prompt
-
-```
-Yere gömülü devasa ve çatlak bir dijital ekrandan çıkan kendinden emin bir kadının yer aldığı sinematik sürreal bir sahne. Ekranın içinde parlayan bitkiler, sis ve biyolüminesans canlılarla dolu canlı bir orman dünyası var. Kadın ileri adım attığında ekrandan sarmaşıklar ve sular taşıyor; gerçekçi sıçrama ve parçacık efektleriyle hareketin ortasında donmuş bir an. Uzun saçları doğal bir şekilde dalgalanıyor, ifadesi sakin ve güçlü. Üzerinde organik dokularla şık tasarımı harmanlayan modern, yüksek moda bir kıyafet var. Dramatik sinematik aydınlatma, karamsar karanlık arka plan, ultra gerçekçi detaylar, sığ alan derinliği, fantastik gerçekçilik, 4K çözünürlük, yüksek kontrast, keskin odak, lüks eko-fütüristik poster, sürreal dijital sanat, profesyonel renk düzenleme.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/383d6d0e997325da111343ad10c2249e/thumbnails/thumbnail.jpg" width="600" alt="Sürreal Orman Ekran Kaçışı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4860)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2055273422276694408) | **Published:** May 15, 2026
-
----
-### Cyberpunk Android Mekanik Dönüşüm Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Karanlık bir endüstriyel hangarda akıcı bir mekanik dönüşüm geçiren iki kadın androidin 6 saniyelik üst düzey sinematik videosunu oluşturmak için detaylı bir istem.
-
-#### 📝 Prompt
-
-```
-6 saniyelik sinematik fotogerçekçi video, ultra detaylı yeni nesil cyberpunk Transformers sahnesi. İki fütüristik kadın android, mavi hacimsel sis ve parlayan neon vurgularla dolu karanlık, atmosferik bir endüstriyel hangarda, gergin bir profil yüzleşmesi içinde birbirine çok yakın duruyor. Soldaki android, parlayan kırmızı vizör gözlere ve kırmızı enerjiyle nabız gibi atan karmaşık mekanik boyun kablolarına sahip parlak siyah bir kaska sahip. Sağdaki androidin çatlak beyaz porselen yüzü, parlayan kırmızı sibernetik iç kısımları, açıkta kalan mekanik çeneyi ve uzun siyah kablo dreadlock'ları ortaya çıkarıyor. Her ikisi de parlayan kırmızı devre hatlarına sahip, vücuda oturan, ultra parlak siyah sıvı metal tulumlar giyiyor. 0-2. saniyeler: birbirlerine yoğun bir şekilde bakarken yavaş dramatik yakın çekim, kırmızı ışıklar daha güçlü yanıp sönüyor, aralarında hafif kıvılcımlar ve enerji arkları oluşuyor. 2-4. saniyeler: her iki android de senkronize, akıcı ve yeni nesil bir dönüşüme başlıyor; kafalarındaki, omuzlarındaki ve göğüslerindeki paneller, gelişmiş Transformers'lar gibi mekanik bir hassasiyetle pürüzsüzce kayıp açılıyor ve zarif kadınsı formlarını korurken altındaki daha karmaşık parlayan sibernetik yapıları ortaya çıkarıyor. 4-6. saniyeler: dönüşüm, etraflarında dramatik kamera yörüngesi, parlak kırmızı ve mavi lens parlamaları, uçuşan kıvılcımlar ve enerji parçacıklarıyla yoğunlaşıyor. Vücutlarından güçlü parlayan bir enerji yayılırken ellerini yavaşça birbirlerine doğru kaldırıyorlar; epik cyberpunk atmosferi, dramatik kenar aydınlatması, sinematik renk derecelendirmesi, hiper gerçekçi detaylar, 8K, ARRI Alexa 65 + anamorfik lenslerle çekilmiş, hafif film greni, ustaca kompozisyon, nefes kesici bilim kurgu görselleri. Stil: fotogerçekçi, sinematik, cyberpunk, üst düzey VFX, dramatik aydınlatma, karamsar ve yoğun.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/24db440367726435312c3bc663a44250/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Android Mekanik Dönüşüm Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4864)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2055213619076571426) | **Published:** May 15, 2026
-
----
-### Dinamik Saç ve Dudak Rengi Geçişi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Tek bir video sekansında birden fazla saç rengi arasında geçiş yapan ve dudak rengini değiştiren karmaşık bir dönüşüm komutu.
-
-#### 📝 Prompt
-
-```
-Saç rengini gümüşten beyaza, sarıya, pembeye, lav rengine, mora, sarıya, turuncuya ve maviye; dudak rengini ise kiraz kırmızısına dönüştür
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5fd92ce04eb342c2fdbdc5b621e213cb/thumbnails/thumbnail.jpg" width="600" alt="Dinamik Saç ve Dudak Rengi Geçişi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4858)**
-
-**Author:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **Source:** [Link](https://x.com/CindyWeigapn6/status/2055193653128143055) | **Published:** May 15, 2026
-
----
-### Fütüristik Göçebe Kum Tepeleri Festivali
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Fırtınalı bir gökyüzü altında bakır bisikletler ve süslü develerin yer aldığı bilim kurgu temalı bir çöl festivalinin bakış açısı perspektifi.
-
-#### 📝 Prompt
-
-```
-POV: Kum tepelerinde fütüristik bir göçebe festivaline denk geldiniz. Fırtınalı bir gökyüzü altında bakır bisikletler, süslü develer ve uçsuz bucaksız festival bayrakları.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e415134402f087606792c40246d9344/thumbnails/thumbnail.jpg" width="600" alt="Fütüristik Göçebe Kum Tepeleri Festivali">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4855)**
-
-**Author:** [Jacqueline](https://x.com/lipsticktazer69) | **Source:** [Link](https://x.com/lipsticktazer69/status/2055131067913212319) | **Published:** May 15, 2026
-
----
-### Devasa Mecha Yörünge İnişi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Dünya'ya iniş yapan devasa bir mecha robotu için dramatik şok dalgaları, neon şehir manzaraları ve sinematik kamera çalışmaları içeren, son derece detaylı bir bilim kurgu siberpunk istemi.
-
-#### 📝 Prompt
-
-```
-Sinematik fotogerçekçi 6 saniyelik video, ultra detaylı 8K, üst seviye Transformers bilim kurgu siberpunk tarzı. 200 metre boyunda devasa insansı bir mecha robotu; parlak camgöbeği devre hatları ve tehditkar kırmızı optik gözlerle donatılmış, şık beyaz-gümüş ve mat siyah zırh plakalarıyla yörüngeden Dünya'ya doğru dramatik bir şekilde alçalıyor.
-Devasa robot, gece vakti geniş bir siberpunk megakentinin kıyısına yeri sarsan bir etkiyle iniş yapıyor; devasa ayakları atmosfere çarparak toz, ateş ve gezegenin yüzeyinde dalgalanan parlayan enkazlardan oluşan devasa bir şok dalgası yaratıyor. Holografik enerji halkaları ve neon mavisi plazma arkları, güçlü kollarının ve yumruklarının etrafında yoğun bir şekilde dönüyor.
-Dinamik düşük açılı sinematik kamera, dev robotun etrafında aşağıdan yavaşça dönerek yukarı doğru eğiliyor ve parlayan mavi Dünya ufku ile yıldızlı uzay arka planına karşı onun tanrısal ölçeğini yakalıyor. Uçan arabalar ve neon ışıklı gökdelenler aşağıda uzaklarda görünüyor. Volumetrik tanrı ışınları, atmosferik pus, lens parlamaları, hızlı hareket eden parçacıklarda hareket bulanıklığı, hiper gerçekçi metalik yansımalar ve karmaşık mekanik detaylar.
-Derin siyahlar, canlı neon camgöbeği, macenta ve kırmızı vurgular ile dramatik kenar aydınlatmasına sahip siberpunk renk derecelendirmesi. İnanılmaz derecede detaylı, fotogerçekçi, IMAX kalitesi, Arri Alexa 65 + anamorfik lenslerle çekilmiş, Denis Villeneuve ve Michael Bay yönetmenliğinde, 24fps, sinematik başyapıt --ar 16:9 --stylize 250 --v 6
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d330bf382dd9fd8bb84a2ee3590997f1/thumbnails/thumbnail.jpg" width="600" alt="Devasa Mecha Yörünge İnişi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4861)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2055099462150988115) | **Published:** May 15, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2237,6 +2236,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-23T06:46:56.226Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-23T10:08:30.851Z</sub>
 
 </div>
