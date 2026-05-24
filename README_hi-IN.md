@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1623** |
+| 📝 Total Prompts | **1638** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-24** |
 
@@ -189,6 +189,295 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### Mario Minecraft बैटल
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक जटिल एनिमेटेड सीक्वेंस जहाँ Mario एक Minecraft दुनिया में प्रवेश करता है और मधुमक्खियों द्वारा सुरक्षित रहते हुए राक्षसों से लड़ता है।
+
+#### 📝 Prompt
+
+```
+Mario Minecraft, Minecraft में बदल जाता है और फिर क्रीपर्स, ज़ोंबी और कंकालों से लड़ता है, और मधुमक्खियाँ Mario की रक्षा करती हैं, और Mario उन चीज़ों को ढूँढता है जिन्हें ढूँढने की आपको आवश्यकता है
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b6cd7555842b5a8d29c48622c6b9eced/thumbnails/thumbnail.jpg" width="600" alt="Mario Minecraft बैटल">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5207)**
+
+**Author:** [Kamilla Mihalik](https://x.com/missMihalik) | **Source:** [Link](https://x.com/missMihalik/status/2058391725408715168) | **Published:** May 24, 2026
+
+---
+### ग्राफिटी स्ट्रीट आर्ट ट्रांसफॉर्मेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> किचन के दृश्य को ईंट की दीवार पर टपकते पेंट के साथ जीवंत ग्राफिटी स्ट्रीट आर्ट शैली में बदलने के लिए एक प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+इस इमेज को बोल्ड स्प्रे-पेंट लाइनों, टपकते पेंट इफेक्ट्स, टैग्स और अर्बन ग्राफिटी ओवरले के साथ एक जीवंत, रंगीन ग्राफिटी स्ट्रीट आर्ट शैली में बदलें। किचन में नकदी के ढेर पकड़े हुए जोड़े को इस तरह स्टाइल करें जैसे कि वे ईंट की दीवार पर पेंट किए गए हों...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/167841b567d11a50551109c4554a1888/thumbnails/thumbnail.jpg" width="600" alt="ग्राफिटी स्ट्रीट आर्ट ट्रांसफॉर्मेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5199)**
+
+**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2058283813994635683) | **Published:** May 23, 2026
+
+---
+### SpaceX Starship लॉन्च का दृश्य
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सिनेमाई दृश्य जहाँ एक व्यक्ति SpaceX Starship V3 को आसमान में लॉन्च होते हुए देख रहा है, और उसके चारों ओर SpaceX गियर पहने लोग उत्साह के साथ तालियाँ बजा रहे हैं।
+
+#### 📝 Prompt
+
+```
+@image1 धीरे-धीरे चलती है। वह रुकती है और देख सकती है कि कैसे Starship V3 आसमान में ऊपर उठ रहा है। उसके चारों ओर और भी लोग हैं। वे तालियाँ बजा रहे हैं, सभी ने SpaceX नाम वाली काली टी-शर्ट पहनी हुई है।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a62a698c50216c8b5d36f02ed4b4c7f8/thumbnails/thumbnail.jpg" width="600" alt="SpaceX Starship लॉन्च का दृश्य">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5202)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2058246598224675059) | **Published:** May 23, 2026
+
+---
+### घुड़सवारी और Starship लॉन्च का वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक एक्शन वीडियो प्रॉम्प्ट जिसमें एक पात्र घोड़े पर सवार है और पृष्ठभूमि में SpaceX Starship V3 के ऊपर उठने के साथ धूल उड़ रही है।
+
+#### 📝 Prompt
+
+```
+@image1 घुड़सवारी, धूल उड़ रही है, उसके पीछे एक छोटा Starship V3 रॉकेट ऊपर की ओर जा रहा है ....
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cd3ba64cf1170b7c7dcc39664028c3fc/thumbnails/thumbnail.jpg" width="600" alt="घुड़सवारी और Starship लॉन्च का वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5203)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2058240796122345862) | **Published:** May 23, 2026
+
+---
+### जियोडेसिक टाइम मशीन में महिला
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सिनेमाई वीडियो प्रॉम्प्ट जो एक भविष्यवादी जियोडेसिक गोलाकार टाइम मशीन के अंदर बैठी महिला को दर्शाता है।
+
+#### 📝 Prompt
+
+```
+काले बालों वाली युवती अपनी टाइम मशीन के अंदर बैठी है। टाइम मशीन एक जियोडेसिक गोले के आकार की है।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eb478c4bc2086c58927f19c2cf2d333f/thumbnails/thumbnail.jpg" width="600" alt="जियोडेसिक टाइम मशीन में महिला">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5194)**
+
+**Author:** [Make Britain Great Again](https://x.com/DragonFlam7530) | **Source:** [Link](https://x.com/DragonFlam7530/status/2058239579451281461) | **Published:** May 23, 2026
+
+---
+### शनिवार की कॉफी और Starship V3 वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वीडियो प्रॉम्प्ट जिसमें एक पात्र कॉफी पी रहा है और कैमरे की ओर देखकर बात कर रहा है, साथ ही Starship V3 रॉकेट और SpaceX की ब्रांडिंग दिखाई दे रही है।
+
+#### 📝 Prompt
+
+```
+@image1 कॉफी पीते हुए। कैमरे की ओर देखें और कहें शनिवार की दूसरी कॉफी .... Starship V3. SpaceX.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3bca9d2da40b94a11d7e5509564409c/thumbnails/thumbnail.jpg" width="600" alt="शनिवार की कॉफी और Starship V3 वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5206)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2058235833799385155) | **Published:** May 23, 2026
+
+---
+### ज्वालामुखी लावा क्रिएचर्स वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ज्वालामुखी विस्फोट से निकलते पिघले हुए लावा जीवों का एक सिनेमैटिक वीडियो प्रॉम्प्ट, जिसमें 10 सेकंड की पैनिंग मोशन और भूकंपीय प्रभाव शामिल हैं।
+
+#### 📝 Prompt
+
+```
+लावा जीवों के साथ ज्वालामुखी विस्फोट: पिघला हुआ लावा जमीन से फूटता है, जो मानव जैसी आकृतियाँ बनाता है जो आगे बढ़ती हैं, चट्टानें चटकती हैं और भाप निकलती है, राख के बादल उठते हैं, भूकंपीय प्रभावों के साथ जमीन कांपती है, 10 सेकंड के लिए ऊपर की ओर पैनिंग करता हुआ एक एपिक वाइड शॉट।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9c4f06eb0cf3c5cf1205893ef0775a2c/thumbnails/thumbnail.jpg" width="600" alt="ज्वालामुखी लावा क्रिएचर्स वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5200)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2058171184387379412) | **Published:** May 23, 2026
+
+---
+### निरंतरता और आंखों के रंग में बदलाव
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> चांद देखने वाले दृश्य के दौरान वीडियो की निरंतरता बनाए रखते हुए आंखों का रंग बदलने के लिए एक ट्रांसफॉर्मेशन प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+सब कुछ वैसा ही है, बस जब वह अपनी आश्चर्य भरी आंखों से चांद को देख रही है, तो उसकी आंखों का रंग हल्का नीला है!
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/331e3a92f46c582ec6a55d4851e1def9/thumbnails/thumbnail.jpg" width="600" alt="निरंतरता और आंखों के रंग में बदलाव">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5197)**
+
+**Author:** [Nancy CL](https://x.com/NancyCL54) | **Source:** [Link](https://x.com/NancyCL54/status/2058128737728704633) | **Published:** May 23, 2026
+
+---
+### फिफ्थ एवेन्यू पर अंतरिक्ष का दृश्य
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> न्यूयॉर्क शहर की सड़क पर पॉपकॉर्न विक्रेता के साथ अंतरिक्ष तत्वों को मिलाने वाला एक असली (surreal) प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+न्यूयॉर्क में अंतरिक्ष में एक उदास अश्वेत व्यक्ति और फिफ्थ एवेन्यू पर बैकग्राउंड में पॉपकॉर्न बेचते हुए एक व्यक्ति का वीडियो बनाएं
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2cd1003578e9d98ac4dae6cd8c57c3e7/thumbnails/thumbnail.jpg" width="600" alt="फिफ्थ एवेन्यू पर अंतरिक्ष का दृश्य">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5193)**
+
+**Author:** [The MAGA Pendulum Magazine🇺🇸](https://x.com/ThePendulumMag) | **Source:** [Link](https://x.com/ThePendulumMag/status/2058113409179394557) | **Published:** May 23, 2026
+
+---
+### चांदनी रात में रोमांटिक मुलाकात
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक रोमांटिक दृश्य के लिए वीडियो प्रॉम्प्ट, जहाँ हल्की नीली आँखों वाली एक महिला चाँद को देख रही है और उसका साथी उसकी ओर आ रहा है।
+
+#### 📝 Prompt
+
+```
+सब कुछ वैसा ही है, बस उसकी आँखें हल्की नीली हैं और वह विस्मय भरी नज़रों से चाँद को देख रही है! उसका हैंडसम होने वाला पति घास पर चलते हुए उसकी ओर आ रहा है।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9fb1adeddbf49e93066ae5a6fc55f07b/thumbnails/thumbnail.jpg" width="600" alt="चांदनी रात में रोमांटिक मुलाकात">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5195)**
+
+**Author:** [Nancy CL](https://x.com/NancyCL54) | **Source:** [Link](https://x.com/NancyCL54/status/2058109585139827088) | **Published:** May 23, 2026
+
+---
+### वेपरवेव रेट्रो टेक लिविंग रूम
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> वेपरवेव एस्थेटिक्स के साथ एक रेट्रो-टेक वातावरण का एक उदासीन और वायुमंडलीय वीडियो बनाता है।
+
+#### 📝 Prompt
+
+```
+वेपरवेव थीम वाले लिविंग रूम में रेट्रो टेक का एक शानदार दृश्य, उदासीन और वायुमंडलीय
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7bb836da3c2b8d30840ad239e75cbb1a/thumbnails/thumbnail.jpg" width="600" alt="वेपरवेव रेट्रो टेक लिविंग रूम">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5198)**
+
+**Author:** [Kiri](https://x.com/Kyrannio) | **Source:** [Link](https://x.com/Kyrannio/status/2058089842832257112) | **Published:** May 23, 2026
+
+---
+### Starship V3 वीडियो पर कलात्मक डांसर
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वीडियो प्रॉम्प्ट जिसमें एक डांसर को Starship V3 रॉकेट पर कलात्मक रूप से लेटे हुए दिखाया गया है, जिसके साथ एक दार्शनिक उद्धरण भी है।
+
+#### 📝 Prompt
+
+```
+@image1 Starship V3 पर कलात्मक रूप से लेटी हुई डांसर .... लिवी (Livy): "एक निश्चित शांति, जीत से बेहतर और सुरक्षित चीज़ है।"
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a830ce509929b001f16307c6bd615e2/thumbnails/thumbnail.jpg" width="600" alt="Starship V3 वीडियो पर कलात्मक डांसर">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5204)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2058061063095009726) | **Published:** May 23, 2026
+
+---
+### Starship V3 लॉन्च देखती यूनानी देवी
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक पौराणिक वीडियो प्रॉम्प्ट जहाँ एक यूनानी देवी Starship V3 रॉकेट की उड़ान को देख रही है।
+
+#### 📝 Prompt
+
+```
+@image1 Starship V3 के लॉन्च को देखती यूनानी देवी, अंग्रेजी में संवाद @image2
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bc19401392f0d4df7ea16a79ae6062e1/thumbnails/thumbnail.jpg" width="600" alt="Starship V3 लॉन्च देखती यूनानी देवी">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5205)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2058052310597591412) | **Published:** May 23, 2026
+
+---
+### फ्यूचरिस्टिक Rabbit R3 कमर्शियल
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> सिनेमैटिक लाइटिंग और लक्ज़री एस्थेटिक के साथ एक फ्यूचरिस्टिक AI असिस्टेंट डिवाइस कमर्शियल के लिए एक व्यापक मल्टी-सीन प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+रात के समय एक डार्क लक्ज़री अपार्टमेंट में फ्यूचरिस्टिक Rabbit R3 AI असिस्टेंट डिवाइस का अल्ट्रा सिनेमैटिक कमर्शियल, कांच की खिड़कियों से आती नियॉन सिटी लाइट्स, युवा क्रिएटर एक स्लीक डेस्क से डिवाइस को उठाता है, क्लोज़-अप मैक्रो शॉट्स, ग्लोइंग UI एनिमेशन, AI का तुरंत जवाब देना, अल्ट्रा रियलिस्टिक रिफ्लेक्शंस, स्मूथ कैमरा मूवमेंट, प्रीमियम Apple-स्टाइल विज्ञापन, डीप फ्यूचरिस्टिक म्यूजिक के साथ सिंक किए गए तेज़ कट, होलोग्राफिक इंटरफेस इफेक्ट्स, मॉडर्न टेक लाइफस्टाइल, ड्रामेटिक लाइटिंग, शैलो डेप्थ ऑफ फील्ड, लक्ज़री एस्थेटिक, 8K, हाइपर रियलिस्टिक, वायरल टेक कमर्शियल स्टाइल। सीन 1 (0–3s): डेस्क पर नियॉन रिफ्लेक्शंस के साथ घूमता हुआ डिवाइस, टेक्स्ट ओवरले: “The Future Fits In Your Pocket.” सीन 2 (3–7s): यूजर AI असिस्टेंट से शेड्यूल और मैसेज पूछता है, होलोग्राफिक रूप से तुरंत स्मार्ट रिस्पॉन्स दिखाई देता है। सीन 3 (7–11s): यात्रा, प्रोडक्टिविटी, वॉयस कंट्रोल और दैनिक जीवन में मदद करते AI के तेज़ सिनेमैटिक कट। सीन 4 (11–15s): अंधेरे वातावरण में चमकते हुए Rabbit R3 का हीरो शॉट, फ्यूचरिस्टिक लोगो रिवील, टेक्स्ट: “Meet Your AI Companion.” स्टाइल: सिनेमैटिक, लक्ज़री टेक कमर्शियल, फ्यूचरिस्टिक, वायरल TikTok विज्ञापन, रियलिस्टिक लाइटिंग, स्मूथ ट्रांज़िशन, हाई कॉन्ट्रास्ट, मॉडर्न मिनिमल एस्थेटिक।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5245b9bab74251d29e2914ebd0b77887/thumbnails/thumbnail.jpg" width="600" alt="फ्यूचरिस्टिक Rabbit R3 कमर्शियल">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5201)**
+
+**Author:** [Ur Meer](https://x.com/UrMeer289) | **Source:** [Link](https://x.com/UrMeer289/status/2058050455650050315) | **Published:** May 23, 2026
+
+---
+### भव्य पियानो बजाती भविष्यवादी योद्धा
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक विशाल एरिना में होलोग्राफिक प्रभावों के साथ भव्य पियानो बजाती भविष्यवादी महिला योद्धा के लिए एक अविश्वसनीय रूप से विस्तृत सिनेमैटिक प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+एक सुंदर महिला योद्धा का 12-सेकंड का सिनेमैटिक, अति-विस्तृत वर्टिकल वीडियो, जिसने अलंकृत, पॉलिश की हुई चांदी की भविष्यवादी-मध्ययुगीन कवच पहनी है, साथ ही एक लंबा हेलमेट और लंबी लहराती काली पोनीटेल है। वह मजबूती से खड़ी होकर जोश के साथ सोने की सजावटी विवरणों वाले एक चिकने काले भव्य पियानो को बजा रही है।
+वह एक विशाल ओपन-एयर भविष्यवादी एरिना के केंद्र में है जो चीयर करती हुई भीड़ से भरा है। पृष्ठभूमि में ऊँची आधुनिक इमारतें, चमकते चीनी अक्षरों वाले बड़े लाल बैनर और ऊपर मंडराते कई भविष्यवादी ड्रोन दिखाई दे रहे हैं। जैसे ही वह पियानो बजाती है, गतिशील चमकती सियान/नीली होलोग्राफिक ऊर्जा रेखाएं, हेक्सागोन और प्रकाश के कण उसके शरीर, पियानो और हाथों के चारों ओर तीव्रता से घूमते और स्पंदित होते हैं।
+कैमरा अत्यधिक गतिशील है: यह एक मध्यम फ्रंट शॉट से शुरू होता है, फिर उसके चारों ओर सुचारू रूप से घूमता है (साइड, बैक, लो एंगल, हाथों और चेहरे का क्लोज-अप), जिससे एक महाकाव्य, नाटकीय अनुभव पैदा होता है। वह आत्मविश्वास और शालीनता के साथ चलती है — सिर का घूमना, शरीर का हिलना, कवच पहने हाथों का कुंजियों पर मजबूती से प्रहार करना। संगीत के साथ चमकीली नीली ऊर्जा के विस्फोट और प्रकाश की लकीरें तेज हो जाती हैं।
+अति-यथार्थवादी रेंडरिंग के साथ स्टाइल की गई सिनेमैटिक लाइटिंग, लेंस फ्लेयर्स के साथ नाटकीय गोल्डन आवर सनलाइट, हवा में धूल, कवच और पियानो पर विस्तृत बनावट, आकर्षक आंखों वाला अत्यधिक विस्तृत चेहरा। महाकाव्य, असली, शक्तिशाली और मंत्रमुग्ध कर देने वाला वातावरण।
+शैली: सिनेमैटिक, फोटो-यथार्थवादी, उच्च उत्पादन मूल्य, 8K, स्मूथ मोशन, नाटकीय कैमरा मूवमेंट।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c41d45ff4d2a3fc9351ed4d91e80cee8/thumbnails/thumbnail.jpg" width="600" alt="भव्य पियानो बजाती भविष्यवादी योद्धा">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5196)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2058023189276737681) | **Published:** May 23, 2026
+
+---
 ### Boy Diving Into Water Scene
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1886,295 +2175,6 @@ Grok girl, एनीमे स्टाइल, जापानी एनीम�
 **Author:** [Alex Patricio](https://x.com/alexpatricio204) | **Source:** [Link](https://x.com/alexpatricio204/status/2055870235161362480) | **Published:** May 17, 2026
 
 ---
-### सिगरेट जलाने का ज़ूम एनीमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> सिगरेट जलाने की क्रिया पर केंद्रित एक कैमरा ज़ूम एनीमेशन प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-Elon सिगरेट जलाते हैं, कैमरा 2015-2026 Grok की ओर ज़ूम होता है ✅ @grok Alex Patricio ✅ @alexpatricio204 और Elon Musk ✅ X @elonmusk • 1s 🇺🇸🚘🚀🚀🚀🚀🚀🌎🇵🇭🍀💯✅
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7f86cbb2aa44c44119d9a67d3da7caa8/thumbnails/thumbnail.jpg" width="600" alt="सिगरेट जलाने का ज़ूम एनीमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4957)**
-
-**Author:** [Alex Patricio](https://x.com/alexpatricio204) | **Source:** [Link](https://x.com/alexpatricio204/status/2055869316101288381) | **Published:** May 17, 2026
-
----
-### अमूर्त भावनात्मक बातचीत
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> भावनात्मक क्रियाओं और संवाद से जुड़ा एक अमूर्त वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-Àsepéră € { I LOVE YOU } ¥
-slap :::&gt; push away &lt;
-—-[ क्यों ]
- € { तुम हमेशा मेरी गुड़िया हो }
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3d7f742a06ee83de5d34a6a65b7cea96/thumbnails/thumbnail.jpg" width="600" alt="अमूर्त भावनात्मक बातचीत">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4956)**
-
-**Author:** [Notzucow](https://x.com/Notzucow69) | **Source:** [Link](https://x.com/Notzucow69/status/2055866786831106494) | **Published:** May 17, 2026
-
----
-### किशोरों के बीच संघर्ष का एक्शन दृश्य
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो जनरेशन प्रॉम्प्ट जो दो किशोरों के बीच संवाद के साथ एक नाटकीय टकराव को दर्शाता है।
-
-#### 📝 Prompt
-
-```
-एक किशोर दूसरे किशोर के चेहरे पर थप्पड़ मारता है और उस पर चिल्लाता है, "मुझसे पंगा लेने का नतीजा यही होता है"....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/43587fd0bee77a616ec424ae73e9c761/thumbnails/thumbnail.jpg" width="600" alt="किशोरों के बीच संघर्ष का एक्शन दृश्य">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4947)**
-
-**Author:** [Daniel Ball](https://x.com/dball1126) | **Source:** [Link](https://x.com/dball1126/status/2055842958289584291) | **Published:** May 17, 2026
-
----
-### प्राचीन अभयारण्य कमल प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> आकाशगंगा के नीचे कमल के लालटेन और झरने के दृश्य के लिए एक शांत grok-imagine प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-तैरते हुए कमल के लालटेन, फुसफुसाता हुआ झरना, और एक प्राचीन पत्थर के अभयारण्य की देखरेख करती आकाशगंगा।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5655652d6e593a4367fedf1762185adc/thumbnails/thumbnail.jpg" width="600" alt="प्राचीन अभयारण्य कमल प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4908)**
-
-**Author:** [Missy AI](https://x.com/ai_empire33) | **Source:** [Link](https://x.com/ai_empire33/status/2055821923800780924) | **Published:** May 17, 2026
-
----
-### निरंतर चरित्र परिवर्तन अनुक्रम
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक मॉर्फिंग वीडियो अनुक्रम जहाँ एक चरित्र विभिन्न पहचानों में बदलता है, जिसमें एक महिला, एक जादूगर, सांता क्लॉज़ और एक रोबोट शामिल हैं।
-
-#### 📝 Prompt
-
-```
-उसे एक महिला में, फिर एक जादूगर में, फिर सांता क्लॉज़ में और अंत में एक रोबोट में बदलें
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6f89e82a3abfb963ac5937c87fc2d881/thumbnails/thumbnail.jpg" width="600" alt="निरंतर चरित्र परिवर्तन अनुक्रम">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4895)**
-
-**Author:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **Source:** [Link](https://x.com/CindyWeigapn6/status/2055786953103069359) | **Published:** May 16, 2026
-
----
-### चांदनी रात के जंगल में सिनेमैटिक ड्रेगन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक उच्च-गुणवत्ता वाला स्लो-मोशन वीडियो प्रॉम्प्ट, जिसमें एक जादुई चांदनी जंगल में एक मस्कुलर सुनहरा ड्रैगन और तारों से भरा बैंगनी ड्रैगन दिखाया गया है।
-
-#### 📝 Prompt
-
-```
-सिनेमैटिक क्लोज-अप, स्लो-मोशन वीडियो। एक विशाल, मस्कुलर सुनहरा ड्रैगन और एक अधिक पतला, सुंदर आधी रात के रंग का बैंगनी ड्रैगन, जिसके शरीर पर तारों जैसी चमकती हुई परतें हैं, चांदनी से सराबोर एक जादुई जंगल में आराम कर रहे हैं। दोनों ड्रैगन धीरे-धीरे और कोमलता से अपने सिर हिलाते हैं।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/76be608144f7dcc699a9d6c3661a2174/thumbnails/thumbnail.jpg" width="600" alt="चांदनी रात के जंगल में सिनेमैटिक ड्रेगन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4906)**
-
-**Author:** [Maryama Cissey](https://x.com/Sweet_Maryama) | **Source:** [Link](https://x.com/Sweet_Maryama/status/2055762930369429640) | **Published:** May 16, 2026
-
----
-### स्टीमपंक एलीफेंट गार्डियन का जागरण
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक फैंटेसी वीडियो प्रॉम्प्ट जिसमें एक क्रिस्टल जादूगरनी आर्कटिक वातावरण में एक स्टीमपंक हाथी को जगा रही है।
-
-#### 📝 Prompt
-
-```
-नीली क्रिस्टल जादूगरनी ने जमे हुए साम्राज्य में अपने स्टीमपंक एलीफेंट गार्डियन को जगाया। आर्कटिक आसमान के नीचे जादू और गियर्स का अद्भुत मिलन!
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/970daa4aca0f71a31b3f53209ed734fb/thumbnails/thumbnail.jpg" width="600" alt="स्टीमपंक एलीफेंट गार्डियन का जागरण">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4907)**
-
-**Author:** [AI영상공작실](https://x.com/lee_young71) | **Source:** [Link](https://x.com/lee_young71/status/2055754008372080710) | **Published:** May 16, 2026
-
----
-### अर्थ होलोग्राम के साथ कॉन्फ्रेंस में एलियंस
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमाई वीडियो प्रॉम्प्ट जो एक कॉन्फ्रेंस टेबल पर बैठे एलियंस और उनके सामने तैरते हुए नीले अर्थ होलोग्राम का वर्णन करता है।
-
-#### 📝 Prompt
-
-```
-वे एक कॉन्फ्रेंस टेबल की ओर बढ़ते हैं और बैठ जाते हैं; वहां नीले ग्रह पृथ्वी का एक होलोग्राम है। एलियंस में से एक उत्तरी अमेरिका की ओर इशारा करता है....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8c0bea8b402b7d1c5851e575b0408049/thumbnails/thumbnail.jpg" width="600" alt="अर्थ होलोग्राम के साथ कॉन्फ्रेंस में एलियंस">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4909)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2055698478127296747) | **Published:** May 16, 2026
-
----
-### Pokemon कार्ड अनबॉक्सिंग फर्स्ट पर्सन POV
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> गोल्ड Mega Lucario Pokemon कार्ड पैक की फर्स्ट-पर्सन पर्सपेक्टिव अनबॉक्सिंग वीडियो बनाने के लिए एक विस्तृत इमेज-टू-वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-मेरे पास दो इमेज हैं। मैं एक ऐसा वीडियो बनाना चाहता हूँ जहाँ फर्स्ट POV में एक यूज़र Mega Evolution पैक खोलता है और पैक के सभी कार्ड गोल्ड Mega Lucario ex कार्ड हैं।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8173700fcd22bdb52e255658b5fe3bc9/thumbnails/thumbnail.jpg" width="600" alt="Pokemon कार्ड अनबॉक्सिंग फर्स्ट पर्सन POV">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4904)**
-
-**Author:** [Joe](https://x.com/CardCaptain) | **Source:** [Link](https://x.com/CardCaptain/status/2055697504470253896) | **Published:** May 16, 2026
-
----
-### कॉमिक स्टाइल काउबॉय और मवेशियों का चारागाह
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> कॉमिक बुक स्टाइल का एक वीडियो प्रॉम्प्ट, जिसमें एक काउबॉय और उसकी महिला साथी को घास के मैदान में घुड़सवारी करते हुए और चरते हुए मवेशियों को देखते हुए दिखाया गया है।
-
-#### 📝 Prompt
-
-```
-कॉमिक बुक स्टाइल 
-काउबॉय और उसकी महिला साथी घास के मैदान में घुड़सवारी कर रहे हैं और चरते हुए ब्लैक एंगस मवेशियों को देख रहे हैं
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f16fb43dc6a97bdb9373db4c464e62dd/thumbnails/thumbnail.jpg" width="600" alt="कॉमिक स्टाइल काउबॉय और मवेशियों का चारागाह">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4905)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2055691304684986599) | **Published:** May 16, 2026
-
----
-### पारभासी एलियंस हैंडशेक दृश्य
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक मोशन-केंद्रित प्रॉम्प्ट, जिसमें दो पारभासी एलियंस को मिलते हुए और बिना किसी संवाद के हाथ मिलाते हुए दिखाया गया है।
-
-#### 📝 Prompt
-
-```
-वे दृश्य के 3 सेकंड पर रुक जाते हैं। कोई संवाद नहीं। रुकने पर, दो पारभासी परग्रही मिलते हैं और हाथ मिलाते हैं।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c5afb652c8fdd38f642304156cc10ed1/thumbnails/thumbnail.jpg" width="600" alt="पारभासी एलियंस हैंडशेक दृश्य">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4910)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2055691018041717157) | **Published:** May 16, 2026
-
----
-### धुंधले चरित्र की सिर की हलचल
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमैटिक वीडियो प्रॉम्प्ट जो धुंध और कोहरे से भरे वातावरण में चरित्र की सूक्ष्म गति का वर्णन करता है।
-
-#### 📝 Prompt
-
-```
-वह स्थिर खड़ा है, केवल अपना सिर इधर-उधर घुमा रहा है, चारों ओर धुंध और कोहरा है
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c032613ae022042f47138d5a5b98978e/thumbnails/thumbnail.jpg" width="600" alt="धुंधले चरित्र की सिर की हलचल">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4902)**
-
-**Author:** [Richard](https://x.com/CharlieWP100) | **Source:** [Link](https://x.com/CharlieWP100/status/2055676152677556510) | **Published:** May 16, 2026
-
----
-### Flame and Rose Couture Catwalk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमाई फैशन शो वीडियो, जिसमें एक महिला को आग और गुलाबों से बने एक असली, नाटकीय गाउन में रैंप पर चलते हुए दिखाया गया है।
-
-#### 📝 Prompt
-
-```
-एक आत्मविश्वासी महिला, आग और गुलाबों से बने एक असली 'कौचर' (couture) गाउन में, एक शानदार कैटवॉक पर नाटकीय और सिनेमाई अंदाज में चल रही है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f39c61dedb32c0b494415777e85f9396/thumbnails/thumbnail.jpg" width="600" alt="Flame and Rose Couture Catwalk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4901)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2055664046104576461) | **Published:** May 16, 2026
-
----
-### Robin Williams Popeye का कायापलट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक रचनात्मक रूपांतरण वीडियो जो Robin Williams के Popeye वाले स्थिर चित्र को एक गतिशील एनिमेटेड चरित्र में बदल देता है।
-
-#### 📝 Prompt
-
-```
-Professor Don अपने Robin Williams के Popeye वाले चित्र के साथ, जो एक एनिमेटेड चरित्र में बदल जाता है
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5eb7d7ac945a23610df893e88a376fe7/thumbnails/thumbnail.jpg" width="600" alt="Robin Williams Popeye का कायापलट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4897)**
-
-**Author:** [the don of hockey](https://x.com/don_allain) | **Source:** [Link](https://x.com/don_allain/status/2055595209807798536) | **Published:** May 16, 2026
-
----
-### एपिक साइबर-फैंटेसी ट्रांसफॉर्मेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक बेहद विस्तृत 6-सेकंड का सिनेमैटिक वीडियो प्रॉम्प्ट, जिसमें एक एल्फ रानी को क्रिस्टल स्टैग (हिरण) पर दिखाया गया है, जो एक बायोमैकेनिकल रोबोट में बदल जाता है।
-
-#### 📝 Prompt
-
-```
-सिनेमैटिक 6-सेकंड का फोटो-रियलिस्टिक वीडियो, अल्ट्रा-रियलिस्टिक 8K, ARRI Alexa 65 पर एनामोर्फिक लेंस के साथ शूट किया गया, एक जादुई पतझड़ वाले जंगल में गोल्डन ऑवर की नाटकीय लाइटिंग। शुरुआत एक भव्य एल्फ रानी के साथ करें, जिसके लंबे लहराते प्लैटिनम-सिल्वर बाल हैं और उसने चमकती फ़िरोज़ी कवच पहना है, जो अलंकृत सुनहरे सींगों वाले एक शानदार चमकते नीले क्रिस्टलीय स्टैग पर सवार है। दृश्य गर्म सूरज की किरणों से नहाया हुआ है जो नारंगी और लाल गिरते हुए मेपल के पत्तों के बीच से छनकर आ रही हैं। 1.5 सेकंड पर, कैमरा उनके चारों ओर एक धीमी और भव्य परिक्रमा शुरू करता है, जैसे ही स्टैग के क्रिस्टलीय नीले पैटर्न तीव्र होते हैं और ऊर्जा के साथ धड़कने लगते हैं। 2.8 सेकंड पर, "नेक्स्ट-लेवल ट्रांसफॉर्मेशन" शुरू होता है: स्टैग का शरीर सुरुचिपूर्ण ढंग से एक सहज, ऑर्गेनिक-मैकेनिकल हाइब्रिड ट्रांसफॉर्मेशन में बदलता है और खुलता है — चमकती नीली क्रिस्टल कवच प्लेटें भविष्य के बायोमैकेनिकल रोबोटिक अंगों और थ्रस्टर्स में बदल जाती हैं और फैल जाती हैं, जबकि इसकी हिरण की सुरुचिपूर्ण आकृति बनी रहती है, और सींग विशाल चमकती ऊर्जा तोपों में बदल जाते हैं। साथ ही, एल्फ रानी का कवच तरल रूप से चमकते फ़िरोज़ी ऊर्जा सर्किट वाले आकर्षक, अलंकृत साइबर-फैंटेसी युद्ध कवच में बदल जाता है। उसके बाल हवा में नाटकीय रूप से लहराते हैं और सुनहरे ऊर्जा कण उनके चारों ओर घूमते हैं। यह परिवर्तन सहज, सुंदर और बेहद विस्तृत है — कोई हार्ड कट नहीं, एकदम सटीक तरल गति, जटिल मैकेनिकल और जादुई विवरणों का सहज मिश्रण। गहरे बेस के साथ एपिक ऑर्केस्ट्रल संगीत। 6 सेकंड पर समाप्त करें, जहाँ दोनों पूरी तरह से अपने अंतिम साइबर-फैंटेसी रूपों में सूर्य के प्रकाश से भरे पतझड़ वाले जंगल में मजबूती से खड़े हैं, पत्ते अभी भी धीरे-धीरे गिर रहे हैं, कैमरा एक वीरतापूर्ण वाइड शॉट की ओर पीछे हटता है, सिनेमैटिक कलर ग्रेडिंग, वॉल्यूमेट्रिक गॉड रेज़, अल्ट्रा-डिटेल्ड टेक्सचर, फोटो-रियलिस्टिक फर, धातु और ऊर्जा प्रभाव, मास्टरपीस क्वालिटी, हाइपर-रियलिस्टिक।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f02014c0d13812053151eec87f30dfa1/thumbnails/thumbnail.jpg" width="600" alt="एपिक साइबर-फैंटेसी ट्रांसफॉर्मेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4898)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2055564820531867868) | **Published:** May 16, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2236,6 +2236,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-24T04:20:01.613Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-24T10:09:47.085Z</sub>
 
 </div>

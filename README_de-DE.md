@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1623** |
+| 📝 Total Prompts | **1638** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-24** |
 
@@ -189,6 +189,295 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Mario Minecraft Battle
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Eine komplexe Animationssequenz, in der Mario in eine Minecraft-Welt eintaucht, um gegen Monster zu kämpfen, während er von Bienen beschützt wird.
+
+#### 📝 Prompt
+
+```
+Mario Minecraft verwandelt sich in Minecraft und kämpft dann gegen Creeper, Zombies und Skelette. Die Bienen beschützen Mario, während er die Gegenstände findet, die man dort benötigt.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b6cd7555842b5a8d29c48622c6b9eced/thumbnails/thumbnail.jpg" width="600" alt="Mario Minecraft Battle">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5207)**
+
+**Author:** [Kamilla Mihalik](https://x.com/missMihalik) | **Source:** [Link](https://x.com/missMihalik/status/2058391725408715168) | **Published:** May 24, 2026
+
+---
+### Transformation in Graffiti-Street-Art
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Umwandlung einer Küchenszene in einen lebendigen Graffiti-Street-Art-Stil auf einer Backsteinmauer mit tropfender Farbe.
+
+#### 📝 Prompt
+
+```
+Verwandle dieses Bild in einen lebendigen, farbenfrohen Graffiti-Street-Art-Stil mit kräftigen Sprühlinien, tropfenden Farbeffekten, Tags und urbanen Graffiti-Overlays. Das Paar, das Geldbündel in der Küche hält, soll so stilisiert werden, als wäre es auf eine Backsteinmauer gemalt, mit...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/167841b567d11a50551109c4554a1888/thumbnails/thumbnail.jpg" width="600" alt="Transformation in Graffiti-Street-Art">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5199)**
+
+**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2058283813994635683) | **Published:** May 23, 2026
+
+---
+### Startszene des SpaceX Starship
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Eine filmische Szene, in der eine Person den Start eines SpaceX Starship V3 in den Himmel beobachtet, umgeben von jubelnden Menschen in SpaceX-Ausrüstung.
+
+#### 📝 Prompt
+
+```
+@image1 geht langsam. Sie bleibt stehen und kann beobachten, wie das Starship V3 in den Himmel aufsteigt. Um sie herum sind weitere Menschen. Sie applaudieren, jeder trägt schwarze T-Shirts mit dem Namen SpaceX
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a62a698c50216c8b5d36f02ed4b4c7f8/thumbnails/thumbnail.jpg" width="600" alt="Startszene des SpaceX Starship">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5202)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2058246598224675059) | **Published:** May 23, 2026
+
+---
+### Reiten und Start eines Starships im Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Action-Video-Prompt, der eine Reiterin zeigt, während im Hintergrund eine SpaceX Starship V3 Rakete aufsteigt und Staub aufwirbelt.
+
+#### 📝 Prompt
+
+```
+@image1 reitet, Staub wirbelt auf, eine kleine Starship V3 Rakete steigt hinter ihr auf ....
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cd3ba64cf1170b7c7dcc39664028c3fc/thumbnails/thumbnail.jpg" width="600" alt="Reiten und Start eines Starships im Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5203)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2058240796122345862) | **Published:** May 23, 2026
+
+---
+### Frau in einer geodätischen Zeitmaschine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein filmischer Video-Prompt, der eine Frau in einer futuristischen, geodätischen, kugelförmigen Zeitmaschine zeigt.
+
+#### 📝 Prompt
+
+```
+Die junge dunkelhaarige Frau sitzt in ihrer Zeitmaschine. Die Zeitmaschine hat die Form einer geodätischen Kugel.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eb478c4bc2086c58927f19c2cf2d333f/thumbnails/thumbnail.jpg" width="600" alt="Frau in einer geodätischen Zeitmaschine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5194)**
+
+**Author:** [Make Britain Great Again](https://x.com/DragonFlam7530) | **Source:** [Link](https://x.com/DragonFlam7530/status/2058239579451281461) | **Published:** May 23, 2026
+
+---
+### Samstagskaffee und Starship V3-Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Prompt, bei dem eine Figur Kaffee trinkt und in die Kamera spricht, während die Starship V3-Rakete und das SpaceX-Branding sichtbar sind.
+
+#### 📝 Prompt
+
+```
+@image1 trinkt Kaffee. Schau in die Kamera und sag: Zweiter Kaffee am Samstag ... Starship V3. SpaceX.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3bca9d2da40b94a11d7e5509564409c/thumbnails/thumbnail.jpg" width="600" alt="Samstagskaffee und Starship V3-Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5206)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2058235833799385155) | **Published:** May 23, 2026
+
+---
+### Video von vulkanischen Lavakreaturen
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein cineastischer Video-Prompt von geschmolzenen Lavakreaturen, die aus einem Vulkanausbruch hervorgehen, mit 10 Sekunden Schwenkbewegung und seismischen Effekten.
+
+#### 📝 Prompt
+
+```
+Vulkanausbruch mit Lavakreaturen: Geschmolzene Lava bricht aus dem Boden hervor und formt humanoide Gestalten, die schwerfällig vorwärts schreiten, Felsen bersten und Dampf zischt, Aschewolken wälzen sich empor, der Boden bebt durch seismische Effekte, epischer Weitwinkel-Schwenk nach oben für 10 Sekunden.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9c4f06eb0cf3c5cf1205893ef0775a2c/thumbnails/thumbnail.jpg" width="600" alt="Video von vulkanischen Lavakreaturen">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5200)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2058171184387379412) | **Published:** May 23, 2026
+
+---
+### Konsistenz und Änderung der Augenfarbe
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Transformations-Prompt zur Änderung der Augenfarbe bei gleichzeitiger Wahrung der Videokonsistenz während einer Szene, in der der Mond beobachtet wird.
+
+#### 📝 Prompt
+
+```
+Alles bleibt gleich, nur hat sie jetzt hellblaue Augen, während sie mit ihrem staunenden Blick den Mond betrachtet!
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/331e3a92f46c582ec6a55d4851e1def9/thumbnails/thumbnail.jpg" width="600" alt="Konsistenz und Änderung der Augenfarbe">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5197)**
+
+**Author:** [Nancy CL](https://x.com/NancyCL54) | **Source:** [Link](https://x.com/NancyCL54/status/2058128737728704633) | **Published:** May 23, 2026
+
+---
+### Weltraumszene auf der Fifth Avenue
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein surrealer Prompt, der Weltraumelemente mit einem Popcornverkäufer auf einer Straße in New York City kombiniert.
+
+#### 📝 Prompt
+
+```
+Erstelle ein Video von einer traurigen schwarzen Person im Weltraum in New York und einer Person, die im Hintergrund auf der Fifth Avenue Popcorn verkauft
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2cd1003578e9d98ac4dae6cd8c57c3e7/thumbnails/thumbnail.jpg" width="600" alt="Weltraumszene auf der Fifth Avenue">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5193)**
+
+**Author:** [The MAGA Pendulum Magazine🇺🇸](https://x.com/ThePendulumMag) | **Source:** [Link](https://x.com/ThePendulumMag/status/2058113409179394557) | **Published:** May 23, 2026
+
+---
+### Romantische Begegnung im Mondschein
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Prompt für eine romantische Szene, in der eine Frau mit hellblauen Augen den Mond betrachtet, während ihr Partner sich ihr nähert.
+
+#### 📝 Prompt
+
+```
+Alles ist wie gehabt, nur dass sie hellblaue Augen hat, während sie voller Staunen in den Mond blickt! Ihr gutaussehender zukünftiger Ehemann kommt über das Gras auf sie zu.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9fb1adeddbf49e93066ae5a6fc55f07b/thumbnails/thumbnail.jpg" width="600" alt="Romantische Begegnung im Mondschein">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5195)**
+
+**Author:** [Nancy CL](https://x.com/NancyCL54) | **Source:** [Link](https://x.com/NancyCL54/status/2058109585139827088) | **Published:** May 23, 2026
+
+---
+### Vaporwave Retro-Tech Wohnzimmer
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Erstellt ein nostalgisches und atmosphärisches Video einer Retro-Tech-Umgebung mit Vaporwave-Ästhetik.
+
+#### 📝 Prompt
+
+```
+ein wunderschöner Blick auf Retro-Tech in einem Wohnzimmer im Vaporwave-Stil, nostalgisch und atmosphärisch
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7bb836da3c2b8d30840ad239e75cbb1a/thumbnails/thumbnail.jpg" width="600" alt="Vaporwave Retro-Tech Wohnzimmer">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5198)**
+
+**Author:** [Kiri](https://x.com/Kyrannio) | **Source:** [Link](https://x.com/Kyrannio/status/2058089842832257112) | **Published:** May 23, 2026
+
+---
+### Künstlerische Tänzerin im Starship V3-Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Prompt, der eine Tänzerin zeigt, die künstlerisch auf einer Starship V3-Rakete liegt, begleitet von einem philosophischen Zitat.
+
+#### 📝 Prompt
+
+```
+@image1 die Tänzerin, die auf künstlerische Weise auf der Starship V3 liegt .... Livius: „Ein gewisser Friede ist eine bessere und sicherere Sache als ein Sieg.“
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a830ce509929b001f16307c6bd615e2/thumbnails/thumbnail.jpg" width="600" alt="Künstlerische Tänzerin im Starship V3-Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5204)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2058061063095009726) | **Published:** May 23, 2026
+
+---
+### Griechische Göttin beobachtet den Start der Starship V3
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein mythologischer Video-Prompt, bei dem eine griechische Göttin den Start einer Starship V3-Rakete beobachtet.
+
+#### 📝 Prompt
+
+```
+@image1 Griechische Göttin beobachtet den Start der Starship V3 Dialog auf Englisch @image2
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bc19401392f0d4df7ea16a79ae6062e1/thumbnails/thumbnail.jpg" width="600" alt="Griechische Göttin beobachtet den Start der Starship V3">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5205)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2058052310597591412) | **Published:** May 23, 2026
+
+---
+### Futuristischer Rabbit R3 Werbespot
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein umfassender Multi-Szenen-Prompt für einen Werbespot eines futuristischen KI-Assistenten-Geräts mit kinoreifer Beleuchtung und luxuriöser Ästhetik.
+
+#### 📝 Prompt
+
+```
+Ultra-kinoreifer Werbespot eines futuristischen Rabbit R3 KI-Assistenten in einem dunklen Luxus-Apartment bei Nacht, Neonlichter der Stadt durch Glasfenster, ein junger Creator nimmt das Gerät von einem eleganten Schreibtisch auf, Makro-Nahaufnahmen, leuchtende UI-Animationen, sofortige KI-Antworten, ultra-realistische Reflexionen, flüssige Kamerabewegungen, erstklassige Werbung im Apple-Stil, schnelle Schnitte synchronisiert mit tiefer futuristischer Musik, holografische Interface-Effekte, moderner Tech-Lifestyle, dramatische Beleuchtung, geringe Schärfentiefe, luxuriöse Ästhetik, 8K, hyperrealistisch, viraler Tech-Werbestil. Szene 1 (0–3s): Gerät rotiert auf dem Schreibtisch mit Neonreflexionen, Texteinblendung: „Die Zukunft passt in deine Tasche.“ Szene 2 (3–7s): Nutzer fragt den KI-Assistenten nach Zeitplan und Nachrichten, sofortige intelligente Antwort erscheint holografisch. Szene 3 (7–11s): Schnelle filmische Schnitte von Reisen, Produktivität, Sprachsteuerung, KI als Hilfe im Alltag. Szene 4 (11–15s): Hero-Shot des Rabbit R3, der in dunkler Umgebung leuchtet, futuristische Logo-Einblendung, Text: „Triff deinen KI-Begleiter.“ Stil: kinoreif, Luxus-Tech-Werbung, futuristisch, virale TikTok-Anzeige, realistische Beleuchtung, flüssige Übergänge, hoher Kontrast, moderne minimalistische Ästhetik.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5245b9bab74251d29e2914ebd0b77887/thumbnails/thumbnail.jpg" width="600" alt="Futuristischer Rabbit R3 Werbespot">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5201)**
+
+**Author:** [Ur Meer](https://x.com/UrMeer289) | **Source:** [Link](https://x.com/UrMeer289/status/2058050455650050315) | **Published:** May 23, 2026
+
+---
+### Futuristischer Krieger spielt Flügel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein unglaublich detaillierter, kinoreifer Prompt für eine futuristische Kriegerin, die in einer riesigen Arena mit holografischen Effekten Flügel spielt.
+
+#### 📝 Prompt
+
+```
+Ein kinoreifes, hyperdetailliertes, 12-sekündiges vertikales Video einer wunderschönen Kriegerin in einer verzierten, polierten silbernen futuristisch-mittelalterlichen Rüstung mit hohem Helm und langem, fließendem schwarzen Pferdeschwanz, die kraftvoll dasteht und leidenschaftlich einen eleganten schwarzen Flügel mit goldenen Zierdetails spielt.
+Sie befindet sich in der Mitte einer riesigen futuristischen Open-Air-Arena, die von einer riesigen jubelnden Menge gefüllt ist. Im Hintergrund ragen moderne Gebäude, große rote Banner mit leuchtenden chinesischen Schriftzeichen und mehrere futuristische fliegende Drohnen, die über ihr schweben, hervor. Dynamische, leuchtend cyan-blaue holografische Energielinien, Sechsecke und Lichtpartikel wirbeln und pulsieren intensiv um ihren Körper, den Flügel und ihre Hände, während sie spielt.
+Die Kameraführung ist hochdynamisch: Sie beginnt mit einer mittleren Frontalaufnahme und kreist dann flüssig um sie herum (Seite, Rücken, niedriger Winkel, Nahaufnahme von Händen und Gesicht), was ein episches, dramatisches Gefühl erzeugt. Sie bewegt sich mit Selbstvertrauen und Anmut – Kopfdrehungen, Körperbewegungen, gepanzerte Hände, die kraftvoll auf die Tasten schlagen. Helle blaue Energieblitze und Lichtspuren intensivieren sich mit der Musik.
+Ultrarealistisches Rendering gemischt mit stilisierter kinoreifer Beleuchtung, dramatischem Sonnenlicht zur goldenen Stunde mit Lens Flares, Staub in der Luft, detaillierten Texturen auf Rüstung und Flügel, hochdetailliertes Gesicht mit markanten Augen. Epische, surreale, kraftvolle und faszinierende Atmosphäre.
+Stil: kinoreif, fotorealistisch, hohe Produktionsqualität, 8K, flüssige Bewegung, dramatische Kamerabewegung.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c41d45ff4d2a3fc9351ed4d91e80cee8/thumbnails/thumbnail.jpg" width="600" alt="Futuristischer Krieger spielt Flügel">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5196)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2058023189276737681) | **Published:** May 23, 2026
+
+---
 ### Boy Diving Into Water Scene
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1886,295 +2175,6 @@ Ultrarealistische filmische Nahaufnahme von Elon Musk, der allein auf einer hohe
 **Author:** [Alex Patricio](https://x.com/alexpatricio204) | **Source:** [Link](https://x.com/alexpatricio204/status/2055870235161362480) | **Published:** May 17, 2026
 
 ---
-### Zoom-Animation beim Anzünden einer Zigarette
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Kamera-Zoom-Animations-Prompt, der sich auf das Anzünden einer Zigarette konzentriert.
-
-#### 📝 Prompt
-
-```
-Elon zündet eine Zigarette an, Kamera-Zoom auf das 2015-2026 Grok ✅ @grok Alex Patricio ✅ @alexpatricio204 und Elon Musk ✅ X @elonmusk • 1s 🇺🇸🚘🚀🚀🚀🚀🚀🌎🇵🇭🍀💯✅
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7f86cbb2aa44c44119d9a67d3da7caa8/thumbnails/thumbnail.jpg" width="600" alt="Zoom-Animation beim Anzünden einer Zigarette">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4957)**
-
-**Author:** [Alex Patricio](https://x.com/alexpatricio204) | **Source:** [Link](https://x.com/alexpatricio204/status/2055869316101288381) | **Published:** May 17, 2026
-
----
-### Abstrakte emotionale Interaktion
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein abstrakter Video-Prompt mit emotionalen Handlungen und Dialogen.
-
-#### 📝 Prompt
-
-```
-Àsepéră € { ICH LIEBE DICH } ¥
-slap :::&gt; wegstoßen &lt;
-—-[ warum ]
- € { du bist für immer meine Puppe }
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3d7f742a06ee83de5d34a6a65b7cea96/thumbnails/thumbnail.jpg" width="600" alt="Abstrakte emotionale Interaktion">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4956)**
-
-**Author:** [Notzucow](https://x.com/Notzucow69) | **Source:** [Link](https://x.com/Notzucow69/status/2055866786831106494) | **Published:** May 17, 2026
-
----
-### Konfliktszene zwischen Teenagern
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Generierungs-Prompt, der eine dramatische Konfrontation zwischen zwei Teenagern mit Dialog darstellt.
-
-#### 📝 Prompt
-
-```
-Ein Teenager schlägt einem anderen Teenager ins Gesicht und schreit ihn an: „Das hast du davon, wenn du dich mit mir anlegst“....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/43587fd0bee77a616ec424ae73e9c761/thumbnails/thumbnail.jpg" width="600" alt="Konfliktszene zwischen Teenagern">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4947)**
-
-**Author:** [Daniel Ball](https://x.com/dball1126) | **Source:** [Link](https://x.com/dball1126/status/2055842958289584291) | **Published:** May 17, 2026
-
----
-### Prompt für ein antikes Lotus-Heiligtum
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein ruhiger grok-imagine-Prompt für eine Wasserfallszene mit Lotuslaternen unter der Milchstraße.
-
-#### 📝 Prompt
-
-```
-Schwimmende Lotuslaternen, ein flüsternder Wasserfall und die Milchstraße, die über ein antikes Steinheiligtum wacht.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5655652d6e593a4367fedf1762185adc/thumbnails/thumbnail.jpg" width="600" alt="Prompt für ein antikes Lotus-Heiligtum">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4908)**
-
-**Author:** [Missy AI](https://x.com/ai_empire33) | **Source:** [Link](https://x.com/ai_empire33/status/2055821923800780924) | **Published:** May 17, 2026
-
----
-### Kontinuierliche Charakter-Transformationssequenz
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eine Morphing-Videosequenz, in der sich eine Figur durch verschiedene Identitäten verwandelt, darunter eine Frau, ein Zauberer, der Weihnachtsmann und ein Roboter.
-
-#### 📝 Prompt
-
-```
-Lass ihn sich erst in eine Frau, dann in einen Zauberer, dann in den Weihnachtsmann und schließlich in einen Roboter verwandeln
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6f89e82a3abfb963ac5937c87fc2d881/thumbnails/thumbnail.jpg" width="600" alt="Kontinuierliche Charakter-Transformationssequenz">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4895)**
-
-**Author:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **Source:** [Link](https://x.com/CindyWeigapn6/status/2055786953103069359) | **Published:** May 16, 2026
-
----
-### Filmreife Drachen im mondbeschienenen Wald
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochwertiger Zeitlupen-Video-Prompt mit einem muskulösen goldenen Drachen und einem sternenbesetzten violetten Drachen in einem verzauberten, mondbeschienenen Wald.
-
-#### 📝 Prompt
-
-```
-Filmreife Nahaufnahme, Zeitlupenvideo. Ein massiver, muskulöser goldener Drache und ein schlankerer, eleganter mitternachtsvioletter Drache mit sternenartigen biolumineszenten Schuppen ruhen in einem verzauberten, mondbeschienenen Wald. Die beiden Drachen bewegen ihre Köpfe langsam und zärtlich.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/76be608144f7dcc699a9d6c3661a2174/thumbnails/thumbnail.jpg" width="600" alt="Filmreife Drachen im mondbeschienenen Wald">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4906)**
-
-**Author:** [Maryama Cissey](https://x.com/Sweet_Maryama) | **Source:** [Link](https://x.com/Sweet_Maryama/status/2055762930369429640) | **Published:** May 16, 2026
-
----
-### Erwachen des Steampunk-Elefantenwächters
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Fantasy-Video-Prompt, in dem eine Kristallzauberin einen Steampunk-Elefanten in einer arktischen Umgebung zum Leben erweckt.
-
-#### 📝 Prompt
-
-```
-Die blaue Kristallzauberin erweckt ihren Steampunk-Elefantenwächter im gefrorenen Reich. Magie und Zahnräder treffen unter arktischem Himmel aufeinander!
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/970daa4aca0f71a31b3f53209ed734fb/thumbnails/thumbnail.jpg" width="600" alt="Erwachen des Steampunk-Elefantenwächters">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4907)**
-
-**Author:** [AI영상공작실](https://x.com/lee_young71) | **Source:** [Link](https://x.com/lee_young71/status/2055754008372080710) | **Published:** May 16, 2026
-
----
-### Aliens in einer Konferenz mit einem Erd-Hologramm
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein cineastischer Video-Prompt, der Außerirdische beschreibt, die an einem Konferenztisch mit einem schwebenden blauen Erd-Hologramm sitzen.
-
-#### 📝 Prompt
-
-```
-Sie begeben sich zu einem Konferenztisch und setzen sich; dort befindet sich ein Hologramm mit dem blauen Planeten Erde. Einer der Außerirdischen zeigt auf Nordamerika....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8c0bea8b402b7d1c5851e575b0408049/thumbnails/thumbnail.jpg" width="600" alt="Aliens in einer Konferenz mit einem Erd-Hologramm">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4909)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2055698478127296747) | **Published:** May 16, 2026
-
----
-### Pokémon-Karten-Unboxing aus der Ego-Perspektive
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Bild-zu-Video-Prompt zur Erstellung eines Unboxing-Videos aus der Ego-Perspektive, in dem ein goldenes Mega-Lucario-Pokémon-Kartenpaket geöffnet wird.
-
-#### 📝 Prompt
-
-```
-Ich habe zwei Bilder. Ich möchte ein Video erstellen, in dem ein Nutzer aus der Ego-Perspektive das Mega-Entwicklungs-Paket öffnet und alle Karten in dem Paket die goldene Mega-Lucario-ex-Karte sind.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8173700fcd22bdb52e255658b5fe3bc9/thumbnails/thumbnail.jpg" width="600" alt="Pokémon-Karten-Unboxing aus der Ego-Perspektive">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4904)**
-
-**Author:** [Joe](https://x.com/CardCaptain) | **Source:** [Link](https://x.com/CardCaptain/status/2055697504470253896) | **Published:** May 16, 2026
-
----
-### Cowboy und Viehweide im Comic-Stil
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Prompt im Comic-Stil, der einen Cowboy und seine Begleiterin zeigt, wie sie durch eine Weide reiten und auf grasende Rinder blicken.
-
-#### 📝 Prompt
-
-```
-Comic-Stil 
-Cowboy und seine Begleiterin reiten über die Weide mit Blick auf grasende Black-Angus-Rinder
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f16fb43dc6a97bdb9373db4c464e62dd/thumbnails/thumbnail.jpg" width="600" alt="Cowboy und Viehweide im Comic-Stil">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4905)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2055691304684986599) | **Published:** May 16, 2026
-
----
-### Szene mit transparenten Aliens beim Händeschütteln
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein bewegungsfokussierter Prompt für Grok Imagine, bei dem zwei transparente Aliens aufeinandertreffen und sich ohne Dialog die Hände schütteln.
-
-#### 📝 Prompt
-
-```
-Sie halten nach 3 Sekunden in der Szene an. Kein Dialog. Beim Anhalten treffen zwei transparente Außerirdische aufeinander und schütteln sich die Hände.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c5afb652c8fdd38f642304156cc10ed1/thumbnails/thumbnail.jpg" width="600" alt="Szene mit transparenten Aliens beim Händeschütteln">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4910)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2055691018041717157) | **Published:** May 16, 2026
-
----
-### Kopfbewegung eines Charakters im Nebel
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein filmischer Video-Prompt, der die subtile Kopfbewegung eines Charakters in einer nebligen und dunstigen Umgebung beschreibt.
-
-#### 📝 Prompt
-
-```
-er steht still und bewegt nur seinen Kopf, während er von einer Seite zur anderen schaut; es ist neblig und dunstig
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c032613ae022042f47138d5a5b98978e/thumbnails/thumbnail.jpg" width="600" alt="Kopfbewegung eines Charakters im Nebel">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4902)**
-
-**Author:** [Richard](https://x.com/CharlieWP100) | **Source:** [Link](https://x.com/CharlieWP100/status/2055676152677556510) | **Published:** May 16, 2026
-
----
-### Flame and Rose Couture Catwalk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein cineastisches Video einer Modenschau, das eine Frau in einem surrealen, dramatischen Kleid aus Flammen und Rosen zeigt, wie sie über einen Laufsteg schreitet.
-
-#### 📝 Prompt
-
-```
-Eine selbstbewusste Frau in einem surrealen Couture-Kleid aus Flammen und Rosen schreitet in einem dramatischen, cineastischen Stil über einen luxuriösen Laufsteg.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f39c61dedb32c0b494415777e85f9396/thumbnails/thumbnail.jpg" width="600" alt="Flame and Rose Couture Catwalk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4901)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2055664046104576461) | **Published:** May 16, 2026
-
----
-### Robin Williams Popeye Metamorphose
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein kreatives Transformationsvideo, das eine statische Zeichnung von Robin Williams als Popeye in eine dynamische animierte Figur verwandelt.
-
-#### 📝 Prompt
-
-```
-Professor Don mit seiner Zeichnung von Robin Williams als Popeye, die sich in eine animierte Figur verwandelt
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5eb7d7ac945a23610df893e88a376fe7/thumbnails/thumbnail.jpg" width="600" alt="Robin Williams Popeye Metamorphose">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4897)**
-
-**Author:** [the don of hockey](https://x.com/don_allain) | **Source:** [Link](https://x.com/don_allain/status/2055595209807798536) | **Published:** May 16, 2026
-
----
-### Epische Cyber-Fantasy-Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein extrem detaillierter, 6-sekündiger kinoreifer Video-Prompt mit einer Elfenkönigin auf einem Kristallhirsch, der sich in einen biomechanischen Roboter verwandelt.
-
-#### 📝 Prompt
-
-```
-Kinoreifes, 6-sekündiges fotorealistisches Video, ultra-realistisches 8K, gedreht auf ARRI Alexa 65 mit anamorphen Objektiven, dramatische Beleuchtung zur goldenen Stunde in einem verwunschenen Herbstwald. Beginnend mit einer majestätischen Elfenkönigin mit langem, fließendem platin-silbernem Haar und leuchtender türkisfarbener Rüstung, die auf einem majestätischen, leuchtend blauen Kristallhirsch mit kunstvollem goldenen Geweih reitet. Die Szene ist in warme Sonnenstrahlen getaucht, die durch leuchtend orange und rote fallende Ahornblätter dringen. Bei 1,5 Sekunden beginnt die Kamera eine langsame, majestätische Umlaufbahn um sie herum, während die kristallblauen Muster des Hirsches intensiver werden und anfangen, pulsierend Energie abzugeben. Bei 2,8 Sekunden beginnt die „Next-Level-Transformation“: Der Körper des Hirsches morpht und entfaltet sich elegant in einer nahtlosen, organisch-mechanischen Hybrid-Transformation – leuchtend blaue Kristallpanzerplatten verschieben sich und dehnen sich zu futuristischen biomechanischen Robotergliedmaßen und Triebwerken aus, während die elegante Hirschsilhouette erhalten bleibt; das Geweih verwandelt sich in massive, leuchtende Energiekanonen. Gleichzeitig verwandelt sich die Rüstung der Elfenkönigin fließend in eine elegante, kunstvolle Cyber-Fantasy-Kampfrüstung mit leuchtenden türkisfarbenen Energieschaltkreisen. Ihr Haar weht dramatisch im Wind, während goldene Energiepartikel um sie herum wirbeln. Die Transformation ist geschmeidig, elegant und extrem detailliert – keine harten Schnitte, perfekte flüssige Bewegung, komplexe mechanische und magische Details, die nahtlos ineinander übergehen. Epischer orchestraler Anstieg mit tiefem Bass. Ende bei 6 Sekunden, beide vollständig in ihre ultimativen Cyber-Fantasy-Formen transformiert, kraftvoll im sonnendurchfluteten Herbstwald stehend, Blätter fallen weiterhin sanft herab, die Kamera fährt zurück in eine heldenhafte Totale, kinoreifes Color Grading, volumetrische Lichtstrahlen, ultra-detaillierte Texturen, fotorealistisches Fell, Metall- und Energieeffekte, Meisterwerk-Qualität, hyper-realistisch.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f02014c0d13812053151eec87f30dfa1/thumbnails/thumbnail.jpg" width="600" alt="Epische Cyber-Fantasy-Transformation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4898)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2055564820531867868) | **Published:** May 16, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2236,6 +2236,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-24T04:20:07.632Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-24T10:09:52.432Z</sub>
 
 </div>

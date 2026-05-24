@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1623** |
+| 📝 Total Prompts | **1638** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-24** |
 
@@ -189,6 +189,295 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Mario Minecraft Battle
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex animated sequence where Mario enters a Minecraft world to fight monsters while being protected by bees.
+
+#### 📝 Prompt
+
+```
+Mario Minecraft turns into Minecraft and then fights the creepers and zombies and skeletons and the bees will protect mario and mario finds the items where you need to find them
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b6cd7555842b5a8d29c48622c6b9eced/thumbnails/thumbnail.jpg" width="600" alt="Mario Minecraft Battle">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5207)**
+
+**Author:** [Kamilla Mihalik](https://x.com/missMihalik) | **Source:** [Link](https://x.com/missMihalik/status/2058391725408715168) | **Published:** May 24, 2026
+
+---
+### Graffiti Street Art Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for transforming a kitchen scene into a vibrant graffiti street art style on a brick wall with dripping paint.
+
+#### 📝 Prompt
+
+```
+Turn this image into a vibrant, colorful graffiti street art style with bold spray-painted lines, dripping paint effects, tags, and urban graffiti overlays. The couple holding stacks of cash in the kitchen, stylized as if painted on a brick wall with...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/167841b567d11a50551109c4554a1888/thumbnails/thumbnail.jpg" width="600" alt="Graffiti Street Art Transformation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5199)**
+
+**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2058283813994635683) | **Published:** May 23, 2026
+
+---
+### SpaceX Starship Launch Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic scene where a person watches a SpaceX Starship V3 launch into the sky, surrounded by cheering people in SpaceX gear.
+
+#### 📝 Prompt
+
+```
+@image1 walks slowly. She stops and can observe how Starship V3 rises into the sky. Around her there are more people. They applaud, everyone has black t-shirts with the name SpaceX
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a62a698c50216c8b5d36f02ed4b4c7f8/thumbnails/thumbnail.jpg" width="600" alt="SpaceX Starship Launch Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5202)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2058246598224675059) | **Published:** May 23, 2026
+
+---
+### Horseback riding and Starship launch video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An action video prompt showing a character on horseback with dust rising as a SpaceX Starship V3 ascends in the background.
+
+#### 📝 Prompt
+
+```
+@image1 riding, dust rises, a small Starship V3 rocket ascends behind her ....
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cd3ba64cf1170b7c7dcc39664028c3fc/thumbnails/thumbnail.jpg" width="600" alt="Horseback riding and Starship launch video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5203)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2058240796122345862) | **Published:** May 23, 2026
+
+---
+### Woman in a Geodesic Time Machine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt depicting a woman inside a futuristic geodesic sphere-shaped time machine.
+
+#### 📝 Prompt
+
+```
+The young dark haired woman sits inside her Time Machine. The Time Machine is shaped like a geodesic sphere.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eb478c4bc2086c58927f19c2cf2d333f/thumbnails/thumbnail.jpg" width="600" alt="Woman in a Geodesic Time Machine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5194)**
+
+**Author:** [Make Britain Great Again](https://x.com/DragonFlam7530) | **Source:** [Link](https://x.com/DragonFlam7530/status/2058239579451281461) | **Published:** May 23, 2026
+
+---
+### Saturday coffee and Starship V3 video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt where a character drinks coffee and speaks to the camera with the Starship V3 rocket and SpaceX branding visible.
+
+#### 📝 Prompt
+
+```
+@image1 drinking coffee. Look at the camera and say second coffee of Saturday .... Starship V3. SpaceX.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3bca9d2da40b94a11d7e5509564409c/thumbnails/thumbnail.jpg" width="600" alt="Saturday coffee and Starship V3 video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5206)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2058235833799385155) | **Published:** May 23, 2026
+
+---
+### Volcanic Lava Creatures Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt of molten lava creatures emerging from a volcanic eruption with 10 seconds of panning motion and seismic effects.
+
+#### 📝 Prompt
+
+```
+Volcanic eruption with lava creatures: molten lava bursts from the ground, forming humanoid figures that lumber forward, rocks crack and steam hisses, ash clouds billow, ground trembles with seismic effects, epic wide shot panning upward for 10 seconds.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9c4f06eb0cf3c5cf1205893ef0775a2c/thumbnails/thumbnail.jpg" width="600" alt="Volcanic Lava Creatures Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5200)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2058171184387379412) | **Published:** May 23, 2026
+
+---
+### Consistency and Eye Color Modification
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A transformation prompt for changing eye color while maintaining video consistency during a moon-watching scene.
+
+#### 📝 Prompt
+
+```
+Everything’s the same except she has light blue as she watches the moon with her eyes of wonder!
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/331e3a92f46c582ec6a55d4851e1def9/thumbnails/thumbnail.jpg" width="600" alt="Consistency and Eye Color Modification">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5197)**
+
+**Author:** [Nancy CL](https://x.com/NancyCL54) | **Source:** [Link](https://x.com/NancyCL54/status/2058128737728704633) | **Published:** May 23, 2026
+
+---
+### Space Scene on Fifth Avenue
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal prompt mixing space elements with a popcorn vendor on a New York City street.
+
+#### 📝 Prompt
+
+```
+Make a video of a sad black person in space in New York and a person vending popcorn in the background on fifth Avenue
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2cd1003578e9d98ac4dae6cd8c57c3e7/thumbnails/thumbnail.jpg" width="600" alt="Space Scene on Fifth Avenue">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5193)**
+
+**Author:** [The MAGA Pendulum Magazine🇺🇸](https://x.com/ThePendulumMag) | **Source:** [Link](https://x.com/ThePendulumMag/status/2058113409179394557) | **Published:** May 23, 2026
+
+---
+### Romantic Moonlit Encounter
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt for a romantic scene where a woman with light blue eyes watches the moon as her partner approaches.
+
+#### 📝 Prompt
+
+```
+Everything’s the same except she has light blue eyes as she watches the moon with her eyes of wonder! Her handsome future husband comes walking on the grass.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9fb1adeddbf49e93066ae5a6fc55f07b/thumbnails/thumbnail.jpg" width="600" alt="Romantic Moonlit Encounter">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5195)**
+
+**Author:** [Nancy CL](https://x.com/NancyCL54) | **Source:** [Link](https://x.com/NancyCL54/status/2058109585139827088) | **Published:** May 23, 2026
+
+---
+### Vaporwave Retro Tech Living Room
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Creates a nostalgic and atmospheric video of a retro-tech environment with vaporwave aesthetics.
+
+#### 📝 Prompt
+
+```
+a gorgeous view of retro tech in a vaporwave themed living room, nostalgic and atmospheric
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7bb836da3c2b8d30840ad239e75cbb1a/thumbnails/thumbnail.jpg" width="600" alt="Vaporwave Retro Tech Living Room">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5198)**
+
+**Author:** [Kiri](https://x.com/Kyrannio) | **Source:** [Link](https://x.com/Kyrannio/status/2058089842832257112) | **Published:** May 23, 2026
+
+---
+### Artistic dancer on Starship V3 video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt featuring a dancer reclining artistically on a Starship V3 rocket, accompanied by a philosophical quote.
+
+#### 📝 Prompt
+
+```
+@image1 the dancer reclining in an artistic way on the Starship V3 .... Livy: "A certain peace is a better and safer thing than a victory."
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a830ce509929b001f16307c6bd615e2/thumbnails/thumbnail.jpg" width="600" alt="Artistic dancer on Starship V3 video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5204)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2058061063095009726) | **Published:** May 23, 2026
+
+---
+### Greek goddess watching Starship V3 launch
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A mythological video prompt where a Greek goddess observes the liftoff of a Starship V3 rocket.
+
+#### 📝 Prompt
+
+```
+@image1 Greek goddess watching the launch of Starship V3 dialogue in English @image2
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bc19401392f0d4df7ea16a79ae6062e1/thumbnails/thumbnail.jpg" width="600" alt="Greek goddess watching Starship V3 launch">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5205)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2058052310597591412) | **Published:** May 23, 2026
+
+---
+### Futuristic Rabbit R3 Commercial
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive multi-scene prompt for a futuristic AI assistant device commercial with cinematic lighting and luxury aesthetic.
+
+#### 📝 Prompt
+
+```
+Ultra cinematic commercial of a futuristic Rabbit R3 AI Assistant device in a dark luxury apartment at night, neon city lights through glass windows, young creator picks up the device from a sleek desk, close-up macro shots, glowing UI animations, AI answering instantly, ultra realistic reflections, smooth camera movement, premium Apple-style advertisement, fast-paced cuts synced with deep futuristic music, holographic interface effects, modern tech lifestyle, dramatic lighting, shallow depth of field, luxury aesthetic, 8K, hyper realistic, viral tech commercial style. Scene 1 (0–3s): Device rotating on desk with neon reflections, text overlay: “The Future Fits In Your Pocket.” Scene 2 (3–7s): User asks AI assistant for schedule and messages, instant smart response appears holographically. Scene 3 (7–11s): Fast cinematic cuts of travel, productivity, voice control, AI helping in daily life. Scene 4 (11–15s): Hero shot of Rabbit R3 glowing in dark environment, futuristic logo reveal, text: “Meet Your AI Companion.” Style: cinematic, luxury tech commercial, futuristic, viral TikTok ad, realistic lighting, smooth transitions, high contrast, modern minimal aesthetic.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5245b9bab74251d29e2914ebd0b77887/thumbnails/thumbnail.jpg" width="600" alt="Futuristic Rabbit R3 Commercial">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5201)**
+
+**Author:** [Ur Meer](https://x.com/UrMeer289) | **Source:** [Link](https://x.com/UrMeer289/status/2058050455650050315) | **Published:** May 23, 2026
+
+---
+### Futuristic Warrior Playing Grand Piano
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An incredibly detailed cinematic prompt for a futuristic female warrior playing a grand piano in a massive arena with holographic effects.
+
+#### 📝 Prompt
+
+```
+A cinematic, hyper-detailed 12-second vertical video of a beautiful female warrior in ornate, polished silver futuristic-medieval armor with a tall helmet and long flowing black ponytail, standing powerfully while passionately playing a sleek black grand piano with gold ornamental details.
+She is in the center of a massive open-air futuristic arena filled with a huge cheering crowd. The background features towering modern buildings, large red banners with glowing Chinese characters, and multiple futuristic flying drones hovering above. Dynamic glowing cyan/blue holographic energy lines, hexagons, and light particles swirl and pulse intensely around her body, the piano, and her hands as she plays.
+The camera is highly dynamic: it starts with a medium front shot, then circles around her smoothly (side, back, low angle, close-up on hands and face), creating an epic, dramatic feel. She moves with confidence and grace — head turns, body sways, armored hands striking the keys powerfully. Bright blue energy bursts and light trails intensify with the music.
+Ultra-realistic rendering mixed with stylized cinematic lighting, dramatic golden hour sunlight with lens flares, dust in the air, detailed textures on armor and piano, highly detailed face with striking eyes. Epic, surreal, powerful, and mesmerizing atmosphere.
+Style: cinematic, photorealistic, high production value, 8K, smooth motion, dramatic camera movement.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c41d45ff4d2a3fc9351ed4d91e80cee8/thumbnails/thumbnail.jpg" width="600" alt="Futuristic Warrior Playing Grand Piano">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5196)**
+
+**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2058023189276737681) | **Published:** May 23, 2026
+
+---
 ### Boy Diving Into Water Scene
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1887,295 +2176,6 @@ Ultra-realistic cinematic close-up of Elon Musk standing alone on a high metalli
 **Author:** [Alex Patricio](https://x.com/alexpatricio204) | **Source:** [Link](https://x.com/alexpatricio204/status/2055870235161362480) | **Published:** May 17, 2026
 
 ---
-### Cigarette Lighting Zoom Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A camera zoom animation prompt focusing on the action of lighting a cigarette.
-
-#### 📝 Prompt
-
-```
-Elon lights a cigarette camera zoom to the 2015-2026 Grok ✅ @grok Alex Patricio ✅ @alexpatricio204 and Elon Musk ✅ X @elonmusk • 1s 🇺🇸🚘🚀🚀🚀🚀🚀🌎🇵🇭🍀💯✅
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7f86cbb2aa44c44119d9a67d3da7caa8/thumbnails/thumbnail.jpg" width="600" alt="Cigarette Lighting Zoom Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4957)**
-
-**Author:** [Alex Patricio](https://x.com/alexpatricio204) | **Source:** [Link](https://x.com/alexpatricio204/status/2055869316101288381) | **Published:** May 17, 2026
-
----
-### Abstract Emotional Interaction
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An abstract video prompt involving emotional actions and dialogue.
-
-#### 📝 Prompt
-
-```
-Àsepéră € { I LOVE YOU } ¥
-slap :::&gt; push away &lt;
-—-[ why ]
- € { you are my doll always }
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3d7f742a06ee83de5d34a6a65b7cea96/thumbnails/thumbnail.jpg" width="600" alt="Abstract Emotional Interaction">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4956)**
-
-**Author:** [Notzucow](https://x.com/Notzucow69) | **Source:** [Link](https://x.com/Notzucow69/status/2055866786831106494) | **Published:** May 17, 2026
-
----
-### Teenager Conflict Action Sequence
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video generation prompt depicting a dramatic confrontation between two teenagers with dialogue.
-
-#### 📝 Prompt
-
-```
-A teenager smacks another teenager in the face and yells at him “that’s what you get when you mess with me”....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/43587fd0bee77a616ec424ae73e9c761/thumbnails/thumbnail.jpg" width="600" alt="Teenager Conflict Action Sequence">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4947)**
-
-**Author:** [Daniel Ball](https://x.com/dball1126) | **Source:** [Link](https://x.com/dball1126/status/2055842958289584291) | **Published:** May 17, 2026
-
----
-### Lotus Lanterns and Milky Way Sanctuary
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt featuring floating lotus lanterns, a waterfall, and a stone sanctuary under the Milky Way.
-
-#### 📝 Prompt
-
-```
-Floating lotus lanterns, a whispering waterfall, and the Milky Way watching over an ancient stone sanctuary.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5655652d6e593a4367fedf1762185adc/thumbnails/thumbnail.jpg" width="600" alt="Lotus Lanterns and Milky Way Sanctuary">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4908)**
-
-**Author:** [Missy AI](https://x.com/ai_empire33) | **Source:** [Link](https://x.com/ai_empire33/status/2055821923800780924) | **Published:** May 17, 2026
-
----
-### Continuous Character Transformation Sequence
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A morphing video sequence where a character transforms through various identities including a woman, a wizard, Santa Claus, and a robot.
-
-#### 📝 Prompt
-
-```
-Have him transform into a woman than into a wizard then into Santa Claus then into a robot
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6f89e82a3abfb963ac5937c87fc2d881/thumbnails/thumbnail.jpg" width="600" alt="Continuous Character Transformation Sequence">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4895)**
-
-**Author:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **Source:** [Link](https://x.com/CindyWeigapn6/status/2055786953103069359) | **Published:** May 16, 2026
-
----
-### Cinematic Dragons in Moonlit Forest
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A high-quality slow-motion video prompt featuring a muscular golden dragon and a starry purple dragon in an enchanted moonlit forest.
-
-#### 📝 Prompt
-
-```
-Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a more slender, elegant midnight purple dragon with starry bioluminescent scales are resting in a moonlit enchanted forest. The two dragons slowly and tenderly move their head.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/76be608144f7dcc699a9d6c3661a2174/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Dragons in Moonlit Forest">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4906)**
-
-**Author:** [Maryama Cissey](https://x.com/Sweet_Maryama) | **Source:** [Link](https://x.com/Sweet_Maryama/status/2055762930369429640) | **Published:** May 16, 2026
-
----
-### Steampunk Elephant Guardian Awakening
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A fantasy video prompt featuring a crystal sorceress awakening a steampunk elephant in an arctic environment.
-
-#### 📝 Prompt
-
-```
-Blue Crystal Sorceress Awakens Her Steampunk Elephant Guardian in the Frozen Realm. Magic & gears collide under arctic skies!
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/970daa4aca0f71a31b3f53209ed734fb/thumbnails/thumbnail.jpg" width="600" alt="Steampunk Elephant Guardian Awakening">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4907)**
-
-**Author:** [AI영상공작실](https://x.com/lee_young71) | **Source:** [Link](https://x.com/lee_young71/status/2055754008372080710) | **Published:** May 16, 2026
-
----
-### Aliens in Conference with Earth Hologram
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt describing extraterrestrials sitting at a conference table with a floating blue Earth hologram.
-
-#### 📝 Prompt
-
-```
-They head to a conference table and sit down; there is a hologram with the blue planet Earth. One of the extraterrestrials points to North America....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8c0bea8b402b7d1c5851e575b0408049/thumbnails/thumbnail.jpg" width="600" alt="Aliens in Conference with Earth Hologram">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4909)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2055698478127296747) | **Published:** May 16, 2026
-
----
-### Pokemon Card Unboxing First Person POV
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed image-to-video prompt for creating a first-person perspective unboxing video of a gold Mega Lucario Pokemon card pack.
-
-#### 📝 Prompt
-
-```
-I have two images. I want to create a video where a user in first POV opens the Mega Evolution pack and all cards in the pack are the gold Mega Lucario ex card
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8173700fcd22bdb52e255658b5fe3bc9/thumbnails/thumbnail.jpg" width="600" alt="Pokemon Card Unboxing First Person POV">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4904)**
-
-**Author:** [Joe](https://x.com/CardCaptain) | **Source:** [Link](https://x.com/CardCaptain/status/2055697504470253896) | **Published:** May 16, 2026
-
----
-### Comic Style Cowboy and Cattle Pasture
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A comic book style video prompt depicting a cowboy and his lady riding through a pasture overlooking grazing cattle.
-
-#### 📝 Prompt
-
-```
-Comic book style 
-Cowboy and his lady ride the pasture overlooking black angus cattle grazing
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f16fb43dc6a97bdb9373db4c464e62dd/thumbnails/thumbnail.jpg" width="600" alt="Comic Style Cowboy and Cattle Pasture">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4905)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2055691304684986599) | **Published:** May 16, 2026
-
----
-### Translucent Aliens Handshake Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A motion-focused prompt for Grok Imagine featuring two translucent aliens meeting and shaking hands without dialogue.
-
-#### 📝 Prompt
-
-```
-They stop at 3 seconds into the scene. No dialogue. Upon stopping, two translucent extraterrestrials meet and shake hands.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c5afb652c8fdd38f642304156cc10ed1/thumbnails/thumbnail.jpg" width="600" alt="Translucent Aliens Handshake Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4910)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2055691018041717157) | **Published:** May 16, 2026
-
----
-### Foggy Character Head Movement
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt describing subtle character motion within a misty and foggy environment.
-
-#### 📝 Prompt
-
-```
-he stands still, only moving his head looking from side to side, it is foggy and misty
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c032613ae022042f47138d5a5b98978e/thumbnails/thumbnail.jpg" width="600" alt="Foggy Character Head Movement">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4902)**
-
-**Author:** [Richard](https://x.com/CharlieWP100) | **Source:** [Link](https://x.com/CharlieWP100/status/2055676152677556510) | **Published:** May 16, 2026
-
----
-### Flame and Rose Couture Catwalk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic fashion show video featuring a woman in a surreal, dramatic gown made of flames and roses striding down a runway.
-
-#### 📝 Prompt
-
-```
-A poised woman in a surreal flame and rose couture gown strides down a luxury catwalk in a dramatic, cinematic style.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f39c61dedb32c0b494415777e85f9396/thumbnails/thumbnail.jpg" width="600" alt="Flame and Rose Couture Catwalk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4901)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2055664046104576461) | **Published:** May 16, 2026
-
----
-### Robin Williams Popeye Metamorphosis
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A creative transformation video turning a static drawing of Robin Williams as Popeye into a dynamic animated character.
-
-#### 📝 Prompt
-
-```
-Professor Don with his drawing of Robin Williams as Popeye that metamorphosis into an animated character
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5eb7d7ac945a23610df893e88a376fe7/thumbnails/thumbnail.jpg" width="600" alt="Robin Williams Popeye Metamorphosis">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4897)**
-
-**Author:** [the don of hockey](https://x.com/don_allain) | **Source:** [Link](https://x.com/don_allain/status/2055595209807798536) | **Published:** May 16, 2026
-
----
-### Cyber-Fantasy Elf Queen Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed, cinematic video prompt for Grok Imagine that depicts a majestic elf queen on a crystalline stag undergoing a seamless mechanical transformation into a cyber-fantasy warrior in a sunlit autumn forest.
-
-#### 📝 Prompt
-
-```
-Cinematic 6-second photorealistic video, ultra-realistic 8K, shot on ARRI Alexa 65 with anamorphic lenses, dramatic golden hour lighting in an enchanted autumn forest.\n\nStart with a majestic elf queen with long flowing platinum-silver hair and glowing turquoise armor riding a majestic glowing blue crystalline stag with ornate golden antlers. The scene is bathed in warm sunlight rays piercing through vibrant orange and red falling maple leaves.\n\nAt 1.5 seconds, the camera begins a slow majestic orbit around them as the stag's crystalline blue patterns intensify and start pulsing with energy. At 2.8 seconds, the "next-level transformation" begins: the stag's body elegantly morphs and unfolds in a seamless, organic-mechanical hybrid transformation — glowing blue crystal armor plates shift and expand into futuristic biomechanical robotic limbs and thrusters while maintaining its elegant deer silhouette, antlers transforming into massive glowing energy cannons.\n\nSimultaneously, the elf queen's armor fluidly transforms into sleek, ornate cyber-fantasy battle armor with glowing turquoise energy circuits. Her hair flows dramatically in the wind as golden energy particles swirl around them.\n\nThe transformation is smooth, elegant, and extremely detailed — no hard cuts, perfect fluid motion, intricate mechanical and magical details blending seamlessly. Epic orchestral swell with deep bass.\n\nEnd at 6 seconds with both fully transformed into their ultimate cyber-fantasy forms standing powerfully in the sunlit autumn forest, leaves still gently falling, camera pulling back to a heroic wide shot, cinematic color grading, volumetric god rays, ultra-detailed textures, photorealistic fur, metal, and energy effects, masterpiece quality, hyper-realistic.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f02014c0d13812053151eec87f30dfa1/thumbnails/thumbnail.jpg" width="600" alt="Cyber-Fantasy Elf Queen Transformation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4898)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2055564820531867868) | **Published:** May 16, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2237,6 +2237,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-24T04:19:49.702Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-24T10:09:32.020Z</sub>
 
 </div>
