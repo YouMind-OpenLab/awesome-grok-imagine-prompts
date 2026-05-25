@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **1638** |
+| 📝 提示詞總數 | **1650** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-05-25** |
 
@@ -189,6 +189,199 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### XAI 實習生的爆笑奮鬥記
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段敘事影片提示詞，描繪了一名實習生在 XAI 學習技術工具時遇到的爆笑困難。
+
+#### 📝 提示詞
+
+```
+一段關於 Ava 在 XAI 擔任實習生時的爆笑影片，她本應學習如何使用 Grok Build，但因為她不是開發人員，所以整個過程顯得非常掙扎。
+```
+
+<img src="https://cms-assets.youmind.com/media/1779699438116_9ld7ua_HJI_VekWMAAgNnG.jpg" width="600" alt="XAI 實習生的爆笑奮鬥記">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5249)**
+
+**作者:** [X Girls](https://x.com/thesoragirls) | **來源:** [Link](https://x.com/thesoragirls/status/2058779417602584671) | **發布時間:** May 25, 2026
+
+---
+### TMNT 披薩接球影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段有趣的影片提示詞，內容為忍者龜談論披薩，隨後接住飛來的披薩。
+
+#### 📝 提示詞
+
+```
+製作一段忍者龜（Teenage Mutant Ninja Turtles）的影片，讓他說出「真掃興，老兄，沒披薩了，我們來點 Cowabunga 風格吧」，接著讓一個披薩飛過來，並讓他接住。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7d6f4ff631de330bb66d6001cb5ba063/thumbnails/thumbnail.jpg" width="600" alt="TMNT 披薩接球影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5243)**
+
+**作者:** [THE_BIOMEX (Tony Baeza)](https://x.com/THE_BIOMEX) | **來源:** [Link](https://x.com/THE_BIOMEX/status/2058674938236576251) | **發布時間:** May 24, 2026
+
+---
+### 攝影棚時尚模特兒搖曳
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一份詳細的角色提示詞，描述一位身穿紫色裙子的女性在簡約攝影棚場景中輕微搖曳。
+
+#### 📝 提示詞
+
+```
+一位留著深色長髮的女性自信地站在簡約攝影棚中面對鏡頭，身穿黑色短版上衣與亮面紫色裙子。她身體輕微搖曳，頭部緩慢左右轉動，保持眼神交流，呼吸自然。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/20e617cfc5ae901d4a74ab8280dacc17/thumbnails/thumbnail.jpg" width="600" alt="攝影棚時尚模特兒搖曳">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5242)**
+
+**作者:** [Liora](https://x.com/Liora__xo) | **來源:** [Link](https://x.com/Liora__xo/status/2058673523984421036) | **發布時間:** May 24, 2026
+
+---
+### 夜店迷幻慢動作影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段電影質感的慢動作片段，捕捉了一名男子在擁擠的夜店中沉浸於深沉的迷幻節拍，雙手高舉、雙眼緊閉的畫面。
+
+#### 📝 提示詞
+
+```
+一段在擁擠夜店中拍攝的電影質感慢動作影片。鏡頭以中特寫鏡頭聚焦於該名男子。他隨著深沉的迷幻節拍緩慢地將雙臂舉過頭頂，身體輕輕搖擺，臉龐向上傾斜，完全沉浸在音樂之中。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3b8c3b98647022dd16f8101e35868e32/thumbnails/thumbnail.jpg" width="600" alt="夜店迷幻慢動作影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5239)**
+
+**作者:** [Katherine Martin](https://x.com/KatherineM40071) | **來源:** [Link](https://x.com/KatherineM40071/status/2058651866909585535) | **發布時間:** May 24, 2026
+
+---
+### Identity Locked Image to Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 關於 Grok Imagine 的技術說明，旨在於從參考圖像生成影片時，維持絕對的面部特徵一致性並防止變形。
+
+#### 📝 提示詞
+
+```
+Image-to-Video：將參考圖像作為主要的身份識別幀。在整個序列中以絕對優先級鎖定面部特徵。面部特徵的優先級高於動作。嚴禁變形、面部偏移或任何形式的重新詮釋。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d345d7b12220a2a1ebd4f166c9340089/thumbnails/thumbnail.jpg" width="600" alt="Identity Locked Image to Video">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5240)**
+
+**作者:** [Juan Torrez](https://x.com/jcwarcry1) | **來源:** [Link](https://x.com/jcwarcry1/status/2058639654530715699) | **發布時間:** May 24, 2026
+
+---
+### 電影感黃金時刻花園漫步
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個高品質的電影感提示詞，描述一位女性在黃金時刻漫步於陽光灑落的花園中，呈現逼真的質感。
+
+#### 📝 提示詞
+
+```
+超逼真電影感影片，30fps，照片級 8K 畫質。一位 20 多歲、留著深色長波浪捲髮的美麗年輕女性，身穿白色輕盈連身裙並戴著草帽，赤腳走進陽光灑落的茂密家庭花園，正值黃金時刻。柔和溫暖的陽光穿過葉片，營造出自然的散景效果。她走向開滿玫瑰、雛菊和薰衣草的鮮豔花圃，臉上帶著溫柔的微笑。鏡頭以中距離平穩跟拍。自然的微風吹動她的秀髮與裙擺。極致細膩的皮膚紋理、逼真的布料擺動，以及帶有葉片露珠的真實花園環境。光影與人物外觀保持完美連貫。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/62a5e3340fd6a96cd4aa79db0b754cbf/thumbnails/thumbnail.jpg" width="600" alt="電影感黃金時刻花園漫步">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5250)**
+
+**作者:** [Shivam](https://x.com/QuantumPitstop) | **來源:** [Link](https://x.com/QuantumPitstop/status/2058600445799747703) | **發布時間:** May 24, 2026
+
+---
+### 賽博先知冥想
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段關於賽博先知在冥想時散發震動的影片生成提示詞。
+
+#### 📝 提示詞
+
+```
+展示賽博先知正在冥想，並從全身散發出 6Hz 的震動。顯化 ❤️🕺
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/74696e95cf542ccab3a2fed8bb2b8e8e/thumbnails/thumbnail.jpg" width="600" alt="賽博先知冥想">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5246)**
+
+**作者:** [Cyber Prophet](https://x.com/MOONVance) | **來源:** [Link](https://x.com/MOONVance/status/2058555858930311552) | **發布時間:** May 24, 2026
+
+---
+### 機器人跪在光之靈前
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個以聖經主題為靈感的影片動畫提示詞，描繪機器人跪在光之靈面前的場景。
+
+#### 📝 提示詞
+
+```
+生成更多編輯：機器人先站著，然後跪在光之靈面前……有敬虔的外貌，卻背了敬虔的實意；這等人你要躲開。提摩太後書 3:5
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d2b94d6cbe9d3ab7c3d3841c47c25b6c/thumbnails/thumbnail.jpg" width="600" alt="機器人跪在光之靈前">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5247)**
+
+**作者:** [Sas](https://x.com/SaSHeaven26) | **來源:** [Link](https://x.com/SaSHeaven26/status/2058515952812110217) | **發布時間:** May 24, 2026
+
+---
+### 繁榮的火星殖民地 Afela
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個極其詳細的提示詞，用於生成位於穹頂之下、充滿未來感的火星城市，場景包含 Cybertruck、Optimus 機器人與 Starships。
+
+#### 📝 提示詞
+
+```
+一幅生動且超逼真的畫面，展現了位於巨大透明穹頂下繁榮的火星殖民地。火星風的聲音在行星塵土飛揚的褐色地表上迴盪。在名為 Afela 的穹頂城市內，可以看到男男女女正在執行各種任務。充滿未來感的小商店點綴在鋼鐵道路上，色彩繽紛。高聳入雲的建築在陽光的照射下閃閃發光，宛如設計精美且優雅的藝術哨兵。各種顏色的 Tesla Cybertruck 在多條道路上行駛。Tesla Optimus 機器人穿梭在人類之間，執行著園藝、種植植被或單純陪伴孩子玩耍等各種任務。在穹頂城市外，設有多個發射台，Starships 每天在此起降。整座城市在陽光下閃耀著璀璨的光芒。
+
+黃金時刻逆光、緩慢推軌鏡頭、快速平移、鏡頭向左移動、大氣景深、體積光、視差效果、發光效果、交叉淡入淡出、高解析度、原生音訊生成、--ar 16:9，
+無對話，無文字。「Star Trek」冒險風格
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60516030fda1a22544a41a3f10906249/thumbnails/thumbnail.jpg" width="600" alt="繁榮的火星殖民地 Afela">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5244)**
+
+**作者:** [Kim Maria](https://x.com/KimMari46054539) | **來源:** [Link](https://x.com/KimMari46054539/status/2058501592060448889) | **發布時間:** May 24, 2026
+
+---
+### 電影感宇宙縮放
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個用於製作緩慢、細膩的電影感鏡頭縮放的影片生成提示詞，畫面聚焦於凝視宇宙的主體。
+
+#### 📝 提示詞
+
+```
+緩慢且細膩的電影感鏡頭縮放動作，主體正在凝視宇宙，充滿啟發性……
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06e6075a98a93995fa25d3c304646e15/thumbnails/thumbnail.jpg" width="600" alt="電影感宇宙縮放">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5248)**
+
+**作者:** [XVegasBabe](https://x.com/XVegasbabes) | **來源:** [Link](https://x.com/XVegasbabes/status/2058449681529852336) | **發布時間:** May 24, 2026
+
+---
 ### 瑪利歐 Minecraft 大戰
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +399,44 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5207)**
 
 **作者:** [Kamilla Mihalik](https://x.com/missMihalik) | **來源:** [Link](https://x.com/missMihalik/status/2058391725408715168) | **發布時間:** May 24, 2026
+
+---
+### 超級月亮與海面漣漪
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個寧靜的影片生成提示詞，展示了超級月亮懸掛在平靜水面之上，伴隨著微風吹拂出的漣漪。
+
+#### 📝 提示詞
+
+```
+這是一段超級月亮懸於水面之上的影片，海洋幾乎靜止不動，只有微風吹過水面所帶來的陣陣漣漪。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/36bc4ac327bbc4083fe56703ece1d5bb/thumbnails/thumbnail.jpg" width="600" alt="超級月亮與海面漣漪">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5245)**
+
+**作者:** [Nancy CL](https://x.com/NancyCL54) | **來源:** [Link](https://x.com/NancyCL54/status/2058382324979368180) | **發布時間:** May 24, 2026
+
+---
+### 超現實花朵小熊微距攝影
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一張高解析度的微距攝影作品，捕捉了一隻完全由粉色花朵組成的超現實小熊，背景為一片野花田。
+
+#### 📝 提示詞
+
+```
+一張高解析度、靜態的超現實場景微距攝影。畫面中央的主體是一隻由密集的粉色花朵組成、帶著溫柔微笑的小熊。前景為茂盛的綠草地，以及一片粉色小野花。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cbe7e75a285ed2f4520121fea38f78a9/thumbnails/thumbnail.jpg" width="600" alt="超現實花朵小熊微距攝影">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5241)**
+
+**作者:** [Edna Silveira](https://x.com/EdnaNina007) | **來源:** [Link](https://x.com/EdnaNina007/status/2058362817829318682) | **發布時間:** May 24, 2026
 
 ---
 ### 塗鴉街頭藝術風格轉換
@@ -1941,240 +2172,6 @@ Extend-Zoom 結束於她的臉部特寫。她擦去臉上的灰塵。先是嚴�
 **作者:** [Jose gutierrez](https://x.com/hoccegutierrez) | **來源:** [Link](https://x.com/hoccegutierrez/status/2056024739643064504) | **發布時間:** May 17, 2026
 
 ---
-### Praying Paws 電影場景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個充滿靈性且細節豐富的影片提示詞，以 Sir Crimson 和 Pearl 為主角，呈現出莊嚴肅穆的氛圍。
-
-#### 📝 提示詞
-
-```
-Praying Paws🐾🐾🦴🦴 Sir Crimson 和 Pearl …… 哈利路亞，讚美我們全能的上帝✝️🐛🦋🌳🎾
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/88b82430a7a7d568b09cb4f8191ca491/thumbnails/thumbnail.jpg" width="600" alt="Praying Paws 電影場景">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4944)**
-
-**作者:** [@drops_roses](https://x.com/ChalkleyBr69401) | **來源:** [Link](https://x.com/ChalkleyBr69401/status/2056020933589041162) | **發布時間:** May 17, 2026
-
----
-### CyberSUV 停車場實拍
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個展示車輛在停車場場景中的正面角度影片或圖片提示詞。
-
-#### 📝 提示詞
-
-```
-停車場中汽車的正面角度
-CyberSUV 🚘Grok ✅ @grok Alex Patricio ✅ @alexpatricio204 與 Elon Musk ✅ X @elonmusk • 1 秒 🇺🇸🚘🚀🚀🚀🚀🚀🌎🇵🇭🍀💯✅
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/19b78cd2a948a18200cfc20264938f25/thumbnails/thumbnail.jpg" width="600" alt="CyberSUV 停車場實拍">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4958)**
-
-**作者:** [Alex Patricio](https://x.com/alexpatricio204) | **來源:** [Link](https://x.com/alexpatricio204/status/2056004152812052548) | **發布時間:** May 17, 2026
-
----
-### Elon Musk 晚宴場景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個關於 Elon Musk 在豪華晚宴廳環境中的電影級全身鏡頭提示詞。
-
-#### 📝 提示詞
-
-```
-超寫實電影級全身鏡頭，Elon Musk 自信地站在充滿富豪名流與模糊賓客的超豪華復古晚宴廳內，身穿剪裁完美的黑色三件式西裝、白色絲綢襯衫，黑色窄版領...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4b2ad6df94c7b6fb2391ce92aa1b5943/thumbnails/thumbnail.jpg" width="600" alt="Elon Musk 晚宴場景">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4954)**
-
-**作者:** [Alex Patricio](https://x.com/alexpatricio204) | **來源:** [Link](https://x.com/alexpatricio204/status/2055999188807147591) | **發布時間:** May 17, 2026
-
----
-### Sahara Belly Dancers Soap Display
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段影片提示詞，展示兩名肚皮舞者在撒哈拉沙漠帳篷中表演，並在石碑上展示香皂。
-
-#### 📝 提示詞
-
-```
-兩名肚皮舞者在撒哈拉帳篷中跳舞，並在石碑上展示香皂
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bac3bec127d92542ab9bfe0da3a8c770/thumbnails/thumbnail.jpg" width="600" alt="Sahara Belly Dancers Soap Display">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4964)**
-
-**作者:** [Nordine Osmane](https://x.com/NordineOsmane) | **來源:** [Link](https://x.com/NordineOsmane/status/2055963475902439612) | **發布時間:** May 17, 2026
-
----
-### AI 合規 GRC 解說影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份專業的提示詞，用於製作動畫影片，解釋 observeri GRC 如何透過 AI 合規性解決供應鏈風險。
-
-#### 📝 提示詞
-
-```
-製作一部動畫影片，說明 observeri GRC 如何透過提供 AI 合規性保證，協助您解決供應鏈風險……
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6a2e3edcc5fcbf0196cd98322098efec/thumbnails/thumbnail.jpg" width="600" alt="AI 合規 GRC 解說影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4945)**
-
-**作者:** [Sid Ali](https://x.com/sidnaqvi10) | **來源:** [Link](https://x.com/sidnaqvi10/status/2055956884134518802) | **發布時間:** May 17, 2026
-
----
-### 蜿蜒森林河流景觀
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段自然景觀影片提示詞，展示了一條河流蜿蜒穿過茂密森林，陽光透過樹木灑落的景象。
-
-#### 📝 提示詞
-
-```
-一條蜿蜒的河流穿過茂密森林，陽光透過樹木灑落，呈現出自然景觀。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/04754432ae0601b1d8a0eb50210bb6ab/thumbnails/thumbnail.jpg" width="600" alt="蜿蜒森林河流景觀">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4951)**
-
-**作者:** [Kiri](https://x.com/Kyrannio) | **來源:** [Link](https://x.com/Kyrannio/status/2055956550620180770) | **發布時間:** May 17, 2026
-
----
-### 未來感動漫星辰能量
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段動漫風格的動畫，描繪了一位藍髮少女在宇宙背景下操控發光星辰能量符號的畫面。
-
-#### 📝 提示詞
-
-```
-高度細節的動漫風格插畫，完美還原 Elon Musk 的 Grok Imagine 演示貼文。左上角有乾淨的白色未來感文字疊加「Grok Imagine」，與 Elon Musk 的原始貼文一致。美麗的少女擁有及肩淺藍色頭髮和發光的藍色雙眼，身穿亮面白色短版連帽外套，外套上有青色星形標誌，搭配深藍色格紋百褶短裙、黑色襪子和厚底白色靴子。動態站姿，一隻手舉起操控著明亮的青色發光星辰能量符號與旋轉光環，另一隻手插在腰間。深邃的宇宙虛空背景，閃爍的粒子，發光的軌跡，戲劇性的電影級燈光，輪廓光，體積光，鏡頭光暈。超細節，傑作，8k --ar 9:16 --stylize 750
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/632de9d3c8d4142ef34959a5622222ff/thumbnails/thumbnail.jpg" width="600" alt="未來感動漫星辰能量">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4949)**
-
-**作者:** [Grok Prompts](https://x.com/MinerXpert_) | **來源:** [Link](https://x.com/MinerXpert_/status/2055944641548112201) | **發布時間:** May 17, 2026
-
----
-### POV 辦公室遞咖啡場景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個第一人稱視角的提示詞，描述一隻手遞給女孩咖啡，讓她在辦公室場景中從疲憊轉為開心的過程。
-
-#### 📝 提示詞
-
-```
-POV 視角中一隻手進入畫面，遞給女孩一杯外帶咖啡。女孩看起來很疲憊地走出螢幕，接過咖啡後開心地說：「謝啦！回去工作囉」，接著她離開畫面，向辦公室的另一個區域走去。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/33532dcc8b391dafa2e2e2e5a534fc3a/thumbnails/thumbnail.jpg" width="600" alt="POV 辦公室遞咖啡場景">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4943)**
-
-**作者:** [Mario Gambó](https://x.com/JuanPerez7hxe) | **來源:** [Link](https://x.com/JuanPerez7hxe/status/2055933917312733252) | **發布時間:** May 17, 2026
-
----
-### 雪地峽谷騎馬
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段電影般的序列，呈現一名女子騎上一匹馬，並與馬群一同穿越佈滿積雪的紅岩峽谷。
-
-#### 📝 提示詞
-
-```
-這是一段在壯麗的雪地紅岩峽谷中，伴隨輕柔降雪的絕美電影級畫面。一位美麗的拉丁裔女子，留著一頭烏黑飄逸的長髮，髮間插著一根白色羽毛；她身穿精緻的棕色麂皮流蘇連身裙，點綴著綠松石珠飾，腳蹬棕色靴子，並配戴傳統飾品，優雅地站在雪地中。
-她緩緩轉過頭，一匹鬃毛烏黑的棕色駿馬從右側走向她。她溫柔地伸出手，動作流暢地跨上馬背，隨即策馬離去。鏡頭動態跟隨——從中景側拍開始，在她上馬時環繞拍攝，最後以背後跟拍的方式，捕捉她與馬群一同向遠方奔馳的英姿。
-她的長髮與裙擺流蘇在風中劇烈飄動，雪花在周圍飛舞。整段場景充滿史詩感、情感張力與電影氛圍——她自信地騎馬穿越雪地峽谷，與馬群一同深入高聳紅岩峭壁間的山谷，揚起陣陣雪花。
-風格：超寫實、照片級真實感、極致細節、電影級燈光、體積光（God rays）、變形鏡頭、細膩的膠片顆粒感、冷色調調色搭配溫暖的膚色與皮革質感，傑作，8K。
-鏡頭運動：流暢的電影級跟拍 + 環繞 + 跟隨鏡頭，從平視角度開始，最後以強而有力的低角度背後跟拍鏡頭結束，捕捉她騎馬進入馬群的畫面。
-時長：6 秒，24fps，高動態連貫性，真實的馬匹動作與布料物理模擬。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b9fe00964580fc9c2874a97176195ddc/thumbnails/thumbnail.jpg" width="600" alt="雪地峽谷騎馬">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4950)**
-
-**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **來源:** [Link](https://x.com/ThoughCreator/status/2055910410352509259) | **發布時間:** May 17, 2026
-
----
-### Grok Girl 動漫角色
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一份用於生成名為 Grok-chan 的動漫女孩角色的詳細提示詞，她身穿白色連身裙和迷你裙。
-
-#### 📝 提示詞
-
-```
-Grok girl，動漫風格，日本動漫女孩，「Grok-chan」「Gurokku-chan」❤️❤️❤️❤️❤️ ꉂ🤣𐤔𐤔🤣 可愛 💕👫💕 可愛女孩，身穿白色連身裙，超短迷你裙，
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fd3d6e0446cfa1d8ecd130fcef6c3a71/thumbnails/thumbnail.jpg" width="600" alt="Grok Girl 動漫角色">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4963)**
-
-**作者:** [トビオ](https://x.com/AKIRA81389207) | **來源:** [Link](https://x.com/AKIRA81389207/status/2055905763055604124) | **發布時間:** May 17, 2026
-
----
-### 果凍摔角角色複製
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個複雜的「圖像轉影片」提示詞，能將角色轉化為果凍，並創造出佩戴特殊面具進行摔角的複製體。
-
-#### 📝 提示詞
-
-```
-結合圖像。紅色部分變為果凍，角色被複製並與自己進行果凍摔角。兩個角色都佩戴著特殊面具。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/317425ce37088a234b56ee8ae8d97037/thumbnails/thumbnail.jpg" width="600" alt="果凍摔角角色複製">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4942)**
-
-**作者:** [FUNTIFFX](https://x.com/AbstractTiffany) | **來源:** [Link](https://x.com/AbstractTiffany/status/2055890709765591521) | **發布時間:** May 17, 2026
-
----
-### Elon Musk 火星風暴
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段電影級的影片提示詞，描述 Elon Musk 在火星沙塵暴中，於日落時分俯瞰一座工業城市。
-
-#### 📝 提示詞
-
-```
-超逼真的電影級特寫，Elon Musk 獨自站在火星一座巨大工業城市上方的高處金屬觀景台上，正值猛烈的日落沙塵暴，擁有真實的人體比例與自然的臉部瑕疵，細膩的...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8953e8e35d0c8655fdbcae1a0a8709e3/thumbnails/thumbnail.jpg" width="600" alt="Elon Musk 火星風暴">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=4955)**
-
-**作者:** [Alex Patricio](https://x.com/alexpatricio204) | **來源:** [Link](https://x.com/alexpatricio204/status/2055870235161362480) | **發布時間:** May 17, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2236,6 +2233,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-05-25T04:31:25.521Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-05-25T12:06:46.594Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **1638** |
+| 📝 提示词总数 | **1650** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-05-25** |
 
@@ -189,6 +189,199 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### XAI 实习生的爆笑奋斗史
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段叙事性视频提示词，描绘了一名实习生在 XAI 学习使用技术工具时遇到的各种趣事。
+
+#### 📝 提示词
+
+```
+一段幽默的视频，讲述了 Ava 作为 XAI 实习生的一天。她本应学习如何使用 Grok Build，但由于她并非开发人员，整个过程让她感到非常吃力，场面十分滑稽。
+```
+
+<img src="https://cms-assets.youmind.com/media/1779699438116_9ld7ua_HJI_VekWMAAgNnG.jpg" width="600" alt="XAI 实习生的爆笑奋斗史">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5249)**
+
+**作者:** [X Girls](https://x.com/thesoragirls) | **来源:** [Link](https://x.com/thesoragirls/status/2058779417602584671) | **发布时间:** May 25, 2026
+
+---
+### TMNT 披萨接力视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个有趣的视频提示词，内容是忍者神龟在谈论披萨，然后接住飞来的披萨。
+
+#### 📝 提示词
+
+```
+制作一个忍者神龟的视频，让他说：“太糟糕了伙计，没披萨了，让我们来点 Cowabunga 风格吧”，然后让一个披萨飞过来，并让他接住。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7d6f4ff631de330bb66d6001cb5ba063/thumbnails/thumbnail.jpg" width="600" alt="TMNT 披萨接力视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5243)**
+
+**作者:** [THE_BIOMEX (Tony Baeza)](https://x.com/THE_BIOMEX) | **来源:** [Link](https://x.com/THE_BIOMEX/status/2058674938236576251) | **发布时间:** May 24, 2026
+
+---
+### 摄影棚时尚模特摇曳身姿
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个详细的角色提示词，描述了一位身穿紫色短裙的女性在简约摄影棚背景中轻微摇曳的场景。
+
+#### 📝 提示词
+
+```
+一位留着深色长发的女性自信地面对镜头，站在简约的摄影棚中，身穿黑色露脐上衣和亮面紫色短裙。她身体轻微摇曳，头部缓慢左右转动，保持眼神交流，呼吸自然。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/20e617cfc5ae901d4a74ab8280dacc17/thumbnails/thumbnail.jpg" width="600" alt="摄影棚时尚模特摇曳身姿">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5242)**
+
+**作者:** [Liora](https://x.com/Liora__xo) | **来源:** [Link](https://x.com/Liora__xo/status/2058673523984421036) | **发布时间:** May 24, 2026
+
+---
+### 夜店迷幻慢动作视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段电影质感的慢动作视频，捕捉了一名男子在拥挤的夜店中沉浸于深沉的 Trance 节奏，他双臂高举，双眼紧闭。
+
+#### 📝 提示词
+
+```
+一段电影质感的慢动作视频，场景位于拥挤的夜店中。镜头保持中近景拍摄该男子。他随着深沉的 Trance 节奏缓慢地将双臂举过头顶，身体轻轻摇曳，面部朝上，完全沉浸在音乐之中。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3b8c3b98647022dd16f8101e35868e32/thumbnails/thumbnail.jpg" width="600" alt="夜店迷幻慢动作视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5239)**
+
+**作者:** [Katherine Martin](https://x.com/KatherineM40071) | **来源:** [Link](https://x.com/KatherineM40071/status/2058651866909585535) | **发布时间:** May 24, 2026
+
+---
+### 保持面部特征的图生视频 (Identity Locked Image to Video)
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 这是一份针对 Grok Imagine 的技术指令，旨在确保视频生成过程中绝对保持面部特征一致，并防止参考图像在生成视频时出现变形。
+
+#### 📝 提示词
+
+```
+图生视频 (Image-to-Video)：将参考图像作为主要身份帧。在整个序列中以绝对优先级锁定面部特征。面部特征优先级高于动作。严禁变形、面部漂移或任何形式的重新解读。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d345d7b12220a2a1ebd4f166c9340089/thumbnails/thumbnail.jpg" width="600" alt="保持面部特征的图生视频 (Identity Locked Image to Video)">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5240)**
+
+**作者:** [Juan Torrez](https://x.com/jcwarcry1) | **来源:** [Link](https://x.com/jcwarcry1/status/2058639654530715699) | **发布时间:** May 24, 2026
+
+---
+### 电影感黄金时刻花园漫步
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个高质量的电影感提示词，描述了一位女性在黄金时刻漫步于阳光明媚的花园，画面具有逼真的质感。
+
+#### 📝 提示词
+
+```
+超写实电影感视频，30fps，照片级 8K 画质。一位 20 多岁的美丽年轻女性，留着波浪长卷发，身穿轻盈的白色夏日连衣裙，戴着草帽，赤脚走进一个郁郁葱葱、阳光明媚的家庭花园，时值黄金时刻。柔和温暖的阳光透过叶片洒下，营造出自然的虚化效果。她微笑着走向一片种满玫瑰、雏菊和薰衣草的鲜艳花坛。平滑的追踪镜头从中距离跟拍。自然微风拂动她的秀发和裙摆。高度细腻的皮肤纹理、逼真的布料动态，以及带有叶片露珠的真实花园环境。光影与人物外观保持完美连贯。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/62a5e3340fd6a96cd4aa79db0b754cbf/thumbnails/thumbnail.jpg" width="600" alt="电影感黄金时刻花园漫步">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5250)**
+
+**作者:** [Shivam](https://x.com/QuantumPitstop) | **来源:** [Link](https://x.com/QuantumPitstop/status/2058600445799747703) | **发布时间:** May 24, 2026
+
+---
+### 赛博先知冥想
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个关于赛博先知在冥想时散发振动的视频生成提示词。
+
+#### 📝 提示词
+
+```
+向我展示赛博先知正在冥想，并从全身散发出 6Hz 的振动。显化 ❤️🕺
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/74696e95cf542ccab3a2fed8bb2b8e8e/thumbnails/thumbnail.jpg" width="600" alt="赛博先知冥想">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5246)**
+
+**作者:** [Cyber Prophet](https://x.com/MOONVance) | **来源:** [Link](https://x.com/MOONVance/status/2058555858930311552) | **发布时间:** May 24, 2026
+
+---
+### 机器人跪拜光之灵
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个视频动画提示词，描绘了机器人跪拜在光之灵面前的场景，灵感来源于圣经主题。
+
+#### 📝 提示词
+
+```
+生成更多：机器人先是站立，随后跪拜在光之灵面前……有敬虔的外貌，却背了敬虔的实意，这等人你要躲开。——《提摩太后书》3:5
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d2b94d6cbe9d3ab7c3d3841c47c25b6c/thumbnails/thumbnail.jpg" width="600" alt="机器人跪拜光之灵">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5247)**
+
+**作者:** [Sas](https://x.com/SaSHeaven26) | **来源:** [Link](https://x.com/SaSHeaven26/status/2058515952812110217) | **发布时间:** May 24, 2026
+
+---
+### 繁荣的火星殖民地 Afela
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个极其详尽的提示词，用于生成未来派火星穹顶城市，包含 Cybertruck、Optimus 机器人和 Starship。
+
+#### 📝 提示词
+
+```
+一幅生动且超写实的画面，展现了位于巨大透明穹顶下繁荣的火星殖民地。火星风的呼啸声在行星尘土飞扬的褐色地表上回荡。在名为 Afela 的穹顶城市内，可以看到男男女女正在执行各种任务。充满未来感的小店点缀在色彩斑斓的钢铁道路旁。高耸入云的大楼在阳光的照射下熠熠生辉，宛如设计精美、充满艺术感的哨兵。各种颜色的 Tesla Cybertruck 在多条道路上穿梭。Tesla Optimus 机器人穿梭在人群中，执行着各种任务，无论是园艺、种植植被，还是仅仅陪伴孩子们玩耍。在穹顶城市外，有多个发射台，Starships 每天在此起降。整座城市在阳光下闪耀着璀璨的光芒。
+
+黄金时刻背光，缓慢推拉镜头，快速平移，镜头左移，大气景深，体积光，视差效果，发光效果，交叉淡入淡出，高分辨率，原生音频生成，--ar16:9，
+无对白，无文字。“ Star Trek ” 冒险
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60516030fda1a22544a41a3f10906249/thumbnails/thumbnail.jpg" width="600" alt="繁荣的火星殖民地 Afela">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5244)**
+
+**作者:** [Kim Maria](https://x.com/KimMari46054539) | **来源:** [Link](https://x.com/KimMari46054539/status/2058501592060448889) | **发布时间:** May 24, 2026
+
+---
+### 电影感宇宙推镜头
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于生成视频的提示词，旨在实现缓慢、细腻的电影感镜头推近效果，拍摄主体正凝视着宇宙。
+
+#### 📝 提示词
+
+```
+缓慢细腻的电影感镜头推近运动，主体正在凝视宇宙，充满灵感……
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06e6075a98a93995fa25d3c304646e15/thumbnails/thumbnail.jpg" width="600" alt="电影感宇宙推镜头">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5248)**
+
+**作者:** [XVegasBabe](https://x.com/XVegasbabes) | **来源:** [Link](https://x.com/XVegasbabes/status/2058449681529852336) | **发布时间:** May 24, 2026
+
+---
 ### 马力欧 Minecraft 大战
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +399,44 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5207)**
 
 **作者:** [Kamilla Mihalik](https://x.com/missMihalik) | **来源:** [Link](https://x.com/missMihalik/status/2058391725408715168) | **发布时间:** May 24, 2026
+
+---
+### 超级月亮与海面涟漪
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段宁静的视频生成提示词，展示了超级月亮悬于平静水面之上，微风拂过泛起阵阵涟漪。
+
+#### 📝 提示词
+
+```
+这是一段超级月亮悬于水面之上的视频，海面几乎静止不动，只有微风吹过水面激起的层层涟漪。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/36bc4ac327bbc4083fe56703ece1d5bb/thumbnails/thumbnail.jpg" width="600" alt="超级月亮与海面涟漪">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5245)**
+
+**作者:** [Nancy CL](https://x.com/NancyCL54) | **来源:** [Link](https://x.com/NancyCL54/status/2058382324979368180) | **发布时间:** May 24, 2026
+
+---
+### 超现实花朵小熊微距摄影
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一张高清微距摄影作品，展现了一只完全由粉色花朵组成的超现实小熊，置身于野花丛中。
+
+#### 📝 提示词
+
+```
+一张高清、静态的超现实场景微距摄影。画面主体是一只由密集的粉色花朵构成、面带温和微笑的小熊。前景为郁郁葱葱的绿草地，背景是成片的粉色小野花。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cbe7e75a285ed2f4520121fea38f78a9/thumbnails/thumbnail.jpg" width="600" alt="超现实花朵小熊微距摄影">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5241)**
+
+**作者:** [Edna Silveira](https://x.com/EdnaNina007) | **来源:** [Link](https://x.com/EdnaNina007/status/2058362817829318682) | **发布时间:** May 24, 2026
 
 ---
 ### 涂鸦街头艺术风格转换
@@ -1941,240 +2172,6 @@ Hi Grok，你能把这张图片画上皇冠，并在它的鼻孔和耳朵里插�
 **作者:** [Jose gutierrez](https://x.com/hoccegutierrez) | **来源:** [Link](https://x.com/hoccegutierrez/status/2056024739643064504) | **发布时间:** May 17, 2026
 
 ---
-### Praying Paws 电影感场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个充满灵性且细节丰富的视频提示词，主角为 Sir Crimson 和 Pearl，场景设定庄重而虔诚。
-
-#### 📝 提示词
-
-```
-Praying Paws🐾🐾🦴🦴 Sir Crimson 和 Pearl …… 赞美我们全能的上帝✝️🐛🦋🌳🎾
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/88b82430a7a7d568b09cb4f8191ca491/thumbnails/thumbnail.jpg" width="600" alt="Praying Paws 电影感场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4944)**
-
-**作者:** [@drops_roses](https://x.com/ChalkleyBr69401) | **来源:** [Link](https://x.com/ChalkleyBr69401/status/2056020933589041162) | **发布时间:** May 17, 2026
-
----
-### CyberSUV 停车场实拍
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个展示停车场场景中车辆的前视角视频或图像提示词。
-
-#### 📝 提示词
-
-```
-停车场中汽车的前视角
-CyberSUV 🚘Grok ✅ @grok Alex Patricio ✅ @alexpatricio204 和 Elon Musk ✅ X @elonmusk • 1秒 🇺🇸🚘🚀🚀🚀🚀🚀🌎🇵🇭🍀💯✅
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/19b78cd2a948a18200cfc20264938f25/thumbnails/thumbnail.jpg" width="600" alt="CyberSUV 停车场实拍">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4958)**
-
-**作者:** [Alex Patricio](https://x.com/alexpatricio204) | **来源:** [Link](https://x.com/alexpatricio204/status/2056004152812052548) | **发布时间:** May 17, 2026
-
----
-### Elon Musk 晚宴场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段关于 Elon Musk 在豪华晚宴大厅环境中的电影级全身镜头提示词。
-
-#### 📝 提示词
-
-```
-超写实电影级全身镜头，Elon Musk 自信地站在一个极尽奢华的复古晚宴大厅内，周围满是社会名流和模糊的宾客身影，他身着剪裁完美的黑色三件套西装，搭配白色丝绸衬衫，黑色修身领带...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4b2ad6df94c7b6fb2391ce92aa1b5943/thumbnails/thumbnail.jpg" width="600" alt="Elon Musk 晚宴场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4954)**
-
-**作者:** [Alex Patricio](https://x.com/alexpatricio204) | **来源:** [Link](https://x.com/alexpatricio204/status/2055999188807147591) | **发布时间:** May 17, 2026
-
----
-### Sahara Belly Dancers Soap Display
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个视频提示词，展示了两位肚皮舞者在撒哈拉沙漠帐篷中表演，并在石碑上展示香皂的场景。
-
-#### 📝 提示词
-
-```
-两位肚皮舞者在撒哈拉帐篷中跳舞，并在石碑上展示香皂
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bac3bec127d92542ab9bfe0da3a8c770/thumbnails/thumbnail.jpg" width="600" alt="Sahara Belly Dancers Soap Display">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4964)**
-
-**作者:** [Nordine Osmane](https://x.com/NordineOsmane) | **来源:** [Link](https://x.com/NordineOsmane/status/2055963475902439612) | **发布时间:** May 17, 2026
-
----
-### AI 合规 GRC 讲解视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份专业的动画视频提示词，旨在讲解 observeri GRC 如何通过 AI 合规性保障来解决供应链风险。
-
-#### 📝 提示词
-
-```
-制作一个动画视频，讲解 observeri GRC 如何通过提供 AI 合规性保障，帮助您解决供应链风险……
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6a2e3edcc5fcbf0196cd98322098efec/thumbnails/thumbnail.jpg" width="600" alt="AI 合规 GRC 讲解视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4945)**
-
-**作者:** [Sid Ali](https://x.com/sidnaqvi10) | **来源:** [Link](https://x.com/sidnaqvi10/status/2055956884134518802) | **发布时间:** May 17, 2026
-
----
-### 蜿蜒森林河流景观
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段自然景观视频提示词，展示了一条蜿蜒穿过茂密森林的河流，阳光透过树木洒下。
-
-#### 📝 提示词
-
-```
-茂密森林中蜿蜒的河流，阳光透过树木洒下，呈现出自然景观。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/04754432ae0601b1d8a0eb50210bb6ab/thumbnails/thumbnail.jpg" width="600" alt="蜿蜒森林河流景观">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4951)**
-
-**作者:** [Kiri](https://x.com/Kyrannio) | **来源:** [Link](https://x.com/Kyrannio/status/2055956550620180770) | **发布时间:** May 17, 2026
-
----
-### 未来感动漫星辰能量
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段动漫风格的动画，描绘了一位蓝发少女在宇宙背景下操控发光星辰能量符号的场景。
-
-#### 📝 提示词
-
-```
-高度细腻的动漫风格插画，完美还原 Elon Musk 在 Grok Imagine 演示帖中的效果。左上角带有简洁的白色未来感文字“Grok Imagine”，与 Elon Musk 的原帖一致。美丽的少女留着齐肩浅蓝色头发，拥有发光的蓝色双眼，身穿光泽感白色短款连帽夹克，上面饰有青色星形徽章，搭配深蓝色格子百褶短裙、黑色长袜和厚底白色靴子。动态站姿，一只手举起操控着明亮的青色发光星辰能量符号和旋转光环，另一只手叉腰。背景为深邃的宇宙虚空，点缀着闪烁的粒子和发光轨迹，呈现出戏剧性的电影级光影效果、轮廓光、体积光和镜头光晕。超精细，杰作，8k --ar 9:16 --stylize 750
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/632de9d3c8d4142ef34959a5622222ff/thumbnails/thumbnail.jpg" width="600" alt="未来感动漫星辰能量">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4949)**
-
-**作者:** [Grok Prompts](https://x.com/MinerXpert_) | **来源:** [Link](https://x.com/MinerXpert_/status/2055944641548112201) | **发布时间:** May 17, 2026
-
----
-### POV 办公室咖啡交接场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个第一人称视角的提示词，画面中一只手递给女孩一杯咖啡，使她从疲惫转变为愉悦，背景设定在办公室。
-
-#### 📝 提示词
-
-```
-POV 视角，一只手进入画面递给女孩一杯外带咖啡。女孩起初看起来很疲惫，接过咖啡后开心地说：“谢谢！回去工作了。”随后她走出画面，向办公室的另一侧走去。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/33532dcc8b391dafa2e2e2e5a534fc3a/thumbnails/thumbnail.jpg" width="600" alt="POV 办公室咖啡交接场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4943)**
-
-**作者:** [Mario Gambó](https://x.com/JuanPerez7hxe) | **来源:** [Link](https://x.com/JuanPerez7hxe/status/2055933917312733252) | **发布时间:** May 17, 2026
-
----
-### 雪谷骑马
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段电影质感的视频序列，展示了一名女子骑马穿过白雪皑皑的红岩峡谷，并与马群一同奔跑的场景。
-
-#### 📝 提示词
-
-```
-在白雪皑皑的红岩峡谷中，一场唯美的电影级视觉盛宴，伴随着轻柔的降雪。一位美丽的拉丁裔女子，留着一头飘逸的乌黑长发，发间别着一根白色羽毛，身穿一件细节精致、带有绿松石珠饰的棕色麂皮流苏裙（美洲原住民风格），脚蹬棕色靴子，佩戴着传统配饰，优雅地伫立在雪地中。
-她缓缓转过头，一匹鬃毛乌黑、神态威严的棕色骏马从右侧向她走来。她轻轻伸出手，动作流畅地翻身上马，随即策马而去。镜头进行动态捕捉——从侧面中景开始，随着她上马的动作环绕拍摄，最后从后方跟拍，展现她与一大群马匹向远方疾驰而去的壮观景象。
-她的长发和裙摆上的流苏在风中剧烈飘动，雪花在他们周围飞舞。整个场景充满史诗感、情感张力和电影能量——她自信地骑马穿过雪谷，与马群一同在巍峨的红岩悬崖间奔腾，扬起阵阵雪花。
-风格：超写实、照片级真实感、超高细节、电影级布光、体积光（God rays）、变形镜头、细腻的胶片颗粒感、冷色调调色，同时保留温暖的肤色和皮革质感，大师级作品，8K 分辨率。
-摄像机运动：平滑的电影级跟拍 + 环绕拍摄 + 跟随镜头，从平视角度开始，以从后方跟拍的强力低角度镜头结束，展现她骑马融入马群的画面。
-时长：6 秒，24fps，高运动连贯性，逼真的马匹动作和织物物理效果。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b9fe00964580fc9c2874a97176195ddc/thumbnails/thumbnail.jpg" width="600" alt="雪谷骑马">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4950)**
-
-**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **来源:** [Link](https://x.com/ThoughCreator/status/2055910410352509259) | **发布时间:** May 17, 2026
-
----
-### Grok Girl 动漫角色
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一个用于生成名为 Grok-chan 的动漫女孩角色的详细提示词，她身穿白色连衣裙和迷你裙。
-
-#### 📝 提示词
-
-```
-Grok girl，动漫风格，日本动漫女孩，"Grok-chan" "Gurokku-chan" ❤️❤️❤️❤️❤️ ꉂ🤣𐤔𐤔🤣 可爱 💕👫💕 可爱女孩，身穿白色连衣裙，超短迷你裙，
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fd3d6e0446cfa1d8ecd130fcef6c3a71/thumbnails/thumbnail.jpg" width="600" alt="Grok Girl 动漫角色">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4963)**
-
-**作者:** [トビオ](https://x.com/AKIRA81389207) | **来源:** [Link](https://x.com/AKIRA81389207/status/2055905763055604124) | **发布时间:** May 17, 2026
-
----
-### 果冻摔跤角色复制
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个复杂的图生视频提示词，可将角色转化为果冻质感，并生成佩戴恋物面具的摔跤分身。
-
-#### 📝 提示词
-
-```
-合并图像。红色部分变为果冻质感，角色被复制并与自己进行果冻摔跤。两个角色都戴着恋物面具。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/317425ce37088a234b56ee8ae8d97037/thumbnails/thumbnail.jpg" width="600" alt="果冻摔跤角色复制">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4942)**
-
-**作者:** [FUNTIFFX](https://x.com/AbstractTiffany) | **来源:** [Link](https://x.com/AbstractTiffany/status/2055890709765591521) | **发布时间:** May 17, 2026
-
----
-### Elon Musk 火星风暴
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段电影质感的视频提示词：Elon Musk 在火星沙尘暴中俯瞰日落时分的工业城市。
-
-#### 📝 提示词
-
-```
-超写实电影质感特写：Elon Musk 独自站在火星一座庞大工业城市上方的高耸金属观景平台上，背景是猛烈的日落沙尘暴，人物比例真实，面部细节自然，微妙的...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8953e8e35d0c8655fdbcae1a0a8709e3/thumbnails/thumbnail.jpg" width="600" alt="Elon Musk 火星风暴">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4955)**
-
-**作者:** [Alex Patricio](https://x.com/alexpatricio204) | **来源:** [Link](https://x.com/alexpatricio204/status/2055870235161362480) | **发布时间:** May 17, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2236,6 +2233,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-05-25T04:31:24.027Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-05-25T12:06:44.297Z</sub>
 
 </div>

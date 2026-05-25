@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1638** |
+| 📝 Total Prompts | **1650** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-25** |
 
@@ -189,6 +189,199 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Humorvoller Praktikanten-Alltag bei XAI
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein narratives Video-Prompt, das die humorvollen Schwierigkeiten einer Praktikantin beim Erlernen technischer Tools bei XAI darstellt.
+
+#### 📝 Prompt
+
+```
+Ein humorvolles Video über Avas Tag als Praktikantin bei XAI, an dem sie lernen soll, wie man Grok Build benutzt, aber da sie keine Entwicklerin ist, hat sie wirklich schwer zu kämpfen.
+```
+
+<img src="https://cms-assets.youmind.com/media/1779699438116_9ld7ua_HJI_VekWMAAgNnG.jpg" width="600" alt="Humorvoller Praktikanten-Alltag bei XAI">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5249)**
+
+**Author:** [X Girls](https://x.com/thesoragirls) | **Source:** [Link](https://x.com/thesoragirls/status/2058779417602584671) | **Published:** May 25, 2026
+
+---
+### TMNT Pizza-Fang-Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein unterhaltsamer Video-Prompt, in dem eine Ninja Turtle über Pizza spricht und anschließend eine fliegende Pizza fängt.
+
+#### 📝 Prompt
+
+```
+Erstelle ein Video mit einer Teenage Mutant Ninja Turtle, die sagt: „Mist, Mann, keine Pizza mehr, lass uns eine im Cowabunga-Style besorgen“. Danach soll eine Pizza angeflogen kommen, die die Turtle dann fängt.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7d6f4ff631de330bb66d6001cb5ba063/thumbnails/thumbnail.jpg" width="600" alt="TMNT Pizza-Fang-Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5243)**
+
+**Author:** [THE_BIOMEX (Tony Baeza)](https://x.com/THE_BIOMEX) | **Source:** [Link](https://x.com/THE_BIOMEX/status/2058674938236576251) | **Published:** May 24, 2026
+
+---
+### Studio-Fotomodell beim Wiegen
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Charakter-Prompt für eine Frau in einem violetten Rock, die sich in einer neutralen Studio-Umgebung dezent wiegt.
+
+#### 📝 Prompt
+
+```
+Die Frau mit langem dunklen Haar steht selbstbewusst in einem neutralen Studio vor der Kamera und trägt ein schwarzes bauchfreies Oberteil sowie einen glänzenden violetten Rock. Sie wiegt ihren Körper dezent, dreht ihren Kopf sanft von einer Seite zur anderen, hält direkten Blickkontakt und atmet natürlich.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/20e617cfc5ae901d4a74ab8280dacc17/thumbnails/thumbnail.jpg" width="600" alt="Studio-Fotomodell beim Wiegen">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5242)**
+
+**Author:** [Liora](https://x.com/Liora__xo) | **Source:** [Link](https://x.com/Liora__xo/status/2058673523984421036) | **Published:** May 24, 2026
+
+---
+### Nightclub Trance Slow-Motion-Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Eine filmische Zeitlupensequenz, die einen Mann in einem vollen Nachtclub zeigt, der sich in einem tiefen Trance-Beat verliert, mit erhobenen Armen und geschlossenen Augen.
+
+#### 📝 Prompt
+
+```
+Ein filmisches Zeitlupenvideo in einem vollen Nachtclub. Die Kamera zeigt eine mittlere Nahaufnahme des Mannes. Er hebt langsam beide Arme über den Kopf, wiegt sich zu einem tiefen Trance-Beat, das Gesicht nach oben gerichtet, völlig der Musik hingegeben.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3b8c3b98647022dd16f8101e35868e32/thumbnails/thumbnail.jpg" width="600" alt="Nightclub Trance Slow-Motion-Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5239)**
+
+**Author:** [Katherine Martin](https://x.com/KatherineM40071) | **Source:** [Link](https://x.com/KatherineM40071/status/2058651866909585535) | **Published:** May 24, 2026
+
+---
+### Identitätsfixiertes Image-to-Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Eine technische Anleitung für Grok Imagine, um die absolute Gesichtsidentität beizubehalten und Morphing bei der Videogenerierung aus einem Referenzbild zu verhindern.
+
+#### 📝 Prompt
+
+```
+Image-to-Video: Verwenden Sie das Referenzbild als primären Identitäts-Frame. Fixieren Sie die Gesichtsidentität über die gesamte Sequenz mit absoluter Priorität. Gesichtsidentität hat Vorrang vor Bewegung. Kein Morphing, kein Face-Drift, keinerlei Neuinterpretation.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d345d7b12220a2a1ebd4f166c9340089/thumbnails/thumbnail.jpg" width="600" alt="Identitätsfixiertes Image-to-Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5240)**
+
+**Author:** [Juan Torrez](https://x.com/jcwarcry1) | **Source:** [Link](https://x.com/jcwarcry1/status/2058639654530715699) | **Published:** May 24, 2026
+
+---
+### Cinematischer Spaziergang im Garten zur Goldenen Stunde
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochwertiger, kinoreifer Prompt für eine Frau, die während der Goldenen Stunde durch einen sonnendurchfluteten Blumengarten spaziert, mit realistischen Texturen.
+
+#### 📝 Prompt
+
+```
+Ultra-realistisches kinoreifes Video, 30 fps, fotorealistisches 8K. Eine wunderschöne junge Frau Mitte 20 mit langem, welligem dunklem Haar, bekleidet mit einem leichten weißen Sommerkleid und einem Strohhut, geht barfuß in einen üppigen, sonnendurchfluteten Hausgarten während der Goldenen Stunde. Sanftes, warmes Sonnenlicht fällt durch die Blätter und erzeugt ein natürliches Bokeh. Sie lächelt sanft, während sie sich einem lebendigen Blumenbeet voller Rosen, Gänseblümchen und Lavendel nähert. Eine flüssige Kamerafahrt folgt ihr aus mittlerer Distanz. Ein natürlicher, sanfter Wind bewegt ihr Haar und ihr Kleid. Hochdetaillierte Hauttextur, realistische Stoffbewegung und eine authentische Gartenumgebung mit Tautropfen auf den Blättern. Perfekte Kontinuität bei Beleuchtung und Erscheinungsbild der Figur.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/62a5e3340fd6a96cd4aa79db0b754cbf/thumbnails/thumbnail.jpg" width="600" alt="Cinematischer Spaziergang im Garten zur Goldenen Stunde">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5250)**
+
+**Author:** [Shivam](https://x.com/QuantumPitstop) | **Source:** [Link](https://x.com/QuantumPitstop/status/2058600445799747703) | **Published:** May 24, 2026
+
+---
+### Cyber-Prophet-Meditation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Generierungs-Prompt für einen Cyber-Propheten, der während der Meditation Schwingungen aussendet.
+
+#### 📝 Prompt
+
+```
+Zeige mir den Cyber-Propheten bei der Meditation, wie er eine 6-Hz-Schwingung aus seinem gesamten Körper aussendet. Manifestation ❤️🕺
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/74696e95cf542ccab3a2fed8bb2b8e8e/thumbnails/thumbnail.jpg" width="600" alt="Cyber-Prophet-Meditation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5246)**
+
+**Author:** [Cyber Prophet](https://x.com/MOONVance) | **Source:** [Link](https://x.com/MOONVance/status/2058555858930311552) | **Published:** May 24, 2026
+
+---
+### Roboter kniet vor Lichtgestalt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Animations-Prompt, der einen Roboter zeigt, der vor einer Lichtgestalt kniet, inspiriert von biblischen Themen.
+
+#### 📝 Prompt
+
+```
+Generiere mehr: Bearbeite den Roboter so, dass er erst steht und dann vor einer Lichtgestalt niederkniet... Sie haben den Schein von Frömmigkeit, aber deren Kraft verleugnen sie; von solchen wende dich ab. 2. Timotheus 3,5
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d2b94d6cbe9d3ab7c3d3841c47c25b6c/thumbnails/thumbnail.jpg" width="600" alt="Roboter kniet vor Lichtgestalt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5247)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2058515952812110217) | **Published:** May 24, 2026
+
+---
+### Die florierende Marskolonie Afela
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein unglaublich detaillierter Prompt für eine futuristische Marsstadt unter einer Kuppel mit Cybertrucks, Optimus-Robotern und Starships.
+
+#### 📝 Prompt
+
+```
+Ein lebendiges, ultrarealistisches Bild einer florierenden Marskolonie unter einer gigantischen, kristallklaren Kuppel. Das Geräusch des Marswindes hallt über das staubige, braune Gelände des Planeten. Innerhalb der Kuppelstadt namens Afela sind Männer und Frauen bei der Erledigung verschiedenster Aufgaben zu sehen. Futuristische kleine Läden säumen die farbenfrohen Straßen aus Stahl. Große Hochhäuser, die in der Hitze der Sonne glänzen, ragen wie künstlerische Wächter in Design und Schönheit hervor. Tesla Cybertrucks in verschiedenen Farben fahren durch die zahlreichen Straßen. Tesla Optimus-Roboter gehen unter den Menschen umher und führen verschiedene Aufgaben aus, sei es bei der Gartenarbeit, beim Anbau von Pflanzen oder einfach beim Spielen mit einer Gruppe von Kindern. Außerhalb der Kuppelstadt befinden sich verschiedene Startrampen, auf denen täglich Starships landen und abheben. Die Stadt erstrahlt brillant im Licht der Sonne.
+
+Golden Hour Gegenlicht, langsamer Dolly-In, Whip-Pan-Bewegungen, Kamera schwenkt nach links, atmosphärische Schärfentiefe, volumetrische Beleuchtung, Parallaxeneffekt, Glüheffekt, Überblendung, hohe Auflösung, native Audiogenerierung, --ar16:9,
+Kein Dialog, kein Text. „Star Trek“-Abenteuer
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60516030fda1a22544a41a3f10906249/thumbnails/thumbnail.jpg" width="600" alt="Die florierende Marskolonie Afela">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5244)**
+
+**Author:** [Kim Maria](https://x.com/KimMari46054539) | **Source:** [Link](https://x.com/KimMari46054539/status/2058501592060448889) | **Published:** May 24, 2026
+
+---
+### Kinematischer Kosmos-Zoom
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Videogenerierungs-Prompt für einen langsamen, subtilen kinematischen Kamera-Zoom auf ein Subjekt, das den Kosmos betrachtet.
+
+#### 📝 Prompt
+
+```
+Langsamer, subtiler kinematischer Kamera-Zoom, das Subjekt betrachtet den Kosmos. Inspirierend...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06e6075a98a93995fa25d3c304646e15/thumbnails/thumbnail.jpg" width="600" alt="Kinematischer Kosmos-Zoom">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5248)**
+
+**Author:** [XVegasBabe](https://x.com/XVegasbabes) | **Source:** [Link](https://x.com/XVegasbabes/status/2058449681529852336) | **Published:** May 24, 2026
+
+---
 ### Mario Minecraft Battle
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +399,44 @@ Mario Minecraft verwandelt sich in Minecraft und kämpft dann gegen Creeper, Zom
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5207)**
 
 **Author:** [Kamilla Mihalik](https://x.com/missMihalik) | **Source:** [Link](https://x.com/missMihalik/status/2058391725408715168) | **Published:** May 24, 2026
+
+---
+### Supermond und sanfte Wellen
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein ruhiger Video-Generierungs-Prompt, der einen Supermond über stillem Wasser mit leichten Windwellen zeigt.
+
+#### 📝 Prompt
+
+```
+Dies ist ein Video eines Supermonds, der knapp über dem Wasser steht. Der Ozean ist praktisch still, abgesehen von den Wellen, die durch den über das Wasser wehenden Wind entstehen.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/36bc4ac327bbc4083fe56703ece1d5bb/thumbnails/thumbnail.jpg" width="600" alt="Supermond und sanfte Wellen">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5245)**
+
+**Author:** [Nancy CL](https://x.com/NancyCL54) | **Source:** [Link](https://x.com/NancyCL54/status/2058382324979368180) | **Published:** May 24, 2026
+
+---
+### Surreale Blumenbär-Makroaufnahme
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Eine hochauflösende Makroaufnahme eines surrealen Bären, der vollständig aus rosa Blumen auf einer Wildblumenwiese besteht.
+
+#### 📝 Prompt
+
+```
+Eine hochauflösende, statische Makroaufnahme der surrealen Szene. Die zentrale Figur, ein Bär, der vollständig aus dicht gedrängten rosa Blumen besteht und ein sanftes Lächeln trägt, bleibt das Hauptmotiv. Der üppig grüne Grasvordergrund und das Feld mit kleinen rosa Wildblumen
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cbe7e75a285ed2f4520121fea38f78a9/thumbnails/thumbnail.jpg" width="600" alt="Surreale Blumenbär-Makroaufnahme">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5241)**
+
+**Author:** [Edna Silveira](https://x.com/EdnaNina007) | **Source:** [Link](https://x.com/EdnaNina007/status/2058362817829318682) | **Published:** May 24, 2026
 
 ---
 ### Transformation in Graffiti-Street-Art
@@ -1941,240 +2172,6 @@ GENERIERE EINE BILDTRANSFORMATION ZU EINEM starken Tiger mit einer wunderschöne
 **Author:** [Jose gutierrez](https://x.com/hoccegutierrez) | **Source:** [Link](https://x.com/hoccegutierrez/status/2056024739643064504) | **Published:** May 17, 2026
 
 ---
-### Die filmische Szene der betenden Pfoten
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein spiritueller und detailreicher Video-Prompt mit den Charakteren Sir Crimson und Pearl in einer ehrfürchtigen Umgebung.
-
-#### 📝 Prompt
-
-```
-Die betenden Pfoten🐾🐾🦴🦴 Sir Crimson und Pearl … Halleluja unserem allmächtigen Gott✝️🐛🦋🌳🎾
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/88b82430a7a7d568b09cb4f8191ca491/thumbnails/thumbnail.jpg" width="600" alt="Die filmische Szene der betenden Pfoten">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4944)**
-
-**Author:** [@drops_roses](https://x.com/ChalkleyBr69401) | **Source:** [Link](https://x.com/ChalkleyBr69401/status/2056020933589041162) | **Published:** May 17, 2026
-
----
-### CyberSUV auf dem Parkplatz
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video- oder Bild-Prompt aus der Frontalperspektive, der ein Fahrzeug auf einem Parkplatz zeigt.
-
-#### 📝 Prompt
-
-```
-Frontalansicht eines Autos auf einem Parkplatz
-CyberSUV 🚘Grok ✅ @grok Alex Patricio ✅ @alexpatricio204 und Elon Musk ✅ X @elonmusk • 1s 🇺🇸🚘🚀🚀🚀🚀🚀🌎🇵🇭🍀💯✅
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/19b78cd2a948a18200cfc20264938f25/thumbnails/thumbnail.jpg" width="600" alt="CyberSUV auf dem Parkplatz">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4958)**
-
-**Author:** [Alex Patricio](https://x.com/alexpatricio204) | **Source:** [Link](https://x.com/alexpatricio204/status/2056004152812052548) | **Published:** May 17, 2026
-
----
-### Elon Musk Gala-Szene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein filmischer Ganzkörper-Prompt von Elon Musk in einer luxuriösen Gala-Umgebung.
-
-#### 📝 Prompt
-
-```
-Ultrarealistische filmische Ganzkörperaufnahme von Elon Musk, der selbstbewusst in einem ultra-luxuriösen, historischen Festsaal steht, gefüllt mit wohlhabenden Eliten und verschwommenen Gästen, bekleidet mit einem perfekt maßgeschneiderten schwarzen dreiteiligen Anzug, weißem Seidenhemd, schmaler schwarzer Kraw...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4b2ad6df94c7b6fb2391ce92aa1b5943/thumbnails/thumbnail.jpg" width="600" alt="Elon Musk Gala-Szene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4954)**
-
-**Author:** [Alex Patricio](https://x.com/alexpatricio204) | **Source:** [Link](https://x.com/alexpatricio204/status/2055999188807147591) | **Published:** May 17, 2026
-
----
-### Sahara-Bauchtänzerinnen Seifenpräsentation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Prompt, der zwei Bauchtänzerinnen in einem Zelt in der Sahara zeigt, die tanzen und Seife auf einer Stele präsentieren.
-
-#### 📝 Prompt
-
-```
-Zwei Bauchtänzerinnen in einem Sahara-Zelt, die tanzen und Seife auf einer Stele präsentieren
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bac3bec127d92542ab9bfe0da3a8c770/thumbnails/thumbnail.jpg" width="600" alt="Sahara-Bauchtänzerinnen Seifenpräsentation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4964)**
-
-**Author:** [Nordine Osmane](https://x.com/NordineOsmane) | **Source:** [Link](https://x.com/NordineOsmane/status/2055963475902439612) | **Published:** May 17, 2026
-
----
-### Erklärvideo zu AI Compliance GRC
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein professioneller Prompt für ein animiertes Video, das erklärt, wie observeri GRC Lieferkettenrisiken durch AI-Compliance-Sicherung behebt.
-
-#### 📝 Prompt
-
-```
-Erstelle ein animiertes Video darüber, wie observeri GRC dir dabei hilft, Lieferkettenrisiken durch die Bereitstellung von AI-Compliance-Sicherung zu beheben....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6a2e3edcc5fcbf0196cd98322098efec/thumbnails/thumbnail.jpg" width="600" alt="Erklärvideo zu AI Compliance GRC">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4945)**
-
-**Author:** [Sid Ali](https://x.com/sidnaqvi10) | **Source:** [Link](https://x.com/sidnaqvi10/status/2055956884134518802) | **Published:** May 17, 2026
-
----
-### Landschaft mit sich schlängelndem Waldfluss
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Prompt für eine Naturlandschaft, der einen Fluss zeigt, der sich durch einen dichten Wald schlängelt, während Sonnenlicht durch die Bäume fällt.
-
-#### 📝 Prompt
-
-```
-Ein sich schlängelnder Fluss in einem dichten Wald, bei dem Sonnenlicht durch die Bäume fällt, in einer natürlichen Landschaft.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/04754432ae0601b1d8a0eb50210bb6ab/thumbnails/thumbnail.jpg" width="600" alt="Landschaft mit sich schlängelndem Waldfluss">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4951)**
-
-**Author:** [Kiri](https://x.com/Kyrannio) | **Source:** [Link](https://x.com/Kyrannio/status/2055956550620180770) | **Published:** May 17, 2026
-
----
-### Futuristische Anime-Sternenenergie
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eine Animation im Anime-Stil von einem Mädchen mit blauem Haar, das leuchtende Sternenenergiesymbole vor einem kosmischen Hintergrund manipuliert.
-
-#### 📝 Prompt
-
-```
-Hochdetaillierte Illustration im Anime-Stil, die exakt dem „Grok Imagine“-Demo-Post von Elon Musk entspricht. In der oberen linken Ecke befindet sich ein sauberer, weißer, futuristischer Texteinblendung „Grok Imagine“, wie im Original-Post von Elon Musk. Wunderschönes Mädchen mit schulterlangem, hellblauem Haar und leuchtend blauen Augen, glänzender, weißer, bauchfreier Kapuzenjacke mit cyanfarbenen Sternenemblemen, kurzem, dunkelblauem Faltenrock mit Karomuster, schwarzen Socken und klobigen weißen Plateaustiefeln. Dynamische Standpose: Eine Hand ist erhoben und manipuliert hell leuchtende, cyanfarbene Sternenenergiesymbole und wirbelnde Ringe, die andere Hand liegt auf der Hüfte. Dunkler kosmischer Hintergrund, funkelnde Partikel, leuchtende Spuren, dramatische filmische Beleuchtung, Rim-Lights, volumetrische Glüheffekte, Lens Flares. Hochdetailliert, Meisterwerk, 8k --ar 9:16 --stylize 750
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/632de9d3c8d4142ef34959a5622222ff/thumbnails/thumbnail.jpg" width="600" alt="Futuristische Anime-Sternenenergie">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4949)**
-
-**Author:** [Grok Prompts](https://x.com/MinerXpert_) | **Source:** [Link](https://x.com/MinerXpert_/status/2055944641548112201) | **Published:** May 17, 2026
-
----
-### POV-Büroszene: Kaffeeübergabe
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein First-Person-Perspektiven-Prompt, bei dem eine Hand einem Mädchen Kaffee reicht und sie in einer Büroumgebung von müde zu glücklich verwandelt.
-
-#### 📝 Prompt
-
-```
-POV: Eine Hand kommt ins Bild und reicht dem Mädchen einen Kaffee zum Mitnehmen. Das Mädchen tritt müde wirkend aus dem Bild, nimmt den Kaffee entgegen und sagt glücklich: „Danke! Zurück an die Arbeit.“ Sie verlässt den Bildausschnitt und geht nach rechts in einen anderen Bereich des Büros.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/33532dcc8b391dafa2e2e2e5a534fc3a/thumbnails/thumbnail.jpg" width="600" alt="POV-Büroszene: Kaffeeübergabe">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4943)**
-
-**Author:** [Mario Gambó](https://x.com/JuanPerez7hxe) | **Source:** [Link](https://x.com/JuanPerez7hxe/status/2055933917312733252) | **Published:** May 17, 2026
-
----
-### Reiten im verschneiten Canyon
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eine filmische Sequenz, in der eine Frau auf ein Pferd steigt und mit einer Herde durch einen verschneiten Canyon aus rotem Gestein reitet.
-
-#### 📝 Prompt
-
-```
-Eine atemberaubende filmische Sequenz in einem dramatischen, verschneiten Canyon aus rotem Gestein während eines sanften Schneefalls. Eine wunderschöne Latina mit langem, fließendem, tiefschwarzem Haar und einer einzelnen weißen Feder, bekleidet mit einem detaillierten, von amerikanischen Ureinwohnern inspirierten Kleid aus braunem Wildleder mit Fransen und Türkisperlenstickerei, braunen Stiefeln und traditionellen Accessoires, steht anmutig im Schnee.
-Sie dreht langsam den Kopf, dann nähert sich ihr von rechts ein majestätisches braunes Pferd mit schwarzer Mähne. Sie streckt sanft die Hand aus, schwingt sich in einer fließenden Bewegung auf das Pferd und reitet davon. Die Kamera folgt dynamisch – beginnend mit einer seitlichen Halbtotalen, dann kreisend, während sie aufsteigt, und schließlich von hinten verfolgend, während sie kraftvoll mit einer großen Pferdeherde in die Ferne galoppiert.
-Ihr langes Haar und die Fransen des Kleides wehen dramatisch im Wind. Schneepartikel wirbeln um sie herum. Die gesamte Szene wirkt episch, emotional und filmisch – sie reitet selbstbewusst durch den verschneiten Canyon mit der Herde und wirbelt Schnee auf, während sie tiefer in das Tal zwischen den hoch aufragenden roten Klippen vordringen.
-Stil: Hyperrealistisch, fotorealistisch, ultra-detailliert, filmische Beleuchtung, volumetrische Lichtstrahlen, anamorphotisches Objektiv, dezentes Filmkorn, kühle Farbkorrektur mit warmen Haut- und Ledertönen, Meisterwerk, 8K.
-Kamerabewegung: Sanfte filmische Verfolgung + Orbit-Aufnahme + Follow-Shot, beginnend auf Augenhöhe, endend mit einer kraftvollen Low-Angle-Verfolgung von hinten, während sie in die Herde reitet.
-Dauer: 6 Sekunden, 24 fps, hohe Bewegungskohärenz, realistische Pferdebewegung und Stoffphysik.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b9fe00964580fc9c2874a97176195ddc/thumbnails/thumbnail.jpg" width="600" alt="Reiten im verschneiten Canyon">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4950)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2055910410352509259) | **Published:** May 17, 2026
-
----
-### Grok Girl Anime-Charakter
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein detaillierter Prompt zur Generierung eines Anime-Mädchen-Charakters namens Grok-chan, das ein weißes Kleid und einen Minirock trägt.
-
-#### 📝 Prompt
-
-```
-Grok-Mädchen, Anime-Stil, japanisches Anime-Mädchen, „Grok-chan“ „Gurokku-chan“ ❤️❤️❤️❤️❤️ ꉂ🤣𐤔𐤔🤣 süß 💕👫💕 süßes Mädchen, in einem weißen Kleid, sehr kurzer Minirock,
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fd3d6e0446cfa1d8ecd130fcef6c3a71/thumbnails/thumbnail.jpg" width="600" alt="Grok Girl Anime-Charakter">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4963)**
-
-**Author:** [トビオ](https://x.com/AKIRA81389207) | **Source:** [Link](https://x.com/AKIRA81389207/status/2055905763055604124) | **Published:** May 17, 2026
-
----
-### Götterspeise-Wrestling: Charakter-Duplizierung
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein komplexer Image-to-Video-Prompt, der einen Charakter in Götterspeise verwandelt und ein Wrestling-Duplikat mit Kink-Masken erstellt.
-
-#### 📝 Prompt
-
-```
-Kombiniere Bilder. Rot wird zu Götterspeise, der Charakter dupliziert sich und ringt als Götterspeise-Wrestler mit sich selbst. Beide Charaktere tragen eine Kink-Maske.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/317425ce37088a234b56ee8ae8d97037/thumbnails/thumbnail.jpg" width="600" alt="Götterspeise-Wrestling: Charakter-Duplizierung">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4942)**
-
-**Author:** [FUNTIFFX](https://x.com/AbstractTiffany) | **Source:** [Link](https://x.com/AbstractTiffany/status/2055890709765591521) | **Published:** May 17, 2026
-
----
-### Elon Musk Mars-Sturm
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein filmischer Video-Prompt von Elon Musk in einem Staubsturm auf dem Mars, mit Blick auf eine Industriestadt bei Sonnenuntergang.
-
-#### 📝 Prompt
-
-```
-Ultrarealistische filmische Nahaufnahme von Elon Musk, der allein auf einer hohen metallischen Aussichtsplattform über einer riesigen marsianischen Industriestadt während eines heftigen Staubsturms bei Sonnenuntergang steht, realistische menschliche Proportionen und natürliche Gesichtsunvollkommenheiten, subtil...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8953e8e35d0c8655fdbcae1a0a8709e3/thumbnails/thumbnail.jpg" width="600" alt="Elon Musk Mars-Sturm">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4955)**
-
-**Author:** [Alex Patricio](https://x.com/alexpatricio204) | **Source:** [Link](https://x.com/alexpatricio204/status/2055870235161362480) | **Published:** May 17, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2236,6 +2233,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-25T04:31:37.140Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-25T12:07:01.748Z</sub>
 
 </div>

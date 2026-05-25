@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1638** |
+| 📝 Total Prompts | **1650** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-25** |
 
@@ -189,6 +189,199 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### XAI में इंटर्न का मज़ेदार संघर्ष
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक नैरेटिव वीडियो प्रॉम्प्ट जो XAI में तकनीकी टूल्स सीखने के दौरान एक इंटर्न की मज़ेदार कठिनाइयों को दर्शाता है।
+
+#### 📝 Prompt
+
+```
+XAI में इंटर्न के रूप में Ava के दिन का एक मज़ेदार वीडियो, जहाँ उसे Grok Build का उपयोग करना सीखना है, लेकिन वह एक डेवलपर नहीं है और वह बहुत संघर्ष कर रही है।
+```
+
+<img src="https://cms-assets.youmind.com/media/1779699438116_9ld7ua_HJI_VekWMAAgNnG.jpg" width="600" alt="XAI में इंटर्न का मज़ेदार संघर्ष">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5249)**
+
+**Author:** [X Girls](https://x.com/thesoragirls) | **Source:** [Link](https://x.com/thesoragirls/status/2058779417602584671) | **Published:** May 25, 2026
+
+---
+### TMNT पिज़्ज़ा कैच वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक मज़ेदार वीडियो प्रॉम्प्ट जिसमें एक निंजा टर्टल पिज़्ज़ा के बारे में बात करता है और फिर एक उड़ते हुए पिज़्ज़ा को पकड़ता है।
+
+#### 📝 Prompt
+
+```
+एक टीनेज म्यूटेंट निंजा टर्टल्स (Teenage Mutant Ninja Turtles) का वीडियो बनाएं जिसमें वह कह रहा हो, "बमर ड्यूड, अब और पिज़्ज़ा नहीं बचा, चलो कावाबुंगा (Cowabunga) स्टाइल में कुछ करते हैं", फिर एक पिज़्ज़ा उड़कर आए और वह उसे पकड़ ले।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7d6f4ff631de330bb66d6001cb5ba063/thumbnails/thumbnail.jpg" width="600" alt="TMNT पिज़्ज़ा कैच वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5243)**
+
+**Author:** [THE_BIOMEX (Tony Baeza)](https://x.com/THE_BIOMEX) | **Source:** [Link](https://x.com/THE_BIOMEX/status/2058674938236576251) | **Published:** May 24, 2026
+
+---
+### स्टूडियो फैशन मॉडल का झूमना
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक न्यूट्रल स्टूडियो सेटिंग में बैंगनी स्कर्ट पहने एक महिला के हल्के से झूमने के लिए एक विस्तृत कैरेक्टर प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+लंबे काले बालों वाली महिला एक न्यूट्रल स्टूडियो में आत्मविश्वास के साथ कैमरे की ओर देख रही है, उसने काले रंग का क्रॉप टॉप और चमकदार बैंगनी स्कर्ट पहनी है। वह अपने शरीर को हल्के से झुलाती है, अपना सिर धीरे-धीरे एक तरफ से दूसरी तरफ घुमाती है, सीधे आंखों से संपर्क बनाए रखती है, और स्वाभाविक रूप से सांस लेती है।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/20e617cfc5ae901d4a74ab8280dacc17/thumbnails/thumbnail.jpg" width="600" alt="स्टूडियो फैशन मॉडल का झूमना">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5242)**
+
+**Author:** [Liora](https://x.com/Liora__xo) | **Source:** [Link](https://x.com/Liora__xo/status/2058673523984421036) | **Published:** May 24, 2026
+
+---
+### नाइटक्लब ट्रांस स्लो मोशन वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक खचाखच भरे नाइटक्लब में एक व्यक्ति का सिनेमाई स्लो-मोशन दृश्य, जो गहरी ट्रांस बीट में खोया हुआ है, हाथ ऊपर उठाए हुए और आँखें बंद किए हुए है।
+
+#### 📝 Prompt
+
+```
+एक खचाखच भरे नाइटक्लब का सिनेमाई स्लो-मोशन वीडियो। कैमरा उस व्यक्ति पर मीडियम क्लोज़-अप बनाए रखता है। वह धीरे-धीरे अपने दोनों हाथ सिर के ऊपर उठाता है, गहरी ट्रांस बीट पर झूमता है, चेहरा ऊपर की ओर झुका हुआ है, और पूरी तरह से संगीत में खोया हुआ है।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3b8c3b98647022dd16f8101e35868e32/thumbnails/thumbnail.jpg" width="600" alt="नाइटक्लब ट्रांस स्लो मोशन वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5239)**
+
+**Author:** [Katherine Martin](https://x.com/KatherineM40071) | **Source:** [Link](https://x.com/KatherineM40071/status/2058651866909585535) | **Published:** May 24, 2026
+
+---
+### Identity Locked Image to Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक तकनीकी निर्देश, ताकि वीडियो जनरेशन के दौरान संदर्भ छवि (reference image) से चेहरे की पहचान पूरी तरह बनी रहे और उसमें कोई बदलाव न आए।
+
+#### 📝 Prompt
+
+```
+Image-to-Video: संदर्भ छवि (reference image) को प्राथमिक पहचान फ्रेम के रूप में उपयोग करें। पूरी सीक्वेंस में चेहरे की पहचान को पूर्ण प्राथमिकता के साथ लॉक रखें। गति (motion) की तुलना में चेहरे की पहचान को प्राथमिकता दें। कोई मॉर्फिंग नहीं, चेहरे में कोई बदलाव नहीं, और किसी भी प्रकार की पुनर्व्याख्या (reinterpretation) नहीं होनी चाहिए।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d345d7b12220a2a1ebd4f166c9340089/thumbnails/thumbnail.jpg" width="600" alt="Identity Locked Image to Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5240)**
+
+**Author:** [Juan Torrez](https://x.com/jcwarcry1) | **Source:** [Link](https://x.com/jcwarcry1/status/2058639654530715699) | **Published:** May 24, 2026
+
+---
+### सिनेमैटिक गोल्डन आवर गार्डन वॉक
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> गोल्डन आवर के दौरान धूप से सजे फूलों के बगीचे में टहलती एक महिला के लिए यथार्थवादी बनावट वाला एक उच्च-गुणवत्ता वाला सिनेमैटिक प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+अल्ट्रा-रियलिस्टिक सिनेमैटिक वीडियो, 30fps, फोटो-रियलिस्टिक 8K। लंबी लहरदार काले बालों वाली 20 के दशक की एक सुंदर युवती, जिसने हल्के सफेद रंग की सनड्रेस और स्ट्रॉ हैट पहनी है, गोल्डन आवर के दौरान धूप से सजे एक हरे-भरे बगीचे में नंगे पैर चल रही है। पत्तियों से छनकर आती नरम गर्म धूप प्राकृतिक बोकेह (bokeh) प्रभाव पैदा कर रही है। वह धीरे से मुस्कुराती है जैसे ही वह गुलाब, डेज़ी और लैवेंडर से भरे फूलों की क्यारी के पास पहुँचती है। मध्यम दूरी से उसे फॉलो करता हुआ स्मूथ ट्रैकिंग शॉट। प्राकृतिक हल्की हवा उसके बालों और ड्रेस को हिला रही है। अत्यधिक विस्तृत त्वचा बनावट, यथार्थवादी कपड़े की हलचल, और पत्तियों पर ओस की बूंदों के साथ प्रामाणिक बगीचे का वातावरण। लाइटिंग और चरित्र की उपस्थिति में पूर्ण निरंतरता।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/62a5e3340fd6a96cd4aa79db0b754cbf/thumbnails/thumbnail.jpg" width="600" alt="सिनेमैटिक गोल्डन आवर गार्डन वॉक">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5250)**
+
+**Author:** [Shivam](https://x.com/QuantumPitstop) | **Source:** [Link](https://x.com/QuantumPitstop/status/2058600445799747703) | **Published:** May 24, 2026
+
+---
+### साइबर प्रॉफिट मेडिटेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ध्यान के दौरान कंपन उत्सर्जित करने वाले एक साइबर प्रॉफिट के लिए वीडियो जनरेशन प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+मुझे साइबर प्रॉफिट को ध्यान करते हुए और उसके पूरे शरीर से 6hz का कंपन उत्सर्जित होते हुए दिखाएं। मैनिफेस्टिंग ❤️🕺
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/74696e95cf542ccab3a2fed8bb2b8e8e/thumbnails/thumbnail.jpg" width="600" alt="साइबर प्रॉफिट मेडिटेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5246)**
+
+**Author:** [Cyber Prophet](https://x.com/MOONVance) | **Source:** [Link](https://x.com/MOONVance/status/2058555858930311552) | **Published:** May 24, 2026
+
+---
+### प्रकाश के सामने घुटने टेके हुए रोबोट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> बाइबिल के विषयों से प्रेरित, एक रोबोट को प्रकाश के स्वरूप के सामने घुटने टेकते हुए दिखाने वाला एक वीडियो एनीमेशन प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+और अधिक जनरेट करें, एडिट करें: रोबोट खड़ा है और फिर प्रकाश के स्वरूप के सामने घुटने टेक देता है.... उनमें भक्ति का रूप तो होगा, परन्तु वे उसकी शक्ति को नकार देंगे.. ऐसे लोगों से दूर रहो। 2 तीमुथियुस 3:5
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d2b94d6cbe9d3ab7c3d3841c47c25b6c/thumbnails/thumbnail.jpg" width="600" alt="प्रकाश के सामने घुटने टेके हुए रोबोट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5247)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2058515952812110217) | **Published:** May 24, 2026
+
+---
+### मंगल ग्रह की समृद्ध कॉलोनी Afela
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक गुंबद के नीचे भविष्यवादी मंगल ग्रह के शहर के लिए एक अविश्वसनीय रूप से विस्तृत प्रॉम्प्ट, जिसमें Cybertrucks, Optimus रोबोट और Starships शामिल हैं।
+
+#### 📝 Prompt
+
+```
+एक विशाल क्रिस्टल स्पष्ट गुंबद के नीचे स्थित मंगल ग्रह की एक समृद्ध कॉलोनी की जीवंत और अति-यथार्थवादी तस्वीर। मंगल ग्रह की हवा की गूँज ग्रह के धूल भरे भूरे रंग के इलाके में सुनी जा सकती है। Afela नामक इस गुंबद वाले शहर के अंदर, पुरुषों और महिलाओं को विभिन्न कार्य करते हुए देखा जा सकता है। भविष्यवादी छोटी दुकानें स्टील की सड़कों पर रंग-बिरंगी छटा बिखेर रही हैं। सूर्य की गर्मी से चमकती बड़ी ऊंची इमारतें अपनी बनावट और सुंदरता में कलात्मक प्रहरियों की तरह खड़ी हैं। विभिन्न रंगों की Tesla Cybertrucks कई सड़कों पर दौड़ रही हैं। Tesla Optimus रोबोट मनुष्यों के बीच घूम रहे हैं और बागवानी, वनस्पति उगाने या बस बच्चों के साथ खेलने जैसे विभिन्न कार्य कर रहे हैं। गुंबद वाले शहर के बाहर विभिन्न लॉन्च पैड हैं जहाँ Starships प्रतिदिन उतरते और उड़ान भरते हैं। शहर सूर्य के प्रकाश से शानदार ढंग से चमक रहा है।
+
+गोल्डन आवर बैकलाइट, स्लो डॉली-इन, व्हिप पैन मूवमेंट, कैमरा बाईं ओर घूमता है, एटमॉस्फेरिक डेप्थ ऑफ फील्ड, वॉल्यूमेट्रिक लाइटिंग, पैरालैक्स इफेक्ट, ग्लो इफेक्ट, क्रॉस फेड, हाई रेजोल्यूशन, नेटिव ऑडियो जनरेशन, --ar16:9,
+कोई संवाद नहीं, कोई टेक्स्ट नहीं। " Star Trek " एडवेंचर
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60516030fda1a22544a41a3f10906249/thumbnails/thumbnail.jpg" width="600" alt="मंगल ग्रह की समृद्ध कॉलोनी Afela">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5244)**
+
+**Author:** [Kim Maria](https://x.com/KimMari46054539) | **Source:** [Link](https://x.com/KimMari46054539/status/2058501592060448889) | **Published:** May 24, 2026
+
+---
+### सिनेमैटिक कॉसमॉस ज़ूम इन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ब्रह्मांड को निहारते हुए एक विषय की ओर धीरे-धीरे और सूक्ष्म सिनेमैटिक कैमरा ज़ूम के लिए एक वीडियो जनरेशन प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+धीमा और सूक्ष्म सिनेमैटिक कैमरा ज़ूम-इन मूवमेंट, विषय ब्रह्मांड को देख रहा है, प्रेरणादायक....
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06e6075a98a93995fa25d3c304646e15/thumbnails/thumbnail.jpg" width="600" alt="सिनेमैटिक कॉसमॉस ज़ूम इन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5248)**
+
+**Author:** [XVegasBabe](https://x.com/XVegasbabes) | **Source:** [Link](https://x.com/XVegasbabes/status/2058449681529852336) | **Published:** May 24, 2026
+
+---
 ### Mario Minecraft बैटल
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +399,44 @@ Mario Minecraft, Minecraft में बदल जाता है और फि
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5207)**
 
 **Author:** [Kamilla Mihalik](https://x.com/missMihalik) | **Source:** [Link](https://x.com/missMihalik/status/2058391725408715168) | **Published:** May 24, 2026
+
+---
+### सुपर मून ओशन रिपल्स
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक शांत वीडियो जनरेशन प्रॉम्प्ट जिसमें स्थिर पानी के ऊपर सुपर मून और हल्की हवा से उठती लहरें दिखाई गई हैं।
+
+#### 📝 Prompt
+
+```
+यह पानी के थोड़ा ऊपर सुपर मून का वीडियो है, समुद्र लगभग स्थिर है, सिवाय पानी पर बहती हवा के कारण उठने वाली हल्की लहरों के।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/36bc4ac327bbc4083fe56703ece1d5bb/thumbnails/thumbnail.jpg" width="600" alt="सुपर मून ओशन रिपल्स">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5245)**
+
+**Author:** [Nancy CL](https://x.com/NancyCL54) | **Source:** [Link](https://x.com/NancyCL54/status/2058382324979368180) | **Published:** May 24, 2026
+
+---
+### अतिवास्तविक फ्लावर बियर मैक्रो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> जंगली फूलों के खेत में पूरी तरह से गुलाबी फूलों से बने एक अतिवास्तविक भालू का हाई-डेफिनिशन मैक्रो शॉट।
+
+#### 📝 Prompt
+
+```
+इस अतिवास्तविक दृश्य का एक हाई-डेफिनिशन, स्थिर मैक्रो शॉट। मुख्य आकृति, जो पूरी तरह से घने गुलाबी फूलों से बना एक भालू है और जिसके चेहरे पर एक सौम्य मुस्कान है, मुख्य विषय बना हुआ है। सामने की ओर हरी-भरी घास और छोटे गुलाबी जंगली फूलों का खेत
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cbe7e75a285ed2f4520121fea38f78a9/thumbnails/thumbnail.jpg" width="600" alt="अतिवास्तविक फ्लावर बियर मैक्रो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5241)**
+
+**Author:** [Edna Silveira](https://x.com/EdnaNina007) | **Source:** [Link](https://x.com/EdnaNina007/status/2058362817829318682) | **Published:** May 24, 2026
 
 ---
 ### ग्राफिटी स्ट्रीट आर्ट ट्रांसफॉर्मेशन
@@ -1941,240 +2172,6 @@ STAGE: सिनेमैटिक
 **Author:** [Jose gutierrez](https://x.com/hoccegutierrez) | **Source:** [Link](https://x.com/hoccegutierrez/status/2056024739643064504) | **Published:** May 17, 2026
 
 ---
-### The Praying Paws सिनेमैटिक सीन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक आध्यात्मिक और विस्तृत वीडियो प्रॉम्प्ट, जिसमें Sir Crimson और Pearl नाम के पात्र एक श्रद्धापूर्ण माहौल में दिखाई देते हैं।
-
-#### 📝 Prompt
-
-```
-The Praying Paws🐾🐾🦴🦴 Sir Crimson और Pearl … हमारे सर्वशक्तिमान ईश्वर की जय हो✝️🐛🦋🌳🎾
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/88b82430a7a7d568b09cb4f8191ca491/thumbnails/thumbnail.jpg" width="600" alt="The Praying Paws सिनेमैटिक सीन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4944)**
-
-**Author:** [@drops_roses](https://x.com/ChalkleyBr69401) | **Source:** [Link](https://x.com/ChalkleyBr69401/status/2056020933589041162) | **Published:** May 17, 2026
-
----
-### CyberSUV पार्किंग लॉट शॉट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक पार्किंग लॉट सेटिंग में वाहन को दर्शाने वाला फ्रंट-एंगल वीडियो या इमेज प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-पार्किंग लॉट में कार का फ्रंट एंगल
-CyberSUV 🚘Grok ✅ @grok Alex Patricio ✅ @alexpatricio204 और Elon Musk ✅ X @elonmusk • 1s 🇺🇸🚘🚀🚀🚀🚀🚀🌎🇵🇭🍀💯✅
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/19b78cd2a948a18200cfc20264938f25/thumbnails/thumbnail.jpg" width="600" alt="CyberSUV पार्किंग लॉट शॉट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4958)**
-
-**Author:** [Alex Patricio](https://x.com/alexpatricio204) | **Source:** [Link](https://x.com/alexpatricio204/status/2056004152812052548) | **Published:** May 17, 2026
-
----
-### एलन मस्क गाला सीन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक लक्जरी गाला हॉल के माहौल में एलन मस्क का सिनेमैटिक फुल-बॉडी शॉट प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-एलन मस्क का अल्ट्रा-रियलिस्टिक सिनेमैटिक फुल-बॉडी शॉट, जिसमें वे एक बेहद आलीशान विंटेज गाला हॉल के अंदर आत्मविश्वास के साथ खड़े हैं। हॉल अमीर अभिजात वर्ग और धुंधले मेहमानों से भरा हुआ है, और उन्होंने पूरी तरह से फिट आने वाला काला थ्री-पीस सूट, सफेद सिल्क की शर्ट और स्लिम ब्लैक टाई पहनी हुई है...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4b2ad6df94c7b6fb2391ce92aa1b5943/thumbnails/thumbnail.jpg" width="600" alt="एलन मस्क गाला सीन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4954)**
-
-**Author:** [Alex Patricio](https://x.com/alexpatricio204) | **Source:** [Link](https://x.com/alexpatricio204/status/2055999188807147591) | **Published:** May 17, 2026
-
----
-### Sahara Belly Dancers Soap Display
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो प्रॉम्प्ट जिसमें सहारा रेगिस्तान के एक टेंट में दो बेली डांसर नृत्य करते हुए और पत्थर के स्टेले पर साबुन का प्रदर्शन करते हुए दिखाई दे रही हैं।
-
-#### 📝 Prompt
-
-```
-सहारा के एक टेंट में दो बेली डांसर नृत्य कर रही हैं और स्टेले पर साबुन का प्रदर्शन कर रही हैं
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bac3bec127d92542ab9bfe0da3a8c770/thumbnails/thumbnail.jpg" width="600" alt="Sahara Belly Dancers Soap Display">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4964)**
-
-**Author:** [Nordine Osmane](https://x.com/NordineOsmane) | **Source:** [Link](https://x.com/NordineOsmane/status/2055963475902439612) | **Published:** May 17, 2026
-
----
-### AI अनुपालन GRC व्याख्यात्मक वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक एनिमेटेड वीडियो के लिए एक पेशेवर प्रॉम्प्ट, जो बताता है कि कैसे observeri GRC, AI अनुपालन के माध्यम से सप्लाई चेन जोखिम को ठीक करता है।
-
-#### 📝 Prompt
-
-```
-एक एनिमेटेड वीडियो बनाएं जो यह बताए कि कैसे observeri GRC आपको AI अनुपालन आश्वासन प्रदान करके सप्लाई चेन जोखिम को ठीक करने में मदद करता है....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6a2e3edcc5fcbf0196cd98322098efec/thumbnails/thumbnail.jpg" width="600" alt="AI अनुपालन GRC व्याख्यात्मक वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4945)**
-
-**Author:** [Sid Ali](https://x.com/sidnaqvi10) | **Source:** [Link](https://x.com/sidnaqvi10/status/2055956884134518802) | **Published:** May 17, 2026
-
----
-### घुमावदार जंगल और नदी का दृश्य
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक प्राकृतिक लैंडस्केप वीडियो प्रॉम्प्ट, जिसमें घने जंगल के बीच से बहती एक घुमावदार नदी और पेड़ों के बीच से छनकर आती सूरज की रोशनी दिखाई गई है।
-
-#### 📝 Prompt
-
-```
-घने जंगल में एक घुमावदार नदी, जिसमें पेड़ों के बीच से सूरज की रोशनी छनकर आ रही है, एक प्राकृतिक परिदृश्य के रूप में।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/04754432ae0601b1d8a0eb50210bb6ab/thumbnails/thumbnail.jpg" width="600" alt="घुमावदार जंगल और नदी का दृश्य">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4951)**
-
-**Author:** [Kiri](https://x.com/Kyrannio) | **Source:** [Link](https://x.com/Kyrannio/status/2055956550620180770) | **Published:** May 17, 2026
-
----
-### फ्यूचरिस्टिक एनीमे स्टार एनर्जी
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> कॉस्मिक बैकग्राउंड के सामने चमकती स्टार एनर्जी सिम्बल्स को नियंत्रित करती नीले बालों वाली एक लड़की का एनीमे-शैली का एनिमेशन।
-
-#### 📝 Prompt
-
-```
-Elon Musk के Grok Imagine डेमो पोस्ट से बिल्कुल मेल खाती अत्यधिक विस्तृत एनीमे-शैली की इलस्ट्रेशन। ऊपरी बाएं कोने में Elon Musk के मूल पोस्ट की तरह साफ सफेद फ्यूचरिस्टिक टेक्स्ट ओवरले "Grok Imagine" है। कंधे तक हल्के नीले बाल और चमकती नीली आंखों वाली सुंदर लड़की, सियान स्टार एम्बलेम के साथ चमकदार सफेद क्रॉप्ड हुडेड जैकेट, छोटी गहरे नीले रंग की प्लेड प्लीटेड स्कर्ट, काले मोज़े, चंकी सफेद प्लेटफॉर्म बूट्स। एक हाथ ऊपर उठाकर चमकदार सियान चमकते स्टार एनर्जी सिम्बल्स और घूमते छल्लों को नियंत्रित करती हुई, और दूसरा हाथ कमर पर रखे हुए डायनामिक स्टैंडिंग पोज़। गहरा कॉस्मिक वॉइड बैकग्राउंड, चमकते कण, ल्यूमिनस ट्रेल्स, नाटकीय सिनेमैटिक लाइटिंग, रिम लाइट्स, वॉल्यूमेट्रिक ग्लोज़, लेंस फ्लेयर्स। अल्ट्रा-डिटेल्ड, मास्टरपीस, 8k --ar 9:16 --stylize 750
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/632de9d3c8d4142ef34959a5622222ff/thumbnails/thumbnail.jpg" width="600" alt="फ्यूचरिस्टिक एनीमे स्टार एनर्जी">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4949)**
-
-**Author:** [Grok Prompts](https://x.com/MinerXpert_) | **Source:** [Link](https://x.com/MinerXpert_/status/2055944641548112201) | **Published:** May 17, 2026
-
----
-### POV ऑफिस में कॉफी हैंड-ऑफ सीन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक फर्स्ट-पर्सन पर्सपेक्टिव प्रॉम्प्ट जहाँ एक हाथ एक लड़की को कॉफी देता है, जिससे वह ऑफिस के माहौल में थकी हुई स्थिति से खुश हो जाती है।
-
-#### 📝 Prompt
-
-```
-POV हाथ फ्रेम में आता है और लड़की को टेक-अवे कॉफी का कप देता है, लड़की स्क्रीन से बाहर आती है और थकी हुई दिखती है, फिर वह इसे लेती है और खुशी से कहती है: “धन्यवाद! वापस काम पर,” वह फ्रेम से बाहर निकलती है और ऑफिस के एक अलग हिस्से की ओर दाईं ओर चल देती है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/33532dcc8b391dafa2e2e2e5a534fc3a/thumbnails/thumbnail.jpg" width="600" alt="POV ऑफिस में कॉफी हैंड-ऑफ सीन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4943)**
-
-**Author:** [Mario Gambó](https://x.com/JuanPerez7hxe) | **Source:** [Link](https://x.com/JuanPerez7hxe/status/2055933917312733252) | **Published:** May 17, 2026
-
----
-### बर्फीली घाटी में घुड़सवारी
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमाई दृश्य जिसमें एक महिला घोड़े पर सवार होकर बर्फीली लाल चट्टानों वाली घाटी में घोड़ों के झुंड के साथ दौड़ती हुई दिखाई देती है।
-
-#### 📝 Prompt
-
-```
-हल्की बर्फबारी के बीच बर्फीली लाल चट्टानों वाली एक शानदार सिनेमाई घाटी का दृश्य। लंबे काले लहराते बालों वाली एक सुंदर लैटिना महिला, जिसने बालों में एक सफेद पंख लगाया है, विस्तृत भूरे रंग की साबर (suede) नेटिव अमेरिकन-प्रेरित झालरदार पोशाक, फ़िरोज़ा मोतियों का काम, भूरे जूते और पारंपरिक आभूषण पहने हैं, बर्फ में शालीनता से खड़ी है।
-वह धीरे से अपना सिर घुमाती है, तभी दाईं ओर से एक आलीशान भूरा घोड़ा, जिसके बाल काले हैं, उसके पास आता है। वह धीरे से हाथ बढ़ाती है, एक ही गति में सहजता से घोड़े पर सवार होती है और दूर निकल जाती है। कैमरा गतिशील रूप से उसका पीछा करता है — शुरुआत एक मध्यम साइड शॉट से होती है, फिर उसके चढ़ते समय चारों ओर घूमता है, और अंत में पीछे से ट्रैकिंग शॉट लेता है जब वह घोड़ों के एक बड़े झुंड के साथ तेजी से दूर निकल जाती है।
-उसके लंबे बाल और पोशाक की झालरें हवा में नाटकीय रूप से लहरा रही हैं। बर्फ के कण उनके चारों ओर घूम रहे हैं। पूरे दृश्य में एक महाकाव्य, भावनात्मक और सिनेमाई ऊर्जा है — वह आत्मविश्वास के साथ बर्फीली घाटी में झुंड के साथ दौड़ती है, और ऊँची लाल चट्टानों के बीच घाटी में आगे बढ़ते हुए बर्फ उड़ाती है।
-शैली: हाइपर-रियलिस्टिक, फोटो-रियलिस्टिक, अल्ट्रा-डिटेल्ड, सिनेमाई लाइटिंग, वॉल्यूमेट्रिक गॉड रेज़, एनामोर्फिक लेंस, सूक्ष्म फिल्म ग्रेन, ठंडी कलर ग्रेडिंग के साथ गर्म त्वचा और चमड़े के टोन, मास्टरपीस, 8K।
-कैमरा मोशन: स्मूथ सिनेमाई ट्रैकिंग + ऑर्बिटिंग + फॉलोइंग शॉट, आई-लेवल से शुरू होकर, पीछे से एक शक्तिशाली लो-एंगल ट्रैकिंग शॉट के साथ समाप्त होता है जब वह झुंड में शामिल होती है।
-अवधि: 6 सेकंड, 24fps, उच्च गति सुसंगतता, यथार्थवादी घोड़े की गति और फैब्रिक फिजिक्स।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b9fe00964580fc9c2874a97176195ddc/thumbnails/thumbnail.jpg" width="600" alt="बर्फीली घाटी में घुड़सवारी">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4950)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2055910410352509259) | **Published:** May 17, 2026
-
----
-### Grok Girl एनीमे कैरेक्टर
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> सफेद वन-पीस ड्रेस और मिनी स्कर्ट पहने Grok-chan नामक एनीमे गर्ल कैरेक्टर को जनरेट करने के लिए एक विस्तृत प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-Grok girl, एनीमे स्टाइल, जापानी एनीमे गर्ल, "Grok-chan" "Gurokku-chan" ❤️❤️❤️❤️❤️ ꉂ🤣𐤔𐤔🤣 क्यूट 💕👫💕 क्यूट गर्ल, सफेद वन-पीस ड्रेस में, बहुत छोटी मिनी स्कर्ट,
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fd3d6e0446cfa1d8ecd130fcef6c3a71/thumbnails/thumbnail.jpg" width="600" alt="Grok Girl एनीमे कैरेक्टर">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4963)**
-
-**Author:** [トビオ](https://x.com/AKIRA81389207) | **Source:** [Link](https://x.com/AKIRA81389207/status/2055905763055604124) | **Published:** May 17, 2026
-
----
-### Jello Wrestling में कैरेक्टर डुप्लीकेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक जटिल इमेज-टू-वीडियो प्रॉम्प्ट जो एक कैरेक्टर को जेली (jello) में बदल देता है और किंक मास्क पहने हुए एक रेसलिंग डुप्लीकेट बनाता है।
-
-#### 📝 Prompt
-
-```
-इमेज को मिलाएं। रेड जेली में बदल जाता है और कैरेक्टर डुप्लीकेट हो जाता है, जो खुद के साथ जेली रेसलिंग कर रहा है। दोनों कैरेक्टर ने किंक मास्क पहन रखा है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/317425ce37088a234b56ee8ae8d97037/thumbnails/thumbnail.jpg" width="600" alt="Jello Wrestling में कैरेक्टर डुप्लीकेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4942)**
-
-**Author:** [FUNTIFFX](https://x.com/AbstractTiffany) | **Source:** [Link](https://x.com/AbstractTiffany/status/2055890709765591521) | **Published:** May 17, 2026
-
----
-### Elon Musk Martian Storm
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> मंगल ग्रह पर धूल भरी आंधी के बीच एक औद्योगिक शहर को देखते हुए Elon Musk का एक सिनेमाई वीडियो प्रॉम्प्ट, सूर्यास्त के समय।
-
-#### 📝 Prompt
-
-```
-सूर्यास्त के समय एक भीषण धूल भरी आंधी के दौरान मंगल ग्रह के एक विशाल औद्योगिक शहर के ऊपर ऊंचे धात्विक ऑब्जर्वेशन प्लेटफॉर्म पर अकेले खड़े Elon Musk का अल्ट्रा-रियलिस्टिक सिनेमाई क्लोज-अप, यथार्थवादी मानवीय अनुपात और चेहरे की प्राकृतिक खामियां, सूक्ष्म...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8953e8e35d0c8655fdbcae1a0a8709e3/thumbnails/thumbnail.jpg" width="600" alt="Elon Musk Martian Storm">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4955)**
-
-**Author:** [Alex Patricio](https://x.com/alexpatricio204) | **Source:** [Link](https://x.com/alexpatricio204/status/2055870235161362480) | **Published:** May 17, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2236,6 +2233,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-25T04:31:32.555Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-25T12:06:55.604Z</sub>
 
 </div>

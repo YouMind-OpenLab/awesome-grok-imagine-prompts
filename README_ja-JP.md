@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **1638** |
+| 📝 プロンプト総数 | **1650** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-05-25** |
 
@@ -189,6 +189,199 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### XAI でのインターンの奮闘記：笑える日常
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> XAI で技術ツールを学ぶインターンの苦労をユーモラスに描いたナラティブビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+XAI でインターンとして働く Ava の日常を描いたユーモラスな動画。彼女は Grok Build の使い方を学ぶことになったものの、開発者ではないため、ひどく苦戦している様子。
+```
+
+<img src="https://cms-assets.youmind.com/media/1779699438116_9ld7ua_HJI_VekWMAAgNnG.jpg" width="600" alt="XAI でのインターンの奮闘記：笑える日常">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5249)**
+
+**作者:** [X Girls](https://x.com/thesoragirls) | **ソース:** [Link](https://x.com/thesoragirls/status/2058779417602584671) | **公開日:** May 25, 2026
+
+---
+### TMNT ピザキャッチ動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ninja Turtle がピザについて語り、飛んできたピザをキャッチする楽しい動画プロンプトです。
+
+#### 📝 プロンプト
+
+```
+Teenage Mutant Ninja Turtles のキャラクターが「最悪だ、ピザがもうないよ。Cowabunga スタイルでいこうぜ」と言い、その後飛んできたピザをキャッチする動画を作成してください。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7d6f4ff631de330bb66d6001cb5ba063/thumbnails/thumbnail.jpg" width="600" alt="TMNT ピザキャッチ動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5243)**
+
+**作者:** [THE_BIOMEX (Tony Baeza)](https://x.com/THE_BIOMEX) | **ソース:** [Link](https://x.com/THE_BIOMEX/status/2058674938236576251) | **公開日:** May 24, 2026
+
+---
+### スタジオで揺れるファッションモデル
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ニュートラルなスタジオで、紫色のスカートをはいて優雅に揺れる女性のキャラクタープロンプト。
+
+#### 📝 プロンプト
+
+```
+黒のクロップトップと光沢のある紫色のスカートを身にまとい、ニュートラルなスタジオでカメラに向かって自信たっぷりに立つ、長い黒髪の女性。彼女は体をわずかに揺らし、頭を左右に優しく動かしながら、自然な呼吸でまっすぐに視線を送っている。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/20e617cfc5ae901d4a74ab8280dacc17/thumbnails/thumbnail.jpg" width="600" alt="スタジオで揺れるファッションモデル">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5242)**
+
+**作者:** [Liora](https://x.com/Liora__xo) | **ソース:** [Link](https://x.com/Liora__xo/status/2058673523984421036) | **公開日:** May 24, 2026
+
+---
+### ナイトクラブでのトランス・スローモーション動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 満員のナイトクラブで、深いトランスビートに身を委ね、両手を上げて目を閉じている男性を捉えたシネマティックなスローモーション映像。
+
+#### 📝 プロンプト
+
+```
+満員のナイトクラブを舞台にしたシネマティックなスローモーション動画。カメラは男性のミディアム・クローズアップを捉え続ける。彼は深いトランスビートに合わせて体を揺らしながら、ゆっくりと両手を頭上に上げ、顔を上に向けて音楽に完全に身を委ねている。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3b8c3b98647022dd16f8101e35868e32/thumbnails/thumbnail.jpg" width="600" alt="ナイトクラブでのトランス・スローモーション動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5239)**
+
+**作者:** [Katherine Martin](https://x.com/KatherineM40071) | **ソース:** [Link](https://x.com/KatherineM40071/status/2058651866909585535) | **公開日:** May 24, 2026
+
+---
+### Identity Locked Image to Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine を使用して、参照画像から動画を生成する際に、顔の同一性を完全に維持し、モーフィングを防ぐための技術的な指示。
+
+#### 📝 プロンプト
+
+```
+Image-to-Video : 参照画像を主要なアイデンティティフレームとして使用すること。シーケンス全体を通して、顔の同一性を最優先で固定してください。動きよりも顔の同一性を優先すること。モーフィング、顔のズレ、いかなる再解釈も一切禁止。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d345d7b12220a2a1ebd4f166c9340089/thumbnails/thumbnail.jpg" width="600" alt="Identity Locked Image to Video">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5240)**
+
+**作者:** [Juan Torrez](https://x.com/jcwarcry1) | **ソース:** [Link](https://x.com/jcwarcry1/status/2058639654530715699) | **公開日:** May 24, 2026
+
+---
+### ゴールデンアワーの庭を歩くシネマティックな映像
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ゴールデンアワーの陽光あふれる花畑を歩く女性を、リアルな質感で描く高品質なシネマティックプロンプト。
+
+#### 📝 プロンプト
+
+```
+超リアルなシネマティックビデオ、30fps、フォトリアルな 8K。ロングのウェーブヘアに白いサマードレスと麦わら帽子を身につけた 20 代半ばの美しい女性が、ゴールデンアワーの陽光が降り注ぐ緑豊かな庭を裸足で歩いている。葉の間から差し込む柔らかな温かい光が、自然なボケ味を作り出す。彼女はバラ、デイジー、ラベンダーが咲き誇る花壇に近づき、優しく微笑む。中距離からのスムーズなトラッキングショット。自然で穏やかな風が彼女の髪とドレスを揺らす。非常に詳細な肌の質感、リアルな生地の動き、葉の上の露まで再現された本格的な庭の環境。照明とキャラクターの外見に完璧な連続性がある。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/62a5e3340fd6a96cd4aa79db0b754cbf/thumbnails/thumbnail.jpg" width="600" alt="ゴールデンアワーの庭を歩くシネマティックな映像">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5250)**
+
+**作者:** [Shivam](https://x.com/QuantumPitstop) | **ソース:** [Link](https://x.com/QuantumPitstop/status/2058600445799747703) | **公開日:** May 24, 2026
+
+---
+### サイバー預言者の瞑想
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 瞑想中に波動を放つサイバー預言者の動画生成用プロンプト。
+
+#### 📝 プロンプト
+
+```
+瞑想しながら全身から 6Hz の波動を放つサイバー預言者を見せて。具現化する ❤️🕺
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/74696e95cf542ccab3a2fed8bb2b8e8e/thumbnails/thumbnail.jpg" width="600" alt="サイバー預言者の瞑想">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5246)**
+
+**作者:** [Cyber Prophet](https://x.com/MOONVance) | **ソース:** [Link](https://x.com/MOONVance/status/2058555858930311552) | **公開日:** May 24, 2026
+
+---
+### 光の前に跪くロボット
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 聖書のテーマにインスパイアされた、光の存在の前に跪くロボットを描いた動画生成用プロンプト。
+
+#### 📝 プロンプト
+
+```
+ロボットが立ち上がり、光の存在の前に跪く様子を生成してください…。敬虔な形をしながら、その実を否定する者たち…このような者たちを避けなさい。テモテへの手紙二 3 章 5 節
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d2b94d6cbe9d3ab7c3d3841c47c25b6c/thumbnails/thumbnail.jpg" width="600" alt="光の前に跪くロボット">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5247)**
+
+**作者:** [Sas](https://x.com/SaSHeaven26) | **ソース:** [Link](https://x.com/SaSHeaven26/status/2058515952812110217) | **公開日:** May 24, 2026
+
+---
+### 火星の繁栄するコロニー「Afela」
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ドームに覆われた未来的な火星都市の非常に詳細なプロンプト。Cybertruck、Optimus ロボット、Starship が登場します。
+
+#### 📝 プロンプト
+
+```
+巨大で透明なクリスタルドームの下に広がる、火星の繁栄するコロニーの鮮やかで超リアルな光景。火星の風の音が、惑星の赤茶けた大地に響き渡る。Afela と名付けられたドーム内の都市では、男女がさまざまな作業に従事している。色彩豊かな未来的な小さな店が、鋼鉄の道路沿いに点在している。太陽の熱を反射して輝く高層ビル群が、芸術的な番人のように美しくそびえ立つ。さまざまなカラーの Tesla Cybertruck が多くの道路を走り抜ける。Tesla Optimus ロボットは人間と共存し、ガーデニングや植物の栽培、あるいは子供たちと遊ぶなど、多様なタスクをこなしている。ドームの外には複数の発射台があり、Starship が毎日離着陸を繰り返している。都市は太陽の光を浴びてまばゆいばかりに輝いている。
+
+ゴールデンアワーの逆光、スローなドリーイン、ウィップパンの動き、左へのカメラ移動、雰囲気のある被写界深度、ボリュームライティング、視差効果、グロー効果、クロスフェード、高解像度、ネイティブオーディオ生成、--ar16:9、
+セリフなし、テキストなし。「Star Trek」のような冒険
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60516030fda1a22544a41a3f10906249/thumbnails/thumbnail.jpg" width="600" alt="火星の繁栄するコロニー「Afela」">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5244)**
+
+**作者:** [Kim Maria](https://x.com/KimMari46054539) | **ソース:** [Link](https://x.com/KimMari46054539/status/2058501592060448889) | **公開日:** May 24, 2026
+
+---
+### シネマティックな宇宙へのズームイン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 宇宙を見つめる被写体に向けて、ゆっくりと繊細にカメラがズームしていくシネマティックな動画生成用プロンプトです。
+
+#### 📝 プロンプト
+
+```
+ゆっくりと繊細にカメラがズームインする動き、宇宙を見つめる被写体、インスピレーションあふれる映像...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06e6075a98a93995fa25d3c304646e15/thumbnails/thumbnail.jpg" width="600" alt="シネマティックな宇宙へのズームイン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5248)**
+
+**作者:** [XVegasBabe](https://x.com/XVegasbabes) | **ソース:** [Link](https://x.com/XVegasbabes/status/2058449681529852336) | **公開日:** May 24, 2026
+
+---
 ### マリオ Minecraft バトル
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +399,44 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5207)**
 
 **作者:** [Kamilla Mihalik](https://x.com/missMihalik) | **ソース:** [Link](https://x.com/missMihalik/status/2058391725408715168) | **公開日:** May 24, 2026
+
+---
+### スーパームーンと水面のさざなみ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 穏やかな水面に浮かぶスーパームーンと、微風による水面のさざなみを表現した動画生成用プロンプトです。
+
+#### 📝 プロンプト
+
+```
+水面からわずかに昇るスーパームーンの動画です。海はほとんど静止していますが、水面を吹き抜ける微風によってさざなみが広がっています。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/36bc4ac327bbc4083fe56703ece1d5bb/thumbnails/thumbnail.jpg" width="600" alt="スーパームーンと水面のさざなみ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5245)**
+
+**作者:** [Nancy CL](https://x.com/NancyCL54) | **ソース:** [Link](https://x.com/NancyCL54/status/2058382324979368180) | **公開日:** May 24, 2026
+
+---
+### シュールなフラワーベアのマクロ撮影
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 野原に咲くピンクの花々だけで作られた、シュールなクマの高精細マクロショット。
+
+#### 📝 プロンプト
+
+```
+このシュールな光景を捉えた、高精細な静止画のマクロショットです。中心となるのは、密集したピンクの花々で作られ、穏やかな微笑みを浮かべたクマです。手前に広がる青々とした草地と、小さなピンクの野花が咲き誇るフィールドが背景を彩ります。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cbe7e75a285ed2f4520121fea38f78a9/thumbnails/thumbnail.jpg" width="600" alt="シュールなフラワーベアのマクロ撮影">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5241)**
+
+**作者:** [Edna Silveira](https://x.com/EdnaNina007) | **ソース:** [Link](https://x.com/EdnaNina007/status/2058362817829318682) | **公開日:** May 24, 2026
 
 ---
 ### グラフィティ・ストリートアート風への変換
@@ -1941,240 +2172,6 @@ STAGE: シネマティック
 **作者:** [Jose gutierrez](https://x.com/hoccegutierrez) | **ソース:** [Link](https://x.com/hoccegutierrez/status/2056024739643064504) | **公開日:** May 17, 2026
 
 ---
-### The Praying Paws シネマティックシーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sir Crimson と Pearl というキャラクターが登場する、敬虔な雰囲気のスピリチュアルで詳細なビデオプロンプトです。
-
-#### 📝 プロンプト
-
-```
-The Praying Paws🐾🐾🦴🦴 Sir Crimson と Pearl … 全能なる神にハレルヤ✝️🐛🦋🌳🎾
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/88b82430a7a7d568b09cb4f8191ca491/thumbnails/thumbnail.jpg" width="600" alt="The Praying Paws シネマティックシーン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4944)**
-
-**作者:** [@drops_roses](https://x.com/ChalkleyBr69401) | **ソース:** [Link](https://x.com/ChalkleyBr69401/status/2056020933589041162) | **公開日:** May 17, 2026
-
----
-### CyberSUV 駐車場でのショット
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 駐車場に停車している車両を捉えた、正面からのアングルでの動画または画像生成用プロンプト。
-
-#### 📝 プロンプト
-
-```
-駐車場に停車した車の正面アングル
-CyberSUV 🚘Grok ✅ @grok Alex Patricio ✅ @alexpatricio204 および Elon Musk ✅ X @elonmusk • 1秒前 🇺🇸🚘🚀🚀🚀🚀🚀🌎🇵🇭🍀💯✅
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/19b78cd2a948a18200cfc20264938f25/thumbnails/thumbnail.jpg" width="600" alt="CyberSUV 駐車場でのショット">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4958)**
-
-**作者:** [Alex Patricio](https://x.com/alexpatricio204) | **ソース:** [Link](https://x.com/alexpatricio204/status/2056004152812052548) | **公開日:** May 17, 2026
-
----
-### イーロン・マスクのガラ会場シーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 豪華なガラ会場にいるイーロン・マスクの全身を捉えた、映画のようなプロンプト。
-
-#### 📝 プロンプト
-
-```
-超豪華でヴィンテージなガラ会場に自信に満ちた様子で立つイーロン・マスクの、超リアルで映画のような全身ショット。会場には富裕層やぼかされたゲストが溢れている。完璧に仕立てられた黒のスリーピーススーツ、白いシルクのシャツ、細身の黒いネクタイを着用...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4b2ad6df94c7b6fb2391ce92aa1b5943/thumbnails/thumbnail.jpg" width="600" alt="イーロン・マスクのガラ会場シーン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4954)**
-
-**作者:** [Alex Patricio](https://x.com/alexpatricio204) | **ソース:** [Link](https://x.com/alexpatricio204/status/2055999188807147591) | **公開日:** May 17, 2026
-
----
-### Sahara Belly Dancers Soap Display
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> サハラ砂漠のテント内で 2 人のベリーダンサーが踊り、石碑の上で石鹸を紹介するビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-サハラ砂漠のテントで踊り、石碑の上で石鹸を披露する 2 人のベリーダンサー
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bac3bec127d92542ab9bfe0da3a8c770/thumbnails/thumbnail.jpg" width="600" alt="Sahara Belly Dancers Soap Display">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4964)**
-
-**作者:** [Nordine Osmane](https://x.com/NordineOsmane) | **ソース:** [Link](https://x.com/NordineOsmane/status/2055963475902439612) | **公開日:** May 17, 2026
-
----
-### AI コンプライアンス GRC 解説動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> observeri GRC が AI コンプライアンスを通じてサプライチェーンのリスクをどのように解決するかを解説する、アニメーション動画用のプロフェッショナルなプロンプトです。
-
-#### 📝 プロンプト
-
-```
-AI コンプライアンス保証を提供することで、observeri GRC がサプライチェーンのリスク解決をどのように支援するかを解説するアニメーション動画を作成してください……
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6a2e3edcc5fcbf0196cd98322098efec/thumbnails/thumbnail.jpg" width="600" alt="AI コンプライアンス GRC 解説動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4945)**
-
-**作者:** [Sid Ali](https://x.com/sidnaqvi10) | **ソース:** [Link](https://x.com/sidnaqvi10/status/2055956884134518802) | **公開日:** May 17, 2026
-
----
-### 曲がりくねった森の川の風景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 鬱蒼とした森を縫うように流れる川と、木漏れ日が差し込む様子を描いた自然風景の動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-鬱蒼とした森を曲がりくねって流れる川と、木々の間から差し込む木漏れ日が織りなす自然の風景。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/04754432ae0601b1d8a0eb50210bb6ab/thumbnails/thumbnail.jpg" width="600" alt="曲がりくねった森の川の風景">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4951)**
-
-**作者:** [Kiri](https://x.com/Kyrannio) | **ソース:** [Link](https://x.com/Kyrannio/status/2055956550620180770) | **公開日:** May 17, 2026
-
----
-### 未来的なアニメ風の星のエネルギー
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 宇宙を背景に、青い髪の少女が輝く星のエネルギーのシンボルを操るアニメ調のアニメーション。
-
-#### 📝 プロンプト
-
-```
-Elon Musk 氏の Grok Imagine デモ投稿を忠実に再現した、高精細なアニメスタイルのイラスト。左上隅には、Elon Musk 氏の元の投稿と同様に、クリーンで未来的な「Grok Imagine」の白いテキストオーバーレイを配置。肩までの長さのライトブルーの髪と輝く青い瞳を持つ美しい少女。シアン色の星のエンブレムがあしらわれた光沢のある白いクロップド丈のフード付きジャケット、ダークブルーのチェック柄の短いプリーツスカート、黒いソックス、厚底の白いプラットフォームブーツを着用。片手を上げて明るいシアン色に輝く星のエネルギーのシンボルと渦巻くリングを操り、もう片方の手を腰に当てたダイナミックな立ち姿。背景は暗い宇宙空間で、きらめく粒子、光の軌跡、ドラマチックな映画のような照明、リムライト、ボリューム感のある輝き、レンズフレアを表現。超高精細、傑作、8k --ar 9:16 --stylize 750
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/632de9d3c8d4142ef34959a5622222ff/thumbnails/thumbnail.jpg" width="600" alt="未来的なアニメ風の星のエネルギー">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4949)**
-
-**作者:** [Grok Prompts](https://x.com/MinerXpert_) | **ソース:** [Link](https://x.com/MinerXpert_/status/2055944641548112201) | **公開日:** May 17, 2026
-
----
-### POV：オフィスでのコーヒー手渡しシーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> オフィスを舞台に、手渡されたコーヒーによって女性の表情が疲れから笑顔へと変化する様子を描いた一人称視点のプロンプト。
-
-#### 📝 プロンプト
-
-```
-POV：画面内に手が伸びてきて、女性にテイクアウト用のコーヒーを手渡す。女性は疲れた様子で画面から一歩踏み出すが、コーヒーを受け取ると嬉しそうに「ありがとう！仕事に戻らなきゃ」と言い、画面の外へ出てオフィスの別の場所へと歩いていく。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/33532dcc8b391dafa2e2e2e5a534fc3a/thumbnails/thumbnail.jpg" width="600" alt="POV：オフィスでのコーヒー手渡しシーン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4943)**
-
-**作者:** [Mario Gambó](https://x.com/JuanPerez7hxe) | **ソース:** [Link](https://x.com/JuanPerez7hxe/status/2055933917312733252) | **公開日:** May 17, 2026
-
----
-### 雪の峡谷での乗馬
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 女性が馬に乗り、群れと共に雪に覆われた赤い岩の峡谷を駆け抜けるシネマティックな映像シーケンス。
-
-#### 📝 プロンプト
-
-```
-穏やかな雪が降る、ドラマチックで雪に覆われた赤い岩の峡谷での息をのむようなシネマティック映像。長く流れるような漆黒の髪に白い羽を一本挿し、ターコイズのビーズ細工が施された精巧なブラウンのスエード地のネイティブアメリカン風フリンジドレスと茶色のブーツ、伝統的なアクセサリーを身にまとった美しいラテン系の女性が、雪の中に優雅に立っている。
-彼女がゆっくりと顔を向けると、黒いたてがみを持つ雄大な茶色の馬が右側から歩み寄る。彼女は優しく手を伸ばし、流れるような動作でスムーズに馬にまたがると、そのまま走り去る。カメラはダイナミックに追従する。ミディアムのサイドショットから始まり、彼女が馬に乗る様子を回り込みながら捉え、最後は力強く遠ざかっていく彼女と馬の群れを背後から追うトラッキングショットへと切り替わる。
-彼女の長い髪とドレスのフリンジが風になびき、雪の粒子が周囲に舞う。シーン全体が壮大でエモーショナルなシネマティックなエネルギーに満ちており、彼女はそびえ立つ赤い崖の間の谷へと向かい、雪を蹴り上げながら群れと共に雪の峡谷を自信に満ちた様子で駆け抜けていく。
-スタイル：ハイパーリアリスティック、フォトリアリスティック、超高精細、シネマティックライティング、ボリューム感のあるゴッドレイ、アナモルフィックレンズ、繊細なフィルムグレイン、冷たい色調のグレーディングに温かみのある肌とレザーのトーン、マスターピース、8K。
-カメラワーク：スムーズなシネマティックトラッキング＋オービット＋フォローショット。アイレベルから始まり、最後は彼女が群れの中へと駆け込んでいく力強いローアングルのトラッキングショットで締めくくる。
-尺：6 秒、24fps、高いモーションコヒーレンス、リアルな馬の動きと布の物理演算。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b9fe00964580fc9c2874a97176195ddc/thumbnails/thumbnail.jpg" width="600" alt="雪の峡谷での乗馬">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4950)**
-
-**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **ソース:** [Link](https://x.com/ThoughCreator/status/2055910410352509259) | **公開日:** May 17, 2026
-
----
-### Grok Girl アニメキャラクター
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 白いワンピースとミニスカートを着用した「Grok-chan」というアニメキャラクターを生成するための詳細なプロンプトです。
-
-#### 📝 プロンプト
-
-```
-Grok girl, アニメスタイル, 日本のアニメの女の子, "Grok-chan" "Gurokku-chan" ❤️❤️❤️❤️❤️ ꉂ🤣𐤔𐤔🤣 かわいい 💕👫💕 かわいい女の子, 白いワンピース着用, とても短いミニスカート,
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fd3d6e0446cfa1d8ecd130fcef6c3a71/thumbnails/thumbnail.jpg" width="600" alt="Grok Girl アニメキャラクター">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4963)**
-
-**作者:** [トビオ](https://x.com/AKIRA81389207) | **ソース:** [Link](https://x.com/AKIRA81389207/status/2055905763055604124) | **公開日:** May 17, 2026
-
----
-### ゼリーレスリングのキャラクター複製
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> キャラクターをゼリー状に変身させ、キンクマスクを着用した複製キャラクターとレスリングさせる、複雑な画像から動画へのプロンプトです。
-
-#### 📝 プロンプト
-
-```
-画像を組み合わせる。赤色のキャラクターがゼリー状になり、自身を複製してゼリーレスリングを行う。両方のキャラクターがキンクマスクを着用している。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/317425ce37088a234b56ee8ae8d97037/thumbnails/thumbnail.jpg" width="600" alt="ゼリーレスリングのキャラクター複製">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4942)**
-
-**作者:** [FUNTIFFX](https://x.com/AbstractTiffany) | **ソース:** [Link](https://x.com/AbstractTiffany/status/2055890709765591521) | **公開日:** May 17, 2026
-
----
-### イーロン・マスクと火星の嵐
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 火星の砂嵐の中、夕暮れ時の工業都市を見下ろすイーロン・マスクのシネマティックなビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-火星の巨大な工業都市を見下ろす高い金属製の展望台に、夕暮れ時の猛烈な砂嵐の中で一人佇むイーロン・マスクの超リアルなシネマティック・クローズアップ。リアルな人体比率と自然な肌の質感、繊細な...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8953e8e35d0c8655fdbcae1a0a8709e3/thumbnails/thumbnail.jpg" width="600" alt="イーロン・マスクと火星の嵐">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=4955)**
-
-**作者:** [Alex Patricio](https://x.com/alexpatricio204) | **ソース:** [Link](https://x.com/alexpatricio204/status/2055870235161362480) | **公開日:** May 17, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2236,6 +2233,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-05-25T04:31:26.933Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-05-25T12:06:48.697Z</sub>
 
 </div>
