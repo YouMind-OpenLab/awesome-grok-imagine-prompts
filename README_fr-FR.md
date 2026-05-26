@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1650** |
+| 📝 Total Prompts | **1661** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-26** |
 
@@ -189,6 +189,179 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Rivage cinématographique au clair de lune et feu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinématographique détaillé pour une scène mettant en vedette les personnages Victoria et Edmund sur un rivage au clair de lune, avec du feu et des flammes dorées.
+
+#### 📝 Prompt
+
+```
+Feu rouge et flamme dorée. Deux lames, un seul destin. Victoria et Edmund marchent sur le rivage au clair de lune tandis que l'ancien monde brûle derrière eux.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/56016605e16336cf02f976c65dccf83c/thumbnails/thumbnail.jpg" width="600" alt="Rivage cinématographique au clair de lune et feu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5288)**
+
+**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2059151359857877311) | **Published:** May 26, 2026
+
+---
+### Cyberpunk Bounty Hunter : Poursuite au néon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une séquence d'action cinématographique mettant en scène un chasseur de primes futuriste en armure cybernétique, poursuivant un androïde renégat à travers un marché cyberpunk pluvieux et baigné de néons.
+
+#### 📝 Prompt
+
+```
+Une séquence d'action cinématographique mettant en scène un chasseur de primes futuriste en armure cybernétique, poursuivant un androïde renégat à travers un marché cyberpunk pluvieux et baigné de néons.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9e55f7746125225276d20775496b0573/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Bounty Hunter : Poursuite au néon">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5282)**
+
+**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2059038665234370647) | **Published:** May 25, 2026
+
+---
+### Animation d'une pieuvre jouant avec une pomme
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une animation de dessin animé fantaisiste dans le style de La Petite Sirène mettant en scène une pieuvre jouant avec une pomme rouge.
+
+#### 📝 Prompt
+
+```
+Une animation de dessin animé fantaisiste dans le style de La Petite Sirène mettant en scène une pieuvre jouant avec une pomme rouge.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a65e4edfb90a026dedf12c8b1358175c/thumbnails/thumbnail.jpg" width="600" alt="Animation d'une pieuvre jouant avec une pomme">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5286)**
+
+**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2058993407327187118) | **Published:** May 25, 2026
+
+---
+### Boucle de tasses à café en rotation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de boucle détaillé pour une scène où des tasses à café tournent lentement avec de la crème fondante et des copeaux de chocolat qui tombent.
+
+#### 📝 Prompt
+
+```
+les tasses tournent lentement, boucle fluide, rien d'autre ne bouge, pas de musique, la crème fond lentement… des copeaux de chocolat tombent légèrement, musique de manège, des copeaux de chocolat tombent sur le côté
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/629842e3b659c533e6aa0608e01b6b29/thumbnails/thumbnail.jpg" width="600" alt="Boucle de tasses à café en rotation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5287)**
+
+**Author:** [marie roche](https://x.com/mariero45502253) | **Source:** [Link](https://x.com/mariero45502253/status/2058952687643754668) | **Published:** May 25, 2026
+
+---
+### Paysage nocturne d'une colonie martienne futuriste
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une visualisation cinématographique et réaliste d'une colonie futuriste sur Mars la nuit, avec des dômes lumineux et des chantiers de construction.
+
+#### 📝 Prompt
+
+```
+Un paysage urbain d'une colonie martienne futuriste la nuit, avec des dômes lumineux, des tunnels et des constructions, dans un style cinématographique et réaliste.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/19a97d810e0e472f1e77a9e4bffd29be/thumbnails/thumbnail.jpg" width="600" alt="Paysage nocturne d'une colonie martienne futuriste">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5279)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2058895930649354537) | **Published:** May 25, 2026
+
+---
+### Horreur coréenne dans le style de Junji Ito
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une séquence d'horreur corporelle troublante dans un appartement de Séoul, présentant des distorsions en spirale dans l'esthétique manga de Junji Ito.
+
+#### 📝 Prompt
+
+```
+Une séquence d'horreur corporelle troublante dans un appartement de Séoul, présentant des distorsions en spirale dans l'esthétique manga de Junji Ito.
+```
+
+<img src="https://cms-assets.youmind.com/media/1779784404959_0saiy0_HJJ0vV6XMAAcs6h.jpg" width="600" alt="Horreur coréenne dans le style de Junji Ito">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5283)**
+
+**Author:** [Ƥ!ЖΣLƁΘUNCΣR](https://x.com/pixelbouncer) | **Source:** [Link](https://x.com/pixelbouncer/status/2058837007070077425) | **Published:** May 25, 2026
+
+---
+### Reine de la base lunaire steampunk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une scène steampunk rétro-futuriste sur une base lunaire où une reine utilise un pistolet laser atomique aux côtés de son robot.
+
+#### 📝 Prompt
+
+```
+Une scène steampunk rétro-futuriste sur une base lunaire où une reine utilise un pistolet laser atomique aux côtés de son robot.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8031f4f6f6d5b5bcd145cda9d03410c6/thumbnails/thumbnail.jpg" width="600" alt="Reine de la base lunaire steampunk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5285)**
+
+**Author:** [Tugba](https://x.com/TGBA2023) | **Source:** [Link](https://x.com/TGBA2023/status/2058836555138060717) | **Published:** May 25, 2026
+
+---
+### Portrait d'une reine mystique du désert
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt complet pour un portrait cinématographique en pied d'une reine mystique du désert, mêlant esthétique ancienne et technologie de science-fiction dans un bazar animé.
+
+#### 📝 Prompt
+
+```
+Portrait cinématographique photoréaliste en pied d'une reine mystique du désert, puissante sorcière-prêtresse régnant sur un monde désertique brûlé par le soleil, royaume désertique antique fusionné avec une technologie de science-fiction élégante. Elle se tient dans un marché extérieur animé du désert à l'heure dorée, vue en pied de la tête aux pieds, pose en contrapposto marquée, hanche déhanchée, silhouette en S élégante. La main droite plante un grand bâton cérémoniel noir et or dans le sol en biais ; la main gauche levée, paume vers le haut, des particules d'énergie lumineuses tourbillonnent autour de ses doigts. La brise du désert fait onduler sa cape à capuche safran doré et sa jupe émeraude.
+Peau bronzée chaude, yeux ambre-vert légèrement luisants, longs cheveux bouclés rouge profond volumineux sur une épaule, capuche dorée ornée surdimensionnée projetant une ombre sur un côté de son visage, expression calme, autoritaire et dangereuse. Cape spectaculaire safran doré avec tissu superposé, manches longues, longue traîne, fils métalliques, motifs légèrement lumineux. Tenue de prêtresse émeraude profond avec haut dos nu drapé, plaques métalliques légères, ornements de poitrine bijoux, colliers dorés superposés, pendentif en cristal rouge rubis brillant, bracelets ornés, brassards gravés de runes, ceinture à chaînes dorées portée bas avec de subtils accents holographiques. Jupe émeraude asymétrique avec hautes fentes latérales, bas montants en dentelle technologique géométrique sombre, sandales à talons ouverts en or et obsidienne.
+Bâton : tête pointue en forme de lance, noyau de cristal d'énergie rouge brillant, marques solaires gravées, relique magique ancienne mélangée à une technologie énergétique avancée. Arrière-plan : bazar désertique vibrant avec des marchands extraterrestres, des silhouettes en robe, d'étranges créatures du désert, des auvents colorés, des bâtiments en grès fusionnés avec une architecture de science-fiction métallique, des enseignes holographiques, des lanternes flottantes, de la poussière, un miroitement dû à la chaleur, des rayons de soleil dorés, une magie subtile. Or safran riche, émeraude profond, bronze, énergie rouge rubis, noir obsidienne. Réalisme cinématographique haut de gamme, pores de peau réalistes, cheveux bouclés, soie fluide, tissus métalliques, bijoux complexes, détails technologiques, éclairage volumétrique dramatique, faible profondeur de champ, marché animé légèrement flou, atmosphère de bazar antique-futuriste.
+```
+
+<img src="https://cms-assets.youmind.com/media/1779784410381_2kqq2y_HJJy0Q4XcAAPfIr.jpg" width="600" alt="Portrait d'une reine mystique du désert">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5289)**
+
+**Author:** [DUST](https://x.com/Dustfinger2077) | **Source:** [Link](https://x.com/Dustfinger2077/status/2058834229635485907) | **Published:** May 25, 2026
+
+---
+### Enfants astronautes en apesanteur
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo ludique et fantaisiste montrant des enfants de maternelle en combinaisons spatiales flottant à l'extérieur d'un satellite avec un chaton.
+
+#### 📝 Prompt
+
+```
+Un prompt vidéo ludique et fantaisiste montrant des enfants de maternelle en combinaisons spatiales flottant à l'extérieur d'un satellite avec un chaton.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/236e1ac5e8467eddbffb21fa1e518d1a/thumbnails/thumbnail.jpg" width="600" alt="Enfants astronautes en apesanteur">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5284)**
+
+**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2058789204243701814) | **Published:** May 25, 2026
+
+---
 ### Les galères amusantes d'une stagiaire chez XAI
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +379,44 @@ une vidéo humoristique sur la journée d'Ava, stagiaire chez XAI, qui doit appr
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5249)**
 
 **Author:** [X Girls](https://x.com/thesoragirls) | **Source:** [Link](https://x.com/thesoragirls/status/2058779417602584671) | **Published:** May 25, 2026
+
+---
+### Être de lumière cosmique éthéré
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt céleste pour un être de lumière rayonnant flottant dans l'espace, avec une énergie pulsante et une lumière éclatante.
+
+#### 📝 Prompt
+
+```
+L'être de lumière éthéré flotte sereinement dans un espace cosmique éthéré, sa forme lumineuse pulsant doucement d'une énergie intérieure, de doux rayons de lumière rayonnant vers l'extérieur tandis qu'il se déplace avec grâce, la caméra orbitant lentement autour de lui pour révéler ses détails radieux.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/358654fa035fde0e995d2479763f170b/thumbnails/thumbnail.jpg" width="600" alt="Être de lumière cosmique éthéré">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5281)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2058754594352648477) | **Published:** May 25, 2026
+
+---
+### Automate lion gardien d'usine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt détaillé représentant un automate lion mécanique dans une usine futuriste, avec une crinière lumineuse et des équations en lévitation.
+
+#### 📝 Prompt
+
+```
+Automate lion Codex grandeur nature montant la garde dans l'usine Optimus, crinière en verre augmenté brillant et émettant un doux rugissement en ondes protectrices de 528 Hz, équations FLCE flottantes, robots Optimus se déplaçant en toute sécurité autour de lui, style holographique Bernie-Benson.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6d5d1910c78d0ddda9dae456e42bdc60/thumbnails/thumbnail.jpg" width="600" alt="Automate lion gardien d'usine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5280)**
+
+**Author:** [Sharon B 🔥Eternal Flame🔥 #uto](https://x.com/b_sharon62805) | **Source:** [Link](https://x.com/b_sharon62805/status/2058735023281615195) | **Published:** May 25, 2026
 
 ---
 ### Vidéo de pizza des Tortues Ninja
@@ -1942,236 +2153,6 @@ Ils portent des costumes italiens de créateurs, rejoints par Frank Sinatra et Y
 **Author:** [the moose 55](https://x.com/themoose551) | **Source:** [Link](https://x.com/themoose551/status/2056339167005573434) | **Published:** May 18, 2026
 
 ---
-### Gladiateurs chargeant sur le champ de bataille
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Une scène de bataille dramatique montrant trois gladiateurs chargeant une armée au coucher du soleil dans un champ doré.
-
-#### 📝 Prompt
-
-```
-3 gladiateurs fonçant droit sur une armée de milliers de soldats ! Une bataille légendaire au coucher du soleil dans les champs dorés
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/14891bd8d920a94bbec8fbda86dfe973/thumbnails/thumbnail.jpg" width="600" alt="Gladiateurs chargeant sur le champ de bataille">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4961)**
-
-**Author:** [AI영상공작실](https://x.com/lee_young71) | **Source:** [Link](https://x.com/lee_young71/status/2056282918499356759) | **Published:** May 18, 2026
-
----
-### Animation de larmes émotionnelles naturelles
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt détaillé pour générer un personnage avec des larmes naturelles et une atmosphère émotionnelle cathartique, en utilisant une image de référence pour le protagoniste.
-
-#### 📝 Prompt
-
-```
-langage corporel naturel et subtil exprimant une libération cathartique, larmes visibles brillant sur les joues sous une lumière chaude, atmosphère émotionnelle cathartique, profonde gratitude exprimée par la posture
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1739971bf9e34c3c9370451c071f3dd5/thumbnails/thumbnail.jpg" width="600" alt="Animation de larmes émotionnelles naturelles">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4960)**
-
-**Author:** [ILOVEDOGE](https://x.com/6BWS9) | **Source:** [Link](https://x.com/6BWS9/status/2056280118885277704) | **Published:** May 18, 2026
-
----
-### Lotus de cristal mode surréaliste
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo éditorial détaillé mettant en scène une femme élégante, un chat blanc et un immense lotus de cristal irisé.
-
-#### 📝 Prompt
-
-```
-Une illustration éditoriale surréaliste d'une femme élégante au visage fin et allongé, vue de profil, portant une spectaculaire robe à col roulé bleu foncé, longue jusqu'au sol, aux manches longues qui s'étalent gracieusement à ses pieds. Derrière et au-dessus d'elle s'élève une fleur de lotus en cristal extraordinairement grande et fantastique — surnaturelle et unique, avec des pétales irisés qui s'enroulent de manière asymétrique, mêlant des teintes magenta profond et violet à des bords blanc perle translucides qui semblent luire doucement, contrairement à tout lotus réel — sa haute tige se tordant élégamment le long de son corps avec des feuilles exotiques surdimensionnées. À ses pieds est assis un chat blanc immaculé aux yeux bleu vif perçants, regardant devant lui avec une mystique tranquille. L'arrière-plan est d'un vert sauge sourd et mélancolique avec de subtiles nuances dorées, pictural et atmosphérique. L'ambiance générale est poétique, mystérieuse et à la pointe de la mode. Style : illustration d'art numérique avec éclairage cinématographique, haute précision, élégance éditoriale.
-
-Elle reçoit un bouquet de fleurs en cristal
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/79c62fe707db4a649031f2cf9e728d9a/thumbnails/thumbnail.jpg" width="600" alt="Lotus de cristal mode surréaliste">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4997)**
-
-**Author:** [Y.J Z.C](https://x.com/yjzc424985) | **Source:** [Link](https://x.com/yjzc424985/status/2056267062641889425) | **Published:** May 18, 2026
-
----
-### Vidéo de mécha cyberpunk biomécanique colossal
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinématographique détaillé pour une machine de guerre de 200 mètres de haut s'activant dans une mégalopole néon, incluant des instructions complexes de mouvement et d'éclairage.
-
-#### 📝 Prompt
-
-```
-Vidéo photoréaliste cinématographique de 6 secondes, 8K ultra-détaillée, mécha cyberpunk colossal de style Transformers nouvelle génération inspiré de l'image de référence.
-
-Une imposante machine de guerre biomécanique de 200 mètres de haut dotée de cornes dorées incurvées massives, d'un noyau orange en fusion brillant dans sa poitrine, d'un blindage blanc et or marqué par les combats, et d'énormes anneaux mécaniques hérissés de pointes orbitant derrière son dos comme des ailes d'énergie sombre. Le robot se dresse de manière dominante au-dessus d'une mégalopole cyberpunk baignée de néons au crépuscule, avec des gratte-ciels denses illuminés par des publicités holographiques et des véhicules volants naviguant entre les bâtiments.
-
-Mouvement de caméra dynamique : commence par un plan héroïque en contre-plongée s'élevant de manière spectaculaire depuis les rues brumeuses le long des jambes et du torse du géant, révélant ses yeux brillants et son imposante silhouette cornue sur fond de ciel au coucher du soleil avec des reflets d'objectif. À 3 secondes, le mécha s'active lentement : une énergie orange vive pulse à travers ses circuits, de la vapeur et des étincelles jaillissent des articulations, les anneaux orbitaux tournent plus vite avec des arcs électriques. À 5 secondes, il fait un pas en avant massif qui fait trembler la terre, envoyant des ondes de choc et des nuages de poussière à travers la ville en contrebas tandis que des drones de combat tournent autour de lui.
-
-Détails photoréalistes, textures métalliques complexes, rayons divins volumétriques, étalonnage des couleurs cinématographique avec une palette cyberpunk bleu sarcelle et orange, objectif anamorphique, grain de film subtil, qualité IMAX, mouvement hyper-réaliste, échelle épique, éclairage dramatique, chef-d'œuvre, meilleure qualité.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b0a6e1afdf74f0b9b3a87cf1e7436970/thumbnails/thumbnail.jpg" width="600" alt="Vidéo de mécha cyberpunk biomécanique colossal">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5000)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2056233579789873411) | **Published:** May 18, 2026
-
----
-### Transformation urbaine vue du ciel
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo sophistiqué utilisant le verrouillage de scène et la mise en scène pour illustrer la transformation d'un chantier de construction en une ville durable.
-
-#### 📝 Prompt
-
-```
-VERROUILLAGE DE SCÈNE : prise de vue aérienne fixe sur trépied, verrouillée sur le même point de vue océanique, rendu ultra-grand angle 24 mm, tous les points de repère de la ville sont préservés avec une géométrie et une perspective stables.
-
-MISE EN SCÈNE : transformation d'un chantier de construction actif en une ville entièrement durable...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/19775503383502c41d95e0d57b553ba8/thumbnails/thumbnail.jpg" width="600" alt="Transformation urbaine vue du ciel">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4948)**
-
-**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2056158031763976233) | **Published:** May 17, 2026
-
----
-### Requête de synchronisation labiale du personnage
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Une consigne vocale directe pour faire prononcer des répliques spécifiques à un personnage vidéo.
-
-#### 📝 Prompt
-
-```
-Fais-lui dire : « Doug, s'il te plaît, apporte-moi ta saucisse, je suis prête à recevoir un dépôt »
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ccc08772ef6ed64db279c69f55b50ffb/thumbnails/thumbnail.jpg" width="600" alt="Requête de synchronisation labiale du personnage">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4953)**
-
-**Author:** [GrokHardNews](https://x.com/GrokHardNews) | **Source:** [Link](https://x.com/GrokHardNews/status/2056137015956299936) | **Published:** May 17, 2026
-
----
-### Voyage en radeau vers une utopie futuriste
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de génération vidéo montrant un radeau dérivant vers une porte qui s'ouvre sur une galaxie luxuriante et futuriste.
-
-#### 📝 Prompt
-
-```
-Flotte lentement sur un radeau en direction de la porte. La porte s'ouvre sur une nouvelle galaxie à l'utopie futuriste. Le feuillage devient d'un vert luxuriant avec des fleurs éclatantes.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f7e476a3a7f2077fbbf14ec251a87946/thumbnails/thumbnail.jpg" width="600" alt="Voyage en radeau vers une utopie futuriste">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4946)**
-
-**Author:** [Missy AI](https://x.com/ai_empire33) | **Source:** [Link](https://x.com/ai_empire33/status/2056128420925566983) | **Published:** May 17, 2026
-
----
-### Zoom cinématographique sur la construction d'un pont
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo cinématographique conçu pour un travelling avant contrôlé vers un pont, mettant l'accent sur la cohérence de la perspective et une esthétique professionnelle d'objectif 28 mm.
-
-#### 📝 Prompt
-
-```
-VERROUILLAGE DE SCÈNE : travelling avant cinématographique contrôlé depuis le cadrage initial sur trépied vers la travée centrale du pont terminé, préservant la géométrie exacte et la cohérence de la perspective, rendu d'objectif cinématographique 28 mm avec un léger zoom numérique.
-ÉTAPE : cinématographique
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/361b9647690cee2120a3ac2294478853/thumbnails/thumbnail.jpg" width="600" alt="Zoom cinématographique sur la construction d'un pont">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4959)**
-
-**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2056078011431293273) | **Published:** May 17, 2026
-
----
-### Stomp de mécha géant dans une mégapole
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo cinématographique à grande échelle montrant un mécha militaire massif détruisant une ville côtière à chaque pas durant l'heure dorée.
-
-#### 📝 Prompt
-
-```
-Vidéo cinématographique photoréaliste de 6 secondes, ultra-détaillée en 8K, filmée en IMAX 70mm.
-
-Un mécha militaire colossal de 200 mètres de haut, lourdement blindé en gris acier patiné avec des panneaux d'accentuation orange et bleu, avance lentement en piétinant une mégapole côtière tentaculaire. La caméra commence par un plan de suivi aérien spectaculaire en contre-plongée, tournant autour du robot géant alors que son énorme pied droit descend avec une force terrifiante.
-
-Des ondes de choc massives éclatent à l'impact — les gratte-ciel en béton volent en éclats comme du verre, des explosions de poussière, de débris et de feu s'élèvent violemment au ralenti. D'épais nuages de fumée et de béton pulvérisé tourbillonnent autour des jambes du robot. Ses puissantes articulations hydrauliques sifflent et luisent sous l'effet de la chaleur alors qu'il fait un nouveau pas qui fait trembler la terre.
-
-Le torse et la tête du robot restent imposants et stables, les antennes et les systèmes d'armes sont visibles sur fond de ciel bleu éclatant. La lumière de l'heure dorée crée des rayons divins spectaculaires à travers les nuages de poussière, des reflets d'objectif et un éclairage volumétrique. De minuscules avions de chasse passent en trombe au loin pour donner une idée de l'échelle.
-
-Physique hyper-réaliste, détails mécaniques complexes, étalonnage cinématographique, atmosphère intense, échelle épique, réalisme digne de National Geographic, filmé avec une ARRI Alexa 65 et des objectifs anamorphiques, léger grain de pellicule, 24fps.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/beb3375cb0d3e7ae96acf845aec1f9ec/thumbnails/thumbnail.jpg" width="600" alt="Stomp de mécha géant dans une mégapole">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4952)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2056044677196083483) | **Published:** May 17, 2026
-
----
-### Prompt vidéo : Femme chinoise faisant des pompes
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt vidéo cinématographique montrant une femme chinoise faisant des pompes avec un sourire timide dans une salle de sport.
-
-#### 📝 Prompt
-
-```
-Faisant des pompes, souriant timidement.
-
-Une jeune femme chinoise joyeuse aux longs cheveux bruns raides et au maquillage naturel, portant un débardeur beige à fines bretelles, en position de planche sur un tapis bleu dans une salle de sport lumineuse. Arrière-plan avec miroirs et équipements, lumière naturelle douce, style photographie éditoriale, photoréaliste, sourire chaleureux, haute précision, composition cinématographique.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/174e50a1d95e26351b9d188a4d702d48/thumbnails/thumbnail.jpg" width="600" alt="Prompt vidéo : Femme chinoise faisant des pompes">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4962)**
-
-**Author:** [蛋仔](https://x.com/ddan_zai) | **Source:** [Link](https://x.com/ddan_zai/status/2056032348282802546) | **Published:** May 17, 2026
-
----
-### Transformation puissante entre un tigre et une colombe
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo cinématographique pour Grok Imagine représentant un tigre puissant et une magnifique colombe volant ensemble dans une scène de transformation symbolique.
-
-#### 📝 Prompt
-
-```
-GÉNÉRER UNE TRANSFORMATION D'IMAGE EN UN tigre puissant avec une magnifique colombe volant près du tigre. MIRACLE COLOMBIEN AVEC LE TIGRE ET LA COLOMBE.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e6951a594ebb2e6cb3eff80e89bf3aa/thumbnails/thumbnail.jpg" width="600" alt="Transformation puissante entre un tigre et une colombe">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4965)**
-
-**Author:** [Jose gutierrez](https://x.com/hoccegutierrez) | **Source:** [Link](https://x.com/hoccegutierrez/status/2056024739643064504) | **Published:** May 17, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2233,6 +2214,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-26T04:23:02.568Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-26T16:07:00.443Z</sub>
 
 </div>
