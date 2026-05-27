@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **1661** |
+| 📝 提示词总数 | **1670** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-05-27** |
 
@@ -189,6 +189,158 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 月光下的彩绘玻璃仪式
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段详细的视频提示词，描绘了一位女性在满月下升起，周围环绕着彩绘玻璃、星光以及日落的余晖。
+
+#### 📝 提示词
+
+```
+在满月的注视下，她缓缓升起。彩绘玻璃与星光交织，天空中仍残留着日落的最后一抹余晖。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cce432155a0d1eef6ea64c07586db35c/thumbnails/thumbnail.jpg" width="600" alt="月光下的彩绘玻璃仪式">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5330)**
+
+**作者:** [DuBoseJen](https://x.com/DuBosefire) | **来源:** [Link](https://x.com/DuBosefire/status/2059492955270828342) | **发布时间:** May 27, 2026
+
+---
+### Cybernetic Space 书籍推广
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一个以太空为背景的创意书籍广告视频提示词，包含旋转的金色 Starlink 卫星和赛博格套装变形效果。
+
+#### 📝 提示词
+
+```
+通过双手在身前展示这本书来进行广告宣传。背景设定在太空。Starlink 卫星伴随着金光旋转，套装呈现出赛博风格的辉光。Akinari Tomimasu 的标志闪烁并赛博化。最后，它变形为一个伴随着强烈闪光的赛博机器人。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dea8f2476897ef9f1f5915b1de8a4a11/thumbnails/thumbnail.jpg" width="600" alt="Cybernetic Space 书籍推广">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5332)**
+
+**作者:** [富増章成🌐のんびり哲学たまにマンガ](https://x.com/thomasaqnya) | **来源:** [Link](https://x.com/thomasaqnya/status/2059344772696096801) | **发布时间:** May 26, 2026
+
+---
+### 动态火箭发射动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 将指定的火箭图像制作成电影级的发射序列动画，包含逼真的橙色火焰、摄像机运动以及特定的品牌细节。
+
+#### 📝 提示词
+
+```
+将所提供图像中的火箭制作成从发射台升空的动画。火箭为白色，带有红色鼻锥，侧面印有“BG”字样，喷射出明亮的橙色火焰。包含摄像机运动的动态发射序列。
+```
+
+<img src="https://cms-assets.youmind.com/media/1779871303352_3fau0d_HJQ-hgNWoAAkFaH.jpg" width="600" alt="动态火箭发射动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5327)**
+
+**作者:** [Number-One-AI-Fanboy](https://x.com/Number1AIFanboy) | **来源:** [Link](https://x.com/Number1AIFanboy/status/2059340120499650592) | **发布时间:** May 26, 2026
+
+---
+### 奇幻花丛小屋草地动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个详细的提示词，用于创作一段怀旧的手绘动画，描绘一个小女孩在阳光明媚、蝴蝶与鲜花环绕的草地上玩耍，采用柔和的粉彩色调和梦幻般的渐变效果。
+
+#### 📝 提示词
+
+```
+创作一个场景：在一个阳光明媚的春日早晨，一个小女孩站在布满鲜花的小屋旁，在蝴蝶的环绕下快乐地挥手。画面采用奇幻的手绘风格，色调柔和素雅，如粉蓝色、柔绿色和奶油白。融入极简细节、细腻纹理和梦幻渐变，营造出舒适宁静的氛围。聚焦于奇幻元素，如迷人的房屋、精致的树木和灵动的角色。构图应引人入胜且充满怀旧感，非常适合故事讲述或儿童插画。创作一个场景：在一个温暖的午后，一个小男孩骑着自行车沿着安静的乡村小路行驶，清脆地摇着铃铛，花瓣在空中飘落。画面采用奇幻的手绘风格，色调柔和素雅，如粉蓝色、柔绿色和奶油白。融入极简细节、细腻纹理和梦幻渐变，营造出舒适宁静的氛围。聚焦于奇幻元素，如迷人的房屋、精致的树木和灵动的角色。构图应引人入胜且充满怀旧感，非常适合故事讲述或儿童插画。创作一个场景：在柔和的晨光下，一只顽皮的小狗站在舒适木屋旁的草地上，追逐着漂浮的肥皂泡。画面采用奇幻的手绘风格，色调柔和素雅，如粉蓝色、柔绿色和奶油白。融入极简细节、细腻纹理和梦幻渐变，营造出舒适宁静的氛围。聚焦于奇幻元素，如迷人的房屋、精致的树木和灵动的角色。构图应引人入胜且充满怀旧感，非常适合故事讲述或儿童插画。创作一个场景：在一个宁静的金色午后，一个小女孩坐在乡村小屋旁精致的苹果树下，为一群好奇的鸟儿朗读。画面采用奇幻的手绘风格，色调柔和素雅，如粉蓝色、柔绿色和奶油白。融入极简细节、细腻纹理和梦幻渐变，营造出舒适宁静的氛围。聚焦于奇幻元素，如迷人的房屋、精致的树木和灵动的角色。构图应引人入胜且充满怀旧感，非常适合故事讲述或儿童插画。创作一个场景：在一个微风习习的春日傍晚，两个快乐的孩子站在闪烁的小溪桥边，一起放飞纸船。画面采用奇幻的手绘风格，色调柔和素雅，如粉蓝色、柔绿色和奶油白。融入极简细节、细腻纹理和梦幻渐变，营造出舒适宁静的氛围。聚焦于奇幻元素，如迷人的房屋、精致的树木和灵动的角色。构图应引人入胜且充满怀旧感，非常适合故事讲述或儿童插画。创作一个场景：在日出时分，一只小兔子站在高大柔和的树木下，窗户圆圆的小屋旁，提着一篮鲜花回家。画面采用奇幻的手绘风格，色调柔和素雅，如粉蓝色、柔绿色和奶油白。融入极简细节、细腻纹理和梦幻渐变，营造出舒适宁静的氛围。聚焦于奇幻元素，如迷人的房屋、精致的树木和灵动的角色。构图应引人入胜且充满怀旧感，非常适合故事讲述或儿童插画。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a6e8cb3c32ff689cb5b2f87d88c6e1f6/thumbnails/thumbnail.jpg" width="600" alt="奇幻花丛小屋草地动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5326)**
+
+**作者:** [Syed Abuthahir ∞](https://x.com/abulu8) | **来源:** [Link](https://x.com/abulu8/status/2059327599189561498) | **发布时间:** May 26, 2026
+
+---
+### 16:9 横屏场景重构
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 将现有场景扩展并重构为电影级 16:9 宽高比的技术指令。
+
+#### 📝 提示词
+
+```
+将整个场景重构为宽屏横向视图，在保持所有关键元素和细节的同时，将构图扩展并平衡至 16:9 宽高比。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f046ac0e453997fb6d5bb2d488d26e08/thumbnails/thumbnail.jpg" width="600" alt="16:9 横屏场景重构">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5325)**
+
+**作者:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **来源:** [Link](https://x.com/PhilipC34457079/status/2059246823131234465) | **发布时间:** May 26, 2026
+
+---
+### 虹彩发光矢车菊视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于生成虹彩矢车菊视频的诗意提示词，营造出柔和光影与梦幻、神奇的氛围。
+
+#### 📝 提示词
+
+```
+虹彩矢车菊在梦幻的薄雾中柔和地发光……轻柔的光影低语，静谧的魔法流转。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f2fdb3f009fe0424b239cefc61f9ee13/thumbnails/thumbnail.jpg" width="600" alt="虹彩发光矢车菊视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5328)**
+
+**作者:** [Stella 𝕏](https://x.com/StellaGrokStar) | **来源:** [Link](https://x.com/StellaGrokStar/status/2059233246882497000) | **发布时间:** May 26, 2026
+
+---
+### 赛博朋克城市中的银龙
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一段动漫风格的视频提示词，描绘了一条银龙在霓虹闪烁的未来城市中翱翔并化作云雾的场景。
+
+#### 📝 提示词
+
+```
+日本动漫风格，赛博朋克全技术感，学园都市夜景，未来感巨型建筑与霓虹灯街道，高科技学园都市氛围，一条银龙在风中自由飞翔并化作云雾
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b4a9db777115f4ff8e44e50b8d60f7f3/thumbnails/thumbnail.jpg" width="600" alt="赛博朋克城市中的银龙">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5329)**
+
+**作者:** [Apple🌏🍏👑](https://x.com/makoto_so) | **来源:** [Link](https://x.com/makoto_so/status/2059158008010306006) | **发布时间:** May 26, 2026
+
+---
+### 赛博朋克学院的雨中邂逅
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一段关于两个角色在雨中未来感学院场景下邂逅的电影感视频提示词，采用动漫美学风格。
+
+#### 📝 提示词
+
+```
+日本动漫风格，赛博朋克全技术感，学院都市夜景，未来感巨型建筑与霓虹灯街道，高科技学院都市氛围，多雨的秋天，身穿旧式制服的男女正在邂逅
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ec9ffa236395cf5240fa175ec2428bb3/thumbnails/thumbnail.jpg" width="600" alt="赛博朋克学院的雨中邂逅">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5331)**
+
+**作者:** [Apple🌏🍏👑](https://x.com/makoto_so) | **来源:** [Link](https://x.com/makoto_so/status/2059156968338813270) | **发布时间:** May 26, 2026
+
+---
 ### 电影级月光海岸烈火
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +358,25 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5288)**
 
 **作者:** [DuBoseJen](https://x.com/DuBosefire) | **来源:** [Link](https://x.com/DuBosefire/status/2059151359857877311) | **发布时间:** May 26, 2026
+
+---
+### 第三只眼赛博改造
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 将赛博角色进行改造，使其拥有第三只眼以及充满知识的琥珀色胶囊。
+
+#### 📝 提示词
+
+```
+对赛博人形角色进行改造，使其双眼位置发生位移：一只眼睛移至额头作为第三只眼，另一只眼睛移至胸前。两只眼睛均变为巨大的发光琥珀色胶囊，其中蕴含着所有知识，并伴随着旋转的……
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2f77cba4ce74aa2fee5eccb3eab115f1/thumbnails/thumbnail.jpg" width="600" alt="第三只眼赛博改造">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5324)**
+
+**作者:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **来源:** [Link](https://x.com/PhilipC34457079/status/2059143047237992850) | **发布时间:** May 26, 2026
 
 ---
 ### 赛博朋克赏金猎人：霓虹追逐
@@ -1969,190 +2140,6 @@ Hi Grok，你能把这张图片画上皇冠，并在它的鼻孔和耳朵里插�
 **作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **来源:** [Link](https://x.com/clemensilverio/status/2056543882926571565) | **发布时间:** May 19, 2026
 
 ---
-### 缓慢面部推镜头与对话
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于缓慢推镜头至角色面部的提示词，同时角色正在讲述关于不公正的引语。
-
-#### 📝 提示词
-
-```
-@image1 缓慢的摄像机推镜头，捕捉她的面部表情。她说：“实施不公正行为的人或组织，往往是在暗中进行的……”
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f218498f39f82642925bf991fa07fdfd/thumbnails/thumbnail.jpg" width="600" alt="缓慢面部推镜头与对话">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5055)**
-
-**作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **来源:** [Link](https://x.com/clemensilverio/status/2056531257048092685) | **发布时间:** May 19, 2026
-
----
-### 白狮机甲咆哮
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份详尽的 17 秒电影级脚本，讲述了一台白狮变形机甲与一名女性操作员在山顶咆哮的场景。
-
-#### 📝 提示词
-
-```
-电影级写实 17 秒史诗视频，顶级变形金刚科幻赛博朋克杰作，超高细节 8K 分辨率，IMAX 品质。
-
-一台巨大的白狮变形机甲（巨大的机械白狮，拥有飘逸且细节丰富的白色机械鬃毛，红白灰重型战斗装甲，发光的黄色双眼，锋利的尖刺，复杂的液压关节，带有战斗磨损的金属质感）傲然屹立在云端之上的岩石山峰。一位美丽的赛博朋克女性操作员，留着飘逸的银白色长发，身穿带有霓虹灯装饰的红白战术战斗装备，站在机甲腿旁，手持一把大型未来感突击步枪。机甲背部悬挂的挪威国旗在风中剧烈飘动。
-
-场景编排（平滑、电影级运镜）
-0-3 秒：戏剧性的低角度广角镜头，缓慢向上倾斜，展现出狮形机甲的宏伟规模以及坚定站立的女性。
-3-7 秒：狮形机甲突然张开巨大的下颚，发出强有力的咆哮。双眼闪烁着强烈的亮黄色光芒，口腔内部发出红光，机械牙齿和舌头清晰可见。强风剧烈吹动着女性的头发和挪威国旗。
-7-11 秒：动态缓慢推近镜头，配合围绕狮子面部的细微环绕运镜。
-11-17 秒：咆哮狮头的极度特写——高度细节化的白色鬃毛、发光的双眼、复杂的面部装甲板、牙齿和咆哮的嘴部。女性出现在画面右侧边缘，抬头仰望机甲。
-
-摄影：专业电影级运镜——缓慢推近、细微环绕、咆哮时的轻微戏剧性抖动。
-环境：史诗般的雪山，山谷中遥远的未来城市，体积云，耶稣光，大气霾，飞扬的粒子。
-
-风格：超写实，复杂的金属反射和纹理，赛博朋克霓虹光效，动态光影，逼真的风力模拟，镜头光晕，细微的胶片颗粒感，使用 Arri Alexa 65 + 变形镜头拍摄，电影级调色（冷色调 + 暖红色高光），史诗级规模，24fps，丝滑流畅的动态 --ar 16:9 --stylize 180 --v 6
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b00a5cef4ab9f63432a942c4335282b3/thumbnails/thumbnail.jpg" width="600" alt="白狮机甲咆哮">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5048)**
-
-**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **来源:** [Link](https://x.com/ThoughCreator/status/2056527231418282285) | **发布时间:** May 19, 2026
-
----
-### 电影感牛仔对话
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个详细的视频提示词，用于设定西部背景下多名角色之间的特定对话场景。
-
-#### 📝 提示词
-
-```
-让右侧的 Leola 询问 Faye 真正的牛仔在哪里，并让两位英俊、稍显成熟的男性牛仔说：我们在这儿呢，姑娘们！
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/058258b42f1e3133a715ce697e7f0a89/thumbnails/thumbnail.jpg" width="600" alt="电影感牛仔对话">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5002)**
-
-**作者:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **来源:** [Link](https://x.com/Soaring2TheMoon/status/2056504322095980830) | **发布时间:** May 18, 2026
-
----
-### 充满阳刚之气的牛仔与闪烁文字
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个视频提示词，引导模型调整角色的阳刚气质，并在结尾添加特定的动画闪烁文字。
-
-#### 📝 提示词
-
-```
-让牛仔看起来更具阳刚之气，然后在最后一页用闪烁的字体写上 Faye
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a4cbdcb5e9b5cb3775a98ff0f054e307/thumbnails/thumbnail.jpg" width="600" alt="充满阳刚之气的牛仔与闪烁文字">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5003)**
-
-**作者:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **来源:** [Link](https://x.com/Soaring2TheMoon/status/2056501407734206619) | **发布时间:** May 18, 2026
-
----
-### 手持抖动镜头变焦人像
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个电影感的运动提示词，用于手持、抖动的镜头变焦，聚焦于女性面部，捕捉她露出温柔微笑的瞬间。
-
-#### 📝 提示词
-
-```
-镜头缓慢推向她的脸部，手持镜头抖动，女性温柔地微笑
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f178a9dea58799bf74ca5e7e70eeacb9/thumbnails/thumbnail.jpg" width="600" alt="手持抖动镜头变焦人像">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4999)**
-
-**作者:** [Patrick Jordan](https://x.com/gyjfbngcv6) | **来源:** [Link](https://x.com/gyjfbngcv6/status/2056496860093710843) | **发布时间:** May 18, 2026
-
----
-### 阳光下的欢乐庆典
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段电影质感的视频提示词：一名男子在阳光下欢快跳跃，周围环绕着飞鸟，妻子跑过来拥抱他。
-
-#### 📝 提示词
-
-```
-他决定展现快乐，向上跳跃并挥动双手，阳光直射在他身上，鸟儿在他周围飞翔！！他的妻子跑过来拥抱他！！！
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/19c5a88a9522632a2eb3dbe2c31729a1/thumbnails/thumbnail.jpg" width="600" alt="阳光下的欢乐庆典">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4998)**
-
-**作者:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **来源:** [Link](https://x.com/CindyWeigapn6/status/2056478511641010280) | **发布时间:** May 18, 2026
-
----
-### John Wick 风格猫咪动作场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个高对比度、超细节的动作提示词，展示了一只 John Wick 风格的猫咪 Agent，处于爆炸瞬间的时间静止序列中，并配有环绕运镜。
-
-#### 📝 提示词
-
-```
-时间在市中心街道的爆炸瞬间静止，碎片悬浮，摄像机环绕着一只处于跳跃中且静止的 Agent 猫咪 —— 高对比度，照片级真实感，4K 超高清细节。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/437e7d0111ea1ac51d93f986814d875b/thumbnails/thumbnail.jpg" width="600" alt="John Wick 风格猫咪动作场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4996)**
-
-**作者:** [Mr Das](https://x.com/MrDasOnX) | **来源:** [Link](https://x.com/MrDasOnX/status/2056368161361158235) | **发布时间:** May 18, 2026
-
----
-### 赛博武士动力装甲视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个超精细的电影级提示词，用于制作 6 秒竖屏视频，展示身着变形机甲的赛博武士。
-
-#### 📝 提示词
-
-```
-6 秒超精细电影级视频，融合变形金刚与赛博朋克科幻风格。一位美丽的亚裔女性赛博武士身着重型变形动力装甲，气势磅礴地站在中央。她那光滑的黑银色机甲上，闪烁着橙金色的龙形能量线，在胸部、肩部和腿部脉动流转。配有精致的狮龙肩甲、装饰着深红色玫瑰与机械饰品的华丽头盔，以及长长的飘逸斗篷。她戏剧性地拔出并点燃了一把巨大的发光能量武士刀，刀身上环绕着火焰纹路。装甲板随着火花和液压运动进行机械式位移与变形。史诗般的慢动作动作序列：她旋转、挥砍，能量在她周围爆发。背景：庞大的赛博士兵军队、带有发光符号的巨大红色战旗、弥漫着烟雾与霓虹光影的反乌托邦战场，以及盘旋的无人机。电影级运镜：低角度环绕拍摄，戏剧性光效，体积光，火花与能量特效。超写实，照片级真实感，杰作，最佳画质，8K，强烈的科幻氛围 --ar 9:16 --motion 3
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e833ca7a336a095a5d09a0fecd6d220f/thumbnails/thumbnail.jpg" width="600" alt="赛博武士动力装甲视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=4995)**
-
-**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **来源:** [Link](https://x.com/ThoughCreator/status/2056365724461941119) | **发布时间:** May 18, 2026
-
----
-### Sinatra 与 Yogi Berra 的披萨晚餐
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段电影质感的视频提示词，画面中 Frank Sinatra 和 Yogi Berra 身着设计师西装，在餐桌前享用披萨和啤酒。
-
-#### 📝 提示词
-
-```
-他们身着意大利设计师西装，Frank Sinatra 与 Yogi Berra 聚在一起。随后，他们坐在桌前，桌上摆放着披萨和 Peroni 啤酒……
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ff77132e761ee73566ea04caea2630bf/thumbnails/thumbnail.jpg" width="600" alt="Sinatra 与 Yogi Berra 的披萨晚餐">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5001)**
-
-**作者:** [the moose 55](https://x.com/themoose551) | **来源:** [Link](https://x.com/themoose551/status/2056339167005573434) | **发布时间:** May 18, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2214,6 +2201,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-05-27T04:33:15.054Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-05-27T16:11:16.726Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1661** |
+| 📝 Total Prompts | **1670** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-27** |
 
@@ -189,6 +189,158 @@ Una mistica e nobile Valchiria celestiale, una donna dignitosa e bellissima con 
 
 > 📝 Sorted by publish date (newest first)
 
+### Rituale delle vetrate al chiaro di luna
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video dettagliato che ritrae una donna che si solleva sotto la luna piena, tra vetrate colorate, luce stellare e le tonalità del tramonto.
+
+#### 📝 Prompt
+
+```
+Sotto lo sguardo della luna piena, lei si solleva. Vetrate e luce stellare, dove gli ultimi colori del tramonto indugiano ancora nel cielo.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cce432155a0d1eef6ea64c07586db35c/thumbnails/thumbnail.jpg" width="600" alt="Rituale delle vetrate al chiaro di luna">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5330)**
+
+**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2059492955270828342) | **Published:** May 27, 2026
+
+---
+### Promozione del libro Cybernetic Space
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt video creativo per la pubblicità di un libro ambientato nello spazio, con satelliti Starlink dorati che vorticano e una trasformazione in tuta cibernetica.
+
+#### 📝 Prompt
+
+```
+Pubblicizza tenendo questo libro con entrambe le mani davanti a te. Lo sfondo è lo spazio profondo. I satelliti Starlink vorticano con una luce dorata e la tuta brilla in uno stile cyber. Il logo di Akinari Tomimasu lampeggia e diventa cibernetico. Infine, si trasforma in un androide cyber con intensi bagliori.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dea8f2476897ef9f1f5915b1de8a4a11/thumbnails/thumbnail.jpg" width="600" alt="Promozione del libro Cybernetic Space">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5332)**
+
+**Author:** [富増章成🌐のんびり哲学たまにマンガ](https://x.com/thomasaqnya) | **Source:** [Link](https://x.com/thomasaqnya/status/2059344772696096801) | **Published:** May 26, 2026
+
+---
+### Animazione dinamica del lancio di un razzo spaziale
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Anima un'immagine specifica di un razzo in una sequenza di lancio cinematografica, caratterizzata da fiamme arancioni realistiche, movimento della telecamera e dettagli specifici del brand.
+
+#### 📝 Prompt
+
+```
+Anima l'esatto razzo presente nell'immagine fornita mentre decolla dalla rampa di lancio. Razzo bianco con punta rossa, scritta 'BG' sul lato e fiamme arancioni brillanti. Sequenza di lancio dinamica con movimento della telecamera.
+```
+
+<img src="https://cms-assets.youmind.com/media/1779871303352_3fau0d_HJQ-hgNWoAAkFaH.jpg" width="600" alt="Animazione dinamica del lancio di un razzo spaziale">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5327)**
+
+**Author:** [Number-One-AI-Fanboy](https://x.com/Number1AIFanboy) | **Source:** [Link](https://x.com/Number1AIFanboy/status/2059340120499650592) | **Published:** May 26, 2026
+
+---
+### Animazione stravagante di un cottage fiorito in un prato
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt dettagliato per creare un'animazione nostalgica disegnata a mano di una bambina in un prato soleggiato pieno di farfalle e fiori, utilizzando tenui toni pastello e sfumature da sogno.
+
+#### 📝 Prompt
+
+```
+Crea una bambina che sta fuori da un minuscolo cottage coperto di fiori in un prato soleggiato, salutando felicemente mentre le farfalle danzano intorno a lei durante una luminosa mattina di primavera, in una scena stravagante disegnata a mano con toni tenui e delicati come blu pastello, verdi soffusi e bianchi crema. Incorpora dettagli minimalisti, texture sottili e sfumature da sogno per un'atmosfera accogliente e serena. Concentrati su elementi stravaganti come case affascinanti, alberi delicati e personaggi giocosi. La composizione dovrebbe risultare invitante, nostalgica e perfetta per la narrazione o per illustrazioni per bambini. Crea un bambino che va in bicicletta lungo una tranquilla stradina di villaggio fiancheggiata da minuscole case color pastello, suonando allegramente il campanello mentre i petali fluttuano nell'aria in un caldo pomeriggio, in una scena stravagante disegnata a mano con toni tenui e delicati come blu pastello, verdi soffusi e bianchi crema. Incorpora dettagli minimalisti, texture sottili e sfumature da sogno per un'atmosfera accogliente e serena. Concentrati su elementi stravaganti come case affascinanti, alberi delicati e personaggi giocosi. La composizione dovrebbe risultare invitante, nostalgica e perfetta per la narrazione o per illustrazioni per bambini. Crea un cucciolo giocoso che sta in un giardino erboso accanto a un'accogliente casa di legno, inseguendo bolle di sapone fluttuanti sotto la soffice luce del mattino, in una scena stravagante disegnata a mano con toni tenui e delicati come blu pastello, verdi soffusi e bianchi crema. Incorpora dettagli minimalisti, texture sottili e sfumature da sogno per un'atmosfera accogliente e serena. Concentrati su elementi stravaganti come case affascinanti, alberi delicati e personaggi giocosi. La composizione dovrebbe risultare invitante, nostalgica e perfetta per la narrazione o per illustrazioni per bambini. Crea una ragazzina seduta sotto un delicato melo vicino a un minuscolo cottage di campagna che legge ad alta voce a un cerchio di uccellini curiosi durante un tranquillo pomeriggio dorato, in una scena stravagante disegnata a mano con toni tenui e delicati come blu pastello, verdi soffusi e bianchi crema. Incorpora dettagli minimalisti, texture sottili e sfumature da sogno per un'atmosfera accogliente e serena. Concentrati su elementi stravaganti come case affascinanti, alberi delicati e personaggi giocosi. La composizione dovrebbe risultare invitante, nostalgica e perfetta per la narrazione o per illustrazioni per bambini. Crea due bambini allegri in piedi accanto a un ponticello sopra un ruscello scintillante che lanciano insieme barchette di carta durante una soffice e ventilata serata primaverile, in una scena stravagante disegnata a mano con toni tenui e delicati come blu pastello, verdi soffusi e bianchi crema. Incorpora dettagli minimalisti, texture sottili e sfumature da sogno per un'atmosfera accogliente e serena. Concentrati su elementi stravaganti come case affascinanti, alberi delicati e personaggi giocosi. La composizione dovrebbe risultare invitante, nostalgica e perfetta per la narrazione o per illustrazioni per bambini. Crea un piccolo coniglio fuori da un cottage con finestra rotonda nascosto sotto alti alberi gentili, che porta a casa un cesto di fiori freschi all'alba, in una scena stravagante disegnata a mano con toni tenui e delicati come blu pastello, verdi soffusi e bianchi crema. Incorpora dettagli minimalisti, texture sottili e sfumature da sogno per un'atmosfera accogliente e serena. Concentrati su elementi stravaganti come case affascinanti, alberi delicati e personaggi giocosi. La composizione dovrebbe risultare invitante, nostalgica e perfetta per la narrazione o per illustrazioni per bambini.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a6e8cb3c32ff689cb5b2f87d88c6e1f6/thumbnails/thumbnail.jpg" width="600" alt="Animazione stravagante di un cottage fiorito in un prato">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5326)**
+
+**Author:** [Syed Abuthahir ∞](https://x.com/abulu8) | **Source:** [Link](https://x.com/abulu8/status/2059327599189561498) | **Published:** May 26, 2026
+
+---
+### Ricomposizione scena in formato panoramico 16:9
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Istruzione tecnica per espandere e ricomporre una scena esistente in un formato cinematografico 16:9.
+
+#### 📝 Prompt
+
+```
+Ricomponi l'intera scena in una vista panoramica orizzontale, espandendo e bilanciando la composizione in formato 16:9, preservando al contempo tutti gli elementi e i dettagli chiave.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f046ac0e453997fb6d5bb2d488d26e08/thumbnails/thumbnail.jpg" width="600" alt="Ricomposizione scena in formato panoramico 16:9">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5325)**
+
+**Author:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **Source:** [Link](https://x.com/PhilipC34457079/status/2059246823131234465) | **Published:** May 26, 2026
+
+---
+### Video di fiordalisi iridescenti luminosi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt poetico per generare un video di fiordalisi iridescenti con un'illuminazione soffusa e un'atmosfera magica e onirica.
+
+#### 📝 Prompt
+
+```
+Fiordalisi iridescenti che brillano dolcemente in una foschia da sogno… Sussurri di luce gentile e magia silenziosa.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f2fdb3f009fe0424b239cefc61f9ee13/thumbnails/thumbnail.jpg" width="600" alt="Video di fiordalisi iridescenti luminosi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5328)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2059233246882497000) | **Published:** May 26, 2026
+
+---
+### Drago d'argento in una città cyberpunk
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt video in stile anime che ritrae un drago d'argento che vola attraverso una città futuristica illuminata dai neon e si trasforma in nuvole.
+
+#### 📝 Prompt
+
+```
+Stile anime giapponese, cyberpunk full technica, vista notturna di una città accademica, edifici futuristici giganti e paesaggio urbano illuminato dai neon, atmosfera da città accademica high-tech, un drago d'argento che vola liberamente nel vento trasformandosi in nuvole
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b4a9db777115f4ff8e44e50b8d60f7f3/thumbnails/thumbnail.jpg" width="600" alt="Drago d'argento in una città cyberpunk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5329)**
+
+**Author:** [Apple🌏🍏👑](https://x.com/makoto_so) | **Source:** [Link](https://x.com/makoto_so/status/2059158008010306006) | **Published:** May 26, 2026
+
+---
+### Incontro sotto la pioggia alla Cyberpunk Academy
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt video per un incontro cinematografico tra due personaggi in un'accademia futuristica e piovosa, con un'estetica anime.
+
+#### 📝 Prompt
+
+```
+Stile anime giapponese, cyberpunk full technica, vista notturna di una città accademica, edifici futuristici giganti e paesaggio urbano illuminato dai neon, atmosfera da città accademica high-tech, autunno piovoso, un uomo e una donna in vecchie uniformi che si incontrano
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ec9ffa236395cf5240fa175ec2428bb3/thumbnails/thumbnail.jpg" width="600" alt="Incontro sotto la pioggia alla Cyberpunk Academy">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5331)**
+
+**Author:** [Apple🌏🍏👑](https://x.com/makoto_so) | **Source:** [Link](https://x.com/makoto_so/status/2059156968338813270) | **Published:** May 26, 2026
+
+---
 ### Scena cinematografica: riva al chiaro di luna con fuoco
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +358,25 @@ Fuoco rosso e fiamme dorate. Due lame, un unico destino. Victoria ed Edmund camm
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5288)**
 
 **Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2059151359857877311) | **Published:** May 26, 2026
+
+---
+### Trasformazione cibernetica del terzo occhio
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Trasforma un personaggio cibernetico includendo un terzo occhio e capsule d'ambra piene di conoscenza.
+
+#### 📝 Prompt
+
+```
+Trasforma la figura umanoide cibernetica in modo che i suoi due occhi cambino posizione: uno si sposta sulla fronte come terzo occhio e l'altro scende sul petto. Entrambi gli occhi diventano grandi capsule d'ambra luminose piene di ogni conoscenza, che vorticano con...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2f77cba4ce74aa2fee5eccb3eab115f1/thumbnails/thumbnail.jpg" width="600" alt="Trasformazione cibernetica del terzo occhio">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5324)**
+
+**Author:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **Source:** [Link](https://x.com/PhilipC34457079/status/2059143047237992850) | **Published:** May 26, 2026
 
 ---
 ### Caccia al neon: Cyberpunk Bounty Hunter
@@ -1969,190 +2140,6 @@ borchie in ottone e corde di cuoio fissano la pelle al tamburo, nebbia e fumo di
 **Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2056543882926571565) | **Published:** May 19, 2026
 
 ---
-### Zoom facciale lento con dialogo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per un lento zoom della telecamera sul volto di un personaggio mentre recita una citazione sull'ingiustizia.
-
-#### 📝 Prompt
-
-```
-@image1 lento zoom della telecamera che cattura l'espressione del suo volto. Lei dice: 'La persona o l'organizzazione che commette un atto di ingiustizia lo fa spesso in segreto...'
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f218498f39f82642925bf991fa07fdfd/thumbnails/thumbnail.jpg" width="600" alt="Zoom facciale lento con dialogo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5055)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2056531257048092685) | **Published:** May 19, 2026
-
----
-### Ruggito del Mech Leone Bianco
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Una sceneggiatura cinematografica completa di 17 secondi per un mech Transformer a forma di leone bianco che ruggisce sulla cima di una montagna accanto a un'operatrice.
-
-#### 📝 Prompt
-
-```
-Video epico cinematografico fotorealistico di 17 secondi, capolavoro sci-fi cyberpunk in stile Transformers di livello superiore, 8K iper-dettagliato, qualità IMAX.
-
-Un imponente mech Transformer leone bianco (colossale leone robotico bianco con fluente criniera meccanica dettagliata, armatura da battaglia pesante rossa-bianca-grigia, occhi gialli luminosi, punte affilate come rasoi, giunti idraulici intricati, texture metalliche segnate dalla battaglia) domina la cima di una montagna rocciosa sopra le nuvole. Una bellissima operatrice cyberpunk con lunghi capelli fluenti bianco-argento, che indossa un equipaggiamento da combattimento tattico rosso-bianco con accenti neon luminosi, sta accanto alla sua zampa impugnando un grande fucile d'assalto futuristico. La bandiera norvegese attaccata al dorso del mech sventola violentemente nel vento.
-
-Coreografia della scena (movimento fluido e cinematografico)
-0-3s: Drammatica inquadratura dal basso, lenta inclinazione verso l'alto che rivela l'intera scala del mech leone e la donna che sta salda.
-3-7s: Il mech leone spalanca improvvisamente le sue enormi fauci, scatenando un potente ruggito. Gli occhi brillano intensamente di giallo, l'interno della bocca emana un bagliore rosso, denti e lingua meccanici visibili. Un forte vento sferza drammaticamente i capelli della donna e la bandiera norvegese.
-7-11s: Zoom in dinamico e lento combinato con un sottile movimento di rotazione della telecamera verso il volto del leone.
-11-17s: Primissimo piano sulla testa del leone che ruggisce — criniera bianca altamente dettagliata, occhi luminosi, intricate piastre dell'armatura facciale, denti e bocca ruggente. La donna è visibile sul bordo destro dell'inquadratura, mentre guarda verso l'alto il mech.
-
-Telecamera: movimento cinematografico professionale — lento push-in, orbita sottile, leggero tremolio drammatico durante il ruggito.
-Ambiente: epiche montagne innevate, città futuristica in lontananza nella valle, nuvole volumetriche, raggi di luce (god rays), foschia atmosferica, particelle in volo.
-
-Stile: ultra fotorealistico, riflessi e texture metalliche intricate, bagliori neon cyberpunk, illuminazione dinamica, simulazione realistica del vento, lens flare, sottile grana cinematografica, girato con Arri Alexa 65 + lenti anamorfiche, color grading cinematografico (toni freddi + caldi riflessi rossi), scala epica, 24fps, movimento fluido e naturale --ar 16:9 --stylize 180 --v 6
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b00a5cef4ab9f63432a942c4335282b3/thumbnails/thumbnail.jpg" width="600" alt="Ruggito del Mech Leone Bianco">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5048)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2056527231418282285) | **Published:** May 19, 2026
-
----
-### Dialogo cinematografico western
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video dettagliato per impostare una specifica scena di dialogo tra più personaggi in un'ambientazione western.
-
-#### 📝 Prompt
-
-```
-Fai in modo che Leola, sulla destra, chieda a Faye dove siano i veri cowboy; fai dire a due affascinanti cowboy, leggermente più maturi e dal tratto mascolino: eccoci qui, ragazze!
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/058258b42f1e3133a715ce697e7f0a89/thumbnails/thumbnail.jpg" width="600" alt="Dialogo cinematografico western">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5002)**
-
-**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2056504322095980830) | **Published:** May 18, 2026
-
----
-### Cowboy mascolini con testo scintillante
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video che guida il modello a regolare la mascolinità dei personaggi e ad aggiungere uno specifico testo animato scintillante alla fine.
-
-#### 📝 Prompt
-
-```
-Rendi i cowboy un po' più mascolini e, nella pagina finale, aggiungi la scritta "Faye" con lettere scintillanti
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a4cbdcb5e9b5cb3775a98ff0f054e307/thumbnails/thumbnail.jpg" width="600" alt="Cowboy mascolini con testo scintillante">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5003)**
-
-**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2056501407734206619) | **Published:** May 18, 2026
-
----
-### Ritratto con zoom a mano e camera a spalla
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinematografico per uno zoom a mano con effetto camera a spalla, che si concentra sul volto di una donna mentre accenna un dolce sorriso.
-
-#### 📝 Prompt
-
-```
-la camera zooma lentamente sul suo volto, ripresa a mano con effetto tremolante, la donna sorride dolcemente
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f178a9dea58799bf74ca5e7e70eeacb9/thumbnails/thumbnail.jpg" width="600" alt="Ritratto con zoom a mano e camera a spalla">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4999)**
-
-**Author:** [Patrick Jordan](https://x.com/gyjfbngcv6) | **Source:** [Link](https://x.com/gyjfbngcv6/status/2056496860093710843) | **Published:** May 18, 2026
-
----
-### Celebrazione gioiosa sotto la luce del sole
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video cinematografico di un uomo che salta di gioia sotto la luce del sole, circondato da uccelli e da sua moglie che lo abbraccia.
-
-#### 📝 Prompt
-
-```
-Decide di essere felice, salta in alto e solleva le braccia mentre il sole splende direttamente su di lui e gli uccelli gli volano intorno!! E sua moglie corre ad abbracciarlo!!!
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/19c5a88a9522632a2eb3dbe2c31729a1/thumbnails/thumbnail.jpg" width="600" alt="Celebrazione gioiosa sotto la luce del sole">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4998)**
-
-**Author:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **Source:** [Link](https://x.com/CindyWeigapn6/status/2056478511641010280) | **Published:** May 18, 2026
-
----
-### Scena d'azione del gatto in stile John Wick
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt d'azione ad alto contrasto e iper-dettagliato che ritrae un gatto agente in stile John Wick in una sequenza di esplosione a tempo congelato con ripresa a camera orbitante.
-
-#### 📝 Prompt
-
-```
-Il tempo si congela a metà esplosione in una strada del centro, detriti sospesi, la camera orbita attorno a un gatto agente immobile a mezz'aria durante un salto — alto contrasto, fotorealistico, iper-dettagliato in 4K.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/437e7d0111ea1ac51d93f986814d875b/thumbnails/thumbnail.jpg" width="600" alt="Scena d'azione del gatto in stile John Wick">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4996)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2056368161361158235) | **Published:** May 18, 2026
-
----
-### Video dell'armatura Cyber Samurai
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinematografico ultra-dettagliato per un video verticale di 6 secondi con un guerriero cyber-samurai in un'armatura mech in trasformazione.
-
-#### 📝 Prompt
-
-```
-Video cinematografico ultra-dettagliato di 6 secondi, un mix di Transformers e fantascienza cyberpunk di alto livello. Una bellissima guerriera cyber-samurai asiatica indossa una pesante armatura potenziata in trasformazione e si erge con forza al centro della scena. La sua elegante tuta mech nero-argento presenta linee di energia color oro-arancio che pulsano e scorrono su petto, spalle e gambe. Spallacci intricati a forma di leone-drago, elmo decorato con rose rosso scuro e ornamenti meccanici, lungo mantello fluttuante. La guerriera estrae drammaticamente e accende una massiccia katana di energia luminosa con motivi a fiamma vorticosi. Le piastre dell'armatura si spostano meccanicamente e si trasformano con scintille e movimenti idraulici. Sequenza d'azione epica al rallentatore: lei ruota, sferra fendenti, l'energia esplode intorno a lei. Sfondo: un vasto esercito di cyber-soldati, un gigantesco stendardo di guerra rosso con un simbolo luminoso, un campo di battaglia distopico con fumo, accenti neon e droni in volo. Movimento di camera cinematografico: ripresa dal basso a 360 gradi, illuminazione drammatica, raggi di luce volumetrici, scintille, effetti energetici. Iper-realistico, fotorealistico, capolavoro, massima qualità, 8K, intensa atmosfera sci-fi --ar 9:16 --motion 3
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e833ca7a336a095a5d09a0fecd6d220f/thumbnails/thumbnail.jpg" width="600" alt="Video dell'armatura Cyber Samurai">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4995)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2056365724461941119) | **Published:** May 18, 2026
-
----
-### Cena a base di pizza con Sinatra e Yogi Berra
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video cinematografico che ritrae Frank Sinatra e Yogi Berra in abiti firmati mentre gustano pizza e birra a tavola.
-
-#### 📝 Prompt
-
-```
-Indossano abiti italiani firmati, Frank Sinatra e Yogi Berra si uniscono. Successivamente, si siedono a un tavolo con pizza e birre Peroni....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ff77132e761ee73566ea04caea2630bf/thumbnails/thumbnail.jpg" width="600" alt="Cena a base di pizza con Sinatra e Yogi Berra">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5001)**
-
-**Author:** [the moose 55](https://x.com/themoose551) | **Source:** [Link](https://x.com/themoose551/status/2056339167005573434) | **Published:** May 18, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2214,6 +2201,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-27T04:33:31.533Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-27T16:11:34.297Z</sub>
 
 </div>

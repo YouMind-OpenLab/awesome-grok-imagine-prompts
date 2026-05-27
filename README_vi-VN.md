@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1661** |
+| 📝 Total Prompts | **1670** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-27** |
 
@@ -189,6 +189,158 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Nghi thức Kính màu dưới ánh trăng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video chi tiết mô tả một người phụ nữ trỗi dậy dưới ánh trăng tròn, bao quanh bởi kính màu, ánh sao và sắc thái hoàng hôn.
+
+#### 📝 Prompt
+
+```
+Dưới ánh nhìn của trăng tròn, cô ấy trỗi dậy. Kính màu và ánh sao, nơi những sắc màu cuối cùng của hoàng hôn vẫn còn vương vấn trên bầu trời.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cce432155a0d1eef6ea64c07586db35c/thumbnails/thumbnail.jpg" width="600" alt="Nghi thức Kính màu dưới ánh trăng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5330)**
+
+**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2059492955270828342) | **Published:** May 27, 2026
+
+---
+### Quảng bá sách Cybernetic Space
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một video prompt sáng tạo cho quảng cáo sách lấy bối cảnh không gian, với các vệ tinh Starlink vàng óng xoay tròn và màn biến hình bộ đồ điều khiển học.
+
+#### 📝 Prompt
+
+```
+Quảng cáo bằng cách cầm cuốn sách này bằng cả hai tay ở phía trước. Bối cảnh là không gian bên ngoài. Các vệ tinh Starlink xoay tròn với ánh sáng vàng rực rỡ, và bộ đồ phát sáng theo phong cách cyber. Logo của Akinari Tomimasu lóe sáng và trở nên kỹ thuật số hóa. Cuối cùng, nó biến hình thành một android cyber với những tia sáng mạnh mẽ.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dea8f2476897ef9f1f5915b1de8a4a11/thumbnails/thumbnail.jpg" width="600" alt="Quảng bá sách Cybernetic Space">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5332)**
+
+**Author:** [富増章成🌐のんびり哲学たまにマンガ](https://x.com/thomasaqnya) | **Source:** [Link](https://x.com/thomasaqnya/status/2059344772696096801) | **Published:** May 26, 2026
+
+---
+### Hoạt ảnh phóng tên lửa không gian sống động
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Tạo hoạt ảnh cho hình ảnh tên lửa cụ thể thành một chuỗi cảnh phóng điện ảnh, với hiệu ứng ngọn lửa màu cam chân thực, chuyển động camera và các chi tiết thương hiệu cụ thể.
+
+#### 📝 Prompt
+
+```
+Tạo hoạt ảnh cho chính xác tên lửa từ hình ảnh được cung cấp khi đang phóng từ bệ phóng. Tên lửa màu trắng với phần mũi màu đỏ, có chữ 'BG' ở bên hông, cùng ngọn lửa màu cam rực rỡ. Chuỗi cảnh phóng sống động với chuyển động camera.
+```
+
+<img src="https://cms-assets.youmind.com/media/1779871303352_3fau0d_HJQ-hgNWoAAkFaH.jpg" width="600" alt="Hoạt ảnh phóng tên lửa không gian sống động">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5327)**
+
+**Author:** [Number-One-AI-Fanboy](https://x.com/Number1AIFanboy) | **Source:** [Link](https://x.com/Number1AIFanboy/status/2059340120499650592) | **Published:** May 26, 2026
+
+---
+### Hoạt hình Ngôi nhà Hoa thơ mộng trên đồng cỏ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh chi tiết để tạo ra hoạt hình vẽ tay đầy hoài niệm về một cô bé trên đồng cỏ đầy nắng với bướm và hoa, sử dụng tông màu pastel nhẹ nhàng và các dải màu mơ màng.
+
+#### 📝 Prompt
+
+```
+Tạo hình ảnh một cô bé đứng bên ngoài ngôi nhà nhỏ phủ đầy hoa trên đồng cỏ đầy nắng, vẫy tay vui vẻ khi những chú bướm nhảy múa xung quanh vào một buổi sáng mùa xuân tươi sáng trong khung cảnh vẽ tay đầy chất thơ, với các tông màu nhẹ nhàng, trầm lắng như xanh pastel, xanh lá dịu và trắng kem. Kết hợp các chi tiết tối giản, kết cấu tinh tế và các dải màu mơ màng để tạo ra bầu không khí ấm cúng, thanh bình. Tập trung vào các yếu tố kỳ ảo như những ngôi nhà quyến rũ, cây cối mỏng manh và các nhân vật tinh nghịch. Bố cục cần mang lại cảm giác lôi cuốn, hoài niệm và hoàn hảo cho việc kể chuyện hoặc minh họa cho trẻ em. Tạo hình ảnh một cậu bé đạp xe dọc theo con đường làng yên tĩnh với những ngôi nhà nhỏ màu pastel, rung chuông vui vẻ khi những cánh hoa bay lơ lửng trong không trung vào một buổi chiều ấm áp trong khung cảnh vẽ tay đầy chất thơ, với các tông màu nhẹ nhàng, trầm lắng như xanh pastel, xanh lá dịu và trắng kem. Kết hợp các chi tiết tối giản, kết cấu tinh tế và các dải màu mơ màng để tạo ra bầu không khí ấm cúng, thanh bình. Tập trung vào các yếu tố kỳ ảo như những ngôi nhà quyến rũ, cây cối mỏng manh và các nhân vật tinh nghịch. Bố cục cần mang lại cảm giác lôi cuốn, hoài niệm và hoàn hảo cho việc kể chuyện hoặc minh họa cho trẻ em. Tạo hình ảnh một chú cún con tinh nghịch đứng trong khu vườn cỏ bên cạnh ngôi nhà gỗ ấm cúng, đuổi theo những quả bong bóng xà phòng bay lơ lửng dưới ánh nắng buổi sáng dịu nhẹ trong khung cảnh vẽ tay đầy chất thơ, với các tông màu nhẹ nhàng, trầm lắng như xanh pastel, xanh lá dịu và trắng kem. Kết hợp các chi tiết tối giản, kết cấu tinh tế và các dải màu mơ màng để tạo ra bầu không khí ấm cúng, thanh bình. Tập trung vào các yếu tố kỳ ảo như những ngôi nhà quyến rũ, cây cối mỏng manh và các nhân vật tinh nghịch. Bố cục cần mang lại cảm giác lôi cuốn, hoài niệm và hoàn hảo cho việc kể chuyện hoặc minh họa cho trẻ em. Tạo hình ảnh một cô bé ngồi dưới gốc cây táo mỏng manh gần ngôi nhà nhỏ ở nông thôn, đọc sách to cho đàn chim tò mò nghe trong một buổi chiều vàng yên bình trong khung cảnh vẽ tay đầy chất thơ, với các tông màu nhẹ nhàng, trầm lắng như xanh pastel, xanh lá dịu và trắng kem. Kết hợp các chi tiết tối giản, kết cấu tinh tế và các dải màu mơ màng để tạo ra bầu không khí ấm cúng, thanh bình. Tập trung vào các yếu tố kỳ ảo như những ngôi nhà quyến rũ, cây cối mỏng manh và các nhân vật tinh nghịch. Bố cục cần mang lại cảm giác lôi cuốn, hoài niệm và hoàn hảo cho việc kể chuyện hoặc minh họa cho trẻ em. Tạo hình ảnh hai đứa trẻ vui vẻ đứng bên cây cầu nhỏ bắc qua con suối lấp lánh, cùng nhau thả thuyền giấy vào một buổi tối mùa xuân gió nhẹ trong khung cảnh vẽ tay đầy chất thơ, với các tông màu nhẹ nhàng, trầm lắng như xanh pastel, xanh lá dịu và trắng kem. Kết hợp các chi tiết tối giản, kết cấu tinh tế và các dải màu mơ màng để tạo ra bầu không khí ấm cúng, thanh bình. Tập trung vào các yếu tố kỳ ảo như những ngôi nhà quyến rũ, cây cối mỏng manh và các nhân vật tinh nghịch. Bố cục cần mang lại cảm giác lôi cuốn, hoài niệm và hoàn hảo cho việc kể chuyện hoặc minh họa cho trẻ em. Tạo hình ảnh một chú thỏ nhỏ đứng bên ngoài ngôi nhà có cửa sổ tròn nằm dưới những tán cây cao dịu dàng, mang giỏ hoa tươi về nhà vào lúc bình minh trong khung cảnh vẽ tay đầy chất thơ, với các tông màu nhẹ nhàng, trầm lắng như xanh pastel, xanh lá dịu và trắng kem. Kết hợp các chi tiết tối giản, kết cấu tinh tế và các dải màu mơ màng để tạo ra bầu không khí ấm cúng, thanh bình. Tập trung vào các yếu tố kỳ ảo như những ngôi nhà quyến rũ, cây cối mỏng manh và các nhân vật tinh nghịch. Bố cục cần mang lại cảm giác lôi cuốn, hoài niệm và hoàn hảo cho việc kể chuyện hoặc minh họa cho trẻ em.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a6e8cb3c32ff689cb5b2f87d88c6e1f6/thumbnails/thumbnail.jpg" width="600" alt="Hoạt hình Ngôi nhà Hoa thơ mộng trên đồng cỏ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5326)**
+
+**Author:** [Syed Abuthahir ∞](https://x.com/abulu8) | **Source:** [Link](https://x.com/abulu8/status/2059327599189561498) | **Published:** May 26, 2026
+
+---
+### Điều chỉnh khung hình ngang 16:9
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Hướng dẫn kỹ thuật để mở rộng và điều chỉnh khung hình của một cảnh quay hiện có sang tỷ lệ khung hình điện ảnh 16:9.
+
+#### 📝 Prompt
+
+```
+Điều chỉnh lại toàn bộ khung hình thành góc nhìn ngang rộng, mở rộng và cân bằng bố cục sang tỷ lệ 16:9 trong khi vẫn bảo toàn tất cả các yếu tố và chi tiết quan trọng.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f046ac0e453997fb6d5bb2d488d26e08/thumbnails/thumbnail.jpg" width="600" alt="Điều chỉnh khung hình ngang 16:9">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5325)**
+
+**Author:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **Source:** [Link](https://x.com/PhilipC34457079/status/2059246823131234465) | **Published:** May 26, 2026
+
+---
+### Video hoa thanh cúc phát sáng óng ánh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh đầy chất thơ để tạo video về những bông hoa thanh cúc óng ánh với ánh sáng dịu nhẹ cùng bầu không khí huyền ảo, mơ màng.
+
+#### 📝 Prompt
+
+```
+Những bông hoa thanh cúc óng ánh tỏa sáng dịu dàng trong làn sương mơ màng… Những lời thì thầm của ánh sáng nhẹ nhàng và phép màu tĩnh lặng.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f2fdb3f009fe0424b239cefc61f9ee13/thumbnails/thumbnail.jpg" width="600" alt="Video hoa thanh cúc phát sáng óng ánh">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5328)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2059233246882497000) | **Published:** May 26, 2026
+
+---
+### Rồng Bạc trong Thành phố Cyberpunk
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một video prompt theo phong cách anime về chú rồng bạc đang bay lượn qua thành phố tương lai rực rỡ ánh đèn neon và hóa thành những đám mây.
+
+#### 📝 Prompt
+
+```
+Phong cách anime Nhật Bản, kỹ thuật cyberpunk toàn diện, cảnh đêm của thành phố học viện, các tòa nhà khổng lồ tương lai và cảnh đường phố rực rỡ ánh đèn neon, bầu không khí thành phố học viện công nghệ cao, một chú rồng bạc đang bay tự do trong gió và hóa thành những đám mây
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b4a9db777115f4ff8e44e50b8d60f7f3/thumbnails/thumbnail.jpg" width="600" alt="Rồng Bạc trong Thành phố Cyberpunk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5329)**
+
+**Author:** [Apple🌏🍏👑](https://x.com/makoto_so) | **Source:** [Link](https://x.com/makoto_so/status/2059158008010306006) | **Published:** May 26, 2026
+
+---
+### Cuộc gặp gỡ dưới mưa tại Học viện Cyberpunk
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một video prompt cho cảnh gặp gỡ đầy chất điện ảnh giữa hai nhân vật trong bối cảnh học viện tương lai đầy mưa với phong cách anime.
+
+#### 📝 Prompt
+
+```
+Phong cách anime Nhật Bản, kỹ thuật cyberpunk toàn diện, cảnh đêm thành phố học viện, các tòa nhà khổng lồ tương lai và đường phố rực rỡ ánh đèn neon, bầu không khí thành phố học viện công nghệ cao, mùa thu mưa rơi, một nam và một nữ trong bộ đồng phục cũ đang gặp nhau
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ec9ffa236395cf5240fa175ec2428bb3/thumbnails/thumbnail.jpg" width="600" alt="Cuộc gặp gỡ dưới mưa tại Học viện Cyberpunk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5331)**
+
+**Author:** [Apple🌏🍏👑](https://x.com/makoto_so) | **Source:** [Link](https://x.com/makoto_so/status/2059156968338813270) | **Published:** May 26, 2026
+
+---
 ### Cảnh bờ biển dưới ánh trăng đậm chất điện ảnh
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +358,25 @@ Lửa đỏ và ngọn lửa vàng rực. Hai thanh kiếm, một định mệnh
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5288)**
 
 **Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2059151359857877311) | **Published:** May 26, 2026
+
+---
+### Chuyển đổi điều khiển học Con mắt thứ ba
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Biến đổi một nhân vật điều khiển học để có thêm con mắt thứ ba và các viên nang hổ phách chứa đầy tri thức.
+
+#### 📝 Prompt
+
+```
+Hãy biến đổi nhân vật hình người điều khiển học sao cho hai mắt của anh ta thay đổi vị trí: một mắt di chuyển lên trán thành con mắt thứ ba, và mắt còn lại di chuyển xuống ngực. Cả hai mắt đều trở thành những viên nang hổ phách lớn phát sáng chứa đầy mọi tri thức, xoáy tròn với...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2f77cba4ce74aa2fee5eccb3eab115f1/thumbnails/thumbnail.jpg" width="600" alt="Chuyển đổi điều khiển học Con mắt thứ ba">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5324)**
+
+**Author:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **Source:** [Link](https://x.com/PhilipC34457079/status/2059143047237992850) | **Published:** May 26, 2026
 
 ---
 ### Cuộc rượt đuổi neon của thợ săn tiền thưởng Cyberpunk
@@ -1969,190 +2140,6 @@ Những chiếc đinh đồng và dây da cố định lớp da trên mặt tr�
 **Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2056543882926571565) | **Published:** May 19, 2026
 
 ---
-### Hiệu ứng zoom chậm vào khuôn mặt kèm lời thoại
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) tạo hiệu ứng camera zoom chậm vào khuôn mặt nhân vật khi họ đang nói một câu trích dẫn về sự bất công.
-
-#### 📝 Prompt
-
-```
-@image1 camera zoom chậm ghi lại biểu cảm khuôn mặt của cô ấy. Cô ấy nói: 'Người hoặc tổ chức thực hiện hành vi bất công thường làm điều đó trong bí mật....'
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f218498f39f82642925bf991fa07fdfd/thumbnails/thumbnail.jpg" width="600" alt="Hiệu ứng zoom chậm vào khuôn mặt kèm lời thoại">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5055)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2056531257048092685) | **Published:** May 19, 2026
-
----
-### Tiếng gầm của Robot Sư tử Trắng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kịch bản điện ảnh toàn diện dài 17 giây về một robot biến hình sư tử trắng đang gầm vang trên đỉnh núi bên cạnh một nữ điều khiển viên.
-
-#### 📝 Prompt
-
-```
-Video điện ảnh chân thực dài 17 giây, kiệt tác khoa học viễn tưởng cyberpunk Transformers đẳng cấp, chi tiết siêu thực 8K, chất lượng IMAX.
-
-Một robot biến hình sư tử trắng khổng lồ (sư tử máy khổng lồ với bờm cơ khí trắng chi tiết, bộ giáp chiến đấu hạng nặng màu đỏ-trắng-xám, đôi mắt vàng rực, gai nhọn sắc bén, các khớp thủy lực tinh xảo, kết cấu kim loại sờn cũ do chiến đấu) đứng uy nghi trên đỉnh núi đá phía trên những đám mây. Một nữ điều khiển viên cyberpunk xinh đẹp với mái tóc dài màu trắng bạc, mặc trang phục chiến đấu chiến thuật màu đỏ-trắng với các điểm nhấn neon phát sáng, đứng cạnh chân robot, tay cầm một khẩu súng trường tấn công tương lai. Lá cờ Na Uy gắn trên lưng robot bay phấp phới dữ dội trong gió.
-
-Biên đạo cảnh quay (chuyển động mượt mà, đậm chất điện ảnh)
-0-3s: Cảnh quay góc thấp ấn tượng, máy quay từ từ hướng lên trên để lộ quy mô khổng lồ của robot sư tử và người phụ nữ đang đứng vững chãi.
-3-7s: Robot sư tử bất ngờ mở rộng hàm, gầm lên một tiếng đầy uy lực. Đôi mắt lóe sáng vàng rực, bên trong miệng phát sáng màu đỏ, lộ rõ răng và lưỡi cơ khí. Gió mạnh thổi bay mái tóc của người phụ nữ và lá cờ Na Uy một cách đầy kịch tính.
-7-11s: Cảnh zoom chậm năng động kết hợp với chuyển động máy quay xoay quanh mặt sư tử.
-11-17s: Cận cảnh cực đại vào đầu sư tử đang gầm — bờm trắng chi tiết cao, đôi mắt phát sáng, các tấm giáp mặt tinh xảo, răng và miệng đang gầm. Người phụ nữ xuất hiện ở mép phải khung hình, đang nhìn lên robot.
-
-Máy quay: chuyển động điện ảnh chuyên nghiệp — đẩy chậm vào, xoay nhẹ, rung lắc kịch tính nhẹ khi gầm.
-Môi trường: những ngọn núi phủ tuyết hùng vĩ, thành phố tương lai xa xăm dưới thung lũng, mây thể tích, tia sáng thần thánh (god rays), sương mù khí quyển, các hạt bay trong không trung.
-
-Phong cách: siêu chân thực, phản chiếu kim loại và kết cấu tinh xảo, ánh sáng neon cyberpunk, ánh sáng động, mô phỏng gió thực tế, hiệu ứng lóe sáng ống kính (lens flare), hạt phim tinh tế, quay bằng Arri Alexa 65 + ống kính anamorphic, chỉnh màu điện ảnh (tông lạnh + điểm nhấn đỏ ấm), quy mô hoành tráng, 24fps, chuyển động mượt mà --ar 16:9 --stylize 180 --v 6
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b00a5cef4ab9f63432a942c4335282b3/thumbnails/thumbnail.jpg" width="600" alt="Tiếng gầm của Robot Sư tử Trắng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5048)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2056527231418282285) | **Published:** May 19, 2026
-
----
-### Đối thoại cao bồi đậm chất điện ảnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) video chi tiết thiết lập cảnh đối thoại cụ thể giữa nhiều nhân vật trong bối cảnh miền Tây.
-
-#### 📝 Prompt
-
-```
-Để Leola ở phía bên phải hỏi Faye những chàng cao bồi thực thụ đang ở đâu, sau đó để hai nam cao bồi phong độ, lớn tuổi hơn một chút nói rằng chúng tôi ở đây này các cô gái!
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/058258b42f1e3133a715ce697e7f0a89/thumbnails/thumbnail.jpg" width="600" alt="Đối thoại cao bồi đậm chất điện ảnh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5002)**
-
-**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2056504322095980830) | **Published:** May 18, 2026
-
----
-### Những chàng cao bồi nam tính với hiệu ứng chữ lấp lánh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video hướng dẫn mô hình điều chỉnh độ nam tính của nhân vật và thêm hiệu ứng chữ lấp lánh cụ thể ở phần cuối.
-
-#### 📝 Prompt
-
-```
-Hãy làm cho các chàng cao bồi trông nam tính hơn một chút, và sau đó ở trang cuối cùng, hãy thêm dòng chữ "Faye" bằng hiệu ứng chữ lấp lánh
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a4cbdcb5e9b5cb3775a98ff0f054e307/thumbnails/thumbnail.jpg" width="600" alt="Những chàng cao bồi nam tính với hiệu ứng chữ lấp lánh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5003)**
-
-**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2056501407734206619) | **Published:** May 18, 2026
-
----
-### Chân dung zoom camera cầm tay rung lắc
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh chuyển động đậm chất điện ảnh cho hiệu ứng zoom camera cầm tay rung lắc, tập trung vào khuôn mặt của một người phụ nữ khi cô ấy nở nụ cười nhẹ nhàng.
-
-#### 📝 Prompt
-
-```
-camera từ từ zoom vào khuôn mặt cô ấy, camera cầm tay rung lắc, người phụ nữ mỉm cười nhẹ nhàng
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f178a9dea58799bf74ca5e7e70eeacb9/thumbnails/thumbnail.jpg" width="600" alt="Chân dung zoom camera cầm tay rung lắc">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4999)**
-
-**Author:** [Patrick Jordan](https://x.com/gyjfbngcv6) | **Source:** [Link](https://x.com/gyjfbngcv6/status/2056496860093710843) | **Published:** May 18, 2026
-
----
-### Lễ hội Ánh dương Vui vẻ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video điện ảnh về một người đàn ông đang nhảy lên vì vui sướng dưới ánh mặt trời, xung quanh là những chú chim và người vợ đang chạy đến ôm anh.
-
-#### 📝 Prompt
-
-```
-Anh ấy quyết định trở nên hạnh phúc, nhảy cẫng lên và vung tay lên cao, ánh mặt trời chiếu rọi trực tiếp xuống người anh và những chú chim bay lượn xung quanh!! Và người vợ chạy đến ôm chầm lấy anh!!!
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/19c5a88a9522632a2eb3dbe2c31729a1/thumbnails/thumbnail.jpg" width="600" alt="Lễ hội Ánh dương Vui vẻ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4998)**
-
-**Author:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **Source:** [Link](https://x.com/CindyWeigapn6/status/2056478511641010280) | **Published:** May 18, 2026
-
----
-### Cảnh hành động của mèo John Wick
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo ảnh hành động có độ tương phản cao, siêu chi tiết với hình ảnh một chú mèo đặc vụ phong cách John Wick trong khoảnh khắc thời gian ngưng đọng giữa vụ nổ cùng góc máy quay xoay quanh.
-
-#### 📝 Prompt
-
-```
-Thời gian ngưng đọng giữa vụ nổ trên đường phố trung tâm, các mảnh vỡ lơ lửng, camera xoay quanh chú mèo đặc vụ bất động đang ở giữa cú nhảy — độ tương phản cao, chân thực như ảnh chụp, siêu chi tiết 4K.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/437e7d0111ea1ac51d93f986814d875b/thumbnails/thumbnail.jpg" width="600" alt="Cảnh hành động của mèo John Wick">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4996)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2056368161361158235) | **Published:** May 18, 2026
-
----
-### Video Bộ Giáp Cyber Samurai
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) điện ảnh siêu chi tiết cho video dọc dài 6 giây, khắc họa một chiến binh cyber-samurai trong bộ giáp cơ khí biến hình.
-
-#### 📝 Prompt
-
-```
-Video điện ảnh siêu chi tiết dài 6 giây, sự kết hợp đỉnh cao giữa Transformers và phong cách khoa học viễn tưởng cyberpunk. Một nữ chiến binh cyber-samurai châu Á xinh đẹp trong bộ giáp năng lượng biến hình hạng nặng đứng đầy uy quyền ở trung tâm. Bộ đồ cơ khí màu đen bạc bóng bẩy của cô có các đường năng lượng rồng màu cam vàng rực rỡ, nhấp nháy và lan tỏa khắp ngực, vai và chân. Giáp vai hình sư tử-rồng tinh xảo, mũ bảo hiểm trang trí công phu với hoa hồng đỏ thẫm và các chi tiết cơ khí, áo choàng dài bay bổng. Cô rút kiếm và kích hoạt thanh katana năng lượng khổng lồ rực cháy với các họa tiết ngọn lửa cuộn xoáy một cách đầy kịch tính. Các tấm giáp chuyển động cơ học và biến hình cùng những tia lửa và chuyển động thủy lực. Phân cảnh hành động quay chậm hoành tráng: cô xoay người, chém kiếm, năng lượng bùng nổ xung quanh. Bối cảnh: đội quân cyber-soldier hùng hậu, lá cờ chiến màu đỏ khổng lồ với biểu tượng phát sáng, chiến trường phản địa đàng với khói, điểm nhấn neon và máy bay không người lái lơ lửng. Chuyển động máy quay điện ảnh: góc thấp xoay vòng, ánh sáng kịch tính, tia sáng volumetric, tia lửa, hiệu ứng năng lượng. Siêu thực, chân thực như ảnh chụp, kiệt tác, chất lượng tốt nhất, 8K, bầu không khí khoa học viễn tưởng mãnh liệt --ar 9:16 --motion 3
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e833ca7a336a095a5d09a0fecd6d220f/thumbnails/thumbnail.jpg" width="600" alt="Video Bộ Giáp Cyber Samurai">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4995)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2056365724461941119) | **Published:** May 18, 2026
-
----
-### Bữa tối pizza của Sinatra và Yogi Berra
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt đậm chất điện ảnh với sự xuất hiện của Frank Sinatra và Yogi Berra trong những bộ vest thiết kế riêng, đang thưởng thức pizza và bia tại một chiếc bàn.
-
-#### 📝 Prompt
-
-```
-Họ mặc những bộ vest Ý thiết kế riêng, cùng với Frank Sinatra và Yogi Berra . Tiếp theo, họ ngồi tại một chiếc bàn với pizza và bia Peroni ....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ff77132e761ee73566ea04caea2630bf/thumbnails/thumbnail.jpg" width="600" alt="Bữa tối pizza của Sinatra và Yogi Berra">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5001)**
-
-**Author:** [the moose 55](https://x.com/themoose551) | **Source:** [Link](https://x.com/themoose551/status/2056339167005573434) | **Published:** May 18, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2214,6 +2201,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-27T04:33:22.140Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-27T16:11:22.707Z</sub>
 
 </div>

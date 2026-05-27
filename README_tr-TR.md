@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1661** |
+| 📝 Total Prompts | **1670** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-27** |
 
@@ -189,6 +189,158 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Ay Işığı Vitray Ritüeli
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Dolunay altında, vitraylar ve yıldız ışığı arasında, gün batımı tonlarıyla yükselen bir kadını konu alan detaylı bir video istemi.
+
+#### 📝 Prompt
+
+```
+Dolunayın bakışları altında yükseliyor. Vitraylar ve yıldız ışığı; gün batımının son renklerinin hala gökyüzünde asılı kaldığı o yerde.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cce432155a0d1eef6ea64c07586db35c/thumbnails/thumbnail.jpg" width="600" alt="Ay Işığı Vitray Ritüeli">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5330)**
+
+**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2059492955270828342) | **Published:** May 27, 2026
+
+---
+### Sibernetik Uzay Kitabı Tanıtımı
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Uzayda geçen, dönen altın rengi Starlink uyduları ve sibernetik kıyafet dönüşümü içeren yaratıcı bir kitap reklamı video istemi.
+
+#### 📝 Prompt
+
+```
+Bu kitabı iki elinizle önünüzde tutarak tanıtım yapın. Arka plan uzay boşluğudur. Starlink uyduları altın rengi ışıklarla dönmekte ve kıyafet sibernetik bir tarzda parlamaktadır. Akinari Tomimasu'nun logosu yanıp söner ve sibernetik bir hale bürünür. Son olarak, yoğun bir flaş efektiyle sibernetik bir android'e dönüşür.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dea8f2476897ef9f1f5915b1de8a4a11/thumbnails/thumbnail.jpg" width="600" alt="Sibernetik Uzay Kitabı Tanıtımı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5332)**
+
+**Author:** [富増章成🌐のんびり哲学たまにマンガ](https://x.com/thomasaqnya) | **Source:** [Link](https://x.com/thomasaqnya/status/2059344772696096801) | **Published:** May 26, 2026
+
+---
+### Dinamik Uzay Roketi Fırlatma Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Belirli bir roket görselini; gerçekçi turuncu alevler, kamera hareketi ve özel marka detayları içeren sinematik bir fırlatma sekansına dönüştürür.
+
+#### 📝 Prompt
+
+```
+Sağlanan görseldeki roketin fırlatma rampasından kalkışını canlandırın. Kırmızı burunlu beyaz roket, yan tarafında 'BG' yazısı ve parlak turuncu alevler olsun. Kamera hareketiyle dinamik bir fırlatma sekansı oluşturun.
+```
+
+<img src="https://cms-assets.youmind.com/media/1779871303352_3fau0d_HJQ-hgNWoAAkFaH.jpg" width="600" alt="Dinamik Uzay Roketi Fırlatma Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5327)**
+
+**Author:** [Number-One-AI-Fanboy](https://x.com/Number1AIFanboy) | **Source:** [Link](https://x.com/Number1AIFanboy/status/2059340120499650592) | **Published:** May 26, 2026
+
+---
+### Kaprisli Çiçekli Kulübe ve Çayır Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kelebekler ve çiçeklerle dolu güneşli bir çayırda, yumuşak pastel tonlar ve rüya gibi geçişler kullanılarak nostaljik, el çizimi bir küçük kız animasyonu oluşturmak için detaylı bir komut.
+
+#### 📝 Prompt
+
+```
+Güneşli bir çayırda, çiçeklerle kaplı minik bir kulübenin önünde duran ve parlak bir bahar sabahında etrafında dans eden kelebeklere neşeyle el sallayan küçük bir kız; pastel maviler, yumuşak yeşiller ve kremsi beyazlar gibi yumuşak, pastel tonlarda, kaprisli, el çizimi bir sahne oluşturun. Rahat ve huzurlu bir atmosfer için minimalist detaylar, ince dokular ve rüya gibi geçişler ekleyin. Büyüleyici evler, narin ağaçlar ve oyuncu karakterler gibi kaprisli unsurlara odaklanın. Kompozisyon davetkar, nostaljik hissettirmeli ve hikaye anlatımı veya çocuk illüstrasyonları için mükemmel olmalıdır. Sıcak bir öğleden sonra, minik pastel evlerle çevrili sessiz bir köy yolunda bisiklet süren ve neşeyle zilini çalan, havada süzülen çiçek yaprakları arasında ilerleyen küçük bir erkek çocuk; pastel maviler, yumuşak yeşiller ve kremsi beyazlar gibi yumuşak, pastel tonlarda, kaprisli, el çizimi bir sahne oluşturun. Rahat ve huzurlu bir atmosfer için minimalist detaylar, ince dokular ve rüya gibi geçişler ekleyin. Büyüleyici evler, narin ağaçlar ve oyuncu karakterler gibi kaprisli unsurlara odaklanın. Kompozisyon davetkar, nostaljik hissettirmeli ve hikaye anlatımı veya çocuk illüstrasyonları için mükemmel olmalıdır. Yumuşak sabah güneşinin altında, rahat bir ahşap evin yanındaki çimenli bahçede uçuşan sabun köpüklerini kovalayan oyuncu bir köpek yavrusu; pastel maviler, yumuşak yeşiller ve kremsi beyazlar gibi yumuşak, pastel tonlarda, kaprisli, el çizimi bir sahne oluşturun. Rahat ve huzurlu bir atmosfer için minimalist detaylar, ince dokular ve rüya gibi geçişler ekleyin. Büyüleyici evler, narin ağaçlar ve oyuncu karakterler gibi kaprisli unsurlara odaklanın. Kompozisyon davetkar, nostaljik hissettirmeli ve hikaye anlatımı veya çocuk illüstrasyonları için mükemmel olmalıdır. Huzurlu bir altın öğleden sonrasında, kırsaldaki minik bir kulübenin yakınında, narin bir elma ağacının altında meraklı kuşlardan oluşan bir çembere yüksek sesle kitap okuyan genç bir kız; pastel maviler, yumuşak yeşiller ve kremsi beyazlar gibi yumuşak, pastel tonlarda, kaprisli, el çizimi bir sahne oluşturun. Rahat ve huzurlu bir atmosfer için minimalist detaylar, ince dokular ve rüya gibi geçişler ekleyin. Büyüleyici evler, narin ağaçlar ve oyuncu karakterler gibi kaprisli unsurlara odaklanın. Kompozisyon davetkar, nostaljik hissettirmeli ve hikaye anlatımı veya çocuk illüstrasyonları için mükemmel olmalıdır. Hafif esintili bir bahar akşamında, parıldayan bir derenin üzerindeki küçük bir köprünün yanında durup birlikte kağıttan gemiler yüzdüren iki neşeli çocuk; pastel maviler, yumuşak yeşiller ve kremsi beyazlar gibi yumuşak, pastel tonlarda, kaprisli, el çizimi bir sahne oluşturun. Rahat ve huzurlu bir atmosfer için minimalist detaylar, ince dokular ve rüya gibi geçişler ekleyin. Büyüleyici evler, narin ağaçlar ve oyuncu karakterler gibi kaprisli unsurlara odaklanın. Kompozisyon davetkar, nostaljik hissettirmeli ve hikaye anlatımı veya çocuk illüstrasyonları için mükemmel olmalıdır. Gün doğumunda, uzun ve narin ağaçların altına gizlenmiş yuvarlak pencereli bir kulübenin dışında, elinde bir sepet taze çiçekle evine dönen küçük bir tavşan; pastel maviler, yumuşak yeşiller ve kremsi beyazlar gibi yumuşak, pastel tonlarda, kaprisli, el çizimi bir sahne oluşturun. Rahat ve huzurlu bir atmosfer için minimalist detaylar, ince dokular ve rüya gibi geçişler ekleyin. Büyüleyici evler, narin ağaçlar ve oyuncu karakterler gibi kaprisli unsurlara odaklanın. Kompozisyon davetkar, nostaljik hissettirmeli ve hikaye anlatımı veya çocuk illüstrasyonları için mükemmel olmalıdır.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a6e8cb3c32ff689cb5b2f87d88c6e1f6/thumbnails/thumbnail.jpg" width="600" alt="Kaprisli Çiçekli Kulübe ve Çayır Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5326)**
+
+**Author:** [Syed Abuthahir ∞](https://x.com/abulu8) | **Source:** [Link](https://x.com/abulu8/status/2059327599189561498) | **Published:** May 26, 2026
+
+---
+### 16:9 Yatay Sahne Yeniden Çerçeveleme
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mevcut bir sahneyi sinematik 16:9 en boy oranına genişletmek ve yeniden çerçevelemek için teknik bir talimat.
+
+#### 📝 Prompt
+
+```
+Tüm sahneyi geniş bir yatay manzaraya dönüştürün; tüm temel öğeleri ve detayları koruyarak kompozisyonu 16:9 en boy oranına genişletin ve dengeleyin.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f046ac0e453997fb6d5bb2d488d26e08/thumbnails/thumbnail.jpg" width="600" alt="16:9 Yatay Sahne Yeniden Çerçeveleme">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5325)**
+
+**Author:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **Source:** [Link](https://x.com/PhilipC34457079/status/2059246823131234465) | **Published:** May 26, 2026
+
+---
+### Yanardöner Işıltılı Peygamber Çiçekleri Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yumuşak ışıklandırma ve rüya gibi, büyülü bir atmosfere sahip yanardöner peygamber çiçeklerinin videosunu oluşturmak için şiirsel bir istem.
+
+#### 📝 Prompt
+
+```
+Rüya gibi bir pus içinde hafifçe parlayan yanardöner peygamber çiçekleri… Nazik ışığın ve sessiz büyünün fısıltıları.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f2fdb3f009fe0424b239cefc61f9ee13/thumbnails/thumbnail.jpg" width="600" alt="Yanardöner Işıltılı Peygamber Çiçekleri Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5328)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2059233246882497000) | **Published:** May 26, 2026
+
+---
+### Siberpunk Şehrinde Gümüş Ejderha
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Neon ışıklı fütüristik bir şehirde süzülen ve bulutlara dönüşen gümüş bir ejderhanın anime tarzı video istemi.
+
+#### 📝 Prompt
+
+```
+Japon anime tarzı, siberpunk tam teknik, akademi şehrinin gece manzarası, fütüristik dev binalar ve neon ışıklı sokak manzarası, yüksek teknolojili akademi şehri atmosferi, rüzgarda özgürce uçan ve bulutlara dönüşen gümüş bir ejderha
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b4a9db777115f4ff8e44e50b8d60f7f3/thumbnails/thumbnail.jpg" width="600" alt="Siberpunk Şehrinde Gümüş Ejderha">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5329)**
+
+**Author:** [Apple🌏🍏👑](https://x.com/makoto_so) | **Source:** [Link](https://x.com/makoto_so/status/2059158008010306006) | **Published:** May 26, 2026
+
+---
+### Cyberpunk Akademisinde Yağmurlu Karşılaşma
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Yağmurlu ve fütüristik bir akademi ortamında, anime estetiğine sahip iki karakterin sinematik buluşması için bir video istemi.
+
+#### 📝 Prompt
+
+```
+Japon anime tarzı, siberpunk tam teknik, akademi şehrinin gece manzarası, fütüristik dev binalar ve neon ışıklı sokak manzarası, yüksek teknolojili akademi şehri atmosferi, yağmurlu sonbahar, eski üniformalı bir erkek ve kadın karşılaşıyor
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ec9ffa236395cf5240fa175ec2428bb3/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Akademisinde Yağmurlu Karşılaşma">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5331)**
+
+**Author:** [Apple🌏🍏👑](https://x.com/makoto_so) | **Source:** [Link](https://x.com/makoto_so/status/2059156968338813270) | **Published:** May 26, 2026
+
+---
 ### Sinematik Ay Işığı Altında Sahil Ateşi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +358,25 @@ Kızıl ateş ve altın rengi alev. İki kılıç, tek bir kader. Victoria ve Ed
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5288)**
 
 **Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2059151359857877311) | **Published:** May 26, 2026
+
+---
+### Üçüncü Göz Sibernetik Dönüşümü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sibernetik bir karakteri, üçüncü bir göz ve bilgi dolu kehribar kapsüller içerecek şekilde dönüştürür.
+
+#### 📝 Prompt
+
+```
+Sibernetik insansı figürü, iki gözünün yer değiştireceği şekilde dönüştürün: biri alın bölgesine üçüncü bir göz olarak yukarı taşınsın, diğeri ise göğüs kısmına aşağı insin. Her iki göz de tüm bilgilerle dolu, içinde girdaplar dönen büyük ve parlayan kehribar kapsüllere dönüşsün...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2f77cba4ce74aa2fee5eccb3eab115f1/thumbnails/thumbnail.jpg" width="600" alt="Üçüncü Göz Sibernetik Dönüşümü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5324)**
+
+**Author:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **Source:** [Link](https://x.com/PhilipC34457079/status/2059143047237992850) | **Published:** May 26, 2026
 
 ---
 ### Cyberpunk Ödül Avcısı Neon Takibi
@@ -1969,190 +2140,6 @@ Pirinç çiviler ve deri ipler deriyi davulun üzerinde tutuyor, sis ve odun dum
 **Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2056543882926571565) | **Published:** May 19, 2026
 
 ---
-### Diyalog Eşliğinde Yavaş Yüz Yakınlaştırma
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir karakterin adaletsizlik üzerine bir alıntı yaptığı sırada yüzüne doğru yavaş kamera yakınlaştırması için bir komut.
-
-#### 📝 Prompt
-
-```
-@image1 yüz ifadesini yakalayan yavaş kamera yakınlaştırması. Karakter şöyle diyor: 'Adaletsizlik yapan kişi veya kuruluş, bunu genellikle gizlice yapar....'
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f218498f39f82642925bf991fa07fdfd/thumbnails/thumbnail.jpg" width="600" alt="Diyalog Eşliğinde Yavaş Yüz Yakınlaştırma">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5055)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2056531257048092685) | **Published:** May 19, 2026
-
----
-### Beyaz Aslan Mekanik Kükremesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir dağ zirvesinde kadın operatörüyle birlikte kükreyen beyaz aslan dönüştürücü mekanik için 17 saniyelik kapsamlı sinematik senaryo.
-
-#### 📝 Prompt
-
-```
-Sinematik fotogerçekçi 17 saniyelik epik video, yeni nesil Transformers bilim kurgu siberpunk başyapıtı, hiper detaylı 8K, IMAX kalitesi.
-
-Devasa bir beyaz aslan Transformer mekanik (akan detaylı beyaz mekanik yeleli, kırmızı-beyaz-gri ağır savaş zırhlı, parlayan sarı gözlü, keskin dikenli, karmaşık hidrolik eklemli, savaş görmüş metal dokulu devasa robotik beyaz aslan) bulutların üzerindeki kayalık bir dağ zirvesinde baskın bir şekilde duruyor. Uzun, dalgalı gümüş-beyaz saçlı, parlayan neon vurgulu kırmızı-beyaz taktiksel savaş teçhizatı giymiş güzel bir siberpunk kadın operatör, elinde büyük fütüristik bir saldırı tüfeğiyle mekaniğin bacağının yanında duruyor. Mekaniğin sırtına takılı Norveç bayrağı rüzgarda şiddetle dalgalanıyor.
-
-Sahne koreografisi (akıcı, sinematik hareket)
-0-3 sn: Dramatik düşük açılı geniş çekim, aslan mekaniğin ve kararlı bir şekilde duran kadının tam ölçeğini ortaya çıkaran yavaş yukarı eğim.
-3-7 sn: Aslan mekanik aniden devasa çenelerini açarak güçlü bir kükreme salıyor. Gözler yoğun bir şekilde parlak sarı renkte parlıyor, ağız içi kırmızı renkte ışıldıyor, mekanik dişler ve dil görünüyor. Güçlü rüzgar, kadının saçlarını ve Norveç bayrağını dramatik bir şekilde savuruyor.
-7-11 sn: Aslanın yüzüne doğru dinamik yavaş yakınlaştırma ve hafif yörüngesel kamera hareketi.
-11-17 sn: Kükreyen aslan kafasına aşırı yakın çekim — son derece detaylı beyaz yele, parlayan gözler, karmaşık yüz zırh plakaları, dişler ve kükreyen ağız. Kadın karenin sağ kenarında, mekaniğe yukarı bakarken görünüyor.
-
-Kamera: profesyonel sinematik hareket — yavaş içeri itme, hafif yörünge, kükreme sırasında hafif dramatik sarsıntı.
-Ortam: epik karla kaplı dağlar, vadide uzak fütüristik şehir, hacimsel bulutlar, tanrı ışınları, atmosferik pus, uçuşan parçacıklar.
-
-Stil: ultra fotogerçekçi, karmaşık metalik yansımalar ve dokular, siberpunk neon parıltıları, dinamik aydınlatma, gerçekçi rüzgar simülasyonu, lens parlamaları, hafif film greni, Arri Alexa 65 + anamorfik lenslerle çekilmiş, sinematik renk derecelendirme (soğuk tonlar + sıcak kırmızı vurgular), epik ölçek, 24fps, tereyağı gibi pürüzsüz hareket --ar 16:9 --stylize 180 --v 6
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b00a5cef4ab9f63432a942c4335282b3/thumbnails/thumbnail.jpg" width="600" alt="Beyaz Aslan Mekanik Kükremesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5048)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2056527231418282285) | **Published:** May 19, 2026
-
----
-### Sinematik Kovboy Diyaloğu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir western ortamında birden fazla karakter arasındaki belirli bir diyalog sahnesini kurgulayan detaylı bir video istemi.
-
-#### 📝 Prompt
-
-```
-Sağ taraftaki Leola'nın Faye'e gerçek kovboyların nerede olduğunu sormasını sağlayın; ardından hafif yaşlı, yakışıklı ve maskülen iki kovboyun 'İşte buradayız kızlar!' demesini sağlayın.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/058258b42f1e3133a715ce697e7f0a89/thumbnails/thumbnail.jpg" width="600" alt="Sinematik Kovboy Diyaloğu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5002)**
-
-**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2056504322095980830) | **Published:** May 18, 2026
-
----
-### Işıltılı Metinli Maskülen Kovboylar
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Modelin karakter maskülenliğini ayarlamasını ve sonunda belirli bir animasyonlu ışıltılı metin eklemesini sağlayan bir video istemi.
-
-#### 📝 Prompt
-
-```
-Kovboyları biraz daha maskülen yap ve ardından son sayfada ışıltılı harflerle Faye yazısını ekle
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a4cbdcb5e9b5cb3775a98ff0f054e307/thumbnails/thumbnail.jpg" width="600" alt="Işıltılı Metinli Maskülen Kovboylar">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5003)**
-
-**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2056501407734206619) | **Published:** May 18, 2026
-
----
-### Elde Taşınan Sarsıntılı Kamera ile Yakın Çekim Portre
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir kadının yüzüne odaklanan ve o hafifçe gülümsemeye başladığında devreye giren, elde taşınan sarsıntılı kamera yakınlaştırması için sinematik bir hareket istemi.
-
-#### 📝 Prompt
-
-```
-kamera yavaşça yüzüne yakınlaşıyor, elde taşınan sarsıntılı kamera, kadın hafifçe gülümsüyor
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f178a9dea58799bf74ca5e7e70eeacb9/thumbnails/thumbnail.jpg" width="600" alt="Elde Taşınan Sarsıntılı Kamera ile Yakın Çekim Portre">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4999)**
-
-**Author:** [Patrick Jordan](https://x.com/gyjfbngcv6) | **Source:** [Link](https://x.com/gyjfbngcv6/status/2056496860093710843) | **Published:** May 18, 2026
-
----
-### Neşeli Güneş Işığı Kutlaması
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Güneş ışığı altında, kuşlarla çevrili bir şekilde zıplayarak sevincini yaşayan ve eşi tarafından kucaklanan bir adamın sinematik video istemi.
-
-#### 📝 Prompt
-
-```
-Mutlu olmaya karar veriyor, yukarı doğru zıplayıp ellerini havaya kaldırıyor; güneş doğrudan üzerine parlıyor ve kuşlar etrafında uçuşuyor!! Sonrasında eşi koşarak gelip ona sarılıyor!!!
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/19c5a88a9522632a2eb3dbe2c31729a1/thumbnails/thumbnail.jpg" width="600" alt="Neşeli Güneş Işığı Kutlaması">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4998)**
-
-**Author:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **Source:** [Link](https://x.com/CindyWeigapn6/status/2056478511641010280) | **Published:** May 18, 2026
-
----
-### John Wick Kedi Aksiyon Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> John Wick tarzı kedi bir ajanın, patlama anında zamanın donduğu ve kameranın etrafında döndüğü bir sahnede yer aldığı, yüksek kontrastlı ve hiper detaylı bir aksiyon istemi.
-
-#### 📝 Prompt
-
-```
-Şehir merkezinde bir sokakta patlama anında zaman donuyor, enkaz havada asılı kalıyor, kamera havada sıçramış hareketsiz bir kedi ajanın etrafında dönüyor — yüksek kontrast, fotogerçekçi, 4K hiper detay.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/437e7d0111ea1ac51d93f986814d875b/thumbnails/thumbnail.jpg" width="600" alt="John Wick Kedi Aksiyon Sahnesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4996)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2056368161361158235) | **Published:** May 18, 2026
-
----
-### Cyber Samurai Güç Zırhı Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Değişen mekanik zırh içindeki bir cyber-samuray savaşçısını konu alan, 6 saniyelik dikey video için ultra detaylı sinematik komut.
-
-#### 📝 Prompt
-
-```
-6 saniyelik ultra detaylı sinematik video, Transformers ile cyberpunk bilim kurgunun birleştiği üst düzey bir çalışma. Ağır ve dönüşebilen bir güç zırhı içindeki güzel bir Asyalı kadın cyber-samuray savaşçısı, merkezde güçlü bir duruş sergiliyor. Şık siyah-gümüş mekanik kıyafeti, göğüs, omuz ve bacaklarında nabız gibi atan ve akan parlayan turuncu-altın ejderha enerjisi çizgilerine sahip. Karmaşık aslan-ejderha omuz korumaları, koyu kırmızı güller ve mekanik süslemelerle bezeli gösterişli bir kask, uzun ve dalgalı bir pelerin. Dramatik bir şekilde devasa, parlayan ve üzerinde alev desenleri dönen bir enerji katanasını çekip ateşliyor. Zırh plakaları kıvılcımlar ve hidrolik hareketlerle mekanik olarak kayıyor ve dönüşüyor. Epik ağır çekim aksiyon sekansı: dönüyor, kesiyor ve etrafında enerji patlamaları yaşanıyor. Arka plan: devasa bir cyber-asker ordusu, parlayan sembollü dev kırmızı savaş sancağı, dumanlı, neon vurgulu ve havada asılı dronların olduğu distopik bir savaş alanı. Sinematik kamera hareketi: düşük açılı dairesel çekim, dramatik aydınlatma, hacimsel tanrı ışıkları, kıvılcımlar, enerji efektleri. Hiper gerçekçi, fotogerçekçi, başyapıt, en iyi kalite, 8K, yoğun bilim kurgu atmosferi --ar 9:16 --motion 3
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e833ca7a336a095a5d09a0fecd6d220f/thumbnails/thumbnail.jpg" width="600" alt="Cyber Samurai Güç Zırhı Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=4995)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2056365724461941119) | **Published:** May 18, 2026
-
----
-### Sinatra ve Yogi Berra ile Pizza Yemeği
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Frank Sinatra ve Yogi Berra'nın tasarımcı takım elbiseleri içinde bir masada pizza yiyip bira içtiklerini gösteren sinematik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Üzerlerinde tasarımcı İtalyan takım elbiseleriyle Frank Sinatra ve Yogi Berra bir araya geliyor. Ardından pizza ve Peroni biralarıyla bir masaya oturuyorlar....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ff77132e761ee73566ea04caea2630bf/thumbnails/thumbnail.jpg" width="600" alt="Sinatra ve Yogi Berra ile Pizza Yemeği">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5001)**
-
-**Author:** [the moose 55](https://x.com/themoose551) | **Source:** [Link](https://x.com/themoose551/status/2056339167005573434) | **Published:** May 18, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2214,6 +2201,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-27T04:33:36.736Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-27T16:11:40.124Z</sub>
 
 </div>
