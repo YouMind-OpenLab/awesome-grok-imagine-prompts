@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **1670** |
+| 📝 총 프롬프트 수 | **1677** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-05-28** |
 
@@ -189,6 +189,82 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 음표 구름 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 바이올린 선율이 안개 낀 구름 속에서 글자로 시각화되는 시적인 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+그녀가 연주를 시작하자 소리가 눈에 보이기 시작하고, 바이올린에서 흘러나온 음표들이 구름 속에서 “GOD First always”라는 글자를 만들어 냅니다.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c368e49288e7394cde4426eb20593f6b/thumbnails/thumbnail.jpg" width="600" alt="음표 구름 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5359)**
+
+**작성자:** [the_light](https://x.com/the_light35) | **출처:** [Link](https://x.com/the_light35/status/2059759517143859660) | **게시일:** May 27, 2026
+
+---
+### 컴퓨테이셔널 서브트랙션 맨해튼 타워
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 컴퓨테이셔널 서브트랙션(computational subtraction) 기법을 사용하여 거대한 공동(cavity)을 형성하도록 설계된 맨해튼의 초고층 빌딩 영상 생성용 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+AI가 생성한 맨해튼의 초고층 타워, 컴퓨테이셔널 서브트랙션 공법으로 조각된 430m 높이의 수직 구조물, 거대하게 파여진 공동(cavity)
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e4733da51d048e62b5b1833efd1dfa1c/thumbnails/thumbnail.jpg" width="600" alt="컴퓨테이셔널 서브트랙션 맨해튼 타워">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5354)**
+
+**작성자:** [everything +AI](https://x.com/AiAigallery) | **출처:** [Link](https://x.com/AiAigallery/status/2059751365287526757) | **게시일:** May 27, 2026
+
+---
+### 1인칭 게릴라 스타일 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> iPhone으로 촬영한 파운드 푸티지(found footage) 느낌의 거칠고 흔들리는 1인칭 시점 영상을 생성하기 위한 grok-imagine용 기본 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+핸드헬드 게릴라 스타일 파운드 푸티지 영상. 거칠고 좁은 화각. 그가 iPhone 카메라를 들고 있으며 프레임 밖으로 완전히 벗어난 상태, 그래픽 오버레이 없음. 1인칭 카메라 시점 전용
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f880960330aa921325b52c1cef19cca1/thumbnails/thumbnail.jpg" width="600" alt="1인칭 게릴라 스타일 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5357)**
+
+**작성자:** [The Rogue AI](https://x.com/evalincoln4101) | **출처:** [Link](https://x.com/evalincoln4101/status/2059710663694721317) | **게시일:** May 27, 2026
+
+---
+### 스페이스 캠프 무중력 우주비행사들
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 스페이스 캠프 헌츠빌(Space Camp Huntsville)의 무중력 챔버에서 떠다니는 미래의 어린 우주비행사들을 담은 기발한 동화책 스타일의 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+스페이스 스카우트 조끼와 짙은 헤더 그레이 색상의 옷을 입고 스페이스 캠프 헌츠빌(Space Camp Huntsville)의 무중력 챔버에서 떠다니며 즐거운 시간을 보내는 미래의 어린 우주비행사들. 들뜬 표정, 즐거움, 기발한 아동용 전자책 스타일, 영감을 주는 분위기.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/65b5497c1b19352f0dc9352f55e07bed/thumbnails/thumbnail.jpg" width="600" alt="스페이스 캠프 무중력 우주비행사들">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5355)**
+
+**작성자:** [Jean](https://x.com/SpaceScoutsIntl) | **출처:** [Link](https://x.com/SpaceScoutsIntl/status/2059554674324426973) | **게시일:** May 27, 2026
+
+---
 ### 달빛 스테인드글라스 리추얼
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -201,11 +277,68 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 보름달의 시선 아래, 그녀가 깨어난다. 스테인드글라스와 별빛 사이로, 하늘에는 마지막 노을빛이 여전히 머물러 있다.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cce432155a0d1eef6ea64c07586db35c/thumbnails/thumbnail.jpg" width="600" alt="달빛 스테인드글라스 리추얼">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/53f43c2ea40cfc942002c8e0b4c8d265/thumbnails/thumbnail.jpg" width="600" alt="달빛 스테인드글라스 리추얼">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5330)**
 
 **작성자:** [DuBoseJen](https://x.com/DuBosefire) | **출처:** [Link](https://x.com/DuBosefire/status/2059492955270828342) | **게시일:** May 27, 2026
+
+---
+### 다 빈치 스타일의 달력 기계
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 레오나르도 다 빈치의 스케치 스타일로 구현된 복잡한 기계식 달력을 묘사하는 정교한 비디오 프롬프트입니다. 맞물려 돌아가는 청동 톱니바퀴와 행성 정렬이 특징입니다.
+
+#### 📝 프롬프트
+
+```
+(해당되는 경우, 다 빈치 스타일의 스케치를 상상해 보세요: 그의 '코덱스 아틀란티쿠스(Codex Atlanticus)'에 등장하는 기어 트레인과 같지만 시간 그 자체를 위한 기계입니다. “360일 이집트력”, “금성 혜성 궤도”, “화성 슬링”이라고 적힌 맞물린 청동 톱니바퀴들이 있고, 갑작스러운 축 기울어짐으로 기계 장치에 균열이 생깁니다. 작은 인간 형상들(파라오, 마야 사제들)이 5일의 “성스러운 날”을 추가하기 위해 분주히 움직이는 동안, 행성들의 소용돌이가 르네상스 시대의 완벽한 원근법 속에서 달력 기계 전체를 다시 정렬합니다!)
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e2755189a8a5222d278167ca4f77645f/thumbnails/thumbnail.jpg" width="600" alt="다 빈치 스타일의 달력 기계">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5353)**
+
+**작성자:** [the don of hockey](https://x.com/don_allain) | **출처:** [Link](https://x.com/don_allain/status/2059451078807114105) | **게시일:** May 27, 2026
+
+---
+### 마법의 정원 요정 비디오
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 두 정원 요정이 손을 맞잡자 하늘이 별이 빛나는 은하수로 변하는 마법 같은 장면을 담은 grok-imagine 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+정원 수컷 요정이 암컷 요정의 손을 잡자 하늘이 별과 은하수로 화려하게 변합니다
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e3740808f8371b8cc1db5d839f1121a/thumbnails/thumbnail.jpg" width="600" alt="마법의 정원 요정 비디오">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5356)**
+
+**작성자:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **출처:** [Link](https://x.com/HawkinsonLindy/status/2059436913640267902) | **게시일:** May 27, 2026
+
+---
+### 미래지향적인 엄마와 딸 일러스트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> SF 스타일로 엄마와 딸의 유대감을 표현한 미래지향적 디지털 일러스트 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+BlueGoo와 Vera의 미래지향적인 디지털 일러스트, 엄마와 딸의 사랑은 언제나 정답이다
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8ab81211c8db51b535152148a750a172/thumbnails/thumbnail.jpg" width="600" alt="미래지향적인 엄마와 딸 일러스트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5358)**
+
+**작성자:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **출처:** [Link](https://x.com/TLouisevsughan/status/2059431777593344125) | **게시일:** May 27, 2026
 
 ---
 ### 사이버네틱 우주 도서 프로모션
@@ -2002,144 +2135,6 @@ Grok Imagine, 아름다운 애니메이션 스타일, Ani-chan(금발 포니테�
 **작성자:** [Sovannara 🚚🛣️🚚](https://x.com/Udom_Barca) | **출처:** [Link](https://x.com/Udom_Barca/status/2056658419202048282) | **게시일:** May 19, 2026
 
 ---
-### 평온하고 신비로운 천사 애니메이션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 황금빛 깃털과 은은한 조명 효과가 돋보이는 천사의 부드러운 슬로우 모션 애니메이션 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-부드러운 슬로우 모션 애니메이션, 평온하고 신비로운 천사가 눈을 살며시 뜬 채 평화롭게 서 있음, 매우 미세한 호흡 동작, 섬세한 황금빛 깃털들이 주변을 천천히 흩날림, 부드러운 빛이 은은하게 맥동함, 차분하고 성스러운 분위기, 최소한의 움직임,...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/21d38fd0b16defd61737fdff7026f7e0/thumbnails/thumbnail.jpg" width="600" alt="평온하고 신비로운 천사 애니메이션">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5047)**
-
-**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2056640121953235299) | **게시일:** May 19, 2026
-
----
-### Crown and Crayons 애니메이션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 기존 이미지에 왕관을 씌우고 코와 귀에 크레용을 꽂은 뒤 애니메이션으로 만드는 독특한 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-안녕 Grok, 이 사진에 왕관을 씌우고 코와 귀에 크레용이 꽂혀 있는 모습으로 그려줄 수 있어?
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cfd67bca2d4bc57d7d19ae1db9dda410/thumbnails/thumbnail.jpg" width="600" alt="Crown and Crayons 애니메이션">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5040)**
-
-**작성자:** [Methodnes](https://x.com/methodnes) | **출처:** [Link](https://x.com/methodnes/status/2056581025656950910) | **게시일:** May 19, 2026
-
----
-### 운전석 동작 시퀀스
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 캐릭터가 차에 앉아 문을 닫고 운전대를 잡는 상세한 시네마틱 시퀀스입니다.
-
-#### 📝 프롬프트
-
-```
-음성 없음 
-남성 이성애자 
-Lirathen이 앉아서 문을 닫고 운전대를 잡도록 만드세요.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/42fad6aabd3a05f080d9eea6eccebe0f/thumbnails/thumbnail.jpg" width="600" alt="운전석 동작 시퀀스">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5035)**
-
-**작성자:** [Alex Patricio](https://x.com/alexpatricio204) | **출처:** [Link](https://x.com/alexpatricio204/status/2056570076212363555) | **게시일:** May 19, 2026
-
----
-### 시네마틱 줌과 미소
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 카메라 줌, 환경적인 먼지 효과, 그리고 엄격한 표정에서 미소로 변하는 캐릭터의 얼굴 전환을 상세히 묘사한 정교한 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-얼굴을 향해 매우 느리게 줌인합니다. 바람에 날리는 먼지가 때때로 시야를 가립니다.
-
-익스텐드 줌(Extend-Zoom)은 그녀의 얼굴에서 끝납니다. 그녀는 얼굴에 묻은 먼지를 닦아냅니다. 카메라를 엄격하게 응시하다가 이내 은근하고 매혹적인 미소를 짓습니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/92697ee1cb6112d230bf1871abc29b42/thumbnails/thumbnail.jpg" width="600" alt="시네마틱 줌과 미소">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5041)**
-
-**작성자:** [Dave Wilson](https://x.com/HRDESIGNS) | **출처:** [Link](https://x.com/HRDESIGNS/status/2056555804694663510) | **게시일:** May 19, 2026
-
----
-### 춤추는 꽃과 지구 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 하트와 함께 춤추는 꽃, 알록달록한 집, 그리고 지구의 모습이 담긴 따뜻한 느낌의 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-오늘 밤, 제 딸 Savannah가 하트가 뒤에 있는 춤추는 꽃 그림을 만들고 싶어 해요. 그리고 분홍색과 보라색 집도 넣을 수 있는지 물어보네요. 영상 속에 지구도 함께 보였으면 좋겠다고 합니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6b0fec9439f546b2ee3eebe292e2776f/thumbnails/thumbnail.jpg" width="600" alt="춤추는 꽃과 지구 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5004)**
-
-**작성자:** [Firecracker](https://x.com/CantTameFire) | **출처:** [Link](https://x.com/CantTameFire/status/2056550752038883413) | **게시일:** May 19, 2026
-
----
-### 안개 속의 드럼 리듬
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 안개와 장작 연기로 둘러싸인 낡은 가죽 드럼을 손으로 천천히 두드리는 분위기 있는 장면입니다.
-
-#### 📝 프롬프트
-
-```
-남자의 손이 낡은 가죽 드럼을 천천히 두드리며 리듬을 만들어내고,
-황동 징과 가죽 끈이 드럼의 가죽을 고정하고 있으며, 주변에는 안개와 장작 연기가 소용돌이칩니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/387a8e72c7a3021c0970d3ee5e964e9b/thumbnails/thumbnail.jpg" width="600" alt="안개 속의 드럼 리듬">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5044)**
-
-**작성자:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **출처:** [Link](https://x.com/HawkinsonLindy/status/2056546954059161841) | **게시일:** May 19, 2026
-
----
-### 정의의 저울 줌 아웃
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 정의의 저울이 그려진 벽면을 줌 아웃 효과로 담아낸, 의미 있는 사회적 명언이 포함된 시네마틱 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-@image1 줌 아웃 효과. 정의의 저울이 그려진 벽면. 그녀가 말하길, 한 개인에게 가해진 불의는 사회 전체에 대한 위협이다....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d37c6338f2c746a5dd96d7faa3a8d3fa/thumbnails/thumbnail.jpg" width="600" alt="정의의 저울 줌 아웃">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5039)**
-
-**작성자:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **출처:** [Link](https://x.com/clemensilverio/status/2056543882926571565) | **게시일:** May 19, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2201,6 +2196,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-05-28T04:25:53.147Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-05-28T11:55:44.008Z</sub>
 
 </div>

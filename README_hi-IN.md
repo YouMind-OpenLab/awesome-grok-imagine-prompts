@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1670** |
+| 📝 Total Prompts | **1677** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-28** |
 
@@ -189,6 +189,82 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### म्यूजिकल नोट्स क्लाउड प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक काव्यात्मक प्रॉम्प्ट जहाँ वायलिन का संगीत एक धुंधले बादल के प्रभाव के भीतर शब्दों में बदल जाता है।
+
+#### 📝 Prompt
+
+```
+जैसे ही वह संगीत बजाती है, ध्वनि दिखाई देती है और वायलिन से निकलने वाले म्यूजिकल नोट्स द्वारा “GOD First always” शब्द बनते हैं। एक धुंधले बादल में।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c368e49288e7394cde4426eb20593f6b/thumbnails/thumbnail.jpg" width="600" alt="म्यूजिकल नोट्स क्लाउड प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5359)**
+
+**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2059759517143859660) | **Published:** May 27, 2026
+
+---
+### कंप्यूटेशनल सबट्रैक्शन मैनहट्टन टॉवर
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> मैनहट्टन में एक सुपरटॉल गगनचुंबी इमारत का वीडियो बनाने के लिए एक प्रॉम्प्ट, जिसे कंप्यूटेशनल सबट्रैक्शन प्रक्रियाओं का उपयोग करके बड़ी गुहाएं (cavities) बनाने के लिए वास्तुशिल्प रूप से तैयार किया गया है।
+
+#### 📝 Prompt
+
+```
+AI द्वारा निर्मित मैनहट्टन में सुपरटॉल टॉवर, 430 मीटर ऊंची ऊर्ध्वाधर संरचना जिसे कंप्यूटेशनल सबट्रैक्शन प्रक्रिया द्वारा तराशा गया है, जिसमें विशाल नक्काशीदार गुहाएं हैं
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e4733da51d048e62b5b1833efd1dfa1c/thumbnails/thumbnail.jpg" width="600" alt="कंप्यूटेशनल सबट्रैक्शन मैनहट्टन टॉवर">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5354)**
+
+**Author:** [everything +AI](https://x.com/AiAigallery) | **Source:** [Link](https://x.com/AiAigallery/status/2059751365287526757) | **Published:** May 27, 2026
+
+---
+### फर्स्ट-पर्सन गुरिल्ला स्टाइल फुटेज
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> grok-imagine के लिए एक बेस प्रॉम्प्ट, जो iPhone पर कैप्चर किए गए 'फाउंड फुटेज' जैसा ग्रिटी, हैंडहेल्ड फर्स्ट-पर्सन पर्सपेक्टिव वीडियो बनाने के लिए है।
+
+#### 📝 Prompt
+
+```
+हैंडहेल्ड गुरिल्ला स्टाइल फाउंड फुटेज वीडियो। ग्रिटी और नैरो एंगल। वह iPhone कैमरा पकड़े हुए है और पूरी तरह से फ्रेम से बाहर है, कोई ग्राफिक ओवरले नहीं। केवल फर्स्ट-पर्सन कैमरा व्यू
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f880960330aa921325b52c1cef19cca1/thumbnails/thumbnail.jpg" width="600" alt="फर्स्ट-पर्सन गुरिल्ला स्टाइल फुटेज">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5357)**
+
+**Author:** [The Rogue AI](https://x.com/evalincoln4101) | **Source:** [Link](https://x.com/evalincoln4101/status/2059710663694721317) | **Published:** May 27, 2026
+
+---
+### स्पेस कैंप ज़ीरो ग्रेविटी एस्ट्रोनॉट्स
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> स्पेस कैंप हंट्सविल में ज़ीरो ग्रेविटी में तैरते हुए भविष्य के युवा अंतरिक्ष यात्रियों को दर्शाने वाला एक मनमौजी बच्चों की किताब की शैली का वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+स्पेस स्काउट वेस्ट और गहरे स्लेटी रंग के कपड़ों में भविष्य के युवा अंतरिक्ष यात्री, जो स्पेस कैंप हंट्सविल के ज़ीरो ग्रेविटी चैंबर में तैर रहे हैं और मज़े कर रहे हैं। उत्साहित, आनंदमय, मनमौजी बच्चों की ई-बुक शैली, प्रेरणादायक माहौल।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/65b5497c1b19352f0dc9352f55e07bed/thumbnails/thumbnail.jpg" width="600" alt="स्पेस कैंप ज़ीरो ग्रेविटी एस्ट्रोनॉट्स">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5355)**
+
+**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2059554674324426973) | **Published:** May 27, 2026
+
+---
 ### मूनलाइट स्टेन्ड ग्लास रिचुअल
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -201,11 +277,68 @@ Why use our gallery?
 पूर्णिमा की दृष्टि के नीचे, वह उठती है। स्टेन्ड ग्लास और तारों की रोशनी, जहाँ सूर्यास्त के अंतिम रंग अभी भी आकाश में बने हुए हैं।
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cce432155a0d1eef6ea64c07586db35c/thumbnails/thumbnail.jpg" width="600" alt="मूनलाइट स्टेन्ड ग्लास रिचुअल">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/53f43c2ea40cfc942002c8e0b4c8d265/thumbnails/thumbnail.jpg" width="600" alt="मूनलाइट स्टेन्ड ग्लास रिचुअल">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5330)**
 
 **Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2059492955270828342) | **Published:** May 27, 2026
+
+---
+### दा विंची स्टाइल कैलेंडर मशीन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> लियोनार्डो दा विंची के रेखाचित्रों की शैली में एक जटिल यांत्रिक कैलेंडर का वर्णन करने वाला एक विस्तृत वीडियो प्रॉम्प्ट, जिसमें आपस में जुड़े हुए कांस्य के पहिये और ग्रहों का संरेखण शामिल है।
+
+#### 📝 Prompt
+
+```
+(जहाँ लागू हो, दा विंची-शैली के रेखाचित्र की कल्पना करें: जैसे उनके कोडेक्स अटलांटिकस (Codex Atlanticus) के गियर ट्रेन, लेकिन समय के लिए—आपस में जुड़े हुए कांस्य के पहिये जिन पर “360-day Egypt,” “Venus comet path,” और “Mars sling” अंकित हैं, साथ ही एक अचानक धुरी का झुकाव जो तंत्र को तोड़ रहा है; छोटे मानव आंकड़े (फिरौन, माया पुजारी) पांच “पवित्र दिन” जोड़ने के लिए संघर्ष कर रहे हैं, जबकि ग्रहों का एक घूमता हुआ भंवर पूरी कैलेंडर मशीन को पुनर्जागरण काल के सटीक परिप्रेक्ष्य में फिर से संरेखित कर रहा है!)
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e2755189a8a5222d278167ca4f77645f/thumbnails/thumbnail.jpg" width="600" alt="दा विंची स्टाइल कैलेंडर मशीन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5353)**
+
+**Author:** [the don of hockey](https://x.com/don_allain) | **Source:** [Link](https://x.com/don_allain/status/2059451078807114105) | **Published:** May 27, 2026
+
+---
+### जादुई गार्डन ग्नोम्स वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक मनमोहक grok-imagine वीडियो प्रॉम्प्ट जहाँ दो गार्डन ग्नोम्स एक-दूसरे का हाथ छूते हैं, जिससे आकाश में एक दिव्य परिवर्तन होता है और वह तारों भरी आकाशगंगा में बदल जाता है।
+
+#### 📝 Prompt
+
+```
+एक पुरुष गार्डन ग्नोम दूसरे महिला गार्डन ग्नोम का हाथ छूता है और आकाश तारों और आकाशगंगा (Milky Way) से जगमगा उठता है
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e3740808f8371b8cc1db5d839f1121a/thumbnails/thumbnail.jpg" width="600" alt="जादुई गार्डन ग्नोम्स वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5356)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2059436913640267902) | **Published:** May 27, 2026
+
+---
+### भविष्यवादी माँ और बेटी का चित्रण
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक भविष्यवादी डिजिटल चित्रण के लिए प्रॉम्प्ट, जो विज्ञान-कथा (sci-fi) शैली में माँ और बेटी के बीच के बंधन को दर्शाता है।
+
+#### 📝 Prompt
+
+```
+BlueGoo और Vera का एक भविष्यवादी डिजिटल चित्रण, माँ और बेटी का प्यार हमेशा जवाब होता है
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8ab81211c8db51b535152148a750a172/thumbnails/thumbnail.jpg" width="600" alt="भविष्यवादी माँ और बेटी का चित्रण">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5358)**
+
+**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2059431777593344125) | **Published:** May 27, 2026
 
 ---
 ### Cybernetic Space Book Promotion
@@ -2002,144 +2135,6 @@ Grok Imagine, सुंदर एनीमे स्टाइल, एक दृ�
 **Author:** [Sovannara 🚚🛣️🚚](https://x.com/Udom_Barca) | **Source:** [Link](https://x.com/Udom_Barca/status/2056658419202048282) | **Published:** May 19, 2026
 
 ---
-### शांत और अलौकिक एंजेल एनीमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> सुनहरे पंखों और सूक्ष्म प्रकाश प्रभावों वाले एक एंजेल का सौम्य स्लो-मोशन एनीमेशन प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-सौम्य स्लो-मोशन एनीमेशन, शांत और अलौकिक एंजेल शांति से खड़ी है, आँखें धीरे से खुली हुई हैं, बहुत ही सूक्ष्म सांस लेने की गति, नाजुक सुनहरे पंख धीरे-धीरे उसके चारों ओर तैर रहे हैं, हल्की चमकती रोशनी धीरे-धीरे धड़क रही है, शांत और पवित्र वातावरण, न्यूनतम हलचल,...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/21d38fd0b16defd61737fdff7026f7e0/thumbnails/thumbnail.jpg" width="600" alt="शांत और अलौकिक एंजेल एनीमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5047)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2056640121953235299) | **Published:** May 19, 2026
-
----
-### Crown and Crayons Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक अनोखा प्रॉम्प्ट जो मॉडल को किसी मौजूदा तस्वीर में ताज और क्रेयॉन को नाक और कानों में जोड़ने और उसे एनिमेट करने का निर्देश देता है।
-
-#### 📝 Prompt
-
-```
-नमस्ते Grok, क्या आप इस तस्वीर को सिर पर ताज और नाक व कानों से बाहर निकलते हुए क्रेयॉन के साथ बना सकते हैं?
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cfd67bca2d4bc57d7d19ae1db9dda410/thumbnails/thumbnail.jpg" width="600" alt="Crown and Crayons Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5040)**
-
-**Author:** [Methodnes](https://x.com/methodnes) | **Source:** [Link](https://x.com/methodnes/status/2056581025656950910) | **Published:** May 19, 2026
-
----
-### ड्राइवर सीट एक्शन सीक्वेंस
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक विस्तृत सिनेमाई सीक्वेंस जिसमें एक पात्र कार में बैठता है, दरवाजा बंद करता है और स्टीयरिंग व्हील थामता है।
-
-#### 📝 Prompt
-
-```
-कोई आवाज़ नहीं 
-पुरुष विषमलैंगिक 
-Lirathen को बैठाएं, दरवाजा बंद करवाएं और स्टीयरिंग व्हील पकड़वाएं।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/42fad6aabd3a05f080d9eea6eccebe0f/thumbnails/thumbnail.jpg" width="600" alt="ड्राइवर सीट एक्शन सीक्वेंस">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5035)**
-
-**Author:** [Alex Patricio](https://x.com/alexpatricio204) | **Source:** [Link](https://x.com/alexpatricio204/status/2056570076212363555) | **Published:** May 19, 2026
-
----
-### सिनेमैटिक ज़ूम और मुस्कान
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक परिष्कृत वीडियो प्रॉम्प्ट जो कैमरा ज़ूम, पर्यावरणीय धूल प्रभाव, और एक पात्र के चेहरे के गंभीर से मुस्कुराते हुए भाव में परिवर्तन का विवरण देता है।
-
-#### 📝 Prompt
-
-```
-उसके चेहरे पर बहुत धीमा ज़ूम। शॉट के दौरान उड़ती हुई धूल समय-समय पर दृश्य को धुंधला कर देती है।
-
-एक्सटेंड-ज़ूम उसके चेहरे पर समाप्त होता है। वह अपने चेहरे से धूल पोंछती है। कैमरे की ओर गंभीरता से देखती है और फिर एक हल्की शरारती मुस्कान देती है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/92697ee1cb6112d230bf1871abc29b42/thumbnails/thumbnail.jpg" width="600" alt="सिनेमैटिक ज़ूम और मुस्कान">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5041)**
-
-**Author:** [Dave Wilson](https://x.com/HRDESIGNS) | **Source:** [Link](https://x.com/HRDESIGNS/status/2056555804694663510) | **Published:** May 19, 2026
-
----
-### नाचते हुए फूल और पृथ्वी का वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक मनमोहक वीडियो प्रॉम्प्ट जिसमें नाचते हुए फूल के पीछे दिल, एक रंगीन घर और पृथ्वी का दृश्य शामिल करने का अनुरोध किया गया है।
-
-#### 📝 Prompt
-
-```
-आज रात, मेरी बेटी Savannah एक नाचते हुए फूल की तस्वीर बनाना चाहती है जिसके पीछे दिल हों। वह यह भी अनुरोध कर रही है कि क्या उसे गुलाबी और बैंगनी रंग का घर मिल सकता है। वह वीडियो में पृथ्वी को भी देखना पसंद करेगी।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6b0fec9439f546b2ee3eebe292e2776f/thumbnails/thumbnail.jpg" width="600" alt="नाचते हुए फूल और पृथ्वी का वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5004)**
-
-**Author:** [Firecracker](https://x.com/CantTameFire) | **Source:** [Link](https://x.com/CantTameFire/status/2056550752038883413) | **Published:** May 19, 2026
-
----
-### मिस्टी ड्रम रिदम
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> धुंध और लकड़ी के धुएं से घिरे एक पुराने चमड़े के ड्रम पर धीमी लय में थपथपाते हाथों का एक वायुमंडलीय दृश्य।
-
-#### 📝 Prompt
-
-```
-एक आदमी के हाथ पुराने खाल से ढके ड्रम पर धीमी लय में थपथपा रहे हैं,
-पीतल की कीलें और चमड़े की डोरियां ड्रम पर खाल को जकड़े हुए हैं, धुंध और लकड़ी का धुआं चारों ओर घूम रहा है,
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/387a8e72c7a3021c0970d3ee5e964e9b/thumbnails/thumbnail.jpg" width="600" alt="मिस्टी ड्रम रिदम">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5044)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2056546954059161841) | **Published:** May 19, 2026
-
----
-### न्याय की तराजू का ज़ूम आउट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमाई वीडियो प्रॉम्प्ट जो न्याय की तराजू और एक अर्थपूर्ण सामाजिक उद्धरण वाली दीवार पर ज़ूम-आउट प्रभाव का उपयोग करता है।
-
-#### 📝 Prompt
-
-```
-@image1 ज़ूम आउट। न्याय की तराजू वाली दीवार। वह कहती है, एक व्यक्ति के साथ हुआ अन्याय पूरे समाज के लिए खतरा है....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d37c6338f2c746a5dd96d7faa3a8d3fa/thumbnails/thumbnail.jpg" width="600" alt="न्याय की तराजू का ज़ूम आउट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5039)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2056543882926571565) | **Published:** May 19, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2201,6 +2196,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-28T04:25:57.617Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-28T11:55:50.925Z</sub>
 
 </div>

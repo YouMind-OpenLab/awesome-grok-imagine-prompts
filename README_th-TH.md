@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1670** |
+| 📝 Total Prompts | **1677** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-28** |
 
@@ -189,6 +189,82 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### พรอมต์กลุ่มเมฆตัวโน้ตดนตรี
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์เชิงกวีที่เสียงดนตรีจากไวโอลินถูกถ่ายทอดออกมาเป็นภาพตัวอักษรภายในเอฟเฟกต์กลุ่มเมฆหมอก
+
+#### 📝 Prompt
+
+```
+ขณะที่เธอบรรเลงดนตรี เสียงที่เกิดขึ้นจะถูกมองเห็นและแสดงออกมาเป็นตัวโน้ตดนตรีที่ลอยออกมาจากไวโอลิน ก่อตัวเป็นคำว่า “GOD First always.” ท่ามกลางกลุ่มเมฆหมอก
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c368e49288e7394cde4426eb20593f6b/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์กลุ่มเมฆตัวโน้ตดนตรี">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5359)**
+
+**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2059759517143859660) | **Published:** May 27, 2026
+
+---
+### ตึกระฟ้าแมนแฮตตันที่สร้างด้วยกระบวนการ Computational Subtraction
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง (Prompt) สำหรับสร้างวิดีโอตึกระฟ้าสูงพิเศษในแมนแฮตตัน ซึ่งได้รับการออกแบบทางสถาปัตยกรรมด้วยกระบวนการ Computational Subtraction เพื่อสร้างช่องว่างขนาดใหญ่ภายในตัวอาคาร
+
+#### 📝 Prompt
+
+```
+ตึกระฟ้าที่สร้างโดย AI ในแมนแฮตตัน โครงสร้างแนวตั้งสูง 430 เมตร ที่ถูกแกะสลักด้วยกระบวนการ Computational Subtraction เผยให้เห็นช่องว่างขนาดใหญ่ที่ถูกเจาะออก
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e4733da51d048e62b5b1833efd1dfa1c/thumbnails/thumbnail.jpg" width="600" alt="ตึกระฟ้าแมนแฮตตันที่สร้างด้วยกระบวนการ Computational Subtraction">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5354)**
+
+**Author:** [everything +AI](https://x.com/AiAigallery) | **Source:** [Link](https://x.com/AiAigallery/status/2059751365287526757) | **Published:** May 27, 2026
+
+---
+### ฟุตเทจสไตล์กองโจรแบบมุมมองบุคคลที่หนึ่ง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่งพื้นฐาน (Base prompt) สำหรับ grok-imagine เพื่อสร้างวิดีโอแบบมุมมองบุคคลที่หนึ่งที่ดูสมจริงและดิบเถื่อน คล้ายกับฟุตเทจที่ถ่ายด้วย iPhone
+
+#### 📝 Prompt
+
+```
+วิดีโอฟุตเทจสไตล์กองโจรแบบถือถ่าย (HANDHELD) ภาพดูดิบและเป็นมุมแคบ ผู้ถ่ายถือกล้อง IPHONE และตัวผู้ถ่ายอยู่นอกเฟรมทั้งหมด ไม่มีกราฟิกซ้อนทับ เป็นมุมมองกล้องแบบบุคคลที่หนึ่งเท่านั้น
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f880960330aa921325b52c1cef19cca1/thumbnails/thumbnail.jpg" width="600" alt="ฟุตเทจสไตล์กองโจรแบบมุมมองบุคคลที่หนึ่ง">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5357)**
+
+**Author:** [The Rogue AI](https://x.com/evalincoln4101) | **Source:** [Link](https://x.com/evalincoln4101/status/2059710663694721317) | **Published:** May 27, 2026
+
+---
+### นักบินอวกาศไร้น้ำหนักที่ Space Camp
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอสไตล์หนังสือนิทานเด็กสุดแฟนตาซี ที่ถ่ายทอดภาพเหล่านักบินอวกาศตัวน้อยในอนาคตกำลังลอยตัวอยู่ในสภาวะไร้น้ำหนักที่ Space Camp Huntsville
+
+#### 📝 Prompt
+
+```
+เหล่านักบินอวกาศตัวน้อยในอนาคตสวมเสื้อกั๊ก Space Scout และชุดสีเทาเข้ม กำลังลอยตัวและสนุกสนานอยู่ในห้องจำลองสภาวะไร้น้ำหนักที่ Space Camp Huntsville ให้ความรู้สึกตื่นเต้น สนุกสนาน และมีเสน่ห์แบบหนังสือนิทานเด็ก พร้อมบรรยากาศที่สร้างแรงบันดาลใจ
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/65b5497c1b19352f0dc9352f55e07bed/thumbnails/thumbnail.jpg" width="600" alt="นักบินอวกาศไร้น้ำหนักที่ Space Camp">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5355)**
+
+**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2059554674324426973) | **Published:** May 27, 2026
+
+---
 ### พิธีกรรมกระจกสีใต้แสงจันทร์
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -201,11 +277,68 @@ Why use our gallery?
 ภายใต้สายตาของดวงจันทร์เต็มดวง เธอค่อย ๆ ลุกขึ้น ท่ามกลางกระจกสีและแสงดาว ที่ซึ่งสีสันสุดท้ายของยามพระอาทิตย์ตกดินยังคงหลงเหลืออยู่บนท้องฟ้า
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cce432155a0d1eef6ea64c07586db35c/thumbnails/thumbnail.jpg" width="600" alt="พิธีกรรมกระจกสีใต้แสงจันทร์">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/53f43c2ea40cfc942002c8e0b4c8d265/thumbnails/thumbnail.jpg" width="600" alt="พิธีกรรมกระจกสีใต้แสงจันทร์">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5330)**
 
 **Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2059492955270828342) | **Published:** May 27, 2026
+
+---
+### เครื่องปฏิทินกลไกสไตล์ดาวินชี
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์ที่บรรยายถึงกลไกปฏิทินอันซับซ้อนในสไตล์ภาพสเก็ตช์ของ เลโอนาร์โด ดา วินชี โดยมีฟันเฟืองทองเหลืองขัดประสานกันและการเรียงตัวของดวงดาว
+
+#### 📝 Prompt
+
+```
+(หากนึกภาพตาม ให้ลองจินตนาการถึงภาพสเก็ตช์สไตล์ดาวินชี: เหมือนชุดเฟืองใน Codex Atlanticus ของเขาแต่เป็นกลไกสำหรับบอกเวลา—ฟันเฟืองทองเหลืองที่ขัดประสานกันระบุชื่อว่า “360 วันอียิปต์” “เส้นทางดาวศุกร์” และ “วงโคจรดาวอังคาร” พร้อมด้วยแกนหมุนที่เอียงกะทันหันจนทำให้กลไกเกิดรอยร้าว; มีร่างมนุษย์ตัวจิ๋ว (ฟาโรห์, นักบวชชาวมายา) กำลังเร่งรีบเพื่อเพิ่ม “วันศักดิ์สิทธิ์” อีกห้าวัน ในขณะที่กระแสหมุนวนของดวงดาวกำลังจัดเรียงเครื่องปฏิทินกลไกนี้ใหม่ให้เข้าที่ในมุมมองแบบเรอเนซองส์ที่สมบูรณ์แบบ!)
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e2755189a8a5222d278167ca4f77645f/thumbnails/thumbnail.jpg" width="600" alt="เครื่องปฏิทินกลไกสไตล์ดาวินชี">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5353)**
+
+**Author:** [the don of hockey](https://x.com/don_allain) | **Source:** [Link](https://x.com/don_allain/status/2059451078807114105) | **Published:** May 27, 2026
+
+---
+### วิดีโอเหล่าโนมในสวนสุดมหัศจรรย์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอจาก grok-imagine สุดแฟนตาซีที่โนมในสวนสองตัวสัมผัสมือกัน นำไปสู่การเปลี่ยนแปลงของท้องฟ้าให้กลายเป็นทางช้างเผือกที่เต็มไปด้วยดวงดาว
+
+#### 📝 Prompt
+
+```
+โนมสวนตัวผู้เอื้อมมือไปสัมผัสมือของโนมสวนตัวเมีย แล้วท้องฟ้าก็ระเบิดออกเป็นดวงดาวและทางช้างเผือก
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e3740808f8371b8cc1db5d839f1121a/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอเหล่าโนมในสวนสุดมหัศจรรย์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5356)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2059436913640267902) | **Published:** May 27, 2026
+
+---
+### ภาพประกอบแม่ลูกแห่งโลกอนาคต
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง (Prompt) สำหรับสร้างภาพประกอบดิจิทัลแนวไซไฟที่ถ่ายทอดความผูกพันระหว่างแม่และลูกสาว
+
+#### 📝 Prompt
+
+```
+ภาพประกอบดิจิทัลแห่งโลกอนาคตของ BlueGoo และ Vera ในหัวข้อ ความรักระหว่างแม่ลูกคือคำตอบเสมอ
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8ab81211c8db51b535152148a750a172/thumbnails/thumbnail.jpg" width="600" alt="ภาพประกอบแม่ลูกแห่งโลกอนาคต">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5358)**
+
+**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2059431777593344125) | **Published:** May 27, 2026
 
 ---
 ### โปรโมทหนังสือ Cybernetic Space
@@ -2002,144 +2135,6 @@ Grok Imagine, สไตล์อนิเมะที่สวยงาม, ฉ�
 **Author:** [Sovannara 🚚🛣️🚚](https://x.com/Udom_Barca) | **Source:** [Link](https://x.com/Udom_Barca/status/2056658419202048282) | **Published:** May 19, 2026
 
 ---
-### แอนิเมชันเทวทูตผู้สง่างามและเปี่ยมด้วยมนต์ขลัง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับสร้างแอนิเมชันสโลว์โมชันที่นุ่มนวลของเทวทูตที่มีขนนกสีทองพร้อมเอฟเฟกต์แสงที่ละเอียดอ่อน
-
-#### 📝 Prompt
-
-```
-แอนิเมชันสโลว์โมชันที่นุ่มนวล เทวทูตผู้สง่างามและเปี่ยมด้วยมนต์ขลังยืนอยู่อย่างสงบโดยลืมตาขึ้นอย่างแผ่วเบา มีการเคลื่อนไหวของการหายใจที่ละเอียดอ่อนมาก ขนนกสีทองอันบอบบางลอยละล่องอย่างช้าๆ รอบตัวเธอ แสงสว่างนวลตาค่อยๆ เปล่งประกายออกมา บรรยากาศที่เงียบสงบและศักดิ์สิทธิ์ มีการเคลื่อนไหวเพียงเล็กน้อย...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/21d38fd0b16defd61737fdff7026f7e0/thumbnails/thumbnail.jpg" width="600" alt="แอนิเมชันเทวทูตผู้สง่างามและเปี่ยมด้วยมนต์ขลัง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5047)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2056640121953235299) | **Published:** May 19, 2026
-
----
-### แอนิเมชัน Crown and Crayons
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่งสุดแปลกที่ให้โมเดลเพิ่มมงกุฎและสีเทียนเข้าไปในจมูกและหูของรูปภาพที่มีอยู่ พร้อมทั้งสร้างเป็นแอนิเมชัน
-
-#### 📝 Prompt
-
-```
-สวัสดี Grok ช่วยวาดรูปนี้โดยให้ใส่มงกุฎและมีสีเทียนยื่นออกมาจากจมูกและหูได้ไหม?
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cfd67bca2d4bc57d7d19ae1db9dda410/thumbnails/thumbnail.jpg" width="600" alt="แอนิเมชัน Crown and Crayons">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5040)**
-
-**Author:** [Methodnes](https://x.com/methodnes) | **Source:** [Link](https://x.com/methodnes/status/2056581025656950910) | **Published:** May 19, 2026
-
----
-### ลำดับการเคลื่อนไหวบนเบาะคนขับ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ลำดับภาพยนตร์ที่มีรายละเอียดของตัวละครที่กำลังนั่งลงในรถ ปิดประตู และจับพวงมาลัย
-
-#### 📝 Prompt
-
-```
-ไม่มีเสียง 
-เพศชาย 
-ให้ Lirathen นั่งลง ปิดประตู และจับพวงมาลัย
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/42fad6aabd3a05f080d9eea6eccebe0f/thumbnails/thumbnail.jpg" width="600" alt="ลำดับการเคลื่อนไหวบนเบาะคนขับ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5035)**
-
-**Author:** [Alex Patricio](https://x.com/alexpatricio204) | **Source:** [Link](https://x.com/alexpatricio204/status/2056570076212363555) | **Published:** May 19, 2026
-
----
-### Cinematic Zoom and Smile
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่งสร้างวิดีโอ (video prompt) ระดับมืออาชีพที่อธิบายรายละเอียดการซูมกล้อง เอฟเฟกต์ฝุ่นละอองในบรรยากาศ และการเปลี่ยนสีหน้าของตัวละครจากเคร่งขรึมเป็นยิ้มแย้ม
-
-#### 📝 Prompt
-
-```
-ซูมเข้าไปที่ใบหน้าของเธออย่างช้าๆ มีฝุ่นละอองปลิวผ่านหน้ากล้องเป็นระยะ บดบังทัศนวิสัยเป็นครั้งคราว
-
-การซูมแบบ Extend-Zoom สิ้นสุดที่ใบหน้าของเธอ เธอเช็ดฝุ่นบนใบหน้าออก มองมาที่กล้องด้วยแววตาเคร่งขรึมก่อนจะเปลี่ยนเป็นรอยยิ้มที่มีเสน่ห์อย่างนุ่มนวล
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/92697ee1cb6112d230bf1871abc29b42/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Zoom and Smile">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5041)**
-
-**Author:** [Dave Wilson](https://x.com/HRDESIGNS) | **Source:** [Link](https://x.com/HRDESIGNS/status/2056555804694663510) | **Published:** May 19, 2026
-
----
-### วิดีโอดอกไม้เต้นระบำและโลก
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวสร้างสรรค์ที่ขอให้มีดอกไม้เต้นระบำพร้อมหัวใจ บ้านสีสันสดใส และมุมมองของโลก
-
-#### 📝 Prompt
-
-```
-คืนนี้ Savannah ลูกสาวของฉันอยากทำรูปดอกไม้เต้นระบำที่มีหัวใจอยู่ด้านหลัง เธอขอเพิ่มว่าอยากได้บ้านสีชมพูและสีม่วงด้วย นอกจากนี้เธอยังอยากเห็นโลกในวิดีโอนี้อีกด้วย
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6b0fec9439f546b2ee3eebe292e2776f/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอดอกไม้เต้นระบำและโลก">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5004)**
-
-**Author:** [Firecracker](https://x.com/CantTameFire) | **Source:** [Link](https://x.com/CantTameFire/status/2056550752038883413) | **Published:** May 19, 2026
-
----
-### จังหวะกลองท่ามกลางสายหมอก
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> บรรยากาศของมือที่กำลังเคาะจังหวะช้า ๆ บนกลองหนังเก่าแก่ ท่ามกลางสายหมอกและควันไม้
-
-#### 📝 Prompt
-
-```
-มือของผู้ชายกำลังเคาะจังหวะช้า ๆ บนกลองที่หุ้มด้วยหนังเก่า,
-หมุดทองเหลืองและเชือกหนังยึดหนังกลองเอาไว้ มีสายหมอกและควันไม้ลอยวนอยู่รอบ ๆ
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/387a8e72c7a3021c0970d3ee5e964e9b/thumbnails/thumbnail.jpg" width="600" alt="จังหวะกลองท่ามกลางสายหมอก">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5044)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2056546954059161841) | **Published:** May 19, 2026
-
----
-### ซูมออกภาพตาชั่งแห่งความยุติธรรม
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวภาพยนตร์ที่ใช้เอฟเฟกต์ซูมออกบนผนังที่มีรูปตาชั่งแห่งความยุติธรรมพร้อมคำคมทางสังคมที่มีความหมาย
-
-#### 📝 Prompt
-
-```
-@image1 zoom alejamiento. ผนังที่มีรูปตาชั่งแห่งความยุติธรรม เธอพูดว่า ความอยุติธรรมที่เกิดขึ้นกับบุคคลหนึ่งคือภัยคุกคามต่อสังคมทั้งหมด....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d37c6338f2c746a5dd96d7faa3a8d3fa/thumbnails/thumbnail.jpg" width="600" alt="ซูมออกภาพตาชั่งแห่งความยุติธรรม">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5039)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2056543882926571565) | **Published:** May 19, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2201,6 +2196,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-28T04:25:54.303Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-28T11:55:46.277Z</sub>
 
 </div>

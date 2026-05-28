@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1670** |
+| 📝 Total Prompts | **1677** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-28** |
 
@@ -189,6 +189,82 @@ Una valquiria celestial mística y noble, una mujer digna y hermosa con largo ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Prompt de nube de notas musicales
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt poético donde la música de violín se visualiza en palabras dentro de un efecto de nube nebulosa.
+
+#### 📝 Prompt
+
+```
+Mientras ella toca la música, el sonido se ve y se manifiesta a través de las notas musicales que salen del violín y forman las palabras “GOD First always” (Dios primero siempre). Dentro de una nube nebulosa.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c368e49288e7394cde4426eb20593f6b/thumbnails/thumbnail.jpg" width="600" alt="Prompt de nube de notas musicales">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5359)**
+
+**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2059759517143859660) | **Published:** May 27, 2026
+
+---
+### Torre Manhattan de sustracción computacional
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para generar un video de un rascacielos superalto en Manhattan, arquitectónicamente esculpido mediante procesos de sustracción computacional para crear grandes cavidades.
+
+#### 📝 Prompt
+
+```
+Torre superalta generada por IA en Manhattan, estructura vertical de 430 m esculpida mediante un proceso de sustracción computacional, con cavidades masivas talladas
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e4733da51d048e62b5b1833efd1dfa1c/thumbnails/thumbnail.jpg" width="600" alt="Torre Manhattan de sustracción computacional">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5354)**
+
+**Author:** [everything +AI](https://x.com/AiAigallery) | **Source:** [Link](https://x.com/AiAigallery/status/2059751365287526757) | **Published:** May 27, 2026
+
+---
+### Metraje estilo guerrilla en primera persona
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt base para grok-imagine diseñado para crear videos realistas en primera persona, con estilo de metraje encontrado capturado con un iPhone.
+
+#### 📝 Prompt
+
+```
+VIDEO DE METRAJE ENCONTRADO ESTILO GUERRILLA, GRABADO A MANO. ÁNGULO CERRADO Y TEXTURIZADO. ÉL SOSTIENE LA CÁMARA DEL IPHONE Y ESTÁ COMPLETAMENTE FUERA DEL ENCUADRE, SIN SUPERPOSICIÓN GRÁFICA. VISTA DE CÁMARA EXCLUSIVAMENTE EN PRIMERA PERSONA.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f880960330aa921325b52c1cef19cca1/thumbnails/thumbnail.jpg" width="600" alt="Metraje estilo guerrilla en primera persona">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5357)**
+
+**Author:** [The Rogue AI](https://x.com/evalincoln4101) | **Source:** [Link](https://x.com/evalincoln4101/status/2059710663694721317) | **Published:** May 27, 2026
+
+---
+### Astronautas en gravedad cero en el Space Camp
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un video con estilo de libro infantil fantástico que muestra a jóvenes futuros astronautas flotando en gravedad cero en el Space Camp de Huntsville.
+
+#### 📝 Prompt
+
+```
+Jóvenes futuros astronautas con chalecos de Space Scout y ropa de color gris jaspeado oscuro, flotando y divirtiéndose en las cámaras de gravedad cero del Space Camp de Huntsville. Estilo de libro electrónico infantil fantástico, alegre y emocionante, con una atmósfera inspiradora.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/65b5497c1b19352f0dc9352f55e07bed/thumbnails/thumbnail.jpg" width="600" alt="Astronautas en gravedad cero en el Space Camp">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5355)**
+
+**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2059554674324426973) | **Published:** May 27, 2026
+
+---
 ### Ritual de vitrales a la luz de la luna
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -201,11 +277,68 @@ Una valquiria celestial mística y noble, una mujer digna y hermosa con largo ca
 Bajo la mirada de la luna llena, ella se levanta. Vitrales y luz estelar, donde los últimos colores del atardecer aún permanecen en el cielo.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cce432155a0d1eef6ea64c07586db35c/thumbnails/thumbnail.jpg" width="600" alt="Ritual de vitrales a la luz de la luna">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/53f43c2ea40cfc942002c8e0b4c8d265/thumbnails/thumbnail.jpg" width="600" alt="Ritual de vitrales a la luz de la luna">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5330)**
 
 **Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2059492955270828342) | **Published:** May 27, 2026
+
+---
+### Máquina de calendario al estilo de Da Vinci
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un complejo video prompt que describe un intrincado calendario mecánico al estilo de los bocetos de Leonardo da Vinci, con ruedas de bronce entrelazadas y alineación planetaria.
+
+#### 📝 Prompt
+
+```
+(Cuando corresponda, imagina un boceto al estilo de da Vinci: como los trenes de engranajes de su Códice Atlántico pero para el tiempo mismo; ruedas de bronce entrelazadas etiquetadas como “Egipto de 360 días”, “trayectoria del cometa Venus” y “onda de Marte”, con una inclinación repentina del eje que agrieta el mecanismo; diminutas figuras humanas (faraones, sacerdotes mayas) se apresuran a añadir cinco “días sagrados” mientras un vórtice giratorio de planetas realinea toda la máquina del calendario en una perspectiva renacentista perfecta!)
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e2755189a8a5222d278167ca4f77645f/thumbnails/thumbnail.jpg" width="600" alt="Máquina de calendario al estilo de Da Vinci">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5353)**
+
+**Author:** [the don of hockey](https://x.com/don_allain) | **Source:** [Link](https://x.com/don_allain/status/2059451078807114105) | **Published:** May 27, 2026
+
+---
+### Video de gnomos de jardín mágicos
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un fantástico prompt de video para grok-imagine donde dos gnomos de jardín se tocan las manos, provocando una transformación celestial del cielo en una Vía Láctea estrellada.
+
+#### 📝 Prompt
+
+```
+Un gnomo de jardín macho extiende la mano y toca la mano de la gnomo de jardín hembra, y el cielo estalla en estrellas y la Vía Láctea
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e3740808f8371b8cc1db5d839f1121a/thumbnails/thumbnail.jpg" width="600" alt="Video de gnomos de jardín mágicos">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5356)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2059436913640267902) | **Published:** May 27, 2026
+
+---
+### Ilustración futurista de madre e hija
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para una ilustración digital futurista que representa el vínculo entre madre e hija en un estilo de ciencia ficción.
+
+#### 📝 Prompt
+
+```
+Una ilustración digital futurista de BlueGoo y Vera, el amor entre madre e hija siempre es la respuesta
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8ab81211c8db51b535152148a750a172/thumbnails/thumbnail.jpg" width="600" alt="Ilustración futurista de madre e hija">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5358)**
+
+**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2059431777593344125) | **Published:** May 27, 2026
 
 ---
 ### Promoción del libro Cybernetic Space
@@ -2002,144 +2135,6 @@ Haz yoga con las rodillas separadas, ambas manos frente a ti, baja el cuerpo hac
 **Author:** [Sovannara 🚚🛣️🚚](https://x.com/Udom_Barca) | **Source:** [Link](https://x.com/Udom_Barca/status/2056658419202048282) | **Published:** May 19, 2026
 
 ---
-### Animación de ángel etéreo y sereno
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de animación en cámara lenta suave de un ángel con plumas doradas y efectos de iluminación sutiles.
-
-#### 📝 Prompt
-
-```
-Animación suave en cámara lenta, un ángel etéreo y sereno permanece de pie pacíficamente con los ojos suavemente abiertos, movimiento de respiración muy sutil, delicadas plumas doradas flotan lentamente a su alrededor, una luz suave y brillante pulsa delicadamente, atmósfera tranquila y sagrada, movimiento mínimo,...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/21d38fd0b16defd61737fdff7026f7e0/thumbnails/thumbnail.jpg" width="600" alt="Animación de ángel etéreo y sereno">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5047)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2056640121953235299) | **Published:** May 19, 2026
-
----
-### Animación de Corona y Crayones
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt peculiar que le indica al modelo añadir una corona y crayones en la nariz y las orejas de una imagen existente y animarla.
-
-#### 📝 Prompt
-
-```
-Hola Grok, ¿puedes dibujar estas imágenes con una corona y crayones saliendo de la nariz y las orejas?
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cfd67bca2d4bc57d7d19ae1db9dda410/thumbnails/thumbnail.jpg" width="600" alt="Animación de Corona y Crayones">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5040)**
-
-**Author:** [Methodnes](https://x.com/methodnes) | **Source:** [Link](https://x.com/methodnes/status/2056581025656950910) | **Published:** May 19, 2026
-
----
-### Secuencia de acción en el asiento del conductor
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Una secuencia cinemática detallada donde un personaje se sienta en un automóvil, cierra la puerta y toma el volante.
-
-#### 📝 Prompt
-
-```
-Sin voz 
-Hombre heterosexual 
-Haz que Lirathen se siente, cierre la puerta y tome el volante.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/42fad6aabd3a05f080d9eea6eccebe0f/thumbnails/thumbnail.jpg" width="600" alt="Secuencia de acción en el asiento del conductor">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5035)**
-
-**Author:** [Alex Patricio](https://x.com/alexpatricio204) | **Source:** [Link](https://x.com/alexpatricio204/status/2056570076212363555) | **Published:** May 19, 2026
-
----
-### Zoom cinematográfico y sonrisa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video sofisticado que detalla un zoom de cámara, efectos de polvo ambiental y una transición facial específica del personaje, de seria a sonriente.
-
-#### 📝 Prompt
-
-```
-Zoom muy lento hacia su rostro. Polvo arrastrado por el viento cruza la toma y oscurece la vista de vez en cuando.
-
-El zoom extendido termina en su rostro. Ella se limpia la suciedad de la cara. Mira a la cámara con seriedad y luego sonríe de una manera sutil y coqueta.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/92697ee1cb6112d230bf1871abc29b42/thumbnails/thumbnail.jpg" width="600" alt="Zoom cinematográfico y sonrisa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5041)**
-
-**Author:** [Dave Wilson](https://x.com/HRDESIGNS) | **Source:** [Link](https://x.com/HRDESIGNS/status/2056555804694663510) | **Published:** May 19, 2026
-
----
-### Video de una flor bailando y la Tierra
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video encantador que solicita una flor bailando con corazones, una casa colorida y una vista del planeta Tierra.
-
-#### 📝 Prompt
-
-```
-Esta noche, mi hija Savannah quisiera hacer una imagen de una flor bailando con corazones detrás. También pregunta si podría incluir una casa rosa y morada. Además, le encantaría ver la Tierra en el video.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6b0fec9439f546b2ee3eebe292e2776f/thumbnails/thumbnail.jpg" width="600" alt="Video de una flor bailando y la Tierra">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5004)**
-
-**Author:** [Firecracker](https://x.com/CantTameFire) | **Source:** [Link](https://x.com/CantTameFire/status/2056550752038883413) | **Published:** May 19, 2026
-
----
-### Ritmo de tambor entre la niebla
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Una escena atmosférica de manos marcando un ritmo lento sobre un viejo tambor de cuero, rodeado de niebla y humo de leña.
-
-#### 📝 Prompt
-
-```
-manos de un hombre marcan un ritmo lento sobre un tambor viejo cubierto de piel,
-tachuelas de latón y cuerdas de cuero sujetan la piel al tambor, niebla y humo de leña se arremolinan alrededor,
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/387a8e72c7a3021c0970d3ee5e964e9b/thumbnails/thumbnail.jpg" width="600" alt="Ritmo de tambor entre la niebla">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5044)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2056546954059161841) | **Published:** May 19, 2026
-
----
-### Zoom hacia afuera de la balanza de la justicia
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video cinematográfico que utiliza un efecto de zoom hacia afuera sobre una pared que muestra la balanza de la justicia con una cita social significativa.
-
-#### 📝 Prompt
-
-```
-@image1 zoom out. Pared con la balanza de la justicia. Ella dice: Una injusticia cometida contra un individuo es una amenaza para toda la sociedad...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d37c6338f2c746a5dd96d7faa3a8d3fa/thumbnails/thumbnail.jpg" width="600" alt="Zoom hacia afuera de la balanza de la justicia">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5039)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2056543882926571565) | **Published:** May 19, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2201,6 +2196,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-28T04:26:01.271Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-28T11:55:54.530Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **1670** |
+| 📝 プロンプト総数 | **1677** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-05-28** |
 
@@ -189,6 +189,82 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### 音符のクラウドプロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> バイオリンの旋律が霧のような雲の中で言葉として視覚化される、詩的なプロンプトです。
+
+#### 📝 プロンプト
+
+```
+彼女がバイオリンを奏でると、その音色が音符となって浮かび上がり、霧のような雲の中で「GOD First always.」という言葉を形作ります。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c368e49288e7394cde4426eb20593f6b/thumbnails/thumbnail.jpg" width="600" alt="音符のクラウドプロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5359)**
+
+**作者:** [the_light](https://x.com/the_light35) | **ソース:** [Link](https://x.com/the_light35/status/2059759517143859660) | **公開日:** May 27, 2026
+
+---
+### 計算的減算によるマンハッタン・タワー
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 計算的減算プロセスを用いて建築的に彫り込まれ、巨大な空洞が作られたマンハッタンの超高層ビルの動画を生成するためのプロンプト。
+
+#### 📝 プロンプト
+
+```
+AI が生成したマンハッタンの超高層ビル、計算的減算プロセスによって彫り込まれた高さ 430 m の垂直構造物、巨大な切り抜き状の空洞
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e4733da51d048e62b5b1833efd1dfa1c/thumbnails/thumbnail.jpg" width="600" alt="計算的減算によるマンハッタン・タワー">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5354)**
+
+**作者:** [everything +AI](https://x.com/AiAigallery) | **ソース:** [Link](https://x.com/AiAigallery/status/2059751365287526757) | **公開日:** May 27, 2026
+
+---
+### 一人称視点のゲリラスタイル映像
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> grok-imagine 用のベースプロンプト。iPhone で撮影されたファウンド・フッテージのような、臨場感あふれる手持ちの一人称視点動画を作成します。
+
+#### 📝 プロンプト
+
+```
+手持ちのゲリラスタイルによるファウンド・フッテージ動画。ザラついた質感と狭い画角。iPhone カメラを保持している人物はフレーム外に完全に隠れており、グラフィックオーバーレイは一切なし。一人称視点のカメラ映像のみ
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f880960330aa921325b52c1cef19cca1/thumbnails/thumbnail.jpg" width="600" alt="一人称視点のゲリラスタイル映像">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5357)**
+
+**作者:** [The Rogue AI](https://x.com/evalincoln4101) | **ソース:** [Link](https://x.com/evalincoln4101/status/2059710663694721317) | **公開日:** May 27, 2026
+
+---
+### スペースキャンプの無重力宇宙飛行士たち
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> スペースキャンプ・ハンツビルで無重力状態を体験する未来の宇宙飛行士たちを描いた、絵本のような遊び心あふれるビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+スペーススカウトのベストとダークヘザーグレーの服を身にまとい、スペースキャンプ・ハンツビルの無重力チャンバーで楽しそうに浮かぶ未来の宇宙飛行士たち。ワクワクするような楽しげで幻想的な子供向け絵本風のスタイル、インスピレーションあふれる雰囲気。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/65b5497c1b19352f0dc9352f55e07bed/thumbnails/thumbnail.jpg" width="600" alt="スペースキャンプの無重力宇宙飛行士たち">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5355)**
+
+**作者:** [Jean](https://x.com/SpaceScoutsIntl) | **ソース:** [Link](https://x.com/SpaceScoutsIntl/status/2059554674324426973) | **公開日:** May 27, 2026
+
+---
 ### 月光に染まるステンドグラスの儀式
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -201,11 +277,68 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 満月の光を浴びて、彼女は立ち上がる。ステンドグラスと星明かりが交差する場所、空には夕暮れの最後の色がまだ残っている。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cce432155a0d1eef6ea64c07586db35c/thumbnails/thumbnail.jpg" width="600" alt="月光に染まるステンドグラスの儀式">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/53f43c2ea40cfc942002c8e0b4c8d265/thumbnails/thumbnail.jpg" width="600" alt="月光に染まるステンドグラスの儀式">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5330)**
 
 **作者:** [DuBoseJen](https://x.com/DuBosefire) | **ソース:** [Link](https://x.com/DuBosefire/status/2059492955270828342) | **公開日:** May 27, 2026
+
+---
+### ダ・ヴィンチ様式のカレンダーマシン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> レオナルド・ダ・ヴィンチのスケッチ風に描かれた、複雑な機械式カレンダーのビデオプロンプト。噛み合うブロンズ製の歯車と惑星の配置が特徴です。
+
+#### 📝 プロンプト
+
+```
+（ダ・ヴィンチ様式のスケッチをイメージしてください：『アトランティクス手稿』に見られるような歯車機構を時間そのものに応用したもので、「エジプト 360 日」「金星の彗星軌道」「火星のスイングバイ」と刻印されたブロンズ製の歯車が噛み合っています。突然の軸の傾きによって機構に亀裂が入り、小さな人間たち（ファラオやマヤの神官）が慌ただしく 5 日間の「聖なる日」を付け加えようとする中、渦巻く惑星の奔流がルネサンス様式の完璧な遠近法の中でカレンダーマシン全体を再配置していく様子を描写してください！）
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e2755189a8a5222d278167ca4f77645f/thumbnails/thumbnail.jpg" width="600" alt="ダ・ヴィンチ様式のカレンダーマシン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5353)**
+
+**作者:** [the don of hockey](https://x.com/don_allain) | **ソース:** [Link](https://x.com/don_allain/status/2059451078807114105) | **公開日:** May 27, 2026
+
+---
+### 魔法のガーデンノームの動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 2 体のガーデンノームが手を取り合うと、空が星空や天の川へと変化する、幻想的な grok-imagine 用の動画プロンプトです。
+
+#### 📝 プロンプト
+
+```
+1 体の男性ガーデンノームがもう 1 体の女性ガーデンノームの手に触れると、空が弾けるように星々や天の川へと変化する
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e3740808f8371b8cc1db5d839f1121a/thumbnails/thumbnail.jpg" width="600" alt="魔法のガーデンノームの動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5356)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2059436913640267902) | **公開日:** May 27, 2026
+
+---
+### 近未来的な母と娘のイラスト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> SF スタイルで母と娘の絆を描いた、近未来的なデジタルイラストを作成するためのプロンプトです。
+
+#### 📝 プロンプト
+
+```
+BlueGoo と Vera を描いた近未来的なデジタルイラスト。母と娘の愛こそが常に答えである
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8ab81211c8db51b535152148a750a172/thumbnails/thumbnail.jpg" width="600" alt="近未来的な母と娘のイラスト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5358)**
+
+**作者:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **ソース:** [Link](https://x.com/TLouisevsughan/status/2059431777593344125) | **公開日:** May 27, 2026
 
 ---
 ### Cybernetic Space Book プロモーション
@@ -2002,144 +2135,6 @@ Grok Imagine、美しいアニメスタイル。Ani ちゃん（金髪のポニ�
 **作者:** [Sovannara 🚚🛣️🚚](https://x.com/Udom_Barca) | **ソース:** [Link](https://x.com/Udom_Barca/status/2056658419202048282) | **公開日:** May 19, 2026
 
 ---
-### 穏やかで幻想的な天使のアニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 黄金の羽と繊細な光の演出が特徴的な、天使の穏やかなスローモーションアニメーション用プロンプト。
-
-#### 📝 プロンプト
-
-```
-穏やかなスローモーションアニメーション、静かに佇む幻想的な天使、優しく開かれた瞳、ごくわずかな呼吸の動き、周囲をゆっくりと舞う繊細な黄金の羽、優しく明滅する柔らかな光、静寂で神聖な雰囲気、最小限の動き、...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/21d38fd0b16defd61737fdff7026f7e0/thumbnails/thumbnail.jpg" width="600" alt="穏やかで幻想的な天使のアニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5047)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2056640121953235299) | **公開日:** May 19, 2026
-
----
-### Crown and Crayons Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 既存の画像に王冠を追加し、鼻や耳からクレヨンが出ている様子を描画してアニメーション化する、ユニークなプロンプトです。
-
-#### 📝 プロンプト
-
-```
-Grok 、この画像に王冠を被せて、鼻と耳からクレヨンが突き出ているように描いてくれる？
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cfd67bca2d4bc57d7d19ae1db9dda410/thumbnails/thumbnail.jpg" width="600" alt="Crown and Crayons Animation">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5040)**
-
-**作者:** [Methodnes](https://x.com/methodnes) | **ソース:** [Link](https://x.com/methodnes/status/2056581025656950910) | **公開日:** May 19, 2026
-
----
-### 運転席での一連の動作
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> キャラクターが車に乗り込み、ドアを閉め、ハンドルを握るまでの詳細なシネマティック・シーケンス。
-
-#### 📝 プロンプト
-
-```
-音声なし 
-男性（異性愛者） 
-Lirathen を座らせ、ドアを閉めさせ、ハンドルを握らせる。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/42fad6aabd3a05f080d9eea6eccebe0f/thumbnails/thumbnail.jpg" width="600" alt="運転席での一連の動作">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5035)**
-
-**作者:** [Alex Patricio](https://x.com/alexpatricio204) | **ソース:** [Link](https://x.com/alexpatricio204/status/2056570076212363555) | **公開日:** May 19, 2026
-
----
-### シネマティックなズームと微笑み
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> カメラのズーム、環境のダストエフェクト、そしてキャラクターの表情が真剣なものから笑顔へと変化する様子を詳細に記述した、洗練されたビデオプロンプトです。
-
-#### 📝 プロンプト
-
-```
-彼女の顔へ非常にゆっくりとズームイン。風に舞う塵がショット全体を横切り、時折視界を遮る。
-
-エクステンド・ズームは彼女の顔で終了。彼女は顔の汚れを拭い、カメラを真剣な眼差しで見つめた後、さりげなく魅惑的な微笑みを浮かべる。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/92697ee1cb6112d230bf1871abc29b42/thumbnails/thumbnail.jpg" width="600" alt="シネマティックなズームと微笑み">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5041)**
-
-**作者:** [Dave Wilson](https://x.com/HRDESIGNS) | **ソース:** [Link](https://x.com/HRDESIGNS/status/2056555804694663510) | **公開日:** May 19, 2026
-
----
-### 踊る花と地球の動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ハートと一緒に踊る花、カラフルな家、そして地球の景色をリクエストする、心温まる動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-今夜、娘の Savannah が、後ろにハートが浮かぶ踊る花の絵を作りたいと言っています。また、ピンクと紫の家も入れてほしいそうです。動画の中に地球も映っていたら嬉しいとのことです。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6b0fec9439f546b2ee3eebe292e2776f/thumbnails/thumbnail.jpg" width="600" alt="踊る花と地球の動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5004)**
-
-**作者:** [Firecracker](https://x.com/CantTameFire) | **ソース:** [Link](https://x.com/CantTameFire/status/2056550752038883413) | **公開日:** May 19, 2026
-
----
-### 霧の中のドラムのリズム
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 霧と薪の煙に包まれた古い革のドラムを、ゆっくりとしたリズムで叩く手の雰囲気のあるシーン。
-
-#### 📝 プロンプト
-
-```
-古い獣皮が張られたドラムをゆっくりとしたリズムで叩く男性の手、
-真鍮の鋲と革紐で固定されたドラムの皮、周囲に立ち込める霧と薪の煙
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/387a8e72c7a3021c0970d3ee5e964e9b/thumbnails/thumbnail.jpg" width="600" alt="霧の中のドラムのリズム">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5044)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2056546954059161841) | **公開日:** May 19, 2026
-
----
-### 正義の天秤のズームアウト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 正義の天秤が描かれた壁からズームアウトし、意味深い社会的な引用を表示するシネマティックな動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-@image1 ズームアウト。正義の天秤が描かれた壁。彼女は「個人に対する不正義は、社会全体への脅威である」と語る……
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d37c6338f2c746a5dd96d7faa3a8d3fa/thumbnails/thumbnail.jpg" width="600" alt="正義の天秤のズームアウト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5039)**
-
-**作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **ソース:** [Link](https://x.com/clemensilverio/status/2056543882926571565) | **公開日:** May 19, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2201,6 +2196,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-05-28T04:25:51.561Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-05-28T11:55:42.611Z</sub>
 
 </div>

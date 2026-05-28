@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **1670** |
+| 📝 提示詞總數 | **1677** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-05-28** |
 
@@ -189,6 +189,82 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 音符雲提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個充滿詩意的提示詞，將小提琴音樂視覺化為朦朧雲霧中的文字。
+
+#### 📝 提示詞
+
+```
+當她演奏音樂時，聲音化作具象的音符從琴中飄出，並在朦朧的雲霧中匯聚成「GOD First always.」的字樣。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c368e49288e7394cde4426eb20593f6b/thumbnails/thumbnail.jpg" width="600" alt="音符雲提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5359)**
+
+**作者:** [the_light](https://x.com/the_light35) | **來源:** [Link](https://x.com/the_light35/status/2059759517143859660) | **發布時間:** May 27, 2026
+
+---
+### 計算減法曼哈頓大樓
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個用於生成曼哈頓超高層摩天大樓影片的提示詞，該建築透過計算減法過程進行雕塑，創造出巨大的空腔。
+
+#### 📝 提示詞
+
+```
+AI 生成的曼哈頓超高層大樓，430 公尺垂直結構，由計算減法過程雕塑而成，具有巨大的鏤空結構
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e4733da51d048e62b5b1833efd1dfa1c/thumbnails/thumbnail.jpg" width="600" alt="計算減法曼哈頓大樓">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5354)**
+
+**作者:** [everything +AI](https://x.com/AiAigallery) | **來源:** [Link](https://x.com/AiAigallery/status/2059751365287526757) | **發布時間:** May 27, 2026
+
+---
+### 第一人稱游擊風格影像
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個用於 grok-imagine 的基礎提示詞，旨在創作類似於 iPhone 拍攝的寫實、手持第一人稱視角「拾得影像」（found footage）風格影片。
+
+#### 📝 提示詞
+
+```
+手持游擊風格拾得影像。顆粒感強且視角狹窄。拍攝者正手持 iPhone 攝影機，且完全處於畫面之外，無任何圖形疊加。僅限第一人稱攝影機視角。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f880960330aa921325b52c1cef19cca1/thumbnails/thumbnail.jpg" width="600" alt="第一人稱游擊風格影像">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5357)**
+
+**作者:** [The Rogue AI](https://x.com/evalincoln4101) | **來源:** [Link](https://x.com/evalincoln4101/status/2059710663694721317) | **發布時間:** May 27, 2026
+
+---
+### 太空營的零重力太空人
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個充滿奇趣的兒童繪本風格影片提示詞，描繪了未來的年輕太空人在亨茨維爾太空營（Space Camp Huntsville）的零重力環境中漂浮的場景。
+
+#### 📝 提示詞
+
+```
+身穿太空童軍背心與深石楠灰服裝的未來年輕太空人，在亨茨維爾太空營（Space Camp Huntsville）的零重力艙中漂浮並享受樂趣。充滿興奮、歡樂、奇趣的兒童電子書風格，營造出鼓舞人心的氛圍。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/65b5497c1b19352f0dc9352f55e07bed/thumbnails/thumbnail.jpg" width="600" alt="太空營的零重力太空人">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5355)**
+
+**作者:** [Jean](https://x.com/SpaceScoutsIntl) | **來源:** [Link](https://x.com/SpaceScoutsIntl/status/2059554674324426973) | **發布時間:** May 27, 2026
+
+---
 ### 月光彩繪玻璃儀式
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -201,11 +277,68 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 在滿月的凝視下，她緩緩升起。彩繪玻璃與星光交相輝映，夕陽的最後一抹餘暉仍流連於天際。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cce432155a0d1eef6ea64c07586db35c/thumbnails/thumbnail.jpg" width="600" alt="月光彩繪玻璃儀式">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/53f43c2ea40cfc942002c8e0b4c8d265/thumbnails/thumbnail.jpg" width="600" alt="月光彩繪玻璃儀式">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5330)**
 
 **作者:** [DuBoseJen](https://x.com/DuBosefire) | **來源:** [Link](https://x.com/DuBosefire/status/2059492955270828342) | **發布時間:** May 27, 2026
+
+---
+### 達文西風格曆法機
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段精緻的影片提示詞，描述了一台以李奧納多·達文西素描風格呈現的複雜機械曆法，包含相互咬合的青銅齒輪與行星排列。
+
+#### 📝 提示詞
+
+```
+（若適用，請想像一幅達文西風格的素描：如同他《大西洋古抄本》中的齒輪組，但呈現的是時間本身——相互咬合的青銅齒輪上標註著「埃及 360 天」、「金星彗星軌道」與「火星彈弓效應」，伴隨著軸心突然傾斜導致機械結構破裂；微小的人類身影（法老、馬雅祭司）匆忙地補上五個「聖日」，同時一陣行星漩渦將整台曆法機在完美的文藝復興透視法下重新排列！）
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e2755189a8a5222d278167ca4f77645f/thumbnails/thumbnail.jpg" width="600" alt="達文西風格曆法機">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5353)**
+
+**作者:** [the don of hockey](https://x.com/don_allain) | **來源:** [Link](https://x.com/don_allain/status/2059451078807114105) | **發布時間:** May 27, 2026
+
+---
+### 魔法花園小矮人影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個充滿奇幻色彩的 grok-imagine 影片提示詞：兩隻花園小矮人手牽手，觸發了天空變成璀璨銀河的星際轉變。
+
+#### 📝 提示詞
+
+```
+一隻男性花園小矮人伸手觸碰另一隻女性花園小矮人的手，隨後天空瞬間爆發出繁星與銀河
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e3740808f8371b8cc1db5d839f1121a/thumbnails/thumbnail.jpg" width="600" alt="魔法花園小矮人影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5356)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2059436913640267902) | **發布時間:** May 27, 2026
+
+---
+### 未來感母女插畫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個關於未來感數位插畫的提示詞，描繪了科幻風格中母女之間的深厚情感。
+
+#### 📝 提示詞
+
+```
+一張關於 BlueGoo 與 Vera 的未來感數位插畫，母女之愛永遠是最佳解答
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8ab81211c8db51b535152148a750a172/thumbnails/thumbnail.jpg" width="600" alt="未來感母女插畫">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5358)**
+
+**作者:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **來源:** [Link](https://x.com/TLouisevsughan/status/2059431777593344125) | **發布時間:** May 27, 2026
 
 ---
 ### Cybernetic Space 書籍推廣
@@ -2002,144 +2135,6 @@ Grok Imagine，精美的動漫風格，場景為 Ani-chan（金色馬尾、綠�
 **作者:** [Sovannara 🚚🛣️🚚](https://x.com/Udom_Barca) | **來源:** [Link](https://x.com/Udom_Barca/status/2056658419202048282) | **發布時間:** May 19, 2026
 
 ---
-### 寧靜空靈天使動畫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個溫柔的慢動作動畫提示詞，描繪了一位擁有金色羽毛與細膩光影效果的天使。
-
-#### 📝 提示詞
-
-```
-溫柔的慢動作動畫，寧靜空靈的天使平靜地站立，雙眼輕柔地睜開，有著極其細微的呼吸動作，精緻的金色羽毛在她身邊緩緩飄落，柔和的發光效果輕輕閃爍，氛圍平靜而神聖，動作幅度極小，...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/21d38fd0b16defd61737fdff7026f7e0/thumbnails/thumbnail.jpg" width="600" alt="寧靜空靈天使動畫">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5047)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2056640121953235299) | **發布時間:** May 19, 2026
-
----
-### Crown and Crayons Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個獨特的指令，引導模型在現有圖片中加入皇冠，並在鼻子和耳朵處加上蠟筆，最後進行動畫製作。
-
-#### 📝 提示詞
-
-```
-嗨 Grok，你可以幫我把這張圖片加上皇冠，並讓蠟筆從鼻子和耳朵裡伸出來嗎？
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cfd67bca2d4bc57d7d19ae1db9dda410/thumbnails/thumbnail.jpg" width="600" alt="Crown and Crayons Animation">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5040)**
-
-**作者:** [Methodnes](https://x.com/methodnes) | **來源:** [Link](https://x.com/methodnes/status/2056581025656950910) | **發布時間:** May 19, 2026
-
----
-### 駕駛座動作序列
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段細緻的電影級動作序列，描述角色坐進車內、關上車門並握住方向盤的過程。
-
-#### 📝 提示詞
-
-```
-無語音 
-異性戀男性 
-讓 Lirathen 坐下、關上車門並握住方向盤。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/42fad6aabd3a05f080d9eea6eccebe0f/thumbnails/thumbnail.jpg" width="600" alt="駕駛座動作序列">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5035)**
-
-**作者:** [Alex Patricio](https://x.com/alexpatricio204) | **來源:** [Link](https://x.com/alexpatricio204/status/2056570076212363555) | **發布時間:** May 19, 2026
-
----
-### 電影感變焦與微笑
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個精緻的影片提示詞，詳細描述了鏡頭變焦、環境灰塵特效，以及角色從嚴肅轉為微笑的表情變化。
-
-#### 📝 提示詞
-
-```
-鏡頭非常緩慢地變焦特寫她的臉部。隨風飄散的灰塵不時遮擋畫面。
-
-Extend-Zoom 結束於她的臉部特寫。她擦去臉上的灰塵。先是嚴肅地注視鏡頭，隨後露出一個微妙且帶有調情意味的微笑。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/92697ee1cb6112d230bf1871abc29b42/thumbnails/thumbnail.jpg" width="600" alt="電影感變焦與微笑">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5041)**
-
-**作者:** [Dave Wilson](https://x.com/HRDESIGNS) | **來源:** [Link](https://x.com/HRDESIGNS/status/2056555804694663510) | **發布時間:** May 19, 2026
-
----
-### 跳舞的花朵與地球影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個溫馨的影片提示詞，要求製作一朵帶有愛心的跳舞花朵、一棟色彩繽紛的房子以及地球的視角。
-
-#### 📝 提示詞
-
-```
-今晚，我的女兒 Savannah 想要製作一張背景有愛心的跳舞花朵圖片。她還要求能不能有一棟粉紅色和紫色的房子。此外，她也希望在影片中看到地球。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6b0fec9439f546b2ee3eebe292e2776f/thumbnails/thumbnail.jpg" width="600" alt="跳舞的花朵與地球影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5004)**
-
-**作者:** [Firecracker](https://x.com/CantTameFire) | **來源:** [Link](https://x.com/CantTameFire/status/2056550752038883413) | **發布時間:** May 19, 2026
-
----
-### 迷霧鼓點
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個充滿氛圍的場景，雙手在被迷霧與木頭煙霧繚繞的古老皮革鼓上，緩慢地敲擊出節奏。
-
-#### 📝 提示詞
-
-```
-男人的雙手在覆蓋著舊獸皮的鼓上敲出緩慢的節奏，
-黃銅釘與皮革繩將獸皮固定在鼓上，迷霧與木頭煙霧在周圍繚繞，
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/387a8e72c7a3021c0970d3ee5e964e9b/thumbnails/thumbnail.jpg" width="600" alt="迷霧鼓點">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5044)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2056546954059161841) | **發布時間:** May 19, 2026
-
----
-### 正義之秤縮放效果
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個電影級的影片提示詞，運用縮放效果呈現牆上的正義之秤，並搭配發人深省的社會名言。
-
-#### 📝 提示詞
-
-```
-@image1 zoom alejamiento。牆上掛著正義之秤。她說：「對個人造成的不公，即是對整個社會的威脅……」
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d37c6338f2c746a5dd96d7faa3a8d3fa/thumbnails/thumbnail.jpg" width="600" alt="正義之秤縮放效果">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5039)**
-
-**作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **來源:** [Link](https://x.com/clemensilverio/status/2056543882926571565) | **發布時間:** May 19, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2201,6 +2196,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-05-28T04:25:49.810Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-05-28T11:55:40.445Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **1670** |
+| 📝 提示词总数 | **1677** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-05-28** |
 
@@ -189,6 +189,82 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 音符云提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个充满诗意的提示词，将小提琴音乐可视化为朦胧云雾中的文字效果。
+
+#### 📝 提示词
+
+```
+当她演奏音乐时，声音被具象化为从小提琴中飘出的音符，并汇聚成“GOD First always”（上帝永远第一）的字样，呈现于朦胧的云雾之中。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c368e49288e7394cde4426eb20593f6b/thumbnails/thumbnail.jpg" width="600" alt="音符云提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5359)**
+
+**作者:** [the_light](https://x.com/the_light35) | **来源:** [Link](https://x.com/the_light35/status/2059759517143859660) | **发布时间:** May 27, 2026
+
+---
+### 计算减法曼哈顿塔
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于生成曼哈顿超高层摩天大楼视频的提示词，该建筑通过计算减法工艺进行建筑雕塑，从而创造出大型空腔。
+
+#### 📝 提示词
+
+```
+AI 生成的曼哈顿超高层塔楼，430 米垂直结构，由计算减法工艺雕塑而成，带有巨大的镂空腔体
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e4733da51d048e62b5b1833efd1dfa1c/thumbnails/thumbnail.jpg" width="600" alt="计算减法曼哈顿塔">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5354)**
+
+**作者:** [everything +AI](https://x.com/AiAigallery) | **来源:** [Link](https://x.com/AiAigallery/status/2059751365287526757) | **发布时间:** May 27, 2026
+
+---
+### 第一人称游击风格素材
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于 grok-imagine 的基础提示词，旨在创作类似 iPhone 拍摄的粗粝、手持第一人称视角视频（Found Footage）。
+
+#### 📝 提示词
+
+```
+手持游击风格 FOUND FOOTAGE 视频。粗粝且窄视角。他正拿着 IPHONE 摄像机，完全处于画面之外，无图形叠加。仅限第一人称摄像机视角
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f880960330aa921325b52c1cef19cca1/thumbnails/thumbnail.jpg" width="600" alt="第一人称游击风格素材">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5357)**
+
+**作者:** [The Rogue AI](https://x.com/evalincoln4101) | **来源:** [Link](https://x.com/evalincoln4101/status/2059710663694721317) | **发布时间:** May 27, 2026
+
+---
+### 太空营零重力宇航员
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个充满奇趣的儿童绘本风格视频提示词，展现了未来的小宇航员们在亨茨维尔太空营的零重力舱中漂浮的场景。
+
+#### 📝 提示词
+
+```
+身穿太空童子军背心和深石楠灰服装的未来小宇航员们，在亨茨维尔太空营的零重力舱中漂浮玩耍。画面充满兴奋、欢乐和奇趣的儿童电子书风格，氛围极具启发性。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/65b5497c1b19352f0dc9352f55e07bed/thumbnails/thumbnail.jpg" width="600" alt="太空营零重力宇航员">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5355)**
+
+**作者:** [Jean](https://x.com/SpaceScoutsIntl) | **来源:** [Link](https://x.com/SpaceScoutsIntl/status/2059554674324426973) | **发布时间:** May 27, 2026
+
+---
 ### 月光下的彩绘玻璃仪式
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -201,11 +277,68 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 在满月的注视下，她缓缓升起。彩绘玻璃与星光交织，天空中仍残留着日落的最后一抹余晖。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cce432155a0d1eef6ea64c07586db35c/thumbnails/thumbnail.jpg" width="600" alt="月光下的彩绘玻璃仪式">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/53f43c2ea40cfc942002c8e0b4c8d265/thumbnails/thumbnail.jpg" width="600" alt="月光下的彩绘玻璃仪式">
 
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5330)**
 
 **作者:** [DuBoseJen](https://x.com/DuBosefire) | **来源:** [Link](https://x.com/DuBosefire/status/2059492955270828342) | **发布时间:** May 27, 2026
+
+---
+### 达芬奇风格日历机
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段复杂的视频提示词，描述了一款以列奥纳多·达芬奇手稿风格呈现的精密机械日历，包含相互啮合的青铜齿轮和行星排列。
+
+#### 📝 提示词
+
+```
+（在适用情况下，想象一幅达芬奇风格的草图：就像他《大西洋古抄本》中的齿轮组，但这是为了记录时间本身——相互啮合的青铜齿轮上分别标注着“埃及 360 天”、“金星彗星轨道”和“火星弹弓效应”，随着轴心的突然倾斜，机械装置发生破裂；微小的人类形象（法老、玛雅祭司）争先恐后地添加五个“圣日”，同时一股行星漩涡以完美的文艺复兴透视法重新排列整个日历机！）
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e2755189a8a5222d278167ca4f77645f/thumbnails/thumbnail.jpg" width="600" alt="达芬奇风格日历机">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5353)**
+
+**作者:** [the don of hockey](https://x.com/don_allain) | **来源:** [Link](https://x.com/don_allain/status/2059451078807114105) | **发布时间:** May 27, 2026
+
+---
+### 神奇花园小矮人视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个充满奇幻色彩的 grok-imagine 视频提示词：两个花园小矮人手触碰在一起，瞬间触发天空向璀璨银河的星际蜕变。
+
+#### 📝 提示词
+
+```
+一个男性花园小矮人伸手触碰女性花园小矮人的手，随后天空迸发出繁星与银河
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e3740808f8371b8cc1db5d839f1121a/thumbnails/thumbnail.jpg" width="600" alt="神奇花园小矮人视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5356)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2059436913640267902) | **发布时间:** May 27, 2026
+
+---
+### 未来感母女插画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个关于未来感数字插画的提示词，旨在描绘科幻风格下母女之间的深厚情感。
+
+#### 📝 提示词
+
+```
+一张 BlueGoo 和 Vera 的未来感数字插画，母女之爱永远是答案
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8ab81211c8db51b535152148a750a172/thumbnails/thumbnail.jpg" width="600" alt="未来感母女插画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5358)**
+
+**作者:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **来源:** [Link](https://x.com/TLouisevsughan/status/2059431777593344125) | **发布时间:** May 27, 2026
 
 ---
 ### Cybernetic Space 书籍推广
@@ -2002,144 +2135,6 @@ Grok Imagine，精美的动漫风格，场景为 Ani 酱（金发马尾，绿色
 **作者:** [Sovannara 🚚🛣️🚚](https://x.com/Udom_Barca) | **来源:** [Link](https://x.com/Udom_Barca/status/2056658419202048282) | **发布时间:** May 19, 2026
 
 ---
-### 宁静空灵的天使动画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个关于拥有金色羽毛和细腻光效的天使的柔和慢动作动画提示词。
-
-#### 📝 提示词
-
-```
-柔和的慢动作动画，宁静空灵的天使平静地站立，双眼微睁，有非常细微的呼吸动作，精致的金色羽毛在她周围缓慢飘落，柔和的微光轻轻闪烁，氛围平静而神圣，动作幅度极小，...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/21d38fd0b16defd61737fdff7026f7e0/thumbnails/thumbnail.jpg" width="600" alt="宁静空灵的天使动画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5047)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2056640121953235299) | **发布时间:** May 19, 2026
-
----
-### Crown and Crayons Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个充满奇思妙想的提示词，指示模型在现有图片中添加皇冠，并将蜡笔插入鼻孔和耳朵中，然后进行动画处理。
-
-#### 📝 提示词
-
-```
-Hi Grok，你能把这张图片画上皇冠，并在它的鼻孔和耳朵里插上蜡笔吗？
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cfd67bca2d4bc57d7d19ae1db9dda410/thumbnails/thumbnail.jpg" width="600" alt="Crown and Crayons Animation">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5040)**
-
-**作者:** [Methodnes](https://x.com/methodnes) | **来源:** [Link](https://x.com/methodnes/status/2056581025656950910) | **发布时间:** May 19, 2026
-
----
-### 驾驶座动作序列
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段细腻的电影级动作序列：角色坐进车内，关上车门，并握住方向盘。
-
-#### 📝 提示词
-
-```
-无语音 
-男性异性恋 
-让 Lirathen 坐下，关上车门并握住方向盘。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/42fad6aabd3a05f080d9eea6eccebe0f/thumbnails/thumbnail.jpg" width="600" alt="驾驶座动作序列">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5035)**
-
-**作者:** [Alex Patricio](https://x.com/alexpatricio204) | **来源:** [Link](https://x.com/alexpatricio204/status/2056570076212363555) | **发布时间:** May 19, 2026
-
----
-### 电影级变焦与微笑
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个精细的视频提示词，详细描述了摄像机变焦、环境灰尘特效，以及角色从严肃到微笑的面部表情转换。
-
-#### 📝 提示词
-
-```
-镜头非常缓慢地推向她的脸部。风卷起的灰尘不时遮挡住视野。
-
-延展变焦最终定格在她的脸上。她擦掉脸上的尘土，先是严肃地看向镜头，随后露出了一个微妙而迷人的微笑。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/92697ee1cb6112d230bf1871abc29b42/thumbnails/thumbnail.jpg" width="600" alt="电影级变焦与微笑">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5041)**
-
-**作者:** [Dave Wilson](https://x.com/HRDESIGNS) | **来源:** [Link](https://x.com/HRDESIGNS/status/2056555804694663510) | **发布时间:** May 19, 2026
-
----
-### 跳舞的花朵与地球视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个温馨的视频提示词，要求生成一朵带有爱心的跳舞花朵、一座色彩缤纷的房子以及地球的景观。
-
-#### 📝 提示词
-
-```
-今晚，我的女儿 Savannah 想制作一张图片，画面中要有一朵跳舞的花，背景是爱心。她还希望能有一座粉色和紫色的房子。此外，她也想在视频中看到地球。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6b0fec9439f546b2ee3eebe292e2776f/thumbnails/thumbnail.jpg" width="600" alt="跳舞的花朵与地球视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5004)**
-
-**作者:** [Firecracker](https://x.com/CantTameFire) | **来源:** [Link](https://x.com/CantTameFire/status/2056550752038883413) | **发布时间:** May 19, 2026
-
----
-### 迷雾鼓点
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个充满氛围感的场景：在迷雾与木头烟雾缭绕中，双手在古老的皮鼓上敲击出缓慢的节奏。
-
-#### 📝 提示词
-
-```
-男人的双手在覆盖着旧兽皮的鼓面上敲击出缓慢的节奏，
-黄铜钉和皮绳将鼓皮固定在鼓身上，迷雾与木头烟雾在周围盘旋，
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/387a8e72c7a3021c0970d3ee5e964e9b/thumbnails/thumbnail.jpg" width="600" alt="迷雾鼓点">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5044)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2056546954059161841) | **发布时间:** May 19, 2026
-
----
-### 正义之秤镜头拉远
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个电影感视频提示词，通过镜头拉远效果展示墙上的正义之秤，并配有一句富有深意的社会名言。
-
-#### 📝 提示词
-
-```
-@image1 镜头拉远。墙上挂着正义之秤。她说道：对一个人造成的不公，就是对整个社会的威胁……
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d37c6338f2c746a5dd96d7faa3a8d3fa/thumbnails/thumbnail.jpg" width="600" alt="正义之秤镜头拉远">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5039)**
-
-**作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **来源:** [Link](https://x.com/clemensilverio/status/2056543882926571565) | **发布时间:** May 19, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2201,6 +2196,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-05-28T04:25:47.964Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-05-28T11:55:38.148Z</sub>
 
 </div>

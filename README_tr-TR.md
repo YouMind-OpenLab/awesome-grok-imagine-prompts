@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1670** |
+| 📝 Total Prompts | **1677** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-28** |
 
@@ -189,6 +189,82 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Müzik Notaları Bulut İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Keman müziğinin belirsiz bir bulut efekti içinde kelimelere dönüştüğü şiirsel bir istem.
+
+#### 📝 Prompt
+
+```
+O müziği çalarken, çıkan ses kemandan yükselen müzik notalarıyla görselleşiyor ve belirsiz bir bulutun içinde “GOD First always” (Önce her zaman TANRI) kelimelerini oluşturuyor.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c368e49288e7394cde4426eb20593f6b/thumbnails/thumbnail.jpg" width="600" alt="Müzik Notaları Bulut İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5359)**
+
+**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2059759517143859660) | **Published:** May 27, 2026
+
+---
+### Hesaplamalı Çıkarma Manhattan Kulesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Manhattan'daki çok yüksek bir gökdelenin, büyük boşluklar oluşturmak amacıyla hesaplamalı çıkarma süreçleri kullanılarak mimari açıdan şekillendirildiği bir video oluşturma istemi.
+
+#### 📝 Prompt
+
+```
+Yapay zeka tarafından üretilen Manhattan'daki çok yüksek kule, hesaplamalı çıkarma süreciyle şekillendirilmiş 430 metrelik dikey yapı, devasa oyulmuş boşluklar
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e4733da51d048e62b5b1833efd1dfa1c/thumbnails/thumbnail.jpg" width="600" alt="Hesaplamalı Çıkarma Manhattan Kulesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5354)**
+
+**Author:** [everything +AI](https://x.com/AiAigallery) | **Source:** [Link](https://x.com/AiAigallery/status/2059751365287526757) | **Published:** May 27, 2026
+
+---
+### Birinci Şahıs Gerilla Tarzı Çekim
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok-imagine'in, iPhone ile çekilmiş 'found footage' (buluntu görüntü) tarzını andıran, ham ve el kamerasıyla çekilmiş birinci şahıs perspektifli videolar oluşturması için temel bir komut.
+
+#### 📝 Prompt
+
+```
+EL KAMERASIYLA ÇEKİLMİŞ GERİLLA TARZI BULUNTU GÖRÜNTÜ VİDEOSU. HAM VE DAR AÇILI. IPHONE KAMERASINI TUTUYOR VE TAMAMEN KADRAJ DIŞINDA, GRAFİK BİLGİ EKRANI YOK. SADECE BİRİNCİ ŞAHIS KAMERA AÇISI
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f880960330aa921325b52c1cef19cca1/thumbnails/thumbnail.jpg" width="600" alt="Birinci Şahıs Gerilla Tarzı Çekim">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5357)**
+
+**Author:** [The Rogue AI](https://x.com/evalincoln4101) | **Source:** [Link](https://x.com/evalincoln4101/status/2059710663694721317) | **Published:** May 27, 2026
+
+---
+### Space Camp Sıfır Yerçekimi Astronotları
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Space Camp Huntsville'de sıfır yerçekiminde süzülen genç gelecek astronotlarını konu alan, çocuk kitabı tarzında eğlenceli bir video istemi.
+
+#### 📝 Prompt
+
+```
+Space Scout yelekleri ve koyu kırçıllı gri kıyafetler giymiş, Space Camp Huntsville'deki sıfır yerçekimi odalarında süzülen ve eğlenen genç gelecek astronotları. Heyecanlı, neşeli, çocuk e-kitabı tarzında, ilham verici bir atmosfer.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/65b5497c1b19352f0dc9352f55e07bed/thumbnails/thumbnail.jpg" width="600" alt="Space Camp Sıfır Yerçekimi Astronotları">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5355)**
+
+**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2059554674324426973) | **Published:** May 27, 2026
+
+---
 ### Ay Işığı Vitray Ritüeli
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -201,11 +277,68 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 Dolunayın bakışları altında yükseliyor. Vitraylar ve yıldız ışığı; gün batımının son renklerinin hala gökyüzünde asılı kaldığı o yerde.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cce432155a0d1eef6ea64c07586db35c/thumbnails/thumbnail.jpg" width="600" alt="Ay Işığı Vitray Ritüeli">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/53f43c2ea40cfc942002c8e0b4c8d265/thumbnails/thumbnail.jpg" width="600" alt="Ay Işığı Vitray Ritüeli">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5330)**
 
 **Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2059492955270828342) | **Published:** May 27, 2026
+
+---
+### Da Vinci Tarzı Takvim Makinesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Leonardo da Vinci'nin eskizleri tarzında, birbirine kenetlenmiş bronz çarklar ve gezegen hizalanmaları içeren karmaşık bir mekanik takvimi betimleyen detaylı bir video istemi.
+
+#### 📝 Prompt
+
+```
+(Mümkün olan yerlerde, bir da Vinci tarzı eskiz hayal edin: Codex Atlanticus'undaki dişli sistemleri gibi ancak zamanın kendisi için—üzerinde “360 günlük Mısır”, “Venüs kuyruklu yıldız yolu” ve “Mars sapanı” yazılı birbirine kenetlenmiş bronz çarklar ve mekanizmayı çatlatan ani bir aks eğimi; minik insan figürleri (firavunlar, Maya rahipleri) beş “kutsal gün” eklemek için çabalarken, dönen bir gezegen girdabı tüm takvim makinesini mükemmel bir Rönesans perspektifiyle yeniden hizalıyor!)
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e2755189a8a5222d278167ca4f77645f/thumbnails/thumbnail.jpg" width="600" alt="Da Vinci Tarzı Takvim Makinesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5353)**
+
+**Author:** [the don of hockey](https://x.com/don_allain) | **Source:** [Link](https://x.com/don_allain/status/2059451078807114105) | **Published:** May 27, 2026
+
+---
+### Büyülü Bahçe Cüceleri Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> İki bahçe cücesinin ellerinin birbirine değdiği ve gökyüzünün yıldızlı bir Samanyolu'na dönüştüğü, büyüleyici bir grok-imagine video istemi.
+
+#### 📝 Prompt
+
+```
+Erkek bahçe cücesi uzanıp dişi bahçe cücesinin eline dokunur ve gökyüzü aniden yıldızlara ve Samanyolu'na dönüşür
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e3740808f8371b8cc1db5d839f1121a/thumbnails/thumbnail.jpg" width="600" alt="Büyülü Bahçe Cüceleri Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5356)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2059436913640267902) | **Published:** May 27, 2026
+
+---
+### Fütüristik Anne ve Kız İllüstrasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bilim kurgu tarzında anne ve kız arasındaki bağı betimleyen fütüristik bir dijital illüstrasyon için istem.
+
+#### 📝 Prompt
+
+```
+BlueGoo ve Vera'nın fütüristik dijital illüstrasyonu, Anne ve Kız Sevgisi Her Zaman Cevaptır
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8ab81211c8db51b535152148a750a172/thumbnails/thumbnail.jpg" width="600" alt="Fütüristik Anne ve Kız İllüstrasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5358)**
+
+**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2059431777593344125) | **Published:** May 27, 2026
 
 ---
 ### Sibernetik Uzay Kitabı Tanıtımı
@@ -2002,144 +2135,6 @@ Dizleriniz açık, elleriniz önünüzde olacak şekilde yoga yapın; vücudunuz
 **Author:** [Sovannara 🚚🛣️🚚](https://x.com/Udom_Barca) | **Source:** [Link](https://x.com/Udom_Barca/status/2056658419202048282) | **Published:** May 19, 2026
 
 ---
-### Huzurlu ve Ethereal Melek Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Altın tüylere ve hafif ışık efektlerine sahip bir meleğin yer aldığı, nazik ve ağır çekim bir animasyon istemi.
-
-#### 📝 Prompt
-
-```
-Nazik ağır çekim animasyon, huzurlu ve ethereal melek barışçıl bir şekilde duruyor, gözleri hafifçe açık, çok ince bir nefes alma hareketi, narin altın tüyler etrafında yavaşça süzülüyor, yumuşak parlayan ışık hafifçe nabız gibi atıyor, sakin ve kutsal bir atmosfer, minimal hareket,...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/21d38fd0b16defd61737fdff7026f7e0/thumbnails/thumbnail.jpg" width="600" alt="Huzurlu ve Ethereal Melek Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5047)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2056640121953235299) | **Published:** May 19, 2026
-
----
-### Crown and Crayons Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mevcut bir resme taç eklenmesini ve burun ile kulaklardan sarkan boya kalemleri yerleştirilip animasyon haline getirilmesini sağlayan sıra dışı bir komut.
-
-#### 📝 Prompt
-
-```
-Selam Grok, bu resme bir taç ekleyip burnundan ve kulaklarından sarkan boya kalemleriyle çizebilir misin?
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cfd67bca2d4bc57d7d19ae1db9dda410/thumbnails/thumbnail.jpg" width="600" alt="Crown and Crayons Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5040)**
-
-**Author:** [Methodnes](https://x.com/methodnes) | **Source:** [Link](https://x.com/methodnes/status/2056581025656950910) | **Published:** May 19, 2026
-
----
-### Sürücü Koltuğu Aksiyon Sekansı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir karakterin arabaya bindiği, kapıyı kapattığı ve direksiyona geçtiği detaylı sinematik sekans.
-
-#### 📝 Prompt
-
-```
-Ses yok 
-Erkek heteroseksüel 
-Lirathen'in oturmasını, kapıyı kapatmasını ve direksiyonu tutmasını sağlayın.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/42fad6aabd3a05f080d9eea6eccebe0f/thumbnails/thumbnail.jpg" width="600" alt="Sürücü Koltuğu Aksiyon Sekansı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5035)**
-
-**Author:** [Alex Patricio](https://x.com/alexpatricio204) | **Source:** [Link](https://x.com/alexpatricio204/status/2056570076212363555) | **Published:** May 19, 2026
-
----
-### Sinematik Yakınlaştırma ve Gülümseme
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kamera yakınlaştırmasını, çevresel toz efektlerini ve karakterin yüz ifadesinin ciddiyetten gülümsemeye geçişini detaylandıran sofistike bir video istemi.
-
-#### 📝 Prompt
-
-```
-Yüzüne doğru çok yavaş yakınlaştırma. Çekim boyunca esen tozlar zaman zaman görüşü engelliyor.
-
-Uzatılmış yakınlaştırma yüzünde son buluyor. Yüzündeki kiri siliyor. Kameraya ciddi bir şekilde bakıyor ve ardından hafif, flörtöz bir şekilde gülümsüyor
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/92697ee1cb6112d230bf1871abc29b42/thumbnails/thumbnail.jpg" width="600" alt="Sinematik Yakınlaştırma ve Gülümseme">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5041)**
-
-**Author:** [Dave Wilson](https://x.com/HRDESIGNS) | **Source:** [Link](https://x.com/HRDESIGNS/status/2056555804694663510) | **Published:** May 19, 2026
-
----
-### Dans Eden Çiçek ve Dünya Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kalplerle dans eden bir çiçek, renkli bir ev ve Dünya gezegeni manzarası içeren iç açıcı bir video istemi.
-
-#### 📝 Prompt
-
-```
-Bu akşam kızım Savannah, arkasında kalpler olan dans eden bir çiçek resmi yapmak istiyor. Ayrıca pembe ve mor bir ev eklenmesini rica ediyor. Videoda Dünya'yı da görmeyi çok ister.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6b0fec9439f546b2ee3eebe292e2776f/thumbnails/thumbnail.jpg" width="600" alt="Dans Eden Çiçek ve Dünya Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5004)**
-
-**Author:** [Firecracker](https://x.com/CantTameFire) | **Source:** [Link](https://x.com/CantTameFire/status/2056550752038883413) | **Published:** May 19, 2026
-
----
-### Sisli Davul Ritmi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sis ve odun dumanıyla çevrili eski bir deri davul üzerinde yavaş bir ritim tutan ellerin atmosferik sahnesi.
-
-#### 📝 Prompt
-
-```
-bir adamın elleri eski deri kaplı bir davulda yavaş bir ritim tutuyor,
-Pirinç çiviler ve deri ipler deriyi davulun üzerinde tutuyor, sis ve odun dumanı etrafta dönüyor,
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/387a8e72c7a3021c0970d3ee5e964e9b/thumbnails/thumbnail.jpg" width="600" alt="Sisli Davul Ritmi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5044)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2056546954059161841) | **Published:** May 19, 2026
-
----
-### Adalet Terazisi Zoom Out
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Adalet terazisini simgeleyen ve anlamlı bir sosyal alıntı içeren bir duvarda zoom-out (uzaklaşma) efekti kullanan sinematik bir video istemi.
-
-#### 📝 Prompt
-
-```
-@image1 zoom out. Adalet terazisinin yer aldığı bir duvar. Şöyle diyor: Bir bireye yapılan haksızlık, tüm topluma yapılmış bir tehdittir....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d37c6338f2c746a5dd96d7faa3a8d3fa/thumbnails/thumbnail.jpg" width="600" alt="Adalet Terazisi Zoom Out">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5039)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2056543882926571565) | **Published:** May 19, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2201,6 +2196,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-28T04:26:11.389Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-28T11:56:02.456Z</sub>
 
 </div>

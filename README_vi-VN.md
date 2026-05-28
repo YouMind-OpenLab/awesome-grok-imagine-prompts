@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1670** |
+| 📝 Total Prompts | **1677** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-28** |
 
@@ -189,6 +189,82 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Lời nhắc Đám mây Nốt nhạc
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một lời nhắc đầy chất thơ, nơi âm nhạc từ đàn violin được hình ảnh hóa thành những con chữ nằm trong hiệu ứng đám mây huyền ảo.
+
+#### 📝 Prompt
+
+```
+Khi cô ấy chơi đàn, âm thanh được nhìn thấy và biểu hiện qua các nốt nhạc phát ra từ cây đàn violin, tạo thành dòng chữ “GOD First always.” (Chúa luôn là ưu tiên hàng đầu) nằm trong một đám mây huyền ảo.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c368e49288e7394cde4426eb20593f6b/thumbnails/thumbnail.jpg" width="600" alt="Lời nhắc Đám mây Nốt nhạc">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5359)**
+
+**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2059759517143859660) | **Published:** May 27, 2026
+
+---
+### Tòa tháp Manhattan với kiến trúc trừu tượng tính toán
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) để tạo video về một tòa nhà chọc trời siêu cao tại Manhattan, được điêu khắc kiến trúc bằng các quy trình trừu tượng tính toán để tạo ra những khoảng trống lớn.
+
+#### 📝 Prompt
+
+```
+Tòa tháp siêu cao do AI tạo ra tại Manhattan, cấu trúc thẳng đứng cao 430 m được điêu khắc bằng quy trình trừu tượng tính toán, với các khoảng trống lớn được chạm khắc tinh xảo
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e4733da51d048e62b5b1833efd1dfa1c/thumbnails/thumbnail.jpg" width="600" alt="Tòa tháp Manhattan với kiến trúc trừu tượng tính toán">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5354)**
+
+**Author:** [everything +AI](https://x.com/AiAigallery) | **Source:** [Link](https://x.com/AiAigallery/status/2059751365287526757) | **Published:** May 27, 2026
+
+---
+### Cảnh quay phong cách du kích góc nhìn thứ nhất
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh cơ bản cho grok-imagine để tạo video góc nhìn thứ nhất cầm tay đầy chân thực, giống như những thước phim tư liệu được quay bằng iPhone.
+
+#### 📝 Prompt
+
+```
+VIDEO PHONG CÁCH DU KÍCH CẦM TAY DẠNG PHIM TƯ LIỆU. GÓC QUAY HẸP VÀ CHÂN THỰC. NGƯỜI ĐÓ ĐANG CẦM MÁY ẢNH IPHONE VÀ HOÀN TOÀN Ở NGOÀI KHUNG HÌNH, KHÔNG CÓ LỚP PHỦ ĐỒ HỌA. CHỈ CÓ GÓC NHÌN CAMERA THỨ NHẤT
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f880960330aa921325b52c1cef19cca1/thumbnails/thumbnail.jpg" width="600" alt="Cảnh quay phong cách du kích góc nhìn thứ nhất">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5357)**
+
+**Author:** [The Rogue AI](https://x.com/evalincoln4101) | **Source:** [Link](https://x.com/evalincoln4101/status/2059710663694721317) | **Published:** May 27, 2026
+
+---
+### Các phi hành gia không trọng lực tại Space Camp
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt theo phong cách sách thiếu nhi đầy kỳ thú, mô tả các phi hành gia nhí tương lai đang lơ lửng trong môi trường không trọng lực tại Space Camp Huntsville.
+
+#### 📝 Prompt
+
+```
+Các phi hành gia nhí tương lai mặc áo ghi-lê Space Scout và trang phục màu xám than đang lơ lửng, vui đùa trong các buồng không trọng lực tại Space Camp Huntsville. Phong cách sách điện tử thiếu nhi đầy hào hứng, vui tươi, kỳ thú và mang tính truyền cảm hứng.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/65b5497c1b19352f0dc9352f55e07bed/thumbnails/thumbnail.jpg" width="600" alt="Các phi hành gia không trọng lực tại Space Camp">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5355)**
+
+**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2059554674324426973) | **Published:** May 27, 2026
+
+---
 ### Nghi thức Kính màu dưới ánh trăng
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -201,11 +277,68 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 Dưới ánh nhìn của trăng tròn, cô ấy trỗi dậy. Kính màu và ánh sao, nơi những sắc màu cuối cùng của hoàng hôn vẫn còn vương vấn trên bầu trời.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cce432155a0d1eef6ea64c07586db35c/thumbnails/thumbnail.jpg" width="600" alt="Nghi thức Kính màu dưới ánh trăng">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/53f43c2ea40cfc942002c8e0b4c8d265/thumbnails/thumbnail.jpg" width="600" alt="Nghi thức Kính màu dưới ánh trăng">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5330)**
 
 **Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2059492955270828342) | **Published:** May 27, 2026
+
+---
+### Máy Lịch Phong cách Da Vinci
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt tinh xảo mô tả chiếc máy lịch cơ khí phức tạp theo phong cách phác thảo của Leonardo da Vinci, với các bánh răng bằng đồng lồng vào nhau và sự thẳng hàng của các hành tinh.
+
+#### 📝 Prompt
+
+```
+(Nếu có thể, hãy hình dung một bản phác thảo theo phong cách da Vinci: giống như các hệ thống bánh răng trong Codex Atlanticus của ông nhưng dành cho chính thời gian—các bánh răng bằng đồng lồng vào nhau được dán nhãn “360 ngày Ai Cập”, “quỹ đạo sao Kim”, và “quỹ đạo sao Hỏa”, với một trục nghiêng bất ngờ làm nứt cơ chế; những nhân vật nhỏ bé (các pharaoh, các tư tế Maya) vội vã thêm vào năm “ngày thánh” trong khi một cơn lốc xoáy của các hành tinh sắp xếp lại toàn bộ cỗ máy lịch theo phối cảnh thời Phục hưng hoàn hảo!)
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e2755189a8a5222d278167ca4f77645f/thumbnails/thumbnail.jpg" width="600" alt="Máy Lịch Phong cách Da Vinci">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5353)**
+
+**Author:** [the don of hockey](https://x.com/don_allain) | **Source:** [Link](https://x.com/don_allain/status/2059451078807114105) | **Published:** May 27, 2026
+
+---
+### Video Những Chú Lùn Làm Vườn Kỳ Diệu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video grok-imagine đầy mê hoặc, nơi hai chú lùn làm vườn chạm tay nhau, kích hoạt sự biến đổi kỳ ảo của bầu trời thành Dải Ngân hà đầy sao.
+
+#### 📝 Prompt
+
+```
+Một chú lùn làm vườn nam vươn tay chạm vào tay cô lùn làm vườn nữ và bầu trời bùng nổ thành những vì sao cùng Dải Ngân hà
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e3740808f8371b8cc1db5d839f1121a/thumbnails/thumbnail.jpg" width="600" alt="Video Những Chú Lùn Làm Vườn Kỳ Diệu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5356)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2059436913640267902) | **Published:** May 27, 2026
+
+---
+### Minh họa tương lai về mẹ và con gái
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) để tạo minh họa kỹ thuật số mang phong cách tương lai, khắc họa tình cảm gắn kết giữa mẹ và con gái theo phong cách khoa học viễn tưởng.
+
+#### 📝 Prompt
+
+```
+Một minh họa kỹ thuật số tương lai về BlueGoo và Vera, Tình yêu của Mẹ và Con gái luôn là câu trả lời
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8ab81211c8db51b535152148a750a172/thumbnails/thumbnail.jpg" width="600" alt="Minh họa tương lai về mẹ và con gái">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5358)**
+
+**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2059431777593344125) | **Published:** May 27, 2026
 
 ---
 ### Quảng bá sách Cybernetic Space
@@ -2002,144 +2135,6 @@ Thực hiện yoga với hai đầu gối mở rộng, hai tay đặt phía trư
 **Author:** [Sovannara 🚚🛣️🚚](https://x.com/Udom_Barca) | **Source:** [Link](https://x.com/Udom_Barca/status/2056658419202048282) | **Published:** May 19, 2026
 
 ---
-### Hoạt ảnh thiên thần thanh tao, tĩnh lặng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo hoạt ảnh chuyển động chậm, nhẹ nhàng về một thiên thần với đôi cánh vàng và hiệu ứng ánh sáng tinh tế.
-
-#### 📝 Prompt
-
-```
-Hoạt ảnh chuyển động chậm, nhẹ nhàng, thiên thần thanh tao, tĩnh lặng đứng yên bình với đôi mắt mở nhẹ, chuyển động thở rất tinh tế, những chiếc lông vũ vàng óng ánh trôi nhẹ nhàng xung quanh cô ấy, ánh sáng dịu nhẹ lan tỏa, bầu không khí tĩnh lặng và thánh thiện, chuyển động tối giản,...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/21d38fd0b16defd61737fdff7026f7e0/thumbnails/thumbnail.jpg" width="600" alt="Hoạt ảnh thiên thần thanh tao, tĩnh lặng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5047)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2056640121953235299) | **Published:** May 19, 2026
-
----
-### Hoạt hình Crown and Crayons
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh độc đáo hướng dẫn mô hình thêm vương miện và bút sáp màu vào mũi và tai của một bức ảnh có sẵn, sau đó tạo hiệu ứng hoạt hình cho nó.
-
-#### 📝 Prompt
-
-```
-Chào Grok, bạn có thể vẽ bức ảnh này với một chiếc vương miện trên đầu cùng những chiếc bút sáp màu treo lủng lẳng ở mũi và tai được không?
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cfd67bca2d4bc57d7d19ae1db9dda410/thumbnails/thumbnail.jpg" width="600" alt="Hoạt hình Crown and Crayons">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5040)**
-
-**Author:** [Methodnes](https://x.com/methodnes) | **Source:** [Link](https://x.com/methodnes/status/2056581025656950910) | **Published:** May 19, 2026
-
----
-### Chuỗi hành động tại ghế lái
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một chuỗi cảnh quay điện ảnh chi tiết mô tả nhân vật ngồi vào xe, đóng cửa và cầm vô lăng.
-
-#### 📝 Prompt
-
-```
-Không lời thoại 
-Nam giới dị tính 
-Để Lirathen ngồi xuống, đóng cửa và cầm lấy vô lăng.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/42fad6aabd3a05f080d9eea6eccebe0f/thumbnails/thumbnail.jpg" width="600" alt="Chuỗi hành động tại ghế lái">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5035)**
-
-**Author:** [Alex Patricio](https://x.com/alexpatricio204) | **Source:** [Link](https://x.com/alexpatricio204/status/2056570076212363555) | **Published:** May 19, 2026
-
----
-### Cinematic Zoom and Smile
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt tinh tế mô tả chi tiết hiệu ứng zoom camera, hiệu ứng bụi trong môi trường và sự chuyển đổi biểu cảm khuôn mặt của nhân vật từ nghiêm nghị sang mỉm cười.
-
-#### 📝 Prompt
-
-```
-Zoom chậm dần vào khuôn mặt cô ấy. Bụi bay theo gió lướt qua khung hình che khuất tầm nhìn theo từng đợt.
-
-Extend-Zoom kết thúc ở cận cảnh khuôn mặt. Cô ấy lau sạch bụi bẩn trên mặt. Nhìn thẳng vào camera với vẻ nghiêm nghị, sau đó mỉm cười một cách đầy tinh tế và quyến rũ.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/92697ee1cb6112d230bf1871abc29b42/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Zoom and Smile">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5041)**
-
-**Author:** [Dave Wilson](https://x.com/HRDESIGNS) | **Source:** [Link](https://x.com/HRDESIGNS/status/2056555804694663510) | **Published:** May 19, 2026
-
----
-### Video Hoa Nhảy Múa và Trái Đất
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video đầy cảm hứng, yêu cầu hình ảnh một bông hoa đang nhảy múa với những trái tim, một ngôi nhà đầy màu sắc và khung cảnh hành tinh Trái Đất.
-
-#### 📝 Prompt
-
-```
-Tối nay, con gái Savannah của tôi muốn tạo một bức tranh về một bông hoa đang nhảy múa với những trái tim phía sau. Con bé cũng muốn có một ngôi nhà màu hồng và tím. Ngoài ra, con bé rất thích nhìn thấy Trái Đất xuất hiện trong video.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6b0fec9439f546b2ee3eebe292e2776f/thumbnails/thumbnail.jpg" width="600" alt="Video Hoa Nhảy Múa và Trái Đất">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5004)**
-
-**Author:** [Firecracker](https://x.com/CantTameFire) | **Source:** [Link](https://x.com/CantTameFire/status/2056550752038883413) | **Published:** May 19, 2026
-
----
-### Nhịp trống trong sương
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một khung cảnh đầy chất thơ với đôi bàn tay gõ nhịp chậm rãi trên chiếc trống da cũ, bao quanh bởi làn sương mờ và khói gỗ.
-
-#### 📝 Prompt
-
-```
-đôi bàn tay người đàn ông gõ nhịp chậm rãi trên chiếc trống bọc da cũ,
-Những chiếc đinh đồng và dây da cố định lớp da trên mặt trống, sương mù và khói gỗ cuộn tròn xung quanh,
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/387a8e72c7a3021c0970d3ee5e964e9b/thumbnails/thumbnail.jpg" width="600" alt="Nhịp trống trong sương">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5044)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2056546954059161841) | **Published:** May 19, 2026
-
----
-### Thu nhỏ hình ảnh Cán cân Công lý
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý video điện ảnh sử dụng hiệu ứng thu nhỏ (zoom-out) trên bức tường có hình ảnh cán cân công lý cùng một câu trích dẫn xã hội đầy ý nghĩa.
-
-#### 📝 Prompt
-
-```
-@image1 zoom thu nhỏ. Bức tường với hình ảnh cán cân công lý. Cô ấy nói rằng: Một sự bất công đối với một cá nhân là mối đe dọa đối với toàn xã hội....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d37c6338f2c746a5dd96d7faa3a8d3fa/thumbnails/thumbnail.jpg" width="600" alt="Thu nhỏ hình ảnh Cán cân Công lý">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5039)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2056543882926571565) | **Published:** May 19, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2201,6 +2196,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-28T04:25:55.987Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-28T11:55:48.693Z</sub>
 
 </div>
