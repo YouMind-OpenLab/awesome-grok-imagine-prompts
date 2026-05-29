@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1677** |
+| 📝 Total Prompts | **1689** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-29** |
 
@@ -189,6 +189,240 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### महिला द्वारा बगीचे में घोड़े को खाना खिलाने का वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक मल्टी-स्टेज वीडियो एक्सटेंशन प्रॉम्प्ट सीक्वेंस, जिसमें पश्चिमी परिधान पहने एक महिला बगीचे के माहौल में अपने घोड़े को सेब खिलाने के लिए रुकती है।
+
+#### 📝 Prompt
+
+```
+मेरी छवि का उपयोग एक आकर्षक गोरी महिला के आधार के रूप में करें, जो 20 के दशक के अंत में है, महंगे पश्चिमी कपड़े पहने हुए है, और सूर्यास्त के समय एक सेब के बगीचे में एक अपालूसा घोड़े (पश्चिमी काठी के साथ) को ले जा रही है। वह रुकती है, एक सेब उठाती है और उसे घोड़े को खिलाती है। वह खुशी से अपने घोड़े को पूरा सेब खाते हुए देखती है
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fb4da57b9211d17f213e6737ace5bfd0/thumbnails/thumbnail.jpg" width="600" alt="महिला द्वारा बगीचे में घोड़े को खाना खिलाने का वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5411)**
+
+**Author:** [Douglas Gould](https://x.com/DouglasGou93848) | **Source:** [Link](https://x.com/DouglasGou93848/status/2060147523659133337) | **Published:** May 28, 2026
+
+---
+### पेपर टॉवल का एलियन में रूपांतरण
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक रचनात्मक रूपांतरण वीडियो जिसमें एक पेपर टॉवल एक एलियन में बदल जाता है, जो एक अंतरिक्ष यान में प्रवेश करता है और बादलों में उड़ जाता है।
+
+#### 📝 Prompt
+
+```
+इस पेपर टॉवल को एक एलियन में बदलें, उसे उसके यान में बैठाएं और बादलों की ओर उड़ान भरें
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8677e46426086f53df1a9e281b17aa49/thumbnails/thumbnail.jpg" width="600" alt="पेपर टॉवल का एलियन में रूपांतरण">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5406)**
+
+**Author:** [Enki](https://x.com/Kenneth36936936) | **Source:** [Link](https://x.com/Kenneth36936936/status/2060132578753937575) | **Published:** May 28, 2026
+
+---
+### SpaceX Starship के अंदर का वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> SpaceX Starship के अंदर अंतरिक्ष के नज़ारे के साथ एक महिला और उसके रोबोट साथी का एक सिनेमैटिक वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+हल्के बालों वाली एक महिला, जिसने एक आकर्षक भविष्यवादी काले रंग की पोशाक पहनी है, अपने एक छोटे रोबोट साथी के साथ यात्रियों के लिए डिज़ाइन किए गए SpaceX Starship रॉकेट के यात्री अनुभाग के अंदर खड़ी है। इसके अंदर एक बड़ा पारदर्शी व्यूइंग एरिया है, जहाँ से अंतरिक्ष में तारे और ब्रह्मांडीय बादल दिखाई दे रहे हैं।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/85433e43aa5c72895646bc705d2ab83c/thumbnails/thumbnail.jpg" width="600" alt="SpaceX Starship के अंदर का वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5408)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2060083636272242832) | **Published:** May 28, 2026
+
+---
+### झिलमिलाते कोड विंग का गायब होना
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> डिजिटल कोड प्रभावों और एक नाटकीय एकालाप (monologue) से जुड़ी एक असली सिनेमाई वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+उसके पंख झिलमिलाते कोड में गायब हो जाते हैं, वह कहती है “अगर तुम ऐसा करते हो, तो फिर कुछ भी पहले जैसा नहीं रहेगा। अब और अकेले शांत शामें नहीं होंगी, वे तुम्हारे खिलाफ इस्तेमाल करने के लिए कुछ भी ढूंढने के लिए तुम्हारी जिंदगी को पूरी तरह उलट-पुलट कर देंगे....
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/19f6b62ab029c260c79a14ac8da1dda7/thumbnails/thumbnail.jpg" width="600" alt="झिलमिलाते कोड विंग का गायब होना">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5416)**
+
+**Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2060070704482287761) | **Published:** May 28, 2026
+
+---
+### स्टीमपंक फैंटेसी फॉरेस्ट पाथ वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक जादुई स्टीमपंक वीडियो प्रॉम्प्ट, जिसमें एक जादूगर और परी रानी जंगल से होते हुए एक लाइब्रेरी की ओर जा रहे हैं।
+
+#### 📝 Prompt
+
+```
+जादुई स्टीमपंक वाइब
+एक जादूगर और एक परी रानी जंगल के रास्ते से होते हुए एक कॉटेज और फिर एक लाइब्रेरी के अंदर जा रहे हैं
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9f7fcc8c1a4d4a3ca5efdfd5e106aeb3/thumbnails/thumbnail.jpg" width="600" alt="स्टीमपंक फैंटेसी फॉरेस्ट पाथ वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5413)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2060069085266997532) | **Published:** May 28, 2026
+
+---
+### Chibi Matrix Sentinel Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक क्रिएटिव वीडियो प्रॉम्प्ट जो एक चिबी-स्टाइल Matrix Sentinel को फेस-पाम इमोजी जैसा मोशन करते हुए और ज़ूम-आउट इफ़ेक्ट के साथ दिखाता है।
+
+#### 📝 Prompt
+
+```
+अब ज़ूम आउट करें और “matrix” फिल्म के एक सेंटिनल को चिबी स्टाइल में दिखाएं जो खुद के चेहरे पर हाथ मार रहा हो (फेस-पाम इमोजी जैसा)
+```
+
+<img src="https://cms-assets.youmind.com/media/1780043959273_tjmkzf_HJbP2mJWIAM1_uu.jpg" width="600" alt="Chibi Matrix Sentinel Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5410)**
+
+**Author:** [Robert Coffman 𓂀☤ ⚕ 🕊️](https://x.com/cache_refresh) | **Source:** [Link](https://x.com/cache_refresh/status/2060062532811862053) | **Published:** May 28, 2026
+
+---
+### चमकीली समुद्री लहरों पर सर्फिंग करती चिबी गर्ल
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक विस्तृत वीडियो प्रॉम्प्ट जिसमें एक प्यारी चिबी-स्टाइल वाली लड़की धूप वाले आसमान के नीचे चमकीले नीले और हरे रंग की लहरों पर कुशलतापूर्वक सर्फिंग कर रही है।
+
+#### 📝 Prompt
+
+```
+धूप वाले आसमान के नीचे चमकीली नीली और हरी लहरों वाले खूबसूरत समुद्र पर सर्फिंग करती एक प्यारी चिबी गर्ल। उसने एक स्लीक ब्लैक सर्फिंग आउटफिट पहना है और वह कुशलता से संतुलन बना रही है…..
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/04f56219f7523850b9d19e66b0c14035/thumbnails/thumbnail.jpg" width="600" alt="चमकीली समुद्री लहरों पर सर्फिंग करती चिबी गर्ल">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5415)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2060020165077561632) | **Published:** May 28, 2026
+
+---
+### परित्यक्त गहरे समुद्र में ड्रिलिंग प्लेटफॉर्म
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> समुद्र में एक पोस्ट-एपोकैलिप्टिक, धुंधले औद्योगिक खंडहर का 10-सेकंड का विस्तृत सिनेमैटिक वीडियो प्रॉम्प्ट, जिसमें डरावनी लाइटिंग और धीमा ट्रैकिंग शॉट है।
+
+#### 📝 Prompt
+
+```
+भोर के समय तूफानी और कोहरे से ढके समुद्र में एक विशाल परित्यक्त गहरे समुद्र में ड्रिलिंग प्लेटफॉर्म आधा ढह गया है। कैमरा काले पानी के ठीक ऊपर धीरे-धीरे आगे बढ़ता है, घने कोहरे के बीच से गुजरते हुए जहाँ जंग लगी स्टील की बीम, लटकते केबल और टूटी हुई फ्लडलाइट्स ऊपर दिखाई दे रही हैं। प्लेटफॉर्म हल्की आवाज़ के साथ चरमरा रहा है, हवा के दबाव में धातु की कराह सुनाई दे रही है। समुद्री पानी जंग लगे सपोर्ट से टकरा रहा है, और तैरता हुआ मलबा धीरे से संरचना से टकरा रहा है। कैमरा प्लेटफॉर्म के छायादार आंतरिक भाग की ओर बढ़ता है जहाँ औद्योगिक मशीनरी मृत और पानी में डूबी हुई है, जो नमक और क्षय से ढकी है। जैसे ही कैमरा नमक के दागों से फटी कंट्रोल रूम की खिड़की के करीब पहुँचता है, एक चेतावनी मॉनिटर हल्का सा झिलमिलाता है, जिसमें विकृत स्टेटिक दिखाई देता है। अचानक, संरचना के भीतर गहराई में एक लाल आपातकालीन बीकन जल उठता है, जो धुंध के माध्यम से एक मंद पल्सिंग चमक बिखेरता है। यह दृश्य सस्पेंस में बना रहता है, जो पोस्ट-एपोकैलिप्टिक यथार्थवाद को डरावनी औद्योगिक उपस्थिति के साथ जोड़ता है।
+दृश्य शैली: पोस्ट-एपोकैलिप्टिक समुद्री कोहरा | औद्योगिक खंडहर | लो-एंगल ट्रैकिंग | सिनेमैटिक सस्पेंस | एम्बिएंट साउंड डिज़ाइन | अल्ट्रा-रियलिस्टिक क्षय | धीमा कैमरा ग्लाइड | नाटकीय कोहरा प्रसार
+लंबाई: 10 सेकंड
+आस्पेक्ट रेशियो: 16:9
+मोशन: स्मूथ ट्रैकिंग शॉट, हैंडहेल्ड स्टेबलाइज्ड ड्रोन की तरह हल्की हलचल
+लाइटिंग: भोर की ग्रे-ब्लू धुंध, बीकन से मंद लाल पल्स, गीले जंग पर सॉफ्ट स्पेक्युलर हाइलाइट्स
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b11868815b31bb8f7e83b37b89d6cf64/thumbnails/thumbnail.jpg" width="600" alt="परित्यक्त गहरे समुद्र में ड्रिलिंग प्लेटफॉर्म">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5407)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2059991468174086407) | **Published:** May 28, 2026
+
+---
+### चमकदार मशरूम स्नेल एनीमेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक इमेज-टू-वीडियो प्रॉम्प्ट जो किसी इमेज को मशरूम जैसी आंखों वाले, हिलते-डुलते, चमकदार घोंघे (snail) में बदल देता है।
+
+#### 📝 Prompt
+
+```
+इस इमेज को एक हिलते-डुलते, चमकदार घोंघे में बदलें जिसकी आंखें मशरूम जैसी हों। इसे धीरे चलने दें - बिल्कुल एक असली घोंघे की तरह....
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/afc239d0e0db9ee9e467f8aefce5708d/thumbnails/thumbnail.jpg" width="600" alt="चमकदार मशरूम स्नेल एनीमेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5414)**
+
+**Author:** [Lynn Hocker](https://x.com/Auroraskye3993) | **Source:** [Link](https://x.com/Auroraskye3993/status/2059981827188932980) | **Published:** May 28, 2026
+
+---
+### ईडन गार्डन में एडम और स्टीव की पैरोडी
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ईडन गार्डन की कहानी का एक मज़ेदार सिनेमैटिक वीडियो प्रॉम्प्ट, जिसमें दो पुरुषों को दिखाया गया है।
+
+#### 📝 Prompt
+
+```
+ईडन गार्डन में एडम और ईव के बजाय दो पुरुष, एडम और स्टीव हैं। दोनों एक-दूसरे की ओर देखते हैं और एक दूसरे से कहता है कि यह कोई अच्छी बिज़नेस योजना नहीं थी!
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e8d0f1e462b234de30e9e080c7aa7d73/thumbnails/thumbnail.jpg" width="600" alt="ईडन गार्डन में एडम और स्टीव की पैरोडी">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5405)**
+
+**Author:** [Steve Seewald](https://x.com/TrophosSteve4) | **Source:** [Link](https://x.com/TrophosSteve4/status/2059968042155577811) | **Published:** May 28, 2026
+
+---
+### तैरती रोशनी और लालटेन की चमक वाला वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> शांत पानी के ऊपर तैरती रोशनी और लालटेन का दृश्य बनाने वाला एक सुकून भरा वीडियो प्रॉम्प्ट, जो शांति और चमक पर जोर देता है।
+
+#### 📝 Prompt
+
+```
+तैरती रोशनी और शांत पानी की दुनिया में खोया हुआ। आज रात बस शांति और लालटेन की चमक है।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b46948071549d36f22b079c4df00722c/thumbnails/thumbnail.jpg" width="600" alt="तैरती रोशनी और लालटेन की चमक वाला वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5412)**
+
+**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2059854384217923729) | **Published:** May 28, 2026
+
+---
+### पानी के ऊपर ब्रह्मांडीय देवी की आत्मा
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक आकाशीय वीडियो प्रॉम्प्ट जिसमें एक ऐसी महिला है जिसकी त्वचा सितारों और आकाशगंगाओं से बुनी हुई है, जो शांत पानी के ऊपर तैर रही है।
+
+#### 📝 Prompt
+
+```
+दुनियाओं के बीच की शांति में, वह स्वयं ब्रह्मांड बन जाती है — हर सितारा, हर आकाशगंगा, हर सपना उसकी त्वचा में बुना हुआ है। शांत पानी के ऊपर तैरते हुए, वह अपनी आत्मा में पूरे ब्रह्मांड को समेटे हुए है।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0edb857ca4d2fab00700808af6d2ec62/thumbnails/thumbnail.jpg" width="600" alt="पानी के ऊपर ब्रह्मांडीय देवी की आत्मा">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5409)**
+
+**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2059850712238923939) | **Published:** May 28, 2026
+
+---
 ### म्यूजिकल नोट्स क्लाउड प्रॉम्प्ट
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1894,247 +2128,6 @@ Grok, क्या आप इस पक्षी जैसे टेरोडै
 **Author:** [NYXEN](https://x.com/NYXEN_77) | **Source:** [Link](https://x.com/NYXEN_77/status/2056902373235441850) | **Published:** May 20, 2026
 
 ---
-### टैटू और पैसों के साथ किचन का दृश्य
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> किचन के माहौल में दो लोगों से जुड़ा एक चरित्र-प्रधान दृश्य, जिसमें विशिष्ट प्रॉप्स और विवरण शामिल हैं।
-
-#### 📝 Prompt
-
-```
-अपनी बाहों और छाती पर टैटू बनवाई हुई एक महिला किचन में पोज़ दे रही है, जबकि बैकग्राउंड में एक आदमी हाथ में पैसे लिए हुए है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/67062d4bd6d2c684971ce06082af7b41/thumbnails/thumbnail.jpg" width="600" alt="टैटू और पैसों के साथ किचन का दृश्य">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5038)**
-
-**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2056884595115675843) | **Published:** May 19, 2026
-
----
-### तारांकित रात को देखती एनी
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> एनी के पहाड़ की चोटी से दूर शहर की रोशनी के साथ तारों भरे आसमान को देखने का एक विस्तृत एनीमे वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-Grok Imagine, सुंदर एनीमे स्टाइल, एक दृश्य जहाँ एनी-चान (सुनहरे पोनीटेल बाल, हरी आँखें, प्यारी मुस्कान) रात में पहाड़ की चोटी पर खड़ी होकर तारों भरे आसमान को देख रही है, साथ ही दूर पहाड़ियों और शहर की रोशनी दिखाई दे रही है, एक शानदार और गर्मजोशी भरा माहौल, लैंडस्केप बैनर के लिए, 1500x500px, सिनेमैटिक लाइटिंग, अत्यधिक विस्तृत
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cb5859255bf43be88daa4cf42774845a/thumbnails/thumbnail.jpg" width="600" alt="तारांकित रात को देखती एनी">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5053)**
-
-**Author:** [Aniの日常](https://x.com/tarohinomo78040) | **Source:** [Link](https://x.com/tarohinomo78040/status/2056838231485026525) | **Published:** May 19, 2026
-
----
-### पानी से निकलते डरावने जीव का दृश्य
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक डरावने जलीय राक्षस के पानी से निकलकर किनारे पर आने का सिनेमाई वीडियो तैयार करता है।
-
-#### 📝 Prompt
-
-```
-एक बदसूरत और डरावने जलीय जीव का वीडियो बनाएं जो पानी से बाहर निकलकर किनारे की ओर चल रहा हो
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b1b2f1d4ff7bb3ec6f046635881f8065/thumbnails/thumbnail.jpg" width="600" alt="पानी से निकलते डरावने जीव का दृश्य">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5043)**
-
-**Author:** [Chris Creus](https://x.com/CCreus23532) | **Source:** [Link](https://x.com/CCreus23532/status/2056826734209634800) | **Published:** May 19, 2026
-
----
-### Planet X स्टारशिप का आगमन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक दूरस्थ ग्रह पर मेगा बैटल क्रूज़र और एक एलियन क्रिएचर पायलट की विशेषता वाला एक जटिल साइंस-फिक्शन परिदृश्य।
-
-#### 📝 Prompt
-
-```
-अगला रोमांच, Planet X
-^*^*:; { ट्रांस वॉर्प 500 टन मेगा X बैटल क्रूज़र स्टारशिप का आगमन }
-{ पायलट NI Ticulous मॉन्स्टर एलियन क्रिएचर का आगमन } € वाह
-( मूंगफली खा रहे हैं )
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/00c7f0bbb97b1dbefba33d2c06df874b/thumbnails/thumbnail.jpg" width="600" alt="Planet X स्टारशिप का आगमन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5037)**
-
-**Author:** [Notzucow](https://x.com/Notzucow69) | **Source:** [Link](https://x.com/Notzucow69/status/2056823029888327986) | **Published:** May 19, 2026
-
----
-### न्याय का तराजू और कॉफी
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमैटिक वीडियो प्रॉम्प्ट जहाँ एक पात्र कमरे में दीवार पर लगे न्याय के तराजू के सामने कॉफी का कप उठाता है।
-
-#### 📝 Prompt
-
-```
-@image 1 दीवार पर न्याय का तराजू। धीरे से कप उठाता है और कॉफी की चुस्की लेता है....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7d8388fcecc5e3e9a915626802a226dc/thumbnails/thumbnail.jpg" width="600" alt="न्याय का तराजू और कॉफी">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5054)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2056755818972733688) | **Published:** May 19, 2026
-
----
-### कंक्रीट बांध के ढहने का दृश्य
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक विशाल कंक्रीट बांध के दरकने और पूरी तरह से ढहने तथा उसके परिणामस्वरूप आने वाली बाढ़ को दर्शाने वाला एक शानदार एरियल वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-एक विशाल जलाशय को रोके हुए एक विशाल कंक्रीट बांध के शानदार, अल्ट्रा-वाइड एरियल दृश्य से शुरुआत करें। बांध में दरारें आती हैं और वह ढह जाता है, जिससे पानी की एक विशाल लहर निकलती है जो नीचे की घाटी को जलमग्न कर देती है। यह पूरा दृश्य एक निरंतर, हाई-एंगल एस्टेब्लिशिंग शॉट में है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/32edc94a6fb01816714fa3fb6f11388b/thumbnails/thumbnail.jpg" width="600" alt="कंक्रीट बांध के ढहने का दृश्य">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5049)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2056754432550064362) | **Published:** May 19, 2026
-
----
-### Wall Elves Camera Zoom
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो जनरेशन प्रॉम्प्ट जो दीवार पर मौजूद छोटे एल्व्स (elves) का वर्णन करता है, जिसमें चेहरे पर फोकस करते हुए डायनामिक कैमरा ज़ूम मूवमेंट शामिल है।
-
-#### 📝 Prompt
-
-```
-@image1 दीवार पर छोटे एल्व्स। कैमरा उनके चेहरे पर ज़ूम आउट और ज़ूम इन करता है....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/25f4983bd354dd1a6e570c30e69a3b5a/thumbnails/thumbnail.jpg" width="600" alt="Wall Elves Camera Zoom">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5052)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2056741982416822719) | **Published:** May 19, 2026
-
----
-### चाँद पर विशाल रोबोट पायलट
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> एक हाई-टेंशन सिनेमैटिक साइंस-फिक्शन प्रॉम्प्ट, जिसमें चाँद पर एक शार्क मॉन्स्टर से लड़ते हुए एक हथियारबंद विशाल रोबोट पायलट को दिखाया गया है।
-
-#### 📝 Prompt
-
-```
-इस फोटो में मौजूद व्यक्ति एक विशाल रोबोट ऑपरेटर है, और उसका चेहरा स्पष्ट रूप से दिखाई देना चाहिए। दृश्य चाँद का है, जहाँ उसके द्वारा संचालित विशाल रोबोट एक बड़ी तलवार लिए हुए है और एक शार्क मॉन्स्टर पर हमला कर रहा है। उसका यह विशाल रोबोट कई हथियारों से लैस है। वीडियो में साइंस-फिक्शन ब्लॉकबस्टर जैसा प्रभाव होना चाहिए, और शॉट्स गतिशील तथा तनावपूर्ण होने चाहिए।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/febb1715d40418db17bfead6bc309c68/thumbnails/thumbnail.jpg" width="600" alt="चाँद पर विशाल रोबोट पायलट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5051)**
-
-**Author:** [JeffLiuRoast](https://x.com/liu17251086) | **Source:** [Link](https://x.com/liu17251086/status/2056739707284078651) | **Published:** May 19, 2026
-
----
-### विंटर गॉडेस जर्नी
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक नैरेटिव वीडियो प्रॉम्प्ट जिसमें एक महिला को उत्तरी ध्रुव से व्हाइट हाउस तक चलते हुए दिखाया गया है, जिस पर एक विशिष्ट टेक्स्ट ओवरले है।
-
-#### 📝 Prompt
-
-```
-क्या आप एक ऐसा वीडियो बना सकते हैं जिसमें "winter is coming 11.3.26" कैप्शन हो और जिसमें एक देवी जैसी महिला को उत्तरी ध्रुव से पूरे महाद्वीप को पार करते हुए व्हाइट हाउस के मुख्य द्वार तक चलते हुए दिखाया गया हो?!
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/376b138ccc5277df88307f1c0f54ba88/thumbnails/thumbnail.jpg" width="600" alt="विंटर गॉडेस जर्नी">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5045)**
-
-**Author:** [LibbyAnn C](https://x.com/MarineLibby) | **Source:** [Link](https://x.com/MarineLibby/status/2056720240550043937) | **Published:** May 19, 2026
-
----
-### फ्यूचरिस्टिक आर्मर हीरोइन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक अत्यधिक विस्तृत 3D एनिमेशन जिसमें एक एथलेटिक महिला को फ्यूचरिस्टिक चमकते कवच में दिखाया गया है, जिसमें जटिल यांत्रिक विवरण और ऊर्जा प्रभाव शामिल हैं।
-
-#### 📝 Prompt
-
-```
-एक सुंदर एथलेटिक महिला का अत्यधिक विस्तृत सिनेमाई 3D एनिमेशन, जिसने धात्विक चांदी, गहरे भूरे और काले रंग का एक स्लीक, फिटिंग वाला फ्यूचरिस्टिक कॉम्बैट आर्मर सूट पहना है, जिसमें चमकदार नीले रंग की ऊर्जा के निशान हैं। सूट में गहरे वाइज़र वाला एक हाई-टेक हेलमेट, शोल्डर पैड्स, चमकते नीले नोड्स वाली चेस्ट प्लेट, मैकेनिकल गंटलेट्स और लेग आर्मर है। वह धातु के बीम, पीली रेलिंग और नाटकीय ओवरहेड लाइटिंग वाले एक बड़े औद्योगिक गोदाम में आत्मविश्वास के साथ खड़ी है।
-
-गतिविधियों का क्रम:
-- शक्तिशाली मुद्रा में कैमरे के सामने से शुरुआत करती है, छाती और कंधों पर नीली लाइटें धड़क रही हैं।
-- धीरे-धीरे साइड में मुड़ती है, जिससे कवच का पिछला और साइड प्रोफाइल दिखाई देता है।
-- भुजाओं और धड़ के जटिल यांत्रिक विवरणों पर क्लोज-अप, जैसे ही उसके गंटलेट्स और जोड़ों के चारों ओर चमकदार नीली ऊर्जा की चिंगारियां और विद्युत आर्क फूटते हैं।
-- सामने के दृश्य पर वापस आती है, दोनों भुजाओं को नाटकीय रूप से ऊपर उठाती है क्योंकि नीली ऊर्जा की रेखाएं पूरे सूट पर फैल जाती हैं।
-- कई मजबूत वीरतापूर्ण मुद्राएं बनाती है: हाथों को कमर पर रखना, छाती पर भुजाएं क्रॉस करना, फिर ऊर्जा प्रभावों के साथ भुजाओं को चौड़ा फैलाना।
-- अंतिम मुद्रा: लंबी और प्रभावशाली खड़ी है, सिर को हल्का झुकाकर सीधे कैमरे की ओर देख रही है।
-
-कैमरा वर्क: स्मूथ सिनेमाई एंगल, फुल बॉडी शॉट्स, मीडियम शॉट्स और डायनेमिक क्लोज-अप का मिश्रण जो उसकी गति का अनुसरण करते हैं। ऊर्जा विस्फोटों पर सूक्ष्म स्लो-मोशन। वॉल्यूमेट्रिक लाइटिंग, चमकदार धात्विक रिफ्लेक्शन, लेंस फ्लेयर्स, हाई-एंड 3D रेंडर, अल्ट्रा-रियलिस्टिक टेक्सचर, 8K क्वालिटी, नाटकीय साइंस-फिक्शन वातावरण, Meta AI स्टाइल।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a9214cc9303f36ccabb45603359d07ef/thumbnails/thumbnail.jpg" width="600" alt="फ्यूचरिस्टिक आर्मर हीरोइन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5042)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2056692494964818053) | **Published:** May 19, 2026
-
----
-### स्प्लिट स्क्रीन फूड इंटरैक्शन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> दो पात्रों के केला और चॉकलेट खाने तथा दूध के गिलास पकड़े हुए एक विस्तृत दृश्य का विवरण।
-
-#### 📝 Prompt
-
-```
-बाईं ओर वाला पात्र पीला केला खा रहा है जबकि दाईं ओर वाला चॉकलेट खा रहा है और उनके हाथों में दूध का गिलास है
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/30ca742cc79eebdd8184f3a1f5fd6c06/thumbnails/thumbnail.jpg" width="600" alt="स्प्लिट स्क्रीन फूड इंटरैक्शन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5046)**
-
-**Author:** [Sovannara 🚚🛣️🚚](https://x.com/Udom_Barca) | **Source:** [Link](https://x.com/Udom_Barca/status/2056668115233370326) | **Published:** May 19, 2026
-
----
-### योग फॉरवर्ड फोल्ड मोशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> फर्श की ओर शरीर की आगे की गति से जुड़े एक तरल योग अनुक्रम के लिए एक वर्णनात्मक प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-अपने घुटनों को अलग रखकर योग करें, दोनों हाथों को अपने सामने रखें, अपने शरीर को एक-एक करके आगे की ओर तब तक नीचे झुकाएं जब तक कि वह फर्श को न छू ले, अपनी भुजाओं को अपने सामने सीधा फैलाएं, और अपना चेहरा कैमरे की ओर रखें।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06ac5aef587e6dd94f4661b08f774896/thumbnails/thumbnail.jpg" width="600" alt="योग फॉरवर्ड फोल्ड मोशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5036)**
-
-**Author:** [Sovannara 🚚🛣️🚚](https://x.com/Udom_Barca) | **Source:** [Link](https://x.com/Udom_Barca/status/2056658419202048282) | **Published:** May 19, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2196,6 +2189,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-29T04:25:58.815Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-29T11:48:16.152Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1677** |
+| 📝 Total Prompts | **1689** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-29** |
 
@@ -189,6 +189,240 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### วิดีโอผู้หญิงให้อาหารม้าในสวนผลไม้
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ชุดคำสั่งขยายวิดีโอแบบหลายขั้นตอน ที่แสดงภาพผู้หญิงในชุดสไตล์คาวบอยหยุดให้อาหารแอปเปิลแก่ม้าของเธอในบรรยากาศสวนผลไม้
+
+#### 📝 Prompt
+
+```
+ใช้รูปภาพของฉันเป็นพื้นฐานสำหรับหญิงสาวผมบลอนด์หน้าตาสวยงามอายุประมาณ 20 ปลายๆ สวมชุดสไตล์คาวบอยสุดหรู กำลังจูงม้าพันธุ์แอปพาลูซา (พร้อมอานม้าแบบตะวันตก) เดินผ่านสวนแอปเปิลในช่วงพระอาทิตย์ตกดิน เธอหยุดเดิน หยิบแอปเปิลขึ้นมาแล้วป้อนให้ม้ากิน เธอมองดูม้าของเธอกินแอปเปิลจนหมดด้วยความสุข
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fb4da57b9211d17f213e6737ace5bfd0/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอผู้หญิงให้อาหารม้าในสวนผลไม้">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5411)**
+
+**Author:** [Douglas Gould](https://x.com/DouglasGou93848) | **Source:** [Link](https://x.com/DouglasGou93848/status/2060147523659133337) | **Published:** May 28, 2026
+
+---
+### การเปลี่ยนกระดาษทิชชูให้กลายเป็นเอเลี่ยน
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอสร้างสรรค์ที่เปลี่ยนกระดาษทิชชูให้กลายเป็นเอเลี่ยน ก่อนจะขึ้นยานอวกาศแล้วบินทะลุเมฆออกไป
+
+#### 📝 Prompt
+
+```
+เปลี่ยนกระดาษทิชชูแผ่นนี้ให้กลายเป็นเอเลี่ยน ขึ้นยานอวกาศของเขา แล้วทะยานออกไปสู่ก้อนเมฆ
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8677e46426086f53df1a9e281b17aa49/thumbnails/thumbnail.jpg" width="600" alt="การเปลี่ยนกระดาษทิชชูให้กลายเป็นเอเลี่ยน">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5406)**
+
+**Author:** [Enki](https://x.com/Kenneth36936936) | **Source:** [Link](https://x.com/Kenneth36936936/status/2060132578753937575) | **Published:** May 28, 2026
+
+---
+### วิดีโอภายในยาน SpaceX Starship
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวภาพยนตร์ของหญิงสาวและหุ่นยนต์คู่หูภายในยาน SpaceX Starship พร้อมวิวอวกาศ
+
+#### 📝 Prompt
+
+```
+หญิงสาวผมสีอ่อนในชุดสีดำล้ำสมัย พร้อมด้วยหุ่นยนต์คู่หูตัวเล็ก ยืนอยู่ภายในส่วนโดยสารของจรวด SpaceX Starship ที่ออกแบบมาสำหรับผู้โดยสาร ภายในมีพื้นที่รับชมขนาดใหญ่แบบโปร่งใสที่เผยให้เห็นดวงดาวและกลุ่มเมฆคอสมิกในอวกาศ
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/85433e43aa5c72895646bc705d2ab83c/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอภายในยาน SpaceX Starship">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5408)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2060083636272242832) | **Published:** May 28, 2026
+
+---
+### การหายไปของปีกรหัสระยิบระยับ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวภาพยนตร์เหนือจริงที่เกี่ยวข้องกับเอฟเฟกต์รหัสดิจิทัลและบทพูดที่เต็มไปด้วยอารมณ์
+
+#### 📝 Prompt
+
+```
+ปีกของเธอหายไปกลายเป็นรหัสที่ส่องประกายระยิบระยับ เธอพูดว่า “ถ้าเธอทำแบบนี้ ทุกอย่างจะไม่เหมือนเดิมอีกต่อไป จะไม่มีค่ำคืนที่เงียบสงบเพียงลำพังอีกแล้ว พวกเขาจะพลิกชีวิตของเธอเพื่อหาทุกสิ่งทุกอย่างมาใช้เล่นงานเธอ...”
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/19f6b62ab029c260c79a14ac8da1dda7/thumbnails/thumbnail.jpg" width="600" alt="การหายไปของปีกรหัสระยิบระยับ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5416)**
+
+**Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2060070704482287761) | **Published:** May 28, 2026
+
+---
+### วิดีโอเส้นทางในป่าแฟนตาซีสไตล์สตีมพังค์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวสตีมพังค์สุดมหัศจรรย์ ที่มีพ่อมดและราชินีภูตกำลังเดินผ่านป่าไปยังห้องสมุด
+
+#### 📝 Prompt
+
+```
+บรรยากาศสตีมพังค์สุดมหัศจรรย์
+พ่อมดและราชินีภูตเดินผ่านเส้นทางในป่าไปยังกระท่อมและเข้าไปในห้องสมุด
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9f7fcc8c1a4d4a3ca5efdfd5e106aeb3/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอเส้นทางในป่าแฟนตาซีสไตล์สตีมพังค์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5413)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2060069085266997532) | **Published:** May 28, 2026
+
+---
+### แอนิเมชัน Chibi Matrix Sentinel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอเชิงสร้างสรรค์สำหรับสร้างตัวละคร Matrix Sentinel ในสไตล์จิบิที่กำลังทำท่าตบหน้าตัวเอง (face-palm) พร้อมเอฟเฟกต์ซูมเอาต์
+
+#### 📝 Prompt
+
+```
+ซูมเอาต์ออกมาให้เห็น Sentinel จากภาพยนตร์เรื่อง “Matrix” ในสไตล์จิบิ กำลังทำท่าตบหน้าตัวเองเหมือนอิโมจิ
+```
+
+<img src="https://cms-assets.youmind.com/media/1780043959273_tjmkzf_HJbP2mJWIAM1_uu.jpg" width="600" alt="แอนิเมชัน Chibi Matrix Sentinel">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5410)**
+
+**Author:** [Robert Coffman 𓂀☤ ⚕ 🕊️](https://x.com/cache_refresh) | **Source:** [Link](https://x.com/cache_refresh/status/2060062532811862053) | **Published:** May 28, 2026
+
+---
+### สาวน้อยจิบิโต้คลื่นบนเกลียวคลื่นสีสันสดใส
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์ที่มีรายละเอียดของสาวน้อยสไตล์จิบิที่กำลังโต้คลื่นสีฟ้าและเขียวสดใสอย่างคล่องแคล่วภายใต้ท้องฟ้าที่สดใส
+
+#### 📝 Prompt
+
+```
+สาวน้อยจิบิสุดน่ารักกำลังโต้คลื่นในมหาสมุทรที่สวยงามด้วยเกลียวคลื่นสีฟ้าและเขียวสดใสภายใต้ท้องฟ้าที่สดใส เธอสวมชุดโต้คลื่นสีดำเพรียวบางและทรงตัวได้อย่างคล่องแคล่ว…..
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/04f56219f7523850b9d19e66b0c14035/thumbnails/thumbnail.jpg" width="600" alt="สาวน้อยจิบิโต้คลื่นบนเกลียวคลื่นสีสันสดใส">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5415)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2060020165077561632) | **Published:** May 28, 2026
+
+---
+### แท่นขุดเจาะน้ำมันกลางทะเลลึกที่ถูกทิ้งร้าง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวภาพยนตร์ความยาว 10 วินาที ที่แสดงภาพซากปรักหักพังทางอุตสาหกรรมในยุคหลังวันสิ้นโลกท่ามกลางหมอกหนาในมหาสมุทร พร้อมแสงที่ดูน่าขนลุกและการเคลื่อนกล้องแบบติดตามช้าๆ
+
+#### 📝 Prompt
+
+```
+แท่นขุดเจาะน้ำมันขนาดมหึมากลางทะเลลึกที่ถูกทิ้งร้างตั้งตระหง่านอยู่ในสภาพพังทลายครึ่งหนึ่งท่ามกลางมหาสมุทรที่มีพายุและหมอกหนาทึบในช่วงรุ่งสาง กล้องเคลื่อนที่ต่ำและช้าๆ เหนือผิวน้ำสีดำ เคลื่อนผ่านกลุ่มหมอกที่ม้วนตัวหนาแน่น โดยมีคานเหล็กขึ้นสนิม สายเคเบิลที่ห้อยระโยงระยาง และไฟสปอร์ตไลท์ที่แตกหักปรากฏอยู่เบื้องบน แท่นขุดเจาะส่งเสียงเอี๊ยดอ๊าดเบาๆ โลหะส่งเสียงครวญครางภายใต้แรงลม น้ำทะเลสาดกระทบโครงสร้างที่ผุกร่อน และเศษซากที่ลอยมาชนกับโครงสร้างเบาๆ กล้องติดตามเคลื่อนไปข้างหน้าสู่ภายในที่มืดมิดของแท่นขุดเจาะ ซึ่งเครื่องจักรทางอุตสาหกรรมหยุดทำงานและถูกน้ำท่วมขัง ปกคลุมไปด้วยคราบเกลือและความเสื่อมโทรม เมื่อกล้องขยับเข้าใกล้หน้าต่างห้องควบคุมที่มีรอยร้าวจากคราบเกลือ จอมอนิเตอร์แจ้งเตือนเพียงตัวเดียวก็กะพริบเบาๆ เผยให้เห็นสัญญาณรบกวนที่บิดเบี้ยว ทันใดนั้น ไฟสัญญาณฉุกเฉินสีแดงดวงหนึ่งลึกเข้าไปในโครงสร้างก็สว่างวาบขึ้นมา ทำให้เกิดแสงกะพริบสลัวๆ ผ่านม่านหมอก ฉากนี้ทิ้งความรู้สึกระทึกขวัญ ผสมผสานความสมจริงของยุคหลังวันสิ้นโลกเข้ากับบรรยากาศทางอุตสาหกรรมที่น่าขนลุก
+สไตล์ของฉาก: หมอกในมหาสมุทรยุคหลังวันสิ้นโลก | ซากปรักหักพังทางอุตสาหกรรม | การติดตามมุมต่ำ | ความระทึกขวัญแบบภาพยนตร์ | การออกแบบเสียงบรรยากาศ | ความเสื่อมโทรมที่สมจริงเป็นพิเศษ | การเคลื่อนกล้องแบบสโลว์โมชั่น | การกระจายตัวของหมอกที่ดูดราม่า
+ความยาว: 10 วินาที
+อัตราส่วนภาพ: 16:9
+การเคลื่อนไหว: ช็อตติดตามที่นุ่มนวล, การแกว่งไกวเล็กน้อยเหมือนโดรนที่มีระบบกันสั่น
+แสง: หมอกสีเทาอมฟ้าในช่วงรุ่งสาง, แสงกะพริบสีแดงสลัวจากสัญญาณไฟ, แสงสะท้อนที่นุ่มนวลบนสนิมที่เปียกชื้น
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b11868815b31bb8f7e83b37b89d6cf64/thumbnails/thumbnail.jpg" width="600" alt="แท่นขุดเจาะน้ำมันกลางทะเลลึกที่ถูกทิ้งร้าง">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5407)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2059991468174086407) | **Published:** May 28, 2026
+
+---
+### แอนิเมชันหอยทากเห็ดสุดวิบวับ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง (Prompt) สำหรับเปลี่ยนภาพนิ่งให้กลายเป็นวิดีโอหอยทากที่มีดวงตาเป็นเห็ดและดูเป็นประกายวิบวับ
+
+#### 📝 Prompt
+
+```
+เปลี่ยนภาพนี้ให้กลายเป็นหอยทากที่เคลื่อนไหวได้และดูเป็นประกายวิบวับ โดยให้มีเห็ดเป็นดวงตาของมัน ปรับการเคลื่อนไหวให้ช้าลง เหมือนกับหอยทากจริงๆ...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/afc239d0e0db9ee9e467f8aefce5708d/thumbnails/thumbnail.jpg" width="600" alt="แอนิเมชันหอยทากเห็ดสุดวิบวับ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5414)**
+
+**Author:** [Lynn Hocker](https://x.com/Auroraskye3993) | **Source:** [Link](https://x.com/Auroraskye3993/status/2059981827188932980) | **Published:** May 28, 2026
+
+---
+### ล้อเลียนเรื่องราวของ Adam และ Steve ในสวนอีเดน
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวภาพยนตร์สุดฮาที่นำเสนอเรื่องราวสวนอีเดนในมุมมองใหม่โดยมีตัวละครเป็นชายสองคน
+
+#### 📝 Prompt
+
+```
+ชายสองคนในสวนอีเดนแทนที่จะเป็น Adam และ Eve แต่กลับกลายเป็น Adam และ Steve ทั้งคู่มองหน้ากันแล้วคนหนึ่งก็พูดกับอีกคนว่า นี่ไม่ใช่แผนธุรกิจที่ดีเลยนะ!
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e8d0f1e462b234de30e9e080c7aa7d73/thumbnails/thumbnail.jpg" width="600" alt="ล้อเลียนเรื่องราวของ Adam และ Steve ในสวนอีเดน">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5405)**
+
+**Author:** [Steve Seewald](https://x.com/TrophosSteve4) | **Source:** [Link](https://x.com/TrophosSteve4/status/2059968042155577811) | **Published:** May 28, 2026
+
+---
+### วิดีโอแสงไฟลอยน้ำและโคมไฟเรืองแสง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวสงบที่สร้างฉากของแสงไฟและโคมไฟลอยอยู่เหนือน้ำที่เงียบสงบ เน้นความรู้สึกผ่อนคลายและแสงเรืองรอง
+
+#### 📝 Prompt
+
+```
+หลงใหลในโลกแห่งแสงไฟลอยน้ำและผืนน้ำที่เงียบสงบ ค่ำคืนนี้มีเพียงความสงบและแสงเรืองรองจากโคมไฟเท่านั้น
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b46948071549d36f22b079c4df00722c/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอแสงไฟลอยน้ำและโคมไฟเรืองแสง">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5412)**
+
+**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2059854384217923729) | **Published:** May 28, 2026
+
+---
+### เทพธิดาแห่งจักรวาลเหนือผืนน้ำ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์แนวเซเลสเชียล (Celestial) ที่นำเสนอภาพหญิงสาวผู้มีผิวพรรณถักทอด้วยดวงดาวและกาแล็กซี ลอยอยู่เหนือผืนน้ำอันเงียบสงบ
+
+#### 📝 Prompt
+
+```
+ในความเงียบงันระหว่างโลกทั้งสอง เธอได้กลายเป็นจักรวาลเสียเอง — ทุกดวงดาว ทุกกาแล็กซี และทุกความฝันถูกถักทอลงบนผิวของเธอ เธอผู้ลอยอยู่เหนือผืนน้ำนิ่งสงบ แบกรับจักรวาลไว้ภายในจิตวิญญาณของเธอ
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0edb857ca4d2fab00700808af6d2ec62/thumbnails/thumbnail.jpg" width="600" alt="เทพธิดาแห่งจักรวาลเหนือผืนน้ำ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5409)**
+
+**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2059850712238923939) | **Published:** May 28, 2026
+
+---
 ### พรอมต์กลุ่มเมฆตัวโน้ตดนตรี
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1894,247 +2128,6 @@ Grok ดูวัตถุที่ดูเหมือนนกเทอโร
 **Author:** [NYXEN](https://x.com/NYXEN_77) | **Source:** [Link](https://x.com/NYXEN_77/status/2056902373235441850) | **Published:** May 20, 2026
 
 ---
-### ฉากในห้องครัวกับรอยสักและเงิน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำบรรยายฉากที่เน้นตัวละคร โดยมีคนสองคนอยู่ในห้องครัวพร้อมอุปกรณ์ประกอบฉากและรายละเอียดที่เฉพาะเจาะจง
-
-#### 📝 Prompt
-
-```
-หญิงสาวที่มีรอยสักบนแขนและหน้าอกกำลังโพสท่าในห้องครัว โดยมีชายคนหนึ่งอยู่ด้านหลังกำลังถือเงินอยู่
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/67062d4bd6d2c684971ce06082af7b41/thumbnails/thumbnail.jpg" width="600" alt="ฉากในห้องครัวกับรอยสักและเงิน">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5038)**
-
-**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2056884595115675843) | **Published:** May 19, 2026
-
----
-### Ani กำลังชมท้องฟ้ายามค่ำคืนที่เต็มไปด้วยดวงดาว
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> พรอมต์วิดีโออนิเมะแบบละเอียดของ Ani ที่กำลังมองท้องฟ้าที่เต็มไปด้วยดวงดาวจากบนยอดเขา โดยมีแสงไฟจากเมืองอยู่ไกลๆ
-
-#### 📝 Prompt
-
-```
-Grok Imagine, สไตล์อนิเมะที่สวยงาม, ฉากที่ Ani-chan (ผมหางม้าสีบลอนด์, ตาสีเขียว, ยิ้มน่ารัก) กำลังยืนอยู่บนยอดเขาในยามค่ำคืนและแหงนมองท้องฟ้าที่เต็มไปด้วยดวงดาว, มีภูเขาบ้านเกิดและแสงไฟจากเมืองอยู่ไกลๆ, บรรยากาศที่ยอดเยี่ยมและอบอุ่น, สำหรับแบนเนอร์แนวนอน, 1500x500px, แสงแบบภาพยนตร์, รายละเอียดสูง
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cb5859255bf43be88daa4cf42774845a/thumbnails/thumbnail.jpg" width="600" alt="Ani กำลังชมท้องฟ้ายามค่ำคืนที่เต็มไปด้วยดวงดาว">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5053)**
-
-**Author:** [Aniの日常](https://x.com/tarohinomo78040) | **Source:** [Link](https://x.com/tarohinomo78040/status/2056838231485026525) | **Published:** May 19, 2026
-
----
-### การปรากฏตัวของสัตว์น้ำสุดสยอง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> สร้างวิดีโอในรูปแบบภาพยนตร์ของสัตว์ประหลาดใต้น้ำสุดน่ากลัวที่กำลังขึ้นจากน้ำมายังชายฝั่ง
-
-#### 📝 Prompt
-
-```
-สร้างวิดีโอของสัตว์น้ำหน้าตาน่าเกลียดและน่ากลัวที่กำลังขึ้นจากน้ำและเดินตรงมายังชายฝั่ง
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b1b2f1d4ff7bb3ec6f046635881f8065/thumbnails/thumbnail.jpg" width="600" alt="การปรากฏตัวของสัตว์น้ำสุดสยอง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5043)**
-
-**Author:** [Chris Creus](https://x.com/CCreus23532) | **Source:** [Link](https://x.com/CCreus23532/status/2056826734209634800) | **Published:** May 19, 2026
-
----
-### การมาถึงของยานอวกาศที่ดาวเคราะห์ X
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> สถานการณ์ไซไฟสุดซับซ้อนที่นำเสนอเรือรบขนาดมหึมาและนักบินที่เป็นสิ่งมีชีวิตจากต่างดาวบนดาวเคราะห์อันไกลโพ้น
-
-#### 📝 Prompt
-
-```
-การผจญภัยครั้งถัดไป ณ ดาวเคราะห์ X
-^*^*:; { ยานรบ Starship ขนาดมหึมา 500 ตันที่ใช้ความเร็ว trans warp เดินทางมาถึง }
-{ นักบิน NI Ticulous Monster สิ่งมีชีวิตจากต่างดาวเดินทางมาถึง } € ว้าว
-( กำลังกินถั่ว )
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/00c7f0bbb97b1dbefba33d2c06df874b/thumbnails/thumbnail.jpg" width="600" alt="การมาถึงของยานอวกาศที่ดาวเคราะห์ X">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5037)**
-
-**Author:** [Notzucow](https://x.com/Notzucow69) | **Source:** [Link](https://x.com/Notzucow69/status/2056823029888327986) | **Published:** May 19, 2026
-
----
-### ตาชั่งแห่งความยุติธรรมและกาแฟ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวภาพยนตร์ที่ตัวละครยกถ้วยกาแฟขึ้นดื่มในห้องที่มีตาชั่งแห่งความยุติธรรมติดอยู่บนผนัง
-
-#### 📝 Prompt
-
-```
-@image 1 ตาชั่งแห่งความยุติธรรมบนผนัง ค่อย ๆ ยกถ้วยขึ้นและจิบกาแฟ....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7d8388fcecc5e3e9a915626802a226dc/thumbnails/thumbnail.jpg" width="600" alt="ตาชั่งแห่งความยุติธรรมและกาแฟ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5054)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2056755818972733688) | **Published:** May 19, 2026
-
----
-### ลำดับเหตุการณ์เขื่อนคอนกรีตพังทลาย
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอทางอากาศสุดอลังการที่แสดงภาพรอยร้าวและการพังทลายลงทั้งหมดของเขื่อนคอนกรีตขนาดใหญ่ พร้อมเหตุการณ์น้ำท่วมที่ตามมา
-
-#### 📝 Prompt
-
-```
-เริ่มต้นด้วยภาพมุมสูงแบบอัลตราไวด์ที่น่าตื่นตาตื่นใจของเขื่อนคอนกรีตขนาดใหญ่ที่กั้นอ่างเก็บน้ำขนาดมหึมา เขื่อนเริ่มมีรอยร้าวและพังทลายลง ปลดปล่อยมวลน้ำมหาศาลที่ไหลทะลักเข้าท่วมหุบเขาเบื้องล่างในช็อตเดียวต่อเนื่องแบบมุมสูง
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/32edc94a6fb01816714fa3fb6f11388b/thumbnails/thumbnail.jpg" width="600" alt="ลำดับเหตุการณ์เขื่อนคอนกรีตพังทลาย">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5049)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2056754432550064362) | **Published:** May 19, 2026
-
----
-### Wall Elves Camera Zoom
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับการสร้างวิดีโอที่บรรยายถึงเอลฟ์ตัวจิ๋วบนผนัง พร้อมการเคลื่อนไหวของกล้องแบบซูมเข้าและซูมออกที่เน้นไปที่ใบหน้า
-
-#### 📝 Prompt
-
-```
-@image1 เอลฟ์ตัวจิ๋วบนผนัง กล้องซูมออกและซูมเข้าไปที่ใบหน้าของพวกมัน....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/25f4983bd354dd1a6e570c30e69a3b5a/thumbnails/thumbnail.jpg" width="600" alt="Wall Elves Camera Zoom">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5052)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2056741982416822719) | **Published:** May 19, 2026
-
----
-### นักบินหุ่นยนต์ยักษ์บนดวงจันทร์
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> พรอมต์แนวไซไฟสุดระทึกขวัญระดับภาพยนตร์ ที่มีนักบินหุ่นยนต์ยักษ์ติดอาวุธกำลังต่อสู้กับสัตว์ประหลาดฉลามบนดวงจันทร์
-
-#### 📝 Prompt
-
-```
-บุคคลในภาพนี้คือผู้ควบคุมหุ่นยนต์ยักษ์ โดยต้องเห็นใบหน้าของเขาอย่างชัดเจน ฉากหลังเป็นดวงจันทร์ที่หุ่นยนต์ยักษ์ซึ่งเขาควบคุมอยู่กำลังถือดาบเล่มใหญ่และเข้าโจมตีสัตว์ประหลาดฉลาม หุ่นยนต์ยักษ์ตัวนี้ติดตั้งอาวุธไว้มากมาย วิดีโอควรมีเอฟเฟกต์แบบภาพยนตร์ไซไฟฟอร์มยักษ์ และการถ่ายทำควรมีความไดนามิกและตื่นเต้นเร้าใจ
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/febb1715d40418db17bfead6bc309c68/thumbnails/thumbnail.jpg" width="600" alt="นักบินหุ่นยนต์ยักษ์บนดวงจันทร์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5051)**
-
-**Author:** [JeffLiuRoast](https://x.com/liu17251086) | **Source:** [Link](https://x.com/liu17251086/status/2056739707284078651) | **Published:** May 19, 2026
-
----
-### การเดินทางของเทพธิดาแห่งเหมันต์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอเล่าเรื่องที่นำเสนอภาพหญิงสาวเดินจากขั้วโลกเหนือไปยังทำเนียบขาว พร้อมข้อความซ้อนทับเฉพาะ
-
-#### 📝 Prompt
-
-```
-ช่วยทำวิดีโอที่มีคำบรรยายว่า "winter is coming 11.3.26" โดยให้เห็นภาพหญิงสาวผู้มีลักษณะดุจเทพธิดากำลังเดินจากขั้วโลกเหนือข้ามทวีปไปจนถึงหน้าประตูทำเนียบขาวได้ไหม!
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/376b138ccc5277df88307f1c0f54ba88/thumbnails/thumbnail.jpg" width="600" alt="การเดินทางของเทพธิดาแห่งเหมันต์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5045)**
-
-**Author:** [LibbyAnn C](https://x.com/MarineLibby) | **Source:** [Link](https://x.com/MarineLibby/status/2056720240550043937) | **Published:** May 19, 2026
-
----
-### ฮีโร่สาวในชุดเกราะแห่งอนาคต
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> แอนิเมชัน 3D รายละเอียดสูงที่แสดงภาพหญิงสาวรูปร่างนักกีฬาในชุดเกราะเรืองแสงแห่งอนาคต พร้อมรายละเอียดทางกลไกที่ซับซ้อนและเอฟเฟกต์พลังงาน
-
-#### 📝 Prompt
-
-```
-แอนิเมชัน 3D ระดับภาพยนตร์ที่มีรายละเอียดสูงของหญิงสาวรูปร่างนักกีฬาสุดสวย สวมชุดเกราะต่อสู้แห่งอนาคตที่เพรียวบางเข้ารูปในโทนสีเงินเมทัลลิก เทาเข้ม และดำ พร้อมจุดเด่นเป็นพลังงานเรืองแสงสีฟ้าสดใส ชุดเกราะมาพร้อมหมวกไฮเทคที่มีกระบังหน้าสีเข้ม แผ่นรองไหล่ แผ่นเกราะหน้าอกที่มีจุดเรืองแสงสีฟ้า ถุงมือกลไก และเกราะขา เธอยืนอย่างมั่นใจในโกดังอุตสาหกรรมขนาดใหญ่ที่มีคานเหล็ก ราวกั้นสีเหลือง และแสงไฟเหนือศีรษะที่ดูน่าตื่นตา
-
-ลำดับการเคลื่อนไหว:
-- เริ่มต้นด้วยการหันหน้าเข้าหากล้องในท่ายืนที่ทรงพลัง แสงสีฟ้ากะพริบเป็นจังหวะบนหน้าอกและไหล่
-- ค่อยๆ หันข้างเพื่อโชว์ด้านหลังและโปรไฟล์ด้านข้างของชุดเกราะ
-- ซูมใกล้รายละเอียดทางกลไกที่ซับซ้อนของแขนและลำตัว ในขณะที่ประกายพลังงานสีฟ้าสว่างและส่วนโค้งไฟฟ้าปะทุขึ้นรอบถุงมือและข้อต่อของเธอ
-- กลับมาที่มุมมองด้านหน้า ยกแขนทั้งสองข้างขึ้นอย่างสง่างามในขณะที่เส้นพลังงานสีฟ้าพุ่งกระจายไปทั่วทั้งชุด
-- โพสท่าฮีโร่ที่แข็งแกร่งหลายท่า: มือเท้าสะเอว กอดอก จากนั้นกางแขนออกกว้างพร้อมเอฟเฟกต์พลังงาน
-- ท่าสุดท้าย: ยืนตัวตรงอย่างน่าเกรงขาม มองตรงมาที่กล้องพร้อมเอียงศีรษะเล็กน้อย
-
-งานกล้อง: มุมกล้องแบบภาพยนตร์ที่นุ่มนวล ผสมผสานระหว่างภาพเต็มตัว ภาพระยะกลาง และภาพระยะใกล้แบบไดนามิกที่ติดตามการเคลื่อนไหวของเธอ มีการใช้สโลว์โมชันเล็กน้อยในช่วงที่พลังงานปะทุ แสงแบบ Volumetric, การสะท้อนของโลหะที่มันวาว, แสงแฟลร์ของเลนส์, การเรนเดอร์ 3D ระดับไฮเอนด์, พื้นผิวที่สมจริงเป็นพิเศษ, คุณภาพระดับ 8K, บรรยากาศไซไฟที่น่าตื่นเต้น, สไตล์ Meta AI
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a9214cc9303f36ccabb45603359d07ef/thumbnails/thumbnail.jpg" width="600" alt="ฮีโร่สาวในชุดเกราะแห่งอนาคต">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5042)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2056692494964818053) | **Published:** May 19, 2026
-
----
-### การโต้ตอบกับอาหารแบบแบ่งหน้าจอ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำอธิบายฉากโดยละเอียดของตัวละครสองตัวที่กำลังรับประทานกล้วยและช็อกโกแลตพร้อมกับดื่มนม
-
-#### 📝 Prompt
-
-```
-ตัวละครทางด้านซ้ายกำลังรับประทานกล้วยสีเหลือง ในขณะที่ตัวละครทางด้านขวากำลังรับประทานช็อกโกแลต และทั้งคู่ถือแก้วนมไว้ในมือ
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/30ca742cc79eebdd8184f3a1f5fd6c06/thumbnails/thumbnail.jpg" width="600" alt="การโต้ตอบกับอาหารแบบแบ่งหน้าจอ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5046)**
-
-**Author:** [Sovannara 🚚🛣️🚚](https://x.com/Udom_Barca) | **Source:** [Link](https://x.com/Udom_Barca/status/2056668115233370326) | **Published:** May 19, 2026
-
----
-### ท่าโยคะก้มตัวไปด้านหน้า
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำอธิบายสำหรับลำดับท่าโยคะที่เน้นความลื่นไหล โดยมีการเคลื่อนไหวร่างกายไปด้านหน้าจนถึงพื้น
-
-#### 📝 Prompt
-
-```
-เล่นโยคะโดยแยกเข่าออกจากกัน วางมือทั้งสองข้างไว้ด้านหน้า ค่อย ๆ ลดตัวลงไปด้านหน้าทีละนิดจนแตะพื้น เหยียดแขนทั้งสองข้างตรงไปข้างหน้า และหันหน้ามองมาที่กล้อง
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06ac5aef587e6dd94f4661b08f774896/thumbnails/thumbnail.jpg" width="600" alt="ท่าโยคะก้มตัวไปด้านหน้า">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5036)**
-
-**Author:** [Sovannara 🚚🛣️🚚](https://x.com/Udom_Barca) | **Source:** [Link](https://x.com/Udom_Barca/status/2056658419202048282) | **Published:** May 19, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2196,6 +2189,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-29T04:25:56.228Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-29T11:48:13.233Z</sub>
 
 </div>

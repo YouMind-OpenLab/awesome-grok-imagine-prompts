@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **1677** |
+| 📝 プロンプト総数 | **1689** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-05-29** |
 
@@ -189,6 +189,240 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### 果樹園で馬に餌をやる女性の動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ウエスタン調の服装をした女性が、果樹園で馬にリンゴをあげる様子を段階的に拡張するビデオプロンプトのシーケンス。
+
+#### 📝 プロンプト
+
+```
+私の画像をベースに、20 代後半の魅力的な金髪の女性が、高級感のあるウエスタン調の服装で、ウエスタンサドルを装着したアパルーサ種の馬を連れて夕暮れのリンゴ園を歩いている様子を生成してください。彼女は立ち止まり、リンゴを手に取って馬に与えます。彼女は馬がリンゴをすべて食べる様子を嬉しそうに見守っています。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fb4da57b9211d17f213e6737ace5bfd0/thumbnails/thumbnail.jpg" width="600" alt="果樹園で馬に餌をやる女性の動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5411)**
+
+**作者:** [Douglas Gould](https://x.com/DouglasGou93848) | **ソース:** [Link](https://x.com/DouglasGou93848/status/2060147523659133337) | **公開日:** May 28, 2026
+
+---
+### ペーパータオルがエイリアンに変身
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ペーパータオルがエイリアンに変身し、宇宙船に乗り込んで雲の中へと飛び去っていくクリエイティブな変身動画です。
+
+#### 📝 プロンプト
+
+```
+このペーパータオルをエイリアンに変身させて、宇宙船に乗り込ませ、雲の中へと飛び立たせましょう
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8677e46426086f53df1a9e281b17aa49/thumbnails/thumbnail.jpg" width="600" alt="ペーパータオルがエイリアンに変身">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5406)**
+
+**作者:** [Enki](https://x.com/Kenneth36936936) | **ソース:** [Link](https://x.com/Kenneth36936936/status/2060132578753937575) | **公開日:** May 28, 2026
+
+---
+### SpaceX Starship 内部の動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> SpaceX Starship の船内で、女性とロボットの相棒が宇宙を眺めている様子を描いたシネマティックな動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+洗練された未来的な黒い衣装を身にまとった明るい髪の女性が、小さなロボットの相棒と共に、乗客用に設計された SpaceX Starship ロケットの客室内に立っている。船内には大きな透明の展望エリアがあり、そこから宇宙の星々や星雲が見える。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/85433e43aa5c72895646bc705d2ab83c/thumbnails/thumbnail.jpg" width="600" alt="SpaceX Starship 内部の動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5408)**
+
+**作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **ソース:** [Link](https://x.com/clemensilverio/status/2060083636272242832) | **公開日:** May 28, 2026
+
+---
+### きらめくコードの翼が消える瞬間
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> デジタルコードのエフェクトとドラマチックなモノローグを組み合わせた、シュールなシネマティックビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+彼女の翼がきらめくコードとなって消えていく。彼女はこう告げる。「もしこれを行えば、もう二度と元には戻れない。静かな夜を一人で過ごすこともなくなる。彼らはあなたの人生を裏返しにして、利用できるものをすべて探し出すだろう……」
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/19f6b62ab029c260c79a14ac8da1dda7/thumbnails/thumbnail.jpg" width="600" alt="きらめくコードの翼が消える瞬間">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5416)**
+
+**作者:** [David Avenue Media](https://x.com/davidavenueai) | **ソース:** [Link](https://x.com/davidavenueai/status/2060070704482287761) | **公開日:** May 28, 2026
+
+---
+### スチームパンク・ファンタジーの森の小道動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 魔法使いと妖精の女王が森を抜けて図書館へと向かう、魔法のようなスチームパンク風の動画プロンプトです。
+
+#### 📝 プロンプト
+
+```
+魔法のようなスチームパンクの雰囲気
+魔法使いと妖精の女王が森の小道を歩き、コテージを通って図書館の中へ入っていく
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9f7fcc8c1a4d4a3ca5efdfd5e106aeb3/thumbnails/thumbnail.jpg" width="600" alt="スチームパンク・ファンタジーの森の小道動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5413)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2060069085266997532) | **公開日:** May 28, 2026
+
+---
+### ちびキャラ版マトリックス・センチネルのアニメーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 映画『マトリックス』に登場するセンチネルをちびキャラ化し、顔を覆う（フェイスパーム）動作をさせながらズームアウトしていくクリエイティブな動画プロンプトです。
+
+#### 📝 プロンプト
+
+```
+映画『マトリックス』のセンチネルをちびキャラ風に描き、顔を叩く（フェイスパーム）動作をさせながらズームアウトする様子
+```
+
+<img src="https://cms-assets.youmind.com/media/1780043959273_tjmkzf_HJbP2mJWIAM1_uu.jpg" width="600" alt="ちびキャラ版マトリックス・センチネルのアニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5410)**
+
+**作者:** [Robert Coffman 𓂀☤ ⚕ 🕊️](https://x.com/cache_refresh) | **ソース:** [Link](https://x.com/cache_refresh/status/2060062532811862053) | **公開日:** May 28, 2026
+
+---
+### 鮮やかな波に乗るちびキャラの女の子
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 晴れた空の下、鮮やかな青と緑の波を巧みに乗りこなす、かわいいちびキャラ風の女の子が登場する詳細なビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+晴れた空の下、鮮やかな青と緑の波が美しい海でサーフィンをする、かわいいちびキャラの女の子。彼女は洗練された黒のサーフィンウェアを身にまとい、巧みにバランスをとっている……
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/04f56219f7523850b9d19e66b0c14035/thumbnails/thumbnail.jpg" width="600" alt="鮮やかな波に乗るちびキャラの女の子">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5415)**
+
+**作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **ソース:** [Link](https://x.com/clemensilverio/status/2060020165077561632) | **公開日:** May 28, 2026
+
+---
+### 放棄された深海掘削プラットフォーム
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 終末世界を舞台にした、霧深い海上の産業廃墟を描く 10 秒間のシネマティックな動画プロンプト。不気味な照明とゆっくりとしたトラッキングショットが特徴です。
+
+#### 📝 プロンプト
+
+```
+夜明けの嵐と霧に包まれた海上に、半壊した巨大な深海掘削プラットフォームが浮かんでいる。カメラは黒い海面すれすれを低くゆっくりと滑るように進み、立ち込める濃い霧の中を通り抜ける。頭上には錆びついた鉄骨やぶら下がるケーブル、壊れた投光器が不気味にそびえ立つ。プラットフォームは風圧で金属音を立ててかすかにきしみ、海水が腐食した支柱に打ち付け、漂流物が構造物に静かにぶつかる。カメラはプラットフォームの影に覆われた内部へと進み、そこには塩と腐食にまみれ、浸水して動かなくなった産業機械が放置されている。塩のシミでひび割れた制御室の窓にカメラが近づくと、警告モニターが 1 台だけかすかに明滅し、歪んだノイズを映し出す。その時、構造物の奥深くで赤い非常用ビーコンが突如として点滅し、霧の中に鈍い光を放つ。終末世界のリアリズムと不気味な産業の気配が融合した、緊張感あふれるシーン。
+シーンスタイル：終末世界の海の霧 | 産業廃墟 | ローアングルのトラッキング | シネマティックな緊張感 | 環境音デザイン | 超リアルな腐食 | ゆっくりとしたカメラの滑走 | ドラマチックな霧の拡散
+長さ：10 秒
+アスペクト比：16:9
+モーション：スムーズなトラッキングショット、手持ちのスタビライズド・ドローンのようなわずかな揺れ
+照明：夜明けのグレーブルーの霧、ビーコンからの鈍い赤いパルス光、濡れた錆に反射する柔らかなハイライト
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b11868815b31bb8f7e83b37b89d6cf64/thumbnails/thumbnail.jpg" width="600" alt="放棄された深海掘削プラットフォーム">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5407)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **ソース:** [Link](https://x.com/MrDasOnX/status/2059991468174086407) | **公開日:** May 28, 2026
+
+---
+### キラキラ輝くキノコカタツムリのアニメーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 画像を、キノコの目を持つ、キラキラと輝く動くカタツムリに変換する Image-to-Video プロンプトです。
+
+#### 📝 プロンプト
+
+```
+この画像を、キノコを目にした、キラキラと輝く動くカタツムリに変換してください。本物のカタツムリのように、ゆっくりと動くようにしてください……
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/afc239d0e0db9ee9e467f8aefce5708d/thumbnails/thumbnail.jpg" width="600" alt="キラキラ輝くキノコカタツムリのアニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5414)**
+
+**作者:** [Lynn Hocker](https://x.com/Auroraskye3993) | **ソース:** [Link](https://x.com/Auroraskye3993/status/2059981827188932980) | **公開日:** May 28, 2026
+
+---
+### エデンの園を舞台にしたアダムとスティーブのパロディ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> アダムとイブの物語をアレンジし、2 人の男性が登場するエデンの園を描いたユーモラスなシネマティック動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+エデンの園にいるのがアダムとイブではなく、アダムとスティーブという 2 人の男性。彼らはお互いを見つめ合い、一方がもう一方に向かって「これは良いビジネスプランじゃなかったな！」と言う。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e8d0f1e462b234de30e9e080c7aa7d73/thumbnails/thumbnail.jpg" width="600" alt="エデンの園を舞台にしたアダムとスティーブのパロディ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5405)**
+
+**作者:** [Steve Seewald](https://x.com/TrophosSteve4) | **ソース:** [Link](https://x.com/TrophosSteve4/status/2059968042155577811) | **公開日:** May 28, 2026
+
+---
+### Floating Lights and Lantern Glow Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 静かな水面に浮かぶ光とランタンの情景を描き出す、穏やかで幻想的なビデオプロンプトです。
+
+#### 📝 プロンプト
+
+```
+浮かび上がる光と静かな水面に包まれて。今夜はランタンの灯りだけが、心安らぐひとときを演出します。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b46948071549d36f22b079c4df00722c/thumbnails/thumbnail.jpg" width="600" alt="Floating Lights and Lantern Glow Video">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5412)**
+
+**作者:** [DuBoseJen](https://x.com/DuBosefire) | **ソース:** [Link](https://x.com/DuBosefire/status/2059854384217923729) | **公開日:** May 28, 2026
+
+---
+### 水面に浮かぶ宇宙の女神
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 肌に星々や銀河が織り込まれた女性が、穏やかな水面の上を漂う様子を描いた、幻想的な動画用プロンプト。
+
+#### 📝 プロンプト
+
+```
+世界の狭間の静寂の中で、彼女は宇宙そのものとなる。すべての星、すべての銀河、そしてすべての夢が彼女の肌に織り込まれている。静かな水面の上に浮かび、彼女はその魂に宇宙を宿している。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0edb857ca4d2fab00700808af6d2ec62/thumbnails/thumbnail.jpg" width="600" alt="水面に浮かぶ宇宙の女神">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5409)**
+
+**作者:** [DuBoseJen](https://x.com/DuBosefire) | **ソース:** [Link](https://x.com/DuBosefire/status/2059850712238923939) | **公開日:** May 28, 2026
+
+---
 ### 音符のクラウドプロンプト
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1894,247 +2128,6 @@ Grok 、この鳥やプテラノドンのようなオブジェクトを立ち上
 **作者:** [NYXEN](https://x.com/NYXEN_77) | **ソース:** [Link](https://x.com/NYXEN_77/status/2056902373235441850) | **公開日:** May 20, 2026
 
 ---
-### タトゥーと現金があるキッチンの風景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 特定の小道具や詳細を含む、キッチンを舞台にした2人の人物が登場するキャラクター主導のシーン描写。
-
-#### 📝 プロンプト
-
-```
-腕と胸にタトゥーを入れた女性がキッチンでポーズをとっており、背景には現金を手にした男性がいる。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/67062d4bd6d2c684971ce06082af7b41/thumbnails/thumbnail.jpg" width="600" alt="タトゥーと現金があるキッチンの風景">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5038)**
-
-**作者:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **ソース:** [Link](https://x.com/maggiejuang1/status/2056884595115675843) | **公開日:** May 19, 2026
-
----
-### 星空を見上げる Ani
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 山頂から遠くの街明かりと星空を眺める Ani の詳細なアニメーション動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-Grok Imagine、美しいアニメスタイル。Ani ちゃん（金髪のポニーテール、緑の瞳、キュートな笑顔）が夜の山頂に立ち、星空を見上げているシーン。遠くには故郷の山々と街の明かりが見える。幻想的で温かい雰囲気。ランドスケープバナー用、1500x500px、シネマティックなライティング、高精細
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cb5859255bf43be88daa4cf42774845a/thumbnails/thumbnail.jpg" width="600" alt="星空を見上げる Ani">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5053)**
-
-**作者:** [Aniの日常](https://x.com/tarohinomo78040) | **ソース:** [Link](https://x.com/tarohinomo78040/status/2056838231485026525) | **公開日:** May 19, 2026
-
----
-### 恐ろしい水生生物の出現
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 恐ろしい水生モンスターが水中から岸へと這い上がる、映画のような動画を生成します。
-
-#### 📝 プロンプト
-
-```
-醜く恐ろしい水生生物が水中から現れ、岸に向かって歩いてくる動画を作成してください
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b1b2f1d4ff7bb3ec6f046635881f8065/thumbnails/thumbnail.jpg" width="600" alt="恐ろしい水生生物の出現">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5043)**
-
-**作者:** [Chris Creus](https://x.com/CCreus23532) | **ソース:** [Link](https://x.com/CCreus23532/status/2056826734209634800) | **公開日:** May 19, 2026
-
----
-### 惑星 X へのスターシップ到着
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 巨大なバトルクルーザーと異星人のパイロットが登場する、遠い惑星を舞台にした複雑な SF シナリオ。
-
-#### 📝 プロンプト
-
-```
-次の冒険、惑星 X
-^*^*:; { トランスワープ 500 トン級メガ X バトルクルーザー スターシップが到着 }
-{ パイロット NI Ticulous Monster Alien Creature が到着 } € わあ
-( ピーナッツを食べている )
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/00c7f0bbb97b1dbefba33d2c06df874b/thumbnails/thumbnail.jpg" width="600" alt="惑星 X へのスターシップ到着">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5037)**
-
-**作者:** [Notzucow](https://x.com/Notzucow69) | **ソース:** [Link](https://x.com/Notzucow69/status/2056823029888327986) | **公開日:** May 19, 2026
-
----
-### 正義の天秤とコーヒー
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 壁に正義の天秤が飾られた部屋で、登場人物がコーヒーカップを持ち上げるシネマティックな動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-@image 1 壁に飾られた正義の天秤。ゆっくりとカップを持ち上げ、コーヒーを一口飲む……
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7d8388fcecc5e3e9a915626802a226dc/thumbnails/thumbnail.jpg" width="600" alt="正義の天秤とコーヒー">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5054)**
-
-**作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **ソース:** [Link](https://x.com/clemensilverio/status/2056755818972733688) | **公開日:** May 19, 2026
-
----
-### コンクリートダム崩壊のシークエンス
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 巨大なコンクリートダムに亀裂が入り、完全に崩壊して洪水が発生する様子を描いた、壮大な空撮ビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-広大な貯水池をせき止める巨大なコンクリートダムの、壮大で超広角な空撮映像から開始します。ダムに亀裂が入って崩壊し、巨大な水の壁が解き放たれ、眼下の谷を飲み込んでいく様子を、ハイアングルからの連続した確立ショットで捉えます。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/32edc94a6fb01816714fa3fb6f11388b/thumbnails/thumbnail.jpg" width="600" alt="コンクリートダム崩壊のシークエンス">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5049)**
-
-**作者:** [Mr Das](https://x.com/MrDasOnX) | **ソース:** [Link](https://x.com/MrDasOnX/status/2056754432550064362) | **公開日:** May 19, 2026
-
----
-### Wall Elves Camera Zoom
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 壁にいる小さな妖精と、顔にフォーカスするダイナミックなカメラズーム動作を記述した動画生成用プロンプトです。
-
-#### 📝 プロンプト
-
-```
-@image1 壁にいる小さな妖精。カメラが彼らの顔に向かってズームアウトおよびズームインする……
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/25f4983bd354dd1a6e570c30e69a3b5a/thumbnails/thumbnail.jpg" width="600" alt="Wall Elves Camera Zoom">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5052)**
-
-**作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **ソース:** [Link](https://x.com/clemensilverio/status/2056741982416822719) | **公開日:** May 19, 2026
-
----
-### 月面で戦う巨大ロボットのパイロット
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 月面でサメ型の怪獣と戦う巨大ロボットのパイロットを描いた、緊張感あふれるシネマティックな SF プロンプト。
-
-#### 📝 プロンプト
-
-```
-この写真の人物は巨大ロボットの操縦士であり、その表情がはっきりと見えるようにしてください。舞台は月面で、彼が操縦する巨大ロボットが巨大な剣を振るい、サメ型の怪獣を攻撃しています。この巨大ロボットには多数の武器が装備されています。動画は SF 超大作のような演出にし、ダイナミックで緊張感のあるカット構成にしてください。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/febb1715d40418db17bfead6bc309c68/thumbnails/thumbnail.jpg" width="600" alt="月面で戦う巨大ロボットのパイロット">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5051)**
-
-**作者:** [JeffLiuRoast](https://x.com/liu17251086) | **ソース:** [Link](https://x.com/liu17251086/status/2056739707284078651) | **公開日:** May 19, 2026
-
----
-### 冬の女神の旅路
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 北極からホワイトハウスまで歩く女性をフィーチャーし、特定のテキストオーバーレイを表示するナラティブビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-「winter is coming 11.3.26」というビデオキャプションを作成し、女神のような女性が北極から大陸を横断してホワイトハウスの正面玄関まで歩いていく様子を表現してもらえますか？！
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/376b138ccc5277df88307f1c0f54ba88/thumbnails/thumbnail.jpg" width="600" alt="冬の女神の旅路">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5045)**
-
-**作者:** [LibbyAnn C](https://x.com/MarineLibby) | **ソース:** [Link](https://x.com/MarineLibby/status/2056720240550043937) | **公開日:** May 19, 2026
-
----
-### 近未来的なアーマーを纏ったヒロイン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 複雑なメカニカルディテールとエネルギーエフェクトを施した、近未来的な光るアーマーを着用したアスリート体型の女性を描く、非常に詳細な 3D アニメーション。
-
-#### 📝 プロンプト
-
-```
-メタリックシルバー、ダークグレー、ブラックの配色で、光り輝く鮮やかなブルーのエネルギーアクセントが特徴的な、洗練された体にフィットする近未来的な戦闘用アーマースーツを着用した、美しいアスリート体型の女性を描く、非常に詳細なシネマティック 3D アニメーション。スーツには、ダークバイザー付きのハイテクヘルメット、ショルダーパッド、青く光るノードを備えたチェストプレート、メカニカルなガントレット、レッグアーマーが装備されている。彼女は、金属製の梁や黄色い手すり、ドラマチックな頭上の照明がある広大な工業用倉庫の中に堂々と立っている。
-
-動作シーケンス：
-- カメラに向かって力強いポーズで立ち、胸と肩の青いライトが脈動する様子から始まる。
-- ゆっくりと横を向き、アーマーの背面とサイドプロファイルを見せる。
-- 腕と胴体の複雑なメカニカルディテールにクローズアップし、ガントレットと関節の周囲で明るい青色のエネルギーの火花と電気アークが弾ける。
-- 正面に戻り、両腕をドラマチックに上げると、スーツ全体に青いエネルギーラインが広がる。
-- いくつかの力強く英雄的なポーズをとる：腰に手を当てる、胸の前で腕を組む、そしてエネルギーエフェクトと共に両腕を大きく広げる。
-- 最後のポーズ：堂々と立ち、わずかに首を傾げてカメラを真っ直ぐに見つめる。
-
-カメラワーク：スムーズなシネマティックアングル。全身ショット、ミディアムショット、そして彼女の動きを追うダイナミックなクローズアップを組み合わせる。エネルギーの爆発には繊細なスローモーションを使用。ボリュメトリックライティング、光沢のある金属反射、レンズフレア、ハイエンドな 3D レンダリング、超リアルなテクスチャ、8K 品質、ドラマチックな SF の雰囲気、Meta AI スタイル。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a9214cc9303f36ccabb45603359d07ef/thumbnails/thumbnail.jpg" width="600" alt="近未来的なアーマーを纏ったヒロイン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5042)**
-
-**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **ソース:** [Link](https://x.com/ThoughCreator/status/2056692494964818053) | **公開日:** May 19, 2026
-
----
-### 分割画面での食事シーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 2 人のキャラクターがバナナとチョコレートを食べ、牛乳を飲んでいる詳細なシーン説明。
-
-#### 📝 プロンプト
-
-```
-左側のキャラクターが黄色いバナナを食べており、右側のキャラクターがチョコレートを食べています。両者とも手に牛乳のグラスを持っています。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/30ca742cc79eebdd8184f3a1f5fd6c06/thumbnails/thumbnail.jpg" width="600" alt="分割画面での食事シーン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5046)**
-
-**作者:** [Sovannara 🚚🛣️🚚](https://x.com/Udom_Barca) | **ソース:** [Link](https://x.com/Udom_Barca/status/2056668115233370326) | **公開日:** May 19, 2026
-
----
-### ヨガの前屈動作
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 床に向かって体を前方に倒す、流れるようなヨガのシークエンスのための記述的プロンプト。
-
-#### 📝 プロンプト
-
-```
-膝を開いてヨガを行い、両手を体の前に置きます。体が床に触れるまで順番に前へ倒していき、腕をまっすぐ前に伸ばし、顔はカメラの方を向いてください。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06ac5aef587e6dd94f4661b08f774896/thumbnails/thumbnail.jpg" width="600" alt="ヨガの前屈動作">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5036)**
-
-**作者:** [Sovannara 🚚🛣️🚚](https://x.com/Udom_Barca) | **ソース:** [Link](https://x.com/Udom_Barca/status/2056658419202048282) | **公開日:** May 19, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2196,6 +2189,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-05-29T04:25:53.161Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-05-29T11:48:09.595Z</sub>
 
 </div>

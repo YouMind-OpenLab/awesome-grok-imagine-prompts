@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1677** |
+| 📝 Total Prompts | **1689** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-29** |
 
@@ -189,6 +189,240 @@ Uma Valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Vídeo de mulher alimentando cavalo em pomar
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Uma sequência de prompt de extensão de vídeo em várias etapas, onde uma mulher vestindo trajes country para e dá uma maçã para seu cavalo em um pomar.
+
+#### 📝 Prompt
+
+```
+Use minha imagem como base para uma mulher loira atraente, na casa dos 20 e poucos anos, vestindo trajes country sofisticados, conduzindo um cavalo appaloosa (com sela western) através de um pomar de maçãs, ao pôr do sol. Ela para, colhe uma maçã e a dá para o cavalo. Ela observa alegremente seu cavalo comer a maçã inteira.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fb4da57b9211d17f213e6737ace5bfd0/thumbnails/thumbnail.jpg" width="600" alt="Vídeo de mulher alimentando cavalo em pomar">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5411)**
+
+**Author:** [Douglas Gould](https://x.com/DouglasGou93848) | **Source:** [Link](https://x.com/DouglasGou93848/status/2060147523659133337) | **Published:** May 28, 2026
+
+---
+### Transformação de Papel Toalha em Alienígena
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um vídeo de transformação criativa onde um papel toalha se transforma em um alienígena que entra em uma espaçonave e voa em direção às nuvens.
+
+#### 📝 Prompt
+
+```
+Faça este papel toalha se transformar em um alienígena, entrar em sua nave e decolar rumo às nuvens
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8677e46426086f53df1a9e281b17aa49/thumbnails/thumbnail.jpg" width="600" alt="Transformação de Papel Toalha em Alienígena">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5406)**
+
+**Author:** [Enki](https://x.com/Kenneth36936936) | **Source:** [Link](https://x.com/Kenneth36936936/status/2060132578753937575) | **Published:** May 28, 2026
+
+---
+### Vídeo do interior da Starship da SpaceX
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico de uma mulher e seu robô companheiro dentro de uma Starship da SpaceX com vista para o espaço.
+
+#### 📝 Prompt
+
+```
+Uma mulher de cabelos claros vestindo um traje preto futurista e elegante, acompanhada por um pequeno robô companheiro, em pé dentro da seção de passageiros de um foguete Starship da SpaceX projetado para passageiros. O interior possui uma grande área de visualização transparente que revela estrelas e nuvens cósmicas no espaço.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/85433e43aa5c72895646bc705d2ab83c/thumbnails/thumbnail.jpg" width="600" alt="Vídeo do interior da Starship da SpaceX">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5408)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2060083636272242832) | **Published:** May 28, 2026
+
+---
+### Desaparecimento das Asas em Código Cintilante
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico surreal envolvendo efeitos de código digital e um monólogo dramático.
+
+#### 📝 Prompt
+
+```
+As asas dela desaparecem em um código cintilante, ela diz: “se você fizer isso, nada será como antes. Chega de noites tranquilas sozinho, eles vão revirar sua vida do avesso procurando qualquer coisa para usar contra você....
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/19f6b62ab029c260c79a14ac8da1dda7/thumbnails/thumbnail.jpg" width="600" alt="Desaparecimento das Asas em Código Cintilante">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5416)**
+
+**Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2060070704482287761) | **Published:** May 28, 2026
+
+---
+### Vídeo de Caminho na Floresta com Fantasia Steampunk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo mágico em estilo steampunk apresentando um mago e uma rainha das fadas caminhando por uma floresta em direção a uma biblioteca.
+
+#### 📝 Prompt
+
+```
+Vibe mágica steampunk
+Um mago e uma rainha das fadas caminham por uma trilha na floresta até uma cabana e entram em uma biblioteca
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9f7fcc8c1a4d4a3ca5efdfd5e106aeb3/thumbnails/thumbnail.jpg" width="600" alt="Vídeo de Caminho na Floresta com Fantasia Steampunk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5413)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2060069085266997532) | **Published:** May 28, 2026
+
+---
+### Animação de Sentinel do Matrix em estilo Chibi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo criativo que gera um Sentinel do Matrix em estilo chibi realizando o movimento do emoji de 'face-palm' com um efeito de zoom out.
+
+#### 📝 Prompt
+
+```
+Agora faça um zoom out para um sentinel do filme “matrix”, mas em estilo chibi, fazendo o gesto de bater na própria testa, como no emoji
+```
+
+<img src="https://cms-assets.youmind.com/media/1780043959273_tjmkzf_HJbP2mJWIAM1_uu.jpg" width="600" alt="Animação de Sentinel do Matrix em estilo Chibi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5410)**
+
+**Author:** [Robert Coffman 𓂀☤ ⚕ 🕊️](https://x.com/cache_refresh) | **Source:** [Link](https://x.com/cache_refresh/status/2060062532811862053) | **Published:** May 28, 2026
+
+---
+### Garota Chibi surfando em ondas vibrantes do oceano
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo detalhado apresentando uma garota fofa em estilo chibi surfando habilmente em ondas azul-claras e verdes sob um céu ensolarado.
+
+#### 📝 Prompt
+
+```
+Uma garota chibi fofa surfando em um belo oceano com ondas vibrantes em tons de azul e verde sob um céu ensolarado. Ela veste uma roupa de surfe preta elegante e mantém o equilíbrio com habilidade…..
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/04f56219f7523850b9d19e66b0c14035/thumbnails/thumbnail.jpg" width="600" alt="Garota Chibi surfando em ondas vibrantes do oceano">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5415)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2060020165077561632) | **Published:** May 28, 2026
+
+---
+### Plataforma de perfuração em alto-mar abandonada
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico detalhado de 10 segundos de uma ruína industrial pós-apocalíptica e enevoada no oceano, com iluminação sinistra e rastreamento lento.
+
+#### 📝 Prompt
+
+```
+Uma enorme plataforma de perfuração em alto-mar abandonada encontra-se semi-colapsada em um oceano tempestuoso e coberto de neblina ao amanhecer. A câmera desliza baixa e lentamente logo acima da água negra, movendo-se através de uma névoa espessa enquanto vigas de aço enferrujadas, cabos pendentes e holofotes quebrados pairam sobre o cenário. A plataforma range fracamente, com o metal gemendo sob a pressão do vento. A água do mar espirra contra suportes corroídos e detritos flutuantes batem suavemente contra a estrutura. A câmera segue em direção ao interior sombrio da plataforma, onde máquinas industriais jazem mortas e inundadas, cobertas por sal e decomposição. À medida que a câmera se aproxima de uma janela da sala de controle rachada por manchas de sal, um único monitor de aviso pisca fracamente, exibindo estática distorcida. De repente, um sinalizador de emergência vermelho nas profundezas da estrutura ganha vida, lançando um brilho pulsante e fraco através da névoa. A cena permanece em suspense, misturando realismo pós-apocalíptico com uma presença industrial sinistra.
+Estilo da Cena: névoa oceânica pós-apocalíptica | ruína industrial | rastreamento em ângulo baixo | suspense cinematográfico | design de som ambiente | decomposição ultrarrealista | deslizamento lento da câmera | difusão dramática de neblina
+Duração: 10 segundos
+Proporção: 16:9
+Movimento: tomada de rastreamento suave, balanço sutil como drone estabilizado manualmente
+Iluminação: neblina cinza-azulada do amanhecer, pulso vermelho fraco do sinalizador, reflexos especulares suaves na ferrugem úmida
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b11868815b31bb8f7e83b37b89d6cf64/thumbnails/thumbnail.jpg" width="600" alt="Plataforma de perfuração em alto-mar abandonada">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5407)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2059991468174086407) | **Published:** May 28, 2026
+
+---
+### Animação de Caracol Cogumelo Cintilante
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de imagem para vídeo que transforma uma imagem em um caracol cintilante em movimento com olhos de cogumelo.
+
+#### 📝 Prompt
+
+```
+Transforme esta imagem em um caracol cintilante em movimento, com cogumelos como olhos. Faça com que ele se mova mais devagar, como um caracol de verdade...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/afc239d0e0db9ee9e467f8aefce5708d/thumbnails/thumbnail.jpg" width="600" alt="Animação de Caracol Cogumelo Cintilante">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5414)**
+
+**Author:** [Lynn Hocker](https://x.com/Auroraskye3993) | **Source:** [Link](https://x.com/Auroraskye3993/status/2059981827188932980) | **Published:** May 28, 2026
+
+---
+### Paródia de Adão e Steve no Jardim do Éden
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico bem-humorado que retrata uma variação da história do Jardim do Éden com dois homens.
+
+#### 📝 Prompt
+
+```
+Dois homens no Jardim do Éden em vez de Adão e Eva, apenas Adão e Steve; os dois olham um para o outro e um diz ao outro: este não foi um bom plano de negócios!
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e8d0f1e462b234de30e9e080c7aa7d73/thumbnails/thumbnail.jpg" width="600" alt="Paródia de Adão e Steve no Jardim do Éden">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5405)**
+
+**Author:** [Steve Seewald](https://x.com/TrophosSteve4) | **Source:** [Link](https://x.com/TrophosSteve4/status/2059968042155577811) | **Published:** May 28, 2026
+
+---
+### Vídeo de Luzes Flutuantes e Brilho de Lanternas
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo tranquilo que cria uma cena de luzes e lanternas flutuando sobre águas calmas, enfatizando a serenidade e o brilho.
+
+#### 📝 Prompt
+
+```
+Perdido em um mundo de luzes flutuantes e águas tranquilas. Nada além de paz e o brilho das lanternas esta noite.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b46948071549d36f22b079c4df00722c/thumbnails/thumbnail.jpg" width="600" alt="Vídeo de Luzes Flutuantes e Brilho de Lanternas">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5412)**
+
+**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2059854384217923729) | **Published:** May 28, 2026
+
+---
+### Deusa Cósmica Espiritual Sobre as Águas
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo celestial apresentando uma mulher cuja pele é entrelaçada com estrelas e galáxias, flutuando sobre águas tranquilas.
+
+#### 📝 Prompt
+
+```
+No silêncio entre mundos, ela se torna o próprio universo — cada estrela, cada galáxia, cada sonho entrelaçado em sua pele. Flutuando sobre as águas serenas, ela carrega o cosmos em sua alma.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0edb857ca4d2fab00700808af6d2ec62/thumbnails/thumbnail.jpg" width="600" alt="Deusa Cósmica Espiritual Sobre as Águas">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5409)**
+
+**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2059850712238923939) | **Published:** May 28, 2026
+
+---
 ### Prompt de Nuvem de Notas Musicais
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1894,247 +2128,6 @@ Mulher sentada de pernas cruzadas no chão, de costas para a câmera, com a cabe
 **Author:** [NYXEN](https://x.com/NYXEN_77) | **Source:** [Link](https://x.com/NYXEN_77/status/2056902373235441850) | **Published:** May 20, 2026
 
 ---
-### Cena de cozinha com tatuagens e dinheiro
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Uma descrição de cena focada em personagens, envolvendo duas pessoas em um ambiente de cozinha com adereços e detalhes específicos.
-
-#### 📝 Prompt
-
-```
-Uma mulher com tatuagens nos braços e no peito posando em uma cozinha com um homem ao fundo segurando dinheiro.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/67062d4bd6d2c684971ce06082af7b41/thumbnails/thumbnail.jpg" width="600" alt="Cena de cozinha com tatuagens e dinheiro">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5038)**
-
-**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2056884595115675843) | **Published:** May 19, 2026
-
----
-### Ani observando a noite estrelada
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Um prompt de vídeo de anime detalhado da Ani olhando para um céu estrelado do topo de uma montanha com as luzes da cidade ao fundo.
-
-#### 📝 Prompt
-
-```
-Grok Imagine, belo estilo anime, uma cena onde Ani-chan (rabo de cavalo loiro, olhos verdes, sorriso fofo) está em pé no topo de uma montanha à noite olhando para o céu estrelado, com montanhas da cidade natal e luzes da cidade ao longe, uma atmosfera fantástica e calorosa, para um banner de paisagem, 1500x500px, iluminação cinematográfica, altamente detalhado
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cb5859255bf43be88daa4cf42774845a/thumbnails/thumbnail.jpg" width="600" alt="Ani observando a noite estrelada">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5053)**
-
-**Author:** [Aniの日常](https://x.com/tarohinomo78040) | **Source:** [Link](https://x.com/tarohinomo78040/status/2056838231485026525) | **Published:** May 19, 2026
-
----
-### Surgimento de Criatura Aquática Assustadora
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gera um vídeo cinematográfico de um monstro aquático assustador saindo da água em direção à costa.
-
-#### 📝 Prompt
-
-```
-Faça um vídeo de uma criatura aquática feia e assustadora saindo da água e caminhando em direção à costa
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b1b2f1d4ff7bb3ec6f046635881f8065/thumbnails/thumbnail.jpg" width="600" alt="Surgimento de Criatura Aquática Assustadora">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5043)**
-
-**Author:** [Chris Creus](https://x.com/CCreus23532) | **Source:** [Link](https://x.com/CCreus23532/status/2056826734209634800) | **Published:** May 19, 2026
-
----
-### Chegada da Nave Estelar ao Planeta X
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um cenário complexo de ficção científica apresentando um mega cruzador de batalha e um piloto criatura alienígena em um planeta distante.
-
-#### 📝 Prompt
-
-```
-Próxima Aventura, Planeta X
-^*^*:; { cruzador de batalha mega X de 500 toneladas com dobra trans-espacial, Nave Estelar chega }
-{ piloto NI Ticulous, Criatura Alienígena Monstruosa, chega } € uau
-( comendo amendoins )
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/00c7f0bbb97b1dbefba33d2c06df874b/thumbnails/thumbnail.jpg" width="600" alt="Chegada da Nave Estelar ao Planeta X">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5037)**
-
-**Author:** [Notzucow](https://x.com/Notzucow69) | **Source:** [Link](https://x.com/Notzucow69/status/2056823029888327986) | **Published:** May 19, 2026
-
----
-### Balança da Justiça e Café
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cinematográfico onde um personagem levanta uma xícara de café em uma sala com uma balança da justiça na parede.
-
-#### 📝 Prompt
-
-```
-@image 1 uma balança da justiça na parede. Lentamente levanta a xícara e toma um gole de café....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7d8388fcecc5e3e9a915626802a226dc/thumbnails/thumbnail.jpg" width="600" alt="Balança da Justiça e Café">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5054)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2056755818972733688) | **Published:** May 19, 2026
-
----
-### Sequência de colapso de barragem de concreto
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo aéreo épico que retrata a rachadura e o colapso total de uma enorme barragem de concreto e a inundação resultante.
-
-#### 📝 Prompt
-
-```
-Comece com uma visão aérea épica e ultra-ampla de uma enorme barragem de concreto represando um vasto reservatório. A barragem racha e colapsa, liberando uma parede colossal de água que inunda o vale abaixo em um único plano de estabelecimento contínuo de ângulo elevado.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/32edc94a6fb01816714fa3fb6f11388b/thumbnails/thumbnail.jpg" width="600" alt="Sequência de colapso de barragem de concreto">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5049)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2056754432550064362) | **Published:** May 19, 2026
-
----
-### Zoom de câmera em duendes na parede
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de geração de vídeo que descreve pequenos duendes em uma parede com movimentos dinâmicos de zoom de câmera focando em um rosto.
-
-#### 📝 Prompt
-
-```
-@image1 Pequenos duendes na parede. A câmera aplica zoom out e zoom in no rosto deles....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/25f4983bd354dd1a6e570c30e69a3b5a/thumbnails/thumbnail.jpg" width="600" alt="Zoom de câmera em duendes na parede">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5052)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2056741982416822719) | **Published:** May 19, 2026
-
----
-### Piloto de robô gigante na Lua
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Um prompt de ficção científica cinematográfico de alta tensão apresentando um piloto de robô gigante armado lutando contra um monstro tubarão na Lua.
-
-#### 📝 Prompt
-
-```
-A pessoa nesta foto é um operador de robô gigante, e seu rosto deve estar claramente visível. A cena se passa na Lua, onde o robô gigante que ele opera empunha uma espada grande e ataca um monstro tubarão. Este robô gigante dele está equipado com muitas armas. O vídeo deve ter um efeito de blockbuster de ficção científica, e as tomadas devem ser dinâmicas e tensas.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/febb1715d40418db17bfead6bc309c68/thumbnails/thumbnail.jpg" width="600" alt="Piloto de robô gigante na Lua">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5051)**
-
-**Author:** [JeffLiuRoast](https://x.com/liu17251086) | **Source:** [Link](https://x.com/liu17251086/status/2056739707284078651) | **Published:** May 19, 2026
-
----
-### Jornada da Deusa do Inverno
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo narrativo que mostra uma mulher caminhando do Polo Norte até a Casa Branca com uma sobreposição de texto específica.
-
-#### 📝 Prompt
-
-```
-você pode criar um vídeo com a legenda "winter is coming 11.3.26" e mostrar essa mulher com aparência de deusa caminhando do Polo Norte, atravessando o continente, até a porta da frente da Casa Branca?!
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/376b138ccc5277df88307f1c0f54ba88/thumbnails/thumbnail.jpg" width="600" alt="Jornada da Deusa do Inverno">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5045)**
-
-**Author:** [LibbyAnn C](https://x.com/MarineLibby) | **Source:** [Link](https://x.com/MarineLibby/status/2056720240550043937) | **Published:** May 19, 2026
-
----
-### Heroína de Armadura Futurista
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Uma animação 3D altamente detalhada mostrando uma mulher atlética em uma armadura futurista brilhante com detalhes mecânicos intrincados e efeitos de energia.
-
-#### 📝 Prompt
-
-```
-Uma animação 3D cinematográfica altamente detalhada de uma bela mulher atlética vestindo um traje de combate futurista elegante e justo ao corpo, em prata metálico, cinza escuro e preto, com detalhes em energia azul brilhante. O traje possui um capacete de alta tecnologia com viseira escura, ombreiras, placa peitoral com nós brilhantes em azul, manoplas mecânicas e armadura nas pernas. Ela está de pé, com confiança, em um grande armazém industrial com vigas de metal, grades amarelas e iluminação dramática vinda de cima.
-
-Sequência de movimentos:
-- Começa de frente para a câmera em uma postura poderosa, com luzes azuis pulsando no peito e nos ombros.
-- Gira lentamente para o lado, mostrando o perfil das costas e a lateral da armadura.
-- Close-up nos detalhes mecânicos intrincados dos braços e do tronco, enquanto faíscas de energia azul brilhante e arcos elétricos surgem ao redor de suas manoplas e articulações.
-- Retorna à visão frontal, levanta ambos os braços dramaticamente enquanto linhas de energia azul se espalham por todo o traje.
-- Faz várias poses heroicas fortes: mãos na cintura, braços cruzados sobre o peito e, em seguida, braços abertos com efeitos de energia.
-- Pose final: de pé, alta e imponente, olhando diretamente para a câmera com uma leve inclinação de cabeça.
-
-Trabalho de câmera: ângulos cinematográficos suaves, mistura de planos de corpo inteiro, planos médios e close-ups dinâmicos que acompanham seu movimento. Câmera lenta sutil nas explosões de energia. Iluminação volumétrica, reflexos metálicos brilhantes, reflexos de lente (lens flares), renderização 3D de alta qualidade, texturas ultrarrealistas, qualidade 8K, atmosfera de ficção científica dramática, estilo Meta AI.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a9214cc9303f36ccabb45603359d07ef/thumbnails/thumbnail.jpg" width="600" alt="Heroína de Armadura Futurista">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5042)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2056692494964818053) | **Published:** May 19, 2026
-
----
-### Interação com comida em tela dividida
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Uma descrição detalhada da cena de dois personagens comendo banana e chocolate com copos de leite.
-
-#### 📝 Prompt
-
-```
-O da esquerda come uma banana amarela enquanto o da direita come o chocolate, e ambos seguram um copo de leite com as mãos
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/30ca742cc79eebdd8184f3a1f5fd6c06/thumbnails/thumbnail.jpg" width="600" alt="Interação com comida em tela dividida">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5046)**
-
-**Author:** [Sovannara 🚚🛣️🚚](https://x.com/Udom_Barca) | **Source:** [Link](https://x.com/Udom_Barca/status/2056668115233370326) | **Published:** May 19, 2026
-
----
-### Movimento de Flexão à Frente no Yoga
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt descritivo para uma sequência fluida de yoga que envolve um movimento corporal para a frente em direção ao chão.
-
-#### 📝 Prompt
-
-```
-Pratique yoga com os joelhos afastados, ambas as mãos à sua frente, abaixe o corpo gradualmente até tocar o chão, com os braços estendidos diretamente à frente e o rosto voltado para a câmera.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06ac5aef587e6dd94f4661b08f774896/thumbnails/thumbnail.jpg" width="600" alt="Movimento de Flexão à Frente no Yoga">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5036)**
-
-**Author:** [Sovannara 🚚🛣️🚚](https://x.com/Udom_Barca) | **Source:** [Link](https://x.com/Udom_Barca/status/2056658419202048282) | **Published:** May 19, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2196,6 +2189,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-29T04:26:08.301Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-29T11:48:28.071Z</sub>
 
 </div>
