@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **1689** |
+| 📝 提示词总数 | **1696** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-05-30** |
 
@@ -189,6 +189,140 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 金属遗物彩虹能量
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个描述性提示词，用于创作一个通过宇宙漩涡释放彩虹能量的金属遗物。
+
+#### 📝 提示词
+
+```
+一个光滑的金属遗物裂开，释放出流动的彩虹能量之河，在宇宙漩涡中盘旋。从静止到纯粹的运动。这是超现实主义转化的极致体现。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3eae5df29267be22b3a70ca8eb2d9485/thumbnails/thumbnail.jpg" width="600" alt="金属遗物彩虹能量">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5476)**
+
+**作者:** [James King](https://x.com/JamesKi97287119) | **来源:** [Link](https://x.com/JamesKi97287119/status/2060523955748827371) | **发布时间:** May 30, 2026
+
+---
+### 宇宙能量仪式遗迹
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个超现实场景的提示词，描绘了一座发光的桥梁，通过漂浮的古代遗物和遗迹传导能量。
+
+#### 📝 提示词
+
+```
+一座超现实的发光桥梁通过漂浮的遗物和古代遗迹传导原始能量，伴随着闪电的轰击和金色螺旋的觉醒。纯粹的超现实超脱感。实验性怪诞风格的巅峰之作。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7d085bdb4682b7e3a44dc8890d04364a/thumbnails/thumbnail.jpg" width="600" alt="宇宙能量仪式遗迹">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5477)**
+
+**作者:** [James King](https://x.com/JamesKi97287119) | **来源:** [Link](https://x.com/JamesKi97287119/status/2060516623694352611) | **发布时间:** May 30, 2026
+
+---
+### 迷幻超现实宇宙崩塌
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个关于强烈迷幻场景的提示词，包含融化的时钟、滴落的蜂蜜以及爆炸成光芒的外星蘑菇。
+
+#### 📝 提示词
+
+```
+融化的时钟、漂浮的手掌、滴落的蜂蜜和外星蘑菇生物在宇宙漩涡中穿行……直到一切爆炸成纯粹的光芒。极致怪诞，极致酷炫。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d52ce38635e8ddb7671a77fd3aafc7f3/thumbnails/thumbnail.jpg" width="600" alt="迷幻超现实宇宙崩塌">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5478)**
+
+**作者:** [James King](https://x.com/JamesKi97287119) | **来源:** [Link](https://x.com/JamesKi97287119/status/2060514167744819488) | **发布时间:** May 30, 2026
+
+---
+### 超现实熔金雕塑
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于生成珠宝雕塑的超现实提示词，描绘了雕塑在沙漠中苏醒，并伴随着星云中融化的时钟喷涌出熔金的场景。
+
+#### 📝 提示词
+
+```
+超现实珠宝雕塑在梦幻般的沙漠中苏醒，随着融化的时钟在旋转的星云中漂浮，喷涌出熔金。纯粹的超现实混乱与美感。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/001d76ad71b3547c9565e0c9c8937870/thumbnails/thumbnail.jpg" width="600" alt="超现实熔金雕塑">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5475)**
+
+**作者:** [James King](https://x.com/JamesKi97287119) | **来源:** [Link](https://x.com/JamesKi97287119/status/2060510856371200209) | **发布时间:** May 29, 2026
+
+---
+### 超现实散养树木视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个超现实的视频提示词，展示树木在田野里像鸡一样活动的场景。
+
+#### 📝 提示词
+
+```
+制作一段视频，画面中散养的树木像散养鸡一样在田野里觅食，但它们依然是树木
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0150348d25d7eabb77d43d2ec9e6f179/thumbnails/thumbnail.jpg" width="600" alt="超现实散养树木视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5473)**
+
+**作者:** [Natertottzz.eth](https://x.com/Natertottzz) | **来源:** [Link](https://x.com/Natertottzz/status/2060458264131703233) | **发布时间:** May 29, 2026
+
+---
+### 金银花柔和梦幻光影
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段宁静的视频提示词，展现了在柔和的梦幻光影中轻轻摇曳的金银花，伴随着飘落的花瓣。
+
+#### 📝 提示词
+
+```
+柔和的金银花在梦幻光影中轻盈摇曳……这是一个静谧的瞬间，花瓣随风飘落，温柔的梦境悄然绽放。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/213b1edc60b83e250bf43d7411a32876/thumbnails/thumbnail.jpg" width="600" alt="金银花柔和梦幻光影">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5474)**
+
+**作者:** [Stella 𝕏](https://x.com/StellaGrokStar) | **来源:** [Link](https://x.com/StellaGrokStar/status/2060324137583931885) | **发布时间:** May 29, 2026
+
+---
+### 外星生物保护 Starship 免受哥斯拉攻击
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个复杂的动作提示词，描绘了一只外星怪物保护飞船免受巨型哥斯拉侵害的场景。
+
+#### 📝 提示词
+
+```
+精细的外星怪物生物保护 Starship 免受巨型哥斯拉攻击
+:} 360 € *^\ £ę ( 哥斯拉哀鸣倒下 )
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c9ec622fbd7b3348c40d18d337685c7e/thumbnails/thumbnail.jpg" width="600" alt="外星生物保护 Starship 免受哥斯拉攻击">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5472)**
+
+**作者:** [Notzucow](https://x.com/Notzucow69) | **来源:** [Link](https://x.com/Notzucow69/status/2060171388430729222) | **发布时间:** May 29, 2026
+
+---
 ### 女子在果园喂马视频
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1981,153 +2115,6 @@ solid body slowly blurs and dissolves as if fading at the speed of light, reveal
 **作者:** [Carina](https://x.com/Freehere3) | **来源:** [Link](https://x.com/Freehere3/status/2057096040642465953) | **发布时间:** May 20, 2026
 
 ---
-### 纹身女子与厨房浪漫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个有趣的视频提示词，展示了一位纹身女子和一名男子在厨房中，周围环绕着漂浮的浪漫爱心。
-
-#### 📝 提示词
-
-```
-一位身穿绿色上衣的纹身女子和一名男子在厨房里，周围有金钱和漂浮的爱心，营造出一种充满爱意的有趣氛围。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4bfed87a5bec1711f7798c8d56fb0671/thumbnails/thumbnail.jpg" width="600" alt="纹身女子与厨房浪漫">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5078)**
-
-**作者:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **来源:** [Link](https://x.com/maggiejuang1/status/2057094935711461648) | **发布时间:** May 20, 2026
-
----
-### 赛博朋克装甲变形
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个专业级的 6 秒视频电影感提示词，展示了在雨中赛博朋克城市里复杂的装甲变形过程。
-
-#### 📝 提示词
-
-```
-电影级 8K 超写实真人视频，6 秒，照片级真实感，使用 ARRI Alexa 65 搭配变形镜头拍摄，细腻的胶片颗粒感，电影级调色。
-
-主体：与参考图中完全一致的绝美年轻女性——精致的五官，迷人的蓝色双眼，无瑕的肌肤上带有柔和的赛博光泽，蓬松飘逸的蓝银色长发伴随着闪烁的粒子。她身着超先进、顶级的变形金刚风格赛博朋克装甲裙：一件贴身的半透明高科技乳胶与晶体混合套装，将她原有的发光水晶美学与光滑的哑光黑及铬合金赛博机械装甲无缝融合，带有发光的霓虹蓝电路、脉动的洋红色能量脉络以及不断重构的机械组件。复杂的全息水晶和漂浮的数据碎片环绕在她的身体周围。套装具有细腻的机械变形细节——装甲板在蓝色等离子弧中咔哒作响、展开并重新配置。
-
-场景：黑暗、多雨的赛博朋克超级都市之夜。高耸的霓虹摩天大楼、飞行载具、巨大的全息广告牌、湿润且带有倒影的街道。浓重的体积雨，大气雾气，穿透薄雾的耶稣光，充满活力的青色、洋红色和电蓝色灯光。
-
-摄像机运动与动作（6 秒）：
-- 0-2 秒：极具戏剧性的低角度环绕特写，她强有力地站立着，头发在风中剧烈飘动。她的赛博装甲开始变形——晶体装甲板平滑地转换为带有发光能量的机械变形金刚组件。
-- 2-4 秒：她缓慢抬起双手；全息蓝色能量接口和半透明能量翅膀从她背后短暂显现。雨滴在发光的套装上发出嘶嘶声并蒸发。
-- 4-6 秒：史诗般的缓慢拉远镜头，展现她悬浮在湿润街道上方的完整强大剪影，戏剧性的镜头光晕，头发和装甲元素伴随着电影级的运动模糊。
-
-超写实细节，完美的人体结构，真实的织物与金属物理效果，反光的湿润表面，复杂的粒子特效，景深，情绪化的电影灯光。大师级视觉特效，顶级变形金刚风格的变形序列，黑暗的赛博朋克氛围，高度细节化，充满情感与力量的氛围。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5b9e627bc8e55dbddca444f262920337/thumbnails/thumbnail.jpg" width="600" alt="赛博朋克装甲变形">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5084)**
-
-**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **来源:** [Link](https://x.com/ThoughCreator/status/2057088402445459694) | **发布时间:** May 20, 2026
-
----
-### 赛博战士之弓
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个使用复杂符号的风格化提示词，用于描述一位身穿紫色钻石盔甲、手持激光弓的角色。
-
-#### 📝 提示词
-
-```
-< 黑色蓬松金发 >紫色纹路 >
-¥ { 紫色反光钻石盔甲 }
-( 激光切割铍合金弓，发射发光箭矢 )
-^{ * { 眼睛是美丽的蓝绿色 } ( 凝视 )
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/52e559488c2320f468643178ad268316/thumbnails/thumbnail.jpg" width="600" alt="赛博战士之弓">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5085)**
-
-**作者:** [Notzucow](https://x.com/Notzucow69) | **来源:** [Link](https://x.com/Notzucow69/status/2057004072746500293) | **发布时间:** May 20, 2026
-
----
-### 空灵美人鱼水下场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段关于美人鱼被气泡环绕的电影级视频的详细描述性提示词，展示了多种情绪表达。
-
-#### 📝 提示词
-
-```
-看着这条美人鱼，她散发着自豪的光芒。气泡在她周围漂浮，增添了一抹俏皮感。她歪着头，陷入沉思，随后神情变得专注。她坐着，双手合十，若有所思。她轻轻地送出一个飞吻。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/15e5693afd05597fb5ecf976e8eda7da/thumbnails/thumbnail.jpg" width="600" alt="空灵美人鱼水下场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5050)**
-
-**作者:** [BizPunk72](https://x.com/bixxs) | **来源:** [Link](https://x.com/bixxs/status/2056948566933782740) | **发布时间:** May 20, 2026
-
----
-### Starlink 卫星激光束
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个概念性提示词，描绘了 Starlink 卫星向墙壁发射激光束，并结合了角色的对话。
-
-#### 📝 提示词
-
-```
-@image1 在墙上，Starlink 卫星正在发射激光束。她说：“这些头条新闻是怎么被允许发布的？……” @imagine @grok 恼火的缺失成分。🔥🫶☕️💫
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f383250202d5781d1c9a9787a907ac16/thumbnails/thumbnail.jpg" width="600" alt="Starlink 卫星激光束">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5080)**
-
-**作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **来源:** [Link](https://x.com/clemensilverio/status/2056937301347901503) | **发布时间:** May 20, 2026
-
----
-### 翼龙飞行动画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 关于如何将翼龙状物体制作成向远处飞行的动画指令。
-
-#### 📝 提示词
-
-```
-Grok，看到那个类似翼龙的物体了吗？你能让它起飞并向远处飞去吗？
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e074c6f0245c38b8830e95923e9a8d9f/thumbnails/thumbnail.jpg" width="600" alt="翼龙飞行动画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5086)**
-
-**作者:** [(PRESS)Scotty Fife (aka) NevNukeMonster](https://x.com/fife_scotty680) | **来源:** [Link](https://x.com/fife_scotty680/status/2056905441091977384) | **发布时间:** May 20, 2026
-
----
-### 哥特式豪宅背部纹身
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个充满电影质感与暗黑美学的提示词，描述了一位身处 90 年代背景下，背部拥有精致哥特式豪宅纹身的女性。
-
-#### 📝 提示词
-
-```
-一位女性盘腿坐在地板上，背对镜头，头部微微回转看向镜头。她背部完全裸露，展示出完整的背部纹身。她身穿宽松牛仔裤，系着黑色铆钉腰带。她留着长长的黑发，用发夹盘起，留着细碎的刘海，深棕色眼睛，细眉，嘴唇丰满，肤色白皙，皮肤呈现自然的纹理和毛孔，戴着黑色小耳扩。她背部的纹身是一座大型哥特式维多利亚风格豪宅，细节华丽，周围有飞龙及填充式纹身图案，采用黑、灰、白墨水，纹身场景细节极其丰富。暗色调极简主义 1990 年代房间，低光环境，写实渲染，浅景深，低色彩饱和度。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a80c3ac9ad0bfdbfb89b5afbb43bd268/thumbnails/thumbnail.jpg" width="600" alt="哥特式豪宅背部纹身">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5083)**
-
-**作者:** [NYXEN](https://x.com/NYXEN_77) | **来源:** [Link](https://x.com/NYXEN_77/status/2056902373235441850) | **发布时间:** May 20, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2189,6 +2176,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-05-30T07:04:57.920Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-05-30T10:18:24.652Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1689** |
+| 📝 Total Prompts | **1696** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-30** |
 
@@ -189,6 +189,140 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Metallic Relic Rainbow Energy
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A descriptive prompt creating a metallic relic that unleashes rainbow energy through a cosmic vortex.
+
+#### 📝 Prompt
+
+```
+A sleek metallic relic cracks open, unleashing flowing rivers of rainbow energy that spiral through a cosmic vortex. From stillness to pure motion. Surreal transformation at its finest.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3eae5df29267be22b3a70ca8eb2d9485/thumbnails/thumbnail.jpg" width="600" alt="Metallic Relic Rainbow Energy">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5476)**
+
+**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2060523955748827371) | **Published:** May 30, 2026
+
+---
+### Cosmic Energy Ritual Ruins
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for a surreal scene featuring a glowing bridge channeling power through floating ancient relics and ruins.
+
+#### 📝 Prompt
+
+```
+A surreal glowing bridge channels raw power through floating relics and ancient ruins as lightning strikes and a golden spiral awakens. Pure surreal transcendence. Experimental weirdness at its best.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7d085bdb4682b7e3a44dc8890d04364a/thumbnails/thumbnail.jpg" width="600" alt="Cosmic Energy Ritual Ruins">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5477)**
+
+**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2060516623694352611) | **Published:** May 30, 2026
+
+---
+### Psychedelic Surreal Cosmic Meltdown
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for an intense psychedelic scene with melting clocks, dripping honey, and alien mushrooms exploding into light.
+
+#### 📝 Prompt
+
+```
+Melting clocks, floating hands, dripping honey, and alien mushroom creatures float through a cosmic vortex… until everything explodes into pure light. Maximum weird. Maximum cool.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d52ce38635e8ddb7671a77fd3aafc7f3/thumbnails/thumbnail.jpg" width="600" alt="Psychedelic Surreal Cosmic Meltdown">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5478)**
+
+**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2060514167744819488) | **Published:** May 30, 2026
+
+---
+### Surreal Molten Gold Sculpture
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal prompt for generating a jewelry sculpture that awakens in a desert and erupts into molten gold with melting clocks in a nebula.
+
+#### 📝 Prompt
+
+```
+Surreal jewelry sculpture awakens in a dreamlike desert, erupting into molten gold as melting clocks float through a swirling nebula. Pure surreal chaos and beauty.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/001d76ad71b3547c9565e0c9c8937870/thumbnails/thumbnail.jpg" width="600" alt="Surreal Molten Gold Sculpture">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5475)**
+
+**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2060510856371200209) | **Published:** May 29, 2026
+
+---
+### Surreal Free Range Trees Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal prompt for a video featuring trees behaving like chickens in a field.
+
+#### 📝 Prompt
+
+```
+Make a video of free range trees feeding in a field like free range chickens, but they’re trees
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0150348d25d7eabb77d43d2ec9e6f179/thumbnails/thumbnail.jpg" width="600" alt="Surreal Free Range Trees Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5473)**
+
+**Author:** [Natertottzz.eth](https://x.com/Natertottzz) | **Source:** [Link](https://x.com/Natertottzz/status/2060458264131703233) | **Published:** May 29, 2026
+
+---
+### Honeysuckle Flowers Pastel Dreamlight
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A serene video prompt featuring gentle honeysuckle flowers swaying in pastel-colored dreamlight with drifting petals.
+
+#### 📝 Prompt
+
+```
+Gentle honeysuckle flowers swaying softly in pastel dreamlight… A quiet moment where petals drift and gentle dreams bloom.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/213b1edc60b83e250bf43d7411a32876/thumbnails/thumbnail.jpg" width="600" alt="Honeysuckle Flowers Pastel Dreamlight">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5474)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2060324137583931885) | **Published:** May 29, 2026
+
+---
+### Alien creature protecting Starship from Godzilla
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex action prompt featuring a monster alien defending a spaceship against a giant Godzilla.
+
+#### 📝 Prompt
+
+```
+NI Ticulous Monster Alien Creature Protecting Starship From Giant Godzilla
+:} 360 € *^\ £ę ( godzilla falls whimping )
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c9ec622fbd7b3348c40d18d337685c7e/thumbnails/thumbnail.jpg" width="600" alt="Alien creature protecting Starship from Godzilla">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5472)**
+
+**Author:** [Notzucow](https://x.com/Notzucow69) | **Source:** [Link](https://x.com/Notzucow69/status/2060171388430729222) | **Published:** May 29, 2026
+
+---
 ### Woman Feeding Horse Orchard Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1981,153 +2115,6 @@ A delicate and subtle artistic painting of a soft pastel flower with gentle wate
 **Author:** [Carina](https://x.com/Freehere3) | **Source:** [Link](https://x.com/Freehere3/status/2057096040642465953) | **Published:** May 20, 2026
 
 ---
-### Tattooed Woman Kitchen Romance
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A fun video prompt featuring a tattooed woman and a man in a kitchen with floating romantic hearts.
-
-#### 📝 Prompt
-
-```
-A woman with tattoos in a green top and a man in a kitchen with money, surrounded by floating hearts in a fun loving vibe.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4bfed87a5bec1711f7798c8d56fb0671/thumbnails/thumbnail.jpg" width="600" alt="Tattooed Woman Kitchen Romance">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5078)**
-
-**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2057094935711461648) | **Published:** May 20, 2026
-
----
-### Cyberpunk Armor Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A professional-grade cinematic prompt for a 6-second video showing a complex armor transformation in a rainy cyberpunk city.
-
-#### 📝 Prompt
-
-```
-Cinematic 8K hyper-realistic live-action video, 6 seconds, photorealistic, shot on ARRI Alexa 65 with anamorphic lenses, subtle film grain, cinematic color grading.
-
-Subject: The exact same breathtakingly beautiful young woman from the reference image — delicate facial features, striking blue eyes, flawless skin with soft cyber-glow highlights, voluminous flowing blue-silver hair with sparkling particles. She is wearing an ultra-advanced, next-level Transformer-style cyberpunk armor-dress: a form-fitting, translucent high-tech latex and crystalline hybrid suit that seamlessly blends her original glowing crystal aesthetic with sleek matte-black and chrome cybernetic plating, glowing neon-blue circuitry, pulsing magenta energy veins, and shifting mechanical segments. Intricate holographic crystals and floating data shards orbit her body. The suit has subtle mechanical transformation details — plates that click, unfold, and reconfigure with blue plasma arcs.
-
-Scene: Dark, rainy cyberpunk megacity at night. Towering neon skyscrapers, flying vehicles, massive holographic billboards, wet reflective streets. Heavy volumetric rain, atmospheric fog, god rays cutting through the mist, vibrant cyan, magenta, and electric blue lighting.
-
-Camera movement & action (6 seconds):
-- 0-2s: Dramatic low-angle orbiting close-up as she stands powerfully, hair dramatically flowing in the wind. Her cyber-armor begins transforming — crystalline plates smoothly shift into mechanical Transformer segments with glowing energy.
-- 2-4s: She slowly raises her hands; holographic blue energy interfaces and translucent energy wings briefly manifest from her back. Rain droplets sizzle and evaporate on her glowing suit.
-- 4-6s: Epic slow pull-back shot revealing her full powerful silhouette levitating slightly above the wet street, dramatic lens flares, hair and armor elements moving with cinematic motion blur.
-
-Ultra-photorealistic details, perfect anatomy, realistic fabric and metal physics, reflective wet surfaces, intricate particle effects, depth of field, moody cinematic lighting. Masterpiece visual effects, next-level Transformers-inspired transformation sequence, dark cyberpunk atmosphere, highly detailed, emotional and powerful mood.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5b9e627bc8e55dbddca444f262920337/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Armor Transformation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5084)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2057088402445459694) | **Published:** May 20, 2026
-
----
-### Cybernetic Warrior Bow
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A stylized prompt using complex symbols to describe a purple-diamond armored character with a laser bow.
-
-#### 📝 Prompt
-
-```
-< black fluffy golden hair >purple vein >
-¥ { armor purple reflective diamonds }
-( bow laser cut beridium allow bolts glowing )
-^{ * { eyes are beautiful green blue } ( stare )
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/52e559488c2320f468643178ad268316/thumbnails/thumbnail.jpg" width="600" alt="Cybernetic Warrior Bow">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5085)**
-
-**Author:** [Notzucow](https://x.com/Notzucow69) | **Source:** [Link](https://x.com/Notzucow69/status/2057004072746500293) | **Published:** May 20, 2026
-
----
-### Ethereal Mermaid Underwater Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed descriptive prompt for a cinematic video of a mermaid surrounded by bubbles, showing various emotional expressions.
-
-#### 📝 Prompt
-
-```
-Watch this mermaid, glowing with pride. Bubbles float around her, adding a playful touch. She tilts her head, lost in thought, then focuses intensely. Seated, she reflects, hands clasped. She blows a gentle kiss
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/15e5693afd05597fb5ecf976e8eda7da/thumbnails/thumbnail.jpg" width="600" alt="Ethereal Mermaid Underwater Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5050)**
-
-**Author:** [BizPunk72](https://x.com/bixxs) | **Source:** [Link](https://x.com/bixxs/status/2056948566933782740) | **Published:** May 20, 2026
-
----
-### Starlink Satellites Laser Rays
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A conceptual prompt depicting Starlink satellites firing laser beams onto a wall, integrated with a character's dialogue.
-
-#### 📝 Prompt
-
-```
-@image1 on the wall the Starlink satellites firing laser beams. She says How are these headlines allowed?... @imagine @grok The missing ingredient of annoyance. 🔥🫶☕️💫
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f383250202d5781d1c9a9787a907ac16/thumbnails/thumbnail.jpg" width="600" alt="Starlink Satellites Laser Rays">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5080)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2056937301347901503) | **Published:** May 20, 2026
-
----
-### Flying Pterodactyl Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An instruction to take a pterodactyl-like object and animate it flying off into the distance.
-
-#### 📝 Prompt
-
-```
-Grok see the bird teradactial looking object can you make it get up and fly off into the distance
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e074c6f0245c38b8830e95923e9a8d9f/thumbnails/thumbnail.jpg" width="600" alt="Flying Pterodactyl Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5086)**
-
-**Author:** [(PRESS)Scotty Fife (aka) NevNukeMonster](https://x.com/fife_scotty680) | **Source:** [Link](https://x.com/fife_scotty680/status/2056905441091977384) | **Published:** May 20, 2026
-
----
-### Gothic Mansion Back Tattoo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic and dark aesthetic prompt describing a woman with a highly detailed gothic mansion tattoo on her back in a 90s setting.
-
-#### 📝 Prompt
-
-```
-Female sitting crossed legged on the floor with her back facing the camera with her head subtly turned back to view the camera, her whole back is exposed to show off her full back tattoo piece, she is wearing baggy jeans with a studded black belt. She has long black hair pulled up in a clip, wispy bangs, dark brown eyes, thin eyebrows, full lips, light skin with natural texture and pores to her skin, she has black small gauges. Her back tattoo is a large gothic Victorian era style mansion with ornate detailing with a dragon flying with filler type tattooing around the main piece, black, grey, and white ink, highly detailed scene of the tattoo. Dark minimalist 1990s room, low light, realistic rendering, shallow depth of field, low color saturation.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a80c3ac9ad0bfdbfb89b5afbb43bd268/thumbnails/thumbnail.jpg" width="600" alt="Gothic Mansion Back Tattoo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5083)**
-
-**Author:** [NYXEN](https://x.com/NYXEN_77) | **Source:** [Link](https://x.com/NYXEN_77/status/2056902373235441850) | **Published:** May 20, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2189,6 +2176,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-30T07:04:56.697Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-30T10:18:22.935Z</sub>
 
 </div>

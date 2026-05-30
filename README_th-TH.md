@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1689** |
+| 📝 Total Prompts | **1696** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-30** |
 
@@ -189,6 +189,140 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### Metallic Relic Rainbow Energy
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง (prompt) สำหรับสร้างภาพวัตถุโบราณโลหะที่ปลดปล่อยพลังงานสายรุ้งผ่านกระแสน้ำวนแห่งจักรวาล
+
+#### 📝 Prompt
+
+```
+วัตถุโบราณโลหะเงางามแตกออก เผยให้เห็นสายธารพลังงานสายรุ้งที่ไหลวนผ่านกระแสน้ำวนแห่งจักรวาล จากความนิ่งสงบสู่การเคลื่อนไหวอันทรงพลัง นี่คือการเปลี่ยนผ่านที่เหนือจริงในรูปแบบที่งดงามที่สุด
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3eae5df29267be22b3a70ca8eb2d9485/thumbnails/thumbnail.jpg" width="600" alt="Metallic Relic Rainbow Energy">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5476)**
+
+**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2060523955748827371) | **Published:** May 30, 2026
+
+---
+### ซากปรักหักพังแห่งพิธีกรรมพลังงานจักรวาล
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับฉากเหนือจริงที่แสดงภาพสะพานเรืองแสงซึ่งกำลังส่งผ่านพลังงานผ่านโบราณวัตถุและซากปรักหักพังที่ลอยอยู่
+
+#### 📝 Prompt
+
+```
+สะพานเรืองแสงเหนือจริงกำลังส่งผ่านพลังงานดิบผ่านโบราณวัตถุและซากปรักหักพังโบราณที่ลอยอยู่ ท่ามกลางสายฟ้าที่ฟาดลงมาและเกลียวสีทองที่กำลังตื่นขึ้น เป็นความเหนือจริงที่บริสุทธิ์และเป็นความแปลกใหม่เชิงทดลองในระดับที่ดีที่สุด
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7d085bdb4682b7e3a44dc8890d04364a/thumbnails/thumbnail.jpg" width="600" alt="ซากปรักหักพังแห่งพิธีกรรมพลังงานจักรวาล">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5477)**
+
+**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2060516623694352611) | **Published:** May 30, 2026
+
+---
+### Psychedelic Surreal Cosmic Meltdown
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับฉากไซเคเดลิกสุดเข้มข้นที่มีนาฬิกาละลาย น้ำผึ้งหยด และเห็ดเอเลี่ยนที่ระเบิดออกเป็นแสงสว่าง
+
+#### 📝 Prompt
+
+```
+นาฬิกาที่กำลังละลาย เข็มนาฬิกาลอยได้ น้ำผึ้งที่หยดลงมา และสิ่งมีชีวิตรูปร่างคล้ายเห็ดจากต่างดาวลอยล่องผ่านกระแสน้ำวนแห่งจักรวาล... จนกระทั่งทุกอย่างระเบิดออกเป็นแสงสว่างบริสุทธิ์ แปลกสุดขีด เท่สุดใจ
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d52ce38635e8ddb7671a77fd3aafc7f3/thumbnails/thumbnail.jpg" width="600" alt="Psychedelic Surreal Cosmic Meltdown">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5478)**
+
+**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2060514167744819488) | **Published:** May 30, 2026
+
+---
+### ประติมากรรมทองคำหลอมละลายแนวเซอร์เรียล
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง (Prompt) แนวเซอร์เรียลสำหรับการสร้างสรรค์ประติมากรรมเครื่องประดับที่ตื่นขึ้นในทะเลทราย และระเบิดออกมาเป็นทองคำหลอมละลายพร้อมนาฬิกาที่ละลายท่ามกลางเนบิวลา
+
+#### 📝 Prompt
+
+```
+ประติมากรรมเครื่องประดับแนวเซอร์เรียลที่ตื่นขึ้นในทะเลทรายอันชวนฝัน ระเบิดออกมาเป็นทองคำหลอมละลายในขณะที่นาฬิกาที่กำลังละลายลอยล่องผ่านเนบิวลาที่หมุนวน เป็นความโกลาหลและความงดงามแบบเซอร์เรียลอย่างแท้จริง
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/001d76ad71b3547c9565e0c9c8937870/thumbnails/thumbnail.jpg" width="600" alt="ประติมากรรมทองคำหลอมละลายแนวเซอร์เรียล">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5475)**
+
+**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2060510856371200209) | **Published:** May 29, 2026
+
+---
+### วิดีโอต้นไม้เดินเตร็ดเตร่สุดเซอร์เรียล
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สุดเซอร์เรียลสำหรับสร้างวิดีโอที่มีต้นไม้ทำพฤติกรรมเหมือนไก่ในทุ่งหญ้า
+
+#### 📝 Prompt
+
+```
+สร้างวิดีโอของต้นไม้ที่เดินเตร็ดเตร่หากินในทุ่งหญ้าเหมือนกับไก่เลี้ยงปล่อย แต่พวกมันเป็นต้นไม้
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0150348d25d7eabb77d43d2ec9e6f179/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอต้นไม้เดินเตร็ดเตร่สุดเซอร์เรียล">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5473)**
+
+**Author:** [Natertottzz.eth](https://x.com/Natertottzz) | **Source:** [Link](https://x.com/Natertottzz/status/2060458264131703233) | **Published:** May 29, 2026
+
+---
+### ดอกสายน้ำผึ้งในแสงฝันโทนพาสเทล
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์บรรยากาศเงียบสงบ เผยให้เห็นดอกสายน้ำผึ้งที่กำลังไหวเอนเบาๆ ท่ามกลางแสงฝันโทนพาสเทล พร้อมกลีบดอกไม้ที่ร่วงหล่นล่องลอย
+
+#### 📝 Prompt
+
+```
+ดอกสายน้ำผึ้งที่กำลังไหวเอนอย่างแผ่วเบาในแสงฝันโทนพาสเทล... ช่วงเวลาอันเงียบสงบที่กลีบดอกไม้ร่วงหล่นล่องลอยและเบ่งบานดั่งความฝันอันอ่อนโยน
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/213b1edc60b83e250bf43d7411a32876/thumbnails/thumbnail.jpg" width="600" alt="ดอกสายน้ำผึ้งในแสงฝันโทนพาสเทล">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5474)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2060324137583931885) | **Published:** May 29, 2026
+
+---
+### สิ่งมีชีวิตจากต่างดาวปกป้องยานอวกาศจาก Godzilla
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์แนวแอ็กชันสุดซับซ้อนที่นำเสนอสัตว์ประหลาดต่างดาวกำลังปกป้องยานอวกาศจาก Godzilla ขนาดยักษ์
+
+#### 📝 Prompt
+
+```
+สิ่งมีชีวิตจากต่างดาวสุดพิสดารปกป้องยานอวกาศจาก Godzilla ขนาดยักษ์
+:} 360 € *^\ £ę ( godzilla ล้มลงอย่างน่าสมเพช )
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c9ec622fbd7b3348c40d18d337685c7e/thumbnails/thumbnail.jpg" width="600" alt="สิ่งมีชีวิตจากต่างดาวปกป้องยานอวกาศจาก Godzilla">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5472)**
+
+**Author:** [Notzucow](https://x.com/Notzucow69) | **Source:** [Link](https://x.com/Notzucow69/status/2060171388430729222) | **Published:** May 29, 2026
+
+---
 ### วิดีโอผู้หญิงให้อาหารม้าในสวนผลไม้
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1981,153 +2115,6 @@ solid body slowly blurs and dissolves as if fading at the speed of light, reveal
 **Author:** [Carina](https://x.com/Freehere3) | **Source:** [Link](https://x.com/Freehere3/status/2057096040642465953) | **Published:** May 20, 2026
 
 ---
-### ความรักในครัวของสาวรอยสัก
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพร้อมท์แสนสนุกที่มีหญิงสาวรอยสักและชายหนุ่มในห้องครัว พร้อมหัวใจลอยฟุ้งสุดโรแมนติก
-
-#### 📝 Prompt
-
-```
-หญิงสาวรอยสักในเสื้อสีเขียวและชายหนุ่มในห้องครัวที่มีเงินรายล้อม พร้อมด้วยหัวใจที่ลอยฟุ้งในบรรยากาศแสนสนุกและอบอวลไปด้วยความรัก
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4bfed87a5bec1711f7798c8d56fb0671/thumbnails/thumbnail.jpg" width="600" alt="ความรักในครัวของสาวรอยสัก">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5078)**
-
-**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2057094935711461648) | **Published:** May 20, 2026
-
----
-### การแปลงร่างชุดเกราะไซเบอร์พังก์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ระดับมืออาชีพสำหรับวิดีโอความยาว 6 วินาที ที่แสดงการแปลงร่างชุดเกราะอันซับซ้อนในเมืองไซเบอร์พังก์ท่ามกลางสายฝน
-
-#### 📝 Prompt
-
-```
-วิดีโอไลฟ์แอ็กชันระดับ Cinematic 8K สมจริงเป็นพิเศษ ความยาว 6 วินาที ถ่ายทำด้วยกล้อง ARRI Alexa 65 พร้อมเลนส์ Anamorphic มีเกรนฟิล์มที่นุ่มนวล และการปรับสีแบบภาพยนตร์
-
-ตัวละคร: หญิงสาวผู้สวยงามน่าทึ่งคนเดิมจากภาพอ้างอิง — ใบหน้าละเอียดอ่อน ดวงตาสีฟ้าโดดเด่น ผิวพรรณไร้ที่ติพร้อมไฮไลต์แสงไซเบอร์อ่อนๆ ผมสีฟ้าเงินสลวยเป็นลอนพร้อมประกายระยิบระยับ เธอสวมชุดเกราะไซเบอร์พังก์สไตล์ Transformer ขั้นสูง: ชุดไฮบริดที่เข้ารูปทำจากลาเท็กซ์ไฮเทคโปร่งแสงและคริสตัล ซึ่งผสมผสานความงามของคริสตัลเรืองแสงเดิมเข้ากับแผ่นโลหะไซเบอร์เนติกสีดำด้านและโครเมียมได้อย่างลงตัว มีวงจรนีออนสีฟ้าเรืองแสง เส้นเลือดพลังงานสีม่วงแดง และชิ้นส่วนกลไกที่ขยับได้ มีคริสตัลโฮโลแกรมที่ซับซ้อนและเศษข้อมูลลอยวนรอบตัวเธอ ชุดมีรายละเอียดการแปลงร่างเชิงกลที่ละเอียดอ่อน เช่น แผ่นเกราะที่คลิก กางออก และปรับเปลี่ยนรูปร่างพร้อมประกายพลาสม่าสีฟ้า
-
-ฉาก: มหานครไซเบอร์พังก์ที่มืดมิดและเต็มไปด้วยสายฝนในยามค่ำคืน ตึกระฟ้าที่เต็มไปด้วยแสงนีออน ยานพาหนะบินได้ ป้ายโฆษณาโฮโลแกรมขนาดใหญ่ และถนนที่เปียกชื้นสะท้อนแสง ฝนตกหนัก หมอกหนา แสงเทพ (God rays) ที่ตัดผ่านหมอก พร้อมแสงสีฟ้าไซแอน สีม่วงแดง และสีน้ำเงินไฟฟ้าที่สดใส
-
-การเคลื่อนไหวของกล้องและแอ็กชัน (6 วินาที):
-- 0-2 วินาที: ภาพโคลสอัพมุมต่ำแบบหมุนรอบตัวอย่างน่าตื่นตาขณะที่เธอยืนอย่างทรงพลัง ผมปลิวไสวไปตามลม ชุดเกราะไซเบอร์เริ่มแปลงร่าง แผ่นคริสตัลค่อยๆ เปลี่ยนเป็นชิ้นส่วนกลไกสไตล์ Transformer พร้อมพลังงานเรืองแสง
-- 2-4 วินาที: เธอค่อยๆ ยกมือขึ้น อินเทอร์เฟซพลังงานโฮโลแกรมสีฟ้าและปีกพลังงานโปร่งแสงปรากฏขึ้นจากด้านหลังของเธอ หยดฝนระเหยกลายเป็นไอเมื่อกระทบกับชุดที่เรืองแสง
-- 4-6 วินาที: ภาพดึงกล้องออกช้าๆ อย่างยิ่งใหญ่ เผยให้เห็นเงาร่างอันทรงพลังของเธอกำลังลอยอยู่เหนือถนนที่เปียกชื้นเล็กน้อย มีแสงแฟลร์จากเลนส์ที่ดูน่าทึ่ง ผมและชิ้นส่วนชุดเกราะเคลื่อนไหวพร้อมเอฟเฟกต์ Motion Blur แบบภาพยนตร์
-
-รายละเอียดสมจริงระดับสูงสุด กายวิภาคที่สมบูรณ์แบบ ฟิสิกส์ของผ้าและโลหะที่สมจริง พื้นผิวเปียกที่สะท้อนแสง เอฟเฟกต์อนุภาคที่ซับซ้อน ระยะชัดลึก และแสงในบรรยากาศแบบภาพยนตร์ เอฟเฟกต์ภาพระดับมาสเตอร์พีซ ลำดับการแปลงร่างที่ได้รับแรงบันดาลใจจาก Transformers บรรยากาศไซเบอร์พังก์ที่มืดมิด รายละเอียดสูง อารมณ์ที่ทรงพลังและลึกซึ้ง
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5b9e627bc8e55dbddca444f262920337/thumbnails/thumbnail.jpg" width="600" alt="การแปลงร่างชุดเกราะไซเบอร์พังก์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5084)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2057088402445459694) | **Published:** May 20, 2026
-
----
-### นักรบไซเบอร์เนติกถือธนู
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ที่มีสไตล์โดยใช้สัญลักษณ์ซับซ้อนเพื่อบรรยายถึงตัวละครในชุดเกราะเพชรสีม่วงที่ถือธนูเลเซอร์
-
-#### 📝 Prompt
-
-```
-< ผมสีทองฟูสีดำ >เส้นเลือดสีม่วง >
-¥ { ชุดเกราะเพชรสะท้อนแสงสีม่วง }
-( ธนูเลเซอร์ตัดด้วยโบลต์อัลลอยเบอริเดียมที่เรืองแสง )
-^{ * { ดวงตาสีเขียวอมฟ้าที่งดงาม } ( จ้องมอง )
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/52e559488c2320f468643178ad268316/thumbnails/thumbnail.jpg" width="600" alt="นักรบไซเบอร์เนติกถือธนู">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5085)**
-
-**Author:** [Notzucow](https://x.com/Notzucow69) | **Source:** [Link](https://x.com/Notzucow69/status/2057004072746500293) | **Published:** May 20, 2026
-
----
-### ฉากนางเงือกแสนสวยใต้ท้องทะเล
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) เชิงบรรยายอย่างละเอียดสำหรับวิดีโอแนวภาพยนตร์ของนางเงือกที่รายล้อมไปด้วยฟองอากาศ พร้อมแสดงอารมณ์ความรู้สึกที่หลากหลาย
-
-#### 📝 Prompt
-
-```
-รับชมนางเงือกตนนี้ที่เปล่งประกายด้วยความภาคภูมิใจ ฟองอากาศลอยละล่องอยู่รอบตัวเธอช่วยเพิ่มความขี้เล่น เธอเอียงศีรษะราวกับกำลังจมอยู่ในห้วงความคิด ก่อนจะเปลี่ยนมาจดจ่ออย่างตั้งใจ ในท่านั่ง เธอแสดงท่าทางครุ่นคิดโดยประสานมือเข้าด้วยกัน จากนั้นเธอก็เป่าจูบอันแสนอ่อนโยนออกมา
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/15e5693afd05597fb5ecf976e8eda7da/thumbnails/thumbnail.jpg" width="600" alt="ฉากนางเงือกแสนสวยใต้ท้องทะเล">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5050)**
-
-**Author:** [BizPunk72](https://x.com/bixxs) | **Source:** [Link](https://x.com/bixxs/status/2056948566933782740) | **Published:** May 20, 2026
-
----
-### ลำแสงเลเซอร์จากดาวเทียม Starlink
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์เชิงแนวคิดที่แสดงภาพดาวเทียม Starlink ยิงลำแสงเลเซอร์ลงบนผนัง พร้อมบทสนทนาของตัวละคร
-
-#### 📝 Prompt
-
-```
-@image1 บนผนังมีดาวเทียม Starlink กำลังยิงลำแสงเลเซอร์ เธอพูดว่า พาดหัวข่าวพวกนี้ได้รับอนุญาตให้เผยแพร่ได้อย่างไร?... @imagine @grok ส่วนผสมที่ขาดหายไปของความน่ารำคาญ 🔥🫶☕️💫
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f383250202d5781d1c9a9787a907ac16/thumbnails/thumbnail.jpg" width="600" alt="ลำแสงเลเซอร์จากดาวเทียม Starlink">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5080)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2056937301347901503) | **Published:** May 20, 2026
-
----
-### แอนิเมชันเทอโรแดกทิลบิน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่งสำหรับนำวัตถุที่มีลักษณะคล้ายเทอโรแดกทิลมาทำแอนิเมชันให้บินออกไปไกลๆ
-
-#### 📝 Prompt
-
-```
-Grok ดูวัตถุที่ดูเหมือนนกเทอโรแดกทิลตัวนี้หน่อย คุณช่วยทำให้มันลุกขึ้นแล้วบินออกไปไกลๆ ได้ไหม
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e074c6f0245c38b8830e95923e9a8d9f/thumbnails/thumbnail.jpg" width="600" alt="แอนิเมชันเทอโรแดกทิลบิน">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5086)**
-
-**Author:** [(PRESS)Scotty Fife (aka) NevNukeMonster](https://x.com/fife_scotty680) | **Source:** [Link](https://x.com/fife_scotty680/status/2056905441091977384) | **Published:** May 20, 2026
-
----
-### รอยสักคฤหาสน์สไตล์โกธิคเต็มหลัง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์แนวภาพยนตร์ที่มีความมืดหม่น บรรยายภาพหญิงสาวที่มีรอยสักคฤหาสน์สไตล์โกธิครายละเอียดสูงบนแผ่นหลัง ในบรรยากาศยุค 90
-
-#### 📝 Prompt
-
-```
-หญิงสาวนั่งขัดสมาธิบนพื้นโดยหันหลังให้กล้องและหันหน้ากลับมามองกล้องเล็กน้อย เผยให้เห็นแผ่นหลังทั้งหมดที่มีรอยสักเต็มหลัง เธอสวมกางเกงยีนส์ทรงหลวมและเข็มขัดหนังสีดำประดับหมุด ผมสีดำยาวรวบขึ้นด้วยกิ๊บ มีหน้าม้าบางๆ ดวงตาสีน้ำตาลเข้ม คิ้วเรียวบาง ริมฝีปากอิ่ม ผิวขาวที่มีพื้นผิวและรูขุมขนตามธรรมชาติ เธอใส่จิวหูสีดำขนาดเล็ก รอยสักบนแผ่นหลังของเธอเป็นรูปคฤหาสน์สไตล์วิคตอเรียนโกธิคขนาดใหญ่ที่มีรายละเอียดวิจิตรบรรจง พร้อมลายสักมังกรบินและลายประกอบรอบชิ้นงานหลัก ใช้หมึกสีดำ สีเทา และสีขาว เป็นภาพรอยสักที่มีรายละเอียดสูง ห้องสไตล์มินิมอลโทนเข้มในยุค 1990 แสงน้อย การเรนเดอร์ที่สมจริง ระยะชัดลึกตื้น และความอิ่มตัวของสีต่ำ
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a80c3ac9ad0bfdbfb89b5afbb43bd268/thumbnails/thumbnail.jpg" width="600" alt="รอยสักคฤหาสน์สไตล์โกธิคเต็มหลัง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5083)**
-
-**Author:** [NYXEN](https://x.com/NYXEN_77) | **Source:** [Link](https://x.com/NYXEN_77/status/2056902373235441850) | **Published:** May 20, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2189,6 +2176,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-30T07:05:04.170Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-30T10:18:30.337Z</sub>
 
 </div>

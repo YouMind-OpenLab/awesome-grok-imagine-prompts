@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1689** |
+| 📝 Total Prompts | **1696** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-30** |
 
@@ -189,6 +189,140 @@ Uma Valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Relíquia Metálica com Energia Arco-íris
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt descritivo para criar uma relíquia metálica que libera energia arco-íris através de um vórtice cósmico.
+
+#### 📝 Prompt
+
+```
+Uma relíquia metálica elegante se abre, liberando rios fluidos de energia arco-íris que espiralam através de um vórtice cósmico. Da imobilidade ao movimento puro. Transformação surreal em sua melhor forma.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3eae5df29267be22b3a70ca8eb2d9485/thumbnails/thumbnail.jpg" width="600" alt="Relíquia Metálica com Energia Arco-íris">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5476)**
+
+**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2060523955748827371) | **Published:** May 30, 2026
+
+---
+### Ruínas do Ritual de Energia Cósmica
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para uma cena surreal apresentando uma ponte brilhante canalizando energia através de relíquias antigas e ruínas flutuantes.
+
+#### 📝 Prompt
+
+```
+Uma ponte surreal e brilhante canaliza energia bruta através de relíquias flutuantes e ruínas antigas enquanto relâmpagos atingem o local e uma espiral dourada desperta. Pura transcendência surreal. Estranheza experimental em seu melhor nível.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7d085bdb4682b7e3a44dc8890d04364a/thumbnails/thumbnail.jpg" width="600" alt="Ruínas do Ritual de Energia Cósmica">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5477)**
+
+**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2060516623694352611) | **Published:** May 30, 2026
+
+---
+### Colapso Cósmico Surreal Psicodélico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para uma cena psicodélica intensa com relógios derretendo, mel escorrendo e cogumelos alienígenas explodindo em luz.
+
+#### 📝 Prompt
+
+```
+Relógios derretendo, mãos flutuantes, mel escorrendo e criaturas alienígenas em forma de cogumelo flutuam através de um vórtice cósmico... até que tudo explode em pura luz. O máximo de estranheza. O máximo de estilo.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d52ce38635e8ddb7671a77fd3aafc7f3/thumbnails/thumbnail.jpg" width="600" alt="Colapso Cósmico Surreal Psicodélico">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5478)**
+
+**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2060514167744819488) | **Published:** May 30, 2026
+
+---
+### Escultura Surrealista de Ouro Derretido
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt surrealista para gerar uma escultura de joalheria que desperta em um deserto e entra em erupção em ouro derretido com relógios derretidos em uma nebulosa.
+
+#### 📝 Prompt
+
+```
+Escultura de joalheria surrealista desperta em um deserto onírico, entrando em erupção em ouro derretido enquanto relógios derretidos flutuam através de uma nebulosa rodopiante. Puro caos e beleza surrealista.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/001d76ad71b3547c9565e0c9c8937870/thumbnails/thumbnail.jpg" width="600" alt="Escultura Surrealista de Ouro Derretido">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5475)**
+
+**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2060510856371200209) | **Published:** May 29, 2026
+
+---
+### Vídeo surreal de árvores criadas soltas
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt surreal para um vídeo apresentando árvores se comportando como galinhas em um campo.
+
+#### 📝 Prompt
+
+```
+Crie um vídeo de árvores criadas soltas se alimentando em um campo como galinhas caipiras, mas sendo árvores
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0150348d25d7eabb77d43d2ec9e6f179/thumbnails/thumbnail.jpg" width="600" alt="Vídeo surreal de árvores criadas soltas">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5473)**
+
+**Author:** [Natertottzz.eth](https://x.com/Natertottzz) | **Source:** [Link](https://x.com/Natertottzz/status/2060458264131703233) | **Published:** May 29, 2026
+
+---
+### Flores de Madressilva em Luz de Sonho Pastel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo sereno apresentando delicadas flores de madressilva balançando sob uma luz de sonho em tons pastel com pétalas à deriva.
+
+#### 📝 Prompt
+
+```
+Delicadas flores de madressilva balançando suavemente sob uma luz de sonho pastel… Um momento de tranquilidade onde pétalas flutuam e sonhos suaves florescem.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/213b1edc60b83e250bf43d7411a32876/thumbnails/thumbnail.jpg" width="600" alt="Flores de Madressilva em Luz de Sonho Pastel">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5474)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2060324137583931885) | **Published:** May 29, 2026
+
+---
+### Criatura alienígena protegendo a Starship do Godzilla
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de ação complexo apresentando um monstro alienígena defendendo uma nave espacial contra um Godzilla gigante.
+
+#### 📝 Prompt
+
+```
+Criatura alienígena monstruosa e meticulosa protegendo a Starship do Godzilla gigante
+:} 360 € *^\ £ę ( godzilla cai choramingando )
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c9ec622fbd7b3348c40d18d337685c7e/thumbnails/thumbnail.jpg" width="600" alt="Criatura alienígena protegendo a Starship do Godzilla">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5472)**
+
+**Author:** [Notzucow](https://x.com/Notzucow69) | **Source:** [Link](https://x.com/Notzucow69/status/2060171388430729222) | **Published:** May 29, 2026
+
+---
 ### Vídeo de mulher alimentando cavalo em pomar
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1981,153 +2115,6 @@ Uma pintura artística delicada e sutil de uma flor em tons pastel suaves com go
 **Author:** [Carina](https://x.com/Freehere3) | **Source:** [Link](https://x.com/Freehere3/status/2057096040642465953) | **Published:** May 20, 2026
 
 ---
-### Romance na Cozinha com Mulher Tatuada
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo divertido apresentando uma mulher tatuada e um homem em uma cozinha com corações românticos flutuantes.
-
-#### 📝 Prompt
-
-```
-Uma mulher com tatuagens vestindo uma blusa verde e um homem em uma cozinha com dinheiro, cercados por corações flutuantes em um clima divertido e amoroso.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4bfed87a5bec1711f7798c8d56fb0671/thumbnails/thumbnail.jpg" width="600" alt="Romance na Cozinha com Mulher Tatuada">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5078)**
-
-**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2057094935711461648) | **Published:** May 20, 2026
-
----
-### Transformação de Armadura Cyberpunk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt cinematográfico de nível profissional para um vídeo de 6 segundos mostrando uma transformação complexa de armadura em uma cidade cyberpunk chuvosa.
-
-#### 📝 Prompt
-
-```
-Vídeo live-action cinematográfico hiper-realista em 8K, 6 segundos, fotorrealista, filmado com ARRI Alexa 65 com lentes anamórficas, granulação de filme sutil, gradação de cor cinematográfica.
-
-Assunto: A mesma jovem incrivelmente bela da imagem de referência — traços faciais delicados, olhos azuis marcantes, pele impecável com suaves reflexos de brilho cibernético, cabelo volumoso azul-prateado com partículas brilhantes. Ela veste um traje de armadura cyberpunk estilo Transformer de nível ultra-avançado: um traje híbrido de látex tecnológico translúcido e cristalino que combina perfeitamente sua estética de cristal brilhante original com placas cibernéticas elegantes em preto fosco e cromo, circuitos neon azuis brilhantes, veias de energia magenta pulsantes e segmentos mecânicos móveis. Cristais holográficos intrincados e fragmentos de dados flutuantes orbitam seu corpo. O traje possui detalhes sutis de transformação mecânica — placas que se encaixam, desdobram e reconfiguram com arcos de plasma azul.
-
-Cena: Megacidade cyberpunk escura e chuvosa à noite. Arranha-céus neon imponentes, veículos voadores, outdoors holográficos massivos, ruas molhadas e reflexivas. Chuva volumétrica intensa, neblina atmosférica, raios de luz cortando a névoa, iluminação vibrante em ciano, magenta e azul elétrico.
-
-Movimento de câmera e ação (6 segundos):
-- 0-2s: Close-up dramático em ângulo baixo enquanto ela se posiciona com poder, cabelo fluindo dramaticamente ao vento. Sua armadura cibernética começa a se transformar — placas cristalinas mudam suavemente para segmentos mecânicos de Transformer com energia brilhante.
-- 2-4s: Ela levanta as mãos lentamente; interfaces de energia azul holográfica e asas de energia translúcidas se manifestam brevemente em suas costas. Gotas de chuva sibilam e evaporam em seu traje brilhante.
-- 4-6s: Tomada épica de afastamento lento revelando sua silhueta poderosa completa levitando levemente acima da rua molhada, reflexos de lente dramáticos, cabelo e elementos da armadura movendo-se com desfoque de movimento cinematográfico.
-
-Detalhes ultra-fotorrealistas, anatomia perfeita, física realista de tecido e metal, superfícies molhadas reflexivas, efeitos de partículas intrincados, profundidade de campo, iluminação cinematográfica atmosférica. Efeitos visuais de obra-prima, sequência de transformação inspirada em Transformers de alto nível, atmosfera cyberpunk sombria, altamente detalhado, clima emocional e poderoso.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5b9e627bc8e55dbddca444f262920337/thumbnails/thumbnail.jpg" width="600" alt="Transformação de Armadura Cyberpunk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5084)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2057088402445459694) | **Published:** May 20, 2026
-
----
-### Arqueiro Cibernético
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt estilizado que utiliza símbolos complexos para descrever um personagem com armadura de diamantes roxos e um arco a laser.
-
-#### 📝 Prompt
-
-```
-< cabelo dourado fofo e preto > veia roxa >
-¥ { armadura de diamantes roxos reflexivos }
-( arco de laser corta parafusos de liga de berídio brilhantes )
-^{ * { olhos são de um belo azul esverdeado } ( olhar fixo )
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/52e559488c2320f468643178ad268316/thumbnails/thumbnail.jpg" width="600" alt="Arqueiro Cibernético">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5085)**
-
-**Author:** [Notzucow](https://x.com/Notzucow69) | **Source:** [Link](https://x.com/Notzucow69/status/2057004072746500293) | **Published:** May 20, 2026
-
----
-### Cena Subaquática de Sereia Etérea
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt descritivo detalhado para um vídeo cinematográfico de uma sereia cercada por bolhas, exibindo várias expressões emocionais.
-
-#### 📝 Prompt
-
-```
-Observe esta sereia, brilhando de orgulho. Bolhas flutuam ao seu redor, dando um toque lúdico. Ela inclina a cabeça, perdida em pensamentos, e então se concentra intensamente. Sentada, ela reflete, com as mãos entrelaçadas. Ela envia um beijo suave.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/15e5693afd05597fb5ecf976e8eda7da/thumbnails/thumbnail.jpg" width="600" alt="Cena Subaquática de Sereia Etérea">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5050)**
-
-**Author:** [BizPunk72](https://x.com/bixxs) | **Source:** [Link](https://x.com/bixxs/status/2056948566933782740) | **Published:** May 20, 2026
-
----
-### Raios laser dos satélites Starlink
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt conceitual que retrata satélites Starlink disparando raios laser em uma parede, integrado ao diálogo de uma personagem.
-
-#### 📝 Prompt
-
-```
-@image1 na parede, os satélites Starlink disparando raios laser. Ela diz: Como essas manchetes são permitidas?... @imagine @grok O ingrediente que faltava para o incômodo. 🔥🫶☕️💫
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f383250202d5781d1c9a9787a907ac16/thumbnails/thumbnail.jpg" width="600" alt="Raios laser dos satélites Starlink">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5080)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2056937301347901503) | **Published:** May 20, 2026
-
----
-### Animação de Pterodáctilo em Voo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Uma instrução para pegar um objeto semelhante a um pterodáctilo e animá-lo voando para longe.
-
-#### 📝 Prompt
-
-```
-Grok, veja este objeto que parece um pterodáctilo, você pode fazer com que ele levante voo e vá para longe?
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e074c6f0245c38b8830e95923e9a8d9f/thumbnails/thumbnail.jpg" width="600" alt="Animação de Pterodáctilo em Voo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5086)**
-
-**Author:** [(PRESS)Scotty Fife (aka) NevNukeMonster](https://x.com/fife_scotty680) | **Source:** [Link](https://x.com/fife_scotty680/status/2056905441091977384) | **Published:** May 20, 2026
-
----
-### Tatuagem de Mansão Gótica nas Costas
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de estética cinematográfica e sombria descrevendo uma mulher com uma tatuagem altamente detalhada de uma mansão gótica nas costas em um cenário dos anos 90.
-
-#### 📝 Prompt
-
-```
-Mulher sentada de pernas cruzadas no chão, de costas para a câmera, com a cabeça levemente virada para trás para olhar para a lente. Suas costas estão totalmente expostas para exibir a tatuagem que cobre toda a extensão, ela veste jeans largos com um cinto preto de tachas. Ela tem cabelos pretos longos presos com uma presilha, franja desfiada, olhos castanhos escuros, sobrancelhas finas, lábios carnudos, pele clara com textura natural e poros visíveis, e usa alargadores pretos pequenos. A tatuagem em suas costas é uma grande mansão em estilo vitoriano gótico com detalhes ornamentados, incluindo um dragão voando com preenchimento ao redor da peça principal, em tinta preta, cinza e branca, uma cena de tatuagem altamente detalhada. Quarto minimalista e sombrio dos anos 1990, pouca luz, renderização realista, profundidade de campo rasa, baixa saturação de cor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a80c3ac9ad0bfdbfb89b5afbb43bd268/thumbnails/thumbnail.jpg" width="600" alt="Tatuagem de Mansão Gótica nas Costas">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5083)**
-
-**Author:** [NYXEN](https://x.com/NYXEN_77) | **Source:** [Link](https://x.com/NYXEN_77/status/2056902373235441850) | **Published:** May 20, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2189,6 +2176,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-30T07:05:19.211Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-30T10:18:43.887Z</sub>
 
 </div>

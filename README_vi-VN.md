@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1689** |
+| 📝 Total Prompts | **1696** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-30** |
 
@@ -189,6 +189,140 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Năng lượng cầu vồng từ di vật kim loại
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh mô tả việc tạo ra một di vật kim loại giải phóng năng lượng cầu vồng thông qua một vòng xoáy vũ trụ.
+
+#### 📝 Prompt
+
+```
+Một di vật kim loại bóng bẩy nứt ra, giải phóng những dòng năng lượng cầu vồng cuộn trào xoáy qua một vòng xoáy vũ trụ. Từ trạng thái tĩnh lặng đến chuyển động thuần túy. Sự biến đổi siêu thực ở mức độ tinh xảo nhất.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3eae5df29267be22b3a70ca8eb2d9485/thumbnails/thumbnail.jpg" width="600" alt="Năng lượng cầu vồng từ di vật kim loại">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5476)**
+
+**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2060523955748827371) | **Published:** May 30, 2026
+
+---
+### Tàn tích Nghi lễ Năng lượng Vũ trụ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) cho khung cảnh siêu thực với cây cầu phát sáng truyền dẫn năng lượng qua các di vật và tàn tích cổ đại lơ lửng.
+
+#### 📝 Prompt
+
+```
+Một cây cầu phát sáng siêu thực truyền dẫn nguồn năng lượng thô qua các di vật và tàn tích cổ đại lơ lửng, trong khi những tia sét đánh xuống và một vòng xoắn ốc vàng thức tỉnh. Sự siêu việt thuần túy. Những điều kỳ lạ mang tính thử nghiệm ở trạng thái đỉnh cao.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7d085bdb4682b7e3a44dc8890d04364a/thumbnails/thumbnail.jpg" width="600" alt="Tàn tích Nghi lễ Năng lượng Vũ trụ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5477)**
+
+**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2060516623694352611) | **Published:** May 30, 2026
+
+---
+### Sự tan chảy vũ trụ siêu thực đầy ảo giác
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh cho khung cảnh ảo giác mãnh liệt với những chiếc đồng hồ tan chảy, mật ong nhỏ giọt và những cây nấm ngoài hành tinh bùng nổ thành ánh sáng.
+
+#### 📝 Prompt
+
+```
+Những chiếc đồng hồ tan chảy, bàn tay lơ lửng, mật ong nhỏ giọt và các sinh vật nấm ngoài hành tinh trôi nổi qua một cơn lốc vũ trụ… cho đến khi mọi thứ bùng nổ thành ánh sáng thuần khiết. Cực kỳ kỳ lạ. Cực kỳ chất.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d52ce38635e8ddb7671a77fd3aafc7f3/thumbnails/thumbnail.jpg" width="600" alt="Sự tan chảy vũ trụ siêu thực đầy ảo giác">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5478)**
+
+**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2060514167744819488) | **Published:** May 30, 2026
+
+---
+### Tác phẩm điêu khắc vàng nóng chảy siêu thực
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh siêu thực để tạo ra tác phẩm điêu khắc trang sức thức tỉnh giữa sa mạc và phun trào thành vàng nóng chảy với những chiếc đồng hồ tan chảy trong tinh vân.
+
+#### 📝 Prompt
+
+```
+Tác phẩm điêu khắc trang sức siêu thực thức tỉnh trong một sa mạc tựa giấc mơ, phun trào thành vàng nóng chảy khi những chiếc đồng hồ tan chảy trôi nổi giữa tinh vân xoáy. Một vẻ đẹp hỗn loạn đầy chất siêu thực.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/001d76ad71b3547c9565e0c9c8937870/thumbnails/thumbnail.jpg" width="600" alt="Tác phẩm điêu khắc vàng nóng chảy siêu thực">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5475)**
+
+**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2060510856371200209) | **Published:** May 29, 2026
+
+---
+### Video về những cái cây thả rông đầy siêu thực
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) siêu thực để tạo video về những cái cây có hành vi giống như gà đang đi lại trên cánh đồng.
+
+#### 📝 Prompt
+
+```
+Hãy tạo một video về những cái cây thả rông đang kiếm ăn trên cánh đồng giống như gà thả rông, nhưng chúng vẫn là những cái cây
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0150348d25d7eabb77d43d2ec9e6f179/thumbnails/thumbnail.jpg" width="600" alt="Video về những cái cây thả rông đầy siêu thực">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5473)**
+
+**Author:** [Natertottzz.eth](https://x.com/Natertottzz) | **Source:** [Link](https://x.com/Natertottzz/status/2060458264131703233) | **Published:** May 29, 2026
+
+---
+### Hoa kim ngân trong ánh sáng mơ màng pastel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt thanh bình với những bông hoa kim ngân nhẹ nhàng đung đưa trong ánh sáng mơ màng pastel cùng những cánh hoa bay trong gió.
+
+#### 📝 Prompt
+
+```
+Những bông hoa kim ngân nhẹ nhàng đung đưa trong ánh sáng mơ màng pastel… Một khoảnh khắc tĩnh lặng nơi những cánh hoa bay bổng và những giấc mơ dịu dàng nở rộ.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/213b1edc60b83e250bf43d7411a32876/thumbnails/thumbnail.jpg" width="600" alt="Hoa kim ngân trong ánh sáng mơ màng pastel">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5474)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2060324137583931885) | **Published:** May 29, 2026
+
+---
+### Sinh vật ngoài hành tinh bảo vệ tàu vũ trụ khỏi Godzilla
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh hành động phức tạp mô tả một sinh vật ngoài hành tinh quái dị đang bảo vệ tàu vũ trụ trước một con Godzilla khổng lồ.
+
+#### 📝 Prompt
+
+```
+Sinh vật ngoài hành tinh quái dị tỉ mỉ bảo vệ tàu vũ trụ khỏi Godzilla khổng lồ
+:} 360 € *^\ £ę ( godzilla ngã xuống đầy yếu ớt )
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c9ec622fbd7b3348c40d18d337685c7e/thumbnails/thumbnail.jpg" width="600" alt="Sinh vật ngoài hành tinh bảo vệ tàu vũ trụ khỏi Godzilla">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5472)**
+
+**Author:** [Notzucow](https://x.com/Notzucow69) | **Source:** [Link](https://x.com/Notzucow69/status/2060171388430729222) | **Published:** May 29, 2026
+
+---
 ### Video người phụ nữ cho ngựa ăn trong vườn cây ăn quả
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1981,153 +2115,6 @@ Một bức tranh nghệ thuật tinh tế và nhẹ nhàng về bông hoa màu 
 **Author:** [Carina](https://x.com/Freehere3) | **Source:** [Link](https://x.com/Freehere3/status/2057096040642465953) | **Published:** May 20, 2026
 
 ---
-### Chuyện tình lãng mạn trong bếp cùng cô nàng xăm mình
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt thú vị với hình ảnh một người phụ nữ xăm mình và một người đàn ông trong căn bếp cùng những trái tim lãng mạn bay bổng.
-
-#### 📝 Prompt
-
-```
-Một người phụ nữ xăm mình mặc áo xanh cùng một người đàn ông trong căn bếp với tiền mặt, xung quanh là những trái tim bay bổng tạo nên bầu không khí đầy yêu thương và vui vẻ.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4bfed87a5bec1711f7798c8d56fb0671/thumbnails/thumbnail.jpg" width="600" alt="Chuyện tình lãng mạn trong bếp cùng cô nàng xăm mình">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5078)**
-
-**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2057094935711461648) | **Published:** May 20, 2026
-
----
-### Biến hình Giáp Cyberpunk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) điện ảnh chuyên nghiệp cho video dài 6 giây mô tả quá trình biến hình giáp phức tạp trong thành phố cyberpunk dưới mưa.
-
-#### 📝 Prompt
-
-```
-Video live-action chân thực 8K chuẩn điện ảnh, 6 giây, siêu thực, quay bằng máy ARRI Alexa 65 với ống kính anamorphic, hạt phim tinh tế, chỉnh màu điện ảnh.
-
-Chủ thể: Chính xác là người phụ nữ trẻ đẹp đến nghẹt thở từ hình ảnh tham chiếu — đường nét khuôn mặt thanh tú, đôi mắt xanh ấn tượng, làn da không tì vết với những điểm nhấn phát sáng cyber nhẹ nhàng, mái tóc dài bồng bềnh màu xanh bạc với các hạt lấp lánh. Cô ấy đang mặc một bộ giáp-váy cyberpunk kiểu Transformer cấp độ cao, tối tân: một bộ đồ hybrid ôm sát cơ thể làm từ latex công nghệ cao trong suốt và tinh thể, kết hợp hoàn hảo giữa thẩm mỹ tinh thể phát sáng ban đầu của cô với các lớp mạ cybernetic màu đen nhám và chrome bóng bẩy, mạch điện neon xanh dương phát sáng, các đường năng lượng màu đỏ tươi đang đập và các phân đoạn cơ khí đang dịch chuyển. Các tinh thể holographic phức tạp và những mảnh dữ liệu trôi nổi bao quanh cơ thể cô. Bộ giáp có các chi tiết biến hình cơ khí tinh tế — các tấm giáp khớp nối, mở ra và tái cấu trúc với các tia plasma màu xanh dương.
-
-Bối cảnh: Siêu đô thị cyberpunk tối tăm, đầy mưa vào ban đêm. Những tòa nhà chọc trời neon cao chót vót, phương tiện bay, bảng quảng cáo holographic khổng lồ, đường phố ướt át phản chiếu ánh sáng. Mưa nặng hạt, sương mù dày đặc, những tia sáng xuyên qua màn sương, ánh sáng màu xanh cyan, đỏ tươi và xanh điện rực rỡ.
-
-Chuyển động camera & hành động (6 giây):
-- 0-2s: Cận cảnh góc thấp đầy kịch tính khi cô đứng đầy quyền năng, mái tóc bay mạnh mẽ trong gió. Bộ giáp cyber của cô bắt đầu biến hình — các tấm tinh thể dịch chuyển mượt mà thành các phân đoạn cơ khí kiểu Transformer với năng lượng phát sáng.
-- 2-4s: Cô từ từ giơ tay lên; các giao diện năng lượng holographic màu xanh dương và đôi cánh năng lượng trong suốt thoáng hiện ra từ sau lưng. Những giọt mưa xèo xèo và bốc hơi trên bộ giáp đang phát sáng của cô.
-- 4-6s: Cú quay lùi chậm đầy hoành tráng để lộ toàn bộ bóng dáng quyền năng của cô đang lơ lửng nhẹ trên con phố ướt, hiệu ứng lóe sáng (lens flare) ấn tượng, tóc và các chi tiết giáp di chuyển với độ nhòe chuyển động điện ảnh.
-
-Chi tiết siêu thực, giải phẫu hoàn hảo, vật lý vải và kim loại chân thực, bề mặt ướt phản chiếu, hiệu ứng hạt phức tạp, độ sâu trường ảnh, ánh sáng điện ảnh đầy tâm trạng. Hiệu ứng hình ảnh kiệt tác, chuỗi biến hình lấy cảm hứng từ Transformers đẳng cấp, bầu không khí cyberpunk tối tăm, chi tiết cao, tâm trạng mạnh mẽ và đầy cảm xúc.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5b9e627bc8e55dbddca444f262920337/thumbnails/thumbnail.jpg" width="600" alt="Biến hình Giáp Cyberpunk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5084)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2057088402445459694) | **Published:** May 20, 2026
-
----
-### Cung Thủ Chiến Binh Điều Khiển Học
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh được cách điệu sử dụng các ký hiệu phức tạp để mô tả một nhân vật mặc giáp kim cương tím với cây cung laser.
-
-#### 📝 Prompt
-
-```
-< tóc vàng bồng bềnh đen > tĩnh mạch tím >
-¥ { giáp kim cương phản quang màu tím }
-( cung laser cắt bằng hợp kim beridium các tia sáng )
-^{ * { đôi mắt xanh lục lam tuyệt đẹp } ( nhìn chằm chằm )
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/52e559488c2320f468643178ad268316/thumbnails/thumbnail.jpg" width="600" alt="Cung Thủ Chiến Binh Điều Khiển Học">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5085)**
-
-**Author:** [Notzucow](https://x.com/Notzucow69) | **Source:** [Link](https://x.com/Notzucow69/status/2057004072746500293) | **Published:** May 20, 2026
-
----
-### Cảnh nàng tiên cá huyền ảo dưới đáy đại dương
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh mô tả chi tiết cho video điện ảnh về nàng tiên cá được bao quanh bởi những bong bóng, thể hiện nhiều biểu cảm cảm xúc khác nhau.
-
-#### 📝 Prompt
-
-```
-Hãy ngắm nhìn nàng tiên cá này, tỏa sáng đầy kiêu hãnh. Những bong bóng trôi nổi xung quanh, tạo thêm nét tinh nghịch. Nàng nghiêng đầu, chìm đắm trong suy tư, rồi tập trung đầy mãnh liệt. Trong tư thế ngồi, nàng trầm ngâm, đôi tay đan vào nhau. Nàng thổi một nụ hôn nhẹ nhàng.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/15e5693afd05597fb5ecf976e8eda7da/thumbnails/thumbnail.jpg" width="600" alt="Cảnh nàng tiên cá huyền ảo dưới đáy đại dương">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5050)**
-
-**Author:** [BizPunk72](https://x.com/bixxs) | **Source:** [Link](https://x.com/bixxs/status/2056948566933782740) | **Published:** May 20, 2026
-
----
-### Tia laser từ vệ tinh Starlink
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý mang tính khái niệm mô tả các vệ tinh Starlink đang bắn tia laser lên tường, kết hợp với lời thoại của nhân vật.
-
-#### 📝 Prompt
-
-```
-@image1 trên tường là các vệ tinh Starlink đang bắn tia laser. Cô ấy nói Làm sao những tiêu đề này được phép tồn tại?... @imagine @grok Thành phần còn thiếu của sự khó chịu. 🔥🫶☕️💫
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f383250202d5781d1c9a9787a907ac16/thumbnails/thumbnail.jpg" width="600" alt="Tia laser từ vệ tinh Starlink">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5080)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2056937301347901503) | **Published:** May 20, 2026
-
----
-### Hoạt ảnh thằn lằn bay
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Hướng dẫn lấy một vật thể giống thằn lằn bay và tạo hoạt ảnh cho nó bay xa dần vào khoảng không.
-
-#### 📝 Prompt
-
-```
-Grok, hãy nhìn vật thể trông giống thằn lằn bay này, bạn có thể làm cho nó bay lên và bay xa dần vào khoảng không được không
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e074c6f0245c38b8830e95923e9a8d9f/thumbnails/thumbnail.jpg" width="600" alt="Hoạt ảnh thằn lằn bay">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5086)**
-
-**Author:** [(PRESS)Scotty Fife (aka) NevNukeMonster](https://x.com/fife_scotty680) | **Source:** [Link](https://x.com/fife_scotty680/status/2056905441091977384) | **Published:** May 20, 2026
-
----
-### Hình xăm biệt thự Gothic trên lưng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) mô tả thẩm mỹ điện ảnh và u tối về một người phụ nữ với hình xăm biệt thự Gothic cực kỳ chi tiết trên lưng trong bối cảnh thập niên 90.
-
-#### 📝 Prompt
-
-```
-Người phụ nữ ngồi khoanh chân trên sàn, quay lưng về phía máy ảnh và hơi nghiêng đầu nhìn lại, toàn bộ phần lưng để lộ ra để khoe trọn hình xăm kín lưng, cô mặc quần jeans thụng với thắt lưng đen đính đinh tán. Cô có mái tóc đen dài được búi cao bằng kẹp, tóc mái thưa, đôi mắt nâu sẫm, lông mày mảnh, đôi môi đầy đặn, làn da sáng với kết cấu và lỗ chân lông tự nhiên, cô đeo khuyên tai đen nhỏ. Hình xăm trên lưng cô là một biệt thự lớn theo phong cách Gothic thời Victoria với các chi tiết trang trí công phu, cùng hình ảnh rồng bay và các họa tiết xăm bổ trợ xung quanh tác phẩm chính, sử dụng mực đen, xám và trắng, cảnh tượng hình xăm vô cùng chi tiết. Căn phòng tối giản phong cách thập niên 1990, ánh sáng yếu, kết xuất chân thực, độ sâu trường ảnh nông, độ bão hòa màu thấp.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a80c3ac9ad0bfdbfb89b5afbb43bd268/thumbnails/thumbnail.jpg" width="600" alt="Hình xăm biệt thự Gothic trên lưng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5083)**
-
-**Author:** [NYXEN](https://x.com/NYXEN_77) | **Source:** [Link](https://x.com/NYXEN_77/status/2056902373235441850) | **Published:** May 20, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2189,6 +2176,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-30T07:05:05.937Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-30T10:18:31.462Z</sub>
 
 </div>

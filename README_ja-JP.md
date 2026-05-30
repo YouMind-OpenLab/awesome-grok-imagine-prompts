@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **1689** |
+| 📝 プロンプト総数 | **1696** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-05-30** |
 
@@ -189,6 +189,140 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### メタリック・レリック・レインボー・エネルギー
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 宇宙の渦を通して虹色のエネルギーを解き放つ、メタリックな遺物を生成するための記述的なプロンプト。
+
+#### 📝 プロンプト
+
+```
+洗練されたメタリックな遺物がひび割れ、虹色のエネルギーの奔流が宇宙の渦の中を螺旋状に駆け巡る。静寂から純粋な躍動へ。最高にシュールな変容。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3eae5df29267be22b3a70ca8eb2d9485/thumbnails/thumbnail.jpg" width="600" alt="メタリック・レリック・レインボー・エネルギー">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5476)**
+
+**作者:** [James King](https://x.com/JamesKi97287119) | **ソース:** [Link](https://x.com/JamesKi97287119/status/2060523955748827371) | **公開日:** May 30, 2026
+
+---
+### 宇宙エネルギーの儀式跡
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 浮かぶ古代の遺物や遺跡を通してエネルギーを送り込む、光り輝く橋を描いたシュールなシーンのためのプロンプト。
+
+#### 📝 プロンプト
+
+```
+稲妻が走り、黄金の螺旋が目覚める中、浮かぶ遺物と古代の遺跡を通して生のエネルギーを送り込む、光り輝くシュールな橋。純粋で超越的なシュールレアリスム。実験的な奇妙さが極まった世界観。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7d085bdb4682b7e3a44dc8890d04364a/thumbnails/thumbnail.jpg" width="600" alt="宇宙エネルギーの儀式跡">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5477)**
+
+**作者:** [James King](https://x.com/JamesKi97287119) | **ソース:** [Link](https://x.com/JamesKi97287119/status/2060516623694352611) | **公開日:** May 30, 2026
+
+---
+### サイケデリックでシュールな宇宙のメルトダウン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 溶け出す時計、滴る蜂蜜、光となって爆発するエイリアンのキノコなど、強烈なサイケデリックシーンを描くためのプロンプト。
+
+#### 📝 プロンプト
+
+```
+溶け出す時計、浮遊する手、滴る蜂蜜、そしてエイリアンのキノコのような生物が宇宙の渦の中を漂い……すべてが純粋な光となって爆発する。最高に奇妙で、最高にクールな世界観。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d52ce38635e8ddb7671a77fd3aafc7f3/thumbnails/thumbnail.jpg" width="600" alt="サイケデリックでシュールな宇宙のメルトダウン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5478)**
+
+**作者:** [James King](https://x.com/JamesKi97287119) | **ソース:** [Link](https://x.com/JamesKi97287119/status/2060514167744819488) | **公開日:** May 30, 2026
+
+---
+### シュールな溶融金の彫刻
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 砂漠で目覚め、溶けた時計が漂う星雲の中で溶融金へと変化する、ジュエリー彫刻を生成するためのシュールなプロンプト。
+
+#### 📝 プロンプト
+
+```
+夢のような砂漠で目覚めるシュールなジュエリー彫刻。渦巻く星雲の中を溶けた時計が漂い、彫刻は溶融金へと姿を変える。純粋なシュールレアリスムの混沌と美しさ。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/001d76ad71b3547c9565e0c9c8937870/thumbnails/thumbnail.jpg" width="600" alt="シュールな溶融金の彫刻">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5475)**
+
+**作者:** [James King](https://x.com/JamesKi97287119) | **ソース:** [Link](https://x.com/JamesKi97287119/status/2060510856371200209) | **公開日:** May 29, 2026
+
+---
+### シュールな放し飼いの木々の動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 野原で鶏のように振る舞う木々をフィーチャーした、シュールな動画用プロンプト。
+
+#### 📝 プロンプト
+
+```
+放し飼いの鶏のように野原で餌をついばむ木々の動画を作成してください。ただし、被写体はあくまで木であること
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0150348d25d7eabb77d43d2ec9e6f179/thumbnails/thumbnail.jpg" width="600" alt="シュールな放し飼いの木々の動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5473)**
+
+**作者:** [Natertottzz.eth](https://x.com/Natertottzz) | **ソース:** [Link](https://x.com/Natertottzz/status/2060458264131703233) | **公開日:** May 29, 2026
+
+---
+### スイカズラのパステルドリームライト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> パステルカラーの夢のような光の中で、スイカズラの花が優しく揺れ、花びらが舞い散る穏やかな動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+パステルカラーの夢のような光の中で、優しく揺れるスイカズラの花……花びらが舞い、穏やかな夢が花開く静かなひととき。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/213b1edc60b83e250bf43d7411a32876/thumbnails/thumbnail.jpg" width="600" alt="スイカズラのパステルドリームライト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5474)**
+
+**作者:** [Stella 𝕏](https://x.com/StellaGrokStar) | **ソース:** [Link](https://x.com/StellaGrokStar/status/2060324137583931885) | **公開日:** May 29, 2026
+
+---
+### ゴジラから宇宙船を守るエイリアンクリーチャー
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 巨大なゴジラから宇宙船を守るモンスターエイリアンを描いた、複雑なアクションプロンプト。
+
+#### 📝 プロンプト
+
+```
+巨大なゴジラから宇宙船を守る緻密なモンスターエイリアン
+:} 360 € *^\ £ę ( ゴジラが弱々しく倒れる )
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c9ec622fbd7b3348c40d18d337685c7e/thumbnails/thumbnail.jpg" width="600" alt="ゴジラから宇宙船を守るエイリアンクリーチャー">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5472)**
+
+**作者:** [Notzucow](https://x.com/Notzucow69) | **ソース:** [Link](https://x.com/Notzucow69/status/2060171388430729222) | **公開日:** May 29, 2026
+
+---
 ### 果樹園で馬に餌をやる女性の動画
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1981,153 +2115,6 @@ solid body slowly blurs and dissolves as if fading at the speed of light, reveal
 **作者:** [Carina](https://x.com/Freehere3) | **ソース:** [Link](https://x.com/Freehere3/status/2057096040642465953) | **公開日:** May 20, 2026
 
 ---
-### タトゥーのある女性とキッチンのロマンス
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> タトゥーのある女性と男性がキッチンで過ごす、ハートが浮かぶロマンチックで楽しい動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-緑のトップスを着たタトゥーのある女性と男性がキッチンにいて、周りにはお金が舞い、ハートが浮かぶ楽しげで愛にあふれた雰囲気の動画。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4bfed87a5bec1711f7798c8d56fb0671/thumbnails/thumbnail.jpg" width="600" alt="タトゥーのある女性とキッチンのロマンス">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5078)**
-
-**作者:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **ソース:** [Link](https://x.com/maggiejuang1/status/2057094935711461648) | **公開日:** May 20, 2026
-
----
-### サイバーパンク・アーマーの変身
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 雨の降るサイバーパンク都市で、複雑なアーマーが変身する様子を描いた 6 秒間の動画用プロフェッショナル・シネマティック・プロンプト。
-
-#### 📝 プロンプト
-
-```
-シネマティックな 8K 超リアル・実写動画、6 秒間、フォトリアル、ARRI Alexa 65 とアナモフィックレンズで撮影、繊細なフィルムグレイン、シネマティックなカラーグレーディング。
-
-被写体：リファレンス画像と全く同じ、息をのむほど美しい若い女性。繊細な顔立ち、印象的な青い瞳、柔らかなサイバーグローのハイライトが映える完璧な肌、きらめく粒子をまとったボリューム感のある青銀色の髪。彼女は超高度で次世代のトランスフォーマー風サイバーパンク・アーマー・ドレスを着用。体にフィットする半透明のハイテク・ラテックスとクリスタルのハイブリッドスーツで、元の輝くクリスタルの美学と、滑らかなマットブラックおよびクロームのサイバーネティック・メッキ、光るネオンブルーの回路、脈動するマゼンタのエネルギー脈、そして変形する機械的なセグメントがシームレスに融合している。複雑なホログラフィック・クリスタルと浮遊するデータのかけらが彼女の周囲を漂う。スーツには微細な機械的変形のディテールがあり、プレートがカチリと音を立てて展開し、青いプラズマアークとともに再構成される。
-
-シーン：夜の暗く雨の降るサイバーパンク・メガシティ。そびえ立つネオンの摩天楼、空飛ぶ乗り物、巨大なホログラフィック看板、濡れて反射する路面。激しいボリューム感のある雨、大気中の霧、霧を切り裂くゴッドレイ、鮮やかなシアン、マゼンタ、エレクトリックブルーのライティング。
-
-カメラワークとアクション（6 秒間）：
-- 0～2秒：彼女が力強く立ち、風になびく髪がドラマチックな、ローアングルからのオービット・クローズアップ。サイバー・アーマーが変身を開始し、クリスタルのプレートが輝くエネルギーを伴い、滑らかに機械的なトランスフォーマーのセグメントへと変化する。
-- 2～4秒：彼女がゆっくりと両手を上げると、ホログラフィックな青いエネルギーのインターフェースと半透明のエネルギーの翼が背中から一瞬現れる。雨粒が光るスーツの上でジリジリと蒸発する。
-- 4～6秒：濡れた路面からわずかに浮遊する彼女の力強いシルエットを捉える、壮大なスロー・プルバック・ショット。ドラマチックなレンズフレア、髪とアーマーの要素がシネマティックなモーションブラーとともに動く。
-
-超フォトリアルなディテール、完璧な解剖学的構造、リアルな布地と金属の物理演算、反射する濡れた表面、複雑なパーティクルエフェクト、被写界深度、ムードのあるシネマティックなライティング。傑作の視覚効果、次世代のトランスフォーマーにインスパイアされた変身シークエンス、ダークなサイバーパンクの雰囲気、高精細で感情的かつパワフルなムード。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5b9e627bc8e55dbddca444f262920337/thumbnails/thumbnail.jpg" width="600" alt="サイバーパンク・アーマーの変身">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5084)**
-
-**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **ソース:** [Link](https://x.com/ThoughCreator/status/2057088402445459694) | **公開日:** May 20, 2026
-
----
-### サイバネティック・ウォリアー・ボウ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 紫色のダイヤモンドの鎧を纏い、レーザーの弓を構えたキャラクターを描写するための、複雑な記号を用いたスタイライズド・プロンプトです。
-
-#### 📝 プロンプト
-
-```
-< 黒くふわふわした金髪 >紫の血管 >
-¥ { 紫色の反射するダイヤモンドの鎧 }
-( ベリリウム合金のボルトを放つ光るレーザーの弓 )
-^{ * { 美しい緑と青の瞳 } ( 凝視 )
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/52e559488c2320f468643178ad268316/thumbnails/thumbnail.jpg" width="600" alt="サイバネティック・ウォリアー・ボウ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5085)**
-
-**作者:** [Notzucow](https://x.com/Notzucow69) | **ソース:** [Link](https://x.com/Notzucow69/status/2057004072746500293) | **公開日:** May 20, 2026
-
----
-### 幻想的な人魚の水中シーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 泡に囲まれた人魚がさまざまな感情を表現する、映画のようなビデオのための詳細な記述プロンプト。
-
-#### 📝 プロンプト
-
-```
-誇らしげに輝く人魚をご覧ください。周囲に浮かぶ泡が遊び心を添えています。彼女は首をかしげて物思いにふけった後、鋭い眼差しを向けます。座った姿勢で手を組み、思索にふける様子。そして、優しく投げキッスをします。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/15e5693afd05597fb5ecf976e8eda7da/thumbnails/thumbnail.jpg" width="600" alt="幻想的な人魚の水中シーン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5050)**
-
-**作者:** [BizPunk72](https://x.com/bixxs) | **ソース:** [Link](https://x.com/bixxs/status/2056948566933782740) | **公開日:** May 20, 2026
-
----
-### Starlink 衛星のレーザー光線
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Starlink 衛星が壁に向かってレーザービームを照射している様子を描いたコンセプトプロンプト。キャラクターのセリフも含まれています。
-
-#### 📝 プロンプト
-
-```
-@image1 壁に Starlink 衛星がレーザービームを照射している。彼女は「どうしてこんな見出しが許されるの？」と言う... @imagine @grok 苛立ちという名の欠けている要素。🔥🫶☕️💫
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f383250202d5781d1c9a9787a907ac16/thumbnails/thumbnail.jpg" width="600" alt="Starlink 衛星のレーザー光線">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5080)**
-
-**作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **ソース:** [Link](https://x.com/clemensilverio/status/2056937301347901503) | **公開日:** May 20, 2026
-
----
-### プテラノドンの飛行アニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> プテラノドンのようなオブジェクトをアニメーション化し、遠くへ飛び去るようにする指示です。
-
-#### 📝 プロンプト
-
-```
-Grok 、この鳥やプテラノドンのようなオブジェクトを立ち上がらせて、遠くへ飛び去るようにアニメーション化できますか？
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e074c6f0245c38b8830e95923e9a8d9f/thumbnails/thumbnail.jpg" width="600" alt="プテラノドンの飛行アニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5086)**
-
-**作者:** [(PRESS)Scotty Fife (aka) NevNukeMonster](https://x.com/fife_scotty680) | **ソース:** [Link](https://x.com/fife_scotty680/status/2056905441091977384) | **公開日:** May 20, 2026
-
----
-### ゴシックマンションの背中タトゥー
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 90 年代を舞台に、背中に精巧なゴシックマンションのタトゥーを入れた女性を描く、映画的でダークな美学のプロンプト。
-
-#### 📝 プロンプト
-
-```
-床に足を組んで座り、カメラに背を向けながら、わずかに顔を振り返ってこちらを見つめる女性。背中全体が露わになっており、背中一面のタトゥーが強調されている。服装はスタッズ付きの黒いベルトを合わせたバギーパンツ。黒髪のロングヘアをクリップで留め、薄い前髪、ダークブラウンの瞳、細い眉、ふっくらとした唇。肌は明るく、自然な質感と毛穴までリアルに表現されている。耳には小さな黒いゲージピアス。背中のタトゥーは、装飾が施されたヴィクトリア朝様式の巨大なゴシックマンションで、周囲には龍が舞い、フィラー（隙間埋め）のタトゥーが描かれている。黒、グレー、白のインクを使用し、非常に精巧なタトゥーの描写。1990 年代のダークでミニマルな部屋、ローライト、リアルなレンダリング、浅い被写界深度、低彩度。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a80c3ac9ad0bfdbfb89b5afbb43bd268/thumbnails/thumbnail.jpg" width="600" alt="ゴシックマンションの背中タトゥー">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5083)**
-
-**作者:** [NYXEN](https://x.com/NYXEN_77) | **ソース:** [Link](https://x.com/NYXEN_77/status/2056902373235441850) | **公開日:** May 20, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2189,6 +2176,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-05-30T07:05:01.038Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-05-30T10:18:27.530Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1689** |
+| 📝 Total Prompts | **1696** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-30** |
 
@@ -189,6 +189,140 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Metalik Kalıntı Gökkuşağı Enerjisi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kozmik bir girdap aracılığıyla gökkuşağı enerjisini açığa çıkaran metalik bir kalıntı oluşturan betimleyici bir komut.
+
+#### 📝 Prompt
+
+```
+Şık ve metalik bir kalıntı çatlayarak açılıyor ve kozmik bir girdabın içinde sarmallar çizen gökkuşağı enerjisi nehirlerini serbest bırakıyor. Durağanlıktan saf harekete. Sürreal dönüşümün en iyi hali.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3eae5df29267be22b3a70ca8eb2d9485/thumbnails/thumbnail.jpg" width="600" alt="Metalik Kalıntı Gökkuşağı Enerjisi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5476)**
+
+**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2060523955748827371) | **Published:** May 30, 2026
+
+---
+### Kozmik Enerji Ritüeli Kalıntıları
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yüzen antik kalıntılar ve harabeler aracılığıyla güç aktaran, parlayan bir köprünün yer aldığı sürreal bir sahne için komut.
+
+#### 📝 Prompt
+
+```
+Yıldırımlar çakarken ve altın bir sarmal uyanırken, parlayan sürreal bir köprü yüzen kalıntılar ve antik harabeler aracılığıyla saf gücü kanalize ediyor. Saf sürreal aşkınlık. En iyi haliyle deneysel tuhaflık.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7d085bdb4682b7e3a44dc8890d04364a/thumbnails/thumbnail.jpg" width="600" alt="Kozmik Enerji Ritüeli Kalıntıları">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5477)**
+
+**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2060516623694352611) | **Published:** May 30, 2026
+
+---
+### Saykodelik Sürreal Kozmik Çözülme
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Eriyen saatler, damlayan bal ve ışığa dönüşerek patlayan uzaylı mantarlarıyla yoğun bir saykodelik sahne için komut.
+
+#### 📝 Prompt
+
+```
+Eriyen saatler, havada asılı eller, damlayan bal ve uzaylı mantar yaratıklar kozmik bir girdabın içinde süzülüyor… ta ki her şey saf bir ışığa dönüşene kadar. Maksimum tuhaflık. Maksimum havalılık.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d52ce38635e8ddb7671a77fd3aafc7f3/thumbnails/thumbnail.jpg" width="600" alt="Saykodelik Sürreal Kozmik Çözülme">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5478)**
+
+**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2060514167744819488) | **Published:** May 30, 2026
+
+---
+### Sürreal Erimiş Altın Heykel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir çölde uyanan ve bulutsu içinde eriyen saatlerle birlikte erimiş altına dönüşen bir mücevher heykeli oluşturmak için sürreal bir komut.
+
+#### 📝 Prompt
+
+```
+Sürreal mücevher heykeli rüya gibi bir çölde uyanıyor, eriyen saatler dönen bir bulutsunun içinde süzülürken erimiş altına dönüşüyor. Saf sürreal kaos ve güzellik.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/001d76ad71b3547c9565e0c9c8937870/thumbnails/thumbnail.jpg" width="600" alt="Sürreal Erimiş Altın Heykel">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5475)**
+
+**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2060510856371200209) | **Published:** May 29, 2026
+
+---
+### Sürreal Serbest Gezen Ağaçlar Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir tarlada tavuklar gibi davranan ağaçları konu alan sürreal bir video istemi.
+
+#### 📝 Prompt
+
+```
+Bir tarlada serbest gezen tavuklar gibi beslenen, ancak ağaç olan serbest gezen ağaçların videosunu oluştur
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0150348d25d7eabb77d43d2ec9e6f179/thumbnails/thumbnail.jpg" width="600" alt="Sürreal Serbest Gezen Ağaçlar Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5473)**
+
+**Author:** [Natertottzz.eth](https://x.com/Natertottzz) | **Source:** [Link](https://x.com/Natertottzz/status/2060458264131703233) | **Published:** May 29, 2026
+
+---
+### Hanımeli Çiçekleri Pastel Düş Işığı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Pastel renkli düş ışığında hafifçe sallanan hanımeli çiçekleri ve süzülen taç yapraklarıyla huzur dolu bir video istemi.
+
+#### 📝 Prompt
+
+```
+Pastel düş ışığında nazikçe sallanan hanımeli çiçekleri… Taç yaprakların süzüldüğü ve nazik hayallerin yeşerdiği dingin bir an.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/213b1edc60b83e250bf43d7411a32876/thumbnails/thumbnail.jpg" width="600" alt="Hanımeli Çiçekleri Pastel Düş Işığı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5474)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2060324137583931885) | **Published:** May 29, 2026
+
+---
+### Starship'i Godzilla'ya karşı koruyan uzaylı yaratık
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Dev bir Godzilla'ya karşı uzay gemisini savunan canavar bir uzaylıyı konu alan karmaşık bir aksiyon istemi.
+
+#### 📝 Prompt
+
+```
+Dev Godzilla'ya Karşı Starship'i Koruyan Detaylı Canavar Uzaylı Yaratık
+:} 360 € *^\ £ę ( godzilla sızlanarak düşer )
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c9ec622fbd7b3348c40d18d337685c7e/thumbnails/thumbnail.jpg" width="600" alt="Starship'i Godzilla'ya karşı koruyan uzaylı yaratık">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5472)**
+
+**Author:** [Notzucow](https://x.com/Notzucow69) | **Source:** [Link](https://x.com/Notzucow69/status/2060171388430729222) | **Published:** May 29, 2026
+
+---
 ### Meyve Bahçesinde At Besleyen Kadın Videosu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1981,153 +2115,6 @@ Görünen fırça darbeleriyle dokulu bir yağlı boya tablosu ruhunu yansıtan;
 **Author:** [Carina](https://x.com/Freehere3) | **Source:** [Link](https://x.com/Freehere3/status/2057096040642465953) | **Published:** May 20, 2026
 
 ---
-### Dövmeli Kadın Mutfakta Romantizm
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mutfakta dövmeli bir kadın ve bir erkeğin yer aldığı, etrafta uçuşan romantik kalplerle süslü eğlenceli bir video istemi.
-
-#### 📝 Prompt
-
-```
-Yeşil üstlü dövmeli bir kadın ve mutfakta paralarla birlikte duran bir adam; etrafları eğlenceli ve sevgi dolu bir atmosferde uçuşan kalplerle çevrili.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4bfed87a5bec1711f7798c8d56fb0671/thumbnails/thumbnail.jpg" width="600" alt="Dövmeli Kadın Mutfakta Romantizm">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5078)**
-
-**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2057094935711461648) | **Published:** May 20, 2026
-
----
-### Cyberpunk Zırh Dönüşümü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Yağmurlu bir cyberpunk şehrinde karmaşık bir zırh dönüşümünü gösteren 6 saniyelik video için profesyonel düzeyde sinematik komut (prompt).
-
-#### 📝 Prompt
-
-```
-Sinematik 8K hiper gerçekçi canlı çekim video, 6 saniye, fotogerçekçi, anamorfik lenslerle ARRI Alexa 65 ile çekilmiş, hafif film greni, sinematik renk düzenleme.
-
-Konu: Referans görseldeki nefes kesici güzellikteki genç kadının birebir aynısı — narin yüz hatları, çarpıcı mavi gözler, yumuşak siber parıltılı vurgulara sahip kusursuz bir cilt, parıldayan parçacıklarla hacimli, dalgalı mavi-gümüş saçlar. Üzerinde ultra gelişmiş, yeni nesil Transformer tarzı bir cyberpunk zırh-elbise var: orijinal parlayan kristal estetiğini pürüzsüz mat siyah ve krom sibernetik kaplamalarla, parlayan neon mavi devrelerle, atan macenta enerji damarlarıyla ve hareket eden mekanik bölümlerle kusursuz bir şekilde birleştiren, vücuda oturan, yarı saydam yüksek teknolojili lateks ve kristal hibrit bir kıyafet. Karmaşık holografik kristaller ve yüzen veri parçacıkları vücudunun etrafında dönüyor. Kıyafet, tıkırdayan, açılan ve mavi plazma arklarıyla yeniden yapılandırılan plakalar gibi ince mekanik dönüşüm detaylarına sahip.
-
-Sahne: Gece, karanlık ve yağmurlu bir cyberpunk mega şehri. Yüksek neon gökdelenler, uçan araçlar, devasa holografik reklam panoları, ıslak yansıtıcı sokaklar. Yoğun hacimsel yağmur, atmosferik sis, sisin içinden geçen tanrı ışıkları (god rays), canlı camgöbeği, macenta ve elektrik mavisi aydınlatma.
-
-Kamera hareketi ve aksiyon (6 saniye):
-- 0-2 sn: O güçlü bir şekilde dururken dramatik düşük açılı yörüngesel yakın çekim, saçları rüzgarda dramatik bir şekilde savruluyor. Siber zırhı dönüşmeye başlıyor — kristal plakalar, parlayan enerjiyle mekanik Transformer bölümlerine pürüzsüzce geçiş yapıyor.
-- 2-4 sn: Yavaşça ellerini kaldırıyor; holografik mavi enerji arayüzleri ve yarı saydam enerji kanatları kısa süreliğine sırtından beliriyor. Yağmur damlaları parlayan kıyafetinin üzerinde cızırdıyor ve buharlaşıyor.
-- 4-6 sn: Islak caddenin üzerinde hafifçe süzülen güçlü silüetini ortaya çıkaran epik yavaş geri çekilme çekimi, dramatik lens parlamaları, sinematik hareket bulanıklığıyla hareket eden saç ve zırh unsurları.
-
-Ultra fotogerçekçi detaylar, mükemmel anatomi, gerçekçi kumaş ve metal fiziği, yansıtıcı ıslak yüzeyler, karmaşık parçacık efektleri, alan derinliği, karamsar sinematik aydınlatma. Başyapıt görsel efektler, yeni nesil Transformers esintili dönüşüm sekansı, karanlık cyberpunk atmosferi, yüksek detaylı, duygusal ve güçlü bir atmosfer.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5b9e627bc8e55dbddca444f262920337/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Zırh Dönüşümü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5084)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2057088402445459694) | **Published:** May 20, 2026
-
----
-### Siberetik Savaşçı Yayı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Lazer yaylı, mor elmas zırhlı bir karakteri tanımlamak için karmaşık semboller kullanan stilize bir istem.
-
-#### 📝 Prompt
-
-```
-< siyah kabarık altın saçlar >mor damar >
-¥ { zırh mor yansıtıcı elmaslar }
-( yay lazer kesim beridyum alaşımlı parlayan cıvatalar )
-^{ * { gözler güzel yeşil mavi } ( bakış )
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/52e559488c2320f468643178ad268316/thumbnails/thumbnail.jpg" width="600" alt="Siberetik Savaşçı Yayı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5085)**
-
-**Author:** [Notzucow](https://x.com/Notzucow69) | **Source:** [Link](https://x.com/Notzucow69/status/2057004072746500293) | **Published:** May 20, 2026
-
----
-### Ethereal Mermaid Underwater Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir deniz kızının baloncuklarla çevrili olduğu, çeşitli duygusal ifadeler sergilediği sinematik bir video için ayrıntılı betimleyici istem.
-
-#### 📝 Prompt
-
-```
-Gururla parlayan bu deniz kızını izleyin. Etrafında süzülen baloncuklar, sahneye oyuncu bir dokunuş katıyor. Başını yana eğip düşüncelere dalıyor, ardından yoğun bir şekilde odaklanıyor. Oturduğu yerde ellerini kavuşturmuş bir şekilde derin düşüncelere dalıyor. Nazik bir öpücük gönderiyor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/15e5693afd05597fb5ecf976e8eda7da/thumbnails/thumbnail.jpg" width="600" alt="Ethereal Mermaid Underwater Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5050)**
-
-**Author:** [BizPunk72](https://x.com/bixxs) | **Source:** [Link](https://x.com/bixxs/status/2056948566933782740) | **Published:** May 20, 2026
-
----
-### Starlink Uydu Lazer Işınları
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Starlink uydularının bir duvara lazer ışınları ateşlediği ve bir karakterin diyaloğuyla bütünleştirilmiş kavramsal bir görsel istemi.
-
-#### 📝 Prompt
-
-```
-@image1 duvarda Starlink uyduları lazer ışınları ateşliyor. O şöyle diyor: Bu manşetlere nasıl izin veriliyor?... @imagine @grok Can sıkıntısının eksik malzemesi. 🔥🫶☕️💫
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f383250202d5781d1c9a9787a907ac16/thumbnails/thumbnail.jpg" width="600" alt="Starlink Uydu Lazer Işınları">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5080)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2056937301347901503) | **Published:** May 20, 2026
-
----
-### Uçan Pterodactyl Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Pterodactyl benzeri bir nesneyi alıp uzaklara doğru uçacak şekilde canlandırma talimatı.
-
-#### 📝 Prompt
-
-```
-Grok, şu kuş benzeri pterodactyl nesnesini görüyor musun? Onu ayağa kaldırıp uzaklara doğru uçurabilir misin?
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e074c6f0245c38b8830e95923e9a8d9f/thumbnails/thumbnail.jpg" width="600" alt="Uçan Pterodactyl Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5086)**
-
-**Author:** [(PRESS)Scotty Fife (aka) NevNukeMonster](https://x.com/fife_scotty680) | **Source:** [Link](https://x.com/fife_scotty680/status/2056905441091977384) | **Published:** May 20, 2026
-
----
-### Gotik Köşk Sırt Dövmesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 90'lar atmosferinde, sırtında oldukça detaylı bir gotik köşk dövmesi olan bir kadını betimleyen sinematik ve karanlık estetik bir komut.
-
-#### 📝 Prompt
-
-```
-Yerde bağdaş kurmuş oturan, sırtı kameraya dönük, başını hafifçe kameraya doğru çevirmiş bir kadın; tüm sırt dövmesini sergilemek için sırtı tamamen açık, üzerinde bol kesim kot pantolon ve zımbalı siyah bir kemer var. Uzun siyah saçları bir toka ile tutturulmuş, ince perçemleri, koyu kahverengi gözleri, ince kaşları, dolgun dudakları, doğal dokusu ve gözenekleri belirgin açık teni var, kulaklarında küçük siyah tünel küpeler bulunuyor. Sırtındaki dövme, süslü detaylara sahip, büyük ve Viktorya dönemi tarzında gotik bir köşk; ana parçanın etrafında dolgu dövme tarzında uçan bir ejderha figürü var, siyah, gri ve beyaz mürekkep kullanılmış, oldukça detaylı bir dövme sahnesi. Karanlık, minimalist 1990'lar odası, düşük ışık, gerçekçi render, sığ alan derinliği, düşük renk doygunluğu.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a80c3ac9ad0bfdbfb89b5afbb43bd268/thumbnails/thumbnail.jpg" width="600" alt="Gotik Köşk Sırt Dövmesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5083)**
-
-**Author:** [NYXEN](https://x.com/NYXEN_77) | **Source:** [Link](https://x.com/NYXEN_77/status/2056902373235441850) | **Published:** May 20, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2189,6 +2176,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-30T07:05:20.310Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-30T10:18:45.731Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **1689** |
+| 📝 총 프롬프트 수 | **1696** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-05-30** |
 
@@ -189,6 +189,140 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 메탈릭 유물 무지개 에너지
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 우주 소용돌이를 통해 무지개 에너지를 뿜어내는 메탈릭 유물을 생성하는 묘사형 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+매끄러운 메탈릭 유물이 갈라지며 우주 소용돌이를 타고 흐르는 무지개 에너지의 강줄기가 뿜어져 나옵니다. 정지 상태에서 순수한 움직임으로. 초현실적 변형의 정수를 보여줍니다.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3eae5df29267be22b3a70ca8eb2d9485/thumbnails/thumbnail.jpg" width="600" alt="메탈릭 유물 무지개 에너지">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5476)**
+
+**작성자:** [James King](https://x.com/JamesKi97287119) | **출처:** [Link](https://x.com/JamesKi97287119/status/2060523955748827371) | **게시일:** May 30, 2026
+
+---
+### 우주 에너지 의식의 유적
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 떠다니는 고대 유물과 유적을 통해 에너지를 전달하는 빛나는 다리를 특징으로 하는 초현실적인 장면을 위한 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+번개가 내리치고 황금빛 나선이 깨어나는 가운데, 떠다니는 유물과 고대 유적을 통해 원초적인 에너지를 전달하는 초현실적인 빛의 다리. 순수한 초현실적 초월. 실험적인 기묘함의 정수.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7d085bdb4682b7e3a44dc8890d04364a/thumbnails/thumbnail.jpg" width="600" alt="우주 에너지 의식의 유적">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5477)**
+
+**작성자:** [James King](https://x.com/JamesKi97287119) | **출처:** [Link](https://x.com/JamesKi97287119/status/2060516623694352611) | **게시일:** May 30, 2026
+
+---
+### 사이키델릭 초현실적 우주 멜트다운
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 녹아내리는 시계, 뚝뚝 떨어지는 꿀, 빛으로 폭발하는 외계 버섯 등 강렬한 사이키델릭 장면을 위한 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+녹아내리는 시계, 허공에 떠 있는 손, 뚝뚝 떨어지는 꿀, 그리고 외계 버섯 생명체들이 우주 소용돌이 속을 떠다닙니다… 그러다 모든 것이 순수한 빛으로 폭발합니다. 극도로 기묘하고, 극도로 멋집니다.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d52ce38635e8ddb7671a77fd3aafc7f3/thumbnails/thumbnail.jpg" width="600" alt="사이키델릭 초현실적 우주 멜트다운">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5478)**
+
+**작성자:** [James King](https://x.com/JamesKi97287119) | **출처:** [Link](https://x.com/JamesKi97287119/status/2060514167744819488) | **게시일:** May 30, 2026
+
+---
+### 초현실적인 녹은 금 조각상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 사막에서 깨어나 녹은 금으로 분출되며 성운 속에서 시계가 녹아내리는 주얼리 조각상을 생성하기 위한 초현실적 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+꿈같은 사막에서 깨어난 초현실적인 주얼리 조각상이 녹은 금으로 분출되고, 소용돌이치는 성운 속에서 시계들이 녹아내리며 떠다닙니다. 순수한 초현실적 혼돈과 아름다움.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/001d76ad71b3547c9565e0c9c8937870/thumbnails/thumbnail.jpg" width="600" alt="초현실적인 녹은 금 조각상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5475)**
+
+**작성자:** [James King](https://x.com/JamesKi97287119) | **출처:** [Link](https://x.com/JamesKi97287119/status/2060510856371200209) | **게시일:** May 29, 2026
+
+---
+### 초현실적인 방목형 나무 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 들판에서 닭처럼 행동하는 나무들을 담은 초현실적인 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+방목형 닭처럼 들판에서 먹이를 먹는 방목형 나무들의 영상을 만들어줘. 단, 나무의 형태는 그대로 유지해야 해
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0150348d25d7eabb77d43d2ec9e6f179/thumbnails/thumbnail.jpg" width="600" alt="초현실적인 방목형 나무 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5473)**
+
+**작성자:** [Natertottzz.eth](https://x.com/Natertottzz) | **출처:** [Link](https://x.com/Natertottzz/status/2060458264131703233) | **게시일:** May 29, 2026
+
+---
+### 인동초 꽃의 파스텔빛 꿈결
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 파스텔톤의 꿈결 같은 빛 속에서 꽃잎이 흩날리며 부드럽게 흔들리는 인동초를 담은 평온한 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+파스텔빛 꿈결 속에서 부드럽게 흔들리는 인동초… 꽃잎이 흩날리고 잔잔한 꿈이 피어나는 고요한 순간입니다.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/213b1edc60b83e250bf43d7411a32876/thumbnails/thumbnail.jpg" width="600" alt="인동초 꽃의 파스텔빛 꿈결">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5474)**
+
+**작성자:** [Stella 𝕏](https://x.com/StellaGrokStar) | **출처:** [Link](https://x.com/StellaGrokStar/status/2060324137583931885) | **게시일:** May 29, 2026
+
+---
+### 고질라로부터 우주선을 지키는 외계 생명체
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 거대한 고질라에 맞서 우주선을 방어하는 괴물 외계인의 모습을 담은 복합적인 액션 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+거대한 고질라로부터 우주선을 지키는 정교한 괴물 외계 생명체
+:} 360 € *^\ £ę ( 고질라가 낑낑대며 쓰러짐 )
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c9ec622fbd7b3348c40d18d337685c7e/thumbnails/thumbnail.jpg" width="600" alt="고질라로부터 우주선을 지키는 외계 생명체">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5472)**
+
+**작성자:** [Notzucow](https://x.com/Notzucow69) | **출처:** [Link](https://x.com/Notzucow69/status/2060171388430729222) | **게시일:** May 29, 2026
+
+---
 ### 과수원에서 말에게 먹이를 주는 여성 영상
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1981,153 +2115,6 @@ solid body slowly blurs and dissolves as if fading at the speed of light, reveal
 **작성자:** [Carina](https://x.com/Freehere3) | **출처:** [Link](https://x.com/Freehere3/status/2057096040642465953) | **게시일:** May 20, 2026
 
 ---
-### 타투한 여성과 주방에서의 로맨스
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 타투한 여성과 남성이 주방에 있고, 주변에 떠다니는 로맨틱한 하트가 돋보이는 재미있는 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-초록색 상의를 입은 타투한 여성과 남성이 주방에 있으며, 돈과 함께 떠다니는 하트들이 어우러져 사랑스럽고 유쾌한 분위기를 자아냅니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4bfed87a5bec1711f7798c8d56fb0671/thumbnails/thumbnail.jpg" width="600" alt="타투한 여성과 주방에서의 로맨스">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5078)**
-
-**작성자:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **출처:** [Link](https://x.com/maggiejuang1/status/2057094935711461648) | **게시일:** May 20, 2026
-
----
-### 사이버펑크 아머 변신
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 비 내리는 사이버펑크 도시를 배경으로 복잡한 아머 변신 과정을 담은 6초 분량의 전문가급 시네마틱 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-시네마틱 8K 초현실적 실사 영상, 6초, 포토리얼리스틱, ARRI Alexa 65 및 아나모픽 렌즈로 촬영, 미세한 필름 그레인, 시네마틱 컬러 그레이딩.
-
-피사체: 레퍼런스 이미지 속 숨 막힐 듯 아름다운 젊은 여성 — 섬세한 이목구비, 매혹적인 푸른 눈, 은은한 사이버 광채가 감도는 결점 없는 피부, 반짝이는 입자가 섞인 풍성한 블루 실버 컬러의 흐르는 머릿결. 그녀는 초고도 기술이 적용된 차세대 트랜스포머 스타일의 사이버펑크 아머 드레스를 착용하고 있습니다. 몸에 밀착되는 반투명 하이테크 라텍스와 크리스털 하이브리드 수트로, 기존의 빛나는 크리스털 미학과 매끄러운 무광 블랙 및 크롬 사이버네틱 도금, 빛나는 네온 블루 회로, 맥동하는 마젠타 에너지 혈관, 그리고 변화하는 기계적 세그먼트가 완벽하게 조화를 이룹니다. 복잡한 홀로그램 크리스털과 부유하는 데이터 파편들이 그녀의 몸 주위를 맴돕니다. 수트는 기계적인 변신 디테일을 갖추고 있으며, 플레이트들이 딸깍 소리를 내며 펼쳐지고 푸른 플라즈마 아크와 함께 재구성됩니다.
-
-장면: 어둡고 비 내리는 밤의 사이버펑크 메가시티. 높게 솟은 네온 마천루, 비행 차량, 거대한 홀로그램 광고판, 젖어 있는 반사되는 거리. 짙은 볼류메트릭 레인, 대기 중의 안개, 안개를 뚫고 비치는 갓 레이(god rays), 생동감 넘치는 시안, 마젠타, 일렉트릭 블루 조명.
-
-카메라 무빙 및 액션 (6초):
-- 0-2초: 그녀가 당당하게 서 있을 때의 드라마틱한 로우 앵글 오비팅 클로즈업, 바람에 극적으로 흩날리는 머리카락. 사이버 아머가 변신을 시작함 — 크리스털 플레이트가 빛나는 에너지와 함께 기계적인 트랜스포머 세그먼트로 부드럽게 전환됨.
-- 2-4초: 그녀가 천천히 손을 들어 올리면, 홀로그램 블루 에너지 인터페이스와 반투명한 에너지 날개가 등 뒤로 잠시 나타남. 빗방울이 빛나는 수트 위에서 치익 소리를 내며 증발함.
-- 4-6초: 젖은 거리 위로 살짝 떠오른 그녀의 강력한 실루엣을 보여주는 에픽한 슬로우 풀백 샷, 드라마틱한 렌즈 플레어, 시네마틱한 모션 블러와 함께 움직이는 머리카락과 아머 요소들.
-
-초현실적인 디테일, 완벽한 해부학적 구조, 사실적인 직물 및 금속 물리 효과, 반사되는 젖은 표면, 복잡한 파티클 효과, 피사계 심도, 분위기 있는 시네마틱 조명. 마스터피스 시각 효과, 차세대 트랜스포머에서 영감을 받은 변신 시퀀스, 어두운 사이버펑크 분위기, 고도로 상세하며 감성적이고 강력한 무드.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5b9e627bc8e55dbddca444f262920337/thumbnails/thumbnail.jpg" width="600" alt="사이버펑크 아머 변신">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5084)**
-
-**작성자:** [Thoughts Creator](https://x.com/ThoughCreator) | **출처:** [Link](https://x.com/ThoughCreator/status/2057088402445459694) | **게시일:** May 20, 2026
-
----
-### 사이버네틱 워리어 보우
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 복잡한 기호를 사용하여 보라색 다이아몬드 갑옷을 입고 레이저 활을 든 캐릭터를 묘사하는 스타일화된 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-< 검은색 솜털 같은 금발 머리 > 보라색 정맥 >
-¥ { 보라색 반사 다이아몬드 갑옷 }
-( 레이저로 절단된 베리듐 합금 화살이 빛나는 활 )
-^{ * { 아름다운 청록색 눈 } ( 응시 )
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/52e559488c2320f468643178ad268316/thumbnails/thumbnail.jpg" width="600" alt="사이버네틱 워리어 보우">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5085)**
-
-**작성자:** [Notzucow](https://x.com/Notzucow69) | **출처:** [Link](https://x.com/Notzucow69/status/2057004072746500293) | **게시일:** May 20, 2026
-
----
-### 몽환적인 인어 수중 장면
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 거품에 둘러싸인 인어가 다양한 감정 표현을 보여주는 영화 같은 영상을 위한 상세한 묘사 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-자부심으로 빛나는 이 인어를 지켜보세요. 그녀 주변을 떠다니는 거품들이 장난스러운 분위기를 더합니다. 그녀는 생각에 잠긴 듯 고개를 기울이다가 이내 강렬하게 집중합니다. 앉은 채로 두 손을 맞잡고 깊은 생각에 잠겨 있다가, 부드럽게 입맞춤을 날립니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/15e5693afd05597fb5ecf976e8eda7da/thumbnails/thumbnail.jpg" width="600" alt="몽환적인 인어 수중 장면">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5050)**
-
-**작성자:** [BizPunk72](https://x.com/bixxs) | **출처:** [Link](https://x.com/bixxs/status/2056948566933782740) | **게시일:** May 20, 2026
-
----
-### Starlink 위성 레이저 광선
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Starlink 위성이 벽면에 레이저 빔을 쏘는 모습을 캐릭터의 대사와 결합하여 묘사한 컨셉 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-@image1 벽면에 Starlink 위성이 레이저 빔을 쏘고 있다. 그녀가 말한다. 어떻게 이런 헤드라인이 허용되는 거지?... @imagine @grok 짜증이라는 빠진 재료. 🔥🫶☕️💫
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f383250202d5781d1c9a9787a907ac16/thumbnails/thumbnail.jpg" width="600" alt="Starlink 위성 레이저 광선">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5080)**
-
-**작성자:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **출처:** [Link](https://x.com/clemensilverio/status/2056937301347901503) | **게시일:** May 20, 2026
-
----
-### 익룡 비행 애니메이션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 익룡과 유사한 객체를 선택하여 멀리 날아가는 모습으로 애니메이션화하라는 지시입니다.
-
-#### 📝 프롬프트
-
-```
-Grok, 저 익룡처럼 생긴 객체를 일으켜서 멀리 날아가게 만들 수 있을까?
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e074c6f0245c38b8830e95923e9a8d9f/thumbnails/thumbnail.jpg" width="600" alt="익룡 비행 애니메이션">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5086)**
-
-**작성자:** [(PRESS)Scotty Fife (aka) NevNukeMonster](https://x.com/fife_scotty680) | **출처:** [Link](https://x.com/fife_scotty680/status/2056905441091977384) | **게시일:** May 20, 2026
-
----
-### 고딕 양식 저택 등 타투
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 90년대 배경 속, 등에 정교한 고딕 양식 저택 타투를 한 여성의 모습을 묘사한 영화적이고 어두운 분위기의 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-바닥에 가부좌를 틀고 앉아 카메라를 등지고 있으며, 고개를 살짝 돌려 카메라를 응시하는 여성. 등 전체가 드러나 있어 등 전체를 덮는 타투가 돋보이며, 스터드 장식이 있는 검은색 벨트와 헐렁한 청바지를 착용하고 있음. 집게핀으로 올린 긴 검은 머리, 숱이 적은 앞머리, 짙은 갈색 눈동자, 얇은 눈썹, 도톰한 입술, 자연스러운 피부 결과 모공이 보이는 밝은 피부 톤, 작은 검은색 피어싱을 하고 있음. 등 타투는 화려한 디테일이 살아있는 대형 고딕 빅토리아 시대 저택이며, 메인 도안 주변으로 용이 날아다니는 필러 타투가 곁들여져 있음. 검은색, 회색, 흰색 잉크를 사용한 매우 정교한 타투 장면. 어두운 미니멀리즘 스타일의 1990년대 방, 낮은 조도, 사실적인 렌더링, 얕은 피사계 심도, 낮은 채도.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a80c3ac9ad0bfdbfb89b5afbb43bd268/thumbnails/thumbnail.jpg" width="600" alt="고딕 양식 저택 등 타투">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5083)**
-
-**작성자:** [NYXEN](https://x.com/NYXEN_77) | **출처:** [Link](https://x.com/NYXEN_77/status/2056902373235441850) | **게시일:** May 20, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2189,6 +2176,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-05-30T07:05:02.905Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-05-30T10:18:29.241Z</sub>
 
 </div>

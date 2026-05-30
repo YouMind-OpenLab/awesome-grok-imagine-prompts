@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1689** |
+| 📝 Total Prompts | **1696** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-30** |
 
@@ -189,6 +189,140 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### Metallic Relic Rainbow Energy
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वर्णनात्मक प्रॉम्प्ट जो एक ऐसी धात्विक अवशेष (metallic relic) बनाता है जो ब्रह्मांडीय भंवर के माध्यम से इंद्रधनुषी ऊर्जा को मुक्त करती है।
+
+#### 📝 Prompt
+
+```
+एक चिकना धात्विक अवशेष (metallic relic) टूटकर खुलता है, जिससे इंद्रधनुषी ऊर्जा की बहती नदियाँ निकलती हैं जो एक ब्रह्मांडीय भंवर के माध्यम से घूमती हैं। स्थिरता से शुद्ध गति तक। बेहतरीन अति-यथार्थवादी परिवर्तन।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3eae5df29267be22b3a70ca8eb2d9485/thumbnails/thumbnail.jpg" width="600" alt="Metallic Relic Rainbow Energy">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5476)**
+
+**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2060523955748827371) | **Published:** May 30, 2026
+
+---
+### कॉस्मिक एनर्जी रिचुअल रूइन्स
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक असली (surreal) दृश्य के लिए प्रॉम्प्ट, जिसमें तैरते हुए प्राचीन अवशेषों और खंडहरों के माध्यम से ऊर्जा का संचार करने वाला एक चमकता हुआ पुल दिखाया गया है।
+
+#### 📝 Prompt
+
+```
+एक असली चमकता हुआ पुल तैरते हुए अवशेषों और प्राचीन खंडहरों के माध्यम से कच्ची ऊर्जा का संचार करता है, जबकि बिजली कड़कती है और एक सुनहरा सर्पिल जाग उठता है। शुद्ध असली पारलौकिकता। अपने बेहतरीन रूप में प्रयोगात्मक विचित्रता।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7d085bdb4682b7e3a44dc8890d04364a/thumbnails/thumbnail.jpg" width="600" alt="कॉस्मिक एनर्जी रिचुअल रूइन्स">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5477)**
+
+**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2060516623694352611) | **Published:** May 30, 2026
+
+---
+### साइकेडेलिक सरियल कॉस्मिक मेल्टडाउन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> पिघलती हुई घड़ियों, टपकते शहद और प्रकाश में विस्फोट करते एलियन मशरूम के साथ एक गहन साइकेडेलिक दृश्य के लिए प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+पिघलती हुई घड़ियाँ, हवा में तैरते हाथ, टपकता हुआ शहद और एलियन मशरूम जैसे जीव एक ब्रह्मांडीय भंवर में तैर रहे हैं... जब तक कि सब कुछ शुद्ध प्रकाश में विस्फोट न हो जाए। अत्यधिक अजीब। अत्यधिक कूल।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d52ce38635e8ddb7671a77fd3aafc7f3/thumbnails/thumbnail.jpg" width="600" alt="साइकेडेलिक सरियल कॉस्मिक मेल्टडाउन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5478)**
+
+**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2060514167744819488) | **Published:** May 30, 2026
+
+---
+### अतिवास्तविक पिघली हुई सोने की मूर्ति
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक आभूषण मूर्ति बनाने के लिए एक अतिवास्तविक प्रॉम्प्ट, जो रेगिस्तान में जागती है और एक निहारिका (nebula) में पिघलती हुई घड़ियों के साथ पिघले हुए सोने में बदल जाती है।
+
+#### 📝 Prompt
+
+```
+अतिवास्तविक आभूषण मूर्ति एक स्वप्निल रेगिस्तान में जागती है, और जैसे ही पिघलती हुई घड़ियाँ एक घूमती हुई निहारिका (nebula) में तैरती हैं, यह पिघले हुए सोने में बदल जाती है। शुद्ध अतिवास्तविक अराजकता और सुंदरता।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/001d76ad71b3547c9565e0c9c8937870/thumbnails/thumbnail.jpg" width="600" alt="अतिवास्तविक पिघली हुई सोने की मूर्ति">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5475)**
+
+**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2060510856371200209) | **Published:** May 29, 2026
+
+---
+### अतिवास्तविक फ्री रेंज ट्रीज़ वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक अतिवास्तविक वीडियो प्रॉम्प्ट जिसमें पेड़ एक खेत में मुर्गियों की तरह व्यवहार कर रहे हैं।
+
+#### 📝 Prompt
+
+```
+एक ऐसा वीडियो बनाएं जिसमें फ्री रेंज पेड़ किसी खेत में फ्री रेंज मुर्गियों की तरह खाना खा रहे हों, लेकिन वे पेड़ हैं
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0150348d25d7eabb77d43d2ec9e6f179/thumbnails/thumbnail.jpg" width="600" alt="अतिवास्तविक फ्री रेंज ट्रीज़ वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5473)**
+
+**Author:** [Natertottzz.eth](https://x.com/Natertottzz) | **Source:** [Link](https://x.com/Natertottzz/status/2060458264131703233) | **Published:** May 29, 2026
+
+---
+### हनीसकल (Honeysuckle) फूल पेस्टल ड्रीमलाइट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक शांत वीडियो प्रॉम्प्ट जिसमें पेस्टल-रंग की ड्रीमलाइट में धीरे-धीरे हिलते हुए हनीसकल फूल और उड़ती हुई पंखुड़ियाँ दिखाई गई हैं।
+
+#### 📝 Prompt
+
+```
+पेस्टल ड्रीमलाइट में धीरे-धीरे हिलते हुए कोमल हनीसकल फूल... एक शांत पल जहाँ पंखुड़ियाँ बिखरती हैं और मधुर सपने खिलते हैं।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/213b1edc60b83e250bf43d7411a32876/thumbnails/thumbnail.jpg" width="600" alt="हनीसकल (Honeysuckle) फूल पेस्टल ड्रीमलाइट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5474)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2060324137583931885) | **Published:** May 29, 2026
+
+---
+### एलियन जीव जो स्टारशिप को गॉडज़िला से बचा रहा है
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक जटिल एक्शन प्रॉम्प्ट जिसमें एक विशाल गॉडज़िला के खिलाफ स्टारशिप की रक्षा करता हुआ एक मॉन्स्टर एलियन दिखाया गया है।
+
+#### 📝 Prompt
+
+```
+विशाल गॉडज़िला से स्टारशिप की रक्षा करता हुआ सूक्ष्म मॉन्स्टर एलियन जीव
+:} 360 € *^\ £ę ( गॉडज़िला डरकर गिरता है )
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c9ec622fbd7b3348c40d18d337685c7e/thumbnails/thumbnail.jpg" width="600" alt="एलियन जीव जो स्टारशिप को गॉडज़िला से बचा रहा है">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5472)**
+
+**Author:** [Notzucow](https://x.com/Notzucow69) | **Source:** [Link](https://x.com/Notzucow69/status/2060171388430729222) | **Published:** May 29, 2026
+
+---
 ### महिला द्वारा बगीचे में घोड़े को खाना खिलाने का वीडियो
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1981,153 +2115,6 @@ solid body slowly blurs and dissolves as if fading at the speed of light, reveal
 **Author:** [Carina](https://x.com/Freehere3) | **Source:** [Link](https://x.com/Freehere3/status/2057096040642465953) | **Published:** May 20, 2026
 
 ---
-### टैटू वाली महिला और किचन रोमांस
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक मजेदार वीडियो प्रॉम्प्ट जिसमें एक टैटू वाली महिला और एक पुरुष किचन में हैं और उनके चारों ओर तैरते हुए रोमांटिक दिल हैं।
-
-#### 📝 Prompt
-
-```
-हरे रंग की टॉप पहने टैटू वाली एक महिला और एक पुरुष किचन में पैसों के साथ हैं, जो एक मजेदार और प्यार भरे माहौल में तैरते हुए दिलों से घिरे हुए हैं।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4bfed87a5bec1711f7798c8d56fb0671/thumbnails/thumbnail.jpg" width="600" alt="टैटू वाली महिला और किचन रोमांस">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5078)**
-
-**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2057094935711461648) | **Published:** May 20, 2026
-
----
-### साइबरपंक आर्मर ट्रांसफॉर्मेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> बारिश वाले साइबरपंक शहर में एक जटिल आर्मर ट्रांसफॉर्मेशन को दर्शाने वाले 6-सेकंड के वीडियो के लिए एक प्रोफेशनल-ग्रेड सिनेमैटिक प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-सिनेमैटिक 8K हाइपर-रियलिस्टिक लाइव-एक्शन वीडियो, 6 सेकंड, फोटो-रियलिस्टिक, ARRI Alexa 65 और एनामोर्फिक लेंस पर शूट किया गया, सूक्ष्म फिल्म ग्रेन, सिनेमैटिक कलर ग्रेडिंग।
-
-विषय: रेफरेंस इमेज वाली वही बेहद खूबसूरत युवती — नाजुक चेहरे के फीचर्स, आकर्षक नीली आंखें, सॉफ्ट साइबर-ग्लो हाइलाइट्स के साथ बेदाग त्वचा, चमकते कणों वाले घने नीले-चांदी के बाल। उसने एक अल्ट्रा-एडवांस्ड, नेक्स्ट-लेवल ट्रांसफॉर्मर-स्टाइल साइबरपंक आर्मर-ड्रेस पहनी है: एक फिटिंग, पारभासी हाई-टेक लेटेक्स और क्रिस्टलीय हाइब्रिड सूट जो उसके मूल चमकते क्रिस्टल सौंदर्य को स्लीक मैट-ब्लैक और क्रोम साइबरनेटिक प्लेटिंग, चमकती नियॉन-ब्लू सर्किटरी, स्पंदित मैजेंटा एनर्जी वेंस और शिफ्टिंग मैकेनिकल सेगमेंट के साथ सहजता से जोड़ता है। जटिल होलोग्राफिक क्रिस्टल और तैरते हुए डेटा शार्ड्स उसके शरीर के चारों ओर घूम रहे हैं। सूट में सूक्ष्म मैकेनिकल ट्रांसफॉर्मेशन विवरण हैं — प्लेटें जो क्लिक करती हैं, खुलती हैं और नीले प्लाज्मा आर्क्स के साथ फिर से कॉन्फ़िगर होती हैं।
-
-दृश्य: रात में अंधेरा, बारिश वाला साइबरपंक मेगासिटी। ऊंचे नियॉन गगनचुंबी इमारतें, उड़ते वाहन, विशाल होलोग्राफिक बिलबोर्ड, गीली परावर्तक सड़कें। भारी वॉल्यूमेट्रिक बारिश, वायुमंडलीय कोहरा, धुंध को काटती गॉड रेज़, जीवंत सियान, मैजेंटा और इलेक्ट्रिक ब्लू लाइटिंग।
-
-कैमरा मूवमेंट और एक्शन (6 सेकंड):
-- 0-2s: नाटकीय लो-एंगल ऑर्बिटिंग क्लोज-अप, वह मजबूती से खड़ी है, हवा में बाल नाटकीय रूप से लहरा रहे हैं। उसका साइबर-आर्मर बदलना शुरू होता है — क्रिस्टलीय प्लेटें चमकती ऊर्जा के साथ मैकेनिकल ट्रांसफॉर्मर सेगमेंट में सुचारू रूप से बदल जाती हैं।
-- 2-4s: वह धीरे-धीरे अपने हाथ उठाती है; होलोग्राफिक नीली ऊर्जा इंटरफेस और पारभासी ऊर्जा पंख संक्षेप में उसकी पीठ से प्रकट होते हैं। बारिश की बूंदें उसके चमकते सूट पर गिरकर भाप बन रही हैं।
-- 4-6s: एपिक स्लो पुल-बैक शॉट, जिसमें वह गीली सड़क के ऊपर थोड़ा ऊपर उठती हुई अपनी पूरी शक्तिशाली आकृति दिखाती है, नाटकीय लेंस फ्लेयर्स, बाल और आर्मर के तत्व सिनेमैटिक मोशन ब्लर के साथ हिल रहे हैं।
-
-अल्ट्रा-फोटो-रियलिस्टिक विवरण, सटीक एनाटॉमी, यथार्थवादी कपड़े और धातु भौतिकी, परावर्तक गीली सतहें, जटिल कण प्रभाव, डेप्थ ऑफ फील्ड, मूडी सिनेमैटिक लाइटिंग। मास्टरपीस विजुअल इफेक्ट्स, नेक्स्ट-लेवल ट्रांसफॉर्मर्स-प्रेरित ट्रांसफॉर्मेशन सीक्वेंस, डार्क साइबरपंक वातावरण, अत्यधिक विस्तृत, भावनात्मक और शक्तिशाली मूड।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5b9e627bc8e55dbddca444f262920337/thumbnails/thumbnail.jpg" width="600" alt="साइबरपंक आर्मर ट्रांसफॉर्मेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5084)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2057088402445459694) | **Published:** May 20, 2026
-
----
-### साइबरनेटिक वॉरियर बो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक स्टाइलिश प्रॉम्प्ट जो जटिल प्रतीकों का उपयोग करके लेज़र धनुष वाले बैंगनी-हीरे के कवच पहने चरित्र का वर्णन करता है।
-
-#### 📝 Prompt
-
-```
-< काले मुलायम सुनहरे बाल >बैंगनी नस >
-¥ { कवच बैंगनी परावर्तक हीरे }
-( धनुष लेज़र कट बेरिलियम मिश्र धातु बोल्ट चमकते हुए )
-^{ * { आँखें सुंदर हरी नीली हैं } ( घूरना )
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/52e559488c2320f468643178ad268316/thumbnails/thumbnail.jpg" width="600" alt="साइबरनेटिक वॉरियर बो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5085)**
-
-**Author:** [Notzucow](https://x.com/Notzucow69) | **Source:** [Link](https://x.com/Notzucow69/status/2057004072746500293) | **Published:** May 20, 2026
-
----
-### ईथरियल मरमेड अंडरवॉटर सीन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> बुलबुलों से घिरी एक जलपरी के सिनेमाई वीडियो के लिए एक विस्तृत वर्णनात्मक प्रॉम्प्ट, जो विभिन्न भावनात्मक अभिव्यक्तियों को दर्शाता है।
-
-#### 📝 Prompt
-
-```
-गर्व से चमकती इस जलपरी को देखें। उसके चारों ओर तैरते बुलबुले एक चंचल स्पर्श जोड़ रहे हैं। वह अपना सिर झुकाती है, विचारों में खोई हुई, फिर पूरी एकाग्रता के साथ ध्यान केंद्रित करती है। बैठी हुई, वह चिंतन कर रही है, हाथ जुड़े हुए हैं। वह एक प्यारी सी फ्लाइंग किस देती है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/15e5693afd05597fb5ecf976e8eda7da/thumbnails/thumbnail.jpg" width="600" alt="ईथरियल मरमेड अंडरवॉटर सीन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5050)**
-
-**Author:** [BizPunk72](https://x.com/bixxs) | **Source:** [Link](https://x.com/bixxs/status/2056948566933782740) | **Published:** May 20, 2026
-
----
-### Starlink सैटेलाइट्स की लेज़र किरणें
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वैचारिक प्रॉम्प्ट जो दीवार पर लेज़र बीम छोड़ते हुए Starlink सैटेलाइट्स को दर्शाता है, जिसे एक पात्र के संवाद के साथ जोड़ा गया है।
-
-#### 📝 Prompt
-
-```
-दीवार पर @image1, Starlink सैटेलाइट्स लेज़र बीम छोड़ रहे हैं। वह कहती है, इन हेडलाइंस की अनुमति कैसे दी जा सकती है?... @imagine @grok झुंझलाहट का गायब घटक। 🔥🫶☕️💫
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f383250202d5781d1c9a9787a907ac16/thumbnails/thumbnail.jpg" width="600" alt="Starlink सैटेलाइट्स की लेज़र किरणें">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5080)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2056937301347901503) | **Published:** May 20, 2026
-
----
-### उड़ते हुए टेरोडैक्टाइल (Pterodactyl) का एनीमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक टेरोडैक्टाइल जैसे ऑब्जेक्ट को लेकर उसे दूर उड़ते हुए दिखाने का निर्देश।
-
-#### 📝 Prompt
-
-```
-Grok, क्या आप इस पक्षी जैसे टेरोडैक्टाइल ऑब्जेक्ट को उठाकर दूर उड़ते हुए दिखा सकते हैं
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e074c6f0245c38b8830e95923e9a8d9f/thumbnails/thumbnail.jpg" width="600" alt="उड़ते हुए टेरोडैक्टाइल (Pterodactyl) का एनीमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5086)**
-
-**Author:** [(PRESS)Scotty Fife (aka) NevNukeMonster](https://x.com/fife_scotty680) | **Source:** [Link](https://x.com/fife_scotty680/status/2056905441091977384) | **Published:** May 20, 2026
-
----
-### गोथिक मैंशन बैक टैटू
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमैटिक और डार्क एस्थेटिक प्रॉम्प्ट, जिसमें 90 के दशक के परिवेश में एक महिला की पीठ पर बने अत्यधिक विस्तृत गोथिक मैंशन टैटू का वर्णन है।
-
-#### 📝 Prompt
-
-```
-महिला फर्श पर पैर मोड़कर बैठी है, उसकी पीठ कैमरे की ओर है और उसका सिर कैमरे की तरफ देखने के लिए हल्का सा पीछे मुड़ा हुआ है। उसकी पूरी पीठ खुली है ताकि उसका फुल बैक टैटू दिखाई दे सके, उसने बैगी जींस और स्टडेड ब्लैक बेल्ट पहनी हुई है। उसके लंबे काले बाल क्लिप से ऊपर बंधे हैं, माथे पर लटें हैं, गहरी भूरी आँखें, पतली भौहें, भरे हुए होंठ, प्राकृतिक बनावट और रोमछिद्रों वाली साफ त्वचा है, और उसने छोटे काले गेज पहने हैं। उसकी पीठ का टैटू विक्टोरियन युग की एक विशाल गोथिक हवेली है, जिसमें बारीक नक्काशी है और मुख्य टैटू के चारों ओर ड्रैगन उड़ते हुए और फिलर टैटू बने हैं। टैटू काले, ग्रे और सफेद स्याही में है, जो एक बेहद विस्तृत दृश्य प्रस्तुत करता है। डार्क मिनिमलिस्ट 1990 के दशक का कमरा, कम रोशनी, यथार्थवादी रेंडरिंग, शैलो डेप्थ ऑफ फील्ड, कम कलर सैचुरेशन।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a80c3ac9ad0bfdbfb89b5afbb43bd268/thumbnails/thumbnail.jpg" width="600" alt="गोथिक मैंशन बैक टैटू">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5083)**
-
-**Author:** [NYXEN](https://x.com/NYXEN_77) | **Source:** [Link](https://x.com/NYXEN_77/status/2056902373235441850) | **Published:** May 20, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2189,6 +2176,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-30T07:05:07.669Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-30T10:18:32.631Z</sub>
 
 </div>
