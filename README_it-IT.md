@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1696** |
+| 📝 Total Prompts | **1697** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-31** |
 
@@ -189,6 +189,25 @@ Una mistica e nobile Valchiria celestiale, una donna dignitosa e bellissima con 
 
 > 📝 Sorted by publish date (newest first)
 
+### Animazione Fantasy: Il Volo della Fata
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Genera un'animazione in stile donghua iper-realistico di una fata che vola attraverso un regno fantastico.
+
+#### 📝 Prompt
+
+```
+Le ali della fata appaiono e lei vola via attraverso un regno fantastico, donghua iper-realistico
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/efa8466f1bf1642315d7fa85cfae8d91/thumbnails/thumbnail.jpg" width="600" alt="Animazione Fantasy: Il Volo della Fata">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5508)**
+
+**Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2060631221269643682) | **Published:** May 30, 2026
+
+---
 ### Reliquia metallica con energia arcobaleno
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2096,25 +2115,6 @@ Trasforma questa bambola in un granchio meccanico gigante. Successivamente, scon
 **Author:** [JeffLiuRoast](https://x.com/liu17251086) | **Source:** [Link](https://x.com/liu17251086/status/2057125036268679229) | **Published:** May 20, 2026
 
 ---
-### Dipinto a olio con fiori color pastello
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt di generazione video per uno stile artistico di pittura a olio materica, caratterizzato da fiori color pastello e gocce d'acqua.
-
-#### 📝 Prompt
-
-```
-Un dipinto artistico delicato e raffinato di un fiore color pastello tenue con delicate gocce d'acqua che riposano sui petali, nello spirito di un dipinto a olio materico con pennellate visibili. Il fiore presenta tonalità rosa tenue, lavanda delicato e bianco crema.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/035c53d59abc2db1a17eeb89da4eed6f/thumbnails/thumbnail.jpg" width="600" alt="Dipinto a olio con fiori color pastello">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5079)**
-
-**Author:** [Carina](https://x.com/Freehere3) | **Source:** [Link](https://x.com/Freehere3/status/2057096040642465953) | **Published:** May 20, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2176,6 +2176,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-31T04:42:23.318Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-31T10:32:24.205Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1696** |
+| 📝 Total Prompts | **1697** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-31** |
 
@@ -189,6 +189,25 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Hoạt hình Tiên nữ Bay lượn Huyền ảo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Tạo hoạt hình phong cách donghua siêu thực về một nàng tiên đang bay qua một vùng đất huyền ảo.
+
+#### 📝 Prompt
+
+```
+Đôi cánh của nàng tiên xuất hiện và cô ấy bay đi qua một vùng đất huyền ảo, phong cách donghua siêu thực
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/efa8466f1bf1642315d7fa85cfae8d91/thumbnails/thumbnail.jpg" width="600" alt="Hoạt hình Tiên nữ Bay lượn Huyền ảo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5508)**
+
+**Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2060631221269643682) | **Published:** May 30, 2026
+
+---
 ### Năng lượng cầu vồng từ di vật kim loại
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2096,25 +2115,6 @@ Hãy biến con búp bê này thành một con cua máy khổng lồ. Sau đó, 
 **Author:** [JeffLiuRoast](https://x.com/liu17251086) | **Source:** [Link](https://x.com/liu17251086/status/2057125036268679229) | **Published:** May 20, 2026
 
 ---
-### Tranh sơn dầu hoa màu pastel
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video cho phong cách tranh sơn dầu nghệ thuật, có kết cấu với các bông hoa màu pastel và những giọt nước.
-
-#### 📝 Prompt
-
-```
-Một bức tranh nghệ thuật tinh tế và nhẹ nhàng về bông hoa màu pastel mềm mại với những giọt nước dịu dàng đọng trên cánh hoa, mang tinh thần của một bức tranh sơn dầu có kết cấu với các nét cọ rõ rệt. Bông hoa có các tông màu hồng phấn dịu, tím oải hương nhạt và trắng kem.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/035c53d59abc2db1a17eeb89da4eed6f/thumbnails/thumbnail.jpg" width="600" alt="Tranh sơn dầu hoa màu pastel">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5079)**
-
-**Author:** [Carina](https://x.com/Freehere3) | **Source:** [Link](https://x.com/Freehere3/status/2057096040642465953) | **Published:** May 20, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2176,6 +2176,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-31T04:42:13.503Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-31T10:32:16.038Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **1696** |
+| 📝 提示词总数 | **1697** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-05-31** |
 
@@ -189,6 +189,25 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 仙侠飞行奇幻动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 生成一段仙女在奇幻世界中飞行的超写实国漫风格动画。
+
+#### 📝 提示词
+
+```
+仙女双翼显现，飞越奇幻世界，超写实国漫风格
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/efa8466f1bf1642315d7fa85cfae8d91/thumbnails/thumbnail.jpg" width="600" alt="仙侠飞行奇幻动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5508)**
+
+**作者:** [David Avenue Media](https://x.com/davidavenueai) | **来源:** [Link](https://x.com/davidavenueai/status/2060631221269643682) | **发布时间:** May 30, 2026
+
+---
 ### 金属遗物彩虹能量
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2096,25 +2115,6 @@ solid body slowly blurs and dissolves as if fading at the speed of light, reveal
 **作者:** [JeffLiuRoast](https://x.com/liu17251086) | **来源:** [Link](https://x.com/liu17251086/status/2057125036268679229) | **发布时间:** May 20, 2026
 
 ---
-### 柔和色调花卉油画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个视频生成提示词，用于创作具有艺术感和纹理的油画风格，展现柔和色调的花卉与水滴。
-
-#### 📝 提示词
-
-```
-一幅细腻且微妙的艺术画作，描绘了一朵柔和色调的花朵，花瓣上点缀着晶莹的水滴。画作呈现出带有明显笔触的纹理油画风格，花朵采用柔和的淡粉色、浅薰衣草紫和奶油白色调。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/035c53d59abc2db1a17eeb89da4eed6f/thumbnails/thumbnail.jpg" width="600" alt="柔和色调花卉油画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5079)**
-
-**作者:** [Carina](https://x.com/Freehere3) | **来源:** [Link](https://x.com/Freehere3/status/2057096040642465953) | **发布时间:** May 20, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2176,6 +2176,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-05-31T04:42:04.890Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-05-31T10:32:09.183Z</sub>
 
 </div>

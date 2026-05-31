@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1696** |
+| 📝 Total Prompts | **1697** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-31** |
 
@@ -189,6 +189,25 @@ Una valquiria celestial mística y noble, una mujer digna y hermosa con largo ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Animación de fantasía: Vuelo de hadas
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Genera una animación estilo donghua hiperrealista de un hada volando a través de un reino de fantasía.
+
+#### 📝 Prompt
+
+```
+Las alas del hada aparecen y ella sale volando a través de un reino de fantasía, donghua hiperrealista
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/efa8466f1bf1642315d7fa85cfae8d91/thumbnails/thumbnail.jpg" width="600" alt="Animación de fantasía: Vuelo de hadas">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5508)**
+
+**Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2060631221269643682) | **Published:** May 30, 2026
+
+---
 ### Reliquia metálica de energía arcoíris
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2096,25 +2115,6 @@ Convierte este muñeco en un cangrejo mecánico gigante. Luego, derrota a tres m
 **Author:** [JeffLiuRoast](https://x.com/liu17251086) | **Source:** [Link](https://x.com/liu17251086/status/2057125036268679229) | **Published:** May 20, 2026
 
 ---
-### Pintura al óleo de flores en tonos pastel
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de generación de video para un estilo artístico de pintura al óleo con textura, que presenta flores en tonos pastel y gotas de agua.
-
-#### 📝 Prompt
-
-```
-Una pintura artística delicada y sutil de una flor en tonos pastel suaves con delicadas gotas de agua sobre los pétalos, al estilo de una pintura al óleo texturizada con pinceladas visibles. La flor presenta tonos rosa rubor suave, lavanda tenue y blanco cremoso.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/035c53d59abc2db1a17eeb89da4eed6f/thumbnails/thumbnail.jpg" width="600" alt="Pintura al óleo de flores en tonos pastel">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5079)**
-
-**Author:** [Carina](https://x.com/Freehere3) | **Source:** [Link](https://x.com/Freehere3/status/2057096040642465953) | **Published:** May 20, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2176,6 +2176,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-31T04:42:16.543Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-31T10:32:18.793Z</sub>
 
 </div>

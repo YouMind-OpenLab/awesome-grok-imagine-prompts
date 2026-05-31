@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **1696** |
+| 📝 총 프롬프트 수 | **1697** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-05-31** |
 
@@ -189,6 +189,25 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 요정 비행 판타지 애니메이션
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 판타지 세계를 날아다니는 요정의 모습을 초현실적인 동화(donghua) 스타일 애니메이션으로 생성합니다.
+
+#### 📝 프롬프트
+
+```
+요정의 날개가 나타나고 그녀가 판타지 세계를 가로질러 날아갑니다, 초현실적인 동화(donghua) 스타일
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/efa8466f1bf1642315d7fa85cfae8d91/thumbnails/thumbnail.jpg" width="600" alt="요정 비행 판타지 애니메이션">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5508)**
+
+**작성자:** [David Avenue Media](https://x.com/davidavenueai) | **출처:** [Link](https://x.com/davidavenueai/status/2060631221269643682) | **게시일:** May 30, 2026
+
+---
 ### 메탈릭 유물 무지개 에너지
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2096,25 +2115,6 @@ solid body slowly blurs and dissolves as if fading at the speed of light, reveal
 **작성자:** [JeffLiuRoast](https://x.com/liu17251086) | **출처:** [Link](https://x.com/liu17251086/status/2057125036268679229) | **게시일:** May 20, 2026
 
 ---
-### 파스텔 꽃 유화
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 파스텔 톤의 꽃과 물방울이 어우러진 예술적이고 질감이 살아있는 유화 스타일의 비디오 생성 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-꽃잎 위에 맺힌 부드러운 물방울과 섬세하고 은은한 파스텔 꽃을 담은 예술적인 그림으로, 붓터치가 살아있는 질감의 유화 스타일입니다. 꽃은 차분한 블러쉬 핑크, 부드러운 라벤더, 크림 화이트 톤으로 표현되었습니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/035c53d59abc2db1a17eeb89da4eed6f/thumbnails/thumbnail.jpg" width="600" alt="파스텔 꽃 유화">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5079)**
-
-**작성자:** [Carina](https://x.com/Freehere3) | **출처:** [Link](https://x.com/Freehere3/status/2057096040642465953) | **게시일:** May 20, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2176,6 +2176,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-05-31T04:42:10.355Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-05-31T10:32:13.269Z</sub>
 
 </div>

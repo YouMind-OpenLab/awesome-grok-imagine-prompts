@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1696** |
+| 📝 Total Prompts | **1697** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-31** |
 
@@ -189,6 +189,25 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### แอนิเมชันแฟนตาซีการบินของนางฟ้า
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> สร้างแอนิเมชันสไตล์ตงฮวา (donghua) ที่สมจริงเป็นพิเศษของนางฟ้าที่กำลังบินผ่านดินแดนแฟนตาซี
+
+#### 📝 Prompt
+
+```
+ปีกของนางฟ้าปรากฏขึ้นและเธอก็บินจากไปผ่านดินแดนแฟนตาซี ในสไตล์ตงฮวาที่สมจริงเป็นพิเศษ
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/efa8466f1bf1642315d7fa85cfae8d91/thumbnails/thumbnail.jpg" width="600" alt="แอนิเมชันแฟนตาซีการบินของนางฟ้า">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5508)**
+
+**Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2060631221269643682) | **Published:** May 30, 2026
+
+---
 ### Metallic Relic Rainbow Energy
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2096,25 +2115,6 @@ solid body slowly blurs and dissolves as if fading at the speed of light, reveal
 **Author:** [JeffLiuRoast](https://x.com/liu17251086) | **Source:** [Link](https://x.com/liu17251086/status/2057125036268679229) | **Published:** May 20, 2026
 
 ---
-### ภาพวาดสีน้ำมันดอกไม้โทนพาสเทล
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับสร้างวิดีโอในสไตล์ภาพวาดสีน้ำมันที่มีพื้นผิวสวยงาม โดดเด่นด้วยดอกไม้โทนพาสเทลและหยดน้ำ
-
-#### 📝 Prompt
-
-```
-ภาพวาดศิลปะที่ละเอียดอ่อนและนุ่มนวลของดอกไม้โทนพาสเทลหวาน พร้อมหยดน้ำที่เกาะอยู่บนกลีบดอกไม้ ในสไตล์ภาพวาดสีน้ำมันที่มีพื้นผิวและรอยฝีแปรงที่ชัดเจน ดอกไม้มาในโทนสีชมพูอ่อน สีลาเวนเดอร์นุ่มนวล และสีขาวครีม
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/035c53d59abc2db1a17eeb89da4eed6f/thumbnails/thumbnail.jpg" width="600" alt="ภาพวาดสีน้ำมันดอกไม้โทนพาสเทล">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5079)**
-
-**Author:** [Carina](https://x.com/Freehere3) | **Source:** [Link](https://x.com/Freehere3/status/2057096040642465953) | **Published:** May 20, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2176,6 +2176,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-31T04:42:11.759Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-31T10:32:14.685Z</sub>
 
 </div>

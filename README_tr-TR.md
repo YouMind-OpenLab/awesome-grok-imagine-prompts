@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1696** |
+| 📝 Total Prompts | **1697** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-31** |
 
@@ -189,6 +189,25 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Peri Uçuşu Fantastik Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir perinin fantastik bir diyarda uçtuğu, hiper gerçekçi donghua tarzında bir animasyon oluşturur.
+
+#### 📝 Prompt
+
+```
+Perinin kanatları belirir ve fantastik bir diyarda uçarak uzaklaşır, hiper gerçekçi donghua
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/efa8466f1bf1642315d7fa85cfae8d91/thumbnails/thumbnail.jpg" width="600" alt="Peri Uçuşu Fantastik Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5508)**
+
+**Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2060631221269643682) | **Published:** May 30, 2026
+
+---
 ### Metalik Kalıntı Gökkuşağı Enerjisi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2096,25 +2115,6 @@ Bu oyuncağı dev bir mekanik yengece dönüştür. Ardından, ay benzeri uçsuz
 **Author:** [JeffLiuRoast](https://x.com/liu17251086) | **Source:** [Link](https://x.com/liu17251086/status/2057125036268679229) | **Published:** May 20, 2026
 
 ---
-### Pastel Çiçekli Yağlı Boya Tablo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Pastel çiçekler ve su damlaları içeren, sanatsal ve dokulu bir yağlı boya stili için video oluşturma istemi.
-
-#### 📝 Prompt
-
-```
-Görünen fırça darbeleriyle dokulu bir yağlı boya tablosu ruhunu yansıtan; taç yaprakları üzerinde hafif su damlaları bulunan, narin ve incelikli bir pastel çiçek tablosu. Çiçek; soluk gül kurusu, yumuşak lavanta ve kremsi beyaz tonlarındadır.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/035c53d59abc2db1a17eeb89da4eed6f/thumbnails/thumbnail.jpg" width="600" alt="Pastel Çiçekli Yağlı Boya Tablo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5079)**
-
-**Author:** [Carina](https://x.com/Freehere3) | **Source:** [Link](https://x.com/Freehere3/status/2057096040642465953) | **Published:** May 20, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2176,6 +2176,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-31T04:42:27.451Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-31T10:32:26.304Z</sub>
 
 </div>

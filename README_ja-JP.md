@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **1696** |
+| 📝 プロンプト総数 | **1697** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-05-31** |
 
@@ -189,6 +189,25 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### 妖精の飛行ファンタジーアニメーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ファンタジーの世界を飛び回る妖精の、超リアルな動画（ドゥンホア）スタイルのアニメーションを生成します。
+
+#### 📝 プロンプト
+
+```
+妖精の羽が現れ、彼女がファンタジーの世界へと飛び去っていく様子。超リアルなドゥンホア（中国アニメ）スタイル
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/efa8466f1bf1642315d7fa85cfae8d91/thumbnails/thumbnail.jpg" width="600" alt="妖精の飛行ファンタジーアニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5508)**
+
+**作者:** [David Avenue Media](https://x.com/davidavenueai) | **ソース:** [Link](https://x.com/davidavenueai/status/2060631221269643682) | **公開日:** May 30, 2026
+
+---
 ### メタリック・レリック・レインボー・エネルギー
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2096,25 +2115,6 @@ solid body slowly blurs and dissolves as if fading at the speed of light, reveal
 **作者:** [JeffLiuRoast](https://x.com/liu17251086) | **ソース:** [Link](https://x.com/liu17251086/status/2057125036268679229) | **公開日:** May 20, 2026
 
 ---
-### パステルカラーのフラワーオイルペインティング
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> パステルカラーの花と水滴をあしらった、芸術的で質感のある油絵スタイルの動画生成プロンプトです。
-
-#### 📝 プロンプト
-
-```
-花びらに優しい水滴が乗った、繊細で淡いパステルカラーの花の芸術的な絵画。筆致が感じられる質感のある油絵のスタイルです。花は落ち着いたブラッシュピンク、ソフトラベンダー、クリーミーホワイトの色調で表現されています。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/035c53d59abc2db1a17eeb89da4eed6f/thumbnails/thumbnail.jpg" width="600" alt="パステルカラーのフラワーオイルペインティング">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5079)**
-
-**作者:** [Carina](https://x.com/Freehere3) | **ソース:** [Link](https://x.com/Freehere3/status/2057096040642465953) | **公開日:** May 20, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2176,6 +2176,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-05-31T04:42:08.250Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-05-31T10:32:11.892Z</sub>
 
 </div>

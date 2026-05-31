@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1696** |
+| 📝 Total Prompts | **1697** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-31** |
 
@@ -189,6 +189,25 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Animation fantastique : Le vol de la fée
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Génère une animation hyperréaliste de style donghua représentant une fée volant à travers un royaume fantastique.
+
+#### 📝 Prompt
+
+```
+Les ailes de la fée apparaissent et elle s'envole à travers un royaume fantastique, style donghua hyperréaliste
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/efa8466f1bf1642315d7fa85cfae8d91/thumbnails/thumbnail.jpg" width="600" alt="Animation fantastique : Le vol de la fée">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5508)**
+
+**Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2060631221269643682) | **Published:** May 30, 2026
+
+---
 ### Relique métallique à énergie arc-en-ciel
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2096,25 +2115,6 @@ Transforme cette poupée en un crabe mécanique géant. Ensuite, il vainc trois 
 **Author:** [JeffLiuRoast](https://x.com/liu17251086) | **Source:** [Link](https://x.com/liu17251086/status/2057125036268679229) | **Published:** May 20, 2026
 
 ---
-### Peinture à l'huile de fleurs pastel
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de génération vidéo pour un style de peinture à l'huile artistique et texturé mettant en scène des fleurs pastel et des gouttes d'eau.
-
-#### 📝 Prompt
-
-```
-Une peinture artistique délicate et subtile d'une fleur aux tons pastel doux, avec de légères gouttes d'eau reposant sur les pétales, dans l'esprit d'une peinture à l'huile texturée aux coups de pinceau visibles. La fleur se décline dans des tons rose poudré, lavande douce et blanc crème.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/035c53d59abc2db1a17eeb89da4eed6f/thumbnails/thumbnail.jpg" width="600" alt="Peinture à l'huile de fleurs pastel">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5079)**
-
-**Author:** [Carina](https://x.com/Freehere3) | **Source:** [Link](https://x.com/Freehere3/status/2057096040642465953) | **Published:** May 20, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2176,6 +2176,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-31T04:42:21.622Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-31T10:32:22.879Z</sub>
 
 </div>

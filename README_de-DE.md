@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1696** |
+| 📝 Total Prompts | **1697** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-31** |
 
@@ -189,6 +189,25 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Feenflug-Fantasy-Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Erzeugt eine hyperrealistische Animation im Donghua-Stil, die eine Fee zeigt, wie sie durch ein Fantasy-Reich fliegt.
+
+#### 📝 Prompt
+
+```
+Die Flügel der Fee erscheinen und sie fliegt durch ein Fantasy-Reich davon, hyperrealistischer Donghua-Stil
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/efa8466f1bf1642315d7fa85cfae8d91/thumbnails/thumbnail.jpg" width="600" alt="Feenflug-Fantasy-Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5508)**
+
+**Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2060631221269643682) | **Published:** May 30, 2026
+
+---
 ### Metallisches Relikt mit Regenbogenenergie
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2096,25 +2115,6 @@ Verwandle diese Puppe in eine riesige mechanische Krabbe. Dann besiegt sie drei 
 **Author:** [JeffLiuRoast](https://x.com/liu17251086) | **Source:** [Link](https://x.com/liu17251086/status/2057125036268679229) | **Published:** May 20, 2026
 
 ---
-### Pastellfarbenes Blumen-Ölgemälde
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Generierungs-Prompt für einen künstlerischen, texturierten Ölgemälde-Stil mit Pastellblumen und Wassertropfen.
-
-#### 📝 Prompt
-
-```
-Ein zartes und subtiles künstlerisches Gemälde einer sanften Pastellblume mit feinen Wassertropfen auf den Blütenblättern, im Stil eines texturierten Ölgemäldes mit sichtbaren Pinselstrichen. Die Blume ist in gedeckten Altrosa-, zarten Lavendel- und cremeweißen Tönen gehalten.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/035c53d59abc2db1a17eeb89da4eed6f/thumbnails/thumbnail.jpg" width="600" alt="Pastellfarbenes Blumen-Ölgemälde">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5079)**
-
-**Author:** [Carina](https://x.com/Freehere3) | **Source:** [Link](https://x.com/Freehere3/status/2057096040642465953) | **Published:** May 20, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2176,6 +2176,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-31T04:42:19.910Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-31T10:32:21.505Z</sub>
 
 </div>

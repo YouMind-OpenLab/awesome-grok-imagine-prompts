@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1696** |
+| 📝 Total Prompts | **1697** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-05-31** |
 
@@ -189,6 +189,25 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### परी की उड़ान फैंटेसी एनिमेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक फैंटेसी दुनिया में उड़ती हुई परी का हाइपर-रियलिस्टिक डोंगहुआ-शैली का एनिमेशन जेनरेट करता है।
+
+#### 📝 Prompt
+
+```
+परी के पंख दिखाई देते हैं और वह एक फैंटेसी दुनिया में उड़ जाती है, हाइपर रियलिस्टिक डोंगहुआ
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/efa8466f1bf1642315d7fa85cfae8d91/thumbnails/thumbnail.jpg" width="600" alt="परी की उड़ान फैंटेसी एनिमेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5508)**
+
+**Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2060631221269643682) | **Published:** May 30, 2026
+
+---
 ### Metallic Relic Rainbow Energy
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2096,25 +2115,6 @@ solid body slowly blurs and dissolves as if fading at the speed of light, reveal
 **Author:** [JeffLiuRoast](https://x.com/liu17251086) | **Source:** [Link](https://x.com/liu17251086/status/2057125036268679229) | **Published:** May 20, 2026
 
 ---
-### पेस्टल फ्लावर ऑयल पेंटिंग
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> पेस्टल फूलों और पानी की बूंदों वाली एक कलात्मक, टेक्सचर्ड ऑयल पेंटिंग शैली के लिए एक वीडियो जनरेशन प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-एक नाजुक और सूक्ष्म कलात्मक पेंटिंग, जिसमें पंखुड़ियों पर पानी की कोमल बूंदों के साथ एक हल्का पेस्टल फूल है। यह टेक्सचर्ड ऑयल पेंटिंग की शैली में है, जिसमें ब्रश के निशान स्पष्ट रूप से दिखाई देते हैं। फूल हल्के ब्लश पिंक, सॉफ्ट लैवेंडर और क्रीमी व्हाइट रंगों में है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/035c53d59abc2db1a17eeb89da4eed6f/thumbnails/thumbnail.jpg" width="600" alt="पेस्टल फ्लावर ऑयल पेंटिंग">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5079)**
-
-**Author:** [Carina](https://x.com/Freehere3) | **Source:** [Link](https://x.com/Freehere3/status/2057096040642465953) | **Published:** May 20, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2176,6 +2176,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-31T04:42:15.215Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-31T10:32:17.398Z</sub>
 
 </div>
