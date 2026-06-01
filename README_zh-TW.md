@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **1697** |
+| 📝 提示詞總數 | **1709** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-06-01** |
 
@@ -189,6 +189,235 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 寧靜的日落海灘場景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個平靜的提示詞，用於生成一段影片：描繪一個人站在日落時分的海灘上，望向海洋，沉浸在沉思的時刻。
+
+#### 📝 提示詞
+
+```
+一個人站在日落時分的海灘上，面向海洋，呈現出寧靜且沉思的場景。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/26cfe70a7731bc50f61328e362fb25fc/thumbnails/thumbnail.jpg" width="600" alt="寧靜的日落海灘場景">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5564)**
+
+**作者:** [Marie](https://x.com/Marie8508319540) | **來源:** [Link](https://x.com/Marie8508319540/status/2061197152009810428) | **發布時間:** May 31, 2026
+
+---
+### 徑向分層戴森雲
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個複雜的科幻提示詞，描述了從圍繞恆星的衛星技術演變而來的戴森雲。
+
+#### 📝 提示詞
+
+```
+我們的概念是一個從 Starlink 技術演變而來的徑向分層部分戴森雲。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cfc27c525c79ba7d03b757ffc0193932/thumbnails/thumbnail.jpg" width="600" alt="徑向分層戴森雲">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5562)**
+
+**作者:** [Christmas_the_Merry](https://x.com/Xmas_the_Merry) | **來源:** [Link](https://x.com/Xmas_the_Merry/status/2061161635998466397) | **發布時間:** May 31, 2026
+
+---
+### 畢卡索模仿梵谷
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個極具創意的藝術提示詞，想像 Pablo Picasso 以 Vincent van Gogh 的風格在畫布上創作。
+
+#### 📝 提示詞
+
+```
+夢想你是 Pablo Picasso，正在模仿 Vincent van Gogh 的風格，僅使用顏料和畫布進行創作
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee8d00ea1b95a06f9cbc718d1d036bc3/thumbnails/thumbnail.jpg" width="600" alt="畢卡索模仿梵谷">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5561)**
+
+**作者:** [Manual Mystique](https://x.com/ManualMystique) | **來源:** [Link](https://x.com/ManualMystique/status/2061034648642162837) | **發布時間:** May 31, 2026
+
+---
+### 在復古電視機內大笑的男子
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個描述性極強且帶有狂躁感的影片提示詞，畫面呈現一名男子在復古電視螢幕中瘋狂大笑，動作顯得極度焦躁不安。
+
+#### 📝 提示詞
+
+```
+復古電視螢幕中的男子像瘋子一樣歇斯底里地大笑，表情狂躁且雙眼瞪大，頭部不規則地晃動，嘴巴張開無法控制地大笑，傳達出徹底的瘋狂與混亂感。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0415cbf28b43a9e801fc16d8ec0752bd/thumbnails/thumbnail.jpg" width="600" alt="在復古電視機內大笑的男子">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5557)**
+
+**作者:** [Rodrigo Bressane](https://x.com/bressane) | **來源:** [Link](https://x.com/bressane/status/2061027054171128277) | **發布時間:** May 31, 2026
+
+---
+### Space Scout 撤離策略
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一份詳細的影片敘事提示詞，內容為童軍領袖向 Space Scouts 解說在火災或風暴發生時，如何利用地圖進行撤離規劃。
+
+#### 📝 提示詞
+
+```
+Scout Leader 向 Space Scouts 解說他們的撤離策略……在發生火災或風暴時使用標記地圖。許多沿海山區都需要制定相關計畫。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/511d5338d73f4ea1836cfd528d2ee261/thumbnails/thumbnail.jpg" width="600" alt="Space Scout 撤離策略">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5565)**
+
+**作者:** [Jean](https://x.com/SpaceScoutsIntl) | **來源:** [Link](https://x.com/SpaceScoutsIntl/status/2060993031311122675) | **發布時間:** May 31, 2026
+
+---
+### 童軍露營逃生計畫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段關於童軍在露營期間規劃逃生路線的影片，重點在於領導力與安全意識。
+
+#### 📝 提示詞
+
+```
+童軍在露營時規劃安全逃生路線，年輕人需要了解預期狀況以及如何發揮領導力
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fe0935514429879ab6360bd877f33af7/thumbnails/thumbnail.jpg" width="600" alt="童軍露營逃生計畫">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5558)**
+
+**作者:** [Jean](https://x.com/SpaceScoutsIntl) | **來源:** [Link](https://x.com/SpaceScoutsIntl/status/2060991846613127427) | **發布時間:** May 31, 2026
+
+---
+### 佛羅里達州颶風與大平原龍捲風之比較
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一部關於颶風與龍捲風的教育性影片提示，詳細說明了兩者的形成、規模及損害模式。
+
+#### 📝 提示詞
+
+```
+佛羅里達州的颶風與大平原的龍捲風：透過清晰的對照比較，呈現兩者在形成過程、規模大小、持續時間、風場模式、損害類型以及預警時間上的關鍵差異。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1b15703378b78c274a919cbe9d26963a/thumbnails/thumbnail.jpg" width="600" alt="佛羅里達州颶風與大平原龍捲風之比較">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5556)**
+
+**作者:** [Jean](https://x.com/SpaceScoutsIntl) | **來源:** [Link](https://x.com/SpaceScoutsIntl/status/2060990201829400897) | **發布時間:** May 31, 2026
+
+---
+### 未來能源裝置原型
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個用於影片製作的技術與視覺提示詞，描述了一款帶有發光核心、置於模糊工業背景中的未來能源裝置。
+
+#### 📝 提示詞
+
+```
+一款帶有發光核心的未來能源裝置原型，背景為模糊的工業場景。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/72bcc000ade66f2ea3fed85fd94ea114/thumbnails/thumbnail.jpg" width="600" alt="未來能源裝置原型">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5555)**
+
+**作者:** [Resource Swarm Reactor](https://x.com/ResourceSwarm) | **來源:** [Link](https://x.com/ResourceSwarm/status/2060974660171293159) | **發布時間:** May 31, 2026
+
+---
+### 未來感石墨烯水上運動度假村
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 生成一段高科技影片，展示一座由先進石墨烯材料建造、並整合了人體動力推進系統的未來感水上運動度假村。
+
+#### 📝 提示詞
+
+```
+想像一座主要由先進石墨烯材料建造的未來感水上運動度假村，其中配備了包含人體整合式的動力推進系統
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4282f9c8ccb0a0ad19a849748255c4e2/thumbnails/thumbnail.jpg" width="600" alt="未來感石墨烯水上運動度假村">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5563)**
+
+**作者:** [Resource Swarm Reactor](https://x.com/ResourceSwarm) | **來源:** [Link](https://x.com/ResourceSwarm/status/2060962001594028321) | **發布時間:** May 31, 2026
+
+---
+### 復古《德古拉》書籍
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段充滿氛圍感的影片提示詞，展示了一本放在雕花木桌上、封面為復古蛇皮質感的《德古拉》書籍。
+
+#### 📝 提示詞
+
+```
+一本封面為黑色蛇皮質感、印有金色與紅色「Dracula」字樣的復古書籍，放置在雕花木桌上
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/74716d3fdb4135e940c4441f00c36102/thumbnails/thumbnail.jpg" width="600" alt="復古《德古拉》書籍">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5566)**
+
+**作者:** [RinGo_3.0](https://x.com/NftEcat) | **來源:** [Link](https://x.com/NftEcat/status/2060953408232649151) | **發布時間:** May 31, 2026
+
+---
+### 宇宙風暴中的漂浮玻璃城堡
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個極具氛圍感的奇幻提示詞，用於生成一座玻璃城堡在充滿閃電的宇宙風暴中漂浮的影片。
+
+#### 📝 提示詞
+
+```
+一座漂浮在宇宙風暴中的玻璃城堡 ⚡
+閃電裂開，碎片漂浮，營造出純粹且充滿情緒的氛圍。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/da35ff6da97ef75d4933f8b430391b6c/thumbnails/thumbnail.jpg" width="600" alt="宇宙風暴中的漂浮玻璃城堡">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5559)**
+
+**作者:** [Jen DuBose](https://x.com/DuBoseCreations) | **來源:** [Link](https://x.com/DuBoseCreations/status/2060951746260652068) | **發布時間:** May 31, 2026
+
+---
+### 科幻數位虛空與紫色雨
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個科幻影片提示詞，描繪了在午夜藍色的深邃數位虛空中落下的紫色雨。
+
+#### 📝 提示詞
+
+```
+紫色雨，深處於 MidnightBlue / 科幻數位領域的虛空中，角落有 TLV
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/535cc8c0f2c615633021357c97d6eda4/thumbnails/thumbnail.jpg" width="600" alt="科幻數位虛空與紫色雨">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5560)**
+
+**作者:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **來源:** [Link](https://x.com/TLouisevsughan/status/2060908372048945574) | **發布時間:** May 31, 2026
+
+---
 ### 仙子飛行奇幻動畫
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1881,240 +2110,6 @@ solid body slowly blurs and dissolves as if fading at the speed of light, reveal
 **作者:** [Chelle](https://x.com/freesawn137) | **來源:** [Link](https://x.com/freesawn137/status/2057671936952393893) | **發布時間:** May 22, 2026
 
 ---
-### 環繞太空的未來感太空船
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個攝影機環繞深空中流線型太空船的提示詞，背景為星雲。
-
-#### 📝 提示詞
-
-```
-攝影機緩慢環繞深空中未來感太空船的外部，從不同角度展現其流線型船體與發光的窗戶，背景為繁星與星雲。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/80bea774f89a41c3024c9c612ed737e6/thumbnails/thumbnail.jpg" width="600" alt="環繞太空的未來感太空船">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5131)**
-
-**作者:** [MIUZAH DEIOPAH OF THE PLEIADES](https://x.com/Octillion111111) | **來源:** [Link](https://x.com/Octillion111111/status/2057566105393054058) | **發布時間:** May 21, 2026
-
----
-### 廚房裡的俏皮愛戀氛圍
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個影片提示詞，描繪了一對情侶在廚房中，周圍環繞著漂浮的愛心與鈔票，營造出俏皮的氛圍。
-
-#### 📝 提示詞
-
-```
-一位穿著綠色上衣、有紋身的女性與一名男子在廚房裡深情微笑，周圍有鈔票和許多漂浮的愛心，充滿俏皮的愛戀氛圍。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/43e1ead2d76c388c2eb9f11106fa276e/thumbnails/thumbnail.jpg" width="600" alt="廚房裡的俏皮愛戀氛圍">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5129)**
-
-**作者:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **來源:** [Link](https://x.com/maggiejuang1/status/2057477179902988408) | **發布時間:** May 21, 2026
-
----
-### 擁有白金髮色的吸血鬼女性
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個電影級的影片提示詞，描繪了一位美麗的吸血鬼女性，她擁有長長的白金金色頭髮與紅色雙眼，手持一朵黑玫瑰。
-
-#### 📝 提示詞
-
-```
-美麗的吸血鬼女性，擁有長長的白金金色頭髮與紅色雙眼，將一朵黑玫瑰抱在胸前
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/57ded65af302fe1d749690cfbc155af8/thumbnails/thumbnail.jpg" width="600" alt="擁有白金髮色的吸血鬼女性">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5128)**
-
-**作者:** [Benjamin Ferrarini](https://x.com/Granddragonben) | **來源:** [Link](https://x.com/Granddragonben/status/2057455897903804911) | **發布時間:** May 21, 2026
-
----
-### 電梯時尚鏡像世界
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個風格化的影片提示詞，用於測試在電梯鏡像世界中柔和的動作與夢幻般的物理效果。
-
-#### 📝 提示詞
-
-```
-電梯時尚 • 鏡像世界 • Slider（測試柔和動作與夢幻物理效果）
-```
-
-<img src="https://cms-assets.youmind.com/media/1779438773089_01l2a5_HI2KbXAa8AEdUhJ.jpg" width="600" alt="電梯時尚鏡像世界">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5132)**
-
-**作者:** [sugarcane](https://x.com/sugarcanebkk) | **來源:** [Link](https://x.com/sugarcanebkk/status/2057452874289095060) | **發布時間:** May 21, 2026
-
----
-### 彩色爆炸畫面比例重構
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 此提示詞旨在將充滿活力的噴發與爆炸動畫重構為 16:9 的電影級畫面比例，並將動作主體置於湛藍天空背景的中心。
-
-#### 📝 提示詞
-
-```
-重構為 16:9 畫面比例，將充滿活力的彩色噴發與爆炸置於湛藍天空背景的中心。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/885d22b1f8d2a523309867eaf667beec/thumbnails/thumbnail.jpg" width="600" alt="彩色爆炸畫面比例重構">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5133)**
-
-**作者:** [Dwaynemeiers](https://x.com/Dwaynemeiers) | **來源:** [Link](https://x.com/Dwaynemeiers/status/2057406674437357960) | **發布時間:** May 21, 2026
-
----
-### 聖經引言鋼筆畫動畫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段透過電影級燈光效果呈現的動畫，描繪了一支鋼筆正在書寫關於審判與祖先罪孽的聖經引言。
-
-#### 📝 提示詞
-
-```
-讓鋼筆寫下「你已被審判，且被發現不足」（You have been judged and found wanting）……然後寫下關於亞當與夏娃的罪孽傳承至後代的聖經引言？透過光影的語言來呈現。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a1469bce60579a51c99496a4cc1dbc3c/thumbnails/thumbnail.jpg" width="600" alt="聖經引言鋼筆畫動畫">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5130)**
-
-**作者:** [Michael Bradley](https://x.com/MikeBradleySr2) | **來源:** [Link](https://x.com/MikeBradleySr2/status/2057385133187981793) | **發布時間:** May 21, 2026
-
----
-### 金龍戰術機甲
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個極其細緻的科幻武俠提示詞，描繪了一位身穿精緻龍主題戰術盔甲的女性，背景為古戰場。
-
-#### 📝 提示詞
-
-```
-一位令人驚豔的東亞女性，五官精緻銳利，留著深棕色長髮，紮成高挑俐落的馬尾，髮絲飄逸。她身穿超細緻的未來感黑色戰術機甲，裝飾著華麗且發光的金色中國龍。盔甲上有複雜的金色龍鱗，雙肩各有一個發光的金色龍頭，胸前有發光的金龍圖案，背部則有一條巨大的盤繞金龍。機甲配備發光的藍色能量線與電路，明亮的黃橙色發光裝甲區塊，黑色戰術呼吸面罩遮住下半臉。
-
-場景開場時，她強勢地站在廣闊古戰場中央，面向鏡頭，周圍環繞著旋轉的亮藍色圓形能量環。她緩緩轉身 180 度展示背部，馬尾隨之戲劇性地擺動。鏡頭平滑地圍繞她旋轉，在正面四分之三視角與背面視角之間切換，並運用動態的低角度英雄式鏡頭。
-
-環境：背景模糊處有龐大的中國古代軍隊，地面為塵土飛揚的戰場，天空陰沉且充滿戲劇性。強烈的電影級燈光，伴隨發光的藍色漂浮能量粒子、金色火花以及如雨般落下的垂直發光光束。盔甲散發出強烈的藍色與金色脈衝光芒。
-
-風格：超寫實電影級 8K，超細緻紋理，戲劇性體積光，史詩級科幻武俠融合，完美的人體結構，複雜的盔甲細節，動態感，高製作水準，IMAX 拍攝 --ar 9:16 --stylize 250 --v 6
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f856f622a9e6991527bd9c183a4f90eb/thumbnails/thumbnail.jpg" width="600" alt="金龍戰術機甲">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5082)**
-
-**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **來源:** [Link](https://x.com/ThoughCreator/status/2057249122181325014) | **發布時間:** May 20, 2026
-
----
-### 唱歌機器人狐狸動畫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個為 Grok Imagine 設計的創意影片提示詞，內容為一隻邊走邊唱惡搞歌曲的機器人狐狸。
-
-#### 📝 提示詞
-
-```
-想像一隻機器人狐狸轉身並走向鏡頭，同時唱著：「What does the GROK say! Ding ding ding da ding da dah ding. What does the Grok say!」
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1d48f923c57a6e49c0f179ea9bf67268/thumbnails/thumbnail.jpg" width="600" alt="唱歌機器人狐狸動畫">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5090)**
-
-**作者:** [Joe Pelayo](https://x.com/JoeHeadhunter) | **來源:** [Link](https://x.com/JoeHeadhunter/status/2057238505412026463) | **發布時間:** May 20, 2026
-
----
-### 樂高角色自我動畫製作
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一項提供給 Grok Imagine 的指令，旨在將使用者轉換為樂高角色版本，並利用影像參考將兩者製作成一段動畫影片。
-
-#### 📝 提示詞
-
-```
-使用您本人與樂高角色的影像作為參考，將其製作成一段動畫影片。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9937910b41d6ebfddb6d0094836be8b5/thumbnails/thumbnail.jpg" width="600" alt="樂高角色自我動畫製作">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5088)**
-
-**作者:** [Ralph](https://x.com/RalphTheMaker) | **來源:** [Link](https://x.com/RalphTheMaker/status/2057229234083377586) | **發布時間:** May 20, 2026
-
----
-### 蒲公英田裡的浪漫相遇
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一場浪漫的電影級運鏡，捕捉蒲公英在風中搖曳的畫面，同時一名男子正奔向一名女子。
-
-#### 📝 提示詞
-
-```
-鏡頭平移至蒲公英在風中輕柔擺動的細節，此時男子正跑向遠方，鏡頭並未對焦於他，隨後一位美麗的女子出現並深情地看向他
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1931e50d69fa975fbad1aa91149dcd9f/thumbnails/thumbnail.jpg" width="600" alt="蒲公英田裡的浪漫相遇">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5087)**
-
-**作者:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **來源:** [Link](https://x.com/CindyWeigapn6/status/2057210352849265070) | **發布時間:** May 20, 2026
-
----
-### 悠閒動漫少女互動
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個詳細的電影級影片提示詞，主角名為 Ani，她會做出偷看、輕拍和飛吻等甜美且惹人憐愛的動作。
-
-#### 📝 提示詞
-
-```
-製作一段流暢且悠閒的影片。Ani 深情地偷看並向前傾身。她輕柔地用手輕拍，接著做出一個甜美的動作：將手放在臉頰上，展現出惹人憐愛且渴望被寵溺的神情。最後，她向觀眾送出一個溫柔的飛吻。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6d7199c81f1713ae6bab6e318baccc38/thumbnails/thumbnail.jpg" width="600" alt="悠閒動漫少女互動">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5081)**
-
-**作者:** [Aniの日常](https://x.com/tarohinomo78040) | **來源:** [Link](https://x.com/tarohinomo78040/status/2057137600314655013) | **發布時間:** May 20, 2026
-
----
-### 巨型機械螃蟹怪獸大戰
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 一個動態影片生成提示詞，描述一個玩具變身為巨型機械螃蟹，並在月球場景中與三隻不同的怪獸戰鬥。
-
-#### 📝 提示詞
-
-```
-將這個玩偶變成一隻巨型機械螃蟹。接著，它在廣闊的月球場景中擊敗三隻怪獸。第一隻怪獸是邪惡的老虎，第二隻是外型恐怖的蟒蛇，第三隻則是模樣噁心的泥鰍。它使用巨型機關槍將它們全數殲滅。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bb95d24324226cd7f352cb57f20bc210/thumbnails/thumbnail.jpg" width="600" alt="巨型機械螃蟹怪獸大戰">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5089)**
-
-**作者:** [JeffLiuRoast](https://x.com/liu17251086) | **來源:** [Link](https://x.com/liu17251086/status/2057125036268679229) | **發布時間:** May 20, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2176,6 +2171,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-06-01T05:09:37.540Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-06-01T13:56:49.930Z</sub>
 
 </div>

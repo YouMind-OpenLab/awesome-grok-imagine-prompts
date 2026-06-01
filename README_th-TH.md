@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1697** |
+| 📝 Total Prompts | **1709** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-01** |
 
@@ -189,6 +189,235 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### ฉากพระอาทิตย์ตกดินอันเงียบสงบบนชายหาด
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับวิดีโอที่ให้ความรู้สึกสงบ แสดงภาพคนยืนอยู่บนชายหาดในช่วงพระอาทิตย์ตกดิน กำลังมองออกไปที่มหาสมุทรด้วยความรู้สึกครุ่นคิด
+
+#### 📝 Prompt
+
+```
+คนยืนอยู่บนชายหาดในช่วงพระอาทิตย์ตกดิน หันหน้าออกสู่มหาสมุทรในฉากที่เงียบสงบและเต็มไปด้วยความครุ่นคิด
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/26cfe70a7731bc50f61328e362fb25fc/thumbnails/thumbnail.jpg" width="600" alt="ฉากพระอาทิตย์ตกดินอันเงียบสงบบนชายหาด">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5564)**
+
+**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2061197152009810428) | **Published:** May 31, 2026
+
+---
+### กลุ่มดาวเทียม Dyson Swarm แบบแบ่งชั้นรัศมี
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่งแนวไซไฟที่ซับซ้อนซึ่งอธิบายถึง Dyson swarm ที่พัฒนามาจากเทคโนโลยีดาวเทียมที่ล้อมรอบดวงอาทิตย์
+
+#### 📝 Prompt
+
+```
+แนวคิดของเราคือ Dyson swarm แบบบางส่วนที่แบ่งเป็นชั้นตามแนวรัศมี ซึ่งพัฒนามาจากเทคโนโลยีของ Starlink
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cfc27c525c79ba7d03b757ffc0193932/thumbnails/thumbnail.jpg" width="600" alt="กลุ่มดาวเทียม Dyson Swarm แบบแบ่งชั้นรัศมี">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5562)**
+
+**Author:** [Christmas_the_Merry](https://x.com/Xmas_the_Merry) | **Source:** [Link](https://x.com/Xmas_the_Merry/status/2061161635998466397) | **Published:** May 31, 2026
+
+---
+### เมื่อ Picasso วาดภาพในสไตล์ Van Gogh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สร้างสรรค์ผลงานศิลปะที่จินตนาการถึง Pablo Picasso กำลังวาดภาพบนผืนผ้าใบในสไตล์ของ Vincent van Gogh
+
+#### 📝 Prompt
+
+```
+จินตนาการว่าคุณคือ Pablo Picasso ที่กำลังวาดภาพเลียนแบบสไตล์ของ Vincent van Gogh โดยใช้เพียงสีและผืนผ้าใบเท่านั้น
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee8d00ea1b95a06f9cbc718d1d036bc3/thumbnails/thumbnail.jpg" width="600" alt="เมื่อ Picasso วาดภาพในสไตล์ Van Gogh">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5561)**
+
+**Author:** [Manual Mystique](https://x.com/ManualMystique) | **Source:** [Link](https://x.com/ManualMystique/status/2061034648642162837) | **Published:** May 31, 2026
+
+---
+### ชายหัวเราะอยู่ภายในโทรทัศน์วินเทจ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์ที่บรรยายรายละเอียดอย่างชัดเจนและดูบ้าคลั่ง โดยมีชายคนหนึ่งกำลังหัวเราะอย่างบ้าคลั่งอยู่ภายในหน้าจอโทรทัศน์วินเทจพร้อมการเคลื่อนไหวที่ตื่นตระหนก
+
+#### 📝 Prompt
+
+```
+ชายที่อยู่ภายในหน้าจอโทรทัศน์วินเทจกำลังหัวเราะอย่างบ้าคลั่งราวกับคนเสียสติ ด้วยสีหน้าเบิกตากว้างอย่างคลุ้มคลั่ง ศีรษะขยับไปมาอย่างไม่เป็นจังหวะ ปากอ้ากว้างหัวเราะอย่างควบคุมไม่ได้ สื่อถึงความวิกลจริตและความโกลาหลอย่างสมบูรณ์
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0415cbf28b43a9e801fc16d8ec0752bd/thumbnails/thumbnail.jpg" width="600" alt="ชายหัวเราะอยู่ภายในโทรทัศน์วินเทจ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5557)**
+
+**Author:** [Rodrigo Bressane](https://x.com/bressane) | **Source:** [Link](https://x.com/bressane/status/2061027054171128277) | **Published:** May 31, 2026
+
+---
+### กลยุทธ์การอพยพของ Space Scout
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง (Prompt) สำหรับสร้างวิดีโอแบบบรรยาย โดยมีหัวหน้าลูกเสืออธิบายแผนการอพยพเมื่อเกิดไฟไหม้หรือพายุให้กับเหล่า Space Scout โดยใช้แผนที่ประกอบ
+
+#### 📝 Prompt
+
+```
+หัวหน้าลูกเสืออธิบายกลยุทธ์การอพยพให้กับเหล่า Space Scout... พร้อมแผนที่ที่ระบุจุดต่างๆ ในกรณีที่เกิดไฟไหม้หรือพายุ พื้นที่ภูเขาชายฝั่งหลายแห่งจำเป็นต้องมีแผนรับมือ
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/511d5338d73f4ea1836cfd528d2ee261/thumbnails/thumbnail.jpg" width="600" alt="กลยุทธ์การอพยพของ Space Scout">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5565)**
+
+**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2060993031311122675) | **Published:** May 31, 2026
+
+---
+### แผนการหนีออกจากค่ายของลูกเสือ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอฉากลูกเสือวางแผนการหนีระหว่างไปเข้าค่าย โดยเน้นเรื่องความเป็นผู้นำและความปลอดภัย
+
+#### 📝 Prompt
+
+```
+ลูกเสือระหว่างไปเข้าค่ายวางแผนการหนีอย่างปลอดภัย เยาวชนจำเป็นต้องรู้ว่าควรคาดหวังอะไรและจะนำทีมอย่างไร
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fe0935514429879ab6360bd877f33af7/thumbnails/thumbnail.jpg" width="600" alt="แผนการหนีออกจากค่ายของลูกเสือ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5558)**
+
+**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2060991846613127427) | **Published:** May 31, 2026
+
+---
+### เฮอริเคนในฟลอริดา ปะทะ ทอร์นาโดในเกรตเพลนส์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอให้ความรู้ที่เปรียบเทียบระหว่างเฮอริเคนและทอร์นาโด โดยอธิบายรายละเอียดเกี่ยวกับการก่อตัว ขนาด และรูปแบบความเสียหาย
+
+#### 📝 Prompt
+
+```
+เฮอริเคนในฟลอริดาเปรียบเทียบกับทอร์นาโดในเกรตเพลนส์: การเปรียบเทียบเชิงวิชาการที่ชัดเจนแบบเคียงข้างกัน ซึ่งแสดงให้เห็นถึงความแตกต่างที่สำคัญในด้านการก่อตัว ขนาด ระยะเวลา รูปแบบลม ประเภทของความเสียหาย และระยะเวลาในการเตือนภัยโดยทั่วไป
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1b15703378b78c274a919cbe9d26963a/thumbnails/thumbnail.jpg" width="600" alt="เฮอริเคนในฟลอริดา ปะทะ ทอร์นาโดในเกรตเพลนส์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5556)**
+
+**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2060990201829400897) | **Published:** May 31, 2026
+
+---
+### ต้นแบบอุปกรณ์พลังงานแห่งอนาคต
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์เชิงเทคนิคและภาพสำหรับอุปกรณ์พลังงานแห่งอนาคตที่มีแกนเรืองแสง โดยมีฉากหลังเป็นโรงงานอุตสาหกรรมแบบเบลอสำหรับวิดีโอ
+
+#### 📝 Prompt
+
+```
+ต้นแบบอุปกรณ์พลังงานแห่งอนาคตที่มีแกนเรืองแสง ในฉากหลังที่เป็นโรงงานอุตสาหกรรมแบบเบลอ
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/72bcc000ade66f2ea3fed85fd94ea114/thumbnails/thumbnail.jpg" width="600" alt="ต้นแบบอุปกรณ์พลังงานแห่งอนาคต">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5555)**
+
+**Author:** [Resource Swarm Reactor](https://x.com/ResourceSwarm) | **Source:** [Link](https://x.com/ResourceSwarm/status/2060974660171293159) | **Published:** May 31, 2026
+
+---
+### รีสอร์ตกีฬาทางน้ำแห่งอนาคตด้วยวัสดุกราฟีน
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> สร้างวิดีโอไฮเทคของรีสอร์ตกีฬาทางน้ำแห่งอนาคตที่สร้างขึ้นจากวัสดุกราฟีนขั้นสูง พร้อมระบบขับเคลื่อนที่ใช้พลังงานจากมนุษย์แบบบูรณาการ
+
+#### 📝 Prompt
+
+```
+ลองจินตนาการถึงรีสอร์ตกีฬาทางน้ำแห่งอนาคตที่สร้างขึ้นจากวัสดุกราฟีนขั้นสูงเป็นหลัก พร้อมด้วยระบบขับเคลื่อนที่ผสานการทำงานร่วมกับพลังงานจากมนุษย์
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4282f9c8ccb0a0ad19a849748255c4e2/thumbnails/thumbnail.jpg" width="600" alt="รีสอร์ตกีฬาทางน้ำแห่งอนาคตด้วยวัสดุกราฟีน">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5563)**
+
+**Author:** [Resource Swarm Reactor](https://x.com/ResourceSwarm) | **Source:** [Link](https://x.com/ResourceSwarm/status/2060962001594028321) | **Published:** May 31, 2026
+
+---
+### หนังสือ Dracula ฉบับวินเทจ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์บรรยากาศลึกลับที่แสดงภาพหนังสือ 'Dracula' ปกหนังงูฉบับวินเทจวางอยู่บนโต๊ะไม้แกะสลัก
+
+#### 📝 Prompt
+
+```
+หนังสือปกหนังงูสีดำฉบับวินเทจที่มีตัวอักษรสีทองและสีแดงคำว่า “Dracula” วางอยู่บนโต๊ะไม้แกะสลัก
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/74716d3fdb4135e940c4441f00c36102/thumbnails/thumbnail.jpg" width="600" alt="หนังสือ Dracula ฉบับวินเทจ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5566)**
+
+**Author:** [RinGo_3.0](https://x.com/NftEcat) | **Source:** [Link](https://x.com/NftEcat/status/2060953408232649151) | **Published:** May 31, 2026
+
+---
+### ปราสาทแก้วลอยฟ้าท่ามกลางพายุคอสมิก
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์แนวแฟนตาซีที่เน้นบรรยากาศ สำหรับวิดีโอปราสาทแก้วที่ล่องลอยอยู่ในพายุคอสมิกที่เต็มไปด้วยสายฟ้า
+
+#### 📝 Prompt
+
+```
+ปราสาทแก้วลอยฟ้าที่ติดอยู่ในพายุคอสมิก ⚡
+สายฟ้าฟาดเปรี้ยง เศษแก้วลอยละล่อง บรรยากาศสุดลึกลับและน่าค้นหา
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/da35ff6da97ef75d4933f8b430391b6c/thumbnails/thumbnail.jpg" width="600" alt="ปราสาทแก้วลอยฟ้าท่ามกลางพายุคอสมิก">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5559)**
+
+**Author:** [Jen DuBose](https://x.com/DuBoseCreations) | **Source:** [Link](https://x.com/DuBoseCreations/status/2060951746260652068) | **Published:** May 31, 2026
+
+---
+### ความว่างเปล่าในโลกดิจิทัลสไตล์ไซไฟพร้อมสายฝนสีม่วง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์แนวไซไฟที่แสดงภาพสายฝนสีม่วงกำลังโปรยปรายลงมาภายในความว่างเปล่าของโลกดิจิทัลสีน้ำเงินเข้ม
+
+#### 📝 Prompt
+
+```
+สายฝนสีม่วง ท่ามกลางความว่างเปล่าในอาณาจักรแห่ง MidnightBlue/โลกดิจิทัลสไตล์ไซไฟ, TLV ที่มุมภาพ
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/535cc8c0f2c615633021357c97d6eda4/thumbnails/thumbnail.jpg" width="600" alt="ความว่างเปล่าในโลกดิจิทัลสไตล์ไซไฟพร้อมสายฝนสีม่วง">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5560)**
+
+**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2060908372048945574) | **Published:** May 31, 2026
+
+---
 ### แอนิเมชันแฟนตาซีการบินของนางฟ้า
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1881,240 +2110,6 @@ solid body slowly blurs and dissolves as if fading at the speed of light, reveal
 **Author:** [Chelle](https://x.com/freesawn137) | **Source:** [Link](https://x.com/freesawn137/status/2057671936952393893) | **Published:** May 22, 2026
 
 ---
-### ยานอวกาศแห่งอนาคตที่กำลังโคจรรอบอวกาศ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (prompt) สำหรับการเคลื่อนที่ของกล้องที่โคจรรอบยานอวกาศรูปทรงโฉบเฉี่ยวในห้วงอวกาศลึก โดยมีฉากหลังเป็นเนบิวลา
-
-#### 📝 Prompt
-
-```
-การเคลื่อนที่ของกล้องแบบโคจรช้าๆ รอบภายนอกของยานอวกาศแห่งอนาคตในห้วงอวกาศลึก เผยให้เห็นตัวยานที่โฉบเฉี่ยวและหน้าต่างที่ส่องแสงจากมุมต่างๆ โดยมีดวงดาวและเนบิวลาเป็นฉากหลัง
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/80bea774f89a41c3024c9c612ed737e6/thumbnails/thumbnail.jpg" width="600" alt="ยานอวกาศแห่งอนาคตที่กำลังโคจรรอบอวกาศ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5131)**
-
-**Author:** [MIUZAH DEIOPAH OF THE PLEIADES](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2057566105393054058) | **Published:** May 21, 2026
-
----
-### บรรยากาศความรักสุดหยอกล้อในห้องครัว
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์ที่แสดงภาพคู่รักในห้องครัว ท่ามกลางเงินและหัวใจที่ลอยฟุ้ง สร้างบรรยากาศที่ดูสนุกสนานและขี้เล่น
-
-#### 📝 Prompt
-
-```
-หญิงสาวที่มีรอยสักในชุดสีเขียวและชายหนุ่มที่กำลังยิ้มให้กันอย่างรักใคร่ในห้องครัว ท่ามกลางเงินและหัวใจจำนวนมากที่ลอยอยู่รอบตัว ให้บรรยากาศความรักที่ดูสนุกสนานและขี้เล่น
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/43e1ead2d76c388c2eb9f11106fa276e/thumbnails/thumbnail.jpg" width="600" alt="บรรยากาศความรักสุดหยอกล้อในห้องครัว">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5129)**
-
-**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2057477179902988408) | **Published:** May 21, 2026
-
----
-### แวมไพร์สาวผมสีบลอนด์แพลทินัม
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวภาพยนตร์ที่นำเสนอแวมไพร์สาวสวยที่มีผมยาวสีบลอนด์แพลทินัมและดวงตาสีแดง กำลังถือดอกกุหลาบสีดำ
-
-#### 📝 Prompt
-
-```
-แวมไพร์สาวสวยผมยาวสีบลอนด์แพลทินัมและดวงตาสีแดง กำลังถือดอกกุหลาบสีดำไว้ที่หน้าอก
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/57ded65af302fe1d749690cfbc155af8/thumbnails/thumbnail.jpg" width="600" alt="แวมไพร์สาวผมสีบลอนด์แพลทินัม">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5128)**
-
-**Author:** [Benjamin Ferrarini](https://x.com/Granddragonben) | **Source:** [Link](https://x.com/Granddragonben/status/2057455897903804911) | **Published:** May 21, 2026
-
----
-### โลกกระจกแฟชั่นในลิฟต์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์ที่มีสไตล์ ทดสอบการเคลื่อนไหวที่นุ่มนวลและฟิสิกส์แบบชวนฝันภายในโลกกระจกในลิฟต์
-
-#### 📝 Prompt
-
-```
-แฟชั่นในลิฟต์ • โลกกระจก • Slides (ทดสอบการเคลื่อนไหวที่นุ่มนวลและฟิสิกส์แบบชวนฝัน)
-```
-
-<img src="https://cms-assets.youmind.com/media/1779438773089_01l2a5_HI2KbXAa8AEdUhJ.jpg" width="600" alt="โลกกระจกแฟชั่นในลิฟต์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5132)**
-
-**Author:** [sugarcane](https://x.com/sugarcanebkk) | **Source:** [Link](https://x.com/sugarcanebkk/status/2057452874289095060) | **Published:** May 21, 2026
-
----
-### การปรับสัดส่วนภาพ Colorful Explosion
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ที่ออกแบบมาเพื่อปรับสัดส่วนภาพแอนิเมชันการระเบิดที่มีสีสันสดใสให้เป็นสัดส่วนภาพแบบภาพยนตร์ 16:9 โดยเน้นจุดศูนย์กลางของเหตุการณ์ให้ตัดกับท้องฟ้าสีครามที่สดใส
-
-#### 📝 Prompt
-
-```
-ปรับสัดส่วนภาพเป็น 16:9 โดยจัดวางการระเบิดที่มีสีสันสดใสไว้ที่กึ่งกลางภาพตัดกับท้องฟ้าสีคราม
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/885d22b1f8d2a523309867eaf667beec/thumbnails/thumbnail.jpg" width="600" alt="การปรับสัดส่วนภาพ Colorful Explosion">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5133)**
-
-**Author:** [Dwaynemeiers](https://x.com/Dwaynemeiers) | **Source:** [Link](https://x.com/Dwaynemeiers/status/2057406674437357960) | **Published:** May 21, 2026
-
----
-### แอนิเมชันลายเส้นปากกาวาดข้อความจากคัมภีร์ไบเบิล
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> แอนิเมชันแสดงภาพปากกากำลังวาดข้อความจากคัมภีร์ไบเบิลเกี่ยวกับเรื่องการพิพากษาและบาปจากบรรพบุรุษ โดยถ่ายทอดผ่านการจัดแสงในรูปแบบภาพยนตร์
-
-#### 📝 Prompt
-
-```
-ให้ปากกาวาดข้อความที่ว่า “เจ้าถูกตัดสินแล้วและพบว่ายังบกพร่อง” … จากนั้นตามด้วยข้อความจากคัมภีร์ไบเบิลเกี่ยวกับบาปของอาดัมและเอวาที่ส่งต่อมายังคนรุ่นหลัง โดยถ่ายทอดผ่านภาษาของแสง
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a1469bce60579a51c99496a4cc1dbc3c/thumbnails/thumbnail.jpg" width="600" alt="แอนิเมชันลายเส้นปากกาวาดข้อความจากคัมภีร์ไบเบิล">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5130)**
-
-**Author:** [Michael Bradley](https://x.com/MikeBradleySr2) | **Source:** [Link](https://x.com/MikeBradleySr2/status/2057385133187981793) | **Published:** May 21, 2026
-
----
-### หุ่นยนต์รบยุทธวิธีมังกรทอง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์แนวไซไฟกำลังภายในที่เน้นรายละเอียดสูง นำเสนอภาพหญิงสาวในชุดเกราะยุทธวิธีธีมมังกรอันวิจิตรบนสมรภูมิรบโบราณ
-
-#### 📝 Prompt
-
-```
-หญิงสาวชาวเอเชียตะวันออกผู้สวยสง่า มีใบหน้าคมสวย ผมยาวสีน้ำตาลเข้มรวบเป็นหางม้าสูงเรียบตึงพร้อมปอยผมที่พลิ้วไหว สวมชุดเกราะหุ่นยนต์ยุทธวิธีสีดำแห่งอนาคตที่มีรายละเอียดสูงเป็นพิเศษ ตกแต่งอย่างประณีตด้วยลวดลายมังกรจีนสีทองเรืองแสง ชุดเกราะมีเกล็ดมังกรสีทองที่ซับซ้อน หัวมังกรสีทองขนาดใหญ่บนไหล่ทั้งสองข้างพร้อมดวงตาที่เรืองแสง มังกรสีทองเรืองแสงที่หน้าอก และมังกรสีทองขนาดมหึมาขดตัวอยู่ด้านหลัง ชุดนี้มีเส้นพลังงานและวงจรสีฟ้าเรืองแสง ส่วนประกอบของเกราะส่องสว่างด้วยสีเหลืองส้ม และหน้ากากช่วยหายใจยุทธวิธีสีดำปกปิดใบหน้าส่วนล่าง
-
-ฉากเปิดตัวด้วยการที่เธอยืนอย่างทรงพลังอยู่กลางสมรภูมิรบโบราณอันกว้างใหญ่ หันหน้าเข้าหากล้อง ล้อมรอบด้วยวงแหวนพลังงานสีฟ้าสดใสที่หมุนวน เธอค่อยๆ หันตัว 180 องศาเพื่อโชว์ด้านหลัง หางม้าพลิ้วไหวอย่างมีชั้นเชิง กล้องเคลื่อนที่รอบตัวเธออย่างนุ่มนวล สลับระหว่างมุมมองสามส่วนด้านหน้าและด้านหลังพร้อมช็อตมุมต่ำที่ดูฮีโร่และทรงพลัง
-
-สภาพแวดล้อม: กองทัพนักรบจีนโบราณขนาดมหึมาในพื้นหลังที่เบลอ พื้นสนามรบที่เต็มไปด้วยฝุ่น ท้องฟ้ามืดครึ้มดูน่าเกรงขาม แสงแบบภาพยนตร์ที่เข้มข้นพร้อมอนุภาคพลังงานสีฟ้าลอยฟุ้ง ประกายไฟสีทอง และลำแสงแนวตั้งที่ส่องลงมารอบตัวเธอ ชุดเกราะเปล่งแสงสีฟ้าและสีทองที่เต้นเป็นจังหวะและเรืองแสง
-
-สไตล์: ไฮเปอร์เรียลลิสติกแบบภาพยนตร์ 8K, พื้นผิวรายละเอียดสูงพิเศษ, แสงวอลูเมตริกที่น่าทึ่ง, การผสมผสานระหว่างไซไฟและกำลังภายในที่ยิ่งใหญ่, กายวิภาคที่ไร้ที่ติ, รายละเอียดเกราะที่ซับซ้อน, การเคลื่อนไหวแบบไดนามิก, คุณภาพการผลิตระดับสูง, ถ่ายทำด้วย IMAX --ar 9:16 --stylize 250 --v 6
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f856f622a9e6991527bd9c183a4f90eb/thumbnails/thumbnail.jpg" width="600" alt="หุ่นยนต์รบยุทธวิธีมังกรทอง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5082)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2057249122181325014) | **Published:** May 20, 2026
-
----
-### แอนิเมชันหุ่นยนต์สุนัขจิ้งจี้งร้องเพลง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอสร้างสรรค์สำหรับหุ่นยนต์สุนัขจิ้งจอกที่เดินและร้องเพลงล้อเลียน ออกแบบมาเพื่อใช้งานกับ Grok Imagine
-
-#### 📝 Prompt
-
-```
-จินตนาการถึงหุ่นยนต์สุนัขจิ้งจอกที่หันมาและเดินตรงมาที่กล้องพร้อมกับร้องเพลงว่า "What does the GROK say! Ding ding ding da ding da dah ding. What does the Grok say!"
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1d48f923c57a6e49c0f179ea9bf67268/thumbnails/thumbnail.jpg" width="600" alt="แอนิเมชันหุ่นยนต์สุนัขจิ้งจี้งร้องเพลง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5090)**
-
-**Author:** [Joe Pelayo](https://x.com/JoeHeadhunter) | **Source:** [Link](https://x.com/JoeHeadhunter/status/2057238505412026463) | **Published:** May 20, 2026
-
----
-### สร้างแอนิเมชันตัวละคร Lego จากภาพถ่ายของคุณ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่งสำหรับ Grok Imagine เพื่อสร้างตัวละคร Lego ในรูปแบบของคุณ และนำภาพทั้งสองมาทำเป็นวิดีโอแอนิเมชันโดยใช้ภาพอ้างอิง
-
-#### 📝 Prompt
-
-```
-สร้างวิดีโอแอนิเมชันจากภาพถ่ายของคุณและตัวละคร Lego โดยใช้ทั้งสองภาพเป็นข้อมูลอ้างอิง
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9937910b41d6ebfddb6d0094836be8b5/thumbnails/thumbnail.jpg" width="600" alt="สร้างแอนิเมชันตัวละคร Lego จากภาพถ่ายของคุณ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5088)**
-
-**Author:** [Ralph](https://x.com/RalphTheMaker) | **Source:** [Link](https://x.com/RalphTheMaker/status/2057229234083377586) | **Published:** May 20, 2026
-
----
-### นัดพบสุดโรแมนติกกลางทุ่งดอกแดนดิไลออน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ภาพยนตร์แนวโรแมนติกที่แพนกล้องผ่านทุ่งดอกแดนดิไลออนที่พริ้วไหวตามสายลม ขณะที่ชายคนหนึ่งกำลังวิ่งไปหาหญิงสาว
-
-#### 📝 Prompt
-
-```
-กล้องแพนเข้าไปที่รายละเอียดของดอกแดนดิไลออนที่กำลังพริ้วไหวอย่างนุ่มนวลตามสายลม ในขณะที่ชายคนหนึ่งวิ่งออกไปโดยที่ภาพไม่ได้โฟกัสที่ตัวเขา จากนั้นหญิงสาวแสนสวยก็ปรากฏตัวขึ้นเพื่อมอบความรักให้กับเขา
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1931e50d69fa975fbad1aa91149dcd9f/thumbnails/thumbnail.jpg" width="600" alt="นัดพบสุดโรแมนติกกลางทุ่งดอกแดนดิไลออน">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5087)**
-
-**Author:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **Source:** [Link](https://x.com/CindyWeigapn6/status/2057210352849265070) | **Published:** May 20, 2026
-
----
-### ปฏิสัมพันธ์แสนสบายของสาวน้อยอนิเมะ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ภาพยนตร์แบบละเอียดสำหรับวิดีโอที่มีตัวละครชื่อ Ani กำลังแสดงท่าทางน่ารักและออดอ้อน เช่น การแอบมอง การแตะเบาๆ และการส่งจูบ
-
-#### 📝 Prompt
-
-```
-สร้างวิดีโอที่ดูนุ่มนวลและผ่อนคลาย Ani แอบมองและโน้มตัวไปข้างหน้าอย่างน่าเอ็นดู เธอใช้มือแตะเบาๆ จากนั้นทำท่าทางน่ารักด้วยการวางมือบนแก้มพร้อมทำหน้าตาออดอ้อนและต้องการการเอาใจ ในตอนท้ายเธอส่งจูบเบาๆ ให้กับผู้ชม
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6d7199c81f1713ae6bab6e318baccc38/thumbnails/thumbnail.jpg" width="600" alt="ปฏิสัมพันธ์แสนสบายของสาวน้อยอนิเมะ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5081)**
-
-**Author:** [Aniの日常](https://x.com/tarohinomo78040) | **Source:** [Link](https://x.com/tarohinomo78040/status/2057137600314655013) | **Published:** May 20, 2026
-
----
-### ศึกสัตว์ประหลาดปูจักรกลยักษ์
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> พรอมต์สำหรับการสร้างวิดีโอแบบไดนามิกที่ของเล่นชิ้นหนึ่งแปลงร่างเป็นปูจักรกลยักษ์เพื่อต่อสู้กับสัตว์ประหลาด 3 ชนิดบนพื้นผิวดวงจันทร์
-
-#### 📝 Prompt
-
-```
-เปลี่ยนตุ๊กตาตัวนี้ให้กลายเป็นปูจักรกลยักษ์ จากนั้นให้มันเอาชนะสัตว์ประหลาด 3 ตัวในฉากที่กว้างใหญ่ราวกับอยู่บนดวงจันทร์ สัตว์ประหลาดตัวแรกคือเสือร้าย ตัวที่สองคืองูหลามที่ดูน่าขนลุก และตัวที่สามคือปลาไหลที่ดูน่ารังเกียจ มันกำจัดพวกมันด้วยปืนกลยักษ์
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bb95d24324226cd7f352cb57f20bc210/thumbnails/thumbnail.jpg" width="600" alt="ศึกสัตว์ประหลาดปูจักรกลยักษ์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5089)**
-
-**Author:** [JeffLiuRoast](https://x.com/liu17251086) | **Source:** [Link](https://x.com/liu17251086/status/2057125036268679229) | **Published:** May 20, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2176,6 +2171,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-01T05:09:41.286Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-01T13:56:52.493Z</sub>
 
 </div>

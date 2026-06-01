@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1697** |
+| 📝 Total Prompts | **1709** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-01** |
 
@@ -189,6 +189,235 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### शांत सूर्यास्त समुद्र तट का दृश्य
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वीडियो के लिए एक शांतिपूर्ण प्रॉम्प्ट, जिसमें एक व्यक्ति को सूर्यास्त के समय समुद्र तट पर खड़े होकर चिंतनशील क्षण में समुद्र की ओर देखते हुए दिखाया गया है।
+
+#### 📝 Prompt
+
+```
+एक व्यक्ति सूर्यास्त के समय समुद्र तट पर खड़ा है, जो एक शांत और चिंतनशील दृश्य में समुद्र की ओर देख रहा है।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/26cfe70a7731bc50f61328e362fb25fc/thumbnails/thumbnail.jpg" width="600" alt="शांत सूर्यास्त समुद्र तट का दृश्य">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5564)**
+
+**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2061197152009810428) | **Published:** May 31, 2026
+
+---
+### रेडियल लेयर्ड डायसन स्वार्म
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक जटिल साइंस-फिक्शन प्रॉम्प्ट जो सूर्य के चारों ओर सैटेलाइट तकनीक से विकसित डायसन स्वार्म का वर्णन करता है।
+
+#### 📝 Prompt
+
+```
+हमारा कॉन्सेप्ट एक रेडियल-लेयर्ड आंशिक डायसन स्वार्म है जो Starlink तकनीक से विकसित हुआ है।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cfc27c525c79ba7d03b757ffc0193932/thumbnails/thumbnail.jpg" width="600" alt="रेडियल लेयर्ड डायसन स्वार्म">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5562)**
+
+**Author:** [Christmas_the_Merry](https://x.com/Xmas_the_Merry) | **Source:** [Link](https://x.com/Xmas_the_Merry/status/2061161635998466397) | **Published:** May 31, 2026
+
+---
+### पिकासो द्वारा वैन गॉग की नकल
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> पाब्लो पिकासो द्वारा विन्सेंट वैन गॉग की शैली में कैनवास पर पेंटिंग करने की कल्पना करने वाला एक रचनात्मक कलात्मक प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+कल्पना करें कि आप पाब्लो पिकासो हैं और विन्सेंट वैन गॉग की शैली में नकल कर रहे हैं, केवल पेंट और कैनवास का उपयोग करें
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee8d00ea1b95a06f9cbc718d1d036bc3/thumbnails/thumbnail.jpg" width="600" alt="पिकासो द्वारा वैन गॉग की नकल">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5561)**
+
+**Author:** [Manual Mystique](https://x.com/ManualMystique) | **Source:** [Link](https://x.com/ManualMystique/status/2061034648642162837) | **Published:** May 31, 2026
+
+---
+### विंटेज टीवी के अंदर हंसता हुआ आदमी
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक अत्यधिक वर्णनात्मक और उन्मादी वीडियो प्रॉम्प्ट, जिसमें एक आदमी को विंटेज टेलीविजन स्क्रीन के अंदर उन्मादपूर्ण हरकतों के साथ जोर-जोर से हंसते हुए दिखाया गया है।
+
+#### 📝 Prompt
+
+```
+विंटेज टीवी स्क्रीन के अंदर का आदमी किसी पागल की तरह उन्मादपूर्ण ढंग से हंस रहा है, उसकी आंखों में पागलपन है, सिर बेतरतीब ढंग से हिल रहा है, और मुंह अनियंत्रित हंसी में खुला हुआ है, जो पूरी तरह से पागलपन और सनक को दर्शाता है।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0415cbf28b43a9e801fc16d8ec0752bd/thumbnails/thumbnail.jpg" width="600" alt="विंटेज टीवी के अंदर हंसता हुआ आदमी">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5557)**
+
+**Author:** [Rodrigo Bressane](https://x.com/bressane) | **Source:** [Link](https://x.com/bressane/status/2061027054171128277) | **Published:** May 31, 2026
+
+---
+### Space Scout निकास रणनीति
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Space Scout को आग और तूफान की स्थिति में निकास योजनाओं के बारे में नक्शों का उपयोग करके समझाने वाले एक स्काउट लीडर के वीडियो के लिए एक विस्तृत नैरेटिव प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+Scout Leader Space Scouts को उनकी निकास रणनीति समझा रहे हैं... आग या तूफान की स्थिति में चिह्नित नक्शे। कई तटीय पहाड़ी क्षेत्रों को एक योजना की आवश्यकता है
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/511d5338d73f4ea1836cfd528d2ee261/thumbnails/thumbnail.jpg" width="600" alt="Space Scout निकास रणनीति">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5565)**
+
+**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2060993031311122675) | **Published:** May 31, 2026
+
+---
+### Scouts का कैंपिंग एस्केप प्लान
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> स्काउट्स का कैंपिंग ट्रिप के दौरान एस्केप प्लान बनाने का एक वीडियो दृश्य, जिसमें नेतृत्व और सुरक्षा पर ध्यान केंद्रित किया गया है।
+
+#### 📝 Prompt
+
+```
+कैंपिंग ट्रिप पर स्काउट्स अपना सुरक्षित एस्केप प्लान बना रहे हैं; युवाओं को यह जानने की जरूरत है कि क्या उम्मीद की जाए और नेतृत्व कैसे किया जाए
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fe0935514429879ab6360bd877f33af7/thumbnails/thumbnail.jpg" width="600" alt="Scouts का कैंपिंग एस्केप प्लान">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5558)**
+
+**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2060991846613127427) | **Published:** May 31, 2026
+
+---
+### फ्लोरिडा का तूफान बनाम ग्रेट प्लेन्स का बवंडर
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> तूफान और बवंडर की तुलना करने वाला एक शैक्षिक वीडियो प्रॉम्प्ट, जिसमें उनके निर्माण, आकार और क्षति के पैटर्न का विवरण दिया गया है।
+
+#### 📝 Prompt
+
+```
+फ्लोरिडा में आने वाले तूफान बनाम ग्रेट प्लेन्स में आने वाले बवंडर: एक स्पष्ट, शैक्षिक तुलना जो उनके निर्माण, आकार, अवधि, हवा के पैटर्न, क्षति के प्रकार और चेतावनी के सामान्य समय में मुख्य अंतर को दर्शाती है
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1b15703378b78c274a919cbe9d26963a/thumbnails/thumbnail.jpg" width="600" alt="फ्लोरिडा का तूफान बनाम ग्रेट प्लेन्स का बवंडर">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5556)**
+
+**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2060990201829400897) | **Published:** May 31, 2026
+
+---
+### भविष्यवादी ऊर्जा उपकरण प्रोटोटाइप
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> वीडियो के लिए एक धुंधली औद्योगिक पृष्ठभूमि में चमकते कोर वाले भविष्यवादी ऊर्जा उपकरण के लिए एक तकनीकी और दृश्य प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+एक भविष्यवादी ऊर्जा उपकरण प्रोटोटाइप जिसमें चमकता हुआ कोर है, जो एक धुंधले औद्योगिक परिवेश में स्थित है।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/72bcc000ade66f2ea3fed85fd94ea114/thumbnails/thumbnail.jpg" width="600" alt="भविष्यवादी ऊर्जा उपकरण प्रोटोटाइप">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5555)**
+
+**Author:** [Resource Swarm Reactor](https://x.com/ResourceSwarm) | **Source:** [Link](https://x.com/ResourceSwarm/status/2060974660171293159) | **Published:** May 31, 2026
+
+---
+### भविष्यवादी ग्राफीन वाटर स्पोर्ट्स रिसॉर्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> उन्नत ग्राफीन सामग्री से निर्मित और एकीकृत मानव-संचालित प्रणोदन प्रणालियों वाले एक भविष्यवादी वाटर स्पोर्ट्स रिसॉर्ट का हाई-टेक वीडियो तैयार करता है।
+
+#### 📝 Prompt
+
+```
+एक ऐसे भविष्यवादी वाटर स्पोर्ट्स रिसॉर्ट की कल्पना करें जो मुख्य रूप से उन्नत ग्राफीन सामग्री से बना है, जिसमें मानव-एकीकृत प्रणोदन प्रणालियाँ शामिल हैं
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4282f9c8ccb0a0ad19a849748255c4e2/thumbnails/thumbnail.jpg" width="600" alt="भविष्यवादी ग्राफीन वाटर स्पोर्ट्स रिसॉर्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5563)**
+
+**Author:** [Resource Swarm Reactor](https://x.com/ResourceSwarm) | **Source:** [Link](https://x.com/ResourceSwarm/status/2060962001594028321) | **Published:** May 31, 2026
+
+---
+### विंटेज ड्रैकुला बुक
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक मूडी वीडियो प्रॉम्प्ट जिसमें नक्काशीदार लकड़ी की मेज पर सांप की खाल वाली एक विंटेज 'Dracula' किताब दिखाई गई है।
+
+#### 📝 Prompt
+
+```
+नक्काशीदार लकड़ी की मेज पर रखी सांप की खाल वाली एक विंटेज किताब, जिस पर सुनहरे और लाल अक्षरों में “Dracula” लिखा है
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/74716d3fdb4135e940c4441f00c36102/thumbnails/thumbnail.jpg" width="600" alt="विंटेज ड्रैकुला बुक">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5566)**
+
+**Author:** [RinGo_3.0](https://x.com/NftEcat) | **Source:** [Link](https://x.com/NftEcat/status/2060953408232649151) | **Published:** May 31, 2026
+
+---
+### ब्रह्मांडीय तूफान में तैरता कांच का महल
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> बिजली से भरे ब्रह्मांडीय तूफान में तैरते कांच के महल के वीडियो के लिए एक अत्यधिक वायुमंडलीय फैंटेसी प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+ब्रह्मांडीय तूफान में फंसा एक तैरता हुआ कांच का महल ⚡
+बिजली की कड़कड़ाहट, तैरते हुए कांच के टुकड़े, और पूरी तरह से मूडी वातावरण।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/da35ff6da97ef75d4933f8b430391b6c/thumbnails/thumbnail.jpg" width="600" alt="ब्रह्मांडीय तूफान में तैरता कांच का महल">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5559)**
+
+**Author:** [Jen DuBose](https://x.com/DuBoseCreations) | **Source:** [Link](https://x.com/DuBoseCreations/status/2060951746260652068) | **Published:** May 31, 2026
+
+---
+### बैंगनी बारिश के साथ साइंस-फिक्शन डिजिटल वॉइड
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक साइंस-फिक्शन वीडियो प्रॉम्प्ट जो आधी रात के गहरे नीले डिजिटल वॉइड में गिरती हुई बैंगनी बारिश को दर्शाता है।
+
+#### 📝 Prompt
+
+```
+बैंगनी बारिश, मिडनाइट ब्लू/साइंस-फिक्शन डिजिटल के दायरे में गहरे वॉइड में, कोने में TLV
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/535cc8c0f2c615633021357c97d6eda4/thumbnails/thumbnail.jpg" width="600" alt="बैंगनी बारिश के साथ साइंस-फिक्शन डिजिटल वॉइड">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5560)**
+
+**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2060908372048945574) | **Published:** May 31, 2026
+
+---
 ### परी की उड़ान फैंटेसी एनिमेशन
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1881,240 +2110,6 @@ solid body slowly blurs and dissolves as if fading at the speed of light, reveal
 **Author:** [Chelle](https://x.com/freesawn137) | **Source:** [Link](https://x.com/freesawn137/status/2057671936952393893) | **Published:** May 22, 2026
 
 ---
-### अंतरिक्ष में चक्कर लगाता भविष्य का स्पेसशिप
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> गहरे अंतरिक्ष में नेबुला की पृष्ठभूमि के साथ एक स्लीक स्पेसशिप के चारों ओर चक्कर लगाती कैमरा मूवमेंट प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-गहरे अंतरिक्ष में भविष्य के स्पेसशिप के बाहरी हिस्से के चारों ओर धीमी गति से चक्कर लगाती कैमरा मूवमेंट, जो अलग-अलग कोणों से इसके स्लीक हल (hull) और चमकती खिड़कियों को दिखाती है, पृष्ठभूमि में तारे और नेबुला मौजूद हैं।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/80bea774f89a41c3024c9c612ed737e6/thumbnails/thumbnail.jpg" width="600" alt="अंतरिक्ष में चक्कर लगाता भविष्य का स्पेसशिप">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5131)**
-
-**Author:** [MIUZAH DEIOPAH OF THE PLEIADES](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2057566105393054058) | **Published:** May 21, 2026
-
----
-### रसोई में चंचल प्रेम का माहौल
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो प्रॉम्प्ट जिसमें रसोई में एक जोड़ा तैरते हुए दिलों और पैसों से घिरा हुआ है, जो एक चंचल माहौल बना रहा है।
-
-#### 📝 Prompt
-
-```
-हरे रंग की टॉप पहने टैटू वाली महिला और रसोई में प्यार से मुस्कुराता हुआ एक पुरुष, साथ में पैसे और ढेर सारे तैरते हुए दिल, चंचल प्रेम का माहौल।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/43e1ead2d76c388c2eb9f11106fa276e/thumbnails/thumbnail.jpg" width="600" alt="रसोई में चंचल प्रेम का माहौल">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5129)**
-
-**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2057477179902988408) | **Published:** May 21, 2026
-
----
-### प्लेटिनम बालों वाली वैम्पायर महिला
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमैटिक वीडियो प्रॉम्प्ट जिसमें लंबे प्लेटिनम सुनहरे बालों और लाल आंखों वाली एक खूबसूरत वैम्पायर महिला काले गुलाब को पकड़े हुए है।
-
-#### 📝 Prompt
-
-```
-लंबे प्लेटिनम सुनहरे बालों और लाल आंखों वाली खूबसूरत वैम्पायर महिला, जो अपनी छाती पर एक काला गुलाब पकड़े हुए है
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/57ded65af302fe1d749690cfbc155af8/thumbnails/thumbnail.jpg" width="600" alt="प्लेटिनम बालों वाली वैम्पायर महिला">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5128)**
-
-**Author:** [Benjamin Ferrarini](https://x.com/Granddragonben) | **Source:** [Link](https://x.com/Granddragonben/status/2057455897903804911) | **Published:** May 21, 2026
-
----
-### एलीवेटर फैशन मिरर वर्ल्ड
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक स्टाइलिश वीडियो प्रॉम्प्ट जो एलीवेटर मिरर वर्ल्ड के भीतर धीमी गति और स्वप्निल भौतिकी (dreamy physics) का परीक्षण करता है।
-
-#### 📝 Prompt
-
-```
-एलीवेटर फैशन • मिरर वर्ल्ड • Slides (धीमी गति और स्वप्निल भौतिकी का परीक्षण)
-```
-
-<img src="https://cms-assets.youmind.com/media/1779438773089_01l2a5_HI2KbXAa8AEdUhJ.jpg" width="600" alt="एलीवेटर फैशन मिरर वर्ल्ड">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5132)**
-
-**Author:** [sugarcane](https://x.com/sugarcanebkk) | **Source:** [Link](https://x.com/sugarcanebkk/status/2057452874289095060) | **Published:** May 21, 2026
-
----
-### रंगीन विस्फोट आस्पेक्ट रेशियो रीफ्रेम
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक जीवंत विस्फोट एनीमेशन को 16:9 सिनेमाई आस्पेक्ट रेशियो में रीफ्रेम करने के लिए डिज़ाइन किया गया प्रॉम्प्ट, जो एक्शन को साफ नीले आकाश के केंद्र में रखता है।
-
-#### 📝 Prompt
-
-```
-16:9 आस्पेक्ट रेशियो में रीफ्रेम करें, जीवंत रंगीन विस्फोट को नीले आकाश के केंद्र में रखें।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/885d22b1f8d2a523309867eaf667beec/thumbnails/thumbnail.jpg" width="600" alt="रंगीन विस्फोट आस्पेक्ट रेशियो रीफ्रेम">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5133)**
-
-**Author:** [Dwaynemeiers](https://x.com/Dwaynemeiers) | **Source:** [Link](https://x.com/Dwaynemeiers/status/2057406674437357960) | **Published:** May 21, 2026
-
----
-### बाइबिल के उद्धरण का पेन ड्राइंग एनीमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक एनीमेशन जिसमें एक पेन को न्याय और पैतृक पाप के बारे में बाइबिल के एक उद्धरण को चित्रित करते हुए दिखाया गया है, जिसे सिनेमाई प्रकाश व्यवस्था के माध्यम से प्रस्तुत किया गया है।
-
-#### 📝 Prompt
-
-```
-पेन से यह कहावत लिखवाएं “You have been judged and found wanting” … और फिर बाइबिल से वह उद्धरण जिसमें आदम और हव्वा के पाप को आने वाली पीढ़ियों तक पहुँचाने की बात कही गई है? प्रकाश की भाषा के माध्यम से
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a1469bce60579a51c99496a4cc1dbc3c/thumbnails/thumbnail.jpg" width="600" alt="बाइबिल के उद्धरण का पेन ड्राइंग एनीमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5130)**
-
-**Author:** [Michael Bradley](https://x.com/MikeBradleySr2) | **Source:** [Link](https://x.com/MikeBradleySr2/status/2057385133187981793) | **Published:** May 21, 2026
-
----
-### गोल्डन ड्रैगन टैक्टिकल मेच
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक अत्यंत विस्तृत साइंस-फिक्शन वुक्सिया प्रॉम्प्ट, जिसमें एक प्राचीन युद्ध के मैदान पर जटिल ड्रैगन-थीम वाले टैक्टिकल कवच में एक महिला दिखाई गई है।
-
-#### 📝 Prompt
-
-```
-तीखे सुंदर नैन-नक्श वाली एक शानदार पूर्वी एशियाई महिला, जिसके लंबे गहरे भूरे बाल एक ऊँची स्लीक पोनीटेल में बंधे हैं और कुछ लटें चेहरे पर आ रही हैं। उसने अत्यधिक विस्तृत भविष्यवादी काला टैक्टिकल मेच आर्मर सूट पहना है, जो अलंकृत चमकते सुनहरे चीनी ड्रैगन्स से सजा हुआ है। कवच में जटिल सुनहरे ड्रैगन के तराजू, दोनों कंधों पर चमकती आँखों वाले बड़े सुनहरे ड्रैगन के सिर, छाती पर चमकता हुआ सुनहरा ड्रैगन और पीठ पर एक विशाल कुंडलित सुनहरा ड्रैगन है। सूट में चमकती नीली ऊर्जा रेखाएं और सर्किट, चमकीले पीले-नारंगी रंग के प्रकाशित कवच खंड, और उसके निचले चेहरे को ढकने वाला काला टैक्टिकल रेस्पिरेटर मास्क है।
-
-दृश्य की शुरुआत उसके एक विशाल प्राचीन युद्ध के मैदान के केंद्र में शक्तिशाली रूप से खड़े होने से होती है, वह कैमरे की ओर देख रही है और एक घूमती हुई चमकीली नीली गोलाकार ऊर्जा रिंग से घिरी हुई है। वह धीरे-धीरे 180 डिग्री घूमती है ताकि उसकी पीठ दिखाई दे, उसकी पोनीटेल नाटकीय रूप से लहरा रही है। कैमरा उसके चारों ओर सुचारू रूप से घूमता है, जो सामने के तीन-चौथाई और पीछे के दृश्यों के बीच गतिशील लो-एंगल वीरतापूर्ण शॉट्स के साथ बदलता रहता है।
-
-वातावरण: धुंधली पृष्ठभूमि में प्राचीन चीनी योद्धाओं की विशाल सेना, धूल भरा युद्ध का मैदान, और नाटकीय रूप से बादलों से ढका आकाश। चमकते नीले तैरते ऊर्जा कणों, सुनहरी चिंगारियों और उसके चारों ओर नीचे गिरती ऊर्ध्वाधर चमकती प्रकाश की लकीरों के साथ तीव्र सिनेमाई लाइटिंग। कवच से तेज नीली और सुनहरी रोशनी निकलती है जो स्पंदित और चमकती है।
-
-शैली: हाइपर-रियलिस्टिक सिनेमाई 8K, अल्ट्रा-विस्तृत बनावट, नाटकीय वॉल्यूमेट्रिक लाइटिंग, महाकाव्य साइंस-फिक्शन वुक्सिया फ्यूजन, त्रुटिहीन एनाटॉमी, जटिल कवच विवरण, गतिशील गति, उच्च उत्पादन मूल्य, IMAX पर शूट किया गया --ar 9:16 --stylize 250 --v 6
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f856f622a9e6991527bd9c183a4f90eb/thumbnails/thumbnail.jpg" width="600" alt="गोल्डन ड्रैगन टैक्टिकल मेच">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5082)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2057249122181325014) | **Published:** May 20, 2026
-
----
-### गाते हुए रोबोट फॉक्स का एनीमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए डिज़ाइन किया गया एक रचनात्मक वीडियो प्रॉम्प्ट, जिसमें एक रोबोट लोमड़ी चलती है और एक पैरोडी गाना गाती है।
-
-#### 📝 Prompt
-
-```
-कल्पना करें कि एक रोबोट लोमड़ी मुड़ती है और कैमरे की ओर चलते हुए गाती है, "What does the GROK say! Ding ding ding da ding da dah ding. What does the Grok say!"
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1d48f923c57a6e49c0f179ea9bf67268/thumbnails/thumbnail.jpg" width="600" alt="गाते हुए रोबोट फॉक्स का एनीमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5090)**
-
-**Author:** [Joe Pelayo](https://x.com/JoeHeadhunter) | **Source:** [Link](https://x.com/JoeHeadhunter/status/2057238505412026463) | **Published:** May 20, 2026
-
----
-### लेगो (Lego) कैरेक्टर का सेल्फ-एनिमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक निर्देश, जिसमें उपयोगकर्ता का लेगो (Lego) कैरेक्टर संस्करण बनाना और इमेज रेफरेंस का उपयोग करके दोनों को एक वीडियो में एनिमेट करना शामिल है।
-
-#### 📝 Prompt
-
-```
-अपनी और लेगो (Lego) कैरेक्टर की इमेज का उपयोग करके उन्हें एक वीडियो में एनिमेट करें।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9937910b41d6ebfddb6d0094836be8b5/thumbnails/thumbnail.jpg" width="600" alt="लेगो (Lego) कैरेक्टर का सेल्फ-एनिमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5088)**
-
-**Author:** [Ralph](https://x.com/RalphTheMaker) | **Source:** [Link](https://x.com/RalphTheMaker/status/2057229234083377586) | **Published:** May 20, 2026
-
----
-### डैंडेलियन के खेत में रोमांटिक मुलाकात
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> हवा में लहराते डैंडेलियन के ऊपर एक रोमांटिक सिनेमैटिक पैन शॉट, जिसमें एक आदमी एक महिला की ओर दौड़ता है।
-
-#### 📝 Prompt
-
-```
-कैमरा हवा में धीरे-धीरे हिलते डैंडेलियन के विवरण पर पैन करता है, जबकि आदमी दूर भाग रहा है, जो फोकस में नहीं है, और फिर एक खूबसूरत महिला उसे प्यार करने के लिए सामने आती है
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1931e50d69fa975fbad1aa91149dcd9f/thumbnails/thumbnail.jpg" width="600" alt="डैंडेलियन के खेत में रोमांटिक मुलाकात">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5087)**
-
-**Author:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **Source:** [Link](https://x.com/CindyWeigapn6/status/2057210352849265070) | **Published:** May 20, 2026
-
----
-### एनीमे गर्ल के साथ सुकून भरी बातचीत
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एनी (Ani) नाम की एक किरदार के लिए एक विस्तृत सिनेमैटिक वीडियो प्रॉम्प्ट, जिसमें वह झांकने, थपथपाने और फ्लाइंग किस देने जैसे प्यारे और लाड़ले हाव-भाव दिखाती है।
-
-#### 📝 Prompt
-
-```
-एक सहज और सुकून भरा वीडियो बनाएं। एनी (Ani) प्यार से झांकती है और आगे की ओर झुकती है। वह धीरे से हाथ से थपथपाती है, और फिर लाड़ली और दुलार भरी नजरों से देखते हुए अपने गाल पर हाथ रखने का प्यारा सा हाव-भाव दिखाती है। अंत में, वह दर्शक की ओर एक प्यारी सी फ्लाइंग किस देती है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6d7199c81f1713ae6bab6e318baccc38/thumbnails/thumbnail.jpg" width="600" alt="एनीमे गर्ल के साथ सुकून भरी बातचीत">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5081)**
-
-**Author:** [Aniの日常](https://x.com/tarohinomo78040) | **Source:** [Link](https://x.com/tarohinomo78040/status/2057137600314655013) | **Published:** May 20, 2026
-
----
-### विशालकाय मैकेनिकल केकड़ा राक्षस की लड़ाई
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> एक डायनामिक वीडियो जनरेशन प्रॉम्प्ट जहाँ एक खिलौना चंद्रमा जैसे वातावरण में तीन अलग-अलग राक्षसों से लड़ने के लिए एक विशालकाय मैकेनिकल केकड़े में बदल जाता है।
-
-#### 📝 Prompt
-
-```
-इस गुड़िया को एक विशालकाय मैकेनिकल केकड़े में बदलें। फिर यह चंद्रमा जैसे विशाल वातावरण में तीन राक्षसों को हरा देता है। पहला राक्षस एक दुष्ट बाघ है। दूसरा राक्षस एक डरावना दिखने वाला अजगर है। तीसरा राक्षस एक भद्दा दिखने वाला लोच (loach) है। यह एक विशाल मशीन गन का उपयोग करके उन्हें खत्म कर देता है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bb95d24324226cd7f352cb57f20bc210/thumbnails/thumbnail.jpg" width="600" alt="विशालकाय मैकेनिकल केकड़ा राक्षस की लड़ाई">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5089)**
-
-**Author:** [JeffLiuRoast](https://x.com/liu17251086) | **Source:** [Link](https://x.com/liu17251086/status/2057125036268679229) | **Published:** May 20, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2176,6 +2171,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-01T05:09:43.174Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-01T13:56:55.087Z</sub>
 
 </div>

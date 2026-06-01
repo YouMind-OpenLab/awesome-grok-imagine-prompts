@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1697** |
+| 📝 Total Prompts | **1709** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-01** |
 
@@ -189,6 +189,235 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Serene Sunset Beach Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A peaceful prompt for a video showing a person standing on a beach at sunset, looking out at the ocean in a contemplative moment.
+
+#### 📝 Prompt
+
+```
+A person stands on a beach at sunset, facing the ocean in a serene, contemplative scene.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/26cfe70a7731bc50f61328e362fb25fc/thumbnails/thumbnail.jpg" width="600" alt="Serene Sunset Beach Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5564)**
+
+**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2061197152009810428) | **Published:** May 31, 2026
+
+---
+### Radial Layered Dyson Swarm
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex sci-fi prompt describing a Dyson swarm evolved from satellite technology surrounding a sun.
+
+#### 📝 Prompt
+
+```
+Our concept is a radial-layered partial Dyson swarm evolved from Starlink technology.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cfc27c525c79ba7d03b757ffc0193932/thumbnails/thumbnail.jpg" width="600" alt="Radial Layered Dyson Swarm">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5562)**
+
+**Author:** [Christmas_the_Merry](https://x.com/Xmas_the_Merry) | **Source:** [Link](https://x.com/Xmas_the_Merry/status/2061161635998466397) | **Published:** May 31, 2026
+
+---
+### Picasso Imitating Van Gogh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative artistic prompt imagining Pablo Picasso painting on canvas in the style of Vincent van Gogh.
+
+#### 📝 Prompt
+
+```
+Dream that you are Pablo Picasso doing his imitation of Vincent van Gogh Using only paint and canvas
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee8d00ea1b95a06f9cbc718d1d036bc3/thumbnails/thumbnail.jpg" width="600" alt="Picasso Imitating Van Gogh">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5561)**
+
+**Author:** [Manual Mystique](https://x.com/ManualMystique) | **Source:** [Link](https://x.com/ManualMystique/status/2061034648642162837) | **Published:** May 31, 2026
+
+---
+### Man Laughing Inside Vintage TV
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly descriptive and manic video prompt featuring a man laughing hysterically inside a vintage television screen with frantic movements.
+
+#### 📝 Prompt
+
+```
+The man inside the vintage TV screen laughs hysterically like a madman, with manic wide-eyed expression, head moving erratically, mouth open in uncontrollable laughter, conveying complete insanity and frenzy.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0415cbf28b43a9e801fc16d8ec0752bd/thumbnails/thumbnail.jpg" width="600" alt="Man Laughing Inside Vintage TV">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5557)**
+
+**Author:** [Rodrigo Bressane](https://x.com/bressane) | **Source:** [Link](https://x.com/bressane/status/2061027054171128277) | **Published:** May 31, 2026
+
+---
+### Space Scout Exit Strategy
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed narrative prompt for a video of a scout leader explaining fire and storm exit plans to space scouts using maps.
+
+#### 📝 Prompt
+
+```
+Scout Leader explains to Space Scouts their exit strategy... marked maps in event of fire or storm. Many coastal mountain areas need a plan
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/511d5338d73f4ea1836cfd528d2ee261/thumbnails/thumbnail.jpg" width="600" alt="Space Scout Exit Strategy">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5565)**
+
+**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2060993031311122675) | **Published:** May 31, 2026
+
+---
+### Scouts Camping Escape Plan
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video scene of scouts planning an escape during a camping trip, focusing on leadership and safety.
+
+#### 📝 Prompt
+
+```
+Scouts on camping trip plan their safe escape young people need to know what to expect and how to lead
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fe0935514429879ab6360bd877f33af7/thumbnails/thumbnail.jpg" width="600" alt="Scouts Camping Escape Plan">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5558)**
+
+**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2060991846613127427) | **Published:** May 31, 2026
+
+---
+### Florida Hurricane vs Great Plains Tornado
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A educational video prompt comparing hurricanes and tornadoes, detailing formation, size, and damage patterns.
+
+#### 📝 Prompt
+
+```
+Hurricanes in Florida versus tornadoes on the Great Plains: a clear, educational side-by-side comparison showing key differences in formation, size, duration, wind patterns, damage type, and typical warning times
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1b15703378b78c274a919cbe9d26963a/thumbnails/thumbnail.jpg" width="600" alt="Florida Hurricane vs Great Plains Tornado">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5556)**
+
+**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2060990201829400897) | **Published:** May 31, 2026
+
+---
+### Futuristic Energy Device Prototype
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A technical and visual prompt for a futuristic energy device with a glowing core set in a blurred industrial background for video.
+
+#### 📝 Prompt
+
+```
+A futuristic energy device prototype with glowing core, in a blurred industrial setting.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/72bcc000ade66f2ea3fed85fd94ea114/thumbnails/thumbnail.jpg" width="600" alt="Futuristic Energy Device Prototype">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5555)**
+
+**Author:** [Resource Swarm Reactor](https://x.com/ResourceSwarm) | **Source:** [Link](https://x.com/ResourceSwarm/status/2060974660171293159) | **Published:** May 31, 2026
+
+---
+### Futuristic Graphene Water Sports Resort
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Generates a high-tech video of a futuristic water sports resort built from advanced graphene materials with integrated person-powered propulsion systems.
+
+#### 📝 Prompt
+
+```
+Imagine a futuristic water sports resort constructed primarily from advanced graphene materials, featuring powered propulsion systems including person integrated
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4282f9c8ccb0a0ad19a849748255c4e2/thumbnails/thumbnail.jpg" width="600" alt="Futuristic Graphene Water Sports Resort">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5563)**
+
+**Author:** [Resource Swarm Reactor](https://x.com/ResourceSwarm) | **Source:** [Link](https://x.com/ResourceSwarm/status/2060962001594028321) | **Published:** May 31, 2026
+
+---
+### Vintage Dracula Book
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A moody video prompt showcasing a vintage snakeskin 'Dracula' book on a carved wooden desk.
+
+#### 📝 Prompt
+
+```
+A vintage cover black snakeskin book of gold and red in font of “Dracula” placed on a wood carved desk
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/74716d3fdb4135e940c4441f00c36102/thumbnails/thumbnail.jpg" width="600" alt="Vintage Dracula Book">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5566)**
+
+**Author:** [RinGo_3.0](https://x.com/NftEcat) | **Source:** [Link](https://x.com/NftEcat/status/2060953408232649151) | **Published:** May 31, 2026
+
+---
+### Floating Glass Castle in Cosmic Storm
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly atmospheric fantasy prompt for a video of a glass castle drifting through a lightning-filled cosmic storm.
+
+#### 📝 Prompt
+
+```
+A floating glass castle caught in a cosmic storm ⚡
+Lightning cracking, shards drifting, pure moody atmosphere.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/da35ff6da97ef75d4933f8b430391b6c/thumbnails/thumbnail.jpg" width="600" alt="Floating Glass Castle in Cosmic Storm">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5559)**
+
+**Author:** [Jen DuBose](https://x.com/DuBoseCreations) | **Source:** [Link](https://x.com/DuBoseCreations/status/2060951746260652068) | **Published:** May 31, 2026
+
+---
+### Sci-Fi Digital Void with Purple Rain
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A sci-fi video prompt depicting purple rain falling within a deep digital void of midnight blue.
+
+#### 📝 Prompt
+
+```
+Purple rain, deep in the void in the realm of MidnightBlue/sci-fi digital,TLV in corner
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/535cc8c0f2c615633021357c97d6eda4/thumbnails/thumbnail.jpg" width="600" alt="Sci-Fi Digital Void with Purple Rain">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5560)**
+
+**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2060908372048945574) | **Published:** May 31, 2026
+
+---
 ### Fairy Flight Fantasy Animation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1881,240 +2110,6 @@ solid body slowly blurs and dissolves as if fading at the speed of light, reveal
 **Author:** [Chelle](https://x.com/freesawn137) | **Source:** [Link](https://x.com/freesawn137/status/2057671936952393893) | **Published:** May 22, 2026
 
 ---
-### Futuristic Spaceship Orbiting Space
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A camera movement prompt orbiting a sleek spaceship in deep space with nebulae backgrounds.
-
-#### 📝 Prompt
-
-```
-Slow orbiting camera movement around the exterior of the futuristic spaceship in deep space, revealing its sleek hull and glowing windows from different angles, stars and nebulae in the background.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/80bea774f89a41c3024c9c612ed737e6/thumbnails/thumbnail.jpg" width="600" alt="Futuristic Spaceship Orbiting Space">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5131)**
-
-**Author:** [MIUZAH DEIOPAH OF THE PLEIADES](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2057566105393054058) | **Published:** May 21, 2026
-
----
-### Playful Love Vibe in Kitchen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video prompt depicting a couple in a kitchen surrounded by floating hearts and money, creating a playful atmosphere.
-
-#### 📝 Prompt
-
-```
-A woman with tattoos in green top and a man smiling lovingly in a kitchen with money and lots of floating hearts, playful love vibe.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/43e1ead2d76c388c2eb9f11106fa276e/thumbnails/thumbnail.jpg" width="600" alt="Playful Love Vibe in Kitchen">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5129)**
-
-**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2057477179902988408) | **Published:** May 21, 2026
-
----
-### Vampire Woman with Platinum Hair
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt featuring a beautiful vampire woman with long platinum blonde hair and red eyes holding a black rose.
-
-#### 📝 Prompt
-
-```
-Beautiful Vampireh Woman With Long Platinum Blonde Hair and red eyes, holding a black rose to her chest
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/57ded65af302fe1d749690cfbc155af8/thumbnails/thumbnail.jpg" width="600" alt="Vampire Woman with Platinum Hair">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5128)**
-
-**Author:** [Benjamin Ferrarini](https://x.com/Granddragonben) | **Source:** [Link](https://x.com/Granddragonben/status/2057455897903804911) | **Published:** May 21, 2026
-
----
-### Elevator Fashion Mirror World
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A stylized video prompt testing gentle movement and dreamy physics within an elevator mirror world.
-
-#### 📝 Prompt
-
-```
-Elevator fashion • Mirror world • Slider (testing gentle movement & dreamy physics)
-```
-
-<img src="https://cms-assets.youmind.com/media/1779438773089_01l2a5_HI2KbXAa8AEdUhJ.jpg" width="600" alt="Elevator Fashion Mirror World">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5132)**
-
-**Author:** [sugarcane](https://x.com/sugarcanebkk) | **Source:** [Link](https://x.com/sugarcanebkk/status/2057452874289095060) | **Published:** May 21, 2026
-
----
-### Colorful Explosion Aspect Ratio Reframe
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt designed to reframe a vibrant eruption and explosion animation to a 16:9 cinematic aspect ratio, centering the action against a clear blue sky.
-
-#### 📝 Prompt
-
-```
-Reframe to 16:9 aspect ratio, centering the vibrant colorful eruption and explosion against the blue sky.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/885d22b1f8d2a523309867eaf667beec/thumbnails/thumbnail.jpg" width="600" alt="Colorful Explosion Aspect Ratio Reframe">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5133)**
-
-**Author:** [Dwaynemeiers](https://x.com/Dwaynemeiers) | **Source:** [Link](https://x.com/Dwaynemeiers/status/2057406674437357960) | **Published:** May 21, 2026
-
----
-### Biblical quote pen drawing animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An animation depicting a pen drawing a Bible quote regarding judgment and ancestral sin, conveyed through cinematic lighting.
-
-#### 📝 Prompt
-
-```
-Have the pen draw the saying “You have been judged and found wanting” … and then the quote from the Bible about Adam and Eve’s sin being passed down to future generations? Thru the language of ligtt
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a1469bce60579a51c99496a4cc1dbc3c/thumbnails/thumbnail.jpg" width="600" alt="Biblical quote pen drawing animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5130)**
-
-**Author:** [Michael Bradley](https://x.com/MikeBradleySr2) | **Source:** [Link](https://x.com/MikeBradleySr2/status/2057385133187981793) | **Published:** May 21, 2026
-
----
-### Golden Dragon Tactical Mech
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An extremely detailed sci-fi wuxia prompt featuring a woman in intricate dragon-themed tactical armor on an ancient battlefield.
-
-#### 📝 Prompt
-
-```
-A stunning East Asian woman with sharp beautiful features, long dark brown hair in a high sleek ponytail with flowing strands, wearing an ultra-detailed futuristic black tactical mech armor suit heavily decorated with ornate glowing golden Chinese dragons. The armor has intricate golden dragon scales, large golden dragon heads on both shoulders with glowing eyes, glowing golden dragon on the chest and a massive coiled golden dragon on the back. The suit features glowing blue energy lines and circuits, bright yellow-orange illuminated armor segments, black tactical respirator mask covering her lower face.
-
-Scene opens with her standing powerfully in the center of a vast ancient battlefield, facing camera, surrounded by a swirling bright blue circular energy ring. She slowly turns 180 degrees to show her back, ponytail swaying dramatically. Camera circles around her smoothly, alternating between front three-quarter and back views with dynamic low-angle heroic shots.
-
-Environment: Massive army of ancient Chinese warriors in the blurred background, dusty battlefield ground, overcast dramatic sky. Intense cinematic lighting with glowing blue floating energy particles, golden sparks, and vertical glowing light streaks raining down around her. Armor emits strong blue and golden light accents that pulse and glow.
-
-Style: Hyper-realistic cinematic 8K, ultra-detailed textures, dramatic volumetric lighting, epic sci-fi wuxia fusion, flawless anatomy, intricate armor details, dynamic motion, high production value, shot on IMAX --ar 9:16 --stylize 250 --v 6
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f856f622a9e6991527bd9c183a4f90eb/thumbnails/thumbnail.jpg" width="600" alt="Golden Dragon Tactical Mech">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5082)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2057249122181325014) | **Published:** May 20, 2026
-
----
-### Singing Robot Fox Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A creative video prompt for a robot fox that walks and sings a parody song, designed for Grok Imagine.
-
-#### 📝 Prompt
-
-```
-Imagine a robot fox that turns and walks towards the camera while he sings, "What does the GROK say! Ding ding ding da ding da dah ding. What does the Grok say!"
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1d48f923c57a6e49c0f179ea9bf67268/thumbnails/thumbnail.jpg" width="600" alt="Singing Robot Fox Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5090)**
-
-**Author:** [Joe Pelayo](https://x.com/JoeHeadhunter) | **Source:** [Link](https://x.com/JoeHeadhunter/status/2057238505412026463) | **Published:** May 20, 2026
-
----
-### Lego Character Self-Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An instruction for Grok Imagine to create a Lego character version of a user and animate both into a video using image references.
-
-#### 📝 Prompt
-
-```
-Animate image of yourself and Lego Character into a Video using both for reference.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9937910b41d6ebfddb6d0094836be8b5/thumbnails/thumbnail.jpg" width="600" alt="Lego Character Self-Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5088)**
-
-**Author:** [Ralph](https://x.com/RalphTheMaker) | **Source:** [Link](https://x.com/RalphTheMaker/status/2057229234083377586) | **Published:** May 20, 2026
-
----
-### Dandelion Field Romantic Meeting
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A romantic cinematic pan over moving dandelions in the wind as a man runs toward a woman.
-
-#### 📝 Prompt
-
-```
-the camera pans into a detail of the dandelions softly moving in the wind as the man runs away, not in focus and then a beautiful woman shows up to love him
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1931e50d69fa975fbad1aa91149dcd9f/thumbnails/thumbnail.jpg" width="600" alt="Dandelion Field Romantic Meeting">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5087)**
-
-**Author:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **Source:** [Link](https://x.com/CindyWeigapn6/status/2057210352849265070) | **Published:** May 20, 2026
-
----
-### Leisurely Anime Girl Interaction
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed cinematic prompt for a video featuring a character named Ani performing sweet and needy gestures like peeking, tapping, and blowing a kiss.
-
-#### 📝 Prompt
-
-```
-Create a smooth leisurely video. Ani affectionately peeks and leans forward. She does a gentle hand tap, then adds a sweet gesture of placing her hand on her cheek while looking needy and pampered. At the end she blows a soft kiss toward the viewer.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6d7199c81f1713ae6bab6e318baccc38/thumbnails/thumbnail.jpg" width="600" alt="Leisurely Anime Girl Interaction">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5081)**
-
-**Author:** [Aniの日常](https://x.com/tarohinomo78040) | **Source:** [Link](https://x.com/tarohinomo78040/status/2057137600314655013) | **Published:** May 20, 2026
-
----
-### Giant Mechanical Crab Monster Battle
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A dynamic video generation prompt where a toy transforms into a giant mechanical crab to fight three different monsters in a lunar setting.
-
-#### 📝 Prompt
-
-```
-Turn this doll into a giant mechanical crab. Then it defeats three monsters in a vast moon-like setting. The first monster is an evil tiger. The second monster is a spooky-looking python. The third monster is a gross-looking loach. It eliminates them using a giant machine gun.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bb95d24324226cd7f352cb57f20bc210/thumbnails/thumbnail.jpg" width="600" alt="Giant Mechanical Crab Monster Battle">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5089)**
-
-**Author:** [JeffLiuRoast](https://x.com/liu17251086) | **Source:** [Link](https://x.com/liu17251086/status/2057125036268679229) | **Published:** May 20, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2176,6 +2171,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-01T05:09:35.738Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-01T13:56:47.769Z</sub>
 
 </div>

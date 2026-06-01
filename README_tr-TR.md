@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1697** |
+| 📝 Total Prompts | **1709** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-01** |
 
@@ -189,6 +189,235 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Huzurlu Gün Batımı Plaj Manzarası
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gün batımında bir plajda duran, okyanusa karşı dalıp giden bir kişinin yer aldığı huzurlu bir video istemi.
+
+#### 📝 Prompt
+
+```
+Gün batımında bir plajda duran bir kişi, huzurlu ve düşünceli bir sahnede okyanusa bakıyor.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/26cfe70a7731bc50f61328e362fb25fc/thumbnails/thumbnail.jpg" width="600" alt="Huzurlu Gün Batımı Plaj Manzarası">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5564)**
+
+**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2061197152009810428) | **Published:** May 31, 2026
+
+---
+### Radyal Katmanlı Dyson Sürüsü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir güneşin etrafındaki uydu teknolojisinden evrilmiş bir Dyson sürüsünü tanımlayan karmaşık bir bilim kurgu istemi.
+
+#### 📝 Prompt
+
+```
+Konseptimiz, Starlink teknolojisinden evrilmiş radyal katmanlı kısmi bir Dyson sürüsüdür.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cfc27c525c79ba7d03b757ffc0193932/thumbnails/thumbnail.jpg" width="600" alt="Radyal Katmanlı Dyson Sürüsü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5562)**
+
+**Author:** [Christmas_the_Merry](https://x.com/Xmas_the_Merry) | **Source:** [Link](https://x.com/Xmas_the_Merry/status/2061161635998466397) | **Published:** May 31, 2026
+
+---
+### Van Gogh'u Taklit Eden Picasso
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Pablo Picasso'nun Vincent van Gogh tarzında tuval üzerine resim yaptığını hayal eden yaratıcı bir sanatsal istem.
+
+#### 📝 Prompt
+
+```
+Sadece boya ve tuval kullanarak Vincent van Gogh'u taklit eden bir Pablo Picasso olduğunuzu hayal edin
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee8d00ea1b95a06f9cbc718d1d036bc3/thumbnails/thumbnail.jpg" width="600" alt="Van Gogh'u Taklit Eden Picasso">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5561)**
+
+**Author:** [Manual Mystique](https://x.com/ManualMystique) | **Source:** [Link](https://x.com/ManualMystique/status/2061034648642162837) | **Published:** May 31, 2026
+
+---
+### Eski Model Televizyonun İçinde Gülen Adam
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Eski model bir televizyon ekranının içinde çılgınca gülen ve hareketleri kontrolsüz bir adamı betimleyen, oldukça detaylı ve manik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Eski model televizyon ekranının içindeki adam, manik ve fal taşı gibi açılmış gözlerle, başı düzensiz bir şekilde hareket ederek ve ağzı kontrolsüz bir kahkahayla açık bir halde, tıpkı bir deli gibi çılgınca gülüyor; tam bir delilik ve taşkınlık hali sergiliyor.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0415cbf28b43a9e801fc16d8ec0752bd/thumbnails/thumbnail.jpg" width="600" alt="Eski Model Televizyonun İçinde Gülen Adam">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5557)**
+
+**Author:** [Rodrigo Bressane](https://x.com/bressane) | **Source:** [Link](https://x.com/bressane/status/2061027054171128277) | **Published:** May 31, 2026
+
+---
+### Space Scout Tahliye Stratejisi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir izci liderinin, haritalar kullanarak uzay izcilerine yangın ve fırtına durumunda tahliye planlarını anlattığı bir video için detaylı anlatı istemi.
+
+#### 📝 Prompt
+
+```
+İzci Lideri, Space Scout ekibine tahliye stratejilerini açıklıyor... yangın veya fırtına durumunda işaretlenmiş haritalar. Birçok kıyı dağlık bölgesi bir plana ihtiyaç duyar
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/511d5338d73f4ea1836cfd528d2ee261/thumbnails/thumbnail.jpg" width="600" alt="Space Scout Tahliye Stratejisi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5565)**
+
+**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2060993031311122675) | **Published:** May 31, 2026
+
+---
+### İzcilerin Kamp Kaçış Planı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> İzcilerin bir kamp gezisi sırasında kaçış planı yaptığı, liderlik ve güvenliğe odaklanan bir video sahnesi.
+
+#### 📝 Prompt
+
+```
+Kamp gezisindeki izciler güvenli kaçış planlarını yapıyor; gençlerin ne beklemeleri gerektiğini ve nasıl liderlik edeceklerini bilmeleri gerekiyor
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fe0935514429879ab6360bd877f33af7/thumbnails/thumbnail.jpg" width="600" alt="İzcilerin Kamp Kaçış Planı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5558)**
+
+**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2060991846613127427) | **Published:** May 31, 2026
+
+---
+### Florida Kasırgası ve Great Plains Hortumu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kasırgalar ve hortumları karşılaştıran; oluşum, boyut ve hasar modellerini detaylandıran eğitici bir video istemi.
+
+#### 📝 Prompt
+
+```
+Florida'daki kasırgalar ile Great Plains'teki hortumlar: oluşum, boyut, süre, rüzgar modelleri, hasar türü ve tipik uyarı süreleri arasındaki temel farkları gösteren net ve eğitici bir karşılaştırma
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1b15703378b78c274a919cbe9d26963a/thumbnails/thumbnail.jpg" width="600" alt="Florida Kasırgası ve Great Plains Hortumu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5556)**
+
+**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2060990201829400897) | **Published:** May 31, 2026
+
+---
+### Fütüristik Enerji Cihazı Prototipi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Video için bulanık bir endüstriyel arka plan üzerinde parlayan bir çekirdeğe sahip fütüristik bir enerji cihazı için teknik ve görsel bir istem.
+
+#### 📝 Prompt
+
+```
+Bulanık bir endüstriyel ortamda, parlayan çekirdeğe sahip fütüristik bir enerji cihazı prototipi.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/72bcc000ade66f2ea3fed85fd94ea114/thumbnails/thumbnail.jpg" width="600" alt="Fütüristik Enerji Cihazı Prototipi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5555)**
+
+**Author:** [Resource Swarm Reactor](https://x.com/ResourceSwarm) | **Source:** [Link](https://x.com/ResourceSwarm/status/2060974660171293159) | **Published:** May 31, 2026
+
+---
+### Fütüristik Grafen Su Sporları Tesisi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gelişmiş grafen malzemelerden inşa edilmiş ve insan gücüyle çalışan entegre itki sistemlerine sahip fütüristik bir su sporları tesisinin yüksek teknolojili videosunu oluşturur.
+
+#### 📝 Prompt
+
+```
+İnsan gücüyle çalışan entegre itki sistemlerine sahip, ağırlıklı olarak gelişmiş grafen malzemelerden inşa edilmiş fütüristik bir su sporları tesisini hayal edin.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4282f9c8ccb0a0ad19a849748255c4e2/thumbnails/thumbnail.jpg" width="600" alt="Fütüristik Grafen Su Sporları Tesisi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5563)**
+
+**Author:** [Resource Swarm Reactor](https://x.com/ResourceSwarm) | **Source:** [Link](https://x.com/ResourceSwarm/status/2060962001594028321) | **Published:** May 31, 2026
+
+---
+### Vintage Dracula Kitabı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Oyma ahşap bir masa üzerinde duran, yılan derisi kaplı vintage 'Dracula' kitabını sergileyen atmosferik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Oyma ahşap bir masa üzerine yerleştirilmiş, üzerinde altın ve kırmızı renkli 'Dracula' yazısı bulunan, siyah yılan derisi kaplı vintage bir kitap
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/74716d3fdb4135e940c4441f00c36102/thumbnails/thumbnail.jpg" width="600" alt="Vintage Dracula Kitabı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5566)**
+
+**Author:** [RinGo_3.0](https://x.com/NftEcat) | **Source:** [Link](https://x.com/NftEcat/status/2060953408232649151) | **Published:** May 31, 2026
+
+---
+### Kozmik Fırtınada Yüzen Cam Kale
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yıldırımlarla dolu kozmik bir fırtınada sürüklenen cam bir kalenin videosu için oldukça atmosferik bir fantastik istem.
+
+#### 📝 Prompt
+
+```
+Kozmik bir fırtınaya yakalanmış yüzen cam bir kale ⚡
+Çakan yıldırımlar, sürüklenen cam kırıkları, saf ve etkileyici bir atmosfer.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/da35ff6da97ef75d4933f8b430391b6c/thumbnails/thumbnail.jpg" width="600" alt="Kozmik Fırtınada Yüzen Cam Kale">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5559)**
+
+**Author:** [Jen DuBose](https://x.com/DuBoseCreations) | **Source:** [Link](https://x.com/DuBoseCreations/status/2060951746260652068) | **Published:** May 31, 2026
+
+---
+### Mor Yağmurlu Bilim Kurgu Dijital Boşluk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gece mavisi derin bir dijital boşlukta yağan mor yağmuru tasvir eden bir bilim kurgu video istemi.
+
+#### 📝 Prompt
+
+```
+Mor yağmur, MidnightBlue/bilim kurgu dijital dünyasının derinliklerinde, köşede TLV
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/535cc8c0f2c615633021357c97d6eda4/thumbnails/thumbnail.jpg" width="600" alt="Mor Yağmurlu Bilim Kurgu Dijital Boşluk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5560)**
+
+**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2060908372048945574) | **Published:** May 31, 2026
+
+---
 ### Peri Uçuşu Fantastik Animasyonu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1881,240 +2110,6 @@ solid body slowly blurs and dissolves as if fading at the speed of light, reveal
 **Author:** [Chelle](https://x.com/freesawn137) | **Source:** [Link](https://x.com/freesawn137/status/2057671936952393893) | **Published:** May 22, 2026
 
 ---
-### Uzayda Yörüngede Dönen Fütüristik Uzay Gemisi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Derin uzayda, bulutsu arka planlarıyla şık bir uzay gemisinin etrafında dönen bir kamera hareketi istemi.
-
-#### 📝 Prompt
-
-```
-Derin uzaydaki fütüristik uzay gemisinin dış yüzeyi etrafında yavaşça dönen kamera hareketi; geminin şık gövdesini ve parlayan pencerelerini farklı açılardan gözler önüne sererken, arka planda yıldızlar ve bulutsular yer alıyor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/80bea774f89a41c3024c9c612ed737e6/thumbnails/thumbnail.jpg" width="600" alt="Uzayda Yörüngede Dönen Fütüristik Uzay Gemisi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5131)**
-
-**Author:** [MIUZAH DEIOPAH OF THE PLEIADES](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2057566105393054058) | **Published:** May 21, 2026
-
----
-### Mutfakta Eğlenceli Aşk Havası
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mutfakta etrafı uçuşan kalpler ve paralarla çevrili, eğlenceli bir atmosfer yaratan bir çifti betimleyen video istemi.
-
-#### 📝 Prompt
-
-```
-Yeşil üst giymiş dövmeli bir kadın ve mutfakta sevgiyle gülümseyen bir adam, etrafta paralar ve çok sayıda uçuşan kalp, eğlenceli aşk havası.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/43e1ead2d76c388c2eb9f11106fa276e/thumbnails/thumbnail.jpg" width="600" alt="Mutfakta Eğlenceli Aşk Havası">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5129)**
-
-**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2057477179902988408) | **Published:** May 21, 2026
-
----
-### Platin Saçlı Vampir Kadın
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Uzun platin sarısı saçlı, kırmızı gözlü ve elinde siyah bir gül tutan güzel bir vampir kadını konu alan sinematik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Uzun platin sarısı saçlı ve kırmızı gözlü, göğsünde siyah bir gül tutan güzel vampir kadın
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/57ded65af302fe1d749690cfbc155af8/thumbnails/thumbnail.jpg" width="600" alt="Platin Saçlı Vampir Kadın">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5128)**
-
-**Author:** [Benjamin Ferrarini](https://x.com/Granddragonben) | **Source:** [Link](https://x.com/Granddragonben/status/2057455897903804911) | **Published:** May 21, 2026
-
----
-### Asansör Moda Ayna Dünyası
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Asansör ayna dünyasında yumuşak hareketleri ve rüya gibi fiziği test eden stilize bir video istemi.
-
-#### 📝 Prompt
-
-```
-Asansör modası • Ayna dünyası • Slides (yumuşak hareket ve rüya gibi fizik testi)
-```
-
-<img src="https://cms-assets.youmind.com/media/1779438773089_01l2a5_HI2KbXAa8AEdUhJ.jpg" width="600" alt="Asansör Moda Ayna Dünyası">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5132)**
-
-**Author:** [sugarcane](https://x.com/sugarcanebkk) | **Source:** [Link](https://x.com/sugarcanebkk/status/2057452874289095060) | **Published:** May 21, 2026
-
----
-### Renkli Patlama En Boy Oranı Yeniden Çerçeveleme
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Canlı bir patlama ve infilak animasyonunu 16:9 sinematik en boy oranına göre yeniden çerçevelemek, aksiyonu masmavi bir gökyüzüne karşı ortalamak için tasarlanmış bir komut.
-
-#### 📝 Prompt
-
-```
-16:9 en boy oranına yeniden çerçeveleyin, canlı renkli patlamayı ve infilakı masmavi gökyüzüne karşı ortalayın.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/885d22b1f8d2a523309867eaf667beec/thumbnails/thumbnail.jpg" width="600" alt="Renkli Patlama En Boy Oranı Yeniden Çerçeveleme">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5133)**
-
-**Author:** [Dwaynemeiers](https://x.com/Dwaynemeiers) | **Source:** [Link](https://x.com/Dwaynemeiers/status/2057406674437357960) | **Published:** May 21, 2026
-
----
-### İncil'den alıntı kalem çizimi animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sinematik bir aydınlatma ile aktarılan, yargı ve ataların günahı hakkındaki bir İncil alıntısını çizen bir kalem animasyonu.
-
-#### 📝 Prompt
-
-```
-Kalemin “Yargılandın ve eksik bulundun” sözünü çizmesini sağla… ve ardından İncil'den Adem ile Havva'nın günahının gelecek nesillere aktarılmasıyla ilgili alıntıyı ekle? Işığın diliyle
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a1469bce60579a51c99496a4cc1dbc3c/thumbnails/thumbnail.jpg" width="600" alt="İncil'den alıntı kalem çizimi animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5130)**
-
-**Author:** [Michael Bradley](https://x.com/MikeBradleySr2) | **Source:** [Link](https://x.com/MikeBradleySr2/status/2057385133187981793) | **Published:** May 21, 2026
-
----
-### Altın Ejderha Taktiksel Mech
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Antik bir savaş alanında, karmaşık ejderha temalı taktiksel zırh içindeki bir kadını konu alan, son derece detaylı bir bilim kurgu wuxia istemi.
-
-#### 📝 Prompt
-
-```
-Keskin ve güzel hatlara sahip, uzun koyu kahverengi saçları yüksek ve şık bir at kuyruğu şeklinde toplanmış, saç tutamları uçuşan çarpıcı bir Doğu Asyalı kadın; üzerinde süslü, parlayan altın renkli Çin ejderhalarıyla yoğun bir şekilde dekore edilmiş, ultra detaylı fütüristik siyah taktiksel mech zırhı var. Zırh, karmaşık altın ejderha pullarına, her iki omuzda parlayan gözlere sahip büyük altın ejderha başlarına, göğüste parlayan altın bir ejderhaya ve sırtta devasa, kıvrımlı bir altın ejderhaya sahip. Kıyafet, parlayan mavi enerji hatları ve devreler, parlak sarı-turuncu aydınlatmalı zırh bölümleri ve yüzünün alt kısmını kaplayan siyah taktiksel solunum maskesi içeriyor.
-
-Sahne, kadının devasa bir antik savaş alanının merkezinde, kameraya dönük şekilde güçlü bir duruş sergilemesiyle başlıyor; etrafı dönen parlak mavi dairesel bir enerji halkasıyla çevrili. Yavaşça 180 derece dönerek sırtını gösteriyor, at kuyruğu dramatik bir şekilde savruluyor. Kamera, dinamik düşük açılı kahramanca çekimlerle ön üç çeyrek ve arka görünümler arasında geçiş yaparak etrafında pürüzsüzce dönüyor.
-
-Çevre: Bulanık arka planda devasa bir antik Çin savaşçı ordusu, tozlu savaş alanı zemini, kapalı ve dramatik bir gökyüzü. Parlayan mavi yüzen enerji parçacıkları, altın kıvılcımlar ve etrafına dikey olarak yağan parlayan ışık çizgileriyle yoğun sinematik aydınlatma. Zırh, nabız gibi atan ve parlayan güçlü mavi ve altın ışık vurguları yayıyor.
-
-Tarz: Hiper gerçekçi sinematik 8K, ultra detaylı dokular, dramatik hacimsel aydınlatma, epik bilim kurgu wuxia füzyonu, kusursuz anatomi, karmaşık zırh detayları, dinamik hareket, yüksek prodüksiyon değeri, IMAX ile çekilmiş --ar 9:16 --stylize 250 --v 6
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f856f622a9e6991527bd9c183a4f90eb/thumbnails/thumbnail.jpg" width="600" alt="Altın Ejderha Taktiksel Mech">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5082)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2057249122181325014) | **Published:** May 20, 2026
-
----
-### Şarkı Söyleyen Robot Tilki Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için tasarlanmış, yürüyen ve parodi bir şarkı söyleyen robot tilkiye yönelik yaratıcı bir video istemi.
-
-#### 📝 Prompt
-
-```
-Kameraya doğru dönüp yürürken "What does the GROK say! Ding ding ding da ding da dah ding. What does the Grok say!" şarkısını söyleyen bir robot tilki hayal edin.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1d48f923c57a6e49c0f179ea9bf67268/thumbnails/thumbnail.jpg" width="600" alt="Şarkı Söyleyen Robot Tilki Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5090)**
-
-**Author:** [Joe Pelayo](https://x.com/JoeHeadhunter) | **Source:** [Link](https://x.com/JoeHeadhunter/status/2057238505412026463) | **Published:** May 20, 2026
-
----
-### Lego Karakteri ile Kendini Canlandırma
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine'in, bir kullanıcının Lego karakteri versiyonunu oluşturması ve görsel referanslar kullanarak her ikisini de bir videoda canlandırması için bir talimat.
-
-#### 📝 Prompt
-
-```
-Kendinizin ve Lego Karakterinizin görselini, her ikisini de referans alarak bir videoda canlandırın.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9937910b41d6ebfddb6d0094836be8b5/thumbnails/thumbnail.jpg" width="600" alt="Lego Karakteri ile Kendini Canlandırma">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5088)**
-
-**Author:** [Ralph](https://x.com/RalphTheMaker) | **Source:** [Link](https://x.com/RalphTheMaker/status/2057229234083377586) | **Published:** May 20, 2026
-
----
-### Karahindiba Tarlasında Romantik Buluşma
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir adamın bir kadına doğru koştuğu sırada, rüzgarda hareket eden karahindibaların üzerinde romantik ve sinematik bir kamera geçişi.
-
-#### 📝 Prompt
-
-```
-kamera, rüzgarda hafifçe sallanan karahindibaların detayına odaklanarak kayar; bu sırada adam odakta olmadan uzaklaşır ve ardından güzel bir kadın ona olan sevgisini göstermek için belirir
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1931e50d69fa975fbad1aa91149dcd9f/thumbnails/thumbnail.jpg" width="600" alt="Karahindiba Tarlasında Romantik Buluşma">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5087)**
-
-**Author:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **Source:** [Link](https://x.com/CindyWeigapn6/status/2057210352849265070) | **Published:** May 20, 2026
-
----
-### Keyifli Anime Kızı Etkileşimi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ani adındaki bir karakterin gözetleme, hafifçe dokunma ve öpücük gönderme gibi tatlı ve ilgi bekleyen hareketler sergilediği bir video için detaylı sinematik komut.
-
-#### 📝 Prompt
-
-```
-Akıcı ve keyifli bir video oluşturun. Ani sevgi dolu bir şekilde gözetliyor ve öne doğru eğiliyor. Nazikçe elini dokunduruyor, ardından ilgi bekleyen ve şımartılmış bir ifadeyle elini yanağına koyduğu tatlı bir hareket ekliyor. Sonunda izleyiciye doğru yumuşak bir öpücük gönderiyor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6d7199c81f1713ae6bab6e318baccc38/thumbnails/thumbnail.jpg" width="600" alt="Keyifli Anime Kızı Etkileşimi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5081)**
-
-**Author:** [Aniの日常](https://x.com/tarohinomo78040) | **Source:** [Link](https://x.com/tarohinomo78040/status/2057137600314655013) | **Published:** May 20, 2026
-
----
-### Dev Mekanik Yengeç Canavarı Savaşı
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Bir oyuncağın ay benzeri bir ortamda üç farklı canavarla savaşmak için dev bir mekanik yengece dönüştüğü dinamik bir video oluşturma istemi.
-
-#### 📝 Prompt
-
-```
-Bu oyuncağı dev bir mekanik yengece dönüştür. Ardından, ay benzeri uçsuz bucaksız bir ortamda üç canavarı mağlup etmesini sağla. İlk canavar kötü bir kaplan. İkinci canavar ürkütücü görünümlü bir piton. Üçüncü canavar ise iğrenç görünümlü bir çamur balığı. Dev bir makineli tüfek kullanarak hepsini yok ediyor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bb95d24324226cd7f352cb57f20bc210/thumbnails/thumbnail.jpg" width="600" alt="Dev Mekanik Yengeç Canavarı Savaşı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5089)**
-
-**Author:** [JeffLiuRoast](https://x.com/liu17251086) | **Source:** [Link](https://x.com/liu17251086/status/2057125036268679229) | **Published:** May 20, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2176,6 +2171,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-01T05:09:52.979Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-01T13:57:05.933Z</sub>
 
 </div>

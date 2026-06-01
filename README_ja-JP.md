@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **1697** |
+| 📝 プロンプト総数 | **1709** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-06-01** |
 
@@ -189,6 +189,235 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### 穏やかな夕暮れのビーチの風景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 夕暮れ時のビーチに立ち、海を眺めながら物思いにふける人物を描いた、平和な動画用プロンプトです。
+
+#### 📝 プロンプト
+
+```
+夕暮れ時のビーチに立ち、穏やかで思索的な雰囲気の中で海を見つめる人物。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/26cfe70a7731bc50f61328e362fb25fc/thumbnails/thumbnail.jpg" width="600" alt="穏やかな夕暮れのビーチの風景">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5564)**
+
+**作者:** [Marie](https://x.com/Marie8508319540) | **ソース:** [Link](https://x.com/Marie8508319540/status/2061197152009810428) | **公開日:** May 31, 2026
+
+---
+### 放射状積層型ダイソン・スウォーム
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 恒星を囲む衛星技術から進化したダイソン・スウォームを描写する、複雑な SF プロンプト。
+
+#### 📝 プロンプト
+
+```
+私たちのコンセプトは、Starlink 技術から進化した放射状積層型の部分的ダイソン・スウォームです。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cfc27c525c79ba7d03b757ffc0193932/thumbnails/thumbnail.jpg" width="600" alt="放射状積層型ダイソン・スウォーム">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5562)**
+
+**作者:** [Christmas_the_Merry](https://x.com/Xmas_the_Merry) | **ソース:** [Link](https://x.com/Xmas_the_Merry/status/2061161635998466397) | **公開日:** May 31, 2026
+
+---
+### ゴッホを模倣するピカソ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> フィンセント・ファン・ゴッホのスタイルでキャンバスに絵を描くパブロ・ピカソを想像した、クリエイティブなアートプロンプトです。
+
+#### 📝 プロンプト
+
+```
+パブロ・ピカソがフィンセント・ファン・ゴッホのスタイルを模倣して、絵の具とキャンバスだけで絵を描いている様子を夢見てください
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee8d00ea1b95a06f9cbc718d1d036bc3/thumbnails/thumbnail.jpg" width="600" alt="ゴッホを模倣するピカソ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5561)**
+
+**作者:** [Manual Mystique](https://x.com/ManualMystique) | **ソース:** [Link](https://x.com/ManualMystique/status/2061034648642162837) | **公開日:** May 31, 2026
+
+---
+### ヴィンテージテレビの中で笑う男
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ヴィンテージテレビの画面の中で、狂気じみた動きでヒステリックに笑い続ける男を描いた、非常に詳細でマニアックな動画プロンプトです。
+
+#### 📝 プロンプト
+
+```
+ヴィンテージテレビの画面の中にいる男が、狂人のようにヒステリックに笑い続けている。見開いた目には狂気が宿り、頭を不規則に振り、口を大きく開けて制御不能な笑いを浮かべており、完全な正気の沙汰ではない狂乱の様子を表現している。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0415cbf28b43a9e801fc16d8ec0752bd/thumbnails/thumbnail.jpg" width="600" alt="ヴィンテージテレビの中で笑う男">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5557)**
+
+**作者:** [Rodrigo Bressane](https://x.com/bressane) | **ソース:** [Link](https://x.com/bressane/status/2061027054171128277) | **公開日:** May 31, 2026
+
+---
+### Space Scout の避難戦略
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 地図を使用して Space Scout に火災や嵐の際の避難計画を説明するスカウトリーダーの動画のための、詳細なナラティブプロンプトです。
+
+#### 📝 プロンプト
+
+```
+スカウトリーダーが Space Scout たちに避難戦略を説明する……火災や嵐が発生した場合のマーキングされた地図を使用。多くの沿岸山岳地域では計画が必要である
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/511d5338d73f4ea1836cfd528d2ee261/thumbnails/thumbnail.jpg" width="600" alt="Space Scout の避難戦略">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5565)**
+
+**作者:** [Jean](https://x.com/SpaceScoutsIntl) | **ソース:** [Link](https://x.com/SpaceScoutsIntl/status/2060993031311122675) | **公開日:** May 31, 2026
+
+---
+### スカウトのキャンプ脱出計画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> キャンプ中に脱出計画を立てるスカウトたちのビデオシーン。リーダーシップと安全確保に焦点を当てています。
+
+#### 📝 プロンプト
+
+```
+キャンプ旅行で安全な脱出を計画するスカウトたち。若者が何を予測し、どのようにリーダーシップを発揮すべきかを学ぶための内容です
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fe0935514429879ab6360bd877f33af7/thumbnails/thumbnail.jpg" width="600" alt="スカウトのキャンプ脱出計画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5558)**
+
+**作者:** [Jean](https://x.com/SpaceScoutsIntl) | **ソース:** [Link](https://x.com/SpaceScoutsIntl/status/2060991846613127427) | **公開日:** May 31, 2026
+
+---
+### フロリダのハリケーンとグレートプレーンズの竜巻の比較
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ハリケーンと竜巻を比較し、その形成過程、規模、被害パターンを詳しく解説する教育用ビデオプロンプトです。
+
+#### 📝 プロンプト
+
+```
+フロリダのハリケーンとグレートプレーンズの竜巻を比較：形成過程、規模、持続時間、風のパターン、被害の種類、一般的な警報時間における主な違いを明確に解説する教育的な比較コンテンツです。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1b15703378b78c274a919cbe9d26963a/thumbnails/thumbnail.jpg" width="600" alt="フロリダのハリケーンとグレートプレーンズの竜巻の比較">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5556)**
+
+**作者:** [Jean](https://x.com/SpaceScoutsIntl) | **ソース:** [Link](https://x.com/SpaceScoutsIntl/status/2060990201829400897) | **公開日:** May 31, 2026
+
+---
+### 未来型エネルギーデバイスのプロトタイプ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 動画用に、ぼかした工業的な背景に光るコアを配置した、未来型エネルギーデバイスの技術的かつ視覚的なプロンプト。
+
+#### 📝 プロンプト
+
+```
+光るコアを備えた未来型エネルギーデバイスのプロトタイプ。ぼかした工業的な背景に配置。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/72bcc000ade66f2ea3fed85fd94ea114/thumbnails/thumbnail.jpg" width="600" alt="未来型エネルギーデバイスのプロトタイプ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5555)**
+
+**作者:** [Resource Swarm Reactor](https://x.com/ResourceSwarm) | **ソース:** [Link](https://x.com/ResourceSwarm/status/2060974660171293159) | **公開日:** May 31, 2026
+
+---
+### 未来型グラフェン・ウォータースポーツリゾート
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 先進的なグラフェン素材で構築され、人力を活用した推進システムを統合した、未来的なウォータースポーツリゾートのハイテク動画を生成します。
+
+#### 📝 プロンプト
+
+```
+先進的なグラフェン素材を主に使用して建設され、人力を統合した推進システムを備えた、未来的なウォータースポーツリゾートを想像してみてください。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4282f9c8ccb0a0ad19a849748255c4e2/thumbnails/thumbnail.jpg" width="600" alt="未来型グラフェン・ウォータースポーツリゾート">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5563)**
+
+**作者:** [Resource Swarm Reactor](https://x.com/ResourceSwarm) | **ソース:** [Link](https://x.com/ResourceSwarm/status/2060962001594028321) | **公開日:** May 31, 2026
+
+---
+### ヴィンテージ版『ドラキュラ』の書籍
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 彫刻が施された木製のデスクの上に置かれた、ヘビ革調のヴィンテージな『ドラキュラ』の書籍を映し出す、雰囲気のある動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+彫刻が施された木製のデスクの上に置かれた、金と赤の文字で「Dracula」と記された、黒いヘビ革調のヴィンテージな表紙の書籍
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/74716d3fdb4135e940c4441f00c36102/thumbnails/thumbnail.jpg" width="600" alt="ヴィンテージ版『ドラキュラ』の書籍">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5566)**
+
+**作者:** [RinGo_3.0](https://x.com/NftEcat) | **ソース:** [Link](https://x.com/NftEcat/status/2060953408232649151) | **公開日:** May 31, 2026
+
+---
+### 宇宙の嵐に浮かぶガラスの城
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 雷が鳴り響く宇宙の嵐の中を漂うガラスの城を描いた、非常に雰囲気のあるファンタジー動画用プロンプト。
+
+#### 📝 プロンプト
+
+```
+宇宙の嵐に飲み込まれた浮かぶガラスの城 ⚡
+稲妻が走り、破片が漂う、極めて情緒的な世界観。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/da35ff6da97ef75d4933f8b430391b6c/thumbnails/thumbnail.jpg" width="600" alt="宇宙の嵐に浮かぶガラスの城">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5559)**
+
+**作者:** [Jen DuBose](https://x.com/DuBoseCreations) | **ソース:** [Link](https://x.com/DuBoseCreations/status/2060951746260652068) | **公開日:** May 31, 2026
+
+---
+### 紫の雨が降る SF デジタル・ヴォイド
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ミッドナイトブルーの深いデジタル・ヴォイドの中に紫の雨が降り注ぐ様子を描いた SF ビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+紫の雨、MidnightBlue / SF デジタル領域のヴォイドの深淵、隅に TLV
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/535cc8c0f2c615633021357c97d6eda4/thumbnails/thumbnail.jpg" width="600" alt="紫の雨が降る SF デジタル・ヴォイド">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5560)**
+
+**作者:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **ソース:** [Link](https://x.com/TLouisevsughan/status/2060908372048945574) | **公開日:** May 31, 2026
+
+---
 ### 妖精の飛行ファンタジーアニメーション
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1881,240 +2110,6 @@ solid body slowly blurs and dissolves as if fading at the speed of light, reveal
 **作者:** [Chelle](https://x.com/freesawn137) | **ソース:** [Link](https://x.com/freesawn137/status/2057671936952393893) | **公開日:** May 22, 2026
 
 ---
-### 宇宙を周回する未来的な宇宙船
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 星雲を背景に、深宇宙で洗練された宇宙船の周りを旋回するカメラワークのプロンプト。
-
-#### 📝 プロンプト
-
-```
-深宇宙に浮かぶ未来的な宇宙船の外観をゆっくりと周回するカメラワーク。洗練された船体や光る窓をさまざまな角度から映し出し、背景には星々や星雲が広がっている。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/80bea774f89a41c3024c9c612ed737e6/thumbnails/thumbnail.jpg" width="600" alt="宇宙を周回する未来的な宇宙船">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5131)**
-
-**作者:** [MIUZAH DEIOPAH OF THE PLEIADES](https://x.com/Octillion111111) | **ソース:** [Link](https://x.com/Octillion111111/status/2057566105393054058) | **公開日:** May 21, 2026
-
----
-### キッチンでの遊び心あふれるラブムード
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> キッチンで浮遊するハートと紙幣に囲まれ、遊び心のある雰囲気を演出するカップルを描いたビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-緑色のトップスを着たタトゥーのある女性と、キッチンで愛情を込めて微笑む男性。周囲には紙幣とたくさんの浮遊するハートがあり、遊び心のあるラブムード。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/43e1ead2d76c388c2eb9f11106fa276e/thumbnails/thumbnail.jpg" width="600" alt="キッチンでの遊び心あふれるラブムード">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5129)**
-
-**作者:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **ソース:** [Link](https://x.com/maggiejuang1/status/2057477179902988408) | **公開日:** May 21, 2026
-
----
-### プラチナブロンドの髪を持つ吸血鬼の女性
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 長いプラチナブロンドの髪と赤い瞳を持ち、黒いバラを手にした美しい吸血鬼の女性を描いたシネマティックな動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-長いプラチナブロンドの髪と赤い瞳を持ち、胸元に黒いバラを抱えた美しい吸血鬼の女性
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/57ded65af302fe1d749690cfbc155af8/thumbnails/thumbnail.jpg" width="600" alt="プラチナブロンドの髪を持つ吸血鬼の女性">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5128)**
-
-**作者:** [Benjamin Ferrarini](https://x.com/Granddragonben) | **ソース:** [Link](https://x.com/Granddragonben/status/2057455897903804911) | **公開日:** May 21, 2026
-
----
-### エレベーター・ファッション・ミラー・ワールド
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> エレベーター内の鏡の世界で、穏やかな動きと夢のような物理演算をテストするためのスタイライズされたビデオプロンプトです。
-
-#### 📝 プロンプト
-
-```
-エレベーター・ファッション • ミラー・ワールド • Slides （穏やかな動きと夢のような物理演算のテスト）
-```
-
-<img src="https://cms-assets.youmind.com/media/1779438773089_01l2a5_HI2KbXAa8AEdUhJ.jpg" width="600" alt="エレベーター・ファッション・ミラー・ワールド">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5132)**
-
-**作者:** [sugarcane](https://x.com/sugarcanebkk) | **ソース:** [Link](https://x.com/sugarcanebkk/status/2057452874289095060) | **公開日:** May 21, 2026
-
----
-### カラフルな爆発のアスペクト比リフレーム
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 鮮やかな噴火と爆発のアニメーションを 16:9 のシネマティックなアスペクト比にリフレームし、青空を背景にアクションを中央に配置するように設計されたプロンプトです。
-
-#### 📝 プロンプト
-
-```
-16:9 のアスペクト比にリフレームし、鮮やかな色彩の噴火と爆発を青空の中央に配置してください。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/885d22b1f8d2a523309867eaf667beec/thumbnails/thumbnail.jpg" width="600" alt="カラフルな爆発のアスペクト比リフレーム">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5133)**
-
-**作者:** [Dwaynemeiers](https://x.com/Dwaynemeiers) | **ソース:** [Link](https://x.com/Dwaynemeiers/status/2057406674437357960) | **公開日:** May 21, 2026
-
----
-### 聖書の引用文をペンで描くアニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 審判と先祖の罪に関する聖書の引用文を、映画のようなライティングでペンが描き出すアニメーション。
-
-#### 📝 プロンプト
-
-```
-「汝は量られ、不足ありと認められた（You have been judged and found wanting）」という言葉をペンで描き……その後に、アダムとイブの罪が後の世代に受け継がれるという聖書の引用文を描いてください。光の演出を通して表現してください。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a1469bce60579a51c99496a4cc1dbc3c/thumbnails/thumbnail.jpg" width="600" alt="聖書の引用文をペンで描くアニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5130)**
-
-**作者:** [Michael Bradley](https://x.com/MikeBradleySr2) | **ソース:** [Link](https://x.com/MikeBradleySr2/status/2057385133187981793) | **公開日:** May 21, 2026
-
----
-### ゴールデン・ドラゴン・タクティカル・メック
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 古代の戦場に立つ、精巧な龍をモチーフにしたタクティカルアーマーを纏った女性を描く、極めて詳細な SF 武侠プロンプト。
-
-#### 📝 プロンプト
-
-```
-鋭く美しい顔立ちの東アジア系の女性。長くダークブラウンの髪を高い位置でなめらかにポニーテールにまとめ、後れ毛をなびかせている。超精巧な近未来風の黒いタクティカル・メック・アーマーを着用し、装飾的で光り輝く黄金の中国龍が重厚に施されている。アーマーには複雑な黄金の龍の鱗、両肩には光る眼を持つ巨大な黄金の龍の頭部、胸部には光り輝く黄金の龍、そして背中には巨大な黄金の龍がとぐろを巻いている。スーツには青く光るエネルギーラインと回路が走り、明るい黄橙色に発光するアーマーセグメント、下顔面を覆う黒いタクティカル・レスピレーター・マスクが特徴。
-
-広大な古代の戦場の中央に力強く立ち、カメラに向き合う姿からシーンが始まる。彼女の周囲には渦巻く明るい青色の円形エネルギーリング。彼女はゆっくりと 180 度回転して背中を見せ、ポニーテールがドラマチックに揺れる。カメラは彼女の周囲を滑らかに旋回し、フロントの 3/4 ビューとバックビューを交互に映し出し、ダイナミックなローアングルのヒーローショットを捉える。
-
-環境：背景にはぼやけた巨大な古代中国の軍勢、埃っぽい戦場の地面、曇天のドラマチックな空。青く光る浮遊エネルギー粒子、黄金の火花、そして周囲に降り注ぐ垂直に光る光の筋による、強烈なシネマティックライティング。アーマーは脈動し輝く力強い青と金の光のアクセントを放つ。
-
-スタイル：ハイパーリアリスティックなシネマティック 8K、超詳細なテクスチャ、ドラマチックなボリュームライティング、壮大な SF 武侠フュージョン、完璧な解剖学的構造、複雑なアーマーのディテール、ダイナミックな動き、高いプロダクションバリュー、IMAX 撮影 --ar 9:16 --stylize 250 --v 6
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f856f622a9e6991527bd9c183a4f90eb/thumbnails/thumbnail.jpg" width="600" alt="ゴールデン・ドラゴン・タクティカル・メック">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5082)**
-
-**作者:** [Thoughts Creator](https://x.com/ThoughCreator) | **ソース:** [Link](https://x.com/ThoughCreator/status/2057249122181325014) | **公開日:** May 20, 2026
-
----
-### 歌うロボットキツネのアニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 向けに設計された、歩きながらパロディソングを歌うロボットキツネのクリエイティブなビデオプロンプトです。
-
-#### 📝 プロンプト
-
-```
-ロボットのキツネがこちらを向き、カメラに向かって歩きながら「What does the GROK say! Ding ding ding da ding da dah ding. What does the Grok say!」と歌っている様子を生成してください。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1d48f923c57a6e49c0f179ea9bf67268/thumbnails/thumbnail.jpg" width="600" alt="歌うロボットキツネのアニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5090)**
-
-**作者:** [Joe Pelayo](https://x.com/JoeHeadhunter) | **ソース:** [Link](https://x.com/JoeHeadhunter/status/2057238505412026463) | **公開日:** May 20, 2026
-
----
-### レゴキャラクターの自己アニメーション化
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine を使用して、ユーザー自身のレゴキャラクター版を作成し、画像参照を用いて両方を動画にアニメーション化するための指示です。
-
-#### 📝 プロンプト
-
-```
-自分自身の画像とレゴキャラクターの画像を両方参照し、動画にアニメーション化します。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9937910b41d6ebfddb6d0094836be8b5/thumbnails/thumbnail.jpg" width="600" alt="レゴキャラクターの自己アニメーション化">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5088)**
-
-**作者:** [Ralph](https://x.com/RalphTheMaker) | **ソース:** [Link](https://x.com/RalphTheMaker/status/2057229234083377586) | **公開日:** May 20, 2026
-
----
-### タンポポ畑でのロマンチックな出会い
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 風に揺れるタンポポの上をカメラがロマンチックにパンし、男性が女性のもとへ駆け寄るシネマティックな映像。
-
-#### 📝 プロンプト
-
-```
-カメラが風に優しく揺れるタンポポの細部をパンしていく。ピントの合っていない男性が走り去り、その先に彼を愛する美しい女性が現れる。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1931e50d69fa975fbad1aa91149dcd9f/thumbnails/thumbnail.jpg" width="600" alt="タンポポ畑でのロマンチックな出会い">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5087)**
-
-**作者:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **ソース:** [Link](https://x.com/CindyWeigapn6/status/2057210352849265070) | **公開日:** May 20, 2026
-
----
-### のんびりとしたアニメ少女との交流
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ani というキャラクターが、覗き込み、タップ、投げキッスなどの甘えん坊な仕草をする、詳細なシネマティック動画生成用プロンプトです。
-
-#### 📝 プロンプト
-
-```
-スムーズでゆったりとした動画を作成してください。Ani が愛情を込めてこちらを覗き込み、身を乗り出します。彼女は優しく手でタップし、甘えん坊で可愛らしい表情で頬に手を添えるという甘い仕草を見せます。最後に、視聴者に向かって優しく投げキッスをします。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6d7199c81f1713ae6bab6e318baccc38/thumbnails/thumbnail.jpg" width="600" alt="のんびりとしたアニメ少女との交流">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5081)**
-
-**作者:** [Aniの日常](https://x.com/tarohinomo78040) | **ソース:** [Link](https://x.com/tarohinomo78040/status/2057137600314655013) | **公開日:** May 20, 2026
-
----
-### 巨大メカ蟹モンスターバトル
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> おもちゃが巨大なメカ蟹に変身し、月面を舞台に 3 体の異なるモンスターと戦うというダイナミックな動画生成プロンプトです。
-
-#### 📝 プロンプト
-
-```
-この人形を巨大なメカ蟹に変身させてください。その後、広大な月面のような場所で 3 体のモンスターを倒します。1 体目のモンスターは邪悪な虎、2 体目は不気味なニシキヘビ、3 体目は気味の悪いドジョウです。メカ蟹は巨大な機関銃を使ってそれらを殲滅します。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bb95d24324226cd7f352cb57f20bc210/thumbnails/thumbnail.jpg" width="600" alt="巨大メカ蟹モンスターバトル">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5089)**
-
-**作者:** [JeffLiuRoast](https://x.com/liu17251086) | **ソース:** [Link](https://x.com/liu17251086/status/2057125036268679229) | **公開日:** May 20, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2176,6 +2171,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-01T05:09:38.973Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-01T13:56:50.771Z</sub>
 
 </div>
