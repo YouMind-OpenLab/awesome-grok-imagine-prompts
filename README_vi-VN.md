@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1709** |
+| 📝 Total Prompts | **1721** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-02** |
 
@@ -189,6 +189,274 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Mèo Himalayan chuyển động chậm
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh đơn giản cho chuyển động camera chậm tập trung vào một chú mèo Himalayan, nhấn mạnh sự tĩnh lặng tương đối.
+
+#### 📝 Prompt
+
+```
+Chuyển động camera chậm, mèo vẫn tương đối tĩnh. Bạn có thể nhận được một chú mèo Himalayan màu xanh.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/41110d236908ea133a262ad289e9c9ad/thumbnails/thumbnail.jpg" width="600" alt="Mèo Himalayan chuyển động chậm">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5596)**
+
+**Author:** [mikesd333@yahoo.com](https://x.com/mcvee_laser) | **Source:** [Link](https://x.com/mcvee_laser/status/2061555054440747409) | **Published:** Jun 1, 2026
+
+---
+### Video người vô gia cư cầm biển báo ván trượt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt tập trung vào nhân vật, mô tả một người đàn ông đang cầm tấm biển vẽ tay hài hước.
+
+#### 📝 Prompt
+
+```
+Tạo một video về một người đàn ông trung niên bị hói, vô gia cư đang cầm tấm biển vẽ tay với dòng chữ “Ván trượt hết xăng rồi”.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/26bfe0c206deb073288482af04e8f6f9/thumbnails/thumbnail.jpg" width="600" alt="Video người vô gia cư cầm biển báo ván trượt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5604)**
+
+**Author:** [William McDonald](https://x.com/w_a_mcdonald) | **Source:** [Link](https://x.com/w_a_mcdonald/status/2061546138386170120) | **Published:** Jun 1, 2026
+
+---
+### Mô hình Robot Transformer phong cách NASCAR
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh bố cục phức tạp để kết hợp nhiều hình ảnh thành một robot Transformer anh hùng duy nhất với các yếu tố NASCAR.
+
+#### 📝 Prompt
+
+```
+Công nghệ ngày nay thật đáng kinh ngạc
+
+Hãy kết hợp 4 hình ảnh đó thành một hình ảnh toàn màn hình bằng cách tạo ra một robot Transformer anh hùng đầy uy lực. Pha trộn phần thân xe đua NASCAR với tông màu đỏ, trắng, xanh cùng các họa tiết cờ Mỹ và đầu lâu cướp biển vào khung gầm bọc thép, bánh xe của robot...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a724f4fda4f01ef99b6e4a7d9f335e9/thumbnails/thumbnail.jpg" width="600" alt="Mô hình Robot Transformer phong cách NASCAR">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5606)**
+
+**Author:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **Source:** [Link](https://x.com/PhilipC34457079/status/2061531075097010679) | **Published:** Jun 1, 2026
+
+---
+### Robot Grok và Lễ nghỉ hưu của GIF
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý tường thuật chi tiết cho video mô tả robot Grok trao quà nghỉ hưu cho một nhân vật GIF giữa đám đông.
+
+#### 📝 Prompt
+
+```
+GIF sắp nghỉ hưu. Có một đám đông lớn những người ngưỡng mộ và các tấm biển chúc mừng nghỉ hưu được trang trí trên tường, rồi robot Grok bước tới và trao cho Giffy một món quà. GIF mở món quà ra. Đó là một chiếc đồng hồ. GIF mỉm cười và nói cảm ơn. Grok mỉm cười đáp lại một cách đầy ân cần. ☺️
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/81fa6aa9c9d18fb3f7946f17b117cdde/thumbnails/thumbnail.jpg" width="600" alt="Robot Grok và Lễ nghỉ hưu của GIF">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5597)**
+
+**Author:** [Joe Pelayo](https://x.com/JoeHeadhunter) | **Source:** [Link](https://x.com/JoeHeadhunter/status/2061494348861055177) | **Published:** Jun 1, 2026
+
+---
+### Cô gái du hành thời gian xuất hiện
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video điện ảnh mô tả một cô gái bước ra từ cỗ máy thời gian hình cầu vào năm 2026.
+
+#### 📝 Prompt
+
+```
+Cô gái lai du hành thời gian vừa hạ cánh và bước ra khỏi cỗ máy thời gian hình cầu của mình, cô nhìn xung quanh và thấy rằng đó là năm 2026
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/692a89a93ec70330bd1b6103a3710c12/thumbnails/thumbnail.jpg" width="600" alt="Cô gái du hành thời gian xuất hiện">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5603)**
+
+**Author:** [Make Britain Great Again](https://x.com/DragonFlam7530) | **Source:** [Link](https://x.com/DragonFlam7530/status/2061485523634368997) | **Published:** Jun 1, 2026
+
+---
+### Anh hùng Anime Chibi và Robot bay lượn
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video năng động về một cô bé anime chibi và người bạn đồng hành robot đang bay trên bầu trời với áo choàng anh hùng.
+
+#### 📝 Prompt
+
+```
+Một cô bé anime chibi dễ thương với mái tóc dài bồng bềnh pha trộn giữa màu vàng, tím và hồng, khoác trên mình chiếc áo choàng đỏ anh hùng, đang bay đầy năng lượng trên bầu trời bên cạnh một người bạn đồng hành robot nhỏ nhắn đáng yêu cũng đang mặc chiếc áo choàng anh hùng tương tự. Cả hai đang cùng nhau bay vút lên cao...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/21271aca2e9178c647ed1c6d2ce42299/thumbnails/thumbnail.jpg" width="600" alt="Anh hùng Anime Chibi và Robot bay lượn">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5605)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2061471795023069195) | **Published:** Jun 1, 2026
+
+---
+### Cảnh thang máy trên bầu trời mơ màng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) nghệ thuật điện ảnh tối giản về chiếc thang máy đang đi lên xuyên qua ánh sáng và sương mù vào khoảng không trắng xóa.
+
+#### 📝 Prompt
+
+```
+Góc máy cố định bên trong một chiếc thang máy cũ khi cửa đóng lại; thay vì những bức tường, bầu trời rộng mở và những đám mây trôi lơ lửng lấp đầy không gian; thang máy nhẹ nhàng đi lên xuyên qua ánh sáng và sương mù; cửa mở ra một khoảng không trắng xóa. Nghệ thuật điện ảnh tối giản, mơ màng. Âm thanh: tiếng cáp thang máy rì rào.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f3b8cbbd21ac7e492932d508924c1c8d/thumbnails/thumbnail.jpg" width="600" alt="Cảnh thang máy trên bầu trời mơ màng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5600)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2061450489112506714) | **Published:** Jun 1, 2026
+
+---
+### JSON cho Trailer Hành động Chiến tranh Hiện đại
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt cấu trúc JSON chi tiết cho trailer phim chiến tranh kịch tính dài 10 giây, bao gồm thời gian quay và chuyển động camera cụ thể.
+
+#### 📝 Prompt
+
+```
+{
+  "duration": "10 giây",
+  "style": "Trailer hành động chiến tranh chân thực, cường độ cao, cực kỳ kịch tính. Nhịp độ dồn dập, các vụ nổ quy mô lớn, chiến đấu không ngừng nghỉ, hiệu ứng VFX choáng ngợp, kỹ thuật quay phim điện ảnh nhưng đầy mạnh mẽ",
+  "aspect_ratio": "16:9",
+  "timeline": [
+    {
+      "time": "0-1.8 giây",
+      "description": "Người lính mặc trang bị chiến thuật chạy hết tốc lực qua những con phố đổ nát vì chiến tranh trong khi bị truy đuổi bởi hỏa lực hạng nặng và các vụ nổ. Camera xoay nhanh với hiệu ứng nhòe chuyển động mạnh và lóa ống kính, khó lòng bắt kịp hành động.",
+      "transition": "Cảnh quay theo dõi tràn đầy năng lượng lao vào sự hỗn loạn"
+    },
+    {
+      "time": "1.8-3.6 giây",
+      "description": "Một vụ nổ lớn bùng phát ngay bên cạnh người lính. Camera rung lắc dữ dội và xuyên qua các mảnh vỡ, lửa và sóng xung kích đang bay. Nhiều vụ nổ phụ liên tiếp xảy ra ở phía sau. Sự hỗn loạn của các hạt bụi bặm choáng ngợp.",
+      "transition": "Cú đẩy camera xuyên qua vụ nổ dữ dội kèm rung lắc"
+    },
+    {
+      "time": "3.6-5.5 giây",
+      "description": "Hiệu ứng bullet time quay chậm cực kỳ mạnh mẽ. Người lính lao mình và bắn trả trong khi đạn bay vèo qua. Camera xoay quanh anh ta với tốc độ cao. Những bóng ma kỹ thuật số của những người lính đã ngã xuống lóe lên dữ dội xung quanh cuộc đọ súng căng thẳng.",
+      "transition": "Xoay camera nhanh ở chế độ quay chậm"
+    },
+    {
+      "time": "5.5-7.3 giây",
+      "description": "Cảnh quay từ dưới lên đầy bùng nổ, hé lộ một chiến trường tàn khốc và rộng lớn. Xe tăng khai hỏa, bộ binh chiến đấu cận chiến, các cuộc không kích và những quả cầu lửa khổng lồ thắp sáng bầu trời. Các lớp phủ hình ảnh ba chiều màu đỏ nhấp nháy mạnh mẽ trên khung hình.",
+      "transition": "Cảnh quay từ dưới lên nhanh chóng hé lộ quy mô chiến trường"
+    },
+    {
+      "time": "7.3-9 giây",
+      "description": "Camera lao thẳng trở lại tâm điểm của trận chiến. Cận cảnh người lính đang nạp đạn và khai hỏa dưới làn đạn dày đặc. Tông màu đỏ rực rỡ, tia lửa, ánh chớp đầu nòng và tàn lửa bay thẳng về phía camera. Giao diện người dùng ba chiều cập nhật liên tục.",
+      "transition": "Cú zoom lao vào cận cảnh chiến đấu mạnh mẽ"
+    },
+    {
+      "time": "9-10 giây",
+      "description": "Cảnh quay cuối cùng kéo lùi ra xa toàn cảnh vùng chiến sự trong sự hỗn loạn hoàn toàn. Nhiều vụ nổ lớn, đạn vạch đường bay khắp nơi và các phương tiện đang bốc cháy. Tiêu đề 'Modern Warfare 4' xuất hiện cùng sóng xung kích mạnh mẽ và hiệu ứng mảnh vỡ bay.",
+      "transition": "Cảnh quay mở rộng đầy hỗn loạn và ấn tượng"
+    }
+  ],
+  "camera_notes": "Kỹ thuật quay phim cực kỳ năng động và mạnh mẽ. Xoay nhanh, rung lắc dữ dội trong các vụ nổ, chuyển động lên/xuống nhanh và theo dõi tốc độ cao. Nhịp độ dồn dập và nghẹt thở nhưng vẫn duy trì chất lượng điện ảnh.",
+  "vfx_notes": "Cảnh tượng mãn nhãn tối đa: chuỗi vụ nổ, mảnh vỡ dày đặc, sóng xung kích, đạn vạch đường, ánh chớp đầu nòng, phương tiện bốc cháy, quả cầu lửa quy mô lớn, bóng ma kỹ thuật số, giao diện ba chiều mạnh mẽ, tia lửa và tàn lửa bay thẳng vào camera."
+}
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1e178293220cf4fb008e2a2d35b82529/thumbnails/thumbnail.jpg" width="600" alt="JSON cho Trailer Hành động Chiến tranh Hiện đại">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5602)**
+
+**Author:** [AI enthusiast, YT AIAcademy 인공지능아카데미,](https://x.com/AIAcademykorea) | **Source:** [Link](https://x.com/AIAcademykorea/status/2061395464696799568) | **Published:** Jun 1, 2026
+
+---
+### Trăng xanh trên đường chân trời Porto
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video điện ảnh về cảnh trăng xanh chân thực mọc trên đường chân trời mang tính biểu tượng của Porto, với hình ảnh phản chiếu trên sông Douro và kiến trúc chi tiết.
+
+#### 📝 Prompt
+
+```
+Hình ảnh chân thực về một mặt trăng xanh đang mọc và tiến vào bầu trời phía trên đường chân trời của Porto vào lúc hoàng hôn. Mặt trăng tròn lớn với sắc xanh nhạt nhô lên phía sau Tháp Clérigos hoặc các mái nhà ở quận Ribeira, những ánh đèn thành phố ấm áp bắt đầu lấp lánh bên dưới, sông Douro phản chiếu khung cảnh, những đám mây đầy kịch tính, bầu không khí điện ảnh, kiến trúc và bề mặt mặt trăng cực kỳ chi tiết, độ phân giải 8K chân thực.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/da69e255182eab954dc72fcc5d32a50f/thumbnails/thumbnail.jpg" width="600" alt="Trăng xanh trên đường chân trời Porto">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5595)**
+
+**Author:** [erna](https://x.com/ernDju) | **Source:** [Link](https://x.com/ernDju/status/2061333728673087894) | **Published:** Jun 1, 2026
+
+---
+### Vũ công Ballet trên đồi dưới ánh trăng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt đầy duyên dáng về vũ công ballet đang nhảy múa trên đỉnh đồi dưới dải Ngân Hà.
+
+#### 📝 Prompt
+
+```
+Vũ công ballet xoay người trên đỉnh đồi, đêm trăng sáng, dải Ngân Hà lấp lánh, chiếc váy xanh mềm mại tỏa sáng… khắc họa vẻ đẹp thiên nhiên nhảy múa trong đêm
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c048d847b742ff3693aa47f508a80283/thumbnails/thumbnail.jpg" width="600" alt="Vũ công Ballet trên đồi dưới ánh trăng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5598)**
+
+**Author:** [Akki](https://x.com/whateverakki) | **Source:** [Link](https://x.com/whateverakki/status/2061291723737670139) | **Published:** Jun 1, 2026
+
+---
+### Hoạt ảnh Đôi giày bay của Hermes
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh đầy cảm hứng mô tả vị thần Hy Lạp Hermes sử dụng đôi giày bay ma thuật và tương tác với Zeus trong bối cảnh hiện đại.
+
+#### 📝 Prompt
+
+```
+Hermes sở hữu đôi giày bay siêu tốc cùng chiếc mũ có cánh cực ngầu giúp anh ấy di chuyển nhanh hơn cả chim trời! Anh ấy thậm chí còn dạy Zeus cách ăn mặc như người bình thường để cùng tham gia vào những cuộc phiêu lưu thú vị. Giờ đây, vị thần lém lỉnh tốc độ đã sẵn sàng để giúp đỡ mọi người ở khắp mọi nơi!
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/30a83309bc20d3575c8fb77a3a4a6263/thumbnails/thumbnail.jpg" width="600" alt="Hoạt ảnh Đôi giày bay của Hermes">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5601)**
+
+**Author:** [the don of hockey](https://x.com/don_allain) | **Source:** [Link](https://x.com/don_allain/status/2061256565160595499) | **Published:** Jun 1, 2026
+
+---
+### Bối cảnh nhà kho công nghiệp thời trang cao cấp
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý video biên tập thời trang tinh tế với hình ảnh người phụ nữ mặc váy couture trên nền nhà kho công nghiệp thô sơ.
+
+#### 📝 Prompt
+
+```
+Cảnh quay biên tập thời trang cao cấp siêu thực với một người phụ nữ ấn tượng mặc chiếc váy couture khổng lồ bên trong một nhà kho bỏ hoang, kết hợp giữa thời trang xa xỉ và bầu không khí công nghiệp thô mộc.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/84b1fc7e2161665e2a36130ffd48c3b0/thumbnails/thumbnail.jpg" width="600" alt="Bối cảnh nhà kho công nghiệp thời trang cao cấp">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5599)**
+
+**Author:** [Belinda Smith](https://x.com/BelindaSmith88) | **Source:** [Link](https://x.com/BelindaSmith88/status/2061243658716799432) | **Published:** Jun 1, 2026
+
+---
 ### Khung cảnh bãi biển lúc hoàng hôn yên bình
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1878,238 +2146,6 @@ Realistic 8K cinematic quality / play camera /Volumetric effect /intense shadows
 **Author:** [Arak Dark](https://x.com/orgunus93304) | **Source:** [Link](https://x.com/orgunus93304/status/2057960490744082520) | **Published:** May 22, 2026
 
 ---
-### Batman and Joker Yin-Yang Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt featuring Batman and Joker integrated into a complex Yin-Yang architectural symphony.
-
-#### 📝 Prompt
-
-```
-Batman X Joker in the Visual Symphony of the Enhanced Yin - Yang Quartet Architecture
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6b8e7213ef166eb36ddbb0530f13c14b/thumbnails/thumbnail.jpg" width="600" alt="Batman and Joker Yin-Yang Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5168)**
-
-**Author:** [Cinema X](https://x.com/Above1988) | **Source:** [Link](https://x.com/Above1988/status/2057955138371784968) | **Published:** May 22, 2026
-
----
-### Static Tripod Coastal Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A technical video prompt specifying camera angle, lens feel, and environment details for a coastal scene.
-
-#### 📝 Prompt
-
-```
-SCENE LOCK: static tripod shot locked from the exact same front 3/4 bow angle as all image frames, natural 35mm lens feel, stable geometry and continuity with cracked slipway stones, RNLI boathouse doors, rusted hand winch, shoreline horizon
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8c219c96b0475905f80ded7acddeae9a/thumbnails/thumbnail.jpg" width="600" alt="Static Tripod Coastal Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5157)**
-
-**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2057952748587626679) | **Published:** May 22, 2026
-
----
-### Modern Luxury Villa Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video of a modern white luxury villa featuring a turquoise pool, wooden terrace, and olive trees, created with Grok Imagine.
-
-#### 📝 Prompt
-
-```
-Modern white luxury villa, turquoise pool, wooden terrace, olive trees and perfect cinematic lighting.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/35f6c111e7ae612a0c937c06af60e2c1/thumbnails/thumbnail.jpg" width="600" alt="Modern Luxury Villa Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5170)**
-
-**Author:** [@PaulImagineX](https://x.com/rezaazer819794) | **Source:** [Link](https://x.com/rezaazer819794/status/2057878912160485470) | **Published:** May 22, 2026
-
----
-### 1800s Elven Cottage Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video prompt for an 1800s-style scene featuring an elven brunette with wings inside a vine-covered cottage.
-
-#### 📝 Prompt
-
-```
-1800’s elven brunette with wings standing inside a cottage overgrown with vines at a table covered with herbs
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c79d2bf62bf24c942563a12e45a20c69/thumbnails/thumbnail.jpg" width="600" alt="1800s Elven Cottage Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5165)**
-
-**Author:** [✨Alien Queen](https://x.com/MuskWaifu) | **Source:** [Link](https://x.com/MuskWaifu/status/2057878021428621780) | **Published:** May 22, 2026
-
----
-### 360 Orbit Harbor Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A technical camera prompt for a smooth 360-degree orbit around an elderly man at a harbor.
-
-#### 📝 Prompt
-
-```
-The camera slowly and smoothly orbits 360 degrees around the elderly man with wrinkled face and clasped hands sitting cross-legged on the wooden pier in the harbor, revealing the full scene with weathered wooden fishing boats, cloudy overcast sky, water ripples.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/23ef596833786532e02eebd197672250/thumbnails/thumbnail.jpg" width="600" alt="360 Orbit Harbor Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5163)**
-
-**Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2057826819680952608) | **Published:** May 22, 2026
-
----
-### Ganesha Ocean POV Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt for Grok-Imagine depicting the deity Ganesha emerging from the ocean and walking over the viewer with a shaky handheld camera effect.
-
-#### 📝 Prompt
-
-```
-Ganesha walks over the POV person, real life little bit shaky camera, NO BACKGROUND MUSIC NO DIALOGUES.
-```
-
-<img src="https://cms-assets.youmind.com/media/1779524042345_mvrk70_HI7FgYLbcAArhwF.jpg" width="600" alt="Ganesha Ocean POV Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5167)**
-
-**Author:** [safalexeai](https://x.com/safal_exe_ai) | **Source:** [Link](https://x.com/safal_exe_ai/status/2057799545048952980) | **Published:** May 22, 2026
-
----
-### Talking Woman with Synchronized Subtitles
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A detailed prompt for Grok Imagine to generate a video of a woman speaking naturally with perfectly synchronized and stylized Japanese subtitles.
-
-#### 📝 Prompt
-
-```
-A woman smiling and speaking naturally to the camera. Dialogue: 'Instead of making an AI video right away, it's better to make an image with ChatGPT first!' Display Japanese subtitles fully synchronized with the dialogue. Subtitles should be centered on the screen. Center-aligned. Display clearly with white text and black borders. Thick, easy-to-read font. Subtitles break into 1-2 lines. Size is readable on smartphones. Subtitles are fully synchronized with the speaking timing. Subtitles are not cut off in the middle.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e280e00fc329b99e354ddc9ceb81dc6a/thumbnails/thumbnail.jpg" width="600" alt="Talking Woman with Synchronized Subtitles">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5169)**
-
-**Author:** [読まれるnote画像ナビ【AI副業】](https://x.com/promptdesignjp) | **Source:** [Link](https://x.com/promptdesignjp/status/2057785207500234836) | **Published:** May 22, 2026
-
----
-### SpaceX Dragon ISS Docking Zoom
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A technical video prompt for a slow zoom of the SpaceX Dragon capsule docking with the International Space Station.
-
-#### 📝 Prompt
-
-```
-No voice 
-DO NOT CHANGE ANYTHING 
-Slowly zoom in and watch SpaceX Dragon capsule docking with the International Space Station....CRS-34 Docking — Lirathen Voss — 👽🛰️
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e1b9036455d65c067ff6ff729f6ded23/thumbnails/thumbnail.jpg" width="600" alt="SpaceX Dragon ISS Docking Zoom">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5164)**
-
-**Author:** [Alex Patricio](https://x.com/alexpatricio204) | **Source:** [Link](https://x.com/alexpatricio204/status/2057739059062046761) | **Published:** May 22, 2026
-
----
-### Alien Anthropologist Data Cube Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed cinematic prompt for an alien character examining a holographic cube in a high-tech lab.
-
-#### 📝 Prompt
-
-```
-No voice 
-
-Ultra-cinematic 5-second vertical video, hyper-realistic 8K, smooth 24fps, dramatic rim lighting. Male alien anthropologist Lirathen Voss (pale bluish-gray textured skin, sharp pointed ears, intense soft turquoise eyes, sleek black and gold armor) examining a holographic data-cube in a dimly lit, high-tech research lab. Dust particles dancing in light beams, shallow depth of field, subtle camera push-in.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/aeb8e3ccaa12176a2577b64025b1e54b/thumbnails/thumbnail.jpg" width="600" alt="Alien Anthropologist Data Cube Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5159)**
-
-**Author:** [Alex Patricio](https://x.com/alexpatricio204) | **Source:** [Link](https://x.com/alexpatricio204/status/2057728482205999320) | **Published:** May 22, 2026
-
----
-### Samurai vs Ninjas Action Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An action-packed prompt for a samurai fighting ninjas with fast, inhuman speed and whiplash movements.
-
-#### 📝 Prompt
-
-```
-A samurai fights off attacking ninjas. Fast whiplash movements. The ninjas are like quick shadows that dash then attack. The samurai swings wildly, back and forth, with inhuman speed.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/95fddf12f286345be473c7f71821885c/thumbnails/thumbnail.jpg" width="600" alt="Samurai vs Ninjas Action Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5160)**
-
-**Author:** [RJ](https://x.com/rjmoonlighter) | **Source:** [Link](https://x.com/rjmoonlighter/status/2057726315231580453) | **Published:** May 22, 2026
-
----
-### Rocket Launching to Moon Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Generates a video of a beautifully lit moon in the night sky with a rocket ascending toward it.
-
-#### 📝 Prompt
-
-```
-Generate an image of the moon that is lit up beautifully bright in the night sky and have a rocket shouting up in the sky towards it.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6303746517129c5edf6aa355962676dd/thumbnails/thumbnail.jpg" width="600" alt="Rocket Launching to Moon Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5162)**
-
-**Author:** [S Stone](https://x.com/SStone63809012) | **Source:** [Link](https://x.com/SStone63809012/status/2057689360317747445) | **Published:** May 22, 2026
-
----
-### Dissolving Spiritual Scientific Body
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An advanced visual effects prompt describing a body blurring into light and revealing a crystal atomic spiritual form.
-
-#### 📝 Prompt
-
-```
-solid body slowly blurs and dissolves as if fading at the speed of light, revealing the true form underneath — a glowing spiritual-scientific body made of beautiful electron clouds and crystal-like glass atomic structure
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/77de9c7bed5f67e6431323c73867e64a/thumbnails/thumbnail.jpg" width="600" alt="Dissolving Spiritual Scientific Body">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5166)**
-
-**Author:** [Chelle](https://x.com/freesawn137) | **Source:** [Link](https://x.com/freesawn137/status/2057671936952393893) | **Published:** May 22, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2171,6 +2207,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-02T04:55:50.774Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-02T12:26:03.099Z</sub>
 
 </div>

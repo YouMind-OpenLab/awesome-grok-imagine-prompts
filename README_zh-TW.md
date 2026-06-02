@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **1709** |
+| 📝 提示詞總數 | **1721** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-06-02** |
 
@@ -189,6 +189,274 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 慢動作喜馬拉雅貓
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個簡單的提示詞，用於拍攝喜馬拉雅貓的慢速鏡頭移動，強調相對靜止的狀態。
+
+#### 📝 提示詞
+
+```
+慢速鏡頭移動，貓咪保持相對靜止。你可能會得到一隻藍色的喜馬拉雅貓。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/41110d236908ea133a262ad289e9c9ad/thumbnails/thumbnail.jpg" width="600" alt="慢動作喜馬拉雅貓">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5596)**
+
+**作者:** [mikesd333@yahoo.com](https://x.com/mcvee_laser) | **來源:** [Link](https://x.com/mcvee_laser/status/2061555054440747409) | **發布時間:** Jun 1, 2026
+
+---
+### 無家可歸者手持滑板標語影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個以角色為中心的影片提示詞，描述一名男子手持幽默手繪標語的情景。
+
+#### 📝 提示詞
+
+```
+製作一段影片，內容為一名中年禿頭的無家可歸男子，手持一張手繪標語，上面寫著「滑板沒油了」。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/26bfe0c206deb073288482af04e8f6f9/thumbnails/thumbnail.jpg" width="600" alt="無家可歸者手持滑板標語影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5604)**
+
+**作者:** [William McDonald](https://x.com/w_a_mcdonald) | **來源:** [Link](https://x.com/w_a_mcdonald/status/2061546138386170120) | **發布時間:** Jun 1, 2026
+
+---
+### NASCAR 變形金剛機器人合成
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個複雜的排版提示詞，用於將多張圖片組合成一個具有 NASCAR 元素的英雄級變形金剛機器人。
+
+#### 📝 提示詞
+
+```
+現在的科技真是令人驚嘆
+
+將這 4 張圖片組合成一張全螢幕影像，創造出一個強大且具英雄氣概的變形金剛機器人。將 NASCAR 改裝賽車流線型的紅、白、藍車身，以及美國國旗和海盜骷髏貼紙，融合進機器人的裝甲底盤、車輪中……
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a724f4fda4f01ef99b6e4a7d9f335e9/thumbnails/thumbnail.jpg" width="600" alt="NASCAR 變形金剛機器人合成">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5606)**
+
+**作者:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **來源:** [Link](https://x.com/PhilipC34457079/status/2061531075097010679) | **發布時間:** Jun 1, 2026
+
+---
+### 機器人 Grok 與 GIF 的退休典禮
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一份詳細的影片敘事提示詞，描述機器人 Grok 在人群中向 GIF 角色贈送退休禮物的場景。
+
+#### 📝 提示詞
+
+```
+GIF 即將退休。現場聚集了一大群仰慕者，牆上裝飾著歡慶退休的標語，機器人 Grok 走上前，將一份禮物遞給 Giffy。GIF 打開禮物，裡面是一支手錶。GIF 微笑著說謝謝，Grok 也回以一個充滿關懷的微笑。☺️
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/81fa6aa9c9d18fb3f7946f17b117cdde/thumbnails/thumbnail.jpg" width="600" alt="機器人 Grok 與 GIF 的退休典禮">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5597)**
+
+**作者:** [Joe Pelayo](https://x.com/JoeHeadhunter) | **來源:** [Link](https://x.com/JoeHeadhunter/status/2061494348861055177) | **發布時間:** Jun 1, 2026
+
+---
+### 時空旅行少女降臨
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段電影感十足的影片提示詞，描述一名少女在 2026 年走出測地線時光機的場景。
+
+#### 📝 提示詞
+
+```
+一名混血時空旅行少女剛剛著陸，她走出測地線時光機，環顧四周，發現現在是 2026 年
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/692a89a93ec70330bd1b6103a3710c12/thumbnails/thumbnail.jpg" width="600" alt="時空旅行少女降臨">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5603)**
+
+**作者:** [Make Britain Great Again](https://x.com/DragonFlam7530) | **來源:** [Link](https://x.com/DragonFlam7530/status/2061485523634368997) | **發布時間:** Jun 1, 2026
+
+---
+### Q 版動漫英雄與機器人飛行
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個關於 Q 版動漫女孩與她的機器人夥伴披著英雄斗篷在天空中飛行的動態影片提示詞。
+
+#### 📝 提示詞
+
+```
+一位可愛的 Q 版動漫女孩，留著金色、紫色與粉色漸層的飄逸長髮，披著英雄般的紅色斗篷，與身旁同樣披著配套英雄斗篷的小巧可愛機器人夥伴，充滿活力地在天空中飛行。他們正一同高空翱翔...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/21271aca2e9178c647ed1c6d2ce42299/thumbnails/thumbnail.jpg" width="600" alt="Q 版動漫英雄與機器人飛行">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5605)**
+
+**作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **來源:** [Link](https://x.com/clemensilverio/status/2061471795023069195) | **發布時間:** Jun 1, 2026
+
+---
+### 夢幻般的電梯場景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個極簡主義藝術電影提示詞，描述電梯穿過光影與迷霧，緩緩升入白色虛無之中。
+
+#### 📝 提示詞
+
+```
+固定鏡頭拍攝舊電梯門關閉的瞬間；電梯牆壁消失，取而代之的是開闊的天空與漂浮的雲朵；電梯在光影與迷霧中緩緩上升；電梯門開啟，展現出一片白色虛無。極簡主義，夢幻般的藝術電影風格。音效：微弱的纜繩運轉聲。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f3b8cbbd21ac7e492932d508924c1c8d/thumbnails/thumbnail.jpg" width="600" alt="夢幻般的電梯場景">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5600)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **來源:** [Link](https://x.com/MrDasOnX/status/2061450489112506714) | **發布時間:** Jun 1, 2026
+
+---
+### Modern Warfare 動作預告片 JSON
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一份結構化的高細節 JSON 提示詞，專為 10 秒鐘的高強度戰爭電影預告片所設計，其中包含精確的鏡頭時間點與運鏡方式。
+
+#### 📝 提示詞
+
+```
+{
+  "duration": "10 秒",
+  "style": "極致震撼、高強度的寫實戰爭動作預告片。節奏緊湊，場面宏大，爆炸不斷，戰鬥激烈，視覺特效極具衝擊力，運鏡風格電影化且充滿侵略性。",
+  "aspect_ratio": "16:9",
+  "timeline": [
+    {
+      "time": "0-1.8s",
+      "description": "身穿戰術裝備的士兵在混亂的戰火街道中全速奔跑，身後伴隨著密集的槍火與爆炸。鏡頭以極快的速度環繞拍攝，帶有強烈的動態模糊與鏡頭光暈，幾乎難以跟上動作節奏。",
+      "transition": "高能量跟拍鏡頭切入混亂現場"
+    },
+    {
+      "time": "1.8-3.6s",
+      "description": "士兵身旁發生巨大爆炸。鏡頭劇烈晃動，穿過飛濺的碎片、火焰與衝擊波。背景中多處連環爆炸接連發生，粒子特效營造出極致的混亂感。",
+      "transition": "伴隨鏡頭劇烈晃動的爆炸穿透效果"
+    },
+    {
+      "time": "3.6-5.5s",
+      "description": "極具侵略性的慢動作子彈時間。士兵飛身躍起並回擊，子彈從身旁呼嘯而過。鏡頭以高速環繞士兵旋轉。陣亡士兵的數位殘影在激烈的交火中閃爍。",
+      "transition": "快速環繞慢動作與高速鏡頭旋轉"
+    },
+    {
+      "time": "5.5-7.3s",
+      "description": "鏡頭快速上升，展現出宏大且殘酷的戰場全貌。坦克開火、步兵近身肉搏、空襲轟炸，巨大的火球照亮天空。紅色的全息圖層在畫面中激烈閃爍。",
+      "transition": "快速上升揭示戰場規模與爆炸場景"
+    },
+    {
+      "time": "7.3-9s",
+      "description": "鏡頭直衝回戰鬥核心。極致特寫捕捉士兵在猛烈火力下裝填彈藥並開火的瞬間。強烈的紅色調，火花、槍口焰與餘燼向鏡頭飛濺。全息 UI 介面瘋狂更新。",
+      "transition": "極具侵略性的俯衝變焦至近身戰鬥"
+    },
+    {
+      "time": "9-10s",
+      "description": "最後以廣角鏡頭拉開，呈現整個戰區的混亂全景。多處巨大爆炸、曳光彈四射、車輛燃燒。標題「Modern Warfare 4」伴隨著強大的衝擊波與飛濺碎片效果重擊登場。",
+      "transition": "史詩級混亂擴展揭示，帶來最大視覺衝擊"
+    }
+  ],
+  "camera_notes": "運鏡極具動態感與侵略性。包含快速環繞、爆炸時的劇烈晃動、快速上升/俯衝運動以及高速跟拍。節奏緊湊且令人屏息，同時保持電影級質感。",
+  "vfx_notes": "極致視覺奇觀：連環爆炸、重型碎片、衝擊波、子彈曳光、槍口焰、燃燒車輛、大規模火球、數位殘影士兵、具侵略性的全息 UI，以及向鏡頭飛濺的火花與餘燼。"
+}
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1e178293220cf4fb008e2a2d35b82529/thumbnails/thumbnail.jpg" width="600" alt="Modern Warfare 動作預告片 JSON">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5602)**
+
+**作者:** [AI enthusiast, YT AIAcademy 인공지능아카데미,](https://x.com/AIAcademykorea) | **來源:** [Link](https://x.com/AIAcademykorea/status/2061395464696799568) | **發布時間:** Jun 1, 2026
+
+---
+### 波爾圖天際線上的藍月
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個電影級的影片提示詞，旨在呈現波爾圖標誌性天際線上藍月升起的逼真景象，包含杜羅河的倒影與細膩的建築細節。
+
+#### 📝 提示詞
+
+```
+一張逼真的照片，描繪了黃昏時分，一輪藍月升起並進入波爾圖天際線的上方。巨大的藍色滿月在克萊瑞科塔或里貝拉區屋頂後方升起，溫暖的城市燈光在下方開始閃爍，杜羅河倒映著這幅景象，戲劇性的雲層，電影般的氛圍，超細膩的建築與月球表面，8K 寫實畫質。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/da69e255182eab954dc72fcc5d32a50f/thumbnails/thumbnail.jpg" width="600" alt="波爾圖天際線上的藍月">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5595)**
+
+**作者:** [erna](https://x.com/ernDju) | **來源:** [Link](https://x.com/ernDju/status/2061333728673087894) | **發布時間:** Jun 1, 2026
+
+---
+### 月光下的芭蕾舞者山丘之舞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段優雅的影片提示詞，描繪一位芭蕾舞者在銀河下的山丘上翩翩起舞。
+
+#### 📝 提示詞
+
+```
+在山丘上旋轉的芭蕾舞者，月光照耀的夜晚，銀河星空，閃閃發光的柔綠色舞裙……展現出大自然在夜晚中舞動的姿態
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c048d847b742ff3693aa47f508a80283/thumbnails/thumbnail.jpg" width="600" alt="月光下的芭蕾舞者山丘之舞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5598)**
+
+**作者:** [Akki](https://x.com/whateverakki) | **來源:** [Link](https://x.com/whateverakki/status/2061291723737670139) | **發布時間:** Jun 1, 2026
+
+---
+### Hermes 飛天鞋動畫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個充滿奇思妙想的提示詞，描繪了希臘神祇 Hermes 穿著魔法飛天鞋，並在現代背景下與 Zeus 互動的情景。
+
+#### 📝 提示詞
+
+```
+Hermes 獲得了一雙超高速飛天鞋和一頂酷炫的翅膀帽，讓他飛行的速度比鳥兒還快！他甚至教導 Zeus 如何像普通人一樣穿搭並展開有趣的冒險。現在，這位迅捷的惡作劇之神已經準備好隨時提供協助了！
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/30a83309bc20d3575c8fb77a3a4a6263/thumbnails/thumbnail.jpg" width="600" alt="Hermes 飛天鞋動畫">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5601)**
+
+**作者:** [the don of hockey](https://x.com/don_allain) | **來源:** [Link](https://x.com/don_allain/status/2061256565160595499) | **發布時間:** Jun 1, 2026
+
+---
+### 高級時裝工業風倉庫場景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個精緻的時尚編輯影片提示詞，描繪了一位穿著高級訂製禮服的女性，背景為粗獷的工業倉庫。
+
+#### 📝 提示詞
+
+```
+超寫實的高級時裝編輯場景，一位迷人的女性穿著巨大的高級訂製禮服，置身於廢棄倉庫中，將奢華時尚與原始的工業氛圍完美融合。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/84b1fc7e2161665e2a36130ffd48c3b0/thumbnails/thumbnail.jpg" width="600" alt="高級時裝工業風倉庫場景">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5599)**
+
+**作者:** [Belinda Smith](https://x.com/BelindaSmith88) | **來源:** [Link](https://x.com/BelindaSmith88/status/2061243658716799432) | **發布時間:** Jun 1, 2026
+
+---
 ### 寧靜的日落海灘場景
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1878,238 +2146,6 @@ Realistic 8K cinematic quality / play camera /Volumetric effect /intense shadows
 **作者:** [Arak Dark](https://x.com/orgunus93304) | **來源:** [Link](https://x.com/orgunus93304/status/2057960490744082520) | **發布時間:** May 22, 2026
 
 ---
-### Batman and Joker Yin-Yang Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt featuring Batman and Joker integrated into a complex Yin-Yang architectural symphony.
-
-#### 📝 提示詞
-
-```
-Batman X Joker in the Visual Symphony of the Enhanced Yin - Yang Quartet Architecture
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6b8e7213ef166eb36ddbb0530f13c14b/thumbnails/thumbnail.jpg" width="600" alt="Batman and Joker Yin-Yang Video">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5168)**
-
-**作者:** [Cinema X](https://x.com/Above1988) | **來源:** [Link](https://x.com/Above1988/status/2057955138371784968) | **發布時間:** May 22, 2026
-
----
-### Static Tripod Coastal Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A technical video prompt specifying camera angle, lens feel, and environment details for a coastal scene.
-
-#### 📝 提示詞
-
-```
-SCENE LOCK: static tripod shot locked from the exact same front 3/4 bow angle as all image frames, natural 35mm lens feel, stable geometry and continuity with cracked slipway stones, RNLI boathouse doors, rusted hand winch, shoreline horizon
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8c219c96b0475905f80ded7acddeae9a/thumbnails/thumbnail.jpg" width="600" alt="Static Tripod Coastal Scene">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5157)**
-
-**作者:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **來源:** [Link](https://x.com/gpimpmyspace/status/2057952748587626679) | **發布時間:** May 22, 2026
-
----
-### Modern Luxury Villa Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video of a modern white luxury villa featuring a turquoise pool, wooden terrace, and olive trees, created with Grok Imagine.
-
-#### 📝 提示詞
-
-```
-Modern white luxury villa, turquoise pool, wooden terrace, olive trees and perfect cinematic lighting.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/35f6c111e7ae612a0c937c06af60e2c1/thumbnails/thumbnail.jpg" width="600" alt="Modern Luxury Villa Video">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5170)**
-
-**作者:** [@PaulImagineX](https://x.com/rezaazer819794) | **來源:** [Link](https://x.com/rezaazer819794/status/2057878912160485470) | **發布時間:** May 22, 2026
-
----
-### 1800s Elven Cottage Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video prompt for an 1800s-style scene featuring an elven brunette with wings inside a vine-covered cottage.
-
-#### 📝 提示詞
-
-```
-1800’s elven brunette with wings standing inside a cottage overgrown with vines at a table covered with herbs
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c79d2bf62bf24c942563a12e45a20c69/thumbnails/thumbnail.jpg" width="600" alt="1800s Elven Cottage Scene">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5165)**
-
-**作者:** [✨Alien Queen](https://x.com/MuskWaifu) | **來源:** [Link](https://x.com/MuskWaifu/status/2057878021428621780) | **發布時間:** May 22, 2026
-
----
-### 360 Orbit Harbor Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A technical camera prompt for a smooth 360-degree orbit around an elderly man at a harbor.
-
-#### 📝 提示詞
-
-```
-The camera slowly and smoothly orbits 360 degrees around the elderly man with wrinkled face and clasped hands sitting cross-legged on the wooden pier in the harbor, revealing the full scene with weathered wooden fishing boats, cloudy overcast sky, water ripples.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/23ef596833786532e02eebd197672250/thumbnails/thumbnail.jpg" width="600" alt="360 Orbit Harbor Scene">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5163)**
-
-**作者:** [BMX](https://x.com/bmx_ai13) | **來源:** [Link](https://x.com/bmx_ai13/status/2057826819680952608) | **發布時間:** May 22, 2026
-
----
-### Ganesha Ocean POV Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt for Grok-Imagine depicting the deity Ganesha emerging from the ocean and walking over the viewer with a shaky handheld camera effect.
-
-#### 📝 提示詞
-
-```
-Ganesha walks over the POV person, real life little bit shaky camera, NO BACKGROUND MUSIC NO DIALOGUES.
-```
-
-<img src="https://cms-assets.youmind.com/media/1779524042345_mvrk70_HI7FgYLbcAArhwF.jpg" width="600" alt="Ganesha Ocean POV Video">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5167)**
-
-**作者:** [safalexeai](https://x.com/safal_exe_ai) | **來源:** [Link](https://x.com/safal_exe_ai/status/2057799545048952980) | **發布時間:** May 22, 2026
-
----
-### Talking Woman with Synchronized Subtitles
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A detailed prompt for Grok Imagine to generate a video of a woman speaking naturally with perfectly synchronized and stylized Japanese subtitles.
-
-#### 📝 提示詞
-
-```
-A woman smiling and speaking naturally to the camera. Dialogue: 'Instead of making an AI video right away, it's better to make an image with ChatGPT first!' Display Japanese subtitles fully synchronized with the dialogue. Subtitles should be centered on the screen. Center-aligned. Display clearly with white text and black borders. Thick, easy-to-read font. Subtitles break into 1-2 lines. Size is readable on smartphones. Subtitles are fully synchronized with the speaking timing. Subtitles are not cut off in the middle.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e280e00fc329b99e354ddc9ceb81dc6a/thumbnails/thumbnail.jpg" width="600" alt="Talking Woman with Synchronized Subtitles">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5169)**
-
-**作者:** [読まれるnote画像ナビ【AI副業】](https://x.com/promptdesignjp) | **來源:** [Link](https://x.com/promptdesignjp/status/2057785207500234836) | **發布時間:** May 22, 2026
-
----
-### SpaceX Dragon ISS Docking Zoom
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A technical video prompt for a slow zoom of the SpaceX Dragon capsule docking with the International Space Station.
-
-#### 📝 提示詞
-
-```
-No voice 
-DO NOT CHANGE ANYTHING 
-Slowly zoom in and watch SpaceX Dragon capsule docking with the International Space Station....CRS-34 Docking — Lirathen Voss — 👽🛰️
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e1b9036455d65c067ff6ff729f6ded23/thumbnails/thumbnail.jpg" width="600" alt="SpaceX Dragon ISS Docking Zoom">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5164)**
-
-**作者:** [Alex Patricio](https://x.com/alexpatricio204) | **來源:** [Link](https://x.com/alexpatricio204/status/2057739059062046761) | **發布時間:** May 22, 2026
-
----
-### Alien Anthropologist Data Cube Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed cinematic prompt for an alien character examining a holographic cube in a high-tech lab.
-
-#### 📝 提示詞
-
-```
-No voice 
-
-Ultra-cinematic 5-second vertical video, hyper-realistic 8K, smooth 24fps, dramatic rim lighting. Male alien anthropologist Lirathen Voss (pale bluish-gray textured skin, sharp pointed ears, intense soft turquoise eyes, sleek black and gold armor) examining a holographic data-cube in a dimly lit, high-tech research lab. Dust particles dancing in light beams, shallow depth of field, subtle camera push-in.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/aeb8e3ccaa12176a2577b64025b1e54b/thumbnails/thumbnail.jpg" width="600" alt="Alien Anthropologist Data Cube Video">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5159)**
-
-**作者:** [Alex Patricio](https://x.com/alexpatricio204) | **來源:** [Link](https://x.com/alexpatricio204/status/2057728482205999320) | **發布時間:** May 22, 2026
-
----
-### Samurai vs Ninjas Action Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An action-packed prompt for a samurai fighting ninjas with fast, inhuman speed and whiplash movements.
-
-#### 📝 提示詞
-
-```
-A samurai fights off attacking ninjas. Fast whiplash movements. The ninjas are like quick shadows that dash then attack. The samurai swings wildly, back and forth, with inhuman speed.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/95fddf12f286345be473c7f71821885c/thumbnails/thumbnail.jpg" width="600" alt="Samurai vs Ninjas Action Video">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5160)**
-
-**作者:** [RJ](https://x.com/rjmoonlighter) | **來源:** [Link](https://x.com/rjmoonlighter/status/2057726315231580453) | **發布時間:** May 22, 2026
-
----
-### Rocket Launching to Moon Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Generates a video of a beautifully lit moon in the night sky with a rocket ascending toward it.
-
-#### 📝 提示詞
-
-```
-Generate an image of the moon that is lit up beautifully bright in the night sky and have a rocket shouting up in the sky towards it.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6303746517129c5edf6aa355962676dd/thumbnails/thumbnail.jpg" width="600" alt="Rocket Launching to Moon Video">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5162)**
-
-**作者:** [S Stone](https://x.com/SStone63809012) | **來源:** [Link](https://x.com/SStone63809012/status/2057689360317747445) | **發布時間:** May 22, 2026
-
----
-### Dissolving Spiritual Scientific Body
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An advanced visual effects prompt describing a body blurring into light and revealing a crystal atomic spiritual form.
-
-#### 📝 提示詞
-
-```
-solid body slowly blurs and dissolves as if fading at the speed of light, revealing the true form underneath — a glowing spiritual-scientific body made of beautiful electron clouds and crystal-like glass atomic structure
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/77de9c7bed5f67e6431323c73867e64a/thumbnails/thumbnail.jpg" width="600" alt="Dissolving Spiritual Scientific Body">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5166)**
-
-**作者:** [Chelle](https://x.com/freesawn137) | **來源:** [Link](https://x.com/freesawn137/status/2057671936952393893) | **發布時間:** May 22, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2171,6 +2207,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-06-02T04:55:43.855Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-06-02T12:25:56.242Z</sub>
 
 </div>

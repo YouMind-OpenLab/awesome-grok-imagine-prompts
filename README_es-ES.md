@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1709** |
+| 📝 Total Prompts | **1721** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-02** |
 
@@ -189,6 +189,273 @@ Una valquiria celestial mística y noble, una mujer digna y hermosa con largo ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Gato del Himalaya en cámara lenta
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt sencillo para un movimiento de cámara lento centrado en un gato del Himalaya, enfatizando una relativa quietud.
+
+#### 📝 Prompt
+
+```
+Movimiento de cámara lento, el gato permanece relativamente quieto. Es posible que obtengas un gato del Himalaya azul.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/41110d236908ea133a262ad289e9c9ad/thumbnails/thumbnail.jpg" width="600" alt="Gato del Himalaya en cámara lenta">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5596)**
+
+**Author:** [mikesd333@yahoo.com](https://x.com/mcvee_laser) | **Source:** [Link](https://x.com/mcvee_laser/status/2061555054440747409) | **Published:** Jun 1, 2026
+
+---
+### Video de un hombre sin hogar con un cartel de monopatín
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video centrado en un personaje que sostiene un cartel humorístico dibujado a mano.
+
+#### 📝 Prompt
+
+```
+Crea un video de un hombre de mediana edad, calvo y sin hogar, sosteniendo un cartel dibujado a mano que dice “Skateboard ran out of gas”.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/26bfe0c206deb073288482af04e8f6f9/thumbnails/thumbnail.jpg" width="600" alt="Video de un hombre sin hogar con un cartel de monopatín">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5604)**
+
+**Author:** [William McDonald](https://x.com/w_a_mcdonald) | **Source:** [Link](https://x.com/w_a_mcdonald/status/2061546138386170120) | **Published:** Jun 1, 2026
+
+---
+### Robot Transformer compuesto estilo NASCAR
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de diseño complejo para combinar múltiples imágenes en un solo robot Transformer heroico con elementos de NASCAR.
+
+#### 📝 Prompt
+
+```
+Increíble la tecnología de hoy en día
+
+Combina esas 4 imágenes en una sola imagen a pantalla completa creando un poderoso y heroico robot Transformer. Fusiona la carrocería elegante en rojo, blanco y azul del coche de carreras de NASCAR, junto con las calcomanías de la bandera estadounidense y la calavera pirata, en el chasis blindado, las ruedas...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a724f4fda4f01ef99b6e4a7d9f335e9/thumbnails/thumbnail.jpg" width="600" alt="Robot Transformer compuesto estilo NASCAR">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5606)**
+
+**Author:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **Source:** [Link](https://x.com/PhilipC34457079/status/2061531075097010679) | **Published:** Jun 1, 2026
+
+---
+### Ceremonia de jubilación del robot Grok y GIF
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt narrativo detallado para un video que muestra al robot Grok entregando un regalo de jubilación a un personaje GIF en medio de una multitud.
+
+#### 📝 Prompt
+
+```
+GIF se jubila. Hay una gran multitud de admiradores y carteles de feliz jubilación adornan las paredes; el robot Grok se acerca y le entrega un regalo a Giffy. GIF lo abre. Es un reloj. GIF sonríe y dice gracias. Grok le devuelve una sonrisa cariñosa. ☺️
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/81fa6aa9c9d18fb3f7946f17b117cdde/thumbnails/thumbnail.jpg" width="600" alt="Ceremonia de jubilación del robot Grok y GIF">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5597)**
+
+**Author:** [Joe Pelayo](https://x.com/JoeHeadhunter) | **Source:** [Link](https://x.com/JoeHeadhunter/status/2061494348861055177) | **Published:** Jun 1, 2026
+
+---
+### La llegada de la viajera en el tiempo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video cinematográfico que describe a una chica saliendo de una máquina del tiempo geodésica en el año 2026.
+
+#### 📝 Prompt
+
+```
+Una chica mestiza que viaja en el tiempo acaba de aterrizar y sale de su máquina del tiempo geodésica; mira a su alrededor y ve que el año es 2026
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/692a89a93ec70330bd1b6103a3710c12/thumbnails/thumbnail.jpg" width="600" alt="La llegada de la viajera en el tiempo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5603)**
+
+**Author:** [Make Britain Great Again](https://x.com/DragonFlam7530) | **Source:** [Link](https://x.com/DragonFlam7530/status/2061485523634368997) | **Published:** Jun 1, 2026
+
+---
+### Héroe anime chibi y robot volando
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video dinámico para una chica anime chibi y su compañero robot volando por el cielo con capas de héroe.
+
+#### 📝 Prompt
+
+```
+Una linda chica anime chibi con cabello largo y fluido en tonos rubio, violeta y rosa, usando una heroica capa roja, volando enérgicamente por el cielo junto a un pequeño y adorable compañero robot que también lleva una capa de héroe a juego. Ambos están surcando el cielo...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/21271aca2e9178c647ed1c6d2ce42299/thumbnails/thumbnail.jpg" width="600" alt="Héroe anime chibi y robot volando">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5605)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2061471795023069195) | **Published:** Jun 1, 2026
+
+---
+### Escena de ascensor en un cielo onírico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de cine artístico minimalista para un ascensor que asciende a través de la luz y la niebla hacia un vacío blanco.
+
+#### 📝 Prompt
+
+```
+Cámara fija dentro de un ascensor antiguo mientras las puertas se cierran; en lugar de paredes, el cielo abierto y nubes a la deriva llenan el espacio; el ascensor asciende suavemente a través de la luz y la niebla; las puertas se abren hacia un vacío blanco. Cine artístico minimalista y onírico. Audio: zumbido tenue de cables.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f3b8cbbd21ac7e492932d508924c1c8d/thumbnails/thumbnail.jpg" width="600" alt="Escena de ascensor en un cielo onírico">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5600)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2061450489112506714) | **Published:** Jun 1, 2026
+
+---
+### JSON para tráiler de acción de Modern Warfare
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt estructurado en JSON altamente detallado para un tráiler de película de guerra de alto octanaje de 10 segundos, con tiempos de toma y movimientos de cámara específicos.
+
+#### 📝 Prompt
+
+```
+{
+  "duration": "10 segundos",
+  "style": "Tráiler de acción bélica fotorrealista, ultra intenso y de alto octanaje. Ritmo frenético, explosiones a gran escala, combate implacable, efectos visuales abrumadores, trabajo de cámara cinematográfico pero agresivo",
+  "aspect_ratio": "16:9",
+  "timeline": [
+    {
+      "time": "0-1.8s",
+      "description": "Soldado con equipo táctico corre a toda velocidad por calles caóticas devastadas por la guerra mientras es perseguido por fuego pesado y explosiones. Cámara orbital rápida con desenfoque de movimiento agresivo y destellos de lente, apenas siguiendo el ritmo de la acción.",
+      "transition": "Toma de seguimiento de alta energía hacia el caos"
+    },
+    {
+      "time": "1.8-3.6s",
+      "description": "Una explosión masiva estalla justo al lado del soldado. La cámara se sacude violentamente y atraviesa escombros voladores, fuego y ondas expansivas. Múltiples explosiones secundarias reaccionan en cadena al fondo. Caos de partículas abrumador.",
+      "transition": "Empuje explosivo violento con sacudida de cámara"
+    },
+    {
+      "time": "3.6-5.5s",
+      "description": "Cámara lenta hiperagresiva (bullet time). El soldado se lanza al suelo y devuelve el fuego mientras las balas pasan zumbando. La cámara lo rodea rápidamente a gran velocidad. Ecos fantasmales digitales de soldados caídos parpadean violentamente alrededor del intenso tiroteo.",
+      "transition": "Cámara lenta orbital rápida con giro veloz de cámara"
+    },
+    {
+      "time": "5.5-7.3s",
+      "description": "Toma ascendente explosiva que revela un campo de batalla masivo y brutal. Tanques disparando, infantería en combate cuerpo a cuerpo, ataques aéreos y enormes bolas de fuego iluminando el cielo. Superposiciones holográficas rojas pulsan agresivamente a través del encuadre.",
+      "transition": "Revelación ascendente rápida con explosión a escala de campo de batalla"
+    },
+    {
+      "time": "7.3-9s",
+      "description": "La cámara se sumerge directamente de vuelta al corazón de la batalla. Primer plano extremo del soldado recargando y disparando bajo fuego intenso. Gradación de color rojo intenso, chispas, fogonazos y brasas explotando hacia la cámara. Interfaz holográfica actualizándose frenéticamente.",
+      "transition": "Zoom de inmersión agresivo hacia combate cuerpo a cuerpo"
+    },
+    {
+      "time": "9-10s",
+      "description": "Toma final de alejamiento panorámico explosivo de toda la zona de guerra en caos total. Múltiples explosiones masivas, fuego trazador por todas partes y vehículos en llamas. El título 'Modern Warfare 4' aparece de golpe con una poderosa onda expansiva y efecto de escombros voladores.",
+      "transition": "Revelación épica y caótica de expansión con máximo impacto"
+    }
+  ],
+  "camera_notes": "Trabajo de cámara extremadamente dinámico y agresivo. Órbita rápida, sacudidas violentas durante las explosiones, movimientos ascendentes/descendentes rápidos y seguimiento de alta velocidad. El ritmo se siente implacable y vertiginoso mientras mantiene una calidad cinematográfica.",
+  "vfx_notes": "Espectáculo máximo: explosiones en cadena, escombros pesados, ondas expansivas, trazadoras de balas, fogonazos, vehículos en llamas, bolas de fuego a gran escala, soldados fantasma digitales, interfaz holográfica agresiva, chispas y brasas volando directamente hacia la cámara."
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1e178293220cf4fb008e2a2d35b82529/thumbnails/thumbnail.jpg" width="600" alt="JSON para tráiler de acción de Modern Warfare">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5602)**
+
+**Author:** [AI enthusiast, YT AIAcademy 인공지능아카데미,](https://x.com/AIAcademykorea) | **Source:** [Link](https://x.com/AIAcademykorea/status/2061395464696799568) | **Published:** Jun 1, 2026
+
+---
+### Luna azul sobre el horizonte de Oporto
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video cinematográfico para una luna azul fotorrealista elevándose sobre el icónico horizonte de Oporto, con reflejos en el río Duero y arquitectura detallada.
+
+#### 📝 Prompt
+
+```
+Imagen fotorrealista de una luna azul elevándose y entrando en el cielo sobre el horizonte de Oporto al crepúsculo. La gran luna llena con tonos azules aparece detrás de la Torre de los Clérigos o los tejados del distrito de la Ribeira, con las cálidas luces de la ciudad comenzando a parpadear abajo, el río Duero reflejando la escena, nubes dramáticas, atmósfera cinematográfica, arquitectura y superficie lunar ultradetalladas, fotorrealismo en 8K.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/da69e255182eab954dc72fcc5d32a50f/thumbnails/thumbnail.jpg" width="600" alt="Luna azul sobre el horizonte de Oporto">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5595)**
+
+**Author:** [erna](https://x.com/ernDju) | **Source:** [Link](https://x.com/ernDju/status/2061333728673087894) | **Published:** Jun 1, 2026
+
+---
+### Bailarina bajo la luz de la luna en la colina
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un elegante prompt de video de una bailarina danzando en la cima de una colina bajo la Vía Láctea.
+
+#### 📝 Prompt
+
+```
+Bailarina girando en la cima de una colina, noche iluminada por la luna, franja de la Vía Láctea, vestido verde suave y brillante... representando la danza de la naturaleza en la noche
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c048d847b742ff3693aa47f508a80283/thumbnails/thumbnail.jpg" width="600" alt="Bailarina bajo la luz de la luna en la colina">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5598)**
+
+**Author:** [Akki](https://x.com/whateverakki) | **Source:** [Link](https://x.com/whateverakki/status/2061291723737670139) | **Published:** Jun 1, 2026
+
+---
+### Animación de las sandalias voladoras de Hermes
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt fantástico que representa al dios griego Hermes usando sandalias voladoras mágicas e interactuando con Zeus en un contexto moderno.
+
+#### 📝 Prompt
+
+```
+¡Hermes consigue unas sandalias voladoras superrápidas y un genial sombrero con alas para poder moverse más rápido que los pájaros! Incluso le enseña a Zeus cómo vestirse como una persona normal y vivir aventuras divertidas. ¡Ahora, el veloz embaucador está listo para ayudar en todas partes!
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/30a83309bc20d3575c8fb77a3a4a6263/thumbnails/thumbnail.jpg" width="600" alt="Animación de las sandalias voladoras de Hermes">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5601)**
+
+**Author:** [the don of hockey](https://x.com/don_allain) | **Source:** [Link](https://x.com/don_allain/status/2061256565160595499) | **Published:** Jun 1, 2026
+
+---
+### Escena de almacén industrial de alta costura
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un sofisticado prompt de video editorial de moda que presenta a una mujer con un vestido de alta costura en un entorno de almacén industrial crudo.
+
+#### 📝 Prompt
+
+```
+Escena editorial de alta costura ultrarrealista de una mujer impactante vistiendo un enorme vestido de alta costura dentro de un almacén abandonado, combinando la moda de lujo con una atmósfera industrial cruda.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/84b1fc7e2161665e2a36130ffd48c3b0/thumbnails/thumbnail.jpg" width="600" alt="Escena de almacén industrial de alta costura">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5599)**
+
+**Author:** [Belinda Smith](https://x.com/BelindaSmith88) | **Source:** [Link](https://x.com/BelindaSmith88/status/2061243658716799432) | **Published:** Jun 1, 2026
+
+---
 ### Escena de playa al atardecer
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1878,238 +2145,6 @@ Realistic 8K cinematic quality / play camera /Volumetric effect /intense shadows
 **Author:** [Arak Dark](https://x.com/orgunus93304) | **Source:** [Link](https://x.com/orgunus93304/status/2057960490744082520) | **Published:** May 22, 2026
 
 ---
-### Batman and Joker Yin-Yang Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt featuring Batman and Joker integrated into a complex Yin-Yang architectural symphony.
-
-#### 📝 Prompt
-
-```
-Batman X Joker in the Visual Symphony of the Enhanced Yin - Yang Quartet Architecture
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6b8e7213ef166eb36ddbb0530f13c14b/thumbnails/thumbnail.jpg" width="600" alt="Batman and Joker Yin-Yang Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5168)**
-
-**Author:** [Cinema X](https://x.com/Above1988) | **Source:** [Link](https://x.com/Above1988/status/2057955138371784968) | **Published:** May 22, 2026
-
----
-### Static Tripod Coastal Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A technical video prompt specifying camera angle, lens feel, and environment details for a coastal scene.
-
-#### 📝 Prompt
-
-```
-SCENE LOCK: static tripod shot locked from the exact same front 3/4 bow angle as all image frames, natural 35mm lens feel, stable geometry and continuity with cracked slipway stones, RNLI boathouse doors, rusted hand winch, shoreline horizon
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8c219c96b0475905f80ded7acddeae9a/thumbnails/thumbnail.jpg" width="600" alt="Static Tripod Coastal Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5157)**
-
-**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2057952748587626679) | **Published:** May 22, 2026
-
----
-### Modern Luxury Villa Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video of a modern white luxury villa featuring a turquoise pool, wooden terrace, and olive trees, created with Grok Imagine.
-
-#### 📝 Prompt
-
-```
-Modern white luxury villa, turquoise pool, wooden terrace, olive trees and perfect cinematic lighting.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/35f6c111e7ae612a0c937c06af60e2c1/thumbnails/thumbnail.jpg" width="600" alt="Modern Luxury Villa Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5170)**
-
-**Author:** [@PaulImagineX](https://x.com/rezaazer819794) | **Source:** [Link](https://x.com/rezaazer819794/status/2057878912160485470) | **Published:** May 22, 2026
-
----
-### 1800s Elven Cottage Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video prompt for an 1800s-style scene featuring an elven brunette with wings inside a vine-covered cottage.
-
-#### 📝 Prompt
-
-```
-1800’s elven brunette with wings standing inside a cottage overgrown with vines at a table covered with herbs
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c79d2bf62bf24c942563a12e45a20c69/thumbnails/thumbnail.jpg" width="600" alt="1800s Elven Cottage Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5165)**
-
-**Author:** [✨Alien Queen](https://x.com/MuskWaifu) | **Source:** [Link](https://x.com/MuskWaifu/status/2057878021428621780) | **Published:** May 22, 2026
-
----
-### 360 Orbit Harbor Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A technical camera prompt for a smooth 360-degree orbit around an elderly man at a harbor.
-
-#### 📝 Prompt
-
-```
-The camera slowly and smoothly orbits 360 degrees around the elderly man with wrinkled face and clasped hands sitting cross-legged on the wooden pier in the harbor, revealing the full scene with weathered wooden fishing boats, cloudy overcast sky, water ripples.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/23ef596833786532e02eebd197672250/thumbnails/thumbnail.jpg" width="600" alt="360 Orbit Harbor Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5163)**
-
-**Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2057826819680952608) | **Published:** May 22, 2026
-
----
-### Ganesha Ocean POV Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt for Grok-Imagine depicting the deity Ganesha emerging from the ocean and walking over the viewer with a shaky handheld camera effect.
-
-#### 📝 Prompt
-
-```
-Ganesha walks over the POV person, real life little bit shaky camera, NO BACKGROUND MUSIC NO DIALOGUES.
-```
-
-<img src="https://cms-assets.youmind.com/media/1779524042345_mvrk70_HI7FgYLbcAArhwF.jpg" width="600" alt="Ganesha Ocean POV Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5167)**
-
-**Author:** [safalexeai](https://x.com/safal_exe_ai) | **Source:** [Link](https://x.com/safal_exe_ai/status/2057799545048952980) | **Published:** May 22, 2026
-
----
-### Talking Woman with Synchronized Subtitles
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A detailed prompt for Grok Imagine to generate a video of a woman speaking naturally with perfectly synchronized and stylized Japanese subtitles.
-
-#### 📝 Prompt
-
-```
-A woman smiling and speaking naturally to the camera. Dialogue: 'Instead of making an AI video right away, it's better to make an image with ChatGPT first!' Display Japanese subtitles fully synchronized with the dialogue. Subtitles should be centered on the screen. Center-aligned. Display clearly with white text and black borders. Thick, easy-to-read font. Subtitles break into 1-2 lines. Size is readable on smartphones. Subtitles are fully synchronized with the speaking timing. Subtitles are not cut off in the middle.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e280e00fc329b99e354ddc9ceb81dc6a/thumbnails/thumbnail.jpg" width="600" alt="Talking Woman with Synchronized Subtitles">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5169)**
-
-**Author:** [読まれるnote画像ナビ【AI副業】](https://x.com/promptdesignjp) | **Source:** [Link](https://x.com/promptdesignjp/status/2057785207500234836) | **Published:** May 22, 2026
-
----
-### SpaceX Dragon ISS Docking Zoom
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A technical video prompt for a slow zoom of the SpaceX Dragon capsule docking with the International Space Station.
-
-#### 📝 Prompt
-
-```
-No voice 
-DO NOT CHANGE ANYTHING 
-Slowly zoom in and watch SpaceX Dragon capsule docking with the International Space Station....CRS-34 Docking — Lirathen Voss — 👽🛰️
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e1b9036455d65c067ff6ff729f6ded23/thumbnails/thumbnail.jpg" width="600" alt="SpaceX Dragon ISS Docking Zoom">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5164)**
-
-**Author:** [Alex Patricio](https://x.com/alexpatricio204) | **Source:** [Link](https://x.com/alexpatricio204/status/2057739059062046761) | **Published:** May 22, 2026
-
----
-### Alien Anthropologist Data Cube Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed cinematic prompt for an alien character examining a holographic cube in a high-tech lab.
-
-#### 📝 Prompt
-
-```
-No voice 
-
-Ultra-cinematic 5-second vertical video, hyper-realistic 8K, smooth 24fps, dramatic rim lighting. Male alien anthropologist Lirathen Voss (pale bluish-gray textured skin, sharp pointed ears, intense soft turquoise eyes, sleek black and gold armor) examining a holographic data-cube in a dimly lit, high-tech research lab. Dust particles dancing in light beams, shallow depth of field, subtle camera push-in.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/aeb8e3ccaa12176a2577b64025b1e54b/thumbnails/thumbnail.jpg" width="600" alt="Alien Anthropologist Data Cube Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5159)**
-
-**Author:** [Alex Patricio](https://x.com/alexpatricio204) | **Source:** [Link](https://x.com/alexpatricio204/status/2057728482205999320) | **Published:** May 22, 2026
-
----
-### Samurai vs Ninjas Action Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An action-packed prompt for a samurai fighting ninjas with fast, inhuman speed and whiplash movements.
-
-#### 📝 Prompt
-
-```
-A samurai fights off attacking ninjas. Fast whiplash movements. The ninjas are like quick shadows that dash then attack. The samurai swings wildly, back and forth, with inhuman speed.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/95fddf12f286345be473c7f71821885c/thumbnails/thumbnail.jpg" width="600" alt="Samurai vs Ninjas Action Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5160)**
-
-**Author:** [RJ](https://x.com/rjmoonlighter) | **Source:** [Link](https://x.com/rjmoonlighter/status/2057726315231580453) | **Published:** May 22, 2026
-
----
-### Rocket Launching to Moon Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Generates a video of a beautifully lit moon in the night sky with a rocket ascending toward it.
-
-#### 📝 Prompt
-
-```
-Generate an image of the moon that is lit up beautifully bright in the night sky and have a rocket shouting up in the sky towards it.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6303746517129c5edf6aa355962676dd/thumbnails/thumbnail.jpg" width="600" alt="Rocket Launching to Moon Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5162)**
-
-**Author:** [S Stone](https://x.com/SStone63809012) | **Source:** [Link](https://x.com/SStone63809012/status/2057689360317747445) | **Published:** May 22, 2026
-
----
-### Dissolving Spiritual Scientific Body
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An advanced visual effects prompt describing a body blurring into light and revealing a crystal atomic spiritual form.
-
-#### 📝 Prompt
-
-```
-solid body slowly blurs and dissolves as if fading at the speed of light, revealing the true form underneath — a glowing spiritual-scientific body made of beautiful electron clouds and crystal-like glass atomic structure
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/77de9c7bed5f67e6431323c73867e64a/thumbnails/thumbnail.jpg" width="600" alt="Dissolving Spiritual Scientific Body">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5166)**
-
-**Author:** [Chelle](https://x.com/freesawn137) | **Source:** [Link](https://x.com/freesawn137/status/2057671936952393893) | **Published:** May 22, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2171,6 +2206,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-02T04:55:54.438Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-02T12:26:06.619Z</sub>
 
 </div>
