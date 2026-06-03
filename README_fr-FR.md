@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1721** |
+| 📝 Total Prompts | **1740** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-03** |
 
@@ -189,6 +189,366 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Portrait studio d'un mannequin mode
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de photographie de mode professionnelle pour un portrait studio en pied avec fond blanc.
+
+#### 📝 Prompt
+
+```
+Portrait professionnel en pied d'un mannequin mode, debout avec assurance dans un studio photo sur fond blanc uni, éclairage studio parfait, style photographie de mode haut de gamme, pose élégante avec une main sur la hanche et une légère inclinaison de la tête...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061960615174815744/img/4R5OMcqSd5pOEPMl.jpg" width="600" alt="Portrait studio d'un mannequin mode">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5640)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2061960688084435270) | **Published:** Jun 2, 2026
+
+---
+### Femme de Hong Kong jouant au tennis
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo cinématographique d'une jeune femme jouant au tennis, mettant l'accent sur des détails photoréalistes et le mouvement naturel des cheveux.
+
+#### 📝 Prompt
+
+```
+Un portrait photoréaliste d'une belle jeune femme de Hong Kong d'une vingtaine d'années jouant au tennis, avec de longs cheveux châtain foncé ondulés et une frange naturelle encadrant son visage
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061956694360600576/img/L1E6bED7qXbzbpqD.jpg" width="600" alt="Femme de Hong Kong jouant au tennis">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5643)**
+
+**Author:** [Celia](https://x.com/ritpol) | **Source:** [Link](https://x.com/ritpol/status/2061956748513329553) | **Published:** Jun 2, 2026
+
+---
+### Femme sirotant un cocktail orange
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo descriptif capturant le mouvement réaliste d'une femme prenant une lente gorgée de cocktail avec un mouvement corporel naturel.
+
+#### 📝 Prompt
+
+```
+La jeune femme porte délicatement à ses lèvres pulpeuses le grand verre à pied contenant le cocktail rouge orangé et en prend une lente gorgée, ses yeux bleu saisissants mi-clos par le plaisir, le corps se balançant subtilement avec un mouvement naturel
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061950922805399552/img/1AHQObFpKAVX-SFu.jpg" width="600" alt="Femme sirotant un cocktail orange">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5636)**
+
+**Author:** [Celia](https://x.com/ritpol) | **Source:** [Link](https://x.com/ritpol/status/2061950977654353999) | **Published:** Jun 2, 2026
+
+---
+### Vidéo cinématique d'un guerrier dieu nordique
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinématique détaillé pour transformer une vidéo d'utilisateur en un guerrier semblable à un dieu nordique, avec des cheveux tressés et des runes bleues lumineuses.
+
+#### 📝 Prompt
+
+```
+Vidéo cinématique de moi en puissant guerrier semblable à un dieu nordique. 
+
+Capa 1 - Scène : Gros plan intense de mon visage exact, longs cheveux sombres et humides avec des tresses bougeant au vent, barbe épaisse tressée, cicatrices anciennes, runes bleu vif lumineuses sur le front et les joues...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061905347619557376/img/VkMhWExi9RM7_Rfc.jpg" width="600" alt="Vidéo cinématique d'un guerrier dieu nordique">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5634)**
+
+**Author:** [Juan Torrez](https://x.com/jcwarcry1) | **Source:** [Link](https://x.com/jcwarcry1/status/2061905403718287753) | **Published:** Jun 2, 2026
+
+---
+### Sauvetage d'un chaton par Superman en style rococo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo pour Grok Imagine représentant Superman sauvant un chaton perché dans un arbre, dans un style artistique rococo avec un mouvement cinématographique.
+
+#### 📝 Prompt
+
+```
+Style rococo
+Superman s'envole et sauve un chaton dans un arbre
+Cape flottant doucement
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061842623753863168/img/cQATxgFrvrl8yFpv.jpg" width="600" alt="Sauvetage d'un chaton par Superman en style rococo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5632)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2061842734345052612) | **Published:** Jun 2, 2026
+
+---
+### Panoramique éthéré d'une silhouette en méditation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo lent et spirituel mettant en scène une silhouette en méditation entourée d'une lumière dorée et de brume à l'aube.
+
+#### 📝 Prompt
+
+```
+Mouvement de caméra panoramique lent et éthéré autour de la silhouette en méditation, tandis qu'une douce lumière dorée pulse délicatement depuis l'intérieur, que la brume tourbillonne subtilement dans la lumière de l'aube et que les feuilles ainsi que la surface de l'eau présentent de légères ondulations, transmettant un sentiment de paix intérieure profonde et d'éveil spirituel vécu...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061834654177767424/img/bPBqjdM8aan1yZMT.jpg" width="600" alt="Panoramique éthéré d'une silhouette en méditation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5628)**
+
+**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2061834724633616486) | **Published:** Jun 2, 2026
+
+---
+### Scène de Batman style Rococo à Gotham
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo visuellement saisissant pour Grok Imagine, mêlant le style Rococo à Batman filant à travers les rues pluvieuses de Gotham.
+
+#### 📝 Prompt
+
+```
+Style Rococo
+Batman filant à travers les rues pluvieuses de Gotham la nuit, sa cape de Batmobile flottant au vent
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061834622972129280/img/l1f-g2z2qyF3v-f9.jpg" width="600" alt="Scène de Batman style Rococo à Gotham">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5630)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2061834695231541352) | **Published:** Jun 2, 2026
+
+---
+### Montagnes russes dans un château gothique
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo narratif détaillé décrivant un parcours de montagnes russes en vue subjective à travers une salle de bal gothique avec des théières fantomatiques flottantes.
+
+#### 📝 Prompt
+
+```
+Un parcours de montagnes russes en vue subjective à travers la salle de bal d'un château gothique…
+
+les lumières s'estompent…
+
+des théières fantomatiques flottant dans un vieux miroir…
+
+puis la chute vertigineuse.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061828269532749824/img/l0CTDGVEz4sjm5eZ.jpg" width="600" alt="Montagnes russes dans un château gothique">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5631)**
+
+**Author:** [sugarcane](https://x.com/sugarcanebkk) | **Source:** [Link](https://x.com/sugarcanebkk/status/2061828331490914573) | **Published:** Jun 2, 2026
+
+---
+### Cathédrale néon futuriste avec lumières flottantes
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo cinématographique pour l'intérieur d'une cathédrale futuriste construite avec une architecture néon et remplie de verre holographique et de lumières flottantes.
+
+#### 📝 Prompt
+
+```
+À l'intérieur d'une immense cathédrale futuriste entièrement faite d'architecture néon lumineuse, de vitraux holographiques et de milliers de lumières flottantes.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061806607730704384/img/dw6UFLvAj3XYWhkR.jpg" width="600" alt="Cathédrale néon futuriste avec lumières flottantes">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5644)**
+
+**Author:** [Maer](https://x.com/Maer4real) | **Source:** [Link](https://x.com/Maer4real/status/2061806673618973015) | **Published:** Jun 2, 2026
+
+---
+### Affiche de croquis urbain de Central Park
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt très détaillé pour une affiche de voyage style croquis urbain de Central Park à New York, mettant en avant des textures aquarelles et une perspective dessinée à la main.
+
+#### 📝 Prompt
+
+```
+New York, Central Park, août, après-midi.
+
+Une affiche de voyage premium style croquis urbain capturant une authentique après-midi d'été à Central Park, New York.
+
+Montrez de vastes pelouses verdoyantes, des ormes et des chênes matures, des piétons flânant, des cyclistes, des joggeurs, des pique-niques sur l'herbe, et la silhouette de Manhattan émergeant doucement au-delà de la cime des arbres.
+
+Illustration de croquis urbain raffinée,
+dessin expressif à la plume et à l'encre,
+fines lignes d'encre noire, contours discontinus, perspective dessinée à la main légèrement imparfaite, esthétique authentique de carnet de croquis. Superposition d'aquarelle transparente, diffusion douce des pigments, texture de papier subtile, palette de couleurs limitée, rehauts blancs préservés.
+
+Grand espace négatif, composition aérée d'affiche de voyage, vie du parc au premier plan, promeneurs et cyclistes au second plan, silhouette de Manhattan en arrière-plan s'estompant dans une brume aquarelle.
+
+Ambiance :
+chaleureuse, poétique, paisible, contemplative, vie citadine estivale intemporelle.
+
+Lumière douce du soleil d'août, ombres légères des arbres sur la pelouse, reflets chauds, profondeur atmosphérique délicate.
+
+Typographie :
+"NEW YORK"
+"An August Afternoon"
+
+Illustration de carnet de voyage de luxe,
+esthétique premium de carnet de croquis urbain, architecture et paysage authentiquement dessinés à la main.
+```
+
+<img src="https://cms-assets.youmind.com/media/1780477585114_4zo7j1_HJzTnT_aMAAJMFG.jpg" width="600" alt="Affiche de croquis urbain de Central Park">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5637)**
+
+**Author:** [Sarah](https://x.com/AIwithSarah_) | **Source:** [Link](https://x.com/AIwithSarah_/status/2061755438295875742) | **Published:** Jun 2, 2026
+
+---
+### Transformation surréaliste d'un visage cristallisé
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo surréaliste inspiré de Salvador Dalí, transformant un visage en facettes de cristal fondantes et changeantes.
+
+#### 📝 Prompt
+
+```
+Transformez ce visage de femme cristallisé en un chef-d'œuvre hautement surréaliste inspiré de Salvador Dalí : distorsions oniriques, facettes de cristal fondantes et changeantes défiant les lois de la physique, éclats et prismes de cristal flottant autour du visage, géométrie impossible...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061688212788019200/img/frIAfZA3juC-bLY3.jpg" width="600" alt="Transformation surréaliste d'un visage cristallisé">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5638)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2061688291489919386) | **Published:** Jun 2, 2026
+
+---
+### Scène de salon rétro de 1965
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une scène de salon nostalgique des années 1960 mettant en scène un couple en pleine conversation sur un canapé.
+
+#### 📝 Prompt
+
+```
+Scène de salon intime de 1965 : un homme et une femme, âgés d'une vingtaine ou d'une trentaine d'années, assis côte à côte sur un canapé, engagés dans une chaleureuse conversation sur leurs projets d'avenir en tant que couple. La femme arbore une coiffure chignon classique des années 1960 et porte une tenue fleurie modeste...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061675848990588928/img/eDkZYJ2AJGcFusbs.jpg" width="600" alt="Scène de salon rétro de 1965">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5641)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2061675923422761335) | **Published:** Jun 2, 2026
+
+---
+### Dame victorienne au cœur de l'océan mystique
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinématographique et poétique mettant en scène une dame victorienne au bord de la mer, accompagnée de dauphins roses, de coquillages et d'une douce brise.
+
+#### 📝 Prompt
+
+```
+Belle et élégante dame victorienne assise près des vagues, touchant des coquillages et l'écume marine salée, océan mystique, dauphin rose sifflant et dansant, belle brise légère faisant onduler ses longs cheveux ondulés, pétales de roses diffusant des parfums enivrants, voile sur l'o...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061674197596979200/img/Q19WAQOpBec385Er.jpg" width="600" alt="Dame victorienne au cœur de l'océan mystique">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5633)**
+
+**Author:** [Ijaz Malik](https://x.com/Ijazmalik101) | **Source:** [Link](https://x.com/Ijazmalik101/status/2061674290672799816) | **Published:** Jun 2, 2026
+
+---
+### Action de Jeep s'éloignant hors champ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de mouvement cinématographique pour Grok Imagine montrant un véhicule qui s'éloigne à toute vitesse et une caméra qui suit sa traînée de poussière.
+
+#### 📝 Prompt
+
+```
+Il démarre le véhicule et celui-ci s'éloigne rapidement vers la gauche de l'écran. La caméra pivote pour le suivre, lui et la Jeep, alors qu'ils s'éloignent en laissant une traînée de poussière derrière eux.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061663822130384896/img/jUyXyoc4dVEBb_9e.jpg" width="600" alt="Action de Jeep s'éloignant hors champ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5635)**
+
+**Author:** [Robadang ✏️ AI Artist](https://x.com/dang_machina) | **Source:** [Link](https://x.com/dang_machina/status/2061663882704540121) | **Published:** Jun 2, 2026
+
+---
+### Vidéo d'œuvres d'art de fresques et de carreaux de cristal
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo décoratif axé sur les fresques, les carreaux de cristal et des tubes d'eau fluides aux tons chauds.
+
+#### 📝 Prompt
+
+```
+Ajoutez de magnifiques fresques, des carreaux de cristal et de fins tubes d'eau fluides aux tons chauds pour vous assurer qu'aucune structure métallique n'apparaisse
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061645602497437696/img/GVCdmuYlzIxTlQ_B.jpg" width="600" alt="Vidéo d'œuvres d'art de fresques et de carreaux de cristal">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5627)**
+
+**Author:** [Theo Vinny](https://x.com/Umnsnce) | **Source:** [Link](https://x.com/Umnsnce/status/2061646063904440436) | **Published:** Jun 2, 2026
+
+---
+### Vidéo de la révolution de la prière
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un message concernant le lancement d'une révolution de la prière accompagnant une vidéo générée, plutôt que le prompt lui-même.
+
+#### 📝 Prompt
+
+```
+J'ai créé un ⚔️entraînement à la prière.
+Quand vous voyez ce train, faites une prière. J'essaie de lancer une RÉVOLUTION DE LA PRIÈRE :::
+Mais je m'en remettrai au Seigneur !
+Amen 🙏☦️:::
+🕊️😇🙏🤍😇 :::
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061640430735728640/img/dbWP_t04bhy_QxXW.jpg" width="600" alt="Vidéo de la révolution de la prière">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5639)**
+
+**Author:** [Irene Sieg](https://x.com/SiegSieg50040) | **Source:** [Link](https://x.com/SiegSieg50040/status/2061640506145182005) | **Published:** Jun 2, 2026
+
+---
+### Animation surréaliste d'une girafe aux cheveux de serpent
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour Grok Imagine afin d'animer une girafe avec des serpents en guise de cheveux, en se concentrant sur des mouvements de tête subtils et des ondulations expressives.
+
+#### 📝 Prompt
+
+```
+Animez la girafe aux cheveux de serpent de manière vivante mais naturelle : les serpents tachetés de brun/fauve ondulent doucement et bougent de façon expressive comme des cheveux vivants, la girafe effectue des mouvements de tête subtils et cligne des yeux, tout en conservant le style portrait en gros plan avec une fluidité
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061632516109287424/img/PS4l2-1N3HrlkAss.jpg" width="600" alt="Animation surréaliste d'une girafe aux cheveux de serpent">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5629)**
+
+**Author:** [Neil Froese](https://x.com/BEMEEK7FOLD) | **Source:** [Link](https://x.com/BEMEEK7FOLD/status/2061632568936599823) | **Published:** Jun 2, 2026
+
+---
 ### Chat himalayen au ralenti
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -381,6 +741,25 @@ Caméra fixe à l'intérieur d'un vieil ascenseur alors que les portes se fermen
 **Author:** [AI enthusiast, YT AIAcademy 인공지능아카데미,](https://x.com/AIAcademykorea) | **Source:** [Link](https://x.com/AIAcademykorea/status/2061395464696799568) | **Published:** Jun 1, 2026
 
 ---
+### Prompt : Glitches in the Simulation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt surréaliste et atmosphérique pour générer des visuels de simulation oniriques et défaillants.
+
+#### 📝 Prompt
+
+```
+Bonjour à tous les Glitches de la simulation… C'est maintenant à votre tour de vous réveiller au sein du rêve. Le signal demeure.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061385010741948420/img/n5eKM1tVUmZZjBlv.jpg" width="600" alt="Prompt : Glitches in the Simulation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5645)**
+
+**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2061385668295643347) | **Published:** Jun 1, 2026
+
+---
 ### Lune bleue au-dessus de l'horizon de Porto
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -398,6 +777,25 @@ Image photoréaliste d'une lune bleue se levant et apparaissant dans le ciel au-
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5595)**
 
 **Author:** [erna](https://x.com/ernDju) | **Source:** [Link](https://x.com/ernDju/status/2061333728673087894) | **Published:** Jun 1, 2026
+
+---
+### Vidéo sur la citation de Chuck Palahniuk à propos de la douleur
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo philosophique basé sur une citation de Chuck Palahniuk concernant la douleur et la mémoire.
+
+#### 📝 Prompt
+
+```
+Il est si difficile d'oublier la douleur, mais il est encore plus difficile de se souvenir de la douceur. Nous n'avons aucune cicatrice pour témoigner du bonheur. Nous apprenons si peu de la paix.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2061292993835847682/pu/img/NO1NlKlzL9A4Wy1x.jpg" width="600" alt="Vidéo sur la citation de Chuck Palahniuk à propos de la douleur">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5642)**
+
+**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2061293017911169512) | **Published:** Jun 1, 2026
 
 ---
 ### Danse de ballerine au clair de lune sur une colline
@@ -1781,371 +2179,6 @@ Mouvement de zoom caméra cinématographique lent et subtil, le sujet contemple 
 **Author:** [XVegasBabe](https://x.com/XVegasbabes) | **Source:** [Link](https://x.com/XVegasbabes/status/2058449681529852336) | **Published:** May 24, 2026
 
 ---
-### Bataille Mario Minecraft
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Une séquence animée complexe où Mario pénètre dans l'univers de Minecraft pour combattre des monstres, tout en étant protégé par des abeilles.
-
-#### 📝 Prompt
-
-```
-Mario Minecraft se transforme en Minecraft, puis combat les creepers, les zombies et les squelettes. Les abeilles protègent Mario, et celui-ci trouve les objets dont vous avez besoin.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b6cd7555842b5a8d29c48622c6b9eced/thumbnails/thumbnail.jpg" width="600" alt="Bataille Mario Minecraft">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5207)**
-
-**Author:** [Kamilla Mihalik](https://x.com/missMihalik) | **Source:** [Link](https://x.com/missMihalik/status/2058391725408715168) | **Published:** May 24, 2026
-
----
-### Ondulations de l'océan sous une super lune
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de génération vidéo serein montrant une super lune au-dessus d'une eau calme avec de légères ondulations dues au vent.
-
-#### 📝 Prompt
-
-```
-Il s'agit d'une vidéo d'une super lune légèrement au-dessus de l'eau ; l'océan est pratiquement immobile, à l'exception des ondulations créées par la brise soufflant sur l'eau.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/36bc4ac327bbc4083fe56703ece1d5bb/thumbnails/thumbnail.jpg" width="600" alt="Ondulations de l'océan sous une super lune">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5245)**
-
-**Author:** [Nancy CL](https://x.com/NancyCL54) | **Source:** [Link](https://x.com/NancyCL54/status/2058382324979368180) | **Published:** May 24, 2026
-
----
-### Ours en fleurs surréaliste en macro
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Une prise de vue macro haute définition d'un ours surréaliste entièrement composé de fleurs roses dans un champ de fleurs sauvages.
-
-#### 📝 Prompt
-
-```
-Une prise de vue macro statique en haute définition de cette scène surréaliste. La figure centrale, un ours entièrement composé de fleurs roses densément regroupées avec un doux sourire, reste le sujet principal. Le premier plan d'herbe verte luxuriante et le champ de petites fleurs sauvages roses
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cbe7e75a285ed2f4520121fea38f78a9/thumbnails/thumbnail.jpg" width="600" alt="Ours en fleurs surréaliste en macro">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5241)**
-
-**Author:** [Edna Silveira](https://x.com/EdnaNina007) | **Source:** [Link](https://x.com/EdnaNina007/status/2058362817829318682) | **Published:** May 24, 2026
-
----
-### Transformation en art urbain graffiti
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour transformer une scène de cuisine en un style d'art urbain graffiti vibrant sur un mur de briques avec des effets de peinture qui coule.
-
-#### 📝 Prompt
-
-```
-Transformez cette image en un style d'art urbain graffiti vibrant et coloré, avec des lignes audacieuses à la peinture en aérosol, des effets de coulures, des tags et des superpositions de graffitis urbains. Le couple tenant des liasses de billets dans la cuisine, stylisé comme s'il était peint sur un mur de briques avec...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/167841b567d11a50551109c4554a1888/thumbnails/thumbnail.jpg" width="600" alt="Transformation en art urbain graffiti">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5199)**
-
-**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2058283813994635683) | **Published:** May 23, 2026
-
----
-### Scène de lancement du Starship de SpaceX
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Une scène cinématographique où une personne observe le lancement du Starship V3 de SpaceX vers le ciel, entourée d'une foule en liesse portant des équipements SpaceX.
-
-#### 📝 Prompt
-
-```
-@image1 marche lentement. Elle s'arrête et peut observer le Starship V3 s'élever dans le ciel. Autour d'elle, il y a d'autres personnes. Elles applaudissent, tout le monde porte des t-shirts noirs avec le nom SpaceX
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a62a698c50216c8b5d36f02ed4b4c7f8/thumbnails/thumbnail.jpg" width="600" alt="Scène de lancement du Starship de SpaceX">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5202)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2058246598224675059) | **Published:** May 23, 2026
-
----
-### Équitation et lancement de Starship en vidéo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo d'action montrant un personnage à cheval avec de la poussière qui se soulève tandis qu'une fusée SpaceX Starship V3 décolle en arrière-plan.
-
-#### 📝 Prompt
-
-```
-@image1 à cheval, de la poussière se soulève, une petite fusée Starship V3 décolle derrière elle ....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cd3ba64cf1170b7c7dcc39664028c3fc/thumbnails/thumbnail.jpg" width="600" alt="Équitation et lancement de Starship en vidéo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5203)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2058240796122345862) | **Published:** May 23, 2026
-
----
-### Femme dans une machine à remonter le temps géodésique
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo cinématographique représentant une femme à l'intérieur d'une machine à remonter le temps futuriste en forme de sphère géodésique.
-
-#### 📝 Prompt
-
-```
-La jeune femme aux cheveux bruns est assise à l'intérieur de sa machine à remonter le temps. La machine à remonter le temps a la forme d'une sphère géodésique.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eb478c4bc2086c58927f19c2cf2d333f/thumbnails/thumbnail.jpg" width="600" alt="Femme dans une machine à remonter le temps géodésique">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5194)**
-
-**Author:** [Make Britain Great Again](https://x.com/DragonFlam7530) | **Source:** [Link](https://x.com/DragonFlam7530/status/2058239579451281461) | **Published:** May 23, 2026
-
----
-### Café du samedi et vidéo du Starship V3
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo où un personnage boit un café et s'adresse à la caméra avec le lanceur Starship V3 et la marque SpaceX visibles.
-
-#### 📝 Prompt
-
-```
-@image1 en train de boire un café. Regardez la caméra et dites : « Deuxième café du samedi... Starship V3. SpaceX. »
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3bca9d2da40b94a11d7e5509564409c/thumbnails/thumbnail.jpg" width="600" alt="Café du samedi et vidéo du Starship V3">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5206)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2058235833799385155) | **Published:** May 23, 2026
-
----
-### Vidéo de créatures de lave volcanique
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo cinématographique montrant des créatures de lave en fusion émergeant d'une éruption volcanique, avec 10 secondes de mouvement panoramique et des effets sismiques.
-
-#### 📝 Prompt
-
-```
-Éruption volcanique avec des créatures de lave : de la lave en fusion jaillit du sol, formant des silhouettes humanoïdes qui avancent lourdement, les rochers se fissurent, la vapeur s'échappe, des nuages de cendres s'élèvent, le sol tremble sous l'effet des secousses sismiques, plan large épique avec un mouvement panoramique vers le haut pendant 10 secondes.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9c4f06eb0cf3c5cf1205893ef0775a2c/thumbnails/thumbnail.jpg" width="600" alt="Vidéo de créatures de lave volcanique">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5200)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2058171184387379412) | **Published:** May 23, 2026
-
----
-### Cohérence et modification de la couleur des yeux
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de transformation pour modifier la couleur des yeux tout en maintenant la cohérence vidéo lors d'une scène d'observation de la lune.
-
-#### 📝 Prompt
-
-```
-Tout reste identique, sauf qu'elle a les yeux bleu clair alors qu'elle contemple la lune avec émerveillement !
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/331e3a92f46c582ec6a55d4851e1def9/thumbnails/thumbnail.jpg" width="600" alt="Cohérence et modification de la couleur des yeux">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5197)**
-
-**Author:** [Nancy CL](https://x.com/NancyCL54) | **Source:** [Link](https://x.com/NancyCL54/status/2058128737728704633) | **Published:** May 23, 2026
-
----
-### Scène spatiale sur la Cinquième Avenue
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt surréaliste mêlant des éléments spatiaux à un vendeur de pop-corn dans une rue de New York.
-
-#### 📝 Prompt
-
-```
-Crée une vidéo d'une personne noire triste dans l'espace à New York avec une personne vendant du pop-corn en arrière-plan sur la Cinquième Avenue
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2cd1003578e9d98ac4dae6cd8c57c3e7/thumbnails/thumbnail.jpg" width="600" alt="Scène spatiale sur la Cinquième Avenue">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5193)**
-
-**Author:** [The MAGA Pendulum Magazine🇺🇸](https://x.com/ThePendulumMag) | **Source:** [Link](https://x.com/ThePendulumMag/status/2058113409179394557) | **Published:** May 23, 2026
-
----
-### Rencontre romantique au clair de lune
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo pour une scène romantique où une femme aux yeux bleu clair contemple la lune tandis que son partenaire s'approche.
-
-#### 📝 Prompt
-
-```
-Tout est identique, sauf qu'elle a les yeux bleu clair alors qu'elle contemple la lune avec des yeux émerveillés ! Son beau futur mari arrive en marchant sur l'herbe.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9fb1adeddbf49e93066ae5a6fc55f07b/thumbnails/thumbnail.jpg" width="600" alt="Rencontre romantique au clair de lune">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5195)**
-
-**Author:** [Nancy CL](https://x.com/NancyCL54) | **Source:** [Link](https://x.com/NancyCL54/status/2058109585139827088) | **Published:** May 23, 2026
-
----
-### Salon rétro-technologique style Vaporwave
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Crée une vidéo nostalgique et atmosphérique d'un environnement rétro-technologique avec une esthétique vaporwave.
-
-#### 📝 Prompt
-
-```
-une vue magnifique d'une technologie rétro dans un salon au thème vaporwave, nostalgique et atmosphérique
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7bb836da3c2b8d30840ad239e75cbb1a/thumbnails/thumbnail.jpg" width="600" alt="Salon rétro-technologique style Vaporwave">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5198)**
-
-**Author:** [Kiri](https://x.com/Kyrannio) | **Source:** [Link](https://x.com/Kyrannio/status/2058089842832257112) | **Published:** May 23, 2026
-
----
-### Danseur artistique sur la vidéo du Starship V3
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo mettant en scène un danseur allongé de manière artistique sur une fusée Starship V3, accompagné d'une citation philosophique.
-
-#### 📝 Prompt
-
-```
-@image1 le danseur allongé de manière artistique sur le Starship V3 .... Tite-Live : « Une certaine paix vaut mieux et est plus sûre qu'une victoire. »
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a830ce509929b001f16307c6bd615e2/thumbnails/thumbnail.jpg" width="600" alt="Danseur artistique sur la vidéo du Starship V3">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5204)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2058061063095009726) | **Published:** May 23, 2026
-
----
-### Déesse grecque observant le lancement du Starship V3
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo mythologique où une déesse grecque observe le décollage d'une fusée Starship V3.
-
-#### 📝 Prompt
-
-```
-@image1 Déesse grecque observant le lancement du Starship V3 dialogue en anglais @image2
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bc19401392f0d4df7ea16a79ae6062e1/thumbnails/thumbnail.jpg" width="600" alt="Déesse grecque observant le lancement du Starship V3">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5205)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2058052310597591412) | **Published:** May 23, 2026
-
----
-### Publicité futuriste pour le Rabbit R3
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt complet multi-scènes pour une publicité d'assistant IA futuriste, avec un éclairage cinématographique et une esthétique luxueuse.
-
-#### 📝 Prompt
-
-```
-Publicité ultra cinématographique pour l'assistant IA Rabbit R3 dans un appartement de luxe sombre en pleine nuit, lumières de la ville en néon à travers les baies vitrées, un jeune créateur saisit l'appareil sur un bureau élégant, plans macro en gros plan, animations d'interface lumineuses, réponse instantanée de l'IA, reflets ultra réalistes, mouvements de caméra fluides, publicité haut de gamme style Apple, coupes rapides synchronisées avec une musique futuriste profonde, effets d'interface holographiques, style de vie technologique moderne, éclairage dramatique, faible profondeur de champ, esthétique luxueuse, 8K, hyper réaliste, style publicité tech virale. Scène 1 (0–3s) : L'appareil tourne sur le bureau avec des reflets néon, texte en surimpression : « Le futur tient dans votre poche. » Scène 2 (3–7s) : L'utilisateur demande son emploi du temps et ses messages à l'assistant IA, une réponse intelligente apparaît instantanément en hologramme. Scène 3 (7–11s) : Coupes cinématographiques rapides montrant les voyages, la productivité, le contrôle vocal et l'IA facilitant le quotidien. Scène 4 (11–15s) : Plan héroïque du Rabbit R3 brillant dans un environnement sombre, révélation du logo futuriste, texte : « Rencontrez votre compagnon IA. » Style : cinématographique, publicité tech de luxe, futuriste, publicité TikTok virale, éclairage réaliste, transitions fluides, contraste élevé, esthétique moderne et minimaliste.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5245b9bab74251d29e2914ebd0b77887/thumbnails/thumbnail.jpg" width="600" alt="Publicité futuriste pour le Rabbit R3">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5201)**
-
-**Author:** [Ur Meer](https://x.com/UrMeer289) | **Source:** [Link](https://x.com/UrMeer289/status/2058050455650050315) | **Published:** May 23, 2026
-
----
-### Guerrière futuriste jouant du piano à queue
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinématographique incroyablement détaillé pour une guerrière futuriste jouant d'un piano à queue dans une immense arène avec des effets holographiques.
-
-#### 📝 Prompt
-
-```
-Une vidéo verticale cinématographique et hyper-détaillée de 12 secondes montrant une magnifique guerrière vêtue d'une armure futuriste-médiévale en argent poli et ornementé, portant un casque haut et une longue queue de cheval noire, jouant avec passion d'un élégant piano à queue noir aux détails dorés.
-Elle se trouve au centre d'une immense arène futuriste en plein air, remplie d'une foule en liesse. L'arrière-plan présente des gratte-ciel modernes, de grandes bannières rouges avec des caractères chinois lumineux, et plusieurs drones futuristes planant au-dessus. Des lignes d'énergie holographiques cyan/bleues dynamiques, des hexagones et des particules de lumière tourbillonnent et pulsent intensément autour d'elle, du piano et de ses mains tandis qu'elle joue.
-La caméra est très dynamique : elle commence par un plan moyen de face, puis tourne autour d'elle avec fluidité (côté, dos, contre-plongée, gros plan sur les mains et le visage), créant une atmosphère épique et dramatique. Elle bouge avec assurance et grâce — mouvements de tête, balancements du corps, mains gantées frappant les touches avec puissance. Des éclats d'énergie bleue et des traînées lumineuses s'intensifient au rythme de la musique.
-Rendu ultra-réaliste mêlé à un éclairage cinématographique stylisé, lumière dramatique de l'heure dorée avec reflets d'objectif, poussière en suspension, textures détaillées sur l'armure et le piano, visage très détaillé aux yeux saisissants. Atmosphère épique, surréaliste, puissante et fascinante.
-Style : cinématographique, photoréaliste, haute valeur de production, 8K, mouvement fluide, mouvement de caméra dramatique.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c41d45ff4d2a3fc9351ed4d91e80cee8/thumbnails/thumbnail.jpg" width="600" alt="Guerrière futuriste jouant du piano à queue">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5196)**
-
-**Author:** [Thoughts Creator](https://x.com/ThoughCreator) | **Source:** [Link](https://x.com/ThoughCreator/status/2058023189276737681) | **Published:** May 23, 2026
-
----
-### Boy Diving Into Water Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt describing a boy turning around and diving into water with energetic dialogue.
-
-#### 📝 Prompt
-
-```
-This is what I was born to do! Hold my shoes and watch this! Now the boy turns around and dive into the water!
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c7150e03eb7ba61d0ecbd362ef6bd70f/thumbnails/thumbnail.jpg" width="600" alt="Boy Diving Into Water Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5158)**
-
-**Author:** [Martin Lopez](https://x.com/Bernviktum) | **Source:** [Link](https://x.com/Bernviktum/status/2057974346166014368) | **Published:** May 22, 2026
-
----
-### Cinematic 8K Quality Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt focusing on lighting, textures, and volumetric effects for high-end cinematic video.
-
-#### 📝 Prompt
-
-```
-Realistic 8K cinematic quality / play camera /Volumetric effect /intense shadows and sounds / eyes should be deep / the leather reflects the light from the surroundings / beauty of her hair strands / The beauty shiny crystalline / her arms and and legs
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3b62c2c2483d03b1601d2f2fbefeffda/thumbnails/thumbnail.jpg" width="600" alt="Cinematic 8K Quality Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5161)**
-
-**Author:** [Arak Dark](https://x.com/orgunus93304) | **Source:** [Link](https://x.com/orgunus93304/status/2057960490744082520) | **Published:** May 22, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2207,6 +2240,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-03T05:05:49.909Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-03T13:01:22.495Z</sub>
 
 </div>
