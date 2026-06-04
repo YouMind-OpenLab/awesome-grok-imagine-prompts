@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1740** |
+| 📝 Total Prompts | **1746** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-04** |
 
@@ -189,6 +189,121 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Barok Tarzında Dramatik Dönüşüm
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Barok tarzında dramatik bir video dönüşümü oluşturmak için; tiyatral ışıklandırmaya ve süslü detaylara odaklanan ayrıntılı bir komut.
+
+#### 📝 Prompt
+
+```
+Barok tarzı, yoğun duygu, tiyatral ışık, süslü ihtişam, Ayna, ayna...
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2062322815571800064/pu/img/e2qZXMIDNbccuXuT.jpg" width="600" alt="Barok Tarzında Dramatik Dönüşüm">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5676)**
+
+**Author:** [Tina ✨](https://x.com/Tina22_2) | **Source:** [Link](https://x.com/Tina22_2/status/2062322843833036921) | **Published:** Jun 3, 2026
+
+---
+### Ethereal Neo-Soul Orman Dansı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sisli bir ormanda dijital kıvılcımlarla çevrili, parlayan boynuzlara sahip bir kadının dansını konu alan sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Hafif parlayan geyik boynuzlarına sahip zarif Siyahi Amerikalı kadın, sisli alacakaranlık ormanında yalınayak dans ediyor, gümüş dijital kod kıvılcımları romantik bir şekilde etrafında örülüyor, sıcak pastel ışıltı, neo-soul albüm kapağı, sinematik yumuşak odak, kare format
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062211726016413699/img/WLzHj1kfFzCzOfi3.jpg" width="600" alt="Ethereal Neo-Soul Orman Dansı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5671)**
+
+**Author:** [Alyssa Nicole Art](https://x.com/alyssanicoleart) | **Source:** [Link](https://x.com/alyssanicoleart/status/2062211781116985709) | **Published:** Jun 3, 2026
+
+---
+### Alevlerle Şeytani Dönüşüm
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Alevli gözlere ve tehditkar bir kahkahaya sahip bir şeytana dönüşümü betimleyen dramatik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Yeni şeytana dönüştüğünde ne olduğuna dair bir resim aldım. Ve "ya bedavaya çalışırsın ya da ölürsün" diye bağırdı. Gözlerinden alevler fışkırarak şeytani bir kahkaha atıyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062153020251529216/img/du8i_dfaHujGJZ1O.jpg" width="600" alt="Alevlerle Şeytani Dönüşüm">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5674)**
+
+**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2062153074374766919) | **Published:** Jun 3, 2026
+
+---
+### Monterey Bay Aquarium Neon Balık Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Monterey Bay Aquarium'daki derin deniz sergisinde neon balıkları izleyen karakterleri gösteren bir video istemi.
+
+#### 📝 Prompt
+
+```
+Monterey Bay Aquarium'da derin deniz sergisindeki neon balıkları izleyen LilX ve Scouts
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062118186640924672/img/yY4e2lNXOkqnRojh.jpg" width="600" alt="Monterey Bay Aquarium Neon Balık Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5675)**
+
+**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2062118252386631705) | **Published:** Jun 3, 2026
+
+---
+### Uzay İzcileri ve Deniz Aslanları Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mavi gökyüzü ve okyanus sesleri eşliğinde, kıyıdaki bir deniz aslanı yuvasına tepeden bakan Uzay İzcilerini konu alan sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Deniz aslanı yuvasına tepeden bakan patikadaki Uzay İzcileri, patikada koşan tavşan anne ve yavrusu, üzerlerinden uçan kuşlar, güzel bir gün, mavi gökyüzü ve huzurlu okyanus sesleri
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062117007097839616/img/YerpIf-C72647kUD.jpg" width="600" alt="Uzay İzcileri ve Deniz Aslanları Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5673)**
+
+**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2062117104061644940) | **Published:** Jun 3, 2026
+
+---
+### Deniz Kızı ve Zorba Balığın İş Birliği
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir deniz kızı ile zorba bir balığın, balıkçının ağından kurtulmak için iş birliği yapmak zorunda kaldığı bir video sahnesi için anlatı istemi.
+
+#### 📝 Prompt
+
+```
+Tümü
+Zorba balık ve deniz kızı bir balıkçının ağına takılır; özgür kalabilmek için birbirlerine karşı nazik olmaları, arkadaş olmaları ve birlikte çalışmaları gerekir.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062073885353242624/img/6g8Cujaq11hK4q8R.jpg" width="600" alt="Deniz Kızı ve Zorba Balığın İş Birliği">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5672)**
+
+**Author:** [Liz](https://x.com/LSage11977725) | **Source:** [Link](https://x.com/LSage11977725/status/2062074055876911125) | **Published:** Jun 3, 2026
+
+---
 ### Moda Modeli Stüdyo Portresi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2061,123 +2176,6 @@ Kalabalık bir gece kulübünde geçen sinematik bir ağır çekim video. Kamera
 **Author:** [Katherine Martin](https://x.com/KatherineM40071) | **Source:** [Link](https://x.com/KatherineM40071/status/2058651866909585535) | **Published:** May 24, 2026
 
 ---
-### Kimlik Kilitli Görselden Videoya
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine'in referans görselden video oluşturma sürecinde mutlak yüz kimliğini koruması ve biçim bozulmasını (morphing) önlemesi için teknik bir talimat.
-
-#### 📝 Prompt
-
-```
-Görselden Videoya: Referans görseli birincil kimlik karesi olarak kullanın. Yüz kimliğini tüm sekans boyunca mutlak öncelikle kilitleyin. Yüz kimliği önceliği, hareket önceliğinden üstündür. Biçim bozulması, yüz kayması veya herhangi bir yeniden yorumlama kesinlikle olmamalıdır.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d345d7b12220a2a1ebd4f166c9340089/thumbnails/thumbnail.jpg" width="600" alt="Kimlik Kilitli Görselden Videoya">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5240)**
-
-**Author:** [Juan Torrez](https://x.com/jcwarcry1) | **Source:** [Link](https://x.com/jcwarcry1/status/2058639654530715699) | **Published:** May 24, 2026
-
----
-### Sinematik Altın Saat Bahçe Yürüyüşü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Altın saat esnasında güneş ışığı alan bir çiçek bahçesinde yürüyen bir kadını gerçekçi dokularla betimleyen, yüksek kaliteli sinematik bir istem.
-
-#### 📝 Prompt
-
-```
-Ultra gerçekçi sinematik video, 30fps, fotogerçekçi 8K. Uzun dalgalı koyu renk saçlı, 20'li yaşlarının ortasında güzel bir genç kadın; üzerinde hafif beyaz bir yazlık elbise ve hasır şapka ile altın saat esnasında güneş ışığı alan yemyeşil bir ev bahçesinde yalınayak yürüyor. Yaprakların arasından süzülen yumuşak ve sıcak güneş ışığı doğal bir bokeh etkisi yaratıyor. Güller, papatyalar ve lavantalarla dolu canlı bir çiçek tarhına yaklaşırken nazikçe gülümsüyor. Orta mesafeden onu takip eden akıcı bir takip çekimi. Doğal ve hafif rüzgar saçlarını ve elbisesini hareket ettiriyor. Yüksek detaylı cilt dokusu, gerçekçi kumaş hareketi ve yaprakların üzerindeki çiy damlalarıyla otantik bir bahçe ortamı. Işıklandırmada ve karakter görünümünde kusursuz devamlılık.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/62a5e3340fd6a96cd4aa79db0b754cbf/thumbnails/thumbnail.jpg" width="600" alt="Sinematik Altın Saat Bahçe Yürüyüşü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5250)**
-
-**Author:** [Shivam](https://x.com/QuantumPitstop) | **Source:** [Link](https://x.com/QuantumPitstop/status/2058600445799747703) | **Published:** May 24, 2026
-
----
-### Siber Kâhin Meditasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Meditasyon sırasında titreşimler yayan bir siber kâhin için video oluşturma istemi.
-
-#### 📝 Prompt
-
-```
-Bana meditasyon yapan ve tüm vücudundan 6hz'lik bir titreşim yayan siber kâhini göster. Tezahür ediyor ❤️🕺
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/74696e95cf542ccab3a2fed8bb2b8e8e/thumbnails/thumbnail.jpg" width="600" alt="Siber Kâhin Meditasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5246)**
-
-**Author:** [Cyber Prophet](https://x.com/MOONVance) | **Source:** [Link](https://x.com/MOONVance/status/2058555858930311552) | **Published:** May 24, 2026
-
----
-### Işığın Önünde Diz Çöken Robot
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> İncil temalarından esinlenen, bir ışık varlığının önünde diz çöken bir robotu konu alan bir video animasyon istemi.
-
-#### 📝 Prompt
-
-```
-Daha fazlasını oluştur Robot ayakta duruyor ve ardından ışık varlığının önünde diz çöküyor .... Dıştan dindarlık görünümünde olup, bunun gücünü inkâr edenler... Böylesi kişilerden uzak dur. 2. Timoteos 3:5
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d2b94d6cbe9d3ab7c3d3841c47c25b6c/thumbnails/thumbnail.jpg" width="600" alt="Işığın Önünde Diz Çöken Robot">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5247)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2058515952812110217) | **Published:** May 24, 2026
-
----
-### Gelişen Mars Kolonisi Afela
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kubbe altında, Cybertruck'lar, Optimus robotlar ve Starship'ler içeren fütüristik bir Mars şehri için inanılmaz derecede detaylı bir istem.
-
-#### 📝 Prompt
-
-```
-Devasa, kristal netliğinde bir kubbenin altında gelişen bir Mars kolonisinin canlı ve ultra gerçekçi bir resmi. Mars rüzgarının sesi, gezegenin tozlu kahverengi arazisinde yankılanıyor. Afela adlı kubbeli şehrin içinde, çeşitli görevleri yerine getiren erkekler ve kadınlar görülüyor. Çelik yolları süsleyen renkli, fütüristik küçük dükkanlar dikkat çekiyor. Güneşin ısısıyla parıldayan büyük yüksek binalar, tasarımları ve güzellikleriyle sanatsal nöbetçiler gibi öne çıkıyor. Çeşitli renklerdeki Tesla Cybertruck'lar birçok yolda ilerliyor. Tesla Optimus robotlar, bahçecilik, bitki yetiştirme veya sadece bir grup çocukla oynama gibi çeşitli görevleri yerine getirerek insanların arasında yürüyor. Kubbeli şehrin dışında, Starship'lerin her gün iniş kalkış yaptığı çeşitli fırlatma rampaları bulunuyor. Şehir, güneşin ışığıyla parlak bir şekilde parlıyor.
-
-Altın saat arkadan aydınlatma, yavaş dolly-in, whip pan hareketleri, sola doğru kamera hareketi, atmosferik alan derinliği, hacimsel aydınlatma, paralaks efekti, parlama efekti, çapraz geçiş, yüksek çözünürlük, yerel ses üretimi, --ar16:9,
-Diyalog yok, metin yok. "Star Trek" macerası
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60516030fda1a22544a41a3f10906249/thumbnails/thumbnail.jpg" width="600" alt="Gelişen Mars Kolonisi Afela">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5244)**
-
-**Author:** [Kim Maria](https://x.com/KimMari46054539) | **Source:** [Link](https://x.com/KimMari46054539/status/2058501592060448889) | **Published:** May 24, 2026
-
----
-### Sinematik Kozmos Yakınlaştırması
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kozmosa bakan bir özneye doğru yavaş ve incelikli bir sinematik kamera yakınlaştırması için video oluşturma istemi.
-
-#### 📝 Prompt
-
-```
-Yavaş ve incelikli sinematik kamera yakınlaştırma hareketi, özne kozmosu izliyor. İlham verici...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06e6075a98a93995fa25d3c304646e15/thumbnails/thumbnail.jpg" width="600" alt="Sinematik Kozmos Yakınlaştırması">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5248)**
-
-**Author:** [XVegasBabe](https://x.com/XVegasbabes) | **Source:** [Link](https://x.com/XVegasbabes/status/2058449681529852336) | **Published:** May 24, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2239,6 +2237,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-04T04:58:56.519Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-04T11:34:47.563Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1740** |
+| 📝 Total Prompts | **1746** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-04** |
 
@@ -189,6 +189,121 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Biến đổi đầy kịch tính theo phong cách Baroque
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh chi tiết để tạo ra video biến đổi đầy kịch tính theo phong cách Baroque, tập trung vào ánh sáng sân khấu và các chi tiết trang trí công phu.
+
+#### 📝 Prompt
+
+```
+Phong cách Baroque, cảm xúc mãnh liệt, ánh sáng sân khấu, sự tráng lệ công phu, Gương kia ngự ở trên tường...
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2062322815571800064/pu/img/e2qZXMIDNbccuXuT.jpg" width="600" alt="Biến đổi đầy kịch tính theo phong cách Baroque">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5676)**
+
+**Author:** [Tina ✨](https://x.com/Tina22_2) | **Source:** [Link](https://x.com/Tina22_2/status/2062322843833036921) | **Published:** Jun 3, 2026
+
+---
+### Vũ điệu rừng xanh Neo-Soul huyền ảo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video đậm chất điện ảnh với hình ảnh người phụ nữ có cặp gạc phát sáng đang nhảy múa trong khu rừng sương mù, bao quanh bởi những tia sáng kỹ thuật số.
+
+#### 📝 Prompt
+
+```
+Người phụ nữ Mỹ gốc Phi duyên dáng với cặp gạc hươu phát sáng tinh tế, nhảy múa chân trần trong khu rừng mờ sương lúc chạng vạng, những tia sáng mã kỹ thuật số màu bạc đan xen lãng mạn xung quanh cô, ánh sáng màu pastel ấm áp, bìa album neo-soul, lấy nét mềm kiểu điện ảnh, định dạng vuông
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062211726016413699/img/WLzHj1kfFzCzOfi3.jpg" width="600" alt="Vũ điệu rừng xanh Neo-Soul huyền ảo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5671)**
+
+**Author:** [Alyssa Nicole Art](https://x.com/alyssanicoleart) | **Source:** [Link](https://x.com/alyssanicoleart/status/2062211781116985709) | **Published:** Jun 3, 2026
+
+---
+### Biến hình thành ác quỷ với ngọn lửa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video đầy kịch tính mô tả cảnh biến hình thành ác quỷ với đôi mắt rực lửa và điệu cười đe dọa.
+
+#### 📝 Prompt
+
+```
+Tôi đã có một bức ảnh về những gì xảy ra khi biến thành ác quỷ. Và hét lên “ngươi sẽ làm việc không công hoặc phải chết”. Nó cười một điệu cười quỷ quyệt với những ngọn lửa bắn ra từ nhãn cầu.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062153020251529216/img/du8i_dfaHujGJZ1O.jpg" width="600" alt="Biến hình thành ác quỷ với ngọn lửa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5674)**
+
+**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2062153074374766919) | **Published:** Jun 3, 2026
+
+---
+### Video cá neon tại Thủy cung Monterey Bay
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video mô tả các nhân vật đang ngắm nhìn những chú cá neon tại khu trưng bày đại dương sâu thẳm ở Thủy cung Monterey Bay.
+
+#### 📝 Prompt
+
+```
+LilX và Scouts tại Thủy cung Monterey Bay đang ngắm nhìn những chú cá neon từ khu trưng bày đại dương sâu thẳm
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062118186640924672/img/yY4e2lNXOkqnRojh.jpg" width="600" alt="Video cá neon tại Thủy cung Monterey Bay">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5675)**
+
+**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2062118252386631705) | **Published:** Jun 3, 2026
+
+---
+### Video về các Hướng đạo sinh Vũ trụ và Sư tử biển
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video gợi ý mang tính điện ảnh về các Hướng đạo sinh Vũ trụ đang quan sát khu vực nuôi dưỡng sư tử biển bên bờ biển với bầu trời xanh và âm thanh đại dương.
+
+#### 📝 Prompt
+
+```
+Các Hướng đạo sinh Vũ trụ trên đường mòn nhìn xuống khu vực nuôi dưỡng sư tử biển, mẹ con thỏ rừng chạy băng qua đường mòn và chim chóc bay lượn, một ngày tuyệt đẹp với bầu trời xanh cùng âm thanh đại dương yên bình
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062117007097839616/img/YerpIf-C72647kUD.jpg" width="600" alt="Video về các Hướng đạo sinh Vũ trụ và Sư tử biển">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5673)**
+
+**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2062117104061644940) | **Published:** Jun 3, 2026
+
+---
+### Sự hợp tác giữa Nàng tiên cá và Cá bắt nạt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tường thuật cho cảnh quay video, nơi nàng tiên cá và một chú cá hay bắt nạt buộc phải hợp tác để thoát khỏi lưới của ngư dân.
+
+#### 📝 Prompt
+
+```
+Tất cả
+Nàng tiên cá và chú cá hay bắt nạt bị mắc kẹt trong lưới của ngư dân, họ phải đối xử tử tế, kết bạn và cùng nhau hợp tác để thoát thân
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062073885353242624/img/6g8Cujaq11hK4q8R.jpg" width="600" alt="Sự hợp tác giữa Nàng tiên cá và Cá bắt nạt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5672)**
+
+**Author:** [Liz](https://x.com/LSage11977725) | **Source:** [Link](https://x.com/LSage11977725/status/2062074055876911125) | **Published:** Jun 3, 2026
+
+---
 ### Ảnh chân dung người mẫu thời trang tại studio
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2062,123 +2177,6 @@ Một video quay chậm mang phong cách điện ảnh tại một hộp đêm �
 **Author:** [Katherine Martin](https://x.com/KatherineM40071) | **Source:** [Link](https://x.com/KatherineM40071/status/2058651866909585535) | **Published:** May 24, 2026
 
 ---
-### Khóa nhận diện cho tính năng Image to Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Hướng dẫn kỹ thuật dành cho Grok Imagine nhằm duy trì tuyệt đối nhận diện khuôn mặt và ngăn chặn hiện tượng biến dạng trong quá trình tạo video từ ảnh tham chiếu.
-
-#### 📝 Prompt
-
-```
-Image-to-Video: Sử dụng ảnh tham chiếu làm khung hình nhận diện chính. Khóa nhận diện khuôn mặt xuyên suốt toàn bộ chuỗi hình ảnh với mức ưu tiên tuyệt đối. Ưu tiên nhận diện khuôn mặt hơn chuyển động. Không được phép xảy ra hiện tượng biến dạng, lệch khuôn mặt hay bất kỳ sự diễn giải lại nào.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d345d7b12220a2a1ebd4f166c9340089/thumbnails/thumbnail.jpg" width="600" alt="Khóa nhận diện cho tính năng Image to Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5240)**
-
-**Author:** [Juan Torrez](https://x.com/jcwarcry1) | **Source:** [Link](https://x.com/jcwarcry1/status/2058639654530715699) | **Published:** May 24, 2026
-
----
-### Dạo bước trong vườn giờ vàng đậm chất điện ảnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) tạo video điện ảnh chất lượng cao về một người phụ nữ đang đi dạo trong vườn hoa ngập nắng vào giờ vàng với các kết cấu chân thực.
-
-#### 📝 Prompt
-
-```
-Video điện ảnh siêu thực, 30fps, độ phân giải 8K chân thực như ảnh chụp. Một người phụ nữ trẻ xinh đẹp khoảng 20 tuổi với mái tóc dài gợn sóng, mặc váy mùa hè màu trắng nhẹ nhàng và đội mũ rơm, đang đi chân trần vào một khu vườn xanh mát ngập nắng trong giờ vàng. Ánh nắng ấm áp dịu nhẹ xuyên qua tán lá tạo hiệu ứng bokeh tự nhiên. Cô mỉm cười dịu dàng khi tiến lại gần luống hoa rực rỡ với hoa hồng, hoa cúc và hoa oải hương. Cú máy tracking mượt mà theo chân cô từ khoảng cách trung bình. Gió nhẹ tự nhiên làm lay động mái tóc và tà váy. Kết cấu da chi tiết cao, chuyển động vải chân thực và khung cảnh khu vườn sống động với những giọt sương trên lá. Sự đồng nhất hoàn hảo về ánh sáng và ngoại hình nhân vật.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/62a5e3340fd6a96cd4aa79db0b754cbf/thumbnails/thumbnail.jpg" width="600" alt="Dạo bước trong vườn giờ vàng đậm chất điện ảnh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5250)**
-
-**Author:** [Shivam](https://x.com/QuantumPitstop) | **Source:** [Link](https://x.com/QuantumPitstop/status/2058600445799747703) | **Published:** May 24, 2026
-
----
-### Thiền định Cyber Prophet
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video về một nhà tiên tri mạng đang phát ra các rung động trong khi thiền định.
-
-#### 📝 Prompt
-
-```
-Hãy cho tôi thấy nhà tiên tri mạng đang thiền định và phát ra rung động 6hz từ khắp cơ thể. Đang hiện thực hóa ❤️🕺
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/74696e95cf542ccab3a2fed8bb2b8e8e/thumbnails/thumbnail.jpg" width="600" alt="Thiền định Cyber Prophet">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5246)**
-
-**Author:** [Cyber Prophet](https://x.com/MOONVance) | **Source:** [Link](https://x.com/MOONVance/status/2058555858930311552) | **Published:** May 24, 2026
-
----
-### Robot quỳ gối trước thực thể ánh sáng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video hoạt hình về một robot đang quỳ gối trước một thực thể ánh sáng, lấy cảm hứng từ các chủ đề trong Kinh Thánh.
-
-#### 📝 Prompt
-
-```
-Tạo thêm chỉnh sửa robot đang đứng rồi quỳ gối trước thực thể ánh sáng .... Bề ngoài giữ vẻ tin kính nhưng chối bỏ quyền năng của tin kính đó... hãy tránh xa những người như thế. 2 Ti-mô-thê 3:5
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d2b94d6cbe9d3ab7c3d3841c47c25b6c/thumbnails/thumbnail.jpg" width="600" alt="Robot quỳ gối trước thực thể ánh sáng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5247)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2058515952812110217) | **Published:** May 24, 2026
-
----
-### Thuộc địa Sao Hỏa thịnh vượng Afela
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) cực kỳ chi tiết về một thành phố tương lai trên Sao Hỏa dưới mái vòm, với sự xuất hiện của Cybertruck, robot Optimus và Starship.
-
-#### 📝 Prompt
-
-```
-Một bức ảnh siêu thực sống động về một thuộc địa Sao Hỏa thịnh vượng nằm dưới một mái vòm pha lê khổng lồ trong suốt. Tiếng gió Sao Hỏa vang vọng khắp địa hình màu nâu đầy bụi bặm của hành tinh. Bên trong thành phố mái vòm mang tên Afela, có thể thấy đàn ông và phụ nữ đang thực hiện nhiều công việc khác nhau. Những cửa hàng nhỏ mang phong cách tương lai nằm rải rác dọc theo các con đường thép đầy màu sắc. Những tòa nhà cao tầng lấp lánh dưới sức nóng của Mặt Trời nổi bật như những người lính canh đầy tính nghệ thuật về thiết kế và vẻ đẹp. Những chiếc Tesla Cybertruck với nhiều màu sắc khác nhau chạy trên các con đường. Robot Tesla Optimus đi lại giữa con người, thực hiện nhiều nhiệm vụ từ làm vườn, trồng trọt cho đến việc chơi đùa cùng trẻ nhỏ. Bên ngoài thành phố mái vòm là các bệ phóng nơi Starship hạ cánh và cất cánh hàng ngày. Thành phố tỏa sáng rực rỡ dưới ánh sáng Mặt Trời.
-
-Ánh sáng ngược giờ vàng, hiệu ứng slow dolly-in, chuyển cảnh whip pan, máy quay di chuyển sang trái, độ sâu trường ảnh (depth of field) đầy tính điện ảnh, ánh sáng thể tích (volumetric lighting), hiệu ứng parallax, hiệu ứng phát sáng, chuyển cảnh cross fade, độ phân giải cao, tạo âm thanh gốc, --ar16:9,
-Không lời thoại, không văn bản. Phiêu lưu kiểu " Star Trek "
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60516030fda1a22544a41a3f10906249/thumbnails/thumbnail.jpg" width="600" alt="Thuộc địa Sao Hỏa thịnh vượng Afela">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5244)**
-
-**Author:** [Kim Maria](https://x.com/KimMari46054539) | **Source:** [Link](https://x.com/KimMari46054539/status/2058501592060448889) | **Published:** May 24, 2026
-
----
-### Hiệu ứng thu phóng vũ trụ điện ảnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video cho chuyển động thu phóng camera điện ảnh chậm, tinh tế hướng về phía chủ thể đang ngắm nhìn vũ trụ.
-
-#### 📝 Prompt
-
-```
-Chuyển động thu phóng camera điện ảnh chậm và tinh tế, chủ thể đang ngắm nhìn vũ trụ đầy cảm hứng....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06e6075a98a93995fa25d3c304646e15/thumbnails/thumbnail.jpg" width="600" alt="Hiệu ứng thu phóng vũ trụ điện ảnh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5248)**
-
-**Author:** [XVegasBabe](https://x.com/XVegasbabes) | **Source:** [Link](https://x.com/XVegasbabes/status/2058449681529852336) | **Published:** May 24, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2240,6 +2238,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-04T04:58:44.977Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-04T11:34:36.510Z</sub>
 
 </div>

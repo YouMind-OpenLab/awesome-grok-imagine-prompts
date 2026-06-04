@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1740** |
+| 📝 Total Prompts | **1746** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-04** |
 
@@ -189,6 +189,122 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Baroque Style Dramatic Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a dramatic video transformation in the Baroque style, focusing on theatrical light and ornate details.
+
+#### 📝 Prompt
+
+```
+Baroque style, intense emotion, theatrical light, ornate grandeur, Mirror, mirror...
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2062322815571800064/pu/img/e2qZXMIDNbccuXuT.jpg" width="600" alt="Baroque Style Dramatic Transformation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5676)**
+
+**Author:** [Tina ✨](https://x.com/Tina22_2) | **Source:** [Link](https://x.com/Tina22_2/status/2062322843833036921) | **Published:** Jun 3, 2026
+
+---
+### Ethereal Neo-Soul Forest Dance
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt featuring a woman with glowing antlers dancing in a misty forest surrounded by digital sparks.
+
+#### 📝 Prompt
+
+```
+Graceful Black American woman with subtle glowing deer antlers, barefoot dancing in misty twilight forest, silver digital code sparks weaving romantically around her, warm pastel glow, neo-soul album cover, cinematic soft focus, square format
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062211726016413699/img/WLzHj1kfFzCzOfi3.jpg" width="600" alt="Ethereal Neo-Soul Forest Dance">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5671)**
+
+**Author:** [Alyssa Nicole Art](https://x.com/alyssanicoleart) | **Source:** [Link](https://x.com/alyssanicoleart/status/2062211781116985709) | **Published:** Jun 3, 2026
+
+---
+### Devilish Transformation with Flames
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A dramatic video prompt depicting a transformation into a devil with flaming eyes and a menacing laugh.
+
+#### 📝 Prompt
+
+```
+I got a picture of the new what happens when turns into the devil. And shouted  “ you will work for free or die”. It laughs a devilish laugh with flames shooting from his eyeballs.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062153020251529216/img/du8i_dfaHujGJZ1O.jpg" width="600" alt="Devilish Transformation with Flames">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5674)**
+
+**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2062153074374766919) | **Published:** Jun 3, 2026
+
+---
+### Monterey Bay Aquarium Neon Fish Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt showing characters watching neon fish in the deep ocean exhibit at the Monterey Bay Aquarium.
+
+#### 📝 Prompt
+
+```
+Monterey Bay Aquarium LilX and Scouts watching neon fish from deep ocean exhibit
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062118186640924672/img/yY4e2lNXOkqnRojh.jpg" width="600" alt="Monterey Bay Aquarium Neon Fish Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5675)**
+
+**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2062118252386631705) | **Published:** Jun 3, 2026
+
+---
+### Space Scouts and Sea Lions Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt of Space Scouts overlooking a sea lion nursery at the coast with blue skies and ocean sounds.
+
+#### 📝 Prompt
+
+```
+Space Scouts on the trail overlooking sea lion nursery Jack rabbit mom and baby run across the trail and birds fly over beautiful day blue skies peaceful ocean sounds
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062117007097839616/img/YerpIf-C72647kUD.jpg" width="600" alt="Space Scouts and Sea Lions Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5673)**
+
+**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2062117104061644940) | **Published:** Jun 3, 2026
+
+---
+### Mermaid and Bully Fish Cooperation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A narrative prompt for a video scene where a mermaid and a bully fish are forced to cooperate to escape a fisherman's net.
+
+#### 📝 Prompt
+
+```
+All
+The bully fish and th mermaid get stuck in a fisherman’s net and they have to be kind and make
+Friends and work together to get free
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062073885353242624/img/6g8Cujaq11hK4q8R.jpg" width="600" alt="Mermaid and Bully Fish Cooperation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5672)**
+
+**Author:** [Liz](https://x.com/LSage11977725) | **Source:** [Link](https://x.com/LSage11977725/status/2062074055876911125) | **Published:** Jun 3, 2026
+
+---
 ### Fashion Model Studio Portrait
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2061,123 +2177,6 @@ A cinematic slow-motion video in a packed nightclub. Camera holds a medium close
 **Author:** [Katherine Martin](https://x.com/KatherineM40071) | **Source:** [Link](https://x.com/KatherineM40071/status/2058651866909585535) | **Published:** May 24, 2026
 
 ---
-### Identity Locked Image to Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A technical instruction for Grok Imagine to maintain absolute facial identity and prevent morphing during video generation from a reference image.
-
-#### 📝 Prompt
-
-```
-Image-to-Video: Use the reference image as primary identity frame. Lock the facial identity across the entire sequence with absolute priority. Face identity priority over motion. No morphing, no face drift, no reinterpretation whatsoever.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d345d7b12220a2a1ebd4f166c9340089/thumbnails/thumbnail.jpg" width="600" alt="Identity Locked Image to Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5240)**
-
-**Author:** [Juan Torrez](https://x.com/jcwarcry1) | **Source:** [Link](https://x.com/jcwarcry1/status/2058639654530715699) | **Published:** May 24, 2026
-
----
-### Cinematic Golden Hour Garden Walk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A high-quality cinematic prompt for a woman walking through a sunlit flower garden during the golden hour with realistic textures.
-
-#### 📝 Prompt
-
-```
-Ultra-realistic cinematic video, 30fps, photorealistic 8K. A beautiful young woman in her mid-20s with long wavy dark hair, wearing a light white sundress and straw hat, walks barefoot into a lush, sunlit home garden during golden hour. Soft warm sunlight filters through leaves creating natural bokeh. She smiles gently as she approaches a vibrant flower bed filled with roses, daisies, and lavender. Smooth tracking shot follows her from medium distance. Natural gentle wind moves her hair and dress. Highly detailed skin texture, realistic fabric movement, and authentic garden environment with dew drops on leaves. Perfect continuity in lighting and character appearance.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/62a5e3340fd6a96cd4aa79db0b754cbf/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Golden Hour Garden Walk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5250)**
-
-**Author:** [Shivam](https://x.com/QuantumPitstop) | **Source:** [Link](https://x.com/QuantumPitstop/status/2058600445799747703) | **Published:** May 24, 2026
-
----
-### Cyber Prophet Meditation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video generation prompt for a cyber prophet emitting vibrations during meditation.
-
-#### 📝 Prompt
-
-```
-Show my the cyber prophet meditating and emitting a 6htz vibration from his whole body. Manifesting ❤️🕺
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/74696e95cf542ccab3a2fed8bb2b8e8e/thumbnails/thumbnail.jpg" width="600" alt="Cyber Prophet Meditation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5246)**
-
-**Author:** [Cyber Prophet](https://x.com/MOONVance) | **Source:** [Link](https://x.com/MOONVance/status/2058555858930311552) | **Published:** May 24, 2026
-
----
-### Robot Kneeling Before Light
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video animation prompt featuring a robot kneeling before a light being, inspired by biblical themes.
-
-#### 📝 Prompt
-
-```
-Generate more Edit robot is standing then kneels before light being .... Having a form of godliness but denying the power thereof ..from such turn away . 2 Timothy 3:5
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d2b94d6cbe9d3ab7c3d3841c47c25b6c/thumbnails/thumbnail.jpg" width="600" alt="Robot Kneeling Before Light">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5247)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2058515952812110217) | **Published:** May 24, 2026
-
----
-### Thriving Martian Colony Afela
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An incredibly detailed prompt for a futuristic Martian city under a dome featuring Cybertrucks, Optimus robots, and Starships.
-
-#### 📝 Prompt
-
-```
-A vivid ultra realistic picture of a thriving Martian colony underneath a gigantic crystal clear dome. The sound of the Martian wind can be heard echoing across the planets dusty brown terrain. Inside the domed City, named Afela, men and women can be seen conducting a variety of tasks. Futuristic little shops dot the steel roads abounding in color. Large high rise buildings gleaming from the heat of the Sun stand out like artistic Sentinels in design and beauty. Tesla Cybertrucks in a variety of colors drive through the many roads. Tesla Optimus robots walk among the humans carrying out a variety of tasks whether it be gardening, growing vegetation or simply playing with a handful of children. Outside of the domed city there are various launch pads where Starships land and take off in flight daily. The city gleams brilliantly from the light of the sun.
-
-Golden hour backlight, slow dolly-in, whip pan movements, camera moves to the left, atmospheric depth of field, volumetric lighting, parallax effect, glow effect, cross fade, high resolution, native audio generation, --ar16:9,
-No dialogue, no text. " Star Trek " adventure
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60516030fda1a22544a41a3f10906249/thumbnails/thumbnail.jpg" width="600" alt="Thriving Martian Colony Afela">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5244)**
-
-**Author:** [Kim Maria](https://x.com/KimMari46054539) | **Source:** [Link](https://x.com/KimMari46054539/status/2058501592060448889) | **Published:** May 24, 2026
-
----
-### Cinematic Cosmos Zoom In
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video generation prompt for a slow, subtle cinematic camera zoom toward a subject gazing at the cosmos.
-
-#### 📝 Prompt
-
-```
-Slow subtle cinematic camera zooming in movement, subject  is watching the cosmos Inspirational....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06e6075a98a93995fa25d3c304646e15/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Cosmos Zoom In">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5248)**
-
-**Author:** [XVegasBabe](https://x.com/XVegasbabes) | **Source:** [Link](https://x.com/XVegasbabes/status/2058449681529852336) | **Published:** May 24, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2239,6 +2238,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-04T04:58:37.536Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-04T11:34:27.815Z</sub>
 
 </div>

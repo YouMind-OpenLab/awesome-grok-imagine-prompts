@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **1740** |
+| 📝 プロンプト総数 | **1746** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-06-04** |
 
@@ -189,6 +189,121 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### バロック様式のドラマチックな変身
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> バロック様式のドラマチックな動画生成のための詳細なプロンプトです。演劇的な光の演出と華麗なディテールに焦点を当てています。
+
+#### 📝 プロンプト
+
+```
+バロック様式、強烈な感情、演劇的な光、華麗な壮大さ、鏡よ、鏡...
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2062322815571800064/pu/img/e2qZXMIDNbccuXuT.jpg" width="600" alt="バロック様式のドラマチックな変身">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5676)**
+
+**作者:** [Tina ✨](https://x.com/Tina22_2) | **ソース:** [Link](https://x.com/Tina22_2/status/2062322843833036921) | **公開日:** Jun 3, 2026
+
+---
+### 幻想的なネオソウル・フォレスト・ダンス
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 霧深い森の中で、光る角を生やした女性がデジタルな火花に囲まれて踊る様子を描いたシネマティックな動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+優雅な黒人女性、かすかに光る鹿の角、霧が立ち込める夕暮れの森で裸足で踊る姿、銀色のデジタルコードの火花がロマンチックに彼女の周囲を織りなす、温かみのあるパステルカラーの輝き、ネオソウルのアルバムジャケット風、シネマティックなソフトフォーカス、スクエアフォーマット
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062211726016413699/img/WLzHj1kfFzCzOfi3.jpg" width="600" alt="幻想的なネオソウル・フォレスト・ダンス">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5671)**
+
+**作者:** [Alyssa Nicole Art](https://x.com/alyssanicoleart) | **ソース:** [Link](https://x.com/alyssanicoleart/status/2062211781116985709) | **公開日:** Jun 3, 2026
+
+---
+### 炎を纏った悪魔への変身
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 燃え盛る瞳と邪悪な笑い声を上げながら悪魔へと変貌する様子を描いた、ドラマチックな動画生成用プロンプト。
+
+#### 📝 プロンプト
+
+```
+新しいキャラクターが悪魔に変身する様子を画像にしました。そして「無料で働くか、死ぬかだ」と叫びます。目から炎を噴き出しながら、悪魔のように高笑いする様子です。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062153020251529216/img/du8i_dfaHujGJZ1O.jpg" width="600" alt="炎を纏った悪魔への変身">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5674)**
+
+**作者:** [the_light](https://x.com/the_light35) | **ソース:** [Link](https://x.com/the_light35/status/2062153074374766919) | **公開日:** Jun 3, 2026
+
+---
+### モントレーベイ水族館のネオンフィッシュ動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> モントレーベイ水族館の深海展示で、キャラクターたちがネオンフィッシュを眺めている様子を描いた動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+モントレーベイ水族館の深海展示でネオンフィッシュを眺める LilX と Scouts
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062118186640924672/img/yY4e2lNXOkqnRojh.jpg" width="600" alt="モントレーベイ水族館のネオンフィッシュ動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5675)**
+
+**作者:** [Jean](https://x.com/SpaceScoutsIntl) | **ソース:** [Link](https://x.com/SpaceScoutsIntl/status/2062118252386631705) | **公開日:** Jun 3, 2026
+
+---
+### Space Scouts と Sea Lions の動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 青い空と海の音が響く海岸沿いのトドの繁殖地を見下ろす、Space Scouts のシネマティックな動画プロンプトです。
+
+#### 📝 プロンプト
+
+```
+トドの繁殖地を見下ろすトレイルにいる Space Scouts 。ウサギの親子がトレイルを横切り、鳥たちが空を舞う。青い空が広がる美しい日、穏やかな海の音。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062117007097839616/img/YerpIf-C72647kUD.jpg" width="600" alt="Space Scouts と Sea Lions の動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5673)**
+
+**作者:** [Jean](https://x.com/SpaceScoutsIntl) | **ソース:** [Link](https://x.com/SpaceScoutsIntl/status/2062117104061644940) | **公開日:** Jun 3, 2026
+
+---
+### 人魚と意地悪な魚の協力
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 人魚と意地悪な魚が、漁師の網から脱出するために協力せざるを得なくなるというビデオシーン向けのナラティブプロンプト。
+
+#### 📝 プロンプト
+
+```
+すべて
+意地悪な魚と人魚が漁師の網に捕まってしまい、2 人は親切心を持って友達になり、協力して脱出しなければならない。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062073885353242624/img/6g8Cujaq11hK4q8R.jpg" width="600" alt="人魚と意地悪な魚の協力">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5672)**
+
+**作者:** [Liz](https://x.com/LSage11977725) | **ソース:** [Link](https://x.com/LSage11977725/status/2062074055876911125) | **公開日:** Jun 3, 2026
+
+---
 ### ファッションモデルのスタジオポートレート
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2062,123 +2177,6 @@ Teenage Mutant Ninja Turtles のキャラクターが「最悪だ、ピザがも
 **作者:** [Katherine Martin](https://x.com/KatherineM40071) | **ソース:** [Link](https://x.com/KatherineM40071/status/2058651866909585535) | **公開日:** May 24, 2026
 
 ---
-### Identity Locked Image to Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine を使用して、参照画像から動画を生成する際に、顔の同一性を完全に維持し、モーフィングを防ぐための技術的な指示。
-
-#### 📝 プロンプト
-
-```
-Image-to-Video : 参照画像を主要なアイデンティティフレームとして使用すること。シーケンス全体を通して、顔の同一性を最優先で固定してください。動きよりも顔の同一性を優先すること。モーフィング、顔のズレ、いかなる再解釈も一切禁止。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d345d7b12220a2a1ebd4f166c9340089/thumbnails/thumbnail.jpg" width="600" alt="Identity Locked Image to Video">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5240)**
-
-**作者:** [Juan Torrez](https://x.com/jcwarcry1) | **ソース:** [Link](https://x.com/jcwarcry1/status/2058639654530715699) | **公開日:** May 24, 2026
-
----
-### ゴールデンアワーの庭を歩くシネマティックな映像
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ゴールデンアワーの陽光あふれる花畑を歩く女性を、リアルな質感で描く高品質なシネマティックプロンプト。
-
-#### 📝 プロンプト
-
-```
-超リアルなシネマティックビデオ、30fps、フォトリアルな 8K。ロングのウェーブヘアに白いサマードレスと麦わら帽子を身につけた 20 代半ばの美しい女性が、ゴールデンアワーの陽光が降り注ぐ緑豊かな庭を裸足で歩いている。葉の間から差し込む柔らかな温かい光が、自然なボケ味を作り出す。彼女はバラ、デイジー、ラベンダーが咲き誇る花壇に近づき、優しく微笑む。中距離からのスムーズなトラッキングショット。自然で穏やかな風が彼女の髪とドレスを揺らす。非常に詳細な肌の質感、リアルな生地の動き、葉の上の露まで再現された本格的な庭の環境。照明とキャラクターの外見に完璧な連続性がある。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/62a5e3340fd6a96cd4aa79db0b754cbf/thumbnails/thumbnail.jpg" width="600" alt="ゴールデンアワーの庭を歩くシネマティックな映像">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5250)**
-
-**作者:** [Shivam](https://x.com/QuantumPitstop) | **ソース:** [Link](https://x.com/QuantumPitstop/status/2058600445799747703) | **公開日:** May 24, 2026
-
----
-### サイバー預言者の瞑想
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 瞑想中に波動を放つサイバー預言者の動画生成用プロンプト。
-
-#### 📝 プロンプト
-
-```
-瞑想しながら全身から 6Hz の波動を放つサイバー預言者を見せて。具現化する ❤️🕺
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/74696e95cf542ccab3a2fed8bb2b8e8e/thumbnails/thumbnail.jpg" width="600" alt="サイバー預言者の瞑想">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5246)**
-
-**作者:** [Cyber Prophet](https://x.com/MOONVance) | **ソース:** [Link](https://x.com/MOONVance/status/2058555858930311552) | **公開日:** May 24, 2026
-
----
-### 光の前に跪くロボット
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 聖書のテーマにインスパイアされた、光の存在の前に跪くロボットを描いた動画生成用プロンプト。
-
-#### 📝 プロンプト
-
-```
-ロボットが立ち上がり、光の存在の前に跪く様子を生成してください…。敬虔な形をしながら、その実を否定する者たち…このような者たちを避けなさい。テモテへの手紙二 3 章 5 節
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d2b94d6cbe9d3ab7c3d3841c47c25b6c/thumbnails/thumbnail.jpg" width="600" alt="光の前に跪くロボット">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5247)**
-
-**作者:** [Sas](https://x.com/SaSHeaven26) | **ソース:** [Link](https://x.com/SaSHeaven26/status/2058515952812110217) | **公開日:** May 24, 2026
-
----
-### 火星の繁栄するコロニー「Afela」
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ドームに覆われた未来的な火星都市の非常に詳細なプロンプト。Cybertruck、Optimus ロボット、Starship が登場します。
-
-#### 📝 プロンプト
-
-```
-巨大で透明なクリスタルドームの下に広がる、火星の繁栄するコロニーの鮮やかで超リアルな光景。火星の風の音が、惑星の赤茶けた大地に響き渡る。Afela と名付けられたドーム内の都市では、男女がさまざまな作業に従事している。色彩豊かな未来的な小さな店が、鋼鉄の道路沿いに点在している。太陽の熱を反射して輝く高層ビル群が、芸術的な番人のように美しくそびえ立つ。さまざまなカラーの Tesla Cybertruck が多くの道路を走り抜ける。Tesla Optimus ロボットは人間と共存し、ガーデニングや植物の栽培、あるいは子供たちと遊ぶなど、多様なタスクをこなしている。ドームの外には複数の発射台があり、Starship が毎日離着陸を繰り返している。都市は太陽の光を浴びてまばゆいばかりに輝いている。
-
-ゴールデンアワーの逆光、スローなドリーイン、ウィップパンの動き、左へのカメラ移動、雰囲気のある被写界深度、ボリュームライティング、視差効果、グロー効果、クロスフェード、高解像度、ネイティブオーディオ生成、--ar16:9、
-セリフなし、テキストなし。「Star Trek」のような冒険
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60516030fda1a22544a41a3f10906249/thumbnails/thumbnail.jpg" width="600" alt="火星の繁栄するコロニー「Afela」">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5244)**
-
-**作者:** [Kim Maria](https://x.com/KimMari46054539) | **ソース:** [Link](https://x.com/KimMari46054539/status/2058501592060448889) | **公開日:** May 24, 2026
-
----
-### シネマティックな宇宙へのズームイン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 宇宙を見つめる被写体に向けて、ゆっくりと繊細にカメラがズームしていくシネマティックな動画生成用プロンプトです。
-
-#### 📝 プロンプト
-
-```
-ゆっくりと繊細にカメラがズームインする動き、宇宙を見つめる被写体、インスピレーションあふれる映像...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06e6075a98a93995fa25d3c304646e15/thumbnails/thumbnail.jpg" width="600" alt="シネマティックな宇宙へのズームイン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5248)**
-
-**作者:** [XVegasBabe](https://x.com/XVegasbabes) | **ソース:** [Link](https://x.com/XVegasbabes/status/2058449681529852336) | **公開日:** May 24, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2240,6 +2238,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-04T04:58:41.294Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-04T11:34:32.080Z</sub>
 
 </div>

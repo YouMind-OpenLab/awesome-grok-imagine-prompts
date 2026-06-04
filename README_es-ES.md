@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1740** |
+| 📝 Total Prompts | **1746** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-04** |
 
@@ -189,6 +189,121 @@ Una valquiria celestial mística y noble, una mujer digna y hermosa con largo ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Transformación dramática al estilo barroco
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt detallado para generar una transformación de video dramática al estilo barroco, centrado en la iluminación teatral y los detalles ornamentados.
+
+#### 📝 Prompt
+
+```
+Estilo barroco, emoción intensa, iluminación teatral, grandeza ornamentada, Espejito, espejito...
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2062322815571800064/pu/img/e2qZXMIDNbccuXuT.jpg" width="600" alt="Transformación dramática al estilo barroco">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5676)**
+
+**Author:** [Tina ✨](https://x.com/Tina22_2) | **Source:** [Link](https://x.com/Tina22_2/status/2062322843833036921) | **Published:** Jun 3, 2026
+
+---
+### Danza etérea de Neo-Soul en el bosque
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video cinematográfico que muestra a una mujer con astas brillantes bailando en un bosque neblinoso rodeada de chispas digitales.
+
+#### 📝 Prompt
+
+```
+Mujer afroamericana elegante con sutiles astas de ciervo brillantes, bailando descalza en un bosque crepuscular neblinoso, chispas de código digital plateado entrelazándose románticamente a su alrededor, brillo pastel cálido, portada de álbum neo-soul, enfoque suave cinematográfico, formato cuadrado
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062211726016413699/img/WLzHj1kfFzCzOfi3.jpg" width="600" alt="Danza etérea de Neo-Soul en el bosque">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5671)**
+
+**Author:** [Alyssa Nicole Art](https://x.com/alyssanicoleart) | **Source:** [Link](https://x.com/alyssanicoleart/status/2062211781116985709) | **Published:** Jun 3, 2026
+
+---
+### Transformación diabólica con llamas
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video dramático que muestra una transformación en un demonio con ojos llameantes y una risa amenazante.
+
+#### 📝 Prompt
+
+```
+Obtuve una imagen de lo que sucede cuando se transforma en el diablo. Y gritó: “trabajarás gratis o morirás”. Se ríe con una risa diabólica mientras salen llamas de sus ojos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062153020251529216/img/du8i_dfaHujGJZ1O.jpg" width="600" alt="Transformación diabólica con llamas">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5674)**
+
+**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2062153074374766919) | **Published:** Jun 3, 2026
+
+---
+### Video de peces de neón del Monterey Bay Aquarium
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video que muestra a personajes observando peces de neón en la exhibición de aguas profundas del Monterey Bay Aquarium.
+
+#### 📝 Prompt
+
+```
+LilX y los Scouts del Monterey Bay Aquarium observando peces de neón en la exhibición de aguas profundas
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062118186640924672/img/yY4e2lNXOkqnRojh.jpg" width="600" alt="Video de peces de neón del Monterey Bay Aquarium">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5675)**
+
+**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2062118252386631705) | **Published:** Jun 3, 2026
+
+---
+### Video de Exploradores Espaciales y Leones Marinos
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video cinematográfico de exploradores espaciales observando una guardería de leones marinos en la costa con cielos azules y sonidos del océano.
+
+#### 📝 Prompt
+
+```
+Exploradores espaciales en el sendero observando una guardería de leones marinos, una madre liebre y su cría corren por el camino y las aves vuelan sobre un hermoso día, cielos azules y sonidos pacíficos del océano
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062117007097839616/img/YerpIf-C72647kUD.jpg" width="600" alt="Video de Exploradores Espaciales y Leones Marinos">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5673)**
+
+**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2062117104061644940) | **Published:** Jun 3, 2026
+
+---
+### Cooperación entre la sirena y el pez bravucón
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt narrativo para una escena de video donde una sirena y un pez bravucón se ven obligados a cooperar para escapar de la red de un pescador.
+
+#### 📝 Prompt
+
+```
+Todo
+La sirena y el pez bravucón quedan atrapados en la red de un pescador y deben ser amables, hacerse amigos y trabajar juntos para liberarse.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062073885353242624/img/6g8Cujaq11hK4q8R.jpg" width="600" alt="Cooperación entre la sirena y el pez bravucón">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5672)**
+
+**Author:** [Liz](https://x.com/LSage11977725) | **Source:** [Link](https://x.com/LSage11977725/status/2062074055876911125) | **Published:** Jun 3, 2026
+
+---
 ### Retrato de estudio de modelo de moda
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2061,123 +2176,6 @@ Un video cinematográfico en cámara lenta en una discoteca abarrotada. La cáma
 **Author:** [Katherine Martin](https://x.com/KatherineM40071) | **Source:** [Link](https://x.com/KatherineM40071/status/2058651866909585535) | **Published:** May 24, 2026
 
 ---
-### Imagen a video con identidad bloqueada
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Una instrucción técnica para Grok Imagine con el fin de mantener la identidad facial absoluta y evitar la deformación durante la generación de video a partir de una imagen de referencia.
-
-#### 📝 Prompt
-
-```
-Imagen a video: utilice la imagen de referencia como fotograma de identidad principal. Bloquee la identidad facial en toda la secuencia con prioridad absoluta. Prioridad de identidad facial sobre el movimiento. Sin deformaciones, sin desviación facial, sin reinterpretaciones de ningún tipo.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d345d7b12220a2a1ebd4f166c9340089/thumbnails/thumbnail.jpg" width="600" alt="Imagen a video con identidad bloqueada">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5240)**
-
-**Author:** [Juan Torrez](https://x.com/jcwarcry1) | **Source:** [Link](https://x.com/jcwarcry1/status/2058639654530715699) | **Published:** May 24, 2026
-
----
-### Paseo cinematográfico por el jardín durante la hora dorada
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinematográfico de alta calidad para una mujer caminando a través de un jardín de flores iluminado por el sol durante la hora dorada, con texturas realistas.
-
-#### 📝 Prompt
-
-```
-Video cinematográfico ultrarrealista, 30 fps, fotorrealista 8K. Una hermosa mujer joven de unos 20 y tantos años, con cabello largo, oscuro y ondulado, vistiendo un vestido de verano blanco ligero y un sombrero de paja, camina descalza hacia un exuberante jardín doméstico iluminado por el sol durante la hora dorada. La suave y cálida luz del sol se filtra a través de las hojas creando un bokeh natural. Ella sonríe suavemente mientras se acerca a un vibrante macizo de flores lleno de rosas, margaritas y lavanda. Una toma de seguimiento fluida la sigue desde una distancia media. Un viento suave y natural mueve su cabello y su vestido. Textura de piel altamente detallada, movimiento de tela realista y un entorno de jardín auténtico con gotas de rocío en las hojas. Continuidad perfecta en la iluminación y la apariencia del personaje.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/62a5e3340fd6a96cd4aa79db0b754cbf/thumbnails/thumbnail.jpg" width="600" alt="Paseo cinematográfico por el jardín durante la hora dorada">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5250)**
-
-**Author:** [Shivam](https://x.com/QuantumPitstop) | **Source:** [Link](https://x.com/QuantumPitstop/status/2058600445799747703) | **Published:** May 24, 2026
-
----
-### Meditación del profeta cibernético
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de generación de video para un profeta cibernético emitiendo vibraciones durante la meditación.
-
-#### 📝 Prompt
-
-```
-Muéstrame al profeta cibernético meditando y emitiendo una vibración de 6 Hz desde todo su cuerpo. Manifestando ❤️🕺
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/74696e95cf542ccab3a2fed8bb2b8e8e/thumbnails/thumbnail.jpg" width="600" alt="Meditación del profeta cibernético">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5246)**
-
-**Author:** [Cyber Prophet](https://x.com/MOONVance) | **Source:** [Link](https://x.com/MOONVance/status/2058555858930311552) | **Published:** May 24, 2026
-
----
-### Robot arrodillado ante la luz
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de animación de video que presenta a un robot arrodillándose ante un ser de luz, inspirado en temas bíblicos.
-
-#### 📝 Prompt
-
-```
-Genera más: el robot está de pie y luego se arrodilla ante el ser de luz... Que tendrán apariencia de piedad, pero negarán la eficacia de ella; a éstos evita. 2 Timoteo 3:5
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d2b94d6cbe9d3ab7c3d3841c47c25b6c/thumbnails/thumbnail.jpg" width="600" alt="Robot arrodillado ante la luz">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5247)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2058515952812110217) | **Published:** May 24, 2026
-
----
-### La próspera colonia marciana Afela
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt increíblemente detallado para una ciudad marciana futurista bajo una cúpula, con Cybertrucks, robots Optimus y Starships.
-
-#### 📝 Prompt
-
-```
-Una imagen vívida y ultrarrealista de una próspera colonia marciana bajo una gigantesca cúpula cristalina. El sonido del viento marciano resuena a través del terreno marrón y polvoriento del planeta. Dentro de la ciudad abovedada, llamada Afela, se puede ver a hombres y mujeres realizando diversas tareas. Pequeñas tiendas futuristas salpican las carreteras de acero, rebosantes de color. Grandes edificios de gran altura que brillan con el calor del Sol destacan como centinelas artísticos por su diseño y belleza. Tesla Cybertrucks de diversos colores circulan por las numerosas carreteras. Los robots Tesla Optimus caminan entre los humanos realizando diversas tareas, ya sea jardinería, cultivo de vegetación o simplemente jugando con un grupo de niños. Fuera de la ciudad abovedada hay varias plataformas de lanzamiento donde las Starships aterrizan y despegan a diario. La ciudad brilla intensamente bajo la luz del sol.
-
-Iluminación a contraluz durante la hora dorada, dolly-in lento, movimientos de cámara whip pan, movimiento de cámara hacia la izquierda, profundidad de campo atmosférica, iluminación volumétrica, efecto de paralaje, efecto de resplandor, fundido cruzado, alta resolución, generación de audio nativo, --ar 16:9,
-Sin diálogos, sin texto. Aventura al estilo "Star Trek".
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60516030fda1a22544a41a3f10906249/thumbnails/thumbnail.jpg" width="600" alt="La próspera colonia marciana Afela">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5244)**
-
-**Author:** [Kim Maria](https://x.com/KimMari46054539) | **Source:** [Link](https://x.com/KimMari46054539/status/2058501592060448889) | **Published:** May 24, 2026
-
----
-### Zoom cinemático al cosmos
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de generación de video para un zoom de cámara cinemático, lento y sutil, hacia un sujeto que contempla el cosmos.
-
-#### 📝 Prompt
-
-```
-Movimiento de zoom de cámara cinemático, lento y sutil, el sujeto observa el cosmos. Inspirador...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06e6075a98a93995fa25d3c304646e15/thumbnails/thumbnail.jpg" width="600" alt="Zoom cinemático al cosmos">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5248)**
-
-**Author:** [XVegasBabe](https://x.com/XVegasbabes) | **Source:** [Link](https://x.com/XVegasbabes/status/2058449681529852336) | **Published:** May 24, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2239,6 +2237,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-04T04:58:47.701Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-04T11:34:38.765Z</sub>
 
 </div>

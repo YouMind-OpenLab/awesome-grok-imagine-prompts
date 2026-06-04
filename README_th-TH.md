@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1740** |
+| 📝 Total Prompts | **1746** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-04** |
 
@@ -189,6 +189,121 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### การเปลี่ยนผ่านสไตล์บาโรกสุดอลังการ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่งแบบละเอียดสำหรับการสร้างวิดีโอเปลี่ยนผ่านสุดดราม่าในสไตล์บาโรก โดยเน้นไปที่แสงแบบละครเวทีและรายละเอียดที่วิจิตรบรรจง
+
+#### 📝 Prompt
+
+```
+สไตล์บาโรก, อารมณ์ที่เข้มข้น, แสงแบบละครเวที, ความยิ่งใหญ่อลังการ, กระจกวิเศษเอ๋ย...
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2062322815571800064/pu/img/e2qZXMIDNbccuXuT.jpg" width="600" alt="การเปลี่ยนผ่านสไตล์บาโรกสุดอลังการ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5676)**
+
+**Author:** [Tina ✨](https://x.com/Tina22_2) | **Source:** [Link](https://x.com/Tina22_2/status/2062322843833036921) | **Published:** Jun 3, 2026
+
+---
+### การเต้นรำในป่าแห่งจิตวิญญาณนีโอโซลอันล่องลอย
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวภาพยนตร์ที่นำเสนอหญิงสาวที่มีเขากวางเรืองแสงกำลังเต้นรำอยู่ในป่าที่มีหมอกหนาและรายล้อมไปด้วยประกายไฟดิจิทัล
+
+#### 📝 Prompt
+
+```
+หญิงสาวชาวอเมริกันผิวดำผู้สง่างาม สวมเขากวางเรืองแสงจางๆ เต้นรำด้วยเท้าเปล่าในป่าช่วงพลบค่ำที่มีหมอกปกคลุม ประกายไฟจากโค้ดดิจิทัลสีเงินถักทอโอบล้อมรอบตัวเธออย่างโรแมนติก แสงโทนพาสเทลอันอบอุ่น ปกอัลบั้มแนวนีโอโซล โฟกัสแบบนุ่มนวลสไตล์ภาพยนตร์ รูปแบบสี่เหลี่ยมจัตุรัส
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062211726016413699/img/WLzHj1kfFzCzOfi3.jpg" width="600" alt="การเต้นรำในป่าแห่งจิตวิญญาณนีโอโซลอันล่องลอย">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5671)**
+
+**Author:** [Alyssa Nicole Art](https://x.com/alyssanicoleart) | **Source:** [Link](https://x.com/alyssanicoleart/status/2062211781116985709) | **Published:** Jun 3, 2026
+
+---
+### การเปลี่ยนร่างเป็นปีศาจท่ามกลางเปลวเพลิง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอสุดดราม่าที่ถ่ายทอดภาพการเปลี่ยนร่างเป็นปีศาจ พร้อมดวงตาที่ลุกเป็นไฟและเสียงหัวเราะที่น่าสะพรึงกลัว
+
+#### 📝 Prompt
+
+```
+ฉันได้ภาพเหตุการณ์ที่เกิดขึ้นเมื่อกลายร่างเป็นปีศาจ และตะโกนว่า “แกจะต้องทำงานฟรีไม่เช่นนั้นก็ต้องตาย” มันหัวเราะด้วยเสียงหัวเราะแบบปีศาจพร้อมกับมีเปลวไฟพุ่งออกมาจากดวงตา
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062153020251529216/img/du8i_dfaHujGJZ1O.jpg" width="600" alt="การเปลี่ยนร่างเป็นปีศาจท่ามกลางเปลวเพลิง">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5674)**
+
+**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2062153074374766919) | **Published:** Jun 3, 2026
+
+---
+### วิดีโอปลาเรืองแสงที่ Monterey Bay Aquarium
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอที่แสดงตัวละครกำลังชมปลาเรืองแสงในนิทรรศการทะเลลึกที่ Monterey Bay Aquarium
+
+#### 📝 Prompt
+
+```
+LilX และ Scouts กำลังชมปลาเรืองแสงจากนิทรรศการทะเลลึกที่ Monterey Bay Aquarium
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062118186640924672/img/yY4e2lNXOkqnRojh.jpg" width="600" alt="วิดีโอปลาเรืองแสงที่ Monterey Bay Aquarium">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5675)**
+
+**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2062118252386631705) | **Published:** Jun 3, 2026
+
+---
+### วิดีโอ Space Scouts และสิงโตทะเล
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวภาพยนตร์ของ Space Scouts ที่กำลังมองลงไปยังสถานอนุบาลสิงโตทะเลบริเวณชายฝั่ง พร้อมท้องฟ้าสีครามและเสียงคลื่นทะเล
+
+#### 📝 Prompt
+
+```
+Space Scouts บนเส้นทางที่มองลงไปยังสถานอนุบาลสิงโตทะเล แม่กระต่ายป่าและลูกวิ่งข้ามเส้นทางและมีนกบินผ่าน เป็นวันที่สวยงาม ท้องฟ้าสีคราม และเสียงมหาสมุทรที่เงียบสงบ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062117007097839616/img/YerpIf-C72647kUD.jpg" width="600" alt="วิดีโอ Space Scouts และสิงโตทะเล">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5673)**
+
+**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2062117104061644940) | **Published:** Jun 3, 2026
+
+---
+### ความร่วมมือระหว่างนางเงือกและปลาเกเร
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง (Prompt) สำหรับสร้างฉากวิดีโอที่นางเงือกและปลาเกเรต้องร่วมมือกันเพื่อหนีออกจากอวนของชาวประมง
+
+#### 📝 Prompt
+
+```
+ทั้งหมด
+ปลาเกเรและนางเงือกติดอยู่ในอวนของชาวประมง พวกเขาจึงต้องใจดีต่อกัน เป็นเพื่อนกัน และร่วมมือกันเพื่อหาทางหนีออกมา
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062073885353242624/img/6g8Cujaq11hK4q8R.jpg" width="600" alt="ความร่วมมือระหว่างนางเงือกและปลาเกเร">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5672)**
+
+**Author:** [Liz](https://x.com/LSage11977725) | **Source:** [Link](https://x.com/LSage11977725/status/2062074055876911125) | **Published:** Jun 3, 2026
+
+---
 ### ภาพถ่ายพอร์ตเทรตแฟชั่นโมเดลในสตูดิโอ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2062,123 +2177,6 @@ Hermes ได้รับรองเท้าบินได้สุดเร�
 **Author:** [Katherine Martin](https://x.com/KatherineM40071) | **Source:** [Link](https://x.com/KatherineM40071/status/2058651866909585535) | **Published:** May 24, 2026
 
 ---
-### การล็อกอัตลักษณ์ใบหน้าสำหรับ Image to Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำแนะนำทางเทคนิคสำหรับ Grok Imagine เพื่อรักษาอัตลักษณ์ใบหน้าให้คงเดิมและป้องกันการบิดเบี้ยวระหว่างการสร้างวิดีโอจากภาพอ้างอิง
-
-#### 📝 Prompt
-
-```
-Image-to-Video: ใช้ภาพอ้างอิงเป็นเฟรมหลักสำหรับอัตลักษณ์ใบหน้า ล็อกอัตลักษณ์ใบหน้าให้คงที่ตลอดทั้งซีเควนซ์โดยให้ความสำคัญสูงสุด ให้ความสำคัญกับอัตลักษณ์ใบหน้าเหนือการเคลื่อนไหว ห้ามมีการบิดเบี้ยว ห้ามใบหน้าเปลี่ยนรูป และห้ามมีการตีความใหม่โดยเด็ดขาด
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d345d7b12220a2a1ebd4f166c9340089/thumbnails/thumbnail.jpg" width="600" alt="การล็อกอัตลักษณ์ใบหน้าสำหรับ Image to Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5240)**
-
-**Author:** [Juan Torrez](https://x.com/jcwarcry1) | **Source:** [Link](https://x.com/jcwarcry1/status/2058639654530715699) | **Published:** May 24, 2026
-
----
-### เดินเล่นในสวนช่วงโกลเด้นอาวร์แบบภาพยนตร์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์คุณภาพสูงสำหรับสร้างวิดีโอแนวภาพยนตร์ของหญิงสาวที่กำลังเดินเล่นในสวนดอกไม้ท่ามกลางแสงแดดในช่วงโกลเด้นอาวร์ พร้อมพื้นผิวที่สมจริง
-
-#### 📝 Prompt
-
-```
-วิดีโอแนวภาพยนตร์ที่สมจริงเป็นพิเศษ, 30fps, ความละเอียด 8K เสมือนภาพถ่าย หญิงสาวสวยวัยกลาง 20 ปี ผมยาวหยักศกสีเข้ม สวมชุดเดรสสีขาวและหมวกฟาง เดินเท้าเปล่าเข้าไปในสวนที่เขียวชอุ่มและเต็มไปด้วยแสงแดดในช่วงโกลเด้นอาวร์ แสงแดดอุ่น ๆ ส่องผ่านใบไม้สร้างเอฟเฟกต์โบเก้ที่เป็นธรรมชาติ เธอยิ้มอย่างอ่อนโยนขณะเดินเข้าใกล้แปลงดอกไม้ที่มีทั้งกุหลาบ เดซี่ และลาเวนเดอร์ กล้องติดตามตัวเธออย่างนุ่มนวลจากระยะกลาง สายลมพัดอ่อน ๆ ทำให้ผมและชุดของเธอพลิ้วไหว พื้นผิวผิวหนังที่มีรายละเอียดสูง การเคลื่อนไหวของผ้าที่สมจริง และสภาพแวดล้อมในสวนที่เป็นธรรมชาติพร้อมหยดน้ำค้างบนใบไม้ แสงและรูปลักษณ์ของตัวละครมีความต่อเนื่องสมบูรณ์แบบ
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/62a5e3340fd6a96cd4aa79db0b754cbf/thumbnails/thumbnail.jpg" width="600" alt="เดินเล่นในสวนช่วงโกลเด้นอาวร์แบบภาพยนตร์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5250)**
-
-**Author:** [Shivam](https://x.com/QuantumPitstop) | **Source:** [Link](https://x.com/QuantumPitstop/status/2058600445799747703) | **Published:** May 24, 2026
-
----
-### การทำสมาธิของศาสดาไซเบอร์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับสร้างวิดีโอของศาสดาไซเบอร์ที่กำลังแผ่คลื่นความถี่ระหว่างการทำสมาธิ
-
-#### 📝 Prompt
-
-```
-แสดงภาพศาสดาไซเบอร์กำลังทำสมาธิและแผ่คลื่นความถี่ 6Hz ออกมาจากทั่วทั้งร่างกาย กำลังสำแดงพลัง ❤️🕺
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/74696e95cf542ccab3a2fed8bb2b8e8e/thumbnails/thumbnail.jpg" width="600" alt="การทำสมาธิของศาสดาไซเบอร์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5246)**
-
-**Author:** [Cyber Prophet](https://x.com/MOONVance) | **Source:** [Link](https://x.com/MOONVance/status/2058555858930311552) | **Published:** May 24, 2026
-
----
-### หุ่นยนต์คุกเข่าต่อหน้าแสงสว่าง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับวิดีโอแอนิเมชันที่แสดงภาพหุ่นยนต์กำลังคุกเข่าต่อหน้าสิ่งมีชีวิตที่เป็นแสงสว่าง โดยได้รับแรงบันดาลใจจากเนื้อหาในพระคัมภีร์
-
-#### 📝 Prompt
-
-```
-สร้างวิดีโอเพิ่มเติมโดยให้หุ่นยนต์ยืนขึ้นแล้วคุกเข่าลงต่อหน้าสิ่งมีชีวิตที่เป็นแสงสว่าง .... โดยมีรูปแบบของทางศาสนา แต่ปฏิเสธฤทธานุภาพของศาสนานั้น จงหลีกเลี่ยงคนเช่นนั้นเสีย .. 2 ทิโมธี 3:5
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d2b94d6cbe9d3ab7c3d3841c47c25b6c/thumbnails/thumbnail.jpg" width="600" alt="หุ่นยนต์คุกเข่าต่อหน้าแสงสว่าง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5247)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2058515952812110217) | **Published:** May 24, 2026
-
----
-### Afela อาณานิคมบนดาวอังคารที่รุ่งเรือง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ที่มีรายละเอียดเหลือเชื่อสำหรับเมืองแห่งอนาคตบนดาวอังคารภายใต้โดม ซึ่งประกอบไปด้วย Cybertrucks หุ่นยนต์ Optimus และ Starships
-
-#### 📝 Prompt
-
-```
-ภาพที่สมจริงเป็นพิเศษและสดใสของอาณานิคมบนดาวอังคารที่รุ่งเรืองภายใต้โดมแก้วใสขนาดมหึมา เสียงลมบนดาวอังคารดังก้องไปทั่วพื้นผิวสีน้ำตาลที่เต็มไปด้วยฝุ่นของดาวเคราะห์ ภายในเมืองที่อยู่ใต้โดมซึ่งมีชื่อว่า Afela จะเห็นผู้ชายและผู้หญิงกำลังปฏิบัติภารกิจต่างๆ ร้านค้าเล็กๆ แห่งอนาคตตั้งเรียงรายอยู่ตามถนนเหล็กที่เต็มไปด้วยสีสัน อาคารสูงใหญ่ที่ส่องประกายจากความร้อนของแสงอาทิตย์โดดเด่นราวกับผู้พิทักษ์ที่มีศิลปะในการออกแบบและความงดงาม Tesla Cybertrucks หลากหลายสีสันขับเคลื่อนไปตามถนนหลายสาย หุ่นยนต์ Tesla Optimus เดินปะปนอยู่ท่ามกลางมนุษย์เพื่อทำภารกิจต่างๆ ไม่ว่าจะเป็นการทำสวน ปลูกพืช หรือเพียงแค่เล่นกับเด็กๆ นอกเมืองที่อยู่ใต้โดมมีฐานปล่อยจรวดหลายแห่งที่ Starships ลงจอดและทะยานขึ้นสู่ท้องฟ้าในทุกๆ วัน เมืองนี้ส่องประกายระยิบระยับจากแสงของดวงอาทิตย์
-
-แสงย้อนช่วงโกลเด้นอาวเวอร์, การเคลื่อนกล้องแบบ dolly-in ช้าๆ, การแพนกล้องแบบรวดเร็ว (whip pan), กล้องเคลื่อนไปทางซ้าย, ระยะชัดลึกที่ดูมีบรรยากาศ, แสงแบบปริมาตร (volumetric lighting), เอฟเฟกต์พารัลแลกซ์, เอฟเฟกต์เรืองแสง, การเฟดภาพแบบ cross fade, ความละเอียดสูง, การสร้างเสียงแบบเนทีฟ, --ar 16:9,
-ไม่มีบทสนทนา, ไม่มีข้อความ, การผจญภัยสไตล์ " Star Trek "
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60516030fda1a22544a41a3f10906249/thumbnails/thumbnail.jpg" width="600" alt="Afela อาณานิคมบนดาวอังคารที่รุ่งเรือง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5244)**
-
-**Author:** [Kim Maria](https://x.com/KimMari46054539) | **Source:** [Link](https://x.com/KimMari46054539/status/2058501592060448889) | **Published:** May 24, 2026
-
----
-### การซูมเข้าแบบภาพยนตร์สู่ห้วงอวกาศ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับการสร้างวิดีโอด้วยการเคลื่อนกล้องแบบซูมเข้าอย่างช้าๆ และนุ่มนวลในสไตล์ภาพยนตร์ ไปยังตัวละครที่กำลังจ้องมองห้วงอวกาศ
-
-#### 📝 Prompt
-
-```
-การเคลื่อนกล้องแบบซูมเข้าอย่างช้าๆ และนุ่มนวลในสไตล์ภาพยนตร์ โดยมีตัวละครกำลังจ้องมองห้วงอวกาศ สร้างแรงบันดาลใจ....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06e6075a98a93995fa25d3c304646e15/thumbnails/thumbnail.jpg" width="600" alt="การซูมเข้าแบบภาพยนตร์สู่ห้วงอวกาศ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5248)**
-
-**Author:** [XVegasBabe](https://x.com/XVegasbabes) | **Source:** [Link](https://x.com/XVegasbabes/status/2058449681529852336) | **Published:** May 24, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2240,6 +2238,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-04T04:58:43.707Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-04T11:34:35.182Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1740** |
+| 📝 Total Prompts | **1746** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-04** |
 
@@ -189,6 +189,121 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### Baroque शैली में नाटकीय रूपांतरण
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Baroque शैली में एक नाटकीय वीडियो रूपांतरण उत्पन्न करने के लिए विस्तृत प्रॉम्प्ट, जो नाटकीय प्रकाश और अलंकृत विवरणों पर केंद्रित है।
+
+#### 📝 Prompt
+
+```
+Baroque शैली, तीव्र भावना, नाटकीय प्रकाश, अलंकृत भव्यता, Mirror, mirror...
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2062322815571800064/pu/img/e2qZXMIDNbccuXuT.jpg" width="600" alt="Baroque शैली में नाटकीय रूपांतरण">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5676)**
+
+**Author:** [Tina ✨](https://x.com/Tina22_2) | **Source:** [Link](https://x.com/Tina22_2/status/2062322843833036921) | **Published:** Jun 3, 2026
+
+---
+### इथरियल नियो-सोल फॉरेस्ट डांस
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सिनेमैटिक वीडियो प्रॉम्प्ट जिसमें एक महिला चमकते हुए सींगों के साथ धुंधले जंगल में डिजिटल चिंगारियों के बीच नृत्य कर रही है।
+
+#### 📝 Prompt
+
+```
+सुंदर अश्वेत अमेरिकी महिला, हल्के चमकते हुए हिरण के सींगों के साथ, धुंधले गोधूलि जंगल में नंगे पैर नृत्य करती हुई, चांदी के डिजिटल कोड की चिंगारियां उसके चारों ओर रोमांटिक रूप से बुनी हुई, गर्म पेस्टल चमक, नियो-सोल एल्बम कवर, सिनेमैटिक सॉफ्ट फोकस, वर्गाकार प्रारूप
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062211726016413699/img/WLzHj1kfFzCzOfi3.jpg" width="600" alt="इथरियल नियो-सोल फॉरेस्ट डांस">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5671)**
+
+**Author:** [Alyssa Nicole Art](https://x.com/alyssanicoleart) | **Source:** [Link](https://x.com/alyssanicoleart/status/2062211781116985709) | **Published:** Jun 3, 2026
+
+---
+### ज्वालाओं के साथ शैतानी रूपांतरण
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक नाटकीय वीडियो प्रॉम्प्ट जो जलती हुई आँखों और डरावनी हँसी के साथ एक शैतान में रूपांतरण को दर्शाता है।
+
+#### 📝 Prompt
+
+```
+मुझे एक तस्वीर मिली है कि जब कोई शैतान में बदलता है तो क्या होता है। और चिल्लाया "तुम मुफ्त में काम करोगे या मरोगे"। यह एक शैतानी हँसी हँसता है और उसकी आँखों से ज्वालाएँ निकल रही हैं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062153020251529216/img/du8i_dfaHujGJZ1O.jpg" width="600" alt="ज्वालाओं के साथ शैतानी रूपांतरण">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5674)**
+
+**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2062153074374766919) | **Published:** Jun 3, 2026
+
+---
+### Monterey Bay Aquarium नियॉन फिश वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वीडियो प्रॉम्प्ट जिसमें पात्र Monterey Bay Aquarium के गहरे समुद्र प्रदर्शनी में नियॉन मछलियों को देख रहे हैं।
+
+#### 📝 Prompt
+
+```
+Monterey Bay Aquarium में LilX और Scouts गहरे समुद्र की प्रदर्शनी से नियॉन मछलियों को देख रहे हैं
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062118186640924672/img/yY4e2lNXOkqnRojh.jpg" width="600" alt="Monterey Bay Aquarium नियॉन फिश वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5675)**
+
+**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2062118252386631705) | **Published:** Jun 3, 2026
+
+---
+### Space Scouts और Sea Lions का वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Space Scouts का एक सिनेमैटिक वीडियो प्रॉम्प्ट, जिसमें वे नीले आसमान और समुद्र की आवाज़ों के बीच तट पर स्थित सी लायन नर्सरी को देख रहे हैं।
+
+#### 📝 Prompt
+
+```
+Space Scouts पगडंडी पर हैं और नीचे सी लायन नर्सरी को देख रहे हैं। जैक रैबिट माँ और बच्चा पगडंडी पर दौड़ रहे हैं और पक्षी ऊपर उड़ रहे हैं। नीले आसमान वाला एक खूबसूरत दिन और समुद्र की शांत आवाज़ें।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062117007097839616/img/YerpIf-C72647kUD.jpg" width="600" alt="Space Scouts और Sea Lions का वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5673)**
+
+**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2062117104061644940) | **Published:** Jun 3, 2026
+
+---
+### जलपरी और दबंग मछली का सहयोग
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वीडियो दृश्य के लिए एक नैरेटिव प्रॉम्प्ट, जहाँ एक जलपरी और एक दबंग मछली को मछुआरे के जाल से बचने के लिए मजबूरन सहयोग करना पड़ता है।
+
+#### 📝 Prompt
+
+```
+सभी
+दबंग मछली और जलपरी एक मछुआरे के जाल में फंस जाते हैं और उन्हें आजाद होने के लिए दयालु बनना पड़ता है, दोस्त बनाना पड़ता है और साथ मिलकर काम करना पड़ता है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062073885353242624/img/6g8Cujaq11hK4q8R.jpg" width="600" alt="जलपरी और दबंग मछली का सहयोग">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5672)**
+
+**Author:** [Liz](https://x.com/LSage11977725) | **Source:** [Link](https://x.com/LSage11977725/status/2062074055876911125) | **Published:** Jun 3, 2026
+
+---
 ### फैशन मॉडल स्टूडियो पोर्ट्रेट
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2062,123 +2177,6 @@ Optimus फैक्ट्री में पहरा देता हुआ �
 **Author:** [Katherine Martin](https://x.com/KatherineM40071) | **Source:** [Link](https://x.com/KatherineM40071/status/2058651866909585535) | **Published:** May 24, 2026
 
 ---
-### Identity Locked Image to Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक तकनीकी निर्देश, ताकि वीडियो जनरेशन के दौरान संदर्भ छवि (reference image) से चेहरे की पहचान पूरी तरह बनी रहे और उसमें कोई बदलाव न आए।
-
-#### 📝 Prompt
-
-```
-Image-to-Video: संदर्भ छवि (reference image) को प्राथमिक पहचान फ्रेम के रूप में उपयोग करें। पूरी सीक्वेंस में चेहरे की पहचान को पूर्ण प्राथमिकता के साथ लॉक रखें। गति (motion) की तुलना में चेहरे की पहचान को प्राथमिकता दें। कोई मॉर्फिंग नहीं, चेहरे में कोई बदलाव नहीं, और किसी भी प्रकार की पुनर्व्याख्या (reinterpretation) नहीं होनी चाहिए।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d345d7b12220a2a1ebd4f166c9340089/thumbnails/thumbnail.jpg" width="600" alt="Identity Locked Image to Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5240)**
-
-**Author:** [Juan Torrez](https://x.com/jcwarcry1) | **Source:** [Link](https://x.com/jcwarcry1/status/2058639654530715699) | **Published:** May 24, 2026
-
----
-### सिनेमैटिक गोल्डन आवर गार्डन वॉक
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> गोल्डन आवर के दौरान धूप से सजे फूलों के बगीचे में टहलती एक महिला के लिए यथार्थवादी बनावट वाला एक उच्च-गुणवत्ता वाला सिनेमैटिक प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-अल्ट्रा-रियलिस्टिक सिनेमैटिक वीडियो, 30fps, फोटो-रियलिस्टिक 8K। लंबी लहरदार काले बालों वाली 20 के दशक की एक सुंदर युवती, जिसने हल्के सफेद रंग की सनड्रेस और स्ट्रॉ हैट पहनी है, गोल्डन आवर के दौरान धूप से सजे एक हरे-भरे बगीचे में नंगे पैर चल रही है। पत्तियों से छनकर आती नरम गर्म धूप प्राकृतिक बोकेह (bokeh) प्रभाव पैदा कर रही है। वह धीरे से मुस्कुराती है जैसे ही वह गुलाब, डेज़ी और लैवेंडर से भरे फूलों की क्यारी के पास पहुँचती है। मध्यम दूरी से उसे फॉलो करता हुआ स्मूथ ट्रैकिंग शॉट। प्राकृतिक हल्की हवा उसके बालों और ड्रेस को हिला रही है। अत्यधिक विस्तृत त्वचा बनावट, यथार्थवादी कपड़े की हलचल, और पत्तियों पर ओस की बूंदों के साथ प्रामाणिक बगीचे का वातावरण। लाइटिंग और चरित्र की उपस्थिति में पूर्ण निरंतरता।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/62a5e3340fd6a96cd4aa79db0b754cbf/thumbnails/thumbnail.jpg" width="600" alt="सिनेमैटिक गोल्डन आवर गार्डन वॉक">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5250)**
-
-**Author:** [Shivam](https://x.com/QuantumPitstop) | **Source:** [Link](https://x.com/QuantumPitstop/status/2058600445799747703) | **Published:** May 24, 2026
-
----
-### साइबर प्रॉफिट मेडिटेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ध्यान के दौरान कंपन उत्सर्जित करने वाले एक साइबर प्रॉफिट के लिए वीडियो जनरेशन प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-मुझे साइबर प्रॉफिट को ध्यान करते हुए और उसके पूरे शरीर से 6hz का कंपन उत्सर्जित होते हुए दिखाएं। मैनिफेस्टिंग ❤️🕺
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/74696e95cf542ccab3a2fed8bb2b8e8e/thumbnails/thumbnail.jpg" width="600" alt="साइबर प्रॉफिट मेडिटेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5246)**
-
-**Author:** [Cyber Prophet](https://x.com/MOONVance) | **Source:** [Link](https://x.com/MOONVance/status/2058555858930311552) | **Published:** May 24, 2026
-
----
-### प्रकाश के सामने घुटने टेके हुए रोबोट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> बाइबिल के विषयों से प्रेरित, एक रोबोट को प्रकाश के स्वरूप के सामने घुटने टेकते हुए दिखाने वाला एक वीडियो एनीमेशन प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-और अधिक जनरेट करें, एडिट करें: रोबोट खड़ा है और फिर प्रकाश के स्वरूप के सामने घुटने टेक देता है.... उनमें भक्ति का रूप तो होगा, परन्तु वे उसकी शक्ति को नकार देंगे.. ऐसे लोगों से दूर रहो। 2 तीमुथियुस 3:5
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d2b94d6cbe9d3ab7c3d3841c47c25b6c/thumbnails/thumbnail.jpg" width="600" alt="प्रकाश के सामने घुटने टेके हुए रोबोट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5247)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2058515952812110217) | **Published:** May 24, 2026
-
----
-### मंगल ग्रह की समृद्ध कॉलोनी Afela
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक गुंबद के नीचे भविष्यवादी मंगल ग्रह के शहर के लिए एक अविश्वसनीय रूप से विस्तृत प्रॉम्प्ट, जिसमें Cybertrucks, Optimus रोबोट और Starships शामिल हैं।
-
-#### 📝 Prompt
-
-```
-एक विशाल क्रिस्टल स्पष्ट गुंबद के नीचे स्थित मंगल ग्रह की एक समृद्ध कॉलोनी की जीवंत और अति-यथार्थवादी तस्वीर। मंगल ग्रह की हवा की गूँज ग्रह के धूल भरे भूरे रंग के इलाके में सुनी जा सकती है। Afela नामक इस गुंबद वाले शहर के अंदर, पुरुषों और महिलाओं को विभिन्न कार्य करते हुए देखा जा सकता है। भविष्यवादी छोटी दुकानें स्टील की सड़कों पर रंग-बिरंगी छटा बिखेर रही हैं। सूर्य की गर्मी से चमकती बड़ी ऊंची इमारतें अपनी बनावट और सुंदरता में कलात्मक प्रहरियों की तरह खड़ी हैं। विभिन्न रंगों की Tesla Cybertrucks कई सड़कों पर दौड़ रही हैं। Tesla Optimus रोबोट मनुष्यों के बीच घूम रहे हैं और बागवानी, वनस्पति उगाने या बस बच्चों के साथ खेलने जैसे विभिन्न कार्य कर रहे हैं। गुंबद वाले शहर के बाहर विभिन्न लॉन्च पैड हैं जहाँ Starships प्रतिदिन उतरते और उड़ान भरते हैं। शहर सूर्य के प्रकाश से शानदार ढंग से चमक रहा है।
-
-गोल्डन आवर बैकलाइट, स्लो डॉली-इन, व्हिप पैन मूवमेंट, कैमरा बाईं ओर घूमता है, एटमॉस्फेरिक डेप्थ ऑफ फील्ड, वॉल्यूमेट्रिक लाइटिंग, पैरालैक्स इफेक्ट, ग्लो इफेक्ट, क्रॉस फेड, हाई रेजोल्यूशन, नेटिव ऑडियो जनरेशन, --ar16:9,
-कोई संवाद नहीं, कोई टेक्स्ट नहीं। " Star Trek " एडवेंचर
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60516030fda1a22544a41a3f10906249/thumbnails/thumbnail.jpg" width="600" alt="मंगल ग्रह की समृद्ध कॉलोनी Afela">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5244)**
-
-**Author:** [Kim Maria](https://x.com/KimMari46054539) | **Source:** [Link](https://x.com/KimMari46054539/status/2058501592060448889) | **Published:** May 24, 2026
-
----
-### सिनेमैटिक कॉसमॉस ज़ूम इन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ब्रह्मांड को निहारते हुए एक विषय की ओर धीरे-धीरे और सूक्ष्म सिनेमैटिक कैमरा ज़ूम के लिए एक वीडियो जनरेशन प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-धीमा और सूक्ष्म सिनेमैटिक कैमरा ज़ूम-इन मूवमेंट, विषय ब्रह्मांड को देख रहा है, प्रेरणादायक....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06e6075a98a93995fa25d3c304646e15/thumbnails/thumbnail.jpg" width="600" alt="सिनेमैटिक कॉसमॉस ज़ूम इन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5248)**
-
-**Author:** [XVegasBabe](https://x.com/XVegasbabes) | **Source:** [Link](https://x.com/XVegasbabes/status/2058449681529852336) | **Published:** May 24, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2240,6 +2238,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-04T04:58:46.166Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-04T11:34:37.708Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **1740** |
+| 📝 提示詞總數 | **1746** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-06-04** |
 
@@ -189,6 +189,121 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 巴洛克風格戲劇性變換
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一份用於生成巴洛克風格戲劇性影片變換的詳細提示詞，重點在於劇場光影與華麗細節。
+
+#### 📝 提示詞
+
+```
+巴洛克風格，強烈情感，劇場光影，華麗壯觀，魔鏡，魔鏡...
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2062322815571800064/pu/img/e2qZXMIDNbccuXuT.jpg" width="600" alt="巴洛克風格戲劇性變換">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5676)**
+
+**作者:** [Tina ✨](https://x.com/Tina22_2) | **來源:** [Link](https://x.com/Tina22_2/status/2062322843833036921) | **發布時間:** Jun 3, 2026
+
+---
+### 空靈新靈魂樂森林之舞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段電影級影片提示詞，描繪了一位頭戴發光鹿角的女性在霧氣繚繞的森林中起舞，周圍環繞著數位火花。
+
+#### 📝 提示詞
+
+```
+優雅的非裔美國女性，頭戴散發微光的鹿角，赤腳在霧氣瀰漫的暮色森林中起舞，銀色數位代碼火花在她身邊浪漫地交織，溫暖的柔和光暈，新靈魂樂專輯封面，電影級柔焦效果，方形構圖
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062211726016413699/img/WLzHj1kfFzCzOfi3.jpg" width="600" alt="空靈新靈魂樂森林之舞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5671)**
+
+**作者:** [Alyssa Nicole Art](https://x.com/alyssanicoleart) | **來源:** [Link](https://x.com/alyssanicoleart/status/2062211781116985709) | **發布時間:** Jun 3, 2026
+
+---
+### 烈焰惡魔變身
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段戲劇性的影片提示詞，描繪了變身為雙眼燃燒著火焰、發出威脅笑聲的惡魔的過程。
+
+#### 📝 提示詞
+
+```
+我得到了一張關於變身為惡魔時會發生什麼的圖片。它大喊著「你要麼免費工作，要麼去死」。它發出了惡魔般的笑聲，火焰從它的眼球中噴射而出。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062153020251529216/img/du8i_dfaHujGJZ1O.jpg" width="600" alt="烈焰惡魔變身">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5674)**
+
+**作者:** [the_light](https://x.com/the_light35) | **來源:** [Link](https://x.com/the_light35/status/2062153074374766919) | **發布時間:** Jun 3, 2026
+
+---
+### Monterey Bay Aquarium 霓虹魚影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段影片提示詞，展示角色在 Monterey Bay Aquarium 深海展區觀賞霓虹魚的畫面。
+
+#### 📝 提示詞
+
+```
+Monterey Bay Aquarium 的 LilX 和 Scouts 正在觀賞深海展區的霓虹魚
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062118186640924672/img/yY4e2lNXOkqnRojh.jpg" width="600" alt="Monterey Bay Aquarium 霓虹魚影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5675)**
+
+**作者:** [Jean](https://x.com/SpaceScoutsIntl) | **來源:** [Link](https://x.com/SpaceScoutsIntl/status/2062118252386631705) | **發布時間:** Jun 3, 2026
+
+---
+### 太空偵察兵與海獅影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段電影感的影片提示詞，描述太空偵察兵俯瞰海岸邊的海獅育幼地，背景為藍天與海洋的聲音。
+
+#### 📝 提示詞
+
+```
+太空偵察兵在俯瞰海獅育幼地的小徑上，野兔媽媽與寶寶跑過小徑，鳥兒在空中飛翔，美好的一天，藍天與寧靜的海洋聲音
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062117007097839616/img/YerpIf-C72647kUD.jpg" width="600" alt="太空偵察兵與海獅影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5673)**
+
+**作者:** [Jean](https://x.com/SpaceScoutsIntl) | **來源:** [Link](https://x.com/SpaceScoutsIntl/status/2062117104061644940) | **發布時間:** Jun 3, 2026
+
+---
+### 美人魚與惡霸魚的合作
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個影片場景的敘事提示詞，講述美人魚與惡霸魚被迫合作以逃離漁網的故事。
+
+#### 📝 提示詞
+
+```
+全部
+惡霸魚和美人魚被困在漁網中，他們必須展現善意、成為朋友並共同努力才能脫困。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062073885353242624/img/6g8Cujaq11hK4q8R.jpg" width="600" alt="美人魚與惡霸魚的合作">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5672)**
+
+**作者:** [Liz](https://x.com/LSage11977725) | **來源:** [Link](https://x.com/LSage11977725/status/2062074055876911125) | **發布時間:** Jun 3, 2026
+
+---
 ### 時尚模特兒攝影棚人像
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2062,123 +2177,6 @@ the cups is slowly rotating, seamless loop, nothing else moves, no music melt ov
 **作者:** [Katherine Martin](https://x.com/KatherineM40071) | **來源:** [Link](https://x.com/KatherineM40071/status/2058651866909585535) | **發布時間:** May 24, 2026
 
 ---
-### Identity Locked Image to Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 關於 Grok Imagine 的技術說明，旨在於從參考圖像生成影片時，維持絕對的面部特徵一致性並防止變形。
-
-#### 📝 提示詞
-
-```
-Image-to-Video：將參考圖像作為主要的身份識別幀。在整個序列中以絕對優先級鎖定面部特徵。面部特徵的優先級高於動作。嚴禁變形、面部偏移或任何形式的重新詮釋。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d345d7b12220a2a1ebd4f166c9340089/thumbnails/thumbnail.jpg" width="600" alt="Identity Locked Image to Video">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5240)**
-
-**作者:** [Juan Torrez](https://x.com/jcwarcry1) | **來源:** [Link](https://x.com/jcwarcry1/status/2058639654530715699) | **發布時間:** May 24, 2026
-
----
-### 電影感黃金時刻花園漫步
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個高品質的電影感提示詞，描述一位女性在黃金時刻漫步於陽光灑落的花園中，呈現逼真的質感。
-
-#### 📝 提示詞
-
-```
-超逼真電影感影片，30fps，照片級 8K 畫質。一位 20 多歲、留著深色長波浪捲髮的美麗年輕女性，身穿白色輕盈連身裙並戴著草帽，赤腳走進陽光灑落的茂密家庭花園，正值黃金時刻。柔和溫暖的陽光穿過葉片，營造出自然的散景效果。她走向開滿玫瑰、雛菊和薰衣草的鮮豔花圃，臉上帶著溫柔的微笑。鏡頭以中距離平穩跟拍。自然的微風吹動她的秀髮與裙擺。極致細膩的皮膚紋理、逼真的布料擺動，以及帶有葉片露珠的真實花園環境。光影與人物外觀保持完美連貫。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/62a5e3340fd6a96cd4aa79db0b754cbf/thumbnails/thumbnail.jpg" width="600" alt="電影感黃金時刻花園漫步">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5250)**
-
-**作者:** [Shivam](https://x.com/QuantumPitstop) | **來源:** [Link](https://x.com/QuantumPitstop/status/2058600445799747703) | **發布時間:** May 24, 2026
-
----
-### 賽博先知冥想
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段關於賽博先知在冥想時散發震動的影片生成提示詞。
-
-#### 📝 提示詞
-
-```
-展示賽博先知正在冥想，並從全身散發出 6Hz 的震動。顯化 ❤️🕺
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/74696e95cf542ccab3a2fed8bb2b8e8e/thumbnails/thumbnail.jpg" width="600" alt="賽博先知冥想">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5246)**
-
-**作者:** [Cyber Prophet](https://x.com/MOONVance) | **來源:** [Link](https://x.com/MOONVance/status/2058555858930311552) | **發布時間:** May 24, 2026
-
----
-### 機器人跪在光之靈前
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個以聖經主題為靈感的影片動畫提示詞，描繪機器人跪在光之靈面前的場景。
-
-#### 📝 提示詞
-
-```
-生成更多編輯：機器人先站著，然後跪在光之靈面前……有敬虔的外貌，卻背了敬虔的實意；這等人你要躲開。提摩太後書 3:5
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d2b94d6cbe9d3ab7c3d3841c47c25b6c/thumbnails/thumbnail.jpg" width="600" alt="機器人跪在光之靈前">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5247)**
-
-**作者:** [Sas](https://x.com/SaSHeaven26) | **來源:** [Link](https://x.com/SaSHeaven26/status/2058515952812110217) | **發布時間:** May 24, 2026
-
----
-### 繁榮的火星殖民地 Afela
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個極其詳細的提示詞，用於生成位於穹頂之下、充滿未來感的火星城市，場景包含 Cybertruck、Optimus 機器人與 Starships。
-
-#### 📝 提示詞
-
-```
-一幅生動且超逼真的畫面，展現了位於巨大透明穹頂下繁榮的火星殖民地。火星風的聲音在行星塵土飛揚的褐色地表上迴盪。在名為 Afela 的穹頂城市內，可以看到男男女女正在執行各種任務。充滿未來感的小商店點綴在鋼鐵道路上，色彩繽紛。高聳入雲的建築在陽光的照射下閃閃發光，宛如設計精美且優雅的藝術哨兵。各種顏色的 Tesla Cybertruck 在多條道路上行駛。Tesla Optimus 機器人穿梭在人類之間，執行著園藝、種植植被或單純陪伴孩子玩耍等各種任務。在穹頂城市外，設有多個發射台，Starships 每天在此起降。整座城市在陽光下閃耀著璀璨的光芒。
-
-黃金時刻逆光、緩慢推軌鏡頭、快速平移、鏡頭向左移動、大氣景深、體積光、視差效果、發光效果、交叉淡入淡出、高解析度、原生音訊生成、--ar 16:9，
-無對話，無文字。「Star Trek」冒險風格
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60516030fda1a22544a41a3f10906249/thumbnails/thumbnail.jpg" width="600" alt="繁榮的火星殖民地 Afela">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5244)**
-
-**作者:** [Kim Maria](https://x.com/KimMari46054539) | **來源:** [Link](https://x.com/KimMari46054539/status/2058501592060448889) | **發布時間:** May 24, 2026
-
----
-### 電影感宇宙縮放
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個用於製作緩慢、細膩的電影感鏡頭縮放的影片生成提示詞，畫面聚焦於凝視宇宙的主體。
-
-#### 📝 提示詞
-
-```
-緩慢且細膩的電影感鏡頭縮放動作，主體正在凝視宇宙，充滿啟發性……
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06e6075a98a93995fa25d3c304646e15/thumbnails/thumbnail.jpg" width="600" alt="電影感宇宙縮放">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5248)**
-
-**作者:** [XVegasBabe](https://x.com/XVegasbabes) | **來源:** [Link](https://x.com/XVegasbabes/status/2058449681529852336) | **發布時間:** May 24, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2240,6 +2238,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-06-04T04:58:40.019Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-06-04T11:34:30.685Z</sub>
 
 </div>

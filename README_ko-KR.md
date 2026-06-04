@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **1740** |
+| 📝 총 프롬프트 수 | **1746** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-06-04** |
 
@@ -189,6 +189,121 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 바로크 양식의 드라마틱한 변환
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 바로크 양식의 드라마틱한 영상 변환을 생성하기 위한 상세 프롬프트로, 연극적인 조명과 화려한 디테일에 중점을 둡니다.
+
+#### 📝 프롬프트
+
+```
+바로크 양식, 강렬한 감정, 연극적인 조명, 화려한 웅장함, 거울아, 거울아...
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2062322815571800064/pu/img/e2qZXMIDNbccuXuT.jpg" width="600" alt="바로크 양식의 드라마틱한 변환">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5676)**
+
+**작성자:** [Tina ✨](https://x.com/Tina22_2) | **출처:** [Link](https://x.com/Tina22_2/status/2062322843833036921) | **게시일:** Jun 3, 2026
+
+---
+### 에테리얼 네오 소울 포레스트 댄스
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 안개 낀 숲속에서 빛나는 뿔을 가진 여성이 디지털 불꽃에 둘러싸여 춤을 추는 모습을 담은 시네마틱 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+은은하게 빛나는 사슴 뿔을 가진 우아한 흑인 여성, 안개 낀 황혼의 숲에서 맨발로 춤을 추는 모습, 은빛 디지털 코드 불꽃이 로맨틱하게 주변을 감싸는 연출, 따뜻한 파스텔 톤의 빛, 네오 소울 앨범 커버 스타일, 시네마틱 소프트 포커스, 정사각형 포맷
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062211726016413699/img/WLzHj1kfFzCzOfi3.jpg" width="600" alt="에테리얼 네오 소울 포레스트 댄스">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5671)**
+
+**작성자:** [Alyssa Nicole Art](https://x.com/alyssanicoleart) | **출처:** [Link](https://x.com/alyssanicoleart/status/2062211781116985709) | **게시일:** Jun 3, 2026
+
+---
+### 화염과 함께하는 악마적 변신
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 불타는 눈과 위협적인 웃음소리를 내며 악마로 변신하는 모습을 담은 드라마틱한 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+새로운 존재가 악마로 변할 때 어떤 일이 일어나는지 보여주는 사진을 얻었습니다. 그리고 “너는 공짜로 일하거나 죽게 될 것이다”라고 외쳤습니다. 그는 눈에서 불꽃을 내뿜으며 악마처럼 사악하게 웃습니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062153020251529216/img/du8i_dfaHujGJZ1O.jpg" width="600" alt="화염과 함께하는 악마적 변신">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5674)**
+
+**작성자:** [the_light](https://x.com/the_light35) | **출처:** [Link](https://x.com/the_light35/status/2062153074374766919) | **게시일:** Jun 3, 2026
+
+---
+### 몬터레이 베이 수족관 (Monterey Bay Aquarium) 네온 물고기 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 몬터레이 베이 수족관의 심해 전시관에서 네온 물고기를 관람하는 캐릭터들의 모습을 담은 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+몬터레이 베이 수족관의 심해 전시관에서 네온 물고기를 관람하는 LilX와 Scouts
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062118186640924672/img/yY4e2lNXOkqnRojh.jpg" width="600" alt="몬터레이 베이 수족관 (Monterey Bay Aquarium) 네온 물고기 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5675)**
+
+**작성자:** [Jean](https://x.com/SpaceScoutsIntl) | **출처:** [Link](https://x.com/SpaceScoutsIntl/status/2062118252386631705) | **게시일:** Jun 3, 2026
+
+---
+### Space Scouts and Sea Lions 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 푸른 하늘과 바다 소리가 어우러진 해안가 바다사자 서식지를 내려다보는 Space Scouts의 시네마틱 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+바다사자 서식지가 내려다보이는 산책로 위의 Space Scouts, 산책로를 가로질러 달리는 잭래빗 엄마와 새끼, 머리 위를 날아다니는 새들, 아름다운 날씨와 푸른 하늘, 평화로운 바다 소리
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062117007097839616/img/YerpIf-C72647kUD.jpg" width="600" alt="Space Scouts and Sea Lions 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5673)**
+
+**작성자:** [Jean](https://x.com/SpaceScoutsIntl) | **출처:** [Link](https://x.com/SpaceScoutsIntl/status/2062117104061644940) | **게시일:** Jun 3, 2026
+
+---
+### 인어와 심술궂은 물고기의 협력
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 인어와 심술궂은 물고기가 어부의 그물에서 탈출하기 위해 어쩔 수 없이 협력해야 하는 영상 장면을 위한 내러티브 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+모두
+심술궂은 물고기와 인어가 어부의 그물에 갇히게 되고, 그들은 자유를 되찾기 위해 서로 친절하게 대하며 친구가 되어 힘을 합쳐야 합니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062073885353242624/img/6g8Cujaq11hK4q8R.jpg" width="600" alt="인어와 심술궂은 물고기의 협력">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5672)**
+
+**작성자:** [Liz](https://x.com/LSage11977725) | **출처:** [Link](https://x.com/LSage11977725/status/2062074055876911125) | **게시일:** Jun 3, 2026
+
+---
 ### 패션 모델 스튜디오 인물 사진
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2062,123 +2177,6 @@ Optimus 공장을 지키는 실물 크기의 Codex 사자 오토마톤, 빛나�
 **작성자:** [Katherine Martin](https://x.com/KatherineM40071) | **출처:** [Link](https://x.com/KatherineM40071/status/2058651866909585535) | **게시일:** May 24, 2026
 
 ---
-### Identity Locked Image to Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 참조 이미지로부터 비디오를 생성할 때, 절대적인 얼굴 정체성을 유지하고 변형을 방지하기 위한 Grok Imagine 기술 지침입니다.
-
-#### 📝 프롬프트
-
-```
-Image-to-Video: 참조 이미지를 기본 정체성 프레임으로 사용하십시오. 전체 시퀀스에 걸쳐 얼굴 정체성을 절대적인 우선순위로 고정하십시오. 동작보다 얼굴 정체성을 우선시하십시오. 어떠한 변형, 얼굴 일그러짐, 재해석도 허용되지 않습니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d345d7b12220a2a1ebd4f166c9340089/thumbnails/thumbnail.jpg" width="600" alt="Identity Locked Image to Video">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5240)**
-
-**작성자:** [Juan Torrez](https://x.com/jcwarcry1) | **출처:** [Link](https://x.com/jcwarcry1/status/2058639654530715699) | **게시일:** May 24, 2026
-
----
-### 골든 아워의 영화 같은 정원 산책
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 골든 아워의 햇살 가득한 꽃 정원을 걷는 여성의 모습을 사실적인 질감으로 담아낸 고품질 시네마틱 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-초현실적인 시네마틱 영상, 30fps, 포토리얼리스틱 8K. 긴 웨이브 머리에 흰색 선드레스와 밀짚모자를 쓴 20대 중반의 아름다운 여성이 골든 아워의 햇살이 내리쬐는 푸른 정원을 맨발로 걷고 있습니다. 나뭇잎 사이로 스며드는 부드럽고 따스한 햇살이 자연스러운 보케 효과를 만들어냅니다. 그녀는 장미, 데이지, 라벤더가 가득한 화단으로 다가가며 부드럽게 미소 짓습니다. 중간 거리에서 그녀를 따라가는 매끄러운 트래킹 샷. 자연스러운 산들바람에 머리카락과 드레스가 살랑입니다. 매우 상세한 피부 질감, 사실적인 옷감의 움직임, 나뭇잎에 맺힌 이슬방울까지 생생한 정원 환경. 조명과 캐릭터 외형의 완벽한 연속성.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/62a5e3340fd6a96cd4aa79db0b754cbf/thumbnails/thumbnail.jpg" width="600" alt="골든 아워의 영화 같은 정원 산책">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5250)**
-
-**작성자:** [Shivam](https://x.com/QuantumPitstop) | **출처:** [Link](https://x.com/QuantumPitstop/status/2058600445799747703) | **게시일:** May 24, 2026
-
----
-### 사이버 예언자 명상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 명상 중 진동을 내뿜는 사이버 예언자를 위한 영상 생성 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-명상하며 온몸에서 6Hz 진동을 내뿜는 사이버 예언자를 보여줘. 발현 중 ❤️🕺
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/74696e95cf542ccab3a2fed8bb2b8e8e/thumbnails/thumbnail.jpg" width="600" alt="사이버 예언자 명상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5246)**
-
-**작성자:** [Cyber Prophet](https://x.com/MOONVance) | **출처:** [Link](https://x.com/MOONVance/status/2058555858930311552) | **게시일:** May 24, 2026
-
----
-### 빛 앞에 무릎 꿇은 로봇
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 성경적 주제에서 영감을 받아 빛의 존재 앞에 무릎 꿇는 로봇을 묘사한 비디오 애니메이션 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-더 많은 편집 생성: 로봇이 서 있다가 빛의 존재 앞에 무릎을 꿇는다 .... 경건의 모양은 있으나 경건의 능력은 부인하니 이 같은 자들에게서 네가 돌아서라 . 디모데후서 3장 5절
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d2b94d6cbe9d3ab7c3d3841c47c25b6c/thumbnails/thumbnail.jpg" width="600" alt="빛 앞에 무릎 꿇은 로봇">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5247)**
-
-**작성자:** [Sas](https://x.com/SaSHeaven26) | **출처:** [Link](https://x.com/SaSHeaven26/status/2058515952812110217) | **게시일:** May 24, 2026
-
----
-### 번영하는 화성 식민지 Afela
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 돔 아래 미래형 화성 도시를 묘사하는 매우 상세한 프롬프트로, Cybertruck, Optimus 로봇, Starship이 포함되어 있습니다.
-
-#### 📝 프롬프트
-
-```
-거대한 투명 수정 돔 아래 번영하는 화성 식민지를 담은 생생하고 초현실적인 이미지. 화성의 바람 소리가 행성의 먼지 섞인 갈색 지형을 가로질러 울려 퍼집니다. Afela라는 이름의 돔형 도시 내부에서는 남녀가 다양한 업무를 수행하는 모습이 보입니다. 미래지향적인 작은 상점들이 다채로운 색상으로 강철 도로 곳곳에 자리 잡고 있습니다. 태양열에 빛나는 거대한 고층 빌딩들은 예술적인 파수꾼처럼 아름답고 독창적인 디자인을 뽐냅니다. 다양한 색상의 Tesla Cybertruck들이 수많은 도로를 달리고 있습니다. Tesla Optimus 로봇들은 인간들 사이를 걸어 다니며 정원 가꾸기, 식물 재배, 혹은 아이들과 놀아주는 등 다양한 작업을 수행합니다. 돔형 도시 밖에는 Starship이 매일 이착륙하는 다양한 발사대가 있습니다. 도시는 태양 빛을 받아 눈부시게 빛납니다.
-
-골든 아워 역광, 슬로우 돌리 인, 휩 팬 무빙, 왼쪽으로 카메라 이동, 대기 심도, 볼륨 조명, 시차 효과, 글로우 효과, 크로스 페이드, 고해상도, 네이티브 오디오 생성, --ar 16:9,
-대사 없음, 텍스트 없음. " Star Trek " 어드벤처
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60516030fda1a22544a41a3f10906249/thumbnails/thumbnail.jpg" width="600" alt="번영하는 화성 식민지 Afela">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5244)**
-
-**작성자:** [Kim Maria](https://x.com/KimMari46054539) | **출처:** [Link](https://x.com/KimMari46054539/status/2058501592060448889) | **게시일:** May 24, 2026
-
----
-### 시네마틱 코스모스 줌인
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 우주를 응시하는 피사체를 향해 느리고 미묘하게 다가가는 시네마틱 카메라 줌인 영상 생성 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-느리고 미묘한 시네마틱 카메라 줌인 움직임, 우주를 바라보는 피사체, 영감을 주는...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06e6075a98a93995fa25d3c304646e15/thumbnails/thumbnail.jpg" width="600" alt="시네마틱 코스모스 줌인">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5248)**
-
-**작성자:** [XVegasBabe](https://x.com/XVegasbabes) | **출처:** [Link](https://x.com/XVegasbabes/status/2058449681529852336) | **게시일:** May 24, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2240,6 +2238,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-04T04:58:42.521Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-04T11:34:33.894Z</sub>
 
 </div>

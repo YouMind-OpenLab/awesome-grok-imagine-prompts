@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **1740** |
+| 📝 提示词总数 | **1746** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-06-04** |
 
@@ -189,6 +189,121 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 巴洛克风格戏剧化转变
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一份用于生成巴洛克风格戏剧化视频转变的详细提示词，重点突出舞台灯光与华丽细节。
+
+#### 📝 提示词
+
+```
+巴洛克风格，强烈的情感，戏剧性的光影，华丽的宏伟感，魔镜，魔镜……
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2062322815571800064/pu/img/e2qZXMIDNbccuXuT.jpg" width="600" alt="巴洛克风格戏剧化转变">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5676)**
+
+**作者:** [Tina ✨](https://x.com/Tina22_2) | **来源:** [Link](https://x.com/Tina22_2/status/2062322843833036921) | **发布时间:** Jun 3, 2026
+
+---
+### 空灵的新灵魂乐森林之舞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段电影质感的视频提示词，描绘了一位头戴发光鹿角的女性在雾气缭绕的森林中起舞，周围环绕着数字火花。
+
+#### 📝 提示词
+
+```
+优雅的非裔美国女性，头戴隐约发光的鹿角，在雾气弥漫的暮色森林中赤足起舞，银色的数字代码火花在她周围浪漫地交织，温暖的柔和光晕，新灵魂乐专辑封面，电影级柔焦效果，方形画幅
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062211726016413699/img/WLzHj1kfFzCzOfi3.jpg" width="600" alt="空灵的新灵魂乐森林之舞">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5671)**
+
+**作者:** [Alyssa Nicole Art](https://x.com/alyssanicoleart) | **来源:** [Link](https://x.com/alyssanicoleart/status/2062211781116985709) | **发布时间:** Jun 3, 2026
+
+---
+### 烈焰恶魔变身
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段充满戏剧性的视频提示词，描绘了双眼喷火、发出邪恶笑声的恶魔变身过程。
+
+#### 📝 提示词
+
+```
+我得到了一张关于变身成恶魔后会发生什么的图片。它大喊着“你要么免费工作，要么去死”。它发出邪恶的笑声，火焰从眼球中喷射而出。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062153020251529216/img/du8i_dfaHujGJZ1O.jpg" width="600" alt="烈焰恶魔变身">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5674)**
+
+**作者:** [the_light](https://x.com/the_light35) | **来源:** [Link](https://x.com/the_light35/status/2062153074374766919) | **发布时间:** Jun 3, 2026
+
+---
+### Monterey Bay Aquarium 霓虹鱼视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段视频提示词，展示了角色们在 Monterey Bay Aquarium 深海展区观看霓虹鱼的场景。
+
+#### 📝 提示词
+
+```
+Monterey Bay Aquarium LilX 和 Scouts 在深海展区观看霓虹鱼
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062118186640924672/img/yY4e2lNXOkqnRojh.jpg" width="600" alt="Monterey Bay Aquarium 霓虹鱼视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5675)**
+
+**作者:** [Jean](https://x.com/SpaceScoutsIntl) | **来源:** [Link](https://x.com/SpaceScoutsIntl/status/2062118252386631705) | **发布时间:** Jun 3, 2026
+
+---
+### 太空侦察兵与海狮视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段电影质感的视频提示词，展示了太空侦察兵俯瞰海岸边海狮育婴区的场景，伴有蓝天和海洋的声音。
+
+#### 📝 提示词
+
+```
+太空侦察兵在小径上俯瞰海狮育婴区，兔妈妈和兔宝宝跑过小径，鸟儿在空中飞翔，天气晴朗，蓝天白云，伴有宁静的海洋声音
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062117007097839616/img/YerpIf-C72647kUD.jpg" width="600" alt="太空侦察兵与海狮视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5673)**
+
+**作者:** [Jean](https://x.com/SpaceScoutsIntl) | **来源:** [Link](https://x.com/SpaceScoutsIntl/status/2062117104061644940) | **发布时间:** Jun 3, 2026
+
+---
+### 美人鱼与恶霸鱼的合作
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个视频场景的叙事提示词，讲述美人鱼和恶霸鱼被迫合作以逃离渔网的故事。
+
+#### 📝 提示词
+
+```
+全部
+恶霸鱼和美人鱼被困在渔网中，他们必须友善相待，结为朋友并共同努力才能脱身。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062073885353242624/img/6g8Cujaq11hK4q8R.jpg" width="600" alt="美人鱼与恶霸鱼的合作">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5672)**
+
+**作者:** [Liz](https://x.com/LSage11977725) | **来源:** [Link](https://x.com/LSage11977725/status/2062074055876911125) | **发布时间:** Jun 3, 2026
+
+---
 ### 时尚模特影棚人像
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2061,123 +2176,6 @@ the cups is slowly rotating, seamless loop, nothing else moves, no music melt ov
 **作者:** [Katherine Martin](https://x.com/KatherineM40071) | **来源:** [Link](https://x.com/KatherineM40071/status/2058651866909585535) | **发布时间:** May 24, 2026
 
 ---
-### 保持面部特征的图生视频 (Identity Locked Image to Video)
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是一份针对 Grok Imagine 的技术指令，旨在确保视频生成过程中绝对保持面部特征一致，并防止参考图像在生成视频时出现变形。
-
-#### 📝 提示词
-
-```
-图生视频 (Image-to-Video)：将参考图像作为主要身份帧。在整个序列中以绝对优先级锁定面部特征。面部特征优先级高于动作。严禁变形、面部漂移或任何形式的重新解读。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d345d7b12220a2a1ebd4f166c9340089/thumbnails/thumbnail.jpg" width="600" alt="保持面部特征的图生视频 (Identity Locked Image to Video)">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5240)**
-
-**作者:** [Juan Torrez](https://x.com/jcwarcry1) | **来源:** [Link](https://x.com/jcwarcry1/status/2058639654530715699) | **发布时间:** May 24, 2026
-
----
-### 电影感黄金时刻花园漫步
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个高质量的电影感提示词，描述了一位女性在黄金时刻漫步于阳光明媚的花园，画面具有逼真的质感。
-
-#### 📝 提示词
-
-```
-超写实电影感视频，30fps，照片级 8K 画质。一位 20 多岁的美丽年轻女性，留着波浪长卷发，身穿轻盈的白色夏日连衣裙，戴着草帽，赤脚走进一个郁郁葱葱、阳光明媚的家庭花园，时值黄金时刻。柔和温暖的阳光透过叶片洒下，营造出自然的虚化效果。她微笑着走向一片种满玫瑰、雏菊和薰衣草的鲜艳花坛。平滑的追踪镜头从中距离跟拍。自然微风拂动她的秀发和裙摆。高度细腻的皮肤纹理、逼真的布料动态，以及带有叶片露珠的真实花园环境。光影与人物外观保持完美连贯。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/62a5e3340fd6a96cd4aa79db0b754cbf/thumbnails/thumbnail.jpg" width="600" alt="电影感黄金时刻花园漫步">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5250)**
-
-**作者:** [Shivam](https://x.com/QuantumPitstop) | **来源:** [Link](https://x.com/QuantumPitstop/status/2058600445799747703) | **发布时间:** May 24, 2026
-
----
-### 赛博先知冥想
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个关于赛博先知在冥想时散发振动的视频生成提示词。
-
-#### 📝 提示词
-
-```
-向我展示赛博先知正在冥想，并从全身散发出 6Hz 的振动。显化 ❤️🕺
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/74696e95cf542ccab3a2fed8bb2b8e8e/thumbnails/thumbnail.jpg" width="600" alt="赛博先知冥想">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5246)**
-
-**作者:** [Cyber Prophet](https://x.com/MOONVance) | **来源:** [Link](https://x.com/MOONVance/status/2058555858930311552) | **发布时间:** May 24, 2026
-
----
-### 机器人跪拜光之灵
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个视频动画提示词，描绘了机器人跪拜在光之灵面前的场景，灵感来源于圣经主题。
-
-#### 📝 提示词
-
-```
-生成更多：机器人先是站立，随后跪拜在光之灵面前……有敬虔的外貌，却背了敬虔的实意，这等人你要躲开。——《提摩太后书》3:5
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d2b94d6cbe9d3ab7c3d3841c47c25b6c/thumbnails/thumbnail.jpg" width="600" alt="机器人跪拜光之灵">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5247)**
-
-**作者:** [Sas](https://x.com/SaSHeaven26) | **来源:** [Link](https://x.com/SaSHeaven26/status/2058515952812110217) | **发布时间:** May 24, 2026
-
----
-### 繁荣的火星殖民地 Afela
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个极其详尽的提示词，用于生成未来派火星穹顶城市，包含 Cybertruck、Optimus 机器人和 Starship。
-
-#### 📝 提示词
-
-```
-一幅生动且超写实的画面，展现了位于巨大透明穹顶下繁荣的火星殖民地。火星风的呼啸声在行星尘土飞扬的褐色地表上回荡。在名为 Afela 的穹顶城市内，可以看到男男女女正在执行各种任务。充满未来感的小店点缀在色彩斑斓的钢铁道路旁。高耸入云的大楼在阳光的照射下熠熠生辉，宛如设计精美、充满艺术感的哨兵。各种颜色的 Tesla Cybertruck 在多条道路上穿梭。Tesla Optimus 机器人穿梭在人群中，执行着各种任务，无论是园艺、种植植被，还是仅仅陪伴孩子们玩耍。在穹顶城市外，有多个发射台，Starships 每天在此起降。整座城市在阳光下闪耀着璀璨的光芒。
-
-黄金时刻背光，缓慢推拉镜头，快速平移，镜头左移，大气景深，体积光，视差效果，发光效果，交叉淡入淡出，高分辨率，原生音频生成，--ar16:9，
-无对白，无文字。“ Star Trek ” 冒险
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60516030fda1a22544a41a3f10906249/thumbnails/thumbnail.jpg" width="600" alt="繁荣的火星殖民地 Afela">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5244)**
-
-**作者:** [Kim Maria](https://x.com/KimMari46054539) | **来源:** [Link](https://x.com/KimMari46054539/status/2058501592060448889) | **发布时间:** May 24, 2026
-
----
-### 电影感宇宙推镜头
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于生成视频的提示词，旨在实现缓慢、细腻的电影感镜头推近效果，拍摄主体正凝视着宇宙。
-
-#### 📝 提示词
-
-```
-缓慢细腻的电影感镜头推近运动，主体正在凝视宇宙，充满灵感……
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06e6075a98a93995fa25d3c304646e15/thumbnails/thumbnail.jpg" width="600" alt="电影感宇宙推镜头">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5248)**
-
-**作者:** [XVegasBabe](https://x.com/XVegasbabes) | **来源:** [Link](https://x.com/XVegasbabes/status/2058449681529852336) | **发布时间:** May 24, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2239,6 +2237,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-06-04T04:58:38.722Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-06-04T11:34:29.305Z</sub>
 
 </div>
