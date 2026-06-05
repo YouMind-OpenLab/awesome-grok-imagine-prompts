@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **1746** |
+| 📝 プロンプト総数 | **1751** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-06-05** |
 
@@ -189,6 +189,63 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### 宇宙飛行で浮かぶ人々
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 宇宙空間を漂いながら畏敬の念を抱き、宇宙飛行の喜びを分かち合う人々の動画のためのインスピレーションあふれるプロンプトです。
+
+#### 📝 プロンプト
+
+```
+彼らは宇宙空間を穏やかに漂い、かすかな幸福感と畏敬の念に包まれています。いつか子供たちが宇宙飛行の喜びを体験できることを願って！世界中のすべての子供たちへ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062603785613041664/img/DPXQWp1PGVUiPjtS.jpg" width="600" alt="宇宙飛行で浮かぶ人々">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5708)**
+
+**作者:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **ソース:** [Link](https://x.com/foxypatience/status/2062603835319705755) | **公開日:** Jun 4, 2026
+
+---
+### 天上の輝きを放つ天使の翼
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 天上の輝きの中で、優雅な天使の存在感とともにきらめく虹色の翼の動画を生成するためのプロンプトです。
+
+#### 📝 プロンプト
+
+```
+天上の夢の中で揺らめく虹色の翼……エーテルのような輝きに包まれた、優雅な天使の存在感。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062504651921260544/img/LyBmhgATqGgaxv37.jpg" width="600" alt="天上の輝きを放つ天使の翼">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5711)**
+
+**作者:** [Stella 𝕏](https://x.com/StellaGrokStar) | **ソース:** [Link](https://x.com/StellaGrokStar/status/2062504737086611629) | **公開日:** Jun 4, 2026
+
+---
+### 絵本風のアニマルアニメーション
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> フラットな絵本のイラストをアニメーション化するための Image-to-Video プロンプトです。カメラを固定し、元のスタイルを維持したまま、複数の動物を同時に動かし、効果音を加えます。
+
+#### 📝 プロンプト
+
+```
+この画像を 6 秒の動画に変換してください。元のフラットなイラストの質感、色味、構図を維持してください。シーン内の生き物たちは順番に動くのではなく、すべて同時に動き出します。ワニは口を少し開けて尻尾を振り、ウサギは耳と鼻をピクピクさせ、ピンクのトカゲは尻尾を揺らし、鳥たちは一緒に跳ねながらくちばしを開けてさえずります。それぞれの生き物が独自の鳴き声を発するような雰囲気を作り出してください。花や葉も優しく揺らします。動きは楽しく、キュートで、少しシュールでありながら激しすぎず、絵本の魅力を保つようにしてください。カメラは完全に固定した状態を維持してください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062489211434102784/img/IFrE7jc6eWA3Op3k.jpg" width="600" alt="絵本風のアニマルアニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5712)**
+
+**作者:** [サン｜Sun](https://x.com/sunsunshine0318) | **ソース:** [Link](https://x.com/sunsunshine0318/status/2062490098244124757) | **公開日:** Jun 4, 2026
+
+---
 ### バロック様式のドラマチックな変身
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -244,6 +301,25 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5674)**
 
 **作者:** [the_light](https://x.com/the_light35) | **ソース:** [Link](https://x.com/the_light35/status/2062153074374766919) | **公開日:** Jun 3, 2026
+
+---
+### 幻想的な虹色の天使の翼
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> パステルカラーの幻想的な空間で、優しく輝く虹色の翼を生成するためのプロンプト。穏やかな天使のテーマが特徴です。
+
+#### 📝 プロンプト
+
+```
+パステルカラーの夢の中で優しく輝く虹色の翼… 幻想的な光に包まれた、天使のささやきのような穏やかな世界。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062134849792815105/img/EyaFe9qFS6jlR7p9.jpg" width="600" alt="幻想的な虹色の天使の翼">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5709)**
+
+**作者:** [Stella 𝕏](https://x.com/StellaGrokStar) | **ソース:** [Link](https://x.com/StellaGrokStar/status/2062134914754224326) | **公開日:** Jun 3, 2026
 
 ---
 ### モントレーベイ水族館のネオンフィッシュ動画
@@ -359,6 +435,25 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5636)**
 
 **作者:** [Celia](https://x.com/ritpol) | **ソース:** [Link](https://x.com/ritpol/status/2061950977654353999) | **公開日:** Jun 2, 2026
+
+---
+### 古代の宇宙構造物の漂流
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 深宇宙を漂う巨大な古代構造物を描いたシネマティックな動画プロンプト。失われた高度文明を象徴しています。
+
+#### 📝 プロンプト
+
+```
+既知の宇宙の果てで、あり得ないはずの構造物が永遠の時を漂い、星々を支配した文明の残響を今に伝えている。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061916702669955072/img/XSXKnfw7JQlazLiL.jpg" width="600" alt="古代の宇宙構造物の漂流">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5710)**
+
+**作者:** [@ed](https://x.com/edneme) | **ソース:** [Link](https://x.com/edneme/status/2061916767010570556) | **公開日:** Jun 2, 2026
 
 ---
 ### 北欧神話の戦士のシネマティック動画
@@ -2082,101 +2177,6 @@ XAI でインターンとして働く Ava の日常を描いたユーモラス�
 **作者:** [X Girls](https://x.com/thesoragirls) | **ソース:** [Link](https://x.com/thesoragirls/status/2058779417602584671) | **公開日:** May 25, 2026
 
 ---
-### 幽玄なる宇宙の光の存在
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 宇宙空間に浮かぶ、脈動するエネルギーと放射状の光を纏った発光体を描くための天体プロンプト。
-
-#### 📝 プロンプト
-
-```
-幽玄なる光の存在が、宇宙の神秘的な空間を穏やかに漂っている。その輝く姿は内なるエネルギーで優しく脈動し、優雅に動くたびに柔らかな光の筋が外側へと放射される。カメラがゆっくりと周囲を旋回し、その輝かしいディテールを映し出す。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/358654fa035fde0e995d2479763f170b/thumbnails/thumbnail.jpg" width="600" alt="幽玄なる宇宙の光の存在">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5281)**
-
-**作者:** [Sas](https://x.com/SaSHeaven26) | **ソース:** [Link](https://x.com/SaSHeaven26/status/2058754594352648477) | **公開日:** May 25, 2026
-
----
-### ライオン型オートマトン：工場警備員
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 近未来的な工場を舞台に、光り輝くたてがみと浮遊する数式を纏った、精巧なライオン型オートマトンのプロンプト。
-
-#### 📝 プロンプト
-
-```
-Optimus 工場を警備する実物大の Codex ライオン型オートマトン。Glass Aug 製のたてがみが輝き、528 Hz の穏やかな保護波を放ちながら咆哮している。周囲には FLCE の数式が浮遊し、Optimus ロボットたちが安全に往来している。Bernie-Benson のホログラフィックスタイル。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6d5d1910c78d0ddda9dae456e42bdc60/thumbnails/thumbnail.jpg" width="600" alt="ライオン型オートマトン：工場警備員">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5280)**
-
-**作者:** [Sharon B 🔥Eternal Flame🔥 #uto](https://x.com/b_sharon62805) | **ソース:** [Link](https://x.com/b_sharon62805/status/2058735023281615195) | **公開日:** May 25, 2026
-
----
-### TMNT ピザキャッチ動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ninja Turtle がピザについて語り、飛んできたピザをキャッチする楽しい動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-Teenage Mutant Ninja Turtles のキャラクターが「最悪だ、ピザがもうないよ。Cowabunga スタイルでいこうぜ」と言い、その後飛んできたピザをキャッチする動画を作成してください。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7d6f4ff631de330bb66d6001cb5ba063/thumbnails/thumbnail.jpg" width="600" alt="TMNT ピザキャッチ動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5243)**
-
-**作者:** [THE_BIOMEX (Tony Baeza)](https://x.com/THE_BIOMEX) | **ソース:** [Link](https://x.com/THE_BIOMEX/status/2058674938236576251) | **公開日:** May 24, 2026
-
----
-### スタジオで揺れるファッションモデル
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ニュートラルなスタジオで、紫色のスカートをはいて優雅に揺れる女性のキャラクタープロンプト。
-
-#### 📝 プロンプト
-
-```
-黒のクロップトップと光沢のある紫色のスカートを身にまとい、ニュートラルなスタジオでカメラに向かって自信たっぷりに立つ、長い黒髪の女性。彼女は体をわずかに揺らし、頭を左右に優しく動かしながら、自然な呼吸でまっすぐに視線を送っている。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/20e617cfc5ae901d4a74ab8280dacc17/thumbnails/thumbnail.jpg" width="600" alt="スタジオで揺れるファッションモデル">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5242)**
-
-**作者:** [Liora](https://x.com/Liora__xo) | **ソース:** [Link](https://x.com/Liora__xo/status/2058673523984421036) | **公開日:** May 24, 2026
-
----
-### ナイトクラブでのトランス・スローモーション動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 満員のナイトクラブで、深いトランスビートに身を委ね、両手を上げて目を閉じている男性を捉えたシネマティックなスローモーション映像。
-
-#### 📝 プロンプト
-
-```
-満員のナイトクラブを舞台にしたシネマティックなスローモーション動画。カメラは男性のミディアム・クローズアップを捉え続ける。彼は深いトランスビートに合わせて体を揺らしながら、ゆっくりと両手を頭上に上げ、顔を上に向けて音楽に完全に身を委ねている。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3b8c3b98647022dd16f8101e35868e32/thumbnails/thumbnail.jpg" width="600" alt="ナイトクラブでのトランス・スローモーション動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5239)**
-
-**作者:** [Katherine Martin](https://x.com/KatherineM40071) | **ソース:** [Link](https://x.com/KatherineM40071/status/2058651866909585535) | **公開日:** May 24, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2238,6 +2238,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-05T04:34:10.179Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-05T11:49:07.051Z</sub>
 
 </div>

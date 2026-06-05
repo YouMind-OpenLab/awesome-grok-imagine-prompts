@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **1746** |
+| 📝 총 프롬프트 수 | **1751** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-06-05** |
 
@@ -189,6 +189,63 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 우주 비행 중의 유영
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 우주를 유영하며 경이로움을 느끼는 사람들의 모습을 담은 영감을 주는 비디오 프롬프트로, 우주 비행의 즐거움을 기념합니다.
+
+#### 📝 프롬프트
+
+```
+그들은 우주를 부드럽게 유영하며 은은한 행복과 경이로움을 느끼고 있습니다. 언젠가 아이들이 우주 비행의 즐거움을 경험하기를 바라며! 전 세계의 모든 아이들에게
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062603785613041664/img/DPXQWp1PGVUiPjtS.jpg" width="600" alt="우주 비행 중의 유영">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5708)**
+
+**작성자:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **출처:** [Link](https://x.com/foxypatience/status/2062603835319705755) | **게시일:** Jun 4, 2026
+
+---
+### 천상의 빛을 내는 천사 날개
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 천상의 빛 속에서 우아한 천사의 존재감과 함께 반짝이는 무지갯빛 날개 영상을 생성하기 위한 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+천상의 꿈속에서 반짝이는 무지갯빛 날개… 신비로운 빛에 감싸인 우아한 천사의 모습.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062504651921260544/img/LyBmhgATqGgaxv37.jpg" width="600" alt="천상의 빛을 내는 천사 날개">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5711)**
+
+**작성자:** [Stella 𝕏](https://x.com/StellaGrokStar) | **출처:** [Link](https://x.com/StellaGrokStar/status/2062504737086611629) | **게시일:** Jun 4, 2026
+
+---
+### 그림책 동물 애니메이션
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 평면적인 그림책 일러스트에 생동감을 불어넣는 이미지 투 비디오(image-to-video) 프롬프트입니다. 고정된 카메라와 원본 스타일을 유지하면서 여러 동물이 동시에 움직이고 효과음이 포함되도록 합니다.
+
+#### 📝 프롬프트
+
+```
+이 이미지를 6초짜리 영상으로 변환해 주세요. 원본 평면 일러스트의 질감, 색상, 구도를 그대로 유지해야 합니다. 장면 속 동물들이 순차적으로 움직이는 것이 아니라, 모두 동시에 움직이기 시작해야 합니다. 악어는 입을 살짝 벌리고 꼬리를 흔들며, 토끼는 귀와 코를 실룩거리고, 분홍색 도마뱀은 꼬리를 흔듭니다. 새들은 함께 깡충거리며 부리를 열어 지저귑니다. 각 동물이 고유한 소리를 내는 분위기를 연출해 주세요. 꽃과 잎사귀도 부드럽게 흔들려야 합니다. 움직임은 재미있고 귀여우며 약간 초현실적인 느낌이어야 하고, 너무 과하지 않게 그림책 특유의 매력을 보존해야 합니다. 카메라는 완전히 고정된 상태를 유지하세요.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062489211434102784/img/IFrE7jc6eWA3Op3k.jpg" width="600" alt="그림책 동물 애니메이션">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5712)**
+
+**작성자:** [サン｜Sun](https://x.com/sunsunshine0318) | **출처:** [Link](https://x.com/sunsunshine0318/status/2062490098244124757) | **게시일:** Jun 4, 2026
+
+---
 ### 바로크 양식의 드라마틱한 변환
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -244,6 +301,25 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5674)**
 
 **작성자:** [the_light](https://x.com/the_light35) | **출처:** [Link](https://x.com/the_light35/status/2062153074374766919) | **게시일:** Jun 3, 2026
+
+---
+### 에테리얼 이리데센트 엔젤 윙
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 파스텔 톤의 몽환적인 배경 속에서 부드럽게 빛나는 무지갯빛 날개를 담은 영상 생성용 프롬프트로, 온화한 천사 테마를 강조합니다.
+
+#### 📝 프롬프트
+
+```
+파스텔 빛 꿈속에서 부드럽게 빛나는 무지갯빛 날개… 에테리얼한 빛으로 감싸인 온화한 천사의 속삭임.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062134849792815105/img/EyaFe9qFS6jlR7p9.jpg" width="600" alt="에테리얼 이리데센트 엔젤 윙">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5709)**
+
+**작성자:** [Stella 𝕏](https://x.com/StellaGrokStar) | **출처:** [Link](https://x.com/StellaGrokStar/status/2062134914754224326) | **게시일:** Jun 3, 2026
 
 ---
 ### 몬터레이 베이 수족관 (Monterey Bay Aquarium) 네온 물고기 영상
@@ -359,6 +435,25 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5636)**
 
 **작성자:** [Celia](https://x.com/ritpol) | **출처:** [Link](https://x.com/ritpol/status/2061950977654353999) | **게시일:** Jun 2, 2026
+
+---
+### 고대 우주 구조물의 표류
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 심우주를 떠도는 거대하고 고대적인 구조물을 담은 시네마틱 비디오 프롬프트로, 잃어버린 고도 문명을 상징합니다.
+
+#### 📝 프롬프트
+
+```
+알려진 우주의 끝에서, 불가능해 보이는 구조물이 영겁의 시간 동안 표류하며 별들을 정복했던 문명의 메아리를 간직하고 있습니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061916702669955072/img/XSXKnfw7JQlazLiL.jpg" width="600" alt="고대 우주 구조물의 표류">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5710)**
+
+**작성자:** [@ed](https://x.com/edneme) | **출처:** [Link](https://x.com/edneme/status/2061916767010570556) | **게시일:** Jun 2, 2026
 
 ---
 ### 북유럽 신화 전사 시네마틱 영상
@@ -2082,101 +2177,6 @@ XAI 인턴 Ava의 하루를 담은 유쾌한 영상으로, 개발자가 아닌 A
 **작성자:** [X Girls](https://x.com/thesoragirls) | **출처:** [Link](https://x.com/thesoragirls/status/2058779417602584671) | **게시일:** May 25, 2026
 
 ---
-### 천상의 우주 빛의 존재
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 우주 공간을 떠다니며 맥동하는 에너지와 빛을 발산하는 빛의 존재를 위한 천상의 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-천상의 빛의 존재가 우주 공간을 평온하게 떠다니고 있습니다. 빛나는 형체는 내면의 에너지와 함께 부드럽게 맥동하며, 우아하게 움직일 때마다 부드러운 빛줄기가 밖으로 퍼져 나갑니다. 카메라가 천천히 주위를 회전하며 그 찬란한 디테일을 드러냅니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/358654fa035fde0e995d2479763f170b/thumbnails/thumbnail.jpg" width="600" alt="천상의 우주 빛의 존재">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5281)**
-
-**작성자:** [Sas](https://x.com/SaSHeaven26) | **출처:** [Link](https://x.com/SaSHeaven26/status/2058754594352648477) | **게시일:** May 25, 2026
-
----
-### 사자 오토마톤 공장 경비원
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 빛나는 갈기와 떠다니는 수식이 돋보이는 미래형 공장을 배경으로 한 정교한 기계 사자 오토마톤 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-Optimus 공장을 지키는 실물 크기의 Codex 사자 오토마톤, 빛나는 Glass Aug 갈기와 528 Hz의 부드러운 보호 파동을 내뿜으며 포효함, FLCE 수식이 공중에 떠다니고 Optimus 로봇들이 그 주변을 안전하게 이동함, Bernie-Benson 홀로그램 스타일.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6d5d1910c78d0ddda9dae456e42bdc60/thumbnails/thumbnail.jpg" width="600" alt="사자 오토마톤 공장 경비원">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5280)**
-
-**작성자:** [Sharon B 🔥Eternal Flame🔥 #uto](https://x.com/b_sharon62805) | **출처:** [Link](https://x.com/b_sharon62805/status/2058735023281615195) | **게시일:** May 25, 2026
-
----
-### TMNT 피자 캐치 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 닌자 거북이가 피자에 대해 이야기하다가 날아오는 피자를 받아내는 재미있는 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-닌자 거북이(Teenage Mutant Ninja Turtles)가 "이런, 피자가 다 떨어졌네. 카와붕가(Cowabunga) 스타일로 가보자"라고 말한 뒤, 날아오는 피자를 받아내는 영상을 만들어 주세요.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7d6f4ff631de330bb66d6001cb5ba063/thumbnails/thumbnail.jpg" width="600" alt="TMNT 피자 캐치 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5243)**
-
-**작성자:** [THE_BIOMEX (Tony Baeza)](https://x.com/THE_BIOMEX) | **출처:** [Link](https://x.com/THE_BIOMEX/status/2058674938236576251) | **게시일:** May 24, 2026
-
----
-### 스튜디오 패션 모델의 흔들리는 모습
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 중립적인 스튜디오 배경에서 보라색 치마를 입고 은은하게 몸을 흔드는 여성 캐릭터를 위한 상세 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-긴 흑발의 여성이 중립적인 스튜디오에서 카메라를 정면으로 응시하며 자신감 있게 서 있습니다. 그녀는 검은색 크롭탑과 반짝이는 보라색 치마를 입고 있습니다. 그녀는 몸을 은은하게 흔들고, 고개를 좌우로 부드럽게 돌리며, 자연스러운 호흡과 함께 카메라를 계속 응시합니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/20e617cfc5ae901d4a74ab8280dacc17/thumbnails/thumbnail.jpg" width="600" alt="스튜디오 패션 모델의 흔들리는 모습">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5242)**
-
-**작성자:** [Liora](https://x.com/Liora__xo) | **출처:** [Link](https://x.com/Liora__xo/status/2058673523984421036) | **게시일:** May 24, 2026
-
----
-### 나이트클럽 트랜스 슬로우 모션 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 사람들로 가득 찬 나이트클럽에서 깊은 트랜스 비트에 빠져 두 팔을 들고 눈을 감은 채 몰입해 있는 남성의 모습을 담은 영화 같은 슬로우 모션 영상입니다.
-
-#### 📝 프롬프트
-
-```
-사람들로 가득 찬 나이트클럽을 배경으로 한 영화 같은 슬로우 모션 영상입니다. 카메라는 남성을 미디엄 클로즈업으로 비춥니다. 그는 깊은 트랜스 비트에 맞춰 몸을 흔들며 천천히 두 팔을 머리 위로 들어 올리고, 얼굴을 위로 향한 채 음악에 완전히 몰입해 있습니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3b8c3b98647022dd16f8101e35868e32/thumbnails/thumbnail.jpg" width="600" alt="나이트클럽 트랜스 슬로우 모션 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5239)**
-
-**작성자:** [Katherine Martin](https://x.com/KatherineM40071) | **출처:** [Link](https://x.com/KatherineM40071/status/2058651866909585535) | **게시일:** May 24, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2238,6 +2238,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-05T04:34:11.475Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-05T11:49:08.545Z</sub>
 
 </div>

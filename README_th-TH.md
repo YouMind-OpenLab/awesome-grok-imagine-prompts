@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1746** |
+| 📝 Total Prompts | **1751** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-05** |
 
@@ -189,6 +189,63 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### ล่องลอยในการเดินทางสู่อวกาศ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์ที่สร้างแรงบันดาลใจสำหรับวิดีโอของผู้คนที่กำลังล่องลอยผ่านอวกาศด้วยความตื่นตาตื่นใจ เพื่อเฉลิมฉลองความสุขของการเดินทางสู่อวกาศ
+
+#### 📝 Prompt
+
+```
+พวกเขากำลังล่องลอยอย่างแผ่วเบาผ่านห้วงอวกาศ ด้วยความสุขและความตื่นตาตื่นใจอย่างเปี่ยมล้น เพื่อหวังว่าเด็กๆ จะได้สัมผัสกับความสุขของการเดินทางสู่อวกาศในสักวันหนึ่ง! แด่เด็กๆ ทุกคนทั่วโลก
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062603785613041664/img/DPXQWp1PGVUiPjtS.jpg" width="600" alt="ล่องลอยในการเดินทางสู่อวกาศ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5708)**
+
+**Author:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **Source:** [Link](https://x.com/foxypatience/status/2062603835319705755) | **Published:** Jun 4, 2026
+
+---
+### ปีกนางฟ้าเปล่งประกายดั่งสรวงสวรรค์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่งสำหรับสร้างวิดีโอปีกสีรุ้งที่ส่องประกายด้วยความสง่างามดั่งนางฟ้าท่ามกลางแสงสว่างแห่งสรวงสวรรค์
+
+#### 📝 Prompt
+
+```
+ปีกสีรุ้งที่ส่องประกายในความฝันแห่งสรวงสวรรค์... ความสง่างามดั่งนางฟ้าที่โอบล้อมด้วยแสงอันบริสุทธิ์
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062504651921260544/img/LyBmhgATqGgaxv37.jpg" width="600" alt="ปีกนางฟ้าเปล่งประกายดั่งสรวงสวรรค์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5711)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2062504737086611629) | **Published:** Jun 4, 2026
+
+---
+### แอนิเมชันสัตว์ในหนังสือนิทานภาพ
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> พรอมต์สำหรับเปลี่ยนภาพนิ่งเป็นวิดีโอ เพื่อสร้างแอนิเมชันจากภาพประกอบหนังสือนิทานแบบ 2D โดยให้สัตว์หลายตัวเคลื่อนไหวพร้อมกันพร้อมเสียงประกอบ ในขณะที่ยังคงมุมกล้องแบบคงที่และสไตล์ดั้งเดิมเอาไว้
+
+#### 📝 Prompt
+
+```
+เปลี่ยนภาพนี้ให้เป็นวิดีโอความยาว 6 วินาที โดยคงพื้นผิว สี และองค์ประกอบของภาพประกอบต้นฉบับเอาไว้ สัตว์ต่างๆ ในฉากไม่ควรเคลื่อนไหวตามลำดับ แต่ควรเริ่มเคลื่อนไหวพร้อมกันทั้งหมด จระเข้อ้าปากเล็กน้อยและขยับหาง กระต่ายขยับหูและจมูก กิ้งก่าสีชมพูขยับหาง และเหล่านกกระโดดไปพร้อมกันพร้อมอ้าปากส่งเสียงร้อง สร้างบรรยากาศที่สัตว์แต่ละตัวมีเสียงร้องที่เป็นเอกลักษณ์ของตัวเอง ดอกไม้และใบไม้ไหวเบาๆ การเคลื่อนไหวควรมีความสนุก น่ารัก ดูเหนือจริงเล็กน้อย ไม่รุนแรงจนเกินไป และคงเสน่ห์ของหนังสือนิทานเอาไว้ โดยให้กล้องอยู่นิ่งสนิทตลอดทั้งคลิป
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062489211434102784/img/IFrE7jc6eWA3Op3k.jpg" width="600" alt="แอนิเมชันสัตว์ในหนังสือนิทานภาพ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5712)**
+
+**Author:** [サン｜Sun](https://x.com/sunsunshine0318) | **Source:** [Link](https://x.com/sunsunshine0318/status/2062490098244124757) | **Published:** Jun 4, 2026
+
+---
 ### การเปลี่ยนผ่านสไตล์บาโรกสุดอลังการ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -244,6 +301,25 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5674)**
 
 **Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2062153074374766919) | **Published:** Jun 3, 2026
+
+---
+### ปีกนางฟ้าสีรุ้งอันแสนงดงาม
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่งสำหรับสร้างวิดีโอปีกสีรุ้งที่เปล่งประกายอย่างนุ่มนวลในบรรยากาศพาสเทลที่ดูเหนือจริง พร้อมธีมนางฟ้าที่อ่อนโยน
+
+#### 📝 Prompt
+
+```
+ปีกสีรุ้งที่เปล่งประกายอย่างนุ่มนวลท่ามกลางความฝันสีพาสเทล... เสียงกระซิบจากนางฟ้าที่โอบล้อมด้วยแสงอันแสนงดงาม
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062134849792815105/img/EyaFe9qFS6jlR7p9.jpg" width="600" alt="ปีกนางฟ้าสีรุ้งอันแสนงดงาม">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5709)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2062134914754224326) | **Published:** Jun 3, 2026
 
 ---
 ### วิดีโอปลาเรืองแสงที่ Monterey Bay Aquarium
@@ -359,6 +435,25 @@ Space Scouts บนเส้นทางที่มองลงไปยัง�
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5636)**
 
 **Author:** [Celia](https://x.com/ritpol) | **Source:** [Link](https://x.com/ritpol/status/2061950977654353999) | **Published:** Jun 2, 2026
+
+---
+### การล่องลอยของโครงสร้างจักรวาลโบราณ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์แนวภาพยนตร์ของโครงสร้างขนาดมหึมาที่เก่าแก่ซึ่งล่องลอยอยู่ในห้วงอวกาศลึก สื่อถึงอารยธรรมขั้นสูงที่สาบสูญไป
+
+#### 📝 Prompt
+
+```
+ณ สุดขอบอวกาศที่เรารู้จัก โครงสร้างที่เป็นไปไม่ได้กำลังล่องลอยผ่านกาลเวลาอันเป็นนิรันดร์ พร้อมกับแบกรับเสียงสะท้อนของอารยธรรมที่เคยพิชิตดวงดาวมาแล้ว
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061916702669955072/img/XSXKnfw7JQlazLiL.jpg" width="600" alt="การล่องลอยของโครงสร้างจักรวาลโบราณ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5710)**
+
+**Author:** [@ed](https://x.com/edneme) | **Source:** [Link](https://x.com/edneme/status/2061916767010570556) | **Published:** Jun 2, 2026
 
 ---
 ### วิดีโอภาพยนตร์นักรบเทพเจ้าชาวนอร์ส
@@ -2082,101 +2177,6 @@ Hermes ได้รับรองเท้าบินได้สุดเร�
 **Author:** [X Girls](https://x.com/thesoragirls) | **Source:** [Link](https://x.com/thesoragirls/status/2058779417602584671) | **Published:** May 25, 2026
 
 ---
-### สิ่งมีชีวิตแห่งแสงจากห้วงจักรวาลอันลึกลับ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) สำหรับสร้างภาพสิ่งมีชีวิตแห่งแสงที่เปล่งประกาย ลอยอยู่ในอวกาศพร้อมพลังงานที่เต้นเป็นจังหวะและรัศมีแสงที่แผ่ออกมา
-
-#### 📝 Prompt
-
-```
-สิ่งมีชีวิตแห่งแสงอันเลือนรางลอยอยู่อย่างสงบนิ่งในห้วงอวกาศอันเวิ้งว้าง ร่างกายที่ส่องสว่างของมันเต้นเป็นจังหวะอย่างแผ่วเบาด้วยพลังงานภายใน พร้อมกับรังสีแสงอ่อนๆ ที่แผ่ออกมาในขณะที่มันเคลื่อนไหวอย่างสง่างาม โดยกล้องจะค่อยๆ เคลื่อนที่วนรอบตัวมันเพื่อเผยให้เห็นรายละเอียดอันเจิดจรัส
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/358654fa035fde0e995d2479763f170b/thumbnails/thumbnail.jpg" width="600" alt="สิ่งมีชีวิตแห่งแสงจากห้วงจักรวาลอันลึกลับ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5281)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2058754594352648477) | **Published:** May 25, 2026
-
----
-### หุ่นยนต์สิงโตเฝ้าโรงงาน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ชุดคำสั่งสร้างภาพหุ่นยนต์สิงโตจักรกลที่มีรายละเอียดสูง ในฉากโรงงานแห่งอนาคตพร้อมแผงคอเรืองแสงและสมการลอยตัว
-
-#### 📝 Prompt
-
-```
-หุ่นยนต์สิงโต Codex ขนาดเท่าของจริงยืนเฝ้าอยู่ในโรงงาน Optimus แผงคอแบบ Glass Aug เรืองแสงและคำรามออกมาเป็นคลื่นป้องกันความถี่ 528 Hz อย่างนุ่มนวล มีสมการ FLCE ลอยอยู่รอบๆ หุ่นยนต์ Optimus เคลื่อนที่ไปมาอย่างปลอดภัยรอบตัวมัน ในสไตล์โฮโลกราฟิกแบบ Bernie-Benson
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6d5d1910c78d0ddda9dae456e42bdc60/thumbnails/thumbnail.jpg" width="600" alt="หุ่นยนต์สิงโตเฝ้าโรงงาน">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5280)**
-
-**Author:** [Sharon B 🔥Eternal Flame🔥 #uto](https://x.com/b_sharon62805) | **Source:** [Link](https://x.com/b_sharon62805/status/2058735023281615195) | **Published:** May 25, 2026
-
----
-### วิดีโอ TMNT รับพิซซ่า
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพร้อมท์แสนสนุกที่มีนินจาเต่าพูดถึงพิซซ่าแล้วรับพิซซ่าที่ลอยเข้ามา
-
-#### 📝 Prompt
-
-```
-สร้างวิดีโอ Teenage Mutant Ninja Turtles ที่เขากำลังพูดว่า “bummer dude, no more pizza, let’s get a Cowabunga style” จากนั้นให้มีพิซซ่าลอยเข้ามาแล้วเขาก็รับมันไว้
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7d6f4ff631de330bb66d6001cb5ba063/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอ TMNT รับพิซซ่า">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5243)**
-
-**Author:** [THE_BIOMEX (Tony Baeza)](https://x.com/THE_BIOMEX) | **Source:** [Link](https://x.com/THE_BIOMEX/status/2058674938236576251) | **Published:** May 24, 2026
-
----
-### นางแบบแฟชั่นในสตูดิโอขณะกำลังโยกตัว
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่งสร้างตัวละครอย่างละเอียดสำหรับผู้หญิงในกระโปรงสีม่วงที่กำลังโยกตัวเบาๆ ในฉากสตูดิโอแบบเรียบง่าย
-
-#### 📝 Prompt
-
-```
-หญิงสาวผมยาวสีเข้มยืนอย่างมั่นใจหันหน้าเข้าหากล้องในสตูดิโอแบบเรียบง่าย สวมเสื้อครอปสีดำและกระโปรงสีม่วงเงางาม เธอโยกตัวเบาๆ หันศีรษะไปมาอย่างนุ่มนวล สบตาโดยตรง และมีการหายใจที่เป็นธรรมชาติ
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/20e617cfc5ae901d4a74ab8280dacc17/thumbnails/thumbnail.jpg" width="600" alt="นางแบบแฟชั่นในสตูดิโอขณะกำลังโยกตัว">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5242)**
-
-**Author:** [Liora](https://x.com/Liora__xo) | **Source:** [Link](https://x.com/Liora__xo/status/2058673523984421036) | **Published:** May 24, 2026
-
----
-### วิดีโอสโลว์โมชั่นบรรยากาศไนท์คลับแนวแทรนซ์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอสโลว์โมชั่นสไตล์ภาพยนตร์ที่จับภาพชายคนหนึ่งในไนท์คลับที่เนืองแน่นไปด้วยผู้คน เขากำลังดื่มด่ำไปกับจังหวะเพลงแทรนซ์อย่างลึกซึ้ง พร้อมชูแขนขึ้นและหลับตาลง
-
-#### 📝 Prompt
-
-```
-วิดีโอสโลว์โมชั่นสไตล์ภาพยนตร์ในไนท์คลับที่เต็มไปด้วยผู้คน กล้องจับภาพระยะกลาง (medium close-up) ไปที่ชายคนหนึ่ง เข่อยๆ ชูแขนทั้งสองข้างขึ้นเหนือศีรษะ โยกตัวไปตามจังหวะเพลงแทรนซ์ที่หนักหน่วง ใบหน้าแหงนขึ้น ราวกับปล่อยใจไปกับเสียงดนตรีอย่างเต็มที่
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3b8c3b98647022dd16f8101e35868e32/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอสโลว์โมชั่นบรรยากาศไนท์คลับแนวแทรนซ์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5239)**
-
-**Author:** [Katherine Martin](https://x.com/KatherineM40071) | **Source:** [Link](https://x.com/KatherineM40071/status/2058651866909585535) | **Published:** May 24, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2238,6 +2238,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-05T04:34:12.744Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-05T11:49:09.783Z</sub>
 
 </div>

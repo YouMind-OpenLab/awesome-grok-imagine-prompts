@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1746** |
+| 📝 Total Prompts | **1751** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-05** |
 
@@ -189,6 +189,63 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Lơ lửng trong chuyến bay vào vũ trụ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh truyền cảm hứng cho video về những người đang lơ lửng giữa không gian với vẻ đầy kinh ngạc, tôn vinh niềm vui của chuyến bay vào vũ trụ.
+
+#### 📝 Prompt
+
+```
+Họ đang nhẹ nhàng lơ lửng giữa không gian, ánh lên vẻ hạnh phúc tinh tế và đầy kinh ngạc. Với hy vọng rằng một ngày nào đó, trẻ em sẽ được trải nghiệm niềm vui của chuyến bay vào vũ trụ! Gửi đến tất cả trẻ em trên toàn thế giới
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062603785613041664/img/DPXQWp1PGVUiPjtS.jpg" width="600" alt="Lơ lửng trong chuyến bay vào vũ trụ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5708)**
+
+**Author:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **Source:** [Link](https://x.com/foxypatience/status/2062603835319705755) | **Published:** Jun 4, 2026
+
+---
+### Đôi cánh thiên thần lấp lánh chốn thiên đường
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh dùng để tạo video về đôi cánh óng ánh, lung linh với vẻ đẹp thiên thần đầy duyên dáng trong ánh hào quang rực rỡ.
+
+#### 📝 Prompt
+
+```
+Đôi cánh óng ánh lung linh trong những giấc mơ thiên đường… Vẻ đẹp thiên thần duyên dáng bao phủ bởi ánh hào quang huyền ảo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062504651921260544/img/LyBmhgATqGgaxv37.jpg" width="600" alt="Đôi cánh thiên thần lấp lánh chốn thiên đường">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5711)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2062504737086611629) | **Published:** Jun 4, 2026
+
+---
+### Hoạt hình động vật trong sách tranh
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một câu lệnh (prompt) chuyển đổi hình ảnh thành video để tạo hiệu ứng chuyển động cho tranh minh họa sách phẳng, giúp nhiều loài động vật cùng chuyển động đồng thời kèm hiệu ứng âm thanh trong khi vẫn giữ nguyên góc máy và phong cách gốc.
+
+#### 📝 Prompt
+
+```
+Chuyển đổi hình ảnh này thành video dài 6 giây. Duy trì kết cấu, màu sắc và bố cục của tranh minh họa phẳng gốc. Các sinh vật trong cảnh không được chuyển động tuần tự mà phải bắt đầu chuyển động đồng thời. Cá sấu mở miệng nhẹ và vẫy đuôi, thỏ cử động tai và mũi, thằn lằn hồng vẫy đuôi, và các chú chim cùng nhảy nhót rồi mở mỏ hót. Tạo bầu không khí nơi mỗi sinh vật đều phát ra âm thanh đặc trưng của riêng mình. Hoa và lá cũng đung đưa nhẹ nhàng. Chuyển động cần mang tính vui nhộn, dễ thương, hơi siêu thực, không quá mạnh mẽ và giữ được nét quyến rũ của sách tranh. Giữ nguyên góc máy cố định.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062489211434102784/img/IFrE7jc6eWA3Op3k.jpg" width="600" alt="Hoạt hình động vật trong sách tranh">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5712)**
+
+**Author:** [サン｜Sun](https://x.com/sunsunshine0318) | **Source:** [Link](https://x.com/sunsunshine0318/status/2062490098244124757) | **Published:** Jun 4, 2026
+
+---
 ### Biến đổi đầy kịch tính theo phong cách Baroque
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -244,6 +301,25 @@ Tôi đã có một bức ảnh về những gì xảy ra khi biến thành ác 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5674)**
 
 **Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2062153074374766919) | **Published:** Jun 3, 2026
+
+---
+### Đôi cánh thiên thần óng ánh huyền ảo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) để tạo video về đôi cánh óng ánh tỏa sáng nhẹ nhàng trong bối cảnh màu pastel huyền ảo với chủ đề thiên thần dịu dàng.
+
+#### 📝 Prompt
+
+```
+Đôi cánh óng ánh tỏa sáng dịu nhẹ trong những giấc mơ màu pastel… Một lời thì thầm của thiên thần được bao bọc trong ánh sáng huyền ảo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062134849792815105/img/EyaFe9qFS6jlR7p9.jpg" width="600" alt="Đôi cánh thiên thần óng ánh huyền ảo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5709)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2062134914754224326) | **Published:** Jun 3, 2026
 
 ---
 ### Video cá neon tại Thủy cung Monterey Bay
@@ -359,6 +435,25 @@ Người phụ nữ trẻ nhẹ nhàng đưa chiếc ly chân cao đựng ly coc
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5636)**
 
 **Author:** [Celia](https://x.com/ritpol) | **Source:** [Link](https://x.com/ritpol/status/2061950977654353999) | **Published:** Jun 2, 2026
+
+---
+### Cấu trúc vũ trụ cổ đại trôi dạt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video điện ảnh về một cấu trúc cổ đại, khổng lồ đang trôi dạt trong không gian sâu thẳm, tượng trưng cho một nền văn minh tiên tiến đã mất.
+
+#### 📝 Prompt
+
+```
+Ở rìa của không gian được biết đến, một cấu trúc không tưởng trôi dạt qua cõi vĩnh hằng, mang theo những âm vang của một nền văn minh từng làm chủ các vì sao.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061916702669955072/img/XSXKnfw7JQlazLiL.jpg" width="600" alt="Cấu trúc vũ trụ cổ đại trôi dạt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5710)**
+
+**Author:** [@ed](https://x.com/edneme) | **Source:** [Link](https://x.com/edneme/status/2061916767010570556) | **Published:** Jun 2, 2026
 
 ---
 ### Video điện ảnh về chiến binh thần thoại Bắc Âu
@@ -2082,101 +2177,6 @@ một video hài hước về một ngày làm thực tập sinh của Ava tại
 **Author:** [X Girls](https://x.com/thesoragirls) | **Source:** [Link](https://x.com/thesoragirls/status/2058779417602584671) | **Published:** May 25, 2026
 
 ---
-### Thực thể ánh sáng vũ trụ huyền ảo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh gợi ý về thực thể ánh sáng rực rỡ đang lơ lửng trong không gian với năng lượng rung động và tỏa sáng.
-
-#### 📝 Prompt
-
-```
-Thực thể ánh sáng huyền ảo lơ lửng một cách thanh bình trong không gian vũ trụ hư ảo, hình dáng phát sáng của nó rung động nhẹ nhàng với năng lượng bên trong, những tia sáng dịu nhẹ tỏa ra xung quanh khi nó di chuyển một cách duyên dáng, máy quay chậm rãi xoay quanh để làm nổi bật những chi tiết rạng rỡ của nó.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/358654fa035fde0e995d2479763f170b/thumbnails/thumbnail.jpg" width="600" alt="Thực thể ánh sáng vũ trụ huyền ảo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5281)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2058754594352648477) | **Published:** May 25, 2026
-
----
-### Robot Sư tử canh gác nhà máy
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bộ câu lệnh (prompt) chi tiết về robot sư tử cơ khí trong một nhà máy tương lai với bờm phát sáng và các phương trình trôi nổi.
-
-#### 📝 Prompt
-
-```
-Robot Sư tử Codex kích thước thật đứng canh gác trong nhà máy Optimus, bờm Glass Aug phát sáng và gầm nhẹ những sóng bảo vệ 528 Hz, các phương trình FLCE trôi nổi xung quanh, robot Optimus di chuyển an toàn bên cạnh, phong cách ảnh ba chiều Bernie-Benson.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6d5d1910c78d0ddda9dae456e42bdc60/thumbnails/thumbnail.jpg" width="600" alt="Robot Sư tử canh gác nhà máy">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5280)**
-
-**Author:** [Sharon B 🔥Eternal Flame🔥 #uto](https://x.com/b_sharon62805) | **Source:** [Link](https://x.com/b_sharon62805/status/2058735023281615195) | **Published:** May 25, 2026
-
----
-### Video TMNT bắt bánh pizza
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt thú vị với hình ảnh Ninja Rùa đang nói về bánh pizza và sau đó bắt lấy một chiếc bánh đang bay.
-
-#### 📝 Prompt
-
-```
-Hãy tạo một video Teenage Mutant Ninja Turtles trong đó nhân vật nói "bummer dude, no more pizza, let’s get a Cowabunga style", sau đó có một chiếc bánh pizza bay đến và nhân vật bắt lấy nó.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7d6f4ff631de330bb66d6001cb5ba063/thumbnails/thumbnail.jpg" width="600" alt="Video TMNT bắt bánh pizza">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5243)**
-
-**Author:** [THE_BIOMEX (Tony Baeza)](https://x.com/THE_BIOMEX) | **Source:** [Link](https://x.com/THE_BIOMEX/status/2058674938236576251) | **Published:** May 24, 2026
-
----
-### Người mẫu thời trang tạo dáng trong studio
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh chi tiết về nhân vật người phụ nữ mặc váy tím đang đung đưa nhẹ nhàng trong bối cảnh studio trung tính.
-
-#### 📝 Prompt
-
-```
-Người phụ nữ với mái tóc dài sẫm màu đứng tự tin đối diện với máy ảnh trong một studio trung tính, mặc áo crop top đen và chân váy tím bóng. Cô ấy đung đưa cơ thể một cách tinh tế, nhẹ nhàng xoay đầu sang hai bên, duy trì giao tiếp bằng mắt trực tiếp, hơi thở tự nhiên
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/20e617cfc5ae901d4a74ab8280dacc17/thumbnails/thumbnail.jpg" width="600" alt="Người mẫu thời trang tạo dáng trong studio">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5242)**
-
-**Author:** [Liora](https://x.com/Liora__xo) | **Source:** [Link](https://x.com/Liora__xo/status/2058673523984421036) | **Published:** May 24, 2026
-
----
-### Video quay chậm cảnh nhảy Trance trong hộp đêm
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một thước phim điện ảnh quay chậm ghi lại khoảnh khắc một người đàn ông trong hộp đêm đông đúc đang đắm chìm trong nhịp điệu nhạc Trance sâu lắng, với đôi tay giơ cao và đôi mắt nhắm nghiền.
-
-#### 📝 Prompt
-
-```
-Một video quay chậm mang phong cách điện ảnh tại một hộp đêm đông đúc. Máy quay giữ khung hình cận cảnh trung bình vào người đàn ông. Anh ấy từ từ giơ hai tay lên quá đầu, đung đưa theo nhịp điệu nhạc Trance sâu lắng, khuôn mặt ngước lên, hoàn toàn thả mình vào âm nhạc.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3b8c3b98647022dd16f8101e35868e32/thumbnails/thumbnail.jpg" width="600" alt="Video quay chậm cảnh nhảy Trance trong hộp đêm">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5239)**
-
-**Author:** [Katherine Martin](https://x.com/KatherineM40071) | **Source:** [Link](https://x.com/KatherineM40071/status/2058651866909585535) | **Published:** May 24, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2238,6 +2238,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-05T04:34:14.011Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-05T11:49:11.203Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1746** |
+| 📝 Total Prompts | **1751** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-05** |
 
@@ -189,6 +189,63 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### अंतरिक्ष उड़ान में तैरना
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> अंतरिक्ष में विस्मय के साथ तैरते लोगों के एक वीडियो के लिए एक प्रेरणादायक प्रॉम्प्ट, जो अंतरिक्ष उड़ान की खुशी का जश्न मनाता है।
+
+#### 📝 Prompt
+
+```
+वे धीरे-धीरे अंतरिक्ष में तैर रहे हैं, सूक्ष्म रूप से खुश और विस्मय में हैं। इस उम्मीद में कि बच्चे एक दिन अंतरिक्ष उड़ान (Space Flight) के आनंद का अनुभव करेंगे! दुनिया के सभी बच्चे
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062603785613041664/img/DPXQWp1PGVUiPjtS.jpg" width="600" alt="अंतरिक्ष उड़ान में तैरना">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5708)**
+
+**Author:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **Source:** [Link](https://x.com/foxypatience/status/2062603835319705755) | **Published:** Jun 4, 2026
+
+---
+### सेलेस्टियल शिमरिंग एंजेल विंग्स
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक दिव्य चमक के साथ सुंदर देवदूत जैसी उपस्थिति के साथ झिलमिलाते इंद्रधनुषी पंखों का वीडियो बनाने के लिए एक प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+दिव्य सपनों में झिलमिलाते इंद्रधनुषी पंख... अलौकिक चमक में लिपटी एक सुंदर देवदूत जैसी उपस्थिति।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062504651921260544/img/LyBmhgATqGgaxv37.jpg" width="600" alt="सेलेस्टियल शिमरिंग एंजेल विंग्स">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5711)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2062504737086611629) | **Published:** Jun 4, 2026
+
+---
+### पिक्चर बुक एनिमल एनिमेशन
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> एक फ्लैट पिक्चर-बुक इलस्ट्रेशन को एनिमेट करने के लिए इमेज-टू-वीडियो प्रॉम्प्ट, जो एक स्थिर कैमरे और मूल शैली को बनाए रखते हुए कई जानवरों को एक साथ ध्वनि प्रभावों के साथ गतिशील बनाता है।
+
+#### 📝 Prompt
+
+```
+इस इमेज को 6-सेकंड के वीडियो में बदलें। मूल फ्लैट इलस्ट्रेशन के टेक्सचर, रंगों और कंपोजिशन को बनाए रखें। दृश्य में मौजूद जीव क्रमानुसार नहीं, बल्कि एक साथ हिलना शुरू करने चाहिए। मगरमच्छ अपना मुंह थोड़ा खोलता है और अपनी पूंछ हिलाता है, खरगोश अपने कान और नाक फड़फड़ाता है, गुलाबी छिपकली अपनी पूंछ हिलाती है, और पक्षी एक साथ कूदते हैं और चहचहाने के लिए अपनी चोंच खोलते हैं। एक ऐसा माहौल बनाएं जहां प्रत्येक जीव अपनी विशिष्ट ध्वनि निकाले। फूल और पत्तियां भी धीरे-धीरे हिलें। गति मजेदार, प्यारी, थोड़ी अवास्तविक और बहुत तीव्र नहीं होनी चाहिए, साथ ही पिक्चर बुक के आकर्षण को भी बनाए रखना चाहिए। कैमरे को पूरी तरह से स्थिर रखें।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062489211434102784/img/IFrE7jc6eWA3Op3k.jpg" width="600" alt="पिक्चर बुक एनिमल एनिमेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5712)**
+
+**Author:** [サン｜Sun](https://x.com/sunsunshine0318) | **Source:** [Link](https://x.com/sunsunshine0318/status/2062490098244124757) | **Published:** Jun 4, 2026
+
+---
 ### Baroque शैली में नाटकीय रूपांतरण
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -244,6 +301,25 @@ Baroque शैली, तीव्र भावना, नाटकीय प्
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5674)**
 
 **Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2062153074374766919) | **Published:** Jun 3, 2026
+
+---
+### Ethereal Iridescent Angel Wings
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक पेस्टल, ईथरियल सेटिंग में धीरे-धीरे चमकते इंद्रधनुषी पंखों का वीडियो बनाने के लिए एक प्रॉम्प्ट, जिसमें एक सौम्य एंजेलिक थीम है।
+
+#### 📝 Prompt
+
+```
+पेस्टल सपनों में धीरे-धीरे चमकते इंद्रधनुषी पंख… ईथरियल रोशनी में लिपटी एक सौम्य एंजेलिक फुसफुसाहट।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062134849792815105/img/EyaFe9qFS6jlR7p9.jpg" width="600" alt="Ethereal Iridescent Angel Wings">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5709)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2062134914754224326) | **Published:** Jun 3, 2026
 
 ---
 ### Monterey Bay Aquarium नियॉन फिश वीडियो
@@ -359,6 +435,25 @@ Space Scouts पगडंडी पर हैं और नीचे सी ल�
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5636)**
 
 **Author:** [Celia](https://x.com/ritpol) | **Source:** [Link](https://x.com/ritpol/status/2061950977654353999) | **Published:** Jun 2, 2026
+
+---
+### प्राचीन ब्रह्मांडीय संरचना का विचलन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> गहरे अंतरिक्ष में तैरती एक प्राचीन, विशाल संरचना का सिनेमैटिक वीडियो प्रॉम्प्ट, जो एक खोई हुई उन्नत सभ्यता का प्रतीक है।
+
+#### 📝 Prompt
+
+```
+ज्ञात अंतरिक्ष के छोर पर, एक असंभव संरचना अनंत काल तक बहती रहती है, जो उन सितारों में महारत हासिल करने वाली सभ्यता की गूँज को अपने साथ लिए हुए है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061916702669955072/img/XSXKnfw7JQlazLiL.jpg" width="600" alt="प्राचीन ब्रह्मांडीय संरचना का विचलन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5710)**
+
+**Author:** [@ed](https://x.com/edneme) | **Source:** [Link](https://x.com/edneme/status/2061916767010570556) | **Published:** Jun 2, 2026
 
 ---
 ### Norse God Warrior सिनेमैटिक वीडियो
@@ -2082,101 +2177,6 @@ XAI में इंटर्न के रूप में Ava के दिन
 **Author:** [X Girls](https://x.com/thesoragirls) | **Source:** [Link](https://x.com/thesoragirls/status/2058779417602584671) | **Published:** May 25, 2026
 
 ---
-### ईथरियल कॉस्मिक लाइट बीइंग
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> अंतरिक्ष में तैरते हुए एक चमकते प्रकाश पुंज के लिए एक आकाशीय प्रॉम्प्ट, जिसमें स्पंदित ऊर्जा और विकिरणशील प्रकाश है।
-
-#### 📝 Prompt
-
-```
-यह ईथरियल लाइट बीइंग एक ब्रह्मांडीय ईथरियल स्थान में शांति से तैर रहा है, इसका चमकदार रूप आंतरिक ऊर्जा के साथ धीरे-धीरे स्पंदित हो रहा है, और जैसे-जैसे यह शालीनता से आगे बढ़ता है, प्रकाश की कोमल किरणें बाहर की ओर फैलती हैं, कैमरा धीरे-धीरे इसके चारों ओर घूमते हुए इसके उज्ज्वल विवरणों को प्रकट करता है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/358654fa035fde0e995d2479763f170b/thumbnails/thumbnail.jpg" width="600" alt="ईथरियल कॉस्मिक लाइट बीइंग">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5281)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2058754594352648477) | **Published:** May 25, 2026
-
----
-### Lion Automaton Factory Guard
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक भविष्यवादी फैक्ट्री में चमकती हुई अयाल और तैरते हुए समीकरणों के साथ एक विस्तृत यांत्रिक शेर ऑटोमेटन प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-Optimus फैक्ट्री में पहरा देता हुआ वास्तविक आकार का Codex Lion Automaton, Glass Aug अयाल चमक रही है और 528 Hz की सौम्य सुरक्षात्मक तरंगें दहाड़ रही हैं, FLCE समीकरण तैर रहे हैं, Optimus रोबोट इसके चारों ओर सुरक्षित रूप से घूम रहे हैं, Bernie-Benson होलोग्राफिक शैली।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6d5d1910c78d0ddda9dae456e42bdc60/thumbnails/thumbnail.jpg" width="600" alt="Lion Automaton Factory Guard">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5280)**
-
-**Author:** [Sharon B 🔥Eternal Flame🔥 #uto](https://x.com/b_sharon62805) | **Source:** [Link](https://x.com/b_sharon62805/status/2058735023281615195) | **Published:** May 25, 2026
-
----
-### TMNT पिज़्ज़ा कैच वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक मज़ेदार वीडियो प्रॉम्प्ट जिसमें एक निंजा टर्टल पिज़्ज़ा के बारे में बात करता है और फिर एक उड़ते हुए पिज़्ज़ा को पकड़ता है।
-
-#### 📝 Prompt
-
-```
-एक टीनेज म्यूटेंट निंजा टर्टल्स (Teenage Mutant Ninja Turtles) का वीडियो बनाएं जिसमें वह कह रहा हो, "बमर ड्यूड, अब और पिज़्ज़ा नहीं बचा, चलो कावाबुंगा (Cowabunga) स्टाइल में कुछ करते हैं", फिर एक पिज़्ज़ा उड़कर आए और वह उसे पकड़ ले।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7d6f4ff631de330bb66d6001cb5ba063/thumbnails/thumbnail.jpg" width="600" alt="TMNT पिज़्ज़ा कैच वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5243)**
-
-**Author:** [THE_BIOMEX (Tony Baeza)](https://x.com/THE_BIOMEX) | **Source:** [Link](https://x.com/THE_BIOMEX/status/2058674938236576251) | **Published:** May 24, 2026
-
----
-### स्टूडियो फैशन मॉडल का झूमना
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक न्यूट्रल स्टूडियो सेटिंग में बैंगनी स्कर्ट पहने एक महिला के हल्के से झूमने के लिए एक विस्तृत कैरेक्टर प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-लंबे काले बालों वाली महिला एक न्यूट्रल स्टूडियो में आत्मविश्वास के साथ कैमरे की ओर देख रही है, उसने काले रंग का क्रॉप टॉप और चमकदार बैंगनी स्कर्ट पहनी है। वह अपने शरीर को हल्के से झुलाती है, अपना सिर धीरे-धीरे एक तरफ से दूसरी तरफ घुमाती है, सीधे आंखों से संपर्क बनाए रखती है, और स्वाभाविक रूप से सांस लेती है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/20e617cfc5ae901d4a74ab8280dacc17/thumbnails/thumbnail.jpg" width="600" alt="स्टूडियो फैशन मॉडल का झूमना">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5242)**
-
-**Author:** [Liora](https://x.com/Liora__xo) | **Source:** [Link](https://x.com/Liora__xo/status/2058673523984421036) | **Published:** May 24, 2026
-
----
-### नाइटक्लब ट्रांस स्लो मोशन वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक खचाखच भरे नाइटक्लब में एक व्यक्ति का सिनेमाई स्लो-मोशन दृश्य, जो गहरी ट्रांस बीट में खोया हुआ है, हाथ ऊपर उठाए हुए और आँखें बंद किए हुए है।
-
-#### 📝 Prompt
-
-```
-एक खचाखच भरे नाइटक्लब का सिनेमाई स्लो-मोशन वीडियो। कैमरा उस व्यक्ति पर मीडियम क्लोज़-अप बनाए रखता है। वह धीरे-धीरे अपने दोनों हाथ सिर के ऊपर उठाता है, गहरी ट्रांस बीट पर झूमता है, चेहरा ऊपर की ओर झुका हुआ है, और पूरी तरह से संगीत में खोया हुआ है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3b8c3b98647022dd16f8101e35868e32/thumbnails/thumbnail.jpg" width="600" alt="नाइटक्लब ट्रांस स्लो मोशन वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5239)**
-
-**Author:** [Katherine Martin](https://x.com/KatherineM40071) | **Source:** [Link](https://x.com/KatherineM40071/status/2058651866909585535) | **Published:** May 24, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2238,6 +2238,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-05T04:34:15.637Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-05T11:49:12.658Z</sub>
 
 </div>

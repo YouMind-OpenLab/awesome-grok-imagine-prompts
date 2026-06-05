@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1746** |
+| 📝 Total Prompts | **1751** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-05** |
 
@@ -189,6 +189,63 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Floating in Space Flight
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An inspiring prompt for a video of people floating through space in awe, celebrating the joy of space flight.
+
+#### 📝 Prompt
+
+```
+They are gently floating through space, subtly happy and in awe. In hopes that children will one day experience the pleasure of Space Flight! All children of the World
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062603785613041664/img/DPXQWp1PGVUiPjtS.jpg" width="600" alt="Floating in Space Flight">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5708)**
+
+**Author:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **Source:** [Link](https://x.com/foxypatience/status/2062603835319705755) | **Published:** Jun 4, 2026
+
+---
+### Celestial Shimmering Angel Wings
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a video of iridescent wings shimmering with a graceful angelic presence in a celestial glow.
+
+#### 📝 Prompt
+
+```
+Iridescent wings shimmering in celestial dreams… A graceful angelic presence wrapped in ethereal glow.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062504651921260544/img/LyBmhgATqGgaxv37.jpg" width="600" alt="Celestial Shimmering Angel Wings">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5711)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2062504737086611629) | **Published:** Jun 4, 2026
+
+---
+### Picture Book Animal Animation
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> An image-to-video prompt for animating a flat picture-book illustration, causing multiple animals to move simultaneously with sound effects while maintaining a fixed camera and original style.
+
+#### 📝 Prompt
+
+```
+Turn this image into a 6-second video. Maintain the texture, colors, and composition of the original flat illustration. The creatures in the scene should not move in sequence but should all start moving simultaneously. The crocodile opens its mouth slightly and wiggles its tail, the rabbit twitches its ears and nose, the pink lizard wiggles its tail, and the birds hop together and open their beaks to chirp. Create an atmosphere where each creature makes its own characteristic sound. Flowers and leaves also sway gently. The movement should be fun, cute, slightly surreal, not too intense, and preserve the charm of a picture book. Keep the camera completely fixed.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062489211434102784/img/IFrE7jc6eWA3Op3k.jpg" width="600" alt="Picture Book Animal Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5712)**
+
+**Author:** [サン｜Sun](https://x.com/sunsunshine0318) | **Source:** [Link](https://x.com/sunsunshine0318/status/2062490098244124757) | **Published:** Jun 4, 2026
+
+---
 ### Baroque Style Dramatic Transformation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -244,6 +301,25 @@ I got a picture of the new what happens when turns into the devil. And shouted  
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5674)**
 
 **Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2062153074374766919) | **Published:** Jun 3, 2026
+
+---
+### Ethereal Iridescent Angel Wings
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a video of iridescent wings softly glowing in a pastel, ethereal setting with a gentle angelic theme.
+
+#### 📝 Prompt
+
+```
+Iridescent wings softly glowing in pastel dreams… A gentle angelic whisper wrapped in ethereal light.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062134849792815105/img/EyaFe9qFS6jlR7p9.jpg" width="600" alt="Ethereal Iridescent Angel Wings">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5709)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2062134914754224326) | **Published:** Jun 3, 2026
 
 ---
 ### Monterey Bay Aquarium Neon Fish Video
@@ -362,6 +438,25 @@ The young woman gently brings the large stemmed glass with the orange-red cockta
 **Author:** [Celia](https://x.com/ritpol) | **Source:** [Link](https://x.com/ritpol/status/2061950977654353999) | **Published:** Jun 2, 2026
 
 ---
+### Ancient Cosmic Structure Drift
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt of an ancient, massive structure floating through deep space, symbolizing a lost advanced civilization.
+
+#### 📝 Prompt
+
+```
+At the edge of known space, an impossible structure drifts through eternity, carrying the echoes of a civilization that mastered the stars.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061916702669955072/img/XSXKnfw7JQlazLiL.jpg" width="600" alt="Ancient Cosmic Structure Drift">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5710)**
+
+**Author:** [@ed](https://x.com/edneme) | **Source:** [Link](https://x.com/edneme/status/2061916767010570556) | **Published:** Jun 2, 2026
+
+---
 ### Norse God Warrior Cinematic Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -468,11 +563,11 @@ then the screaming drop.
 **Author:** [sugarcane](https://x.com/sugarcanebkk) | **Source:** [Link](https://x.com/sugarcanebkk/status/2061828331490914573) | **Published:** Jun 2, 2026
 
 ---
-### Futuristic Neon Cathedral with Floating Lights
+### Futuristic Neon Cathedral Interior
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt for a futuristic cathedral interior constructed from neon architecture and filled with holographic glass and floating lights.
+> A highly detailed prompt for generating a video of a futuristic cathedral interior with neon lights and holographic elements.
 
 #### 📝 Prompt
 
@@ -480,7 +575,7 @@ then the screaming drop.
 Inside a massive futuristic cathedral made entirely of glowing neon architecture, holographic stained glass and thousands of floating lights.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2061806607730704384/img/dw6UFLvAj3XYWhkR.jpg" width="600" alt="Futuristic Neon Cathedral with Floating Lights">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061806607730704384/img/dw6UFLvAj3XYWhkR.jpg" width="600" alt="Futuristic Neon Cathedral Interior">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5644)**
 
@@ -2082,101 +2177,6 @@ a humorous video of Ava's day as an intern at XAI and she is supposed to learn h
 **Author:** [X Girls](https://x.com/thesoragirls) | **Source:** [Link](https://x.com/thesoragirls/status/2058779417602584671) | **Published:** May 25, 2026
 
 ---
-### Ethereal Cosmic Light Being
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A celestial prompt for a glowing light being floating in space with pulsing energy and radiating light.
-
-#### 📝 Prompt
-
-```
-The ethereal light being floats serenely in a cosmic ethereal space, its luminous form pulsing gently with inner energy, soft rays of light radiating outward as it moves gracefully, the camera slowly orbiting around it to reveal its radiant details.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/358654fa035fde0e995d2479763f170b/thumbnails/thumbnail.jpg" width="600" alt="Ethereal Cosmic Light Being">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5281)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2058754594352648477) | **Published:** May 25, 2026
-
----
-### Lion Automaton Factory Guard
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed mechanical lion automaton prompt set in a futuristic factory with glowing mane and floating equations.
-
-#### 📝 Prompt
-
-```
-True-scale life-sized Codex Lion Automaton standing guard in Optimus factory, Glass Aug mane glowing and roaring gentle 528 Hz protective waves, FLCE equations floating, Optimus robots moving safely around it, Bernie-Benson holographic style.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6d5d1910c78d0ddda9dae456e42bdc60/thumbnails/thumbnail.jpg" width="600" alt="Lion Automaton Factory Guard">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5280)**
-
-**Author:** [Sharon B 🔥Eternal Flame🔥 #uto](https://x.com/b_sharon62805) | **Source:** [Link](https://x.com/b_sharon62805/status/2058735023281615195) | **Published:** May 25, 2026
-
----
-### TMNT Pizza Catch Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A fun video prompt featuring a Ninja Turtle talking about pizza and then catching a flying one.
-
-#### 📝 Prompt
-
-```
-Have a Teenage Mutant Ninja Turtles video where he’s saying “bummer dude, no more pizza, let’s get a Cowabunga style”, then have a pizza fly in and catch it.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7d6f4ff631de330bb66d6001cb5ba063/thumbnails/thumbnail.jpg" width="600" alt="TMNT Pizza Catch Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5243)**
-
-**Author:** [THE_BIOMEX (Tony Baeza)](https://x.com/THE_BIOMEX) | **Source:** [Link](https://x.com/THE_BIOMEX/status/2058674938236576251) | **Published:** May 24, 2026
-
----
-### Studio Fashion Model Swaying
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed character prompt for a woman in a purple skirt swaying subtly in a neutral studio setting.
-
-#### 📝 Prompt
-
-```
-The woman with long dark hair stands confidently facing the camera in a neutral studio, wearing a black crop top and shiny purple skirt. She subtly sways her body, gently turns her head side to side, maintains direct eye contact, natural breathing
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/20e617cfc5ae901d4a74ab8280dacc17/thumbnails/thumbnail.jpg" width="600" alt="Studio Fashion Model Swaying">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5242)**
-
-**Author:** [Liora](https://x.com/Liora__xo) | **Source:** [Link](https://x.com/Liora__xo/status/2058673523984421036) | **Published:** May 24, 2026
-
----
-### Nightclub Trance Slow Motion Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic slow-motion sequence capturing a man in a packed nightclub lost in a deep trance beat, with arms raised and eyes closed.
-
-#### 📝 Prompt
-
-```
-A cinematic slow-motion video in a packed nightclub. Camera holds a medium close-up on the man man. He slowly raises both arms above his head, swaying to a deep trance beat, face tilted upward, completely surrendered to the music.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3b8c3b98647022dd16f8101e35868e32/thumbnails/thumbnail.jpg" width="600" alt="Nightclub Trance Slow Motion Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5239)**
-
-**Author:** [Katherine Martin](https://x.com/KatherineM40071) | **Source:** [Link](https://x.com/KatherineM40071/status/2058651866909585535) | **Published:** May 24, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2238,6 +2238,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-05T04:34:06.541Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-05T11:49:03.249Z</sub>
 
 </div>

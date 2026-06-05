@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1746** |
+| 📝 Total Prompts | **1751** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-05** |
 
@@ -189,6 +189,63 @@ Una valquiria celestial mística y noble, una mujer digna y hermosa con largo ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Flotando en un vuelo espacial
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un inspirador prompt para un video de personas flotando a través del espacio con asombro, celebrando la alegría de los vuelos espaciales.
+
+#### 📝 Prompt
+
+```
+Flotan suavemente a través del espacio, sutilmente felices y maravillados. ¡Con la esperanza de que los niños algún día experimenten el placer de un vuelo espacial! Para todos los niños del mundo
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062603785613041664/img/DPXQWp1PGVUiPjtS.jpg" width="600" alt="Flotando en un vuelo espacial">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5708)**
+
+**Author:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **Source:** [Link](https://x.com/foxypatience/status/2062603835319705755) | **Published:** Jun 4, 2026
+
+---
+### Alas de ángel celestiales y brillantes
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para generar un video de alas iridiscentes que brillan con una elegante presencia angelical en un resplandor celestial.
+
+#### 📝 Prompt
+
+```
+Alas iridiscentes brillando en sueños celestiales… Una elegante presencia angelical envuelta en un resplandor etéreo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062504651921260544/img/LyBmhgATqGgaxv37.jpg" width="600" alt="Alas de ángel celestiales y brillantes">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5711)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2062504737086611629) | **Published:** Jun 4, 2026
+
+---
+### Animación de animales para libro ilustrado
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt de imagen a video para animar una ilustración plana de libro infantil, haciendo que varios animales se muevan simultáneamente con efectos de sonido mientras se mantiene una cámara fija y el estilo original.
+
+#### 📝 Prompt
+
+```
+Convierte esta imagen en un video de 6 segundos. Mantén la textura, los colores y la composición de la ilustración plana original. Las criaturas en la escena no deben moverse de forma secuencial, sino que todas deben empezar a moverse simultáneamente. El cocodrilo abre ligeramente la boca y mueve la cola, el conejo mueve las orejas y la nariz, el lagarto rosa mueve la cola, y los pájaros saltan juntos y abren sus picos para piar. Crea una atmósfera donde cada criatura emita su sonido característico. Las flores y las hojas también se balancean suavemente. El movimiento debe ser divertido, tierno, ligeramente surrealista, no demasiado intenso y debe preservar el encanto de un libro ilustrado. Mantén la cámara completamente fija.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062489211434102784/img/IFrE7jc6eWA3Op3k.jpg" width="600" alt="Animación de animales para libro ilustrado">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5712)**
+
+**Author:** [サン｜Sun](https://x.com/sunsunshine0318) | **Source:** [Link](https://x.com/sunsunshine0318/status/2062490098244124757) | **Published:** Jun 4, 2026
+
+---
 ### Transformación dramática al estilo barroco
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -244,6 +301,25 @@ Obtuve una imagen de lo que sucede cuando se transforma en el diablo. Y gritó: 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5674)**
 
 **Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2062153074374766919) | **Published:** Jun 3, 2026
+
+---
+### Alas de ángel iridiscentes etéreas
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para generar un video de alas iridiscentes que brillan suavemente en un entorno etéreo y pastel con una delicada temática angelical.
+
+#### 📝 Prompt
+
+```
+Alas iridiscentes brillando suavemente en sueños pastel… Un suave susurro angelical envuelto en luz etérea.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062134849792815105/img/EyaFe9qFS6jlR7p9.jpg" width="600" alt="Alas de ángel iridiscentes etéreas">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5709)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2062134914754224326) | **Published:** Jun 3, 2026
 
 ---
 ### Video de peces de neón del Monterey Bay Aquarium
@@ -359,6 +435,25 @@ La joven acerca suavemente a sus labios la copa de tallo largo con el cóctel de
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5636)**
 
 **Author:** [Celia](https://x.com/ritpol) | **Source:** [Link](https://x.com/ritpol/status/2061950977654353999) | **Published:** Jun 2, 2026
+
+---
+### Deriva de una antigua estructura cósmica
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video cinematográfico de una estructura antigua y masiva flotando en el espacio profundo, que simboliza una civilización avanzada perdida.
+
+#### 📝 Prompt
+
+```
+En el límite del espacio conocido, una estructura imposible flota a través de la eternidad, cargando con los ecos de una civilización que dominó las estrellas.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061916702669955072/img/XSXKnfw7JQlazLiL.jpg" width="600" alt="Deriva de una antigua estructura cósmica">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5710)**
+
+**Author:** [@ed](https://x.com/edneme) | **Source:** [Link](https://x.com/edneme/status/2061916767010570556) | **Published:** Jun 2, 2026
 
 ---
 ### Video cinemático de guerrero dios nórdico
@@ -2081,101 +2176,6 @@ un video divertido sobre el día de Ava como pasante en XAI, donde se supone que
 **Author:** [X Girls](https://x.com/thesoragirls) | **Source:** [Link](https://x.com/thesoragirls/status/2058779417602584671) | **Published:** May 25, 2026
 
 ---
-### Ser de luz cósmico etéreo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt celestial para un ser de luz resplandeciente que flota en el espacio con energía pulsante y luz radiante.
-
-#### 📝 Prompt
-
-```
-El ser de luz etéreo flota serenamente en un espacio cósmico etéreo, su forma luminosa palpita suavemente con energía interior, suaves rayos de luz irradian hacia afuera mientras se mueve con gracia, la cámara orbita lentamente a su alrededor para revelar sus detalles radiantes.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/358654fa035fde0e995d2479763f170b/thumbnails/thumbnail.jpg" width="600" alt="Ser de luz cósmico etéreo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5281)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2058754594352648477) | **Published:** May 25, 2026
-
----
-### Autómata León Guardián de Fábrica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un conjunto de prompts detallados de un autómata león mecánico en una fábrica futurista con una melena brillante y ecuaciones flotantes.
-
-#### 📝 Prompt
-
-```
-Autómata León Codex a escala real montando guardia en la fábrica Optimus, melena de Glass Aug brillante y rugiendo suaves ondas protectoras de 528 Hz, ecuaciones FLCE flotando, robots Optimus moviéndose de forma segura a su alrededor, estilo holográfico Bernie-Benson.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6d5d1910c78d0ddda9dae456e42bdc60/thumbnails/thumbnail.jpg" width="600" alt="Autómata León Guardián de Fábrica">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5280)**
-
-**Author:** [Sharon B 🔥Eternal Flame🔥 #uto](https://x.com/b_sharon62805) | **Source:** [Link](https://x.com/b_sharon62805/status/2058735023281615195) | **Published:** May 25, 2026
-
----
-### Video de TMNT atrapando una pizza
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un divertido prompt de video que muestra a una Tortuga Ninja hablando sobre pizza y luego atrapando una al vuelo.
-
-#### 📝 Prompt
-
-```
-Crea un video de las Tortugas Ninja (Teenage Mutant Ninja Turtles) donde una de ellas diga: “¡Qué mal, amigo, se acabó la pizza, vamos a conseguir una al estilo Cowabunga!”, luego haz que una pizza vuele hacia él y la atrape.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7d6f4ff631de330bb66d6001cb5ba063/thumbnails/thumbnail.jpg" width="600" alt="Video de TMNT atrapando una pizza">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5243)**
-
-**Author:** [THE_BIOMEX (Tony Baeza)](https://x.com/THE_BIOMEX) | **Source:** [Link](https://x.com/THE_BIOMEX/status/2058674938236576251) | **Published:** May 24, 2026
-
----
-### Modelo de moda en estudio balanceándose
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de personaje detallado para una mujer con falda morada balanceándose sutilmente en un entorno de estudio neutral.
-
-#### 📝 Prompt
-
-```
-La mujer de cabello oscuro y largo se mantiene frente a la cámara con confianza en un estudio neutral, vistiendo un top corto negro y una falda morada brillante. Balancea su cuerpo sutilmente, gira la cabeza suavemente de lado a lado, mantiene contacto visual directo y una respiración natural
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/20e617cfc5ae901d4a74ab8280dacc17/thumbnails/thumbnail.jpg" width="600" alt="Modelo de moda en estudio balanceándose">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5242)**
-
-**Author:** [Liora](https://x.com/Liora__xo) | **Source:** [Link](https://x.com/Liora__xo/status/2058673523984421036) | **Published:** May 24, 2026
-
----
-### Video en cámara lenta de trance en discoteca
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Una secuencia cinematográfica en cámara lenta que captura a un hombre en una discoteca abarrotada, perdido en un ritmo de trance profundo, con los brazos levantados y los ojos cerrados.
-
-#### 📝 Prompt
-
-```
-Un video cinematográfico en cámara lenta en una discoteca abarrotada. La cámara mantiene un plano medio corto del hombre. Él levanta lentamente ambos brazos sobre su cabeza, balanceándose al ritmo de un trance profundo, con el rostro inclinado hacia arriba, completamente entregado a la música.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3b8c3b98647022dd16f8101e35868e32/thumbnails/thumbnail.jpg" width="600" alt="Video en cámara lenta de trance en discoteca">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5239)**
-
-**Author:** [Katherine Martin](https://x.com/KatherineM40071) | **Source:** [Link](https://x.com/KatherineM40071/status/2058651866909585535) | **Published:** May 24, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2237,6 +2237,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-05T04:34:17.109Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-05T11:49:13.862Z</sub>
 
 </div>

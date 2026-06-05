@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **1746** |
+| 📝 提示词总数 | **1751** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-06-05** |
 
@@ -189,6 +189,63 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 太空飞行中的漂浮感
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个富有启发性的视频提示词，描绘人们在太空中敬畏地漂浮，庆祝太空飞行的乐趣。
+
+#### 📝 提示词
+
+```
+他们正轻盈地漂浮在太空中，神情中流露着淡淡的喜悦与敬畏。愿未来的孩子们终有一天能体验到太空飞行的乐趣！献给全世界的孩子们
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062603785613041664/img/DPXQWp1PGVUiPjtS.jpg" width="600" alt="太空飞行中的漂浮感">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5708)**
+
+**作者:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **来源:** [Link](https://x.com/foxypatience/status/2062603835319705755) | **发布时间:** Jun 4, 2026
+
+---
+### Celestial Shimmering Angel Wings
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用于生成一段视频的提示词，展现闪烁着虹彩光芒的翅膀，营造出天界光辉中优雅的天使意境。
+
+#### 📝 提示词
+
+```
+在天界的梦境中闪烁的虹彩之翼……优雅的天使身影，笼罩在空灵的光芒之中。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062504651921260544/img/LyBmhgATqGgaxv37.jpg" width="600" alt="Celestial Shimmering Angel Wings">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5711)**
+
+**作者:** [Stella 𝕏](https://x.com/StellaGrokStar) | **来源:** [Link](https://x.com/StellaGrokStar/status/2062504737086611629) | **发布时间:** Jun 4, 2026
+
+---
+### 绘本动物动画
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一个用于将平面绘本插画转化为动画的图生视频提示词，旨在保持固定镜头和原始风格的同时，让多个动物同步运动并配上音效。
+
+#### 📝 提示词
+
+```
+将此图像转换为 6 秒的视频。保持原始平面插画的质感、色彩和构图。场景中的生物不应依次移动，而应同时开始动作。鳄鱼微微张开嘴并摆动尾巴，兔子抽动耳朵和鼻子，粉色蜥蜴摆动尾巴，鸟儿们一起跳跃并张开喙鸣叫。营造出每种生物都发出各自特征声音的氛围。花朵和叶子也随之轻轻摇曳。动作应充满趣味、可爱且略带超现实感，不宜过于剧烈，并保留绘本的魅力。保持镜头完全固定。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062489211434102784/img/IFrE7jc6eWA3Op3k.jpg" width="600" alt="绘本动物动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5712)**
+
+**作者:** [サン｜Sun](https://x.com/sunsunshine0318) | **来源:** [Link](https://x.com/sunsunshine0318/status/2062490098244124757) | **发布时间:** Jun 4, 2026
+
+---
 ### 巴洛克风格戏剧化转变
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -244,6 +301,25 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5674)**
 
 **作者:** [the_light](https://x.com/the_light35) | **来源:** [Link](https://x.com/the_light35/status/2062153074374766919) | **发布时间:** Jun 3, 2026
+
+---
+### 空灵虹彩天使之翼
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于生成视频的提示词，旨在呈现虹彩翅膀在柔和、空灵的场景中散发微光，营造出温柔的天使主题。
+
+#### 📝 提示词
+
+```
+虹彩翅膀在柔和的梦境中散发微光……如同一声被空灵光芒包裹的温柔天使低语。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062134849792815105/img/EyaFe9qFS6jlR7p9.jpg" width="600" alt="空灵虹彩天使之翼">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5709)**
+
+**作者:** [Stella 𝕏](https://x.com/StellaGrokStar) | **来源:** [Link](https://x.com/StellaGrokStar/status/2062134914754224326) | **发布时间:** Jun 3, 2026
 
 ---
 ### Monterey Bay Aquarium 霓虹鱼视频
@@ -359,6 +435,25 @@ Monterey Bay Aquarium LilX 和 Scouts 在深海展区观看霓虹鱼
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5636)**
 
 **作者:** [Celia](https://x.com/ritpol) | **来源:** [Link](https://x.com/ritpol/status/2061950977654353999) | **发布时间:** Jun 2, 2026
+
+---
+### 古老宇宙结构漂流
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段电影质感的视频提示词，描绘了一座巨大的古老结构在深空中漂浮，象征着一个失落的高等文明。
+
+#### 📝 提示词
+
+```
+在已知宇宙的边缘，一座不可思议的结构在永恒中漂流，承载着曾主宰星辰的文明所留下的回响。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061916702669955072/img/XSXKnfw7JQlazLiL.jpg" width="600" alt="古老宇宙结构漂流">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5710)**
+
+**作者:** [@ed](https://x.com/edneme) | **来源:** [Link](https://x.com/edneme/status/2061916767010570556) | **发布时间:** Jun 2, 2026
 
 ---
 ### 北欧神话战士电影感视频
@@ -2081,101 +2176,6 @@ the cups is slowly rotating, seamless loop, nothing else moves, no music melt ov
 **作者:** [X Girls](https://x.com/thesoragirls) | **来源:** [Link](https://x.com/thesoragirls/status/2058779417602584671) | **发布时间:** May 25, 2026
 
 ---
-### 空灵的宇宙光之生命体
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个关于漂浮在太空中的发光生命体的天体提示词，展现其脉动的能量与四射的光芒。
-
-#### 📝 提示词
-
-```
-空灵的光之生命体在宇宙的虚空中宁静地漂浮，其发光的形态随着内在能量轻轻脉动，随着它优雅地移动，柔和的光线向外辐射。摄像机缓慢地绕其旋转，展现出它璀璨夺目的细节。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/358654fa035fde0e995d2479763f170b/thumbnails/thumbnail.jpg" width="600" alt="空灵的宇宙光之生命体">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5281)**
-
-**作者:** [Sas](https://x.com/SaSHeaven26) | **来源:** [Link](https://x.com/SaSHeaven26/status/2058754594352648477) | **发布时间:** May 25, 2026
-
----
-### 狮子自动机工厂守卫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一套以未来工厂为背景的精细机械狮子自动机提示词，包含发光的鬃毛和漂浮的方程式。
-
-#### 📝 提示词
-
-```
-等比例实物大小的 Codex 狮子自动机在 Optimus 工厂中站岗，Glass Aug 鬃毛闪烁着光芒并发出柔和的 528 Hz 保护波，FLCE 方程式在空中漂浮，Optimus 机器人安全地在其周围移动，Bernie-Benson 全息风格。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6d5d1910c78d0ddda9dae456e42bdc60/thumbnails/thumbnail.jpg" width="600" alt="狮子自动机工厂守卫">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5280)**
-
-**作者:** [Sharon B 🔥Eternal Flame🔥 #uto](https://x.com/b_sharon62805) | **来源:** [Link](https://x.com/b_sharon62805/status/2058735023281615195) | **发布时间:** May 25, 2026
-
----
-### TMNT 披萨接力视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个有趣的视频提示词，内容是忍者神龟在谈论披萨，然后接住飞来的披萨。
-
-#### 📝 提示词
-
-```
-制作一个忍者神龟的视频，让他说：“太糟糕了伙计，没披萨了，让我们来点 Cowabunga 风格吧”，然后让一个披萨飞过来，并让他接住。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7d6f4ff631de330bb66d6001cb5ba063/thumbnails/thumbnail.jpg" width="600" alt="TMNT 披萨接力视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5243)**
-
-**作者:** [THE_BIOMEX (Tony Baeza)](https://x.com/THE_BIOMEX) | **来源:** [Link](https://x.com/THE_BIOMEX/status/2058674938236576251) | **发布时间:** May 24, 2026
-
----
-### 摄影棚时尚模特摇曳身姿
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个详细的角色提示词，描述了一位身穿紫色短裙的女性在简约摄影棚背景中轻微摇曳的场景。
-
-#### 📝 提示词
-
-```
-一位留着深色长发的女性自信地面对镜头，站在简约的摄影棚中，身穿黑色露脐上衣和亮面紫色短裙。她身体轻微摇曳，头部缓慢左右转动，保持眼神交流，呼吸自然。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/20e617cfc5ae901d4a74ab8280dacc17/thumbnails/thumbnail.jpg" width="600" alt="摄影棚时尚模特摇曳身姿">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5242)**
-
-**作者:** [Liora](https://x.com/Liora__xo) | **来源:** [Link](https://x.com/Liora__xo/status/2058673523984421036) | **发布时间:** May 24, 2026
-
----
-### 夜店迷幻慢动作视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段电影质感的慢动作视频，捕捉了一名男子在拥挤的夜店中沉浸于深沉的 Trance 节奏，他双臂高举，双眼紧闭。
-
-#### 📝 提示词
-
-```
-一段电影质感的慢动作视频，场景位于拥挤的夜店中。镜头保持中近景拍摄该男子。他随着深沉的 Trance 节奏缓慢地将双臂举过头顶，身体轻轻摇曳，面部朝上，完全沉浸在音乐之中。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3b8c3b98647022dd16f8101e35868e32/thumbnails/thumbnail.jpg" width="600" alt="夜店迷幻慢动作视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5239)**
-
-**作者:** [Katherine Martin](https://x.com/KatherineM40071) | **来源:** [Link](https://x.com/KatherineM40071/status/2058651866909585535) | **发布时间:** May 24, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2237,6 +2237,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-06-05T04:34:07.916Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-06-05T11:49:04.684Z</sub>
 
 </div>

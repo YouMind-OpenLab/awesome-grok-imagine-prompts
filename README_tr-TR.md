@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1746** |
+| 📝 Total Prompts | **1751** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-05** |
 
@@ -189,6 +189,63 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Uzay Uçuşunda Süzülmek
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> İnsanların uzayda hayranlık içinde süzüldüğü ve uzay uçuşunun sevincini kutladığı, ilham verici bir video istemi.
+
+#### 📝 Prompt
+
+```
+Uzayda nazikçe süzülüyorlar, hafif bir mutluluk ve hayranlık içindeler. Çocukların bir gün Uzay Uçuşu keyfini deneyimleyebilmeleri umuduyla! Dünyanın tüm çocukları
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062603785613041664/img/DPXQWp1PGVUiPjtS.jpg" width="600" alt="Uzay Uçuşunda Süzülmek">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5708)**
+
+**Author:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **Source:** [Link](https://x.com/foxypatience/status/2062603835319705755) | **Published:** Jun 4, 2026
+
+---
+### Göksel Işıltılı Melek Kanatları
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Göksel bir parıltı içinde zarif bir melek varlığıyla ışıldayan yanardöner kanatların videosunu oluşturmak için bir komut.
+
+#### 📝 Prompt
+
+```
+Göksel rüyalarda ışıldayan yanardöner kanatlar… Ethereal bir parıltıyla sarmalanmış zarif bir melek varlığı.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062504651921260544/img/LyBmhgATqGgaxv37.jpg" width="600" alt="Göksel Işıltılı Melek Kanatları">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5711)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2062504737086611629) | **Published:** Jun 4, 2026
+
+---
+### Resimli Kitap Hayvan Animasyonu
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Düz bir resimli kitap illüstrasyonunu canlandırmak için kullanılan; sabit bir kamera ve orijinal stili korurken, birden fazla hayvanın aynı anda ses efektleriyle hareket etmesini sağlayan bir görselden videoya dönüştürme istemi.
+
+#### 📝 Prompt
+
+```
+Bu görseli 6 saniyelik bir videoya dönüştür. Orijinal düz illüstrasyonun dokusunu, renklerini ve kompozisyonunu koru. Sahnedeki yaratıklar sırayla değil, hepsi aynı anda hareket etmeye başlamalı. Timsah ağzını hafifçe açıp kuyruğunu sallıyor, tavşan kulaklarını ve burnunu oynatıyor, pembe kertenkele kuyruğunu kıvırıyor ve kuşlar hep birlikte zıplayıp cıvıldamak için gagalarını açıyor. Her yaratığın kendine has sesini çıkardığı bir atmosfer yarat. Çiçekler ve yapraklar da hafifçe sallanıyor. Hareketler eğlenceli, sevimli, hafif sürreal, çok yoğun olmayan bir yapıda olmalı ve resimli kitabın cazibesini korumalı. Kamerayı tamamen sabit tut.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062489211434102784/img/IFrE7jc6eWA3Op3k.jpg" width="600" alt="Resimli Kitap Hayvan Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5712)**
+
+**Author:** [サン｜Sun](https://x.com/sunsunshine0318) | **Source:** [Link](https://x.com/sunsunshine0318/status/2062490098244124757) | **Published:** Jun 4, 2026
+
+---
 ### Barok Tarzında Dramatik Dönüşüm
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -244,6 +301,25 @@ Yeni şeytana dönüştüğünde ne olduğuna dair bir resim aldım. Ve "ya beda
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5674)**
 
 **Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2062153074374766919) | **Published:** Jun 3, 2026
+
+---
+### Ethereal Yanardöner Melek Kanatları
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Pastel tonlarda, ruhani bir ortamda hafifçe parlayan ve yumuşak bir melek temasına sahip yanardöner kanatların videosunu oluşturmak için bir komut.
+
+#### 📝 Prompt
+
+```
+Pastel rüyalarda hafifçe parlayan yanardöner kanatlar… Ruhani bir ışıkla sarmalanmış yumuşak bir melek fısıltısı.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062134849792815105/img/EyaFe9qFS6jlR7p9.jpg" width="600" alt="Ethereal Yanardöner Melek Kanatları">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5709)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2062134914754224326) | **Published:** Jun 3, 2026
 
 ---
 ### Monterey Bay Aquarium Neon Balık Videosu
@@ -359,6 +435,25 @@ Genç kadın, turuncu-kırmızı kokteylin bulunduğu büyük ayaklı bardağı 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5636)**
 
 **Author:** [Celia](https://x.com/ritpol) | **Source:** [Link](https://x.com/ritpol/status/2061950977654353999) | **Published:** Jun 2, 2026
+
+---
+### Antik Kozmik Yapı Sürüklenişi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Derin uzayda süzülen, kayıp ve gelişmiş bir medeniyeti simgeleyen antik, devasa bir yapıya dair sinematik video istemi.
+
+#### 📝 Prompt
+
+```
+Bilinen uzayın sınırında, imkansız bir yapı sonsuzluk boyunca sürükleniyor ve yıldızlara hükmetmiş bir medeniyetin yankılarını taşıyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061916702669955072/img/XSXKnfw7JQlazLiL.jpg" width="600" alt="Antik Kozmik Yapı Sürüklenişi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5710)**
+
+**Author:** [@ed](https://x.com/edneme) | **Source:** [Link](https://x.com/edneme/status/2061916767010570556) | **Published:** Jun 2, 2026
 
 ---
 ### İskandinav Tanrısı Savaşçı Sinematik Videosu
@@ -2081,101 +2176,6 @@ Ava'nın XAI'deki stajyerlik gününü anlatan komik bir video; Ava'nın Grok Bu
 **Author:** [X Girls](https://x.com/thesoragirls) | **Source:** [Link](https://x.com/thesoragirls/status/2058779417602584671) | **Published:** May 25, 2026
 
 ---
-### Ethereal Cosmic Light Being
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Uzayda süzülen, nabız gibi atan enerjiye ve yayılan ışığa sahip parlayan bir ışık varlığı için göksel bir komut.
-
-#### 📝 Prompt
-
-```
-Ethereal ışık varlığı, kozmik ve ruhani bir boşlukta huzur içinde süzülüyor; ışıldayan formu içsel bir enerjiyle hafifçe nabız gibi atıyor. Varlık zarif bir şekilde hareket ederken dışarıya doğru yumuşak ışık huzmeleri yayılıyor; kamera, ışıltılı detaylarını gözler önüne sermek için yavaşça etrafında dönüyor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/358654fa035fde0e995d2479763f170b/thumbnails/thumbnail.jpg" width="600" alt="Ethereal Cosmic Light Being">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5281)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2058754594352648477) | **Published:** May 25, 2026
-
----
-### Aslan Otomat Fabrika Muhafızı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Fütüristik bir fabrikada, parlayan yelesi ve havada süzülen denklemleriyle detaylı mekanik aslan otomatı istemi.
-
-#### 📝 Prompt
-
-```
-Optimus fabrikasında nöbet tutan gerçek boyutlu Codex Aslan Otomatı, parlayan ve nazikçe 528 Hz koruyucu dalgalar kükreyen Cam Aug yelesi, havada süzülen FLCE denklemleri, etrafında güvenle hareket eden Optimus robotları, Bernie-Benson holografik tarzı.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6d5d1910c78d0ddda9dae456e42bdc60/thumbnails/thumbnail.jpg" width="600" alt="Aslan Otomat Fabrika Muhafızı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5280)**
-
-**Author:** [Sharon B 🔥Eternal Flame🔥 #uto](https://x.com/b_sharon62805) | **Source:** [Link](https://x.com/b_sharon62805/status/2058735023281615195) | **Published:** May 25, 2026
-
----
-### TMNT Pizza Yakalama Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Pizza hakkında konuşan ve ardından uçan bir pizzayı yakalayan bir Ninja Kaplumbağa içeren eğlenceli bir video istemi.
-
-#### 📝 Prompt
-
-```
-Ninja Kaplumbağalar'dan birinin “tüh be dostum, pizza kalmadı, hadi Cowabunga tarzı bir şeyler yapalım” dediği bir video hazırlayın, ardından bir pizzanın uçarak gelmesini ve karakterin onu yakalamasını sağlayın.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7d6f4ff631de330bb66d6001cb5ba063/thumbnails/thumbnail.jpg" width="600" alt="TMNT Pizza Yakalama Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5243)**
-
-**Author:** [THE_BIOMEX (Tony Baeza)](https://x.com/THE_BIOMEX) | **Source:** [Link](https://x.com/THE_BIOMEX/status/2058674938236576251) | **Published:** May 24, 2026
-
----
-### Stüdyo Ortamında Salınan Moda Modeli
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Nötr bir stüdyo ortamında hafifçe salınan, mor etekli bir kadın için detaylı karakter istemi.
-
-#### 📝 Prompt
-
-```
-Uzun koyu renk saçlı kadın, nötr bir stüdyoda siyah bir crop top ve parlak mor bir etek giymiş halde, kendinden emin bir şekilde kameraya bakıyor. Vücudunu hafifçe sallıyor, başını yavaşça iki yana çeviriyor, doğrudan göz temasını koruyor ve doğal bir şekilde nefes alıyor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/20e617cfc5ae901d4a74ab8280dacc17/thumbnails/thumbnail.jpg" width="600" alt="Stüdyo Ortamında Salınan Moda Modeli">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5242)**
-
-**Author:** [Liora](https://x.com/Liora__xo) | **Source:** [Link](https://x.com/Liora__xo/status/2058673523984421036) | **Published:** May 24, 2026
-
----
-### Gece Kulübünde Trance Müzik Eşliğinde Ağır Çekim Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kalabalık bir gece kulübünde, derin bir trance ritmine kendini kaptırmış, kolları havada ve gözleri kapalı bir adamı yakalayan sinematik bir ağır çekim sekansı.
-
-#### 📝 Prompt
-
-```
-Kalabalık bir gece kulübünde geçen sinematik bir ağır çekim video. Kamera, adamın üzerinde orta yakın çekim bir açıda sabit kalıyor. Adam, derin bir trance ritmiyle sallanarak kollarını yavaşça başının üzerine kaldırıyor; yüzü yukarıya dönük, tamamen müziğin akışına teslim olmuş durumda.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3b8c3b98647022dd16f8101e35868e32/thumbnails/thumbnail.jpg" width="600" alt="Gece Kulübünde Trance Müzik Eşliğinde Ağır Çekim Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5239)**
-
-**Author:** [Katherine Martin](https://x.com/KatherineM40071) | **Source:** [Link](https://x.com/KatherineM40071/status/2058651866909585535) | **Published:** May 24, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2237,6 +2237,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-05T04:34:25.644Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-05T11:49:23.782Z</sub>
 
 </div>

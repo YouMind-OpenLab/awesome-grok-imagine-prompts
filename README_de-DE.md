@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1746** |
+| 📝 Total Prompts | **1751** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-05** |
 
@@ -189,6 +189,63 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Schwerelos im Weltraumflug
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein inspirierender Prompt für ein Video von Menschen, die voller Staunen durch den Weltraum schweben und die Freude am Weltraumflug zelebrieren.
+
+#### 📝 Prompt
+
+```
+Sie schweben sanft durch den Weltraum, erfüllt von subtilem Glück und Staunen. In der Hoffnung, dass Kinder eines Tages das Vergnügen eines Weltraumflugs erleben werden! Alle Kinder der Welt
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062603785613041664/img/DPXQWp1PGVUiPjtS.jpg" width="600" alt="Schwerelos im Weltraumflug">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5708)**
+
+**Author:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **Source:** [Link](https://x.com/foxypatience/status/2062603835319705755) | **Published:** Jun 4, 2026
+
+---
+### Himmlisch schimmernde Engelsflügel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Erstellung eines Videos von irisierenden Flügeln, die mit einer anmutigen engelhaften Präsenz in einem himmlischen Glanz schimmern.
+
+#### 📝 Prompt
+
+```
+Irisierende Flügel, die in himmlischen Träumen schimmern… Eine anmutige engelhafte Präsenz, eingehüllt in ätherisches Leuchten.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062504651921260544/img/LyBmhgATqGgaxv37.jpg" width="600" alt="Himmlisch schimmernde Engelsflügel">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5711)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2062504737086611629) | **Published:** Jun 4, 2026
+
+---
+### Bilderbuch-Tieranimation
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ein Image-to-Video-Prompt zur Animation einer flachen Bilderbuchillustration, bei der sich mehrere Tiere gleichzeitig mit Soundeffekten bewegen, während die Kamera fixiert bleibt und der ursprüngliche Stil erhalten bleibt.
+
+#### 📝 Prompt
+
+```
+Verwandle dieses Bild in ein 6-sekündiges Video. Behalte die Textur, die Farben und die Komposition der ursprünglichen flachen Illustration bei. Die Kreaturen in der Szene sollen sich nicht nacheinander, sondern alle gleichzeitig bewegen. Das Krokodil öffnet leicht das Maul und wedelt mit dem Schwanz, der Hase zuckt mit den Ohren und der Nase, die rosa Eidechse wedelt mit dem Schwanz und die Vögel hüpfen zusammen und öffnen ihre Schnäbel zum Zwitschern. Erzeuge eine Atmosphäre, in der jede Kreatur ihr eigenes charakteristisches Geräusch macht. Blumen und Blätter wiegen sich ebenfalls sanft. Die Bewegung sollte unterhaltsam, niedlich, leicht surreal und nicht zu intensiv sein und den Charme eines Bilderbuchs bewahren. Halte die Kamera komplett fixiert.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062489211434102784/img/IFrE7jc6eWA3Op3k.jpg" width="600" alt="Bilderbuch-Tieranimation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5712)**
+
+**Author:** [サン｜Sun](https://x.com/sunsunshine0318) | **Source:** [Link](https://x.com/sunsunshine0318/status/2062490098244124757) | **Published:** Jun 4, 2026
+
+---
 ### Dramatische Verwandlung im Barock-Stil
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -244,6 +301,25 @@ Ich habe ein Bild davon, was passiert, wenn sich jemand in den Teufel verwandelt
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5674)**
 
 **Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2062153074374766919) | **Published:** Jun 3, 2026
+
+---
+### Ätherische irisierende Engelsflügel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Erstellung eines Videos von irisierenden Flügeln, die in einer pastellfarbenen, ätherischen Umgebung sanft leuchten, mit einem zarten engelhaften Thema.
+
+#### 📝 Prompt
+
+```
+Irisierende Flügel, die sanft in pastellfarbenen Träumen leuchten… Ein zartes engelhaftes Flüstern, eingehüllt in ätherisches Licht.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062134849792815105/img/EyaFe9qFS6jlR7p9.jpg" width="600" alt="Ätherische irisierende Engelsflügel">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5709)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2062134914754224326) | **Published:** Jun 3, 2026
 
 ---
 ### Video von Neonfischen im Monterey Bay Aquarium
@@ -359,6 +435,25 @@ Die junge Frau führt das große Stielglas mit dem orange-roten Cocktail sanft a
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5636)**
 
 **Author:** [Celia](https://x.com/ritpol) | **Source:** [Link](https://x.com/ritpol/status/2061950977654353999) | **Published:** Jun 2, 2026
+
+---
+### Drift einer antiken kosmischen Struktur
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein cineastischer Video-Prompt einer antiken, massiven Struktur, die durch den tiefen Weltraum treibt und eine verlorene hochentwickelte Zivilisation symbolisiert.
+
+#### 📝 Prompt
+
+```
+Am Rande des bekannten Weltraums treibt eine unmögliche Struktur durch die Ewigkeit und trägt die Echos einer Zivilisation in sich, die die Sterne beherrschte.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061916702669955072/img/XSXKnfw7JQlazLiL.jpg" width="600" alt="Drift einer antiken kosmischen Struktur">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5710)**
+
+**Author:** [@ed](https://x.com/edneme) | **Source:** [Link](https://x.com/edneme/status/2061916767010570556) | **Published:** Jun 2, 2026
 
 ---
 ### Filmreifes Video eines nordischen Kriegergottes
@@ -2081,101 +2176,6 @@ Ein humorvolles Video über Avas Tag als Praktikantin bei XAI, an dem sie lernen
 **Author:** [X Girls](https://x.com/thesoragirls) | **Source:** [Link](https://x.com/thesoragirls/status/2058779417602584671) | **Published:** May 25, 2026
 
 ---
-### Ätherisches kosmisches Lichtwesen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein himmlischer Prompt für ein leuchtendes Lichtwesen, das im Weltraum schwebt, mit pulsierender Energie und ausstrahlendem Licht.
-
-#### 📝 Prompt
-
-```
-Das ätherische Lichtwesen schwebt gelassen durch einen kosmischen, ätherischen Raum. Seine leuchtende Form pulsiert sanft mit innerer Energie, während weiche Lichtstrahlen nach außen dringen, während es sich anmutig bewegt. Die Kamera umkreist es langsam, um seine strahlenden Details zu enthüllen.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/358654fa035fde0e995d2479763f170b/thumbnails/thumbnail.jpg" width="600" alt="Ätherisches kosmisches Lichtwesen">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5281)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2058754594352648477) | **Published:** May 25, 2026
-
----
-### Löwen-Automaten-Fabrikwächter
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detailliertes Prompt-Set für einen mechanischen Löwen-Automaten in einer futuristischen Fabrik mit leuchtender Mähne und schwebenden Gleichungen.
-
-#### 📝 Prompt
-
-```
-Lebensgroßer Codex-Löwen-Automat als Wächter in der Optimus-Fabrik, leuchtende Glass-Aug-Mähne, die sanfte 528-Hz-Schutzwellen ausstößt, schwebende FLCE-Gleichungen, Optimus-Roboter bewegen sich sicher um ihn herum, im holografischen Stil von Bernie-Benson.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6d5d1910c78d0ddda9dae456e42bdc60/thumbnails/thumbnail.jpg" width="600" alt="Löwen-Automaten-Fabrikwächter">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5280)**
-
-**Author:** [Sharon B 🔥Eternal Flame🔥 #uto](https://x.com/b_sharon62805) | **Source:** [Link](https://x.com/b_sharon62805/status/2058735023281615195) | **Published:** May 25, 2026
-
----
-### TMNT Pizza-Fang-Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein unterhaltsamer Video-Prompt, in dem eine Ninja Turtle über Pizza spricht und anschließend eine fliegende Pizza fängt.
-
-#### 📝 Prompt
-
-```
-Erstelle ein Video mit einer Teenage Mutant Ninja Turtle, die sagt: „Mist, Mann, keine Pizza mehr, lass uns eine im Cowabunga-Style besorgen“. Danach soll eine Pizza angeflogen kommen, die die Turtle dann fängt.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7d6f4ff631de330bb66d6001cb5ba063/thumbnails/thumbnail.jpg" width="600" alt="TMNT Pizza-Fang-Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5243)**
-
-**Author:** [THE_BIOMEX (Tony Baeza)](https://x.com/THE_BIOMEX) | **Source:** [Link](https://x.com/THE_BIOMEX/status/2058674938236576251) | **Published:** May 24, 2026
-
----
-### Studio-Fotomodell beim Wiegen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Charakter-Prompt für eine Frau in einem violetten Rock, die sich in einer neutralen Studio-Umgebung dezent wiegt.
-
-#### 📝 Prompt
-
-```
-Die Frau mit langem dunklen Haar steht selbstbewusst in einem neutralen Studio vor der Kamera und trägt ein schwarzes bauchfreies Oberteil sowie einen glänzenden violetten Rock. Sie wiegt ihren Körper dezent, dreht ihren Kopf sanft von einer Seite zur anderen, hält direkten Blickkontakt und atmet natürlich.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/20e617cfc5ae901d4a74ab8280dacc17/thumbnails/thumbnail.jpg" width="600" alt="Studio-Fotomodell beim Wiegen">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5242)**
-
-**Author:** [Liora](https://x.com/Liora__xo) | **Source:** [Link](https://x.com/Liora__xo/status/2058673523984421036) | **Published:** May 24, 2026
-
----
-### Nightclub Trance Slow-Motion-Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eine filmische Zeitlupensequenz, die einen Mann in einem vollen Nachtclub zeigt, der sich in einem tiefen Trance-Beat verliert, mit erhobenen Armen und geschlossenen Augen.
-
-#### 📝 Prompt
-
-```
-Ein filmisches Zeitlupenvideo in einem vollen Nachtclub. Die Kamera zeigt eine mittlere Nahaufnahme des Mannes. Er hebt langsam beide Arme über den Kopf, wiegt sich zu einem tiefen Trance-Beat, das Gesicht nach oben gerichtet, völlig der Musik hingegeben.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3b8c3b98647022dd16f8101e35868e32/thumbnails/thumbnail.jpg" width="600" alt="Nightclub Trance Slow-Motion-Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5239)**
-
-**Author:** [Katherine Martin](https://x.com/KatherineM40071) | **Source:** [Link](https://x.com/KatherineM40071/status/2058651866909585535) | **Published:** May 24, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2237,6 +2237,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-05T04:34:19.662Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-05T11:49:16.580Z</sub>
 
 </div>
