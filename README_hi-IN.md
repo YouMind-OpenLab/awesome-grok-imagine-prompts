@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1751** |
+| 📝 Total Prompts | **1755** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-06** |
 
@@ -189,6 +189,63 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### एनीमे स्टाइल सीन एनिमेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए डिज़ाइन किया गया एक प्रॉम्प्ट, जो संलग्न इमेज से एक विशिष्ट दृश्य को एनिमेट करने के लिए है, यह सुनिश्चित करते हुए कि इस दौरान मूल आर्ट स्टाइल और लाइन वर्क बरकरार रहे।
+
+#### 📝 Prompt
+
+```
+संलग्न इमेज से इस दृश्य को एनिमेट करें, स्ट्रोक्स और ड्राइंग की स्टाइल को बनाए रखें लेकिन यह दिखाएं कि यह एनकाउंटर कैसा होगा। आप तदनुसार डबिंग कर सकते हैं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062924986973560833/img/lHuV0w6q4tp-J7hJ.jpg" width="600" alt="एनीमे स्टाइल सीन एनिमेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5734)**
+
+**Author:** [Ward'z de Souza I](https://x.com/Wardz_de_souzA) | **Source:** [Link](https://x.com/Wardz_de_souzA/status/2062925042980200505) | **Published:** Jun 5, 2026
+
+---
+### तैरते द्वीप और चट्टानी मीनारें
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> सुनहरे बादलों के ऊपर तैरते हुए टेक्टोनिक द्वीपों और नुकीली चट्टानी मीनारों को उत्पन्न करने के लिए एक सिनेमैटिक वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+यह दृश्य विशाल, नुकीली चट्टानी मीनारों और सुनहरे बादलों के घने, लहराते समुद्र के ऊपर लटके हुए तैरते टेक्टोनिक द्वीपों से भरा हुआ है। वातावरण पूरी तरह से अपरिवर्तित रहता है....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062781490543665152/img/Ss9zazr3GRpfhBHe.jpg" width="600" alt="तैरते द्वीप और चट्टानी मीनारें">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5732)**
+
+**Author:** [amir prince arjmand kermani](https://x.com/PrinceKermani) | **Source:** [Link](https://x.com/PrinceKermani/status/2062781582730285234) | **Published:** Jun 5, 2026
+
+---
+### विशाल सूर्यास्त लहर पर सर्फिंग
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक सिनेमैटिक वीडियो प्रॉम्प्ट, जिसमें एक सर्फर को सूर्यास्त के समय एक साइंस-फिक्शन ग्रहीय खाड़ी में 100 मीटर ऊंची लहर पकड़ते हुए दिखाया गया है।
+
+#### 📝 Prompt
+
+```
+सूर्यास्त के समय X Planet की खाड़ी में अपने 7’2” Channel Islands सर्फ़बोर्ड पर बैठा हूँ, पृष्ठभूमि में दूर पहाड़ हैं, पानी लचीला और अत्यधिक परावर्तक है, एक विशाल 100 मीटर की लहर आ रही है, खड़े होकर दाहिनी रेल को पकड़ें
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062757689944338432/img/Hx9cnyTFXngh-rw-.jpg" width="600" alt="विशाल सूर्यास्त लहर पर सर्फिंग">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5731)**
+
+**Author:** [Notzucow](https://x.com/Notzucow69) | **Source:** [Link](https://x.com/Notzucow69/status/2062757757128695887) | **Published:** Jun 5, 2026
+
+---
 ### अंतरिक्ष उड़ान में तैरना
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -620,6 +677,28 @@ Superman ऊपर तैरते हुए पेड़ से बिल्ल
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5637)**
 
 **Author:** [Sarah](https://x.com/AIwithSarah_) | **Source:** [Link](https://x.com/AIwithSarah_/status/2061755438295875742) | **Published:** Jun 2, 2026
+
+---
+### सेलेस्टियल एबिस मरमेड और ऑक्टोपस गार्जियन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सिनेमैटिक वीडियो प्रॉम्प्ट जिसमें एक मरमेड एम्प्रेस (जलपरी साम्राज्ञी) गहराई में एक दिव्य तीन-हृदय वाले ऑक्टोपस गार्जियन के साथ आगे बढ़ रही है, जो रहस्य और बुद्धिमत्ता का प्रतीक है।
+
+#### 📝 Prompt
+
+```
+सेलेस्टियल पैन्थियन
+एबिस मरमेड एम्प्रेस और सेलेस्टियल ऑक्टोपस गार्जियन
+
+वह अपने तीन-हृदय वाले गार्जियन के साथ गहराई, रहस्य और अनदेखी बुद्धिमत्ता के बीच आगे बढ़ती है, जो यह दर्शाती है कि ज्ञान तब शुरू होता है जब हम अज्ञात में अकेले खड़े होकर भी पूर्ण बने रहते हैं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061744882121674752/img/uNkt6QAO0aWodkR7.jpg" width="600" alt="सेलेस्टियल एबिस मरमेड और ऑक्टोपस गार्जियन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5733)**
+
+**Author:** [Tugba](https://x.com/TGBA2023) | **Source:** [Link](https://x.com/TGBA2023/status/2061745886078591381) | **Published:** Jun 2, 2026
 
 ---
 ### अतियथार्थवादी क्रिस्टलाइज्ड फेस ट्रांसफॉर्मेशन
@@ -2099,84 +2178,6 @@ BlueGoo और Vera का एक भविष्यवादी डिजिट
 **Author:** [Ƥ!ЖΣLƁΘUNCΣR](https://x.com/pixelbouncer) | **Source:** [Link](https://x.com/pixelbouncer/status/2058837007070077425) | **Published:** May 25, 2026
 
 ---
-### स्टीमपंक मून बेस क्वीन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> चंद्रमा के आधार पर एक रेट्रो-फ्यूचरिस्टिक स्टीमपंक दृश्य, जहाँ एक रानी अपने रोबोट के साथ मिलकर परमाणु लेज़र गन का उपयोग करती है।
-
-#### 📝 Prompt
-
-```
-चंद्रमा के आधार पर एक रेट्रो-फ्यूचरिस्टिक स्टीमपंक दृश्य, जहाँ एक रानी अपने रोबोट के साथ मिलकर परमाणु लेज़र गन का उपयोग करती है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8031f4f6f6d5b5bcd145cda9d03410c6/thumbnails/thumbnail.jpg" width="600" alt="स्टीमपंक मून बेस क्वीन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5285)**
-
-**Author:** [Tugba](https://x.com/TGBA2023) | **Source:** [Link](https://x.com/TGBA2023/status/2058836555138060717) | **Published:** May 25, 2026
-
----
-### डेजर्ट मिस्टिक क्वीन पोर्ट्रेट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक व्यस्त बाज़ार में प्राचीन सौंदर्य और विज्ञान-फाई तकनीक के मिश्रण के साथ, एक डेजर्ट मिस्टिक क्वीन के सिनेमाई फुल-बॉडी पोर्ट्रेट के लिए एक व्यापक प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-एक डेजर्ट मिस्टिक क्वीन का फोटो-यथार्थवादी फुल-बॉडी सिनेमाई पोर्ट्रेट, जो सूर्य से झुलसी हुई रेगिस्तानी दुनिया पर शासन करने वाली एक शक्तिशाली जादूगरनी-पुजारिन है, जिसमें प्राचीन रेगिस्तानी साम्राज्य को आधुनिक विज्ञान-फाई तकनीक के साथ जोड़ा गया है। वह सुनहरी घड़ी (गोल्डन आवर) के दौरान एक हलचल भरे बाहरी रेगिस्तानी बाज़ार में खड़ी है, सिर से पैर तक का पूरा शरीर, मजबूत कॉन्ट्रापोस्टो पोज़, कूल्हे थोड़े झुके हुए, सुरुचिपूर्ण S-आकार की सिल्हूट। दाहिना हाथ एक लंबा काला-और-सुनहरा औपचारिक स्टाफ ज़मीन में तिरछा गड़ा हुआ है; बायां हाथ ऊपर उठा हुआ, हथेली ऊपर की ओर, उसकी उंगलियों के चारों ओर चमकते ऊर्जा कण घूम रहे हैं। रेगिस्तानी हवा उसके केसरिया-सुनहरे हुड वाले लबादे और पन्ने के रंग के स्कर्ट को लहरा रही है।
-गर्म कांस्य त्वचा, हल्की चमकती एम्बर-हरी आँखें, एक कंधे पर लंबे घने गहरे लाल घुंघराले बाल, बड़े आकार का अलंकृत सुनहरा हुड जो उसके चेहरे के एक तरफ छाया डाल रहा है, शांत और प्रभावशाली खतरनाक अभिव्यक्ति। परतों वाले कपड़े के साथ नाटकीय केसरिया-सुनहरा लबादा, लंबी आस्तीन, लंबी ट्रेल, धात्विक धागे, हल्के चमकते पैटर्न। गहरे पन्ने के रंग की पुजारिन पोशाक जिसमें रैप्ड हॉल्टर टॉप, हल्के धात्विक प्लेटिंग, रत्नों से जड़े छाती के आभूषण, परतदार सोने के हार, चमकता रूबी-लाल क्रिस्टल पेंडेंट, अलंकृत चूड़ियाँ, रूण-नक्काशीदार आर्म कफ, सूक्ष्म होलोग्राफिक लहजे के साथ कम लटकती सोने की चेन बेल्ट। ऊंचे साइड स्लिट्स के साथ असममित पन्ना स्कर्ट, गहरे ज्यामितीय टेक-लेस थाई-हाई स्टॉकिंग्स, सोने और ओब्सीडियन के ओपन-टो हील्ड सैंडल।
-स्टाफ: तेज भाले जैसा सिरा, चमकता लाल ऊर्जा-क्रिस्टल कोर, नक्काशीदार सूर्य के निशान, उन्नत ऊर्जा तकनीक के साथ मिश्रित प्राचीन जादुई अवशेष। पृष्ठभूमि: विदेशी व्यापारियों, लबादा पहने आकृतियों, अजीब रेगिस्तानी जीवों, रंगीन शामियानों, धात्विक विज्ञान-फाई वास्तुकला के साथ मिश्रित बलुआ पत्थर की इमारतों, होलोग्राफिक संकेतों, तैरते लालटेन, धूल, गर्मी की चमक, सुनहरी सूर्य की किरणों और सूक्ष्म जादू के साथ जीवंत रेगिस्तानी बाज़ार। समृद्ध केसरिया सोना, गहरा पन्ना, कांस्य, रूबी-लाल ऊर्जा, ओब्सीडियन काला। हाई-एंड सिनेमाई यथार्थवाद, यथार्थवादी त्वचा के रोमछिद्र, घुंघराले बाल, बहता रेशम, धात्विक कपड़े, जटिल आभूषण, तकनीकी विवरण, नाटकीय वॉल्यूमेट्रिक लाइटिंग, उथली गहराई (शैलो डेप्थ ऑफ फील्ड), धुंधला व्यस्त बाज़ार, प्राचीन-भविष्यवादी बाज़ार का माहौल।
-```
-
-<img src="https://cms-assets.youmind.com/media/1779784410381_2kqq2y_HJJy0Q4XcAAPfIr.jpg" width="600" alt="डेजर्ट मिस्टिक क्वीन पोर्ट्रेट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5289)**
-
-**Author:** [DUST](https://x.com/Dustfinger2077) | **Source:** [Link](https://x.com/Dustfinger2077/status/2058834229635485907) | **Published:** May 25, 2026
-
----
-### शून्य गुरुत्वाकर्षण में अंतरिक्ष यात्री बच्चे
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> अंतरिक्ष सूट पहने हुए किंडरगार्टन के बच्चों का एक उपग्रह के बाहर बिल्ली के बच्चे के साथ तैरते हुए एक चंचल और मनमौजी वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-अंतरिक्ष सूट पहने हुए किंडरगार्टन के बच्चों का एक उपग्रह के बाहर बिल्ली के बच्चे के साथ तैरते हुए एक चंचल और मनमौजी वीडियो प्रॉम्प्ट।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/236e1ac5e8467eddbffb21fa1e518d1a/thumbnails/thumbnail.jpg" width="600" alt="शून्य गुरुत्वाकर्षण में अंतरिक्ष यात्री बच्चे">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5284)**
-
-**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2058789204243701814) | **Published:** May 25, 2026
-
----
-### XAI में इंटर्न का मज़ेदार संघर्ष
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक नैरेटिव वीडियो प्रॉम्प्ट जो XAI में तकनीकी टूल्स सीखने के दौरान एक इंटर्न की मज़ेदार कठिनाइयों को दर्शाता है।
-
-#### 📝 Prompt
-
-```
-XAI में इंटर्न के रूप में Ava के दिन का एक मज़ेदार वीडियो, जहाँ उसे Grok Build का उपयोग करना सीखना है, लेकिन वह एक डेवलपर नहीं है और वह बहुत संघर्ष कर रही है।
-```
-
-<img src="https://cms-assets.youmind.com/media/1779699438116_9ld7ua_HJI_VekWMAAgNnG.jpg" width="600" alt="XAI में इंटर्न का मज़ेदार संघर्ष">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5249)**
-
-**Author:** [X Girls](https://x.com/thesoragirls) | **Source:** [Link](https://x.com/thesoragirls/status/2058779417602584671) | **Published:** May 25, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2238,6 +2239,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-06T04:18:15.331Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-06T10:24:24.996Z</sub>
 
 </div>

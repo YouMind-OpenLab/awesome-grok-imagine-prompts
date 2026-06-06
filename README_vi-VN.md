@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1751** |
+| 📝 Total Prompts | **1755** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-06** |
 
@@ -189,6 +189,63 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Hoạt ảnh cảnh theo phong cách Anime
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh được thiết kế cho Grok Imagine để tạo hoạt ảnh cho một cảnh cụ thể từ hình ảnh đính kèm, đảm bảo phong cách nghệ thuật và nét vẽ gốc được giữ nguyên trong suốt quá trình chuyển động.
+
+#### 📝 Prompt
+
+```
+Hãy tạo hoạt ảnh cho cảnh này từ hình ảnh đính kèm, giữ nguyên phong cách của các nét vẽ và hình minh họa nhưng hãy thể hiện cuộc gặp gỡ này sẽ diễn ra như thế nào. Bạn có thể lồng tiếng cho phù hợp.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062924986973560833/img/lHuV0w6q4tp-J7hJ.jpg" width="600" alt="Hoạt ảnh cảnh theo phong cách Anime">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5734)**
+
+**Author:** [Ward'z de Souza I](https://x.com/Wardz_de_souzA) | **Source:** [Link](https://x.com/Wardz_de_souzA/status/2062925042980200505) | **Published:** Jun 5, 2026
+
+---
+### Các hòn đảo nổi và những ngọn tháp đá
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) video điện ảnh để tạo ra các hòn đảo kiến tạo trôi nổi và những ngọn tháp đá lởm chởm phía trên những đám mây vàng.
+
+#### 📝 Prompt
+
+```
+Khung cảnh được bao phủ bởi những ngọn tháp đá khổng lồ, lởm chởm và các hòn đảo kiến tạo trôi nổi lơ lửng phía trên biển mây vàng cuồn cuộn, dày đặc. Môi trường xung quanh vẫn hoàn toàn không thay đổi....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062781490543665152/img/Ss9zazr3GRpfhBHe.jpg" width="600" alt="Các hòn đảo nổi và những ngọn tháp đá">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5732)**
+
+**Author:** [amir prince arjmand kermani](https://x.com/PrinceKermani) | **Source:** [Link](https://x.com/PrinceKermani/status/2062781582730285234) | **Published:** Jun 5, 2026
+
+---
+### Lướt sóng trên con sóng hoàng hôn khổng lồ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video điện ảnh dành cho Grok Imagine mô tả một vận động viên lướt sóng đang bắt lấy con sóng cao 100 mét tại một vịnh hành tinh khoa học viễn tưởng lúc hoàng hôn.
+
+#### 📝 Prompt
+
+```
+Đang ngồi trên ván lướt sóng Channel Islands 7’2” của tôi vào lúc hoàng hôn tại vịnh X Planet, phía xa là những dãy núi, mặt nước kiên cố và phản chiếu mạnh, một con sóng khổng lồ cao 100 mét đang cuộn tới, đứng dậy và nắm lấy thanh ray bên phải
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062757689944338432/img/Hx9cnyTFXngh-rw-.jpg" width="600" alt="Lướt sóng trên con sóng hoàng hôn khổng lồ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5731)**
+
+**Author:** [Notzucow](https://x.com/Notzucow69) | **Source:** [Link](https://x.com/Notzucow69/status/2062757757128695887) | **Published:** Jun 5, 2026
+
+---
 ### Lơ lửng trong chuyến bay vào vũ trụ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -620,6 +677,28 @@ thẩm mỹ sổ phác thảo đô thị cao cấp, phác thảo kiến trúc v�
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5637)**
 
 **Author:** [Sarah](https://x.com/AIwithSarah_) | **Source:** [Link](https://x.com/AIwithSarah_/status/2061755438295875742) | **Published:** Jun 2, 2026
+
+---
+### Nàng tiên cá vực thẳm thiên giới và Người bảo hộ bạch tuộc
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video điện ảnh về nữ hoàng tiên cá di chuyển qua những tầng sâu cùng người bảo hộ là chú bạch tuộc ba tim mang hơi thở thiên giới, tượng trưng cho sự bí ẩn và trí tuệ.
+
+#### 📝 Prompt
+
+```
+Điện thờ Thiên giới
+Nữ hoàng tiên cá vực thẳm & Người bảo hộ bạch tuộc thiên giới
+
+Nàng di chuyển qua những tầng sâu, sự bí ẩn và trí tuệ vô hình cùng Người bảo hộ ba tim của mình, hé lộ rằng trí tuệ bắt đầu khi chúng ta có thể đứng một mình giữa những điều chưa biết mà vẫn giữ trọn vẹn bản thân.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061744882121674752/img/uNkt6QAO0aWodkR7.jpg" width="600" alt="Nàng tiên cá vực thẳm thiên giới và Người bảo hộ bạch tuộc">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5733)**
+
+**Author:** [Tugba](https://x.com/TGBA2023) | **Source:** [Link](https://x.com/TGBA2023/status/2061745886078591381) | **Published:** Jun 2, 2026
 
 ---
 ### Biến hình khuôn mặt pha lê theo phong cách siêu thực
@@ -2099,84 +2178,6 @@ Một phân cảnh kinh dị thể xác đầy ám ảnh trong một căn hộ t
 **Author:** [Ƥ!ЖΣLƁΘUNCΣR](https://x.com/pixelbouncer) | **Source:** [Link](https://x.com/pixelbouncer/status/2058837007070077425) | **Published:** May 25, 2026
 
 ---
-### Nữ hoàng căn cứ mặt trăng phong cách Steampunk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một khung cảnh steampunk hoài cổ - tương lai tại căn cứ mặt trăng, nơi một nữ hoàng sử dụng súng laser nguyên tử cùng với robot của mình.
-
-#### 📝 Prompt
-
-```
-Một khung cảnh steampunk hoài cổ - tương lai tại căn cứ mặt trăng, nơi một nữ hoàng sử dụng súng laser nguyên tử cùng với robot của mình.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8031f4f6f6d5b5bcd145cda9d03410c6/thumbnails/thumbnail.jpg" width="600" alt="Nữ hoàng căn cứ mặt trăng phong cách Steampunk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5285)**
-
-**Author:** [Tugba](https://x.com/TGBA2023) | **Source:** [Link](https://x.com/TGBA2023/status/2058836555138060717) | **Published:** May 25, 2026
-
----
-### Chân dung Nữ hoàng Huyền bí Sa mạc
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) toàn diện để tạo chân dung điện ảnh toàn thân về một nữ hoàng huyền bí sa mạc, kết hợp thẩm mỹ cổ đại với công nghệ khoa học viễn tưởng trong một khu chợ sầm uất.
-
-#### 📝 Prompt
-
-```
-Chân dung điện ảnh toàn thân chân thực của một nữ hoàng huyền bí sa mạc, nữ phù thủy kiêm tư tế đầy quyền năng cai trị thế giới sa mạc cháy nắng, nơi vương quốc sa mạc cổ đại hòa quyện cùng công nghệ khoa học viễn tưởng tinh xảo. Cô đứng giữa khu chợ sa mạc ngoài trời sầm uất vào giờ vàng, toàn thân từ đầu đến chân, tư thế contrapposto mạnh mẽ, hông nghiêng, đường cong chữ S thanh lịch. Tay phải cắm một cây quyền trượng nghi lễ màu đen vàng cao xuống đất theo một góc; tay trái giơ lên, lòng bàn tay hướng lên trên, các hạt năng lượng phát sáng xoáy quanh những ngón tay. Gió sa mạc thổi bay chiếc áo choàng có mũ màu vàng nghệ và chiếc váy màu lục bảo của cô.
-Làn da màu đồng ấm áp, đôi mắt màu hổ phách pha lục nhạt phát sáng mờ ảo, mái tóc xoăn dài bồng bềnh màu đỏ thẫm vắt qua một bên vai, chiếc mũ trùm đầu màu vàng kim cỡ lớn đổ bóng lên một bên khuôn mặt, biểu cảm bình tĩnh, uy quyền và nguy hiểm. Áo choàng màu vàng nghệ ấn tượng với lớp vải xếp chồng, tay áo dài, đuôi áo dài, sợi kim loại, các họa tiết phát sáng mờ. Trang phục tư tế màu lục bảo đậm với áo yếm quấn, lớp mạ kim loại nhẹ, trang sức đính đá trên ngực, vòng cổ vàng xếp lớp, mặt dây chuyền pha lê màu đỏ ruby phát sáng, vòng tay cầu kỳ, băng tay khắc cổ tự, thắt lưng dây xích vàng trễ eo với các điểm nhấn ba chiều tinh tế. Váy màu lục bảo bất đối xứng với đường xẻ cao bên hông, tất cao đến đùi bằng ren công nghệ hình học tối màu, xăng đan gót hở mũi màu vàng và đá obsidian.
-Quyền trượng: đầu nhọn như giáo, lõi tinh thể năng lượng đỏ phát sáng, khắc ký hiệu mặt trời, di vật ma thuật cổ đại kết hợp với công nghệ năng lượng tiên tiến. Bối cảnh: khu chợ sa mạc sôi động với những thương nhân ngoài hành tinh, các nhân vật mặc áo choàng, sinh vật sa mạc kỳ lạ, mái che đầy màu sắc, các tòa nhà bằng đá sa thạch kết hợp với kiến trúc khoa học viễn tưởng kim loại, biển hiệu ba chiều, đèn lồng bay, bụi, hơi nóng lung linh, tia nắng vàng, ma thuật tinh tế. Màu vàng nghệ đậm, lục bảo đậm, màu đồng, năng lượng đỏ ruby, đen obsidian. Chủ nghĩa hiện thực điện ảnh cao cấp, lỗ chân lông chân thực, tóc xoăn, lụa bay bổng, vải kim loại, trang sức tinh xảo, chi tiết công nghệ, ánh sáng thể tích ấn tượng, độ sâu trường ảnh nông, khu chợ sầm uất bị làm mờ nhẹ, bầu không khí chợ cổ đại - tương lai.
-```
-
-<img src="https://cms-assets.youmind.com/media/1779784410381_2kqq2y_HJJy0Q4XcAAPfIr.jpg" width="600" alt="Chân dung Nữ hoàng Huyền bí Sa mạc">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5289)**
-
-**Author:** [DUST](https://x.com/Dustfinger2077) | **Source:** [Link](https://x.com/Dustfinger2077/status/2058834229635485907) | **Published:** May 25, 2026
-
----
-### Trẻ em phi hành gia trong môi trường không trọng lực
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video vui nhộn và đầy trí tưởng tượng về các bé mẫu giáo mặc bộ đồ phi hành gia đang lơ lửng bên ngoài vệ tinh cùng một chú mèo con.
-
-#### 📝 Prompt
-
-```
-Một câu lệnh tạo video vui nhộn và đầy trí tưởng tượng về các bé mẫu giáo mặc bộ đồ phi hành gia đang lơ lửng bên ngoài vệ tinh cùng một chú mèo con.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/236e1ac5e8467eddbffb21fa1e518d1a/thumbnails/thumbnail.jpg" width="600" alt="Trẻ em phi hành gia trong môi trường không trọng lực">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5284)**
-
-**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2058789204243701814) | **Published:** May 25, 2026
-
----
-### Câu chuyện thực tập sinh hài hước tại XAI
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý video tường thuật mô tả những khó khăn hài hước của một thực tập sinh khi học cách sử dụng các công cụ kỹ thuật tại XAI.
-
-#### 📝 Prompt
-
-```
-một video hài hước về một ngày làm thực tập sinh của Ava tại XAI, nơi cô ấy phải học cách sử dụng Grok Build nhưng vì không phải là lập trình viên nên cô ấy đang gặp vô vàn khó khăn.
-```
-
-<img src="https://cms-assets.youmind.com/media/1779699438116_9ld7ua_HJI_VekWMAAgNnG.jpg" width="600" alt="Câu chuyện thực tập sinh hài hước tại XAI">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5249)**
-
-**Author:** [X Girls](https://x.com/thesoragirls) | **Source:** [Link](https://x.com/thesoragirls/status/2058779417602584671) | **Published:** May 25, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2238,6 +2239,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-06T04:18:14.397Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-06T10:24:23.405Z</sub>
 
 </div>

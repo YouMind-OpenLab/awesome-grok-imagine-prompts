@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **1751** |
+| 📝 총 프롬프트 수 | **1755** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-06-06** |
 
@@ -189,6 +189,63 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 애니메이션 스타일 장면 연출
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine을 위해 설계된 프롬프트로, 첨부된 이미지의 특정 장면을 애니메이션으로 변환합니다. 이때 원본의 예술적 스타일과 선화가 유지되도록 합니다.
+
+#### 📝 프롬프트
+
+```
+첨부된 이미지의 이 장면을 애니메이션으로 만들어 주세요. 획과 그림의 스타일은 유지하되, 이 만남이 어떤 모습일지 보여주세요. 그에 맞춰 더빙을 추가해도 좋습니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062924986973560833/img/lHuV0w6q4tp-J7hJ.jpg" width="600" alt="애니메이션 스타일 장면 연출">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5734)**
+
+**작성자:** [Ward'z de Souza I](https://x.com/Wardz_de_souzA) | **출처:** [Link](https://x.com/Wardz_de_souzA/status/2062925042980200505) | **게시일:** Jun 5, 2026
+
+---
+### 떠다니는 섬과 뾰족한 바위 첨탑
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 황금빛 구름 위로 떠 있는 지각 섬과 뾰족한 바위 첨탑을 생성하기 위한 영화 같은 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+이 장면은 거대하고 뾰족한 바위 첨탑과 황금빛 구름이 넘실거리는 바다 위에 떠 있는 지각 섬들이 압도적인 분위기를 자아냅니다. 주변 환경은 전혀 변하지 않은 상태입니다....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062781490543665152/img/Ss9zazr3GRpfhBHe.jpg" width="600" alt="떠다니는 섬과 뾰족한 바위 첨탑">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5732)**
+
+**작성자:** [amir prince arjmand kermani](https://x.com/PrinceKermani) | **출처:** [Link](https://x.com/PrinceKermani/status/2062781582730285234) | **게시일:** Jun 5, 2026
+
+---
+### 거대한 일몰 파도 서핑
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine을 위한 시네마틱 비디오 프롬프트로, 공상과학 행성의 만에서 일몰을 배경으로 100미터 높이의 파도를 타는 서퍼를 묘사합니다.
+
+#### 📝 프롬프트
+
+```
+일몰 무렵 X 행성의 만에서 7피트 2인치 Channel Islands 서핑보드 위에 앉아 있는 모습, 배경에는 멀리 산들이 보이고, 물은 탄력 있고 반사율이 높음, 100미터 높이의 거대한 파도가 밀려오고, 일어서서 오른쪽 레일을 잡는 장면
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062757689944338432/img/Hx9cnyTFXngh-rw-.jpg" width="600" alt="거대한 일몰 파도 서핑">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5731)**
+
+**작성자:** [Notzucow](https://x.com/Notzucow69) | **출처:** [Link](https://x.com/Notzucow69/status/2062757757128695887) | **게시일:** Jun 5, 2026
+
+---
 ### 우주 비행 중의 유영
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -620,6 +677,28 @@ Capa 1 - 장면: 내 얼굴을 정면에서 포착한 강렬한 클로즈업, �
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5637)**
 
 **작성자:** [Sarah](https://x.com/AIwithSarah_) | **출처:** [Link](https://x.com/AIwithSarah_/status/2061755438295875742) | **게시일:** Jun 2, 2026
+
+---
+### 천상의 심연 인어와 문어 수호자
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 심연을 유영하는 인어 여제와 천상의 세 심장을 가진 문어 수호자를 담은 시네마틱 비디오 프롬프트로, 신비로움과 지혜를 상징합니다.
+
+#### 📝 프롬프트
+
+```
+천상의 판테온
+심연의 인어 여제 & 천상의 문어 수호자
+
+그녀는 세 개의 심장을 가진 수호자와 함께 깊은 심연과 신비, 그리고 보이지 않는 지성을 가로질러 나아갑니다. 이는 우리가 미지의 세계에 홀로 서서도 온전함을 유지할 때 비로소 지혜가 시작된다는 것을 보여줍니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061744882121674752/img/uNkt6QAO0aWodkR7.jpg" width="600" alt="천상의 심연 인어와 문어 수호자">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5733)**
+
+**작성자:** [Tugba](https://x.com/TGBA2023) | **출처:** [Link](https://x.com/TGBA2023/status/2061745886078591381) | **게시일:** Jun 2, 2026
 
 ---
 ### 초현실주의적 결정체 얼굴 변형
@@ -2099,84 +2178,6 @@ BlueGoo와 Vera의 미래지향적인 디지털 일러스트, 엄마와 딸의 �
 **작성자:** [Ƥ!ЖΣLƁΘUNCΣR](https://x.com/pixelbouncer) | **출처:** [Link](https://x.com/pixelbouncer/status/2058837007070077425) | **게시일:** May 25, 2026
 
 ---
-### 스팀펑크 달 기지의 여왕
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 달 기지를 배경으로 한 레트로 퓨처리스틱 스팀펑크 장면으로, 여왕이 자신의 로봇과 함께 원자 레이저 총을 사용하는 모습입니다.
-
-#### 📝 프롬프트
-
-```
-달 기지를 배경으로 한 레트로 퓨처리스틱 스팀펑크 장면으로, 여왕이 자신의 로봇과 함께 원자 레이저 총을 사용하는 모습입니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8031f4f6f6d5b5bcd145cda9d03410c6/thumbnails/thumbnail.jpg" width="600" alt="스팀펑크 달 기지의 여왕">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5285)**
-
-**작성자:** [Tugba](https://x.com/TGBA2023) | **출처:** [Link](https://x.com/TGBA2023/status/2058836555138060717) | **게시일:** May 25, 2026
-
----
-### 사막의 신비로운 여왕 초상화
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 번화한 시장을 배경으로 고대 미학과 SF 기술이 조화를 이룬, 사막의 신비로운 여왕을 담은 영화 같은 전신 초상화 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-태양으로 그을린 사막 세계를 통치하는 강력한 마법사 겸 여사제인 사막의 신비로운 여왕을 담은 사실적인 영화적 전신 초상화로, 고대 사막 왕국과 세련된 SF 기술이 융합된 모습입니다. 골든 아워의 번화한 야외 사막 시장에 서 있는 그녀는 머리부터 발끝까지 전신이 보이며, 당당한 콘트라포스토 자세로 엉덩이를 살짝 틀어 우아한 S자 실루엣을 보여줍니다. 오른손은 높고 검은색과 금색의 의식용 지팡이를 비스듬히 땅에 꽂고 있고, 왼손은 손바닥을 위로 향해 들어 올렸으며 손가락 주변으로 빛나는 에너지 입자가 소용돌이칩니다. 사막 바람에 그녀의 사프란 골드 색상 후드 망토와 에메랄드빛 치마가 휘날립니다.
-따뜻한 구릿빛 피부, 은은하게 빛나는 호박색과 녹색의 눈, 한쪽 어깨로 흘러내린 길고 풍성한 짙은 붉은색 곱슬머리, 얼굴 한쪽 면에 그림자를 드리우는 커다란 장식용 황금 후드, 차분하면서도 위엄 있고 위험한 표정을 짓고 있습니다. 겹겹이 층을 이룬 원단, 긴 소매, 긴 트레인, 금속성 실, 은은하게 빛나는 패턴이 돋보이는 드라마틱한 사프란 골드 망토를 걸쳤습니다. 랩 스타일의 홀터 탑, 가벼운 금속 도금, 보석이 박힌 가슴 장식, 여러 겹의 금 목걸이, 빛나는 루비 레드 크리스털 펜던트, 화려한 뱅글, 룬 문자가 새겨진 팔찌, 미묘한 홀로그램 포인트가 들어간 골드 체인 벨트가 특징인 짙은 에메랄드빛 여사제 의상을 입고 있습니다. 옆트임이 깊은 비대칭 에메랄드 치마, 어두운 기하학적 테크 레이스 소재의 허벅지까지 오는 스타킹, 금색과 흑요석으로 장식된 오픈토 힐 샌들을 착용했습니다.
-지팡이: 날카로운 창 모양의 머리 부분, 빛나는 붉은색 에너지 크리스털 코어, 태양 문양이 새겨져 있으며 고대 마법 유물과 첨단 에너지 기술이 혼합된 형태입니다. 배경: 외계인 같은 상인들, 로브를 입은 인물들, 기이한 사막 생물들, 다채로운 차양, 금속성 SF 건축물과 융합된 사암 건물, 홀로그램 표지판, 떠다니는 등불, 먼지, 아지랑이, 황금빛 태양 광선, 은은한 마법이 어우러진 활기찬 사막 시장입니다. 풍부한 사프란 골드, 짙은 에메랄드, 브론즈, 루비 레드 에너지, 흑요석 블랙 색상이 사용되었습니다. 고급스러운 영화적 사실주의, 사실적인 피부 모공, 곱슬머리, 흐르는 듯한 실크, 금속성 원단, 정교한 보석, 기술적인 디테일, 드라마틱한 볼륨 조명, 얕은 피사계 심도, 부드럽게 흐려진 번화한 시장과 고대 미래지향적인 시장 분위기를 연출합니다.
-```
-
-<img src="https://cms-assets.youmind.com/media/1779784410381_2kqq2y_HJJy0Q4XcAAPfIr.jpg" width="600" alt="사막의 신비로운 여왕 초상화">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5289)**
-
-**작성자:** [DUST](https://x.com/Dustfinger2077) | **출처:** [Link](https://x.com/Dustfinger2077/status/2058834229635485907) | **게시일:** May 25, 2026
-
----
-### 무중력 상태의 우주비행사 어린이들
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 우주복을 입은 유치원생들이 인공위성 밖에서 아기 고양이와 함께 둥둥 떠다니는 유쾌하고 기발한 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-우주복을 입은 유치원생들이 인공위성 밖에서 아기 고양이와 함께 둥둥 떠다니는 유쾌하고 기발한 영상 프롬프트입니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/236e1ac5e8467eddbffb21fa1e518d1a/thumbnails/thumbnail.jpg" width="600" alt="무중력 상태의 우주비행사 어린이들">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5284)**
-
-**작성자:** [Jean](https://x.com/SpaceScoutsIntl) | **출처:** [Link](https://x.com/SpaceScoutsIntl/status/2058789204243701814) | **게시일:** May 25, 2026
-
----
-### XAI 인턴의 유쾌한 고군분투기
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> XAI에서 기술 도구를 배우며 겪는 인턴의 유쾌한 어려움을 담은 내러티브 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-XAI 인턴 Ava의 하루를 담은 유쾌한 영상으로, 개발자가 아닌 Ava가 Grok Build 사용법을 배우느라 고군분투하는 모습을 보여줍니다.
-```
-
-<img src="https://cms-assets.youmind.com/media/1779699438116_9ld7ua_HJI_VekWMAAgNnG.jpg" width="600" alt="XAI 인턴의 유쾌한 고군분투기">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5249)**
-
-**작성자:** [X Girls](https://x.com/thesoragirls) | **출처:** [Link](https://x.com/thesoragirls/status/2058779417602584671) | **게시일:** May 25, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2238,6 +2239,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-06T04:18:11.864Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-06T10:24:20.991Z</sub>
 
 </div>

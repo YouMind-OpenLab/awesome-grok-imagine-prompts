@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1751** |
+| 📝 Total Prompts | **1755** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-06** |
 
@@ -189,6 +189,63 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Anime Tarzı Sahne Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ekli görseldeki belirli bir sahneyi canlandırmak için Grok Imagine'e yönelik tasarlanmış, karşılaşma sırasında orijinal sanat tarzının ve çizim hatlarının korunmasını sağlayan bir komut.
+
+#### 📝 Prompt
+
+```
+Ekli görseldeki bu sahneyi canlandır; fırça darbelerinin ve çizimin tarzını koru ancak bu karşılaşmanın nasıl görüneceğini göster. Buna uygun şekilde seslendirme ekleyebilirsin.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062924986973560833/img/lHuV0w6q4tp-J7hJ.jpg" width="600" alt="Anime Tarzı Sahne Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5734)**
+
+**Author:** [Ward'z de Souza I](https://x.com/Wardz_de_souzA) | **Source:** [Link](https://x.com/Wardz_de_souzA/status/2062925042980200505) | **Published:** Jun 5, 2026
+
+---
+### Yüzen Adalar ve Sivri Kaya Kuleleri
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Altın bulutların üzerinde yüzen tektonik adalar ve sivri kaya kuleleri oluşturmak için sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Sahneye, yoğun ve dalgalı altın bulut denizinin üzerinde asılı duran devasa, sivri kaya kuleleri ve yüzen tektonik adalar hakimdir. Çevre tamamen değişmeden kalır....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062781490543665152/img/Ss9zazr3GRpfhBHe.jpg" width="600" alt="Yüzen Adalar ve Sivri Kaya Kuleleri">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5732)**
+
+**Author:** [amir prince arjmand kermani](https://x.com/PrinceKermani) | **Source:** [Link](https://x.com/PrinceKermani/status/2062781582730285234) | **Published:** Jun 5, 2026
+
+---
+### Devasa Gün Batımı Dalgasında Sörf
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için, gün batımında bilim kurgu temalı bir gezegen koyunda 100 metrelik bir dalgayı yakalayan sörfçüyü betimleyen sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+X Gezegeni koyunda gün batımında 7’2” Channel Islands sörf tahtamın üzerinde oturuyorum, arka planda uzak dağlar, sular dirençli ve oldukça yansıtıcı, 100 metrelik devasa bir dalga geliyor, ayağa kalk ve sağ kenarı tut
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062757689944338432/img/Hx9cnyTFXngh-rw-.jpg" width="600" alt="Devasa Gün Batımı Dalgasında Sörf">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5731)**
+
+**Author:** [Notzucow](https://x.com/Notzucow69) | **Source:** [Link](https://x.com/Notzucow69/status/2062757757128695887) | **Published:** Jun 5, 2026
+
+---
 ### Uzay Uçuşunda Süzülmek
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -620,6 +677,28 @@ premium şehir eskiz defteri estetiği, otantik el çizimi mimari ve manzara esk
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5637)**
 
 **Author:** [Sarah](https://x.com/AIwithSarah_) | **Source:** [Link](https://x.com/AIwithSarah_/status/2061755438295875742) | **Published:** Jun 2, 2026
+
+---
+### Göksel Uçurum Deniz Kızı ve Ahtapot Muhafız
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gizemi ve bilgeliği temsil eden, göksel üç kalpli bir ahtapot muhafızla derinliklerde ilerleyen bir deniz kızı imparatoriçeyi konu alan sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Göksel Panteon
+Uçurum Deniz Kızı İmparatoriçesi ve Göksel Ahtapot Muhafız
+
+O, üç kalpli Muhafızı ile derinliklerin, gizemin ve görünmeyen zekanın içinde ilerliyor; bilgeliğin, bilinmeyenin içinde tek başımıza kaldığımızda ve yine de bütün kalabildiğimizde başladığını gözler önüne seriyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061744882121674752/img/uNkt6QAO0aWodkR7.jpg" width="600" alt="Göksel Uçurum Deniz Kızı ve Ahtapot Muhafız">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5733)**
+
+**Author:** [Tugba](https://x.com/TGBA2023) | **Source:** [Link](https://x.com/TGBA2023/status/2061745886078591381) | **Published:** Jun 2, 2026
 
 ---
 ### Sürrealist Kristalize Yüz Dönüşümü
@@ -2098,84 +2177,6 @@ Seul'deki bir apartman dairesinde, Junji Ito manga estetiğinde sarmal bozulmala
 **Author:** [Ƥ!ЖΣLƁΘUNCΣR](https://x.com/pixelbouncer) | **Source:** [Link](https://x.com/pixelbouncer/status/2058837007070077425) | **Published:** May 25, 2026
 
 ---
-### Steampunk Ay Üssü Kraliçesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir kraliçenin robotuyla birlikte atomik lazer tabancası kullandığı, ay üssünde geçen retro-fütüristik bir steampunk sahnesi.
-
-#### 📝 Prompt
-
-```
-Bir kraliçenin robotuyla birlikte atomik lazer tabancası kullandığı, ay üssünde geçen retro-fütüristik bir steampunk sahnesi.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8031f4f6f6d5b5bcd145cda9d03410c6/thumbnails/thumbnail.jpg" width="600" alt="Steampunk Ay Üssü Kraliçesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5285)**
-
-**Author:** [Tugba](https://x.com/TGBA2023) | **Source:** [Link](https://x.com/TGBA2023/status/2058836555138060717) | **Published:** May 25, 2026
-
----
-### Çöl Mistiği Kraliçe Portresi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Hareketli bir pazarda antik estetiği bilim kurgu teknolojisiyle harmanlayan, çöl mistiği bir kraliçenin sinematik tam boy portresi için kapsamlı bir istem.
-
-#### 📝 Prompt
-
-```
-Güneşin kavurduğu bir çöl dünyasını yöneten, kadim çöl krallığı ile şık bilim kurgu teknolojisinin birleştiği, güçlü büyücü-rahibe çöl mistiği kraliçenin fotogerçekçi tam boy sinematik portresi. Altın saatte, hareketli bir açık hava çöl pazarında duruyor; baştan aşağı tam boy, güçlü kontrapposto duruş, kalça çıkık, zarif S-kıvrımlı silüet. Sağ eli, uzun siyah-altın tören asasını yere açılı bir şekilde saplamış; sol eli havada, avuç içi yukarı bakıyor, parmaklarının etrafında parlayan enerji parçacıkları dönüyor. Çöl esintisi safran sarısı kapüşonlu pelerinini ve zümrüt yeşili eteğini dalgalandırıyor.
-Sıcak bronz ten, hafifçe parlayan kehribar-yeşil gözler, bir omzunun üzerinden dökülen uzun hacimli koyu kızıl kıvırcık saçlar, yüzünün bir tarafına gölge düşüren büyük, süslü altın kapüşon, sakin, otoriter ve tehlikeli bir ifade. Katmanlı kumaştan dramatik safran sarısı pelerin, uzun kollar, uzun kuyruk, metalik işlemeler, hafif parlayan desenler. Sargılı boyundan bağlamalı üst, hafif metalik plakalar, mücevherli göğüs süsleri, katmanlı altın kolyeler, parlayan yakut kırmızısı kristal kolye ucu, süslü bilezikler, rün işlemeli kol manşetleri ve ince holografik detaylara sahip düşük belli altın zincir kemerden oluşan derin zümrüt yeşili rahibe kıyafeti. Yüksek yan yırtmaçlı asimetrik zümrüt yeşili etek, koyu geometrik teknolojik dantelli diz üstü çoraplar, altın ve obsidyen açık burunlu topuklu sandaletler.
-Asa: keskin mızrak benzeri başlık, parlayan kırmızı enerji kristali çekirdeği, kazınmış güneş işaretleri, gelişmiş enerji teknolojisiyle harmanlanmış antik sihirli kalıntı. Arka plan: uzaylı benzeri tüccarlar, cübbeli figürler, tuhaf çöl yaratıkları, renkli tenteler, metalik bilim kurgu mimarisiyle birleşmiş kumtaşı binalar, holografik tabelalar, yüzen fenerler, toz, ısı dalgalanması, altın güneş ışınları ve hafif sihir içeren canlı bir çöl pazarı. Zengin safran sarısı, derin zümrüt yeşili, bronz, yakut kırmızısı enerji, obsidyen siyahı. Üst düzey sinematik gerçekçilik, gerçekçi cilt gözenekleri, kıvırcık saçlar, dökümlü ipek, metalik kumaşlar, karmaşık mücevherler, teknolojik detaylar, dramatik hacimsel aydınlatma, sığ alan derinliği, hafifçe bulanıklaştırılmış hareketli pazar, antik-fütüristik pazar atmosferi.
-```
-
-<img src="https://cms-assets.youmind.com/media/1779784410381_2kqq2y_HJJy0Q4XcAAPfIr.jpg" width="600" alt="Çöl Mistiği Kraliçe Portresi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5289)**
-
-**Author:** [DUST](https://x.com/Dustfinger2077) | **Source:** [Link](https://x.com/Dustfinger2077/status/2058834229635485907) | **Published:** May 25, 2026
-
----
-### Yerçekimsiz Ortamda Astronot Çocuklar
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir uydu dışında kedi yavrusuyla birlikte süzülen, uzay kıyafetli anaokulu çocuklarını konu alan eğlenceli ve fantastik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Bir uydu dışında kedi yavrusuyla birlikte süzülen, uzay kıyafetli anaokulu çocuklarını konu alan eğlenceli ve fantastik bir video istemi.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/236e1ac5e8467eddbffb21fa1e518d1a/thumbnails/thumbnail.jpg" width="600" alt="Yerçekimsiz Ortamda Astronot Çocuklar">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5284)**
-
-**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2058789204243701814) | **Published:** May 25, 2026
-
----
-### XAI'de Komik Stajyer Mücadelesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir stajyerin XAI'deki teknik araçları öğrenirken yaşadığı komik zorlukları anlatan bir video istemi.
-
-#### 📝 Prompt
-
-```
-Ava'nın XAI'deki stajyerlik gününü anlatan komik bir video; Ava'nın Grok Build kullanmayı öğrenmesi gerekiyor ama yazılımcı olmadığı için çok zorlanıyor.
-```
-
-<img src="https://cms-assets.youmind.com/media/1779699438116_9ld7ua_HJI_VekWMAAgNnG.jpg" width="600" alt="XAI'de Komik Stajyer Mücadelesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5249)**
-
-**Author:** [X Girls](https://x.com/thesoragirls) | **Source:** [Link](https://x.com/thesoragirls/status/2058779417602584671) | **Published:** May 25, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2237,6 +2238,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-06T04:18:22.671Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-06T10:24:35.708Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1751** |
+| 📝 Total Prompts | **1755** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-06** |
 
@@ -189,6 +189,63 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Anime-Stil Szenenanimation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt für Grok Imagine, um eine bestimmte Szene aus einem angehängten Bild zu animieren, wobei der ursprüngliche Kunststil und die Linienführung während der Begegnung beibehalten werden.
+
+#### 📝 Prompt
+
+```
+Animieren Sie diese Szene aus dem angehängten Bild, behalten Sie den Stil der Striche und der Zeichnung bei, aber zeigen Sie, wie diese Begegnung aussehen würde. Sie können entsprechend synchronisieren.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062924986973560833/img/lHuV0w6q4tp-J7hJ.jpg" width="600" alt="Anime-Stil Szenenanimation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5734)**
+
+**Author:** [Ward'z de Souza I](https://x.com/Wardz_de_souzA) | **Source:** [Link](https://x.com/Wardz_de_souzA/status/2062925042980200505) | **Published:** Jun 5, 2026
+
+---
+### Schwebende Inseln und Felsnadeln
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein kinoreifer Video-Prompt zur Generierung von schwebenden tektonischen Inseln und zerklüfteten Felsnadeln über goldenen Wolken.
+
+#### 📝 Prompt
+
+```
+Die Szene wird von gigantischen, zerklüfteten Felsnadeln und schwebenden tektonischen Inseln dominiert, die über einem dichten, wogenden Meer aus goldenen Wolken hängen. Die Umgebung bleibt dabei völlig unverändert....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062781490543665152/img/Ss9zazr3GRpfhBHe.jpg" width="600" alt="Schwebende Inseln und Felsnadeln">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5732)**
+
+**Author:** [amir prince arjmand kermani](https://x.com/PrinceKermani) | **Source:** [Link](https://x.com/PrinceKermani/status/2062781582730285234) | **Published:** Jun 5, 2026
+
+---
+### Surfen auf einer gigantischen Welle bei Sonnenuntergang
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein kinoreifer Video-Prompt für Grok Imagine, der einen Surfer zeigt, der bei Sonnenuntergang in einer Sci-Fi-Bucht auf einem fremden Planeten eine 100-Meter-Welle reitet.
+
+#### 📝 Prompt
+
+```
+Ich sitze bei Sonnenuntergang auf meinem 7’2” Channel Islands Surfbrett in der Bucht von Planet X, ferne Berge im Hintergrund, das Wasser ist widerstandsfähig und stark reflektierend, eine gewaltige 100-Meter-Welle rollt heran, aufstehen, Griff an die rechte Rail
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062757689944338432/img/Hx9cnyTFXngh-rw-.jpg" width="600" alt="Surfen auf einer gigantischen Welle bei Sonnenuntergang">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5731)**
+
+**Author:** [Notzucow](https://x.com/Notzucow69) | **Source:** [Link](https://x.com/Notzucow69/status/2062757757128695887) | **Published:** Jun 5, 2026
+
+---
 ### Schwerelos im Weltraumflug
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -620,6 +677,28 @@ hochwertige Urban-Skizzenbuch-Ästhetik, authentische handgezeichnete Architektu
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5637)**
 
 **Author:** [Sarah](https://x.com/AIwithSarah_) | **Source:** [Link](https://x.com/AIwithSarah_/status/2061755438295875742) | **Published:** Jun 2, 2026
+
+---
+### Himmlische Abgrund-Meerjungfrau und Oktopus-Wächter
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein filmischer Video-Prompt, der eine Meerjungfrauen-Kaiserin zeigt, die sich durch die Tiefen bewegt, begleitet von einem himmlischen, dreiherzigen Oktopus-Wächter, der für Geheimnis und Weisheit steht.
+
+#### 📝 Prompt
+
+```
+Himmlisches Pantheon
+Abgrund-Meerjungfrauen-Kaiserin & Himmlischer Oktopus-Wächter
+
+Sie bewegt sich durch Tiefe, Geheimnis und verborgene Intelligenz mit ihrem dreiherzigen Wächter und offenbart, dass Weisheit dort beginnt, wo wir allein im Unbekannten stehen und dennoch ganz bleiben können.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061744882121674752/img/uNkt6QAO0aWodkR7.jpg" width="600" alt="Himmlische Abgrund-Meerjungfrau und Oktopus-Wächter">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5733)**
+
+**Author:** [Tugba](https://x.com/TGBA2023) | **Source:** [Link](https://x.com/TGBA2023/status/2061745886078591381) | **Published:** Jun 2, 2026
 
 ---
 ### Surrealistische Transformation eines kristallisierten Gesichts
@@ -2098,84 +2177,6 @@ Eine verstörende Body-Horror-Sequenz in einem Apartment in Seoul, die durch spi
 **Author:** [Ƥ!ЖΣLƁΘUNCΣR](https://x.com/pixelbouncer) | **Source:** [Link](https://x.com/pixelbouncer/status/2058837007070077425) | **Published:** May 25, 2026
 
 ---
-### Steampunk-Mondbasis-Königin
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eine retro-futuristische Steampunk-Szene auf einer Mondbasis, in der eine Königin zusammen mit ihrem Roboter eine atomare Laserpistole benutzt.
-
-#### 📝 Prompt
-
-```
-Eine retro-futuristische Steampunk-Szene auf einer Mondbasis, in der eine Königin zusammen mit ihrem Roboter eine atomare Laserpistole benutzt.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8031f4f6f6d5b5bcd145cda9d03410c6/thumbnails/thumbnail.jpg" width="600" alt="Steampunk-Mondbasis-Königin">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5285)**
-
-**Author:** [Tugba](https://x.com/TGBA2023) | **Source:** [Link](https://x.com/TGBA2023/status/2058836555138060717) | **Published:** May 25, 2026
-
----
-### Porträt einer Wüsten-Mystikerin
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein umfassender Prompt für ein filmreifes Ganzkörperporträt einer Wüsten-Mystikerin, das eine antike Ästhetik mit Sci-Fi-Technologie auf einem belebten Basar verbindet.
-
-#### 📝 Prompt
-
-```
-Fotorealistisches, filmreifes Ganzkörperporträt einer Wüsten-Mystikerin, eine mächtige Zauberin und Hohepriesterin, die über eine sonnenverbrannte Wüstenwelt herrscht; ein antikes Wüstenkönigreich verschmilzt mit eleganter Sci-Fi-Technologie. Sie steht auf einem belebten Wüstenmarkt zur goldenen Stunde, Ganzkörperansicht von Kopf bis Fuß, starke Kontrapost-Pose, die Hüfte leicht zur Seite geneigt, elegante S-Kurven-Silhouette. Die rechte Hand stützt einen hohen, schwarz-goldenen Zeremonienstab schräg in den Boden; die linke Hand ist erhoben, die Handfläche zeigt nach oben, leuchtende Energiepartikel wirbeln um ihre Finger. Eine Wüstenbrise lässt ihren safrangoldenen Kapuzenumhang und ihren smaragdgrünen Rock wehen.
-Warme bronzefarbene Haut, schwach leuchtende bernsteingrüne Augen, langes, voluminöses, tiefrotes lockiges Haar über einer Schulter, eine übergroße, kunstvolle goldene Kapuze, die einen Schatten auf eine Seite ihres Gesichts wirft, ruhiger, gebieterischer und gefährlicher Ausdruck. Dramatischer safrangoldener Umhang aus geschichtetem Stoff, lange Ärmel, lange Schleppe, metallische Fäden, schwach leuchtende Muster. Tiefgrünes Priesterinnen-Outfit mit gewickeltem Neckholder-Top, leichten Metallplatten, juwelenbesetztem Brustschmuck, geschichteten Goldketten, leuchtendem rubinrotem Kristallanhänger, kunstvollen Armreifen, runenverzierten Armstulpen, tief sitzendem Goldkettengürtel mit subtilen holografischen Akzenten. Asymmetrischer smaragdgrüner Rock mit hohen Seitenschlitzen, dunkle, geometrische Tech-Spitzen-Overknees, gold-schwarze Sandaletten mit offenem Zehenbereich.
-Stab: scharfe speerartige Spitze, leuchtender roter Energiekristall-Kern, eingravierte Sonnenmarkierungen, antikes magisches Relikt kombiniert mit fortschrittlicher Energietechnologie. Hintergrund: lebhafter Wüstenbasar mit außerirdisch wirkenden Händlern, in Roben gehüllten Gestalten, seltsamen Wüstenkreaturen, farbenfrohen Markisen, Sandsteingebäuden, die mit metallischer Sci-Fi-Architektur verschmelzen, holografischen Schildern, schwebenden Laternen, Staub, Hitzeflimmern, goldenen Sonnenstrahlen, subtiler Magie. Reiches Safrangold, tiefes Smaragdgrün, Bronze, rubinrote Energie, Obsidian-Schwarz. Hochwertiger filmischer Realismus, realistische Hautporen, lockiges Haar, fließende Seide, metallische Stoffe, komplizierter Schmuck, technische Details, dramatische volumetrische Beleuchtung, geringe Schärfentiefe, belebter Markt im Hintergrund sanft verschwommen, antik-futuristische Basar-Atmosphäre.
-```
-
-<img src="https://cms-assets.youmind.com/media/1779784410381_2kqq2y_HJJy0Q4XcAAPfIr.jpg" width="600" alt="Porträt einer Wüsten-Mystikerin">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5289)**
-
-**Author:** [DUST](https://x.com/Dustfinger2077) | **Source:** [Link](https://x.com/Dustfinger2077/status/2058834229635485907) | **Published:** May 25, 2026
-
----
-### Astronautenkinder in der Schwerelosigkeit
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein verspielter und skurriler Video-Prompt von Kindergartenkindern in Raumanzügen, die zusammen mit einem Kätzchen außerhalb eines Satelliten schweben.
-
-#### 📝 Prompt
-
-```
-Ein verspielter und skurriler Video-Prompt von Kindergartenkindern in Raumanzügen, die zusammen mit einem Kätzchen außerhalb eines Satelliten schweben.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/236e1ac5e8467eddbffb21fa1e518d1a/thumbnails/thumbnail.jpg" width="600" alt="Astronautenkinder in der Schwerelosigkeit">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5284)**
-
-**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2058789204243701814) | **Published:** May 25, 2026
-
----
-### Humorvoller Praktikanten-Alltag bei XAI
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein narratives Video-Prompt, das die humorvollen Schwierigkeiten einer Praktikantin beim Erlernen technischer Tools bei XAI darstellt.
-
-#### 📝 Prompt
-
-```
-Ein humorvolles Video über Avas Tag als Praktikantin bei XAI, an dem sie lernen soll, wie man Grok Build benutzt, aber da sie keine Entwicklerin ist, hat sie wirklich schwer zu kämpfen.
-```
-
-<img src="https://cms-assets.youmind.com/media/1779699438116_9ld7ua_HJI_VekWMAAgNnG.jpg" width="600" alt="Humorvoller Praktikanten-Alltag bei XAI">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5249)**
-
-**Author:** [X Girls](https://x.com/thesoragirls) | **Source:** [Link](https://x.com/thesoragirls/status/2058779417602584671) | **Published:** May 25, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2237,6 +2238,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-06T04:18:18.228Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-06T10:24:29.064Z</sub>
 
 </div>

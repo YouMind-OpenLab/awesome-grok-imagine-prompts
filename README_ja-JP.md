@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **1751** |
+| 📝 プロンプト総数 | **1755** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-06-06** |
 
@@ -189,6 +189,63 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### アニメ調のシーンアニメーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 添付画像から特定のシーンをアニメーション化するための Grok Imagine 用プロンプトです。遭遇シーンにおいて、オリジナルのアートスタイルと線画を維持するように設計されています。
+
+#### 📝 プロンプト
+
+```
+添付画像のシーンをアニメーション化してください。ストロークと描画のスタイルを維持しつつ、この遭遇シーンがどのようなものになるかを描写してください。必要に応じてアフレコを行ってください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062924986973560833/img/lHuV0w6q4tp-J7hJ.jpg" width="600" alt="アニメ調のシーンアニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5734)**
+
+**作者:** [Ward'z de Souza I](https://x.com/Wardz_de_souzA) | **ソース:** [Link](https://x.com/Wardz_de_souzA/status/2062925042980200505) | **公開日:** Jun 5, 2026
+
+---
+### 浮遊する島々と岩の尖塔
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 黄金の雲海の上に浮かぶ、地殻変動で生まれた島々と険しい岩の尖塔を生成するためのシネマティックなビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+このシーンは、黄金色の厚い雲海の上に浮かぶ、巨大で険しい岩の尖塔と浮遊する地殻変動の島々が圧倒的な存在感を放っています。環境は完全に変化のないままです……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062781490543665152/img/Ss9zazr3GRpfhBHe.jpg" width="600" alt="浮遊する島々と岩の尖塔">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5732)**
+
+**作者:** [amir prince arjmand kermani](https://x.com/PrinceKermani) | **ソース:** [Link](https://x.com/PrinceKermani/status/2062781582730285234) | **公開日:** Jun 5, 2026
+
+---
+### 巨大な夕日の波でサーフィン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 用のシネマティックなビデオプロンプト。SF 的な惑星の入り江で、夕日を背景に 100 メートルの波に乗るサーファーを描写しています。
+
+#### 📝 プロンプト
+
+```
+夕暮れ時の X Planet の入り江、7’2” の Channel Islands サーフボードの上に座っている。背景には遠くの山々、水面は弾力があり非常に反射率が高い。巨大な 100 メートルの波が押し寄せてくる。立ち上がり、右のレールを掴む
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062757689944338432/img/Hx9cnyTFXngh-rw-.jpg" width="600" alt="巨大な夕日の波でサーフィン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5731)**
+
+**作者:** [Notzucow](https://x.com/Notzucow69) | **ソース:** [Link](https://x.com/Notzucow69/status/2062757757128695887) | **公開日:** Jun 5, 2026
+
+---
 ### 宇宙飛行で浮かぶ人々
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -620,6 +677,28 @@ Capa 1 - シーン：私の顔の鮮明なクローズアップ。風になび�
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5637)**
 
 **作者:** [Sarah](https://x.com/AIwithSarah_) | **ソース:** [Link](https://x.com/AIwithSarah_/status/2061755438295875742) | **公開日:** Jun 2, 2026
+
+---
+### 深淵のマーメイドと天上のタコの守護者
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 深海を泳ぐマーメイドの女帝と、神秘と知恵を象徴する3つの心臓を持つ天上のタコの守護者を描いた、映画のようなビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+天上のパンテオン
+深淵のマーメイド女帝と天上のタコの守護者
+
+彼女は深淵と神秘、そして目に見えない知性を携え、3つの心臓を持つ守護者と共に進む。未知の世界で孤独に立ち尽くしてもなお、自分自身を保つことこそが知恵の始まりであることを示している。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061744882121674752/img/uNkt6QAO0aWodkR7.jpg" width="600" alt="深淵のマーメイドと天上のタコの守護者">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5733)**
+
+**作者:** [Tugba](https://x.com/TGBA2023) | **ソース:** [Link](https://x.com/TGBA2023/status/2061745886078591381) | **公開日:** Jun 2, 2026
 
 ---
 ### シュルレアリスム風のクリスタルフェイス変身
@@ -2099,84 +2178,6 @@ BlueGoo と Vera を描いた近未来的なデジタルイラスト。母と娘
 **作者:** [Ƥ!ЖΣLƁΘUNCΣR](https://x.com/pixelbouncer) | **ソース:** [Link](https://x.com/pixelbouncer/status/2058837007070077425) | **公開日:** May 25, 2026
 
 ---
-### スチームパンクな月面基地の女王
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 月面基地を舞台にしたレトロフューチャーなスチームパンクの世界観。女王がロボットと共にアトミック・レーザーガンを構える様子を描いています。
-
-#### 📝 プロンプト
-
-```
-月面基地を舞台にしたレトロフューチャーなスチームパンクの世界観。女王がロボットと共にアトミック・レーザーガンを構える様子を描いています。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8031f4f6f6d5b5bcd145cda9d03410c6/thumbnails/thumbnail.jpg" width="600" alt="スチームパンクな月面基地の女王">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5285)**
-
-**作者:** [Tugba](https://x.com/TGBA2023) | **ソース:** [Link](https://x.com/TGBA2023/status/2058836555138060717) | **公開日:** May 25, 2026
-
----
-### 砂漠の神秘的な女王のポートレート
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 砂漠の神秘的な女王を捉えた、映画のような全身ポートレートのための包括的なプロンプトです。古代の美学と SF テクノロジーが融合した活気あるバザールを舞台にしています。
-
-#### 📝 プロンプト
-
-```
-砂漠の神秘的な女王のフォトリアルな全身シネマティック・ポートレート。太陽が照りつける砂漠の世界を統治する、力強い魔術師であり巫女。古代の砂漠王国と洗練された SF テクノロジーが融合した世界観。ゴールデンアワーの活気ある屋外の砂漠の市場に立つ、頭からつま先までの全身像。力強いコントラポストのポーズで、腰を少しひねったエレガントな S 字型のシルエット。右手には高くそびえる黒と金の儀式用の杖を斜めに突き立て、左手は手のひらを上に向けて掲げ、指先には光るエネルギー粒子が渦巻いている。砂漠の風が、サフランゴールドのフード付きマントとエメラルドグリーンのスカートをなびかせている。
-温かみのあるブロンズ色の肌、かすかに光る琥珀色の瞳、片方の肩に流れるボリュームのある深い赤の巻き毛。大きめで装飾的な金のフードが顔の片側に影を落とし、冷静で威厳があり、かつ危険な表情を浮かべている。ドラマチックなサフランゴールドのマントは層状の生地で、長い袖と長いトレーン、金属糸、かすかに光る模様が特徴。深いエメラルドグリーンの巫女の衣装は、ラップスタイルのホルタートップ、軽量な金属プレート、宝石で飾られた胸飾り、重ね付けされた金のネックレス、光るルビーレッドのクリスタルペンダント、華やかなバングル、ルーン文字が刻まれたアームカフ、ホログラフィックなアクセントが施された腰の低いゴールドチェーンベルトで構成されている。非対称のエメラルドグリーンのスカートには高いサイドスリットがあり、ダークな幾何学模様のテックレースのサイハイストッキング、金と黒曜石のオープントゥヒールサンダルを着用。
-杖：鋭い槍のような先端、光る赤いエネルギー結晶のコア、刻まれた太陽の紋章。古代の魔法の遺物と高度なエネルギー技術が融合している。背景：異星人のような商人、ローブをまとった人々、奇妙な砂漠の生き物、カラフルな日よけ、金属的な SF 建築と融合した砂岩の建物、ホログラフィックな看板、浮かぶランタン、砂埃、陽炎、黄金の太陽光、かすかな魔法が漂う活気ある砂漠のバザール。豊かなサフランゴールド、深いエメラルドグリーン、ブロンズ、ルビーレッドのエネルギー、黒曜石の黒。ハイエンドなシネマティック・リアリズム、リアルな毛穴、巻き毛、流れるシルク、金属的な生地、複雑なジュエリー、テック系のディテール、ドラマチックなボリュームライティング、浅い被写界深度、ソフトにぼかされた賑やかな市場、古代と未来が融合したバザールの雰囲気。
-```
-
-<img src="https://cms-assets.youmind.com/media/1779784410381_2kqq2y_HJJy0Q4XcAAPfIr.jpg" width="600" alt="砂漠の神秘的な女王のポートレート">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5289)**
-
-**作者:** [DUST](https://x.com/Dustfinger2077) | **ソース:** [Link](https://x.com/Dustfinger2077/status/2058834229635485907) | **公開日:** May 25, 2026
-
----
-### 無重力空間で遊ぶ宇宙飛行士の子供たち
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 宇宙服を着た幼稚園児たちが、子猫と一緒に人工衛星の外を浮遊している、遊び心あふれるユニークな動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-宇宙服を着た幼稚園児たちが、子猫と一緒に人工衛星の外を浮遊している、遊び心あふれるユニークな動画プロンプトです。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/236e1ac5e8467eddbffb21fa1e518d1a/thumbnails/thumbnail.jpg" width="600" alt="無重力空間で遊ぶ宇宙飛行士の子供たち">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5284)**
-
-**作者:** [Jean](https://x.com/SpaceScoutsIntl) | **ソース:** [Link](https://x.com/SpaceScoutsIntl/status/2058789204243701814) | **公開日:** May 25, 2026
-
----
-### XAI でのインターンの奮闘記：笑える日常
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> XAI で技術ツールを学ぶインターンの苦労をユーモラスに描いたナラティブビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-XAI でインターンとして働く Ava の日常を描いたユーモラスな動画。彼女は Grok Build の使い方を学ぶことになったものの、開発者ではないため、ひどく苦戦している様子。
-```
-
-<img src="https://cms-assets.youmind.com/media/1779699438116_9ld7ua_HJI_VekWMAAgNnG.jpg" width="600" alt="XAI でのインターンの奮闘記：笑える日常">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5249)**
-
-**作者:** [X Girls](https://x.com/thesoragirls) | **ソース:** [Link](https://x.com/thesoragirls/status/2058779417602584671) | **公開日:** May 25, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2238,6 +2239,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-06T04:18:10.876Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-06T10:24:19.984Z</sub>
 
 </div>

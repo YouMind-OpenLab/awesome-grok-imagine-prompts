@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1751** |
+| 📝 Total Prompts | **1755** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-06** |
 
@@ -189,6 +189,63 @@ Una mistica e nobile Valchiria celestiale, una donna dignitosa e bellissima con 
 
 > 📝 Sorted by publish date (newest first)
 
+### Animazione di scene in stile anime
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt progettato per Grok Imagine per animare una scena specifica da un'immagine allegata, garantendo che lo stile artistico originale e il tratto vengano preservati durante l'incontro.
+
+#### 📝 Prompt
+
+```
+Anima questa scena dall'immagine allegata, mantieni lo stile dei tratti e del disegno, ma mostra come sarebbe questo incontro. Puoi aggiungere il doppiaggio di conseguenza.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062924986973560833/img/lHuV0w6q4tp-J7hJ.jpg" width="600" alt="Animazione di scene in stile anime">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5734)**
+
+**Author:** [Ward'z de Souza I](https://x.com/Wardz_de_souzA) | **Source:** [Link](https://x.com/Wardz_de_souzA/status/2062925042980200505) | **Published:** Jun 5, 2026
+
+---
+### Isole fluttuanti e guglie rocciose
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video cinematografico per generare isole tettoniche fluttuanti e guglie rocciose frastagliate sopra nuvole dorate.
+
+#### 📝 Prompt
+
+```
+La scena è dominata da gigantesche guglie rocciose frastagliate e isole tettoniche fluttuanti sospese sopra un denso e ondeggiante mare di nuvole dorate. L'ambiente rimane completamente invariato....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062781490543665152/img/Ss9zazr3GRpfhBHe.jpg" width="600" alt="Isole fluttuanti e guglie rocciose">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5732)**
+
+**Author:** [amir prince arjmand kermani](https://x.com/PrinceKermani) | **Source:** [Link](https://x.com/PrinceKermani/status/2062781582730285234) | **Published:** Jun 5, 2026
+
+---
+### Surf su un'onda gigantesca al tramonto
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video cinematografico per Grok Imagine che ritrae un surfista che cavalca un'onda di 100 metri in una baia planetaria fantascientifica al tramonto.
+
+#### 📝 Prompt
+
+```
+Seduto sulla mia tavola da surf Channel Islands 7’2” al tramonto nella baia del Pianeta X, montagne lontane sullo sfondo, acque resistenti e altamente riflettenti, un'onda massiccia di 100 metri che arriva, in piedi mentre afferro il rail destro
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062757689944338432/img/Hx9cnyTFXngh-rw-.jpg" width="600" alt="Surf su un'onda gigantesca al tramonto">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5731)**
+
+**Author:** [Notzucow](https://x.com/Notzucow69) | **Source:** [Link](https://x.com/Notzucow69/status/2062757757128695887) | **Published:** Jun 5, 2026
+
+---
 ### Fluttuando nel volo spaziale
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -620,6 +677,28 @@ estetica premium da taccuino urban sketch, autentico schizzo di architettura e p
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5637)**
 
 **Author:** [Sarah](https://x.com/AIwithSarah_) | **Source:** [Link](https://x.com/AIwithSarah_/status/2061755438295875742) | **Published:** Jun 2, 2026
+
+---
+### Sirena dell'Abisso Celeste e Guardiano Polpo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video cinematografico che ritrae un'imperatrice sirena che si muove negli abissi con un guardiano polpo celeste a tre cuori, simbolo di mistero e saggezza.
+
+#### 📝 Prompt
+
+```
+Pantheon Celeste
+Imperatrice Sirena dell'Abisso e Guardiano Polpo Celeste
+
+Si muove attraverso la profondità, il mistero e un'intelligenza invisibile insieme al suo Guardiano a tre cuori, rivelando che la saggezza inizia quando riusciamo a restare soli nell'ignoto rimanendo comunque integri.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061744882121674752/img/uNkt6QAO0aWodkR7.jpg" width="600" alt="Sirena dell'Abisso Celeste e Guardiano Polpo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5733)**
+
+**Author:** [Tugba](https://x.com/TGBA2023) | **Source:** [Link](https://x.com/TGBA2023/status/2061745886078591381) | **Published:** Jun 2, 2026
 
 ---
 ### Trasformazione surrealista di un volto cristallizzato
@@ -2099,84 +2178,6 @@ Una inquietante sequenza body-horror in un appartamento di Seoul, caratterizzata
 **Author:** [Ƥ!ЖΣLƁΘUNCΣR](https://x.com/pixelbouncer) | **Source:** [Link](https://x.com/pixelbouncer/status/2058837007070077425) | **Published:** May 25, 2026
 
 ---
-### Regina della base lunare steampunk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Una scena steampunk retro-futuristica ambientata su una base lunare, dove una regina utilizza una pistola laser atomica al fianco del suo robot.
-
-#### 📝 Prompt
-
-```
-Una scena steampunk retro-futuristica ambientata su una base lunare, dove una regina utilizza una pistola laser atomica al fianco del suo robot.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8031f4f6f6d5b5bcd145cda9d03410c6/thumbnails/thumbnail.jpg" width="600" alt="Regina della base lunare steampunk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5285)**
-
-**Author:** [Tugba](https://x.com/TGBA2023) | **Source:** [Link](https://x.com/TGBA2023/status/2058836555138060717) | **Published:** May 25, 2026
-
----
-### Ritratto della Regina Mistica del Deserto
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt completo per un ritratto cinematografico a figura intera di una regina mistica del deserto, che fonde l'estetica antica con la tecnologia sci-fi in un vivace bazar.
-
-#### 📝 Prompt
-
-```
-Ritratto cinematografico fotorealistico a figura intera di una regina mistica del deserto, potente sacerdotessa-maga che governa un mondo desertico arso dal sole, un antico regno del deserto fuso con un'elegante tecnologia sci-fi. Si trova in un affollato mercato desertico all'aperto durante l'ora d'oro, figura intera dalla testa ai piedi, posa in forte contrapposto, fianco leggermente spostato, elegante silhouette a curva a S. La mano destra pianta a terra un alto bastone cerimoniale nero e oro con un'angolazione; la mano sinistra è sollevata, palmo verso l'alto, con particelle di energia luminosa che vorticano attorno alle dita. La brezza del deserto fa gonfiare il suo mantello con cappuccio color zafferano dorato e la gonna color smeraldo.
-Pelle color bronzo caldo, occhi ambra-verde che brillano debolmente, lunghi e voluminosi capelli ricci rosso intenso su una spalla, cappuccio dorato decorato oversize che proietta un'ombra su un lato del viso, espressione calma, autoritaria e pericolosa. Mantello drammatico color zafferano dorato con tessuto a strati, maniche lunghe, strascico lungo, fili metallici, motivi leggermente luminosi. Abito da sacerdotessa color smeraldo intenso con top all'americana avvolto, leggere placche metalliche, ornamenti gioiello sul petto, collane d'oro a strati, ciondolo con cristallo rosso rubino luminoso, bracciali decorati, polsini incisi con rune, cintura a catena d'oro a vita bassa con sottili accenti olografici. Gonna asimmetrica color smeraldo con alti spacchi laterali, calze autoreggenti in pizzo tecnologico geometrico scuro, sandali con tacco aperto in oro e ossidiana.
-Bastone: punta affilata simile a una lancia, nucleo di cristallo energetico rosso luminoso, segni solari incisi, antica reliquia magica mescolata con tecnologia energetica avanzata. Sfondo: vivace bazar del deserto con mercanti alieni, figure in tunica, strane creature del deserto, tende colorate, edifici in arenaria fusi con architettura sci-fi metallica, insegne olografiche, lanterne fluttuanti, polvere, riverbero di calore, raggi solari dorati, magia sottile. Ricco oro zafferano, smeraldo intenso, bronzo, energia rosso rubino, nero ossidiana. Realismo cinematografico di alta gamma, pori della pelle realistici, capelli ricci, seta fluente, tessuti metallici, gioielli intricati, dettagli tecnologici, illuminazione volumetrica drammatica, profondità di campo ridotta, mercato affollato leggermente sfocato, atmosfera da bazar antico-futuristico.
-```
-
-<img src="https://cms-assets.youmind.com/media/1779784410381_2kqq2y_HJJy0Q4XcAAPfIr.jpg" width="600" alt="Ritratto della Regina Mistica del Deserto">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5289)**
-
-**Author:** [DUST](https://x.com/Dustfinger2077) | **Source:** [Link](https://x.com/Dustfinger2077/status/2058834229635485907) | **Published:** May 25, 2026
-
----
-### Bambini astronauti in assenza di gravità
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video giocoso e stravagante che ritrae bambini dell'asilo in tute spaziali che fluttuano fuori da un satellite insieme a un gattino.
-
-#### 📝 Prompt
-
-```
-Un prompt video giocoso e stravagante che ritrae bambini dell'asilo in tute spaziali che fluttuano fuori da un satellite insieme a un gattino.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/236e1ac5e8467eddbffb21fa1e518d1a/thumbnails/thumbnail.jpg" width="600" alt="Bambini astronauti in assenza di gravità">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5284)**
-
-**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2058789204243701814) | **Published:** May 25, 2026
-
----
-### Le divertenti disavventure di una stagista presso XAI
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un video narrativo che illustra le comiche difficoltà di una stagista alle prese con gli strumenti tecnici di XAI.
-
-#### 📝 Prompt
-
-```
-un video divertente sulla giornata di Ava come stagista presso XAI; deve imparare a usare Grok Build, ma non essendo una sviluppatrice, è in totale difficoltà.
-```
-
-<img src="https://cms-assets.youmind.com/media/1779699438116_9ld7ua_HJI_VekWMAAgNnG.jpg" width="600" alt="Le divertenti disavventure di una stagista presso XAI">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5249)**
-
-**Author:** [X Girls](https://x.com/thesoragirls) | **Source:** [Link](https://x.com/thesoragirls/status/2058779417602584671) | **Published:** May 25, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2238,6 +2239,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-06T04:18:20.020Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-06T10:24:31.891Z</sub>
 
 </div>

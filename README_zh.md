@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **1751** |
+| 📝 提示词总数 | **1755** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-06-06** |
 
@@ -189,6 +189,63 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 动漫风格场景动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 专为 Grok Imagine 设计的提示词，用于将附件图片中的特定场景制作成动画，并确保在呈现互动过程时保留原始的艺术风格和线条感。
+
+#### 📝 提示词
+
+```
+将附件图片中的场景制作成动画，保持笔触和绘画风格，并展示出这段互动会是什么样子。你可以相应地进行配音。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062924986973560833/img/lHuV0w6q4tp-J7hJ.jpg" width="600" alt="动漫风格场景动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5734)**
+
+**作者:** [Ward'z de Souza I](https://x.com/Wardz_de_souzA) | **来源:** [Link](https://x.com/Wardz_de_souzA/status/2062925042980200505) | **发布时间:** Jun 5, 2026
+
+---
+### 浮空岛屿与岩石尖塔
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个电影级的视频提示词，用于生成悬浮在金色云海之上的构造岛屿与参差岩石尖塔。
+
+#### 📝 提示词
+
+```
+画面主体为巨大的参差岩石尖塔和悬浮的构造岛屿，它们静静地伫立在厚重翻滚的金色云海之上。环境保持完全不变……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062781490543665152/img/Ss9zazr3GRpfhBHe.jpg" width="600" alt="浮空岛屿与岩石尖塔">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5732)**
+
+**作者:** [amir prince arjmand kermani](https://x.com/PrinceKermani) | **来源:** [Link](https://x.com/PrinceKermani/status/2062781582730285234) | **发布时间:** Jun 5, 2026
+
+---
+### 巨型日落海浪冲浪
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于 Grok Imagine 的电影级视频提示词，描绘了一名冲浪者在日落时分的科幻行星海湾中捕捉 100 米巨浪的场景。
+
+#### 📝 提示词
+
+```
+坐在我 7 英尺 2 英寸的 Channel Islands 冲浪板上，身处 X 行星海湾的日落时分，背景是遥远的山脉，水面富有弹性且具有极高的反射感，一道 100 米高的巨浪滚滚而来，站立，右手抓板沿
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062757689944338432/img/Hx9cnyTFXngh-rw-.jpg" width="600" alt="巨型日落海浪冲浪">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5731)**
+
+**作者:** [Notzucow](https://x.com/Notzucow69) | **来源:** [Link](https://x.com/Notzucow69/status/2062757757128695887) | **发布时间:** Jun 5, 2026
+
+---
 ### 太空飞行中的漂浮感
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -620,6 +677,28 @@ Capa 1 - 场景：我面部的特写镜头，深色长湿发随风飘动，浓�
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5637)**
 
 **作者:** [Sarah](https://x.com/AIwithSarah_) | **来源:** [Link](https://x.com/AIwithSarah_/status/2061755438295875742) | **发布时间:** Jun 2, 2026
+
+---
+### 深渊星辰美人鱼与章鱼守护者
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个电影感视频提示词，描绘了美人鱼女皇在深海中穿行，身旁伴随着星辰般的三心章鱼守护者，象征着神秘与智慧。
+
+#### 📝 提示词
+
+```
+星辰万神殿
+深渊美人鱼女皇与星辰章鱼守护者
+
+她穿行于深邃、神秘与未知的智慧之中，身旁伴随着她的三心守护者。这揭示了一个真理：当我们能够独自伫立于未知之中，却依然保持完整时，智慧便由此开启。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061744882121674752/img/uNkt6QAO0aWodkR7.jpg" width="600" alt="深渊星辰美人鱼与章鱼守护者">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5733)**
+
+**作者:** [Tugba](https://x.com/TGBA2023) | **来源:** [Link](https://x.com/TGBA2023/status/2061745886078591381) | **发布时间:** Jun 2, 2026
 
 ---
 ### 超现实主义结晶面部变形
@@ -2098,84 +2177,6 @@ the cups is slowly rotating, seamless loop, nothing else moves, no music melt ov
 **作者:** [Ƥ!ЖΣLƁΘUNCΣR](https://x.com/pixelbouncer) | **来源:** [Link](https://x.com/pixelbouncer/status/2058837007070077425) | **发布时间:** May 25, 2026
 
 ---
-### 蒸汽朋克月球基地女王
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个位于月球基地的复古未来主义蒸汽朋克场景，一位女王正与她的机器人并肩使用原子激光枪。
-
-#### 📝 提示词
-
-```
-一个位于月球基地的复古未来主义蒸汽朋克场景，一位女王正与她的机器人并肩使用原子激光枪。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8031f4f6f6d5b5bcd145cda9d03410c6/thumbnails/thumbnail.jpg" width="600" alt="蒸汽朋克月球基地女王">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5285)**
-
-**作者:** [Tugba](https://x.com/TGBA2023) | **来源:** [Link](https://x.com/TGBA2023/status/2058836555138060717) | **发布时间:** May 25, 2026
-
----
-### 沙漠神秘女王肖像
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份关于沙漠神秘女王电影级全身肖像的综合提示词，将古代美学与科幻技术融合在繁忙的集市背景中。
-
-#### 📝 提示词
-
-```
-沙漠神秘女王的写实电影级全身肖像，一位统治着烈日灼烧的沙漠世界的强大女巫祭司，古代沙漠王国与流畅科幻技术的融合。她站在黄金时段繁忙的户外沙漠集市中，全身从头到脚，强烈的对位姿势，胯部微倾，优雅的 S 型轮廓。右手将一根高大的黑金仪式法杖斜插在地上；左手抬起，掌心向上，发光的能量粒子在她指尖盘旋。沙漠微风吹动着她藏红金色的连帽斗篷和翡翠色长裙。
-温暖的古铜色皮肤，微微发光的琥珀绿色眼睛，长而蓬松的深红色卷发垂在一侧肩上，超大号华丽金色兜帽遮住半边脸，表情冷静、威严且危险。戏剧性的藏红金色斗篷，采用分层织物，长袖，长拖尾，金属线，带有淡淡的发光图案。深翡翠色祭司服装，搭配裹身挂脖上衣、轻质金属板、珠宝胸饰、分层金项链、发光的红宝石色水晶吊坠、华丽的手镯、刻有符文的臂环、带有微妙全息装饰的低腰金链腰带。不对称翡翠色长裙，高侧开叉，深色几何科技蕾丝过膝袜，金黑曜石露趾高跟凉鞋。
-法杖：锋利的矛状杖头，发光的红色能量水晶核心，刻有太阳标记，古代魔法遗物与先进能量技术的结合。背景：充满活力的沙漠集市，有外星商人、身穿长袍的人物、奇异的沙漠生物、色彩斑斓的遮阳篷、与金属科幻建筑融合的砂岩建筑、全息标志、漂浮的灯笼、尘埃、热浪、金色的阳光、微妙的魔法。丰富的藏红金、深翡翠绿、古铜色、红宝石能量、黑曜石黑。高端电影级写实感，真实的皮肤毛孔、卷发、飘逸的丝绸、金属面料、精致的珠宝、科技细节、戏剧性的体积光、浅景深，繁忙的市场背景柔焦，古老而未来的集市氛围。
-```
-
-<img src="https://cms-assets.youmind.com/media/1779784410381_2kqq2y_HJJy0Q4XcAAPfIr.jpg" width="600" alt="沙漠神秘女王肖像">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5289)**
-
-**作者:** [DUST](https://x.com/Dustfinger2077) | **来源:** [Link](https://x.com/Dustfinger2077/status/2058834229635485907) | **发布时间:** May 25, 2026
-
----
-### 零重力下的宇航员儿童
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个充满童趣和奇思妙想的视频提示词：身穿宇航服的幼儿园小朋友与一只小猫在卫星外漂浮。
-
-#### 📝 提示词
-
-```
-一个充满童趣和奇思妙想的视频提示词：身穿宇航服的幼儿园小朋友与一只小猫在卫星外漂浮。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/236e1ac5e8467eddbffb21fa1e518d1a/thumbnails/thumbnail.jpg" width="600" alt="零重力下的宇航员儿童">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5284)**
-
-**作者:** [Jean](https://x.com/SpaceScoutsIntl) | **来源:** [Link](https://x.com/SpaceScoutsIntl/status/2058789204243701814) | **发布时间:** May 25, 2026
-
----
-### XAI 实习生的爆笑奋斗史
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段叙事性视频提示词，描绘了一名实习生在 XAI 学习使用技术工具时遇到的各种趣事。
-
-#### 📝 提示词
-
-```
-一段幽默的视频，讲述了 Ava 作为 XAI 实习生的一天。她本应学习如何使用 Grok Build，但由于她并非开发人员，整个过程让她感到非常吃力，场面十分滑稽。
-```
-
-<img src="https://cms-assets.youmind.com/media/1779699438116_9ld7ua_HJI_VekWMAAgNnG.jpg" width="600" alt="XAI 实习生的爆笑奋斗史">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5249)**
-
-**作者:** [X Girls](https://x.com/thesoragirls) | **来源:** [Link](https://x.com/thesoragirls/status/2058779417602584671) | **发布时间:** May 25, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2237,6 +2238,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-06-06T04:18:08.635Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-06-06T10:24:16.709Z</sub>
 
 </div>

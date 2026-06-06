@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1751** |
+| 📝 Total Prompts | **1755** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-06** |
 
@@ -189,6 +189,63 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Anime Style Scene Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt designed for Grok Imagine to animate a specific scene from an attached image, ensuring the original art style and line work are preserved during the encounter.
+
+#### 📝 Prompt
+
+```
+Animate this scene from the attached image, maintain the style of the strokes and the drawing but show what this encounter would be like. You can dub accordingly.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062924986973560833/img/lHuV0w6q4tp-J7hJ.jpg" width="600" alt="Anime Style Scene Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5734)**
+
+**Author:** [Ward'z de Souza I](https://x.com/Wardz_de_souzA) | **Source:** [Link](https://x.com/Wardz_de_souzA/status/2062925042980200505) | **Published:** Jun 5, 2026
+
+---
+### Floating Islands and Rock Spires
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt for generating floating tectonic islands and jagged rock spires above golden clouds.
+
+#### 📝 Prompt
+
+```
+The scene is dominated by gargantuan, jagged rock spires and floating tectonic islands suspended above a thick, rolling sea of golden clouds. The environment remains completely unchanged....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062781490543665152/img/Ss9zazr3GRpfhBHe.jpg" width="600" alt="Floating Islands and Rock Spires">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5732)**
+
+**Author:** [amir prince arjmand kermani](https://x.com/PrinceKermani) | **Source:** [Link](https://x.com/PrinceKermani/status/2062781582730285234) | **Published:** Jun 5, 2026
+
+---
+### Massive Sunset Wave Surfing
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt for Grok Imagine depicting a surfer catching a 100-meter wave in a sci-fi planetary cove at sunset.
+
+#### 📝 Prompt
+
+```
+Siting on my 7’2” Channel Islands surfboard at sunset in X Planet cove, far mountains in the background, waters resilient and highly reflective, a massive 100 meter wave rolling in, stand up grab right rail
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062757689944338432/img/Hx9cnyTFXngh-rw-.jpg" width="600" alt="Massive Sunset Wave Surfing">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5731)**
+
+**Author:** [Notzucow](https://x.com/Notzucow69) | **Source:** [Link](https://x.com/Notzucow69/status/2062757757128695887) | **Published:** Jun 5, 2026
+
+---
 ### Floating in Space Flight
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -208,19 +265,20 @@ They are gently floating through space, subtly happy and in awe. In hopes that c
 **Author:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **Source:** [Link](https://x.com/foxypatience/status/2062603835319705755) | **Published:** Jun 4, 2026
 
 ---
-### Celestial Shimmering Angel Wings
+### Iridescent Angelic Presence
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for generating a video of iridescent wings shimmering with a graceful angelic presence in a celestial glow.
+> A ethereal video prompt of a graceful angelic figure with shimmering iridescent wings and a celestial glow.
 
 #### 📝 Prompt
 
 ```
-Iridescent wings shimmering in celestial dreams… A graceful angelic presence wrapped in ethereal glow.
+Iridescent wings shimmering in celestial dreams…
+A graceful angelic presence wrapped in ethereal glow. ✨🪽
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2062504651921260544/img/LyBmhgATqGgaxv37.jpg" width="600" alt="Celestial Shimmering Angel Wings">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062504651921260544/img/LyBmhgATqGgaxv37.jpg" width="600" alt="Iridescent Angelic Presence">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5711)**
 
@@ -303,11 +361,11 @@ I got a picture of the new what happens when turns into the devil. And shouted  
 **Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2062153074374766919) | **Published:** Jun 3, 2026
 
 ---
-### Ethereal Iridescent Angel Wings
+### Ethereal Pastel Angelic Wings
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for generating a video of iridescent wings softly glowing in a pastel, ethereal setting with a gentle angelic theme.
+> A beautiful video prompt for soft, iridescent glowing wings wrapped in pastel dreams and ethereal light.
 
 #### 📝 Prompt
 
@@ -315,7 +373,7 @@ I got a picture of the new what happens when turns into the devil. And shouted  
 Iridescent wings softly glowing in pastel dreams… A gentle angelic whisper wrapped in ethereal light.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2062134849792815105/img/EyaFe9qFS6jlR7p9.jpg" width="600" alt="Ethereal Iridescent Angel Wings">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062134849792815105/img/EyaFe9qFS6jlR7p9.jpg" width="600" alt="Ethereal Pastel Angelic Wings">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5709)**
 
@@ -563,11 +621,11 @@ then the screaming drop.
 **Author:** [sugarcane](https://x.com/sugarcanebkk) | **Source:** [Link](https://x.com/sugarcanebkk/status/2061828331490914573) | **Published:** Jun 2, 2026
 
 ---
-### Futuristic Neon Cathedral Interior
+### Futuristic Neon Cathedral
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed prompt for generating a video of a futuristic cathedral interior with neon lights and holographic elements.
+> A cinematic video prompt for a massive cathedral interior made of glowing neon and holographic glass.
 
 #### 📝 Prompt
 
@@ -575,7 +633,7 @@ then the screaming drop.
 Inside a massive futuristic cathedral made entirely of glowing neon architecture, holographic stained glass and thousands of floating lights.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2061806607730704384/img/dw6UFLvAj3XYWhkR.jpg" width="600" alt="Futuristic Neon Cathedral Interior">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061806607730704384/img/dw6UFLvAj3XYWhkR.jpg" width="600" alt="Futuristic Neon Cathedral">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5644)**
 
@@ -621,6 +679,28 @@ premium urban sketchbook aesthetic, authentic hand-drawn architecture and landsc
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5637)**
 
 **Author:** [Sarah](https://x.com/AIwithSarah_) | **Source:** [Link](https://x.com/AIwithSarah_/status/2061755438295875742) | **Published:** Jun 2, 2026
+
+---
+### Celestial Abyss Mermaid and Octopus Guardian
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt featuring a mermaid empress moving through the depths with a celestial three-hearted octopus guardian, representing mystery and wisdom.
+
+#### 📝 Prompt
+
+```
+Celestial Pantheon
+Abyss Mermaid Empress & Celestial Octopus Guardian
+
+She moves through depth, mystery and unseen intelligence with her three-hearted Guardian, revealing that wisdom begins when we can stand alone in the unknown and still remain whole.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061744882121674752/img/uNkt6QAO0aWodkR7.jpg" width="600" alt="Celestial Abyss Mermaid and Octopus Guardian">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5733)**
+
+**Author:** [Tugba](https://x.com/TGBA2023) | **Source:** [Link](https://x.com/TGBA2023/status/2061745886078591381) | **Published:** Jun 2, 2026
 
 ---
 ### Surrealist Crystallized Face Transformation
@@ -2099,84 +2179,6 @@ A disturbing body-horror sequence in a Seoul apartment, featuring spiral distort
 **Author:** [Ƥ!ЖΣLƁΘUNCΣR](https://x.com/pixelbouncer) | **Source:** [Link](https://x.com/pixelbouncer/status/2058837007070077425) | **Published:** May 25, 2026
 
 ---
-### Steampunk Moon Base Queen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A retro-futuristic steampunk scene on a moon base where a queen uses an atomic laser gun alongside her robot.
-
-#### 📝 Prompt
-
-```
-A retro-futuristic steampunk scene on a moon base where a queen uses an atomic laser gun alongside her robot.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8031f4f6f6d5b5bcd145cda9d03410c6/thumbnails/thumbnail.jpg" width="600" alt="Steampunk Moon Base Queen">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5285)**
-
-**Author:** [Tugba](https://x.com/TGBA2023) | **Source:** [Link](https://x.com/TGBA2023/status/2058836555138060717) | **Published:** May 25, 2026
-
----
-### Desert Mystic Queen Portrait
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A comprehensive prompt for a cinematic full-body portrait of a desert mystic queen, blending ancient aesthetic with sci-fi technology in a busy bazaar.
-
-#### 📝 Prompt
-
-```
-Photorealistic full-body cinematic portrait of a desert mystic queen, powerful sorceress-priestess ruling a sun-scorched desert world, ancient desert kingdom fused with sleek sci-fi technology. She stands in a bustling outdoor desert marketplace at golden hour, full body head to toe, strong contrapposto pose, hip cocked, elegant S-curve silhouette. Right hand plants a tall black-and-gold ceremonial staff into the ground at an angle; left hand raised, palm up, glowing energy particles swirling around her fingers. Desert breeze billows her saffron-gold hooded cloak and emerald skirt.
-Warm bronze skin, faintly glowing amber-green eyes, long voluminous deep red curly hair over one shoulder, oversized ornate golden hood casting shadow over one side of her face, calm commanding dangerous expression. Dramatic saffron-gold cloak with layered fabric, long sleeves, long train, metallic threading, faint glowing patterns. Deep emerald priestess outfit with wrapped halter top, lightweight metallic plating, jeweled chest ornaments, layered gold necklaces, glowing ruby-red crystal pendant, ornate bangles, rune-etched arm cuffs, low-slung gold chain belt with subtle holographic accents. Asymmetrical emerald skirt with high side slits, dark geometric tech-lace thigh-high stockings, gold-and-obsidian open-toe heeled sandals.
-Staff: sharp spear-like head, glowing red energy-crystal core, engraved sun markings, ancient magical relic mixed with advanced energy tech. Background: vibrant desert bazaar with alien-like traders, robed figures, strange desert creatures, colorful awnings, sandstone buildings fused with metallic sci-fi architecture, holographic signs, floating lanterns, dust, heat shimmer, golden sun rays, subtle magic. Rich saffron gold, deep emerald, bronze, ruby-red energy, obsidian black. High-end cinematic realism, realistic skin pores, curly hair, flowing silk, metallic fabrics, intricate jewelry, tech details, dramatic volumetric lighting, shallow depth of field, busy market softly blurred, ancient-futuristic bazaar atmosphere.
-```
-
-<img src="https://cms-assets.youmind.com/media/1779784410381_2kqq2y_HJJy0Q4XcAAPfIr.jpg" width="600" alt="Desert Mystic Queen Portrait">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5289)**
-
-**Author:** [DUST](https://x.com/Dustfinger2077) | **Source:** [Link](https://x.com/Dustfinger2077/status/2058834229635485907) | **Published:** May 25, 2026
-
----
-### Astronaut Children in Zero Gravity
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A playful and whimsical video prompt of kindergarteners in space suits floating outside a satellite with a kitten.
-
-#### 📝 Prompt
-
-```
-A playful and whimsical video prompt of kindergarteners in space suits floating outside a satellite with a kitten.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/236e1ac5e8467eddbffb21fa1e518d1a/thumbnails/thumbnail.jpg" width="600" alt="Astronaut Children in Zero Gravity">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5284)**
-
-**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2058789204243701814) | **Published:** May 25, 2026
-
----
-### Humorous Intern Struggle at XAI
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A narrative video prompt depicting an intern's humorous difficulties learning technical tools at XAI.
-
-#### 📝 Prompt
-
-```
-a humorous video of Ava's day as an intern at XAI and she is supposed to learn how to use Grok Build but she's not a developer and she's like SO struggling.
-```
-
-<img src="https://cms-assets.youmind.com/media/1779699438116_9ld7ua_HJI_VekWMAAgNnG.jpg" width="600" alt="Humorous Intern Struggle at XAI">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5249)**
-
-**Author:** [X Girls](https://x.com/thesoragirls) | **Source:** [Link](https://x.com/thesoragirls/status/2058779417602584671) | **Published:** May 25, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2238,6 +2240,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-06T04:18:07.575Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-06T10:24:15.294Z</sub>
 
 </div>
