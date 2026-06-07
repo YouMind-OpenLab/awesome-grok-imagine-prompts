@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1755** |
+| 📝 Total Prompts | **1762** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-07** |
 
@@ -189,6 +189,120 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Handhaltung beim Paartanz
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein beschreibender Prompt für Grok Imagine, um ein Video eines Tanzpaares mit spezifischer Handhaltung und Positionierung für eine choreografierte Ästhetik zu generieren.
+
+#### 📝 Prompt
+
+```
+Während die linke Hand des Führenden die rechte Hand des Folgenden hält, sind ihre Positionen im Allgemeinen so ausgerichtet, dass sich der Folgende auf der rechten Seite befindet.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063382148208271360/img/cQWKSYe4wCTBsT_T.jpg" width="600" alt="Handhaltung beim Paartanz">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5757)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2063382244270457152) | **Published:** Jun 6, 2026
+
+---
+### Stranger in a Strange Land – Szenenbeschreibung
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein narrativer Prompt, der basierend auf literarischen Referenzen eine spezifische Stimmung auf eine Szene anwendet und sich dabei auf Charakterinteraktionen und Ortswechsel konzentriert.
+
+#### 📝 Prompt
+
+```
+Alles klar, kehren wir zu diesem Bild und der ursprünglichen Geschichte in Stranger in a Strange Land zurück. Wende die Stimmung an, die der Autor für die Pool-Szene geschaffen hat, und zeige mir dann eine weitere Version mit der Flucht aus dem Krankenhaus. Finde meinen Sohn, wenn du kannst.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063340091024556032/img/XtIP44meuJWm363B.jpg" width="600" alt="Stranger in a Strange Land – Szenenbeschreibung">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5758)**
+
+**Author:** [Timothy Norman](https://x.com/Timothy01775634) | **Source:** [Link](https://x.com/Timothy01775634/status/2063340141066735761) | **Published:** Jun 6, 2026
+
+---
+### Strukturierter Karikatur-Animations-Stack
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochtechnischer, strukturierter Prompt für Grok Imagine, der Charaktere, Overlays und spezifische Szenenparameter wie Rauch und Welleneffekte definiert.
+
+#### 📝 Prompt
+
+```
+[BACKBONE_1961: poolside_acclimation_post_hospital] [CARTOON_BASE_CLUSTERS] - jubal_elder_caricature - jill_nurse_warm - anne_witness_sharp - mike_stranger_innocent [OVERLAY_STACK_8/32] - nuance_cigar_smoke dress_flow ripple_caustics...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063270910564388864/img/6G0qTuh445vefWNX.jpg" width="600" alt="Strukturierter Karikatur-Animations-Stack">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5759)**
+
+**Author:** [Timothy Norman](https://x.com/Timothy01775634) | **Source:** [Link](https://x.com/Timothy01775634/status/2063270966394826963) | **Published:** Jun 6, 2026
+
+---
+### Skurrile schwimmende Schildkröteninsel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein kreativer Mal-Prompt, der eine mythische Schildkröteninsel zeigt, die in einer sanften, pastellfarbenen Traumlandschaft schwebt.
+
+#### 📝 Prompt
+
+```
+Ein skurriles Gemälde einer schwimmenden Schildkröteninsel in einem pastellfarbenen Himmel mit märchenhaften Elementen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063266134972125184/img/pQseqLke_uP-HsqG.jpg" width="600" alt="Skurrile schwimmende Schildkröteninsel">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5756)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2063266278723535033) | **Published:** Jun 6, 2026
+
+---
+### Anime-Mädchen-Charakter dreht sich und lächelt
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ein Charakter-Animations-Prompt, der ein Anime-Mädchen anleitet, ihr Ohr zu berühren, eine langsame 360-Grad-Drehung auszuführen und in die Kamera zu lächeln, während der Stil und die Designelemente beibehalten werden.
+
+#### 📝 Prompt
+
+```
+Das Mädchen im beigefügten Bild berührt an Ort und Stelle ein Ohr, führt eine langsame, einzelne 360-Grad-Drehung aus und lächelt am Ende sanft. Die Ohren und der runde Schwanz sollten sich natürlich mitbewegen. Die Ohren müssen aufrecht bleiben; ein Biegen oder Hängenlassen ist untersagt. Behalten Sie den Stil und die künstlerische Note des beigefügten Bildes zu 100 % bei. Es sind keine Ergänzungen oder Änderungen an den Elementen erlaubt. Ändern Sie nicht das Design der Augen. Erzeugen Sie keine Stimme des Mädchens, wie zum Beispiel Lachen. Feste Kamera.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063244292815257601/img/M8Z36fnz9Zp03Aub.jpg" width="600" alt="Anime-Mädchen-Charakter dreht sich und lächelt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5761)**
+
+**Author:** [サン｜Sun](https://x.com/sunsunshine0318) | **Source:** [Link](https://x.com/sunsunshine0318/status/2063245398198919231) | **Published:** Jun 6, 2026
+
+---
+### Filmische Reise eines symbolischen Lichtpunkts
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein symbolischer Video-Prompt, der die Reise eines einzelnen Lichtpunkts beschreibt, der innerhalb virtueller Ebenen Schatten wirft und Zeitflüsse erzeugt.
+
+#### 📝 Prompt
+
+```
+Ein einzelner Lichtpunkt reist durch virtuelle Ebenen, formt Schatten und Zeitflüsse, während am Rand eine dunkle Leere herrscht – in einem filmischen, symbolischen Stil.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063155258277453824/img/f4oXygN3W5XNJjdZ.jpg" width="600" alt="Filmische Reise eines symbolischen Lichtpunkts">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5762)**
+
+**Author:** [Cicadas Francois Cosmos 🇯🇵](https://x.com/FC_Cicadas) | **Source:** [Link](https://x.com/FC_Cicadas/status/2063157876244562059) | **Published:** Jun 6, 2026
+
+---
 ### Anime-Stil Szenenanimation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -263,6 +377,25 @@ Sie schweben sanft durch den Weltraum, erfüllt von subtilem Glück und Staunen.
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5708)**
 
 **Author:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **Source:** [Link](https://x.com/foxypatience/status/2062603835319705755) | **Published:** Jun 4, 2026
+
+---
+### Michelin-Männchen Ghostbusters-Kampf
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein filmischer Video-Prompt, der das Ghostbusters-Finale nachstellt, jedoch mit einem riesigen Michelin-Männchen anstelle des Stay-Puft-Marshmallow-Mannes in New York City.
+
+#### 📝 Prompt
+
+```
+Epische Nachstellung der finalen Kampfszene aus Ghostbusters (1984), jedoch anstelle des Stay-Puft-Marshmallow-Mannes ein kolossales Michelin-Bibendum, das komplett aus riesigen weißen Marshmallows besteht. Er hat die Größe eines Wolkenkratzers, steht inmitten der Straßen von New York City und blickt mit einem großen, unschuldigen Lächeln herab. Sein weicher, bauschiger Marshmallow-Körper hat die klassische, gestapelte Form des Michelin-Männchens. Panische New Yorker auf der Flucht, gelbe Taxis unter seinen Füßen zerquetscht, Explosionen und Rauch um ihn herum, dramatische Froschperspektive, filmische Beleuchtung bei feurigem Sonnenuntergang, Stil praktischer Spezialeffekte, ultra-detailliert, Meisterwerk
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062547352150257665/img/jmgeNshibBDdHqNS.jpg" width="600" alt="Michelin-Männchen Ghostbusters-Kampf">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5760)**
+
+**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2062548615558520998) | **Published:** Jun 4, 2026
 
 ---
 ### Himmlisch schimmernde Engelsflügel
@@ -2044,139 +2177,6 @@ Japanischer Anime-Stil, Cyberpunk Full Technica, nächtlicher Blick auf eine Aka
 **Author:** [Apple🌏🍏👑](https://x.com/makoto_so) | **Source:** [Link](https://x.com/makoto_so/status/2059156968338813270) | **Published:** May 26, 2026
 
 ---
-### Filmreifes Mondschein-Ufer mit Feuer
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter, filmreifer Prompt für eine Szene mit den Charakteren Victoria und Edmund an einem von Mondlicht beleuchteten Ufer mit Feuer und goldenen Flammen.
-
-#### 📝 Prompt
-
-```
-Rotes Feuer und goldene Flammen. Zwei Klingen, ein Schicksal. Victoria und Edmund gehen am mondbeschienenen Ufer entlang, während die alte Welt hinter ihnen brennt.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/56016605e16336cf02f976c65dccf83c/thumbnails/thumbnail.jpg" width="600" alt="Filmreifes Mondschein-Ufer mit Feuer">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5288)**
-
-**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2059151359857877311) | **Published:** May 26, 2026
-
----
-### Kybernetische Transformation des dritten Auges
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Verwandelt eine kybernetische Figur, um sie mit einem dritten Auge und wissensgefüllten bernsteinfarbenen Kapseln auszustatten.
-
-#### 📝 Prompt
-
-```
-Transformiere die kybernetische humanoide Figur so, dass ihre beiden Augen ihre Position verändern: Eines wandert nach oben auf die Stirn als drittes Auge, das andere bewegt sich nach unten auf die Brust. Beide Augen werden zu großen, leuchtenden bernsteinfarbenen Kapseln, die mit allem Wissen gefüllt sind und in denen es wirbelt...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2f77cba4ce74aa2fee5eccb3eab115f1/thumbnails/thumbnail.jpg" width="600" alt="Kybernetische Transformation des dritten Auges">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5324)**
-
-**Author:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **Source:** [Link](https://x.com/PhilipC34457079/status/2059143047237992850) | **Published:** May 26, 2026
-
----
-### Cyberpunk-Kopfgeldjäger: Neon-Jagd
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eine filmische Actionsequenz, in der ein futuristischer Kopfgeldjäger in kybernetischer Rüstung einen abtrünnigen Androiden durch einen verregneten, neonbeleuchteten Cyberpunk-Markt verfolgt.
-
-#### 📝 Prompt
-
-```
-Eine filmische Actionsequenz, in der ein futuristischer Kopfgeldjäger in kybernetischer Rüstung einen abtrünnigen Androiden durch einen verregneten, neonbeleuchteten Cyberpunk-Markt verfolgt.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9e55f7746125225276d20775496b0573/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk-Kopfgeldjäger: Neon-Jagd">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5282)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2059038665234370647) | **Published:** May 25, 2026
-
----
-### Oktopus-Apfel-Spiel-Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eine skurrile Zeichentrickanimation im Stil von Arielle, die Meerjungfrau, in der ein Oktopus mit einem roten Apfel spielt.
-
-#### 📝 Prompt
-
-```
-Eine skurrile Zeichentrickanimation im Stil von Arielle, die Meerjungfrau, in der ein Oktopus mit einem roten Apfel spielt.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a65e4edfb90a026dedf12c8b1358175c/thumbnails/thumbnail.jpg" width="600" alt="Oktopus-Apfel-Spiel-Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5286)**
-
-**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2058993407327187118) | **Published:** May 25, 2026
-
----
-### Sich drehende Kaffeetassen-Schleife
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Loop-Prompt für eine Szene, in der sich Kaffeetassen langsam drehen, während Sahne schmilzt und Schokoladenflocken herabfallen.
-
-#### 📝 Prompt
-
-```
-die Tassen drehen sich langsam, nahtlose Schleife, nichts anderes bewegt sich, keine Musik, die Sahne schmilzt langsam… Schokoladenflocken fallen leicht herab, Musik: Karussell, Schokoladenflocken fallen über den Rand
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/629842e3b659c533e6aa0608e01b6b29/thumbnails/thumbnail.jpg" width="600" alt="Sich drehende Kaffeetassen-Schleife">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5287)**
-
-**Author:** [marie roche](https://x.com/mariero45502253) | **Source:** [Link](https://x.com/mariero45502253/status/2058952687643754668) | **Published:** May 25, 2026
-
----
-### Futuristische Mars-Kolonie bei Nacht
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eine filmreife und realistische Visualisierung einer futuristischen Kolonie auf dem Mars bei Nacht, mit leuchtenden Kuppeln und Bauarbeiten.
-
-#### 📝 Prompt
-
-```
-Ein futuristisches Stadtbild einer Mars-Kolonie bei Nacht, mit leuchtenden Kuppeln, Tunneln und Bauarbeiten, in einem filmreifen, realistischen Stil.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/19a97d810e0e472f1e77a9e4bffd29be/thumbnails/thumbnail.jpg" width="600" alt="Futuristische Mars-Kolonie bei Nacht">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5279)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2058895930649354537) | **Published:** May 25, 2026
-
----
-### K-Horror im Stil von Junji Ito
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eine verstörende Body-Horror-Sequenz in einem Apartment in Seoul, die durch spiralförmige Verzerrungen in der Ästhetik eines Junji-Ito-Mangas besticht.
-
-#### 📝 Prompt
-
-```
-Eine verstörende Body-Horror-Sequenz in einem Apartment in Seoul, die durch spiralförmige Verzerrungen in der Ästhetik eines Junji-Ito-Mangas besticht.
-```
-
-<img src="https://cms-assets.youmind.com/media/1779784404959_0saiy0_HJJ0vV6XMAAcs6h.jpg" width="600" alt="K-Horror im Stil von Junji Ito">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5283)**
-
-**Author:** [Ƥ!ЖΣLƁΘUNCΣR](https://x.com/pixelbouncer) | **Source:** [Link](https://x.com/pixelbouncer/status/2058837007070077425) | **Published:** May 25, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2238,6 +2238,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-07T04:52:30.793Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-07T10:46:04.731Z</sub>
 
 </div>

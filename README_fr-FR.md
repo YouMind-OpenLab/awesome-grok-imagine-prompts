@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1755** |
+| 📝 Total Prompts | **1762** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-07** |
 
@@ -189,6 +189,120 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Orientation des mains en danse de salon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt descriptif pour Grok Imagine afin de générer une vidéo d'un couple de danseurs avec un placement des mains et un positionnement précis pour un rendu chorégraphié.
+
+#### 📝 Prompt
+
+```
+Tandis que la main gauche du leader tient la main droite du follower, leurs positions sont généralement orientées avec le follower sur la droite.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063382148208271360/img/cQWKSYe4wCTBsT_T.jpg" width="600" alt="Orientation des mains en danse de salon">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5757)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2063382244270457152) | **Published:** Jun 6, 2026
+
+---
+### Scène de l'histoire de Stranger in a Strange Land
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt narratif qui applique une ambiance spécifique à une scène basée sur des références littéraires, en se concentrant sur l'interaction entre les personnages et les changements de lieu.
+
+#### 📝 Prompt
+
+```
+Très bien, revenons à cette image et à l'histoire originale de Stranger in a Strange Land, appliquez l'ambiance que l'auteur a créée pour la scène du « poll », puis montrez-moi une autre version avec l'évasion de l'hôpital, et enfin, retrouvez mon fils si vous le pouvez.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063340091024556032/img/XtIP44meuJWm363B.jpg" width="600" alt="Scène de l'histoire de Stranger in a Strange Land">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5758)**
+
+**Author:** [Timothy Norman](https://x.com/Timothy01775634) | **Source:** [Link](https://x.com/Timothy01775634/status/2063340141066735761) | **Published:** Jun 6, 2026
+
+---
+### Pile d'animation de caricature structurée
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt structuré hautement technique pour Grok Imagine définissant les personnages, les superpositions et des paramètres de scène spécifiques tels que la fumée et les ondulations.
+
+#### 📝 Prompt
+
+```
+[BACKBONE_1961: poolside_acclimation_post_hospital] [CARTOON_BASE_CLUSTERS] - jubal_elder_caricature - jill_nurse_warm - anne_witness_sharp - mike_stranger_innocent [OVERLAY_STACK_8/32] - nuance_cigar_smoke dress_flow ripple_caustics...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063270910564388864/img/6G0qTuh445vefWNX.jpg" width="600" alt="Pile d'animation de caricature structurée">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5759)**
+
+**Author:** [Timothy Norman](https://x.com/Timothy01775634) | **Source:** [Link](https://x.com/Timothy01775634/status/2063270966394826963) | **Published:** Jun 6, 2026
+
+---
+### Île tortue flottante fantaisiste
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de peinture créatif représentant une île tortue mythique flottant dans un paysage onirique aux tons pastel.
+
+#### 📝 Prompt
+
+```
+Une peinture fantaisiste d'une île tortue flottant dans un ciel pastel avec des éléments de conte de fées.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063266134972125184/img/pQseqLke_uP-HsqG.jpg" width="600" alt="Île tortue flottante fantaisiste">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5756)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2063266278723535033) | **Published:** Jun 6, 2026
+
+---
+### Personnage de fille anime : rotation et sourire
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt d'animation de personnage qui guide une fille de style anime pour qu'elle touche son oreille, effectue une rotation lente à 360 degrés et sourit à la caméra tout en conservant le style et les éléments de design initiaux.
+
+#### 📝 Prompt
+
+```
+La fille sur l'image ci-jointe touche une oreille sur place, effectue une rotation lente à 360 degrés sur place et sourit doucement à la fin. Les oreilles et la queue ronde doivent se balancer naturellement. Les oreilles doivent rester droites ; il est interdit de les plier ou de les laisser retomber. Conservez 100 % du style et de la touche artistique de l'image ci-jointe. Aucun ajout ou modification d'éléments n'est autorisé. Ne modifiez pas le design des yeux. Ne générez pas la voix de la fille, comme des rires. Caméra fixe.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063244292815257601/img/M8Z36fnz9Zp03Aub.jpg" width="600" alt="Personnage de fille anime : rotation et sourire">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5761)**
+
+**Author:** [サン｜Sun](https://x.com/sunsunshine0318) | **Source:** [Link](https://x.com/sunsunshine0318/status/2063245398198919231) | **Published:** Jun 6, 2026
+
+---
+### Voyage cinématographique d'un point lumineux symbolique
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo symbolique décrivant le voyage d'un point lumineux unique créant des ombres et des flux temporels au sein de plans virtuels.
+
+#### 📝 Prompt
+
+```
+Un point lumineux unique voyage à travers des plans virtuels, formant des ombres et des flux temporels, avec un vide obscur à la périphérie, dans un style cinématographique et symbolique.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063155258277453824/img/f4oXygN3W5XNJjdZ.jpg" width="600" alt="Voyage cinématographique d'un point lumineux symbolique">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5762)**
+
+**Author:** [Cicadas Francois Cosmos 🇯🇵](https://x.com/FC_Cicadas) | **Source:** [Link](https://x.com/FC_Cicadas/status/2063157876244562059) | **Published:** Jun 6, 2026
+
+---
 ### Animation de scène style anime
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -263,6 +377,25 @@ Ils flottent doucement dans l'espace, subtilement heureux et émerveillés. Dans
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5708)**
 
 **Author:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **Source:** [Link](https://x.com/foxypatience/status/2062603835319705755) | **Published:** Jun 4, 2026
+
+---
+### Bataille entre le bonhomme Michelin et Ghostbusters
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo cinématographique recréant la scène finale de Ghostbusters, mais mettant en scène un bonhomme Michelin géant à la place du Bibendum Chamallow à New York.
+
+#### 📝 Prompt
+
+```
+Reconstitution épique de la scène de bataille finale de Ghostbusters (1984), mais au lieu du Bibendum Chamallow, il s'agit d'un colossal Bibendum Michelin entièrement composé de guimauves géantes. Il a la taille d'un gratte-ciel, se tient au milieu des rues de New York et regarde vers le bas avec un grand sourire innocent. Son corps en guimauve moelleuse et gonflée présente la forme classique empilée du bonhomme Michelin. New-Yorkais paniqués en fuite, taxis jaunes écrasés sous ses pieds, explosions et fumée tout autour de lui, perspective en contre-plongée dramatique, éclairage cinématographique avec un coucher de soleil ardent, style effets spéciaux pratiques, ultra détaillé, chef-d'œuvre
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062547352150257665/img/jmgeNshibBDdHqNS.jpg" width="600" alt="Bataille entre le bonhomme Michelin et Ghostbusters">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5760)**
+
+**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2062548615558520998) | **Published:** Jun 4, 2026
 
 ---
 ### Ailes d'ange célestes scintillantes
@@ -2045,139 +2178,6 @@ Style anime japonais, cyberpunk full technica, vue nocturne d'une cité académi
 **Author:** [Apple🌏🍏👑](https://x.com/makoto_so) | **Source:** [Link](https://x.com/makoto_so/status/2059156968338813270) | **Published:** May 26, 2026
 
 ---
-### Rivage cinématographique au clair de lune et feu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinématographique détaillé pour une scène mettant en vedette les personnages Victoria et Edmund sur un rivage au clair de lune, avec du feu et des flammes dorées.
-
-#### 📝 Prompt
-
-```
-Feu rouge et flamme dorée. Deux lames, un seul destin. Victoria et Edmund marchent sur le rivage au clair de lune tandis que l'ancien monde brûle derrière eux.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/56016605e16336cf02f976c65dccf83c/thumbnails/thumbnail.jpg" width="600" alt="Rivage cinématographique au clair de lune et feu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5288)**
-
-**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2059151359857877311) | **Published:** May 26, 2026
-
----
-### Transformation cybernétique du troisième œil
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Transforme un personnage cybernétique pour y intégrer un troisième œil et des capsules ambrées remplies de savoir.
-
-#### 📝 Prompt
-
-```
-Transformez la silhouette humanoïde cybernétique de sorte que ses deux yeux changent de position : l'un remonte sur son front pour devenir un troisième œil, et l'autre descend sur sa poitrine. Les deux yeux deviennent de grandes capsules ambrées lumineuses remplies de tout le savoir, tourbillonnant avec...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2f77cba4ce74aa2fee5eccb3eab115f1/thumbnails/thumbnail.jpg" width="600" alt="Transformation cybernétique du troisième œil">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5324)**
-
-**Author:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **Source:** [Link](https://x.com/PhilipC34457079/status/2059143047237992850) | **Published:** May 26, 2026
-
----
-### Cyberpunk Bounty Hunter : Poursuite au néon
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Une séquence d'action cinématographique mettant en scène un chasseur de primes futuriste en armure cybernétique, poursuivant un androïde renégat à travers un marché cyberpunk pluvieux et baigné de néons.
-
-#### 📝 Prompt
-
-```
-Une séquence d'action cinématographique mettant en scène un chasseur de primes futuriste en armure cybernétique, poursuivant un androïde renégat à travers un marché cyberpunk pluvieux et baigné de néons.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9e55f7746125225276d20775496b0573/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Bounty Hunter : Poursuite au néon">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5282)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2059038665234370647) | **Published:** May 25, 2026
-
----
-### Animation d'une pieuvre jouant avec une pomme
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Une animation de dessin animé fantaisiste dans le style de La Petite Sirène mettant en scène une pieuvre jouant avec une pomme rouge.
-
-#### 📝 Prompt
-
-```
-Une animation de dessin animé fantaisiste dans le style de La Petite Sirène mettant en scène une pieuvre jouant avec une pomme rouge.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a65e4edfb90a026dedf12c8b1358175c/thumbnails/thumbnail.jpg" width="600" alt="Animation d'une pieuvre jouant avec une pomme">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5286)**
-
-**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2058993407327187118) | **Published:** May 25, 2026
-
----
-### Boucle de tasses à café en rotation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de boucle détaillé pour une scène où des tasses à café tournent lentement avec de la crème fondante et des copeaux de chocolat qui tombent.
-
-#### 📝 Prompt
-
-```
-les tasses tournent lentement, boucle fluide, rien d'autre ne bouge, pas de musique, la crème fond lentement… des copeaux de chocolat tombent légèrement, musique de manège, des copeaux de chocolat tombent sur le côté
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/629842e3b659c533e6aa0608e01b6b29/thumbnails/thumbnail.jpg" width="600" alt="Boucle de tasses à café en rotation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5287)**
-
-**Author:** [marie roche](https://x.com/mariero45502253) | **Source:** [Link](https://x.com/mariero45502253/status/2058952687643754668) | **Published:** May 25, 2026
-
----
-### Paysage nocturne d'une colonie martienne futuriste
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Une visualisation cinématographique et réaliste d'une colonie futuriste sur Mars la nuit, avec des dômes lumineux et des chantiers de construction.
-
-#### 📝 Prompt
-
-```
-Un paysage urbain d'une colonie martienne futuriste la nuit, avec des dômes lumineux, des tunnels et des constructions, dans un style cinématographique et réaliste.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/19a97d810e0e472f1e77a9e4bffd29be/thumbnails/thumbnail.jpg" width="600" alt="Paysage nocturne d'une colonie martienne futuriste">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5279)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2058895930649354537) | **Published:** May 25, 2026
-
----
-### Horreur coréenne dans le style de Junji Ito
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Une séquence d'horreur corporelle troublante dans un appartement de Séoul, présentant des distorsions en spirale dans l'esthétique manga de Junji Ito.
-
-#### 📝 Prompt
-
-```
-Une séquence d'horreur corporelle troublante dans un appartement de Séoul, présentant des distorsions en spirale dans l'esthétique manga de Junji Ito.
-```
-
-<img src="https://cms-assets.youmind.com/media/1779784404959_0saiy0_HJJ0vV6XMAAcs6h.jpg" width="600" alt="Horreur coréenne dans le style de Junji Ito">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5283)**
-
-**Author:** [Ƥ!ЖΣLƁΘUNCΣR](https://x.com/pixelbouncer) | **Source:** [Link](https://x.com/pixelbouncer/status/2058837007070077425) | **Published:** May 25, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2239,6 +2239,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-07T04:52:32.027Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-07T10:46:06.006Z</sub>
 
 </div>

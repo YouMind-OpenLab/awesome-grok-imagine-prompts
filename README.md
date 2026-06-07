@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1755** |
+| 📝 Total Prompts | **1762** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-07** |
 
@@ -189,6 +189,120 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Ballroom Dance Hand Orientation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A descriptive prompt for Grok Imagine to generate a video of a dance couple with specific hand placements and positioning for a choreographed feel.
+
+#### 📝 Prompt
+
+```
+While the leader's left hand holds the follower's right hand, their positions are generally oriented with the follower on the right.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063382148208271360/img/cQWKSYe4wCTBsT_T.jpg" width="600" alt="Ballroom Dance Hand Orientation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5757)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2063382244270457152) | **Published:** Jun 6, 2026
+
+---
+### Stranger in a Strange Land Story Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A narrative-driven prompt that applies a specific mood to a scene based on literary references, focusing on character interaction and location changes.
+
+#### 📝 Prompt
+
+```
+All right, let’s return to this picture and the original story in stranger in a strange land apply the mood that the author created for the poll scene then show me another version with the escaping the hospital instead find my son if you can
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063340091024556032/img/XtIP44meuJWm363B.jpg" width="600" alt="Stranger in a Strange Land Story Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5758)**
+
+**Author:** [Timothy Norman](https://x.com/Timothy01775634) | **Source:** [Link](https://x.com/Timothy01775634/status/2063340141066735761) | **Published:** Jun 6, 2026
+
+---
+### Structured Caricature Animation Stack
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly technical structured prompt for Grok Imagine defining characters, overlays, and specific scene parameters like smoke and ripples.
+
+#### 📝 Prompt
+
+```
+[BACKBONE_1961: poolside_acclimation_post_hospital] [CARTOON_BASE_CLUSTERS] - jubal_elder_caricature - jill_nurse_warm - anne_witness_sharp - mike_stranger_innocent [OVERLAY_STACK_8/32] - nuance_cigar_smoke dress_flow ripple_caustics...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063270910564388864/img/6G0qTuh445vefWNX.jpg" width="600" alt="Structured Caricature Animation Stack">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5759)**
+
+**Author:** [Timothy Norman](https://x.com/Timothy01775634) | **Source:** [Link](https://x.com/Timothy01775634/status/2063270966394826963) | **Published:** Jun 6, 2026
+
+---
+### Whimsical Floating Turtle Island
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative painting prompt featuring a mythical turtle island floating in a soft, pastel-colored dreamscape.
+
+#### 📝 Prompt
+
+```
+A whimsical painting of a floating turtle island in a pastel sky with fairy tale elements.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063266134972125184/img/pQseqLke_uP-HsqG.jpg" width="600" alt="Whimsical Floating Turtle Island">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5756)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2063266278723535033) | **Published:** Jun 6, 2026
+
+---
+### Anime Girl Character Spin and Smile
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A character animation prompt that guides an anime-style girl to touch her ear, perform a slow 360-degree rotation, and smile at the camera while maintaining fixed style and design elements.
+
+#### 📝 Prompt
+
+```
+The girl in the attached image touches one ear on the spot, performs a slow single 360-degree rotation on the spot, and smiles gently at the end. The ears and round tail should sway naturally. The ears must remain upright; bending or drooping them is prohibited. Maintain 100% of the style and artistic touch of the attached image. No additions or changes to elements allowed. Do not change the eye design. Do not generate the girl's voice, such as laughter. Fixed camera.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063244292815257601/img/M8Z36fnz9Zp03Aub.jpg" width="600" alt="Anime Girl Character Spin and Smile">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5761)**
+
+**Author:** [サン｜Sun](https://x.com/sunsunshine0318) | **Source:** [Link](https://x.com/sunsunshine0318/status/2063245398198919231) | **Published:** Jun 6, 2026
+
+---
+### Cinematic Symbolic Light Point Journey
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A symbolic video prompt describing a journey of a single light point creating shadows and time flows within virtual planes.
+
+#### 📝 Prompt
+
+```
+A single light point journeys through virtual planes, forming shadows and time flows, with a dark void at the edge, in a cinematic, symbolic style.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063155258277453824/img/f4oXygN3W5XNJjdZ.jpg" width="600" alt="Cinematic Symbolic Light Point Journey">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5762)**
+
+**Author:** [Cicadas Francois Cosmos 🇯🇵](https://x.com/FC_Cicadas) | **Source:** [Link](https://x.com/FC_Cicadas/status/2063157876244562059) | **Published:** Jun 6, 2026
+
+---
 ### Anime Style Scene Animation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -263,6 +377,25 @@ They are gently floating through space, subtly happy and in awe. In hopes that c
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5708)**
 
 **Author:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **Source:** [Link](https://x.com/foxypatience/status/2062603835319705755) | **Published:** Jun 4, 2026
+
+---
+### Michelin Man Ghostbusters Battle
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt recreating the Ghostbusters finale but featuring a giant Michelin Man instead of the Stay Puft Marshmallow Man in New York City.
+
+#### 📝 Prompt
+
+```
+Epic recreation of the final battle scene from Ghostbusters (1984), but instead of the Stay Puft Marshmallow Man, it's a colossal Michelin Bibendum made entirely of giant white marshmallows. He is skyscraper-sized, standing in the middle of New York City streets, looking down with a big innocent smile. His soft puffy marshmallow body has the classic stacked Michelin Man shape. Panicked New Yorkers fleeing, yellow taxis crushed under his feet, explosions and smoke around him, dramatic low-angle perspective, cinematic lighting with fiery sunset, practical special effects style, ultra detailed, masterpiece
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062547352150257665/img/jmgeNshibBDdHqNS.jpg" width="600" alt="Michelin Man Ghostbusters Battle">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5760)**
+
+**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2062548615558520998) | **Published:** Jun 4, 2026
 
 ---
 ### Iridescent Angelic Presence
@@ -2046,139 +2179,6 @@ Japanese anime style, cyberpunk full technica, night view of academy city, futur
 **Author:** [Apple🌏🍏👑](https://x.com/makoto_so) | **Source:** [Link](https://x.com/makoto_so/status/2059156968338813270) | **Published:** May 26, 2026
 
 ---
-### Cinematic Moonlit Shore Fire
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed cinematic prompt for a scene featuring characters Victoria and Edmund on a moonlit shore with fire and golden flames.
-
-#### 📝 Prompt
-
-```
-Red fire and golden flame. Two blades, one destiny. Victoria and Edmund walk the moonlit shore as the old world burns behind them.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/56016605e16336cf02f976c65dccf83c/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Moonlit Shore Fire">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5288)**
-
-**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2059151359857877311) | **Published:** May 26, 2026
-
----
-### Third Eye Cybernetic Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Transforms a cybernetic character to include a third eye and knowledge-filled amber capsules.
-
-#### 📝 Prompt
-
-```
-Transform the cybernetic humanoid figure so that his two eyes shift positions: one moves up to his forehead as a third eye, and the other moves down to his chest. Both eyes become large glowing amber capsules filled with all knowledge, swirling with...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2f77cba4ce74aa2fee5eccb3eab115f1/thumbnails/thumbnail.jpg" width="600" alt="Third Eye Cybernetic Transformation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5324)**
-
-**Author:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **Source:** [Link](https://x.com/PhilipC34457079/status/2059143047237992850) | **Published:** May 26, 2026
-
----
-### Cyberpunk Bounty Hunter Neon Chase
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic action sequence featuring a futuristic bounty hunter in cybernetic armor pursuing a rogue android through a rainy, neon-lit cyberpunk market.
-
-#### 📝 Prompt
-
-```
-A cinematic action sequence featuring a futuristic bounty hunter in cybernetic armor pursuing a rogue android through a rainy, neon-lit cyberpunk market.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9e55f7746125225276d20775496b0573/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Bounty Hunter Neon Chase">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5282)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2059038665234370647) | **Published:** May 25, 2026
-
----
-### Octopus Apple Play Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A whimsical cartoon animation in The Little Mermaid style featuring an octopus playing with a red apple.
-
-#### 📝 Prompt
-
-```
-A whimsical cartoon animation in The Little Mermaid style featuring an octopus playing with a red apple.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a65e4edfb90a026dedf12c8b1358175c/thumbnails/thumbnail.jpg" width="600" alt="Octopus Apple Play Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5286)**
-
-**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2058993407327187118) | **Published:** May 25, 2026
-
----
-### Rotating Coffee Cups Loop
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed loop prompt for a scene where coffee cups rotate slowly with melting cream and falling chocolate flakes.
-
-#### 📝 Prompt
-
-```
-the cups is slowly rotating, seamless loop, nothing else moves, no music melt over the  cream melts slowly…chocolate flakes drop lightly music merry go round chocolate flakes fall over the side
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/629842e3b659c533e6aa0608e01b6b29/thumbnails/thumbnail.jpg" width="600" alt="Rotating Coffee Cups Loop">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5287)**
-
-**Author:** [marie roche](https://x.com/mariero45502253) | **Source:** [Link](https://x.com/mariero45502253/status/2058952687643754668) | **Published:** May 25, 2026
-
----
-### Futuristic Mars Colony Nightscape
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic and realistic visualization of a futuristic colony on Mars at night featuring glowing domes and construction.
-
-#### 📝 Prompt
-
-```
-A futuristic Mars colony cityscape at night, with glowing domes, tunnels and construction, in a cinematic, realistic style.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/19a97d810e0e472f1e77a9e4bffd29be/thumbnails/thumbnail.jpg" width="600" alt="Futuristic Mars Colony Nightscape">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5279)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2058895930649354537) | **Published:** May 25, 2026
-
----
-### Junji Ito Style K-Horror
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A disturbing body-horror sequence in a Seoul apartment, featuring spiral distortions in a Junji Ito manga aesthetic.
-
-#### 📝 Prompt
-
-```
-A disturbing body-horror sequence in a Seoul apartment, featuring spiral distortions in a Junji Ito manga aesthetic.
-```
-
-<img src="https://cms-assets.youmind.com/media/1779784404959_0saiy0_HJJ0vV6XMAAcs6h.jpg" width="600" alt="Junji Ito Style K-Horror">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5283)**
-
-**Author:** [Ƥ!ЖΣLƁΘUNCΣR](https://x.com/pixelbouncer) | **Source:** [Link](https://x.com/pixelbouncer/status/2058837007070077425) | **Published:** May 25, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2240,6 +2240,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-07T04:52:17.915Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-07T10:45:50.523Z</sub>
 
 </div>

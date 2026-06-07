@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **1755** |
+| 📝 총 프롬프트 수 | **1762** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-06-07** |
 
@@ -189,6 +189,120 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 볼룸 댄스 손 위치 및 방향
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 안무 느낌을 살리기 위해 특정 손 위치와 자세를 갖춘 댄스 커플 영상을 생성하도록 Grok Imagine에 입력하는 설명형 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+리더의 왼손이 팔로워의 오른손을 잡는 동안, 전체적인 위치는 팔로워가 오른쪽에 오도록 구성됩니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063382148208271360/img/cQWKSYe4wCTBsT_T.jpg" width="600" alt="볼룸 댄스 손 위치 및 방향">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5757)**
+
+**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2063382244270457152) | **게시일:** Jun 6, 2026
+
+---
+### Stranger in a Strange Land 스토리 장면
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 문학적 레퍼런스를 기반으로 장면에 특정 분위기를 적용하여 캐릭터 간 상호작용과 장소 변화에 초점을 맞춘 내러티브 중심의 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+좋습니다. 이 사진과 Stranger in a Strange Land의 원작 스토리로 돌아가서, 저자가 폴(poll) 장면에서 연출했던 분위기를 적용해 주세요. 그런 다음 병원을 탈출하는 버전으로 하나 더 보여주세요. 가능하다면 내 아들을 찾는 장면으로 부탁합니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063340091024556032/img/XtIP44meuJWm363B.jpg" width="600" alt="Stranger in a Strange Land 스토리 장면">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5758)**
+
+**작성자:** [Timothy Norman](https://x.com/Timothy01775634) | **출처:** [Link](https://x.com/Timothy01775634/status/2063340141066735761) | **게시일:** Jun 6, 2026
+
+---
+### 구조화된 캐리커처 애니메이션 스택
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine을 위한 고도의 기술적 구조화 프롬프트로, 캐릭터, 오버레이, 그리고 연기나 물결과 같은 특정 장면 매개변수를 정의합니다.
+
+#### 📝 프롬프트
+
+```
+[BACKBONE_1961: poolside_acclimation_post_hospital] [CARTOON_BASE_CLUSTERS] - jubal_elder_caricature - jill_nurse_warm - anne_witness_sharp - mike_stranger_innocent [OVERLAY_STACK_8/32] - nuance_cigar_smoke dress_flow ripple_caustics...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063270910564388864/img/6G0qTuh445vefWNX.jpg" width="600" alt="구조화된 캐리커처 애니메이션 스택">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5759)**
+
+**작성자:** [Timothy Norman](https://x.com/Timothy01775634) | **출처:** [Link](https://x.com/Timothy01775634/status/2063270966394826963) | **게시일:** Jun 6, 2026
+
+---
+### 환상적인 공중 거북 섬
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 부드러운 파스텔 톤의 꿈같은 풍경 속에 떠 있는 신비로운 거북 섬을 주제로 한 창의적인 그림 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+동화 같은 요소가 가미된 파스텔 톤 하늘에 떠 있는 거북 섬의 환상적인 그림입니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063266134972125184/img/pQseqLke_uP-HsqG.jpg" width="600" alt="환상적인 공중 거북 섬">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5756)**
+
+**작성자:** [Mr Das](https://x.com/MrDasOnX) | **출처:** [Link](https://x.com/MrDasOnX/status/2063266278723535033) | **게시일:** Jun 6, 2026
+
+---
+### 애니메이션 소녀 캐릭터 회전 및 미소
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 애니메이션 스타일의 소녀가 귀를 만지고, 360도 천천히 회전하며, 카메라를 향해 미소 짓도록 유도하는 캐릭터 애니메이션 프롬프트입니다. 이때 고정된 스타일과 디자인 요소를 유지해야 합니다.
+
+#### 📝 프롬프트
+
+```
+첨부된 이미지 속 소녀가 제자리에서 한쪽 귀를 만지고, 제자리에서 360도 천천히 한 바퀴 회전한 뒤 부드럽게 미소 짓습니다. 귀와 둥근 꼬리는 자연스럽게 흔들려야 합니다. 귀는 반드시 꼿꼿하게 유지해야 하며, 구부러지거나 처지게 해서는 안 됩니다. 첨부된 이미지의 스타일과 예술적 느낌을 100% 유지하십시오. 요소를 추가하거나 변경하는 것은 허용되지 않습니다. 눈 디자인을 변경하지 마십시오. 웃음소리와 같은 소녀의 목소리를 생성하지 마십시오. 카메라는 고정되어 있습니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063244292815257601/img/M8Z36fnz9Zp03Aub.jpg" width="600" alt="애니메이션 소녀 캐릭터 회전 및 미소">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5761)**
+
+**작성자:** [サン｜Sun](https://x.com/sunsunshine0318) | **출처:** [Link](https://x.com/sunsunshine0318/status/2063245398198919231) | **게시일:** Jun 6, 2026
+
+---
+### 시네마틱 상징적 빛의 점 여정
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 가상 평면 내에서 그림자와 시간의 흐름을 만들어내는 하나의 빛의 점에 대한 여정을 묘사한 상징적인 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+하나의 빛의 점이 가상 평면을 여행하며 그림자와 시간의 흐름을 형성하고, 가장자리에는 어두운 공허가 존재하는 시네마틱하고 상징적인 스타일의 영상입니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063155258277453824/img/f4oXygN3W5XNJjdZ.jpg" width="600" alt="시네마틱 상징적 빛의 점 여정">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5762)**
+
+**작성자:** [Cicadas Francois Cosmos 🇯🇵](https://x.com/FC_Cicadas) | **출처:** [Link](https://x.com/FC_Cicadas/status/2063157876244562059) | **게시일:** Jun 6, 2026
+
+---
 ### 애니메이션 스타일 장면 연출
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -263,6 +377,25 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5708)**
 
 **작성자:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **출처:** [Link](https://x.com/foxypatience/status/2062603835319705755) | **게시일:** Jun 4, 2026
+
+---
+### 미쉐린 맨 고스트버스터즈 전투
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 뉴욕시를 배경으로 고스트버스터즈의 결말을 재현하되, 스테이 퍼프트 마시멜로 맨 대신 거대한 미쉐린 맨이 등장하는 시네마틱 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+고스트버스터즈 (1984)의 마지막 전투 장면을 장대하게 재현한 영상. 스테이 퍼프트 마시멜로 맨 대신, 거대한 흰색 마시멜로로 만들어진 거구의 미쉐린 비벤덤이 등장합니다. 그는 마천루만큼 거대한 크기로 뉴욕 시내 한복판에 서서 순진한 미소를 지으며 아래를 내려다보고 있습니다. 부드럽고 폭신한 마시멜로 몸체는 미쉐린 맨 특유의 겹쳐진 형태를 하고 있습니다. 겁에 질려 도망치는 뉴욕 시민들, 발밑에 짓눌린 노란 택시, 주변의 폭발과 연기, 극적인 로우 앵글 시점, 불타는 노을을 배경으로 한 시네마틱 조명, 실사 특수 효과 스타일, 초고화질, 걸작.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062547352150257665/img/jmgeNshibBDdHqNS.jpg" width="600" alt="미쉐린 맨 고스트버스터즈 전투">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5760)**
+
+**작성자:** [Déborah](https://x.com/dvorahfr) | **출처:** [Link](https://x.com/dvorahfr/status/2062548615558520998) | **게시일:** Jun 4, 2026
 
 ---
 ### 천상의 빛을 내는 천사 날개
@@ -2045,139 +2178,6 @@ BlueGoo와 Vera의 미래지향적인 디지털 일러스트, 엄마와 딸의 �
 **작성자:** [Apple🌏🍏👑](https://x.com/makoto_so) | **출처:** [Link](https://x.com/makoto_so/status/2059156968338813270) | **게시일:** May 26, 2026
 
 ---
-### 영화 같은 달빛 해변의 불꽃
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 달빛이 비치는 해변에서 불꽃과 황금빛 화염을 배경으로 빅토리아와 에드먼드 캐릭터가 등장하는 영화 같은 상세 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-붉은 불꽃과 황금빛 화염. 두 자루의 검, 하나의 운명. 빅토리아와 에드먼드가 달빛 비치는 해변을 걷고, 그들 뒤로 낡은 세상이 불타오릅니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/56016605e16336cf02f976c65dccf83c/thumbnails/thumbnail.jpg" width="600" alt="영화 같은 달빛 해변의 불꽃">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5288)**
-
-**작성자:** [DuBoseJen](https://x.com/DuBosefire) | **출처:** [Link](https://x.com/DuBosefire/status/2059151359857877311) | **게시일:** May 26, 2026
-
----
-### 제3의 눈 사이버네틱 변형
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 사이버네틱 캐릭터를 제3의 눈과 지식으로 가득 찬 호박색 캡슐을 포함하도록 변형합니다.
-
-#### 📝 프롬프트
-
-```
-사이버네틱 휴머노이드 형상을 변형하여 두 눈의 위치를 이동시킵니다. 한쪽 눈은 이마 위로 올라가 제3의 눈이 되고, 다른 쪽 눈은 가슴 아래로 이동합니다. 두 눈은 모두 모든 지식으로 가득 차 소용돌이치는 거대하고 빛나는 호박색 캡슐로 변합니다...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2f77cba4ce74aa2fee5eccb3eab115f1/thumbnails/thumbnail.jpg" width="600" alt="제3의 눈 사이버네틱 변형">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5324)**
-
-**작성자:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **출처:** [Link](https://x.com/PhilipC34457079/status/2059143047237992850) | **게시일:** May 26, 2026
-
----
-### 사이버펑크 현상금 사냥꾼의 네온 추격전
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 비 내리는 네온사인 가득한 사이버펑크 시장에서 사이버네틱 갑옷을 입은 미래의 현상금 사냥꾼이 도주하는 안드로이드를 추격하는 영화 같은 액션 시퀀스.
-
-#### 📝 프롬프트
-
-```
-비 내리는 네온사인 가득한 사이버펑크 시장에서 사이버네틱 갑옷을 입은 미래의 현상금 사냥꾼이 도주하는 안드로이드를 추격하는 영화 같은 액션 시퀀스.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9e55f7746125225276d20775496b0573/thumbnails/thumbnail.jpg" width="600" alt="사이버펑크 현상금 사냥꾼의 네온 추격전">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5282)**
-
-**작성자:** [Déborah](https://x.com/dvorahfr) | **출처:** [Link](https://x.com/dvorahfr/status/2059038665234370647) | **게시일:** May 25, 2026
-
----
-### 문어와 사과 애니메이션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 인어공주 스타일의 기발한 만화 애니메이션으로, 문어가 빨간 사과를 가지고 노는 모습을 담고 있습니다.
-
-#### 📝 프롬프트
-
-```
-인어공주 스타일의 기발한 만화 애니메이션으로, 문어가 빨간 사과를 가지고 노는 모습을 담고 있습니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a65e4edfb90a026dedf12c8b1358175c/thumbnails/thumbnail.jpg" width="600" alt="문어와 사과 애니메이션">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5286)**
-
-**작성자:** [Jean](https://x.com/SpaceScoutsIntl) | **출처:** [Link](https://x.com/SpaceScoutsIntl/status/2058993407327187118) | **게시일:** May 25, 2026
-
----
-### 회전하는 커피 컵 루프
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 크림이 녹아내리고 초콜릿 조각이 떨어지는 커피 컵이 천천히 회전하는 장면을 위한 상세 루프 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-컵이 천천히 회전함, 끊김 없는 루프, 다른 움직임 없음, 음악 없음, 크림이 천천히 녹아내림… 초콜릿 조각이 가볍게 떨어짐, 회전목마 음악, 초콜릿 조각이 옆으로 떨어짐
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/629842e3b659c533e6aa0608e01b6b29/thumbnails/thumbnail.jpg" width="600" alt="회전하는 커피 컵 루프">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5287)**
-
-**작성자:** [marie roche](https://x.com/mariero45502253) | **출처:** [Link](https://x.com/mariero45502253/status/2058952687643754668) | **게시일:** May 25, 2026
-
----
-### 미래형 화성 식민지 야경
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 빛나는 돔과 건설 현장이 어우러진 밤의 미래형 화성 식민지를 담은 영화 같고 사실적인 시각화 자료입니다.
-
-#### 📝 프롬프트
-
-```
-빛나는 돔, 터널, 건설 현장이 어우러진 밤의 미래형 화성 식민지 도시 풍경으로, 영화 같고 사실적인 스타일로 표현되었습니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/19a97d810e0e472f1e77a9e4bffd29be/thumbnails/thumbnail.jpg" width="600" alt="미래형 화성 식민지 야경">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5279)**
-
-**작성자:** [Mr Das](https://x.com/MrDasOnX) | **출처:** [Link](https://x.com/MrDasOnX/status/2058895930649354537) | **게시일:** May 25, 2026
-
----
-### 이토 준지 스타일의 K-호러
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 서울의 한 아파트를 배경으로 이토 준지 만화 특유의 소용돌이 왜곡과 기괴한 신체 변형을 담은 공포 시퀀스입니다.
-
-#### 📝 프롬프트
-
-```
-서울의 한 아파트를 배경으로 이토 준지 만화 특유의 소용돌이 왜곡과 기괴한 신체 변형을 담은 공포 시퀀스입니다.
-```
-
-<img src="https://cms-assets.youmind.com/media/1779784404959_0saiy0_HJJ0vV6XMAAcs6h.jpg" width="600" alt="이토 준지 스타일의 K-호러">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5283)**
-
-**작성자:** [Ƥ!ЖΣLƁΘUNCΣR](https://x.com/pixelbouncer) | **출처:** [Link](https://x.com/pixelbouncer/status/2058837007070077425) | **게시일:** May 25, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2239,6 +2239,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-07T04:52:22.921Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-07T10:45:56.851Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1755** |
+| 📝 Total Prompts | **1762** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-07** |
 
@@ -189,6 +189,120 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Hướng đặt tay trong khiêu vũ Ballroom
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh mô tả dành cho Grok Imagine để tạo video về một cặp đôi khiêu vũ với cách đặt tay và vị trí cụ thể nhằm tạo cảm giác như một bài biên đạo.
+
+#### 📝 Prompt
+
+```
+Trong khi tay trái của người dẫn dắt nắm lấy tay phải của người theo sau, vị trí của họ thường được định hướng với người theo sau ở bên phải.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063382148208271360/img/cQWKSYe4wCTBsT_T.jpg" width="600" alt="Hướng đặt tay trong khiêu vũ Ballroom">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5757)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2063382244270457152) | **Published:** Jun 6, 2026
+
+---
+### Cảnh truyện Stranger in a Strange Land
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh theo hướng kể chuyện giúp áp dụng tâm trạng cụ thể cho một cảnh dựa trên các tài liệu tham khảo văn học, tập trung vào sự tương tác giữa các nhân vật và thay đổi địa điểm.
+
+#### 📝 Prompt
+
+```
+Được rồi, hãy quay lại bức tranh này và câu chuyện gốc trong Stranger in a Strange Land, áp dụng tâm trạng mà tác giả đã tạo ra cho cảnh tại buổi thăm dò, sau đó cho tôi xem một phiên bản khác với cảnh trốn thoát khỏi bệnh viện, thay vào đó hãy tìm con trai tôi nếu có thể
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063340091024556032/img/XtIP44meuJWm363B.jpg" width="600" alt="Cảnh truyện Stranger in a Strange Land">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5758)**
+
+**Author:** [Timothy Norman](https://x.com/Timothy01775634) | **Source:** [Link](https://x.com/Timothy01775634/status/2063340141066735761) | **Published:** Jun 6, 2026
+
+---
+### Cấu trúc hoạt ảnh biếm họa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh cấu trúc có tính kỹ thuật cao dành cho Grok Imagine, giúp xác định các nhân vật, lớp phủ và các thông số cảnh cụ thể như khói và hiệu ứng gợn sóng.
+
+#### 📝 Prompt
+
+```
+[BACKBONE_1961: poolside_acclimation_post_hospital] [CARTOON_BASE_CLUSTERS] - jubal_elder_caricature - jill_nurse_warm - anne_witness_sharp - mike_stranger_innocent [OVERLAY_STACK_8/32] - nuance_cigar_smoke dress_flow ripple_caustics...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063270910564388864/img/6G0qTuh445vefWNX.jpg" width="600" alt="Cấu trúc hoạt ảnh biếm họa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5759)**
+
+**Author:** [Timothy Norman](https://x.com/Timothy01775634) | **Source:** [Link](https://x.com/Timothy01775634/status/2063270966394826963) | **Published:** Jun 6, 2026
+
+---
+### Đảo Rùa Bay Kỳ Thú
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý vẽ tranh sáng tạo với hình ảnh hòn đảo rùa huyền thoại trôi nổi trong khung cảnh mơ màng với tông màu pastel nhẹ nhàng.
+
+#### 📝 Prompt
+
+```
+Bức tranh vẽ đầy chất thơ về một hòn đảo rùa trôi nổi trên bầu trời pastel với những yếu tố cổ tích.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063266134972125184/img/pQseqLke_uP-HsqG.jpg" width="600" alt="Đảo Rùa Bay Kỳ Thú">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5756)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2063266278723535033) | **Published:** Jun 6, 2026
+
+---
+### Nhân vật nữ phong cách Anime xoay người và mỉm cười
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một câu lệnh tạo hoạt ảnh nhân vật hướng dẫn cô gái phong cách anime chạm vào tai, thực hiện xoay 360 độ chậm rãi và mỉm cười trước ống kính trong khi vẫn giữ nguyên các yếu tố thiết kế và phong cách.
+
+#### 📝 Prompt
+
+```
+Cô gái trong hình ảnh đính kèm chạm vào một bên tai tại chỗ, thực hiện một vòng xoay 360 độ chậm rãi tại chỗ và mỉm cười nhẹ nhàng ở cuối. Phần tai và đuôi tròn cần đung đưa một cách tự nhiên. Tai phải luôn giữ thẳng đứng; nghiêm cấm làm cong hoặc rủ xuống. Duy trì 100% phong cách và nét nghệ thuật của hình ảnh đính kèm. Không được phép thêm thắt hoặc thay đổi các yếu tố. Không thay đổi thiết kế mắt. Không tạo giọng nói của cô gái, ví dụ như tiếng cười. Camera cố định.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063244292815257601/img/M8Z36fnz9Zp03Aub.jpg" width="600" alt="Nhân vật nữ phong cách Anime xoay người và mỉm cười">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5761)**
+
+**Author:** [サン｜Sun](https://x.com/sunsunshine0318) | **Source:** [Link](https://x.com/sunsunshine0318/status/2063245398198919231) | **Published:** Jun 6, 2026
+
+---
+### Hành trình điểm sáng biểu tượng đậm chất điện ảnh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video mang tính biểu tượng mô tả hành trình của một điểm sáng đơn lẻ tạo ra các bóng đổ và dòng chảy thời gian trong các mặt phẳng ảo.
+
+#### 📝 Prompt
+
+```
+Một điểm sáng đơn lẻ du hành qua các mặt phẳng ảo, tạo hình các bóng đổ và dòng chảy thời gian, với khoảng không tối tăm ở rìa, mang phong cách điện ảnh đầy tính biểu tượng.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063155258277453824/img/f4oXygN3W5XNJjdZ.jpg" width="600" alt="Hành trình điểm sáng biểu tượng đậm chất điện ảnh">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5762)**
+
+**Author:** [Cicadas Francois Cosmos 🇯🇵](https://x.com/FC_Cicadas) | **Source:** [Link](https://x.com/FC_Cicadas/status/2063157876244562059) | **Published:** Jun 6, 2026
+
+---
 ### Hoạt ảnh cảnh theo phong cách Anime
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -263,6 +377,25 @@ Họ đang nhẹ nhàng lơ lửng giữa không gian, ánh lên vẻ hạnh ph�
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5708)**
 
 **Author:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **Source:** [Link](https://x.com/foxypatience/status/2062603835319705755) | **Published:** Jun 4, 2026
+
+---
+### Trận chiến Ghostbusters với Người lốp Michelin
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video điện ảnh tái hiện cảnh cuối của Ghostbusters, nhưng thay thế Stay Puft Marshmallow Man bằng một Người lốp Michelin khổng lồ tại Thành phố New York.
+
+#### 📝 Prompt
+
+```
+Tái hiện hoành tráng cảnh chiến đấu cuối cùng từ Ghostbusters (1984), nhưng thay vì Stay Puft Marshmallow Man, đó là một Michelin Bibendum khổng lồ được làm hoàn toàn từ những viên kẹo dẻo trắng to lớn. Anh ấy cao bằng tòa nhà chọc trời, đứng giữa đường phố Thành phố New York, nhìn xuống với nụ cười ngây thơ. Cơ thể kẹo dẻo mềm mại, phồng lên của anh ấy có hình dáng xếp chồng đặc trưng của Người lốp Michelin. Những người dân New York hoảng loạn bỏ chạy, những chiếc taxi màu vàng bị nghiền nát dưới chân anh, xung quanh là khói lửa, góc nhìn từ dưới lên đầy kịch tính, ánh sáng điện ảnh với hoàng hôn rực lửa, phong cách hiệu ứng đặc biệt thực tế, siêu chi tiết, kiệt tác
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062547352150257665/img/jmgeNshibBDdHqNS.jpg" width="600" alt="Trận chiến Ghostbusters với Người lốp Michelin">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5760)**
+
+**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2062548615558520998) | **Published:** Jun 4, 2026
 
 ---
 ### Đôi cánh thiên thần lấp lánh chốn thiên đường
@@ -2045,139 +2178,6 @@ Phong cách anime Nhật Bản, kỹ thuật cyberpunk toàn diện, cảnh đê
 **Author:** [Apple🌏🍏👑](https://x.com/makoto_so) | **Source:** [Link](https://x.com/makoto_so/status/2059156968338813270) | **Published:** May 26, 2026
 
 ---
-### Cảnh bờ biển dưới ánh trăng đậm chất điện ảnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) chi tiết mang phong cách điện ảnh cho khung cảnh có sự xuất hiện của hai nhân vật Victoria và Edmund trên bờ biển dưới ánh trăng, cùng với lửa và những ngọn lửa vàng rực.
-
-#### 📝 Prompt
-
-```
-Lửa đỏ và ngọn lửa vàng rực. Hai thanh kiếm, một định mệnh. Victoria và Edmund bước đi trên bờ biển dưới ánh trăng khi thế giới cũ lụi tàn phía sau họ.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/56016605e16336cf02f976c65dccf83c/thumbnails/thumbnail.jpg" width="600" alt="Cảnh bờ biển dưới ánh trăng đậm chất điện ảnh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5288)**
-
-**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2059151359857877311) | **Published:** May 26, 2026
-
----
-### Chuyển đổi điều khiển học Con mắt thứ ba
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Biến đổi một nhân vật điều khiển học để có thêm con mắt thứ ba và các viên nang hổ phách chứa đầy tri thức.
-
-#### 📝 Prompt
-
-```
-Hãy biến đổi nhân vật hình người điều khiển học sao cho hai mắt của anh ta thay đổi vị trí: một mắt di chuyển lên trán thành con mắt thứ ba, và mắt còn lại di chuyển xuống ngực. Cả hai mắt đều trở thành những viên nang hổ phách lớn phát sáng chứa đầy mọi tri thức, xoáy tròn với...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2f77cba4ce74aa2fee5eccb3eab115f1/thumbnails/thumbnail.jpg" width="600" alt="Chuyển đổi điều khiển học Con mắt thứ ba">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5324)**
-
-**Author:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **Source:** [Link](https://x.com/PhilipC34457079/status/2059143047237992850) | **Published:** May 26, 2026
-
----
-### Cuộc rượt đuổi neon của thợ săn tiền thưởng Cyberpunk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một phân cảnh hành động đậm chất điện ảnh về một thợ săn tiền thưởng tương lai trong bộ giáp điều khiển học, đang truy đuổi một android nổi loạn qua khu chợ cyberpunk đầy mưa và ánh đèn neon.
-
-#### 📝 Prompt
-
-```
-Một phân cảnh hành động đậm chất điện ảnh về một thợ săn tiền thưởng tương lai trong bộ giáp điều khiển học, đang truy đuổi một android nổi loạn qua khu chợ cyberpunk đầy mưa và ánh đèn neon.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9e55f7746125225276d20775496b0573/thumbnails/thumbnail.jpg" width="600" alt="Cuộc rượt đuổi neon của thợ săn tiền thưởng Cyberpunk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5282)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2059038665234370647) | **Published:** May 25, 2026
-
----
-### Hoạt hình bạch tuộc chơi với táo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một đoạn phim hoạt hình vui nhộn theo phong cách The Little Mermaid, mô tả cảnh một chú bạch tuộc đang chơi đùa với một quả táo đỏ.
-
-#### 📝 Prompt
-
-```
-Một đoạn phim hoạt hình vui nhộn theo phong cách The Little Mermaid, mô tả cảnh một chú bạch tuộc đang chơi đùa với một quả táo đỏ.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a65e4edfb90a026dedf12c8b1358175c/thumbnails/thumbnail.jpg" width="600" alt="Hoạt hình bạch tuộc chơi với táo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5286)**
-
-**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2058993407327187118) | **Published:** May 25, 2026
-
----
-### Vòng lặp những chiếc cốc cà phê xoay tròn
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) vòng lặp chi tiết cho cảnh quay những chiếc cốc cà phê xoay chậm với lớp kem tan chảy và những mảnh sô-cô-la rơi xuống.
-
-#### 📝 Prompt
-
-```
-những chiếc cốc đang xoay chậm, vòng lặp liền mạch, không có gì khác chuyển động, không có nhạc, lớp kem tan chảy từ từ… những mảnh sô-cô-la rơi nhẹ nhàng, nhạc merry go round, những mảnh sô-cô-la rơi xuống dọc theo thành cốc
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/629842e3b659c533e6aa0608e01b6b29/thumbnails/thumbnail.jpg" width="600" alt="Vòng lặp những chiếc cốc cà phê xoay tròn">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5287)**
-
-**Author:** [marie roche](https://x.com/mariero45502253) | **Source:** [Link](https://x.com/mariero45502253/status/2058952687643754668) | **Published:** May 25, 2026
-
----
-### Khung cảnh đêm tại thuộc địa Sao Hỏa tương lai
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Hình ảnh trực quan chân thực và đậm chất điện ảnh về một thuộc địa tương lai trên Sao Hỏa vào ban đêm, nổi bật với các mái vòm phát sáng và các công trình đang xây dựng.
-
-#### 📝 Prompt
-
-```
-Khung cảnh thành phố tại thuộc địa Sao Hỏa tương lai vào ban đêm, với các mái vòm phát sáng, đường hầm và công trình xây dựng, mang phong cách điện ảnh, chân thực.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/19a97d810e0e472f1e77a9e4bffd29be/thumbnails/thumbnail.jpg" width="600" alt="Khung cảnh đêm tại thuộc địa Sao Hỏa tương lai">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5279)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2058895930649354537) | **Published:** May 25, 2026
-
----
-### K-Horror theo phong cách Junji Ito
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một phân cảnh kinh dị thể xác đầy ám ảnh trong một căn hộ tại Seoul, với các biến dạng xoắn ốc mang đậm tính thẩm mỹ manga của Junji Ito.
-
-#### 📝 Prompt
-
-```
-Một phân cảnh kinh dị thể xác đầy ám ảnh trong một căn hộ tại Seoul, với các biến dạng xoắn ốc mang đậm tính thẩm mỹ manga của Junji Ito.
-```
-
-<img src="https://cms-assets.youmind.com/media/1779784404959_0saiy0_HJJ0vV6XMAAcs6h.jpg" width="600" alt="K-Horror theo phong cách Junji Ito">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5283)**
-
-**Author:** [Ƥ!ЖΣLƁΘUNCΣR](https://x.com/pixelbouncer) | **Source:** [Link](https://x.com/pixelbouncer/status/2058837007070077425) | **Published:** May 25, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2239,6 +2239,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-07T04:52:25.292Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-07T10:45:59.551Z</sub>
 
 </div>

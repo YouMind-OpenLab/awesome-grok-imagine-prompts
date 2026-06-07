@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **1755** |
+| 📝 提示词总数 | **1762** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-06-07** |
 
@@ -189,6 +189,120 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 交谊舞手位朝向
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 这是一个为 Grok Imagine 准备的描述性提示词，旨在生成一段舞蹈伴侣的视频，通过特定的手位和站位呈现出编舞般的质感。
+
+#### 📝 提示词
+
+```
+领舞者的左手握住舞伴的右手，他们的站位通常以舞伴位于右侧为准。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063382148208271360/img/cQWKSYe4wCTBsT_T.jpg" width="600" alt="交谊舞手位朝向">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5757)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2063382244270457152) | **发布时间:** Jun 6, 2026
+
+---
+### 《异乡异客》故事场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个以叙事为导向的提示词，通过文学参考为场景营造特定氛围，重点关注角色互动与地点转换。
+
+#### 📝 提示词
+
+```
+好的，让我们回到这张图片以及《异乡异客》中的原始故事，运用作者为投票场景所营造的氛围，然后为我展示另一个版本，内容是逃离医院，接着是“如果可以的话，找到我的儿子”。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063340091024556032/img/XtIP44meuJWm363B.jpg" width="600" alt="《异乡异客》故事场景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5758)**
+
+**作者:** [Timothy Norman](https://x.com/Timothy01775634) | **来源:** [Link](https://x.com/Timothy01775634/status/2063340141066735761) | **发布时间:** Jun 6, 2026
+
+---
+### 结构化漫画动画堆栈
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 这是一个为 Grok Imagine 设计的高度技术性结构化提示词，用于定义角色、叠加层以及烟雾和涟漪等特定场景参数。
+
+#### 📝 提示词
+
+```
+[BACKBONE_1961: poolside_acclimation_post_hospital] [CARTOON_BASE_CLUSTERS] - jubal_elder_caricature - jill_nurse_warm - anne_witness_sharp - mike_stranger_innocent [OVERLAY_STACK_8/32] - nuance_cigar_smoke dress_flow ripple_caustics...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063270910564388864/img/6G0qTuh445vefWNX.jpg" width="600" alt="结构化漫画动画堆栈">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5759)**
+
+**作者:** [Timothy Norman](https://x.com/Timothy01775634) | **来源:** [Link](https://x.com/Timothy01775634/status/2063270966394826963) | **发布时间:** Jun 6, 2026
+
+---
+### 奇幻漂浮龟岛
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个富有创意的绘画提示词，描绘了一座漂浮在柔和粉彩色梦境中的神话龟岛。
+
+#### 📝 提示词
+
+```
+一幅奇幻的绘画作品，描绘了漂浮在粉彩色天空中的龟岛，并融入了童话元素。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063266134972125184/img/pQseqLke_uP-HsqG.jpg" width="600" alt="奇幻漂浮龟岛">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5756)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **来源:** [Link](https://x.com/MrDasOnX/status/2063266278723535033) | **发布时间:** Jun 6, 2026
+
+---
+### 动漫少女角色旋转与微笑
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一个角色动画提示词，引导动漫风格的少女触摸耳朵，进行缓慢的 360 度旋转，并在保持固定风格和设计元素的同时对镜头微笑。
+
+#### 📝 提示词
+
+```
+附件图片中的少女在原地触摸一只耳朵，进行缓慢的单次 360 度原地旋转，并在最后温柔地微笑。耳朵和圆尾巴应自然摆动。耳朵必须保持竖立，严禁弯曲或下垂。保持附件图片 100% 的风格和艺术质感。不允许添加或更改任何元素。不要更改眼睛设计。不要生成少女的声音，例如笑声。固定镜头。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063244292815257601/img/M8Z36fnz9Zp03Aub.jpg" width="600" alt="动漫少女角色旋转与微笑">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5761)**
+
+**作者:** [サン｜Sun](https://x.com/sunsunshine0318) | **来源:** [Link](https://x.com/sunsunshine0318/status/2063245398198919231) | **发布时间:** Jun 6, 2026
+
+---
+### 电影感象征性光点之旅
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个象征性的视频提示词，描述了一个单一光点在虚拟平面中穿梭，创造出阴影与时间流动的旅程。
+
+#### 📝 提示词
+
+```
+一个单一光点穿梭于虚拟平面之间，形成阴影与时间流动，边缘处呈现深邃虚空，整体风格具有电影感与象征意义。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063155258277453824/img/f4oXygN3W5XNJjdZ.jpg" width="600" alt="电影感象征性光点之旅">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5762)**
+
+**作者:** [Cicadas Francois Cosmos 🇯🇵](https://x.com/FC_Cicadas) | **来源:** [Link](https://x.com/FC_Cicadas/status/2063157876244562059) | **发布时间:** Jun 6, 2026
+
+---
 ### 动漫风格场景动画
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -263,6 +377,25 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5708)**
 
 **作者:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **来源:** [Link](https://x.com/foxypatience/status/2062603835319705755) | **发布时间:** Jun 4, 2026
+
+---
+### 米其林轮胎人版《捉鬼敢死队》对决
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段电影感视频提示词，重现了《捉鬼敢死队》的结局，但将纽约市中的棉花糖人换成了巨大的米其林轮胎人。
+
+#### 📝 提示词
+
+```
+史诗级重现《捉鬼敢死队》（1984）的最终决战场景，但取代棉花糖人的，是一个完全由巨大白色棉花糖构成的巨型米其林轮胎人（Michelin Bibendum）。他拥有摩天大楼般的身躯，伫立在纽约市中心的街道上，带着天真无邪的微笑俯视下方。他柔软蓬松的棉花糖身体呈现出经典的米其林轮胎人堆叠造型。惊慌失措的纽约市民四处逃窜，黄色出租车被他踩在脚下，周围火光冲天、烟雾缭绕，采用极具戏剧性的低角度拍摄视角，电影级光影配合火红的夕阳，呈现出实拍特效风格，超高细节，大师级作品。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062547352150257665/img/jmgeNshibBDdHqNS.jpg" width="600" alt="米其林轮胎人版《捉鬼敢死队》对决">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5760)**
+
+**作者:** [Déborah](https://x.com/dvorahfr) | **来源:** [Link](https://x.com/dvorahfr/status/2062548615558520998) | **发布时间:** Jun 4, 2026
 
 ---
 ### Celestial Shimmering Angel Wings
@@ -2044,139 +2177,6 @@ AI 生成的曼哈顿超高层塔楼，430 米垂直结构，由计算减法工�
 **作者:** [Apple🌏🍏👑](https://x.com/makoto_so) | **来源:** [Link](https://x.com/makoto_so/status/2059156968338813270) | **发布时间:** May 26, 2026
 
 ---
-### 电影级月光海岸烈火
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是一段详细的电影级提示词，描绘了 Victoria 和 Edmund 在月光海岸，伴随着烈火与金色火焰的场景。
-
-#### 📝 提示词
-
-```
-红色的火光与金色的火焰。双刃交锋，宿命相连。Victoria 和 Edmund 漫步在月光照耀的海岸线上，身后的旧世界正熊熊燃烧。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/56016605e16336cf02f976c65dccf83c/thumbnails/thumbnail.jpg" width="600" alt="电影级月光海岸烈火">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5288)**
-
-**作者:** [DuBoseJen](https://x.com/DuBosefire) | **来源:** [Link](https://x.com/DuBosefire/status/2059151359857877311) | **发布时间:** May 26, 2026
-
----
-### 第三只眼赛博改造
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 将赛博角色进行改造，使其拥有第三只眼以及充满知识的琥珀色胶囊。
-
-#### 📝 提示词
-
-```
-对赛博人形角色进行改造，使其双眼位置发生位移：一只眼睛移至额头作为第三只眼，另一只眼睛移至胸前。两只眼睛均变为巨大的发光琥珀色胶囊，其中蕴含着所有知识，并伴随着旋转的……
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2f77cba4ce74aa2fee5eccb3eab115f1/thumbnails/thumbnail.jpg" width="600" alt="第三只眼赛博改造">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5324)**
-
-**作者:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **来源:** [Link](https://x.com/PhilipC34457079/status/2059143047237992850) | **发布时间:** May 26, 2026
-
----
-### 赛博朋克赏金猎人：霓虹追逐
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段电影级的动作序列，讲述了一位身穿机械装甲的未来赏金猎人在雨中霓虹闪烁的赛博朋克市场中，追捕一名叛逃仿生人的故事。
-
-#### 📝 提示词
-
-```
-一段电影级的动作序列，讲述了一位身穿机械装甲的未来赏金猎人在雨中霓虹闪烁的赛博朋克市场中，追捕一名叛逃仿生人的故事。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9e55f7746125225276d20775496b0573/thumbnails/thumbnail.jpg" width="600" alt="赛博朋克赏金猎人：霓虹追逐">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5282)**
-
-**作者:** [Déborah](https://x.com/dvorahfr) | **来源:** [Link](https://x.com/dvorahfr/status/2059038665234370647) | **发布时间:** May 25, 2026
-
----
-### 章鱼玩苹果动画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段充满奇趣的《小美人鱼》风格卡通动画，讲述了一只章鱼玩弄红苹果的故事。
-
-#### 📝 提示词
-
-```
-一段充满奇趣的《小美人鱼》风格卡通动画，讲述了一只章鱼玩弄红苹果的故事。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a65e4edfb90a026dedf12c8b1358175c/thumbnails/thumbnail.jpg" width="600" alt="章鱼玩苹果动画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5286)**
-
-**作者:** [Jean](https://x.com/SpaceScoutsIntl) | **来源:** [Link](https://x.com/SpaceScoutsIntl/status/2058993407327187118) | **发布时间:** May 25, 2026
-
----
-### 旋转咖啡杯循环
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个详细的循环提示词，用于描述咖啡杯缓慢旋转、奶油融化以及巧克力碎屑飘落的场景。
-
-#### 📝 提示词
-
-```
-the cups is slowly rotating, seamless loop, nothing else moves, no music melt over the 奶油缓慢融化……巧克力碎屑轻轻飘落 music merry go round 巧克力碎屑从杯边落下
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/629842e3b659c533e6aa0608e01b6b29/thumbnails/thumbnail.jpg" width="600" alt="旋转咖啡杯循环">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5287)**
-
-**作者:** [marie roche](https://x.com/mariero45502253) | **来源:** [Link](https://x.com/mariero45502253/status/2058952687643754668) | **发布时间:** May 25, 2026
-
----
-### 未来火星殖民地夜景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 对未来火星殖民地夜景的电影级写实可视化呈现，展现了发光的穹顶与建筑工程。
-
-#### 📝 提示词
-
-```
-未来火星殖民地的夜间城市景观，包含发光的穹顶、隧道和建筑工程，呈现出电影级的写实风格。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/19a97d810e0e472f1e77a9e4bffd29be/thumbnails/thumbnail.jpg" width="600" alt="未来火星殖民地夜景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5279)**
-
-**作者:** [Mr Das](https://x.com/MrDasOnX) | **来源:** [Link](https://x.com/MrDasOnX/status/2058895930649354537) | **发布时间:** May 25, 2026
-
----
-### 伊藤润二风格的韩式恐怖
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段发生在首尔公寓中令人不安的身体恐怖片段，呈现出伊藤润二漫画美学中的螺旋扭曲感。
-
-#### 📝 提示词
-
-```
-一段发生在首尔公寓中令人不安的身体恐怖片段，呈现出伊藤润二漫画美学中的螺旋扭曲感。
-```
-
-<img src="https://cms-assets.youmind.com/media/1779784404959_0saiy0_HJJ0vV6XMAAcs6h.jpg" width="600" alt="伊藤润二风格的韩式恐怖">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5283)**
-
-**作者:** [Ƥ!ЖΣLƁΘUNCΣR](https://x.com/pixelbouncer) | **来源:** [Link](https://x.com/pixelbouncer/status/2058837007070077425) | **发布时间:** May 25, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2238,6 +2238,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-06-07T04:52:19.079Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-06-07T10:45:52.708Z</sub>
 
 </div>

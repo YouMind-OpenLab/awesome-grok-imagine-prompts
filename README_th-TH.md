@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1755** |
+| 📝 Total Prompts | **1762** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-07** |
 
@@ -189,6 +189,120 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### การวางมือในการเต้นรำบอลรูม
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง (Prompt) สำหรับ Grok Imagine เพื่อสร้างวิดีโอคู่เต้นรำที่มีการวางตำแหน่งมือและท่าทางที่เฉพาะเจาะจง เพื่อให้ได้ความรู้สึกเหมือนการออกแบบท่าเต้น
+
+#### 📝 Prompt
+
+```
+ในขณะที่มือซ้ายของผู้นำจับมือขวาของผู้ตาม โดยทั่วไปแล้วตำแหน่งของทั้งคู่จะหันไปในทิศทางที่ผู้ตามอยู่ทางด้านขวา
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063382148208271360/img/cQWKSYe4wCTBsT_T.jpg" width="600" alt="การวางมือในการเต้นรำบอลรูม">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5757)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2063382244270457152) | **Published:** Jun 6, 2026
+
+---
+### ฉากเรื่องราวจาก Stranger in a Strange Land
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์เชิงบรรยายที่ปรับอารมณ์ของฉากโดยอ้างอิงจากวรรณกรรม โดยเน้นไปที่การปฏิสัมพันธ์ของตัวละครและการเปลี่ยนสถานที่
+
+#### 📝 Prompt
+
+```
+เอาล่ะ กลับมาที่รูปภาพนี้และเนื้อเรื่องดั้งเดิมใน Stranger in a Strange Land โดยปรับอารมณ์ให้เหมือนกับที่ผู้เขียนสร้างไว้ในฉากโพล จากนั้นแสดงเวอร์ชันอื่นที่เน้นการหลบหนีออกจากโรงพยาบาล แล้วตามหาลูกชายของฉันให้เจอถ้าคุณทำได้
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063340091024556032/img/XtIP44meuJWm363B.jpg" width="600" alt="ฉากเรื่องราวจาก Stranger in a Strange Land">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5758)**
+
+**Author:** [Timothy Norman](https://x.com/Timothy01775634) | **Source:** [Link](https://x.com/Timothy01775634/status/2063340141066735761) | **Published:** Jun 6, 2026
+
+---
+### ชุดคำสั่งสร้างภาพล้อเลียนแบบมีโครงสร้าง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ชุดคำสั่งเชิงเทคนิคขั้นสูงสำหรับ Grok Imagine ที่กำหนดตัวละคร เลเยอร์ซ้อนทับ และพารามิเตอร์เฉพาะของฉาก เช่น ควันและระลอกคลื่น
+
+#### 📝 Prompt
+
+```
+[BACKBONE_1961: poolside_acclimation_post_hospital] [CARTOON_BASE_CLUSTERS] - jubal_elder_caricature - jill_nurse_warm - anne_witness_sharp - mike_stranger_innocent [OVERLAY_STACK_8/32] - nuance_cigar_smoke dress_flow ripple_caustics...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063270910564388864/img/6G0qTuh445vefWNX.jpg" width="600" alt="ชุดคำสั่งสร้างภาพล้อเลียนแบบมีโครงสร้าง">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5759)**
+
+**Author:** [Timothy Norman](https://x.com/Timothy01775634) | **Source:** [Link](https://x.com/Timothy01775634/status/2063270966394826963) | **Published:** Jun 6, 2026
+
+---
+### เกาะเต่าลอยฟ้าสุดแฟนตาซี
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับวาดภาพเชิงสร้างสรรค์ที่นำเสนอเกาะเต่าในตำนานลอยอยู่ท่ามกลางบรรยากาศชวนฝันในโทนสีพาสเทลนุ่มนวล
+
+#### 📝 Prompt
+
+```
+ภาพวาดสุดแฟนตาซีของเกาะเต่าลอยฟ้าท่ามกลางท้องฟ้าสีพาสเทลที่เต็มไปด้วยองค์ประกอบจากเทพนิยาย
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063266134972125184/img/pQseqLke_uP-HsqG.jpg" width="600" alt="เกาะเต่าลอยฟ้าสุดแฟนตาซี">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5756)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2063266278723535033) | **Published:** Jun 6, 2026
+
+---
+### ตัวละครสาวอนิเมะหมุนตัวและยิ้ม
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> พรอมต์สำหรับทำแอนิเมชันตัวละคร โดยให้เด็กสาวสไตล์อนิเมะแตะที่หู หมุนตัว 360 องศาอย่างช้าๆ และยิ้มให้กล้อง โดยยังคงสไตล์และองค์ประกอบการออกแบบเดิมไว้อย่างครบถ้วน
+
+#### 📝 Prompt
+
+```
+เด็กสาวในภาพที่แนบมาให้แตะที่หูข้างหนึ่งขณะยืนอยู่กับที่ จากนั้นหมุนตัว 360 องศาอย่างช้าๆ และยิ้มอย่างอ่อนโยนในตอนท้าย หูและหางกลมควรแกว่งไกวอย่างเป็นธรรมชาติ หูจะต้องตั้งตรงอยู่เสมอ ห้ามงอหรือตกเด็ดขาด รักษาเอกลักษณ์และสไตล์ทางศิลปะของภาพต้นฉบับไว้ 100% ห้ามเพิ่มหรือเปลี่ยนแปลงองค์ประกอบใดๆ ห้ามเปลี่ยนดีไซน์ของดวงตา ห้ามสร้างเสียงของตัวละคร เช่น เสียงหัวเราะ และใช้มุมกล้องแบบคงที่
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063244292815257601/img/M8Z36fnz9Zp03Aub.jpg" width="600" alt="ตัวละครสาวอนิเมะหมุนตัวและยิ้ม">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5761)**
+
+**Author:** [サン｜Sun](https://x.com/sunsunshine0318) | **Source:** [Link](https://x.com/sunsunshine0318/status/2063245398198919231) | **Published:** Jun 6, 2026
+
+---
+### การเดินทางของจุดแสงเชิงสัญลักษณ์ในรูปแบบภาพยนตร์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอเชิงสัญลักษณ์ที่อธิบายถึงการเดินทางของจุดแสงเพียงจุดเดียวที่สร้างเงาและกระแสเวลาภายในระนาบเสมือนจริง
+
+#### 📝 Prompt
+
+```
+จุดแสงเพียงจุดเดียวเดินทางผ่านระนาบเสมือนจริง ก่อให้เกิดเงาและกระแสเวลา โดยมีห้วงความมืดอยู่ที่ขอบภาพ ในสไตล์ภาพยนตร์เชิงสัญลักษณ์
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063155258277453824/img/f4oXygN3W5XNJjdZ.jpg" width="600" alt="การเดินทางของจุดแสงเชิงสัญลักษณ์ในรูปแบบภาพยนตร์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5762)**
+
+**Author:** [Cicadas Francois Cosmos 🇯🇵](https://x.com/FC_Cicadas) | **Source:** [Link](https://x.com/FC_Cicadas/status/2063157876244562059) | **Published:** Jun 6, 2026
+
+---
 ### แอนิเมชันฉากสไตล์อนิเมะ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -263,6 +377,25 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5708)**
 
 **Author:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **Source:** [Link](https://x.com/foxypatience/status/2062603835319705755) | **Published:** Jun 4, 2026
+
+---
+### การต่อสู้ของ Michelin Man ในสไตล์ Ghostbusters
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวภาพยนตร์ที่จำลองฉากจบของ Ghostbusters โดยเปลี่ยนจาก Stay Puft Marshmallow Man มาเป็น Michelin Man ขนาดยักษ์ใจกลางเมืองนิวยอร์ก
+
+#### 📝 Prompt
+
+```
+การจำลองฉากต่อสู้สุดท้ายจากภาพยนตร์ Ghostbusters (1984) อย่างยิ่งใหญ่ โดยเปลี่ยนจาก Stay Puft Marshmallow Man มาเป็น Michelin Bibendum ร่างยักษ์ที่ทำจากมาร์ชเมลโลว์สีขาวขนาดมหึมา เขามีขนาดตัวเท่าตึกระฟ้า ยืนอยู่กลางถนนในเมืองนิวยอร์ก พร้อมก้มมองลงมาด้วยรอยยิ้มที่ดูไร้เดียงสา ร่างกายมาร์ชเมลโลว์ที่นุ่มฟูของเขามีรูปร่างซ้อนกันเป็นชั้นๆ ตามแบบฉบับของ Michelin Man ชาวนิวยอร์กต่างตื่นตระหนกและวิ่งหนี รถแท็กซี่สีเหลืองถูกเหยียบแบนอยู่ใต้เท้าของเขา รายล้อมไปด้วยระเบิดและควันไฟ มุมกล้องแบบเงยขึ้นให้ความรู้สึกตื่นตาตื่นใจ แสงสีแบบภาพยนตร์ในช่วงพระอาทิตย์ตกดิน สไตล์เอฟเฟกต์สมจริง รายละเอียดสูงระดับผลงานชิ้นเอก
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062547352150257665/img/jmgeNshibBDdHqNS.jpg" width="600" alt="การต่อสู้ของ Michelin Man ในสไตล์ Ghostbusters">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5760)**
+
+**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2062548615558520998) | **Published:** Jun 4, 2026
 
 ---
 ### ปีกนางฟ้าเปล่งประกายดั่งสรวงสวรรค์
@@ -2045,139 +2178,6 @@ Hermes ได้รับรองเท้าบินได้สุดเร�
 **Author:** [Apple🌏🍏👑](https://x.com/makoto_so) | **Source:** [Link](https://x.com/makoto_so/status/2059156968338813270) | **Published:** May 26, 2026
 
 ---
-### ฉากริมฝั่งทะเลใต้แสงจันทร์ในสไตล์ภาพยนตร์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) สำหรับสร้างภาพสไตล์ภาพยนตร์ที่มีรายละเอียดของตัวละคร Victoria และ Edmund บนชายฝั่งใต้แสงจันทร์ พร้อมด้วยเปลวไฟสีแดงและสีทอง
-
-#### 📝 Prompt
-
-```
-เปลวไฟสีแดงและสีทอง ดาบสองเล่ม กับหนึ่งโชคชะตา Victoria และ Edmund เดินอยู่บนชายฝั่งใต้แสงจันทร์ ในขณะที่โลกเก่ากำลังมอดไหม้อยู่เบื้องหลังพวกเขา
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/56016605e16336cf02f976c65dccf83c/thumbnails/thumbnail.jpg" width="600" alt="ฉากริมฝั่งทะเลใต้แสงจันทร์ในสไตล์ภาพยนตร์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5288)**
-
-**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2059151359857877311) | **Published:** May 26, 2026
-
----
-### การเปลี่ยนผ่านสู่ไซเบอร์เนติกส์ด้วยดวงตาที่สาม
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> เปลี่ยนตัวละครไซเบอร์เนติกส์ให้มีดวงตาที่สามและแคปซูลสีอำพันที่เต็มไปด้วยความรู้
-
-#### 📝 Prompt
-
-```
-ปรับเปลี่ยนร่างมนุษย์ไซเบอร์เนติกส์โดยให้ดวงตาทั้งสองข้างเปลี่ยนตำแหน่ง: ข้างหนึ่งเลื่อนขึ้นไปอยู่บนหน้าผากเป็นดวงตาที่สาม และอีกข้างเลื่อนลงมาอยู่ที่หน้าอก ดวงตาทั้งสองข้างจะกลายเป็นแคปซูลสีอำพันเรืองแสงขนาดใหญ่ที่เต็มไปด้วยความรู้ทั้งหมด ซึ่งหมุนวนอยู่ภายใน...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2f77cba4ce74aa2fee5eccb3eab115f1/thumbnails/thumbnail.jpg" width="600" alt="การเปลี่ยนผ่านสู่ไซเบอร์เนติกส์ด้วยดวงตาที่สาม">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5324)**
-
-**Author:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **Source:** [Link](https://x.com/PhilipC34457079/status/2059143047237992850) | **Published:** May 26, 2026
-
----
-### Cyberpunk Bounty Hunter Neon Chase
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ฉากแอ็กชันสุดตระการตาของนักล่าค่าหัวแห่งโลกอนาคตในชุดเกราะไซเบอร์เนติกส์ ที่กำลังไล่ล่าแอนดรอยด์นอกคอกท่ามกลางตลาดไซเบอร์พังก์ที่เต็มไปด้วยแสงนีออนและสายฝน
-
-#### 📝 Prompt
-
-```
-ฉากแอ็กชันสุดตระการตาของนักล่าค่าหัวแห่งโลกอนาคตในชุดเกราะไซเบอร์เนติกส์ ที่กำลังไล่ล่าแอนดรอยด์นอกคอกท่ามกลางตลาดไซเบอร์พังก์ที่เต็มไปด้วยแสงนีออนและสายฝน
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9e55f7746125225276d20775496b0573/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Bounty Hunter Neon Chase">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5282)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2059038665234370647) | **Published:** May 25, 2026
-
----
-### แอนิเมชันปลาหมึกยักษ์เล่นแอปเปิล
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> แอนิเมชันการ์ตูนสุดน่ารักในสไตล์ The Little Mermaid ที่มีปลาหมึกยักษ์กำลังเล่นกับแอปเปิลสีแดง
-
-#### 📝 Prompt
-
-```
-แอนิเมชันการ์ตูนสุดน่ารักในสไตล์ The Little Mermaid ที่มีปลาหมึกยักษ์กำลังเล่นกับแอปเปิลสีแดง
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a65e4edfb90a026dedf12c8b1358175c/thumbnails/thumbnail.jpg" width="600" alt="แอนิเมชันปลาหมึกยักษ์เล่นแอปเปิล">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5286)**
-
-**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2058993407327187118) | **Published:** May 25, 2026
-
----
-### วิดีโอวนลูปแก้วกาแฟหมุน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) สำหรับสร้างวิดีโอวนลูปที่มีรายละเอียดของแก้วกาแฟที่กำลังหมุนอย่างช้าๆ พร้อมครีมที่ละลายและเกล็ดช็อกโกแลตที่โปรยปรายลงมา
-
-#### 📝 Prompt
-
-```
-แก้วกาแฟกำลังหมุนอย่างช้าๆ, วนลูปแบบไร้รอยต่อ, ไม่มีการเคลื่อนไหวอื่นใด, ไม่มีดนตรี, ครีมค่อยๆ ละลาย... เกล็ดช็อกโกแลตโปรยปรายลงมาเบาๆ, ดนตรีประกอบเพลงม้าหมุน, เกล็ดช็อกโกแลตตกลงมาที่ด้านข้างของแก้ว
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/629842e3b659c533e6aa0608e01b6b29/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอวนลูปแก้วกาแฟหมุน">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5287)**
-
-**Author:** [marie roche](https://x.com/mariero45502253) | **Source:** [Link](https://x.com/mariero45502253/status/2058952687643754668) | **Published:** May 25, 2026
-
----
-### ทัศนียภาพยามค่ำคืนของอาณานิคมบนดาวอังคารแห่งอนาคต
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ภาพจำลองที่สมจริงและเปี่ยมด้วยอรรถรสทางภาพของอาณานิคมแห่งอนาคตบนดาวอังคารในยามค่ำคืน โดดเด่นด้วยโดมเรืองแสงและการก่อสร้าง
-
-#### 📝 Prompt
-
-```
-ทัศนียภาพเมืองของอาณานิคมบนดาวอังคารแห่งอนาคตในยามค่ำคืน พร้อมด้วยโดมเรืองแสง อุโมงค์ และการก่อสร้าง ในสไตล์ที่สมจริงและเปี่ยมด้วยอรรถรสทางภาพ
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/19a97d810e0e472f1e77a9e4bffd29be/thumbnails/thumbnail.jpg" width="600" alt="ทัศนียภาพยามค่ำคืนของอาณานิคมบนดาวอังคารแห่งอนาคต">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5279)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2058895930649354537) | **Published:** May 25, 2026
-
----
-### สยองขวัญสไตล์เกาหลีในแบบฉบับของ จุนจิ อิโต้
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ฉากสยองขวัญแนวบอดี้ฮอร์เรอร์ที่น่าขนลุกในอพาร์ตเมนต์แห่งหนึ่งในกรุงโซล นำเสนอภาพการบิดเบี้ยวเป็นเกลียวในสไตล์มังงะของ จุนจิ อิโต้
-
-#### 📝 Prompt
-
-```
-ฉากสยองขวัญแนวบอดี้ฮอร์เรอร์ที่น่าขนลุกในอพาร์ตเมนต์แห่งหนึ่งในกรุงโซล นำเสนอภาพการบิดเบี้ยวเป็นเกลียวในสไตล์มังงะของ จุนจิ อิโต้
-```
-
-<img src="https://cms-assets.youmind.com/media/1779784404959_0saiy0_HJJ0vV6XMAAcs6h.jpg" width="600" alt="สยองขวัญสไตล์เกาหลีในแบบฉบับของ จุนจิ อิโต้">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5283)**
-
-**Author:** [Ƥ!ЖΣLƁΘUNCΣR](https://x.com/pixelbouncer) | **Source:** [Link](https://x.com/pixelbouncer/status/2058837007070077425) | **Published:** May 25, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2239,6 +2239,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-07T04:52:24.222Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-07T10:45:58.099Z</sub>
 
 </div>

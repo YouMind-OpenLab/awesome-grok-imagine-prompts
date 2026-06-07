@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1755** |
+| 📝 Total Prompts | **1762** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-07** |
 
@@ -189,6 +189,120 @@ Una valquiria celestial mística y noble, una mujer digna y hermosa con largo ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Orientación de las manos en el baile de salón
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt descriptivo para Grok Imagine con el fin de generar un video de una pareja de baile con colocación y posicionamiento de manos específicos para lograr una sensación coreografiada.
+
+#### 📝 Prompt
+
+```
+Aunque la mano izquierda del líder sostiene la mano derecha del seguidor, sus posiciones están orientadas generalmente con el seguidor a la derecha.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063382148208271360/img/cQWKSYe4wCTBsT_T.jpg" width="600" alt="Orientación de las manos en el baile de salón">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5757)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2063382244270457152) | **Published:** Jun 6, 2026
+
+---
+### Escena de la historia de Forastero en tierra extraña
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt narrativo que aplica un estado de ánimo específico a una escena basándose en referencias literarias, centrándose en la interacción de los personajes y los cambios de ubicación.
+
+#### 📝 Prompt
+
+```
+Muy bien, volvamos a esta imagen y a la historia original de Forastero en tierra extraña; aplica el estado de ánimo que el autor creó para la escena de la encuesta y luego muéstrame otra versión escapando del hospital; después, encuentra a mi hijo si puedes
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063340091024556032/img/XtIP44meuJWm363B.jpg" width="600" alt="Escena de la historia de Forastero en tierra extraña">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5758)**
+
+**Author:** [Timothy Norman](https://x.com/Timothy01775634) | **Source:** [Link](https://x.com/Timothy01775634/status/2063340141066735761) | **Published:** Jun 6, 2026
+
+---
+### Stack de animación de caricaturas estructuradas
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt estructurado altamente técnico para Grok Imagine que define personajes, superposiciones y parámetros de escena específicos como humo y ondas.
+
+#### 📝 Prompt
+
+```
+[BACKBONE_1961: poolside_acclimation_post_hospital] [CARTOON_BASE_CLUSTERS] - jubal_elder_caricature - jill_nurse_warm - anne_witness_sharp - mike_stranger_innocent [OVERLAY_STACK_8/32] - nuance_cigar_smoke dress_flow ripple_caustics...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063270910564388864/img/6G0qTuh445vefWNX.jpg" width="600" alt="Stack de animación de caricaturas estructuradas">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5759)**
+
+**Author:** [Timothy Norman](https://x.com/Timothy01775634) | **Source:** [Link](https://x.com/Timothy01775634/status/2063270966394826963) | **Published:** Jun 6, 2026
+
+---
+### Caprichosa isla tortuga flotante
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un creativo prompt de pintura que presenta una mítica isla tortuga flotando en un paisaje onírico de colores pastel.
+
+#### 📝 Prompt
+
+```
+Una pintura caprichosa de una isla tortuga flotante en un cielo pastel con elementos de cuento de hadas.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063266134972125184/img/pQseqLke_uP-HsqG.jpg" width="600" alt="Caprichosa isla tortuga flotante">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5756)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2063266278723535033) | **Published:** Jun 6, 2026
+
+---
+### Giro y sonrisa de personaje de chica anime
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt de animación de personajes que guía a una chica de estilo anime a tocarse la oreja, realizar una rotación lenta de 360 grados y sonreír a la cámara manteniendo elementos de estilo y diseño fijos.
+
+#### 📝 Prompt
+
+```
+La chica de la imagen adjunta se toca una oreja en el mismo lugar, realiza una rotación lenta de 360 grados sobre su eje y sonríe suavemente al final. Las orejas y la cola redonda deben balancearse de forma natural. Las orejas deben permanecer erguidas; está prohibido doblarlas o que se caigan. Mantén el 100% del estilo y el toque artístico de la imagen adjunta. No se permiten adiciones ni cambios en los elementos. No cambies el diseño de los ojos. No generes la voz de la chica, como risas. Cámara fija.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063244292815257601/img/M8Z36fnz9Zp03Aub.jpg" width="600" alt="Giro y sonrisa de personaje de chica anime">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5761)**
+
+**Author:** [サン｜Sun](https://x.com/sunsunshine0318) | **Source:** [Link](https://x.com/sunsunshine0318/status/2063245398198919231) | **Published:** Jun 6, 2026
+
+---
+### Viaje cinematográfico de un punto de luz simbólico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video simbólico que describe el viaje de un único punto de luz creando sombras y flujos temporales dentro de planos virtuales.
+
+#### 📝 Prompt
+
+```
+Un único punto de luz viaja a través de planos virtuales, formando sombras y flujos temporales, con un vacío oscuro en el borde, en un estilo cinematográfico y simbólico.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063155258277453824/img/f4oXygN3W5XNJjdZ.jpg" width="600" alt="Viaje cinematográfico de un punto de luz simbólico">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5762)**
+
+**Author:** [Cicadas Francois Cosmos 🇯🇵](https://x.com/FC_Cicadas) | **Source:** [Link](https://x.com/FC_Cicadas/status/2063157876244562059) | **Published:** Jun 6, 2026
+
+---
 ### Animación de escenas al estilo anime
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -263,6 +377,25 @@ Flotan suavemente a través del espacio, sutilmente felices y maravillados. ¡Co
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5708)**
 
 **Author:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **Source:** [Link](https://x.com/foxypatience/status/2062603835319705755) | **Published:** Jun 4, 2026
+
+---
+### Batalla de los Cazafantasmas contra el Hombre Michelin
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video cinematográfico que recrea el final de Los Cazafantasmas, pero con un gigante Hombre Michelin en lugar del Hombre de Malvavisco en la ciudad de Nueva York.
+
+#### 📝 Prompt
+
+```
+Recreación épica de la escena de la batalla final de Los Cazafantasmas (1984), pero en lugar del Hombre de Malvavisco, aparece un colosal Bibendum de Michelin hecho completamente de malvaviscos blancos gigantes. Tiene el tamaño de un rascacielos, se encuentra en medio de las calles de la ciudad de Nueva York y mira hacia abajo con una gran sonrisa inocente. Su cuerpo de malvavisco suave y esponjoso tiene la forma clásica y apilada del Hombre Michelin. Neoyorquinos en pánico huyendo, taxis amarillos aplastados bajo sus pies, explosiones y humo a su alrededor, perspectiva dramática en ángulo contrapicado, iluminación cinematográfica con un atardecer ardiente, estilo de efectos especiales prácticos, ultra detallado, obra maestra
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062547352150257665/img/jmgeNshibBDdHqNS.jpg" width="600" alt="Batalla de los Cazafantasmas contra el Hombre Michelin">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5760)**
+
+**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2062548615558520998) | **Published:** Jun 4, 2026
 
 ---
 ### Alas de ángel celestiales y brillantes
@@ -2044,139 +2177,6 @@ Estilo anime japonés, cyberpunk full technica, vista nocturna de una ciudad aca
 **Author:** [Apple🌏🍏👑](https://x.com/makoto_so) | **Source:** [Link](https://x.com/makoto_so/status/2059156968338813270) | **Published:** May 26, 2026
 
 ---
-### Escena cinematográfica: Costa a la luz de la luna con fuego
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinematográfico detallado para una escena que presenta a los personajes Victoria y Edmund en una costa iluminada por la luna con fuego y llamas doradas.
-
-#### 📝 Prompt
-
-```
-Fuego rojo y llamas doradas. Dos espadas, un destino. Victoria y Edmund caminan por la costa a la luz de la luna mientras el viejo mundo arde a sus espaldas.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/56016605e16336cf02f976c65dccf83c/thumbnails/thumbnail.jpg" width="600" alt="Escena cinematográfica: Costa a la luz de la luna con fuego">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5288)**
-
-**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2059151359857877311) | **Published:** May 26, 2026
-
----
-### Transformación cibernética del tercer ojo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Transforma a un personaje cibernético para incluir un tercer ojo y cápsulas de ámbar llenas de conocimiento.
-
-#### 📝 Prompt
-
-```
-Transforma la figura humanoide cibernética de modo que sus dos ojos cambien de posición: uno se desplaza hacia la frente como un tercer ojo y el otro baja hacia el pecho. Ambos ojos se convierten en grandes cápsulas de ámbar brillante llenas de todo el conocimiento, girando con...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2f77cba4ce74aa2fee5eccb3eab115f1/thumbnails/thumbnail.jpg" width="600" alt="Transformación cibernética del tercer ojo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5324)**
-
-**Author:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **Source:** [Link](https://x.com/PhilipC34457079/status/2059143047237992850) | **Published:** May 26, 2026
-
----
-### Persecución de neón: cazarrecompensas ciberpunk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Una secuencia de acción cinematográfica que muestra a un cazarrecompensas futurista con armadura cibernética persiguiendo a un androide rebelde a través de un mercado ciberpunk lluvioso e iluminado por luces de neón.
-
-#### 📝 Prompt
-
-```
-Una secuencia de acción cinematográfica que muestra a un cazarrecompensas futurista con armadura cibernética persiguiendo a un androide rebelde a través de un mercado ciberpunk lluvioso e iluminado por luces de neón.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9e55f7746125225276d20775496b0573/thumbnails/thumbnail.jpg" width="600" alt="Persecución de neón: cazarrecompensas ciberpunk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5282)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2059038665234370647) | **Published:** May 25, 2026
-
----
-### Animación de un pulpo jugando con una manzana
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Una animación de dibujos animados caprichosa al estilo de La Sirenita que muestra a un pulpo jugando con una manzana roja.
-
-#### 📝 Prompt
-
-```
-Una animación de dibujos animados caprichosa al estilo de La Sirenita que muestra a un pulpo jugando con una manzana roja.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a65e4edfb90a026dedf12c8b1358175c/thumbnails/thumbnail.jpg" width="600" alt="Animación de un pulpo jugando con una manzana">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5286)**
-
-**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2058993407327187118) | **Published:** May 25, 2026
-
----
-### Bucle de tazas de café giratorias
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de bucle detallado para una escena donde las tazas de café giran lentamente con crema derritiéndose y copos de chocolate cayendo.
-
-#### 📝 Prompt
-
-```
-las tazas giran lentamente, bucle continuo, nada más se mueve, sin música, la crema se derrite lentamente... los copos de chocolate caen ligeramente, música de carrusel, los copos de chocolate caen por el borde
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/629842e3b659c533e6aa0608e01b6b29/thumbnails/thumbnail.jpg" width="600" alt="Bucle de tazas de café giratorias">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5287)**
-
-**Author:** [marie roche](https://x.com/mariero45502253) | **Source:** [Link](https://x.com/mariero45502253/status/2058952687643754668) | **Published:** May 25, 2026
-
----
-### Paisaje nocturno de una colonia futurista en Marte
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Una visualización cinematográfica y realista de una colonia futurista en Marte durante la noche, con cúpulas brillantes y zonas en construcción.
-
-#### 📝 Prompt
-
-```
-Un paisaje urbano de una colonia futurista en Marte durante la noche, con cúpulas brillantes, túneles y construcciones, en un estilo cinematográfico y realista.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/19a97d810e0e472f1e77a9e4bffd29be/thumbnails/thumbnail.jpg" width="600" alt="Paisaje nocturno de una colonia futurista en Marte">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5279)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2058895930649354537) | **Published:** May 25, 2026
-
----
-### K-Horror al estilo de Junji Ito
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Una perturbadora secuencia de horror corporal en un apartamento de Seúl, con distorsiones en espiral bajo la estética del manga de Junji Ito.
-
-#### 📝 Prompt
-
-```
-Una perturbadora secuencia de horror corporal en un apartamento de Seúl, con distorsiones en espiral bajo la estética del manga de Junji Ito.
-```
-
-<img src="https://cms-assets.youmind.com/media/1779784404959_0saiy0_HJJ0vV6XMAAcs6h.jpg" width="600" alt="K-Horror al estilo de Junji Ito">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5283)**
-
-**Author:** [Ƥ!ЖΣLƁΘUNCΣR](https://x.com/pixelbouncer) | **Source:** [Link](https://x.com/pixelbouncer/status/2058837007070077425) | **Published:** May 25, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2238,6 +2238,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-07T04:52:28.468Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-07T10:46:02.190Z</sub>
 
 </div>

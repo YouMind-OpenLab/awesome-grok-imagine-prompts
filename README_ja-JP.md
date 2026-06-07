@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **1755** |
+| 📝 プロンプト総数 | **1762** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-06-07** |
 
@@ -189,6 +189,120 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### 社交ダンスにおける手の向き
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine を使用して、振り付けのような雰囲気で、手や体の位置を細かく指定したダンスカップルの動画を生成するためのプロンプトです。
+
+#### 📝 プロンプト
+
+```
+リーダーの左手がフォロワーの右手を持つ際、全体的な立ち位置としてフォロワーが右側にくるように配置します。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063382148208271360/img/cQWKSYe4wCTBsT_T.jpg" width="600" alt="社交ダンスにおける手の向き">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5757)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2063382244270457152) | **公開日:** Jun 6, 2026
+
+---
+### 『Stranger in a Strange Land』のストーリーシーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 文学的背景に基づき、特定のムードをシーンに適用する物語主導型のプロンプトです。キャラクターの相互作用や場所の変化に焦点を当てています。
+
+#### 📝 プロンプト
+
+```
+さて、この画像と『Stranger in a Strange Land』の原作ストーリーに戻りましょう。著者が作り出したポール・シーンのムードを適用してください。次に、病院から脱出する別のバージョンを見せてください。もし可能なら、私の息子を探し出してください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063340091024556032/img/XtIP44meuJWm363B.jpg" width="600" alt="『Stranger in a Strange Land』のストーリーシーン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5758)**
+
+**作者:** [Timothy Norman](https://x.com/Timothy01775634) | **ソース:** [Link](https://x.com/Timothy01775634/status/2063340141066735761) | **公開日:** Jun 6, 2026
+
+---
+### 構造化カリカチュア・アニメーション・スタック
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> キャラクター、オーバーレイ、煙や波紋といった特定のシーンパラメータを定義する、Grok Imagine 用の高度に技術的な構造化プロンプトです。
+
+#### 📝 プロンプト
+
+```
+[BACKBONE_1961: poolside_acclimation_post_hospital] [CARTOON_BASE_CLUSTERS] - jubal_elder_caricature - jill_nurse_warm - anne_witness_sharp - mike_stranger_innocent [OVERLAY_STACK_8/32] - nuance_cigar_smoke dress_flow ripple_caustics...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063270910564388864/img/6G0qTuh445vefWNX.jpg" width="600" alt="構造化カリカチュア・アニメーション・スタック">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5759)**
+
+**作者:** [Timothy Norman](https://x.com/Timothy01775634) | **ソース:** [Link](https://x.com/Timothy01775634/status/2063270966394826963) | **公開日:** Jun 6, 2026
+
+---
+### 幻想的な浮遊亀の島
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> パステルカラーの夢のような風景に浮かぶ、神話の亀の島を描いたクリエイティブなペインティングプロンプトです。
+
+#### 📝 プロンプト
+
+```
+パステルカラーの空に浮かぶ亀の島を描いた、おとぎ話のような幻想的な絵画。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063266134972125184/img/pQseqLke_uP-HsqG.jpg" width="600" alt="幻想的な浮遊亀の島">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5756)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **ソース:** [Link](https://x.com/MrDasOnX/status/2063266278723535033) | **公開日:** Jun 6, 2026
+
+---
+### アニメ調の女の子が回転して微笑むキャラクターアニメーション
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> アニメ調の女の子が耳に触れ、ゆっくりと 360 度回転し、カメラに向かって微笑むキャラクターアニメーションのプロンプトです。スタイルやデザイン要素を維持したまま生成します。
+
+#### 📝 プロンプト
+
+```
+添付画像の女の子がその場で片耳に触れ、ゆっくりと 360 度回転し、最後に優しく微笑みます。耳と丸い尻尾は自然に揺れるようにしてください。耳は直立した状態を維持し、曲げたり垂らしたりすることは禁止です。添付画像のスタイルと芸術的なタッチを 100% 維持してください。要素の追加や変更は一切認められません。目のデザインも変更しないでください。笑い声などの音声は生成しないでください。カメラは固定です。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063244292815257601/img/M8Z36fnz9Zp03Aub.jpg" width="600" alt="アニメ調の女の子が回転して微笑むキャラクターアニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5761)**
+
+**作者:** [サン｜Sun](https://x.com/sunsunshine0318) | **ソース:** [Link](https://x.com/sunsunshine0318/status/2063245398198919231) | **公開日:** Jun 6, 2026
+
+---
+### シネマティックな光の点の旅
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 仮想空間の中で光の点が旅をし、影や時間の流れを生み出す様子を描いた象徴的なビデオプロンプトです。
+
+#### 📝 プロンプト
+
+```
+シネマティックかつ象徴的なスタイルで、たった一つの光の点が仮想空間を旅し、影と時間の流れを形成します。その端には暗い虚無が広がっています。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063155258277453824/img/f4oXygN3W5XNJjdZ.jpg" width="600" alt="シネマティックな光の点の旅">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5762)**
+
+**作者:** [Cicadas Francois Cosmos 🇯🇵](https://x.com/FC_Cicadas) | **ソース:** [Link](https://x.com/FC_Cicadas/status/2063157876244562059) | **公開日:** Jun 6, 2026
+
+---
 ### アニメ調のシーンアニメーション
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -263,6 +377,25 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5708)**
 
 **作者:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **ソース:** [Link](https://x.com/foxypatience/status/2062603835319705755) | **公開日:** Jun 4, 2026
+
+---
+### ミシュランマン vs ゴーストバスターズの対決
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 映画『ゴーストバスターズ』のクライマックスシーンを再現したシネマティックなビデオプロンプト。ニューヨークの街に、マシュマロマンの代わりに巨大なミシュランマンが登場します。
+
+#### 📝 プロンプト
+
+```
+映画『ゴーストバスターズ』（1984 年）の最終決戦シーンを壮大に再現。マシュマロマンの代わりに、巨大な白いマシュマロでできた巨大なミシュラン・ビバンダムが登場する。彼は摩天楼ほどの大きさで、ニューヨークの街中に立ち、無邪気な笑顔で下を見下ろしている。柔らかく膨らんだマシュマロの体は、ミシュランマン特有の積み重なった形状をしている。パニックになって逃げ惑うニューヨーカーたち、足元で押しつぶされるイエローキャブ、周囲に立ち込める爆発の煙。ドラマチックなローアングル視点、燃えるような夕日を背景にしたシネマティックなライティング、実写特撮風のスタイル、超高精細、傑作。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062547352150257665/img/jmgeNshibBDdHqNS.jpg" width="600" alt="ミシュランマン vs ゴーストバスターズの対決">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5760)**
+
+**作者:** [Déborah](https://x.com/dvorahfr) | **ソース:** [Link](https://x.com/dvorahfr/status/2062548615558520998) | **公開日:** Jun 4, 2026
 
 ---
 ### 天上の輝きを放つ天使の翼
@@ -2045,139 +2178,6 @@ BlueGoo と Vera を描いた近未来的なデジタルイラスト。母と娘
 **作者:** [Apple🌏🍏👑](https://x.com/makoto_so) | **ソース:** [Link](https://x.com/makoto_so/status/2059156968338813270) | **公開日:** May 26, 2026
 
 ---
-### 月明かりの海岸と燃え盛る炎のシネマティックな光景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 月明かりの海岸で、炎と黄金の火に包まれる Victoria と Edmund を描いた、詳細なシネマティック・プロンプトです。
-
-#### 📝 プロンプト
-
-```
-赤い炎と黄金の火。二振りの刃、一つの宿命。旧世界が背後で燃え落ちる中、Victoria と Edmund は月明かりの海岸を歩む。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/56016605e16336cf02f976c65dccf83c/thumbnails/thumbnail.jpg" width="600" alt="月明かりの海岸と燃え盛る炎のシネマティックな光景">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5288)**
-
-**作者:** [DuBoseJen](https://x.com/DuBosefire) | **ソース:** [Link](https://x.com/DuBosefire/status/2059151359857877311) | **公開日:** May 26, 2026
-
----
-### サードアイ・サイバネティック・トランスフォーメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> サイバネティックなキャラクターにサードアイと知識が詰まった琥珀色のカプセルを追加する変身。
-
-#### 📝 プロンプト
-
-```
-サイバネティックな人型フィギュアを変身させ、2 つの目を移動させます。片方の目は額に移動してサードアイとなり、もう片方の目は胸元に移動します。両方の目は、あらゆる知識が詰まった巨大で輝く琥珀色のカプセルへと変化し、渦を巻いて……
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2f77cba4ce74aa2fee5eccb3eab115f1/thumbnails/thumbnail.jpg" width="600" alt="サードアイ・サイバネティック・トランスフォーメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5324)**
-
-**作者:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **ソース:** [Link](https://x.com/PhilipC34457079/status/2059143047237992850) | **公開日:** May 26, 2026
-
----
-### サイバーパンク・バウンティハンター：ネオン・チェイス
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> サイバネティック・アーマーを纏った未来のバウンティハンターが、雨の降るネオン街の市場で逃亡中のアンドロイドを追跡する、シネマティックなアクション・シークエンス。
-
-#### 📝 プロンプト
-
-```
-サイバネティック・アーマーを纏った未来のバウンティハンターが、雨の降るネオン街の市場で逃亡中のアンドロイドを追跡する、シネマティックなアクション・シークエンス。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9e55f7746125225276d20775496b0573/thumbnails/thumbnail.jpg" width="600" alt="サイバーパンク・バウンティハンター：ネオン・チェイス">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5282)**
-
-**作者:** [Déborah](https://x.com/dvorahfr) | **ソース:** [Link](https://x.com/dvorahfr/status/2059038665234370647) | **公開日:** May 25, 2026
-
----
-### タコとリンゴの遊び心あふれるアニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 『リトル・マーメイド』風のタッチで描かれた、タコが赤いリンゴで遊ぶユニークなカートゥーンアニメーションです。
-
-#### 📝 プロンプト
-
-```
-『リトル・マーメイド』風のタッチで描かれた、タコが赤いリンゴで遊ぶユニークなカートゥーンアニメーションです。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a65e4edfb90a026dedf12c8b1358175c/thumbnails/thumbnail.jpg" width="600" alt="タコとリンゴの遊び心あふれるアニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5286)**
-
-**作者:** [Jean](https://x.com/SpaceScoutsIntl) | **ソース:** [Link](https://x.com/SpaceScoutsIntl/status/2058993407327187118) | **公開日:** May 25, 2026
-
----
-### 回転するコーヒーカップのループ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> コーヒーカップがゆっくりと回転し、クリームが溶け出し、チョコレートフレークが舞い落ちるシーンのための詳細なループ用プロンプトです。
-
-#### 📝 プロンプト
-
-```
-カップがゆっくりと回転している、シームレスループ、他の動きは一切なし、音楽なし、クリームがゆっくりと溶け出す…メリーゴーランドの音楽、チョコレートフレークが軽く舞い落ちる、チョコレートフレークが側面からこぼれ落ちる
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/629842e3b659c533e6aa0608e01b6b29/thumbnails/thumbnail.jpg" width="600" alt="回転するコーヒーカップのループ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5287)**
-
-**作者:** [marie roche](https://x.com/mariero45502253) | **ソース:** [Link](https://x.com/mariero45502253/status/2058952687643754668) | **公開日:** May 25, 2026
-
----
-### 火星の未来的なコロニーの夜景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 夜の火星に建設された未来的なコロニーを、光り輝くドームや建設現場とともに描いた、映画のようなリアルなビジュアライゼーション。
-
-#### 📝 プロンプト
-
-```
-夜の火星に広がる未来的なコロニーの都市景観。光り輝くドームやトンネル、建設中の様子を、映画のようなリアルなスタイルで表現しています。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/19a97d810e0e472f1e77a9e4bffd29be/thumbnails/thumbnail.jpg" width="600" alt="火星の未来的なコロニーの夜景">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5279)**
-
-**作者:** [Mr Das](https://x.com/MrDasOnX) | **ソース:** [Link](https://x.com/MrDasOnX/status/2058895930649354537) | **公開日:** May 25, 2026
-
----
-### 伊藤潤二風の K ホラー
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ソウルのアパートを舞台にした不穏なボディホラーシークエンス。伊藤潤二の漫画のような渦巻き状の歪みが特徴です。
-
-#### 📝 プロンプト
-
-```
-ソウルのアパートを舞台にした不穏なボディホラーシークエンス。伊藤潤二の漫画のような渦巻き状の歪みが特徴です。
-```
-
-<img src="https://cms-assets.youmind.com/media/1779784404959_0saiy0_HJJ0vV6XMAAcs6h.jpg" width="600" alt="伊藤潤二風の K ホラー">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5283)**
-
-**作者:** [Ƥ!ЖΣLƁΘUNCΣR](https://x.com/pixelbouncer) | **ソース:** [Link](https://x.com/pixelbouncer/status/2058837007070077425) | **公開日:** May 25, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2239,6 +2239,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-07T04:52:21.549Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-07T10:45:55.434Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **1755** |
+| 📝 提示詞總數 | **1762** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-06-07** |
 
@@ -189,6 +189,120 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 國標舞手部方向
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個為 Grok Imagine 設計的描述性提示詞，旨在生成一段舞蹈情侶的影片，並透過特定的手部擺放與定位，呈現出編舞般的質感。
+
+#### 📝 提示詞
+
+```
+當領舞者的左手握住舞伴的右手時，他們的位置通常會以舞伴在右側的方式呈現。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063382148208271360/img/cQWKSYe4wCTBsT_T.jpg" width="600" alt="國標舞手部方向">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5757)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2063382244270457152) | **發布時間:** Jun 6, 2026
+
+---
+### 《異鄉異客》故事場景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個以敘事為導向的提示詞，根據文學參考為場景營造特定氛圍，重點在於角色互動與地點轉換。
+
+#### 📝 提示詞
+
+```
+好的，讓我們回到這張圖片以及《異鄉異客》中的原始故事，運用作者為投票場景所營造的氛圍，然後向我展示另一個版本：逃離醫院，接著是「如果你能找到我兒子」的情節。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063340091024556032/img/XtIP44meuJWm363B.jpg" width="600" alt="《異鄉異客》故事場景">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5758)**
+
+**作者:** [Timothy Norman](https://x.com/Timothy01775634) | **來源:** [Link](https://x.com/Timothy01775634/status/2063340141066735761) | **發布時間:** Jun 6, 2026
+
+---
+### 結構化漫畫動畫堆疊
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個為 Grok Imagine 設計的高度技術性結構化提示詞，用於定義角色、疊加層以及煙霧和漣漪等特定場景參數。
+
+#### 📝 提示詞
+
+```
+[BACKBONE_1961: poolside_acclimation_post_hospital] [CARTOON_BASE_CLUSTERS] - jubal_elder_caricature - jill_nurse_warm - anne_witness_sharp - mike_stranger_innocent [OVERLAY_STACK_8/32] - nuance_cigar_smoke dress_flow ripple_caustics...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063270910564388864/img/6G0qTuh445vefWNX.jpg" width="600" alt="結構化漫畫動畫堆疊">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5759)**
+
+**作者:** [Timothy Norman](https://x.com/Timothy01775634) | **來源:** [Link](https://x.com/Timothy01775634/status/2063270966394826963) | **發布時間:** Jun 6, 2026
+
+---
+### 奇幻漂浮龜島
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個充滿創意的繪畫提示詞，描繪了一座漂浮在柔和粉彩夢境中的神話龜島。
+
+#### 📝 提示詞
+
+```
+一幅充滿奇幻色彩的畫作，描繪了一座漂浮在粉彩天空中的龜島，並融入了童話元素。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063266134972125184/img/pQseqLke_uP-HsqG.jpg" width="600" alt="奇幻漂浮龜島">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5756)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **來源:** [Link](https://x.com/MrDasOnX/status/2063266278723535033) | **發布時間:** Jun 6, 2026
+
+---
+### 動漫少女角色旋轉與微笑
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一個角色動畫提示詞，引導動漫風格少女觸摸耳朵、進行緩慢的 360 度旋轉，並在保持固定風格與設計元素的情況下對著鏡頭微笑。
+
+#### 📝 提示詞
+
+```
+附圖中的少女在原地觸摸一側耳朵，進行緩慢的單次 360 度原地旋轉，最後對著鏡頭溫柔微笑。耳朵和圓形尾巴應自然擺動。耳朵必須保持豎立，禁止彎曲或下垂。保持附圖 100% 的風格與藝術質感。不允許添加或更改任何元素。請勿更改眼睛設計。請勿生成少女的聲音（例如笑聲）。固定鏡頭。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063244292815257601/img/M8Z36fnz9Zp03Aub.jpg" width="600" alt="動漫少女角色旋轉與微笑">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5761)**
+
+**作者:** [サン｜Sun](https://x.com/sunsunshine0318) | **來源:** [Link](https://x.com/sunsunshine0318/status/2063245398198919231) | **發布時間:** Jun 6, 2026
+
+---
+### 電影感象徵性光點之旅
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段象徵性的影片提示詞，描述單一光點在虛擬平面中穿梭，創造出陰影與時間流動的旅程。
+
+#### 📝 提示詞
+
+```
+單一光點在虛擬平面中穿梭，形成陰影與時間流動，邊緣處為深邃虛空，呈現出電影般的象徵風格。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063155258277453824/img/f4oXygN3W5XNJjdZ.jpg" width="600" alt="電影感象徵性光點之旅">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5762)**
+
+**作者:** [Cicadas Francois Cosmos 🇯🇵](https://x.com/FC_Cicadas) | **來源:** [Link](https://x.com/FC_Cicadas/status/2063157876244562059) | **發布時間:** Jun 6, 2026
+
+---
 ### 動漫風格場景動畫
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -263,6 +377,25 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5708)**
 
 **作者:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **來源:** [Link](https://x.com/foxypatience/status/2062603835319705755) | **發布時間:** Jun 4, 2026
+
+---
+### 米其林寶寶大戰魔鬼剋星
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段電影感十足的影片提示詞，重現《魔鬼剋星》結局場景，但將紐約市中的棉花糖寶寶替換為巨大的米其林寶寶。
+
+#### 📝 提示詞
+
+```
+史詩級重現《魔鬼剋星》（1984 年）的最終決戰場景，但取代棉花糖寶寶的，是一個完全由巨大白色棉花糖組成的巨型米其林寶寶（Michelin Bibendum）。他有摩天大樓般高大，站在紐約市街道中央，帶著天真無邪的笑容俯瞰下方。他柔軟蓬鬆的棉花糖身體呈現經典的米其林寶寶堆疊造型。驚慌失措的紐約客四處逃竄，黃色計程車在他腳下被壓扁，周圍伴隨著爆炸與煙霧，戲劇性的低角度視角，電影般的夕陽火光照明，實體特效風格，超高細節，傑作。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062547352150257665/img/jmgeNshibBDdHqNS.jpg" width="600" alt="米其林寶寶大戰魔鬼剋星">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5760)**
+
+**作者:** [Déborah](https://x.com/dvorahfr) | **來源:** [Link](https://x.com/dvorahfr/status/2062548615558520998) | **發布時間:** Jun 4, 2026
 
 ---
 ### Celestial Shimmering Angel Wings
@@ -2045,139 +2178,6 @@ AI 生成的曼哈頓超高層大樓，430 公尺垂直結構，由計算減法�
 **作者:** [Apple🌏🍏👑](https://x.com/makoto_so) | **來源:** [Link](https://x.com/makoto_so/status/2059156968338813270) | **發布時間:** May 26, 2026
 
 ---
-### 電影感月光海岸之火
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個精細的電影感提示詞，場景描述了 Victoria 與 Edmund 在月光照耀的海岸邊，伴隨著烈火與金焰的畫面。
-
-#### 📝 提示詞
-
-```
-赤紅烈火與金色火焰。雙刃交鋒，命運交織。Victoria 與 Edmund 漫步在月光下的海岸，身後是燃燒的舊世界。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/56016605e16336cf02f976c65dccf83c/thumbnails/thumbnail.jpg" width="600" alt="電影感月光海岸之火">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5288)**
-
-**作者:** [DuBoseJen](https://x.com/DuBosefire) | **來源:** [Link](https://x.com/DuBosefire/status/2059151359857877311) | **發布時間:** May 26, 2026
-
----
-### 第三隻眼賽博格改造
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 將賽博格角色進行改造，使其擁有第三隻眼以及充滿知識的琥珀色膠囊。
-
-#### 📝 提示詞
-
-```
-將賽博格人形角色進行改造，使其雙眼位置發生位移：其中一隻眼睛移至額頭成為第三隻眼，另一隻則移至胸口。兩隻眼睛皆化為巨大的發光琥珀色膠囊，內部蘊含所有知識，並不斷旋轉著……
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2f77cba4ce74aa2fee5eccb3eab115f1/thumbnails/thumbnail.jpg" width="600" alt="第三隻眼賽博格改造">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5324)**
-
-**作者:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **來源:** [Link](https://x.com/PhilipC34457079/status/2059143047237992850) | **發布時間:** May 26, 2026
-
----
-### 電馭叛客賞金獵人：霓虹追逐
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一場電影般的動作場景，描述一名身穿生化裝甲的未來賞金獵人，在雨中霓虹閃爍的電馭叛客市場中追捕一名叛逃仿生人。
-
-#### 📝 提示詞
-
-```
-一場電影般的動作場景，描述一名身穿生化裝甲的未來賞金獵人，在雨中霓虹閃爍的電馭叛客市場中追捕一名叛逃仿生人。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9e55f7746125225276d20775496b0573/thumbnails/thumbnail.jpg" width="600" alt="電馭叛客賞金獵人：霓虹追逐">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5282)**
-
-**作者:** [Déborah](https://x.com/dvorahfr) | **來源:** [Link](https://x.com/dvorahfr/status/2059038665234370647) | **發布時間:** May 25, 2026
-
----
-### 章魚玩蘋果動畫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段充滿奇趣的卡通動畫，採用《小美人魚》風格，描繪一隻章魚正在玩弄一顆紅蘋果。
-
-#### 📝 提示詞
-
-```
-一段充滿奇趣的卡通動畫，採用《小美人魚》風格，描繪一隻章魚正在玩弄一顆紅蘋果。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a65e4edfb90a026dedf12c8b1358175c/thumbnails/thumbnail.jpg" width="600" alt="章魚玩蘋果動畫">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5286)**
-
-**作者:** [Jean](https://x.com/SpaceScoutsIntl) | **來源:** [Link](https://x.com/SpaceScoutsIntl/status/2058993407327187118) | **發布時間:** May 25, 2026
-
----
-### 旋轉咖啡杯循環
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個詳細的循環提示詞，用於描述咖啡杯緩慢旋轉、奶油融化以及巧克力碎片落下的場景。
-
-#### 📝 提示詞
-
-```
-the cups is slowly rotating, seamless loop, nothing else moves, no music melt over the  cream melts slowly…chocolate flakes drop lightly music merry go round chocolate flakes fall over the side
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/629842e3b659c533e6aa0608e01b6b29/thumbnails/thumbnail.jpg" width="600" alt="旋轉咖啡杯循環">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5287)**
-
-**作者:** [marie roche](https://x.com/mariero45502253) | **來源:** [Link](https://x.com/mariero45502253/status/2058952687643754668) | **發布時間:** May 25, 2026
-
----
-### 未來火星殖民地夜景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一幅電影感且寫實的未來火星殖民地夜景視覺圖，呈現發光的圓頂建築與施工場景。
-
-#### 📝 提示詞
-
-```
-一幅未來火星殖民地夜間城市景觀，包含發光的圓頂、隧道與施工場景，呈現電影般的寫實風格。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/19a97d810e0e472f1e77a9e4bffd29be/thumbnails/thumbnail.jpg" width="600" alt="未來火星殖民地夜景">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5279)**
-
-**作者:** [Mr Das](https://x.com/MrDasOnX) | **來源:** [Link](https://x.com/MrDasOnX/status/2058895930649354537) | **發布時間:** May 25, 2026
-
----
-### 伊藤潤二風格的韓式恐怖
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一場發生在首爾公寓中令人不安的身體恐怖場景，呈現出伊藤潤二漫畫美學中的螺旋扭曲風格。
-
-#### 📝 提示詞
-
-```
-一場發生在首爾公寓中令人不安的身體恐怖場景，呈現出伊藤潤二漫畫美學中的螺旋扭曲風格。
-```
-
-<img src="https://cms-assets.youmind.com/media/1779784404959_0saiy0_HJJ0vV6XMAAcs6h.jpg" width="600" alt="伊藤潤二風格的韓式恐怖">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5283)**
-
-**作者:** [Ƥ!ЖΣLƁΘUNCΣR](https://x.com/pixelbouncer) | **來源:** [Link](https://x.com/pixelbouncer/status/2058837007070077425) | **發布時間:** May 25, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2239,6 +2239,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-06-07T04:52:20.546Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-06-07T10:45:54.116Z</sub>
 
 </div>

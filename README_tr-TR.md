@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1755** |
+| 📝 Total Prompts | **1762** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-07** |
 
@@ -189,6 +189,120 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Salon Dansında El Pozisyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine'in, koreografik bir his yaratmak adına belirli el yerleşimleri ve konumlandırmalarla bir dans çifti videosu oluşturması için açıklayıcı bir komut.
+
+#### 📝 Prompt
+
+```
+Liderin sol eli takipçinin sağ elini tutarken, konumları genel olarak takipçinin sağ tarafta olacağı şekilde ayarlanmıştır.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063382148208271360/img/cQWKSYe4wCTBsT_T.jpg" width="600" alt="Salon Dansında El Pozisyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5757)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2063382244270457152) | **Published:** Jun 6, 2026
+
+---
+### Stranger in a Strange Land Hikaye Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Karakter etkileşimine ve mekan değişimlerine odaklanarak, edebi referanslara dayalı belirli bir atmosferi bir sahneye uygulayan anlatı odaklı bir komut.
+
+#### 📝 Prompt
+
+```
+Pekala, şimdi bu resme ve Stranger in a Strange Land'deki orijinal hikayeye geri dönelim; yazarın o sahne için yarattığı atmosferi uygulayalım, ardından hastaneden kaçışın olduğu başka bir versiyonu göster, sonra da yapabiliyorsan oğlumu bul.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063340091024556032/img/XtIP44meuJWm363B.jpg" width="600" alt="Stranger in a Strange Land Hikaye Sahnesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5758)**
+
+**Author:** [Timothy Norman](https://x.com/Timothy01775634) | **Source:** [Link](https://x.com/Timothy01775634/status/2063340141066735761) | **Published:** Jun 6, 2026
+
+---
+### Yapılandırılmış Karikatür Animasyon Yığını
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için karakterleri, katmanları ve duman ile dalgalanmalar gibi belirli sahne parametrelerini tanımlayan, oldukça teknik ve yapılandırılmış bir komut.
+
+#### 📝 Prompt
+
+```
+[BACKBONE_1961: havuz_kenarı_hastane_sonrası_alışma] [CARTOON_BASE_CLUSTERS] - jubal_yaşlı_karikatür - jill_hemşire_sıcak - anne_tanık_keskin - mike_yabancı_masum [OVERLAY_STACK_8/32] - nüans_puro_dumanı elbise_akışı dalga_kostikleri...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063270910564388864/img/6G0qTuh445vefWNX.jpg" width="600" alt="Yapılandırılmış Karikatür Animasyon Yığını">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5759)**
+
+**Author:** [Timothy Norman](https://x.com/Timothy01775634) | **Source:** [Link](https://x.com/Timothy01775634/status/2063270966394826963) | **Published:** Jun 6, 2026
+
+---
+### Büyüleyici Yüzen Kaplumbağa Adası
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yumuşak, pastel renkli bir rüya dünyasında süzülen efsanevi bir kaplumbağa adasını konu alan yaratıcı bir resim istemi.
+
+#### 📝 Prompt
+
+```
+Pastel bir gökyüzünde, masalsı unsurlarla bezeli, yüzen bir kaplumbağa adasının büyüleyici resmi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063266134972125184/img/pQseqLke_uP-HsqG.jpg" width="600" alt="Büyüleyici Yüzen Kaplumbağa Adası">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5756)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2063266278723535033) | **Published:** Jun 6, 2026
+
+---
+### Anime Tarzı Kız Karakter Dönüşü ve Gülümseme
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Anime tarzındaki bir kız karakterin kulağına dokunmasını, yavaşça 360 derece dönmesini ve sabit stil ve tasarım öğelerini koruyarak kameraya gülümsemesini sağlayan bir karakter animasyonu istemi.
+
+#### 📝 Prompt
+
+```
+Ekli görseldeki kız olduğu yerde bir kulağına dokunur, yavaşça 360 derecelik tek bir dönüş yapar ve sonunda nazikçe gülümser. Kulaklar ve yuvarlak kuyruk doğal bir şekilde sallanmalıdır. Kulaklar dik kalmalıdır; bükülmeleri veya sarkmaları yasaktır. Ekli görselin stilini ve sanatsal dokunuşunu %100 koruyun. Herhangi bir öğe eklenmesine veya değiştirilmesine izin verilmez. Göz tasarımını değiştirmeyin. Kızın kahkahası gibi sesler oluşturmayın. Sabit kamera.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063244292815257601/img/M8Z36fnz9Zp03Aub.jpg" width="600" alt="Anime Tarzı Kız Karakter Dönüşü ve Gülümseme">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5761)**
+
+**Author:** [サン｜Sun](https://x.com/sunsunshine0318) | **Source:** [Link](https://x.com/sunsunshine0318/status/2063245398198919231) | **Published:** Jun 6, 2026
+
+---
+### Sinematik Sembolik Işık Noktası Yolculuğu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sanal düzlemler içinde gölgeler ve zaman akışları yaratan tek bir ışık noktasının yolculuğunu betimleyen sembolik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Tek bir ışık noktası, kenarında karanlık bir boşluk bulunan sanal düzlemler boyunca ilerleyerek gölgeler ve zaman akışları oluşturuyor; sinematik ve sembolik bir tarzda.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063155258277453824/img/f4oXygN3W5XNJjdZ.jpg" width="600" alt="Sinematik Sembolik Işık Noktası Yolculuğu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5762)**
+
+**Author:** [Cicadas Francois Cosmos 🇯🇵](https://x.com/FC_Cicadas) | **Source:** [Link](https://x.com/FC_Cicadas/status/2063157876244562059) | **Published:** Jun 6, 2026
+
+---
 ### Anime Tarzı Sahne Animasyonu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -263,6 +377,25 @@ Uzayda nazikçe süzülüyorlar, hafif bir mutluluk ve hayranlık içindeler. Ç
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5708)**
 
 **Author:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **Source:** [Link](https://x.com/foxypatience/status/2062603835319705755) | **Published:** Jun 4, 2026
+
+---
+### Michelin Man Ghostbusters Savaşı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ghostbusters finalini, New York City'de Stay Puft Marshmallow Man yerine dev bir Michelin Man ile yeniden canlandıran sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Ghostbusters (1984) filminin final savaş sahnesinin epik bir yeniden canlandırması; ancak Stay Puft Marshmallow Man yerine, tamamen dev beyaz marshmallow'lardan yapılmış devasa bir Michelin Bibendum yer alıyor. Gökdelen boyutlarında, New York City sokaklarının ortasında duruyor ve aşağıya doğru kocaman, masum bir gülümsemeyle bakıyor. Yumuşak, pofuduk marshmallow gövdesi, klasik Michelin Man'in katmanlı şekline sahip. Panik içinde kaçışan New Yorklular, ayaklarının altında ezilen sarı taksiler, etrafında patlamalar ve duman, dramatik düşük açılı perspektif, ateşli gün batımıyla sinematik aydınlatma, pratik özel efekt tarzı, ultra detaylı, şaheser
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062547352150257665/img/jmgeNshibBDdHqNS.jpg" width="600" alt="Michelin Man Ghostbusters Savaşı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5760)**
+
+**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2062548615558520998) | **Published:** Jun 4, 2026
 
 ---
 ### Göksel Işıltılı Melek Kanatları
@@ -2044,139 +2177,6 @@ Japon anime tarzı, siberpunk tam teknik, akademi şehrinin gece manzarası, fü
 **Author:** [Apple🌏🍏👑](https://x.com/makoto_so) | **Source:** [Link](https://x.com/makoto_so/status/2059156968338813270) | **Published:** May 26, 2026
 
 ---
-### Sinematik Ay Işığı Altında Sahil Ateşi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Victoria ve Edmund adlı karakterlerin, ateş ve altın rengi alevlerin olduğu ay ışığı altındaki bir sahilde yer aldığı detaylı bir sinematik komut.
-
-#### 📝 Prompt
-
-```
-Kızıl ateş ve altın rengi alev. İki kılıç, tek bir kader. Victoria ve Edmund, eski dünya arkalarında yanarken ay ışığı altındaki sahilde yürüyorlar.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/56016605e16336cf02f976c65dccf83c/thumbnails/thumbnail.jpg" width="600" alt="Sinematik Ay Işığı Altında Sahil Ateşi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5288)**
-
-**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2059151359857877311) | **Published:** May 26, 2026
-
----
-### Üçüncü Göz Sibernetik Dönüşümü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sibernetik bir karakteri, üçüncü bir göz ve bilgi dolu kehribar kapsüller içerecek şekilde dönüştürür.
-
-#### 📝 Prompt
-
-```
-Sibernetik insansı figürü, iki gözünün yer değiştireceği şekilde dönüştürün: biri alın bölgesine üçüncü bir göz olarak yukarı taşınsın, diğeri ise göğüs kısmına aşağı insin. Her iki göz de tüm bilgilerle dolu, içinde girdaplar dönen büyük ve parlayan kehribar kapsüllere dönüşsün...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2f77cba4ce74aa2fee5eccb3eab115f1/thumbnails/thumbnail.jpg" width="600" alt="Üçüncü Göz Sibernetik Dönüşümü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5324)**
-
-**Author:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **Source:** [Link](https://x.com/PhilipC34457079/status/2059143047237992850) | **Published:** May 26, 2026
-
----
-### Cyberpunk Ödül Avcısı Neon Takibi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sibernetik zırhlı fütüristik bir ödül avcısının, yağmurlu ve neon ışıklı bir cyberpunk pazarında kaçak bir androidi kovaladığı sinematik aksiyon sekansı.
-
-#### 📝 Prompt
-
-```
-Sibernetik zırhlı fütüristik bir ödül avcısının, yağmurlu ve neon ışıklı bir cyberpunk pazarında kaçak bir androidi kovaladığı sinematik aksiyon sekansı.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9e55f7746125225276d20775496b0573/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Ödül Avcısı Neon Takibi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5282)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2059038665234370647) | **Published:** May 25, 2026
-
----
-### Ahtapot ve Elma Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Küçük Deniz Kızı tarzında, bir ahtapotun kırmızı bir elmayla oynadığı eğlenceli ve fantastik bir çizgi film animasyonu.
-
-#### 📝 Prompt
-
-```
-Küçük Deniz Kızı tarzında, bir ahtapotun kırmızı bir elmayla oynadığı eğlenceli ve fantastik bir çizgi film animasyonu.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a65e4edfb90a026dedf12c8b1358175c/thumbnails/thumbnail.jpg" width="600" alt="Ahtapot ve Elma Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5286)**
-
-**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2058993407327187118) | **Published:** May 25, 2026
-
----
-### Dönen Kahve Kupaları Döngüsü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kahve kupalarının yavaşça döndüğü, eriyen krema ve dökülen çikolata parçacıklarının yer aldığı bir sahne için detaylı döngü istemi.
-
-#### 📝 Prompt
-
-```
-kupalar yavaşça dönüyor, kesintisiz döngü, başka hiçbir şey hareket etmiyor, müzik yok, krema yavaşça eriyor... çikolata parçacıkları hafifçe düşüyor, atlıkarınca müziği, çikolata parçacıkları kenardan aşağı dökülüyor
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/629842e3b659c533e6aa0608e01b6b29/thumbnails/thumbnail.jpg" width="600" alt="Dönen Kahve Kupaları Döngüsü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5287)**
-
-**Author:** [marie roche](https://x.com/mariero45502253) | **Source:** [Link](https://x.com/mariero45502253/status/2058952687643754668) | **Published:** May 25, 2026
-
----
-### Fütüristik Mars Kolonisi Gece Manzarası
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mars'ta fütüristik bir koloninin gece vakti, parlayan kubbeler ve inşaat çalışmalarıyla sinematik ve gerçekçi bir görselleştirmesi.
-
-#### 📝 Prompt
-
-```
-Gece vakti, parlayan kubbeler, tüneller ve inşaat çalışmalarıyla fütüristik bir Mars kolonisi şehir manzarası; sinematik ve gerçekçi bir tarzda.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/19a97d810e0e472f1e77a9e4bffd29be/thumbnails/thumbnail.jpg" width="600" alt="Fütüristik Mars Kolonisi Gece Manzarası">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5279)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2058895930649354537) | **Published:** May 25, 2026
-
----
-### Junji Ito Tarzı K-Korku
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seul'deki bir apartman dairesinde, Junji Ito manga estetiğinde sarmal bozulmalar içeren rahatsız edici bir beden korkusu sekansı.
-
-#### 📝 Prompt
-
-```
-Seul'deki bir apartman dairesinde, Junji Ito manga estetiğinde sarmal bozulmalar içeren rahatsız edici bir beden korkusu sekansı.
-```
-
-<img src="https://cms-assets.youmind.com/media/1779784404959_0saiy0_HJJ0vV6XMAAcs6h.jpg" width="600" alt="Junji Ito Tarzı K-Korku">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5283)**
-
-**Author:** [Ƥ!ЖΣLƁΘUNCΣR](https://x.com/pixelbouncer) | **Source:** [Link](https://x.com/pixelbouncer/status/2058837007070077425) | **Published:** May 25, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2238,6 +2238,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-07T04:52:37.247Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-07T10:46:10.623Z</sub>
 
 </div>
