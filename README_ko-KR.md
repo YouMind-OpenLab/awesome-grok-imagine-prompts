@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **1762** |
+| 📝 총 프롬프트 수 | **1767** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-06-08** |
 
@@ -189,6 +189,82 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 신비로운 엘프 여성 초상화
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 은발과 장미 문신을 한 엘프 여성의 실사 비디오를 생성하기 위한 매우 상세한 시네마틱 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+실사 초상화, 신비롭고 아름다운 엘프 여성, 실루엣과 상반신이 드러나는 우아한 측후면 뷰, 부드럽고 우울한 표정으로 아래를 내려다보는 모습, 사실적인 피부 질감과 모공이 살아있는 창백한 도자기 피부, 자연스러운 광채, 어깨 위로 흘러내리는 사실적인 머릿결과 잔머리가 돋보이는 정교한 옆 땋은 은백색 긴 머리, 화려한 금색 진주 이어 커프를 착용한 섬세하고 뾰족한 엘프 귀, 등 위쪽과 어깨에 새겨진 크고 정교한 검은색과 빨간색 문신: 날카로운 가시 덩굴에 감긴 활짝 핀 붉은 장미, 초현실적인 명암 처리와 피부 표현, 어깨에서 흘러내리는 섬세하고 낡은 흰색 레이스 드레스, 사실적인 원단 질감과 레이스 디테일이 살아있는 해진 가장자리, 단색의 깊은 검은색 미니멀한 배경, 드라마틱하고 분위기 있는 연출, 섬세한 림 라이트가 가미된 부드러운 볼류메트릭 조명, 시네마틱하면서도 사실적인 느낌, 우아하고 신비로운 분위기.
+```
+
+<img src="https://cms-assets.youmind.com/media/1780909178133_9ggu2r_HKOn2ZDXYAApIGa.jpg" width="600" alt="신비로운 엘프 여성 초상화">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5802)**
+
+**작성자:** [Myluna](https://x.com/monicamoonx) | **출처:** [Link](https://x.com/monicamoonx/status/2063677676477415632) | **게시일:** Jun 7, 2026
+
+---
+### 지하철 군중 독서 장면
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 지하철에 탄 모든 사람이 같은 책을 읽으며 동시에 긍정적인 반응을 보이는 초현실적인 장면을 생성하기 위한 상세 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+열차 안의 모든 사람이 이 책을 읽고 있다. 연령과 성별 비율은 다양하다. 이 책과 같은 디자인의 광고도 보인다. 각 사람은 '이 책 정말 대단해', '흥미로워', '사길 잘했어'라고 말한다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063625804446408704/img/bjTPa_PG33LUWnVK.jpg" width="600" alt="지하철 군중 독서 장면">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5801)**
+
+**작성자:** [富増章成🌐のんびり哲学たまにマンガ](https://x.com/thomasaqnya) | **출처:** [Link](https://x.com/thomasaqnya/status/2063625862982111354) | **게시일:** Jun 7, 2026
+
+---
+### 눈 덮인 숲속의 영화 같은 말
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 눈 덮인 숲속에서 역동적으로 뛰어오르는 말과 드라마틱한 번개, 부드러운 패닝 카메라 워크가 특징인 고도의 다이내믹 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+눈 덮인 숲속의 나무 울타리를 돌며 힘차게 뒷발로 서서 뛰어오르는 말, 보랏빛 폭풍우가 치는 하늘에 번개가 드라마틱하게 번쩍이고, 원형 움직임을 따라 부드러운 패닝으로 촬영된 다이내믹한 카메라 워크.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063555447714611201/img/5oxSMrOnzpI9mnZ2.jpg" width="600" alt="눈 덮인 숲속의 영화 같은 말">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5799)**
+
+**작성자:** [Jean](https://x.com/SpaceScoutsIntl) | **출처:** [Link](https://x.com/SpaceScoutsIntl/status/2063555528345952429) | **게시일:** Jun 7, 2026
+
+---
+### 사이버펑크 네온 미러 복도 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 글리치 효과가 있는 홀로그램 데이터 스트림이 흐르는 무한한 거울 복도를 보여주는 사이버펑크 스타일의 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+어두운 사이버펑크 스타일의 초현실적인 무한 거울 복도. 공허 속으로 끝없이 이어지는 글리치 홀로그램 데이터 스트림의 네온 반사.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063501596802027520/img/Bo80C3IclRANUe75.jpg" width="600" alt="사이버펑크 네온 미러 복도 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5798)**
+
+**작성자:** [Jenna Clegg](https://x.com/MrsMuskp1) | **출처:** [Link](https://x.com/MrsMuskp1/status/2063501656487084233) | **게시일:** Jun 7, 2026
+
+---
 ### 볼룸 댄스 손 위치 및 방향
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -282,6 +358,25 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5761)**
 
 **작성자:** [サン｜Sun](https://x.com/sunsunshine0318) | **출처:** [Link](https://x.com/sunsunshine0318/status/2063245398198919231) | **게시일:** Jun 6, 2026
+
+---
+### 영화 같은 버려진 창고 공포 장면
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 비 내리는 창고에서 캐릭터가 초자연적인 존재를 향해 빛나는 산탄총을 발사하는 영화적 공포 스타일의 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+버려진 창고. 한밤중. 하늘이 무너지는 듯 빗줄기가 쏟아졌다. 그녀는 빛나는 산탄총의 탄환을 모두 비워 보이드 레이스(Void Wraith)에게 쏟아부었다. 그것은 비명도 지르지 않았고, 피도 흘리지 않았다. 그저 그녀를 향해 묵묵히 걸어올 뿐이었다...
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2063201714984169473/pu/img/KjAkWwjRvDR2dwXj.jpg" width="600" alt="영화 같은 버려진 창고 공포 장면">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5800)**
+
+**작성자:** [ؘ](https://x.com/NonsenseNest) | **출처:** [Link](https://x.com/NonsenseNest/status/2063201803316146251) | **게시일:** Jun 6, 2026
 
 ---
 ### 시네마틱 상징적 빛의 점 여정
@@ -2083,101 +2178,6 @@ BlueGoo와 Vera의 미래지향적인 디지털 일러스트, 엄마와 딸의 �
 **작성자:** [Number-One-AI-Fanboy](https://x.com/Number1AIFanboy) | **출처:** [Link](https://x.com/Number1AIFanboy/status/2059340120499650592) | **게시일:** May 26, 2026
 
 ---
-### 환상적인 꽃 오두막과 들판 애니메이션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 나비와 꽃으로 가득한 화창한 들판에서 노니는 어린 소녀의 모습을 부드러운 파스텔 톤과 꿈결 같은 그라데이션을 사용하여 향수를 불러일으키는 손그림 스타일의 애니메이션으로 제작하기 위한 상세 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-화창한 봄날 아침, 꽃으로 뒤덮인 작은 오두막 밖 들판에 서서 나비들과 함께 즐겁게 손을 흔드는 어린 소녀의 모습을 환상적인 손그림 스타일로 그려주세요. 파스텔 블루, 부드러운 그린, 크림 화이트와 같은 차분하고 부드러운 색감을 사용하세요. 미니멀한 디테일과 섬세한 질감, 꿈결 같은 그라데이션을 더해 아늑하고 평온한 분위기를 연출하세요. 매력적인 집, 섬세한 나무, 장난기 넘치는 캐릭터와 같은 환상적인 요소에 집중하세요. 전체적인 구도는 따뜻하고 향수를 불러일으키며, 동화책 삽화나 스토리텔링에 적합해야 합니다. 따뜻한 오후, 작은 파스텔 톤 집들이 줄지어 있는 조용한 마을 길을 따라 자전거를 타며 즐겁게 종을 울리는 어린 소년의 모습을 그려주세요. 꽃잎이 흩날리는 풍경을 환상적인 손그림 스타일로 표현하며, 파스텔 블루, 부드러운 그린, 크림 화이트와 같은 차분하고 부드러운 색감을 사용하세요. 미니멀한 디테일과 섬세한 질감, 꿈결 같은 그라데이션을 더해 아늑하고 평온한 분위기를 연출하세요. 매력적인 집, 섬세한 나무, 장난기 넘치는 캐릭터와 같은 환상적인 요소에 집중하세요. 전체적인 구도는 따뜻하고 향수를 불러일으키며, 동화책 삽화나 스토리텔링에 적합해야 합니다. 부드러운 아침 햇살 아래 아늑한 나무 집 옆 잔디밭에서 떠다니는 비눗방울을 쫓는 장난기 많은 강아지의 모습을 환상적인 손그림 스타일로 그려주세요. 파스텔 블루, 부드러운 그린, 크림 화이트와 같은 차분하고 부드러운 색감을 사용하세요. 미니멀한 디테일과 섬세한 질감, 꿈결 같은 그라데이션을 더해 아늑하고 평온한 분위기를 연출하세요. 매력적인 집, 섬세한 나무, 장난기 넘치는 캐릭터와 같은 환상적인 요소에 집중하세요. 전체적인 구도는 따뜻하고 향수를 불러일으키며, 동화책 삽화나 스토리텔링에 적합해야 합니다. 평화로운 황금빛 오후, 작은 시골 오두막 근처의 섬세한 사과나무 아래 앉아 호기심 많은 새들에게 책을 읽어주는 어린 소녀의 모습을 환상적인 손그림 스타일로 그려주세요. 파스텔 블루, 부드러운 그린, 크림 화이트와 같은 차분하고 부드러운 색감을 사용하세요. 미니멀한 디테일과 섬세한 질감, 꿈결 같은 그라데이션을 더해 아늑하고 평온한 분위기를 연출하세요. 매력적인 집, 섬세한 나무, 장난기 넘치는 캐릭터와 같은 환상적인 요소에 집중하세요. 전체적인 구도는 따뜻하고 향수를 불러일으키며, 동화책 삽화나 스토리텔링에 적합해야 합니다. 산들바람이 부는 봄날 저녁, 반짝이는 시냇물 위 작은 다리 옆에서 함께 종이배를 띄우는 두 명의 밝은 아이들의 모습을 환상적인 손그림 스타일로 그려주세요. 파스텔 블루, 부드러운 그린, 크림 화이트와 같은 차분하고 부드러운 색감을 사용하세요. 미니멀한 디테일과 섬세한 질감, 꿈결 같은 그라데이션을 더해 아늑하고 평온한 분위기를 연출하세요. 매력적인 집, 섬세한 나무, 장난기 넘치는 캐릭터와 같은 환상적인 요소에 집중하세요. 전체적인 구도는 따뜻하고 향수를 불러일으키며, 동화책 삽화나 스토리텔링에 적합해야 합니다. 해 뜰 무렵, 키 크고 부드러운 나무 아래 자리 잡은 둥근 창문이 있는 오두막 밖에서 신선한 꽃이 담긴 바구니를 들고 집으로 향하는 작은 토끼의 모습을 환상적인 손그림 스타일로 그려주세요. 파스텔 블루, 부드러운 그린, 크림 화이트와 같은 차분하고 부드러운 색감을 사용하세요. 미니멀한 디테일과 섬세한 질감, 꿈결 같은 그라데이션을 더해 아늑하고 평온한 분위기를 연출하세요. 매력적인 집, 섬세한 나무, 장난기 넘치는 캐릭터와 같은 환상적인 요소에 집중하세요. 전체적인 구도는 따뜻하고 향수를 불러일으키며, 동화책 삽화나 스토리텔링에 적합해야 합니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a6e8cb3c32ff689cb5b2f87d88c6e1f6/thumbnails/thumbnail.jpg" width="600" alt="환상적인 꽃 오두막과 들판 애니메이션">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5326)**
-
-**작성자:** [Syed Abuthahir ∞](https://x.com/abulu8) | **출처:** [Link](https://x.com/abulu8/status/2059327599189561498) | **게시일:** May 26, 2026
-
----
-### 16:9 가로형 장면 리프레임
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 기존 장면을 영화 같은 16:9 화면 비율로 확장하고 재구성하기 위한 기술적 지침입니다.
-
-#### 📝 프롬프트
-
-```
-전체 장면을 넓은 가로형 풍경 뷰로 리프레임하세요. 모든 핵심 요소와 디테일을 유지하면서 구도를 16:9 화면 비율에 맞춰 확장하고 균형을 잡으세요.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f046ac0e453997fb6d5bb2d488d26e08/thumbnails/thumbnail.jpg" width="600" alt="16:9 가로형 장면 리프레임">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5325)**
-
-**작성자:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **출처:** [Link](https://x.com/PhilipC34457079/status/2059246823131234465) | **게시일:** May 26, 2026
-
----
-### 무지갯빛으로 빛나는 수레국화 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 부드러운 조명과 꿈결 같고 마법 같은 분위기를 자아내는 무지갯빛 수레국화 영상 생성을 위한 시적인 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-꿈결 같은 안개 속에서 은은하게 빛나는 무지갯빛 수레국화… 부드러운 빛의 속삭임과 고요한 마법.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f2fdb3f009fe0424b239cefc61f9ee13/thumbnails/thumbnail.jpg" width="600" alt="무지갯빛으로 빛나는 수레국화 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5328)**
-
-**작성자:** [Stella 𝕏](https://x.com/StellaGrokStar) | **출처:** [Link](https://x.com/StellaGrokStar/status/2059233246882497000) | **게시일:** May 26, 2026
-
----
-### 사이버펑크 도시의 은빛 용
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 네온사인이 가득한 미래 도시를 비행하다 구름으로 변하는 은빛 용을 묘사한 애니메이션 스타일의 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-일본 애니메이션 스타일, 사이버펑크 풀 테크니카, 학원 도시의 야경, 미래지향적인 거대 건축물과 네온사인이 빛나는 거리, 하이테크 학원 도시 분위기, 바람을 타고 자유롭게 비행하며 구름으로 변하는 은빛 용
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b4a9db777115f4ff8e44e50b8d60f7f3/thumbnails/thumbnail.jpg" width="600" alt="사이버펑크 도시의 은빛 용">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5329)**
-
-**작성자:** [Apple🌏🍏👑](https://x.com/makoto_so) | **출처:** [Link](https://x.com/makoto_so/status/2059158008010306006) | **게시일:** May 26, 2026
-
----
-### 사이버펑크 아카데미에서의 빗속 만남
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 애니메이션 스타일의 비 내리는 미래형 아카데미를 배경으로, 두 캐릭터의 영화 같은 만남을 담은 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-일본 애니메이션 스타일, 사이버펑크 풀 테크니카, 아카데미 도시의 야경, 미래지향적인 거대 건물과 네온사인이 켜진 거리, 하이테크 아카데미 도시 분위기, 비 오는 가을, 낡은 교복을 입은 남녀의 만남
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ec9ffa236395cf5240fa175ec2428bb3/thumbnails/thumbnail.jpg" width="600" alt="사이버펑크 아카데미에서의 빗속 만남">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5331)**
-
-**작성자:** [Apple🌏🍏👑](https://x.com/makoto_so) | **출처:** [Link](https://x.com/makoto_so/status/2059156968338813270) | **게시일:** May 26, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2239,6 +2239,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-08T04:59:44.883Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-08T12:53:39.631Z</sub>
 
 </div>

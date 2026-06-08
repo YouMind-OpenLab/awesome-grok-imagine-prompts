@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1762** |
+| 📝 Total Prompts | **1767** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-08** |
 
@@ -189,6 +189,82 @@ Una mistica e nobile Valchiria celestiale, una donna dignitosa e bellissima con 
 
 > 📝 Sorted by publish date (newest first)
 
+### Ritratto di donna elfo eterea
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinematografico altamente dettagliato per generare un video fotorealistico di una donna elfo con capelli argentati e un tatuaggio a forma di rosa.
+
+#### 📝 Prompt
+
+```
+ritratto fotorealistico, bellissima donna elfo eterea, elegante vista di profilo/retro che mostra la silhouette e la parte superiore del corpo, sguardo rivolto verso il basso con un'espressione dolce e malinconica, pelle di porcellana pallida con texture e pori realistici, luminosità naturale, lunghi capelli fluenti bianco-argento in un'intricata treccia laterale con ciocche realistiche e capelli ribelli che ricadono sulla spalla, delicate orecchie a punta da elfo con un ornato ear cuff di perle dorate, grande tatuaggio intricato nero e rosso sulla parte superiore della schiena e sulla spalla: una rosa rossa in fiore avvolta da viti spinose e affilate, ombreggiatura iper-realistica e interazione con la pelle, delicato abito in pizzo bianco strappato che scivola dalle spalle, bordi sfilacciati con texture del tessuto realistica e dettagli in pizzo, sfondo minimalista nero profondo e solido, atmosfera drammatica e suggestiva, illuminazione volumetrica soffusa con delicata luce di contorno, cinematografico ma fotorealistico, elegante e misterioso.
+```
+
+<img src="https://cms-assets.youmind.com/media/1780909178133_9ggu2r_HKOn2ZDXYAApIGa.jpg" width="600" alt="Ritratto di donna elfo eterea">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5802)**
+
+**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2063677676477415632) | **Published:** Jun 7, 2026
+
+---
+### Scena di lettura in metropolitana
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt video dettagliato che crea una scena surreale in cui tutti i passeggeri della metropolitana leggono lo stesso libro ed esprimono reazioni positive sincronizzate.
+
+#### 📝 Prompt
+
+```
+Tutti sul treno stanno leggendo questo libro. L'età e il genere dei passeggeri sono vari. Sono visibili anche pubblicità con lo stesso design del libro. Ogni persona dice: "Questo libro è fantastico", "È interessante" o "Sono contento di averlo comprato".
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063625804446408704/img/bjTPa_PG33LUWnVK.jpg" width="600" alt="Scena di lettura in metropolitana">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5801)**
+
+**Author:** [富増章成🌐のんびり哲学たまにマンガ](https://x.com/thomasaqnya) | **Source:** [Link](https://x.com/thomasaqnya/status/2063625862982111354) | **Published:** Jun 7, 2026
+
+---
+### Cavallo cinematografico in una foresta innevata
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video altamente dinamico che mostra un cavallo che salta in una foresta innevata, con fulmini spettacolari e un movimento di camera fluido.
+
+#### 📝 Prompt
+
+```
+Il potente cavallo si impenna e salta con energia mentre gira attorno al recinto di legno nella foresta innevata; fulmini spettacolari squarciano il cielo tempestoso color porpora, mentre la camera segue il movimento circolare con una panoramica fluida.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063555447714611201/img/5oxSMrOnzpI9mnZ2.jpg" width="600" alt="Cavallo cinematografico in una foresta innevata">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5799)**
+
+**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2063555528345952429) | **Published:** Jun 7, 2026
+
+---
+### Video corridoio specchiato neon cyberpunk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per un video in stile cyberpunk che mostra un corridoio a specchi infinito con flussi di dati olografici che presentano glitch.
+
+#### 📝 Prompt
+
+```
+Surreale corridoio a specchi infinito in un oscuro stile cyberpunk. Infiniti riflessi neon di flussi di dati olografici con glitch che si estendono nel vuoto.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063501596802027520/img/Bo80C3IclRANUe75.jpg" width="600" alt="Video corridoio specchiato neon cyberpunk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5798)**
+
+**Author:** [Jenna Clegg](https://x.com/MrsMuskp1) | **Source:** [Link](https://x.com/MrsMuskp1/status/2063501656487084233) | **Published:** Jun 7, 2026
+
+---
 ### Orientamento delle mani nel ballo da sala
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -282,6 +358,25 @@ La ragazza nell'immagine allegata si tocca un orecchio sul posto, esegue una len
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5761)**
 
 **Author:** [サン｜Sun](https://x.com/sunsunshine0318) | **Source:** [Link](https://x.com/sunsunshine0318/status/2063245398198919231) | **Published:** Jun 6, 2026
+
+---
+### Scena horror cinematografica in un magazzino abbandonato
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video in stile horror cinematografico che mostra un personaggio che spara con un fucile a pompa luminoso contro un'entità soprannaturale in un magazzino sotto una pioggia battente.
+
+#### 📝 Prompt
+
+```
+Magazzino abbandonato. Mezzanotte. La pioggia batteva forte, come se il cielo stesse crollando. Ha scaricato il suo fucile a pompa luminoso, sparando ogni singolo colpo contro lo Spettro del Vuoto. Non ha urlato. Non ha sanguinato. Ha solo continuato a camminare verso di lei...
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2063201714984169473/pu/img/KjAkWwjRvDR2dwXj.jpg" width="600" alt="Scena horror cinematografica in un magazzino abbandonato">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5800)**
+
+**Author:** [ؘ](https://x.com/NonsenseNest) | **Source:** [Link](https://x.com/NonsenseNest/status/2063201803316146251) | **Published:** Jun 6, 2026
 
 ---
 ### Viaggio cinematografico di un punto luce simbolico
@@ -2083,101 +2178,6 @@ Anima l'esatto razzo presente nell'immagine fornita mentre decolla dalla rampa d
 **Author:** [Number-One-AI-Fanboy](https://x.com/Number1AIFanboy) | **Source:** [Link](https://x.com/Number1AIFanboy/status/2059340120499650592) | **Published:** May 26, 2026
 
 ---
-### Animazione stravagante di un cottage fiorito in un prato
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt dettagliato per creare un'animazione nostalgica disegnata a mano di una bambina in un prato soleggiato pieno di farfalle e fiori, utilizzando tenui toni pastello e sfumature da sogno.
-
-#### 📝 Prompt
-
-```
-Crea una bambina che sta fuori da un minuscolo cottage coperto di fiori in un prato soleggiato, salutando felicemente mentre le farfalle danzano intorno a lei durante una luminosa mattina di primavera, in una scena stravagante disegnata a mano con toni tenui e delicati come blu pastello, verdi soffusi e bianchi crema. Incorpora dettagli minimalisti, texture sottili e sfumature da sogno per un'atmosfera accogliente e serena. Concentrati su elementi stravaganti come case affascinanti, alberi delicati e personaggi giocosi. La composizione dovrebbe risultare invitante, nostalgica e perfetta per la narrazione o per illustrazioni per bambini. Crea un bambino che va in bicicletta lungo una tranquilla stradina di villaggio fiancheggiata da minuscole case color pastello, suonando allegramente il campanello mentre i petali fluttuano nell'aria in un caldo pomeriggio, in una scena stravagante disegnata a mano con toni tenui e delicati come blu pastello, verdi soffusi e bianchi crema. Incorpora dettagli minimalisti, texture sottili e sfumature da sogno per un'atmosfera accogliente e serena. Concentrati su elementi stravaganti come case affascinanti, alberi delicati e personaggi giocosi. La composizione dovrebbe risultare invitante, nostalgica e perfetta per la narrazione o per illustrazioni per bambini. Crea un cucciolo giocoso che sta in un giardino erboso accanto a un'accogliente casa di legno, inseguendo bolle di sapone fluttuanti sotto la soffice luce del mattino, in una scena stravagante disegnata a mano con toni tenui e delicati come blu pastello, verdi soffusi e bianchi crema. Incorpora dettagli minimalisti, texture sottili e sfumature da sogno per un'atmosfera accogliente e serena. Concentrati su elementi stravaganti come case affascinanti, alberi delicati e personaggi giocosi. La composizione dovrebbe risultare invitante, nostalgica e perfetta per la narrazione o per illustrazioni per bambini. Crea una ragazzina seduta sotto un delicato melo vicino a un minuscolo cottage di campagna che legge ad alta voce a un cerchio di uccellini curiosi durante un tranquillo pomeriggio dorato, in una scena stravagante disegnata a mano con toni tenui e delicati come blu pastello, verdi soffusi e bianchi crema. Incorpora dettagli minimalisti, texture sottili e sfumature da sogno per un'atmosfera accogliente e serena. Concentrati su elementi stravaganti come case affascinanti, alberi delicati e personaggi giocosi. La composizione dovrebbe risultare invitante, nostalgica e perfetta per la narrazione o per illustrazioni per bambini. Crea due bambini allegri in piedi accanto a un ponticello sopra un ruscello scintillante che lanciano insieme barchette di carta durante una soffice e ventilata serata primaverile, in una scena stravagante disegnata a mano con toni tenui e delicati come blu pastello, verdi soffusi e bianchi crema. Incorpora dettagli minimalisti, texture sottili e sfumature da sogno per un'atmosfera accogliente e serena. Concentrati su elementi stravaganti come case affascinanti, alberi delicati e personaggi giocosi. La composizione dovrebbe risultare invitante, nostalgica e perfetta per la narrazione o per illustrazioni per bambini. Crea un piccolo coniglio fuori da un cottage con finestra rotonda nascosto sotto alti alberi gentili, che porta a casa un cesto di fiori freschi all'alba, in una scena stravagante disegnata a mano con toni tenui e delicati come blu pastello, verdi soffusi e bianchi crema. Incorpora dettagli minimalisti, texture sottili e sfumature da sogno per un'atmosfera accogliente e serena. Concentrati su elementi stravaganti come case affascinanti, alberi delicati e personaggi giocosi. La composizione dovrebbe risultare invitante, nostalgica e perfetta per la narrazione o per illustrazioni per bambini.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a6e8cb3c32ff689cb5b2f87d88c6e1f6/thumbnails/thumbnail.jpg" width="600" alt="Animazione stravagante di un cottage fiorito in un prato">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5326)**
-
-**Author:** [Syed Abuthahir ∞](https://x.com/abulu8) | **Source:** [Link](https://x.com/abulu8/status/2059327599189561498) | **Published:** May 26, 2026
-
----
-### Ricomposizione scena in formato panoramico 16:9
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Istruzione tecnica per espandere e ricomporre una scena esistente in un formato cinematografico 16:9.
-
-#### 📝 Prompt
-
-```
-Ricomponi l'intera scena in una vista panoramica orizzontale, espandendo e bilanciando la composizione in formato 16:9, preservando al contempo tutti gli elementi e i dettagli chiave.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f046ac0e453997fb6d5bb2d488d26e08/thumbnails/thumbnail.jpg" width="600" alt="Ricomposizione scena in formato panoramico 16:9">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5325)**
-
-**Author:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **Source:** [Link](https://x.com/PhilipC34457079/status/2059246823131234465) | **Published:** May 26, 2026
-
----
-### Video di fiordalisi iridescenti luminosi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt poetico per generare un video di fiordalisi iridescenti con un'illuminazione soffusa e un'atmosfera magica e onirica.
-
-#### 📝 Prompt
-
-```
-Fiordalisi iridescenti che brillano dolcemente in una foschia da sogno… Sussurri di luce gentile e magia silenziosa.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f2fdb3f009fe0424b239cefc61f9ee13/thumbnails/thumbnail.jpg" width="600" alt="Video di fiordalisi iridescenti luminosi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5328)**
-
-**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2059233246882497000) | **Published:** May 26, 2026
-
----
-### Drago d'argento in una città cyberpunk
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt video in stile anime che ritrae un drago d'argento che vola attraverso una città futuristica illuminata dai neon e si trasforma in nuvole.
-
-#### 📝 Prompt
-
-```
-Stile anime giapponese, cyberpunk full technica, vista notturna di una città accademica, edifici futuristici giganti e paesaggio urbano illuminato dai neon, atmosfera da città accademica high-tech, un drago d'argento che vola liberamente nel vento trasformandosi in nuvole
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b4a9db777115f4ff8e44e50b8d60f7f3/thumbnails/thumbnail.jpg" width="600" alt="Drago d'argento in una città cyberpunk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5329)**
-
-**Author:** [Apple🌏🍏👑](https://x.com/makoto_so) | **Source:** [Link](https://x.com/makoto_so/status/2059158008010306006) | **Published:** May 26, 2026
-
----
-### Incontro sotto la pioggia alla Cyberpunk Academy
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt video per un incontro cinematografico tra due personaggi in un'accademia futuristica e piovosa, con un'estetica anime.
-
-#### 📝 Prompt
-
-```
-Stile anime giapponese, cyberpunk full technica, vista notturna di una città accademica, edifici futuristici giganti e paesaggio urbano illuminato dai neon, atmosfera da città accademica high-tech, autunno piovoso, un uomo e una donna in vecchie uniformi che si incontrano
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ec9ffa236395cf5240fa175ec2428bb3/thumbnails/thumbnail.jpg" width="600" alt="Incontro sotto la pioggia alla Cyberpunk Academy">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5331)**
-
-**Author:** [Apple🌏🍏👑](https://x.com/makoto_so) | **Source:** [Link](https://x.com/makoto_so/status/2059156968338813270) | **Published:** May 26, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2239,6 +2239,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-08T04:59:51.640Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-08T12:53:46.820Z</sub>
 
 </div>

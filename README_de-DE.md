@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1762** |
+| 📝 Total Prompts | **1767** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-08** |
 
@@ -189,6 +189,82 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Porträt einer ätherischen Elfenfrau
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochdetaillierter, filmreifer Prompt zur Erstellung eines fotorealistischen Videos einer Elfenfrau mit silbernem Haar und einem Rosentattoo.
+
+#### 📝 Prompt
+
+```
+fotorealistisches Porträt, ätherisch schöne Elfenfrau, elegante Ansicht von schräg hinten, die Silhouette und Oberkörper zeigt, Blick nach unten mit sanftem, melancholischem Ausdruck, blasse Porzellanhaut mit realistischer Textur und Poren, natürlicher Glanz, langes, fließendes silberweißes Haar in einem kunstvollen seitlichen Zopf mit realistischen Strähnen und abstehenden Härchen, die über die Schulter fallen, zarte spitze Elfenohren mit kunstvoller goldener Perlen-Ear-Cuff, großes, komplexes schwarz-rotes Tattoo auf dem oberen Rücken und der Schulter: blühende rote Rose, umwunden von scharfen, dornigen Ranken, hyperrealistische Schattierung und Hautinteraktion, zartes, zerrissenes weißes Spitzenkleid, das von den Schultern rutscht, ausgefranste Kanten mit realistischer Stofftextur und Spitzendetails, solider, tiefschwarzer minimalistischer Hintergrund, dramatische, stimmungsvolle Atmosphäre, sanfte volumetrische Beleuchtung mit zartem Kantenlicht, filmreif und doch fotorealistisch, elegant und geheimnisvoll.
+```
+
+<img src="https://cms-assets.youmind.com/media/1780909178133_9ggu2r_HKOn2ZDXYAApIGa.jpg" width="600" alt="Porträt einer ätherischen Elfenfrau">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5802)**
+
+**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2063677676477415632) | **Published:** Jun 7, 2026
+
+---
+### Szene: Menschenmenge liest in der U-Bahn
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ein detaillierter Video-Prompt für eine surreale Szene, in der alle Fahrgäste in einer U-Bahn dasselbe Buch lesen und synchron positive Reaktionen zeigen.
+
+#### 📝 Prompt
+
+```
+Jeder im Zug liest dieses Buch. Das Alter und Geschlecht der Personen ist gemischt. Werbeanzeigen mit demselben Design wie das Buch sind ebenfalls zu sehen. Jede Person sagt: „Dieses Buch ist fantastisch“, „Es ist interessant“ oder „Ich bin froh, dass ich es gekauft habe.“
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063625804446408704/img/bjTPa_PG33LUWnVK.jpg" width="600" alt="Szene: Menschenmenge liest in der U-Bahn">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5801)**
+
+**Author:** [富増章成🌐のんびり哲学たまにマンガ](https://x.com/thomasaqnya) | **Source:** [Link](https://x.com/thomasaqnya/status/2063625862982111354) | **Published:** Jun 7, 2026
+
+---
+### Filmreifes Pferd im verschneiten Wald
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochdynamischer Video-Prompt, der ein Pferd zeigt, das in einem verschneiten Wald springt, mit dramatischen Blitzen und fließenden Kameraschwenks.
+
+#### 📝 Prompt
+
+```
+Das kraftvolle Pferd bäumt sich auf und springt energiegeladen, während es im verschneiten Wald um den hölzernen Koppelzaun galoppiert; dramatische Blitze zucken am violetten Gewitterhimmel, während die dynamische Kamera der kreisförmigen Bewegung mit fließenden Schwenks folgt.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063555447714611201/img/5oxSMrOnzpI9mnZ2.jpg" width="600" alt="Filmreifes Pferd im verschneiten Wald">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5799)**
+
+**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2063555528345952429) | **Published:** Jun 7, 2026
+
+---
+### Cyberpunk Neon-Spiegelkorridor-Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt für ein Video im Cyberpunk-Stil, das einen unendlichen Spiegelkorridor mit flackernden holografischen Datenströmen zeigt.
+
+#### 📝 Prompt
+
+```
+Surrealer, unendlicher Spiegelkorridor im düsteren Cyberpunk-Stil. Endlose Neon-Reflektionen von flackernden holografischen Datenströmen, die sich bis in die Leere erstrecken.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063501596802027520/img/Bo80C3IclRANUe75.jpg" width="600" alt="Cyberpunk Neon-Spiegelkorridor-Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5798)**
+
+**Author:** [Jenna Clegg](https://x.com/MrsMuskp1) | **Source:** [Link](https://x.com/MrsMuskp1/status/2063501656487084233) | **Published:** Jun 7, 2026
+
+---
 ### Handhaltung beim Paartanz
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -282,6 +358,25 @@ Das Mädchen im beigefügten Bild berührt an Ort und Stelle ein Ohr, führt ein
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5761)**
 
 **Author:** [サン｜Sun](https://x.com/sunsunshine0318) | **Source:** [Link](https://x.com/sunsunshine0318/status/2063245398198919231) | **Published:** Jun 6, 2026
+
+---
+### Filmreife Horror-Szene in einer verlassenen Lagerhalle
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein filmreifer Video-Prompt im Horror-Stil, der eine Figur zeigt, die in einer verregneten Lagerhalle mit einer leuchtenden Schrotflinte auf ein übernatürliches Wesen schießt.
+
+#### 📝 Prompt
+
+```
+Verlassene Lagerhalle. Mitternacht. Der Regen prasselte so heftig herab, als würde der Himmel einstürzen. Sie feuerte ihre leuchtende Schrotflinte ab und entleerte jede einzelne Patrone in den Void Wraith. Er schrie nicht. Er blutete nicht. Er ging einfach weiter auf sie zu...
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2063201714984169473/pu/img/KjAkWwjRvDR2dwXj.jpg" width="600" alt="Filmreife Horror-Szene in einer verlassenen Lagerhalle">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5800)**
+
+**Author:** [ؘ](https://x.com/NonsenseNest) | **Source:** [Link](https://x.com/NonsenseNest/status/2063201803316146251) | **Published:** Jun 6, 2026
 
 ---
 ### Filmische Reise eines symbolischen Lichtpunkts
@@ -2082,101 +2177,6 @@ Animieren Sie die exakte Rakete aus dem bereitgestellten Bild beim Start von der
 **Author:** [Number-One-AI-Fanboy](https://x.com/Number1AIFanboy) | **Source:** [Link](https://x.com/Number1AIFanboy/status/2059340120499650592) | **Published:** May 26, 2026
 
 ---
-### Animation einer verträumten Blumenhütte auf einer Wiese
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt für die Erstellung einer nostalgischen, handgezeichneten Animation eines kleinen Mädchens auf einer sonnigen Wiese voller Schmetterlinge und Blumen, unter Verwendung sanfter Pastelltöne und verträumter Farbverläufe.
-
-#### 📝 Prompt
-
-```
-Erstelle eine Szene mit einem kleinen Mädchen, das vor einer winzigen, blumenbedeckten Hütte auf einer sonnigen Wiese steht und fröhlich winkt, während an einem hellen Frühlingsmorgen Schmetterlinge um sie herumtanzen. Die Szene soll im verträumten, handgezeichneten Stil mit sanften, gedämpften Tönen wie Pastellblau, zartem Grün und Cremeweiß gehalten sein. Integriere minimalistische Details, subtile Texturen und verträumte Farbverläufe für eine gemütliche, heitere Atmosphäre. Konzentriere dich auf skurrile Elemente wie bezaubernde Häuser, zarte Bäume und verspielte Charaktere. Die Komposition sollte einladend und nostalgisch wirken, perfekt für das Geschichtenerzählen oder Kinderillustrationen. Erstelle einen kleinen Jungen, der an einem warmen Nachmittag auf einem Fahrrad einen ruhigen Dorfweg entlangfährt, der von winzigen Pastellhäusern gesäumt ist, und fröhlich klingelt, während Blütenblätter durch die Luft wirbeln. Die Szene soll im verträumten, handgezeichneten Stil mit sanften, gedämpften Tönen wie Pastellblau, zartem Grün und Cremeweiß gehalten sein. Integriere minimalistische Details, subtile Texturen und verträumte Farbverläufe für eine gemütliche, heitere Atmosphäre. Konzentriere dich auf skurrile Elemente wie bezaubernde Häuser, zarte Bäume und verspielte Charaktere. Die Komposition sollte einladend und nostalgisch wirken, perfekt für das Geschichtenerzählen oder Kinderillustrationen. Erstelle einen verspielten Welpen, der in einem grasbewachsenen Garten neben einem gemütlichen Holzhaus steht und im sanften Morgenlicht schwebenden Seifenblasen nachjagt. Die Szene soll im verträumten, handgezeichneten Stil mit sanften, gedämpften Tönen wie Pastellblau, zartem Grün und Cremeweiß gehalten sein. Integriere minimalistische Details, subtile Texturen und verträumte Farbverläufe für eine gemütliche, heitere Atmosphäre. Konzentriere dich auf skurrile Elemente wie bezaubernde Häuser, zarte Bäume und verspielte Charaktere. Die Komposition sollte einladend und nostalgisch wirken, perfekt für das Geschichtenerzählen oder Kinderillustrationen. Erstelle ein junges Mädchen, das an einem friedlichen goldenen Nachmittag unter einem zarten Apfelbaum in der Nähe einer winzigen Landhütte sitzt und einem Kreis neugieriger Vögel vorliest. Die Szene soll im verträumten, handgezeichneten Stil mit sanften, gedämpften Tönen wie Pastellblau, zartem Grün und Cremeweiß gehalten sein. Integriere minimalistische Details, subtile Texturen und verträumte Farbverläufe für eine gemütliche, heitere Atmosphäre. Konzentriere dich auf skurrile Elemente wie bezaubernde Häuser, zarte Bäume und verspielte Charaktere. Die Komposition sollte einladend und nostalgisch wirken, perfekt für das Geschichtenerzählen oder Kinderillustrationen. Erstelle zwei fröhliche Kinder, die an einem sanften, windigen Frühlingsabend neben einer kleinen Brücke über einem glitzernden Bach stehen und gemeinsam Papierboote zu Wasser lassen. Die Szene soll im verträumten, handgezeichneten Stil mit sanften, gedämpften Tönen wie Pastellblau, zartem Grün und Cremeweiß gehalten sein. Integriere minimalistische Details, subtile Texturen und verträumte Farbverläufe für eine gemütliche, heitere Atmosphäre. Konzentriere dich auf skurrile Elemente wie bezaubernde Häuser, zarte Bäume und verspielte Charaktere. Die Komposition sollte einladend und nostalgisch wirken, perfekt für das Geschichtenerzählen oder Kinderillustrationen. Erstelle einen kleinen Hasen, der bei Sonnenaufgang vor einer Hütte mit rundem Fenster steht, die unter hohen, sanften Bäumen liegt, und einen Korb mit frischen Blumen nach Hause trägt. Die Szene soll im verträumten, handgezeichneten Stil mit sanften, gedämpften Tönen wie Pastellblau, zartem Grün und Cremeweiß gehalten sein. Integriere minimalistische Details, subtile Texturen und verträumte Farbverläufe für eine gemütliche, heitere Atmosphäre. Konzentriere dich auf skurrile Elemente wie bezaubernde Häuser, zarte Bäume und verspielte Charaktere. Die Komposition sollte einladend und nostalgisch wirken, perfekt für das Geschichtenerzählen oder Kinderillustrationen.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a6e8cb3c32ff689cb5b2f87d88c6e1f6/thumbnails/thumbnail.jpg" width="600" alt="Animation einer verträumten Blumenhütte auf einer Wiese">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5326)**
-
-**Author:** [Syed Abuthahir ∞](https://x.com/abulu8) | **Source:** [Link](https://x.com/abulu8/status/2059327599189561498) | **Published:** May 26, 2026
-
----
-### 16:9 Landschafts-Szenenanpassung
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eine technische Anleitung zur Erweiterung und Neuausrichtung einer bestehenden Szene in ein kinoreifes 16:9-Seitenverhältnis.
-
-#### 📝 Prompt
-
-```
-Passen Sie die gesamte Szene an eine breite horizontale Landschaftsansicht an, erweitern und balancieren Sie die Komposition auf ein 16:9-Seitenverhältnis aus, während alle Schlüsselelemente und Details erhalten bleiben.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f046ac0e453997fb6d5bb2d488d26e08/thumbnails/thumbnail.jpg" width="600" alt="16:9 Landschafts-Szenenanpassung">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5325)**
-
-**Author:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **Source:** [Link](https://x.com/PhilipC34457079/status/2059246823131234465) | **Published:** May 26, 2026
-
----
-### Video von irisierenden, leuchtenden Kornblumen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein poetischer Prompt zur Erstellung eines Videos von irisierenden Kornblumen mit sanfter Beleuchtung und einer verträumten, magischen Atmosphäre.
-
-#### 📝 Prompt
-
-```
-Irisierende Kornblumen, die sanft in einem verträumten Dunst leuchten… Ein Hauch von zartem Licht und stiller Magie.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f2fdb3f009fe0424b239cefc61f9ee13/thumbnails/thumbnail.jpg" width="600" alt="Video von irisierenden, leuchtenden Kornblumen">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5328)**
-
-**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2059233246882497000) | **Published:** May 26, 2026
-
----
-### Silberner Drache in einer Cyberpunk-Stadt
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein Video-Prompt im Anime-Stil: Ein silberner Drache fliegt durch eine neonbeleuchtete, futuristische Stadt und verwandelt sich in Wolken.
-
-#### 📝 Prompt
-
-```
-Japanischer Anime-Stil, Cyberpunk Full Technica, nächtlicher Blick auf eine Academy City, futuristische riesige Gebäude und neonbeleuchtete Straßenlandschaft, High-Tech-Atmosphäre einer Academy City, ein silberner Drache, der frei im Wind fliegt und sich in Wolken verwandelt
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b4a9db777115f4ff8e44e50b8d60f7f3/thumbnails/thumbnail.jpg" width="600" alt="Silberner Drache in einer Cyberpunk-Stadt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5329)**
-
-**Author:** [Apple🌏🍏👑](https://x.com/makoto_so) | **Source:** [Link](https://x.com/makoto_so/status/2059158008010306006) | **Published:** May 26, 2026
-
----
-### Regnerische Begegnung in der Cyberpunk-Akademie
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein Video-Prompt für ein filmisches Treffen zweier Charaktere in einer regnerischen, futuristischen Akademie-Umgebung im Anime-Stil.
-
-#### 📝 Prompt
-
-```
-Japanischer Anime-Stil, Cyberpunk Full Technica, nächtlicher Blick auf eine Akademie-Stadt, futuristische riesige Gebäude und neonbeleuchtete Straßenlandschaft, High-Tech-Akademie-Atmosphäre, regnerischer Herbst, ein Mann und eine Frau in alten Uniformen bei einer Begegnung
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ec9ffa236395cf5240fa175ec2428bb3/thumbnails/thumbnail.jpg" width="600" alt="Regnerische Begegnung in der Cyberpunk-Akademie">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5331)**
-
-**Author:** [Apple🌏🍏👑](https://x.com/makoto_so) | **Source:** [Link](https://x.com/makoto_so/status/2059156968338813270) | **Published:** May 26, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2238,6 +2238,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-08T04:59:49.888Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-08T12:53:45.073Z</sub>
 
 </div>

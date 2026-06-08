@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **1762** |
+| 📝 提示词总数 | **1767** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-06-08** |
 
@@ -189,6 +189,82 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 空灵精灵女性肖像
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个高度详细的电影级提示词，用于生成一位拥有银色长发和玫瑰纹身的精灵女性的写实视频。
+
+#### 📝 提示词
+
+```
+照片级写实肖像，空灵美丽的精灵女性，优雅的侧后视角展现轮廓与上半身，低头垂眸，神情忧郁柔和，苍白如瓷的肌肤带有真实的纹理与毛孔，自然光泽，长而飘逸的银白色头发编成精致的侧辫，真实的发丝与碎发垂落在肩头，精致的尖耳朵上佩戴着华丽的金色珍珠耳挂，上背部与肩部有巨大的复杂黑红色纹身：盛开的红玫瑰缠绕在锋利的荆棘藤蔓中，超写实的阴影与皮肤互动，精致破损的白色蕾丝裙从肩头滑落，磨损的边缘展现出真实的织物纹理与蕾丝细节，纯粹的深黑色极简背景，戏剧性的忧郁氛围，柔和的体积光与精致的轮廓光，电影质感且高度写实，优雅而神秘。
+```
+
+<img src="https://cms-assets.youmind.com/media/1780909178133_9ggu2r_HKOn2ZDXYAApIGa.jpg" width="600" alt="空灵精灵女性肖像">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5802)**
+
+**作者:** [Myluna](https://x.com/monicamoonx) | **来源:** [Link](https://x.com/monicamoonx/status/2063677676477415632) | **发布时间:** Jun 7, 2026
+
+---
+### 地铁人群阅读场景
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一个详细的视频提示词，旨在创作一个超现实场景：地铁上的每个人都在阅读同一本书，并表现出同步的积极反应。
+
+#### 📝 提示词
+
+```
+火车上的每个人都在读这本书。乘客的年龄和性别比例各异。车厢内还可以看到与这本书设计相同的广告。每个人都在说：“这本书太棒了”、“很有趣”或“很高兴我买了它”。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063625804446408704/img/bjTPa_PG33LUWnVK.jpg" width="600" alt="地铁人群阅读场景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5801)**
+
+**作者:** [富増章成🌐のんびり哲学たまにマンガ](https://x.com/thomasaqnya) | **来源:** [Link](https://x.com/thomasaqnya/status/2063625862982111354) | **发布时间:** Jun 7, 2026
+
+---
+### 雪林中奔腾的骏马（电影质感）
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个极具动感的视频提示词，描绘了一匹骏马在雪林中跳跃的场景，伴有戏剧性的闪电效果和流畅的平移运镜。
+
+#### 📝 提示词
+
+```
+一匹强壮的骏马在雪林中绕着木栅栏围栏充满活力地腾跃而起，紫色的风暴天空中闪烁着戏剧性的闪电，动态摄像机随着圆周运动进行平滑的平移拍摄。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063555447714611201/img/5oxSMrOnzpI9mnZ2.jpg" width="600" alt="雪林中奔腾的骏马（电影质感）">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5799)**
+
+**作者:** [Jean](https://x.com/SpaceScoutsIntl) | **来源:** [Link](https://x.com/SpaceScoutsIntl/status/2063555528345952429) | **发布时间:** Jun 7, 2026
+
+---
+### 赛博朋克霓虹镜像长廊视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个赛博朋克风格的视频提示词，展示了带有故障全息数据流的无限镜像长廊。
+
+#### 📝 提示词
+
+```
+暗黑赛博朋克风格的超现实无限镜像长廊。无尽的霓虹反射与故障全息数据流向虚空深处延伸。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063501596802027520/img/Bo80C3IclRANUe75.jpg" width="600" alt="赛博朋克霓虹镜像长廊视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5798)**
+
+**作者:** [Jenna Clegg](https://x.com/MrsMuskp1) | **来源:** [Link](https://x.com/MrsMuskp1/status/2063501656487084233) | **发布时间:** Jun 7, 2026
+
+---
 ### 交谊舞手位朝向
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -282,6 +358,25 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5761)**
 
 **作者:** [サン｜Sun](https://x.com/sunsunshine0318) | **来源:** [Link](https://x.com/sunsunshine0318/status/2063245398198919231) | **发布时间:** Jun 6, 2026
+
+---
+### 电影级废弃仓库恐怖场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个电影级恐怖风格的视频提示词，描述了一名角色在雨水倾盆的仓库中，用发光的霰弹枪射击超自然实体的场景。
+
+#### 📝 提示词
+
+```
+废弃仓库。午夜。大雨如天塌般倾泻而下。她扣动扳机，将发光霰弹枪里的最后一发子弹全部倾泻在“虚空怨灵”（Void Wraith）身上。它没有尖叫，也没有流血。它只是继续向她走来……
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2063201714984169473/pu/img/KjAkWwjRvDR2dwXj.jpg" width="600" alt="电影级废弃仓库恐怖场景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5800)**
+
+**作者:** [ؘ](https://x.com/NonsenseNest) | **来源:** [Link](https://x.com/NonsenseNest/status/2063201803316146251) | **发布时间:** Jun 6, 2026
 
 ---
 ### 电影感象征性光点之旅
@@ -2082,101 +2177,6 @@ AI 生成的曼哈顿超高层塔楼，430 米垂直结构，由计算减法工�
 **作者:** [Number-One-AI-Fanboy](https://x.com/Number1AIFanboy) | **来源:** [Link](https://x.com/Number1AIFanboy/status/2059340120499650592) | **发布时间:** May 26, 2026
 
 ---
-### 奇幻花丛小屋草地动画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个详细的提示词，用于创作一段怀旧的手绘动画，描绘一个小女孩在阳光明媚、蝴蝶与鲜花环绕的草地上玩耍，采用柔和的粉彩色调和梦幻般的渐变效果。
-
-#### 📝 提示词
-
-```
-创作一个场景：在一个阳光明媚的春日早晨，一个小女孩站在布满鲜花的小屋旁，在蝴蝶的环绕下快乐地挥手。画面采用奇幻的手绘风格，色调柔和素雅，如粉蓝色、柔绿色和奶油白。融入极简细节、细腻纹理和梦幻渐变，营造出舒适宁静的氛围。聚焦于奇幻元素，如迷人的房屋、精致的树木和灵动的角色。构图应引人入胜且充满怀旧感，非常适合故事讲述或儿童插画。创作一个场景：在一个温暖的午后，一个小男孩骑着自行车沿着安静的乡村小路行驶，清脆地摇着铃铛，花瓣在空中飘落。画面采用奇幻的手绘风格，色调柔和素雅，如粉蓝色、柔绿色和奶油白。融入极简细节、细腻纹理和梦幻渐变，营造出舒适宁静的氛围。聚焦于奇幻元素，如迷人的房屋、精致的树木和灵动的角色。构图应引人入胜且充满怀旧感，非常适合故事讲述或儿童插画。创作一个场景：在柔和的晨光下，一只顽皮的小狗站在舒适木屋旁的草地上，追逐着漂浮的肥皂泡。画面采用奇幻的手绘风格，色调柔和素雅，如粉蓝色、柔绿色和奶油白。融入极简细节、细腻纹理和梦幻渐变，营造出舒适宁静的氛围。聚焦于奇幻元素，如迷人的房屋、精致的树木和灵动的角色。构图应引人入胜且充满怀旧感，非常适合故事讲述或儿童插画。创作一个场景：在一个宁静的金色午后，一个小女孩坐在乡村小屋旁精致的苹果树下，为一群好奇的鸟儿朗读。画面采用奇幻的手绘风格，色调柔和素雅，如粉蓝色、柔绿色和奶油白。融入极简细节、细腻纹理和梦幻渐变，营造出舒适宁静的氛围。聚焦于奇幻元素，如迷人的房屋、精致的树木和灵动的角色。构图应引人入胜且充满怀旧感，非常适合故事讲述或儿童插画。创作一个场景：在一个微风习习的春日傍晚，两个快乐的孩子站在闪烁的小溪桥边，一起放飞纸船。画面采用奇幻的手绘风格，色调柔和素雅，如粉蓝色、柔绿色和奶油白。融入极简细节、细腻纹理和梦幻渐变，营造出舒适宁静的氛围。聚焦于奇幻元素，如迷人的房屋、精致的树木和灵动的角色。构图应引人入胜且充满怀旧感，非常适合故事讲述或儿童插画。创作一个场景：在日出时分，一只小兔子站在高大柔和的树木下，窗户圆圆的小屋旁，提着一篮鲜花回家。画面采用奇幻的手绘风格，色调柔和素雅，如粉蓝色、柔绿色和奶油白。融入极简细节、细腻纹理和梦幻渐变，营造出舒适宁静的氛围。聚焦于奇幻元素，如迷人的房屋、精致的树木和灵动的角色。构图应引人入胜且充满怀旧感，非常适合故事讲述或儿童插画。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a6e8cb3c32ff689cb5b2f87d88c6e1f6/thumbnails/thumbnail.jpg" width="600" alt="奇幻花丛小屋草地动画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5326)**
-
-**作者:** [Syed Abuthahir ∞](https://x.com/abulu8) | **来源:** [Link](https://x.com/abulu8/status/2059327599189561498) | **发布时间:** May 26, 2026
-
----
-### 16:9 横屏场景重构
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 将现有场景扩展并重构为电影级 16:9 宽高比的技术指令。
-
-#### 📝 提示词
-
-```
-将整个场景重构为宽屏横向视图，在保持所有关键元素和细节的同时，将构图扩展并平衡至 16:9 宽高比。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f046ac0e453997fb6d5bb2d488d26e08/thumbnails/thumbnail.jpg" width="600" alt="16:9 横屏场景重构">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5325)**
-
-**作者:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **来源:** [Link](https://x.com/PhilipC34457079/status/2059246823131234465) | **发布时间:** May 26, 2026
-
----
-### 虹彩发光矢车菊视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于生成虹彩矢车菊视频的诗意提示词，营造出柔和光影与梦幻、神奇的氛围。
-
-#### 📝 提示词
-
-```
-虹彩矢车菊在梦幻的薄雾中柔和地发光……轻柔的光影低语，静谧的魔法流转。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f2fdb3f009fe0424b239cefc61f9ee13/thumbnails/thumbnail.jpg" width="600" alt="虹彩发光矢车菊视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5328)**
-
-**作者:** [Stella 𝕏](https://x.com/StellaGrokStar) | **来源:** [Link](https://x.com/StellaGrokStar/status/2059233246882497000) | **发布时间:** May 26, 2026
-
----
-### 赛博朋克城市中的银龙
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一段动漫风格的视频提示词，描绘了一条银龙在霓虹闪烁的未来城市中翱翔并化作云雾的场景。
-
-#### 📝 提示词
-
-```
-日本动漫风格，赛博朋克全技术感，学园都市夜景，未来感巨型建筑与霓虹灯街道，高科技学园都市氛围，一条银龙在风中自由飞翔并化作云雾
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b4a9db777115f4ff8e44e50b8d60f7f3/thumbnails/thumbnail.jpg" width="600" alt="赛博朋克城市中的银龙">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5329)**
-
-**作者:** [Apple🌏🍏👑](https://x.com/makoto_so) | **来源:** [Link](https://x.com/makoto_so/status/2059158008010306006) | **发布时间:** May 26, 2026
-
----
-### 赛博朋克学院的雨中邂逅
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一段关于两个角色在雨中未来感学院场景下邂逅的电影感视频提示词，采用动漫美学风格。
-
-#### 📝 提示词
-
-```
-日本动漫风格，赛博朋克全技术感，学院都市夜景，未来感巨型建筑与霓虹灯街道，高科技学院都市氛围，多雨的秋天，身穿旧式制服的男女正在邂逅
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ec9ffa236395cf5240fa175ec2428bb3/thumbnails/thumbnail.jpg" width="600" alt="赛博朋克学院的雨中邂逅">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5331)**
-
-**作者:** [Apple🌏🍏👑](https://x.com/makoto_so) | **来源:** [Link](https://x.com/makoto_so/status/2059156968338813270) | **发布时间:** May 26, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2238,6 +2238,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-06-08T04:59:42.397Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-06-08T12:53:37.204Z</sub>
 
 </div>

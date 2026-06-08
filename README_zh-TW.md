@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **1762** |
+| 📝 提示詞總數 | **1767** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-06-08** |
 
@@ -189,6 +189,82 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 空靈精靈女性肖像
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個高細節的電影級提示詞，用於生成一位擁有銀色長髮與玫瑰紋身的精靈女性的超寫實影片。
+
+#### 📝 提示詞
+
+```
+超寫實肖像，空靈美麗的精靈女性，優雅的側背視角展示輪廓與上半身，低頭呈現柔和憂鬱的表情，蒼白瓷肌具有真實的紋理與毛孔，自然光澤，長而飄逸的銀白色頭髮編織成精緻的側辮，真實的髮絲與碎髮垂落在肩上，精緻的尖耳朵佩戴華麗的金色珍珠耳扣，上背部與肩部有大型複雜的黑紅色紋身：盛開的紅玫瑰纏繞在尖銳的荊棘藤蔓中，超寫實的陰影與皮膚互動，精緻破舊的白色蕾絲連衣裙從肩部滑落，磨損的邊緣具有真實的布料紋理與蕾絲細節，純深黑色極簡背景，戲劇性的情緒氛圍，柔和的體積光與精緻的輪廓光，電影感且超寫實，優雅而神秘。
+```
+
+<img src="https://cms-assets.youmind.com/media/1780909178133_9ggu2r_HKOn2ZDXYAApIGa.jpg" width="600" alt="空靈精靈女性肖像">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5802)**
+
+**作者:** [Myluna](https://x.com/monicamoonx) | **來源:** [Link](https://x.com/monicamoonx/status/2063677676477415632) | **發布時間:** Jun 7, 2026
+
+---
+### 地鐵人群閱讀場景
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一個詳細的影片提示詞，旨在創造一個超現實場景：地鐵上的每個人都在閱讀同一本書，並表現出同步的正面反應。
+
+#### 📝 提示詞
+
+```
+火車上的每個人都在閱讀這本書。乘客的年齡和性別比例各異。車廂內還可見到與該書設計相同的廣告。每個人都說著：「這本書太棒了」、「真有趣」或「很高興我買了它」。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063625804446408704/img/bjTPa_PG33LUWnVK.jpg" width="600" alt="地鐵人群閱讀場景">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5801)**
+
+**作者:** [富増章成🌐のんびり哲学たまにマンガ](https://x.com/thomasaqnya) | **來源:** [Link](https://x.com/thomasaqnya/status/2063625862982111354) | **發布時間:** Jun 7, 2026
+
+---
+### 雪地森林中的電影感馬匹
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個極具動態感的影片提示詞，描繪了一匹馬在雪地森林中跳躍的場景，伴隨戲劇性的閃電與流暢的運鏡效果。
+
+#### 📝 提示詞
+
+```
+強壯的馬匹在雪地森林中躍起，充滿活力地繞著木製圍欄奔跑，紫色的暴風雨天空中閃爍著戲劇性的閃電，動態攝影機隨著圓形軌跡進行流暢的運鏡拍攝。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063555447714611201/img/5oxSMrOnzpI9mnZ2.jpg" width="600" alt="雪地森林中的電影感馬匹">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5799)**
+
+**作者:** [Jean](https://x.com/SpaceScoutsIntl) | **來源:** [Link](https://x.com/SpaceScoutsIntl/status/2063555528345952429) | **發布時間:** Jun 7, 2026
+
+---
+### 賽博龐克霓虹鏡像長廊影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個賽博龐克風格的影片提示詞，展示了帶有故障全息數據流的無限鏡像長廊。
+
+#### 📝 提示詞
+
+```
+黑暗賽博龐克風格的超現實無限鏡像長廊。無盡的霓虹反射與故障的全息數據流向虛空延伸。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063501596802027520/img/Bo80C3IclRANUe75.jpg" width="600" alt="賽博龐克霓虹鏡像長廊影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5798)**
+
+**作者:** [Jenna Clegg](https://x.com/MrsMuskp1) | **來源:** [Link](https://x.com/MrsMuskp1/status/2063501656487084233) | **發布時間:** Jun 7, 2026
+
+---
 ### 國標舞手部方向
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -282,6 +358,25 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5761)**
 
 **作者:** [サン｜Sun](https://x.com/sunsunshine0318) | **來源:** [Link](https://x.com/sunsunshine0318/status/2063245398198919231) | **發布時間:** Jun 6, 2026
+
+---
+### 電影感廢棄倉庫恐怖場景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個電影級恐怖風格的影片提示詞，描述一名角色在雨水傾盆的倉庫中，對著超自然實體發射發光霰彈槍的畫面。
+
+#### 📝 提示詞
+
+```
+廢棄倉庫。午夜。雨水如天空崩塌般猛烈敲擊。她扣下扳機，將發光霰彈槍裡的所有彈藥傾瀉在虛空幽靈（Void Wraith）身上。它沒有尖叫，也沒有流血，只是持續不斷地向她走來……
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2063201714984169473/pu/img/KjAkWwjRvDR2dwXj.jpg" width="600" alt="電影感廢棄倉庫恐怖場景">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5800)**
+
+**作者:** [ؘ](https://x.com/NonsenseNest) | **來源:** [Link](https://x.com/NonsenseNest/status/2063201803316146251) | **發布時間:** Jun 6, 2026
 
 ---
 ### 電影感象徵性光點之旅
@@ -2083,101 +2178,6 @@ AI 生成的曼哈頓超高層大樓，430 公尺垂直結構，由計算減法�
 **作者:** [Number-One-AI-Fanboy](https://x.com/Number1AIFanboy) | **來源:** [Link](https://x.com/Number1AIFanboy/status/2059340120499650592) | **發布時間:** May 26, 2026
 
 ---
-### 奇幻花園小屋草地動畫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份詳細的提示詞，用於創作充滿懷舊感的手繪動畫，描繪一個小女孩在陽光明媚、蝴蝶與花朵環繞的草地上，運用柔和粉彩色調與夢幻漸層。
-
-#### 📝 提示詞
-
-```
-創作一個小女孩站在陽光明媚草地上一座佈滿花朵的小屋旁，在明亮的春日早晨開心地揮手，周圍蝴蝶翩翩起舞。這是一個充滿奇幻感的手繪場景，採用柔和、低飽和的色調，如粉藍色、柔綠色和奶油白色。融入極簡細節、細膩紋理與夢幻漸層，營造出舒適寧靜的氛圍。聚焦於奇幻元素，例如迷人的房屋、精緻的樹木與活潑的角色。構圖應感覺親切、懷舊，非常適合敘事或兒童插畫。創作一個小男孩在寧靜的鄉間小路上騎著腳踏車，路旁排列著小巧的粉彩色房屋，他在溫暖的午後愉快地按著鈴鐺，花瓣在空中飄落。這是一個充滿奇幻感的手繪場景，採用柔和、低飽和的色調，如粉藍色、柔綠色和奶油白色。融入極簡細節、細膩紋理與夢幻漸層，營造出舒適寧靜的氛圍。聚焦於奇幻元素，例如迷人的房屋、精緻的樹木與活潑的角色。構圖應感覺親切、懷舊，非常適合敘事或兒童插畫。創作一隻頑皮的小狗站在舒適木屋旁的草地花園中，在柔和的晨光下追逐漂浮的肥皂泡泡。這是一個充滿奇幻感的手繪場景，採用柔和、低飽和的色調，如粉藍色、柔綠色和奶油白色。融入極簡細節、細膩紋理與夢幻漸層，營造出舒適寧靜的氛圍。聚焦於奇幻元素，例如迷人的房屋、精緻的樹木與活潑的角色。構圖應感覺親切、懷舊，非常適合敘事或兒童插畫。創作一個年輕女孩坐在精緻的蘋果樹下，靠近鄉間小木屋，在寧靜的金色午後為一群好奇的鳥兒朗讀。這是一個充滿奇幻感的手繪場景，採用柔和、低飽和的色調，如粉藍色、柔綠色和奶油白色。融入極簡細節、細膩紋理與夢幻漸層，營造出舒適寧靜的氛圍。聚焦於奇幻元素，例如迷人的房屋、精緻的樹木與活潑的角色。構圖應感覺親切、懷舊，非常適合敘事或兒童插畫。創作兩個開朗的孩子站在閃爍溪流上的小橋旁，在微風徐徐的春日傍晚一起放紙船。這是一個充滿奇幻感的手繪場景，採用柔和、低飽和的色調，如粉藍色、柔綠色和奶油白色。融入極簡細節、細膩紋理與夢幻漸層，營造出舒適寧靜的氛圍。聚焦於奇幻元素，例如迷人的房屋、精緻的樹木與活潑的角色。構圖應感覺親切、懷舊，非常適合敘事或兒童插畫。創作一隻小兔子站在圓窗小屋旁，小屋隱藏在高大溫柔的樹木下，在日出時分提著一籃鮮花回家。這是一個充滿奇幻感的手繪場景，採用柔和、低飽和的色調，如粉藍色、柔綠色和奶油白色。融入極簡細節、細膩紋理與夢幻漸層，營造出舒適寧靜的氛圍。聚焦於奇幻元素，例如迷人的房屋、精緻的樹木與活潑的角色。構圖應感覺親切、懷舊，非常適合敘事或兒童插畫。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a6e8cb3c32ff689cb5b2f87d88c6e1f6/thumbnails/thumbnail.jpg" width="600" alt="奇幻花園小屋草地動畫">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5326)**
-
-**作者:** [Syed Abuthahir ∞](https://x.com/abulu8) | **來源:** [Link](https://x.com/abulu8/status/2059327599189561498) | **發布時間:** May 26, 2026
-
----
-### 16:9 風景場景重構
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 將現有場景擴展並重構為電影級 16:9 寬螢幕比例的技術指令。
-
-#### 📝 提示詞
-
-```
-將整個場景重構為寬闊的橫向風景視角，在保留所有關鍵元素與細節的同時，將構圖擴展並平衡至 16:9 的長寬比。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f046ac0e453997fb6d5bb2d488d26e08/thumbnails/thumbnail.jpg" width="600" alt="16:9 風景場景重構">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5325)**
-
-**作者:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **來源:** [Link](https://x.com/PhilipC34457079/status/2059246823131234465) | **發布時間:** May 26, 2026
-
----
-### 虹彩發光矢車菊影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個充滿詩意的提示詞，用於生成帶有柔和光影與夢幻魔法氛圍的虹彩矢車菊影片。
-
-#### 📝 提示詞
-
-```
-虹彩矢車菊在夢幻的薄霧中柔和地發光…… 輕柔的光影與靜謐的魔法在低語。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f2fdb3f009fe0424b239cefc61f9ee13/thumbnails/thumbnail.jpg" width="600" alt="虹彩發光矢車菊影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5328)**
-
-**作者:** [Stella 𝕏](https://x.com/StellaGrokStar) | **來源:** [Link](https://x.com/StellaGrokStar/status/2059233246882497000) | **發布時間:** May 26, 2026
-
----
-### 賽博龐克城市中的銀龍
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一段動漫風格的影片提示詞，描述一條銀龍在霓虹閃爍的未來城市中翱翔，並幻化為雲朵的場景。
-
-#### 📝 提示詞
-
-```
-日式動漫風格，賽博龐克全技術細節，學院都市夜景，未來感巨型建築與霓虹街道，高科技學院都市氛圍，一條銀龍在風中自由飛翔並幻化為雲朵
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b4a9db777115f4ff8e44e50b8d60f7f3/thumbnails/thumbnail.jpg" width="600" alt="賽博龐克城市中的銀龍">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5329)**
-
-**作者:** [Apple🌏🍏👑](https://x.com/makoto_so) | **來源:** [Link](https://x.com/makoto_so/status/2059158008010306006) | **發布時間:** May 26, 2026
-
----
-### 賽博龐克學院的雨中邂逅
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 這是一個影片提示詞，旨在呈現兩名角色在雨中、充滿未來感的學院場景中相遇的電影級畫面，並帶有動漫美學風格。
-
-#### 📝 提示詞
-
-```
-日式動漫風格，賽博龐克全技術感，學院都市夜景，未來主義巨型建築與霓虹燈街道，高科技學院都市氛圍，秋雨綿綿，身穿舊式制服的男女相遇
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ec9ffa236395cf5240fa175ec2428bb3/thumbnails/thumbnail.jpg" width="600" alt="賽博龐克學院的雨中邂逅">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5331)**
-
-**作者:** [Apple🌏🍏👑](https://x.com/makoto_so) | **來源:** [Link](https://x.com/makoto_so/status/2059156968338813270) | **發布時間:** May 26, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2239,6 +2239,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-06-08T04:59:43.207Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-06-08T12:53:37.985Z</sub>
 
 </div>
