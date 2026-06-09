@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1767** |
+| 📝 Total Prompts | **1773** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-09** |
 
@@ -189,6 +189,122 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Karanlık Sinematik Dağ Vadisi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gece vakti yağmurlu, rüzgarlı ve uzaktan gök gürültülü karanlık, sinematik bir dağ vadisi için atmosferik bir komut.
+
+#### 📝 Prompt
+
+```
+Gece vakti karanlık sinematik dağ vadisi, uzaktan gelen gök gürültüsü, çam ormanlarının arasından esen soğuk rüzgar, taş yollar üzerinde hafif yağmur, hafifçe çıtırdayan fener alevi, atmosferik çevresel ortam, sinematik gerçekçilik, derin duygusal çello dokuları, d
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064094162887045120/img/TK2Y0Y70lfS8VQ-S.jpg" width="600" alt="Karanlık Sinematik Dağ Vadisi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5842)**
+
+**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2064094365455200536) | **Published:** Jun 8, 2026
+
+---
+### Rahat Bir Şekilde Yemek Yiyen Kadın
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Referans görseldeki poz ve ışık tutarlılığını koruyarak karakterin rahat bir şekilde yemek yediğini betimleyen bir video oluşturma istemi.
+
+#### 📝 Prompt
+
+```
+Referans görseldeki kadın, elleriyle veya bir çatal bıçak yardımıyla rahat bir şekilde yemek yiyor; bir lokma alırken tamamen kaygısız, "umursamaz" ve huzurlu bir ifade takınıyor. Poz, ışık, kıyafet ve arka plan aynı kalıyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064060638016548864/img/MY2gDU7t8Wv2Xruy.jpg" width="600" alt="Rahat Bir Şekilde Yemek Yiyen Kadın">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5841)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2064060691057975428) | **Published:** Jun 8, 2026
+
+---
+### Uzay Gemisinin Yabancı Bir Gezegene İnişi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> İnsanların bir uzay gemisinden inip, solunabilir atmosfere ve yanardöner bulutlara sahip yemyeşil yeni bir gezegene adım attıklarını gösteren sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Solunabilir atmosfere, büyüyen ağaçlara ve bitki örtüsüne, yanardöner bulutlara sahip yeni bir gezegende uzay gemisinden inen insanların yakın çekimi
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064002009267621888/img/2TzCqxOVqSnDfOSu.jpg" width="600" alt="Uzay Gemisinin Yabancı Bir Gezegene İnişi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5840)**
+
+**Author:** [Susan Vaden Meseraull](https://x.com/SusanVadenMeser) | **Source:** [Link](https://x.com/SusanVadenMeser/status/2064002062912811445) | **Published:** Jun 8, 2026
+
+---
+### Düğün Videosu Kamera Lensi Yazı Yazma
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için, damadın lense yazı yazıp gülümsediği ve ekli görselin sabit bir bitiş karesi olarak kullanıldığı düğün sahnesi animasyonu için sinematik video istemi.
+
+#### 📝 Prompt
+
+```
+Ekli görseli bitiş karesi olarak kullanın ve 6 saniyelik bir video oluşturun.
+Damat, kamera lensine yazdığı “Happy Wedding” yazısının “g” harfini tamamlar, ardından doğrudan kameraya bakarak nazikçe gülümser. Gelin aynı pozisyonda kalır, gülümseyerek elbisesini hafifçe sallar. Kamera tamamen sabit kalmalı; kaydırma, eğme, yakınlaştırma veya herhangi bir kamera hareketi olmamalıdır.
+Beyaz metni veya çizimleri hareket ettirmeyin ya da canlandırmayın. Ekli görselin sanat tarzını tamamen koruyun. Ekli görseldeki hiçbir öğeyi eklemeyin, çıkarmayın veya değiştirmeyin.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063884383002763264/img/zH2VyVw3LWPC2RI8.jpg" width="600" alt="Düğün Videosu Kamera Lensi Yazı Yazma">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5843)**
+
+**Author:** [サン｜Sun](https://x.com/sunsunshine0318) | **Source:** [Link](https://x.com/sunsunshine0318/status/2063885288854737223) | **Published:** Jun 8, 2026
+
+---
+### Ethereal Underwater Sorrow
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Manevi bir hüznü yansıtan, yavaş hareketli, ruhani bir su altı sahnesini betimleyen karmaşık bir sanatsal istem.
+
+#### 📝 Prompt
+
+```
+Sabit lens. Güzellik, maddi hüzün ve absürtlük tarzı, derin bir ruhsal acıyı yansıtıyor. Yarı saydam, ıslak saçlar yavaşça süzülüyor ve küçük kabarcıklar çıkarıyor. Elindeki beyaz balık hafifçe seğirdi. Mavi ve pas kırmızısı giysiler, durgun dip akıntısında hafifçe sallanıyor. Arka plandaki gölge yavaşça akıyor. Orijinal tablonun soğuk tonunu kesinlikle koruyun.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063870144032743424/img/Zz0bagBqS8dnm89U.jpg" width="600" alt="Ethereal Underwater Sorrow">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5838)**
+
+**Author:** [Zidan](https://x.com/liluocheng13) | **Source:** [Link](https://x.com/liluocheng13/status/2063870222260691134) | **Published:** Jun 8, 2026
+
+---
+### Büyülü Alacakaranlık Masal Evi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Alacakaranlıkta parlayan, kelebekler ve dökülen yapraklarla çevrili bir kulübe için sihirli bir video istemi.
+
+#### 📝 Prompt
+
+```
+Alacakaranlıkta parlayan sıcacık ve büyüleyici bir kulübe… güller açıyor, kelebekler dans ediyor, yapraklar dökülüyor. Saf bir masal büyüsü.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063825890694328320/img/E-uYYRxq-ZofOn49.jpg" width="600" alt="Büyülü Alacakaranlık Masal Evi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5839)**
+
+**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2063826044860223731) | **Published:** Jun 8, 2026
+
+---
 ### Ethereal Elf Woman Portrait
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -201,7 +317,7 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 fotogerçekçi portre, ruhani güzel elf kadını, silüeti ve üst vücudu gösteren zarif yan-arka görünüm, yumuşak melankolik bir ifadeyle aşağı bakıyor, gerçekçi dokuya ve gözeneklere sahip soluk porselen cilt, doğal ışıltı, omuzdan aşağı dökülen gerçekçi teller ve uçuşan saçlarla karmaşık yan örgülü uzun, akıcı gümüş-beyaz saçlar, süslü altın inci küpe takılı narin sivri elf kulakları, üst sırtta ve omuzda büyük karmaşık siyah ve kırmızı dövme: keskin dikenli sarmaşıklarla sarılı açan kırmızı gül, hiper gerçekçi gölgelendirme ve cilt etkileşimi, omuzlardan düşen narin yırtık beyaz dantel elbise, gerçekçi kumaş dokusu ve dantel detaylarıyla yıpranmış kenarlar, düz koyu siyah minimalist arka plan, dramatik karamsar atmosfer, narin kenar ışığıyla yumuşak hacimsel aydınlatma, sinematik ama fotogerçekçi, zarif ve gizemli.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1780909178133_9ggu2r_HKOn2ZDXYAApIGa.jpg" width="600" alt="Ethereal Elf Woman Portrait">
+<img src="https://cms-assets.youmind.com/media/1780994432843_ktemf8_HKOn2ZDXYAApIGa.jpg" width="600" alt="Ethereal Elf Woman Portrait">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5802)**
 
@@ -900,7 +1016,7 @@ Lüks seyahat günlüğü illüstrasyonu,
 premium şehir eskiz defteri estetiği, otantik el çizimi mimari ve manzara eskizi.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1780477585114_4zo7j1_HJzTnT_aMAAJMFG.jpg" width="600" alt="Central Park Şehir Eskizi Poster">
+<img src="https://cms-assets.youmind.com/media/1780994433496_ycrf87_HJzTnT_aMAAJMFG.jpg" width="600" alt="Central Park Şehir Eskizi Poster">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5637)**
 
@@ -2063,120 +2179,6 @@ Space Scout yelekleri ve koyu kırçıllı gri kıyafetler giymiş, Space Camp H
 **Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2059554674324426973) | **Published:** May 27, 2026
 
 ---
-### Ay Işığı Vitray Ritüeli
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Dolunay altında, vitraylar ve yıldız ışığı arasında, gün batımı tonlarıyla yükselen bir kadını konu alan detaylı bir video istemi.
-
-#### 📝 Prompt
-
-```
-Dolunayın bakışları altında yükseliyor. Vitraylar ve yıldız ışığı; gün batımının son renklerinin hala gökyüzünde asılı kaldığı o yerde.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/53f43c2ea40cfc942002c8e0b4c8d265/thumbnails/thumbnail.jpg" width="600" alt="Ay Işığı Vitray Ritüeli">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5330)**
-
-**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2059492955270828342) | **Published:** May 27, 2026
-
----
-### Da Vinci Tarzı Takvim Makinesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Leonardo da Vinci'nin eskizleri tarzında, birbirine kenetlenmiş bronz çarklar ve gezegen hizalanmaları içeren karmaşık bir mekanik takvimi betimleyen detaylı bir video istemi.
-
-#### 📝 Prompt
-
-```
-(Mümkün olan yerlerde, bir da Vinci tarzı eskiz hayal edin: Codex Atlanticus'undaki dişli sistemleri gibi ancak zamanın kendisi için—üzerinde “360 günlük Mısır”, “Venüs kuyruklu yıldız yolu” ve “Mars sapanı” yazılı birbirine kenetlenmiş bronz çarklar ve mekanizmayı çatlatan ani bir aks eğimi; minik insan figürleri (firavunlar, Maya rahipleri) beş “kutsal gün” eklemek için çabalarken, dönen bir gezegen girdabı tüm takvim makinesini mükemmel bir Rönesans perspektifiyle yeniden hizalıyor!)
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e2755189a8a5222d278167ca4f77645f/thumbnails/thumbnail.jpg" width="600" alt="Da Vinci Tarzı Takvim Makinesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5353)**
-
-**Author:** [the don of hockey](https://x.com/don_allain) | **Source:** [Link](https://x.com/don_allain/status/2059451078807114105) | **Published:** May 27, 2026
-
----
-### Büyülü Bahçe Cüceleri Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> İki bahçe cücesinin ellerinin birbirine değdiği ve gökyüzünün yıldızlı bir Samanyolu'na dönüştüğü, büyüleyici bir grok-imagine video istemi.
-
-#### 📝 Prompt
-
-```
-Erkek bahçe cücesi uzanıp dişi bahçe cücesinin eline dokunur ve gökyüzü aniden yıldızlara ve Samanyolu'na dönüşür
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e3740808f8371b8cc1db5d839f1121a/thumbnails/thumbnail.jpg" width="600" alt="Büyülü Bahçe Cüceleri Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5356)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2059436913640267902) | **Published:** May 27, 2026
-
----
-### Fütüristik Anne ve Kız İllüstrasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bilim kurgu tarzında anne ve kız arasındaki bağı betimleyen fütüristik bir dijital illüstrasyon için istem.
-
-#### 📝 Prompt
-
-```
-BlueGoo ve Vera'nın fütüristik dijital illüstrasyonu, Anne ve Kız Sevgisi Her Zaman Cevaptır
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8ab81211c8db51b535152148a750a172/thumbnails/thumbnail.jpg" width="600" alt="Fütüristik Anne ve Kız İllüstrasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5358)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2059431777593344125) | **Published:** May 27, 2026
-
----
-### Sibernetik Uzay Kitabı Tanıtımı
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Uzayda geçen, dönen altın rengi Starlink uyduları ve sibernetik kıyafet dönüşümü içeren yaratıcı bir kitap reklamı video istemi.
-
-#### 📝 Prompt
-
-```
-Bu kitabı iki elinizle önünüzde tutarak tanıtım yapın. Arka plan uzay boşluğudur. Starlink uyduları altın rengi ışıklarla dönmekte ve kıyafet sibernetik bir tarzda parlamaktadır. Akinari Tomimasu'nun logosu yanıp söner ve sibernetik bir hale bürünür. Son olarak, yoğun bir flaş efektiyle sibernetik bir android'e dönüşür.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dea8f2476897ef9f1f5915b1de8a4a11/thumbnails/thumbnail.jpg" width="600" alt="Sibernetik Uzay Kitabı Tanıtımı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5332)**
-
-**Author:** [富増章成🌐のんびり哲学たまにマンガ](https://x.com/thomasaqnya) | **Source:** [Link](https://x.com/thomasaqnya/status/2059344772696096801) | **Published:** May 26, 2026
-
----
-### Dinamik Uzay Roketi Fırlatma Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Belirli bir roket görselini; gerçekçi turuncu alevler, kamera hareketi ve özel marka detayları içeren sinematik bir fırlatma sekansına dönüştürür.
-
-#### 📝 Prompt
-
-```
-Sağlanan görseldeki roketin fırlatma rampasından kalkışını canlandırın. Kırmızı burunlu beyaz roket, yan tarafında 'BG' yazısı ve parlak turuncu alevler olsun. Kamera hareketiyle dinamik bir fırlatma sekansı oluşturun.
-```
-
-<img src="https://cms-assets.youmind.com/media/1779871303352_3fau0d_HJQ-hgNWoAAkFaH.jpg" width="600" alt="Dinamik Uzay Roketi Fırlatma Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5327)**
-
-**Author:** [Number-One-AI-Fanboy](https://x.com/Number1AIFanboy) | **Source:** [Link](https://x.com/Number1AIFanboy/status/2059340120499650592) | **Published:** May 26, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2238,6 +2240,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-09T04:23:30.528Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-09T11:37:45.915Z</sub>
 
 </div>

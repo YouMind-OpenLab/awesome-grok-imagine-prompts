@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **1767** |
+| 📝 プロンプト総数 | **1773** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-06-09** |
 
@@ -189,6 +189,122 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### ダークで映画のような山間の谷
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 雨、風、遠くの雷鳴が響く、夜のダークで映画のような山間の谷を表現するための雰囲気のあるプロンプトです。
+
+#### 📝 プロンプト
+
+```
+夜のダークで映画のような山間の谷、遠くの雷鳴、松林を吹き抜ける冷たい風、石畳に降る小雨、かすかに揺れるランタンの炎、雰囲気のある環境音、映画のようなリアリズム、深く感情的なチェロの音色、d
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064094162887045120/img/TK2Y0Y70lfS8VQ-S.jpg" width="600" alt="ダークで映画のような山間の谷">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5842)**
+
+**作者:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **ソース:** [Link](https://x.com/gpimpmyspace/status/2064094365455200536) | **公開日:** Jun 8, 2026
+
+---
+### リラックスして食事をする女性
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 参照画像からポーズや照明の一貫性を保ちつつ、キャラクターがカジュアルに食事をする様子を描写する動画生成プロンプトです。
+
+#### 📝 プロンプト
+
+```
+参照画像の女性が、手やカトラリーを使ってカジュアルに食事をしている。一口食べながら、リラックスした様子で全く気負いのない、のんびりとした表情を浮かべている。ポーズ、照明、服装、背景はすべて維持。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064060638016548864/img/MY2gDU7t8Wv2Xruy.jpg" width="600" alt="リラックスして食事をする女性">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5841)**
+
+**作者:** [Sas](https://x.com/SaSHeaven26) | **ソース:** [Link](https://x.com/SaSHeaven26/status/2064060691057975428) | **公開日:** Jun 8, 2026
+
+---
+### 未知の惑星に着陸する宇宙船
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 宇宙船から降り立った人々が、呼吸可能な大気と虹色の雲に覆われた緑豊かな新しい惑星を探索する様子を描く、シネマティックな動画生成用プロンプトです。
+
+#### 📝 プロンプト
+
+```
+呼吸可能な大気、成長する木々や植物、虹色の雲に覆われた新しい惑星で、宇宙船から降りてくる人々のクローズアップ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064002009267621888/img/2TzCqxOVqSnDfOSu.jpg" width="600" alt="未知の惑星に着陸する宇宙船">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5840)**
+
+**作者:** [Susan Vaden Meseraull](https://x.com/SusanVadenMeser) | **ソース:** [Link](https://x.com/SusanVadenMeser/status/2064002062912811445) | **公開日:** Jun 8, 2026
+
+---
+### ウェディングビデオのカメラレンズへの書き込み
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 用のシネマティックなビデオプロンプト。新郎がレンズに文字を書いて微笑むウェディングシーンを、画像を固定の終了フレームとして使用してアニメーション化します。
+
+#### 📝 プロンプト
+
+```
+添付画像を終了フレームとして使用し、6 秒間のビデオを作成してください。
+新郎がカメラレンズに「Happy Wedding」の「g」を書き終え、カメラをまっすぐ見つめて優しく微笑みます。新婦は同じ位置で、ドレスを柔らかく揺らしながら微笑んでいます。カメラは完全に固定し、パン、チルト、ズームなどのカメラワークは一切行わないでください。
+白いテキストやイラストはアニメーション化したり動かしたりしないでください。添付画像の画風を完全に維持してください。添付画像から要素を追加、削除、または変更しないでください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063884383002763264/img/zH2VyVw3LWPC2RI8.jpg" width="600" alt="ウェディングビデオのカメラレンズへの書き込み">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5843)**
+
+**作者:** [サン｜Sun](https://x.com/sunsunshine0318) | **ソース:** [Link](https://x.com/sunsunshine0318/status/2063885288854737223) | **公開日:** Jun 8, 2026
+
+---
+### 幽玄なる水中の哀しみ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 精神的な悲しみを表現した、ゆっくりと動く幽玄な水中シーンを描写する複雑なアートプロンプト。
+
+#### 📝 プロンプト
+
+```
+固定レンズ。美しさ、物質的な悲しみ、そして不条理のスタイルが、深い精神的苦痛を伝えている。半透明の水の髪がゆっくりと漂い、小さな泡を放出する。手の中の白い魚がかすかにピクりと動く。青と錆びた赤の衣服が、鈍い底流の中でわずかに揺れる。背景の影がゆっくりと流れる。元の絵画のクールな色調を厳密に維持すること。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063870144032743424/img/Zz0bagBqS8dnm89U.jpg" width="600" alt="幽玄なる水中の哀しみ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5838)**
+
+**作者:** [Zidan](https://x.com/liluocheng13) | **ソース:** [Link](https://x.com/liluocheng13/status/2063870222260691134) | **公開日:** Jun 8, 2026
+
+---
+### 魔法の黄昏時、おとぎ話のコテージ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 黄昏時に輝くコテージ、蝶が舞い花びらが散る様子を描いた、魔法のようなビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+黄昏時に光り輝く、居心地の良い魔法のコテージ……バラが咲き誇り、蝶が舞い、花びらが舞い散る。まさに、おとぎ話のような魔法の世界。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063825890694328320/img/E-uYYRxq-ZofOn49.jpg" width="600" alt="魔法の黄昏時、おとぎ話のコテージ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5839)**
+
+**作者:** [James King](https://x.com/JamesKi97287119) | **ソース:** [Link](https://x.com/JamesKi97287119/status/2063826044860223731) | **公開日:** Jun 8, 2026
+
+---
 ### 幻想的なエルフの女性のポートレート
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -201,7 +317,7 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 フォトリアルなポートレート、幻想的で美しいエルフの女性、シルエットと上半身が見えるエレガントなサイドバックビュー、柔らかく憂いを帯びた表情で伏し目がち、リアルな質感と毛穴を持つ陶器のような白い肌、自然な輝き、肩に流れるリアルな髪の束と後れ毛が特徴の複雑なサイド三つ編みの長く流れる銀白色の髪、精巧な金の真珠のイヤーカフをつけた繊細で尖ったエルフの耳、背中上部と肩にある大きく複雑な黒と赤のタトゥー：鋭い棘のある蔓に巻かれた満開の赤いバラ、超リアルな陰影と肌の質感、肩からずり落ちた繊細で破れた白いレースのドレス、リアルな生地の質感とレースのディテールを持つほつれた端、無地の深い黒のミニマリストな背景、ドラマチックでムーディーな雰囲気、繊細なリムライトを伴う柔らかなボリュームライティング、シネマティックかつフォトリアル、エレガントで神秘的。
 ```
 
-<img src="https://cms-assets.youmind.com/media/1780909178133_9ggu2r_HKOn2ZDXYAApIGa.jpg" width="600" alt="幻想的なエルフの女性のポートレート">
+<img src="https://cms-assets.youmind.com/media/1780994432843_ktemf8_HKOn2ZDXYAApIGa.jpg" width="600" alt="幻想的なエルフの女性のポートレート">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5802)**
 
@@ -900,7 +1016,7 @@ Capa 1 - シーン：私の顔の鮮明なクローズアップ。風になび�
 プレミアムなアーバンスケッチの美学、本格的な手描きの建築および風景スケッチ。
 ```
 
-<img src="https://cms-assets.youmind.com/media/1780477585114_4zo7j1_HJzTnT_aMAAJMFG.jpg" width="600" alt="セントラル・パークのアーバンスケッチ・ポスター">
+<img src="https://cms-assets.youmind.com/media/1780994433496_ycrf87_HJzTnT_aMAAJMFG.jpg" width="600" alt="セントラル・パークのアーバンスケッチ・ポスター">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5637)**
 
@@ -2064,120 +2180,6 @@ AI が生成したマンハッタンの超高層ビル、計算的減算プロ�
 **作者:** [Jean](https://x.com/SpaceScoutsIntl) | **ソース:** [Link](https://x.com/SpaceScoutsIntl/status/2059554674324426973) | **公開日:** May 27, 2026
 
 ---
-### 月光に染まるステンドグラスの儀式
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 満月の下、ステンドグラスと星明かり、そして夕焼けの色が残る空を背景に立ち上がる女性を描いた詳細な動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-満月の光を浴びて、彼女は立ち上がる。ステンドグラスと星明かりが交差する場所、空には夕暮れの最後の色がまだ残っている。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/53f43c2ea40cfc942002c8e0b4c8d265/thumbnails/thumbnail.jpg" width="600" alt="月光に染まるステンドグラスの儀式">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5330)**
-
-**作者:** [DuBoseJen](https://x.com/DuBosefire) | **ソース:** [Link](https://x.com/DuBosefire/status/2059492955270828342) | **公開日:** May 27, 2026
-
----
-### ダ・ヴィンチ様式のカレンダーマシン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> レオナルド・ダ・ヴィンチのスケッチ風に描かれた、複雑な機械式カレンダーのビデオプロンプト。噛み合うブロンズ製の歯車と惑星の配置が特徴です。
-
-#### 📝 プロンプト
-
-```
-（ダ・ヴィンチ様式のスケッチをイメージしてください：『アトランティクス手稿』に見られるような歯車機構を時間そのものに応用したもので、「エジプト 360 日」「金星の彗星軌道」「火星のスイングバイ」と刻印されたブロンズ製の歯車が噛み合っています。突然の軸の傾きによって機構に亀裂が入り、小さな人間たち（ファラオやマヤの神官）が慌ただしく 5 日間の「聖なる日」を付け加えようとする中、渦巻く惑星の奔流がルネサンス様式の完璧な遠近法の中でカレンダーマシン全体を再配置していく様子を描写してください！）
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e2755189a8a5222d278167ca4f77645f/thumbnails/thumbnail.jpg" width="600" alt="ダ・ヴィンチ様式のカレンダーマシン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5353)**
-
-**作者:** [the don of hockey](https://x.com/don_allain) | **ソース:** [Link](https://x.com/don_allain/status/2059451078807114105) | **公開日:** May 27, 2026
-
----
-### 魔法のガーデンノームの動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 2 体のガーデンノームが手を取り合うと、空が星空や天の川へと変化する、幻想的な grok-imagine 用の動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-1 体の男性ガーデンノームがもう 1 体の女性ガーデンノームの手に触れると、空が弾けるように星々や天の川へと変化する
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e3740808f8371b8cc1db5d839f1121a/thumbnails/thumbnail.jpg" width="600" alt="魔法のガーデンノームの動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5356)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2059436913640267902) | **公開日:** May 27, 2026
-
----
-### 近未来的な母と娘のイラスト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> SF スタイルで母と娘の絆を描いた、近未来的なデジタルイラストを作成するためのプロンプトです。
-
-#### 📝 プロンプト
-
-```
-BlueGoo と Vera を描いた近未来的なデジタルイラスト。母と娘の愛こそが常に答えである
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8ab81211c8db51b535152148a750a172/thumbnails/thumbnail.jpg" width="600" alt="近未来的な母と娘のイラスト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5358)**
-
-**作者:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **ソース:** [Link](https://x.com/TLouisevsughan/status/2059431777593344125) | **公開日:** May 27, 2026
-
----
-### Cybernetic Space Book プロモーション
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 宇宙を舞台にした書籍広告用のクリエイティブな動画プロンプト。渦巻く黄金の Starlink 衛星とサイバネティックスーツへの変身が特徴です。
-
-#### 📝 プロンプト
-
-```
-この本を両手で前に掲げて宣伝してください。背景は宇宙空間です。Starlink 衛星が黄金の光を放ちながら渦巻き、スーツがサイバースタイルに輝きます。Akinari Tomimasu のロゴが点滅し、サイバー化していきます。最後に、激しいフラッシュとともにサイバーアンドロイドへと変身します。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dea8f2476897ef9f1f5915b1de8a4a11/thumbnails/thumbnail.jpg" width="600" alt="Cybernetic Space Book プロモーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5332)**
-
-**作者:** [富増章成🌐のんびり哲学たまにマンガ](https://x.com/thomasaqnya) | **ソース:** [Link](https://x.com/thomasaqnya/status/2059344772696096801) | **公開日:** May 26, 2026
-
----
-### ダイナミックなスペースロケット打ち上げアニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 提供されたロケット画像を、リアルなオレンジ色の炎、カメラワーク、特定のブランディング要素を備えた映画のような打ち上げシーケンスへとアニメーション化します。
-
-#### 📝 プロンプト
-
-```
-提供された画像内のロケットが発射台から打ち上がる様子をアニメーション化してください。白い機体に赤いノーズコーン、側面には「BG」のロゴ、鮮やかなオレンジ色の炎を再現してください。カメラワークを駆使したダイナミックな打ち上げシーケンスを作成します。
-```
-
-<img src="https://cms-assets.youmind.com/media/1779871303352_3fau0d_HJQ-hgNWoAAkFaH.jpg" width="600" alt="ダイナミックなスペースロケット打ち上げアニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5327)**
-
-**作者:** [Number-One-AI-Fanboy](https://x.com/Number1AIFanboy) | **ソース:** [Link](https://x.com/Number1AIFanboy/status/2059340120499650592) | **公開日:** May 26, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2239,6 +2241,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-09T04:23:17.521Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-09T11:37:29.183Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1767** |
+| 📝 Total Prompts | **1773** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-09** |
 
@@ -189,6 +189,122 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Vallée de montagne cinématographique sombre
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt atmosphérique pour une vallée de montagne sombre et cinématographique de nuit, avec de la pluie, du vent et un tonnerre lointain.
+
+#### 📝 Prompt
+
+```
+Vallée de montagne cinématographique sombre de nuit, tonnerre lointain, vent froid traversant les forêts de pins, fine pluie sur les sentiers de pierre, crépitement subtil d'une flamme de lanterne, ambiance environnementale atmosphérique, réalisme cinématographique, textures de violoncelle émotionnelles profondes, d
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064094162887045120/img/TK2Y0Y70lfS8VQ-S.jpg" width="600" alt="Vallée de montagne cinématographique sombre">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5842)**
+
+**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2064094365455200536) | **Published:** Jun 8, 2026
+
+---
+### Femme détendue en train de manger
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de génération vidéo décrivant un personnage mangeant de manière décontractée tout en conservant la cohérence de la pose et de l'éclairage par rapport à une image de référence.
+
+#### 📝 Prompt
+
+```
+La femme de l'image de référence mange maintenant tranquillement avec ses mains ou un ustensile, prenant une bouchée tout en ayant l'air détendue et totalement sereine, avec une expression insouciante, en conservant la même pose, le même éclairage, les mêmes vêtements et le même arrière-plan.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064060638016548864/img/MY2gDU7t8Wv2Xruy.jpg" width="600" alt="Femme détendue en train de manger">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5841)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2064060691057975428) | **Published:** Jun 8, 2026
+
+---
+### Atterrissage d'un vaisseau spatial sur une planète extraterrestre
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinématographique pour une vidéo montrant des personnes sortant d'un vaisseau spatial sur une nouvelle planète luxuriante dotée d'une atmosphère respirable et de nuages iridescents.
+
+#### 📝 Prompt
+
+```
+Gros plan sur des personnes sortant d'un vaisseau spatial sur une nouvelle planète à l'atmosphère respirable, avec des arbres et de la végétation en pleine croissance, et des nuages iridescents
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064002009267621888/img/2TzCqxOVqSnDfOSu.jpg" width="600" alt="Atterrissage d'un vaisseau spatial sur une planète extraterrestre">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5840)**
+
+**Author:** [Susan Vaden Meseraull](https://x.com/SusanVadenMeser) | **Source:** [Link](https://x.com/SusanVadenMeser/status/2064002062912811445) | **Published:** Jun 8, 2026
+
+---
+### Rédaction sur l'objectif d'une caméra pour vidéo de mariage
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo cinématographique pour Grok Imagine afin d'animer une scène de mariage où le marié écrit sur l'objectif et sourit, en utilisant une image comme image de fin fixe.
+
+#### 📝 Prompt
+
+```
+Utilisez l'image jointe comme image de fin et créez une vidéo de 6 secondes.
+Le marié termine d'écrire « Happy Wedding » en ajoutant le « g » sur l'objectif de la caméra, puis regarde directement l'objectif et sourit doucement. La mariée reste dans la même position, souriante tout en balançant légèrement sa robe. La caméra reste totalement fixe, sans panoramique, inclinaison, zoom ou mouvement de caméra.
+N'animez pas et ne déplacez pas le texte blanc ou les illustrations. Préservez intégralement le style artistique de l'image jointe. N'ajoutez, ne supprimez et ne modifiez aucun élément de l'image jointe.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063884383002763264/img/zH2VyVw3LWPC2RI8.jpg" width="600" alt="Rédaction sur l'objectif d'une caméra pour vidéo de mariage">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5843)**
+
+**Author:** [サン｜Sun](https://x.com/sunsunshine0318) | **Source:** [Link](https://x.com/sunsunshine0318/status/2063885288854737223) | **Published:** Jun 8, 2026
+
+---
+### Tristesse sous-marine éthérée
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt artistique complexe décrivant une scène sous-marine éthérée et lente, exprimant une tristesse spirituelle.
+
+#### 📝 Prompt
+
+```
+Objectif fixe. Le style de beauté, la tristesse matérielle et l'absurdité traduisent une profonde douleur spirituelle. Des cheveux translucides flottent lentement dans l'eau et émettent de minuscules bulles. Le poisson blanc dans sa main a un léger tressaillement. Les vêtements bleus et rouge rouille se balancent doucement dans le courant sous-marin terne. L'ombre en arrière-plan s'écoule lentement. Maintenir strictement la tonalité froide de la peinture originale.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063870144032743424/img/Zz0bagBqS8dnm89U.jpg" width="600" alt="Tristesse sous-marine éthérée">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5838)**
+
+**Author:** [Zidan](https://x.com/liluocheng13) | **Source:** [Link](https://x.com/liluocheng13/status/2063870222260691134) | **Published:** Jun 8, 2026
+
+---
+### Chalet de conte de fées au crépuscule enchanté
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo magique pour un chalet lumineux au crépuscule avec des papillons et des pétales qui tombent.
+
+#### 📝 Prompt
+
+```
+Un chalet enchanté et douillet brillant au crépuscule… les roses fleurissent, les papillons dansent, les pétales tombent. La magie pure d'un conte de fées.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063825890694328320/img/E-uYYRxq-ZofOn49.jpg" width="600" alt="Chalet de conte de fées au crépuscule enchanté">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5839)**
+
+**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2063826044860223731) | **Published:** Jun 8, 2026
+
+---
 ### Portrait d'une elfe éthérée
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -201,7 +317,7 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 portrait photoréaliste, elfe magnifique et éthérée, vue élégante de trois-quarts dos montrant la silhouette et le haut du corps, regard vers le bas avec une expression douce et mélancolique, peau de porcelaine pâle avec texture et pores réalistes, éclat naturel, longs cheveux argentés fluides en une tresse latérale complexe avec des mèches réalistes et des cheveux rebelles tombant sur l'épaule, oreilles d'elfe pointues délicates avec un bijou d'oreille en perle dorée orné, grand tatouage complexe noir et rouge sur le haut du dos et l'épaule : rose rouge épanouie enveloppée dans des vignes épineuses, ombrage hyper-réaliste et interaction avec la peau, robe en dentelle blanche déchirée et effilochée glissant sur les épaules, bords effilochés avec texture de tissu réaliste et détails en dentelle, fond minimaliste noir profond, atmosphère dramatique et mélancolique, éclairage volumétrique doux avec une délicate lumière de contour, cinématographique et photoréaliste, élégant et mystérieux.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1780909178133_9ggu2r_HKOn2ZDXYAApIGa.jpg" width="600" alt="Portrait d'une elfe éthérée">
+<img src="https://cms-assets.youmind.com/media/1780994432843_ktemf8_HKOn2ZDXYAApIGa.jpg" width="600" alt="Portrait d'une elfe éthérée">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5802)**
 
@@ -900,7 +1016,7 @@ Illustration de carnet de voyage de luxe,
 esthétique premium de carnet de croquis urbain, architecture et paysage authentiquement dessinés à la main.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1780477585114_4zo7j1_HJzTnT_aMAAJMFG.jpg" width="600" alt="Affiche de croquis urbain de Central Park">
+<img src="https://cms-assets.youmind.com/media/1780994433496_ycrf87_HJzTnT_aMAAJMFG.jpg" width="600" alt="Affiche de croquis urbain de Central Park">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5637)**
 
@@ -2064,120 +2180,6 @@ De jeunes futurs astronautes vêtus de gilets Space Scout et de vêtements gris 
 **Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2059554674324426973) | **Published:** May 27, 2026
 
 ---
-### Rituel de vitrail au clair de lune
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo détaillé mettant en scène une femme s'élevant sous une pleine lune, au milieu de vitraux et de la lumière des étoiles, avec des teintes de coucher de soleil.
-
-#### 📝 Prompt
-
-```
-Sous le regard de la pleine lune, elle s'élève. Vitraux et lumière des étoiles, là où les dernières couleurs du crépuscule s'attardent encore dans le ciel.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/53f43c2ea40cfc942002c8e0b4c8d265/thumbnails/thumbnail.jpg" width="600" alt="Rituel de vitrail au clair de lune">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5330)**
-
-**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2059492955270828342) | **Published:** May 27, 2026
-
----
-### Machine à calendrier style Léonard de Vinci
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo complexe décrivant un calendrier mécanique sophistiqué dans le style des croquis de Léonard de Vinci, mettant en scène des roues en bronze imbriquées et un alignement planétaire.
-
-#### 📝 Prompt
-
-```
-(Le cas échéant, imaginez un croquis dans le style de Vinci : semblable aux trains d'engrenages de son Codex Atlanticus, mais dédié au temps lui-même — des roues en bronze imbriquées étiquetées « 360 jours Égypte », « trajectoire de la comète de Vénus » et « fronde de Mars », avec une inclinaison soudaine de l'axe faisant craquer le mécanisme ; de minuscules figures humaines (pharaons, prêtres mayas) se précipitent pour ajouter cinq « jours saints » tandis qu'un vortex tourbillonnant de planètes réaligne toute la machine à calendrier dans une perspective Renaissance parfaite !)
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e2755189a8a5222d278167ca4f77645f/thumbnails/thumbnail.jpg" width="600" alt="Machine à calendrier style Léonard de Vinci">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5353)**
-
-**Author:** [the don of hockey](https://x.com/don_allain) | **Source:** [Link](https://x.com/don_allain/status/2059451078807114105) | **Published:** May 27, 2026
-
----
-### Vidéo de nains de jardin magiques
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo fantaisiste pour grok-imagine où deux nains de jardin se touchent la main, déclenchant une transformation céleste du ciel en une Voie lactée étoilée.
-
-#### 📝 Prompt
-
-```
-Un nain de jardin mâle tend la main et touche celle d'une naine de jardin, et le ciel éclate en étoiles et en Voie lactée
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e3740808f8371b8cc1db5d839f1121a/thumbnails/thumbnail.jpg" width="600" alt="Vidéo de nains de jardin magiques">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5356)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2059436913640267902) | **Published:** May 27, 2026
-
----
-### Illustration futuriste d'une mère et de sa fille
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour une illustration numérique futuriste représentant le lien entre une mère et sa fille dans un style science-fiction.
-
-#### 📝 Prompt
-
-```
-Une illustration numérique futuriste de BlueGoo et Vera, l'amour entre une mère et sa fille est toujours la réponse
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8ab81211c8db51b535152148a750a172/thumbnails/thumbnail.jpg" width="600" alt="Illustration futuriste d'une mère et de sa fille">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5358)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2059431777593344125) | **Published:** May 27, 2026
-
----
-### Promotion du livre Cybernetic Space
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt vidéo créatif pour une publicité de livre se déroulant dans l'espace, mettant en scène des satellites Starlink dorés tourbillonnants et une transformation en combinaison cybernétique.
-
-#### 📝 Prompt
-
-```
-Faites la promotion en tenant ce livre à deux mains devant vous. L'arrière-plan est l'espace. Les satellites Starlink tourbillonnent avec une lumière dorée et la combinaison brille dans un style cyber. Le logo d'Akinari Tomimasu clignote et se cybernétise. Enfin, il se transforme en un androïde cybernétique avec des flashs intenses.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dea8f2476897ef9f1f5915b1de8a4a11/thumbnails/thumbnail.jpg" width="600" alt="Promotion du livre Cybernetic Space">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5332)**
-
-**Author:** [富増章成🌐のんびり哲学たまにマンガ](https://x.com/thomasaqnya) | **Source:** [Link](https://x.com/thomasaqnya/status/2059344772696096801) | **Published:** May 26, 2026
-
----
-### Animation dynamique de lancement de fusée spatiale
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Anime une image de fusée spécifique pour créer une séquence de lancement cinématographique, incluant des flammes orange réalistes, des mouvements de caméra et des détails de marque spécifiques.
-
-#### 📝 Prompt
-
-```
-Animez la fusée exacte de l'image fournie lors de son décollage depuis la rampe de lancement. Fusée blanche avec nez rouge, « BG » sur le côté, flammes orange vif. Séquence de lancement dynamique avec mouvement de caméra.
-```
-
-<img src="https://cms-assets.youmind.com/media/1779871303352_3fau0d_HJQ-hgNWoAAkFaH.jpg" width="600" alt="Animation dynamique de lancement de fusée spatiale">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5327)**
-
-**Author:** [Number-One-AI-Fanboy](https://x.com/Number1AIFanboy) | **Source:** [Link](https://x.com/Number1AIFanboy/status/2059340120499650592) | **Published:** May 26, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2239,6 +2241,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-09T04:23:26.165Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-09T11:37:40.115Z</sub>
 
 </div>

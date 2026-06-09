@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **1767** |
+| 📝 提示词总数 | **1773** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-06-09** |
 
@@ -189,6 +189,122 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 暗黑电影感山谷
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于营造暗黑电影感山谷氛围的提示词，包含夜晚、雨天、风声和远处的雷鸣。
+
+#### 📝 提示词
+
+```
+夜晚的暗黑电影感山谷，远处雷鸣，冷风穿过松林，细雨落在石径上，微弱的灯笼火光闪烁，极具氛围感的环境音效，电影级写实感，深沉且富有情感的大提琴质感，d
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064094162887045120/img/TK2Y0Y70lfS8VQ-S.jpg" width="600" alt="暗黑电影感山谷">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5842)**
+
+**作者:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **来源:** [Link](https://x.com/gpimpmyspace/status/2064094365455200536) | **发布时间:** Jun 8, 2026
+
+---
+### 悠闲进食的女性
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个视频生成提示词，描述了一个角色在保持参考图像的姿势和光影一致性的前提下，悠闲进食的场景。
+
+#### 📝 提示词
+
+```
+参考图像中的女性现在正用手或餐具悠闲地进食，她一边吃一边神情放松，完全不受干扰，脸上带着一种无忧无虑、“不在乎”的表情，保持与原图相同的姿势、光影、服装和背景。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064060638016548864/img/MY2gDU7t8Wv2Xruy.jpg" width="600" alt="悠闲进食的女性">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5841)**
+
+**作者:** [Sas](https://x.com/SaSHeaven26) | **来源:** [Link](https://x.com/SaSHeaven26/status/2064060691057975428) | **发布时间:** Jun 8, 2026
+
+---
+### 飞船降落在外星行星
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个电影级的视频提示词，展示人们从飞船中走出，踏上一颗拥有可呼吸大气层和虹彩云朵的葱郁新行星。
+
+#### 📝 提示词
+
+```
+特写镜头：人们从飞船中走出，踏上一颗拥有可呼吸大气层、生长着树木和植被以及虹彩云朵的新行星
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064002009267621888/img/2TzCqxOVqSnDfOSu.jpg" width="600" alt="飞船降落在外星行星">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5840)**
+
+**作者:** [Susan Vaden Meseraull](https://x.com/SusanVadenMeser) | **来源:** [Link](https://x.com/SusanVadenMeser/status/2064002062912811445) | **发布时间:** Jun 8, 2026
+
+---
+### 婚礼视频摄像机镜头书写
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于 Grok Imagine 的电影感视频提示词，旨在通过一张图片作为固定末帧，制作一段新郎在镜头上书写并微笑的婚礼场景动画。
+
+#### 📝 提示词
+
+```
+请使用附图作为末帧，制作一段 6 秒的视频。
+新郎在摄像机镜头上写完“Happy Wedding”中的“g”字，随后直视镜头并温柔微笑。新娘保持原位，微笑着轻轻摆动裙摆。摄像机保持完全固定，无平移、倾斜、缩放或任何镜头移动。
+请勿对白色文字或插图进行动画处理或移动。完全保留附图的艺术风格。请勿添加、删除或更改附图中的任何元素。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063884383002763264/img/zH2VyVw3LWPC2RI8.jpg" width="600" alt="婚礼视频摄像机镜头书写">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5843)**
+
+**作者:** [サン｜Sun](https://x.com/sunsunshine0318) | **来源:** [Link](https://x.com/sunsunshine0318/status/2063885288854737223) | **发布时间:** Jun 8, 2026
+
+---
+### 空灵的水下哀愁
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个复杂的艺术提示词，描述了一个缓慢移动、空灵的水下场景，传达出一种精神上的忧伤。
+
+#### 📝 提示词
+
+```
+定焦镜头。美学风格、物质的悲伤与荒诞感传达出深层的精神痛苦。半透明的水中发丝缓慢漂浮，并吐出细小的气泡。手中白鱼微微抽动。蓝色与铁锈红色的衣物在沉闷的暗流中轻微摇曳。背景中的阴影缓慢流动。严格保持原画的冷色调。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063870144032743424/img/Zz0bagBqS8dnm89U.jpg" width="600" alt="空灵的水下哀愁">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5838)**
+
+**作者:** [Zidan](https://x.com/liluocheng13) | **来源:** [Link](https://x.com/liluocheng13/status/2063870222260691134) | **发布时间:** Jun 8, 2026
+
+---
+### 迷人的暮色童话小屋
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个关于暮色中发光小屋的魔法视频提示词，包含蝴蝶和飘落的花瓣。
+
+#### 📝 提示词
+
+```
+暮色中温馨而迷人的小屋，散发着柔和的光芒……玫瑰盛开，蝴蝶翩翩起舞，花瓣纷纷飘落。纯粹的童话魔法。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063825890694328320/img/E-uYYRxq-ZofOn49.jpg" width="600" alt="迷人的暮色童话小屋">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5839)**
+
+**作者:** [James King](https://x.com/JamesKi97287119) | **来源:** [Link](https://x.com/JamesKi97287119/status/2063826044860223731) | **发布时间:** Jun 8, 2026
+
+---
 ### 空灵精灵女性肖像
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -201,7 +317,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 照片级写实肖像，空灵美丽的精灵女性，优雅的侧后视角展现轮廓与上半身，低头垂眸，神情忧郁柔和，苍白如瓷的肌肤带有真实的纹理与毛孔，自然光泽，长而飘逸的银白色头发编成精致的侧辫，真实的发丝与碎发垂落在肩头，精致的尖耳朵上佩戴着华丽的金色珍珠耳挂，上背部与肩部有巨大的复杂黑红色纹身：盛开的红玫瑰缠绕在锋利的荆棘藤蔓中，超写实的阴影与皮肤互动，精致破损的白色蕾丝裙从肩头滑落，磨损的边缘展现出真实的织物纹理与蕾丝细节，纯粹的深黑色极简背景，戏剧性的忧郁氛围，柔和的体积光与精致的轮廓光，电影质感且高度写实，优雅而神秘。
 ```
 
-<img src="https://cms-assets.youmind.com/media/1780909178133_9ggu2r_HKOn2ZDXYAApIGa.jpg" width="600" alt="空灵精灵女性肖像">
+<img src="https://cms-assets.youmind.com/media/1780994432843_ktemf8_HKOn2ZDXYAApIGa.jpg" width="600" alt="空灵精灵女性肖像">
 
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5802)**
 
@@ -900,7 +1016,7 @@ Capa 1 - 场景：我面部的特写镜头，深色长湿发随风飘动，浓�
 高级城市速写本美学，真实的手绘建筑与景观速写。
 ```
 
-<img src="https://cms-assets.youmind.com/media/1780477585114_4zo7j1_HJzTnT_aMAAJMFG.jpg" width="600" alt="中央公园城市速写海报">
+<img src="https://cms-assets.youmind.com/media/1780994433496_ycrf87_HJzTnT_aMAAJMFG.jpg" width="600" alt="中央公园城市速写海报">
 
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5637)**
 
@@ -2063,120 +2179,6 @@ AI 生成的曼哈顿超高层塔楼，430 米垂直结构，由计算减法工�
 **作者:** [Jean](https://x.com/SpaceScoutsIntl) | **来源:** [Link](https://x.com/SpaceScoutsIntl/status/2059554674324426973) | **发布时间:** May 27, 2026
 
 ---
-### 月光下的彩绘玻璃仪式
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段详细的视频提示词，描绘了一位女性在满月下升起，周围环绕着彩绘玻璃、星光以及日落的余晖。
-
-#### 📝 提示词
-
-```
-在满月的注视下，她缓缓升起。彩绘玻璃与星光交织，天空中仍残留着日落的最后一抹余晖。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/53f43c2ea40cfc942002c8e0b4c8d265/thumbnails/thumbnail.jpg" width="600" alt="月光下的彩绘玻璃仪式">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5330)**
-
-**作者:** [DuBoseJen](https://x.com/DuBosefire) | **来源:** [Link](https://x.com/DuBosefire/status/2059492955270828342) | **发布时间:** May 27, 2026
-
----
-### 达芬奇风格日历机
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段复杂的视频提示词，描述了一款以列奥纳多·达芬奇手稿风格呈现的精密机械日历，包含相互啮合的青铜齿轮和行星排列。
-
-#### 📝 提示词
-
-```
-（在适用情况下，想象一幅达芬奇风格的草图：就像他《大西洋古抄本》中的齿轮组，但这是为了记录时间本身——相互啮合的青铜齿轮上分别标注着“埃及 360 天”、“金星彗星轨道”和“火星弹弓效应”，随着轴心的突然倾斜，机械装置发生破裂；微小的人类形象（法老、玛雅祭司）争先恐后地添加五个“圣日”，同时一股行星漩涡以完美的文艺复兴透视法重新排列整个日历机！）
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e2755189a8a5222d278167ca4f77645f/thumbnails/thumbnail.jpg" width="600" alt="达芬奇风格日历机">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5353)**
-
-**作者:** [the don of hockey](https://x.com/don_allain) | **来源:** [Link](https://x.com/don_allain/status/2059451078807114105) | **发布时间:** May 27, 2026
-
----
-### 神奇花园小矮人视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个充满奇幻色彩的 grok-imagine 视频提示词：两个花园小矮人手触碰在一起，瞬间触发天空向璀璨银河的星际蜕变。
-
-#### 📝 提示词
-
-```
-一个男性花园小矮人伸手触碰女性花园小矮人的手，随后天空迸发出繁星与银河
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e3740808f8371b8cc1db5d839f1121a/thumbnails/thumbnail.jpg" width="600" alt="神奇花园小矮人视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5356)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2059436913640267902) | **发布时间:** May 27, 2026
-
----
-### 未来感母女插画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个关于未来感数字插画的提示词，旨在描绘科幻风格下母女之间的深厚情感。
-
-#### 📝 提示词
-
-```
-一张 BlueGoo 和 Vera 的未来感数字插画，母女之爱永远是答案
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8ab81211c8db51b535152148a750a172/thumbnails/thumbnail.jpg" width="600" alt="未来感母女插画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5358)**
-
-**作者:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **来源:** [Link](https://x.com/TLouisevsughan/status/2059431777593344125) | **发布时间:** May 27, 2026
-
----
-### Cybernetic Space 书籍推广
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一个以太空为背景的创意书籍广告视频提示词，包含旋转的金色 Starlink 卫星和赛博格套装变形效果。
-
-#### 📝 提示词
-
-```
-通过双手在身前展示这本书来进行广告宣传。背景设定在太空。Starlink 卫星伴随着金光旋转，套装呈现出赛博风格的辉光。Akinari Tomimasu 的标志闪烁并赛博化。最后，它变形为一个伴随着强烈闪光的赛博机器人。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dea8f2476897ef9f1f5915b1de8a4a11/thumbnails/thumbnail.jpg" width="600" alt="Cybernetic Space 书籍推广">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5332)**
-
-**作者:** [富増章成🌐のんびり哲学たまにマンガ](https://x.com/thomasaqnya) | **来源:** [Link](https://x.com/thomasaqnya/status/2059344772696096801) | **发布时间:** May 26, 2026
-
----
-### 动态火箭发射动画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 将指定的火箭图像制作成电影级的发射序列动画，包含逼真的橙色火焰、摄像机运动以及特定的品牌细节。
-
-#### 📝 提示词
-
-```
-将所提供图像中的火箭制作成从发射台升空的动画。火箭为白色，带有红色鼻锥，侧面印有“BG”字样，喷射出明亮的橙色火焰。包含摄像机运动的动态发射序列。
-```
-
-<img src="https://cms-assets.youmind.com/media/1779871303352_3fau0d_HJQ-hgNWoAAkFaH.jpg" width="600" alt="动态火箭发射动画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5327)**
-
-**作者:** [Number-One-AI-Fanboy](https://x.com/Number1AIFanboy) | **来源:** [Link](https://x.com/Number1AIFanboy/status/2059340120499650592) | **发布时间:** May 26, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2238,6 +2240,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-06-09T04:23:15.650Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-06-09T11:37:26.556Z</sub>
 
 </div>

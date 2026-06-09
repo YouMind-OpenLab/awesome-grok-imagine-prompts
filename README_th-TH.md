@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1767** |
+| 📝 Total Prompts | **1773** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-09** |
 
@@ -189,6 +189,122 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### หุบเขาภูเขาในบรรยากาศภาพยนตร์โทนดาร์ก
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สร้างบรรยากาศสำหรับหุบเขาภูเขาในยามค่ำคืนสไตล์ภาพยนตร์โทนดาร์ก พร้อมสายฝน ลมพัด และเสียงฟ้าร้องจากระยะไกล
+
+#### 📝 Prompt
+
+```
+หุบเขาภูเขาในยามค่ำคืนสไตล์ภาพยนตร์โทนดาร์ก, เสียงฟ้าร้องจากระยะไกล, ลมหนาวพัดผ่านป่าสน, ฝนตกปรอยๆ บนทางเดินหิน, เสียงเปลวไฟจากโคมไฟที่ปะทุเบาๆ, บรรยากาศสภาพแวดล้อมที่สมจริง, ความสมจริงแบบภาพยนตร์, เสียงเชลโลที่ให้ความรู้สึกลึกซึ้ง, d
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064094162887045120/img/TK2Y0Y70lfS8VQ-S.jpg" width="600" alt="หุบเขาภูเขาในบรรยากาศภาพยนตร์โทนดาร์ก">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5842)**
+
+**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2064094365455200536) | **Published:** Jun 8, 2026
+
+---
+### หญิงสาวผ่อนคลายกำลังรับประทานอาหาร
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างวิดีโอที่อธิบายถึงตัวละครที่กำลังรับประทานอาหารอย่างสบายๆ โดยยังคงความสม่ำเสมอของท่าทางและแสงจากภาพอ้างอิง
+
+#### 📝 Prompt
+
+```
+หญิงสาวจากภาพอ้างอิงกำลังรับประทานอาหารอย่างสบายๆ ด้วยมือหรืออุปกรณ์รับประทานอาหาร โดยกัดอาหารคำหนึ่งขณะที่มีท่าทางผ่อนคลายและดูไม่ทุกข์ร้อนแต่อย่างใด ด้วยสีหน้าที่ดู "ไม่สนใจโลก" โดยยังคงท่าทาง แสง เสื้อผ้า และพื้นหลังเดิมไว้
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064060638016548864/img/MY2gDU7t8Wv2Xruy.jpg" width="600" alt="หญิงสาวผ่อนคลายกำลังรับประทานอาหาร">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5841)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2064060691057975428) | **Published:** Jun 8, 2026
+
+---
+### ยานอวกาศลงจอดบนดาวเคราะห์ต่างดาว
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง (Prompt) สำหรับสร้างวิดีโอแนวภาพยนตร์ แสดงภาพผู้คนกำลังเดินออกจากยานอวกาศลงสู่ดาวเคราะห์ดวงใหม่ที่อุดมสมบูรณ์ มีชั้นบรรยากาศที่หายใจได้ และก้อนเมฆสีรุ้งแวววาว
+
+#### 📝 Prompt
+
+```
+ภาพระยะใกล้ของผู้คนกำลังเดินออกจากยานอวกาศบนดาวเคราะห์ดวงใหม่ที่มีชั้นบรรยากาศหายใจได้ มีต้นไม้และพืชพรรณกำลังเติบโต และก้อนเมฆสีรุ้งแวววาว
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064002009267621888/img/2TzCqxOVqSnDfOSu.jpg" width="600" alt="ยานอวกาศลงจอดบนดาวเคราะห์ต่างดาว">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5840)**
+
+**Author:** [Susan Vaden Meseraull](https://x.com/SusanVadenMeser) | **Source:** [Link](https://x.com/SusanVadenMeser/status/2064002062912811445) | **Published:** Jun 8, 2026
+
+---
+### การเขียนบนเลนส์กล้องในวิดีโองานแต่งงาน
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวภาพยนตร์สำหรับ Grok Imagine เพื่อสร้างแอนิเมชันฉากงานแต่งงานที่เจ้าบ่าวเขียนบนเลนส์กล้องแล้วยิ้ม โดยใช้ภาพนิ่งเป็นเฟรมสุดท้าย
+
+#### 📝 Prompt
+
+```
+ใช้ภาพที่แนบมาเป็นเฟรมสุดท้ายและสร้างวิดีโอความยาว 6 วินาที
+เจ้าบ่าวเขียนคำว่า “Happy Wedding” โดยกำลังเขียนตัวอักษร “g” บนเลนส์กล้อง จากนั้นหันมามองกล้องโดยตรงแล้วยิ้มอย่างอ่อนโยน เจ้าสาวอยู่ในตำแหน่งเดิม ยิ้มพร้อมกับแกว่งชุดเบาๆ กล้องจะอยู่นิ่งสนิท ไม่มีการแพน เอียง ซูม หรือเคลื่อนไหวกล้องใดๆ
+ห้ามทำแอนิเมชันหรือเคลื่อนย้ายข้อความสีขาวหรือภาพประกอบ ให้คงสไตล์ศิลปะของภาพที่แนบมาไว้อย่างครบถ้วน ห้ามเพิ่ม ลบ หรือเปลี่ยนแปลงองค์ประกอบใดๆ จากภาพที่แนบมา
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063884383002763264/img/zH2VyVw3LWPC2RI8.jpg" width="600" alt="การเขียนบนเลนส์กล้องในวิดีโองานแต่งงาน">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5843)**
+
+**Author:** [サン｜Sun](https://x.com/sunsunshine0318) | **Source:** [Link](https://x.com/sunsunshine0318/status/2063885288854737223) | **Published:** Jun 8, 2026
+
+---
+### ความโศกเศร้าอันเลื่อนลอยใต้ผืนน้ำ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์งานศิลปะที่ซับซ้อนซึ่งบรรยายถึงฉากใต้น้ำที่เคลื่อนไหวอย่างเชื่องช้าและดูเลื่อนลอย เพื่อถ่ายทอดความรู้สึกเศร้าโศกทางจิตวิญญาณ
+
+#### 📝 Prompt
+
+```
+เลนส์ฟิกซ์ สไตล์ความงาม ความเศร้าโศกเชิงวัตถุ และความไร้เหตุผลที่ถ่ายทอดความเจ็บปวดทางจิตวิญญาณอย่างลึกซึ้ง เส้นผมที่ดูโปร่งแสงราวกับสายน้ำลอยตัวอย่างเชื่องช้าและปล่อยฟองอากาศเล็กๆ ออกมา ปลาสีขาวในมือของเขากระตุกเบาๆ เสื้อผ้าสีน้ำเงินและสีแดงสนิมแกว่งไกวเล็กน้อยในกระแสน้ำที่นิ่งสงบ เงาในพื้นหลังไหลผ่านอย่างช้าๆ โดยยังคงรักษาโทนสีเย็นของภาพวาดต้นฉบับไว้อย่างเคร่งครัด
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063870144032743424/img/Zz0bagBqS8dnm89U.jpg" width="600" alt="ความโศกเศร้าอันเลื่อนลอยใต้ผืนน้ำ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5838)**
+
+**Author:** [Zidan](https://x.com/liluocheng13) | **Source:** [Link](https://x.com/liluocheng13/status/2063870222260691134) | **Published:** Jun 8, 2026
+
+---
+### กระท่อมเทพนิยายท่ามกลางแสงสนธยาสุดมหัศจรรย์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์สุดมหัศจรรย์สำหรับกระท่อมเรืองแสงท่ามกลางแสงสนธยา พร้อมด้วยผีเสื้อและกลีบดอกไม้ที่ร่วงหล่น
+
+#### 📝 Prompt
+
+```
+กระท่อมแสนอบอุ่นในเทพนิยายที่เปล่งประกายท่ามกลางแสงสนธยา... ดอกกุหลาบผลิบาน ผีเสื้อเริงระบำ และกลีบดอกไม้ที่ร่วงหล่น ราวกับเวทมนตร์จากเทพนิยายอย่างแท้จริง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063825890694328320/img/E-uYYRxq-ZofOn49.jpg" width="600" alt="กระท่อมเทพนิยายท่ามกลางแสงสนธยาสุดมหัศจรรย์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5839)**
+
+**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2063826044860223731) | **Published:** Jun 8, 2026
+
+---
 ### ภาพพอร์ตเทรตหญิงสาวเอลฟ์ผู้สง่างาม
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -201,7 +317,7 @@ Why use our gallery?
 ภาพพอร์ตเทรตสมจริง, หญิงสาวเอลฟ์ผู้สวยงามและดูเลอค่า, มุมมองด้านข้างค่อนไปทางด้านหลังที่เผยให้เห็นรูปร่างและช่วงบน, ก้มหน้าลงพร้อมสีหน้าเศร้าสร้อยอย่างนุ่มนวล, ผิวขาวดุจกระเบื้องเคลือบพร้อมพื้นผิวและรูขุมขนที่สมจริง, เปล่งประกายอย่างเป็นธรรมชาติ, ผมยาวสลวยสีเงินขาวถักเปียด้านข้างอย่างประณีตพร้อมเส้นผมที่ดูสมจริงและไรผมที่พลิ้วไหวลงมาบนไหล่, หูเอลฟ์แหลมเรียวประดับด้วยที่ครอบหูมุกสีทองอันวิจิตร, รอยสักสีดำและแดงขนาดใหญ่ที่ซับซ้อนบริเวณหลังส่วนบนและหัวไหล่: ดอกกุหลาบสีแดงบานสะพรั่งพันด้วยเถาหนามแหลมคม, การลงเงาและการตอบสนองของผิวหนังที่สมจริงขั้นสูง, ชุดลูกไม้สีขาวขาดวิ่นที่หลุดจากไหล่, ขอบรุ่ยพร้อมพื้นผิวผ้าและรายละเอียดลูกไม้ที่สมจริง, พื้นหลังสีดำสนิทแบบมินิมอล, บรรยากาศที่ดูหม่นและมีอารมณ์ร่วม, แสงวอลูเมตริกนุ่มนวลพร้อมแสงขอบที่ละเอียดอ่อน, ให้ความรู้สึกแบบภาพยนตร์แต่สมจริง, สง่างามและลึกลับ
 ```
 
-<img src="https://cms-assets.youmind.com/media/1780909178133_9ggu2r_HKOn2ZDXYAApIGa.jpg" width="600" alt="ภาพพอร์ตเทรตหญิงสาวเอลฟ์ผู้สง่างาม">
+<img src="https://cms-assets.youmind.com/media/1780994432843_ktemf8_HKOn2ZDXYAApIGa.jpg" width="600" alt="ภาพพอร์ตเทรตหญิงสาวเอลฟ์ผู้สง่างาม">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5802)**
 
@@ -900,7 +1016,7 @@ Batman กำลังขับรถผ่านถนนยามค่ำค�
 สุนทรียศาสตร์แบบสมุดสเก็ตช์เมืองระดับพรีเมียม สถาปัตยกรรมและภาพสเก็ตช์ทิวทัศน์ที่วาดด้วยมืออย่างแท้จริง
 ```
 
-<img src="https://cms-assets.youmind.com/media/1780477585114_4zo7j1_HJzTnT_aMAAJMFG.jpg" width="600" alt="โปสเตอร์ภาพสเก็ตช์เมือง Central Park">
+<img src="https://cms-assets.youmind.com/media/1780994433496_ycrf87_HJzTnT_aMAAJMFG.jpg" width="600" alt="โปสเตอร์ภาพสเก็ตช์เมือง Central Park">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5637)**
 
@@ -2064,120 +2180,6 @@ Hermes ได้รับรองเท้าบินได้สุดเร�
 **Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2059554674324426973) | **Published:** May 27, 2026
 
 ---
-### พิธีกรรมกระจกสีใต้แสงจันทร์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์แบบละเอียดที่แสดงภาพหญิงสาวกำลังลุกขึ้นภายใต้แสงจันทร์เต็มดวง ท่ามกลางกระจกสีและแสงดาว พร้อมด้วยโทนสีของยามพระอาทิตย์ตกดิน
-
-#### 📝 Prompt
-
-```
-ภายใต้สายตาของดวงจันทร์เต็มดวง เธอค่อย ๆ ลุกขึ้น ท่ามกลางกระจกสีและแสงดาว ที่ซึ่งสีสันสุดท้ายของยามพระอาทิตย์ตกดินยังคงหลงเหลืออยู่บนท้องฟ้า
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/53f43c2ea40cfc942002c8e0b4c8d265/thumbnails/thumbnail.jpg" width="600" alt="พิธีกรรมกระจกสีใต้แสงจันทร์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5330)**
-
-**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2059492955270828342) | **Published:** May 27, 2026
-
----
-### เครื่องปฏิทินกลไกสไตล์ดาวินชี
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์ที่บรรยายถึงกลไกปฏิทินอันซับซ้อนในสไตล์ภาพสเก็ตช์ของ เลโอนาร์โด ดา วินชี โดยมีฟันเฟืองทองเหลืองขัดประสานกันและการเรียงตัวของดวงดาว
-
-#### 📝 Prompt
-
-```
-(หากนึกภาพตาม ให้ลองจินตนาการถึงภาพสเก็ตช์สไตล์ดาวินชี: เหมือนชุดเฟืองใน Codex Atlanticus ของเขาแต่เป็นกลไกสำหรับบอกเวลา—ฟันเฟืองทองเหลืองที่ขัดประสานกันระบุชื่อว่า “360 วันอียิปต์” “เส้นทางดาวศุกร์” และ “วงโคจรดาวอังคาร” พร้อมด้วยแกนหมุนที่เอียงกะทันหันจนทำให้กลไกเกิดรอยร้าว; มีร่างมนุษย์ตัวจิ๋ว (ฟาโรห์, นักบวชชาวมายา) กำลังเร่งรีบเพื่อเพิ่ม “วันศักดิ์สิทธิ์” อีกห้าวัน ในขณะที่กระแสหมุนวนของดวงดาวกำลังจัดเรียงเครื่องปฏิทินกลไกนี้ใหม่ให้เข้าที่ในมุมมองแบบเรอเนซองส์ที่สมบูรณ์แบบ!)
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e2755189a8a5222d278167ca4f77645f/thumbnails/thumbnail.jpg" width="600" alt="เครื่องปฏิทินกลไกสไตล์ดาวินชี">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5353)**
-
-**Author:** [the don of hockey](https://x.com/don_allain) | **Source:** [Link](https://x.com/don_allain/status/2059451078807114105) | **Published:** May 27, 2026
-
----
-### วิดีโอเหล่าโนมในสวนสุดมหัศจรรย์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอจาก grok-imagine สุดแฟนตาซีที่โนมในสวนสองตัวสัมผัสมือกัน นำไปสู่การเปลี่ยนแปลงของท้องฟ้าให้กลายเป็นทางช้างเผือกที่เต็มไปด้วยดวงดาว
-
-#### 📝 Prompt
-
-```
-โนมสวนตัวผู้เอื้อมมือไปสัมผัสมือของโนมสวนตัวเมีย แล้วท้องฟ้าก็ระเบิดออกเป็นดวงดาวและทางช้างเผือก
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e3740808f8371b8cc1db5d839f1121a/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอเหล่าโนมในสวนสุดมหัศจรรย์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5356)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2059436913640267902) | **Published:** May 27, 2026
-
----
-### ภาพประกอบแม่ลูกแห่งโลกอนาคต
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) สำหรับสร้างภาพประกอบดิจิทัลแนวไซไฟที่ถ่ายทอดความผูกพันระหว่างแม่และลูกสาว
-
-#### 📝 Prompt
-
-```
-ภาพประกอบดิจิทัลแห่งโลกอนาคตของ BlueGoo และ Vera ในหัวข้อ ความรักระหว่างแม่ลูกคือคำตอบเสมอ
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8ab81211c8db51b535152148a750a172/thumbnails/thumbnail.jpg" width="600" alt="ภาพประกอบแม่ลูกแห่งโลกอนาคต">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5358)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2059431777593344125) | **Published:** May 27, 2026
-
----
-### โปรโมทหนังสือ Cybernetic Space
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> พรอมต์วิดีโอเชิงสร้างสรรค์สำหรับโฆษณาหนังสือในธีมอวกาศ นำเสนอภาพดาวเทียม Starlink สีทองที่หมุนวนและการเปลี่ยนชุดเป็นสไตล์ไซเบอร์เนติก
-
-#### 📝 Prompt
-
-```
-โฆษณาโดยการถือหนังสือเล่มนี้ไว้ด้วยสองมือที่ด้านหน้า ฉากหลังเป็นอวกาศ มีดาวเทียม Starlink หมุนวนพร้อมแสงสีทอง และชุดที่ส่องประกายในสไตล์ไซเบอร์ โลโก้ของ Akinari Tomimasu ปรากฏขึ้นและเปลี่ยนเป็นรูปแบบไซเบอร์ ในตอนท้ายจะเปลี่ยนร่างเป็นหุ่นยนต์ไซเบอร์พร้อมแสงกะพริบที่เข้มข้น
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dea8f2476897ef9f1f5915b1de8a4a11/thumbnails/thumbnail.jpg" width="600" alt="โปรโมทหนังสือ Cybernetic Space">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5332)**
-
-**Author:** [富増章成🌐のんびり哲学たまにマンガ](https://x.com/thomasaqnya) | **Source:** [Link](https://x.com/thomasaqnya/status/2059344772696096801) | **Published:** May 26, 2026
-
----
-### แอนิเมชันการปล่อยจรวดอวกาศแบบไดนามิก
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> สร้างแอนิเมชันจากภาพจรวดที่กำหนดให้กลายเป็นลำดับการปล่อยตัวแบบภาพยนตร์ โดยมีเปลวไฟสีส้มที่สมจริง การเคลื่อนไหวของกล้อง และรายละเอียดของแบรนด์ที่เฉพาะเจาะจง
-
-#### 📝 Prompt
-
-```
-สร้างแอนิเมชันจรวดจากภาพที่ให้มาโดยเริ่มปล่อยตัวจากฐาน จรวดสีขาวที่มีส่วนหัวสีแดง มีตัวอักษร 'BG' อยู่ด้านข้าง พร้อมเปลวไฟสีส้มสว่างสดใส เป็นลำดับการปล่อยตัวแบบไดนามิกพร้อมการเคลื่อนไหวของกล้อง
-```
-
-<img src="https://cms-assets.youmind.com/media/1779871303352_3fau0d_HJQ-hgNWoAAkFaH.jpg" width="600" alt="แอนิเมชันการปล่อยจรวดอวกาศแบบไดนามิก">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5327)**
-
-**Author:** [Number-One-AI-Fanboy](https://x.com/Number1AIFanboy) | **Source:** [Link](https://x.com/Number1AIFanboy/status/2059340120499650592) | **Published:** May 26, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2239,6 +2241,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-09T04:23:19.800Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-09T11:37:32.558Z</sub>
 
 </div>

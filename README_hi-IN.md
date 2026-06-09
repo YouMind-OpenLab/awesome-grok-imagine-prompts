@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1767** |
+| 📝 Total Prompts | **1773** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-09** |
 
@@ -189,6 +189,122 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### डार्क सिनेमैटिक माउंटेन वैली
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> रात के समय बारिश, हवा और दूर होती गड़गड़ाहट के साथ एक डार्क, सिनेमैटिक माउंटेन वैली के लिए एक एटमॉस्फेरिक प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+रात में डार्क सिनेमैटिक माउंटेन वैली, दूर होती गड़गड़ाहट, देवदार के जंगलों से गुजरती ठंडी हवा, पत्थर के रास्तों पर हल्की बारिश, लालटेन की धीमी लौ का चटकना, एटमॉस्फेरिक एनवायर्नमेंटल एम्बिएंस, सिनेमैटिक रियलिज्म, गहरे इमोशनल सेलो टेक्सचर, d
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064094162887045120/img/TK2Y0Y70lfS8VQ-S.jpg" width="600" alt="डार्क सिनेमैटिक माउंटेन वैली">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5842)**
+
+**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2064094365455200536) | **Published:** Jun 8, 2026
+
+---
+### आराम से खाना खाती महिला
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वीडियो जनरेशन प्रॉम्प्ट जो एक ऐसे कैरेक्टर का वर्णन करता है जो संदर्भ छवि (reference image) से पोज़ और लाइटिंग में निरंतरता बनाए रखते हुए आराम से खाना खा रही है।
+
+#### 📝 Prompt
+
+```
+संदर्भ छवि (reference image) वाली महिला अब अपने हाथों या किसी बर्तन से आराम से खाना खा रही है, एक निवाला ले रही है और पूरी तरह से तनावमुक्त और बेफिक्र दिख रही है, उसके चेहरे पर एक लापरवाह "परवाह न करने" वाला भाव है, वही पोज़, लाइटिंग, कपड़े और बैकग्राउंड
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064060638016548864/img/MY2gDU7t8Wv2Xruy.jpg" width="600" alt="आराम से खाना खाती महिला">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5841)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2064060691057975428) | **Published:** Jun 8, 2026
+
+---
+### एलियन ग्रह पर उतरता हुआ अंतरिक्ष यान
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वीडियो के लिए सिनेमाई प्रॉम्प्ट, जिसमें लोगों को एक अंतरिक्ष यान से बाहर निकलकर एक हरे-भरे नए ग्रह पर कदम रखते हुए दिखाया गया है, जहाँ सांस लेने योग्य वातावरण और इंद्रधनुषी बादल हैं।
+
+#### 📝 Prompt
+
+```
+सांस लेने योग्य वातावरण, उगते पेड़ों और वनस्पति, और इंद्रधनुषी बादलों वाले एक नए ग्रह पर अंतरिक्ष यान से बाहर निकलते लोगों का क्लोजअप
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064002009267621888/img/2TzCqxOVqSnDfOSu.jpg" width="600" alt="एलियन ग्रह पर उतरता हुआ अंतरिक्ष यान">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5840)**
+
+**Author:** [Susan Vaden Meseraull](https://x.com/SusanVadenMeser) | **Source:** [Link](https://x.com/SusanVadenMeser/status/2064002062912811445) | **Published:** Jun 8, 2026
+
+---
+### वेडिंग वीडियो कैमरा लेंस राइटिंग
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक सिनेमैटिक वीडियो प्रॉम्प्ट, जिसमें एक शादी के दृश्य को एनिमेट करना है जहाँ दूल्हा लेंस पर लिखता है और मुस्कुराता है, जिसमें एक इमेज का उपयोग फिक्स्ड एंड फ्रेम के रूप में किया गया है।
+
+#### 📝 Prompt
+
+```
+संलग्न इमेज का उपयोग एंड फ्रेम के रूप में करें और 6 सेकंड का वीडियो बनाएं।
+दूल्हा कैमरा लेंस पर “Happy Wedding” के “g” को लिखना पूरा करता है, फिर सीधे कैमरे में देखता है और धीरे से मुस्कुराता है। दुल्हन उसी स्थिति में रहती है, मुस्कुराते हुए और धीरे-धीरे अपनी ड्रेस को लहराते हुए। कैमरा पूरी तरह से स्थिर रहता है, जिसमें कोई पैन, टिल्ट, ज़ूम या कैमरा मूवमेंट नहीं है।
+सफेद टेक्स्ट या इलस्ट्रेशन को एनिमेट या मूव न करें। संलग्न इमेज की आर्ट स्टाइल को पूरी तरह से सुरक्षित रखें। संलग्न इमेज से किसी भी तत्व को न जोड़ें, न हटाएं और न ही बदलें।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063884383002763264/img/zH2VyVw3LWPC2RI8.jpg" width="600" alt="वेडिंग वीडियो कैमरा लेंस राइटिंग">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5843)**
+
+**Author:** [サン｜Sun](https://x.com/sunsunshine0318) | **Source:** [Link](https://x.com/sunsunshine0318/status/2063885288854737223) | **Published:** Jun 8, 2026
+
+---
+### अलौकिक पानी के नीचे का दुख
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक जटिल कलात्मक प्रॉम्प्ट जो आध्यात्मिक उदासी को व्यक्त करने वाले, धीरे-धीरे चलते हुए, अलौकिक पानी के नीचे के दृश्य का वर्णन करता है।
+
+#### 📝 Prompt
+
+```
+फिक्स्ड लेंस। सुंदरता, भौतिक उदासी और बेतुकेपन की शैली गहरे आध्यात्मिक दर्द को व्यक्त करती है। पारभासी पानी जैसे बाल धीरे-धीरे तैरते हैं और छोटे बुलबुले छोड़ते हैं। उसके हाथ में मौजूद सफेद मछली ने हल्की सी हलचल की। नीले और जंग लगे लाल रंग के कपड़े मंद जलधारा में हल्के से डगमगा रहे हैं। पृष्ठभूमि में छाया धीरे-धीरे बह रही है। मूल पेंटिंग के कूल टोन को सख्ती से बनाए रखें।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063870144032743424/img/Zz0bagBqS8dnm89U.jpg" width="600" alt="अलौकिक पानी के नीचे का दुख">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5838)**
+
+**Author:** [Zidan](https://x.com/liluocheng13) | **Source:** [Link](https://x.com/liluocheng13/status/2063870222260691134) | **Published:** Jun 8, 2026
+
+---
+### जादुई गोधूलि बेला का परी कथा कॉटेज
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> गोधूलि बेला में चमकते हुए एक कॉटेज के लिए एक जादुई वीडियो प्रॉम्प्ट, जिसमें तितलियाँ और गिरती हुई पंखुड़ियाँ हैं।
+
+#### 📝 Prompt
+
+```
+गोधूलि बेला में चमकता हुआ आरामदायक जादुई कॉटेज... गुलाब खिल रहे हैं, तितलियाँ नाच रही हैं, पंखुड़ियाँ गिर रही हैं। शुद्ध परी कथा जैसा जादू।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063825890694328320/img/E-uYYRxq-ZofOn49.jpg" width="600" alt="जादुई गोधूलि बेला का परी कथा कॉटेज">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5839)**
+
+**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2063826044860223731) | **Published:** Jun 8, 2026
+
+---
 ### अलौकिक एल्फ महिला का पोर्ट्रेट
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -201,7 +317,7 @@ Why use our gallery?
 फोटो-रियलिस्टिक पोर्ट्रेट, अलौकिक रूप से सुंदर एल्फ महिला, सुरुचिपूर्ण साइड-बैक व्यू जो सिल्हूट और ऊपरी शरीर को दर्शाता है, नीचे की ओर देखती हुई कोमल उदास अभिव्यक्ति, यथार्थवादी बनावट और रोमछिद्रों वाली पीली चीनी मिट्टी जैसी त्वचा, प्राकृतिक चमक, जटिल साइड ब्रेड में लंबे लहराते चांदी-सफेद बाल, कंधे पर गिरते यथार्थवादी स्ट्रैंड्स और फ्लाईअवे, अलंकृत सुनहरे मोती के ईयर कफ के साथ नाजुक नुकीले एल्फ कान, ऊपरी पीठ और कंधे पर बड़ा जटिल काला और लाल टैटू: नुकीली कांटेदार लताओं में लिपटा हुआ खिलता लाल गुलाब, हाइपर-रियलिस्टिक शेडिंग और त्वचा की बनावट, कंधों से खिसकती नाजुक फटी हुई सफेद लेस ड्रेस, यथार्थवादी कपड़े की बनावट और लेस विवरण के साथ किनारों से उधड़ी हुई, ठोस गहरा काला मिनिमलिस्ट बैकग्राउंड, नाटकीय मूडी वातावरण, नाजुक रिम लाइट के साथ सॉफ्ट वॉल्यूमेट्रिक लाइटिंग, सिनेमैटिक और फोटो-रियलिस्टिक, सुरुचिपूर्ण और रहस्यमयी।
 ```
 
-<img src="https://cms-assets.youmind.com/media/1780909178133_9ggu2r_HKOn2ZDXYAApIGa.jpg" width="600" alt="अलौकिक एल्फ महिला का पोर्ट्रेट">
+<img src="https://cms-assets.youmind.com/media/1780994432843_ktemf8_HKOn2ZDXYAApIGa.jpg" width="600" alt="अलौकिक एल्फ महिला का पोर्ट्रेट">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5802)**
 
@@ -900,7 +1016,7 @@ Superman ऊपर तैरते हुए पेड़ से बिल्ल
 प्रीमियम अर्बन स्केचबुक सौंदर्य, प्रामाणिक हाथ से बनाई गई वास्तुकला और लैंडस्केप स्केच।
 ```
 
-<img src="https://cms-assets.youmind.com/media/1780477585114_4zo7j1_HJzTnT_aMAAJMFG.jpg" width="600" alt="सेंट्रल पार्क अर्बन स्केच पोस्टर">
+<img src="https://cms-assets.youmind.com/media/1780994433496_ycrf87_HJzTnT_aMAAJMFG.jpg" width="600" alt="सेंट्रल पार्क अर्बन स्केच पोस्टर">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5637)**
 
@@ -2064,120 +2180,6 @@ AI द्वारा निर्मित मैनहट्टन में �
 **Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2059554674324426973) | **Published:** May 27, 2026
 
 ---
-### मूनलाइट स्टेन्ड ग्लास रिचुअल
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक विस्तृत वीडियो प्रॉम्प्ट जिसमें एक महिला पूर्णिमा के नीचे, स्टेन्ड ग्लास और तारों की रोशनी के बीच, सूर्यास्त के रंगों के साथ उठती हुई दिखाई देती है।
-
-#### 📝 Prompt
-
-```
-पूर्णिमा की दृष्टि के नीचे, वह उठती है। स्टेन्ड ग्लास और तारों की रोशनी, जहाँ सूर्यास्त के अंतिम रंग अभी भी आकाश में बने हुए हैं।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/53f43c2ea40cfc942002c8e0b4c8d265/thumbnails/thumbnail.jpg" width="600" alt="मूनलाइट स्टेन्ड ग्लास रिचुअल">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5330)**
-
-**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2059492955270828342) | **Published:** May 27, 2026
-
----
-### दा विंची स्टाइल कैलेंडर मशीन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> लियोनार्डो दा विंची के रेखाचित्रों की शैली में एक जटिल यांत्रिक कैलेंडर का वर्णन करने वाला एक विस्तृत वीडियो प्रॉम्प्ट, जिसमें आपस में जुड़े हुए कांस्य के पहिये और ग्रहों का संरेखण शामिल है।
-
-#### 📝 Prompt
-
-```
-(जहाँ लागू हो, दा विंची-शैली के रेखाचित्र की कल्पना करें: जैसे उनके कोडेक्स अटलांटिकस (Codex Atlanticus) के गियर ट्रेन, लेकिन समय के लिए—आपस में जुड़े हुए कांस्य के पहिये जिन पर “360-day Egypt,” “Venus comet path,” और “Mars sling” अंकित हैं, साथ ही एक अचानक धुरी का झुकाव जो तंत्र को तोड़ रहा है; छोटे मानव आंकड़े (फिरौन, माया पुजारी) पांच “पवित्र दिन” जोड़ने के लिए संघर्ष कर रहे हैं, जबकि ग्रहों का एक घूमता हुआ भंवर पूरी कैलेंडर मशीन को पुनर्जागरण काल के सटीक परिप्रेक्ष्य में फिर से संरेखित कर रहा है!)
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e2755189a8a5222d278167ca4f77645f/thumbnails/thumbnail.jpg" width="600" alt="दा विंची स्टाइल कैलेंडर मशीन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5353)**
-
-**Author:** [the don of hockey](https://x.com/don_allain) | **Source:** [Link](https://x.com/don_allain/status/2059451078807114105) | **Published:** May 27, 2026
-
----
-### जादुई गार्डन ग्नोम्स वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक मनमोहक grok-imagine वीडियो प्रॉम्प्ट जहाँ दो गार्डन ग्नोम्स एक-दूसरे का हाथ छूते हैं, जिससे आकाश में एक दिव्य परिवर्तन होता है और वह तारों भरी आकाशगंगा में बदल जाता है।
-
-#### 📝 Prompt
-
-```
-एक पुरुष गार्डन ग्नोम दूसरे महिला गार्डन ग्नोम का हाथ छूता है और आकाश तारों और आकाशगंगा (Milky Way) से जगमगा उठता है
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e3740808f8371b8cc1db5d839f1121a/thumbnails/thumbnail.jpg" width="600" alt="जादुई गार्डन ग्नोम्स वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5356)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2059436913640267902) | **Published:** May 27, 2026
-
----
-### भविष्यवादी माँ और बेटी का चित्रण
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक भविष्यवादी डिजिटल चित्रण के लिए प्रॉम्प्ट, जो विज्ञान-कथा (sci-fi) शैली में माँ और बेटी के बीच के बंधन को दर्शाता है।
-
-#### 📝 Prompt
-
-```
-BlueGoo और Vera का एक भविष्यवादी डिजिटल चित्रण, माँ और बेटी का प्यार हमेशा जवाब होता है
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8ab81211c8db51b535152148a750a172/thumbnails/thumbnail.jpg" width="600" alt="भविष्यवादी माँ और बेटी का चित्रण">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5358)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2059431777593344125) | **Published:** May 27, 2026
-
----
-### Cybernetic Space Book Promotion
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> अंतरिक्ष में सेट की गई एक पुस्तक के विज्ञापन के लिए एक रचनात्मक वीडियो प्रॉम्प्ट, जिसमें घूमते हुए सुनहरे Starlink सैटेलाइट और एक साइबरनेटिक सूट का रूपांतरण दिखाया गया है।
-
-#### 📝 Prompt
-
-```
-इस पुस्तक को दोनों हाथों से सामने पकड़कर विज्ञापन करें। पृष्ठभूमि बाहरी अंतरिक्ष है। Starlink सैटेलाइट सुनहरी रोशनी के साथ घूम रहे हैं, और सूट साइबर शैली में चमक रहा है। Akinari Tomimasu का लोगो चमकता है और साइबर रूप ले लेता है। अंत में, यह तीव्र चमक के साथ एक साइबर एंड्रॉइड में बदल जाता है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dea8f2476897ef9f1f5915b1de8a4a11/thumbnails/thumbnail.jpg" width="600" alt="Cybernetic Space Book Promotion">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5332)**
-
-**Author:** [富増章成🌐のんびり哲学たまにマンガ](https://x.com/thomasaqnya) | **Source:** [Link](https://x.com/thomasaqnya/status/2059344772696096801) | **Published:** May 26, 2026
-
----
-### डायनामिक स्पेस रॉकेट लॉन्च एनिमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक विशिष्ट रॉकेट इमेज को सिनेमैटिक लॉन्च सीक्वेंस में एनिमेट करता है, जिसमें यथार्थवादी नारंगी लपटें, कैमरा मूवमेंट और विशिष्ट ब्रांडिंग विवरण शामिल हैं।
-
-#### 📝 Prompt
-
-```
-दी गई इमेज से सटीक रॉकेट को पैड से लॉन्च होते हुए एनिमेट करें। लाल नोज़ वाला सफ़ेद रॉकेट, साइड में 'BG' लिखा हुआ, और चमकदार नारंगी लपटें। कैमरा मूवमेंट के साथ डायनामिक लॉन्च सीक्वेंस।
-```
-
-<img src="https://cms-assets.youmind.com/media/1779871303352_3fau0d_HJQ-hgNWoAAkFaH.jpg" width="600" alt="डायनामिक स्पेस रॉकेट लॉन्च एनिमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5327)**
-
-**Author:** [Number-One-AI-Fanboy](https://x.com/Number1AIFanboy) | **Source:** [Link](https://x.com/Number1AIFanboy/status/2059340120499650592) | **Published:** May 26, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2239,6 +2241,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-09T04:23:22.222Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-09T11:37:35.004Z</sub>
 
 </div>

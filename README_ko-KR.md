@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **1767** |
+| 📝 총 프롬프트 수 | **1773** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-06-09** |
 
@@ -189,6 +189,122 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 어둡고 영화 같은 산골짜기
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 비, 바람, 멀리서 들리는 천둥소리가 어우러진 밤의 어둡고 영화 같은 산골짜기를 위한 분위기 있는 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+밤의 어둡고 영화 같은 산골짜기, 멀리서 들리는 천둥소리, 소나무 숲을 가로지르는 차가운 바람, 돌길 위로 내리는 가벼운 빗줄기, 은은하게 타오르는 등불의 불꽃, 분위기 있는 환경적 앰비언스, 영화적 사실주의, 깊은 감성의 첼로 선율, d
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064094162887045120/img/TK2Y0Y70lfS8VQ-S.jpg" width="600" alt="어둡고 영화 같은 산골짜기">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5842)**
+
+**작성자:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **출처:** [Link](https://x.com/gpimpmyspace/status/2064094365455200536) | **게시일:** Jun 8, 2026
+
+---
+### 음식을 먹으며 여유를 즐기는 여성
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 참조 이미지의 자세와 조명을 일관되게 유지하면서 캐릭터가 자연스럽게 음식을 먹는 모습을 묘사하는 비디오 생성 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+참조 이미지 속 여성이 손이나 도구를 사용해 자연스럽게 음식을 먹고 있습니다. 여유롭고 아무런 걱정이 없는 듯한 표정으로 한 입 베어 물고 있으며, 이전과 동일한 자세, 조명, 의상 및 배경이 유지됩니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064060638016548864/img/MY2gDU7t8Wv2Xruy.jpg" width="600" alt="음식을 먹으며 여유를 즐기는 여성">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5841)**
+
+**작성자:** [Sas](https://x.com/SaSHeaven26) | **출처:** [Link](https://x.com/SaSHeaven26/status/2064060691057975428) | **게시일:** Jun 8, 2026
+
+---
+### 외계 행성에 착륙한 우주선
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 숨을 쉴 수 있는 대기와 무지갯빛 구름으로 가득한 새로운 행성에 우주선이 착륙하고, 사람들이 밖으로 나오는 모습을 담은 영화 같은 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+숨을 쉴 수 있는 대기와 울창한 나무, 식물이 자라는 새로운 행성에서 우주선 밖으로 나오는 사람들의 클로즈업 샷, 무지갯빛 구름
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064002009267621888/img/2TzCqxOVqSnDfOSu.jpg" width="600" alt="외계 행성에 착륙한 우주선">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5840)**
+
+**작성자:** [Susan Vaden Meseraull](https://x.com/SusanVadenMeser) | **출처:** [Link](https://x.com/SusanVadenMeser/status/2064002062912811445) | **게시일:** Jun 8, 2026
+
+---
+### 웨딩 비디오 카메라 렌즈 글쓰기
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine을 사용하여 신랑이 렌즈에 글을 쓰고 미소 짓는 웨딩 장면을 애니메이션으로 만드는 시네마틱 비디오 프롬프트입니다. 첨부된 이미지를 고정된 마지막 프레임으로 사용합니다.
+
+#### 📝 프롬프트
+
+```
+첨부된 이미지를 마지막 프레임으로 사용하여 6초 분량의 영상을 제작하세요.
+신랑이 카메라 렌즈에 “Happy Wedding”의 마지막 글자인 “g”를 다 쓰고 나서, 카메라를 정면으로 응시하며 부드럽게 미소 짓습니다. 신부는 같은 위치에서 드레스를 살랑거리며 미소 짓고 있습니다. 카메라는 팬, 틸트, 줌 또는 기타 움직임 없이 완전히 고정된 상태를 유지합니다.
+흰색 텍스트나 일러스트는 애니메이션 효과를 주거나 움직이지 마세요. 첨부된 이미지의 아트 스타일을 완벽하게 유지하세요. 첨부된 이미지의 어떤 요소도 추가, 제거 또는 변경하지 마세요.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063884383002763264/img/zH2VyVw3LWPC2RI8.jpg" width="600" alt="웨딩 비디오 카메라 렌즈 글쓰기">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5843)**
+
+**작성자:** [サン｜Sun](https://x.com/sunsunshine0318) | **출처:** [Link](https://x.com/sunsunshine0318/status/2063885288854737223) | **게시일:** Jun 8, 2026
+
+---
+### 몽환적인 수중의 슬픔
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 영적인 슬픔을 자아내는 느리고 몽환적인 수중 장면을 묘사한 복합적인 예술 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+고정 렌즈. 미적 스타일, 물질적 슬픔, 그리고 부조리가 깊은 영적 고통을 전달합니다. 반투명한 물결 모양의 머리카락이 천천히 떠다니며 작은 거품을 내뿜습니다. 손에 든 흰 물고기가 희미하게 꿈틀거립니다. 파란색과 녹슨 붉은색 옷이 탁한 저류 속에서 가볍게 흔들립니다. 배경의 그림자가 천천히 흐릅니다. 원화의 차가운 톤을 엄격하게 유지하십시오.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063870144032743424/img/Zz0bagBqS8dnm89U.jpg" width="600" alt="몽환적인 수중의 슬픔">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5838)**
+
+**작성자:** [Zidan](https://x.com/liluocheng13) | **출처:** [Link](https://x.com/liluocheng13/status/2063870222260691134) | **게시일:** Jun 8, 2026
+
+---
+### 매혹적인 황혼의 동화 속 오두막
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 황혼 무렵 나비와 꽃잎이 흩날리는 빛나는 오두막을 위한 마법 같은 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+황혼 무렵 은은하게 빛나는 아늑하고 매혹적인 오두막… 장미가 피어나고 나비가 춤추며 꽃잎이 흩날립니다. 순수한 동화 속 마법 같은 풍경입니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063825890694328320/img/E-uYYRxq-ZofOn49.jpg" width="600" alt="매혹적인 황혼의 동화 속 오두막">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5839)**
+
+**작성자:** [James King](https://x.com/JamesKi97287119) | **출처:** [Link](https://x.com/JamesKi97287119/status/2063826044860223731) | **게시일:** Jun 8, 2026
+
+---
 ### 신비로운 엘프 여성 초상화
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -201,7 +317,7 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 실사 초상화, 신비롭고 아름다운 엘프 여성, 실루엣과 상반신이 드러나는 우아한 측후면 뷰, 부드럽고 우울한 표정으로 아래를 내려다보는 모습, 사실적인 피부 질감과 모공이 살아있는 창백한 도자기 피부, 자연스러운 광채, 어깨 위로 흘러내리는 사실적인 머릿결과 잔머리가 돋보이는 정교한 옆 땋은 은백색 긴 머리, 화려한 금색 진주 이어 커프를 착용한 섬세하고 뾰족한 엘프 귀, 등 위쪽과 어깨에 새겨진 크고 정교한 검은색과 빨간색 문신: 날카로운 가시 덩굴에 감긴 활짝 핀 붉은 장미, 초현실적인 명암 처리와 피부 표현, 어깨에서 흘러내리는 섬세하고 낡은 흰색 레이스 드레스, 사실적인 원단 질감과 레이스 디테일이 살아있는 해진 가장자리, 단색의 깊은 검은색 미니멀한 배경, 드라마틱하고 분위기 있는 연출, 섬세한 림 라이트가 가미된 부드러운 볼류메트릭 조명, 시네마틱하면서도 사실적인 느낌, 우아하고 신비로운 분위기.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1780909178133_9ggu2r_HKOn2ZDXYAApIGa.jpg" width="600" alt="신비로운 엘프 여성 초상화">
+<img src="https://cms-assets.youmind.com/media/1780994432843_ktemf8_HKOn2ZDXYAApIGa.jpg" width="600" alt="신비로운 엘프 여성 초상화">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5802)**
 
@@ -900,7 +1016,7 @@ Capa 1 - 장면: 내 얼굴을 정면에서 포착한 강렬한 클로즈업, �
 프리미엄 어반 스케치북 미학, 진정한 수작업 건축 및 풍경 스케치.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1780477585114_4zo7j1_HJzTnT_aMAAJMFG.jpg" width="600" alt="센트럴 파크 어반 스케치 포스터">
+<img src="https://cms-assets.youmind.com/media/1780994433496_ycrf87_HJzTnT_aMAAJMFG.jpg" width="600" alt="센트럴 파크 어반 스케치 포스터">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5637)**
 
@@ -2064,120 +2180,6 @@ AI가 생성한 맨해튼의 초고층 타워, 컴퓨테이셔널 서브트랙�
 **작성자:** [Jean](https://x.com/SpaceScoutsIntl) | **출처:** [Link](https://x.com/SpaceScoutsIntl/status/2059554674324426973) | **게시일:** May 27, 2026
 
 ---
-### 달빛 스테인드글라스 리추얼
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 보름달 아래 스테인드글라스와 별빛, 그리고 노을빛이 어우러진 공간에서 깨어나는 여성을 담은 상세한 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-보름달의 시선 아래, 그녀가 깨어난다. 스테인드글라스와 별빛 사이로, 하늘에는 마지막 노을빛이 여전히 머물러 있다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/53f43c2ea40cfc942002c8e0b4c8d265/thumbnails/thumbnail.jpg" width="600" alt="달빛 스테인드글라스 리추얼">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5330)**
-
-**작성자:** [DuBoseJen](https://x.com/DuBosefire) | **출처:** [Link](https://x.com/DuBosefire/status/2059492955270828342) | **게시일:** May 27, 2026
-
----
-### 다 빈치 스타일의 달력 기계
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 레오나르도 다 빈치의 스케치 스타일로 구현된 복잡한 기계식 달력을 묘사하는 정교한 비디오 프롬프트입니다. 맞물려 돌아가는 청동 톱니바퀴와 행성 정렬이 특징입니다.
-
-#### 📝 프롬프트
-
-```
-(해당되는 경우, 다 빈치 스타일의 스케치를 상상해 보세요: 그의 '코덱스 아틀란티쿠스(Codex Atlanticus)'에 등장하는 기어 트레인과 같지만 시간 그 자체를 위한 기계입니다. “360일 이집트력”, “금성 혜성 궤도”, “화성 슬링”이라고 적힌 맞물린 청동 톱니바퀴들이 있고, 갑작스러운 축 기울어짐으로 기계 장치에 균열이 생깁니다. 작은 인간 형상들(파라오, 마야 사제들)이 5일의 “성스러운 날”을 추가하기 위해 분주히 움직이는 동안, 행성들의 소용돌이가 르네상스 시대의 완벽한 원근법 속에서 달력 기계 전체를 다시 정렬합니다!)
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e2755189a8a5222d278167ca4f77645f/thumbnails/thumbnail.jpg" width="600" alt="다 빈치 스타일의 달력 기계">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5353)**
-
-**작성자:** [the don of hockey](https://x.com/don_allain) | **출처:** [Link](https://x.com/don_allain/status/2059451078807114105) | **게시일:** May 27, 2026
-
----
-### 마법의 정원 요정 비디오
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 두 정원 요정이 손을 맞잡자 하늘이 별이 빛나는 은하수로 변하는 마법 같은 장면을 담은 grok-imagine 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-정원 수컷 요정이 암컷 요정의 손을 잡자 하늘이 별과 은하수로 화려하게 변합니다
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e3740808f8371b8cc1db5d839f1121a/thumbnails/thumbnail.jpg" width="600" alt="마법의 정원 요정 비디오">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5356)**
-
-**작성자:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **출처:** [Link](https://x.com/HawkinsonLindy/status/2059436913640267902) | **게시일:** May 27, 2026
-
----
-### 미래지향적인 엄마와 딸 일러스트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> SF 스타일로 엄마와 딸의 유대감을 표현한 미래지향적 디지털 일러스트 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-BlueGoo와 Vera의 미래지향적인 디지털 일러스트, 엄마와 딸의 사랑은 언제나 정답이다
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8ab81211c8db51b535152148a750a172/thumbnails/thumbnail.jpg" width="600" alt="미래지향적인 엄마와 딸 일러스트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5358)**
-
-**작성자:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **출처:** [Link](https://x.com/TLouisevsughan/status/2059431777593344125) | **게시일:** May 27, 2026
-
----
-### 사이버네틱 우주 도서 프로모션
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 우주를 배경으로 소용돌이치는 황금빛 Starlink 위성과 사이버네틱 슈트 변신 장면이 포함된 창의적인 도서 광고 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-양손으로 이 책을 정면에 들고 광고하세요. 배경은 우주 공간입니다. Starlink 위성이 황금빛을 내뿜으며 소용돌이치고, 슈트는 사이버 스타일로 빛납니다. Akinari Tomimasu 로고가 번쩍이며 사이버화됩니다. 마지막으로 강렬한 섬광과 함께 사이버 안드로이드로 변신합니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dea8f2476897ef9f1f5915b1de8a4a11/thumbnails/thumbnail.jpg" width="600" alt="사이버네틱 우주 도서 프로모션">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5332)**
-
-**작성자:** [富増章成🌐のんびり哲学たまにマンガ](https://x.com/thomasaqnya) | **출처:** [Link](https://x.com/thomasaqnya/status/2059344772696096801) | **게시일:** May 26, 2026
-
----
-### 역동적인 우주 로켓 발사 애니메이션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 제공된 로켓 이미지를 영화 같은 발사 시퀀스로 애니메이션화하며, 사실적인 주황색 화염, 카메라 움직임 및 특정 브랜딩 디테일을 포함합니다.
-
-#### 📝 프롬프트
-
-```
-제공된 이미지의 로켓이 발사대에서 이륙하는 모습을 애니메이션으로 구현하세요. 빨간색 노즈 콘과 측면에 'BG' 로고가 있는 흰색 로켓이며, 밝은 주황색 화염이 특징입니다. 카메라 움직임을 포함한 역동적인 발사 시퀀스를 생성하세요.
-```
-
-<img src="https://cms-assets.youmind.com/media/1779871303352_3fau0d_HJQ-hgNWoAAkFaH.jpg" width="600" alt="역동적인 우주 로켓 발사 애니메이션">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5327)**
-
-**작성자:** [Number-One-AI-Fanboy](https://x.com/Number1AIFanboy) | **출처:** [Link](https://x.com/Number1AIFanboy/status/2059340120499650592) | **게시일:** May 26, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2239,6 +2241,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-09T04:23:18.605Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-09T11:37:31.378Z</sub>
 
 </div>

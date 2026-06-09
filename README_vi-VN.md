@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1767** |
+| 📝 Total Prompts | **1773** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-09** |
 
@@ -189,6 +189,122 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Thung lũng núi phong cách điện ảnh u tối
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) đầy không khí về thung lũng núi phong cách điện ảnh u tối vào ban đêm với mưa, gió và tiếng sấm từ xa.
+
+#### 📝 Prompt
+
+```
+Thung lũng núi phong cách điện ảnh u tối vào ban đêm, tiếng sấm từ xa, gió lạnh thổi qua những cánh rừng thông, mưa nhẹ rơi trên những lối đi bằng đá, tiếng lửa đèn lồng tí tách, không gian môi trường đầy cảm xúc, hiện thực điện ảnh, kết cấu âm thanh cello sâu lắng, d
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064094162887045120/img/TK2Y0Y70lfS8VQ-S.jpg" width="600" alt="Thung lũng núi phong cách điện ảnh u tối">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5842)**
+
+**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2064094365455200536) | **Published:** Jun 8, 2026
+
+---
+### Người phụ nữ thư thái đang ăn
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video mô tả nhân vật đang ăn một cách tự nhiên trong khi vẫn duy trì sự nhất quán về tư thế và ánh sáng từ hình ảnh tham chiếu.
+
+#### 📝 Prompt
+
+```
+Người phụ nữ từ hình ảnh tham chiếu hiện đang ăn một cách tự nhiên bằng tay hoặc dụng cụ, cô ấy cắn một miếng với vẻ mặt thư thái và hoàn toàn thoải mái, biểu cảm "không quan tâm" đầy vô tư, giữ nguyên tư thế, ánh sáng, trang phục và bối cảnh
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064060638016548864/img/MY2gDU7t8Wv2Xruy.jpg" width="600" alt="Người phụ nữ thư thái đang ăn">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5841)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2064060691057975428) | **Published:** Jun 8, 2026
+
+---
+### Tàu vũ trụ hạ cánh xuống hành tinh lạ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) đậm chất điện ảnh cho video mô tả cảnh mọi người bước ra từ tàu vũ trụ để đặt chân lên một hành tinh mới tươi tốt, có bầu khí quyển dễ thở và những đám mây ngũ sắc.
+
+#### 📝 Prompt
+
+```
+Cận cảnh mọi người bước ra từ tàu vũ trụ trên một hành tinh mới với bầu khí quyển dễ thở, cây cối và thảm thực vật đang phát triển, cùng những đám mây ngũ sắc
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064002009267621888/img/2TzCqxOVqSnDfOSu.jpg" width="600" alt="Tàu vũ trụ hạ cánh xuống hành tinh lạ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5840)**
+
+**Author:** [Susan Vaden Meseraull](https://x.com/SusanVadenMeser) | **Source:** [Link](https://x.com/SusanVadenMeser/status/2064002062912811445) | **Published:** Jun 8, 2026
+
+---
+### Viết chữ lên ống kính máy quay trong video đám cưới
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) video điện ảnh dành cho Grok Imagine để tạo hoạt ảnh cho cảnh đám cưới, trong đó chú rể viết lên ống kính và mỉm cười, sử dụng hình ảnh làm khung hình kết thúc cố định.
+
+#### 📝 Prompt
+
+```
+Sử dụng hình ảnh đính kèm làm khung hình kết thúc và tạo một video dài 6 giây.
+Chú rể viết xong chữ “g” trong cụm từ “Happy Wedding” lên ống kính máy quay, sau đó nhìn thẳng vào ống kính và mỉm cười nhẹ nhàng. Cô dâu giữ nguyên vị trí, mỉm cười và khẽ đung đưa váy. Máy quay được giữ cố định hoàn toàn, không lia, không nghiêng, không thu phóng và không có bất kỳ chuyển động nào.
+Không tạo hoạt ảnh hoặc di chuyển các văn bản hay hình minh họa màu trắng. Giữ nguyên hoàn toàn phong cách nghệ thuật của hình ảnh đính kèm. Không thêm, bớt hoặc thay đổi bất kỳ yếu tố nào từ hình ảnh đính kèm.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063884383002763264/img/zH2VyVw3LWPC2RI8.jpg" width="600" alt="Viết chữ lên ống kính máy quay trong video đám cưới">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5843)**
+
+**Author:** [サン｜Sun](https://x.com/sunsunshine0318) | **Source:** [Link](https://x.com/sunsunshine0318/status/2063885288854737223) | **Published:** Jun 8, 2026
+
+---
+### Nỗi buồn dưới đáy nước huyền ảo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh nghệ thuật phức tạp mô tả khung cảnh dưới nước chậm rãi, huyền ảo, truyền tải nỗi buồn tâm linh.
+
+#### 📝 Prompt
+
+```
+Ống kính cố định. Phong cách thẩm mỹ, nỗi buồn vật chất và sự phi lý truyền tải nỗi đau tâm linh sâu sắc. Mái tóc mờ ảo như làn nước trôi chậm rãi và tỏa ra những bong bóng nhỏ. Con cá trắng trên tay anh ta khẽ co giật. Bộ quần áo màu xanh lam và đỏ gỉ sét đung đưa nhẹ trong dòng chảy ngầm ảm đạm. Cái bóng ở hậu cảnh trôi chậm rãi. Duy trì nghiêm ngặt tông màu lạnh của bức tranh gốc.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063870144032743424/img/Zz0bagBqS8dnm89U.jpg" width="600" alt="Nỗi buồn dưới đáy nước huyền ảo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5838)**
+
+**Author:** [Zidan](https://x.com/liluocheng13) | **Source:** [Link](https://x.com/liluocheng13/status/2063870222260691134) | **Published:** Jun 8, 2026
+
+---
+### Ngôi nhà cổ tích trong ánh hoàng hôn huyền ảo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video đầy ma thuật về ngôi nhà nhỏ rực rỡ trong ánh hoàng hôn với những cánh bướm và cánh hoa rơi.
+
+#### 📝 Prompt
+
+```
+Ngôi nhà cổ tích ấm cúng tỏa sáng trong ánh hoàng hôn… hoa hồng nở rộ, những cánh bướm nhảy múa, cánh hoa rơi nhẹ. Một vẻ đẹp kỳ ảo đậm chất cổ tích.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063825890694328320/img/E-uYYRxq-ZofOn49.jpg" width="600" alt="Ngôi nhà cổ tích trong ánh hoàng hôn huyền ảo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5839)**
+
+**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2063826044860223731) | **Published:** Jun 8, 2026
+
+---
 ### Chân dung nữ yêu tinh thanh thoát
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -201,7 +317,7 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 chân dung chân thực, nữ yêu tinh xinh đẹp thanh thoát, góc nhìn nghiêng từ phía sau đầy thanh lịch làm nổi bật hình dáng và phần thân trên, ánh nhìn hướng xuống với biểu cảm u sầu nhẹ nhàng, làn da trắng sứ với kết cấu và lỗ chân lông chân thực, ánh sáng tự nhiên, mái tóc dài màu bạc trắng bồng bềnh tết lệch cầu kỳ với từng sợi tóc chân thực và những sợi tóc con xõa xuống vai, đôi tai yêu tinh nhọn tinh tế với khuyên tai ngọc trai vàng chạm trổ, hình xăm lớn phức tạp màu đen và đỏ trên lưng và vai: đóa hoa hồng đỏ nở rộ quấn quanh những dây leo đầy gai nhọn, đổ bóng siêu thực và sự tương tác trên da, chiếc váy ren trắng rách tinh tế trễ vai, các mép sờn với kết cấu vải chân thực và chi tiết ren, nền đen tối giản, bầu không khí điện ảnh đầy tâm trạng, ánh sáng khối dịu nhẹ với ánh sáng viền tinh tế, mang tính điện ảnh nhưng vẫn chân thực, thanh lịch và bí ẩn.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1780909178133_9ggu2r_HKOn2ZDXYAApIGa.jpg" width="600" alt="Chân dung nữ yêu tinh thanh thoát">
+<img src="https://cms-assets.youmind.com/media/1780994432843_ktemf8_HKOn2ZDXYAApIGa.jpg" width="600" alt="Chân dung nữ yêu tinh thanh thoát">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5802)**
 
@@ -900,7 +1016,7 @@ Minh họa nhật ký du lịch sang trọng,
 thẩm mỹ sổ phác thảo đô thị cao cấp, phác thảo kiến trúc và phong cảnh vẽ tay chân thực.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1780477585114_4zo7j1_HJzTnT_aMAAJMFG.jpg" width="600" alt="Áp phích phác thảo đô thị Công viên Trung tâm">
+<img src="https://cms-assets.youmind.com/media/1780994433496_ycrf87_HJzTnT_aMAAJMFG.jpg" width="600" alt="Áp phích phác thảo đô thị Công viên Trung tâm">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5637)**
 
@@ -2064,120 +2180,6 @@ Các phi hành gia nhí tương lai mặc áo ghi-lê Space Scout và trang ph�
 **Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2059554674324426973) | **Published:** May 27, 2026
 
 ---
-### Nghi thức Kính màu dưới ánh trăng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video chi tiết mô tả một người phụ nữ trỗi dậy dưới ánh trăng tròn, bao quanh bởi kính màu, ánh sao và sắc thái hoàng hôn.
-
-#### 📝 Prompt
-
-```
-Dưới ánh nhìn của trăng tròn, cô ấy trỗi dậy. Kính màu và ánh sao, nơi những sắc màu cuối cùng của hoàng hôn vẫn còn vương vấn trên bầu trời.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/53f43c2ea40cfc942002c8e0b4c8d265/thumbnails/thumbnail.jpg" width="600" alt="Nghi thức Kính màu dưới ánh trăng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5330)**
-
-**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2059492955270828342) | **Published:** May 27, 2026
-
----
-### Máy Lịch Phong cách Da Vinci
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt tinh xảo mô tả chiếc máy lịch cơ khí phức tạp theo phong cách phác thảo của Leonardo da Vinci, với các bánh răng bằng đồng lồng vào nhau và sự thẳng hàng của các hành tinh.
-
-#### 📝 Prompt
-
-```
-(Nếu có thể, hãy hình dung một bản phác thảo theo phong cách da Vinci: giống như các hệ thống bánh răng trong Codex Atlanticus của ông nhưng dành cho chính thời gian—các bánh răng bằng đồng lồng vào nhau được dán nhãn “360 ngày Ai Cập”, “quỹ đạo sao Kim”, và “quỹ đạo sao Hỏa”, với một trục nghiêng bất ngờ làm nứt cơ chế; những nhân vật nhỏ bé (các pharaoh, các tư tế Maya) vội vã thêm vào năm “ngày thánh” trong khi một cơn lốc xoáy của các hành tinh sắp xếp lại toàn bộ cỗ máy lịch theo phối cảnh thời Phục hưng hoàn hảo!)
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e2755189a8a5222d278167ca4f77645f/thumbnails/thumbnail.jpg" width="600" alt="Máy Lịch Phong cách Da Vinci">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5353)**
-
-**Author:** [the don of hockey](https://x.com/don_allain) | **Source:** [Link](https://x.com/don_allain/status/2059451078807114105) | **Published:** May 27, 2026
-
----
-### Video Những Chú Lùn Làm Vườn Kỳ Diệu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video grok-imagine đầy mê hoặc, nơi hai chú lùn làm vườn chạm tay nhau, kích hoạt sự biến đổi kỳ ảo của bầu trời thành Dải Ngân hà đầy sao.
-
-#### 📝 Prompt
-
-```
-Một chú lùn làm vườn nam vươn tay chạm vào tay cô lùn làm vườn nữ và bầu trời bùng nổ thành những vì sao cùng Dải Ngân hà
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e3740808f8371b8cc1db5d839f1121a/thumbnails/thumbnail.jpg" width="600" alt="Video Những Chú Lùn Làm Vườn Kỳ Diệu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5356)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2059436913640267902) | **Published:** May 27, 2026
-
----
-### Minh họa tương lai về mẹ và con gái
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) để tạo minh họa kỹ thuật số mang phong cách tương lai, khắc họa tình cảm gắn kết giữa mẹ và con gái theo phong cách khoa học viễn tưởng.
-
-#### 📝 Prompt
-
-```
-Một minh họa kỹ thuật số tương lai về BlueGoo và Vera, Tình yêu của Mẹ và Con gái luôn là câu trả lời
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8ab81211c8db51b535152148a750a172/thumbnails/thumbnail.jpg" width="600" alt="Minh họa tương lai về mẹ và con gái">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5358)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2059431777593344125) | **Published:** May 27, 2026
-
----
-### Quảng bá sách Cybernetic Space
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Một video prompt sáng tạo cho quảng cáo sách lấy bối cảnh không gian, với các vệ tinh Starlink vàng óng xoay tròn và màn biến hình bộ đồ điều khiển học.
-
-#### 📝 Prompt
-
-```
-Quảng cáo bằng cách cầm cuốn sách này bằng cả hai tay ở phía trước. Bối cảnh là không gian bên ngoài. Các vệ tinh Starlink xoay tròn với ánh sáng vàng rực rỡ, và bộ đồ phát sáng theo phong cách cyber. Logo của Akinari Tomimasu lóe sáng và trở nên kỹ thuật số hóa. Cuối cùng, nó biến hình thành một android cyber với những tia sáng mạnh mẽ.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dea8f2476897ef9f1f5915b1de8a4a11/thumbnails/thumbnail.jpg" width="600" alt="Quảng bá sách Cybernetic Space">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5332)**
-
-**Author:** [富増章成🌐のんびり哲学たまにマンガ](https://x.com/thomasaqnya) | **Source:** [Link](https://x.com/thomasaqnya/status/2059344772696096801) | **Published:** May 26, 2026
-
----
-### Hoạt ảnh phóng tên lửa không gian sống động
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Tạo hoạt ảnh cho hình ảnh tên lửa cụ thể thành một chuỗi cảnh phóng điện ảnh, với hiệu ứng ngọn lửa màu cam chân thực, chuyển động camera và các chi tiết thương hiệu cụ thể.
-
-#### 📝 Prompt
-
-```
-Tạo hoạt ảnh cho chính xác tên lửa từ hình ảnh được cung cấp khi đang phóng từ bệ phóng. Tên lửa màu trắng với phần mũi màu đỏ, có chữ 'BG' ở bên hông, cùng ngọn lửa màu cam rực rỡ. Chuỗi cảnh phóng sống động với chuyển động camera.
-```
-
-<img src="https://cms-assets.youmind.com/media/1779871303352_3fau0d_HJQ-hgNWoAAkFaH.jpg" width="600" alt="Hoạt ảnh phóng tên lửa không gian sống động">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5327)**
-
-**Author:** [Number-One-AI-Fanboy](https://x.com/Number1AIFanboy) | **Source:** [Link](https://x.com/Number1AIFanboy/status/2059340120499650592) | **Published:** May 26, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2239,6 +2241,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-09T04:23:21.033Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-09T11:37:33.764Z</sub>
 
 </div>

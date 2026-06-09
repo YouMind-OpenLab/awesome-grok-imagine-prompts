@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1767** |
+| 📝 Total Prompts | **1773** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-09** |
 
@@ -189,6 +189,122 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Dunkles filmisches Gebirgstal
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein atmosphärischer Prompt für ein dunkles, filmisches Gebirgstal bei Nacht mit Regen, Wind und entferntem Donner.
+
+#### 📝 Prompt
+
+```
+Dunkles filmisches Gebirgstal bei Nacht, entfernter Donner, kalter Wind, der durch Kiefernwälder weht, leichter Regen auf Steinwegen, subtiles Knistern einer Laternenflamme, atmosphärisches Umgebungsambiente, filmischer Realismus, tiefe, emotionale Cello-Texturen, d
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064094162887045120/img/TK2Y0Y70lfS8VQ-S.jpg" width="600" alt="Dunkles filmisches Gebirgstal">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5842)**
+
+**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2064094365455200536) | **Published:** Jun 8, 2026
+
+---
+### Entspannte Frau beim Essen
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Generierungs-Prompt, der eine Figur beschreibt, die beiläufig isst, während Pose und Beleuchtung konsistent zum Referenzbild bleiben.
+
+#### 📝 Prompt
+
+```
+Die Frau aus der Referenz isst nun beiläufig mit den Händen oder einem Besteck, nimmt einen Bissen und wirkt dabei entspannt und völlig unbeschwert, mit einem sorglosen „Ist mir egal“-Ausdruck im Gesicht; gleiche Pose, Beleuchtung, Kleidung und Hintergrund.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064060638016548864/img/MY2gDU7t8Wv2Xruy.jpg" width="600" alt="Entspannte Frau beim Essen">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5841)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2064060691057975428) | **Published:** Jun 8, 2026
+
+---
+### Raumschiff-Landung auf einem fremden Planeten
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein cineastischer Prompt für ein Video, das zeigt, wie Menschen ein Raumschiff auf einem üppigen neuen Planeten mit atembarer Atmosphäre und irisierenden Wolken verlassen.
+
+#### 📝 Prompt
+
+```
+Nahaufnahme von Menschen, die ein Raumschiff auf einem neuen Planeten mit atembarer Atmosphäre, wachsenden Bäumen und Vegetation sowie irisierenden Wolken verlassen
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064002009267621888/img/2TzCqxOVqSnDfOSu.jpg" width="600" alt="Raumschiff-Landung auf einem fremden Planeten">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5840)**
+
+**Author:** [Susan Vaden Meseraull](https://x.com/SusanVadenMeser) | **Source:** [Link](https://x.com/SusanVadenMeser/status/2064002062912811445) | **Published:** Jun 8, 2026
+
+---
+### Hochzeitsvideo Kameraobjektiv Beschriftung
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein cineastischer Video-Prompt für Grok Imagine, um eine Hochzeitsszene zu animieren, in der der Bräutigam auf das Objektiv schreibt und lächelt, wobei ein Bild als fester Endframe verwendet wird.
+
+#### 📝 Prompt
+
+```
+Verwenden Sie das angehängte Bild als Endframe und erstellen Sie ein 6-sekündiges Video.
+Der Bräutigam beendet das Schreiben von „Happy Wedding“ beim Buchstaben „g“ auf dem Kameraobjektiv, schaut dann direkt in die Kamera und lächelt sanft. Die Braut bleibt in derselben Position, lächelt und wiegt sanft ihr Kleid. Die Kamera bleibt komplett fixiert, ohne Schwenken, Neigen, Zoomen oder Kamerabewegungen.
+Animieren oder bewegen Sie weder den weißen Text noch die Illustrationen. Bewahren Sie den Kunststil des angehängten Bildes vollständig bei. Fügen Sie keine Elemente hinzu, entfernen Sie keine und verändern Sie nichts am angehängten Bild.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063884383002763264/img/zH2VyVw3LWPC2RI8.jpg" width="600" alt="Hochzeitsvideo Kameraobjektiv Beschriftung">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5843)**
+
+**Author:** [サン｜Sun](https://x.com/sunsunshine0318) | **Source:** [Link](https://x.com/sunsunshine0318/status/2063885288854737223) | **Published:** Jun 8, 2026
+
+---
+### Ätherische Unterwasser-Trauer
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein komplexer künstlerischer Prompt, der eine sich langsam bewegende, ätherische Unterwasserszene beschreibt, die spirituelle Traurigkeit vermittelt.
+
+#### 📝 Prompt
+
+```
+Festbrennweite. Der Stil der Schönheit, materiellen Traurigkeit und Absurdität vermittelt tiefen spirituellen Schmerz. Durchscheinendes, wässriges Haar schwebt langsam und stößt winzige Blasen aus. Der weiße Fisch in seiner Hand zuckte schwach. Die blauen und rostroten Kleidungsstücke wiegten sich leicht in der dumpfen Unterströmung. Der Schatten im Hintergrund fließt langsam. Behalten Sie den kühlen Ton des Originalgemäldes strikt bei.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063870144032743424/img/Zz0bagBqS8dnm89U.jpg" width="600" alt="Ätherische Unterwasser-Trauer">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5838)**
+
+**Author:** [Zidan](https://x.com/liluocheng13) | **Source:** [Link](https://x.com/liluocheng13/status/2063870222260691134) | **Published:** Jun 8, 2026
+
+---
+### Verzaubertes Märchenhaus in der Dämmerung
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein magischer Video-Prompt für ein leuchtendes Häuschen in der Dämmerung mit Schmetterlingen und fallenden Blütenblättern.
+
+#### 📝 Prompt
+
+```
+Gemütliches, verzaubertes Häuschen, das in der Dämmerung leuchtet… Rosen blühen, Schmetterlinge tanzen, Blütenblätter fallen. Reine Märchenmagie.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063825890694328320/img/E-uYYRxq-ZofOn49.jpg" width="600" alt="Verzaubertes Märchenhaus in der Dämmerung">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5839)**
+
+**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2063826044860223731) | **Published:** Jun 8, 2026
+
+---
 ### Porträt einer ätherischen Elfenfrau
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -201,7 +317,7 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 fotorealistisches Porträt, ätherisch schöne Elfenfrau, elegante Ansicht von schräg hinten, die Silhouette und Oberkörper zeigt, Blick nach unten mit sanftem, melancholischem Ausdruck, blasse Porzellanhaut mit realistischer Textur und Poren, natürlicher Glanz, langes, fließendes silberweißes Haar in einem kunstvollen seitlichen Zopf mit realistischen Strähnen und abstehenden Härchen, die über die Schulter fallen, zarte spitze Elfenohren mit kunstvoller goldener Perlen-Ear-Cuff, großes, komplexes schwarz-rotes Tattoo auf dem oberen Rücken und der Schulter: blühende rote Rose, umwunden von scharfen, dornigen Ranken, hyperrealistische Schattierung und Hautinteraktion, zartes, zerrissenes weißes Spitzenkleid, das von den Schultern rutscht, ausgefranste Kanten mit realistischer Stofftextur und Spitzendetails, solider, tiefschwarzer minimalistischer Hintergrund, dramatische, stimmungsvolle Atmosphäre, sanfte volumetrische Beleuchtung mit zartem Kantenlicht, filmreif und doch fotorealistisch, elegant und geheimnisvoll.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1780909178133_9ggu2r_HKOn2ZDXYAApIGa.jpg" width="600" alt="Porträt einer ätherischen Elfenfrau">
+<img src="https://cms-assets.youmind.com/media/1780994432843_ktemf8_HKOn2ZDXYAApIGa.jpg" width="600" alt="Porträt einer ätherischen Elfenfrau">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5802)**
 
@@ -900,7 +1016,7 @@ Luxuriöse Reisejournal-Illustration,
 hochwertige Urban-Skizzenbuch-Ästhetik, authentische handgezeichnete Architektur- und Landschaftsskizze.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1780477585114_4zo7j1_HJzTnT_aMAAJMFG.jpg" width="600" alt="Central Park Urban Sketch Poster">
+<img src="https://cms-assets.youmind.com/media/1780994433496_ycrf87_HJzTnT_aMAAJMFG.jpg" width="600" alt="Central Park Urban Sketch Poster">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5637)**
 
@@ -2063,120 +2179,6 @@ Junge zukünftige Astronauten in Space-Scout-Westen und dunkelgrauer Kleidung sc
 **Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2059554674324426973) | **Published:** May 27, 2026
 
 ---
-### Mondschein-Buntglas-Ritual
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Video-Prompt, der eine Frau zeigt, die unter einem Vollmond inmitten von Buntglas und Sternenlicht bei Sonnenuntergangsfarben aufsteigt.
-
-#### 📝 Prompt
-
-```
-Unter dem Blick des Vollmonds erhebt sie sich. Buntglas und Sternenlicht, wo die letzten Farben des Sonnenuntergangs noch am Himmel verweilen.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/53f43c2ea40cfc942002c8e0b4c8d265/thumbnails/thumbnail.jpg" width="600" alt="Mondschein-Buntglas-Ritual">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5330)**
-
-**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2059492955270828342) | **Published:** May 27, 2026
-
----
-### Kalendermaschine im Da-Vinci-Stil
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein komplexer Video-Prompt, der eine komplizierte mechanische Kalendermaschine im Stil von Leonardo da Vincis Skizzen beschreibt, mit ineinandergreifenden Bronzerädern und Planetenkonstellationen.
-
-#### 📝 Prompt
-
-```
-(Stellen Sie sich eine Skizze im Da-Vinci-Stil vor: wie seine Zahnradgetriebe aus dem Codex Atlanticus, nur für die Zeit selbst – ineinandergreifende Bronzeräder mit der Beschriftung „360-Tage Ägypten“, „Venus-Kometenbahn“ und „Mars-Schleuder“, wobei eine plötzliche Achsenneigung den Mechanismus zum Bersten bringt; winzige menschliche Figuren (Pharaonen, Maya-Priester) eilen herbei, um fünf „heilige Tage“ hinzuzufügen, während ein wirbelnder Strudel aus Planeten die gesamte Kalendermaschine in perfekter Renaissance-Perspektive neu ausrichtet!)
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e2755189a8a5222d278167ca4f77645f/thumbnails/thumbnail.jpg" width="600" alt="Kalendermaschine im Da-Vinci-Stil">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5353)**
-
-**Author:** [the don of hockey](https://x.com/don_allain) | **Source:** [Link](https://x.com/don_allain/status/2059451078807114105) | **Published:** May 27, 2026
-
----
-### Video von magischen Gartenzwergen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein skurriler grok-imagine-Videoprompt, bei dem sich zwei Gartenzwerge an den Händen berühren, was eine himmlische Verwandlung des Himmels in eine sternenklare Milchstraße auslöst.
-
-#### 📝 Prompt
-
-```
-Ein männlicher Gartenzwerg streckt die Hand aus und berührt die Hand eines weiblichen Gartenzwergs, woraufhin der Himmel in Sternen und der Milchstraße erstrahlt
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e3740808f8371b8cc1db5d839f1121a/thumbnails/thumbnail.jpg" width="600" alt="Video von magischen Gartenzwergen">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5356)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2059436913640267902) | **Published:** May 27, 2026
-
----
-### Futuristische Illustration von Mutter und Tochter
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für eine futuristische digitale Illustration, die die Bindung zwischen Mutter und Tochter im Sci-Fi-Stil darstellt.
-
-#### 📝 Prompt
-
-```
-Eine futuristische digitale Illustration von BlueGoo und Vera, Mutter-Tochter-Liebe ist immer die Antwort
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8ab81211c8db51b535152148a750a172/thumbnails/thumbnail.jpg" width="600" alt="Futuristische Illustration von Mutter und Tochter">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5358)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2059431777593344125) | **Published:** May 27, 2026
-
----
-### Promotion für das Cybernetic Space Buch
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein kreativer Video-Prompt für eine Buchwerbung im Weltraum, mit wirbelnden goldenen Starlink-Satelliten und einer Transformation in einen kybernetischen Anzug.
-
-#### 📝 Prompt
-
-```
-Werben Sie, indem Sie dieses Buch mit beiden Händen vor sich halten. Der Hintergrund ist das Weltall. Starlink-Satelliten wirbeln mit goldenem Licht umher und der Anzug leuchtet in einem Cyber-Stil. Das Logo von Akinari Tomimasu blitzt auf und wird kybernetisiert. Schließlich verwandelt es sich mit intensivem Blinken in einen Cyber-Androiden.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dea8f2476897ef9f1f5915b1de8a4a11/thumbnails/thumbnail.jpg" width="600" alt="Promotion für das Cybernetic Space Buch">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5332)**
-
-**Author:** [富増章成🌐のんびり哲学たまにマンガ](https://x.com/thomasaqnya) | **Source:** [Link](https://x.com/thomasaqnya/status/2059344772696096801) | **Published:** May 26, 2026
-
----
-### Dynamische Raketenstart-Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Animiert ein spezifisches Raketenbild in eine filmreife Startsequenz mit realistischen orangefarbenen Flammen, Kamerabewegungen und spezifischen Branding-Details.
-
-#### 📝 Prompt
-
-```
-Animieren Sie die exakte Rakete aus dem bereitgestellten Bild beim Start von der Rampe. Weiße Rakete mit roter Nase, 'BG' an der Seite, leuchtend orangefarbene Flammen. Dynamische Startsequenz mit Kamerabewegung.
-```
-
-<img src="https://cms-assets.youmind.com/media/1779871303352_3fau0d_HJQ-hgNWoAAkFaH.jpg" width="600" alt="Dynamische Raketenstart-Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5327)**
-
-**Author:** [Number-One-AI-Fanboy](https://x.com/Number1AIFanboy) | **Source:** [Link](https://x.com/Number1AIFanboy/status/2059340120499650592) | **Published:** May 26, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2238,6 +2240,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-09T04:23:25.229Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-09T11:37:38.914Z</sub>
 
 </div>

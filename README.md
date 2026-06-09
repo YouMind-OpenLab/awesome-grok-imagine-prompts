@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1767** |
+| 📝 Total Prompts | **1773** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-09** |
 
@@ -189,11 +189,127 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Dark Cinematic Mountain Valley
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An atmospheric prompt for a dark, cinematic mountain valley at night with rain, wind, and distant thunder.
+
+#### 📝 Prompt
+
+```
+Dark cinematic mountain valley at night, distant thunder, cold wind moving through pine forests, light rainfall on stone pathways, subtle lantern flame crackling, atmospheric environmental ambience, cinematic realism, deep emotional cello textures, d
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064094162887045120/img/TK2Y0Y70lfS8VQ-S.jpg" width="600" alt="Dark Cinematic Mountain Valley">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5842)**
+
+**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2064094365455200536) | **Published:** Jun 8, 2026
+
+---
+### Relaxed Woman Eating Food
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt that describes a character casually eating while maintaining consistency in pose and lighting from a reference image.
+
+#### 📝 Prompt
+
+```
+The woman from the reference is now casually eating food with her hands or a utensil, taking a bite while looking relaxed and completely unbothered, with a carefree "not caring" expression on her face, same pose, lighting, clothing, and background
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064060638016548864/img/MY2gDU7t8Wv2Xruy.jpg" width="600" alt="Relaxed Woman Eating Food">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5841)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2064060691057975428) | **Published:** Jun 8, 2026
+
+---
+### Spaceship Landing on Alien Planet
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic prompt for a video showing people exiting a spaceship onto a lush new planet with breathable atmosphere and iridescent clouds.
+
+#### 📝 Prompt
+
+```
+Closeup of people exiting a spaceship on a new planet with breathable atmosphere, growing trees and vegetation, iridescent clouds
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064002009267621888/img/2TzCqxOVqSnDfOSu.jpg" width="600" alt="Spaceship Landing on Alien Planet">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5840)**
+
+**Author:** [Susan Vaden Meseraull](https://x.com/SusanVadenMeser) | **Source:** [Link](https://x.com/SusanVadenMeser/status/2064002062912811445) | **Published:** Jun 8, 2026
+
+---
+### Wedding Video Camera Lens Writing
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt for Grok Imagine to animate a wedding scene where the groom writes on the lens and smiles, using an image as a fixed end frame.
+
+#### 📝 Prompt
+
+```
+Use the attached image as the end frame and make a video of 6-seconds.
+The groom finishes writing “Happy Wedding” of “g” on the camera lens, then looks directly into the camera and smiles gently. The bride stays in the same position, smiling while softly swaying her dress. The camera remains completely locked off, with no pan, tilt, zoom, or camera movement.
+Do not animate or move the white text or illustrations. Fully preserve the art style of the attached image. Do not add, remove, or alter any elements from the attached image.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063884383002763264/img/zH2VyVw3LWPC2RI8.jpg" width="600" alt="Wedding Video Camera Lens Writing">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5843)**
+
+**Author:** [サン｜Sun](https://x.com/sunsunshine0318) | **Source:** [Link](https://x.com/sunsunshine0318/status/2063885288854737223) | **Published:** Jun 8, 2026
+
+---
+### Ethereal Underwater Sorrow
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex artistic prompt describing a slow-moving, ethereal underwater scene conveying spiritual sadness.
+
+#### 📝 Prompt
+
+```
+Fixed lens. The style of beauty, material sadness and absurdity conveys deep spiritual pain. Translucent watery hair floats slowly and emits tiny bubbles. The white fish in his hand made a faint twitch. The blue and rusty red clothes swayed slightly in the dull undercurrent. The shadow in the background flows slowly. Strictly maintain the cool tone of the original painting.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063870144032743424/img/Zz0bagBqS8dnm89U.jpg" width="600" alt="Ethereal Underwater Sorrow">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5838)**
+
+**Author:** [Zidan](https://x.com/liluocheng13) | **Source:** [Link](https://x.com/liluocheng13/status/2063870222260691134) | **Published:** Jun 8, 2026
+
+---
+### Enchanted Twilight Fairy Tale Cottage
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A magical video prompt for a glowing cottage at twilight with butterflies and falling petals.
+
+#### 📝 Prompt
+
+```
+Cozy enchanted cottage glowing at twilight… roses bloom, butterflies dance, petals fall. Pure fairy-tale magic.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063825890694328320/img/E-uYYRxq-ZofOn49.jpg" width="600" alt="Enchanted Twilight Fairy Tale Cottage">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5839)**
+
+**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2063826044860223731) | **Published:** Jun 8, 2026
+
+---
 ### Ethereal Elf Woman Portrait
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed cinematic prompt for generating a photorealistic video of an elf woman with silver hair and a rose tattoo.
+> A highly descriptive prompt for a photorealistic video portrait of an elegant elf woman with silver hair and a detailed rose tattoo.
 
 #### 📝 Prompt
 
@@ -201,7 +317,7 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 photorealistic portrait, ethereal beautiful elf woman, elegant side-back view showing silhouette and upper body, looking down with soft melancholic expression, pale porcelain skin with realistic texture and pores, natural glow, long flowing silver-white hair in intricate side braid with realistic strands and flyaways cascading over shoulder, delicate pointed elf ears with ornate golden pearl ear cuff, large intricate black and red tattoo on upper back and shoulder: blooming red rose wrapped in sharp thorny vines, hyper-realistic shading and skin interaction, delicate torn ragged white lace dress slipping off shoulders, frayed edges with realistic fabric texture and lace details, solid deep black minimalist background, dramatic moody atmosphere, soft volumetric lighting with delicate rim light, cinematic yet photorealistic, elegant and mysterious.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1780909178133_9ggu2r_HKOn2ZDXYAApIGa.jpg" width="600" alt="Ethereal Elf Woman Portrait">
+<img src="https://cms-assets.youmind.com/media/1780994432843_ktemf8_HKOn2ZDXYAApIGa.jpg" width="600" alt="Ethereal Elf Woman Portrait">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5802)**
 
@@ -474,11 +590,11 @@ They are gently floating through space, subtly happy and in awe. In hopes that c
 **Author:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **Source:** [Link](https://x.com/foxypatience/status/2062603835319705755) | **Published:** Jun 4, 2026
 
 ---
-### Michelin Man Ghostbusters Battle Recreation
+### Ghostbusters Michelin Man Battle
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed video prompt recreating the Ghostbusters finale by replacing the Stay Puft Marshmallow Man with a colossal Michelin Man.
+> A creative recreation prompt for a cinematic battle scene in New York featuring a marshmallow Michelin Man.
 
 #### 📝 Prompt
 
@@ -486,7 +602,7 @@ They are gently floating through space, subtly happy and in awe. In hopes that c
 Epic recreation of the final battle scene from Ghostbusters (1984), but instead of the Stay Puft Marshmallow Man, it's a colossal Michelin Bibendum made entirely of giant white marshmallows. He is skyscraper-sized, standing in the middle of New York City streets, looking down with a big innocent smile. His soft puffy marshmallow body has the classic stacked Michelin Man shape. Panicked New Yorkers fleeing, yellow taxis crushed under his feet, explosions and smoke around him, dramatic low-angle perspective, cinematic lighting with fiery sunset, practical special effects style, ultra detailed, masterpiece
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2062547352150257665/img/jmgeNshibBDdHqNS.jpg" width="600" alt="Michelin Man Ghostbusters Battle Recreation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062547352150257665/img/jmgeNshibBDdHqNS.jpg" width="600" alt="Ghostbusters Michelin Man Battle">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5760)**
 
@@ -724,11 +840,11 @@ The young woman gently brings the large stemmed glass with the orange-red cockta
 **Author:** [Celia](https://x.com/ritpol) | **Source:** [Link](https://x.com/ritpol/status/2061950977654353999) | **Published:** Jun 2, 2026
 
 ---
-### Ancient Cosmic Megastructure Video
+### Ancient Deep Space Structure
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic sci-fi prompt for an impossible structure drifting in deep space, used with Grok Imagine video generation.
+> A poetic sci-fi prompt for generating atmospheric footage of a mysterious, drifting structure in the far reaches of space.
 
 #### 📝 Prompt
 
@@ -736,7 +852,7 @@ The young woman gently brings the large stemmed glass with the orange-red cockta
 At the edge of known space, an impossible structure drifts through eternity, carrying the echoes of a civilization that mastered the stars.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2061916702669955072/img/XSXKnfw7JQlazLiL.jpg" width="600" alt="Ancient Cosmic Megastructure Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061916702669955072/img/XSXKnfw7JQlazLiL.jpg" width="600" alt="Ancient Deep Space Structure">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5710)**
 
@@ -853,7 +969,7 @@ then the screaming drop.
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt for a massive cathedral interior made of glowing neon and holographic glass.
+> A cinematic video prompt describing the interior of a massive cathedral made of neon architecture and holographic stained glass.
 
 #### 📝 Prompt
 
@@ -868,11 +984,11 @@ Inside a massive futuristic cathedral made entirely of glowing neon architecture
 **Author:** [Maer](https://x.com/Maer4real) | **Source:** [Link](https://x.com/Maer4real/status/2061806673618973015) | **Published:** Jun 2, 2026
 
 ---
-### Central Park Urban Sketch Poster
+### Central Park Summer Urban Sketch Poster
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed prompt for an urban sketch travel poster of Central Park in New York, featuring watercolor textures and hand-drawn perspective.
+> A detailed prompt for a premium urban sketch of Central Park in August, featuring watercolor layering and a travel journal aesthetic.
 
 #### 📝 Prompt
 
@@ -902,18 +1018,18 @@ Luxury travel journal illustration,
 premium urban sketchbook aesthetic, authentic hand-drawn architecture and landscape sketch.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1780477585114_4zo7j1_HJzTnT_aMAAJMFG.jpg" width="600" alt="Central Park Urban Sketch Poster">
+<img src="https://cms-assets.youmind.com/media/1780994433496_ycrf87_HJzTnT_aMAAJMFG.jpg" width="600" alt="Central Park Summer Urban Sketch Poster">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5637)**
 
 **Author:** [Sarah](https://x.com/AIwithSarah_) | **Source:** [Link](https://x.com/AIwithSarah_/status/2061755438295875742) | **Published:** Jun 2, 2026
 
 ---
-### Abyss Mermaid Empress and Celestial Octopus
+### Mermaid Empress and Octopus Guardian
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A mystical video prompt featuring an abyss mermaid moving through the deep sea with her three-hearted octopus guardian.
+> A highly descriptive prompt for generating a mythical underwater scene featuring a mermaid empress and her celestial guardian.
 
 #### 📝 Prompt
 
@@ -921,7 +1037,7 @@ premium urban sketchbook aesthetic, authentic hand-drawn architecture and landsc
 Celestial Pantheon Abyss Mermaid Empress & Celestial Octopus Guardian. She moves through depth, mystery and unseen intelligence with her three-hearted Guardian, revealing that wisdom begins when we can stand alone in the unknown and still remain whole.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2061744882121674752/img/uNkt6QAO0aWodkR7.jpg" width="600" alt="Abyss Mermaid Empress and Celestial Octopus">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061744882121674752/img/uNkt6QAO0aWodkR7.jpg" width="600" alt="Mermaid Empress and Octopus Guardian">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5733)**
 
@@ -2062,120 +2178,6 @@ Young future astronauts in Space Scout vests and dark heather grey clothing floa
 **Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2059554674324426973) | **Published:** May 27, 2026
 
 ---
-### Full Moon Stained Glass Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A poetic prompt combining starlight, stained glass, and a full moon for a moody aesthetic video.
-
-#### 📝 Prompt
-
-```
-Under the gaze of the full moon, she rises. Stained glass and starlight, where the last colors of sunset still linger in the sky.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/53f43c2ea40cfc942002c8e0b4c8d265/thumbnails/thumbnail.jpg" width="600" alt="Full Moon Stained Glass Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5330)**
-
-**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2059492955270828342) | **Published:** May 27, 2026
-
----
-### Da Vinci Style Calendar Machine
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An intricate video prompt describing a complex mechanical calendar in the style of Leonardo da Vinci's sketches, featuring interlocking bronze wheels and planetary alignment.
-
-#### 📝 Prompt
-
-```
-(Where applicable, picture a da Vinci-style sketch: like his Codex Atlanticus gear trains but for time itself—interlocking bronze wheels labeled “360-day Egypt,” “Venus comet path,” and “Mars sling,” with a sudden axle tilt cracking the mechanism; tiny human figures (pharaohs, Maya priests) scramble to add five “holy days” while a swirling vortex of planets realigns the whole calendar machine in perfect Renaissance perspective!)
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e2755189a8a5222d278167ca4f77645f/thumbnails/thumbnail.jpg" width="600" alt="Da Vinci Style Calendar Machine">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5353)**
-
-**Author:** [the don of hockey](https://x.com/don_allain) | **Source:** [Link](https://x.com/don_allain/status/2059451078807114105) | **Published:** May 27, 2026
-
----
-### Magical Garden Gnomes Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A whimsical grok-imagine video prompt where two garden gnomes touch hands, triggering a celestial transformation of the sky into a starry Milky Way.
-
-#### 📝 Prompt
-
-```
-One garden male gnome reaches and touches the other garden female gnome hand and the sky bursts into the stars and the Milky Way
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e3740808f8371b8cc1db5d839f1121a/thumbnails/thumbnail.jpg" width="600" alt="Magical Garden Gnomes Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5356)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2059436913640267902) | **Published:** May 27, 2026
-
----
-### Futuristic Mother and Daughter Illustration
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for a futuristic digital illustration depicting the bond between mother and daughter in a sci-fi style.
-
-#### 📝 Prompt
-
-```
-A futuristic digital illustration of BlueGoo and Vera, Mother and Daughter Love is Always the Answer
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8ab81211c8db51b535152148a750a172/thumbnails/thumbnail.jpg" width="600" alt="Futuristic Mother and Daughter Illustration">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5358)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2059431777593344125) | **Published:** May 27, 2026
-
----
-### Cybernetic Space Book Promotion
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A creative video prompt for a book advertisement set in space, featuring swirling golden Starlink satellites and a cybernetic suit transformation.
-
-#### 📝 Prompt
-
-```
-Advertise by holding this book with both hands in front. The background is outer space. Starlink satellites are swirling with golden light, and the suit glows in a cyber style. Akinari Tomimasu's logo flashes and becomes cyberized. Finally, it transforms into a cyber android with intense flashing.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dea8f2476897ef9f1f5915b1de8a4a11/thumbnails/thumbnail.jpg" width="600" alt="Cybernetic Space Book Promotion">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5332)**
-
-**Author:** [富増章成🌐のんびり哲学たまにマンガ](https://x.com/thomasaqnya) | **Source:** [Link](https://x.com/thomasaqnya/status/2059344772696096801) | **Published:** May 26, 2026
-
----
-### Dynamic Space Rocket Launch Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Animates a specific rocket image into a cinematic launch sequence, featuring realistic orange flames, camera movement, and specific branding details.
-
-#### 📝 Prompt
-
-```
-Animate the exact rocket from the provided image launching from the pad. White rocket with red nose, 'BG' on the side, bright orange flames. Dynamic launch sequence with camera movement.
-```
-
-<img src="https://cms-assets.youmind.com/media/1779871303352_3fau0d_HJQ-hgNWoAAkFaH.jpg" width="600" alt="Dynamic Space Rocket Launch Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5327)**
-
-**Author:** [Number-One-AI-Fanboy](https://x.com/Number1AIFanboy) | **Source:** [Link](https://x.com/Number1AIFanboy/status/2059340120499650592) | **Published:** May 26, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2237,6 +2239,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-09T04:23:14.600Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-09T11:37:25.389Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1767** |
+| 📝 Total Prompts | **1773** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-09** |
 
@@ -189,6 +189,122 @@ Una mistica e nobile Valchiria celestiale, una donna dignitosa e bellissima con 
 
 > 📝 Sorted by publish date (newest first)
 
+### Valle montana cinematografica oscura
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt suggestivo per una valle montana oscura e cinematografica di notte, con pioggia, vento e tuoni in lontananza.
+
+#### 📝 Prompt
+
+```
+Valle montana cinematografica oscura di notte, tuoni in lontananza, vento freddo che soffia tra le foreste di pini, pioggia leggera su sentieri di pietra, il crepitio sottile della fiamma di una lanterna, atmosfera ambientale suggestiva, realismo cinematografico, profonde texture di violoncello emozionale, d
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064094162887045120/img/TK2Y0Y70lfS8VQ-S.jpg" width="600" alt="Valle montana cinematografica oscura">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5842)**
+
+**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2064094365455200536) | **Published:** Jun 8, 2026
+
+---
+### Donna rilassata che mangia
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per la generazione video che descrive un personaggio che mangia in modo disinvolto, mantenendo la coerenza di posa e illuminazione rispetto a un'immagine di riferimento.
+
+#### 📝 Prompt
+
+```
+La donna dell'immagine di riferimento sta mangiando in modo disinvolto con le mani o con una posata, dando un morso mentre appare rilassata e completamente a suo agio, con un'espressione spensierata e indifferente, mantenendo la stessa posa, illuminazione, abbigliamento e sfondo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064060638016548864/img/MY2gDU7t8Wv2Xruy.jpg" width="600" alt="Donna rilassata che mangia">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5841)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2064060691057975428) | **Published:** Jun 8, 2026
+
+---
+### Atterraggio di un'astronave su un pianeta alieno
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinematografico per un video che mostra persone che escono da un'astronave su un nuovo pianeta rigoglioso, con atmosfera respirabile e nuvole iridescenti.
+
+#### 📝 Prompt
+
+```
+Primo piano di persone che escono da un'astronave su un nuovo pianeta con atmosfera respirabile, alberi e vegetazione in crescita, nuvole iridescenti
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064002009267621888/img/2TzCqxOVqSnDfOSu.jpg" width="600" alt="Atterraggio di un'astronave su un pianeta alieno">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5840)**
+
+**Author:** [Susan Vaden Meseraull](https://x.com/SusanVadenMeser) | **Source:** [Link](https://x.com/SusanVadenMeser/status/2064002062912811445) | **Published:** Jun 8, 2026
+
+---
+### Scrittura sull'obiettivo della fotocamera per video di matrimonio
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video cinematografico per Grok Imagine per animare una scena di matrimonio in cui lo sposo scrive sull'obiettivo e sorride, utilizzando un'immagine come fotogramma finale fisso.
+
+#### 📝 Prompt
+
+```
+Utilizza l'immagine allegata come fotogramma finale e crea un video di 6 secondi.
+Lo sposo termina di scrivere "Happy Wedding" sulla "g" sull'obiettivo della fotocamera, poi guarda direttamente in camera e sorride dolcemente. La sposa rimane nella stessa posizione, sorridendo mentre muove delicatamente il suo abito. La fotocamera rimane completamente fissa, senza panoramiche, inclinazioni, zoom o movimenti di macchina.
+Non animare o spostare il testo bianco o le illustrazioni. Preserva integralmente lo stile artistico dell'immagine allegata. Non aggiungere, rimuovere o alterare alcun elemento dall'immagine allegata.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063884383002763264/img/zH2VyVw3LWPC2RI8.jpg" width="600" alt="Scrittura sull'obiettivo della fotocamera per video di matrimonio">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5843)**
+
+**Author:** [サン｜Sun](https://x.com/sunsunshine0318) | **Source:** [Link](https://x.com/sunsunshine0318/status/2063885288854737223) | **Published:** Jun 8, 2026
+
+---
+### Ethereale tristezza subacquea
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un complesso prompt artistico che descrive una scena subacquea eterea e dal movimento lento, che trasmette una tristezza spirituale.
+
+#### 📝 Prompt
+
+```
+Obiettivo fisso. Lo stile della bellezza, la tristezza materiale e l'assurdo trasmettono un profondo dolore spirituale. I capelli traslucidi, simili ad acqua, fluttuano lentamente ed emettono minuscole bolle. Il pesce bianco tra le sue mani ha un lieve sussulto. Gli abiti blu e rosso ruggine ondeggiano leggermente nella corrente sottomarina opaca. L'ombra sullo sfondo scorre lentamente. Mantenere rigorosamente il tono freddo del dipinto originale.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063870144032743424/img/Zz0bagBqS8dnm89U.jpg" width="600" alt="Ethereale tristezza subacquea">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5838)**
+
+**Author:** [Zidan](https://x.com/liluocheng13) | **Source:** [Link](https://x.com/liluocheng13/status/2063870222260691134) | **Published:** Jun 8, 2026
+
+---
+### Casetta incantata da fiaba al crepuscolo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un magico prompt video per una casetta luminosa al crepuscolo con farfalle e petali che cadono.
+
+#### 📝 Prompt
+
+```
+Accogliente casetta incantata che brilla al crepuscolo... rose in fiore, farfalle che danzano, petali che cadono. Pura magia da favola.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063825890694328320/img/E-uYYRxq-ZofOn49.jpg" width="600" alt="Casetta incantata da fiaba al crepuscolo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5839)**
+
+**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2063826044860223731) | **Published:** Jun 8, 2026
+
+---
 ### Ritratto di donna elfo eterea
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -201,7 +317,7 @@ Una mistica e nobile Valchiria celestiale, una donna dignitosa e bellissima con 
 ritratto fotorealistico, bellissima donna elfo eterea, elegante vista di profilo/retro che mostra la silhouette e la parte superiore del corpo, sguardo rivolto verso il basso con un'espressione dolce e malinconica, pelle di porcellana pallida con texture e pori realistici, luminosità naturale, lunghi capelli fluenti bianco-argento in un'intricata treccia laterale con ciocche realistiche e capelli ribelli che ricadono sulla spalla, delicate orecchie a punta da elfo con un ornato ear cuff di perle dorate, grande tatuaggio intricato nero e rosso sulla parte superiore della schiena e sulla spalla: una rosa rossa in fiore avvolta da viti spinose e affilate, ombreggiatura iper-realistica e interazione con la pelle, delicato abito in pizzo bianco strappato che scivola dalle spalle, bordi sfilacciati con texture del tessuto realistica e dettagli in pizzo, sfondo minimalista nero profondo e solido, atmosfera drammatica e suggestiva, illuminazione volumetrica soffusa con delicata luce di contorno, cinematografico ma fotorealistico, elegante e misterioso.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1780909178133_9ggu2r_HKOn2ZDXYAApIGa.jpg" width="600" alt="Ritratto di donna elfo eterea">
+<img src="https://cms-assets.youmind.com/media/1780994432843_ktemf8_HKOn2ZDXYAApIGa.jpg" width="600" alt="Ritratto di donna elfo eterea">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5802)**
 
@@ -900,7 +1016,7 @@ Illustrazione di lusso per diario di viaggio,
 estetica premium da taccuino urban sketch, autentico schizzo di architettura e paesaggio disegnato a mano.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1780477585114_4zo7j1_HJzTnT_aMAAJMFG.jpg" width="600" alt="Poster urban sketch di Central Park">
+<img src="https://cms-assets.youmind.com/media/1780994433496_ycrf87_HJzTnT_aMAAJMFG.jpg" width="600" alt="Poster urban sketch di Central Park">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5637)**
 
@@ -2064,120 +2180,6 @@ Giovani futuri astronauti con gilet da Space Scout e abbigliamento grigio scuro 
 **Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2059554674324426973) | **Published:** May 27, 2026
 
 ---
-### Rituale delle vetrate al chiaro di luna
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video dettagliato che ritrae una donna che si solleva sotto la luna piena, tra vetrate colorate, luce stellare e le tonalità del tramonto.
-
-#### 📝 Prompt
-
-```
-Sotto lo sguardo della luna piena, lei si solleva. Vetrate e luce stellare, dove gli ultimi colori del tramonto indugiano ancora nel cielo.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/53f43c2ea40cfc942002c8e0b4c8d265/thumbnails/thumbnail.jpg" width="600" alt="Rituale delle vetrate al chiaro di luna">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5330)**
-
-**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2059492955270828342) | **Published:** May 27, 2026
-
----
-### Macchina del calendario in stile Da Vinci
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un complesso video prompt che descrive un intricato calendario meccanico nello stile dei disegni di Leonardo da Vinci, caratterizzato da ingranaggi in bronzo interconnessi e allineamenti planetari.
-
-#### 📝 Prompt
-
-```
-(Ove applicabile, immagina uno schizzo in stile da Vinci: simile ai treni di ingranaggi del suo Codice Atlantico ma dedicato al tempo stesso—ruote in bronzo interconnesse con le etichette “360 giorni Egitto”, “percorso cometa Venere” e “fionda di Marte”, con un improvviso inclinarsi dell'asse che incrina il meccanismo; minuscole figure umane (faraoni, sacerdoti Maya) si affannano ad aggiungere cinque “giorni sacri” mentre un vortice di pianeti riallinea l'intera macchina del calendario in una perfetta prospettiva rinascimentale!)
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e2755189a8a5222d278167ca4f77645f/thumbnails/thumbnail.jpg" width="600" alt="Macchina del calendario in stile Da Vinci">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5353)**
-
-**Author:** [the don of hockey](https://x.com/don_allain) | **Source:** [Link](https://x.com/don_allain/status/2059451078807114105) | **Published:** May 27, 2026
-
----
-### Video dei magici gnomi da giardino
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un estroso prompt video per grok-imagine in cui due gnomi da giardino si toccano le mani, innescando una trasformazione celestiale del cielo in una Via Lattea stellata.
-
-#### 📝 Prompt
-
-```
-Uno gnomo da giardino maschio allunga la mano e tocca quella di uno gnomo femmina, e il cielo esplode in stelle e nella Via Lattea
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e3740808f8371b8cc1db5d839f1121a/thumbnails/thumbnail.jpg" width="600" alt="Video dei magici gnomi da giardino">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5356)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2059436913640267902) | **Published:** May 27, 2026
-
----
-### Illustrazione futuristica di madre e figlia
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per un'illustrazione digitale futuristica che ritrae il legame tra madre e figlia in stile sci-fi.
-
-#### 📝 Prompt
-
-```
-Un'illustrazione digitale futuristica di BlueGoo e Vera, l'amore tra madre e figlia è sempre la risposta
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8ab81211c8db51b535152148a750a172/thumbnails/thumbnail.jpg" width="600" alt="Illustrazione futuristica di madre e figlia">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5358)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2059431777593344125) | **Published:** May 27, 2026
-
----
-### Promozione del libro Cybernetic Space
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt video creativo per la pubblicità di un libro ambientato nello spazio, con satelliti Starlink dorati che vorticano e una trasformazione in tuta cibernetica.
-
-#### 📝 Prompt
-
-```
-Pubblicizza tenendo questo libro con entrambe le mani davanti a te. Lo sfondo è lo spazio profondo. I satelliti Starlink vorticano con una luce dorata e la tuta brilla in uno stile cyber. Il logo di Akinari Tomimasu lampeggia e diventa cibernetico. Infine, si trasforma in un androide cyber con intensi bagliori.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dea8f2476897ef9f1f5915b1de8a4a11/thumbnails/thumbnail.jpg" width="600" alt="Promozione del libro Cybernetic Space">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5332)**
-
-**Author:** [富増章成🌐のんびり哲学たまにマンガ](https://x.com/thomasaqnya) | **Source:** [Link](https://x.com/thomasaqnya/status/2059344772696096801) | **Published:** May 26, 2026
-
----
-### Animazione dinamica del lancio di un razzo spaziale
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Anima un'immagine specifica di un razzo in una sequenza di lancio cinematografica, caratterizzata da fiamme arancioni realistiche, movimento della telecamera e dettagli specifici del brand.
-
-#### 📝 Prompt
-
-```
-Anima l'esatto razzo presente nell'immagine fornita mentre decolla dalla rampa di lancio. Razzo bianco con punta rossa, scritta 'BG' sul lato e fiamme arancioni brillanti. Sequenza di lancio dinamica con movimento della telecamera.
-```
-
-<img src="https://cms-assets.youmind.com/media/1779871303352_3fau0d_HJQ-hgNWoAAkFaH.jpg" width="600" alt="Animazione dinamica del lancio di un razzo spaziale">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5327)**
-
-**Author:** [Number-One-AI-Fanboy](https://x.com/Number1AIFanboy) | **Source:** [Link](https://x.com/Number1AIFanboy/status/2059340120499650592) | **Published:** May 26, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2239,6 +2241,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-09T04:23:27.769Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-09T11:37:41.266Z</sub>
 
 </div>

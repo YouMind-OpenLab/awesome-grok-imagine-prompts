@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1767** |
+| 📝 Total Prompts | **1773** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-09** |
 
@@ -189,6 +189,122 @@ Uma valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Vale Montanhoso Cinematográfico Sombrio
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt atmosférico para um vale montanhoso cinematográfico e sombrio à noite, com chuva, vento e trovões distantes.
+
+#### 📝 Prompt
+
+```
+Vale montanhoso cinematográfico sombrio à noite, trovões distantes, vento frio passando por florestas de pinheiros, chuva leve em caminhos de pedra, chama de lanterna sutil crepitando, ambiência ambiental atmosférica, realismo cinematográfico, texturas profundas e emocionais de violoncelo, d
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064094162887045120/img/TK2Y0Y70lfS8VQ-S.jpg" width="600" alt="Vale Montanhoso Cinematográfico Sombrio">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5842)**
+
+**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2064094365455200536) | **Published:** Jun 8, 2026
+
+---
+### Mulher relaxada comendo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de geração de vídeo que descreve uma personagem comendo casualmente, mantendo a consistência na pose e na iluminação a partir de uma imagem de referência.
+
+#### 📝 Prompt
+
+```
+A mulher da referência agora está comendo casualmente com as mãos ou um utensílio, dando uma mordida enquanto parece relaxada e completamente despreocupada, com uma expressão de "não estou nem aí", mantendo a mesma pose, iluminação, roupas e fundo
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064060638016548864/img/MY2gDU7t8Wv2Xruy.jpg" width="600" alt="Mulher relaxada comendo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5841)**
+
+**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2064060691057975428) | **Published:** Jun 8, 2026
+
+---
+### Nave espacial pousando em um planeta alienígena
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt cinematográfico para um vídeo mostrando pessoas saindo de uma nave espacial em um novo planeta exuberante, com atmosfera respirável e nuvens iridescentes.
+
+#### 📝 Prompt
+
+```
+Close-up de pessoas saindo de uma nave espacial em um novo planeta com atmosfera respirável, árvores e vegetação em crescimento, e nuvens iridescentes
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064002009267621888/img/2TzCqxOVqSnDfOSu.jpg" width="600" alt="Nave espacial pousando em um planeta alienígena">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5840)**
+
+**Author:** [Susan Vaden Meseraull](https://x.com/SusanVadenMeser) | **Source:** [Link](https://x.com/SusanVadenMeser/status/2064002062912811445) | **Published:** Jun 8, 2026
+
+---
+### Escrita na Lente da Câmera em Vídeo de Casamento
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico para o Grok Imagine animar uma cena de casamento onde o noivo escreve na lente e sorri, usando uma imagem como quadro final fixo.
+
+#### 📝 Prompt
+
+```
+Use a imagem em anexo como quadro final e crie um vídeo de 6 segundos.
+O noivo termina de escrever “Happy Wedding” na letra “g” na lente da câmera, então olha diretamente para a câmera e sorri gentilmente. A noiva permanece na mesma posição, sorrindo enquanto balança suavemente seu vestido. A câmera permanece completamente estática, sem pan, tilt, zoom ou qualquer movimento de câmera.
+Não anime ou mova o texto branco ou as ilustrações. Preserve totalmente o estilo artístico da imagem em anexo. Não adicione, remova ou altere nenhum elemento da imagem em anexo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063884383002763264/img/zH2VyVw3LWPC2RI8.jpg" width="600" alt="Escrita na Lente da Câmera em Vídeo de Casamento">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5843)**
+
+**Author:** [サン｜Sun](https://x.com/sunsunshine0318) | **Source:** [Link](https://x.com/sunsunshine0318/status/2063885288854737223) | **Published:** Jun 8, 2026
+
+---
+### Tristeza Etérea Subaquática
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt artístico complexo que descreve uma cena subaquática etérea e de movimento lento, transmitindo uma tristeza espiritual.
+
+#### 📝 Prompt
+
+```
+Lente fixa. O estilo de beleza, tristeza material e absurdo transmite uma profunda dor espiritual. Cabelos translúcidos e aquosos flutuam lentamente e emitem pequenas bolhas. O peixe branco em sua mão deu um leve espasmo. As roupas azuis e vermelho-ferrugem balançavam levemente na correnteza fraca. A sombra ao fundo flui lentamente. Mantenha rigorosamente o tom frio da pintura original.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063870144032743424/img/Zz0bagBqS8dnm89U.jpg" width="600" alt="Tristeza Etérea Subaquática">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5838)**
+
+**Author:** [Zidan](https://x.com/liluocheng13) | **Source:** [Link](https://x.com/liluocheng13/status/2063870222260691134) | **Published:** Jun 8, 2026
+
+---
+### Chalé de Conto de Fadas no Crepúsculo Encantado
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo mágico para um chalé brilhante ao crepúsculo com borboletas e pétalas caindo.
+
+#### 📝 Prompt
+
+```
+Chalé encantado e aconchegante brilhando ao crepúsculo… rosas florescem, borboletas dançam, pétalas caem. Pura magia de conto de fadas.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063825890694328320/img/E-uYYRxq-ZofOn49.jpg" width="600" alt="Chalé de Conto de Fadas no Crepúsculo Encantado">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5839)**
+
+**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2063826044860223731) | **Published:** Jun 8, 2026
+
+---
 ### Retrato de Elfa Etérea
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -201,7 +317,7 @@ Uma valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 retrato fotorrealista, bela elfa etérea, vista lateral elegante mostrando a silhueta e a parte superior do corpo, olhando para baixo com uma expressão suave e melancólica, pele de porcelana pálida com textura e poros realistas, brilho natural, longos cabelos branco-prateados em uma trança lateral intrincada com fios realistas e mechas soltas caindo sobre o ombro, orelhas de elfo pontudas e delicadas com um brinco de pérola dourada ornamentado, tatuagem grande e complexa em preto e vermelho na parte superior das costas e ombro: rosa vermelha florescendo envolta em vinhas espinhosas, sombreamento hiper-realista e interação com a pele, vestido de renda branca delicado e esfarrapado caindo dos ombros, bordas desfiadas com textura de tecido realista e detalhes em renda, fundo minimalista em preto sólido profundo, atmosfera dramática e melancólica, iluminação volumétrica suave com luz de contorno delicada, cinematográfico e fotorrealista, elegante e misterioso.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1780909178133_9ggu2r_HKOn2ZDXYAApIGa.jpg" width="600" alt="Retrato de Elfa Etérea">
+<img src="https://cms-assets.youmind.com/media/1780994432843_ktemf8_HKOn2ZDXYAApIGa.jpg" width="600" alt="Retrato de Elfa Etérea">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5802)**
 
@@ -901,7 +1017,7 @@ Ilustração de diário de viagem de luxo,
 estética premium de caderno de esboços urbano, arquitetura e esboço de paisagem autênticos desenhados à mão.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1780477585114_4zo7j1_HJzTnT_aMAAJMFG.jpg" width="600" alt="Pôster de Esboço Urbano do Central Park">
+<img src="https://cms-assets.youmind.com/media/1780994433496_ycrf87_HJzTnT_aMAAJMFG.jpg" width="600" alt="Pôster de Esboço Urbano do Central Park">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5637)**
 
@@ -2064,120 +2180,6 @@ Jovens futuros astronautas vestindo coletes de 'Space Scout' e roupas cinza-mesc
 **Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2059554674324426973) | **Published:** May 27, 2026
 
 ---
-### Ritual de Vitral sob o Luar
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo detalhado apresentando uma mulher que se levanta sob a lua cheia em meio a vitrais e luz das estrelas com tons de pôr do sol.
-
-#### 📝 Prompt
-
-```
-Sob o olhar da lua cheia, ela se levanta. Vitrais e luz das estrelas, onde as últimas cores do pôr do sol ainda permanecem no céu.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/53f43c2ea40cfc942002c8e0b4c8d265/thumbnails/thumbnail.jpg" width="600" alt="Ritual de Vitral sob o Luar">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5330)**
-
-**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2059492955270828342) | **Published:** May 27, 2026
-
----
-### Máquina de Calendário no Estilo Da Vinci
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo detalhado descrevendo um calendário mecânico complexo no estilo dos esboços de Leonardo da Vinci, apresentando engrenagens de bronze interligadas e alinhamento planetário.
-
-#### 📝 Prompt
-
-```
-(Onde aplicável, imagine um esboço no estilo de Da Vinci: como as engrenagens do seu Codex Atlanticus, mas para o próprio tempo — rodas de bronze interligadas rotuladas como “360 dias Egito”, “caminho do cometa de Vênus” e “estilingue de Marte”, com uma inclinação repentina do eixo que racha o mecanismo; pequenas figuras humanas (faraós, sacerdotes maias) correm para adicionar cinco “dias sagrados” enquanto um vórtice giratório de planetas realinha toda a máquina do calendário em uma perspectiva renascentista perfeita!)
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e2755189a8a5222d278167ca4f77645f/thumbnails/thumbnail.jpg" width="600" alt="Máquina de Calendário no Estilo Da Vinci">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5353)**
-
-**Author:** [the don of hockey](https://x.com/don_allain) | **Source:** [Link](https://x.com/don_allain/status/2059451078807114105) | **Published:** May 27, 2026
-
----
-### Vídeo de Gnomos de Jardim Mágicos
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo criativo para o grok-imagine onde dois gnomos de jardim tocam as mãos, desencadeando uma transformação celestial do céu em uma Via Láctea estrelada.
-
-#### 📝 Prompt
-
-```
-Um gnomo de jardim macho estende a mão e toca a mão da gnomo de jardim fêmea e o céu explode em estrelas e na Via Láctea
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e3740808f8371b8cc1db5d839f1121a/thumbnails/thumbnail.jpg" width="600" alt="Vídeo de Gnomos de Jardim Mágicos">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5356)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2059436913640267902) | **Published:** May 27, 2026
-
----
-### Ilustração futurista de mãe e filha
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt para uma ilustração digital futurista que retrata o vínculo entre mãe e filha em um estilo de ficção científica.
-
-#### 📝 Prompt
-
-```
-Uma ilustração digital futurista de BlueGoo e Vera, o amor entre mãe e filha é sempre a resposta
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8ab81211c8db51b535152148a750a172/thumbnails/thumbnail.jpg" width="600" alt="Ilustração futurista de mãe e filha">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5358)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2059431777593344125) | **Published:** May 27, 2026
-
----
-### Promoção do Livro Cybernetic Space
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Um prompt de vídeo criativo para um anúncio de livro ambientado no espaço, apresentando satélites Starlink dourados girando e uma transformação de traje cibernético.
-
-#### 📝 Prompt
-
-```
-Anuncie segurando este livro com as duas mãos à frente. O fundo é o espaço sideral. Satélites Starlink giram com uma luz dourada, e o traje brilha em um estilo cibernético. O logotipo de Akinari Tomimasu pisca e torna-se cibernetizado. Finalmente, ele se transforma em um androide cibernético com flashes intensos.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dea8f2476897ef9f1f5915b1de8a4a11/thumbnails/thumbnail.jpg" width="600" alt="Promoção do Livro Cybernetic Space">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5332)**
-
-**Author:** [富増章成🌐のんびり哲学たまにマンガ](https://x.com/thomasaqnya) | **Source:** [Link](https://x.com/thomasaqnya/status/2059344772696096801) | **Published:** May 26, 2026
-
----
-### Animação Dinâmica de Lançamento de Foguete Espacial
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Anima uma imagem específica de foguete em uma sequência de lançamento cinematográfica, apresentando chamas laranja realistas, movimento de câmera e detalhes específicos da marca.
-
-#### 📝 Prompt
-
-```
-Anime o foguete exato da imagem fornecida sendo lançado da base. Foguete branco com ponta vermelha, 'BG' na lateral, chamas laranja brilhantes. Sequência de lançamento dinâmica com movimento de câmera.
-```
-
-<img src="https://cms-assets.youmind.com/media/1779871303352_3fau0d_HJQ-hgNWoAAkFaH.jpg" width="600" alt="Animação Dinâmica de Lançamento de Foguete Espacial">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5327)**
-
-**Author:** [Number-One-AI-Fanboy](https://x.com/Number1AIFanboy) | **Source:** [Link](https://x.com/Number1AIFanboy/status/2059340120499650592) | **Published:** May 26, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2239,6 +2241,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-09T04:23:28.572Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-09T11:37:42.443Z</sub>
 
 </div>
