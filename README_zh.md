@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **1773** |
+| 📝 提示词总数 | **1785** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-06-11** |
 
@@ -189,6 +189,251 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 罗姆人夫妇庆祝活动
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段充满节日气氛的视频提示词，描绘了一对快乐的罗姆人夫妇正在庆祝并举杯畅饮啤酒。
+
+#### 📝 提示词
+
+```
+快乐的罗姆人夫妇热情地畅饮啤酒，生动的庆祝场景，包含自然的啜饮、举杯和欢快的动作。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064793543646777344/img/8mezMMMGG2BWxR9Z.jpg" width="600" alt="罗姆人夫妇庆祝活动">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5923)**
+
+**作者:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **来源:** [Link](https://x.com/maggiejuang1/status/2064793659480908190) | **发布时间:** Jun 10, 2026
+
+---
+### Q 版利昂内尔·梅西足球动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段充满活力的 Q 版动画，展现了利昂内尔·梅西与一个可爱的机器人伙伴一起踢足球的场景。
+
+#### 📝 提示词
+
+```
+足球。梅西。阿根廷。🫶❤️🫶
+一段充满活力的 Q 版动漫风格场景，身穿阿根廷国家队 10 号球衣的 Q 版大头利昂内尔·梅西，正在绿茵场上与一个可爱的小机器人伙伴充满活力地踢足球。这个小机器人正在...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064789011407798272/img/30kXOKm4MaNrafZK.jpg" width="600" alt="Q 版利昂内尔·梅西足球动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5919)**
+
+**作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **来源:** [Link](https://x.com/clemensilverio/status/2064789155498914018) | **发布时间:** Jun 10, 2026
+
+---
+### Talking Bottle Alcohol Intervention
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个富有创意的视频提示词：一瓶酒“活”了过来，用低沉的嗓音劝阻一名男子停止饮酒。
+
+#### 📝 提示词
+
+```
+让男子的那瓶酒“活”过来，并用低沉而深情的嗓音对他说：看在上帝的份上，请放下我吧……你的肝脏在哀求你！你没必要每次直播都喝酒！你现在打算怎么开车送他回家？
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064780117352529920/img/gaivqrkpncJed3AD.jpg" width="600" alt="Talking Bottle Alcohol Intervention">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5926)**
+
+**作者:** [FAGWOP](https://x.com/TopSheboon) | **来源:** [Link](https://x.com/TopSheboon/status/2064780168787263783) | **发布时间:** Jun 10, 2026
+
+---
+### 会说话的酒瓶公益广告
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个公益广告风格的视频提示词，讲述了一个拟人化的酒瓶与一名男子谈论健康和驾驶问题。
+
+#### 📝 提示词
+
+```
+让酒瓶活过来，告诉那个男人，看在上帝的份上请放下它……而且你没必要每场直播都喝酒！你现在这样还怎么开车？
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064771829881884672/img/awlkVTqjuFUOL8o8.jpg" width="600" alt="会说话的酒瓶公益广告">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5927)**
+
+**作者:** [FAGWOP](https://x.com/TopSheboon) | **来源:** [Link](https://x.com/TopSheboon/status/2064771882306416673) | **发布时间:** Jun 10, 2026
+
+---
+### 拖车餐厅内部展示
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段详细的叙事提示词，用于描述打开车门后展现出一个小型高端拖车餐厅的场景。
+
+#### 📝 提示词
+
+```
+当手推开门时，想象一下在这辆拖车后部，有一个 20 x 10 英尺的小型餐厅，由来自哥伦比亚的顶级美食主厨 Louis 主理。这里已经聚集了酷炫的人群，他们共同投票，只为确保那个夜晚对你而言无比特别，以至于……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064766426338979840/img/ITR1xY9VBvrC97P6.jpg" width="600" alt="拖车餐厅内部展示">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5920)**
+
+**作者:** [the_light](https://x.com/the_light35) | **来源:** [Link](https://x.com/the_light35/status/2064766481762496694) | **发布时间:** Jun 10, 2026
+
+---
+### 天界漩涡
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个复杂的视频提示词，描绘了天使与灵体从天而降，与漩涡水柱交融的场景。
+
+#### 📝 提示词
+
+```
+水柱 🌪️ 
+
+天界与 💫 天使 😇 精灵降临，与漩涡水柱融为一体。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064756208485933057/img/IzdxOz4-2aqBCddr.jpg" width="600" alt="天界漩涡">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5925)**
+
+**作者:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **来源:** [Link](https://x.com/PhilipC34457079/status/2064756343618023730) | **发布时间:** Jun 10, 2026
+
+---
+### 阴阳水龙卷中的海豚
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个超现实且充满动感的视频提示词，描绘了海豚在阴阳形状的龙卷风中游动并跃出的场景。
+
+#### 📝 提示词
+
+```
+不如跳跃吧 💓 海豚 🐬 在水中游动，并跃入一个阴阳 ☯️ 形状的水龙卷中。龙卷风 🌪️……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064754963574628353/img/jhJM52fDtBAiSaxm.jpg" width="600" alt="阴阳水龙卷中的海豚">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5922)**
+
+**作者:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **来源:** [Link](https://x.com/PhilipC34457079/status/2064755089911226585) | **发布时间:** Jun 10, 2026
+
+---
+### 岩石露头上的古龙
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段视频提示词，描绘了一条古龙栖息在云雾缭绕的山地景观中的岩石露头上。
+
+#### 📝 提示词
+
+```
+一张古龙栖息在云雾缭绕的山地景观中岩石露头上的照片。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064748737801449472/img/sMO6haUXkFPS8vo8.jpg" width="600" alt="岩石露头上的古龙">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5918)**
+
+**作者:** [Jose Armando Lopez Sandoval](https://x.com/JoseArm87975355) | **来源:** [Link](https://x.com/JoseArm87975355/status/2064748796861403422) | **发布时间:** Jun 10, 2026
+
+---
+### 机械跳跃机器人兔子
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段关于机械机器人利用类似兔子的后腿爬楼梯的详细视频提示词。
+
+#### 📝 提示词
+
+```
+一只可爱的跳跃机器人正在征服楼梯，它配备了两条特制的腿，形状如同兔子的后脚，并展示了用于跳跃机制的可见机械齿轮，以及两个不用于承载负载的轮子
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064738618951061505/img/S-aZpA1RkdutEmeB.jpg" width="600" alt="机械跳跃机器人兔子">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5924)**
+
+**作者:** [Jean](https://x.com/SpaceScoutsIntl) | **来源:** [Link](https://x.com/SpaceScoutsIntl/status/2064738687557173748) | **发布时间:** Jun 10, 2026
+
+---
+### 超现实女巨人肖像与翻涌云层
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个为 Grok Imagine 设计的高级视频生成提示词，旨在创作一幅达利风格的超现实主义特写，展现一张俯瞰地平线的巨大面孔，以及下方翻涌而上的云层。
+
+#### 📝 提示词
+
+```
+请使用附带的图像作为确切的起始帧和视觉参考。
+
+请使用附带的视频作为动作参考，以实现微妙且克制的运动风格。
+
+创作一个 6 秒的视频。
+
+画面采用极端的特写构图，模特的脸部占据了左侧的大部分空间。极其大胆的布光在额头上投射出大面积的深色阴影，将观众的视线引向双眼。背景呈现出高饱和度的蓝天和遥远的地平线。脸部比例保持巨大的超现实巨人感，仿佛悬浮于大地之上，云层在其面部下方徘徊。
+
+保持模特面部基本静止，没有大幅度的头部运动或位置变化。她直视镜头，自然地眨眼一到两次。表情保持冷静且微妙。
+
+在整个镜头中，下方的云层逐渐生长并以戏剧性而平滑的方式向上翻涌，直到视频结束时覆盖住模特的下巴区域。
+
+保留扁平化、近乎单色的色彩处理，保留毛孔和雀斑等细腻的皮肤纹理，并维持高细节面部与抽象颗粒感背景之间的对比。保持受达利启发的超现实主义氛围。
+
+完整保留参考图像的构图、艺术风格、光影、色彩以及整体视觉基调。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064718481376030720/img/ZY3Ookn3geMb4bnc.jpg" width="600" alt="超现实女巨人肖像与翻涌云层">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5928)**
+
+**作者:** [サン｜Sun](https://x.com/sunsunshine0318) | **来源:** [Link](https://x.com/sunsunshine0318/status/2064719200216846599) | **发布时间:** Jun 10, 2026
+
+---
+### 动漫少女云端漫步
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个动漫风格的场景转换：一位白发少女手捧发光的宇宙之心，在蓬松的云层中漫步。
+
+#### 📝 提示词
+
+```
+将参考图像转换为充满活力的动漫风格场景：一位可爱的动漫少女，留着长长的白发，灵感源自照片中的女性，在梦幻般的天空中优雅地穿行于蓬松的白云之间。她手中捧着一颗巨大的发光宇宙之心，在……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064524508044607488/img/95yPRmCrwtzcqByi.jpg" width="600" alt="动漫少女云端漫步">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5917)**
+
+**作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **来源:** [Link](https://x.com/clemensilverio/status/2064524631554310372) | **发布时间:** Jun 10, 2026
+
+---
+### 带有空灵光感的动漫角色转换
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个艺术提示词，可将参考人物转换为带有空灵、半透明光感的动漫角色，并佩戴天体星辰皇冠，漂浮在朦胧的环境中。
+
+#### 📝 提示词
+
+```
+将参考图中的女性转换为一个美丽的动漫风格角色，拥有空灵、半透明且发光的身体，呈现出梦幻般的朦胧质感。她的头上戴着一顶闪烁着星光的皇冠。她优雅地漂浮在两个 s...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064516478301347840/img/qrvccz2asU8-bs6B.jpg" width="600" alt="带有空灵光感的动漫角色转换">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5921)**
+
+**作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **来源:** [Link](https://x.com/clemensilverio/status/2064516575349108767) | **发布时间:** Jun 10, 2026
+
+---
 ### 暗黑电影感山谷
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1945,240 +2190,6 @@ Hermes 获得了一双超高速飞行鞋和一顶带翅膀的酷炫帽子，这�
 **作者:** [David Avenue Media](https://x.com/davidavenueai) | **来源:** [Link](https://x.com/davidavenueai/status/2060070704482287761) | **发布时间:** May 28, 2026
 
 ---
-### 蒸汽朋克奇幻森林小径视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个充满魔法蒸汽朋克风格的视频提示词，描述了一位巫师和一位精灵女王穿过森林前往图书馆的场景。
-
-#### 📝 提示词
-
-```
-充满魔法的蒸汽朋克氛围
-一位巫师和一位精灵女王沿着森林小径走向小屋并进入图书馆
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9f7fcc8c1a4d4a3ca5efdfd5e106aeb3/thumbnails/thumbnail.jpg" width="600" alt="蒸汽朋克奇幻森林小径视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5413)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2060069085266997532) | **发布时间:** May 28, 2026
-
----
-### Q 版黑客帝国哨兵动画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个创意视频提示词，用于生成一个 Q 版风格的《黑客帝国》哨兵，做出类似“捂脸”表情的动作，并带有镜头拉远效果。
-
-#### 📝 提示词
-
-```
-现在镜头拉远，画面中出现一个《黑客帝国》里的哨兵，采用 Q 版风格，做出像“捂脸”表情包那样拍打自己脸部的动作
-```
-
-<img src="https://cms-assets.youmind.com/media/1780043959273_tjmkzf_HJbP2mJWIAM1_uu.jpg" width="600" alt="Q 版黑客帝国哨兵动画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5410)**
-
-**作者:** [Robert Coffman 𓂀☤ ⚕ 🕊️](https://x.com/cache_refresh) | **来源:** [Link](https://x.com/cache_refresh/status/2060062532811862053) | **发布时间:** May 28, 2026
-
----
-### Q 版女孩在绚丽海浪上冲浪
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段精细的视频提示词，描述了一位可爱的 Q 版风格女孩在晴朗天空下，于明亮的蓝绿色海浪中熟练冲浪的场景。
-
-#### 📝 提示词
-
-```
-一位可爱的 Q 版女孩在美丽的海洋中冲浪，晴朗的天空下，蓝绿色的海浪绚丽夺目。她身穿干练的黑色冲浪服，动作熟练地保持平衡……
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/04f56219f7523850b9d19e66b0c14035/thumbnails/thumbnail.jpg" width="600" alt="Q 版女孩在绚丽海浪上冲浪">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5415)**
-
-**作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **来源:** [Link](https://x.com/clemensilverio/status/2060020165077561632) | **发布时间:** May 28, 2026
-
----
-### 废弃的深海钻井平台
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段 10 秒的电影级视频提示词，描绘了末日后笼罩在迷雾中、充满诡异光影且带有缓慢追踪镜头的海洋工业废墟。
-
-#### 📝 提示词
-
-```
-黎明时分，一座巨大的废弃深海钻井平台在风暴肆虐、浓雾弥漫的海洋中半坍塌地矗立着。摄像机在黑色海面上方低空缓慢滑行，穿过厚重翻滚的迷雾，锈迹斑斑的钢梁、悬垂的缆绳和破碎的泛光灯在头顶若隐若现。平台发出微弱的吱呀声，金属在风压下呻吟。海水拍打着腐蚀的支撑架，漂浮的残骸轻轻撞击着结构。摄像机向前追踪进入平台阴暗的内部，那里工业机械已停止运转并被淹没，覆盖着盐渍和腐朽。当摄像机推近一扇布满盐渍裂纹的控制室窗户时，一台警告显示器微弱地闪烁着，呈现出扭曲的静电噪点。突然，结构深处的一盏红色应急信标闪烁亮起，在雾气中投射出昏暗的脉冲光。场景在悬疑氛围中定格，将末日后的现实主义与诡异的工业气息融为一体。
-场景风格：末日海洋迷雾 | 工业废墟 | 低角度追踪 | 电影级悬疑 | 环境音效设计 | 超写实腐朽 | 缓慢摄像机滑行 | 戏剧性雾气扩散
-时长：10 秒
-长宽比：16:9
-运动：平滑追踪镜头，类似手持稳定无人机的轻微摇晃
-光影：黎明灰蓝色雾气，信标发出的微弱红色脉冲，湿润锈迹上的柔和镜面高光
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b11868815b31bb8f7e83b37b89d6cf64/thumbnails/thumbnail.jpg" width="600" alt="废弃的深海钻井平台">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5407)**
-
-**作者:** [Mr Das](https://x.com/MrDasOnX) | **来源:** [Link](https://x.com/MrDasOnX/status/2059991468174086407) | **发布时间:** May 28, 2026
-
----
-### 闪烁蘑菇蜗牛动画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个图生视频提示词，可将图片转换为带有蘑菇眼睛、闪烁且动态的蜗牛。
-
-#### 📝 提示词
-
-```
-将这张图片转换为一只动态的、闪烁的蜗牛，并让蘑菇作为它的眼睛。让它的动作更缓慢一些——就像真正的蜗牛一样……
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/afc239d0e0db9ee9e467f8aefce5708d/thumbnails/thumbnail.jpg" width="600" alt="闪烁蘑菇蜗牛动画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5414)**
-
-**作者:** [Lynn Hocker](https://x.com/Auroraskye3993) | **来源:** [Link](https://x.com/Auroraskye3993/status/2059981827188932980) | **发布时间:** May 28, 2026
-
----
-### 亚当与史蒂夫的伊甸园恶搞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段幽默的电影感视频提示词，描绘了伊甸园故事的变体，主角为两名男性。
-
-#### 📝 提示词
-
-```
-在伊甸园中，主角不是亚当和夏娃，而是亚当和史蒂夫。两人对视一眼，其中一人对另一人说道：“这可不是个好的商业计划！”
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e8d0f1e462b234de30e9e080c7aa7d73/thumbnails/thumbnail.jpg" width="600" alt="亚当与史蒂夫的伊甸园恶搞">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5405)**
-
-**作者:** [Steve Seewald](https://x.com/TrophosSteve4) | **来源:** [Link](https://x.com/TrophosSteve4/status/2059968042155577811) | **发布时间:** May 28, 2026
-
----
-### 漂浮灯火与灯笼光影视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个宁静的视频提示词，旨在创作一幅漂浮灯火与灯笼在静谧水面上闪烁的场景，强调安宁与光影之美。
-
-#### 📝 提示词
-
-```
-沉浸在漂浮灯火与静谧水面的世界中。今夜，唯有宁静与灯笼的微光相伴。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b46948071549d36f22b079c4df00722c/thumbnails/thumbnail.jpg" width="600" alt="漂浮灯火与灯笼光影视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5412)**
-
-**作者:** [DuBoseJen](https://x.com/DuBosefire) | **来源:** [Link](https://x.com/DuBosefire/status/2059854384217923729) | **发布时间:** May 28, 2026
-
----
-### 水面之上的宇宙女神灵
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段天体主题的视频提示词，画面中一位女性的皮肤由星辰与星系交织而成，漂浮在宁静的水面上。
-
-#### 📝 提示词
-
-```
-在世界与世界之间的静谧之处，她化身为宇宙本身——每一颗恒星、每一个星系、每一个梦境都交织在她的肌肤之中。她漂浮在平静的水面上，灵魂中承载着整个宇宙。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0edb857ca4d2fab00700808af6d2ec62/thumbnails/thumbnail.jpg" width="600" alt="水面之上的宇宙女神灵">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5409)**
-
-**作者:** [DuBoseJen](https://x.com/DuBosefire) | **来源:** [Link](https://x.com/DuBosefire/status/2059850712238923939) | **发布时间:** May 28, 2026
-
----
-### 音符云提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个充满诗意的提示词，将小提琴音乐可视化为朦胧云雾中的文字效果。
-
-#### 📝 提示词
-
-```
-当她演奏音乐时，声音被具象化为从小提琴中飘出的音符，并汇聚成“GOD First always”（上帝永远第一）的字样，呈现于朦胧的云雾之中。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c368e49288e7394cde4426eb20593f6b/thumbnails/thumbnail.jpg" width="600" alt="音符云提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5359)**
-
-**作者:** [the_light](https://x.com/the_light35) | **来源:** [Link](https://x.com/the_light35/status/2059759517143859660) | **发布时间:** May 27, 2026
-
----
-### 计算减法曼哈顿塔
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于生成曼哈顿超高层摩天大楼视频的提示词，该建筑通过计算减法工艺进行建筑雕塑，从而创造出大型空腔。
-
-#### 📝 提示词
-
-```
-AI 生成的曼哈顿超高层塔楼，430 米垂直结构，由计算减法工艺雕塑而成，带有巨大的镂空腔体
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e4733da51d048e62b5b1833efd1dfa1c/thumbnails/thumbnail.jpg" width="600" alt="计算减法曼哈顿塔">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5354)**
-
-**作者:** [everything +AI](https://x.com/AiAigallery) | **来源:** [Link](https://x.com/AiAigallery/status/2059751365287526757) | **发布时间:** May 27, 2026
-
----
-### 第一人称游击风格素材
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于 grok-imagine 的基础提示词，旨在创作类似 iPhone 拍摄的粗粝、手持第一人称视角视频（Found Footage）。
-
-#### 📝 提示词
-
-```
-手持游击风格 FOUND FOOTAGE 视频。粗粝且窄视角。他正拿着 IPHONE 摄像机，完全处于画面之外，无图形叠加。仅限第一人称摄像机视角
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f880960330aa921325b52c1cef19cca1/thumbnails/thumbnail.jpg" width="600" alt="第一人称游击风格素材">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5357)**
-
-**作者:** [The Rogue AI](https://x.com/evalincoln4101) | **来源:** [Link](https://x.com/evalincoln4101/status/2059710663694721317) | **发布时间:** May 27, 2026
-
----
-### 太空营零重力宇航员
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个充满奇趣的儿童绘本风格视频提示词，展现了未来的小宇航员们在亨茨维尔太空营的零重力舱中漂浮的场景。
-
-#### 📝 提示词
-
-```
-身穿太空童子军背心和深石楠灰服装的未来小宇航员们，在亨茨维尔太空营的零重力舱中漂浮玩耍。画面充满兴奋、欢乐和奇趣的儿童电子书风格，氛围极具启发性。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/65b5497c1b19352f0dc9352f55e07bed/thumbnails/thumbnail.jpg" width="600" alt="太空营零重力宇航员">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5355)**
-
-**作者:** [Jean](https://x.com/SpaceScoutsIntl) | **来源:** [Link](https://x.com/SpaceScoutsIntl/status/2059554674324426973) | **发布时间:** May 27, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2240,6 +2251,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-06-11T04:56:30.798Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-06-11T12:28:46.674Z</sub>
 
 </div>

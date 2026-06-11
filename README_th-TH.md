@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1773** |
+| 📝 Total Prompts | **1785** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-11** |
 
@@ -189,6 +189,251 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### การเฉลิมฉลองของคู่รักชาวโรมานี
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์บรรยากาศรื่นเริงที่แสดงภาพคู่รักชาวโรมานีที่กำลังเฉลิมฉลองและชนแก้วเบียร์กันอย่างมีความสุข
+
+#### 📝 Prompt
+
+```
+คู่รักชาวโรมานีที่กำลังดื่มเบียร์อย่างสนุกสนานและเต็มไปด้วยความสุข เป็นการเฉลิมฉลองที่มีชีวิตชีวา พร้อมท่าทางการจิบ การชนแก้ว และการเคลื่อนไหวที่แสดงถึงความรื่นเริงอย่างเป็นธรรมชาติ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064793543646777344/img/8mezMMMGG2BWxR9Z.jpg" width="600" alt="การเฉลิมฉลองของคู่รักชาวโรมานี">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5923)**
+
+**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2064793659480908190) | **Published:** Jun 10, 2026
+
+---
+### อนิเมะฟุตบอล Lionel Messi สไตล์จิบิ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> แอนิเมชันสไตล์จิบิสีสันสดใสที่นำเสนอ Lionel Messi กำลังเล่นฟุตบอลเคียงข้างหุ่นยนต์เพื่อนซี้สุดน่ารัก
+
+#### 📝 Prompt
+
+```
+ฟุตบอล. Messi. อาร์เจนตินา. 🫶❤️🫶
+ฉากอนิเมะสไตล์จิบิสีสันสดใสที่นำเสนอ Lionel Messi หัวโตสุดน่ารักในชุดทีมชาติอาร์เจนตินาหมายเลข 10 กำลังเล่นฟุตบอลอย่างกระตือรือร้นบนสนามหญ้าสีเขียวเคียงข้างหุ่นยนต์เพื่อนซี้ตัวน้อยสุดน่ารัก เจ้าหุ่นยนต์ตัวจิ๋วกำลัง...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064789011407798272/img/30kXOKm4MaNrafZK.jpg" width="600" alt="อนิเมะฟุตบอล Lionel Messi สไตล์จิบิ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5919)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2064789155498914018) | **Published:** Jun 10, 2026
+
+---
+### การแทรกแซงจากขวดเหล้าพูดได้
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอสุดสร้างสรรค์ที่ขวดเหล้ากลับมีชีวิตขึ้นมาพร้อมเสียงทุ้มต่ำ เพื่อบอกให้ชายคนหนึ่งเลิกดื่ม
+
+#### 📝 Prompt
+
+```
+ทำให้ขวดเหล้าของชายคนนั้นกลับมีชีวิตขึ้นมา แล้วบอกเขา (ด้วยน้ำเสียงทุ้มต่ำที่กินใจ) ว่าได้โปรดเถอะ เห็นแก่พระเจ้า วางเขาลงซะ... ตับของคุณกำลังร้องขอชีวิต! คุณไม่จำเป็นต้องดื่มทุกครั้งที่สตรีม! แล้วคุณจะขับรถพาเขาไปได้อย่างไรในสภาพนี้?
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064780117352529920/img/gaivqrkpncJed3AD.jpg" width="600" alt="การแทรกแซงจากขวดเหล้าพูดได้">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5926)**
+
+**Author:** [FAGWOP](https://x.com/TopSheboon) | **Source:** [Link](https://x.com/TopSheboon/status/2064780168787263783) | **Published:** Jun 10, 2026
+
+---
+### วิดีโอรณรงค์เรื่องการดื่มแอลกอฮอล์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอสไตล์ PSA ที่ขวดแอลกอฮอล์แอนิเมชันพูดคุยกับชายคนหนึ่งเกี่ยวกับสุขภาพและการขับขี่ของเขา
+
+#### 📝 Prompt
+
+```
+ทำให้ขวดแอลกอฮอล์มีชีวิตขึ้นมาแล้วบอกชายคนนั้นว่า ได้โปรดเถอะ วางเขาลงซะ …และคุณไม่จำเป็นต้องดื่มทุกครั้งที่สตรีม! คุณจะขับรถไปส่งเขาได้ยังไงในสภาพนี้?
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064771829881884672/img/awlkVTqjuFUOL8o8.jpg" width="600" alt="วิดีโอรณรงค์เรื่องการดื่มแอลกอฮอล์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5927)**
+
+**Author:** [FAGWOP](https://x.com/TopSheboon) | **Source:** [Link](https://x.com/TopSheboon/status/2064771882306416673) | **Published:** Jun 10, 2026
+
+---
+### เผยโฉมภายในร้านอาหารในรถเทรลเลอร์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำบรรยายรายละเอียดสำหรับฉากเปิดประตูเพื่อเผยให้เห็นร้านอาหารขนาดเล็กระดับไฮเอนด์ที่อยู่ภายในรถเทรลเลอร์
+
+#### 📝 Prompt
+
+```
+เมื่อมือเปิดประตูออก ลองจินตนาการถึงร้านอาหารขนาดเล็ก 20 x 10 ฟุต ที่อยู่ด้านหลังรถเทรลเลอร์คันนั้น ซึ่งดูแลโดยเชฟระดับพรีเมียมจากโคลอมเบียอย่าง Louis และที่นั่นเต็มไปด้วยผู้คนที่คัดสรรมาแล้ว เพื่อให้มั่นใจว่าค่ำคืนนั้นจะเป็นคืนที่พิเศษที่สุดสำหรับคุณ...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064766426338979840/img/ITR1xY9VBvrC97P6.jpg" width="600" alt="เผยโฉมภายในร้านอาหารในรถเทรลเลอร์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5920)**
+
+**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2064766481762496694) | **Published:** Jun 10, 2026
+
+---
+### วังวนสวรรค์อันวิจิตร
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์ที่มีความซับซ้อน นำเสนอภาพเหล่าทูตสวรรค์และดวงวิญญาณที่กำลังเสด็จลงมาจากสรวงสวรรค์เพื่อหลอมรวมเข้ากับวังวนพายุหมุนกลางน้ำ
+
+#### 📝 Prompt
+
+```
+พายุหมุน 🌪️ 
+
+สรวงสวรรค์และ 💫 ทูตสวรรค์ 😇 เหล่าภูต 🧚 ดวงวิญญาณเสด็จลงมาเพื่อหลอมรวมเข้ากับวังวนพายุหมุนกลางน้ำ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064756208485933057/img/IzdxOz4-2aqBCddr.jpg" width="600" alt="วังวนสวรรค์อันวิจิตร">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5925)**
+
+**Author:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **Source:** [Link](https://x.com/PhilipC34457079/status/2064756343618023730) | **Published:** Jun 10, 2026
+
+---
+### โลมาในพายุหมุนหยินหยาง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์แนวเหนือจริงและเปี่ยมไปด้วยพลัง ที่แสดงภาพโลมาว่ายน้ำและกระโดดเข้าไปในพายุหมุนรูปทรงหยินหยาง
+
+#### 📝 Prompt
+
+```
+กระโดดกันเลยดีกว่า 💓 โลมา 🐬 ว่ายน้ำและพุ่งตัวขึ้นจากน้ำ 💦 เข้าไปในพายุหมุนรูปทรงหยินหยาง ☯️ พายุทอร์นาโด 🌪️....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064754963574628353/img/jhJM52fDtBAiSaxm.jpg" width="600" alt="โลมาในพายุหมุนหยินหยาง">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5922)**
+
+**Author:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **Source:** [Link](https://x.com/PhilipC34457079/status/2064755089911226585) | **Published:** Jun 10, 2026
+
+---
+### มังกรโบราณบนโขดหิน
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์ที่แสดงภาพมังกรโบราณเกาะอยู่บนโขดหินท่ามกลางภูมิทัศน์ภูเขาที่มีหมอกปกคลุม
+
+#### 📝 Prompt
+
+```
+ภาพถ่ายของมังกรโบราณบนโขดหินท่ามกลางภูมิทัศน์ภูเขาที่มีหมอกปกคลุม
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064748737801449472/img/sMO6haUXkFPS8vo8.jpg" width="600" alt="มังกรโบราณบนโขดหิน">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5918)**
+
+**Author:** [Jose Armando Lopez Sandoval](https://x.com/JoseArm87975355) | **Source:** [Link](https://x.com/JoseArm87975355/status/2064748796861403422) | **Published:** Jun 10, 2026
+
+---
+### หุ่นยนต์กระต่ายกลไกแบบกระโดด
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์แบบละเอียดสำหรับหุ่นยนต์กลไกที่มีขาเหมือนกระต่ายกำลังเดินขึ้นบันได
+
+#### 📝 Prompt
+
+```
+หุ่นยนต์กระโดดตัวน้อยน่ารักที่กำลังพิชิตบันได มาพร้อมกับขาพิเศษสองข้างที่มีรูปร่างเหมือนขาหลังของกระต่าย เผยให้เห็นเฟืองกลไกสำหรับการกระโดด และมีล้อสองล้อที่ไม่ได้ใช้สำหรับบรรทุกน้ำหนัก
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064738618951061505/img/S-aZpA1RkdutEmeB.jpg" width="600" alt="หุ่นยนต์กระต่ายกลไกแบบกระโดด">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5924)**
+
+**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2064738687557173748) | **Published:** Jun 10, 2026
+
+---
+### ภาพพอร์ตเทรตยักษ์เหนือจริงท่ามกลางกลุ่มเมฆที่พวยพุ่ง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับการสร้างวิดีโอระดับสูงสำหรับ Grok Imagine ที่ให้ผลลัพธ์เป็นภาพโคลสอัพสไตล์เซอร์เรียลลิสม์ที่ได้รับแรงบันดาลใจจาก ดาลี (Dali) โดยเป็นภาพใบหน้ายักษ์ที่มองลงมายังเส้นขอบฟ้าพร้อมกลุ่มเมฆที่ลอยพุ่งขึ้นด้านบน
+
+#### 📝 Prompt
+
+```
+ใช้ภาพที่แนบมาเป็นเฟรมเริ่มต้นและอ้างอิงทางภาพที่แม่นยำ
+
+ใช้วิดีโอที่แนบมาเป็นข้อมูลอ้างอิงการเคลื่อนไหวสำหรับสไตล์การเคลื่อนไหวที่นุ่มนวลและจำกัด
+
+สร้างวิดีโอความยาว 6 วินาที
+
+จัดองค์ประกอบภาพแบบโคลสอัพสุดขีดให้เต็มเฟรม โดยให้ใบหน้าของนางแบบกินพื้นที่ส่วนใหญ่ทางด้านซ้าย การจัดแสงที่โดดเด่นเป็นพิเศษสร้างเงาดำทอดยาวบนหน้าผาก ดึงดูดสายตาผู้ชมไปยังดวงตา พื้นหลังเป็นท้องฟ้าสีน้ำเงินสดใสและเส้นขอบฟ้าที่อยู่ไกลออกไป สัดส่วนของใบหน้ายังคงขยายใหญ่ราวกับอนุสาวรีย์ สร้างความรู้สึกถึงตัวตนขนาดมหึมาเหนือพื้นโลก โดยมีกลุ่มเมฆลอยอยู่ใต้ใบหน้าของเธอ
+
+รักษาใบหน้าของนางแบบให้นิ่งที่สุด โดยไม่มีการขยับศีรษะหรือเปลี่ยนตำแหน่งอย่างชัดเจน เธอจ้องมองตรงมาที่กล้องและกะพริบตาอย่างเป็นธรรมชาติหนึ่งหรือสองครั้ง สีหน้าของเธอยังคงสงบนิ่งและเรียบเฉย
+
+ตลอดทั้งช็อต กลุ่มเมฆด้านล่างจะค่อยๆ ก่อตัวและพวยพุ่งขึ้นด้านบนอย่างน่าทึ่งแต่ราบรื่น ขยายตัวจนกระทั่งปกคลุมบริเวณคางของนางแบบเมื่อสิ้นสุดวิดีโอ
+
+คงไว้ซึ่งการปรับโทนสีแบบแบนราบและเกือบจะเป็นสีเดียว (monochromatic) รายละเอียดผิวที่ซับซ้อน เช่น รูขุมขนและกระ รวมถึงความแตกต่างระหว่างใบหน้าที่ละเอียดสูงกับพื้นหลังที่เป็นนามธรรมและมีเกรน รักษาอารมณ์แบบเซอร์เรียลลิสม์ที่ได้รับแรงบันดาลใจจาก ดาลี (Dalí) เอาไว้
+
+รักษาองค์ประกอบภาพ สไตล์ศิลปะ การจัดแสง สี และอารมณ์โดยรวมของภาพอ้างอิงไว้อย่างครบถ้วน
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064718481376030720/img/ZY3Ookn3geMb4bnc.jpg" width="600" alt="ภาพพอร์ตเทรตยักษ์เหนือจริงท่ามกลางกลุ่มเมฆที่พวยพุ่ง">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5928)**
+
+**Author:** [サン｜Sun](https://x.com/sunsunshine0318) | **Source:** [Link](https://x.com/sunsunshine0318/status/2064719200216846599) | **Published:** Jun 10, 2026
+
+---
+### สาวน้อยอนิเมะเดินบนก้อนเมฆ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ฉากแปลงโฉมสไตล์อนิเมะที่มีเด็กสาวผมสีขาวกำลังเดินผ่านก้อนเมฆนุ่มฟู พร้อมถือหัวใจแห่งจักรวาลที่ส่องแสงสว่างไสว
+
+#### 📝 Prompt
+
+```
+เปลี่ยนภาพอ้างอิงให้เป็นฉากสไตล์อนิเมะที่มีสีสันสดใส: เด็กสาวอนิเมะน่ารักผมยาวสีขาว ซึ่งได้รับแรงบันดาลใจจากผู้หญิงในภาพถ่าย กำลังเดินอย่างสง่างามผ่านก้อนเมฆสีขาวนุ่มฟูบนท้องฟ้าที่ดูชวนฝัน เธอถือหัวใจแห่งจักรวาลขนาดใหญ่ที่ส่องแสงสว่างไสวอยู่ใน...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064524508044607488/img/95yPRmCrwtzcqByi.jpg" width="600" alt="สาวน้อยอนิเมะเดินบนก้อนเมฆ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5917)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2064524631554310372) | **Published:** Jun 10, 2026
+
+---
+### แปลงโฉมตัวละครอนิเมะด้วยแสงออร่าดั่งเทพนิยาย
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่งเชิงศิลปะที่เปลี่ยนบุคคลอ้างอิงให้กลายเป็นตัวละครอนิเมะโปร่งแสงที่มีแสงออร่าเปล่งประกาย สวมมงกุฎดวงดาวบนท้องฟ้า และลอยอยู่ในสภาพแวดล้อมที่เต็มไปด้วยหมอก
+
+#### 📝 Prompt
+
+```
+เปลี่ยนผู้หญิงจากภาพอ้างอิงให้เป็นตัวละครสไตล์อนิเมะที่สวยงาม ด้วยร่างกายที่โปร่งแสงและเปล่งประกายดั่งเทพนิยาย ให้ความรู้สึกเหมือนอยู่ในความฝันที่เต็มไปด้วยหมอก เธอสวมมงกุฎดวงดาวระยิบระยับบนศีรษะ และลอยตัวอย่างสง่างามอยู่ระหว่าง...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064516478301347840/img/qrvccz2asU8-bs6B.jpg" width="600" alt="แปลงโฉมตัวละครอนิเมะด้วยแสงออร่าดั่งเทพนิยาย">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5921)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2064516575349108767) | **Published:** Jun 10, 2026
+
+---
 ### หุบเขาภูเขาในบรรยากาศภาพยนตร์โทนดาร์ก
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1946,240 +2191,6 @@ Hermes ได้รับรองเท้าบินได้สุดเร�
 **Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2060070704482287761) | **Published:** May 28, 2026
 
 ---
-### วิดีโอเส้นทางในป่าแฟนตาซีสไตล์สตีมพังค์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวสตีมพังค์สุดมหัศจรรย์ ที่มีพ่อมดและราชินีภูตกำลังเดินผ่านป่าไปยังห้องสมุด
-
-#### 📝 Prompt
-
-```
-บรรยากาศสตีมพังค์สุดมหัศจรรย์
-พ่อมดและราชินีภูตเดินผ่านเส้นทางในป่าไปยังกระท่อมและเข้าไปในห้องสมุด
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9f7fcc8c1a4d4a3ca5efdfd5e106aeb3/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอเส้นทางในป่าแฟนตาซีสไตล์สตีมพังค์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5413)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2060069085266997532) | **Published:** May 28, 2026
-
----
-### แอนิเมชัน Chibi Matrix Sentinel
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอเชิงสร้างสรรค์สำหรับสร้างตัวละคร Matrix Sentinel ในสไตล์จิบิที่กำลังทำท่าตบหน้าตัวเอง (face-palm) พร้อมเอฟเฟกต์ซูมเอาต์
-
-#### 📝 Prompt
-
-```
-ซูมเอาต์ออกมาให้เห็น Sentinel จากภาพยนตร์เรื่อง “Matrix” ในสไตล์จิบิ กำลังทำท่าตบหน้าตัวเองเหมือนอิโมจิ
-```
-
-<img src="https://cms-assets.youmind.com/media/1780043959273_tjmkzf_HJbP2mJWIAM1_uu.jpg" width="600" alt="แอนิเมชัน Chibi Matrix Sentinel">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5410)**
-
-**Author:** [Robert Coffman 𓂀☤ ⚕ 🕊️](https://x.com/cache_refresh) | **Source:** [Link](https://x.com/cache_refresh/status/2060062532811862053) | **Published:** May 28, 2026
-
----
-### สาวน้อยจิบิโต้คลื่นบนเกลียวคลื่นสีสันสดใส
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์ที่มีรายละเอียดของสาวน้อยสไตล์จิบิที่กำลังโต้คลื่นสีฟ้าและเขียวสดใสอย่างคล่องแคล่วภายใต้ท้องฟ้าที่สดใส
-
-#### 📝 Prompt
-
-```
-สาวน้อยจิบิสุดน่ารักกำลังโต้คลื่นในมหาสมุทรที่สวยงามด้วยเกลียวคลื่นสีฟ้าและเขียวสดใสภายใต้ท้องฟ้าที่สดใส เธอสวมชุดโต้คลื่นสีดำเพรียวบางและทรงตัวได้อย่างคล่องแคล่ว…..
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/04f56219f7523850b9d19e66b0c14035/thumbnails/thumbnail.jpg" width="600" alt="สาวน้อยจิบิโต้คลื่นบนเกลียวคลื่นสีสันสดใส">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5415)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2060020165077561632) | **Published:** May 28, 2026
-
----
-### แท่นขุดเจาะน้ำมันกลางทะเลลึกที่ถูกทิ้งร้าง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวภาพยนตร์ความยาว 10 วินาที ที่แสดงภาพซากปรักหักพังทางอุตสาหกรรมในยุคหลังวันสิ้นโลกท่ามกลางหมอกหนาในมหาสมุทร พร้อมแสงที่ดูน่าขนลุกและการเคลื่อนกล้องแบบติดตามช้าๆ
-
-#### 📝 Prompt
-
-```
-แท่นขุดเจาะน้ำมันขนาดมหึมากลางทะเลลึกที่ถูกทิ้งร้างตั้งตระหง่านอยู่ในสภาพพังทลายครึ่งหนึ่งท่ามกลางมหาสมุทรที่มีพายุและหมอกหนาทึบในช่วงรุ่งสาง กล้องเคลื่อนที่ต่ำและช้าๆ เหนือผิวน้ำสีดำ เคลื่อนผ่านกลุ่มหมอกที่ม้วนตัวหนาแน่น โดยมีคานเหล็กขึ้นสนิม สายเคเบิลที่ห้อยระโยงระยาง และไฟสปอร์ตไลท์ที่แตกหักปรากฏอยู่เบื้องบน แท่นขุดเจาะส่งเสียงเอี๊ยดอ๊าดเบาๆ โลหะส่งเสียงครวญครางภายใต้แรงลม น้ำทะเลสาดกระทบโครงสร้างที่ผุกร่อน และเศษซากที่ลอยมาชนกับโครงสร้างเบาๆ กล้องติดตามเคลื่อนไปข้างหน้าสู่ภายในที่มืดมิดของแท่นขุดเจาะ ซึ่งเครื่องจักรทางอุตสาหกรรมหยุดทำงานและถูกน้ำท่วมขัง ปกคลุมไปด้วยคราบเกลือและความเสื่อมโทรม เมื่อกล้องขยับเข้าใกล้หน้าต่างห้องควบคุมที่มีรอยร้าวจากคราบเกลือ จอมอนิเตอร์แจ้งเตือนเพียงตัวเดียวก็กะพริบเบาๆ เผยให้เห็นสัญญาณรบกวนที่บิดเบี้ยว ทันใดนั้น ไฟสัญญาณฉุกเฉินสีแดงดวงหนึ่งลึกเข้าไปในโครงสร้างก็สว่างวาบขึ้นมา ทำให้เกิดแสงกะพริบสลัวๆ ผ่านม่านหมอก ฉากนี้ทิ้งความรู้สึกระทึกขวัญ ผสมผสานความสมจริงของยุคหลังวันสิ้นโลกเข้ากับบรรยากาศทางอุตสาหกรรมที่น่าขนลุก
-สไตล์ของฉาก: หมอกในมหาสมุทรยุคหลังวันสิ้นโลก | ซากปรักหักพังทางอุตสาหกรรม | การติดตามมุมต่ำ | ความระทึกขวัญแบบภาพยนตร์ | การออกแบบเสียงบรรยากาศ | ความเสื่อมโทรมที่สมจริงเป็นพิเศษ | การเคลื่อนกล้องแบบสโลว์โมชั่น | การกระจายตัวของหมอกที่ดูดราม่า
-ความยาว: 10 วินาที
-อัตราส่วนภาพ: 16:9
-การเคลื่อนไหว: ช็อตติดตามที่นุ่มนวล, การแกว่งไกวเล็กน้อยเหมือนโดรนที่มีระบบกันสั่น
-แสง: หมอกสีเทาอมฟ้าในช่วงรุ่งสาง, แสงกะพริบสีแดงสลัวจากสัญญาณไฟ, แสงสะท้อนที่นุ่มนวลบนสนิมที่เปียกชื้น
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b11868815b31bb8f7e83b37b89d6cf64/thumbnails/thumbnail.jpg" width="600" alt="แท่นขุดเจาะน้ำมันกลางทะเลลึกที่ถูกทิ้งร้าง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5407)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2059991468174086407) | **Published:** May 28, 2026
-
----
-### แอนิเมชันหอยทากเห็ดสุดวิบวับ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) สำหรับเปลี่ยนภาพนิ่งให้กลายเป็นวิดีโอหอยทากที่มีดวงตาเป็นเห็ดและดูเป็นประกายวิบวับ
-
-#### 📝 Prompt
-
-```
-เปลี่ยนภาพนี้ให้กลายเป็นหอยทากที่เคลื่อนไหวได้และดูเป็นประกายวิบวับ โดยให้มีเห็ดเป็นดวงตาของมัน ปรับการเคลื่อนไหวให้ช้าลง เหมือนกับหอยทากจริงๆ...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/afc239d0e0db9ee9e467f8aefce5708d/thumbnails/thumbnail.jpg" width="600" alt="แอนิเมชันหอยทากเห็ดสุดวิบวับ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5414)**
-
-**Author:** [Lynn Hocker](https://x.com/Auroraskye3993) | **Source:** [Link](https://x.com/Auroraskye3993/status/2059981827188932980) | **Published:** May 28, 2026
-
----
-### ล้อเลียนเรื่องราวของ Adam และ Steve ในสวนอีเดน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวภาพยนตร์สุดฮาที่นำเสนอเรื่องราวสวนอีเดนในมุมมองใหม่โดยมีตัวละครเป็นชายสองคน
-
-#### 📝 Prompt
-
-```
-ชายสองคนในสวนอีเดนแทนที่จะเป็น Adam และ Eve แต่กลับกลายเป็น Adam และ Steve ทั้งคู่มองหน้ากันแล้วคนหนึ่งก็พูดกับอีกคนว่า นี่ไม่ใช่แผนธุรกิจที่ดีเลยนะ!
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e8d0f1e462b234de30e9e080c7aa7d73/thumbnails/thumbnail.jpg" width="600" alt="ล้อเลียนเรื่องราวของ Adam และ Steve ในสวนอีเดน">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5405)**
-
-**Author:** [Steve Seewald](https://x.com/TrophosSteve4) | **Source:** [Link](https://x.com/TrophosSteve4/status/2059968042155577811) | **Published:** May 28, 2026
-
----
-### วิดีโอแสงไฟลอยน้ำและโคมไฟเรืองแสง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวสงบที่สร้างฉากของแสงไฟและโคมไฟลอยอยู่เหนือน้ำที่เงียบสงบ เน้นความรู้สึกผ่อนคลายและแสงเรืองรอง
-
-#### 📝 Prompt
-
-```
-หลงใหลในโลกแห่งแสงไฟลอยน้ำและผืนน้ำที่เงียบสงบ ค่ำคืนนี้มีเพียงความสงบและแสงเรืองรองจากโคมไฟเท่านั้น
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b46948071549d36f22b079c4df00722c/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอแสงไฟลอยน้ำและโคมไฟเรืองแสง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5412)**
-
-**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2059854384217923729) | **Published:** May 28, 2026
-
----
-### เทพธิดาแห่งจักรวาลเหนือผืนน้ำ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์แนวเซเลสเชียล (Celestial) ที่นำเสนอภาพหญิงสาวผู้มีผิวพรรณถักทอด้วยดวงดาวและกาแล็กซี ลอยอยู่เหนือผืนน้ำอันเงียบสงบ
-
-#### 📝 Prompt
-
-```
-ในความเงียบงันระหว่างโลกทั้งสอง เธอได้กลายเป็นจักรวาลเสียเอง — ทุกดวงดาว ทุกกาแล็กซี และทุกความฝันถูกถักทอลงบนผิวของเธอ เธอผู้ลอยอยู่เหนือผืนน้ำนิ่งสงบ แบกรับจักรวาลไว้ภายในจิตวิญญาณของเธอ
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0edb857ca4d2fab00700808af6d2ec62/thumbnails/thumbnail.jpg" width="600" alt="เทพธิดาแห่งจักรวาลเหนือผืนน้ำ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5409)**
-
-**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2059850712238923939) | **Published:** May 28, 2026
-
----
-### พรอมต์กลุ่มเมฆตัวโน้ตดนตรี
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์เชิงกวีที่เสียงดนตรีจากไวโอลินถูกถ่ายทอดออกมาเป็นภาพตัวอักษรภายในเอฟเฟกต์กลุ่มเมฆหมอก
-
-#### 📝 Prompt
-
-```
-ขณะที่เธอบรรเลงดนตรี เสียงที่เกิดขึ้นจะถูกมองเห็นและแสดงออกมาเป็นตัวโน้ตดนตรีที่ลอยออกมาจากไวโอลิน ก่อตัวเป็นคำว่า “GOD First always.” ท่ามกลางกลุ่มเมฆหมอก
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c368e49288e7394cde4426eb20593f6b/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์กลุ่มเมฆตัวโน้ตดนตรี">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5359)**
-
-**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2059759517143859660) | **Published:** May 27, 2026
-
----
-### ตึกระฟ้าแมนแฮตตันที่สร้างด้วยกระบวนการ Computational Subtraction
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) สำหรับสร้างวิดีโอตึกระฟ้าสูงพิเศษในแมนแฮตตัน ซึ่งได้รับการออกแบบทางสถาปัตยกรรมด้วยกระบวนการ Computational Subtraction เพื่อสร้างช่องว่างขนาดใหญ่ภายในตัวอาคาร
-
-#### 📝 Prompt
-
-```
-ตึกระฟ้าที่สร้างโดย AI ในแมนแฮตตัน โครงสร้างแนวตั้งสูง 430 เมตร ที่ถูกแกะสลักด้วยกระบวนการ Computational Subtraction เผยให้เห็นช่องว่างขนาดใหญ่ที่ถูกเจาะออก
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e4733da51d048e62b5b1833efd1dfa1c/thumbnails/thumbnail.jpg" width="600" alt="ตึกระฟ้าแมนแฮตตันที่สร้างด้วยกระบวนการ Computational Subtraction">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5354)**
-
-**Author:** [everything +AI](https://x.com/AiAigallery) | **Source:** [Link](https://x.com/AiAigallery/status/2059751365287526757) | **Published:** May 27, 2026
-
----
-### ฟุตเทจสไตล์กองโจรแบบมุมมองบุคคลที่หนึ่ง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่งพื้นฐาน (Base prompt) สำหรับ grok-imagine เพื่อสร้างวิดีโอแบบมุมมองบุคคลที่หนึ่งที่ดูสมจริงและดิบเถื่อน คล้ายกับฟุตเทจที่ถ่ายด้วย iPhone
-
-#### 📝 Prompt
-
-```
-วิดีโอฟุตเทจสไตล์กองโจรแบบถือถ่าย (HANDHELD) ภาพดูดิบและเป็นมุมแคบ ผู้ถ่ายถือกล้อง IPHONE และตัวผู้ถ่ายอยู่นอกเฟรมทั้งหมด ไม่มีกราฟิกซ้อนทับ เป็นมุมมองกล้องแบบบุคคลที่หนึ่งเท่านั้น
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f880960330aa921325b52c1cef19cca1/thumbnails/thumbnail.jpg" width="600" alt="ฟุตเทจสไตล์กองโจรแบบมุมมองบุคคลที่หนึ่ง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5357)**
-
-**Author:** [The Rogue AI](https://x.com/evalincoln4101) | **Source:** [Link](https://x.com/evalincoln4101/status/2059710663694721317) | **Published:** May 27, 2026
-
----
-### นักบินอวกาศไร้น้ำหนักที่ Space Camp
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอสไตล์หนังสือนิทานเด็กสุดแฟนตาซี ที่ถ่ายทอดภาพเหล่านักบินอวกาศตัวน้อยในอนาคตกำลังลอยตัวอยู่ในสภาวะไร้น้ำหนักที่ Space Camp Huntsville
-
-#### 📝 Prompt
-
-```
-เหล่านักบินอวกาศตัวน้อยในอนาคตสวมเสื้อกั๊ก Space Scout และชุดสีเทาเข้ม กำลังลอยตัวและสนุกสนานอยู่ในห้องจำลองสภาวะไร้น้ำหนักที่ Space Camp Huntsville ให้ความรู้สึกตื่นเต้น สนุกสนาน และมีเสน่ห์แบบหนังสือนิทานเด็ก พร้อมบรรยากาศที่สร้างแรงบันดาลใจ
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/65b5497c1b19352f0dc9352f55e07bed/thumbnails/thumbnail.jpg" width="600" alt="นักบินอวกาศไร้น้ำหนักที่ Space Camp">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5355)**
-
-**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2059554674324426973) | **Published:** May 27, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2241,6 +2252,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-11T04:56:34.042Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-11T12:28:53.235Z</sub>
 
 </div>

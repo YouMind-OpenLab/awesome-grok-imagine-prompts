@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1773** |
+| 📝 Total Prompts | **1785** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-11** |
 
@@ -189,6 +189,251 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Roman Çift Kutlaması
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bira içerek kadeh kaldıran ve kutlama yapan neşeli bir Roman çifti tasvir eden şenlikli bir video istemi.
+
+#### 📝 Prompt
+
+```
+Coşkuyla bol miktarda bira içen neşeli Roman çift, doğal yudumlamalar, kadeh kaldırma ve mutlu hareketlerle dolu canlı bir kutlama.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064793543646777344/img/8mezMMMGG2BWxR9Z.jpg" width="600" alt="Roman Çift Kutlaması">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5923)**
+
+**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2064793659480908190) | **Published:** Jun 10, 2026
+
+---
+### Chibi Lionel Messi Anime Futbolu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Lionel Messi'nin sevimli bir robot arkadaşıyla birlikte futbol oynadığı, canlı bir chibi tarzı animasyon.
+
+#### 📝 Prompt
+
+```
+Futbol. Messi. Arjantin. 🫶❤️🫶
+Arjantin milli takımı 10 numaralı formasını giyen, büyük kafalı sevimli Lionel Messi'nin, yeşil futbol sahasında küçük ve sevimli bir robot arkadaşıyla enerjik bir şekilde futbol oynadığı canlı bir chibi anime tarzı sahne. Küçük robot...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064789011407798272/img/30kXOKm4MaNrafZK.jpg" width="600" alt="Chibi Lionel Messi Anime Futbolu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5919)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2064789155498914018) | **Published:** Jun 10, 2026
+
+---
+### Konuşan İçki Şişesi ile Alkol Müdahalesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir alkol şişesinin canlanıp derin bir sesle bir adama içmeyi bırakmasını söylediği yaratıcı bir video istemi.
+
+#### 📝 Prompt
+
+```
+Adamın alkol şişesini canlandır ve (derin, duygulu bir sesle) adama, Tanrı aşkına onu bırakmasını söyle... Karaciğeri sana yalvarıyor! Her yayında bir içkiye ihtiyacın yok! Onu şimdi nasıl sürmeyi bekliyorsun?
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064780117352529920/img/gaivqrkpncJed3AD.jpg" width="600" alt="Konuşan İçki Şişesi ile Alkol Müdahalesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5926)**
+
+**Author:** [FAGWOP](https://x.com/TopSheboon) | **Source:** [Link](https://x.com/TopSheboon/status/2064780168787263783) | **Published:** Jun 10, 2026
+
+---
+### Konuşan Alkol Şişesi Kamu Spotu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Animasyonlu bir alkol şişesinin bir adama sağlığı ve araç kullanımı hakkında konuştuğu, kamu spotu tarzında bir video istemi.
+
+#### 📝 Prompt
+
+```
+Alkol şişesini canlandır ve adamdan, aşkına onu elinden bırakmasını iste… ayrıca her yayında içki içmene gerek yok! Şimdi onu nasıl sürmeyi düşünüyorsun?
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064771829881884672/img/awlkVTqjuFUOL8o8.jpg" width="600" alt="Konuşan Alkol Şişesi Kamu Spotu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5927)**
+
+**Author:** [FAGWOP](https://x.com/TopSheboon) | **Source:** [Link](https://x.com/TopSheboon/status/2064771882306416673) | **Published:** Jun 10, 2026
+
+---
+### Karavan Restoran İç Mekan Tanıtımı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir karavanın içinde yer alan küçük ve lüks bir restoranı ortaya çıkaran kapı açılış sekansı için detaylı bir anlatım istemi.
+
+#### 📝 Prompt
+
+```
+El kapıyı açtığında, o karavanın arkasında, Columbia'nın önde gelen gurme şefi Louis tarafından işletilen 20 x 10 fit boyutlarında küçük bir restoran hayal edin; burası, o gecenin sizin için çok özel olmasını sağlamak adına oy kullanan havalı insanların olduğu bir yer...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064766426338979840/img/ITR1xY9VBvrC97P6.jpg" width="600" alt="Karavan Restoran İç Mekan Tanıtımı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5920)**
+
+**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2064766481762496694) | **Published:** Jun 10, 2026
+
+---
+### Göksel Girdap
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Meleklerin ve ruhların gökyüzünden inerek bir su girdabıyla bütünleştiği karmaşık bir video istemi.
+
+#### 📝 Prompt
+
+```
+Girdap 🌪️ 
+
+Gökler ve 💫 melekler 😇 peri 🧚 ruhları, su girdabıyla bütünleşmek için aşağı iniyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064756208485933057/img/IzdxOz4-2aqBCddr.jpg" width="600" alt="Göksel Girdap">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5925)**
+
+**Author:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **Source:** [Link](https://x.com/PhilipC34457079/status/2064756343618023730) | **Published:** Jun 10, 2026
+
+---
+### Yin Yang Hortumundaki Yunuslar
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yin yang şeklinde bir hortumun içine yüzen ve atlayan yunusları konu alan sürreal ve dinamik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Atlamanın tam sırası 💓 Yunuslar 🐬 yüzüyor ve kendilerini sudan 💦 yin yang ☯️ şeklinde bir hortuma doğru fırlatıyorlar. Kasırga 🌪️....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064754963574628353/img/jhJM52fDtBAiSaxm.jpg" width="600" alt="Yin Yang Hortumundaki Yunuslar">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5922)**
+
+**Author:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **Source:** [Link](https://x.com/PhilipC34457079/status/2064755089911226585) | **Published:** Jun 10, 2026
+
+---
+### Kayalık çıkıntı üzerinde antik ejderha
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sisli ve dağlık bir manzarada, kayalık bir çıkıntının üzerinde tünemiş antik bir ejderhayı betimleyen bir video istemi.
+
+#### 📝 Prompt
+
+```
+Sisli ve dağlık bir manzarada, kayalık bir çıkıntı üzerinde duran antik bir ejderhanın fotoğrafı.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064748737801449472/img/sMO6haUXkFPS8vo8.jpg" width="600" alt="Kayalık çıkıntı üzerinde antik ejderha">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5918)**
+
+**Author:** [Jose Armando Lopez Sandoval](https://x.com/JoseArm87975355) | **Source:** [Link](https://x.com/JoseArm87975355/status/2064748796861403422) | **Published:** Jun 10, 2026
+
+---
+### Mekanik Zıplayan Robot Tavşan
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Tavşan benzeri bacaklara sahip, merdiven çıkan mekanik bir robot için detaylı video istemi.
+
+#### 📝 Prompt
+
+```
+Merdivenleri aşan sevimli, küçük, zıplayan bir robot; tavşan arka ayakları şeklinde tasarlanmış iki özel bacakla donatılmış, zıplama mekanizması için görünür mekanik dişlilere sahip, yük taşıma amaçlı olmayan iki tekerlekli
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064738618951061505/img/S-aZpA1RkdutEmeB.jpg" width="600" alt="Mekanik Zıplayan Robot Tavşan">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5924)**
+
+**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2064738687557173748) | **Published:** Jun 10, 2026
+
+---
+### Bulutların Arasından Yükselen Sürreal Dev Kadın Portresi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için, Dali'den ilham alan, ufka bakan dev bir yüzün yakın planını ve yükselen bulutları içeren sofistike bir video oluşturma istemi.
+
+#### 📝 Prompt
+
+```
+Ekli görseli tam başlangıç karesi ve görsel referans olarak kullanın.
+
+Ekli videoyu, hafif ve kontrollü hareket tarzı için hareket referansı olarak kullanın.
+
+6 saniyelik bir video oluşturun.
+
+Kareye hakim olan aşırı yakın plan kompozisyonda, modelin yüzü sol tarafın büyük bir kısmını kaplıyor. Olağanüstü belirgin ışıklandırma, alında geniş karanlık gölgeler oluşturarak izleyicinin dikkatini gözlere çekiyor. Arka planda yüksek doygunlukta mavi bir gökyüzü ve uzak bir ufuk çizgisi yer alıyor. Yüzün oranları anıtsal derecede büyük kalarak, yeryüzünün üzerinde devasa, sürreal bir varlık hissi uyandırıyor ve yüzünün altında bulutlar süzülüyor.
+
+Modelin yüzünü büyük ölçüde sabit tutun; belirgin bir kafa hareketi veya büyük bir konum değişikliği olmasın. Doğrudan kameraya bakıyor ve doğal bir şekilde bir veya iki kez göz kırpıyor. İfadesi sakin ve hafif kalıyor.
+
+Çekim boyunca, aşağıdaki bulutlar kademeli olarak büyüyor ve dramatik ama pürüzsüz bir şekilde yukarı doğru yükselerek videonun sonunda modelin çene bölgesini kaplayacak şekilde genişliyor.
+
+Düzleştirilmiş, neredeyse monokromatik renk tonunu, gözenekler ve çiller gibi karmaşık cilt dokusunu ve son derece detaylı yüz ile soyut, grenli arka plan arasındaki kontrastı koruyun. Dalí'den ilham alan sürrealist atmosferi sürdürün.
+
+Referans görselin kompozisyonunu, sanat tarzını, ışıklandırmasını, renklerini ve genel görsel atmosferini tamamen koruyun.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064718481376030720/img/ZY3Ookn3geMb4bnc.jpg" width="600" alt="Bulutların Arasından Yükselen Sürreal Dev Kadın Portresi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5928)**
+
+**Author:** [サン｜Sun](https://x.com/sunsunshine0318) | **Source:** [Link](https://x.com/sunsunshine0318/status/2064719200216846599) | **Published:** Jun 10, 2026
+
+---
+### Anime Tarzı Bulut Yürüyüşü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Beyaz saçlı bir kızın, elinde parlayan kozmik bir kalp tutarak kabarık bulutların üzerinde yürüdüğü anime tarzı bir sahne dönüşümü.
+
+#### 📝 Prompt
+
+```
+Referans görseli canlı bir anime sahnesine dönüştürün: fotoğraftaki kadından esinlenilmiş, uzun beyaz saçlı sevimli bir anime kızı, rüya gibi bir gökyüzünde kabarık beyaz bulutların üzerinde zarifçe yürüyor. Elinde büyük, parlayan kozmik bir kalp tutuyor...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064524508044607488/img/95yPRmCrwtzcqByi.jpg" width="600" alt="Anime Tarzı Bulut Yürüyüşü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5917)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2064524631554310372) | **Published:** Jun 10, 2026
+
+---
+### Ethereal Işıltıyla Anime Karakteri Dönüşümü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Referans alınan kişiyi, göksel bir yıldız tacı ile süslenmiş, sisli bir ortamda süzülen, parlayan ve yarı saydam bir anime karakterine dönüştüren sanatsal bir komut.
+
+#### 📝 Prompt
+
+```
+Referanstaki kadını, rüya gibi sisli bir dokuya sahip, ruhani, yarı saydam ve parlayan bir vücuda sahip güzel bir anime tarzı karaktere dönüştürün. Başında parıldayan yıldızlardan oluşan ışıltılı bir taç takıyor. İki s... arasında zarif bir şekilde süzülüyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064516478301347840/img/qrvccz2asU8-bs6B.jpg" width="600" alt="Ethereal Işıltıyla Anime Karakteri Dönüşümü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5921)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2064516575349108767) | **Published:** Jun 10, 2026
+
+---
 ### Karanlık Sinematik Dağ Vadisi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1945,240 +2190,6 @@ Kanatları ışıltılı kodlar içinde kaybolurken şöyle diyor: “Eğer bunu
 **Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2060070704482287761) | **Published:** May 28, 2026
 
 ---
-### Steampunk Fantastik Orman Yolu Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir büyücü ve peri kraliçesinin ormandan geçerek bir kütüphaneye doğru yürüdüğü büyülü bir steampunk video istemi.
-
-#### 📝 Prompt
-
-```
-Büyülü steampunk atmosferi
-Bir büyücü ve peri kraliçesi, orman yolundan yürüyerek bir kulübeye ve oradan da bir kütüphaneye giriyor
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9f7fcc8c1a4d4a3ca5efdfd5e106aeb3/thumbnails/thumbnail.jpg" width="600" alt="Steampunk Fantastik Orman Yolu Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5413)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2060069085266997532) | **Published:** May 28, 2026
-
----
-### Chibi Matrix Sentinel Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Chibi tarzında, yüzünü kapatan emoji hareketi yapan ve uzaklaşma efekti içeren bir Matrix Sentinel videosu oluşturan yaratıcı bir video istemi.
-
-#### 📝 Prompt
-
-```
-Şimdi uzaklaşarak "Matrix" filmindeki sentinel karakterini chibi tarzında, yüzüne tokat atan emoji hareketi yaparken göster
-```
-
-<img src="https://cms-assets.youmind.com/media/1780043959273_tjmkzf_HJbP2mJWIAM1_uu.jpg" width="600" alt="Chibi Matrix Sentinel Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5410)**
-
-**Author:** [Robert Coffman 𓂀☤ ⚕ 🕊️](https://x.com/cache_refresh) | **Source:** [Link](https://x.com/cache_refresh/status/2060062532811862053) | **Published:** May 28, 2026
-
----
-### Canlı Okyanus Dalgalarında Sörf Yapan Chibi Kız
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Güneşli bir gökyüzü altında, parlak mavi ve yeşil dalgalar üzerinde ustalıkla sörf yapan sevimli chibi tarzı bir kızı konu alan detaylı bir video istemi.
-
-#### 📝 Prompt
-
-```
-Güneşli bir gökyüzü altında, canlı mavi ve yeşil dalgalarla dolu güzel bir okyanusta sörf yapan sevimli bir chibi kız. Şık siyah bir sörf kıyafeti giyiyor, ustalıkla dengesini sağlıyor…..
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/04f56219f7523850b9d19e66b0c14035/thumbnails/thumbnail.jpg" width="600" alt="Canlı Okyanus Dalgalarında Sörf Yapan Chibi Kız">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5415)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2060020165077561632) | **Published:** May 28, 2026
-
----
-### Terk Edilmiş Derin Deniz Sondaj Platformu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Okyanus ortasında kıyamet sonrası, sisli bir endüstriyel harabeyi konu alan, ürkütücü ışıklandırmalı ve yavaş takip çekimli, 10 saniyelik detaylı sinematik video istemi.
-
-#### 📝 Prompt
-
-```
-Şafak vaktinde, fırtınalı ve sisli bir okyanusun ortasında yarı çökmüş devasa, terk edilmiş bir derin deniz sondaj platformu duruyor. Kamera, siyah suyun hemen üzerinde alçaktan ve yavaşça süzülerek, paslı çelik kirişlerin, sarkan kabloların ve kırık projektörlerin arasından, yoğun ve dalgalı sisin içinde ilerliyor. Platform hafifçe gıcırdıyor, metal rüzgar basıncı altında inliyor. Deniz suyu korozyona uğramış desteklere çarpıyor ve sürüklenen enkaz parçaları yapıya hafifçe vuruyor. Kamera, endüstriyel makinelerin tuz ve çürümeyle kaplı, ölü ve sular altında kalmış olduğu platformun gölgeli iç kısmına doğru ilerliyor. Kamera, tuz lekeleriyle çatlamış bir kontrol odası penceresine yaklaştıkça, tek bir uyarı monitörü hafifçe titriyor ve bozuk bir statik görüntü gösteriyor. Aniden, yapının derinliklerindeki kırmızı bir acil durum ikaz lambası yanıp sönmeye başlıyor ve sisin içinde loş, nabız gibi atan bir ışık yayıyor. Sahne, kıyamet sonrası gerçekçiliği ile ürkütücü endüstriyel atmosferi birleştirerek gerilimi koruyor.
-Sahne Stili: kıyamet sonrası okyanus sisi | endüstriyel harabe | düşük açılı takip çekimi | sinematik gerilim | ortam ses tasarımı | ultra gerçekçi çürüme | yavaş kamera süzülüşü | dramatik sis dağılımı
-Uzunluk: 10 saniye
-En Boy Oranı: 16:9
-Hareket: pürüzsüz takip çekimi, elde tutulan stabilize drone benzeri hafif sallantı
-Işıklandırma: şafak vakti gri-mavi sis, ikaz lambasından gelen loş kırmızı nabız, ıslak pas üzerinde yumuşak yansımalar
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b11868815b31bb8f7e83b37b89d6cf64/thumbnails/thumbnail.jpg" width="600" alt="Terk Edilmiş Derin Deniz Sondaj Platformu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5407)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2059991468174086407) | **Published:** May 28, 2026
-
----
-### Işıltılı Mantar Salyangoz Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir görseli, mantar gözlere sahip hareketli ve ışıltılı bir salyangoza dönüştüren bir görselden videoya (image-to-video) komutudur.
-
-#### 📝 Prompt
-
-```
-Bu görseli, gözleri mantar olan hareketli ve ışıltılı bir salyangoza dönüştür. Daha yavaş hareket etmesini sağla, tıpkı gerçek bir salyangoz gibi...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/afc239d0e0db9ee9e467f8aefce5708d/thumbnails/thumbnail.jpg" width="600" alt="Işıltılı Mantar Salyangoz Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5414)**
-
-**Author:** [Lynn Hocker](https://x.com/Auroraskye3993) | **Source:** [Link](https://x.com/Auroraskye3993/status/2059981827188932980) | **Published:** May 28, 2026
-
----
-### Cennet Bahçesi'nde Adam ve Steve Parodisi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> İki erkeğin yer aldığı, Cennet Bahçesi hikayesinin bir varyasyonunu konu alan mizahi ve sinematik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Cennet Bahçesi'nde Adem ve Havva yerine iki erkek, yani Adem ve Steve var; birbirlerine bakıyorlar ve biri diğerine 'Bu hiç iyi bir iş planı değildi!' diyor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e8d0f1e462b234de30e9e080c7aa7d73/thumbnails/thumbnail.jpg" width="600" alt="Cennet Bahçesi'nde Adam ve Steve Parodisi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5405)**
-
-**Author:** [Steve Seewald](https://x.com/TrophosSteve4) | **Source:** [Link](https://x.com/TrophosSteve4/status/2059968042155577811) | **Published:** May 28, 2026
-
----
-### Süzülen Işıklar ve Fener Parıltısı Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sakin bir suyun üzerinde süzülen ışıklar ve fenerlerden oluşan, huzuru ve parıltıyı vurgulayan bir sahne yaratan dingin bir video istemi.
-
-#### 📝 Prompt
-
-```
-Süzülen ışıkların ve durgun suların dünyasında kaybolduk. Bu gece sadece huzur ve fener parıltısı var.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b46948071549d36f22b079c4df00722c/thumbnails/thumbnail.jpg" width="600" alt="Süzülen Işıklar ve Fener Parıltısı Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5412)**
-
-**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2059854384217923729) | **Published:** May 28, 2026
-
----
-### Su Üzerinde Kozmik Tanrıça Ruhu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Cildi yıldızlar ve galaksilerle örülü, huzurlu suların üzerinde süzülen bir kadını konu alan göksel bir video istemi.
-
-#### 📝 Prompt
-
-```
-Dünyalar arasındaki sessizlikte, o evrenin ta kendisi oluyor; her yıldız, her galaksi, her düş cildine işlenmiş durumda. Durgun suların üzerinde süzülürken, kozmosu ruhunda taşıyor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0edb857ca4d2fab00700808af6d2ec62/thumbnails/thumbnail.jpg" width="600" alt="Su Üzerinde Kozmik Tanrıça Ruhu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5409)**
-
-**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2059850712238923939) | **Published:** May 28, 2026
-
----
-### Müzik Notaları Bulut İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Keman müziğinin belirsiz bir bulut efekti içinde kelimelere dönüştüğü şiirsel bir istem.
-
-#### 📝 Prompt
-
-```
-O müziği çalarken, çıkan ses kemandan yükselen müzik notalarıyla görselleşiyor ve belirsiz bir bulutun içinde “GOD First always” (Önce her zaman TANRI) kelimelerini oluşturuyor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c368e49288e7394cde4426eb20593f6b/thumbnails/thumbnail.jpg" width="600" alt="Müzik Notaları Bulut İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5359)**
-
-**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2059759517143859660) | **Published:** May 27, 2026
-
----
-### Hesaplamalı Çıkarma Manhattan Kulesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Manhattan'daki çok yüksek bir gökdelenin, büyük boşluklar oluşturmak amacıyla hesaplamalı çıkarma süreçleri kullanılarak mimari açıdan şekillendirildiği bir video oluşturma istemi.
-
-#### 📝 Prompt
-
-```
-Yapay zeka tarafından üretilen Manhattan'daki çok yüksek kule, hesaplamalı çıkarma süreciyle şekillendirilmiş 430 metrelik dikey yapı, devasa oyulmuş boşluklar
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e4733da51d048e62b5b1833efd1dfa1c/thumbnails/thumbnail.jpg" width="600" alt="Hesaplamalı Çıkarma Manhattan Kulesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5354)**
-
-**Author:** [everything +AI](https://x.com/AiAigallery) | **Source:** [Link](https://x.com/AiAigallery/status/2059751365287526757) | **Published:** May 27, 2026
-
----
-### Birinci Şahıs Gerilla Tarzı Çekim
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok-imagine'in, iPhone ile çekilmiş 'found footage' (buluntu görüntü) tarzını andıran, ham ve el kamerasıyla çekilmiş birinci şahıs perspektifli videolar oluşturması için temel bir komut.
-
-#### 📝 Prompt
-
-```
-EL KAMERASIYLA ÇEKİLMİŞ GERİLLA TARZI BULUNTU GÖRÜNTÜ VİDEOSU. HAM VE DAR AÇILI. IPHONE KAMERASINI TUTUYOR VE TAMAMEN KADRAJ DIŞINDA, GRAFİK BİLGİ EKRANI YOK. SADECE BİRİNCİ ŞAHIS KAMERA AÇISI
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f880960330aa921325b52c1cef19cca1/thumbnails/thumbnail.jpg" width="600" alt="Birinci Şahıs Gerilla Tarzı Çekim">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5357)**
-
-**Author:** [The Rogue AI](https://x.com/evalincoln4101) | **Source:** [Link](https://x.com/evalincoln4101/status/2059710663694721317) | **Published:** May 27, 2026
-
----
-### Space Camp Sıfır Yerçekimi Astronotları
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Space Camp Huntsville'de sıfır yerçekiminde süzülen genç gelecek astronotlarını konu alan, çocuk kitabı tarzında eğlenceli bir video istemi.
-
-#### 📝 Prompt
-
-```
-Space Scout yelekleri ve koyu kırçıllı gri kıyafetler giymiş, Space Camp Huntsville'deki sıfır yerçekimi odalarında süzülen ve eğlenen genç gelecek astronotları. Heyecanlı, neşeli, çocuk e-kitabı tarzında, ilham verici bir atmosfer.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/65b5497c1b19352f0dc9352f55e07bed/thumbnails/thumbnail.jpg" width="600" alt="Space Camp Sıfır Yerçekimi Astronotları">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5355)**
-
-**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2059554674324426973) | **Published:** May 27, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2240,6 +2251,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-11T04:56:42.010Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-11T12:29:05.614Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1773** |
+| 📝 Total Prompts | **1785** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-11** |
 
@@ -189,6 +189,251 @@ Una mistica e nobile Valchiria celestiale, una donna dignitosa e bellissima con 
 
 > 📝 Sorted by publish date (newest first)
 
+### Celebrazione di una coppia Rom
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un video prompt festoso che ritrae una gioiosa coppia Rom che festeggia brindando con della birra.
+
+#### 📝 Prompt
+
+```
+Una gioiosa coppia Rom che beve entusiasta molta birra, una celebrazione vivace con sorsi naturali, brindisi e movimenti felici.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064793543646777344/img/8mezMMMGG2BWxR9Z.jpg" width="600" alt="Celebrazione di una coppia Rom">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5923)**
+
+**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2064793659480908190) | **Published:** Jun 10, 2026
+
+---
+### Lionel Messi in stile anime chibi mentre gioca a calcio
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un'animazione vibrante in stile chibi con Lionel Messi che gioca a calcio insieme a un adorabile compagno robot.
+
+#### 📝 Prompt
+
+```
+Calcio. Messi. Argentina. 🫶❤️🫶
+Una vivace scena in stile anime chibi che ritrae un tenero Lionel Messi dalla testa grande, con indosso la maglia numero 10 della nazionale argentina, mentre gioca a calcio con energia su un campo verde insieme a un piccolo e adorabile compagno robot. Il piccolo robot sta...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064789011407798272/img/30kXOKm4MaNrafZK.jpg" width="600" alt="Lionel Messi in stile anime chibi mentre gioca a calcio">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5919)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2064789155498914018) | **Published:** Jun 10, 2026
+
+---
+### Intervento alcolico: la bottiglia che parla
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un video prompt creativo in cui una bottiglia di alcol prende vita con una voce profonda per dire a un uomo di smettere di bere.
+
+#### 📝 Prompt
+
+```
+Fai prendere vita alla bottiglia di alcol dell'uomo e fagli dire (con una voce profonda e intensa): per l'amor di Dio, posami... il tuo fegato ti sta supplicando! Non hai bisogno di bere a ogni streaming! Come pensi di guidare ora?
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064780117352529920/img/gaivqrkpncJed3AD.jpg" width="600" alt="Intervento alcolico: la bottiglia che parla">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5926)**
+
+**Author:** [FAGWOP](https://x.com/TopSheboon) | **Source:** [Link](https://x.com/TopSheboon/status/2064780168787263783) | **Published:** Jun 10, 2026
+
+---
+### Video di sensibilizzazione: La bottiglia di alcol che parla
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video in stile annuncio di servizio pubblico in cui una bottiglia di alcol animata parla a un uomo della sua salute e della guida.
+
+#### 📝 Prompt
+
+```
+Fai prendere vita alla bottiglia di alcol e di' all'uomo di posarla, per l'amor di Dio... e che non ha bisogno di bere a ogni streaming! Come pensa di mettersi alla guida ora?
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064771829881884672/img/awlkVTqjuFUOL8o8.jpg" width="600" alt="Video di sensibilizzazione: La bottiglia di alcol che parla">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5927)**
+
+**Author:** [FAGWOP](https://x.com/TopSheboon) | **Source:** [Link](https://x.com/TopSheboon/status/2064771882306416673) | **Published:** Jun 10, 2026
+
+---
+### Anteprima degli interni del ristorante nel trailer
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt narrativo dettagliato per una sequenza di apertura porta che rivela un piccolo ristorante di alta classe all'interno di un trailer.
+
+#### 📝 Prompt
+
+```
+Mentre la mano apre la porta, immagina un piccolo ristorante di circa 6x3 metri nel retro di quel trailer, gestito dal rinomato chef gourmet della Columbia, Louis; l'atmosfera è già vivace, con persone selezionate che si assicurano che quella serata sia davvero speciale per te, così che...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064766426338979840/img/ITR1xY9VBvrC97P6.jpg" width="600" alt="Anteprima degli interni del ristorante nel trailer">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5920)**
+
+**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2064766481762496694) | **Published:** Jun 10, 2026
+
+---
+### Vortice celeste paradisiaco
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un complesso prompt video che raffigura angeli e spiriti che discendono dai cieli per fondersi con una tromba d'acqua a vortice.
+
+#### 📝 Prompt
+
+```
+Vortice 🌪️ 
+
+I cieli, gli angeli 💫 😇 e gli spiriti fatati 🧚 scendono per fondersi con una tromba d'acqua a vortice.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064756208485933057/img/IzdxOz4-2aqBCddr.jpg" width="600" alt="Vortice celeste paradisiaco">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5925)**
+
+**Author:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **Source:** [Link](https://x.com/PhilipC34457079/status/2064756343618023730) | **Published:** Jun 10, 2026
+
+---
+### Delfini in una tromba d'acqua Yin Yang
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video surreale e dinamico che ritrae delfini che nuotano e saltano all'interno di un vortice a forma di yin yang.
+
+#### 📝 Prompt
+
+```
+Tanto vale saltare 💓 I delfini 🐬 nuotano e si lanciano fuori dall'acqua 💦 in una tromba d'acqua a forma di yin yang ☯️. Vortice 🌪️....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064754963574628353/img/jhJM52fDtBAiSaxm.jpg" width="600" alt="Delfini in una tromba d'acqua Yin Yang">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5922)**
+
+**Author:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **Source:** [Link](https://x.com/PhilipC34457079/status/2064755089911226585) | **Published:** Jun 10, 2026
+
+---
+### Antico drago su uno sperone roccioso
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video che raffigura un antico drago appollaiato su uno sperone roccioso all'interno di un paesaggio montuoso e nebbioso.
+
+#### 📝 Prompt
+
+```
+Una fotografia di un antico drago su uno sperone roccioso in un paesaggio montuoso e nebbioso.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064748737801449472/img/sMO6haUXkFPS8vo8.jpg" width="600" alt="Antico drago su uno sperone roccioso">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5918)**
+
+**Author:** [Jose Armando Lopez Sandoval](https://x.com/JoseArm87975355) | **Source:** [Link](https://x.com/JoseArm87975355/status/2064748796861403422) | **Published:** Jun 10, 2026
+
+---
+### Coniglietto robotico meccanico saltellante
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video dettagliato per un robot meccanico con gambe simili a quelle di un coniglio che sale le scale.
+
+#### 📝 Prompt
+
+```
+Un simpatico robottino saltellante che conquista le scale, dotato di due gambe specializzate a forma di zampe posteriori di coniglio, caratterizzato da ingranaggi meccanici visibili per il meccanismo di salto e due ruote non utilizzate per il carico
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064738618951061505/img/S-aZpA1RkdutEmeB.jpg" width="600" alt="Coniglietto robotico meccanico saltellante">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5924)**
+
+**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2064738687557173748) | **Published:** Jun 10, 2026
+
+---
+### Ritratto surrealista di una gigantessa con nuvole fluttuanti
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un sofisticato prompt di generazione video per Grok Imagine che produce un primo piano surrealista ispirato a Dalí, con un volto gigante che sovrasta l'orizzonte mentre le nuvole si sollevano verso l'alto.
+
+#### 📝 Prompt
+
+```
+Utilizza l'immagine allegata come fotogramma iniziale esatto e riferimento visivo.
+
+Utilizza il video allegato come riferimento di movimento per uno stile di animazione sottile e controllato.
+
+Crea un video di 6 secondi.
+
+Una composizione in primissimo piano domina l'inquadratura, con il volto della modella che occupa gran parte del lato sinistro. Un'illuminazione eccezionalmente audace proietta ampie ombre scure sulla fronte, attirando l'attenzione dello spettatore sugli occhi. Lo sfondo presenta un cielo blu altamente saturo e un orizzonte lontano. Le proporzioni del volto rimangono monumentalmente ingrandite, evocando una presenza surrealista simile a un gigante sopra la terra, con le nuvole che fluttuano sotto il suo viso.
+
+Mantieni il volto della modella quasi immobile, senza grandi movimenti della testa o cambiamenti significativi di posizione. Guarda direttamente in camera e batte le palpebre una o due volte in modo naturale. La sua espressione rimane calma e sottile.
+
+Per tutta la durata della ripresa, le nuvole sottostanti crescono gradualmente e si sollevano in modo drammatico ma fluido, espandendosi fino a coprire l'area del mento della modella entro la fine del video.
+
+Preserva il trattamento cromatico appiattito e quasi monocromatico, l'intricata texture della pelle come pori e lentiggini, e il contrasto tra il volto altamente dettagliato e lo sfondo astratto e granuloso. Mantieni l'atmosfera surrealista ispirata a Dalí.
+
+Preserva integralmente la composizione, lo stile artistico, l'illuminazione, i colori e l'atmosfera visiva complessiva dell'immagine di riferimento.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064718481376030720/img/ZY3Ookn3geMb4bnc.jpg" width="600" alt="Ritratto surrealista di una gigantessa con nuvole fluttuanti">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5928)**
+
+**Author:** [サン｜Sun](https://x.com/sunsunshine0318) | **Source:** [Link](https://x.com/sunsunshine0318/status/2064719200216846599) | **Published:** Jun 10, 2026
+
+---
+### Ragazza anime che cammina tra le nuvole
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Una trasformazione in stile anime che ritrae una ragazza dai capelli bianchi che cammina tra soffici nuvole tenendo in mano un cuore cosmico luminoso.
+
+#### 📝 Prompt
+
+```
+Trasforma l'immagine di riferimento in una vivace scena in stile anime: una graziosa ragazza anime con lunghi capelli bianchi, ispirata alla donna nella foto, che cammina con grazia tra soffici nuvole bianche in un cielo da sogno. Tiene tra le mani un grande cuore cosmico luminoso...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064524508044607488/img/95yPRmCrwtzcqByi.jpg" width="600" alt="Ragazza anime che cammina tra le nuvole">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5917)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2064524631554310372) | **Published:** Jun 10, 2026
+
+---
+### Trasformazione in personaggio anime con bagliore etereo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt artistico che trasforma una persona di riferimento in un personaggio anime traslucido e luminoso, adornato con una corona di stelle celestiali, fluttuante in un ambiente nebbioso.
+
+#### 📝 Prompt
+
+```
+Trasforma la donna del riferimento in un bellissimo personaggio in stile anime con un corpo etereo, traslucido e luminoso, caratterizzato da una qualità nebbiosa e onirica. Indossa una corona scintillante di stelle che brillano sulla testa. Fluttua con grazia tra due s...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064516478301347840/img/qrvccz2asU8-bs6B.jpg" width="600" alt="Trasformazione in personaggio anime con bagliore etereo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5921)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2064516575349108767) | **Published:** Jun 10, 2026
+
+---
 ### Valle montana cinematografica oscura
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1946,240 +2191,6 @@ Le sue ali scompaiono in un codice scintillante, lei dice: “se lo farai, nulla
 **Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2060070704482287761) | **Published:** May 28, 2026
 
 ---
-### Video di un sentiero nella foresta in stile fantasy steampunk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un magico prompt video in stile steampunk che mostra un mago e una regina delle fate che camminano attraverso una foresta verso una biblioteca.
-
-#### 📝 Prompt
-
-```
-Atmosfera magica steampunk
-Un mago e una regina delle fate camminano lungo un sentiero nella foresta verso un cottage e all'interno di una biblioteca
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9f7fcc8c1a4d4a3ca5efdfd5e106aeb3/thumbnails/thumbnail.jpg" width="600" alt="Video di un sentiero nella foresta in stile fantasy steampunk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5413)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2060069085266997532) | **Published:** May 28, 2026
-
----
-### Animazione Chibi Matrix Sentinel
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video creativo per generare un Matrix Sentinel in stile chibi che esegue il gesto dell'emoji face-palm con un effetto di zoom-out.
-
-#### 📝 Prompt
-
-```
-Ora esegui uno zoom indietro su una sentinella del film "Matrix", ma in stile chibi, mentre compie il gesto dell'emoji che si schiaffeggia la faccia
-```
-
-<img src="https://cms-assets.youmind.com/media/1780043959273_tjmkzf_HJbP2mJWIAM1_uu.jpg" width="600" alt="Animazione Chibi Matrix Sentinel">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5410)**
-
-**Author:** [Robert Coffman 𓂀☤ ⚕ 🕊️](https://x.com/cache_refresh) | **Source:** [Link](https://x.com/cache_refresh/status/2060062532811862053) | **Published:** May 28, 2026
-
----
-### Ragazza chibi che fa surf su vivaci onde oceaniche
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video dettagliato che ritrae una graziosa ragazza in stile chibi mentre fa surf con abilità su onde blu e verdi brillanti sotto un cielo soleggiato.
-
-#### 📝 Prompt
-
-```
-Una graziosa ragazza chibi che fa surf su un bellissimo oceano con vivaci onde blu e verdi sotto un cielo soleggiato. Indossa un'elegante muta da surf nera e mantiene l'equilibrio con abilità...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/04f56219f7523850b9d19e66b0c14035/thumbnails/thumbnail.jpg" width="600" alt="Ragazza chibi che fa surf su vivaci onde oceaniche">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5415)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2060020165077561632) | **Published:** May 28, 2026
-
----
-### Piattaforma di perforazione in alto mare abbandonata
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video cinematografico dettagliato di 10 secondi che ritrae una rovina industriale post-apocalittica e nebbiosa nell'oceano, con un'illuminazione inquietante e un lento movimento di camera.
-
-#### 📝 Prompt
-
-```
-Una massiccia piattaforma di perforazione in alto mare abbandonata giace semi-crollata in un oceano tempestoso e avvolto dalla nebbia all'alba. La telecamera scivola bassa e lenta appena sopra l'acqua nera, muovendosi attraverso una fitta nebbia mentre travi d'acciaio arrugginite, cavi penzolanti e fari rotti incombono sopra di essa. La piattaforma scricchiola debolmente, con il metallo che geme sotto la pressione del vento. L'acqua di mare si infrange contro i supporti corrosi e i detriti alla deriva urtano dolcemente la struttura. La telecamera avanza verso l'interno oscuro della piattaforma, dove i macchinari industriali giacciono spenti e allagati, ricoperti di sale e decadenza. Mentre la telecamera si avvicina a una finestra della sala di controllo incrinata dalle incrostazioni saline, un singolo monitor di avviso lampeggia debolmente, mostrando interferenze distorte. Improvvisamente, un faro di emergenza rosso nelle profondità della struttura si accende a intermittenza, proiettando un bagliore pulsante attraverso la foschia. La scena indugia nella suspense, fondendo il realismo post-apocalittico con un'inquietante presenza industriale.
-Stile della scena: nebbia oceanica post-apocalittica | rovina industriale | ripresa in movimento dal basso | suspense cinematografica | sound design ambientale | decadenza ultra-realistica | lento scorrimento della telecamera | diffusione drammatica della nebbia
-Durata: 10 secondi
-Proporzioni: 16:9
-Movimento: ripresa in movimento fluido, leggero ondeggiamento simile a un drone stabilizzato a mano
-Illuminazione: nebbia grigio-blu dell'alba, impulso rosso tenue dal faro, morbidi riflessi speculari sulla ruggine bagnata
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b11868815b31bb8f7e83b37b89d6cf64/thumbnails/thumbnail.jpg" width="600" alt="Piattaforma di perforazione in alto mare abbandonata">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5407)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2059991468174086407) | **Published:** May 28, 2026
-
----
-### Animazione di una lumaca scintillante con funghi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt da immagine a video che trasforma un'immagine in una lumaca scintillante in movimento con occhi a forma di fungo.
-
-#### 📝 Prompt
-
-```
-Trasforma questa immagine in una lumaca scintillante in movimento con dei funghi al posto degli occhi. Falla muovere lentamente, proprio come una lumaca vera...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/afc239d0e0db9ee9e467f8aefce5708d/thumbnails/thumbnail.jpg" width="600" alt="Animazione di una lumaca scintillante con funghi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5414)**
-
-**Author:** [Lynn Hocker](https://x.com/Auroraskye3993) | **Source:** [Link](https://x.com/Auroraskye3993/status/2059981827188932980) | **Published:** May 28, 2026
-
----
-### Parodia di Adamo e Steve nell'Eden
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un divertente prompt video cinematografico che raffigura una variante della storia del Giardino dell'Eden con protagonisti due uomini.
-
-#### 📝 Prompt
-
-```
-Due uomini nel giardino dell'Eden invece di Adamo ed Eva: ci sono Adamo e Steve. I due si guardano e uno dice all'altro: questo non è stato un buon business plan!
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e8d0f1e462b234de30e9e080c7aa7d73/thumbnails/thumbnail.jpg" width="600" alt="Parodia di Adamo e Steve nell'Eden">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5405)**
-
-**Author:** [Steve Seewald](https://x.com/TrophosSteve4) | **Source:** [Link](https://x.com/TrophosSteve4/status/2059968042155577811) | **Published:** May 28, 2026
-
----
-### Video con luci fluttuanti e bagliore di lanterne
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video rilassante che crea una scena con luci e lanterne che fluttuano su acque calme, enfatizzando la serenità e il bagliore.
-
-#### 📝 Prompt
-
-```
-Perso in un mondo di luci fluttuanti e acque tranquille. Solo pace e il bagliore delle lanterne stasera.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b46948071549d36f22b079c4df00722c/thumbnails/thumbnail.jpg" width="600" alt="Video con luci fluttuanti e bagliore di lanterne">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5412)**
-
-**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2059854384217923729) | **Published:** May 28, 2026
-
----
-### Dea cosmica sopra le acque
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video celestiale che ritrae una donna la cui pelle è intessuta di stelle e galassie, sospesa sopra acque tranquille.
-
-#### 📝 Prompt
-
-```
-Nel silenzio tra i mondi, lei diventa l'universo stesso: ogni stella, ogni galassia, ogni sogno intessuto nella sua pelle. Fluttuando sopra le acque calme, porta il cosmo nella sua anima.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0edb857ca4d2fab00700808af6d2ec62/thumbnails/thumbnail.jpg" width="600" alt="Dea cosmica sopra le acque">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5409)**
-
-**Author:** [DuBoseJen](https://x.com/DuBosefire) | **Source:** [Link](https://x.com/DuBosefire/status/2059850712238923939) | **Published:** May 28, 2026
-
----
-### Prompt Nuvola di Note Musicali
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt poetico in cui la musica del violino si visualizza in parole all'interno di un effetto nuvola nebulosa.
-
-#### 📝 Prompt
-
-```
-Mentre suona la musica, il suono viene visto e rappresentato dalle note musicali che, uscendo dal violino, formano le parole "GOD First always" (Dio sempre al primo posto). Il tutto all'interno di una nuvola nebulosa.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c368e49288e7394cde4426eb20593f6b/thumbnails/thumbnail.jpg" width="600" alt="Prompt Nuvola di Note Musicali">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5359)**
-
-**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2059759517143859660) | **Published:** May 27, 2026
-
----
-### Torre di Manhattan a sottrazione computazionale
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per generare il video di un grattacielo supertall a Manhattan, scolpito architettonicamente tramite processi di sottrazione computazionale per creare ampie cavità.
-
-#### 📝 Prompt
-
-```
-Torre supertall generata dall'IA a Manhattan, struttura verticale di 430m scolpita tramite processo di sottrazione computazionale, con massicce cavità scavate
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e4733da51d048e62b5b1833efd1dfa1c/thumbnails/thumbnail.jpg" width="600" alt="Torre di Manhattan a sottrazione computazionale">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5354)**
-
-**Author:** [everything +AI](https://x.com/AiAigallery) | **Source:** [Link](https://x.com/AiAigallery/status/2059751365287526757) | **Published:** May 27, 2026
-
----
-### Riprese in stile guerriglia in prima persona
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt di base per grok-imagine per creare video in prima persona, realistici e a mano libera, che ricordano i filmati amatoriali girati con un iPhone.
-
-#### 📝 Prompt
-
-```
-VIDEO IN STILE GUERRIGLIA GIRATO A MANO LIBERA. GRANA SPORCA E ANGOLAZIONE STRETTA. L'OPERATORE TIENE LA FOTOCAMERA DELL'IPHONE ED È COMPLETAMENTE FUORI DALL'INQUADRATURA, NESSUNA SOVRIMPRESSIONE GRAFICA. SOLO VISTA IN PRIMA PERSONA
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f880960330aa921325b52c1cef19cca1/thumbnails/thumbnail.jpg" width="600" alt="Riprese in stile guerriglia in prima persona">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5357)**
-
-**Author:** [The Rogue AI](https://x.com/evalincoln4101) | **Source:** [Link](https://x.com/evalincoln4101/status/2059710663694721317) | **Published:** May 27, 2026
-
----
-### Astronauti a gravità zero allo Space Camp
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video in stile libro per bambini stravagante che ritrae giovani futuri astronauti che fluttuano in assenza di gravità allo Space Camp di Huntsville.
-
-#### 📝 Prompt
-
-```
-Giovani futuri astronauti con gilet da Space Scout e abbigliamento grigio scuro che fluttuano e si divertono nelle camere a gravità zero dello Space Camp di Huntsville. Atmosfera ispiratrice, entusiasta, gioiosa, in stile libro illustrato per bambini.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/65b5497c1b19352f0dc9352f55e07bed/thumbnails/thumbnail.jpg" width="600" alt="Astronauti a gravità zero allo Space Camp">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5355)**
-
-**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2059554674324426973) | **Published:** May 27, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2241,6 +2252,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-11T04:56:39.763Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-11T12:29:02.559Z</sub>
 
 </div>
