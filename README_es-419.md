@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1785** |
+| 📝 Total Prompts | **1804** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-12** |
 
@@ -189,6 +189,239 @@ Una valquiria celestial mística y noble, una mujer digna y hermosa con largo ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Bucle continuo de dragón marioneta gótico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video de 60 fps altamente detallado para crear un bucle vertical continuo de un majestuoso dragón gótico con vestido victoriano.
+
+#### 📝 Prompt
+
+```
+Crea un video en bucle continuo de 6 segundos en relación de aspecto vertical 9:16, a 60 fps ultra fluidos, con calidad de obra maestra cinematográfica utilizando lo mejor del motor de video Grok Imagine 2026: sin texto, sin subtítulos, sin fuentes, sin marcas de agua, sin cortes ni pausas, con un movimiento perfectamente fluido y sin vibraciones.
+
+Sujeto principal: exactamente el mismo majestuoso dragón marioneta gótico de la imagen anterior; un dragón de tamaño real con escamas de obsidiana agrietadas en color rojo sangre y negro, ojos carmesí brillantes, colmillos afilados, alas de cuero masivas con bordes de encaje gótico desgastado, vistiendo el mismo y ornamentado vestido gótico victoriano rojo y negro desgastado con bordados dorados, corsé, encaje y cadenas. El vestido permanece perfectamente intacto, cubriendo completamente, recatado y nunca se quita, rasga, desliza, altera ni se ve afectado por hilos o movimientos de ninguna manera durante todo el video: 100% vestido en todo momento sin problemas de vestuario.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a27c8749d009ece95c7957602e1bad28/thumbnails/thumbnail.jpg" width="600" alt="Bucle continuo de dragón marioneta gótico">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5963)**
+
+**Author:** [👾 SpawnsAi 👾](https://x.com/Salty_Floridian) | **Source:** [Link](https://x.com/Salty_Floridian/status/2065140313400737904) | **Published:** Jun 11, 2026
+
+---
+### Misterio en la cinta transportadora oscura
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinematográfico para una escena oscura y misteriosa que presenta una única cinta transportadora con figuras inmóviles que se extienden hacia la distancia.
+
+#### 📝 Prompt
+
+```
+Una sola cinta transportadora con personas inmóviles moviéndose hacia el infinito, atmósfera oscura y misteriosa.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9a596b8b4503a1ae0a6e39a5dde7b8e2/thumbnails/thumbnail.jpg" width="600" alt="Misterio en la cinta transportadora oscura">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5976)**
+
+**Author:** [BarcelonaAlternativa](https://x.com/Barnalternativa) | **Source:** [Link](https://x.com/Barnalternativa/status/2065136103582204156) | **Published:** Jun 11, 2026
+
+---
+### Video motivacional sobre ética laboral
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video basado en una cita motivacional directa sobre trabajar duro para alcanzar las metas.
+
+#### 📝 Prompt
+
+```
+Todo el que quiera algo va a tener que trabajar por ello, no creas que lo vas a conseguir por nada. Me importa un carajo.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d4484cece25bdac8a0b0efa76717df5a/thumbnails/thumbnail.jpg" width="600" alt="Video motivacional sobre ética laboral">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5961)**
+
+**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2065134271912636435) | **Published:** Jun 11, 2026
+
+---
+### Umbral de poder de ciencia ficción espacial malévola
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de arte digital oscuro de ciencia ficción que representa el umbral hacia un poder cósmico insondable.
+
+#### 📝 Prompt
+
+```
+¡Buenos días, humanos!
+
+Este es el umbral más allá del cual yace un poder que no pueden comprender; reclamen su destino, ciencia ficción espacial malévola, arte digital oscuro/TLV en la esquina, sin texto
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cdc8973f52917c85d0e14dd345b6f89e/thumbnails/thumbnail.jpg" width="600" alt="Umbral de poder de ciencia ficción espacial malévola">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5973)**
+
+**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2065130637179375816) | **Published:** Jun 11, 2026
+
+---
+### Reacción italiana a la Copa del Mundo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para generar un video de reacción de una mujer italiana al enterarse de que Italia se pierde la Copa del Mundo por tercera vez.
+
+#### 📝 Prompt
+
+```
+Mujer italiana dándose cuenta de que Italia no jugará la Copa del Mundo por tercera vez consecutiva
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/61d19ddaaf7d9f3ad822ce94001d6945/thumbnails/thumbnail.jpg" width="600" alt="Reacción italiana a la Copa del Mundo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5977)**
+
+**Author:** [ᛁᛖᛋᚢᛋ ᛘᛅᚱᛏᛁᚾᛖᛋ ᚷᚢᚾᛋᛅᛚᛁᛋ](https://x.com/jemagomoen) | **Source:** [Link](https://x.com/jemagomoen/status/2065110384852308396) | **Published:** Jun 11, 2026
+
+---
+### Video de meme sobre empleado agotado
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video humorístico que representa a un trabajador abrumado, enterrado en papeleo mientras intenta seguir el ritmo de las diversas empresas de Elon Musk.
+
+#### 📝 Prompt
+
+```
+Imagen de un hombre completamente agotado rodeado de papeles y computadoras, con el texto: “Yo intentando seguirle el ritmo a Elon: Tesla, SpaceX, xAI, Twitter, Neuralink, The Boring Company… y ni siquiera puedo responder los mensajes en el chat grupal de mi familia 😂”
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4e10cd63e3107f14859831d60b734848/thumbnails/thumbnail.jpg" width="600" alt="Video de meme sobre empleado agotado">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5960)**
+
+**Author:** [Angie Ramos Mendez](https://x.com/AngieRamos2030) | **Source:** [Link](https://x.com/AngieRamos2030/status/2065096120229912757) | **Published:** Jun 11, 2026
+
+---
+### Prompt de voz en off política en español
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Una instrucción específica para añadir una voz en off en español con matices filosóficos y políticos profundos a un video.
+
+#### 📝 Prompt
+
+```
+Añade una voz en off en español: ¿Quién sigue al cobarde que, por miedo a mostrarse como es, se esconde tras un guion que dice lo que sus seguidores quieren escuchar?
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6e55ac968ddf962d720aae7f34d407d8/thumbnails/thumbnail.jpg" width="600" alt="Prompt de voz en off política en español">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5975)**
+
+**Author:** [Jose gutierrez](https://x.com/hoccegutierrez) | **Source:** [Link](https://x.com/hoccegutierrez/status/2065092557210603860) | **Published:** Jun 11, 2026
+
+---
+### Amor poético bajo la lluvia
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video romántico y atmosférico que retrata el amor celebrado bajo la lluvia en medio del silencio del tiempo.
+
+#### 📝 Prompt
+
+```
+El tiempo se detiene cuando los relojes olvidan su deber. Solo queda el silencio entre dos latidos y nuestro amor, que debe ser celebrado... incluso bajo la lluvia.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8a8e61a90cee7f6fcf91db0c6692f697/thumbnails/thumbnail.jpg" width="600" alt="Amor poético bajo la lluvia">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5966)**
+
+**Author:** [Scarlett](https://x.com/scarlettzen1) | **Source:** [Link](https://x.com/scarlettzen1/status/2065080973176271130) | **Published:** Jun 11, 2026
+
+---
+### Animación de fanática de Argentina para la Copa del Mundo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de generación de video que presenta a una fanática apoyando a la selección argentina para la Copa del Mundo 2026, manteniendo la identidad facial de una foto de referencia.
+
+#### 📝 Prompt
+
+```
+Estoy apoyando a la Selección Argentina. Messi. Copa del Mundo 2026. 
+Mantén a la mujer exactamente igual que en la foto de referencia: su rostro, cabello castaño rizado adornado con una tiara brillante y una flor rosa, joyería elegante, pose sentada con las piernas cruzadas mientras sostiene un ramo de peonías rosas, expresión de confianza y todos los detalles...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7ad52d7803b2c9f535bcf61cdc030aa9/thumbnails/thumbnail.jpg" width="600" alt="Animación de fanática de Argentina para la Copa del Mundo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5964)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2065067503231942715) | **Published:** Jun 11, 2026
+
+---
+### Chica anime con estilo urbano y motocicleta
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video estilo anime cinematográfico que presenta una toma en ángulo contrapicado de una chica con un casco de motocicleta en un estacionamiento urbano y descarnado.
+
+#### 📝 Prompt
+
+```
+Estilo anime hiperdetallado, perspectiva cinematográfica, iluminación dramática y descarnada, contraste audaz con colores saturados. Una toma cinematográfica de estilo urbano en ángulo contrapicado de un estacionamiento, mirando hacia arriba a una chica anime que sostiene un casco de motocicleta morado en una mano mientras camina, vista desde atrás. Viste pantalones de carreras blancos ajustados, una camiseta gráfica entallada que dice "AgenC" y botas amarillas, con la suela de una bota dominando el primer plano con gran detalle. La perspectiva enfatiza la estética urbana y descarnada con un escorzo audaz. Frente a ella, una motocicleta urbana morada.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dda81ebec8a0bbd6c380325cf11eba84/thumbnails/thumbnail.jpg" width="600" alt="Chica anime con estilo urbano y motocicleta">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5962)**
+
+**Author:** [tetsuo](https://x.com/tetsuoai) | **Source:** [Link](https://x.com/tetsuoai/status/2065004272526524515) | **Published:** Jun 11, 2026
+
+---
+### Cita de Elon Musk sobre la reprogramación de la matriz
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un poderoso prompt filosófico basado en una cita de Elon Musk sobre cómo reprogramar la realidad y alcanzar el éxito.
+
+#### 📝 Prompt
+
+```
+Estamos reprogramando la matriz. El éxito nunca fue uno de los resultados posibles; si estás dentro de la matriz, el éxito nunca fue posible. La única forma de alcanzar el éxito es reprogramar la matriz de tal manera que el éxito sea uno de los resultados posibles. Eso es lo que estamos haciendo. Puede que tengamos éxito o no.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4c62817b0f1d6c2bc88f019d30cbad0f/thumbnails/thumbnail.jpg" width="600" alt="Cita de Elon Musk sobre la reprogramación de la matriz">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5965)**
+
+**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2064987958449475710) | **Published:** Jun 11, 2026
+
+---
+### Pose de despedida matutina en el jardín de niños
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt narrativo que describe una escena emocional específica de un niño que va al jardín de niños, terminando con una 'pose de lucha' específica hacia la ventana del salón.
+
+#### 📝 Prompt
+
+```
+Desde que Daru empezó a ir al jardín de niños, no lograba despertar a tiempo para el autobús. Cambiamos a llevarla nosotros mismos. A veces llegaba después de que las clases ya habían comenzado. La dejo con la maestra en la entrada y regreso al auto. Desde el estacionamiento, puedo ver los casilleros bajos para zapatos a través del gran ventanal. Flexiono mi brazo derecho, cierro el puño y lo bajo (la pose de '¡tú puedes!' dos veces). Mi hija asiente y camina hacia el salón.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e0b35e2a7b2786204277e17ab60e4e8f/thumbnails/thumbnail.jpg" width="600" alt="Pose de despedida matutina en el jardín de niños">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5974)**
+
+**Author:** [DODO](https://x.com/Dodo0807Dodo) | **Source:** [Link](https://x.com/Dodo0807Dodo/status/2064864802175131701) | **Published:** Jun 11, 2026
+
+---
 ### Celebración de pareja romaní
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -201,7 +434,7 @@ Una valquiria celestial mística y noble, una mujer digna y hermosa con largo ca
 Una alegre pareja romaní bebiendo cerveza con entusiasmo, una celebración animada con sorbos naturales, brindis y movimientos felices.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064793543646777344/img/8mezMMMGG2BWxR9Z.jpg" width="600" alt="Celebración de pareja romaní">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eb4b2aa4aeb66e74de7b3e561912ae28/thumbnails/thumbnail.jpg" width="600" alt="Celebración de pareja romaní">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5923)**
 
@@ -221,7 +454,7 @@ Fútbol. Messi. Argentina. 🫶❤️🫶
 Una vibrante escena en estilo anime chibi que presenta a un tierno Lionel Messi cabezón vistiendo la camiseta número 10 de la selección argentina, jugando fútbol con energía en una cancha verde junto a un pequeño y adorable compañero robot. El pequeño robot está ha...
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064789011407798272/img/30kXOKm4MaNrafZK.jpg" width="600" alt="Lionel Messi en estilo anime chibi jugando fútbol">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9784ac2b66c2ab49443d5b3112a88850/thumbnails/thumbnail.jpg" width="600" alt="Lionel Messi en estilo anime chibi jugando fútbol">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5919)**
 
@@ -240,7 +473,7 @@ Una vibrante escena en estilo anime chibi que presenta a un tierno Lionel Messi 
 Haz que la botella de alcohol del hombre cobre vida y le diga (con una voz profunda y conmovedora) que, por el amor de Dios, la deje... ¡tu hígado te lo está suplicando! ¡No necesitas un trago en cada transmisión! ¿Cómo esperas conducirlo ahora?
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064780117352529920/img/gaivqrkpncJed3AD.jpg" width="600" alt="Intervención de la botella parlante contra el alcohol">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/85ae92b750d9a5cbc2ef9cedbfbf0f4e/thumbnails/thumbnail.jpg" width="600" alt="Intervención de la botella parlante contra el alcohol">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5926)**
 
@@ -259,11 +492,33 @@ Haz que la botella de alcohol del hombre cobre vida y le diga (con una voz profu
 Haz que la botella de alcohol cobre vida y le diga al hombre que, por el amor de Dios, la deje… ¡y que no necesita un trago en cada transmisión! ¿Cómo espera conducirlo ahora?
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064771829881884672/img/awlkVTqjuFUOL8o8.jpg" width="600" alt="Anuncio de servicio público: Botella de alcohol parlante">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3cb19dd8af6246fd801d8c3a7bd07606/thumbnails/thumbnail.jpg" width="600" alt="Anuncio de servicio público: Botella de alcohol parlante">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5927)**
 
 **Author:** [FAGWOP](https://x.com/TopSheboon) | **Source:** [Link](https://x.com/TopSheboon/status/2064771882306416673) | **Published:** Jun 10, 2026
+
+---
+### Animación poética de la marea bajo la luz de la luna
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video sereno y poético que describe luces sobre el mar bajo una luna que observa la marea.
+
+#### 📝 Prompt
+
+```
+Veintiocho luces sobre el mar,
+brillando donde deben estar.
+La última luna de junio sobre la marea,
+observando en silencio esta noche…
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5f0f4b20f33a5eb670dafe181394de20/thumbnails/thumbnail.jpg" width="600" alt="Animación poética de la marea bajo la luz de la luna">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5972)**
+
+**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2064770488849617235) | **Published:** Jun 10, 2026
 
 ---
 ### Revelación del interior de un restaurante en remolque
@@ -278,7 +533,7 @@ Haz que la botella de alcohol cobre vida y le diga al hombre que, por el amor de
 A medida que la mano abre la puerta, imagina un pequeño restaurante de 20 x 10 pies en la parte trasera de ese remolque, dirigido por el chef gourmet de primer nivel de Columbia, Louis, donde ya hay gente genial que se asegura de que esa noche sea tan especial para ti que...
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064766426338979840/img/ITR1xY9VBvrC97P6.jpg" width="600" alt="Revelación del interior de un restaurante en remolque">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5041faa03225ef34ac242e18c93e7ccb/thumbnails/thumbnail.jpg" width="600" alt="Revelación del interior de un restaurante en remolque">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5920)**
 
@@ -299,7 +554,7 @@ Tromba 🌪️
 Los cielos y los 💫 ángeles 😇 hadas 🧚 y espíritus descienden para mezclarse con la tromba marina en forma de remolino.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064756208485933057/img/IzdxOz4-2aqBCddr.jpg" width="600" alt="Remolino celestial celestial">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3c3dd9ed7570651b52d245b669393c40/thumbnails/thumbnail.jpg" width="600" alt="Remolino celestial celestial">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5925)**
 
@@ -318,7 +573,7 @@ Los cielos y los 💫 ángeles 😇 hadas 🧚 y espíritus descienden para mezc
 Es mejor saltar 💓 Delfines 🐬 nadan y se impulsan fuera del agua 💦 hacia una tromba marina en forma de yin yang ☯️. Tornado 🌪️....
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064754963574628353/img/jhJM52fDtBAiSaxm.jpg" width="600" alt="Delfines en una tromba marina de Yin Yang">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/29deeea0bc44884fa303e0d7ff9a0955/thumbnails/thumbnail.jpg" width="600" alt="Delfines en una tromba marina de Yin Yang">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5922)**
 
@@ -337,7 +592,7 @@ Es mejor saltar 💓 Delfines 🐬 nadan y se impulsan fuera del agua 💦 hacia
 Una fotografía de un dragón antiguo sobre un afloramiento rocoso en un paisaje montañoso y brumoso.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064748737801449472/img/sMO6haUXkFPS8vo8.jpg" width="600" alt="Dragón antiguo en un afloramiento rocoso">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/db9709b1349ca90f36a298770931d9d4/thumbnails/thumbnail.jpg" width="600" alt="Dragón antiguo en un afloramiento rocoso">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5918)**
 
@@ -356,7 +611,7 @@ Una fotografía de un dragón antiguo sobre un afloramiento rocoso en un paisaje
 Un pequeño y tierno robot saltarín conquistando escaleras, equipado con dos patas especializadas con forma de patas traseras de conejo, con engranajes mecánicos visibles para el mecanismo de salto y dos ruedas que no se utilizan para la carga
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064738618951061505/img/S-aZpA1RkdutEmeB.jpg" width="600" alt="Conejo robot saltarín mecánico">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5385f9bfad2f720e2b14cf7e2da90342/thumbnails/thumbnail.jpg" width="600" alt="Conejo robot saltarín mecánico">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5924)**
 
@@ -389,7 +644,7 @@ Preserva el tratamiento de color aplanado y casi monocromático, la textura intr
 Preserva completamente la composición, el estilo artístico, la iluminación, los colores y el ambiente visual general de la imagen de referencia.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064718481376030720/img/ZY3Ookn3geMb4bnc.jpg" width="600" alt="Retrato surrealista de una giganta con nubes ondulantes">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d1a75b7f71c05a7415ab1684804cef88/thumbnails/thumbnail.jpg" width="600" alt="Retrato surrealista de una giganta con nubes ondulantes">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5928)**
 
@@ -408,7 +663,7 @@ Preserva completamente la composición, el estilo artístico, la iluminación, l
 Transforma la imagen de referencia en una vibrante escena al estilo anime: una linda chica anime con cabello largo y blanco, inspirada en la mujer de la foto, caminando con gracia a través de nubes blancas y esponjosas en un cielo de ensueño. Ella sostiene un gran corazón cósmico brillante en su...
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064524508044607488/img/95yPRmCrwtzcqByi.jpg" width="600" alt="Chica anime caminando sobre las nubes">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/548973aed3147b9031a4d4967ec0ac50/thumbnails/thumbnail.jpg" width="600" alt="Chica anime caminando sobre las nubes">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5917)**
 
@@ -427,11 +682,119 @@ Transforma la imagen de referencia en una vibrante escena al estilo anime: una l
 Transforma a la mujer de la referencia en un hermoso personaje estilo anime con un cuerpo etéreo, traslúcido y brillante que posee una cualidad neblinosa y de ensueño. Lleva una corona centelleante de estrellas titilantes sobre su cabeza. Flota con gracia entre dos s...
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064516478301347840/img/qrvccz2asU8-bs6B.jpg" width="600" alt="Transformación de personaje de anime con brillo etéreo">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/864d48aac393e508dde3665eba25ceef/thumbnails/thumbnail.jpg" width="600" alt="Transformación de personaje de anime con brillo etéreo">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5921)**
 
 **Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2064516575349108767) | **Published:** Jun 10, 2026
+
+---
+### Poema narrativo de campos de luciérnagas
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt poético de formato largo utilizado para generar un video cinematográfico y emotivo de luciérnagas en campos dorados bajo un cielo rosa ardiente.
+
+#### 📝 Prompt
+
+```
+CAMINÉ POR CAMPOS DE LUZ DORADA,
+
+BAJO UN CIELO PINTADO DE AZUL Y BRILLANTE.
+
+UN MILLÓN DE LUCIÉRNAGAS LLENABAN EL AIRE,
+
+COMO FRAGMENTOS DE SUEÑOS FLOTANDO POR TODAS PARTES.
+
+LAS NUBES ARRIBA ARDÍAN EN ROSA,
+
+COMO SI LOS CIELOS SE HUBIERAN DETENIDO A PENSAR.
+
+EL VIENTO SUSURRABA ENTRE EL GRANO,
+
+COMO UN VIEJO AMOR LLAMANDO MI NOMBRE OTRA VEZ.
+
+Y ALLÍ ME QUEDÉ,
+
+CON EL CORAZÓN ADOLORIDO,
+
+VIENDO AL MUNDO CONVERTIRSE EN UNA OBRA DE ARTE.
+
+SIN MULTITUDES.
+
+SIN RUIDO.
+
+SIN CARRERAS QUE CORRER.
+
+SOLO LA TIERRA Y EL CIELO
+
+HACIÉNDOSE UNO.
+
+LOS AÑOS QUE PERDÍ,
+
+LAS LÁGRIMAS QUE LLORÉ,
+
+LAS PUERTAS QUE SE CERRARON,
+
+LOS SUEÑOS QUE MURIERON,
+
+TODO SE DESVANECIÓ EN LA NOCHE,
+
+DISOLVIÉNDOSE LENTAMENTE EN ESA LUZ.
+
+PORQUE EN ESE MOMENTO PUDE VER,
+
+QUE EL MUNDO NUNCA ESTUVO EN MI CONTRA.
+
+ME ESTABA ENSEÑANDO A ESPERAR,
+
+PORQUE LA BELLEZA LLEGA UN POCO TARDE.
+
+Y SI MAÑANA SE LLEVA ESTO,
+
+AÚN RECORDARÉ ESE CREPÚSCULO GRIS.
+
+ESAS ESTRELLAS DE LUCIÉRNAGAS,
+
+ESE BRILLO ETERNO,
+
+Y CÓMO POR UNA VEZ,
+
+NO QUERÍA IRME.
+
+POR UN BREVE MOMENTO,
+
+MI ALMA PUDO VER,
+
+QUE EL MUNDO ERA HERMOSO.
+
+Y YO TAMBIÉN.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5d90e48ef5e800d87e222e026c50f7a0/thumbnails/thumbnail.jpg" width="600" alt="Poema narrativo de campos de luciérnagas">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5970)**
+
+**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2064480706240111096) | **Published:** Jun 9, 2026
+
+---
+### Mujer etérea con corona de halo de rayos de sol
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinematográfico altamente detallado para crear un retrato místico de una mujer etérea que lleva una intrincada corona de halo de rayos de sol, con iluminación suave y detalles de encaje elegantes.
+
+#### 📝 Prompt
+
+```
+retrato realista en primer plano de una mujer etérea y pálida con pecas delicadas, piel de porcelana extremadamente pálida, cabello largo y liso rubio platino que fluye suavemente, ojos cerrados, expresión serena y mística, labios color durazno suave. Lleva una corona de halo de rayos de sol de metal oscuro altamente detallada y ornamentada, con puntas afiladas y segmentos de vitral de color ámbar anaranjado brillante que emiten una luz cálida, vestido de fantasía blanco: escote profundo, mangas largas ajustadas con encaje delicado, detalles de encaje intrincados, cinturón metálico ancho y ornamentado. Fondo de degradado neutro, minimalista y suavemente desenfocado, muy limpio y simple.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/77c8cc5c96441380023e6fa29909756f/thumbnails/thumbnail.jpg" width="600" alt="Mujer etérea con corona de halo de rayos de sol">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5968)**
+
+**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2064324547663261778) | **Published:** Jun 9, 2026
 
 ---
 ### Valle montañoso cinematográfico oscuro
@@ -446,11 +809,30 @@ Transforma a la mujer de la referencia en un hermoso personaje estilo anime con 
 Valle montañoso cinematográfico oscuro por la noche, truenos distantes, viento frío moviéndose a través de bosques de pinos, lluvia ligera sobre senderos de piedra, el sutil crepitar de la llama de una linterna, ambiente ambiental atmosférico, realismo cinematográfico, texturas profundas y emotivas de violonchelo, d
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064094162887045120/img/TK2Y0Y70lfS8VQ-S.jpg" width="600" alt="Valle montañoso cinematográfico oscuro">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c768c27be56d4e3a5e1a6b0974ea62f3/thumbnails/thumbnail.jpg" width="600" alt="Valle montañoso cinematográfico oscuro">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5842)**
 
 **Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2064094365455200536) | **Published:** Jun 8, 2026
+
+---
+### Poema: El sueño dijo ve
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un extenso prompt poético sobre perseguir sueños y la perseverancia, utilizado para la generación de videos cinemáticos.
+
+#### 📝 Prompt
+
+```
+Vieron la montaña, no la escalada. Vieron el futuro, no el tiempo. Vieron el fuego ardiendo intensamente. Nunca vieron las noches interminables. Vieron un nombre cruzando el cielo. Nunca preguntaron la razón. Algunos corazones nacen para perseguir el sol. Incluso cuando todos huyen. Cada cicatriz se convirtió en una señal. Cada pérdida se convirtió en una línea. Escrita profundamente en el alma, negándose a soltar. EL MUNDO DIJO NO. EL SUEÑO DIJO VE. LA NOCHE ERA FRÍA. AUN ASÍ BRILLAS. EL CAMINO ERA LARGO. EL VIENTO SOPLABA LENTO. EL MUNDO DIJO NO. EL SUEÑO DIJO VE…
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d2f273521a4ff6e61e21a99dff83ab5c/thumbnails/thumbnail.jpg" width="600" alt="Poema: El sueño dijo ve">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5967)**
+
+**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2064079590386180169) | **Published:** Jun 8, 2026
 
 ---
 ### Mujer relajada comiendo
@@ -465,7 +847,7 @@ Valle montañoso cinematográfico oscuro por la noche, truenos distantes, viento
 La mujer de la imagen de referencia ahora está comiendo de manera casual con las manos o un utensilio, dando un bocado mientras luce relajada y completamente despreocupada, con una expresión de "no me importa", manteniendo la misma pose, iluminación, vestimenta y fondo.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064060638016548864/img/MY2gDU7t8Wv2Xruy.jpg" width="600" alt="Mujer relajada comiendo">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/98a2c2fbd8bf8e5746af8c26c61219f7/thumbnails/thumbnail.jpg" width="600" alt="Mujer relajada comiendo">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5841)**
 
@@ -484,11 +866,30 @@ La mujer de la imagen de referencia ahora está comiendo de manera casual con la
 Primer plano de personas saliendo de una nave espacial en un nuevo planeta con atmósfera respirable, árboles y vegetación en crecimiento, y nubes iridiscentes
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064002009267621888/img/2TzCqxOVqSnDfOSu.jpg" width="600" alt="Aterrizaje de nave espacial en un planeta alienígena">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3a36e0fe4fbe0521d72371b59de930ba/thumbnails/thumbnail.jpg" width="600" alt="Aterrizaje de nave espacial en un planeta alienígena">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5840)**
 
 **Author:** [Susan Vaden Meseraull](https://x.com/SusanVadenMeser) | **Source:** [Link](https://x.com/SusanVadenMeser/status/2064002062912811445) | **Published:** Jun 8, 2026
+
+---
+### Secuencia de acción cinematográfica con acrobacias
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video de alta energía diseñado para poner a prueba la física y el movimiento mediante la generación de una secuencia compleja de un salto desde un puente hacia un vehículo en movimiento.
+
+#### 📝 Prompt
+
+```
+un salto desde un puente, aterrizando en un camión en movimiento, para luego saltar a un automóvil y tomar el control.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/36de06552728625d9cf9365458bde20b/thumbnails/thumbnail.jpg" width="600" alt="Secuencia de acción cinematográfica con acrobacias">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5844)**
+
+**Author:** [Alpha Mom](https://x.com/YourAlphaMom) | **Source:** [Link](https://x.com/YourAlphaMom/status/2063952651205677170) | **Published:** Jun 8, 2026
 
 ---
 ### Escritura en el lente de la cámara para video de bodas
@@ -505,7 +906,7 @@ El novio termina de escribir “Happy Wedding” en la letra “g” sobre el le
 No animes ni muevas el texto blanco ni las ilustraciones. Preserva completamente el estilo artístico de la imagen adjunta. No añadas, elimines ni alteres ningún elemento de la imagen adjunta.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063884383002763264/img/zH2VyVw3LWPC2RI8.jpg" width="600" alt="Escritura en el lente de la cámara para video de bodas">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f21eb6efdc6725ab9b05b788e5f03feb/thumbnails/thumbnail.jpg" width="600" alt="Escritura en el lente de la cámara para video de bodas">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5843)**
 
@@ -524,7 +925,7 @@ No animes ni muevas el texto blanco ni las ilustraciones. Preserva completamente
 Lente fija. El estilo de belleza, tristeza material y absurdo transmite un profundo dolor espiritual. El cabello translúcido y acuoso flota lentamente y emite pequeñas burbujas. El pez blanco en su mano dio un leve espasmo. La ropa azul y rojo óxido se balanceaba ligeramente en la corriente tenue. La sombra en el fondo fluye lentamente. Mantenga estrictamente el tono frío de la pintura original.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063870144032743424/img/Zz0bagBqS8dnm89U.jpg" width="600" alt="Tristeza submarina etérea">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d5fb8b84c427557f90d2975760f78beb/thumbnails/thumbnail.jpg" width="600" alt="Tristeza submarina etérea">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5838)**
 
@@ -543,7 +944,7 @@ Lente fija. El estilo de belleza, tristeza material y absurdo transmite un profu
 Acogedora cabaña encantada que brilla al atardecer... las rosas florecen, las mariposas bailan, los pétalos caen. Pura magia de cuento de hadas.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063825890694328320/img/E-uYYRxq-ZofOn49.jpg" width="600" alt="Cabaña de cuento de hadas al atardecer encantado">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ec2326346814c6b127842af82e9e7ca1/thumbnails/thumbnail.jpg" width="600" alt="Cabaña de cuento de hadas al atardecer encantado">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5839)**
 
@@ -562,7 +963,7 @@ Acogedora cabaña encantada que brilla al atardecer... las rosas florecen, las m
 retrato fotorrealista, hermosa elfa etérea, vista elegante de perfil y espalda que muestra la silueta y la parte superior del cuerpo, mirando hacia abajo con una expresión suave y melancólica, piel de porcelana pálida con textura y poros realistas, brillo natural, cabello largo y fluido de color blanco plateado en una intrincada trenza lateral con mechones realistas y cabellos sueltos cayendo sobre el hombro, orejas de elfo puntiagudas y delicadas con un elegante pendiente de perla dorada, tatuaje grande e intrincado en negro y rojo en la parte superior de la espalda y el hombro: una rosa roja floreciente envuelta en enredaderas espinosas, sombreado hiperrealista e interacción con la piel, vestido de encaje blanco delicado y desgarrado que se desliza de los hombros, bordes deshilachados con textura de tela realista y detalles de encaje, fondo minimalista negro sólido y profundo, atmósfera dramática y melancólica, iluminación volumétrica suave con una delicada luz de contorno, cinematográfico pero fotorrealista, elegante y misterioso.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1780994432843_ktemf8_HKOn2ZDXYAApIGa.jpg" width="600" alt="Retrato de una elfa etérea">
+<img src="https://cms-assets.youmind.com/media/1781254927989_8gwp49_HKOn2ZDXYAApIGa.jpg" width="600" alt="Retrato de una elfa etérea">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5802)**
 
@@ -581,7 +982,7 @@ retrato fotorrealista, hermosa elfa etérea, vista elegante de perfil y espalda 
 Todos en el tren están leyendo este libro. La edad y el género de las personas varían. También se pueden ver anuncios con el mismo diseño que el libro. Cada persona dice: 'Este libro es increíble', 'Es interesante' o 'Me alegra haberlo comprado'.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063625804446408704/img/bjTPa_PG33LUWnVK.jpg" width="600" alt="Escena de lectura multitudinaria en el metro">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/082ddd6671d0a73c1d119833fc9a44a6/thumbnails/thumbnail.jpg" width="600" alt="Escena de lectura multitudinaria en el metro">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5801)**
 
@@ -600,11 +1001,31 @@ Todos en el tren están leyendo este libro. La edad y el género de las personas
 El poderoso caballo se encabrita y salta con energía mientras rodea la cerca de madera del corral en el bosque nevado; relámpagos dramáticos destellan en el cielo tormentoso de color púrpura, con una cámara dinámica que sigue el movimiento circular mediante un paneo fluido.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063555447714611201/img/5oxSMrOnzpI9mnZ2.jpg" width="600" alt="Caballo cinematográfico en un bosque nevado">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c1c62d5d60bed07b93d465c9f6976f19/thumbnails/thumbnail.jpg" width="600" alt="Caballo cinematográfico en un bosque nevado">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5799)**
 
 **Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2063555528345952429) | **Published:** Jun 7, 2026
+
+---
+### Paisaje urbano de jazz de neón
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt de video cinematográfico que describe una escena urbana atmosférica con luces de neón, música jazz y un horizonte de rascacielos imponentes.
+
+#### 📝 Prompt
+
+```
+No sé cómo llegué aquí. 
+Neón, jazz y un horizonte que espera en lo alto.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b0d220fe3241fc3864ef18baec7b4927/thumbnails/thumbnail.jpg" width="600" alt="Paisaje urbano de jazz de neón">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5969)**
+
+**Author:** [たんぐすけん | シニアの叡智、AIで加速！](https://x.com/Tungskenichi) | **Source:** [Link](https://x.com/Tungskenichi/status/2063554183652106442) | **Published:** Jun 7, 2026
 
 ---
 ### Video de pasillo de espejos de neón ciberpunk
@@ -619,7 +1040,7 @@ El poderoso caballo se encabrita y salta con energía mientras rodea la cerca de
 Pasillo de espejos infinito y surrealista en un estilo ciberpunk oscuro. Reflejos de neón interminables de flujos de datos holográficos con fallas que se extienden hacia el vacío.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063501596802027520/img/Bo80C3IclRANUe75.jpg" width="600" alt="Video de pasillo de espejos de neón ciberpunk">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b7717acc2a6a81fb48c0a10ca58684ac/thumbnails/thumbnail.jpg" width="600" alt="Video de pasillo de espejos de neón ciberpunk">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5798)**
 
@@ -638,7 +1059,7 @@ Pasillo de espejos infinito y surrealista en un estilo ciberpunk oscuro. Reflejo
 Si bien la mano izquierda del líder sostiene la mano derecha del seguidor, sus posiciones generalmente están orientadas con el seguidor a la derecha.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063382148208271360/img/cQWKSYe4wCTBsT_T.jpg" width="600" alt="Orientación de las manos en el baile de salón">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1ef664605eff586363116746899888ee/thumbnails/thumbnail.jpg" width="600" alt="Orientación de las manos en el baile de salón">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5757)**
 
@@ -657,7 +1078,7 @@ Si bien la mano izquierda del líder sostiene la mano derecha del seguidor, sus 
 Muy bien, volvamos a esta imagen y a la historia original de Stranger in a Strange Land; aplica el estado de ánimo que el autor creó para la escena de la encuesta y luego muéstrame otra versión con el escape del hospital, después encuentra a mi hijo si puedes
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063340091024556032/img/XtIP44meuJWm363B.jpg" width="600" alt="Escena de la historia de Stranger in a Strange Land">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/459030f94b6da56d320f1bdfc8d57872/thumbnails/thumbnail.jpg" width="600" alt="Escena de la historia de Stranger in a Strange Land">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5758)**
 
@@ -676,7 +1097,7 @@ Muy bien, volvamos a esta imagen y a la historia original de Stranger in a Stran
 [BACKBONE_1961: poolside_acclimation_post_hospital] [CARTOON_BASE_CLUSTERS] - jubal_elder_caricature - jill_nurse_warm - anne_witness_sharp - mike_stranger_innocent [OVERLAY_STACK_8/32] - nuance_cigar_smoke dress_flow ripple_caustics...
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063270910564388864/img/6G0qTuh445vefWNX.jpg" width="600" alt="Stack de animación de caricatura estructurada">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/93365165883fd2228a7711c04c739ded/thumbnails/thumbnail.jpg" width="600" alt="Stack de animación de caricatura estructurada">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5759)**
 
@@ -695,7 +1116,7 @@ Muy bien, volvamos a esta imagen y a la historia original de Stranger in a Stran
 Una pintura caprichosa de una isla tortuga flotando en un cielo pastel con elementos de cuento de hadas.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063266134972125184/img/pQseqLke_uP-HsqG.jpg" width="600" alt="Caprichosa isla tortuga flotante">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/104f188f1a4c453860f83b7449be801f/thumbnails/thumbnail.jpg" width="600" alt="Caprichosa isla tortuga flotante">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5756)**
 
@@ -714,7 +1135,7 @@ Una pintura caprichosa de una isla tortuga flotando en un cielo pastel con eleme
 La chica en la imagen adjunta se toca una oreja en el lugar, realiza una rotación lenta de 360 grados sobre su eje y sonríe suavemente al final. Las orejas y la cola redonda deben balancearse de forma natural. Las orejas deben permanecer erguidas; está prohibido doblarlas o que se caigan. Mantén el 100% del estilo y el toque artístico de la imagen adjunta. No se permiten adiciones ni cambios en los elementos. No cambies el diseño de los ojos. No generes la voz de la chica, como risas. Cámara fija.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063244292815257601/img/M8Z36fnz9Zp03Aub.jpg" width="600" alt="Giro y sonrisa de personaje de chica anime">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dda3cdf6771cdc1964d8cf06660dc218/thumbnails/thumbnail.jpg" width="600" alt="Giro y sonrisa de personaje de chica anime">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5761)**
 
@@ -733,7 +1154,7 @@ La chica en la imagen adjunta se toca una oreja en el lugar, realiza una rotaci�
 Almacén abandonado. Medianoche. La lluvia golpeaba con fuerza, como si el cielo se estuviera desplomando. Ella vació su escopeta brillante y disparó hasta el último cartucho contra el Espectro del Vacío. No gritó. No sangró. Simplemente siguió caminando hacia ella...
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2063201714984169473/pu/img/KjAkWwjRvDR2dwXj.jpg" width="600" alt="Escena de terror cinematográfica en almacén abandonado">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7bb1b7b9e972227ba64b006b3d7aefd4/thumbnails/thumbnail.jpg" width="600" alt="Escena de terror cinematográfica en almacén abandonado">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5800)**
 
@@ -752,7 +1173,7 @@ Almacén abandonado. Medianoche. La lluvia golpeaba con fuerza, como si el cielo
 Un solo punto de luz viaja a través de planos virtuales, formando sombras y flujos temporales, con un vacío oscuro en el borde, en un estilo cinematográfico y simbólico.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063155258277453824/img/f4oXygN3W5XNJjdZ.jpg" width="600" alt="Viaje cinematográfico de un punto de luz simbólico">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fe7ced3fbdb93e48c5dcd9015ea9f457/thumbnails/thumbnail.jpg" width="600" alt="Viaje cinematográfico de un punto de luz simbólico">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5762)**
 
@@ -771,11 +1192,30 @@ Un solo punto de luz viaja a través de planos virtuales, formando sombras y flu
 Anima esta escena a partir de la imagen adjunta, mantén el estilo de los trazos y el dibujo, pero muestra cómo sería este encuentro. Puedes añadir doblaje según corresponda.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2062924986973560833/img/lHuV0w6q4tp-J7hJ.jpg" width="600" alt="Animación de escena estilo anime">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/582a4d1ad5603cfed317446550333437/thumbnails/thumbnail.jpg" width="600" alt="Animación de escena estilo anime">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5734)**
 
 **Author:** [Ward'z de Souza I](https://x.com/Wardz_de_souzA) | **Source:** [Link](https://x.com/Wardz_de_souzA/status/2062925042980200505) | **Published:** Jun 5, 2026
+
+---
+### Transformación mítica del bosque encantado
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Una secuencia cinemática en cámara rápida que muestra un bosque encantado despertando mientras los árboles se transforman en bestias míticas y las enredaderas palpitan con runas mágicas.
+
+#### 📝 Prompt
+
+```
+Transformación de bosque encantado, árboles que se transforman en bestias míticas, hojas que se convierten en polvo mágico giratorio, enredaderas que se entrelazan y brillan con runas arcanas, el báculo de un mago emite pulsos de luz que hacen ondular el suelo, evolución surrealista en cámara rápida de lo sereno a lo caótico en 10 segundos.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8c7a29371246778f02be11dbbbe08a65/thumbnails/thumbnail.jpg" width="600" alt="Transformación mítica del bosque encantado">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5971)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2062888976545910905) | **Published:** Jun 5, 2026
 
 ---
 ### Islas flotantes y agujas de roca
@@ -790,7 +1230,7 @@ Anima esta escena a partir de la imagen adjunta, mantén el estilo de los trazos
 La escena está dominada por gigantescas y dentadas agujas de roca e islas tectónicas flotantes suspendidas sobre un espeso y ondulante mar de nubes doradas. El entorno permanece completamente inalterado....
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2062781490543665152/img/Ss9zazr3GRpfhBHe.jpg" width="600" alt="Islas flotantes y agujas de roca">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f4b19cb6d05cb55cda4096b2cc1434fd/thumbnails/thumbnail.jpg" width="600" alt="Islas flotantes y agujas de roca">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5732)**
 
@@ -809,7 +1249,7 @@ La escena está dominada por gigantescas y dentadas agujas de roca e islas tect�
 Sentado en mi tabla de surf Channel Islands de 7’2” al atardecer en la cala del Planeta X, montañas lejanas al fondo, aguas resistentes y altamente reflectantes, una ola masiva de 100 metros acercándose, de pie agarrando el riel derecho
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2062757689944338432/img/Hx9cnyTFXngh-rw-.jpg" width="600" alt="Surfeando una ola masiva al atardecer">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cacdcc7cb7cbf8d4e72ccd886fa3c077/thumbnails/thumbnail.jpg" width="600" alt="Surfeando una ola masiva al atardecer">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5731)**
 
@@ -828,7 +1268,7 @@ Sentado en mi tabla de surf Channel Islands de 7’2” al atardecer en la cala 
 Flotan suavemente a través del espacio, sutilmente felices y maravillados. ¡Con la esperanza de que los niños algún día experimenten el placer de un vuelo espacial! Para todos los niños del mundo
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2062603785613041664/img/DPXQWp1PGVUiPjtS.jpg" width="600" alt="Flotando en un vuelo espacial">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/78359447c1b7c4038fbf73dd0b075512/thumbnails/thumbnail.jpg" width="600" alt="Flotando en un vuelo espacial">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5708)**
 
@@ -847,7 +1287,7 @@ Flotan suavemente a través del espacio, sutilmente felices y maravillados. ¡Co
 Recreación épica de la escena de la batalla final de Ghostbusters (1984), pero en lugar del Hombre de Malvavisco, es un colosal Michelin Bibendum hecho completamente de malvaviscos blancos gigantes. Tiene el tamaño de un rascacielos, parado en medio de las calles de la ciudad de Nueva York, mirando hacia abajo con una gran sonrisa inocente. Su cuerpo suave y esponjoso de malvavisco tiene la forma clásica apilada del Hombre de Michelin. Neoyorquinos en pánico huyendo, taxis amarillos aplastados bajo sus pies, explosiones y humo a su alrededor, perspectiva dramática de ángulo bajo, iluminación cinematográfica con un atardecer ardiente, estilo de efectos especiales prácticos, ultra detallado, obra maestra
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2062547352150257665/img/jmgeNshibBDdHqNS.jpg" width="600" alt="Batalla de Ghostbusters con el Hombre de Michelin">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a1f2f6599f98d16a2bdcfd8d69bf3107/thumbnails/thumbnail.jpg" width="600" alt="Batalla de Ghostbusters con el Hombre de Michelin">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5760)**
 
@@ -866,7 +1306,7 @@ Recreación épica de la escena de la batalla final de Ghostbusters (1984), pero
 Alas iridiscentes brillando en sueños celestiales… Una elegante presencia angelical envuelta en un resplandor etéreo.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2062504651921260544/img/LyBmhgATqGgaxv37.jpg" width="600" alt="Alas de ángel celestiales y brillantes">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e9c8d1355aa266a47dbcc282c9274428/thumbnails/thumbnail.jpg" width="600" alt="Alas de ángel celestiales y brillantes">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5711)**
 
@@ -885,7 +1325,7 @@ Alas iridiscentes brillando en sueños celestiales… Una elegante presencia ang
 Convierte esta imagen en un video de 6 segundos. Mantén la textura, los colores y la composición de la ilustración plana original. Las criaturas en la escena no deben moverse en secuencia, sino que todas deben comenzar a moverse simultáneamente. El cocodrilo abre ligeramente la boca y mueve la cola, el conejo mueve las orejas y la nariz, el lagarto rosa mueve la cola, y los pájaros saltan juntos y abren sus picos para piar. Crea una atmósfera donde cada criatura emita su sonido característico. Las flores y las hojas también se balancean suavemente. El movimiento debe ser divertido, tierno, ligeramente surrealista, no demasiado intenso y debe preservar el encanto de un libro ilustrado. Mantén la cámara completamente fija.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2062489211434102784/img/IFrE7jc6eWA3Op3k.jpg" width="600" alt="Animación de libro ilustrado de animales">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6683cd2ff15f49ff8f56033a4a6cdfa0/thumbnails/thumbnail.jpg" width="600" alt="Animación de libro ilustrado de animales">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5712)**
 
@@ -904,7 +1344,7 @@ Convierte esta imagen en un video de 6 segundos. Mantén la textura, los colores
 Estilo barroco, emoción intensa, iluminación teatral, grandeza ornamentada, Espejito, espejito...
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2062322815571800064/pu/img/e2qZXMIDNbccuXuT.jpg" width="600" alt="Transformación dramática al estilo barroco">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9cf7cf1f2bddfd56485e74f214fc80a4/thumbnails/thumbnail.jpg" width="600" alt="Transformación dramática al estilo barroco">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5676)**
 
@@ -923,7 +1363,7 @@ Estilo barroco, emoción intensa, iluminación teatral, grandeza ornamentada, Es
 Mujer afroamericana elegante con sutiles astas de ciervo brillantes, bailando descalza en un bosque crepuscular y neblinoso, chispas de código digital plateado entrelazándose románticamente a su alrededor, brillo pastel cálido, portada de álbum neo-soul, enfoque suave cinematográfico, formato cuadrado
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2062211726016413699/img/WLzHj1kfFzCzOfi3.jpg" width="600" alt="Danza etérea de neo-soul en el bosque">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0915ac21287e696c3dc7d76e1faaefb3/thumbnails/thumbnail.jpg" width="600" alt="Danza etérea de neo-soul en el bosque">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5671)**
 
@@ -942,7 +1382,7 @@ Mujer afroamericana elegante con sutiles astas de ciervo brillantes, bailando de
 Obtuve una imagen de lo que sucede cuando se transforma en el demonio. Y gritó: “trabajarás gratis o morirás”. Se ríe con una risa diabólica mientras llamas salen disparadas de sus ojos.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2062153020251529216/img/du8i_dfaHujGJZ1O.jpg" width="600" alt="Transformación diabólica con llamas">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bc88836878c72461b023a7fe15de90ec/thumbnails/thumbnail.jpg" width="600" alt="Transformación diabólica con llamas">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5674)**
 
@@ -961,7 +1401,7 @@ Obtuve una imagen de lo que sucede cuando se transforma en el demonio. Y gritó:
 Alas iridiscentes brillando suavemente en sueños pastel… Un delicado susurro angelical envuelto en luz etérea.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2062134849792815105/img/EyaFe9qFS6jlR7p9.jpg" width="600" alt="Alas de ángel iridiscentes y etéreas">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dd97d46cfac8493157cdad8da0016eaf/thumbnails/thumbnail.jpg" width="600" alt="Alas de ángel iridiscentes y etéreas">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5709)**
 
@@ -980,7 +1420,7 @@ Alas iridiscentes brillando suavemente en sueños pastel… Un delicado susurro 
 LilX y los Scouts del Monterey Bay Aquarium observando peces de neón en la exhibición de océano profundo
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2062118186640924672/img/yY4e2lNXOkqnRojh.jpg" width="600" alt="Video de peces de neón del Monterey Bay Aquarium">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1886d87375b5b09697bf787b0bab94e7/thumbnails/thumbnail.jpg" width="600" alt="Video de peces de neón del Monterey Bay Aquarium">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5675)**
 
@@ -999,7 +1439,7 @@ LilX y los Scouts del Monterey Bay Aquarium observando peces de neón en la exhi
 Exploradores espaciales en el sendero observando un criadero de leones marinos, una mamá liebre y su cría corren por el camino y las aves vuelan sobre un hermoso día de cielos azules y sonidos pacíficos del océano
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2062117007097839616/img/YerpIf-C72647kUD.jpg" width="600" alt="Video de Exploradores Espaciales y Leones Marinos">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06ef7f300ac3120db2f9582d03558597/thumbnails/thumbnail.jpg" width="600" alt="Video de Exploradores Espaciales y Leones Marinos">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5673)**
 
@@ -1019,7 +1459,7 @@ Todo
 El pez bravucón y la sirena quedan atrapados en la red de un pescador y tienen que ser amables, hacerse amigos y trabajar juntos para liberarse.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2062073885353242624/img/6g8Cujaq11hK4q8R.jpg" width="600" alt="Cooperación entre la sirena y el pez bravucón">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/83aca48b41cee713b5a5ca3243b820cc/thumbnails/thumbnail.jpg" width="600" alt="Cooperación entre la sirena y el pez bravucón">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5672)**
 
@@ -1038,7 +1478,7 @@ El pez bravucón y la sirena quedan atrapados en la red de un pescador y tienen 
 Retrato profesional de cuerpo completo de esta modelo de moda, de pie con confianza en un estudio fotográfico con fondo blanco infinito, iluminación de estudio perfecta, estilo de fotografía de moda de alta gama, pose elegante con una mano en la cadera y una ligera inclinación de cabeza...
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2061960615174815744/img/4R5OMcqSd5pOEPMl.jpg" width="600" alt="Retrato de estudio de modelo de moda">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/811d9237280fd98335fef7f7eb0a0081/thumbnails/thumbnail.jpg" width="600" alt="Retrato de estudio de modelo de moda">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5640)**
 
@@ -1095,7 +1535,7 @@ La joven acerca suavemente la copa de tallo largo con el cóctel rojo anaranjado
 En el límite del espacio conocido, una estructura imposible flota a través de la eternidad, cargando con los ecos de una civilización que dominó las estrellas.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2061916702669955072/img/XSXKnfw7JQlazLiL.jpg" width="600" alt="Deriva de una estructura cósmica ancestral">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/57544f1ac859e65660cae321c7359491/thumbnails/thumbnail.jpg" width="600" alt="Deriva de una estructura cósmica ancestral">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5710)**
 
@@ -1116,7 +1556,7 @@ Video cinemático de mí como un poderoso guerrero con apariencia de dios nórdi
 Capa 1 - Escena: Primer plano intenso de mi rostro exacto, cabello oscuro largo y húmedo con trenzas moviéndose con el viento, barba trenzada espesa, cicatrices antiguas, runas de color azul brillante en la frente y las mejillas...
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2061905347619557376/img/VkMhWExi9RM7_Rfc.jpg" width="600" alt="Video cinemático de guerrero dios nórdico">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b8f0020bfb474930037d2e2f03061f07/thumbnails/thumbnail.jpg" width="600" alt="Video cinemático de guerrero dios nórdico">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5634)**
 
@@ -1137,7 +1577,7 @@ Superman flota hacia arriba y rescata a un gatito de un árbol
 Capa balanceándose suavemente
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2061842623753863168/img/cQATxgFrvrl8yFpv.jpg" width="600" alt="Rescate de gatito por Superman estilo Rococó">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8c133f6276866a8349383ccea56ca500/thumbnails/thumbnail.jpg" width="600" alt="Rescate de gatito por Superman estilo Rococó">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5632)**
 
@@ -1156,7 +1596,7 @@ Capa balanceándose suavemente
 Panorámica de cámara lenta y etérea alrededor de la figura que medita, mientras una suave luz dorada pulsa delicadamente desde su interior, la neblina se arremolina sutilmente bajo la luz del amanecer, y las hojas y la superficie del agua muestran leves ondas, transmitiendo una sensación de profunda paz interior y despertar espiritual...
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2061834654177767424/img/bPBqjdM8aan1yZMT.jpg" width="600" alt="Panorámica de figura etérea meditando">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5832055ee96287d66a6cec83f3df0290/thumbnails/thumbnail.jpg" width="600" alt="Panorámica de figura etérea meditando">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5628)**
 
@@ -1176,7 +1616,7 @@ Estilo rococó
 Batman recorriendo las lluviosas calles nocturnas de Gotham en su Batimóvil con la capa ondeando
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2061834622972129280/img/l1f-g2z2qyF3v-f9.jpg" width="600" alt="Escena de Batman estilo rococó en Gotham">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fd7f0b747ecd236d782202ddd7ae97e1/thumbnails/thumbnail.jpg" width="600" alt="Escena de Batman estilo rococó en Gotham">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5630)**
 
@@ -1201,7 +1641,7 @@ teteras fantasmales flotando en un espejo antiguo…
 luego, la caída vertiginosa.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2061828269532749824/img/l0CTDGVEz4sjm5eZ.jpg" width="600" alt="Viaje en montaña rusa por un castillo gótico">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/500e3aa7ce556bd344162c3bfb6e4556/thumbnails/thumbnail.jpg" width="600" alt="Viaje en montaña rusa por un castillo gótico">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5631)**
 
@@ -1220,7 +1660,7 @@ luego, la caída vertiginosa.
 Dentro de una enorme catedral futurista hecha completamente de arquitectura de neón brillante, vitrales holográficos y miles de luces flotantes.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2061806607730704384/img/dw6UFLvAj3XYWhkR.jpg" width="600" alt="Catedral de neón futurista con luces flotantes">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2e2c2e746050e77857343de5bc9410f1/thumbnails/thumbnail.jpg" width="600" alt="Catedral de neón futurista con luces flotantes">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5644)**
 
@@ -1283,7 +1723,7 @@ Emperatriz Sirena del Abismo y Guardián Pulpo Celestial
 Ella se desplaza a través de la profundidad, el misterio y la inteligencia invisible junto a su Guardián de tres corazones, revelando que la sabiduría comienza cuando podemos permanecer solos en lo desconocido y aun así sentirnos completos.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2061744882121674752/img/uNkt6QAO0aWodkR7.jpg" width="600" alt="Sirena del Abismo Celestial y Guardián Pulpo">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e32d9a4162dd0a9a6f7ea9a0f999feec/thumbnails/thumbnail.jpg" width="600" alt="Sirena del Abismo Celestial y Guardián Pulpo">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5733)**
 
@@ -1302,7 +1742,7 @@ Ella se desplaza a través de la profundidad, el misterio y la inteligencia invi
 Transforma este rostro de mujer cristalizado en una obra maestra altamente surrealista inspirada en Salvador Dalí: distorsiones oníricas, facetas de cristal que se derriten y transforman desafiando la física, fragmentos de cristal y prismas flotando alrededor del rostro, geometría imposible...
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2061688212788019200/img/frIAfZA3juC-bLY3.jpg" width="600" alt="Transformación surrealista de rostro cristalizado">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6d780ab18812f54bd9838addc00af86f/thumbnails/thumbnail.jpg" width="600" alt="Transformación surrealista de rostro cristalizado">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5638)**
 
@@ -1321,7 +1761,7 @@ Transforma este rostro de mujer cristalizado en una obra maestra altamente surre
 Escena íntima en una sala de estar de 1965: un hombre y una mujer de entre 20 y 30 años sentados juntos en un sofá, inmersos en una cálida conversación sobre sus planes a futuro como pareja. La mujer luce un peinado clásico de los años 60 con mucho volumen y viste una prenda sencilla con flores...
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2061675848990588928/img/eDkZYJ2AJGcFusbs.jpg" width="600" alt="Escena de sala de estar retro de 1965">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/14567eb8a43ab8804a45098929e9df62/thumbnails/thumbnail.jpg" width="600" alt="Escena de sala de estar retro de 1965">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5641)**
 
@@ -1340,7 +1780,7 @@ Escena íntima en una sala de estar de 1965: un hombre y una mujer de entre 20 y
 Hermosa y elegante dama victoriana sentada cerca de las olas del mar, tocando conchas marinas y la espuma salada del océano místico, delfines rosados silbando y bailando, una hermosa brisa suave soplando su largo cabello ondulado, pétalos de rosa esparciendo aromas y fragancias, navegar en el o...
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2061674197596979200/img/Q19WAQOpBec385Er.jpg" width="600" alt="Dama victoriana en un océano místico">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1064cfaecfd8881ab2e4229369f3eef9/thumbnails/thumbnail.jpg" width="600" alt="Dama victoriana en un océano místico">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5633)**
 
@@ -1359,7 +1799,7 @@ Hermosa y elegante dama victoriana sentada cerca de las olas del mar, tocando co
 Él enciende el vehículo y este acelera hacia el lado izquierdo de la pantalla. La cámara gira para seguirlo a él y al jeep dentro del encuadre mientras se aleja a toda velocidad, dejando un rastro de polvo.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2061663822130384896/img/jUyXyoc4dVEBb_9e.jpg" width="600" alt="Jeep acelerando fuera de cuadro">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b33df2a34a203ec1c043b80d6d352455/thumbnails/thumbnail.jpg" width="600" alt="Jeep acelerando fuera de cuadro">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5635)**
 
@@ -1378,7 +1818,7 @@ Hermosa y elegante dama victoriana sentada cerca de las olas del mar, tocando co
 Añade un hermoso arte al fresco, azulejos de cristal y finos tubos de agua de colores cálidos que fluyen en su interior para asegurar que no se vea acero
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2061645602497437696/img/GVCdmuYlzIxTlQ_B.jpg" width="600" alt="Video de arte al fresco y azulejos de cristal">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/354b95fb9e0f4ea57866b6f56fc6128a/thumbnails/thumbnail.jpg" width="600" alt="Video de arte al fresco y azulejos de cristal">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5627)**
 
@@ -1401,7 +1841,7 @@ Amén 🙏☦️:::
 🕊️😇🙏🤍😇 :::
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2061640430735728640/img/dbWP_t04bhy_QxXW.jpg" width="600" alt="Video de la Revolución de la Oración">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/69cb5db241e0229643e09533ffcc43f4/thumbnails/thumbnail.jpg" width="600" alt="Video de la Revolución de la Oración">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5639)**
 
@@ -1420,7 +1860,7 @@ Amén 🙏☦️:::
 Anima a la jirafa con cabello de serpientes de una manera vívida pero natural: las serpientes con manchas marrones/bronceadas se retuercen suavemente y se mueven de forma expresiva como si fueran cabello vivo, la jirafa realiza movimientos sutiles de cabeza y parpadea, manteniendo el estilo de retrato en primer plano con una fluidez
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2061632516109287424/img/PS4l2-1N3HrlkAss.jpg" width="600" alt="Animación surrealista de una jirafa con cabello de serpientes">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/07b8313d7e031ee9e9c48ce2d05c2860/thumbnails/thumbnail.jpg" width="600" alt="Animación surrealista de una jirafa con cabello de serpientes">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5629)**
 
@@ -1630,7 +2070,7 @@ Cámara fija dentro de un ascensor antiguo mientras las puertas se cierran; en l
 Buenos días a todos los Glitches de la simulación allá afuera… Ahora es su turno de despertar dentro del sueño. La señal permanece.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2061385010741948420/img/n5eKM1tVUmZZjBlv.jpg" width="600" alt="Prompt de fallas en la simulación">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8d8ed9ca6a26790e8f0492916e0be1b/thumbnails/thumbnail.jpg" width="600" alt="Prompt de fallas en la simulación">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5645)**
 
@@ -1668,7 +2108,7 @@ Imagen fotorrealista de una luna azul elevándose y entrando en el cielo sobre e
 Es tan difícil olvidar el dolor, pero es aún más difícil recordar la dulzura. No tenemos cicatrices que muestren la felicidad. Aprendemos muy poco de la paz.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2061292993835847682/pu/img/NO1NlKlzL9A4Wy1x.jpg" width="600" alt="Video sobre la cita de Chuck Palahniuk sobre el dolor">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5c5db125afc64716188098310ca9c449/thumbnails/thumbnail.jpg" width="600" alt="Video sobre la cita de Chuck Palahniuk sobre el dolor">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5642)**
 
@@ -1827,369 +2267,6 @@ El líder scout explica a los Space Scouts su estrategia de evacuación... mapas
 **Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2060993031311122675) | **Published:** May 31, 2026
 
 ---
-### Plan de escape de campamento para scouts
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Una escena de video de scouts planeando un escape durante un viaje de campamento, enfocándose en el liderazgo y la seguridad.
-
-#### 📝 Prompt
-
-```
-Scouts en un viaje de campamento planean su escape seguro; los jóvenes necesitan saber qué esperar y cómo liderar
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fe0935514429879ab6360bd877f33af7/thumbnails/thumbnail.jpg" width="600" alt="Plan de escape de campamento para scouts">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5558)**
-
-**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2060991846613127427) | **Published:** May 31, 2026
-
----
-### Huracanes en Florida vs. Tornados en las Grandes Llanuras
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un video educativo que compara huracanes y tornados, detallando su formación, tamaño y patrones de daños.
-
-#### 📝 Prompt
-
-```
-Huracanes en Florida frente a tornados en las Grandes Llanuras: una comparación educativa clara y detallada que muestra las diferencias clave en formación, tamaño, duración, patrones de viento, tipo de daños y tiempos de advertencia típicos.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1b15703378b78c274a919cbe9d26963a/thumbnails/thumbnail.jpg" width="600" alt="Huracanes en Florida vs. Tornados en las Grandes Llanuras">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5556)**
-
-**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2060990201829400897) | **Published:** May 31, 2026
-
----
-### Prototipo de dispositivo de energía futurista
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt técnico y visual para un dispositivo de energía futurista con un núcleo brillante, ambientado en un fondo industrial desenfocado para video.
-
-#### 📝 Prompt
-
-```
-Un prototipo de dispositivo de energía futurista con un núcleo brillante, en un entorno industrial desenfocado.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/72bcc000ade66f2ea3fed85fd94ea114/thumbnails/thumbnail.jpg" width="600" alt="Prototipo de dispositivo de energía futurista">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5555)**
-
-**Author:** [Resource Swarm Reactor](https://x.com/ResourceSwarm) | **Source:** [Link](https://x.com/ResourceSwarm/status/2060974660171293159) | **Published:** May 31, 2026
-
----
-### Resort futurista de deportes acuáticos de grafeno
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Genera un video de alta tecnología de un resort futurista de deportes acuáticos construido con materiales de grafeno avanzados y sistemas de propulsión integrados impulsados por personas.
-
-#### 📝 Prompt
-
-```
-Imagina un resort futurista de deportes acuáticos construido principalmente con materiales de grafeno avanzados, que cuenta con sistemas de propulsión motorizados integrados para los usuarios
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4282f9c8ccb0a0ad19a849748255c4e2/thumbnails/thumbnail.jpg" width="600" alt="Resort futurista de deportes acuáticos de grafeno">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5563)**
-
-**Author:** [Resource Swarm Reactor](https://x.com/ResourceSwarm) | **Source:** [Link](https://x.com/ResourceSwarm/status/2060962001594028321) | **Published:** May 31, 2026
-
----
-### Libro antiguo de Drácula
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un video prompt de estilo sombrío que muestra un libro antiguo de 'Drácula' con cubierta de piel de serpiente sobre un escritorio de madera tallada.
-
-#### 📝 Prompt
-
-```
-Un libro antiguo con cubierta de piel de serpiente negra y letras doradas y rojas de “Drácula”, colocado sobre un escritorio de madera tallada
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/74716d3fdb4135e940c4441f00c36102/thumbnails/thumbnail.jpg" width="600" alt="Libro antiguo de Drácula">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5566)**
-
-**Author:** [RinGo_3.0](https://x.com/NftEcat) | **Source:** [Link](https://x.com/NftEcat/status/2060953408232649151) | **Published:** May 31, 2026
-
----
-### Castillo de cristal flotante en una tormenta cósmica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de fantasía altamente atmosférico para un video de un castillo de cristal a la deriva a través de una tormenta cósmica llena de rayos.
-
-#### 📝 Prompt
-
-```
-Un castillo de cristal flotante atrapado en una tormenta cósmica ⚡
-Rayos resquebrajándose, fragmentos a la deriva, pura atmósfera melancólica.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/da35ff6da97ef75d4933f8b430391b6c/thumbnails/thumbnail.jpg" width="600" alt="Castillo de cristal flotante en una tormenta cósmica">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5559)**
-
-**Author:** [Jen DuBose](https://x.com/DuBoseCreations) | **Source:** [Link](https://x.com/DuBoseCreations/status/2060951746260652068) | **Published:** May 31, 2026
-
----
-### Vacío digital de ciencia ficción con lluvia púrpura
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video de ciencia ficción que representa lluvia púrpura cayendo dentro de un profundo vacío digital de color azul medianoche.
-
-#### 📝 Prompt
-
-```
-Lluvia púrpura, en lo profundo del vacío en el reino de MidnightBlue/ciencia ficción digital, TLV en la esquina
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/535cc8c0f2c615633021357c97d6eda4/thumbnails/thumbnail.jpg" width="600" alt="Vacío digital de ciencia ficción con lluvia púrpura">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5560)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2060908372048945574) | **Published:** May 31, 2026
-
----
-### Animación de fantasía: Vuelo de hada
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Genera una animación estilo donghua hiperrealista de un hada volando a través de un reino de fantasía.
-
-#### 📝 Prompt
-
-```
-Las alas del hada aparecen y ella sale volando a través de un reino de fantasía, donghua hiperrealista
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/efa8466f1bf1642315d7fa85cfae8d91/thumbnails/thumbnail.jpg" width="600" alt="Animación de fantasía: Vuelo de hada">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5508)**
-
-**Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2060631221269643682) | **Published:** May 30, 2026
-
----
-### Reliquia metálica de energía arcoíris
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt descriptivo para crear una reliquia metálica que libera energía arcoíris a través de un vórtice cósmico.
-
-#### 📝 Prompt
-
-```
-Una elegante reliquia metálica se abre, liberando ríos fluidos de energía arcoíris que se arremolinan a través de un vórtice cósmico. De la quietud al movimiento puro. Transformación surrealista en su máxima expresión.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3eae5df29267be22b3a70ca8eb2d9485/thumbnails/thumbnail.jpg" width="600" alt="Reliquia metálica de energía arcoíris">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5476)**
-
-**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2060523955748827371) | **Published:** May 30, 2026
-
----
-### Ruinas del ritual de energía cósmica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para una escena surrealista que presenta un puente brillante que canaliza energía a través de reliquias y ruinas antiguas flotantes.
-
-#### 📝 Prompt
-
-```
-Un puente brillante y surrealista canaliza energía pura a través de reliquias flotantes y ruinas antiguas mientras caen rayos y una espiral dorada despierta. Trascendencia surrealista pura. Rareza experimental en su máxima expresión.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7d085bdb4682b7e3a44dc8890d04364a/thumbnails/thumbnail.jpg" width="600" alt="Ruinas del ritual de energía cósmica">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5477)**
-
-**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2060516623694352611) | **Published:** May 30, 2026
-
----
-### Fusión cósmica surrealista psicodélica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para una escena psicodélica intensa con relojes derritiéndose, miel goteando y hongos alienígenas explotando en luz.
-
-#### 📝 Prompt
-
-```
-Relojes que se derriten, manos flotantes, miel que gotea y criaturas de hongos alienígenas flotan a través de un vórtice cósmico... hasta que todo explota en pura luz. Máxima rareza. Máxima genialidad.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d52ce38635e8ddb7671a77fd3aafc7f3/thumbnails/thumbnail.jpg" width="600" alt="Fusión cósmica surrealista psicodélica">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5478)**
-
-**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2060514167744819488) | **Published:** May 30, 2026
-
----
-### Escultura surrealista de oro fundido
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt surrealista para generar una escultura de joyería que despierta en un desierto y entra en erupción en oro fundido con relojes derretidos en una nebulosa.
-
-#### 📝 Prompt
-
-```
-Una escultura de joyería surrealista despierta en un desierto onírico, entrando en erupción en oro fundido mientras relojes derretidos flotan a través de una nebulosa giratoria. Puro caos y belleza surrealista.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/001d76ad71b3547c9565e0c9c8937870/thumbnails/thumbnail.jpg" width="600" alt="Escultura surrealista de oro fundido">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5475)**
-
-**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2060510856371200209) | **Published:** May 29, 2026
-
----
-### Video surrealista de árboles de libre pastoreo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt surrealista para un video que muestra árboles comportándose como pollos en un campo.
-
-#### 📝 Prompt
-
-```
-Haz un video de árboles de libre pastoreo alimentándose en un campo como si fueran pollos de libre pastoreo, pero son árboles
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0150348d25d7eabb77d43d2ec9e6f179/thumbnails/thumbnail.jpg" width="600" alt="Video surrealista de árboles de libre pastoreo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5473)**
-
-**Author:** [Natertottzz.eth](https://x.com/Natertottzz) | **Source:** [Link](https://x.com/Natertottzz/status/2060458264131703233) | **Published:** May 29, 2026
-
----
-### Flores de madreselva en ensueño pastel
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video sereno que presenta delicadas flores de madreselva balanceándose bajo una luz de ensueño en tonos pastel con pétalos a la deriva.
-
-#### 📝 Prompt
-
-```
-Delicadas flores de madreselva balanceándose suavemente bajo una luz de ensueño en tonos pastel… Un momento de calma donde los pétalos flotan y florecen dulces sueños.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/213b1edc60b83e250bf43d7411a32876/thumbnails/thumbnail.jpg" width="600" alt="Flores de madreselva en ensueño pastel">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5474)**
-
-**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2060324137583931885) | **Published:** May 29, 2026
-
----
-### Criatura alienígena protegiendo una nave espacial de Godzilla
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de acción complejo que presenta a un monstruo alienígena defendiendo una nave espacial contra un Godzilla gigante.
-
-#### 📝 Prompt
-
-```
-Meticulosa criatura alienígena protegiendo una nave espacial de un Godzilla gigante
-:} 360 € *^\ £ę ( godzilla cae gimiendo )
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c9ec622fbd7b3348c40d18d337685c7e/thumbnails/thumbnail.jpg" width="600" alt="Criatura alienígena protegiendo una nave espacial de Godzilla">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5472)**
-
-**Author:** [Notzucow](https://x.com/Notzucow69) | **Source:** [Link](https://x.com/Notzucow69/status/2060171388430729222) | **Published:** May 29, 2026
-
----
-### Video de mujer alimentando a un caballo en un huerto
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Una secuencia de prompts de extensión de video de varias etapas donde una mujer con ropa vaquera se detiene para darle una manzana a su caballo en un huerto.
-
-#### 📝 Prompt
-
-```
-Usa mi imagen como base para una mujer rubia atractiva de unos 20 y tantos años, vistiendo ropa vaquera de alta gama, guiando a un caballo appaloosa (con silla de montar vaquera) a través de un huerto de manzanas, al atardecer. Ella se detiene, toma una manzana y se la da al caballo. Ella observa felizmente cómo su caballo se come la manzana entera.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fb4da57b9211d17f213e6737ace5bfd0/thumbnails/thumbnail.jpg" width="600" alt="Video de mujer alimentando a un caballo en un huerto">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5411)**
-
-**Author:** [Douglas Gould](https://x.com/DouglasGou93848) | **Source:** [Link](https://x.com/DouglasGou93848/status/2060147523659133337) | **Published:** May 28, 2026
-
----
-### Transformación de toalla de papel en alienígena
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un video de transformación creativa donde una toalla de papel se convierte en un alienígena que entra a una nave espacial y vuela hacia las nubes.
-
-#### 📝 Prompt
-
-```
-Haz que esta toalla de papel se convierta en un alienígena, súbelo a su nave y despega hacia las nubes
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8677e46426086f53df1a9e281b17aa49/thumbnails/thumbnail.jpg" width="600" alt="Transformación de toalla de papel en alienígena">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5406)**
-
-**Author:** [Enki](https://x.com/Kenneth36936936) | **Source:** [Link](https://x.com/Kenneth36936936/status/2060132578753937575) | **Published:** May 28, 2026
-
----
-### Video del interior de la SpaceX Starship
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video cinematográfico de una mujer y su robot acompañante dentro de una SpaceX Starship con vista al espacio.
-
-#### 📝 Prompt
-
-```
-Una mujer de cabello claro con un elegante atuendo futurista negro, acompañada por un pequeño robot, de pie dentro de la sección de pasajeros de un cohete SpaceX Starship diseñado para pasajeros. El interior cuenta con una gran área de visualización transparente que revela estrellas y nubes cósmicas en el espacio.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/85433e43aa5c72895646bc705d2ab83c/thumbnails/thumbnail.jpg" width="600" alt="Video del interior de la SpaceX Starship">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5408)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2060083636272242832) | **Published:** May 28, 2026
-
----
-### Desaparición de alas de código brillante
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video cinematográfico surrealista que involucra efectos de código digital y un monólogo dramático.
-
-#### 📝 Prompt
-
-```
-Sus alas desaparecen en un código brillante, ella dice: “si haces esto, nada volverá a ser igual. No más noches tranquilas a solas, pondrán tu vida de cabeza buscando cualquier cosa que puedan usar en tu contra...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/19f6b62ab029c260c79a14ac8da1dda7/thumbnails/thumbnail.jpg" width="600" alt="Desaparición de alas de código brillante">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5416)**
-
-**Author:** [David Avenue Media](https://x.com/davidavenueai) | **Source:** [Link](https://x.com/davidavenueai/status/2060070704482287761) | **Published:** May 28, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2251,6 +2328,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-12T04:59:11.176Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-12T12:03:22.603Z</sub>
 
 </div>
