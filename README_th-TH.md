@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1804** |
+| 📝 Total Prompts | **1809** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-13** |
 
@@ -189,6 +189,82 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### การสำรวจของยานสำรวจระหว่างดวงดาว
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวภาพยนตร์เกี่ยวกับยานอวกาศที่เดินทางผ่านกาแล็กซีเพื่อค้นหาดาวเคราะห์ที่ยังไม่มีใครสำรวจสำหรับสร้างรีสอร์ตหรู
+
+#### 📝 Prompt
+
+```
+ยานสำรวจระหว่างดวงดาวเดินทางข้ามกาแล็กซีเพื่อค้นหาดาวเคราะห์ที่สวยงามและยังไม่มีใครเคยสำรวจ เพื่อพัฒนาให้เป็นรีสอร์ตที่หรูหราและพิเศษที่สุดเท่าที่จักรวาลเคยมีมา
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a75291ddc69daed9ec2ed6b894d4db8/thumbnails/thumbnail.jpg" width="600" alt="การสำรวจของยานสำรวจระหว่างดวงดาว">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5994)**
+
+**Author:** [Huff](https://x.com/Huff4Congress) | **Source:** [Link](https://x.com/Huff4Congress/status/2065420372585914709) | **Published:** Jun 12, 2026
+
+---
+### ฉากแอ็กชันสายลับสไตล์ Matrix
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวภาพยนตร์ที่นำเสนอฉากต่อสู้ศิลปะป้องกันตัวสุดมันส์ในโหมด bullet time ชวนให้นึกถึงภาพยนตร์เรื่อง The Matrix
+
+#### 📝 Prompt
+
+```
+Ricardo เข้าสู่โหมด Matrix แบบหยุดไม่อยู่ จัดการกับคน 100 คนด้วยศิลปะป้องกันตัวอันน่าทึ่งและการหลบหลีกแบบ bullet time จากนั้นเอาชนะ Dr. Evil ในการดวลตัวต่อตัวด้วยพลังเหนือมนุษย์ที่เกินขีดจำกัดของคนทั่วไป ในฉากไคลแมกซ์ของภาพยนตร์สายลับสุดระห่ำ
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/96b59018f5333b52e6676d676bc0f7ce/thumbnails/thumbnail.jpg" width="600" alt="ฉากแอ็กชันสายลับสไตล์ Matrix">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5995)**
+
+**Author:** [Ricardo Nunez](https://x.com/Ricardo19411988) | **Source:** [Link](https://x.com/Ricardo19411988/status/2065374254934139270) | **Published:** Jun 12, 2026
+
+---
+### แอนิเมชันพวงกุญแจหุ่นยนต์ AI รูปดังโงะที่สมจริง
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> วิดีโอพรอมต์สำหรับพวงกุญแจหุ่นยนต์ AI ที่ดูสมจริง สามารถพูดและขยับแขนขาได้ โดยอ้างอิงจากสไตล์ภาพถ่ายเฉพาะ
+
+#### 📝 Prompt
+
+```
+ช่วยทำให้มันพูดได้ โดยยังคงความสมจริงของภาพถ่าย 'ดังโงะบนดอกไม้' นี้เอาไว้ ทำให้เป็นพวงกุญแจหุ่นยนต์ AI และโปรดอย่าใช้วัสดุที่เป็นพลาสติก พร้อมทั้งทำให้แขนขาขยับได้
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fdd7b073a9edf2b5f61869eb584a7c90/thumbnails/thumbnail.jpg" width="600" alt="แอนิเมชันพวงกุญแจหุ่นยนต์ AI รูปดังโงะที่สมจริง">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5996)**
+
+**Author:** [中間未央](https://x.com/0555Mio) | **Source:** [Link](https://x.com/0555Mio/status/2065258358970696066) | **Published:** Jun 12, 2026
+
+---
+### กระจกผีสิงในคฤหาสน์ยุคกลาง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์สำหรับโถงทางเดินในคฤหาสน์ศตวรรษที่ 14 สุดหลอน ที่มีร่างวิญญาณปรากฏในกระจกบานหรูและชุดเกราะอัศวิน
+
+#### 📝 Prompt
+
+```
+กระจกบานหรูจากศตวรรษที่ 14 ตั้งอยู่ในโถงทางเดินคฤหาสน์ยุคกลางที่สลัว มีร่างวิญญาณโปร่งแสงจ้องมองกลับมาจากในกระจก แสงสว่างจากคบเพลิงบนผนัง และชุดเกราะยุคกลางที่ตั้งเรียงรายอยู่ตามผนังหิน
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2c544cad09ec0ecae9a460863473ef08/thumbnails/thumbnail.jpg" width="600" alt="กระจกผีสิงในคฤหาสน์ยุคกลาง">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5993)**
+
+**Author:** [Mars.Olympus.Mon](https://x.com/DivineFreedoms) | **Source:** [Link](https://x.com/DivineFreedoms/status/2065235512256819489) | **Published:** Jun 12, 2026
+
+---
 ### วิดีโอวนลูปมังกรหุ่นเชิดสไตล์โกธิคแบบไร้รอยต่อ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -377,7 +453,7 @@ Why use our gallery?
 สไตล์อนิเมะที่มีรายละเอียดสูง มุมมองแบบภาพยนตร์ แสงที่ดูดิบและดราม่า คอนทราสต์ที่โดดเด่นพร้อมสีสันที่อิ่มตัว ภาพสตรีทสไตล์แบบมุมต่ำที่เอียงเล็กน้อยในลานจอดรถ มองขึ้นไปยังสาวอนิเมะที่ถือหมวกกันน็อกมอเตอร์ไซค์สีม่วงไว้ในมือข้างหนึ่งและกำลังเดิน โดยมองจากด้านหลัง เธอสวมกางเกงแข่งรถสีขาวรัดรูป เสื้อยืดลายกราฟิกเข้ารูปที่เขียนว่า "AgenC" และรองเท้าบูทสีเหลือง โดยมีพื้นรองเท้าบูทข้างหนึ่งโดดเด่นอยู่ด้านหน้าด้วยรายละเอียดที่คมชัด มุมมองนี้เน้นย้ำถึงความสวยงามแบบดิบๆ ของเมืองด้วยการใช้เทคนิค foreshortening ที่ชัดเจน ด้านหน้าของเธอมีรถมอเตอร์ไซค์สตรีทไบค์สีม่วงจอดอยู่
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dda81ebec8a0bbd6c380325cf11eba84/thumbnails/thumbnail.jpg" width="600" alt="สาวอนิเมะในสไตล์สตรีทกับรถมอเตอร์ไซค์">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e8ae69bd74c24138b002ceea312124d/thumbnails/thumbnail.jpg" width="600" alt="สาวอนิเมะในสไตล์สตรีทกับรถมอเตอร์ไซค์">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5962)**
 
@@ -852,6 +928,29 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5841)**
 
 **Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2064060691057975428) | **Published:** Jun 8, 2026
+
+---
+### ภาพโคลสอัพเชิงภาพยนตร์ของอัศวินยุคกลางและราชินี
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอเชิงภาพยนตร์สำหรับ Grok Imagine ที่นำเสนออัศวินในชุดเกราะเต็มยศและราชินีในอ้อมกอดอันแสนสงบท่ามกลางหิมะที่กำลังโปรยปราย โดยใช้การเคลื่อนกล้องแบบซูมเข้าช้าๆ
+
+#### 📝 Prompt
+
+```
+ถ่ายทำแบบช็อตเดียวต่อเนื่อง สัดส่วนภาพแนวตั้ง 9:16 โคลสอัพเชิงภาพยนตร์ที่เน้นความใกล้ชิด
+
+อัศวินยุคกลางในชุดเกราะโลหะสีเข้มประดับประดาด้วยรายละเอียดสีทองอันวิจิตรบรรจงพร้อมโล่ขนาดใหญ่ยืนปกป้องอยู่เคียงข้างราชินีผมบลอนด์ผู้เลอโฉมในชุดราตรีสีขาวนวลตัดกับสีทองและสวมมงกุฎทองคำ เธอวางศีรษะลงบนไหล่ชุดเกราะของเขาอย่างแผ่วเบา หลับตาลงด้วยสีหน้าที่ดูสงบและใกล้ชิด ท่ามกลางหิมะที่กำลังโปรยปรายลงมาอย่างอ่อนโยน
+
+กล้องจับภาพโคลสอัพที่เน้นอารมณ์ความรู้สึกบริเวณหมวกเกราะของอัศวินและใบหน้าของราชินี โดยมีการเคลื่อนกล้องซูมเข้าอย่างช้าๆ และนุ่มนวล มีละอองหิมะโปรยปราย แสงไฟจากคบเพลิงที่อบอุ่นในฉากหลังที่เบลอพร้อมด้วยร่างของอัศวินคนอื่นๆ แสงเงาแบบภาพยนตร์ รายละเอียดสูงบนรอยสลักของชุดเกราะและพื้นผิวของเนื้อผ้า หิมะที่ดูสมจริง บรรยากาศที่เต็มไปด้วยอารมณ์และการปกป้อง ระยะชัดลึกแบบภาพยนตร์ โฟกัสที่คมชัดบนตัวละครหลักทั้งสองคน สุนทรียศาสตร์แบบดาร์กแฟนตาซียุคกลาง
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/85217f0a301b3d19561e76818dab2c38/thumbnails/thumbnail.jpg" width="600" alt="ภาพโคลสอัพเชิงภาพยนตร์ของอัศวินยุคกลางและราชินี">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5997)**
+
+**Author:** [Knight World](https://x.com/KnightWorld) | **Source:** [Link](https://x.com/KnightWorld/status/2064044373021483354) | **Published:** Jun 8, 2026
 
 ---
 ### ยานอวกาศลงจอดบนดาวเคราะห์ต่างดาว
@@ -2173,101 +2272,6 @@ Hermes ได้รับรองเท้าบินได้สุดเร�
 **Author:** [Belinda Smith](https://x.com/BelindaSmith88) | **Source:** [Link](https://x.com/BelindaSmith88/status/2061243658716799432) | **Published:** Jun 1, 2026
 
 ---
-### ฉากพระอาทิตย์ตกดินอันเงียบสงบบนชายหาด
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับวิดีโอที่ให้ความรู้สึกสงบ แสดงภาพคนยืนอยู่บนชายหาดในช่วงพระอาทิตย์ตกดิน กำลังมองออกไปที่มหาสมุทรด้วยความรู้สึกครุ่นคิด
-
-#### 📝 Prompt
-
-```
-คนยืนอยู่บนชายหาดในช่วงพระอาทิตย์ตกดิน หันหน้าออกสู่มหาสมุทรในฉากที่เงียบสงบและเต็มไปด้วยความครุ่นคิด
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/26cfe70a7731bc50f61328e362fb25fc/thumbnails/thumbnail.jpg" width="600" alt="ฉากพระอาทิตย์ตกดินอันเงียบสงบบนชายหาด">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5564)**
-
-**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2061197152009810428) | **Published:** May 31, 2026
-
----
-### กลุ่มดาวเทียม Dyson Swarm แบบแบ่งชั้นรัศมี
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่งแนวไซไฟที่ซับซ้อนซึ่งอธิบายถึง Dyson swarm ที่พัฒนามาจากเทคโนโลยีดาวเทียมที่ล้อมรอบดวงอาทิตย์
-
-#### 📝 Prompt
-
-```
-แนวคิดของเราคือ Dyson swarm แบบบางส่วนที่แบ่งเป็นชั้นตามแนวรัศมี ซึ่งพัฒนามาจากเทคโนโลยีของ Starlink
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cfc27c525c79ba7d03b757ffc0193932/thumbnails/thumbnail.jpg" width="600" alt="กลุ่มดาวเทียม Dyson Swarm แบบแบ่งชั้นรัศมี">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5562)**
-
-**Author:** [Christmas_the_Merry](https://x.com/Xmas_the_Merry) | **Source:** [Link](https://x.com/Xmas_the_Merry/status/2061161635998466397) | **Published:** May 31, 2026
-
----
-### เมื่อ Picasso วาดภาพในสไตล์ Van Gogh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สร้างสรรค์ผลงานศิลปะที่จินตนาการถึง Pablo Picasso กำลังวาดภาพบนผืนผ้าใบในสไตล์ของ Vincent van Gogh
-
-#### 📝 Prompt
-
-```
-จินตนาการว่าคุณคือ Pablo Picasso ที่กำลังวาดภาพเลียนแบบสไตล์ของ Vincent van Gogh โดยใช้เพียงสีและผืนผ้าใบเท่านั้น
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee8d00ea1b95a06f9cbc718d1d036bc3/thumbnails/thumbnail.jpg" width="600" alt="เมื่อ Picasso วาดภาพในสไตล์ Van Gogh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5561)**
-
-**Author:** [Manual Mystique](https://x.com/ManualMystique) | **Source:** [Link](https://x.com/ManualMystique/status/2061034648642162837) | **Published:** May 31, 2026
-
----
-### ชายหัวเราะอยู่ภายในโทรทัศน์วินเทจ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์ที่บรรยายรายละเอียดอย่างชัดเจนและดูบ้าคลั่ง โดยมีชายคนหนึ่งกำลังหัวเราะอย่างบ้าคลั่งอยู่ภายในหน้าจอโทรทัศน์วินเทจพร้อมการเคลื่อนไหวที่ตื่นตระหนก
-
-#### 📝 Prompt
-
-```
-ชายที่อยู่ภายในหน้าจอโทรทัศน์วินเทจกำลังหัวเราะอย่างบ้าคลั่งราวกับคนเสียสติ ด้วยสีหน้าเบิกตากว้างอย่างคลุ้มคลั่ง ศีรษะขยับไปมาอย่างไม่เป็นจังหวะ ปากอ้ากว้างหัวเราะอย่างควบคุมไม่ได้ สื่อถึงความวิกลจริตและความโกลาหลอย่างสมบูรณ์
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0415cbf28b43a9e801fc16d8ec0752bd/thumbnails/thumbnail.jpg" width="600" alt="ชายหัวเราะอยู่ภายในโทรทัศน์วินเทจ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5557)**
-
-**Author:** [Rodrigo Bressane](https://x.com/bressane) | **Source:** [Link](https://x.com/bressane/status/2061027054171128277) | **Published:** May 31, 2026
-
----
-### กลยุทธ์การอพยพของ Space Scout
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) สำหรับสร้างวิดีโอแบบบรรยาย โดยมีหัวหน้าลูกเสืออธิบายแผนการอพยพเมื่อเกิดไฟไหม้หรือพายุให้กับเหล่า Space Scout โดยใช้แผนที่ประกอบ
-
-#### 📝 Prompt
-
-```
-หัวหน้าลูกเสืออธิบายกลยุทธ์การอพยพให้กับเหล่า Space Scout... พร้อมแผนที่ที่ระบุจุดต่างๆ ในกรณีที่เกิดไฟไหม้หรือพายุ พื้นที่ภูเขาชายฝั่งหลายแห่งจำเป็นต้องมีแผนรับมือ
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/511d5338d73f4ea1836cfd528d2ee261/thumbnails/thumbnail.jpg" width="600" alt="กลยุทธ์การอพยพของ Space Scout">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5565)**
-
-**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2060993031311122675) | **Published:** May 31, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2329,6 +2333,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-13T04:36:45.521Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-13T10:48:05.996Z</sub>
 
 </div>

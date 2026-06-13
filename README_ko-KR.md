@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **1804** |
+| 📝 총 프롬프트 수 | **1809** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-06-13** |
 
@@ -189,6 +189,82 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 성간 정찰선의 은하계 탐사
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 럭셔리 리조트를 위한 미지의 행성을 찾아 은하계를 여행하는 우주선에 관한 시네마틱 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+성간 정찰선이 우주 역사상 가장 독점적이고 호화로운 리조트를 개발하기 위해 숨 막힐 듯 아름다운 미지의 행성을 찾아 은하계를 여행합니다.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a75291ddc69daed9ec2ed6b894d4db8/thumbnails/thumbnail.jpg" width="600" alt="성간 정찰선의 은하계 탐사">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5994)**
+
+**작성자:** [Huff](https://x.com/Huff4Congress) | **출처:** [Link](https://x.com/Huff4Congress/status/2065420372585914709) | **게시일:** Jun 12, 2026
+
+---
+### 매트릭스 스타일의 스파이 액션 시퀀스
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 영화 매트릭스를 연상시키는 불릿 타임(bullet time) 기법의 고강도 무술 액션이 포함된 시네마틱 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+리카르도가 멈출 수 없는 매트릭스 모드로 변신하여 놀라운 무술과 불릿 타임 회피 기술로 100명의 적을 상대합니다. 이후 폭발적인 스파이 액션의 절정에서 인간의 한계를 뛰어넘는 초인적인 힘으로 닥터 이블을 일대일로 제압합니다.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/96b59018f5333b52e6676d676bc0f7ce/thumbnails/thumbnail.jpg" width="600" alt="매트릭스 스타일의 스파이 액션 시퀀스">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5995)**
+
+**작성자:** [Ricardo Nunez](https://x.com/Ricardo19411988) | **출처:** [Link](https://x.com/Ricardo19411988/status/2065374254934139270) | **게시일:** Jun 12, 2026
+
+---
+### 실사풍 Dango AI 로봇 키링 애니메이션
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 특정 사진 스타일을 기반으로, 말하고 팔다리를 움직일 수 있는 실사풍 AI 로봇 키링을 위한 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+이 '꽃 위의 Dango' 사진의 실사 느낌을 유지하면서 말하게 해주세요. AI 로봇 키링으로 만들어 주세요. 플라스틱 소재는 사용하지 말아 주세요. 팔다리가 움직이게 만들어 주세요.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fdd7b073a9edf2b5f61869eb584a7c90/thumbnails/thumbnail.jpg" width="600" alt="실사풍 Dango AI 로봇 키링 애니메이션">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5996)**
+
+**작성자:** [中間未央](https://x.com/0555Mio) | **출처:** [Link](https://x.com/0555Mio/status/2065258358970696066) | **게시일:** Jun 12, 2026
+
+---
+### 중세 저택의 유령 거울
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 14세기 중세 저택의 복도를 배경으로, 화려한 거울 속 유령과 갑옷이 등장하는 으스스한 분위기의 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+어두컴컴한 중세 저택 복도에 놓인 14세기풍의 화려한 거울, 거울 속에서 밖을 내다보는 반투명한 유령의 형상, 벽에 걸린 횃불의 조명, 돌벽을 따라 늘어선 중세 갑옷들
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2c544cad09ec0ecae9a460863473ef08/thumbnails/thumbnail.jpg" width="600" alt="중세 저택의 유령 거울">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5993)**
+
+**작성자:** [Mars.Olympus.Mon](https://x.com/DivineFreedoms) | **출처:** [Link](https://x.com/DivineFreedoms/status/2065235512256819489) | **게시일:** Jun 12, 2026
+
+---
 ### 심리스 고딕 마리오네트 드래곤 루프
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -377,7 +453,7 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 초고해상도 애니메이션 스타일, 시네마틱 퍼스펙티브, 거칠고 드라마틱한 조명, 채도 높은 색감의 강렬한 대비. 주차장을 배경으로 한 로우 앵글의 기울어진 시네마틱 스트릿 스타일 샷으로, 보라색 오토바이 헬멧을 한 손에 들고 걸어가는 애니메이션 소녀를 뒤에서 올려다보는 모습입니다. 그녀는 타이트한 흰색 레이싱 팬츠와 "AgenC"라고 적힌 몸에 딱 맞는 그래픽 티셔츠, 노란색 부츠를 착용하고 있으며, 부츠 밑창 하나가 전경에 선명하고 디테일하게 강조됩니다. 강렬한 원근법이 거친 도시적 미학을 강조합니다. 그녀 앞에는 보라색 스트릿 바이크가 있습니다.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dda81ebec8a0bbd6c380325cf11eba84/thumbnails/thumbnail.jpg" width="600" alt="오토바이 스트릿 스타일의 애니메이션 소녀">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e8ae69bd74c24138b002ceea312124d/thumbnails/thumbnail.jpg" width="600" alt="오토바이 스트릿 스타일의 애니메이션 소녀">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5962)**
 
@@ -852,6 +928,29 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5841)**
 
 **작성자:** [Sas](https://x.com/SaSHeaven26) | **출처:** [Link](https://x.com/SaSHeaven26/status/2064060691057975428) | **게시일:** Jun 8, 2026
+
+---
+### 중세 기사와 왕비의 시네마틱 클로즈업
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine을 위한 시네마틱 비디오 프롬프트로, 눈이 내리는 가운데 평화롭게 포옹하고 있는 중갑 기사와 왕비를 슬로우 푸쉬인 카메라 무빙으로 담아냈습니다.
+
+#### 📝 프롬프트
+
+```
+단일 연속 샷, 9:16 세로 비율, 친밀한 시네마틱 클로즈업.
+
+정교한 금색 장식이 돋보이는 어두운 금속 갑옷을 입고 커다란 장식용 방패를 든 중세 기사가 든든하게 서 있습니다. 그 옆에는 우아한 오프 화이트와 골드 톤의 드레스를 입고 황금 왕관을 쓴 아름다운 금발의 왕비가 기사의 갑옷 위에 머리를 살며시 기대고 있으며, 눈을 감은 채 평화롭고 친밀한 표정을 짓고 있습니다. 주변에는 눈이 부드럽게 내리고 있습니다.
+
+카메라는 기사의 투구와 왕비의 얼굴을 감정적으로 밀착하여 클로즈업하며, 아주 미세하고 느린 푸쉬인 무빙을 보여줍니다. 부드럽게 내리는 눈 입자, 배경에는 다른 기사들의 모습과 함께 흐릿하게 보이는 따뜻한 횃불 조명이 있습니다. 분위기 있는 시네마틱 조명, 갑옷의 문양과 직물 질감의 높은 디테일, 사실적인 눈, 감성적이고 보호적인 분위기, 영화 같은 피사계 심도, 두 주인공에게 맞춰진 선명한 초점, 다크 판타지 중세 미학.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/85217f0a301b3d19561e76818dab2c38/thumbnails/thumbnail.jpg" width="600" alt="중세 기사와 왕비의 시네마틱 클로즈업">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5997)**
+
+**작성자:** [Knight World](https://x.com/KnightWorld) | **출처:** [Link](https://x.com/KnightWorld/status/2064044373021483354) | **게시일:** Jun 8, 2026
 
 ---
 ### 외계 행성에 착륙한 우주선
@@ -2173,101 +2272,6 @@ GIF가 은퇴합니다. 수많은 팬이 모여 있고 벽면에는 행복한 �
 **작성자:** [Belinda Smith](https://x.com/BelindaSmith88) | **출처:** [Link](https://x.com/BelindaSmith88/status/2061243658716799432) | **게시일:** Jun 1, 2026
 
 ---
-### 평온한 일몰 해변 풍경
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 일몰 무렵 해변에 서서 바다를 바라보며 사색에 잠긴 사람의 모습을 담은 평화로운 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-일몰 무렵 해변에 서서 바다를 바라보는 사람의 평온하고 사색적인 장면입니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/26cfe70a7731bc50f61328e362fb25fc/thumbnails/thumbnail.jpg" width="600" alt="평온한 일몰 해변 풍경">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5564)**
-
-**작성자:** [Marie](https://x.com/Marie8508319540) | **출처:** [Link](https://x.com/Marie8508319540/status/2061197152009810428) | **게시일:** May 31, 2026
-
----
-### 방사형 계층 구조의 다이슨 스웜
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 태양을 둘러싼 위성 기술에서 진화한 다이슨 스웜을 묘사하는 복합적인 SF 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-우리의 콘셉트는 Starlink 기술에서 진화한 방사형 계층 구조의 부분적 다이슨 스웜입니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cfc27c525c79ba7d03b757ffc0193932/thumbnails/thumbnail.jpg" width="600" alt="방사형 계층 구조의 다이슨 스웜">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5562)**
-
-**작성자:** [Christmas_the_Merry](https://x.com/Xmas_the_Merry) | **출처:** [Link](https://x.com/Xmas_the_Merry/status/2061161635998466397) | **게시일:** May 31, 2026
-
----
-### 빈센트 반 고흐를 모방하는 피카소
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 파블로 피카소가 빈센트 반 고흐의 화풍으로 캔버스에 그림을 그리는 모습을 상상한 창의적인 예술 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-당신이 파블로 피카소가 되어 빈센트 반 고흐의 화풍을 모방한다고 상상해 보세요. 오직 물감과 캔버스만을 사용하세요.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee8d00ea1b95a06f9cbc718d1d036bc3/thumbnails/thumbnail.jpg" width="600" alt="빈센트 반 고흐를 모방하는 피카소">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5561)**
-
-**작성자:** [Manual Mystique](https://x.com/ManualMystique) | **출처:** [Link](https://x.com/ManualMystique/status/2061034648642162837) | **게시일:** May 31, 2026
-
----
-### 빈티지 TV 속에서 웃고 있는 남자
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 빈티지 TV 화면 안에서 광기 어린 모습으로 격렬하게 웃고 있는 남자의 모습을 담은 매우 상세하고 강렬한 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-빈티지 TV 화면 속 남자가 미친 사람처럼 광기 어린 웃음을 터뜨립니다. 눈을 크게 뜨고 머리를 불규칙하게 흔들며, 통제할 수 없는 웃음으로 입을 벌린 채 완벽한 광기와 열광적인 분위기를 자아냅니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0415cbf28b43a9e801fc16d8ec0752bd/thumbnails/thumbnail.jpg" width="600" alt="빈티지 TV 속에서 웃고 있는 남자">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5557)**
-
-**작성자:** [Rodrigo Bressane](https://x.com/bressane) | **출처:** [Link](https://x.com/bressane/status/2061027054171128277) | **게시일:** May 31, 2026
-
----
-### Space Scout 탈출 전략
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 지도와 함께 화재 및 폭풍 발생 시 탈출 계획을 Space Scout 대원들에게 설명하는 스카우트 리더의 모습을 담은 영상용 상세 내러티브 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-스카우트 리더가 Space Scout 대원들에게 탈출 전략을 설명합니다... 화재나 폭풍 발생 시를 대비해 표시된 지도를 활용합니다. 많은 해안 산악 지역에는 이러한 계획이 필요합니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/511d5338d73f4ea1836cfd528d2ee261/thumbnails/thumbnail.jpg" width="600" alt="Space Scout 탈출 전략">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5565)**
-
-**작성자:** [Jean](https://x.com/SpaceScoutsIntl) | **출처:** [Link](https://x.com/SpaceScoutsIntl/status/2060993031311122675) | **게시일:** May 31, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2329,6 +2333,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-13T04:36:44.784Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-13T10:48:04.998Z</sub>
 
 </div>

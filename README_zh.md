@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **1804** |
+| 📝 提示词总数 | **1809** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-06-13** |
 
@@ -189,6 +189,82 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 星际侦察舰探索
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个关于宇宙飞船在银河系中穿梭，寻找未开发行星以建造豪华度假村的电影级视频提示词。
+
+#### 📝 提示词
+
+```
+一艘星际侦察舰在银河系中穿梭，寻找令人叹为观止的未开发行星，旨在将其开发成宇宙中前所未有的顶级奢华度假胜地。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a75291ddc69daed9ec2ed6b894d4db8/thumbnails/thumbnail.jpg" width="600" alt="星际侦察舰探索">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5994)**
+
+**作者:** [Huff](https://x.com/Huff4Congress) | **来源:** [Link](https://x.com/Huff4Congress/status/2065420372585914709) | **发布时间:** Jun 12, 2026
+
+---
+### 黑客帝国风格间谍动作场面
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段电影感十足的视频提示词，展现了类似《黑客帝国》中“子弹时间”的高强度武术格斗场景。
+
+#### 📝 提示词
+
+```
+Ricardo 进入了势不可挡的“黑客帝国”模式，凭借惊人的武术和“子弹时间”闪避技巧以一敌百，随后在爆炸性的间谍动作高潮中，以超越人类极限的超能力与 Dr. Evil 进行一对一决战。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/96b59018f5333b52e6676d676bc0f7ce/thumbnails/thumbnail.jpg" width="600" alt="黑客帝国风格间谍动作场面">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5995)**
+
+**作者:** [Ricardo Nunez](https://x.com/Ricardo19411988) | **来源:** [Link](https://x.com/Ricardo19411988/status/2065374254934139270) | **发布时间:** Jun 12, 2026
+
+---
+### 逼真的 Dango AI 机器人钥匙扣动画
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一个关于逼真 AI 机器人钥匙扣的视频提示词，基于特定的照片风格，要求其能够说话并移动肢体。
+
+#### 📝 提示词
+
+```
+请让它说话，并保持这张“花丛中的 Dango”照片的逼真质感。将其制作成一个 AI 机器人钥匙扣。请不要使用塑料材质。让它的肢体动起来。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fdd7b073a9edf2b5f61869eb584a7c90/thumbnails/thumbnail.jpg" width="600" alt="逼真的 Dango AI 机器人钥匙扣动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5996)**
+
+**作者:** [中間未央](https://x.com/0555Mio) | **来源:** [Link](https://x.com/0555Mio/status/2065258358970696066) | **发布时间:** Jun 12, 2026
+
+---
+### 中世纪宅邸的幽灵之镜
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段关于 14 世纪阴森宅邸走廊的视频提示词，画面包含镜中幽灵和中世纪盔甲。
+
+#### 📝 提示词
+
+```
+一面 14 世纪的华丽镜子矗立在灯光昏暗的中世纪宅邸走廊中，一个半透明的幽灵身影从镜中回望，墙上的火把照亮了四周，石墙边伫立着几套中世纪盔甲
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2c544cad09ec0ecae9a460863473ef08/thumbnails/thumbnail.jpg" width="600" alt="中世纪宅邸的幽灵之镜">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5993)**
+
+**作者:** [Mars.Olympus.Mon](https://x.com/DivineFreedoms) | **来源:** [Link](https://x.com/DivineFreedoms/status/2065235512256819489) | **发布时间:** Jun 12, 2026
+
+---
 ### 无缝哥特式提线木偶龙循环视频
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -377,7 +453,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 超高细节动漫风格，电影级视角，粗犷且富有戏剧性的光影，高对比度与饱和色彩。一个低角度倾斜的电影感街头风格镜头，拍摄停车场场景，仰拍一位背对镜头的动漫少女，她单手拿着一个紫色的摩托车头盔正在行走。她穿着紧身白色赛车裤、一件印有“AgenC”字样的修身印花 T 恤和黄色靴子，其中一只靴子的鞋底在前景中以锐利的细节呈现。视角强调了粗犷的城市美学，并运用了大胆的透视缩短效果。在她前方，停着一辆紫色街车。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dda81ebec8a0bbd6c380325cf11eba84/thumbnails/thumbnail.jpg" width="600" alt="动漫少女与摩托车街头风格">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e8ae69bd74c24138b002ceea312124d/thumbnails/thumbnail.jpg" width="600" alt="动漫少女与摩托车街头风格">
 
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5962)**
 
@@ -852,6 +928,29 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5841)**
 
 **作者:** [Sas](https://x.com/SaSHeaven26) | **来源:** [Link](https://x.com/SaSHeaven26/status/2064060691057975428) | **发布时间:** Jun 8, 2026
+
+---
+### 中世纪骑士与王后的电影感特写
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于 Grok Imagine 的电影感视频提示词，描绘了一位身穿重甲的骑士与一位王后在漫天飞雪中深情相拥的画面，并采用了缓慢推近的镜头运动。
+
+#### 📝 提示词
+
+```
+单镜头连续拍摄，9:16 竖屏比例，亲密的电影感特写。
+
+一位身穿华丽深色金属盔甲的中世纪骑士，盔甲上带有精细的金色装饰，手持一面巨大的装饰性盾牌，正处于保护姿态。在他身旁，一位美丽的金色长发王后身着优雅的米白色金边礼服，头戴金冠，将头轻轻靠在骑士的肩甲上，双眼微闭，表情宁静而亲密。雪花在他们周围轻轻飘落。
+
+镜头聚焦于骑士的头盔和王后的面部，进行紧凑且富有情感的特写，并伴有非常细微的缓慢推近运动。细碎的雪花飘落，背景中模糊的火光映照着其他身穿盔甲的身影。充满情绪的电影级布光，盔甲雕刻与织物纹理细节丰富，逼真的雪景，营造出深情且具有保护感的氛围，电影级景深，焦点清晰地锁定在两位主角身上，呈现出暗黑奇幻的中世纪美学。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/85217f0a301b3d19561e76818dab2c38/thumbnails/thumbnail.jpg" width="600" alt="中世纪骑士与王后的电影感特写">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5997)**
+
+**作者:** [Knight World](https://x.com/KnightWorld) | **来源:** [Link](https://x.com/KnightWorld/status/2064044373021483354) | **发布时间:** Jun 8, 2026
 
 ---
 ### 飞船降落在外星行星
@@ -2172,101 +2271,6 @@ Hermes 获得了一双超高速飞行鞋和一顶带翅膀的酷炫帽子，这�
 **作者:** [Belinda Smith](https://x.com/BelindaSmith88) | **来源:** [Link](https://x.com/BelindaSmith88/status/2061243658716799432) | **发布时间:** Jun 1, 2026
 
 ---
-### 宁静的日落海滩场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段平和的视频提示词，展示了一个人站在日落时分的海滩上，在沉思的瞬间眺望大海。
-
-#### 📝 提示词
-
-```
-一个人站在日落的海滩上，面对着大海，呈现出一幅宁静、沉思的画面。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/26cfe70a7731bc50f61328e362fb25fc/thumbnails/thumbnail.jpg" width="600" alt="宁静的日落海滩场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5564)**
-
-**作者:** [Marie](https://x.com/Marie8508319540) | **来源:** [Link](https://x.com/Marie8508319540/status/2061197152009810428) | **发布时间:** May 31, 2026
-
----
-### 径向分层戴森云
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个复杂的科幻提示词，描述了由环绕恒星的卫星技术演变而来的戴森云。
-
-#### 📝 提示词
-
-```
-我们的概念是一个由 Starlink 技术演变而来的径向分层局部戴森云。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cfc27c525c79ba7d03b757ffc0193932/thumbnails/thumbnail.jpg" width="600" alt="径向分层戴森云">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5562)**
-
-**作者:** [Christmas_the_Merry](https://x.com/Xmas_the_Merry) | **来源:** [Link](https://x.com/Xmas_the_Merry/status/2061161635998466397) | **发布时间:** May 31, 2026
-
----
-### 毕加索模仿梵高
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个充满创意的艺术提示词，设想巴勃罗·毕加索以文森特·梵高的风格在画布上进行创作。
-
-#### 📝 提示词
-
-```
-想象你就是巴勃罗·毕加索，正在模仿文森特·梵高的风格进行创作，仅使用颜料和画布
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee8d00ea1b95a06f9cbc718d1d036bc3/thumbnails/thumbnail.jpg" width="600" alt="毕加索模仿梵高">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5561)**
-
-**作者:** [Manual Mystique](https://x.com/ManualMystique) | **来源:** [Link](https://x.com/ManualMystique/status/2061034648642162837) | **发布时间:** May 31, 2026
-
----
-### 复古电视机里大笑的男人
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个极具描述性且充满狂躁感的视频提示词，画面中一名男子在复古电视机屏幕内疯狂大笑，动作极其狂乱。
-
-#### 📝 提示词
-
-```
-复古电视机屏幕里的男人像疯子一样歇斯底里地大笑，表情狂躁且双眼圆睁，头部动作杂乱无章，嘴巴大张，笑得无法自控，传达出一种彻底的疯狂与癫狂感。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0415cbf28b43a9e801fc16d8ec0752bd/thumbnails/thumbnail.jpg" width="600" alt="复古电视机里大笑的男人">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5557)**
-
-**作者:** [Rodrigo Bressane](https://x.com/bressane) | **来源:** [Link](https://x.com/bressane/status/2061027054171128277) | **发布时间:** May 31, 2026
-
----
-### Space Scout 撤离策略
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份详细的叙事提示词，用于生成一段视频：童子军领队向 Space Scouts 展示地图，讲解火灾和风暴情况下的撤离计划。
-
-#### 📝 提示词
-
-```
-童子军领队向 Space Scouts 讲解他们的撤离策略……在发生火灾或风暴时使用标记好的地图。许多沿海山区都需要制定此类计划
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/511d5338d73f4ea1836cfd528d2ee261/thumbnails/thumbnail.jpg" width="600" alt="Space Scout 撤离策略">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5565)**
-
-**作者:** [Jean](https://x.com/SpaceScoutsIntl) | **来源:** [Link](https://x.com/SpaceScoutsIntl/status/2060993031311122675) | **发布时间:** May 31, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2328,6 +2332,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-06-13T04:36:42.485Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-06-13T10:48:01.716Z</sub>
 
 </div>

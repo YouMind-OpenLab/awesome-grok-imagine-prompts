@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1804** |
+| 📝 Total Prompts | **1809** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-13** |
 
@@ -189,6 +189,82 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Erkundung mit dem interstellaren Scout-Schiff
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein filmischer Video-Prompt über ein Raumschiff, das durch die Galaxie reist, um unentdeckte Planeten für Luxusresorts zu finden.
+
+#### 📝 Prompt
+
+```
+Ein interstellares Scout-Schiff reist durch die Galaxie auf der Suche nach atemberaubenden, unentdeckten Planeten, um diese in die exklusivsten und luxuriösesten Resorts zu verwandeln, die das Universum je gesehen hat.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a75291ddc69daed9ec2ed6b894d4db8/thumbnails/thumbnail.jpg" width="600" alt="Erkundung mit dem interstellaren Scout-Schiff">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5994)**
+
+**Author:** [Huff](https://x.com/Huff4Congress) | **Source:** [Link](https://x.com/Huff4Congress/status/2065420372585914709) | **Published:** Jun 12, 2026
+
+---
+### Matrix-Stil Spionage-Actionsequenz
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein cineastischer Video-Prompt mit einem actiongeladenen Martial-Arts-Kampf in Bullet-Time, der an The Matrix erinnert.
+
+#### 📝 Prompt
+
+```
+Ricardo schaltet in den ultimativen Matrix-Modus, stellt sich 100 Männern mit unglaublichen Martial-Arts-Künsten und Bullet-Time-Ausweichmanövern und besiegt schließlich Dr. Evil im direkten Duell mit übermenschlicher Kraft, die jedes menschliche Limit sprengt – in einem explosiven Spionage-Action-Finale.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/96b59018f5333b52e6676d676bc0f7ce/thumbnails/thumbnail.jpg" width="600" alt="Matrix-Stil Spionage-Actionsequenz">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5995)**
+
+**Author:** [Ricardo Nunez](https://x.com/Ricardo19411988) | **Source:** [Link](https://x.com/Ricardo19411988/status/2065374254934139270) | **Published:** Jun 12, 2026
+
+---
+### Realistische Animation eines Dango-KI-Roboter-Schlüsselanhängers
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ein Video-Prompt für einen realistischen KI-Roboter-Schlüsselanhänger, der sprechen und seine Gliedmaßen bewegen kann, basierend auf einem spezifischen Fotostil.
+
+#### 📝 Prompt
+
+```
+Lass ihn bitte sprechen und bewahre dabei den realistischen Look dieses „Dango über Blumen“-Fotos. Gestalte ihn als KI-Roboter-Schlüsselanhänger. Bitte verwende kein Plastik. Lass die Gliedmaßen sich bewegen.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fdd7b073a9edf2b5f61869eb584a7c90/thumbnails/thumbnail.jpg" width="600" alt="Realistische Animation eines Dango-KI-Roboter-Schlüsselanhängers">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5996)**
+
+**Author:** [中間未央](https://x.com/0555Mio) | **Source:** [Link](https://x.com/0555Mio/status/2065258358970696066) | **Published:** Jun 12, 2026
+
+---
+### Geisterhafter Spiegel im mittelalterlichen Herrenhaus
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Prompt für einen gruseligen Flur eines Herrenhauses aus dem 14. Jahrhundert mit einer geisterhaften Gestalt in einem verzierten Spiegel und Ritterrüstungen.
+
+#### 📝 Prompt
+
+```
+Ein verzierter Spiegel aus dem 14. Jahrhundert in einem schwach beleuchteten Flur eines mittelalterlichen Herrenhauses, eine geisterhafte, durchscheinende Gestalt blickt aus dem Inneren des Spiegels zurück, beleuchtet von brennenden Fackeln an der Wand, mittelalterliche Rüstungen stehen entlang der Steinwände
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2c544cad09ec0ecae9a460863473ef08/thumbnails/thumbnail.jpg" width="600" alt="Geisterhafter Spiegel im mittelalterlichen Herrenhaus">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5993)**
+
+**Author:** [Mars.Olympus.Mon](https://x.com/DivineFreedoms) | **Source:** [Link](https://x.com/DivineFreedoms/status/2065235512256819489) | **Published:** Jun 12, 2026
+
+---
 ### Nahtlose Gothic-Marionetten-Drachen-Schleife
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -377,7 +453,7 @@ Behalte die Frau exakt wie auf dem Referenzfoto bei: ihr Gesicht, lockiges braun
 Hyper-detaillierter Anime-Stil, cineastische Perspektive, raue und dramatische Beleuchtung, starker Kontrast mit gesättigten Farben. Eine cineastische Street-Style-Aufnahme aus der Froschperspektive auf einem Parkplatz, mit Blick nach oben auf ein Anime-Mädchen, das einen violetten Motorradhelm in einer Hand hält und weggeht, von hinten gesehen. Sie trägt eine enge weiße Rennhose, ein figurbetontes Grafik-T-Shirt mit der Aufschrift „AgenC“ und gelbe Stiefel, wobei das Profil eines Stiefels den Vordergrund scharf und detailliert dominiert. Die Perspektive betont die raue, urbane Ästhetik mit starker Verkürzung. Vor ihr ein violettes Straßenmotorrad.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dda81ebec8a0bbd6c380325cf11eba84/thumbnails/thumbnail.jpg" width="600" alt="Anime-Mädchen im Street-Style mit Motorrad">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e8ae69bd74c24138b002ceea312124d/thumbnails/thumbnail.jpg" width="600" alt="Anime-Mädchen im Street-Style mit Motorrad">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5962)**
 
@@ -852,6 +928,29 @@ Die Frau aus der Referenz isst nun beiläufig mit den Händen oder einem Besteck
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5841)**
 
 **Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2064060691057975428) | **Published:** Jun 8, 2026
+
+---
+### Filmische Nahaufnahme eines mittelalterlichen Ritters und einer Königin
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein filmischer Video-Prompt für Grok Imagine, der einen schwer gepanzerten Ritter und eine Königin in einer friedlichen Umarmung inmitten von fallendem Schnee zeigt, unter Verwendung einer langsamen Kamerafahrt (Push-in).
+
+#### 📝 Prompt
+
+```
+Einzelne durchgehende Aufnahme, vertikales 9:16-Seitenverhältnis, intime filmische Nahaufnahme.
+
+Ein schwer gepanzerter mittelalterlicher Ritter in kunstvoller dunkler Metallrüstung mit filigranen Golddetails und einem großen verzierten Schild steht schützend da. Neben ihm ruht eine wunderschöne blonde Königin in einem eleganten cremeweißen und goldenen Kleid mit einer goldenen Krone sanft ihren Kopf auf seiner gepanzerten Schulter, die Augen geschlossen, mit einem friedlichen und intimen Ausdruck. Um sie herum fällt sanft Schnee.
+
+Die Kamera befindet sich in einer engen, emotionalen Nahaufnahme auf den Helm des Ritters und das Gesicht der Königin, mit einer sehr subtilen, langsamen Push-in-Bewegung. Sanfte Schneepartikel fallen, warmes Fackellicht im unscharfen Hintergrund mit anderen gepanzerten Figuren. Stimmungsvolle filmische Beleuchtung, hohe Detailgenauigkeit bei Rüstungsgravuren und Stofftexturen, realistischer Schnee, emotionale und beschützende Atmosphäre, filmische Tiefenschärfe, scharfer Fokus auf die beiden Hauptfiguren, Dark-Fantasy-Mittelalter-Ästhetik.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/85217f0a301b3d19561e76818dab2c38/thumbnails/thumbnail.jpg" width="600" alt="Filmische Nahaufnahme eines mittelalterlichen Ritters und einer Königin">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5997)**
+
+**Author:** [Knight World](https://x.com/KnightWorld) | **Source:** [Link](https://x.com/KnightWorld/status/2064044373021483354) | **Published:** Jun 8, 2026
 
 ---
 ### Raumschiff-Landung auf einem fremden Planeten
@@ -2172,101 +2271,6 @@ Ultrarealistische High-Fashion-Editorial-Szene einer beeindruckenden Frau in ein
 **Author:** [Belinda Smith](https://x.com/BelindaSmith88) | **Source:** [Link](https://x.com/BelindaSmith88/status/2061243658716799432) | **Published:** Jun 1, 2026
 
 ---
-### Ruhige Strandkulisse bei Sonnenuntergang
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein friedlicher Prompt für ein Video, das eine Person an einem Strand bei Sonnenuntergang zeigt, die in einem nachdenklichen Moment auf das Meer hinausblickt.
-
-#### 📝 Prompt
-
-```
-Eine Person steht bei Sonnenuntergang am Strand und blickt in einer ruhigen, nachdenklichen Szene auf das Meer hinaus.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/26cfe70a7731bc50f61328e362fb25fc/thumbnails/thumbnail.jpg" width="600" alt="Ruhige Strandkulisse bei Sonnenuntergang">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5564)**
-
-**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2061197152009810428) | **Published:** May 31, 2026
-
----
-### Radial geschichteter Dyson-Schwarm
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein komplexer Sci-Fi-Prompt, der einen aus Satellitentechnologie entwickelten Dyson-Schwarm um eine Sonne beschreibt.
-
-#### 📝 Prompt
-
-```
-Unser Konzept ist ein radial geschichteter, partieller Dyson-Schwarm, der aus der Starlink-Technologie hervorgegangen ist.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cfc27c525c79ba7d03b757ffc0193932/thumbnails/thumbnail.jpg" width="600" alt="Radial geschichteter Dyson-Schwarm">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5562)**
-
-**Author:** [Christmas_the_Merry](https://x.com/Xmas_the_Merry) | **Source:** [Link](https://x.com/Xmas_the_Merry/status/2061161635998466397) | **Published:** May 31, 2026
-
----
-### Picasso imitiert Van Gogh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein kreativer künstlerischer Prompt, der sich vorstellt, wie Pablo Picasso auf einer Leinwand im Stil von Vincent van Gogh malt.
-
-#### 📝 Prompt
-
-```
-Träume davon, dass du Pablo Picasso bist, der eine Imitation von Vincent van Gogh anfertigt, wobei du nur Farbe und Leinwand verwendest.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee8d00ea1b95a06f9cbc718d1d036bc3/thumbnails/thumbnail.jpg" width="600" alt="Picasso imitiert Van Gogh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5561)**
-
-**Author:** [Manual Mystique](https://x.com/ManualMystique) | **Source:** [Link](https://x.com/ManualMystique/status/2061034648642162837) | **Published:** May 31, 2026
-
----
-### Mann lacht in einem Vintage-Fernseher
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochgradig beschreibender und manischer Video-Prompt, der einen Mann zeigt, der hysterisch in einem Vintage-Fernsehbildschirm lacht und sich dabei hektisch bewegt.
-
-#### 📝 Prompt
-
-```
-Der Mann im Vintage-Fernsehbildschirm lacht hysterisch wie ein Wahnsinniger, mit manischem, weit aufgerissenem Blick, unkontrollierten Kopfbewegungen und offenem Mund, was völligen Wahnsinn und Raserei vermittelt.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0415cbf28b43a9e801fc16d8ec0752bd/thumbnails/thumbnail.jpg" width="600" alt="Mann lacht in einem Vintage-Fernseher">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5557)**
-
-**Author:** [Rodrigo Bressane](https://x.com/bressane) | **Source:** [Link](https://x.com/bressane/status/2061027054171128277) | **Published:** May 31, 2026
-
----
-### Space Scout Evakuierungsstrategie
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter narrativer Prompt für ein Video, in dem ein Scout-Leiter Weltraum-Scouts mithilfe von Karten die Fluchtpläne bei Feuer und Sturm erklärt.
-
-#### 📝 Prompt
-
-```
-Der Scout-Leiter erklärt den Weltraum-Scouts ihre Evakuierungsstrategie... anhand markierter Karten für den Fall eines Feuers oder Sturms. Viele Küstengebirgsregionen benötigen einen Plan.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/511d5338d73f4ea1836cfd528d2ee261/thumbnails/thumbnail.jpg" width="600" alt="Space Scout Evakuierungsstrategie">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5565)**
-
-**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2060993031311122675) | **Published:** May 31, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2328,6 +2332,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-13T04:36:49.101Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-13T10:48:10.988Z</sub>
 
 </div>

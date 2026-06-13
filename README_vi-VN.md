@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1804** |
+| 📝 Total Prompts | **1809** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-13** |
 
@@ -189,6 +189,82 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Khám phá tàu thăm dò liên sao
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video điện ảnh về con tàu vũ trụ du hành qua thiên hà để tìm kiếm các hành tinh chưa được khám phá nhằm xây dựng những khu nghỉ dưỡng sang trọng.
+
+#### 📝 Prompt
+
+```
+Một con tàu thăm dò liên sao du hành khắp thiên hà để tìm kiếm những hành tinh tuyệt đẹp chưa từng được khám phá, nhằm phát triển thành những khu nghỉ dưỡng sang trọng và độc quyền nhất mà vũ trụ từng chứng kiến.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a75291ddc69daed9ec2ed6b894d4db8/thumbnails/thumbnail.jpg" width="600" alt="Khám phá tàu thăm dò liên sao">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5994)**
+
+**Author:** [Huff](https://x.com/Huff4Congress) | **Source:** [Link](https://x.com/Huff4Congress/status/2065420372585914709) | **Published:** Jun 12, 2026
+
+---
+### Chuỗi hành động điệp viên phong cách Matrix
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt đậm chất điện ảnh với cảnh chiến đấu võ thuật kịch tính trong hiệu ứng bullet time, gợi nhớ đến bộ phim The Matrix.
+
+#### 📝 Prompt
+
+```
+Ricardo bước vào trạng thái Matrix không thể ngăn cản, một mình đối đầu với 100 người bằng kỹ năng võ thuật đỉnh cao và những pha né đòn bullet time, sau đó đánh bại Dr. Evil trong trận đấu tay đôi với sức mạnh siêu phàm vượt xa giới hạn con người trong một phân cảnh hành động điệp viên bùng nổ.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/96b59018f5333b52e6676d676bc0f7ce/thumbnails/thumbnail.jpg" width="600" alt="Chuỗi hành động điệp viên phong cách Matrix">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5995)**
+
+**Author:** [Ricardo Nunez](https://x.com/Ricardo19411988) | **Source:** [Link](https://x.com/Ricardo19411988/status/2065374254934139270) | **Published:** Jun 12, 2026
+
+---
+### Hoạt ảnh móc khóa robot AI Dango chân thực
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một câu lệnh video cho móc khóa robot AI chân thực có khả năng nói và cử động tay chân, dựa trên phong cách ảnh cụ thể.
+
+#### 📝 Prompt
+
+```
+Hãy làm cho nó biết nói, giữ nguyên cảm giác chân thực của bức ảnh 'Dango trên hoa' này. Hãy biến nó thành một chiếc móc khóa robot AI. Vui lòng không sử dụng chất liệu nhựa. Hãy làm cho các chi tiết tay chân có thể cử động.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fdd7b073a9edf2b5f61869eb584a7c90/thumbnails/thumbnail.jpg" width="600" alt="Hoạt ảnh móc khóa robot AI Dango chân thực">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5996)**
+
+**Author:** [中間未央](https://x.com/0555Mio) | **Source:** [Link](https://x.com/0555Mio/status/2065258358970696066) | **Published:** Jun 12, 2026
+
+---
+### Gương ma quái trong dinh thự thời Trung cổ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video về hành lang dinh thự thế kỷ 14 đầy ma mị, với hình bóng ma quái trong chiếc gương trang trí công phu và những bộ giáp sắt.
+
+#### 📝 Prompt
+
+```
+Một chiếc gương trang trí công phu từ thế kỷ 14 đặt trong hành lang dinh thự thời Trung cổ mờ ảo, một hình bóng ma quái trong suốt đang nhìn lại từ bên trong gương, được chiếu sáng bởi những ngọn đuốc trên tường, cùng những bộ giáp thời Trung cổ đứng dọc theo các bức tường đá
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2c544cad09ec0ecae9a460863473ef08/thumbnails/thumbnail.jpg" width="600" alt="Gương ma quái trong dinh thự thời Trung cổ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5993)**
+
+**Author:** [Mars.Olympus.Mon](https://x.com/DivineFreedoms) | **Source:** [Link](https://x.com/DivineFreedoms/status/2065235512256819489) | **Published:** Jun 12, 2026
+
+---
 ### Vòng lặp video Rồng rối Gothic liền mạch
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -377,7 +453,7 @@ Giữ nguyên hình ảnh người phụ nữ giống hệt trong ảnh tham chi
 Phong cách anime siêu chi tiết, góc nhìn điện ảnh, ánh sáng kịch tính và gai góc, độ tương phản mạnh với màu sắc bão hòa. Góc quay thấp nghiêng theo phong cách đường phố tại một bãi đỗ xe, nhìn từ phía sau lên một cô gái anime đang cầm mũ bảo hiểm mô tô màu tím trên tay và đang bước đi. Cô ấy mặc quần đua bó sát màu trắng, áo thun in hình ôm sát có chữ "AgenC" và đi ủng màu vàng, với phần đế của một chiếc ủng chiếm ưu thế ở tiền cảnh một cách sắc nét. Góc nhìn nhấn mạnh tính thẩm mỹ đô thị, gai góc với kỹ thuật phối cảnh rút ngắn táo bạo. Phía trước cô ấy là một chiếc xe mô tô đường phố màu tím.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dda81ebec8a0bbd6c380325cf11eba84/thumbnails/thumbnail.jpg" width="600" alt="Cô gái Anime với phong cách đường phố cùng xe mô tô">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e8ae69bd74c24138b002ceea312124d/thumbnails/thumbnail.jpg" width="600" alt="Cô gái Anime với phong cách đường phố cùng xe mô tô">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5962)**
 
@@ -852,6 +928,29 @@ Người phụ nữ từ hình ảnh tham chiếu hiện đang ăn một cách t
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5841)**
 
 **Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2064060691057975428) | **Published:** Jun 8, 2026
+
+---
+### Cận cảnh điện ảnh Hiệp sĩ thời Trung cổ và Nữ hoàng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video điện ảnh cho Grok Imagine, mô tả một hiệp sĩ mặc giáp trụ đầy đủ và một nữ hoàng đang ôm nhau bình yên giữa trời tuyết rơi, sử dụng chuyển động camera quay cận cảnh chậm.
+
+#### 📝 Prompt
+
+```
+cảnh quay liên tục, tỷ lệ khung hình dọc 9:16, cận cảnh điện ảnh đầy cảm xúc.
+
+Một hiệp sĩ thời Trung cổ mặc bộ giáp kim loại tối màu tinh xảo với các chi tiết vàng cầu kỳ cùng một chiếc khiên lớn trang trí đang đứng bảo vệ. Bên cạnh anh là một nữ hoàng tóc vàng xinh đẹp trong chiếc váy màu trắng ngà và vàng thanh lịch với vương miện vàng, đang nhẹ nhàng tựa đầu vào vai bộ giáp của anh, mắt nhắm nghiền, biểu cảm bình yên và thân mật. Tuyết đang rơi nhẹ xung quanh họ.
+
+Camera quay cận cảnh chặt chẽ, đầy cảm xúc vào mũ giáp của hiệp sĩ và khuôn mặt của nữ hoàng, với chuyển động quay cận cảnh chậm rất tinh tế. Những hạt tuyết mềm mại rơi xuống, ánh đuốc ấm áp ở hậu cảnh mờ ảo cùng các nhân vật mặc giáp khác. Ánh sáng điện ảnh đầy tâm trạng, độ chi tiết cao trên các hình khắc trên giáp và kết cấu vải, tuyết chân thực, bầu không khí đầy cảm xúc và sự bảo vệ, độ sâu trường ảnh kiểu phim, lấy nét sắc nét vào hai nhân vật chính, thẩm mỹ giả tưởng đen tối thời Trung cổ.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/85217f0a301b3d19561e76818dab2c38/thumbnails/thumbnail.jpg" width="600" alt="Cận cảnh điện ảnh Hiệp sĩ thời Trung cổ và Nữ hoàng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5997)**
+
+**Author:** [Knight World](https://x.com/KnightWorld) | **Source:** [Link](https://x.com/KnightWorld/status/2064044373021483354) | **Published:** Jun 8, 2026
 
 ---
 ### Tàu vũ trụ hạ cánh xuống hành tinh lạ
@@ -2173,101 +2272,6 @@ Cảnh quay biên tập thời trang cao cấp siêu thực với một người
 **Author:** [Belinda Smith](https://x.com/BelindaSmith88) | **Source:** [Link](https://x.com/BelindaSmith88/status/2061243658716799432) | **Published:** Jun 1, 2026
 
 ---
-### Khung cảnh bãi biển lúc hoàng hôn yên bình
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý (prompt) nhẹ nhàng cho video về một người đang đứng trên bãi biển lúc hoàng hôn, nhìn ra đại dương trong một khoảnh khắc đầy suy tư.
-
-#### 📝 Prompt
-
-```
-Một người đứng trên bãi biển lúc hoàng hôn, hướng mặt ra đại dương trong một khung cảnh yên bình và đầy suy tư.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/26cfe70a7731bc50f61328e362fb25fc/thumbnails/thumbnail.jpg" width="600" alt="Khung cảnh bãi biển lúc hoàng hôn yên bình">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5564)**
-
-**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2061197152009810428) | **Published:** May 31, 2026
-
----
-### Cấu trúc Dyson Swarm phân lớp hướng tâm
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh khoa học viễn tưởng phức tạp mô tả về Dyson swarm phát triển từ công nghệ vệ tinh bao quanh một ngôi sao.
-
-#### 📝 Prompt
-
-```
-Khái niệm của chúng tôi là một Dyson swarm bán phần phân lớp hướng tâm được phát triển từ công nghệ Starlink.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cfc27c525c79ba7d03b757ffc0193932/thumbnails/thumbnail.jpg" width="600" alt="Cấu trúc Dyson Swarm phân lớp hướng tâm">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5562)**
-
-**Author:** [Christmas_the_Merry](https://x.com/Xmas_the_Merry) | **Source:** [Link](https://x.com/Xmas_the_Merry/status/2061161635998466397) | **Published:** May 31, 2026
-
----
-### Picasso mô phỏng phong cách Van Gogh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh sáng tạo nghệ thuật, hình dung Pablo Picasso đang vẽ trên toan theo phong cách của Vincent van Gogh.
-
-#### 📝 Prompt
-
-```
-Hãy mơ rằng bạn là Pablo Picasso đang thực hiện tác phẩm mô phỏng Vincent van Gogh, chỉ sử dụng sơn và toan vẽ
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee8d00ea1b95a06f9cbc718d1d036bc3/thumbnails/thumbnail.jpg" width="600" alt="Picasso mô phỏng phong cách Van Gogh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5561)**
-
-**Author:** [Manual Mystique](https://x.com/ManualMystique) | **Source:** [Link](https://x.com/ManualMystique/status/2061034648642162837) | **Published:** May 31, 2026
-
----
-### Người đàn ông cười bên trong chiếc TV cổ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video đầy chi tiết và cuồng loạn, mô tả một người đàn ông đang cười như điên dại bên trong màn hình của một chiếc TV cổ với những cử động điên cuồng.
-
-#### 📝 Prompt
-
-```
-Người đàn ông bên trong màn hình TV cổ cười như điên dại, biểu cảm trợn mắt đầy cuồng loạn, đầu lắc lư thất thường, miệng mở rộng trong cơn cười không kiểm soát, truyền tải sự điên rồ và hỗn loạn tột độ.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0415cbf28b43a9e801fc16d8ec0752bd/thumbnails/thumbnail.jpg" width="600" alt="Người đàn ông cười bên trong chiếc TV cổ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5557)**
-
-**Author:** [Rodrigo Bressane](https://x.com/bressane) | **Source:** [Link](https://x.com/bressane/status/2061027054171128277) | **Published:** May 31, 2026
-
----
-### Chiến lược thoát hiểm Space Scout
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tường thuật chi tiết cho video về một trưởng nhóm hướng đạo sinh giải thích các kế hoạch thoát hiểm khi có hỏa hoạn và bão cho các Space Scout bằng bản đồ.
-
-#### 📝 Prompt
-
-```
-Trưởng nhóm hướng đạo sinh giải thích cho các Space Scout về chiến lược thoát hiểm của họ... sử dụng bản đồ được đánh dấu trong trường hợp hỏa hoạn hoặc bão. Nhiều khu vực miền núi ven biển cần có một kế hoạch cụ thể
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/511d5338d73f4ea1836cfd528d2ee261/thumbnails/thumbnail.jpg" width="600" alt="Chiến lược thoát hiểm Space Scout">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5565)**
-
-**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2060993031311122675) | **Published:** May 31, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2329,6 +2333,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-13T04:36:46.227Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-13T10:48:06.968Z</sub>
 
 </div>

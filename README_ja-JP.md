@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **1804** |
+| 📝 プロンプト総数 | **1809** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-06-13** |
 
@@ -189,6 +189,82 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### 恒星間偵察船の探査
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 銀河を旅し、高級リゾート地として未踏の惑星を探し求める宇宙船を描いたシネマティックな動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+ある恒星間偵察船が、宇宙で最も高級かつ贅沢なリゾートを開発するため、息をのむような未踏の惑星を求めて銀河を旅する。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a75291ddc69daed9ec2ed6b894d4db8/thumbnails/thumbnail.jpg" width="600" alt="恒星間偵察船の探査">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5994)**
+
+**作者:** [Huff](https://x.com/Huff4Congress) | **ソース:** [Link](https://x.com/Huff4Congress/status/2065420372585914709) | **公開日:** Jun 12, 2026
+
+---
+### マトリックス風のスパイアクションシーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 「マトリックス」を彷彿とさせる、バレットタイムを用いた高密度な格闘アクションのシネマティック動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+Ricardo がマトリックスさながらの無双モードに突入。驚異的な格闘術とバレットタイムによる回避で 100 人の敵をなぎ倒し、最後は人間離れした超人的な力で Dr. Evil を一対一で撃破する、爆発的なスパイアクションのクライマックス。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/96b59018f5333b52e6676d676bc0f7ce/thumbnails/thumbnail.jpg" width="600" alt="マトリックス風のスパイアクションシーン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5995)**
+
+**作者:** [Ricardo Nunez](https://x.com/Ricardo19411988) | **ソース:** [Link](https://x.com/Ricardo19411988/status/2065374254934139270) | **公開日:** Jun 12, 2026
+
+---
+### リアルな Dango AI ロボットキーホルダーのアニメーション
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 特定の写真スタイルに基づいた、会話や手足の動きが可能なリアルな AI ロボットキーホルダーの動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+この「花見団子」の写真のリアルな質感を維持したまま、話せるようにしてください。AI ロボットキーホルダーに仕上げてください。プラスチック素材は使用しないでください。手足が動くようにしてください。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fdd7b073a9edf2b5f61869eb584a7c90/thumbnails/thumbnail.jpg" width="600" alt="リアルな Dango AI ロボットキーホルダーのアニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5996)**
+
+**作者:** [中間未央](https://x.com/0555Mio) | **ソース:** [Link](https://x.com/0555Mio/status/2065258358970696066) | **公開日:** Jun 12, 2026
+
+---
+### 中世の館の幽霊鏡
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 14 世紀の不気味な館の廊下を舞台にしたビデオプロンプト。装飾が施された鏡に映る幽霊のような姿と、鎧が特徴です。
+
+#### 📝 プロンプト
+
+```
+14 世紀の装飾が施された鏡が薄暗い中世の館の廊下に立っている。鏡の中からは幽霊のような半透明の姿がこちらを見つめており、壁の松明がそれを照らしている。石壁に沿って中世の鎧が並んでいる。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2c544cad09ec0ecae9a460863473ef08/thumbnails/thumbnail.jpg" width="600" alt="中世の館の幽霊鏡">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5993)**
+
+**作者:** [Mars.Olympus.Mon](https://x.com/DivineFreedoms) | **ソース:** [Link](https://x.com/DivineFreedoms/status/2065235512256819489) | **公開日:** Jun 12, 2026
+
+---
 ### シームレスなゴシック・マリオネット・ドラゴンのループ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -377,7 +453,7 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 超高精細なアニメスタイル、シネマティックな視点、荒々しくドラマチックなライティング、鮮やかな色彩による大胆なコントラスト。駐車場でのローアングルかつ傾斜をつけたシネマティックなストリートスタイルのショット。紫色のバイク用ヘルメットを片手に歩くアニメ風の少女を、背後から見上げる構図。彼女はタイトな白いレーシングパンツ、"AgenC" と書かれた体にフィットするグラフィック T シャツ、そして黄色いブーツを着用しており、手前にはブーツの靴底がシャープなディテールで大きく写し出されている。大胆な遠近法が、荒々しい都会の美学を強調している。彼女の前方には、紫色のストリートバイク。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dda81ebec8a0bbd6c380325cf11eba84/thumbnails/thumbnail.jpg" width="600" alt="バイクとストリートスタイルを纏ったアニメ風の少女">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e8ae69bd74c24138b002ceea312124d/thumbnails/thumbnail.jpg" width="600" alt="バイクとストリートスタイルを纏ったアニメ風の少女">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5962)**
 
@@ -868,6 +944,29 @@ Daru が幼稚園に通い始めてからというもの、バスの時間に間
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5841)**
 
 **作者:** [Sas](https://x.com/SaSHeaven26) | **ソース:** [Link](https://x.com/SaSHeaven26/status/2064060691057975428) | **公開日:** Jun 8, 2026
+
+---
+### 中世の騎士と女王のシネマティックなクローズアップ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 用のシネマティックな動画プロンプト。雪が降る中、重厚な鎧をまとった騎士と女王が穏やかに抱き合う様子を、スローなプッシュインカメラで捉えます。
+
+#### 📝 プロンプト
+
+```
+シングル連続ショット、縦型 9:16 アスペクト比、親密なシネマティック・クローズアップ。
+
+精巧な金の装飾が施された暗い金属製の重厚な鎧をまとい、大きな装飾盾を携えた中世の騎士が、守るように立っている。その隣には、オフホワイトとゴールドのエレガントなドレスを纏い、黄金の冠をかぶった美しい金髪の女王が、目を閉じて騎士の鎧の肩に優しく頭を預けている。その表情は穏やかで親密。周囲には雪が静かに降り注いでいる。
+
+カメラは騎士の兜と女王の顔を捉えるタイトで感情的なクローズアップで、非常に繊細でスローなプッシュインの動きを見せる。柔らかな雪の粒子が舞い、背景のぼやけた空間には他の鎧姿の人物と温かい松明の光が灯る。ムードのあるシネマティックなライティング、鎧の彫刻や生地の質感まで高精細に描写。リアルな雪、感情的で守護的な雰囲気、映画のような被写界深度、主要な 2 人のキャラクターに合わせたシャープなフォーカス、ダークファンタジーの中世的な美学。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/85217f0a301b3d19561e76818dab2c38/thumbnails/thumbnail.jpg" width="600" alt="中世の騎士と女王のシネマティックなクローズアップ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5997)**
+
+**作者:** [Knight World](https://x.com/KnightWorld) | **ソース:** [Link](https://x.com/KnightWorld/status/2064044373021483354) | **公開日:** Jun 8, 2026
 
 ---
 ### 未知の惑星に着陸する宇宙船
@@ -2189,101 +2288,6 @@ GIF が引退することになりました。会場には大勢のファンが�
 **作者:** [Belinda Smith](https://x.com/BelindaSmith88) | **ソース:** [Link](https://x.com/BelindaSmith88/status/2061243658716799432) | **公開日:** Jun 1, 2026
 
 ---
-### 穏やかな夕暮れのビーチの風景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 夕暮れ時のビーチに立ち、海を眺めながら物思いにふける人物を描いた、平和な動画用プロンプトです。
-
-#### 📝 プロンプト
-
-```
-夕暮れ時のビーチに立ち、穏やかで思索的な雰囲気の中で海を見つめる人物。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/26cfe70a7731bc50f61328e362fb25fc/thumbnails/thumbnail.jpg" width="600" alt="穏やかな夕暮れのビーチの風景">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5564)**
-
-**作者:** [Marie](https://x.com/Marie8508319540) | **ソース:** [Link](https://x.com/Marie8508319540/status/2061197152009810428) | **公開日:** May 31, 2026
-
----
-### 放射状積層型ダイソン・スウォーム
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 恒星を囲む衛星技術から進化したダイソン・スウォームを描写する、複雑な SF プロンプト。
-
-#### 📝 プロンプト
-
-```
-私たちのコンセプトは、Starlink 技術から進化した放射状積層型の部分的ダイソン・スウォームです。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cfc27c525c79ba7d03b757ffc0193932/thumbnails/thumbnail.jpg" width="600" alt="放射状積層型ダイソン・スウォーム">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5562)**
-
-**作者:** [Christmas_the_Merry](https://x.com/Xmas_the_Merry) | **ソース:** [Link](https://x.com/Xmas_the_Merry/status/2061161635998466397) | **公開日:** May 31, 2026
-
----
-### ゴッホを模倣するピカソ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> フィンセント・ファン・ゴッホのスタイルでキャンバスに絵を描くパブロ・ピカソを想像した、クリエイティブなアートプロンプトです。
-
-#### 📝 プロンプト
-
-```
-パブロ・ピカソがフィンセント・ファン・ゴッホのスタイルを模倣して、絵の具とキャンバスだけで絵を描いている様子を夢見てください
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee8d00ea1b95a06f9cbc718d1d036bc3/thumbnails/thumbnail.jpg" width="600" alt="ゴッホを模倣するピカソ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5561)**
-
-**作者:** [Manual Mystique](https://x.com/ManualMystique) | **ソース:** [Link](https://x.com/ManualMystique/status/2061034648642162837) | **公開日:** May 31, 2026
-
----
-### ヴィンテージテレビの中で笑う男
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ヴィンテージテレビの画面の中で、狂気じみた動きでヒステリックに笑い続ける男を描いた、非常に詳細でマニアックな動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-ヴィンテージテレビの画面の中にいる男が、狂人のようにヒステリックに笑い続けている。見開いた目には狂気が宿り、頭を不規則に振り、口を大きく開けて制御不能な笑いを浮かべており、完全な正気の沙汰ではない狂乱の様子を表現している。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0415cbf28b43a9e801fc16d8ec0752bd/thumbnails/thumbnail.jpg" width="600" alt="ヴィンテージテレビの中で笑う男">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5557)**
-
-**作者:** [Rodrigo Bressane](https://x.com/bressane) | **ソース:** [Link](https://x.com/bressane/status/2061027054171128277) | **公開日:** May 31, 2026
-
----
-### Space Scout の避難戦略
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 地図を使用して Space Scout に火災や嵐の際の避難計画を説明するスカウトリーダーの動画のための、詳細なナラティブプロンプトです。
-
-#### 📝 プロンプト
-
-```
-スカウトリーダーが Space Scout たちに避難戦略を説明する……火災や嵐が発生した場合のマーキングされた地図を使用。多くの沿岸山岳地域では計画が必要である
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/511d5338d73f4ea1836cfd528d2ee261/thumbnails/thumbnail.jpg" width="600" alt="Space Scout の避難戦略">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5565)**
-
-**作者:** [Jean](https://x.com/SpaceScoutsIntl) | **ソース:** [Link](https://x.com/SpaceScoutsIntl/status/2060993031311122675) | **公開日:** May 31, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2345,6 +2349,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-13T04:36:44.012Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-13T10:48:03.891Z</sub>
 
 </div>

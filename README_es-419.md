@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1804** |
+| 📝 Total Prompts | **1809** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-13** |
 
@@ -189,6 +189,82 @@ Una valquiria celestial mística y noble, una mujer digna y hermosa con largo ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Exploración de nave exploradora interestelar
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video cinematográfico sobre una nave espacial que viaja a través de la galaxia en busca de planetas inexplorados para complejos turísticos de lujo.
+
+#### 📝 Prompt
+
+```
+Una nave exploradora interestelar viaja por la galaxia en busca de impresionantes planetas inexplorados para convertirlos en los complejos turísticos más exclusivos y lujosos que el universo haya visto jamás.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a75291ddc69daed9ec2ed6b894d4db8/thumbnails/thumbnail.jpg" width="600" alt="Exploración de nave exploradora interestelar">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5994)**
+
+**Author:** [Huff](https://x.com/Huff4Congress) | **Source:** [Link](https://x.com/Huff4Congress/status/2065420372585914709) | **Published:** Jun 12, 2026
+
+---
+### Secuencia de acción de espionaje al estilo Matrix
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video cinematográfico que presenta una pelea de artes marciales de alta intensidad en tiempo bala, que recuerda a The Matrix.
+
+#### 📝 Prompt
+
+```
+Ricardo entra en modo Matrix imparable, enfrentándose a 100 hombres con increíbles artes marciales y esquivas en tiempo bala, para luego derrotar al Dr. Evil en un duelo uno a uno con un poder sobrehumano que supera cualquier límite humano en un explosivo clímax de acción de espionaje.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/96b59018f5333b52e6676d676bc0f7ce/thumbnails/thumbnail.jpg" width="600" alt="Secuencia de acción de espionaje al estilo Matrix">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5995)**
+
+**Author:** [Ricardo Nunez](https://x.com/Ricardo19411988) | **Source:** [Link](https://x.com/Ricardo19411988/status/2065374254934139270) | **Published:** Jun 12, 2026
+
+---
+### Animación realista de llavero robot AI Dango
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt de video para un llavero robot AI realista que puede hablar y mover sus extremidades, basado en un estilo fotográfico específico.
+
+#### 📝 Prompt
+
+```
+Haz que hable, manteniendo el estilo realista de esta foto de 'Dango sobre flores'. Conviértelo en un llavero robot AI. Por favor, no uses plástico. Haz que mueva sus extremidades.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fdd7b073a9edf2b5f61869eb584a7c90/thumbnails/thumbnail.jpg" width="600" alt="Animación realista de llavero robot AI Dango">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5996)**
+
+**Author:** [中間未央](https://x.com/0555Mio) | **Source:** [Link](https://x.com/0555Mio/status/2065258358970696066) | **Published:** Jun 12, 2026
+
+---
+### Espejo fantasmal en mansión medieval
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video para un pasillo de mansión del siglo XIV con temática de terror, que presenta una figura fantasmal en un espejo ornamentado y armaduras.
+
+#### 📝 Prompt
+
+```
+Un espejo ornamentado del siglo XIV en el pasillo de una mansión medieval con poca luz, una figura fantasmal y translúcida mirando desde el interior del espejo, iluminado por antorchas en las paredes, armaduras medievales de pie a lo largo de los muros de piedra
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2c544cad09ec0ecae9a460863473ef08/thumbnails/thumbnail.jpg" width="600" alt="Espejo fantasmal en mansión medieval">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5993)**
+
+**Author:** [Mars.Olympus.Mon](https://x.com/DivineFreedoms) | **Source:** [Link](https://x.com/DivineFreedoms/status/2065235512256819489) | **Published:** Jun 12, 2026
+
+---
 ### Bucle continuo de dragón marioneta gótico
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -377,7 +453,7 @@ Mantén a la mujer exactamente igual que en la foto de referencia: su rostro, ca
 Estilo anime hiperdetallado, perspectiva cinematográfica, iluminación dramática y descarnada, contraste audaz con colores saturados. Una toma cinematográfica de estilo urbano en ángulo contrapicado de un estacionamiento, mirando hacia arriba a una chica anime que sostiene un casco de motocicleta morado en una mano mientras camina, vista desde atrás. Viste pantalones de carreras blancos ajustados, una camiseta gráfica entallada que dice "AgenC" y botas amarillas, con la suela de una bota dominando el primer plano con gran detalle. La perspectiva enfatiza la estética urbana y descarnada con un escorzo audaz. Frente a ella, una motocicleta urbana morada.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dda81ebec8a0bbd6c380325cf11eba84/thumbnails/thumbnail.jpg" width="600" alt="Chica anime con estilo urbano y motocicleta">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e8ae69bd74c24138b002ceea312124d/thumbnails/thumbnail.jpg" width="600" alt="Chica anime con estilo urbano y motocicleta">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5962)**
 
@@ -852,6 +928,29 @@ La mujer de la imagen de referencia ahora está comiendo de manera casual con la
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5841)**
 
 **Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2064060691057975428) | **Published:** Jun 8, 2026
+
+---
+### Primer plano cinematográfico de caballero medieval y reina
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video cinematográfico para Grok Imagine que presenta a un caballero con armadura pesada y una reina en un abrazo pacífico en medio de una nevada, utilizando un movimiento de cámara de acercamiento lento.
+
+#### 📝 Prompt
+
+```
+toma continua única, relación de aspecto vertical 9:16, primer plano cinematográfico íntimo.
+
+Un caballero medieval con armadura pesada de metal oscuro ornamentada, con detalles dorados intrincados y un gran escudo decorativo, se mantiene en posición protectora. A su lado, una hermosa reina rubia con un elegante vestido blanco hueso y dorado con una corona de oro apoya suavemente su cabeza en el hombro blindado de él, con los ojos cerrados y una expresión pacífica e íntima. La nieve cae suavemente a su alrededor.
+
+La cámara se encuentra en un primer plano cerrado y emotivo del casco del caballero y el rostro de la reina, con un movimiento de acercamiento lento muy sutil. Partículas de nieve suave cayendo, luz cálida de antorchas en el fondo desenfocado con otras figuras blindadas. Iluminación cinematográfica atmosférica, gran detalle en los grabados de la armadura y las texturas de la tela, nieve realista, atmósfera emotiva y protectora, profundidad de campo fílmica, enfoque nítido en los dos personajes principales, estética de fantasía medieval oscura.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/85217f0a301b3d19561e76818dab2c38/thumbnails/thumbnail.jpg" width="600" alt="Primer plano cinematográfico de caballero medieval y reina">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5997)**
+
+**Author:** [Knight World](https://x.com/KnightWorld) | **Source:** [Link](https://x.com/KnightWorld/status/2064044373021483354) | **Published:** Jun 8, 2026
 
 ---
 ### Aterrizaje de nave espacial en un planeta alienígena
@@ -2172,101 +2271,6 @@ Escena editorial de alta costura ultrarrealista de una mujer impactante vistiend
 **Author:** [Belinda Smith](https://x.com/BelindaSmith88) | **Source:** [Link](https://x.com/BelindaSmith88/status/2061243658716799432) | **Published:** Jun 1, 2026
 
 ---
-### Escena serena de playa al atardecer
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt tranquilo para un video que muestra a una persona de pie en una playa al atardecer, contemplando el océano en un momento de reflexión.
-
-#### 📝 Prompt
-
-```
-Una persona está de pie en una playa al atardecer, mirando hacia el océano en una escena serena y contemplativa.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/26cfe70a7731bc50f61328e362fb25fc/thumbnails/thumbnail.jpg" width="600" alt="Escena serena de playa al atardecer">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5564)**
-
-**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2061197152009810428) | **Published:** May 31, 2026
-
----
-### Enjambre de Dyson de capas radiales
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un complejo prompt de ciencia ficción que describe un enjambre de Dyson evolucionado a partir de tecnología satelital que rodea un sol.
-
-#### 📝 Prompt
-
-```
-Nuestro concepto es un enjambre de Dyson parcial de capas radiales evolucionado a partir de la tecnología de Starlink.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cfc27c525c79ba7d03b757ffc0193932/thumbnails/thumbnail.jpg" width="600" alt="Enjambre de Dyson de capas radiales">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5562)**
-
-**Author:** [Christmas_the_Merry](https://x.com/Xmas_the_Merry) | **Source:** [Link](https://x.com/Xmas_the_Merry/status/2061161635998466397) | **Published:** May 31, 2026
-
----
-### Picasso imitando a Van Gogh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt artístico creativo que imagina a Pablo Picasso pintando sobre un lienzo al estilo de Vincent van Gogh.
-
-#### 📝 Prompt
-
-```
-Sueña que eres Pablo Picasso haciendo su imitación de Vincent van Gogh usando solo pintura y lienzo
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee8d00ea1b95a06f9cbc718d1d036bc3/thumbnails/thumbnail.jpg" width="600" alt="Picasso imitando a Van Gogh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5561)**
-
-**Author:** [Manual Mystique](https://x.com/ManualMystique) | **Source:** [Link](https://x.com/ManualMystique/status/2061034648642162837) | **Published:** May 31, 2026
-
----
-### Hombre riendo dentro de un televisor antiguo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video altamente descriptivo y maníaco que muestra a un hombre riendo histéricamente dentro de la pantalla de un televisor antiguo con movimientos frenéticos.
-
-#### 📝 Prompt
-
-```
-El hombre dentro de la pantalla del televisor antiguo ríe histéricamente como un loco, con una expresión maníaca de ojos muy abiertos, la cabeza moviéndose erráticamente y la boca abierta en una risa incontrolable, transmitiendo una locura y un frenesí totales.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0415cbf28b43a9e801fc16d8ec0752bd/thumbnails/thumbnail.jpg" width="600" alt="Hombre riendo dentro de un televisor antiguo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5557)**
-
-**Author:** [Rodrigo Bressane](https://x.com/bressane) | **Source:** [Link](https://x.com/bressane/status/2061027054171128277) | **Published:** May 31, 2026
-
----
-### Estrategia de evacuación de Space Scout
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt narrativo detallado para un video de un líder scout explicando los planes de evacuación en caso de incendio o tormenta a los space scouts utilizando mapas.
-
-#### 📝 Prompt
-
-```
-El líder scout explica a los Space Scouts su estrategia de evacuación... mapas marcados en caso de incendio o tormenta. Muchas áreas montañosas costeras necesitan un plan
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/511d5338d73f4ea1836cfd528d2ee261/thumbnails/thumbnail.jpg" width="600" alt="Estrategia de evacuación de Space Scout">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5565)**
-
-**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2060993031311122675) | **Published:** May 31, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2328,6 +2332,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-13T04:36:48.402Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-13T10:48:10.070Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **1804** |
+| 📝 提示詞總數 | **1809** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-06-13** |
 
@@ -189,6 +189,82 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 星際偵察艦探索
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段關於太空船在銀河系中穿梭，為豪華度假村尋找未開發行星的電影級影片提示詞。
+
+#### 📝 提示詞
+
+```
+一艘星際偵察艦在銀河系中穿梭，尋找令人嘆為觀止的未開發行星，旨在將其開發成宇宙中前所未有的頂級奢華度假勝地。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a75291ddc69daed9ec2ed6b894d4db8/thumbnails/thumbnail.jpg" width="600" alt="星際偵察艦探索">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5994)**
+
+**作者:** [Huff](https://x.com/Huff4Congress) | **來源:** [Link](https://x.com/Huff4Congress/status/2065420372585914709) | **發布時間:** Jun 12, 2026
+
+---
+### 駭客任務風格間諜動作場景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段電影級的影片提示詞，呈現出充滿張力的武術格鬥與子彈時間效果，讓人聯想到《駭客任務》。 
+
+#### 📝 提示詞
+
+```
+Ricardo 進入了無人能擋的「駭客任務」模式，以驚人的武術與子彈時間閃避技巧對抗 100 名敵人，隨後在爆炸性的間諜動作高潮中，以超越人類極限的超能力一對一擊敗了邪惡博士 (Dr. Evil)。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/96b59018f5333b52e6676d676bc0f7ce/thumbnails/thumbnail.jpg" width="600" alt="駭客任務風格間諜動作場景">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5995)**
+
+**作者:** [Ricardo Nunez](https://x.com/Ricardo19411988) | **來源:** [Link](https://x.com/Ricardo19411988/status/2065374254934139270) | **發布時間:** Jun 12, 2026
+
+---
+### 逼真的 Dango AI 機器人鑰匙圈動畫
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 這是一個關於逼真 AI 機器人鑰匙圈的影片提示詞，該機器人能說話並活動肢體，並基於特定的照片風格進行創作。
+
+#### 📝 提示詞
+
+```
+請讓它開口說話，並保留這張「花朵上的 Dango」照片的逼真質感。請將其製作成一個 AI 機器人鑰匙圈。請不要使用塑膠材質。讓它的肢體可以活動。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fdd7b073a9edf2b5f61869eb584a7c90/thumbnails/thumbnail.jpg" width="600" alt="逼真的 Dango AI 機器人鑰匙圈動畫">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5996)**
+
+**作者:** [中間未央](https://x.com/0555Mio) | **來源:** [Link](https://x.com/0555Mio/status/2065258358970696066) | **發布時間:** Jun 12, 2026
+
+---
+### 中世紀宅邸的幽靈鏡
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段關於 14 世紀陰森宅邸走廊的影片提示詞，特色為華麗鏡子中的幽靈身影與盔甲。
+
+#### 📝 提示詞
+
+```
+一面 14 世紀的華麗鏡子矗立在光線昏暗的中世紀宅邸走廊中，鏡中映照出一個半透明的幽靈身影，場景由牆上的火把照亮，石牆旁佇立著幾套中世紀盔甲
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2c544cad09ec0ecae9a460863473ef08/thumbnails/thumbnail.jpg" width="600" alt="中世紀宅邸的幽靈鏡">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5993)**
+
+**作者:** [Mars.Olympus.Mon](https://x.com/DivineFreedoms) | **來源:** [Link](https://x.com/DivineFreedoms/status/2065235512256819489) | **發布時間:** Jun 12, 2026
+
+---
 ### 無縫哥德式懸絲傀儡龍循環
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -377,7 +453,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 超細緻動漫風格，電影級視角，粗獷且戲劇性的光影，大膽的對比度與飽和色彩。低角度傾斜的電影級街頭風格鏡頭，拍攝一個停車場，仰視一名背對鏡頭行走的動漫少女，她一手拿著紫色機車安全帽。她穿著緊身白色賽車褲、印有「AgenC」字樣的合身圖案 T 恤以及黃色靴子，其中一隻靴子的鞋底在前景中清晰可見，細節豐富。視角強調了粗獷的城市美學與大膽的透視縮短效果。在她前方有一輛紫色街車。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dda81ebec8a0bbd6c380325cf11eba84/thumbnails/thumbnail.jpg" width="600" alt="動漫少女與機車街頭風格">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e8ae69bd74c24138b002ceea312124d/thumbnails/thumbnail.jpg" width="600" alt="動漫少女與機車街頭風格">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5962)**
 
@@ -852,6 +928,29 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5841)**
 
 **作者:** [Sas](https://x.com/SaSHeaven26) | **來源:** [Link](https://x.com/SaSHeaven26/status/2064060691057975428) | **發布時間:** Jun 8, 2026
+
+---
+### 中世紀騎士與女王電影感特寫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個為 Grok Imagine 設計的電影感影片提示詞，描繪了一位身穿重甲的騎士與一位女王在紛飛大雪中溫馨擁抱的場景，並運用了緩慢推進的鏡頭運鏡。
+
+#### 📝 提示詞
+
+```
+單一連續鏡頭，垂直 9:16 比例，親密的電影感特寫。
+
+一位身穿華麗深色金屬盔甲、帶有精緻金色細節與大型裝飾盾牌的中世紀重甲騎士，正守護著身旁的人。在他身旁，一位美麗的金髮女王身著優雅的米白色與金色禮服，頭戴金冠，將頭輕輕靠在騎士的盔甲肩上，雙眼微閉，表情平靜而親密。大雪在他們周圍緩緩飄落。
+
+鏡頭以緊湊、充滿情感的特寫聚焦於騎士的頭盔與女王的臉龐，並伴隨極其細微的緩慢推進運鏡。柔和的雪花飄落，背景模糊處可見溫暖的火光與其他盔甲人物。情緒化的電影光影，盔甲雕刻與布料紋理細節豐富，真實的雪景，充滿情感與保護氛圍，電影級景深，焦點清晰地鎖定在兩位主角身上，呈現黑暗奇幻的中世紀美學。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/85217f0a301b3d19561e76818dab2c38/thumbnails/thumbnail.jpg" width="600" alt="中世紀騎士與女王電影感特寫">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5997)**
+
+**作者:** [Knight World](https://x.com/KnightWorld) | **來源:** [Link](https://x.com/KnightWorld/status/2064044373021483354) | **發布時間:** Jun 8, 2026
 
 ---
 ### 太空船登陸外星球
@@ -2173,101 +2272,6 @@ Hermes 獲得了一雙超高速飛天鞋和一頂酷炫的翅膀帽，讓他飛�
 **作者:** [Belinda Smith](https://x.com/BelindaSmith88) | **來源:** [Link](https://x.com/BelindaSmith88/status/2061243658716799432) | **發布時間:** Jun 1, 2026
 
 ---
-### 寧靜的日落海灘場景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個平靜的提示詞，用於生成一段影片：描繪一個人站在日落時分的海灘上，望向海洋，沉浸在沉思的時刻。
-
-#### 📝 提示詞
-
-```
-一個人站在日落時分的海灘上，面向海洋，呈現出寧靜且沉思的場景。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/26cfe70a7731bc50f61328e362fb25fc/thumbnails/thumbnail.jpg" width="600" alt="寧靜的日落海灘場景">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5564)**
-
-**作者:** [Marie](https://x.com/Marie8508319540) | **來源:** [Link](https://x.com/Marie8508319540/status/2061197152009810428) | **發布時間:** May 31, 2026
-
----
-### 徑向分層戴森雲
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個複雜的科幻提示詞，描述了從圍繞恆星的衛星技術演變而來的戴森雲。
-
-#### 📝 提示詞
-
-```
-我們的概念是一個從 Starlink 技術演變而來的徑向分層部分戴森雲。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cfc27c525c79ba7d03b757ffc0193932/thumbnails/thumbnail.jpg" width="600" alt="徑向分層戴森雲">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5562)**
-
-**作者:** [Christmas_the_Merry](https://x.com/Xmas_the_Merry) | **來源:** [Link](https://x.com/Xmas_the_Merry/status/2061161635998466397) | **發布時間:** May 31, 2026
-
----
-### 畢卡索模仿梵谷
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個極具創意的藝術提示詞，想像 Pablo Picasso 以 Vincent van Gogh 的風格在畫布上創作。
-
-#### 📝 提示詞
-
-```
-夢想你是 Pablo Picasso，正在模仿 Vincent van Gogh 的風格，僅使用顏料和畫布進行創作
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee8d00ea1b95a06f9cbc718d1d036bc3/thumbnails/thumbnail.jpg" width="600" alt="畢卡索模仿梵谷">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5561)**
-
-**作者:** [Manual Mystique](https://x.com/ManualMystique) | **來源:** [Link](https://x.com/ManualMystique/status/2061034648642162837) | **發布時間:** May 31, 2026
-
----
-### 在復古電視機內大笑的男子
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個描述性極強且帶有狂躁感的影片提示詞，畫面呈現一名男子在復古電視螢幕中瘋狂大笑，動作顯得極度焦躁不安。
-
-#### 📝 提示詞
-
-```
-復古電視螢幕中的男子像瘋子一樣歇斯底里地大笑，表情狂躁且雙眼瞪大，頭部不規則地晃動，嘴巴張開無法控制地大笑，傳達出徹底的瘋狂與混亂感。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0415cbf28b43a9e801fc16d8ec0752bd/thumbnails/thumbnail.jpg" width="600" alt="在復古電視機內大笑的男子">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5557)**
-
-**作者:** [Rodrigo Bressane](https://x.com/bressane) | **來源:** [Link](https://x.com/bressane/status/2061027054171128277) | **發布時間:** May 31, 2026
-
----
-### Space Scout 撤離策略
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一份詳細的影片敘事提示詞，內容為童軍領袖向 Space Scouts 解說在火災或風暴發生時，如何利用地圖進行撤離規劃。
-
-#### 📝 提示詞
-
-```
-Scout Leader 向 Space Scouts 解說他們的撤離策略……在發生火災或風暴時使用標記地圖。許多沿海山區都需要制定相關計畫。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/511d5338d73f4ea1836cfd528d2ee261/thumbnails/thumbnail.jpg" width="600" alt="Space Scout 撤離策略">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5565)**
-
-**作者:** [Jean](https://x.com/SpaceScoutsIntl) | **來源:** [Link](https://x.com/SpaceScoutsIntl/status/2060993031311122675) | **發布時間:** May 31, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2329,6 +2333,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-06-13T04:36:43.294Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-06-13T10:48:02.829Z</sub>
 
 </div>

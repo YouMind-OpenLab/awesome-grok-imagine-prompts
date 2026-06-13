@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1804** |
+| 📝 Total Prompts | **1809** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-13** |
 
@@ -189,6 +189,82 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### इंटरस्टेलर स्काउट शिप एक्सप्लोरेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सिनेमाई वीडियो प्रॉम्प्ट, जिसमें एक अंतरिक्ष यान आकाशगंगा में यात्रा करते हुए लग्जरी रिसॉर्ट्स के लिए अज्ञात ग्रहों की तलाश कर रहा है।
+
+#### 📝 Prompt
+
+```
+एक इंटरस्टेलर स्काउट शिप आकाशगंगा में यात्रा करते हुए ऐसे अद्भुत अज्ञात ग्रहों की तलाश कर रहा है, जिन्हें ब्रह्मांड के सबसे विशिष्ट और शानदार रिसॉर्ट्स में विकसित किया जा सके।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a75291ddc69daed9ec2ed6b894d4db8/thumbnails/thumbnail.jpg" width="600" alt="इंटरस्टेलर स्काउट शिप एक्सप्लोरेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5994)**
+
+**Author:** [Huff](https://x.com/Huff4Congress) | **Source:** [Link](https://x.com/Huff4Congress/status/2065420372585914709) | **Published:** Jun 12, 2026
+
+---
+### मैट्रिक्स स्टाइल स्पाई एक्शन सीक्वेंस
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सिनेमैटिक वीडियो प्रॉम्प्ट जिसमें बुलेट टाइम में हाई-एक्शन मार्शल आर्ट्स फाइट दिखाई गई है, जो The Matrix की याद दिलाती है।
+
+#### 📝 Prompt
+
+```
+रिकार्डो पूरी तरह से अजेय मैट्रिक्स मोड में आ जाता है, अविश्वसनीय मार्शल आर्ट्स और बुलेट टाइम डॉज के साथ 100 लोगों का सामना करता है, और फिर एक विस्फोटक स्पाई एक्शन क्लाइमेक्स में मानवीय सीमाओं से परे अलौकिक शक्ति के साथ डॉ. ईविल को आमने-सामने की लड़ाई में हरा देता है।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/96b59018f5333b52e6676d676bc0f7ce/thumbnails/thumbnail.jpg" width="600" alt="मैट्रिक्स स्टाइल स्पाई एक्शन सीक्वेंस">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5995)**
+
+**Author:** [Ricardo Nunez](https://x.com/Ricardo19411988) | **Source:** [Link](https://x.com/Ricardo19411988/status/2065374254934139270) | **Published:** Jun 12, 2026
+
+---
+### यथार्थवादी Dango AI रोबोट कीचेन एनीमेशन
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> एक यथार्थवादी AI रोबोट कीचेन के लिए वीडियो प्रॉम्प्ट, जो एक विशिष्ट फोटो शैली के आधार पर बात कर सकता है और अपने अंगों को हिला सकता है।
+
+#### 📝 Prompt
+
+```
+कृपया इसे बात करने वाला बनाएं, और इस 'फूलों पर Dango' वाली फोटो के यथार्थवादी अहसास को बनाए रखें। इसे एक AI रोबोट कीचेन बनाएं। कृपया प्लास्टिक का उपयोग न करें। इसके अंगों को हिलने-डुलने वाला बनाएं।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fdd7b073a9edf2b5f61869eb584a7c90/thumbnails/thumbnail.jpg" width="600" alt="यथार्थवादी Dango AI रोबोट कीचेन एनीमेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5996)**
+
+**Author:** [中間未央](https://x.com/0555Mio) | **Source:** [Link](https://x.com/0555Mio/status/2065258358970696066) | **Published:** Jun 12, 2026
+
+---
+### मध्ययुगीन हवेली का भूतिया आईना
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 14वीं सदी की एक डरावनी हवेली के गलियारे के लिए एक वीडियो प्रॉम्प्ट, जिसमें एक अलंकृत आईने में भूतिया आकृति और कवच पहने योद्धा दिखाई देते हैं।
+
+#### 📝 Prompt
+
+```
+14वीं सदी का एक अलंकृत आईना जो मध्यम रोशनी वाली मध्ययुगीन हवेली के गलियारे में रखा है, आईने के अंदर से एक भूतिया पारभासी आकृति बाहर देख रही है, जलती हुई मशालों की रोशनी, पत्थर की दीवारों के साथ खड़े मध्ययुगीन कवच
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2c544cad09ec0ecae9a460863473ef08/thumbnails/thumbnail.jpg" width="600" alt="मध्ययुगीन हवेली का भूतिया आईना">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5993)**
+
+**Author:** [Mars.Olympus.Mon](https://x.com/DivineFreedoms) | **Source:** [Link](https://x.com/DivineFreedoms/status/2065235512256819489) | **Published:** Jun 12, 2026
+
+---
 ### सीमलेस गॉथिक मैरियनेट ड्रैगन लूप
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -377,7 +453,7 @@ Why use our gallery?
 अति-विस्तृत एनिमे शैली, सिनेमैटिक परिप्रेक्ष्य, ग्रिटी और नाटकीय लाइटिंग, सैचुरेटेड रंगों के साथ बोल्ड कंट्रास्ट। एक पार्किंग लॉट का लो-एंगल टिल्टेड सिनेमैटिक स्ट्रीट-स्टाइल शॉट, जिसमें एक एनिमे लड़की को पीछे से चलते हुए दिखाया गया है, जिसने एक हाथ में बैंगनी रंग का मोटरसाइकिल हेलमेट पकड़ा है। उसने टाइट सफेद रेसिंग पैंट, "AgenC" लिखा हुआ फॉर्म-फिटिंग ग्राफिक टी-शर्ट और पीले जूते पहने हैं, जिसमें एक जूते का सोल अग्रभूमि (foreground) में स्पष्ट विवरण के साथ दिखाई दे रहा है। यह परिप्रेक्ष्य बोल्ड फोर्सॉर्टेनिंग के साथ ग्रिटी, अर्बन सौंदर्य को उजागर करता है। उसके सामने, एक बैंगनी रंग की स्ट्रीटबाइक है।
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dda81ebec8a0bbd6c380325cf11eba84/thumbnails/thumbnail.jpg" width="600" alt="मोटरसाइकिल स्ट्रीट स्टाइल के साथ एनिमे गर्ल">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e8ae69bd74c24138b002ceea312124d/thumbnails/thumbnail.jpg" width="600" alt="मोटरसाइकिल स्ट्रीट स्टाइल के साथ एनिमे गर्ल">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5962)**
 
@@ -852,6 +928,29 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5841)**
 
 **Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2064060691057975428) | **Published:** Jun 8, 2026
+
+---
+### मध्ययुगीन शूरवीर और रानी का सिनेमैटिक क्लोज़-अप
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक सिनेमैटिक वीडियो प्रॉम्प्ट, जिसमें गिरती बर्फ के बीच एक भारी कवच पहने शूरवीर और रानी को शांतिपूर्ण आलिंगन में दिखाया गया है, जिसमें धीमी गति से कैमरा पुश-इन का उपयोग किया गया है।
+
+#### 📝 Prompt
+
+```
+एक निरंतर शॉट, वर्टिकल 9:16 आस्पेक्ट रेशियो, अंतरंग सिनेमैटिक क्लोज़-अप।
+
+जटिल सुनहरे विवरणों और एक बड़ी सजावटी ढाल के साथ गहरे धातु के कवच में एक भारी रूप से सुसज्जित मध्ययुगीन शूरवीर सुरक्षात्मक रूप से खड़ा है। उसके बगल में, एक सुंदर सुनहरे बालों वाली रानी, जिसने सुनहरे मुकुट के साथ एक सुंदर ऑफ-व्हाइट और सुनहरे रंग का गाउन पहना है, धीरे से अपना सिर उसके कवच वाले कंधे पर टिकाए हुए है, आँखें बंद हैं, अभिव्यक्ति शांतिपूर्ण और अंतरंग है। उनके चारों ओर धीरे-धीरे बर्फ गिर रही है।
+
+कैमरा शूरवीर के हेलमेट और रानी के चेहरे पर एक तंग, भावनात्मक क्लोज़-अप में है, जिसमें बहुत सूक्ष्म धीमी गति से पुश-इन मूवमेंट है। नरम बर्फ के कण गिर रहे हैं, धुंधली पृष्ठभूमि में अन्य कवचधारी आकृतियों के साथ गर्म मशाल की रोशनी है। मूडी सिनेमैटिक लाइटिंग, कवच की नक्काशी और कपड़े के टेक्सचर पर उच्च विवरण, यथार्थवादी बर्फ, भावनात्मक और सुरक्षात्मक वातावरण, फिल्मिक डेप्थ ऑफ फील्ड, दो मुख्य पात्रों पर शार्प फोकस, डार्क फैंटेसी मध्ययुगीन सौंदर्य।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/85217f0a301b3d19561e76818dab2c38/thumbnails/thumbnail.jpg" width="600" alt="मध्ययुगीन शूरवीर और रानी का सिनेमैटिक क्लोज़-अप">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5997)**
+
+**Author:** [Knight World](https://x.com/KnightWorld) | **Source:** [Link](https://x.com/KnightWorld/status/2064044373021483354) | **Published:** Jun 8, 2026
 
 ---
 ### एलियन ग्रह पर उतरता हुआ अंतरिक्ष यान
@@ -2173,101 +2272,6 @@ GIF रिटायर हो रहा है। वहाँ प्रशं�
 **Author:** [Belinda Smith](https://x.com/BelindaSmith88) | **Source:** [Link](https://x.com/BelindaSmith88/status/2061243658716799432) | **Published:** Jun 1, 2026
 
 ---
-### शांत सूर्यास्त समुद्र तट का दृश्य
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो के लिए एक शांतिपूर्ण प्रॉम्प्ट, जिसमें एक व्यक्ति को सूर्यास्त के समय समुद्र तट पर खड़े होकर चिंतनशील क्षण में समुद्र की ओर देखते हुए दिखाया गया है।
-
-#### 📝 Prompt
-
-```
-एक व्यक्ति सूर्यास्त के समय समुद्र तट पर खड़ा है, जो एक शांत और चिंतनशील दृश्य में समुद्र की ओर देख रहा है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/26cfe70a7731bc50f61328e362fb25fc/thumbnails/thumbnail.jpg" width="600" alt="शांत सूर्यास्त समुद्र तट का दृश्य">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5564)**
-
-**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2061197152009810428) | **Published:** May 31, 2026
-
----
-### रेडियल लेयर्ड डायसन स्वार्म
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक जटिल साइंस-फिक्शन प्रॉम्प्ट जो सूर्य के चारों ओर सैटेलाइट तकनीक से विकसित डायसन स्वार्म का वर्णन करता है।
-
-#### 📝 Prompt
-
-```
-हमारा कॉन्सेप्ट एक रेडियल-लेयर्ड आंशिक डायसन स्वार्म है जो Starlink तकनीक से विकसित हुआ है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cfc27c525c79ba7d03b757ffc0193932/thumbnails/thumbnail.jpg" width="600" alt="रेडियल लेयर्ड डायसन स्वार्म">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5562)**
-
-**Author:** [Christmas_the_Merry](https://x.com/Xmas_the_Merry) | **Source:** [Link](https://x.com/Xmas_the_Merry/status/2061161635998466397) | **Published:** May 31, 2026
-
----
-### पिकासो द्वारा वैन गॉग की नकल
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> पाब्लो पिकासो द्वारा विन्सेंट वैन गॉग की शैली में कैनवास पर पेंटिंग करने की कल्पना करने वाला एक रचनात्मक कलात्मक प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-कल्पना करें कि आप पाब्लो पिकासो हैं और विन्सेंट वैन गॉग की शैली में नकल कर रहे हैं, केवल पेंट और कैनवास का उपयोग करें
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee8d00ea1b95a06f9cbc718d1d036bc3/thumbnails/thumbnail.jpg" width="600" alt="पिकासो द्वारा वैन गॉग की नकल">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5561)**
-
-**Author:** [Manual Mystique](https://x.com/ManualMystique) | **Source:** [Link](https://x.com/ManualMystique/status/2061034648642162837) | **Published:** May 31, 2026
-
----
-### विंटेज टीवी के अंदर हंसता हुआ आदमी
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक अत्यधिक वर्णनात्मक और उन्मादी वीडियो प्रॉम्प्ट, जिसमें एक आदमी को विंटेज टेलीविजन स्क्रीन के अंदर उन्मादपूर्ण हरकतों के साथ जोर-जोर से हंसते हुए दिखाया गया है।
-
-#### 📝 Prompt
-
-```
-विंटेज टीवी स्क्रीन के अंदर का आदमी किसी पागल की तरह उन्मादपूर्ण ढंग से हंस रहा है, उसकी आंखों में पागलपन है, सिर बेतरतीब ढंग से हिल रहा है, और मुंह अनियंत्रित हंसी में खुला हुआ है, जो पूरी तरह से पागलपन और सनक को दर्शाता है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0415cbf28b43a9e801fc16d8ec0752bd/thumbnails/thumbnail.jpg" width="600" alt="विंटेज टीवी के अंदर हंसता हुआ आदमी">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5557)**
-
-**Author:** [Rodrigo Bressane](https://x.com/bressane) | **Source:** [Link](https://x.com/bressane/status/2061027054171128277) | **Published:** May 31, 2026
-
----
-### Space Scout निकास रणनीति
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Space Scout को आग और तूफान की स्थिति में निकास योजनाओं के बारे में नक्शों का उपयोग करके समझाने वाले एक स्काउट लीडर के वीडियो के लिए एक विस्तृत नैरेटिव प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-Scout Leader Space Scouts को उनकी निकास रणनीति समझा रहे हैं... आग या तूफान की स्थिति में चिह्नित नक्शे। कई तटीय पहाड़ी क्षेत्रों को एक योजना की आवश्यकता है
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/511d5338d73f4ea1836cfd528d2ee261/thumbnails/thumbnail.jpg" width="600" alt="Space Scout निकास रणनीति">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5565)**
-
-**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2060993031311122675) | **Published:** May 31, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2329,6 +2333,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-13T04:36:46.932Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-13T10:48:07.969Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1804** |
+| 📝 Total Prompts | **1809** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-13** |
 
@@ -189,6 +189,82 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Yıldızlararası Keşif Gemisi Yolculuğu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Lüks tatil köyleri için keşfedilmemiş gezegenler arayan ve galakside seyahat eden bir uzay gemisini konu alan sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Bir yıldızlararası keşif gemisi, evrenin gördüğü en özel ve lüks tatil köylerine dönüştürülecek nefes kesici, keşfedilmemiş gezegenleri bulmak için galakside yol alıyor.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a75291ddc69daed9ec2ed6b894d4db8/thumbnails/thumbnail.jpg" width="600" alt="Yıldızlararası Keşif Gemisi Yolculuğu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5994)**
+
+**Author:** [Huff](https://x.com/Huff4Congress) | **Source:** [Link](https://x.com/Huff4Congress/status/2065420372585914709) | **Published:** Jun 12, 2026
+
+---
+### Matrix Tarzı Casus Aksiyon Sekansı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> The Matrix'i anımsatan, bullet time efektli, yüksek tempolu bir dövüş sanatları aksiyonunu içeren sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Ricardo, durdurulamaz bir Matrix moduna girerek inanılmaz dövüş sanatları hareketleri ve bullet time kaçışlarıyla 100 adama karşı savaşıyor, ardından patlayıcı bir casus aksiyonu finalinde Dr. Evil'ı insan sınırlarının ötesindeki süper güçleriyle bire bir dövüşte mağlup ediyor.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/96b59018f5333b52e6676d676bc0f7ce/thumbnails/thumbnail.jpg" width="600" alt="Matrix Tarzı Casus Aksiyon Sekansı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5995)**
+
+**Author:** [Ricardo Nunez](https://x.com/Ricardo19411988) | **Source:** [Link](https://x.com/Ricardo19411988/status/2065374254934139270) | **Published:** Jun 12, 2026
+
+---
+### Gerçekçi Dango AI Robot Anahtarlık Animasyonu
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Belirli bir fotoğraf tarzına dayalı, konuşabilen ve uzuvlarını hareket ettirebilen gerçekçi bir AI robot anahtarlık için video istemi.
+
+#### 📝 Prompt
+
+```
+Lütfen bu 'çiçekler üzerindeki Dango' fotoğrafının gerçekçi hissini koruyarak konuşturun. Onu bir AI robot anahtarlığa dönüştürün. Lütfen plastik kullanmayın. Uzuvlarını hareket ettirin.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fdd7b073a9edf2b5f61869eb584a7c90/thumbnails/thumbnail.jpg" width="600" alt="Gerçekçi Dango AI Robot Anahtarlık Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5996)**
+
+**Author:** [中間未央](https://x.com/0555Mio) | **Source:** [Link](https://x.com/0555Mio/status/2065258358970696066) | **Published:** Jun 12, 2026
+
+---
+### Orta Çağ Köşkünde Hayaletli Ayna
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Süslemeli bir aynadaki hayalet figürü ve zırh takımlarıyla, ürkütücü bir 14. yüzyıl köşk koridorunu konu alan bir video istemi.
+
+#### 📝 Prompt
+
+```
+Loş ışıklı bir Orta Çağ köşk koridorunda duran 14. yüzyıldan kalma süslemeli bir ayna, aynanın içinden dışarı bakan hayaletimsi şeffaf bir figür, yanan duvar meşaleleriyle aydınlatılmış, taş duvarlar boyunca dizilmiş Orta Çağ zırh takımları
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2c544cad09ec0ecae9a460863473ef08/thumbnails/thumbnail.jpg" width="600" alt="Orta Çağ Köşkünde Hayaletli Ayna">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5993)**
+
+**Author:** [Mars.Olympus.Mon](https://x.com/DivineFreedoms) | **Source:** [Link](https://x.com/DivineFreedoms/status/2065235512256819489) | **Published:** Jun 12, 2026
+
+---
 ### Kesintisiz Gotik Marionet Ejderha Döngüsü
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -377,7 +453,7 @@ Kadını referans fotoğraftakiyle birebir aynı tut: yüzü, ışıltılı bir 
 Hiper detaylı anime tarzı, sinematik perspektif, salaş ve dramatik aydınlatma, doygun renklerle cesur kontrast. Otoparkta düşük açılı, eğik sinematik sokak tarzı çekim; elinde mor bir motosiklet kaskı tutan ve arkadan görünen bir anime kızına aşağıdan yukarıya bakış. Üzerinde dar beyaz yarış pantolonu, "AgenC" yazılı vücuda oturan grafikli bir tişört ve sarı botlar var; botlardan birinin tabanı ön planda keskin bir detayla öne çıkıyor. Perspektif, cesur bir kısalma ile salaş ve kentsel estetiği vurguluyor. Önünde mor bir sokak motosikleti.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dda81ebec8a0bbd6c380325cf11eba84/thumbnails/thumbnail.jpg" width="600" alt="Motosikletli Sokak Tarzı Anime Kızı">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e8ae69bd74c24138b002ceea312124d/thumbnails/thumbnail.jpg" width="600" alt="Motosikletli Sokak Tarzı Anime Kızı">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5962)**
 
@@ -844,6 +920,29 @@ Referans görseldeki kadın, elleriyle veya bir çatal bıçak yardımıyla raha
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5841)**
 
 **Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2064060691057975428) | **Published:** Jun 8, 2026
+
+---
+### Orta Çağ Şövalyesi ve Kraliçe Sinematik Yakın Çekim
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için, yoğun kar yağışı altında huzurlu bir şekilde kucaklaşan ağır zırhlı bir şövalye ve kraliçeyi konu alan, yavaş yakınlaşan kamera hareketi kullanan sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+tek sürekli çekim, dikey 9:16 en boy oranı, samimi sinematik yakın çekim.
+
+Karmaşık altın detaylara ve büyük dekoratif bir kalkana sahip, süslü koyu metal zırh içindeki ağır zırhlı bir orta çağ şövalyesi korumacı bir şekilde duruyor. Yanında, zarif kırık beyaz ve altın rengi bir elbise ve altın bir taç içindeki güzel sarışın kraliçe, gözleri kapalı, huzurlu ve samimi bir ifadeyle başını nazikçe şövalyenin zırhlı omzuna yaslıyor. Etraflarına nazikçe kar yağıyor.
+
+Kamera, şövalyenin miğferi ve kraliçenin yüzü üzerinde, çok hafif ve yavaş bir yakınlaşma hareketiyle sıkı, duygusal bir yakın çekimde. Havada uçuşan yumuşak kar taneleri, bulanık arka planda diğer zırhlı figürlerin olduğu sıcak meşale ışığı. Karamsar sinematik aydınlatma, zırh işlemeleri ve kumaş dokularında yüksek detay, gerçekçi kar, duygusal ve korumacı atmosfer, filmik alan derinliği, iki ana karaktere odaklanmış keskin netlik, karanlık fantezi orta çağ estetiği.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/85217f0a301b3d19561e76818dab2c38/thumbnails/thumbnail.jpg" width="600" alt="Orta Çağ Şövalyesi ve Kraliçe Sinematik Yakın Çekim">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5997)**
+
+**Author:** [Knight World](https://x.com/KnightWorld) | **Source:** [Link](https://x.com/KnightWorld/status/2064044373021483354) | **Published:** Jun 8, 2026
 
 ---
 ### Uzay Gemisinin Yabancı Bir Gezegene İnişi
@@ -2164,101 +2263,6 @@ Terk edilmiş bir deponun içinde, devasa bir özel tasarım elbise giyen çarp�
 **Author:** [Belinda Smith](https://x.com/BelindaSmith88) | **Source:** [Link](https://x.com/BelindaSmith88/status/2061243658716799432) | **Published:** Jun 1, 2026
 
 ---
-### Huzurlu Gün Batımı Plaj Manzarası
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gün batımında bir plajda duran, okyanusa karşı dalıp giden bir kişinin yer aldığı huzurlu bir video istemi.
-
-#### 📝 Prompt
-
-```
-Gün batımında bir plajda duran bir kişi, huzurlu ve düşünceli bir sahnede okyanusa bakıyor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/26cfe70a7731bc50f61328e362fb25fc/thumbnails/thumbnail.jpg" width="600" alt="Huzurlu Gün Batımı Plaj Manzarası">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5564)**
-
-**Author:** [Marie](https://x.com/Marie8508319540) | **Source:** [Link](https://x.com/Marie8508319540/status/2061197152009810428) | **Published:** May 31, 2026
-
----
-### Radyal Katmanlı Dyson Sürüsü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir güneşin etrafındaki uydu teknolojisinden evrilmiş bir Dyson sürüsünü tanımlayan karmaşık bir bilim kurgu istemi.
-
-#### 📝 Prompt
-
-```
-Konseptimiz, Starlink teknolojisinden evrilmiş radyal katmanlı kısmi bir Dyson sürüsüdür.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cfc27c525c79ba7d03b757ffc0193932/thumbnails/thumbnail.jpg" width="600" alt="Radyal Katmanlı Dyson Sürüsü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5562)**
-
-**Author:** [Christmas_the_Merry](https://x.com/Xmas_the_Merry) | **Source:** [Link](https://x.com/Xmas_the_Merry/status/2061161635998466397) | **Published:** May 31, 2026
-
----
-### Van Gogh'u Taklit Eden Picasso
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Pablo Picasso'nun Vincent van Gogh tarzında tuval üzerine resim yaptığını hayal eden yaratıcı bir sanatsal istem.
-
-#### 📝 Prompt
-
-```
-Sadece boya ve tuval kullanarak Vincent van Gogh'u taklit eden bir Pablo Picasso olduğunuzu hayal edin
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee8d00ea1b95a06f9cbc718d1d036bc3/thumbnails/thumbnail.jpg" width="600" alt="Van Gogh'u Taklit Eden Picasso">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5561)**
-
-**Author:** [Manual Mystique](https://x.com/ManualMystique) | **Source:** [Link](https://x.com/ManualMystique/status/2061034648642162837) | **Published:** May 31, 2026
-
----
-### Eski Model Televizyonun İçinde Gülen Adam
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eski model bir televizyon ekranının içinde çılgınca gülen ve hareketleri kontrolsüz bir adamı betimleyen, oldukça detaylı ve manik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Eski model televizyon ekranının içindeki adam, manik ve fal taşı gibi açılmış gözlerle, başı düzensiz bir şekilde hareket ederek ve ağzı kontrolsüz bir kahkahayla açık bir halde, tıpkı bir deli gibi çılgınca gülüyor; tam bir delilik ve taşkınlık hali sergiliyor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0415cbf28b43a9e801fc16d8ec0752bd/thumbnails/thumbnail.jpg" width="600" alt="Eski Model Televizyonun İçinde Gülen Adam">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5557)**
-
-**Author:** [Rodrigo Bressane](https://x.com/bressane) | **Source:** [Link](https://x.com/bressane/status/2061027054171128277) | **Published:** May 31, 2026
-
----
-### Space Scout Tahliye Stratejisi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir izci liderinin, haritalar kullanarak uzay izcilerine yangın ve fırtına durumunda tahliye planlarını anlattığı bir video için detaylı anlatı istemi.
-
-#### 📝 Prompt
-
-```
-İzci Lideri, Space Scout ekibine tahliye stratejilerini açıklıyor... yangın veya fırtına durumunda işaretlenmiş haritalar. Birçok kıyı dağlık bölgesi bir plana ihtiyaç duyar
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/511d5338d73f4ea1836cfd528d2ee261/thumbnails/thumbnail.jpg" width="600" alt="Space Scout Tahliye Stratejisi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5565)**
-
-**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2060993031311122675) | **Published:** May 31, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2320,6 +2324,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-13T04:36:53.069Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-13T10:48:16.008Z</sub>
 
 </div>
