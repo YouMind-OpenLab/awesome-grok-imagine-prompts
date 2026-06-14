@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1809** |
+| 📝 Total Prompts | **1818** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-14** |
 
@@ -189,6 +189,199 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Ethereal Angel on Barcelona Beach
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed descriptive prompt for generating an animation of an ethereal angel with gold feathers and green eyes standing on a beach at golden hour.
+
+#### 📝 Prompt
+
+```
+ethereal angel with glowing light green eyes, 24k gold feathers floating around her, invisible wings, standing gracefully on Barcelona beach at golden hour, divine feminine energy, celestial beauty, dreamlike and luminous
+•  ethereal angel
+•  celestial beauty
+•  divine feminine
+•  golden hour goddess
+•  mystical angel
+•  heavenly being
+•  dreamlike angel
+•  otherworldly beauty
+•  angelic presence
+•  luminous angel
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e93302c0291c27c8f192a971f7ef2eb1/thumbnails/thumbnail.jpg" width="600" alt="Ethereal Angel on Barcelona Beach">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6033)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2065908255382184326) | **Published:** Jun 13, 2026
+
+---
+### Biblical Scene Cinematic Static Shot
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt for a static shot inspired by the biblical Book of Daniel from the Old Testament.
+
+#### 📝 Prompt
+
+```
+static shot this looks like the story out of the book of Dan from the Old Testament
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0832c01c153ba6a6966e4672e269439a/thumbnails/thumbnail.jpg" width="600" alt="Biblical Scene Cinematic Static Shot">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6028)**
+
+**Author:** [Mary Jeanne Bautista Concepcion Cincotta](https://x.com/CincottaMary) | **Source:** [Link](https://x.com/CincottaMary/status/2065903975052751107) | **Published:** Jun 13, 2026
+
+---
+### Surfing a Tidal Wave Tube
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An action prompt depicting a surfer riding inside the tube of a massive tidal wave.
+
+#### 📝 Prompt
+
+```
+Imagine him on a surfboard riding a tidal wave in the tube yelling thank you ondoggie for teaching me how to surf
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4609057e0760947ba35a3b1256e60ea2/thumbnails/thumbnail.jpg" width="600" alt="Surfing a Tidal Wave Tube">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6034)**
+
+**Author:** [Jason t](https://x.com/doctani79) | **Source:** [Link](https://x.com/doctani79/status/2065886545970942265) | **Published:** Jun 13, 2026
+
+---
+### Cinematic Luxury Luggage Video Commercial
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A professional cinematic video prompt for a luxury luggage brand featuring a model on a digital billboard at an urban bus stop.
+
+#### 📝 Prompt
+
+```
+Cinematic surreal luxury luggage commercial at a modern urban bus stop, featuring a large black-framed digital billboard integrated into the street architecture. Inside the billboard screen, a fashion model wearing a beige tailored blazer, dark trousers, and matching beige high heels, holding a set of high-end hardshell suitcases. She is standing on a platform as if stepping into or out of the scene. The lighting is high-end commercial style with soft glows and sharp reflections. Cinematic 8k, photorealistic, elegant, urban chic.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/93f5ee4787e6a616e30b49e9cdf6ea30/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Luxury Luggage Video Commercial">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6027)**
+
+**Author:** [Alamgir Hossain](https://x.com/mdalamgir95) | **Source:** [Link](https://x.com/mdalamgir95/status/2065846622324674965) | **Published:** Jun 13, 2026
+
+---
+### Cinematic Dialogue Scene in the Mountains
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A narrative video prompt featuring a panning camera over mountains and forests with dialogue between characters Jilla and Rolf.
+
+#### 📝 Prompt
+
+```
+Jilla stops for a moment to gaze at the beauty all around her. The camera pans to the surrounding mountains, the flowing rivers, the bubbling streams and the gentle wind blowing through a forest of pine trees, thousands of feet below.
+
+Rolf says, "It's beautiful Jilla, isn't it?
+
+Jilla says in awestruck wonder, " A scene to hold in your heart". She looks at Rolf and smiles.
+.
+Rolf says: " The climb was worth it."
+
+Jilla says: " Every step"
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/753193e18c82e85956747b8d78ce3e96/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Dialogue Scene in the Mountains">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6030)**
+
+**Author:** [Kim Maria](https://x.com/KimMari46054539) | **Source:** [Link](https://x.com/KimMari46054539/status/2065845361697038839) | **Published:** Jun 13, 2026
+
+---
+### Elegant Terrace Fashion Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt for a woman in an elegant white outfit and jewelry standing on a terrace.
+
+#### 📝 Prompt
+
+```
+Have me on a terrace wearing all white outfit and hair up with beautiful jewelry on
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3ea702523ce2c9a822acfe1d000f9f1f/thumbnails/thumbnail.jpg" width="600" alt="Elegant Terrace Fashion Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6026)**
+
+**Author:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **Source:** [Link](https://x.com/CindyWeigapn6/status/2065769581789012075) | **Published:** Jun 13, 2026
+
+---
+### Beaver Woodwrights with Jet Packs
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative animation prompt featuring beavers using jet packs and carpentry tools within a sacred geometry theme.
+
+#### 📝 Prompt
+
+```
+The beavers have a lot of work to do so they use jet packs to help pick up the pace. They still take there time and use sacred geometry. They wear and use the tools of a master carpenter....
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c1da7871a13d012fdcf7800785eea440/thumbnails/thumbnail.jpg" width="600" alt="Beaver Woodwrights with Jet Packs">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6031)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2065768512715370712) | **Published:** Jun 13, 2026
+
+---
+### Hyper-Realistic Dune-Style Character Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed prompt to transform a character from a reference into a photorealistic male in his 40s with a cinematic sci-fi aesthetic inspired by Denis Villeneuve's Dune.
+
+#### 📝 Prompt
+
+```
+Transform the character from the reference image into a hyper-realistic, photorealistic human male in his early-to-mid 40s with visible skin pores, subtle facial stubble, detailed skin texture, realistic eye details, and natural skin imperfections. Use realistic human body proportions — do not strictly follow the proportions or stylized anatomy of any original drawing; prioritize accurate, naturalistic human anatomy and realistic scale. Keep the helmet on his head at all times — a sleek, form-fitting high-tech helmet in metallic teal and black matching the armor, with visor area revealing his face clearly.
+
+He wears the exact same sleek high-tech futuristic suit and armor as the reference character: matte black and metallic teal armor plating with intricate mechanical details, realistic reflective metal textures, subtle wear, scuffs, and weathering. Do not change the armor design, color scheme, or style to match the Dune stillsuit in the photo — strictly preserve the original high-tech teal and black armor and helmet. Keep the exact same confident pose: standing on rocky desert terrain, left hand holding a coiled rope/whip at his side, right hand gripping a tall staff. Convert the staff into a high-tech holographic emitter staff with glowing cyan holographic projections forming the owl-like emblem at the top — make the emblem a luminous, translucent hologram with realistic light bloom and energy particles. Retain the lion emblem on his chest but render it as a glowing holographic projection seamlessly integrated into the high-tech suit.
+
+Style and cinematography must exactly match this reference photo: epic wide cinematic movie still from Denis Villeneuve’s Dune, hyper-realistic photorealism with premium big-budget film production quality. Bright desert daylight under a vivid blue sky with scattered white clouds, strong natural sunlight creating realistic highlights, deep shadows, and subtle lens flare. Warm sandy tones contrasting with cool blue atmospheric sky, high dynamic range, rich color grading with desaturated yet vibrant cinematic palette typical of Dune. Ultra-detailed textures on armor, fabric, skin, and rocky terrain — visible dust, fabric weave, metal patina, and environmental grit. Volumetric light rays, soft rim lighting, shallow depth of field with sharp focus on the foreground character and slight background bokeh. Film grain, anamorphic lens characteristics, professional color timing, and authentic large-format movie still feel. 8k resolution quality, photorealistic, no cartoon or illustration artifacts.
+```
+
+<img src="https://cms-assets.youmind.com/media/1781427142173_l4vvei_HKr2Fs5a4AAZ_v7.jpg" width="600" alt="Hyper-Realistic Dune-Style Character Transformation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6032)**
+
+**Author:** [Moonlighter](https://x.com/moonlighter3000) | **Source:** [Link](https://x.com/moonlighter3000/status/2065734008026378505) | **Published:** Jun 13, 2026
+
+---
+### Cinematic Excalibur Space Knight Opera
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed cinematic prompt combining 1980s epic film style with hard sci-fi aesthetics and space knights.
+
+#### 📝 Prompt
+
+```
+A majestic wide cinematic shot in the epic 1981 Excalibur film style by John Boorman reimagined as hard sci-fi space opera, dramatic chiaroscuro lighting with intense rim light and glowing energy accents. A noble space knight stands center in gleaming polished silver-white power armor with intricate medieval-inspired plate detailing, glowing blue energy lines, and a futuristic greatsword with plasma blade planted in the cracked alien ground. He wears a crowned helmet with glowing visor, intense heroic expression. Beside him stands a regal space queen in ornate white-gold futuristic gown with flowing energy-embroidered fabric, jeweled crystalline accents, and elegant sci-fi veil headdress, hands on hips, ethereal and commanding. Flanking them are armored space knights in shining metallic armor, hooded tech-mystics, and a crowd of lords, warriors, and alien courtiers in rich robes on the steps of a ruined ancient alien temple. Dramatic cosmic background with starry nebula sky, atmospheric haze, deep space blacks mixed with rich gold and electric blue highlights, metallic reflections, filmic grain, anamorphic lens feel, epic mythic sci-fi atmosphere, masterpiece, 8k cinematic still
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/23bdccd9f077df216d0fdf9260d151e9/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Excalibur Space Knight Opera">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6029)**
+
+**Author:** [Moonlighter](https://x.com/moonlighter3000) | **Source:** [Link](https://x.com/moonlighter3000/status/2065693534481531035) | **Published:** Jun 13, 2026
+
+---
 ### Interstellar Scout Ship Exploration
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -441,19 +634,19 @@ Keep the woman exactly as in the reference photo: her face, curly brown hair ado
 **Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2065067503231942715) | **Published:** Jun 11, 2026
 
 ---
-### Gritty Anime Motorcycle Girl
+### Anime Girl Urban Street Style
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic anime-style video prompt featuring a girl with a motorcycle helmet in an urban parking lot.
+> A cinematic low-angle shot of an anime girl in racing gear walking toward a purple motorcycle in a gritty parking lot.
 
 #### 📝 Prompt
 
 ```
-Hyper-detailed anime style, cinematic perspective, gritty and dramatic lighting, bold contrast with saturated colors. A low-angle tilted cinematic street-style shot of a parking lot, looking up at an anime girl holding a purple motorcycle helmet in one hand and walking, as seen from behind. she wears tight white racing pants, a form fitting graphic t-shirt that says "AgenC", and yellow boots, with the tread of one boot dominating the foreground in sharp detail. The perspective emphasizes the gritty, urban aesthetic with bold foreshortening. Infront of her, a purple streetbike.
+Hyper-detailed anime style, cinematic perspective, gritty and dramatic lighting, bold contrast with saturated colors. A low-angle tilted cinematic street-style shot of a parking lot, looking up at an anime girl holding a purple motorcycle helmet in one hand and walking, as seen from behind. she wears tight white racing pants, a form fitting graphic t-shirt that says "AgenC", and yellow boots, with the tread of one_boot dominating the foreground in sharp detail. The perspective emphasizes the gritty, urban aesthetic with bold foreshortening. Infront of her, a purple streetbike.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e8ae69bd74c24138b002ceea312124d/thumbnails/thumbnail.jpg" width="600" alt="Gritty Anime Motorcycle Girl">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dabbf9ca7a824642ec80bc1e4fbc2a30/thumbnails/thumbnail.jpg" width="600" alt="Anime Girl Urban Street Style">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5962)**
 
@@ -854,11 +1047,11 @@ AND SO WAS ME.
 **Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2064480706240111096) | **Published:** Jun 9, 2026
 
 ---
-### Ethereal Woman with Sunburst Halo Crown
+### Ethereal Woman in Sunburst Halo
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed cinematic prompt for creating a mystical portrait of an ethereal woman wearing an intricate sunburst halo crown, featuring soft lighting and elegant lace details.
+> A detailed video prompt for a pale, mystical woman wearing a sunburst halo crown with stained glass segments.
 
 #### 📝 Prompt
 
@@ -866,7 +1059,7 @@ AND SO WAS ME.
 realistic close-up portrait of a pale ethereal woman with delicate freckles, extremely pale porcelain skin, long straight platinum-blonde hair flowing softly, closed eyes, serene and mystical expression, soft peach lips. She wears a highly detailed ornate dark metal sunburst halo crown with sharp spikes and glowing amber-orange stained glass segments that emit warm light, white fantasy dress : deep plunging neckline, long fitted sleeves with delicate lace, intricate lace details, wide ornate metallic belt. Minimalist soft blurred neutral gradient background, very clean and simple.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/77c8cc5c96441380023e6fa29909756f/thumbnails/thumbnail.jpg" width="600" alt="Ethereal Woman with Sunburst Halo Crown">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a533cb20e1a90db9c39380f6c2d868cf/thumbnails/thumbnail.jpg" width="600" alt="Ethereal Woman in Sunburst Halo">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5968)**
 
@@ -1050,11 +1243,11 @@ Cozy enchanted cottage glowing at twilight… roses bloom, butterflies dance, pe
 **Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2063826044860223731) | **Published:** Jun 8, 2026
 
 ---
-### Photorealistic Ethereal Elf Woman
+### Ethereal Elf Woman with Rose Tattoo
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for generating a photorealistic portrait of an ethereal elf woman with silver hair, a rose tattoo, and soft melancholic expressions.
+> A cinematic and photorealistic video prompt of an elf woman with silver-white hair and a detailed red rose tattoo on her back.
 
 #### 📝 Prompt
 
@@ -1062,7 +1255,7 @@ Cozy enchanted cottage glowing at twilight… roses bloom, butterflies dance, pe
 photorealistic portrait, ethereal beautiful elf woman, elegant side-back view showing silhouette and upper body, looking down with soft melancholic expression, pale porcelain skin with realistic texture and pores, natural glow, long flowing silver-white hair in intricate side braid with realistic strands and flyaways cascading over shoulder, delicate pointed elf ears with ornate golden pearl ear cuff, large intricate black and red tattoo on upper back and shoulder: blooming red rose wrapped in sharp thorny vines, hyper-realistic shading and skin interaction, delicate torn ragged white lace dress slipping off shoulders, frayed edges with realistic fabric texture and lace details, solid deep black minimalist background, dramatic moody atmosphere, soft volumetric lighting with delicate rim light, cinematic yet photorealistic, elegant and mysterious.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1781254927989_8gwp49_HKOn2ZDXYAApIGa.jpg" width="600" alt="Photorealistic Ethereal Elf Woman">
+<img src="https://cms-assets.youmind.com/media/1781427149674_7vvrif_HKOn2ZDXYAApIGa.jpg" width="600" alt="Ethereal Elf Woman with Rose Tattoo">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5802)**
 
@@ -2062,214 +2255,6 @@ Time travelling mixed race girl has just landed and she gets out of her geodesic
 **Author:** [Make Britain Great Again](https://x.com/DragonFlam7530) | **Source:** [Link](https://x.com/DragonFlam7530/status/2061485523634368997) | **Published:** Jun 1, 2026
 
 ---
-### Chibi Anime Hero and Robot Flight
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A dynamic video prompt for a chibi anime girl and her robot companion flying through the sky wearing hero capes.
-
-#### 📝 Prompt
-
-```
-A cute chibi anime girl with long flowing hair in shades of blonde, violet, and pink, wearing a heroic red cape, flying energetically through the sky next to a small adorable robot companion also wearing a matching hero cape. They are both soaring hi...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/21271aca2e9178c647ed1c6d2ce42299/thumbnails/thumbnail.jpg" width="600" alt="Chibi Anime Hero and Robot Flight">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5605)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2061471795023069195) | **Published:** Jun 1, 2026
-
----
-### Dreamlike Sky Elevator Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A minimalist art cinema prompt for an elevator ascending through light and fog into white emptiness.
-
-#### 📝 Prompt
-
-```
-Fixed camera inside an old elevator as the doors close; instead of walls, open sky and drifting clouds fill the space; the elevator gently ascends through light and fog; doors open to white emptiness. Minimalist, dreamlike art cinema. Audio: faint cable hum.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f3b8cbbd21ac7e492932d508924c1c8d/thumbnails/thumbnail.jpg" width="600" alt="Dreamlike Sky Elevator Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5600)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2061450489112506714) | **Published:** Jun 1, 2026
-
----
-### Modern Warfare Action Trailer JSON
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed JSON-structured prompt for a 10-second high-octane war movie trailer with specific shot timings and camera movements.
-
-#### 📝 Prompt
-
-```
-{
-  "duration": "10 seconds",
-  "style": "Ultra intense, high-octane photorealistic war action trailer. Frantic pacing, massive scale explosions, relentless combat, overwhelming VFX, cinematic yet aggressive camera work",
-  "aspect_ratio": "16:9",
-  "timeline": [
-    {
-      "time": "0-1.8s",
-      "description": "Soldier in tactical gear sprints at full speed through chaotic war-torn streets while being chased by heavy gunfire and explosions. Fast orbiting camera with aggressive motion blur and lens flares, barely keeping up with the action.",
-      "transition": "High-energy tracking shot into chaos"
-    },
-    {
-      "time": "1.8-3.6s",
-      "description": "Massive explosion erupts right beside the soldier. Camera violently shakes and pushes through flying debris, fire, and shockwave. Multiple secondary explosions chain-react in the background. Overwhelming particle chaos.",
-      "transition": "Violent explosive push-through with camera shake"
-    },
-    {
-      "time": "3.6-5.5s",
-      "description": "Hyper-aggressive slow-motion bullet time. Soldier dives and returns fire while bullets whiz past. Camera rapidly circles him at high speed. Digital ghost echoes of fallen soldiers flash violently around the intense firefight.",
-      "transition": "Fast orbiting slow-mo with rapid camera spin"
-    },
-    {
-      "time": "5.5-7.3s",
-      "description": "Explosive rising shot revealing a massive, brutal battlefield. Tanks firing, infantry in close-quarters combat, airstrikes hitting, and huge fireballs lighting up the sky. Red holographic overlays pulse aggressively across the frame.",
-      "transition": "Rapid ascending reveal with battlefield scale explosion"
-    },
-    {
-      "time": "7.3-9s",
-      "description": "Camera dives straight back into the heart of the battle. Extreme close-up of soldier reloading and firing under heavy fire. Intense red color grade, sparks, muzzle flashes, and embers exploding toward camera. Holographic UI frantically updating.",
-      "transition": "Aggressive diving zoom into close-quarters combat"
-    },
-    {
-      "time": "9-10s",
-      "description": "Final explosive wide pull-back of the entire warzone in total chaos. Multiple massive explosions, tracer fire everywhere, and burning vehicles. Title 'Modern Warfare 4' slams in with powerful shockwave and flying debris effect.",
-      "transition": "Epic chaotic expanding reveal with maximum impact"
-    }
-  ],
-  "camera_notes": "Extremely dynamic and aggressive camera work. Fast orbiting, violent shakes during explosions, rapid ascending/diving movements, and high-speed tracking. Pacing feels relentless and breathless while maintaining cinematic quality.",
-  "vfx_notes": "Maximum spectacle: chain explosions, heavy debris, shockwaves, bullet tracers, muzzle flashes, burning vehicles, large-scale fireballs, digital ghost soldiers, aggressive holographic UI, sparks and embers flying directly at camera."
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1e178293220cf4fb008e2a2d35b82529/thumbnails/thumbnail.jpg" width="600" alt="Modern Warfare Action Trailer JSON">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5602)**
-
-**Author:** [AI enthusiast, YT AIAcademy 인공지능아카데미,](https://x.com/AIAcademykorea) | **Source:** [Link](https://x.com/AIAcademykorea/status/2061395464696799568) | **Published:** Jun 1, 2026
-
----
-### Glitches in the Simulation Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A surreal and atmospheric prompt for generating glitchy, dream-like simulation visuals.
-
-#### 📝 Prompt
-
-```
-Good morning to all the Glitches of the simulation out there… Now it’s your turn to wake up inside the dream. The signal remains.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8d8ed9ca6a26790e8f0492916e0be1b/thumbnails/thumbnail.jpg" width="600" alt="Glitches in the Simulation Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5645)**
-
-**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2061385668295643347) | **Published:** Jun 1, 2026
-
----
-### Blue Moon Over Porto Skyline
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt for a photorealistic blue moon rising over the iconic skyline of Porto, featuring Douro River reflections and detailed architecture.
-
-#### 📝 Prompt
-
-```
-Photorealistic image of a blue moon rising and entering the sky above Porto’s skyline at twilight. The large blue-tinted full moon crests behind the Clérigos Tower or Ribeira district rooftops, warm city lights beginning to twinkle below, Douro River reflecting the scene, dramatic clouds, cinematic atmosphere, ultra-detailed architecture and lunar surface, 8K photorealism.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/da69e255182eab954dc72fcc5d32a50f/thumbnails/thumbnail.jpg" width="600" alt="Blue Moon Over Porto Skyline">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5595)**
-
-**Author:** [erna](https://x.com/ernDju) | **Source:** [Link](https://x.com/ernDju/status/2061333728673087894) | **Published:** Jun 1, 2026
-
----
-### Chuck Palahniuk Pain Quote Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A philosophical video prompt based on a quote by Chuck Palahniuk regarding pain and memory.
-
-#### 📝 Prompt
-
-```
-It's so hard to forget pain, but it's even harder to remember sweetness. We have no scar to show for happiness. We learn so little from peace.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5c5db125afc64716188098310ca9c449/thumbnails/thumbnail.jpg" width="600" alt="Chuck Palahniuk Pain Quote Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5642)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2061293017911169512) | **Published:** Jun 1, 2026
-
----
-### Moonlit Ballerina Hilltop Dance
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A graceful video prompt of a ballerina dancing on a hilltop under the Milky Way.
-
-#### 📝 Prompt
-
-```
-Twirling ballerina on a hill top, moon lit night, Milky Way patch , glistening soft green dress… representing dancing nature in the night
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c048d847b742ff3693aa47f508a80283/thumbnails/thumbnail.jpg" width="600" alt="Moonlit Ballerina Hilltop Dance">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5598)**
-
-**Author:** [Akki](https://x.com/whateverakki) | **Source:** [Link](https://x.com/whateverakki/status/2061291723737670139) | **Published:** Jun 1, 2026
-
----
-### Hermes Flying Shoes Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A whimsical prompt depicting the Greek god Hermes using magical flying shoes and interacting with Zeus in a modern context.
-
-#### 📝 Prompt
-
-```
-Hermes gets super fast flying shoes and a cool hat with wings so he can zoom around faster than birds! He even teaches Zeus how to dress up like a normal person and have fun adventures. Now the speedy trickster is ready to help everywhere!
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/30a83309bc20d3575c8fb77a3a4a6263/thumbnails/thumbnail.jpg" width="600" alt="Hermes Flying Shoes Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5601)**
-
-**Author:** [the don of hockey](https://x.com/don_allain) | **Source:** [Link](https://x.com/don_allain/status/2061256565160595499) | **Published:** Jun 1, 2026
-
----
-### High Fashion Industrial Warehouse Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A sophisticated fashion editorial video prompt featuring a woman in a couture gown set against a raw industrial warehouse background.
-
-#### 📝 Prompt
-
-```
-Ultra-realistic high-fashion editorial scene of a striking woman wearing an enormous couture gown inside an abandoned warehouse, blending luxury fashion with raw industrial atmosphere.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/84b1fc7e2161665e2a36130ffd48c3b0/thumbnails/thumbnail.jpg" width="600" alt="High Fashion Industrial Warehouse Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5599)**
-
-**Author:** [Belinda Smith](https://x.com/BelindaSmith88) | **Source:** [Link](https://x.com/BelindaSmith88/status/2061243658716799432) | **Published:** Jun 1, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2331,6 +2316,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-14T05:04:15.044Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-14T11:13:07.757Z</sub>
 
 </div>

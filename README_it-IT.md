@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1809** |
+| 📝 Total Prompts | **1818** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-14** |
 
@@ -189,6 +189,199 @@ Una mistica e nobile Valchiria celestiale, una donna dignitosa e bellissima con 
 
 > 📝 Sorted by publish date (newest first)
 
+### Angelo etereo sulla spiaggia di Barcellona
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt descrittivo dettagliato per generare l'animazione di un angelo etereo con piume d'oro e occhi verdi, in piedi su una spiaggia durante l'ora d'oro.
+
+#### 📝 Prompt
+
+```
+angelo etereo con occhi verde chiaro luminosi, piume d'oro 24k che fluttuano attorno a lei, ali invisibili, in piedi con grazia sulla spiaggia di Barcellona durante l'ora d'oro, energia femminile divina, bellezza celestiale, onirica e luminosa
+•  angelo etereo
+•  bellezza celestiale
+•  femminile divino
+•  dea dell'ora d'oro
+•  angelo mistico
+•  essere celestiale
+•  angelo onirico
+•  bellezza ultraterrena
+•  presenza angelica
+•  angelo luminoso
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e93302c0291c27c8f192a971f7ef2eb1/thumbnails/thumbnail.jpg" width="600" alt="Angelo etereo sulla spiaggia di Barcellona">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6033)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2065908255382184326) | **Published:** Jun 13, 2026
+
+---
+### Inquadratura statica cinematografica di una scena biblica
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video cinematografico per un'inquadratura statica ispirata al libro biblico di Daniele dell'Antico Testamento.
+
+#### 📝 Prompt
+
+```
+inquadratura statica che rievoca la storia tratta dal libro di Daniele dell'Antico Testamento
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0832c01c153ba6a6966e4672e269439a/thumbnails/thumbnail.jpg" width="600" alt="Inquadratura statica cinematografica di una scena biblica">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6028)**
+
+**Author:** [Mary Jeanne Bautista Concepcion Cincotta](https://x.com/CincottaMary) | **Source:** [Link](https://x.com/CincottaMary/status/2065903975052751107) | **Published:** Jun 13, 2026
+
+---
+### Surfare nel tubo di un'onda anomala
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt d'azione che ritrae un surfista mentre cavalca all'interno del tubo di un'onda anomala massiccia.
+
+#### 📝 Prompt
+
+```
+Immaginalo su una tavola da surf mentre cavalca un'onda anomala nel tubo, urlando grazie ondoggie per avermi insegnato a fare surf
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4609057e0760947ba35a3b1256e60ea2/thumbnails/thumbnail.jpg" width="600" alt="Surfare nel tubo di un'onda anomala">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6034)**
+
+**Author:** [Jason t](https://x.com/doctani79) | **Source:** [Link](https://x.com/doctani79/status/2065886545970942265) | **Published:** Jun 13, 2026
+
+---
+### Spot pubblicitario cinematografico di valigeria di lusso
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video professionale e cinematografico per un brand di valigeria di lusso, con una modella su un cartellone pubblicitario digitale presso una fermata dell'autobus urbana.
+
+#### 📝 Prompt
+
+```
+Spot pubblicitario cinematografico e surreale di valigeria di lusso presso una moderna fermata dell'autobus urbana, con un grande cartellone digitale incorniciato in nero integrato nell'architettura stradale. All'interno dello schermo del cartellone, una modella indossa un blazer sartoriale beige, pantaloni scuri e tacchi alti beige abbinati, mentre tiene un set di valigie rigide di alta gamma. È in piedi su una piattaforma come se stesse entrando o uscendo dalla scena. L'illuminazione è in stile commerciale di alto livello con bagliori soffusi e riflessi nitidi. Cinematico 8k, fotorealistico, elegante, urban chic.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/93f5ee4787e6a616e30b49e9cdf6ea30/thumbnails/thumbnail.jpg" width="600" alt="Spot pubblicitario cinematografico di valigeria di lusso">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6027)**
+
+**Author:** [Alamgir Hossain](https://x.com/mdalamgir95) | **Source:** [Link](https://x.com/mdalamgir95/status/2065846622324674965) | **Published:** Jun 13, 2026
+
+---
+### Scena di dialogo cinematografico in montagna
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video narrativo che presenta una panoramica su montagne e foreste con un dialogo tra i personaggi Jilla e Rolf.
+
+#### 📝 Prompt
+
+```
+Jilla si ferma un momento per ammirare la bellezza che la circonda. La telecamera inquadra le montagne circostanti, i fiumi che scorrono, i ruscelli gorgoglianti e la brezza leggera che soffia attraverso una foresta di pini, migliaia di metri più in basso.
+
+Rolf dice: "È bellissimo, Jilla, non trovi?"
+
+Jilla dice con stupore: "Una scena da custodire nel cuore". Guarda Rolf e sorride.
+
+Rolf dice: "La scalata ne è valsa la pena."
+
+Jilla dice: "Ogni singolo passo"
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/753193e18c82e85956747b8d78ce3e96/thumbnails/thumbnail.jpg" width="600" alt="Scena di dialogo cinematografico in montagna">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6030)**
+
+**Author:** [Kim Maria](https://x.com/KimMari46054539) | **Source:** [Link](https://x.com/KimMari46054539/status/2065845361697038839) | **Published:** Jun 13, 2026
+
+---
+### Video di moda elegante in terrazza
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video per una donna con un elegante completo bianco e gioielli, in piedi su una terrazza.
+
+#### 📝 Prompt
+
+```
+Raffigurami su una terrazza con un completo total white, capelli raccolti e indosso dei bellissimi gioielli
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3ea702523ce2c9a822acfe1d000f9f1f/thumbnails/thumbnail.jpg" width="600" alt="Video di moda elegante in terrazza">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6026)**
+
+**Author:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **Source:** [Link](https://x.com/CindyWeigapn6/status/2065769581789012075) | **Published:** Jun 13, 2026
+
+---
+### Castori falegnami con jet pack
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt creativo per animazioni che vede protagonisti castori dotati di jet pack e attrezzi da falegname, immersi in un contesto di geometria sacra.
+
+#### 📝 Prompt
+
+```
+I castori hanno molto lavoro da sbrigare, così usano dei jet pack per velocizzare le operazioni. Nonostante ciò, si prendono il loro tempo, applicando i principi della geometria sacra. Indossano e utilizzano gli strumenti di un maestro falegname...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c1da7871a13d012fdcf7800785eea440/thumbnails/thumbnail.jpg" width="600" alt="Castori falegnami con jet pack">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6031)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2065768512715370712) | **Published:** Jun 13, 2026
+
+---
+### Trasformazione di personaggi in stile Dune iper-realistico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt altamente dettagliato per trasformare un personaggio da un riferimento in un uomo fotorealistico sulla quarantina con un'estetica sci-fi cinematografica ispirata al Dune di Denis Villeneuve.
+
+#### 📝 Prompt
+
+```
+Trasforma il personaggio dell'immagine di riferimento in un uomo iper-realistico e fotorealistico sulla quarantina, con pori della pelle visibili, una leggera barba incolta, texture cutanea dettagliata, dettagli oculari realistici e imperfezioni naturali della pelle. Utilizza proporzioni corporee umane realistiche: non seguire rigorosamente le proporzioni o l'anatomia stilizzata di alcun disegno originale; dai priorità a un'anatomia umana accurata e naturale e a una scala realistica. Mantieni sempre il casco sulla testa: un casco high-tech elegante e aderente, color verde acqua metallizzato e nero, abbinato all'armatura, con la visiera che rivela chiaramente il suo volto.
+
+Indossa esattamente la stessa tuta e armatura futuristica high-tech del personaggio di riferimento: piastre dell'armatura nero opaco e verde acqua metallizzato con dettagli meccanici intricati, texture metalliche riflettenti realistiche, segni di usura, graffi e invecchiamento. Non modificare il design, la combinazione di colori o lo stile dell'armatura per adattarli alla tuta di Dune presente nella foto: conserva rigorosamente l'armatura e il casco originali high-tech color verde acqua e nero. Mantieni esattamente la stessa posa sicura: in piedi su un terreno desertico roccioso, la mano sinistra che tiene una corda/frusta arrotolata al fianco, la mano destra che impugna un bastone alto. Trasforma il bastone in un bastone emettitore olografico high-tech con proiezioni olografiche ciano luminose che formano l'emblema a forma di gufo sulla parte superiore: rendi l'emblema un ologramma luminoso e traslucido con un realistico bagliore di luce e particelle di energia. Mantieni l'emblema del leone sul petto, ma rendilo come una proiezione olografica luminosa perfettamente integrata nella tuta high-tech.
+
+Lo stile e la cinematografia devono corrispondere esattamente a questa foto di riferimento: epico fotogramma cinematografico grandangolare tratto dal Dune di Denis Villeneuve, fotorealismo iper-realistico con una qualità di produzione cinematografica di alto livello. Luminosa luce diurna del deserto sotto un vivido cielo blu con nuvole bianche sparse, forte luce solare naturale che crea riflessi realistici, ombre profonde e un leggero lens flare. Toni sabbiosi caldi in contrasto con il blu freddo del cielo atmosferico, alta gamma dinamica, ricca color grading con una palette cinematografica desaturata ma vibrante, tipica di Dune. Texture ultra-dettagliate su armatura, tessuto, pelle e terreno roccioso: polvere visibile, trama del tessuto, patina del metallo e granulosità ambientale. Raggi di luce volumetrici, illuminazione di contorno morbida, profondità di campo ridotta con messa a fuoco nitida sul personaggio in primo piano e un leggero bokeh sullo sfondo. Grana della pellicola, caratteristiche dell'obiettivo anamorfico, color timing professionale e un'autentica sensazione da fotogramma cinematografico di grande formato. Qualità a risoluzione 8k, fotorealistico, senza artefatti da cartone animato o illustrazione.
+```
+
+<img src="https://cms-assets.youmind.com/media/1781427142173_l4vvei_HKr2Fs5a4AAZ_v7.jpg" width="600" alt="Trasformazione di personaggi in stile Dune iper-realistico">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6032)**
+
+**Author:** [Moonlighter](https://x.com/moonlighter3000) | **Source:** [Link](https://x.com/moonlighter3000/status/2065734008026378505) | **Published:** Jun 13, 2026
+
+---
+### Opera spaziale cinematografica del cavaliere Excalibur
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinematografico altamente dettagliato che combina lo stile epico dei film degli anni '80 con l'estetica hard sci-fi e i cavalieri dello spazio.
+
+#### 📝 Prompt
+
+```
+Una maestosa inquadratura cinematografica grandangolare nello stile epico del film Excalibur del 1981 di John Boorman, rivisitato come un'opera spaziale hard sci-fi, illuminazione drammatica in chiaroscuro con intensa luce di contorno e accenti di energia luminosa. Un nobile cavaliere dello spazio si trova al centro, indossando un'armatura potenziata in argento bianco lucido con intricati dettagli ispirati all'epoca medievale, linee di energia blu brillante e un grande spadone futuristico con lama al plasma piantato nel terreno alieno crepato. Indossa un elmo coronato con visiera luminosa, espressione eroica intensa. Accanto a lui si trova una regale regina dello spazio in un ornato abito futuristico bianco e oro con tessuto fluente ricamato di energia, accenti cristallini ingioiellati ed elegante copricapo a velo sci-fi, mani sui fianchi, eterea e autorevole. Ai loro lati, cavalieri spaziali in armatura metallica lucente, tecno-mistici incappucciati e una folla di lord, guerrieri e cortigiani alieni in ricche vesti sui gradini di un antico tempio alieno in rovina. Sfondo cosmico drammatico con cielo nebuloso stellato, foschia atmosferica, neri dello spazio profondo mescolati a ricchi riflessi oro e blu elettrico, riflessi metallici, grana cinematografica, effetto lente anamorfica, atmosfera sci-fi mitica ed epica, capolavoro, fotogramma cinematografico 8k
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/23bdccd9f077df216d0fdf9260d151e9/thumbnails/thumbnail.jpg" width="600" alt="Opera spaziale cinematografica del cavaliere Excalibur">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6029)**
+
+**Author:** [Moonlighter](https://x.com/moonlighter3000) | **Source:** [Link](https://x.com/moonlighter3000/status/2065693534481531035) | **Published:** Jun 13, 2026
+
+---
 ### Esplorazione con nave da ricognizione interstellare
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -453,7 +646,7 @@ Mantieni la donna esattamente come nella foto di riferimento: il suo viso, i cap
 Stile anime iper-dettagliato, prospettiva cinematografica, illuminazione grintosa e drammatica, contrasto audace con colori saturi. Un'inquadratura cinematografica dal basso e inclinata in stile street di un parcheggio, con vista dal basso verso l'alto di una ragazza anime che tiene un casco da moto viola in una mano mentre cammina, vista da dietro. Indossa pantaloni da corsa bianchi attillati, una t-shirt grafica aderente con la scritta "AgenC" e stivali gialli, con il battistrada di uno stivale che domina il primo piano in dettaglio nitido. La prospettiva enfatizza l'estetica urbana e grintosa con un audace scorcio. Davanti a lei, una moto da strada viola.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e8ae69bd74c24138b002ceea312124d/thumbnails/thumbnail.jpg" width="600" alt="Ragazza anime in stile street con motocicletta">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dabbf9ca7a824642ec80bc1e4fbc2a30/thumbnails/thumbnail.jpg" width="600" alt="Ragazza anime in stile street con motocicletta">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5962)**
 
@@ -866,7 +1059,7 @@ E LO ERO ANCH'IO.
 ritratto realistico in primo piano di una donna eterea dal volto pallido con delicate lentiggini, pelle di porcellana estremamente chiara, lunghi capelli lisci biondo platino che cadono morbidamente, occhi chiusi, espressione serena e mistica, labbra color pesca tenue. Indossa un'elaborata corona a raggiera in metallo scuro altamente dettagliata, con punte affilate e segmenti in vetro colorato ambra-arancio che emettono una luce calda, abito fantasy bianco: scollo profondo, maniche lunghe aderenti con pizzo delicato, dettagli in pizzo intricati, ampia cintura metallica decorata. Sfondo a gradiente neutro minimalista e leggermente sfocato, molto pulito ed essenziale.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/77c8cc5c96441380023e6fa29909756f/thumbnails/thumbnail.jpg" width="600" alt="Donna eterea con corona a raggiera">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a533cb20e1a90db9c39380f6c2d868cf/thumbnails/thumbnail.jpg" width="600" alt="Donna eterea con corona a raggiera">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5968)**
 
@@ -1062,7 +1255,7 @@ Accogliente casetta incantata che brilla al crepuscolo... rose in fiore, farfall
 ritratto fotorealistico, bellissima donna elfo eterea, elegante vista di profilo/retro che mostra la silhouette e la parte superiore del corpo, sguardo rivolto verso il basso con un'espressione dolce e malinconica, pelle di porcellana pallida con texture e pori realistici, luminosità naturale, lunghi capelli fluenti bianco-argento in un'intricata treccia laterale con ciocche realistiche e capelli ribelli che ricadono sulla spalla, delicate orecchie a punta da elfo con un ornato ear cuff di perle dorate, grande tatuaggio intricato nero e rosso sulla parte superiore della schiena e sulla spalla: una rosa rossa in fiore avvolta da viti spinose e affilate, ombreggiatura iper-realistica e interazione con la pelle, delicato abito in pizzo bianco strappato che scivola dalle spalle, bordi sfilacciati con texture del tessuto realistica e dettagli in pizzo, sfondo minimalista nero profondo e solido, atmosfera drammatica e suggestiva, illuminazione volumetrica soffusa con delicata luce di contorno, cinematografico ma fotorealistico, elegante e misterioso.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1781254927989_8gwp49_HKOn2ZDXYAApIGa.jpg" width="600" alt="Ritratto di donna elfo eterea">
+<img src="https://cms-assets.youmind.com/media/1781427149674_7vvrif_HKOn2ZDXYAApIGa.jpg" width="600" alt="Ritratto di donna elfo eterea">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5802)**
 
@@ -2063,215 +2256,6 @@ Una ragazza di etnia mista che viaggia nel tempo è appena atterrata e scende da
 **Author:** [Make Britain Great Again](https://x.com/DragonFlam7530) | **Source:** [Link](https://x.com/DragonFlam7530/status/2061485523634368997) | **Published:** Jun 1, 2026
 
 ---
-### Eroe anime chibi e robot in volo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video dinamico per una ragazza anime chibi e il suo compagno robot che volano nel cielo indossando mantelli da eroe.
-
-#### 📝 Prompt
-
-```
-Una graziosa ragazza anime chibi con lunghi capelli fluenti nelle tonalità del biondo, viola e rosa, che indossa un eroico mantello rosso, mentre vola energicamente nel cielo accanto a un piccolo e adorabile compagno robot che indossa anch'esso un mantello da eroe abbinato. Stanno entrambi sfrecciando in al...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/21271aca2e9178c647ed1c6d2ce42299/thumbnails/thumbnail.jpg" width="600" alt="Eroe anime chibi e robot in volo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5605)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2061471795023069195) | **Published:** Jun 1, 2026
-
----
-### Scena onirica dell'ascensore nel cielo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt di cinema d'arte minimalista per un ascensore che sale attraverso luce e nebbia verso un vuoto bianco.
-
-#### 📝 Prompt
-
-```
-Camera fissa all'interno di un vecchio ascensore mentre le porte si chiudono; al posto delle pareti, il cielo aperto e nuvole alla deriva riempiono lo spazio; l'ascensore sale dolcemente attraverso luce e nebbia; le porte si aprono su un vuoto bianco. Cinema d'arte minimalista e onirico. Audio: debole ronzio dei cavi.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f3b8cbbd21ac7e492932d508924c1c8d/thumbnails/thumbnail.jpg" width="600" alt="Scena onirica dell'ascensore nel cielo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5600)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2061450489112506714) | **Published:** Jun 1, 2026
-
----
-### JSON per trailer d'azione di Modern Warfare
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt strutturato in JSON estremamente dettagliato per un trailer di un film di guerra ad alto tasso di adrenalina della durata di 10 secondi, con tempistiche delle riprese e movimenti di camera specifici.
-
-#### 📝 Prompt
-
-```
-{
-  "duration": "10 secondi",
-  "style": "Trailer d'azione bellica fotorealistico, ultra intenso e ad alto tasso di adrenalina. Ritmo frenetico, esplosioni su scala massiccia, combattimenti incessanti, effetti visivi travolgenti, riprese cinematografiche ma aggressive",
-  "aspect_ratio": "16:9",
-  "timeline": [
-    {
-      "time": "0-1.8s",
-      "description": "Un soldato in equipaggiamento tattico corre a tutta velocità attraverso strade devastate dalla guerra, inseguito da pesanti colpi di arma da fuoco ed esplosioni. Camera in orbita rapida con motion blur aggressivo e lens flare, che riesce a malapena a seguire l'azione.",
-      "transition": "Ripresa in tracking ad alta energia verso il caos"
-    },
-    {
-      "time": "1.8-3.6s",
-      "description": "Un'esplosione massiccia erutta proprio accanto al soldato. La camera trema violentemente e attraversa detriti volanti, fuoco e onde d'urto. Esplosioni secondarie multiple si susseguono a catena sullo sfondo. Caos di particelle travolgente.",
-      "transition": "Violenta spinta esplosiva con tremolio della camera"
-    },
-    {
-      "time": "3.6-5.5s",
-      "description": "Bullet time al rallentatore iper-aggressivo. Il soldato si tuffa e risponde al fuoco mentre i proiettili sfrecciano accanto a lui. La camera gli ruota attorno rapidamente ad alta velocità. Echi digitali spettrali di soldati caduti lampeggiano violentemente attorno all'intenso scontro a fuoco.",
-      "transition": "Orbita veloce in slow-mo con rapida rotazione della camera"
-    },
-    {
-      "time": "5.5-7.3s",
-      "description": "Ripresa esplosiva dal basso verso l'alto che rivela un campo di battaglia massiccio e brutale. Carri armati che sparano, fanteria in combattimento ravvicinato, attacchi aerei e enormi palle di fuoco che illuminano il cielo. Sovrapposizioni olografiche rosse pulsano aggressivamente attraverso l'inquadratura.",
-      "transition": "Rapida ascesa rivelatrice con esplosione su scala bellica"
-    },
-    {
-      "time": "7.3-9s",
-      "description": "La camera si tuffa direttamente nel cuore della battaglia. Primo piano estremo del soldato che ricarica e spara sotto un fuoco intenso. Gradazione di colore rosso intenso, scintille, lampi di volata e braci che esplodono verso la camera. Interfaccia utente olografica che si aggiorna freneticamente.",
-      "transition": "Zoom a tuffo aggressivo nel combattimento ravvicinato"
-    },
-    {
-      "time": "9-10s",
-      "description": "Pull-back finale esplosivo che mostra l'intera zona di guerra in totale caos. Esplosioni multiple massicce, traccianti ovunque e veicoli in fiamme. Il titolo 'Modern Warfare 4' appare con un potente effetto di onda d'urto e detriti volanti.",
-      "transition": "Epica rivelazione caotica in espansione con impatto massimo"
-    }
-  ],
-  "camera_notes": "Movimenti di camera estremamente dinamici e aggressivi. Orbita veloce, scuotimenti violenti durante le esplosioni, movimenti rapidi di ascesa/tuffo e tracking ad alta velocità. Il ritmo appare incessante e mozzafiato, mantenendo una qualità cinematografica.",
-  "vfx_notes": "Spettacolo massimo: esplosioni a catena, detriti pesanti, onde d'urto, traccianti di proiettili, lampi di volata, veicoli in fiamme, palle di fuoco su larga scala, soldati spettrali digitali, interfaccia utente olografica aggressiva, scintille e braci che volano direttamente verso la camera."
-}
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1e178293220cf4fb008e2a2d35b82529/thumbnails/thumbnail.jpg" width="600" alt="JSON per trailer d'azione di Modern Warfare">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5602)**
-
-**Author:** [AI enthusiast, YT AIAcademy 인공지능아카데미,](https://x.com/AIAcademykorea) | **Source:** [Link](https://x.com/AIAcademykorea/status/2061395464696799568) | **Published:** Jun 1, 2026
-
----
-### Prompt: Glitch nella simulazione
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt surreale e suggestivo per generare immagini di simulazioni oniriche e ricche di glitch.
-
-#### 📝 Prompt
-
-```
-Buongiorno a tutti i Glitch della simulazione là fuori… Ora tocca a voi svegliarvi all'interno del sogno. Il segnale persiste.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8d8ed9ca6a26790e8f0492916e0be1b/thumbnails/thumbnail.jpg" width="600" alt="Prompt: Glitch nella simulazione">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5645)**
-
-**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2061385668295643347) | **Published:** Jun 1, 2026
-
----
-### Luna blu sullo skyline di Porto
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video cinematografico per una luna blu fotorealistica che sorge sull'iconico skyline di Porto, con i riflessi del fiume Douro e un'architettura ricca di dettagli.
-
-#### 📝 Prompt
-
-```
-Immagine fotorealistica di una luna blu che sorge e appare nel cielo sopra lo skyline di Porto al crepuscolo. La grande luna piena dai toni blu svetta dietro la Torre dei Chierici o i tetti del quartiere della Ribeira, le calde luci della città iniziano a brillare in basso, il fiume Douro riflette la scena, nuvole drammatiche, atmosfera cinematografica, architettura e superficie lunare ultra-dettagliate, fotorealismo 8K.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/da69e255182eab954dc72fcc5d32a50f/thumbnails/thumbnail.jpg" width="600" alt="Luna blu sullo skyline di Porto">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5595)**
-
-**Author:** [erna](https://x.com/ernDju) | **Source:** [Link](https://x.com/ernDju/status/2061333728673087894) | **Published:** Jun 1, 2026
-
----
-### Video sulla citazione di Chuck Palahniuk riguardo al dolore
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video filosofico basato su una citazione di Chuck Palahniuk sul dolore e la memoria.
-
-#### 📝 Prompt
-
-```
-È così difficile dimenticare il dolore, ma è ancora più difficile ricordare la dolcezza. Non abbiamo cicatrici che testimonino la felicità. Impariamo così poco dalla pace.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5c5db125afc64716188098310ca9c449/thumbnails/thumbnail.jpg" width="600" alt="Video sulla citazione di Chuck Palahniuk riguardo al dolore">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5642)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2061293017911169512) | **Published:** Jun 1, 2026
-
----
-### Ballerina al chiaro di luna sulla collina
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un elegante prompt video di una ballerina che danza su una collina sotto la Via Lattea.
-
-#### 📝 Prompt
-
-```
-Ballerina che piroetta su una collina, notte illuminata dalla luna, scorcio della Via Lattea, abito verde tenue scintillante... che rappresenta la danza della natura nella notte
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c048d847b742ff3693aa47f508a80283/thumbnails/thumbnail.jpg" width="600" alt="Ballerina al chiaro di luna sulla collina">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5598)**
-
-**Author:** [Akki](https://x.com/whateverakki) | **Source:** [Link](https://x.com/whateverakki/status/2061291723737670139) | **Published:** Jun 1, 2026
-
----
-### Animazione delle scarpe volanti di Hermes
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un estroso prompt che ritrae il dio greco Hermes mentre usa scarpe magiche volanti e interagisce con Zeus in un contesto moderno.
-
-#### 📝 Prompt
-
-```
-Hermes ottiene delle scarpe volanti super veloci e un fantastico cappello con le ali per sfrecciare più veloce degli uccelli! Insegna persino a Zeus come vestirsi come una persona normale e vivere avventure divertenti. Ora il veloce briccone è pronto ad aiutare ovunque!
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/30a83309bc20d3575c8fb77a3a4a6263/thumbnails/thumbnail.jpg" width="600" alt="Animazione delle scarpe volanti di Hermes">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5601)**
-
-**Author:** [the don of hockey](https://x.com/don_allain) | **Source:** [Link](https://x.com/don_allain/status/2061256565160595499) | **Published:** Jun 1, 2026
-
----
-### Scena in magazzino industriale per alta moda
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un sofisticato prompt video per un editoriale di moda che ritrae una donna in abito couture sullo sfondo di un grezzo magazzino industriale.
-
-#### 📝 Prompt
-
-```
-Scena editoriale di alta moda ultra-realistica con una donna affascinante che indossa un enorme abito couture all'interno di un magazzino abbandonato, fondendo il lusso della moda con un'atmosfera industriale grezza.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/84b1fc7e2161665e2a36130ffd48c3b0/thumbnails/thumbnail.jpg" width="600" alt="Scena in magazzino industriale per alta moda">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5599)**
-
-**Author:** [Belinda Smith](https://x.com/BelindaSmith88) | **Source:** [Link](https://x.com/BelindaSmith88/status/2061243658716799432) | **Published:** Jun 1, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2333,6 +2317,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-14T05:04:27.562Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-14T11:13:17.647Z</sub>
 
 </div>

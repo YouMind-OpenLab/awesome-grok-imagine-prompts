@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1809** |
+| 📝 Total Prompts | **1818** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-14** |
 
@@ -189,6 +189,199 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Barselona Plajında Ethereal Melek
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Altın saatlerde bir plajda duran, altın tüylü ve yeşil gözlü, ruhani bir meleğin animasyonunu oluşturmak için detaylı betimleyici bir komut.
+
+#### 📝 Prompt
+
+```
+parlak açık yeşil gözlü ruhani melek, etrafında süzülen 24 ayar altın tüyler, görünmez kanatlar, altın saatlerde Barselona plajında zarif bir şekilde duruyor, ilahi dişil enerji, göksel güzellik, rüya gibi ve ışıl ışıl
+•  ruhani melek
+•  göksel güzellik
+•  ilahi dişilik
+•  altın saat tanrıçası
+•  mistik melek
+•  cennetten gelen varlık
+•  rüya gibi melek
+•  başka dünyaya ait güzellik
+•  meleksi varlık
+•  ışıl ışıl melek
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e93302c0291c27c8f192a971f7ef2eb1/thumbnails/thumbnail.jpg" width="600" alt="Barselona Plajında Ethereal Melek">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6033)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2065908255382184326) | **Published:** Jun 13, 2026
+
+---
+### İncil'den Sahne Sinematik Sabit Çekim
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Eski Ahit'teki Daniel Kitabı'ndan esinlenen, sabit bir çekim için sinematik video istemi.
+
+#### 📝 Prompt
+
+```
+sabit çekim, bu Eski Ahit'teki Daniel Kitabı'ndan bir hikaye gibi görünüyor
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0832c01c153ba6a6966e4672e269439a/thumbnails/thumbnail.jpg" width="600" alt="İncil'den Sahne Sinematik Sabit Çekim">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6028)**
+
+**Author:** [Mary Jeanne Bautista Concepcion Cincotta](https://x.com/CincottaMary) | **Source:** [Link](https://x.com/CincottaMary/status/2065903975052751107) | **Published:** Jun 13, 2026
+
+---
+### Devasa Bir Dalga Tünelinde Sörf Yapmak
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Devasa bir gelgit dalgasının tünelinde sörf yapan bir sörfçüyü betimleyen aksiyon odaklı bir komut.
+
+#### 📝 Prompt
+
+```
+Sörf tahtasının üzerinde, devasa bir dalganın tünelinde sörf yaparken bana sörf yapmayı öğrettiğin için teşekkürler ondoggie diye bağırdığını hayal et
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4609057e0760947ba35a3b1256e60ea2/thumbnails/thumbnail.jpg" width="600" alt="Devasa Bir Dalga Tünelinde Sörf Yapmak">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6034)**
+
+**Author:** [Jason t](https://x.com/doctani79) | **Source:** [Link](https://x.com/doctani79/status/2065886545970942265) | **Published:** Jun 13, 2026
+
+---
+### Sinematik Lüks Bavul Video Reklamı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Şehir içi bir otobüs durağındaki dijital reklam panosunda yer alan bir modelin bulunduğu, lüks bir bavul markası için profesyonel sinematik video istemi.
+
+#### 📝 Prompt
+
+```
+Modern bir şehir otobüs durağında, sokak mimarisiyle bütünleşmiş büyük, siyah çerçeveli bir dijital reklam panosunu içeren sinematik sürreal lüks bavul reklamı. Reklam panosu ekranının içinde; bej rengi özel dikim bir blazer ceket, koyu renk pantolon ve aynı tonda bej yüksek topuklu ayakkabılar giymiş, elinde üst segment sert kabuklu bavul seti tutan bir moda modeli yer alıyor. Model, sahneye giriyormuş veya sahneden çıkıyormuş gibi bir platform üzerinde duruyor. Aydınlatma, yumuşak parıltılar ve keskin yansımalarla üst düzey ticari tarza sahip. Sinematik 8k, fotogerçekçi, zarif, şehirli şıklığı.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/93f5ee4787e6a616e30b49e9cdf6ea30/thumbnails/thumbnail.jpg" width="600" alt="Sinematik Lüks Bavul Video Reklamı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6027)**
+
+**Author:** [Alamgir Hossain](https://x.com/mdalamgir95) | **Source:** [Link](https://x.com/mdalamgir95/status/2065846622324674965) | **Published:** Jun 13, 2026
+
+---
+### Dağlarda Sinematik Diyalog Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Dağlar ve ormanlar üzerinde gezinen bir kamera açısı ile Jilla ve Rolf karakterleri arasındaki diyaloğu içeren anlatısal bir video istemi.
+
+#### 📝 Prompt
+
+```
+Jilla, etrafındaki güzelliği seyretmek için bir anlığına durur. Kamera; dağlara, akan nehirlere, çağıldayan derelere ve binlerce fit aşağıda, çam ağaçlarından oluşan bir ormanın içinden esen hafif rüzgara doğru kayar.
+
+Rolf, "Çok güzel değil mi Jilla?" der.
+
+Jilla hayranlık dolu bir şaşkınlıkla, "Kalbine kazınacak bir manzara," der. Rolf'a bakar ve gülümser.
+
+Rolf: "Tırmanışa değdi," der.
+
+Jilla: "Her bir adıma," diye yanıtlar.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/753193e18c82e85956747b8d78ce3e96/thumbnails/thumbnail.jpg" width="600" alt="Dağlarda Sinematik Diyalog Sahnesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6030)**
+
+**Author:** [Kim Maria](https://x.com/KimMari46054539) | **Source:** [Link](https://x.com/KimMari46054539/status/2065845361697038839) | **Published:** Jun 13, 2026
+
+---
+### Zarif Teras Moda Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Zarif beyaz bir kıyafet ve takılar içinde terasta duran bir kadın için video istemi.
+
+#### 📝 Prompt
+
+```
+Beni bir terasta, tamamen beyaz bir kıyafet içinde, saçlarım topuz yapılmış ve üzerimde güzel takılarla göster
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3ea702523ce2c9a822acfe1d000f9f1f/thumbnails/thumbnail.jpg" width="600" alt="Zarif Teras Moda Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6026)**
+
+**Author:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **Source:** [Link](https://x.com/CindyWeigapn6/status/2065769581789012075) | **Published:** Jun 13, 2026
+
+---
+### Jet Çantalı Kunduz Marangozlar
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kutsal geometri teması içinde jet çantalar ve marangozluk aletleri kullanan kunduzları konu alan yaratıcı bir animasyon istemi.
+
+#### 📝 Prompt
+
+```
+Kunduzların yapacak çok işi var, bu yüzden tempoyu artırmak için jet çantalar kullanıyorlar. Yine de işlerini aceleye getirmeden, kutsal geometri ilkelerini kullanarak yapıyorlar. Usta bir marangozun aletlerini takıp kullanıyorlar...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c1da7871a13d012fdcf7800785eea440/thumbnails/thumbnail.jpg" width="600" alt="Jet Çantalı Kunduz Marangozlar">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6031)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2065768512715370712) | **Published:** Jun 13, 2026
+
+---
+### Hiper Gerçekçi Dune Tarzı Karakter Dönüşümü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Referans bir karakteri, Denis Villeneuve'ün Dune filminden esinlenen sinematik bilim kurgu estetiğine sahip, 40'lı yaşlarında fotogerçekçi bir erkeğe dönüştürmek için hazırlanmış son derece detaylı bir komut.
+
+#### 📝 Prompt
+
+```
+Referans görseldeki karakteri; belirgin cilt gözenekleri, hafif yüz sakalları, detaylı cilt dokusu, gerçekçi göz detayları ve doğal cilt kusurlarına sahip, 40'lı yaşlarının başlarında veya ortalarında, hiper gerçekçi ve fotogerçekçi bir insan erkeğe dönüştürün. Gerçekçi insan vücudu oranlarını kullanın; orijinal çizimin oranlarını veya stilize anatomisini kesinlikle takip etmeyin; doğru, natüralist insan anatomisine ve gerçekçi ölçeğe öncelik verin. Kaskı her zaman başında tutun; zırhla uyumlu, metalik turkuaz ve siyah renklerde, vizör kısmı yüzünü net bir şekilde gösteren, şık ve vücuda oturan yüksek teknolojili bir kask olsun.
+
+Karakter, referans görseldekiyle tamamen aynı şık, yüksek teknolojili fütüristik kıyafeti ve zırhı giyiyor: karmaşık mekanik detaylara, gerçekçi yansıtıcı metal dokulara, hafif aşınmalara, çiziklere ve yıpranmalara sahip mat siyah ve metalik turkuaz zırh plakaları. Zırh tasarımını, renk şemasını veya stilini fotoğraftaki Dune stillsuit'ine uyacak şekilde değiştirmeyin; orijinal yüksek teknolojili turkuaz ve siyah zırhı ve kaskı kesinlikle koruyun. Aynı kendinden emin pozu koruyun: kayalık çöl arazisinde ayakta duran, sol eli yanında kıvrılmış bir halat/kamçı tutan, sağ eli uzun bir asayı kavrayan bir duruş. Asayı, tepesinde baykuş benzeri amblemi oluşturan parlayan camgöbeği renginde holografik projeksiyonlara sahip, yüksek teknolojili bir holografik yayıcı asaya dönüştürün; amblemi gerçekçi ışık parlaması ve enerji parçacıklarıyla ışıklı, yarı saydam bir hologram haline getirin. Göğsündeki aslan amblemini koruyun ancak onu yüksek teknolojili kıyafetle kusursuz bir şekilde bütünleşmiş, parlayan bir holografik projeksiyon olarak işleyin.
+
+Stil ve sinematografi bu referans fotoğrafla tam olarak eşleşmelidir: Denis Villeneuve'ün Dune filminden epik, geniş açılı sinematik film karesi; birinci sınıf büyük bütçeli film prodüksiyon kalitesinde hiper gerçekçi fotogerçekçilik. Canlı mavi bir gökyüzü ve dağınık beyaz bulutlar altında parlak çöl gün ışığı; gerçekçi parlak noktalar, derin gölgeler ve hafif lens parlaması yaratan güçlü doğal güneş ışığı. Sıcak kum tonlarının soğuk mavi atmosferik gökyüzüyle kontrastı, yüksek dinamik aralık, Dune filmine özgü, doygunluğu azaltılmış ancak canlı sinematik paletle zengin renk derecelendirmesi. Zırh, kumaş, cilt ve kayalık arazi üzerinde ultra detaylı dokular; görünür toz, kumaş örgüsü, metal patinası ve çevresel kirler. Volumetrik ışık huzmeleri, yumuşak kenar aydınlatması, ön plandaki karakter üzerinde keskin odak ve arka planda hafif bokeh ile sığ alan derinliği. Film greni, anamorfik lens özellikleri, profesyonel renk zamanlaması ve otantik büyük format film karesi hissi. 8k çözünürlük kalitesi, fotogerçekçi, çizgi film veya illüstrasyon izi yok.
+```
+
+<img src="https://cms-assets.youmind.com/media/1781427142173_l4vvei_HKr2Fs5a4AAZ_v7.jpg" width="600" alt="Hiper Gerçekçi Dune Tarzı Karakter Dönüşümü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6032)**
+
+**Author:** [Moonlighter](https://x.com/moonlighter3000) | **Source:** [Link](https://x.com/moonlighter3000/status/2065734008026378505) | **Published:** Jun 13, 2026
+
+---
+### Sinematik Excalibur Uzay Şövalyesi Operası
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 1980'lerin epik film tarzını sert bilim kurgu estetiği ve uzay şövalyeleriyle birleştiren, oldukça detaylı bir sinematik komut.
+
+#### 📝 Prompt
+
+```
+John Boorman'ın epik 1981 Excalibur film tarzında, sert bilim kurgu uzay operası olarak yeniden hayal edilmiş görkemli ve geniş bir sinematik çekim; yoğun kenar ışığı ve parlayan enerji vurgularıyla dramatik chiaroscuro aydınlatma. Asil bir uzay şövalyesi, merkezde, karmaşık orta çağ esintili plaka detaylarına, parlayan mavi enerji hatlarına ve çatlamış uzaylı zeminine saplanmış plazma bıçaklı fütüristik bir büyük kılıca sahip, parıldayan gümüş-beyaz güç zırhı içinde duruyor. Parlayan vizörlü taçlı bir miğfer takıyor, ifadesi yoğun ve kahramanca. Yanında, akan enerji işlemeli kumaşlara, mücevherli kristal vurgulara ve zarif bilim kurgu duvak başlığına sahip, elleri belinde, ruhani ve otoriter, süslü beyaz-altın fütüristik bir elbise içinde asil bir uzay kraliçesi duruyor. Yanlarında parlayan metalik zırhlı uzay şövalyeleri, kapüşonlu teknoloji mistikleri ve yıkık antik bir uzaylı tapınağının basamaklarında zengin cübbeler içinde lordlar, savaşçılar ve uzaylı saray mensuplarından oluşan bir kalabalık var. Yıldızlı nebula gökyüzü, atmosferik pus, zengin altın ve elektrik mavisi vurgularla karışık derin uzay siyahları, metalik yansımalar, film dokusu, anamorfik lens hissi, epik mitik bilim kurgu atmosferi, başyapıt, 8k sinematik kare.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/23bdccd9f077df216d0fdf9260d151e9/thumbnails/thumbnail.jpg" width="600" alt="Sinematik Excalibur Uzay Şövalyesi Operası">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6029)**
+
+**Author:** [Moonlighter](https://x.com/moonlighter3000) | **Source:** [Link](https://x.com/moonlighter3000/status/2065693534481531035) | **Published:** Jun 13, 2026
+
+---
 ### Yıldızlararası Keşif Gemisi Yolculuğu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -453,7 +646,7 @@ Kadını referans fotoğraftakiyle birebir aynı tut: yüzü, ışıltılı bir 
 Hiper detaylı anime tarzı, sinematik perspektif, salaş ve dramatik aydınlatma, doygun renklerle cesur kontrast. Otoparkta düşük açılı, eğik sinematik sokak tarzı çekim; elinde mor bir motosiklet kaskı tutan ve arkadan görünen bir anime kızına aşağıdan yukarıya bakış. Üzerinde dar beyaz yarış pantolonu, "AgenC" yazılı vücuda oturan grafikli bir tişört ve sarı botlar var; botlardan birinin tabanı ön planda keskin bir detayla öne çıkıyor. Perspektif, cesur bir kısalma ile salaş ve kentsel estetiği vurguluyor. Önünde mor bir sokak motosikleti.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e8ae69bd74c24138b002ceea312124d/thumbnails/thumbnail.jpg" width="600" alt="Motosikletli Sokak Tarzı Anime Kızı">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dabbf9ca7a824642ec80bc1e4fbc2a30/thumbnails/thumbnail.jpg" width="600" alt="Motosikletli Sokak Tarzı Anime Kızı">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5962)**
 
@@ -858,7 +1051,7 @@ HİÇ GİTMEK İSTEMEYİŞİMİ.
 narin çillere sahip, soluk tenli, porselen gibi bembeyaz bir cilde sahip, uzun düz platin sarısı saçları yumuşakça dökülen, gözleri kapalı, huzurlu ve mistik bir ifadeye sahip, yumuşak şeftali tonlarında dudakları olan ethereal bir kadının gerçekçi yakın plan portresi. Keskin uçlara ve sıcak ışık yayan kehribar-turuncu vitray bölmelere sahip, oldukça detaylı ve süslü koyu metal bir güneş ışığı hale taç takıyor; beyaz fantezi elbisesi: derin dekolteli, narin dantelli uzun dar kollar, karmaşık dantel detayları, geniş süslü metalik kemer. Minimalist, yumuşak bulanık nötr gradyan arka plan, çok temiz ve sade.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/77c8cc5c96441380023e6fa29909756f/thumbnails/thumbnail.jpg" width="600" alt="Güneş Işığı Hale Taçlı Ethereal Kadın">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a533cb20e1a90db9c39380f6c2d868cf/thumbnails/thumbnail.jpg" width="600" alt="Güneş Işığı Hale Taçlı Ethereal Kadın">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5968)**
 
@@ -1054,7 +1247,7 @@ Alacakaranlıkta parlayan sıcacık ve büyüleyici bir kulübe… güller açı
 fotogerçekçi portre, ruhani güzel elf kadını, silüeti ve üst vücudu gösteren zarif yan-arka görünüm, yumuşak melankolik bir ifadeyle aşağı bakıyor, gerçekçi dokuya ve gözeneklere sahip soluk porselen cilt, doğal ışıltı, omuzdan aşağı dökülen gerçekçi teller ve uçuşan saçlarla karmaşık yan örgülü uzun, akıcı gümüş-beyaz saçlar, süslü altın inci küpe takılı narin sivri elf kulakları, üst sırtta ve omuzda büyük karmaşık siyah ve kırmızı dövme: keskin dikenli sarmaşıklarla sarılı açan kırmızı gül, hiper gerçekçi gölgelendirme ve cilt etkileşimi, omuzlardan düşen narin yırtık beyaz dantel elbise, gerçekçi kumaş dokusu ve dantel detaylarıyla yıpranmış kenarlar, düz koyu siyah minimalist arka plan, dramatik karamsar atmosfer, narin kenar ışığıyla yumuşak hacimsel aydınlatma, sinematik ama fotogerçekçi, zarif ve gizemli.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1781254927989_8gwp49_HKOn2ZDXYAApIGa.jpg" width="600" alt="Ethereal Elf Woman Portrait">
+<img src="https://cms-assets.youmind.com/media/1781427149674_7vvrif_HKOn2ZDXYAApIGa.jpg" width="600" alt="Ethereal Elf Woman Portrait">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5802)**
 
@@ -2055,214 +2248,6 @@ Zaman yolculuğu yapan melez bir kız az önce iniş yaptı ve jeodezik Zaman Ma
 **Author:** [Make Britain Great Again](https://x.com/DragonFlam7530) | **Source:** [Link](https://x.com/DragonFlam7530/status/2061485523634368997) | **Published:** Jun 1, 2026
 
 ---
-### Chibi Anime Kahramanı ve Robot Uçuşu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kahraman pelerinleri takarak gökyüzünde uçan chibi anime kızı ve robot arkadaşı için dinamik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Sarı, menekşe ve pembe tonlarında uzun, dalgalı saçlara sahip, kahraman kırmızı peleriniyle gökyüzünde enerjik bir şekilde uçan sevimli bir chibi anime kızı ve yanında yine uyumlu bir kahraman pelerini takan küçük, sevimli bir robot arkadaşı. İkisi de gökyüzünde süzülüyor...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/21271aca2e9178c647ed1c6d2ce42299/thumbnails/thumbnail.jpg" width="600" alt="Chibi Anime Kahramanı ve Robot Uçuşu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5605)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2061471795023069195) | **Published:** Jun 1, 2026
-
----
-### Rüya Gibi Asansör Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Işık ve sisin içinden geçerek beyaz bir boşluğa yükselen bir asansör için minimalist bir sanat sineması istemi.
-
-#### 📝 Prompt
-
-```
-Eski bir asansörün içinde sabit kamera; kapılar kapanırken duvarların yerini açık gökyüzü ve sürüklenen bulutlar alır; asansör ışık ve sisin içinden nazikçe yükselir; kapılar beyaz bir boşluğa açılır. Minimalist, rüya gibi sanat sineması. Ses: hafif kablo uğultusu.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f3b8cbbd21ac7e492932d508924c1c8d/thumbnails/thumbnail.jpg" width="600" alt="Rüya Gibi Asansör Sahnesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5600)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2061450489112506714) | **Published:** Jun 1, 2026
-
----
-### Modern Warfare Aksiyon Fragmanı JSON
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Belirli çekim zamanlamaları ve kamera hareketleriyle 10 saniyelik, yüksek tempolu bir savaş filmi fragmanı için oldukça detaylı, JSON yapısında bir komut.
-
-#### 📝 Prompt
-
-```
-{
-  "duration": "10 saniye",
-  "style": "Ultra yoğun, yüksek tempolu, fotogerçekçi savaş aksiyon fragmanı. Çılgın bir tempo, devasa ölçekli patlamalar, amansız çatışma, etkileyici görsel efektler (VFX), sinematik ancak agresif kamera kullanımı",
-  "aspect_ratio": "16:9",
-  "timeline": [
-    {
-      "time": "0-1.8 sn",
-      "description": "Taktik teçhizatlı bir asker, yoğun ateş ve patlamalar arasında savaşın harap ettiği sokaklarda tam hızla koşuyor. Agresif hareket bulanıklığı ve lens parlamalarıyla aksiyona zar zor yetişen, hızlı dönen bir kamera açısı.",
-      "transition": "Kaosa doğru yüksek enerjili takip çekimi"
-    },
-    {
-      "time": "1.8-3.6 sn",
-      "description": "Askerin hemen yanında devasa bir patlama gerçekleşiyor. Kamera şiddetle sarsılıyor ve uçuşan enkaz, ateş ve şok dalgasının içinden geçiyor. Arka planda zincirleme ikincil patlamalar meydana geliyor. Yoğun parçacık kaosu.",
-      "transition": "Kamera sarsıntısıyla şiddetli patlama içinden geçiş"
-    },
-    {
-      "time": "3.6-5.5 sn",
-      "description": "Hiper-agresif ağır çekim (bullet time). Asker dalış yapıyor ve mermiler yanından geçerken ateşe karşılık veriyor. Kamera, yüksek hızla etrafında hızla dönüyor. Yoğun çatışmanın etrafında düşen askerlerin dijital hayalet yansımaları şiddetle yanıp sönüyor.",
-      "transition": "Hızlı dönüşlü ağır çekim ve seri kamera hareketi"
-    },
-    {
-      "time": "5.5-7.3 sn",
-      "description": "Devasa ve acımasız bir savaş alanını ortaya çıkaran patlayıcı yükseliş çekimi. Ateş eden tanklar, yakın dövüşteki piyadeler, hava saldırıları ve gökyüzünü aydınlatan devasa ateş topları. Kırmızı holografik katmanlar kare boyunca agresif bir şekilde yanıp sönüyor.",
-      "transition": "Savaş alanı ölçeğinde patlamayla hızlı yükselen ortaya çıkarma"
-    },
-    {
-      "time": "7.3-9 sn",
-      "description": "Kamera doğrudan savaşın kalbine dalıyor. Yoğun ateş altında şarjör değiştiren ve ateş eden askerin aşırı yakın çekimi. Yoğun kırmızı renk tonu, kıvılcımlar, namlu flaşları ve kameraya doğru patlayan közler. Hızla güncellenen holografik kullanıcı arayüzü (UI).",
-      "transition": "Yakın dövüşe agresif dalış zoom'u"
-    },
-    {
-      "time": "9-10 sn",
-      "description": "Tam bir kaos içindeki tüm savaş bölgesinin son patlayıcı geniş geri çekilme çekimi. Çok sayıda devasa patlama, her yerde izli mermiler ve yanan araçlar. 'Modern Warfare 4' başlığı, güçlü bir şok dalgası ve uçuşan enkaz efektiyle ekrana çarpıyor.",
-      "transition": "Maksimum etkiyle destansı, kaotik ve genişleyen ortaya çıkarma"
-    }
-  ],
-  "camera_notes": "Son derece dinamik ve agresif kamera kullanımı. Hızlı dönme, patlamalar sırasında şiddetli sarsıntılar, hızlı yükselen/dalan hareketler ve yüksek hızlı takip. Tempo, sinematik kaliteyi korurken amansız ve nefes kesici hissettiriyor.",
-  "vfx_notes": "Maksimum görsel şölen: zincirleme patlamalar, ağır enkaz, şok dalgaları, mermi izleri, namlu flaşları, yanan araçlar, büyük ölçekli ateş topları, dijital hayalet askerler, agresif holografik kullanıcı arayüzü, doğrudan kameraya uçuşan kıvılcımlar ve közler."
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1e178293220cf4fb008e2a2d35b82529/thumbnails/thumbnail.jpg" width="600" alt="Modern Warfare Aksiyon Fragmanı JSON">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5602)**
-
-**Author:** [AI enthusiast, YT AIAcademy 인공지능아카데미,](https://x.com/AIAcademykorea) | **Source:** [Link](https://x.com/AIAcademykorea/status/2061395464696799568) | **Published:** Jun 1, 2026
-
----
-### Simülasyondaki Hatalar İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Hatalı, rüya benzeri simülasyon görselleri oluşturmak için gerçeküstü ve atmosferik bir istem.
-
-#### 📝 Prompt
-
-```
-Simülasyonun dışındaki tüm Hatalara günaydın… Şimdi rüyanın içinde uyanma sırası sizde. Sinyal devam ediyor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8d8ed9ca6a26790e8f0492916e0be1b/thumbnails/thumbnail.jpg" width="600" alt="Simülasyondaki Hatalar İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5645)**
-
-**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2061385668295643347) | **Published:** Jun 1, 2026
-
----
-### Porto Silüeti Üzerinde Mavi Ay
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Porto'nun ikonik silüeti üzerinde yükselen, Douro Nehri yansımaları ve detaylı mimariyi içeren fotogerçekçi bir mavi ay için sinematik video istemi.
-
-#### 📝 Prompt
-
-```
-Alacakaranlıkta Porto silüetinin üzerinde yükselen ve gökyüzüne giren mavi ayın fotogerçekçi görüntüsü. Büyük, mavi tonlu dolunay, Clérigos Kulesi veya Ribeira bölgesi çatılarının arkasından yükseliyor; aşağıda sıcak şehir ışıkları parlamaya başlıyor, Douro Nehri sahneyi yansıtıyor, dramatik bulutlar, sinematik atmosfer, ultra detaylı mimari ve ay yüzeyi, 8K fotogerçekçilik.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/da69e255182eab954dc72fcc5d32a50f/thumbnails/thumbnail.jpg" width="600" alt="Porto Silüeti Üzerinde Mavi Ay">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5595)**
-
-**Author:** [erna](https://x.com/ernDju) | **Source:** [Link](https://x.com/ernDju/status/2061333728673087894) | **Published:** Jun 1, 2026
-
----
-### Chuck Palahniuk Acı Sözü Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Chuck Palahniuk'un acı ve hafıza üzerine bir sözüne dayanan felsefi bir video istemi.
-
-#### 📝 Prompt
-
-```
-Acıyı unutmak çok zordur, ama tatlı anları hatırlamak daha da zordur. Mutluluğun bizde bıraktığı bir yara izi yoktur. Huzurdan çok az şey öğreniriz.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5c5db125afc64716188098310ca9c449/thumbnails/thumbnail.jpg" width="600" alt="Chuck Palahniuk Acı Sözü Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5642)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2061293017911169512) | **Published:** Jun 1, 2026
-
----
-### Ay Işığında Tepede Baleden Esintiler
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Samanyolu altında bir tepede dans eden balerine dair zarif bir video istemi.
-
-#### 📝 Prompt
-
-```
-Bir tepenin üzerinde dönen balerin, ay ışığıyla aydınlanan gece, Samanyolu kümesi, parıldayan yumuşak yeşil elbise… gecenin içinde dans eden doğayı temsil ediyor
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c048d847b742ff3693aa47f508a80283/thumbnails/thumbnail.jpg" width="600" alt="Ay Işığında Tepede Baleden Esintiler">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5598)**
-
-**Author:** [Akki](https://x.com/whateverakki) | **Source:** [Link](https://x.com/whateverakki/status/2061291723737670139) | **Published:** Jun 1, 2026
-
----
-### Hermes Uçan Ayakkabılar Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Yunan tanrısı Hermes'in sihirli uçan ayakkabılarını kullandığı ve modern bir bağlamda Zeus ile etkileşime girdiği eğlenceli bir istem.
-
-#### 📝 Prompt
-
-```
-Hermes, kuşlardan bile daha hızlı uçmasını sağlayan süper hızlı uçan ayakkabılar ve kanatlı havalı bir şapka ediniyor! Hatta Zeus'a nasıl normal bir insan gibi giyinip eğlenceli maceralara atılacağını bile öğretiyor. Artık bu hızlı düzenbaz, her yerde yardıma koşmaya hazır!
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/30a83309bc20d3575c8fb77a3a4a6263/thumbnails/thumbnail.jpg" width="600" alt="Hermes Uçan Ayakkabılar Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5601)**
-
-**Author:** [the don of hockey](https://x.com/don_allain) | **Source:** [Link](https://x.com/don_allain/status/2061256565160595499) | **Published:** Jun 1, 2026
-
----
-### Yüksek Moda Endüstriyel Depo Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ham bir endüstriyel depo arka planında, özel tasarım bir elbise içindeki kadını konu alan sofistike bir moda editoryal video istemi.
-
-#### 📝 Prompt
-
-```
-Terk edilmiş bir deponun içinde, devasa bir özel tasarım elbise giyen çarpıcı bir kadının yer aldığı, lüks moda ile ham endüstriyel atmosferi harmanlayan ultra gerçekçi yüksek moda editoryal sahnesi.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/84b1fc7e2161665e2a36130ffd48c3b0/thumbnails/thumbnail.jpg" width="600" alt="Yüksek Moda Endüstriyel Depo Sahnesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5599)**
-
-**Author:** [Belinda Smith](https://x.com/BelindaSmith88) | **Source:** [Link](https://x.com/BelindaSmith88/status/2061243658716799432) | **Published:** Jun 1, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2324,6 +2309,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-14T05:04:30.789Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-14T11:13:20.136Z</sub>
 
 </div>

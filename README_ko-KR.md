@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **1809** |
+| 📝 총 프롬프트 수 | **1818** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-06-14** |
 
@@ -189,6 +189,199 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 바르셀로나 해변의 신비로운 천사
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 골든 아워의 바르셀로나 해변에 서 있는, 황금빛 깃털과 녹색 눈을 가진 신비로운 천사의 애니메이션을 생성하기 위한 상세한 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+빛나는 연두색 눈을 가진 신비로운 천사, 주변을 떠다니는 24k 황금빛 깃털, 보이지 않는 날개, 골든 아워의 바르셀로나 해변에 우아하게 서 있는 모습, 신성한 여성적 에너지, 천상의 아름다움, 꿈결 같고 빛나는 분위기
+•  신비로운 천사
+•  천상의 아름다움
+•  신성한 여성성
+•  골든 아워의 여신
+•  영적인 천사
+•  천상의 존재
+•  꿈결 같은 천사
+•  초현실적인 아름다움
+•  천사 같은 존재감
+•  빛나는 천사
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e93302c0291c27c8f192a971f7ef2eb1/thumbnails/thumbnail.jpg" width="600" alt="바르셀로나 해변의 신비로운 천사">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6033)**
+
+**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2065908255382184326) | **게시일:** Jun 13, 2026
+
+---
+### 성경적 장면의 영화 같은 정적 샷
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 구약성경 다니엘서에서 영감을 받은 정적 샷을 위한 영화 같은 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+구약성경 다니엘서의 이야기처럼 보이는 정적 샷
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0832c01c153ba6a6966e4672e269439a/thumbnails/thumbnail.jpg" width="600" alt="성경적 장면의 영화 같은 정적 샷">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6028)**
+
+**작성자:** [Mary Jeanne Bautista Concepcion Cincotta](https://x.com/CincottaMary) | **출처:** [Link](https://x.com/CincottaMary/status/2065903975052751107) | **게시일:** Jun 13, 2026
+
+---
+### 거대한 파도 속 서핑
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 거대한 파도의 튜브 속을 서핑하는 서퍼를 묘사한 액션 프롬프트.
+
+#### 📝 프롬프트
+
+```
+서핑을 가르쳐 준 ondoggie에게 고맙다고 외치며 서프보드를 타고 거대한 파도의 튜브 속을 달리는 그의 모습을 상상해 보세요
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4609057e0760947ba35a3b1256e60ea2/thumbnails/thumbnail.jpg" width="600" alt="거대한 파도 속 서핑">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6034)**
+
+**작성자:** [Jason t](https://x.com/doctani79) | **출처:** [Link](https://x.com/doctani79/status/2065886545970942265) | **게시일:** Jun 13, 2026
+
+---
+### 럭셔리 여행 가방 시네마틱 광고 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 도심 버스 정류장의 디지털 빌보드에 등장하는 모델을 활용한 럭셔리 여행 가방 브랜드용 전문 시네마틱 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+현대적인 도심 버스 정류장을 배경으로 한 초현실적 럭셔리 여행 가방 시네마틱 광고. 거리 건축물과 일체화된 대형 검은색 프레임의 디지털 빌보드가 특징입니다. 빌보드 화면 속에는 베이지색 테일러드 블레이저와 어두운색 바지, 깔끔한 베이지색 하이힐을 착용한 패션 모델이 고급 하드쉘 여행 가방 세트를 들고 있습니다. 모델은 마치 장면 속으로 걸어 들어가거나 나오는 듯한 모습으로 플랫폼 위에 서 있습니다. 부드러운 빛과 선명한 반사가 돋보이는 고급스러운 상업 광고 스타일의 조명입니다. 시네마틱 8k, 사실적 묘사, 우아함, 어반 시크 스타일.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/93f5ee4787e6a616e30b49e9cdf6ea30/thumbnails/thumbnail.jpg" width="600" alt="럭셔리 여행 가방 시네마틱 광고 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6027)**
+
+**작성자:** [Alamgir Hossain](https://x.com/mdalamgir95) | **출처:** [Link](https://x.com/mdalamgir95/status/2065846622324674965) | **게시일:** Jun 13, 2026
+
+---
+### 산속의 영화 같은 대화 장면
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 산과 숲을 가로지르는 팬 카메라와 Jilla, Rolf 두 캐릭터 간의 대화가 포함된 내러티브 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+Jilla는 잠시 멈춰 서서 주변의 아름다운 풍경을 바라봅니다. 카메라는 수천 피트 아래에 펼쳐진 산과 흐르는 강, 보글거리는 시냇물, 그리고 소나무 숲 사이로 부는 부드러운 바람을 따라 팬(pan)합니다.
+
+Rolf가 말합니다. "정말 아름답지, Jilla?"
+
+Jilla는 경외심에 찬 목소리로 대답합니다. "마음속에 간직할 만한 풍경이야." 그녀는 Rolf를 바라보며 미소 짓습니다.
+
+Rolf가 말합니다. "올라온 보람이 있네."
+
+Jilla가 말합니다. "한 걸음 한 걸음 모두 다."
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/753193e18c82e85956747b8d78ce3e96/thumbnails/thumbnail.jpg" width="600" alt="산속의 영화 같은 대화 장면">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6030)**
+
+**작성자:** [Kim Maria](https://x.com/KimMari46054539) | **출처:** [Link](https://x.com/KimMari46054539/status/2065845361697038839) | **게시일:** Jun 13, 2026
+
+---
+### 우아한 테라스 패션 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 테라스에 서 있는 우아한 화이트 의상과 주얼리를 착용한 여성에 대한 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+테라스에서 올 화이트 의상을 입고 머리를 올린 채 아름다운 주얼리를 착용한 내 모습을 생성해 줘
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3ea702523ce2c9a822acfe1d000f9f1f/thumbnails/thumbnail.jpg" width="600" alt="우아한 테라스 패션 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6026)**
+
+**작성자:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **출처:** [Link](https://x.com/CindyWeigapn6/status/2065769581789012075) | **게시일:** Jun 13, 2026
+
+---
+### 제트팩을 멘 비버 목수들
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 제트팩과 목공 도구를 사용하는 비버들을 신성 기하학 테마로 표현한 창의적인 애니메이션 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+비버들은 할 일이 많아 제트팩을 사용하여 작업 속도를 높입니다. 하지만 여전히 여유를 가지고 신성 기하학을 활용하며, 숙련된 목수의 도구를 착용하고 사용합니다....
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c1da7871a13d012fdcf7800785eea440/thumbnails/thumbnail.jpg" width="600" alt="제트팩을 멘 비버 목수들">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6031)**
+
+**작성자:** [Philip Carr](https://x.com/PhilipCarrn7711) | **출처:** [Link](https://x.com/PhilipCarrn7711/status/2065768512715370712) | **게시일:** Jun 13, 2026
+
+---
+### 듄(Dune) 스타일의 초현실적 캐릭터 변환
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 참조 이미지의 캐릭터를 드니 빌뇌브 감독의 영화 듄(Dune)에서 영감을 받은 영화적 SF 미학을 담은 40대 남성의 실사 이미지로 변환하기 위한 상세 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+참조 이미지의 캐릭터를 40대 초중반의 초현실적이고 실사 같은 남성 인간으로 변환하세요. 피부 모공, 미세한 수염, 상세한 피부 질감, 사실적인 눈동자 디테일, 자연스러운 피부 결점을 표현해야 합니다. 원본 그림의 비율이나 양식화된 해부학적 구조를 그대로 따르지 말고, 정확하고 자연스러운 인간의 해부학적 구조와 사실적인 비율을 우선시하세요. 헬멧은 항상 착용 상태를 유지하세요. 갑옷과 어울리는 메탈릭 틸(teal) 및 블랙 색상의 매끄럽고 몸에 딱 맞는 하이테크 헬멧이며, 바이저 부분은 얼굴이 명확하게 보이도록 하세요.
+
+참조 캐릭터와 정확히 동일한 매끄러운 하이테크 미래형 슈트와 갑옷을 착용시키세요. 무광 블랙과 메탈릭 틸 색상의 갑옷 플레이트에는 복잡한 기계적 디테일, 사실적인 반사 금속 질감, 미세한 마모, 흠집, 풍화 흔적을 표현하세요. 사진 속 듄(Dune)의 스틸슈트와 일치하도록 갑옷 디자인, 색상 구성, 스타일을 변경하지 마세요. 원래의 하이테크 틸 및 블랙 갑옷과 헬멧을 엄격하게 유지하세요. 자신감 넘치는 포즈를 그대로 유지하세요. 바위가 많은 사막 지형에 서서 왼손에는 똬리를 튼 로프/채찍을 들고, 오른손에는 긴 지팡이를 잡고 있어야 합니다. 지팡이는 상단에 올빼미 모양의 엠블럼이 빛나는 시안색 홀로그램 투영 장치가 달린 하이테크 홀로그램 지팡이로 변환하세요. 엠블럼은 사실적인 빛 번짐과 에너지 입자가 있는 빛나고 반투명한 홀로그램으로 만드세요. 가슴의 사자 엠블럼은 유지하되, 하이테크 슈트에 매끄럽게 통합된 빛나는 홀로그램 투영으로 렌더링하세요.
+
+스타일과 촬영 기법은 이 참조 사진과 정확히 일치해야 합니다. 드니 빌뇌브 감독의 듄(Dune)에서 볼 수 있는 웅장한 와이드 영화 스틸 컷 느낌으로, 대규모 영화 제작 퀄리티의 초현실적인 실사 느낌을 구현하세요. 선명한 푸른 하늘과 흩어진 흰 구름 아래 밝은 사막의 낮 배경, 사실적인 하이라이트와 깊은 그림자, 미세한 렌즈 플레어를 만드는 강렬한 자연광을 활용하세요. 따뜻한 모래 색조와 차가운 푸른 대기 색상이 대비를 이루며, 듄(Dune) 특유의 채도가 낮으면서도 생동감 넘치는 영화적 팔레트로 풍부한 색 보정을 적용하세요. 갑옷, 직물, 피부, 바위 지형의 초정밀 질감을 표현하세요. 먼지, 직물 짜임, 금속의 녹, 환경적 거친 느낌이 보여야 합니다. 볼륨감 있는 빛줄기, 부드러운 림 라이트, 전경의 캐릭터에 초점을 맞춘 얕은 피사계 심도와 배경의 약간의 보케 효과를 적용하세요. 필름 그레인, 아나모픽 렌즈 특성, 전문적인 컬러 타이밍, 그리고 정통 대형 포맷 영화 스틸의 느낌을 살리세요. 8k 해상도 퀄리티로 제작하며, 만화나 일러스트 같은 느낌이 전혀 없는 실사 이미지여야 합니다.
+```
+
+<img src="https://cms-assets.youmind.com/media/1781427142173_l4vvei_HKr2Fs5a4AAZ_v7.jpg" width="600" alt="듄(Dune) 스타일의 초현실적 캐릭터 변환">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6032)**
+
+**작성자:** [Moonlighter](https://x.com/moonlighter3000) | **출처:** [Link](https://x.com/moonlighter3000/status/2065734008026378505) | **게시일:** Jun 13, 2026
+
+---
+### 시네마틱 엑스칼리버 스페이스 나이트 오페라
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 1980년대 서사 영화 스타일과 하드 SF 미학, 우주 기사들을 결합한 고도로 상세한 시네마틱 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+존 부어먼의 1981년 서사 영화 '엑스칼리버' 스타일을 하드 SF 스페이스 오페라로 재해석한 웅장한 와이드 시네마틱 샷. 강렬한 림 라이트와 빛나는 에너지 포인트가 가미된 드라마틱한 키아로스쿠로 조명. 중앙에는 정교한 중세풍 판금 디테일과 푸른 에너지 라인, 갈라진 외계 행성 지면에 꽂힌 플라즈마 블레이드 형태의 미래형 대검을 갖춘, 빛나는 은백색 파워 아머를 입은 고귀한 우주 기사가 서 있습니다. 그는 빛나는 바이저가 달린 왕관 모양의 헬멧을 쓰고 있으며, 영웅적이고 강렬한 표정을 짓고 있습니다. 그 옆에는 흐르는 듯한 에너지 자수 원단과 보석 같은 크리스털 장식, 우아한 SF 스타일의 베일 헤드드레스를 착용한 화려한 백금색 미래형 드레스 차림의 위엄 있는 우주 여왕이 허리에 손을 얹고 신비롭고 압도적인 분위기를 자아냅니다. 그들 양옆으로는 빛나는 금속 갑옷을 입은 우주 기사들, 후드를 쓴 테크 미스틱들, 그리고 폐허가 된 고대 외계 사원 계단 위에서 화려한 예복을 입은 영주와 전사, 외계 궁신들이 자리하고 있습니다. 별이 빛나는 성운 하늘을 배경으로 한 드라마틱한 우주 풍경, 대기 중의 안개, 깊은 우주의 검은색과 풍부한 금색 및 일렉트릭 블루 하이라이트가 어우러진 색감, 금속 질감의 반사, 필름 그레인, 아나모픽 렌즈 느낌이 살아있는 서사적이고 신화적인 SF 분위기의 8k 시네마틱 스틸 컷 걸작.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/23bdccd9f077df216d0fdf9260d151e9/thumbnails/thumbnail.jpg" width="600" alt="시네마틱 엑스칼리버 스페이스 나이트 오페라">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6029)**
+
+**작성자:** [Moonlighter](https://x.com/moonlighter3000) | **출처:** [Link](https://x.com/moonlighter3000/status/2065693534481531035) | **게시일:** Jun 13, 2026
+
+---
 ### 성간 정찰선의 은하계 탐사
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -453,7 +646,7 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 초고해상도 애니메이션 스타일, 시네마틱 퍼스펙티브, 거칠고 드라마틱한 조명, 채도 높은 색감의 강렬한 대비. 주차장을 배경으로 한 로우 앵글의 기울어진 시네마틱 스트릿 스타일 샷으로, 보라색 오토바이 헬멧을 한 손에 들고 걸어가는 애니메이션 소녀를 뒤에서 올려다보는 모습입니다. 그녀는 타이트한 흰색 레이싱 팬츠와 "AgenC"라고 적힌 몸에 딱 맞는 그래픽 티셔츠, 노란색 부츠를 착용하고 있으며, 부츠 밑창 하나가 전경에 선명하고 디테일하게 강조됩니다. 강렬한 원근법이 거친 도시적 미학을 강조합니다. 그녀 앞에는 보라색 스트릿 바이크가 있습니다.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e8ae69bd74c24138b002ceea312124d/thumbnails/thumbnail.jpg" width="600" alt="오토바이 스트릿 스타일의 애니메이션 소녀">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dabbf9ca7a824642ec80bc1e4fbc2a30/thumbnails/thumbnail.jpg" width="600" alt="오토바이 스트릿 스타일의 애니메이션 소녀">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5962)**
 
@@ -866,7 +1059,7 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 섬세한 주근깨와 극도로 창백한 도자기 피부를 가진 창백하고 신비로운 여인의 사실적인 클로즈업 초상화, 부드럽게 흘러내리는 긴 생머리의 백금발, 감은 눈, 평온하고 신비로운 표정, 부드러운 복숭아빛 입술. 그녀는 날카로운 스파이크와 따뜻한 빛을 발산하는 호박색-오렌지색 스테인드글라스 조각이 장식된 매우 정교하고 화려한 다크 메탈 태양 광선 후광 왕관을 쓰고 있으며, 깊게 파인 네크라인과 섬세한 레이스가 달린 긴 소매, 복잡한 레이스 디테일, 넓고 화려한 금속 벨트가 특징인 화이트 판타지 드레스를 입고 있음. 미니멀하고 부드럽게 흐려진 중성적인 그라데이션 배경, 매우 깔끔하고 단순함.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/77c8cc5c96441380023e6fa29909756f/thumbnails/thumbnail.jpg" width="600" alt="태양 광선 후광 왕관을 쓴 신비로운 여인">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a533cb20e1a90db9c39380f6c2d868cf/thumbnails/thumbnail.jpg" width="600" alt="태양 광선 후광 왕관을 쓴 신비로운 여인">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5968)**
 
@@ -1062,7 +1255,7 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 실사 초상화, 신비롭고 아름다운 엘프 여성, 실루엣과 상반신이 드러나는 우아한 측후면 뷰, 부드럽고 우울한 표정으로 아래를 내려다보는 모습, 사실적인 피부 질감과 모공이 살아있는 창백한 도자기 피부, 자연스러운 광채, 어깨 위로 흘러내리는 사실적인 머릿결과 잔머리가 돋보이는 정교한 옆 땋은 은백색 긴 머리, 화려한 금색 진주 이어 커프를 착용한 섬세하고 뾰족한 엘프 귀, 등 위쪽과 어깨에 새겨진 크고 정교한 검은색과 빨간색 문신: 날카로운 가시 덩굴에 감긴 활짝 핀 붉은 장미, 초현실적인 명암 처리와 피부 표현, 어깨에서 흘러내리는 섬세하고 낡은 흰색 레이스 드레스, 사실적인 원단 질감과 레이스 디테일이 살아있는 해진 가장자리, 단색의 깊은 검은색 미니멀한 배경, 드라마틱하고 분위기 있는 연출, 섬세한 림 라이트가 가미된 부드러운 볼류메트릭 조명, 시네마틱하면서도 사실적인 느낌, 우아하고 신비로운 분위기.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1781254927989_8gwp49_HKOn2ZDXYAApIGa.jpg" width="600" alt="신비로운 엘프 여성 초상화">
+<img src="https://cms-assets.youmind.com/media/1781427149674_7vvrif_HKOn2ZDXYAApIGa.jpg" width="600" alt="신비로운 엘프 여성 초상화">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5802)**
 
@@ -2063,215 +2256,6 @@ GIF가 은퇴합니다. 수많은 팬이 모여 있고 벽면에는 행복한 �
 **작성자:** [Make Britain Great Again](https://x.com/DragonFlam7530) | **출처:** [Link](https://x.com/DragonFlam7530/status/2061485523634368997) | **게시일:** Jun 1, 2026
 
 ---
-### 치비 애니메이션 히어로와 로봇의 비행
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 히어로 망토를 두르고 하늘을 나는 치비 애니메이션 소녀와 로봇 친구를 위한 역동적인 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-금발, 보라색, 분홍색이 어우러진 긴 머리를 휘날리며 영웅적인 빨간 망토를 두른 귀여운 치비 애니메이션 소녀가 똑같이 히어로 망토를 두른 작고 사랑스러운 로봇 친구와 함께 하늘을 힘차게 날고 있습니다. 두 주인공이 함께 높이 날아오르는...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/21271aca2e9178c647ed1c6d2ce42299/thumbnails/thumbnail.jpg" width="600" alt="치비 애니메이션 히어로와 로봇의 비행">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5605)**
-
-**작성자:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **출처:** [Link](https://x.com/clemensilverio/status/2061471795023069195) | **게시일:** Jun 1, 2026
-
----
-### 꿈같은 하늘 엘리베이터 장면
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 빛과 안개를 뚫고 하얀 공허 속으로 올라가는 엘리베이터를 위한 미니멀리즘 예술 영화 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-오래된 엘리베이터 내부의 고정 카메라, 문이 닫힙니다. 벽 대신 열린 하늘과 떠다니는 구름이 공간을 채우고, 엘리베이터는 빛과 안개를 뚫고 부드럽게 상승합니다. 문이 열리면 하얀 공허가 나타납니다. 미니멀리즘, 꿈같은 예술 영화 스타일. 오디오: 희미한 케이블 소음.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f3b8cbbd21ac7e492932d508924c1c8d/thumbnails/thumbnail.jpg" width="600" alt="꿈같은 하늘 엘리베이터 장면">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5600)**
-
-**작성자:** [Mr Das](https://x.com/MrDasOnX) | **출처:** [Link](https://x.com/MrDasOnX/status/2061450489112506714) | **게시일:** Jun 1, 2026
-
----
-### Modern Warfare 액션 트레일러 JSON
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 10초 분량의 고강도 전쟁 영화 트레일러를 위한 상세한 JSON 구조 프롬프트로, 특정 샷 타이밍과 카메라 움직임을 포함합니다.
-
-#### 📝 프롬프트
-
-```
-{
-  "duration": "10초",
-  "style": "초고강도, 고옥탄가 포토리얼리스틱 전쟁 액션 트레일러. 숨 가쁜 페이싱, 대규모 폭발, 끊임없는 전투, 압도적인 VFX, 영화적이면서도 공격적인 카메라 워크",
-  "aspect_ratio": "16:9",
-  "timeline": [
-    {
-      "time": "0-1.8초",
-      "description": "전술 장비를 착용한 군인이 빗발치는 총격과 폭발을 피해 전쟁으로 폐허가 된 거리를 전속력으로 질주함. 공격적인 모션 블러와 렌즈 플레어가 가미된 빠른 궤도 카메라가 액션을 간신히 따라잡음.",
-      "transition": "혼돈 속으로 진입하는 고에너지 트래킹 샷"
-    },
-    {
-      "time": "1.8-3.6초",
-      "description": "군인 바로 옆에서 거대한 폭발이 일어남. 카메라가 격렬하게 흔들리며 파편, 화염, 충격파를 뚫고 나감. 배경에서는 다수의 2차 폭발이 연쇄적으로 발생함. 압도적인 입자들의 혼돈.",
-      "transition": "카메라 흔들림을 동반한 격렬한 폭발 돌파"
-    },
-    {
-      "time": "3.6-5.5초",
-      "description": "초공격적인 슬로우 모션 불릿 타임. 군인이 몸을 날리며 응사하고, 총알이 빗발침. 카메라가 그를 중심으로 고속 회전함. 격렬한 총격전 주변으로 쓰러진 군인들의 디지털 고스트 잔상이 번뜩임.",
-      "transition": "빠른 회전과 슬로우 모션의 결합"
-    },
-    {
-      "time": "5.5-7.3초",
-      "description": "거대하고 잔혹한 전장을 드러내는 폭발적인 상승 샷. 탱크의 포격, 보병의 근접 전투, 공습, 하늘을 밝히는 거대한 화염구. 붉은색 홀로그램 오버레이가 화면 전체에 공격적으로 점멸함.",
-      "transition": "전장의 규모를 보여주는 급상승 샷"
-    },
-    {
-      "time": "7.3-9초",
-      "description": "카메라가 다시 전투의 심장부로 급강하함. 집중 포화 속에서 재장전하고 사격하는 군인의 익스트림 클로즈업. 강렬한 붉은색 컬러 그레이딩, 불꽃, 총구 화염, 카메라를 향해 튀는 불씨. 다급하게 업데이트되는 홀로그램 UI.",
-      "transition": "근접 전투로의 공격적인 다이빙 줌"
-    },
-    {
-      "time": "9-10초",
-      "description": "완전한 혼돈에 빠진 전장 전체를 보여주는 마지막 폭발적인 와이드 풀백 샷. 다수의 거대한 폭발, 사방으로 튀는 예광탄, 불타는 차량들. 강력한 충격파와 파편 효과와 함께 'Modern Warfare 4' 타이틀이 강렬하게 등장.",
-      "transition": "최대치의 임팩트를 주는 에픽하고 혼돈스러운 확장 샷"
-    }
-  ],
-  "camera_notes": "매우 역동적이고 공격적인 카메라 워크. 빠른 궤도 이동, 폭발 시의 격렬한 흔들림, 급상승/급강하 움직임, 고속 트래킹. 영화적 품질을 유지하면서도 쉴 틈 없이 몰아치는 페이싱.",
-  "vfx_notes": "최대치의 볼거리: 연쇄 폭발, 무거운 파편, 충격파, 총알 예광탄, 총구 화염, 불타는 차량, 대규모 화염구, 디지털 고스트 군인, 공격적인 홀로그램 UI, 카메라를 향해 튀는 불꽃과 불씨."
-}
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1e178293220cf4fb008e2a2d35b82529/thumbnails/thumbnail.jpg" width="600" alt="Modern Warfare 액션 트레일러 JSON">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5602)**
-
-**작성자:** [AI enthusiast, YT AIAcademy 인공지능아카데미,](https://x.com/AIAcademykorea) | **출처:** [Link](https://x.com/AIAcademykorea/status/2061395464696799568) | **게시일:** Jun 1, 2026
-
----
-### 시뮬레이션 속 글리치 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 글리치하고 몽환적인 시뮬레이션 비주얼을 생성하기 위한 초현실적이고 분위기 있는 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-시뮬레이션 속 모든 글리치 여러분, 좋은 아침입니다… 이제 꿈속에서 깨어날 시간입니다. 신호는 여전히 남아 있습니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8d8ed9ca6a26790e8f0492916e0be1b/thumbnails/thumbnail.jpg" width="600" alt="시뮬레이션 속 글리치 프롬프트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5645)**
-
-**작성자:** [SophieZX](https://x.com/Z_XSophie) | **출처:** [Link](https://x.com/Z_XSophie/status/2061385668295643347) | **게시일:** Jun 1, 2026
-
----
-### 포르투 스카이라인 위로 떠오른 블루문
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 포르투의 상징적인 스카이라인 위로 떠오르는 사실적인 블루문을 담은 시네마틱 영상 프롬프트입니다. 도루강에 비친 풍경과 정교한 건축물을 특징으로 합니다.
-
-#### 📝 프롬프트
-
-```
-황혼 무렵 포르투 스카이라인 위로 떠오르는 블루문의 사실적인 이미지. 클레리고스 탑이나 히베이라 지구의 지붕 뒤로 거대한 푸른빛의 보름달이 솟아오르고, 아래쪽에는 따뜻한 도시의 불빛이 반짝이기 시작하며, 도루강이 그 풍경을 비춥니다. 드라마틱한 구름, 시네마틱한 분위기, 초정밀 건축물과 달 표면 묘사, 8K 수준의 사실적인 화질.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/da69e255182eab954dc72fcc5d32a50f/thumbnails/thumbnail.jpg" width="600" alt="포르투 스카이라인 위로 떠오른 블루문">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5595)**
-
-**작성자:** [erna](https://x.com/ernDju) | **출처:** [Link](https://x.com/ernDju/status/2061333728673087894) | **게시일:** Jun 1, 2026
-
----
-### 척 팔라닉의 고통에 관한 명언 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 고통과 기억에 관한 척 팔라닉의 명언을 바탕으로 한 철학적인 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-고통을 잊기란 너무나 어렵지만, 달콤했던 순간을 기억하기란 더 어렵다. 우리에게는 행복의 흔적으로 남은 흉터가 없다. 평화 속에서 우리는 너무나 적게 배운다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5c5db125afc64716188098310ca9c449/thumbnails/thumbnail.jpg" width="600" alt="척 팔라닉의 고통에 관한 명언 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5642)**
-
-**작성자:** [Déborah](https://x.com/dvorahfr) | **출처:** [Link](https://x.com/dvorahfr/status/2061293017911169512) | **게시일:** Jun 1, 2026
-
----
-### 달빛 아래 언덕 위 발레리나의 춤
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 은하수 아래 언덕에서 춤을 추는 우아한 발레리나의 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-언덕 위에서 회전하는 발레리나, 달빛이 비치는 밤, 은하수, 반짝이는 연두색 드레스… 밤의 자연과 함께 춤추는 모습을 표현
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c048d847b742ff3693aa47f508a80283/thumbnails/thumbnail.jpg" width="600" alt="달빛 아래 언덕 위 발레리나의 춤">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5598)**
-
-**작성자:** [Akki](https://x.com/whateverakki) | **출처:** [Link](https://x.com/whateverakki/status/2061291723737670139) | **게시일:** Jun 1, 2026
-
----
-### 헤르메스의 비행 신발 애니메이션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 그리스 신화의 헤르메스가 마법의 비행 신발을 신고 현대적인 배경에서 제우스와 교류하는 모습을 담은 기발한 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-헤르메스가 초고속 비행 신발과 날개 달린 멋진 모자를 얻어 새보다 빠르게 날아다닙니다! 그는 심지어 제우스에게 평범한 사람처럼 옷을 입고 즐거운 모험을 즐기는 법을 가르쳐 주기도 하죠. 이제 이 빠른 장난꾸러기는 어디든 도울 준비가 되었습니다!
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/30a83309bc20d3575c8fb77a3a4a6263/thumbnails/thumbnail.jpg" width="600" alt="헤르메스의 비행 신발 애니메이션">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5601)**
-
-**작성자:** [the don of hockey](https://x.com/don_allain) | **출처:** [Link](https://x.com/don_allain/status/2061256565160595499) | **게시일:** Jun 1, 2026
-
----
-### 하이 패션 산업용 창고 장면
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 거친 산업용 창고를 배경으로 쿠튀르 드레스를 입은 여성이 등장하는 세련된 패션 에디토리얼 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-버려진 창고 안에서 거대한 쿠튀르 드레스를 입은 매혹적인 여성의 모습을 담은 초현실적인 하이 패션 에디토리얼 장면으로, 럭셔리 패션과 거친 산업적 분위기가 조화를 이룹니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/84b1fc7e2161665e2a36130ffd48c3b0/thumbnails/thumbnail.jpg" width="600" alt="하이 패션 산업용 창고 장면">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5599)**
-
-**작성자:** [Belinda Smith](https://x.com/BelindaSmith88) | **출처:** [Link](https://x.com/BelindaSmith88/status/2061243658716799432) | **게시일:** Jun 1, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2333,6 +2317,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-14T05:04:19.336Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-14T11:13:10.920Z</sub>
 
 </div>

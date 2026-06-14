@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1809** |
+| 📝 Total Prompts | **1818** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-14** |
 
@@ -189,6 +189,199 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Thiên thần thoát tục trên bãi biển Barcelona
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh mô tả chi tiết để tạo hoạt ảnh về một thiên thần thoát tục với đôi cánh lông vũ vàng và đôi mắt xanh lục đang đứng trên bãi biển vào giờ vàng.
+
+#### 📝 Prompt
+
+```
+thiên thần thoát tục với đôi mắt xanh lục sáng rực, những chiếc lông vũ bằng vàng 24k bay lơ lửng xung quanh, đôi cánh vô hình, đứng duyên dáng trên bãi biển Barcelona vào giờ vàng, năng lượng nữ tính thần thánh, vẻ đẹp thiên giới, mơ màng và tỏa sáng
+•  thiên thần thoát tục
+•  vẻ đẹp thiên giới
+•  nữ tính thần thánh
+•  nữ thần giờ vàng
+•  thiên thần huyền bí
+•  thực thể thiên đường
+•  thiên thần mơ màng
+•  vẻ đẹp siêu thực
+•  sự hiện diện của thiên thần
+•  thiên thần tỏa sáng
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e93302c0291c27c8f192a971f7ef2eb1/thumbnails/thumbnail.jpg" width="600" alt="Thiên thần thoát tục trên bãi biển Barcelona">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6033)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2065908255382184326) | **Published:** Jun 13, 2026
+
+---
+### Cảnh quay tĩnh mang phong cách điện ảnh về chủ đề Kinh Thánh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video điện ảnh cho cảnh quay tĩnh lấy cảm hứng từ sách Đa-ni-ên trong Cựu Ước.
+
+#### 📝 Prompt
+
+```
+cảnh quay tĩnh trông giống như câu chuyện trong sách Đa-ni-ên từ Cựu Ước
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0832c01c153ba6a6966e4672e269439a/thumbnails/thumbnail.jpg" width="600" alt="Cảnh quay tĩnh mang phong cách điện ảnh về chủ đề Kinh Thánh">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6028)**
+
+**Author:** [Mary Jeanne Bautista Concepcion Cincotta](https://x.com/CincottaMary) | **Source:** [Link](https://x.com/CincottaMary/status/2065903975052751107) | **Published:** Jun 13, 2026
+
+---
+### Lướt trong ống sóng thủy triều
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh hành động mô tả một vận động viên lướt sóng đang cưỡi bên trong ống của một con sóng thủy triều khổng lồ.
+
+#### 📝 Prompt
+
+```
+Hãy tưởng tượng anh ấy đang trên ván lướt sóng, cưỡi trong ống của một con sóng thủy triều và hét lên cảm ơn ondoggie vì đã dạy tôi cách lướt sóng
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4609057e0760947ba35a3b1256e60ea2/thumbnails/thumbnail.jpg" width="600" alt="Lướt trong ống sóng thủy triều">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6034)**
+
+**Author:** [Jason t](https://x.com/doctani79) | **Source:** [Link](https://x.com/doctani79/status/2065886545970942265) | **Published:** Jun 13, 2026
+
+---
+### Video quảng cáo hành lý cao cấp đậm chất điện ảnh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) tạo video chuyên nghiệp mang phong cách điện ảnh cho thương hiệu hành lý sang trọng, với hình ảnh người mẫu trên bảng quảng cáo kỹ thuật số tại trạm xe buýt đô thị.
+
+#### 📝 Prompt
+
+```
+Video quảng cáo hành lý sang trọng đầy tính nghệ thuật siêu thực tại một trạm xe buýt đô thị hiện đại, nổi bật với bảng quảng cáo kỹ thuật số khung đen lớn được tích hợp vào kiến trúc đường phố. Trên màn hình quảng cáo, một người mẫu thời trang mặc áo blazer thiết kế riêng màu be, quần tây tối màu và giày cao gót cùng tông màu be, đang cầm bộ vali vỏ cứng cao cấp. Cô ấy đứng trên bục như thể đang bước vào hoặc bước ra khỏi khung hình. Ánh sáng mang phong cách quảng cáo cao cấp với độ sáng dịu nhẹ và các điểm phản chiếu sắc nét. Chất lượng điện ảnh 8k, chân thực như ảnh chụp, thanh lịch, mang phong cách đô thị thời thượng.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/93f5ee4787e6a616e30b49e9cdf6ea30/thumbnails/thumbnail.jpg" width="600" alt="Video quảng cáo hành lý cao cấp đậm chất điện ảnh">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6027)**
+
+**Author:** [Alamgir Hossain](https://x.com/mdalamgir95) | **Source:** [Link](https://x.com/mdalamgir95/status/2065846622324674965) | **Published:** Jun 13, 2026
+
+---
+### Cảnh đối thoại điện ảnh trên núi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt tường thuật với góc máy lia qua những ngọn núi và cánh rừng, cùng đoạn đối thoại giữa hai nhân vật Jilla và Rolf.
+
+#### 📝 Prompt
+
+```
+Jilla dừng lại một chút để ngắm nhìn vẻ đẹp xung quanh. Máy quay lia qua những ngọn núi, những dòng sông chảy xiết, những con suối róc rách và làn gió nhẹ thổi qua rừng thông cách đó hàng ngàn feet.
+
+Rolf nói: "Đẹp thật, phải không Jilla?"
+
+Jilla trầm trồ đầy kinh ngạc: "Một khung cảnh đáng để khắc ghi trong tim". Cô nhìn Rolf và mỉm cười.
+
+Rolf nói: "Chuyến leo núi này thật xứng đáng."
+
+Jilla đáp: "Từng bước chân một."
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/753193e18c82e85956747b8d78ce3e96/thumbnails/thumbnail.jpg" width="600" alt="Cảnh đối thoại điện ảnh trên núi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6030)**
+
+**Author:** [Kim Maria](https://x.com/KimMari46054539) | **Source:** [Link](https://x.com/KimMari46054539/status/2065845361697038839) | **Published:** Jun 13, 2026
+
+---
+### Video thời trang thanh lịch trên sân thượng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video về một người phụ nữ mặc trang phục trắng thanh lịch cùng trang sức, đang đứng trên sân thượng.
+
+#### 📝 Prompt
+
+```
+Hãy tạo hình ảnh tôi đang đứng trên sân thượng, mặc trang phục trắng toàn bộ, búi tóc cao và đeo trang sức tuyệt đẹp
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3ea702523ce2c9a822acfe1d000f9f1f/thumbnails/thumbnail.jpg" width="600" alt="Video thời trang thanh lịch trên sân thượng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6026)**
+
+**Author:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **Source:** [Link](https://x.com/CindyWeigapn6/status/2065769581789012075) | **Published:** Jun 13, 2026
+
+---
+### Hải ly thợ mộc với bộ phản lực
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý hoạt hình sáng tạo với hình ảnh những chú hải ly sử dụng bộ phản lực và dụng cụ mộc trong bối cảnh hình học thiêng liêng.
+
+#### 📝 Prompt
+
+```
+Những chú hải ly có rất nhiều việc phải làm nên chúng sử dụng bộ phản lực để đẩy nhanh tiến độ. Dù vậy, chúng vẫn làm việc rất tỉ mỉ và áp dụng các nguyên tắc hình học thiêng liêng. Chúng khoác trên mình và sử dụng những dụng cụ của một bậc thầy thợ mộc....
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c1da7871a13d012fdcf7800785eea440/thumbnails/thumbnail.jpg" width="600" alt="Hải ly thợ mộc với bộ phản lực">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6031)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2065768512715370712) | **Published:** Jun 13, 2026
+
+---
+### Biến đổi nhân vật theo phong cách Dune siêu thực
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) chi tiết giúp biến đổi nhân vật từ ảnh tham chiếu thành nam giới độ tuổi 40 với vẻ ngoài chân thực, mang tính thẩm mỹ điện ảnh khoa học viễn tưởng lấy cảm hứng từ bộ phim Dune của Denis Villeneuve.
+
+#### 📝 Prompt
+
+```
+Biến đổi nhân vật từ ảnh tham chiếu thành một người đàn ông trưởng thành với vẻ ngoài siêu thực, chân thực đến từng chi tiết: lỗ chân lông rõ nét, râu quai nón mờ, kết cấu da chi tiết, đôi mắt sống động và các khuyết điểm tự nhiên trên da. Sử dụng tỷ lệ cơ thể người thực tế — không tuân theo tỷ lệ hoặc giải phẫu cách điệu của bản vẽ gốc; ưu tiên giải phẫu người chính xác, tự nhiên và tỷ lệ thực tế. Luôn giữ nguyên chiếc mũ bảo hiểm trên đầu — một chiếc mũ công nghệ cao, ôm sát, màu xanh mòng két kim loại và đen, đồng bộ với bộ giáp, với phần kính che mặt để lộ rõ khuôn mặt.
+
+Nhân vật mặc bộ giáp và trang phục công nghệ cao tương lai giống hệt nhân vật trong ảnh tham chiếu: các tấm giáp màu đen nhám và xanh mòng két kim loại với chi tiết cơ khí phức tạp, kết cấu kim loại phản chiếu chân thực, có dấu hiệu mòn, trầy xước và phong hóa nhẹ. Không thay đổi thiết kế, bảng màu hoặc phong cách của bộ giáp để giống với bộ đồ sa mạc (stillsuit) trong ảnh Dune — hãy giữ nguyên bộ giáp và mũ bảo hiểm màu xanh mòng két và đen công nghệ cao ban đầu. Giữ nguyên tư thế tự tin: đứng trên địa hình sa mạc đá, tay trái cầm một sợi dây thừng/roi cuộn bên hông, tay phải nắm một cây gậy cao. Chuyển đổi cây gậy thành gậy phát tia hologram công nghệ cao với các hình chiếu hologram màu lục lam rực rỡ tạo thành biểu tượng giống cú ở phía trên — biến biểu tượng đó thành một hình chiếu hologram trong suốt, phát sáng với hiệu ứng tán xạ ánh sáng và các hạt năng lượng chân thực. Giữ lại biểu tượng sư tử trên ngực nhưng thể hiện nó dưới dạng hình chiếu hologram phát sáng được tích hợp liền mạch vào bộ đồ công nghệ cao.
+
+Phong cách và kỹ thuật quay phim phải khớp chính xác với ảnh tham chiếu này: ảnh tĩnh điện ảnh góc rộng hoành tráng từ bộ phim Dune của Denis Villeneuve, độ chân thực siêu thực với chất lượng sản xuất phim bom tấn cao cấp. Ánh sáng ban ngày rực rỡ trên sa mạc dưới bầu trời xanh sống động với những đám mây trắng rải rác, ánh nắng tự nhiên mạnh mẽ tạo ra các điểm nhấn chân thực, bóng đổ sâu và hiệu ứng lóe sáng ống kính (lens flare) tinh tế. Tông màu cát ấm áp tương phản với bầu trời xanh mát mẻ, dải tương động cao (HDR), phân loại màu sắc phong phú với bảng màu điện ảnh bão hòa nhưng vẫn sống động đặc trưng của Dune. Kết cấu siêu chi tiết trên giáp, vải, da và địa hình đá — bụi bặm, vân vải, lớp gỉ kim loại và sạn môi trường có thể nhìn thấy rõ. Tia sáng thể tích, ánh sáng viền mềm mại, độ sâu trường ảnh nông với tiêu điểm sắc nét vào nhân vật ở tiền cảnh và hiệu ứng bokeh nhẹ ở hậu cảnh. Hạt phim, đặc tính ống kính anamorphic, căn chỉnh màu chuyên nghiệp và cảm giác chân thực của ảnh tĩnh phim khổ lớn. Chất lượng độ phân giải 8k, siêu thực, không có các chi tiết hoạt hình hoặc minh họa.
+```
+
+<img src="https://cms-assets.youmind.com/media/1781427142173_l4vvei_HKr2Fs5a4AAZ_v7.jpg" width="600" alt="Biến đổi nhân vật theo phong cách Dune siêu thực">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6032)**
+
+**Author:** [Moonlighter](https://x.com/moonlighter3000) | **Source:** [Link](https://x.com/moonlighter3000/status/2065734008026378505) | **Published:** Jun 13, 2026
+
+---
+### Cinematic Excalibur Space Knight Opera
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) điện ảnh chi tiết cao, kết hợp phong cách phim sử thi thập niên 1980 với thẩm mỹ khoa học viễn tưởng cứng (hard sci-fi) và các hiệp sĩ không gian.
+
+#### 📝 Prompt
+
+```
+Một cảnh quay điện ảnh góc rộng đầy uy nghi theo phong cách phim Excalibur năm 1981 của John Boorman, được tái hiện dưới dạng opera không gian khoa học viễn tưởng cứng, ánh sáng chiaroscuro kịch tính với đèn viền cường độ cao và các điểm nhấn năng lượng rực rỡ. Một hiệp sĩ không gian cao quý đứng ở trung tâm trong bộ giáp năng lượng màu bạc trắng sáng bóng, với các chi tiết tấm giáp lấy cảm hứng từ thời trung cổ, các đường năng lượng màu xanh lam phát sáng và một thanh đại kiếm tương lai với lưỡi plasma cắm trên nền đất hành tinh nứt nẻ. Anh đội mũ bảo hiểm có vương miện với tấm che mặt phát sáng, biểu cảm anh hùng đầy mãnh liệt. Bên cạnh anh là một nữ hoàng không gian uy nghiêm trong chiếc váy tương lai màu trắng vàng lộng lẫy với lớp vải thêu năng lượng bồng bềnh, các điểm nhấn pha lê đính đá quý và chiếc khăn trùm đầu khoa học viễn tưởng thanh lịch, tay chống hông, toát lên vẻ thanh tao và quyền uy. Hai bên họ là các hiệp sĩ không gian mặc giáp kim loại sáng bóng, các nhà thần bí công nghệ trùm đầu, cùng đám đông các lãnh chúa, chiến binh và cận thần ngoài hành tinh trong những bộ lễ phục sang trọng trên các bậc thang của một ngôi đền cổ ngoài hành tinh đổ nát. Phông nền vũ trụ kịch tính với bầu trời tinh vân đầy sao, sương mù khí quyển, sắc đen không gian sâu thẳm hòa quyện với những điểm nhấn màu vàng đậm và xanh điện, phản chiếu kim loại, hạt phim, cảm giác ống kính anamorphic, bầu không khí khoa học viễn tưởng huyền thoại sử thi, kiệt tác, ảnh tĩnh điện ảnh 8k
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/23bdccd9f077df216d0fdf9260d151e9/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Excalibur Space Knight Opera">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6029)**
+
+**Author:** [Moonlighter](https://x.com/moonlighter3000) | **Source:** [Link](https://x.com/moonlighter3000/status/2065693534481531035) | **Published:** Jun 13, 2026
+
+---
 ### Khám phá tàu thăm dò liên sao
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -453,7 +646,7 @@ Giữ nguyên hình ảnh người phụ nữ giống hệt trong ảnh tham chi
 Phong cách anime siêu chi tiết, góc nhìn điện ảnh, ánh sáng kịch tính và gai góc, độ tương phản mạnh với màu sắc bão hòa. Góc quay thấp nghiêng theo phong cách đường phố tại một bãi đỗ xe, nhìn từ phía sau lên một cô gái anime đang cầm mũ bảo hiểm mô tô màu tím trên tay và đang bước đi. Cô ấy mặc quần đua bó sát màu trắng, áo thun in hình ôm sát có chữ "AgenC" và đi ủng màu vàng, với phần đế của một chiếc ủng chiếm ưu thế ở tiền cảnh một cách sắc nét. Góc nhìn nhấn mạnh tính thẩm mỹ đô thị, gai góc với kỹ thuật phối cảnh rút ngắn táo bạo. Phía trước cô ấy là một chiếc xe mô tô đường phố màu tím.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e8ae69bd74c24138b002ceea312124d/thumbnails/thumbnail.jpg" width="600" alt="Cô gái Anime với phong cách đường phố cùng xe mô tô">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dabbf9ca7a824642ec80bc1e4fbc2a30/thumbnails/thumbnail.jpg" width="600" alt="Cô gái Anime với phong cách đường phố cùng xe mô tô">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5962)**
 
@@ -866,7 +1059,7 @@ VÀ TÔI CŨNG VẬY.
 chân dung cận cảnh chân thực của một người phụ nữ thanh tao, da trắng nhợt, tàn nhang tinh tế, làn da sứ cực kỳ nhợt nhạt, mái tóc dài thẳng màu vàng bạch kim buông xõa nhẹ nhàng, đôi mắt nhắm nghiền, biểu cảm thanh thản và huyền bí, đôi môi màu đào dịu nhẹ. Cô ấy đội một chiếc vương miện hào quang bằng kim loại tối màu tinh xảo với các gai nhọn và những mảnh kính màu cam hổ phách phát sáng tỏa ra ánh sáng ấm áp, váy trắng giả tưởng : cổ khoét sâu, tay áo dài ôm sát với ren tinh tế, các chi tiết ren phức tạp, thắt lưng kim loại trang trí rộng bản. Nền gradient trung tính mờ ảo tối giản, rất sạch sẽ và đơn giản.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/77c8cc5c96441380023e6fa29909756f/thumbnails/thumbnail.jpg" width="600" alt="Người phụ nữ thanh tao với vương miện hào quang rực rỡ">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a533cb20e1a90db9c39380f6c2d868cf/thumbnails/thumbnail.jpg" width="600" alt="Người phụ nữ thanh tao với vương miện hào quang rực rỡ">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5968)**
 
@@ -1062,7 +1255,7 @@ Ngôi nhà cổ tích ấm cúng tỏa sáng trong ánh hoàng hôn… hoa hồn
 chân dung chân thực, nữ yêu tinh xinh đẹp thanh thoát, góc nhìn nghiêng từ phía sau đầy thanh lịch làm nổi bật hình dáng và phần thân trên, ánh nhìn hướng xuống với biểu cảm u sầu nhẹ nhàng, làn da trắng sứ với kết cấu và lỗ chân lông chân thực, ánh sáng tự nhiên, mái tóc dài màu bạc trắng bồng bềnh tết lệch cầu kỳ với từng sợi tóc chân thực và những sợi tóc con xõa xuống vai, đôi tai yêu tinh nhọn tinh tế với khuyên tai ngọc trai vàng chạm trổ, hình xăm lớn phức tạp màu đen và đỏ trên lưng và vai: đóa hoa hồng đỏ nở rộ quấn quanh những dây leo đầy gai nhọn, đổ bóng siêu thực và sự tương tác trên da, chiếc váy ren trắng rách tinh tế trễ vai, các mép sờn với kết cấu vải chân thực và chi tiết ren, nền đen tối giản, bầu không khí điện ảnh đầy tâm trạng, ánh sáng khối dịu nhẹ với ánh sáng viền tinh tế, mang tính điện ảnh nhưng vẫn chân thực, thanh lịch và bí ẩn.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1781254927989_8gwp49_HKOn2ZDXYAApIGa.jpg" width="600" alt="Chân dung nữ yêu tinh thanh thoát">
+<img src="https://cms-assets.youmind.com/media/1781427149674_7vvrif_HKOn2ZDXYAApIGa.jpg" width="600" alt="Chân dung nữ yêu tinh thanh thoát">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5802)**
 
@@ -2063,215 +2256,6 @@ Cô gái lai du hành thời gian vừa hạ cánh và bước ra khỏi cỗ m�
 **Author:** [Make Britain Great Again](https://x.com/DragonFlam7530) | **Source:** [Link](https://x.com/DragonFlam7530/status/2061485523634368997) | **Published:** Jun 1, 2026
 
 ---
-### Anh hùng Anime Chibi và Robot bay lượn
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video năng động về một cô bé anime chibi và người bạn đồng hành robot đang bay trên bầu trời với áo choàng anh hùng.
-
-#### 📝 Prompt
-
-```
-Một cô bé anime chibi dễ thương với mái tóc dài bồng bềnh pha trộn giữa màu vàng, tím và hồng, khoác trên mình chiếc áo choàng đỏ anh hùng, đang bay đầy năng lượng trên bầu trời bên cạnh một người bạn đồng hành robot nhỏ nhắn đáng yêu cũng đang mặc chiếc áo choàng anh hùng tương tự. Cả hai đang cùng nhau bay vút lên cao...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/21271aca2e9178c647ed1c6d2ce42299/thumbnails/thumbnail.jpg" width="600" alt="Anh hùng Anime Chibi và Robot bay lượn">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5605)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2061471795023069195) | **Published:** Jun 1, 2026
-
----
-### Cảnh thang máy trên bầu trời mơ màng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) nghệ thuật điện ảnh tối giản về chiếc thang máy đang đi lên xuyên qua ánh sáng và sương mù vào khoảng không trắng xóa.
-
-#### 📝 Prompt
-
-```
-Góc máy cố định bên trong một chiếc thang máy cũ khi cửa đóng lại; thay vì những bức tường, bầu trời rộng mở và những đám mây trôi lơ lửng lấp đầy không gian; thang máy nhẹ nhàng đi lên xuyên qua ánh sáng và sương mù; cửa mở ra một khoảng không trắng xóa. Nghệ thuật điện ảnh tối giản, mơ màng. Âm thanh: tiếng cáp thang máy rì rào.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f3b8cbbd21ac7e492932d508924c1c8d/thumbnails/thumbnail.jpg" width="600" alt="Cảnh thang máy trên bầu trời mơ màng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5600)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2061450489112506714) | **Published:** Jun 1, 2026
-
----
-### JSON cho Trailer Hành động Chiến tranh Hiện đại
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt cấu trúc JSON chi tiết cho trailer phim chiến tranh kịch tính dài 10 giây, bao gồm thời gian quay và chuyển động camera cụ thể.
-
-#### 📝 Prompt
-
-```
-{
-  "duration": "10 giây",
-  "style": "Trailer hành động chiến tranh chân thực, cường độ cao, cực kỳ kịch tính. Nhịp độ dồn dập, các vụ nổ quy mô lớn, chiến đấu không ngừng nghỉ, hiệu ứng VFX choáng ngợp, kỹ thuật quay phim điện ảnh nhưng đầy mạnh mẽ",
-  "aspect_ratio": "16:9",
-  "timeline": [
-    {
-      "time": "0-1.8 giây",
-      "description": "Người lính mặc trang bị chiến thuật chạy hết tốc lực qua những con phố đổ nát vì chiến tranh trong khi bị truy đuổi bởi hỏa lực hạng nặng và các vụ nổ. Camera xoay nhanh với hiệu ứng nhòe chuyển động mạnh và lóa ống kính, khó lòng bắt kịp hành động.",
-      "transition": "Cảnh quay theo dõi tràn đầy năng lượng lao vào sự hỗn loạn"
-    },
-    {
-      "time": "1.8-3.6 giây",
-      "description": "Một vụ nổ lớn bùng phát ngay bên cạnh người lính. Camera rung lắc dữ dội và xuyên qua các mảnh vỡ, lửa và sóng xung kích đang bay. Nhiều vụ nổ phụ liên tiếp xảy ra ở phía sau. Sự hỗn loạn của các hạt bụi bặm choáng ngợp.",
-      "transition": "Cú đẩy camera xuyên qua vụ nổ dữ dội kèm rung lắc"
-    },
-    {
-      "time": "3.6-5.5 giây",
-      "description": "Hiệu ứng bullet time quay chậm cực kỳ mạnh mẽ. Người lính lao mình và bắn trả trong khi đạn bay vèo qua. Camera xoay quanh anh ta với tốc độ cao. Những bóng ma kỹ thuật số của những người lính đã ngã xuống lóe lên dữ dội xung quanh cuộc đọ súng căng thẳng.",
-      "transition": "Xoay camera nhanh ở chế độ quay chậm"
-    },
-    {
-      "time": "5.5-7.3 giây",
-      "description": "Cảnh quay từ dưới lên đầy bùng nổ, hé lộ một chiến trường tàn khốc và rộng lớn. Xe tăng khai hỏa, bộ binh chiến đấu cận chiến, các cuộc không kích và những quả cầu lửa khổng lồ thắp sáng bầu trời. Các lớp phủ hình ảnh ba chiều màu đỏ nhấp nháy mạnh mẽ trên khung hình.",
-      "transition": "Cảnh quay từ dưới lên nhanh chóng hé lộ quy mô chiến trường"
-    },
-    {
-      "time": "7.3-9 giây",
-      "description": "Camera lao thẳng trở lại tâm điểm của trận chiến. Cận cảnh người lính đang nạp đạn và khai hỏa dưới làn đạn dày đặc. Tông màu đỏ rực rỡ, tia lửa, ánh chớp đầu nòng và tàn lửa bay thẳng về phía camera. Giao diện người dùng ba chiều cập nhật liên tục.",
-      "transition": "Cú zoom lao vào cận cảnh chiến đấu mạnh mẽ"
-    },
-    {
-      "time": "9-10 giây",
-      "description": "Cảnh quay cuối cùng kéo lùi ra xa toàn cảnh vùng chiến sự trong sự hỗn loạn hoàn toàn. Nhiều vụ nổ lớn, đạn vạch đường bay khắp nơi và các phương tiện đang bốc cháy. Tiêu đề 'Modern Warfare 4' xuất hiện cùng sóng xung kích mạnh mẽ và hiệu ứng mảnh vỡ bay.",
-      "transition": "Cảnh quay mở rộng đầy hỗn loạn và ấn tượng"
-    }
-  ],
-  "camera_notes": "Kỹ thuật quay phim cực kỳ năng động và mạnh mẽ. Xoay nhanh, rung lắc dữ dội trong các vụ nổ, chuyển động lên/xuống nhanh và theo dõi tốc độ cao. Nhịp độ dồn dập và nghẹt thở nhưng vẫn duy trì chất lượng điện ảnh.",
-  "vfx_notes": "Cảnh tượng mãn nhãn tối đa: chuỗi vụ nổ, mảnh vỡ dày đặc, sóng xung kích, đạn vạch đường, ánh chớp đầu nòng, phương tiện bốc cháy, quả cầu lửa quy mô lớn, bóng ma kỹ thuật số, giao diện ba chiều mạnh mẽ, tia lửa và tàn lửa bay thẳng vào camera."
-}
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1e178293220cf4fb008e2a2d35b82529/thumbnails/thumbnail.jpg" width="600" alt="JSON cho Trailer Hành động Chiến tranh Hiện đại">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5602)**
-
-**Author:** [AI enthusiast, YT AIAcademy 인공지능아카데미,](https://x.com/AIAcademykorea) | **Source:** [Link](https://x.com/AIAcademykorea/status/2061395464696799568) | **Published:** Jun 1, 2026
-
----
-### Glitches in the Simulation Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) đầy chất siêu thực và không khí để tạo ra các hình ảnh mô phỏng bị lỗi (glitch) tựa như trong mơ.
-
-#### 📝 Prompt
-
-```
-Chào buổi sáng tất cả những Glitches trong mô phỏng ngoài kia… Giờ đến lượt bạn thức tỉnh bên trong giấc mơ này. Tín hiệu vẫn còn đó.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8d8ed9ca6a26790e8f0492916e0be1b/thumbnails/thumbnail.jpg" width="600" alt="Glitches in the Simulation Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5645)**
-
-**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2061385668295643347) | **Published:** Jun 1, 2026
-
----
-### Trăng xanh trên đường chân trời Porto
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video điện ảnh về cảnh trăng xanh chân thực mọc trên đường chân trời mang tính biểu tượng của Porto, với hình ảnh phản chiếu trên sông Douro và kiến trúc chi tiết.
-
-#### 📝 Prompt
-
-```
-Hình ảnh chân thực về một mặt trăng xanh đang mọc và tiến vào bầu trời phía trên đường chân trời của Porto vào lúc hoàng hôn. Mặt trăng tròn lớn với sắc xanh nhạt nhô lên phía sau Tháp Clérigos hoặc các mái nhà ở quận Ribeira, những ánh đèn thành phố ấm áp bắt đầu lấp lánh bên dưới, sông Douro phản chiếu khung cảnh, những đám mây đầy kịch tính, bầu không khí điện ảnh, kiến trúc và bề mặt mặt trăng cực kỳ chi tiết, độ phân giải 8K chân thực.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/da69e255182eab954dc72fcc5d32a50f/thumbnails/thumbnail.jpg" width="600" alt="Trăng xanh trên đường chân trời Porto">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5595)**
-
-**Author:** [erna](https://x.com/ernDju) | **Source:** [Link](https://x.com/ernDju/status/2061333728673087894) | **Published:** Jun 1, 2026
-
----
-### Video về trích dẫn của Chuck Palahniuk về nỗi đau
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt mang tính triết lý dựa trên trích dẫn của Chuck Palahniuk về nỗi đau và ký ức.
-
-#### 📝 Prompt
-
-```
-Thật khó để quên đi nỗi đau, nhưng còn khó hơn để ghi nhớ sự ngọt ngào. Chúng ta chẳng có vết sẹo nào để chứng minh cho hạnh phúc. Chúng ta học được quá ít từ sự bình yên.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5c5db125afc64716188098310ca9c449/thumbnails/thumbnail.jpg" width="600" alt="Video về trích dẫn của Chuck Palahniuk về nỗi đau">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5642)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2061293017911169512) | **Published:** Jun 1, 2026
-
----
-### Vũ công Ballet trên đồi dưới ánh trăng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt đầy duyên dáng về vũ công ballet đang nhảy múa trên đỉnh đồi dưới dải Ngân Hà.
-
-#### 📝 Prompt
-
-```
-Vũ công ballet xoay người trên đỉnh đồi, đêm trăng sáng, dải Ngân Hà lấp lánh, chiếc váy xanh mềm mại tỏa sáng… khắc họa vẻ đẹp thiên nhiên nhảy múa trong đêm
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c048d847b742ff3693aa47f508a80283/thumbnails/thumbnail.jpg" width="600" alt="Vũ công Ballet trên đồi dưới ánh trăng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5598)**
-
-**Author:** [Akki](https://x.com/whateverakki) | **Source:** [Link](https://x.com/whateverakki/status/2061291723737670139) | **Published:** Jun 1, 2026
-
----
-### Hoạt ảnh Đôi giày bay của Hermes
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh đầy cảm hứng mô tả vị thần Hy Lạp Hermes sử dụng đôi giày bay ma thuật và tương tác với Zeus trong bối cảnh hiện đại.
-
-#### 📝 Prompt
-
-```
-Hermes sở hữu đôi giày bay siêu tốc cùng chiếc mũ có cánh cực ngầu giúp anh ấy di chuyển nhanh hơn cả chim trời! Anh ấy thậm chí còn dạy Zeus cách ăn mặc như người bình thường để cùng tham gia vào những cuộc phiêu lưu thú vị. Giờ đây, vị thần lém lỉnh tốc độ đã sẵn sàng để giúp đỡ mọi người ở khắp mọi nơi!
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/30a83309bc20d3575c8fb77a3a4a6263/thumbnails/thumbnail.jpg" width="600" alt="Hoạt ảnh Đôi giày bay của Hermes">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5601)**
-
-**Author:** [the don of hockey](https://x.com/don_allain) | **Source:** [Link](https://x.com/don_allain/status/2061256565160595499) | **Published:** Jun 1, 2026
-
----
-### Bối cảnh nhà kho công nghiệp thời trang cao cấp
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý video biên tập thời trang tinh tế với hình ảnh người phụ nữ mặc váy couture trên nền nhà kho công nghiệp thô sơ.
-
-#### 📝 Prompt
-
-```
-Cảnh quay biên tập thời trang cao cấp siêu thực với một người phụ nữ ấn tượng mặc chiếc váy couture khổng lồ bên trong một nhà kho bỏ hoang, kết hợp giữa thời trang xa xỉ và bầu không khí công nghiệp thô mộc.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/84b1fc7e2161665e2a36130ffd48c3b0/thumbnails/thumbnail.jpg" width="600" alt="Bối cảnh nhà kho công nghiệp thời trang cao cấp">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5599)**
-
-**Author:** [Belinda Smith](https://x.com/BelindaSmith88) | **Source:** [Link](https://x.com/BelindaSmith88/status/2061243658716799432) | **Published:** Jun 1, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2333,6 +2317,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-14T05:04:21.296Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-14T11:13:12.539Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **1809** |
+| 📝 提示词总数 | **1818** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-06-14** |
 
@@ -189,6 +189,199 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 巴塞罗那海滩上的空灵天使
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 这是一段详细的描述性提示词，用于生成一段关于在黄金时刻站在海滩上的空灵天使的动画，她拥有金色羽毛和绿色眼睛。
+
+#### 📝 提示词
+
+```
+拥有闪亮浅绿色眼睛的空灵天使，周围漂浮着 24k 金羽毛，隐形的翅膀，在黄金时刻优雅地站在巴塞罗那海滩上，神圣的女性能量，天界之美，梦幻且明亮
+•  空灵天使
+•  天界之美
+•  神圣女性
+•  黄金时刻女神
+•  神秘天使
+•  天界生物
+•  梦幻天使
+•  超凡之美
+•  天使般的存在
+•  明亮天使
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e93302c0291c27c8f192a971f7ef2eb1/thumbnails/thumbnail.jpg" width="600" alt="巴塞罗那海滩上的空灵天使">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6033)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2065908255382184326) | **发布时间:** Jun 13, 2026
+
+---
+### 圣经场景电影感静态镜头
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个受旧约《但以理书》启发，用于生成静态镜头的电影感视频提示词。
+
+#### 📝 提示词
+
+```
+静态镜头，看起来像是出自旧约《但以理书》中的故事
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0832c01c153ba6a6966e4672e269439a/thumbnails/thumbnail.jpg" width="600" alt="圣经场景电影感静态镜头">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6028)**
+
+**作者:** [Mary Jeanne Bautista Concepcion Cincotta](https://x.com/CincottaMary) | **来源:** [Link](https://x.com/CincottaMary/status/2065903975052751107) | **发布时间:** Jun 13, 2026
+
+---
+### 冲浪于巨浪管状浪中
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个动作提示词，描绘了一名冲浪者在巨大的管状浪中冲浪的场景。
+
+#### 📝 提示词
+
+```
+想象他站在冲浪板上，在管状浪中穿行，并大喊着：“感谢 ondoggie 教我冲浪！”
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4609057e0760947ba35a3b1256e60ea2/thumbnails/thumbnail.jpg" width="600" alt="冲浪于巨浪管状浪中">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6034)**
+
+**作者:** [Jason t](https://x.com/doctani79) | **来源:** [Link](https://x.com/doctani79/status/2065886545970942265) | **发布时间:** Jun 13, 2026
+
+---
+### 电影级奢华行李箱视频广告
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个为奢华行李箱品牌打造的专业电影级视频提示词，场景设定为城市公交站的数字广告牌，模特置身其中。
+
+#### 📝 提示词
+
+```
+电影级超现实奢华行李箱广告，场景位于现代城市公交站，街头建筑中嵌入了一块巨大的黑色边框数字广告牌。广告牌屏幕内，一位时尚模特身穿米色定制西装外套、深色长裤，脚蹬同色系米色高跟鞋，手持一套高端硬壳行李箱。她站在站台上，仿佛正要步入或走出画面。灯光采用高端商业风格，带有柔和的光晕和清晰的反射。电影级 8k 画质，照片级真实感，优雅且具有都市时尚感。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/93f5ee4787e6a616e30b49e9cdf6ea30/thumbnails/thumbnail.jpg" width="600" alt="电影级奢华行李箱视频广告">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6027)**
+
+**作者:** [Alamgir Hossain](https://x.com/mdalamgir95) | **来源:** [Link](https://x.com/mdalamgir95/status/2065846622324674965) | **发布时间:** Jun 13, 2026
+
+---
+### 山间电影感对话场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段叙事视频提示词，包含镜头平移扫过山脉与森林，以及角色 Jilla 和 Rolf 之间的对话。
+
+#### 📝 提示词
+
+```
+Jilla 停下脚步，凝视着周围的美景。镜头平移扫过周遭的山峦、流淌的河流、潺潺的溪水，以及在数千英尺下方松树林中吹拂的微风。
+
+Rolf 说道：“真美啊，Jilla，不是吗？”
+
+Jilla 惊叹道：“这一幕值得铭记于心。”她看向 Rolf，露出了微笑。
+
+Rolf 说道：“这趟攀登很值得。”
+
+Jilla 说道：“每一步都值得。”
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/753193e18c82e85956747b8d78ce3e96/thumbnails/thumbnail.jpg" width="600" alt="山间电影感对话场景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6030)**
+
+**作者:** [Kim Maria](https://x.com/KimMari46054539) | **来源:** [Link](https://x.com/KimMari46054539/status/2065845361697038839) | **发布时间:** Jun 13, 2026
+
+---
+### 优雅露台时尚视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个关于身着优雅白色套装、佩戴珠宝的女性站在露台上的视频提示词。
+
+#### 📝 提示词
+
+```
+让我出现在露台上，身穿全白套装，盘起头发，佩戴着精美的珠宝
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3ea702523ce2c9a822acfe1d000f9f1f/thumbnails/thumbnail.jpg" width="600" alt="优雅露台时尚视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6026)**
+
+**作者:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **来源:** [Link](https://x.com/CindyWeigapn6/status/2065769581789012075) | **发布时间:** Jun 13, 2026
+
+---
+### 背着喷气背包的海狸木匠
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个充满创意的动画提示词，描绘了海狸在神圣几何主题下，使用喷气背包和木工工具进行创作的场景。
+
+#### 📝 提示词
+
+```
+海狸们有繁重的工作要完成，因此它们借助喷气背包来提高效率。尽管如此，它们依然从容不迫，并将神圣几何融入其中。它们身着工装，熟练地使用着大师级的木工工具……
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c1da7871a13d012fdcf7800785eea440/thumbnails/thumbnail.jpg" width="600" alt="背着喷气背包的海狸木匠">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6031)**
+
+**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **来源:** [Link](https://x.com/PhilipCarrn7711/status/2065768512715370712) | **发布时间:** Jun 13, 2026
+
+---
+### 超写实《沙丘》风格角色转换
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个高度详细的提示词，旨在将参考图中的角色转换为 40 多岁、具有 Denis Villeneuve 版《沙丘》电影科幻美感的超写实男性形象。
+
+#### 📝 提示词
+
+```
+将参考图中的角色转换为一名 40 岁出头、超写实且具有照片级真实感的男性。要求呈现清晰的毛孔、细微的胡茬、细腻的皮肤纹理、逼真的眼睛细节以及自然的皮肤瑕疵。使用真实的人体比例——不要严格遵循原图的比例或风格化解剖结构；优先考虑准确、自然的人体解剖结构和真实的比例。始终佩戴头盔——头盔为贴合头部的流线型高科技设计，采用与盔甲相匹配的金属青色和黑色，面罩区域清晰露出面部。
+
+他穿着与参考角色完全相同的高科技未来感套装和盔甲：哑光黑与金属青色的装甲板，带有复杂的机械细节、逼真的金属反射纹理，以及细微的磨损、划痕和风化效果。请勿更改盔甲设计、配色方案或风格以模仿照片中的《沙丘》蒸馏服——必须严格保留原有的高科技青色与黑色盔甲及头盔。保持完全相同的自信姿态：站在岩石沙漠地形上，左手在身侧握着盘绕的绳索/鞭子，右手紧握一根长杖。将长杖转换为高科技全息发射杖，顶部形成猫头鹰状的青色发光全息投影——使该标志成为具有逼真光晕和能量粒子的发光半透明全息图。保留胸前的狮子标志，但将其渲染为无缝集成到高科技套装中的发光全息投影。
+
+风格和摄影必须与此参考照片完全一致：史诗级宽银幕电影剧照，风格源自 Denis Villeneuve 执导的《沙丘》，具备顶级大制作电影质量的超写实摄影感。明亮的沙漠日光，背景为湛蓝天空和零星白云，强烈的自然阳光营造出逼真的高光、深邃的阴影和细微的镜头光晕。温暖的沙色调与冷色调的蓝色大气天空形成对比，高动态范围，色彩分级丰富，呈现出《沙丘》电影特有的低饱和度但充满活力的电影色调。盔甲、织物、皮肤和岩石地形上的纹理极其细腻——可见灰尘、织物纹理、金属光泽和环境颗粒感。体积光射线，柔和的轮廓光，浅景深，焦点清晰地对准前景角色，背景带有轻微的虚化效果。具备电影颗粒感、变形镜头特征、专业的色彩校准以及正宗的大画幅电影剧照质感。8k 分辨率质量，照片级真实感，无任何卡通或插画痕迹。
+```
+
+<img src="https://cms-assets.youmind.com/media/1781427142173_l4vvei_HKr2Fs5a4AAZ_v7.jpg" width="600" alt="超写实《沙丘》风格角色转换">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6032)**
+
+**作者:** [Moonlighter](https://x.com/moonlighter3000) | **来源:** [Link](https://x.com/moonlighter3000/status/2065734008026378505) | **发布时间:** Jun 13, 2026
+
+---
+### 电影感《神剑》太空骑士歌剧
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个高度精细的电影感提示词，融合了 20 世纪 80 年代史诗电影风格、硬科幻美学与太空骑士元素。
+
+#### 📝 提示词
+
+```
+一幅宏伟的宽银幕电影镜头，采用 John Boorman 1981 年史诗电影《神剑》(Excalibur) 的风格，并将其重构为硬科幻太空歌剧。画面呈现强烈的明暗对比照明，带有强烈的轮廓光和发光的能量点缀。一位高贵的太空骑士站在画面中心，身穿闪耀的抛光银白色动力装甲，装甲上布满了精致的中世纪风格板甲细节、发光的蓝色能量线条，一把带有等离子刃的未来派巨剑插在开裂的外星地面上。他戴着带有发光面罩的冠状头盔，表情英勇而强烈。在他身旁站着一位尊贵的太空女王，身着华丽的白金色未来派礼服，面料上绣着流动的能量纹路，点缀着珠宝般的晶体，头戴优雅的科幻面纱头饰，双手叉腰，气质空灵而威严。在他们身侧，站着身穿闪亮金属盔甲的太空骑士、戴着兜帽的科技神秘主义者，以及在古老外星神庙台阶上穿着华丽长袍的领主、战士和外星朝臣。背景是充满戏剧性的宇宙，星云密布，大气朦胧，深邃的太空黑与浓郁的金色和电光蓝高光交织，呈现出金属质感、电影颗粒感和变形镜头效果，营造出史诗般的神话科幻氛围，杰作，8k 电影剧照。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/23bdccd9f077df216d0fdf9260d151e9/thumbnails/thumbnail.jpg" width="600" alt="电影感《神剑》太空骑士歌剧">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6029)**
+
+**作者:** [Moonlighter](https://x.com/moonlighter3000) | **来源:** [Link](https://x.com/moonlighter3000/status/2065693534481531035) | **发布时间:** Jun 13, 2026
+
+---
 ### 星际侦察舰探索
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -453,7 +646,7 @@ Ricardo 进入了势不可挡的“黑客帝国”模式，凭借惊人的武术
 超高细节动漫风格，电影级视角，粗犷且富有戏剧性的光影，高对比度与饱和色彩。一个低角度倾斜的电影感街头风格镜头，拍摄停车场场景，仰拍一位背对镜头的动漫少女，她单手拿着一个紫色的摩托车头盔正在行走。她穿着紧身白色赛车裤、一件印有“AgenC”字样的修身印花 T 恤和黄色靴子，其中一只靴子的鞋底在前景中以锐利的细节呈现。视角强调了粗犷的城市美学，并运用了大胆的透视缩短效果。在她前方，停着一辆紫色街车。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e8ae69bd74c24138b002ceea312124d/thumbnails/thumbnail.jpg" width="600" alt="动漫少女与摩托车街头风格">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dabbf9ca7a824642ec80bc1e4fbc2a30/thumbnails/thumbnail.jpg" width="600" alt="动漫少女与摩托车街头风格">
 
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5962)**
 
@@ -866,7 +1059,7 @@ Ricardo 进入了势不可挡的“黑客帝国”模式，凭借惊人的武术
 逼真的特写肖像，一位肤色苍白、带有精致雀斑的空灵女子，极度白皙的瓷质皮肤，柔顺的长直铂金发，双眼微闭，神情宁静而神秘，柔和的桃色双唇。她佩戴着一顶高度精细、装饰华丽的深色金属太阳光芒光环冠，带有尖锐的刺状装饰，以及散发着温暖光芒的琥珀橙色花窗玻璃片段，身着白色奇幻礼服：深 V 领口，长款修身袖子，带有精致的蕾丝细节，以及华丽的金属宽腰带。极简主义柔和模糊的中性渐变背景，非常干净简洁。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/77c8cc5c96441380023e6fa29909756f/thumbnails/thumbnail.jpg" width="600" alt="佩戴太阳光芒光环冠的空灵女子">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a533cb20e1a90db9c39380f6c2d868cf/thumbnails/thumbnail.jpg" width="600" alt="佩戴太阳光芒光环冠的空灵女子">
 
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5968)**
 
@@ -1062,7 +1255,7 @@ Ricardo 进入了势不可挡的“黑客帝国”模式，凭借惊人的武术
 照片级写实肖像，空灵美丽的精灵女性，优雅的侧后视角展现轮廓与上半身，低头垂眸，神情忧郁柔和，苍白如瓷的肌肤带有真实的纹理与毛孔，自然光泽，长而飘逸的银白色头发编成精致的侧辫，真实的发丝与碎发垂落在肩头，精致的尖耳朵上佩戴着华丽的金色珍珠耳挂，上背部与肩部有巨大的复杂黑红色纹身：盛开的红玫瑰缠绕在锋利的荆棘藤蔓中，超写实的阴影与皮肤互动，精致破损的白色蕾丝裙从肩头滑落，磨损的边缘展现出真实的织物纹理与蕾丝细节，纯粹的深黑色极简背景，戏剧性的忧郁氛围，柔和的体积光与精致的轮廓光，电影质感且高度写实，优雅而神秘。
 ```
 
-<img src="https://cms-assets.youmind.com/media/1781254927989_8gwp49_HKOn2ZDXYAApIGa.jpg" width="600" alt="空灵精灵女性肖像">
+<img src="https://cms-assets.youmind.com/media/1781427149674_7vvrif_HKOn2ZDXYAApIGa.jpg" width="600" alt="空灵精灵女性肖像">
 
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5802)**
 
@@ -2063,214 +2256,6 @@ GIF 要退休了。现场聚集了一大群仰慕者，墙上装饰着快乐的�
 **作者:** [Make Britain Great Again](https://x.com/DragonFlam7530) | **来源:** [Link](https://x.com/DragonFlam7530/status/2061485523634368997) | **发布时间:** Jun 1, 2026
 
 ---
-### Q 版动漫英雄与机器人飞行
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个关于 Q 版动漫女孩和她的机器人伙伴身披英雄斗篷在天空中飞行的动态视频提示词。
-
-#### 📝 提示词
-
-```
-一个可爱的 Q 版动漫女孩，留着金色、紫色和粉色渐变的飘逸长发，身披红色的英雄斗篷，与同样戴着配套英雄斗篷的小巧可爱机器人伙伴一起在天空中充满活力地飞行。他们正一起高空翱翔……
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/21271aca2e9178c647ed1c6d2ce42299/thumbnails/thumbnail.jpg" width="600" alt="Q 版动漫英雄与机器人飞行">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5605)**
-
-**作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **来源:** [Link](https://x.com/clemensilverio/status/2061471795023069195) | **发布时间:** Jun 1, 2026
-
----
-### 梦幻般的电梯升空场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个极简主义艺术电影提示词，描述电梯穿过光影与迷雾，升入一片纯白虚无之中。
-
-#### 📝 提示词
-
-```
-固定机位拍摄旧电梯内景，电梯门缓缓关闭；原本的墙壁消失，取而代之的是开阔的天空与漂浮的云朵；电梯在光影与迷雾中平稳上升；电梯门开启，映入眼帘的是一片纯白虚无。极简主义，梦幻艺术电影风格。音频：微弱的缆绳嗡嗡声。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f3b8cbbd21ac7e492932d508924c1c8d/thumbnails/thumbnail.jpg" width="600" alt="梦幻般的电梯升空场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5600)**
-
-**作者:** [Mr Das](https://x.com/MrDasOnX) | **来源:** [Link](https://x.com/MrDasOnX/status/2061450489112506714) | **发布时间:** Jun 1, 2026
-
----
-### 现代战争动作预告片 JSON
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个高度详细的 JSON 结构化提示词，用于制作 10 秒高能战争电影预告片，包含具体的镜头时序和摄像机运动。
-
-#### 📝 提示词
-
-```
-{
-  "duration": "10 秒",
-  "style": "超强节奏、高能写实战争动作预告片。节奏紧凑，大规模爆炸，无休止的战斗，震撼的视觉特效，电影级且极具侵略性的运镜",
-  "aspect_ratio": "16:9",
-  "timeline": [
-    {
-      "time": "0-1.8s",
-      "description": "身着战术装备的士兵在混乱的战火街道上全速冲刺，身后伴随着密集的枪火和爆炸。快速环绕镜头，带有强烈的动态模糊和镜头光晕，勉强跟上动作节奏。",
-      "transition": "高能追踪镜头切入混乱场景"
-    },
-    {
-      "time": "1.8-3.6s",
-      "description": "士兵身侧发生剧烈爆炸。摄像机剧烈晃动，穿过飞溅的碎片、火焰和冲击波。背景中多个次级爆炸产生连锁反应。粒子效果极其混乱震撼。",
-      "transition": "伴随镜头晃动的剧烈爆炸穿透"
-    },
-    {
-      "time": "3.6-5.5s",
-      "description": "超强侵略性的慢动作子弹时间。士兵飞身跃起并回击，子弹从身边呼啸而过。摄像机以高速环绕士兵旋转。阵亡士兵的数字残影在激烈的交火中剧烈闪烁。",
-      "transition": "快速环绕慢动作与急速镜头旋转"
-    },
-    {
-      "time": "5.5-7.3s",
-      "description": "爆炸性的上升镜头，展现宏大残酷的战场。坦克开火、步兵近身肉搏、空袭轰炸，巨大的火球照亮天空。红色全息覆盖层在画面上剧烈闪烁。",
-      "transition": "快速上升揭示战场宏大爆炸场面"
-    },
-    {
-      "time": "7.3-9s",
-      "description": "摄像机直冲回战斗核心。极端特写镜头捕捉士兵在重火力下换弹并射击。强烈的红色调，火花、枪口焰和余烬向镜头飞溅。全息 UI 疯狂更新。",
-      "transition": "侵略性的俯冲变焦进入近身战斗"
-    },
-    {
-      "time": "9-10s",
-      "description": "最终爆炸性的广角拉远镜头，展现完全混乱的战区。多处大规模爆炸，曳光弹四射，车辆燃烧。标题“Modern Warfare 4”伴随着强大的冲击波和飞溅的碎片效果重重砸入画面。",
-      "transition": "史诗级混乱扩展揭示，极具冲击力"
-    }
-  ],
-  "camera_notes": "极其动态且具有侵略性的运镜。快速环绕、爆炸时的剧烈晃动、快速上升/俯冲运动以及高速追踪。节奏感紧凑且令人窒息，同时保持电影质感。",
-  "vfx_notes": "极致视觉奇观：连锁爆炸、大量碎片、冲击波、子弹曳光、枪口焰、燃烧的车辆、大规模火球、数字残影士兵、激进的全息 UI，火花和余烬直接向镜头飞溅。"
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1e178293220cf4fb008e2a2d35b82529/thumbnails/thumbnail.jpg" width="600" alt="现代战争动作预告片 JSON">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5602)**
-
-**作者:** [AI enthusiast, YT AIAcademy 인공지능아카데미,](https://x.com/AIAcademykorea) | **来源:** [Link](https://x.com/AIAcademykorea/status/2061395464696799568) | **发布时间:** Jun 1, 2026
-
----
-### 模拟故障提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个超现实且充满氛围感的提示词，用于生成故障风格、如梦似幻的模拟视觉效果。
-
-#### 📝 提示词
-
-```
-各位模拟世界中的“故障”们，早上好……现在轮到你们在梦境中苏醒了。信号依然存在。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8d8ed9ca6a26790e8f0492916e0be1b/thumbnails/thumbnail.jpg" width="600" alt="模拟故障提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5645)**
-
-**作者:** [SophieZX](https://x.com/Z_XSophie) | **来源:** [Link](https://x.com/Z_XSophie/status/2061385668295643347) | **发布时间:** Jun 1, 2026
-
----
-### 波尔图天际线上的蓝月亮
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个电影级的视频提示词，旨在呈现波尔图标志性天际线上月升蓝月的写实画面，包含杜罗河的倒影及精致的建筑细节。
-
-#### 📝 提示词
-
-```
-黄昏时分，一轮写实的蓝月亮从波尔图天际线上升起。巨大的蓝色满月悬挂在克莱里戈塔或里贝拉区屋顶后方，下方温暖的城市灯光开始闪烁，杜罗河倒映着这一景象，云层壮观，充满电影质感，建筑与月球表面细节极致呈现，8K 超写实画质。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/da69e255182eab954dc72fcc5d32a50f/thumbnails/thumbnail.jpg" width="600" alt="波尔图天际线上的蓝月亮">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5595)**
-
-**作者:** [erna](https://x.com/ernDju) | **来源:** [Link](https://x.com/ernDju/status/2061333728673087894) | **发布时间:** Jun 1, 2026
-
----
-### Chuck Palahniuk 关于痛苦的语录视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个基于 Chuck Palahniuk 关于痛苦与记忆的语录所创作的哲学视频提示词。
-
-#### 📝 提示词
-
-```
-遗忘痛苦很难，但记住甜蜜更难。我们身上没有幸福留下的伤疤。我们在平静中学会的实在太少。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5c5db125afc64716188098310ca9c449/thumbnails/thumbnail.jpg" width="600" alt="Chuck Palahniuk 关于痛苦的语录视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5642)**
-
-**作者:** [Déborah](https://x.com/dvorahfr) | **来源:** [Link](https://x.com/dvorahfr/status/2061293017911169512) | **发布时间:** Jun 1, 2026
-
----
-### 月下山顶芭蕾舞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段优雅的视频提示词，描绘了一位芭蕾舞者在银河下的山顶翩翩起舞。
-
-#### 📝 提示词
-
-```
-山顶上旋转的芭蕾舞者，月光照耀的夜晚，银河星空，闪烁的柔绿色舞裙……展现夜晚中大自然的律动
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c048d847b742ff3693aa47f508a80283/thumbnails/thumbnail.jpg" width="600" alt="月下山顶芭蕾舞">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5598)**
-
-**作者:** [Akki](https://x.com/whateverakki) | **来源:** [Link](https://x.com/whateverakki/status/2061291723737670139) | **发布时间:** Jun 1, 2026
-
----
-### Hermes 飞行鞋动画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个充满奇思妙想的提示词，描绘了希腊神话中的赫尔墨斯（Hermes）穿上神奇的飞行鞋，并在现代背景下与宙斯（Zeus）互动的场景。
-
-#### 📝 提示词
-
-```
-Hermes 获得了一双超高速飞行鞋和一顶带翅膀的酷炫帽子，这让他飞行的速度比鸟儿还要快！他甚至教导 Zeus 如何像普通人一样打扮，并一起展开有趣的冒险。现在，这位敏捷的恶作剧大师已经准备好随时随地提供帮助了！
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/30a83309bc20d3575c8fb77a3a4a6263/thumbnails/thumbnail.jpg" width="600" alt="Hermes 飞行鞋动画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5601)**
-
-**作者:** [the don of hockey](https://x.com/don_allain) | **来源:** [Link](https://x.com/don_allain/status/2061256565160595499) | **发布时间:** Jun 1, 2026
-
----
-### 高级时装工业仓库场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个精致的时尚大片视频提示词，展示了一位身着高级定制礼服的女性，背景为粗犷的工业仓库。
-
-#### 📝 提示词
-
-```
-超写实的高级时装大片场景，一位迷人的女性身着巨大的高级定制礼服，置身于废弃仓库中，将奢华时尚与原始的工业氛围完美融合。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/84b1fc7e2161665e2a36130ffd48c3b0/thumbnails/thumbnail.jpg" width="600" alt="高级时装工业仓库场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5599)**
-
-**作者:** [Belinda Smith](https://x.com/BelindaSmith88) | **来源:** [Link](https://x.com/BelindaSmith88/status/2061243658716799432) | **发布时间:** Jun 1, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2332,6 +2317,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-06-14T05:04:16.395Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-06-14T11:13:08.631Z</sub>
 
 </div>
