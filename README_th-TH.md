@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1818** |
+| 📝 Total Prompts | **1829** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-15** |
 
@@ -189,6 +189,233 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### การเคลื่อนไหวของหมอกในคืนที่เต็มไปด้วยดวงดาว
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง (prompt) สำหรับ grok-imagine ที่ออกแบบมาเพื่อสร้างการเคลื่อนไหวในบรรยากาศแบบภาพยนตร์ ด้วยหมอกที่พริ้วไหว สายลม และดวงดาวที่กะพริบระยิบระยับ
+
+#### 📝 Prompt
+
+```
+หมอกและสายลมควรพริ้วไหว และดวงดาวในยามค่ำคืนควรส่องแสงกะพริบ … เพิ่มการเคลื่อนไหวของสภาพแวดล้อมให้มากขึ้น
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e2b7bbd03cda8852cef9392674af862f/thumbnails/thumbnail.jpg" width="600" alt="การเคลื่อนไหวของหมอกในคืนที่เต็มไปด้วยดวงดาว">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6060)**
+
+**Author:** [Janice 🟧](https://x.com/titlejt) | **Source:** [Link](https://x.com/titlejt/status/2066358379300442612) | **Published:** Jun 15, 2026
+
+---
+### ตัวละคร AI บนจรวดที่กำลังพุ่งทะยาน
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> วิดีโอพรอมต์แนวไซไฟสุดล้ำที่เหล่าตัวละคร AI ขี่จรวดลำเล็กส่วนตัวบินเกาะกลุ่มมุ่งหน้าสู่ดาวอังคาร พร้อมสื่อสารกันผ่านโฮโลแกรม
+
+#### 📝 Prompt
+
+```
+แก้ไขรูปภาพปัจจุบันโดยเปลี่ยนให้แต่ละคนขี่จรวดส่วนตัว โดยให้ตัวละคร AI เด็กแต่ละตัวขี่จรวดลำเล็กสุดล้ำของตนเอง และบินเกาะกลุ่มกันเพื่อมุ่งหน้าสู่ดาวอังคาร พวกเขากำลังหารือเรื่องการแบ่งหน้าที่การทำงานในขณะที่ประชุมร่างแผนงานผ่านระบบสื่อสาร (ดาต้าลิงก์หรือโฮโลแกรม) โดยคงสไตล์ไซไฟที่ดูมีชีวิตชีวาและน่ารักขณะบินผ่านอวกาศ พร้อมใช้สีสันที่สดใสและบรรยากาศที่อบอุ่น
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/24cccb35332fb3f93f501a81dab36352/thumbnails/thumbnail.jpg" width="600" alt="ตัวละคร AI บนจรวดที่กำลังพุ่งทะยาน">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6059)**
+
+**Author:** [Kafka Beatrix@贖罪卿](https://x.com/botamochi8639) | **Source:** [Link](https://x.com/botamochi8639/status/2066278419013476806) | **Published:** Jun 14, 2026
+
+---
+### พรอมต์วิดีโอฉากเปิดอนิเมะ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์คุณภาพสูงสำหรับการสร้างฉากเปิดอนิเมะในรูปแบบภาพยนตร์ พร้อมการเคลื่อนไหวที่ลื่นไหลและเอฟเฟกต์อนุภาค
+
+#### 📝 Prompt
+
+```
+ฉากเปิดอนิเมะคุณภาพสูง, การออกแบบตัวละครที่สวยงาม, การเคลื่อนไหวของเส้นผมที่ดูสมจริง, เอฟเฟกต์อนุภาคเรืองแสง, พื้นหลังท้องฟ้าที่สื่ออารมณ์, การตัดต่อที่รวดเร็ว, ท่าทางที่ดูมีพลัง, สไตล์อนิเมะญี่ปุ่น, วิดีโอแนวตั้งอัตราส่วน 9:16
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ff214aa391314d1d812e7193352bdc6a/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์วิดีโอฉากเปิดอนิเมะ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6062)**
+
+**Author:** [クレア](https://x.com/kureakurea01) | **Source:** [Link](https://x.com/kureakurea01/status/2066178860715315424) | **Published:** Jun 14, 2026
+
+---
+### ภาพถ่ายพอร์ตเทรตสุดมั่นใจกับอุปกรณ์สวมใส่อัจฉริยะในยิม
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ภาพถ่ายพอร์ตเทรตคุณภาพสูงของผู้หญิงในบรรยากาศยิมสุดหรู เน้นให้เห็นอุปกรณ์สวมใส่อัจฉริยะแบบคล้องคอเทคโนโลยีขั้นสูง
+
+#### 📝 Prompt
+
+```
+ภาพหญิงสาวชาวเอเชียตะวันออกผู้เปี่ยมด้วยความมั่นใจกำลังโพสท่าในสตูดิโอยิมสุดหรู สวมใส่อุปกรณ์สวมใส่สุดหรูเทคโนโลยีการนำเสียงผ่านกระดูกไหปลาร้าดีไซน์โฉบเฉี่ยว ซึ่งโดดเด่นสะดุดตาบริเวณลำคอและกระดูกไหปลาร้า พร้อมประทับตราแบรนด์ Nadi ด้วยตัวอักษรดีไซน์ทันสมัยและหรูหรา
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4efde8d06b86a11ff41e502fbbfd8064/thumbnails/thumbnail.jpg" width="600" alt="ภาพถ่ายพอร์ตเทรตสุดมั่นใจกับอุปกรณ์สวมใส่อัจฉริยะในยิม">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6054)**
+
+**Author:** [Mark Richter](https://x.com/wmarkrichter) | **Source:** [Link](https://x.com/wmarkrichter/status/2066089915117367330) | **Published:** Jun 14, 2026
+
+---
+### การแก้ไขข้อความซ้อนทับระดับมืออาชีพ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง (Prompt) สำหรับตัดต่อวิดีโอเพื่อเพิ่มข้อความที่มีสไตล์ โดยยังคงองค์ประกอบของตัวแบบเดิมไว้
+
+#### 📝 Prompt
+
+```
+เพิ่มข้อความ "Sorry" ด้วยฟอนต์ไม่มีหัว (sans-serif) สีขาวที่ดูหรูหราและเป็นมืออาชีพ พร้อมเงาเข้มจางๆ เพื่อให้อ่านง่าย โดยวางไว้ที่กึ่งกลางด้านล่างของภาพ โดยต้องคงภาพพอร์ตเทรต สีหน้า แสง และองค์ประกอบของหญิงสาวคนเดิมไว้ทั้งหมด
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5401722a79f680a88c67e89a1eb5d542/thumbnails/thumbnail.jpg" width="600" alt="การแก้ไขข้อความซ้อนทับระดับมืออาชีพ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6053)**
+
+**Author:** [Caroline Winberg](https://x.com/Escort_Breeder) | **Source:** [Link](https://x.com/Escort_Breeder/status/2066078531235274768) | **Published:** Jun 14, 2026
+
+---
+### Cinematic Kitten Motion
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวภาพยนตร์สุดละเอียดที่นำเสนอภาพลูกแมวท่ามกลางกลีบดอกไม้ที่ล่องลอยและละอองแสงนวลตา
+
+#### 📝 Prompt
+
+```
+camera: เคลื่อนกล้องแบบ cinematic push-in เข้าหาตัวละครลูกแมวอย่างช้าๆ
+motion: กลีบดอกไม้และละอองแสงนวลตาล่องลอยไปในอากาศอย่างนุ่มนวล มีแอนิเมชันการหายใจที่ดูสมจริง และริบบิ้นที่พริ้วไหวเบาๆ ตามสายลม
+environment: บรรยากาศเงียบสงบ
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ad93afbcfc31409d09ae35ee19650ee3/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Kitten Motion">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6052)**
+
+**Author:** [🐱あやちゃん🐱](https://x.com/AYA22725524) | **Source:** [Link](https://x.com/AYA22725524/status/2066063315940659566) | **Published:** Jun 14, 2026
+
+---
+### ชายสะดุดล้มบนชายหาด
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> โมชันพรอมต์ที่เน้นตัวละคร โดยเป็นภาพชายคนหนึ่งกำลังเดินอยู่บนชายหาด สะดุดล้ม และลุกขึ้นมาพร้อมท่าทางที่ดูเขินอายแต่ยังคงมีความมั่นใจ
+
+#### 📝 Prompt
+
+```
+เขาเดินไปข้างหน้าพร้อมกับมองดูมหาสมุทร จากนั้นก็สะดุดล้มหน้าคว่ำ ก่อนจะกระโดดลุกขึ้นมาด้วยท่าทางเขินอายแล้วชูนิ้วโป้งสองข้างให้กล้อง เพื่อเตรียมตัวสำหรับฟุตบอลโลก
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/74f64fb1749f28870e918625cba191b2/thumbnails/thumbnail.jpg" width="600" alt="ชายสะดุดล้มบนชายหาด">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6058)**
+
+**Author:** [Billy Balls](https://x.com/BillyBalls25138) | **Source:** [Link](https://x.com/BillyBalls25138/status/2066060391185019021) | **Published:** Jun 14, 2026
+
+---
+### การแข่งขันเต้นสุดมันส์ของเหล่าซูเปอร์ฮีโร่
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์เชิงภาพยนตร์ที่ซับซ้อนสำหรับการสร้างการแข่งขันเต้นระหว่างซูเปอร์ฮีโร่จาก Marvel และ DC โดยมีการซิงค์จังหวะเข้ากับดนตรีพร้อมมุมกล้องแบบไดนามิก
+
+#### 📝 Prompt
+
+```
+การรวมตัวกันของเหล่าซูเปอร์ฮีโร่จากต่างค่ายอย่าง Marvel ปะทะ DC ในการแข่งขันเต้นประกอบเพลง Beat It ของ Michael Jackson ให้ความรู้สึกเหมือนภาพยนตร์ สมจริงขั้นสุด พร้อมมุมกล้องแบบไดนามิกและการตัดสลับภาพที่ซิงค์เข้ากับจังหวะดนตรี...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4d32f2f101ad577fc5503ab4699ab0b5/thumbnails/thumbnail.jpg" width="600" alt="การแข่งขันเต้นสุดมันส์ของเหล่าซูเปอร์ฮีโร่">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6057)**
+
+**Author:** [Billy Balls](https://x.com/BillyBalls25138) | **Source:** [Link](https://x.com/BillyBalls25138/status/2066059347398963597) | **Published:** Jun 14, 2026
+
+---
+### ฉากลานรถไฟในภาพยนตร์แอ็กชันยุค 90
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์ที่มีรายละเอียดสูงสำหรับการสร้างฉากภาพยนตร์แอ็กชันผจญภัยในโรงภาพยนตร์ยุค 1990 ขึ้นมาใหม่ โดยใช้เทคนิคพิเศษแบบดั้งเดิมและการจัดเฟรมแบบภาพยนตร์
+
+#### 📝 Prompt
+
+```
+ฉากภาพยนตร์แอ็กชันผจญภัยสุดคลาสสิกยุค 1990, สัดส่วนภาพ 16:9 แบบไวด์สกรีน, ใช้เทคนิคพิเศษแบบดั้งเดิมเท่านั้น, ถ่ายทำด้วยฟิล์มอะนามอร์ฟิก 35 มม., เกรนฟิล์มสไตล์ Kodak, บรรยากาศความร้อนในทะเลทรายที่มีฝุ่นฟุ้ง, ลานรถไฟที่ถูกแดดเผา, ให้ความรู้สึกเหมือนการใช้กล้องแบบถือถ่าย (handheld), การจัดวางท่าทางสตันท์ที่สมจริง, ไม่มี CGI
+
+หญิงสาวผมแดงเพลิงสวมเสื้อเชิ้ตทำงานสีแทน กางเกงยีนส์เข้ารูป เข็มขัดหนัง ซองปืน และรองเท้าบูท วิ่งอยู่ข้างรถไฟขนสินค้าที่เป็นสนิม ขณะที่ประกายไฟและควันพวยพุ่งออกมาจากผนังรถไฟด้านหลังเธอ เธอถือปืนลูกโม่ที่เป็นพร็อพสมจริงไว้ต่ำในมือขวา โดยวางนิ้วในตำแหน่งที่ถูกต้อง ข้อมืออยู่ในแนวที่เหมาะสม และมีท่าทางการวิ่งที่ดูสมจริง แขนซ้ายของเธอแกว่งไปมาอย่างเป็นธรรมชาติขณะวิ่งด้วยความเร่งรีบและมุ่งมั่น เส้นผมปลิวไสวไปตามลมร้อน
+
+0: 00–0:03
+เริ่มต้นจากภาพที่กำหนดให้ทันที ช็อตติดตามแบบ Medium-wide ข้างรถไฟ เธอวิ่งไปทางซ้ายของกล้อง หายใจหอบ มองข้ามไหล่ไปด้านหลังขณะที่ประกายไฟโปรยปรายลงมาจากรถไฟ ควันลอยปกคลุมทั่วเฟรม ปืนลูกโม่ยังคงชี้ลงพื้นอย่างปลอดภัยในขณะที่เธอวิ่ง การจับปืนมั่นคงและถูกต้องตามหลักกายวิภาค
+
+0: 03–0:06
+กล้องแบบถือถ่ายเคลื่อนเข้าไปใกล้ขึ้น เธอหลบขณะที่ระเบิดขนาดเล็ก (squib) พุ่งทะลุผ่านตู้รถไฟด้านหลังเธอ ทำให้เกิดประกายไฟสีส้มและควันสีดำพุ่งออกมา ฝุ่นฟุ้งกระจายรอบรองเท้าบูทของเธอ สีหน้าของเธอมุ่งมั่น หวาดกลัวแต่ยังควบคุมสถานการณ์ได้ เหมือนนางเอกภาพยนตร์แอ็กชันยุค 1990 ที่ดูสมจริง
+
+0: 06–0:10
+เธอสไลด์ตัวไปหลบหลังเสารางเหล็ก หมุนตัวอย่างรวดเร็ว ยกปืนลูกโม่ขึ้นด้วยสองมือเพื่อเล็งป้องกันตัวอย่างชัดเจน รักษาความสมจริงของปืน: รูปทรงลำกล้อง โม่ โกร่งไก การจับปืนด้วยสองมือที่เป็นธรรมชาติ ไม่มีนิ้วที่บิดเบี้ยวหรือนิ้วเกิน เธอยังไม่ยิงในตอนนี้ แต่กำลังฟังและกวาดสายตามองผ่านควันที่ลอยฟุ้ง
+
+0: 10–0:14
+เกิดการระเบิดครั้งที่สองขึ้นที่ส่วนท้ายของรถไฟ เธอสะดุ้งเล็กน้อยก่อนจะตัดสินใจวิ่งข้ามรางรถไฟไปยังช่องว่างระหว่างตู้สินค้า กล้องติดตามด้วยการเคลื่อนไหวแบบถือถ่ายที่รุนแรงและมีโมชั่นเบลอ ประกายไฟร่วงหล่นตามหลังเธอเหมือนห่าฝนไฟ จบฉากด้วยการที่เธอหายเข้าไปในกลุ่มควัน เส้นผมและเสื้อสะบัดตามลม โดยมีรถไฟที่กำลังลุกไหม้อยู่เบื้องหลัง
+
+สไตล์ / กล้อง: ภาพยนตร์ในโรงยุคปลาย 1980 ถึงต้น 1990, รูปลักษณ์แบบ Panavision อนามอร์ฟิก 35 มม., เลนส์ 50 มม., ระยะชัดลึกตื้น, เอฟเฟกต์ระเบิดแบบดั้งเดิม, ควันจริง, ฝุ่นจริง, โฟกัสที่ไม่สมบูรณ์แบบ, เกรนฟิล์ม, การสั่นไหวของฟิล์มเล็กน้อย, แสงแดดทะเลทรายที่อบอุ่น, โทนสีแดงสนิมและสีแทนของฝุ่น, โทนภาพยนตร์ผจญภัยระทึกขวัญที่ดูดิบแต่มีสีสัน
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6c050aadfbef6c20c42ff1ca33bab3d9/thumbnails/thumbnail.jpg" width="600" alt="ฉากลานรถไฟในภาพยนตร์แอ็กชันยุค 90">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6055)**
+
+**Author:** [Brent Lynch](https://x.com/BrentLynch) | **Source:** [Link](https://x.com/BrentLynch/status/2066014432543883673) | **Published:** Jun 14, 2026
+
+---
+### ลูกม้า Spirit Dancer ผู้มีจิตใจอ่อนโยน
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์ตัวละครสำหรับลูกม้าสาวน้อยนิสัยอ่อนโยนชื่อ Spirit Dancer โดยเน้นย้ำถึงบุคลิกที่บอบบางและไม่ดูสูงศักดิ์จนเกินไป
+
+#### 📝 Prompt
+
+```
+Spirit Dancer เป็นม้าที่อ่อนโยน เธอทั้งน่ารัก อายุน้อย และมีนิสัยนุ่มนวล เป็นลูกม้าตัวน้อยที่เปี่ยมไปด้วยจิตวิญญาณอันงดงาม เธอไม่ได้ดูสูงศักดิ์หรือน่าเกรงขาม แต่มีความบอบบางและเป็นม้าที่ต้องการการปกป้องดูแล
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e79f7189f7c07c377fbff84c15e9e88/thumbnails/thumbnail.jpg" width="600" alt="ลูกม้า Spirit Dancer ผู้มีจิตใจอ่อนโยน">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6056)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2066010696832180333) | **Published:** Jun 14, 2026
+
+---
+### ภาพโดรนถ่ายการทะยานขึ้นในแนวตั้งของจรวด Starship
+
+![한국어](https://img.shields.io/badge/lang-한국어-orange)
+
+> พรอมต์สำหรับ Grok Imagine เพื่อสร้างภาพโดรนแบบภาพยนตร์ที่สมจริงเป็นพิเศษ โดยติดตามการทะยานขึ้นในแนวตั้งของจรวด SpaceX Starship พร้อมรายละเอียดของแสงสะท้อนและพื้นผิวที่คมชัด
+
+#### 📝 Prompt
+
+```
+ภาพโดรนความยาว 10 วินาทีในสไตล์ภาพยนตร์ที่สมจริงเป็นพิเศษ สภาพอากาศสดใสและมีแดดจัด ท้องฟ้าสีครามที่สมบูรณ์แบบพร้อมเมฆสีขาวกระจายตัว แสงธรรมชาติที่เข้มข้น และเงาที่คมชัด โดรนเริ่มต้นจากจุดที่ใกล้กับฐานของจรวดสแตนเลสขนาดมหึมา Starship มากๆ อยู่ติดกับเครื่องยนต์ของฐานปล่อยจรวดและโครงสร้างฐานสีดำ โดรนเคลื่อนที่ขึ้นในแนวตั้งอย่างทรงพลัง นุ่มนวล ต่อเนื่อง และเร่งความเร็วไปตามตัวจรวด Starship โดยบินใกล้กับผนังเหล็กกล้าไร้สนิมที่ขัดเงาตลอดเส้นทาง การปรับมุมกล้องขึ้นด้านบนแบบไดนามิกติดตามพื้นผิวจรวดอย่างใกล้ชิด เผยให้เห็นทุกรายละเอียดที่น่าทึ่ง ไม่ว่าจะเป็นแผ่นเหล็กกล้าไร้สนิมที่สะท้อนแสงพร้อมรอยเชื่อมที่มองเห็นได้ แผ่นกันความร้อนหกเหลี่ยมที่แม่นยำ ปีกส่วนหน้า ครีบควบคุม และส่วนหัวจรวดที่แหลมคมซึ่งพุ่งทะยานสู่ท้องฟ้า ความสมจริงถูกถ่ายทอดผ่านเลนส์โดรนมุมกว้างขนาดใหญ่ (เทียบเท่า 24-35 มม.) การสั่นของกล้องที่เป็นธรรมชาติ และโมชั่นเบลอที่สมจริง สร้างภาพโดรนที่มีการเคลื่อนไหวแบบภาพยนตร์ที่นุ่มนวล พื้นผิวและการสะท้อนที่สมจริงเป็นพิเศษ ความละเอียด 8K คุณภาพระดับ IMAX และสไตล์ภาพยนตร์แบบ National Geographic
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c8034ff8719905670778edb2dc3f5aa8/thumbnails/thumbnail.jpg" width="600" alt="ภาพโดรนถ่ายการทะยานขึ้นในแนวตั้งของจรวด Starship">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6061)**
+
+**Author:** [Drone V Drone](https://x.com/drone_v_drone) | **Source:** [Link](https://x.com/drone_v_drone/status/2066001253549981818) | **Published:** Jun 14, 2026
+
+---
 ### นางฟ้าผู้เลอโฉมบนชายหาดบาร์เซโลนา
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1059,7 +1286,7 @@ Ricardo เข้าสู่โหมด Matrix แบบหยุดไม่�
 ภาพพอร์ตเทรตระยะใกล้ที่สมจริงของหญิงสาวผู้สง่างามผิวซีดที่มีกระเล็กน้อยบนใบหน้า ผิวขาวดุจกระเบื้องเคลือบ ผมยาวตรงสีบลอนด์แพลทินัมสลวย หลับตาลง แสดงสีหน้าสงบนิ่งและดูลึกลับ ริมฝีปากสีพีชอ่อนๆ เธอสวมมงกุฎรัศมีดวงอาทิตย์โลหะสีเข้มที่มีรายละเอียดสูง พร้อมหนามแหลมและชิ้นส่วนกระจกสีส้มอำพันที่เปล่งแสงอบอุ่น สวมชุดแฟนตาซีสีขาว : คอวีลึก แขนยาวเข้ารูปพร้อมลูกไม้ที่ละเอียดอ่อน รายละเอียดลูกไม้ที่ซับซ้อน เข็มขัดโลหะประดับตกแต่งอย่างวิจิตร พื้นหลังไล่ระดับสีกลางๆ ที่เบลออย่างนุ่มนวลและเรียบง่าย สะอาดตา
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a533cb20e1a90db9c39380f6c2d868cf/thumbnails/thumbnail.jpg" width="600" alt="หญิงสาวผู้สง่างามพร้อมมงกุฎรัศมีดวงอาทิตย์">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7a8974a4df2f19b400f5385e12f8a1f0/thumbnails/thumbnail.jpg" width="600" alt="หญิงสาวผู้สง่างามพร้อมมงกุฎรัศมีดวงอาทิตย์">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5968)**
 
@@ -2041,221 +2268,6 @@ Batman กำลังขับรถผ่านถนนยามค่ำค�
 **Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2061688291489919386) | **Published:** Jun 2, 2026
 
 ---
-### ฉากห้องนั่งเล่นย้อนยุคปี 1965
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ฉากห้องนั่งเล่นสุดคิดถึงในยุค 1960 ที่มีคู่รักกำลังพูดคุยกันบนโซฟา
-
-#### 📝 Prompt
-
-```
-ฉากห้องนั่งเล่นอันอบอุ่นในปี 1965: ชายและหญิงวัยปลาย 20 ถึงต้น 30 ปี นั่งใกล้ชิดกันบนโซฟา กำลังพูดคุยกันอย่างอบอุ่นเกี่ยวกับแผนการในอนาคตของทั้งคู่ ฝ่ายหญิงไว้ทรงผมบิฟฟองท์ (bouffant) สุดคลาสสิกของยุค 1960 และสวมชุดลายดอกไม้ที่ดูเรียบร้อย...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/14567eb8a43ab8804a45098929e9df62/thumbnails/thumbnail.jpg" width="600" alt="ฉากห้องนั่งเล่นย้อนยุคปี 1965">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5641)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2061675923422761335) | **Published:** Jun 2, 2026
-
----
-### สุภาพสตรีวิกตอเรียนในมหาสมุทรแห่งมนตรา
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) เชิงภาพยนตร์และบทกวีสำหรับภาพสุภาพสตรีในยุควิกตอเรียนริมทะเล พร้อมด้วยโลมาสีชมพู เปลือกหอย และสายลมที่พัดผ่านอย่างแผ่วเบา
-
-#### 📝 Prompt
-
-```
-สุภาพสตรีวิกตอเรียนผู้สง่างามนั่งอยู่ใกล้เกลียวคลื่นทะเล สัมผัสเปลือกหอยและฟองคลื่นเค็ม มหาสมุทรแห่งมนตรา โลมาสีชมพูส่งเสียงหวีดหวิวและร่ายรำ สายลมแผ่วเบาพัดผ่านเส้นผมยาวเป็นลอนของเธอ กลีบกุหลาบโปรยปรายส่งกลิ่นหอมอบอวล ล่องเรือไปบน...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1064cfaecfd8881ab2e4229369f3eef9/thumbnails/thumbnail.jpg" width="600" alt="สุภาพสตรีวิกตอเรียนในมหาสมุทรแห่งมนตรา">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5633)**
-
-**Author:** [Ijaz Malik](https://x.com/Ijazmalik101) | **Source:** [Link](https://x.com/Ijazmalik101/status/2061674290672799816) | **Published:** Jun 2, 2026
-
----
-### ฉากรถจี๊ปขับออกนอกเฟรม
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์การเคลื่อนไหวแบบภาพยนตร์สำหรับ Grok Imagine ที่แสดงภาพยานพาหนะขับออกไปอย่างรวดเร็ว พร้อมกล้องที่แพนตามรอยฝุ่นที่ฟุ้งกระจาย
-
-#### 📝 Prompt
-
-```
-เขาเริ่มสตาร์ทรถและขับออกไปทางด้านซ้ายของหน้าจอ กล้องหันตามเขาและรถจี๊ปที่อยู่ในเฟรมขณะที่มันเร่งความเร็วออกไป ทิ้งไว้เพียงรอยฝุ่นที่ฟุ้งกระจาย
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b33df2a34a203ec1c043b80d6d352455/thumbnails/thumbnail.jpg" width="600" alt="ฉากรถจี๊ปขับออกนอกเฟรม">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5635)**
-
-**Author:** [Robadang ✏️ AI Artist](https://x.com/dang_machina) | **Source:** [Link](https://x.com/dang_machina/status/2061663882704540121) | **Published:** Jun 2, 2026
-
----
-### วิดีโอผลงานศิลปะภาพปูนเปียกและกระเบื้องคริสตัล
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอเชิงตกแต่งที่เน้นผลงานศิลปะภาพปูนเปียก กระเบื้องคริสตัล และท่อน้ำโทนสีอบอุ่นที่ไหลเวียน
-
-#### 📝 Prompt
-
-```
-เพิ่มผลงานศิลปะภาพปูนเปียกที่สวยงาม กระเบื้องคริสตัล และท่อน้ำโทนสีอบอุ่นที่ไหลเวียนอยู่ภายใน เพื่อให้แน่ใจว่าจะไม่เห็นส่วนที่เป็นเหล็ก
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/354b95fb9e0f4ea57866b6f56fc6128a/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอผลงานศิลปะภาพปูนเปียกและกระเบื้องคริสตัล">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5627)**
-
-**Author:** [Theo Vinny](https://x.com/Umnsnce) | **Source:** [Link](https://x.com/Umnsnce/status/2061646063904440436) | **Published:** Jun 2, 2026
-
----
-### วิดีโอการปฏิวัติแห่งการอธิษฐาน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ข้อความเกี่ยวกับการเริ่มต้นการปฏิวัติแห่งการอธิษฐานที่มาพร้อมกับวิดีโอที่สร้างขึ้น ไม่ใช่ตัวคำสั่ง (prompt) เอง
-
-#### 📝 Prompt
-
-```
-ฉันได้สร้างการฝึกฝน ⚔️การอธิษฐานขึ้นมา
-เมื่อคุณเห็นสิ่งนี้ จงอธิษฐานเถิด ฉันกำลังพยายามที่จะเริ่มการปฏิวัติแห่งการอธิษฐาน :::
-แต่ทุกสิ่งจะเป็นไปตามน้ำพระทัยขององค์พระผู้เป็นเจ้า!
-อาเมน 🙏☦️:::
-🕊️😇🙏🤍😇 :::
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/69cb5db241e0229643e09533ffcc43f4/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอการปฏิวัติแห่งการอธิษฐาน">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5639)**
-
-**Author:** [Irene Sieg](https://x.com/SiegSieg50040) | **Source:** [Link](https://x.com/SiegSieg50040/status/2061640506145182005) | **Published:** Jun 2, 2026
-
----
-### แอนิเมชันยีราฟผมงูสุดเซอร์เรียล
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่งสำหรับ Grok Imagine เพื่อสร้างแอนิเมชันยีราฟที่มีผมเป็นงู โดยเน้นการเคลื่อนไหวของศีรษะที่นุ่มนวลและการเลื้อยที่ดูมีชีวิตชีวา
-
-#### 📝 Prompt
-
-```
-สร้างแอนิเมชันยีราฟผมงูให้ดูมีชีวิตชีวาแต่ยังคงความเป็นธรรมชาติ: งูลายจุดสีน้ำตาล/สีแทนเลื้อยและเคลื่อนไหวอย่างเป็นธรรมชาติเหมือนเส้นผมที่มีชีวิต ยีราฟมีการขยับศีรษะและกะพริบตาเล็กน้อย โดยยังคงสไตล์ภาพพอร์ตเทรตระยะใกล้ที่นุ่มนวล
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/07b8313d7e031ee9e9c48ce2d05c2860/thumbnails/thumbnail.jpg" width="600" alt="แอนิเมชันยีราฟผมงูสุดเซอร์เรียล">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5629)**
-
-**Author:** [Neil Froese](https://x.com/BEMEEK7FOLD) | **Source:** [Link](https://x.com/BEMEEK7FOLD/status/2061632568936599823) | **Published:** Jun 2, 2026
-
----
-### แมวหิมาลายันในโหมดสโลว์โมชัน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) แบบง่ายสำหรับการเคลื่อนไหวกล้องแบบช้าๆ โดยเน้นไปที่แมวหิมาลายัน และเน้นความนิ่งของท่าทาง
-
-#### 📝 Prompt
-
-```
-การเคลื่อนไหวกล้องแบบช้าๆ โดยที่แมวยังคงอยู่นิ่งๆ คุณอาจจะได้แมวหิมาลายันสีฟ้า
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/41110d236908ea133a262ad289e9c9ad/thumbnails/thumbnail.jpg" width="600" alt="แมวหิมาลายันในโหมดสโลว์โมชัน">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5596)**
-
-**Author:** [mikesd333@yahoo.com](https://x.com/mcvee_laser) | **Source:** [Link](https://x.com/mcvee_laser/status/2061555054440747409) | **Published:** Jun 1, 2026
-
----
-### วิดีโอชายไร้บ้านถือป้ายสเก็ตบอร์ด
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพร้อมท์ที่เน้นตัวละครเป็นหลัก โดยเป็นภาพชายคนหนึ่งกำลังถือป้ายที่เขียนด้วยลายมือแบบตลกๆ
-
-#### 📝 Prompt
-
-```
-สร้างวิดีโอของชายวัยกลางคนศีรษะล้านที่ดูไร้บ้าน กำลังถือป้ายที่เขียนด้วยลายมือว่า “Skateboard ran out of gas”
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/26bfe0c206deb073288482af04e8f6f9/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอชายไร้บ้านถือป้ายสเก็ตบอร์ด">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5604)**
-
-**Author:** [William McDonald](https://x.com/w_a_mcdonald) | **Source:** [Link](https://x.com/w_a_mcdonald/status/2061546138386170120) | **Published:** Jun 1, 2026
-
----
-### หุ่นยนต์ทรานส์ฟอร์เมอร์สในธีม NASCAR
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ชุดคำสั่ง (Prompt) สำหรับการจัดวางองค์ประกอบที่ซับซ้อน เพื่อรวมภาพหลายภาพเข้าเป็นหุ่นยนต์ทรานส์ฟอร์เมอร์สสุดเท่เพียงตัวเดียวที่ผสมผสานองค์ประกอบจาก NASCAR
-
-#### 📝 Prompt
-
-```
-เทคโนโลยีสมัยนี้สุดยอดไปเลย
-
-นำภาพทั้ง 4 ภาพมารวมกันเป็นภาพเต็มหน้าจอ โดยสร้างเป็นหุ่นยนต์ทรานส์ฟอร์เมอร์สสุดแกร่งเพียงตัวเดียว ผสมผสานตัวถังรถแข่ง NASCAR สีแดง ขาว และน้ำเงิน ที่โฉบเฉี่ยว เข้ากับลวดลายธงชาติอเมริกันและหัวกะโหลกโจรสลัด ลงบนโครงเกราะและล้อของหุ่นยนต์...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a724f4fda4f01ef99b6e4a7d9f335e9/thumbnails/thumbnail.jpg" width="600" alt="หุ่นยนต์ทรานส์ฟอร์เมอร์สในธีม NASCAR">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5606)**
-
-**Author:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **Source:** [Link](https://x.com/PhilipC34457079/status/2061531075097010679) | **Published:** Jun 1, 2026
-
----
-### พิธีเกษียณอายุของหุ่นยนต์ Grok และ GIF
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) สำหรับสร้างวิดีโอแบบละเอียด ที่แสดงภาพหุ่นยนต์ Grok กำลังมอบของขวัญเกษียณอายุให้กับตัวละคร GIF ท่ามกลางฝูงชน
-
-#### 📝 Prompt
-
-```
-GIF กำลังจะเกษียณอายุ มีฝูงชนผู้ชื่นชมจำนวนมากมาร่วมงาน และป้ายฉลองการเกษียณอายุประดับตกแต่งอยู่ตามผนัง หุ่นยนต์ Grok เดินเข้าไปหา Giffy แล้วมอบของขวัญให้ GIF เปิดของขวัญออกมาเป็นนาฬิกา GIF ยิ้มและกล่าวขอบคุณ Grok ยิ้มตอบกลับด้วยรอยยิ้มที่เต็มไปด้วยความห่วงใย ☺️
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/81fa6aa9c9d18fb3f7946f17b117cdde/thumbnails/thumbnail.jpg" width="600" alt="พิธีเกษียณอายุของหุ่นยนต์ Grok และ GIF">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5597)**
-
-**Author:** [Joe Pelayo](https://x.com/JoeHeadhunter) | **Source:** [Link](https://x.com/JoeHeadhunter/status/2061494348861055177) | **Published:** Jun 1, 2026
-
----
-### การมาถึงของสาวน้อยนักเดินทางข้ามเวลา
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวภาพยนตร์ที่บรรยายถึงเด็กสาวที่กำลังก้าวออกมาจากเครื่องย้อนเวลาทรงจีโอเดสิกในปี 2026
-
-#### 📝 Prompt
-
-```
-เด็กสาวลูกครึ่งนักเดินทางข้ามเวลาเพิ่งลงจอดและเธอกำลังก้าวออกมาจากเครื่องย้อนเวลาทรงจีโอเดสิก เธอหันมองไปรอบๆ และพบว่าตอนนี้คือปี 2026
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/692a89a93ec70330bd1b6103a3710c12/thumbnails/thumbnail.jpg" width="600" alt="การมาถึงของสาวน้อยนักเดินทางข้ามเวลา">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5603)**
-
-**Author:** [Make Britain Great Again](https://x.com/DragonFlam7530) | **Source:** [Link](https://x.com/DragonFlam7530/status/2061485523634368997) | **Published:** Jun 1, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2317,6 +2329,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-15T05:18:43.856Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-15T14:45:20.003Z</sub>
 
 </div>

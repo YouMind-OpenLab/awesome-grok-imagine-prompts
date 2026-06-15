@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1818** |
+| 📝 Total Prompts | **1829** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-15** |
 
@@ -189,6 +189,233 @@ Uma Valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Movimento de Névoa em Noite Estrelada
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt descritivo para o grok-imagine projetado para criar um movimento atmosférico cinematográfico com névoa ondulante, vento e estrelas cintilantes.
+
+#### 📝 Prompt
+
+```
+A névoa e o vento devem ondular e a noite estrelada deve cintilar... Mais movimento no ambiente
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e2b7bbd03cda8852cef9392674af862f/thumbnails/thumbnail.jpg" width="600" alt="Movimento de Névoa em Noite Estrelada">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6060)**
+
+**Author:** [Janice 🟧](https://x.com/titlejt) | **Source:** [Link](https://x.com/titlejt/status/2066358379300442612) | **Published:** Jun 15, 2026
+
+---
+### Personagens de IA em Foguetes Voadores
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Um prompt de vídeo de ficção científica dinâmico onde personagens de IA montam pequenos foguetes individuais em formação em direção a Marte enquanto se comunicam via hologramas.
+
+#### 📝 Prompt
+
+```
+Edite a imagem atual e altere-a para que cada pessoa esteja montada em um foguete individual. Cada criança IA monta seu próprio pequeno foguete futurista, e várias unidades formam uma formação para seguir em direção a Marte juntas. Elas estão discutindo a divisão funcional enquanto continuam a reunião de rascunho via comunicação (link de dados ou holograma). Mantenha um estilo de ficção científica dinâmico e fofo voando pelo espaço, cores vivas e uma atmosfera calorosa.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/24cccb35332fb3f93f501a81dab36352/thumbnails/thumbnail.jpg" width="600" alt="Personagens de IA em Foguetes Voadores">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6059)**
+
+**Author:** [Kafka Beatrix@贖罪卿](https://x.com/botamochi8639) | **Source:** [Link](https://x.com/botamochi8639/status/2066278419013476806) | **Published:** Jun 14, 2026
+
+---
+### Prompt de Vídeo para Cena de Abertura de Anime
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de alta qualidade para gerar sequências de abertura de anime cinematográficas com movimento dinâmico e efeitos de partículas.
+
+#### 📝 Prompt
+
+```
+Cena de abertura de anime de alta qualidade, design de personagem belo, movimento dinâmico de cabelo, partículas brilhantes, fundo de céu emocional, cortes rápidos, pose dramática, estilo anime japonês, vídeo vertical 9:16.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ff214aa391314d1d812e7193352bdc6a/thumbnails/thumbnail.jpg" width="600" alt="Prompt de Vídeo para Cena de Abertura de Anime">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6062)**
+
+**Author:** [クレア](https://x.com/kureakurea01) | **Source:** [Link](https://x.com/kureakurea01/status/2066178860715315424) | **Published:** Jun 14, 2026
+
+---
+### Retrato de Tecnologia Vestível em Academia de Alto Padrão
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um retrato de alta qualidade de uma mulher em um ambiente de academia de luxo, destacando um dispositivo vestível de alta tecnologia montado no pescoço.
+
+#### 📝 Prompt
+
+```
+Uma jovem asiática confiante posando em um estúdio de academia luxuoso, usando um elegante dispositivo vestível de luxo de condução óssea de alta tecnologia, exibido com destaque em seu pescoço e na região da clavícula, com a marca Nadi em letras modernas e elegantes.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4efde8d06b86a11ff41e502fbbfd8064/thumbnails/thumbnail.jpg" width="600" alt="Retrato de Tecnologia Vestível em Academia de Alto Padrão">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6054)**
+
+**Author:** [Mark Richter](https://x.com/wmarkrichter) | **Source:** [Link](https://x.com/wmarkrichter/status/2066089915117367330) | **Published:** Jun 14, 2026
+
+---
+### Edição Profissional de Sobreposição de Texto
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de edição de vídeo para adicionar texto estilizado mantendo a composição original do objeto.
+
+#### 📝 Prompt
+
+```
+Adicione o texto "Sorry" em uma fonte sem serifa branca, elegante e profissional, com uma sombra escura sutil para facilitar a leitura, posicionada na parte inferior central da imagem. Mantenha o retrato da mulher, a expressão, a iluminação e a composição exatamente iguais.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5401722a79f680a88c67e89a1eb5d542/thumbnails/thumbnail.jpg" width="600" alt="Edição Profissional de Sobreposição de Texto">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6053)**
+
+**Author:** [Caroline Winberg](https://x.com/Escort_Breeder) | **Source:** [Link](https://x.com/Escort_Breeder/status/2066078531235274768) | **Published:** Jun 14, 2026
+
+---
+### Movimento Cinematográfico de Gatinho
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico detalhado apresentando um gatinho com pétalas à deriva e partículas brilhantes suaves.
+
+#### 📝 Prompt
+
+```
+câmera: slow cinematic push-in em direção ao personagem gatinho
+motion: pétalas de flores e partículas brilhantes suaves flutuando suavemente pelo ar, animação de respiração sutil, fita movendo-se suavemente com a brisa
+environment: pacífico
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ad93afbcfc31409d09ae35ee19650ee3/thumbnails/thumbnail.jpg" width="600" alt="Movimento Cinematográfico de Gatinho">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6052)**
+
+**Author:** [🐱あやちゃん🐱](https://x.com/AYA22725524) | **Source:** [Link](https://x.com/AYA22725524/status/2066063315940659566) | **Published:** Jun 14, 2026
+
+---
+### Homem tropeçando na praia
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de movimento focado em personagem, apresentando um homem caminhando em uma praia, caindo e se recuperando com um gesto constrangido, porém positivo.
+
+#### 📝 Prompt
+
+```
+Ele caminha para frente enquanto olha para o oceano, então tropeça e cai de cara no chão, levanta-se rapidamente, parece constrangido e faz um sinal de positivo com os dois polegares para a câmera. Preparando-se para a Copa do Mundo.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/74f64fb1749f28870e918625cba191b2/thumbnails/thumbnail.jpg" width="600" alt="Homem tropeçando na praia">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6058)**
+
+**Author:** [Billy Balls](https://x.com/BillyBalls25138) | **Source:** [Link](https://x.com/BillyBalls25138/status/2066060391185019021) | **Published:** Jun 14, 2026
+
+---
+### Mashup de Dança de Super-heróis
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt cinematográfico complexo que cria uma competição de dança entre super-heróis da Marvel e da DC, sincronizada com música e trabalho de câmera dinâmico.
+
+#### 📝 Prompt
+
+```
+Um mashup de super-heróis de diferentes estúdios; Marvel vs DC. Competição de dança ao som da música Beat It de Michael Jackson. Cinematográfico. Ultrarrealista. Movimentos de câmera dinâmicos e cortes rápidos sincronizados com a batida...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4d32f2f101ad577fc5503ab4699ab0b5/thumbnails/thumbnail.jpg" width="600" alt="Mashup de Dança de Super-heróis">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6057)**
+
+**Author:** [Billy Balls](https://x.com/BillyBalls25138) | **Source:** [Link](https://x.com/BillyBalls25138/status/2066059347398963597) | **Published:** Jun 14, 2026
+
+---
+### Cena de pátio ferroviário de filme de ação dos anos 90
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt altamente detalhado que recria uma cena de filme de ação e aventura dos anos 1990, com efeitos práticos e enquadramento cinematográfico.
+
+#### 📝 Prompt
+
+```
+Cena de filme de ação e aventura dos anos 1990, widescreen 16:9, apenas efeitos práticos, filmado em película anamórfica de 35mm, granulação estilo Kodak, calor de deserto poeirento, pátio ferroviário sob o sol, energia de câmera na mão, coreografia de dublês real, sem CGI.
+
+Uma mulher ruiva de cabelos flamejantes, vestindo uma camisa de trabalho bege, jeans azul ajustado, cinto de couro, coldre e botas, corre ao lado de um trem de carga enferrujado enquanto faíscas e fumaça explodem da parede do trem atrás dela. Ela segura um revólver realista baixo na mão direita com o posicionamento correto dos dedos, alinhamento limpo do pulso e postura de corrida verossímil. Seu braço esquerdo balança naturalmente enquanto ela corre, focada e urgente, com o cabelo chicoteando ao vento quente.
+
+0:00–0:03
+Comece exatamente a partir da imagem. Plano médio-aberto de acompanhamento ao lado do trem. Ela corre em direção à esquerda da câmera, respirando com dificuldade, olhando por cima do ombro enquanto faíscas caem do trem. Fumaça atravessa o quadro. O revólver permanece apontado para baixo com segurança enquanto ela corre, com sua empunhadura firme e anatomicamente correta.
+
+0:03–0:06
+Câmera na mão se aproxima. Ela se abaixa enquanto uma explosão prática de efeitos especiais atravessa o vagão atrás dela, enviando faíscas alaranjadas e fumaça preta para fora. Poeira levanta ao redor de suas botas. Seu rosto está determinado, assustado, mas controlado, como uma heroína de ação realista dos anos 1990.
+
+0:06–0:10
+Ela se desliza para trás de um poste de trilho de aço para se proteger, gira bruscamente, levanta o revólver com as duas mãos para uma mira defensiva limpa. Mantenha a arma realista: formato correto do cano, cilindro, guarda-mato, empunhadura natural com as duas mãos, sem dedos deformados, sem dedos extras. Ela ainda não atira — ela escuta, com os olhos examinando através da fumaça.
+
+0:10–0:14
+Uma segunda explosão irrompe mais adiante no trem. Ela se sobressalta, então decide, correndo pelos trilhos em direção a uma abertura entre os vagões de carga. A câmera segue com intenso desfoque de movimento de câmera na mão, faíscas caindo atrás dela como uma chuva de fogo. Termine com ela desaparecendo na fumaça, cabelo e camisa tremulando ao vento, o trem em chamas pairando ao fundo.
+
+Estilo / câmera: filme de cinema do final dos anos 80 / início dos anos 90, visual Panavision anamórfico de 35mm, lente de 50mm, profundidade de campo rasa, pirotecnia prática, fumaça real, poeira real, foco imperfeito, granulação de filme, leve oscilação de película, luz solar quente de deserto, tons de vermelho enferrujado e bege poeirento, tom de aventura e suspense realista, porém colorido.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6c050aadfbef6c20c42ff1ca33bab3d9/thumbnails/thumbnail.jpg" width="600" alt="Cena de pátio ferroviário de filme de ação dos anos 90">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6055)**
+
+**Author:** [Brent Lynch](https://x.com/BrentLynch) | **Source:** [Link](https://x.com/BrentLynch/status/2066014432543883673) | **Published:** Jun 14, 2026
+
+---
+### Poldra Spirit Dancer de Espírito Gentil
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de personagem para uma égua jovem e de natureza dócil chamada Spirit Dancer, enfatizando seu temperamento delicado e nada majestoso.
+
+#### 📝 Prompt
+
+```
+Spirit Dancer é gentil. Ela é doce, jovem e de natureza dócil — uma potra terna com um espírito dourado. Ela não é majestosa ou imponente. Ela é delicada. Ela é aquela que precisa de proteção.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e79f7189f7c07c377fbff84c15e9e88/thumbnails/thumbnail.jpg" width="600" alt="Poldra Spirit Dancer de Espírito Gentil">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6056)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2066010696832180333) | **Published:** Jun 14, 2026
+
+---
+### Drone shot da ascensão vertical do foguete Starship
+
+![한국어](https://img.shields.io/badge/lang-한국어-orange)
+
+> Um prompt de drone cinematográfico e hiper-realista para o Grok Imagine, acompanhando a ascensão vertical de um foguete SpaceX Starship com reflexos e texturas detalhadas.
+
+#### 📝 Prompt
+
+```
+Drone shot cinematográfico hiper-realista de 10 segundos. Tempo ensolarado e brilhante com um céu azul perfeito e nuvens brancas dispersas, luz natural forte e sombras nítidas e definidas. O drone começa muito próximo à base do enorme foguete Starship de aço inoxidável, bem ao lado dos motores da plataforma de lançamento orbital e da estrutura da base preta. Ele realiza uma ascensão vertical poderosa, suave, contínua e acelerada ao longo do corpo do Starship, voando muito perto das paredes de aço inoxidável polido durante todo o trajeto. A inclinação dinâmica da câmera para cima segue a superfície do foguete de perto, revelando cada detalhe surreal: painéis de aço inoxidável reflexivos com linhas de solda visíveis, azulejos hexagonais de proteção térmica de precisão, flaps dianteiros, grid fins e o cone do nariz afiado alcançando o céu. A autenticidade é alcançada através de uma lente de drone grande-angular (equivalente a 24-35mm), leve trepidação natural da câmera e desfoque de movimento realista. Crie um drone shot com movimento cinematográfico suave, texturas e reflexos hiper-realistas, resolução 8K, qualidade IMAX e estilo de filmagem da National Geographic.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c8034ff8719905670778edb2dc3f5aa8/thumbnails/thumbnail.jpg" width="600" alt="Drone shot da ascensão vertical do foguete Starship">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6061)**
+
+**Author:** [Drone V Drone](https://x.com/drone_v_drone) | **Source:** [Link](https://x.com/drone_v_drone/status/2066001253549981818) | **Published:** Jun 14, 2026
+
+---
 ### Anjo Etéreo na Praia de Barcelona
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1059,7 +1286,7 @@ E EU TAMBÉM.
 retrato realista em close-up de uma mulher etérea e pálida com sardas delicadas, pele de porcelana extremamente clara, longos cabelos loiros platinados lisos fluindo suavemente, olhos fechados, expressão serena e mística, lábios em tom pêssego suave. Ela usa uma coroa de halo solar de metal escuro altamente detalhada e ornamentada com pontas afiadas e segmentos de vitral âmbar-alaranjado brilhante que emitem uma luz quente, vestido de fantasia branco: decote profundo, mangas longas ajustadas com renda delicada, detalhes intrincados em renda, cinto metálico largo e ornamentado. Fundo com gradiente neutro minimalista e suavemente desfocado, muito limpo e simples.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a533cb20e1a90db9c39380f6c2d868cf/thumbnails/thumbnail.jpg" width="600" alt="Mulher Etérea com Coroa de Halo Solar">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7a8974a4df2f19b400f5385e12f8a1f0/thumbnails/thumbnail.jpg" width="600" alt="Mulher Etérea com Coroa de Halo Solar">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5968)**
 
@@ -2042,221 +2269,6 @@ Transforme este rosto de mulher cristalizado em uma obra-prima altamente surreal
 **Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2061688291489919386) | **Published:** Jun 2, 2026
 
 ---
-### Cena de sala de estar retrô de 1965
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Uma cena nostálgica de sala de estar dos anos 1960, apresentando um casal em conversa em um sofá.
-
-#### 📝 Prompt
-
-```
-Cena íntima de sala de estar de 1965: um homem e uma mulher na casa dos 20 ou 30 anos sentados próximos em um sofá, envolvidos em uma conversa calorosa sobre seus planos futuros como casal. A mulher tem um penteado clássico dos anos 1960 e veste uma roupa modesta com estampa floral...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/14567eb8a43ab8804a45098929e9df62/thumbnails/thumbnail.jpg" width="600" alt="Cena de sala de estar retrô de 1965">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5641)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2061675923422761335) | **Published:** Jun 2, 2026
-
----
-### Dama Vitoriana no Oceano Místico
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt cinematográfico e poético de uma dama vitoriana à beira-mar, com golfinhos cor-de-rosa, conchas e uma brisa suave.
-
-#### 📝 Prompt
-
-```
-Bela e elegante dama vitoriana sentada perto das ondas do mar tocando em conchas e na espuma salgada do oceano místico, golfinho cor-de-rosa assobiando e dançando, uma bela brisa suave soprando seu longo cabelo ondulado, pétalas de rosas espalhando aromas e fragrâncias, veleje no o...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1064cfaecfd8881ab2e4229369f3eef9/thumbnails/thumbnail.jpg" width="600" alt="Dama Vitoriana no Oceano Místico">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5633)**
-
-**Author:** [Ijaz Malik](https://x.com/Ijazmalik101) | **Source:** [Link](https://x.com/Ijazmalik101/status/2061674290672799816) | **Published:** Jun 2, 2026
-
----
-### Ação de Jeep acelerando para fora da tela
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de movimento cinematográfico para o Grok Imagine que mostra um veículo acelerando e uma câmera que acompanha o rastro de poeira.
-
-#### 📝 Prompt
-
-```
-Ele liga o veículo e acelera para o lado esquerdo da tela. A câmera gira para segui-lo e manter o jeep no enquadramento enquanto ele se afasta, deixando um rastro de poeira.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b33df2a34a203ec1c043b80d6d352455/thumbnails/thumbnail.jpg" width="600" alt="Ação de Jeep acelerando para fora da tela">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5635)**
-
-**Author:** [Robadang ✏️ AI Artist](https://x.com/dang_machina) | **Source:** [Link](https://x.com/dang_machina/status/2061663882704540121) | **Published:** Jun 2, 2026
-
----
-### Vídeo de Arte em Afresco e Azulejos de Cristal
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo decorativo focado em arte em afresco, azulejos de cristal e tubos de água com cores quentes em fluxo.
-
-#### 📝 Prompt
-
-```
-Adicione uma bela arte em afresco, azulejos de cristal e finos tubos de água com cores quentes em fluxo, garantindo que nenhuma parte em aço fique visível
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/354b95fb9e0f4ea57866b6f56fc6128a/thumbnails/thumbnail.jpg" width="600" alt="Vídeo de Arte em Afresco e Azulejos de Cristal">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5627)**
-
-**Author:** [Theo Vinny](https://x.com/Umnsnce) | **Source:** [Link](https://x.com/Umnsnce/status/2061646063904440436) | **Published:** Jun 2, 2026
-
----
-### Vídeo da Revolução da Oração
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Uma mensagem sobre iniciar uma revolução de oração que acompanha um vídeo gerado, em vez do próprio prompt.
-
-#### 📝 Prompt
-
-```
-Eu criei um ⚔️treinamento de oração.
-Quando você vir este trem, faça uma oração. Estou tentando iniciar uma REVOLUÇÃO DE ORAÇÃO :::
-Mas eu serei feito para o Senhor!
-Amém 🙏☦️:::
-🕊️😇🙏🤍😇 :::
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/69cb5db241e0229643e09533ffcc43f4/thumbnails/thumbnail.jpg" width="600" alt="Vídeo da Revolução da Oração">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5639)**
-
-**Author:** [Irene Sieg](https://x.com/SiegSieg50040) | **Source:** [Link](https://x.com/SiegSieg50040/status/2061640506145182005) | **Published:** Jun 2, 2026
-
----
-### Animação surreal de girafa com cabelo de cobra
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt para o Grok Imagine animar uma girafa com cobras no lugar do cabelo, focando em movimentos sutis de cabeça e contorções expressivas.
-
-#### 📝 Prompt
-
-```
-Anime a girafa com cabelo de cobra de uma forma viva, porém natural: as cobras com manchas marrons/bronzeadas se contorcem suavemente e se movem de forma expressiva como se fossem cabelos vivos, a girafa faz movimentos sutis com a cabeça e pisca, mantendo o estilo de retrato em close-up com suavidade
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/07b8313d7e031ee9e9c48ce2d05c2860/thumbnails/thumbnail.jpg" width="600" alt="Animação surreal de girafa com cabelo de cobra">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5629)**
-
-**Author:** [Neil Froese](https://x.com/BEMEEK7FOLD) | **Source:** [Link](https://x.com/BEMEEK7FOLD/status/2061632568936599823) | **Published:** Jun 2, 2026
-
----
-### Gato Himalaio em Câmera Lenta
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt simples para um movimento de câmera lento com foco em um gato Himalaio, enfatizando a relativa imobilidade.
-
-#### 📝 Prompt
-
-```
-Movimento de câmera lento, o gato permanece relativamente imóvel. Você pode obter um gato Himalaio azul.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/41110d236908ea133a262ad289e9c9ad/thumbnails/thumbnail.jpg" width="600" alt="Gato Himalaio em Câmera Lenta">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5596)**
-
-**Author:** [mikesd333@yahoo.com](https://x.com/mcvee_laser) | **Source:** [Link](https://x.com/mcvee_laser/status/2061555054440747409) | **Published:** Jun 1, 2026
-
----
-### Vídeo de homem em situação de rua com placa de skate
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo focado em personagem, mostrando um homem segurando uma placa engraçada feita à mão.
-
-#### 📝 Prompt
-
-```
-Crie um vídeo de um homem de meia-idade, calvo e em situação de rua, segurando uma placa feita à mão que diz: "O skate ficou sem gasolina".
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/26bfe0c206deb073288482af04e8f6f9/thumbnails/thumbnail.jpg" width="600" alt="Vídeo de homem em situação de rua com placa de skate">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5604)**
-
-**Author:** [William McDonald](https://x.com/w_a_mcdonald) | **Source:** [Link](https://x.com/w_a_mcdonald/status/2061546138386170120) | **Published:** Jun 1, 2026
-
----
-### Composto de Robô Transformer da NASCAR
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de layout complexo para combinar várias imagens em um único robô Transformer heroico com elementos da NASCAR.
-
-#### 📝 Prompt
-
-```
-Uau, a tecnologia hoje em dia
-
-Combine essas 4 imagens em uma única imagem em tela cheia, criando um poderoso robô Transformer heroico. Misture a carroceria elegante vermelha, branca e azul do carro da NASCAR, com decalques da bandeira americana e de caveira pirata, no chassi blindado, rodas...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a724f4fda4f01ef99b6e4a7d9f335e9/thumbnails/thumbnail.jpg" width="600" alt="Composto de Robô Transformer da NASCAR">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5606)**
-
-**Author:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **Source:** [Link](https://x.com/PhilipC34457079/status/2061531075097010679) | **Published:** Jun 1, 2026
-
----
-### Cerimônia de Aposentadoria do Robô Grok e do GIF
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt narrativo detalhado para um vídeo mostrando o robô Grok presenteando um personagem GIF com um presente de aposentadoria em meio a uma multidão.
-
-#### 📝 Prompt
-
-```
-O GIF está se aposentando. Há uma grande multidão de admiradores e cartazes de feliz aposentadoria adornam as paredes, e o robô Grok caminha até o Giffy e lhe entrega um presente. O GIF abre o presente. É um relógio. O GIF sorri e diz obrigado. Grok retribui com um sorriso carinhoso. ☺️
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/81fa6aa9c9d18fb3f7946f17b117cdde/thumbnails/thumbnail.jpg" width="600" alt="Cerimônia de Aposentadoria do Robô Grok e do GIF">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5597)**
-
-**Author:** [Joe Pelayo](https://x.com/JoeHeadhunter) | **Source:** [Link](https://x.com/JoeHeadhunter/status/2061494348861055177) | **Published:** Jun 1, 2026
-
----
-### A Chegada da Viajante do Tempo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cinematográfico descrevendo uma garota saindo de uma máquina do tempo geodésica no ano de 2026.
-
-#### 📝 Prompt
-
-```
-Uma garota mestiça viajante do tempo acabou de aterrissar e sai de sua máquina do tempo geodésica, ela olha em volta e vê que o ano é 2026
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/692a89a93ec70330bd1b6103a3710c12/thumbnails/thumbnail.jpg" width="600" alt="A Chegada da Viajante do Tempo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5603)**
-
-**Author:** [Make Britain Great Again](https://x.com/DragonFlam7530) | **Source:** [Link](https://x.com/DragonFlam7530/status/2061485523634368997) | **Published:** Jun 1, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2318,6 +2330,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-15T05:18:53.639Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-15T14:45:30.100Z</sub>
 
 </div>

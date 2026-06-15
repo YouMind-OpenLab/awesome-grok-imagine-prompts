@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1818** |
+| 📝 Total Prompts | **1829** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-15** |
 
@@ -189,6 +189,233 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Chuyển động sương mù đêm đầy sao
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh mô tả cho grok-imagine được thiết kế để tạo ra chuyển động điện ảnh đầy không khí với sương mù gợn sóng, gió và những ngôi sao nhấp nháy.
+
+#### 📝 Prompt
+
+```
+Sương mù và gió nên gợn sóng và đêm đầy sao nhấp nháy … Thêm chuyển động môi trường
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e2b7bbd03cda8852cef9392674af862f/thumbnails/thumbnail.jpg" width="600" alt="Chuyển động sương mù đêm đầy sao">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6060)**
+
+**Author:** [Janice 🟧](https://x.com/titlejt) | **Source:** [Link](https://x.com/titlejt/status/2066358379300442612) | **Published:** Jun 15, 2026
+
+---
+### Các nhân vật AI trên những tên lửa bay
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một câu lệnh tạo video khoa học viễn tưởng đầy năng động, trong đó các nhân vật AI cưỡi trên những tên lửa nhỏ riêng lẻ theo đội hình hướng về Sao Hỏa trong khi giao tiếp qua ảnh toàn ký.
+
+#### 📝 Prompt
+
+```
+Chỉnh sửa hình ảnh hiện tại để mỗi người cưỡi trên một tên lửa riêng. Mỗi AI trẻ em cưỡi trên chiếc tên lửa nhỏ mang phong cách tương lai của riêng mình, và nhiều đơn vị tạo thành một đội hình cùng bay đến Sao Hỏa. Chúng đang thảo luận về việc phân chia chức năng trong khi tiếp tục cuộc họp dự thảo thông qua liên lạc (liên kết dữ liệu hoặc ảnh toàn ký). Duy trì phong cách khoa học viễn tưởng năng động và dễ thương khi bay qua không gian, với màu sắc sống động và bầu không khí ấm áp.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/24cccb35332fb3f93f501a81dab36352/thumbnails/thumbnail.jpg" width="600" alt="Các nhân vật AI trên những tên lửa bay">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6059)**
+
+**Author:** [Kafka Beatrix@贖罪卿](https://x.com/botamochi8639) | **Source:** [Link](https://x.com/botamochi8639/status/2066278419013476806) | **Published:** Jun 14, 2026
+
+---
+### Prompt video cho cảnh mở đầu Anime
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt chất lượng cao để tạo các phân cảnh mở đầu anime đậm chất điện ảnh với chuyển động linh hoạt và hiệu ứng hạt.
+
+#### 📝 Prompt
+
+```
+Cảnh mở đầu anime chất lượng cao, thiết kế nhân vật đẹp mắt, chuyển động tóc linh hoạt, hiệu ứng hạt phát sáng, phông nền bầu trời đầy cảm xúc, cắt cảnh nhanh, tạo dáng ấn tượng, phong cách anime Nhật Bản, video dọc tỉ lệ 9:16.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ff214aa391314d1d812e7193352bdc6a/thumbnails/thumbnail.jpg" width="600" alt="Prompt video cho cảnh mở đầu Anime">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6062)**
+
+**Author:** [クレア](https://x.com/kureakurea01) | **Source:** [Link](https://x.com/kureakurea01/status/2066178860715315424) | **Published:** Jun 14, 2026
+
+---
+### Chân dung công nghệ đeo thông minh tại phòng gym đầy tự tin
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ảnh chân dung chất lượng cao của một người phụ nữ trong không gian phòng gym sang trọng, làm nổi bật thiết bị đeo công nghệ cao gắn ở cổ.
+
+#### 📝 Prompt
+
+```
+Một phụ nữ trẻ người Đông Á đầy tự tin đang tạo dáng trong phòng tập gym sang trọng, đeo một thiết bị đeo cao cấp dẫn truyền xương vùng xương quai xanh với thiết kế tinh tế, hiện đại, nổi bật trên vùng cổ và xương quai xanh, với thương hiệu Nadi được in bằng phông chữ hiện đại, thanh lịch.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4efde8d06b86a11ff41e502fbbfd8064/thumbnails/thumbnail.jpg" width="600" alt="Chân dung công nghệ đeo thông minh tại phòng gym đầy tự tin">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6054)**
+
+**Author:** [Mark Richter](https://x.com/wmarkrichter) | **Source:** [Link](https://x.com/wmarkrichter/status/2066089915117367330) | **Published:** Jun 14, 2026
+
+---
+### Chỉnh sửa lớp phủ văn bản chuyên nghiệp
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh chỉnh sửa video giúp thêm văn bản cách điệu trong khi vẫn giữ nguyên bố cục của chủ thể gốc.
+
+#### 📝 Prompt
+
+```
+Thêm văn bản "Sorry" bằng phông chữ sans-serif màu trắng thanh lịch, chuyên nghiệp với hiệu ứng đổ bóng tối tinh tế để dễ đọc, được đặt ở vị trí chính giữa phía dưới hình ảnh. Giữ nguyên chân dung, biểu cảm, ánh sáng và bố cục của người phụ nữ.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5401722a79f680a88c67e89a1eb5d542/thumbnails/thumbnail.jpg" width="600" alt="Chỉnh sửa lớp phủ văn bản chuyên nghiệp">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6053)**
+
+**Author:** [Caroline Winberg](https://x.com/Escort_Breeder) | **Source:** [Link](https://x.com/Escort_Breeder/status/2066078531235274768) | **Published:** Jun 14, 2026
+
+---
+### Video chú mèo con đậm chất điện ảnh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) tạo video điện ảnh chi tiết với hình ảnh chú mèo con cùng những cánh hoa bay và các hạt sáng lung linh.
+
+#### 📝 Prompt
+
+```
+camera: chuyển động quay chậm kiểu điện ảnh tiến dần về phía nhân vật chú mèo con
+motion: những cánh hoa và các hạt sáng lung linh trôi nhẹ trong không trung, hiệu ứng thở tinh tế, dải ruy băng chuyển động nhẹ nhàng trong gió
+environment: yên bình
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ad93afbcfc31409d09ae35ee19650ee3/thumbnails/thumbnail.jpg" width="600" alt="Video chú mèo con đậm chất điện ảnh">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6052)**
+
+**Author:** [🐱あやちゃん🐱](https://x.com/AYA22725524) | **Source:** [Link](https://x.com/AYA22725524/status/2066063315940659566) | **Published:** Jun 14, 2026
+
+---
+### Người đàn ông vấp ngã trên bãi biển
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh chuyển động tập trung vào nhân vật, mô tả một người đàn ông đang đi dạo trên bãi biển, bị ngã và đứng dậy với cử chỉ ngượng ngùng nhưng đầy tích cực.
+
+#### 📝 Prompt
+
+```
+Anh ấy vừa đi vừa nhìn ra biển, sau đó vấp ngã sấp mặt, rồi bật dậy, tỏ vẻ ngượng ngùng và giơ hai ngón tay cái về phía máy quay. Đang chuẩn bị cho World Cup.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/74f64fb1749f28870e918625cba191b2/thumbnails/thumbnail.jpg" width="600" alt="Người đàn ông vấp ngã trên bãi biển">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6058)**
+
+**Author:** [Billy Balls](https://x.com/BillyBalls25138) | **Source:** [Link](https://x.com/BillyBalls25138/status/2066060391185019021) | **Published:** Jun 14, 2026
+
+---
+### Màn nhảy đối kháng của các siêu anh hùng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) điện ảnh phức tạp tạo ra cuộc thi nhảy đối kháng giữa các siêu anh hùng Marvel và DC, được đồng bộ hóa với âm nhạc cùng các góc quay năng động.
+
+#### 📝 Prompt
+
+```
+Sự kết hợp giữa các siêu anh hùng từ những studio khác nhau; Marvel đấu với DC. Cuộc thi nhảy đối kháng trên nền nhạc bài Beat It của Michael Jackson. Điện ảnh. Siêu thực tế. Các chuyển động máy quay năng động và kỹ thuật cắt cảnh nhanh được đồng bộ hóa theo nhịp điệu....
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4d32f2f101ad577fc5503ab4699ab0b5/thumbnails/thumbnail.jpg" width="600" alt="Màn nhảy đối kháng của các siêu anh hùng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6057)**
+
+**Author:** [Billy Balls](https://x.com/BillyBalls25138) | **Source:** [Link](https://x.com/BillyBalls25138/status/2066059347398963597) | **Published:** Jun 14, 2026
+
+---
+### Cảnh quay tại sân ga trong phim hành động thập niên 90
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) chi tiết tái hiện cảnh phim hành động phiêu lưu điện ảnh thập niên 1990 với các hiệu ứng thực tế và bố cục khung hình đậm chất điện ảnh.
+
+#### 📝 Prompt
+
+```
+Cảnh phim hành động phiêu lưu điện ảnh cổ điển thập niên 1990, màn hình rộng 16:9, chỉ sử dụng hiệu ứng thực tế, quay bằng phim anamorphic 35mm, hạt phim kiểu Kodak, không khí sa mạc bụi bặm, sân ga bị nung nóng dưới ánh mặt trời, chuyển động camera cầm tay đầy năng lượng, dàn dựng cảnh đóng thế thực tế, không sử dụng CGI.
+
+Một người phụ nữ tóc đỏ rực mặc áo sơ mi công nhân màu nâu nhạt, quần jeans xanh ôm sát, thắt lưng da, bao súng và bốt đang chạy bên cạnh một đoàn tàu chở hàng rỉ sét khi tia lửa và khói bùng lên từ vách tàu phía sau cô. Cô nắm chặt một khẩu súng lục đạo cụ chân thực ở tay phải, đặt ngón tay đúng vị trí, cổ tay thẳng hàng và tư thế chạy trông tự nhiên. Cánh tay trái của cô vung vẩy tự nhiên khi cô chạy nước rút, đầy tập trung và khẩn trương, mái tóc bay trong gió nóng.
+
+0: 00–0:03
+Bắt đầu chính xác từ hình ảnh. Cú máy tracking trung-toàn cảnh bên cạnh đoàn tàu. Cô chạy về phía bên trái camera, thở dốc, nhìn qua vai khi tia lửa bắn ra từ đoàn tàu. Khói cuộn qua khung hình. Khẩu súng lục vẫn hướng xuống dưới một cách an toàn khi cô chạy, tay cầm chắc chắn và giải phẫu chính xác.
+
+0: 03–0:06
+Camera cầm tay tiến lại gần hơn. Cô cúi người khi một vụ nổ squib thực tế xuyên qua toa tàu phía sau, tạo ra tia lửa màu cam và khói đen tỏa ra ngoài. Bụi bốc lên quanh đôi bốt của cô. Gương mặt cô đầy quyết tâm, sợ hãi nhưng vẫn kiểm soát tốt, giống như một nữ anh hùng hành động thực tế của thập niên 1990.
+
+0: 06–0:10
+Cô trượt người ra sau một cột ray thép để ẩn nấp, xoay người nhanh chóng, giơ khẩu súng lục bằng cả hai tay để nhắm mục tiêu phòng thủ dứt khoát. Giữ cho khẩu súng trông chân thực: hình dạng nòng súng, ổ đạn, vòng bảo vệ cò súng, cách cầm bằng hai tay tự nhiên, không bị biến dạng ngón tay, không thừa ngón. Cô chưa bắn — cô lắng nghe, mắt quét qua làn khói đang trôi.
+
+0: 10–0:14
+Một vụ nổ thứ hai bùng lên ở phía xa đoàn tàu. Cô giật mình, sau đó quyết tâm chạy nước rút băng qua đường ray về phía khoảng trống giữa các toa tàu chở hàng. Camera theo sát với chuyển động nhòe do camera cầm tay đầy kịch tính, tia lửa rơi phía sau cô như một cơn mưa lửa. Kết thúc khi cô biến mất vào làn khói, tóc và áo bay phần phật trong gió, đoàn tàu đang cháy lù lù phía sau.
+
+Phong cách / camera: phim điện ảnh cuối thập niên 1980 / đầu thập niên 1990, diện mạo Panavision anamorphic 35mm, ống kính 50mm, độ sâu trường ảnh nông, kỹ thuật pháo hoa thực tế, khói thật, bụi thật, lấy nét không hoàn hảo, hạt phim, độ rung nhẹ của khung hình, ánh nắng sa mạc ấm áp, màu đỏ rỉ sét và màu nâu bụi bặm, tông màu phiêu lưu-giật gân gai góc nhưng đầy màu sắc.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6c050aadfbef6c20c42ff1ca33bab3d9/thumbnails/thumbnail.jpg" width="600" alt="Cảnh quay tại sân ga trong phim hành động thập niên 90">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6055)**
+
+**Author:** [Brent Lynch](https://x.com/BrentLynch) | **Source:** [Link](https://x.com/BrentLynch/status/2066014432543883673) | **Published:** Jun 14, 2026
+
+---
+### Cô ngựa con Spirit Dancer dịu dàng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý nhân vật cho cô ngựa con trẻ tuổi, tính cách nhẹ nhàng tên là Spirit Dancer, nhấn mạnh vào khí chất thanh tú và không hề vương giả của cô bé.
+
+#### 📝 Prompt
+
+```
+Spirit Dancer rất dịu dàng. Cô bé ngọt ngào, trẻ tuổi và có bản tính nhẹ nhàng — một cô ngựa con bé bỏng, đáng yêu với tâm hồn thuần khiết. Cô bé không hề vương giả hay uy quyền. Cô bé rất thanh tú và là người cần được che chở.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e79f7189f7c07c377fbff84c15e9e88/thumbnails/thumbnail.jpg" width="600" alt="Cô ngựa con Spirit Dancer dịu dàng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6056)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2066010696832180333) | **Published:** Jun 14, 2026
+
+---
+### Cảnh quay drone tên lửa Starship bay thẳng đứng
+
+![한국어](https://img.shields.io/badge/lang-한국어-orange)
+
+> Một câu lệnh tạo ảnh cinematic và siêu thực cho Grok Imagine, mô tả cảnh quay drone theo sát quá trình bay thẳng đứng của tên lửa SpaceX Starship với các chi tiết phản chiếu và kết cấu chân thực.
+
+#### 📝 Prompt
+
+```
+Cảnh quay drone 10 giây theo phong cách cinematic siêu thực. Thời tiết nắng ráo với bầu trời xanh trong vắt cùng những đám mây trắng rải rác, ánh sáng tự nhiên mạnh mẽ, đổ bóng sắc nét. Drone bắt đầu ở vị trí rất gần phần đế của tên lửa Starship bằng thép không gỉ khổng lồ, ngay cạnh các động cơ tại bệ phóng quỹ đạo và cấu trúc đế màu đen. Drone thực hiện cú bay thẳng đứng mạnh mẽ, mượt mà, liên tục và tăng tốc dọc theo thân tên lửa Starship, bay sát các vách thép không gỉ được đánh bóng trong suốt quá trình. Góc máy nghiêng lên trên đầy năng động bám sát bề mặt tên lửa, làm lộ rõ từng chi tiết siêu thực: các tấm thép không gỉ phản chiếu với những đường hàn có thể nhìn thấy, các tấm chắn nhiệt hình lục giác chính xác, cánh tà phía trước, cánh lưới và phần mũi nhọn hướng lên bầu trời. Tính chân thực được tạo nên thông qua ống kính drone góc rộng (tương đương 24-35mm), độ rung máy tự nhiên tinh tế và hiệu ứng nhòe chuyển động chân thực. Tạo một cảnh quay drone với chuyển động cinematic mượt mà, kết cấu và độ phản chiếu siêu thực, độ phân giải 8K, chất lượng IMAX và phong cách phim National Geographic.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c8034ff8719905670778edb2dc3f5aa8/thumbnails/thumbnail.jpg" width="600" alt="Cảnh quay drone tên lửa Starship bay thẳng đứng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6061)**
+
+**Author:** [Drone V Drone](https://x.com/drone_v_drone) | **Source:** [Link](https://x.com/drone_v_drone/status/2066001253549981818) | **Published:** Jun 14, 2026
+
+---
 ### Thiên thần thoát tục trên bãi biển Barcelona
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1059,7 +1286,7 @@ VÀ TÔI CŨNG VẬY.
 chân dung cận cảnh chân thực của một người phụ nữ thanh tao, da trắng nhợt, tàn nhang tinh tế, làn da sứ cực kỳ nhợt nhạt, mái tóc dài thẳng màu vàng bạch kim buông xõa nhẹ nhàng, đôi mắt nhắm nghiền, biểu cảm thanh thản và huyền bí, đôi môi màu đào dịu nhẹ. Cô ấy đội một chiếc vương miện hào quang bằng kim loại tối màu tinh xảo với các gai nhọn và những mảnh kính màu cam hổ phách phát sáng tỏa ra ánh sáng ấm áp, váy trắng giả tưởng : cổ khoét sâu, tay áo dài ôm sát với ren tinh tế, các chi tiết ren phức tạp, thắt lưng kim loại trang trí rộng bản. Nền gradient trung tính mờ ảo tối giản, rất sạch sẽ và đơn giản.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a533cb20e1a90db9c39380f6c2d868cf/thumbnails/thumbnail.jpg" width="600" alt="Người phụ nữ thanh tao với vương miện hào quang rực rỡ">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7a8974a4df2f19b400f5385e12f8a1f0/thumbnails/thumbnail.jpg" width="600" alt="Người phụ nữ thanh tao với vương miện hào quang rực rỡ">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5968)**
 
@@ -2041,221 +2268,6 @@ Hãy biến khuôn mặt người phụ nữ pha lê này thành một kiệt t�
 **Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2061688291489919386) | **Published:** Jun 2, 2026
 
 ---
-### Bối cảnh phòng khách phong cách retro năm 1965
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một khung cảnh phòng khách đầy hoài niệm thập niên 1960 với hình ảnh một cặp đôi đang trò chuyện trên ghế sofa.
-
-#### 📝 Prompt
-
-```
-Khung cảnh phòng khách thân mật năm 1965: một người đàn ông và một người phụ nữ ở độ tuổi cuối 20 hoặc đầu 30 đang ngồi sát nhau trên ghế sofa, say sưa trò chuyện về những dự định tương lai của cả hai. Người phụ nữ để kiểu tóc búi phồng cổ điển thập niên 1960 và mặc một chiếc váy hoa giản dị...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/14567eb8a43ab8804a45098929e9df62/thumbnails/thumbnail.jpg" width="600" alt="Bối cảnh phòng khách phong cách retro năm 1965">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5641)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2061675923422761335) | **Published:** Jun 2, 2026
-
----
-### Quý cô thời Victoria bên đại dương huyền bí
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh mang tính điện ảnh và đầy chất thơ về một quý cô thời Victoria bên bờ biển, với hình ảnh cá heo hồng, vỏ sò và làn gió nhẹ nhàng.
-
-#### 📝 Prompt
-
-```
-Quý cô thời Victoria xinh đẹp, thanh lịch đang ngồi gần những con sóng biển, chạm vào vỏ sò và bọt biển mặn, đại dương huyền bí, cá heo hồng đang huýt sáo và nhảy múa, làn gió nhẹ nhàng tuyệt đẹp thổi bay mái tóc dài gợn sóng của cô ấy, những cánh hoa hồng lan tỏa hương thơm, cánh buồm trên đại dương...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1064cfaecfd8881ab2e4229369f3eef9/thumbnails/thumbnail.jpg" width="600" alt="Quý cô thời Victoria bên đại dương huyền bí">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5633)**
-
-**Author:** [Ijaz Malik](https://x.com/Ijazmalik101) | **Source:** [Link](https://x.com/Ijazmalik101/status/2061674290672799816) | **Published:** Jun 2, 2026
-
----
-### Hành động xe Jeep tăng tốc rời khỏi khung hình
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh chuyển động điện ảnh cho Grok Imagine, mô tả một phương tiện đang tăng tốc rời đi và camera lia theo vệt bụi phía sau.
-
-#### 📝 Prompt
-
-```
-Anh ấy khởi động xe và chiếc xe tăng tốc lao ra khỏi phía bên trái màn hình. Camera xoay theo để bắt trọn hình ảnh anh ấy và chiếc xe Jeep khi nó lao đi, để lại một vệt bụi phía sau.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b33df2a34a203ec1c043b80d6d352455/thumbnails/thumbnail.jpg" width="600" alt="Hành động xe Jeep tăng tốc rời khỏi khung hình">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5635)**
-
-**Author:** [Robadang ✏️ AI Artist](https://x.com/dang_machina) | **Source:** [Link](https://x.com/dang_machina/status/2061663882704540121) | **Published:** Jun 2, 2026
-
----
-### Video về tác phẩm nghệ thuật Fresco và gạch pha lê
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video gợi ý trang trí tập trung vào tác phẩm nghệ thuật fresco, gạch pha lê và các ống nước màu ấm chảy tràn.
-
-#### 📝 Prompt
-
-```
-Thêm tác phẩm nghệ thuật fresco tuyệt đẹp, gạch pha lê và các ống nước màu ấm chảy tràn bên trong để đảm bảo không lộ phần thép
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/354b95fb9e0f4ea57866b6f56fc6128a/thumbnails/thumbnail.jpg" width="600" alt="Video về tác phẩm nghệ thuật Fresco và gạch pha lê">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5627)**
-
-**Author:** [Theo Vinny](https://x.com/Umnsnce) | **Source:** [Link](https://x.com/Umnsnce/status/2061646063904440436) | **Published:** Jun 2, 2026
-
----
-### Video về Cuộc cách mạng cầu nguyện
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một thông điệp về việc khởi xướng cuộc cách mạng cầu nguyện đi kèm với video được tạo, thay vì chỉ là câu lệnh (prompt).
-
-#### 📝 Prompt
-
-```
-Tôi đã tạo một ⚔️ khóa đào tạo cầu nguyện .
-Khi bạn thấy khóa đào tạo này, hãy dành một lời cầu nguyện. Tôi đang cố gắng bắt đầu một CUỘC CÁCH MẠNG CẦU NGUYỆN :::
-Nhưng tôi sẽ hoàn thành theo ý Chúa!
-Amen 🙏☦️:::
-🕊️😇🙏🤍😇 :::
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/69cb5db241e0229643e09533ffcc43f4/thumbnails/thumbnail.jpg" width="600" alt="Video về Cuộc cách mạng cầu nguyện">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5639)**
-
-**Author:** [Irene Sieg](https://x.com/SiegSieg50040) | **Source:** [Link](https://x.com/SiegSieg50040/status/2061640506145182005) | **Published:** Jun 2, 2026
-
----
-### Hoạt ảnh hươu cao cổ với mái tóc rắn siêu thực
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh dành cho Grok Imagine để tạo hoạt ảnh cho hươu cao cổ với mái tóc là những con rắn, tập trung vào các chuyển động đầu tinh tế và sự uốn éo đầy biểu cảm.
-
-#### 📝 Prompt
-
-```
-Tạo hoạt ảnh cho hươu cao cổ với mái tóc rắn một cách sống động nhưng tự nhiên: những con rắn đốm nâu/vàng nhạt uốn éo nhẹ nhàng và di chuyển đầy biểu cảm như mái tóc thật, hươu cao cổ thực hiện các chuyển động đầu tinh tế và chớp mắt, duy trì phong cách chân dung cận cảnh với sự mượt mà
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/07b8313d7e031ee9e9c48ce2d05c2860/thumbnails/thumbnail.jpg" width="600" alt="Hoạt ảnh hươu cao cổ với mái tóc rắn siêu thực">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5629)**
-
-**Author:** [Neil Froese](https://x.com/BEMEEK7FOLD) | **Source:** [Link](https://x.com/BEMEEK7FOLD/status/2061632568936599823) | **Published:** Jun 2, 2026
-
----
-### Mèo Himalayan chuyển động chậm
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh đơn giản cho chuyển động camera chậm tập trung vào một chú mèo Himalayan, nhấn mạnh sự tĩnh lặng tương đối.
-
-#### 📝 Prompt
-
-```
-Chuyển động camera chậm, mèo vẫn tương đối tĩnh. Bạn có thể nhận được một chú mèo Himalayan màu xanh.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/41110d236908ea133a262ad289e9c9ad/thumbnails/thumbnail.jpg" width="600" alt="Mèo Himalayan chuyển động chậm">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5596)**
-
-**Author:** [mikesd333@yahoo.com](https://x.com/mcvee_laser) | **Source:** [Link](https://x.com/mcvee_laser/status/2061555054440747409) | **Published:** Jun 1, 2026
-
----
-### Video người vô gia cư cầm biển báo ván trượt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt tập trung vào nhân vật, mô tả một người đàn ông đang cầm tấm biển vẽ tay hài hước.
-
-#### 📝 Prompt
-
-```
-Tạo một video về một người đàn ông trung niên bị hói, vô gia cư đang cầm tấm biển vẽ tay với dòng chữ “Ván trượt hết xăng rồi”.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/26bfe0c206deb073288482af04e8f6f9/thumbnails/thumbnail.jpg" width="600" alt="Video người vô gia cư cầm biển báo ván trượt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5604)**
-
-**Author:** [William McDonald](https://x.com/w_a_mcdonald) | **Source:** [Link](https://x.com/w_a_mcdonald/status/2061546138386170120) | **Published:** Jun 1, 2026
-
----
-### Mô hình Robot Transformer phong cách NASCAR
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh bố cục phức tạp để kết hợp nhiều hình ảnh thành một robot Transformer anh hùng duy nhất với các yếu tố NASCAR.
-
-#### 📝 Prompt
-
-```
-Công nghệ ngày nay thật đáng kinh ngạc
-
-Hãy kết hợp 4 hình ảnh đó thành một hình ảnh toàn màn hình bằng cách tạo ra một robot Transformer anh hùng đầy uy lực. Pha trộn phần thân xe đua NASCAR với tông màu đỏ, trắng, xanh cùng các họa tiết cờ Mỹ và đầu lâu cướp biển vào khung gầm bọc thép, bánh xe của robot...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a724f4fda4f01ef99b6e4a7d9f335e9/thumbnails/thumbnail.jpg" width="600" alt="Mô hình Robot Transformer phong cách NASCAR">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5606)**
-
-**Author:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **Source:** [Link](https://x.com/PhilipC34457079/status/2061531075097010679) | **Published:** Jun 1, 2026
-
----
-### Robot Grok và Lễ nghỉ hưu của GIF
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý tường thuật chi tiết cho video mô tả robot Grok trao quà nghỉ hưu cho một nhân vật GIF giữa đám đông.
-
-#### 📝 Prompt
-
-```
-GIF sắp nghỉ hưu. Có một đám đông lớn những người ngưỡng mộ và các tấm biển chúc mừng nghỉ hưu được trang trí trên tường, rồi robot Grok bước tới và trao cho Giffy một món quà. GIF mở món quà ra. Đó là một chiếc đồng hồ. GIF mỉm cười và nói cảm ơn. Grok mỉm cười đáp lại một cách đầy ân cần. ☺️
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/81fa6aa9c9d18fb3f7946f17b117cdde/thumbnails/thumbnail.jpg" width="600" alt="Robot Grok và Lễ nghỉ hưu của GIF">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5597)**
-
-**Author:** [Joe Pelayo](https://x.com/JoeHeadhunter) | **Source:** [Link](https://x.com/JoeHeadhunter/status/2061494348861055177) | **Published:** Jun 1, 2026
-
----
-### Cô gái du hành thời gian xuất hiện
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video điện ảnh mô tả một cô gái bước ra từ cỗ máy thời gian hình cầu vào năm 2026.
-
-#### 📝 Prompt
-
-```
-Cô gái lai du hành thời gian vừa hạ cánh và bước ra khỏi cỗ máy thời gian hình cầu của mình, cô nhìn xung quanh và thấy rằng đó là năm 2026
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/692a89a93ec70330bd1b6103a3710c12/thumbnails/thumbnail.jpg" width="600" alt="Cô gái du hành thời gian xuất hiện">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5603)**
-
-**Author:** [Make Britain Great Again](https://x.com/DragonFlam7530) | **Source:** [Link](https://x.com/DragonFlam7530/status/2061485523634368997) | **Published:** Jun 1, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2317,6 +2329,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-15T05:18:44.888Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-15T14:45:21.178Z</sub>
 
 </div>
