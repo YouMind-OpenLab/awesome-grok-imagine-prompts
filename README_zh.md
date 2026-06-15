@@ -70,7 +70,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 |--------|-------|
 | 📝 提示词总数 | **1818** |
 | ⭐ 精选提示词 | **3** |
-| 🔄 最后更新 | **2026-06-14** |
+| 🔄 最后更新 | **2026-06-15** |
 
 ---
 
@@ -2317,6 +2317,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-06-14T21:34:29.733Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-06-15T05:18:39.035Z</sub>
 
 </div>
