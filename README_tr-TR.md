@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1829** |
+| 📝 Total Prompts | **1839** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-16** |
 
@@ -189,6 +189,147 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Sanat Galerisi Küratörü Eylemi ve Diyaloğu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gözlük düzeltme ve el hareketleri gibi karakter eylemlerini belirten, sinematik bir sahne için sözlü diyaloglarla tamamlanmış gelişmiş bir video istemi.
+
+#### 📝 Prompt
+
+```
+Eylem: Gözlüğünü düzeltir, dikkatini izleyiciye odaklamak için tabletini indirir ve galeriye doğru davetkar bir el hareketi yapar.
+
+Diyalog: "Güzelliği analiz etmek bir sanattır, ancak onu yaratmak bizim tutkumuzdur. Görünenin ötesine bakın. İşte DHC."
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2066664682161655808/img/K5Wmw35cSxStWmyK.jpg" width="600" alt="Sanat Galerisi Küratörü Eylemi ve Diyaloğu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6101)**
+
+**Author:** [HughStiel/DogeHeadCoin $DHC](https://x.com/hugh_stiel) | **Source:** [Link](https://x.com/hugh_stiel/status/2066664734288490587) | **Published:** Jun 15, 2026
+
+---
+### Bulutların Üzerinde Neon Demiryolu Yolcusu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Alacakaranlıkta parlayan bulutlardan oluşan bir denizin üzerinde uzanan neon ışıklı bir demiryolunda yürüyen bir yolcuyu betimleyen görsel video istemi.
+
+#### 📝 Prompt
+
+```
+Yalnız bir yolcu, alacakaranlıkta parlayan bulutlardan oluşan uçsuz bucaksız bir denizin üzerinde uzanan neon ışıklı bir demiryolu hattı boyunca yürüyor. Yolculuğun kendisi varılacak hedeften daha önemli.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4c1b5eade1100fe70306ad521da520d5/thumbnails/thumbnail.jpg" width="600" alt="Bulutların Üzerinde Neon Demiryolu Yolcusu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6095)**
+
+**Author:** [Missy AI](https://x.com/ai_empire33) | **Source:** [Link](https://x.com/ai_empire33/status/2066576832741482906) | **Published:** Jun 15, 2026
+
+---
+### Dinamik Dövüş Sanatları Aksiyon Sekansı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sinematik kamera açıları ve akıcı hareketlerle yüksek enerjili, akrobatik dövüş sanatları sekansları oluşturmaya yönelik kapsamlı bir komut.
+
+#### 📝 Prompt
+
+```
+* Kesme sahne yok. Geçiş yok.
+
+Dinamik, yüksek enerjili akrobatik dövüş sekansı. Mükemmel hareket netliğine sahip, akıcı, güçlü ve sinematik hareketler. Karakter; dönerek atılan tekmeler, uçan diz darbeleri, havada taklalar, duvar koşuları, zıplamalar, yuvarlanmalar ve sert yere sermeler dahil olmak üzere hızlı tempolu dövüş sanatları komboları sergiliyor. Her vuruşun arkasında güçlü bir ivme ve ağırlık hissi olan, pürüzsüz, atletik ve gerçekçi fizik kuralları. Dinamik kamera çalışması; takip çekimleri, dairesel kamera hareketleri, dramatik açılar, darbe anlarında ara sıra ağır çekim. Yüksek yoğunluk, zarif ama güçlü koreografi, mükemmel akıcılık ve hız. Sinematik aydınlatma, keskin hareket detayları, donukluk yok, son derece dinamik ve heyecan verici dövüş sahnesi, başyapıt kalitesi, 6 saniyelik video...., son derece dinamik ve heyecan verici dövüş sahnesi, pürüzsüz akıcı hareket, başyapıt kalitesi, 6 saniyelik video.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/29c7a52c5bc841b0dc15d88cd38ebe8f/thumbnails/thumbnail.jpg" width="600" alt="Dinamik Dövüş Sanatları Aksiyon Sekansı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6097)**
+
+**Author:** [Lala](https://x.com/keepgoingAnnie) | **Source:** [Link](https://x.com/keepgoingAnnie/status/2066551416986968369) | **Published:** Jun 15, 2026
+
+---
+### Ghost River Sinematik Push-In
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Hayalet nehir ve değirmenin yer aldığı sinematik bir sahne için kamera hareketini ve sahne düzenini belirten teknik bir video istemi.
+
+#### 📝 Prompt
+
+```
+VİDEO 4
+
+SAHNE KİLİDİ: Perspektifi ve geometriyi koruyarak, değirmene doğru son derece hafif bir sinematik push-in hareketiyle sabit ana kompozisyon.
+
+SAHNE: Hayalet nehrin tam ifadesi, ardından anının yavaşça karanlığa gömülmesi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2066390926893924352/img/FQdNby4qREvxk-5J.jpg" width="600" alt="Ghost River Sinematik Push-In">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6096)**
+
+**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2066391012470309276) | **Published:** Jun 15, 2026
+
+---
+### Altın Deniz Yaratığı ve Melek Yüzgeci Hediyesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ethereal bir altın deniz yaratığının bir meleğe parlayan bir kuyruk yüzgeci sunduğu betimleyici bir video istemi.
+
+#### 📝 Prompt
+
+```
+Altın deniz yaratığı, güzel, ethereal ve parlayan bir kuyruk yüzgecini nazikçe meleğe doğru uzatıyor.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/981a4c3276f1b8222331bf2568e55f04/thumbnails/thumbnail.jpg" width="600" alt="Altın Deniz Yaratığı ve Melek Yüzgeci Hediyesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6094)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2066389144213876780) | **Published:** Jun 15, 2026
+
+---
+### Overwatch Mercy Valkyrie Kalp Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Overwatch'tan Mercy'nin Valkyrie kostümüyle izleyiciye parlayan bir kalp sembolü sunduğu bir video oluşturma istemi.
+
+#### 📝 Prompt
+
+```
+Overwatch'tan Mercy, klasik beyaz ve altın rengi Valkyrie kostümü içinde, elini izleyiciye/ekrana doğru uzatıyor; sanki belirgin bir kırmızı ve beyaz kalp sembolünü (avuç içinde iyileştirme amblemi gibi parlayan veya süzülen) veriyor veya sunuyor gibi, 🕊️🤍
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9fdd94ee1247c0dfa9ee9e8700c40294/thumbnails/thumbnail.jpg" width="600" alt="Overwatch Mercy Valkyrie Kalp Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6092)**
+
+**Author:** [Irene Sieg](https://x.com/SiegSieg50040) | **Source:** [Link](https://x.com/SiegSieg50040/status/2066380661015953874) | **Published:** Jun 15, 2026
+
+---
+### Mistik Okyanus Yaratığının İlahi Ziyareti
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yukarıdan gelen ilahi bir varlığı hisseden mistik bir su altı yaratığını betimleyen, huzurlu ve ruhani bir atmosfer yaratan sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+okyanusun bu mistik yaratığı, yukarıdaki ilahi alemlerden gelen bir ziyareti hissediyor
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2667d4bfe99f3ec0f044de12c8938cb0/thumbnails/thumbnail.jpg" width="600" alt="Mistik Okyanus Yaratığının İlahi Ziyareti">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6100)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2066366065647440340) | **Published:** Jun 15, 2026
+
+---
 ### Yıldızlı Gece Sisli Hareket
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +347,63 @@ Sis ve rüzgar dalgalanmalı, yıldızlı gece göz kırpmalı… Daha fazla ort
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6060)**
 
 **Author:** [Janice 🟧](https://x.com/titlejt) | **Source:** [Link](https://x.com/titlejt/status/2066358379300442612) | **Published:** Jun 15, 2026
+
+---
+### Açık Hava Nehir Kenarı Stüdyo Kulübesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Hafif bir esinti efektiyle, nehir kenarındaki güneşli bir stüdyo kulübesinin huzurlu sabah video istemi.
+
+#### 📝 Prompt
+
+```
+Nehir kenarındaki kiralık kulübede, huzurlu bir sabah vaktinde geçen, yarısı içeride yarısı dışarıda olan aydınlık ve açık hava bir stüdyo. Güneşle yıkanan bu alan, sabahın ilk ışıklarıyla parıldayan nehre bakan ahşap bir balkona doğrudan açılıyor ve hafif bir esinti eşliğinde (dünya inşası)
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/29aeb249a788b0c25b18d37d8745114d/thumbnails/thumbnail.jpg" width="600" alt="Açık Hava Nehir Kenarı Stüdyo Kulübesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6099)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2066353976765731158) | **Published:** Jun 15, 2026
+
+---
+### Yanardöner Su Yüzü Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Psikedelik gökkuşağı dalgaları ve yağlı girdaplarla canlı suyun içinde hareket eden bir kadın yüzünü canlandırmak için bir hareket istemi.
+
+#### 📝 Prompt
+
+```
+Genç kadının yüzü canlı ve yanardöner suyun içinde nazikçe hareket ederken, psikedelik gökkuşağı dalgaları ve yağlı renk girdapları suyun yüzeyinde ve su altındaki cildinde dinamik bir şekilde akıp parıldarken bu sürreal dijital sanat eseri hayat buluyor.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06526b33fbdad194fa9bc2bdffa3aa35/thumbnails/thumbnail.jpg" width="600" alt="Yanardöner Su Yüzü Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6098)**
+
+**Author:** [quantum void](https://x.com/Happygator) | **Source:** [Link](https://x.com/Happygator/status/2066319820736373187) | **Published:** Jun 15, 2026
+
+---
+### Yavaş Baş Eğme ve Kamera Yakınlaştırma
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Öznenin başını geriye doğru eğdiği ve kameranın yakınlaştığı doğal bir akışı tanımlayan, hareket odaklı bir video istemi.
+
+#### 📝 Prompt
+
+```
+Sahneler doğal bir şekilde akıyor, özne başını yavaşça geriye doğru eğiyor. Çekim yavaşça yakınlaşıyor. Akış, kısa bir süreliğine kamerayı kapatıyor.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f83d942670740ef094468a71a843b9b4/thumbnails/thumbnail.jpg" width="600" alt="Yavaş Baş Eğme ve Kamera Yakınlaştırma">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6093)**
+
+**Author:** [Fi OC](https://x.com/fioc2024) | **Source:** [Link](https://x.com/fioc2024/status/2066315176836550864) | **Published:** Jun 15, 2026
 
 ---
 ### Uçan Roketlerin Üzerindeki AI Karakterler
@@ -873,7 +1071,7 @@ Kadını referans fotoğraftakiyle birebir aynı tut: yüzü, ışıltılı bir 
 Hiper detaylı anime tarzı, sinematik perspektif, salaş ve dramatik aydınlatma, doygun renklerle cesur kontrast. Otoparkta düşük açılı, eğik sinematik sokak tarzı çekim; elinde mor bir motosiklet kaskı tutan ve arkadan görünen bir anime kızına aşağıdan yukarıya bakış. Üzerinde dar beyaz yarış pantolonu, "AgenC" yazılı vücuda oturan grafikli bir tişört ve sarı botlar var; botlardan birinin tabanı ön planda keskin bir detayla öne çıkıyor. Perspektif, cesur bir kısalma ile salaş ve kentsel estetiği vurguluyor. Önünde mor bir sokak motosikleti.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dabbf9ca7a824642ec80bc1e4fbc2a30/thumbnails/thumbnail.jpg" width="600" alt="Motosikletli Sokak Tarzı Anime Kızı">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/26385c2a1b638af520285168ffc2bf94/thumbnails/thumbnail.jpg" width="600" alt="Motosikletli Sokak Tarzı Anime Kızı">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5962)**
 
@@ -2034,232 +2232,6 @@ Genç kadın, turuncu-kırmızı kokteylin bulunduğu büyük ayaklı bardağı 
 **Author:** [Celia](https://x.com/ritpol) | **Source:** [Link](https://x.com/ritpol/status/2061950977654353999) | **Published:** Jun 2, 2026
 
 ---
-### Antik Kozmik Yapı Sürüklenişi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Derin uzayda süzülen, kayıp ve gelişmiş bir medeniyeti simgeleyen antik, devasa bir yapıya dair sinematik video istemi.
-
-#### 📝 Prompt
-
-```
-Bilinen uzayın sınırında, imkansız bir yapı sonsuzluk boyunca sürükleniyor ve yıldızlara hükmetmiş bir medeniyetin yankılarını taşıyor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/57544f1ac859e65660cae321c7359491/thumbnails/thumbnail.jpg" width="600" alt="Antik Kozmik Yapı Sürüklenişi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5710)**
-
-**Author:** [@ed](https://x.com/edneme) | **Source:** [Link](https://x.com/edneme/status/2061916767010570556) | **Published:** Jun 2, 2026
-
----
-### İskandinav Tanrısı Savaşçı Sinematik Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir kullanıcının örgülü saçlara ve parlayan mavi rünlere sahip, İskandinav tanrısı benzeri bir savaşçıya dönüştürüldüğü video için detaylı bir sinematik komut.
-
-#### 📝 Prompt
-
-```
-Benim güçlü, İskandinav tanrısı benzeri bir savaşçı olduğum sinematik video. 
-
-Capa 1 - Sahne: Yüzümün yakın çekim yoğun görüntüsü, rüzgarda hareket eden uzun ıslak koyu saçlar, kalın örgülü sakal, antik yara izleri, alnımda ve yanaklarımda parlayan parlak mavi rünler...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b8f0020bfb474930037d2e2f03061f07/thumbnails/thumbnail.jpg" width="600" alt="İskandinav Tanrısı Savaşçı Sinematik Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5634)**
-
-**Author:** [Juan Torrez](https://x.com/jcwarcry1) | **Source:** [Link](https://x.com/jcwarcry1/status/2061905403718287753) | **Published:** Jun 2, 2026
-
----
-### Rokoko Superman Kedi Yavrusu Kurtarma
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Superman'in bir ağaçtan kedi yavrusu kurtardığı, sinematik hareketlere sahip Rokoko sanatsal tarzında bir Grok Imagine video istemi.
-
-#### 📝 Prompt
-
-```
-Rokoko tarzı
-Superman havaya süzülür ve ağaçtaki kedi yavrusunu kurtarır
-Pelerini nazikçe dalgalanıyor
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8c133f6276866a8349383ccea56ca500/thumbnails/thumbnail.jpg" width="600" alt="Rokoko Superman Kedi Yavrusu Kurtarma">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5632)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2061842734345052612) | **Published:** Jun 2, 2026
-
----
-### Ethereal Meditating Figure Pan
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Şafak vaktinde altın rengi bir ışık ve sisle çevrili, meditasyon yapan bir figürü konu alan yavaş ve ruhani bir video istemi.
-
-#### 📝 Prompt
-
-```
-Meditasyon yapan figürün etrafında yavaş ve ruhani bir kamera geçişi; içeriden hafifçe yayılan yumuşak altın rengi ışık, şafak vaktinin aydınlığında hafifçe süzülen sis, yapraklar ve su yüzeyinde beliren ince dalgalanmalar; derin bir iç huzur ve yaşanan ruhani uyanış hissi veriyor...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5832055ee96287d66a6cec83f3df0290/thumbnails/thumbnail.jpg" width="600" alt="Ethereal Meditating Figure Pan">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5628)**
-
-**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2061834724633616486) | **Published:** Jun 2, 2026
-
----
-### Rokoko Gotham Batman Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için, Rokoko tarzını Gotham'ın yağmurlu sokaklarında hızla ilerleyen Batman ile harmanlayan görsel açıdan çarpıcı bir video istemi.
-
-#### 📝 Prompt
-
-```
-Rokoko tarzı
-Batman, Batmobile ile Gotham'ın yağmurlu gece sokaklarında hızla ilerliyor, pelerini dalgalanıyor
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fd7f0b747ecd236d782202ddd7ae97e1/thumbnails/thumbnail.jpg" width="600" alt="Rokoko Gotham Batman Sahnesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5630)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2061834695231541352) | **Published:** Jun 2, 2026
-
----
-### Gotik Şato Hız Treni Yolculuğu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Yüzen hayalet çaydanlıkların bulunduğu gotik bir balo salonunda geçen, birinci şahıs bakış açısıyla çekilmiş bir hız treni yolculuğunu konu alan detaylı bir anlatı videosu istemi.
-
-#### 📝 Prompt
-
-```
-Gotik bir şato balo salonunda birinci şahıs bakış açısıyla hız treni yolculuğu…
-
-ışıklar kararır…
-
-eski bir aynada süzülen hayalet çaydanlıklar…
-
-ve ardından çığlık attıran o düşüş.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/500e3aa7ce556bd344162c3bfb6e4556/thumbnails/thumbnail.jpg" width="600" alt="Gotik Şato Hız Treni Yolculuğu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5631)**
-
-**Author:** [sugarcane](https://x.com/sugarcanebkk) | **Source:** [Link](https://x.com/sugarcanebkk/status/2061828331490914573) | **Published:** Jun 2, 2026
-
----
-### Yüzen Işıklarla Fütüristik Neon Katedral
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Neon mimariden inşa edilmiş, holografik camlar ve yüzen ışıklarla dolu fütüristik bir katedral iç mekanı için sinematik video istemi.
-
-#### 📝 Prompt
-
-```
-Tamamen parlayan neon mimariden, holografik vitraylardan ve binlerce yüzen ışıktan oluşan devasa fütüristik bir katedralin içi.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2e2c2e746050e77857343de5bc9410f1/thumbnails/thumbnail.jpg" width="600" alt="Yüzen Işıklarla Fütüristik Neon Katedral">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5644)**
-
-**Author:** [Maer](https://x.com/Maer4real) | **Source:** [Link](https://x.com/Maer4real/status/2061806673618973015) | **Published:** Jun 2, 2026
-
----
-### Central Park Şehir Eskizi Poster
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> New York Central Park'ın suluboya dokuları ve elle çizilmiş perspektif özelliklerini taşıyan, şehir eskizi tarzındaki seyahat posteri için oldukça detaylı bir istem.
-
-#### 📝 Prompt
-
-```
-New York Central Park, Ağustos, öğleden sonra.
-
-New York, Central Park'ta otantik bir yaz öğleden sonrasını yakalayan premium bir şehir eskizi seyahat günlüğü posteri.
-
-Geniş yeşil çimenlikleri, olgun karaağaç ve meşe ağaçlarını, keyifli yayaları, bisikletlileri, koşucuları, çimlerde piknik yapanları ve ağaç tepelerinin ötesinde hafifçe beliren Manhattan silüetini gösterin.
-
-Rafine şehir eskizi illüstrasyonu,
-ifadeli kalem ve mürekkep çizimi,
-ince siyah mürekkep çizgileri, kesik kontur çizgileri, hafif kusurlu el çizimi perspektif, otantik eskiz defteri estetiği. Şeffaf suluboya katmanları, yumuşak pigment dağılımı, hafif kağıt dokusu, sınırlı renk paleti, korunmuş beyaz vurgular.
-
-Geniş negatif alan, havadar seyahat posteri kompozisyonu, ön planda park yaşamı, orta planda yürüyüşçüler ve bisikletliler, arka planda suluboya pusuna karışan Manhattan silüeti.
-
-Ruh Hali:
-sıcak, şiirsel, huzurlu, gözlemci, zamansız yaz şehir hayatı.
-
-Yumuşak Ağustos güneş ışığı, çimenler üzerinde hafif ağaç gölgeleri, sıcak yansıyan vurgular, narin atmosferik derinlik.
-
-Tipografi:
-"NEW YORK"
-"An August Afternoon"
-
-Lüks seyahat günlüğü illüstrasyonu,
-premium şehir eskiz defteri estetiği, otantik el çizimi mimari ve manzara eskizi.
-```
-
-<img src="https://cms-assets.youmind.com/media/1780994433496_ycrf87_HJzTnT_aMAAJMFG.jpg" width="600" alt="Central Park Şehir Eskizi Poster">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5637)**
-
-**Author:** [Sarah](https://x.com/AIwithSarah_) | **Source:** [Link](https://x.com/AIwithSarah_/status/2061755438295875742) | **Published:** Jun 2, 2026
-
----
-### Göksel Uçurum Deniz Kızı ve Ahtapot Muhafız
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gizemi ve bilgeliği temsil eden, göksel üç kalpli bir ahtapot muhafızla derinliklerde ilerleyen bir deniz kızı imparatoriçeyi konu alan sinematik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Göksel Panteon
-Uçurum Deniz Kızı İmparatoriçesi ve Göksel Ahtapot Muhafız
-
-O, üç kalpli Muhafızı ile derinliklerin, gizemin ve görünmeyen zekanın içinde ilerliyor; bilgeliğin, bilinmeyenin içinde tek başımıza kaldığımızda ve yine de bütün kalabildiğimizde başladığını gözler önüne seriyor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e32d9a4162dd0a9a6f7ea9a0f999feec/thumbnails/thumbnail.jpg" width="600" alt="Göksel Uçurum Deniz Kızı ve Ahtapot Muhafız">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5733)**
-
-**Author:** [Tugba](https://x.com/TGBA2023) | **Source:** [Link](https://x.com/TGBA2023/status/2061745886078591381) | **Published:** Jun 2, 2026
-
----
-### Sürrealist Kristalize Yüz Dönüşümü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Salvador Dalí'den ilham alan, bir yüzü eriyen ve şekil değiştiren kristal yüzeylere dönüştüren sürrealist bir video istemi.
-
-#### 📝 Prompt
-
-```
-Bu kristalize kadın yüzünü, Salvador Dalí'den ilham alan son derece sürrealist bir başyapıta dönüştürün: rüya benzeri bozulmalar, fiziğe meydan okuyan eriyen ve şekil değiştiren kristal yüzeyler, yüzün etrafında süzülen kristal parçaları ve prizmalar, imkansız geometri...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6d780ab18812f54bd9838addc00af86f/thumbnails/thumbnail.jpg" width="600" alt="Sürrealist Kristalize Yüz Dönüşümü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5638)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2061688291489919386) | **Published:** Jun 2, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2321,6 +2293,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-16T05:22:47.985Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-16T13:16:19.533Z</sub>
 
 </div>

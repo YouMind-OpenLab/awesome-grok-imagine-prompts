@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **1829** |
+| 📝 提示詞總數 | **1839** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-06-16** |
 
@@ -189,6 +189,147 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 藝術畫廊策展人動作與對話
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個精緻的影片提示詞，指定了調整眼鏡和手勢等角色動作，並包含電影級場景的口語對話。
+
+#### 📝 提示詞
+
+```
+動作：他調整了一下眼鏡，放下平板電腦以集中注意力於觀眾，並做出邀請的手勢指向畫廊。
+
+對話：「分析美是一種藝術，但創造美才是我們的熱情所在。看看表象之外的事物。這就是 DHC。」
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2066664682161655808/img/K5Wmw35cSxStWmyK.jpg" width="600" alt="藝術畫廊策展人動作與對話">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6101)**
+
+**作者:** [HughStiel/DogeHeadCoin $DHC](https://x.com/hugh_stiel) | **來源:** [Link](https://x.com/hugh_stiel/status/2066664734288490587) | **發布時間:** Jun 15, 2026
+
+---
+### 雲端霓虹鐵道旅人
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段視覺影片提示詞：一位旅人走在黃昏時分橫跨發光雲海的霓虹鐵道上。
+
+#### 📝 提示詞
+
+```
+一位孤獨的旅人走在霓虹閃爍的鐵道上，鐵道延伸至黃昏時分無盡的發光雲海。旅程本身即是目的地。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4c1b5eade1100fe70306ad521da520d5/thumbnails/thumbnail.jpg" width="600" alt="雲端霓虹鐵道旅人">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6095)**
+
+**作者:** [Missy AI](https://x.com/ai_empire33) | **來源:** [Link](https://x.com/ai_empire33/status/2066576832741482906) | **發布時間:** Jun 15, 2026
+
+---
+### 動態武術格鬥序列
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一套用於生成高能量、特技武術序列的綜合提示詞，包含電影級運鏡與流暢動作。
+
+#### 📝 提示詞
+
+```
+* 無轉場。無剪輯。
+
+動態、高能量的特技格鬥序列。流暢、有力且具備電影感的動作，擁有極佳的動態清晰度。角色執行快節奏的武術連招，包括迴旋踢、飛膝、空中翻轉、跑牆、跳躍、翻滾以及強力的擊倒動作。流暢、具備運動感且符合物理規律，每一次打擊都帶有強烈的動能與重量感。動態運鏡——追蹤鏡頭、環繞鏡頭、戲劇性角度，並在衝擊瞬間適時加入慢動作。高強度、優雅且強而有力的編排，極佳的流暢度與速度感。電影級光影、銳利的動作細節、無僵硬感，極具動態且令人興奮的格鬥場景，大師級品質，6 秒影片……，極具動態且令人興奮的格鬥場景，流暢的動作，大師級品質，6 秒影片。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/29c7a52c5bc841b0dc15d88cd38ebe8f/thumbnails/thumbnail.jpg" width="600" alt="動態武術格鬥序列">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6097)**
+
+**作者:** [Lala](https://x.com/keepgoingAnnie) | **來源:** [Link](https://x.com/keepgoingAnnie/status/2066551416986968369) | **發布時間:** Jun 15, 2026
+
+---
+### Ghost River 電影級推鏡
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個技術性影片提示詞，指定了包含幽靈河與磨坊的電影場景中的攝影機運動與場景佈置。
+
+#### 📝 提示詞
+
+```
+影片 4
+
+場景鎖定：靜態主角構圖，對磨坊進行極其細微的電影級推鏡，同時保持透視與幾何結構。
+
+舞台：幽靈河的完整呈現，隨後記憶緩慢消退，重回黑暗。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2066390926893924352/img/FQdNby4qREvxk-5J.jpg" width="600" alt="Ghost River 電影級推鏡">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6096)**
+
+**作者:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **來源:** [Link](https://x.com/gpimpmyspace/status/2066391012470309276) | **發布時間:** Jun 15, 2026
+
+---
+### 金色海洋生物與天使魚鰭禮物
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段描述性的影片提示詞，內容為一隻空靈的金色海洋生物向天使獻上一片發光的尾鰭。
+
+#### 📝 提示詞
+
+```
+金色海洋生物正溫柔地向天使遞出一片美麗、空靈且閃閃發光的尾鰭。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/981a4c3276f1b8222331bf2568e55f04/thumbnails/thumbnail.jpg" width="600" alt="金色海洋生物與天使魚鰭禮物">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6094)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2066389144213876780) | **發布時間:** Jun 15, 2026
+
+---
+### 《鬥陣特攻》慈悲「女武神」愛心影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個影片生成提示詞，描繪《鬥陣特攻》中的慈悲身穿「女武神」造型，向觀眾獻上一顆發光愛心的畫面。
+
+#### 📝 提示詞
+
+```
+《鬥陣特攻》中的慈悲身穿經典白金配色「女武神」造型，將手向前伸向觀眾／螢幕，彷彿正在遞出或獻上一顆顯眼的紅白色愛心符號（像治療徽章一樣在掌心發光或漂浮），🕊️🤍
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9fdd94ee1247c0dfa9ee9e8700c40294/thumbnails/thumbnail.jpg" width="600" alt="《鬥陣特攻》慈悲「女武神」愛心影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6092)**
+
+**作者:** [Irene Sieg](https://x.com/SiegSieg50040) | **來源:** [Link](https://x.com/SiegSieg50040/status/2066380661015953874) | **發布時間:** Jun 15, 2026
+
+---
+### 神秘海洋生物的聖潔降臨
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段電影級的影片提示詞，描繪了一隻神秘的深海生物感受到來自上方的神聖氣息，營造出寧靜且空靈的氛圍。
+
+#### 📝 提示詞
+
+```
+這隻神秘的海洋生物感受到了來自上方天界的神聖降臨
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2667d4bfe99f3ec0f044de12c8938cb0/thumbnails/thumbnail.jpg" width="600" alt="神秘海洋生物的聖潔降臨">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6100)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2066366065647440340) | **發布時間:** Jun 15, 2026
+
+---
 ### 星夜霧氣流動
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +347,63 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6060)**
 
 **作者:** [Janice 🟧](https://x.com/titlejt) | **來源:** [Link](https://x.com/titlejt/status/2066358379300442612) | **發布時間:** Jun 15, 2026
+
+---
+### 露天河畔小屋工作室
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段寧靜的早晨影片提示詞，描繪了陽光灑落的河畔小屋工作室，並帶有微風拂過的效果。
+
+#### 📝 提示詞
+
+```
+一個明亮、半室內半室外的露天工作室，坐落於寧靜的清晨，位於河畔的租賃小屋中。陽光充足的空間直接通往木製陽台，俯瞰著在晨光中閃爍的河流，並伴有微風吹拂（世界觀構建）
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/29aeb249a788b0c25b18d37d8745114d/thumbnails/thumbnail.jpg" width="600" alt="露天河畔小屋工作室">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6099)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2066353976765731158) | **發布時間:** Jun 15, 2026
+
+---
+### 虹彩水面人臉動畫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個動態提示詞，用於製作女性臉部在充滿活力的水中移動的動畫，並帶有迷幻的彩虹漣漪與油彩漩渦效果。
+
+#### 📝 提示詞
+
+```
+這幅超現實的數位藝術作品栩栩如生，年輕女性的臉龐在充滿活力的虹彩水中輕柔移動，迷幻的彩虹漣漪與油彩漩渦在她的肌膚與水面上動態流動並閃爍著光芒。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06526b33fbdad194fa9bc2bdffa3aa35/thumbnails/thumbnail.jpg" width="600" alt="虹彩水面人臉動畫">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6098)**
+
+**作者:** [quantum void](https://x.com/Happygator) | **來源:** [Link](https://x.com/Happygator/status/2066319820736373187) | **發布時間:** Jun 15, 2026
+
+---
+### 緩慢的頭部傾斜與鏡頭變焦
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個針對動作的影片提示詞，描述了一種自然流暢的過程：主體向後傾斜頭部，同時鏡頭緩慢拉近。
+
+#### 📝 提示詞
+
+```
+場景自然流動，主體緩慢地向後傾斜頭部。鏡頭緩慢拉近。流動的過程短暫地遮擋了鏡頭。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f83d942670740ef094468a71a843b9b4/thumbnails/thumbnail.jpg" width="600" alt="緩慢的頭部傾斜與鏡頭變焦">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6093)**
+
+**作者:** [Fi OC](https://x.com/fioc2024) | **來源:** [Link](https://x.com/fioc2024/status/2066315176836550864) | **發布時間:** Jun 15, 2026
 
 ---
 ### 騎乘火箭的 AI 角色
@@ -873,7 +1071,7 @@ Ricardo 進入了無人能擋的「駭客任務」模式，以驚人的武術與
 超細緻動漫風格，電影級視角，粗獷且戲劇性的光影，大膽的對比度與飽和色彩。低角度傾斜的電影級街頭風格鏡頭，拍攝一個停車場，仰視一名背對鏡頭行走的動漫少女，她一手拿著紫色機車安全帽。她穿著緊身白色賽車褲、印有「AgenC」字樣的合身圖案 T 恤以及黃色靴子，其中一隻靴子的鞋底在前景中清晰可見，細節豐富。視角強調了粗獷的城市美學與大膽的透視縮短效果。在她前方有一輛紫色街車。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dabbf9ca7a824642ec80bc1e4fbc2a30/thumbnails/thumbnail.jpg" width="600" alt="動漫少女與機車街頭風格">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/26385c2a1b638af520285168ffc2bf94/thumbnails/thumbnail.jpg" width="600" alt="動漫少女與機車街頭風格">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5962)**
 
@@ -2042,232 +2240,6 @@ Monterey Bay Aquarium 的 LilX 和 Scouts 正在觀賞深海展區的霓虹魚
 **作者:** [Celia](https://x.com/ritpol) | **來源:** [Link](https://x.com/ritpol/status/2061950977654353999) | **發布時間:** Jun 2, 2026
 
 ---
-### 古老宇宙結構漂流
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段電影級的影片提示詞，描繪一座古老且巨大的結構在深空中漂浮，象徵著一個失落的高等文明。
-
-#### 📝 提示詞
-
-```
-在已知宇宙的邊緣，一座不可思議的結構在永恆中漂流，承載著曾經主宰星辰的文明所留下的迴響。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/57544f1ac859e65660cae321c7359491/thumbnails/thumbnail.jpg" width="600" alt="古老宇宙結構漂流">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5710)**
-
-**作者:** [@ed](https://x.com/edneme) | **來源:** [Link](https://x.com/edneme/status/2061916767010570556) | **發布時間:** Jun 2, 2026
-
----
-### 北歐神話戰士電影感影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份詳細的電影感提示詞，用於將使用者轉換為擁有編織髮型與發光藍色符文的北歐神話戰士影片。
-
-#### 📝 提示詞
-
-```
-我化身為強大北歐神話戰士的電影感影片。
-
-Capa 1 - 場景：我臉部的強烈特寫，深色濕潤的長髮在風中飄動，濃密的編織鬍鬚，古老的傷痕，額頭與臉頰上有發光的亮藍色符文...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b8f0020bfb474930037d2e2f03061f07/thumbnails/thumbnail.jpg" width="600" alt="北歐神話戰士電影感影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5634)**
-
-**作者:** [Juan Torrez](https://x.com/jcwarcry1) | **來源:** [Link](https://x.com/jcwarcry1/status/2061905403718287753) | **發布時間:** Jun 2, 2026
-
----
-### 洛可可風格超人救援小貓
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個 Grok Imagine 影片提示詞，描繪了超人以洛可可藝術風格從樹上救援小貓的電影級動態畫面。
-
-#### 📝 提示詞
-
-```
-洛可可風格
-超人漂浮向上並從樹上救下小貓
-披風輕柔地擺動
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8c133f6276866a8349383ccea56ca500/thumbnails/thumbnail.jpg" width="600" alt="洛可可風格超人救援小貓">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5632)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2061842734345052612) | **發布時間:** Jun 2, 2026
-
----
-### 空靈冥想人物平移鏡頭
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段緩慢且充滿靈性的影片提示詞，畫面中一位冥想者在黎明時分被金光與薄霧環繞。
-
-#### 📝 提示詞
-
-```
-緩慢、空靈的攝影機平移鏡頭環繞著冥想者，柔和的金光從體內輕柔地脈動，薄霧在黎明光線中細膩地流動，葉片與水面泛起微微漣漪，傳達出一種深層的內在平靜與靈性覺醒的體驗……
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5832055ee96287d66a6cec83f3df0290/thumbnails/thumbnail.jpg" width="600" alt="空靈冥想人物平移鏡頭">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5628)**
-
-**作者:** [Jean](https://x.com/SpaceScoutsIntl) | **來源:** [Link](https://x.com/SpaceScoutsIntl/status/2061834724633616486) | **發布時間:** Jun 2, 2026
-
----
-### 洛可可風格高譚市蝙蝠俠場景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個為 Grok Imagine 設計的視覺震撼影片提示詞，將洛可可風格與蝙蝠俠穿梭在雨中高譚市街道的場景完美融合。
-
-#### 📝 提示詞
-
-```
-洛可可風格
-蝙蝠俠駕駛著蝙蝠車穿梭在高譚市雨夜的街道上，披風隨風飄揚
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fd7f0b747ecd236d782202ddd7ae97e1/thumbnails/thumbnail.jpg" width="600" alt="洛可可風格高譚市蝙蝠俠場景">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5630)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2061834695231541352) | **發布時間:** Jun 2, 2026
-
----
-### 哥德式城堡雲霄飛車之旅
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段詳細的敘事影片提示詞，內容為第一人稱視角的雲霄飛車穿梭於哥德式宴會廳，並伴隨漂浮的幽靈茶壺。
-
-#### 📝 提示詞
-
-```
-第一人稱視角的雲霄飛車穿梭於哥德式城堡宴會廳……
-
-燈光漸暗……
-
-古老鏡子中漂浮著幽靈茶壺……
-
-隨後是尖叫般的俯衝。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/500e3aa7ce556bd344162c3bfb6e4556/thumbnails/thumbnail.jpg" width="600" alt="哥德式城堡雲霄飛車之旅">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5631)**
-
-**作者:** [sugarcane](https://x.com/sugarcanebkk) | **來源:** [Link](https://x.com/sugarcanebkk/status/2061828331490914573) | **發布時間:** Jun 2, 2026
-
----
-### 充滿未來感的霓虹大教堂與漂浮燈光
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個電影級的影片提示詞，描繪了一座由霓虹建築構成、充滿全息玻璃與漂浮燈光的未來感大教堂內部。
-
-#### 📝 提示詞
-
-```
-在一座由發光霓虹建築構成的宏偉未來感大教堂內部，充滿了全息彩色玻璃與數千盞漂浮的燈光。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2e2c2e746050e77857343de5bc9410f1/thumbnails/thumbnail.jpg" width="600" alt="充滿未來感的霓虹大教堂與漂浮燈光">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5644)**
-
-**作者:** [Maer](https://x.com/Maer4real) | **來源:** [Link](https://x.com/Maer4real/status/2061806673618973015) | **發布時間:** Jun 2, 2026
-
----
-### 中央公園城市速寫海報
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份關於紐約中央公園城市速寫旅行海報的高度詳細提示詞，包含水彩質感與手繪透視風格。
-
-#### 📝 提示詞
-
-```
-紐約中央公園，八月，午後。
-
-一張頂級城市速寫旅行日誌海報，捕捉紐約中央公園真實的夏日午後時光。
-
-呈現廣闊的綠色草坪、成熟的榆樹與橡樹、悠閒的行人、騎行者、慢跑者、草地上的野餐，以及在樹梢後方柔和浮現的曼哈頓天際線。
-
-精緻的城市速寫插畫，
-富有表現力的鋼筆淡彩畫，
-細緻的黑色墨水線條、斷續的輪廓線、略帶不完美的手繪透視感、真實的素描本美學。透明的水彩疊加、柔和的顏料擴散、細膩的紙張紋理、有限的色彩調色盤，保留白色的高光區域。
-
-大量的留白，通透的旅行海報構圖，前景為公園生活，中景為行人和騎行者，背景為逐漸融入水彩霧氣中的曼哈頓天際線。
-
-氛圍：
-溫暖、詩意、寧靜、觀察入微、永恆的夏日城市生活。
-
-柔和的八月陽光，草地上溫柔的樹影，溫暖的反射高光，細膩的空間深度。
-
-排版：
-「NEW YORK」
-「An August Afternoon」
-
-奢華旅行日誌插畫，
-頂級城市素描本美學，真實的手繪建築與風景速寫。
-```
-
-<img src="https://cms-assets.youmind.com/media/1780994433496_ycrf87_HJzTnT_aMAAJMFG.jpg" width="600" alt="中央公園城市速寫海報">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5637)**
-
-**作者:** [Sarah](https://x.com/AIwithSarah_) | **來源:** [Link](https://x.com/AIwithSarah_/status/2061755438295875742) | **發布時間:** Jun 2, 2026
-
----
-### 深淵星辰美人魚與章魚守護者
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個電影級的影片提示詞，描繪了一位美人魚女皇在深海中穿梭，身旁伴隨著一隻擁有三顆心臟的星辰章魚守護者，象徵著神秘與智慧。
-
-#### 📝 提示詞
-
-```
-星辰萬神殿
-深淵美人魚女皇與星辰章魚守護者
-
-她穿梭於深邃、神秘與未知的智慧之中，身旁伴隨著她的三心守護者。這揭示了一個真理：當我們能獨自面對未知卻依然保持完整時，智慧便由此而生。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e32d9a4162dd0a9a6f7ea9a0f999feec/thumbnails/thumbnail.jpg" width="600" alt="深淵星辰美人魚與章魚守護者">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5733)**
-
-**作者:** [Tugba](https://x.com/TGBA2023) | **來源:** [Link](https://x.com/TGBA2023/status/2061745886078591381) | **發布時間:** Jun 2, 2026
-
----
-### 超現實水晶臉部變形
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個受 Salvador Dalí 啟發的超現實影片提示詞，將臉部轉化為融化與變形的晶體切面。
-
-#### 📝 提示詞
-
-```
-將這位水晶化女性的臉龐轉化為受 Salvador Dalí 啟發的超現實主義傑作：夢幻般的扭曲、挑戰物理定律的融化與變形晶體切面、臉部周圍漂浮的水晶碎片與稜鏡、不可思議的幾何結構...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6d780ab18812f54bd9838addc00af86f/thumbnails/thumbnail.jpg" width="600" alt="超現實水晶臉部變形">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5638)**
-
-**作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **來源:** [Link](https://x.com/clemensilverio/status/2061688291489919386) | **發布時間:** Jun 2, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2329,6 +2301,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-06-16T05:22:34.216Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-06-16T13:16:07.234Z</sub>
 
 </div>

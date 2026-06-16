@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **1829** |
+| 📝 提示词总数 | **1839** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-06-16** |
 
@@ -189,6 +189,147 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 艺术画廊策展人动作与对话
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个精细的视频提示词，详细描述了调整眼镜和手势等角色动作，并包含电影级场景的口语对话。
+
+#### 📝 提示词
+
+```
+动作：他调整了一下眼镜，放下手中的平板电脑，将注意力集中在观众身上，并做出邀请的手势指向画廊。
+
+对话：“分析美是一种艺术，但创造美才是我们的热情所在。透过现象看本质。这就是 DHC。”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2066664682161655808/img/K5Wmw35cSxStWmyK.jpg" width="600" alt="艺术画廊策展人动作与对话">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6101)**
+
+**作者:** [HughStiel/DogeHeadCoin $DHC](https://x.com/hugh_stiel) | **来源:** [Link](https://x.com/hugh_stiel/status/2066664734288490587) | **发布时间:** Jun 15, 2026
+
+---
+### 云端霓虹铁路旅人
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段视觉视频提示词：一位旅人行走在黄昏时分横跨发光云海的霓虹铁路之上。
+
+#### 📝 提示词
+
+```
+一位孤独的旅人沿着霓虹闪烁的铁轨前行，铁轨延伸至黄昏时分无尽的发光云海之中。旅程本身即是终点。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4c1b5eade1100fe70306ad521da520d5/thumbnails/thumbnail.jpg" width="600" alt="云端霓虹铁路旅人">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6095)**
+
+**作者:** [Missy AI](https://x.com/ai_empire33) | **来源:** [Link](https://x.com/ai_empire33/status/2066576832741482906) | **发布时间:** Jun 15, 2026
+
+---
+### 动态武术格斗序列
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一份用于生成高能量、杂技式武术序列的综合提示词，包含电影级运镜和流畅动作。
+
+#### 📝 提示词
+
+```
+* 无剪辑，无转场。
+
+动态、高能量的杂技式格斗序列。动作流畅、有力且具有电影感，运动清晰度极佳。角色执行快节奏的武术连招，包括旋风踢、飞膝、空中翻腾、跑墙、跳跃、翻滚和强力击倒。动作平滑、充满运动感，物理效果真实，每一次打击都带有强烈的动量和重量感。动态运镜——追踪镜头、环绕镜头、戏剧性角度，并在撞击时偶尔使用慢动作。高强度、优雅而有力的编排，极佳的流畅度和速度。电影级光影，锐利的动作细节，无僵硬感，极具动态和刺激的格斗场景，大师级品质，6 秒视频……，极具动态和刺激的格斗场景，流畅的动作，大师级品质，6 秒视频。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/29c7a52c5bc841b0dc15d88cd38ebe8f/thumbnails/thumbnail.jpg" width="600" alt="动态武术格斗序列">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6097)**
+
+**作者:** [Lala](https://x.com/keepgoingAnnie) | **来源:** [Link](https://x.com/keepgoingAnnie/status/2066551416986968369) | **发布时间:** Jun 15, 2026
+
+---
+### Ghost River 电影感推镜头
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个技术性视频提示词，详细说明了包含幽灵河与磨坊的电影场景中的摄像机运动和构图。
+
+#### 📝 提示词
+
+```
+视频 4
+
+场景锁定：静态主角构图，带有极其微妙的电影感推镜头向磨坊推进，保持透视和几何结构。
+
+阶段：幽灵河的完整呈现，随后记忆缓慢消退至黑暗中。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2066390926893924352/img/FQdNby4qREvxk-5J.jpg" width="600" alt="Ghost River 电影感推镜头">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6096)**
+
+**作者:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **来源:** [Link](https://x.com/gpimpmyspace/status/2066391012470309276) | **发布时间:** Jun 15, 2026
+
+---
+### 金色海洋生物与天使之鳍礼物
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段描述性视频提示词，讲述了一只空灵的金色海洋生物向天使赠送发光尾鳍的场景。
+
+#### 📝 提示词
+
+```
+金色海洋生物正轻柔地向天使递出一片美丽、空灵且散发着光芒的尾鳍。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/981a4c3276f1b8222331bf2568e55f04/thumbnails/thumbnail.jpg" width="600" alt="金色海洋生物与天使之鳍礼物">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6094)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2066389144213876780) | **发布时间:** Jun 15, 2026
+
+---
+### 守望先锋 Mercy Valkyrie 爱心视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个关于《守望先锋》中身着 Valkyrie 套装的 Mercy 向观众展示发光爱心符号的视频生成提示词。
+
+#### 📝 提示词
+
+```
+Mercy (守望先锋) 身着经典的白金配色 Valkyrie 套装，向观众/屏幕方向伸出手，仿佛正在递出或展示一个显眼的红白相间爱心符号（像治疗徽章一样在她掌心发光或悬浮），🕊️🤍
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9fdd94ee1247c0dfa9ee9e8700c40294/thumbnails/thumbnail.jpg" width="600" alt="守望先锋 Mercy Valkyrie 爱心视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6092)**
+
+**作者:** [Irene Sieg](https://x.com/SiegSieg50040) | **来源:** [Link](https://x.com/SiegSieg50040/status/2066380661015953874) | **发布时间:** Jun 15, 2026
+
+---
+### 神秘海洋生物的圣洁造访
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段电影质感的视频提示词，描绘了一只神秘的深海生物感知到来自上方的神圣存在，营造出宁静而空灵的氛围。
+
+#### 📝 提示词
+
+```
+这只神秘的海洋生物感知到来自上方天界的造访
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2667d4bfe99f3ec0f044de12c8938cb0/thumbnails/thumbnail.jpg" width="600" alt="神秘海洋生物的圣洁造访">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6100)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2066366065647440340) | **发布时间:** Jun 15, 2026
+
+---
 ### 星夜雾气动态
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +347,63 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6060)**
 
 **作者:** [Janice 🟧](https://x.com/titlejt) | **来源:** [Link](https://x.com/titlejt/status/2066358379300442612) | **发布时间:** Jun 15, 2026
+
+---
+### 露天河畔木屋工作室
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段宁静的清晨视频提示词，展现了阳光洒在河畔木屋工作室的场景，并带有微风拂过的效果。
+
+#### 📝 提示词
+
+```
+一个明亮的露天工作室，一半室内一半室外，坐落在宁静的清晨河畔出租木屋中。阳光充足的空间直接通向木质阳台，俯瞰着清晨阳光下波光粼粼的河流，伴有微风拂过（世界构建）
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/29aeb249a788b0c25b18d37d8745114d/thumbnails/thumbnail.jpg" width="600" alt="露天河畔木屋工作室">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6099)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2066353976765731158) | **发布时间:** Jun 15, 2026
+
+---
+### 虹彩水面人脸动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于制作女性面部在充满活力的水中移动的动态提示词，包含迷幻的彩虹涟漪和油彩漩涡效果。
+
+#### 📝 提示词
+
+```
+这幅超现实的数字艺术作品栩栩如生，年轻女性的面部在充满活力的虹彩水中轻柔移动，迷幻的彩虹涟漪和油彩漩涡在她的水下肌肤与水面上动态流转、闪烁。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06526b33fbdad194fa9bc2bdffa3aa35/thumbnails/thumbnail.jpg" width="600" alt="虹彩水面人脸动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6098)**
+
+**作者:** [quantum void](https://x.com/Happygator) | **来源:** [Link](https://x.com/Happygator/status/2066319820736373187) | **发布时间:** Jun 15, 2026
+
+---
+### 缓慢的头部倾斜与镜头缩放
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个特定于动作的视频提示词，描述了一个自然流畅的过程：主体向后倾斜头部，同时镜头缓慢推进。
+
+#### 📝 提示词
+
+```
+场景自然流畅，主体缓慢地向后倾斜头部。镜头缓慢推进。这一动作过程会短暂地遮挡镜头。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f83d942670740ef094468a71a843b9b4/thumbnails/thumbnail.jpg" width="600" alt="缓慢的头部倾斜与镜头缩放">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6093)**
+
+**作者:** [Fi OC](https://x.com/fioc2024) | **来源:** [Link](https://x.com/fioc2024/status/2066315176836550864) | **发布时间:** Jun 15, 2026
 
 ---
 ### 骑着火箭的 AI 角色
@@ -873,7 +1071,7 @@ Ricardo 进入了势不可挡的“黑客帝国”模式，凭借惊人的武术
 超高细节动漫风格，电影级视角，粗犷且富有戏剧性的光影，高对比度与饱和色彩。一个低角度倾斜的电影感街头风格镜头，拍摄停车场场景，仰拍一位背对镜头的动漫少女，她单手拿着一个紫色的摩托车头盔正在行走。她穿着紧身白色赛车裤、一件印有“AgenC”字样的修身印花 T 恤和黄色靴子，其中一只靴子的鞋底在前景中以锐利的细节呈现。视角强调了粗犷的城市美学，并运用了大胆的透视缩短效果。在她前方，停着一辆紫色街车。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dabbf9ca7a824642ec80bc1e4fbc2a30/thumbnails/thumbnail.jpg" width="600" alt="动漫少女与摩托车街头风格">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/26385c2a1b638af520285168ffc2bf94/thumbnails/thumbnail.jpg" width="600" alt="动漫少女与摩托车街头风格">
 
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5962)**
 
@@ -2042,232 +2240,6 @@ Monterey Bay Aquarium LilX 和 Scouts 在深海展区观看霓虹鱼
 **作者:** [Celia](https://x.com/ritpol) | **来源:** [Link](https://x.com/ritpol/status/2061950977654353999) | **发布时间:** Jun 2, 2026
 
 ---
-### 古老宇宙结构漂流
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段电影质感的视频提示词，描绘了一座巨大的古老结构在深空中漂浮，象征着一个失落的高等文明。
-
-#### 📝 提示词
-
-```
-在已知宇宙的边缘，一座不可思议的结构在永恒中漂流，承载着曾主宰星辰的文明所留下的回响。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/57544f1ac859e65660cae321c7359491/thumbnails/thumbnail.jpg" width="600" alt="古老宇宙结构漂流">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5710)**
-
-**作者:** [@ed](https://x.com/edneme) | **来源:** [Link](https://x.com/edneme/status/2061916767010570556) | **发布时间:** Jun 2, 2026
-
----
-### 北欧神话战士电影感视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份详细的电影感提示词，用于将用户转换为拥有编发和发光蓝色符文的北欧神话战士视频。
-
-#### 📝 提示词
-
-```
-我化身为强大北欧神话战士的电影感视频。
-
-Capa 1 - 场景：我面部的特写镜头，深色长湿发随风飘动，浓密的编织胡须，古老的伤疤，额头和脸颊上闪烁着明亮的蓝色符文...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b8f0020bfb474930037d2e2f03061f07/thumbnails/thumbnail.jpg" width="600" alt="北欧神话战士电影感视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5634)**
-
-**作者:** [Juan Torrez](https://x.com/jcwarcry1) | **来源:** [Link](https://x.com/jcwarcry1/status/2061905403718287753) | **发布时间:** Jun 2, 2026
-
----
-### 洛可可风格超人营救小猫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个 Grok Imagine 视频提示词，描绘了超人在洛可可艺术风格下从树上营救小猫的场景，并带有电影般的动态效果。
-
-#### 📝 提示词
-
-```
-洛可可风格
-超人漂浮上升并从树上救下小猫
-披风轻轻摆动
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8c133f6276866a8349383ccea56ca500/thumbnails/thumbnail.jpg" width="600" alt="洛可可风格超人营救小猫">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5632)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2061842734345052612) | **发布时间:** Jun 2, 2026
-
----
-### 空灵冥想人物平移镜头
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段缓慢且充满灵性的视频提示词，描绘了一个在黎明时分被金光与薄雾环绕的冥想人物。
-
-#### 📝 提示词
-
-```
-缓慢、空灵的摄像机平移镜头环绕着冥想中的人物，柔和的金光从体内轻轻脉动，薄雾在黎明的光线下微妙地旋绕，树叶和水面泛起微弱的涟漪，传达出一种深层的内心平静与灵性觉醒的意境……
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5832055ee96287d66a6cec83f3df0290/thumbnails/thumbnail.jpg" width="600" alt="空灵冥想人物平移镜头">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5628)**
-
-**作者:** [Jean](https://x.com/SpaceScoutsIntl) | **来源:** [Link](https://x.com/SpaceScoutsIntl/status/2061834724633616486) | **发布时间:** Jun 2, 2026
-
----
-### 洛可可风格哥谭市蝙蝠侠场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是一个为 Grok Imagine 设计的视觉冲击力极强的视频提示词，融合了洛可可艺术风格与蝙蝠侠驾驶蝙蝠车穿梭在哥谭市雨夜街道的画面。
-
-#### 📝 提示词
-
-```
-洛可可风格
-蝙蝠侠驾驶蝙蝠车穿梭在哥谭市的雨夜街道中，披风随风飘动
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fd7f0b747ecd236d782202ddd7ae97e1/thumbnails/thumbnail.jpg" width="600" alt="洛可可风格哥谭市蝙蝠侠场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5630)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2061834695231541352) | **发布时间:** Jun 2, 2026
-
----
-### 哥特式城堡过山车之旅
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段详细的叙事视频提示词，描述了以第一人称视角乘坐过山车穿过带有漂浮幽灵茶壶的哥特式宴会厅的场景。
-
-#### 📝 提示词
-
-```
-以第一人称视角乘坐过山车穿过哥特式城堡宴会厅……
-
-灯光渐暗……
-
-古老镜子中漂浮着幽灵茶壶……
-
-随后是尖叫着俯冲而下。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/500e3aa7ce556bd344162c3bfb6e4556/thumbnails/thumbnail.jpg" width="600" alt="哥特式城堡过山车之旅">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5631)**
-
-**作者:** [sugarcane](https://x.com/sugarcanebkk) | **来源:** [Link](https://x.com/sugarcanebkk/status/2061828331490914573) | **发布时间:** Jun 2, 2026
-
----
-### 充满未来感的霓虹大教堂与漂浮灯光
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个电影级的视频提示词，描述了一座由霓虹建筑构成、充满全息玻璃和漂浮灯光的未来感大教堂内部。
-
-#### 📝 提示词
-
-```
-在一座宏伟的未来感大教堂内部，建筑完全由发光的霓虹灯构成，装饰着全息彩色玻璃，并点缀着成千上万盏漂浮的灯光。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2e2c2e746050e77857343de5bc9410f1/thumbnails/thumbnail.jpg" width="600" alt="充满未来感的霓虹大教堂与漂浮灯光">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5644)**
-
-**作者:** [Maer](https://x.com/Maer4real) | **来源:** [Link](https://x.com/Maer4real/status/2061806673618973015) | **发布时间:** Jun 2, 2026
-
----
-### 中央公园城市速写海报
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份关于纽约中央公园城市速写旅行海报的高细节提示词，包含水彩质感和手绘透视效果。
-
-#### 📝 提示词
-
-```
-纽约中央公园，八月，午后。
-
-一张高级城市速写旅行日志海报，捕捉纽约中央公园一个真实的夏日午后。
-
-展现广阔的草坪、成熟的榆树和橡树、悠闲的行人、骑行者、慢跑者、草地上的野餐，以及在树梢后方隐约浮现的曼哈顿天际线。
-
-精致的城市速写插画，
-富有表现力的钢笔淡彩画，
-纤细的黑色墨线，断续的轮廓线，略显不完美的手绘透视，真实的速写本美学。透明的水彩叠色，柔和的颜料晕染，细腻的纸张纹理，有限的色彩调色板，保留白色的高光。
-
-大面积留白，通透的旅行海报构图，前景是公园生活，中景是漫步者和骑行者，背景是隐没在水彩雾气中的曼哈顿天际线。
-
-氛围：
-温暖、诗意、宁静、观察视角、永恒的夏日城市生活。
-
-柔和的八月阳光，草地上温柔的树影，温暖的反射高光，细腻的大气深度。
-
-排版：
-“NEW YORK”
-“An August Afternoon”
-
-奢华旅行日志插画，
-高级城市速写本美学，真实的手绘建筑与景观速写。
-```
-
-<img src="https://cms-assets.youmind.com/media/1780994433496_ycrf87_HJzTnT_aMAAJMFG.jpg" width="600" alt="中央公园城市速写海报">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5637)**
-
-**作者:** [Sarah](https://x.com/AIwithSarah_) | **来源:** [Link](https://x.com/AIwithSarah_/status/2061755438295875742) | **发布时间:** Jun 2, 2026
-
----
-### 深渊星辰美人鱼与章鱼守护者
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个电影感视频提示词，描绘了美人鱼女皇在深海中穿行，身旁伴随着星辰般的三心章鱼守护者，象征着神秘与智慧。
-
-#### 📝 提示词
-
-```
-星辰万神殿
-深渊美人鱼女皇与星辰章鱼守护者
-
-她穿行于深邃、神秘与未知的智慧之中，身旁伴随着她的三心守护者。这揭示了一个真理：当我们能够独自伫立于未知之中，却依然保持完整时，智慧便由此开启。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e32d9a4162dd0a9a6f7ea9a0f999feec/thumbnails/thumbnail.jpg" width="600" alt="深渊星辰美人鱼与章鱼守护者">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5733)**
-
-**作者:** [Tugba](https://x.com/TGBA2023) | **来源:** [Link](https://x.com/TGBA2023/status/2061745886078591381) | **发布时间:** Jun 2, 2026
-
----
-### 超现实主义结晶面部变形
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个受萨尔瓦多·达利（Salvador Dalí）启发的超现实主义视频提示词，将面部转化为融化且不断变形的晶体切面。
-
-#### 📝 提示词
-
-```
-将这位结晶女性的面部转化为受萨尔瓦多·达利（Salvador Dalí）启发的超现实主义杰作：梦幻般的扭曲效果，违背物理定律的融化与变形晶体切面，面部周围漂浮着晶体碎片与棱镜，不可思议的几何结构……
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6d780ab18812f54bd9838addc00af86f/thumbnails/thumbnail.jpg" width="600" alt="超现实主义结晶面部变形">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5638)**
-
-**作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **来源:** [Link](https://x.com/clemensilverio/status/2061688291489919386) | **发布时间:** Jun 2, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2329,6 +2301,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-06-16T05:22:33.099Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-06-16T13:16:05.794Z</sub>
 
 </div>

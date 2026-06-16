@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1829** |
+| 📝 Total Prompts | **1839** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-16** |
 
@@ -189,6 +189,147 @@ Una valquiria celestial mística y noble, una mujer digna y hermosa con largo ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Acción y diálogo del curador de la galería de arte
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un sofisticado prompt de video que especifica acciones del personaje, como ajustarse las gafas y gesticular, acompañado de un diálogo hablado para una escena cinematográfica.
+
+#### 📝 Prompt
+
+```
+Acción: Se ajusta las gafas, baja su tablet para centrar la atención en el espectador y hace un gesto invitante hacia la galería.
+
+Diálogo: "Analizar la belleza es un arte, pero crearla es nuestra pasión. Mira más allá de lo evidente. Esto es DHC."
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2066664682161655808/img/K5Wmw35cSxStWmyK.jpg" width="600" alt="Acción y diálogo del curador de la galería de arte">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6101)**
+
+**Author:** [HughStiel/DogeHeadCoin $DHC](https://x.com/hugh_stiel) | **Source:** [Link](https://x.com/hugh_stiel/status/2066664734288490587) | **Published:** Jun 15, 2026
+
+---
+### Viajero en el ferrocarril de neón sobre las nubes
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video visual de un viajero caminando sobre una vía de ferrocarril iluminada con luces de neón que se extiende a través de un mar de nubes brillantes al crepúsculo.
+
+#### 📝 Prompt
+
+```
+Un viajero solitario camina a lo largo de una vía de ferrocarril iluminada con luces de neón que se extiende sobre un mar infinito de nubes brillantes al crepúsculo. El viaje en sí mismo es el destino.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4c1b5eade1100fe70306ad521da520d5/thumbnails/thumbnail.jpg" width="600" alt="Viajero en el ferrocarril de neón sobre las nubes">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6095)**
+
+**Author:** [Missy AI](https://x.com/ai_empire33) | **Source:** [Link](https://x.com/ai_empire33/status/2066576832741482906) | **Published:** Jun 15, 2026
+
+---
+### Secuencia dinámica de combate de artes marciales
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt integral para generar secuencias de artes marciales acrobáticas de alta energía con trabajo de cámara cinematográfico y movimiento fluido.
+
+#### 📝 Prompt
+
+```
+* Sin cortes. Sin transiciones.
+
+Secuencia de combate acrobático dinámica y de alta energía. Movimiento fluido, potente y cinematográfico con una excelente claridad de movimiento. El personaje realiza combos de artes marciales de ritmo rápido que incluyen patadas giratorias, rodillazos voladores, volteretas aéreas, carreras por la pared, saltos, rodadas y derribos brutales. Física fluida, atlética y realista con un fuerte impulso y peso detrás de cada golpe. Trabajo de cámara dinámico: tomas de seguimiento, cámara circular, ángulos dramáticos, cámara lenta ocasional en el impacto. Alta intensidad, coreografía elegante pero potente, excelente fluidez y velocidad. Iluminación cinematográfica, detalles de movimiento nítidos, sin rigidez, escena de combate altamente dinámica y emocionante, calidad de obra maestra, video de 6 segundos...., escena de combate altamente dinámica y emocionante, movimiento fluido y suave, calidad de obra maestra, video de 6 segundos.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/29c7a52c5bc841b0dc15d88cd38ebe8f/thumbnails/thumbnail.jpg" width="600" alt="Secuencia dinámica de combate de artes marciales">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6097)**
+
+**Author:** [Lala](https://x.com/keepgoingAnnie) | **Source:** [Link](https://x.com/keepgoingAnnie/status/2066551416986968369) | **Published:** Jun 15, 2026
+
+---
+### Ghost River Cinematic Push-In
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video técnico que especifica el movimiento de cámara y la puesta en escena para una secuencia cinematográfica que presenta un río fantasma y un molino.
+
+#### 📝 Prompt
+
+```
+VIDEO 4
+
+BLOQUEO DE ESCENA: Composición estática del protagonista con un acercamiento cinematográfico extremadamente sutil hacia el molino, preservando la perspectiva y la geometría.
+
+ESCENARIO: Expresión completa del río fantasma, seguida de un lento desvanecimiento de la memoria hacia la oscuridad.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2066390926893924352/img/FQdNby4qREvxk-5J.jpg" width="600" alt="Ghost River Cinematic Push-In">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6096)**
+
+**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2066391012470309276) | **Published:** Jun 15, 2026
+
+---
+### Regalo de criatura marina dorada y aleta de ángel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video descriptivo donde una criatura marina dorada y etérea le ofrece una aleta caudal brillante a un ángel.
+
+#### 📝 Prompt
+
+```
+La criatura marina dorada extiende suavemente una hermosa, etérea y brillante aleta caudal hacia el ángel.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/981a4c3276f1b8222331bf2568e55f04/thumbnails/thumbnail.jpg" width="600" alt="Regalo de criatura marina dorada y aleta de ángel">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6094)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2066389144213876780) | **Published:** Jun 15, 2026
+
+---
+### Video de Mercy de Overwatch con el corazón de Valkyrie
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de generación de video de Mercy de Overwatch con su traje de Valkyrie, ofreciendo un símbolo de corazón brillante al espectador.
+
+#### 📝 Prompt
+
+```
+Mercy de Overwatch con su clásico traje de Valkyrie blanco y dorado, extendiendo su mano hacia el espectador/pantalla como si estuviera entregando u ofreciendo un símbolo de corazón rojo y blanco prominente (brillando o flotando en su palma como un emblema de curación), 🕊️🤍
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9fdd94ee1247c0dfa9ee9e8700c40294/thumbnails/thumbnail.jpg" width="600" alt="Video de Mercy de Overwatch con el corazón de Valkyrie">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6092)**
+
+**Author:** [Irene Sieg](https://x.com/SiegSieg50040) | **Source:** [Link](https://x.com/SiegSieg50040/status/2066380661015953874) | **Published:** Jun 15, 2026
+
+---
+### Visita celestial de una criatura oceánica mística
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video cinematográfico que representa a una criatura submarina mística sintiendo una presencia divina desde arriba, creando una atmósfera serena y etérea.
+
+#### 📝 Prompt
+
+```
+esta criatura mística del océano siente una visita en camino desde algún lugar arriba en los reinos celestiales
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2667d4bfe99f3ec0f044de12c8938cb0/thumbnails/thumbnail.jpg" width="600" alt="Visita celestial de una criatura oceánica mística">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6100)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2066366065647440340) | **Published:** Jun 15, 2026
+
+---
 ### Movimiento de niebla en noche estrellada
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +347,63 @@ La niebla y el viento deben ondular y la noche estrellada debe parpadear… Más
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6060)**
 
 **Author:** [Janice 🟧](https://x.com/titlejt) | **Source:** [Link](https://x.com/titlejt/status/2066358379300442612) | **Published:** Jun 15, 2026
+
+---
+### Estudio en cabaña al aire libre junto al río
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un tranquilo video prompt matutino de una cabaña estudio iluminada por el sol junto a un río con un efecto de brisa ligera.
+
+#### 📝 Prompt
+
+```
+Un estudio luminoso al aire libre, mitad interior y mitad exterior, situado en una tranquila mañana en la cabaña alquilada junto al río. El espacio iluminado por el sol se abre directamente a un balcón de madera con vistas al río resplandeciente bajo la luz de la mañana, con una brisa ligera (world building)
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/29aeb249a788b0c25b18d37d8745114d/thumbnails/thumbnail.jpg" width="600" alt="Estudio en cabaña al aire libre junto al río">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6099)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2066353976765731158) | **Published:** Jun 15, 2026
+
+---
+### Animación de rostro en agua iridiscente
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de movimiento para animar el rostro de una mujer moviéndose en agua vibrante con ondas de arcoíris psicodélicas y remolinos de aceite.
+
+#### 📝 Prompt
+
+```
+La obra de arte digital surrealista cobra vida mientras el rostro de la joven se mueve suavemente en el agua iridiscente vibrante, con ondas de arcoíris psicodélicas y remolinos de colores aceitosos que fluyen y brillan dinámicamente sobre su piel sumergida y la superficie del agua
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06526b33fbdad194fa9bc2bdffa3aa35/thumbnails/thumbnail.jpg" width="600" alt="Animación de rostro en agua iridiscente">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6098)**
+
+**Author:** [quantum void](https://x.com/Happygator) | **Source:** [Link](https://x.com/Happygator/status/2066319820736373187) | **Published:** Jun 15, 2026
+
+---
+### Inclinación lenta de cabeza y zoom de cámara
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video específico para el movimiento que describe un flujo natural donde el sujeto inclina la cabeza hacia atrás mientras la cámara hace zoom.
+
+#### 📝 Prompt
+
+```
+Las escenas fluyen naturalmente mientras el sujeto inclina lentamente la cabeza hacia atrás. La toma hace zoom lentamente. El flujo obstruye brevemente la cámara.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f83d942670740ef094468a71a843b9b4/thumbnails/thumbnail.jpg" width="600" alt="Inclinación lenta de cabeza y zoom de cámara">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6093)**
+
+**Author:** [Fi OC](https://x.com/fioc2024) | **Source:** [Link](https://x.com/fioc2024/status/2066315176836550864) | **Published:** Jun 15, 2026
 
 ---
 ### Personajes de IA en cohetes voladores
@@ -873,7 +1071,7 @@ Mantén a la mujer exactamente como en la foto de referencia: su rostro, cabello
 Estilo anime hiperdetallado, perspectiva cinematográfica, iluminación dramática y descarnada, contraste marcado con colores saturados. Un plano cinematográfico de estilo urbano en ángulo contrapicado de un estacionamiento, mirando hacia arriba a una chica anime que sostiene un casco de motocicleta morado en una mano mientras camina, vista desde atrás. Viste pantalones de carreras blancos ajustados, una camiseta gráfica entallada que dice "AgenC" y botas amarillas, con la suela de una bota dominando el primer plano con gran detalle. La perspectiva enfatiza la estética urbana y descarnada con un escorzo marcado. Frente a ella, una motocicleta urbana de color morado.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dabbf9ca7a824642ec80bc1e4fbc2a30/thumbnails/thumbnail.jpg" width="600" alt="Chica anime con estilo urbano y motocicleta">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/26385c2a1b638af520285168ffc2bf94/thumbnails/thumbnail.jpg" width="600" alt="Chica anime con estilo urbano y motocicleta">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5962)**
 
@@ -2042,232 +2240,6 @@ La joven acerca suavemente a sus labios la copa de tallo largo con el cóctel de
 **Author:** [Celia](https://x.com/ritpol) | **Source:** [Link](https://x.com/ritpol/status/2061950977654353999) | **Published:** Jun 2, 2026
 
 ---
-### Deriva de una antigua estructura cósmica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video cinematográfico de una estructura antigua y masiva flotando en el espacio profundo, que simboliza una civilización avanzada perdida.
-
-#### 📝 Prompt
-
-```
-En el límite del espacio conocido, una estructura imposible flota a través de la eternidad, cargando con los ecos de una civilización que dominó las estrellas.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/57544f1ac859e65660cae321c7359491/thumbnails/thumbnail.jpg" width="600" alt="Deriva de una antigua estructura cósmica">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5710)**
-
-**Author:** [@ed](https://x.com/edneme) | **Source:** [Link](https://x.com/edneme/status/2061916767010570556) | **Published:** Jun 2, 2026
-
----
-### Video cinemático de guerrero dios nórdico
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinemático detallado para la transformación en video de un usuario en un guerrero con apariencia de dios nórdico, con cabello trenzado y runas azules brillantes.
-
-#### 📝 Prompt
-
-```
-Video cinemático de mí como un poderoso guerrero con apariencia de dios nórdico. 
-
-Capa 1 - Escena: Primer plano intenso de mi rostro exacto, cabello oscuro largo y húmedo con trenzas moviéndose con el viento, barba trenzada espesa, cicatrices antiguas, runas de color azul brillante en la frente y las mejillas...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b8f0020bfb474930037d2e2f03061f07/thumbnails/thumbnail.jpg" width="600" alt="Video cinemático de guerrero dios nórdico">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5634)**
-
-**Author:** [Juan Torrez](https://x.com/jcwarcry1) | **Source:** [Link](https://x.com/jcwarcry1/status/2061905403718287753) | **Published:** Jun 2, 2026
-
----
-### Rescate de gatito por Superman estilo rococó
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video para Grok Imagine que representa a Superman rescatando a un gatito de un árbol con un estilo artístico rococó y movimiento cinematográfico.
-
-#### 📝 Prompt
-
-```
-Estilo rococó
-Superman flota hacia arriba y rescata a un gatito de un árbol
-Capa balanceándose suavemente
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8c133f6276866a8349383ccea56ca500/thumbnails/thumbnail.jpg" width="600" alt="Rescate de gatito por Superman estilo rococó">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5632)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2061842734345052612) | **Published:** Jun 2, 2026
-
----
-### Panorámica de figura etérea meditando
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video lento y espiritual que muestra a una figura meditando rodeada de luz dorada y niebla en un entorno al amanecer.
-
-#### 📝 Prompt
-
-```
-Panorámica de cámara lenta y etérea alrededor de la figura que medita mientras una suave luz dorada pulsa delicadamente desde su interior, la niebla se arremolina sutilmente bajo la luz del amanecer, las hojas y la superficie del agua muestran ligeras ondas, transmitiendo una sensación de profunda paz interior y despertar espiritual...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5832055ee96287d66a6cec83f3df0290/thumbnails/thumbnail.jpg" width="600" alt="Panorámica de figura etérea meditando">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5628)**
-
-**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2061834724633616486) | **Published:** Jun 2, 2026
-
----
-### Escena de Batman al estilo rococó en Gotham
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video visualmente impactante para Grok Imagine que combina el estilo rococó con Batman recorriendo las calles lluviosas de Gotham.
-
-#### 📝 Prompt
-
-```
-Estilo rococó
-Batman recorriendo las calles lluviosas de Gotham por la noche, con la capa de su Batmóvil ondeando
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fd7f0b747ecd236d782202ddd7ae97e1/thumbnails/thumbnail.jpg" width="600" alt="Escena de Batman al estilo rococó en Gotham">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5630)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2061834695231541352) | **Published:** Jun 2, 2026
-
----
-### Viaje en montaña rusa por un castillo gótico
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video narrativo detallado que consiste en un recorrido en primera persona en montaña rusa a través de un salón de baile gótico con teteras fantasmales flotantes.
-
-#### 📝 Prompt
-
-```
-Un recorrido en primera persona en montaña rusa a través del salón de baile de un castillo gótico…
-
-las luces se desvanecen…
-
-teteras fantasmales flotando en un espejo antiguo…
-
-luego, la caída vertiginosa.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/500e3aa7ce556bd344162c3bfb6e4556/thumbnails/thumbnail.jpg" width="600" alt="Viaje en montaña rusa por un castillo gótico">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5631)**
-
-**Author:** [sugarcane](https://x.com/sugarcanebkk) | **Source:** [Link](https://x.com/sugarcanebkk/status/2061828331490914573) | **Published:** Jun 2, 2026
-
----
-### Catedral de neón futurista con luces flotantes
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video cinematográfico para el interior de una catedral futurista construida con arquitectura de neón y llena de cristal holográfico y luces flotantes.
-
-#### 📝 Prompt
-
-```
-Dentro de una enorme catedral futurista hecha completamente de arquitectura de neón brillante, vidrieras holográficas y miles de luces flotantes.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2e2c2e746050e77857343de5bc9410f1/thumbnails/thumbnail.jpg" width="600" alt="Catedral de neón futurista con luces flotantes">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5644)**
-
-**Author:** [Maer](https://x.com/Maer4real) | **Source:** [Link](https://x.com/Maer4real/status/2061806673618973015) | **Published:** Jun 2, 2026
-
----
-### Póster de boceto urbano de Central Park
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt altamente detallado para un póster de viaje con estilo de boceto urbano de Central Park en Nueva York, que presenta texturas de acuarela y perspectiva dibujada a mano.
-
-#### 📝 Prompt
-
-```
-Central Park de Nueva York, agosto, por la tarde.
-
-Un póster de diario de viaje con estilo de boceto urbano premium que captura una auténtica tarde de verano en Central Park, Nueva York.
-
-Muestra amplios céspedes verdes, olmos y robles maduros, peatones relajados, ciclistas, corredores, picnics sobre la hierba y el horizonte de Manhattan emergiendo suavemente más allá de las copas de los árboles.
-
-Ilustración de boceto urbano refinado,
-dibujo expresivo a pluma y tinta,
-líneas finas de tinta negra, líneas de contorno discontinuas, perspectiva dibujada a mano ligeramente imperfecta, estética auténtica de cuaderno de bocetos. Capas de acuarela transparente, difusión suave de pigmentos, textura de papel sutil, paleta de colores limitada, reflejos blancos preservados.
-
-Gran espacio negativo, composición aireada de póster de viaje, vida del parque en primer plano, caminantes y ciclistas en el plano medio, horizonte de Manhattan en el fondo desvaneciéndose en una bruma de acuarela.
-
-Ambiente:
-cálido, poético, pacífico, observacional, vida urbana de verano atemporal.
-
-Luz solar suave de agosto, sombras suaves de los árboles sobre el césped, reflejos cálidos, delicada profundidad atmosférica.
-
-Tipografía:
-"NEW YORK"
-"An August Afternoon"
-
-Ilustración de diario de viaje de lujo,
-estética premium de cuaderno de bocetos urbano, arquitectura y boceto de paisaje auténticamente dibujados a mano.
-```
-
-<img src="https://cms-assets.youmind.com/media/1780994433496_ycrf87_HJzTnT_aMAAJMFG.jpg" width="600" alt="Póster de boceto urbano de Central Park">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5637)**
-
-**Author:** [Sarah](https://x.com/AIwithSarah_) | **Source:** [Link](https://x.com/AIwithSarah_/status/2061755438295875742) | **Published:** Jun 2, 2026
-
----
-### Sirena del abismo celestial y guardián pulpo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video cinematográfico que presenta a una emperatriz sirena moviéndose a través de las profundidades con un guardián pulpo celestial de tres corazones, representando el misterio y la sabiduría.
-
-#### 📝 Prompt
-
-```
-Panteón celestial
-Emperatriz sirena del abismo y guardián pulpo celestial
-
-Ella se mueve a través de la profundidad, el misterio y una inteligencia invisible junto a su guardián de tres corazones, revelando que la sabiduría comienza cuando podemos permanecer solos en lo desconocido y aun así sentirnos completos.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e32d9a4162dd0a9a6f7ea9a0f999feec/thumbnails/thumbnail.jpg" width="600" alt="Sirena del abismo celestial y guardián pulpo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5733)**
-
-**Author:** [Tugba](https://x.com/TGBA2023) | **Source:** [Link](https://x.com/TGBA2023/status/2061745886078591381) | **Published:** Jun 2, 2026
-
----
-### Transformación facial surrealista cristalizada
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video surrealista inspirado en Salvador Dalí, que transforma un rostro en facetas de cristal que se derriten y se transforman.
-
-#### 📝 Prompt
-
-```
-Transforma el rostro de esta mujer cristalizada en una obra maestra altamente surrealista inspirada en Salvador Dalí: distorsiones oníricas, facetas de cristal que se derriten y se transforman desafiando la física, fragmentos de cristal y prismas flotando alrededor del rostro, geometría imposible...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6d780ab18812f54bd9838addc00af86f/thumbnails/thumbnail.jpg" width="600" alt="Transformación facial surrealista cristalizada">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5638)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2061688291489919386) | **Published:** Jun 2, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2329,6 +2301,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-16T05:22:40.467Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-16T13:16:13.248Z</sub>
 
 </div>

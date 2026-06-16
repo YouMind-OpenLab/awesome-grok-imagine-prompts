@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1829** |
+| 📝 Total Prompts | **1839** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-16** |
 
@@ -189,6 +189,147 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Art Gallery Curator Action and Dialogue
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A sophisticated video prompt specifying character actions like adjusting glasses and gesturing, complete with spoken dialogue for a cinematic scene.
+
+#### 📝 Prompt
+
+```
+Action: He adjusts his glasses, lowers his tablet to focus attention on the viewer, and gestures invitingly toward the gallery.
+
+Dialogue: "Analyzing beauty is an art, but creating it is our passion. Look beyond the obvious. This is DHC."
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2066664682161655808/img/K5Wmw35cSxStWmyK.jpg" width="600" alt="Art Gallery Curator Action and Dialogue">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6101)**
+
+**Author:** [HughStiel/DogeHeadCoin $DHC](https://x.com/hugh_stiel) | **Source:** [Link](https://x.com/hugh_stiel/status/2066664734288490587) | **Published:** Jun 15, 2026
+
+---
+### Neon Railway Traveler Over Clouds
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A visual video prompt of a traveler walking on a neon-lit railway stretching across a sea of glowing clouds at twilight.
+
+#### 📝 Prompt
+
+```
+A solitary traveler walks along a neon-lit railway track that stretches across an endless sea of glowing clouds at twilight. The journey itself is the destination.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4c1b5eade1100fe70306ad521da520d5/thumbnails/thumbnail.jpg" width="600" alt="Neon Railway Traveler Over Clouds">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6095)**
+
+**Author:** [Missy AI](https://x.com/ai_empire33) | **Source:** [Link](https://x.com/ai_empire33/status/2066576832741482906) | **Published:** Jun 15, 2026
+
+---
+### Dynamic Martial Arts Fight Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive prompt for generating high-energy, acrobatic martial arts sequences with cinematic camera work and fluid motion.
+
+#### 📝 Prompt
+
+```
+* No cut scenes. No transitions.
+
+Dynamic, high-energy acrobatic fight sequence. Fluid, powerful, and cinematic movement with excellent motion clarity. The character performs fast-paced martial arts combos including spinning kicks, flying knees, aerial flips, wall runs, jumps, rolls, and brutal takedowns. Smooth, athletic, and realistic physics with strong momentum and weight behind every strike. Dynamic camera work — tracking shots, circling camera, dramatic angles, occasional slow-motion on impact. High intensity, graceful yet powerful choreography, excellent fluidity and speed. Cinematic lighting, sharp motion details, no stiffness, highly dynamic and exciting fight scene, masterpiece quality, 6-second video...., highly dynamic and exciting fight scene, smooth fluid motion, masterpiece quality, 6-second video.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/29c7a52c5bc841b0dc15d88cd38ebe8f/thumbnails/thumbnail.jpg" width="600" alt="Dynamic Martial Arts Fight Sequence">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6097)**
+
+**Author:** [Lala](https://x.com/keepgoingAnnie) | **Source:** [Link](https://x.com/keepgoingAnnie/status/2066551416986968369) | **Published:** Jun 15, 2026
+
+---
+### Ghost River Cinematic Push-In
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A technical video prompt specifying camera movement and staging for a cinematic scene featuring a ghost river and a mill.
+
+#### 📝 Prompt
+
+```
+VIDEO 4
+
+SCENE LOCK: Static hero composition with an extremely subtle cinematic push-in toward the mill, preserving perspective and geometry.
+
+STAGE: Full expression of the ghost river, followed by a slow fading of memory back into darkness.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2066390926893924352/img/FQdNby4qREvxk-5J.jpg" width="600" alt="Ghost River Cinematic Push-In">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6096)**
+
+**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2066391012470309276) | **Published:** Jun 15, 2026
+
+---
+### Golden Sea Creature and Angel Fin Gift
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A descriptive video prompt where an ethereal golden sea creature offers a glowing tail fin to an angel.
+
+#### 📝 Prompt
+
+```
+The golden sea creature is gently holding out a beautiful, ethereal, glowing tail fin toward the angel.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/981a4c3276f1b8222331bf2568e55f04/thumbnails/thumbnail.jpg" width="600" alt="Golden Sea Creature and Angel Fin Gift">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6094)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2066389144213876780) | **Published:** Jun 15, 2026
+
+---
+### Overwatch Mercy Valkyrie Heart Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt for Mercy from Overwatch in her Valkyrie suit offering a glowing heart symbol to the viewer.
+
+#### 📝 Prompt
+
+```
+Mercy Overwatch in her classic white and gold Valkyrie suit reaching her hand forward toward the viewer/screen as if handing or offering a prominent red and white heart symbol (glowing or floating in her palm like a healing emblem), 🕊️🤍
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9fdd94ee1247c0dfa9ee9e8700c40294/thumbnails/thumbnail.jpg" width="600" alt="Overwatch Mercy Valkyrie Heart Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6092)**
+
+**Author:** [Irene Sieg](https://x.com/SiegSieg50040) | **Source:** [Link](https://x.com/SiegSieg50040/status/2066380661015953874) | **Published:** Jun 15, 2026
+
+---
+### Mystic Ocean Creature Heavenly Visitation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt depicting a mystical underwater creature sensing a divine presence from above, creating a serene and ethereal atmosphere.
+
+#### 📝 Prompt
+
+```
+this mystic creature of the ocean senses a visitation on the way from somewhere above in heavenly realms
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2667d4bfe99f3ec0f044de12c8938cb0/thumbnails/thumbnail.jpg" width="600" alt="Mystic Ocean Creature Heavenly Visitation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6100)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2066366065647440340) | **Published:** Jun 15, 2026
+
+---
 ### Starry Night Foggy Movement
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +347,63 @@ The foggy and wind should waving and starry night blinking … More environment 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6060)**
 
 **Author:** [Janice 🟧](https://x.com/titlejt) | **Source:** [Link](https://x.com/titlejt/status/2066358379300442612) | **Published:** Jun 15, 2026
+
+---
+### Open-Air River Cabin Studio
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A peaceful morning video prompt of a sunlit studio cabin by a river with a light breeze effect.
+
+#### 📝 Prompt
+
+```
+A bright, open-air studio that's half inside, half outside, set in the peaceful morning at the rented cabin by the river. The sunlit space opens directly onto a wooden balcony overlooking the sparkling river in early sunlight, with a light breeze (world building)
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/29aeb249a788b0c25b18d37d8745114d/thumbnails/thumbnail.jpg" width="600" alt="Open-Air River Cabin Studio">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6099)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2066353976765731158) | **Published:** Jun 15, 2026
+
+---
+### Iridescent Water Face Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A motion prompt for animating a woman's face moving in vibrant water with psychedelic rainbow ripples and oil swirls.
+
+#### 📝 Prompt
+
+```
+The surreal digital artwork comes to life as the young woman's face gently moves in the vibrant iridescent water, with psychedelic rainbow ripples and oily color swirls dynamically flowing and shimmering across her submerged skin and the water surface
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06526b33fbdad194fa9bc2bdffa3aa35/thumbnails/thumbnail.jpg" width="600" alt="Iridescent Water Face Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6098)**
+
+**Author:** [quantum void](https://x.com/Happygator) | **Source:** [Link](https://x.com/Happygator/status/2066319820736373187) | **Published:** Jun 15, 2026
+
+---
+### Slow Head Tilt and Camera Zoom
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A motion-specific video prompt describing a natural flow where the subject tilts their head back as the camera zooms in.
+
+#### 📝 Prompt
+
+```
+Scenes naturally flows the subject slowly tilts its head back. Shot zooms in slowly. The flow briefly obscures the camera.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f83d942670740ef094468a71a843b9b4/thumbnails/thumbnail.jpg" width="600" alt="Slow Head Tilt and Camera Zoom">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6093)**
+
+**Author:** [Fi OC](https://x.com/fioc2024) | **Source:** [Link](https://x.com/fioc2024/status/2066315176836550864) | **Published:** Jun 15, 2026
 
 ---
 ### AI Characters on Flying Rockets
@@ -843,19 +1041,19 @@ Keep the woman exactly as in the reference photo: her face, curly brown hair ado
 **Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2065067503231942715) | **Published:** Jun 11, 2026
 
 ---
-### Anime Girl Urban Street Style
+### Cinematic Anime Racing Girl in Urban Parking Lot
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic low-angle shot of an anime girl in racing gear walking toward a purple motorcycle in a gritty parking lot.
+> A gritty, urban anime scene featuring a girl in racing pants and an 'AgenC' shirt, holding a motorcycle helmet and walking through a parking lot with a purple streetbike in the background.
 
 #### 📝 Prompt
 
 ```
-Hyper-detailed anime style, cinematic perspective, gritty and dramatic lighting, bold contrast with saturated colors. A low-angle tilted cinematic street-style shot of a parking lot, looking up at an anime girl holding a purple motorcycle helmet in one hand and walking, as seen from behind. she wears tight white racing pants, a form fitting graphic t-shirt that says "AgenC", and yellow boots, with the tread of one_boot dominating the foreground in sharp detail. The perspective emphasizes the gritty, urban aesthetic with bold foreshortening. Infront of her, a purple streetbike.
+Hyper-detailed anime style, cinematic perspective, gritty and dramatic lighting, bold contrast with saturated colors. A low-angle tilted cinematic street-style shot of a parking lot, looking up at an anime girl holding a purple motorcycle helmet in one hand and walking, as seen from behind. she wears tight white racing pants, a form fitting graphic t-shirt that says "AgenC", and yellow boots, with the tread of one boot dominating the foreground in sharp detail. The perspective emphasizes the gritty, urban aesthetic with bold foreshortening. Infront of her, a purple streetbike.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dabbf9ca7a824642ec80bc1e4fbc2a30/thumbnails/thumbnail.jpg" width="600" alt="Anime Girl Urban Street Style">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/26385c2a1b638af520285168ffc2bf94/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Anime Racing Girl in Urban Parking Lot">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5962)**
 
@@ -1260,12 +1458,15 @@ AND SO WAS ME.
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed video prompt for generating a mystical close-up portrait of an ethereal woman with flowing hair and a glowing metal halo crown.
+> A highly detailed video prompt for a pale, ethereal woman wearing an intricate sunburst halo crown and a fantasy lace dress, set against a clean minimalist background.
 
 #### 📝 Prompt
 
 ```
-realistic close-up portrait of a pale ethereal woman with delicate freckles, extremely pale porcelain skin, long straight platinum-blonde hair flowing softly, closed eyes, serene and mystical expression, soft peach lips. She wears a highly detailed ornate dark metal sunburst halo crown with sharp spikes and glowing amber-orange stained glass segments that emit warm light, white fantasy dress : deep plunging neckline, long fitted sleeves with delicate lace, intricate lace details, wide ornate metallic belt. Minimalist soft blurred neutral gradient background, very clean and simple.
+realistic close-up portrait of a pale ethereal woman with delicate freckles, extremely pale porcelain skin, long straight platinum-blonde hair flowing softly, closed eyes, serene and mystical expression, soft peach lips. 
+She wears a highly detailed ornate dark metal sunburst halo crown with sharp spikes and glowing amber-orange stained glass segments that emit warm light,
+white fantasy dress : deep plunging neckline, long fitted sleeves with delicate lace, intricate lace details, wide ornate metallic belt. 
+Minimalist soft blurred neutral gradient background, very clean and simple.
 ```
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7a8974a4df2f19b400f5385e12f8a1f0/thumbnails/thumbnail.jpg" width="600" alt="Ethereal Woman with Sunburst Halo Crown">
@@ -2026,229 +2227,6 @@ The young woman gently brings the large stemmed glass with the orange-red cockta
 **Author:** [Celia](https://x.com/ritpol) | **Source:** [Link](https://x.com/ritpol/status/2061950977654353999) | **Published:** Jun 2, 2026
 
 ---
-### Ancient Deep Space Structure
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A poetic sci-fi prompt for generating atmospheric footage of a mysterious, drifting structure in the far reaches of space.
-
-#### 📝 Prompt
-
-```
-At the edge of known space, an impossible structure drifts through eternity, carrying the echoes of a civilization that mastered the stars.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/57544f1ac859e65660cae321c7359491/thumbnails/thumbnail.jpg" width="600" alt="Ancient Deep Space Structure">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5710)**
-
-**Author:** [@ed](https://x.com/edneme) | **Source:** [Link](https://x.com/edneme/status/2061916767010570556) | **Published:** Jun 2, 2026
-
----
-### Norse God Warrior Cinematic Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed cinematic prompt for a video transformation of a user into a Norse god-like warrior with braided hair and glowing blue runes.
-
-#### 📝 Prompt
-
-```
-Cinematic video of me as a powerful Norse god-like warrior. 
-
-Capa 1 - Escena: Close-up intense of my exact face, long dark wet hair with braids moving in the wind, thick braided beard, ancient scars, glowing bright blue runes on forehead and cheeks...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b8f0020bfb474930037d2e2f03061f07/thumbnails/thumbnail.jpg" width="600" alt="Norse God Warrior Cinematic Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5634)**
-
-**Author:** [Juan Torrez](https://x.com/jcwarcry1) | **Source:** [Link](https://x.com/jcwarcry1/status/2061905403718287753) | **Published:** Jun 2, 2026
-
----
-### Rococo Superman Kitten Rescue
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A Grok Imagine video prompt depicting Superman rescuing a kitten from a tree in a Rococo artistic style with cinematic motion.
-
-#### 📝 Prompt
-
-```
-Rococo style
-Superman floats up and rescues kitten form tree
-Cape gently swaying
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8c133f6276866a8349383ccea56ca500/thumbnails/thumbnail.jpg" width="600" alt="Rococo Superman Kitten Rescue">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5632)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2061842734345052612) | **Published:** Jun 2, 2026
-
----
-### Ethereal Meditating Figure Pan
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A slow, spiritual video prompt featuring a meditating figure surrounded by golden light and mist in a dawn setting.
-
-#### 📝 Prompt
-
-```
-Slow, ethereal camera pan around the meditating figure as soft golden light pulses gently from within, mist swirls subtly in the dawn light, leaves and water surface show faint ripples, conveying a sense of deep inner peace and lived spiritual awaken...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5832055ee96287d66a6cec83f3df0290/thumbnails/thumbnail.jpg" width="600" alt="Ethereal Meditating Figure Pan">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5628)**
-
-**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2061834724633616486) | **Published:** Jun 2, 2026
-
----
-### Rococo Gotham Batman Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A visually striking video prompt for Grok Imagine blending Rococo style with Batman zipping through the rainy streets of Gotham.
-
-#### 📝 Prompt
-
-```
-Rococo style
-Batman zipping through the rainy nights streets of Gotham in his Batmobile cape fluttering
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fd7f0b747ecd236d782202ddd7ae97e1/thumbnails/thumbnail.jpg" width="600" alt="Rococo Gotham Batman Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5630)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2061834695231541352) | **Published:** Jun 2, 2026
-
----
-### Gothic Castle Rollercoaster Ride
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed narrative video prompt involving a first-person rollercoaster through a gothic ballroom with floating ghostly teapots.
-
-#### 📝 Prompt
-
-```
-A first-person rollercoaster through a gothic castle ballroom…
-
-lights fade…
-
-ghostly teapots floating in an old mirror…
-
-then the screaming drop.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/500e3aa7ce556bd344162c3bfb6e4556/thumbnails/thumbnail.jpg" width="600" alt="Gothic Castle Rollercoaster Ride">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5631)**
-
-**Author:** [sugarcane](https://x.com/sugarcanebkk) | **Source:** [Link](https://x.com/sugarcanebkk/status/2061828331490914573) | **Published:** Jun 2, 2026
-
----
-### Futuristic Neon Cathedral
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt describing the interior of a massive cathedral made of neon architecture and holographic stained glass.
-
-#### 📝 Prompt
-
-```
-Inside a massive futuristic cathedral made entirely of glowing neon architecture, holographic stained glass and thousands of floating lights.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2e2c2e746050e77857343de5bc9410f1/thumbnails/thumbnail.jpg" width="600" alt="Futuristic Neon Cathedral">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5644)**
-
-**Author:** [Maer](https://x.com/Maer4real) | **Source:** [Link](https://x.com/Maer4real/status/2061806673618973015) | **Published:** Jun 2, 2026
-
----
-### Central Park Summer Urban Sketch Poster
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for a premium urban sketch of Central Park in August, featuring watercolor layering and a travel journal aesthetic.
-
-#### 📝 Prompt
-
-```
-New York Central Park, August, afternoon.
-
-A premium urban sketch travel journal poster capturing an authentic summer afternoon in Central Park, New York.
-
-Show expansive green lawns, mature elm and oak trees, leisurely pedestrians, cyclists, joggers, picnics on the grass, and the Manhattan skyline emerging softly beyond the treetops.
-
-Refined urban sketch illustration,
-expressive pen-and-ink drawing,
-thin black ink lines, broken contour lines, slightly imperfect hand-drawn perspective, authentic sketchbook aesthetic. Transparent watercolor layering, soft pigment diffusion, subtle paper texture, limited color palette, preserved white highlights.
-
-Large negative space, airy travel-poster composition, foreground park life, middle-ground walkers and cyclists, background Manhattan skyline fading into watercolor haze.
-
-Mood:
-warm, poetic, peaceful, observational, timeless summer city life.
-
-Soft August sunlight, gentle tree shadows across the lawn, warm reflected highlights, delicate atmospheric depth.
-
-Typography:
-"NEW YORK"
-"An August Afternoon"
-
-Luxury travel journal illustration,
-premium urban sketchbook aesthetic, authentic hand-drawn architecture and landscape sketch.
-```
-
-<img src="https://cms-assets.youmind.com/media/1780994433496_ycrf87_HJzTnT_aMAAJMFG.jpg" width="600" alt="Central Park Summer Urban Sketch Poster">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5637)**
-
-**Author:** [Sarah](https://x.com/AIwithSarah_) | **Source:** [Link](https://x.com/AIwithSarah_/status/2061755438295875742) | **Published:** Jun 2, 2026
-
----
-### Mermaid Empress and Octopus Guardian
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly descriptive prompt for generating a mythical underwater scene featuring a mermaid empress and her celestial guardian.
-
-#### 📝 Prompt
-
-```
-Celestial Pantheon Abyss Mermaid Empress & Celestial Octopus Guardian. She moves through depth, mystery and unseen intelligence with her three-hearted Guardian, revealing that wisdom begins when we can stand alone in the unknown and still remain whole.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e32d9a4162dd0a9a6f7ea9a0f999feec/thumbnails/thumbnail.jpg" width="600" alt="Mermaid Empress and Octopus Guardian">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5733)**
-
-**Author:** [Tugba](https://x.com/TGBA2023) | **Source:** [Link](https://x.com/TGBA2023/status/2061745886078591381) | **Published:** Jun 2, 2026
-
----
-### Surrealist Crystallized Face Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A surrealist video prompt inspired by Salvador Dalí, transforming a face into melting and morphing crystal facets.
-
-#### 📝 Prompt
-
-```
-Transform this crystallized woman's face into a highly surrealist masterpiece inspired by Salvador Dalí: dreamlike distortions, melting and morphing crystal facets that defy physics, floating crystal shards and prisms around the face, impossible geom...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6d780ab18812f54bd9838addc00af86f/thumbnails/thumbnail.jpg" width="600" alt="Surrealist Crystallized Face Transformation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5638)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2061688291489919386) | **Published:** Jun 2, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2310,6 +2288,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-16T05:22:31.983Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-16T13:16:04.838Z</sub>
 
 </div>

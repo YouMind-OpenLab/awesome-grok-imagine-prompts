@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1829** |
+| 📝 Total Prompts | **1839** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-16** |
 
@@ -189,6 +189,147 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Hành động và lời thoại của người quản lý phòng trưng bày nghệ thuật
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video tinh tế chỉ định các hành động của nhân vật như chỉnh kính và ra hiệu, hoàn chỉnh với lời thoại cho một cảnh quay đậm chất điện ảnh.
+
+#### 📝 Prompt
+
+```
+Hành động: Anh ấy chỉnh kính, hạ máy tính bảng xuống để thu hút sự chú ý của người xem và ra hiệu mời gọi về phía phòng trưng bày.
+
+Lời thoại: "Phân tích vẻ đẹp là một nghệ thuật, nhưng tạo ra nó mới là niềm đam mê của chúng tôi. Hãy nhìn xa hơn những gì hiển nhiên. Đây chính là DHC."
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2066664682161655808/img/K5Wmw35cSxStWmyK.jpg" width="600" alt="Hành động và lời thoại của người quản lý phòng trưng bày nghệ thuật">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6101)**
+
+**Author:** [HughStiel/DogeHeadCoin $DHC](https://x.com/hugh_stiel) | **Source:** [Link](https://x.com/hugh_stiel/status/2066664734288490587) | **Published:** Jun 15, 2026
+
+---
+### Lữ khách trên đường ray neon giữa tầng mây
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một đoạn video mô tả hình ảnh một lữ khách đang đi bộ trên đường ray rực rỡ ánh đèn neon trải dài giữa biển mây phát sáng vào lúc hoàng hôn.
+
+#### 📝 Prompt
+
+```
+Một lữ khách đơn độc bước đi dọc theo đường ray neon trải dài vô tận giữa biển mây phát sáng vào lúc hoàng hôn. Bản thân hành trình chính là đích đến.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4c1b5eade1100fe70306ad521da520d5/thumbnails/thumbnail.jpg" width="600" alt="Lữ khách trên đường ray neon giữa tầng mây">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6095)**
+
+**Author:** [Missy AI](https://x.com/ai_empire33) | **Source:** [Link](https://x.com/ai_empire33/status/2066576832741482906) | **Published:** Jun 15, 2026
+
+---
+### Chuỗi hành động võ thuật sống động
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh toàn diện để tạo ra các chuỗi hành động võ thuật nhào lộn, tràn đầy năng lượng với kỹ thuật quay phim điện ảnh và chuyển động mượt mà.
+
+#### 📝 Prompt
+
+```
+* Không cắt cảnh. Không chuyển cảnh.
+
+Chuỗi hành động nhào lộn sống động, tràn đầy năng lượng. Chuyển động mượt mà, mạnh mẽ và đậm chất điện ảnh với độ rõ nét cao. Nhân vật thực hiện các combo võ thuật tốc độ cao bao gồm đá xoay, lên gối bay, lộn nhào trên không, chạy trên tường, nhảy, lăn và các đòn vật quyết liệt. Vật lý mượt mà, thể thao và chân thực với động lượng mạnh mẽ và sức nặng trong mỗi cú đánh. Kỹ thuật quay phim năng động — các cảnh quay theo dõi, camera xoay vòng, góc quay kịch tính, thỉnh thoảng quay chậm khi va chạm. Cường độ cao, vũ đạo uyển chuyển nhưng mạnh mẽ, độ mượt mà và tốc độ tuyệt vời. Ánh sáng điện ảnh, chi tiết chuyển động sắc nét, không bị cứng nhắc, cảnh chiến đấu cực kỳ năng động và thú vị, chất lượng kiệt tác, video 6 giây...., cảnh chiến đấu cực kỳ năng động và thú vị, chuyển động mượt mà, chất lượng kiệt tác, video 6 giây.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/29c7a52c5bc841b0dc15d88cd38ebe8f/thumbnails/thumbnail.jpg" width="600" alt="Chuỗi hành động võ thuật sống động">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6097)**
+
+**Author:** [Lala](https://x.com/keepgoingAnnie) | **Source:** [Link](https://x.com/keepgoingAnnie/status/2066551416986968369) | **Published:** Jun 15, 2026
+
+---
+### Cú máy Cinematic Push-In tại Ghost River
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video kỹ thuật chỉ định chuyển động máy quay và dàn dựng cho một cảnh quay điện ảnh có sự xuất hiện của dòng sông ma và một cối xay gió.
+
+#### 📝 Prompt
+
+```
+VIDEO 4
+
+KHÓA CẢNH: Bố cục tĩnh tập trung vào chủ thể chính với cú máy cinematic push-in cực kỳ tinh tế hướng về phía cối xay gió, giữ nguyên phối cảnh và hình khối.
+
+DÀN DỰNG: Thể hiện trọn vẹn dòng sông ma, theo sau là hiệu ứng mờ dần của ký ức trở về với bóng tối.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2066390926893924352/img/FQdNby4qREvxk-5J.jpg" width="600" alt="Cú máy Cinematic Push-In tại Ghost River">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6096)**
+
+**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2066391012470309276) | **Published:** Jun 15, 2026
+
+---
+### Sinh vật biển vàng và món quà vây thiên thần
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video mô tả cảnh một sinh vật biển vàng huyền ảo trao chiếc vây đuôi phát sáng cho một thiên thần.
+
+#### 📝 Prompt
+
+```
+Sinh vật biển vàng đang nhẹ nhàng đưa chiếc vây đuôi tuyệt đẹp, huyền ảo và phát sáng về phía thiên thần.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/981a4c3276f1b8222331bf2568e55f04/thumbnails/thumbnail.jpg" width="600" alt="Sinh vật biển vàng và món quà vây thiên thần">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6094)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2066389144213876780) | **Published:** Jun 15, 2026
+
+---
+### Video trái tim Valkyrie của Mercy trong Overwatch
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video cho nhân vật Mercy từ Overwatch trong bộ trang phục Valkyrie, đang trao một biểu tượng trái tim phát sáng cho người xem.
+
+#### 📝 Prompt
+
+```
+Mercy trong Overwatch với bộ trang phục Valkyrie màu trắng vàng cổ điển, đưa tay về phía người xem/màn hình như đang trao hoặc tặng một biểu tượng trái tim màu đỏ trắng nổi bật (phát sáng hoặc lơ lửng trong lòng bàn tay như một biểu tượng hồi máu), 🕊️🤍
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9fdd94ee1247c0dfa9ee9e8700c40294/thumbnails/thumbnail.jpg" width="600" alt="Video trái tim Valkyrie của Mercy trong Overwatch">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6092)**
+
+**Author:** [Irene Sieg](https://x.com/SiegSieg50040) | **Source:** [Link](https://x.com/SiegSieg50040/status/2066380661015953874) | **Published:** Jun 15, 2026
+
+---
+### Sinh vật đại dương huyền bí đón nhận sự viếng thăm từ thiên đàng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video điện ảnh mô tả một sinh vật dưới nước huyền bí đang cảm nhận sự hiện diện thiêng liêng từ phía trên, tạo nên một bầu không khí thanh bình và thoát tục.
+
+#### 📝 Prompt
+
+```
+sinh vật huyền bí của đại dương này cảm nhận được một sự viếng thăm đang đến từ đâu đó phía trên trong cõi thiên đàng
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2667d4bfe99f3ec0f044de12c8938cb0/thumbnails/thumbnail.jpg" width="600" alt="Sinh vật đại dương huyền bí đón nhận sự viếng thăm từ thiên đàng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6100)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2066366065647440340) | **Published:** Jun 15, 2026
+
+---
 ### Chuyển động sương mù đêm đầy sao
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +347,63 @@ Sương mù và gió nên gợn sóng và đêm đầy sao nhấp nháy … Thê
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6060)**
 
 **Author:** [Janice 🟧](https://x.com/titlejt) | **Source:** [Link](https://x.com/titlejt/status/2066358379300442612) | **Published:** Jun 15, 2026
+
+---
+### Studio Cabin ngoài trời bên bờ sông
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt buổi sáng yên bình về một cabin studio tràn ngập ánh nắng bên bờ sông với hiệu ứng gió nhẹ.
+
+#### 📝 Prompt
+
+```
+Một studio ngoài trời sáng sủa, kết hợp không gian trong nhà và ngoài trời, tọa lạc tại cabin cho thuê yên bình bên bờ sông vào buổi sáng. Không gian tràn ngập ánh nắng mở ra ban công gỗ nhìn thẳng xuống dòng sông lấp lánh dưới ánh nắng sớm, cùng với làn gió nhẹ (world building)
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/29aeb249a788b0c25b18d37d8745114d/thumbnails/thumbnail.jpg" width="600" alt="Studio Cabin ngoài trời bên bờ sông">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6099)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2066353976765731158) | **Published:** Jun 15, 2026
+
+---
+### Hiệu ứng hoạt ảnh khuôn mặt dưới nước óng ánh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh chuyển động (motion prompt) để tạo hoạt ảnh khuôn mặt người phụ nữ chuyển động trong làn nước rực rỡ với các gợn sóng cầu vồng ảo giác và các vòng xoáy dầu.
+
+#### 📝 Prompt
+
+```
+Tác phẩm nghệ thuật kỹ thuật số siêu thực trở nên sống động khi khuôn mặt của người phụ nữ trẻ nhẹ nhàng chuyển động trong làn nước óng ánh rực rỡ, với những gợn sóng cầu vồng ảo giác và các vòng xoáy màu dầu chảy và lung linh một cách sống động trên làn da dưới nước và bề mặt nước
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06526b33fbdad194fa9bc2bdffa3aa35/thumbnails/thumbnail.jpg" width="600" alt="Hiệu ứng hoạt ảnh khuôn mặt dưới nước óng ánh">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6098)**
+
+**Author:** [quantum void](https://x.com/Happygator) | **Source:** [Link](https://x.com/Happygator/status/2066319820736373187) | **Published:** Jun 15, 2026
+
+---
+### Nghiêng đầu chậm và thu phóng camera
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video tập trung vào chuyển động, mô tả dòng chảy tự nhiên khi chủ thể nghiêng đầu ra sau trong khi camera thu phóng vào.
+
+#### 📝 Prompt
+
+```
+Các cảnh quay diễn ra tự nhiên khi chủ thể từ từ nghiêng đầu ra sau. Camera thu phóng chậm vào. Chuyển động này làm che khuất camera trong giây lát.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f83d942670740ef094468a71a843b9b4/thumbnails/thumbnail.jpg" width="600" alt="Nghiêng đầu chậm và thu phóng camera">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6093)**
+
+**Author:** [Fi OC](https://x.com/fioc2024) | **Source:** [Link](https://x.com/fioc2024/status/2066315176836550864) | **Published:** Jun 15, 2026
 
 ---
 ### Các nhân vật AI trên những tên lửa bay
@@ -873,7 +1071,7 @@ Giữ nguyên hình ảnh người phụ nữ giống hệt trong ảnh tham chi
 Phong cách anime siêu chi tiết, góc nhìn điện ảnh, ánh sáng kịch tính và gai góc, độ tương phản mạnh với màu sắc bão hòa. Góc quay thấp nghiêng theo phong cách đường phố tại một bãi đỗ xe, nhìn từ phía sau lên một cô gái anime đang cầm mũ bảo hiểm mô tô màu tím trên tay và đang bước đi. Cô ấy mặc quần đua bó sát màu trắng, áo thun in hình ôm sát có chữ "AgenC" và đi ủng màu vàng, với phần đế của một chiếc ủng chiếm ưu thế ở tiền cảnh một cách sắc nét. Góc nhìn nhấn mạnh tính thẩm mỹ đô thị, gai góc với kỹ thuật phối cảnh rút ngắn táo bạo. Phía trước cô ấy là một chiếc xe mô tô đường phố màu tím.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dabbf9ca7a824642ec80bc1e4fbc2a30/thumbnails/thumbnail.jpg" width="600" alt="Cô gái Anime với phong cách đường phố cùng xe mô tô">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/26385c2a1b638af520285168ffc2bf94/thumbnails/thumbnail.jpg" width="600" alt="Cô gái Anime với phong cách đường phố cùng xe mô tô">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5962)**
 
@@ -2042,232 +2240,6 @@ Người phụ nữ trẻ nhẹ nhàng đưa chiếc ly chân cao đựng ly coc
 **Author:** [Celia](https://x.com/ritpol) | **Source:** [Link](https://x.com/ritpol/status/2061950977654353999) | **Published:** Jun 2, 2026
 
 ---
-### Cấu trúc vũ trụ cổ đại trôi dạt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video điện ảnh về một cấu trúc cổ đại, khổng lồ đang trôi dạt trong không gian sâu thẳm, tượng trưng cho một nền văn minh tiên tiến đã mất.
-
-#### 📝 Prompt
-
-```
-Ở rìa của không gian được biết đến, một cấu trúc không tưởng trôi dạt qua cõi vĩnh hằng, mang theo những âm vang của một nền văn minh từng làm chủ các vì sao.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/57544f1ac859e65660cae321c7359491/thumbnails/thumbnail.jpg" width="600" alt="Cấu trúc vũ trụ cổ đại trôi dạt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5710)**
-
-**Author:** [@ed](https://x.com/edneme) | **Source:** [Link](https://x.com/edneme/status/2061916767010570556) | **Published:** Jun 2, 2026
-
----
-### Video điện ảnh về chiến binh thần thoại Bắc Âu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) điện ảnh chi tiết để chuyển đổi video người dùng thành một chiến binh giống như thần thoại Bắc Âu với mái tóc tết và các ký tự rune phát sáng màu xanh lam.
-
-#### 📝 Prompt
-
-```
-Video điện ảnh về tôi trong hình tượng một chiến binh mạnh mẽ như thần thoại Bắc Âu. 
-
-Capa 1 - Cảnh quay: Cận cảnh gương mặt tôi một cách sắc nét, mái tóc dài sẫm màu ướt át với những bím tóc đung đưa trong gió, bộ râu tết dày, những vết sẹo cổ xưa, các ký tự rune phát sáng màu xanh lam rực rỡ trên trán và gò má...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b8f0020bfb474930037d2e2f03061f07/thumbnails/thumbnail.jpg" width="600" alt="Video điện ảnh về chiến binh thần thoại Bắc Âu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5634)**
-
-**Author:** [Juan Torrez](https://x.com/jcwarcry1) | **Source:** [Link](https://x.com/jcwarcry1/status/2061905403718287753) | **Published:** Jun 2, 2026
-
----
-### Giải cứu mèo con theo phong cách Rococo Superman
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video Grok Imagine mô tả cảnh Superman giải cứu một chú mèo con trên cây theo phong cách nghệ thuật Rococo với chuyển động đậm chất điện ảnh.
-
-#### 📝 Prompt
-
-```
-Phong cách Rococo
-Superman bay lên và giải cứu mèo con từ trên cây
-Áo choàng đung đưa nhẹ nhàng
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8c133f6276866a8349383ccea56ca500/thumbnails/thumbnail.jpg" width="600" alt="Giải cứu mèo con theo phong cách Rococo Superman">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5632)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2061842734345052612) | **Published:** Jun 2, 2026
-
----
-### Hình ảnh nhân vật thiền định thanh tao
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý video chậm rãi, mang tính tâm linh với hình ảnh nhân vật đang thiền định, bao quanh bởi ánh sáng vàng và làn sương mờ trong khung cảnh bình minh.
-
-#### 📝 Prompt
-
-```
-Camera lia chậm rãi, thanh tao xung quanh nhân vật đang thiền định khi ánh sáng vàng dịu nhẹ tỏa ra từ bên trong, làn sương xoáy nhẹ trong ánh bình minh, lá cây và mặt nước gợn sóng lăn tăn, truyền tải cảm giác bình yên sâu sắc từ nội tâm và sự thức tỉnh tâm linh...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5832055ee96287d66a6cec83f3df0290/thumbnails/thumbnail.jpg" width="600" alt="Hình ảnh nhân vật thiền định thanh tao">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5628)**
-
-**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2061834724633616486) | **Published:** Jun 2, 2026
-
----
-### Cảnh Batman phong cách Rococo tại Gotham
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video đầy ấn tượng cho Grok Imagine, kết hợp phong cách Rococo với hình ảnh Batman lướt qua những con phố mưa tại Gotham.
-
-#### 📝 Prompt
-
-```
-Phong cách Rococo
-Batman lướt qua những con phố mưa tại Gotham trên chiếc Batmobile với tà áo choàng tung bay
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fd7f0b747ecd236d782202ddd7ae97e1/thumbnails/thumbnail.jpg" width="600" alt="Cảnh Batman phong cách Rococo tại Gotham">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5630)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2061834695231541352) | **Published:** Jun 2, 2026
-
----
-### Trải nghiệm tàu lượn siêu tốc trong lâu đài Gothic
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt tường thuật chi tiết về trải nghiệm tàu lượn siêu tốc ở góc nhìn thứ nhất đi xuyên qua một phòng khiêu vũ phong cách Gothic với những chiếc ấm trà ma quái đang lơ lửng.
-
-#### 📝 Prompt
-
-```
-Trải nghiệm tàu lượn siêu tốc ở góc nhìn thứ nhất đi xuyên qua phòng khiêu vũ của một lâu đài Gothic…
-
-ánh sáng mờ dần…
-
-những chiếc ấm trà ma quái lơ lửng trong một tấm gương cổ…
-
-sau đó là cú lao xuống đầy kinh hoàng.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/500e3aa7ce556bd344162c3bfb6e4556/thumbnails/thumbnail.jpg" width="600" alt="Trải nghiệm tàu lượn siêu tốc trong lâu đài Gothic">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5631)**
-
-**Author:** [sugarcane](https://x.com/sugarcanebkk) | **Source:** [Link](https://x.com/sugarcanebkk/status/2061828331490914573) | **Published:** Jun 2, 2026
-
----
-### Nhà thờ Neon tương lai với những ánh sáng lơ lửng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video đậm chất điện ảnh về nội thất nhà thờ tương lai được xây dựng từ kiến trúc neon, tràn ngập kính ba chiều và những ánh sáng lơ lửng.
-
-#### 📝 Prompt
-
-```
-Bên trong một nhà thờ tương lai khổng lồ được tạo nên hoàn toàn từ kiến trúc neon rực rỡ, kính màu ba chiều và hàng ngàn ánh sáng lơ lửng.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2e2c2e746050e77857343de5bc9410f1/thumbnails/thumbnail.jpg" width="600" alt="Nhà thờ Neon tương lai với những ánh sáng lơ lửng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5644)**
-
-**Author:** [Maer](https://x.com/Maer4real) | **Source:** [Link](https://x.com/Maer4real/status/2061806673618973015) | **Published:** Jun 2, 2026
-
----
-### Áp phích phác thảo đô thị Công viên Trung tâm
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh chi tiết cho áp phích du lịch phác thảo đô thị về Công viên Trung tâm ở New York, với kết cấu màu nước và phối cảnh vẽ tay.
-
-#### 📝 Prompt
-
-```
-Công viên Trung tâm New York, tháng 8, buổi chiều.
-
-Một tấm áp phích nhật ký du lịch phác thảo đô thị cao cấp ghi lại một buổi chiều mùa hè chân thực tại Công viên Trung tâm, New York.
-
-Thể hiện những bãi cỏ xanh trải dài, những hàng cây du và sồi cổ thụ, người đi bộ thong dong, người đạp xe, người chạy bộ, các buổi dã ngoại trên cỏ và đường chân trời Manhattan hiện ra nhẹ nhàng phía sau những tán cây.
-
-Minh họa phác thảo đô thị tinh tế,
-bản vẽ bút mực biểu cảm,
-những đường mực đen mảnh, đường viền đứt đoạn, phối cảnh vẽ tay hơi không hoàn hảo, thẩm mỹ sổ phác thảo chân thực. Lớp màu nước trong suốt, sự khuếch tán sắc tố mềm mại, kết cấu giấy tinh tế, bảng màu hạn chế, giữ lại các điểm nhấn màu trắng.
-
-Khoảng trắng lớn, bố cục áp phích du lịch thoáng đãng, tiền cảnh là cuộc sống công viên, trung cảnh là người đi bộ và người đạp xe, hậu cảnh là đường chân trời Manhattan mờ dần trong làn sương màu nước.
-
-Cảm xúc:
-ấm áp, thơ mộng, yên bình, quan sát, cuộc sống thành phố mùa hè vượt thời gian.
-
-Ánh nắng tháng 8 dịu nhẹ, bóng cây đổ dài trên bãi cỏ, những điểm nhấn phản chiếu ấm áp, chiều sâu khí quyển tinh tế.
-
-Kiểu chữ:
-"NEW YORK"
-"An August Afternoon"
-
-Minh họa nhật ký du lịch sang trọng,
-thẩm mỹ sổ phác thảo đô thị cao cấp, phác thảo kiến trúc và phong cảnh vẽ tay chân thực.
-```
-
-<img src="https://cms-assets.youmind.com/media/1780994433496_ycrf87_HJzTnT_aMAAJMFG.jpg" width="600" alt="Áp phích phác thảo đô thị Công viên Trung tâm">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5637)**
-
-**Author:** [Sarah](https://x.com/AIwithSarah_) | **Source:** [Link](https://x.com/AIwithSarah_/status/2061755438295875742) | **Published:** Jun 2, 2026
-
----
-### Nàng tiên cá vực thẳm thiên giới và Người bảo hộ bạch tuộc
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video điện ảnh về nữ hoàng tiên cá di chuyển qua những tầng sâu cùng người bảo hộ là chú bạch tuộc ba tim mang hơi thở thiên giới, tượng trưng cho sự bí ẩn và trí tuệ.
-
-#### 📝 Prompt
-
-```
-Điện thờ Thiên giới
-Nữ hoàng tiên cá vực thẳm & Người bảo hộ bạch tuộc thiên giới
-
-Nàng di chuyển qua những tầng sâu, sự bí ẩn và trí tuệ vô hình cùng Người bảo hộ ba tim của mình, hé lộ rằng trí tuệ bắt đầu khi chúng ta có thể đứng một mình giữa những điều chưa biết mà vẫn giữ trọn vẹn bản thân.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e32d9a4162dd0a9a6f7ea9a0f999feec/thumbnails/thumbnail.jpg" width="600" alt="Nàng tiên cá vực thẳm thiên giới và Người bảo hộ bạch tuộc">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5733)**
-
-**Author:** [Tugba](https://x.com/TGBA2023) | **Source:** [Link](https://x.com/TGBA2023/status/2061745886078591381) | **Published:** Jun 2, 2026
-
----
-### Biến hình khuôn mặt pha lê theo phong cách siêu thực
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt siêu thực lấy cảm hứng từ Salvador Dalí, biến đổi khuôn mặt thành các mặt pha lê tan chảy và biến dạng.
-
-#### 📝 Prompt
-
-```
-Hãy biến khuôn mặt người phụ nữ pha lê này thành một kiệt tác siêu thực lấy cảm hứng từ Salvador Dalí: những biến dạng như trong mơ, các mặt pha lê tan chảy và biến đổi bất chấp quy luật vật lý, những mảnh pha lê và lăng kính lơ lửng xung quanh khuôn mặt, những hình khối bất khả thi...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6d780ab18812f54bd9838addc00af86f/thumbnails/thumbnail.jpg" width="600" alt="Biến hình khuôn mặt pha lê theo phong cách siêu thực">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5638)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2061688291489919386) | **Published:** Jun 2, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2329,6 +2301,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-16T05:22:38.546Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-16T13:16:11.814Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1829** |
+| 📝 Total Prompts | **1839** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-16** |
 
@@ -189,6 +189,147 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### आर्ट गैलरी क्यूरेटर की क्रिया और संवाद
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक परिष्कृत वीडियो प्रॉम्प्ट जो चश्मा ठीक करने और इशारा करने जैसी पात्र की क्रियाओं को निर्दिष्ट करता है, जो एक सिनेमाई दृश्य के लिए बोले गए संवाद के साथ पूर्ण है।
+
+#### 📝 Prompt
+
+```
+क्रिया: वह अपना चश्मा ठीक करता है, दर्शक पर ध्यान केंद्रित करने के लिए अपना टैबलेट नीचे करता है, और गैलरी की ओर आमंत्रित करने वाले इशारे करता है।
+
+संवाद: "सौंदर्य का विश्लेषण करना एक कला है, लेकिन इसे बनाना हमारा जुनून है। स्पष्ट से परे देखें। यह DHC है।"
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2066664682161655808/img/K5Wmw35cSxStWmyK.jpg" width="600" alt="आर्ट गैलरी क्यूरेटर की क्रिया और संवाद">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6101)**
+
+**Author:** [HughStiel/DogeHeadCoin $DHC](https://x.com/hugh_stiel) | **Source:** [Link](https://x.com/hugh_stiel/status/2066664734288490587) | **Published:** Jun 15, 2026
+
+---
+### बादलों के ऊपर नियॉन रेलवे यात्री
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> गोधूलि बेला में चमकते बादलों के समुद्र के पार फैली नियॉन-लाइट वाली रेलवे पर चलते एक यात्री का विज़ुअल वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+एक अकेला यात्री नियॉन-लाइट वाली रेलवे ट्रैक पर चल रहा है, जो गोधूलि बेला में चमकते बादलों के अंतहीन समुद्र के पार फैली हुई है। यात्रा ही अपने आप में मंज़िल है।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4c1b5eade1100fe70306ad521da520d5/thumbnails/thumbnail.jpg" width="600" alt="बादलों के ऊपर नियॉन रेलवे यात्री">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6095)**
+
+**Author:** [Missy AI](https://x.com/ai_empire33) | **Source:** [Link](https://x.com/ai_empire33/status/2066576832741482906) | **Published:** Jun 15, 2026
+
+---
+### डायनामिक मार्शल आर्ट्स फाइट सीक्वेंस
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> सिनेमैटिक कैमरा वर्क और फ्लुइड मोशन के साथ हाई-एनर्जी, एक्रोबैटिक मार्शल आर्ट्स सीक्वेंस जेनरेट करने के लिए एक व्यापक प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+* कोई कट सीन नहीं। कोई ट्रांजिशन नहीं।
+
+डायनामिक, हाई-एनर्जी एक्रोबैटिक फाइट सीक्वेंस। बेहतरीन मोशन क्लैरिटी के साथ फ्लुइड, पावरफुल और सिनेमैटिक मूवमेंट। कैरेक्टर स्पिनिंग किक, फ्लाइंग नीज़, एरियल फ्लिप, वॉल रन, जंप, रोल और ब्रूटल टेकडाउन सहित तेज़-तर्रार मार्शल आर्ट्स कॉम्बो परफॉर्म करता है। हर स्ट्राइक के पीछे मज़बूत मोमेंटम और वज़न के साथ स्मूथ, एथलेटिक और रियलिस्टिक फिजिक्स। डायनामिक कैमरा वर्क — ट्रैकिंग शॉट्स, सर्कलिंग कैमरा, ड्रामेटिक एंगल्स, इम्पैक्ट पर कभी-कभार स्लो-मोशन। हाई इंटेंसिटी, ग्रेसफुल लेकिन पावरफुल कोरियोग्राफी, बेहतरीन फ्लुइडिटी और स्पीड। सिनेमैटिक लाइटिंग, शार्प मोशन डिटेल्स, कोई स्टिफनेस नहीं, अत्यधिक डायनामिक और रोमांचक फाइट सीन, मास्टरपीस क्वालिटी, 6-सेकंड का वीडियो...., अत्यधिक डायनामिक और रोमांचक फाइट सीन, स्मूथ फ्लुइड मोशन, मास्टरपीस क्वालिटी, 6-सेकंड का वीडियो।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/29c7a52c5bc841b0dc15d88cd38ebe8f/thumbnails/thumbnail.jpg" width="600" alt="डायनामिक मार्शल आर्ट्स फाइट सीक्वेंस">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6097)**
+
+**Author:** [Lala](https://x.com/keepgoingAnnie) | **Source:** [Link](https://x.com/keepgoingAnnie/status/2066551416986968369) | **Published:** Jun 15, 2026
+
+---
+### Ghost River सिनेमैटिक पुश-इन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक घोस्ट रिवर और मिल वाले सिनेमैटिक दृश्य के लिए कैमरा मूवमेंट और स्टेजिंग को निर्दिष्ट करने वाला एक तकनीकी वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+VIDEO 4
+
+SCENE LOCK: मिल की ओर एक अत्यंत सूक्ष्म सिनेमैटिक पुश-इन के साथ स्थिर हीरो कंपोजिशन, जो परिप्रेक्ष्य (perspective) और ज्यामिति (geometry) को बनाए रखता है।
+
+STAGE: घोस्ट रिवर की पूर्ण अभिव्यक्ति, जिसके बाद यादों का धीरे-धीरे अंधेरे में विलीन होना।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2066390926893924352/img/FQdNby4qREvxk-5J.jpg" width="600" alt="Ghost River सिनेमैटिक पुश-इन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6096)**
+
+**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2066391012470309276) | **Published:** Jun 15, 2026
+
+---
+### सुनहरा समुद्री जीव और एंजेल फिन उपहार
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वर्णनात्मक वीडियो प्रॉम्प्ट जहाँ एक अलौकिक सुनहरा समुद्री जीव एक देवदूत (एंजेल) को चमकता हुआ पूंछ का पंख भेंट करता है।
+
+#### 📝 Prompt
+
+```
+सुनहरा समुद्री जीव धीरे से देवदूत की ओर एक सुंदर, अलौकिक, चमकता हुआ पूंछ का पंख बढ़ा रहा है।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/981a4c3276f1b8222331bf2568e55f04/thumbnails/thumbnail.jpg" width="600" alt="सुनहरा समुद्री जीव और एंजेल फिन उपहार">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6094)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2066389144213876780) | **Published:** Jun 15, 2026
+
+---
+### Overwatch Mercy Valkyrie Heart वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Overwatch की Mercy के लिए उनके Valkyrie सूट में एक वीडियो जनरेशन प्रॉम्प्ट, जिसमें वे दर्शक को एक चमकता हुआ दिल का प्रतीक भेंट कर रही हैं।
+
+#### 📝 Prompt
+
+```
+Overwatch की Mercy अपने क्लासिक सफेद और सुनहरे Valkyrie सूट में, अपना हाथ दर्शक/स्क्रीन की ओर बढ़ाते हुए, जैसे कि वे एक प्रमुख लाल और सफेद दिल का प्रतीक (उनकी हथेली में हीलिंग एम्बलम की तरह चमकता या तैरता हुआ) भेंट कर रही हों, 🕊️🤍
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9fdd94ee1247c0dfa9ee9e8700c40294/thumbnails/thumbnail.jpg" width="600" alt="Overwatch Mercy Valkyrie Heart वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6092)**
+
+**Author:** [Irene Sieg](https://x.com/SiegSieg50040) | **Source:** [Link](https://x.com/SiegSieg50040/status/2066380661015953874) | **Published:** Jun 15, 2026
+
+---
+### रहस्यमयी समुद्री जीव का दिव्य दर्शन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सिनेमैटिक वीडियो प्रॉम्प्ट जो एक रहस्यमयी पानी के नीचे रहने वाले जीव को दर्शाता है, जो ऊपर से एक दिव्य उपस्थिति को महसूस कर रहा है, जिससे एक शांत और अलौकिक वातावरण बनता है।
+
+#### 📝 Prompt
+
+```
+समुद्र का यह रहस्यमयी जीव ऊपर स्वर्गीय लोकों से किसी के आने की आहट महसूस कर रहा है
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2667d4bfe99f3ec0f044de12c8938cb0/thumbnails/thumbnail.jpg" width="600" alt="रहस्यमयी समुद्री जीव का दिव्य दर्शन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6100)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2066366065647440340) | **Published:** Jun 15, 2026
+
+---
 ### तारों भरी रात और धुंध की हलचल
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +347,63 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6060)**
 
 **Author:** [Janice 🟧](https://x.com/titlejt) | **Source:** [Link](https://x.com/titlejt/status/2066358379300442612) | **Published:** Jun 15, 2026
+
+---
+### ओपन-एयर रिवर केबिन स्टूडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> नदी के किनारे स्थित एक धूप से सराबोर स्टूडियो केबिन का शांत सुबह का वीडियो प्रॉम्प्ट, जिसमें हल्की हवा का प्रभाव है।
+
+#### 📝 Prompt
+
+```
+एक उज्ज्वल, ओपन-एयर स्टूडियो जो आधा अंदर और आधा बाहर है, जिसे नदी के किनारे किराए के केबिन में शांत सुबह के समय सेट किया गया है। धूप से सराबोर यह जगह सीधे एक लकड़ी की बालकनी पर खुलती है, जहाँ से सुबह की शुरुआती रोशनी में चमकती हुई नदी दिखाई देती है, साथ ही हल्की हवा चल रही है (वर्ल्ड बिल्डिंग)
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/29aeb249a788b0c25b18d37d8745114d/thumbnails/thumbnail.jpg" width="600" alt="ओपन-एयर रिवर केबिन स्टूडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6099)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2066353976765731158) | **Published:** Jun 15, 2026
+
+---
+### इरिडेसेंट वॉटर फेस एनिमेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक महिला के चेहरे को जीवंत पानी में हिलते हुए, साइकेडेलिक इंद्रधनुषी लहरों और तेल के भंवरों के साथ एनिमेट करने के लिए एक मोशन प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+यह असली डिजिटल आर्टवर्क तब जीवंत हो उठता है जब युवती का चेहरा जीवंत इरिडेसेंट पानी में धीरे-धीरे हिलता है, जिसमें साइकेडेलिक इंद्रधनुषी लहरें और तैलीय रंगों के भंवर उसकी डूबी हुई त्वचा और पानी की सतह पर गतिशील रूप से बहते और चमकते हैं।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06526b33fbdad194fa9bc2bdffa3aa35/thumbnails/thumbnail.jpg" width="600" alt="इरिडेसेंट वॉटर फेस एनिमेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6098)**
+
+**Author:** [quantum void](https://x.com/Happygator) | **Source:** [Link](https://x.com/Happygator/status/2066319820736373187) | **Published:** Jun 15, 2026
+
+---
+### धीमा सिर झुकाना और कैमरा ज़ूम
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक मोशन-विशिष्ट वीडियो प्रॉम्प्ट जो एक प्राकृतिक प्रवाह का वर्णन करता है जहाँ विषय अपना सिर पीछे की ओर झुकाता है और कैमरा ज़ूम इन करता है।
+
+#### 📝 Prompt
+
+```
+दृश्य स्वाभाविक रूप से प्रवाहित होता है जहाँ विषय धीरे-धीरे अपना सिर पीछे की ओर झुकाता है। शॉट धीरे-धीरे ज़ूम इन होता है। यह प्रवाह संक्षेप में कैमरे को ओझल कर देता है।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f83d942670740ef094468a71a843b9b4/thumbnails/thumbnail.jpg" width="600" alt="धीमा सिर झुकाना और कैमरा ज़ूम">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6093)**
+
+**Author:** [Fi OC](https://x.com/fioc2024) | **Source:** [Link](https://x.com/fioc2024/status/2066315176836550864) | **Published:** Jun 15, 2026
 
 ---
 ### उड़ते रॉकेट पर AI कैरेक्टर्स
@@ -873,7 +1071,7 @@ Jilla कहती है: "हर कदम।"
 अति-विस्तृत एनिमे शैली, सिनेमैटिक परिप्रेक्ष्य, ग्रिटी और नाटकीय लाइटिंग, सैचुरेटेड रंगों के साथ बोल्ड कंट्रास्ट। एक पार्किंग लॉट का लो-एंगल टिल्टेड सिनेमैटिक स्ट्रीट-स्टाइल शॉट, जिसमें एक एनिमे लड़की को पीछे से चलते हुए दिखाया गया है, जिसने एक हाथ में बैंगनी रंग का मोटरसाइकिल हेलमेट पकड़ा है। उसने टाइट सफेद रेसिंग पैंट, "AgenC" लिखा हुआ फॉर्म-फिटिंग ग्राफिक टी-शर्ट और पीले जूते पहने हैं, जिसमें एक जूते का सोल अग्रभूमि (foreground) में स्पष्ट विवरण के साथ दिखाई दे रहा है। यह परिप्रेक्ष्य बोल्ड फोर्सॉर्टेनिंग के साथ ग्रिटी, अर्बन सौंदर्य को उजागर करता है। उसके सामने, एक बैंगनी रंग की स्ट्रीटबाइक है।
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dabbf9ca7a824642ec80bc1e4fbc2a30/thumbnails/thumbnail.jpg" width="600" alt="मोटरसाइकिल स्ट्रीट स्टाइल के साथ एनिमे गर्ल">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/26385c2a1b638af520285168ffc2bf94/thumbnails/thumbnail.jpg" width="600" alt="मोटरसाइकिल स्ट्रीट स्टाइल के साथ एनिमे गर्ल">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5962)**
 
@@ -2042,232 +2240,6 @@ Space Scouts पगडंडी पर हैं और नीचे सी ल�
 **Author:** [Celia](https://x.com/ritpol) | **Source:** [Link](https://x.com/ritpol/status/2061950977654353999) | **Published:** Jun 2, 2026
 
 ---
-### प्राचीन ब्रह्मांडीय संरचना का विचलन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> गहरे अंतरिक्ष में तैरती एक प्राचीन, विशाल संरचना का सिनेमैटिक वीडियो प्रॉम्प्ट, जो एक खोई हुई उन्नत सभ्यता का प्रतीक है।
-
-#### 📝 Prompt
-
-```
-ज्ञात अंतरिक्ष के छोर पर, एक असंभव संरचना अनंत काल तक बहती रहती है, जो उन सितारों में महारत हासिल करने वाली सभ्यता की गूँज को अपने साथ लिए हुए है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/57544f1ac859e65660cae321c7359491/thumbnails/thumbnail.jpg" width="600" alt="प्राचीन ब्रह्मांडीय संरचना का विचलन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5710)**
-
-**Author:** [@ed](https://x.com/edneme) | **Source:** [Link](https://x.com/edneme/status/2061916767010570556) | **Published:** Jun 2, 2026
-
----
-### Norse God Warrior सिनेमैटिक वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> उपयोगकर्ता को ब्रेडेड बालों और चमकते नीले रून (runes) वाले Norse गॉड जैसे योद्धा में बदलने के लिए एक विस्तृत सिनेमैटिक वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-एक शक्तिशाली Norse गॉड जैसे योद्धा के रूप में मेरा सिनेमैटिक वीडियो। 
-
-Capa 1 - दृश्य: मेरे चेहरे का क्लोज-अप, हवा में लहराते लंबे काले गीले बाल और चोटियाँ, घनी ब्रेडेड दाढ़ी, पुराने निशान, माथे और गालों पर चमकते हुए गहरे नीले रून (runes)...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b8f0020bfb474930037d2e2f03061f07/thumbnails/thumbnail.jpg" width="600" alt="Norse God Warrior सिनेमैटिक वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5634)**
-
-**Author:** [Juan Torrez](https://x.com/jcwarcry1) | **Source:** [Link](https://x.com/jcwarcry1/status/2061905403718287753) | **Published:** Jun 2, 2026
-
----
-### Rococo Superman Kitten Rescue
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक Grok Imagine वीडियो प्रॉम्प्ट, जिसमें Superman को Rococo कला शैली में एक पेड़ से बिल्ली के बच्चे को बचाते हुए और सिनेमैटिक मोशन में दिखाया गया है।
-
-#### 📝 Prompt
-
-```
-Rococo शैली
-Superman ऊपर तैरते हुए पेड़ से बिल्ली के बच्चे को बचाता है
-केप धीरे-धीरे लहरा रहा है
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8c133f6276866a8349383ccea56ca500/thumbnails/thumbnail.jpg" width="600" alt="Rococo Superman Kitten Rescue">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5632)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2061842734345052612) | **Published:** Jun 2, 2026
-
----
-### ध्यानमग्न आकृति का ईथरियल पैन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> भोर के समय सुनहरी रोशनी और धुंध से घिरी एक ध्यानमग्न आकृति को दर्शाने वाला एक धीमा, आध्यात्मिक वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-ध्यानमग्न आकृति के चारों ओर धीमा, ईथरियल कैमरा पैन, जिसमें भीतर से हल्की सुनहरी रोशनी धीरे-धीरे स्पंदित हो रही है, भोर की रोशनी में धुंध सूक्ष्म रूप से घूम रही है, पत्तियां और पानी की सतह पर हल्की लहरें दिखाई दे रही हैं, जो गहरी आंतरिक शांति और आध्यात्मिक अनुभव का अहसास कराती हैं...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5832055ee96287d66a6cec83f3df0290/thumbnails/thumbnail.jpg" width="600" alt="ध्यानमग्न आकृति का ईथरियल पैन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5628)**
-
-**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2061834724633616486) | **Published:** Jun 2, 2026
-
----
-### रोकोको गोथम बैटमैन दृश्य
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक आकर्षक वीडियो प्रॉम्प्ट, जो रोकोको शैली को गोथम की बारिश वाली सड़कों पर बैटमैन के ज़िपिंग दृश्य के साथ जोड़ता है।
-
-#### 📝 Prompt
-
-```
-रोकोको शैली
-बैटमैन का अपनी बैटमोबाइल में गोथम की बारिश वाली रातों की सड़कों पर तेज़ी से गुज़रना और उसका केप लहराना
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fd7f0b747ecd236d782202ddd7ae97e1/thumbnails/thumbnail.jpg" width="600" alt="रोकोको गोथम बैटमैन दृश्य">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5630)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2061834695231541352) | **Published:** Jun 2, 2026
-
----
-### गोथिक कैसल रोलरकोस्टर राइड
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक विस्तृत नैरेटिव वीडियो प्रॉम्प्ट, जिसमें गोथिक बॉलरूम के भीतर से गुजरता एक फर्स्ट-पर्सन रोलरकोस्टर और हवा में तैरते भूतिया टीपॉट शामिल हैं।
-
-#### 📝 Prompt
-
-```
-गोथिक कैसल बॉलरूम के भीतर से गुजरता एक फर्स्ट-पर्सन रोलरकोस्टर…
-
-रोशनी धुंधली होती है…
-
-एक पुराने आईने में तैरते हुए भूतिया टीपॉट…
-
-और फिर चीखते हुए नीचे गिरना।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/500e3aa7ce556bd344162c3bfb6e4556/thumbnails/thumbnail.jpg" width="600" alt="गोथिक कैसल रोलरकोस्टर राइड">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5631)**
-
-**Author:** [sugarcane](https://x.com/sugarcanebkk) | **Source:** [Link](https://x.com/sugarcanebkk/status/2061828331490914573) | **Published:** Jun 2, 2026
-
----
-### फ्लोटिंग लाइट्स के साथ भविष्यवादी नियॉन कैथेड्रल
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> नियॉन आर्किटेक्चर से बने और होलोग्राफिक ग्लास तथा फ्लोटिंग लाइट्स से भरे एक भविष्यवादी कैथेड्रल इंटीरियर के लिए एक सिनेमैटिक वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-पूरी तरह से चमकते नियॉन आर्किटेक्चर, होलोग्राफिक स्टेन्ड ग्लास और हजारों फ्लोटिंग लाइट्स से बने एक विशाल भविष्यवादी कैथेड्रल के अंदर का दृश्य।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2e2c2e746050e77857343de5bc9410f1/thumbnails/thumbnail.jpg" width="600" alt="फ्लोटिंग लाइट्स के साथ भविष्यवादी नियॉन कैथेड्रल">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5644)**
-
-**Author:** [Maer](https://x.com/Maer4real) | **Source:** [Link](https://x.com/Maer4real/status/2061806673618973015) | **Published:** Jun 2, 2026
-
----
-### सेंट्रल पार्क अर्बन स्केच पोस्टर
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> न्यूयॉर्क के सेंट्रल पार्क के अर्बन स्केच ट्रैवल पोस्टर के लिए एक अत्यधिक विस्तृत प्रॉम्प्ट, जिसमें वॉटरकलर टेक्सचर और हाथ से बनाया गया परिप्रेक्ष्य शामिल है।
-
-#### 📝 Prompt
-
-```
-न्यूयॉर्क सेंट्रल पार्क, अगस्त, दोपहर।
-
-एक प्रीमियम अर्बन स्केच ट्रैवल जर्नल पोस्टर जो न्यूयॉर्क के सेंट्रल पार्क में एक प्रामाणिक गर्मी की दोपहर को दर्शाता है।
-
-विस्तृत हरे-भरे घास के मैदान, पुराने एल्म और ओक के पेड़, फुर्सत में घूमते पैदल यात्री, साइकिल चालक, जॉगर्स, घास पर पिकनिक, और पेड़ों के ऊपर से धीरे-धीरे उभरती मैनहट्टन की स्काईलाइन दिखाएं।
-
-परिष्कृत अर्बन स्केच चित्रण,
-अभिव्यंजक पेन-एंड-इंक ड्राइंग,
-पतली काली स्याही की रेखाएं, टूटी हुई कंटूर रेखाएं, थोड़ा अपूर्ण हाथ से बनाया गया परिप्रेक्ष्य, प्रामाणिक स्केचबुक सौंदर्य। पारदर्शी वॉटरकलर लेयरिंग, नरम पिगमेंट डिफ्यूजन, सूक्ष्म पेपर टेक्सचर, सीमित रंग पैलेट, संरक्षित सफेद हाइलाइट्स।
-
-बड़ी नेगेटिव स्पेस, हवादार ट्रैवल-पोस्टर संरचना, अग्रभूमि में पार्क का जीवन, मध्य-भूमि में पैदल चलने वाले और साइकिल चालक, पृष्ठभूमि में वॉटरकलर धुंध में विलीन होती मैनहट्टन स्काईलाइन।
-
-मूड:
-गर्म, काव्यात्मक, शांतिपूर्ण, अवलोकन संबंधी, सदाबहार गर्मियों का शहरी जीवन।
-
-अगस्त की हल्की धूप, घास पर पेड़ों की कोमल छाया, गर्म परावर्तित हाइलाइट्स, नाजुक वायुमंडलीय गहराई।
-
-टाइपोग्राफी:
-"NEW YORK"
-"An August Afternoon"
-
-लक्जरी ट्रैवल जर्नल चित्रण,
-प्रीमियम अर्बन स्केचबुक सौंदर्य, प्रामाणिक हाथ से बनाई गई वास्तुकला और लैंडस्केप स्केच।
-```
-
-<img src="https://cms-assets.youmind.com/media/1780994433496_ycrf87_HJzTnT_aMAAJMFG.jpg" width="600" alt="सेंट्रल पार्क अर्बन स्केच पोस्टर">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5637)**
-
-**Author:** [Sarah](https://x.com/AIwithSarah_) | **Source:** [Link](https://x.com/AIwithSarah_/status/2061755438295875742) | **Published:** Jun 2, 2026
-
----
-### सेलेस्टियल एबिस मरमेड और ऑक्टोपस गार्जियन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमैटिक वीडियो प्रॉम्प्ट जिसमें एक मरमेड एम्प्रेस (जलपरी साम्राज्ञी) गहराई में एक दिव्य तीन-हृदय वाले ऑक्टोपस गार्जियन के साथ आगे बढ़ रही है, जो रहस्य और बुद्धिमत्ता का प्रतीक है।
-
-#### 📝 Prompt
-
-```
-सेलेस्टियल पैन्थियन
-एबिस मरमेड एम्प्रेस और सेलेस्टियल ऑक्टोपस गार्जियन
-
-वह अपने तीन-हृदय वाले गार्जियन के साथ गहराई, रहस्य और अनदेखी बुद्धिमत्ता के बीच आगे बढ़ती है, जो यह दर्शाती है कि ज्ञान तब शुरू होता है जब हम अज्ञात में अकेले खड़े होकर भी पूर्ण बने रहते हैं।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e32d9a4162dd0a9a6f7ea9a0f999feec/thumbnails/thumbnail.jpg" width="600" alt="सेलेस्टियल एबिस मरमेड और ऑक्टोपस गार्जियन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5733)**
-
-**Author:** [Tugba](https://x.com/TGBA2023) | **Source:** [Link](https://x.com/TGBA2023/status/2061745886078591381) | **Published:** Jun 2, 2026
-
----
-### अतियथार्थवादी क्रिस्टलाइज्ड फेस ट्रांसफॉर्मेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> साल्वाडोर डाली (Salvador Dalí) से प्रेरित एक अतियथार्थवादी वीडियो प्रॉम्प्ट, जो एक चेहरे को पिघलते और बदलते हुए क्रिस्टल पहलुओं में बदल देता है।
-
-#### 📝 Prompt
-
-```
-इस क्रिस्टलाइज्ड महिला के चेहरे को साल्वाडोर डाली (Salvador Dalí) से प्रेरित एक अत्यधिक अतियथार्थवादी मास्टरपीस में बदलें: स्वप्निल विकृतियाँ, भौतिकी को चुनौती देने वाले पिघलते और बदलते क्रिस्टल पहलू, चेहरे के चारों ओर तैरते क्रिस्टल के टुकड़े और प्रिज्म, असंभव ज्यामिति...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6d780ab18812f54bd9838addc00af86f/thumbnails/thumbnail.jpg" width="600" alt="अतियथार्थवादी क्रिस्टलाइज्ड फेस ट्रांसफॉर्मेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5638)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2061688291489919386) | **Published:** Jun 2, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2329,6 +2301,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-16T05:22:39.567Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-16T13:16:12.510Z</sub>
 
 </div>
