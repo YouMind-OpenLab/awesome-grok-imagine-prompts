@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1839** |
+| 📝 Total Prompts | **1850** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-17** |
 
@@ -189,6 +189,207 @@ Uma valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Movimento Suave e Onírico com Eco de Água
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt poético para gerar um vídeo com movimentos suaves e oníricos, acompanhados pelo som ambiente de água com eco.
+
+#### 📝 Prompt
+
+```
+ela se move com muita suavidade, como se estivesse sonhando. Há apenas o som da água ecoando.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fa1c1c30d142e110b9cdaf61e052f143/thumbnails/thumbnail.jpg" width="600" alt="Movimento Suave e Onírico com Eco de Água">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6139)**
+
+**Author:** [princesUnicorn](https://x.com/princesunico01) | **Source:** [Link](https://x.com/princesunico01/status/2066910279913660890) | **Published:** Jun 16, 2026
+
+---
+### Timelapse de Restauração de Mercado com Movimento de Grua
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de timelapse de restauração complexo para o Grok Imagine usando um movimento de câmera lento de subida de grua.
+
+#### 📝 Prompt
+
+```
+Timelapse de restauração, Segmento 3/4 — Mercado Gikomba, A CONSTRUÇÃO. \nComece a partir da Imagem 03.\n\nMesma posição elevada. SUBIDA DE GRUA lenta — subindo 2 metros ao longo de 10 segundos. Esta câmera ascendente reflete o mercado se reerguendo....
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a444f1754786449aadca30a558bccf74/thumbnails/thumbnail.jpg" width="600" alt="Timelapse de Restauração de Mercado com Movimento de Grua">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6134)**
+
+**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2066861153423388926) | **Published:** Jun 16, 2026
+
+---
+### Donzela Sonhadora com Rosas Cor-de-Rosa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt delicado para gerar um vídeo sonhador de uma donzela usando uma coroa de flores, cercada por rosas cor-de-rosa suaves.
+
+#### 📝 Prompt
+
+```
+Uma donzela sonhadora usando uma coroa de flores, suavemente cercada por rosas cor-de-rosa pastel em flor…
+Sussurros de pétalas delicadas e elegância suave.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/856583392d81b71407a21f13e6bdb351/thumbnails/thumbnail.jpg" width="600" alt="Donzela Sonhadora com Rosas Cor-de-Rosa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6140)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2066855955032334498) | **Published:** Jun 16, 2026
+
+---
+### Megacidade Lunar Verde e Robô Gigante
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo de ficção científica detalhado que transforma uma megacidade lunar em um centro de tecnologia verde com um enorme robô humanoide de 1 km de altura.
+
+#### 📝 Prompt
+
+```
+Transforme toda a megacidade lunar em formato de Tesla Cybertruck em um esquema de cores vibrante totalmente verde com vibrações futuristas avançadas: tons dominantes de verde esmeralda brilhante, ciano neon e detalhes em verde-limão em todas as estruturas, superfícies metálicas, luzes, escudos de energia e elementos holográficos para uma atmosfera eco-avançada de alta tecnologia. Aprimore os detalhes com tecnologia quântica ainda mais complexa, fluxos de energia verde pulsantes, fazendas verticais exuberantes e atividade dinâmica. 
+
+Ao lado da megacidade (no terreno arenoso lunar/tipo Marte), adicione um enorme robô humanoide de 1 km de altura e largura, na cor areia de Marte/laranja avermelhado totalmente realista, com texturas metálicas, posicionado de forma proeminente em um ângulo de visão épico em 3D. No peito e na cabeça do robô, exiba o texto brilhante em negrito 'QWEET Robot' em uma fonte futurista. Acima da cabeça do robô, mostre estrelas de galáxias giratórias, nebulosas e partículas cósmicas orbitando dinamicamente. Mantenha o fundo com a Terra no céu, iluminação dramática, astronautas, rovers e um estilo geral de ficção científica cinematográfica fotorrealista e ultradetalhado.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c74ff71c9a65b60a6b4228b544b14d9d/thumbnails/thumbnail.jpg" width="600" alt="Megacidade Lunar Verde e Robô Gigante">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6137)**
+
+**Author:** [Fan Dear Grok](https://x.com/IrfanKhan496226) | **Source:** [Link](https://x.com/IrfanKhan496226/status/2066824513342353566) | **Published:** Jun 16, 2026
+
+---
+### Animação de Perfil Etéreo com Efeito de Fumaça
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo complexo apresentando um rosto etéreo de fumaça exalando um touro e notas musicais em um fundo branco.
+
+#### 📝 Prompt
+
+```
+O perfil etéreo de fumaça à esquerda exala um touro perseguindo uma borboleta delicada feita de fumaça, seguido por notas musicais rodopiantes, tudo fluindo da boca como uma exalação contínua e derivando suavemente pelo fundo branco em direção a
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bded2b96c31a8159e969479170d825b0/thumbnails/thumbnail.jpg" width="600" alt="Animação de Perfil Etéreo com Efeito de Fumaça">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6130)**
+
+**Author:** [Matt Wilson](https://x.com/MattWilson8178) | **Source:** [Link](https://x.com/MattWilson8178/status/2066817439594144226) | **Published:** Jun 16, 2026
+
+---
+### Prompt de vídeo de mulher abrindo os olhos e sorrindo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico para o Grok Imagine, apresentando uma mulher acordando e falando com uma voz mística.
+
+#### 📝 Prompt
+
+```
+ela abre os olhos, sorri, diz com uma voz suave e mística: bom dia, "X". Que o seu encantamento guie o dia.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5145a22ccc03736d87aba7a70fb74197/thumbnails/thumbnail.jpg" width="600" alt="Prompt de vídeo de mulher abrindo os olhos e sorrindo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6132)**
+
+**Author:** [Matt Wilson](https://x.com/MattWilson8178) | **Source:** [Link](https://x.com/MattWilson8178/status/2066809062658859150) | **Published:** Jun 16, 2026
+
+---
+### Animação de LeBron James com mamadeira
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt humorístico e específico que retrata LeBron James em um cenário satírico, como um bebê.
+
+#### 📝 Prompt
+
+```
+Faça com que eles se revezem para dar a mamadeira para o LeBron James, o LeBron James, ele é um bebezinho sonolento e chorão
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ad92bc67b08bb7451f1db6421ad3049f/thumbnails/thumbnail.jpg" width="600" alt="Animação de LeBron James com mamadeira">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6131)**
+
+**Author:** [Donald J Trump](https://x.com/DonaldWalmart) | **Source:** [Link](https://x.com/DonaldWalmart/status/2066737332427079733) | **Published:** Jun 16, 2026
+
+---
+### Timelapse de construção com Scene Lock
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt técnico de timelapse usando scene lock para visualizar o passo a passo da construção de uma casa de barcos.
+
+#### 📝 Prompt
+
+```
+SCENE LOCK: Tripé estático, enquadramento e pontos de referência idênticos, sem cortes.
+
+ESTÁGIO: Timelapse da construção ativa até a casa de barcos concluída.
+
+DETALHES: Instalação do telhado, fixação do revestimento, reparo do cais, montagem de lanternas, pintura, vedação, limpeza. Trabalhadores...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/921c1794d9b56a29514fb08e563a8eed/thumbnails/thumbnail.jpg" width="600" alt="Timelapse de construção com Scene Lock">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6135)**
+
+**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2066722621954392356) | **Published:** Jun 16, 2026
+
+---
+### Tomada de Estádio com Drone Orbital
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt técnico de cinematografia com drone para exibir um estádio flutuante a partir de uma altitude e ângulo constantes.
+
+#### 📝 Prompt
+
+```
+TRAVAMENTO DE CENA: O drone mantém uma altitude constante de 400 metros e um ângulo de visão de 45 graus enquanto orbita o estádio, com movimento cinematográfico estável.
+
+ESTÁGIO: Exibição final do estádio flutuante como um marco da engenharia.
+
+DETALHES: Movimento orbital suave arou...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7769c11b3ddb743c2010890d56597cf2/thumbnails/thumbnail.jpg" width="600" alt="Tomada de Estádio com Drone Orbital">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6133)**
+
+**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2066716896763011156) | **Published:** Jun 16, 2026
+
+---
+### Texugo-do-mel Samurai vs Tartaruga Espartana
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico apresentando um texugo-do-mel samurai em uma pose de combate dinâmica, lutando contra uma tartaruga guerreira espartana em uma cena de batalha intensa.
+
+#### 📝 Prompt
+
+```
+Um feroz texugo-do-mel samurai em pose de combate dinâmica lutando contra uma tartaruga guerreira espartana, design de personagem original que não se assemelha às Tartarugas Ninja, cena de batalha intensa com armas colidindo
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/245adcf86e60ac8fc20991db437e35e3/thumbnails/thumbnail.jpg" width="600" alt="Texugo-do-mel Samurai vs Tartaruga Espartana">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6136)**
+
+**Author:** [Bitcoin Collector.](https://x.com/FrankieBitcoin) | **Source:** [Link](https://x.com/FrankieBitcoin/status/2066681728433807773) | **Published:** Jun 16, 2026
+
+---
 ### Ação e Diálogo de Curador de Galeria de Arte
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -248,6 +449,25 @@ Sequência de luta acrobática dinâmica e de alta energia. Movimento fluido, po
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6097)**
 
 **Author:** [Lala](https://x.com/keepgoingAnnie) | **Source:** [Link](https://x.com/keepgoingAnnie/status/2066551416986968369) | **Published:** Jun 15, 2026
+
+---
+### Prompt de vídeo: Bailarina entre rosas
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para gerar um vídeo gracioso de uma bailarina dançando entre rosas cor-de-rosa, caracterizado por uma elegância onírica e movimentos suaves.
+
+#### 📝 Prompt
+
+```
+Uma bailarina graciosa dançando suavemente entre rosas cor-de-rosa em flor… Sussurros delicados de pétalas e elegância onírica.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/045c6b911dc5f7bdff46fc6d9559c49f/thumbnails/thumbnail.jpg" width="600" alt="Prompt de vídeo: Bailarina entre rosas">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6138)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2066465717114093967) | **Published:** Jun 15, 2026
 
 ---
 ### Ghost River Cinematic Push-In
@@ -819,7 +1039,7 @@ Um plano cinematográfico amplo e majestoso no estilo épico do filme Excalibur 
 Uma nave de reconhecimento interestelar viaja pela galáxia em busca de planetas inexplorados e deslumbrantes para transformá-los nos resorts mais exclusivos e luxuosos que o universo já viu.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a75291ddc69daed9ec2ed6b894d4db8/thumbnails/thumbnail.jpg" width="600" alt="Exploração de Nave de Reconhecimento Interestelar">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/25a3518065fe0026b6d3a4e97cc63bd5/thumbnails/thumbnail.jpg" width="600" alt="Exploração de Nave de Reconhecimento Interestelar">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5994)**
 
@@ -2030,217 +2250,6 @@ Asas iridescentes cintilando em sonhos celestiais… Uma graciosa presença ange
 **Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2062504737086611629) | **Published:** Jun 4, 2026
 
 ---
-### Animação de Livro Ilustrado de Animais
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Um prompt de imagem para vídeo para animar uma ilustração plana de livro infantil, fazendo com que vários animais se movam simultaneamente com efeitos sonoros, mantendo uma câmera fixa e o estilo original.
-
-#### 📝 Prompt
-
-```
-Transforme esta imagem em um vídeo de 6 segundos. Mantenha a textura, as cores e a composição da ilustração plana original. As criaturas na cena não devem se mover em sequência, mas todas devem começar a se mover simultaneamente. O crocodilo abre a boca levemente e balança a cauda, o coelho mexe as orelhas e o nariz, o lagarto rosa balança a cauda e os pássaros saltitam juntos e abrem os bicos para piar. Crie uma atmosfera onde cada criatura faça seu próprio som característico. Flores e folhas também balançam suavemente. O movimento deve ser divertido, fofo, levemente surreal, não muito intenso e preservar o charme de um livro ilustrado. Mantenha a câmera completamente fixa.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6683cd2ff15f49ff8f56033a4a6cdfa0/thumbnails/thumbnail.jpg" width="600" alt="Animação de Livro Ilustrado de Animais">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5712)**
-
-**Author:** [サン｜Sun](https://x.com/sunsunshine0318) | **Source:** [Link](https://x.com/sunsunshine0318/status/2062490098244124757) | **Published:** Jun 4, 2026
-
----
-### Transformação Dramática em Estilo Barroco
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado para gerar uma transformação de vídeo dramática no estilo Barroco, com foco em iluminação teatral e detalhes ornamentados.
-
-#### 📝 Prompt
-
-```
-Estilo Barroco, emoção intensa, iluminação teatral, grandiosidade ornamentada, Espelho, espelho meu...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9cf7cf1f2bddfd56485e74f214fc80a4/thumbnails/thumbnail.jpg" width="600" alt="Transformação Dramática em Estilo Barroco">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5676)**
-
-**Author:** [Tina ✨](https://x.com/Tina22_2) | **Source:** [Link](https://x.com/Tina22_2/status/2062322843833036921) | **Published:** Jun 3, 2026
-
----
-### Dança na Floresta Neo-Soul Etérea
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cinematográfico apresentando uma mulher com chifres brilhantes dançando em uma floresta enevoada, cercada por faíscas digitais.
-
-#### 📝 Prompt
-
-```
-Mulher negra graciosa com chifres de cervo sutilmente brilhantes, dançando descalça em uma floresta enevoada ao crepúsculo, faíscas de código digital prateado entrelaçando-se romanticamente ao seu redor, brilho pastel quente, capa de álbum neo-soul, foco suave cinematográfico, formato quadrado
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0915ac21287e696c3dc7d76e1faaefb3/thumbnails/thumbnail.jpg" width="600" alt="Dança na Floresta Neo-Soul Etérea">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5671)**
-
-**Author:** [Alyssa Nicole Art](https://x.com/alyssanicoleart) | **Source:** [Link](https://x.com/alyssanicoleart/status/2062211781116985709) | **Published:** Jun 3, 2026
-
----
-### Transformação Diabólica com Chamas
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo dramático que retrata uma transformação em um diabo com olhos em chamas e uma risada ameaçadora.
-
-#### 📝 Prompt
-
-```
-Eu tenho uma imagem do que acontece quando alguém se transforma no diabo. E ele gritou: “você trabalhará de graça ou morrerá”. Ele dá uma risada diabólica com chamas saindo de seus globos oculares.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bc88836878c72461b023a7fe15de90ec/thumbnails/thumbnail.jpg" width="600" alt="Transformação Diabólica com Chamas">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5674)**
-
-**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2062153074374766919) | **Published:** Jun 3, 2026
-
----
-### Asas de Anjo Iridescentes Etéreas
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt para gerar um vídeo de asas iridescentes brilhando suavemente em um cenário etéreo e pastel com um tema angelical delicado.
-
-#### 📝 Prompt
-
-```
-Asas iridescentes brilhando suavemente em sonhos em tons pastel… Um sussurro angelical delicado envolto em luz etérea.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dd97d46cfac8493157cdad8da0016eaf/thumbnails/thumbnail.jpg" width="600" alt="Asas de Anjo Iridescentes Etéreas">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5709)**
-
-**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2062134914754224326) | **Published:** Jun 3, 2026
-
----
-### Vídeo de peixes neon do Monterey Bay Aquarium
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo mostrando personagens observando peixes neon na exposição do oceano profundo no Monterey Bay Aquarium.
-
-#### 📝 Prompt
-
-```
-LilX e Scouts do Monterey Bay Aquarium observando peixes neon da exposição do oceano profundo
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1886d87375b5b09697bf787b0bab94e7/thumbnails/thumbnail.jpg" width="600" alt="Vídeo de peixes neon do Monterey Bay Aquarium">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5675)**
-
-**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2062118252386631705) | **Published:** Jun 3, 2026
-
----
-### Vídeo de Exploradores Espaciais e Leões-Marinhos
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cinematográfico de Exploradores Espaciais observando um berçário de leões-marinhos na costa, com céu azul e sons do oceano.
-
-#### 📝 Prompt
-
-```
-Exploradores Espaciais na trilha observando um berçário de leões-marinhos, mãe lebre e filhote correndo pela trilha e pássaros voando sobre um dia lindo, céu azul e sons tranquilos do oceano
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06ef7f300ac3120db2f9582d03558597/thumbnails/thumbnail.jpg" width="600" alt="Vídeo de Exploradores Espaciais e Leões-Marinhos">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5673)**
-
-**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2062117104061644940) | **Published:** Jun 3, 2026
-
----
-### A Sereia e o Peixe Valentão: Cooperação
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt narrativo para uma cena de vídeo onde uma sereia e um peixe valentão são forçados a cooperar para escapar da rede de um pescador.
-
-#### 📝 Prompt
-
-```
-Tudo
-O peixe valentão e a sereia ficam presos na rede de um pescador e precisam ser gentis, fazer
-Amizade e trabalhar juntos para se libertarem
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/83aca48b41cee713b5a5ca3243b820cc/thumbnails/thumbnail.jpg" width="600" alt="A Sereia e o Peixe Valentão: Cooperação">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5672)**
-
-**Author:** [Liz](https://x.com/LSage11977725) | **Source:** [Link](https://x.com/LSage11977725/status/2062074055876911125) | **Published:** Jun 3, 2026
-
----
-### Retrato de Estúdio de Modelo de Moda
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt profissional de fotografia de moda para um retrato de estúdio de corpo inteiro com fundo branco.
-
-#### 📝 Prompt
-
-```
-Retrato profissional de corpo inteiro de uma modelo de moda, posando com confiança em um estúdio fotográfico com fundo branco infinito, iluminação de estúdio perfeita, estilo de fotografia de moda de alto padrão, pose elegante com uma mão na cintura e leve inclinação da cabeça...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/811d9237280fd98335fef7f7eb0a0081/thumbnails/thumbnail.jpg" width="600" alt="Retrato de Estúdio de Modelo de Moda">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5640)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2061960688084435270) | **Published:** Jun 2, 2026
-
----
-### Mulher de Hong Kong jogando tênis
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cinematográfico de uma jovem jogando tênis, com foco em detalhes fotorrealistas e movimento natural do cabelo.
-
-#### 📝 Prompt
-
-```
-Um retrato fotorrealista de uma jovem e bela mulher de Hong Kong, na casa dos 20 anos, jogando tênis, com longos cabelos castanhos escuros ondulados e franja natural emoldurando o rosto
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2061956694360600576/img/L1E6bED7qXbzbpqD.jpg" width="600" alt="Mulher de Hong Kong jogando tênis">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5643)**
-
-**Author:** [Celia](https://x.com/ritpol) | **Source:** [Link](https://x.com/ritpol/status/2061956748513329553) | **Published:** Jun 2, 2026
-
----
-### Mulher bebendo coquetel de laranja
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo descritivo que captura o movimento realista de uma mulher tomando um gole lento de um coquetel com movimentos corporais naturais.
-
-#### 📝 Prompt
-
-```
-A jovem leva suavemente a taça de haste longa com o coquetel alaranjado aos seus lábios carnudos e toma um gole lento, com seus olhos azuis marcantes semicerrados de prazer, enquanto seu corpo balança sutilmente com um movimento natural.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2061950922805399552/img/1AHQObFpKAVX-SFu.jpg" width="600" alt="Mulher bebendo coquetel de laranja">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5636)**
-
-**Author:** [Celia](https://x.com/ritpol) | **Source:** [Link](https://x.com/ritpol/status/2061950977654353999) | **Published:** Jun 2, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2302,6 +2311,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-17T05:05:54.627Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-17T12:43:45.221Z</sub>
 
 </div>

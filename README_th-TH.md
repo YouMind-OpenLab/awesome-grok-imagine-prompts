@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1839** |
+| 📝 Total Prompts | **1850** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-17** |
 
@@ -189,6 +189,207 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### การเคลื่อนไหวที่นุ่มนวลราวกับความฝันและเสียงน้ำที่สะท้อนก้อง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง (Prompt) เชิงกวีสำหรับการสร้างวิดีโอที่มีการเคลื่อนไหวที่นุ่มนวลราวกับความฝัน ควบคู่ไปกับเสียงบรรยากาศของน้ำที่สะท้อนก้อง
+
+#### 📝 Prompt
+
+```
+เธอเคลื่อนไหวอย่างนุ่มนวลมาก ราวกับว่าเธอกำลังฝันอยู่ มีเพียงเสียงน้ำที่สะท้อนก้องเท่านั้น
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fa1c1c30d142e110b9cdaf61e052f143/thumbnails/thumbnail.jpg" width="600" alt="การเคลื่อนไหวที่นุ่มนวลราวกับความฝันและเสียงน้ำที่สะท้อนก้อง">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6139)**
+
+**Author:** [princesUnicorn](https://x.com/princesunico01) | **Source:** [Link](https://x.com/princesunico01/status/2066910279913660890) | **Published:** Jun 16, 2026
+
+---
+### วิดีโอไทม์แลปส์การฟื้นฟูตลาดด้วยการเคลื่อนกล้องแบบ Crane-Up
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างวิดีโอไทม์แลปส์การฟื้นฟูที่ซับซ้อนสำหรับ Grok Imagine โดยใช้การเคลื่อนกล้องแบบ Crane-Up อย่างช้าๆ
+
+#### 📝 Prompt
+
+```
+วิดีโอไทม์แลปส์การฟื้นฟู ส่วนที่ 3/4 — ตลาด Gikomba ในระหว่างการก่อสร้าง \nเริ่มจากภาพที่ 03\n\nใช้ตำแหน่งมุมสูงเดิม เคลื่อนกล้องแบบ CRANE UP อย่างช้าๆ — ยกตัวขึ้น 2 เมตร ในระยะเวลา 10 วินาที การเคลื่อนกล้องที่ค่อยๆ สูงขึ้นนี้สะท้อนให้เห็นถึงการฟื้นตัวของตลาด...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a444f1754786449aadca30a558bccf74/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอไทม์แลปส์การฟื้นฟูตลาดด้วยการเคลื่อนกล้องแบบ Crane-Up">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6134)**
+
+**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2066861153423388926) | **Published:** Jun 16, 2026
+
+---
+### หญิงสาวในฝันกับดอกกุหลาบสีชมพู
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง (Prompt) สำหรับสร้างวิดีโอแนวฝันหวานของหญิงสาวที่สวมมงกุฎดอกไม้ ท่ามกลางดอกกุหลาบสีชมพูอ่อน
+
+#### 📝 Prompt
+
+```
+หญิงสาวในฝันสวมมงกุฎดอกไม้ ท่ามกลางดอกกุหลาบสีชมพูพาสเทลที่กำลังผลิบานอย่างอ่อนโยน...
+เสียงกระซิบของกลีบดอกไม้ที่บอบบางและความสง่างามที่นุ่มนวล
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/856583392d81b71407a21f13e6bdb351/thumbnails/thumbnail.jpg" width="600" alt="หญิงสาวในฝันกับดอกกุหลาบสีชมพู">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6140)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2066855955032334498) | **Published:** Jun 16, 2026
+
+---
+### มหานครสีเขียวบนดวงจันทร์และหุ่นยนต์ยักษ์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวไซไฟแบบละเอียดที่เปลี่ยนมหานครบนดวงจันทร์ให้กลายเป็นศูนย์กลางเทคโนโลยีสีเขียว พร้อมหุ่นยนต์ฮิวแมนนอยด์ขนาดมหึมาสูง 1 กม.
+
+#### 📝 Prompt
+
+```
+เปลี่ยนมหานครบนดวงจันทร์ที่มีรูปทรงเหมือน Tesla Cybertruck ทั้งหมดให้กลายเป็นโทนสีเขียวสดใสพร้อมบรรยากาศแห่งอนาคตที่ล้ำสมัย: เน้นสีเขียวมรกตเรืองแสง สีฟ้าไซแอนนีออน และสีเขียวมะนาวบนโครงสร้าง พื้นผิวโลหะ แสงไฟ โล่พลังงาน และองค์ประกอบโฮโลแกรมทั้งหมด เพื่อสร้างบรรยากาศแบบรักษ์โลกที่ล้ำหน้าทางเทคโนโลยี เพิ่มรายละเอียดด้วยเทคโนโลยีควอนตัมที่ซับซ้อนยิ่งขึ้น กระแสพลังงานสีเขียวที่เต้นเป็นจังหวะ ฟาร์มแนวตั้งที่เขียวชอุ่ม และกิจกรรมที่ดูมีชีวิตชีวา
+
+ข้างมหานคร (บนพื้นทรายที่คล้ายดวงจันทร์/ดาวอังคาร) ให้เพิ่มหุ่นยนต์ฮิวแมนนอยด์ขนาดมหึมาสูงและกว้าง 1 กม. ในโทนสีทรายดาวอังคาร/ส้มอมแดงที่สมจริง พร้อมพื้นผิวโลหะ ยืนเด่นเป็นสง่าในมุมมอง 3D สุดอลังการ บนหน้าอกและศีรษะของหุ่นยนต์ ให้แสดงข้อความเรืองแสงตัวหนาว่า 'QWEET Robot' ด้วยฟอนต์แห่งอนาคต เหนือศีรษะของหุ่นยนต์ ให้แสดงดวงดาวในกาแล็กซี เนบิวลา และอนุภาคคอสมิกที่หมุนวนอย่างมีพลัง คงพื้นหลังที่มีโลกบนท้องฟ้า แสงที่ดูดราม่า นักบินอวกาศ รถสำรวจ และสไตล์ไซไฟแบบภาพยนตร์ที่สมจริงและรายละเอียดสูงโดยรวม
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c74ff71c9a65b60a6b4228b544b14d9d/thumbnails/thumbnail.jpg" width="600" alt="มหานครสีเขียวบนดวงจันทร์และหุ่นยนต์ยักษ์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6137)**
+
+**Author:** [Fan Dear Grok](https://x.com/IrfanKhan496226) | **Source:** [Link](https://x.com/IrfanKhan496226/status/2066824513342353566) | **Published:** Jun 16, 2026
+
+---
+### แอนิเมชันโปรไฟล์ควันจางดูเลื่อนลอย
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอที่ซับซ้อนซึ่งแสดงภาพใบหน้าในเงามัวที่ดูเลื่อนลอยกำลังพ่นควันออกมาเป็นรูปวัวและตัวโน้ตดนตรีบนพื้นหลังสีขาว
+
+#### 📝 Prompt
+
+```
+ภาพโปรไฟล์ด้านข้างที่ดูเลื่อนลอยและเป็นควันจางๆ ทางด้านซ้ายกำลังพ่นควันออกมาเป็นรูปวัวที่ไล่ตามผีเสื้อที่บอบบางซึ่งก่อตัวจากควัน ตามด้วยตัวโน้ตดนตรีที่หมุนวน ทั้งหมดไหลออกมาจากปากอย่างต่อเนื่องและล่องลอยไปอย่างนุ่มนวลบนพื้นหลังสีขาวเพื่อ
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bded2b96c31a8159e969479170d825b0/thumbnails/thumbnail.jpg" width="600" alt="แอนิเมชันโปรไฟล์ควันจางดูเลื่อนลอย">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6130)**
+
+**Author:** [Matt Wilson](https://x.com/MattWilson8178) | **Source:** [Link](https://x.com/MattWilson8178/status/2066817439594144226) | **Published:** Jun 16, 2026
+
+---
+### วิดีโอพรอมต์ ผู้หญิงลืมตาและยิ้ม
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์แนวภาพยนตร์สำหรับ Grok Imagine ที่มีภาพผู้หญิงตื่นนอนและพูดด้วยน้ำเสียงที่ดูลึกลับ
+
+#### 📝 Prompt
+
+```
+เธอลืมตาขึ้น ยิ้ม และพูดด้วยน้ำเสียงที่ดูลึกลับอย่างแผ่วเบาว่า: อรุณสวัสดิ์ "X" ขอให้ความมหัศจรรย์นำทางคุณในวันนี้
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5145a22ccc03736d87aba7a70fb74197/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอพรอมต์ ผู้หญิงลืมตาและยิ้ม">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6132)**
+
+**Author:** [Matt Wilson](https://x.com/MattWilson8178) | **Source:** [Link](https://x.com/MattWilson8178/status/2066809062658859150) | **Published:** Jun 16, 2026
+
+---
+### แอนิเมชัน LeBron James กับขวดนม
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง (Prompt) แนวตลกขบขันที่เน้นรายละเอียดเฉพาะเจาะจง โดยนำเสนอ LeBron James ในสถานการณ์ล้อเลียนแบบเด็กทารก
+
+#### 📝 Prompt
+
+```
+ให้พวกเขาผลัดกันป้อนขวดนมให้ LeBron James เพราะ LeBron James เป็นเด็กทารกขี้เซาที่ชอบพุ่งล้ม
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ad92bc67b08bb7451f1db6421ad3049f/thumbnails/thumbnail.jpg" width="600" alt="แอนิเมชัน LeBron James กับขวดนม">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6131)**
+
+**Author:** [Donald J Trump](https://x.com/DonaldWalmart) | **Source:** [Link](https://x.com/DonaldWalmart/status/2066737332427079733) | **Published:** Jun 16, 2026
+
+---
+### การถ่ายทำวิดีโอ Timelapse งานก่อสร้างด้วยฟีเจอร์ Scene Lock
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ตัวอย่างคำสั่ง (Prompt) สำหรับการถ่ายทำวิดีโอ Timelapse เชิงเทคนิคโดยใช้ฟีเจอร์ Scene Lock เพื่อแสดงขั้นตอนการก่อสร้างโรงเก็บเรือแบบทีละขั้นตอน
+
+#### 📝 Prompt
+
+```
+SCENE LOCK: ใช้ขาตั้งกล้องแบบคงที่ จัดเฟรมและจุดสังเกตให้ตรงกันเป๊ะ ไม่มีการตัดต่อ
+
+STAGE: วิดีโอ Timelapse ตั้งแต่เริ่มก่อสร้างจนถึงโรงเก็บเรือที่สร้างเสร็จสมบูรณ์
+
+DETAILS: การติดตั้งหลังคา การติดผนัง การซ่อมแซมท่าเรือ การติดตั้งโคมไฟ การทาสี การซีลรอยต่อ และการทำความสะอาดพื้นที่ โดยมีคนงาน...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/921c1794d9b56a29514fb08e563a8eed/thumbnails/thumbnail.jpg" width="600" alt="การถ่ายทำวิดีโอ Timelapse งานก่อสร้างด้วยฟีเจอร์ Scene Lock">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6135)**
+
+**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2066722621954392356) | **Published:** Jun 16, 2026
+
+---
+### ภาพถ่ายสนามกีฬาลอยฟ้าจากโดรนแบบโคจร
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง (Prompt) สำหรับการถ่ายทำด้วยโดรนเชิงเทคนิค เพื่อแสดงภาพสนามกีฬาลอยฟ้าจากระดับความสูงและมุมกล้องที่คงที่
+
+#### 📝 Prompt
+
+```
+การล็อกฉาก: โดรนรักษาความสูงคงที่ที่ 400 เมตร และมุมมอง 45 องศาขณะโคจรรอบสนามกีฬา ให้การเคลื่อนไหวแบบภาพยนตร์ที่มั่นคง
+
+ขั้นตอน: การนำเสนอภาพสุดท้ายของสนามกีฬาลอยฟ้าในฐานะแลนด์มาร์คทางวิศวกรรม
+
+รายละเอียด: การเคลื่อนที่แบบโคจรที่นุ่มนวล...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7769c11b3ddb743c2010890d56597cf2/thumbnails/thumbnail.jpg" width="600" alt="ภาพถ่ายสนามกีฬาลอยฟ้าจากโดรนแบบโคจร">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6133)**
+
+**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2066716896763011156) | **Published:** Jun 16, 2026
+
+---
+### Samurai Honey Badger ปะทะ Spartan Turtle
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวภาพยนตร์ที่นำเสนอ Samurai Honey Badger ในท่าต่อสู้สุดเร้าใจ กำลังต่อสู้กับเต่านักรบ Spartan ในฉากการต่อสู้อันดุเดือด
+
+#### 📝 Prompt
+
+```
+Samurai Honey Badger สุดดุดันในท่าต่อสู้ที่สมจริง กำลังต่อสู้กับเต่านักรบ Spartan โดยเป็นการออกแบบตัวละครดั้งเดิมที่ไม่มีความคล้ายคลึงกับ Teenage Mutant Ninja Turtles ในฉากการต่อสู้อันเข้มข้นที่อาวุธปะทะกัน
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/245adcf86e60ac8fc20991db437e35e3/thumbnails/thumbnail.jpg" width="600" alt="Samurai Honey Badger ปะทะ Spartan Turtle">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6136)**
+
+**Author:** [Bitcoin Collector.](https://x.com/FrankieBitcoin) | **Source:** [Link](https://x.com/FrankieBitcoin/status/2066681728433807773) | **Published:** Jun 16, 2026
+
+---
 ### การแสดงและบทสนทนาของภัณฑารักษ์หอศิลป์
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -248,6 +449,25 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6097)**
 
 **Author:** [Lala](https://x.com/keepgoingAnnie) | **Source:** [Link](https://x.com/keepgoingAnnie/status/2066551416986968369) | **Published:** Jun 15, 2026
+
+---
+### พรอมต์วิดีโอ นักบัลเลต์ท่ามกลางหมู่มวลดอกกุหลาบ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างวิดีโออันอ่อนช้อยของนักบัลเลต์ที่กำลังร่ายรำท่ามกลางดอกกุหลาบสีชมพู โดดเด่นด้วยความสง่างามชวนฝันและการเคลื่อนไหวที่นุ่มนวล
+
+#### 📝 Prompt
+
+```
+นักบัลเลต์ผู้สง่างามกำลังร่ายรำอย่างนุ่มนวลท่ามกลางดอกกุหลาบสีชมพูที่กำลังบานสะพรั่ง... เสียงกระซิบแผ่วเบาของกลีบดอกไม้และความสง่างามที่ชวนฝัน
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/045c6b911dc5f7bdff46fc6d9559c49f/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์วิดีโอ นักบัลเลต์ท่ามกลางหมู่มวลดอกกุหลาบ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6138)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2066465717114093967) | **Published:** Jun 15, 2026
 
 ---
 ### Ghost River Cinematic Push-In
@@ -819,7 +1039,7 @@ Jilla กล่าวว่า "ทุกย่างก้าวเลยล่
 ยานสำรวจระหว่างดวงดาวเดินทางข้ามกาแล็กซีเพื่อค้นหาดาวเคราะห์ที่สวยงามและยังไม่มีใครเคยสำรวจ เพื่อพัฒนาให้เป็นรีสอร์ตที่หรูหราและพิเศษที่สุดเท่าที่จักรวาลเคยมีมา
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a75291ddc69daed9ec2ed6b894d4db8/thumbnails/thumbnail.jpg" width="600" alt="การสำรวจของยานสำรวจระหว่างดวงดาว">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/25a3518065fe0026b6d3a4e97cc63bd5/thumbnails/thumbnail.jpg" width="600" alt="การสำรวจของยานสำรวจระหว่างดวงดาว">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5994)**
 
@@ -2030,216 +2250,6 @@ Ricardo เข้าสู่โหมด Matrix แบบหยุดไม่�
 **Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2062504737086611629) | **Published:** Jun 4, 2026
 
 ---
-### แอนิเมชันสัตว์ในหนังสือนิทานภาพ
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> พรอมต์สำหรับเปลี่ยนภาพนิ่งเป็นวิดีโอ เพื่อสร้างแอนิเมชันจากภาพประกอบหนังสือนิทานแบบ 2D โดยให้สัตว์หลายตัวเคลื่อนไหวพร้อมกันพร้อมเสียงประกอบ ในขณะที่ยังคงมุมกล้องแบบคงที่และสไตล์ดั้งเดิมเอาไว้
-
-#### 📝 Prompt
-
-```
-เปลี่ยนภาพนี้ให้เป็นวิดีโอความยาว 6 วินาที โดยคงพื้นผิว สี และองค์ประกอบของภาพประกอบต้นฉบับเอาไว้ สัตว์ต่างๆ ในฉากไม่ควรเคลื่อนไหวตามลำดับ แต่ควรเริ่มเคลื่อนไหวพร้อมกันทั้งหมด จระเข้อ้าปากเล็กน้อยและขยับหาง กระต่ายขยับหูและจมูก กิ้งก่าสีชมพูขยับหาง และเหล่านกกระโดดไปพร้อมกันพร้อมอ้าปากส่งเสียงร้อง สร้างบรรยากาศที่สัตว์แต่ละตัวมีเสียงร้องที่เป็นเอกลักษณ์ของตัวเอง ดอกไม้และใบไม้ไหวเบาๆ การเคลื่อนไหวควรมีความสนุก น่ารัก ดูเหนือจริงเล็กน้อย ไม่รุนแรงจนเกินไป และคงเสน่ห์ของหนังสือนิทานเอาไว้ โดยให้กล้องอยู่นิ่งสนิทตลอดทั้งคลิป
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6683cd2ff15f49ff8f56033a4a6cdfa0/thumbnails/thumbnail.jpg" width="600" alt="แอนิเมชันสัตว์ในหนังสือนิทานภาพ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5712)**
-
-**Author:** [サン｜Sun](https://x.com/sunsunshine0318) | **Source:** [Link](https://x.com/sunsunshine0318/status/2062490098244124757) | **Published:** Jun 4, 2026
-
----
-### การเปลี่ยนผ่านสไตล์บาโรกสุดอลังการ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่งแบบละเอียดสำหรับการสร้างวิดีโอเปลี่ยนผ่านสุดดราม่าในสไตล์บาโรก โดยเน้นไปที่แสงแบบละครเวทีและรายละเอียดที่วิจิตรบรรจง
-
-#### 📝 Prompt
-
-```
-สไตล์บาโรก, อารมณ์ที่เข้มข้น, แสงแบบละครเวที, ความยิ่งใหญ่อลังการ, กระจกวิเศษเอ๋ย...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9cf7cf1f2bddfd56485e74f214fc80a4/thumbnails/thumbnail.jpg" width="600" alt="การเปลี่ยนผ่านสไตล์บาโรกสุดอลังการ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5676)**
-
-**Author:** [Tina ✨](https://x.com/Tina22_2) | **Source:** [Link](https://x.com/Tina22_2/status/2062322843833036921) | **Published:** Jun 3, 2026
-
----
-### การเต้นรำในป่าแห่งจิตวิญญาณนีโอโซลอันล่องลอย
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวภาพยนตร์ที่นำเสนอหญิงสาวที่มีเขากวางเรืองแสงกำลังเต้นรำอยู่ในป่าที่มีหมอกหนาและรายล้อมไปด้วยประกายไฟดิจิทัล
-
-#### 📝 Prompt
-
-```
-หญิงสาวชาวอเมริกันผิวดำผู้สง่างาม สวมเขากวางเรืองแสงจางๆ เต้นรำด้วยเท้าเปล่าในป่าช่วงพลบค่ำที่มีหมอกปกคลุม ประกายไฟจากโค้ดดิจิทัลสีเงินถักทอโอบล้อมรอบตัวเธออย่างโรแมนติก แสงโทนพาสเทลอันอบอุ่น ปกอัลบั้มแนวนีโอโซล โฟกัสแบบนุ่มนวลสไตล์ภาพยนตร์ รูปแบบสี่เหลี่ยมจัตุรัส
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0915ac21287e696c3dc7d76e1faaefb3/thumbnails/thumbnail.jpg" width="600" alt="การเต้นรำในป่าแห่งจิตวิญญาณนีโอโซลอันล่องลอย">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5671)**
-
-**Author:** [Alyssa Nicole Art](https://x.com/alyssanicoleart) | **Source:** [Link](https://x.com/alyssanicoleart/status/2062211781116985709) | **Published:** Jun 3, 2026
-
----
-### การเปลี่ยนร่างเป็นปีศาจท่ามกลางเปลวเพลิง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอสุดดราม่าที่ถ่ายทอดภาพการเปลี่ยนร่างเป็นปีศาจ พร้อมดวงตาที่ลุกเป็นไฟและเสียงหัวเราะที่น่าสะพรึงกลัว
-
-#### 📝 Prompt
-
-```
-ฉันได้ภาพเหตุการณ์ที่เกิดขึ้นเมื่อกลายร่างเป็นปีศาจ และตะโกนว่า “แกจะต้องทำงานฟรีไม่เช่นนั้นก็ต้องตาย” มันหัวเราะด้วยเสียงหัวเราะแบบปีศาจพร้อมกับมีเปลวไฟพุ่งออกมาจากดวงตา
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bc88836878c72461b023a7fe15de90ec/thumbnails/thumbnail.jpg" width="600" alt="การเปลี่ยนร่างเป็นปีศาจท่ามกลางเปลวเพลิง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5674)**
-
-**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2062153074374766919) | **Published:** Jun 3, 2026
-
----
-### ปีกนางฟ้าสีรุ้งอันแสนงดงาม
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่งสำหรับสร้างวิดีโอปีกสีรุ้งที่เปล่งประกายอย่างนุ่มนวลในบรรยากาศพาสเทลที่ดูเหนือจริง พร้อมธีมนางฟ้าที่อ่อนโยน
-
-#### 📝 Prompt
-
-```
-ปีกสีรุ้งที่เปล่งประกายอย่างนุ่มนวลท่ามกลางความฝันสีพาสเทล... เสียงกระซิบจากนางฟ้าที่โอบล้อมด้วยแสงอันแสนงดงาม
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dd97d46cfac8493157cdad8da0016eaf/thumbnails/thumbnail.jpg" width="600" alt="ปีกนางฟ้าสีรุ้งอันแสนงดงาม">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5709)**
-
-**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2062134914754224326) | **Published:** Jun 3, 2026
-
----
-### วิดีโอปลาเรืองแสงที่ Monterey Bay Aquarium
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอที่แสดงตัวละครกำลังชมปลาเรืองแสงในนิทรรศการทะเลลึกที่ Monterey Bay Aquarium
-
-#### 📝 Prompt
-
-```
-LilX และ Scouts กำลังชมปลาเรืองแสงจากนิทรรศการทะเลลึกที่ Monterey Bay Aquarium
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1886d87375b5b09697bf787b0bab94e7/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอปลาเรืองแสงที่ Monterey Bay Aquarium">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5675)**
-
-**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2062118252386631705) | **Published:** Jun 3, 2026
-
----
-### วิดีโอ Space Scouts และสิงโตทะเล
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวภาพยนตร์ของ Space Scouts ที่กำลังมองลงไปยังสถานอนุบาลสิงโตทะเลบริเวณชายฝั่ง พร้อมท้องฟ้าสีครามและเสียงคลื่นทะเล
-
-#### 📝 Prompt
-
-```
-Space Scouts บนเส้นทางที่มองลงไปยังสถานอนุบาลสิงโตทะเล แม่กระต่ายป่าและลูกวิ่งข้ามเส้นทางและมีนกบินผ่าน เป็นวันที่สวยงาม ท้องฟ้าสีคราม และเสียงมหาสมุทรที่เงียบสงบ
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06ef7f300ac3120db2f9582d03558597/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอ Space Scouts และสิงโตทะเล">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5673)**
-
-**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2062117104061644940) | **Published:** Jun 3, 2026
-
----
-### ความร่วมมือระหว่างนางเงือกและปลาเกเร
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) สำหรับสร้างฉากวิดีโอที่นางเงือกและปลาเกเรต้องร่วมมือกันเพื่อหนีออกจากอวนของชาวประมง
-
-#### 📝 Prompt
-
-```
-ทั้งหมด
-ปลาเกเรและนางเงือกติดอยู่ในอวนของชาวประมง พวกเขาจึงต้องใจดีต่อกัน เป็นเพื่อนกัน และร่วมมือกันเพื่อหาทางหนีออกมา
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/83aca48b41cee713b5a5ca3243b820cc/thumbnails/thumbnail.jpg" width="600" alt="ความร่วมมือระหว่างนางเงือกและปลาเกเร">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5672)**
-
-**Author:** [Liz](https://x.com/LSage11977725) | **Source:** [Link](https://x.com/LSage11977725/status/2062074055876911125) | **Published:** Jun 3, 2026
-
----
-### ภาพถ่ายพอร์ตเทรตแฟชั่นโมเดลในสตูดิโอ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับการถ่ายภาพแฟชั่นระดับมืออาชีพ เพื่อสร้างภาพพอร์ตเทรตเต็มตัวในสตูดิโอพร้อมฉากหลังสีขาว
-
-#### 📝 Prompt
-
-```
-ภาพพอร์ตเทรตแฟชั่นเต็มตัวระดับมืออาชีพของนางแบบสาว ยืนโพสท่าอย่างมั่นใจในสตูดิโอถ่ายภาพบนฉากหลังสีขาวแบบไร้รอยต่อ จัดแสงสตูดิโออย่างสมบูรณ์แบบ สไตล์ภาพถ่ายแฟชั่นระดับไฮเอนด์ โพสท่าอย่างสง่างามโดยวางมือข้างหนึ่งไว้ที่สะโพกและเอียงศีรษะเล็กน้อย...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/811d9237280fd98335fef7f7eb0a0081/thumbnails/thumbnail.jpg" width="600" alt="ภาพถ่ายพอร์ตเทรตแฟชั่นโมเดลในสตูดิโอ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5640)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2061960688084435270) | **Published:** Jun 2, 2026
-
----
-### หญิงสาวชาวฮ่องกงกำลังเล่นเทนนิส
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวภาพยนตร์ของหญิงสาวที่กำลังเล่นเทนนิส โดยเน้นรายละเอียดที่สมจริงดั่งภาพถ่ายและการเคลื่อนไหวของเส้นผมที่เป็นธรรมชาติ
-
-#### 📝 Prompt
-
-```
-ภาพพอร์ตเทรตสมจริงดั่งภาพถ่ายของหญิงสาวชาวฮ่องกงหน้าตาสะสวยในวัย 20 ต้นๆ กำลังเล่นเทนนิส มีผมยาวดัดลอนสีน้ำตาลเข้มพร้อมหน้าม้าที่เป็นธรรมชาติล้อมกรอบใบหน้า
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2061956694360600576/img/L1E6bED7qXbzbpqD.jpg" width="600" alt="หญิงสาวชาวฮ่องกงกำลังเล่นเทนนิส">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5643)**
-
-**Author:** [Celia](https://x.com/ritpol) | **Source:** [Link](https://x.com/ritpol/status/2061956748513329553) | **Published:** Jun 2, 2026
-
----
-### หญิงสาวกำลังจิบเครื่องดื่มค็อกเทลสีส้ม
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอเชิงบรรยายที่ถ่ายทอดการเคลื่อนไหวที่สมจริงของหญิงสาวที่กำลังค่อยๆ จิบเครื่องดื่มค็อกเทลด้วยท่าทางที่เป็นธรรมชาติ
-
-#### 📝 Prompt
-
-```
-หญิงสาวค่อยๆ ยกแก้วก้านยาวที่บรรจุค็อกเทลสีส้มแดงขึ้นจรดริมฝีปากอิ่มแล้วจิบอย่างช้าๆ ดวงตาสีฟ้าอันโดดเด่นของเธอหรี่ลงเล็กน้อยด้วยความเพลิดเพลิน ร่างกายไหวเอนเบาๆ อย่างเป็นธรรมชาติ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2061950922805399552/img/1AHQObFpKAVX-SFu.jpg" width="600" alt="หญิงสาวกำลังจิบเครื่องดื่มค็อกเทลสีส้ม">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5636)**
-
-**Author:** [Celia](https://x.com/ritpol) | **Source:** [Link](https://x.com/ritpol/status/2061950977654353999) | **Published:** Jun 2, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2301,6 +2311,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-17T05:05:44.857Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-17T12:43:36.966Z</sub>
 
 </div>
