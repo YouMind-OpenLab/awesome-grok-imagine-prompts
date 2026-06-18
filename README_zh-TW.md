@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **1850** |
+| 📝 提示詞總數 | **1856** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-06-18** |
 
@@ -189,6 +189,132 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 漂浮的中國宮殿船
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個精細的提示詞，用於生成高品質影片，內容為漂浮在雲端、設計成古代船隻樣式的中國宮殿。
+
+#### 📝 提示詞
+
+```
+傑作，最高品質，超細節電影級數位繪畫，描繪一座巨大的漂浮中國宮殿，外觀如同一艘宏偉的古代船隻，懸浮在雲層之中。建築結構具有多層華麗的傳統中國建築風格，飾有金色細節、紅燈籠和精緻的木工。周圍環繞著戲劇性的雲層和漂浮的岩山，明亮的天空中有陽光穿透。史詩般的規模，雄偉而神秘的氛圍，伴隨柔和的耶穌光與漂浮微粒。高度細節化的建築、雲層與光影。在左下角，加入一個優雅的小簽名，內容必須精確為「Kisalay」，採用精緻的手寫書法風格。不得包含其他文字或浮水印。電影級構圖，色彩鮮豔而優雅，最高品質，8K 解析度。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4e591b16cafcb840fda94b6448589caa/thumbnails/thumbnail.jpg" width="600" alt="漂浮的中國宮殿船">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6171)**
+
+**作者:** [⭕Kisalay](https://x.com/Kisalay_) | **來源:** [Link](https://x.com/Kisalay_/status/2067323749532316148) | **發布時間:** Jun 17, 2026
+
+---
+### 煙霧繚繞的酒吧入口鏡頭
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個使用起始與結束影格參照的電影感影片提示詞，展示角色走進充滿煙霧的酒吧。
+
+#### 📝 提示詞
+
+```
+以 @image1 為起始影像，並以 @image2 為結束影像，呈現男人們穿過敞開的門走進充滿煙霧的酒吧，營造電影感時刻。無音樂。無對話。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/250a2e8d261b1b2527f8abda3bea4351/thumbnails/thumbnail.jpg" width="600" alt="煙霧繚繞的酒吧入口鏡頭">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6170)**
+
+**作者:** [Jennifer 🇺🇸 🦅](https://x.com/Jenny_MommaLion) | **來源:** [Link](https://x.com/Jenny_MommaLion/status/2067298333295862106) | **發布時間:** Jun 17, 2026
+
+---
+### 電影級武術格鬥場景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一份詳盡的 6 秒影片動作提示詞，展示武術格鬥家在動態運鏡與寫實物理效果下，執行複雜的格鬥動作。
+
+#### 📝 提示詞
+
+```
+傑作級品質，6 秒影片，展示一名技術高超的格鬥家在崎嶇地形上進行殘酷且高強度的戰鬥。角色執行快速、強力的武術連擊，包括迴旋踢、飛膝、空中翻轉、跑牆與兇猛的擊倒動作。具備強烈的寫實物理效果，呈現沉重的衝擊感與動能。動態運鏡包含跟拍、環繞鏡頭與戲劇性的低角度拍攝。電影級光影，清晰的動作流暢度，強烈且原始的動作感，無剪接，流暢而強而有力的編排，最高品質，6 秒影片。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f7f265442f781b2993abd2a68b8b9041/thumbnails/thumbnail.jpg" width="600" alt="電影級武術格鬥場景">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6169)**
+
+**作者:** [⭕Kisalay](https://x.com/Kisalay_) | **來源:** [Link](https://x.com/Kisalay_/status/2067298200520896673) | **發布時間:** Jun 17, 2026
+
+---
+### 興奮的日語公告口型同步
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一個用於生成自然興奮感、手勢與頭髮擺動的逼真日語口型同步提示詞。
+
+#### 📝 提示詞
+
+```
+自然的興奮日語，清晰的語音，完美的口型同步。輕微的手勢，頭髮隨之擺動。「各位！xAI 已經發布了 Grok Imagine Video 1.5！圖像轉影片生成技術有了顯著的進化。語音與口型同步完美契合，物理運算也更加逼真。生成速度提升了兩倍，大約 25 秒即可完成。」
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067236538212331520/img/TpprEy-FXWKCbcIA.jpg" width="600" alt="興奮的日語公告口型同步">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6173)**
+
+**作者:** [右よし左よし秋よし@AIエンタメ](https://x.com/akiyoshisan) | **來源:** [Link](https://x.com/akiyoshisan/status/2067236929989423431) | **發布時間:** Jun 17, 2026
+
+---
+### 《權力遊戲》巨龍飛行電影級影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個高度細緻的電影級提示詞，旨在將參考圖像製作成受《權力遊戲》啟發的史詩級巨龍飛行序列，並具備逼真的物理效果與光影表現。
+
+#### 📝 提示詞
+
+```
+請忠實地將此參考圖像製作成一段 10-12 秒、令人屏息的電影級影片，風格需與 HBO《權力遊戲》及《龍族前傳》中史詩般的巨龍序列完全一致。請保持與參考圖像的高度連貫性——包括丹妮莉絲（Daenerys）的外觀、卓耿（Drogon）的解剖結構、鱗片、翅膀構造以及初始光影。
+
+卓耿以高速低空飛過君臨城（King's Landing）的屋頂，展現強而有力且逼真的拍翼動作與身體起伏。巨大的湍流火焰從其口中噴湧而出，火焰隨風與動作產生動態反應，具備逼真的流體物理效果，餘燼向後飛散，伴隨著強烈的熱扭曲與光暈效果。火焰從下方戲劇性地照亮了古老的石造建築與紅堡（Red Keep），產生變幻的暖色高光與深邃陰影。
+
+丹妮莉絲身體前傾，姿態威嚴，她的銀髮與厚重斗篷在高速風中猛烈飄動，展現出逼真的布料動態與慣性。空氣中飄浮著細微的火花與灰燼顆粒。
+
+攝影機：採用動態低角度電影級追蹤鏡頭，從略微後方與側面的位置跟隨卓耿，並與巨龍同步高速移動。攝影機隨著巨龍的動作細微地升降與傾斜，營造出強烈的速度感、規模感與沉浸感。鏡頭運動流暢且廣闊，融合了輕微的手持攝影質感與受控的電影級精準度。
+
+物理效果：高度逼真的巨龍翼膜彎曲與受風反應，個別翼指自然擺動，厚重的斗篷與頭髮具備真實的重量感與擾流效果，火焰展現出真實的流體動力學，並與空氣流動產生互動。
+
+光影與氛圍：龍焰作為主要的移動光源，從下方戲劇性地照亮城市建築。具備體積煙霧、餘燼與熱霾。史詩般的空間深度，城市上方籠罩著輕微的薄霧。
+
+原生同步音效：深沉強大的龍吼聲，混合著猛烈火焰的呼嘯聲、強勁的風聲，以及帶有自然殘響的遠處城市環境音。照片級真實渲染，動作連貫，細節精緻，無偽影，呈現出 ARRI Alexa 等級的影像保真度。傑作，極致的史詩規模、速度與電影級震撼力。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f64e6d9a9c5cdd32cb8c73cac1e521fc/thumbnails/thumbnail.jpg" width="600" alt="《權力遊戲》巨龍飛行電影級影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6172)**
+
+**作者:** [AYi](https://x.com/AYi_AInotes) | **來源:** [Link](https://x.com/AYi_AInotes/status/2067227900399562775) | **發布時間:** Jun 17, 2026
+
+---
+### 嘲諷笑容影片提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個 Grok Imagine 影片提示詞，描繪了一個人在微笑的同時做出俏皮的嘲諷手勢，捕捉到孩童般的表情。
+
+#### 📝 提示詞
+
+```
+她一句話也沒說，就像孩子嘲笑他人一樣做出「啦啦啦」的手勢，同時保持著微笑。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cd31fb0c4bf1e5446b1beecf277c60cf/thumbnails/thumbnail.jpg" width="600" alt="嘲諷笑容影片提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6174)**
+
+**作者:** [Vincent](https://x.com/Source3467) | **來源:** [Link](https://x.com/Source3467/status/2067176050639897060) | **發布時間:** Jun 17, 2026
+
+---
 ### 夢幻般的柔和動態與迴盪水聲
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2137,120 +2263,6 @@ Ricardo 進入了無人能擋的「駭客任務」模式，以驚人的武術與
 **作者:** [Ward'z de Souza I](https://x.com/Wardz_de_souzA) | **來源:** [Link](https://x.com/Wardz_de_souzA/status/2062925042980200505) | **發布時間:** Jun 5, 2026
 
 ---
-### 魔法森林的神話蛻變
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段電影級的縮時攝影，展現魔法森林甦醒的過程：樹木幻化為神話巨獸，藤蔓閃爍著神秘符文。
-
-#### 📝 提示詞
-
-```
-魔法森林蛻變，樹木幻化為神話巨獸，樹葉化作旋轉的魔法塵埃，藤蔓纏繞並閃爍著奧術符文，巫師法杖發出的光芒使地面產生漣漪，在 10 秒內呈現從寧靜到混亂的超現實縮時演變。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8c7a29371246778f02be11dbbbe08a65/thumbnails/thumbnail.jpg" width="600" alt="魔法森林的神話蛻變">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5971)**
-
-**作者:** [Mr Das](https://x.com/MrDasOnX) | **來源:** [Link](https://x.com/MrDasOnX/status/2062888976545910905) | **發布時間:** Jun 5, 2026
-
----
-### 浮空島嶼與岩石尖塔
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個電影級的影片提示詞，用於生成懸浮於金色雲海之上的地殼島嶼與參差岩石尖塔。
-
-#### 📝 提示詞
-
-```
-場景中矗立著巨大的參差岩石尖塔，以及懸浮在厚重、翻湧的金色雲海之上的地殼島嶼。環境保持完全不變……
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f4b19cb6d05cb55cda4096b2cc1434fd/thumbnails/thumbnail.jpg" width="600" alt="浮空島嶼與岩石尖塔">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5732)**
-
-**作者:** [amir prince arjmand kermani](https://x.com/PrinceKermani) | **來源:** [Link](https://x.com/PrinceKermani/status/2062781582730285234) | **發布時間:** Jun 5, 2026
-
----
-### 巨型日落浪潮衝浪
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個為 Grok Imagine 設計的電影級影片提示詞，描繪了一名衝浪者在科幻行星海灣的日落時分，駕馭 100 公尺巨浪的場景。
-
-#### 📝 提示詞
-
-```
-坐在我的 7’2” Channel Islands 衝浪板上，身處 X Planet 海灣的日落時分，背景是遙遠的山脈，水面堅韌且反射性極強，一道 100 公尺高的巨浪滾滾而來，站起來抓住右側軌道
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cacdcc7cb7cbf8d4e72ccd886fa3c077/thumbnails/thumbnail.jpg" width="600" alt="巨型日落浪潮衝浪">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5731)**
-
-**作者:** [Notzucow](https://x.com/Notzucow69) | **來源:** [Link](https://x.com/Notzucow69/status/2062757757128695887) | **發布時間:** Jun 5, 2026
-
----
-### 太空飛行中的漂浮感
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個啟發性的提示詞，用於創作一段人們在太空中驚嘆漂浮的影片，旨在慶祝太空飛行的樂趣。
-
-#### 📝 提示詞
-
-```
-他們正輕柔地漂浮在太空中，神情帶著細膩的喜悅與敬畏。期盼孩子們有朝一日能親身體驗太空飛行的樂趣！獻給全世界的孩子們
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/78359447c1b7c4038fbf73dd0b075512/thumbnails/thumbnail.jpg" width="600" alt="太空飛行中的漂浮感">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5708)**
-
-**作者:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **來源:** [Link](https://x.com/foxypatience/status/2062603835319705755) | **發布時間:** Jun 4, 2026
-
----
-### 米其林寶寶大戰魔鬼剋星
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段電影感十足的影片提示詞，重現《魔鬼剋星》結局場景，但將紐約市中的棉花糖寶寶替換為巨大的米其林寶寶。
-
-#### 📝 提示詞
-
-```
-史詩級重現《魔鬼剋星》（1984 年）的最終決戰場景，但取代棉花糖寶寶的，是一個完全由巨大白色棉花糖組成的巨型米其林寶寶（Michelin Bibendum）。他有摩天大樓般高大，站在紐約市街道中央，帶著天真無邪的笑容俯瞰下方。他柔軟蓬鬆的棉花糖身體呈現經典的米其林寶寶堆疊造型。驚慌失措的紐約客四處逃竄，黃色計程車在他腳下被壓扁，周圍伴隨著爆炸與煙霧，戲劇性的低角度視角，電影般的夕陽火光照明，實體特效風格，超高細節，傑作。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a1f2f6599f98d16a2bdcfd8d69bf3107/thumbnails/thumbnail.jpg" width="600" alt="米其林寶寶大戰魔鬼剋星">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5760)**
-
-**作者:** [Déborah](https://x.com/dvorahfr) | **來源:** [Link](https://x.com/dvorahfr/status/2062548615558520998) | **發布時間:** Jun 4, 2026
-
----
-### Celestial Shimmering Angel Wings
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用於生成一段影片的提示詞，展現出閃爍著虹彩光芒的翅膀，並帶有天界光輝中優雅的天使氣息。
-
-#### 📝 提示詞
-
-```
-在天界夢境中閃爍的虹彩翅膀……籠罩在空靈光輝中，優雅的天使氣息。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e9c8d1355aa266a47dbcc282c9274428/thumbnails/thumbnail.jpg" width="600" alt="Celestial Shimmering Angel Wings">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=5711)**
-
-**作者:** [Stella 𝕏](https://x.com/StellaGrokStar) | **來源:** [Link](https://x.com/StellaGrokStar/status/2062504737086611629) | **發布時間:** Jun 4, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2312,6 +2324,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-06-18T04:57:11.504Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-06-18T12:12:18.686Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **1850** |
+| 📝 총 프롬프트 수 | **1856** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-06-18** |
 
@@ -189,6 +189,132 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 구름 위에 떠 있는 중국식 궁전 선박
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 구름 사이를 항해하는 고대 선박 형태의 중국식 궁전을 고품질 영상으로 생성하기 위한 정교한 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+걸작, 최고 품질, 구름 사이를 떠다니는 웅장한 고대 선박 형태의 거대한 중국식 궁전을 담은 초정밀 영화적 디지털 페인팅. 전통적인 중국 건축 양식의 화려한 다층 구조, 금색 디테일, 붉은 등불, 정교한 목공예가 특징입니다. 밝은 하늘 아래 햇살이 내리쬐는 가운데 드라마틱한 구름과 떠 있는 바위산들에 둘러싸여 있습니다. 웅장한 규모, 부드러운 빛줄기와 떠다니는 입자들이 어우러진 신비롭고 장엄한 분위기. 매우 상세한 건축물, 구름, 조명 묘사. 왼쪽 하단 모서리에 세련된 필기체 서예 스타일로 'Kisalay'라는 작은 서명을 추가할 것. 그 외 다른 텍스트나 워터마크는 없음. 영화적 구도, 생동감 있으면서도 우아한 색감, 최고 품질, 8K 해상도.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4e591b16cafcb840fda94b6448589caa/thumbnails/thumbnail.jpg" width="600" alt="구름 위에 떠 있는 중국식 궁전 선박">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6171)**
+
+**작성자:** [⭕Kisalay](https://x.com/Kisalay_) | **출처:** [Link](https://x.com/Kisalay_/status/2067323749532316148) | **게시일:** Jun 17, 2026
+
+---
+### 연기 자욱한 바 입장 장면
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 시작 및 종료 프레임 참조를 사용하여 캐릭터가 연기 가득한 바에 들어가는 모습을 보여주는 영화 같은 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+@image1 이미지로 시작하여 @image2 이미지로 종료, 남자들이 열린 문을 통해 연기 자욱한 바 안으로 걸어 들어가는 영화 같은 순간. 음악 없음. 대사 없음.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/250a2e8d261b1b2527f8abda3bea4351/thumbnails/thumbnail.jpg" width="600" alt="연기 자욱한 바 입장 장면">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6170)**
+
+**작성자:** [Jennifer 🇺🇸 🦅](https://x.com/Jenny_MommaLion) | **출처:** [Link](https://x.com/Jenny_MommaLion/status/2067298333295862106) | **게시일:** Jun 17, 2026
+
+---
+### 영화 같은 무술 격투 시퀀스
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 복잡한 동작, 역동적인 카메라 앵글, 사실적인 물리 효과를 갖춘 무술가의 6초 분량 영상을 위한 종합 액션 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+걸작 수준의 퀄리티, 거친 지형을 가로지르며 잔혹하고 강렬한 격투를 벌이는 숙련된 파이터의 6초 영상. 캐릭터는 회전 발차기, 플라잉 니킥, 공중제비, 벽 타기, 강력한 테이크다운 등 빠르고 파워풀한 무술 콤보를 선보입니다. 묵직한 타격감과 운동량이 느껴지는 사실적인 물리 효과. 트래킹 샷, 회전 카메라, 드라마틱한 로우 앵글 등 역동적인 카메라 워킹. 영화 같은 조명, 선명한 동작, 강렬하고 생생한 액션, 컷 편집 없음, 부드럽고 강력한 안무, 최고 품질, 6초 영상.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f7f265442f781b2993abd2a68b8b9041/thumbnails/thumbnail.jpg" width="600" alt="영화 같은 무술 격투 시퀀스">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6169)**
+
+**작성자:** [⭕Kisalay](https://x.com/Kisalay_) | **출처:** [Link](https://x.com/Kisalay_/status/2067298200520896673) | **게시일:** Jun 17, 2026
+
+---
+### 일본어 신나는 발표 립싱크
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 자연스러운 흥분, 손동작, 머리카락 움직임이 포함된 사실적인 일본어 립싱크 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+자연스럽고 신나는 일본어, 또렷한 음성, 완벽한 립싱크. 가벼운 손동작과 찰랑거리는 머리카락. "여러분! xAI 에서 Grok Imagine Video 1.5 를 출시했습니다! 이미지 투 비디오 생성 기술이 크게 진화했습니다. 음성과 립싱크가 완벽하게 동기화되며, 물리 연산이 더욱 사실적으로 개선되었습니다. 생성 속도는 2 배 더 빨라졌고, 약 25 초 만에 제작이 가능합니다."
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067236538212331520/img/TpprEy-FXWKCbcIA.jpg" width="600" alt="일본어 신나는 발표 립싱크">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6173)**
+
+**작성자:** [右よし左よし秋よし@AIエンタメ](https://x.com/akiyoshisan) | **출처:** [Link](https://x.com/akiyoshisan/status/2067236929989423431) | **게시일:** Jun 17, 2026
+
+---
+### 왕좌의 게임 드래곤 비행 시네마틱 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 왕좌의 게임에서 영감을 받아 사실적인 물리 효과와 조명을 갖춘, 에픽 드래곤 비행 시퀀스로 참조 이미지를 애니메이션화하기 위한 고도로 상세한 시네마틱 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+이 참조 이미지를 HBO 왕좌의 게임 및 하우스 오브 드래곤의 에픽 드래곤 시퀀스와 동일한 시각적 스타일로 10~12초 분량의 숨 막히는 시네마틱 영상으로 충실하게 애니메이션화하세요. 대너리스의 외형, 드로곤의 해부학적 구조, 비늘, 날개 구조, 초기 조명 등 참조 이미지와의 완벽한 일관성을 유지하세요.
+
+드로곤이 킹스 랜딩의 지붕 위를 낮게 고속으로 비행하며 강력하고 사실적인 날갯짓과 몸의 움직임을 보여줍니다. 입에서는 거대한 불길이 뿜어져 나오며, 불꽃은 바람과 움직임에 역동적으로 반응하고 사실적인 유체 물리 효과를 나타냅니다. 타오르는 불씨가 뒤로 날리고, 강렬한 열기 왜곡과 빛 번짐(light bloom) 효과가 나타납니다. 불길은 아래에서 고대 석조 건물과 레드 킵을 극적으로 비추며 따뜻한 하이라이트와 깊은 그림자를 만들어냅니다.
+
+대너리스는 위엄 있는 자세로 몸을 앞으로 숙이고 있으며, 그녀의 은색 머리카락과 두꺼운 망토는 고속의 바람에 격렬하게 휘날리며 사실적인 직물 역학 및 관성을 보여줍니다. 공기 중에는 미세한 불꽃과 재 입자가 떠다닙니다.
+
+카메라: 드로곤의 뒤쪽 약간 측면에서 드로곤과 함께 고속으로 이동하며 따라가는 역동적인 로우 앵글 시네마틱 트래킹 샷입니다. 카메라는 드로곤의 움직임에 따라 미묘하게 상승하고 기울어지며, 속도감과 규모감, 몰입감을 극대화합니다. 핸드헬드 느낌이 살짝 가미된, 통제된 시네마틱 정밀함과 함께 유려하게 훑는 카메라 워킹을 구현하세요.
+
+물리 효과: 바람을 받아 유연하게 움직이는 드래곤 날개 막, 자연스럽게 움직이는 개별 날개 손가락, 실제 무게감과 난기류가 느껴지는 두꺼운 망토와 머리카락, 공기 흐름과 상호작용하는 실제 유체 역학적 불꽃을 표현하세요.
+
+조명 및 분위기: 드래곤의 불길이 주요 광원이 되어 아래에서 도시 건축물을 극적으로 비춥니다. 볼륨감 있는 연기, 불씨, 아지랑이를 표현하세요. 도시 위로 옅은 안개가 깔린 에픽한 분위기의 깊이감을 연출하세요.
+
+네이티브 동기화 오디오: 강렬한 불길이 뿜어져 나오는 소리와 섞인 깊고 강력한 드래곤의 포효, 거센 바람 소리, 자연스러운 잔향이 섞인 먼 도시의 소음을 포함하세요. 사실적인 렌더링, 일관된 움직임, 복잡한 디테일, 아티팩트 없는 ARRI Alexa 수준의 충실도로 촬영된 영상입니다. 걸작 수준의 에픽한 규모, 속도감, 시네마틱한 임팩트를 구현하세요.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f64e6d9a9c5cdd32cb8c73cac1e521fc/thumbnails/thumbnail.jpg" width="600" alt="왕좌의 게임 드래곤 비행 시네마틱 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6172)**
+
+**작성자:** [AYi](https://x.com/AYi_AInotes) | **출처:** [Link](https://x.com/AYi_AInotes/status/2067227900399562775) | **게시일:** Jun 17, 2026
+
+---
+### 조롱하는 미소 비디오 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 천진난만한 표정으로 장난스럽게 조롱하는 제스처를 취하는 사람을 묘사한 Grok Imagine 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+아무 말 없이, 그녀는 미소를 유지한 채 아이가 남을 놀릴 때 하는 '메롱' 제스처를 취합니다.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cd31fb0c4bf1e5446b1beecf277c60cf/thumbnails/thumbnail.jpg" width="600" alt="조롱하는 미소 비디오 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6174)**
+
+**작성자:** [Vincent](https://x.com/Source3467) | **출처:** [Link](https://x.com/Source3467/status/2067176050639897060) | **게시일:** Jun 17, 2026
+
+---
 ### 몽환적인 부드러운 움직임과 울려 퍼지는 물소리
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2130,120 +2256,6 @@ Jilla가 말합니다. "한 걸음 한 걸음 모두 다."
 **작성자:** [Ward'z de Souza I](https://x.com/Wardz_de_souzA) | **출처:** [Link](https://x.com/Wardz_de_souzA/status/2062925042980200505) | **게시일:** Jun 5, 2026
 
 ---
-### 마법의 숲 신화적 변신
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 나무가 신화 속 괴수로 변하고 덩굴이 마법 룬으로 빛나며 깨어나는 마법의 숲을 담은 영화 같은 타임랩스 영상입니다.
-
-#### 📝 프롬프트
-
-```
-마법의 숲 변신, 나무들이 신화 속 괴수로 변하고 나뭇잎은 소용돌이치는 마법 가루로 변하며, 덩굴이 얽히고 신비로운 룬 문자로 빛납니다. 마법사의 지팡이가 빛을 발하며 지면이 물결치는 초현실적인 타임랩스 진화 과정을 10초 안에 평온함에서 혼돈으로 담아냈습니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8c7a29371246778f02be11dbbbe08a65/thumbnails/thumbnail.jpg" width="600" alt="마법의 숲 신화적 변신">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5971)**
-
-**작성자:** [Mr Das](https://x.com/MrDasOnX) | **출처:** [Link](https://x.com/MrDasOnX/status/2062888976545910905) | **게시일:** Jun 5, 2026
-
----
-### 떠다니는 섬과 뾰족한 바위 첨탑
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 황금빛 구름 위로 떠 있는 지각 섬과 뾰족한 바위 첨탑을 생성하기 위한 영화 같은 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-이 장면은 거대하고 뾰족한 바위 첨탑과 황금빛 구름이 넘실거리는 바다 위에 떠 있는 지각 섬들이 압도적인 분위기를 자아냅니다. 주변 환경은 전혀 변하지 않은 상태입니다....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f4b19cb6d05cb55cda4096b2cc1434fd/thumbnails/thumbnail.jpg" width="600" alt="떠다니는 섬과 뾰족한 바위 첨탑">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5732)**
-
-**작성자:** [amir prince arjmand kermani](https://x.com/PrinceKermani) | **출처:** [Link](https://x.com/PrinceKermani/status/2062781582730285234) | **게시일:** Jun 5, 2026
-
----
-### 거대한 일몰 파도 서핑
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine을 위한 시네마틱 비디오 프롬프트로, 공상과학 행성의 만에서 일몰을 배경으로 100미터 높이의 파도를 타는 서퍼를 묘사합니다.
-
-#### 📝 프롬프트
-
-```
-일몰 무렵 X 행성의 만에서 7피트 2인치 Channel Islands 서핑보드 위에 앉아 있는 모습, 배경에는 멀리 산들이 보이고, 물은 탄력 있고 반사율이 높음, 100미터 높이의 거대한 파도가 밀려오고, 일어서서 오른쪽 레일을 잡는 장면
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cacdcc7cb7cbf8d4e72ccd886fa3c077/thumbnails/thumbnail.jpg" width="600" alt="거대한 일몰 파도 서핑">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5731)**
-
-**작성자:** [Notzucow](https://x.com/Notzucow69) | **출처:** [Link](https://x.com/Notzucow69/status/2062757757128695887) | **게시일:** Jun 5, 2026
-
----
-### 우주 비행 중의 유영
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 우주를 유영하며 경이로움을 느끼는 사람들의 모습을 담은 영감을 주는 비디오 프롬프트로, 우주 비행의 즐거움을 기념합니다.
-
-#### 📝 프롬프트
-
-```
-그들은 우주를 부드럽게 유영하며 은은한 행복과 경이로움을 느끼고 있습니다. 언젠가 아이들이 우주 비행의 즐거움을 경험하기를 바라며! 전 세계의 모든 아이들에게
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/78359447c1b7c4038fbf73dd0b075512/thumbnails/thumbnail.jpg" width="600" alt="우주 비행 중의 유영">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5708)**
-
-**작성자:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **출처:** [Link](https://x.com/foxypatience/status/2062603835319705755) | **게시일:** Jun 4, 2026
-
----
-### 미쉐린 맨 고스트버스터즈 전투
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 뉴욕시를 배경으로 고스트버스터즈의 결말을 재현하되, 스테이 퍼프트 마시멜로 맨 대신 거대한 미쉐린 맨이 등장하는 시네마틱 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-고스트버스터즈 (1984)의 마지막 전투 장면을 장대하게 재현한 영상. 스테이 퍼프트 마시멜로 맨 대신, 거대한 흰색 마시멜로로 만들어진 거구의 미쉐린 비벤덤이 등장합니다. 그는 마천루만큼 거대한 크기로 뉴욕 시내 한복판에 서서 순진한 미소를 지으며 아래를 내려다보고 있습니다. 부드럽고 폭신한 마시멜로 몸체는 미쉐린 맨 특유의 겹쳐진 형태를 하고 있습니다. 겁에 질려 도망치는 뉴욕 시민들, 발밑에 짓눌린 노란 택시, 주변의 폭발과 연기, 극적인 로우 앵글 시점, 불타는 노을을 배경으로 한 시네마틱 조명, 실사 특수 효과 스타일, 초고화질, 걸작.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a1f2f6599f98d16a2bdcfd8d69bf3107/thumbnails/thumbnail.jpg" width="600" alt="미쉐린 맨 고스트버스터즈 전투">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5760)**
-
-**작성자:** [Déborah](https://x.com/dvorahfr) | **출처:** [Link](https://x.com/dvorahfr/status/2062548615558520998) | **게시일:** Jun 4, 2026
-
----
-### 천상의 빛을 내는 천사 날개
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 천상의 빛 속에서 우아한 천사의 존재감과 함께 반짝이는 무지갯빛 날개 영상을 생성하기 위한 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-천상의 꿈속에서 반짝이는 무지갯빛 날개… 신비로운 빛에 감싸인 우아한 천사의 모습.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e9c8d1355aa266a47dbcc282c9274428/thumbnails/thumbnail.jpg" width="600" alt="천상의 빛을 내는 천사 날개">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=5711)**
-
-**작성자:** [Stella 𝕏](https://x.com/StellaGrokStar) | **출처:** [Link](https://x.com/StellaGrokStar/status/2062504737086611629) | **게시일:** Jun 4, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2305,6 +2317,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-18T04:57:13.782Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-18T12:12:20.547Z</sub>
 
 </div>

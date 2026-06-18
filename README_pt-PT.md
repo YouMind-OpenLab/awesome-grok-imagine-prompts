@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1850** |
+| 📝 Total Prompts | **1856** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-18** |
 
@@ -189,6 +189,132 @@ Uma Valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Palácio Chinês Flutuante em Forma de Navio
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt elaborado para gerar um vídeo de alta qualidade de um palácio chinês flutuante projetado como um antigo navio entre as nuvens.
+
+#### 📝 Prompt
+
+```
+Obra-prima, melhor qualidade, pintura digital cinematográfica ultra detalhada de um enorme palácio chinês flutuante construído como um grandioso navio antigo, pairando entre as nuvens. A estrutura apresenta vários níveis ornamentados com arquitetura tradicional chinesa, detalhes dourados, lanternas vermelhas e marcenaria intrincada. Está cercado por nuvens dramáticas e montanhas rochosas flutuantes sob um céu brilhante com a luz do sol atravessando. Escala épica, atmosfera majestosa e mística com raios de luz suaves e partículas flutuantes. Arquitetura, nuvens e iluminação altamente detalhadas. No canto inferior esquerdo, adicione uma pequena e elegante assinatura lendo exatamente 'Kisalay' em estilo de caligrafia refinada feita à mão. Nenhum outro texto ou marca d'água. Composição cinematográfica, cores vibrantes, porém elegantes, melhor qualidade, resolução 8K.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4e591b16cafcb840fda94b6448589caa/thumbnails/thumbnail.jpg" width="600" alt="Palácio Chinês Flutuante em Forma de Navio">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6171)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067323749532316148) | **Published:** Jun 17, 2026
+
+---
+### Tomada de entrada em bar enfumaçado
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico usando referências de quadros inicial e final para mostrar personagens entrando em um bar cheio de fumaça.
+
+#### 📝 Prompt
+
+```
+comece com a imagem @image1 e termine com @image2 enquanto os homens caminham através de uma porta aberta para dentro de um bar cheio de fumaça, momento cinematográfico. Sem música. Sem falas.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/250a2e8d261b1b2527f8abda3bea4351/thumbnails/thumbnail.jpg" width="600" alt="Tomada de entrada em bar enfumaçado">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6170)**
+
+**Author:** [Jennifer 🇺🇸 🦅](https://x.com/Jenny_MommaLion) | **Source:** [Link](https://x.com/Jenny_MommaLion/status/2067298333295862106) | **Published:** Jun 17, 2026
+
+---
+### Sequência de Combate de Artes Marciais Cinematográfica
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de ação abrangente para um vídeo de 6 segundos mostrando um lutador de artes marciais realizando manobras complexas com ângulos de câmera dinâmicos e física realista.
+
+#### 📝 Prompt
+
+```
+Qualidade de obra-prima, vídeo de 6 segundos de um lutador altamente qualificado atravessando um terreno acidentado enquanto está envolvido em uma luta brutal e de alta intensidade. O personagem realiza combos de artes marciais rápidos e poderosos, incluindo chutes giratórios, joelhadas voadoras, mortais aéreos, corridas na parede e quedas selvagens. Física realista forte com impacto pesado e impulso. Trabalho de câmera dinâmico com planos de acompanhamento, câmera circular e ângulos baixos dramáticos. Iluminação cinematográfica, nitidez de movimento, ação intensa e crua, sem cortes, coreografia suave e poderosa, melhor qualidade, vídeo de 6 segundos.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f7f265442f781b2993abd2a68b8b9041/thumbnails/thumbnail.jpg" width="600" alt="Sequência de Combate de Artes Marciais Cinematográfica">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6169)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067298200520896673) | **Published:** Jun 17, 2026
+
+---
+### Anúncio empolgado em japonês com sincronia labial
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Um prompt para sincronia labial realista em japonês com empolgação natural, gestos com as mãos e movimento de cabelo.
+
+#### 📝 Prompt
+
+```
+Japonês natural e empolgado, voz clara, sincronia labial perfeita. Gestos leves com as mãos, cabelo balançando. "Pessoal! A xAI lançou o Grok Imagine Video 1.5! A geração de imagem para vídeo evoluiu significativamente. A voz e a sincronia labial estão perfeitamente alinhadas, e os cálculos de física melhoraram de forma realista. A velocidade de geração ficou duas vezes mais rápida, e pode ser feito em cerca de 25 segundos."
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067236538212331520/img/TpprEy-FXWKCbcIA.jpg" width="600" alt="Anúncio empolgado em japonês com sincronia labial">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6173)**
+
+**Author:** [右よし左よし秋よし@AIエンタメ](https://x.com/akiyoshisan) | **Source:** [Link](https://x.com/akiyoshisan/status/2067236929989423431) | **Published:** Jun 17, 2026
+
+---
+### Vídeo cinematográfico de voo de dragão estilo Game of Thrones
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt cinematográfico altamente detalhado para animar uma imagem de referência em uma sequência épica de voo de dragão inspirada em Game of Thrones, apresentando física e iluminação realistas.
+
+#### 📝 Prompt
+
+```
+Anime fielmente esta imagem de referência em um vídeo cinematográfico de tirar o fôlego de 10 a 12 segundos, no estilo visual exato das sequências épicas de dragões de Game of Thrones e House of the Dragon da HBO. Mantenha a consistência perfeita com a imagem de referência — a aparência de Daenerys, a anatomia de Drogon, as escamas, a estrutura das asas e a iluminação inicial.
+
+Drogon voa em alta velocidade sobre os telhados de Porto Real com batidas de asas poderosas e realistas e ondulação corporal. Um fogo turbulento e massivo irrompe de suas mandíbulas, com chamas reagindo dinamicamente ao vento e ao movimento com física de fluidos realista, brasas brilhantes voando para trás, distorção de calor intensa e brilho de luz (bloom). O fogo ilumina dramaticamente as antigas construções de pedra e a Fortaleza Vermelha por baixo, com reflexos quentes variáveis e sombras profundas.
+
+Daenerys inclina-se para frente com uma postura imponente, seu cabelo prateado e capa pesada chicoteando violentamente com o vento de alta velocidade, com dinâmica de tecido e inércia realistas. Faíscas sutis e partículas de cinzas no ar.
+
+Câmera: Tomada de rastreamento cinematográfica dinâmica em ângulo baixo que segue Drogon de uma posição ligeiramente atrás e lateral, movendo-se em alta velocidade com o dragão. A câmera sobe e inclina-se sutilmente com o movimento do dragão, criando uma poderosa sensação de velocidade, escala e imersão. Movimento de câmera fluido e abrangente, com uma leve energia de câmera na mão misturada com precisão cinematográfica controlada.
+
+Física: Membrana das asas do dragão altamente realista flexionando e capturando o vento, dedos individuais das asas movendo-se naturalmente, capa pesada e cabelo com peso e turbulência autênticos, fogo comportando-se com dinâmica de fluidos real e interação com o movimento do ar.
+
+Iluminação e atmosfera: O fogo do dragão fornece a principal fonte de luz móvel, iluminando dramaticamente a arquitetura da cidade por baixo. Fumaça volumétrica, brasas e névoa de calor. Profundidade atmosférica épica com leve névoa sobre a cidade.
+
+Áudio sincronizado nativo: Rugido de dragão profundo e poderoso misturado com o som intenso do fogo, forte rajada de vento e ambiente distante da cidade com reverberação natural. Renderização fotorrealista, movimento coerente, detalhes intrincados, sem artefatos, filmado com fidelidade de nível ARRI Alexa. Obra-prima, escala épica máxima, velocidade e impacto cinematográfico.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f64e6d9a9c5cdd32cb8c73cac1e521fc/thumbnails/thumbnail.jpg" width="600" alt="Vídeo cinematográfico de voo de dragão estilo Game of Thrones">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6172)**
+
+**Author:** [AYi](https://x.com/AYi_AInotes) | **Source:** [Link](https://x.com/AYi_AInotes/status/2067227900399562775) | **Published:** Jun 17, 2026
+
+---
+### Prompt de vídeo de sorriso zombeteiro
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo para o Grok Imagine que retrata uma pessoa fazendo um gesto de zombaria brincalhão enquanto sorri, capturando uma expressão infantil.
+
+#### 📝 Prompt
+
+```
+Sem dizer nada, ela faz um gesto de 'na na nère' como uma criança zombando dos outros enquanto mantém um sorriso.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cd31fb0c4bf1e5446b1beecf277c60cf/thumbnails/thumbnail.jpg" width="600" alt="Prompt de vídeo de sorriso zombeteiro">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6174)**
+
+**Author:** [Vincent](https://x.com/Source3467) | **Source:** [Link](https://x.com/Source3467/status/2067176050639897060) | **Published:** Jun 17, 2026
+
+---
 ### Movimento Suave e Onírico com Eco de Água
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2132,120 +2258,6 @@ Anime esta cena a partir da imagem anexada, mantenha o estilo dos traços e do d
 **Author:** [Ward'z de Souza I](https://x.com/Wardz_de_souzA) | **Source:** [Link](https://x.com/Wardz_de_souzA/status/2062925042980200505) | **Published:** Jun 5, 2026
 
 ---
-### Transformação Mítica da Floresta Encantada
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Uma sequência cinematográfica em time-lapse que mostra uma floresta encantada despertando enquanto árvores se transformam em bestas míticas e vinhas pulsam com runas mágicas.
-
-#### 📝 Prompt
-
-```
-Transformação da floresta encantada, árvores se transformam em bestas míticas, folhas se tornam pó mágico rodopiante, vinhas se entrelaçam e brilham com runas arcanas, o cajado de um mago pulsa luz fazendo o solo ondular, evolução surreal em time-lapse de serena a caótica em 10 segundos.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8c7a29371246778f02be11dbbbe08a65/thumbnails/thumbnail.jpg" width="600" alt="Transformação Mítica da Floresta Encantada">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5971)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2062888976545910905) | **Published:** Jun 5, 2026
-
----
-### Ilhas Flutuantes e Pináculos de Rocha
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cinematográfico para gerar ilhas tectônicas flutuantes e pináculos de rocha irregulares acima de nuvens douradas.
-
-#### 📝 Prompt
-
-```
-A cena é dominada por pináculos de rocha gigantescos e irregulares e ilhas tectônicas flutuantes suspensas acima de um mar espesso e ondulante de nuvens douradas. O ambiente permanece completamente inalterado....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f4b19cb6d05cb55cda4096b2cc1434fd/thumbnails/thumbnail.jpg" width="600" alt="Ilhas Flutuantes e Pináculos de Rocha">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5732)**
-
-**Author:** [amir prince arjmand kermani](https://x.com/PrinceKermani) | **Source:** [Link](https://x.com/PrinceKermani/status/2062781582730285234) | **Published:** Jun 5, 2026
-
----
-### Surfe em onda gigante ao pôr do sol
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cinematográfico para o Grok Imagine que retrata um surfista pegando uma onda de 100 metros em uma enseada planetária de ficção científica ao pôr do sol.
-
-#### 📝 Prompt
-
-```
-Sentado na minha prancha Channel Islands 7’2” ao pôr do sol na enseada do Planeta X, montanhas distantes ao fundo, águas resilientes e altamente reflexivas, uma onda massiva de 100 metros chegando, em pé, segurando a borda direita
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cacdcc7cb7cbf8d4e72ccd886fa3c077/thumbnails/thumbnail.jpg" width="600" alt="Surfe em onda gigante ao pôr do sol">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5731)**
-
-**Author:** [Notzucow](https://x.com/Notzucow69) | **Source:** [Link](https://x.com/Notzucow69/status/2062757757128695887) | **Published:** Jun 5, 2026
-
----
-### Flutuando em um Voo Espacial
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt inspirador para um vídeo de pessoas flutuando pelo espaço com admiração, celebrando a alegria do voo espacial.
-
-#### 📝 Prompt
-
-```
-Eles flutuam suavemente pelo espaço, sutilmente felizes e maravilhados. Na esperança de que as crianças um dia experimentem o prazer do Voo Espacial! Para todas as crianças do Mundo
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/78359447c1b7c4038fbf73dd0b075512/thumbnails/thumbnail.jpg" width="600" alt="Flutuando em um Voo Espacial">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5708)**
-
-**Author:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **Source:** [Link](https://x.com/foxypatience/status/2062603835319705755) | **Published:** Jun 4, 2026
-
----
-### Batalha do Michelin Man em Ghostbusters
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cinematográfico que recria o final de Ghostbusters, mas apresentando um Michelin Man gigante em vez do Stay Puft Marshmallow Man na cidade de Nova York.
-
-#### 📝 Prompt
-
-```
-Recriação épica da cena da batalha final de Ghostbusters (1984), mas em vez do Stay Puft Marshmallow Man, temos um colossal Michelin Bibendum feito inteiramente de marshmallows brancos gigantes. Ele tem o tamanho de um arranha-céu, parado no meio das ruas da cidade de Nova York, olhando para baixo com um grande sorriso inocente. Seu corpo macio e fofo de marshmallow tem o formato clássico empilhado do Michelin Man. Nova-iorquinos em pânico fugindo, táxis amarelos esmagados sob seus pés, explosões e fumaça ao redor dele, perspectiva dramática de ângulo baixo, iluminação cinematográfica com pôr do sol ardente, estilo de efeitos especiais práticos, ultradetalhado, obra-prima
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a1f2f6599f98d16a2bdcfd8d69bf3107/thumbnails/thumbnail.jpg" width="600" alt="Batalha do Michelin Man em Ghostbusters">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5760)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2062548615558520998) | **Published:** Jun 4, 2026
-
----
-### Asas de Anjo Celestial Cintilantes
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt para gerar um vídeo de asas iridescentes cintilando com uma graciosa presença angelical em um brilho celestial.
-
-#### 📝 Prompt
-
-```
-Asas iridescentes cintilando em sonhos celestiais… Uma graciosa presença angelical envolta em um brilho etéreo.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e9c8d1355aa266a47dbcc282c9274428/thumbnails/thumbnail.jpg" width="600" alt="Asas de Anjo Celestial Cintilantes">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5711)**
-
-**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2062504737086611629) | **Published:** Jun 4, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2307,6 +2319,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-18T04:57:28.100Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-18T12:12:32.208Z</sub>
 
 </div>

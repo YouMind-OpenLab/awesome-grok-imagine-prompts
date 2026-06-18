@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1850** |
+| 📝 Total Prompts | **1856** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-18** |
 
@@ -189,6 +189,132 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Cung điện Trung Hoa nổi trên không trung
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh chi tiết để tạo video chất lượng cao về một cung điện Trung Hoa được thiết kế như một con tàu cổ đại trôi giữa những tầng mây.
+
+#### 📝 Prompt
+
+```
+Kiệt tác, chất lượng tốt nhất, tranh kỹ thuật số điện ảnh siêu chi tiết về một cung điện Trung Hoa khổng lồ được xây dựng như một con tàu cổ đại tráng lệ, lơ lửng giữa những tầng mây. Cấu trúc có nhiều tầng lớp trang trí công phu với kiến trúc Trung Hoa truyền thống, các chi tiết mạ vàng, đèn lồng đỏ và chạm khắc gỗ tinh xảo. Cung điện được bao quanh bởi những đám mây hùng vĩ và các ngọn núi đá trôi nổi dưới bầu trời sáng với ánh nắng xuyên qua. Quy mô hoành tráng, bầu không khí uy nghiêm và huyền bí với những tia sáng dịu nhẹ và các hạt bụi lơ lửng. Kiến trúc, mây và ánh sáng có độ chi tiết cao. Ở góc dưới bên trái, thêm một chữ ký nhỏ thanh lịch với nội dung chính xác là 'Kisalay' theo phong cách thư pháp viết tay tinh tế. Không có văn bản hoặc hình mờ nào khác. Bố cục điện ảnh, màu sắc rực rỡ nhưng thanh lịch, chất lượng tốt nhất, độ phân giải 8K.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4e591b16cafcb840fda94b6448589caa/thumbnails/thumbnail.jpg" width="600" alt="Cung điện Trung Hoa nổi trên không trung">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6171)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067323749532316148) | **Published:** Jun 17, 2026
+
+---
+### Cảnh quay bước vào quán bar đầy khói
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video điện ảnh sử dụng tham chiếu khung hình bắt đầu và kết thúc để mô tả các nhân vật bước vào một quán bar đầy khói.
+
+#### 📝 Prompt
+
+```
+bắt đầu với hình ảnh @image1 và kết thúc với @image2 khi những người đàn ông bước qua cánh cửa mở vào một quán bar đầy khói, khoảnh khắc điện ảnh. Không nhạc. Không lời thoại.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/250a2e8d261b1b2527f8abda3bea4351/thumbnails/thumbnail.jpg" width="600" alt="Cảnh quay bước vào quán bar đầy khói">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6170)**
+
+**Author:** [Jennifer 🇺🇸 🦅](https://x.com/Jenny_MommaLion) | **Source:** [Link](https://x.com/Jenny_MommaLion/status/2067298333295862106) | **Published:** Jun 17, 2026
+
+---
+### Chuỗi hành động võ thuật đậm chất điện ảnh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) hành động toàn diện cho video dài 6 giây, mô tả một võ sĩ thực hiện các kỹ thuật phức tạp với góc máy linh hoạt và vật lý chân thực.
+
+#### 📝 Prompt
+
+```
+Chất lượng tuyệt tác, video dài 6 giây về một võ sĩ điêu luyện đang di chuyển trên địa hình gồ ghề trong một trận chiến khốc liệt, cường độ cao. Nhân vật thực hiện các combo võ thuật nhanh và mạnh mẽ bao gồm cú đá xoay, lên gối bay, nhào lộn trên không, chạy trên tường và các đòn vật hạ gục tàn bạo. Vật lý chân thực mạnh mẽ với tác động và động lượng lớn. Góc máy linh hoạt với các cảnh quay bám đuổi, camera xoay vòng và góc thấp đầy kịch tính. Ánh sáng điện ảnh, chuyển động sắc nét, hành động dữ dội và chân thực, không cắt cảnh, biên đạo mượt mà và mạnh mẽ, chất lượng tốt nhất, video dài 6 giây.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f7f265442f781b2993abd2a68b8b9041/thumbnails/thumbnail.jpg" width="600" alt="Chuỗi hành động võ thuật đậm chất điện ảnh">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6169)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067298200520896673) | **Published:** Jun 17, 2026
+
+---
+### Thông báo hào hứng bằng tiếng Nhật với tính năng Lip-Sync
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một câu lệnh (prompt) để tạo lip-sync chân thực bằng tiếng Nhật với sự hào hứng tự nhiên, cử chỉ tay và chuyển động tóc.
+
+#### 📝 Prompt
+
+```
+Tiếng Nhật hào hứng tự nhiên, giọng nói rõ ràng, lip-sync hoàn hảo. Cử chỉ tay nhẹ nhàng, tóc đung đưa. "Mọi người ơi! xAI vừa ra mắt Grok Imagine Video 1.5! Khả năng tạo video từ hình ảnh đã phát triển vượt bậc. Giọng nói và lip-sync được đồng bộ hóa hoàn hảo, đồng thời các tính toán vật lý cũng được cải thiện một cách chân thực. Tốc độ tạo video đã nhanh gấp đôi và chỉ mất khoảng 25 giây để hoàn thành."
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067236538212331520/img/TpprEy-FXWKCbcIA.jpg" width="600" alt="Thông báo hào hứng bằng tiếng Nhật với tính năng Lip-Sync">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6173)**
+
+**Author:** [右よし左よし秋よし@AIエンタメ](https://x.com/akiyoshisan) | **Source:** [Link](https://x.com/akiyoshisan/status/2067236929989423431) | **Published:** Jun 17, 2026
+
+---
+### Video điện ảnh về chuyến bay của rồng trong Game of Thrones
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) điện ảnh chi tiết cao để chuyển đổi hình ảnh tham chiếu thành phân cảnh rồng bay hùng tráng lấy cảm hứng từ Game of Thrones, với hiệu ứng vật lý và ánh sáng chân thực.
+
+#### 📝 Prompt
+
+```
+Chuyển đổi hình ảnh tham chiếu này thành một video điện ảnh ngoạn mục dài 10-12 giây, giữ nguyên phong cách hình ảnh của các phân cảnh rồng hùng tráng trong Game of Thrones và House of the Dragon của HBO. Duy trì sự nhất quán hoàn hảo với hình ảnh tham chiếu — ngoại hình của Daenerys, cấu trúc cơ thể, vảy, cấu trúc cánh của Drogon và ánh sáng ban đầu.
+
+Drogon bay với tốc độ cao ở tầm thấp phía trên các mái nhà tại King's Landing với những cú đập cánh mạnh mẽ, chân thực và sự chuyển động nhịp nhàng của cơ thể. Luồng lửa khổng lồ phun ra từ hàm, ngọn lửa phản ứng linh hoạt với gió và chuyển động nhờ hiệu ứng vật lý chất lỏng chân thực, tàn lửa rực hồng bay ngược lại phía sau, tạo ra hiệu ứng biến dạng nhiệt dữ dội và ánh sáng tỏa rạng. Ngọn lửa chiếu sáng đầy kịch tính lên các tòa nhà bằng đá cổ kính và Red Keep từ bên dưới với những điểm nhấn ấm áp thay đổi liên tục và những mảng bóng tối sâu thẳm.
+
+Daenerys nghiêng người về phía trước với tư thế đầy uy quyền, mái tóc bạc và chiếc áo choàng dày bay phấp phới dữ dội trong gió tốc độ cao với hiệu ứng chuyển động vải chân thực và quán tính. Những tia lửa nhỏ và bụi tro lơ lửng trong không trung.
+
+Camera: Cú máy quay theo kiểu điện ảnh góc thấp năng động, bám theo Drogon từ vị trí hơi chếch phía sau và bên cạnh, di chuyển với tốc độ cao cùng với con rồng. Camera nâng lên và nghiêng nhẹ theo chuyển động của rồng, tạo cảm giác mạnh mẽ về tốc độ, quy mô và sự đắm chìm. Chuyển động camera mượt mà, bao quát với một chút năng lượng cầm tay kết hợp cùng sự chính xác của điện ảnh chuyên nghiệp.
+
+Vật lý: Màng cánh rồng co giãn chân thực khi đón gió, các ngón cánh chuyển động tự nhiên, áo choàng và tóc có trọng lượng và độ rung lắc chân thực, lửa vận hành theo hiệu ứng động lực học chất lỏng thực tế và tương tác với chuyển động của không khí.
+
+Ánh sáng & bầu không khí: Lửa của rồng cung cấp nguồn sáng di động chính, chiếu sáng kiến trúc thành phố một cách đầy kịch tính từ bên dưới. Khói thể tích, tàn lửa và màn sương nhiệt. Độ sâu không gian hùng tráng với một chút sương mù bao phủ thành phố.
+
+Âm thanh đồng bộ gốc: Tiếng rồng gầm mạnh mẽ, trầm hùng hòa quyện với tiếng rít của ngọn lửa dữ dội, tiếng gió rít mạnh và âm thanh thành phố từ xa với độ vang tự nhiên. Kết xuất ảnh chân thực, chuyển động mạch lạc, chi tiết tinh xảo, không có lỗi hình ảnh, được quay với độ trung thực cấp độ ARRI Alexa. Kiệt tác, quy mô hùng tráng tối đa, tốc độ và tác động điện ảnh mạnh mẽ.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f64e6d9a9c5cdd32cb8c73cac1e521fc/thumbnails/thumbnail.jpg" width="600" alt="Video điện ảnh về chuyến bay của rồng trong Game of Thrones">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6172)**
+
+**Author:** [AYi](https://x.com/AYi_AInotes) | **Source:** [Link](https://x.com/AYi_AInotes/status/2067227900399562775) | **Published:** Jun 17, 2026
+
+---
+### Lời nhắc video về nụ cười trêu chọc
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một lời nhắc video Grok Imagine mô tả một người đang thực hiện cử chỉ trêu chọc tinh nghịch trong khi mỉm cười, nắm bắt biểu cảm hồn nhiên như trẻ thơ.
+
+#### 📝 Prompt
+
+```
+Không nói một lời, cô ấy thực hiện cử chỉ 'na na nère' giống như một đứa trẻ đang trêu chọc người khác trong khi vẫn giữ nụ cười trên môi.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cd31fb0c4bf1e5446b1beecf277c60cf/thumbnails/thumbnail.jpg" width="600" alt="Lời nhắc video về nụ cười trêu chọc">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6174)**
+
+**Author:** [Vincent](https://x.com/Source3467) | **Source:** [Link](https://x.com/Source3467/status/2067176050639897060) | **Published:** Jun 17, 2026
+
+---
 ### Chuyển động mềm mại đầy mơ mộng và tiếng nước vang vọng
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2132,120 +2258,6 @@ Hãy tạo hoạt ảnh cho cảnh này từ hình ảnh đính kèm, giữ nguy
 **Author:** [Ward'z de Souza I](https://x.com/Wardz_de_souzA) | **Source:** [Link](https://x.com/Wardz_de_souzA/status/2062925042980200505) | **Published:** Jun 5, 2026
 
 ---
-### Sự biến hóa thần thoại của khu rừng huyền bí
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một thước phim time-lapse đậm chất điện ảnh ghi lại cảnh khu rừng huyền bí thức tỉnh khi những cái cây biến hình thành các loài quái thú thần thoại và những dây leo rung động với các cổ tự ma thuật.
-
-#### 📝 Prompt
-
-```
-Sự biến hóa của khu rừng huyền bí: những cái cây biến hình thành quái thú thần thoại, lá cây hóa thành bụi phép thuật xoáy tròn, dây leo quấn quýt và phát sáng với những cổ tự huyền bí, cây gậy của pháp sư tỏa ánh sáng khiến mặt đất gợn sóng; một quá trình tiến hóa time-lapse siêu thực từ thanh bình sang hỗn loạn trong 10 giây.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8c7a29371246778f02be11dbbbe08a65/thumbnails/thumbnail.jpg" width="600" alt="Sự biến hóa thần thoại của khu rừng huyền bí">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5971)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2062888976545910905) | **Published:** Jun 5, 2026
-
----
-### Các hòn đảo nổi và những ngọn tháp đá
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) video điện ảnh để tạo ra các hòn đảo kiến tạo trôi nổi và những ngọn tháp đá lởm chởm phía trên những đám mây vàng.
-
-#### 📝 Prompt
-
-```
-Khung cảnh được bao phủ bởi những ngọn tháp đá khổng lồ, lởm chởm và các hòn đảo kiến tạo trôi nổi lơ lửng phía trên biển mây vàng cuồn cuộn, dày đặc. Môi trường xung quanh vẫn hoàn toàn không thay đổi....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f4b19cb6d05cb55cda4096b2cc1434fd/thumbnails/thumbnail.jpg" width="600" alt="Các hòn đảo nổi và những ngọn tháp đá">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5732)**
-
-**Author:** [amir prince arjmand kermani](https://x.com/PrinceKermani) | **Source:** [Link](https://x.com/PrinceKermani/status/2062781582730285234) | **Published:** Jun 5, 2026
-
----
-### Lướt sóng trên con sóng hoàng hôn khổng lồ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video điện ảnh dành cho Grok Imagine mô tả một vận động viên lướt sóng đang bắt lấy con sóng cao 100 mét tại một vịnh hành tinh khoa học viễn tưởng lúc hoàng hôn.
-
-#### 📝 Prompt
-
-```
-Đang ngồi trên ván lướt sóng Channel Islands 7’2” của tôi vào lúc hoàng hôn tại vịnh X Planet, phía xa là những dãy núi, mặt nước kiên cố và phản chiếu mạnh, một con sóng khổng lồ cao 100 mét đang cuộn tới, đứng dậy và nắm lấy thanh ray bên phải
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cacdcc7cb7cbf8d4e72ccd886fa3c077/thumbnails/thumbnail.jpg" width="600" alt="Lướt sóng trên con sóng hoàng hôn khổng lồ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5731)**
-
-**Author:** [Notzucow](https://x.com/Notzucow69) | **Source:** [Link](https://x.com/Notzucow69/status/2062757757128695887) | **Published:** Jun 5, 2026
-
----
-### Lơ lửng trong chuyến bay vào vũ trụ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh truyền cảm hứng cho video về những người đang lơ lửng giữa không gian với vẻ đầy kinh ngạc, tôn vinh niềm vui của chuyến bay vào vũ trụ.
-
-#### 📝 Prompt
-
-```
-Họ đang nhẹ nhàng lơ lửng giữa không gian, ánh lên vẻ hạnh phúc tinh tế và đầy kinh ngạc. Với hy vọng rằng một ngày nào đó, trẻ em sẽ được trải nghiệm niềm vui của chuyến bay vào vũ trụ! Gửi đến tất cả trẻ em trên toàn thế giới
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/78359447c1b7c4038fbf73dd0b075512/thumbnails/thumbnail.jpg" width="600" alt="Lơ lửng trong chuyến bay vào vũ trụ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5708)**
-
-**Author:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **Source:** [Link](https://x.com/foxypatience/status/2062603835319705755) | **Published:** Jun 4, 2026
-
----
-### Trận chiến Ghostbusters với Người lốp Michelin
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video điện ảnh tái hiện cảnh cuối của Ghostbusters, nhưng thay thế Stay Puft Marshmallow Man bằng một Người lốp Michelin khổng lồ tại Thành phố New York.
-
-#### 📝 Prompt
-
-```
-Tái hiện hoành tráng cảnh chiến đấu cuối cùng từ Ghostbusters (1984), nhưng thay vì Stay Puft Marshmallow Man, đó là một Michelin Bibendum khổng lồ được làm hoàn toàn từ những viên kẹo dẻo trắng to lớn. Anh ấy cao bằng tòa nhà chọc trời, đứng giữa đường phố Thành phố New York, nhìn xuống với nụ cười ngây thơ. Cơ thể kẹo dẻo mềm mại, phồng lên của anh ấy có hình dáng xếp chồng đặc trưng của Người lốp Michelin. Những người dân New York hoảng loạn bỏ chạy, những chiếc taxi màu vàng bị nghiền nát dưới chân anh, xung quanh là khói lửa, góc nhìn từ dưới lên đầy kịch tính, ánh sáng điện ảnh với hoàng hôn rực lửa, phong cách hiệu ứng đặc biệt thực tế, siêu chi tiết, kiệt tác
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a1f2f6599f98d16a2bdcfd8d69bf3107/thumbnails/thumbnail.jpg" width="600" alt="Trận chiến Ghostbusters với Người lốp Michelin">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5760)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2062548615558520998) | **Published:** Jun 4, 2026
-
----
-### Đôi cánh thiên thần lấp lánh chốn thiên đường
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh dùng để tạo video về đôi cánh óng ánh, lung linh với vẻ đẹp thiên thần đầy duyên dáng trong ánh hào quang rực rỡ.
-
-#### 📝 Prompt
-
-```
-Đôi cánh óng ánh lung linh trong những giấc mơ thiên đường… Vẻ đẹp thiên thần duyên dáng bao phủ bởi ánh hào quang huyền ảo.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e9c8d1355aa266a47dbcc282c9274428/thumbnails/thumbnail.jpg" width="600" alt="Đôi cánh thiên thần lấp lánh chốn thiên đường">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5711)**
-
-**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2062504737086611629) | **Published:** Jun 4, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2307,6 +2319,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-18T04:57:16.726Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-18T12:12:22.874Z</sub>
 
 </div>

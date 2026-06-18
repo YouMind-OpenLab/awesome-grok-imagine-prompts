@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1850** |
+| 📝 Total Prompts | **1856** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-18** |
 
@@ -189,6 +189,120 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Floating Chinese Palace Ship
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An elaborate prompt for generating a high-quality video of a floating Chinese palace designed as an ancient ship among clouds.
+
+#### 📝 Prompt
+
+```
+Masterpiece, best quality, ultra-detailed cinematic digital painting of a massive floating Chinese palace built like a grand ancient ship, hovering among the clouds. The structure features multiple ornate tiers with traditional Chinese architecture, golden details, red lanterns, and intricate woodwork. It is surrounded by dramatic clouds and floating rocky mountains under a bright sky with sunlight breaking through. Epic scale, majestic and mystical atmosphere with soft god rays and floating particles. Highly detailed architecture, clouds, and lighting. In the bottom left corner, add a small elegant signature reading exactly 'Kisalay' in refined handwritten calligraphy style. No other text or watermarks. Cinematic composition, vibrant yet elegant colors, best quality, 8K resolution.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4e591b16cafcb840fda94b6448589caa/thumbnails/thumbnail.jpg" width="600" alt="Floating Chinese Palace Ship">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6171)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067323749532316148) | **Published:** Jun 17, 2026
+
+---
+### Smoky Bar Entry Shot
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt using start and end frame references to show characters entering a smoke-filled bar.
+
+#### 📝 Prompt
+
+```
+start with image @image1 and end with @image2 as the men walk through an open door into a smoke filled bar, cinematic moment. No music. No speaking.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/250a2e8d261b1b2527f8abda3bea4351/thumbnails/thumbnail.jpg" width="600" alt="Smoky Bar Entry Shot">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6170)**
+
+**Author:** [Jennifer 🇺🇸 🦅](https://x.com/Jenny_MommaLion) | **Source:** [Link](https://x.com/Jenny_MommaLion/status/2067298333295862106) | **Published:** Jun 17, 2026
+
+---
+### Cinematic Martial Arts Combat Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive action prompt for a 6-second video showing a martial arts fighter performing complex maneuvers with dynamic camera angles and realistic physics.
+
+#### 📝 Prompt
+
+```
+Masterpiece quality, 6-second video of a highly skilled fighter traversing rough terrain while engaged in a brutal, high-intensity fight. The character performs fast, powerful martial arts combos including spinning kicks, flying knees, aerial flips, wall runs, and savage takedowns. Strong realistic physics with heavy impact and momentum. Dynamic camera work with tracking shots, circling camera, and dramatic low angles. Cinematic lighting, sharp motion clarity, intense and raw action, no cuts, smooth and powerful choreography, best quality, 6-second video.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f7f265442f781b2993abd2a68b8b9041/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Martial Arts Combat Sequence">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6169)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067298200520896673) | **Published:** Jun 17, 2026
+
+---
+### Excited Japanese Announcement Lip-Sync
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A prompt for realistic lip-syncing in Japanese with natural excitement, hand gestures, and hair movement.
+
+#### 📝 Prompt
+
+```
+Natural excited Japanese, clear voice, perfect lip-sync. Light hand gestures, hair swaying. "Everyone! xAI has released Grok Imagine Video 1.5! Image-to-video generation has evolved significantly. Voice and lip-sync are perfectly synchronized, and physics calculations have improved realistically. Generation speed has become twice as fast, and it can be made in about 25 seconds."
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067236538212331520/img/TpprEy-FXWKCbcIA.jpg" width="600" alt="Excited Japanese Announcement Lip-Sync">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6173)**
+
+**Author:** [右よし左よし秋よし@AIエンタメ](https://x.com/akiyoshisan) | **Source:** [Link](https://x.com/akiyoshisan/status/2067236929989423431) | **Published:** Jun 17, 2026
+
+---
+### Game of Thrones Dragon Flight Cinematic Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed cinematic prompt for animating a reference image into an epic dragon flight sequence inspired by Game of Thrones, featuring realistic physics and lighting.
+
+#### 📝 Prompt
+
+```
+Faithfully animate this reference image into a breathtaking cinematic 10-12 second video in the exact visual style of HBO Game of Thrones and House of the Dragon epic dragon sequences. Maintain perfect consistency with the reference image — Daenerys' appearance, Drogon's anatomy, scales, wing structure, and initial lighting.\n\nDrogon flies at high speed low over King's Landing rooftops with powerful, realistic wing flaps and body undulation. Massive turbulent fire breath erupts from its jaws, flames reacting dynamically to wind and movement with realistic fluid physics, glowing embers flying backward, intense heat distortion and light bloom. Fire dramatically illuminates the ancient stone buildings and Red Keep from below with shifting warm highlights and deep shadows.\n\nDaenerys leans forward with commanding posture, her silver hair and heavy cloak whipping violently in the high-speed wind with realistic fabric dynamics and inertia. Subtle sparks and ash particles in the air.\n\nCamera: Dynamic low-angle cinematic tracking shot that follows Drogon from a slightly behind and side position, moving at high speed with the dragon. The camera subtly rises and banks with the dragon's movement, creating a powerful sense of speed, scale and immersion. Sweeping, fluid camera motion with slight handheld energy mixed with controlled cinematic precision.\n\nPhysics: Highly realistic dragon wing membrane flexing and catching the wind, individual wing fingers moving naturally, heavy cloak and hair with authentic weight and turbulence, fire behaving with real fluid dynamics and interaction with air movement.\n\nLighting & atmosphere: Dragon fire provides the primary moving light source, dramatically lighting the city architecture from below. Volumetric smoke, embers and heat haze. Epic atmospheric depth with slight haze over the city.\n\nNative synchronized audio: Deep powerful dragon roar mixed with the roaring whoosh of intense fire, strong wind rush, and distant city ambience with natural reverb. Photorealistic rendering, coherent motion, intricate detail, no artifacts, shot with ARRI Alexa-level fidelity. Masterpiece, maximum epic scale, speed, and cinematic impact.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f64e6d9a9c5cdd32cb8c73cac1e521fc/thumbnails/thumbnail.jpg" width="600" alt="Game of Thrones Dragon Flight Cinematic Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6172)**
+
+**Author:** [AYi](https://x.com/AYi_AInotes) | **Source:** [Link](https://x.com/AYi_AInotes/status/2067227900399562775) | **Published:** Jun 17, 2026
+
+---
+### Mocking Smile Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A Grok Imagine video prompt depicting a person making a playful mocking gesture while smiling, capturing a childlike expression.
+
+#### 📝 Prompt
+
+```
+Without saying anything, she makes a 'na na nère' gesture like a child mocking others while keeping a smile.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cd31fb0c4bf1e5446b1beecf277c60cf/thumbnails/thumbnail.jpg" width="600" alt="Mocking Smile Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6174)**
+
+**Author:** [Vincent](https://x.com/Source3467) | **Source:** [Link](https://x.com/Source3467/status/2067176050639897060) | **Published:** Jun 17, 2026
+
+---
 ### Dreamy Soft Motion and Echoing Water
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2111,121 +2225,6 @@ Animate this scene from the attached image, maintain the style of the strokes an
 **Author:** [Ward'z de Souza I](https://x.com/Wardz_de_souzA) | **Source:** [Link](https://x.com/Wardz_de_souzA/status/2062925042980200505) | **Published:** Jun 5, 2026
 
 ---
-### Enchanted Forest Mythical Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic time-lapse sequence showing an enchanted forest awakening as trees morph into mythical beasts and vines pulse with magical runes.
-
-#### 📝 Prompt
-
-```
-Enchanted forest transformation trees morph into mythical beasts, leaves turn to swirling magic dust, vines entwine and glow with arcane runes, a wizard’s staff pulses light causing the ground to ripple surreal time-lapse evolution from serene to chaotic in 10 seconds.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8c7a29371246778f02be11dbbbe08a65/thumbnails/thumbnail.jpg" width="600" alt="Enchanted Forest Mythical Transformation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5971)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2062888976545910905) | **Published:** Jun 5, 2026
-
----
-### Floating Islands and Rock Spires
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt for generating floating tectonic islands and jagged rock spires above golden clouds.
-
-#### 📝 Prompt
-
-```
-The scene is dominated by gargantuan, jagged rock spires and floating tectonic islands suspended above a thick, rolling sea of golden clouds. The environment remains completely unchanged....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f4b19cb6d05cb55cda4096b2cc1434fd/thumbnails/thumbnail.jpg" width="600" alt="Floating Islands and Rock Spires">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5732)**
-
-**Author:** [amir prince arjmand kermani](https://x.com/PrinceKermani) | **Source:** [Link](https://x.com/PrinceKermani/status/2062781582730285234) | **Published:** Jun 5, 2026
-
----
-### Massive Sunset Wave Surfing
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt for Grok Imagine depicting a surfer catching a 100-meter wave in a sci-fi planetary cove at sunset.
-
-#### 📝 Prompt
-
-```
-Siting on my 7’2” Channel Islands surfboard at sunset in X Planet cove, far mountains in the background, waters resilient and highly reflective, a massive 100 meter wave rolling in, stand up grab right rail
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cacdcc7cb7cbf8d4e72ccd886fa3c077/thumbnails/thumbnail.jpg" width="600" alt="Massive Sunset Wave Surfing">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5731)**
-
-**Author:** [Notzucow](https://x.com/Notzucow69) | **Source:** [Link](https://x.com/Notzucow69/status/2062757757128695887) | **Published:** Jun 5, 2026
-
----
-### Floating in Space Flight
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An inspiring prompt for a video of people floating through space in awe, celebrating the joy of space flight.
-
-#### 📝 Prompt
-
-```
-They are gently floating through space, subtly happy and in awe. In hopes that children will one day experience the pleasure of Space Flight! All children of the World
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/78359447c1b7c4038fbf73dd0b075512/thumbnails/thumbnail.jpg" width="600" alt="Floating in Space Flight">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5708)**
-
-**Author:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **Source:** [Link](https://x.com/foxypatience/status/2062603835319705755) | **Published:** Jun 4, 2026
-
----
-### Ghostbusters Final Battle with Michelin Man
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic prompt for Grok Imagine that recreates the iconic final battle of Ghostbusters, replacing the Stay Puft Marshmallow Man with a colossal, smiling Michelin Bibendum character amidst the chaos of New York City.
-
-#### 📝 Prompt
-
-```
-Epic recreation of the final battle scene from Ghostbusters (1984), but instead of the Stay Puft Marshmallow Man, it's a colossal Michelin Bibendum made entirely of giant white marshmallows. He is skyscraper-sized, standing in the middle of New York City streets, looking down with a big innocent smile. His soft puffy marshmallow body has the classic stacked Michelin Man shape. Panicked New Yorkers fleeing, yellow taxis crushed under his feet, explosions and smoke around him, dramatic low-angle perspective, cinematic lighting with fiery sunset, practical special effects style, ultra detailed, masterpiece
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a1f2f6599f98d16a2bdcfd8d69bf3107/thumbnails/thumbnail.jpg" width="600" alt="Ghostbusters Final Battle with Michelin Man">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5760)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2062548615558520998) | **Published:** Jun 4, 2026
-
----
-### Iridescent Angelic Presence
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A ethereal video prompt of a graceful angelic figure with shimmering iridescent wings and a celestial glow.
-
-#### 📝 Prompt
-
-```
-Iridescent wings shimmering in celestial dreams…
-A graceful angelic presence wrapped in ethereal glow. ✨🪽
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e9c8d1355aa266a47dbcc282c9274428/thumbnails/thumbnail.jpg" width="600" alt="Iridescent Angelic Presence">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5711)**
-
-**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2062504737086611629) | **Published:** Jun 4, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2287,6 +2286,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-18T04:57:08.907Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-18T12:12:16.535Z</sub>
 
 </div>

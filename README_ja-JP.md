@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **1850** |
+| 📝 プロンプト総数 | **1856** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-06-18** |
 
@@ -189,6 +189,132 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### 雲上の中国風宮殿船
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 雲の中に浮かぶ古代船を模した中国風宮殿の高品質な動画を生成するための詳細なプロンプトです。
+
+#### 📝 プロンプト
+
+```
+傑作、最高品質、壮大な古代船のように造られた巨大な中国風宮殿が雲の中に浮かぶ様子を描いた、超詳細なシネマティック・デジタルペインティング。建物は伝統的な中国建築の華やかな多層構造で、金色の装飾、赤い提灯、精巧な木工細工が施されている。ドラマチックな雲と浮かぶ岩山に囲まれ、明るい空から太陽の光が差し込んでいる。壮大なスケール、柔らかな光の筋と浮遊する粒子が織りなす、威厳と神秘に満ちた雰囲気。非常に詳細な建築、雲、照明。左下隅に、洗練された手書きカリグラフィースタイルで「Kisalay」と書かれた小さなエレガントな署名を追加すること。その他のテキストや透かしは一切なし。シネマティックな構図、鮮やかかつエレガントな色彩、最高品質、8K 解像度。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4e591b16cafcb840fda94b6448589caa/thumbnails/thumbnail.jpg" width="600" alt="雲上の中国風宮殿船">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6171)**
+
+**作者:** [⭕Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2067323749532316148) | **公開日:** Jun 17, 2026
+
+---
+### スモーキーなバーへの入店シーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 開始フレームと終了フレームの参照を使用して、キャラクターが煙の立ち込めるバーに入る様子を描写するシネマティックな動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+@image1 の画像から開始し、@image2 で終了。男性たちが開いたドアから煙の立ち込めるバーの中へと歩いていく、シネマティックな瞬間。音楽なし。会話なし。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/250a2e8d261b1b2527f8abda3bea4351/thumbnails/thumbnail.jpg" width="600" alt="スモーキーなバーへの入店シーン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6170)**
+
+**作者:** [Jennifer 🇺🇸 🦅](https://x.com/Jenny_MommaLion) | **ソース:** [Link](https://x.com/Jenny_MommaLion/status/2067298333295862106) | **公開日:** Jun 17, 2026
+
+---
+### 映画のような武術戦闘シーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 複雑な動きを繰り出す武術家を、ダイナミックなカメラアングルとリアルな物理演算で表現した 6 秒間の動画用アクションプロンプト。
+
+#### 📝 プロンプト
+
+```
+最高傑作のクオリティ、険しい地形を駆け抜けながら激しく高強度な戦闘を繰り広げる熟練格闘家の 6 秒間の動画。キャラクターは、回転蹴り、飛び膝蹴り、空中回転、壁走り、強烈なテイクダウンなど、高速で力強い武術のコンボを披露する。重厚な衝撃と勢いを伴うリアルな物理演算。トラッキングショット、旋回カメラ、ドラマチックなローアングルなど、ダイナミックなカメラワーク。映画のようなライティング、鮮明なモーション、激しく生々しいアクション、カットなし、スムーズかつパワフルな振り付け、最高品質、6 秒間の動画。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f7f265442f781b2993abd2a68b8b9041/thumbnails/thumbnail.jpg" width="600" alt="映画のような武術戦闘シーン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6169)**
+
+**作者:** [⭕Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2067298200520896673) | **公開日:** Jun 17, 2026
+
+---
+### 日本語の感情豊かなリップシンク発表
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 自然な興奮、ハンドジェスチャー、髪の揺れを伴う、日本語でのリアルなリップシンク用プロンプト。
+
+#### 📝 プロンプト
+
+```
+自然で感情豊かな日本語、クリアな音声、完璧なリップシンク。軽いハンドジェスチャーと髪の揺れ。「皆さん！ xAI が Grok Imagine Video 1.5 をリリースしました！ 画像から動画への生成が大幅に進化しました。音声とリップシンクは完璧に同期しており、物理演算もリアルに改善されています。生成速度は 2 倍になり、約 25 秒で作成可能です。」
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067236538212331520/img/TpprEy-FXWKCbcIA.jpg" width="600" alt="日本語の感情豊かなリップシンク発表">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6173)**
+
+**作者:** [右よし左よし秋よし@AIエンタメ](https://x.com/akiyoshisan) | **ソース:** [Link](https://x.com/akiyoshisan/status/2067236929989423431) | **公開日:** Jun 17, 2026
+
+---
+### 『ゲーム・オブ・スローンズ』ドラゴン飛行のシネマティック動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 『ゲーム・オブ・スローンズ』にインスパイアされた、リアルな物理演算とライティングによる壮大なドラゴン飛行シーンを生成するための、詳細なシネマティックプロンプトです。
+
+#### 📝 プロンプト
+
+```
+この参照画像を、HBO『ゲーム・オブ・スローンズ』および『ハウス・オブ・ザ・ドラゴン』の壮大なドラゴンシーンのビジュアルスタイルで、10 ～ 12 秒の息をのむようなシネマティック動画に忠実にアニメーション化してください。デナーリスの容姿、ドラゴンの解剖学的構造、鱗、翼の構造、初期のライティングなど、参照画像との完璧な一貫性を維持してください。
+
+ドロゴンがキングズランディングの屋根の上を低空で高速飛行し、力強くリアルな羽ばたきと体のうねりを見せます。その顎からは巨大で激しい炎が噴き出し、炎は風や動きに動的に反応し、リアルな流体物理学に基づいた動きを見せます。燃え盛る残り火が後方に舞い、強烈な熱による歪みと光のブルーム効果が発生します。炎は、古代の石造りの建物や赤の王城を下方から劇的に照らし出し、温かみのあるハイライトと深い影が移ろいます。
+
+デナーリスは威厳のある姿勢で前傾し、銀色の髪と重厚なマントが高速の風に激しくなびく様子を、リアルな布のダイナミクスと慣性で表現してください。空気中には微細な火花と灰の粒子が舞っています。
+
+カメラ：ドロゴンを斜め後ろから追従する、ダイナミックなローアングルのシネマティック・トラッキングショット。ドロゴンと共に高速で移動します。カメラはドラゴンの動きに合わせて微妙に上昇・旋回し、スピード感、スケール感、没入感を強力に演出します。手持ちカメラのようなエネルギーと、制御されたシネマティックな精度を融合させた、流れるようなカメラワークです。
+
+物理演算：ドラゴンの翼膜が風を受けてしなり、個々の翼指が自然に動く様子、重厚なマントや髪の毛のリアルな重量感と乱気流、空気の動きと相互作用する炎のリアルな流体ダイナミクスを再現してください。
+
+ライティングと雰囲気：ドラゴンの炎が主要な光源となり、都市の建築物を下方から劇的に照らします。ボリューム感のある煙、残り火、熱による霞。都市全体にわずかな霞がかかった、壮大な大気の奥行きを表現してください。
+
+ネイティブ同期オーディオ：深く力強いドラゴンの咆哮に、激しい炎の轟音、強風の音、そして自然な残響を伴う遠くの都市の環境音をミックスしてください。フォトリアルなレンダリング、一貫した動き、複雑なディテール、アーティファクトなし、ARRI Alexa レベルの忠実度で撮影された映像。最高傑作、最大級のスケール、スピード感、そしてシネマティックなインパクトを追求してください。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f64e6d9a9c5cdd32cb8c73cac1e521fc/thumbnails/thumbnail.jpg" width="600" alt="『ゲーム・オブ・スローンズ』ドラゴン飛行のシネマティック動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6172)**
+
+**作者:** [AYi](https://x.com/AYi_AInotes) | **ソース:** [Link](https://x.com/AYi_AInotes/status/2067227900399562775) | **公開日:** Jun 17, 2026
+
+---
+### Mocking Smile ビデオプロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 用のビデオプロンプト。子供のような無邪気な表情で、遊び心たっぷりにからかう仕草をする人物を描写します。
+
+#### 📝 プロンプト
+
+```
+何も言わずに、彼女は笑顔を浮かべたまま、子供が他人をからかうような「あっかんべー」の仕草をします。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cd31fb0c4bf1e5446b1beecf277c60cf/thumbnails/thumbnail.jpg" width="600" alt="Mocking Smile ビデオプロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6174)**
+
+**作者:** [Vincent](https://x.com/Source3467) | **ソース:** [Link](https://x.com/Source3467/status/2067176050639897060) | **公開日:** Jun 17, 2026
+
+---
 ### 夢のような柔らかな動きと響き渡る水音
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2152,120 +2278,6 @@ Daru が幼稚園に通い始めてからというもの、バスの時間に間
 **作者:** [Ward'z de Souza I](https://x.com/Wardz_de_souzA) | **ソース:** [Link](https://x.com/Wardz_de_souzA/status/2062925042980200505) | **公開日:** Jun 5, 2026
 
 ---
-### 魔法の森の神話的変貌
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 木々が神話の獣へと姿を変え、蔦が魔法のルーン文字で脈動する、魔法の森の目覚めを描いた映画のようなタイムラプス映像。
-
-#### 📝 プロンプト
-
-```
-魔法の森が変貌を遂げる様子。木々が神話の獣へと姿を変え、葉は渦巻く魔法の塵へと変化し、蔦が絡み合いながら神秘的なルーン文字を光らせる。魔法使いの杖が放つ光の脈動で地面が波打ち、穏やかな森が混沌へと進化していく 10 秒間のシュールなタイムラプス。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8c7a29371246778f02be11dbbbe08a65/thumbnails/thumbnail.jpg" width="600" alt="魔法の森の神話的変貌">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5971)**
-
-**作者:** [Mr Das](https://x.com/MrDasOnX) | **ソース:** [Link](https://x.com/MrDasOnX/status/2062888976545910905) | **公開日:** Jun 5, 2026
-
----
-### 浮遊する島々と岩の尖塔
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 黄金の雲海の上に浮かぶ、地殻変動で生まれた島々と険しい岩の尖塔を生成するためのシネマティックなビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-このシーンは、黄金色の厚い雲海の上に浮かぶ、巨大で険しい岩の尖塔と浮遊する地殻変動の島々が圧倒的な存在感を放っています。環境は完全に変化のないままです……
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f4b19cb6d05cb55cda4096b2cc1434fd/thumbnails/thumbnail.jpg" width="600" alt="浮遊する島々と岩の尖塔">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5732)**
-
-**作者:** [amir prince arjmand kermani](https://x.com/PrinceKermani) | **ソース:** [Link](https://x.com/PrinceKermani/status/2062781582730285234) | **公開日:** Jun 5, 2026
-
----
-### 巨大な夕日の波でサーフィン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 用のシネマティックなビデオプロンプト。SF 的な惑星の入り江で、夕日を背景に 100 メートルの波に乗るサーファーを描写しています。
-
-#### 📝 プロンプト
-
-```
-夕暮れ時の X Planet の入り江、7’2” の Channel Islands サーフボードの上に座っている。背景には遠くの山々、水面は弾力があり非常に反射率が高い。巨大な 100 メートルの波が押し寄せてくる。立ち上がり、右のレールを掴む
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cacdcc7cb7cbf8d4e72ccd886fa3c077/thumbnails/thumbnail.jpg" width="600" alt="巨大な夕日の波でサーフィン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5731)**
-
-**作者:** [Notzucow](https://x.com/Notzucow69) | **ソース:** [Link](https://x.com/Notzucow69/status/2062757757128695887) | **公開日:** Jun 5, 2026
-
----
-### 宇宙飛行で浮かぶ人々
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 宇宙空間を漂いながら畏敬の念を抱き、宇宙飛行の喜びを分かち合う人々の動画のためのインスピレーションあふれるプロンプトです。
-
-#### 📝 プロンプト
-
-```
-彼らは宇宙空間を穏やかに漂い、かすかな幸福感と畏敬の念に包まれています。いつか子供たちが宇宙飛行の喜びを体験できることを願って！世界中のすべての子供たちへ
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/78359447c1b7c4038fbf73dd0b075512/thumbnails/thumbnail.jpg" width="600" alt="宇宙飛行で浮かぶ人々">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5708)**
-
-**作者:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **ソース:** [Link](https://x.com/foxypatience/status/2062603835319705755) | **公開日:** Jun 4, 2026
-
----
-### ミシュランマン vs ゴーストバスターズの対決
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 映画『ゴーストバスターズ』のクライマックスシーンを再現したシネマティックなビデオプロンプト。ニューヨークの街に、マシュマロマンの代わりに巨大なミシュランマンが登場します。
-
-#### 📝 プロンプト
-
-```
-映画『ゴーストバスターズ』（1984 年）の最終決戦シーンを壮大に再現。マシュマロマンの代わりに、巨大な白いマシュマロでできた巨大なミシュラン・ビバンダムが登場する。彼は摩天楼ほどの大きさで、ニューヨークの街中に立ち、無邪気な笑顔で下を見下ろしている。柔らかく膨らんだマシュマロの体は、ミシュランマン特有の積み重なった形状をしている。パニックになって逃げ惑うニューヨーカーたち、足元で押しつぶされるイエローキャブ、周囲に立ち込める爆発の煙。ドラマチックなローアングル視点、燃えるような夕日を背景にしたシネマティックなライティング、実写特撮風のスタイル、超高精細、傑作。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a1f2f6599f98d16a2bdcfd8d69bf3107/thumbnails/thumbnail.jpg" width="600" alt="ミシュランマン vs ゴーストバスターズの対決">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5760)**
-
-**作者:** [Déborah](https://x.com/dvorahfr) | **ソース:** [Link](https://x.com/dvorahfr/status/2062548615558520998) | **公開日:** Jun 4, 2026
-
----
-### 天上の輝きを放つ天使の翼
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 天上の輝きの中で、優雅な天使の存在感とともにきらめく虹色の翼の動画を生成するためのプロンプトです。
-
-#### 📝 プロンプト
-
-```
-天上の夢の中で揺らめく虹色の翼……エーテルのような輝きに包まれた、優雅な天使の存在感。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e9c8d1355aa266a47dbcc282c9274428/thumbnails/thumbnail.jpg" width="600" alt="天上の輝きを放つ天使の翼">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=5711)**
-
-**作者:** [Stella 𝕏](https://x.com/StellaGrokStar) | **ソース:** [Link](https://x.com/StellaGrokStar/status/2062504737086611629) | **公開日:** Jun 4, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2327,6 +2339,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-18T04:57:12.658Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-18T12:12:19.561Z</sub>
 
 </div>

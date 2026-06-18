@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **1850** |
+| 📝 提示词总数 | **1856** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-06-18** |
 
@@ -189,6 +189,132 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 漂浮的中国宫殿船
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于生成高质量视频的精细提示词，描绘了一座漂浮在云端、设计为古代船只形状的中国宫殿。
+
+#### 📝 提示词
+
+```
+杰作，最佳质量，超精细的电影级数字绘画，描绘了一座巨大的漂浮中国宫殿，其造型如同宏伟的古代船只，悬浮在云层之中。建筑结构拥有多层华丽的传统中国建筑风格，装饰着金色细节、红灯笼和精美的木雕。周围环绕着壮观的云海和漂浮的岩石山脉，阳光穿透云层洒下。史诗般的规模，宏伟而神秘的氛围，伴有柔和的耶稣光和漂浮的微粒。高度精细的建筑、云层和光影。在左下角，添加一个优雅的小签名，书写内容必须为“Kisalay”，采用精致的手写书法风格。不得包含其他文字或水印。电影级构图，色彩鲜艳而优雅，最佳质量，8K 分辨率。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4e591b16cafcb840fda94b6448589caa/thumbnails/thumbnail.jpg" width="600" alt="漂浮的中国宫殿船">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6171)**
+
+**作者:** [⭕Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2067323749532316148) | **发布时间:** Jun 17, 2026
+
+---
+### 烟雾缭绕的酒吧入场镜头
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个使用起始和结束帧参考的电影感视频提示词，展示角色走进烟雾弥漫的酒吧。
+
+#### 📝 提示词
+
+```
+以 @image1 为起始图像，以 @image2 为结束图像，展示男人们穿过敞开的门走进烟雾缭绕的酒吧，电影感瞬间。无音乐。无对话。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/250a2e8d261b1b2527f8abda3bea4351/thumbnails/thumbnail.jpg" width="600" alt="烟雾缭绕的酒吧入场镜头">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6170)**
+
+**作者:** [Jennifer 🇺🇸 🦅](https://x.com/Jenny_MommaLion) | **来源:** [Link](https://x.com/Jenny_MommaLion/status/2067298333295862106) | **发布时间:** Jun 17, 2026
+
+---
+### 电影级武术格斗序列
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个全面的 6 秒视频动作提示词，展示了一名武术格斗家通过动态摄像机角度和逼真的物理效果执行复杂的动作。
+
+#### 📝 提示词
+
+```
+杰作级画质，6 秒视频，展示了一名高超的格斗家在崎岖地形上进行残酷且高强度的格斗。角色执行快速、强力的武术连招，包括旋风踢、飞膝、空中翻转、跑墙和凶猛的击倒动作。具有强烈的真实物理效果，伴随沉重的打击感和惯性。动态摄像机运用，包括追踪镜头、环绕镜头和戏剧性的低角度拍摄。电影级光影，清晰的运动画面，紧张且原始的动作，无剪辑，流畅而有力的编排，最佳画质，6 秒视频。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f7f265442f781b2993abd2a68b8b9041/thumbnails/thumbnail.jpg" width="600" alt="电影级武术格斗序列">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6169)**
+
+**作者:** [⭕Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2067298200520896673) | **发布时间:** Jun 17, 2026
+
+---
+### 充满激情的日语口型同步演示
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一个用于生成日语口型同步的提示词，要求表现出自然的兴奋感、手势动作以及头发的飘动效果。
+
+#### 📝 提示词
+
+```
+自然的日语兴奋语调，语音清晰，口型同步完美。伴随轻微的手势和头发飘动。“大家好！xAI 已经发布了 Grok Imagine Video 1.5！图像转视频生成技术有了显著进化。语音与口型同步完美，物理计算也更加逼真。生成速度提升了两倍，仅需约 25 秒即可完成。”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067236538212331520/img/TpprEy-FXWKCbcIA.jpg" width="600" alt="充满激情的日语口型同步演示">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6173)**
+
+**作者:** [右よし左よし秋よし@AIエンタメ](https://x.com/akiyoshisan) | **来源:** [Link](https://x.com/akiyoshisan/status/2067236929989423431) | **发布时间:** Jun 17, 2026
+
+---
+### 《权力的游戏》巨龙飞行电影级视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个高度详细的电影级提示词，旨在将参考图像动画化为受《权力的游戏》启发、具有逼真物理效果和光影的史诗级巨龙飞行序列。
+
+#### 📝 提示词
+
+```
+将此参考图像忠实地动画化为一段 10-12 秒、令人叹为观止的电影级视频，完美呈现 HBO《权力的游戏》和《龙之家族》中史诗级巨龙序列的视觉风格。保持与参考图像的高度一致性——包括丹妮莉丝的外观、卓耿的身体结构、鳞片、翅膀构造以及初始光影。
+
+卓耿在君临城屋顶上方低空高速飞行，伴随着强劲、逼真的拍翼动作和身体起伏。巨大的湍流火焰从其口中喷涌而出，火焰根据风向和运动产生动态反应，呈现逼真的流体物理效果，余烬向后飞溅，伴随强烈的热畸变和光晕效果。火焰从下方戏剧性地照亮了古老的石质建筑和红堡，形成变幻的暖色高光与深邃阴影。
+
+丹妮莉丝身体前倾，姿态威严，她的银发和厚重的斗篷在高速风中剧烈飘动，展现出逼真的织物动力学和惯性。空气中弥漫着细微的火花和灰烬颗粒。
+
+摄像机：采用动态低角度电影级追踪镜头，从后方稍侧的位置跟随卓耿，并与巨龙保持高速同步移动。摄像机随着巨龙的动作轻微上升和倾斜，营造出强烈的速度感、规模感和沉浸感。镜头运动流畅且宏大，融合了轻微的手持拍摄质感与受控的电影级精度。
+
+物理效果：高度逼真的巨龙翼膜弯曲并捕捉风力，翼指自然运动，厚重的斗篷和头发具有真实的重量感和湍流感，火焰表现出真实的流体动力学以及与空气流动的相互作用。
+
+光影与氛围：龙焰作为主要的移动光源，从下方戏剧性地照亮城市建筑。包含体积烟雾、余烬和热霾。史诗级的氛围深度，城市上方笼罩着轻微的薄雾。
+
+原生同步音频：深沉有力的龙吼声，混合着猛烈火焰的呼啸声、强劲的风声，以及带有自然混响的远方城市环境音。照片级真实渲染，动作连贯，细节精致，无伪影，呈现 ARRI Alexa 级别的拍摄画质。杰作，极致的史诗规模、速度感和电影级冲击力。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f64e6d9a9c5cdd32cb8c73cac1e521fc/thumbnails/thumbnail.jpg" width="600" alt="《权力的游戏》巨龙飞行电影级视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6172)**
+
+**作者:** [AYi](https://x.com/AYi_AInotes) | **来源:** [Link](https://x.com/AYi_AInotes/status/2067227900399562775) | **发布时间:** Jun 17, 2026
+
+---
+### 嘲弄微笑视频提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于 Grok Imagine 的视频提示词，描绘了一个人面带微笑做出俏皮嘲弄手势的场景，捕捉到了孩童般的表情。
+
+#### 📝 提示词
+
+```
+她一言不发，像孩子嘲笑他人一样做出“略略略”的手势，同时保持着微笑。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cd31fb0c4bf1e5446b1beecf277c60cf/thumbnails/thumbnail.jpg" width="600" alt="嘲弄微笑视频提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6174)**
+
+**作者:** [Vincent](https://x.com/Source3467) | **来源:** [Link](https://x.com/Source3467/status/2067176050639897060) | **发布时间:** Jun 17, 2026
+
+---
 ### 梦幻柔和的动态与回荡的水声
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2135,120 +2261,6 @@ Ricardo 进入了势不可挡的“黑客帝国”模式，凭借惊人的武术
 **作者:** [Ward'z de Souza I](https://x.com/Wardz_de_souzA) | **来源:** [Link](https://x.com/Wardz_de_souzA/status/2062925042980200505) | **发布时间:** Jun 5, 2026
 
 ---
-### 魔法森林的神话蜕变
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段电影级的延时摄影片段，展现了魔法森林的觉醒过程：树木幻化为神话巨兽，藤蔓闪烁着神秘的符文。
-
-#### 📝 提示词
-
-```
-魔法森林蜕变，树木幻化为神话巨兽，树叶化作旋转的魔法尘埃，藤蔓缠绕并闪烁着奥术符文，法师之杖发出的光芒使地面产生涟漪，在 10 秒内完成从宁静到混沌的超现实延时演变。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8c7a29371246778f02be11dbbbe08a65/thumbnails/thumbnail.jpg" width="600" alt="魔法森林的神话蜕变">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5971)**
-
-**作者:** [Mr Das](https://x.com/MrDasOnX) | **来源:** [Link](https://x.com/MrDasOnX/status/2062888976545910905) | **发布时间:** Jun 5, 2026
-
----
-### 浮空岛屿与岩石尖塔
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个电影级的视频提示词，用于生成悬浮在金色云海之上的构造岛屿与参差岩石尖塔。
-
-#### 📝 提示词
-
-```
-画面主体为巨大的参差岩石尖塔和悬浮的构造岛屿，它们静静地伫立在厚重翻滚的金色云海之上。环境保持完全不变……
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f4b19cb6d05cb55cda4096b2cc1434fd/thumbnails/thumbnail.jpg" width="600" alt="浮空岛屿与岩石尖塔">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5732)**
-
-**作者:** [amir prince arjmand kermani](https://x.com/PrinceKermani) | **来源:** [Link](https://x.com/PrinceKermani/status/2062781582730285234) | **发布时间:** Jun 5, 2026
-
----
-### 巨型日落海浪冲浪
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于 Grok Imagine 的电影级视频提示词，描绘了一名冲浪者在日落时分的科幻行星海湾中捕捉 100 米巨浪的场景。
-
-#### 📝 提示词
-
-```
-坐在我 7 英尺 2 英寸的 Channel Islands 冲浪板上，身处 X 行星海湾的日落时分，背景是遥远的山脉，水面富有弹性且具有极高的反射感，一道 100 米高的巨浪滚滚而来，站立，右手抓板沿
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cacdcc7cb7cbf8d4e72ccd886fa3c077/thumbnails/thumbnail.jpg" width="600" alt="巨型日落海浪冲浪">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5731)**
-
-**作者:** [Notzucow](https://x.com/Notzucow69) | **来源:** [Link](https://x.com/Notzucow69/status/2062757757128695887) | **发布时间:** Jun 5, 2026
-
----
-### 太空飞行中的漂浮感
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个富有启发性的视频提示词，描绘人们在太空中敬畏地漂浮，庆祝太空飞行的乐趣。
-
-#### 📝 提示词
-
-```
-他们正轻盈地漂浮在太空中，神情中流露着淡淡的喜悦与敬畏。愿未来的孩子们终有一天能体验到太空飞行的乐趣！献给全世界的孩子们
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/78359447c1b7c4038fbf73dd0b075512/thumbnails/thumbnail.jpg" width="600" alt="太空飞行中的漂浮感">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5708)**
-
-**作者:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **来源:** [Link](https://x.com/foxypatience/status/2062603835319705755) | **发布时间:** Jun 4, 2026
-
----
-### 米其林轮胎人版《捉鬼敢死队》对决
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段电影感视频提示词，重现了《捉鬼敢死队》的结局，但将纽约市中的棉花糖人换成了巨大的米其林轮胎人。
-
-#### 📝 提示词
-
-```
-史诗级重现《捉鬼敢死队》（1984）的最终决战场景，但取代棉花糖人的，是一个完全由巨大白色棉花糖构成的巨型米其林轮胎人（Michelin Bibendum）。他拥有摩天大楼般的身躯，伫立在纽约市中心的街道上，带着天真无邪的微笑俯视下方。他柔软蓬松的棉花糖身体呈现出经典的米其林轮胎人堆叠造型。惊慌失措的纽约市民四处逃窜，黄色出租车被他踩在脚下，周围火光冲天、烟雾缭绕，采用极具戏剧性的低角度拍摄视角，电影级光影配合火红的夕阳，呈现出实拍特效风格，超高细节，大师级作品。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a1f2f6599f98d16a2bdcfd8d69bf3107/thumbnails/thumbnail.jpg" width="600" alt="米其林轮胎人版《捉鬼敢死队》对决">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5760)**
-
-**作者:** [Déborah](https://x.com/dvorahfr) | **来源:** [Link](https://x.com/dvorahfr/status/2062548615558520998) | **发布时间:** Jun 4, 2026
-
----
-### Celestial Shimmering Angel Wings
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用于生成一段视频的提示词，展现闪烁着虹彩光芒的翅膀，营造出天界光辉中优雅的天使意境。
-
-#### 📝 提示词
-
-```
-在天界的梦境中闪烁的虹彩之翼……优雅的天使身影，笼罩在空灵的光芒之中。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e9c8d1355aa266a47dbcc282c9274428/thumbnails/thumbnail.jpg" width="600" alt="Celestial Shimmering Angel Wings">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=5711)**
-
-**作者:** [Stella 𝕏](https://x.com/StellaGrokStar) | **来源:** [Link](https://x.com/StellaGrokStar/status/2062504737086611629) | **发布时间:** Jun 4, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2310,6 +2322,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-06-18T04:57:10.260Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-06-18T12:12:17.728Z</sub>
 
 </div>

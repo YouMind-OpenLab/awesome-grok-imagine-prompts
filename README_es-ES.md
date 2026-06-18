@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1850** |
+| 📝 Total Prompts | **1856** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-18** |
 
@@ -189,6 +189,132 @@ Una valquiria celestial mística y noble, una mujer digna y hermosa con largo ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Palacio chino flotante en forma de barco
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt elaborado para generar un video de alta calidad de un palacio chino flotante diseñado como una antigua embarcación entre las nubes.
+
+#### 📝 Prompt
+
+```
+Obra maestra, mejor calidad, pintura digital cinematográfica ultra detallada de un enorme palacio chino flotante construido como un gran barco antiguo, suspendido entre las nubes. La estructura presenta múltiples niveles ornamentados con arquitectura tradicional china, detalles dorados, linternas rojas y carpintería intrincada. Está rodeado de nubes dramáticas y montañas rocosas flotantes bajo un cielo brillante con rayos de sol atravesando. Escala épica, atmósfera majestuosa y mística con suaves rayos divinos y partículas flotantes. Arquitectura, nubes e iluminación altamente detalladas. En la esquina inferior izquierda, añade una pequeña y elegante firma que diga exactamente 'Kisalay' en un refinado estilo de caligrafía a mano. Sin otros textos ni marcas de agua. Composición cinematográfica, colores vibrantes pero elegantes, mejor calidad, resolución 8K.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4e591b16cafcb840fda94b6448589caa/thumbnails/thumbnail.jpg" width="600" alt="Palacio chino flotante en forma de barco">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6171)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067323749532316148) | **Published:** Jun 17, 2026
+
+---
+### Toma de entrada a bar con humo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video cinematográfico que utiliza referencias de fotogramas iniciales y finales para mostrar a los personajes entrando en un bar lleno de humo.
+
+#### 📝 Prompt
+
+```
+comienza con la imagen @image1 y termina con @image2 mientras los hombres atraviesan una puerta abierta hacia un bar lleno de humo, momento cinematográfico. Sin música. Sin diálogos.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/250a2e8d261b1b2527f8abda3bea4351/thumbnails/thumbnail.jpg" width="600" alt="Toma de entrada a bar con humo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6170)**
+
+**Author:** [Jennifer 🇺🇸 🦅](https://x.com/Jenny_MommaLion) | **Source:** [Link](https://x.com/Jenny_MommaLion/status/2067298333295862106) | **Published:** Jun 17, 2026
+
+---
+### Secuencia de combate de artes marciales cinematográficas
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de acción integral para un video de 6 segundos que muestra a un luchador de artes marciales realizando maniobras complejas con ángulos de cámara dinámicos y física realista.
+
+#### 📝 Prompt
+
+```
+Calidad de obra maestra, video de 6 segundos de un luchador altamente capacitado atravesando un terreno difícil mientras participa en una pelea brutal y de alta intensidad. El personaje realiza combos de artes marciales rápidos y potentes, incluyendo patadas giratorias, rodillazos voladores, volteretas aéreas, carreras por la pared y derribos salvajes. Física realista sólida con gran impacto y momento. Trabajo de cámara dinámico con tomas de seguimiento, cámara circular y ángulos bajos dramáticos. Iluminación cinematográfica, claridad de movimiento nítida, acción intensa y cruda, sin cortes, coreografía fluida y poderosa, mejor calidad, video de 6 segundos.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f7f265442f781b2993abd2a68b8b9041/thumbnails/thumbnail.jpg" width="600" alt="Secuencia de combate de artes marciales cinematográficas">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6169)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067298200520896673) | **Published:** Jun 17, 2026
+
+---
+### Anuncio emocionante en japonés con sincronización labial
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt para una sincronización labial realista en japonés con entusiasmo natural, gestos con las manos y movimiento del cabello.
+
+#### 📝 Prompt
+
+```
+Japonés natural y entusiasta, voz clara, sincronización labial perfecta. Gestos leves con las manos, movimiento del cabello. "¡Todos! ¡xAI ha lanzado Grok Imagine Video 1.5! La generación de imagen a video ha evolucionado significativamente. La voz y la sincronización labial están perfectamente coordinadas, y los cálculos físicos han mejorado de forma realista. La velocidad de generación es el doble de rápida y se puede realizar en unos 25 segundos."
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067236538212331520/img/TpprEy-FXWKCbcIA.jpg" width="600" alt="Anuncio emocionante en japonés con sincronización labial">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6173)**
+
+**Author:** [右よし左よし秋よし@AIエンタメ](https://x.com/akiyoshisan) | **Source:** [Link](https://x.com/akiyoshisan/status/2067236929989423431) | **Published:** Jun 17, 2026
+
+---
+### Video cinematográfico de vuelo de dragón al estilo Game of Thrones
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinematográfico altamente detallado para animar una imagen de referencia en una épica secuencia de vuelo de dragón inspirada en Game of Thrones, con físicas e iluminación realistas.
+
+#### 📝 Prompt
+
+```
+Anima fielmente esta imagen de referencia en un impresionante video cinematográfico de 10 a 12 segundos con el estilo visual exacto de las épicas secuencias de dragones de Game of Thrones y House of the Dragon de HBO. Mantén una consistencia perfecta con la imagen de referencia: la apariencia de Daenerys, la anatomía de Drogon, las escamas, la estructura de las alas y la iluminación inicial.
+
+Drogon vuela a gran velocidad a baja altura sobre los tejados de King's Landing con aleteos potentes y realistas y ondulaciones corporales. Un fuego turbulento y masivo brota de sus fauces; las llamas reaccionan dinámicamente al viento y al movimiento con físicas de fluidos realistas, brasas brillantes que vuelan hacia atrás, distorsión por calor intenso y destellos de luz. El fuego ilumina dramáticamente los antiguos edificios de piedra y la Red Keep desde abajo con reflejos cálidos cambiantes y sombras profundas.
+
+Daenerys se inclina hacia adelante con una postura dominante; su cabello plateado y su pesada capa se agitan violentamente con el viento a alta velocidad, mostrando una dinámica de tela e inercia realistas. Chispas sutiles y partículas de ceniza en el aire.
+
+Cámara: Toma de seguimiento cinematográfica dinámica en ángulo bajo que sigue a Drogon desde una posición ligeramente trasera y lateral, moviéndose a gran velocidad junto al dragón. La cámara se eleva y se inclina sutilmente con el movimiento del dragón, creando una poderosa sensación de velocidad, escala e inmersión. Movimiento de cámara fluido y envolvente con una ligera energía de cámara en mano combinada con una precisión cinematográfica controlada.
+
+Físicas: Membrana de las alas del dragón altamente realista que se flexiona y atrapa el viento, dedos de las alas moviéndose de forma natural, capa y cabello pesados con peso y turbulencia auténticos, fuego comportándose con dinámicas de fluidos reales e interacción con el movimiento del aire.
+
+Iluminación y atmósfera: El fuego del dragón proporciona la fuente de luz móvil principal, iluminando dramáticamente la arquitectura de la ciudad desde abajo. Humo volumétrico, brasas y calima por calor. Profundidad atmosférica épica con una ligera neblina sobre la ciudad.
+
+Audio sincronizado nativo: Rugido de dragón profundo y potente mezclado con el silbido rugiente del fuego intenso, fuertes ráfagas de viento y el ambiente distante de la ciudad con reverberación natural. Renderizado fotorrealista, movimiento coherente, detalles intrincados, sin artefactos, grabado con una fidelidad de nivel ARRI Alexa. Obra maestra, máxima escala épica, velocidad e impacto cinematográfico.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f64e6d9a9c5cdd32cb8c73cac1e521fc/thumbnails/thumbnail.jpg" width="600" alt="Video cinematográfico de vuelo de dragón al estilo Game of Thrones">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6172)**
+
+**Author:** [AYi](https://x.com/AYi_AInotes) | **Source:** [Link](https://x.com/AYi_AInotes/status/2067227900399562775) | **Published:** Jun 17, 2026
+
+---
+### Prompt de video de sonrisa burlona
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video para Grok Imagine que muestra a una persona haciendo un gesto de burla juguetón mientras sonríe, capturando una expresión infantil.
+
+#### 📝 Prompt
+
+```
+Sin decir nada, hace un gesto de 'na na na' como un niño que se burla de los demás mientras mantiene una sonrisa.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cd31fb0c4bf1e5446b1beecf277c60cf/thumbnails/thumbnail.jpg" width="600" alt="Prompt de video de sonrisa burlona">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6174)**
+
+**Author:** [Vincent](https://x.com/Source3467) | **Source:** [Link](https://x.com/Source3467/status/2067176050639897060) | **Published:** Jun 17, 2026
+
+---
 ### Movimiento suave de ensueño y eco de agua
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2134,120 +2260,6 @@ Anima esta escena a partir de la imagen adjunta, mantén el estilo de los trazos
 **Author:** [Ward'z de Souza I](https://x.com/Wardz_de_souzA) | **Source:** [Link](https://x.com/Wardz_de_souzA/status/2062925042980200505) | **Published:** Jun 5, 2026
 
 ---
-### Transformación mítica del bosque encantado
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Una secuencia cinemática en time-lapse que muestra un bosque encantado despertando mientras los árboles se transforman en bestias míticas y las enredaderas palpitan con runas mágicas.
-
-#### 📝 Prompt
-
-```
-Transformación de bosque encantado, árboles que se transforman en bestias míticas, hojas que se convierten en polvo mágico giratorio, enredaderas que se entrelazan y brillan con runas arcanas, el báculo de un mago emite luz provocando que el suelo se ondule, evolución surrealista en time-lapse de lo sereno a lo caótico en 10 segundos.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8c7a29371246778f02be11dbbbe08a65/thumbnails/thumbnail.jpg" width="600" alt="Transformación mítica del bosque encantado">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5971)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2062888976545910905) | **Published:** Jun 5, 2026
-
----
-### Islas flotantes y agujas de roca
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video cinematográfico para generar islas tectónicas flotantes y agujas de roca irregulares sobre nubes doradas.
-
-#### 📝 Prompt
-
-```
-La escena está dominada por gigantescas y dentadas agujas de roca e islas tectónicas flotantes suspendidas sobre un denso y ondulante mar de nubes doradas. El entorno permanece completamente inalterado....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f4b19cb6d05cb55cda4096b2cc1434fd/thumbnails/thumbnail.jpg" width="600" alt="Islas flotantes y agujas de roca">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5732)**
-
-**Author:** [amir prince arjmand kermani](https://x.com/PrinceKermani) | **Source:** [Link](https://x.com/PrinceKermani/status/2062781582730285234) | **Published:** Jun 5, 2026
-
----
-### Surf en una ola masiva al atardecer
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video cinematográfico para Grok Imagine que representa a un surfista atrapando una ola de 100 metros en una ensenada planetaria de ciencia ficción al atardecer.
-
-#### 📝 Prompt
-
-```
-Sentado en mi tabla de surf Channel Islands de 7’2” al atardecer en la ensenada del Planeta X, montañas lejanas al fondo, aguas resistentes y altamente reflectantes, una ola masiva de 100 metros acercándose, de pie agarrando el riel derecho
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cacdcc7cb7cbf8d4e72ccd886fa3c077/thumbnails/thumbnail.jpg" width="600" alt="Surf en una ola masiva al atardecer">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5731)**
-
-**Author:** [Notzucow](https://x.com/Notzucow69) | **Source:** [Link](https://x.com/Notzucow69/status/2062757757128695887) | **Published:** Jun 5, 2026
-
----
-### Flotando en un vuelo espacial
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un inspirador prompt para un video de personas flotando a través del espacio con asombro, celebrando la alegría de los vuelos espaciales.
-
-#### 📝 Prompt
-
-```
-Flotan suavemente a través del espacio, sutilmente felices y maravillados. ¡Con la esperanza de que los niños algún día experimenten el placer de un vuelo espacial! Para todos los niños del mundo
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/78359447c1b7c4038fbf73dd0b075512/thumbnails/thumbnail.jpg" width="600" alt="Flotando en un vuelo espacial">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5708)**
-
-**Author:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **Source:** [Link](https://x.com/foxypatience/status/2062603835319705755) | **Published:** Jun 4, 2026
-
----
-### Batalla de los Cazafantasmas contra el Hombre Michelin
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video cinematográfico que recrea el final de Los Cazafantasmas, pero con un gigante Hombre Michelin en lugar del Hombre de Malvavisco en la ciudad de Nueva York.
-
-#### 📝 Prompt
-
-```
-Recreación épica de la escena de la batalla final de Los Cazafantasmas (1984), pero en lugar del Hombre de Malvavisco, aparece un colosal Bibendum de Michelin hecho completamente de malvaviscos blancos gigantes. Tiene el tamaño de un rascacielos, se encuentra en medio de las calles de la ciudad de Nueva York y mira hacia abajo con una gran sonrisa inocente. Su cuerpo de malvavisco suave y esponjoso tiene la forma clásica y apilada del Hombre Michelin. Neoyorquinos en pánico huyendo, taxis amarillos aplastados bajo sus pies, explosiones y humo a su alrededor, perspectiva dramática en ángulo contrapicado, iluminación cinematográfica con un atardecer ardiente, estilo de efectos especiales prácticos, ultra detallado, obra maestra
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a1f2f6599f98d16a2bdcfd8d69bf3107/thumbnails/thumbnail.jpg" width="600" alt="Batalla de los Cazafantasmas contra el Hombre Michelin">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5760)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2062548615558520998) | **Published:** Jun 4, 2026
-
----
-### Alas de ángel celestiales y brillantes
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para generar un video de alas iridiscentes que brillan con una elegante presencia angelical en un resplandor celestial.
-
-#### 📝 Prompt
-
-```
-Alas iridiscentes brillando en sueños celestiales… Una elegante presencia angelical envuelta en un resplandor etéreo.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e9c8d1355aa266a47dbcc282c9274428/thumbnails/thumbnail.jpg" width="600" alt="Alas de ángel celestiales y brillantes">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5711)**
-
-**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2062504737086611629) | **Published:** Jun 4, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2309,6 +2321,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-18T04:57:19.496Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-18T12:12:25.083Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1850** |
+| 📝 Total Prompts | **1856** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-18** |
 
@@ -189,6 +189,132 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Yüzen Çin Sarayı Gemisi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bulutların arasında antik bir gemi şeklinde tasarlanmış yüzen bir Çin sarayının yüksek kaliteli videosunu oluşturmak için hazırlanmış detaylı bir komut.
+
+#### 📝 Prompt
+
+```
+Başyapıt, en iyi kalite, bulutların arasında süzülen görkemli bir antik gemi şeklinde inşa edilmiş devasa bir yüzen Çin sarayının ultra detaylı sinematik dijital çizimi. Yapı, geleneksel Çin mimarisine sahip çok katlı süslü bölümler, altın detaylar, kırmızı fenerler ve karmaşık ahşap işçiliği içeriyor. Güneş ışığının süzüldüğü parlak bir gökyüzü altında, dramatik bulutlar ve yüzen kayalık dağlarla çevrili. Epik ölçek, yumuşak tanrı ışınları ve uçuşan parçacıklarla desteklenen görkemli ve mistik bir atmosfer. Yüksek detaylı mimari, bulutlar ve aydınlatma. Sol alt köşeye, zarif el yazısı kaligrafi stiliyle tam olarak 'Kisalay' yazan küçük ve şık bir imza ekleyin. Başka hiçbir metin veya filigran olmasın. Sinematik kompozisyon, canlı ancak zarif renkler, en iyi kalite, 8K çözünürlük.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4e591b16cafcb840fda94b6448589caa/thumbnails/thumbnail.jpg" width="600" alt="Yüzen Çin Sarayı Gemisi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6171)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067323749532316148) | **Published:** Jun 17, 2026
+
+---
+### Dumanlı Bar Giriş Çekimi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Karakterlerin dumanla dolu bir bara girişini göstermek için başlangıç ve bitiş karesi referanslarını kullanan sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+adamlar açık bir kapıdan dumanla dolu bir bara girerken @image1 görseliyle başlayıp @image2 ile bitir, sinematik bir an. Müzik yok. Konuşma yok.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/250a2e8d261b1b2527f8abda3bea4351/thumbnails/thumbnail.jpg" width="600" alt="Dumanlı Bar Giriş Çekimi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6170)**
+
+**Author:** [Jennifer 🇺🇸 🦅](https://x.com/Jenny_MommaLion) | **Source:** [Link](https://x.com/Jenny_MommaLion/status/2067298333295862106) | **Published:** Jun 17, 2026
+
+---
+### Sinematik Dövüş Sanatları Aksiyon Sekansı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Dinamik kamera açıları ve gerçekçi fizik kurallarıyla karmaşık manevralar yapan bir dövüş sanatçısını gösteren 6 saniyelik video için kapsamlı bir aksiyon istemi.
+
+#### 📝 Prompt
+
+```
+Başyapıt kalitesinde, engebeli arazide ilerlerken acımasız ve yüksek yoğunluklu bir dövüşe giren son derece yetenekli bir dövüşçünün 6 saniyelik videosu. Karakter; dönerek atılan tekmeler, uçan diz darbeleri, havada taklalar, duvar koşuları ve sert yere sermeler dahil olmak üzere hızlı ve güçlü dövüş sanatları komboları gerçekleştiriyor. Güçlü darbe etkisi ve momentum ile gerçekçi fizik kuralları. Takip çekimleri, dairesel kamera hareketleri ve dramatik düşük açılarla dinamik kamera çalışması. Sinematik aydınlatma, keskin hareket netliği, yoğun ve ham aksiyon, kesintisiz, akıcı ve güçlü koreografi, en iyi kalite, 6 saniyelik video.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f7f265442f781b2993abd2a68b8b9041/thumbnails/thumbnail.jpg" width="600" alt="Sinematik Dövüş Sanatları Aksiyon Sekansı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6169)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067298200520896673) | **Published:** Jun 17, 2026
+
+---
+### Heyecanlı Japonca Duyuru Dudak Senkronizasyonu
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Doğal bir heyecan, el hareketleri ve saç hareketleriyle Japonca gerçekçi dudak senkronizasyonu için bir komut.
+
+#### 📝 Prompt
+
+```
+Doğal ve heyecanlı Japonca, net bir ses, mükemmel dudak senkronizasyonu. Hafif el hareketleri, savrulan saçlar. "Herkes! xAI, Grok Imagine Video 1.5'i yayınladı! Görselden videoya oluşturma teknolojisi önemli ölçüde gelişti. Ses ve dudak senkronizasyonu mükemmel bir şekilde eşleşiyor ve fizik hesaplamaları gerçekçi bir şekilde iyileştirildi. Oluşturma hızı iki katına çıktı ve yaklaşık 25 saniyede tamamlanabiliyor."
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067236538212331520/img/TpprEy-FXWKCbcIA.jpg" width="600" alt="Heyecanlı Japonca Duyuru Dudak Senkronizasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6173)**
+
+**Author:** [右よし左よし秋よし@AIエンタメ](https://x.com/akiyoshisan) | **Source:** [Link](https://x.com/akiyoshisan/status/2067236929989423431) | **Published:** Jun 17, 2026
+
+---
+### Game of Thrones Ejderha Uçuşu Sinematik Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Game of Thrones'tan ilham alan, gerçekçi fizik ve ışıklandırma özelliklerine sahip epik bir ejderha uçuşu sekansı oluşturmak için referans görseli canlandıran, oldukça detaylı sinematik bir komut.
+
+#### 📝 Prompt
+
+```
+Bu referans görselini, HBO Game of Thrones ve House of the Dragon'daki epik ejderha sekanslarının görsel tarzında, 10-12 saniyelik nefes kesici bir sinematik videoya sadık bir şekilde dönüştürün. Referans görseliyle mükemmel tutarlılığı koruyun; Daenerys'in görünümü, Drogon'un anatomisi, pulları, kanat yapısı ve ilk ışıklandırması aynı kalmalıdır.
+
+Drogon, güçlü ve gerçekçi kanat çırpışları ve vücut dalgalanmalarıyla King's Landing çatıları üzerinde yüksek hızda alçaktan uçar. Çenelerinden çıkan devasa ve türbülanslı ateş, rüzgar ve harekete dinamik bir şekilde tepki verir; gerçekçi akışkan fiziği, geriye doğru uçuşan korlar, yoğun ısı bozulması ve ışık parlaması (bloom) ile görselleşir. Ateş, antik taş binaları ve Red Keep'i aşağıdan dramatik bir şekilde aydınlatarak değişken sıcak vurgular ve derin gölgeler oluşturur.
+
+Daenerys, komuta eden bir duruşla öne doğru eğilir; gümüş rengi saçları ve ağır pelerini, gerçekçi kumaş dinamikleri ve ataletle yüksek hızlı rüzgarda şiddetle savrulur. Havada ince kıvılcımlar ve kül parçacıkları bulunur.
+
+Kamera: Drogon'u hafif arka ve yan pozisyondan takip eden, ejderhayla birlikte yüksek hızda hareket eden dinamik, düşük açılı sinematik takip çekimi. Kamera, ejderhanın hareketiyle hafifçe yükselip yana yatarak güçlü bir hız, ölçek ve sürükleyicilik hissi yaratır. Kontrollü sinematik hassasiyetle harmanlanmış, hafif el kamerası enerjisine sahip akıcı ve süpürücü kamera hareketi.
+
+Fizik: Rüzgarı yakalayan ve esneyen son derece gerçekçi ejderha kanat zarı, doğal bir şekilde hareket eden kanat parmakları, otantik ağırlığa ve türbülansa sahip ağır pelerin ve saçlar, hava hareketiyle etkileşime giren gerçek akışkan dinamiğine sahip ateş.
+
+Işıklandırma ve atmosfer: Ejderha ateşi, şehrin mimarisini aşağıdan dramatik bir şekilde aydınlatan birincil hareketli ışık kaynağını sağlar. Volumetrik duman, korlar ve ısı pusları. Şehrin üzerinde hafif bir pus ile epik atmosferik derinlik.
+
+Doğal senkronize ses: Yoğun ateşin gürleyen sesi, güçlü rüzgar uğultusu ve doğal yankıya sahip uzak şehir ambiyansı ile harmanlanmış derin ve güçlü ejderha kükremesi. Fotogerçekçi render, tutarlı hareket, karmaşık detaylar, artefakt içermeyen, ARRI Alexa seviyesinde sadakatle çekilmiş. Başyapıt, maksimum epik ölçek, hız ve sinematik etki.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f64e6d9a9c5cdd32cb8c73cac1e521fc/thumbnails/thumbnail.jpg" width="600" alt="Game of Thrones Ejderha Uçuşu Sinematik Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6172)**
+
+**Author:** [AYi](https://x.com/AYi_AInotes) | **Source:** [Link](https://x.com/AYi_AInotes/status/2067227900399562775) | **Published:** Jun 17, 2026
+
+---
+### Alaycı Gülümseme Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir kişinin çocuksu bir ifadeyle, şakacı bir şekilde alaycı bir jest yaptığı ve gülümsediği Grok Imagine video istemi.
+
+#### 📝 Prompt
+
+```
+Hiçbir şey söylemeden, yüzünde bir gülümsemeyle çocukların başkalarıyla alay ederken yaptığı 'na na nère' hareketini yapıyor.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cd31fb0c4bf1e5446b1beecf277c60cf/thumbnails/thumbnail.jpg" width="600" alt="Alaycı Gülümseme Video İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6174)**
+
+**Author:** [Vincent](https://x.com/Source3467) | **Source:** [Link](https://x.com/Source3467/status/2067176050639897060) | **Published:** Jun 17, 2026
+
+---
 ### Rüya Gibi Yumuşak Hareketler ve Yankılanan Su
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2120,120 +2246,6 @@ Ekli görseldeki bu sahneyi canlandır; fırça darbelerinin ve çizimin tarzın
 **Author:** [Ward'z de Souza I](https://x.com/Wardz_de_souzA) | **Source:** [Link](https://x.com/Wardz_de_souzA/status/2062925042980200505) | **Published:** Jun 5, 2026
 
 ---
-### Büyülü Ormanın Mistik Dönüşümü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ağaçların mitolojik yaratıklara dönüştüğü ve sarmaşıkların büyülü rünlerle parladığı, uyanan büyülü bir ormanı gösteren sinematik bir hızlandırılmış çekim sekansı.
-
-#### 📝 Prompt
-
-```
-Büyülü orman dönüşümü; ağaçlar mitolojik yaratıklara dönüşüyor, yapraklar girdaplı sihirli toza evriliyor, sarmaşıklar birbirine dolanıp gizemli rünlerle parlıyor, bir büyücü asası ışık saçarak zeminde dalgalanmalar yaratıyor; 10 saniye içinde huzurlu halinden kaotik bir duruma geçen sürreal bir evrim.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8c7a29371246778f02be11dbbbe08a65/thumbnails/thumbnail.jpg" width="600" alt="Büyülü Ormanın Mistik Dönüşümü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5971)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2062888976545910905) | **Published:** Jun 5, 2026
-
----
-### Yüzen Adalar ve Sivri Kaya Kuleleri
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Altın bulutların üzerinde yüzen tektonik adalar ve sivri kaya kuleleri oluşturmak için sinematik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Sahneye, yoğun ve dalgalı altın bulut denizinin üzerinde asılı duran devasa, sivri kaya kuleleri ve yüzen tektonik adalar hakimdir. Çevre tamamen değişmeden kalır....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f4b19cb6d05cb55cda4096b2cc1434fd/thumbnails/thumbnail.jpg" width="600" alt="Yüzen Adalar ve Sivri Kaya Kuleleri">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5732)**
-
-**Author:** [amir prince arjmand kermani](https://x.com/PrinceKermani) | **Source:** [Link](https://x.com/PrinceKermani/status/2062781582730285234) | **Published:** Jun 5, 2026
-
----
-### Devasa Gün Batımı Dalgasında Sörf
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için, gün batımında bilim kurgu temalı bir gezegen koyunda 100 metrelik bir dalgayı yakalayan sörfçüyü betimleyen sinematik bir video istemi.
-
-#### 📝 Prompt
-
-```
-X Gezegeni koyunda gün batımında 7’2” Channel Islands sörf tahtamın üzerinde oturuyorum, arka planda uzak dağlar, sular dirençli ve oldukça yansıtıcı, 100 metrelik devasa bir dalga geliyor, ayağa kalk ve sağ kenarı tut
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cacdcc7cb7cbf8d4e72ccd886fa3c077/thumbnails/thumbnail.jpg" width="600" alt="Devasa Gün Batımı Dalgasında Sörf">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5731)**
-
-**Author:** [Notzucow](https://x.com/Notzucow69) | **Source:** [Link](https://x.com/Notzucow69/status/2062757757128695887) | **Published:** Jun 5, 2026
-
----
-### Uzay Uçuşunda Süzülmek
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> İnsanların uzayda hayranlık içinde süzüldüğü ve uzay uçuşunun sevincini kutladığı, ilham verici bir video istemi.
-
-#### 📝 Prompt
-
-```
-Uzayda nazikçe süzülüyorlar, hafif bir mutluluk ve hayranlık içindeler. Çocukların bir gün Uzay Uçuşu keyfini deneyimleyebilmeleri umuduyla! Dünyanın tüm çocukları
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/78359447c1b7c4038fbf73dd0b075512/thumbnails/thumbnail.jpg" width="600" alt="Uzay Uçuşunda Süzülmek">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5708)**
-
-**Author:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **Source:** [Link](https://x.com/foxypatience/status/2062603835319705755) | **Published:** Jun 4, 2026
-
----
-### Michelin Man Ghostbusters Savaşı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ghostbusters finalini, New York City'de Stay Puft Marshmallow Man yerine dev bir Michelin Man ile yeniden canlandıran sinematik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Ghostbusters (1984) filminin final savaş sahnesinin epik bir yeniden canlandırması; ancak Stay Puft Marshmallow Man yerine, tamamen dev beyaz marshmallow'lardan yapılmış devasa bir Michelin Bibendum yer alıyor. Gökdelen boyutlarında, New York City sokaklarının ortasında duruyor ve aşağıya doğru kocaman, masum bir gülümsemeyle bakıyor. Yumuşak, pofuduk marshmallow gövdesi, klasik Michelin Man'in katmanlı şekline sahip. Panik içinde kaçışan New Yorklular, ayaklarının altında ezilen sarı taksiler, etrafında patlamalar ve duman, dramatik düşük açılı perspektif, ateşli gün batımıyla sinematik aydınlatma, pratik özel efekt tarzı, ultra detaylı, şaheser
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a1f2f6599f98d16a2bdcfd8d69bf3107/thumbnails/thumbnail.jpg" width="600" alt="Michelin Man Ghostbusters Savaşı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5760)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2062548615558520998) | **Published:** Jun 4, 2026
-
----
-### Göksel Işıltılı Melek Kanatları
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Göksel bir parıltı içinde zarif bir melek varlığıyla ışıldayan yanardöner kanatların videosunu oluşturmak için bir komut.
-
-#### 📝 Prompt
-
-```
-Göksel rüyalarda ışıldayan yanardöner kanatlar… Ethereal bir parıltıyla sarmalanmış zarif bir melek varlığı.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e9c8d1355aa266a47dbcc282c9274428/thumbnails/thumbnail.jpg" width="600" alt="Göksel Işıltılı Melek Kanatları">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5711)**
-
-**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2062504737086611629) | **Published:** Jun 4, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2295,6 +2307,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-18T04:57:29.296Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-18T12:12:33.085Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1850** |
+| 📝 Total Prompts | **1856** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-18** |
 
@@ -189,6 +189,132 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### तैरता हुआ चीनी महलनुमा जहाज
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> बादलों के बीच एक प्राचीन जहाज के रूप में डिज़ाइन किए गए तैरते हुए चीनी महल का उच्च-गुणवत्ता वाला वीडियो बनाने के लिए एक विस्तृत प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+मास्टरपीस, सर्वोत्तम गुणवत्ता, बादलों के बीच तैरते एक विशाल प्राचीन जहाज के आकार में बने तैरते हुए चीनी महल की अति-विस्तृत सिनेमैटिक डिजिटल पेंटिंग। इस संरचना में पारंपरिक चीनी वास्तुकला, सुनहरे विवरण, लाल लालटेन और जटिल लकड़ी के काम के साथ कई अलंकृत स्तर हैं। यह नाटकीय बादलों और तैरते हुए चट्टानी पहाड़ों से घिरा हुआ है, जिसके ऊपर एक उज्ज्वल आकाश है जहाँ से सूरज की किरणें छनकर आ रही हैं। महाकाव्य पैमाना, कोमल ईश्वरीय किरणों (god rays) और तैरते हुए कणों के साथ राजसी और रहस्यमय वातावरण। अत्यधिक विस्तृत वास्तुकला, बादल और प्रकाश व्यवस्था। नीचे बाएं कोने में, एक छोटा सुरुचिपूर्ण हस्ताक्षर जोड़ें जिसमें परिष्कृत हस्तलिखित सुलेख शैली में बिल्कुल 'Kisalay' लिखा हो। कोई अन्य टेक्स्ट या वॉटरमार्क नहीं। सिनेमैटिक कंपोजिशन, जीवंत लेकिन सुरुचिपूर्ण रंग, सर्वोत्तम गुणवत्ता, 8K रिज़ॉल्यूशन।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4e591b16cafcb840fda94b6448589caa/thumbnails/thumbnail.jpg" width="600" alt="तैरता हुआ चीनी महलनुमा जहाज">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6171)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067323749532316148) | **Published:** Jun 17, 2026
+
+---
+### स्मोकी बार एंट्री शॉट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सिनेमाई वीडियो प्रॉम्प्ट जो धुएं से भरे बार में प्रवेश करते हुए पात्रों को दिखाने के लिए स्टार्ट और एंड फ्रेम रेफरेंस का उपयोग करता है।
+
+#### 📝 Prompt
+
+```
+start with image @image1 and end with @image2 as the men walk through an open door into a smoke filled bar, cinematic moment. No music. No speaking.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/250a2e8d261b1b2527f8abda3bea4351/thumbnails/thumbnail.jpg" width="600" alt="स्मोकी बार एंट्री शॉट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6170)**
+
+**Author:** [Jennifer 🇺🇸 🦅](https://x.com/Jenny_MommaLion) | **Source:** [Link](https://x.com/Jenny_MommaLion/status/2067298333295862106) | **Published:** Jun 17, 2026
+
+---
+### सिनेमैटिक मार्शल आर्ट्स कॉम्बैट सीक्वेंस
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 6-सेकंड के वीडियो के लिए एक व्यापक एक्शन प्रॉम्प्ट, जिसमें एक मार्शल आर्ट्स फाइटर को डायनामिक कैमरा एंगल और यथार्थवादी भौतिकी के साथ जटिल करतब दिखाते हुए दिखाया गया है।
+
+#### 📝 Prompt
+
+```
+मास्टरपीस क्वालिटी, 6-सेकंड का वीडियो जिसमें एक अत्यधिक कुशल फाइटर ऊबड़-खाबड़ इलाके में एक क्रूर, हाई-इंटेंसिटी लड़ाई में शामिल है। पात्र तेज, शक्तिशाली मार्शल आर्ट्स कॉम्बो करता है जिसमें स्पिनिंग किक, फ्लाइंग नीज़, एरियल फ्लिप, वॉल रन और घातक टेकडाउन शामिल हैं। भारी प्रभाव और गति के साथ मजबूत यथार्थवादी भौतिकी। ट्रैकिंग शॉट्स, सर्कलिंग कैमरा और नाटकीय लो एंगल के साथ डायनामिक कैमरा वर्क। सिनेमैटिक लाइटिंग, स्पष्ट मोशन क्लैरिटी, तीव्र और रॉ एक्शन, कोई कट नहीं, स्मूथ और शक्तिशाली कोरियोग्राफी, बेहतरीन क्वालिटी, 6-सेकंड का वीडियो।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f7f265442f781b2993abd2a68b8b9041/thumbnails/thumbnail.jpg" width="600" alt="सिनेमैटिक मार्शल आर्ट्स कॉम्बैट सीक्वेंस">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6169)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067298200520896673) | **Published:** Jun 17, 2026
+
+---
+### उत्साहित जापानी घोषणा लिप-सिंक
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> प्राकृतिक उत्साह, हाथ के इशारों और बालों की हलचल के साथ जापानी भाषा में यथार्थवादी लिप-सिंक के लिए एक प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+प्राकृतिक उत्साहित जापानी, स्पष्ट आवाज़, सटीक लिप-सिंक। हल्के हाथ के इशारे, बालों का लहराना। "सभी को नमस्कार! xAI ने Grok Imagine Video 1.5 जारी किया है! इमेज-टू-वीडियो जनरेशन में काफी विकास हुआ है। आवाज़ और लिप-सिंक पूरी तरह से सिंक्रोनाइज़्ड हैं, और भौतिकी गणनाओं में यथार्थवादी सुधार हुआ है। जनरेशन की गति दोगुनी हो गई है, और इसे लगभग 25 सेकंड में बनाया जा सकता है।"
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067236538212331520/img/TpprEy-FXWKCbcIA.jpg" width="600" alt="उत्साहित जापानी घोषणा लिप-सिंक">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6173)**
+
+**Author:** [右よし左よし秋よし@AIエンタメ](https://x.com/akiyoshisan) | **Source:** [Link](https://x.com/akiyoshisan/status/2067236929989423431) | **Published:** Jun 17, 2026
+
+---
+### Game of Thrones ड्रैगन फ्लाइट सिनेमैटिक वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Game of Thrones से प्रेरित एक महाकाव्य ड्रैगन उड़ान अनुक्रम में एक संदर्भ छवि को एनिमेट करने के लिए एक अत्यधिक विस्तृत सिनेमैटिक प्रॉम्प्ट, जिसमें यथार्थवादी भौतिकी और प्रकाश व्यवस्था शामिल है।
+
+#### 📝 Prompt
+
+```
+इस संदर्भ छवि को HBO के Game of Thrones और House of the Dragon के महाकाव्य ड्रैगन दृश्यों की सटीक दृश्य शैली में एक लुभावने 10-12 सेकंड के सिनेमैटिक वीडियो में ईमानदारी से एनिमेट करें। संदर्भ छवि के साथ पूर्ण स्थिरता बनाए रखें — Daenerys का रूप, Drogon की शारीरिक रचना, तराजू (scales), पंखों की संरचना और प्रारंभिक प्रकाश व्यवस्था।
+
+Drogon शक्तिशाली, यथार्थवादी पंखों की फड़फड़ाहट और शरीर की लहर के साथ King's Landing की छतों के ऊपर कम ऊंचाई पर तेज गति से उड़ता है। उसके जबड़ों से विशाल अशांत आग निकलती है, लपटें हवा और गति के साथ यथार्थवादी तरल भौतिकी के साथ गतिशील रूप से प्रतिक्रिया करती हैं, चमकते अंगारे पीछे की ओर उड़ते हैं, तीव्र गर्मी का विरूपण और प्रकाश का फैलाव होता है। आग प्राचीन पत्थर की इमारतों और Red Keep को नीचे से नाटकीय रूप से रोशन करती है, जिसमें बदलते गर्म हाइलाइट्स और गहरी छायाएं दिखाई देती हैं।
+
+Daenerys कमांडिंग मुद्रा के साथ आगे की ओर झुकती है, उसके चांदी के बाल और भारी लबादा तेज हवा में हिंसक रूप से लहराते हैं, जिसमें यथार्थवादी कपड़े की गतिशीलता और जड़ता होती है। हवा में सूक्ष्म चिंगारियां और राख के कण हैं।
+
+कैमरा: गतिशील लो-एंगल सिनेमैटिक ट्रैकिंग शॉट जो Drogon का थोड़ा पीछे और बगल की स्थिति से अनुसरण करता है, ड्रैगन के साथ तेज गति से चलता है। कैमरा ड्रैगन की गति के साथ सूक्ष्म रूप से ऊपर उठता और झुकता है, जिससे गति, पैमाने और विसर्जन की एक शक्तिशाली भावना पैदा होती है। नियंत्रित सिनेमैटिक परिशुद्धता के साथ मिश्रित हल्की हैंडहेल्ड ऊर्जा के साथ व्यापक, तरल कैमरा गति।
+
+भौतिकी: अत्यधिक यथार्थवादी ड्रैगन विंग झिल्ली का लचीलापन और हवा को पकड़ना, व्यक्तिगत पंखों की उंगलियों का स्वाभाविक रूप से हिलना, प्रामाणिक वजन और अशांति के साथ भारी लबादा और बाल, हवा की गति के साथ बातचीत और वास्तविक तरल गतिशीलता के साथ व्यवहार करती आग।
+
+प्रकाश और वातावरण: ड्रैगन की आग प्राथमिक चलती प्रकाश स्रोत प्रदान करती है, जो शहर की वास्तुकला को नीचे से नाटकीय रूप से रोशन करती है। वॉल्यूमेट्रिक धुआं, अंगारे और गर्मी की धुंध। शहर पर हल्की धुंध के साथ महाकाव्य वायुमंडलीय गहराई।
+
+नेटिव सिंक्रोनाइज़्ड ऑडियो: तीव्र आग की दहाड़ के साथ मिश्रित गहरी शक्तिशाली ड्रैगन की दहाड़, तेज हवा का झोंका, और प्राकृतिक प्रतिध्वनि के साथ दूर के शहर का माहौल। फोटो-यथार्थवादी रेंडरिंग, सुसंगत गति, जटिल विवरण, कोई आर्टिफैक्ट नहीं, ARRI Alexa-स्तर की निष्ठा के साथ शूट किया गया। मास्टरपीस, अधिकतम महाकाव्य पैमाना, गति और सिनेमैटिक प्रभाव।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f64e6d9a9c5cdd32cb8c73cac1e521fc/thumbnails/thumbnail.jpg" width="600" alt="Game of Thrones ड्रैगन फ्लाइट सिनेमैटिक वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6172)**
+
+**Author:** [AYi](https://x.com/AYi_AInotes) | **Source:** [Link](https://x.com/AYi_AInotes/status/2067227900399562775) | **Published:** Jun 17, 2026
+
+---
+### मॉक़िंग स्माइल वीडियो प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine का एक वीडियो प्रॉम्प्ट, जिसमें एक व्यक्ति को मुस्कुराते हुए चंचल अंदाज़ में मज़ाक उड़ाते हुए दिखाया गया है, जो बचपन की मासूम अभिव्यक्ति को दर्शाता है।
+
+#### 📝 Prompt
+
+```
+बिना कुछ कहे, वह मुस्कुराते हुए बच्चों की तरह 'ना ना नैर' (na na nère) वाला मज़ाकिया इशारा करती है।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cd31fb0c4bf1e5446b1beecf277c60cf/thumbnails/thumbnail.jpg" width="600" alt="मॉक़िंग स्माइल वीडियो प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6174)**
+
+**Author:** [Vincent](https://x.com/Source3467) | **Source:** [Link](https://x.com/Source3467/status/2067176050639897060) | **Published:** Jun 17, 2026
+
+---
 ### स्वप्निल कोमल गति और गूंजता हुआ पानी
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2139,120 +2265,6 @@ Jilla कहती है: "हर कदम।"
 **Author:** [Ward'z de Souza I](https://x.com/Wardz_de_souzA) | **Source:** [Link](https://x.com/Wardz_de_souzA/status/2062925042980200505) | **Published:** Jun 5, 2026
 
 ---
-### जादुई जंगल का पौराणिक रूपांतरण
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमाई टाइम-लैप्स दृश्य जिसमें एक जादुई जंगल जागृत होता है, जहाँ पेड़ पौराणिक जानवरों में बदल जाते हैं और बेलें जादुई प्रतीकों (runes) के साथ स्पंदित होती हैं।
-
-#### 📝 Prompt
-
-```
-जादुई जंगल का रूपांतरण, पेड़ पौराणिक जानवरों में बदल रहे हैं, पत्तियाँ जादुई धूल में परिवर्तित हो रही हैं, बेलें आपस में लिपटकर रहस्यमयी प्रतीकों के साथ चमक रही हैं, एक जादूगर की छड़ी से निकलती रोशनी जमीन पर लहरें पैदा कर रही है, 10 सेकंड में शांत से अराजक स्थिति में होता एक असली टाइम-लैप्स विकास।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8c7a29371246778f02be11dbbbe08a65/thumbnails/thumbnail.jpg" width="600" alt="जादुई जंगल का पौराणिक रूपांतरण">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5971)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2062888976545910905) | **Published:** Jun 5, 2026
-
----
-### तैरते द्वीप और चट्टानी मीनारें
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> सुनहरे बादलों के ऊपर तैरते हुए टेक्टोनिक द्वीपों और नुकीली चट्टानी मीनारों को उत्पन्न करने के लिए एक सिनेमैटिक वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-यह दृश्य विशाल, नुकीली चट्टानी मीनारों और सुनहरे बादलों के घने, लहराते समुद्र के ऊपर लटके हुए तैरते टेक्टोनिक द्वीपों से भरा हुआ है। वातावरण पूरी तरह से अपरिवर्तित रहता है....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f4b19cb6d05cb55cda4096b2cc1434fd/thumbnails/thumbnail.jpg" width="600" alt="तैरते द्वीप और चट्टानी मीनारें">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5732)**
-
-**Author:** [amir prince arjmand kermani](https://x.com/PrinceKermani) | **Source:** [Link](https://x.com/PrinceKermani/status/2062781582730285234) | **Published:** Jun 5, 2026
-
----
-### विशाल सूर्यास्त लहर पर सर्फिंग
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक सिनेमैटिक वीडियो प्रॉम्प्ट, जिसमें एक सर्फर को सूर्यास्त के समय एक साइंस-फिक्शन ग्रहीय खाड़ी में 100 मीटर ऊंची लहर पकड़ते हुए दिखाया गया है।
-
-#### 📝 Prompt
-
-```
-सूर्यास्त के समय X Planet की खाड़ी में अपने 7’2” Channel Islands सर्फ़बोर्ड पर बैठा हूँ, पृष्ठभूमि में दूर पहाड़ हैं, पानी लचीला और अत्यधिक परावर्तक है, एक विशाल 100 मीटर की लहर आ रही है, खड़े होकर दाहिनी रेल को पकड़ें
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cacdcc7cb7cbf8d4e72ccd886fa3c077/thumbnails/thumbnail.jpg" width="600" alt="विशाल सूर्यास्त लहर पर सर्फिंग">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5731)**
-
-**Author:** [Notzucow](https://x.com/Notzucow69) | **Source:** [Link](https://x.com/Notzucow69/status/2062757757128695887) | **Published:** Jun 5, 2026
-
----
-### अंतरिक्ष उड़ान में तैरना
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> अंतरिक्ष में विस्मय के साथ तैरते लोगों के एक वीडियो के लिए एक प्रेरणादायक प्रॉम्प्ट, जो अंतरिक्ष उड़ान की खुशी का जश्न मनाता है।
-
-#### 📝 Prompt
-
-```
-वे धीरे-धीरे अंतरिक्ष में तैर रहे हैं, सूक्ष्म रूप से खुश और विस्मय में हैं। इस उम्मीद में कि बच्चे एक दिन अंतरिक्ष उड़ान (Space Flight) के आनंद का अनुभव करेंगे! दुनिया के सभी बच्चे
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/78359447c1b7c4038fbf73dd0b075512/thumbnails/thumbnail.jpg" width="600" alt="अंतरिक्ष उड़ान में तैरना">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5708)**
-
-**Author:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **Source:** [Link](https://x.com/foxypatience/status/2062603835319705755) | **Published:** Jun 4, 2026
-
----
-### Michelin Man Ghostbusters की लड़ाई
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ghostbusters के फिनाले को फिर से बनाने वाला एक सिनेमैटिक वीडियो प्रॉम्प्ट, जिसमें न्यूयॉर्क शहर में Stay Puft Marshmallow Man की जगह एक विशाल Michelin Man को दिखाया गया है।
-
-#### 📝 Prompt
-
-```
-Ghostbusters (1984) के अंतिम युद्ध दृश्य का एक शानदार रूपांतरण, लेकिन Stay Puft Marshmallow Man के बजाय, इसमें पूरी तरह से विशाल सफेद मार्शमैलो से बना एक विशालकाय Michelin Bibendum है। वह गगनचुंबी इमारत जितना बड़ा है, न्यूयॉर्क शहर की सड़कों के बीच में खड़ा है, और एक बड़ी मासूम मुस्कान के साथ नीचे देख रहा है। उसके नरम फूले हुए मार्शमैलो शरीर में क्लासिक स्टैक्ड Michelin Man का आकार है। घबराए हुए न्यूयॉर्क निवासी भाग रहे हैं, पीली टैक्सियाँ उसके पैरों के नीचे कुचली जा रही हैं, उसके चारों ओर विस्फोट और धुआं है, नाटकीय लो-एंगल परिप्रेक्ष्य, अग्नि सूर्यास्त के साथ सिनेमैटिक लाइटिंग, प्रैक्टिकल स्पेशल इफेक्ट्स स्टाइल, अल्ट्रा डिटेल्ड, मास्टरपीस
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a1f2f6599f98d16a2bdcfd8d69bf3107/thumbnails/thumbnail.jpg" width="600" alt="Michelin Man Ghostbusters की लड़ाई">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5760)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2062548615558520998) | **Published:** Jun 4, 2026
-
----
-### सेलेस्टियल शिमरिंग एंजेल विंग्स
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक दिव्य चमक के साथ सुंदर देवदूत जैसी उपस्थिति के साथ झिलमिलाते इंद्रधनुषी पंखों का वीडियो बनाने के लिए एक प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-दिव्य सपनों में झिलमिलाते इंद्रधनुषी पंख... अलौकिक चमक में लिपटी एक सुंदर देवदूत जैसी उपस्थिति।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e9c8d1355aa266a47dbcc282c9274428/thumbnails/thumbnail.jpg" width="600" alt="सेलेस्टियल शिमरिंग एंजेल विंग्स">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5711)**
-
-**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2062504737086611629) | **Published:** Jun 4, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2314,6 +2326,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-18T04:57:18.209Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-18T12:12:23.945Z</sub>
 
 </div>
