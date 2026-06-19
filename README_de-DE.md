@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1856** |
+| 📝 Total Prompts | **1879** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-19** |
 
@@ -189,6 +189,427 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Orbital-Kamera-Szene: Paar in der Abenddämmerung
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein filmischer Video-Prompt, der eine langsame Orbital-Kamerafahrt um ein Paar in der Abenddämmerung mit leuchtenden Details und dem Licht der goldenen Stunde beschreibt.
+
+#### 📝 Prompt
+
+```
+Langsame Orbital-Kamerafahrt, die das Paar leicht umkreist und dabei sanft heranzoomt. Sie behalten ihre gefasste Haltung bei; leuchtende Ohrhörer pulsieren sanft. Die Skyline in der Abenddämmerung und das Licht der goldenen Stunde bleiben beständig. Fließende, filmische Bewegung, keine Schnitte.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3c09f0b18600f0547d234e66025d00b/thumbnails/thumbnail.jpg" width="600" alt="Orbital-Kamera-Szene: Paar in der Abenddämmerung">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6193)**
+
+**Author:** [Runaway Outlier](https://x.com/CantTameFire) | **Source:** [Link](https://x.com/CantTameFire/status/2067753638194552933) | **Published:** Jun 18, 2026
+
+---
+### Motocross-Backflip in den Sanddünen
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein actiongeladener Video-Prompt für einen Dirt-Bike-Sprung mit Backflip in den Motocross-Sanddünen.
+
+#### 📝 Prompt
+
+```
+Ich bin in den Motocross-Sanddünen, steige auf mein Dirt-Bike, mache einen Sprung, führe einen Backflip aus und lande sicher.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9a48b6a6332f231319b73af683af335e/thumbnails/thumbnail.jpg" width="600" alt="Motocross-Backflip in den Sanddünen">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6206)**
+
+**Author:** [James Parker](https://x.com/JamesPa71114225) | **Source:** [Link](https://x.com/JamesPa71114225/status/2067701377879486799) | **Published:** Jun 18, 2026
+
+---
+### Detektiv-Motivtafel-Collage
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein kreativer Video-Prompt, der mehrere Bilder zu einer dramatischen Collage im Detektiv-Stil kombiniert.
+
+#### 📝 Prompt
+
+```
+Kombiniere diese 8 Bilder zu einem Vollbild, indem du eine dramatische „Motivtafel“-Collage im Detektiv-Stil erstellst, die in der Mitte mit dem Titel „MOTIVE“ in einer fetten, geheimnisvollen Schrift versehen ist. Verwende die Screenshots der Trading-App (wiederkehrende Investitionen mit hohen wöchentlichen Beträgen,...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/34f6911038868eede263c6c61fcbda14/thumbnails/thumbnail.jpg" width="600" alt="Detektiv-Motivtafel-Collage">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6198)**
+
+**Author:** [Laura k Brown](https://x.com/Coinbase000001) | **Source:** [Link](https://x.com/Coinbase000001/status/2067695829675020692) | **Published:** Jun 18, 2026
+
+---
+### Authentische Stadionaufnahme einer ruhigen Zuschauerin
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein ultrarealistischer, authentischer Video-Prompt einer jungen Frau auf einer Stadiontribüne, mit subtilen Bewegungen wie Blinzeln und Atmen in einem dokumentarischen Stil.
+
+#### 📝 Prompt
+
+```
+Ultrarealistische, authentische Aufnahme von einer Stadiontribüne. Eine junge Frau sitzt ruhig da und verfolgt das Spiel, wobei sie genau das tut, was auf dem Foto zu sehen ist – sitzen, gelegentlich essen oder an einem Getränk nippen, natürliches Blinzeln, ruhige Atmung. Keine Flaggen, kein Fangesang, keine Hymnen, keine patriotischen Gesten oder Gesichtsbemalung, keine übertriebenen Reaktionen, kein Klatschen, kein Jubel. Komplett still, kein Sprechen, keine Lippenbewegungen. Subtile Handkameraführung, geringe Schärfentiefe, realistische Stadionbeleuchtung und Zuschauer im Hintergrund. Keine Artefakte, kein verzerrtes Gesicht, kein Morphing, konsistente Identität und Kleidung durchgehend. Ruhiger, neutraler, dokumentarischer Stil, 4K.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cb0cf158f23e217eaceac670dabe183d/thumbnails/thumbnail.jpg" width="600" alt="Authentische Stadionaufnahme einer ruhigen Zuschauerin">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6213)**
+
+**Author:** [Natai](https://x.com/masterai13) | **Source:** [Link](https://x.com/masterai13/status/2067687869464899651) | **Published:** Jun 18, 2026
+
+---
+### Verlassenes Klassenzimmer mit Bergblick
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein eindrucksvoller filmischer Prompt eines verlassenen Klassenzimmers mit abblätternder Farbe und Sonnenlicht, das einen Kontrast zu einem lebendigen Bergblick im Hintergrund bildet.
+
+#### 📝 Prompt
+
+```
+Meisterwerk, beste Qualität, ultra-detailliertes filmisches Bild eines verlassenen Klassenzimmers mit abblätternder blauer Farbe an Wänden und Decke. Sonnenlicht strömt durch große, zerbrochene Fenster und erzeugt wunderschöne Reflexionen auf dem nassen Boden. Außerhalb der Fenster bietet sich ein atemberaubender Blick auf grüne Berge und einen strahlend blauen Himmel mit flauschigen weißen Wolken. Der Kontrast zwischen dem verfallenden Klassenzimmer und der lebendigen Außenwelt erzeugt eine kraftvolle Atmosphäre. Hochdetaillierte Texturen, Beleuchtung und Reflexionen. Emotionale und filmische Stimmung, beste Qualität, 8K-Auflösung.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2127f4dccb275fa65ac86744afaa816b/thumbnails/thumbnail.jpg" width="600" alt="Verlassenes Klassenzimmer mit Bergblick">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6202)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067675094315614281) | **Published:** Jun 18, 2026
+
+---
+### Intimes Zukunftsgespräch eines Paares
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Prompt, der sich auf einen intimen Dialog zwischen einem Paar über ihre Zukunftsängste konzentriert.
+
+#### 📝 Prompt
+
+```
+Ein Paar führt ein kurzes, intimes Gespräch: „Ich habe Angst vor der Zukunft“ ist das Thema.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f6b3f28ed2764666ea0b351486db68a1/thumbnails/thumbnail.jpg" width="600" alt="Intimes Zukunftsgespräch eines Paares">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6199)**
+
+**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2067674068950667319) | **Published:** Jun 18, 2026
+
+---
+### Gangster Elon Musk mit Dogecoin-Medaillon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein humorvoller Video-Prompt, der Elon Musk im Hip-Hop-Gangster-Stil mit goldenen Accessoires und Ringen von Tech-Marken zeigt.
+
+#### 📝 Prompt
+
+```
+Elon Musk als Hip-Hop-Gangster mit goldenem Grill, cooler Sonnenbrille und Gangster-Outfit, inklusive Pelzmantel, Dogecoin-Medaillon-Halskette sowie goldenen Ringen an den Fingern, wobei jeder Ring das Logo von SpaceX, xAI, Tesla, Neuralink und der Boring Company trägt...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4cd7e54c14a3a121297ccbda617e0b5f/thumbnails/thumbnail.jpg" width="600" alt="Gangster Elon Musk mit Dogecoin-Medaillon">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6204)**
+
+**Author:** [sho](https://x.com/sho00092729) | **Source:** [Link](https://x.com/sho00092729/status/2067669306624585821) | **Published:** Jun 18, 2026
+
+---
+### Black Myth Wukong Kriegerszene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein epischer, filmreifer Prompt, inspiriert von Black Myth: Wukong, der einen Krieger zeigt, der sich in einer nebligen, mystischen Umgebung massiven Wächterstatuen stellt.
+
+#### 📝 Prompt
+
+```
+Meisterwerk, beste Qualität, ultra-detailliertes filmreifes Bild aus Black Myth: Wukong. Ein einsamer Krieger steht auf einer felsigen Klippe, hält einen langen Stab und blickt drei massiven, antiken Wächterstatuen entgegen, die in dichten Nebel und dramatische Lichtstrahlen gehüllt sind. Die Szene hat eine dunkle, epische und mystische Atmosphäre mit schwebenden Partikeln und stimmungsvoller Beleuchtung. Hochdetaillierte Rüstung, Statuen und Umgebung. Filmreife Komposition, scharfe Details, beste Qualität, 8K-Auflösung.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d9881f33649d46b1e7fa2d3552f829a9/thumbnails/thumbnail.jpg" width="600" alt="Black Myth Wukong Kriegerszene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6200)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067658367368352257) | **Published:** Jun 18, 2026
+
+---
+### 3D-animierter sprechender Hund
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein 3D-Animations-Video-Prompt mit einem sprechenden Hund, der über die Zukunft und Gleichberechtigung spricht.
+
+#### 📝 Prompt
+
+```
+Statische Aufnahme, 3D-Animation, und der Hund sagt: Können wir wirklich eine Zukunft aufbauen, in der jeder genug zu essen hat und niemand zurückgelassen wird?
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a3a2c154173fa5431d689efeb6869ec8/thumbnails/thumbnail.jpg" width="600" alt="3D-animierter sprechender Hund">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6210)**
+
+**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2067652638263370030) | **Published:** Jun 18, 2026
+
+---
+### Optimus beim Bau und der Restaurierung von Häusern
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Prompt, der einen Optimus-Roboter beim Bau eines Hauses zeigt, während er über die Kunst der Restaurierung spricht.
+
+#### 📝 Prompt
+
+```
+Lass uns Elon wie ein verdammtes Genie aussehen lassen. Packen wir es an. Ich lasse diesen Optimus ein Haus bauen, und dann sagt er: Restaurierung, Sanierung, Rehabilitation – die Kunst, alte Seelen und alte Häuser zu retten, bei der wir versuchen, den Rückstand aufzuholen, damit wir darüber hinausgehen und...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3d830e8925b695a916ce9e676e7059eb/thumbnails/thumbnail.jpg" width="600" alt="Optimus beim Bau und der Restaurierung von Häusern">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6208)**
+
+**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2067651155044319585) | **Published:** Jun 18, 2026
+
+---
+### Schwebende Regenschirme an der Shibuya-Kreuzung
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein surrealer, filmischer Video-Prompt für Grok Imagine, der Menschen mit Regenschirmen zeigt, die nachts über der Shibuya-Kreuzung schweben.
+
+#### 📝 Prompt
+
+```
+In dieser surrealen, filmischen Kunstszene schweben Menschen mit bunten Regenschirmen sanft und langsam nach oben und driften anmutig in den Nachthimmel über der Shibuya-Kreuzung davon, begleitet von einer leichten Brise, magischem Auftrieb, einer langsamen, eleganten Aufwärtsbewegung und...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6abc090bd78830396cd00095782e7a7e/thumbnails/thumbnail.jpg" width="600" alt="Schwebende Regenschirme an der Shibuya-Kreuzung">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6195)**
+
+**Author:** [JetCapBoy](https://x.com/JetCapBoy) | **Source:** [Link](https://x.com/JetCapBoy/status/2067603546540056770) | **Published:** Jun 18, 2026
+
+---
+### Magisches Gemälde: Das Brüllen des Löwen
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein cineastischer Video-Prompt, bei dem ein eingerahmter Löwe in einem dunklen Schlafzimmer zum Leben erwacht und ein mächtiges Brüllen von sich gibt.
+
+#### 📝 Prompt
+
+```
+In dieser dunklen Schlafzimmerszene erwacht nur der Löwe innerhalb des großen, kunstvollen schwarzen Rahmens an der schwarzen Wand auf magische Weise in einem malerischen Stil zum Leben. Der mächtige männliche Löwe dreht langsam seinen Kopf in Richtung des Betrachters und stößt ein kraftvolles Brüllen aus.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b76266c625c49d0fbb90629e1de12a71/thumbnails/thumbnail.jpg" width="600" alt="Magisches Gemälde: Das Brüllen des Löwen">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6196)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2067598831827484846) | **Published:** Jun 18, 2026
+
+---
+### Filmischer Dolly-In auf einen japanischen gedeckten Tisch
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Prompt für eine langsame, filmische Dolly-In-Aufnahme eines intimen japanischen Restauranttisches, mit aufsteigendem Dampf aus einer Tempura-Schüssel und warmer Bokeh-Beleuchtung.
+
+#### 📝 Prompt
+
+```
+Langsamer, filmischer Dolly-In auf den gedeckten Tisch in einem intimen japanischen Restaurant. Dezente Dampfschwaden steigen aus der heißen Tempura-Schüssel auf. Warme Pendelleuchten leuchten sanft mit weichem Bokeh. Die Gastgeberin lächelt einladend mit einem leichten, natürlichen Blinzeln.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/028b826fe5241d87da6ce8ff6cf616e6/thumbnails/thumbnail.jpg" width="600" alt="Filmischer Dolly-In auf einen japanischen gedeckten Tisch">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6212)**
+
+**Author:** [淼儿](https://x.com/tasakimori) | **Source:** [Link](https://x.com/tasakimori/status/2067589992281674195) | **Published:** Jun 18, 2026
+
+---
+### Löwe beim Kaffeetrinken
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein skurriler Video-Prompt, der einen friedlichen Löwen zeigt, der bei einer Tasse Kaffee über das Leben nachdenkt.
+
+#### 📝 Prompt
+
+```
+Eine kleine Tasse Kaffee und plötzlich brüllt der Löwe die Welt nicht mehr an... er schlürft einfach seinen Kaffee und philosophiert über das Leben wie wir alle. Guten Morgen ☕️🦁
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4eccf91fa142bb03ff977749eee6f9ae/thumbnails/thumbnail.jpg" width="600" alt="Löwe beim Kaffeetrinken">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6201)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2067548190778216759) | **Published:** Jun 18, 2026
+
+---
+### Morgenkaffee mit Löwe
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein skurriler Video-Prompt für Grok Imagine, der einen dramatischen Löwen in einer Morgenkaffee-Szene zeigt.
+
+#### 📝 Prompt
+
+```
+So wachen wir auf ☕ Kaffee, Chaos, ein Brüllen und Witze. Guten Morgen von mir und meinem dramatischen Löwen 🦁
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/46b53cf185e14a15977bb2aff2c90ad2/thumbnails/thumbnail.jpg" width="600" alt="Morgenkaffee mit Löwe">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6194)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2067543441685282900) | **Published:** Jun 18, 2026
+
+---
+### Motorrad-Wheelie mit Flammen aus dem Auspuff
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Prompt für ein Motorrad, das startet, Feuer spuckt und auf der Straße einen Wheelie macht, während Flammen aus dem Auspuff schlagen.
+
+#### 📝 Prompt
+
+```
+Starte jetzt das Motorrad, lass Feuer aus den Auspuffrohren schießen, fahre dann für zehn Sekunden auf die Straße und mache einen Wheelie mit mir darauf, während Flammen aus den Auspuffrohren kommen
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cc6da1857b761b8a7c7410d431f54bc8/thumbnails/thumbnail.jpg" width="600" alt="Motorrad-Wheelie mit Flammen aus dem Auspuff">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6211)**
+
+**Author:** [James Parker](https://x.com/JamesPa71114225) | **Source:** [Link](https://x.com/JamesPa71114225/status/2067483309567799473) | **Published:** Jun 18, 2026
+
+---
+### Erweiterung des Himmels bei einem Bergwasserfall
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Generierungs-Prompt für Grok Imagine, der ein Referenzbild modifiziert, um den Himmel zu erweitern und eine dramatische Atmosphäre zu schaffen, während das Motiv im Vordergrund erhalten bleibt.
+
+#### 📝 Prompt
+
+```
+Ändern Sie die Hintergrundkomposition des Referenzbildes, um deutlich mehr Himmel zu zeigen: Erweitern Sie den oberen Teil des Bildausschnitts mit einem dramatischeren, weitläufigeren Himmel über den Bergen und dem herabstürzenden Wasserfall, während die Frau im Vordergrund beibehalten wird...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0f304e99365084c575e53794df11d167/thumbnails/thumbnail.jpg" width="600" alt="Erweiterung des Himmels bei einem Bergwasserfall">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6192)**
+
+**Author:** [Christine Savard](https://x.com/christinesavard) | **Source:** [Link](https://x.com/christinesavard/status/2067464489629618651) | **Published:** Jun 18, 2026
+
+---
+### Elon Musk SpaceX Billionärs-Feier
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Verwandelt ein Event-Foto in ein episches Feier-Video mit Glückwunschtext über Elon Musks Aufstieg zum Billionär und den SpaceX-Börsengang.
+
+#### 📝 Prompt
+
+```
+Verwandle dieses feierliche @elonmusk @SpaceX Event-Foto in eine epische Glückwunschszene. Behalte Elon Musk und das Team im Vordergrund am @Nasdaq-Podium bei, wobei das @SpaceX-Logo gut sichtbar ist. Füge im oberen und unteren Bereich elegante, fettgedruckte Texteinblendungen hinzu:
+
+Herzlichen Glückwunsch an #ElonMusk, Gründer und CEO von #SpaceX (#SPCX), zum Aufstieg als weltweit erster Billionär – und zum Bau des #Starship, um die Menschheit zum Mars zu bringen!
+Dieser Meilenstein, angetrieben durch den bahnbrechenden #SpaceXIPO, markiert eine unglaubliche Leistung bei der Erweiterung der Grenzen von Innovation und Exploration. Auf die Zukunft eines multiplanetaren Lebens! 🚀🪐 #JehovahElElyon12282009
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d65d08f5c142b7267b5a9c1acfcd5421/thumbnails/thumbnail.jpg" width="600" alt="Elon Musk SpaceX Billionärs-Feier">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6203)**
+
+**Author:** [Lillene Christy Ebanks](https://x.com/ChristyEbanks28) | **Source:** [Link](https://x.com/ChristyEbanks28/status/2067454311978676230) | **Published:** Jun 18, 2026
+
+---
+### Stranger in a Strange Land Mars-Szene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein narrativer Video-Prompt, der die erste Mars-Expedition und das Aufwachsen von Valentine Michael Smith darstellt.
+
+#### 📝 Prompt
+
+```
+Beginne am Anfang von Stranger in a Strange Land: Erzähle die erste Mars-Expedition, die Geburt und das marsianische Aufwachsen von Valentine Michael Smith (der junge Mann im Gewand). Der ältere Mann als Jubal und die blonde Krankenschwester hören aufmerksam am Pool zu i...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/40169451cc915cf798e08455520bfc62/thumbnails/thumbnail.jpg" width="600" alt="Stranger in a Strange Land Mars-Szene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6207)**
+
+**Author:** [Timothy Norman](https://x.com/Timothy01775634) | **Source:** [Link](https://x.com/Timothy01775634/status/2067442256563359991) | **Published:** Jun 18, 2026
+
+---
+### Alien-UFO-Comedy-Szene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein humorvoller Video-Prompt, bei dem ein UFO landet und ein Alien einen Witz erzählt.
+
+#### 📝 Prompt
+
+```
+Dunkler Wald, ein UFO erscheint, ein helles Licht strahlt herab und ein Alien erscheint und sagt: Deine Mutter ist so fett, Jupiter kreist um sie!
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/17c60e6724e37542de67562383070a46/thumbnails/thumbnail.jpg" width="600" alt="Alien-UFO-Comedy-Szene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6197)**
+
+**Author:** [Eli Stewart](https://x.com/EliStew17092519) | **Source:** [Link](https://x.com/EliStew17092519/status/2067435312884719780) | **Published:** Jun 18, 2026
+
+---
+### SpaceX Starship Orbital-Landekapseln
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Sci-Fi-Video-Prompt zur Generierung von Bildern von SpaceX-artigen Landekapseln, die Überlebensausrüstung und Technik-Fässer enthalten.
+
+#### 📝 Prompt
+
+```
+Generiere Bilder von orbitalen Landekapseln, die wie Mini-Versionen der SpaceX Starship-Kapseln aussehen und 200-Liter-Fässer verschiedener Art enthalten, wie zum Beispiel Optimus in einem Fass mit anderen Gegenständen, Lebensmittel-Fässer, Technik-Fässer, Werkzeug-Fässer, Getränke-Fässer, Überlebens-Fässer, ...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dfbe71700fa45224a1b47b796d4abbb5/thumbnails/thumbnail.jpg" width="600" alt="SpaceX Starship Orbital-Landekapseln">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6209)**
+
+**Author:** [Internet James](https://x.com/iminternetjames) | **Source:** [Link](https://x.com/iminternetjames/status/2067426068445962242) | **Published:** Jun 18, 2026
+
+---
+### Astronaut arbeitet an Asteroiden-Rakete
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein cineastischer Video-Prompt eines Astronauten auf einem winzigen Asteroiden, der versucht, ein Raketentriebwerk für den Antrieb zu nutzen.
+
+#### 📝 Prompt
+
+```
+Ein Mann in einem Raumanzug steht auf einem Asteroiden mit nur drei Metern Durchmesser. Er arbeitet an einem Raketentriebwerk, das auf dem Kopf steht, wobei der Schub vom Asteroiden weg direkt in den Asteroiden hinein gerichtet ist. Dies verwandelt den Asteroiden in ein S...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/190f7047cf776146400d8cced4642421/thumbnails/thumbnail.jpg" width="600" alt="Astronaut arbeitet an Asteroiden-Rakete">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6205)**
+
+**Author:** [Bill Christensen](https://x.com/Technovelgy) | **Source:** [Link](https://x.com/Technovelgy/status/2067414916328251621) | **Published:** Jun 18, 2026
+
+---
 ### Schwebender chinesischer Palast als Schiff
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -587,7 +1008,7 @@ Dynamische, energiegeladene akrobatische Kampfsequenz. Flüssige, kraftvolle und
 Eine anmutige Ballerina, die sanft zwischen blühenden rosafarbenen Rosen tanzt… Ein sanftes Flüstern der Blütenblätter und verträumte Eleganz.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/045c6b911dc5f7bdff46fc6d9559c49f/thumbnails/thumbnail.jpg" width="600" alt="Video-Prompt: Ballerina zwischen Rosen">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/da6120ba1a0ba331d85e9ddf0963d9f0/thumbnails/thumbnail.jpg" width="600" alt="Video-Prompt: Ballerina zwischen Rosen">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6138)**
 
@@ -1151,6 +1572,25 @@ Eine majestätische, cineastische Weitwinkelaufnahme im epischen Filmstil von Jo
 **Author:** [Moonlighter](https://x.com/moonlighter3000) | **Source:** [Link](https://x.com/moonlighter3000/status/2065693534481531035) | **Published:** Jun 13, 2026
 
 ---
+### Rallye-Auto Küsten-Drift-Rettung
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein intensiver Action-Szenen-Prompt für eine Rallye-Auto-Rettungssequenz mit synchronem Driften auf einer mediterranen Küstenstraße, inklusive Rauch- und Schottereffekten.
+
+#### 📝 Prompt
+
+```
+Haarnadelkurve über der Mittelmeerküste. KAIROs gelb-schwarzes Rallye-Coupé mit der Nummer 07 stabilisiert gezielt LIRAs rutschendes Fahrzeug. Beide Rallye-Autos in einem synchronen Drift. Die Türen berühren sich fast, ohne zu kollidieren. Reifenrauch. Aufgewirbelter Schotter.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/63ee4bf1c0503f4c18548c9ae124ec6e/thumbnails/thumbnail.jpg" width="600" alt="Rallye-Auto Küsten-Drift-Rettung">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6214)**
+
+**Author:** [Israa Ali](https://x.com/Israa_Ali2077) | **Source:** [Link](https://x.com/Israa_Ali2077/status/2065453142959952120) | **Published:** Jun 12, 2026
+
+---
 ### Erkundung mit dem interstellaren Scout-Schiff
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1163,7 +1603,7 @@ Eine majestätische, cineastische Weitwinkelaufnahme im epischen Filmstil von Jo
 Ein interstellares Scout-Schiff reist durch die Galaxie auf der Suche nach atemberaubenden, unentdeckten Planeten, um diese in die exklusivsten und luxuriösesten Resorts zu verwandeln, die das Universum je gesehen hat.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/25a3518065fe0026b6d3a4e97cc63bd5/thumbnails/thumbnail.jpg" width="600" alt="Erkundung mit dem interstellaren Scout-Schiff">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/54e7d09d50668efae7eaec10db39126e/thumbnails/thumbnail.jpg" width="600" alt="Erkundung mit dem interstellaren Scout-Schiff">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5994)**
 
@@ -1816,450 +2256,6 @@ UND ICH WAR ES AUCH.
 **Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2064480706240111096) | **Published:** Jun 9, 2026
 
 ---
-### Ätherische Frau mit strahlenförmiger Heiligenschein-Krone
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochdetaillierter, filmreifer Prompt für die Erstellung eines mystischen Porträts einer ätherischen Frau mit einer kunstvollen, strahlenförmigen Heiligenschein-Krone, gekennzeichnet durch sanfte Beleuchtung und elegante Spitzendetails.
-
-#### 📝 Prompt
-
-```
-realistisches Nahaufnahme-Porträt einer blassen, ätherischen Frau mit zarten Sommersprossen, extrem blasser Porzellanhaut, langem, glattem, platinblondem Haar, das sanft fällt, geschlossenen Augen, gelassenem und mystischem Ausdruck, sanften pfirsichfarbenen Lippen. Sie trägt eine hochdetaillierte, verzierte Heiligenschein-Krone aus dunklem Metall mit scharfen Spitzen und leuchtenden, bernsteinfarbenen Buntglassegmenten, die ein warmes Licht ausstrahlen, weißes Fantasy-Kleid: tief ausgeschnittener Halsausschnitt, lange, eng anliegende Ärmel mit zarter Spitze, komplizierte Spitzendetails, breiter, verzierter Metallgürtel. Minimalistischer, weich verschwommener, neutraler Verlaufs-Hintergrund, sehr sauber und schlicht.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7a8974a4df2f19b400f5385e12f8a1f0/thumbnails/thumbnail.jpg" width="600" alt="Ätherische Frau mit strahlenförmiger Heiligenschein-Krone">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5968)**
-
-**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2064324547663261778) | **Published:** Jun 9, 2026
-
----
-### Dunkles filmisches Gebirgstal
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein atmosphärischer Prompt für ein dunkles, filmisches Gebirgstal bei Nacht mit Regen, Wind und entferntem Donner.
-
-#### 📝 Prompt
-
-```
-Dunkles filmisches Gebirgstal bei Nacht, entfernter Donner, kalter Wind, der durch Kiefernwälder weht, leichter Regen auf Steinwegen, subtiles Knistern einer Laternenflamme, atmosphärisches Umgebungsambiente, filmischer Realismus, tiefe, emotionale Cello-Texturen, d
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c768c27be56d4e3a5e1a6b0974ea62f3/thumbnails/thumbnail.jpg" width="600" alt="Dunkles filmisches Gebirgstal">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5842)**
-
-**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2064094365455200536) | **Published:** Jun 8, 2026
-
----
-### Das Gedicht „The Dream Said Go“
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein ausführlicher poetischer Prompt über das Verfolgen von Träumen und Durchhaltevermögen, der für die filmische Videogenerierung verwendet wird.
-
-#### 📝 Prompt
-
-```
-Sie sahen den Berg, nicht den Aufstieg. Sie sahen die Zukunft, nicht die Zeit. Sie sahen das Feuer, das hell brannte. Sie sahen niemals die endlosen Nächte. Sie sahen einen Namen am Himmel stehen. Sie fragten niemals nach dem Warum. Manche Herzen sind dazu geboren, der Sonne zu folgen. Selbst wenn alle anderen weglaufen. Jede Narbe wurde zu einem Zeichen. Jeder Verlust wurde zu einer Zeile. Tief in die Seele geschrieben, weigern sie sich loszulassen. DIE WELT SAGTE NEIN. DER TRAUM SAGTE GEH. DIE NACHT WAR KALT. DOCH DU STRAHLST. DER WEG WAR LANG. DER WIND WEHTE LANGSAM. DIE WELT SAGTE NEIN. DER TRAUM SAGTE GEH…
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d2f273521a4ff6e61e21a99dff83ab5c/thumbnails/thumbnail.jpg" width="600" alt="Das Gedicht „The Dream Said Go“">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5967)**
-
-**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2064079590386180169) | **Published:** Jun 8, 2026
-
----
-### Entspannte Frau beim Essen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Generierungs-Prompt, der eine Figur beschreibt, die beiläufig isst, während Pose und Beleuchtung konsistent zum Referenzbild bleiben.
-
-#### 📝 Prompt
-
-```
-Die Frau aus der Referenz isst nun beiläufig mit den Händen oder einem Besteck, nimmt einen Bissen und wirkt dabei entspannt und völlig unbeschwert, mit einem sorglosen „Ist mir egal“-Ausdruck im Gesicht; gleiche Pose, Beleuchtung, Kleidung und Hintergrund.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/98a2c2fbd8bf8e5746af8c26c61219f7/thumbnails/thumbnail.jpg" width="600" alt="Entspannte Frau beim Essen">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5841)**
-
-**Author:** [Sas](https://x.com/SaSHeaven26) | **Source:** [Link](https://x.com/SaSHeaven26/status/2064060691057975428) | **Published:** Jun 8, 2026
-
----
-### Filmische Nahaufnahme eines mittelalterlichen Ritters und einer Königin
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein filmischer Video-Prompt für Grok Imagine, der einen schwer gepanzerten Ritter und eine Königin in einer friedlichen Umarmung inmitten von fallendem Schnee zeigt, unter Verwendung einer langsamen Kamerafahrt (Push-in).
-
-#### 📝 Prompt
-
-```
-Einzelne durchgehende Aufnahme, vertikales 9:16-Seitenverhältnis, intime filmische Nahaufnahme.
-
-Ein schwer gepanzerter mittelalterlicher Ritter in kunstvoller dunkler Metallrüstung mit filigranen Golddetails und einem großen verzierten Schild steht schützend da. Neben ihm ruht eine wunderschöne blonde Königin in einem eleganten cremeweißen und goldenen Kleid mit einer goldenen Krone sanft ihren Kopf auf seiner gepanzerten Schulter, die Augen geschlossen, mit einem friedlichen und intimen Ausdruck. Um sie herum fällt sanft Schnee.
-
-Die Kamera befindet sich in einer engen, emotionalen Nahaufnahme auf den Helm des Ritters und das Gesicht der Königin, mit einer sehr subtilen, langsamen Push-in-Bewegung. Sanfte Schneepartikel fallen, warmes Fackellicht im unscharfen Hintergrund mit anderen gepanzerten Figuren. Stimmungsvolle filmische Beleuchtung, hohe Detailgenauigkeit bei Rüstungsgravuren und Stofftexturen, realistischer Schnee, emotionale und beschützende Atmosphäre, filmische Tiefenschärfe, scharfer Fokus auf die beiden Hauptfiguren, Dark-Fantasy-Mittelalter-Ästhetik.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/85217f0a301b3d19561e76818dab2c38/thumbnails/thumbnail.jpg" width="600" alt="Filmische Nahaufnahme eines mittelalterlichen Ritters und einer Königin">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5997)**
-
-**Author:** [Knight World](https://x.com/KnightWorld) | **Source:** [Link](https://x.com/KnightWorld/status/2064044373021483354) | **Published:** Jun 8, 2026
-
----
-### Raumschiff-Landung auf einem fremden Planeten
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein cineastischer Prompt für ein Video, das zeigt, wie Menschen ein Raumschiff auf einem üppigen neuen Planeten mit atembarer Atmosphäre und irisierenden Wolken verlassen.
-
-#### 📝 Prompt
-
-```
-Nahaufnahme von Menschen, die ein Raumschiff auf einem neuen Planeten mit atembarer Atmosphäre, wachsenden Bäumen und Vegetation sowie irisierenden Wolken verlassen
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3a36e0fe4fbe0521d72371b59de930ba/thumbnails/thumbnail.jpg" width="600" alt="Raumschiff-Landung auf einem fremden Planeten">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5840)**
-
-**Author:** [Susan Vaden Meseraull](https://x.com/SusanVadenMeser) | **Source:** [Link](https://x.com/SusanVadenMeser/status/2064002062912811445) | **Published:** Jun 8, 2026
-
----
-### Filmreife Action-Stunt-Sequenz
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein energiegeladener Video-Prompt, der darauf ausgelegt ist, Physik und Bewegung durch die Generierung einer komplexen Sequenz eines Brückensprungs auf ein fahrendes Fahrzeug zu testen.
-
-#### 📝 Prompt
-
-```
-ein Sprung von einer Brücke, die Landung auf einem fahrenden LKW, gefolgt von einem Sprung auf ein Auto und dessen Übernahme.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/36de06552728625d9cf9365458bde20b/thumbnails/thumbnail.jpg" width="600" alt="Filmreife Action-Stunt-Sequenz">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5844)**
-
-**Author:** [Alpha Mom](https://x.com/YourAlphaMom) | **Source:** [Link](https://x.com/YourAlphaMom/status/2063952651205677170) | **Published:** Jun 8, 2026
-
----
-### Hochzeitsvideo Kameraobjektiv Beschriftung
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein cineastischer Video-Prompt für Grok Imagine, um eine Hochzeitsszene zu animieren, in der der Bräutigam auf das Objektiv schreibt und lächelt, wobei ein Bild als fester Endframe verwendet wird.
-
-#### 📝 Prompt
-
-```
-Verwenden Sie das angehängte Bild als Endframe und erstellen Sie ein 6-sekündiges Video.
-Der Bräutigam beendet das Schreiben von „Happy Wedding“ beim Buchstaben „g“ auf dem Kameraobjektiv, schaut dann direkt in die Kamera und lächelt sanft. Die Braut bleibt in derselben Position, lächelt und wiegt sanft ihr Kleid. Die Kamera bleibt komplett fixiert, ohne Schwenken, Neigen, Zoomen oder Kamerabewegungen.
-Animieren oder bewegen Sie weder den weißen Text noch die Illustrationen. Bewahren Sie den Kunststil des angehängten Bildes vollständig bei. Fügen Sie keine Elemente hinzu, entfernen Sie keine und verändern Sie nichts am angehängten Bild.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f21eb6efdc6725ab9b05b788e5f03feb/thumbnails/thumbnail.jpg" width="600" alt="Hochzeitsvideo Kameraobjektiv Beschriftung">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5843)**
-
-**Author:** [サン｜Sun](https://x.com/sunsunshine0318) | **Source:** [Link](https://x.com/sunsunshine0318/status/2063885288854737223) | **Published:** Jun 8, 2026
-
----
-### Ätherische Unterwasser-Trauer
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein komplexer künstlerischer Prompt, der eine sich langsam bewegende, ätherische Unterwasserszene beschreibt, die spirituelle Traurigkeit vermittelt.
-
-#### 📝 Prompt
-
-```
-Festbrennweite. Der Stil der Schönheit, materiellen Traurigkeit und Absurdität vermittelt tiefen spirituellen Schmerz. Durchscheinendes, wässriges Haar schwebt langsam und stößt winzige Blasen aus. Der weiße Fisch in seiner Hand zuckte schwach. Die blauen und rostroten Kleidungsstücke wiegten sich leicht in der dumpfen Unterströmung. Der Schatten im Hintergrund fließt langsam. Behalten Sie den kühlen Ton des Originalgemäldes strikt bei.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d5fb8b84c427557f90d2975760f78beb/thumbnails/thumbnail.jpg" width="600" alt="Ätherische Unterwasser-Trauer">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5838)**
-
-**Author:** [Zidan](https://x.com/liluocheng13) | **Source:** [Link](https://x.com/liluocheng13/status/2063870222260691134) | **Published:** Jun 8, 2026
-
----
-### Verzaubertes Märchenhaus in der Dämmerung
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein magischer Video-Prompt für ein leuchtendes Häuschen in der Dämmerung mit Schmetterlingen und fallenden Blütenblättern.
-
-#### 📝 Prompt
-
-```
-Gemütliches, verzaubertes Häuschen, das in der Dämmerung leuchtet… Rosen blühen, Schmetterlinge tanzen, Blütenblätter fallen. Reine Märchenmagie.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ec2326346814c6b127842af82e9e7ca1/thumbnails/thumbnail.jpg" width="600" alt="Verzaubertes Märchenhaus in der Dämmerung">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5839)**
-
-**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2063826044860223731) | **Published:** Jun 8, 2026
-
----
-### Porträt einer ätherischen Elfenfrau
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochdetaillierter, filmreifer Prompt zur Erstellung eines fotorealistischen Videos einer Elfenfrau mit silbernem Haar und einem Rosentattoo.
-
-#### 📝 Prompt
-
-```
-fotorealistisches Porträt, ätherisch schöne Elfenfrau, elegante Ansicht von schräg hinten, die Silhouette und Oberkörper zeigt, Blick nach unten mit sanftem, melancholischem Ausdruck, blasse Porzellanhaut mit realistischer Textur und Poren, natürlicher Glanz, langes, fließendes silberweißes Haar in einem kunstvollen seitlichen Zopf mit realistischen Strähnen und abstehenden Härchen, die über die Schulter fallen, zarte spitze Elfenohren mit kunstvoller goldener Perlen-Ear-Cuff, großes, komplexes schwarz-rotes Tattoo auf dem oberen Rücken und der Schulter: blühende rote Rose, umwunden von scharfen, dornigen Ranken, hyperrealistische Schattierung und Hautinteraktion, zartes, zerrissenes weißes Spitzenkleid, das von den Schultern rutscht, ausgefranste Kanten mit realistischer Stofftextur und Spitzendetails, solider, tiefschwarzer minimalistischer Hintergrund, dramatische, stimmungsvolle Atmosphäre, sanfte volumetrische Beleuchtung mit zartem Kantenlicht, filmreif und doch fotorealistisch, elegant und geheimnisvoll.
-```
-
-<img src="https://cms-assets.youmind.com/media/1781427149674_7vvrif_HKOn2ZDXYAApIGa.jpg" width="600" alt="Porträt einer ätherischen Elfenfrau">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5802)**
-
-**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2063677676477415632) | **Published:** Jun 7, 2026
-
----
-### Szene: Menschenmenge liest in der U-Bahn
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein detaillierter Video-Prompt für eine surreale Szene, in der alle Fahrgäste in einer U-Bahn dasselbe Buch lesen und synchron positive Reaktionen zeigen.
-
-#### 📝 Prompt
-
-```
-Jeder im Zug liest dieses Buch. Das Alter und Geschlecht der Personen ist gemischt. Werbeanzeigen mit demselben Design wie das Buch sind ebenfalls zu sehen. Jede Person sagt: „Dieses Buch ist fantastisch“, „Es ist interessant“ oder „Ich bin froh, dass ich es gekauft habe.“
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/082ddd6671d0a73c1d119833fc9a44a6/thumbnails/thumbnail.jpg" width="600" alt="Szene: Menschenmenge liest in der U-Bahn">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5801)**
-
-**Author:** [富増章成🌐のんびり哲学たまにマンガ](https://x.com/thomasaqnya) | **Source:** [Link](https://x.com/thomasaqnya/status/2063625862982111354) | **Published:** Jun 7, 2026
-
----
-### Filmreifes Pferd im verschneiten Wald
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochdynamischer Video-Prompt, der ein Pferd zeigt, das in einem verschneiten Wald springt, mit dramatischen Blitzen und fließenden Kameraschwenks.
-
-#### 📝 Prompt
-
-```
-Das kraftvolle Pferd bäumt sich auf und springt energiegeladen, während es im verschneiten Wald um den hölzernen Koppelzaun galoppiert; dramatische Blitze zucken am violetten Gewitterhimmel, während die dynamische Kamera der kreisförmigen Bewegung mit fließenden Schwenks folgt.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c1c62d5d60bed07b93d465c9f6976f19/thumbnails/thumbnail.jpg" width="600" alt="Filmreifes Pferd im verschneiten Wald">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5799)**
-
-**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2063555528345952429) | **Published:** Jun 7, 2026
-
----
-### Neon-Jazz-Stadtlandschaft
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein kinoreifer Video-Prompt, der eine atmosphärische urbane Szene mit Neonlichtern, Jazzmusik und einer hoch aufragenden Skyline beschreibt.
-
-#### 📝 Prompt
-
-```
-Ich weiß nicht, wie ich hierhergekommen bin. 
-Neon, Jazz und eine Skyline, die über mir thront.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b0d220fe3241fc3864ef18baec7b4927/thumbnails/thumbnail.jpg" width="600" alt="Neon-Jazz-Stadtlandschaft">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5969)**
-
-**Author:** [たんぐすけん | シニアの叡智、AIで加速！](https://x.com/Tungskenichi) | **Source:** [Link](https://x.com/Tungskenichi/status/2063554183652106442) | **Published:** Jun 7, 2026
-
----
-### Cyberpunk Neon-Spiegelkorridor-Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für ein Video im Cyberpunk-Stil, das einen unendlichen Spiegelkorridor mit flackernden holografischen Datenströmen zeigt.
-
-#### 📝 Prompt
-
-```
-Surrealer, unendlicher Spiegelkorridor im düsteren Cyberpunk-Stil. Endlose Neon-Reflektionen von flackernden holografischen Datenströmen, die sich bis in die Leere erstrecken.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b7717acc2a6a81fb48c0a10ca58684ac/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Neon-Spiegelkorridor-Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5798)**
-
-**Author:** [Jenna Clegg](https://x.com/MrsMuskp1) | **Source:** [Link](https://x.com/MrsMuskp1/status/2063501656487084233) | **Published:** Jun 7, 2026
-
----
-### Handhaltung beim Paartanz
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein beschreibender Prompt für Grok Imagine, um ein Video eines Tanzpaares mit spezifischer Handhaltung und Positionierung für eine choreografierte Ästhetik zu generieren.
-
-#### 📝 Prompt
-
-```
-Während die linke Hand des Führenden die rechte Hand des Folgenden hält, sind ihre Positionen im Allgemeinen so ausgerichtet, dass sich der Folgende auf der rechten Seite befindet.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1ef664605eff586363116746899888ee/thumbnails/thumbnail.jpg" width="600" alt="Handhaltung beim Paartanz">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5757)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2063382244270457152) | **Published:** Jun 6, 2026
-
----
-### Stranger in a Strange Land – Szenenbeschreibung
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein narrativer Prompt, der basierend auf literarischen Referenzen eine spezifische Stimmung auf eine Szene anwendet und sich dabei auf Charakterinteraktionen und Ortswechsel konzentriert.
-
-#### 📝 Prompt
-
-```
-Alles klar, kehren wir zu diesem Bild und der ursprünglichen Geschichte in Stranger in a Strange Land zurück. Wende die Stimmung an, die der Autor für die Pool-Szene geschaffen hat, und zeige mir dann eine weitere Version mit der Flucht aus dem Krankenhaus. Finde meinen Sohn, wenn du kannst.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/459030f94b6da56d320f1bdfc8d57872/thumbnails/thumbnail.jpg" width="600" alt="Stranger in a Strange Land – Szenenbeschreibung">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5758)**
-
-**Author:** [Timothy Norman](https://x.com/Timothy01775634) | **Source:** [Link](https://x.com/Timothy01775634/status/2063340141066735761) | **Published:** Jun 6, 2026
-
----
-### Strukturierter Karikatur-Animations-Stack
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochtechnischer, strukturierter Prompt für Grok Imagine, der Charaktere, Overlays und spezifische Szenenparameter wie Rauch und Welleneffekte definiert.
-
-#### 📝 Prompt
-
-```
-[BACKBONE_1961: poolside_acclimation_post_hospital] [CARTOON_BASE_CLUSTERS] - jubal_elder_caricature - jill_nurse_warm - anne_witness_sharp - mike_stranger_innocent [OVERLAY_STACK_8/32] - nuance_cigar_smoke dress_flow ripple_caustics...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/93365165883fd2228a7711c04c739ded/thumbnails/thumbnail.jpg" width="600" alt="Strukturierter Karikatur-Animations-Stack">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5759)**
-
-**Author:** [Timothy Norman](https://x.com/Timothy01775634) | **Source:** [Link](https://x.com/Timothy01775634/status/2063270966394826963) | **Published:** Jun 6, 2026
-
----
-### Skurrile schwimmende Schildkröteninsel
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein kreativer Mal-Prompt, der eine mythische Schildkröteninsel zeigt, die in einer sanften, pastellfarbenen Traumlandschaft schwebt.
-
-#### 📝 Prompt
-
-```
-Ein skurriles Gemälde einer schwimmenden Schildkröteninsel in einem pastellfarbenen Himmel mit märchenhaften Elementen.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/104f188f1a4c453860f83b7449be801f/thumbnails/thumbnail.jpg" width="600" alt="Skurrile schwimmende Schildkröteninsel">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5756)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2063266278723535033) | **Published:** Jun 6, 2026
-
----
-### Anime-Mädchen-Charakter dreht sich und lächelt
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein Charakter-Animations-Prompt, der ein Anime-Mädchen anleitet, ihr Ohr zu berühren, eine langsame 360-Grad-Drehung auszuführen und in die Kamera zu lächeln, während der Stil und die Designelemente beibehalten werden.
-
-#### 📝 Prompt
-
-```
-Das Mädchen im beigefügten Bild berührt an Ort und Stelle ein Ohr, führt eine langsame, einzelne 360-Grad-Drehung aus und lächelt am Ende sanft. Die Ohren und der runde Schwanz sollten sich natürlich mitbewegen. Die Ohren müssen aufrecht bleiben; ein Biegen oder Hängenlassen ist untersagt. Behalten Sie den Stil und die künstlerische Note des beigefügten Bildes zu 100 % bei. Es sind keine Ergänzungen oder Änderungen an den Elementen erlaubt. Ändern Sie nicht das Design der Augen. Erzeugen Sie keine Stimme des Mädchens, wie zum Beispiel Lachen. Feste Kamera.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dda3cdf6771cdc1964d8cf06660dc218/thumbnails/thumbnail.jpg" width="600" alt="Anime-Mädchen-Charakter dreht sich und lächelt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5761)**
-
-**Author:** [サン｜Sun](https://x.com/sunsunshine0318) | **Source:** [Link](https://x.com/sunsunshine0318/status/2063245398198919231) | **Published:** Jun 6, 2026
-
----
-### Filmreife Horror-Szene in einer verlassenen Lagerhalle
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein filmreifer Video-Prompt im Horror-Stil, der eine Figur zeigt, die in einer verregneten Lagerhalle mit einer leuchtenden Schrotflinte auf ein übernatürliches Wesen schießt.
-
-#### 📝 Prompt
-
-```
-Verlassene Lagerhalle. Mitternacht. Der Regen prasselte so heftig herab, als würde der Himmel einstürzen. Sie feuerte ihre leuchtende Schrotflinte ab und entleerte jede einzelne Patrone in den Void Wraith. Er schrie nicht. Er blutete nicht. Er ging einfach weiter auf sie zu...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7bb1b7b9e972227ba64b006b3d7aefd4/thumbnails/thumbnail.jpg" width="600" alt="Filmreife Horror-Szene in einer verlassenen Lagerhalle">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5800)**
-
-**Author:** [ؘ](https://x.com/NonsenseNest) | **Source:** [Link](https://x.com/NonsenseNest/status/2063201803316146251) | **Published:** Jun 6, 2026
-
----
-### Filmische Reise eines symbolischen Lichtpunkts
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein symbolischer Video-Prompt, der die Reise eines einzelnen Lichtpunkts beschreibt, der innerhalb virtueller Ebenen Schatten wirft und Zeitflüsse erzeugt.
-
-#### 📝 Prompt
-
-```
-Ein einzelner Lichtpunkt reist durch virtuelle Ebenen, formt Schatten und Zeitflüsse, während am Rand eine dunkle Leere herrscht – in einem filmischen, symbolischen Stil.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fe7ced3fbdb93e48c5dcd9015ea9f457/thumbnails/thumbnail.jpg" width="600" alt="Filmische Reise eines symbolischen Lichtpunkts">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5762)**
-
-**Author:** [Cicadas Francois Cosmos 🇯🇵](https://x.com/FC_Cicadas) | **Source:** [Link](https://x.com/FC_Cicadas/status/2063157876244562059) | **Published:** Jun 6, 2026
-
----
-### Anime-Stil Szenenanimation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für Grok Imagine, um eine bestimmte Szene aus einem angehängten Bild zu animieren, wobei der ursprüngliche Kunststil und die Linienführung während der Begegnung beibehalten werden.
-
-#### 📝 Prompt
-
-```
-Animieren Sie diese Szene aus dem angehängten Bild, behalten Sie den Stil der Striche und der Zeichnung bei, aber zeigen Sie, wie diese Begegnung aussehen würde. Sie können entsprechend synchronisieren.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/582a4d1ad5603cfed317446550333437/thumbnails/thumbnail.jpg" width="600" alt="Anime-Stil Szenenanimation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5734)**
-
-**Author:** [Ward'z de Souza I](https://x.com/Wardz_de_souzA) | **Source:** [Link](https://x.com/Wardz_de_souzA/status/2062925042980200505) | **Published:** Jun 5, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2321,6 +2317,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-19T05:15:52.932Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-19T12:28:44.272Z</sub>
 
 </div>
