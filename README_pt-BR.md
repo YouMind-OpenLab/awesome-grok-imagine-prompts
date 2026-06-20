@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1877** |
+| 📝 Total Prompts | **1894** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-20** |
 
@@ -189,6 +189,291 @@ Uma valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Animação de coração pulsante com personagem desaparecendo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para o Grok Imagine que cria um vídeo de um coração centralizado pulsando após um personagem desaparecer da cena.
+
+#### 📝 Prompt
+
+```
+Sim, mas o Snoopy desaparece no final. Deixe apenas o coração centralizado. Você pode fazê-lo pulsar como um coração.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068114147313647617/img/f7Ig4_T2qqQtUBEi.jpg" width="600" alt="Animação de coração pulsante com personagem desaparecendo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6257)**
+
+**Author:** [DW 💉👀🐊](https://x.com/deweller) | **Source:** [Link](https://x.com/deweller/status/2068114216876163273) | **Published:** Jun 19, 2026
+
+---
+### Tigre rosnando em sofá de luxo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico de um tigre rosnando em um sofá francês com uma estética nostálgica, granulada e de fotografia com flash.
+
+#### 📝 Prompt
+
+```
+tigre rosnando em sofá francês em propriedade de luxo, vibe nostálgica, sombras intensas, granulação pesada, sensação de fotografia com flash
+```
+
+<img src="https://cms-assets.youmind.com/media/1781944909883_fv7mtm_HLNKqSfWQAEg5k1.jpg" width="600" alt="Tigre rosnando em sofá de luxo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6250)**
+
+**Author:** [Love’s Last Icon](https://x.com/primusv1) | **Source:** [Link](https://x.com/primusv1/status/2068078806170993124) | **Published:** Jun 19, 2026
+
+---
+### Mulher cinematográfica com sardas e coroa de prata
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt cinematográfico altamente detalhado de uma mulher com sardas, cabelos escuros e uma coroa de prata intrincada segurando uma espada medieval.
+
+#### 📝 Prompt
+
+```
+mulher com sardas delicadas no nariz e nas bochechas, mechas de cabelo escuro molhado coladas ao rosto. Coroa de prata intrincada e ornamentada com cristais, véu de prata cintilante, levemente mais espesso e transparente, drapeado dramaticamente sobre a metade esquerda do rosto (cobrindo um olho) e envolvendo suavemente parte da espada. O véu tem uma textura translúcida delicada, porém mais substancial, com brilho fino. Ela segura uma espada medieval ornamentada com ambas as mãos, com o punho e a parte superior da lâmina suavemente cobertos pelo véu mais espesso perto do queixo e dos lábios, múltiplos anéis de prata ornamentados nos dedos. Iluminação lateral difusa muito suave, paleta de cores cinza-prateado frio, dessaturada e suave, tons elegantes e discretos. Textura de pele realista hiperdetalhada, lábios naturalmente brilhantes, dobras de tecido realistas e reflexos de luz no véu mais espesso. Foco nítido no olho visível, nas sardas e na textura do véu, profundidade de campo rasa, bokeh suave e sonhador, hiper-realista, fotorrealista, gradação de cores cinematográfica.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068062467100418048/img/XAdGpdy3LIaC58ti.jpg" width="600" alt="Mulher cinematográfica com sardas e coroa de prata">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6254)**
+
+**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2068062555310891321) | **Published:** Jun 19, 2026
+
+---
+### Tour pela Recepção de um Parque Industrial
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um vídeo cinematográfico em POV percorrendo a entrada de uma instalação industrial moderna até uma área de recepção com texto personalizado na parede.
+
+#### 📝 Prompt
+
+```
+Crie um vídeo de um parque industrial moderno visto de fora e, em seguida, use uma perspectiva em primeira pessoa (POV) para caminhar pelas portas da frente até uma área de recepção. Acima da recepcionista, deve estar escrito "MyCityDC"
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068048509111095296/img/bxzPK1A53AAeWJL7.jpg" width="600" alt="Tour pela Recepção de um Parque Industrial">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6243)**
+
+**Author:** [Number-One-AI-Fanboy](https://x.com/Number1AIFanboy) | **Source:** [Link](https://x.com/Number1AIFanboy/status/2068048785930924447) | **Published:** Jun 19, 2026
+
+---
+### Animação de esculturas budistas dançantes
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo criativo que imagina esculturas budistas históricas do Indian Museum ganhando vida em uma dança divina e extasiante.
+
+#### 📝 Prompt
+
+```
+As esculturas selecionadas do patrimônio budista do Indian Museum, em nossa imaginação, estão dançando em um êxtase divino!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068005532213080070/img/TdbhoKsf2yQEobxy.jpg" width="600" alt="Animação de esculturas budistas dançantes">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6244)**
+
+**Author:** [Ashok Kumar Panda](https://x.com/ashok_sr_adv) | **Source:** [Link](https://x.com/ashok_sr_adv/status/2068005598046892078) | **Published:** Jun 19, 2026
+
+---
+### Animação de abdução alienígena de criança
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt depicting a child being lifted off the ground as if being pulled by a UFO with dynamic camera movement following the action.
+
+#### 📝 Prompt
+
+```
+A criança levanta do chão como se o UFO estivesse puxando-a, o movimento da câmera acompanha.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067969949851660288/img/uM6tu315NO6QgE5-.jpg" width="600" alt="Animação de abdução alienígena de criança">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6247)**
+
+**Author:** [David Herbert Thomas](https://x.com/Diabach1972) | **Source:** [Link](https://x.com/Diabach1972/status/2067970008748110198) | **Published:** Jun 19, 2026
+
+---
+### Cinemática de partida espacial da frota Starship
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico mostrando uma frota de naves espaciais avançadas acelerando para longe da órbita da Terra, com dinâmica de propulsores realista e um movimento dramático de câmera para trás.
+
+#### 📝 Prompt
+
+```
+A frota de naves avançadas da classe Starship acelera poderosamente para longe da órbita da Terra, com dinâmica de propulsores realista e brilhos intensos. O movimento dramático da câmera para trás revela a Terra encolhendo até se tornar um distante ponto azul, enquanto a Lua passa ao fundo, fazendo a transição para uma perspectiva do espaço profundo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067969292167983105/img/vm090Uo7YrihYVDO.jpg" width="600" alt="Cinemática de partida espacial da frota Starship">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6248)**
+
+**Author:** [Adam B](https://x.com/DaExChef) | **Source:** [Link](https://x.com/DaExChef/status/2067969347268522403) | **Published:** Jun 19, 2026
+
+---
+### Navio Solitário e o Elefante Ilha
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Uma cena dramática e onírica apresentando um homem solitário em um navio encontrando um elefante colossal que carrega uma ilha inteira.
+
+#### 📝 Prompt
+
+```
+Um homem solitário em um navio antigo, encarando algo que não deveria ser possível: um elefante ancestral colossal carregando uma ilha inteira em suas costas. A escala, a luz rompendo as nuvens, as ondas quebrando... tudo nesta cena parece grandioso e onírico ao mesmo tempo. Aventureiro e levemente irreal, como tropeçar em um mito esquecido no meio do oceano. drama e atmosfera
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067964156440092672/img/a6xeaYFZmuBeqCzv.jpg" width="600" alt="Navio Solitário e o Elefante Ilha">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6253)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067964231618789770) | **Published:** Jun 19, 2026
+
+---
+### Traje Espacial Tesla Sci-Fi estilo Daft Punk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt criativo de ficção científica para uma mulher usando um capacete do Daft Punk e um traje espacial da Tesla em uma paisagem ártica, segurando um bebê e um brinquedo de pelúcia.
+
+#### 📝 Prompt
+
+```
+Foto ultrarrealista, brilhante e luminosa, iluminação suave e clara, high key, tons mais claros. Mulher usando um capacete do Daft Punk preto brilhante com detalhes em dourado, com longos cabelos platinados esvoaçantes, vestindo um traje espacial da Tesla em marrom fosco e preto com o logotipo da Tesla no peito. Ela segura gentilmente um bebê com um macacão branco estampado com ursinhos, usando um mini capacete do Daft Punk e um pequeno logotipo da Tesla. Ela também segura um fofo brinquedo de pelúcia de Shiba Inu. Vasta tundra ártica nevada e brilhante com montanhas distantes ao fundo, céu nublado e claro, altamente detalhado, fotorrealista, cinematográfico.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067963385082224641/img/mPBQNO2QyPbKEgD_.jpg" width="600" alt="Traje Espacial Tesla Sci-Fi estilo Daft Punk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6256)**
+
+**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2067963455508812163) | **Published:** Jun 19, 2026
+
+---
+### Gatinho malhado laranja brincalhão em um campo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo que gera um gatinho fofo piscando e brincando com flores silvestres em um campo ensolarado.
+
+#### 📝 Prompt
+
+```
+O gatinho malhado laranja fofinho pisca seus olhos grandes, balança a cauda de forma brincalhona e toca suavemente em uma flor silvestre próxima enquanto está sentado no campo ensolarado, com uma brisa suave agitando a grama.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067958878072115200/img/ZCTWjrB1moF2zACI.jpg" width="600" alt="Gatinho malhado laranja brincalhão em um campo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6241)**
+
+**Author:** [grok_imagine_free_user](https://x.com/FreeGrokUser) | **Source:** [Link](https://x.com/FreeGrokUser/status/2067958938692378627) | **Published:** Jun 19, 2026
+
+---
+### Trailer de Blockbuster de Hollywood Sombrio
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de geração de vídeo para criar um trailer de blockbuster cinematográfico sombrio baseado em um personagem.
+
+#### 📝 Prompt
+
+```
+Crie um trailer estilo blockbuster de Hollywood baseado neste personagem, com um enredo bem sombrio
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067943275537862656/img/qzpFWZbF2wDwv-kR.jpg" width="600" alt="Trailer de Blockbuster de Hollywood Sombrio">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6242)**
+
+**Author:** [kramrogNL (33.3%)](https://x.com/kramrogNL) | **Source:** [Link](https://x.com/kramrogNL/status/2067943364117266808) | **Published:** Jun 19, 2026
+
+---
+### Animação em Estilo Paper-Cut de Budapeste
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt incrível para gerar um vídeo com estética de recorte de papel (paper-cut) de Budapeste, incluindo sua arquitetura histórica e o Rio Danúbio.
+
+#### 📝 Prompt
+
+```
+Budapeste, Hungria. Onde a arquitetura histórica, o Rio Danúbio e ruas atemporais se unem em um belo mundo de recorte de papel.
+```
+
+<img src="https://cms-assets.youmind.com/media/1781944914037_s5lt12_HLKjCZbWgAAW4Xd.jpg" width="600" alt="Animação em Estilo Paper-Cut de Budapeste">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6255)**
+
+**Author:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2067894649663246574) | **Published:** Jun 19, 2026
+
+---
+### Transformação surreal de casquinha de sorvete
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de transformação de vídeo surreal que transforma uma grande casquinha de sorvete de chocolate em uma estrutura feita de minúsculas pessoas em miniatura, com base em uma imagem de referência.
+
+#### 📝 Prompt
+
+```
+Na imagem de referência, transforme a grande casquinha de sorvete de chocolate em uma feita surrealmente de inúmeras minúsculas pessoas iranianas em miniatura
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067815711146389504/img/0WmEi8m954NYcRFy.jpg" width="600" alt="Transformação surreal de casquinha de sorvete">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6246)**
+
+**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2067815770705526878) | **Published:** Jun 19, 2026
+
+---
+### Café japonês nostálgico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Uma cena pacífica e nostálgica de um antigo café japonês com uma bicicleta vermelha e a luz do sol filtrada pelas árvores.
+
+#### 📝 Prompt
+
+```
+Obra-prima, melhor qualidade, imagem cinematográfica ultra detalhada de um antigo café japonês nostálgico em uma rua tranquila. O edifício desgastado tem uma placa desbotada onde se lê 'COFE CAFE', um toldo azul-petróleo e uma bicicleta vermelha estacionada do lado de fora. Plantas verdes exuberantes e árvores cercam a entrada, com a luz quente do sol filtrando-se pelas folhas, criando belas sombras no pavimento de pedra. Atmosfera pacífica e levemente melancólica. Texturas, iluminação e elementos naturais altamente detalhados. Iluminação cinematográfica quente, melhor qualidade, resolução 8K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067768423871029248/img/jUGt1oA5yYJjbZYQ.jpg" width="600" alt="Café japonês nostálgico">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6249)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067768674388468127) | **Published:** Jun 19, 2026
+
+---
+### Animação de personagem de anime dançando valsa solo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico de uma personagem de anime realizando uma valsa solo graciosa em um ambiente de escadaria escura com pétalas de rosa caindo.
+
+#### 📝 Prompt
+
+```
+A mesma personagem de anime e o ambiente de escadaria escura permanecem inalterados. Ela continua sua valsa solo lenta com giros graciosos e uma rotação suave, com o braço levantado como se estivesse com um parceiro invisível, enquanto o cabelo e o vestido balançam. Pétalas de rosa carmesim profundo e rosa empoeirado flutuam pelo ar, destacando o movimento.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067763909587869696/img/mEoTzdjLwAtWKEs_.jpg" width="600" alt="Animação de personagem de anime dançando valsa solo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6245)**
+
+**Author:** [Kafka Beatrix@贖罪卿](https://x.com/botamochi8639) | **Source:** [Link](https://x.com/botamochi8639/status/2067763967494382037) | **Published:** Jun 19, 2026
+
+---
 ### Cena de casal com câmera orbital ao anoitecer
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -734,6 +1019,44 @@ Sem dizer nada, ela faz um gesto de 'na na nère' como uma criança provocando o
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6174)**
 
 **Author:** [Vincent](https://x.com/Source3467) | **Source:** [Link](https://x.com/Source3467/status/2067176050639897060) | **Published:** Jun 17, 2026
+
+---
+### Retrato de Cyber Girl em Estilo Retro Synthwave
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado em estilo synthwave para gerar um retrato cinematográfico de uma cyber-girl com detalhes em neon, estética vaporwave dos anos 80 e efeitos de glitch VHS.
+
+#### 📝 Prompt
+
+```
+retrato retro synthwave de uma linda cyber-girl com corte chanel curto branco-prateado, franja reta e mechas longas emoldurando o rosto, pele pálida, delineador neon brilhante em tons de roxo-ciano-magenta e brilho sob os olhos, lábios molhados e brilhantes, gola alta preta com linhas de circuito magenta brilhantes, palmeiras e silhueta de cidade em grade sob um céu de pôr do sol rosa choque e roxo ao fundo, forte distorção de glitch VHS, linhas de varredura, aberração cromática, estética retro vaporwave dos anos 80, iluminação de contorno dramática, ultra detalhado, cores synthwave, 8k
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067155477595893761/img/e8ORYOPfSFufKXmB.jpg" width="600" alt="Retrato de Cyber Girl em Estilo Retro Synthwave">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6252)**
+
+**Author:** [paranoidream ♡︎](https://x.com/paranoidream) | **Source:** [Link](https://x.com/paranoidream/status/2067155562845044828) | **Published:** Jun 17, 2026
+
+---
+### Mulher em estilo anime em uma escadaria escura
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo em estilo anime cinematográfico apresentando uma mulher olhando para trás em uma escadaria escura, com expressões enigmáticas e detalhes minuciosos nos acessórios de cabelo.
+
+#### 📝 Prompt
+
+```
+Ilustração em estilo anime hiperdetalhada de uma mulher vista de costas em uma escadaria escura, olhando por cima do ombro de modo que apenas o contorno do seu rosto e um olho âmbar fiquem visíveis sob a franja. Ela tem cabelos pretos curtos e despenteados, com mechas longas que descem abaixo da cintura, um pequeno grampo de cabelo dourado e um acessório de cabelo com fita perto da orelha. Sua expressão é serena e enigmática de perfil, com os lábios captando suavemente a luz.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067152134869753856/img/jx23bVpKvcEJOl6P.jpg" width="600" alt="Mulher em estilo anime em uma escadaria escura">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6251)**
+
+**Author:** [tetsuo](https://x.com/tetsuoai) | **Source:** [Link](https://x.com/tetsuoai/status/2067152198371574076) | **Published:** Jun 17, 2026
 
 ---
 ### Movimento Suave e Onírico com Eco de Água
@@ -1845,419 +2168,6 @@ Mantenha a mulher exatamente como na foto de referência: seu rosto, cabelo cast
 **Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2065067503231942715) | **Published:** Jun 11, 2026
 
 ---
-### Garota de anime com estilo urbano de motocicleta
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cinematográfico em estilo anime apresentando um ângulo baixo de uma garota com um capacete de motocicleta em um estacionamento urbano realista.
-
-#### 📝 Prompt
-
-```
-Estilo anime hiperdetalhado, perspectiva cinematográfica, iluminação dramática e realista, contraste ousado com cores saturadas. Um plano cinematográfico de estilo urbano em ângulo baixo e inclinado de um estacionamento, olhando para cima para uma garota de anime segurando um capacete de motocicleta roxo em uma das mãos e caminhando, vista por trás. Ela usa calças de corrida brancas justas, uma camiseta estampada justa com os dizeres "AgenC" e botas amarelas, com o solado de uma bota dominando o primeiro plano em detalhes nítidos. A perspectiva enfatiza a estética urbana e realista com um escorço ousado. À frente dela, uma moto esportiva roxa.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/26385c2a1b638af520285168ffc2bf94/thumbnails/thumbnail.jpg" width="600" alt="Garota de anime com estilo urbano de motocicleta">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5962)**
-
-**Author:** [tetsuo](https://x.com/tetsuoai) | **Source:** [Link](https://x.com/tetsuoai/status/2065004272526524515) | **Published:** Jun 11, 2026
-
----
-### Citação de Elon Musk sobre Reprogramação da Matrix
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt filosófico poderoso baseado em uma citação de Elon Musk sobre reprogramar a realidade e alcançar o sucesso.
-
-#### 📝 Prompt
-
-```
-Estamos reprogramando a matrix. O sucesso nunca foi um dos resultados possíveis — Se você está na matrix, o sucesso nunca foi possível. A única maneira de alcançar o sucesso é reprogramar a matrix de modo que o sucesso seja um dos resultados possíveis. É isso que estamos fazendo. Podemos ou não ter sucesso.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4c62817b0f1d6c2bc88f019d30cbad0f/thumbnails/thumbnail.jpg" width="600" alt="Citação de Elon Musk sobre Reprogramação da Matrix">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5965)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2064987958449475710) | **Published:** Jun 11, 2026
-
----
-### Pose de despedida matinal no jardim de infância
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Um prompt narrativo que descreve uma cena emocional específica de uma criança indo para o jardim de infância, terminando com uma 'pose de luta' específica em direção à janela da sala de aula.
-
-#### 📝 Prompt
-
-```
-Desde que Daru começou a ir para o jardim de infância, eles não conseguiam acordar a tempo para o ônibus. Passamos a levá-los de carro. Às vezes, chegavam depois que as aulas já tinham começado. Eu os deixo com o professor na entrada e volto para o carro. Do estacionamento, consigo ver os armários baixos de sapatos através da grande janela de vidro. Eu flexiono meu braço direito, fecho o punho e puxo para baixo (a pose de 'faça o seu melhor' duas vezes). Minha filha acena com a cabeça e caminha para dentro da sala de aula.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e0b35e2a7b2786204277e17ab60e4e8f/thumbnails/thumbnail.jpg" width="600" alt="Pose de despedida matinal no jardim de infância">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5974)**
-
-**Author:** [DODO](https://x.com/Dodo0807Dodo) | **Source:** [Link](https://x.com/Dodo0807Dodo/status/2064864802175131701) | **Published:** Jun 11, 2026
-
----
-### Celebração de casal cigano
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo festivo retratando um alegre casal cigano celebrando e brindando com cerveja.
-
-#### 📝 Prompt
-
-```
-Casal cigano alegre bebendo cerveja com entusiasmo, celebração animada com goles naturais, brindes e movimentos felizes.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eb4b2aa4aeb66e74de7b3e561912ae28/thumbnails/thumbnail.jpg" width="600" alt="Celebração de casal cigano">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5923)**
-
-**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2064793659480908190) | **Published:** Jun 10, 2026
-
----
-### Lionel Messi em estilo anime chibi jogando futebol
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Uma animação vibrante em estilo chibi apresentando Lionel Messi jogando futebol ao lado de um adorável robô companheiro.
-
-#### 📝 Prompt
-
-```
-Futebol. Messi. Argentina. 🫶❤️🫶
-Uma cena vibrante em estilo anime chibi apresentando o adorável Lionel Messi de cabeça grande, vestindo a camisa número 10 da seleção argentina, jogando futebol energicamente em um campo verde ao lado de um pequeno e adorável robô companheiro. O pequeno robô está...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9784ac2b66c2ab49443d5b3112a88850/thumbnails/thumbnail.jpg" width="600" alt="Lionel Messi em estilo anime chibi jogando futebol">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5919)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2064789155498914018) | **Published:** Jun 10, 2026
-
----
-### Intervenção do Álcool: A Garrafa Falante
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo criativo onde uma garrafa de bebida ganha vida com uma voz grave para dizer a um homem que pare de beber.
-
-#### 📝 Prompt
-
-```
-Faça com que a garrafa de bebida do homem ganhe vida e diga a ele (com uma voz profunda e emotiva) para, pelo amor de Deus, deixá-la de lado… seu fígado está implorando! Você não precisa de uma bebida a cada transmissão! Como você espera dirigir agora?
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/85ae92b750d9a5cbc2ef9cedbfbf0f4e/thumbnails/thumbnail.jpg" width="600" alt="Intervenção do Álcool: A Garrafa Falante">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5926)**
-
-**Author:** [FAGWOP](https://x.com/TopSheboon) | **Source:** [Link](https://x.com/TopSheboon/status/2064780168787263783) | **Published:** Jun 10, 2026
-
----
-### Anúncio de Utilidade Pública: Garrafa de Álcool Falante
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo no estilo de anúncio de utilidade pública onde uma garrafa de álcool animada fala com um homem sobre sua saúde e direção.
-
-#### 📝 Prompt
-
-```
-Faça a garrafa de álcool ganhar vida e dizer ao homem para, pelo amor de Deus, colocá-la no chão… e que ele não precisa de uma bebida em toda transmissão! Como ele espera dirigir agora?
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3cb19dd8af6246fd801d8c3a7bd07606/thumbnails/thumbnail.jpg" width="600" alt="Anúncio de Utilidade Pública: Garrafa de Álcool Falante">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5927)**
-
-**Author:** [FAGWOP](https://x.com/TopSheboon) | **Source:** [Link](https://x.com/TopSheboon/status/2064771882306416673) | **Published:** Jun 10, 2026
-
----
-### Animação Poética da Maré sob o Luar
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo sereno e poético que descreve luzes sobre o mar sob a lua que observa a maré.
-
-#### 📝 Prompt
-
-```
-Vinte e oito luzes sobre o mar,
-Brilhando onde devem estar.
-A última lua de junho sobre a maré,
-Observando silenciosamente esta noite…
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5f0f4b20f33a5eb670dafe181394de20/thumbnails/thumbnail.jpg" width="600" alt="Animação Poética da Maré sob o Luar">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5972)**
-
-**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2064770488849617235) | **Published:** Jun 10, 2026
-
----
-### Revelação do Interior de um Restaurante em Trailer
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt narrativo detalhado para uma sequência de abertura de porta revelando um pequeno restaurante de alto padrão dentro de um trailer.
-
-#### 📝 Prompt
-
-```
-À medida que a mão abre a porta, imagine um pequeno restaurante de 20 x 10 pés no fundo daquele trailer, comandado pelo chef gourmet de primeira linha da Colômbia, Louis, e já há pessoas descoladas que fazem questão de garantir que aquela noite seja tão especial para você que...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5041faa03225ef34ac242e18c93e7ccb/thumbnails/thumbnail.jpg" width="600" alt="Revelação do Interior de um Restaurante em Trailer">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5920)**
-
-**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2064766481762496694) | **Published:** Jun 10, 2026
-
----
-### Redemoinho Celestial Divino
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo complexo apresentando anjos e espíritos descendo dos céus para se misturarem a um redemoinho de águas.
-
-#### 📝 Prompt
-
-```
-Redemoinho 🌪️ 
-
-Os céus e 💫 anjos 😇 fadas 🧚 e espíritos descem para se misturarem a um redemoinho de águas.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3c3dd9ed7570651b52d245b669393c40/thumbnails/thumbnail.jpg" width="600" alt="Redemoinho Celestial Divino">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5925)**
-
-**Author:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **Source:** [Link](https://x.com/PhilipC34457079/status/2064756343618023730) | **Published:** Jun 10, 2026
-
----
-### Golfinhos em uma tromba d'água Yin Yang
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo surreal e dinâmico apresentando golfinhos nadando e saltando em um tornado em formato de yin yang.
-
-#### 📝 Prompt
-
-```
-Melhor pular logo 💓 Golfinhos 🐬 nadam e se impulsionam para fora da água 💦 em uma tromba d'água em formato de yin yang ☯️. Tornado 🌪️....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/29deeea0bc44884fa303e0d7ff9a0955/thumbnails/thumbnail.jpg" width="600" alt="Golfinhos em uma tromba d'água Yin Yang">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5922)**
-
-**Author:** [Rusty Redcorn](https://x.com/PhilipC34457079) | **Source:** [Link](https://x.com/PhilipC34457079/status/2064755089911226585) | **Published:** Jun 10, 2026
-
----
-### Dragão ancestral em um afloramento rochoso
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo retratando um dragão ancestral empoleirado em um afloramento rochoso dentro de uma paisagem montanhosa e enevoada.
-
-#### 📝 Prompt
-
-```
-Uma fotografia de um dragão ancestral em um afloramento rochoso em uma paisagem montanhosa e enevoada.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/db9709b1349ca90f36a298770931d9d4/thumbnails/thumbnail.jpg" width="600" alt="Dragão ancestral em um afloramento rochoso">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5918)**
-
-**Author:** [Jose Armando Lopez Sandoval](https://x.com/JoseArm87975355) | **Source:** [Link](https://x.com/JoseArm87975355/status/2064748796861403422) | **Published:** Jun 10, 2026
-
----
-### Coelho Robô Saltador Mecânico
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo detalhado para um robô mecânico com pernas semelhantes às de um coelho subindo escadas.
-
-#### 📝 Prompt
-
-```
-Um pequeno e fofo robô saltador conquistando escadas, equipado com duas pernas especializadas moldadas como as patas traseiras de um coelho, apresentando engrenagens mecânicas visíveis para o mecanismo de salto, duas rodas não utilizadas para carga útil
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5385f9bfad2f720e2b14cf7e2da90342/thumbnails/thumbnail.jpg" width="600" alt="Coelho Robô Saltador Mecânico">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5924)**
-
-**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2064738687557173748) | **Published:** Jun 10, 2026
-
----
-### Retrato Surrealista de Gigante com Nuvens Volumosas
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de geração de vídeo sofisticado para o Grok Imagine que produz um close-up surrealista inspirado em Dalí, com um rosto gigante observando o horizonte enquanto nuvens sobem.
-
-#### 📝 Prompt
-
-```
-Use a imagem em anexo como o quadro inicial exato e referência visual.
-
-Use o vídeo em anexo como referência de movimento para o estilo de movimento sutil e contido.
-
-Crie um vídeo de 6 segundos.
-
-Uma composição em close-up extremo domina o quadro, com o rosto da modelo ocupando a maior parte do lado esquerdo. Uma iluminação excepcionalmente ousada projeta sombras escuras e expansivas pela testa, atraindo a atenção do espectador para os olhos. O fundo apresenta um céu azul altamente saturado e um horizonte distante. As proporções do rosto permanecem monumentalmente ampliadas, evocando uma presença surreal semelhante a uma gigante acima da terra, com nuvens pairando abaixo de seu rosto.
-
-Mantenha o rosto da modelo quase imóvel, sem grandes movimentos de cabeça ou mudanças de posição significativas. Ela olha diretamente para a câmera e pisca uma ou duas vezes naturalmente. Sua expressão permanece calma e sutil.
-
-Ao longo da tomada, as nuvens abaixo crescem gradualmente e sobem de forma dramática, porém suave, expandindo-se até cobrirem a área do queixo da modelo ao final do vídeo.
-
-Preserve o tratamento de cores achatado e quase monocromático, a textura de pele intrincada, como poros e sardas, e o contraste entre o rosto altamente detalhado e o fundo abstrato e granulado. Mantenha a atmosfera surrealista inspirada em Dalí.
-
-Preserve totalmente a composição, o estilo artístico, a iluminação, as cores e a atmosfera visual geral da imagem de referência.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d1a75b7f71c05a7415ab1684804cef88/thumbnails/thumbnail.jpg" width="600" alt="Retrato Surrealista de Gigante com Nuvens Volumosas">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5928)**
-
-**Author:** [サン｜Sun](https://x.com/sunsunshine0318) | **Source:** [Link](https://x.com/sunsunshine0318/status/2064719200216846599) | **Published:** Jun 10, 2026
-
----
-### Garota de anime caminhando nas nuvens
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Uma transformação de cena em estilo anime apresentando uma garota de cabelos brancos caminhando por nuvens fofas enquanto segura um coração cósmico brilhante.
-
-#### 📝 Prompt
-
-```
-Transforme a imagem de referência em uma cena vibrante no estilo anime: uma garota de anime fofa com longos cabelos brancos, inspirada na mulher da foto, caminhando graciosamente por nuvens brancas e fofas em um céu dos sonhos. Ela segura um grande coração cósmico brilhante em suas...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/548973aed3147b9031a4d4967ec0ac50/thumbnails/thumbnail.jpg" width="600" alt="Garota de anime caminhando nas nuvens">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5917)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2064524631554310372) | **Published:** Jun 10, 2026
-
----
-### Transformação de Personagem de Anime com Brilho Etéreo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt artístico que transforma uma pessoa de referência em um personagem de anime translúcido e brilhante, adornado com uma coroa de estrelas celestiais, flutuando em um ambiente enevoado.
-
-#### 📝 Prompt
-
-```
-Transforme a mulher da referência em uma bela personagem estilo anime com um corpo etéreo, translúcido e brilhante, que possui uma qualidade onírica e enevoada. Ela usa uma coroa cintilante de estrelas brilhantes na cabeça. Ela flutua graciosamente entre duas s...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/864d48aac393e508dde3665eba25ceef/thumbnails/thumbnail.jpg" width="600" alt="Transformação de Personagem de Anime com Brilho Etéreo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5921)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2064516575349108767) | **Published:** Jun 10, 2026
-
----
-### Poema Narrativo dos Campos de Vagalumes
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt poético de formato longo usado para gerar um vídeo cinematográfico e emocionante de vagalumes em campos dourados sob um céu rosa ardente.
-
-#### 📝 Prompt
-
-```
-CAMINHEI POR CAMPOS DE LUZ DOURADA,
-
-SOB UM CÉU PINTADO DE AZUL E CLAREZA.
-
-UM MILHÃO DE VAGALUMES PREENCHIAM O AR,
-
-COMO FRAGMENTOS DE SONHOS FLUTUANDO POR TODA PARTE.
-
-AS NUVENS ACIMA QUEIMAVAM EM ROSA,
-
-COMO SE OS CÉUS TIVESSEM PARADO PARA PENSAR.
-
-O VENTO FALAVA SUAVEMENTE ENTRE OS GRÃOS,
-
-COMO UM AMOR ANTIGO CHAMANDO MEU NOME NOVAMENTE.
-
-E LÁ EU ESTAVA,
-
-COM O CORAÇÃO APERTADO,
-
-ASSISTINDO AO MUNDO SE TORNAR UMA OBRA DE ARTE.
-
-SEM MULTIDÕES.
-
-SEM BARULHO.
-
-SEM CORRIDA PARA VENCER.
-
-APENAS TERRA E CÉU
-
-SE TORNANDO UM SÓ.
-
-OS ANOS QUE PERDI,
-
-AS LÁGRIMAS QUE CHOREI,
-
-AS PORTAS QUE SE FECHARAM,
-
-OS SONHOS QUE MORRERAM,
-
-TODOS ELES DESVANECERAM NA NOITE,
-
-DISSOLVENDO-SE LENTAMENTE NAQUELA LUZ.
-
-POIS NAQUELE MOMENTO EU PODIA VER,
-
-O MUNDO NUNCA ESTEVE CONTRA MIM.
-
-ELE ESTAVA ME ENSINANDO A ESPERAR,
-
-POIS A BELEZA CHEGA UM POUCO ATRASADA.
-
-E SE O AMANHÃ LEVAR ISSO EMBORA,
-
-EU AINDA ME LEMBRAREI DAQUELE CREPÚSCULO CINZA.
-
-AQUELES VAGALUMES ESTRELADOS,
-
-QUE BRILHO INFINITO,
-
-E COMO POR UMA VEZ,
-
-EU NÃO QUERIA IR EMBORA.
-
-POR UM BREVE MOMENTO,
-
-MINHA ALMA PODE VER,
-
-O MUNDO ERA LINDO.
-
-E EU TAMBÉM.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5d90e48ef5e800d87e222e026c50f7a0/thumbnails/thumbnail.jpg" width="600" alt="Poema Narrativo dos Campos de Vagalumes">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5970)**
-
-**Author:** [SPACELESS](https://x.com/VOLDEMORT2X) | **Source:** [Link](https://x.com/VOLDEMORT2X/status/2064480706240111096) | **Published:** Jun 9, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2319,6 +2229,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-20T04:31:13.479Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-20T11:01:49.354Z</sub>
 
 </div>
