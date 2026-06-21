@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1894** |
+| 📝 Total Prompts | **1912** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-21** |
 
@@ -189,6 +189,352 @@ Uma valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Ator de Hollywood perto do Burj Khalifa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Uma saudação de domingo com a imagem de um ator de Hollywood caminhando perto do Burj Khalifa, gerada com o Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Gere uma imagem de um ator famoso de Hollywood caminhando perto do Burj Khalifa com a frase "Boa tarde" escrita no topo #Boatarde #VibesPositivas #Felizdomingo
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068609777744351232/img/6s_s09o0g9o_FkhW.jpg" width="600" alt="Ator de Hollywood perto do Burj Khalifa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6292)**
+
+**Author:** [Ijaz Malik](https://x.com/Ijazmalik101) | **Source:** [Link](https://x.com/Ijazmalik101/status/2068609842198225254) | **Published:** Jun 21, 2026
+
+---
+### Vídeo de Golfinho Cósmico Caleidoscópico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cósmico abstrato envolvendo golfinhos caleidoscópicos e uma filarmônica de mármore errante.
+
+#### 📝 Prompt
+
+```
+Coral fulmina golfinho caleidoscópico viajante espacial filarmônica de mármore cósmica errante
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068468112869990401/img/Tnyy3JCHeBjf3-rh.jpg" width="600" alt="Vídeo de Golfinho Cósmico Caleidoscópico">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6284)**
+
+**Author:** [Nautilus](https://x.com/spectra_gallery) | **Source:** [Link](https://x.com/spectra_gallery/status/2068468174245204130) | **Published:** Jun 20, 2026
+
+---
+### Vídeo de Leitura à Luz de Velas na Biblioteca
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo aconchegante e atmosférico de uma mulher lendo em uma biblioteca à luz de velas enquanto toma chá.
+
+#### 📝 Prompt
+
+```
+Mulher com um vestido de verão branco e floral sentada em uma biblioteca lendo à luz de velas e tomando chá.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068443436907458560/img/BKhSpKdruR5QIV3G.jpg" width="600" alt="Vídeo de Leitura à Luz de Velas na Biblioteca">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6281)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2068443496047055334) | **Published:** Jun 20, 2026
+
+---
+### Celebração do 250º Aniversário dos Estados Unidos
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo festivo imaginando a celebração do 250º 4 de julho dos Estados Unidos da América.
+
+#### 📝 Prompt
+
+```
+Vamos imaginar uma celebração do 250º aniversário de 4 de julho dos Estados Unidos da América
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068424487704358912/img/Efwa0bE4L3mr4DKD.jpg" width="600" alt="Celebração do 250º Aniversário dos Estados Unidos">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6287)**
+
+**Author:** [Mark Tatum](https://x.com/Mark561256) | **Source:** [Link](https://x.com/Mark561256/status/2068424560634933349) | **Published:** Jun 20, 2026
+
+---
+### Guerreiro e lobo na neve
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo de fantasia atmosférica apresentando um guerreiro solitário e seu companheiro lobo em uma floresta fria e nevada.
+
+#### 📝 Prompt
+
+```
+Obra-prima, melhor qualidade, arte conceitual de fantasia ultra detalhada de um guerreiro solitário em uma floresta nevada com seu companheiro lobo branco. O guerreiro usa uma armadura robusta e carrega um arco e uma aljava com flechas. O lobo possui marcas vermelhas em sua pelagem. A cena é pintada em um estilo solto e atmosférico com iluminação suave, árvores cobertas de neve e um ambiente de inverno frio e nebuloso. Texturas altamente detalhadas e atmosfera melancólica. Composição cinematográfica, melhor qualidade, resolução 8K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068340037226553344/img/sEvowCCTycqnzYtP.jpg" width="600" alt="Guerreiro e lobo na neve">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6291)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2068400992690061567) | **Published:** Jun 20, 2026
+
+---
+### Cidade Antiga em Ruínas na Caverna
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico épico de uma civilização antiga massiva escondida dentro de uma caverna com um rio turquesa.
+
+#### 📝 Prompt
+
+```
+Obra-prima, melhor qualidade, ilustração de fantasia cinematográfica ultra detalhada de uma cidade antiga massiva em ruínas construída dentro de uma caverna gigante. Um rio turquesa largo flui pelo meio com vários barcos de madeira transportando pessoas. Pilares de pedra altos e quebrados e templos margeiam as margens do rio, com a luz do sol entrando por uma abertura no teto da caverna. Iluminação dramática, trepadeiras pendentes e partículas brilhantes criam uma atmosfera mística. Arquitetura, água e iluminação altamente detalhadas. Composição épica e inspiradora, melhor qualidade, resolução 8K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068334444898062336/img/ZgqOfxAjNrJqqSiC.jpg" width="600" alt="Cidade Antiga em Ruínas na Caverna">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6288)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2068355695481962728) | **Published:** Jun 20, 2026
+
+---
+### Vídeo com participação especial do Buzz Lightyear
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de geração de vídeo que altera uma frase e adiciona uma participação especial do Buzz Lightyear com seu bordão.
+
+#### 📝 Prompt
+
+```
+Altere de "mo money, solve mo problems" para "mo money, solve mo problems in the world and beyond" e adicione uma participação especial do Buzz Lightyear de Toy Story dizendo "ao infinito e além"
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068352992869568512/img/5dbRUcQDbNlW8gfl.jpg" width="600" alt="Vídeo com participação especial do Buzz Lightyear">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6282)**
+
+**Author:** [sho](https://x.com/sho00092729) | **Source:** [Link](https://x.com/sho00092729/status/2068353042345508903) | **Published:** Jun 20, 2026
+
+---
+### Vídeo de Rotação de Imagem e Efeito de Luz Colorida
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de movimento para rotacionar uma imagem enquanto adiciona efeitos dinâmicos de luz colorida nas laterais.
+
+#### 📝 Prompt
+
+```
+Rotacione a imagem e adicione um brilho amarelo-alaranjado vindo do lado esquerdo e um verde-azulado do lado direito; quando eles se encontrarem, a foto deve retornar ao estado original em preto e branco
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068352652073689089/img/2jGKVRm1FTc02fO_.jpg" width="600" alt="Vídeo de Rotação de Imagem e Efeito de Luz Colorida">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6283)**
+
+**Author:** [@wellness and art](https://x.com/ELENALAZA3) | **Source:** [Link](https://x.com/ELENALAZA3/status/2068352708742967297) | **Published:** Jun 20, 2026
+
+---
+### Grão de mostarda movendo montanha
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo metafórico de um pequeno grão de mostarda brotando e movendo uma montanha gigantesca.
+
+#### 📝 Prompt
+
+```
+Crie uma imagem de um pequeno grão de mostarda sendo plantado e brotando enquanto move uma montanha!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068306162315927552/img/zm-ccPnP8dkH-hba.jpg" width="600" alt="Grão de mostarda movendo montanha">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6286)**
+
+**Author:** [Mark Tatum](https://x.com/Mark561256) | **Source:** [Link](https://x.com/Mark561256/status/2068306227856126341) | **Published:** Jun 20, 2026
+
+---
+### Restaurar Sebring para o Espaço
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt criativo de transformação de vídeo que restaura um carro Sebring e o envia para a órbita.
+
+#### 📝 Prompt
+
+```
+Restaure o Sebring, remova as vinhas e envie-o para o espaço para se juntar ao Tesla de Elon
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068296453382950912/img/2Fuk12L9K6hQdVma.jpg" width="600" alt="Restaurar Sebring para o Espaço">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6290)**
+
+**Author:** [Mark Tatum](https://x.com/Mark561256) | **Source:** [Link](https://x.com/Mark561256/status/2068296531405324765) | **Published:** Jun 20, 2026
+
+---
+### Edifícios em Disco Futuristas e Passarelas
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt que descreve uma paisagem urbana vertical com edifícios em formato de disco conectados por passarelas e trens passando por baixo.
+
+#### 📝 Prompt
+
+```
+Estes discos são edifícios altos, não podemos ignorar a gravidade, e eles estão conectados por passarelas altas e brilhantes, com trens passando por baixo das passarelas; torne isso melhor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068295575343165440/img/B6FrCqdMl7ax3RNy.jpg" width="600" alt="Edifícios em Disco Futuristas e Passarelas">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6278)**
+
+**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2068295627499274408) | **Published:** Jun 20, 2026
+
+---
+### Trailer de Filme de Ação Sci-Fi
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Um prompt abrangente para gerar um trailer de filme de ficção científica com aparência profissional, contendo instruções específicas para diálogos, legendas e composição de cenas usando o modo Grok Imagine Agent.
+
+#### 📝 Prompt
+
+```
+Crie um trailer de filme de ficção científica em live-action com cerca de 40 segundos. O diálogo pode ser em inglês. Inclua um título e adicione legendas em japonês para cada linha de diálogo. O conteúdo específico fica a seu critério, mas certifique-se de incluir um inimigo poderoso, uma reunião de aliados, batalhas intensas e uma cena de perseguição em alta velocidade.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068286308477534208/img/gTwYzjzZdgmycZGV.jpg" width="600" alt="Trailer de Filme de Ação Sci-Fi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6295)**
+
+**Author:** [ふくぶん](https://x.com/FFBuncho) | **Source:** [Link](https://x.com/FFBuncho/status/2068287189235142860) | **Published:** Jun 20, 2026
+
+---
+### Vídeo de Mensagem Futura da Alana
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico de uma personagem chamada Alana entregando uma mensagem positiva do futuro diretamente para a câmera.
+
+#### 📝 Prompt
+
+```
+ela fala diretamente para a câmera com uma mensagem do futuro. o nome dela é Alana e sua mensagem é positiva.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068285330029981696/img/iOSfc2kYYTfdNQ4s.jpg" width="600" alt="Vídeo de Mensagem Futura da Alana">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6279)**
+
+**Author:** [Make Britain Great Again](https://x.com/DragonFlam7530) | **Source:** [Link](https://x.com/DragonFlam7530/status/2068285534082859378) | **Published:** Jun 20, 2026
+
+---
+### Garota virando a cabeça e movendo as mãos
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt específico de movimento que direciona a personagem a virar a cabeça para a esquerda, mantendo ambas as mãos atrás das costas.
+
+#### 📝 Prompt
+
+```
+Adicione a garota virada para trás e ela vira a cabeça para o lado esquerdo com ambas as mãos voltadas para as costas.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068264366193963008/img/fl88RZFHxAXhpQjd.jpg" width="600" alt="Garota virando a cabeça e movendo as mãos">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6294)**
+
+**Author:** [KAYODE EMMANUEL](https://x.com/KAYODEEMMAqbze) | **Source:** [Link](https://x.com/KAYODEEMMAqbze/status/2068264432052969771) | **Published:** Jun 20, 2026
+
+---
+### Vídeo de Campo de Batalha com Robô Gigante
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo de ação dinâmica apresentando um robô gigante avançando por um campo de batalha caótico enquanto dispara artilharia.
+
+#### 📝 Prompt
+
+```
+Um robô gigante caminha por um campo de batalha caótico, disparando projéteis de artilharia para todos os lados enquanto avança.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068244815922540544/img/DU7QNv7aTh7sxmty.jpg" width="600" alt="Vídeo de Campo de Batalha com Robô Gigante">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6280)**
+
+**Author:** [Curious 1](https://x.com/CuriousOne_01) | **Source:** [Link](https://x.com/CuriousOne_01/status/2068246873157284117) | **Published:** Jun 20, 2026
+
+---
+### Animação de Reencarnação Colorida
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de animação que dá vida a um personagem com uma transição para uma sequência de reencarnação colorida.
+
+#### 📝 Prompt
+
+```
+Faça com que ela se anime como se estivesse voltando à vida, adicione uma sequência onde ela reencarna em cores
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068239414271111168/img/2lEkFozGR5Fd_i7D.jpg" width="600" alt="Animação de Reencarnação Colorida">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6293)**
+
+**Author:** [bDom](https://x.com/bdom87bdom) | **Source:** [Link](https://x.com/bdom87bdom/status/2068239524291809309) | **Published:** Jun 20, 2026
+
+---
+### Transição de vídeo de terror do Patolino
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico em várias partes para o Grok Imagine que muda de um cenário de terror cheio de suspense para um final cômico ao estilo Looney Tunes, apresentando o Patolino.
+
+#### 📝 Prompt
+
+```
+1) (A donzela lê em voz alta o seu telefone: "Isso não pode estar certo, diz que quem está ligando está dentro de casa".) (Movimentos nervosos da donzela.) Durante todo o tempo, uma sombra humanoide baixa se move ao fundo.
+
+2) (O perseguidor da donzela é o Patolino, famoso pelos Looney Tunes. O Patolino se mistura ao fundo, exceto por um contorno sombrio suave e seu bico laranja brilhante. Ele permanece constantemente atrás da donzela enquanto ri suavemente ao estilo do Patolino: "hoo-hoo hoo hoo".) A donzela fica cada vez mais assustada enquanto se move pelo apartamento tentando acender as luzes, mas a energia acabou. Diálogo nervoso da donzela.
+
+3) (O perseguidor da donzela é o Patolino, famoso pelos Looney Tunes. O Patolino grita: "Eu te disse que te encontraria, gracinha!".) (As luzes então se acendem enquanto o Patolino começa a pular comicamente pela sala de estar ao estilo Looney Tunes, quebrando coisas como móveis e a televisão enquanto dá sua risada "hoo hoo" em voz alta.) A donzela reage de forma comicamente exagerada e grita para o Patolino sair!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068220643607265280/img/xipCJDRYgsmqujEW.jpg" width="600" alt="Transição de vídeo de terror do Patolino">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6285)**
+
+**Author:** [1974titsucker](https://x.com/1974titsucker) | **Source:** [Link](https://x.com/1974titsucker/status/2068222678490554472) | **Published:** Jun 20, 2026
+
+---
+### POV Ataque de Tubarão
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo em POV cheio de suspense onde um tubarão nada em direção à câmera e a 'engole'.
+
+#### 📝 Prompt
+
+```
+Faça o tubarão nadar para mais perto da câmera e abrir a boca para engoli-la, com um fade para preto como se a câmera estivesse dentro da boca dele
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068185896592019457/img/j_7FeU7CPFJIbGrY.jpg" width="600" alt="POV Ataque de Tubarão">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6289)**
+
+**Author:** [WiseArtist Studios](https://x.com/Wise375) | **Source:** [Link](https://x.com/Wise375/status/2068185956176261631) | **Published:** Jun 20, 2026
+
+---
 ### Animação de coração pulsante com personagem desaparecendo
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1817,357 +2163,6 @@ Jilla diz: "Cada passo."
 **Author:** [Kim Maria](https://x.com/KimMari46054539) | **Source:** [Link](https://x.com/KimMari46054539/status/2065845361697038839) | **Published:** Jun 13, 2026
 
 ---
-### Vídeo de Moda em Terraço Elegante
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo para uma mulher com um traje branco elegante e joias, em pé em um terraço.
-
-#### 📝 Prompt
-
-```
-Coloque-me em um terraço usando um traje todo branco, cabelo preso e joias bonitas
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3ea702523ce2c9a822acfe1d000f9f1f/thumbnails/thumbnail.jpg" width="600" alt="Vídeo de Moda em Terraço Elegante">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6026)**
-
-**Author:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **Source:** [Link](https://x.com/CindyWeigapn6/status/2065769581789012075) | **Published:** Jun 13, 2026
-
----
-### Castores marceneiros com mochilas a jato
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de animação criativa apresentando castores usando mochilas a jato e ferramentas de marcenaria dentro de um tema de geometria sagrada.
-
-#### 📝 Prompt
-
-```
-Os castores têm muito trabalho a fazer, então usam mochilas a jato para ajudar a acelerar o ritmo. Eles ainda levam o seu tempo e utilizam a geometria sagrada. Eles vestem e usam as ferramentas de um mestre carpinteiro...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c1da7871a13d012fdcf7800785eea440/thumbnails/thumbnail.jpg" width="600" alt="Castores marceneiros com mochilas a jato">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6031)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2065768512715370712) | **Published:** Jun 13, 2026
-
----
-### Transformação de Personagem Hiper-Realista no Estilo Duna
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt altamente detalhado para transformar um personagem de uma referência em um homem fotorrealista na faixa dos 40 anos, com uma estética cinematográfica de ficção científica inspirada em Duna, de Denis Villeneuve.
-
-#### 📝 Prompt
-
-```
-Transforme o personagem da imagem de referência em um homem humano hiper-realista e fotorrealista, com cerca de 40 a 45 anos, apresentando poros visíveis, barba rala sutil, textura de pele detalhada, detalhes oculares realistas e imperfeições naturais da pele. Utilize proporções corporais humanas realistas — não siga estritamente as proporções ou a anatomia estilizada de qualquer desenho original; priorize uma anatomia humana precisa e naturalista, além de uma escala realista. Mantenha o capacete em sua cabeça o tempo todo — um capacete tecnológico elegante e justo, em azul-petróleo metálico e preto, combinando com a armadura, com a área da viseira revelando seu rosto claramente.
-
-Ele veste exatamente o mesmo traje tecnológico futurista e a armadura do personagem de referência: placas de armadura em preto fosco e azul-petróleo metálico com detalhes mecânicos intrincados, texturas de metal reflexivo realistas, desgaste sutil, arranhões e marcas de uso. Não altere o design da armadura, o esquema de cores ou o estilo para corresponder ao traje de Duna na foto — preserve estritamente a armadura e o capacete originais em azul-petróleo e preto. Mantenha exatamente a mesma pose confiante: em pé sobre um terreno desértico rochoso, com a mão esquerda segurando uma corda/chicote enrolado ao lado do corpo e a mão direita segurando um cajado alto. Converta o cajado em um cajado emissor holográfico de alta tecnologia com projeções holográficas ciano brilhantes formando o emblema de coruja no topo — faça do emblema um holograma luminoso e translúcido com brilho de luz realista e partículas de energia. Mantenha o emblema de leão no peito, mas renderize-o como uma projeção holográfica brilhante integrada perfeitamente ao traje de alta tecnologia.
-
-O estilo e a cinematografia devem corresponder exatamente a esta foto de referência: um frame de filme cinematográfico épico de Duna, de Denis Villeneuve, fotorrealismo hiper-realista com qualidade de produção de filme de grande orçamento. Luz do dia intensa no deserto sob um céu azul vívido com nuvens brancas dispersas, luz solar natural forte criando reflexos realistas, sombras profundas e um leve reflexo de lente (lens flare). Tons quentes de areia contrastando com o céu atmosférico azul frio, alta faixa dinâmica, rica gradação de cores com uma paleta cinematográfica dessaturada, porém vibrante, típica de Duna. Texturas ultra-detalhadas na armadura, tecido, pele e terreno rochoso — poeira visível, trama do tecido, pátina de metal e sujeira ambiental. Raios de luz volumétricos, iluminação de contorno suave, profundidade de campo rasa com foco nítido no personagem em primeiro plano e um leve bokeh no fundo. Granulação de filme, características de lente anamórfica, tratamento de cor profissional e uma sensação autêntica de frame de filme de grande formato. Qualidade de resolução 8k, fotorrealista, sem artefatos de desenho ou ilustração.
-```
-
-<img src="https://cms-assets.youmind.com/media/1781427142173_l4vvei_HKr2Fs5a4AAZ_v7.jpg" width="600" alt="Transformação de Personagem Hiper-Realista no Estilo Duna">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6032)**
-
-**Author:** [Moonlighter](https://x.com/moonlighter3000) | **Source:** [Link](https://x.com/moonlighter3000/status/2065734008026378505) | **Published:** Jun 13, 2026
-
----
-### Ópera Espacial Cinematográfica: Cavaleiro de Excalibur
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt cinematográfico altamente detalhado que combina o estilo épico dos filmes dos anos 80 com estética de ficção científica hard e cavaleiros espaciais.
-
-#### 📝 Prompt
-
-```
-Um plano cinematográfico amplo e majestoso no estilo épico do filme Excalibur de 1981, de John Boorman, reimaginado como uma ópera espacial de ficção científica hard, iluminação dramática em chiaroscuro com luz de contorno intensa e detalhes em energia brilhante. Um nobre cavaleiro espacial está no centro, vestindo uma armadura de poder em prata polida e branca com detalhes intrincados de placas de inspiração medieval, linhas de energia azul brilhante e uma grande espada futurista com lâmina de plasma cravada no solo alienígena rachado. Ele usa um capacete coroado com visor brilhante, expressão heroica intensa. Ao lado dele, uma rainha espacial majestosa em um vestido futurista branco e dourado ornamentado, com tecido fluido bordado em energia, detalhes em cristais e um elegante adereço de cabeça estilo véu de ficção científica, mãos na cintura, etérea e imponente. Ladeando-os estão cavaleiros espaciais em armaduras metálicas brilhantes, tecno-místicos encapuzados e uma multidão de lordes, guerreiros e cortesãos alienígenas em trajes ricos nos degraus de um antigo templo alienígena em ruínas. Fundo cósmico dramático com céu de nebulosa estrelada, névoa atmosférica, pretos profundos do espaço misturados com ricos destaques em dourado e azul elétrico, reflexos metálicos, granulação de filme, sensação de lente anamórfica, atmosfera épica de ficção científica mítica, obra-prima, imagem cinematográfica em 8k
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/23bdccd9f077df216d0fdf9260d151e9/thumbnails/thumbnail.jpg" width="600" alt="Ópera Espacial Cinematográfica: Cavaleiro de Excalibur">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6029)**
-
-**Author:** [Moonlighter](https://x.com/moonlighter3000) | **Source:** [Link](https://x.com/moonlighter3000/status/2065693534481531035) | **Published:** Jun 13, 2026
-
----
-### Resgate de Carro de Rally em Drift na Costa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de cena de ação intensa para uma sequência de resgate com carro de rally, apresentando drift sincronizado em uma estrada costeira do Mediterrâneo com efeitos de fumaça e cascalho.
-
-#### 📝 Prompt
-
-```
-Curva fechada acima da costa do Mediterrâneo. O cupê de rally amarelo e preto número 07 da KAIRO estabiliza deliberadamente o veículo em derrapagem da LIRA. Ambos os carros de rally travados em drift sincronizado. Portas quase se tocando, mas sem colidir. Fumaça de pneu. Cascalho sendo lançado.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/63ee4bf1c0503f4c18548c9ae124ec6e/thumbnails/thumbnail.jpg" width="600" alt="Resgate de Carro de Rally em Drift na Costa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6214)**
-
-**Author:** [Israa Ali](https://x.com/Israa_Ali2077) | **Source:** [Link](https://x.com/Israa_Ali2077/status/2065453142959952120) | **Published:** Jun 12, 2026
-
----
-### Exploração de Nave de Reconhecimento Interestelar
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cinematográfico sobre uma nave espacial viajando pela galáxia em busca de planetas inexplorados para resorts de luxo.
-
-#### 📝 Prompt
-
-```
-Uma nave de reconhecimento interestelar viaja pela galáxia em busca de planetas inexplorados e deslumbrantes para transformá-los nos resorts mais exclusivos e luxuosos que o universo já viu.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/54e7d09d50668efae7eaec10db39126e/thumbnails/thumbnail.jpg" width="600" alt="Exploração de Nave de Reconhecimento Interestelar">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5994)**
-
-**Author:** [Huff](https://x.com/Huff4Congress) | **Source:** [Link](https://x.com/Huff4Congress/status/2065420372585914709) | **Published:** Jun 12, 2026
-
----
-### Sequência de ação de espionagem ao estilo Matrix
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cinematográfico apresentando uma luta de artes marciais de alta ação em bullet time, que remete a The Matrix.
-
-#### 📝 Prompt
-
-```
-Ricardo entra em modo Matrix imparável, enfrentando 100 homens com artes marciais incríveis e esquivas em bullet time, e então derrota o Dr. Evil em um duelo individual com um poder sobre-humano que supera qualquer limite humano em um clímax explosivo de ação de espionagem.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/96b59018f5333b52e6676d676bc0f7ce/thumbnails/thumbnail.jpg" width="600" alt="Sequência de ação de espionagem ao estilo Matrix">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5995)**
-
-**Author:** [Ricardo Nunez](https://x.com/Ricardo19411988) | **Source:** [Link](https://x.com/Ricardo19411988/status/2065374254934139270) | **Published:** Jun 12, 2026
-
----
-### Animação realista de chaveiro robô AI estilo Dango
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Um prompt de vídeo para um chaveiro robô AI realista que pode falar e mover seus membros, baseado em um estilo fotográfico específico.
-
-#### 📝 Prompt
-
-```
-Por favor, faça com que ele fale, mantendo o aspecto realista desta foto de 'Dango sobre flores'. Transforme-o em um chaveiro robô AI. Por favor, não use plástico. Faça com que os membros se movam.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fdd7b073a9edf2b5f61869eb584a7c90/thumbnails/thumbnail.jpg" width="600" alt="Animação realista de chaveiro robô AI estilo Dango">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5996)**
-
-**Author:** [中間未央](https://x.com/0555Mio) | **Source:** [Link](https://x.com/0555Mio/status/2065258358970696066) | **Published:** Jun 12, 2026
-
----
-### Espelho Fantasmagórico em Mansão Medieval
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo para um corredor assustador de uma mansão do século XIV, apresentando uma figura fantasmagórica em um espelho ornamentado e armaduras.
-
-#### 📝 Prompt
-
-```
-Um espelho ornamentado do século XIV em um corredor de mansão medieval pouco iluminado, uma figura translúcida e fantasmagórica olhando de dentro do espelho, iluminado por tochas flamejantes nas paredes, armaduras medievais posicionadas ao longo das paredes de pedra
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2c544cad09ec0ecae9a460863473ef08/thumbnails/thumbnail.jpg" width="600" alt="Espelho Fantasmagórico em Mansão Medieval">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5993)**
-
-**Author:** [Mars.Olympus.Mon](https://x.com/DivineFreedoms) | **Source:** [Link](https://x.com/DivineFreedoms/status/2065235512256819489) | **Published:** Jun 12, 2026
-
----
-### Loop contínuo de dragão marionete gótico
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo de 60fps altamente detalhado para criar um loop vertical contínuo de um majestoso dragão gótico em um vestido vitoriano.
-
-#### 📝 Prompt
-
-```
-Crie um vídeo em loop contínuo de 6 segundos na proporção vertical 9:16, 60fps ultrafluido, qualidade de obra-prima cinematográfica usando o auge do motor de vídeo Grok Imagine de 2026 — sem texto, sem legendas, sem fontes, sem marcas d'água, sem cortes ou interrupções, movimento perfeitamente fluido com zero instabilidade.
-
-Assunto principal: exatamente o mesmo majestoso dragão marionete gótico da imagem anterior — dragão em tamanho real com escamas de obsidiana rachadas em vermelho-sangue e preto, olhos carmesim brilhantes, presas afiadas, asas coriáceas enormes com bordas de renda gótica esfarrapada, vestindo o exato e ornamentado vestido gótico vitoriano vermelho e preto esfarrapado com bordados dourados, espartilho, renda e correntes. O vestido permanece perfeitamente intacto, cobrindo totalmente, recatado e nunca removido, rasgado, deslocado, alterado ou afetado por cordas ou movimentos de qualquer forma durante todo o vídeo — 100% vestido o tempo todo, sem problemas com a vestimenta.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a27c8749d009ece95c7957602e1bad28/thumbnails/thumbnail.jpg" width="600" alt="Loop contínuo de dragão marionete gótico">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5963)**
-
-**Author:** [👾 SpawnsAi 👾](https://x.com/Salty_Floridian) | **Source:** [Link](https://x.com/Salty_Floridian/status/2065140313400737904) | **Published:** Jun 11, 2026
-
----
-### Mistério da Esteira Sombria
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt cinematográfico para uma cena sombria e misteriosa, apresentando uma única esteira com figuras imóveis que se estendem até o horizonte.
-
-#### 📝 Prompt
-
-```
-Uma única esteira com pessoas imóveis se afastando em direção ao infinito, atmosfera sombria e misteriosa.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9a596b8b4503a1ae0a6e39a5dde7b8e2/thumbnails/thumbnail.jpg" width="600" alt="Mistério da Esteira Sombria">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5976)**
-
-**Author:** [BarcelonaAlternativa](https://x.com/Barnalternativa) | **Source:** [Link](https://x.com/Barnalternativa/status/2065136103582204156) | **Published:** Jun 11, 2026
-
----
-### Vídeo motivacional sobre ética de trabalho
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo baseado em uma citação motivacional direta sobre trabalhar duro para alcançar objetivos.
-
-#### 📝 Prompt
-
-```
-Todo mundo que quer alguma coisa vai ter que trabalhar por isso, você não acha que vai conseguir de graça, porra. Eu não dou a mínima.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d4484cece25bdac8a0b0efa76717df5a/thumbnails/thumbnail.jpg" width="600" alt="Vídeo motivacional sobre ética de trabalho">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5961)**
-
-**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2065134271912636435) | **Published:** Jun 11, 2026
-
----
-### Limiar de Poder de Ficção Científica Espacial Sombria
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de arte digital de ficção científica sombria que retrata um limiar para um poder cósmico insondável.
-
-#### 📝 Prompt
-
-```
-Bom dia, humanos!!
-
-Este é o limiar além do qual reside um poder que você não consegue compreender, reivindique seu destino, ficção científica espacial sombria, arte digital, TLV no canto, sem texto
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cdc8973f52917c85d0e14dd345b6f89e/thumbnails/thumbnail.jpg" width="600" alt="Limiar de Poder de Ficção Científica Espacial Sombria">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5973)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2065130637179375816) | **Published:** Jun 11, 2026
-
----
-### Reação à Copa do Mundo: Itália
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt para gerar um vídeo de reação de uma mulher italiana ao saber que a Itália ficou de fora da Copa do Mundo pela terceira vez.
-
-#### 📝 Prompt
-
-```
-Mulher italiana percebendo que, pela terceira vez consecutiva, a Itália não participará da Copa do Mundo
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/61d19ddaaf7d9f3ad822ce94001d6945/thumbnails/thumbnail.jpg" width="600" alt="Reação à Copa do Mundo: Itália">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5977)**
-
-**Author:** [ᛁᛖᛋᚢᛋ ᛘᛅᚱᛏᛁᚾᛖᛋ ᚷᚢᚾᛋᛅᛚᛁᛋ](https://x.com/jemagomoen) | **Source:** [Link](https://x.com/jemagomoen/status/2065110384852308396) | **Published:** Jun 11, 2026
-
----
-### Vídeo de meme de funcionário exausto
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo bem-humorado retratando um trabalhador sobrecarregado, soterrado por papelada enquanto tenta acompanhar as várias empresas de Elon Musk.
-
-#### 📝 Prompt
-
-```
-Imagem de um homem completamente exausto cercado por papéis e computadores, com o texto: “Eu tentando acompanhar o Elon: Tesla, SpaceX, xAI, Twitter, Neuralink, The Boring Company… e eu não consigo nem responder as mensagens no grupo da família 😂”
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4e10cd63e3107f14859831d60b734848/thumbnails/thumbnail.jpg" width="600" alt="Vídeo de meme de funcionário exausto">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5960)**
-
-**Author:** [Angie Ramos Mendez](https://x.com/AngieRamos2030) | **Source:** [Link](https://x.com/AngieRamos2030/status/2065096120229912757) | **Published:** Jun 11, 2026
-
----
-### Prompt de Locução Política em Espanhol
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Uma instrução específica para adicionar uma locução em espanhol com tons filosóficos e políticos profundos a um vídeo.
-
-#### 📝 Prompt
-
-```
-Adicione uma locução em espanhol: Quem segue o covarde que, por medo de se mostrar como é, se esconde em um roteiro que diz o que aqueles que o seguem querem ouvir.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6e55ac968ddf962d720aae7f34d407d8/thumbnails/thumbnail.jpg" width="600" alt="Prompt de Locução Política em Espanhol">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5975)**
-
-**Author:** [Jose gutierrez](https://x.com/hoccegutierrez) | **Source:** [Link](https://x.com/hoccegutierrez/status/2065092557210603860) | **Published:** Jun 11, 2026
-
----
-### Amor Poético na Chuva
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo romântico e atmosférico que retrata o amor celebrado na chuva em meio ao silêncio do tempo.
-
-#### 📝 Prompt
-
-```
-O tempo para quando os relógios esquecem seu dever. Apenas o silêncio entre duas batidas do coração e nosso amor, que deve ser celebrado... mesmo sob a chuva.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8a8e61a90cee7f6fcf91db0c6692f697/thumbnails/thumbnail.jpg" width="600" alt="Amor Poético na Chuva">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5966)**
-
-**Author:** [Scarlett](https://x.com/scarlettzen1) | **Source:** [Link](https://x.com/scarlettzen1/status/2065080973176271130) | **Published:** Jun 11, 2026
-
----
-### Animação de torcedora da Argentina na Copa do Mundo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de geração de vídeo apresentando uma torcedora apoiando a seleção argentina para a Copa do Mundo de 2026, mantendo a identidade facial de uma foto de referência.
-
-#### 📝 Prompt
-
-```
-Estou torcendo pela Seleção Argentina. Messi. Copa do Mundo de 2026. 
-Mantenha a mulher exatamente como na foto de referência: seu rosto, cabelo castanho cacheado adornado com uma tiara brilhante e uma flor rosa, joias elegantes, pose sentada com as pernas cruzadas enquanto segura um buquê de peônias rosas, expressão confiante e todos os detalhes...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7ad52d7803b2c9f535bcf61cdc030aa9/thumbnails/thumbnail.jpg" width="600" alt="Animação de torcedora da Argentina na Copa do Mundo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5964)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2065067503231942715) | **Published:** Jun 11, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2229,6 +2224,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-21T05:13:25.038Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-21T11:35:36.519Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1894** |
+| 📝 Total Prompts | **1912** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-21** |
 
@@ -189,6 +189,352 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Hollywood-Schauspieler in der Nähe des Burj Khalifa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Sonntagsgruß mit einem Bild eines Hollywood-Schauspielers, der in der Nähe des Burj Khalifa spazieren geht, erstellt mit Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Generiere ein Bild eines beliebten Hollywood-Schauspielers, der in der Nähe des Burj Khalifa spazieren geht, mit dem Schriftzug „Good afternoon“ am oberen Bildrand #GutenTag #PositiveVibesOnly #SchönenSonntag
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068609777744351232/img/6s_s09o0g9o_FkhW.jpg" width="600" alt="Hollywood-Schauspieler in der Nähe des Burj Khalifa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6292)**
+
+**Author:** [Ijaz Malik](https://x.com/Ijazmalik101) | **Source:** [Link](https://x.com/Ijazmalik101/status/2068609842198225254) | **Published:** Jun 21, 2026
+
+---
+### Kaleidoskopisches kosmisches Delfin-Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein abstraktes kosmisches Videoprompt mit kaleidoskopischen Delfinen und wandernder Marmor-Philharmonie.
+
+#### 📝 Prompt
+
+```
+Korallen-fulminierende Delfin-Kaleidoskop-Raumfahrt kosmische wandernde Marmor-Philharmonie
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068468112869990401/img/Tnyy3JCHeBjf3-rh.jpg" width="600" alt="Kaleidoskopisches kosmisches Delfin-Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6284)**
+
+**Author:** [Nautilus](https://x.com/spectra_gallery) | **Source:** [Link](https://x.com/spectra_gallery/status/2068468174245204130) | **Published:** Jun 20, 2026
+
+---
+### Video: Kerzenschein-Lesen in der Bibliothek
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein gemütlicher, atmosphärischer Video-Prompt einer Frau, die bei Kerzenschein in einer Bibliothek liest und Tee trinkt.
+
+#### 📝 Prompt
+
+```
+Eine Frau in einem weißen, geblümten Sommerkleid sitzt in einer Bibliothek, liest bei Kerzenschein und trinkt Tee.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068443436907458560/img/BKhSpKdruR5QIV3G.jpg" width="600" alt="Video: Kerzenschein-Lesen in der Bibliothek">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6281)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2068443496047055334) | **Published:** Jun 20, 2026
+
+---
+### Feier zum 250. Jahrestag der USA
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein festlicher Video-Prompt, der sich die Feierlichkeiten zum 250. Jahrestag des 4. Juli in den Vereinigten Staaten von Amerika vorstellt.
+
+#### 📝 Prompt
+
+```
+Stellen wir uns eine Feier zum 250. Jahrestag des 4. Juli in den Vereinigten Staaten von Amerika vor
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068424487704358912/img/Efwa0bE4L3mr4DKD.jpg" width="600" alt="Feier zum 250. Jahrestag der USA">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6287)**
+
+**Author:** [Mark Tatum](https://x.com/Mark561256) | **Source:** [Link](https://x.com/Mark561256/status/2068424560634933349) | **Published:** Jun 20, 2026
+
+---
+### Krieger und Wolf im Schnee
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein atmosphärischer Fantasy-Video-Prompt mit einem einsamen Krieger und seinem Wolfsbegleiter in einem kalten, verschneiten Wald.
+
+#### 📝 Prompt
+
+```
+Meisterwerk, beste Qualität, ultra-detaillierte Fantasy-Concept-Art eines einsamen Kriegers, der mit seinem weißen Wolfsbegleiter in einem verschneiten Wald steht. Der Krieger trägt eine robuste Rüstung und einen Bogen mit einem Köcher voller Pfeile. Der Wolf hat rote Markierungen im Fell. Die Szene ist in einem lockeren, atmosphärischen Stil gemalt, mit weichem Licht, schneebedeckten Bäumen und einer kalten, nebligen Winterumgebung. Hochdetaillierte Texturen und stimmungsvolle Atmosphäre. Kinoreife Komposition, beste Qualität, 8K-Auflösung.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068340037226553344/img/sEvowCCTycqnzYtP.jpg" width="600" alt="Krieger und Wolf im Schnee">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6291)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2068400992690061567) | **Published:** Jun 20, 2026
+
+---
+### Antike Ruinenstadt in einer Höhle
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein epischer, filmischer Video-Prompt einer riesigen antiken Zivilisation, die in einer Höhle mit einem türkisfarbenen Fluss verborgen liegt.
+
+#### 📝 Prompt
+
+```
+Meisterwerk, beste Qualität, ultra-detaillierte filmische Fantasy-Illustration einer riesigen antiken Ruinenstadt, die in einer gigantischen Höhle erbaut wurde. Ein breiter türkisfarbener Fluss fließt durch die Mitte, auf dem mehrere Holzboote mit Menschen unterwegs sind. Hohe, zerbrochene Steinsäulen und Tempel säumen die Flussufer, während Sonnenlicht durch eine Öffnung in der Höhlendecke einfällt. Dramatische Beleuchtung, hängende Ranken und leuchtende Partikel erzeugen eine mystische Atmosphäre. Hochdetaillierte Architektur, Wasser und Beleuchtung. Epische und beeindruckende Komposition, beste Qualität, 8K-Auflösung.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068334444898062336/img/ZgqOfxAjNrJqqSiC.jpg" width="600" alt="Antike Ruinenstadt in einer Höhle">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6288)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2068355695481962728) | **Published:** Jun 20, 2026
+
+---
+### Buzz Lightyear Cameo-Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Generierungs-Prompt, der einen Satz abwandelt und einen Cameo-Auftritt von Buzz Lightyear mit seinem berühmten Spruch hinzufügt.
+
+#### 📝 Prompt
+
+```
+Ändere „mo money, solve mo problems“ in „mo money, solve mo problems in the world and beyond“ und füge einen Cameo-Auftritt von Buzz Lightyear aus Toy Story hinzu, der „bis zur Unendlichkeit und noch viel weiter“ sagt.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068352992869568512/img/5dbRUcQDbNlW8gfl.jpg" width="600" alt="Buzz Lightyear Cameo-Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6282)**
+
+**Author:** [sho](https://x.com/sho00092729) | **Source:** [Link](https://x.com/sho00092729/status/2068353042345508903) | **Published:** Jun 20, 2026
+
+---
+### Video mit Bildrotation und Farbreflexen
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Motion-Prompt zum Rotieren eines Bildes bei gleichzeitiger Hinzufügung dynamischer Farbreflexe von den Seiten.
+
+#### 📝 Prompt
+
+```
+Rotiere das Bild und füge gelb-orangefarbene Lichteffekte von der linken Seite sowie grün-blaue von der rechten Seite hinzu. Wenn sie sich in der Mitte treffen, soll das Bild wieder in den ursprünglichen Schwarz-Weiß-Zustand zurückkehren.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068352652073689089/img/2jGKVRm1FTc02fO_.jpg" width="600" alt="Video mit Bildrotation und Farbreflexen">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6283)**
+
+**Author:** [@wellness and art](https://x.com/ELENALAZA3) | **Source:** [Link](https://x.com/ELENALAZA3/status/2068352708742967297) | **Published:** Jun 20, 2026
+
+---
+### Senfkorn versetzt Berge
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein metaphorischer Video-Prompt, bei dem ein winziges Senfkorn keimt und einen riesigen Berg versetzt.
+
+#### 📝 Prompt
+
+```
+Erstelle ein Bild von einem winzigen Senfkorn, das eingepflanzt wird, keimt und dabei einen Berg versetzt!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068306162315927552/img/zm-ccPnP8dkH-hba.jpg" width="600" alt="Senfkorn versetzt Berge">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6286)**
+
+**Author:** [Mark Tatum](https://x.com/Mark561256) | **Source:** [Link](https://x.com/Mark561256/status/2068306227856126341) | **Published:** Jun 20, 2026
+
+---
+### Sebring ins All befördern
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein kreativer Video-Transformations-Prompt, der einen Sebring restauriert und in die Umlaufbahn schickt.
+
+#### 📝 Prompt
+
+```
+Restauriere den Sebring, entferne das Rankenwerk und schicke ihn ins All, damit er sich Elons Tesla anschließt.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068296453382950912/img/2Fuk12L9K6hQdVma.jpg" width="600" alt="Sebring ins All befördern">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6290)**
+
+**Author:** [Mark Tatum](https://x.com/Mark561256) | **Source:** [Link](https://x.com/Mark561256/status/2068296531405324765) | **Published:** Jun 20, 2026
+
+---
+### Futuristische Scheibengebäude und Laufstege
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt, der ein vertikales Stadtbild mit scheibenförmigen Gebäuden beschreibt, die durch Laufstege verbunden sind, während Züge unter ihnen hindurchfahren.
+
+#### 📝 Prompt
+
+```
+Diese Scheiben sind hohe Gebäude, bei denen wir die Schwerkraft nicht ignorieren können. Sie sind durch helle, hohe Laufstege miteinander verbunden, und Züge fahren unter den Laufstegen hindurch – gestalte es noch besser.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068295575343165440/img/B6FrCqdMl7ax3RNy.jpg" width="600" alt="Futuristische Scheibengebäude und Laufstege">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6278)**
+
+**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2068295627499274408) | **Published:** Jun 20, 2026
+
+---
+### Sci-Fi-Action-Filmtrailer
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ein umfassender Prompt zur Erstellung eines professionell wirkenden Sci-Fi-Filmtrailers mit spezifischen Anweisungen für Dialoge, Untertitel und Szenenkomposition unter Verwendung des Grok Imagine Agent-Modus.
+
+#### 📝 Prompt
+
+```
+Erstelle einen Live-Action-Sci-Fi-Filmtrailer von etwa 40 Sekunden Länge. Die Dialoge können auf Englisch sein. Füge einen Titel hinzu und ergänze für jede Dialogzeile japanische Untertitel. Der spezifische Inhalt bleibt dir überlassen, aber achte darauf, einen mächtigen Feind, eine Gruppe von Verbündeten, intensive Kämpfe und eine rasante Verfolgungsjagd einzubauen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068286308477534208/img/gTwYzjzZdgmycZGV.jpg" width="600" alt="Sci-Fi-Action-Filmtrailer">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6295)**
+
+**Author:** [ふくぶん](https://x.com/FFBuncho) | **Source:** [Link](https://x.com/FFBuncho/status/2068287189235142860) | **Published:** Jun 20, 2026
+
+---
+### Alana Zukunfts-Videobotschaft
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein cineastischer Video-Prompt einer Figur namens Alana, die eine positive Botschaft aus der Zukunft direkt in die Kamera übermittelt.
+
+#### 📝 Prompt
+
+```
+Sie spricht direkt in die Kamera mit einer Botschaft aus der Zukunft. Ihr Name ist Alana und ihre Nachricht ist positiv.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068285330029981696/img/iOSfc2kYYTfdNQ4s.jpg" width="600" alt="Alana Zukunfts-Videobotschaft">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6279)**
+
+**Author:** [Make Britain Great Again](https://x.com/DragonFlam7530) | **Source:** [Link](https://x.com/DragonFlam7530/status/2068285534082859378) | **Published:** Jun 20, 2026
+
+---
+### Mädchen dreht den Kopf und bewegt die Hände
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein bewegungsspezifischer Prompt, der die Figur anweist, ihren Kopf nach links zu drehen, während sie beide Hände hinter dem Rücken hält.
+
+#### 📝 Prompt
+
+```
+Füge das Mädchen hinzu, das nach hinten gedreht ist und den Kopf nach links dreht, wobei beide Hände nach hinten gerichtet sind.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068264366193963008/img/fl88RZFHxAXhpQjd.jpg" width="600" alt="Mädchen dreht den Kopf und bewegt die Hände">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6294)**
+
+**Author:** [KAYODE EMMANUEL](https://x.com/KAYODEEMMAqbze) | **Source:** [Link](https://x.com/KAYODEEMMAqbze/status/2068264432052969771) | **Published:** Jun 20, 2026
+
+---
+### Video von riesigem Roboter auf dem Schlachtfeld
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein dynamischer Action-Video-Prompt, der einen riesigen Roboter zeigt, der durch ein chaotisches Schlachtfeld vorrückt und Artillerie abfeuert.
+
+#### 📝 Prompt
+
+```
+Ein riesiger Roboter läuft durch ein chaotisches Schlachtfeld und feuert beim Vorrücken überall Artilleriegeschosse ab.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068244815922540544/img/DU7QNv7aTh7sxmty.jpg" width="600" alt="Video von riesigem Roboter auf dem Schlachtfeld">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6280)**
+
+**Author:** [Curious 1](https://x.com/CuriousOne_01) | **Source:** [Link](https://x.com/CuriousOne_01/status/2068246873157284117) | **Published:** Jun 20, 2026
+
+---
+### Reinkarnations-Farbanimation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Animations-Prompt, der ein Motiv zum Leben erweckt und mit einer Sequenz der farbigen Reinkarnation kombiniert.
+
+#### 📝 Prompt
+
+```
+Lass sie so animieren, als würde sie zum Leben erwachen, und füge eine Sequenz hinzu, in der sie in Farbe reinkarniert
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068239414271111168/img/2lEkFozGR5Fd_i7D.jpg" width="600" alt="Reinkarnations-Farbanimation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6293)**
+
+**Author:** [bDom](https://x.com/bdom87bdom) | **Source:** [Link](https://x.com/bdom87bdom/status/2068239524291809309) | **Published:** Jun 20, 2026
+
+---
+### Horror-Video-Übergang mit Daffy Duck
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein mehrteiliger filmischer Video-Prompt für Grok Imagine, der von einem spannungsgeladenen Horror-Szenario zu einem komödiantischen Ende im Stil der Looney Tunes mit Daffy Duck übergeht.
+
+#### 📝 Prompt
+
+```
+1) (Eine junge Frau liest laut von ihrem Handy ab: „Das kann nicht stimmen, da steht, der Anrufer ist im Haus.“) (Nervöse Bewegungen der Frau.) Die ganze Zeit über bewegt sich ein kleiner humanoider Schatten im Hintergrund.
+
+2) (Der Stalker der Frau ist Daffy Duck aus den Looney Tunes. Daffy verschmilzt bis auf eine leichte schattenhafte Kontur und seinen leuchtend orangefarbenen Schnabel mit dem Hintergrund. Er bleibt konsequent hinter der Frau, während er leise auf Daffy-Duck-Art kichert: hoo-hoo hoo hoo.) Die Frau bekommt zunehmend Angst, während sie durch ihre Wohnung läuft und versucht, das Licht einzuschalten, doch der Strom ist ausgefallen. Nervöses Geplapper der Frau.
+
+3) (Der Stalker der Frau ist Daffy Duck aus den Looney Tunes. Daffy ruft: „Ich hab dir doch gesagt, dass ich dich finde, Schätzchen!“) (Dann geht das Licht an, während Daffy anfängt, wie in den Looney Tunes komisch durch das Wohnzimmer zu hüpfen und dabei Möbel und den Fernseher zu zertrümmern, während er laut sein „hoo hoo“-Lachen von sich gibt.) Die Frau reagiert komisch übertrieben und schreit Daffy an, er solle verschwinden!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068220643607265280/img/xipCJDRYgsmqujEW.jpg" width="600" alt="Horror-Video-Übergang mit Daffy Duck">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6285)**
+
+**Author:** [1974titsucker](https://x.com/1974titsucker) | **Source:** [Link](https://x.com/1974titsucker/status/2068222678490554472) | **Published:** Jun 20, 2026
+
+---
+### POV Hai-Angriff
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein spannender POV-Video-Prompt, bei dem ein Hai auf die Kamera zuschwimmt und sie „verschlingt“.
+
+#### 📝 Prompt
+
+```
+Lass den Hai näher an die Kamera schwimmen und sein Maul öffnen, um die Kamera zu verschlingen. Blende zu Schwarz ab, als befände sich die Kamera in seinem Maul.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068185896592019457/img/j_7FeU7CPFJIbGrY.jpg" width="600" alt="POV Hai-Angriff">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6289)**
+
+**Author:** [WiseArtist Studios](https://x.com/Wise375) | **Source:** [Link](https://x.com/Wise375/status/2068185956176261631) | **Published:** Jun 20, 2026
+
+---
 ### Pulsierende Herz-Animation mit verschwindender Figur
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1815,357 +2161,6 @@ Jilla sagt: „Jeder Schritt.“
 **Author:** [Kim Maria](https://x.com/KimMari46054539) | **Source:** [Link](https://x.com/KimMari46054539/status/2065845361697038839) | **Published:** Jun 13, 2026
 
 ---
-### Elegantes Modevideo auf der Terrasse
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Prompt für eine Frau in einem eleganten weißen Outfit mit Schmuck, die auf einer Terrasse steht.
-
-#### 📝 Prompt
-
-```
-Zeige mich auf einer Terrasse in einem komplett weißen Outfit, mit hochgesteckten Haaren und wunderschönem Schmuck.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3ea702523ce2c9a822acfe1d000f9f1f/thumbnails/thumbnail.jpg" width="600" alt="Elegantes Modevideo auf der Terrasse">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6026)**
-
-**Author:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **Source:** [Link](https://x.com/CindyWeigapn6/status/2065769581789012075) | **Published:** Jun 13, 2026
-
----
-### Biber-Zimmermänner mit Jetpacks
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein kreativer Animations-Prompt mit Bibern, die Jetpacks und Zimmermannswerkzeuge in einem Thema der heiligen Geometrie verwenden.
-
-#### 📝 Prompt
-
-```
-Die Biber haben viel zu tun, also nutzen sie Jetpacks, um das Arbeitstempo zu erhöhen. Dennoch lassen sie sich Zeit und setzen auf heilige Geometrie. Sie tragen und verwenden die Werkzeuge eines Meisterzimmermanns...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c1da7871a13d012fdcf7800785eea440/thumbnails/thumbnail.jpg" width="600" alt="Biber-Zimmermänner mit Jetpacks">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6031)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2065768512715370712) | **Published:** Jun 13, 2026
-
----
-### Hyperrealistische Charakter-Transformation im Dune-Stil
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochdetaillierter Prompt zur Transformation eines Charakters aus einer Referenz in einen fotorealistischen Mann in seinen 40ern mit einer cineastischen Sci-Fi-Ästhetik, inspiriert von Denis Villeneuves Dune.
-
-#### 📝 Prompt
-
-```
-Transformiere den Charakter aus dem Referenzbild in einen hyperrealistischen, fotorealistischen menschlichen Mann im Alter von etwa 40 bis 45 Jahren mit sichtbaren Hautporen, dezentem Bartschatten, detaillierter Hauttextur, realistischen Augendetails und natürlichen Hautunreinheiten. Verwende realistische menschliche Körperproportionen – folge nicht strikt den Proportionen oder der stilisierten Anatomie der ursprünglichen Zeichnung; priorisiere eine akkurate, naturalistische menschliche Anatomie und einen realistischen Maßstab. Behalte den Helm jederzeit auf seinem Kopf – ein eleganter, eng anliegender High-Tech-Helm in metallischem Türkis und Schwarz, passend zur Rüstung, wobei der Visierbereich sein Gesicht klar enthüllt.
-
-Er trägt exakt denselben eleganten, futuristischen High-Tech-Anzug und die Rüstung wie der Referenzcharakter: mattschwarze und metallisch türkisfarbene Panzerplatten mit komplexen mechanischen Details, realistischen reflektierenden Metalltexturen, subtilen Abnutzungserscheinungen, Kratzern und Verwitterung. Ändere das Rüstungsdesign, das Farbschema oder den Stil nicht, um sie an den Dune-Stillsuit auf dem Foto anzupassen – bewahre strikt die ursprüngliche High-Tech-Rüstung und den Helm in Türkis und Schwarz. Behalte exakt dieselbe selbstbewusste Pose bei: Er steht auf felsigem Wüstengelände, die linke Hand hält ein aufgerolltes Seil/eine Peitsche an seiner Seite, die rechte Hand umgreift einen hohen Stab. Wandle den Stab in einen High-Tech-Hologramm-Emitter-Stab um, bei dem leuchtende cyanfarbene holografische Projektionen das eulenartige Emblem an der Spitze bilden – gestalte das Emblem als leuchtendes, durchscheinendes Hologramm mit realistischem Lichtschein und Energiepartikeln. Behalte das Löwenemblem auf seiner Brust bei, aber stelle es als leuchtende holografische Projektion dar, die nahtlos in den High-Tech-Anzug integriert ist.
-
-Stil und Kameraführung müssen exakt diesem Referenzfoto entsprechen: episches, cineastisches Breitbild-Filmstill aus Denis Villeneuves Dune, hyperrealistischer Fotorealismus mit erstklassiger Big-Budget-Filmproduktionsqualität. Helles Wüsten-Tageslicht unter einem leuchtend blauen Himmel mit vereinzelten weißen Wolken, starkes natürliches Sonnenlicht, das realistische Glanzlichter, tiefe Schatten und subtile Lens Flares erzeugt. Warme Sandtöne im Kontrast zum kühlen blauen atmosphärischen Himmel, hoher Dynamikumfang, reiches Color Grading mit der für Dune typischen entsättigten, aber lebendigen cineastischen Palette. Extrem detaillierte Texturen auf Rüstung, Stoff, Haut und felsigem Gelände – sichtbarer Staub, Stoffgewebe, Metallpatina und Umweltschmutz. Volumetrische Lichtstrahlen, sanfte Kantenbeleuchtung, geringe Schärfentiefe mit scharfem Fokus auf den Charakter im Vordergrund und leichtem Bokeh im Hintergrund. Filmkorn, anamorphotische Linseneigenschaften, professionelles Color Timing und ein authentisches Gefühl eines großformatigen Filmstills. 8k-Auflösungsqualität, fotorealistisch, keine Cartoon- oder Illustrationsartefakte.
-```
-
-<img src="https://cms-assets.youmind.com/media/1781427142173_l4vvei_HKr2Fs5a4AAZ_v7.jpg" width="600" alt="Hyperrealistische Charakter-Transformation im Dune-Stil">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6032)**
-
-**Author:** [Moonlighter](https://x.com/moonlighter3000) | **Source:** [Link](https://x.com/moonlighter3000/status/2065734008026378505) | **Published:** Jun 13, 2026
-
----
-### Cinematic Excalibur Weltraumritter-Oper
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochdetaillierter cineastischer Prompt, der den epischen Filmstil der 1980er Jahre mit Hard-Sci-Fi-Ästhetik und Weltraumrittern kombiniert.
-
-#### 📝 Prompt
-
-```
-Eine majestätische, cineastische Weitwinkelaufnahme im epischen Filmstil von John Boormans Excalibur (1981), neu interpretiert als Hard-Sci-Fi-Weltraumoper, dramatische Chiaroscuro-Beleuchtung mit intensivem Streiflicht und leuchtenden Energieakzenten. Ein edler Weltraumritter steht im Zentrum in einer glänzend polierten, silberweißen Servorüstung mit komplexen, mittelalterlich inspirierten Plattenpanzer-Details, leuchtend blauen Energielinien und einem futuristischen Großschwert mit Plasmaklinge, das im aufgebrochenen außerirdischen Boden steckt. Er trägt einen gekrönten Helm mit leuchtendem Visier, intensiver heldenhafter Ausdruck. Neben ihm steht eine königliche Weltraumkönigin in einem prunkvollen, weiß-goldenen futuristischen Gewand mit fließendem, energiebesticktem Stoff, juwelenartigen Kristallakzenten und einem eleganten Sci-Fi-Schleier-Kopfschmuck, die Hände in die Hüften gestützt, ätherisch und gebieterisch. Flankiert werden sie von gepanzerten Weltraumrittern in glänzenden Metallrüstungen, vermummten Tech-Mystikern und einer Menge von Lords, Kriegern und außerirdischen Höflingen in prächtigen Gewändern auf den Stufen eines zerstörten antiken Alien-Tempels. Dramatischer kosmischer Hintergrund mit sternenklarem Nebelhimmel, atmosphärischem Dunst, tiefen Weltraum-Schwarztönen gemischt mit sattem Gold und elektrisch blauen Highlights, metallischen Reflexionen, Filmkorn, anamorphotischem Objektiv-Look, epische, mythische Sci-Fi-Atmosphäre, Meisterwerk, 8k cineastisches Standbild
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/23bdccd9f077df216d0fdf9260d151e9/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Excalibur Weltraumritter-Oper">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6029)**
-
-**Author:** [Moonlighter](https://x.com/moonlighter3000) | **Source:** [Link](https://x.com/moonlighter3000/status/2065693534481531035) | **Published:** Jun 13, 2026
-
----
-### Rallye-Auto Küsten-Drift-Rettung
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein intensiver Action-Szenen-Prompt für eine Rallye-Auto-Rettungssequenz mit synchronem Driften auf einer mediterranen Küstenstraße, inklusive Rauch- und Schottereffekten.
-
-#### 📝 Prompt
-
-```
-Haarnadelkurve über der Mittelmeerküste. KAIROs gelb-schwarzes Rallye-Coupé mit der Nummer 07 stabilisiert gezielt LIRAs rutschendes Fahrzeug. Beide Rallye-Autos in einem synchronen Drift. Die Türen berühren sich fast, ohne zu kollidieren. Reifenrauch. Aufgewirbelter Schotter.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/63ee4bf1c0503f4c18548c9ae124ec6e/thumbnails/thumbnail.jpg" width="600" alt="Rallye-Auto Küsten-Drift-Rettung">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6214)**
-
-**Author:** [Israa Ali](https://x.com/Israa_Ali2077) | **Source:** [Link](https://x.com/Israa_Ali2077/status/2065453142959952120) | **Published:** Jun 12, 2026
-
----
-### Erkundung mit dem interstellaren Scout-Schiff
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein filmischer Video-Prompt über ein Raumschiff, das durch die Galaxie reist, um unentdeckte Planeten für Luxusresorts zu finden.
-
-#### 📝 Prompt
-
-```
-Ein interstellares Scout-Schiff reist durch die Galaxie auf der Suche nach atemberaubenden, unentdeckten Planeten, um diese in die exklusivsten und luxuriösesten Resorts zu verwandeln, die das Universum je gesehen hat.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/54e7d09d50668efae7eaec10db39126e/thumbnails/thumbnail.jpg" width="600" alt="Erkundung mit dem interstellaren Scout-Schiff">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5994)**
-
-**Author:** [Huff](https://x.com/Huff4Congress) | **Source:** [Link](https://x.com/Huff4Congress/status/2065420372585914709) | **Published:** Jun 12, 2026
-
----
-### Matrix-Stil Spionage-Actionsequenz
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein cineastischer Video-Prompt mit einem actiongeladenen Martial-Arts-Kampf in Bullet-Time, der an The Matrix erinnert.
-
-#### 📝 Prompt
-
-```
-Ricardo schaltet in den ultimativen Matrix-Modus, stellt sich 100 Männern mit unglaublichen Martial-Arts-Künsten und Bullet-Time-Ausweichmanövern und besiegt schließlich Dr. Evil im direkten Duell mit übermenschlicher Kraft, die jedes menschliche Limit sprengt – in einem explosiven Spionage-Action-Finale.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/96b59018f5333b52e6676d676bc0f7ce/thumbnails/thumbnail.jpg" width="600" alt="Matrix-Stil Spionage-Actionsequenz">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5995)**
-
-**Author:** [Ricardo Nunez](https://x.com/Ricardo19411988) | **Source:** [Link](https://x.com/Ricardo19411988/status/2065374254934139270) | **Published:** Jun 12, 2026
-
----
-### Realistische Animation eines Dango-KI-Roboter-Schlüsselanhängers
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein Video-Prompt für einen realistischen KI-Roboter-Schlüsselanhänger, der sprechen und seine Gliedmaßen bewegen kann, basierend auf einem spezifischen Fotostil.
-
-#### 📝 Prompt
-
-```
-Lass ihn bitte sprechen und bewahre dabei den realistischen Look dieses „Dango über Blumen“-Fotos. Gestalte ihn als KI-Roboter-Schlüsselanhänger. Bitte verwende kein Plastik. Lass die Gliedmaßen sich bewegen.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fdd7b073a9edf2b5f61869eb584a7c90/thumbnails/thumbnail.jpg" width="600" alt="Realistische Animation eines Dango-KI-Roboter-Schlüsselanhängers">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5996)**
-
-**Author:** [中間未央](https://x.com/0555Mio) | **Source:** [Link](https://x.com/0555Mio/status/2065258358970696066) | **Published:** Jun 12, 2026
-
----
-### Geisterhafter Spiegel im mittelalterlichen Herrenhaus
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Prompt für einen gruseligen Flur eines Herrenhauses aus dem 14. Jahrhundert mit einer geisterhaften Gestalt in einem verzierten Spiegel und Ritterrüstungen.
-
-#### 📝 Prompt
-
-```
-Ein verzierter Spiegel aus dem 14. Jahrhundert in einem schwach beleuchteten Flur eines mittelalterlichen Herrenhauses, eine geisterhafte, durchscheinende Gestalt blickt aus dem Inneren des Spiegels zurück, beleuchtet von brennenden Fackeln an der Wand, mittelalterliche Rüstungen stehen entlang der Steinwände
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2c544cad09ec0ecae9a460863473ef08/thumbnails/thumbnail.jpg" width="600" alt="Geisterhafter Spiegel im mittelalterlichen Herrenhaus">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5993)**
-
-**Author:** [Mars.Olympus.Mon](https://x.com/DivineFreedoms) | **Source:** [Link](https://x.com/DivineFreedoms/status/2065235512256819489) | **Published:** Jun 12, 2026
-
----
-### Nahtlose Gothic-Marionetten-Drachen-Schleife
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochdetaillierter 60-fps-Video-Prompt zur Erstellung einer nahtlosen vertikalen Schleife eines majestätischen Gothic-Drachen in einem viktorianischen Kleid.
-
-#### 📝 Prompt
-
-```
-Erstellen Sie ein 6-sekündiges, nahtlos schleifendes Video im vertikalen 9:16-Seitenverhältnis, ultra-flüssige 60 fps, filmische Meisterwerk-Qualität unter Verwendung der Spitze der 2026 Grok Imagine Video-Engine — kein Text, keine Untertitel, keine Schriftarten, keine Wasserzeichen, keine Schnitte oder Unterbrechungen, perfekt flüssige Bewegung ohne jegliches Zittern.
-
-Hauptmotiv: exakt derselbe majestätische Gothic-Marionetten-Drache aus dem vorherigen Bild — lebensgroßer Drache mit rissigen, blutroten und schwarzen Obsidian-Schuppen, leuchtend karmesinroten Augen, scharfen Reißzähnen, massiven lederartigen Flügeln mit zerfetzten Gothic-Spitzenrändern, bekleidet mit dem exakten verzierten, zerfetzten rot-schwarzen viktorianischen Gothic-Kleid mit Goldstickerei, Korsett, Spitze und Ketten. Das Kleid bleibt während des gesamten Videos perfekt intakt, vollständig bedeckend, dezent und wird zu keinem Zeitpunkt entfernt, zerrissen, verrutscht, verändert oder durch Schnüre oder Bewegungen beeinträchtigt — zu 100 % jederzeit bekleidet, ohne Probleme mit dem Kleidungsstück.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a27c8749d009ece95c7957602e1bad28/thumbnails/thumbnail.jpg" width="600" alt="Nahtlose Gothic-Marionetten-Drachen-Schleife">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5963)**
-
-**Author:** [👾 SpawnsAi 👾](https://x.com/Salty_Floridian) | **Source:** [Link](https://x.com/Salty_Floridian/status/2065140313400737904) | **Published:** Jun 11, 2026
-
----
-### Geheimnis des dunklen Förderbands
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein cineastischer Prompt für eine düstere und geheimnisvolle Szene mit einem einzelnen Förderband, auf dem sich regungslose Gestalten bis in die Unendlichkeit erstrecken.
-
-#### 📝 Prompt
-
-```
-Ein einzelnes Förderband mit regungslosen Menschen, die sich in die Unendlichkeit bewegen; düstere und geheimnisvolle Atmosphäre.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9a596b8b4503a1ae0a6e39a5dde7b8e2/thumbnails/thumbnail.jpg" width="600" alt="Geheimnis des dunklen Förderbands">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5976)**
-
-**Author:** [BarcelonaAlternativa](https://x.com/Barnalternativa) | **Source:** [Link](https://x.com/Barnalternativa/status/2065136103582204156) | **Published:** Jun 11, 2026
-
----
-### Motivationsvideo zur Arbeitsmoral
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Prompt, der auf einem direkten, motivierenden Zitat über harte Arbeit zur Erreichung von Zielen basiert.
-
-#### 📝 Prompt
-
-```
-Jeder, der etwas erreichen will, muss hart dafür arbeiten – du glaubst doch nicht ernsthaft, dass du irgendetwas einfach so geschenkt bekommst. Das ist mir völlig egal.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d4484cece25bdac8a0b0efa76717df5a/thumbnails/thumbnail.jpg" width="600" alt="Motivationsvideo zur Arbeitsmoral">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5961)**
-
-**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2065134271912636435) | **Published:** Jun 11, 2026
-
----
-### Böse Weltraum-Sci-Fi-Energieschwelle
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein düsterer Sci-Fi-Prompt für digitale Kunst, der eine Schwelle zu einer unfassbaren kosmischen Macht darstellt.
-
-#### 📝 Prompt
-
-```
-Guten Morgen, Menschen!!
-
-Dies ist die Schwelle, hinter der eine Macht liegt, die ihr euch nicht vorstellen könnt. Beansprucht euer Schicksal, böses Weltraum-Sci-Fi, digital, dunkel/TLV in der Ecke, kein Text
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cdc8973f52917c85d0e14dd345b6f89e/thumbnails/thumbnail.jpg" width="600" alt="Böse Weltraum-Sci-Fi-Energieschwelle">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5973)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2065130637179375816) | **Published:** Jun 11, 2026
-
----
-### Reaktion auf das italienische WM-Aus
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Erstellung eines Reaktionsvideos einer Italienerin, die darauf reagiert, dass Italien zum dritten Mal in Folge die Weltmeisterschaft verpasst hat.
-
-#### 📝 Prompt
-
-```
-Italienerin realisiert, dass Italien zum dritten Mal in Folge nicht an der Weltmeisterschaft teilnimmt
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/61d19ddaaf7d9f3ad822ce94001d6945/thumbnails/thumbnail.jpg" width="600" alt="Reaktion auf das italienische WM-Aus">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5977)**
-
-**Author:** [ᛁᛖᛋᚢᛋ ᛘᛅᚱᛏᛁᚾᛖᛋ ᚷᚢᚾᛋᛅᛚᛁᛋ](https://x.com/jemagomoen) | **Source:** [Link](https://x.com/jemagomoen/status/2065110384852308396) | **Published:** Jun 11, 2026
-
----
-### Meme-Video über erschöpfte Mitarbeiter
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein humorvoller Video-Prompt, der einen überforderten Angestellten zeigt, der in Papierkram versinkt, während er versucht, mit den verschiedenen Unternehmen von Elon Musk Schritt zu halten.
-
-#### 📝 Prompt
-
-```
-Bild eines völlig erschöpften Mannes, umgeben von Papieren und Computern, mit dem Text: „Ich, wie ich versuche, bei Elon mitzuhalten: Tesla, SpaceX, xAI, Twitter, Neuralink, The Boring Company… und ich schaffe es nicht einmal, auf Nachrichten in meinem Familien-Gruppenchat zu antworten 😂“
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4e10cd63e3107f14859831d60b734848/thumbnails/thumbnail.jpg" width="600" alt="Meme-Video über erschöpfte Mitarbeiter">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5960)**
-
-**Author:** [Angie Ramos Mendez](https://x.com/AngieRamos2030) | **Source:** [Link](https://x.com/AngieRamos2030/status/2065096120229912757) | **Published:** Jun 11, 2026
-
----
-### Spanisches politisches Voiceover-Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eine spezifische Anweisung zum Hinzufügen eines spanischsprachigen Voiceovers mit tiefgründigen philosophischen und politischen Untertönen zu einem Video.
-
-#### 📝 Prompt
-
-```
-Füge ein Voiceover auf Spanisch hinzu: Wer folgt dem Feigling, der sich aus Angst, sich so zu zeigen, wie er ist, hinter einem Skript versteckt, das genau das sagt, was seine Anhänger hören wollen.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6e55ac968ddf962d720aae7f34d407d8/thumbnails/thumbnail.jpg" width="600" alt="Spanisches politisches Voiceover-Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5975)**
-
-**Author:** [Jose gutierrez](https://x.com/hoccegutierrez) | **Source:** [Link](https://x.com/hoccegutierrez/status/2065092557210603860) | **Published:** Jun 11, 2026
-
----
-### Poetische Liebe im Regen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein romantischer und atmosphärischer Video-Prompt, der die Liebe im Regen inmitten der Stille der Zeit zelebriert.
-
-#### 📝 Prompt
-
-```
-Die Zeit bleibt stehen, wenn die Uhren ihre Pflicht vergessen. Nur die Stille zwischen zwei Herzschlägen und unsere Liebe, die gefeiert werden muss... selbst im Regen.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8a8e61a90cee7f6fcf91db0c6692f697/thumbnails/thumbnail.jpg" width="600" alt="Poetische Liebe im Regen">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5966)**
-
-**Author:** [Scarlett](https://x.com/scarlettzen1) | **Source:** [Link](https://x.com/scarlettzen1/status/2065080973176271130) | **Published:** Jun 11, 2026
-
----
-### Fan-Animation für Argentinien bei der Weltmeisterschaft
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Generierungs-Prompt, der einen weiblichen Fan zeigt, der die argentinische Nationalmannschaft bei der Weltmeisterschaft 2026 unterstützt, wobei die Identität des Gesichts aus einem Referenzfoto beibehalten wird.
-
-#### 📝 Prompt
-
-```
-Ich unterstütze die argentinische Nationalmannschaft. Messi. Weltmeisterschaft 2026. 
-Behalte die Frau exakt wie auf dem Referenzfoto bei: ihr Gesicht, lockiges braunes Haar, geschmückt mit einem funkelnden Diadem und einer rosa Blume, eleganter Schmuck, sitzende Pose mit übereinandergeschlagenen Beinen, während sie einen Strauß rosa Pfingstrosen hält, selbstbewusster Ausdruck und alle Details...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7ad52d7803b2c9f535bcf61cdc030aa9/thumbnails/thumbnail.jpg" width="600" alt="Fan-Animation für Argentinien bei der Weltmeisterschaft">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5964)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2065067503231942715) | **Published:** Jun 11, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2227,6 +2222,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-21T05:13:21.245Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-21T11:35:32.724Z</sub>
 
 </div>

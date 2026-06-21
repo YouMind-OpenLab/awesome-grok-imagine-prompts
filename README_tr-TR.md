@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1894** |
+| 📝 Total Prompts | **1912** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-21** |
 
@@ -189,6 +189,352 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Burj Khalifa yakınında Hollywood oyuncusu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine ile oluşturulmuş, Burj Khalifa yakınında yürüyen bir Hollywood oyuncusunun görselini içeren bir Pazar günü selamlaması.
+
+#### 📝 Prompt
+
+```
+Burj Khalifa yakınında yürüyen popüler bir Hollywood oyuncusunun görselini oluştur ve üzerinde İyi öğleden sonralar yazısı olsun #İyiÖğledenSonralar #PozitifEnerji #MutluPazarlar
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068609777744351232/img/6s_s09o0g9o_FkhW.jpg" width="600" alt="Burj Khalifa yakınında Hollywood oyuncusu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6292)**
+
+**Author:** [Ijaz Malik](https://x.com/Ijazmalik101) | **Source:** [Link](https://x.com/Ijazmalik101/status/2068609842198225254) | **Published:** Jun 21, 2026
+
+---
+### Kaledeydoskopik Kozmik Yunus Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kaledeydoskopik yunuslar ve gezgin mermer filarmonisi içeren soyut bir kozmik video istemi.
+
+#### 📝 Prompt
+
+```
+Mercan parlaması yunus kaledeydoskopik uzay yolcusu kozmik gezgin mermer filarmonisi
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068468112869990401/img/Tnyy3JCHeBjf3-rh.jpg" width="600" alt="Kaledeydoskopik Kozmik Yunus Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6284)**
+
+**Author:** [Nautilus](https://x.com/spectra_gallery) | **Source:** [Link](https://x.com/spectra_gallery/status/2068468174245204130) | **Published:** Jun 20, 2026
+
+---
+### Kütüphanede Mum Işığında Okuma Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kütüphanede mum ışığında çayını yudumlarken kitap okuyan bir kadını konu alan, huzurlu ve atmosferik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Beyaz çiçekli bir yazlık elbise giymiş, kütüphanede mum ışığında kitap okuyan ve çayını yudumlayan bir kadın.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068443436907458560/img/BKhSpKdruR5QIV3G.jpg" width="600" alt="Kütüphanede Mum Işığında Okuma Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6281)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2068443496047055334) | **Published:** Jun 20, 2026
+
+---
+### Amerika'nın 250. Yıl Dönümü Kutlaması
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Amerika Birleşik Devletleri'nin 250. 4 Temmuz kutlamasını hayal eden şenlikli bir video istemi.
+
+#### 📝 Prompt
+
+```
+Amerika Birleşik Devletleri'nin 250. yıl dönümü 4 Temmuz kutlamasını hayal edelim
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068424487704358912/img/Efwa0bE4L3mr4DKD.jpg" width="600" alt="Amerika'nın 250. Yıl Dönümü Kutlaması">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6287)**
+
+**Author:** [Mark Tatum](https://x.com/Mark561256) | **Source:** [Link](https://x.com/Mark561256/status/2068424560634933349) | **Published:** Jun 20, 2026
+
+---
+### Karda Savaşçı ve Kurt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Soğuk ve karlı bir ormanda yalnız bir savaşçı ile kurt dostunu konu alan atmosferik bir fantastik video istemi.
+
+#### 📝 Prompt
+
+```
+Başyapıt, en iyi kalite, karlı bir ormanda beyaz kurt dostuyla duran yalnız bir savaşçının ultra detaylı fantastik konsept sanatı. Savaşçı, dayanıklı bir zırh giyiyor ve yanında bir yay ile ok çantası taşıyor. Kurdun kürkünün üzerinde kırmızı işaretler var. Sahne; yumuşak ışıklandırma, karla kaplı ağaçlar ve soğuk, sisli bir kış ortamıyla serbest ve atmosferik bir tarzda resmedilmiştir. Yüksek detaylı dokular ve etkileyici bir atmosfer. Sinematik kompozisyon, en iyi kalite, 8K çözünürlük.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068340037226553344/img/sEvowCCTycqnzYtP.jpg" width="600" alt="Karda Savaşçı ve Kurt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6291)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2068400992690061567) | **Published:** Jun 20, 2026
+
+---
+### Antik Yıkık Mağara Şehri
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir mağaranın içinde gizlenmiş, turkuaz renkli bir nehre sahip devasa bir antik uygarlığı konu alan epik ve sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Başyapıt, en iyi kalite, devasa bir mağaranın içine inşa edilmiş antik ve yıkık bir şehrin ultra detaylı sinematik fantezi illüstrasyonu. Ortasından geniş ve turkuaz renkli bir nehir akıyor ve üzerinde insan taşıyan birkaç ahşap tekne bulunuyor. Mağara tavanındaki bir açıklıktan süzülen güneş ışığı altında, nehir kıyılarını yüksek, kırık taş sütunlar ve tapınaklar süslüyor. Dramatik aydınlatma, sarkan sarmaşıklar ve parlayan parçacıklar mistik bir atmosfer yaratıyor. Yüksek detaylı mimari, su ve aydınlatma. Epik ve hayranlık uyandırıcı kompozisyon, en iyi kalite, 8K çözünürlük.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068334444898062336/img/ZgqOfxAjNrJqqSiC.jpg" width="600" alt="Antik Yıkık Mağara Şehri">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6288)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2068355695481962728) | **Published:** Jun 20, 2026
+
+---
+### Buzz Lightyear Cameo Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir ifadeyi değiştiren ve Buzz Lightyear'ın kendi repliğiyle kısa bir görünümünü ekleyen video oluşturma istemi.
+
+#### 📝 Prompt
+
+```
+"mo money, solve mo problems" ifadesini "mo money, solve mo problems in the world and beyond" şeklinde değiştirin ve Toy Story'den Buzz Lightyear'ın "sonsuza ve ötesine" (to infinity and beyond) dediği bir cameo görünümü ekleyin
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068352992869568512/img/5dbRUcQDbNlW8gfl.jpg" width="600" alt="Buzz Lightyear Cameo Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6282)**
+
+**Author:** [sho](https://x.com/sho00092729) | **Source:** [Link](https://x.com/sho00092729/status/2068353042345508903) | **Published:** Jun 20, 2026
+
+---
+### Görsel Döndürme ve Renk Parlaması Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Görseli döndürürken yanlardan dinamik renk parlamaları eklemeye yönelik bir hareket istemi.
+
+#### 📝 Prompt
+
+```
+Görseli döndürün; sol taraftan sarı-turuncu, sağ taraftan ise yeşil-mavi renkler ekleyin. Bu renkler birleştiğinde görselin mevcut siyah-beyaz haline geri dönmesini sağlayın
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068352652073689089/img/2jGKVRm1FTc02fO_.jpg" width="600" alt="Görsel Döndürme ve Renk Parlaması Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6283)**
+
+**Author:** [@wellness and art](https://x.com/ELENALAZA3) | **Source:** [Link](https://x.com/ELENALAZA3/status/2068352708742967297) | **Published:** Jun 20, 2026
+
+---
+### Hardal Tohumu Dağı Yerinden Oynatıyor
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Küçük bir hardal tohumunun filizlenip devasa bir dağı yerinden oynattığını gösteren metaforik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Küçük bir hardal tohumunun ekilip filizlenirken bir dağı yerinden oynattığı bir görsel oluştur!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068306162315927552/img/zm-ccPnP8dkH-hba.jpg" width="600" alt="Hardal Tohumu Dağı Yerinden Oynatıyor">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6286)**
+
+**Author:** [Mark Tatum](https://x.com/Mark561256) | **Source:** [Link](https://x.com/Mark561256/status/2068306227856126341) | **Published:** Jun 20, 2026
+
+---
+### Sebring'i Uzaya Taşı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir Sebring otomobilini restore edip yörüngeye gönderen yaratıcı bir video dönüştürme istemi.
+
+#### 📝 Prompt
+
+```
+Sebring'i restore et, sarmaşıklardan arındır ve Elon'un Tesla'sına katılması için uzaya gönder
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068296453382950912/img/2Fuk12L9K6hQdVma.jpg" width="600" alt="Sebring'i Uzaya Taşı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6290)**
+
+**Author:** [Mark Tatum](https://x.com/Mark561256) | **Source:** [Link](https://x.com/Mark561256/status/2068296531405324765) | **Published:** Jun 20, 2026
+
+---
+### Fütüristik Disk Binalar ve Yürüyüş Yolları
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Disk şeklindeki binaların yürüyüş yollarıyla birbirine bağlandığı ve altlarından trenlerin geçtiği dikey bir şehir manzarasını betimleyen bir komut.
+
+#### 📝 Prompt
+
+```
+Bu diskler, yerçekimini görmezden gelemeyeceğimiz kadar yüksek binalar; parlak ve yüksek yürüyüş yollarıyla birbirlerine bağlılar ve bu yolların altından geçen trenler manzarayı daha da etkileyici kılıyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068295575343165440/img/B6FrCqdMl7ax3RNy.jpg" width="600" alt="Fütüristik Disk Binalar ve Yürüyüş Yolları">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6278)**
+
+**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2068295627499274408) | **Published:** Jun 20, 2026
+
+---
+### Bilim Kurgu Aksiyon Filmi Fragmanı
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Grok Imagine Agent modunu kullanarak diyaloglar, altyazılar ve sahne kompozisyonu için özel talimatlar içeren, profesyonel görünümlü bir bilim kurgu film fragmanı oluşturmaya yönelik kapsamlı bir istem.
+
+#### 📝 Prompt
+
+```
+Yaklaşık 40 saniyelik, canlı çekim bir bilim kurgu film fragmanı oluşturun. Diyaloglar İngilizce olabilir. Bir başlık ekleyin ve her diyalog satırı için Japonca altyazılar ekleyin. İçerik tamamen size kalmış ancak güçlü bir düşman, müttefiklerin bir araya gelişi, yoğun savaşlar ve yüksek hızlı bir kovalamaca sahnesine mutlaka yer verin.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068286308477534208/img/gTwYzjzZdgmycZGV.jpg" width="600" alt="Bilim Kurgu Aksiyon Filmi Fragmanı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6295)**
+
+**Author:** [ふくぶん](https://x.com/FFBuncho) | **Source:** [Link](https://x.com/FFBuncho/status/2068287189235142860) | **Published:** Jun 20, 2026
+
+---
+### Alana Gelecek Mesajı Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Alana adında bir karakterin doğrudan kameraya gelecekten olumlu bir mesaj ilettiği sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+doğrudan kameraya gelecekten bir mesajla konuşuyor. adı Alana ve mesajı olumlu.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068285330029981696/img/iOSfc2kYYTfdNQ4s.jpg" width="600" alt="Alana Gelecek Mesajı Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6279)**
+
+**Author:** [Make Britain Great Again](https://x.com/DragonFlam7530) | **Source:** [Link](https://x.com/DragonFlam7530/status/2068285534082859378) | **Published:** Jun 20, 2026
+
+---
+### Başını Çeviren ve Ellerini Hareket Ettiren Kız
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Karakterin her iki eli arkasındayken başını sola çevirmesini sağlayan, harekete özel bir komut.
+
+#### 📝 Prompt
+
+```
+Arkasını dönmüş olan kızı ekleyin; kız, her iki eli arkasındayken başını sol tarafa çeviriyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068264366193963008/img/fl88RZFHxAXhpQjd.jpg" width="600" alt="Başını Çeviren ve Ellerini Hareket Ettiren Kız">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6294)**
+
+**Author:** [KAYODE EMMANUEL](https://x.com/KAYODEEMMAqbze) | **Source:** [Link](https://x.com/KAYODEEMMAqbze/status/2068264432052969771) | **Published:** Jun 20, 2026
+
+---
+### Dev Robot Savaş Alanı Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Dev bir robotun kaotik bir savaş alanında ilerleyip top ateşi açtığı dinamik bir aksiyon videosu istemi.
+
+#### 📝 Prompt
+
+```
+Dev bir robot, kaotik bir savaş alanında ilerlerken her yere top mermileri ateşleyerek yürüyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068244815922540544/img/DU7QNv7aTh7sxmty.jpg" width="600" alt="Dev Robot Savaş Alanı Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6280)**
+
+**Author:** [Curious 1](https://x.com/CuriousOne_01) | **Source:** [Link](https://x.com/CuriousOne_01/status/2068246873157284117) | **Published:** Jun 20, 2026
+
+---
+### Reenkarnasyon Renk Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir özneyi renkli bir reenkarnasyon sekansına geçişle hayata döndüren bir animasyon istemi.
+
+#### 📝 Prompt
+
+```
+Onu yeniden hayata dönüyormuş gibi canlandırın, renkli bir şekilde reenkarne olduğu bir sekans ekleyin
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068239414271111168/img/2lEkFozGR5Fd_i7D.jpg" width="600" alt="Reenkarnasyon Renk Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6293)**
+
+**Author:** [bDom](https://x.com/bdom87bdom) | **Source:** [Link](https://x.com/bdom87bdom/status/2068239524291809309) | **Published:** Jun 20, 2026
+
+---
+### Korku Temalı Daffy Duck Video Geçişi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için hazırlanan, gerilim dolu bir korku senaryosundan Daffy Duck'ın yer aldığı komik bir Looney Tunes tarzı sona geçiş yapan çok bölümlü sinematik video istemi.
+
+#### 📝 Prompt
+
+```
+1) (Genç kadın telefonundan yüksek sesle okur: Bu doğru olamaz, arayanın evin içinde olduğunu söylüyor.) (Genç kadının gergin hareketleri.) Bu süre boyunca kısa boylu insansı bir gölge arka planda hareket eder.
+
+2) (Genç kadının takipçisi, Looney Tunes'un ünlü karakteri Daffy Duck'tır. Daffy, hafif gölgeli silüeti ve parlak turuncu gagası dışında arka planla bütünleşir. Daffy Duck tarzında hafifçe kıkırdayarak (hoo-hoo hoo hoo) sürekli genç kadının arkasında kalır.) Genç kadın dairesinde dolaşıp ışıkları açmaya çalışırken giderek daha fazla korkar ancak elektrikler kesiktir. Genç kadının gergin konuşmaları.
+
+3) (Genç kadının takipçisi, Looney Tunes'un ünlü karakteri Daffy Duck'tır. Daffy, 'Seni bulacağımı söylemiştim şekerim!' diye bağırır.) (Işıklar yanar ve Daffy, komik bir şekilde Looney Tunes tarzında oturma odasında zıplamaya başlar; yüksek sesle hoo hoo gülüşünü atarken mobilya ve televizyon gibi eşyaları kırar.) Genç kadın komik bir şekilde aşırı tepki verir ve Daffy'ye dışarı çıkması için bağırır!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068220643607265280/img/xipCJDRYgsmqujEW.jpg" width="600" alt="Korku Temalı Daffy Duck Video Geçişi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6285)**
+
+**Author:** [1974titsucker](https://x.com/1974titsucker) | **Source:** [Link](https://x.com/1974titsucker/status/2068222678490554472) | **Published:** Jun 20, 2026
+
+---
+### POV Köpek Balığı Saldırısı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir köpek balığının kameraya doğru yüzdüğü ve kamerayı 'yediği' gerilim dolu bir POV video istemi.
+
+#### 📝 Prompt
+
+```
+Köpek balığının kameraya daha fazla yaklaşmasını ve ağzını açarak kamerayı yemesini sağla, kamera ağzının içindeymiş gibi ekranı karartarak geçiş yap
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068185896592019457/img/j_7FeU7CPFJIbGrY.jpg" width="600" alt="POV Köpek Balığı Saldırısı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6289)**
+
+**Author:** [WiseArtist Studios](https://x.com/Wise375) | **Source:** [Link](https://x.com/Wise375/status/2068185956176261631) | **Published:** Jun 20, 2026
+
+---
 ### Karakterin Kaybolduğu Atan Kalp Animasyonu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1809,357 +2155,6 @@ Jilla: "Her bir adıma," diye yanıtlar.
 **Author:** [Kim Maria](https://x.com/KimMari46054539) | **Source:** [Link](https://x.com/KimMari46054539/status/2065845361697038839) | **Published:** Jun 13, 2026
 
 ---
-### Zarif Teras Moda Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Zarif beyaz bir kıyafet ve takılar içinde terasta duran bir kadın için video istemi.
-
-#### 📝 Prompt
-
-```
-Beni bir terasta, tamamen beyaz bir kıyafet içinde, saçlarım topuz yapılmış ve üzerimde güzel takılarla göster
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3ea702523ce2c9a822acfe1d000f9f1f/thumbnails/thumbnail.jpg" width="600" alt="Zarif Teras Moda Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6026)**
-
-**Author:** [Cindy Weigandt](https://x.com/CindyWeigapn6) | **Source:** [Link](https://x.com/CindyWeigapn6/status/2065769581789012075) | **Published:** Jun 13, 2026
-
----
-### Jet Çantalı Kunduz Marangozlar
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kutsal geometri teması içinde jet çantalar ve marangozluk aletleri kullanan kunduzları konu alan yaratıcı bir animasyon istemi.
-
-#### 📝 Prompt
-
-```
-Kunduzların yapacak çok işi var, bu yüzden tempoyu artırmak için jet çantalar kullanıyorlar. Yine de işlerini aceleye getirmeden, kutsal geometri ilkelerini kullanarak yapıyorlar. Usta bir marangozun aletlerini takıp kullanıyorlar...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c1da7871a13d012fdcf7800785eea440/thumbnails/thumbnail.jpg" width="600" alt="Jet Çantalı Kunduz Marangozlar">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6031)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2065768512715370712) | **Published:** Jun 13, 2026
-
----
-### Hiper Gerçekçi Dune Tarzı Karakter Dönüşümü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Referans bir karakteri, Denis Villeneuve'ün Dune filminden esinlenen sinematik bilim kurgu estetiğine sahip, 40'lı yaşlarında fotogerçekçi bir erkeğe dönüştürmek için hazırlanmış son derece detaylı bir komut.
-
-#### 📝 Prompt
-
-```
-Referans görseldeki karakteri; belirgin cilt gözenekleri, hafif yüz sakalları, detaylı cilt dokusu, gerçekçi göz detayları ve doğal cilt kusurlarına sahip, 40'lı yaşlarının başlarında veya ortalarında, hiper gerçekçi ve fotogerçekçi bir insan erkeğe dönüştürün. Gerçekçi insan vücudu oranlarını kullanın; orijinal çizimin oranlarını veya stilize anatomisini kesinlikle takip etmeyin; doğru, natüralist insan anatomisine ve gerçekçi ölçeğe öncelik verin. Kaskı her zaman başında tutun; zırhla uyumlu, metalik turkuaz ve siyah renklerde, vizör kısmı yüzünü net bir şekilde gösteren, şık ve vücuda oturan yüksek teknolojili bir kask olsun.
-
-Karakter, referans görseldekiyle tamamen aynı şık, yüksek teknolojili fütüristik kıyafeti ve zırhı giyiyor: karmaşık mekanik detaylara, gerçekçi yansıtıcı metal dokulara, hafif aşınmalara, çiziklere ve yıpranmalara sahip mat siyah ve metalik turkuaz zırh plakaları. Zırh tasarımını, renk şemasını veya stilini fotoğraftaki Dune stillsuit'ine uyacak şekilde değiştirmeyin; orijinal yüksek teknolojili turkuaz ve siyah zırhı ve kaskı kesinlikle koruyun. Aynı kendinden emin pozu koruyun: kayalık çöl arazisinde ayakta duran, sol eli yanında kıvrılmış bir halat/kamçı tutan, sağ eli uzun bir asayı kavrayan bir duruş. Asayı, tepesinde baykuş benzeri amblemi oluşturan parlayan camgöbeği renginde holografik projeksiyonlara sahip, yüksek teknolojili bir holografik yayıcı asaya dönüştürün; amblemi gerçekçi ışık parlaması ve enerji parçacıklarıyla ışıklı, yarı saydam bir hologram haline getirin. Göğsündeki aslan amblemini koruyun ancak onu yüksek teknolojili kıyafetle kusursuz bir şekilde bütünleşmiş, parlayan bir holografik projeksiyon olarak işleyin.
-
-Stil ve sinematografi bu referans fotoğrafla tam olarak eşleşmelidir: Denis Villeneuve'ün Dune filminden epik, geniş açılı sinematik film karesi; birinci sınıf büyük bütçeli film prodüksiyon kalitesinde hiper gerçekçi fotogerçekçilik. Canlı mavi bir gökyüzü ve dağınık beyaz bulutlar altında parlak çöl gün ışığı; gerçekçi parlak noktalar, derin gölgeler ve hafif lens parlaması yaratan güçlü doğal güneş ışığı. Sıcak kum tonlarının soğuk mavi atmosferik gökyüzüyle kontrastı, yüksek dinamik aralık, Dune filmine özgü, doygunluğu azaltılmış ancak canlı sinematik paletle zengin renk derecelendirmesi. Zırh, kumaş, cilt ve kayalık arazi üzerinde ultra detaylı dokular; görünür toz, kumaş örgüsü, metal patinası ve çevresel kirler. Volumetrik ışık huzmeleri, yumuşak kenar aydınlatması, ön plandaki karakter üzerinde keskin odak ve arka planda hafif bokeh ile sığ alan derinliği. Film greni, anamorfik lens özellikleri, profesyonel renk zamanlaması ve otantik büyük format film karesi hissi. 8k çözünürlük kalitesi, fotogerçekçi, çizgi film veya illüstrasyon izi yok.
-```
-
-<img src="https://cms-assets.youmind.com/media/1781427142173_l4vvei_HKr2Fs5a4AAZ_v7.jpg" width="600" alt="Hiper Gerçekçi Dune Tarzı Karakter Dönüşümü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6032)**
-
-**Author:** [Moonlighter](https://x.com/moonlighter3000) | **Source:** [Link](https://x.com/moonlighter3000/status/2065734008026378505) | **Published:** Jun 13, 2026
-
----
-### Sinematik Excalibur Uzay Şövalyesi Operası
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 1980'lerin epik film tarzını sert bilim kurgu estetiği ve uzay şövalyeleriyle birleştiren, oldukça detaylı bir sinematik komut.
-
-#### 📝 Prompt
-
-```
-John Boorman'ın epik 1981 Excalibur film tarzında, sert bilim kurgu uzay operası olarak yeniden hayal edilmiş görkemli ve geniş bir sinematik çekim; yoğun kenar ışığı ve parlayan enerji vurgularıyla dramatik chiaroscuro aydınlatma. Asil bir uzay şövalyesi, merkezde, karmaşık orta çağ esintili plaka detaylarına, parlayan mavi enerji hatlarına ve çatlamış uzaylı zeminine saplanmış plazma bıçaklı fütüristik bir büyük kılıca sahip, parıldayan gümüş-beyaz güç zırhı içinde duruyor. Parlayan vizörlü taçlı bir miğfer takıyor, ifadesi yoğun ve kahramanca. Yanında, akan enerji işlemeli kumaşlara, mücevherli kristal vurgulara ve zarif bilim kurgu duvak başlığına sahip, elleri belinde, ruhani ve otoriter, süslü beyaz-altın fütüristik bir elbise içinde asil bir uzay kraliçesi duruyor. Yanlarında parlayan metalik zırhlı uzay şövalyeleri, kapüşonlu teknoloji mistikleri ve yıkık antik bir uzaylı tapınağının basamaklarında zengin cübbeler içinde lordlar, savaşçılar ve uzaylı saray mensuplarından oluşan bir kalabalık var. Yıldızlı nebula gökyüzü, atmosferik pus, zengin altın ve elektrik mavisi vurgularla karışık derin uzay siyahları, metalik yansımalar, film dokusu, anamorfik lens hissi, epik mitik bilim kurgu atmosferi, başyapıt, 8k sinematik kare.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/23bdccd9f077df216d0fdf9260d151e9/thumbnails/thumbnail.jpg" width="600" alt="Sinematik Excalibur Uzay Şövalyesi Operası">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6029)**
-
-**Author:** [Moonlighter](https://x.com/moonlighter3000) | **Source:** [Link](https://x.com/moonlighter3000/status/2065693534481531035) | **Published:** Jun 13, 2026
-
----
-### Ralli Arabası Sahil Yanlama Kurtarma
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Akdeniz sahil yolunda duman ve çakıl efektleriyle senkronize yanlama içeren bir ralli arabası kurtarma sekansı için yoğun aksiyon sahnesi istemi.
-
-#### 📝 Prompt
-
-```
-Akdeniz sahili üzerinde keskin viraj. KAIRO'nun 07 numaralı sarı-siyah ralli kupesi, LIRA'nın kayan aracını kontrollü bir şekilde dengeliyor. Her iki ralli arabası da senkronize bir şekilde yanlamaya kilitlenmiş durumda. Kapılar neredeyse birbirine değiyor ancak çarpışmıyor. Lastik dumanı. Çakıl sıçramaları.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/63ee4bf1c0503f4c18548c9ae124ec6e/thumbnails/thumbnail.jpg" width="600" alt="Ralli Arabası Sahil Yanlama Kurtarma">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6214)**
-
-**Author:** [Israa Ali](https://x.com/Israa_Ali2077) | **Source:** [Link](https://x.com/Israa_Ali2077/status/2065453142959952120) | **Published:** Jun 12, 2026
-
----
-### Yıldızlararası Keşif Gemisi Yolculuğu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Lüks tatil köyleri için keşfedilmemiş gezegenler arayan ve galakside seyahat eden bir uzay gemisini konu alan sinematik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Bir yıldızlararası keşif gemisi, evrenin gördüğü en özel ve lüks tatil köylerine dönüştürülecek nefes kesici, keşfedilmemiş gezegenleri bulmak için galakside yol alıyor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/54e7d09d50668efae7eaec10db39126e/thumbnails/thumbnail.jpg" width="600" alt="Yıldızlararası Keşif Gemisi Yolculuğu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5994)**
-
-**Author:** [Huff](https://x.com/Huff4Congress) | **Source:** [Link](https://x.com/Huff4Congress/status/2065420372585914709) | **Published:** Jun 12, 2026
-
----
-### Matrix Tarzı Casus Aksiyon Sekansı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> The Matrix'i anımsatan, bullet time efektli, yüksek tempolu bir dövüş sanatları aksiyonunu içeren sinematik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Ricardo, durdurulamaz bir Matrix moduna girerek inanılmaz dövüş sanatları hareketleri ve bullet time kaçışlarıyla 100 adama karşı savaşıyor, ardından patlayıcı bir casus aksiyonu finalinde Dr. Evil'ı insan sınırlarının ötesindeki süper güçleriyle bire bir dövüşte mağlup ediyor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/96b59018f5333b52e6676d676bc0f7ce/thumbnails/thumbnail.jpg" width="600" alt="Matrix Tarzı Casus Aksiyon Sekansı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5995)**
-
-**Author:** [Ricardo Nunez](https://x.com/Ricardo19411988) | **Source:** [Link](https://x.com/Ricardo19411988/status/2065374254934139270) | **Published:** Jun 12, 2026
-
----
-### Gerçekçi Dango AI Robot Anahtarlık Animasyonu
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Belirli bir fotoğraf tarzına dayalı, konuşabilen ve uzuvlarını hareket ettirebilen gerçekçi bir AI robot anahtarlık için video istemi.
-
-#### 📝 Prompt
-
-```
-Lütfen bu 'çiçekler üzerindeki Dango' fotoğrafının gerçekçi hissini koruyarak konuşturun. Onu bir AI robot anahtarlığa dönüştürün. Lütfen plastik kullanmayın. Uzuvlarını hareket ettirin.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fdd7b073a9edf2b5f61869eb584a7c90/thumbnails/thumbnail.jpg" width="600" alt="Gerçekçi Dango AI Robot Anahtarlık Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5996)**
-
-**Author:** [中間未央](https://x.com/0555Mio) | **Source:** [Link](https://x.com/0555Mio/status/2065258358970696066) | **Published:** Jun 12, 2026
-
----
-### Orta Çağ Köşkünde Hayaletli Ayna
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Süslemeli bir aynadaki hayalet figürü ve zırh takımlarıyla, ürkütücü bir 14. yüzyıl köşk koridorunu konu alan bir video istemi.
-
-#### 📝 Prompt
-
-```
-Loş ışıklı bir Orta Çağ köşk koridorunda duran 14. yüzyıldan kalma süslemeli bir ayna, aynanın içinden dışarı bakan hayaletimsi şeffaf bir figür, yanan duvar meşaleleriyle aydınlatılmış, taş duvarlar boyunca dizilmiş Orta Çağ zırh takımları
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2c544cad09ec0ecae9a460863473ef08/thumbnails/thumbnail.jpg" width="600" alt="Orta Çağ Köşkünde Hayaletli Ayna">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5993)**
-
-**Author:** [Mars.Olympus.Mon](https://x.com/DivineFreedoms) | **Source:** [Link](https://x.com/DivineFreedoms/status/2065235512256819489) | **Published:** Jun 12, 2026
-
----
-### Kesintisiz Gotik Marionet Ejderha Döngüsü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Viktorya dönemi elbisesi giymiş görkemli bir gotik ejderhanın kesintisiz dikey döngüsünü oluşturmak için yüksek detaylı 60fps video istemi.
-
-#### 📝 Prompt
-
-```
-2026 Grok Imagine video motorunun zirvesini kullanarak 9:16 dikey en boy oranında, ultra akıcı 60fps, sinematik başyapıt kalitesinde 6 saniyelik kesintisiz döngü videosu oluşturun; metin, altyazı, yazı tipi, filigran, kesinti veya duraklama yok, sıfır titreme ile mükemmel akıcı hareket.
-
-Ana konu: önceki görseldeki görkemli gotik marionet ejderhanın birebir aynısı; çatlak obsidyen kan kırmızısı ve siyah pullara, parlayan kızıl gözlere, keskin dişlere, yıpranmış gotik dantel kenarlı devasa kösele kanatlara sahip, altın işlemeli, korseli, dantelli ve zincirli, tam olarak aynı süslü, yıpranmış kırmızı-siyah Viktorya dönemi gotik elbisesini giyen gerçek boyutlu ejderha. Elbise tamamen bozulmadan, tamamen kapatıcı, mütevazı kalır ve video boyunca hiçbir şekilde çıkarılmaz, yırtılmaz, kaymaz, değiştirilmez veya iplerden ya da hareketlerden etkilenmez; her zaman %100 giyinik ve kıyafet sorunu olmadan.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a27c8749d009ece95c7957602e1bad28/thumbnails/thumbnail.jpg" width="600" alt="Kesintisiz Gotik Marionet Ejderha Döngüsü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5963)**
-
-**Author:** [👾 SpawnsAi 👾](https://x.com/Salty_Floridian) | **Source:** [Link](https://x.com/Salty_Floridian/status/2065140313400737904) | **Published:** Jun 11, 2026
-
----
-### Karanlık Konveyör Bandı Gizemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ufka doğru uzanan, üzerinde hareketsiz figürlerin bulunduğu tek bir konveyör bandının yer aldığı, karanlık ve gizemli bir sahne için sinematik bir istem.
-
-#### 📝 Prompt
-
-```
-Sonsuzluğa doğru uzaklaşan hareketsiz insanlarla dolu tek bir konveyör bandı, karanlık ve gizemli bir atmosfer.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9a596b8b4503a1ae0a6e39a5dde7b8e2/thumbnails/thumbnail.jpg" width="600" alt="Karanlık Konveyör Bandı Gizemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5976)**
-
-**Author:** [BarcelonaAlternativa](https://x.com/Barnalternativa) | **Source:** [Link](https://x.com/Barnalternativa/status/2065136103582204156) | **Published:** Jun 11, 2026
-
----
-### Motivasyonel İş Etiği Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Hedeflere ulaşmak için çok çalışmak üzerine sert bir motivasyonel alıntıya dayanan video istemi.
-
-#### 📝 Prompt
-
-```
-Bir şeyi isteyen herkes onun için çalışmak zorunda; hiçbir şeyin sana öylece bedavadan geleceğini sanma. Umrumda bile değil.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d4484cece25bdac8a0b0efa76717df5a/thumbnails/thumbnail.jpg" width="600" alt="Motivasyonel İş Etiği Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5961)**
-
-**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2065134271912636435) | **Published:** Jun 11, 2026
-
----
-### Kötücül Uzay Bilim Kurgu Güç Eşiği
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Akıl almaz bir kozmik güce açılan eşiği betimleyen karanlık, bilim kurgu temalı bir dijital sanat istemi.
-
-#### 📝 Prompt
-
-```
-Günaydın İnsanlar!!
-
-Bu, ötesinde kavrayamayacağınız bir gücün yattığı eşiktir; kaderinize sahip çıkın, kötücül uzay bilim kurgu dijital karanlık/köşede TLV metin yok
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cdc8973f52917c85d0e14dd345b6f89e/thumbnails/thumbnail.jpg" width="600" alt="Kötücül Uzay Bilim Kurgu Güç Eşiği">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5973)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2065130637179375816) | **Published:** Jun 11, 2026
-
----
-### İtalyanların Dünya Kupası Tepkisi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> İtalya'nın üçüncü kez Dünya Kupası'na katılamamasına tepki veren bir İtalyan kadının yer aldığı tepki videosu oluşturmak için bir komut.
-
-#### 📝 Prompt
-
-```
-İtalya'nın üst üste üçüncü kez Dünya Kupası'nda yer almadığını fark eden İtalyan bir kadın
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/61d19ddaaf7d9f3ad822ce94001d6945/thumbnails/thumbnail.jpg" width="600" alt="İtalyanların Dünya Kupası Tepkisi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5977)**
-
-**Author:** [ᛁᛖᛋᚢᛋ ᛘᛅᚱᛏᛁᚾᛖᛋ ᚷᚢᚾᛋᛅᛚᛁᛋ](https://x.com/jemagomoen) | **Source:** [Link](https://x.com/jemagomoen/status/2065110384852308396) | **Published:** Jun 11, 2026
-
----
-### Tükenmiş Çalışan Meme Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Elon Musk'ın çeşitli şirketlerine ayak uydurmaya çalışırken evrak işlerine gömülmüş, bunalmış bir çalışanı tasvir eden mizahi bir video istemi.
-
-#### 📝 Prompt
-
-```
-Kağıtlar ve bilgisayarlarla çevrili, tamamen tükenmiş bir adam görseli ve üzerinde şu metin yer alıyor: “Elon'a ayak uydurmaya çalışırken ben: Tesla, SpaceX, xAI, Twitter, Neuralink, The Boring Company… ve ben aile grubu sohbetindeki mesajlara bile cevap veremiyorum 😂”
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4e10cd63e3107f14859831d60b734848/thumbnails/thumbnail.jpg" width="600" alt="Tükenmiş Çalışan Meme Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5960)**
-
-**Author:** [Angie Ramos Mendez](https://x.com/AngieRamos2030) | **Source:** [Link](https://x.com/AngieRamos2030/status/2065096120229912757) | **Published:** Jun 11, 2026
-
----
-### İspanyolca Politik Seslendirme İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir videoya derin felsefi ve politik alt metinler içeren İspanyolca bir seslendirme eklemek için özel bir talimat.
-
-#### 📝 Prompt
-
-```
-İspanyolca dış ses ekle: Kendini olduğu gibi göstermekten korktuğu için, takipçilerinin duymak istediklerini söyleyen bir metnin arkasına saklanan korkağın peşinden kim gider?
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6e55ac968ddf962d720aae7f34d407d8/thumbnails/thumbnail.jpg" width="600" alt="İspanyolca Politik Seslendirme İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5975)**
-
-**Author:** [Jose gutierrez](https://x.com/hoccegutierrez) | **Source:** [Link](https://x.com/hoccegutierrez/status/2065092557210603860) | **Published:** Jun 11, 2026
-
----
-### Yağmurda Şiirsel Aşk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Zamanın sessizliği içinde yağmurla kutlanan aşkı betimleyen romantik ve atmosferik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Saatler görevini unuttuğunda zaman durur. Sadece iki kalp atışı arasındaki sessizlik ve yağmurda bile olsa kutlanması gereken aşkımız kalır.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8a8e61a90cee7f6fcf91db0c6692f697/thumbnails/thumbnail.jpg" width="600" alt="Yağmurda Şiirsel Aşk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5966)**
-
-**Author:** [Scarlett](https://x.com/scarlettzen1) | **Source:** [Link](https://x.com/scarlettzen1/status/2065080973176271130) | **Published:** Jun 11, 2026
-
----
-### Arjantin Dünya Kupası Taraftar Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 2026 Dünya Kupası'nda Arjantin milli takımını destekleyen kadın bir taraftarın, referans fotoğraftaki yüz kimliğini koruyarak oluşturulduğu bir video üretim istemi.
-
-#### 📝 Prompt
-
-```
-Arjantin Milli Takımı'nı destekliyorum. Messi. 2026 Dünya Kupası. 
-Kadını referans fotoğraftakiyle birebir aynı tut: yüzü, ışıltılı bir taç ve pembe çiçekle süslenmiş kıvırcık kahverengi saçları, zarif takıları, bacak bacak üstüne atmış oturan pozisyonu, elinde tuttuğu pembe şakayık buketi, kendinden emin ifadesi ve tüm detaylar...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7ad52d7803b2c9f535bcf61cdc030aa9/thumbnails/thumbnail.jpg" width="600" alt="Arjantin Dünya Kupası Taraftar Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=5964)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2065067503231942715) | **Published:** Jun 11, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2221,6 +2216,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-21T05:13:27.750Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-21T11:35:38.998Z</sub>
 
 </div>
