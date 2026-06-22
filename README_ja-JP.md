@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **1912** |
+| 📝 プロンプト総数 | **1919** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-06-22** |
 
@@ -189,6 +189,65 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### ミトンをはめて踊る子猫たち
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ミトンをはめて楽しそうに歌いながら踊る、活気あふれる子猫たちのビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+ミトンをはめた子猫たちが「私たちはミトンをはめた子猫」と歌いながら、楽しげでエネルギッシュな動きと愛らしい表情で踊り始めます。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068748943706759168/img/A37zMRy8vrFNq5Yp.jpg" width="600" alt="ミトンをはめて踊る子猫たち">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6318)**
+
+**作者:** [Imedi](https://x.com/Imedigeorgia) | **ソース:** [Link](https://x.com/Imedigeorgia/status/2068749043334054054) | **公開日:** Jun 21, 2026
+
+---
+### ミトンをはめて踊る子猫たち
+
+![한국어](https://img.shields.io/badge/lang-한국어-orange)
+
+> Grok Imagine 用の愛らしいビデオプロンプトです。ミトンをはめた子猫たちが、遊び心あふれる表情で楽しげな歌を歌いながら踊る様子を描写しています。
+
+#### 📝 プロンプト
+
+```
+ミトンをはめた子猫たちが踊り出し、歌い始めます。彼らは「We are kittens wearing mittens」という歌を、陽気で生き生きとした動きと遊び心あふれる表情で歌います。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068748005579108352/img/7_sXRpv2d-A3dfkq.jpg" width="600" alt="ミトンをはめて踊る子猫たち">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6323)**
+
+**作者:** [아까긋마](https://x.com/sfbbang) | **ソース:** [Link](https://x.com/sfbbang/status/2068748971783381469) | **公開日:** Jun 21, 2026
+
+---
+### 雲上の古代守護神
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 夕暮れの霧深い山々の上空に佇む、豪華な鎧を纏った巨大な古代の神々と、その下にいる孤独な戦士を描いたシネマティック・ファンタジー動画用プロンプト。
+
+#### 📝 プロンプト
+
+```
+傑作、最高品質、夕暮れの霧深い山々の上空、雲の上に立つ巨大な古代守護神たちを描いた超詳細なシネマティック・ファンタジーイラスト。神々は豪華な伝統的鎧を纏い、ドラマチックなライティングが施されている。その下では、小さな戦士が雲に乗って飛んでいる。オレンジと青の雲が広がる壮大な空。キャラクター、雲、山々、ライティングに至るまで高精細に描写。
+
+雲の上に立つ 4 体の古代の神々と、剣に乗って彼らに向かって飛ぶ孤独な戦士。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068723896266993664/img/HpGGCjsBsr5Guch-.jpg" width="600" alt="雲上の古代守護神">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6317)**
+
+**作者:** [⭕Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2068723970707448246) | **公開日:** Jun 21, 2026
+
+---
 ### ブルジュ・ハリファ付近を歩くハリウッド俳優
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +265,25 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6292)**
 
 **作者:** [Ijaz Malik](https://x.com/Ijazmalik101) | **ソース:** [Link](https://x.com/Ijazmalik101/status/2068609842198225254) | **公開日:** Jun 21, 2026
+
+---
+### 光り輝く水辺の森の夜のプロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 星空の下、霧に包まれた森の中で、光る水辺に佇む人物を描いた幻想的な動画用プロンプトです。
+
+#### 📝 プロンプト
+
+```
+彼女はまるで夜そのものに抱かれているかのように、光り輝く水の中に立っている。足元では光が穏やかに揺らめき、森は霧と星々を纏って静かに呼吸している。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068490361069076480/img/6BmW0ohNA3wEaGZ-.jpg" width="600" alt="光り輝く水辺の森の夜のプロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6321)**
+
+**作者:** [SophieZX](https://x.com/Z_XSophie) | **ソース:** [Link](https://x.com/Z_XSophie/status/2068490736463384650) | **公開日:** Jun 21, 2026
 
 ---
 ### 万華鏡のような宇宙イルカの動画
@@ -744,6 +822,25 @@ UFO に引き寄せられるかのように子供が地面から浮かび上が�
 **作者:** [kramrogNL (33.3%)](https://x.com/kramrogNL) | **ソース:** [Link](https://x.com/kramrogNL/status/2067943364117266808) | **公開日:** Jun 19, 2026
 
 ---
+### トリリオネア・アニメ・ストーリー
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 南アフリカ出身の少年が兆万長者（トリリオネア）へと成長する旅路を描いた、アニメ制作向けのナラティブ・プロンプトです。
+
+#### 📝 プロンプト
+
+```
+南アフリカの平凡な少年が、世界初のトリリオネアへと駆け上がるまでの軌跡を描いたアニメ・ストーリー
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2066579935943147521/img/zWNMK7sOkThlgTRe.jpg" width="600" alt="トリリオネア・アニメ・ストーリー">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6320)**
+
+**作者:** [SMX 🇺🇸](https://x.com/iam_smx) | **ソース:** [Link](https://x.com/iam_smx/status/2067899026339447040) | **公開日:** Jun 19, 2026
+
+---
 ### ブダペストのペーパークラフト風アニメーション
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -756,7 +853,7 @@ UFO に引き寄せられるかのように子供が地面から浮かび上が�
 ハンガリーのブダペスト。歴史的な建造物、ドナウ川、そして時を超えて愛される街並みが、美しいペーパークラフトの世界で融合します。
 ```
 
-<img src="https://cms-assets.youmind.com/media/1781944914037_s5lt12_HLKjCZbWgAAW4Xd.jpg" width="600" alt="ブダペストのペーパークラフト風アニメーション">
+<img src="https://cms-assets.youmind.com/media/1782121028754_405t5z_HLKjCZbWgAAW4Xd.jpg" width="600" alt="ブダペストのペーパークラフト風アニメーション">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6255)**
 
@@ -1048,6 +1145,25 @@ UFO に引き寄せられるかのように子供が地面から浮かび上が�
 **作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2067598831827484846) | **公開日:** Jun 18, 2026
 
 ---
+### 日本の屋上庭園に訪れる黄昏時
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 星空の下、日本の都市の明かりと屋上庭園が織りなす穏やかな黄昏時の風景を描写した、シネマティックな動画プロンプトです。
+
+#### 📝 プロンプト
+
+```
+日本の黄昏時。眼下に広がる温かな街の明かり、静寂に包まれた屋上庭園、そして星々で彩られた空。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067593205680586752/img/rswrSoM2iHi1oZ8Y.jpg" width="600" alt="日本の屋上庭園に訪れる黄昏時">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6319)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **ソース:** [Link](https://x.com/MrDasOnX/status/2067593250354213218) | **公開日:** Jun 18, 2026
+
+---
 ### 日本料理のテーブルへ向かうシネマティックなドリーイン
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1065,6 +1181,25 @@ UFO に引き寄せられるかのように子供が地面から浮かび上が�
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6212)**
 
 **作者:** [淼儿](https://x.com/tasakimori) | **ソース:** [Link](https://x.com/tasakimori/status/2067589992281674195) | **公開日:** Jun 18, 2026
+
+---
+### ソフトピンクローズのドリーマー向けプロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ピンクのバラとドリーマーを包み込む幻想的な光を特徴とした、ロマンチックで柔らかな動画用プロンプトです。
+
+#### 📝 プロンプト
+
+```
+穏やかなドリーマーの周りに咲き誇るソフトピンクのバラ……花びらと幻想的な光に包まれた、優しいささやき。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067564271375134720/img/Kaj3_BjTZTb4EG6a.jpg" width="600" alt="ソフトピンクローズのドリーマー向けプロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6322)**
+
+**作者:** [Stella 𝕏](https://x.com/StellaGrokStar) | **ソース:** [Link](https://x.com/StellaGrokStar/status/2067564344557420569) | **公開日:** Jun 18, 2026
 
 ---
 ### コーヒーを飲むライオン
@@ -1319,7 +1454,7 @@ SpaceX Starship のミニチュア版のような軌道降下ポッドの画像�
 ---
 ### 『ゲーム・オブ・スローンズ』ドラゴン飛行のシネマティック動画
 
-![English](https://img.shields.io/badge/lang-English-blue)
+![中文](https://img.shields.io/badge/lang-中文-red)
 
 > 『ゲーム・オブ・スローンズ』にインスパイアされた、リアルな物理演算とライティングによる壮大なドラゴン飛行シーンを生成するための、詳細なシネマティックプロンプトです。
 
@@ -2012,157 +2147,6 @@ Overwatch の Mercy が、おなじみの白と金の Valkyrie スーツを着�
 **作者:** [Brent Lynch](https://x.com/BrentLynch) | **ソース:** [Link](https://x.com/BrentLynch/status/2066014432543883673) | **公開日:** Jun 14, 2026
 
 ---
-### 穏やかな気質の仔馬、Spirit Dancer
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 繊細で威厳のない気質を強調した、Spirit Dancer という名の若く穏やかな仔馬のキャラクタープロンプトです。
-
-#### 📝 プロンプト
-
-```
-Spirit Dancer は穏やかな性格です。優しく、若く、柔和な気質を持つ、黄金の魂を宿した愛らしい仔馬です。威厳や威圧感はなく、繊細で、守ってあげたくなるような存在です。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e79f7189f7c07c377fbff84c15e9e88/thumbnails/thumbnail.jpg" width="600" alt="穏やかな気質の仔馬、Spirit Dancer">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6056)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2066010696832180333) | **公開日:** Jun 14, 2026
-
----
-### Starship ロケットの垂直上昇を捉えたドローン映像
-
-![한국어](https://img.shields.io/badge/lang-한국어-orange)
-
-> SpaceX Starship ロケットの垂直上昇を、詳細な反射や質感とともに捉える、Grok Imagine 用の映画のような超リアルなドローン撮影プロンプト。
-
-#### 📝 プロンプト
-
-```
-映画のような超リアルな 10 秒間のドローン映像。晴天で、完璧な青空に白い雲が点在し、強い自然光が差し込み、シャープで鮮明な影が落ちている。ドローンは、巨大なステンレス製 Starship ロケットの基部、軌道打ち上げ台のエンジンと黒い基部構造のすぐそばからスタートする。Starship の機体に沿って、磨き上げられたステンレスの壁面を非常に近くで捉えながら、力強く滑らかに、連続して加速しながら垂直に上昇する。ダイナミックな上方へのカメラチルトがロケットの表面を克明に追い、溶接跡が見える反射するステンレスパネル、精密な六角形の耐熱タイル、前方フラップ、グリッドフィン、そして空へと突き抜ける鋭いノーズコーンなど、あらゆる超現実的なディテールを映し出す。広角ドローンレンズ（24-35mm 相当）による壮大な画角、繊細な自然なカメラシェイク、リアルなモーションブラーにより、本物のような質感を再現。滑らかな映画的動き、超リアルな質感と反射、8K 解像度、IMAX クオリティ、National Geographic スタイルのドローン映像を作成してください。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c8034ff8719905670778edb2dc3f5aa8/thumbnails/thumbnail.jpg" width="600" alt="Starship ロケットの垂直上昇を捉えたドローン映像">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6061)**
-
-**作者:** [Drone V Drone](https://x.com/drone_v_drone) | **ソース:** [Link](https://x.com/drone_v_drone/status/2066001253549981818) | **公開日:** Jun 14, 2026
-
----
-### バルセロナのビーチに佇む幻想的な天使
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ゴールデンアワーのビーチに立つ、金色の羽と緑の瞳を持つ幻想的な天使のアニメーションを生成するための詳細なプロンプトです。
-
-#### 📝 プロンプト
-
-```
-輝くライトグリーンの瞳を持つ幻想的な天使、周囲に浮遊する 24K ゴールドの羽、見えない翼、ゴールデンアワーのバルセロナのビーチに優雅に立つ姿、神聖な女性のエネルギー、天上の美しさ、夢のようで光り輝く
-•  幻想的な天使
-•  天上の美しさ
-•  神聖な女性性
-•  ゴールデンアワーの女神
-•  神秘的な天使
-•  天上の存在
-•  夢のような天使
-•  この世のものとは思えない美しさ
-•  天使のような存在感
-•  光り輝く天使
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e93302c0291c27c8f192a971f7ef2eb1/thumbnails/thumbnail.jpg" width="600" alt="バルセロナのビーチに佇む幻想的な天使">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6033)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2065908255382184326) | **公開日:** Jun 13, 2026
-
----
-### 聖書の一場面を再現したシネマティックな静止画ショット
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 旧約聖書の「ダニエル書」に着想を得た、シネマティックな静止画ショット用の動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-旧約聖書のダニエル書の物語を彷彿とさせる静止画ショット
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0832c01c153ba6a6966e4672e269439a/thumbnails/thumbnail.jpg" width="600" alt="聖書の一場面を再現したシネマティックな静止画ショット">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6028)**
-
-**作者:** [Mary Jeanne Bautista Concepcion Cincotta](https://x.com/CincottaMary) | **ソース:** [Link](https://x.com/CincottaMary/status/2065903975052751107) | **公開日:** Jun 13, 2026
-
----
-### 巨大な波のチューブをライディング
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 巨大な波のチューブの中でサーフィンをするサーファーを描いたアクションプロンプト。
-
-#### 📝 プロンプト
-
-```
-サーフボードに乗って巨大な波のチューブをライディングしながら、「サーフィンを教えてくれてありがとう、ondoggie！」と叫んでいる様子を想像してください
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4609057e0760947ba35a3b1256e60ea2/thumbnails/thumbnail.jpg" width="600" alt="巨大な波のチューブをライディング">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6034)**
-
-**作者:** [Jason t](https://x.com/doctani79) | **ソース:** [Link](https://x.com/doctani79/status/2065886545970942265) | **公開日:** Jun 13, 2026
-
----
-### 高級ラゲージのシネマティックな動画広告
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 都市のバス停にあるデジタルサイネージにモデルが登場する、高級ラゲージブランド向けのプロフェッショナルなシネマティック動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-現代的な都市のバス停を舞台にした、シュールで高級感のあるラゲージのシネマティック広告。街の景観に溶け込む、黒いフレームの大型デジタルサイネージが特徴。画面の中では、ベージュのテーラードジャケットにダークトーンのパンツ、同色のハイヒールを合わせたファッションモデルが、高級なハードシェルケースを手に持っている。彼女はまるでシーンに出入りするかのようにプラットフォームに立っている。ライティングはソフトな輝きとシャープな反射を活かした、ハイエンドなコマーシャルスタイル。シネマティック 8k、フォトリアル、エレガント、アーバンシック。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/93f5ee4787e6a616e30b49e9cdf6ea30/thumbnails/thumbnail.jpg" width="600" alt="高級ラゲージのシネマティックな動画広告">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6027)**
-
-**作者:** [Alamgir Hossain](https://x.com/mdalamgir95) | **ソース:** [Link](https://x.com/mdalamgir95/status/2065846622324674965) | **公開日:** Jun 13, 2026
-
----
-### 山岳地帯での映画のような対話シーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 山々や森をパンするカメラワークと、Jilla と Rolf のキャラクターによる対話で構成されたナラティブビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-Jilla は足を止め、周囲に広がる絶景をしばし見つめる。カメラは周囲の山々、流れる川、せせらぎ、そして数千フィート下に広がる松林を吹き抜ける穏やかな風をパンしていく。
-
-Rolf が言う。「美しいな、Jilla。そうだろう？」
-
-Jilla は畏敬の念を込めて、「心に刻んでおきたい景色ね」と答える。彼女は Rolf を見て微笑む。
-
-Rolf が言う。「登ってきた甲斐があったよ。」
-
-Jilla が答える。「一歩一歩、すべてね。」
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/753193e18c82e85956747b8d78ce3e96/thumbnails/thumbnail.jpg" width="600" alt="山岳地帯での映画のような対話シーン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6030)**
-
-**作者:** [Kim Maria](https://x.com/KimMari46054539) | **ソース:** [Link](https://x.com/KimMari46054539/status/2065845361697038839) | **公開日:** Jun 13, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2224,6 +2208,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-22T05:21:36.580Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-22T13:58:40.541Z</sub>
 
 </div>

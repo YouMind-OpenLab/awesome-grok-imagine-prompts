@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1912** |
+| 📝 Total Prompts | **1919** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-22** |
 
@@ -189,6 +189,65 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Những chú mèo con đeo găng tay nhảy múa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt vui nhộn và tràn đầy năng lượng về những chú mèo con đeo găng tay đang nhảy múa và ca hát với biểu cảm tinh nghịch.
+
+#### 📝 Prompt
+
+```
+Những chú mèo con đeo găng tay bắt đầu nhảy múa và hát "we’re kittens with mittens" với những chuyển động vui tươi, tràn đầy năng lượng cùng biểu cảm tinh nghịch.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068748943706759168/img/A37zMRy8vrFNq5Yp.jpg" width="600" alt="Những chú mèo con đeo găng tay nhảy múa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6318)**
+
+**Author:** [Imedi](https://x.com/Imedigeorgia) | **Source:** [Link](https://x.com/Imedigeorgia/status/2068749043334054054) | **Published:** Jun 21, 2026
+
+---
+### Những chú mèo con đeo găng tay nhảy múa
+
+![한국어](https://img.shields.io/badge/lang-한국어-orange)
+
+> Một câu lệnh video đáng yêu dành cho Grok Imagine, mô tả những chú mèo con đeo găng tay đang nhảy múa và hát một bài hát vui nhộn với biểu cảm tinh nghịch.
+
+#### 📝 Prompt
+
+```
+Những chú mèo con đeo găng tay bắt đầu nhảy múa và ca hát. Chúng hát bài hát "We are kittens wearing mittens" với những động tác vui tươi, sống động cùng biểu cảm tinh nghịch.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068748005579108352/img/7_sXRpv2d-A3dfkq.jpg" width="600" alt="Những chú mèo con đeo găng tay nhảy múa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6323)**
+
+**Author:** [아까긋마](https://x.com/sfbbang) | **Source:** [Link](https://x.com/sfbbang/status/2068748971783381469) | **Published:** Jun 21, 2026
+
+---
+### Các vị thần hộ mệnh cổ xưa trên tầng mây
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video giả tưởng đậm chất điện ảnh với hình ảnh các vị thần cổ đại khổng lồ trong bộ giáp tinh xảo đứng trên những ngọn núi mờ sương lúc hoàng hôn cùng một chiến binh đơn độc.
+
+#### 📝 Prompt
+
+```
+Kiệt tác, chất lượng tốt nhất, minh họa giả tưởng điện ảnh siêu chi tiết về các vị thần hộ mệnh cổ đại khổng lồ đang đứng trên những đám mây phía trên những ngọn núi mờ sương lúc hoàng hôn. Các vị thần mặc bộ giáp truyền thống tinh xảo với ánh sáng đầy kịch tính. Một chiến binh nhỏ bé đang bay bên dưới họ trên một đám mây. Bầu trời hùng vĩ với những đám mây màu cam và xanh. Nhân vật, mây, núi và ánh sáng được thể hiện vô cùng chi tiết. 
+
+Bốn vị thần cổ đại đứng trên những tầng mây trong khi một chiến binh đơn độc đang bay về phía họ trên thanh kiếm của mình.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068723896266993664/img/HpGGCjsBsr5Guch-.jpg" width="600" alt="Các vị thần hộ mệnh cổ xưa trên tầng mây">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6317)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2068723970707448246) | **Published:** Jun 21, 2026
+
+---
 ### Diễn viên Hollywood gần Burj Khalifa
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +265,25 @@ Tạo hình ảnh một diễn viên Hollywood nổi tiếng đang đi dạo g�
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6292)**
 
 **Author:** [Ijaz Malik](https://x.com/Ijazmalik101) | **Source:** [Link](https://x.com/Ijazmalik101/status/2068609842198225254) | **Published:** Jun 21, 2026
+
+---
+### Gợi ý tạo video: Khu rừng nước phát sáng về đêm
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý tạo video đầy mê hoặc về khung cảnh một nhân vật đứng trong dòng nước phát sáng giữa khu rừng sương mù dưới bầu trời đầy sao.
+
+#### 📝 Prompt
+
+```
+Cô ấy đứng trong dòng nước phát sáng như thể chính màn đêm đang ôm trọn lấy cô. Ánh sáng chuyển động nhẹ nhàng quanh đôi chân cô trong khi khu rừng tỏa ra làn sương mờ ảo và những vì sao lấp lánh.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068490361069076480/img/6BmW0ohNA3wEaGZ-.jpg" width="600" alt="Gợi ý tạo video: Khu rừng nước phát sáng về đêm">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6321)**
+
+**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2068490736463384650) | **Published:** Jun 21, 2026
 
 ---
 ### Video chú cá heo vũ trụ vạn hoa
@@ -744,6 +822,25 @@ Hãy tạo cho tôi một trailer giống như phim bom tấn Hollywood dựa tr
 **Author:** [kramrogNL (33.3%)](https://x.com/kramrogNL) | **Source:** [Link](https://x.com/kramrogNL/status/2067943364117266808) | **Published:** Jun 19, 2026
 
 ---
+### Câu chuyện Anime về một tỷ phú nghìn tỷ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý (prompt) kể chuyện anime mô tả hành trình của một cậu bé từ Nam Phi trở thành một tỷ phú nghìn tỷ.
+
+#### 📝 Prompt
+
+```
+Câu chuyện anime về một cậu bé khiêm tốn đến từ Nam Phi và hành trình trở thành tỷ phú nghìn tỷ đầu tiên trên thế giới
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2066579935943147521/img/zWNMK7sOkThlgTRe.jpg" width="600" alt="Câu chuyện Anime về một tỷ phú nghìn tỷ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6320)**
+
+**Author:** [SMX 🇺🇸](https://x.com/iam_smx) | **Source:** [Link](https://x.com/iam_smx/status/2067899026339447040) | **Published:** Jun 19, 2026
+
+---
 ### Thế giới hoạt hình cắt giấy Budapest
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -756,7 +853,7 @@ Hãy tạo cho tôi một trailer giống như phim bom tấn Hollywood dựa tr
 Budapest, Hungary. Nơi kiến trúc lịch sử, dòng sông Danube và những con phố vượt thời gian hòa quyện trong một thế giới cắt giấy tuyệt đẹp.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1781944914037_s5lt12_HLKjCZbWgAAW4Xd.jpg" width="600" alt="Thế giới hoạt hình cắt giấy Budapest">
+<img src="https://cms-assets.youmind.com/media/1782121028754_405t5z_HLKjCZbWgAAW4Xd.jpg" width="600" alt="Thế giới hoạt hình cắt giấy Budapest">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6255)**
 
@@ -1048,6 +1145,25 @@ Trong khung cảnh phòng ngủ tối tăm này, chỉ có chú sư tử bên tr
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2067598831827484846) | **Published:** Jun 18, 2026
 
 ---
+### Hoàng hôn tại khu vườn trên sân thượng ở Nhật Bản
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video đậm chất điện ảnh mô tả khung cảnh hoàng hôn yên bình tại Nhật Bản với ánh đèn thành phố và khu vườn trên sân thượng dưới bầu trời đầy sao.
+
+#### 📝 Prompt
+
+```
+Hoàng hôn tại Nhật Bản, ánh đèn thành phố ấm áp phía dưới, khu vườn trên sân thượng tĩnh lặng phía trên và bầu trời được tô điểm bởi những vì sao.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067593205680586752/img/rswrSoM2iHi1oZ8Y.jpg" width="600" alt="Hoàng hôn tại khu vườn trên sân thượng ở Nhật Bản">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6319)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2067593250354213218) | **Published:** Jun 18, 2026
+
+---
 ### Cảnh quay Dolly-in đậm chất điện ảnh về bàn ăn kiểu Nhật
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1065,6 +1181,25 @@ Cảnh quay dolly-in chậm đậm chất điện ảnh hướng về phía bàn
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6212)**
 
 **Author:** [淼儿](https://x.com/tasakimori) | **Source:** [Link](https://x.com/tasakimori/status/2067589992281674195) | **Published:** Jun 18, 2026
+
+---
+### Prompt Người mơ mộng cùng hoa hồng phấn
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt lãng mạn và nhẹ nhàng với hình ảnh hoa hồng phấn cùng ánh sáng mơ màng bao quanh một người đang mơ mộng.
+
+#### 📝 Prompt
+
+```
+Những đóa hoa hồng phấn nhẹ nhàng nở rộ quanh một người mơ mộng… Một lời thì thầm dịu dàng được bao bọc trong những cánh hoa và ánh sáng huyền ảo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067564271375134720/img/Kaj3_BjTZTb4EG6a.jpg" width="600" alt="Prompt Người mơ mộng cùng hoa hồng phấn">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6322)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2067564344557420569) | **Published:** Jun 18, 2026
 
 ---
 ### Sư tử nhâm nhi cà phê
@@ -1319,7 +1454,7 @@ Tiếng Nhật hào hứng tự nhiên, giọng nói rõ ràng, lip-sync hoàn h
 ---
 ### Video điện ảnh về chuyến bay của rồng trong Game of Thrones
 
-![English](https://img.shields.io/badge/lang-English-blue)
+![中文](https://img.shields.io/badge/lang-中文-red)
 
 > Một câu lệnh (prompt) điện ảnh chi tiết cao để chuyển đổi hình ảnh tham chiếu thành phân cảnh rồng bay hùng tráng lấy cảm hứng từ Game of Thrones, với hiệu ứng vật lý và ánh sáng chân thực.
 
@@ -2008,157 +2143,6 @@ Phong cách / camera: phim điện ảnh cuối thập niên 1980 / đầu thậ
 **Author:** [Brent Lynch](https://x.com/BrentLynch) | **Source:** [Link](https://x.com/BrentLynch/status/2066014432543883673) | **Published:** Jun 14, 2026
 
 ---
-### Cô ngựa con Spirit Dancer dịu dàng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý nhân vật cho cô ngựa con trẻ tuổi, tính cách nhẹ nhàng tên là Spirit Dancer, nhấn mạnh vào khí chất thanh tú và không hề vương giả của cô bé.
-
-#### 📝 Prompt
-
-```
-Spirit Dancer rất dịu dàng. Cô bé ngọt ngào, trẻ tuổi và có bản tính nhẹ nhàng — một cô ngựa con bé bỏng, đáng yêu với tâm hồn thuần khiết. Cô bé không hề vương giả hay uy quyền. Cô bé rất thanh tú và là người cần được che chở.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e79f7189f7c07c377fbff84c15e9e88/thumbnails/thumbnail.jpg" width="600" alt="Cô ngựa con Spirit Dancer dịu dàng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6056)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2066010696832180333) | **Published:** Jun 14, 2026
-
----
-### Cảnh quay drone tên lửa Starship bay thẳng đứng
-
-![한국어](https://img.shields.io/badge/lang-한국어-orange)
-
-> Một câu lệnh tạo ảnh cinematic và siêu thực cho Grok Imagine, mô tả cảnh quay drone theo sát quá trình bay thẳng đứng của tên lửa SpaceX Starship với các chi tiết phản chiếu và kết cấu chân thực.
-
-#### 📝 Prompt
-
-```
-Cảnh quay drone 10 giây theo phong cách cinematic siêu thực. Thời tiết nắng ráo với bầu trời xanh trong vắt cùng những đám mây trắng rải rác, ánh sáng tự nhiên mạnh mẽ, đổ bóng sắc nét. Drone bắt đầu ở vị trí rất gần phần đế của tên lửa Starship bằng thép không gỉ khổng lồ, ngay cạnh các động cơ tại bệ phóng quỹ đạo và cấu trúc đế màu đen. Drone thực hiện cú bay thẳng đứng mạnh mẽ, mượt mà, liên tục và tăng tốc dọc theo thân tên lửa Starship, bay sát các vách thép không gỉ được đánh bóng trong suốt quá trình. Góc máy nghiêng lên trên đầy năng động bám sát bề mặt tên lửa, làm lộ rõ từng chi tiết siêu thực: các tấm thép không gỉ phản chiếu với những đường hàn có thể nhìn thấy, các tấm chắn nhiệt hình lục giác chính xác, cánh tà phía trước, cánh lưới và phần mũi nhọn hướng lên bầu trời. Tính chân thực được tạo nên thông qua ống kính drone góc rộng (tương đương 24-35mm), độ rung máy tự nhiên tinh tế và hiệu ứng nhòe chuyển động chân thực. Tạo một cảnh quay drone với chuyển động cinematic mượt mà, kết cấu và độ phản chiếu siêu thực, độ phân giải 8K, chất lượng IMAX và phong cách phim National Geographic.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c8034ff8719905670778edb2dc3f5aa8/thumbnails/thumbnail.jpg" width="600" alt="Cảnh quay drone tên lửa Starship bay thẳng đứng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6061)**
-
-**Author:** [Drone V Drone](https://x.com/drone_v_drone) | **Source:** [Link](https://x.com/drone_v_drone/status/2066001253549981818) | **Published:** Jun 14, 2026
-
----
-### Thiên thần thoát tục trên bãi biển Barcelona
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh mô tả chi tiết để tạo hoạt ảnh về một thiên thần thoát tục với đôi cánh lông vũ vàng và đôi mắt xanh lục đang đứng trên bãi biển vào giờ vàng.
-
-#### 📝 Prompt
-
-```
-thiên thần thoát tục với đôi mắt xanh lục sáng rực, những chiếc lông vũ bằng vàng 24k bay lơ lửng xung quanh, đôi cánh vô hình, đứng duyên dáng trên bãi biển Barcelona vào giờ vàng, năng lượng nữ tính thần thánh, vẻ đẹp thiên giới, mơ màng và tỏa sáng
-•  thiên thần thoát tục
-•  vẻ đẹp thiên giới
-•  nữ tính thần thánh
-•  nữ thần giờ vàng
-•  thiên thần huyền bí
-•  thực thể thiên đường
-•  thiên thần mơ màng
-•  vẻ đẹp siêu thực
-•  sự hiện diện của thiên thần
-•  thiên thần tỏa sáng
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e93302c0291c27c8f192a971f7ef2eb1/thumbnails/thumbnail.jpg" width="600" alt="Thiên thần thoát tục trên bãi biển Barcelona">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6033)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2065908255382184326) | **Published:** Jun 13, 2026
-
----
-### Cảnh quay tĩnh mang phong cách điện ảnh về chủ đề Kinh Thánh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video điện ảnh cho cảnh quay tĩnh lấy cảm hứng từ sách Đa-ni-ên trong Cựu Ước.
-
-#### 📝 Prompt
-
-```
-cảnh quay tĩnh trông giống như câu chuyện trong sách Đa-ni-ên từ Cựu Ước
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0832c01c153ba6a6966e4672e269439a/thumbnails/thumbnail.jpg" width="600" alt="Cảnh quay tĩnh mang phong cách điện ảnh về chủ đề Kinh Thánh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6028)**
-
-**Author:** [Mary Jeanne Bautista Concepcion Cincotta](https://x.com/CincottaMary) | **Source:** [Link](https://x.com/CincottaMary/status/2065903975052751107) | **Published:** Jun 13, 2026
-
----
-### Lướt trong ống sóng thủy triều
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh hành động mô tả một vận động viên lướt sóng đang cưỡi bên trong ống của một con sóng thủy triều khổng lồ.
-
-#### 📝 Prompt
-
-```
-Hãy tưởng tượng anh ấy đang trên ván lướt sóng, cưỡi trong ống của một con sóng thủy triều và hét lên cảm ơn ondoggie vì đã dạy tôi cách lướt sóng
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4609057e0760947ba35a3b1256e60ea2/thumbnails/thumbnail.jpg" width="600" alt="Lướt trong ống sóng thủy triều">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6034)**
-
-**Author:** [Jason t](https://x.com/doctani79) | **Source:** [Link](https://x.com/doctani79/status/2065886545970942265) | **Published:** Jun 13, 2026
-
----
-### Video quảng cáo hành lý cao cấp đậm chất điện ảnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) tạo video chuyên nghiệp mang phong cách điện ảnh cho thương hiệu hành lý sang trọng, với hình ảnh người mẫu trên bảng quảng cáo kỹ thuật số tại trạm xe buýt đô thị.
-
-#### 📝 Prompt
-
-```
-Video quảng cáo hành lý sang trọng đầy tính nghệ thuật siêu thực tại một trạm xe buýt đô thị hiện đại, nổi bật với bảng quảng cáo kỹ thuật số khung đen lớn được tích hợp vào kiến trúc đường phố. Trên màn hình quảng cáo, một người mẫu thời trang mặc áo blazer thiết kế riêng màu be, quần tây tối màu và giày cao gót cùng tông màu be, đang cầm bộ vali vỏ cứng cao cấp. Cô ấy đứng trên bục như thể đang bước vào hoặc bước ra khỏi khung hình. Ánh sáng mang phong cách quảng cáo cao cấp với độ sáng dịu nhẹ và các điểm phản chiếu sắc nét. Chất lượng điện ảnh 8k, chân thực như ảnh chụp, thanh lịch, mang phong cách đô thị thời thượng.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/93f5ee4787e6a616e30b49e9cdf6ea30/thumbnails/thumbnail.jpg" width="600" alt="Video quảng cáo hành lý cao cấp đậm chất điện ảnh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6027)**
-
-**Author:** [Alamgir Hossain](https://x.com/mdalamgir95) | **Source:** [Link](https://x.com/mdalamgir95/status/2065846622324674965) | **Published:** Jun 13, 2026
-
----
-### Cảnh đối thoại điện ảnh trên núi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt tường thuật với góc máy lia qua những ngọn núi và cánh rừng, cùng đoạn đối thoại giữa hai nhân vật Jilla và Rolf.
-
-#### 📝 Prompt
-
-```
-Jilla dừng lại một chút để ngắm nhìn vẻ đẹp xung quanh. Máy quay lia qua những ngọn núi, những dòng sông chảy xiết, những con suối róc rách và làn gió nhẹ thổi qua rừng thông cách đó hàng ngàn feet.
-
-Rolf nói: "Đẹp thật, phải không Jilla?"
-
-Jilla trầm trồ đầy kinh ngạc: "Một khung cảnh đáng để khắc ghi trong tim". Cô nhìn Rolf và mỉm cười.
-
-Rolf nói: "Chuyến leo núi này thật xứng đáng."
-
-Jilla đáp: "Từng bước chân một."
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/753193e18c82e85956747b8d78ce3e96/thumbnails/thumbnail.jpg" width="600" alt="Cảnh đối thoại điện ảnh trên núi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6030)**
-
-**Author:** [Kim Maria](https://x.com/KimMari46054539) | **Source:** [Link](https://x.com/KimMari46054539/status/2065845361697038839) | **Published:** Jun 13, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2220,6 +2204,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-22T05:21:39.476Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-22T13:58:43.153Z</sub>
 
 </div>

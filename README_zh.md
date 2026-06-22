@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **1912** |
+| 📝 提示词总数 | **1919** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-06-22** |
 
@@ -189,6 +189,65 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 戴着连指手套跳舞的小猫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段充满活力与欢乐的视频提示词，描述了戴着连指手套的小猫们伴随着俏皮的表情又唱又跳。
+
+#### 📝 提示词
+
+```
+戴着连指手套的小猫们开始又唱又跳，唱着“我们是戴着连指手套的小猫”，动作欢快有力，表情十分俏皮。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068748943706759168/img/A37zMRy8vrFNq5Yp.jpg" width="600" alt="戴着连指手套跳舞的小猫">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6318)**
+
+**作者:** [Imedi](https://x.com/Imedigeorgia) | **来源:** [Link](https://x.com/Imedigeorgia/status/2068749043334054054) | **发布时间:** Jun 21, 2026
+
+---
+### 戴着连指手套跳舞的小猫
+
+![한국어](https://img.shields.io/badge/lang-한국어-orange)
+
+> 这是一个为 Grok Imagine 准备的可爱视频提示词，描述了戴着连指手套的小猫们伴随着欢快的歌曲跳舞，并展现出俏皮的表情。
+
+#### 📝 提示词
+
+```
+戴着连指手套的小猫们开始跳舞并唱歌。它们唱着“我们是戴着连指手套的小猫”，动作欢快活泼，表情俏皮可爱。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068748005579108352/img/7_sXRpv2d-A3dfkq.jpg" width="600" alt="戴着连指手套跳舞的小猫">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6323)**
+
+**作者:** [아까긋마](https://x.com/sfbbang) | **来源:** [Link](https://x.com/sfbbang/status/2068748971783381469) | **发布时间:** Jun 21, 2026
+
+---
+### 云端之上的远古守护神
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个电影感奇幻视频提示词，描绘了身着华丽盔甲的巨大远古神灵伫立在日落时分云雾缭绕的山峦之上，以及一名孤独的战士。
+
+#### 📝 提示词
+
+```
+杰作，最佳画质，超精细电影感奇幻插画，描绘了多位巨大的远古守护神伫立在日落时分云雾缭绕的山峦之上的云端。神灵身着华丽的传统盔甲，光影效果极具戏剧性。一名小小的战士脚踏云朵在他们下方飞行。史诗般的天空，橙色与蓝色的云彩交织。高度精细的角色、云朵、山峦和光影效果。
+
+四位远古神灵伫立在云端之上，而一名孤独的战士正御剑向他们飞去。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068723896266993664/img/HpGGCjsBsr5Guch-.jpg" width="600" alt="云端之上的远古守护神">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6317)**
+
+**作者:** [⭕Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2068723970707448246) | **发布时间:** Jun 21, 2026
+
+---
 ### 哈利法塔附近的 Hollywood 演员
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +265,25 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6292)**
 
 **作者:** [Ijaz Malik](https://x.com/Ijazmalik101) | **来源:** [Link](https://x.com/Ijazmalik101/status/2068609842198225254) | **发布时间:** Jun 21, 2026
+
+---
+### 发光水域森林之夜提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个空灵的视频提示词，描绘了星空下雾气弥漫的森林中，人物站在发光水域里的场景。
+
+#### 📝 提示词
+
+```
+她伫立在发光的水中，仿佛被黑夜本身所拥抱。光影在她脚边轻柔流转，森林在星光下吐纳着氤氲雾气。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068490361069076480/img/6BmW0ohNA3wEaGZ-.jpg" width="600" alt="发光水域森林之夜提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6321)**
+
+**作者:** [SophieZX](https://x.com/Z_XSophie) | **来源:** [Link](https://x.com/Z_XSophie/status/2068490736463384650) | **发布时间:** Jun 21, 2026
 
 ---
 ### 万花筒般的宇宙海豚视频
@@ -744,6 +822,25 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **作者:** [kramrogNL (33.3%)](https://x.com/kramrogNL) | **来源:** [Link](https://x.com/kramrogNL/status/2067943364117266808) | **发布时间:** Jun 19, 2026
 
 ---
+### 万亿富翁动漫故事
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个动漫叙事提示词，讲述了一位来自南非的男孩成为万亿富翁的旅程。
+
+#### 📝 提示词
+
+```
+讲述一位来自南非的平凡男孩，历经磨砺最终成为全球首位万亿富翁的动漫故事
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2066579935943147521/img/zWNMK7sOkThlgTRe.jpg" width="600" alt="万亿富翁动漫故事">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6320)**
+
+**作者:** [SMX 🇺🇸](https://x.com/iam_smx) | **来源:** [Link](https://x.com/iam_smx/status/2067899026339447040) | **发布时间:** Jun 19, 2026
+
+---
 ### 布达佩斯剪纸风格世界动画
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -756,7 +853,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 匈牙利布达佩斯。历史建筑、多瑙河与永恒的街道在此交汇，构成了一个唯美的剪纸世界。
 ```
 
-<img src="https://cms-assets.youmind.com/media/1781944914037_s5lt12_HLKjCZbWgAAW4Xd.jpg" width="600" alt="布达佩斯剪纸风格世界动画">
+<img src="https://cms-assets.youmind.com/media/1782121028754_405t5z_HLKjCZbWgAAW4Xd.jpg" width="600" alt="布达佩斯剪纸风格世界动画">
 
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6255)**
 
@@ -1048,6 +1145,25 @@ Elon Musk 呈现嘻哈黑帮造型，戴着金牙套、酷炫墨镜，身穿黑�
 **作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2067598831827484846) | **发布时间:** Jun 18, 2026
 
 ---
+### 日本屋顶花园的黄昏
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段电影感视频提示词，描述了日本宁静的黄昏景象，下方是城市灯火，上方是星空下的屋顶花园。
+
+#### 📝 提示词
+
+```
+日本的黄昏，下方是温暖的城市灯火，上方是静谧的屋顶花园，天空被繁星点缀。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067593205680586752/img/rswrSoM2iHi1oZ8Y.jpg" width="600" alt="日本屋顶花园的黄昏">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6319)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **来源:** [Link](https://x.com/MrDasOnX/status/2067593250354213218) | **发布时间:** Jun 18, 2026
+
+---
 ### 电影感推拉镜头：日式餐桌布置
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1065,6 +1181,25 @@ Elon Musk 呈现嘻哈黑帮造型，戴着金牙套、酷炫墨镜，身穿黑�
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6212)**
 
 **作者:** [淼儿](https://x.com/tasakimori) | **来源:** [Link](https://x.com/tasakimori/status/2067589992281674195) | **发布时间:** Jun 18, 2026
+
+---
+### 柔粉色玫瑰梦境提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个浪漫且柔和的视频提示词，展现了围绕在梦境者身边的粉色玫瑰与梦幻光影。
+
+#### 📝 提示词
+
+```
+柔粉色玫瑰在温柔的梦境者身边绽放……这是一声包裹在花瓣与梦幻光影中的轻柔低语。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067564271375134720/img/Kaj3_BjTZTb4EG6a.jpg" width="600" alt="柔粉色玫瑰梦境提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6322)**
+
+**作者:** [Stella 𝕏](https://x.com/StellaGrokStar) | **来源:** [Link](https://x.com/StellaGrokStar/status/2067564344557420569) | **发布时间:** Jun 18, 2026
 
 ---
 ### 狮子喝咖啡
@@ -1319,7 +1454,7 @@ Elon Musk 呈现嘻哈黑帮造型，戴着金牙套、酷炫墨镜，身穿黑�
 ---
 ### 《权力的游戏》巨龙飞行电影级视频
 
-![English](https://img.shields.io/badge/lang-English-blue)
+![中文](https://img.shields.io/badge/lang-中文-red)
 
 > 一个高度详细的电影级提示词，旨在将参考图像动画化为受《权力的游戏》启发、具有逼真物理效果和光影的史诗级巨龙飞行序列。
 
@@ -2011,157 +2146,6 @@ environment: 宁静
 **作者:** [Brent Lynch](https://x.com/BrentLynch) | **来源:** [Link](https://x.com/BrentLynch/status/2066014432543883673) | **发布时间:** Jun 14, 2026
 
 ---
-### 温柔的灵舞小马驹
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是一个关于名为 Spirit Dancer 的年轻、温顺小马的角色提示词，强调她细腻且非皇室贵族般的气质。
-
-#### 📝 提示词
-
-```
-Spirit Dancer 性情温和。她甜美、年轻且性格柔顺——是一匹拥有金色灵魂的温柔小马驹。她并不高贵威严，而是细腻敏感。她是那个需要被守护的存在。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e79f7189f7c07c377fbff84c15e9e88/thumbnails/thumbnail.jpg" width="600" alt="温柔的灵舞小马驹">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6056)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2066010696832180333) | **发布时间:** Jun 14, 2026
-
----
-### SpaceX Starship 火箭垂直升空无人机航拍
-
-![한국어](https://img.shields.io/badge/lang-한국어-orange)
-
-> 一个为 Grok Imagine 设计的电影级超写实无人机航拍提示词，捕捉 SpaceX Starship 火箭垂直升空的画面，展现细腻的反射效果与纹理。
-
-#### 📝 提示词
-
-```
-电影级超写实 10 秒无人机航拍。天气晴朗，天空湛蓝，点缀着稀疏的白云，自然光强烈，阴影清晰锐利。无人机从巨大的不锈钢 Starship 火箭底部近距离起飞，紧邻轨道发射台发动机和黑色基座结构。镜头沿着 Starship 的箭体进行强劲、平滑、连续且加速的垂直上升，全程贴近抛光不锈钢箭壁飞行。动态向上倾斜的镜头紧随火箭表面，展现出每一个超现实的细节：带有可见焊缝的反射式不锈钢面板、精密的六边形隔热瓦、前襟翼、栅格舵以及直冲云霄的尖锐鼻锥。通过广角无人机镜头（等效 24-35mm）、细腻的自然相机抖动和逼真的运动模糊来实现真实感。创作一个具有平滑电影感运动、超写实纹理与反射、8K 分辨率、IMAX 品质以及《国家地理》纪录片风格的无人机航拍画面。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c8034ff8719905670778edb2dc3f5aa8/thumbnails/thumbnail.jpg" width="600" alt="SpaceX Starship 火箭垂直升空无人机航拍">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6061)**
-
-**作者:** [Drone V Drone](https://x.com/drone_v_drone) | **来源:** [Link](https://x.com/drone_v_drone/status/2066001253549981818) | **发布时间:** Jun 14, 2026
-
----
-### 巴塞罗那海滩上的空灵天使
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是一段详细的描述性提示词，用于生成一段关于在黄金时刻站在海滩上的空灵天使的动画，她拥有金色羽毛和绿色眼睛。
-
-#### 📝 提示词
-
-```
-拥有闪亮浅绿色眼睛的空灵天使，周围漂浮着 24k 金羽毛，隐形的翅膀，在黄金时刻优雅地站在巴塞罗那海滩上，神圣的女性能量，天界之美，梦幻且明亮
-•  空灵天使
-•  天界之美
-•  神圣女性
-•  黄金时刻女神
-•  神秘天使
-•  天界生物
-•  梦幻天使
-•  超凡之美
-•  天使般的存在
-•  明亮天使
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e93302c0291c27c8f192a971f7ef2eb1/thumbnails/thumbnail.jpg" width="600" alt="巴塞罗那海滩上的空灵天使">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6033)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2065908255382184326) | **发布时间:** Jun 13, 2026
-
----
-### 圣经场景电影感静态镜头
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个受旧约《但以理书》启发，用于生成静态镜头的电影感视频提示词。
-
-#### 📝 提示词
-
-```
-静态镜头，看起来像是出自旧约《但以理书》中的故事
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0832c01c153ba6a6966e4672e269439a/thumbnails/thumbnail.jpg" width="600" alt="圣经场景电影感静态镜头">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6028)**
-
-**作者:** [Mary Jeanne Bautista Concepcion Cincotta](https://x.com/CincottaMary) | **来源:** [Link](https://x.com/CincottaMary/status/2065903975052751107) | **发布时间:** Jun 13, 2026
-
----
-### 冲浪于巨浪管状浪中
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个动作提示词，描绘了一名冲浪者在巨大的管状浪中冲浪的场景。
-
-#### 📝 提示词
-
-```
-想象他站在冲浪板上，在管状浪中穿行，并大喊着：“感谢 ondoggie 教我冲浪！”
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4609057e0760947ba35a3b1256e60ea2/thumbnails/thumbnail.jpg" width="600" alt="冲浪于巨浪管状浪中">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6034)**
-
-**作者:** [Jason t](https://x.com/doctani79) | **来源:** [Link](https://x.com/doctani79/status/2065886545970942265) | **发布时间:** Jun 13, 2026
-
----
-### 电影级奢华行李箱视频广告
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个为奢华行李箱品牌打造的专业电影级视频提示词，场景设定为城市公交站的数字广告牌，模特置身其中。
-
-#### 📝 提示词
-
-```
-电影级超现实奢华行李箱广告，场景位于现代城市公交站，街头建筑中嵌入了一块巨大的黑色边框数字广告牌。广告牌屏幕内，一位时尚模特身穿米色定制西装外套、深色长裤，脚蹬同色系米色高跟鞋，手持一套高端硬壳行李箱。她站在站台上，仿佛正要步入或走出画面。灯光采用高端商业风格，带有柔和的光晕和清晰的反射。电影级 8k 画质，照片级真实感，优雅且具有都市时尚感。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/93f5ee4787e6a616e30b49e9cdf6ea30/thumbnails/thumbnail.jpg" width="600" alt="电影级奢华行李箱视频广告">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6027)**
-
-**作者:** [Alamgir Hossain](https://x.com/mdalamgir95) | **来源:** [Link](https://x.com/mdalamgir95/status/2065846622324674965) | **发布时间:** Jun 13, 2026
-
----
-### 山间电影感对话场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段叙事视频提示词，包含镜头平移扫过山脉与森林，以及角色 Jilla 和 Rolf 之间的对话。
-
-#### 📝 提示词
-
-```
-Jilla 停下脚步，凝视着周围的美景。镜头平移扫过周遭的山峦、流淌的河流、潺潺的溪水，以及在数千英尺下方松树林中吹拂的微风。
-
-Rolf 说道：“真美啊，Jilla，不是吗？”
-
-Jilla 惊叹道：“这一幕值得铭记于心。”她看向 Rolf，露出了微笑。
-
-Rolf 说道：“这趟攀登很值得。”
-
-Jilla 说道：“每一步都值得。”
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/753193e18c82e85956747b8d78ce3e96/thumbnails/thumbnail.jpg" width="600" alt="山间电影感对话场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6030)**
-
-**作者:** [Kim Maria](https://x.com/KimMari46054539) | **来源:** [Link](https://x.com/KimMari46054539/status/2065845361697038839) | **发布时间:** Jun 13, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2223,6 +2207,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-06-22T05:21:34.599Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-06-22T13:58:38.723Z</sub>
 
 </div>

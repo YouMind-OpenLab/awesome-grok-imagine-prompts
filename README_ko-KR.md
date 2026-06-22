@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **1912** |
+| 📝 총 프롬프트 수 | **1919** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-06-22** |
 
@@ -189,6 +189,65 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 장갑을 낀 춤추는 아기 고양이들
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 장갑을 끼고 즐겁고 활기차게 춤추며 노래하는 아기 고양이들의 모습을 담은 유쾌한 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+장갑을 낀 아기 고양이들이 즐겁고 활기찬 몸짓과 장난기 넘치는 표정으로 “우리는 장갑 낀 아기 고양이”라고 노래하며 춤을 추기 시작합니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068748943706759168/img/A37zMRy8vrFNq5Yp.jpg" width="600" alt="장갑을 낀 춤추는 아기 고양이들">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6318)**
+
+**작성자:** [Imedi](https://x.com/Imedigeorgia) | **출처:** [Link](https://x.com/Imedigeorgia/status/2068749043334054054) | **게시일:** Jun 21, 2026
+
+---
+### 장갑을 낀 춤추는 아기 고양이들
+
+![한국어](https://img.shields.io/badge/lang-한국어-orange)
+
+> Grok Imagine을 위한 사랑스러운 비디오 프롬프트로, 장갑을 낀 아기 고양이들이 장난기 넘치는 표정으로 즐거운 노래를 부르며 춤을 추는 모습입니다.
+
+#### 📝 프롬프트
+
+```
+장갑을 낀 아기 고양이들이 춤을 추며 노래를 시작합니다. 고양이들은 "우리는 장갑을 낀 아기 고양이들"이라는 노래를 활기차고 생동감 넘치는 동작과 장난기 가득한 표정으로 부릅니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068748005579108352/img/7_sXRpv2d-A3dfkq.jpg" width="600" alt="장갑을 낀 춤추는 아기 고양이들">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6323)**
+
+**작성자:** [아까긋마](https://x.com/sfbbang) | **출처:** [Link](https://x.com/sfbbang/status/2068748971783381469) | **게시일:** Jun 21, 2026
+
+---
+### 구름 위 고대의 수호신들
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 노을이 지는 안개 낀 산맥 위, 화려한 갑옷을 입은 거대한 고대 신들과 그 앞의 외로운 전사를 담은 영화 같은 판타지 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+걸작, 최고 품질, 노을이 지는 안개 낀 산맥 위 구름 속에 서 있는 거대한 고대 수호신들을 담은 초정밀 영화적 판타지 일러스트. 신들은 화려한 전통 갑옷을 입고 있으며 극적인 조명 효과가 더해짐. 작은 전사 한 명이 구름을 타고 그들 아래를 비행함. 주황색과 파란색 구름이 어우러진 웅장한 하늘. 매우 상세하게 묘사된 캐릭터, 구름, 산, 그리고 조명. 
+
+구름 위에 서 있는 네 명의 고대 신들과 그들을 향해 검을 타고 날아가는 외로운 전사.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068723896266993664/img/HpGGCjsBsr5Guch-.jpg" width="600" alt="구름 위 고대의 수호신들">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6317)**
+
+**작성자:** [⭕Kisalay](https://x.com/Kisalay_) | **출처:** [Link](https://x.com/Kisalay_/status/2068723970707448246) | **게시일:** Jun 21, 2026
+
+---
 ### 부르즈 할리파 근처의 할리우드 배우
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +265,25 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6292)**
 
 **작성자:** [Ijaz Malik](https://x.com/Ijazmalik101) | **출처:** [Link](https://x.com/Ijazmalik101/status/2068609842198225254) | **게시일:** Jun 21, 2026
+
+---
+### 빛나는 물의 숲 밤 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 별이 빛나는 하늘 아래 안개 낀 숲속, 빛나는 물속에 서 있는 인물을 담은 몽환적인 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+마치 밤 그 자체가 그녀를 감싸 안은 듯, 그녀가 빛나는 물속에 서 있습니다. 숲이 안개와 별빛을 내뿜는 동안, 그녀의 발치에서 빛이 부드럽게 일렁입니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068490361069076480/img/6BmW0ohNA3wEaGZ-.jpg" width="600" alt="빛나는 물의 숲 밤 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6321)**
+
+**작성자:** [SophieZX](https://x.com/Z_XSophie) | **출처:** [Link](https://x.com/Z_XSophie/status/2068490736463384650) | **게시일:** Jun 21, 2026
 
 ---
 ### 만화경 우주 돌고래 영상
@@ -744,6 +822,25 @@ UFO가 끌어당기는 것처럼 아이가 지면에서 떠오르며, 카메라�
 **작성자:** [kramrogNL (33.3%)](https://x.com/kramrogNL) | **출처:** [Link](https://x.com/kramrogNL/status/2067943364117266808) | **게시일:** Jun 19, 2026
 
 ---
+### 트릴리오네어 애니메이션 스토리
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 남아프리카 공화국 출신의 소년이 조만장자가 되기까지의 여정을 담은 애니메이션 내러티브 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+남아프리카 공화국 출신의 평범한 소년이 세계 최초의 조만장자가 되기까지의 여정을 그린 애니메이션 이야기
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2066579935943147521/img/zWNMK7sOkThlgTRe.jpg" width="600" alt="트릴리오네어 애니메이션 스토리">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6320)**
+
+**작성자:** [SMX 🇺🇸](https://x.com/iam_smx) | **출처:** [Link](https://x.com/iam_smx/status/2067899026339447040) | **게시일:** Jun 19, 2026
+
+---
 ### 부다페스트 페이퍼 컷 스타일 애니메이션
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -756,7 +853,7 @@ UFO가 끌어당기는 것처럼 아이가 지면에서 떠오르며, 카메라�
 헝가리 부다페스트. 역사적인 건축물과 다뉴브 강, 그리고 시간이 멈춘 듯한 거리가 아름다운 페이퍼 컷 세계 속에서 하나로 어우러집니다.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1781944914037_s5lt12_HLKjCZbWgAAW4Xd.jpg" width="600" alt="부다페스트 페이퍼 컷 스타일 애니메이션">
+<img src="https://cms-assets.youmind.com/media/1782121028754_405t5z_HLKjCZbWgAAW4Xd.jpg" width="600" alt="부다페스트 페이퍼 컷 스타일 애니메이션">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6255)**
 
@@ -1048,6 +1145,25 @@ Elon을 천재처럼 보이게 만들어 봅시다. 시작하죠. Optimus가 집
 **작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2067598831827484846) | **게시일:** Jun 18, 2026
 
 ---
+### 일본의 루프탑 가든에서 맞이하는 황혼
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 별이 빛나는 하늘 아래 일본의 도시 야경과 루프탑 가든이 어우러진 평화로운 황혼 풍경을 묘사한 시네마틱 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+일본의 황혼, 아래로 펼쳐진 따스한 도시의 불빛, 위로는 고요한 루프탑 가든, 그리고 별들로 수놓아진 하늘.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067593205680586752/img/rswrSoM2iHi1oZ8Y.jpg" width="600" alt="일본의 루프탑 가든에서 맞이하는 황혼">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6319)**
+
+**작성자:** [Mr Das](https://x.com/MrDasOnX) | **출처:** [Link](https://x.com/MrDasOnX/status/2067593250354213218) | **게시일:** Jun 18, 2026
+
+---
 ### 일본식 테이블 상차림으로 향하는 시네마틱 돌리 인
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1065,6 +1181,25 @@ Elon을 천재처럼 보이게 만들어 봅시다. 시작하죠. Optimus가 집
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6212)**
 
 **작성자:** [淼儿](https://x.com/tasakimori) | **출처:** [Link](https://x.com/tasakimori/status/2067589992281674195) | **게시일:** Jun 18, 2026
+
+---
+### 연분홍 장미와 몽상가 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 분홍색 장미와 몽상가를 감싸는 꿈결 같은 빛이 어우러진 로맨틱하고 부드러운 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+부드러운 몽상가 주변으로 피어나는 연분홍 장미… 꽃잎과 꿈결 같은 빛에 감싸인 다정한 속삭임.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067564271375134720/img/Kaj3_BjTZTb4EG6a.jpg" width="600" alt="연분홍 장미와 몽상가 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6322)**
+
+**작성자:** [Stella 𝕏](https://x.com/StellaGrokStar) | **출처:** [Link](https://x.com/StellaGrokStar/status/2067564344557420569) | **게시일:** Jun 18, 2026
 
 ---
 ### 커피를 마시는 사자
@@ -1319,7 +1454,7 @@ Stranger in a Strange Land의 시작 부분: 첫 화성 탐사대, 그리고 Val
 ---
 ### 왕좌의 게임 드래곤 비행 시네마틱 영상
 
-![English](https://img.shields.io/badge/lang-English-blue)
+![中文](https://img.shields.io/badge/lang-中文-red)
 
 > 왕좌의 게임에서 영감을 받아 사실적인 물리 효과와 조명을 갖춘, 에픽 드래곤 비행 시퀀스로 참조 이미지를 애니메이션화하기 위한 고도로 상세한 시네마틱 프롬프트입니다.
 
@@ -2006,157 +2141,6 @@ environment: 평화로운
 **작성자:** [Brent Lynch](https://x.com/BrentLynch) | **출처:** [Link](https://x.com/BrentLynch/status/2066014432543883673) | **게시일:** Jun 14, 2026
 
 ---
-### 온화한 영혼의 댄서 필리
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Spirit Dancer라는 이름의 어리고 온순한 성격의 말을 위한 캐릭터 프롬프트로, 위엄을 내세우기보다 섬세하고 부드러운 기질을 강조합니다.
-
-#### 📝 프롬프트
-
-```
-Spirit Dancer는 온화합니다. 그녀는 다정하고 어리며 부드러운 성격을 지닌, 황금빛 영혼을 가진 사랑스러운 망아지입니다. 위엄 있거나 위압적이지 않으며, 섬세한 존재입니다. 그녀는 보호가 필요한 아이입니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e79f7189f7c07c377fbff84c15e9e88/thumbnails/thumbnail.jpg" width="600" alt="온화한 영혼의 댄서 필리">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6056)**
-
-**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2066010696832180333) | **게시일:** Jun 14, 2026
-
----
-### Starship 로켓 수직 상승 드론 샷
-
-![한국어](https://img.shields.io/badge/lang-한국어-orange)
-
-> SpaceX Starship 로켓의 수직 상승 장면을 상세한 반사 효과와 질감으로 담아낸 Grok Imagine용 영화 같은 초현실적 드론 샷 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-영화 같은 초현실적 10초 드론 샷. 맑고 화창한 날씨, 완벽한 푸른 하늘과 흩어진 흰 구름, 강렬한 자연광, 선명하고 또렷한 그림자. 드론은 거대한 스테인리스 스틸 Starship 로켓의 하단부, 궤도 발사대 엔진과 검은색 베이스 구조물 바로 옆에서 아주 가깝게 시작합니다. 드론은 Starship의 몸체를 따라 강력하고 부드러우며 연속적으로 가속하며 수직 상승하며, 비행 내내 광택이 나는 스테인리스 스틸 벽면과 매우 가깝게 유지합니다. 역동적인 상향 카메라 틸트가 로켓 표면을 밀착 추적하며 초현실적인 디테일을 모두 드러냅니다. 용접선이 보이는 반사형 스테인리스 스틸 패널, 정밀한 육각형 열 차폐 타일, 전방 플랩, 그리드 핀, 그리고 하늘을 향해 뻗은 날카로운 노즈 콘까지 생생하게 담아냅니다. 광각 드론 렌즈(24-35mm 환산), 섬세한 자연스러운 카메라 흔들림, 사실적인 모션 블러를 통해 현장감을 극대화했습니다. 부드러운 영화적 움직임, 초현실적인 질감과 반사, 8K 해상도, IMAX 품질, National Geographic 영화 스타일의 드론 샷을 생성하세요.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c8034ff8719905670778edb2dc3f5aa8/thumbnails/thumbnail.jpg" width="600" alt="Starship 로켓 수직 상승 드론 샷">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6061)**
-
-**작성자:** [Drone V Drone](https://x.com/drone_v_drone) | **출처:** [Link](https://x.com/drone_v_drone/status/2066001253549981818) | **게시일:** Jun 14, 2026
-
----
-### 바르셀로나 해변의 신비로운 천사
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 골든 아워의 바르셀로나 해변에 서 있는, 황금빛 깃털과 녹색 눈을 가진 신비로운 천사의 애니메이션을 생성하기 위한 상세한 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-빛나는 연두색 눈을 가진 신비로운 천사, 주변을 떠다니는 24k 황금빛 깃털, 보이지 않는 날개, 골든 아워의 바르셀로나 해변에 우아하게 서 있는 모습, 신성한 여성적 에너지, 천상의 아름다움, 꿈결 같고 빛나는 분위기
-•  신비로운 천사
-•  천상의 아름다움
-•  신성한 여성성
-•  골든 아워의 여신
-•  영적인 천사
-•  천상의 존재
-•  꿈결 같은 천사
-•  초현실적인 아름다움
-•  천사 같은 존재감
-•  빛나는 천사
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e93302c0291c27c8f192a971f7ef2eb1/thumbnails/thumbnail.jpg" width="600" alt="바르셀로나 해변의 신비로운 천사">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6033)**
-
-**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2065908255382184326) | **게시일:** Jun 13, 2026
-
----
-### 성경적 장면의 영화 같은 정적 샷
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 구약성경 다니엘서에서 영감을 받은 정적 샷을 위한 영화 같은 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-구약성경 다니엘서의 이야기처럼 보이는 정적 샷
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0832c01c153ba6a6966e4672e269439a/thumbnails/thumbnail.jpg" width="600" alt="성경적 장면의 영화 같은 정적 샷">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6028)**
-
-**작성자:** [Mary Jeanne Bautista Concepcion Cincotta](https://x.com/CincottaMary) | **출처:** [Link](https://x.com/CincottaMary/status/2065903975052751107) | **게시일:** Jun 13, 2026
-
----
-### 거대한 파도 속 서핑
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 거대한 파도의 튜브 속을 서핑하는 서퍼를 묘사한 액션 프롬프트.
-
-#### 📝 프롬프트
-
-```
-서핑을 가르쳐 준 ondoggie에게 고맙다고 외치며 서프보드를 타고 거대한 파도의 튜브 속을 달리는 그의 모습을 상상해 보세요
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4609057e0760947ba35a3b1256e60ea2/thumbnails/thumbnail.jpg" width="600" alt="거대한 파도 속 서핑">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6034)**
-
-**작성자:** [Jason t](https://x.com/doctani79) | **출처:** [Link](https://x.com/doctani79/status/2065886545970942265) | **게시일:** Jun 13, 2026
-
----
-### 럭셔리 여행 가방 시네마틱 광고 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 도심 버스 정류장의 디지털 빌보드에 등장하는 모델을 활용한 럭셔리 여행 가방 브랜드용 전문 시네마틱 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-현대적인 도심 버스 정류장을 배경으로 한 초현실적 럭셔리 여행 가방 시네마틱 광고. 거리 건축물과 일체화된 대형 검은색 프레임의 디지털 빌보드가 특징입니다. 빌보드 화면 속에는 베이지색 테일러드 블레이저와 어두운색 바지, 깔끔한 베이지색 하이힐을 착용한 패션 모델이 고급 하드쉘 여행 가방 세트를 들고 있습니다. 모델은 마치 장면 속으로 걸어 들어가거나 나오는 듯한 모습으로 플랫폼 위에 서 있습니다. 부드러운 빛과 선명한 반사가 돋보이는 고급스러운 상업 광고 스타일의 조명입니다. 시네마틱 8k, 사실적 묘사, 우아함, 어반 시크 스타일.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/93f5ee4787e6a616e30b49e9cdf6ea30/thumbnails/thumbnail.jpg" width="600" alt="럭셔리 여행 가방 시네마틱 광고 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6027)**
-
-**작성자:** [Alamgir Hossain](https://x.com/mdalamgir95) | **출처:** [Link](https://x.com/mdalamgir95/status/2065846622324674965) | **게시일:** Jun 13, 2026
-
----
-### 산속의 영화 같은 대화 장면
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 산과 숲을 가로지르는 팬 카메라와 Jilla, Rolf 두 캐릭터 간의 대화가 포함된 내러티브 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-Jilla는 잠시 멈춰 서서 주변의 아름다운 풍경을 바라봅니다. 카메라는 수천 피트 아래에 펼쳐진 산과 흐르는 강, 보글거리는 시냇물, 그리고 소나무 숲 사이로 부는 부드러운 바람을 따라 팬(pan)합니다.
-
-Rolf가 말합니다. "정말 아름답지, Jilla?"
-
-Jilla는 경외심에 찬 목소리로 대답합니다. "마음속에 간직할 만한 풍경이야." 그녀는 Rolf를 바라보며 미소 짓습니다.
-
-Rolf가 말합니다. "올라온 보람이 있네."
-
-Jilla가 말합니다. "한 걸음 한 걸음 모두 다."
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/753193e18c82e85956747b8d78ce3e96/thumbnails/thumbnail.jpg" width="600" alt="산속의 영화 같은 대화 장면">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6030)**
-
-**작성자:** [Kim Maria](https://x.com/KimMari46054539) | **출처:** [Link](https://x.com/KimMari46054539/status/2065845361697038839) | **게시일:** Jun 13, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2218,6 +2202,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-22T05:21:37.515Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-22T13:58:41.461Z</sub>
 
 </div>

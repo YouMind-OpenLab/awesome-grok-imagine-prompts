@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1912** |
+| 📝 Total Prompts | **1919** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-22** |
 
@@ -189,6 +189,65 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### दस्ताने पहने नाचते हुए बिल्ली के बच्चे
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> दस्ताने पहने हुए बिल्ली के बच्चों का एक आनंदमय और ऊर्जावान वीडियो प्रॉम्प्ट, जो चंचल भावों के साथ नाच रहे हैं और गा रहे हैं।
+
+#### 📝 Prompt
+
+```
+दस्ताने पहने हुए बिल्ली के बच्चे आनंदमय, ऊर्जावान गतिविधियों और चंचल भावों के साथ “we’re kittens with mittens” गाते हुए और नाचते हुए शुरू करते हैं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068748943706759168/img/A37zMRy8vrFNq5Yp.jpg" width="600" alt="दस्ताने पहने नाचते हुए बिल्ली के बच्चे">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6318)**
+
+**Author:** [Imedi](https://x.com/Imedigeorgia) | **Source:** [Link](https://x.com/Imedigeorgia/status/2068749043334054054) | **Published:** Jun 21, 2026
+
+---
+### दस्ताने पहने नाचते हुए बिल्ली के बच्चे
+
+![한국어](https://img.shields.io/badge/lang-한국어-orange)
+
+> Grok Imagine के लिए एक प्यारा वीडियो प्रॉम्प्ट, जिसमें दस्ताने पहने बिल्ली के बच्चे चंचल भावों के साथ एक खुशमिजाज गाना गाते और नाचते हुए दिखाई देते हैं।
+
+#### 📝 Prompt
+
+```
+दस्ताने पहने बिल्ली के बच्चे नाचना और गाना शुरू करते हैं। वे "We are kittens wearing mittens" गाना गाते हैं और साथ ही खुशमिजाज, जीवंत हरकतें और चंचल भाव प्रदर्शित करते हैं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068748005579108352/img/7_sXRpv2d-A3dfkq.jpg" width="600" alt="दस्ताने पहने नाचते हुए बिल्ली के बच्चे">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6323)**
+
+**Author:** [아까긋마](https://x.com/sfbbang) | **Source:** [Link](https://x.com/sfbbang/status/2068748971783381469) | **Published:** Jun 21, 2026
+
+---
+### बादलों के ऊपर प्राचीन रक्षक देवता
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सिनेमैटिक फैंटेसी वीडियो प्रॉम्प्ट जिसमें सूर्यास्त के समय धुंधले पहाड़ों के ऊपर अलंकृत कवच पहने विशाल प्राचीन देवता और एक अकेला योद्धा दिखाई दे रहा है।
+
+#### 📝 Prompt
+
+```
+मास्टरपीस, सर्वोत्तम गुणवत्ता, सूर्यास्त के समय धुंधले पहाड़ों के ऊपर बादलों पर खड़े कई विशाल प्राचीन रक्षक देवताओं का अति-विस्तृत सिनेमैटिक फैंटेसी चित्रण। देवता अलंकृत पारंपरिक कवच में हैं और उन पर नाटकीय प्रकाश पड़ रहा है। एक छोटा योद्धा उनके नीचे एक बादल पर उड़ रहा है। नारंगी और नीले बादलों वाला भव्य आकाश। अत्यधिक विस्तृत पात्र, बादल, पहाड़ और लाइटिंग।
+
+चार प्राचीन देवता बादलों के ऊपर खड़े हैं जबकि एक अकेला योद्धा अपनी तलवार पर सवार होकर उनकी ओर उड़ रहा है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068723896266993664/img/HpGGCjsBsr5Guch-.jpg" width="600" alt="बादलों के ऊपर प्राचीन रक्षक देवता">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6317)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2068723970707448246) | **Published:** Jun 21, 2026
+
+---
 ### बुर्ज खलीफा के पास हॉलीवुड अभिनेता
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +265,25 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6292)**
 
 **Author:** [Ijaz Malik](https://x.com/Ijazmalik101) | **Source:** [Link](https://x.com/Ijazmalik101/status/2068609842198225254) | **Published:** Jun 21, 2026
+
+---
+### Glowing Water Forest Night प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> तारों भरी रात के नीचे धुंधले जंगल के भीतर चमकते पानी में एक आकृति वाले दृश्य के लिए एक अलौकिक वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+वह चमकते पानी में इस तरह खड़ी है मानो रात खुद उसे थामे हुए हो। उसके पैरों के चारों ओर रोशनी धीरे-धीरे चल रही है जबकि जंगल धुंध और तारों के साथ सांस ले रहा है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068490361069076480/img/6BmW0ohNA3wEaGZ-.jpg" width="600" alt="Glowing Water Forest Night प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6321)**
+
+**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2068490736463384650) | **Published:** Jun 21, 2026
 
 ---
 ### बहुरंगी ब्रह्मांडीय डॉल्फिन वीडियो
@@ -744,6 +822,25 @@ Sebring को रिस्टोर करें, उस पर लिपटी
 **Author:** [kramrogNL (33.3%)](https://x.com/kramrogNL) | **Source:** [Link](https://x.com/kramrogNL/status/2067943364117266808) | **Published:** Jun 19, 2026
 
 ---
+### Trillionaire Anime Story
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> दक्षिण अफ्रीका के एक लड़के के दुनिया का पहला ट्रिलियनेयर बनने तक के सफर को दर्शाने वाला एक एनिमे नैरेटिव प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+दक्षिण अफ्रीका के एक साधारण लड़के की दुनिया का पहला ट्रिलियनेयर बनने तक के सफर की एनिमे कहानी
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2066579935943147521/img/zWNMK7sOkThlgTRe.jpg" width="600" alt="Trillionaire Anime Story">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6320)**
+
+**Author:** [SMX 🇺🇸](https://x.com/iam_smx) | **Source:** [Link](https://x.com/iam_smx/status/2067899026339447040) | **Published:** Jun 19, 2026
+
+---
 ### बुडापेस्ट पेपर-कट वर्ल्ड एनिमेशन
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -756,7 +853,7 @@ Sebring को रिस्टोर करें, उस पर लिपटी
 बुडापेस्ट, हंगरी। जहाँ ऐतिहासिक वास्तुकला, डेन्यूब नदी और सदाबहार गलियाँ एक सुंदर पेपर-कट दुनिया में एक साथ मिलती हैं।
 ```
 
-<img src="https://cms-assets.youmind.com/media/1781944914037_s5lt12_HLKjCZbWgAAW4Xd.jpg" width="600" alt="बुडापेस्ट पेपर-कट वर्ल्ड एनिमेशन">
+<img src="https://cms-assets.youmind.com/media/1782121028754_405t5z_HLKjCZbWgAAW4Xd.jpg" width="600" alt="बुडापेस्ट पेपर-कट वर्ल्ड एनिमेशन">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6255)**
 
@@ -1048,6 +1145,25 @@ Sebring को रिस्टोर करें, उस पर लिपटी
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2067598831827484846) | **Published:** Jun 18, 2026
 
 ---
+### जापान के रूफटॉप गार्डन में गोधूलि बेला
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सिनेमाई वीडियो प्रॉम्प्ट जो जापान में तारों भरे आकाश के नीचे शहर की रोशनी और रूफटॉप गार्डन वाले एक शांत गोधूलि दृश्य का वर्णन करता है।
+
+#### 📝 Prompt
+
+```
+जापान में गोधूलि बेला, नीचे शहर की गर्म रोशनी, ऊपर एक शांत रूफटॉप गार्डन, और तारों से सजा आकाश।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067593205680586752/img/rswrSoM2iHi1oZ8Y.jpg" width="600" alt="जापान के रूफटॉप गार्डन में गोधूलि बेला">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6319)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2067593250354213218) | **Published:** Jun 18, 2026
+
+---
 ### जापानी टेबल स्प्रेड का सिनेमैटिक डॉली-इन
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1065,6 +1181,25 @@ Sebring को रिस्टोर करें, उस पर लिपटी
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6212)**
 
 **Author:** [淼儿](https://x.com/tasakimori) | **Source:** [Link](https://x.com/tasakimori/status/2067589992281674195) | **Published:** Jun 18, 2026
+
+---
+### Soft Pink Roses Dreamer प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> गुलाबी गुलाबों और सपने देखने वाले के चारों ओर स्वप्निल रोशनी वाला एक रोमांटिक और सॉफ्ट वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+एक सौम्य सपने देखने वाले के चारों ओर खिलते हुए हल्के गुलाबी गुलाब... पंखुड़ियों और स्वप्निल रोशनी में लिपटी हुई एक कोमल फुसफुसाहट।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067564271375134720/img/Kaj3_BjTZTb4EG6a.jpg" width="600" alt="Soft Pink Roses Dreamer प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6322)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2067564344557420569) | **Published:** Jun 18, 2026
 
 ---
 ### कॉफी पीता हुआ शेर
@@ -1319,7 +1454,7 @@ start with image @image1 and end with @image2 as the men walk through an open do
 ---
 ### Game of Thrones ड्रैगन फ्लाइट सिनेमैटिक वीडियो
 
-![English](https://img.shields.io/badge/lang-English-blue)
+![中文](https://img.shields.io/badge/lang-中文-red)
 
 > Game of Thrones से प्रेरित एक महाकाव्य ड्रैगन उड़ान अनुक्रम में एक संदर्भ छवि को एनिमेट करने के लिए एक अत्यधिक विस्तृत सिनेमैटिक प्रॉम्प्ट, जिसमें यथार्थवादी भौतिकी और प्रकाश व्यवस्था शामिल है।
 
@@ -2015,157 +2150,6 @@ environment: शांत
 **Author:** [Brent Lynch](https://x.com/BrentLynch) | **Source:** [Link](https://x.com/BrentLynch/status/2066014432543883673) | **Published:** Jun 14, 2026
 
 ---
-### जेंटल स्पिरिट डांसर फिली
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> स्पिरिट डांसर नाम की एक युवा, सौम्य स्वभाव वाली घोड़ी के लिए एक कैरेक्टर प्रॉम्प्ट, जो उसके नाजुक और गैर-शाही स्वभाव पर जोर देता है।
-
-#### 📝 Prompt
-
-```
-स्पिरिट डांसर बहुत सौम्य है। वह प्यारी, युवा और नरम स्वभाव की है — एक सुनहरी आत्मा वाली नाजुक सी बछड़ी। वह शाही या प्रभावशाली नहीं है। वह बहुत नाजुक है। उसे सुरक्षा की जरूरत है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e79f7189f7c07c377fbff84c15e9e88/thumbnails/thumbnail.jpg" width="600" alt="जेंटल स्पिरिट डांसर फिली">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6056)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2066010696832180333) | **Published:** Jun 14, 2026
-
----
-### स्टारशिप रॉकेट के वर्टिकल एसेंट का ड्रोन शॉट
-
-![한국어](https://img.shields.io/badge/lang-한국어-orange)
-
-> Grok Imagine के लिए एक सिनेमैटिक और हाइपर-रियलिस्टिक ड्रोन शॉट प्रॉम्प्ट, जो SpaceX स्टारशिप रॉकेट के वर्टिकल एसेंट (ऊर्ध्वाधर चढ़ाई) को विस्तृत रिफ्लेक्शन और टेक्सचर के साथ कैप्चर करता है।
-
-#### 📝 Prompt
-
-```
-सिनेमैटिक हाइपर-रियलिस्टिक 10-सेकंड का ड्रोन शॉट। चमकदार और धूप वाला मौसम, साफ नीला आसमान और छितरे हुए सफेद बादल, तेज प्राकृतिक रोशनी और स्पष्ट, तीखी परछाइयां। ड्रोन विशाल स्टेनलेस स्टील स्टारशिप रॉकेट के बेस के बहुत करीब से शुरू होता है, जो ऑर्बिटल लॉन्च पैड इंजन और काले बेस स्ट्रक्चर के ठीक बगल में है। यह स्टारशिप की बॉडी के साथ एक शक्तिशाली, सहज, निरंतर और त्वरित वर्टिकल एसेंट (ऊर्ध्वाधर चढ़ाई) करता है, जो पूरी उड़ान के दौरान पॉलिश किए गए स्टेनलेस स्टील की दीवारों के बहुत करीब रहता है। डायनामिक अपवर्ड कैमरा टिल्ट रॉकेट की सतह का बारीकी से अनुसरण करता है, जिससे हर एक अद्भुत विवरण दिखाई देता है: रिफ्लेक्टिव स्टेनलेस स्टील पैनल जिसमें वेल्ड लाइनें दिखाई दे रही हैं, सटीक हेक्सागोनल हीट शील्ड टाइलें, फॉरवर्ड फ्लैप्स, ग्रिड फिन्स और आसमान की ओर बढ़ता हुआ शार्प नोज कोन। प्रमाणिकता एक ग्रैंड वाइड-एंगल ड्रोन लेंस (24-35mm समकक्ष), हल्के प्राकृतिक कैमरा शेक और यथार्थवादी मोशन ब्लर के माध्यम से प्राप्त की गई है। सहज सिनेमैटिक मूवमेंट, हाइपर-रियलिस्टिक टेक्सचर और रिफ्लेक्शन, 8K रेजोल्यूशन, IMAX क्वालिटी और नेशनल जियोग्राफिक फिल्म स्टाइल के साथ एक ड्रोन शॉट बनाएं।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c8034ff8719905670778edb2dc3f5aa8/thumbnails/thumbnail.jpg" width="600" alt="स्टारशिप रॉकेट के वर्टिकल एसेंट का ड्रोन शॉट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6061)**
-
-**Author:** [Drone V Drone](https://x.com/drone_v_drone) | **Source:** [Link](https://x.com/drone_v_drone/status/2066001253549981818) | **Published:** Jun 14, 2026
-
----
-### बार्सिलोना बीच पर अलौकिक परी
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> गोल्डन आवर के दौरान बार्सिलोना के समुद्र तट पर खड़ी सुनहरे पंखों और हरी आंखों वाली एक अलौकिक परी के एनीमेशन को जेनरेट करने के लिए एक विस्तृत वर्णनात्मक प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-चमकती हल्की हरी आंखों वाली अलौकिक परी, उसके चारों ओर तैरते 24k सोने के पंख, अदृश्य पंख, गोल्डन आवर के दौरान बार्सिलोना के समुद्र तट पर शालीनता से खड़ी, दिव्य स्त्री ऊर्जा, आकाशीय सुंदरता, स्वप्निल और प्रकाशमान
-• अलौकिक परी
-• आकाशीय सुंदरता
-• दिव्य स्त्रीत्व
-• गोल्डन आवर गॉडेस
-• रहस्यमयी परी
-• स्वर्गीय प्राणी
-• स्वप्निल परी
-• अलौकिक सुंदरता
-• देवदूत जैसी उपस्थिति
-• प्रकाशमान परी
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e93302c0291c27c8f192a971f7ef2eb1/thumbnails/thumbnail.jpg" width="600" alt="बार्सिलोना बीच पर अलौकिक परी">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6033)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2065908255382184326) | **Published:** Jun 13, 2026
-
----
-### बाइबिल के दृश्य का सिनेमैटिक स्टैटिक शॉट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> पुराने नियम (Old Testament) की डैनियल की पुस्तक (Book of Daniel) से प्रेरित एक स्टैटिक शॉट के लिए सिनेमैटिक वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-स्टैटिक शॉट, यह पुराने नियम की डैनियल की पुस्तक की कहानी जैसा दिखता है
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0832c01c153ba6a6966e4672e269439a/thumbnails/thumbnail.jpg" width="600" alt="बाइबिल के दृश्य का सिनेमैटिक स्टैटिक शॉट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6028)**
-
-**Author:** [Mary Jeanne Bautista Concepcion Cincotta](https://x.com/CincottaMary) | **Source:** [Link](https://x.com/CincottaMary/status/2065903975052751107) | **Published:** Jun 13, 2026
-
----
-### टाइडल वेव ट्यूब पर सर्फिंग
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक एक्शन प्रॉम्प्ट जो एक सर्फर को विशाल टाइडल वेव की ट्यूब के अंदर सवारी करते हुए दर्शाता है।
-
-#### 📝 Prompt
-
-```
-कल्पना कीजिए कि वह सर्फ़बोर्ड पर एक टाइडल वेव की ट्यूब में सवारी कर रहा है और चिल्ला रहा है, मुझे सर्फिंग सिखाने के लिए धन्यवाद ondoggie
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4609057e0760947ba35a3b1256e60ea2/thumbnails/thumbnail.jpg" width="600" alt="टाइडल वेव ट्यूब पर सर्फिंग">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6034)**
-
-**Author:** [Jason t](https://x.com/doctani79) | **Source:** [Link](https://x.com/doctani79/status/2065886545970942265) | **Published:** Jun 13, 2026
-
----
-### सिनेमैटिक लक्ज़री लगेज वीडियो कमर्शियल
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक लक्ज़री लगेज ब्रांड के लिए पेशेवर सिनेमैटिक वीडियो प्रॉम्प्ट, जिसमें शहरी बस स्टॉप पर डिजिटल बिलबोर्ड पर एक मॉडल दिखाई गई है।
-
-#### 📝 Prompt
-
-```
-आधुनिक शहरी बस स्टॉप पर सिनेमैटिक सरियल लक्ज़री लगेज कमर्शियल, जिसमें सड़क की वास्तुकला में एकीकृत एक बड़ा ब्लैक-फ्रेम डिजिटल बिलबोर्ड है। बिलबोर्ड स्क्रीन के अंदर, एक फैशन मॉडल जिसने बेज रंग का टेलर्ड ब्लेज़र, गहरे रंग की ट्राउज़र और मैचिंग बेज हाई हील्स पहनी हुई है, और उसने हाई-एंड हार्डशेल सूटकेस का सेट पकड़ा हुआ है। वह एक प्लेटफॉर्म पर खड़ी है जैसे कि वह दृश्य में कदम रख रही हो या बाहर निकल रही हो। लाइटिंग हाई-एंड कमर्शियल स्टाइल की है जिसमें सॉफ्ट ग्लो और शार्प रिफ्लेक्शंस हैं। सिनेमैटिक 8k, फोटो-रियलिस्टिक, एलिगेंट, अर्बन चिक।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/93f5ee4787e6a616e30b49e9cdf6ea30/thumbnails/thumbnail.jpg" width="600" alt="सिनेमैटिक लक्ज़री लगेज वीडियो कमर्शियल">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6027)**
-
-**Author:** [Alamgir Hossain](https://x.com/mdalamgir95) | **Source:** [Link](https://x.com/mdalamgir95/status/2065846622324674965) | **Published:** Jun 13, 2026
-
----
-### पहाड़ों में सिनेमाई संवाद दृश्य
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक नैरेटिव वीडियो प्रॉम्प्ट जिसमें पहाड़ों और जंगलों के ऊपर पैनिंग कैमरा और Jilla तथा Rolf पात्रों के बीच संवाद है।
-
-#### 📝 Prompt
-
-```
-Jilla अपने चारों ओर की सुंदरता को निहारने के लिए एक पल के लिए रुकती है। कैमरा आसपास के पहाड़ों, बहती नदियों, कल-कल करती धाराओं और हजारों फीट नीचे देवदार के पेड़ों के जंगल से होकर गुजरती मंद हवा की ओर पैन करता है।
-
-Rolf कहता है, "यह सुंदर है Jilla, है ना?"
-
-Jilla विस्मय के साथ कहती है, "एक ऐसा दृश्य जिसे दिल में संजो कर रखा जाए"। वह Rolf की ओर देखती है और मुस्कुराती है।
-
-Rolf कहता है: "चढ़ाई सार्थक रही।"
-
-Jilla कहती है: "हर कदम।"
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/753193e18c82e85956747b8d78ce3e96/thumbnails/thumbnail.jpg" width="600" alt="पहाड़ों में सिनेमाई संवाद दृश्य">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6030)**
-
-**Author:** [Kim Maria](https://x.com/KimMari46054539) | **Source:** [Link](https://x.com/KimMari46054539/status/2065845361697038839) | **Published:** Jun 13, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2227,6 +2211,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-22T05:21:40.528Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-22T13:58:43.976Z</sub>
 
 </div>

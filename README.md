@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1912** |
+| 📝 Total Prompts | **1919** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-22** |
 
@@ -189,6 +189,65 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Dancing Kittens with Mittens
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A joyful and energetic video prompt of kittens wearing mittens dancing and singing with playful expressions.
+
+#### 📝 Prompt
+
+```
+The kittens with mittens start dancing and singing “we’re kittens with mittens” with joyful, energetic movements and playful expressions.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068748943706759168/img/A37zMRy8vrFNq5Yp.jpg" width="600" alt="Dancing Kittens with Mittens">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6318)**
+
+**Author:** [Imedi](https://x.com/Imedigeorgia) | **Source:** [Link](https://x.com/Imedigeorgia/status/2068749043334054054) | **Published:** Jun 21, 2026
+
+---
+### Dancing Kittens in Mittens
+
+![한국어](https://img.shields.io/badge/lang-한국어-orange)
+
+> An adorable video prompt for Grok Imagine featuring kittens in mittens dancing and singing a cheerful song with playful expressions.
+
+#### 📝 Prompt
+
+```
+Kittens wearing mittens start dancing and singing. They sing the song "We are kittens wearing mittens" with cheerful and lively movements and playful expressions.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068748005579108352/img/7_sXRpv2d-A3dfkq.jpg" width="600" alt="Dancing Kittens in Mittens">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6323)**
+
+**Author:** [아까긋마](https://x.com/sfbbang) | **Source:** [Link](https://x.com/sfbbang/status/2068748971783381469) | **Published:** Jun 21, 2026
+
+---
+### Ancient Guardian Deities Above Clouds
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic fantasy video prompt featuring massive ancient gods in ornate armor standing above misty mountains at sunset with a lone warrior.
+
+#### 📝 Prompt
+
+```
+Masterpiece, best quality, ultra-detailed cinematic fantasy illustration of several massive ancient guardian deities standing on clouds above misty mountains at sunset. The gods are in ornate traditional armor with dramatic lighting. A small warrior flies below them on a cloud. Epic sky with orange and blue clouds. Highly detailed characters, clouds, mountains, and lighting. 
+
+Four ancient gods standing above the clouds while a lone warrior flies toward them on his sword.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068723896266993664/img/HpGGCjsBsr5Guch-.jpg" width="600" alt="Ancient Guardian Deities Above Clouds">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6317)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2068723970707448246) | **Published:** Jun 21, 2026
+
+---
 ### Hollywood Actor near Burj Khalifa
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +265,25 @@ Generate image of a popular Hollywood actor walking near burj khalif with Good a
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6292)**
 
 **Author:** [Ijaz Malik](https://x.com/Ijazmalik101) | **Source:** [Link](https://x.com/Ijazmalik101/status/2068609842198225254) | **Published:** Jun 21, 2026
+
+---
+### Glowing Water Forest Night Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An ethereal video prompt for a scene with a figure in glowing water inside a misty forest under a starry sky.
+
+#### 📝 Prompt
+
+```
+She stands in the glowing water as if the night itself is holding her. Light moves gently around her feet while the forest breathes mist and stars.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068490361069076480/img/6BmW0ohNA3wEaGZ-.jpg" width="600" alt="Glowing Water Forest Night Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6321)**
+
+**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2068490736463384650) | **Published:** Jun 21, 2026
 
 ---
 ### Kaleidoscopic Cosmic Dolphin Video
@@ -573,11 +651,11 @@ tiger growling on French sofa in luxury estate nostalgic vibe heavy shadows heav
 **Author:** [Love’s Last Icon](https://x.com/primusv1) | **Source:** [Link](https://x.com/primusv1/status/2068078806170993124) | **Published:** Jun 19, 2026
 
 ---
-### Cinematic Freckled Woman with Silver Crown
+### Ethereal Woman with Silver Veil
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed cinematic prompt for a woman with freckles, dark hair, and an intricate silver crown holding a medieval sword.
+> A cinematic and hyperrealistic prompt for a woman with freckles, holding a sword while draped in a sparkling silver veil.
 
 #### 📝 Prompt
 
@@ -585,7 +663,7 @@ tiger growling on French sofa in luxury estate nostalgic vibe heavy shadows heav
 woman with delicate freckles on nose and cheeks, wet dark hair strands sticking to her face. Ornate intricate silver crown with crystals, slightly thicker sheer sparkling silver veil dramatically draped over the left half of her face (covering one eye) and softly wrapping part of the sword. The veil has a delicate but more substantial translucent texture with fine glitter. She holds an ornate medieval sword with both hands, hilt and upper blade gently covered by the thicker veil near her chin and lips, multiple ornate silver rings on fingers. Very soft diffused side lighting, muted desaturated cool silvery-grey color palette, low saturation, elegant understated tones. Hyper detailed realistic skin texture, natural glossy lips, realistic fabric folds and light reflections on thicker veil. Razor sharp focus on visible eye, freckles and veil texture, shallow depth of field, soft dreamy bokeh, hyperrealistic, photorealistic, cinematic color grading.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068062467100418048/img/XAdGpdy3LIaC58ti.jpg" width="600" alt="Cinematic Freckled Woman with Silver Crown">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068062467100418048/img/XAdGpdy3LIaC58ti.jpg" width="600" alt="Ethereal Woman with Silver Veil">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6254)**
 
@@ -687,11 +765,11 @@ A lone man on an old ship, staring at something that shouldn’t be possible a c
 **Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067964231618789770) | **Published:** Jun 19, 2026
 
 ---
-### Sci-Fi Daft Punk Tesla Spacesuit
+### Daft Punk Tesla Arctic Explorer
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A creative sci-fi prompt for a woman in a Daft Punk helmet and Tesla spacesuit in an arctic landscape holding a baby and a plush toy.
+> A detailed cinematic prompt for a woman in a Daft Punk helmet and Tesla spacesuit within a snowy arctic tundra.
 
 #### 📝 Prompt
 
@@ -699,7 +777,7 @@ A lone man on an old ship, staring at something that shouldn’t be possible a c
 Ultra realistic photo, bright and luminous, soft bright lighting, high key lighting, lighter tones. Woman in glossy black and gold Daft Punk helmet with long flowing platinum white hair, wearing a matte brown and black Tesla spacesuit with Tesla logo on chest. She gently holds a baby in white teddy bear patterned onesie with mini Daft Punk helmet and small Tesla logo. She also holds a cute Shiba Inu plush toy. Vast bright snowy arctic tundra with distant mountains in the background, bright overcast sky, highly detailed, photorealistic, cinematic.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067963385082224641/img/mPBQNO2QyPbKEgD_.jpg" width="600" alt="Sci-Fi Daft Punk Tesla Spacesuit">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067963385082224641/img/mPBQNO2QyPbKEgD_.jpg" width="600" alt="Daft Punk Tesla Arctic Explorer">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6256)**
 
@@ -744,19 +822,38 @@ Make me a hollywood blockbuster like trailer based on this character, plotting s
 **Author:** [kramrogNL (33.3%)](https://x.com/kramrogNL) | **Source:** [Link](https://x.com/kramrogNL/status/2067943364117266808) | **Published:** Jun 19, 2026
 
 ---
-### Budapest Paper-Cut World Animation
+### Trillionaire Anime Story
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A beautiful prompt generating a paper-cut aesthetic video of Budapest, including historic architecture and the Danube River.
+> An anime narrative prompt describing the journey of a boy from South Africa to becoming a trillionaire.
 
 #### 📝 Prompt
 
 ```
-Budapest, Hungary. Where historic architecture, the Danube River, and timeless streets come together in a beautiful paper-cut world.
+The anime story of a humble boy from South Africa and his journey to becoming the world’s first trillionaire
 ```
 
-<img src="https://cms-assets.youmind.com/media/1781944914037_s5lt12_HLKjCZbWgAAW4Xd.jpg" width="600" alt="Budapest Paper-Cut World Animation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2066579935943147521/img/zWNMK7sOkThlgTRe.jpg" width="600" alt="Trillionaire Anime Story">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6320)**
+
+**Author:** [SMX 🇺🇸](https://x.com/iam_smx) | **Source:** [Link](https://x.com/iam_smx/status/2067899026339447040) | **Published:** Jun 19, 2026
+
+---
+### Paper-cut Budapest Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A stylized animation prompt that recreates Budapest's historic architecture and river in a beautiful paper-cut artistic style.
+
+#### 📝 Prompt
+
+```
+Budapest, Hungary, Where historic architecture, the Danube River, and timeless streets come together in a beautiful paper-cut world.
+```
+
+<img src="https://cms-assets.youmind.com/media/1782121028754_405t5z_HLKjCZbWgAAW4Xd.jpg" width="600" alt="Paper-cut Budapest Animation">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6255)**
 
@@ -1048,6 +1145,25 @@ In this dark bedroom scene, only the lion inside the large ornate black frame ha
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2067598831827484846) | **Published:** Jun 18, 2026
 
 ---
+### Twilight in Japan Rooftop Garden
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt describing a peaceful twilight scene in Japan with city lights and a rooftop garden under a starry sky.
+
+#### 📝 Prompt
+
+```
+Twilight in Japan, warm city lights below, a quiet rooftop garden above, and a sky painted with stars.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067593205680586752/img/rswrSoM2iHi1oZ8Y.jpg" width="600" alt="Twilight in Japan Rooftop Garden">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6319)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2067593250354213218) | **Published:** Jun 18, 2026
+
+---
 ### Cinematic Dolly-in to Japanese Table Spread
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1065,6 +1181,25 @@ Slow cinematic dolly-in toward the table spread in an intimate Japanese restaura
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6212)**
 
 **Author:** [淼儿](https://x.com/tasakimori) | **Source:** [Link](https://x.com/tasakimori/status/2067589992281674195) | **Published:** Jun 18, 2026
+
+---
+### Soft Pink Roses Dreamer Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A romantic and soft video prompt featuring pink roses and dreamy light surrounding a dreamer.
+
+#### 📝 Prompt
+
+```
+Soft pink roses blooming around a gentle dreamer… A tender whisper wrapped in petals and dreamy light.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067564271375134720/img/Kaj3_BjTZTb4EG6a.jpg" width="600" alt="Soft Pink Roses Dreamer Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6322)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2067564344557420569) | **Published:** Jun 18, 2026
 
 ---
 ### Lion Sipping Coffee
@@ -1317,19 +1452,31 @@ Natural excited Japanese, clear voice, perfect lip-sync. Light hand gestures, ha
 **Author:** [右よし左よし秋よし@AIエンタメ](https://x.com/akiyoshisan) | **Source:** [Link](https://x.com/akiyoshisan/status/2067236929989423431) | **Published:** Jun 17, 2026
 
 ---
-### Game of Thrones Dragon Flight Cinematic Video
+### Cinematic Game of Thrones Dragon Flight
 
-![English](https://img.shields.io/badge/lang-English-blue)
+![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A highly detailed cinematic prompt for animating a reference image into an epic dragon flight sequence inspired by Game of Thrones, featuring realistic physics and lighting.
+> An extensive cinematic prompt for animating a reference image into a high-fidelity dragon sequence in the style of Game of Thrones.
 
 #### 📝 Prompt
 
 ```
-Faithfully animate this reference image into a breathtaking cinematic 10-12 second video in the exact visual style of HBO Game of Thrones and House of the Dragon epic dragon sequences. Maintain perfect consistency with the reference image — Daenerys' appearance, Drogon's anatomy, scales, wing structure, and initial lighting.\n\nDrogon flies at high speed low over King's Landing rooftops with powerful, realistic wing flaps and body undulation. Massive turbulent fire breath erupts from its jaws, flames reacting dynamically to wind and movement with realistic fluid physics, glowing embers flying backward, intense heat distortion and light bloom. Fire dramatically illuminates the ancient stone buildings and Red Keep from below with shifting warm highlights and deep shadows.\n\nDaenerys leans forward with commanding posture, her silver hair and heavy cloak whipping violently in the high-speed wind with realistic fabric dynamics and inertia. Subtle sparks and ash particles in the air.\n\nCamera: Dynamic low-angle cinematic tracking shot that follows Drogon from a slightly behind and side position, moving at high speed with the dragon. The camera subtly rises and banks with the dragon's movement, creating a powerful sense of speed, scale and immersion. Sweeping, fluid camera motion with slight handheld energy mixed with controlled cinematic precision.\n\nPhysics: Highly realistic dragon wing membrane flexing and catching the wind, individual wing fingers moving naturally, heavy cloak and hair with authentic weight and turbulence, fire behaving with real fluid dynamics and interaction with air movement.\n\nLighting & atmosphere: Dragon fire provides the primary moving light source, dramatically lighting the city architecture from below. Volumetric smoke, embers and heat haze. Epic atmospheric depth with slight haze over the city.\n\nNative synchronized audio: Deep powerful dragon roar mixed with the roaring whoosh of intense fire, strong wind rush, and distant city ambience with natural reverb. Photorealistic rendering, coherent motion, intricate detail, no artifacts, shot with ARRI Alexa-level fidelity. Masterpiece, maximum epic scale, speed, and cinematic impact.
+Faithfully animate this reference image into a breathtaking cinematic 10-12 second video in the exact visual style of HBO Game of Thrones and House of the Dragon epic dragon sequences. Maintain perfect consistency with the reference image — Daenerys' appearance, Drogon's anatomy, scales, wing structure, and initial lighting.
+
+Drogon flies at high speed low over King's Landing rooftops with powerful, realistic wing flaps and body undulation. Massive turbulent fire breath erupts from its jaws, flames reacting dynamically to wind and movement with realistic fluid physics, glowing embers flying backward, intense heat distortion and light bloom. Fire dramatically illuminates the ancient stone buildings and Red Keep from below with shifting warm highlights and deep shadows.
+
+Daenerys leans forward with commanding posture, her silver hair and heavy cloak whipping violently in the high-speed wind with realistic fabric dynamics and inertia. Subtle sparks and ash particles in the air.
+
+Camera: Dynamic low-angle cinematic tracking shot that follows Drogon from a slightly behind and side position, moving at high speed with the dragon. The camera subtly rises and banks with the dragon's movement, creating a powerful sense of speed, scale and immersion. Sweeping, fluid camera motion with slight handheld energy mixed with controlled cinematic precision.
+
+Physics: Highly realistic dragon wing membrane flexing and catching the wind, individual wing fingers moving naturally, heavy cloak and hair with authentic weight and turbulence, fire behaving with real fluid dynamics and interaction with air movement.
+
+Lighting & atmosphere: Dragon fire provides the primary moving light source, dramatically lighting the city architecture from below. Volumetric smoke, embers and heat haze. Epic atmospheric depth with slight haze over the city.
+
+Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoosh of intense fire, strong wind rush, and distant city ambience with natural reverb. Photorealistic rendering, coherent motion, intricate detail, no artifacts, shot with ARRI Alexa-level fidelity. Masterpiece, maximum epic scale, speed, and cinematic impact.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f64e6d9a9c5cdd32cb8c73cac1e521fc/thumbnails/thumbnail.jpg" width="600" alt="Game of Thrones Dragon Flight Cinematic Video">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f64e6d9a9c5cdd32cb8c73cac1e521fc/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Game of Thrones Dragon Flight">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6172)**
 
@@ -1355,11 +1502,11 @@ Without saying anything, she makes a 'na na nère' gesture like a child mocking 
 **Author:** [Vincent](https://x.com/Source3467) | **Source:** [Link](https://x.com/Source3467/status/2067176050639897060) | **Published:** Jun 17, 2026
 
 ---
-### Retro Synthwave Cyber Girl Portrait
+### Retro Synthwave Cyber Girl
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed synthwave-style prompt for generating a cinematic portrait of a cyber-girl with neon accents, 80s vaporwave aesthetics, and VHS glitch effects.
+> A highly detailed vaporwave aesthetic prompt for a futuristic cyber-girl with neon accents and VHS glitch effects.
 
 #### 📝 Prompt
 
@@ -1367,7 +1514,7 @@ Without saying anything, she makes a 'na na nère' gesture like a child mocking 
 retro synthwave portrait of beautiful cyber-girl with short white-silver bob haircut blunt bangs and long face-framing strands, pale skin, glowing purple-cyan-magenta neon eyeliner and under-eye glow, wet glossy lips, black turtleneck with glowing magenta circuit lines, palm trees and grid city silhouette in hot pink-purple sunset sky behind her, strong VHS glitch distortion, scanlines, chromatic aberration, retro 80s vaporwave aesthetic, dramatic rim lighting, ultra detailed, synthwave colors, 8k
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067155477595893761/img/e8ORYOPfSFufKXmB.jpg" width="600" alt="Retro Synthwave Cyber Girl Portrait">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067155477595893761/img/e8ORYOPfSFufKXmB.jpg" width="600" alt="Retro Synthwave Cyber Girl">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6252)**
 
@@ -1972,157 +2119,6 @@ Vintage 1990s theatrical action-adventure film scene, 16:9 widescreen, practical
 **Author:** [Brent Lynch](https://x.com/BrentLynch) | **Source:** [Link](https://x.com/BrentLynch/status/2066014432543883673) | **Published:** Jun 14, 2026
 
 ---
-### Gentle Spirit Dancer Filly
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A character prompt for a young, soft-natured horse named Spirit Dancer, emphasizing her delicate and non-regal temperament.
-
-#### 📝 Prompt
-
-```
-Spirit Dancer is gentle. She’s sweet, young, and soft-natured — a tender little filly with a golden spirit. She’s not regal or commanding. She’s delicate. She’s the one who needs protecting
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e79f7189f7c07c377fbff84c15e9e88/thumbnails/thumbnail.jpg" width="600" alt="Gentle Spirit Dancer Filly">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6056)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2066010696832180333) | **Published:** Jun 14, 2026
-
----
-### Starship Rocket Vertical Ascent Drone Shot
-
-![한국어](https://img.shields.io/badge/lang-한국어-orange)
-
-> A cinematic and hyper-realistic drone shot prompt for Grok Imagine following the vertical ascent of a SpaceX Starship rocket with detailed reflections and textures.
-
-#### 📝 Prompt
-
-```
-Cinematic hyper-realistic 10-second drone shot. Bright and sunny weather with a perfect blue sky and scattered white clouds, strong natural light, and sharp, crisp shadows. The drone starts very close to the base of the massive stainless steel Starship rocket, right next to the orbital launch pad engines and the black base structure. It performs a powerful, smooth, continuous, and accelerated vertical ascent along the Starship's body, flying very close to the polished stainless steel walls throughout. Dynamic upward camera tilt follows the rocket surface closely, revealing every surreal detail: reflective stainless steel panels with visible weld lines, precision hexagonal heat shield tiles, forward flaps, grid fins, and the sharp nose cone reaching for the sky. Authenticity is achieved through a grand wide-angle drone lens (24-35mm equivalent), delicate natural camera shake, and realistic motion blur. Create a drone shot with smooth cinematic movement, hyper-realistic textures and reflections, 8K resolution, IMAX quality, and National Geographic film style.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c8034ff8719905670778edb2dc3f5aa8/thumbnails/thumbnail.jpg" width="600" alt="Starship Rocket Vertical Ascent Drone Shot">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6061)**
-
-**Author:** [Drone V Drone](https://x.com/drone_v_drone) | **Source:** [Link](https://x.com/drone_v_drone/status/2066001253549981818) | **Published:** Jun 14, 2026
-
----
-### Ethereal Angel on Barcelona Beach
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed descriptive prompt for generating an animation of an ethereal angel with gold feathers and green eyes standing on a beach at golden hour.
-
-#### 📝 Prompt
-
-```
-ethereal angel with glowing light green eyes, 24k gold feathers floating around her, invisible wings, standing gracefully on Barcelona beach at golden hour, divine feminine energy, celestial beauty, dreamlike and luminous
-•  ethereal angel
-•  celestial beauty
-•  divine feminine
-•  golden hour goddess
-•  mystical angel
-•  heavenly being
-•  dreamlike angel
-•  otherworldly beauty
-•  angelic presence
-•  luminous angel
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e93302c0291c27c8f192a971f7ef2eb1/thumbnails/thumbnail.jpg" width="600" alt="Ethereal Angel on Barcelona Beach">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6033)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2065908255382184326) | **Published:** Jun 13, 2026
-
----
-### Biblical Scene Cinematic Static Shot
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt for a static shot inspired by the biblical Book of Daniel from the Old Testament.
-
-#### 📝 Prompt
-
-```
-static shot this looks like the story out of the book of Dan from the Old Testament
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0832c01c153ba6a6966e4672e269439a/thumbnails/thumbnail.jpg" width="600" alt="Biblical Scene Cinematic Static Shot">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6028)**
-
-**Author:** [Mary Jeanne Bautista Concepcion Cincotta](https://x.com/CincottaMary) | **Source:** [Link](https://x.com/CincottaMary/status/2065903975052751107) | **Published:** Jun 13, 2026
-
----
-### Surfing a Tidal Wave Tube
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An action prompt depicting a surfer riding inside the tube of a massive tidal wave.
-
-#### 📝 Prompt
-
-```
-Imagine him on a surfboard riding a tidal wave in the tube yelling thank you ondoggie for teaching me how to surf
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4609057e0760947ba35a3b1256e60ea2/thumbnails/thumbnail.jpg" width="600" alt="Surfing a Tidal Wave Tube">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6034)**
-
-**Author:** [Jason t](https://x.com/doctani79) | **Source:** [Link](https://x.com/doctani79/status/2065886545970942265) | **Published:** Jun 13, 2026
-
----
-### Cinematic Luxury Luggage Video Commercial
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A professional cinematic video prompt for a luxury luggage brand featuring a model on a digital billboard at an urban bus stop.
-
-#### 📝 Prompt
-
-```
-Cinematic surreal luxury luggage commercial at a modern urban bus stop, featuring a large black-framed digital billboard integrated into the street architecture. Inside the billboard screen, a fashion model wearing a beige tailored blazer, dark trousers, and matching beige high heels, holding a set of high-end hardshell suitcases. She is standing on a platform as if stepping into or out of the scene. The lighting is high-end commercial style with soft glows and sharp reflections. Cinematic 8k, photorealistic, elegant, urban chic.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/93f5ee4787e6a616e30b49e9cdf6ea30/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Luxury Luggage Video Commercial">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6027)**
-
-**Author:** [Alamgir Hossain](https://x.com/mdalamgir95) | **Source:** [Link](https://x.com/mdalamgir95/status/2065846622324674965) | **Published:** Jun 13, 2026
-
----
-### Cinematic Dialogue Scene in the Mountains
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A narrative video prompt featuring a panning camera over mountains and forests with dialogue between characters Jilla and Rolf.
-
-#### 📝 Prompt
-
-```
-Jilla stops for a moment to gaze at the beauty all around her. The camera pans to the surrounding mountains, the flowing rivers, the bubbling streams and the gentle wind blowing through a forest of pine trees, thousands of feet below.
-
-Rolf says, "It's beautiful Jilla, isn't it?
-
-Jilla says in awestruck wonder, " A scene to hold in your heart". She looks at Rolf and smiles.
-.
-Rolf says: " The climb was worth it."
-
-Jilla says: " Every step"
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/753193e18c82e85956747b8d78ce3e96/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Dialogue Scene in the Mountains">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6030)**
-
-**Author:** [Kim Maria](https://x.com/KimMari46054539) | **Source:** [Link](https://x.com/KimMari46054539/status/2065845361697038839) | **Published:** Jun 13, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2184,6 +2180,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-22T05:21:33.627Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-22T13:58:37.766Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1912** |
+| 📝 Total Prompts | **1919** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-22** |
 
@@ -189,6 +189,65 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### ลูกแมวเต้นระบำสวมถุงมือ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพร้อมท์ที่เต็มไปด้วยความสนุกสนานและพลังของเหล่าลูกแมวสวมถุงมือที่กำลังเต้นและร้องเพลงด้วยสีหน้าท่าทางที่ขี้เล่น
+
+#### 📝 Prompt
+
+```
+เหล่าลูกแมวสวมถุงมือเริ่มเต้นและร้องเพลงว่า “we’re kittens with mittens” ด้วยท่าทางที่สนุกสนาน มีพลัง และสีหน้าท่าทางที่ขี้เล่น
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068748943706759168/img/A37zMRy8vrFNq5Yp.jpg" width="600" alt="ลูกแมวเต้นระบำสวมถุงมือ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6318)**
+
+**Author:** [Imedi](https://x.com/Imedigeorgia) | **Source:** [Link](https://x.com/Imedigeorgia/status/2068749043334054054) | **Published:** Jun 21, 2026
+
+---
+### ลูกแมวเต้นระบำในถุงมือไหมพรม
+
+![한국어](https://img.shields.io/badge/lang-한국어-orange)
+
+> พรอมต์วิดีโอสุดน่ารักสำหรับ Grok Imagine ที่มีลูกแมวสวมถุงมือไหมพรมกำลังเต้นและร้องเพลงอย่างร่าเริงด้วยท่าทางที่ขี้เล่น
+
+#### 📝 Prompt
+
+```
+ลูกแมวที่สวมถุงมือไหมพรมเริ่มเต้นและร้องเพลง พวกมันร้องเพลง "We are kittens wearing mittens" ด้วยท่าทางที่ร่าเริง มีชีวิตชีวา และสีหน้าที่ขี้เล่น
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068748005579108352/img/7_sXRpv2d-A3dfkq.jpg" width="600" alt="ลูกแมวเต้นระบำในถุงมือไหมพรม">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6323)**
+
+**Author:** [아까긋마](https://x.com/sfbbang) | **Source:** [Link](https://x.com/sfbbang/status/2068748971783381469) | **Published:** Jun 21, 2026
+
+---
+### เทพผู้พิทักษ์โบราณเหนือหมู่เมฆ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวแฟนตาซีระดับภาพยนตร์ ที่นำเสนอภาพเทพเจ้าโบราณขนาดมหึมาในชุดเกราะวิจิตรบรรจง ยืนอยู่เหนือภูเขาที่มีหมอกปกคลุมในช่วงพระอาทิตย์ตกดิน พร้อมกับนักรบผู้โดดเดี่ยว
+
+#### 📝 Prompt
+
+```
+ผลงานระดับมาสเตอร์พีซ คุณภาพดีที่สุด ภาพประกอบแนวแฟนตาซีระดับภาพยนตร์ที่มีรายละเอียดสูงของเทพผู้พิทักษ์โบราณขนาดมหึมาหลายองค์ยืนอยู่บนก้อนเมฆเหนือภูเขาที่มีหมอกปกคลุมในช่วงพระอาทิตย์ตกดิน เหล่าเทพสวมชุดเกราะแบบดั้งเดิมที่วิจิตรบรรจงพร้อมแสงเงาที่ดูน่าเกรงขาม มีนักรบตัวเล็ก ๆ บินอยู่เบื้องล่างบนก้อนเมฆ ท้องฟ้าอันยิ่งใหญ่พร้อมเมฆสีส้มและสีน้ำเงิน ตัวละคร ก้อนเมฆ ภูเขา และแสงเงาที่มีรายละเอียดสูง 
+
+เทพโบราณสี่องค์ยืนอยู่เหนือหมู่เมฆ ในขณะที่นักรบผู้โดดเดี่ยวบินตรงไปยังพวกเขาบนกระบี่ของเขา
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068723896266993664/img/HpGGCjsBsr5Guch-.jpg" width="600" alt="เทพผู้พิทักษ์โบราณเหนือหมู่เมฆ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6317)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2068723970707448246) | **Published:** Jun 21, 2026
+
+---
 ### นักแสดงฮอลลีวูดใกล้ Burj Khalifa
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +265,25 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6292)**
 
 **Author:** [Ijaz Malik](https://x.com/Ijazmalik101) | **Source:** [Link](https://x.com/Ijazmalik101/status/2068609842198225254) | **Published:** Jun 21, 2026
+
+---
+### พรอมต์ฉากป่าเรืองแสงยามค่ำคืน
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวแฟนตาซีสำหรับฉากที่มีบุคคลยืนอยู่ในน้ำเรืองแสงท่ามกลางป่าที่มีหมอกปกคลุมภายใต้ท้องฟ้าที่เต็มไปด้วยดวงดาว
+
+#### 📝 Prompt
+
+```
+เธอยืนอยู่ในน้ำที่เรืองแสงราวกับว่ายามค่ำคืนกำลังโอบกอดเธอไว้ แสงสว่างเคลื่อนไหวอย่างแผ่วเบารอบเท้าของเธอ ในขณะที่ป่ากำลังหายใจออกมาเป็นไอหมอกและดวงดาว
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068490361069076480/img/6BmW0ohNA3wEaGZ-.jpg" width="600" alt="พรอมต์ฉากป่าเรืองแสงยามค่ำคืน">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6321)**
+
+**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2068490736463384650) | **Published:** Jun 21, 2026
 
 ---
 ### วิดีโอโลมาในห้วงอวกาศแบบคาไลโดสโคป
@@ -744,6 +822,25 @@ Masterpiece, best quality, ultra-detailed fantasy concept art ของนัก
 **Author:** [kramrogNL (33.3%)](https://x.com/kramrogNL) | **Source:** [Link](https://x.com/kramrogNL/status/2067943364117266808) | **Published:** Jun 19, 2026
 
 ---
+### เรื่องราวอนิเมะของมหาเศรษฐีระดับล้านล้าน
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างเรื่องราวอนิเมะที่บอกเล่าการเดินทางของเด็กหนุ่มจากแอฟริกาใต้สู่การเป็นมหาเศรษฐีระดับล้านล้าน
+
+#### 📝 Prompt
+
+```
+เรื่องราวอนิเมะของเด็กหนุ่มผู้ต่ำต้อยจากแอฟริกาใต้กับการเดินทางสู่การเป็นมหาเศรษฐีระดับล้านล้านคนแรกของโลก
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2066579935943147521/img/zWNMK7sOkThlgTRe.jpg" width="600" alt="เรื่องราวอนิเมะของมหาเศรษฐีระดับล้านล้าน">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6320)**
+
+**Author:** [SMX 🇺🇸](https://x.com/iam_smx) | **Source:** [Link](https://x.com/iam_smx/status/2067899026339447040) | **Published:** Jun 19, 2026
+
+---
 ### แอนิเมชันโลกกระดาษตัดของบูดาเปสต์
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -756,7 +853,7 @@ Masterpiece, best quality, ultra-detailed fantasy concept art ของนัก
 บูดาเปสต์ ประเทศฮังการี ที่ซึ่งสถาปัตยกรรมทางประวัติศาสตร์ แม่น้ำดานูบ และถนนที่เหนือกาลเวลามาบรรจบกันในโลกแห่งศิลปะกระดาษตัดที่งดงาม
 ```
 
-<img src="https://cms-assets.youmind.com/media/1781944914037_s5lt12_HLKjCZbWgAAW4Xd.jpg" width="600" alt="แอนิเมชันโลกกระดาษตัดของบูดาเปสต์">
+<img src="https://cms-assets.youmind.com/media/1782121028754_405t5z_HLKjCZbWgAAW4Xd.jpg" width="600" alt="แอนิเมชันโลกกระดาษตัดของบูดาเปสต์">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6255)**
 
@@ -1048,6 +1145,25 @@ Elon Musk ในลุคฮิปฮอปแก๊งสเตอร์ ใส
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2067598831827484846) | **Published:** Jun 18, 2026
 
 ---
+### ยามพลบค่ำในสวนบนดาดฟ้าที่ญี่ปุ่น
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวภาพยนตร์ที่บรรยายถึงฉากยามพลบค่ำอันเงียบสงบในญี่ปุ่น พร้อมแสงไฟจากตัวเมืองและสวนบนดาดฟ้าภายใต้ท้องฟ้าที่เต็มไปด้วยดวงดาว
+
+#### 📝 Prompt
+
+```
+ยามพลบค่ำในญี่ปุ่น แสงไฟจากตัวเมืองอันอบอุ่นเบื้องล่าง สวนบนดาดฟ้าอันเงียบสงบเบื้องบน และท้องฟ้าที่ถูกแต่งแต้มไปด้วยดวงดาว
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067593205680586752/img/rswrSoM2iHi1oZ8Y.jpg" width="600" alt="ยามพลบค่ำในสวนบนดาดฟ้าที่ญี่ปุ่น">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6319)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2067593250354213218) | **Published:** Jun 18, 2026
+
+---
 ### ภาพยนตร์แนว Dolly-in เคลื่อนเข้าหาโต๊ะอาหารญี่ปุ่น
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1065,6 +1181,25 @@ Elon Musk ในลุคฮิปฮอปแก๊งสเตอร์ ใส
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6212)**
 
 **Author:** [淼儿](https://x.com/tasakimori) | **Source:** [Link](https://x.com/tasakimori/status/2067589992281674195) | **Published:** Jun 18, 2026
+
+---
+### พรอมต์ Soft Pink Roses Dreamer
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวโรแมนติกและนุ่มนวล ที่มีดอกกุหลาบสีชมพูและแสงสว่างชวนฝันล้อมรอบนักฝัน
+
+#### 📝 Prompt
+
+```
+ดอกกุหลาบสีชมพูอ่อนที่กำลังผลิบานรอบตัวนักฝันผู้อ่อนโยน... เสียงกระซิบอันแผ่วเบาที่โอบล้อมไปด้วยกลีบดอกไม้และแสงสว่างชวนฝัน
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067564271375134720/img/Kaj3_BjTZTb4EG6a.jpg" width="600" alt="พรอมต์ Soft Pink Roses Dreamer">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6322)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2067564344557420569) | **Published:** Jun 18, 2026
 
 ---
 ### สิงโตจิบกาแฟ
@@ -1319,7 +1454,7 @@ Elon Musk ในลุคฮิปฮอปแก๊งสเตอร์ ใส
 ---
 ### วิดีโอซีนีมาติกฉากมังกรบินจาก Game of Thrones
 
-![English](https://img.shields.io/badge/lang-English-blue)
+![中文](https://img.shields.io/badge/lang-中文-red)
 
 > พรอมต์ระดับซีนีมาติกที่มีรายละเอียดสูงสำหรับการเปลี่ยนภาพอ้างอิงให้เป็นฉากมังกรบินสุดอลังการที่ได้รับแรงบันดาลใจจาก Game of Thrones พร้อมฟิสิกส์และแสงที่สมจริง
 
@@ -2012,157 +2147,6 @@ environment: บรรยากาศเงียบสงบ
 **Author:** [Brent Lynch](https://x.com/BrentLynch) | **Source:** [Link](https://x.com/BrentLynch/status/2066014432543883673) | **Published:** Jun 14, 2026
 
 ---
-### ลูกม้า Spirit Dancer ผู้มีจิตใจอ่อนโยน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ตัวละครสำหรับลูกม้าสาวน้อยนิสัยอ่อนโยนชื่อ Spirit Dancer โดยเน้นย้ำถึงบุคลิกที่บอบบางและไม่ดูสูงศักดิ์จนเกินไป
-
-#### 📝 Prompt
-
-```
-Spirit Dancer เป็นม้าที่อ่อนโยน เธอทั้งน่ารัก อายุน้อย และมีนิสัยนุ่มนวล เป็นลูกม้าตัวน้อยที่เปี่ยมไปด้วยจิตวิญญาณอันงดงาม เธอไม่ได้ดูสูงศักดิ์หรือน่าเกรงขาม แต่มีความบอบบางและเป็นม้าที่ต้องการการปกป้องดูแล
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e79f7189f7c07c377fbff84c15e9e88/thumbnails/thumbnail.jpg" width="600" alt="ลูกม้า Spirit Dancer ผู้มีจิตใจอ่อนโยน">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6056)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2066010696832180333) | **Published:** Jun 14, 2026
-
----
-### ภาพโดรนถ่ายการทะยานขึ้นในแนวตั้งของจรวด Starship
-
-![한국어](https://img.shields.io/badge/lang-한국어-orange)
-
-> พรอมต์สำหรับ Grok Imagine เพื่อสร้างภาพโดรนแบบภาพยนตร์ที่สมจริงเป็นพิเศษ โดยติดตามการทะยานขึ้นในแนวตั้งของจรวด SpaceX Starship พร้อมรายละเอียดของแสงสะท้อนและพื้นผิวที่คมชัด
-
-#### 📝 Prompt
-
-```
-ภาพโดรนความยาว 10 วินาทีในสไตล์ภาพยนตร์ที่สมจริงเป็นพิเศษ สภาพอากาศสดใสและมีแดดจัด ท้องฟ้าสีครามที่สมบูรณ์แบบพร้อมเมฆสีขาวกระจายตัว แสงธรรมชาติที่เข้มข้น และเงาที่คมชัด โดรนเริ่มต้นจากจุดที่ใกล้กับฐานของจรวดสแตนเลสขนาดมหึมา Starship มากๆ อยู่ติดกับเครื่องยนต์ของฐานปล่อยจรวดและโครงสร้างฐานสีดำ โดรนเคลื่อนที่ขึ้นในแนวตั้งอย่างทรงพลัง นุ่มนวล ต่อเนื่อง และเร่งความเร็วไปตามตัวจรวด Starship โดยบินใกล้กับผนังเหล็กกล้าไร้สนิมที่ขัดเงาตลอดเส้นทาง การปรับมุมกล้องขึ้นด้านบนแบบไดนามิกติดตามพื้นผิวจรวดอย่างใกล้ชิด เผยให้เห็นทุกรายละเอียดที่น่าทึ่ง ไม่ว่าจะเป็นแผ่นเหล็กกล้าไร้สนิมที่สะท้อนแสงพร้อมรอยเชื่อมที่มองเห็นได้ แผ่นกันความร้อนหกเหลี่ยมที่แม่นยำ ปีกส่วนหน้า ครีบควบคุม และส่วนหัวจรวดที่แหลมคมซึ่งพุ่งทะยานสู่ท้องฟ้า ความสมจริงถูกถ่ายทอดผ่านเลนส์โดรนมุมกว้างขนาดใหญ่ (เทียบเท่า 24-35 มม.) การสั่นของกล้องที่เป็นธรรมชาติ และโมชั่นเบลอที่สมจริง สร้างภาพโดรนที่มีการเคลื่อนไหวแบบภาพยนตร์ที่นุ่มนวล พื้นผิวและการสะท้อนที่สมจริงเป็นพิเศษ ความละเอียด 8K คุณภาพระดับ IMAX และสไตล์ภาพยนตร์แบบ National Geographic
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c8034ff8719905670778edb2dc3f5aa8/thumbnails/thumbnail.jpg" width="600" alt="ภาพโดรนถ่ายการทะยานขึ้นในแนวตั้งของจรวด Starship">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6061)**
-
-**Author:** [Drone V Drone](https://x.com/drone_v_drone) | **Source:** [Link](https://x.com/drone_v_drone/status/2066001253549981818) | **Published:** Jun 14, 2026
-
----
-### นางฟ้าผู้เลอโฉมบนชายหาดบาร์เซโลนา
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่งแบบละเอียด (Prompt) สำหรับสร้างแอนิเมชันนางฟ้าผู้เลอโฉมที่มีขนนกสีทองและดวงตาสีเขียว ยืนอยู่บนชายหาดในช่วงเวลาโกลเด้นอาวร์
-
-#### 📝 Prompt
-
-```
-นางฟ้าผู้เลอโฉมที่มีดวงตาสีเขียวสว่างเปล่งประกาย ขนนกทองคำ 24k ลอยอยู่รอบตัว ปีกที่มองไม่เห็น ยืนอยู่อย่างสง่างามบนชายหาดบาร์เซโลนาในช่วงเวลาโกลเด้นอาวร์ พลังงานความเป็นหญิงอันศักดิ์สิทธิ์ ความงามจากสรวงสวรรค์ ดูราวกับความฝันและเปล่งประกาย
-• นางฟ้าผู้เลอโฉม
-• ความงามจากสรวงสวรรค์
-• ความเป็นหญิงอันศักดิ์สิทธิ์
-• เทพีแห่งช่วงเวลาโกลเด้นอาวร์
-• นางฟ้าผู้ลึกลับ
-• สิ่งมีชีวิตจากสวรรค์
-• นางฟ้าในฝัน
-• ความงามจากต่างโลก
-• การปรากฏตัวของนางฟ้า
-• นางฟ้าผู้เปล่งประกาย
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e93302c0291c27c8f192a971f7ef2eb1/thumbnails/thumbnail.jpg" width="600" alt="นางฟ้าผู้เลอโฉมบนชายหาดบาร์เซโลนา">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6033)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2065908255382184326) | **Published:** Jun 13, 2026
-
----
-### ภาพนิ่งฉากในพระคัมภีร์แบบภาพยนตร์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแบบภาพยนตร์สำหรับภาพนิ่งที่ได้รับแรงบันดาลใจจากพระธรรมดาเนียลในพระคัมภีร์ภาคพันธสัญญาเดิม
-
-#### 📝 Prompt
-
-```
-ภาพนิ่งที่ดูเหมือนเรื่องราวจากพระธรรมดาเนียลในพระคัมภีร์ภาคพันธสัญญาเดิม
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0832c01c153ba6a6966e4672e269439a/thumbnails/thumbnail.jpg" width="600" alt="ภาพนิ่งฉากในพระคัมภีร์แบบภาพยนตร์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6028)**
-
-**Author:** [Mary Jeanne Bautista Concepcion Cincotta](https://x.com/CincottaMary) | **Source:** [Link](https://x.com/CincottaMary/status/2065903975052751107) | **Published:** Jun 13, 2026
-
----
-### โต้คลื่นในอุโมงค์ยักษ์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์แนวแอ็กชันที่แสดงภาพนักโต้คลื่นกำลังขี่คลื่นอยู่ภายในอุโมงค์ของคลื่นยักษ์
-
-#### 📝 Prompt
-
-```
-จินตนาการภาพเขากำลังอยู่บนกระดานโต้คลื่นในอุโมงค์ของคลื่นยักษ์ พร้อมตะโกนขอบคุณ ondoggie ที่สอนวิธีโต้คลื่นให้เขา
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4609057e0760947ba35a3b1256e60ea2/thumbnails/thumbnail.jpg" width="600" alt="โต้คลื่นในอุโมงค์ยักษ์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6034)**
-
-**Author:** [Jason t](https://x.com/doctani79) | **Source:** [Link](https://x.com/doctani79/status/2065886545970942265) | **Published:** Jun 13, 2026
-
----
-### วิดีโอโฆษณากระเป๋าเดินทางสุดหรูในสไตล์ภาพยนตร์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอระดับมืออาชีพในสไตล์ภาพยนตร์สำหรับแบรนด์กระเป๋าเดินทางสุดหรู นำเสนอภาพนางแบบบนป้ายโฆษณาดิจิทัลที่ป้ายรถเมล์ในเมือง
-
-#### 📝 Prompt
-
-```
-โฆษณากระเป๋าเดินทางสุดหรูในสไตล์เหนือจริงที่ป้ายรถเมล์ทันสมัยในเมือง นำเสนอภาพป้ายโฆษณาดิจิทัลกรอบสีดำขนาดใหญ่ที่กลมกลืนไปกับสถาปัตยกรรมริมถนน ภายในหน้าจอป้ายโฆษณา นางแบบแฟชั่นสวมเสื้อเบลเซอร์สั่งตัดสีเบจ กางเกงขายาวสีเข้ม และรองเท้าส้นสูงสีเบจเข้าชุดกัน กำลังถือชุดกระเป๋าเดินทางแบบแข็งระดับไฮเอนด์ เธอยืนอยู่บนแท่นเสมือนกำลังก้าวเข้าหรือออกจากฉาก แสงไฟเป็นสไตล์โฆษณาระดับไฮเอนด์ที่มีความนุ่มนวลและเงาสะท้อนที่คมชัด คุณภาพระดับ Cinematic 8k, สมจริงเหมือนภาพถ่าย, สง่างาม, ทันสมัยในแบบคนเมือง
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/93f5ee4787e6a616e30b49e9cdf6ea30/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอโฆษณากระเป๋าเดินทางสุดหรูในสไตล์ภาพยนตร์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6027)**
-
-**Author:** [Alamgir Hossain](https://x.com/mdalamgir95) | **Source:** [Link](https://x.com/mdalamgir95/status/2065846622324674965) | **Published:** Jun 13, 2026
-
----
-### ฉากสนทนาสไตล์ภาพยนตร์ท่ามกลางหุบเขา
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอเชิงเล่าเรื่องที่ใช้การแพนกล้องผ่านภูเขาและป่าไม้ พร้อมบทสนทนาระหว่างตัวละคร Jilla และ Rolf
-
-#### 📝 Prompt
-
-```
-Jilla หยุดพักชั่วครู่เพื่อชื่นชมความงดงามที่อยู่รอบตัวเธอ กล้องแพนไปยังภูเขาโดยรอบ แม่น้ำที่ไหลริน ลำธารที่ส่งเสียงใส และสายลมแผ่วเบาที่พัดผ่านป่าสนซึ่งอยู่ต่ำลงไปหลายพันฟุต
-
-Rolf กล่าวว่า "สวยงามมากเลยใช่ไหม Jilla"
-
-Jilla กล่าวด้วยความประทับใจว่า "เป็นภาพที่อยากเก็บไว้ในใจตลอดไป" เธอมองไปที่ Rolf แล้วยิ้ม
-
-Rolf กล่าวว่า "การปีนขึ้นมาคุ้มค่าจริงๆ"
-
-Jilla กล่าวว่า "ทุกย่างก้าวเลยล่ะ"
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/753193e18c82e85956747b8d78ce3e96/thumbnails/thumbnail.jpg" width="600" alt="ฉากสนทนาสไตล์ภาพยนตร์ท่ามกลางหุบเขา">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6030)**
-
-**Author:** [Kim Maria](https://x.com/KimMari46054539) | **Source:** [Link](https://x.com/KimMari46054539/status/2065845361697038839) | **Published:** Jun 13, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2224,6 +2208,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-22T05:21:38.428Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-22T13:58:42.347Z</sub>
 
 </div>

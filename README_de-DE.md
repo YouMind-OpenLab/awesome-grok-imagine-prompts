@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1912** |
+| 📝 Total Prompts | **1919** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-22** |
 
@@ -189,6 +189,65 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Tanzende Kätzchen mit Fäustlingen
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein fröhlicher und energiegeladener Video-Prompt von Kätzchen, die Fäustlinge tragen und mit verspielten Gesichtsausdrücken tanzen und singen.
+
+#### 📝 Prompt
+
+```
+Die Kätzchen mit Fäustlingen beginnen zu tanzen und singen „we’re kittens with mittens“ mit fröhlichen, energiegeladenen Bewegungen und verspielten Gesichtsausdrücken.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068748943706759168/img/A37zMRy8vrFNq5Yp.jpg" width="600" alt="Tanzende Kätzchen mit Fäustlingen">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6318)**
+
+**Author:** [Imedi](https://x.com/Imedigeorgia) | **Source:** [Link](https://x.com/Imedigeorgia/status/2068749043334054054) | **Published:** Jun 21, 2026
+
+---
+### Tanzende Kätzchen in Fäustlingen
+
+![한국어](https://img.shields.io/badge/lang-한국어-orange)
+
+> Ein bezaubernder Video-Prompt für Grok Imagine, der Kätzchen in Fäustlingen zeigt, die zu einem fröhlichen Lied tanzen und singen, mit verspielten Gesichtsausdrücken.
+
+#### 📝 Prompt
+
+```
+Kätzchen mit Fäustlingen beginnen zu tanzen und zu singen. Sie singen das Lied „We are kittens wearing mittens“ mit fröhlichen, lebhaften Bewegungen und verspielten Gesichtsausdrücken.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068748005579108352/img/7_sXRpv2d-A3dfkq.jpg" width="600" alt="Tanzende Kätzchen in Fäustlingen">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6323)**
+
+**Author:** [아까긋마](https://x.com/sfbbang) | **Source:** [Link](https://x.com/sfbbang/status/2068748971783381469) | **Published:** Jun 21, 2026
+
+---
+### Antike Schutzgottheiten über den Wolken
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein cineastischer Fantasy-Video-Prompt mit massiven antiken Göttern in prunkvoller Rüstung, die bei Sonnenuntergang über nebligen Bergen stehen, zusammen mit einem einsamen Krieger.
+
+#### 📝 Prompt
+
+```
+Meisterwerk, beste Qualität, ultra-detaillierte cineastische Fantasy-Illustration von mehreren massiven antiken Schutzgottheiten, die bei Sonnenuntergang auf Wolken über nebligen Bergen stehen. Die Götter tragen prunkvolle traditionelle Rüstungen mit dramatischer Beleuchtung. Ein kleiner Krieger fliegt unter ihnen auf einer Wolke. Epischer Himmel mit orangefarbenen und blauen Wolken. Hochdetaillierte Charaktere, Wolken, Berge und Beleuchtung.
+
+Vier antike Götter stehen über den Wolken, während ein einsamer Krieger auf seinem Schwert auf sie zufliegt.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068723896266993664/img/HpGGCjsBsr5Guch-.jpg" width="600" alt="Antike Schutzgottheiten über den Wolken">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6317)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2068723970707448246) | **Published:** Jun 21, 2026
+
+---
 ### Hollywood-Schauspieler in der Nähe des Burj Khalifa
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +265,25 @@ Generiere ein Bild eines beliebten Hollywood-Schauspielers, der in der Nähe des
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6292)**
 
 **Author:** [Ijaz Malik](https://x.com/Ijazmalik101) | **Source:** [Link](https://x.com/Ijazmalik101/status/2068609842198225254) | **Published:** Jun 21, 2026
+
+---
+### Prompt für eine leuchtende Wasserwald-Nacht
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein ätherischer Video-Prompt für eine Szene mit einer Figur in leuchtendem Wasser inmitten eines nebligen Waldes unter einem Sternenhimmel.
+
+#### 📝 Prompt
+
+```
+Sie steht im leuchtenden Wasser, als würde die Nacht selbst sie halten. Licht bewegt sich sanft um ihre Füße, während der Wald Nebel und Sterne atmet.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068490361069076480/img/6BmW0ohNA3wEaGZ-.jpg" width="600" alt="Prompt für eine leuchtende Wasserwald-Nacht">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6321)**
+
+**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2068490736463384650) | **Published:** Jun 21, 2026
 
 ---
 ### Kaleidoskopisches kosmisches Delfin-Video
@@ -744,6 +822,25 @@ Erstelle mir einen Hollywood-Blockbuster-Trailer basierend auf diesem Charakter 
 **Author:** [kramrogNL (33.3%)](https://x.com/kramrogNL) | **Source:** [Link](https://x.com/kramrogNL/status/2067943364117266808) | **Published:** Jun 19, 2026
 
 ---
+### Trillionär-Anime-Geschichte
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Anime-Narrativ-Prompt, der den Weg eines Jungen aus Südafrika zum Trillionär beschreibt.
+
+#### 📝 Prompt
+
+```
+Die Anime-Geschichte eines bescheidenen Jungen aus Südafrika und sein Weg zum ersten Trillionär der Welt
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2066579935943147521/img/zWNMK7sOkThlgTRe.jpg" width="600" alt="Trillionär-Anime-Geschichte">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6320)**
+
+**Author:** [SMX 🇺🇸](https://x.com/iam_smx) | **Source:** [Link](https://x.com/iam_smx/status/2067899026339447040) | **Published:** Jun 19, 2026
+
+---
 ### Budapest Scherenschnitt-Welt Animation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -756,7 +853,7 @@ Erstelle mir einen Hollywood-Blockbuster-Trailer basierend auf diesem Charakter 
 Budapest, Ungarn. Wo historische Architektur, die Donau und zeitlose Straßen in einer wunderschönen Scherenschnitt-Welt zusammenkommen.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1781944914037_s5lt12_HLKjCZbWgAAW4Xd.jpg" width="600" alt="Budapest Scherenschnitt-Welt Animation">
+<img src="https://cms-assets.youmind.com/media/1782121028754_405t5z_HLKjCZbWgAAW4Xd.jpg" width="600" alt="Budapest Scherenschnitt-Welt Animation">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6255)**
 
@@ -1048,6 +1145,25 @@ In dieser dunklen Schlafzimmerszene erwacht nur der Löwe innerhalb des großen,
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2067598831827484846) | **Published:** Jun 18, 2026
 
 ---
+### Dämmerung im japanischen Dachgarten
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein filmischer Video-Prompt, der eine friedliche Dämmerung in Japan mit nächtlichen Stadtlichtern und einem Dachgarten unter einem Sternenhimmel beschreibt.
+
+#### 📝 Prompt
+
+```
+Dämmerung in Japan, warme Stadtlichter unterhalb, ein ruhiger Dachgarten darüber und ein mit Sternen bemalter Himmel.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067593205680586752/img/rswrSoM2iHi1oZ8Y.jpg" width="600" alt="Dämmerung im japanischen Dachgarten">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6319)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2067593250354213218) | **Published:** Jun 18, 2026
+
+---
 ### Filmischer Dolly-In auf einen japanischen gedeckten Tisch
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1065,6 +1181,25 @@ Langsamer, filmischer Dolly-In auf den gedeckten Tisch in einem intimen japanisc
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6212)**
 
 **Author:** [淼儿](https://x.com/tasakimori) | **Source:** [Link](https://x.com/tasakimori/status/2067589992281674195) | **Published:** Jun 18, 2026
+
+---
+### Soft Pink Roses Dreamer Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein romantischer und sanfter Video-Prompt mit rosafarbenen Rosen und verträumtem Licht, das einen Träumer umgibt.
+
+#### 📝 Prompt
+
+```
+Zartrosa Rosen blühen um einen sanften Träumer herum… Ein zärtliches Flüstern, eingehüllt in Blütenblätter und verträumtes Licht.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067564271375134720/img/Kaj3_BjTZTb4EG6a.jpg" width="600" alt="Soft Pink Roses Dreamer Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6322)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2067564344557420569) | **Published:** Jun 18, 2026
 
 ---
 ### Löwe beim Kaffeetrinken
@@ -1319,7 +1454,7 @@ Natürlich aufgeregtes Japanisch, klare Stimme, perfekte Lippensynchronisation. 
 ---
 ### Game of Thrones Drachenflug Cinematic Video
 
-![English](https://img.shields.io/badge/lang-English-blue)
+![中文](https://img.shields.io/badge/lang-中文-red)
 
 > Ein hochdetaillierter Cinematic-Prompt zur Animation eines Referenzbildes in eine epische Drachenflugsequenz, inspiriert von Game of Thrones, mit realistischer Physik und Beleuchtung.
 
@@ -2010,157 +2145,6 @@ Stil / Kamera: Kinofilm der späten 80er / frühen 90er Jahre, 35mm anamorphotis
 **Author:** [Brent Lynch](https://x.com/BrentLynch) | **Source:** [Link](https://x.com/BrentLynch/status/2066014432543883673) | **Published:** Jun 14, 2026
 
 ---
-### Sanftmütiges Spirit Dancer Fohlen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Charakter-Prompt für ein junges, sanftmütiges Pferd namens Spirit Dancer, das ihren zarten und nicht herrschaftlichen Charakter hervorhebt.
-
-#### 📝 Prompt
-
-```
-Spirit Dancer ist sanftmütig. Sie ist süß, jung und von sanfter Natur – ein zartes kleines Fohlen mit einem goldenen Wesen. Sie ist weder herrschaftlich noch gebieterisch. Sie ist zart. Sie ist diejenige, die Schutz braucht.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e79f7189f7c07c377fbff84c15e9e88/thumbnails/thumbnail.jpg" width="600" alt="Sanftmütiges Spirit Dancer Fohlen">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6056)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2066010696832180333) | **Published:** Jun 14, 2026
-
----
-### Drohnenaufnahme des vertikalen Aufstiegs der Starship-Rakete
-
-![한국어](https://img.shields.io/badge/lang-한국어-orange)
-
-> Ein kinoreifer und hyperrealistischer Drohnen-Prompt für Grok Imagine, der den vertikalen Aufstieg einer SpaceX Starship-Rakete mit detaillierten Reflexionen und Texturen einfängt.
-
-#### 📝 Prompt
-
-```
-Kinoreife, hyperrealistische 10-sekündige Drohnenaufnahme. Helles, sonniges Wetter mit perfektem blauem Himmel und vereinzelten weißen Wolken, starkes natürliches Licht und scharfe, klare Schatten. Die Drohne startet in unmittelbarer Nähe zur Basis der massiven Starship-Rakete aus Edelstahl, direkt neben den Triebwerken der orbitalen Startrampe und der schwarzen Basisstruktur. Sie führt einen kraftvollen, flüssigen, kontinuierlichen und beschleunigten vertikalen Aufstieg entlang des Starship-Körpers aus und fliegt dabei durchgehend sehr nah an den polierten Edelstahlwänden entlang. Eine dynamische Aufwärtsneigung der Kamera folgt der Raketenoberfläche eng und enthüllt jedes surreale Detail: reflektierende Edelstahlpaneele mit sichtbaren Schweißnähten, präzise hexagonale Hitzeschutzkacheln, vordere Klappen, Gitterflossen und die spitze Nasenverkleidung, die in den Himmel ragt. Authentizität wird durch ein großartiges Weitwinkel-Drohnenobjektiv (24-35 mm Äquivalent), ein dezentes natürliches Kamera-Wackeln und realistische Bewegungsunschärfe erreicht. Erstellen Sie eine Drohnenaufnahme mit flüssiger kinoreifer Bewegung, hyperrealistischen Texturen und Reflexionen, 8K-Auflösung, IMAX-Qualität und im Filmstil von National Geographic.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c8034ff8719905670778edb2dc3f5aa8/thumbnails/thumbnail.jpg" width="600" alt="Drohnenaufnahme des vertikalen Aufstiegs der Starship-Rakete">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6061)**
-
-**Author:** [Drone V Drone](https://x.com/drone_v_drone) | **Source:** [Link](https://x.com/drone_v_drone/status/2066001253549981818) | **Published:** Jun 14, 2026
-
----
-### Ätherischer Engel am Strand von Barcelona
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter, beschreibender Prompt zur Erstellung einer Animation eines ätherischen Engels mit goldenen Federn und grünen Augen, der zur goldenen Stunde an einem Strand steht.
-
-#### 📝 Prompt
-
-```
-ätherischer Engel mit leuchtend hellgrünen Augen, 24k Goldfedern, die um sie herum schweben, unsichtbare Flügel, steht anmutig am Strand von Barcelona zur goldenen Stunde, göttliche weibliche Energie, himmlische Schönheit, traumhaft und leuchtend
-• ätherischer Engel
-• himmlische Schönheit
-• göttliches Weibliches
-• Göttin der goldenen Stunde
-• mystischer Engel
-• himmlisches Wesen
-• traumhafter Engel
-• jenseitige Schönheit
-• engelhafte Präsenz
-• leuchtender Engel
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e93302c0291c27c8f192a971f7ef2eb1/thumbnails/thumbnail.jpg" width="600" alt="Ätherischer Engel am Strand von Barcelona">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6033)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2065908255382184326) | **Published:** Jun 13, 2026
-
----
-### Biblische Szene: Kinoreife statische Aufnahme
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein kinoreifer Video-Prompt für eine statische Aufnahme, inspiriert durch das biblische Buch Daniel aus dem Alten Testament.
-
-#### 📝 Prompt
-
-```
-statische Aufnahme, die wie eine Szene aus dem Buch Daniel im Alten Testament wirkt
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0832c01c153ba6a6966e4672e269439a/thumbnails/thumbnail.jpg" width="600" alt="Biblische Szene: Kinoreife statische Aufnahme">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6028)**
-
-**Author:** [Mary Jeanne Bautista Concepcion Cincotta](https://x.com/CincottaMary) | **Source:** [Link](https://x.com/CincottaMary/status/2065903975052751107) | **Published:** Jun 13, 2026
-
----
-### Surfen in der Tube einer Gezeitenwelle
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Action-Prompt, der einen Surfer zeigt, wie er in der Tube einer gigantischen Gezeitenwelle reitet.
-
-#### 📝 Prompt
-
-```
-Stell dir vor, er reitet auf einem Surfbrett in der Tube einer Gezeitenwelle und ruft: Danke ondoggie, dass du mir das Surfen beigebracht hast
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4609057e0760947ba35a3b1256e60ea2/thumbnails/thumbnail.jpg" width="600" alt="Surfen in der Tube einer Gezeitenwelle">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6034)**
-
-**Author:** [Jason t](https://x.com/doctani79) | **Source:** [Link](https://x.com/doctani79/status/2065886545970942265) | **Published:** Jun 13, 2026
-
----
-### Kinematischer Werbespot für Luxusgepäck
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein professioneller kinematischer Video-Prompt für eine Luxusgepäckmarke, der ein Model auf einer digitalen Werbetafel an einer städtischen Bushaltestelle zeigt.
-
-#### 📝 Prompt
-
-```
-Kinematischer, surrealer Werbespot für Luxusgepäck an einer modernen städtischen Bushaltestelle, mit einer großen, schwarz gerahmten digitalen Werbetafel, die in die Straßenarchitektur integriert ist. Auf dem Bildschirm der Werbetafel ist ein Fashion-Model in einem beigen, maßgeschneiderten Blazer, dunkler Hose und passenden beigen High Heels zu sehen, das ein Set hochwertiger Hartschalenkoffer hält. Sie steht auf einer Plattform, als würde sie in die Szene hinein- oder heraustreten. Die Beleuchtung entspricht einem hochwertigen Werbestil mit sanften Lichteffekten und scharfen Reflexionen. Kinematisch, 8k, fotorealistisch, elegant, urbaner Chic.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/93f5ee4787e6a616e30b49e9cdf6ea30/thumbnails/thumbnail.jpg" width="600" alt="Kinematischer Werbespot für Luxusgepäck">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6027)**
-
-**Author:** [Alamgir Hossain](https://x.com/mdalamgir95) | **Source:** [Link](https://x.com/mdalamgir95/status/2065846622324674965) | **Published:** Jun 13, 2026
-
----
-### Filmreife Dialogszene in den Bergen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein narrativer Video-Prompt mit einer Kamerafahrt über Berge und Wälder sowie einem Dialog zwischen den Charakteren Jilla und Rolf.
-
-#### 📝 Prompt
-
-```
-Jilla hält einen Moment inne, um die Schönheit um sie herum zu betrachten. Die Kamera schwenkt über die umliegenden Berge, die fließenden Flüsse, die sprudelnden Bäche und den sanften Wind, der durch einen Tannenwald tausende Fuß unter ihnen weht.
-
-Rolf sagt: „Es ist wunderschön, Jilla, nicht wahr?“
-
-Jilla sagt voller Staunen: „Ein Anblick, den man im Herzen bewahren sollte.“ Sie sieht Rolf an und lächelt.
-
-Rolf sagt: „Der Aufstieg hat sich gelohnt.“
-
-Jilla sagt: „Jeder Schritt.“
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/753193e18c82e85956747b8d78ce3e96/thumbnails/thumbnail.jpg" width="600" alt="Filmreife Dialogszene in den Bergen">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6030)**
-
-**Author:** [Kim Maria](https://x.com/KimMari46054539) | **Source:** [Link](https://x.com/KimMari46054539/status/2065845361697038839) | **Published:** Jun 13, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2222,6 +2206,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-22T05:21:43.282Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-22T13:58:46.760Z</sub>
 
 </div>

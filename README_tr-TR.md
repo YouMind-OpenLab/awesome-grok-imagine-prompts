@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1912** |
+| 📝 Total Prompts | **1919** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-22** |
 
@@ -189,6 +189,65 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Eldivenli Dans Eden Kedicikler
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Eldiven takmış, neşeli ve enerjik bir şekilde dans edip şarkı söyleyen, oyuncu ifadeli kediciklerin yer aldığı eğlenceli bir video istemi.
+
+#### 📝 Prompt
+
+```
+Eldivenli kedicikler, neşeli ve enerjik hareketler ve oyuncu ifadelerle dans edip "biz eldivenli kedicikleriz" diye şarkı söylemeye başlıyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068748943706759168/img/A37zMRy8vrFNq5Yp.jpg" width="600" alt="Eldivenli Dans Eden Kedicikler">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6318)**
+
+**Author:** [Imedi](https://x.com/Imedigeorgia) | **Source:** [Link](https://x.com/Imedigeorgia/status/2068749043334054054) | **Published:** Jun 21, 2026
+
+---
+### Eldivenli Dans Eden Yavru Kediler
+
+![한국어](https://img.shields.io/badge/lang-한국어-orange)
+
+> Grok Imagine için eldiven takmış, neşeli bir şarkı söyleyip oyuncu ifadelerle dans eden yavru kedileri konu alan sevimli bir video istemi.
+
+#### 📝 Prompt
+
+```
+Eldiven takan yavru kediler dans etmeye ve şarkı söylemeye başlar. Neşeli, canlı hareketler ve oyuncu ifadelerle "Biz eldiven takan yavru kedileriz" şarkısını söylerler.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068748005579108352/img/7_sXRpv2d-A3dfkq.jpg" width="600" alt="Eldivenli Dans Eden Yavru Kediler">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6323)**
+
+**Author:** [아까긋마](https://x.com/sfbbang) | **Source:** [Link](https://x.com/sfbbang/status/2068748971783381469) | **Published:** Jun 21, 2026
+
+---
+### Bulutların Üzerindeki Kadim Koruyucu Tanrılar
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gün batımında sisli dağların üzerinde duran, süslü zırhlar içindeki devasa kadim tanrıları ve yalnız bir savaşçıyı konu alan sinematik bir fantastik video istemi.
+
+#### 📝 Prompt
+
+```
+Başyapıt, en iyi kalite, gün batımında sisli dağların üzerindeki bulutlarda duran birkaç devasa kadim koruyucu tanrının ultra detaylı sinematik fantastik illüstrasyonu. Tanrılar, dramatik bir ışıklandırma altında süslü geleneksel zırhlar içindeler. Küçük bir savaşçı, bir bulutun üzerinde onların altında uçuyor. Turuncu ve mavi bulutlarla dolu epik bir gökyüzü. Yüksek detaylı karakterler, bulutlar, dağlar ve ışıklandırma.
+
+Bulutların üzerinde duran dört kadim tanrı ve onlara doğru kılıcı üzerinde uçan yalnız bir savaşçı.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068723896266993664/img/HpGGCjsBsr5Guch-.jpg" width="600" alt="Bulutların Üzerindeki Kadim Koruyucu Tanrılar">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6317)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2068723970707448246) | **Published:** Jun 21, 2026
+
+---
 ### Burj Khalifa yakınında Hollywood oyuncusu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +265,25 @@ Burj Khalifa yakınında yürüyen popüler bir Hollywood oyuncusunun görselini
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6292)**
 
 **Author:** [Ijaz Malik](https://x.com/Ijazmalik101) | **Source:** [Link](https://x.com/Ijazmalik101/status/2068609842198225254) | **Published:** Jun 21, 2026
+
+---
+### Işıldayan Su Ormanı Gece İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yıldızlı bir gökyüzü altında, sisli bir ormanın içindeki ışıldayan suda duran bir figürün yer aldığı sahne için ruhani bir video istemi.
+
+#### 📝 Prompt
+
+```
+Gece onu kucaklıyormuşçasına ışıldayan suyun içinde duruyor. Orman sis ve yıldızlarla nefes alırken, ışık ayaklarının etrafında nazikçe hareket ediyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068490361069076480/img/6BmW0ohNA3wEaGZ-.jpg" width="600" alt="Işıldayan Su Ormanı Gece İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6321)**
+
+**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2068490736463384650) | **Published:** Jun 21, 2026
 
 ---
 ### Kaledeydoskopik Kozmik Yunus Videosu
@@ -744,6 +822,25 @@ Bu karakteri temel alan, karanlık olayların döndüğü bir Hollywood gişe re
 **Author:** [kramrogNL (33.3%)](https://x.com/kramrogNL) | **Source:** [Link](https://x.com/kramrogNL/status/2067943364117266808) | **Published:** Jun 19, 2026
 
 ---
+### Trilyoner Anime Hikayesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Güney Afrikalı bir çocuğun trilyoner olma yolculuğunu anlatan bir anime anlatı istemi.
+
+#### 📝 Prompt
+
+```
+Güney Afrikalı mütevazı bir çocuğun dünyanın ilk trilyoneri olma yolculuğunu konu alan anime hikayesi
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2066579935943147521/img/zWNMK7sOkThlgTRe.jpg" width="600" alt="Trilyoner Anime Hikayesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6320)**
+
+**Author:** [SMX 🇺🇸](https://x.com/iam_smx) | **Source:** [Link](https://x.com/iam_smx/status/2067899026339447040) | **Published:** Jun 19, 2026
+
+---
 ### Budapeşte Kağıt Kesme Sanatı Tarzında Animasyon
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -756,7 +853,7 @@ Bu karakteri temel alan, karanlık olayların döndüğü bir Hollywood gişe re
 Budapeşte, Macaristan. Tarihi mimarinin, Tuna Nehri'nin ve zamansız sokakların büyüleyici bir kağıt kesme sanatı dünyasında bir araya geldiği yer.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1781944914037_s5lt12_HLKjCZbWgAAW4Xd.jpg" width="600" alt="Budapeşte Kağıt Kesme Sanatı Tarzında Animasyon">
+<img src="https://cms-assets.youmind.com/media/1782121028754_405t5z_HLKjCZbWgAAW4Xd.jpg" width="600" alt="Budapeşte Kağıt Kesme Sanatı Tarzında Animasyon">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6255)**
 
@@ -1048,6 +1145,25 @@ Bu karanlık yatak odası sahnesinde, siyah duvarda asılı olan büyük ve süs
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2067598831827484846) | **Published:** Jun 18, 2026
 
 ---
+### Japonya'da Çatı Bahçesinde Alacakaranlık
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Japonya'da şehir ışıkları ve yıldızlı gökyüzü altındaki çatı bahçesiyle huzurlu bir alacakaranlık sahnesini betimleyen sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Japonya'da alacakaranlık, aşağıda sıcak şehir ışıkları, yukarıda sessiz bir çatı bahçesi ve yıldızlarla boyanmış bir gökyüzü.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067593205680586752/img/rswrSoM2iHi1oZ8Y.jpg" width="600" alt="Japonya'da Çatı Bahçesinde Alacakaranlık">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6319)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2067593250354213218) | **Published:** Jun 18, 2026
+
+---
 ### Japon Sofrasına Sinematik Dolly-in Çekimi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1065,6 +1181,25 @@ Samimi bir Japon restoranındaki sofra düzenine doğru yavaş ve sinematik bir 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6212)**
 
 **Author:** [淼儿](https://x.com/tasakimori) | **Source:** [Link](https://x.com/tasakimori/status/2067589992281674195) | **Published:** Jun 18, 2026
+
+---
+### Soft Pink Roses Dreamer İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Pembe güller ve bir hayalperesti çevreleyen rüya gibi ışıklarla dolu, romantik ve yumuşak bir video istemi.
+
+#### 📝 Prompt
+
+```
+Nazik bir hayalperestin etrafında açan yumuşak pembe güller… Taç yaprakları ve rüya gibi bir ışıkla sarmalanmış şefkatli bir fısıltı.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067564271375134720/img/Kaj3_BjTZTb4EG6a.jpg" width="600" alt="Soft Pink Roses Dreamer İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6322)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2067564344557420569) | **Published:** Jun 18, 2026
 
 ---
 ### Kahvesini Yudumlayan Aslan
@@ -1319,7 +1454,7 @@ Doğal ve heyecanlı Japonca, net bir ses, mükemmel dudak senkronizasyonu. Hafi
 ---
 ### Game of Thrones Ejderha Uçuşu Sinematik Videosu
 
-![English](https://img.shields.io/badge/lang-English-blue)
+![中文](https://img.shields.io/badge/lang-中文-red)
 
 > Game of Thrones'tan ilham alan, gerçekçi fizik ve ışıklandırma özelliklerine sahip epik bir ejderha uçuşu sekansı oluşturmak için referans görseli canlandıran, oldukça detaylı sinematik bir komut.
 
@@ -2004,157 +2139,6 @@ Stil / kamera: 1980'lerin sonu / 1990'ların başı teatral film, 35mm anamorfik
 **Author:** [Brent Lynch](https://x.com/BrentLynch) | **Source:** [Link](https://x.com/BrentLynch/status/2066014432543883673) | **Published:** Jun 14, 2026
 
 ---
-### Narin Ruhlu Spirit Dancer Tayı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Spirit Dancer adındaki genç ve yumuşak huylu bir at için, onun narin ve gösterişli olmayan mizacını vurgulayan bir karakter istemi.
-
-#### 📝 Prompt
-
-```
-Spirit Dancer çok naziktir. Tatlı, genç ve yumuşak huyludur; altın gibi bir ruha sahip, şefkatli küçük bir tay. Gösterişli ya da otoriter değildir. O narindir. Korunmaya ihtiyaç duyan odur.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e79f7189f7c07c377fbff84c15e9e88/thumbnails/thumbnail.jpg" width="600" alt="Narin Ruhlu Spirit Dancer Tayı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6056)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2066010696832180333) | **Published:** Jun 14, 2026
-
----
-### Starship Roketi Dikey Yükseliş Drone Çekimi
-
-![한국어](https://img.shields.io/badge/lang-한국어-orange)
-
-> SpaceX Starship roketinin dikey yükselişini, detaylı yansımalar ve dokularla takip eden, Grok Imagine için sinematik ve hiper gerçekçi bir drone çekimi istemi.
-
-#### 📝 Prompt
-
-```
-Sinematik, hiper gerçekçi 10 saniyelik drone çekimi. Parlak ve güneşli bir hava, kusursuz mavi bir gökyüzü ve dağınık beyaz bulutlar, güçlü doğal ışık ve keskin, net gölgeler. Drone, devasa paslanmaz çelik Starship roketinin tabanına, yörünge fırlatma rampası motorlarının ve siyah taban yapısının hemen yanına çok yakın bir konumda başlar. Starship'in gövdesi boyunca güçlü, pürüzsüz, sürekli ve hızlanan bir dikey yükseliş gerçekleştirerek, uçuş boyunca cilalı paslanmaz çelik duvarlara çok yakın bir rotada ilerler. Dinamik yukarı yönlü kamera eğimi, roket yüzeyini yakından takip ederek her sürreal detayı gözler önüne serer: görünür kaynak izlerine sahip yansıtıcı paslanmaz çelik paneller, hassas altıgen ısı kalkanı karoları, ön kanatçıklar, ızgara kanatçıkları ve gökyüzüne uzanan keskin burun konisi. Özgünlük, geniş açılı bir drone lensi (24-35mm eşdeğeri), hafif doğal kamera sarsıntısı ve gerçekçi hareket bulanıklığı ile elde edilir. Pürüzsüz sinematik hareket, hiper gerçekçi dokular ve yansımalar, 8K çözünürlük, IMAX kalitesi ve National Geographic film tarzına sahip bir drone çekimi oluşturun.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c8034ff8719905670778edb2dc3f5aa8/thumbnails/thumbnail.jpg" width="600" alt="Starship Roketi Dikey Yükseliş Drone Çekimi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6061)**
-
-**Author:** [Drone V Drone](https://x.com/drone_v_drone) | **Source:** [Link](https://x.com/drone_v_drone/status/2066001253549981818) | **Published:** Jun 14, 2026
-
----
-### Barselona Plajında Ethereal Melek
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Altın saatlerde bir plajda duran, altın tüylü ve yeşil gözlü, ruhani bir meleğin animasyonunu oluşturmak için detaylı betimleyici bir komut.
-
-#### 📝 Prompt
-
-```
-parlak açık yeşil gözlü ruhani melek, etrafında süzülen 24 ayar altın tüyler, görünmez kanatlar, altın saatlerde Barselona plajında zarif bir şekilde duruyor, ilahi dişil enerji, göksel güzellik, rüya gibi ve ışıl ışıl
-•  ruhani melek
-•  göksel güzellik
-•  ilahi dişilik
-•  altın saat tanrıçası
-•  mistik melek
-•  cennetten gelen varlık
-•  rüya gibi melek
-•  başka dünyaya ait güzellik
-•  meleksi varlık
-•  ışıl ışıl melek
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e93302c0291c27c8f192a971f7ef2eb1/thumbnails/thumbnail.jpg" width="600" alt="Barselona Plajında Ethereal Melek">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6033)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2065908255382184326) | **Published:** Jun 13, 2026
-
----
-### İncil'den Sahne Sinematik Sabit Çekim
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eski Ahit'teki Daniel Kitabı'ndan esinlenen, sabit bir çekim için sinematik video istemi.
-
-#### 📝 Prompt
-
-```
-sabit çekim, bu Eski Ahit'teki Daniel Kitabı'ndan bir hikaye gibi görünüyor
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0832c01c153ba6a6966e4672e269439a/thumbnails/thumbnail.jpg" width="600" alt="İncil'den Sahne Sinematik Sabit Çekim">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6028)**
-
-**Author:** [Mary Jeanne Bautista Concepcion Cincotta](https://x.com/CincottaMary) | **Source:** [Link](https://x.com/CincottaMary/status/2065903975052751107) | **Published:** Jun 13, 2026
-
----
-### Devasa Bir Dalga Tünelinde Sörf Yapmak
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Devasa bir gelgit dalgasının tünelinde sörf yapan bir sörfçüyü betimleyen aksiyon odaklı bir komut.
-
-#### 📝 Prompt
-
-```
-Sörf tahtasının üzerinde, devasa bir dalganın tünelinde sörf yaparken bana sörf yapmayı öğrettiğin için teşekkürler ondoggie diye bağırdığını hayal et
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4609057e0760947ba35a3b1256e60ea2/thumbnails/thumbnail.jpg" width="600" alt="Devasa Bir Dalga Tünelinde Sörf Yapmak">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6034)**
-
-**Author:** [Jason t](https://x.com/doctani79) | **Source:** [Link](https://x.com/doctani79/status/2065886545970942265) | **Published:** Jun 13, 2026
-
----
-### Sinematik Lüks Bavul Video Reklamı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Şehir içi bir otobüs durağındaki dijital reklam panosunda yer alan bir modelin bulunduğu, lüks bir bavul markası için profesyonel sinematik video istemi.
-
-#### 📝 Prompt
-
-```
-Modern bir şehir otobüs durağında, sokak mimarisiyle bütünleşmiş büyük, siyah çerçeveli bir dijital reklam panosunu içeren sinematik sürreal lüks bavul reklamı. Reklam panosu ekranının içinde; bej rengi özel dikim bir blazer ceket, koyu renk pantolon ve aynı tonda bej yüksek topuklu ayakkabılar giymiş, elinde üst segment sert kabuklu bavul seti tutan bir moda modeli yer alıyor. Model, sahneye giriyormuş veya sahneden çıkıyormuş gibi bir platform üzerinde duruyor. Aydınlatma, yumuşak parıltılar ve keskin yansımalarla üst düzey ticari tarza sahip. Sinematik 8k, fotogerçekçi, zarif, şehirli şıklığı.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/93f5ee4787e6a616e30b49e9cdf6ea30/thumbnails/thumbnail.jpg" width="600" alt="Sinematik Lüks Bavul Video Reklamı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6027)**
-
-**Author:** [Alamgir Hossain](https://x.com/mdalamgir95) | **Source:** [Link](https://x.com/mdalamgir95/status/2065846622324674965) | **Published:** Jun 13, 2026
-
----
-### Dağlarda Sinematik Diyalog Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Dağlar ve ormanlar üzerinde gezinen bir kamera açısı ile Jilla ve Rolf karakterleri arasındaki diyaloğu içeren anlatısal bir video istemi.
-
-#### 📝 Prompt
-
-```
-Jilla, etrafındaki güzelliği seyretmek için bir anlığına durur. Kamera; dağlara, akan nehirlere, çağıldayan derelere ve binlerce fit aşağıda, çam ağaçlarından oluşan bir ormanın içinden esen hafif rüzgara doğru kayar.
-
-Rolf, "Çok güzel değil mi Jilla?" der.
-
-Jilla hayranlık dolu bir şaşkınlıkla, "Kalbine kazınacak bir manzara," der. Rolf'a bakar ve gülümser.
-
-Rolf: "Tırmanışa değdi," der.
-
-Jilla: "Her bir adıma," diye yanıtlar.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/753193e18c82e85956747b8d78ce3e96/thumbnails/thumbnail.jpg" width="600" alt="Dağlarda Sinematik Diyalog Sahnesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6030)**
-
-**Author:** [Kim Maria](https://x.com/KimMari46054539) | **Source:** [Link](https://x.com/KimMari46054539/status/2065845361697038839) | **Published:** Jun 13, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2216,6 +2200,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-22T05:21:47.958Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-22T13:58:51.691Z</sub>
 
 </div>
