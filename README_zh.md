@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **1919** |
+| 📝 提示词总数 | **1934** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-06-23** |
 
@@ -189,6 +189,306 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 年长巫师油画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个电影级视频提示词，旨在创作一幅留着银色胡须、身着天鹅绒长袍的年长巫师肖像，风格仿照伦勃朗的油画作品。
+
+#### 📝 提示词
+
+```
+一位留着长长银色胡须、拥有深绿色眼睛的年长巫师肖像，身穿磨损的天鹅绒长袍，戴着饰有精细符文的尖顶帽。古典油画风格，笔触丰富，采用类似伦勃朗的明暗对照法照明，背景深邃且富有情绪感。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069140101335240704/img/B0BT_K2r94QlMt51.jpg" width="600" alt="年长巫师油画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6352)**
+
+**作者:** [Tippawan](https://x.com/Tippawaniqaa1) | **来源:** [Link](https://x.com/Tippawaniqaa1/status/2069140119777669192) | **发布时间:** Jun 22, 2026
+
+---
+### 宇宙之心辐射能量
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段电影质感的提示词，描述了一个发光的红色心形标志漂浮进入深邃宇宙空间。
+
+#### 📝 提示词
+
+```
+位于璀璨金色能量环中的发光红色心形标志正被送往宇宙：它从前景优雅地漂入无限深邃的宇宙空间，周围环绕着旋转的恒星、充满活力的星云以及遥远的星系。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069126357981040640/img/BJOmfWI2u0COfsHh.jpg" width="600" alt="宇宙之心辐射能量">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6344)**
+
+**作者:** [David Herbert Thomas](https://x.com/Diabach1972) | **来源:** [Link](https://x.com/Diabach1972/status/2069126422455546185) | **发布时间:** Jun 22, 2026
+
+---
+### 翼龙变形之旅
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个超现实的动画提示词：冲浪者变身为翼龙并前往木星。
+
+#### 📝 提示词
+
+```
+赶上浪潮
+
+她在 7 月变身为一只翼龙，飞向木星。Juniper 是她的护送者。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069110645916663808/img/8R4jZoEj_h4YMOXQ.jpg" width="600" alt="翼龙变形之旅">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6357)**
+
+**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **来源:** [Link](https://x.com/PhilipCarrn7711/status/2069110771632476463) | **发布时间:** Jun 22, 2026
+
+---
+### 宁静旋律之光
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个关于光线与飞虫歌唱的宁静视频的诗意提示词。
+
+#### 📝 提示词
+
+```
+💡 光之射线 🌙🌕
+
+它们与飞虫是好朋友，飞虫协助它们唱出一段旋律 🎵，那正是宁静本身。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069100655814590464/img/x59SVmp1rbTqAfhg.jpg" width="600" alt="宁静旋律之光">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6348)**
+
+**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **来源:** [Link](https://x.com/PhilipCarrn7711/status/2069100778220859677) | **发布时间:** Jun 22, 2026
+
+---
+### 基于帧引导的快速推拉镜头视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个技术提示词，展示了 Grok Imagine 1.5 遵循特定起始帧和结束帧指令的能力。
+
+#### 📝 提示词
+
+```
+以 [Image1] 作为起始帧，快速推拉镜头穿过房屋窗户，房屋窗户内部的画面应与 [Image2] 完全一致
+```
+
+<img src="https://cms-assets.youmind.com/media/1782204557179_0yl3e5_HLbpW05WsAA7Sgp.jpg" width="600" alt="基于帧引导的快速推拉镜头视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6353)**
+
+**作者:** [steve johnson](https://x.com/seeksteve) | **来源:** [Link](https://x.com/seeksteve/status/2069097737631445197) | **发布时间:** Jun 22, 2026
+
+---
+### 复古抽象风格摩登女郎市集
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个关于 20 世纪 20 年代摩登女郎跳蚤市场的艺术提示词，采用抽象画风格。
+
+#### 📝 提示词
+
+```
+一个复古时尚跳蚤市场，女性身着 20 世纪 20 年代的摩登女郎服饰，呈现抽象画风格
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069074678577041408/img/6DicXuBuX-skk71r.jpg" width="600" alt="复古抽象风格摩登女郎市集">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6345)**
+
+**作者:** [Déborah](https://x.com/dvorahfr) | **来源:** [Link](https://x.com/dvorahfr/status/2069076254813233638) | **发布时间:** Jun 22, 2026
+
+---
+### 咖啡杯交互动作
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个专注于咖啡杯移动和放置的特定角色交互提示词。
+
+#### 📝 提示词
+
+```
+将咖啡杯移动到她的胸前，使杯子确实接触到她胸部上方骨感的位置
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069075311174848512/img/TQy-8rEQHABNtQVk.jpg" width="600" alt="咖啡杯交互动作">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6350)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2069075371547623644) | **发布时间:** Jun 22, 2026
+
+---
+### 戴帽子的唱歌小狗
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个充满趣味的提示词，用于生成小狗戴着帽子唱歌并伴随欢快表情动作的视频。
+
+#### 📝 提示词
+
+```
+戴着帽子的小狗唱着“我们是戴帽子的小狗，帽子绝不摘下”，并配以欢快、充满活力的动作和俏皮的表情。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068989769913131008/img/ZYyhX3vccsI9lY7k.jpg" width="600" alt="戴帽子的唱歌小狗">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6343)**
+
+**作者:** [marianne](https://x.com/tuakdotsol) | **来源:** [Link](https://x.com/tuakdotsol/status/2069006656927637598) | **发布时间:** Jun 22, 2026
+
+---
+### 海底家庭鱼类动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个温馨的迪士尼皮克斯风格视频提示词，描绘了海洋中巨大的鱼妈妈和她的鱼宝宝们。
+
+#### 📝 提示词
+
+```
+精美的数字绘画，描绘了一条巨大的鱼妈妈带领着她的小鱼宝宝穿过平静、清澈见底的绿松石色海洋。小鱼们紧紧跟在她身后。远处可见色彩斑斓的珊瑚。上方透出柔和的光芒。迪士尼皮克斯艺术风格，色彩鲜艳，温馨的家庭场景。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068967572360605696/img/bwwSFaIHS3o4XVoD.jpg" width="600" alt="海底家庭鱼类动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6347)**
+
+**作者:** [DAAZLE FC](https://x.com/DAAZLEFC) | **来源:** [Link](https://x.com/DAAZLEFC/status/2068967848849117493) | **发布时间:** Jun 22, 2026
+
+---
+### 穿着连帽衫跳舞的小狗
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个关于一群小狗在后院跳舞唱歌的高细节视频提示词。
+
+#### 📝 提示词
+
+```
+三只毛茸茸的可爱小狗穿着彩色连帽衫（红色、蓝色、黄色），身处阳光明媚、绿草如茵且有木栅栏的后院中。它们充满活力地跳着舞，并唱着“我们是穿着连帽衫的小狗，准备好跳舞啦！”，表情欢快俏皮。动作序列：同步舞蹈，一只领唱，其他小狗伴舞，一起旋转、跳跃，最后举起爪子庆祝。明亮的阳光，鲜艳的色彩，可爱风格，流畅的动画，高细节，有趣且生动的短视频，6 秒
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068952215646298113/img/LUImq89MgGO62FwT.jpg" width="600" alt="穿着连帽衫跳舞的小狗">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6351)**
+
+**作者:** [liuhuofeiyan](https://x.com/yhjocean) | **来源:** [Link](https://x.com/yhjocean/status/2068953107162370443) | **发布时间:** Jun 22, 2026
+
+---
+### 水管缩回序列
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于动画制作的技术视频生成提示词，描述水流停止且水管无泄漏缩回的过程。
+
+#### 📝 提示词
+
+```
+在创建视频时。
+切换为英式口音。
+切换为英语语音。
+水流需要在 5 到 20 秒内停止流经管道。
+然后。
+管道缩回内部。
+过程中不能有任何泄漏。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068952774650306560/img/jl0yD2PO8-nSyBtP.jpg" width="600" alt="水管缩回序列">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6354)**
+
+**作者:** [Luke Clayden](https://x.com/clayden5_luke) | **来源:** [Link](https://x.com/clayden5_luke/status/2068952831491551674) | **发布时间:** Jun 22, 2026
+
+---
+### 语音控制水流动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个视频生成提示词，用于指示配音更改以及场景中水流停止的具体时间。
+
+#### 📝 提示词
+
+```
+在创建视频时。
+更改为英式口音。
+更改为英语配音。
+。
+。
+水流需要在 5-20 秒内停止流经管道。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068951776275873792/img/KQsGnADBHUPSJPMX.jpg" width="600" alt="语音控制水流动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6355)**
+
+**作者:** [Luke Clayden](https://x.com/clayden5_luke) | **来源:** [Link](https://x.com/clayden5_luke/status/2068951864851268085) | **发布时间:** Jun 22, 2026
+
+---
+### 黑猩猩角色服装变换
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个 3D 动画提示词，展示了一只在沙漠中的黑猩猩角色，在走向镜头的过程中进行无缝的科幻风格服装变换。
+
+#### 📝 提示词
+
+```
+3D 动画黑猩猩角色，身处沙漠。它戴着船长帽和红色心形太阳镜。服装进行无缝变换，从一套黑色带有霓虹蓝光的科幻套装变为蓝色 T 恤和短裤。它正走向镜头，面带微笑，脚下扬起尘土。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068942872360157184/img/V3BZyHjSNCrZ52GZ.jpg" width="600" alt="黑猩猩角色服装变换">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6356)**
+
+**作者:** [Haris X](https://x.com/Haris_afxal) | **来源:** [Link](https://x.com/Haris_afxal/status/2068942939066413450) | **发布时间:** Jun 22, 2026
+
+---
+### 忍者巫师悬浮跳跃
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个动作导向的提示词，描绘了一位忍者巫师在建筑物之间进行超自然跳跃的场景。
+
+#### 📝 提示词
+
+```
+创作一个忍者巫师从一栋建筑跳跃到另一栋建筑的画面，跨越巨大的距离并利用悬浮能力完成跳跃，不要连帽衫或斗篷，只需佩戴忍者面罩
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068910740182880256/img/V8DGeJrsim2Tcqbv.jpg" width="600" alt="忍者巫师悬浮跳跃">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6349)**
+
+**作者:** [Justin Brennan](https://x.com/jmjbrennan32780) | **来源:** [Link](https://x.com/jmjbrennan32780/status/2068910792565510604) | **发布时间:** Jun 22, 2026
+
+---
+### 古代科幻漩涡运动
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个包含魔法符文和科幻背景下创造漩涡的电影级视频提示词。
+
+#### 📝 提示词
+
+```
+唤醒远古时代的内在火焰，让力量符文点燃，释放科幻风格的创造漩涡，角落处显示 TLV
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068904173983404032/img/HrOkfacMLsRL4HGk.jpg" width="600" alt="古代科幻漩涡运动">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6346)**
+
+**作者:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **来源:** [Link](https://x.com/TLouisevsughan/status/2068904236185006505) | **发布时间:** Jun 22, 2026
+
+---
 ### 戴着连指手套跳舞的小猫
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1843,309 +2143,6 @@ Elon Musk 呈现嘻哈黑帮造型，戴着金牙套、酷炫墨镜，身穿黑�
 **作者:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **来源:** [Link](https://x.com/gpimpmyspace/status/2066391012470309276) | **发布时间:** Jun 15, 2026
 
 ---
-### 金色海洋生物与天使之鳍礼物
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段描述性视频提示词，讲述了一只空灵的金色海洋生物向天使赠送发光尾鳍的场景。
-
-#### 📝 提示词
-
-```
-金色海洋生物正轻柔地向天使递出一片美丽、空灵且散发着光芒的尾鳍。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/981a4c3276f1b8222331bf2568e55f04/thumbnails/thumbnail.jpg" width="600" alt="金色海洋生物与天使之鳍礼物">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6094)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2066389144213876780) | **发布时间:** Jun 15, 2026
-
----
-### 守望先锋 Mercy Valkyrie 爱心视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个关于《守望先锋》中身着 Valkyrie 套装的 Mercy 向观众展示发光爱心符号的视频生成提示词。
-
-#### 📝 提示词
-
-```
-Mercy (守望先锋) 身着经典的白金配色 Valkyrie 套装，向观众/屏幕方向伸出手，仿佛正在递出或展示一个显眼的红白相间爱心符号（像治疗徽章一样在她掌心发光或悬浮），🕊️🤍
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9fdd94ee1247c0dfa9ee9e8700c40294/thumbnails/thumbnail.jpg" width="600" alt="守望先锋 Mercy Valkyrie 爱心视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6092)**
-
-**作者:** [Irene Sieg](https://x.com/SiegSieg50040) | **来源:** [Link](https://x.com/SiegSieg50040/status/2066380661015953874) | **发布时间:** Jun 15, 2026
-
----
-### 神秘海洋生物的圣洁造访
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段电影质感的视频提示词，描绘了一只神秘的深海生物感知到来自上方的神圣存在，营造出宁静而空灵的氛围。
-
-#### 📝 提示词
-
-```
-这只神秘的海洋生物感知到来自上方天界的造访
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2667d4bfe99f3ec0f044de12c8938cb0/thumbnails/thumbnail.jpg" width="600" alt="神秘海洋生物的圣洁造访">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6100)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2066366065647440340) | **发布时间:** Jun 15, 2026
-
----
-### 星夜雾气动态
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个为 grok-imagine 设计的描述性提示词，旨在通过波动的雾气、风和闪烁的星星创造电影级的氛围动态效果。
-
-#### 📝 提示词
-
-```
-雾气和风应该呈现波动感，星夜中的星星闪烁……更多环境动态
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e2b7bbd03cda8852cef9392674af862f/thumbnails/thumbnail.jpg" width="600" alt="星夜雾气动态">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6060)**
-
-**作者:** [Janice 🟧](https://x.com/titlejt) | **来源:** [Link](https://x.com/titlejt/status/2066358379300442612) | **发布时间:** Jun 15, 2026
-
----
-### 露天河畔木屋工作室
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段宁静的清晨视频提示词，展现了阳光洒在河畔木屋工作室的场景，并带有微风拂过的效果。
-
-#### 📝 提示词
-
-```
-一个明亮的露天工作室，一半室内一半室外，坐落在宁静的清晨河畔出租木屋中。阳光充足的空间直接通向木质阳台，俯瞰着清晨阳光下波光粼粼的河流，伴有微风拂过（世界构建）
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/29aeb249a788b0c25b18d37d8745114d/thumbnails/thumbnail.jpg" width="600" alt="露天河畔木屋工作室">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6099)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2066353976765731158) | **发布时间:** Jun 15, 2026
-
----
-### 虹彩水面人脸动画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于制作女性面部在充满活力的水中移动的动态提示词，包含迷幻的彩虹涟漪和油彩漩涡效果。
-
-#### 📝 提示词
-
-```
-这幅超现实的数字艺术作品栩栩如生，年轻女性的面部在充满活力的虹彩水中轻柔移动，迷幻的彩虹涟漪和油彩漩涡在她的水下肌肤与水面上动态流转、闪烁。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06526b33fbdad194fa9bc2bdffa3aa35/thumbnails/thumbnail.jpg" width="600" alt="虹彩水面人脸动画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6098)**
-
-**作者:** [quantum void](https://x.com/Happygator) | **来源:** [Link](https://x.com/Happygator/status/2066319820736373187) | **发布时间:** Jun 15, 2026
-
----
-### 缓慢的头部倾斜与镜头缩放
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个特定于动作的视频提示词，描述了一个自然流畅的过程：主体向后倾斜头部，同时镜头缓慢推进。
-
-#### 📝 提示词
-
-```
-场景自然流畅，主体缓慢地向后倾斜头部。镜头缓慢推进。这一动作过程会短暂地遮挡镜头。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f83d942670740ef094468a71a843b9b4/thumbnails/thumbnail.jpg" width="600" alt="缓慢的头部倾斜与镜头缩放">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6093)**
-
-**作者:** [Fi OC](https://x.com/fioc2024) | **来源:** [Link](https://x.com/fioc2024/status/2066315176836550864) | **发布时间:** Jun 15, 2026
-
----
-### 骑着火箭的 AI 角色
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一个充满动感的科幻视频提示词：AI 角色们各自骑着小型火箭，编队飞向火星，并通过全息影像进行交流。
-
-#### 📝 提示词
-
-```
-编辑当前图像，将画面修改为每个人都跨坐在各自的火箭上。每个儿童 AI 跨坐在属于自己的未来感小型火箭上，多个单位组成编队共同飞向火星。他们一边通过通信（数据链路或全息影像）继续进行草案会议，一边讨论职能分工。保持充满动感且可爱的科幻风格，色彩鲜艳，氛围温暖。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/24cccb35332fb3f93f501a81dab36352/thumbnails/thumbnail.jpg" width="600" alt="骑着火箭的 AI 角色">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6059)**
-
-**作者:** [Kafka Beatrix@贖罪卿](https://x.com/botamochi8639) | **来源:** [Link](https://x.com/botamochi8639/status/2066278419013476806) | **发布时间:** Jun 14, 2026
-
----
-### 动漫开场视频提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用于生成具有动态效果和粒子特效的电影级动漫开场序列的高质量提示词。
-
-#### 📝 提示词
-
-```
-高质量动漫开场场景，精美角色设计，动态发丝飘动，发光粒子，情感丰富的背景天空，快速剪辑，戏剧性姿势，日式动漫风格，9:16 竖屏视频。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ff214aa391314d1d812e7193352bdc6a/thumbnails/thumbnail.jpg" width="600" alt="动漫开场视频提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6062)**
-
-**作者:** [クレア](https://x.com/kureakurea01) | **来源:** [Link](https://x.com/kureakurea01/status/2066178860715315424) | **发布时间:** Jun 14, 2026
-
----
-### 自信的健身可穿戴设备肖像
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一张在豪华健身房背景下拍摄的女性高质量肖像，突出了颈部佩戴的高科技可穿戴设备。
-
-#### 📝 提示词
-
-```
-一位自信的年轻东亚女性在豪华健身房中摆拍，颈部和锁骨区域醒目地佩戴着一款时尚的高科技锁骨传导豪华可穿戴设备，设备上印有优雅现代字体的 Nadi 品牌标识。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4efde8d06b86a11ff41e502fbbfd8064/thumbnails/thumbnail.jpg" width="600" alt="自信的健身可穿戴设备肖像">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6054)**
-
-**作者:** [Mark Richter](https://x.com/wmarkrichter) | **来源:** [Link](https://x.com/wmarkrichter/status/2066089915117367330) | **发布时间:** Jun 14, 2026
-
----
-### 专业文本叠加编辑
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个视频编辑提示词，用于在保持原始主体构图的同时添加风格化文本。
-
-#### 📝 提示词
-
-```
-添加文本“Sorry”，使用优雅、专业的白色无衬线字体，并带有微妙的深色阴影以提高可读性，放置在图像底部居中位置。保持女性肖像、表情、光影和构图完全不变。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5401722a79f680a88c67e89a1eb5d542/thumbnails/thumbnail.jpg" width="600" alt="专业文本叠加编辑">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6053)**
-
-**作者:** [Caroline Winberg](https://x.com/Escort_Breeder) | **来源:** [Link](https://x.com/Escort_Breeder/status/2066078531235274768) | **发布时间:** Jun 14, 2026
-
----
-### 电影感小猫动态
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段细腻的电影感视频提示词，展示了一只小猫，周围环绕着飘落的花瓣和柔和的发光粒子。
-
-#### 📝 提示词
-
-```
-camera: 缓慢的电影感推镜头，聚焦于小猫角色
-motion: 花瓣和柔和的发光粒子在空气中轻盈飘动，细微的呼吸动画，丝带在微风中轻柔摆动
-environment: 宁静
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ad93afbcfc31409d09ae35ee19650ee3/thumbnails/thumbnail.jpg" width="600" alt="电影感小猫动态">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6052)**
-
-**作者:** [🐱あやちゃん🐱](https://x.com/AYA22725524) | **来源:** [Link](https://x.com/AYA22725524/status/2066063315940659566) | **发布时间:** Jun 14, 2026
-
----
-### 海滩上跌倒的男子
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个以角色驱动的动态提示词，描述了一名男子在海滩上行走时跌倒，随后以尴尬但积极的姿态恢复状态的过程。
-
-#### 📝 提示词
-
-```
-他一边看着大海一边向前走，随后被绊倒并脸朝下摔在地上，接着迅速跳起，露出尴尬的表情，并对着镜头竖起两个大拇指。正在为世界杯做准备。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/74f64fb1749f28870e918625cba191b2/thumbnails/thumbnail.jpg" width="600" alt="海滩上跌倒的男子">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6058)**
-
-**作者:** [Billy Balls](https://x.com/BillyBalls25138) | **来源:** [Link](https://x.com/BillyBalls25138/status/2066060391185019021) | **发布时间:** Jun 14, 2026
-
----
-### 超级英雄舞蹈大乱斗
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个复杂的电影级提示词，旨在创作一场漫威与 DC 超级英雄之间的舞蹈竞技，并配合音乐节奏进行动态运镜。
-
-#### 📝 提示词
-
-```
-来自不同工作室的超级英雄大乱斗；漫威对战 DC。伴随着 Michael Jackson 的《Beat It》进行舞蹈竞技。电影质感。超写实。动态运镜和跳剪与音乐节拍同步……
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4d32f2f101ad577fc5503ab4699ab0b5/thumbnails/thumbnail.jpg" width="600" alt="超级英雄舞蹈大乱斗">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6057)**
-
-**作者:** [Billy Balls](https://x.com/BillyBalls25138) | **来源:** [Link](https://x.com/BillyBalls25138/status/2066059347398963597) | **发布时间:** Jun 14, 2026
-
----
-### 90 年代动作电影火车场场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个高度详细的提示词，旨在重现 1990 年代影院动作冒险电影场景，包含实拍特效和电影级构图。
-
-#### 📝 提示词
-
-```
-复古 1990 年代影院动作冒险电影场景，16:9 宽银幕，仅限实拍特效，使用 35mm 变形镜头拍摄，柯达风格胶片颗粒，尘土飞扬的沙漠热浪，被阳光炙烤的火车场，手持摄像机的动感，真实的特技动作编排，无 CGI。
-
-一位留着火红色长发的女性，身穿棕褐色工装衬衫、修身蓝色牛仔裤、皮带、枪套和靴子，在生锈的货运列车旁奔跑，身后火车车厢喷溅出火花和浓烟。她右手低垂，紧握一把逼真的道具左轮手枪，手指位置正确，手腕对齐自然，奔跑姿势真实可信。她奔跑时左臂自然摆动，神情专注且急促，头发在热风中飘动。
-
-0: 00–0:03
-完全从图像开始。火车旁的中景跟拍镜头。她向镜头左侧奔跑，大口喘气，回头看了一眼，火花从火车上倾泻而出。烟雾在画面中翻滚。奔跑时左轮手枪保持安全向下，握姿稳固且符合解剖学结构。
-
-0: 03–0:06
-手持摄像机推进。当身后火车车厢被实拍爆炸装置炸开时，她低头躲避，橙色的火花和黑烟向外喷涌。靴子周围尘土飞扬。她表情坚定，虽有恐惧但保持冷静，宛如 90 年代脚踏实地的动作女英雄。
-
-0: 06–0:10
-她滑到一根钢制轨道柱后寻找掩护，迅速转身，双手举起左轮手枪，做出一个干净利落的防御瞄准动作。保持枪支真实：正确的枪管形状、弹巢、扳机护圈，自然的双手握姿，没有扭曲的手指，没有多余的手指。她暂时没有开火——她在倾听，双眼透过漂浮的烟雾进行扫描。
-
-0: 10–0:14
-火车更远处发生了第二次爆炸。她畏缩了一下，随后下定决心，冲过铁轨，向货运车厢之间的缝隙跑去。摄像机伴随着强烈的手持运动模糊跟拍，火花像火雨一样在她身后落下。最后她消失在烟雾中，头发和衬衫在风中猎猎作响，燃烧的火车在她身后若隐若现。
-
-风格 / 摄像：80 年代末 / 90 年代初影院电影，35mm 变形 Panavision 质感，50mm 镜头，浅景深，实拍烟火，真实烟雾，真实灰尘，不完美的对焦，胶片颗粒，轻微的胶片抖动，温暖的沙漠阳光，生锈的红色和尘土般的棕褐色，充满颗粒感但色彩丰富的动作惊悚基调。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6c050aadfbef6c20c42ff1ca33bab3d9/thumbnails/thumbnail.jpg" width="600" alt="90 年代动作电影火车场场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6055)**
-
-**作者:** [Brent Lynch](https://x.com/BrentLynch) | **来源:** [Link](https://x.com/BrentLynch/status/2066014432543883673) | **发布时间:** Jun 14, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2207,6 +2204,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-06-23T04:20:51.007Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-06-23T11:38:51.120Z</sub>
 
 </div>

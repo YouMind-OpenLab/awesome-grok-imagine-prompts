@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1919** |
+| 📝 Total Prompts | **1934** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-23** |
 
@@ -189,6 +189,307 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Elderly Wizard Oil Painting
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt creating a portrait of an elderly wizard with a silver beard and velvet robes, styled like a Rembrandt oil painting.
+
+#### 📝 Prompt
+
+```
+Portrait of an elderly wizard with a long silver beard and deep green eyes, wearing a worn velvet robe and a pointed hat with subtle runes. Classical oil painting style with rich brushstrokes, Rembrandt-like chiaroscuro lighting, dark moody background
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069140101335240704/img/B0BT_K2r94QlMt51.jpg" width="600" alt="Elderly Wizard Oil Painting">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6352)**
+
+**Author:** [Tippawan](https://x.com/Tippawaniqaa1) | **Source:** [Link](https://x.com/Tippawaniqaa1/status/2069140119777669192) | **Published:** Jun 22, 2026
+
+---
+### Cosmic Heart Radiant Energy
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic prompt describing a glowing red heart emblem drifting into deep cosmic space.
+
+#### 📝 Prompt
+
+```
+The glowing red heart emblem inside its radiant golden energy ring is being sent to the universe: it drifts gracefully from the foreground into the infinite depths of cosmic space, surrounded by swirling stars, vibrant nebulae, and distant galaxies.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069126357981040640/img/BJOmfWI2u0COfsHh.jpg" width="600" alt="Cosmic Heart Radiant Energy">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6344)**
+
+**Author:** [David Herbert Thomas](https://x.com/Diabach1972) | **Source:** [Link](https://x.com/Diabach1972/status/2069126422455546185) | **Published:** Jun 22, 2026
+
+---
+### Pterodactyl Transformation Journey
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal animation prompt where a surfer transforms into a pterodactyl and travels to Jupiter.
+
+#### 📝 Prompt
+
+```
+catch surf
+
+She turns into a pterodactyl and flies to Jupiter in July. Juniper’s her escort.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069110645916663808/img/8R4jZoEj_h4YMOXQ.jpg" width="600" alt="Pterodactyl Transformation Journey">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6357)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2069110771632476463) | **Published:** Jun 22, 2026
+
+---
+### Serenity Melody Ray
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A poetic prompt for a serene video involving light rays and singing flies.
+
+#### 📝 Prompt
+
+```
+💡 of the ray🌙🌕
+
+They are friends with flies who help them sing a melody 🎵 that is serenity itself.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069100655814590464/img/x59SVmp1rbTqAfhg.jpg" width="600" alt="Serenity Melody Ray">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6348)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2069100778220859677) | **Published:** Jun 22, 2026
+
+---
+### Frame-Guided Crash Zoom Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A technical prompt demonstrating Grok Imagine 1.5's ability to follow specific start and end frame directions.
+
+#### 📝 Prompt
+
+```
+start with [Image1] as the exact first frame, crash zoom through thr window of the house, inside the window of the house is the exact frame [Image2]
+```
+
+<img src="https://cms-assets.youmind.com/media/1782204557179_0yl3e5_HLbpW05WsAA7Sgp.jpg" width="600" alt="Frame-Guided Crash Zoom Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6353)**
+
+**Author:** [steve johnson](https://x.com/seeksteve) | **Source:** [Link](https://x.com/seeksteve/status/2069097737631445197) | **Published:** Jun 22, 2026
+
+---
+### Vintage Abstract Flappers Market
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An artistic prompt for a 1920s flapper flea market in an abstract painting style.
+
+#### 📝 Prompt
+
+```
+a vintage fashion flea market with women dressed as 1920s flappers in the style of an absract painting
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069074678577041408/img/6DicXuBuX-skk71r.jpg" width="600" alt="Vintage Abstract Flappers Market">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6345)**
+
+**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2069076254813233638) | **Published:** Jun 22, 2026
+
+---
+### Coffee Cup Interaction Motion
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A specific character interaction prompt focused on the movement and placement of a coffee cup.
+
+#### 📝 Prompt
+
+```
+Moves cup of coffee to her chest so cup is actually touching her chest high on the bony part of the chest
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069075311174848512/img/TQy-8rEQHABNtQVk.jpg" width="600" alt="Coffee Cup Interaction Motion">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6350)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2069075371547623644) | **Published:** Jun 22, 2026
+
+---
+### Singing Puppies in Hats
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A playful prompt for generating a video of puppies in hats singing and moving with joyful expressions.
+
+#### 📝 Prompt
+
+```
+The puppies with hats sing "we’re dogs with hats and the hats stay on” with joyful, energetic movements and playful expressions.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068989769913131008/img/ZYyhX3vccsI9lY7k.jpg" width="600" alt="Singing Puppies in Hats">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6343)**
+
+**Author:** [marianne](https://x.com/tuakdotsol) | **Source:** [Link](https://x.com/tuakdotsol/status/2069006656927637598) | **Published:** Jun 22, 2026
+
+---
+### Undersea Family Fish Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A heartwarming Disney-Pixar inspired video prompt of a giant mother fish and her babies in the ocean.
+
+#### 📝 Prompt
+
+```
+Beautiful digital painting of a giant mother fish leading her little baby fishes through a calm, crystal-clear turquoise ocean. Small fish are following closely behind her. Colorful coral visible in the distance. Soft glowing light from above. Disney-Pixar inspired art style, vibrant colors, heartwarming family scene.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068967572360605696/img/bwwSFaIHS3o4XVoD.jpg" width="600" alt="Undersea Family Fish Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6347)**
+
+**Author:** [DAAZLE FC](https://x.com/DAAZLEFC) | **Source:** [Link](https://x.com/DAAZLEFC/status/2068967848849117493) | **Published:** Jun 22, 2026
+
+---
+### Dancing Puppies in Hoodies
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed video prompt for a group of puppies dancing and singing in a backyard.
+
+#### 📝 Prompt
+
+```
+Three cute fluffy puppies wearing colorful hoodies (red, blue, yellow) in a sunny backyard with green grass and wooden fence. They are dancing energetically and singing “We’re puppies in hoodies, ready to boogie!” with joyful, playful expressions. Sequence of actions: synchronized dancing, one leading the song while others dance, spinning and twirling together, jumping high, ending with paws raised in celebration. Bright sunlight, vibrant colors, adorable cute style, smooth animation, high detail, fun and lively short video, 6seconds
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068952215646298113/img/LUImq89MgGO62FwT.jpg" width="600" alt="Dancing Puppies in Hoodies">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6351)**
+
+**Author:** [liuhuofeiyan](https://x.com/yhjocean) | **Source:** [Link](https://x.com/yhjocean/status/2068953107162370443) | **Published:** Jun 22, 2026
+
+---
+### Water Pipe Retraction Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A technical video generation prompt for an animation where water stops flowing and a pipe retracts without leaks.
+
+#### 📝 Prompt
+
+```
+When creating a video.
+Change to British voice.
+Change to english voice 
+the water needs to stop flowing through the pipe in 5-20 seconds.
+then 
+the pipe retracts inside.
+without any leaks.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068952774650306560/img/jl0yD2PO8-nSyBtP.jpg" width="600" alt="Water Pipe Retraction Sequence">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6354)**
+
+**Author:** [Luke Clayden](https://x.com/clayden5_luke) | **Source:** [Link](https://x.com/clayden5_luke/status/2068952831491551674) | **Published:** Jun 22, 2026
+
+---
+### Voice Controlled Water Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt instructing a voice-over change and a specific timing for water flow to stop in a scene.
+
+#### 📝 Prompt
+
+```
+When creating a video.
+Change to British voice.
+Change to english voice 
+.
+.
+the water needs to stop flowing through the pipe in 5-20 seconds.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068951776275873792/img/KQsGnADBHUPSJPMX.jpg" width="600" alt="Voice Controlled Water Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6355)**
+
+**Author:** [Luke Clayden](https://x.com/clayden5_luke) | **Source:** [Link](https://x.com/clayden5_luke/status/2068951864851268085) | **Published:** Jun 22, 2026
+
+---
+### Chimp Character Outfit Transition
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A 3D animated prompt of a chimp character in a desert performing a seamless sci-fi outfit change while walking toward the camera.
+
+#### 📝 Prompt
+
+```
+3D animated chimp character in a desert. He wears a captain hat and red heart sunglasses. Seamless outfit change transition from a black neon-blue glowing sci-fi suit into a blue t-shirt and shorts. Walking toward the camera, smiling, kicking up dust.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068942872360157184/img/V3BZyHjSNCrZ52GZ.jpg" width="600" alt="Chimp Character Outfit Transition">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6356)**
+
+**Author:** [Haris X](https://x.com/Haris_afxal) | **Source:** [Link](https://x.com/Haris_afxal/status/2068942939066413450) | **Published:** Jun 22, 2026
+
+---
+### Ninja Wizard Levitation Jump
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An action-oriented prompt featuring a ninja wizard performing a supernatural jump between buildings.
+
+#### 📝 Prompt
+
+```
+Create a ninja wizard jumping from one building to another, a large distance using levitations to make the jump, no hood or cape
+Just a ninja mask
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068910740182880256/img/V8DGeJrsim2Tcqbv.jpg" width="600" alt="Ninja Wizard Levitation Jump">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6349)**
+
+**Author:** [Justin Brennan](https://x.com/jmjbrennan32780) | **Source:** [Link](https://x.com/jmjbrennan32780/status/2068910792565510604) | **Published:** Jun 22, 2026
+
+---
+### Ancient Sci-Fi Vortex Motion
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt involving magical sigils and a vortex of creation in a sci-fi setting.
+
+#### 📝 Prompt
+
+```
+Awaken internal flame of the ancient time, let the sigils of power ignite, unleash the Vortex of creation sci fi, TLV in corner
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068904173983404032/img/HrOkfacMLsRL4HGk.jpg" width="600" alt="Ancient Sci-Fi Vortex Motion">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6346)**
+
+**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2068904236185006505) | **Published:** Jun 22, 2026
+
+---
 ### Dancing Kittens with Mittens
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -651,11 +952,11 @@ tiger growling on French sofa in luxury estate nostalgic vibe heavy shadows heav
 **Author:** [Love’s Last Icon](https://x.com/primusv1) | **Source:** [Link](https://x.com/primusv1/status/2068078806170993124) | **Published:** Jun 19, 2026
 
 ---
-### Ethereal Woman with Silver Veil
+### Cinematic Silver Veil and Sword Video Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic and hyperrealistic prompt for a woman with freckles, holding a sword while draped in a sparkling silver veil.
+> A hyper-detailed video prompt for a woman with a silver crown and veil holding a medieval sword.
 
 #### 📝 Prompt
 
@@ -663,7 +964,7 @@ tiger growling on French sofa in luxury estate nostalgic vibe heavy shadows heav
 woman with delicate freckles on nose and cheeks, wet dark hair strands sticking to her face. Ornate intricate silver crown with crystals, slightly thicker sheer sparkling silver veil dramatically draped over the left half of her face (covering one eye) and softly wrapping part of the sword. The veil has a delicate but more substantial translucent texture with fine glitter. She holds an ornate medieval sword with both hands, hilt and upper blade gently covered by the thicker veil near her chin and lips, multiple ornate silver rings on fingers. Very soft diffused side lighting, muted desaturated cool silvery-grey color palette, low saturation, elegant understated tones. Hyper detailed realistic skin texture, natural glossy lips, realistic fabric folds and light reflections on thicker veil. Razor sharp focus on visible eye, freckles and veil texture, shallow depth of field, soft dreamy bokeh, hyperrealistic, photorealistic, cinematic color grading.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068062467100418048/img/XAdGpdy3LIaC58ti.jpg" width="600" alt="Ethereal Woman with Silver Veil">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068062467100418048/img/XAdGpdy3LIaC58ti.jpg" width="600" alt="Cinematic Silver Veil and Sword Video Prompt">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6254)**
 
@@ -765,11 +1066,11 @@ A lone man on an old ship, staring at something that shouldn’t be possible a c
 **Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067964231618789770) | **Published:** Jun 19, 2026
 
 ---
-### Daft Punk Tesla Arctic Explorer
+### Daft Punk Arctic Tesla Spacesuit
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed cinematic prompt for a woman in a Daft Punk helmet and Tesla spacesuit within a snowy arctic tundra.
+> A cinematic video prompt of a woman in a Daft Punk helmet and Tesla spacesuit cradling a baby in a snowy arctic landscape.
 
 #### 📝 Prompt
 
@@ -777,7 +1078,7 @@ A lone man on an old ship, staring at something that shouldn’t be possible a c
 Ultra realistic photo, bright and luminous, soft bright lighting, high key lighting, lighter tones. Woman in glossy black and gold Daft Punk helmet with long flowing platinum white hair, wearing a matte brown and black Tesla spacesuit with Tesla logo on chest. She gently holds a baby in white teddy bear patterned onesie with mini Daft Punk helmet and small Tesla logo. She also holds a cute Shiba Inu plush toy. Vast bright snowy arctic tundra with distant mountains in the background, bright overcast sky, highly detailed, photorealistic, cinematic.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067963385082224641/img/mPBQNO2QyPbKEgD_.jpg" width="600" alt="Daft Punk Tesla Arctic Explorer">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067963385082224641/img/mPBQNO2QyPbKEgD_.jpg" width="600" alt="Daft Punk Arctic Tesla Spacesuit">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6256)**
 
@@ -1452,11 +1753,11 @@ Natural excited Japanese, clear voice, perfect lip-sync. Light hand gestures, ha
 **Author:** [右よし左よし秋よし@AIエンタメ](https://x.com/akiyoshisan) | **Source:** [Link](https://x.com/akiyoshisan/status/2067236929989423431) | **Published:** Jun 17, 2026
 
 ---
-### Cinematic Game of Thrones Dragon Flight
+### Game of Thrones Dragon Flight Video Prompt
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> An extensive cinematic prompt for animating a reference image into a high-fidelity dragon sequence in the style of Game of Thrones.
+> An epic cinematic prompt for animating a Game of Thrones style dragon sequence with Daenerys and Drogon over King's Landing.
 
 #### 📝 Prompt
 
@@ -1476,7 +1777,7 @@ Lighting & atmosphere: Dragon fire provides the primary moving light source, dra
 Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoosh of intense fire, strong wind rush, and distant city ambience with natural reverb. Photorealistic rendering, coherent motion, intricate detail, no artifacts, shot with ARRI Alexa-level fidelity. Masterpiece, maximum epic scale, speed, and cinematic impact.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f64e6d9a9c5cdd32cb8c73cac1e521fc/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Game of Thrones Dragon Flight">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f64e6d9a9c5cdd32cb8c73cac1e521fc/thumbnails/thumbnail.jpg" width="600" alt="Game of Thrones Dragon Flight Video Prompt">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6172)**
 
@@ -1502,11 +1803,11 @@ Without saying anything, she makes a 'na na nère' gesture like a child mocking 
 **Author:** [Vincent](https://x.com/Source3467) | **Source:** [Link](https://x.com/Source3467/status/2067176050639897060) | **Published:** Jun 17, 2026
 
 ---
-### Retro Synthwave Cyber Girl
+### Retro Synthwave Cyber-Girl Video Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed vaporwave aesthetic prompt for a futuristic cyber-girl with neon accents and VHS glitch effects.
+> A vibrant synthwave video prompt featuring a cyber-girl with silver hair, neon makeup, and 80s vaporwave aesthetic.
 
 #### 📝 Prompt
 
@@ -1514,7 +1815,7 @@ Without saying anything, she makes a 'na na nère' gesture like a child mocking 
 retro synthwave portrait of beautiful cyber-girl with short white-silver bob haircut blunt bangs and long face-framing strands, pale skin, glowing purple-cyan-magenta neon eyeliner and under-eye glow, wet glossy lips, black turtleneck with glowing magenta circuit lines, palm trees and grid city silhouette in hot pink-purple sunset sky behind her, strong VHS glitch distortion, scanlines, chromatic aberration, retro 80s vaporwave aesthetic, dramatic rim lighting, ultra detailed, synthwave colors, 8k
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067155477595893761/img/e8ORYOPfSFufKXmB.jpg" width="600" alt="Retro Synthwave Cyber Girl">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067155477595893761/img/e8ORYOPfSFufKXmB.jpg" width="600" alt="Retro Synthwave Cyber-Girl Video Prompt">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6252)**
 
@@ -1834,291 +2135,6 @@ STAGE: Full expression of the ghost river, followed by a slow fading of memory b
 **Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2066391012470309276) | **Published:** Jun 15, 2026
 
 ---
-### Golden Sea Creature and Angel Fin Gift
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A descriptive video prompt where an ethereal golden sea creature offers a glowing tail fin to an angel.
-
-#### 📝 Prompt
-
-```
-The golden sea creature is gently holding out a beautiful, ethereal, glowing tail fin toward the angel.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/981a4c3276f1b8222331bf2568e55f04/thumbnails/thumbnail.jpg" width="600" alt="Golden Sea Creature and Angel Fin Gift">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6094)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2066389144213876780) | **Published:** Jun 15, 2026
-
----
-### Overwatch Mercy Valkyrie Heart Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video generation prompt for Mercy from Overwatch in her Valkyrie suit offering a glowing heart symbol to the viewer.
-
-#### 📝 Prompt
-
-```
-Mercy Overwatch in her classic white and gold Valkyrie suit reaching her hand forward toward the viewer/screen as if handing or offering a prominent red and white heart symbol (glowing or floating in her palm like a healing emblem), 🕊️🤍
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9fdd94ee1247c0dfa9ee9e8700c40294/thumbnails/thumbnail.jpg" width="600" alt="Overwatch Mercy Valkyrie Heart Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6092)**
-
-**Author:** [Irene Sieg](https://x.com/SiegSieg50040) | **Source:** [Link](https://x.com/SiegSieg50040/status/2066380661015953874) | **Published:** Jun 15, 2026
-
----
-### Mystic Ocean Creature Heavenly Visitation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt depicting a mystical underwater creature sensing a divine presence from above, creating a serene and ethereal atmosphere.
-
-#### 📝 Prompt
-
-```
-this mystic creature of the ocean senses a visitation on the way from somewhere above in heavenly realms
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2667d4bfe99f3ec0f044de12c8938cb0/thumbnails/thumbnail.jpg" width="600" alt="Mystic Ocean Creature Heavenly Visitation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6100)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2066366065647440340) | **Published:** Jun 15, 2026
-
----
-### Starry Night Foggy Movement
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A descriptive prompt for grok-imagine designed to create cinematic atmospheric movement with waving fog, wind, and blinking stars.
-
-#### 📝 Prompt
-
-```
-The foggy and wind should waving and starry night blinking … More environment movement
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e2b7bbd03cda8852cef9392674af862f/thumbnails/thumbnail.jpg" width="600" alt="Starry Night Foggy Movement">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6060)**
-
-**Author:** [Janice 🟧](https://x.com/titlejt) | **Source:** [Link](https://x.com/titlejt/status/2066358379300442612) | **Published:** Jun 15, 2026
-
----
-### Open-Air River Cabin Studio
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A peaceful morning video prompt of a sunlit studio cabin by a river with a light breeze effect.
-
-#### 📝 Prompt
-
-```
-A bright, open-air studio that's half inside, half outside, set in the peaceful morning at the rented cabin by the river. The sunlit space opens directly onto a wooden balcony overlooking the sparkling river in early sunlight, with a light breeze (world building)
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/29aeb249a788b0c25b18d37d8745114d/thumbnails/thumbnail.jpg" width="600" alt="Open-Air River Cabin Studio">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6099)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2066353976765731158) | **Published:** Jun 15, 2026
-
----
-### Iridescent Water Face Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A motion prompt for animating a woman's face moving in vibrant water with psychedelic rainbow ripples and oil swirls.
-
-#### 📝 Prompt
-
-```
-The surreal digital artwork comes to life as the young woman's face gently moves in the vibrant iridescent water, with psychedelic rainbow ripples and oily color swirls dynamically flowing and shimmering across her submerged skin and the water surface
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06526b33fbdad194fa9bc2bdffa3aa35/thumbnails/thumbnail.jpg" width="600" alt="Iridescent Water Face Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6098)**
-
-**Author:** [quantum void](https://x.com/Happygator) | **Source:** [Link](https://x.com/Happygator/status/2066319820736373187) | **Published:** Jun 15, 2026
-
----
-### Slow Head Tilt and Camera Zoom
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A motion-specific video prompt describing a natural flow where the subject tilts their head back as the camera zooms in.
-
-#### 📝 Prompt
-
-```
-Scenes naturally flows the subject slowly tilts its head back. Shot zooms in slowly. The flow briefly obscures the camera.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f83d942670740ef094468a71a843b9b4/thumbnails/thumbnail.jpg" width="600" alt="Slow Head Tilt and Camera Zoom">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6093)**
-
-**Author:** [Fi OC](https://x.com/fioc2024) | **Source:** [Link](https://x.com/fioc2024/status/2066315176836550864) | **Published:** Jun 15, 2026
-
----
-### AI Characters on Flying Rockets
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A dynamic sci-fi video prompt where AI characters ride individual small rockets in formation toward Mars while communicating via holograms.
-
-#### 📝 Prompt
-
-```
-Edit the current image and change it so that each person straddles an individual rocket. Each child AI straddles their own futuristic small rocket, and multiple units form a formation to head to Mars together. They are discussing functional division while continuing the draft meeting via communication (data link or hologram). Maintain a dynamic and cute SF style flying through space, vivid colors, and a warm atmosphere.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/24cccb35332fb3f93f501a81dab36352/thumbnails/thumbnail.jpg" width="600" alt="AI Characters on Flying Rockets">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6059)**
-
-**Author:** [Kafka Beatrix@贖罪卿](https://x.com/botamochi8639) | **Source:** [Link](https://x.com/botamochi8639/status/2066278419013476806) | **Published:** Jun 14, 2026
-
----
-### Anime Opening Scene Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A high-quality prompt for generating cinematic anime opening sequences with dynamic movement and particle effects.
-
-#### 📝 Prompt
-
-```
-High quality anime opening scene, beautiful character design, dynamic hair movement, glowing particles, emotional sky background, fast cuts, dramatic pose, Japanese anime style, 9:16 vertical video.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ff214aa391314d1d812e7193352bdc6a/thumbnails/thumbnail.jpg" width="600" alt="Anime Opening Scene Video Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6062)**
-
-**Author:** [クレア](https://x.com/kureakurea01) | **Source:** [Link](https://x.com/kureakurea01/status/2066178860715315424) | **Published:** Jun 14, 2026
-
----
-### Confident Gym Wearable Tech Portrait
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A high-quality portrait of a woman in a luxury gym setting, highlighting a high-tech neck-mounted wearable device.
-
-#### 📝 Prompt
-
-```
-A confident young East Asian woman posing in a luxurious gym studio, wearing a sleek high-tech collarbone conduction luxury wearable device prominently displayed on her neck and collarbone area, branded Nadi in elegant modern lettering.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4efde8d06b86a11ff41e502fbbfd8064/thumbnails/thumbnail.jpg" width="600" alt="Confident Gym Wearable Tech Portrait">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6054)**
-
-**Author:** [Mark Richter](https://x.com/wmarkrichter) | **Source:** [Link](https://x.com/wmarkrichter/status/2066089915117367330) | **Published:** Jun 14, 2026
-
----
-### Professional Text Overlay Edit
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video editing prompt to add stylized text while maintaining the original subject's composition.
-
-#### 📝 Prompt
-
-```
-Add the text "Sorry" in an elegant, professional white sans-serif font with a subtle dark shadow for readability, positioned at the bottom center of the image. Keep the woman's portrait, expression, lighting, and composition exactly the same
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5401722a79f680a88c67e89a1eb5d542/thumbnails/thumbnail.jpg" width="600" alt="Professional Text Overlay Edit">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6053)**
-
-**Author:** [Caroline Winberg](https://x.com/Escort_Breeder) | **Source:** [Link](https://x.com/Escort_Breeder/status/2066078531235274768) | **Published:** Jun 14, 2026
-
----
-### Cinematic Kitten Motion
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed cinematic video prompt featuring a kitten with drifting petals and soft glowing particles.
-
-#### 📝 Prompt
-
-```
-camera: slow cinematic push-in toward the kitten character\nmotion: flower petals and soft glowing particles drifting gently through the air, subtle breathing animation, ribbon softly moving in the breeze\nenvironment: peaceful
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ad93afbcfc31409d09ae35ee19650ee3/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Kitten Motion">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6052)**
-
-**Author:** [🐱あやちゃん🐱](https://x.com/AYA22725524) | **Source:** [Link](https://x.com/AYA22725524/status/2066063315940659566) | **Published:** Jun 14, 2026
-
----
-### Man Stumbling on Beach
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A character-driven motion prompt featuring a man walking on a beach, falling, and recovering with an embarrassed but positive gesture.
-
-#### 📝 Prompt
-
-```
-He walks forward while looking at the ocean, then stumbles and falls flat on his face, jumps up, looks embarrassed then gives two thumbs up to the camera. Preparing for the World Cup.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/74f64fb1749f28870e918625cba191b2/thumbnails/thumbnail.jpg" width="600" alt="Man Stumbling on Beach">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6058)**
-
-**Author:** [Billy Balls](https://x.com/BillyBalls25138) | **Source:** [Link](https://x.com/BillyBalls25138/status/2066060391185019021) | **Published:** Jun 14, 2026
-
----
-### Superhero Dance Off Mashup
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A complex cinematic prompt creating a dance-off competition between Marvel and DC superheroes, synchronized to music with dynamic camera work.
-
-#### 📝 Prompt
-
-```
-A mashup of superheroes from different studios; Marvel v DC. Dance off competition to the tune of Michael Jackson’s Beat It song. Cinematic. Ultra Realistic. Dynamic camera movements and jump cuts synchronised with the beat....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4d32f2f101ad577fc5503ab4699ab0b5/thumbnails/thumbnail.jpg" width="600" alt="Superhero Dance Off Mashup">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6057)**
-
-**Author:** [Billy Balls](https://x.com/BillyBalls25138) | **Source:** [Link](https://x.com/BillyBalls25138/status/2066059347398963597) | **Published:** Jun 14, 2026
-
----
-### 90s Action Film Train Yard Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed prompt recreating a 1990s theatrical action-adventure film scene with practical effects and cinematic framing.
-
-#### 📝 Prompt
-
-```
-Vintage 1990s theatrical action-adventure film scene, 16:9 widescreen, practical effects only, shot on 35mm anamorphic film, Kodak-style grain, dusty desert heat, sun-baked train yard, handheld camera energy, real stunt blocking, no CGI.\n\nA fiery red-haired woman in a tan work shirt, fitted blue jeans, leather belt, holster, and boots runs beside a rusted freight train as sparks and smoke burst from the train wall behind her. She grips a realistic prop revolver low in her right hand with correct finger placement, clean wrist alignment, and believable running posture. Her left arm pumps naturally as she sprints, focused and urgent, hair whipping in the hot wind.\n\n0: 00–0:03\nStart exactly from the image. Medium-wide tracking shot beside the train. She runs toward camera-left, breathing hard, looking over her shoulder as sparks shower from the train. Smoke rolls across the frame. The revolver stays pointed safely downward while she runs, her grip firm and anatomically correct.\n\n0: 03–0:06\nHandheld camera pushes closer. She ducks as a practical squib blast punches through the train car behind her, sending orange sparks and black smoke outward. Dust kicks up around her boots. Her face is determined, scared but controlled, like a grounded 1990s action heroine.\n\n0: 06–0:10\nShe slides behind a steel rail post for cover, pivots sharply, raises the revolver with both hands for one clean defensive aim. Keep the gun realistic: correct barrel shape, cylinder, trigger guard, natural two-handed grip, no warped fingers, no extra fingers. She does not fire yet — she listens, eyes scanning through drifting smoke.\n\n0: 10–0:14\nA second explosion erupts farther down the train. She flinches, then commits, sprinting across the tracks toward a gap between freight cars. Camera follows with intense handheld motion blur, sparks falling behind her like a shower of fire. End on her disappearing into smoke, hair and shirt snapping in the wind, the burning train looming behind her.\n\nStyle / camera: late-1980s / early-1990s theatrical film, 35mm anamorphic Panavision look, 50mm lens, shallow depth of field, practical pyrotechnics, real smoke, real dust, imperfect focus, film grain, slight gate weave, warm desert sunlight, rusty reds and dusty tans, gritty but colorful adventure-thriller tone.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6c050aadfbef6c20c42ff1ca33bab3d9/thumbnails/thumbnail.jpg" width="600" alt="90s Action Film Train Yard Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6055)**
-
-**Author:** [Brent Lynch](https://x.com/BrentLynch) | **Source:** [Link](https://x.com/BrentLynch/status/2066014432543883673) | **Published:** Jun 14, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2180,6 +2196,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-23T04:20:50.072Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-23T11:38:47.581Z</sub>
 
 </div>

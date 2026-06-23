@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1919** |
+| 📝 Total Prompts | **1934** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-23** |
 
@@ -189,6 +189,306 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Yaşlı Büyücü Yağlı Boya Tablosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gümüş sakallı ve kadife cübbeli yaşlı bir büyücünün portresini oluşturan, Rembrandt tarzı yağlı boya tablosu estetiğinde sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Uzun gümüş sakallı ve derin yeşil gözlü, yıpranmış kadife bir cübbe ve üzerinde ince rünler bulunan sivri uçlu bir şapka giyen yaşlı bir büyücü portresi. Zengin fırça darbeleriyle klasik yağlı boya stili, Rembrandt tarzı ışık-gölge (chiaroscuro) aydınlatma, karanlık ve dramatik arka plan
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069140101335240704/img/B0BT_K2r94QlMt51.jpg" width="600" alt="Yaşlı Büyücü Yağlı Boya Tablosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6352)**
+
+**Author:** [Tippawan](https://x.com/Tippawaniqaa1) | **Source:** [Link](https://x.com/Tippawaniqaa1/status/2069140119777669192) | **Published:** Jun 22, 2026
+
+---
+### Kozmik Kalp Işıltılı Enerji
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Derin kozmik boşluğa doğru süzülen parlayan kırmızı bir kalp amblemini betimleyen sinematik bir komut.
+
+#### 📝 Prompt
+
+```
+Işıltılı altın enerji halkasının içindeki parlayan kırmızı kalp amblemi evrene gönderiliyor: ön plandan sonsuz kozmik boşluğun derinliklerine doğru zarif bir şekilde süzülüyor; etrafı dönen yıldızlar, canlı bulutsular ve uzak galaksilerle çevrili.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069126357981040640/img/BJOmfWI2u0COfsHh.jpg" width="600" alt="Kozmik Kalp Işıltılı Enerji">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6344)**
+
+**Author:** [David Herbert Thomas](https://x.com/Diabach1972) | **Source:** [Link](https://x.com/Diabach1972/status/2069126422455546185) | **Published:** Jun 22, 2026
+
+---
+### Pterodactyl Dönüşüm Yolculuğu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir sörfçünün pterodactyl'e dönüşüp Jüpiter'e seyahat ettiği sürreal bir animasyon istemi.
+
+#### 📝 Prompt
+
+```
+sörf yap
+
+Bir pterodactyl'e dönüşüyor ve Temmuz ayında Jüpiter'e uçuyor. Juniper ona eşlik ediyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069110645916663808/img/8R4jZoEj_h4YMOXQ.jpg" width="600" alt="Pterodactyl Dönüşüm Yolculuğu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6357)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2069110771632476463) | **Published:** Jun 22, 2026
+
+---
+### Huzur Melodisi Işını
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Işık hüzmeleri ve şarkı söyleyen sinekleri içeren huzurlu bir video için şiirsel bir komut.
+
+#### 📝 Prompt
+
+```
+💡 ışının 🌙🌕
+
+Onlar, huzurun ta kendisi olan bir melodi 🎵 söylemelerine yardımcı olan sineklerle arkadaştırlar.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069100655814590464/img/x59SVmp1rbTqAfhg.jpg" width="600" alt="Huzur Melodisi Işını">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6348)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2069100778220859677) | **Published:** Jun 22, 2026
+
+---
+### Kare Kılavuzlu Crash Zoom Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 1.5'in belirli başlangıç ve bitiş karesi yönergelerini takip etme yeteneğini gösteren teknik bir istem.
+
+#### 📝 Prompt
+
+```
+[Image1] görselini tam olarak ilk kare olarak başlat, evin penceresinden içeriye doğru hızlı bir zoom (crash zoom) yap, evin penceresinin içinde tam olarak [Image2] karesi yer alsın
+```
+
+<img src="https://cms-assets.youmind.com/media/1782204557179_0yl3e5_HLbpW05WsAA7Sgp.jpg" width="600" alt="Kare Kılavuzlu Crash Zoom Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6353)**
+
+**Author:** [steve johnson](https://x.com/seeksteve) | **Source:** [Link](https://x.com/seeksteve/status/2069097737631445197) | **Published:** Jun 22, 2026
+
+---
+### Vintage Abstract Flappers Pazarı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 1920'lerin flapper tarzı bit pazarı için soyut resim stilinde sanatsal bir istem.
+
+#### 📝 Prompt
+
+```
+soyut resim stilinde, 1920'lerin flapper tarzı kıyafetleri giymiş kadınların bulunduğu vintage moda bit pazarı
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069074678577041408/img/6DicXuBuX-skk71r.jpg" width="600" alt="Vintage Abstract Flappers Pazarı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6345)**
+
+**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2069076254813233638) | **Published:** Jun 22, 2026
+
+---
+### Kahve Kupası Etkileşim Hareketi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir kahve kupasının hareketine ve konumlandırılmasına odaklanan özel bir karakter etkileşim komutu.
+
+#### 📝 Prompt
+
+```
+Kahve kupasını göğsüne doğru hareket ettirir, böylece kupa göğsünün üst kısmındaki kemikli bölgeye gerçekten temas eder
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069075311174848512/img/TQy-8rEQHABNtQVk.jpg" width="600" alt="Kahve Kupası Etkileşim Hareketi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6350)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2069075371547623644) | **Published:** Jun 22, 2026
+
+---
+### Şapkalı Şarkı Söyleyen Yavru Köpekler
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Şapkalı yavru köpeklerin şarkı söyleyip neşeli ifadelerle hareket ettiği bir video oluşturmak için eğlenceli bir komut.
+
+#### 📝 Prompt
+
+```
+Şapkalı yavru köpekler, neşeli ve enerjik hareketler ve oyuncu ifadelerle "biz şapkalı köpekleriz ve şapkalarımız başımızdan çıkmaz" şarkısını söylüyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068989769913131008/img/ZYyhX3vccsI9lY7k.jpg" width="600" alt="Şapkalı Şarkı Söyleyen Yavru Köpekler">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6343)**
+
+**Author:** [marianne](https://x.com/tuakdotsol) | **Source:** [Link](https://x.com/tuakdotsol/status/2069006656927637598) | **Published:** Jun 22, 2026
+
+---
+### Deniz Altı Aile Balık Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Okyanusta dev bir anne balık ve yavrularını konu alan, Disney-Pixar tarzından esinlenilmiş iç ısıtan bir video istemi.
+
+#### 📝 Prompt
+
+```
+Sakin, kristal berraklığında turkuaz bir okyanusta küçük yavrularına öncülük eden dev bir anne balığın güzel dijital çizimi. Küçük balıklar hemen arkasından onu takip ediyor. Uzakta renkli mercanlar görünüyor. Yukarıdan gelen yumuşak, parlak bir ışık. Disney-Pixar esintili sanat tarzı, canlı renkler, iç ısıtan bir aile sahnesi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068967572360605696/img/bwwSFaIHS3o4XVoD.jpg" width="600" alt="Deniz Altı Aile Balık Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6347)**
+
+**Author:** [DAAZLE FC](https://x.com/DAAZLEFC) | **Source:** [Link](https://x.com/DAAZLEFC/status/2068967848849117493) | **Published:** Jun 22, 2026
+
+---
+### Kapüşonlu Kıyafetleriyle Dans Eden Yavru Köpekler
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Arka bahçede dans edip şarkı söyleyen bir grup yavru köpek için oldukça detaylı bir video istemi.
+
+#### 📝 Prompt
+
+```
+Yeşil çimenli ve ahşap çitli güneşli bir arka bahçede renkli (kırmızı, mavi, sarı) kapüşonlu kıyafetler giymiş üç sevimli ve tüylü yavru köpek. Neşeli ve oyuncu ifadelerle enerjik bir şekilde dans ediyorlar ve "Biz kapüşonlu yavru köpekleriz, dans etmeye hazırız!" şarkısını söylüyorlar. Eylem dizisi: senkronize dans, biri şarkıya liderlik ederken diğerlerinin dans etmesi, birlikte dönüp kıvrılmaları, yükseğe zıplamaları ve kutlama için patilerini havaya kaldırarak bitirmeleri. Parlak güneş ışığı, canlı renkler, sevimli tarz, akıcı animasyon, yüksek detay, eğlenceli ve hareketli kısa video, 6 saniye
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068952215646298113/img/LUImq89MgGO62FwT.jpg" width="600" alt="Kapüşonlu Kıyafetleriyle Dans Eden Yavru Köpekler">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6351)**
+
+**Author:** [liuhuofeiyan](https://x.com/yhjocean) | **Source:** [Link](https://x.com/yhjocean/status/2068953107162370443) | **Published:** Jun 22, 2026
+
+---
+### Su Borusu Geri Çekilme Sekansı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Suyun akışının durduğu ve borunun sızıntı olmadan geri çekildiği bir animasyon için teknik video oluşturma istemi.
+
+#### 📝 Prompt
+
+```
+Bir video oluştururken.
+İngiliz aksanlı sese geç.
+İngilizce sese geç.
+Suyun 5-20 saniye içinde borudan akışının durması gerekiyor.
+ardından
+boru içeri doğru geri çekiliyor.
+hiçbir sızıntı olmadan.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068952774650306560/img/jl0yD2PO8-nSyBtP.jpg" width="600" alt="Su Borusu Geri Çekilme Sekansı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6354)**
+
+**Author:** [Luke Clayden](https://x.com/clayden5_luke) | **Source:** [Link](https://x.com/clayden5_luke/status/2068952831491551674) | **Published:** Jun 22, 2026
+
+---
+### Ses Kontrollü Su Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir video oluşturma komutu; seslendirme değişikliğini ve bir sahnedeki su akışının durması için gereken belirli zamanlamayı içerir.
+
+#### 📝 Prompt
+
+```
+Video oluştururken.
+İngiliz aksanlı sese geç.
+İngilizce sese geç.
+.
+.
+borudan akan suyun 5-20 saniye içinde durması gerekiyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068951776275873792/img/KQsGnADBHUPSJPMX.jpg" width="600" alt="Ses Kontrollü Su Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6355)**
+
+**Author:** [Luke Clayden](https://x.com/clayden5_luke) | **Source:** [Link](https://x.com/clayden5_luke/status/2068951864851268085) | **Published:** Jun 22, 2026
+
+---
+### Şempanze Karakter Kıyafet Geçişi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Çölde yürürken kameraya doğru ilerleyen ve kusursuz bir bilim kurgu kıyafet değişimi gerçekleştiren şempanze karakterin 3D animasyon istemi.
+
+#### 📝 Prompt
+
+```
+Çölde 3D animasyon şempanze karakter. Kaptan şapkası ve kırmızı kalp şeklinde güneş gözlüğü takıyor. Siyah neon-mavi parlayan bilim kurgu kıyafetinden mavi bir tişört ve şorta kusursuz kıyafet değişimi geçişi. Kameraya doğru yürüyor, gülümsüyor ve toz kaldırıyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068942872360157184/img/V3BZyHjSNCrZ52GZ.jpg" width="600" alt="Şempanze Karakter Kıyafet Geçişi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6356)**
+
+**Author:** [Haris X](https://x.com/Haris_afxal) | **Source:** [Link](https://x.com/Haris_afxal/status/2068942939066413450) | **Published:** Jun 22, 2026
+
+---
+### Ninja Büyücü Havada Süzülme Atlayışı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Binalar arasında doğaüstü bir atlayış gerçekleştiren ninja büyücüyü konu alan aksiyon odaklı bir istem.
+
+#### 📝 Prompt
+
+```
+Bir binadan diğerine atlayan, havada süzülme yeteneğini kullanarak büyük bir mesafeyi kateden bir ninja büyücü oluştur; kapüşon veya pelerin olmasın, sadece ninja maskesi olsun
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068910740182880256/img/V8DGeJrsim2Tcqbv.jpg" width="600" alt="Ninja Büyücü Havada Süzülme Atlayışı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6349)**
+
+**Author:** [Justin Brennan](https://x.com/jmjbrennan32780) | **Source:** [Link](https://x.com/jmjbrennan32780/status/2068910792565510604) | **Published:** Jun 22, 2026
+
+---
+### Antik Bilim Kurgu Girdap Hareketi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bilim kurgu ortamında büyülü mühürleri ve yaratılış girdabını içeren sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Antik zamanın içsel ateşini uyandır, güç mühürlerinin parlamasına izin ver, bilim kurgu yaratılış Girdabını serbest bırak, köşede TLV
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068904173983404032/img/HrOkfacMLsRL4HGk.jpg" width="600" alt="Antik Bilim Kurgu Girdap Hareketi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6346)**
+
+**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2068904236185006505) | **Published:** Jun 22, 2026
+
+---
 ### Eldivenli Dans Eden Kedicikler
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1836,309 +2136,6 @@ SAHNE: Hayalet nehrin tam ifadesi, ardından anının yavaşça karanlığa göm
 **Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2066391012470309276) | **Published:** Jun 15, 2026
 
 ---
-### Altın Deniz Yaratığı ve Melek Yüzgeci Hediyesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ethereal bir altın deniz yaratığının bir meleğe parlayan bir kuyruk yüzgeci sunduğu betimleyici bir video istemi.
-
-#### 📝 Prompt
-
-```
-Altın deniz yaratığı, güzel, ethereal ve parlayan bir kuyruk yüzgecini nazikçe meleğe doğru uzatıyor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/981a4c3276f1b8222331bf2568e55f04/thumbnails/thumbnail.jpg" width="600" alt="Altın Deniz Yaratığı ve Melek Yüzgeci Hediyesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6094)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2066389144213876780) | **Published:** Jun 15, 2026
-
----
-### Overwatch Mercy Valkyrie Kalp Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Overwatch'tan Mercy'nin Valkyrie kostümüyle izleyiciye parlayan bir kalp sembolü sunduğu bir video oluşturma istemi.
-
-#### 📝 Prompt
-
-```
-Overwatch'tan Mercy, klasik beyaz ve altın rengi Valkyrie kostümü içinde, elini izleyiciye/ekrana doğru uzatıyor; sanki belirgin bir kırmızı ve beyaz kalp sembolünü (avuç içinde iyileştirme amblemi gibi parlayan veya süzülen) veriyor veya sunuyor gibi, 🕊️🤍
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9fdd94ee1247c0dfa9ee9e8700c40294/thumbnails/thumbnail.jpg" width="600" alt="Overwatch Mercy Valkyrie Kalp Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6092)**
-
-**Author:** [Irene Sieg](https://x.com/SiegSieg50040) | **Source:** [Link](https://x.com/SiegSieg50040/status/2066380661015953874) | **Published:** Jun 15, 2026
-
----
-### Mistik Okyanus Yaratığının İlahi Ziyareti
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Yukarıdan gelen ilahi bir varlığı hisseden mistik bir su altı yaratığını betimleyen, huzurlu ve ruhani bir atmosfer yaratan sinematik bir video istemi.
-
-#### 📝 Prompt
-
-```
-okyanusun bu mistik yaratığı, yukarıdaki ilahi alemlerden gelen bir ziyareti hissediyor
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2667d4bfe99f3ec0f044de12c8938cb0/thumbnails/thumbnail.jpg" width="600" alt="Mistik Okyanus Yaratığının İlahi Ziyareti">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6100)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2066366065647440340) | **Published:** Jun 15, 2026
-
----
-### Yıldızlı Gece Sisli Hareket
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok-imagine için tasarlanmış; dalgalanan sis, rüzgar ve göz kırpan yıldızlarla sinematik atmosferik hareket oluşturmaya yönelik betimleyici bir komut.
-
-#### 📝 Prompt
-
-```
-Sis ve rüzgar dalgalanmalı, yıldızlı gece göz kırpmalı… Daha fazla ortam hareketi
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e2b7bbd03cda8852cef9392674af862f/thumbnails/thumbnail.jpg" width="600" alt="Yıldızlı Gece Sisli Hareket">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6060)**
-
-**Author:** [Janice 🟧](https://x.com/titlejt) | **Source:** [Link](https://x.com/titlejt/status/2066358379300442612) | **Published:** Jun 15, 2026
-
----
-### Açık Hava Nehir Kenarı Stüdyo Kulübesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Hafif bir esinti efektiyle, nehir kenarındaki güneşli bir stüdyo kulübesinin huzurlu sabah video istemi.
-
-#### 📝 Prompt
-
-```
-Nehir kenarındaki kiralık kulübede, huzurlu bir sabah vaktinde geçen, yarısı içeride yarısı dışarıda olan aydınlık ve açık hava bir stüdyo. Güneşle yıkanan bu alan, sabahın ilk ışıklarıyla parıldayan nehre bakan ahşap bir balkona doğrudan açılıyor ve hafif bir esinti eşliğinde (dünya inşası)
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/29aeb249a788b0c25b18d37d8745114d/thumbnails/thumbnail.jpg" width="600" alt="Açık Hava Nehir Kenarı Stüdyo Kulübesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6099)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2066353976765731158) | **Published:** Jun 15, 2026
-
----
-### Yanardöner Su Yüzü Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Psikedelik gökkuşağı dalgaları ve yağlı girdaplarla canlı suyun içinde hareket eden bir kadın yüzünü canlandırmak için bir hareket istemi.
-
-#### 📝 Prompt
-
-```
-Genç kadının yüzü canlı ve yanardöner suyun içinde nazikçe hareket ederken, psikedelik gökkuşağı dalgaları ve yağlı renk girdapları suyun yüzeyinde ve su altındaki cildinde dinamik bir şekilde akıp parıldarken bu sürreal dijital sanat eseri hayat buluyor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06526b33fbdad194fa9bc2bdffa3aa35/thumbnails/thumbnail.jpg" width="600" alt="Yanardöner Su Yüzü Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6098)**
-
-**Author:** [quantum void](https://x.com/Happygator) | **Source:** [Link](https://x.com/Happygator/status/2066319820736373187) | **Published:** Jun 15, 2026
-
----
-### Yavaş Baş Eğme ve Kamera Yakınlaştırma
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Öznenin başını geriye doğru eğdiği ve kameranın yakınlaştığı doğal bir akışı tanımlayan, hareket odaklı bir video istemi.
-
-#### 📝 Prompt
-
-```
-Sahneler doğal bir şekilde akıyor, özne başını yavaşça geriye doğru eğiyor. Çekim yavaşça yakınlaşıyor. Akış, kısa bir süreliğine kamerayı kapatıyor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f83d942670740ef094468a71a843b9b4/thumbnails/thumbnail.jpg" width="600" alt="Yavaş Baş Eğme ve Kamera Yakınlaştırma">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6093)**
-
-**Author:** [Fi OC](https://x.com/fioc2024) | **Source:** [Link](https://x.com/fioc2024/status/2066315176836550864) | **Published:** Jun 15, 2026
-
----
-### Uçan Roketlerin Üzerindeki AI Karakterler
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> AI karakterlerin Mars'a doğru formasyon halinde ilerleyen küçük roketlere bindiği ve hologramlar aracılığıyla iletişim kurduğu dinamik bir bilim kurgu video istemi.
-
-#### 📝 Prompt
-
-```
-Mevcut görseli düzenleyin ve her kişinin kendi roketine bindiği şekilde değiştirin. Her bir çocuk AI kendi fütüristik küçük roketine biniyor ve birden fazla birim Mars'a birlikte gitmek için bir formasyon oluşturuyor. İletişim (veri bağlantısı veya hologram) yoluyla taslak toplantısını sürdürürken iş bölümünü tartışıyorlar. Uzayda uçan dinamik ve sevimli bir bilim kurgu tarzını, canlı renkleri ve sıcak atmosferi koruyun.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/24cccb35332fb3f93f501a81dab36352/thumbnails/thumbnail.jpg" width="600" alt="Uçan Roketlerin Üzerindeki AI Karakterler">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6059)**
-
-**Author:** [Kafka Beatrix@贖罪卿](https://x.com/botamochi8639) | **Source:** [Link](https://x.com/botamochi8639/status/2066278419013476806) | **Published:** Jun 14, 2026
-
----
-### Anime Açılış Sahnesi Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Dinamik hareketler ve parçacık efektleriyle sinematik anime açılış sekansları oluşturmak için yüksek kaliteli bir istem.
-
-#### 📝 Prompt
-
-```
-Yüksek kaliteli anime açılış sahnesi, güzel karakter tasarımı, dinamik saç hareketi, parlayan parçacıklar, duygusal gökyüzü arka planı, hızlı kesimler, dramatik poz, Japon anime tarzı, 9:16 dikey video.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ff214aa391314d1d812e7193352bdc6a/thumbnails/thumbnail.jpg" width="600" alt="Anime Açılış Sahnesi Video İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6062)**
-
-**Author:** [クレア](https://x.com/kureakurea01) | **Source:** [Link](https://x.com/kureakurea01/status/2066178860715315424) | **Published:** Jun 14, 2026
-
----
-### Özgüvenli Spor Giyilebilir Teknoloji Portresi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Lüks bir spor salonu ortamında, boyuna takılan yüksek teknolojili bir giyilebilir cihazı öne çıkaran yüksek kaliteli bir kadın portresi.
-
-#### 📝 Prompt
-
-```
-Lüks bir spor stüdyosunda poz veren özgüvenli, genç bir Doğu Asyalı kadın; boyun ve köprücük kemiği bölgesinde belirgin bir şekilde sergilenen, zarif ve modern harflerle Nadi markasını taşıyan, şık ve yüksek teknolojili bir köprücük kemiği iletimli lüks giyilebilir cihaz takıyor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4efde8d06b86a11ff41e502fbbfd8064/thumbnails/thumbnail.jpg" width="600" alt="Özgüvenli Spor Giyilebilir Teknoloji Portresi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6054)**
-
-**Author:** [Mark Richter](https://x.com/wmarkrichter) | **Source:** [Link](https://x.com/wmarkrichter/status/2066089915117367330) | **Published:** Jun 14, 2026
-
----
-### Profesyonel Metin Katmanı Düzenleme
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Orijinal öznenin kompozisyonunu korurken stilize metin eklemeye yarayan bir video düzenleme komutu.
-
-#### 📝 Prompt
-
-```
-Görüntünün alt orta kısmına, okunabilirliği artırmak için hafif koyu bir gölgeye sahip, zarif ve profesyonel beyaz sans-serif yazı tipinde "Sorry" metnini ekleyin. Kadının portresini, ifadesini, ışıklandırmasını ve kompozisyonunu tamamen aynı tutun.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5401722a79f680a88c67e89a1eb5d542/thumbnails/thumbnail.jpg" width="600" alt="Profesyonel Metin Katmanı Düzenleme">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6053)**
-
-**Author:** [Caroline Winberg](https://x.com/Escort_Breeder) | **Source:** [Link](https://x.com/Escort_Breeder/status/2066078531235274768) | **Published:** Jun 14, 2026
-
----
-### Sinematik Yavru Kedi Hareketi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Süzülen çiçek yaprakları ve hafif parlayan parçacıklarla bir yavru kediyi konu alan detaylı bir sinematik video istemi.
-
-#### 📝 Prompt
-
-```
-kamera: yavru kedi karakterine doğru yavaş sinematik yakınlaşma
-hareket: havada nazikçe süzülen çiçek yaprakları ve hafif parlayan parçacıklar, hafif nefes alma animasyonu, esintide yumuşakça hareket eden kurdele
-ortam: huzurlu
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ad93afbcfc31409d09ae35ee19650ee3/thumbnails/thumbnail.jpg" width="600" alt="Sinematik Yavru Kedi Hareketi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6052)**
-
-**Author:** [🐱あやちゃん🐱](https://x.com/AYA22725524) | **Source:** [Link](https://x.com/AYA22725524/status/2066063315940659566) | **Published:** Jun 14, 2026
-
----
-### Sahilde Tökezleyen Adam
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sahilde yürürken tökezleyip düşen, ardından utangaç ama pozitif bir jestle toparlanan bir karakterin yer aldığı hareket odaklı bir istem.
-
-#### 📝 Prompt
-
-```
-Okyanusa bakarak ilerlerken tökezleyip yüzüstü yere düşüyor, hızla ayağa kalkıyor, utangaç bir şekilde etrafına bakınıp kameraya iki baş parmağıyla onay işareti yapıyor. Dünya Kupası'na hazırlanıyor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/74f64fb1749f28870e918625cba191b2/thumbnails/thumbnail.jpg" width="600" alt="Sahilde Tökezleyen Adam">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6058)**
-
-**Author:** [Billy Balls](https://x.com/BillyBalls25138) | **Source:** [Link](https://x.com/BillyBalls25138/status/2066060391185019021) | **Published:** Jun 14, 2026
-
----
-### Süper Kahraman Dans Düellosu Mashup'ı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Marvel ve DC süper kahramanları arasında, müzikle senkronize dinamik kamera açılarına sahip bir dans yarışmasını konu alan karmaşık bir sinematik istem.
-
-#### 📝 Prompt
-
-```
-Farklı stüdyolardan süper kahramanların bir araya geldiği bir mashup; Marvel ve DC karşı karşıya. Michael Jackson'ın Beat It şarkısı eşliğinde bir dans yarışması. Sinematik. Ultra gerçekçi. Ritme göre senkronize edilmiş dinamik kamera hareketleri ve hızlı kesmeler...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4d32f2f101ad577fc5503ab4699ab0b5/thumbnails/thumbnail.jpg" width="600" alt="Süper Kahraman Dans Düellosu Mashup'ı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6057)**
-
-**Author:** [Billy Balls](https://x.com/BillyBalls25138) | **Source:** [Link](https://x.com/BillyBalls25138/status/2066059347398963597) | **Published:** Jun 14, 2026
-
----
-### 90'lar Aksiyon Filmi Tren Garı Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Pratik efektler ve sinematik kadrajlama ile 1990'ların teatral aksiyon-macera filmi sahnesini yeniden yaratan oldukça detaylı bir komut.
-
-#### 📝 Prompt
-
-```
-Klasik 1990'lar teatral aksiyon-macera filmi sahnesi, 16:9 geniş ekran, sadece pratik efektler, 35mm anamorfik film ile çekilmiş, Kodak tarzı gren, tozlu çöl sıcağı, güneşten kavrulmuş tren garı, el kamerası enerjisi, gerçek dublör koreografisi, CGI yok.
-
-Kızıl saçlı, ten rengi iş gömleği, dar kesim kot pantolon, deri kemer, kılıf ve botlar giymiş bir kadın, paslı bir yük treninin yanında koşarken arkasındaki tren duvarından kıvılcımlar ve dumanlar yükseliyor. Sağ elinde gerçekçi bir altıpatlar aksesuarını aşağıya doğru tutuyor; parmak yerleşimi, bilek hizası ve koşu duruşu inandırıcı. Sol kolu depar atarken doğal bir şekilde sallanıyor, odaklanmış ve acelesi var, saçları sıcak rüzgarda savruluyor.
-
-0:00–0:03
-Tam olarak görselden başlayın. Trenin yanında orta-geniş takip çekimi. Kameranın soluna doğru koşuyor, nefes nefese, omzunun üzerinden arkasına bakıyor, trenden kıvılcımlar saçılıyor. Dumanlar karenin içine yayılıyor. Koşarken altıpatlar güvenli bir şekilde aşağıya dönük duruyor, tutuşu sağlam ve anatomik olarak doğru.
-
-0:03–0:06
-El kamerası yaklaşıyor. Arkasındaki tren vagonunda pratik bir patlayıcı infilak ederken eğiliyor, turuncu kıvılcımlar ve siyah duman dışarı doğru saçılıyor. Botlarının etrafında tozlar kalkıyor. Yüzü kararlı, korkmuş ama kontrollü; 1990'ların gerçekçi bir aksiyon kadın kahramanı gibi.
-
-0:06–0:10
-Siper almak için çelik bir ray direğinin arkasına Slides yapıyor, keskin bir şekilde dönüyor, savunma amaçlı temiz bir nişan almak için altıpatları iki eliyle kaldırıyor. Silahı gerçekçi tutun: doğru namlu şekli, silindir, tetik korkuluğu, doğal iki elle tutuş, çarpık parmak yok, fazladan parmak yok. Henüz ateş etmiyor; dinliyor, gözleri sürüklenen dumanların arasını tarıyor.
-
-0:10–0:14
-Trenin daha ilerisinde ikinci bir patlama meydana geliyor. İrkiliyor, sonra karar verip rayların üzerinden yük vagonları arasındaki boşluğa doğru depar atıyor. Kamera, yoğun el kamerası hareket bulanıklığıyla onu takip ediyor, kıvılcımlar arkasından ateş yağmuru gibi dökülüyor. Dumanların içinde kaybolmasıyla bitirin; saçları ve gömleği rüzgarda dalgalanıyor, arkasında yanan tren yükseliyor.
-
-Stil / kamera: 1980'lerin sonu / 1990'ların başı teatral film, 35mm anamorfik Panavision görünümü, 50mm lens, sığ alan derinliği, pratik piroteknik, gerçek duman, gerçek toz, kusurlu odak, film greni, hafif film titremesi, sıcak çöl güneş ışığı, pas kırmızısı ve tozlu ten renkleri, cesur ama renkli macera-gerilim tonu.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6c050aadfbef6c20c42ff1ca33bab3d9/thumbnails/thumbnail.jpg" width="600" alt="90'lar Aksiyon Filmi Tren Garı Sahnesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6055)**
-
-**Author:** [Brent Lynch](https://x.com/BrentLynch) | **Source:** [Link](https://x.com/BrentLynch/status/2066014432543883673) | **Published:** Jun 14, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2200,6 +2197,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-23T04:21:04.262Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-23T11:39:09.699Z</sub>
 
 </div>

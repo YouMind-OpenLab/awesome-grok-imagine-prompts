@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1919** |
+| 📝 Total Prompts | **1934** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-23** |
 
@@ -189,6 +189,306 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### बुजुर्ग जादूगर की ऑयल पेंटिंग
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सिनेमैटिक वीडियो प्रॉम्प्ट जो रेम्ब्रांट (Rembrandt) की ऑयल पेंटिंग की शैली में चांदी जैसी दाढ़ी और मखमली लबादा पहने एक बुजुर्ग जादूगर का पोर्ट्रेट तैयार करता है।
+
+#### 📝 Prompt
+
+```
+लंबी चांदी जैसी दाढ़ी और गहरी हरी आंखों वाले एक बुजुर्ग जादूगर का पोर्ट्रेट, जिसने घिसा हुआ मखमली लबादा और सूक्ष्म रून (runes) वाली नुकीली टोपी पहनी है। समृद्ध ब्रशस्ट्रोक के साथ क्लासिक ऑयल पेंटिंग शैली, रेम्ब्रांट जैसी चियारोस्क्यूरो (chiaroscuro) लाइटिंग, गहरा और मूडी बैकग्राउंड
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069140101335240704/img/B0BT_K2r94QlMt51.jpg" width="600" alt="बुजुर्ग जादूगर की ऑयल पेंटिंग">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6352)**
+
+**Author:** [Tippawan](https://x.com/Tippawaniqaa1) | **Source:** [Link](https://x.com/Tippawaniqaa1/status/2069140119777669192) | **Published:** Jun 22, 2026
+
+---
+### कॉस्मिक हार्ट रेडियंट एनर्जी
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सिनेमाई प्रॉम्प्ट जो गहरे ब्रह्मांडीय अंतरिक्ष में तैरते हुए एक चमकते लाल दिल के प्रतीक का वर्णन करता है।
+
+#### 📝 Prompt
+
+```
+अपने चमकदार सुनहरे ऊर्जा वलय के भीतर चमकता हुआ लाल दिल का प्रतीक ब्रह्मांड में भेजा जा रहा है: यह अग्रभूमि से धीरे-धीरे ब्रह्मांडीय अंतरिक्ष की अनंत गहराइयों में तैरता हुआ जाता है, जिसके चारों ओर घूमते हुए तारे, जीवंत निहारिकाएं और दूर की आकाशगंगाएं मौजूद हैं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069126357981040640/img/BJOmfWI2u0COfsHh.jpg" width="600" alt="कॉस्मिक हार्ट रेडियंट एनर्जी">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6344)**
+
+**Author:** [David Herbert Thomas](https://x.com/Diabach1972) | **Source:** [Link](https://x.com/Diabach1972/status/2069126422455546185) | **Published:** Jun 22, 2026
+
+---
+### टेरोडैक्टाइल (Pterodactyl) रूपांतरण यात्रा
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक असली (surreal) एनीमेशन प्रॉम्प्ट जहाँ एक सर्फर टेरोडैक्टाइल में बदल जाता है और बृहस्पति (Jupiter) की यात्रा करता है।
+
+#### 📝 Prompt
+
+```
+लहरों को पकड़ें (catch surf)
+
+वह एक टेरोडैक्टाइल में बदल जाती है और जुलाई में बृहस्पति के लिए उड़ान भरती है। जुनिपर उसकी एस्कॉर्ट है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069110645916663808/img/8R4jZoEj_h4YMOXQ.jpg" width="600" alt="टेरोडैक्टाइल (Pterodactyl) रूपांतरण यात्रा">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6357)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2069110771632476463) | **Published:** Jun 22, 2026
+
+---
+### Serenity Melody Ray
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> प्रकाश की किरणों और गुनगुनाते हुए मक्खियों वाले एक शांत वीडियो के लिए एक काव्यात्मक प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+💡 किरण की 🌙🌕
+
+वे उन मक्खियों के दोस्त हैं जो उन्हें एक ऐसी धुन 🎵 गाने में मदद करती हैं जो अपने आप में शांति है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069100655814590464/img/x59SVmp1rbTqAfhg.jpg" width="600" alt="Serenity Melody Ray">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6348)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2069100778220859677) | **Published:** Jun 22, 2026
+
+---
+### फ्रेम-गाइडेड क्रैश ज़ूम वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक तकनीकी प्रॉम्प्ट जो Grok Imagine 1.5 की विशिष्ट स्टार्ट और एंड फ्रेम निर्देशों का पालन करने की क्षमता को प्रदर्शित करता है।
+
+#### 📝 Prompt
+
+```
+सटीक पहले फ्रेम के रूप में [Image1] से शुरुआत करें, घर की खिड़की से होते हुए क्रैश ज़ूम करें, घर की खिड़की के अंदर सटीक फ्रेम [Image2] है
+```
+
+<img src="https://cms-assets.youmind.com/media/1782204557179_0yl3e5_HLbpW05WsAA7Sgp.jpg" width="600" alt="फ्रेम-गाइडेड क्रैश ज़ूम वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6353)**
+
+**Author:** [steve johnson](https://x.com/seeksteve) | **Source:** [Link](https://x.com/seeksteve/status/2069097737631445197) | **Published:** Jun 22, 2026
+
+---
+### विंटेज एब्सट्रैक्ट फ्लैपर्स मार्केट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 1920 के दशक के फ्लैपर फ्ली मार्केट के लिए एक कलात्मक प्रॉम्प्ट, जो एब्सट्रैक्ट पेंटिंग शैली में है।
+
+#### 📝 Prompt
+
+```
+एक विंटेज फैशन फ्ली मार्केट जहाँ महिलाएँ 1920 के दशक की फ्लैपर शैली में कपड़े पहने हुए हैं, एब्सट्रैक्ट पेंटिंग की शैली में
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069074678577041408/img/6DicXuBuX-skk71r.jpg" width="600" alt="विंटेज एब्सट्रैक्ट फ्लैपर्स मार्केट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6345)**
+
+**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2069076254813233638) | **Published:** Jun 22, 2026
+
+---
+### कॉफी कप इंटरेक्शन मोशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक विशिष्ट कैरेक्टर इंटरेक्शन प्रॉम्प्ट जो कॉफी कप की गति और उसे रखने पर केंद्रित है।
+
+#### 📝 Prompt
+
+```
+कॉफी के कप को उसकी छाती की ओर ले जाएं ताकि कप वास्तव में उसकी छाती के ऊपरी हिस्से की हड्डी वाली जगह को छुए
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069075311174848512/img/TQy-8rEQHABNtQVk.jpg" width="600" alt="कॉफी कप इंटरेक्शन मोशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6350)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2069075371547623644) | **Published:** Jun 22, 2026
+
+---
+### टोपी पहने गाते हुए पिल्ले
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> टोपी पहने हुए पिल्लों का वीडियो बनाने के लिए एक मजेदार प्रॉम्प्ट, जिसमें वे गाते हुए और खुशी के भावों के साथ हिलते-डुलते नजर आते हैं।
+
+#### 📝 Prompt
+
+```
+टोपी पहने हुए पिल्ले "we’re dogs with hats and the hats stay on" गाते हैं, जिसमें वे खुशी और ऊर्जा के साथ हिलते-डुलते हैं और उनके चेहरे पर चंचल भाव हैं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068989769913131008/img/ZYyhX3vccsI9lY7k.jpg" width="600" alt="टोपी पहने गाते हुए पिल्ले">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6343)**
+
+**Author:** [marianne](https://x.com/tuakdotsol) | **Source:** [Link](https://x.com/tuakdotsol/status/2069006656927637598) | **Published:** Jun 22, 2026
+
+---
+### समुद्र के नीचे मछली परिवार का एनिमेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> डिज्नी-पिक्सर (Disney-Pixar) से प्रेरित एक दिल को छू लेने वाला वीडियो प्रॉम्प्ट, जिसमें समुद्र में एक विशाल माँ मछली और उसके बच्चे हैं।
+
+#### 📝 Prompt
+
+```
+एक शांत, क्रिस्टल-क्लियर फ़िरोज़ी समुद्र में अपनी छोटी मछलियों का नेतृत्व करती एक विशाल माँ मछली की सुंदर डिजिटल पेंटिंग। छोटी मछलियाँ उसके पीछे-पीछे चल रही हैं। दूर रंग-बिरंगे मूंगे (कोरल) दिखाई दे रहे हैं। ऊपर से आती हल्की चमक। डिज्नी-पिक्सर (Disney-Pixar) से प्रेरित आर्ट स्टाइल, जीवंत रंग, दिल को छू लेने वाला पारिवारिक दृश्य।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068967572360605696/img/bwwSFaIHS3o4XVoD.jpg" width="600" alt="समुद्र के नीचे मछली परिवार का एनिमेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6347)**
+
+**Author:** [DAAZLE FC](https://x.com/DAAZLEFC) | **Source:** [Link](https://x.com/DAAZLEFC/status/2068967848849117493) | **Published:** Jun 22, 2026
+
+---
+### हुडी पहने नाचते पिल्ले
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> घर के पिछवाड़े में नाचते और गाते पिल्लों के एक समूह के लिए एक अत्यधिक विस्तृत वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+हरे-भरे घास और लकड़ी की बाड़ वाले एक धूपदार पिछवाड़े में रंगीन हुडी (लाल, नीला, पीला) पहने तीन प्यारे रोएंदार पिल्ले। वे उत्साह के साथ नाच रहे हैं और खुशी व चंचल भावों के साथ गा रहे हैं, “We’re puppies in hoodies, ready to boogie!”। क्रियाओं का क्रम: तालमेल के साथ नृत्य, एक पिल्ला गाना गा रहा है जबकि अन्य नाच रहे हैं, साथ में घूमना और चक्कर काटना, ऊंची छलांग लगाना, और अंत में जश्न में पंजे ऊपर उठाना। तेज धूप, जीवंत रंग, मनमोहक प्यारा स्टाइल, स्मूथ एनिमेशन, उच्च विवरण, मजेदार और जीवंत छोटा वीडियो, 6 सेकंड
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068952215646298113/img/LUImq89MgGO62FwT.jpg" width="600" alt="हुडी पहने नाचते पिल्ले">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6351)**
+
+**Author:** [liuhuofeiyan](https://x.com/yhjocean) | **Source:** [Link](https://x.com/yhjocean/status/2068953107162370443) | **Published:** Jun 22, 2026
+
+---
+### वाटर पाइप रिट्रैक्शन सीक्वेंस
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक एनीमेशन के लिए तकनीकी वीडियो जनरेशन प्रॉम्प्ट, जहाँ पानी का बहाव रुक जाता है और पाइप बिना किसी रिसाव के अंदर की ओर सिमट जाता है।
+
+#### 📝 Prompt
+
+```
+वीडियो बनाते समय।
+ब्रिटिश आवाज़ में बदलें।
+अंग्रेज़ी आवाज़ में बदलें।
+5-20 सेकंड के भीतर पाइप से पानी का बहाव रुक जाना चाहिए।
+उसके बाद
+पाइप अंदर की ओर सिमट जाना चाहिए।
+बिना किसी रिसाव के।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068952774650306560/img/jl0yD2PO8-nSyBtP.jpg" width="600" alt="वाटर पाइप रिट्रैक्शन सीक्वेंस">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6354)**
+
+**Author:** [Luke Clayden](https://x.com/clayden5_luke) | **Source:** [Link](https://x.com/clayden5_luke/status/2068952831491551674) | **Published:** Jun 22, 2026
+
+---
+### वॉयस कंट्रोल्ड वॉटर एनिमेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वीडियो जनरेशन प्रॉम्प्ट जो वॉयस-ओवर में बदलाव और किसी दृश्य में पानी के बहाव को रोकने के लिए एक विशिष्ट समय-सीमा का निर्देश देता है।
+
+#### 📝 Prompt
+
+```
+वीडियो बनाते समय।
+ब्रिटिश आवाज़ में बदलें।
+अंग्रेज़ी आवाज़ में बदलें।
+.
+.
+पानी को पाइप से 5-20 सेकंड के भीतर बहना बंद कर देना चाहिए।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068951776275873792/img/KQsGnADBHUPSJPMX.jpg" width="600" alt="वॉयस कंट्रोल्ड वॉटर एनिमेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6355)**
+
+**Author:** [Luke Clayden](https://x.com/clayden5_luke) | **Source:** [Link](https://x.com/clayden5_luke/status/2068951864851268085) | **Published:** Jun 22, 2026
+
+---
+### चिम्प कैरेक्टर आउटफिट ट्रांजिशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> रेगिस्तान में एक चिम्प कैरेक्टर का 3D एनिमेटेड प्रॉम्प्ट, जो कैमरे की ओर चलते हुए एक सीमलेस साइंस-फिक्शन आउटफिट चेंज करता है।
+
+#### 📝 Prompt
+
+```
+रेगिस्तान में 3D एनिमेटेड चिम्प कैरेक्टर। उसने कैप्टन हैट और लाल दिल के आकार का सनग्लास पहना है। काले नियॉन-ब्लू चमकते साइंस-फिक्शन सूट से नीली टी-शर्ट और शॉर्ट्स में सीमलेस आउटफिट चेंज ट्रांजिशन। कैमरे की ओर चलते हुए, मुस्कुराते हुए और धूल उड़ाते हुए।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068942872360157184/img/V3BZyHjSNCrZ52GZ.jpg" width="600" alt="चिम्प कैरेक्टर आउटफिट ट्रांजिशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6356)**
+
+**Author:** [Haris X](https://x.com/Haris_afxal) | **Source:** [Link](https://x.com/Haris_afxal/status/2068942939066413450) | **Published:** Jun 22, 2026
+
+---
+### निंजा विज़ार्ड लेविटेशन जंप
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक एक्शन-ओरिएंटेड प्रॉम्प्ट जिसमें एक निंजा विज़ार्ड इमारतों के बीच अलौकिक छलांग लगा रहा है।
+
+#### 📝 Prompt
+
+```
+एक निंजा विज़ार्ड बनाएं जो एक इमारत से दूसरी इमारत पर कूद रहा हो, लेविटेशन का उपयोग करके लंबी दूरी की छलांग लगा रहा हो, कोई हुड या केप नहीं, केवल एक निंजा मास्क
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068910740182880256/img/V8DGeJrsim2Tcqbv.jpg" width="600" alt="निंजा विज़ार्ड लेविटेशन जंप">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6349)**
+
+**Author:** [Justin Brennan](https://x.com/jmjbrennan32780) | **Source:** [Link](https://x.com/jmjbrennan32780/status/2068910792565510604) | **Published:** Jun 22, 2026
+
+---
+### प्राचीन साइंस-फिक्शन भंवर गति
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सिनेमैटिक वीडियो प्रॉम्प्ट जिसमें साइंस-फिक्शन सेटिंग में जादुई संकेत (sigils) और निर्माण का एक भंवर शामिल है।
+
+#### 📝 Prompt
+
+```
+प्राचीन समय की आंतरिक ज्वाला को जगाएं, शक्ति के संकेतों (sigils) को प्रज्वलित होने दें, साइंस-फिक्शन निर्माण के भंवर को उजागर करें, कोने में TLV
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068904173983404032/img/HrOkfacMLsRL4HGk.jpg" width="600" alt="प्राचीन साइंस-फिक्शन भंवर गति">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6346)**
+
+**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2068904236185006505) | **Published:** Jun 22, 2026
+
+---
 ### दस्ताने पहने नाचते हुए बिल्ली के बच्चे
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1847,309 +2147,6 @@ STAGE: घोस्ट रिवर की पूर्ण अभिव्यक
 **Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2066391012470309276) | **Published:** Jun 15, 2026
 
 ---
-### सुनहरा समुद्री जीव और एंजेल फिन उपहार
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वर्णनात्मक वीडियो प्रॉम्प्ट जहाँ एक अलौकिक सुनहरा समुद्री जीव एक देवदूत (एंजेल) को चमकता हुआ पूंछ का पंख भेंट करता है।
-
-#### 📝 Prompt
-
-```
-सुनहरा समुद्री जीव धीरे से देवदूत की ओर एक सुंदर, अलौकिक, चमकता हुआ पूंछ का पंख बढ़ा रहा है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/981a4c3276f1b8222331bf2568e55f04/thumbnails/thumbnail.jpg" width="600" alt="सुनहरा समुद्री जीव और एंजेल फिन उपहार">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6094)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2066389144213876780) | **Published:** Jun 15, 2026
-
----
-### Overwatch Mercy Valkyrie Heart वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Overwatch की Mercy के लिए उनके Valkyrie सूट में एक वीडियो जनरेशन प्रॉम्प्ट, जिसमें वे दर्शक को एक चमकता हुआ दिल का प्रतीक भेंट कर रही हैं।
-
-#### 📝 Prompt
-
-```
-Overwatch की Mercy अपने क्लासिक सफेद और सुनहरे Valkyrie सूट में, अपना हाथ दर्शक/स्क्रीन की ओर बढ़ाते हुए, जैसे कि वे एक प्रमुख लाल और सफेद दिल का प्रतीक (उनकी हथेली में हीलिंग एम्बलम की तरह चमकता या तैरता हुआ) भेंट कर रही हों, 🕊️🤍
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9fdd94ee1247c0dfa9ee9e8700c40294/thumbnails/thumbnail.jpg" width="600" alt="Overwatch Mercy Valkyrie Heart वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6092)**
-
-**Author:** [Irene Sieg](https://x.com/SiegSieg50040) | **Source:** [Link](https://x.com/SiegSieg50040/status/2066380661015953874) | **Published:** Jun 15, 2026
-
----
-### रहस्यमयी समुद्री जीव का दिव्य दर्शन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमैटिक वीडियो प्रॉम्प्ट जो एक रहस्यमयी पानी के नीचे रहने वाले जीव को दर्शाता है, जो ऊपर से एक दिव्य उपस्थिति को महसूस कर रहा है, जिससे एक शांत और अलौकिक वातावरण बनता है।
-
-#### 📝 Prompt
-
-```
-समुद्र का यह रहस्यमयी जीव ऊपर स्वर्गीय लोकों से किसी के आने की आहट महसूस कर रहा है
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2667d4bfe99f3ec0f044de12c8938cb0/thumbnails/thumbnail.jpg" width="600" alt="रहस्यमयी समुद्री जीव का दिव्य दर्शन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6100)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2066366065647440340) | **Published:** Jun 15, 2026
-
----
-### तारों भरी रात और धुंध की हलचल
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> grok-imagine के लिए एक वर्णनात्मक प्रॉम्प्ट, जिसे लहराती धुंध, हवा और टिमटिमाते तारों के साथ सिनेमाई वायुमंडलीय हलचल पैदा करने के लिए डिज़ाइन किया गया है।
-
-#### 📝 Prompt
-
-```
-धुंध और हवा लहराती हुई होनी चाहिए और तारों भरी रात टिमटिमाती हुई… और अधिक वातावरणीय हलचल
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e2b7bbd03cda8852cef9392674af862f/thumbnails/thumbnail.jpg" width="600" alt="तारों भरी रात और धुंध की हलचल">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6060)**
-
-**Author:** [Janice 🟧](https://x.com/titlejt) | **Source:** [Link](https://x.com/titlejt/status/2066358379300442612) | **Published:** Jun 15, 2026
-
----
-### ओपन-एयर रिवर केबिन स्टूडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> नदी के किनारे स्थित एक धूप से सराबोर स्टूडियो केबिन का शांत सुबह का वीडियो प्रॉम्प्ट, जिसमें हल्की हवा का प्रभाव है।
-
-#### 📝 Prompt
-
-```
-एक उज्ज्वल, ओपन-एयर स्टूडियो जो आधा अंदर और आधा बाहर है, जिसे नदी के किनारे किराए के केबिन में शांत सुबह के समय सेट किया गया है। धूप से सराबोर यह जगह सीधे एक लकड़ी की बालकनी पर खुलती है, जहाँ से सुबह की शुरुआती रोशनी में चमकती हुई नदी दिखाई देती है, साथ ही हल्की हवा चल रही है (वर्ल्ड बिल्डिंग)
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/29aeb249a788b0c25b18d37d8745114d/thumbnails/thumbnail.jpg" width="600" alt="ओपन-एयर रिवर केबिन स्टूडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6099)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2066353976765731158) | **Published:** Jun 15, 2026
-
----
-### इरिडेसेंट वॉटर फेस एनिमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक महिला के चेहरे को जीवंत पानी में हिलते हुए, साइकेडेलिक इंद्रधनुषी लहरों और तेल के भंवरों के साथ एनिमेट करने के लिए एक मोशन प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-यह असली डिजिटल आर्टवर्क तब जीवंत हो उठता है जब युवती का चेहरा जीवंत इरिडेसेंट पानी में धीरे-धीरे हिलता है, जिसमें साइकेडेलिक इंद्रधनुषी लहरें और तैलीय रंगों के भंवर उसकी डूबी हुई त्वचा और पानी की सतह पर गतिशील रूप से बहते और चमकते हैं।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06526b33fbdad194fa9bc2bdffa3aa35/thumbnails/thumbnail.jpg" width="600" alt="इरिडेसेंट वॉटर फेस एनिमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6098)**
-
-**Author:** [quantum void](https://x.com/Happygator) | **Source:** [Link](https://x.com/Happygator/status/2066319820736373187) | **Published:** Jun 15, 2026
-
----
-### धीमा सिर झुकाना और कैमरा ज़ूम
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक मोशन-विशिष्ट वीडियो प्रॉम्प्ट जो एक प्राकृतिक प्रवाह का वर्णन करता है जहाँ विषय अपना सिर पीछे की ओर झुकाता है और कैमरा ज़ूम इन करता है।
-
-#### 📝 Prompt
-
-```
-दृश्य स्वाभाविक रूप से प्रवाहित होता है जहाँ विषय धीरे-धीरे अपना सिर पीछे की ओर झुकाता है। शॉट धीरे-धीरे ज़ूम इन होता है। यह प्रवाह संक्षेप में कैमरे को ओझल कर देता है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f83d942670740ef094468a71a843b9b4/thumbnails/thumbnail.jpg" width="600" alt="धीमा सिर झुकाना और कैमरा ज़ूम">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6093)**
-
-**Author:** [Fi OC](https://x.com/fioc2024) | **Source:** [Link](https://x.com/fioc2024/status/2066315176836550864) | **Published:** Jun 15, 2026
-
----
-### उड़ते रॉकेट पर AI कैरेक्टर्स
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> एक डायनामिक साइंस-फिक्शन वीडियो प्रॉम्प्ट जहाँ AI कैरेक्टर्स होलोग्राफ के माध्यम से बातचीत करते हुए फॉर्मेशन में मंगल ग्रह की ओर व्यक्तिगत छोटे रॉकेटों पर सवार हैं।
-
-#### 📝 Prompt
-
-```
-वर्तमान इमेज को एडिट करें और इसे बदलें ताकि प्रत्येक व्यक्ति एक अलग रॉकेट पर सवार हो। प्रत्येक चाइल्ड AI अपने स्वयं के भविष्यवादी छोटे रॉकेट पर सवार है, और कई यूनिट्स एक साथ मंगल ग्रह की ओर जाने के लिए एक फॉर्मेशन बनाती हैं। वे संचार (डेटा लिंक या होलोग्राफ) के माध्यम से ड्राफ्ट मीटिंग जारी रखते हुए कार्यात्मक विभाजन पर चर्चा कर रहे हैं। अंतरिक्ष में उड़ते हुए एक डायनामिक और प्यारे SF स्टाइल, जीवंत रंगों और एक गर्मजोशी भरे माहौल को बनाए रखें।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/24cccb35332fb3f93f501a81dab36352/thumbnails/thumbnail.jpg" width="600" alt="उड़ते रॉकेट पर AI कैरेक्टर्स">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6059)**
-
-**Author:** [Kafka Beatrix@贖罪卿](https://x.com/botamochi8639) | **Source:** [Link](https://x.com/botamochi8639/status/2066278419013476806) | **Published:** Jun 14, 2026
-
----
-### एनीमे ओपनिंग सीन वीडियो प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> डायनामिक मूवमेंट और पार्टिकल इफेक्ट्स के साथ सिनेमैटिक एनीमे ओपनिंग सीक्वेंस जनरेट करने के लिए एक हाई-क्वालिटी प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-हाई क्वालिटी एनीमे ओपनिंग सीन, सुंदर कैरेक्टर डिज़ाइन, बालों का डायनामिक मूवमेंट, चमकते पार्टिकल्स, इमोशनल स्काई बैकग्राउंड, तेज़ कट्स, ड्रामेटिक पोज़, जापानी एनीमे स्टाइल, 9:16 वर्टिकल वीडियो।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ff214aa391314d1d812e7193352bdc6a/thumbnails/thumbnail.jpg" width="600" alt="एनीमे ओपनिंग सीन वीडियो प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6062)**
-
-**Author:** [クレア](https://x.com/kureakurea01) | **Source:** [Link](https://x.com/kureakurea01/status/2066178860715315424) | **Published:** Jun 14, 2026
-
----
-### आत्मविश्वास से भरपूर जिम वियरेबल टेक पोर्ट्रेट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक लक्जरी जिम सेटिंग में एक महिला का उच्च गुणवत्ता वाला पोर्ट्रेट, जिसमें गर्दन पर पहने जाने वाले हाई-टेक वियरेबल डिवाइस को दर्शाया गया है।
-
-#### 📝 Prompt
-
-```
-एक लक्जरी जिम स्टूडियो में पोज़ देती हुई आत्मविश्वास से भरी युवा पूर्वी एशियाई महिला, जिसने अपनी गर्दन और कॉलरबोन क्षेत्र पर एक आकर्षक हाई-टेक कॉलरबोन कंडक्शन लक्जरी वियरेबल डिवाइस पहना हुआ है, जिस पर Nadi ब्रांड का नाम सुंदर आधुनिक अक्षरों में अंकित है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4efde8d06b86a11ff41e502fbbfd8064/thumbnails/thumbnail.jpg" width="600" alt="आत्मविश्वास से भरपूर जिम वियरेबल टेक पोर्ट्रेट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6054)**
-
-**Author:** [Mark Richter](https://x.com/wmarkrichter) | **Source:** [Link](https://x.com/wmarkrichter/status/2066089915117367330) | **Published:** Jun 14, 2026
-
----
-### प्रोफेशनल टेक्स्ट ओवरले एडिट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> मूल विषय की संरचना को बनाए रखते हुए स्टाइलिश टेक्स्ट जोड़ने के लिए एक वीडियो एडिटिंग प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-छवि के निचले केंद्र में, पठनीयता के लिए हल्के गहरे रंग की छाया के साथ एक सुंदर, प्रोफेशनल सफेद सन्स-सेरिफ़ फ़ॉन्ट में "Sorry" टेक्स्ट जोड़ें। महिला का पोर्ट्रेट, अभिव्यक्ति, लाइटिंग और संरचना को बिल्कुल वैसा ही रखें।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5401722a79f680a88c67e89a1eb5d542/thumbnails/thumbnail.jpg" width="600" alt="प्रोफेशनल टेक्स्ट ओवरले एडिट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6053)**
-
-**Author:** [Caroline Winberg](https://x.com/Escort_Breeder) | **Source:** [Link](https://x.com/Escort_Breeder/status/2066078531235274768) | **Published:** Jun 14, 2026
-
----
-### सिनेमैटिक किटन मोशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक विस्तृत सिनेमैटिक वीडियो प्रॉम्प्ट जिसमें उड़ते हुए पंखुड़ियों और हल्के चमकते कणों के साथ एक बिल्ली का बच्चा (kitten) है।
-
-#### 📝 Prompt
-
-```
-camera: किटन कैरेक्टर की ओर धीमा सिनेमैटिक पुश-इन
-motion: हवा में धीरे-धीरे तैरती फूलों की पंखुड़ियाँ और हल्के चमकते कण, सूक्ष्म ब्रीदिंग एनिमेशन, हवा में धीरे-धीरे हिलता रिबन
-environment: शांत
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ad93afbcfc31409d09ae35ee19650ee3/thumbnails/thumbnail.jpg" width="600" alt="सिनेमैटिक किटन मोशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6052)**
-
-**Author:** [🐱あやちゃん🐱](https://x.com/AYA22725524) | **Source:** [Link](https://x.com/AYA22725524/status/2066063315940659566) | **Published:** Jun 14, 2026
-
----
-### समुद्र तट पर लड़खड़ाता हुआ व्यक्ति
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक चरित्र-प्रधान मोशन प्रॉम्प्ट जिसमें एक व्यक्ति समुद्र तट पर चल रहा है, गिरता है, और फिर शर्मिंदा होते हुए भी सकारात्मक हाव-भाव के साथ संभल जाता है।
-
-#### 📝 Prompt
-
-```
-वह समुद्र की ओर देखते हुए आगे बढ़ता है, फिर लड़खड़ाकर सीधे मुंह के बल गिर जाता है, तुरंत खड़ा होता है, शर्मिंदा दिखता है और फिर कैमरे की ओर दोनों अंगूठे दिखाकर थम्स अप करता है। वर्ल्ड कप की तैयारी।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/74f64fb1749f28870e918625cba191b2/thumbnails/thumbnail.jpg" width="600" alt="समुद्र तट पर लड़खड़ाता हुआ व्यक्ति">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6058)**
-
-**Author:** [Billy Balls](https://x.com/BillyBalls25138) | **Source:** [Link](https://x.com/BillyBalls25138/status/2066060391185019021) | **Published:** Jun 14, 2026
-
----
-### सुपरहीरो डांस ऑफ मैशअप
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> मार्वल और डीसी सुपरहीरो के बीच डांस-ऑफ प्रतियोगिता बनाने के लिए एक जटिल सिनेमैटिक प्रॉम्प्ट, जो गतिशील कैमरा वर्क के साथ संगीत पर सिंक्रोनाइज़्ड है।
-
-#### 📝 Prompt
-
-```
-विभिन्न स्टूडियो के सुपरहीरो का एक मैशअप; मार्वल बनाम डीसी। माइकल जैक्सन के 'बीट इट' गाने की धुन पर डांस-ऑफ प्रतियोगिता। सिनेमैटिक। अल्ट्रा रियलिस्टिक। बीट के साथ सिंक्रोनाइज़्ड गतिशील कैमरा मूवमेंट और जंप कट्स....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4d32f2f101ad577fc5503ab4699ab0b5/thumbnails/thumbnail.jpg" width="600" alt="सुपरहीरो डांस ऑफ मैशअप">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6057)**
-
-**Author:** [Billy Balls](https://x.com/BillyBalls25138) | **Source:** [Link](https://x.com/BillyBalls25138/status/2066059347398963597) | **Published:** Jun 14, 2026
-
----
-### 90 के दशक की एक्शन फिल्म का ट्रेन यार्ड दृश्य
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 1990 के दशक की थिएट्रिकल एक्शन-एडवेंचर फिल्म के दृश्य को प्रैक्टिकल इफेक्ट्स और सिनेमैटिक फ्रेमिंग के साथ फिर से बनाने वाला एक अत्यधिक विस्तृत प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-विंटेज 1990 के दशक का थिएट्रिकल एक्शन-एडवेंचर फिल्म दृश्य, 16:9 वाइडस्क्रीन, केवल प्रैक्टिकल इफेक्ट्स, 35mm एनामोर्फिक फिल्म पर शूट किया गया, कोडक-स्टाइल ग्रेन, धूल भरी रेगिस्तानी गर्मी, धूप में तपा हुआ ट्रेन यार्ड, हैंडहेल्ड कैमरा एनर्जी, वास्तविक स्टंट ब्लॉकिंग, कोई CGI नहीं।
-
-टैन वर्क शर्ट, फिटेड ब्लू जींस, लेदर बेल्ट, होल्स्टर और बूट्स पहने एक लाल बालों वाली महिला एक जंग लगी मालगाड़ी के बगल में दौड़ रही है, जबकि उसके पीछे ट्रेन की दीवार से चिंगारियां और धुआं निकल रहा है। उसने अपने दाहिने हाथ में एक यथार्थवादी प्रॉप रिवॉल्वर को नीचे की ओर मजबूती से पकड़ा हुआ है, जिसमें उंगलियों की सही स्थिति, कलाई का सही संरेखण और दौड़ने की विश्वसनीय मुद्रा है। उसका बायां हाथ दौड़ते समय स्वाभाविक रूप से हिल रहा है, वह केंद्रित और तत्पर है, उसके बाल गर्म हवा में लहरा रहे हैं।
-
-0:00–0:03
-बिल्कुल इमेज से शुरुआत करें। ट्रेन के बगल में मीडियम-वाइड ट्रैकिंग शॉट। वह कैमरे के बाईं ओर दौड़ती है, जोर-जोर से सांस ले रही है, अपने कंधे के ऊपर से पीछे मुड़कर देखती है जबकि ट्रेन से चिंगारियां निकल रही हैं। धुआं फ्रेम में फैल रहा है। दौड़ते समय रिवॉल्वर सुरक्षित रूप से नीचे की ओर रहती है, उसकी पकड़ मजबूत और शारीरिक रूप से सही है।
-
-0:03–0:06
-हैंडहेल्ड कैमरा करीब आता है। वह झुकती है क्योंकि उसके पीछे ट्रेन के डिब्बे में एक प्रैक्टिकल स्क्विब ब्लास्ट होता है, जिससे नारंगी चिंगारियां और काला धुआं बाहर निकलता है। उसके बूट्स के आसपास धूल उड़ती है। उसका चेहरा दृढ़ है, डरी हुई लेकिन नियंत्रित, 1990 के दशक की एक जमीन से जुड़ी एक्शन हीरोइन की तरह।
-
-0:06–0:10
-वह कवर के लिए एक स्टील रेल पोस्ट के पीछे Slides करती है, तेजी से घूमती है, और एक सटीक रक्षात्मक लक्ष्य के लिए दोनों हाथों से रिवॉल्वर उठाती है। बंदूक को यथार्थवादी रखें: सही बैरल आकार, सिलेंडर, ट्रिगर गार्ड, स्वाभाविक दो-हाथों वाली पकड़, कोई मुड़ी हुई उंगलियां नहीं, कोई अतिरिक्त उंगली नहीं। वह अभी फायर नहीं करती — वह सुनती है, उसकी आंखें धुएं के बीच तलाश कर रही हैं।
-
-0:10–0:14
-ट्रेन में आगे एक और विस्फोट होता है। वह चौंकती है, फिर आगे बढ़ती है, मालगाड़ी के डिब्बों के बीच के गैप की ओर पटरियों पर दौड़ती है। कैमरा तीव्र हैंडहेल्ड मोशन ब्लर के साथ पीछा करता है, चिंगारियां उसके पीछे आग की बौछार की तरह गिर रही हैं। अंत में वह धुएं में गायब हो जाती है, उसके बाल और शर्ट हवा में लहरा रहे हैं, और पीछे जलती हुई ट्रेन दिखाई दे रही है।
-
-स्टाइल / कैमरा: 1980 के दशक के अंत / 1990 के दशक की शुरुआत की थिएट्रिकल फिल्म, 35mm एनामोर्फिक Panavision लुक, 50mm लेंस, उथला डेप्थ ऑफ फील्ड, प्रैक्टिकल पायरोटेक्निक्स, असली धुआं, असली धूल, अपूर्ण फोकस, फिल्म ग्रेन, हल्का गेट वीव, गर्म रेगिस्तानी धूप, जंग लगे लाल और धूल भरे टैन रंग, ग्रिटी लेकिन रंगीन एडवेंचर-थ्रिलर टोन।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6c050aadfbef6c20c42ff1ca33bab3d9/thumbnails/thumbnail.jpg" width="600" alt="90 के दशक की एक्शन फिल्म का ट्रेन यार्ड दृश्य">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6055)**
-
-**Author:** [Brent Lynch](https://x.com/BrentLynch) | **Source:** [Link](https://x.com/BrentLynch/status/2066014432543883673) | **Published:** Jun 14, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2211,6 +2208,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-23T04:20:56.593Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-23T11:38:59.389Z</sub>
 
 </div>

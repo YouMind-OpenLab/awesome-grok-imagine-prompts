@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1919** |
+| 📝 Total Prompts | **1934** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-23** |
 
@@ -189,6 +189,307 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Peinture à l'huile d'un vieux magicien
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo cinématographique créant le portrait d'un vieux magicien à la barbe argentée vêtu de robes en velours, dans le style d'une peinture à l'huile de Rembrandt.
+
+#### 📝 Prompt
+
+```
+Portrait d'un vieux magicien avec une longue barbe argentée et des yeux vert profond, portant une robe en velours usée et un chapeau pointu orné de runes subtiles. Style peinture à l'huile classique avec des coups de pinceau riches, un éclairage en clair-obscur façon Rembrandt et un arrière-plan sombre et atmosphérique.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069140101335240704/img/B0BT_K2r94QlMt51.jpg" width="600" alt="Peinture à l'huile d'un vieux magicien">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6352)**
+
+**Author:** [Tippawan](https://x.com/Tippawaniqaa1) | **Source:** [Link](https://x.com/Tippawaniqaa1/status/2069140119777669192) | **Published:** Jun 22, 2026
+
+---
+### Énergie rayonnante du cœur cosmique
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinématographique décrivant un emblème de cœur rougeoyant dérivant dans l'espace cosmique profond.
+
+#### 📝 Prompt
+
+```
+L'emblème du cœur rougeoyant à l'intérieur de son anneau d'énergie dorée rayonnante est envoyé vers l'univers : il dérive avec grâce du premier plan vers les profondeurs infinies de l'espace cosmique, entouré d'étoiles tourbillonnantes, de nébuleuses vibrantes et de galaxies lointaines.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069126357981040640/img/BJOmfWI2u0COfsHh.jpg" width="600" alt="Énergie rayonnante du cœur cosmique">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6344)**
+
+**Author:** [David Herbert Thomas](https://x.com/Diabach1972) | **Source:** [Link](https://x.com/Diabach1972/status/2069126422455546185) | **Published:** Jun 22, 2026
+
+---
+### Le voyage de transformation du ptérodactyle
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt d'animation surréaliste où un surfeur se transforme en ptérodactyle et voyage jusqu'à Jupiter.
+
+#### 📝 Prompt
+
+```
+attraper une vague
+
+Elle se transforme en ptérodactyle et s'envole vers Jupiter en juillet. Juniper est son escorte.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069110645916663808/img/8R4jZoEj_h4YMOXQ.jpg" width="600" alt="Le voyage de transformation du ptérodactyle">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6357)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2069110771632476463) | **Published:** Jun 22, 2026
+
+---
+### Mélodie de sérénité du rayon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt poétique pour une vidéo sereine mettant en scène des rayons lumineux et des mouches chanteuses.
+
+#### 📝 Prompt
+
+```
+💡 du rayon🌙🌕
+
+Elles sont amies avec des mouches qui les aident à chanter une mélodie 🎵 qui est la sérénité même.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069100655814590464/img/x59SVmp1rbTqAfhg.jpg" width="600" alt="Mélodie de sérénité du rayon">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6348)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2069100778220859677) | **Published:** Jun 22, 2026
+
+---
+### Vidéo avec zoom rapide guidé par images
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt technique démontrant la capacité de Grok Imagine 1.5 à suivre des instructions précises pour les images de début et de fin.
+
+#### 📝 Prompt
+
+```
+commencez avec [Image1] comme première image exacte, effectuez un zoom rapide à travers la fenêtre de la maison, à l'intérieur de la fenêtre de la maison se trouve l'image exacte [Image2]
+```
+
+<img src="https://cms-assets.youmind.com/media/1782204557179_0yl3e5_HLbpW05WsAA7Sgp.jpg" width="600" alt="Vidéo avec zoom rapide guidé par images">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6353)**
+
+**Author:** [steve johnson](https://x.com/seeksteve) | **Source:** [Link](https://x.com/seeksteve/status/2069097737631445197) | **Published:** Jun 22, 2026
+
+---
+### Marché aux puces vintage : Années folles en style abstrait
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt artistique pour un marché aux puces des années 1920 avec des « flappers », dans un style de peinture abstraite.
+
+#### 📝 Prompt
+
+```
+un marché aux puces de mode vintage avec des femmes habillées en « flappers » des années 1920 dans le style d'une peinture abstraite
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069074678577041408/img/6DicXuBuX-skk71r.jpg" width="600" alt="Marché aux puces vintage : Années folles en style abstrait">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6345)**
+
+**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2069076254813233638) | **Published:** Jun 22, 2026
+
+---
+### Mouvement d'interaction avec une tasse de café
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt d'interaction de personnage spécifique axé sur le mouvement et le placement d'une tasse de café.
+
+#### 📝 Prompt
+
+```
+Déplace la tasse de café vers sa poitrine afin que la tasse soit réellement en contact avec le haut de sa poitrine, au niveau de la partie osseuse.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069075311174848512/img/TQy-8rEQHABNtQVk.jpg" width="600" alt="Mouvement d'interaction avec une tasse de café">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6350)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2069075371547623644) | **Published:** Jun 22, 2026
+
+---
+### Chiots chantants avec des chapeaux
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt ludique pour générer une vidéo de chiots portant des chapeaux, chantant et bougeant avec des expressions joyeuses.
+
+#### 📝 Prompt
+
+```
+Les chiots avec des chapeaux chantent « nous sommes des chiens avec des chapeaux et les chapeaux restent sur nos têtes » avec des mouvements joyeux et énergiques ainsi que des expressions espiègles.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068989769913131008/img/ZYyhX3vccsI9lY7k.jpg" width="600" alt="Chiots chantants avec des chapeaux">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6343)**
+
+**Author:** [marianne](https://x.com/tuakdotsol) | **Source:** [Link](https://x.com/tuakdotsol/status/2069006656927637598) | **Published:** Jun 22, 2026
+
+---
+### Animation d'une famille de poissons sous-marine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo inspiré de Disney-Pixar, chaleureux et touchant, mettant en scène une maman poisson géante et ses petits dans l'océan.
+
+#### 📝 Prompt
+
+```
+Magnifique peinture numérique d'une maman poisson géante guidant ses petits poissons à travers un océan turquoise calme et cristallin. Les petits poissons la suivent de près. Corail coloré visible au loin. Douce lumière rayonnante venant d'en haut. Style artistique inspiré de Disney-Pixar, couleurs vibrantes, scène de famille touchante.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068967572360605696/img/bwwSFaIHS3o4XVoD.jpg" width="600" alt="Animation d'une famille de poissons sous-marine">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6347)**
+
+**Author:** [DAAZLE FC](https://x.com/DAAZLEFC) | **Source:** [Link](https://x.com/DAAZLEFC/status/2068967848849117493) | **Published:** Jun 22, 2026
+
+---
+### Chiots dansants en sweat à capuche
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo très détaillé pour un groupe de chiots dansant et chantant dans un jardin.
+
+#### 📝 Prompt
+
+```
+Trois adorables chiots duveteux portant des sweats à capuche colorés (rouge, bleu, jaune) dans un jardin ensoleillé avec de l'herbe verte et une clôture en bois. Ils dansent énergiquement et chantent « We’re puppies in hoodies, ready to boogie! » avec des expressions joyeuses et espiègles. Séquence d'actions : danse synchronisée, l'un menant la chanson pendant que les autres dansent, tourbillonnant ensemble, sautant haut, terminant avec les pattes levées en signe de célébration. Lumière vive, couleurs éclatantes, style adorable et mignon, animation fluide, haute précision, courte vidéo amusante et dynamique, 6 secondes
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068952215646298113/img/LUImq89MgGO62FwT.jpg" width="600" alt="Chiots dansants en sweat à capuche">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6351)**
+
+**Author:** [liuhuofeiyan](https://x.com/yhjocean) | **Source:** [Link](https://x.com/yhjocean/status/2068953107162370443) | **Published:** Jun 22, 2026
+
+---
+### Séquence de rétraction d'une conduite d'eau
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt technique de génération vidéo pour une animation où l'eau cesse de couler et une conduite se rétracte sans fuite.
+
+#### 📝 Prompt
+
+```
+Lors de la création d'une vidéo.
+Passer à une voix britannique.
+Passer à une voix anglaise.
+l'eau doit cesser de couler dans la conduite en 5 à 20 secondes.
+puis
+la conduite se rétracte à l'intérieur.
+sans aucune fuite.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068952774650306560/img/jl0yD2PO8-nSyBtP.jpg" width="600" alt="Séquence de rétraction d'une conduite d'eau">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6354)**
+
+**Author:** [Luke Clayden](https://x.com/clayden5_luke) | **Source:** [Link](https://x.com/clayden5_luke/status/2068952831491551674) | **Published:** Jun 22, 2026
+
+---
+### Animation d'eau contrôlée par la voix
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de génération vidéo demandant un changement de voix off et une synchronisation précise pour l'arrêt de l'écoulement de l'eau dans une scène.
+
+#### 📝 Prompt
+
+```
+Lors de la création d'une vidéo.
+Passer à une voix britannique.
+Passer à une voix anglaise.
+.
+.
+l'eau doit cesser de couler dans le tuyau entre 5 et 20 secondes.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068951776275873792/img/KQsGnADBHUPSJPMX.jpg" width="600" alt="Animation d'eau contrôlée par la voix">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6355)**
+
+**Author:** [Luke Clayden](https://x.com/clayden5_luke) | **Source:** [Link](https://x.com/clayden5_luke/status/2068951864851268085) | **Published:** Jun 22, 2026
+
+---
+### Transition de tenue d'un personnage chimpanzé
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt d'animation 3D représentant un personnage chimpanzé dans un désert effectuant un changement de tenue futuriste fluide tout en marchant vers la caméra.
+
+#### 📝 Prompt
+
+```
+Personnage chimpanzé en animation 3D dans un désert. Il porte une casquette de capitaine et des lunettes de soleil en forme de cœur rouge. Transition fluide de changement de tenue, passant d'une combinaison de science-fiction noire avec des néons bleus à un t-shirt bleu et un short. Il marche vers la caméra, sourit et soulève de la poussière.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068942872360157184/img/V3BZyHjSNCrZ52GZ.jpg" width="600" alt="Transition de tenue d'un personnage chimpanzé">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6356)**
+
+**Author:** [Haris X](https://x.com/Haris_afxal) | **Source:** [Link](https://x.com/Haris_afxal/status/2068942939066413450) | **Published:** Jun 22, 2026
+
+---
+### Saut de lévitation du ninja magicien
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt orienté action mettant en scène un ninja magicien effectuant un saut surnaturel entre deux bâtiments.
+
+#### 📝 Prompt
+
+```
+Créez un ninja magicien sautant d'un bâtiment à un autre, sur une longue distance en utilisant la lévitation pour effectuer le saut, sans capuche ni cape.
+Juste un masque de ninja.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068910740182880256/img/V8DGeJrsim2Tcqbv.jpg" width="600" alt="Saut de lévitation du ninja magicien">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6349)**
+
+**Author:** [Justin Brennan](https://x.com/jmjbrennan32780) | **Source:** [Link](https://x.com/jmjbrennan32780/status/2068910792565510604) | **Published:** Jun 22, 2026
+
+---
+### Mouvement de vortex de science-fiction antique
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo cinématographique impliquant des sceaux magiques et un vortex de création dans un cadre de science-fiction.
+
+#### 📝 Prompt
+
+```
+Éveillez la flamme intérieure des temps anciens, laissez les sceaux de pouvoir s'enflammer, libérez le vortex de création de science-fiction, TLV dans le coin
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068904173983404032/img/HrOkfacMLsRL4HGk.jpg" width="600" alt="Mouvement de vortex de science-fiction antique">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6346)**
+
+**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2068904236185006505) | **Published:** Jun 22, 2026
+
+---
 ### Chatons dansants avec des moufles
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1838,309 +2139,6 @@ MISE EN SCÈNE : Expression complète de la rivière fantôme, suivie d'une lent
 **Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2066391012470309276) | **Published:** Jun 15, 2026
 
 ---
-### Cadeau de créature marine dorée et nageoire d'ange
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo descriptif où une créature marine dorée éthérée offre une nageoire caudale lumineuse à un ange.
-
-#### 📝 Prompt
-
-```
-La créature marine dorée tend délicatement une magnifique nageoire caudale éthérée et lumineuse vers l'ange.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/981a4c3276f1b8222331bf2568e55f04/thumbnails/thumbnail.jpg" width="600" alt="Cadeau de créature marine dorée et nageoire d'ange">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6094)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2066389144213876780) | **Published:** Jun 15, 2026
-
----
-### Vidéo du cœur Valkyrie de Mercy dans Overwatch
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de génération vidéo pour Mercy d'Overwatch dans sa tenue Valkyrie, offrant un symbole de cœur lumineux au spectateur.
-
-#### 📝 Prompt
-
-```
-Mercy d'Overwatch dans sa tenue classique Valkyrie blanche et dorée, tendant la main vers le spectateur/l'écran comme pour donner ou offrir un symbole de cœur rouge et blanc proéminent (brillant ou flottant dans sa paume tel un emblème de soin), 🕊️🤍
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9fdd94ee1247c0dfa9ee9e8700c40294/thumbnails/thumbnail.jpg" width="600" alt="Vidéo du cœur Valkyrie de Mercy dans Overwatch">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6092)**
-
-**Author:** [Irene Sieg](https://x.com/SiegSieg50040) | **Source:** [Link](https://x.com/SiegSieg50040/status/2066380661015953874) | **Published:** Jun 15, 2026
-
----
-### Visite céleste d'une créature marine mystique
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo cinématographique représentant une créature sous-marine mystique ressentant une présence divine venue d'en haut, créant une atmosphère sereine et éthérée.
-
-#### 📝 Prompt
-
-```
-cette créature mystique de l'océan ressent une visite imminente en provenance des royaumes célestes
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2667d4bfe99f3ec0f044de12c8938cb0/thumbnails/thumbnail.jpg" width="600" alt="Visite céleste d'une créature marine mystique">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6100)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2066366065647440340) | **Published:** Jun 15, 2026
-
----
-### Mouvement de brouillard dans une nuit étoilée
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt descriptif pour grok-imagine conçu pour créer un mouvement atmosphérique cinématographique avec du brouillard ondulant, du vent et des étoiles scintillantes.
-
-#### 📝 Prompt
-
-```
-Le brouillard et le vent doivent onduler et la nuit étoilée doit scintiller… Plus de mouvement dans l'environnement
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e2b7bbd03cda8852cef9392674af862f/thumbnails/thumbnail.jpg" width="600" alt="Mouvement de brouillard dans une nuit étoilée">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6060)**
-
-**Author:** [Janice 🟧](https://x.com/titlejt) | **Source:** [Link](https://x.com/titlejt/status/2066358379300442612) | **Published:** Jun 15, 2026
-
----
-### Studio en cabane au bord de la rivière en plein air
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo paisible pour un matin dans un studio en cabane ensoleillé au bord d'une rivière, avec un effet de légère brise.
-
-#### 📝 Prompt
-
-```
-Un studio lumineux en plein air, à mi-chemin entre intérieur et extérieur, situé dans le calme d'une matinée dans une cabane louée au bord de la rivière. L'espace ensoleillé s'ouvre directement sur un balcon en bois surplombant la rivière scintillante sous la lumière du petit matin, avec une légère brise (world building)
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/29aeb249a788b0c25b18d37d8745114d/thumbnails/thumbnail.jpg" width="600" alt="Studio en cabane au bord de la rivière en plein air">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6099)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2066353976765731158) | **Published:** Jun 15, 2026
-
----
-### Animation de visage dans l'eau iridescente
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de mouvement pour animer le visage d'une femme évoluant dans une eau vibrante avec des ondulations arc-en-ciel psychédéliques et des tourbillons d'huile.
-
-#### 📝 Prompt
-
-```
-Cette œuvre d'art numérique surréaliste prend vie alors que le visage de la jeune femme se déplace doucement dans l'eau iridescente vibrante, tandis que des ondulations arc-en-ciel psychédéliques et des tourbillons de couleurs huileuses s'écoulent et scintillent dynamiquement sur sa peau immergée et à la surface de l'eau.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06526b33fbdad194fa9bc2bdffa3aa35/thumbnails/thumbnail.jpg" width="600" alt="Animation de visage dans l'eau iridescente">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6098)**
-
-**Author:** [quantum void](https://x.com/Happygator) | **Source:** [Link](https://x.com/Happygator/status/2066319820736373187) | **Published:** Jun 15, 2026
-
----
-### Inclinaison lente de la tête et zoom caméra
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo spécifique au mouvement décrivant un flux naturel où le sujet incline la tête en arrière tandis que la caméra effectue un zoom avant.
-
-#### 📝 Prompt
-
-```
-La scène s'écoule naturellement, le sujet incline lentement la tête en arrière. La caméra effectue un zoom avant progressif. Le mouvement masque brièvement la caméra.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f83d942670740ef094468a71a843b9b4/thumbnails/thumbnail.jpg" width="600" alt="Inclinaison lente de la tête et zoom caméra">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6093)**
-
-**Author:** [Fi OC](https://x.com/fioc2024) | **Source:** [Link](https://x.com/fioc2024/status/2066315176836550864) | **Published:** Jun 15, 2026
-
----
-### Personnages IA sur des fusées volantes
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt vidéo de science-fiction dynamique où des personnages IA chevauchent des petites fusées individuelles en formation vers Mars tout en communiquant via des hologrammes.
-
-#### 📝 Prompt
-
-```
-Modifiez l'image actuelle pour que chaque personne soit à califourchon sur une fusée individuelle. Chaque enfant IA chevauche sa propre petite fusée futuriste, et plusieurs unités forment un groupe pour se diriger ensemble vers Mars. Ils discutent de la répartition des tâches tout en poursuivant la réunion de projet via communication (liaison de données ou hologramme). Maintenez un style SF dynamique et mignon volant dans l'espace, des couleurs vives et une atmosphère chaleureuse.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/24cccb35332fb3f93f501a81dab36352/thumbnails/thumbnail.jpg" width="600" alt="Personnages IA sur des fusées volantes">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6059)**
-
-**Author:** [Kafka Beatrix@贖罪卿](https://x.com/botamochi8639) | **Source:** [Link](https://x.com/botamochi8639/status/2066278419013476806) | **Published:** Jun 14, 2026
-
----
-### Prompt vidéo pour scène d'ouverture d'anime
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de haute qualité pour générer des séquences d'ouverture d'anime cinématographiques avec des mouvements dynamiques et des effets de particules.
-
-#### 📝 Prompt
-
-```
-Scène d'ouverture d'anime de haute qualité, superbe design de personnage, mouvement dynamique des cheveux, particules lumineuses, arrière-plan de ciel émotionnel, coupes rapides, pose dramatique, style anime japonais, vidéo verticale 9:16.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ff214aa391314d1d812e7193352bdc6a/thumbnails/thumbnail.jpg" width="600" alt="Prompt vidéo pour scène d'ouverture d'anime">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6062)**
-
-**Author:** [クレア](https://x.com/kureakurea01) | **Source:** [Link](https://x.com/kureakurea01/status/2066178860715315424) | **Published:** Jun 14, 2026
-
----
-### Portrait confiant d'un accessoire technologique de sport
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un portrait de haute qualité d'une femme dans une salle de sport de luxe, mettant en avant un appareil portable high-tech porté autour du cou.
-
-#### 📝 Prompt
-
-```
-Une jeune femme est-asiatique confiante posant dans un studio de sport luxueux, portant un élégant appareil portable de luxe à conduction osseuse high-tech, mis en évidence sur son cou et ses clavicules, arborant la marque Nadi dans une typographie moderne et élégante.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4efde8d06b86a11ff41e502fbbfd8064/thumbnails/thumbnail.jpg" width="600" alt="Portrait confiant d'un accessoire technologique de sport">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6054)**
-
-**Author:** [Mark Richter](https://x.com/wmarkrichter) | **Source:** [Link](https://x.com/wmarkrichter/status/2066089915117367330) | **Published:** Jun 14, 2026
-
----
-### Édition professionnelle de superposition de texte
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de montage vidéo pour ajouter du texte stylisé tout en conservant la composition du sujet original.
-
-#### 📝 Prompt
-
-```
-Ajoutez le texte « Sorry » dans une police sans-serif blanche, élégante et professionnelle, avec une ombre portée subtile pour la lisibilité, positionné au centre en bas de l'image. Conservez exactement le portrait, l'expression, l'éclairage et la composition de la femme.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5401722a79f680a88c67e89a1eb5d542/thumbnails/thumbnail.jpg" width="600" alt="Édition professionnelle de superposition de texte">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6053)**
-
-**Author:** [Caroline Winberg](https://x.com/Escort_Breeder) | **Source:** [Link](https://x.com/Escort_Breeder/status/2066078531235274768) | **Published:** Jun 14, 2026
-
----
-### Mouvement cinématographique de chaton
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo cinématographique détaillé mettant en scène un chaton avec des pétales à la dérive et des particules lumineuses douces.
-
-#### 📝 Prompt
-
-```
-caméra : travelling avant cinématographique lent vers le personnage du chaton
-mouvement : pétales de fleurs et particules lumineuses douces dérivant doucement dans l'air, animation de respiration subtile, ruban bougeant délicatement dans la brise
-environnement : paisible
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ad93afbcfc31409d09ae35ee19650ee3/thumbnails/thumbnail.jpg" width="600" alt="Mouvement cinématographique de chaton">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6052)**
-
-**Author:** [🐱あやちゃん🐱](https://x.com/AYA22725524) | **Source:** [Link](https://x.com/AYA22725524/status/2066063315940659566) | **Published:** Jun 14, 2026
-
----
-### Homme trébuchant sur la plage
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de mouvement axé sur le personnage montrant un homme marchant sur une plage, tombant, puis se relevant avec un geste embarrassé mais positif.
-
-#### 📝 Prompt
-
-```
-Il avance en regardant l'océan, puis trébuche et tombe face contre terre, se relève d'un bond, semble embarrassé et fait un double pouce levé vers la caméra. En préparation pour la Coupe du Monde.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/74f64fb1749f28870e918625cba191b2/thumbnails/thumbnail.jpg" width="600" alt="Homme trébuchant sur la plage">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6058)**
-
-**Author:** [Billy Balls](https://x.com/BillyBalls25138) | **Source:** [Link](https://x.com/BillyBalls25138/status/2066060391185019021) | **Published:** Jun 14, 2026
-
----
-### Mashup de danse de super-héros
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinématographique complexe créant une compétition de danse entre les super-héros de Marvel et de DC, synchronisée sur la musique avec des mouvements de caméra dynamiques.
-
-#### 📝 Prompt
-
-```
-Un mashup de super-héros issus de différents studios ; Marvel contre DC. Une compétition de danse sur le rythme de la chanson Beat It de Michael Jackson. Cinématographique. Ultra réaliste. Mouvements de caméra dynamiques et jump cuts synchronisés avec le rythme...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4d32f2f101ad577fc5503ab4699ab0b5/thumbnails/thumbnail.jpg" width="600" alt="Mashup de danse de super-héros">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6057)**
-
-**Author:** [Billy Balls](https://x.com/BillyBalls25138) | **Source:** [Link](https://x.com/BillyBalls25138/status/2066059347398963597) | **Published:** Jun 14, 2026
-
----
-### Scène de gare ferroviaire dans un film d'action des années 90
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt très détaillé recréant une scène de film d'aventure et d'action cinématographique des années 1990 avec des effets pratiques et un cadrage cinématographique.
-
-#### 📝 Prompt
-
-```
-Scène de film d'aventure et d'action vintage des années 1990, format large 16:9, effets pratiques uniquement, tourné sur pellicule anamorphique 35 mm, grain style Kodak, chaleur poussiéreuse du désert, gare ferroviaire baignée de soleil, énergie de caméra portée à l'épaule, chorégraphie de cascades réelle, sans CGI.
-
-Une femme aux cheveux roux flamboyants, vêtue d'une chemise de travail beige, d'un jean bleu ajusté, d'une ceinture en cuir, d'un étui et de bottes, court à côté d'un train de marchandises rouillé alors que des étincelles et de la fumée jaillissent de la paroi du train derrière elle. Elle serre un revolver factice réaliste bas dans sa main droite avec un placement correct des doigts, un alignement propre du poignet et une posture de course crédible. Son bras gauche oscille naturellement pendant qu'elle sprinte, concentrée et pressée, ses cheveux fouettés par le vent chaud.
-
-0:00–0:03
-Commencer exactement à partir de l'image. Plan de suivi moyen-large à côté du train. Elle court vers la gauche de la caméra, essoufflée, regardant par-dessus son épaule alors que des étincelles pleuvent du train. La fumée traverse le cadre. Le revolver reste pointé vers le bas en toute sécurité pendant qu'elle court, sa prise est ferme et anatomiquement correcte.
-
-0:03–0:06
-La caméra portée à l'épaule se rapproche. Elle se baisse alors qu'une explosion pyrotechnique pratique traverse le wagon derrière elle, projetant des étincelles orange et de la fumée noire vers l'extérieur. La poussière se soulève autour de ses bottes. Son visage est déterminé, effrayé mais maîtrisé, comme une héroïne d'action réaliste des années 1990.
-
-0:06–0:10
-Elle se glisse derrière un poteau en acier pour se mettre à couvert, pivote brusquement, lève le revolver à deux mains pour une visée défensive nette. Gardez l'arme réaliste : forme correcte du canon, barillet, pontet, prise à deux mains naturelle, pas de doigts déformés, pas de doigts supplémentaires. Elle ne tire pas encore — elle écoute, les yeux scrutant à travers la fumée qui dérive.
-
-0:10–0:14
-Une seconde explosion éclate plus loin le long du train. Elle tressaille, puis se lance, sprintant à travers les voies vers un espace entre les wagons de marchandises. La caméra suit avec un flou de mouvement intense dû à la caméra portée, des étincelles tombant derrière elle comme une pluie de feu. Terminer sur sa disparition dans la fumée, ses cheveux et sa chemise claquant au vent, le train en feu se profilant derrière elle.
-
-Style / caméra : film de cinéma de la fin des années 1980 / début des années 1990, look Panavision anamorphique 35 mm, objectif 50 mm, faible profondeur de champ, pyrotechnie pratique, fumée réelle, poussière réelle, mise au point imparfaite, grain de pellicule, léger tremblement de cadre, lumière du soleil chaude du désert, rouges rouillés et tons beiges poussiéreux, ton film d'aventure-thriller granuleux mais coloré.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6c050aadfbef6c20c42ff1ca33bab3d9/thumbnails/thumbnail.jpg" width="600" alt="Scène de gare ferroviaire dans un film d'action des années 90">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6055)**
-
-**Author:** [Brent Lynch](https://x.com/BrentLynch) | **Source:** [Link](https://x.com/BrentLynch/status/2066014432543883673) | **Published:** Jun 14, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2202,6 +2200,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-23T04:21:00.264Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-23T11:39:04.321Z</sub>
 
 </div>
