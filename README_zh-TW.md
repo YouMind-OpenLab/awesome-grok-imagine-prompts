@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **1934** |
+| 📝 提示詞總數 | **1952** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-06-24** |
 
@@ -189,6 +189,347 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 鬧鬼畫作的現實之窗
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個充滿想像力的場景，描述了一幅位於古老海岸城堡走廊中、會說話的魔法畫框。
+
+#### 📝 提示詞
+
+```
+想像一下這個畫面，這個存在，居住在一個懸掛於古老城堡走廊、面朝海洋的奇特畫框內。這幅畫是連結不同領域的窗口，她可以與觀看者對話，但卻無法跨越畫面的界線……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069548037827895296/img/qN-AjDO1mFDZ06Ri.jpg" width="600" alt="鬧鬼畫作的現實之窗">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6389)**
+
+**作者:** [Matt Wilson](https://x.com/MattWilson8178) | **來源:** [Link](https://x.com/MattWilson8178/status/2069549629474242638) | **發布時間:** Jun 23, 2026
+
+---
+### 蠟燭曼陀羅鏡面影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個靈性靜物影片提示詞，展示了單一燭光在破碎鏡片中反射，進而形成統一曼陀羅圖案的畫面。
+
+#### 📝 提示詞
+
+```
+單一燭光在許多破碎鏡片中反射，形成一個統一且明亮的曼陀羅，黑暗房間中的靈性靜物。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069538232203960321/img/RQSycTTeDm08tqJc.jpg" width="600" alt="蠟燭曼陀羅鏡面影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6393)**
+
+**作者:** [Christine](https://x.com/ChristineJxpxy) | **來源:** [Link](https://x.com/ChristineJxpxy/status/2069538330791035250) | **發布時間:** Jun 23, 2026
+
+---
+### 穿越火海的傳送門
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段敘事性影片提示詞，描繪了一名角色在穿越火海時，小心翼翼地靠近未知傳送門的情景。
+
+#### 📝 提示詞
+
+```
+他正小心翼翼地靠近一個未知的傳送門，而我再次穿越火海
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069518033781948417/img/0s-mD8zFTi9qPWYU.jpg" width="600" alt="穿越火海的傳送門">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6392)**
+
+**作者:** [John Smith](https://x.com/JohnSmithwnbq) | **來源:** [Link](https://x.com/JohnSmithwnbq/status/2069518262119891160) | **發布時間:** Jun 23, 2026
+
+---
+### 洋紅色有機形態縮放循環
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個精確的攝影機控制提示詞，用於對抽象有機形態進行縮放動畫循環。
+
+#### 📝 提示詞
+
+```
+平滑地透過縮放拉近抽象的洋紅色有機形態以呈現細節，在最近點短暫停留，然後緩慢縮放回原始距離，並在整個過程中流暢地重複此「縮放-停留-縮放」的循環。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069515860486574080/img/tE0nH4l17oKS3yYu.jpg" width="600" alt="洋紅色有機形態縮放循環">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6399)**
+
+**作者:** [Ember Art](https://x.com/Ember8184Art) | **來源:** [Link](https://x.com/Ember8184Art/status/2069515931265413336) | **發布時間:** Jun 23, 2026
+
+---
+### 16 位元像素藝術飛船
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個充滿懷舊感的像素藝術動畫提示詞，描繪一艘在明亮天空中漂浮的奇幻飛船。
+
+#### 📝 提示詞
+
+```
+16 位元像素藝術：一艘奇幻且充滿童趣的飛船，巨大的多色布料充氣飛船，由繩索維持浮力，飛行在湛藍的天空中。前後螺旋槳緩慢旋轉。靜態固定鏡頭將飛船保持在畫面中央，同時雲朵飄過，模擬飛船移動的效果。無音樂。復古像素電子遊戲動畫風格。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069502866516238336/img/zHYSE8iNVY5V9jWG.jpg" width="600" alt="16 位元像素藝術飛船">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6403)**
+
+**作者:** [Gagaror](https://x.com/theRealGagaror) | **來源:** [Link](https://x.com/theRealGagaror/status/2069502927392084113) | **發布時間:** Jun 23, 2026
+
+---
+### 深海生物發光魚電影級影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一份詳細的電影級影片提示詞，適用於自然紀錄片風格的片段，呈現深海中一條充滿威脅感的生物發光魚。
+
+#### 📝 提示詞
+
+```
+生物發光深海魚，擁有幽靈般的半透明皮膚、巨大的發光藍色眼睛，以及從身體延伸出的長條狀纖細絲狀物。場景：漆黑的深海，深色水域中漂浮著細微的海洋雪與有機顆粒。動作：生物緩慢且充滿威脅地向前游動，巨大的下顎逐漸張開，露出整排細長、尖銳如針的牙齒。其絲狀物在水流中輕柔地擺動。風格：電影級、照片級真實感、自然紀錄片、恐怖、微距攝影、高細節、令人不安、詭譎。攝影機運動：緩慢、細微的推鏡，跟隨生物的向前移動，營造出一種迫在眉睫的末日感。構圖：中景特寫，聚焦於生物的頭部與發光的眼睛，淺景深，正面角度。氛圍：極低光、高對比、深邃陰影，體積光源來自生物自身的生物發光，詭異的藍白色光芒，深色與冷色調的配色方案。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069493025986772992/img/8Gk6sxDOUOJuGWjW.jpg" width="600" alt="深海生物發光魚電影級影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6404)**
+
+**作者:** [Vitalii Isaev](https://x.com/restofart) | **來源:** [Link](https://x.com/restofart/status/2069493142080856175) | **發布時間:** Jun 23, 2026
+
+---
+### 影片剪輯與動畫提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個圖像轉影片的修改提示詞，提供詳細的連續步驟，包含閉眼、嘴唇動作、眨眼以及渲染拼圖碎裂的效果。
+
+#### 📝 提示詞
+
+```
+將此轉為影片，讓她的雙眼逐漸閉上，並保持眼皮顏色一致。讓她的嘴唇移動但不微笑，接著左眼眨眼，並讓三塊小拼圖碎裂。移除。編輯並修改她不微笑的嘴唇，僅...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069489335075053568/img/35ftvD5GXpwkcCuT.jpg" width="600" alt="影片剪輯與動畫提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6388)**
+
+**作者:** [caroline freebern](https://x.com/myHeartis1true) | **來源:** [Link](https://x.com/myHeartis1true/status/2069489395145593017) | **發布時間:** Jun 23, 2026
+
+---
+### 工業倉庫打鬥動作場景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段關於南印度倉庫打鬥場景的影片提示詞，採用單一連續手持攝影鏡頭拍攝。
+
+#### 📝 提示詞
+
+```
+僅從參考圖像 @Image1 中提取主體。忽略其他所有內容……快速動作，超寫實的南印度工業倉庫夜間打鬥。單一連續鏡頭，隱藏剪接點，無可見編輯痕跡。原始手持手機拍攝素材。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069445527146786817/img/lN4as31Fb581VU9J.jpg" width="600" alt="工業倉庫打鬥動作場景">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6402)**
+
+**作者:** [YoYo Studios](https://x.com/TeamTwood) | **來源:** [Link](https://x.com/TeamTwood/status/2069445589159563630) | **發布時間:** Jun 23, 2026
+
+---
+### 手持式紀錄片風格工地影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個為粗獷手持紀錄片美學所設計的電影級影片提示詞，呈現 4K 解析度的工地日落場景，並帶有飛舞的塵埃微粒。
+
+#### 📝 提示詞
+
+```
+氛圍：2024 年超逼真當代影片，清晰的 4K 解析度，原始的手持紀錄片質感。在塵土飛揚、未完工的混凝土工地中，呈現高對比度的日落光影。深橘色光線、長而銳利的陰影，以及空氣中飛舞的塵埃微粒。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069445390055931904/img/r4Q4-1AsOnjYiJb4.jpg" width="600" alt="手持式紀錄片風格工地影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6394)**
+
+**作者:** [YoYo Studios](https://x.com/TeamTwood) | **來源:** [Link](https://x.com/TeamTwood/status/2069445457286406297) | **發布時間:** Jun 23, 2026
+
+---
+### 太空電梯迷幻之旅
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段迷幻風格的影片提示詞，描繪了一座太空電梯載著人們與貨物穿越繁星點點的宇宙。
+
+#### 📝 提示詞
+
+```
+太空電梯將人們與貨物送往迷幻體驗，背景充滿繁星
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069426227119546368/img/MpSjI5Viq9KfuEqL.jpg" width="600" alt="太空電梯迷幻之旅">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6397)**
+
+**作者:** [KENDREIK Artist](https://x.com/kendreik) | **來源:** [Link](https://x.com/kendreik/status/2069426293360194028) | **發布時間:** Jun 23, 2026
+
+---
+### 復古餐廳麥片飛舞場景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個高度細緻的電影感提示詞，描繪了一位年輕女孩在復古廚房中，伴隨著慢動作牛奶飛濺與漂浮麥片的場景。
+
+#### 📝 提示詞
+
+```
+一個位於舒適復古餐廳風格廚房內的電影感廣角鏡頭。一位年輕女孩俯身在裝滿彩色麥片的碗前，牛奶以戲劇性的慢動作向上噴濺。色彩鮮豔的麥片圈在她臉龐周圍漂浮。她睜大雙眼，張著嘴，露出驚喜與愉悅的表情，直視鏡頭。溫暖的晨光透過百葉窗灑入。整個場景充滿俏皮、魔幻與活力，帶有魚眼鏡頭變形、逼真的光影、高細節、動態感以及有趣的電影氛圍。時長：10 秒。
+
+對話：哇……我的早餐真的在飛嗎？
+
+聲音設計：
+
+突如其來的牛奶飛濺聲。
+輕微的麥片散落聲。
+柔和的魔幻閃爍音效。
+女孩驚訝的抽氣聲。
+趣味俏皮的背景音樂。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069395437908643841/img/g-URoeS90azUiBUG.jpg" width="600" alt="復古餐廳麥片飛舞場景">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6398)**
+
+**作者:** [BMX](https://x.com/bmx_ai13) | **來源:** [Link](https://x.com/bmx_ai13/status/2069395522088030511) | **發布時間:** Jun 23, 2026
+
+---
+### 建築施工順序影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個用於固定機位建築序列的技術性影片提示詞，展示懸臂延伸與龍門架移動。
+
+#### 📝 提示詞
+
+```
+電影級建築施工影片，保持完全相同的固定機位，懸臂延伸與部分外牆覆層與參考圖像完全一致，第 0 至 4 秒期間，移動式龍門架沿著桁架頂部緩慢向...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069392701674704896/img/7BgJh-k7kuAJ2C2V.jpg" width="600" alt="建築施工順序影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6396)**
+
+**作者:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **來源:** [Link](https://x.com/gpimpmyspace/status/2069392763775488017) | **發布時間:** Jun 23, 2026
+
+---
+### 迷幻紫色圓盤世界影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個充滿活力的影片提示詞，用於創作以紫色為主題的奇幻圓盤世界，包含空中列車與圓盤城市。
+
+#### 📝 提示詞
+
+```
+創作一個迷幻且充滿紫色調的圓盤世界，場景包含圓盤城市、空中列車以及地球海洋
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069376283121795072/img/KualyFsLSLjo51T-.jpg" width="600" alt="迷幻紫色圓盤世界影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6395)**
+
+**作者:** [KENDREIK Artist](https://x.com/kendreik) | **來源:** [Link](https://x.com/kendreik/status/2069376338037727657) | **發布時間:** Jun 23, 2026
+
+---
+### 浮空島縮時攝影概念
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個慢動作風景提示詞，展示了厚重金色雲海之上，巨大的板塊浮空島嶼。
+
+#### 📝 提示詞
+
+```
+在頂部提到下午好。場景由巨大的鋸齒狀岩石尖塔和懸浮在厚重、翻騰的金色雲海之上的板塊浮空島嶼所主導。環境保持完全不變。動作緩慢且 p...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069337036562354176/img/R1OooegZbE1YaGsF.jpg" width="600" alt="浮空島縮時攝影概念">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6390)**
+
+**作者:** [Ijaz Malik](https://x.com/Ijazmalik101) | **來源:** [Link](https://x.com/Ijazmalik101/status/2069337097371316452) | **發布時間:** Jun 23, 2026
+
+---
+### 電影感鋼琴室廣告
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一份為高端廣告設計的詳細提示詞，場景為一位女性在柔和燈光的房間內彈奏平台鋼琴。
+
+#### 📝 提示詞
+
+```
+為「Still I Made a Rose」製作的 30 秒親密電影感廣告：一位身穿黑色禮服的年輕女性在精緻、柔和燈光的房間內彈奏平台鋼琴，貝多芬作為靜默的見證者。加入一位身穿黑衣的優雅小提琴手作為微妙的次要角色。鋼琴承載著
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069277854005878784/img/dVOs1LSsOy-Xjil9.jpg" width="600" alt="電影感鋼琴室廣告">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6400)**
+
+**作者:** [@TheCFormula credo.](https://x.com/TheCFormula) | **來源:** [Link](https://x.com/TheCFormula/status/2069278020574035982) | **發布時間:** Jun 23, 2026
+
+---
+### 靜態藝廊重建縮時攝影
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 針對建築修復縮時攝影流程，採用靜態三腳架設置的精密佈局配置。
+
+#### 📝 提示詞
+
+```
+場景鎖定：從 1.7 公尺高的藝廊固定位置進行靜態三腳架縮時攝影，使用 28mm 超廣角鏡頭，保持固定構圖與幾何視角。
+
+階段：完整的修復與重建過程。
+
+細節：鑄鐵除鏽與重新粉刷、高側窗玻璃...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069259967153254400/img/p6dDCfnmxd0P7u6v.jpg" width="600" alt="靜態藝廊重建縮時攝影">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6391)**
+
+**作者:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **來源:** [Link](https://x.com/gpimpmyspace/status/2069260049906807111) | **發布時間:** Jun 23, 2026
+
+---
+### 洞穴施工場景鎖定
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用於固定洞穴視角內施工縮時攝影轉場的技術提示詞。
+
+#### 📝 提示詞
+
+```
+場景鎖定 (SCENE LOCK)：靜態三腳架、完全相同的洞穴視角、連續取景、無剪輯、真實的施工順序與動態模糊。
+
+階段 (STAGE)：從施工進行中轉場至建築外殼完工。
+
+細節 (DETAILS)：工人安裝鋼樑，
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069212754955866112/img/2wVVbOe7MzcUbKTU.jpg" width="600" alt="洞穴施工場景鎖定">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6401)**
+
+**作者:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **來源:** [Link](https://x.com/gpimpmyspace/status/2069212840007983162) | **發布時間:** Jun 23, 2026
+
+---
 ### 年長巫師油畫
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -831,6 +1172,25 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6294)**
 
 **作者:** [KAYODE EMMANUEL](https://x.com/KAYODEEMMAqbze) | **來源:** [Link](https://x.com/KAYODEEMMAqbze/status/2068264432052969771) | **發布時間:** Jun 20, 2026
+
+---
+### 沙漠中流汗的男子問候
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個用於 Grok Imagine 的影片提示詞，畫面呈現一名男子走在炎熱的沙漠中，並疊加「Good afternoon」文字。
+
+#### 📝 提示詞
+
+```
+一張呈現一名男子在沙漠中行走並流汗的圖片，並在上方標註「Good afternoon」。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068248012653289472/img/ob_SbC5c_T2jRlpc.jpg" width="600" alt="沙漠中流汗的男子問候">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6405)**
+
+**作者:** [Ijaz Malik](https://x.com/Ijazmalik101) | **來源:** [Link](https://x.com/Ijazmalik101/status/2068248035004739741) | **發布時間:** Jun 20, 2026
 
 ---
 ### 巨型機器人戰場影片
@@ -1783,368 +2143,6 @@ Elon Musk 呈現嘻哈黑幫造型，戴著金牙套、酷炫墨鏡與黑幫服�
 **作者:** [AYi](https://x.com/AYi_AInotes) | **來源:** [Link](https://x.com/AYi_AInotes/status/2067227900399562775) | **發布時間:** Jun 17, 2026
 
 ---
-### 嘲諷笑容影片提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個 Grok Imagine 影片提示詞，描繪了一個人在微笑的同時做出俏皮的嘲諷手勢，捕捉到孩童般的表情。
-
-#### 📝 提示詞
-
-```
-她一句話也沒說，就像孩子嘲笑他人一樣做出「啦啦啦」的手勢，同時保持著微笑。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cd31fb0c4bf1e5446b1beecf277c60cf/thumbnails/thumbnail.jpg" width="600" alt="嘲諷笑容影片提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6174)**
-
-**作者:** [Vincent](https://x.com/Source3467) | **來源:** [Link](https://x.com/Source3467/status/2067176050639897060) | **發布時間:** Jun 17, 2026
-
----
-### 復古合成器波風格賽博少女肖像
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個詳細的合成器波（synthwave）風格提示詞，用於生成一張具有霓虹光影、80 年代蒸汽波美學以及 VHS 故障效果的電影級賽博少女肖像。
-
-#### 📝 提示詞
-
-```
-retro synthwave portrait of beautiful cyber-girl with short white-silver bob haircut blunt bangs and long face-framing strands, pale skin, glowing purple-cyan-magenta neon eyeliner and under-eye glow, wet glossy lips, black turtleneck with glowing magenta circuit lines, palm trees and grid city silhouette in hot pink-purple sunset sky behind her, strong VHS glitch distortion, scanlines, chromatic aberration, retro 80s vaporwave aesthetic, dramatic rim lighting, ultra detailed, synthwave colors, 8k
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067155477595893761/img/e8ORYOPfSFufKXmB.jpg" width="600" alt="復古合成器波風格賽博少女肖像">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6252)**
-
-**作者:** [paranoidream ♡︎](https://x.com/paranoidream) | **來源:** [Link](https://x.com/paranoidream/status/2067155562845044828) | **發布時間:** Jun 17, 2026
-
----
-### 黑暗樓梯上的動漫女子
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個電影感的動漫影片提示詞，描繪了一位女子在黑暗樓梯上回眸，表情神秘，並帶有精緻的髮飾。
-
-#### 📝 提示詞
-
-```
-超細緻的動漫插畫，描繪一位女子在黑暗樓梯上的背影。她回頭望向肩膀後方，瀏海下隱約可見她的側臉邊緣與一隻琥珀色的眼睛。她留著一頭凌亂的黑色短髮，幾縷長髮垂至腰間，耳邊別著一個金色小髮夾和一個絲帶髮飾。她的側臉表情寧靜而神秘，雙唇輕柔地映照著微光。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067152134869753856/img/jx23bVpKvcEJOl6P.jpg" width="600" alt="黑暗樓梯上的動漫女子">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6251)**
-
-**作者:** [tetsuo](https://x.com/tetsuoai) | **來源:** [Link](https://x.com/tetsuoai/status/2067152198371574076) | **發布時間:** Jun 17, 2026
-
----
-### 夢幻般的柔和動態與迴盪水聲
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個詩意的提示詞，用於生成一段結合柔和夢幻動態與迴盪水聲環境音的影片。
-
-#### 📝 提示詞
-
-```
-她移動得非常輕柔，彷彿置身夢境。背景中只有水聲在迴盪。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fa1c1c30d142e110b9cdaf61e052f143/thumbnails/thumbnail.jpg" width="600" alt="夢幻般的柔和動態與迴盪水聲">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6139)**
-
-**作者:** [princesUnicorn](https://x.com/princesunico01) | **來源:** [Link](https://x.com/princesunico01/status/2066910279913660890) | **發布時間:** Jun 16, 2026
-
----
-### 市場修復工程：起重機上升縮時攝影
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個為 Grok Imagine 設計的複雜修復縮時攝影提示詞，採用緩慢的起重機上升運鏡。
-
-#### 📝 提示詞
-
-```
-修復縮時攝影，第 3/4 段 — Gikomba Market，施工過程。
-從影像 03 開始。
-
-保持相同的俯視位置。緩慢的起重機上升（CRANE UP）—— 在 10 秒內上升 2 公尺。這種上升的鏡頭與市場重建的過程相呼應……
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a444f1754786449aadca30a558bccf74/thumbnails/thumbnail.jpg" width="600" alt="市場修復工程：起重機上升縮時攝影">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6134)**
-
-**作者:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **來源:** [Link](https://x.com/gpimpmyspace/status/2066861153423388926) | **發布時間:** Jun 16, 2026
-
----
-### 夢幻少女與粉紅玫瑰
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個精緻的提示詞，用於生成一段夢幻般的影片：一位戴著花冠的少女，被柔和的粉紅玫瑰所環繞。
-
-#### 📝 提示詞
-
-```
-一位夢幻般的少女戴著花冠，被盛開的粉嫩玫瑰溫柔環繞……
-細膩花瓣的低語，盡顯柔美優雅。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/856583392d81b71407a21f13e6bdb351/thumbnails/thumbnail.jpg" width="600" alt="夢幻少女與粉紅玫瑰">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6140)**
-
-**作者:** [Stella 𝕏](https://x.com/StellaGrokStar) | **來源:** [Link](https://x.com/StellaGrokStar/status/2066855955032334498) | **發布時間:** Jun 16, 2026
-
----
-### 綠色月球超級城市與巨型機器人
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個詳細的科幻影片提示詞，將月球超級城市轉變為綠色科技中心，並加入一座 1 公里高的巨型人形機器人。
-
-#### 📝 提示詞
-
-```
-將整座特斯拉 Cybertruck 形狀的月球超級城市轉變為充滿活力的全綠色調，並注入先進的未來感：所有建築、金屬表面、燈光、能量護盾和全息元素均採用主導的發光翡翠綠、霓虹青色和萊姆綠點綴，營造出高科技生態先進的氛圍。透過更精細的量子技術、脈動的綠色能量流、茂密的垂直農場和動態活動來增強細節。\n\n在超級城市旁邊（月球或類火星的沙質地形上），加入一座 1 公里高且寬的巨型人形機器人，呈現真實的火星沙色/紅橙色，並帶有金屬質感，以 3D 史詩視角顯眼地站立。在機器人的胸口和頭部，以未來感字體顯示醒目的發光文字「QWEET Robot」。在機器人頭頂上方，展示旋轉的銀河星系、星雲和動態環繞的宇宙粒子。背景保留天空中的地球、戲劇性的光影、太空人、探測車，以及整體超寫實、極致細膩的電影級科幻風格。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c74ff71c9a65b60a6b4228b544b14d9d/thumbnails/thumbnail.jpg" width="600" alt="綠色月球超級城市與巨型機器人">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6137)**
-
-**作者:** [Fan Dear Grok](https://x.com/IrfanKhan496226) | **來源:** [Link](https://x.com/IrfanKhan496226/status/2066824513342353566) | **發布時間:** Jun 16, 2026
-
----
-### 煙霧繚繞的空靈側臉動畫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個複雜的影片提示詞，呈現出一張空靈的煙霧側臉，從口中呼出公牛與音符，背景為純白色。
-
-#### 📝 提示詞
-
-```
-左側空靈的煙霧側臉呼出一頭公牛，追逐著一隻由煙霧構成的精緻蝴蝶，隨後是繚繞的音符。所有元素從口中連續呼出，並在白色背景上平滑飄動，直至
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bded2b96c31a8159e969479170d825b0/thumbnails/thumbnail.jpg" width="600" alt="煙霧繚繞的空靈側臉動畫">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6130)**
-
-**作者:** [Matt Wilson](https://x.com/MattWilson8178) | **來源:** [Link](https://x.com/MattWilson8178/status/2066817439594144226) | **發布時間:** Jun 16, 2026
-
----
-### 女性睜眼微笑影片提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一份為 Grok Imagine 設計的電影感影片提示詞，描述一位女性醒來並以神秘嗓音說話的場景。
-
-#### 📝 提示詞
-
-```
-她睜開雙眼，露出微笑，並以輕柔而神秘的嗓音說道：「早安，『X』。願你的好奇心，指引你度過這一天。」
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5145a22ccc03736d87aba7a70fb74197/thumbnails/thumbnail.jpg" width="600" alt="女性睜眼微笑影片提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6132)**
-
-**作者:** [Matt Wilson](https://x.com/MattWilson8178) | **來源:** [Link](https://x.com/MattWilson8178/status/2066809062658859150) | **發布時間:** Jun 16, 2026
-
----
-### LeBron James 奶瓶動畫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個幽默且具體的提示詞，描繪了 LeBron James 在諷刺的嬰兒情境中。
-
-#### 📝 提示詞
-
-```
-讓他們輪流給 LeBron James 餵奶瓶，LeBron James 他就是個愛睡覺、愛假摔的小嬰兒
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ad92bc67b08bb7451f1db6421ad3049f/thumbnails/thumbnail.jpg" width="600" alt="LeBron James 奶瓶動畫">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6131)**
-
-**作者:** [Donald J Trump](https://x.com/DonaldWalmart) | **來源:** [Link](https://x.com/DonaldWalmart/status/2066737332427079733) | **發布時間:** Jun 16, 2026
-
----
-### 使用 Scene Lock 進行建築縮時攝影
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個使用 Scene Lock 的技術性縮時攝影提示詞，用於視覺化船屋的逐步建造過程。
-
-#### 📝 提示詞
-
-```
-SCENE LOCK：固定腳架，保持相同的構圖與地標，無剪輯。
-
-階段：從施工中到船屋完工的縮時攝影。
-
-細節：屋頂安裝、外牆板固定、碼頭維修、燈籠安裝、粉刷、密封、清理。工人...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/921c1794d9b56a29514fb08e563a8eed/thumbnails/thumbnail.jpg" width="600" alt="使用 Scene Lock 進行建築縮時攝影">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6135)**
-
-**作者:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **來源:** [Link](https://x.com/gpimpmyspace/status/2066722621954392356) | **發布時間:** Jun 16, 2026
-
----
-### 軌道無人機體育場鏡頭
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個專業的無人機攝影提示詞，用於展示從恆定高度和角度拍攝的浮動體育場。
-
-#### 📝 提示詞
-
-```
-場景鎖定：無人機在繞行體育場時保持 400 公尺的恆定高度和 45 度視角，呈現穩定的電影級運鏡。
-
-階段：作為工程地標的浮動體育場最終展示。
-
-細節：流暢的軌道運動，環繞...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7769c11b3ddb743c2010890d56597cf2/thumbnails/thumbnail.jpg" width="600" alt="軌道無人機體育場鏡頭">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6133)**
-
-**作者:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **來源:** [Link](https://x.com/gpimpmyspace/status/2066716896763011156) | **發布時間:** Jun 16, 2026
-
----
-### 武士蜜獾對決斯巴達海龜
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個電影級的影片提示詞，描繪了一隻武士蜜獾以動態戰鬥姿勢與斯巴達戰士海龜進行激烈對戰的場景。
-
-#### 📝 提示詞
-
-```
-一隻兇猛的武士蜜獾以動態戰鬥姿勢對抗一隻斯巴達戰士海龜，原創角色設計，外型不與《忍者龜》相似，場景為武器碰撞的激烈戰鬥。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/245adcf86e60ac8fc20991db437e35e3/thumbnails/thumbnail.jpg" width="600" alt="武士蜜獾對決斯巴達海龜">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6136)**
-
-**作者:** [Bitcoin Collector.](https://x.com/FrankieBitcoin) | **來源:** [Link](https://x.com/FrankieBitcoin/status/2066681728433807773) | **發布時間:** Jun 16, 2026
-
----
-### 藝術畫廊策展人動作與對話
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個精緻的影片提示詞，指定了調整眼鏡和手勢等角色動作，並包含電影級場景的口語對話。
-
-#### 📝 提示詞
-
-```
-動作：他調整了一下眼鏡，放下平板電腦以集中注意力於觀眾，並做出邀請的手勢指向畫廊。
-
-對話：「分析美是一種藝術，但創造美才是我們的熱情所在。看看表象之外的事物。這就是 DHC。」
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2066664682161655808/img/K5Wmw35cSxStWmyK.jpg" width="600" alt="藝術畫廊策展人動作與對話">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6101)**
-
-**作者:** [HughStiel/DogeHeadCoin $DHC](https://x.com/hugh_stiel) | **來源:** [Link](https://x.com/hugh_stiel/status/2066664734288490587) | **發布時間:** Jun 15, 2026
-
----
-### 雲端霓虹鐵道旅人
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段視覺影片提示詞：一位旅人走在黃昏時分橫跨發光雲海的霓虹鐵道上。
-
-#### 📝 提示詞
-
-```
-一位孤獨的旅人走在霓虹閃爍的鐵道上，鐵道延伸至黃昏時分無盡的發光雲海。旅程本身即是目的地。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4c1b5eade1100fe70306ad521da520d5/thumbnails/thumbnail.jpg" width="600" alt="雲端霓虹鐵道旅人">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6095)**
-
-**作者:** [Missy AI](https://x.com/ai_empire33) | **來源:** [Link](https://x.com/ai_empire33/status/2066576832741482906) | **發布時間:** Jun 15, 2026
-
----
-### 動態武術格鬥序列
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一套用於生成高能量、特技武術序列的綜合提示詞，包含電影級運鏡與流暢動作。
-
-#### 📝 提示詞
-
-```
-* 無轉場。無剪輯。
-
-動態、高能量的特技格鬥序列。流暢、有力且具備電影感的動作，擁有極佳的動態清晰度。角色執行快節奏的武術連招，包括迴旋踢、飛膝、空中翻轉、跑牆、跳躍、翻滾以及強力的擊倒動作。流暢、具備運動感且符合物理規律，每一次打擊都帶有強烈的動能與重量感。動態運鏡——追蹤鏡頭、環繞鏡頭、戲劇性角度，並在衝擊瞬間適時加入慢動作。高強度、優雅且強而有力的編排，極佳的流暢度與速度感。電影級光影、銳利的動作細節、無僵硬感，極具動態且令人興奮的格鬥場景，大師級品質，6 秒影片……，極具動態且令人興奮的格鬥場景，流暢的動作，大師級品質，6 秒影片。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/29c7a52c5bc841b0dc15d88cd38ebe8f/thumbnails/thumbnail.jpg" width="600" alt="動態武術格鬥序列">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6097)**
-
-**作者:** [Lala](https://x.com/keepgoingAnnie) | **來源:** [Link](https://x.com/keepgoingAnnie/status/2066551416986968369) | **發布時間:** Jun 15, 2026
-
----
-### 玫瑰花叢中的芭蕾舞者影片提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一組用於生成芭蕾舞者在粉色玫瑰花叢中優雅起舞的影片提示詞，展現出夢幻般的優雅氣質與柔和的動作。
-
-#### 📝 提示詞
-
-```
-一位優雅的芭蕾舞者在盛開的粉色玫瑰花叢中輕盈起舞……花瓣的溫柔低語與夢幻般的優雅氛圍。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/da6120ba1a0ba331d85e9ddf0963d9f0/thumbnails/thumbnail.jpg" width="600" alt="玫瑰花叢中的芭蕾舞者影片提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6138)**
-
-**作者:** [Stella 𝕏](https://x.com/StellaGrokStar) | **來源:** [Link](https://x.com/StellaGrokStar/status/2066465717114093967) | **發布時間:** Jun 15, 2026
-
----
-### Ghost River 電影級推鏡
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個技術性影片提示詞，指定了包含幽靈河與磨坊的電影場景中的攝影機運動與場景佈置。
-
-#### 📝 提示詞
-
-```
-影片 4
-
-場景鎖定：靜態主角構圖，對磨坊進行極其細微的電影級推鏡，同時保持透視與幾何結構。
-
-舞台：幽靈河的完整呈現，隨後記憶緩慢消退，重回黑暗。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2066390926893924352/img/FQdNby4qREvxk-5J.jpg" width="600" alt="Ghost River 電影級推鏡">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6096)**
-
-**作者:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **來源:** [Link](https://x.com/gpimpmyspace/status/2066391012470309276) | **發布時間:** Jun 15, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2206,6 +2204,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-06-24T04:23:34.488Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-06-24T11:15:03.174Z</sub>
 
 </div>
