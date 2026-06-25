@@ -68,9 +68,9 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **1952** |
+| 📝 총 프롬프트 수 | **1956** |
 | ⭐ 추천 프롬프트 | **3** |
-| 🔄 마지막 업데이트 | **2026-06-24** |
+| 🔄 마지막 업데이트 | **2026-06-25** |
 
 ---
 
@@ -189,6 +189,85 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 소노란 사막의 양자 발명가
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 소노란 사막의 밤하늘 아래에서 양자 장치를 테스트하는 발명가의 영상을 생성하기 위한 상세 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+퀸 크릭 인근의 따뜻한 소노란 사막의 밤, 미래를 건설하려는 기사 같은 열정을 지닌 뛰어난 발명가가 별이 가득한 하늘 아래에서 새로운 양자 통신 장치를 테스트하고 있습니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069909509695533056/img/lWsxKTO6INUZB8Rz.jpg" width="600" alt="소노란 사막의 양자 발명가">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6436)**
+
+**작성자:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **출처:** [Link](https://x.com/AnnetteHollerWe/status/2069909624585928886) | **게시일:** Jun 24, 2026
+
+---
+### 메카 런웨이 탭댄스 비디오 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 비 내리는 런웨이에서 탭댄스를 추는 메카들의 모습을 담은 독특한 SF 프롬프트로, 기계적인 액션과 유쾌함을 결합했습니다.
+
+#### 📝 프롬프트
+
+```
+비 내리는 런웨이의 탭댄스. 세 대의 메카, 한 명의 대담한 파일럿, 그리고 위에서 쏟아지는 예상치 못한 물보라
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069796787972706304/img/fDS2_ogoihwdgA_v.jpg" width="600" alt="메카 런웨이 탭댄스 비디오 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6435)**
+
+**작성자:** [AI영상공작실](https://x.com/lee_young71) | **출처:** [Link](https://x.com/lee_young71/status/2069796857874923823) | **게시일:** Jun 24, 2026
+
+---
+### 헤르마누스에서 촬영한 초현실적인 고래 클로즈업
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 남아프리카 공화국의 자연 서식지에 있는 고래의 사실적인 클로즈업 영상을 생성하기 위한 고도로 상세한 시네마틱 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+남아프리카 공화국 웨스턴케이프주 헤르마누스에서 촬영한 고래의 초현실적인 클로즈업 장면.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069628026879348736/img/C6vuzUEB3K9HNoiB.jpg" width="600" alt="헤르마누스에서 촬영한 초현실적인 고래 클로즈업">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6434)**
+
+**작성자:** [Mario Nawfal](https://x.com/MarioNawfal) | **출처:** [Link](https://x.com/MarioNawfal/status/2069654250263917021) | **게시일:** Jun 24, 2026
+
+---
+### Grok-imagine 1.5 디지털 휴먼 영상 스크립트
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 카메라를 보고 말하는 호스트, 애니메이션 불꽃 배경, 그리고 관계를 주제로 한 독백이 포함된 디지털 휴먼 영상 생성용 상세 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+전경: 호스트가 카메라를 응시하며 도입부로 시작합니다.
+배경 애니메이션: "첫 동거"라는 단어에서 불덩이가 타오르기 시작하며 서서히 작아집니다.
+호스트 대사 (66자):
+"왜 많은 사람들이 함께 살기 시작하면 열정을 잃는 걸까요? 그가 갑자기 차가워진 것이 아니라, 첫 동거가 친밀한 관계에 대한 상상력과 주도성, 그리고 열정의 절반 이상을 태워버리기 때문입니다."
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069642383088562176/img/eo2NBUhWqy0L72th.jpg" width="600" alt="Grok-imagine 1.5 디지털 휴먼 영상 스크립트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6437)**
+
+**작성자:** [John](https://x.com/john87445528) | **출처:** [Link](https://x.com/john87445528/status/2069642495282057518) | **게시일:** Jun 24, 2026
+
+---
 ### 유령이 깃든 그림, 현실의 창
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2055,94 +2134,6 @@ Stranger in a Strange Land의 시작 부분: 첫 화성 탐사대, 그리고 Val
 **작성자:** [⭕Kisalay](https://x.com/Kisalay_) | **출처:** [Link](https://x.com/Kisalay_/status/2067323749532316148) | **게시일:** Jun 17, 2026
 
 ---
-### 연기 자욱한 바 입장 장면
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 시작 및 종료 프레임 참조를 사용하여 캐릭터가 연기 가득한 바에 들어가는 모습을 보여주는 영화 같은 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-@image1 이미지로 시작하여 @image2 이미지로 종료, 남자들이 열린 문을 통해 연기 자욱한 바 안으로 걸어 들어가는 영화 같은 순간. 음악 없음. 대사 없음.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/250a2e8d261b1b2527f8abda3bea4351/thumbnails/thumbnail.jpg" width="600" alt="연기 자욱한 바 입장 장면">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6170)**
-
-**작성자:** [Jennifer 🇺🇸 🦅](https://x.com/Jenny_MommaLion) | **출처:** [Link](https://x.com/Jenny_MommaLion/status/2067298333295862106) | **게시일:** Jun 17, 2026
-
----
-### 영화 같은 무술 격투 시퀀스
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 복잡한 동작, 역동적인 카메라 앵글, 사실적인 물리 효과를 갖춘 무술가의 6초 분량 영상을 위한 종합 액션 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-걸작 수준의 퀄리티, 거친 지형을 가로지르며 잔혹하고 강렬한 격투를 벌이는 숙련된 파이터의 6초 영상. 캐릭터는 회전 발차기, 플라잉 니킥, 공중제비, 벽 타기, 강력한 테이크다운 등 빠르고 파워풀한 무술 콤보를 선보입니다. 묵직한 타격감과 운동량이 느껴지는 사실적인 물리 효과. 트래킹 샷, 회전 카메라, 드라마틱한 로우 앵글 등 역동적인 카메라 워킹. 영화 같은 조명, 선명한 동작, 강렬하고 생생한 액션, 컷 편집 없음, 부드럽고 강력한 안무, 최고 품질, 6초 영상.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f7f265442f781b2993abd2a68b8b9041/thumbnails/thumbnail.jpg" width="600" alt="영화 같은 무술 격투 시퀀스">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6169)**
-
-**작성자:** [⭕Kisalay](https://x.com/Kisalay_) | **출처:** [Link](https://x.com/Kisalay_/status/2067298200520896673) | **게시일:** Jun 17, 2026
-
----
-### 일본어 신나는 발표 립싱크
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 자연스러운 흥분, 손동작, 머리카락 움직임이 포함된 사실적인 일본어 립싱크 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-자연스럽고 신나는 일본어, 또렷한 음성, 완벽한 립싱크. 가벼운 손동작과 찰랑거리는 머리카락. "여러분! xAI 에서 Grok Imagine Video 1.5 를 출시했습니다! 이미지 투 비디오 생성 기술이 크게 진화했습니다. 음성과 립싱크가 완벽하게 동기화되며, 물리 연산이 더욱 사실적으로 개선되었습니다. 생성 속도는 2 배 더 빨라졌고, 약 25 초 만에 제작이 가능합니다."
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067236538212331520/img/TpprEy-FXWKCbcIA.jpg" width="600" alt="일본어 신나는 발표 립싱크">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6173)**
-
-**작성자:** [右よし左よし秋よし@AIエンタメ](https://x.com/akiyoshisan) | **출처:** [Link](https://x.com/akiyoshisan/status/2067236929989423431) | **게시일:** Jun 17, 2026
-
----
-### 왕좌의 게임 드래곤 비행 시네마틱 영상
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 왕좌의 게임에서 영감을 받아 사실적인 물리 효과와 조명을 갖춘, 에픽 드래곤 비행 시퀀스로 참조 이미지를 애니메이션화하기 위한 고도로 상세한 시네마틱 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-이 참조 이미지를 HBO 왕좌의 게임 및 하우스 오브 드래곤의 에픽 드래곤 시퀀스와 동일한 시각적 스타일로 10~12초 분량의 숨 막히는 시네마틱 영상으로 충실하게 애니메이션화하세요. 대너리스의 외형, 드로곤의 해부학적 구조, 비늘, 날개 구조, 초기 조명 등 참조 이미지와의 완벽한 일관성을 유지하세요.
-
-드로곤이 킹스 랜딩의 지붕 위를 낮게 고속으로 비행하며 강력하고 사실적인 날갯짓과 몸의 움직임을 보여줍니다. 입에서는 거대한 불길이 뿜어져 나오며, 불꽃은 바람과 움직임에 역동적으로 반응하고 사실적인 유체 물리 효과를 나타냅니다. 타오르는 불씨가 뒤로 날리고, 강렬한 열기 왜곡과 빛 번짐(light bloom) 효과가 나타납니다. 불길은 아래에서 고대 석조 건물과 레드 킵을 극적으로 비추며 따뜻한 하이라이트와 깊은 그림자를 만들어냅니다.
-
-대너리스는 위엄 있는 자세로 몸을 앞으로 숙이고 있으며, 그녀의 은색 머리카락과 두꺼운 망토는 고속의 바람에 격렬하게 휘날리며 사실적인 직물 역학 및 관성을 보여줍니다. 공기 중에는 미세한 불꽃과 재 입자가 떠다닙니다.
-
-카메라: 드로곤의 뒤쪽 약간 측면에서 드로곤과 함께 고속으로 이동하며 따라가는 역동적인 로우 앵글 시네마틱 트래킹 샷입니다. 카메라는 드로곤의 움직임에 따라 미묘하게 상승하고 기울어지며, 속도감과 규모감, 몰입감을 극대화합니다. 핸드헬드 느낌이 살짝 가미된, 통제된 시네마틱 정밀함과 함께 유려하게 훑는 카메라 워킹을 구현하세요.
-
-물리 효과: 바람을 받아 유연하게 움직이는 드래곤 날개 막, 자연스럽게 움직이는 개별 날개 손가락, 실제 무게감과 난기류가 느껴지는 두꺼운 망토와 머리카락, 공기 흐름과 상호작용하는 실제 유체 역학적 불꽃을 표현하세요.
-
-조명 및 분위기: 드래곤의 불길이 주요 광원이 되어 아래에서 도시 건축물을 극적으로 비춥니다. 볼륨감 있는 연기, 불씨, 아지랑이를 표현하세요. 도시 위로 옅은 안개가 깔린 에픽한 분위기의 깊이감을 연출하세요.
-
-네이티브 동기화 오디오: 강렬한 불길이 뿜어져 나오는 소리와 섞인 깊고 강력한 드래곤의 포효, 거센 바람 소리, 자연스러운 잔향이 섞인 먼 도시의 소음을 포함하세요. 사실적인 렌더링, 일관된 움직임, 복잡한 디테일, 아티팩트 없는 ARRI Alexa 수준의 충실도로 촬영된 영상입니다. 걸작 수준의 에픽한 규모, 속도감, 시네마틱한 임팩트를 구현하세요.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f64e6d9a9c5cdd32cb8c73cac1e521fc/thumbnails/thumbnail.jpg" width="600" alt="왕좌의 게임 드래곤 비행 시네마틱 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6172)**
-
-**작성자:** [AYi](https://x.com/AYi_AInotes) | **출처:** [Link](https://x.com/AYi_AInotes/status/2067227900399562775) | **게시일:** Jun 17, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2204,6 +2195,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-24T21:44:11.446Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-25T11:04:34.298Z</sub>
 
 </div>

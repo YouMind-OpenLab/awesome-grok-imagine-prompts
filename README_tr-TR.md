@@ -68,9 +68,9 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1952** |
+| 📝 Total Prompts | **1956** |
 | ⭐ Featured Prompts | **3** |
-| 🔄 Last Updated | **2026-06-24** |
+| 🔄 Last Updated | **2026-06-25** |
 
 ---
 
@@ -189,6 +189,85 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Sonoran Çölü'nde Kuantum Mucidi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir mucidin çöl gece gökyüzü altında kuantum cihazını test ettiği bir videoyu oluşturmaya yönelik detaylı bir istem.
+
+#### 📝 Prompt
+
+```
+Queen Creek yakınlarındaki ılık Sonoran Çölü gecesinde, parlak ve vizyoner bir mucit (geleceği inşa etme konusunda şövalye ruhlu bir azimle), yıldızlarla dolu gökyüzü altında yeni bir kuantum iletişim cihazını test ediyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069909509695533056/img/lWsxKTO6INUZB8Rz.jpg" width="600" alt="Sonoran Çölü'nde Kuantum Mucidi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6436)**
+
+**Author:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **Source:** [Link](https://x.com/AnnetteHollerWe/status/2069909624585928886) | **Published:** Jun 24, 2026
+
+---
+### Mecha Runway Tap Dance Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mekanik aksiyonu eğlenceli bir dokunuşla birleştiren, yağmurlu bir pistte step dansı yapan robotların yer aldığı benzersiz bir bilim kurgu istemi.
+
+#### 📝 Prompt
+
+```
+Yağmurlu Pistte Step Dansı. Üç robot, bir korkusuz pilot ve yukarıdan gelen beklenmedik bir su sıçraması
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069796787972706304/img/fDS2_ogoihwdgA_v.jpg" width="600" alt="Mecha Runway Tap Dance Video İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6435)**
+
+**Author:** [AI영상공작실](https://x.com/lee_young71) | **Source:** [Link](https://x.com/lee_young71/status/2069796857874923823) | **Published:** Jun 24, 2026
+
+---
+### Hermanus'ta Ultra Gerçekçi Balina Yakın Çekimi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Güney Afrika'daki doğal yaşam alanında bir balinanın gerçekçi yakın çekim videosunu oluşturmak için oldukça detaylı sinematik bir komut.
+
+#### 📝 Prompt
+
+```
+Hermanus, Western Cape, Güney Afrika'da bir balinanın ultra gerçekçi yakın çekim sahnesi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069628026879348736/img/C6vuzUEB3K9HNoiB.jpg" width="600" alt="Hermanus'ta Ultra Gerçekçi Balina Yakın Çekimi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6434)**
+
+**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2069654250263917021) | **Published:** Jun 24, 2026
+
+---
+### Grok-imagine 1.5 Dijital İnsan Video Senaryosu
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Kameraya konuşan bir sunucunun yer aldığı, animasyonlu ateş arka planı ve ilişki temalı özel bir monolog içeren dijital insan videosu oluşturmaya yönelik detaylı bir komut.
+
+#### 📝 Prompt
+
+```
+Ön plan: Sunucu kameraya bakar ve etkileyici bir giriş cümlesiyle başlar.
+Arka plan animasyonu: "İlk Birlikte Yaşama" kelimelerinden bir ateş topu yanmaya başlar ve yavaşça küçülür.
+Sunucunun konuşması (66 karakter):
+"Neden birçok insan birlikte yaşamaya başladıktan sonra o kıvılcımı kaybeder? Sorun erkeğin aniden soğuması değil, ilk birlikte yaşamanın genellikle bir insanın hayal gücünün, inisiyatifinin ve yakın ilişkiye dair tutkusunun yarısından fazlasını tüketmesidir."
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069642383088562176/img/eo2NBUhWqy0L72th.jpg" width="600" alt="Grok-imagine 1.5 Dijital İnsan Video Senaryosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6437)**
+
+**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2069642495282057518) | **Published:** Jun 24, 2026
+
+---
 ### Lanetli Tablo Gerçeklik Penceresi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2055,94 +2134,6 @@ Başyapıt, en iyi kalite, bulutların arasında süzülen görkemli bir antik g
 **Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067323749532316148) | **Published:** Jun 17, 2026
 
 ---
-### Dumanlı Bar Giriş Çekimi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Karakterlerin dumanla dolu bir bara girişini göstermek için başlangıç ve bitiş karesi referanslarını kullanan sinematik bir video istemi.
-
-#### 📝 Prompt
-
-```
-adamlar açık bir kapıdan dumanla dolu bir bara girerken @image1 görseliyle başlayıp @image2 ile bitir, sinematik bir an. Müzik yok. Konuşma yok.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/250a2e8d261b1b2527f8abda3bea4351/thumbnails/thumbnail.jpg" width="600" alt="Dumanlı Bar Giriş Çekimi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6170)**
-
-**Author:** [Jennifer 🇺🇸 🦅](https://x.com/Jenny_MommaLion) | **Source:** [Link](https://x.com/Jenny_MommaLion/status/2067298333295862106) | **Published:** Jun 17, 2026
-
----
-### Sinematik Dövüş Sanatları Aksiyon Sekansı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Dinamik kamera açıları ve gerçekçi fizik kurallarıyla karmaşık manevralar yapan bir dövüş sanatçısını gösteren 6 saniyelik video için kapsamlı bir aksiyon istemi.
-
-#### 📝 Prompt
-
-```
-Başyapıt kalitesinde, engebeli arazide ilerlerken acımasız ve yüksek yoğunluklu bir dövüşe giren son derece yetenekli bir dövüşçünün 6 saniyelik videosu. Karakter; dönerek atılan tekmeler, uçan diz darbeleri, havada taklalar, duvar koşuları ve sert yere sermeler dahil olmak üzere hızlı ve güçlü dövüş sanatları komboları gerçekleştiriyor. Güçlü darbe etkisi ve momentum ile gerçekçi fizik kuralları. Takip çekimleri, dairesel kamera hareketleri ve dramatik düşük açılarla dinamik kamera çalışması. Sinematik aydınlatma, keskin hareket netliği, yoğun ve ham aksiyon, kesintisiz, akıcı ve güçlü koreografi, en iyi kalite, 6 saniyelik video.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f7f265442f781b2993abd2a68b8b9041/thumbnails/thumbnail.jpg" width="600" alt="Sinematik Dövüş Sanatları Aksiyon Sekansı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6169)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067298200520896673) | **Published:** Jun 17, 2026
-
----
-### Heyecanlı Japonca Duyuru Dudak Senkronizasyonu
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Doğal bir heyecan, el hareketleri ve saç hareketleriyle Japonca gerçekçi dudak senkronizasyonu için bir komut.
-
-#### 📝 Prompt
-
-```
-Doğal ve heyecanlı Japonca, net bir ses, mükemmel dudak senkronizasyonu. Hafif el hareketleri, savrulan saçlar. "Herkes! xAI, Grok Imagine Video 1.5'i yayınladı! Görselden videoya oluşturma teknolojisi önemli ölçüde gelişti. Ses ve dudak senkronizasyonu mükemmel bir şekilde eşleşiyor ve fizik hesaplamaları gerçekçi bir şekilde iyileştirildi. Oluşturma hızı iki katına çıktı ve yaklaşık 25 saniyede tamamlanabiliyor."
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067236538212331520/img/TpprEy-FXWKCbcIA.jpg" width="600" alt="Heyecanlı Japonca Duyuru Dudak Senkronizasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6173)**
-
-**Author:** [右よし左よし秋よし@AIエンタメ](https://x.com/akiyoshisan) | **Source:** [Link](https://x.com/akiyoshisan/status/2067236929989423431) | **Published:** Jun 17, 2026
-
----
-### Game of Thrones Ejderha Uçuşu Sinematik Videosu
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Game of Thrones'tan ilham alan, gerçekçi fizik ve ışıklandırma özelliklerine sahip epik bir ejderha uçuşu sekansı oluşturmak için referans görseli canlandıran, oldukça detaylı sinematik bir komut.
-
-#### 📝 Prompt
-
-```
-Bu referans görselini, HBO Game of Thrones ve House of the Dragon'daki epik ejderha sekanslarının görsel tarzında, 10-12 saniyelik nefes kesici bir sinematik videoya sadık bir şekilde dönüştürün. Referans görseliyle mükemmel tutarlılığı koruyun; Daenerys'in görünümü, Drogon'un anatomisi, pulları, kanat yapısı ve ilk ışıklandırması aynı kalmalıdır.
-
-Drogon, güçlü ve gerçekçi kanat çırpışları ve vücut dalgalanmalarıyla King's Landing çatıları üzerinde yüksek hızda alçaktan uçar. Çenelerinden çıkan devasa ve türbülanslı ateş, rüzgar ve harekete dinamik bir şekilde tepki verir; gerçekçi akışkan fiziği, geriye doğru uçuşan korlar, yoğun ısı bozulması ve ışık parlaması (bloom) ile görselleşir. Ateş, antik taş binaları ve Red Keep'i aşağıdan dramatik bir şekilde aydınlatarak değişken sıcak vurgular ve derin gölgeler oluşturur.
-
-Daenerys, komuta eden bir duruşla öne doğru eğilir; gümüş rengi saçları ve ağır pelerini, gerçekçi kumaş dinamikleri ve ataletle yüksek hızlı rüzgarda şiddetle savrulur. Havada ince kıvılcımlar ve kül parçacıkları bulunur.
-
-Kamera: Drogon'u hafif arka ve yan pozisyondan takip eden, ejderhayla birlikte yüksek hızda hareket eden dinamik, düşük açılı sinematik takip çekimi. Kamera, ejderhanın hareketiyle hafifçe yükselip yana yatarak güçlü bir hız, ölçek ve sürükleyicilik hissi yaratır. Kontrollü sinematik hassasiyetle harmanlanmış, hafif el kamerası enerjisine sahip akıcı ve süpürücü kamera hareketi.
-
-Fizik: Rüzgarı yakalayan ve esneyen son derece gerçekçi ejderha kanat zarı, doğal bir şekilde hareket eden kanat parmakları, otantik ağırlığa ve türbülansa sahip ağır pelerin ve saçlar, hava hareketiyle etkileşime giren gerçek akışkan dinamiğine sahip ateş.
-
-Işıklandırma ve atmosfer: Ejderha ateşi, şehrin mimarisini aşağıdan dramatik bir şekilde aydınlatan birincil hareketli ışık kaynağını sağlar. Volumetrik duman, korlar ve ısı pusları. Şehrin üzerinde hafif bir pus ile epik atmosferik derinlik.
-
-Doğal senkronize ses: Yoğun ateşin gürleyen sesi, güçlü rüzgar uğultusu ve doğal yankıya sahip uzak şehir ambiyansı ile harmanlanmış derin ve güçlü ejderha kükremesi. Fotogerçekçi render, tutarlı hareket, karmaşık detaylar, artefakt içermeyen, ARRI Alexa seviyesinde sadakatle çekilmiş. Başyapıt, maksimum epik ölçek, hız ve sinematik etki.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f64e6d9a9c5cdd32cb8c73cac1e521fc/thumbnails/thumbnail.jpg" width="600" alt="Game of Thrones Ejderha Uçuşu Sinematik Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6172)**
-
-**Author:** [AYi](https://x.com/AYi_AInotes) | **Source:** [Link](https://x.com/AYi_AInotes/status/2067227900399562775) | **Published:** Jun 17, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2204,6 +2195,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-24T21:44:25.715Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-25T11:04:48.886Z</sub>
 
 </div>

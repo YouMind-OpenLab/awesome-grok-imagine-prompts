@@ -68,9 +68,9 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1952** |
+| 📝 Total Prompts | **1956** |
 | ⭐ Featured Prompts | **3** |
-| 🔄 Last Updated | **2026-06-24** |
+| 🔄 Last Updated | **2026-06-25** |
 
 ---
 
@@ -189,6 +189,85 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Nhà phát minh lượng tử tại sa mạc Sonoran
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh chi tiết để tạo video về một nhà phát minh đang thử nghiệm thiết bị lượng tử dưới bầu trời đêm sa mạc.
+
+#### 📝 Prompt
+
+```
+Trong đêm sa mạc Sonoran ấm áp gần Queen Creek, một nhà phát minh có tầm nhìn xuất chúng (với tinh thần quả cảm như hiệp sĩ để kiến tạo tương lai) đang thử nghiệm một thiết bị truyền thông lượng tử mới dưới bầu trời đầy sao.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069909509695533056/img/lWsxKTO6INUZB8Rz.jpg" width="600" alt="Nhà phát minh lượng tử tại sa mạc Sonoran">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6436)**
+
+**Author:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **Source:** [Link](https://x.com/AnnetteHollerWe/status/2069909624585928886) | **Published:** Jun 24, 2026
+
+---
+### Lời nhắc video Mecha Runway Tap Dance
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một lời nhắc khoa học viễn tưởng độc đáo với hình ảnh các cỗ máy mechs đang nhảy tap dance trên đường băng dưới mưa, kết hợp giữa hành động cơ khí và sự vui nhộn.
+
+#### 📝 Prompt
+
+```
+Điệu nhảy Tap Dance trên đường băng dưới mưa. Ba cỗ máy mechs, một phi công dũng cảm và một màn té nước bất ngờ từ trên cao
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069796787972706304/img/fDS2_ogoihwdgA_v.jpg" width="600" alt="Lời nhắc video Mecha Runway Tap Dance">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6435)**
+
+**Author:** [AI영상공작실](https://x.com/lee_young71) | **Source:** [Link](https://x.com/lee_young71/status/2069796857874923823) | **Published:** Jun 24, 2026
+
+---
+### Cận cảnh cá voi chân thực đến kinh ngạc tại Hermanus
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) điện ảnh chi tiết giúp tạo ra video cận cảnh chân thực về cá voi trong môi trường sống tự nhiên tại Nam Phi.
+
+#### 📝 Prompt
+
+```
+Cảnh quay cận cảnh siêu thực về một chú cá voi tại Hermanus, Western Cape, Nam Phi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069628026879348736/img/C6vuzUEB3K9HNoiB.jpg" width="600" alt="Cận cảnh cá voi chân thực đến kinh ngạc tại Hermanus">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6434)**
+
+**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2069654250263917021) | **Published:** Jun 24, 2026
+
+---
+### Kịch bản video người ảo Grok-imagine 1.5
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Một câu lệnh chi tiết để tạo video người ảo với người dẫn chương trình đang nói chuyện trước ống kính, kết hợp với hình nền ngọn lửa hoạt họa và một đoạn độc thoại về chủ đề mối quan hệ.
+
+#### 📝 Prompt
+
+```
+Tiền cảnh: Người dẫn chương trình nhìn vào ống kính và bắt đầu bằng một câu dẫn thu hút.
+Hậu cảnh hoạt họa: Một quả cầu lửa bắt đầu bùng cháy từ dòng chữ "Sống thử lần đầu" và nhỏ dần lại.
+Cô ấy nói (66 ký tự):
+"Tại sao nhiều người lại mất đi sự nồng cháy sau khi sống chung? Không phải vì anh ấy đột nhiên trở nên lạnh nhạt, mà là vì lần sống thử đầu tiên thường thiêu rụi hơn một nửa trí tưởng tượng, sự chủ động và niềm đam mê của một người dành cho mối quan hệ thân mật."
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069642383088562176/img/eo2NBUhWqy0L72th.jpg" width="600" alt="Kịch bản video người ảo Grok-imagine 1.5">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6437)**
+
+**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2069642495282057518) | **Published:** Jun 24, 2026
+
+---
 ### Cửa sổ thực tại trong bức tranh bị ám
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2056,94 +2135,6 @@ Kiệt tác, chất lượng tốt nhất, tranh kỹ thuật số điện ảnh
 **Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067323749532316148) | **Published:** Jun 17, 2026
 
 ---
-### Cảnh quay bước vào quán bar đầy khói
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video điện ảnh sử dụng tham chiếu khung hình bắt đầu và kết thúc để mô tả các nhân vật bước vào một quán bar đầy khói.
-
-#### 📝 Prompt
-
-```
-bắt đầu với hình ảnh @image1 và kết thúc với @image2 khi những người đàn ông bước qua cánh cửa mở vào một quán bar đầy khói, khoảnh khắc điện ảnh. Không nhạc. Không lời thoại.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/250a2e8d261b1b2527f8abda3bea4351/thumbnails/thumbnail.jpg" width="600" alt="Cảnh quay bước vào quán bar đầy khói">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6170)**
-
-**Author:** [Jennifer 🇺🇸 🦅](https://x.com/Jenny_MommaLion) | **Source:** [Link](https://x.com/Jenny_MommaLion/status/2067298333295862106) | **Published:** Jun 17, 2026
-
----
-### Chuỗi hành động võ thuật đậm chất điện ảnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) hành động toàn diện cho video dài 6 giây, mô tả một võ sĩ thực hiện các kỹ thuật phức tạp với góc máy linh hoạt và vật lý chân thực.
-
-#### 📝 Prompt
-
-```
-Chất lượng tuyệt tác, video dài 6 giây về một võ sĩ điêu luyện đang di chuyển trên địa hình gồ ghề trong một trận chiến khốc liệt, cường độ cao. Nhân vật thực hiện các combo võ thuật nhanh và mạnh mẽ bao gồm cú đá xoay, lên gối bay, nhào lộn trên không, chạy trên tường và các đòn vật hạ gục tàn bạo. Vật lý chân thực mạnh mẽ với tác động và động lượng lớn. Góc máy linh hoạt với các cảnh quay bám đuổi, camera xoay vòng và góc thấp đầy kịch tính. Ánh sáng điện ảnh, chuyển động sắc nét, hành động dữ dội và chân thực, không cắt cảnh, biên đạo mượt mà và mạnh mẽ, chất lượng tốt nhất, video dài 6 giây.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f7f265442f781b2993abd2a68b8b9041/thumbnails/thumbnail.jpg" width="600" alt="Chuỗi hành động võ thuật đậm chất điện ảnh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6169)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067298200520896673) | **Published:** Jun 17, 2026
-
----
-### Thông báo hào hứng bằng tiếng Nhật với tính năng Lip-Sync
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Một câu lệnh (prompt) để tạo lip-sync chân thực bằng tiếng Nhật với sự hào hứng tự nhiên, cử chỉ tay và chuyển động tóc.
-
-#### 📝 Prompt
-
-```
-Tiếng Nhật hào hứng tự nhiên, giọng nói rõ ràng, lip-sync hoàn hảo. Cử chỉ tay nhẹ nhàng, tóc đung đưa. "Mọi người ơi! xAI vừa ra mắt Grok Imagine Video 1.5! Khả năng tạo video từ hình ảnh đã phát triển vượt bậc. Giọng nói và lip-sync được đồng bộ hóa hoàn hảo, đồng thời các tính toán vật lý cũng được cải thiện một cách chân thực. Tốc độ tạo video đã nhanh gấp đôi và chỉ mất khoảng 25 giây để hoàn thành."
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067236538212331520/img/TpprEy-FXWKCbcIA.jpg" width="600" alt="Thông báo hào hứng bằng tiếng Nhật với tính năng Lip-Sync">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6173)**
-
-**Author:** [右よし左よし秋よし@AIエンタメ](https://x.com/akiyoshisan) | **Source:** [Link](https://x.com/akiyoshisan/status/2067236929989423431) | **Published:** Jun 17, 2026
-
----
-### Video điện ảnh về chuyến bay của rồng trong Game of Thrones
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Một câu lệnh (prompt) điện ảnh chi tiết cao để chuyển đổi hình ảnh tham chiếu thành phân cảnh rồng bay hùng tráng lấy cảm hứng từ Game of Thrones, với hiệu ứng vật lý và ánh sáng chân thực.
-
-#### 📝 Prompt
-
-```
-Chuyển đổi hình ảnh tham chiếu này thành một video điện ảnh ngoạn mục dài 10-12 giây, giữ nguyên phong cách hình ảnh của các phân cảnh rồng hùng tráng trong Game of Thrones và House of the Dragon của HBO. Duy trì sự nhất quán hoàn hảo với hình ảnh tham chiếu — ngoại hình của Daenerys, cấu trúc cơ thể, vảy, cấu trúc cánh của Drogon và ánh sáng ban đầu.
-
-Drogon bay với tốc độ cao ở tầm thấp phía trên các mái nhà tại King's Landing với những cú đập cánh mạnh mẽ, chân thực và sự chuyển động nhịp nhàng của cơ thể. Luồng lửa khổng lồ phun ra từ hàm, ngọn lửa phản ứng linh hoạt với gió và chuyển động nhờ hiệu ứng vật lý chất lỏng chân thực, tàn lửa rực hồng bay ngược lại phía sau, tạo ra hiệu ứng biến dạng nhiệt dữ dội và ánh sáng tỏa rạng. Ngọn lửa chiếu sáng đầy kịch tính lên các tòa nhà bằng đá cổ kính và Red Keep từ bên dưới với những điểm nhấn ấm áp thay đổi liên tục và những mảng bóng tối sâu thẳm.
-
-Daenerys nghiêng người về phía trước với tư thế đầy uy quyền, mái tóc bạc và chiếc áo choàng dày bay phấp phới dữ dội trong gió tốc độ cao với hiệu ứng chuyển động vải chân thực và quán tính. Những tia lửa nhỏ và bụi tro lơ lửng trong không trung.
-
-Camera: Cú máy quay theo kiểu điện ảnh góc thấp năng động, bám theo Drogon từ vị trí hơi chếch phía sau và bên cạnh, di chuyển với tốc độ cao cùng với con rồng. Camera nâng lên và nghiêng nhẹ theo chuyển động của rồng, tạo cảm giác mạnh mẽ về tốc độ, quy mô và sự đắm chìm. Chuyển động camera mượt mà, bao quát với một chút năng lượng cầm tay kết hợp cùng sự chính xác của điện ảnh chuyên nghiệp.
-
-Vật lý: Màng cánh rồng co giãn chân thực khi đón gió, các ngón cánh chuyển động tự nhiên, áo choàng và tóc có trọng lượng và độ rung lắc chân thực, lửa vận hành theo hiệu ứng động lực học chất lỏng thực tế và tương tác với chuyển động của không khí.
-
-Ánh sáng & bầu không khí: Lửa của rồng cung cấp nguồn sáng di động chính, chiếu sáng kiến trúc thành phố một cách đầy kịch tính từ bên dưới. Khói thể tích, tàn lửa và màn sương nhiệt. Độ sâu không gian hùng tráng với một chút sương mù bao phủ thành phố.
-
-Âm thanh đồng bộ gốc: Tiếng rồng gầm mạnh mẽ, trầm hùng hòa quyện với tiếng rít của ngọn lửa dữ dội, tiếng gió rít mạnh và âm thanh thành phố từ xa với độ vang tự nhiên. Kết xuất ảnh chân thực, chuyển động mạch lạc, chi tiết tinh xảo, không có lỗi hình ảnh, được quay với độ trung thực cấp độ ARRI Alexa. Kiệt tác, quy mô hùng tráng tối đa, tốc độ và tác động điện ảnh mạnh mẽ.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f64e6d9a9c5cdd32cb8c73cac1e521fc/thumbnails/thumbnail.jpg" width="600" alt="Video điện ảnh về chuyến bay của rồng trong Game of Thrones">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6172)**
-
-**Author:** [AYi](https://x.com/AYi_AInotes) | **Source:** [Link](https://x.com/AYi_AInotes/status/2067227900399562775) | **Published:** Jun 17, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2205,6 +2196,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-24T21:44:14.105Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-25T11:04:36.982Z</sub>
 
 </div>

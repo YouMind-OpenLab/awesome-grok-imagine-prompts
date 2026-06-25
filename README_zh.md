@@ -68,9 +68,9 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **1952** |
+| 📝 提示词总数 | **1956** |
 | ⭐ 精选提示词 | **3** |
-| 🔄 最后更新 | **2026-06-24** |
+| 🔄 最后更新 | **2026-06-25** |
 
 ---
 
@@ -189,6 +189,85 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 索诺兰沙漠中的量子发明家
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一份详细的提示词，用于生成一段发明家在沙漠夜空下测试量子设备的视频。
+
+#### 📝 提示词
+
+```
+在靠近 Queen Creek 的索诺兰沙漠温暖夜晚，一位才华横溢的远见型发明家（怀揣着如骑士般构建未来的动力）正在星空下测试一台全新的量子通信设备。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069909509695533056/img/lWsxKTO6INUZB8Rz.jpg" width="600" alt="索诺兰沙漠中的量子发明家">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6436)**
+
+**作者:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **来源:** [Link](https://x.com/AnnetteHollerWe/status/2069909624585928886) | **发布时间:** Jun 24, 2026
+
+---
+### 机甲跑道踢踏舞视频提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个独特的科幻提示词，展现机甲在雨中跑道上跳踢踏舞的场景，将机械动感与趣味性完美融合。
+
+#### 📝 提示词
+
+```
+雨中跑道踢踏舞。三台机甲，一位无畏的驾驶员，以及来自天降的意外水花
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069796787972706304/img/fDS2_ogoihwdgA_v.jpg" width="600" alt="机甲跑道踢踏舞视频提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6435)**
+
+**作者:** [AI영상공작실](https://x.com/lee_young71) | **来源:** [Link](https://x.com/lee_young71/status/2069796857874923823) | **发布时间:** Jun 24, 2026
+
+---
+### 赫曼努斯 (Hermanus) 超写实鲸鱼特写
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个高度详细的电影级提示词，用于生成在南非自然栖息地中鲸鱼的逼真特写视频。
+
+#### 📝 提示词
+
+```
+南非西开普省赫曼努斯 (Hermanus) 鲸鱼的超写实特写场景。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069628026879348736/img/C6vuzUEB3K9HNoiB.jpg" width="600" alt="赫曼努斯 (Hermanus) 超写实鲸鱼特写">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6434)**
+
+**作者:** [Mario Nawfal](https://x.com/MarioNawfal) | **来源:** [Link](https://x.com/MarioNawfal/status/2069654250263917021) | **发布时间:** Jun 24, 2026
+
+---
+### Grok-imagine 1.5 数字人视频脚本
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 一份用于生成数字人视频的详细提示词，内容为一位主持人面对镜头进行讲述，背景为动态火焰，并配有一段关于亲密关系的主题独白。
+
+#### 📝 提示词
+
+```
+前景：主持人看向镜头，以一个吸引人的开场白开始。
+背景动画：一团火焰从“第一次同居”这几个字开始燃烧，并逐渐变小。
+她说（66 个字符）：
+“为什么很多人在同居后就失去了火花？并不是他突然变冷淡了，而是第一次同居往往烧掉了一个人对亲密关系大半的想象力、主动性和热情。”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069642383088562176/img/eo2NBUhWqy0L72th.jpg" width="600" alt="Grok-imagine 1.5 数字人视频脚本">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6437)**
+
+**作者:** [John](https://x.com/john87445528) | **来源:** [Link](https://x.com/john87445528/status/2069642495282057518) | **发布时间:** Jun 24, 2026
+
+---
 ### 幽灵画作的现实之窗
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2055,94 +2134,6 @@ Elon Musk 呈现嘻哈黑帮造型，戴着金牙套、酷炫墨镜，身穿黑�
 **作者:** [⭕Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2067323749532316148) | **发布时间:** Jun 17, 2026
 
 ---
-### 烟雾缭绕的酒吧入场镜头
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个使用起始和结束帧参考的电影感视频提示词，展示角色走进烟雾弥漫的酒吧。
-
-#### 📝 提示词
-
-```
-以 @image1 为起始图像，以 @image2 为结束图像，展示男人们穿过敞开的门走进烟雾缭绕的酒吧，电影感瞬间。无音乐。无对话。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/250a2e8d261b1b2527f8abda3bea4351/thumbnails/thumbnail.jpg" width="600" alt="烟雾缭绕的酒吧入场镜头">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6170)**
-
-**作者:** [Jennifer 🇺🇸 🦅](https://x.com/Jenny_MommaLion) | **来源:** [Link](https://x.com/Jenny_MommaLion/status/2067298333295862106) | **发布时间:** Jun 17, 2026
-
----
-### 电影级武术格斗序列
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个全面的 6 秒视频动作提示词，展示了一名武术格斗家通过动态摄像机角度和逼真的物理效果执行复杂的动作。
-
-#### 📝 提示词
-
-```
-杰作级画质，6 秒视频，展示了一名高超的格斗家在崎岖地形上进行残酷且高强度的格斗。角色执行快速、强力的武术连招，包括旋风踢、飞膝、空中翻转、跑墙和凶猛的击倒动作。具有强烈的真实物理效果，伴随沉重的打击感和惯性。动态摄像机运用，包括追踪镜头、环绕镜头和戏剧性的低角度拍摄。电影级光影，清晰的运动画面，紧张且原始的动作，无剪辑，流畅而有力的编排，最佳画质，6 秒视频。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f7f265442f781b2993abd2a68b8b9041/thumbnails/thumbnail.jpg" width="600" alt="电影级武术格斗序列">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6169)**
-
-**作者:** [⭕Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2067298200520896673) | **发布时间:** Jun 17, 2026
-
----
-### 充满激情的日语口型同步演示
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一个用于生成日语口型同步的提示词，要求表现出自然的兴奋感、手势动作以及头发的飘动效果。
-
-#### 📝 提示词
-
-```
-自然的日语兴奋语调，语音清晰，口型同步完美。伴随轻微的手势和头发飘动。“大家好！xAI 已经发布了 Grok Imagine Video 1.5！图像转视频生成技术有了显著进化。语音与口型同步完美，物理计算也更加逼真。生成速度提升了两倍，仅需约 25 秒即可完成。”
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067236538212331520/img/TpprEy-FXWKCbcIA.jpg" width="600" alt="充满激情的日语口型同步演示">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6173)**
-
-**作者:** [右よし左よし秋よし@AIエンタメ](https://x.com/akiyoshisan) | **来源:** [Link](https://x.com/akiyoshisan/status/2067236929989423431) | **发布时间:** Jun 17, 2026
-
----
-### 《权力的游戏》巨龙飞行电影级视频
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 一个高度详细的电影级提示词，旨在将参考图像动画化为受《权力的游戏》启发、具有逼真物理效果和光影的史诗级巨龙飞行序列。
-
-#### 📝 提示词
-
-```
-将此参考图像忠实地动画化为一段 10-12 秒、令人叹为观止的电影级视频，完美呈现 HBO《权力的游戏》和《龙之家族》中史诗级巨龙序列的视觉风格。保持与参考图像的高度一致性——包括丹妮莉丝的外观、卓耿的身体结构、鳞片、翅膀构造以及初始光影。
-
-卓耿在君临城屋顶上方低空高速飞行，伴随着强劲、逼真的拍翼动作和身体起伏。巨大的湍流火焰从其口中喷涌而出，火焰根据风向和运动产生动态反应，呈现逼真的流体物理效果，余烬向后飞溅，伴随强烈的热畸变和光晕效果。火焰从下方戏剧性地照亮了古老的石质建筑和红堡，形成变幻的暖色高光与深邃阴影。
-
-丹妮莉丝身体前倾，姿态威严，她的银发和厚重的斗篷在高速风中剧烈飘动，展现出逼真的织物动力学和惯性。空气中弥漫着细微的火花和灰烬颗粒。
-
-摄像机：采用动态低角度电影级追踪镜头，从后方稍侧的位置跟随卓耿，并与巨龙保持高速同步移动。摄像机随着巨龙的动作轻微上升和倾斜，营造出强烈的速度感、规模感和沉浸感。镜头运动流畅且宏大，融合了轻微的手持拍摄质感与受控的电影级精度。
-
-物理效果：高度逼真的巨龙翼膜弯曲并捕捉风力，翼指自然运动，厚重的斗篷和头发具有真实的重量感和湍流感，火焰表现出真实的流体动力学以及与空气流动的相互作用。
-
-光影与氛围：龙焰作为主要的移动光源，从下方戏剧性地照亮城市建筑。包含体积烟雾、余烬和热霾。史诗级的氛围深度，城市上方笼罩着轻微的薄雾。
-
-原生同步音频：深沉有力的龙吼声，混合着猛烈火焰的呼啸声、强劲的风声，以及带有自然混响的远方城市环境音。照片级真实渲染，动作连贯，细节精致，无伪影，呈现 ARRI Alexa 级别的拍摄画质。杰作，极致的史诗规模、速度感和电影级冲击力。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f64e6d9a9c5cdd32cb8c73cac1e521fc/thumbnails/thumbnail.jpg" width="600" alt="《权力的游戏》巨龙飞行电影级视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6172)**
-
-**作者:** [AYi](https://x.com/AYi_AInotes) | **来源:** [Link](https://x.com/AYi_AInotes/status/2067227900399562775) | **发布时间:** Jun 17, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2204,6 +2195,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-06-24T21:44:07.556Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-06-25T11:04:29.667Z</sub>
 
 </div>

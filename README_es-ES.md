@@ -68,9 +68,9 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1952** |
+| 📝 Total Prompts | **1956** |
 | ⭐ Featured Prompts | **3** |
-| 🔄 Last Updated | **2026-06-24** |
+| 🔄 Last Updated | **2026-06-25** |
 
 ---
 
@@ -189,6 +189,85 @@ Una valquiria celestial mística y noble, una mujer digna y hermosa con largo ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Inventor cuántico en el desierto de Sonora
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt detallado para generar un video de un inventor probando un dispositivo cuántico bajo el cielo nocturno del desierto.
+
+#### 📝 Prompt
+
+```
+En la cálida noche del desierto de Sonora, cerca de Queen Creek, un brillante inventor visionario (con ese impulso caballeresco por construir el futuro) está probando un nuevo dispositivo de comunicación cuántica bajo un cielo estrellado.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069909509695533056/img/lWsxKTO6INUZB8Rz.jpg" width="600" alt="Inventor cuántico en el desierto de Sonora">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6436)**
+
+**Author:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **Source:** [Link](https://x.com/AnnetteHollerWe/status/2069909624585928886) | **Published:** Jun 24, 2026
+
+---
+### Prompt de video: Mecha Runway Tap Dance
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de ciencia ficción único que muestra mechas realizando un baile de claqué en una pista lluviosa, combinando acción mecánica con un toque divertido.
+
+#### 📝 Prompt
+
+```
+Baile de claqué en pista lluviosa. Tres mechas, un piloto intrépido y un chapuzón inesperado desde arriba
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069796787972706304/img/fDS2_ogoihwdgA_v.jpg" width="600" alt="Prompt de video: Mecha Runway Tap Dance">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6435)**
+
+**Author:** [AI영상공작실](https://x.com/lee_young71) | **Source:** [Link](https://x.com/lee_young71/status/2069796857874923823) | **Published:** Jun 24, 2026
+
+---
+### Primer plano ultrarrealista de una ballena en Hermanus
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinematográfico altamente detallado para generar un video en primer plano realista de una ballena en su hábitat natural en Sudáfrica.
+
+#### 📝 Prompt
+
+```
+Escena en primer plano ultrarrealista de una ballena en Hermanus, Cabo Occidental, Sudáfrica.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069628026879348736/img/C6vuzUEB3K9HNoiB.jpg" width="600" alt="Primer plano ultrarrealista de una ballena en Hermanus">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6434)**
+
+**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2069654250263917021) | **Published:** Jun 24, 2026
+
+---
+### Guion de video de humano digital para Grok-imagine 1.5
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt detallado para generar un video de un humano digital con un presentador hablando a la cámara, que incluye un fondo de fuego animado y un monólogo específico sobre relaciones.
+
+#### 📝 Prompt
+
+```
+Primer plano: El presentador mira a la cámara y comienza con un gancho.
+Animación de fondo: Una bola de fuego comienza a arder a partir de las palabras "Primera convivencia" y se reduce lentamente.
+Ella dice (66 caracteres):
+"¿Por qué muchas personas pierden la chispa después de vivir juntas? No es que él se vuelva frío de repente, sino que la primera convivencia suele consumir más de la mitad de la imaginación, la iniciativa y la pasión de una persona por una relación íntima."
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069642383088562176/img/eo2NBUhWqy0L72th.jpg" width="600" alt="Guion de video de humano digital para Grok-imagine 1.5">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6437)**
+
+**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2069642495282057518) | **Published:** Jun 24, 2026
+
+---
 ### La ventana de la realidad del cuadro embrujado
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2056,94 +2135,6 @@ Obra maestra, mejor calidad, pintura digital cinematográfica ultra detallada de
 **Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067323749532316148) | **Published:** Jun 17, 2026
 
 ---
-### Toma de entrada a bar con humo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video cinematográfico que utiliza referencias de fotogramas iniciales y finales para mostrar a los personajes entrando en un bar lleno de humo.
-
-#### 📝 Prompt
-
-```
-comienza con la imagen @image1 y termina con @image2 mientras los hombres atraviesan una puerta abierta hacia un bar lleno de humo, momento cinematográfico. Sin música. Sin diálogos.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/250a2e8d261b1b2527f8abda3bea4351/thumbnails/thumbnail.jpg" width="600" alt="Toma de entrada a bar con humo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6170)**
-
-**Author:** [Jennifer 🇺🇸 🦅](https://x.com/Jenny_MommaLion) | **Source:** [Link](https://x.com/Jenny_MommaLion/status/2067298333295862106) | **Published:** Jun 17, 2026
-
----
-### Secuencia de combate de artes marciales cinematográficas
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de acción integral para un video de 6 segundos que muestra a un luchador de artes marciales realizando maniobras complejas con ángulos de cámara dinámicos y física realista.
-
-#### 📝 Prompt
-
-```
-Calidad de obra maestra, video de 6 segundos de un luchador altamente capacitado atravesando un terreno difícil mientras participa en una pelea brutal y de alta intensidad. El personaje realiza combos de artes marciales rápidos y potentes, incluyendo patadas giratorias, rodillazos voladores, volteretas aéreas, carreras por la pared y derribos salvajes. Física realista sólida con gran impacto y momento. Trabajo de cámara dinámico con tomas de seguimiento, cámara circular y ángulos bajos dramáticos. Iluminación cinematográfica, claridad de movimiento nítida, acción intensa y cruda, sin cortes, coreografía fluida y poderosa, mejor calidad, video de 6 segundos.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f7f265442f781b2993abd2a68b8b9041/thumbnails/thumbnail.jpg" width="600" alt="Secuencia de combate de artes marciales cinematográficas">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6169)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067298200520896673) | **Published:** Jun 17, 2026
-
----
-### Anuncio emocionante en japonés con sincronización labial
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt para una sincronización labial realista en japonés con entusiasmo natural, gestos con las manos y movimiento del cabello.
-
-#### 📝 Prompt
-
-```
-Japonés natural y entusiasta, voz clara, sincronización labial perfecta. Gestos leves con las manos, movimiento del cabello. "¡Todos! ¡xAI ha lanzado Grok Imagine Video 1.5! La generación de imagen a video ha evolucionado significativamente. La voz y la sincronización labial están perfectamente coordinadas, y los cálculos físicos han mejorado de forma realista. La velocidad de generación es el doble de rápida y se puede realizar en unos 25 segundos."
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067236538212331520/img/TpprEy-FXWKCbcIA.jpg" width="600" alt="Anuncio emocionante en japonés con sincronización labial">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6173)**
-
-**Author:** [右よし左よし秋よし@AIエンタメ](https://x.com/akiyoshisan) | **Source:** [Link](https://x.com/akiyoshisan/status/2067236929989423431) | **Published:** Jun 17, 2026
-
----
-### Video cinematográfico de vuelo de dragón al estilo Game of Thrones
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt cinematográfico altamente detallado para animar una imagen de referencia en una épica secuencia de vuelo de dragón inspirada en Game of Thrones, con físicas e iluminación realistas.
-
-#### 📝 Prompt
-
-```
-Anima fielmente esta imagen de referencia en un impresionante video cinematográfico de 10 a 12 segundos con el estilo visual exacto de las épicas secuencias de dragones de Game of Thrones y House of the Dragon de HBO. Mantén una consistencia perfecta con la imagen de referencia: la apariencia de Daenerys, la anatomía de Drogon, las escamas, la estructura de las alas y la iluminación inicial.
-
-Drogon vuela a gran velocidad a baja altura sobre los tejados de King's Landing con aleteos potentes y realistas y ondulaciones corporales. Un fuego turbulento y masivo brota de sus fauces; las llamas reaccionan dinámicamente al viento y al movimiento con físicas de fluidos realistas, brasas brillantes que vuelan hacia atrás, distorsión por calor intenso y destellos de luz. El fuego ilumina dramáticamente los antiguos edificios de piedra y la Red Keep desde abajo con reflejos cálidos cambiantes y sombras profundas.
-
-Daenerys se inclina hacia adelante con una postura dominante; su cabello plateado y su pesada capa se agitan violentamente con el viento a alta velocidad, mostrando una dinámica de tela e inercia realistas. Chispas sutiles y partículas de ceniza en el aire.
-
-Cámara: Toma de seguimiento cinematográfica dinámica en ángulo bajo que sigue a Drogon desde una posición ligeramente trasera y lateral, moviéndose a gran velocidad junto al dragón. La cámara se eleva y se inclina sutilmente con el movimiento del dragón, creando una poderosa sensación de velocidad, escala e inmersión. Movimiento de cámara fluido y envolvente con una ligera energía de cámara en mano combinada con una precisión cinematográfica controlada.
-
-Físicas: Membrana de las alas del dragón altamente realista que se flexiona y atrapa el viento, dedos de las alas moviéndose de forma natural, capa y cabello pesados con peso y turbulencia auténticos, fuego comportándose con dinámicas de fluidos reales e interacción con el movimiento del aire.
-
-Iluminación y atmósfera: El fuego del dragón proporciona la fuente de luz móvil principal, iluminando dramáticamente la arquitectura de la ciudad desde abajo. Humo volumétrico, brasas y calima por calor. Profundidad atmosférica épica con una ligera neblina sobre la ciudad.
-
-Audio sincronizado nativo: Rugido de dragón profundo y potente mezclado con el silbido rugiente del fuego intenso, fuertes ráfagas de viento y el ambiente distante de la ciudad con reverberación natural. Renderizado fotorrealista, movimiento coherente, detalles intrincados, sin artefactos, grabado con una fidelidad de nivel ARRI Alexa. Obra maestra, máxima escala épica, velocidad e impacto cinematográfico.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f64e6d9a9c5cdd32cb8c73cac1e521fc/thumbnails/thumbnail.jpg" width="600" alt="Video cinematográfico de vuelo de dragón al estilo Game of Thrones">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6172)**
-
-**Author:** [AYi](https://x.com/AYi_AInotes) | **Source:** [Link](https://x.com/AYi_AInotes/status/2067227900399562775) | **Published:** Jun 17, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2205,6 +2196,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-24T21:44:16.586Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-25T11:04:39.735Z</sub>
 
 </div>

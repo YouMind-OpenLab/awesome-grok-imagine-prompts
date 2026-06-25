@@ -68,9 +68,9 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1952** |
+| 📝 Total Prompts | **1956** |
 | ⭐ Featured Prompts | **3** |
-| 🔄 Last Updated | **2026-06-24** |
+| 🔄 Last Updated | **2026-06-25** |
 
 ---
 
@@ -189,6 +189,85 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### सोनोरन रेगिस्तान में क्वांटम आविष्कारक
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> रेगिस्तान की रात के आसमान के नीचे एक आविष्कारक द्वारा क्वांटम डिवाइस का परीक्षण करने वाले वीडियो को जनरेट करने के लिए एक विस्तृत प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+क्वीन क्रीक के पास सोनोरन रेगिस्तान की गर्म रात में, एक प्रतिभाशाली दूरदर्शी आविष्कारक (भविष्य बनाने के लिए शूरवीर जैसी दृढ़ इच्छाशक्ति के साथ) तारों से भरे आसमान के नीचे एक नए क्वांटम संचार उपकरण का परीक्षण कर रहा है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069909509695533056/img/lWsxKTO6INUZB8Rz.jpg" width="600" alt="सोनोरन रेगिस्तान में क्वांटम आविष्कारक">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6436)**
+
+**Author:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **Source:** [Link](https://x.com/AnnetteHollerWe/status/2069909624585928886) | **Published:** Jun 24, 2026
+
+---
+### Mecha Runway Tap Dance वीडियो प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक अनोखा sci-fi प्रॉम्प्ट जिसमें mechs को बारिश से भीगे रनवे पर टैप डांस करते हुए दिखाया गया है, जो मैकेनिकल एक्शन और चंचलता का एक बेहतरीन मिश्रण है।
+
+#### 📝 Prompt
+
+```
+Rainy Runway Tap Dance. तीन mechs, एक निडर पायलट, और ऊपर से गिरती पानी की एक अप्रत्याशित बौछार
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069796787972706304/img/fDS2_ogoihwdgA_v.jpg" width="600" alt="Mecha Runway Tap Dance वीडियो प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6435)**
+
+**Author:** [AI영상공작실](https://x.com/lee_young71) | **Source:** [Link](https://x.com/lee_young71/status/2069796857874923823) | **Published:** Jun 24, 2026
+
+---
+### हर्मनस में व्हेल का अल्ट्रा रियलिस्टिक क्लोज-अप
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> दक्षिण अफ्रीका के प्राकृतिक आवास में व्हेल का यथार्थवादी क्लोज-अप वीडियो बनाने के लिए एक अत्यधिक विस्तृत सिनेमैटिक प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+हर्मनस, वेस्टर्न केप, दक्षिण अफ्रीका में व्हेल का अल्ट्रा-रियलिस्टिक क्लोज-अप दृश्य।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069628026879348736/img/C6vuzUEB3K9HNoiB.jpg" width="600" alt="हर्मनस में व्हेल का अल्ट्रा रियलिस्टिक क्लोज-अप">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6434)**
+
+**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2069654250263917021) | **Published:** Jun 24, 2026
+
+---
+### Grok-imagine 1.5 डिजिटल ह्यूमन वीडियो स्क्रिप्ट
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> एक डिजिटल ह्यूमन वीडियो बनाने के लिए विस्तृत प्रॉम्प्ट, जिसमें एक होस्ट कैमरे की ओर देखकर बात कर रहा है, साथ ही एनिमेटेड फायर बैकग्राउंड और रिलेशनशिप-थीम वाला मोनोलॉग शामिल है।
+
+#### 📝 Prompt
+
+```
+फोरग्राउंड: होस्ट कैमरे की ओर देखता है और एक हुक के साथ शुरुआत करता है।
+बैकग्राउंड एनिमेशन: "First Cohabitation" शब्दों से आग का एक गोला जलना शुरू होता है और धीरे-धीरे छोटा होता जाता है।
+वह कहती है (66 अक्षर):
+"ऐसा क्यों है कि साथ रहने के बाद बहुत से लोग अपना उत्साह खो देते हैं? ऐसा नहीं है कि वह अचानक ठंडा पड़ जाता है, बल्कि यह है कि पहली बार साथ रहना अक्सर किसी व्यक्ति की कल्पना, पहल और अंतरंग संबंधों के प्रति जुनून के आधे से अधिक हिस्से को जला देता है।"
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069642383088562176/img/eo2NBUhWqy0L72th.jpg" width="600" alt="Grok-imagine 1.5 डिजिटल ह्यूमन वीडियो स्क्रिप्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6437)**
+
+**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2069642495282057518) | **Published:** Jun 24, 2026
+
+---
 ### हॉन्टेड पेंटिंग रियलिटी विंडो
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2055,94 +2134,6 @@ Stranger in a Strange Land की शुरुआत से शुरू कर�
 **Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067323749532316148) | **Published:** Jun 17, 2026
 
 ---
-### स्मोकी बार एंट्री शॉट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमाई वीडियो प्रॉम्प्ट जो धुएं से भरे बार में प्रवेश करते हुए पात्रों को दिखाने के लिए स्टार्ट और एंड फ्रेम रेफरेंस का उपयोग करता है।
-
-#### 📝 Prompt
-
-```
-start with image @image1 and end with @image2 as the men walk through an open door into a smoke filled bar, cinematic moment. No music. No speaking.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/250a2e8d261b1b2527f8abda3bea4351/thumbnails/thumbnail.jpg" width="600" alt="स्मोकी बार एंट्री शॉट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6170)**
-
-**Author:** [Jennifer 🇺🇸 🦅](https://x.com/Jenny_MommaLion) | **Source:** [Link](https://x.com/Jenny_MommaLion/status/2067298333295862106) | **Published:** Jun 17, 2026
-
----
-### सिनेमैटिक मार्शल आर्ट्स कॉम्बैट सीक्वेंस
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 6-सेकंड के वीडियो के लिए एक व्यापक एक्शन प्रॉम्प्ट, जिसमें एक मार्शल आर्ट्स फाइटर को डायनामिक कैमरा एंगल और यथार्थवादी भौतिकी के साथ जटिल करतब दिखाते हुए दिखाया गया है।
-
-#### 📝 Prompt
-
-```
-मास्टरपीस क्वालिटी, 6-सेकंड का वीडियो जिसमें एक अत्यधिक कुशल फाइटर ऊबड़-खाबड़ इलाके में एक क्रूर, हाई-इंटेंसिटी लड़ाई में शामिल है। पात्र तेज, शक्तिशाली मार्शल आर्ट्स कॉम्बो करता है जिसमें स्पिनिंग किक, फ्लाइंग नीज़, एरियल फ्लिप, वॉल रन और घातक टेकडाउन शामिल हैं। भारी प्रभाव और गति के साथ मजबूत यथार्थवादी भौतिकी। ट्रैकिंग शॉट्स, सर्कलिंग कैमरा और नाटकीय लो एंगल के साथ डायनामिक कैमरा वर्क। सिनेमैटिक लाइटिंग, स्पष्ट मोशन क्लैरिटी, तीव्र और रॉ एक्शन, कोई कट नहीं, स्मूथ और शक्तिशाली कोरियोग्राफी, बेहतरीन क्वालिटी, 6-सेकंड का वीडियो।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f7f265442f781b2993abd2a68b8b9041/thumbnails/thumbnail.jpg" width="600" alt="सिनेमैटिक मार्शल आर्ट्स कॉम्बैट सीक्वेंस">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6169)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067298200520896673) | **Published:** Jun 17, 2026
-
----
-### उत्साहित जापानी घोषणा लिप-सिंक
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> प्राकृतिक उत्साह, हाथ के इशारों और बालों की हलचल के साथ जापानी भाषा में यथार्थवादी लिप-सिंक के लिए एक प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-प्राकृतिक उत्साहित जापानी, स्पष्ट आवाज़, सटीक लिप-सिंक। हल्के हाथ के इशारे, बालों का लहराना। "सभी को नमस्कार! xAI ने Grok Imagine Video 1.5 जारी किया है! इमेज-टू-वीडियो जनरेशन में काफी विकास हुआ है। आवाज़ और लिप-सिंक पूरी तरह से सिंक्रोनाइज़्ड हैं, और भौतिकी गणनाओं में यथार्थवादी सुधार हुआ है। जनरेशन की गति दोगुनी हो गई है, और इसे लगभग 25 सेकंड में बनाया जा सकता है।"
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067236538212331520/img/TpprEy-FXWKCbcIA.jpg" width="600" alt="उत्साहित जापानी घोषणा लिप-सिंक">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6173)**
-
-**Author:** [右よし左よし秋よし@AIエンタメ](https://x.com/akiyoshisan) | **Source:** [Link](https://x.com/akiyoshisan/status/2067236929989423431) | **Published:** Jun 17, 2026
-
----
-### Game of Thrones ड्रैगन फ्लाइट सिनेमैटिक वीडियो
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Game of Thrones से प्रेरित एक महाकाव्य ड्रैगन उड़ान अनुक्रम में एक संदर्भ छवि को एनिमेट करने के लिए एक अत्यधिक विस्तृत सिनेमैटिक प्रॉम्प्ट, जिसमें यथार्थवादी भौतिकी और प्रकाश व्यवस्था शामिल है।
-
-#### 📝 Prompt
-
-```
-इस संदर्भ छवि को HBO के Game of Thrones और House of the Dragon के महाकाव्य ड्रैगन दृश्यों की सटीक दृश्य शैली में एक लुभावने 10-12 सेकंड के सिनेमैटिक वीडियो में ईमानदारी से एनिमेट करें। संदर्भ छवि के साथ पूर्ण स्थिरता बनाए रखें — Daenerys का रूप, Drogon की शारीरिक रचना, तराजू (scales), पंखों की संरचना और प्रारंभिक प्रकाश व्यवस्था।
-
-Drogon शक्तिशाली, यथार्थवादी पंखों की फड़फड़ाहट और शरीर की लहर के साथ King's Landing की छतों के ऊपर कम ऊंचाई पर तेज गति से उड़ता है। उसके जबड़ों से विशाल अशांत आग निकलती है, लपटें हवा और गति के साथ यथार्थवादी तरल भौतिकी के साथ गतिशील रूप से प्रतिक्रिया करती हैं, चमकते अंगारे पीछे की ओर उड़ते हैं, तीव्र गर्मी का विरूपण और प्रकाश का फैलाव होता है। आग प्राचीन पत्थर की इमारतों और Red Keep को नीचे से नाटकीय रूप से रोशन करती है, जिसमें बदलते गर्म हाइलाइट्स और गहरी छायाएं दिखाई देती हैं।
-
-Daenerys कमांडिंग मुद्रा के साथ आगे की ओर झुकती है, उसके चांदी के बाल और भारी लबादा तेज हवा में हिंसक रूप से लहराते हैं, जिसमें यथार्थवादी कपड़े की गतिशीलता और जड़ता होती है। हवा में सूक्ष्म चिंगारियां और राख के कण हैं।
-
-कैमरा: गतिशील लो-एंगल सिनेमैटिक ट्रैकिंग शॉट जो Drogon का थोड़ा पीछे और बगल की स्थिति से अनुसरण करता है, ड्रैगन के साथ तेज गति से चलता है। कैमरा ड्रैगन की गति के साथ सूक्ष्म रूप से ऊपर उठता और झुकता है, जिससे गति, पैमाने और विसर्जन की एक शक्तिशाली भावना पैदा होती है। नियंत्रित सिनेमैटिक परिशुद्धता के साथ मिश्रित हल्की हैंडहेल्ड ऊर्जा के साथ व्यापक, तरल कैमरा गति।
-
-भौतिकी: अत्यधिक यथार्थवादी ड्रैगन विंग झिल्ली का लचीलापन और हवा को पकड़ना, व्यक्तिगत पंखों की उंगलियों का स्वाभाविक रूप से हिलना, प्रामाणिक वजन और अशांति के साथ भारी लबादा और बाल, हवा की गति के साथ बातचीत और वास्तविक तरल गतिशीलता के साथ व्यवहार करती आग।
-
-प्रकाश और वातावरण: ड्रैगन की आग प्राथमिक चलती प्रकाश स्रोत प्रदान करती है, जो शहर की वास्तुकला को नीचे से नाटकीय रूप से रोशन करती है। वॉल्यूमेट्रिक धुआं, अंगारे और गर्मी की धुंध। शहर पर हल्की धुंध के साथ महाकाव्य वायुमंडलीय गहराई।
-
-नेटिव सिंक्रोनाइज़्ड ऑडियो: तीव्र आग की दहाड़ के साथ मिश्रित गहरी शक्तिशाली ड्रैगन की दहाड़, तेज हवा का झोंका, और प्राकृतिक प्रतिध्वनि के साथ दूर के शहर का माहौल। फोटो-यथार्थवादी रेंडरिंग, सुसंगत गति, जटिल विवरण, कोई आर्टिफैक्ट नहीं, ARRI Alexa-स्तर की निष्ठा के साथ शूट किया गया। मास्टरपीस, अधिकतम महाकाव्य पैमाना, गति और सिनेमैटिक प्रभाव।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f64e6d9a9c5cdd32cb8c73cac1e521fc/thumbnails/thumbnail.jpg" width="600" alt="Game of Thrones ड्रैगन फ्लाइट सिनेमैटिक वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6172)**
-
-**Author:** [AYi](https://x.com/AYi_AInotes) | **Source:** [Link](https://x.com/AYi_AInotes/status/2067227900399562775) | **Published:** Jun 17, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2204,6 +2195,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-24T21:44:15.349Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-25T11:04:38.156Z</sub>
 
 </div>

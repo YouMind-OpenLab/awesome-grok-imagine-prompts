@@ -68,9 +68,9 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1952** |
+| 📝 Total Prompts | **1956** |
 | ⭐ Featured Prompts | **3** |
-| 🔄 Last Updated | **2026-06-24** |
+| 🔄 Last Updated | **2026-06-25** |
 
 ---
 
@@ -189,6 +189,85 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Quantum Inventor in Sonoran Desert
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a video of an inventor testing a quantum device under a desert night sky.
+
+#### 📝 Prompt
+
+```
+In the warm Sonoran Desert night near Queen Creek, a brilliant visionary inventor (with that knight-like drive to build the future) is testing a new quantum communication device under a star-filled sky.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069909509695533056/img/lWsxKTO6INUZB8Rz.jpg" width="600" alt="Quantum Inventor in Sonoran Desert">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6436)**
+
+**Author:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **Source:** [Link](https://x.com/AnnetteHollerWe/status/2069909624585928886) | **Published:** Jun 24, 2026
+
+---
+### Mecha Runway Tap Dance Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A unique sci-fi prompt featuring mechs performing a tap dance on a rainy runway, blending mechanical action with playfulness.
+
+#### 📝 Prompt
+
+```
+Rainy Runway Tap Dance. Three mechs, one fearless pilot, and an unexpected splash from above
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069796787972706304/img/fDS2_ogoihwdgA_v.jpg" width="600" alt="Mecha Runway Tap Dance Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6435)**
+
+**Author:** [AI영상공작실](https://x.com/lee_young71) | **Source:** [Link](https://x.com/lee_young71/status/2069796857874923823) | **Published:** Jun 24, 2026
+
+---
+### Ultra Realistic Whale Close-up in Hermanus
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed cinematic prompt for generating a realistic close-up video of a whale in its natural habitat in South Africa.
+
+#### 📝 Prompt
+
+```
+Ultra-realistic close-up scene of a whale in Hermanus, Western Cape, South Africa.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069628026879348736/img/C6vuzUEB3K9HNoiB.jpg" width="600" alt="Ultra Realistic Whale Close-up in Hermanus">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6434)**
+
+**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2069654250263917021) | **Published:** Jun 24, 2026
+
+---
+### Grok-imagine 1.5 Digital Human Video Script
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed prompt for generating a digital human video with a host talking to the camera, featuring an animated fire background and a specific relationship-themed monologue.
+
+#### 📝 Prompt
+
+```
+Foreground: The host looks at the camera and starts with a hook.
+Background animation: A ball of fire starts burning from the words "First Cohabitation" and slowly gets smaller.
+She says (66 characters):
+"Why is it that many people lose their spark after living together? It's not that he suddenly turns cold, but that the first cohabitation often burns up more than half of a person's imagination, initiative, and passion for an intimate relationship."
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069642383088562176/img/eo2NBUhWqy0L72th.jpg" width="600" alt="Grok-imagine 1.5 Digital Human Video Script">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6437)**
+
+**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2069642495282057518) | **Published:** Jun 24, 2026
+
+---
 ### Haunted Painting Reality Window
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1806,11 +1885,11 @@ In this dark bedroom scene, only the lion inside the large ornate black frame ha
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2067598831827484846) | **Published:** Jun 18, 2026
 
 ---
-### Twilight Rooftop Garden in Japan
+### Twilight Japan Rooftop Garden
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt for a peaceful rooftop garden in Japan during twilight, featuring warm city lights and a starry sky.
+> A highly detailed atmospheric prompt for generating a video of a quiet rooftop garden in Japan during twilight.
 
 #### 📝 Prompt
 
@@ -1818,7 +1897,7 @@ In this dark bedroom scene, only the lion inside the large ornate black frame ha
 Twilight in Japan, warm city lights below, a quiet rooftop garden above, and a sky painted with stars.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067593205680586752/img/rswrSoM2iHi1oZ8Y.jpg" width="600" alt="Twilight Rooftop Garden in Japan">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067593205680586752/img/rswrSoM2iHi1oZ8Y.jpg" width="600" alt="Twilight Japan Rooftop Garden">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6319)**
 
@@ -2056,94 +2135,6 @@ Masterpiece, best quality, ultra-detailed cinematic digital painting of a massiv
 **Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067323749532316148) | **Published:** Jun 17, 2026
 
 ---
-### Smoky Bar Entry Shot
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt using start and end frame references to show characters entering a smoke-filled bar.
-
-#### 📝 Prompt
-
-```
-start with image @image1 and end with @image2 as the men walk through an open door into a smoke filled bar, cinematic moment. No music. No speaking.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/250a2e8d261b1b2527f8abda3bea4351/thumbnails/thumbnail.jpg" width="600" alt="Smoky Bar Entry Shot">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6170)**
-
-**Author:** [Jennifer 🇺🇸 🦅](https://x.com/Jenny_MommaLion) | **Source:** [Link](https://x.com/Jenny_MommaLion/status/2067298333295862106) | **Published:** Jun 17, 2026
-
----
-### Cinematic Martial Arts Combat Sequence
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A comprehensive action prompt for a 6-second video showing a martial arts fighter performing complex maneuvers with dynamic camera angles and realistic physics.
-
-#### 📝 Prompt
-
-```
-Masterpiece quality, 6-second video of a highly skilled fighter traversing rough terrain while engaged in a brutal, high-intensity fight. The character performs fast, powerful martial arts combos including spinning kicks, flying knees, aerial flips, wall runs, and savage takedowns. Strong realistic physics with heavy impact and momentum. Dynamic camera work with tracking shots, circling camera, and dramatic low angles. Cinematic lighting, sharp motion clarity, intense and raw action, no cuts, smooth and powerful choreography, best quality, 6-second video.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f7f265442f781b2993abd2a68b8b9041/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Martial Arts Combat Sequence">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6169)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067298200520896673) | **Published:** Jun 17, 2026
-
----
-### Excited Japanese Announcement Lip-Sync
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A prompt for realistic lip-syncing in Japanese with natural excitement, hand gestures, and hair movement.
-
-#### 📝 Prompt
-
-```
-Natural excited Japanese, clear voice, perfect lip-sync. Light hand gestures, hair swaying. "Everyone! xAI has released Grok Imagine Video 1.5! Image-to-video generation has evolved significantly. Voice and lip-sync are perfectly synchronized, and physics calculations have improved realistically. Generation speed has become twice as fast, and it can be made in about 25 seconds."
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067236538212331520/img/TpprEy-FXWKCbcIA.jpg" width="600" alt="Excited Japanese Announcement Lip-Sync">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6173)**
-
-**Author:** [右よし左よし秋よし@AIエンタメ](https://x.com/akiyoshisan) | **Source:** [Link](https://x.com/akiyoshisan/status/2067236929989423431) | **Published:** Jun 17, 2026
-
----
-### Cinematic Dragon Flight Animation
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A detailed cinematic prompt for Grok Imagine 1.5 to animate a reference image into a high-speed dragon flight scene with realistic fire and physics, inspired by Game of Thrones.
-
-#### 📝 Prompt
-
-```
-Faithfully animate this reference image into a breathtaking cinematic 10-12 second video in the exact visual style of HBO Game of Thrones and House of the Dragon epic dragon sequences. Maintain perfect consistency with the reference image — Daenerys' appearance, Drogon's anatomy, scales, wing structure, and initial lighting.
-
-Drogon flies at high speed low over King's Landing rooftops with powerful, realistic wing flaps and body undulation. Massive turbulent fire breath erupts from its jaws, flames reacting dynamically to wind and movement with realistic fluid physics, glowing embers flying backward, intense heat distortion and light bloom. Fire dramatically illuminates the ancient stone buildings and Red Keep from below with shifting warm highlights and deep shadows.
-
-Daenerys leans forward with commanding posture, her silver hair and heavy cloak whipping violently in the high-speed wind with realistic fabric dynamics and inertia. Subtle sparks and ash particles in the air.
-
-Camera: Dynamic low-angle cinematic tracking shot that follows Drogon from a slightly behind and side position, moving at high speed with the dragon. The camera subtly rises and banks with the dragon's movement, creating a powerful sense of speed, scale and immersion. Sweeping, fluid camera motion with slight handheld energy mixed with controlled cinematic precision.
-
-Physics: Highly realistic dragon wing membrane flexing and catching the wind, individual wing fingers moving naturally, heavy cloak and hair with authentic weight and turbulence, fire behaving with real fluid dynamics and interaction with air movement.
-
-Lighting & atmosphere: Dragon fire provides the primary moving light source, dramatically lighting the city architecture from below. Volumetric smoke, embers and heat haze. Epic atmospheric depth with slight haze over the city.
-
-Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoosh of intense fire, strong wind rush, and distant city ambience with natural reverb. Photorealistic rendering, coherent motion, intricate detail, no artifacts, shot with ARRI Alexa-level fidelity. Masterpiece, maximum epic scale, speed, and cinematic impact.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f64e6d9a9c5cdd32cb8c73cac1e521fc/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Dragon Flight Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6172)**
-
-**Author:** [AYi](https://x.com/AYi_AInotes) | **Source:** [Link](https://x.com/AYi_AInotes/status/2067227900399562775) | **Published:** Jun 17, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2205,6 +2196,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-24T21:44:06.201Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-25T11:04:28.447Z</sub>
 
 </div>
