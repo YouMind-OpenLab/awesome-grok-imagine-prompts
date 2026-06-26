@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1956** |
+| 📝 Total Prompts | **1967** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-26** |
 
@@ -189,6 +189,199 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### นางเงือกและแมวนางเงือกในโลกแฟนตาซีใต้ทะเล
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโออันเงียบสงบของนางเงือกและแมวนางเงือกที่กำลังว่ายน้ำด้วยกันในมหาสมุทรสีคราม โดยมีวาฬยักษ์คอยเฝ้ามอง
+
+#### 📝 Prompt
+
+```
+🌊🐋 ภายใต้ผืนน้ำสีครามอันกว้างใหญ่ นางเงือกและแมวนางเงือกเพื่อนรักกำลังว่ายน้ำเคียงข้างกันภายใต้การดูแลของวาฬยักษ์ผู้ใจดี
+
+โลกที่มิตรภาพไร้พรมแดน…
+มีเพียงเสียงของมหาสมุทรและมนต์เสน่ห์แห่งจินตนาการเท่านั้น ✨
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070262422682898432/img/IQ76u5RSXEZJqet9.jpg" width="600" alt="นางเงือกและแมวนางเงือกในโลกแฟนตาซีใต้ทะเล">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6478)**
+
+**Author:** [猫神MT](https://x.com/nekogami_MT) | **Source:** [Link](https://x.com/nekogami_MT/status/2070262480039997474) | **Published:** Jun 25, 2026
+
+---
+### ฉากกระโดดมอเตอร์ไซค์สุดระทึกในอุโมงค์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์แนวภาพยนตร์แอ็กชันเข้มข้น เผยให้เห็นนักบิดที่พุ่งทะยานออกจากพื้นคอนกรีตที่แตกหักภายในอุโมงค์มืดมิด พร้อมประกายไฟที่กระเด็นออกมา
+
+#### 📝 Prompt
+
+```
+อุโมงค์แห่งนี้ไม่เคยปรานีต่อความลังเล เขาพุ่งทะยานออกจากพื้นคอนกรีตที่แตกหักราวกับว่ากฎฟิสิกส์เป็นเพียงแค่ข้อเสนอแนะ ประกายไฟกระเด็นว่อน เสียงเครื่องยนต์คำรามกึกก้อง และในช่วงเวลาหนึ่งวินาทีที่สมบูรณ์แบบ เขากำลังลอยละลิ่วผ่านความมืดมิดโดยมีเพียงเจตจำนงและแรงส่งที่ประคองเขาไว้กลางอากาศ ผู้คนมากมายต่างวิ่งหนีจากเงามืด แต่ชายคนนี้เลือกที่จะขี่มอเตอร์ไซค์พุ่งทะลุผ่านมันไป
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069995864765120512/img/Da81kGoY505pVtB8.jpg" width="600" alt="ฉากกระโดดมอเตอร์ไซค์สุดระทึกในอุโมงค์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6486)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2070243131253989767) | **Published:** Jun 25, 2026
+
+---
+### ม่านแห่งสรวงสวรรค์และดวงดาวที่ถูกลืม
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่งเชิงกวีสำหรับการสร้างวิดีโอฉากลึกลับของแสงดาวที่ปรากฏออกมาจากม่านแห่งจักรวาล
+
+#### 📝 Prompt
+
+```
+จากเงามืดแห่งนิรันดร์กาล ข้าปลุกเร้าผืนผ้าแห่งการถักทอ เมื่อม่านแยกออก จงยลโฉมแสงแห่งดวงดาวที่ถูกลืม
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070240737728528384/img/5-6YWwqCjfFiH52L.jpg" width="600" alt="ม่านแห่งสรวงสวรรค์และดวงดาวที่ถูกลืม">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6480)**
+
+**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2070240789201109025) | **Published:** Jun 25, 2026
+
+---
+### การบรรยายฉากประตูมิติแฟนตาซี
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำบรรยายสำหรับวิดีโอที่แสดงตัวละครก้าวผ่านประตูมิติที่ส่องประกายเข้าไปในห้องของเล่นสุดมหัศจรรย์
+
+#### 📝 Prompt
+
+```
+Elena ก้าวผ่านประตูมิติที่ส่องประกายเข้าไปใน Playroom อันกว้างใหญ่ เธอหันมองไปรอบๆ ด้วยความสนใจและความตื่นเต้นอย่างเห็นได้ชัด Krampus ผายมือต้อนรับกลุ่มคนด้วยท่าทางที่เป็นมิตร Holly กระโดดเข้ามาข้างหน้าด้วยรอยยิ้มสดใส พร้อมกับคล้องแขนอย่างขี้เล่น
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070235831818756096/img/dFvaEDOD_8Hhk_SD.jpg" width="600" alt="การบรรยายฉากประตูมิติแฟนตาซี">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6479)**
+
+**Author:** [Chronicles of Petecastic](https://x.com/MrPetecastic) | **Source:** [Link](https://x.com/MrPetecastic/status/2070235889586889042) | **Published:** Jun 25, 2026
+
+---
+### ดราม่าคู่รักอารมณ์เดือด
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวอารมณ์ที่เน้นการแสดงออกทางสีหน้าแบบละเอียดและดราม่าสไตล์อินดี้ระหว่างคู่รัก
+
+#### 📝 Prompt
+
+```
+สร้างฉากอารมณ์ของคู่รักที่กำลังโกรธเคือง มีบทสนทนาสั้นๆ ที่กระแทกใจ เน้นการแสดงออกทางสีหน้าแบบละเอียดที่เหมาะสม ใช้การปรับโทนสีแบบอบอุ่นพร้อมไฟหลักและไฟเสริม รวมถึงการใช้เลนส์แบบ Anamorphic โดยไม่มีข้อความบนหน้าจอ เน้นความซับซ้อนทางอารมณ์แต่ดูนุ่มนวลด้วยมุมกล้องที่เหมาะสม เป็นคู่รักชาวอเมริกันวัยหนุ่มสาวในสไตล์ดราม่าภาพยนตร์อินดี้ ที่ถ่ายทอดความโกรธและการเว้นจังหวะอารมณ์ได้อย่างครบถ้วน
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070218111413035009/img/K5v2YoeYSUocr6rw.jpg" width="600" alt="ดราม่าคู่รักอารมณ์เดือด">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6482)**
+
+**Author:** [Kiri](https://x.com/Kyrannio) | **Source:** [Link](https://x.com/Kyrannio/status/2070218164609405380) | **Published:** Jun 25, 2026
+
+---
+### สิ่งมีชีวิตจากสรวงสวรรค์ถักทอหมู่ดาว
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์สุดจินตนาการที่แสดงภาพสิ่งมีชีวิตลึกลับกำลังถักทอดวงดาวด้วยเส้นใยแห่งแสง
+
+#### 📝 Prompt
+
+```
+สิ่งมีชีวิตจากสรวงสวรรค์กำลังค่อย ๆ ถักทอหมู่ดาวเข้าด้วยกันด้วยเส้นใยแห่งแสง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070204889674760192/img/h9MGPkeZh7Lae6zN.jpg" width="600" alt="สิ่งมีชีวิตจากสรวงสวรรค์ถักทอหมู่ดาว">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6485)**
+
+**Author:** [Maer](https://x.com/Maer4real) | **Source:** [Link](https://x.com/Maer4real/status/2070204948281737574) | **Published:** Jun 25, 2026
+
+---
+### นางฟ้ากับแมวช่างสงสัย
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวภาพยนตร์สุดอบอุ่นหัวใจ ที่นำเสนอเรื่องราวของแมวช่างสงสัยกับนางฟ้า โดยเน้นไปที่การจัดแสงและรายละเอียดของพื้นผิว
+
+#### 📝 Prompt
+
+```
+สิ่งล่อใจที่หอมหวานที่สุด แม้แต่นางฟ้าก็ยังห้ามใจแมวช่างสงสัยไม่ได้... ขนนกเพียงหนึ่งเส้น กับใบหน้าเล็กๆ ที่จริงจังสุดๆ ก่อให้เกิดเป็นช่วงเวลาที่น่าจดจำ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070145797845651456/img/FL07IBEA8pSaJAj7.jpg" width="600" alt="นางฟ้ากับแมวช่างสงสัย">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6488)**
+
+**Author:** [猫神MT](https://x.com/nekogami_MT) | **Source:** [Link](https://x.com/nekogami_MT/status/2070145869404614826) | **Published:** Jun 25, 2026
+
+---
+### เทพีแห่งไฟผู้ผงาดจากลาวา
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวภาพยนตร์สำหรับเทพีแห่งไฟที่กำลังปรากฏตัวจากลาวาหลอมละลายภายใต้ท้องฟ้ายามค่ำคืนที่เต็มไปด้วยดวงดาว
+
+#### 📝 Prompt
+
+```
+สร้างภาพเทพีแห่งไฟที่ค่อย ๆ ผงาดขึ้นมาจากลาวาที่ลุกโชน เธอไม่ใช่เทพีใจร้าย ดังนั้นดวงตาของเธอจึงดูเป็นปกติ ร่างกายของเธอประกอบขึ้นจากเปลวไฟทั้งหมด และมีฉากหลังเป็นท้องฟ้ายามค่ำคืนที่มีดวงดาวและสายฟ้า
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070059497469644800/img/RV29vFQTGszbVWDn.jpg" width="600" alt="เทพีแห่งไฟผู้ผงาดจากลาวา">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6481)**
+
+**Author:** [Lynn Hocker](https://x.com/Auroraskye3993) | **Source:** [Link](https://x.com/Auroraskye3993/status/2070059787602317621) | **Published:** Jun 25, 2026
+
+---
+### แอนิเมชันผู้หญิงยิ้มและโบกมือ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับการสร้างวิดีโอที่แสดงภาพผู้หญิงกำลังยิ้มและโบกมือด้วยการเคลื่อนไหวที่เป็นธรรมชาติ พร้อมเอฟเฟกต์สายลมพัดเบาๆ
+
+#### 📝 Prompt
+
+```
+เธอเผยรอยยิ้มที่อบอุ่นและจริงใจ พร้อมยกมือขึ้นโบกทักทายกล้องอย่างเป็นมิตร โดยมีเส้นผมและผ้าคลุมไหล่พริ้วไหวเล็กน้อยตามสายลมที่พัดผ่าน การเคลื่อนไหวที่นุ่มนวลและเป็นธรรมชาติ มาพร้อมแสงกลางวันแบบซอฟต์และฉากหลังเป็นผนังอิฐเหมือนเดิม
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070058371399798784/img/tAIcikHFdaJgOUit.jpg" width="600" alt="แอนิเมชันผู้หญิงยิ้มและโบกมือ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6483)**
+
+**Author:** [grok_imagine_free_user](https://x.com/FreeGrokUser) | **Source:** [Link](https://x.com/FreeGrokUser/status/2070058384959983811) | **Published:** Jun 25, 2026
+
+---
+### แอนิเมชันเปลี่ยนรูปร่างจากเนบิวลาเป็นกุ้งค็อกเทล
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สร้างสรรค์สำหรับการเปลี่ยนรูปร่าง (Morphing) ที่เปลี่ยนเนบิวลาในอวกาศให้กลายเป็นกุ้งค็อกเทลโดยใช้องค์ประกอบทางภาพที่สอดคล้องกัน
+
+#### 📝 Prompt
+
+```
+ให้กาแล็กซี/เนบิวลาค่อย ๆ หมุนจนกระทั่งเปลี่ยนรูปร่างกลายเป็นกุ้งค็อกเทลตัวใหญ่ โดยใช้ส่วนที่เป็นสีชมพูคล้ายกุ้งของเนบิวลาเองในการเปลี่ยนรูปร่างไปเป็นกุ้งค็อกเทล
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070054724389466112/img/M8GyF-NPtJUrq5KO.jpg" width="600" alt="แอนิเมชันเปลี่ยนรูปร่างจากเนบิวลาเป็นกุ้งค็อกเทล">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6484)**
+
+**Author:** [Lynn Hocker](https://x.com/Auroraskye3993) | **Source:** [Link](https://x.com/Auroraskye3993/status/2070054843604181021) | **Published:** Jun 25, 2026
+
+---
 ### นักประดิษฐ์ควอนตัมในทะเลทรายโซโนรา
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1448,6 +1641,25 @@ Masterpiece, best quality, ultra-detailed fantasy concept art ของนัก
 **Author:** [Ashok Kumar Panda](https://x.com/ashok_sr_adv) | **Source:** [Link](https://x.com/ashok_sr_adv/status/2068005598046892078) | **Published:** Jun 19, 2026
 
 ---
+### กระท่อมริมทะเลสไตล์จิบลิ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ฉากกระท่อมริมทะเลญี่ปุ่นยามโพล้เพล้ที่เปี่ยมไปด้วยความรู้สึกโหยหาและมีเสน่ห์ ในสไตล์อนิเมะอันเป็นเอกลักษณ์ของ Studio Ghibli
+
+#### 📝 Prompt
+
+```
+กระท่อมริมทะเลญี่ปุ่นที่มีเสน่ห์ในช่วงยามโพล้เพล้ แสงไฟอุ่น ๆ ส่องสว่างจากหน้าต่าง มองเห็นคลื่นทะเลเบา ๆ เลยจากระเบียงออกไป ท้องฟ้าเต็มไปด้วยดวงดาวสะท้อนบนผืนน้ำ ให้ความรู้สึกสงบและชวนให้คิดถึงวันวาน ในสไตล์ Studio Ghibli เป็นฉากอนิเมะที่ดูเหมือนภาพยนตร์
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067972919108759552/img/aHHwvenDdcGGk6d4.jpg" width="600" alt="กระท่อมริมทะเลสไตล์จิบลิ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6487)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2067973035446112683) | **Published:** Jun 19, 2026
+
+---
 ### แอนิเมชันเด็กถูก UFO ลักพาตัว
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1923,218 +2135,6 @@ Elon Musk ในลุคฮิปฮอปแก๊งสเตอร์ ใส
 **Author:** [淼儿](https://x.com/tasakimori) | **Source:** [Link](https://x.com/tasakimori/status/2067589992281674195) | **Published:** Jun 18, 2026
 
 ---
-### พรอมต์ Soft Pink Roses Dreamer
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวโรแมนติกและนุ่มนวล ที่มีดอกกุหลาบสีชมพูและแสงสว่างชวนฝันล้อมรอบนักฝัน
-
-#### 📝 Prompt
-
-```
-ดอกกุหลาบสีชมพูอ่อนที่กำลังผลิบานรอบตัวนักฝันผู้อ่อนโยน... เสียงกระซิบอันแผ่วเบาที่โอบล้อมไปด้วยกลีบดอกไม้และแสงสว่างชวนฝัน
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067564271375134720/img/Kaj3_BjTZTb4EG6a.jpg" width="600" alt="พรอมต์ Soft Pink Roses Dreamer">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6322)**
-
-**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2067564344557420569) | **Published:** Jun 18, 2026
-
----
-### สิงโตจิบกาแฟ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์สุดสร้างสรรค์ที่ถ่ายทอดภาพสิงโตแสนสงบกำลังครุ่นคิดถึงชีวิตขณะจิบกาแฟ
-
-#### 📝 Prompt
-
-```
-กาแฟเพียงหนึ่งแก้วเล็ก ๆ ก็ทำให้สิงโตตัวนี้เลิกคำรามใส่โลกไปเลย... เขาแค่กำลังนั่งจิบกาแฟและครุ่นคิดถึงชีวิตเหมือนกับพวกเราทุกคน อรุณสวัสดิ์ ☕️🦁
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4eccf91fa142bb03ff977749eee6f9ae/thumbnails/thumbnail.jpg" width="600" alt="สิงโตจิบกาแฟ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6201)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2067548190778216759) | **Published:** Jun 18, 2026
-
----
-### จิบกาแฟยามเช้ากับเจ้าสิงโต
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์สุดสร้างสรรค์สำหรับ Grok Imagine ที่นำเสนอภาพสิงโตมาดเข้มในบรรยากาศการจิบกาแฟยามเช้า
-
-#### 📝 Prompt
-
-```
-นี่คือวิธีที่เราตื่นนอน ☕ ทั้งกาแฟ ความวุ่นวาย เสียงคำราม และมุกตลก อรุณสวัสดิ์จากฉันและเจ้าสิงโตจอมดราม่าของฉัน 🦁
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/46b53cf185e14a15977bb2aff2c90ad2/thumbnails/thumbnail.jpg" width="600" alt="จิบกาแฟยามเช้ากับเจ้าสิงโต">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6194)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2067543441685282900) | **Published:** Jun 18, 2026
-
----
-### มอเตอร์ไซค์ยกล้อพร้อมเปลวไฟออกจากท่อไอเสีย
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์สำหรับมอเตอร์ไซค์ที่กำลังสตาร์ทเครื่อง พ่นไฟ และยกล้อบนท้องถนนโดยมีเปลวไฟพุ่งออกมาจากท่อไอเสีย
-
-#### 📝 Prompt
-
-```
-ตอนนี้สตาร์ทมอเตอร์ไซค์แล้วพ่นไฟออกจากท่อไอเสีย จากนั้นขับออกไปบนถนนเป็นเวลาสิบวินาทีแล้วยกล้อโดยที่มีฉันซ้อนท้ายอยู่ พร้อมกับมีเปลวไฟพุ่งออกมาจากท่อไอเสีย
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cc6da1857b761b8a7c7410d431f54bc8/thumbnails/thumbnail.jpg" width="600" alt="มอเตอร์ไซค์ยกล้อพร้อมเปลวไฟออกจากท่อไอเสีย">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6211)**
-
-**Author:** [James Parker](https://x.com/JamesPa71114225) | **Source:** [Link](https://x.com/JamesPa71114225/status/2067483309567799473) | **Published:** Jun 18, 2026
-
----
-### การขยายท้องฟ้าเหนือภูเขาและน้ำตก
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่งสร้างวิดีโอสำหรับ Grok Imagine ที่ช่วยปรับแต่งภาพอ้างอิงเพื่อขยายพื้นที่ท้องฟ้าและเพิ่มบรรยากาศที่น่าตื่นตาตื่นใจ โดยยังคงรักษาภาพวัตถุหลักในส่วนหน้าไว้
-
-#### 📝 Prompt
-
-```
-ปรับองค์ประกอบพื้นหลังของภาพอ้างอิงให้เห็นท้องฟ้ากว้างขึ้นอย่างเห็นได้ชัด: ขยายส่วนบนของเฟรมให้เป็นท้องฟ้าที่ดูน่าตื่นตาตื่นใจและกว้างใหญ่เหนือภูเขาและน้ำตกที่ไหลลงมา โดยยังคงรักษาภาพผู้หญิงที่อยู่ในส่วนหน้าของภาพไว้...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0f304e99365084c575e53794df11d167/thumbnails/thumbnail.jpg" width="600" alt="การขยายท้องฟ้าเหนือภูเขาและน้ำตก">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6192)**
-
-**Author:** [Christine Savard](https://x.com/christinesavard) | **Source:** [Link](https://x.com/christinesavard/status/2067464489629618651) | **Published:** Jun 18, 2026
-
----
-### ฉลอง Elon Musk มหาเศรษฐีล้านล้านคนแรกกับ SpaceX
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> เปลี่ยนภาพถ่ายงานอีเวนต์ให้กลายเป็นวิดีโอเฉลิมฉลองสุดยิ่งใหญ่ พร้อมข้อความแสดงความยินดีที่ Elon Musk กลายเป็นมหาเศรษฐีล้านล้านและข่าวการทำ IPO ของ SpaceX
-
-#### 📝 Prompt
-
-```
-เปลี่ยนภาพถ่ายงานอีเวนต์ของ @elonmusk และ @SpaceX นี้ให้กลายเป็นฉากการเฉลิมฉลองสุดยิ่งใหญ่ โดยให้ Elon Musk และทีมงานอยู่ด้านหน้าบนโพเดียมของ @Nasdaq พร้อมโลโก้ @SpaceX ที่โดดเด่น เพิ่มข้อความตัวหนาสไตล์หรูหราที่ส่วนบนและส่วนล่างของภาพ:
-
-ขอแสดงความยินดีกับ #ElonMusk ผู้ก่อตั้งและซีอีโอของ #SpaceX (#SPCX) ที่ได้กลายเป็นมหาเศรษฐีล้านล้านคนแรกของโลก และสำหรับการสร้าง #Starship เพื่อพามนุษยชาติไปสู่ดาวอังคาร!
-ความสำเร็จครั้งสำคัญนี้ ซึ่งขับเคลื่อนโดยการทำ #SpaceXIPO ที่เป็นจุดเปลี่ยนครั้งยิ่งใหญ่ ถือเป็นก้าวสำคัญในการทลายขีดจำกัดของนวัตกรรมและการสำรวจ ขอต้อนรับสู่อนาคตของการใช้ชีวิตบนดาวเคราะห์หลายดวง! 🚀🪐 #JehovahElElyon12282009
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d65d08f5c142b7267b5a9c1acfcd5421/thumbnails/thumbnail.jpg" width="600" alt="ฉลอง Elon Musk มหาเศรษฐีล้านล้านคนแรกกับ SpaceX">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6203)**
-
-**Author:** [Lillene Christy Ebanks](https://x.com/ChristyEbanks28) | **Source:** [Link](https://x.com/ChristyEbanks28/status/2067454311978676230) | **Published:** Jun 18, 2026
-
----
-### ฉากดาวอังคารจาก Stranger in a Strange Land
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์เชิงบรรยายที่ถ่ายทอดเหตุการณ์การสำรวจดาวอังคารครั้งแรก และการเติบโตของ Valentine Michael Smith
-
-#### 📝 Prompt
-
-```
-เริ่มต้นที่จุดเริ่มต้นของ Stranger in a Strange Land: บรรยายเหตุการณ์การสำรวจดาวอังคารครั้งแรก การกำเนิดและการเติบโตบนดาวอังคารของ Valentine Michael Smith (ชายหนุ่มในชุดคลุม) โดยมีชายสูงวัยในบท Jubal และพยาบาลสาวผมบลอนด์กำลังตั้งใจฟังอยู่ที่ริมสระน้ำ...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/40169451cc915cf798e08455520bfc62/thumbnails/thumbnail.jpg" width="600" alt="ฉากดาวอังคารจาก Stranger in a Strange Land">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6207)**
-
-**Author:** [Timothy Norman](https://x.com/Timothy01775634) | **Source:** [Link](https://x.com/Timothy01775634/status/2067442256563359991) | **Published:** Jun 18, 2026
-
----
-### ฉากตลกมนุษย์ต่างดาวและ UFO
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวตลกขบขันเกี่ยวกับ UFO ที่กำลังลงจอดและมนุษย์ต่างดาวที่กำลังเล่ามุกตลก
-
-#### 📝 Prompt
-
-```
-ในป่ามืดมิดมี UFO ปรากฏขึ้นพร้อมแสงสว่างจ้าส่องลงมา จากนั้นมนุษย์ต่างดาวก็ปรากฏตัวขึ้นแล้วพูดว่า แม่ของแกน่ะอ้วนจนดาวพฤหัสบดียังต้องโคจรรอบนางเลย!
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/17c60e6724e37542de67562383070a46/thumbnails/thumbnail.jpg" width="600" alt="ฉากตลกมนุษย์ต่างดาวและ UFO">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6197)**
-
-**Author:** [Eli Stewart](https://x.com/EliStew17092519) | **Source:** [Link](https://x.com/EliStew17092519/status/2067435312884719780) | **Published:** Jun 18, 2026
-
----
-### แคปซูลดรอปพอดแบบโคจรของ SpaceX Starship
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวไซไฟสำหรับสร้างภาพแคปซูลดรอปพอดสไตล์ SpaceX ที่บรรจุถังเสบียงและอุปกรณ์เทคโนโลยี
-
-#### 📝 Prompt
-
-```
-สร้างภาพแคปซูลดรอปพอดแบบโคจรที่เป็นแคปซูลขนาดเล็กสไตล์ SpaceX Starship ภายในบรรจุถังขนาด 55 แกลลอนหลากหลายรูปแบบ เช่น ถังที่บรรจุ Optimus พร้อมสิ่งของอื่นๆ, ถังอาหาร, ถังอุปกรณ์เทคโนโลยี, ถังเครื่องมือ, ถังเครื่องดื่ม, ถังอุปกรณ์ยังชีพ...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dfbe71700fa45224a1b47b796d4abbb5/thumbnails/thumbnail.jpg" width="600" alt="แคปซูลดรอปพอดแบบโคจรของ SpaceX Starship">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6209)**
-
-**Author:** [Internet James](https://x.com/iminternetjames) | **Source:** [Link](https://x.com/iminternetjames/status/2067426068445962242) | **Published:** Jun 18, 2026
-
----
-### นักบินอวกาศกำลังทำงานกับจรวดบนดาวเคราะห์น้อย
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์แนวภาพยนตร์ของนักบินอวกาศบนดาวเคราะห์น้อยขนาดจิ๋วที่กำลังพยายามใช้เครื่องยนต์จรวดเพื่อขับเคลื่อน
-
-#### 📝 Prompt
-
-```
-ชายในชุดอวกาศกำลังยืนอยู่บนดาวเคราะห์น้อยที่มีเส้นผ่านศูนย์กลางเพียง 10 ฟุต เขากำลังทำงานกับเครื่องยนต์จรวดที่กลับหัวอยู่ โดยให้แรงขับพุ่งออกจากตัวดาวเคราะห์น้อยและชี้ลงไปที่ดาวเคราะห์น้อยโดยตรง สิ่งนี้ทำให้ดาวเคราะห์น้อยกลายเป็น...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/190f7047cf776146400d8cced4642421/thumbnails/thumbnail.jpg" width="600" alt="นักบินอวกาศกำลังทำงานกับจรวดบนดาวเคราะห์น้อย">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6205)**
-
-**Author:** [Bill Christensen](https://x.com/Technovelgy) | **Source:** [Link](https://x.com/Technovelgy/status/2067414916328251621) | **Published:** Jun 18, 2026
-
----
-### เรือพระราชวังจีนลอยฟ้า
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) อย่างละเอียดสำหรับการสร้างวิดีโอคุณภาพสูงของพระราชวังจีนที่ลอยอยู่บนฟ้าในรูปแบบเรือโบราณท่ามกลางหมู่เมฆ
-
-#### 📝 Prompt
-
-```
-ผลงานระดับมาสเตอร์พีซ คุณภาพดีที่สุด ภาพวาดดิจิทัลแนวภาพยนตร์ที่มีรายละเอียดสูงของพระราชวังจีนขนาดมหึมาที่สร้างขึ้นในรูปแบบเรือโบราณอันยิ่งใหญ่ ลอยละล่องอยู่ท่ามกลางหมู่เมฆ โครงสร้างประกอบด้วยชั้นอาคารที่วิจิตรบรรจงหลายชั้นตามสถาปัตยกรรมจีนดั้งเดิม ตกแต่งด้วยรายละเอียดสีทอง โคมไฟสีแดง และงานไม้ที่ประณีต ล้อมรอบด้วยกลุ่มเมฆที่ดูน่าเกรงขามและภูเขาหินที่ลอยอยู่ภายใต้ท้องฟ้าสดใสที่มีแสงอาทิตย์ส่องผ่าน สเกลภาพแบบมหากาพย์ บรรยากาศที่ดูสง่างามและลึกลับด้วยแสงอาทิตย์ที่ส่องลงมา (god rays) และละอองลอย สถาปัตยกรรม เมฆ และแสงมีความละเอียดสูง ที่มุมซ้ายล่าง ให้เพิ่มลายเซ็นเล็กๆ ที่ดูสง่างามว่า 'Kisalay' ในรูปแบบตัวเขียนพู่กันที่ประณีต ห้ามมีข้อความหรือลายน้ำอื่นใด องค์ประกอบภาพแบบภาพยนตร์ สีสันสดใสแต่ยังคงความสง่างาม คุณภาพดีที่สุด ความละเอียด 8K
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4e591b16cafcb840fda94b6448589caa/thumbnails/thumbnail.jpg" width="600" alt="เรือพระราชวังจีนลอยฟ้า">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6171)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067323749532316148) | **Published:** Jun 17, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2196,6 +2196,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-26T04:31:31.835Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-26T11:11:55.032Z</sub>
 
 </div>

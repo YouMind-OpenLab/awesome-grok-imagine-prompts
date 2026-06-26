@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **1956** |
+| 📝 提示词总数 | **1967** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-06-26** |
 
@@ -189,6 +189,199 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 美人鱼与猫咪美人鱼的水下奇幻世界
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段宁静的视频，展现了美人鱼和猫咪美人鱼在深蓝海洋中并肩畅游，身旁还有一头巨鲸相伴。
+
+#### 📝 提示词
+
+```
+🌊🐋 在无尽的蔚蓝深处，美人鱼与她的猫咪美人鱼伙伴并肩游弋，温顺的巨鲸在旁静静守护。
+
+这是一个友谊跨越界限的世界……
+唯有海洋的低语与想象力的魔法。 ✨
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070262422682898432/img/IQ76u5RSXEZJqet9.jpg" width="600" alt="美人鱼与猫咪美人鱼的水下奇幻世界">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6478)**
+
+**作者:** [猫神MT](https://x.com/nekogami_MT) | **来源:** [Link](https://x.com/nekogami_MT/status/2070262480039997474) | **发布时间:** Jun 25, 2026
+
+---
+### 电影感摩托车隧道飞跃
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个高动作电影感提示词，描绘了一名摩托车手在黑暗隧道中从破碎的混凝土路面上飞跃而起，火花四溅的场景。
+
+#### 📝 提示词
+
+```
+隧道从不原谅犹豫。他从破碎的混凝土路面上腾空而起，仿佛物理定律对他而言仅仅是个建议。火花四溅，引擎轰鸣。在那完美的一秒钟里，他穿梭于黑暗之中，唯有意志与惯性支撑着他在空中飞驰。有些人选择逃离阴影，而他，选择径直穿过。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069995864765120512/img/Da81kGoY505pVtB8.jpg" width="600" alt="电影感摩托车隧道飞跃">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6486)**
+
+**作者:** [⭕Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2070243131253989767) | **发布时间:** Jun 25, 2026
+
+---
+### 天穹之纱与遗忘之星
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个充满诗意的提示词，用于生成星光从宇宙之纱中浮现的神秘视频场景。
+
+#### 📝 提示词
+
+```
+从永恒的阴影中，我唤醒了织物，面纱裂开，见证那遗忘之星的光芒
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070240737728528384/img/5-6YWwqCjfFiH52L.jpg" width="600" alt="天穹之纱与遗忘之星">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6480)**
+
+**作者:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **来源:** [Link](https://x.com/TLouisevsughan/status/2070240789201109025) | **发布时间:** Jun 25, 2026
+
+---
+### 奇幻传送门场景叙事
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段描述性叙事提示词，用于展示角色穿过闪烁的传送门进入魔法游戏室的视频。
+
+#### 📝 提示词
+
+```
+Elena 穿过闪烁的传送门，进入广阔的 Playroom，她环顾四周，眼中充满了好奇与兴奋。Krampus 张开双臂，向众人做出欢迎的姿态。Holly 脸上挂着灿烂的笑容向前蹦跳，俏皮地挽起手臂。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070235831818756096/img/dFvaEDOD_8Hhk_SD.jpg" width="600" alt="奇幻传送门场景叙事">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6479)**
+
+**作者:** [Chronicles of Petecastic](https://x.com/MrPetecastic) | **来源:** [Link](https://x.com/MrPetecastic/status/2070235889586889042) | **发布时间:** Jun 25, 2026
+
+---
+### 情绪激动的愤怒情侣剧情
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个侧重于微表情和独立电影风格情侣剧情的情感视频提示词。
+
+#### 📝 提示词
+
+```
+创作一个情绪激动的愤怒情侣场景，包含精简有力的对话，恰到好处的微妙微表情，采用暖色调分级，配合主补光灯和变形镜头，画面无文字。展现情感复杂但细腻的视角，主角为年轻的美国情侣，具有独立电影的戏剧感，通过愤怒和停顿展现丰富的情感层次。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070218111413035009/img/K5v2YoeYSUocr6rw.jpg" width="600" alt="情绪激动的愤怒情侣剧情">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6482)**
+
+**作者:** [Kiri](https://x.com/Kyrannio) | **来源:** [Link](https://x.com/Kyrannio/status/2070218164609405380) | **发布时间:** Jun 25, 2026
+
+---
+### 天界生物编织星座
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个充满想象力的视频提示词，描绘了神秘生物用光线编织星星的场景。
+
+#### 📝 提示词
+
+```
+天界生物正用光线缓慢地将星座编织在一起。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070204889674760192/img/h9MGPkeZh7Lae6zN.jpg" width="600" alt="天界生物编织星座">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6485)**
+
+**作者:** [Maer](https://x.com/Maer4real) | **来源:** [Link](https://x.com/Maer4real/status/2070204948281737574) | **发布时间:** Jun 25, 2026
+
+---
+### 天使与好奇猫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个温馨的电影感视频提示词，主角是一只好奇的猫和一位天使，重点展现光影与质感。
+
+#### 📝 提示词
+
+```
+最甜蜜的诱惑。即使是天使也无法阻挡一只好奇的猫…… 一片小小的羽毛，一张严肃的小脸，一个难忘的瞬间。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070145797845651456/img/FL07IBEA8pSaJAj7.jpg" width="600" alt="天使与好奇猫">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6488)**
+
+**作者:** [猫神MT](https://x.com/nekogami_MT) | **来源:** [Link](https://x.com/nekogami_MT/status/2070145869404614826) | **发布时间:** Jun 25, 2026
+
+---
+### 从熔岩中升起的火焰女神
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 电影级视频提示词：一位火焰女神在星空下从炽热的熔岩中缓缓升起。
+
+#### 📝 提示词
+
+```
+创作一位从炽热熔岩中缓缓升起的火焰女神。她并非邪恶的女神，因此她的双眼看起来很正常。她完全由火焰构成，背景是点缀着繁星与闪电的夜空。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070059497469644800/img/RV29vFQTGszbVWDn.jpg" width="600" alt="从熔岩中升起的火焰女神">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6481)**
+
+**作者:** [Lynn Hocker](https://x.com/Auroraskye3993) | **来源:** [Link](https://x.com/Auroraskye3993/status/2070059787602317621) | **发布时间:** Jun 25, 2026
+
+---
+### 女性微笑挥手动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个视频生成提示词，描绘了一位女性微笑并挥手的场景，动作自然，带有微风拂过的效果。
+
+#### 📝 提示词
+
+```
+她露出温暖而真诚的笑容，向镜头友好地挥手，头发和披肩在微风中轻轻飘动。动作轻柔自然；保持柔和的日光和砖墙背景。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070058371399798784/img/tAIcikHFdaJgOUit.jpg" width="600" alt="女性微笑挥手动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6483)**
+
+**作者:** [grok_imagine_free_user](https://x.com/FreeGrokUser) | **来源:** [Link](https://x.com/FreeGrokUser/status/2070058384959983811) | **发布时间:** Jun 25, 2026
+
+---
+### 星云变幻为虾的变形动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个极具创意的变形提示词，通过匹配视觉元素，将宇宙星云平滑过渡为一只鸡尾酒虾。
+
+#### 📝 提示词
+
+```
+让星系/星云缓慢旋转，直至变形为一只大鸡尾酒虾。利用星云本身呈现粉红色的虾状部分，将其变形为鸡尾酒虾。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070054724389466112/img/M8GyF-NPtJUrq5KO.jpg" width="600" alt="星云变幻为虾的变形动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6484)**
+
+**作者:** [Lynn Hocker](https://x.com/Auroraskye3993) | **来源:** [Link](https://x.com/Auroraskye3993/status/2070054843604181021) | **发布时间:** Jun 25, 2026
+
+---
 ### 索诺兰沙漠中的量子发明家
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1447,6 +1640,25 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **作者:** [Ashok Kumar Panda](https://x.com/ashok_sr_adv) | **来源:** [Link](https://x.com/ashok_sr_adv/status/2068005598046892078) | **发布时间:** Jun 19, 2026
 
 ---
+### 吉卜力风格海边小屋
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一幅充满怀旧与迷人气息的画面，展现了吉卜力工作室经典动画风格下，黄昏时分的日本海边小屋。
+
+#### 📝 提示词
+
+```
+黄昏时分迷人的日本海边小屋，窗户透出温暖的灯光，门廊外可见轻柔的海浪，星空倒映在水面上，营造出宁静而怀旧的氛围，吉卜力风格，电影级动画场景。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067972919108759552/img/aHHwvenDdcGGk6d4.jpg" width="600" alt="吉卜力风格海边小屋">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6487)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **来源:** [Link](https://x.com/MrDasOnX/status/2067973035446112683) | **发布时间:** Jun 19, 2026
+
+---
 ### 儿童被 UFO 劫持的动画
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1922,218 +2134,6 @@ Elon Musk 呈现嘻哈黑帮造型，戴着金牙套、酷炫墨镜，身穿黑�
 **作者:** [淼儿](https://x.com/tasakimori) | **来源:** [Link](https://x.com/tasakimori/status/2067589992281674195) | **发布时间:** Jun 18, 2026
 
 ---
-### 柔粉色玫瑰梦境提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个浪漫且柔和的视频提示词，展现了围绕在梦境者身边的粉色玫瑰与梦幻光影。
-
-#### 📝 提示词
-
-```
-柔粉色玫瑰在温柔的梦境者身边绽放……这是一声包裹在花瓣与梦幻光影中的轻柔低语。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067564271375134720/img/Kaj3_BjTZTb4EG6a.jpg" width="600" alt="柔粉色玫瑰梦境提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6322)**
-
-**作者:** [Stella 𝕏](https://x.com/StellaGrokStar) | **来源:** [Link](https://x.com/StellaGrokStar/status/2067564344557420569) | **发布时间:** Jun 18, 2026
-
----
-### 狮子喝咖啡
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个充满奇思妙想的视频提示词：一只宁静的狮子一边喝着咖啡，一边思考人生。
-
-#### 📝 提示词
-
-```
-一杯小小的咖啡，让狮子不再对世界咆哮……它只是像我们其他人一样，静静地喝着咖啡，思考着人生。早安 ☕️🦁
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4eccf91fa142bb03ff977749eee6f9ae/thumbnails/thumbnail.jpg" width="600" alt="狮子喝咖啡">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6201)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2067548190778216759) | **发布时间:** Jun 18, 2026
-
----
-### 与狮子共进晨间咖啡
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个为 Grok Imagine 设计的奇思妙想视频提示词，展现了一只在晨间咖啡场景中充满戏剧感的狮子。
-
-#### 📝 提示词
-
-```
-这就是我们的醒来方式 ☕ 咖啡、混乱、咆哮和笑话。我和我那充满戏剧感的狮子祝大家早安 🦁
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/46b53cf185e14a15977bb2aff2c90ad2/thumbnails/thumbnail.jpg" width="600" alt="与狮子共进晨间咖啡">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6194)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2067543441685282900) | **发布时间:** Jun 18, 2026
-
----
-### 摩托车喷火翘头行驶
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段关于摩托车启动、喷火并在道路上翘头行驶的视频提示词，排气管喷出火焰。
-
-#### 📝 提示词
-
-```
-现在启动摩托车，让排气管喷出火焰，然后回到路上行驶十秒钟，并带着我完成一次翘头动作，同时排气管持续喷出火焰。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cc6da1857b761b8a7c7410d431f54bc8/thumbnails/thumbnail.jpg" width="600" alt="摩托车喷火翘头行驶">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6211)**
-
-**作者:** [James Parker](https://x.com/JamesPa71114225) | **来源:** [Link](https://x.com/JamesPa71114225/status/2067483309567799473) | **发布时间:** Jun 18, 2026
-
----
-### 山间瀑布天空扩展
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是一个用于 Grok Imagine 的视频生成提示词，旨在修改参考图像，在保留前景主体的前提下扩展天空并增加戏剧性的氛围。
-
-#### 📝 提示词
-
-```
-修改参考图像的背景构图，以展示更多的天空：扩展画面上方区域，在山脉和层叠的瀑布上方呈现出更具戏剧性、更广阔的天空，同时保持前景中的女性形象不变...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0f304e99365084c575e53794df11d167/thumbnails/thumbnail.jpg" width="600" alt="山间瀑布天空扩展">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6192)**
-
-**作者:** [Christine Savard](https://x.com/christinesavard) | **来源:** [Link](https://x.com/christinesavard/status/2067464489629618651) | **发布时间:** Jun 18, 2026
-
----
-### Elon Musk SpaceX 万亿富翁庆典
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 将活动照片转化为一段史诗般的庆祝视频，内容包含关于 Elon Musk 成为万亿富翁及 SpaceX IPO 的祝贺文字。
-
-#### 📝 提示词
-
-```
-将这张 @elonmusk 和 @SpaceX 的庆祝活动照片转化为一段史诗般的祝贺场景。保持 Elon Musk 和团队在 @Nasdaq 讲台前方的画面，并突出显示 @SpaceX 标志。在画面上方和下方添加醒目且优雅的文字叠加：
-
-祝贺 #ElonMusk 成为 #SpaceX (#SPCX) 的创始人和 CEO，他成为了世界上首位万亿富翁，并打造了带领人类前往火星的 #Starship！
-这一里程碑由开创性的 #SpaceXIPO 推动，标志着在突破创新与探索边界方面取得了令人难以置信的成就。为多行星生存的未来干杯！🚀🪐 #JehovahElElyon12282009
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d65d08f5c142b7267b5a9c1acfcd5421/thumbnails/thumbnail.jpg" width="600" alt="Elon Musk SpaceX 万亿富翁庆典">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6203)**
-
-**作者:** [Lillene Christy Ebanks](https://x.com/ChristyEbanks28) | **来源:** [Link](https://x.com/ChristyEbanks28/status/2067454311978676230) | **发布时间:** Jun 18, 2026
-
----
-### 《异乡异客》火星场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段叙事视频提示词，描绘了首次火星探险以及 Valentine Michael Smith 的成长经历。
-
-#### 📝 提示词
-
-```
-从《异乡异客》的开篇开始：叙述首次火星探险，以及 Valentine Michael Smith（身穿长袍的年轻人）的出生和在火星上的成长过程。年长的 Jubal 和金发护士在池边专注地聆听……
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/40169451cc915cf798e08455520bfc62/thumbnails/thumbnail.jpg" width="600" alt="《异乡异客》火星场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6207)**
-
-**作者:** [Timothy Norman](https://x.com/Timothy01775634) | **来源:** [Link](https://x.com/Timothy01775634/status/2067442256563359991) | **发布时间:** Jun 18, 2026
-
----
-### 外星人 UFO 喜剧场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个幽默的视频提示词，内容涉及 UFO 着陆以及外星人讲笑话。
-
-#### 📝 提示词
-
-```
-在黑暗的森林中，一架 UFO 出现，一道强光照下，一个外星人现身并说道：你妈太胖了，木星都绕着她转！
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/17c60e6724e37542de67562383070a46/thumbnails/thumbnail.jpg" width="600" alt="外星人 UFO 喜剧场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6197)**
-
-**作者:** [Eli Stewart](https://x.com/EliStew17092519) | **来源:** [Link](https://x.com/EliStew17092519/status/2067435312884719780) | **发布时间:** Jun 18, 2026
-
----
-### SpaceX Starship 轨道投放舱
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个科幻视频提示词，用于生成包含生存物资和科技桶的 SpaceX 风格投放舱图像。
-
-#### 📝 提示词
-
-```
-生成轨道投放舱的图像，这些投放舱是迷你的 SpaceX Starship 投放舱，内部装有各种 55 加仑的桶，例如装有擎天柱（Optimus）及其他物品的桶、食品桶、科技桶、工具桶、饮料桶、生存物资桶等……
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dfbe71700fa45224a1b47b796d4abbb5/thumbnails/thumbnail.jpg" width="600" alt="SpaceX Starship 轨道投放舱">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6209)**
-
-**作者:** [Internet James](https://x.com/iminternetjames) | **来源:** [Link](https://x.com/iminternetjames/status/2067426068445962242) | **发布时间:** Jun 18, 2026
-
----
-### 宇航员在小行星上修理火箭
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段电影质感的视频提示词：一名宇航员站在一颗微型小行星上，试图使用火箭发动机进行推进。
-
-#### 📝 提示词
-
-```
-一名身穿宇航服的男子站在一颗直径仅 10 英尺的小行星上。他正在修理一台倒置的火箭发动机，推力方向背离小行星，直指小行星内部。这使得小行星变成了一个 s...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/190f7047cf776146400d8cced4642421/thumbnails/thumbnail.jpg" width="600" alt="宇航员在小行星上修理火箭">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6205)**
-
-**作者:** [Bill Christensen](https://x.com/Technovelgy) | **来源:** [Link](https://x.com/Technovelgy/status/2067414916328251621) | **发布时间:** Jun 18, 2026
-
----
-### 漂浮的中国宫殿船
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于生成高质量视频的精细提示词，描绘了一座漂浮在云端、设计为古代船只形状的中国宫殿。
-
-#### 📝 提示词
-
-```
-杰作，最佳质量，超精细的电影级数字绘画，描绘了一座巨大的漂浮中国宫殿，其造型如同宏伟的古代船只，悬浮在云层之中。建筑结构拥有多层华丽的传统中国建筑风格，装饰着金色细节、红灯笼和精美的木雕。周围环绕着壮观的云海和漂浮的岩石山脉，阳光穿透云层洒下。史诗般的规模，宏伟而神秘的氛围，伴有柔和的耶稣光和漂浮的微粒。高度精细的建筑、云层和光影。在左下角，添加一个优雅的小签名，书写内容必须为“Kisalay”，采用精致的手写书法风格。不得包含其他文字或水印。电影级构图，色彩鲜艳而优雅，最佳质量，8K 分辨率。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4e591b16cafcb840fda94b6448589caa/thumbnails/thumbnail.jpg" width="600" alt="漂浮的中国宫殿船">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6171)**
-
-**作者:** [⭕Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2067323749532316148) | **发布时间:** Jun 17, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2195,6 +2195,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-06-26T04:31:26.273Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-06-26T11:11:48.841Z</sub>
 
 </div>

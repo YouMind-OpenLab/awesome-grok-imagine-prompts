@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1956** |
+| 📝 Total Prompts | **1967** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-26** |
 
@@ -189,6 +189,199 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Nàng tiên cá và mèo tiên cá trong thế giới giả tưởng dưới đại dương
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một đoạn video yên bình về nàng tiên cá và mèo tiên cá cùng bơi lội dưới đại dương xanh thẳm, đồng hành cùng một chú cá voi khổng lồ.
+
+#### 📝 Prompt
+
+```
+🌊🐋 Dưới làn nước xanh vô tận, một nàng tiên cá và chú mèo tiên cá cùng bơi cạnh nhau dưới sự dõi theo của một chú cá voi khổng lồ hiền lành.
+
+Một thế giới nơi tình bạn không có giới hạn…
+Chỉ còn tiếng sóng đại dương và phép màu của trí tưởng tượng. ✨
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070262422682898432/img/IQ76u5RSXEZJqet9.jpg" width="600" alt="Nàng tiên cá và mèo tiên cá trong thế giới giả tưởng dưới đại dương">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6478)**
+
+**Author:** [猫神MT](https://x.com/nekogami_MT) | **Source:** [Link](https://x.com/nekogami_MT/status/2070262480039997474) | **Published:** Jun 25, 2026
+
+---
+### Cú nhảy mô tô điện ảnh trong đường hầm
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) tạo video điện ảnh đầy kịch tính với hình ảnh người lái mô tô phóng qua đoạn bê tông vỡ trong đường hầm tối tăm cùng những tia lửa bắn ra.
+
+#### 📝 Prompt
+
+```
+Đường hầm không dành cho sự do dự. Anh lao mình khỏi đoạn bê tông vỡ như thể các định luật vật lý chỉ là lời gợi ý. Những tia lửa bắn tung tóe. Động cơ gầm rú. Và trong một giây hoàn hảo, anh bay xuyên qua bóng tối, chỉ còn ý chí và đà lao giữ anh lơ lửng giữa không trung. Một số người chọn cách chạy trốn khỏi bóng tối. Còn anh, anh lao thẳng xuyên qua chúng.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069995864765120512/img/Da81kGoY505pVtB8.jpg" width="600" alt="Cú nhảy mô tô điện ảnh trong đường hầm">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6486)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2070243131253989767) | **Published:** Jun 25, 2026
+
+---
+### Màn Che Thiên Hà và Những Vì Sao Bị Lãng Quên
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh đầy chất thơ để tạo ra thước phim huyền bí về ánh sao đang hé lộ từ màn che vũ trụ.
+
+#### 📝 Prompt
+
+```
+Từ bóng tối của cõi vĩnh hằng, ta đánh thức dải ngân hà, màn che dần tách lối, hãy chiêm ngưỡng ánh sáng của những vì sao đã bị lãng quên
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070240737728528384/img/5-6YWwqCjfFiH52L.jpg" width="600" alt="Màn Che Thiên Hà và Những Vì Sao Bị Lãng Quên">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6480)**
+
+**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2070240789201109025) | **Published:** Jun 25, 2026
+
+---
+### Câu chuyện về Cổng không gian huyền ảo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh mô tả chi tiết cho video về một nhân vật bước qua cánh cổng lung linh để vào căn phòng chơi kỳ diệu.
+
+#### 📝 Prompt
+
+```
+Elena bước qua cánh cổng lung linh để vào căn phòng Playroom rộng lớn, cô nhìn xung quanh với vẻ tò mò và phấn khích. Krampus dang rộng vòng tay chào đón cả nhóm. Holly nhảy chân sáo tiến về phía trước với nụ cười rạng rỡ, tinh nghịch khoác tay mọi người.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070235831818756096/img/dFvaEDOD_8Hhk_SD.jpg" width="600" alt="Câu chuyện về Cổng không gian huyền ảo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6479)**
+
+**Author:** [Chronicles of Petecastic](https://x.com/MrPetecastic) | **Source:** [Link](https://x.com/MrPetecastic/status/2070235889586889042) | **Published:** Jun 25, 2026
+
+---
+### Phim tâm lý cặp đôi giận dữ đầy cảm xúc
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý video đầy cảm xúc tập trung vào các biểu cảm vi mô và kịch tính phim độc lập giữa một cặp đôi.
+
+#### 📝 Prompt
+
+```
+Tạo một cảnh quay đầy cảm xúc về một cặp đôi đang giận dữ, với lời thoại ngắn gọn, súc tích, các biểu cảm vi mô tinh tế phù hợp, tông màu ấm với ánh sáng chính và phụ cùng ống kính anamorphic, không có văn bản trên màn hình, góc quay chuẩn xác, phức tạp về mặt cảm xúc nhưng đầy tinh tế, cặp đôi người Mỹ trẻ tuổi với phong cách phim độc lập, thể hiện sự giận dữ và những khoảng lặng để bộc lộ trọn vẹn cảm xúc
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070218111413035009/img/K5v2YoeYSUocr6rw.jpg" width="600" alt="Phim tâm lý cặp đôi giận dữ đầy cảm xúc">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6482)**
+
+**Author:** [Kiri](https://x.com/Kyrannio) | **Source:** [Link](https://x.com/Kyrannio/status/2070218164609405380) | **Published:** Jun 25, 2026
+
+---
+### Những sinh vật huyền bí đan dệt các chòm sao
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một lời nhắc video đầy trí tưởng tượng mô tả các sinh vật huyền bí đang đan những ngôi sao bằng sợi ánh sáng.
+
+#### 📝 Prompt
+
+```
+Những sinh vật huyền bí đang chậm rãi đan dệt các chòm sao lại với nhau bằng những sợi ánh sáng.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070204889674760192/img/h9MGPkeZh7Lae6zN.jpg" width="600" alt="Những sinh vật huyền bí đan dệt các chòm sao">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6485)**
+
+**Author:** [Maer](https://x.com/Maer4real) | **Source:** [Link](https://x.com/Maer4real/status/2070204948281737574) | **Published:** Jun 25, 2026
+
+---
+### Thiên thần và chú mèo tò mò
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt đậm chất điện ảnh đầy cảm động về một chú mèo tò mò và một thiên thần, tập trung vào ánh sáng và kết cấu.
+
+#### 📝 Prompt
+
+```
+Sự cám dỗ ngọt ngào nhất. Ngay cả một thiên thần cũng không thể ngăn cản một chú mèo tò mò… Một chiếc lông vũ nhỏ xíu. Một gương mặt nhỏ đầy nghiêm túc. Một khoảnh khắc khó quên.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070145797845651456/img/FL07IBEA8pSaJAj7.jpg" width="600" alt="Thiên thần và chú mèo tò mò">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6488)**
+
+**Author:** [猫神MT](https://x.com/nekogami_MT) | **Source:** [Link](https://x.com/nekogami_MT/status/2070145869404614826) | **Published:** Jun 25, 2026
+
+---
+### Nữ thần Lửa trỗi dậy từ dòng nham thạch
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Lời nhắc video điện ảnh về một nữ thần lửa đang trỗi dậy từ dòng nham thạch nóng chảy dưới bầu trời đêm đầy sao.
+
+#### 📝 Prompt
+
+```
+Tạo hình một nữ thần Lửa đang dần trỗi dậy từ dòng nham thạch rực cháy. Cô ấy không phải là một nữ thần độc ác nên đôi mắt trông rất bình thường. Cơ thể cô ấy được tạo thành hoàn toàn từ lửa, với khung cảnh bầu trời đêm đầy sao và sấm sét ở phía sau.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070059497469644800/img/RV29vFQTGszbVWDn.jpg" width="600" alt="Nữ thần Lửa trỗi dậy từ dòng nham thạch">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6481)**
+
+**Author:** [Lynn Hocker](https://x.com/Auroraskye3993) | **Source:** [Link](https://x.com/Auroraskye3993/status/2070059787602317621) | **Published:** Jun 25, 2026
+
+---
+### Hoạt ảnh người phụ nữ mỉm cười và vẫy tay
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video mô tả người phụ nữ đang mỉm cười và vẫy tay với chuyển động tự nhiên cùng hiệu ứng gió nhẹ.
+
+#### 📝 Prompt
+
+```
+Cô ấy nở một nụ cười ấm áp, chân thật và giơ một tay lên vẫy chào thân thiện về phía máy quay, mái tóc và chiếc khăn choàng đung đưa nhẹ nhàng trong làn gió. Chuyển động tự nhiên, uyển chuyển; giữ nguyên ánh sáng ban ngày dịu nhẹ và bối cảnh bức tường gạch.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070058371399798784/img/tAIcikHFdaJgOUit.jpg" width="600" alt="Hoạt ảnh người phụ nữ mỉm cười và vẫy tay">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6483)**
+
+**Author:** [grok_imagine_free_user](https://x.com/FreeGrokUser) | **Source:** [Link](https://x.com/FreeGrokUser/status/2070058384959983811) | **Published:** Jun 25, 2026
+
+---
+### Hiệu ứng chuyển cảnh từ Tinh vân sang Tôm
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh sáng tạo giúp chuyển đổi hình ảnh từ tinh vân vũ trụ sang món tôm cocktail bằng cách sử dụng các yếu tố hình ảnh tương đồng.
+
+#### 📝 Prompt
+
+```
+Hãy để dải ngân hà/tinh vân xoay chậm cho đến khi biến đổi thành một con tôm cocktail lớn. Sử dụng chính phần tinh vân có màu hồng trông giống con tôm để thực hiện quá trình chuyển đổi sang hình ảnh tôm cocktail.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070054724389466112/img/M8GyF-NPtJUrq5KO.jpg" width="600" alt="Hiệu ứng chuyển cảnh từ Tinh vân sang Tôm">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6484)**
+
+**Author:** [Lynn Hocker](https://x.com/Auroraskye3993) | **Source:** [Link](https://x.com/Auroraskye3993/status/2070054843604181021) | **Published:** Jun 25, 2026
+
+---
 ### Nhà phát minh lượng tử tại sa mạc Sonoran
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1448,6 +1641,25 @@ Những bức tượng di sản Phật giáo được chọn lọc từ Bảo t�
 **Author:** [Ashok Kumar Panda](https://x.com/ashok_sr_adv) | **Source:** [Link](https://x.com/ashok_sr_adv/status/2068005598046892078) | **Published:** Jun 19, 2026
 
 ---
+### Nhà tranh ven biển phong cách Ghibli
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một khung cảnh hoài niệm và đầy quyến rũ về ngôi nhà tranh ven biển Nhật Bản lúc hoàng hôn theo phong cách anime biểu tượng của Studio Ghibli.
+
+#### 📝 Prompt
+
+```
+Một ngôi nhà tranh ven biển Nhật Bản đầy quyến rũ lúc hoàng hôn, ánh đèn ấm áp tỏa ra từ các ô cửa sổ, những con sóng biển dịu dàng có thể nhìn thấy phía sau hiên nhà, bầu trời đầy sao phản chiếu trên mặt nước, mang lại cảm giác bình yên và hoài niệm, phong cách Studio Ghibli, cảnh anime đậm chất điện ảnh.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067972919108759552/img/aHHwvenDdcGGk6d4.jpg" width="600" alt="Nhà tranh ven biển phong cách Ghibli">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6487)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2067973035446112683) | **Published:** Jun 19, 2026
+
+---
 ### Hoạt hình trẻ em bị UFO bắt cóc
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1923,218 +2135,6 @@ Cảnh quay dolly-in chậm đậm chất điện ảnh hướng về phía bàn
 **Author:** [淼儿](https://x.com/tasakimori) | **Source:** [Link](https://x.com/tasakimori/status/2067589992281674195) | **Published:** Jun 18, 2026
 
 ---
-### Prompt Người mơ mộng cùng hoa hồng phấn
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt lãng mạn và nhẹ nhàng với hình ảnh hoa hồng phấn cùng ánh sáng mơ màng bao quanh một người đang mơ mộng.
-
-#### 📝 Prompt
-
-```
-Những đóa hoa hồng phấn nhẹ nhàng nở rộ quanh một người mơ mộng… Một lời thì thầm dịu dàng được bao bọc trong những cánh hoa và ánh sáng huyền ảo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067564271375134720/img/Kaj3_BjTZTb4EG6a.jpg" width="600" alt="Prompt Người mơ mộng cùng hoa hồng phấn">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6322)**
-
-**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2067564344557420569) | **Published:** Jun 18, 2026
-
----
-### Sư tử nhâm nhi cà phê
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một đoạn video đầy ngẫu hứng về chú sư tử bình thản suy ngẫm về cuộc sống trong khi đang nhâm nhi tách cà phê.
-
-#### 📝 Prompt
-
-```
-Chỉ một tách cà phê nhỏ mà chú sư tử không còn gầm thét với thế giới nữa… chú chỉ lặng lẽ nhâm nhi cà phê và suy ngẫm về cuộc đời giống như tất cả chúng ta vậy. Chào buổi sáng ☕️🦁
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4eccf91fa142bb03ff977749eee6f9ae/thumbnails/thumbnail.jpg" width="600" alt="Sư tử nhâm nhi cà phê">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6201)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2067548190778216759) | **Published:** Jun 18, 2026
-
----
-### Cà phê sáng cùng sư tử
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý video đầy ngẫu hứng cho Grok Imagine với hình ảnh chú sư tử đầy kịch tính trong bối cảnh thưởng thức cà phê buổi sáng.
-
-#### 📝 Prompt
-
-```
-Đây là cách chúng tôi bắt đầu ngày mới ☕ Cà phê, sự hỗn loạn, một tiếng gầm và những trò đùa. Chào buổi sáng từ tôi và chú sư tử đầy kịch tính của mình 🦁
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/46b53cf185e14a15977bb2aff2c90ad2/thumbnails/thumbnail.jpg" width="600" alt="Cà phê sáng cùng sư tử">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6194)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2067543441685282900) | **Published:** Jun 18, 2026
-
----
-### Xe mô tô bốc đầu với lửa phun ra từ ống xả
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt về cảnh xe mô tô khởi động, phun lửa và thực hiện cú bốc đầu trên đường với ngọn lửa phụt ra từ ống xả.
-
-#### 📝 Prompt
-
-```
-Bây giờ hãy khởi động xe và phun lửa ra từ ống xả, sau đó chạy trên đường trong mười giây và thực hiện cú bốc đầu cùng với tôi, trong khi lửa vẫn đang phun ra từ ống xả
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cc6da1857b761b8a7c7410d431f54bc8/thumbnails/thumbnail.jpg" width="600" alt="Xe mô tô bốc đầu với lửa phun ra từ ống xả">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6211)**
-
-**Author:** [James Parker](https://x.com/JamesPa71114225) | **Source:** [Link](https://x.com/JamesPa71114225/status/2067483309567799473) | **Published:** Jun 18, 2026
-
----
-### Mở rộng bầu trời cho thác nước trên núi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video cho Grok Imagine giúp chỉnh sửa hình ảnh tham chiếu để mở rộng bầu trời và thêm bầu không khí ấn tượng trong khi vẫn giữ nguyên chủ thể ở tiền cảnh.
-
-#### 📝 Prompt
-
-```
-Chỉnh sửa bố cục nền của hình ảnh tham chiếu để hiển thị bầu trời rộng lớn hơn đáng kể: mở rộng phần trên của khung hình với bầu trời ấn tượng và bao la hơn phía trên những ngọn núi và thác nước đổ xuống, đồng thời giữ nguyên người phụ nữ ở tiền cảnh...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0f304e99365084c575e53794df11d167/thumbnails/thumbnail.jpg" width="600" alt="Mở rộng bầu trời cho thác nước trên núi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6192)**
-
-**Author:** [Christine Savard](https://x.com/christinesavard) | **Source:** [Link](https://x.com/christinesavard/status/2067464489629618651) | **Published:** Jun 18, 2026
-
----
-### Lễ kỷ niệm Elon Musk trở thành tỷ phú nghìn tỷ của SpaceX
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Biến một bức ảnh sự kiện thành video chúc mừng hoành tráng với nội dung về việc Elon Musk trở thành tỷ phú nghìn tỷ và đợt IPO của SpaceX.
-
-#### 📝 Prompt
-
-```
-Hãy biến bức ảnh sự kiện ăn mừng này của @elonmusk và @SpaceX thành một thước phim chúc mừng hoành tráng. Giữ nguyên hình ảnh Elon Musk và đội ngũ ở tiền cảnh tại bục phát biểu của @Nasdaq với logo @SpaceX nổi bật. Thêm các lớp văn bản in đậm, tinh tế ở phần trên và dưới: 
-
-Chúc mừng #ElonMusk, Nhà sáng lập và CEO của #SpaceX (#SPCX) vì đã trở thành tỷ phú nghìn tỷ đầu tiên trên thế giới — và vì đã chế tạo #Starship để đưa nhân loại lên Sao Hỏa!
-Cột mốc quan trọng này, được thúc đẩy bởi đợt #SpaceXIPO mang tính đột phá, đánh dấu một thành tựu đáng kinh ngạc trong việc mở rộng ranh giới của sự đổi mới và khám phá. Hướng tới tương lai của cuộc sống đa hành tinh! 🚀🪐 #JehovahElElyon12282009
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d65d08f5c142b7267b5a9c1acfcd5421/thumbnails/thumbnail.jpg" width="600" alt="Lễ kỷ niệm Elon Musk trở thành tỷ phú nghìn tỷ của SpaceX">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6203)**
-
-**Author:** [Lillene Christy Ebanks](https://x.com/ChristyEbanks28) | **Source:** [Link](https://x.com/ChristyEbanks28/status/2067454311978676230) | **Published:** Jun 18, 2026
-
----
-### Cảnh sao Hỏa trong Stranger in a Strange Land
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video tường thuật mô tả chuyến thám hiểm sao Hỏa đầu tiên và quá trình trưởng thành của Valentine Michael Smith.
-
-#### 📝 Prompt
-
-```
-Bắt đầu từ phần mở đầu của Stranger in a Strange Land: tường thuật lại chuyến thám hiểm sao Hỏa đầu tiên, sự ra đời và quá trình lớn lên trên sao Hỏa của Valentine Michael Smith (chàng trai trẻ mặc áo choàng). Người đàn ông lớn tuổi trong vai Jubal và cô y tá tóc vàng đang chăm chú lắng nghe bên hồ bơi...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/40169451cc915cf798e08455520bfc62/thumbnails/thumbnail.jpg" width="600" alt="Cảnh sao Hỏa trong Stranger in a Strange Land">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6207)**
-
-**Author:** [Timothy Norman](https://x.com/Timothy01775634) | **Source:** [Link](https://x.com/Timothy01775634/status/2067442256563359991) | **Published:** Jun 18, 2026
-
----
-### Cảnh hài hước về UFO của người ngoài hành tinh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý video hài hước về cảnh UFO hạ cánh và người ngoài hành tinh kể một câu chuyện đùa.
-
-#### 📝 Prompt
-
-```
-Trong khu rừng tối, một chiếc UFO xuất hiện, luồng sáng rực rỡ chiếu xuống và một người ngoài hành tinh bước ra rồi nói: Mẹ của bạn béo đến mức sao Mộc phải quay quanh bà ấy!
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/17c60e6724e37542de67562383070a46/thumbnails/thumbnail.jpg" width="600" alt="Cảnh hài hước về UFO của người ngoài hành tinh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6197)**
-
-**Author:** [Eli Stewart](https://x.com/EliStew17092519) | **Source:** [Link](https://x.com/EliStew17092519/status/2067435312884719780) | **Published:** Jun 18, 2026
-
----
-### Khoang đổ bộ quỹ đạo SpaceX Starship
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video khoa học viễn tưởng tạo ra hình ảnh các khoang đổ bộ kiểu SpaceX chứa các thùng tiếp tế sinh tồn và công nghệ.
-
-#### 📝 Prompt
-
-```
-Tạo hình ảnh các khoang đổ bộ quỹ đạo là phiên bản thu nhỏ của khoang đổ bộ SpaceX Starship, chứa các thùng phuy 55 gallon với nhiều loại khác nhau như thùng chứa Optimus cùng các vật dụng khác, thùng thực phẩm, thùng công nghệ, thùng dụng cụ, thùng đồ uống, thùng sinh tồn,...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dfbe71700fa45224a1b47b796d4abbb5/thumbnails/thumbnail.jpg" width="600" alt="Khoang đổ bộ quỹ đạo SpaceX Starship">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6209)**
-
-**Author:** [Internet James](https://x.com/iminternetjames) | **Source:** [Link](https://x.com/iminternetjames/status/2067426068445962242) | **Published:** Jun 18, 2026
-
----
-### Phi hành gia làm việc trên tên lửa tiểu hành tinh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một đoạn prompt video đậm chất điện ảnh về một phi hành gia trên một tiểu hành tinh nhỏ bé đang cố gắng sử dụng động cơ tên lửa để đẩy đi.
-
-#### 📝 Prompt
-
-```
-Một người đàn ông mặc bộ đồ du hành vũ trụ đang đứng trên một tiểu hành tinh có đường kính chỉ khoảng 3 mét. Anh ấy đang sửa một động cơ tên lửa bị lật ngược, với lực đẩy hướng ra xa khỏi tiểu hành tinh và chĩa thẳng xuống bề mặt của nó. Điều này biến tiểu hành tinh thành một...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/190f7047cf776146400d8cced4642421/thumbnails/thumbnail.jpg" width="600" alt="Phi hành gia làm việc trên tên lửa tiểu hành tinh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6205)**
-
-**Author:** [Bill Christensen](https://x.com/Technovelgy) | **Source:** [Link](https://x.com/Technovelgy/status/2067414916328251621) | **Published:** Jun 18, 2026
-
----
-### Cung điện Trung Hoa nổi trên không trung
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh chi tiết để tạo video chất lượng cao về một cung điện Trung Hoa được thiết kế như một con tàu cổ đại trôi giữa những tầng mây.
-
-#### 📝 Prompt
-
-```
-Kiệt tác, chất lượng tốt nhất, tranh kỹ thuật số điện ảnh siêu chi tiết về một cung điện Trung Hoa khổng lồ được xây dựng như một con tàu cổ đại tráng lệ, lơ lửng giữa những tầng mây. Cấu trúc có nhiều tầng lớp trang trí công phu với kiến trúc Trung Hoa truyền thống, các chi tiết mạ vàng, đèn lồng đỏ và chạm khắc gỗ tinh xảo. Cung điện được bao quanh bởi những đám mây hùng vĩ và các ngọn núi đá trôi nổi dưới bầu trời sáng với ánh nắng xuyên qua. Quy mô hoành tráng, bầu không khí uy nghiêm và huyền bí với những tia sáng dịu nhẹ và các hạt bụi lơ lửng. Kiến trúc, mây và ánh sáng có độ chi tiết cao. Ở góc dưới bên trái, thêm một chữ ký nhỏ thanh lịch với nội dung chính xác là 'Kisalay' theo phong cách thư pháp viết tay tinh tế. Không có văn bản hoặc hình mờ nào khác. Bố cục điện ảnh, màu sắc rực rỡ nhưng thanh lịch, chất lượng tốt nhất, độ phân giải 8K.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4e591b16cafcb840fda94b6448589caa/thumbnails/thumbnail.jpg" width="600" alt="Cung điện Trung Hoa nổi trên không trung">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6171)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067323749532316148) | **Published:** Jun 17, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2196,6 +2196,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-26T04:31:33.371Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-26T11:11:56.312Z</sub>
 
 </div>

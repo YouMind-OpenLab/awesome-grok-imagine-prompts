@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **1956** |
+| 📝 提示詞總數 | **1967** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-06-26** |
 
@@ -189,6 +189,199 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 美人魚與貓咪美人魚的海底奇幻世界
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段寧靜的影片，描繪了一隻美人魚與一隻貓咪美人魚在深藍海洋中一同悠游，身旁還有巨大的鯨魚相伴。
+
+#### 📝 提示詞
+
+```
+🌊🐋 在無盡的蔚藍之下，美人魚與她的貓咪美人魚夥伴並肩悠游，在溫柔巨鯨的守護下自在暢遊。
+
+這是一個友誼超越界限的世界……
+只有海洋的聲音與想像力的魔法。 ✨
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070262422682898432/img/IQ76u5RSXEZJqet9.jpg" width="600" alt="美人魚與貓咪美人魚的海底奇幻世界">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6478)**
+
+**作者:** [猫神MT](https://x.com/nekogami_MT) | **來源:** [Link](https://x.com/nekogami_MT/status/2070262480039997474) | **發布時間:** Jun 25, 2026
+
+---
+### 電影感摩托車隧道飛躍
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個高動作電影感的提示詞，描繪了一名摩托車手在黑暗隧道中從破碎的混凝土路面飛躍而出，火花四濺的場景。
+
+#### 📝 提示詞
+
+```
+隧道從不寬恕猶豫。他從破碎的混凝土路面一躍而起，彷彿物理定律只是個建議。火花四濺，引擎轟鳴。在那完美的一秒鐘裡，他穿梭於黑暗之中，唯有意志與慣性支撐著他在空中飛馳。有些人選擇逃避陰影，而他，選擇直衝而過。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069995864765120512/img/Da81kGoY505pVtB8.jpg" width="600" alt="電影感摩托車隧道飛躍">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6486)**
+
+**作者:** [⭕Kisalay](https://x.com/Kisalay_) | **來源:** [Link](https://x.com/Kisalay_/status/2070243131253989767) | **發布時間:** Jun 25, 2026
+
+---
+### 天穹之紗與遺忘之星
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個充滿詩意的提示詞，旨在生成一段神秘的影片場景，展現星光從宇宙面紗中浮現的景象。
+
+#### 📝 提示詞
+
+```
+從永恆的陰影中，我喚醒了織物，面紗隨之散開，凝視那遺忘之星的光芒
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070240737728528384/img/5-6YWwqCjfFiH52L.jpg" width="600" alt="天穹之紗與遺忘之星">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6480)**
+
+**作者:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **來源:** [Link](https://x.com/TLouisevsughan/status/2070240789201109025) | **發布時間:** Jun 25, 2026
+
+---
+### 奇幻傳送門場景敘事
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段描述性敘事提示詞，用於呈現角色穿過閃爍的傳送門，進入魔法遊戲室的影片。
+
+#### 📝 提示詞
+
+```
+Elena 穿過閃爍的傳送門進入廣闊的 Playroom，她睜大雙眼，神情充滿好奇與興奮。Krampus 張開雙臂，熱情地向眾人示意。Holly 帶著燦爛的笑容向前跳躍，俏皮地挽起手臂。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070235831818756096/img/dFvaEDOD_8Hhk_SD.jpg" width="600" alt="奇幻傳送門場景敘事">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6479)**
+
+**作者:** [Chronicles of Petecastic](https://x.com/MrPetecastic) | **來源:** [Link](https://x.com/MrPetecastic/status/2070235889586889042) | **發布時間:** Jun 25, 2026
+
+---
+### 情緒激動的憤怒情侶戲劇
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個專注於微表情與獨立電影戲劇感的情侶影片提示詞。
+
+#### 📝 提示詞
+
+```
+創作一個情緒激動的憤怒情侶場景，包含精簡有力的對話、適當且細膩的微表情，採用暖色調調色，搭配主光與補光，使用變形鏡頭，無螢幕文字，呈現情緒複雜但細膩的適當角度，主角為年輕的美國情侶，具備獨立電影的戲劇感，包含憤怒與停頓，以展現完整的情緒張力。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070218111413035009/img/K5v2YoeYSUocr6rw.jpg" width="600" alt="情緒激動的憤怒情侶戲劇">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6482)**
+
+**作者:** [Kiri](https://x.com/Kyrannio) | **來源:** [Link](https://x.com/Kyrannio/status/2070218164609405380) | **發布時間:** Jun 25, 2026
+
+---
+### 天界生物編織星座
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段充滿想像力的影片提示詞，描繪了神秘生物用光之絲線編織星辰的畫面。
+
+#### 📝 提示詞
+
+```
+天界生物正緩慢地用光之絲線將星座編織在一起。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070204889674760192/img/h9MGPkeZh7Lae6zN.jpg" width="600" alt="天界生物編織星座">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6485)**
+
+**作者:** [Maer](https://x.com/Maer4real) | **來源:** [Link](https://x.com/Maer4real/status/2070204948281737574) | **發布時間:** Jun 25, 2026
+
+---
+### 天使與好奇貓
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個溫馨的電影感影片提示詞，主角為一隻好奇的貓和一位天使，重點在於光影與質感。
+
+#### 📝 提示詞
+
+```
+最甜蜜的誘惑。即使是天使也無法阻止一隻好奇的貓…… 一根小小的羽毛。一張認真的小臉。一個難忘的瞬間。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070145797845651456/img/FL07IBEA8pSaJAj7.jpg" width="600" alt="天使與好奇貓">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6488)**
+
+**作者:** [猫神MT](https://x.com/nekogami_MT) | **來源:** [Link](https://x.com/nekogami_MT/status/2070145869404614826) | **發布時間:** Jun 25, 2026
+
+---
+### 從熔岩中升起的火焰女神
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 電影級影片提示詞：一位火焰女神在星空下從熾熱熔岩中緩緩升起。
+
+#### 📝 提示詞
+
+```
+創作一位從熾熱熔岩中緩緩升起的火焰女神。她並非邪惡女神，因此她的雙眼看起來很正常。她全身由火焰構成，背景是點綴著繁星與閃電的夜空。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070059497469644800/img/RV29vFQTGszbVWDn.jpg" width="600" alt="從熔岩中升起的火焰女神">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6481)**
+
+**作者:** [Lynn Hocker](https://x.com/Auroraskye3993) | **來源:** [Link](https://x.com/Auroraskye3993/status/2070059787602317621) | **發布時間:** Jun 25, 2026
+
+---
+### 女性微笑揮手動畫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個影片生成提示詞，描繪了一位女性微笑並揮手的畫面，動作自然且帶有微風吹拂的效果。
+
+#### 📝 提示詞
+
+```
+她露出溫暖而真誠的微笑，並向鏡頭友善地揮手，頭髮和披肩在微風中輕輕擺動。動作柔和自然；保持相同的柔和日光與磚牆背景。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070058371399798784/img/tAIcikHFdaJgOUit.jpg" width="600" alt="女性微笑揮手動畫">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6483)**
+
+**作者:** [grok_imagine_free_user](https://x.com/FreeGrokUser) | **來源:** [Link](https://x.com/FreeGrokUser/status/2070058384959983811) | **發布時間:** Jun 25, 2026
+
+---
+### 星雲變形為蝦的動畫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個充滿創意的變形提示詞，利用視覺元素的相似性，將宇宙星雲過渡為雞尾酒蝦。
+
+#### 📝 提示詞
+
+```
+讓星系或星雲緩慢旋轉，直到它變形為一隻大雞尾酒蝦。利用星雲本身呈現粉紅色的蝦狀部分，將其變形為雞尾酒蝦。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070054724389466112/img/M8GyF-NPtJUrq5KO.jpg" width="600" alt="星雲變形為蝦的動畫">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6484)**
+
+**作者:** [Lynn Hocker](https://x.com/Auroraskye3993) | **來源:** [Link](https://x.com/Auroraskye3993/status/2070054843604181021) | **發布時間:** Jun 25, 2026
+
+---
 ### 索諾蘭沙漠中的量子發明家
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1447,6 +1640,25 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 **作者:** [Ashok Kumar Panda](https://x.com/ashok_sr_adv) | **來源:** [Link](https://x.com/ashok_sr_adv/status/2068005598046892078) | **發布時間:** Jun 19, 2026
 
 ---
+### 吉卜力風格海邊小屋
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一幅充滿懷舊與迷人氛圍的場景，呈現了標誌性的吉卜力工作室動畫風格，描繪了黃昏時分的日本海邊小屋。
+
+#### 📝 提示詞
+
+```
+一座迷人的日本海邊小屋，黃昏時分，窗戶透出溫暖的燈光，門廊外可見輕柔的海浪，星空倒映在水面上，營造出寧靜而懷舊的氛圍，吉卜力工作室風格，電影級動畫場景。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067972919108759552/img/aHHwvenDdcGGk6d4.jpg" width="600" alt="吉卜力風格海邊小屋">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6487)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **來源:** [Link](https://x.com/MrDasOnX/status/2067973035446112683) | **發布時間:** Jun 19, 2026
+
+---
 ### 兒童被 UFO 綁架的動畫
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1922,218 +2134,6 @@ Elon Musk 呈現嘻哈黑幫造型，戴著金牙套、酷炫墨鏡與黑幫服�
 **作者:** [淼儿](https://x.com/tasakimori) | **來源:** [Link](https://x.com/tasakimori/status/2067589992281674195) | **發布時間:** Jun 18, 2026
 
 ---
-### 柔和粉色玫瑰夢想家提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個浪漫且柔和的影片提示詞，呈現粉色玫瑰與夢幻光影環繞著夢想家的場景。
-
-#### 📝 提示詞
-
-```
-柔和的粉色玫瑰在溫柔的夢想家身邊綻放……這是一聲包裹在花瓣與夢幻光影中的輕柔低語。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067564271375134720/img/Kaj3_BjTZTb4EG6a.jpg" width="600" alt="柔和粉色玫瑰夢想家提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6322)**
-
-**作者:** [Stella 𝕏](https://x.com/StellaGrokStar) | **來源:** [Link](https://x.com/StellaGrokStar/status/2067564344557420569) | **發布時間:** Jun 18, 2026
-
----
-### 獅子喝咖啡
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個充滿奇趣的影片提示詞，描繪了一隻平靜的獅子在喝咖啡時思考人生的模樣。
-
-#### 📝 提示詞
-
-```
-一杯小小的咖啡，讓獅子不再對世界咆哮……牠只是像我們一樣，靜靜地喝著咖啡，思考著人生。早安 ☕️🦁
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4eccf91fa142bb03ff977749eee6f9ae/thumbnails/thumbnail.jpg" width="600" alt="獅子喝咖啡">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6201)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2067548190778216759) | **發布時間:** Jun 18, 2026
-
----
-### 與獅子共進晨間咖啡
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個為 Grok Imagine 設計的奇幻影片提示詞，描繪了一隻在晨間咖啡場景中充滿戲劇感的獅子。
-
-#### 📝 提示詞
-
-```
-這就是我們喚醒一天的儀式 ☕ 咖啡、混亂、咆哮與笑話。我和我的戲劇感獅子祝你早安 🦁
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/46b53cf185e14a15977bb2aff2c90ad2/thumbnails/thumbnail.jpg" width="600" alt="與獅子共進晨間咖啡">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6194)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2067543441685282900) | **發布時間:** Jun 18, 2026
-
----
-### 摩托車翹孤輪與排氣管噴火
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段關於摩托車啟動、噴火，並在道路上進行翹孤輪表演，且排氣管噴出火焰的影片提示詞。
-
-#### 📝 提示詞
-
-```
-現在啟動摩托車並讓排氣管噴出火焰，接著回到路上行駛十秒鐘，並載著我進行翹孤輪，同時排氣管要持續噴出火焰。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cc6da1857b761b8a7c7410d431f54bc8/thumbnails/thumbnail.jpg" width="600" alt="摩托車翹孤輪與排氣管噴火">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6211)**
-
-**作者:** [James Parker](https://x.com/JamesPa71114225) | **來源:** [Link](https://x.com/JamesPa71114225/status/2067483309567799473) | **發布時間:** Jun 18, 2026
-
----
-### 山間瀑布天空擴展
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個用於 Grok Imagine 的影片生成提示詞，旨在修改參考圖像，在保留前景主體的同時擴展天空並增添戲劇性的氛圍。
-
-#### 📝 提示詞
-
-```
-修改參考圖像的背景構圖以呈現更廣闊的天空：擴展畫面頂部，在山脈與瀑布上方加入更具戲劇性、更遼闊的天空，同時保留前景中的女性...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0f304e99365084c575e53794df11d167/thumbnails/thumbnail.jpg" width="600" alt="山間瀑布天空擴展">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6192)**
-
-**作者:** [Christine Savard](https://x.com/christinesavard) | **來源:** [Link](https://x.com/christinesavard/status/2067464489629618651) | **發布時間:** Jun 18, 2026
-
----
-### Elon Musk 與 SpaceX 成為兆萬富翁的慶祝活動
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 將活動照片轉化為一段史詩般的慶祝影片，內容包含關於 Elon Musk 成為兆萬富翁以及 SpaceX IPO 的祝賀文字。
-
-#### 📝 提示詞
-
-```
-將這張慶祝 @elonmusk 與 @SpaceX 的活動照片轉化為史詩般的祝賀場景。請將 Elon Musk 和團隊保留在 @Nasdaq 講台的前景，並使 @SpaceX 的標誌顯眼。在上方和下方添加大膽且優雅的文字疊加：
-
-恭喜 #ElonMusk 成為 #SpaceX (#SPCX) 的創辦人兼執行長，並成為全球首位兆萬富翁 —— 同時感謝您打造 #Starship 帶領人類前往火星！
-這一里程碑由開創性的 #SpaceXIPO 所推動，標誌著在突破創新與探索界限方面的非凡成就。為多行星生命的未來乾杯！🚀🪐 #JehovahElElyon12282009
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d65d08f5c142b7267b5a9c1acfcd5421/thumbnails/thumbnail.jpg" width="600" alt="Elon Musk 與 SpaceX 成為兆萬富翁的慶祝活動">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6203)**
-
-**作者:** [Lillene Christy Ebanks](https://x.com/ChristyEbanks28) | **來源:** [Link](https://x.com/ChristyEbanks28/status/2067454311978676230) | **發布時間:** Jun 18, 2026
-
----
-### 《異鄉異客》火星場景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段敘事性影片提示詞，描繪了首次火星探險以及 Valentine Michael Smith 的成長經歷。
-
-#### 📝 提示詞
-
-```
-從《異鄉異客》的開端開始：敘述首次火星探險，以及 Valentine Michael Smith（身穿長袍的年輕人）的出生與火星成長過程。年長者 Jubal 與金髮護士在池邊專注地聆聽……
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/40169451cc915cf798e08455520bfc62/thumbnails/thumbnail.jpg" width="600" alt="《異鄉異客》火星場景">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6207)**
-
-**作者:** [Timothy Norman](https://x.com/Timothy01775634) | **來源:** [Link](https://x.com/Timothy01775634/status/2067442256563359991) | **發布時間:** Jun 18, 2026
-
----
-### 外星人幽浮喜劇場景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個幽默的影片提示詞，內容包含幽浮降落以及外星人講笑話的橋段。
-
-#### 📝 提示詞
-
-```
-在黑暗的森林中，一架幽浮出現，一道強光照射下來，接著外星人現身並說道：「你媽胖到木星都要繞著她轉！」
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/17c60e6724e37542de67562383070a46/thumbnails/thumbnail.jpg" width="600" alt="外星人幽浮喜劇場景">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6197)**
-
-**作者:** [Eli Stewart](https://x.com/EliStew17092519) | **來源:** [Link](https://x.com/EliStew17092519/status/2067435312884719780) | **發布時間:** Jun 18, 2026
-
----
-### SpaceX Starship 軌道投放艙
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個科幻影片提示詞，用於生成包含生存物資與科技桶的 SpaceX 風格投放艙圖像。
-
-#### 📝 提示詞
-
-```
-生成軌道投放艙的圖像，這些投放艙為迷你的 SpaceX Starship 投放艙，內部裝有各種 55 加侖的桶子，例如裝有 Optimus 的桶子以及其他物品、食物桶、科技桶、工具桶、飲料桶、生存物資桶等...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dfbe71700fa45224a1b47b796d4abbb5/thumbnails/thumbnail.jpg" width="600" alt="SpaceX Starship 軌道投放艙">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6209)**
-
-**作者:** [Internet James](https://x.com/iminternetjames) | **來源:** [Link](https://x.com/iminternetjames/status/2067426068445962242) | **發布時間:** Jun 18, 2026
-
----
-### 太空人於小行星上操作火箭
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段電影級的影片提示詞，描述一名太空人在一顆微小的小行星上，試圖使用火箭引擎進行推進。
-
-#### 📝 提示詞
-
-```
-一名身穿太空衣的男子站在直徑僅 10 英尺的小行星上。他正在操作一個倒置的火箭引擎，推進力背向小行星，直接向下指向小行星表面。這將使小行星變成一個...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/190f7047cf776146400d8cced4642421/thumbnails/thumbnail.jpg" width="600" alt="太空人於小行星上操作火箭">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6205)**
-
-**作者:** [Bill Christensen](https://x.com/Technovelgy) | **來源:** [Link](https://x.com/Technovelgy/status/2067414916328251621) | **發布時間:** Jun 18, 2026
-
----
-### 漂浮的中國宮殿船
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個精細的提示詞，用於生成高品質影片，內容為漂浮在雲端、設計成古代船隻樣式的中國宮殿。
-
-#### 📝 提示詞
-
-```
-傑作，最高品質，超細節電影級數位繪畫，描繪一座巨大的漂浮中國宮殿，外觀如同一艘宏偉的古代船隻，懸浮在雲層之中。建築結構具有多層華麗的傳統中國建築風格，飾有金色細節、紅燈籠和精緻的木工。周圍環繞著戲劇性的雲層和漂浮的岩山，明亮的天空中有陽光穿透。史詩般的規模，雄偉而神秘的氛圍，伴隨柔和的耶穌光與漂浮微粒。高度細節化的建築、雲層與光影。在左下角，加入一個優雅的小簽名，內容必須精確為「Kisalay」，採用精緻的手寫書法風格。不得包含其他文字或浮水印。電影級構圖，色彩鮮豔而優雅，最高品質，8K 解析度。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4e591b16cafcb840fda94b6448589caa/thumbnails/thumbnail.jpg" width="600" alt="漂浮的中國宮殿船">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6171)**
-
-**作者:** [⭕Kisalay](https://x.com/Kisalay_) | **來源:** [Link](https://x.com/Kisalay_/status/2067323749532316148) | **發布時間:** Jun 17, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2195,6 +2195,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-06-26T04:31:27.506Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-06-26T11:11:50.367Z</sub>
 
 </div>

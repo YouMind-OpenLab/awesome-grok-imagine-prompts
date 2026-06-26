@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **1956** |
+| 📝 プロンプト総数 | **1967** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-06-26** |
 
@@ -189,6 +189,199 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### 人魚と猫の人魚の水中ファンタジー
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 人魚と猫の人魚が巨大なクジラに見守られながら、深い青の海を一緒に泳ぐ穏やかな映像。
+
+#### 📝 プロンプト
+
+```
+🌊🐋 果てしなく広がる青い海の下、人魚と猫の人魚が、穏やかな巨大クジラに見守られながら並んで泳いでいます。
+
+友情に境界線などない世界……
+聞こえてくるのは海の音と、想像力が生み出す魔法だけ。 ✨
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070262422682898432/img/IQ76u5RSXEZJqet9.jpg" width="600" alt="人魚と猫の人魚の水中ファンタジー">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6478)**
+
+**作者:** [猫神MT](https://x.com/nekogami_MT) | **ソース:** [Link](https://x.com/nekogami_MT/status/2070262480039997474) | **公開日:** Jun 25, 2026
+
+---
+### 映画のようなバイクのトンネルジャンプ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 暗いトンネル内で、崩れたコンクリートからバイクが飛び出し、火花が散る様子を描いた、躍動感あふれるシネマティックなプロンプト。
+
+#### 📝 プロンプト
+
+```
+トンネルは躊躇を許さない。彼は物理法則など無視するかのように、崩れたコンクリートから飛び出した。火花が散り、エンジンが咆哮する。完璧な一瞬、彼は意志と勢いだけを頼りに、暗闇の中を宙へと舞う。影から逃げる者もいるが、彼はその中を真っ直ぐに突き進んでいく。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069995864765120512/img/Da81kGoY505pVtB8.jpg" width="600" alt="映画のようなバイクのトンネルジャンプ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6486)**
+
+**作者:** [⭕Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2070243131253989767) | **公開日:** Jun 25, 2026
+
+---
+### Celestial Veil and Forgotten Stars
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 宇宙のヴェールから星の光が浮かび上がる、神秘的なビデオシーンを生成するための詩的なプロンプトです。
+
+#### 📝 プロンプト
+
+```
+永遠の影より、我は織り成すものを目覚めさせる。ヴェールは裂け、忘れ去られた星々の光が姿を現す
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070240737728528384/img/5-6YWwqCjfFiH52L.jpg" width="600" alt="Celestial Veil and Forgotten Stars">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6480)**
+
+**作者:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **ソース:** [Link](https://x.com/TLouisevsughan/status/2070240789201109025) | **公開日:** Jun 25, 2026
+
+---
+### ファンタジーポータルのシーンナラティブ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> キャラクターが輝くポータルを通り抜け、魔法のプレイルームへと足を踏み入れる様子を描いた動画用のナラティブプロンプト。
+
+#### 📝 プロンプト
+
+```
+Elena が輝くポータルを通り抜け、広大な Playroom へと足を踏み入れる。彼女は好奇心と興奮に目を輝かせながら周囲を見渡す。Krampus は両手を広げ、グループを歓迎するようにジェスチャーをする。Holly は明るい笑顔で弾むように前に進み、楽しげに腕を組む。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070235831818756096/img/dFvaEDOD_8Hhk_SD.jpg" width="600" alt="ファンタジーポータルのシーンナラティブ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6479)**
+
+**作者:** [Chronicles of Petecastic](https://x.com/MrPetecastic) | **ソース:** [Link](https://x.com/MrPetecastic/status/2070235889586889042) | **公開日:** Jun 25, 2026
+
+---
+### 感情的な怒れるカップルのドラマ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> カップル間の微細な表情やインディーズ映画のようなドラマ性に焦点を当てた、感情的なビデオプロンプトです。
+
+#### 📝 プロンプト
+
+```
+怒っているカップルの感情的なシーンを作成してください。パンチの効いた短いセリフ、適切で繊細な微細な表情、キーフィルライトとアナモルフィックレンズを使用した温かみのあるカラーグレーディングを施し、画面上のテキストはなしにします。感情的に複雑でありながらも繊細な適切なアングルで、インディーズ映画のようなドラマ性を備えた若いアメリカ人カップルを描き、怒りと間（ま）を活かして感情の全範囲を表現してください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070218111413035009/img/K5v2YoeYSUocr6rw.jpg" width="600" alt="感情的な怒れるカップルのドラマ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6482)**
+
+**作者:** [Kiri](https://x.com/Kyrannio) | **ソース:** [Link](https://x.com/Kyrannio/status/2070218164609405380) | **公開日:** Jun 25, 2026
+
+---
+### 星々を編む天上の生き物たち
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 光の糸で星を編む神秘的な生き物を描いた、想像力豊かなビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+光の糸を使って、ゆっくりと星座を編み上げていく天上の生き物たち。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070204889674760192/img/h9MGPkeZh7Lae6zN.jpg" width="600" alt="星々を編む天上の生き物たち">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6485)**
+
+**作者:** [Maer](https://x.com/Maer4real) | **ソース:** [Link](https://x.com/Maer4real/status/2070204948281737574) | **公開日:** Jun 25, 2026
+
+---
+### 天使と好奇心旺盛な猫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 好奇心旺盛な猫と天使が登場する、光と質感にこだわった心温まるシネマティックな動画プロンプトです。
+
+#### 📝 プロンプト
+
+```
+最高に甘い誘惑。天使でさえ、好奇心旺盛な猫を止めることはできない……。たった一枚の羽。真剣そのものの小さな顔。忘れられないひととき。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070145797845651456/img/FL07IBEA8pSaJAj7.jpg" width="600" alt="天使と好奇心旺盛な猫">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6488)**
+
+**作者:** [猫神MT](https://x.com/nekogami_MT) | **ソース:** [Link](https://x.com/nekogami_MT/status/2070145869404614826) | **公開日:** Jun 25, 2026
+
+---
+### 溶岩から現れる炎の女神
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 星空の下、溶岩から立ち上がる炎の女神を描くシネマティックな動画生成用プロンプト。
+
+#### 📝 プロンプト
+
+```
+燃え盛る溶岩の中からゆっくりと立ち上がる炎の女神を生成してください。邪悪な女神ではないため、目は人間と同じ自然なものにします。彼女の体は完全に炎で構成されており、背景の夜空には星と稲妻が輝いています。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070059497469644800/img/RV29vFQTGszbVWDn.jpg" width="600" alt="溶岩から現れる炎の女神">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6481)**
+
+**作者:** [Lynn Hocker](https://x.com/Auroraskye3993) | **ソース:** [Link](https://x.com/Auroraskye3993/status/2070059787602317621) | **公開日:** Jun 25, 2026
+
+---
+### 笑顔で手を振る女性のアニメーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 自然な動きと柔らかなそよ風のエフェクトを加え、笑顔で手を振る女性を描写した動画生成プロンプトです。
+
+#### 📝 プロンプト
+
+```
+彼女が温かく心からの笑顔を見せ、カメラに向かって親しみを込めて片手を振ります。柔らかなそよ風に髪とケープがわずかに揺れています。穏やかで自然な動きを表現し、柔らかな自然光とレンガの壁を背景にしています。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070058371399798784/img/tAIcikHFdaJgOUit.jpg" width="600" alt="笑顔で手を振る女性のアニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6483)**
+
+**作者:** [grok_imagine_free_user](https://x.com/FreeGrokUser) | **ソース:** [Link](https://x.com/FreeGrokUser/status/2070058384959983811) | **公開日:** Jun 25, 2026
+
+---
+### 星雲からエビへのモーフィングアニメーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 宇宙の星雲をカクテルシュリンプへと変化させる、視覚的要素を活かしたクリエイティブなモーフィングプロンプトです。
+
+#### 📝 プロンプト
+
+```
+銀河や星雲がゆっくりと回転し、最終的に大きなカクテルシュリンプへとモーフィングするようにしてください。星雲の中にあるピンク色のエビのような部分を活かして、カクテルシュリンプへと変化させます。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070054724389466112/img/M8GyF-NPtJUrq5KO.jpg" width="600" alt="星雲からエビへのモーフィングアニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6484)**
+
+**作者:** [Lynn Hocker](https://x.com/Auroraskye3993) | **ソース:** [Link](https://x.com/Auroraskye3993/status/2070054843604181021) | **公開日:** Jun 25, 2026
+
+---
 ### ソノラマ砂漠の量子発明家
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1447,6 +1640,25 @@ Sebring を修復してツタを取り除き、Elon の Tesla に加わるよう
 **作者:** [Ashok Kumar Panda](https://x.com/ashok_sr_adv) | **ソース:** [Link](https://x.com/ashok_sr_adv/status/2068005598046892078) | **公開日:** Jun 19, 2026
 
 ---
+### ジブリ風の海辺のコテージ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> スタジオジブリ作品のような、夕暮れ時の懐かしく魅力的な日本の海辺のコテージの風景。
+
+#### 📝 プロンプト
+
+```
+夕暮れ時の魅力的な日本の海辺のコテージ。窓からは温かな光が漏れ、ポーチの先には穏やかな波が見える。水面に映る星空が、平和で懐かしい雰囲気を醸し出す。スタジオジブリ風のシネマティックなアニメシーン。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067972919108759552/img/aHHwvenDdcGGk6d4.jpg" width="600" alt="ジブリ風の海辺のコテージ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6487)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **ソース:** [Link](https://x.com/MrDasOnX/status/2067973035446112683) | **公開日:** Jun 19, 2026
+
+---
 ### UFO に連れ去られる子供のアニメーション
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1922,218 +2134,6 @@ UFO に引き寄せられるかのように子供が地面から浮かび上が�
 **作者:** [淼儿](https://x.com/tasakimori) | **ソース:** [Link](https://x.com/tasakimori/status/2067589992281674195) | **公開日:** Jun 18, 2026
 
 ---
-### ソフトピンクローズのドリーマー向けプロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ピンクのバラとドリーマーを包み込む幻想的な光を特徴とした、ロマンチックで柔らかな動画用プロンプトです。
-
-#### 📝 プロンプト
-
-```
-穏やかなドリーマーの周りに咲き誇るソフトピンクのバラ……花びらと幻想的な光に包まれた、優しいささやき。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067564271375134720/img/Kaj3_BjTZTb4EG6a.jpg" width="600" alt="ソフトピンクローズのドリーマー向けプロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6322)**
-
-**作者:** [Stella 𝕏](https://x.com/StellaGrokStar) | **ソース:** [Link](https://x.com/StellaGrokStar/status/2067564344557420569) | **公開日:** Jun 18, 2026
-
----
-### コーヒーを飲むライオン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> コーヒーを飲みながら人生に思いを馳せる、穏やかなライオンが登場するユニークな動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-小さなコーヒーを一杯飲んだだけで、ライオンはもう世界に向かって吠えるのをやめてしまいました……。私たちと同じように、ただコーヒーをすすりながら人生について考えているようです。おはようございます ☕️🦁
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4eccf91fa142bb03ff977749eee6f9ae/thumbnails/thumbnail.jpg" width="600" alt="コーヒーを飲むライオン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6201)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2067548190778216759) | **公開日:** Jun 18, 2026
-
----
-### ライオンと楽しむモーニングコーヒー
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 向けのウィットに富んだビデオプロンプト。朝のコーヒータイムを過ごすドラマチックなライオンがテーマです。
-
-#### 📝 プロンプト
-
-```
-これが私たちの目覚め方 ☕ コーヒーとカオス、咆哮、そしてジョーク。私とドラマチックなライオンから、おはようございます 🦁
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/46b53cf185e14a15977bb2aff2c90ad2/thumbnails/thumbnail.jpg" width="600" alt="ライオンと楽しむモーニングコーヒー">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6194)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2067543441685282900) | **公開日:** Jun 18, 2026
-
----
-### マフラーから火を噴きながらウィリー走行するバイク
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> バイクが始動し、火を噴きながら路上でウィリー走行を行い、排気管から炎が出ている様子を描写する動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-バイクを始動させてマフラーから火を噴かせ、そのまま路上に出て 10 秒間ウィリー走行をしてほしい。その際、自分もバイクに乗っており、マフラーからは炎が出ている状態で。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cc6da1857b761b8a7c7410d431f54bc8/thumbnails/thumbnail.jpg" width="600" alt="マフラーから火を噴きながらウィリー走行するバイク">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6211)**
-
-**作者:** [James Parker](https://x.com/JamesPa71114225) | **ソース:** [Link](https://x.com/JamesPa71114225/status/2067483309567799473) | **公開日:** Jun 18, 2026
-
----
-### 山の滝と空の拡張
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 用の動画生成プロンプト。参照画像を加工して空を拡張し、前景の被写体を維持したままドラマチックな雰囲気を加えます。
-
-#### 📝 プロンプト
-
-```
-参照画像の背景構成を修正し、空の範囲を大幅に広げてください。山々と流れ落ちる滝の上部に、よりドラマチックで広大な空を加えてフレームの上部を拡張しつつ、前景の女性はそのまま維持してください。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0f304e99365084c575e53794df11d167/thumbnails/thumbnail.jpg" width="600" alt="山の滝と空の拡張">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6192)**
-
-**作者:** [Christine Savard](https://x.com/christinesavard) | **ソース:** [Link](https://x.com/christinesavard/status/2067464489629618651) | **公開日:** Jun 18, 2026
-
----
-### イーロン・マスク氏と SpaceX のトリリオネア達成記念
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> イベント写真を、イーロン・マスク氏のトリリオネア達成と SpaceX の IPO を祝う壮大な動画に変換します。
-
-#### 📝 プロンプト
-
-```
-@elonmusk 氏と @SpaceX の記念イベント写真を、壮大な祝福シーンに変換してください。@Nasdaq の演壇にいるイーロン・マスク氏とチームを前面に配置し、@SpaceX のロゴを際立たせてください。上下に大胆でエレガントなテキストオーバーレイを追加してください：
-
-世界初のトリリオネアとなった #SpaceX (#SPCX) の創設者兼 CEO、#ElonMusk 氏にお祝いを申し上げます。人類を火星へ導く #Starship の開発も素晴らしい功績です！
-画期的な #SpaceXIPO によって後押しされたこのマイルストーンは、イノベーションと探査の限界を押し広げる驚異的な成果です。マルチプラネタリー（多惑星）な未来に乾杯！🚀🪐 #JehovahElElyon12282009
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d65d08f5c142b7267b5a9c1acfcd5421/thumbnails/thumbnail.jpg" width="600" alt="イーロン・マスク氏と SpaceX のトリリオネア達成記念">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6203)**
-
-**作者:** [Lillene Christy Ebanks](https://x.com/ChristyEbanks28) | **ソース:** [Link](https://x.com/ChristyEbanks28/status/2067454311978676230) | **公開日:** Jun 18, 2026
-
----
-### 『異星の客』火星シーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 初の火星探査とバレンタイン・マイケル・スミスの生い立ちを描いたナラティブビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-『異星の客』の冒頭から開始：初の火星探査、そしてバレンタイン・マイケル・スミス（ローブを纏った青年）の誕生と火星での生い立ちをナレーションする。年配の男性ジュバルと金髪の看護師が、プールのそばで熱心に耳を傾けている...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/40169451cc915cf798e08455520bfc62/thumbnails/thumbnail.jpg" width="600" alt="『異星の客』火星シーン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6207)**
-
-**作者:** [Timothy Norman](https://x.com/Timothy01775634) | **ソース:** [Link](https://x.com/Timothy01775634/status/2067442256563359991) | **公開日:** Jun 18, 2026
-
----
-### エイリアンと UFO のコメディシーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> UFO が着陸し、エイリアンがジョークを披露するユーモラスな動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-暗い森に UFO が現れ、まばゆい光が降り注ぐ。そこからエイリアンが登場し、「お前の母ちゃん、あまりに太りすぎて木星が母ちゃんの周りを公転してるぜ！」と言う。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/17c60e6724e37542de67562383070a46/thumbnails/thumbnail.jpg" width="600" alt="エイリアンと UFO のコメディシーン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6197)**
-
-**作者:** [Eli Stewart](https://x.com/EliStew17092519) | **ソース:** [Link](https://x.com/EliStew17092519/status/2067435312884719780) | **公開日:** Jun 18, 2026
-
----
-### SpaceX Starship 軌道降下ポッド
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> SpaceX スタイルの降下ポッドにサバイバル用品や技術関連のドラム缶が収納されている様子を描写する、SF 風の動画生成用プロンプト。
-
-#### 📝 プロンプト
-
-```
-SpaceX Starship のミニチュア版のような軌道降下ポッドの画像を生成してください。ポッドの中には、Optimus が入ったドラム缶や、食料、テクノロジー機器、工具、飲料、サバイバル用品など、さまざまな種類の 55 ガロン・ドラム缶が収納されています。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dfbe71700fa45224a1b47b796d4abbb5/thumbnails/thumbnail.jpg" width="600" alt="SpaceX Starship 軌道降下ポッド">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6209)**
-
-**作者:** [Internet James](https://x.com/iminternetjames) | **ソース:** [Link](https://x.com/iminternetjames/status/2067426068445962242) | **公開日:** Jun 18, 2026
-
----
-### 小惑星でロケットを整備する宇宙飛行士
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 小さな小惑星の上で、宇宙飛行士が推進用のロケットエンジンを使おうとしている様子を描いたシネマティックな動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-直径わずか 10 フィート（約 3 メートル）の小惑星の上に立つ、宇宙服を着た男性。彼は上下逆さまになったロケットエンジンを整備している。推力は小惑星から離れる方向ではなく、小惑星の真下に向かって噴射される形になっており、これによって小惑星は...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/190f7047cf776146400d8cced4642421/thumbnails/thumbnail.jpg" width="600" alt="小惑星でロケットを整備する宇宙飛行士">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6205)**
-
-**作者:** [Bill Christensen](https://x.com/Technovelgy) | **ソース:** [Link](https://x.com/Technovelgy/status/2067414916328251621) | **公開日:** Jun 18, 2026
-
----
-### 雲上の中国風宮殿船
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 雲の中に浮かぶ古代船を模した中国風宮殿の高品質な動画を生成するための詳細なプロンプトです。
-
-#### 📝 プロンプト
-
-```
-傑作、最高品質、壮大な古代船のように造られた巨大な中国風宮殿が雲の中に浮かぶ様子を描いた、超詳細なシネマティック・デジタルペインティング。建物は伝統的な中国建築の華やかな多層構造で、金色の装飾、赤い提灯、精巧な木工細工が施されている。ドラマチックな雲と浮かぶ岩山に囲まれ、明るい空から太陽の光が差し込んでいる。壮大なスケール、柔らかな光の筋と浮遊する粒子が織りなす、威厳と神秘に満ちた雰囲気。非常に詳細な建築、雲、照明。左下隅に、洗練された手書きカリグラフィースタイルで「Kisalay」と書かれた小さなエレガントな署名を追加すること。その他のテキストや透かしは一切なし。シネマティックな構図、鮮やかかつエレガントな色彩、最高品質、8K 解像度。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4e591b16cafcb840fda94b6448589caa/thumbnails/thumbnail.jpg" width="600" alt="雲上の中国風宮殿船">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6171)**
-
-**作者:** [⭕Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2067323749532316148) | **公開日:** Jun 17, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2195,6 +2195,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-26T04:31:28.950Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-26T11:11:52.211Z</sub>
 
 </div>

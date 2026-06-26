@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1956** |
+| 📝 Total Prompts | **1967** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-26** |
 
@@ -189,6 +189,199 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Mermaid and Cat Mermaid Underwater Fantasy
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A serene video of a mermaid and a cat mermaid swimming together in the deep blue ocean, accompanied by a giant whale.
+
+#### 📝 Prompt
+
+```
+🌊🐋 Beneath the endless blue, a mermaid and her cat mermaid swim side by side beneath the watchful eye of a gentle giant whale.
+
+A world where friendship knows no boundaries…
+Only the sound of the ocean and the magic of imagination. ✨
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070262422682898432/img/IQ76u5RSXEZJqet9.jpg" width="600" alt="Mermaid and Cat Mermaid Underwater Fantasy">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6478)**
+
+**Author:** [猫神MT](https://x.com/nekogami_MT) | **Source:** [Link](https://x.com/nekogami_MT/status/2070262480039997474) | **Published:** Jun 25, 2026
+
+---
+### Cinematic Motorcycle Tunnel Jump
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-action cinematic prompt featuring a motorcyclist launching off broken concrete in a dark tunnel with sparks flying.
+
+#### 📝 Prompt
+
+```
+The tunnel doesn’t forgive hesitation. He launches off the broken concrete like the laws of physics were just a suggestion. Sparks fly. The engine screams. And for one perfect second, he’s flying through the dark with nothing but will and momentum keeping him in the air. Some men run from the shadows. This one rides straight through them.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069995864765120512/img/Da81kGoY505pVtB8.jpg" width="600" alt="Cinematic Motorcycle Tunnel Jump">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6486)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2070243131253989767) | **Published:** Jun 25, 2026
+
+---
+### Celestial Veil and Forgotten Stars
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A poetic prompt generating a mystical video scene of starlight emerging from a cosmic veil.
+
+#### 📝 Prompt
+
+```
+From the shadows of internity, I a waken the weave, the veil parts, behold the light of forgotten stars
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070240737728528384/img/5-6YWwqCjfFiH52L.jpg" width="600" alt="Celestial Veil and Forgotten Stars">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6480)**
+
+**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2070240789201109025) | **Published:** Jun 25, 2026
+
+---
+### Fantasy Portal Scene Narrative
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A descriptive narrative prompt for a video showing a character stepping through a shimmering portal into a magical playroom.
+
+#### 📝 Prompt
+
+```
+Elena steps through the shimmering portal into the vast Playroom, looking around with wide-eyed intrigue and excitement. Krampus gestures welcomingly with open arms toward the group. Holly bounces forward with a bright smile, linking arms playfully.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070235831818756096/img/dFvaEDOD_8Hhk_SD.jpg" width="600" alt="Fantasy Portal Scene Narrative">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6479)**
+
+**Author:** [Chronicles of Petecastic](https://x.com/MrPetecastic) | **Source:** [Link](https://x.com/MrPetecastic/status/2070235889586889042) | **Published:** Jun 25, 2026
+
+---
+### Emotional Angry Couple Drama
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An emotional video prompt focused on micro-expressions and indie film drama between a couple.
+
+#### 📝 Prompt
+
+```
+Create an emotional scene of an angry couple, limited punchy dialogue, appropriate subtle micro expressions, warm color grading with key fill light and anamorphic lensing no onscreen text, emotionally complex but subtle proper angles, younger American couple with indie film drama sensibility with anger and pauses for a full range
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070218111413035009/img/K5v2YoeYSUocr6rw.jpg" width="600" alt="Emotional Angry Couple Drama">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6482)**
+
+**Author:** [Kiri](https://x.com/Kyrannio) | **Source:** [Link](https://x.com/Kyrannio/status/2070218164609405380) | **Published:** Jun 25, 2026
+
+---
+### Celestial Creatures Knitting Constellations
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An imaginative video prompt depicting mystical creatures knitting stars with threads of light.
+
+#### 📝 Prompt
+
+```
+Celestial creatures slowly knitting constellations together with threads of light.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070204889674760192/img/h9MGPkeZh7Lae6zN.jpg" width="600" alt="Celestial Creatures Knitting Constellations">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6485)**
+
+**Author:** [Maer](https://x.com/Maer4real) | **Source:** [Link](https://x.com/Maer4real/status/2070204948281737574) | **Published:** Jun 25, 2026
+
+---
+### Angel and Curious Cat
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A heartwarming cinematic video prompt featuring a curious cat and an angel with a focus on lighting and texture.
+
+#### 📝 Prompt
+
+```
+The Sweetest Temptation. Even an angel can’t stop a curious cat… One tiny feather. One serious little face. One unforgettable moment.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070145797845651456/img/FL07IBEA8pSaJAj7.jpg" width="600" alt="Angel and Curious Cat">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6488)**
+
+**Author:** [猫神MT](https://x.com/nekogami_MT) | **Source:** [Link](https://x.com/nekogami_MT/status/2070145869404614826) | **Published:** Jun 25, 2026
+
+---
+### Fire Goddess Rising from Lava
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Cinematic video prompt for a fire goddess emerging from molten lava under a starry night sky.
+
+#### 📝 Prompt
+
+```
+Create a fire Goddess gradually rising out of the fiery lava. She’s not an evil goddess so her eyes are normal. She’s made completely out of the fire and there are stars and lightning in the background night sky.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070059497469644800/img/RV29vFQTGszbVWDn.jpg" width="600" alt="Fire Goddess Rising from Lava">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6481)**
+
+**Author:** [Lynn Hocker](https://x.com/Auroraskye3993) | **Source:** [Link](https://x.com/Auroraskye3993/status/2070059787602317621) | **Published:** Jun 25, 2026
+
+---
+### Woman Smiling and Waving Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt depicting a woman smiling and waving with natural motion and a soft breeze effect.
+
+#### 📝 Prompt
+
+```
+She breaks into a warm, genuine smile and raises one hand in a friendly wave toward the camera, hair and capelet swaying slightly in a soft breeze. Gentle, natural motion; same soft daylight and brick wall background.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070058371399798784/img/tAIcikHFdaJgOUit.jpg" width="600" alt="Woman Smiling and Waving Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6483)**
+
+**Author:** [grok_imagine_free_user](https://x.com/FreeGrokUser) | **Source:** [Link](https://x.com/FreeGrokUser/status/2070058384959983811) | **Published:** Jun 25, 2026
+
+---
+### Nebula to Shrimp Morphing Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative morphing prompt that transitions a cosmic nebula into a cocktail shrimp using matching visual elements.
+
+#### 📝 Prompt
+
+```
+Have the galaxy/nebula slowly rotate until it morphs into a large cocktail shrimp. Use the pinkish shrimp-looking part of the nebula itself - to morph into the cocktail shrimp.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070054724389466112/img/M8GyF-NPtJUrq5KO.jpg" width="600" alt="Nebula to Shrimp Morphing Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6484)**
+
+**Author:** [Lynn Hocker](https://x.com/Auroraskye3993) | **Source:** [Link](https://x.com/Auroraskye3993/status/2070054843604181021) | **Published:** Jun 25, 2026
+
+---
 ### Quantum Inventor in Sonoran Desert
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -458,29 +651,19 @@ Space elevator bringing people and cargo up psychedelic experience lots of stars
 **Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2069426293360194028) | **Published:** Jun 23, 2026
 
 ---
-### Retro Diner Flying Cereal Scene
+### Cinematic Slow Motion Breakfast
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed cinematic prompt featuring a young girl in a retro kitchen with slow-motion milk splashes and floating cereal.
+> A highly detailed video generation prompt for a slow-motion cinematic scene of a girl surprised by flying cereal in a retro diner kitchen.
 
 #### 📝 Prompt
 
 ```
-A cinematic wide angle shot inside a cozy retro diner style kitchen. A young girl leans over a bowl of colorful cereal as milk bursts upward in dramatic slow motion. Bright cereal loops float through the air around her face. She looks directly at the camera with wide eyes and an open-mouth expression of surprise and delight. Warm morning sunlight streams through the blinds. The scene has a playful, magical, energetic feel, with fisheye lens distortion, realistic lighting, high detail, dynamic motion, and a fun cinematic vibe. Duration: 10 seconds.
-
-Dialogue: Whoa… is my breakfast actually flying?
-
-Sound Design: 
-
-Sudden milk splash.
-Light cereal scattering sounds.
-Soft magical sparkle effect.
-Girl’s surprised gasp.
-Fun playful background music.
+A cinematic wide angle shot inside a cozy retro diner style kitchen. A young girl leans over a bowl of colorful cereal as milk bursts upward in dramatic slow motion. Bright cereal loops float through the air around her face. She looks directly at the camera with wide eyes and an open-mouth expression of surprise and delight. Warm morning sunlight streams through the blinds. The scene has a playful, magical, energetic feel, with fisheye lens distortion, realistic lighting, high detail, dynamic motion, and a fun cinematic vibe. Duration: 10 seconds. Dialogue: Whoa… is my breakfast actually flying? Sound Design: Sudden milk splash. Light cereal scattering sounds. Soft magical sparkle effect. Girl’s surprised gasp. Fun playful background music.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069395437908643841/img/g-URoeS90azUiBUG.jpg" width="600" alt="Retro Diner Flying Cereal Scene">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069395437908643841/img/g-URoeS90azUiBUG.jpg" width="600" alt="Cinematic Slow Motion Breakfast">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6398)**
 
@@ -1391,11 +1574,11 @@ tiger growling on French sofa in luxury estate nostalgic vibe heavy shadows heav
 **Author:** [Love’s Last Icon](https://x.com/primusv1) | **Source:** [Link](https://x.com/primusv1/status/2068078806170993124) | **Published:** Jun 19, 2026
 
 ---
-### Cinematic Freckled Woman with Veil
+### Medieval Woman with Silver Veil and Sword
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed cinematic prompt for Grok Imagine featuring a woman with freckles, silver crown, and sword behind a translucent veil.
+> A cinematic Grok Imagine video prompt featuring a woman in an ornate silver crown and sparkling veil, holding a medieval sword against a muted cool-toned background.
 
 #### 📝 Prompt
 
@@ -1403,7 +1586,7 @@ tiger growling on French sofa in luxury estate nostalgic vibe heavy shadows heav
 woman with delicate freckles on nose and cheeks, wet dark hair strands sticking to her face. Ornate intricate silver crown with crystals, slightly thicker sheer sparkling silver veil dramatically draped over the left half of her face (covering one eye) and softly wrapping part of the sword. The veil has a delicate but more substantial translucent texture with fine glitter. She holds an ornate medieval sword with both hands, hilt and upper blade gently covered by the thicker veil near her chin and lips, multiple ornate silver rings on fingers. Very soft diffused side lighting, muted desaturated cool silvery-grey color palette, low saturation, elegant understated tones. Hyper detailed realistic skin texture, natural glossy lips, realistic fabric folds and light reflections on thicker veil. Razor sharp focus on visible eye, freckles and veil texture, shallow depth of field, soft dreamy bokeh, hyperrealistic, photorealistic, cinematic color grading.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068062467100418048/img/XAdGpdy3LIaC58ti.jpg" width="600" alt="Cinematic Freckled Woman with Veil">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2068062467100418048/img/XAdGpdy3LIaC58ti.jpg" width="600" alt="Medieval Woman with Silver Veil and Sword">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6254)**
 
@@ -1446,6 +1629,25 @@ The selected sculptures of the Buddhist heritage from the Indian Museum, in our 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6244)**
 
 **Author:** [Ashok Kumar Panda](https://x.com/ashok_sr_adv) | **Source:** [Link](https://x.com/ashok_sr_adv/status/2068005598046892078) | **Published:** Jun 19, 2026
+
+---
+### Ghibli Style Seaside Cottage
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A nostalgic and charming scene of a Japanese seaside cottage at dusk in the iconic Studio Ghibli anime style.
+
+#### 📝 Prompt
+
+```
+A charming Japanese seaside cottage at dusk, warm lights glowing from the windows, gentle ocean waves visible beyond the porch, starry sky reflected on the water, peaceful and nostalgic feeling, Studio Ghibli style, cinematic anime scene.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067972919108759552/img/aHHwvenDdcGGk6d4.jpg" width="600" alt="Ghibli Style Seaside Cottage">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6487)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2067973035446112683) | **Published:** Jun 19, 2026
 
 ---
 ### Child UFO abduction animation
@@ -1505,11 +1707,11 @@ A lone man on an old ship, staring at something that shouldn’t be possible a c
 **Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067964231618789770) | **Published:** Jun 19, 2026
 
 ---
-### Daft Punk Tesla Arctic Mother
+### Daft Punk Tesla Spacesuit Arctic Adventure
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed cinematic prompt for a video featuring a woman in a Daft Punk helmet and Tesla spacesuit in a snowy arctic tundra.
+> A futuristic video prompt for Grok Imagine depicting a woman in a Daft Punk helmet and Tesla spacesuit in a snowy arctic landscape.
 
 #### 📝 Prompt
 
@@ -1517,7 +1719,7 @@ A lone man on an old ship, staring at something that shouldn’t be possible a c
 Ultra realistic photo, bright and luminous, soft bright lighting, high key lighting, lighter tones. Woman in glossy black and gold Daft Punk helmet with long flowing platinum white hair, wearing a matte brown and black Tesla spacesuit with Tesla logo on chest. She gently holds a baby in white teddy bear patterned onesie with mini Daft Punk helmet and small Tesla logo. She also holds a cute Shiba Inu plush toy. Vast bright snowy arctic tundra with distant mountains in the background, bright overcast sky, highly detailed, photorealistic, cinematic.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067963385082224641/img/mPBQNO2QyPbKEgD_.jpg" width="600" alt="Daft Punk Tesla Arctic Mother">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067963385082224641/img/mPBQNO2QyPbKEgD_.jpg" width="600" alt="Daft Punk Tesla Spacesuit Arctic Adventure">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6256)**
 
@@ -1923,218 +2125,6 @@ Slow cinematic dolly-in toward the table spread in an intimate Japanese restaura
 **Author:** [淼儿](https://x.com/tasakimori) | **Source:** [Link](https://x.com/tasakimori/status/2067589992281674195) | **Published:** Jun 18, 2026
 
 ---
-### Soft Pink Roses Dreamer Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A romantic and soft video prompt featuring pink roses and dreamy light surrounding a dreamer.
-
-#### 📝 Prompt
-
-```
-Soft pink roses blooming around a gentle dreamer… A tender whisper wrapped in petals and dreamy light.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067564271375134720/img/Kaj3_BjTZTb4EG6a.jpg" width="600" alt="Soft Pink Roses Dreamer Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6322)**
-
-**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2067564344557420569) | **Published:** Jun 18, 2026
-
----
-### Lion Sipping Coffee
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A whimsical video prompt featuring a peaceful lion contemplating life while sipping a cup of coffee.
-
-#### 📝 Prompt
-
-```
-One small cup of coffee and suddenly the lion’s not roaring at the world anymore… he’s just sipping his coffee and contemplating life like the rest of us. Good morning ☕️🦁
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4eccf91fa142bb03ff977749eee6f9ae/thumbnails/thumbnail.jpg" width="600" alt="Lion Sipping Coffee">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6201)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2067548190778216759) | **Published:** Jun 18, 2026
-
----
-### Morning Coffee with Lion
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A whimsical video prompt for Grok Imagine featuring a dramatic lion in a morning coffee setting.
-
-#### 📝 Prompt
-
-```
-This is how we wake up ☕ Coffee, chaos, a roar, and jokes. Good morning from me and my dramatic lion 🦁
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/46b53cf185e14a15977bb2aff2c90ad2/thumbnails/thumbnail.jpg" width="600" alt="Morning Coffee with Lion">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6194)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2067543441685282900) | **Published:** Jun 18, 2026
-
----
-### Motorcycle Wheelie with Tailpipe Flames
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video prompt for a motorcycle starting up, blowing fire, and performing a wheelie on the road with flames coming from the exhaust.
-
-#### 📝 Prompt
-
-```
-Now start bike an blow fire out the tail pipes now get back on the road for ten seconds an pop a wheelie with me on it with flames coming out tail pipes
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cc6da1857b761b8a7c7410d431f54bc8/thumbnails/thumbnail.jpg" width="600" alt="Motorcycle Wheelie with Tailpipe Flames">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6211)**
-
-**Author:** [James Parker](https://x.com/JamesPa71114225) | **Source:** [Link](https://x.com/JamesPa71114225/status/2067483309567799473) | **Published:** Jun 18, 2026
-
----
-### Mountain Waterfall Sky Expansion
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video generation prompt for Grok Imagine that modifies a reference image to expand the sky and add dramatic atmosphere while preserving the foreground subject.
-
-#### 📝 Prompt
-
-```
-Modify the background composition of the reference image to show significantly more sky: expand the upper portion of the frame with a more dramatic, expansive sky above the mountains and cascading waterfall, while keeping the woman in the foreground...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0f304e99365084c575e53794df11d167/thumbnails/thumbnail.jpg" width="600" alt="Mountain Waterfall Sky Expansion">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6192)**
-
-**Author:** [Christine Savard](https://x.com/christinesavard) | **Source:** [Link](https://x.com/christinesavard/status/2067464489629618651) | **Published:** Jun 18, 2026
-
----
-### Elon Musk SpaceX Trillionaire Celebration
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Transforms an event photo into an epic celebratory video with congratulatory text about Elon Musk becoming a trillionaire and the SpaceX IPO.
-
-#### 📝 Prompt
-
-```
-Transform this celebratory @elonmusk @SpaceX event photo into an epic congratulatory scene. Keep Elon Musk and the team in the foreground at the @Nasdaq podium with the @SpaceX logo prominent. Add bold, elegant text overlays in the upper and lower parts: 
-
-Congratulations to #ElonMusk Founder and CEO of #SpaceX (#SPCX) on becoming the world’s first trillionaire — and for building #Starship to take humanity to Mars!
-This milestone, powered by the groundbreaking #SpaceXIPO, marks an incredible achievement in pushing the boundaries of innovation and exploration. Here’s to the future of multiplanetary life! 🚀🪐 #JehovahElElyon12282009
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d65d08f5c142b7267b5a9c1acfcd5421/thumbnails/thumbnail.jpg" width="600" alt="Elon Musk SpaceX Trillionaire Celebration">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6203)**
-
-**Author:** [Lillene Christy Ebanks](https://x.com/ChristyEbanks28) | **Source:** [Link](https://x.com/ChristyEbanks28/status/2067454311978676230) | **Published:** Jun 18, 2026
-
----
-### Stranger in a Strange Land Mars Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A narrative video prompt depicting the first Mars expedition and the upbringing of Valentine Michael Smith.
-
-#### 📝 Prompt
-
-```
-Start at the beginning of Stranger in a Strange Land: narrate the first Mars expedition, the birth and Martian upbringing of Valentine Michael Smith (the young man in robe). The older man as Jubal and the blonde nurse listen attentively by the pool i...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/40169451cc915cf798e08455520bfc62/thumbnails/thumbnail.jpg" width="600" alt="Stranger in a Strange Land Mars Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6207)**
-
-**Author:** [Timothy Norman](https://x.com/Timothy01775634) | **Source:** [Link](https://x.com/Timothy01775634/status/2067442256563359991) | **Published:** Jun 18, 2026
-
----
-### Alien UFO Comedy Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A humorous video prompt involving a UFO landing and an alien delivering a joke.
-
-#### 📝 Prompt
-
-```
-Dark forest a ufo appears a bright light shines down and an alien appears and says yo mamma so fat jupiter revolves around her!
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/17c60e6724e37542de67562383070a46/thumbnails/thumbnail.jpg" width="600" alt="Alien UFO Comedy Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6197)**
-
-**Author:** [Eli Stewart](https://x.com/EliStew17092519) | **Source:** [Link](https://x.com/EliStew17092519/status/2067435312884719780) | **Published:** Jun 18, 2026
-
----
-### SpaceX Starship Orbital Drop Pods
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A sci-fi video prompt generating images of SpaceX-style drop pods containing survival and tech barrels.
-
-#### 📝 Prompt
-
-```
-Generate images of obital drop pods that are mini Spacex starship drop pods containing 55 gallon drums of different varieties such as Optimus in a barrel with other stuff, Food barrels, Tech Barrels, Tool barrels, beverage barrels, survival barrels,...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dfbe71700fa45224a1b47b796d4abbb5/thumbnails/thumbnail.jpg" width="600" alt="SpaceX Starship Orbital Drop Pods">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6209)**
-
-**Author:** [Internet James](https://x.com/iminternetjames) | **Source:** [Link](https://x.com/iminternetjames/status/2067426068445962242) | **Published:** Jun 18, 2026
-
----
-### Astronaut Working on Asteroid Rocket
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt of an astronaut on a tiny asteroid attempting to use a rocket engine for propulsion.
-
-#### 📝 Prompt
-
-```
-A man in a space suit is standing on an asteroid only ten feet in diameter. He is working on a rocket engine that is upside down, with the thrust aimed away from the asteroid, pointing straight down into the asteroid. This turns the asteroid into a s...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/190f7047cf776146400d8cced4642421/thumbnails/thumbnail.jpg" width="600" alt="Astronaut Working on Asteroid Rocket">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6205)**
-
-**Author:** [Bill Christensen](https://x.com/Technovelgy) | **Source:** [Link](https://x.com/Technovelgy/status/2067414916328251621) | **Published:** Jun 18, 2026
-
----
-### Floating Chinese Palace Ship
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An elaborate prompt for generating a high-quality video of a floating Chinese palace designed as an ancient ship among clouds.
-
-#### 📝 Prompt
-
-```
-Masterpiece, best quality, ultra-detailed cinematic digital painting of a massive floating Chinese palace built like a grand ancient ship, hovering among the clouds. The structure features multiple ornate tiers with traditional Chinese architecture, golden details, red lanterns, and intricate woodwork. It is surrounded by dramatic clouds and floating rocky mountains under a bright sky with sunlight breaking through. Epic scale, majestic and mystical atmosphere with soft god rays and floating particles. Highly detailed architecture, clouds, and lighting. In the bottom left corner, add a small elegant signature reading exactly 'Kisalay' in refined handwritten calligraphy style. No other text or watermarks. Cinematic composition, vibrant yet elegant colors, best quality, 8K resolution.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4e591b16cafcb840fda94b6448589caa/thumbnails/thumbnail.jpg" width="600" alt="Floating Chinese Palace Ship">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6171)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067323749532316148) | **Published:** Jun 17, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2196,6 +2186,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-26T04:31:24.945Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-26T11:11:47.162Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1956** |
+| 📝 Total Prompts | **1967** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-26** |
 
@@ -189,6 +189,199 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### जलपरी और कैट मरमेड की पानी के नीचे की काल्पनिक दुनिया
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> गहरे नीले समुद्र में एक जलपरी और एक कैट मरमेड के साथ तैरने का एक शांत वीडियो, जिसमें एक विशाल व्हेल भी साथ है।
+
+#### 📝 Prompt
+
+```
+🌊🐋 अनंत नीले सागर के नीचे, एक जलपरी और उसकी कैट मरमेड एक सौम्य विशाल व्हेल की देखरेख में साथ-साथ तैर रही हैं।
+
+एक ऐसी दुनिया जहाँ दोस्ती की कोई सीमा नहीं होती…
+सिर्फ समुद्र की आवाज़ और कल्पना का जादू। ✨
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070262422682898432/img/IQ76u5RSXEZJqet9.jpg" width="600" alt="जलपरी और कैट मरमेड की पानी के नीचे की काल्पनिक दुनिया">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6478)**
+
+**Author:** [猫神MT](https://x.com/nekogami_MT) | **Source:** [Link](https://x.com/nekogami_MT/status/2070262480039997474) | **Published:** Jun 25, 2026
+
+---
+### सिनेमैटिक मोटरसाइकिल टनल जंप
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक हाई-एक्शन सिनेमैटिक प्रॉम्प्ट जिसमें एक मोटरसाइकिल सवार अंधेरी सुरंग में टूटे हुए कंक्रीट से छलांग लगा रहा है और चिंगारियां उड़ रही हैं।
+
+#### 📝 Prompt
+
+```
+सुरंग हिचकिचाहट को माफ नहीं करती। वह टूटे हुए कंक्रीट से ऐसे उछलता है जैसे भौतिकी के नियम सिर्फ एक सुझाव हों। चिंगारियां उड़ती हैं। इंजन दहाड़ता है। और एक पल के लिए, वह अंधेरे में उड़ रहा होता है, जहाँ केवल उसकी इच्छाशक्ति और गति उसे हवा में बनाए रखती है। कुछ लोग परछाइयों से भागते हैं। यह सवार सीधे उनके बीच से गुजरता है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069995864765120512/img/Da81kGoY505pVtB8.jpg" width="600" alt="सिनेमैटिक मोटरसाइकिल टनल जंप">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6486)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2070243131253989767) | **Published:** Jun 25, 2026
+
+---
+### Celestial Veil and Forgotten Stars
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक काव्यात्मक प्रॉम्प्ट जो ब्रह्मांडीय आवरण से निकलते तारों के प्रकाश का एक रहस्यमय वीडियो दृश्य तैयार करता है।
+
+#### 📝 Prompt
+
+```
+अनंत की परछाइयों से, मैं बुनावट को जगाता हूँ, आवरण हटता है, भूले-बिसरे तारों के प्रकाश को देखो
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070240737728528384/img/5-6YWwqCjfFiH52L.jpg" width="600" alt="Celestial Veil and Forgotten Stars">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6480)**
+
+**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2070240789201109025) | **Published:** Jun 25, 2026
+
+---
+### फैंटेसी पोर्टल सीन नैरेटिव
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वीडियो के लिए वर्णनात्मक नैरेटिव प्रॉम्प्ट, जिसमें एक पात्र एक झिलमिलाते पोर्टल से होकर एक जादुई प्लेरूम में प्रवेश करता है।
+
+#### 📝 Prompt
+
+```
+एलेना झिलमिलाते पोर्टल से होकर विशाल प्लेरूम में कदम रखती है, और बड़ी उत्सुकता और रोमांच के साथ चारों ओर देखती है। क्रैम्पस अपनी बाहें फैलाकर समूह का स्वागत करता है। होली एक प्यारी सी मुस्कान के साथ आगे बढ़ती है और चंचलता से हाथ मिलाती है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070235831818756096/img/dFvaEDOD_8Hhk_SD.jpg" width="600" alt="फैंटेसी पोर्टल सीन नैरेटिव">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6479)**
+
+**Author:** [Chronicles of Petecastic](https://x.com/MrPetecastic) | **Source:** [Link](https://x.com/MrPetecastic/status/2070235889586889042) | **Published:** Jun 25, 2026
+
+---
+### भावुक और गुस्से में भरा कपल ड्रामा
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक भावुक वीडियो प्रॉम्प्ट जो माइक्रो-एक्सप्रेशंस और एक कपल के बीच इंडी फिल्म ड्रामा पर केंद्रित है।
+
+#### 📝 Prompt
+
+```
+गुस्से में भरे एक कपल का भावुक दृश्य बनाएं, जिसमें सीमित और प्रभावशाली संवाद हों, सूक्ष्म माइक्रो-एक्सप्रेशंस का सही इस्तेमाल हो, की-फिल लाइट के साथ वार्म कलर ग्रेडिंग हो और एनामोर्फिक लेंसिंग का उपयोग किया गया हो। स्क्रीन पर कोई टेक्स्ट न हो, दृश्य भावनात्मक रूप से जटिल लेकिन सूक्ष्म हों, सही एंगल्स का उपयोग करें, युवा अमेरिकन कपल हो, जिसमें इंडी फिल्म ड्रामा की संवेदनशीलता हो और गुस्से व ठहराव के साथ भावनाओं की पूरी रेंज दिखाई दे।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070218111413035009/img/K5v2YoeYSUocr6rw.jpg" width="600" alt="भावुक और गुस्से में भरा कपल ड्रामा">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6482)**
+
+**Author:** [Kiri](https://x.com/Kyrannio) | **Source:** [Link](https://x.com/Kyrannio/status/2070218164609405380) | **Published:** Jun 25, 2026
+
+---
+### आकाशीय जीव जो नक्षत्रों को बुन रहे हैं
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक कल्पनाशील वीडियो प्रॉम्प्ट जो रहस्यमयी जीवों को प्रकाश के धागों से तारों को बुनते हुए दर्शाता है।
+
+#### 📝 Prompt
+
+```
+आकाशीय जीव धीरे-धीरे प्रकाश के धागों से नक्षत्रों को एक साथ बुन रहे हैं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070204889674760192/img/h9MGPkeZh7Lae6zN.jpg" width="600" alt="आकाशीय जीव जो नक्षत्रों को बुन रहे हैं">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6485)**
+
+**Author:** [Maer](https://x.com/Maer4real) | **Source:** [Link](https://x.com/Maer4real/status/2070204948281737574) | **Published:** Jun 25, 2026
+
+---
+### फरिश्ता और जिज्ञासु बिल्ली
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक जिज्ञासु बिल्ली और एक फरिश्ते को दर्शाने वाला एक दिल को छू लेने वाला सिनेमैटिक वीडियो प्रॉम्प्ट, जिसमें लाइटिंग और टेक्सचर पर विशेष ध्यान दिया गया है।
+
+#### 📝 Prompt
+
+```
+सबसे प्यारी शरारत। एक फरिश्ता भी एक जिज्ञासु बिल्ली को नहीं रोक सकता... एक छोटा सा पंख। एक गंभीर सा छोटा चेहरा। एक यादगार पल।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070145797845651456/img/FL07IBEA8pSaJAj7.jpg" width="600" alt="फरिश्ता और जिज्ञासु बिल्ली">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6488)**
+
+**Author:** [猫神MT](https://x.com/nekogami_MT) | **Source:** [Link](https://x.com/nekogami_MT/status/2070145869404614826) | **Published:** Jun 25, 2026
+
+---
+### लावा से उठती अग्नि देवी
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> तारों भरी रात के आकाश के नीचे पिघलते लावा से बाहर निकलती एक अग्नि देवी के लिए सिनेमैटिक वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+एक अग्नि देवी को धीरे-धीरे दहकते लावा से बाहर निकलते हुए बनाएँ। वह कोई दुष्ट देवी नहीं है, इसलिए उसकी आँखें सामान्य हैं। वह पूरी तरह से आग से बनी है और पृष्ठभूमि में रात के आकाश में तारे और बिजली चमक रही है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070059497469644800/img/RV29vFQTGszbVWDn.jpg" width="600" alt="लावा से उठती अग्नि देवी">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6481)**
+
+**Author:** [Lynn Hocker](https://x.com/Auroraskye3993) | **Source:** [Link](https://x.com/Auroraskye3993/status/2070059787602317621) | **Published:** Jun 25, 2026
+
+---
+### मुस्कुराती और हाथ हिलाती महिला का एनीमेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वीडियो जनरेशन प्रॉम्प्ट जिसमें एक महिला को स्वाभाविक गति और हल्की हवा के प्रभाव के साथ मुस्कुराते और हाथ हिलाते हुए दर्शाया गया है।
+
+#### 📝 Prompt
+
+```
+वह एक प्यारी, सच्ची मुस्कान के साथ कैमरे की ओर दोस्ताना अंदाज़ में हाथ हिलाती है, जबकि हल्की हवा में उसके बाल और केपलेट थोड़े लहरा रहे हैं। सौम्य, स्वाभाविक गति; वही हल्की दिन की रोशनी और ईंट की दीवार का बैकग्राउंड।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070058371399798784/img/tAIcikHFdaJgOUit.jpg" width="600" alt="मुस्कुराती और हाथ हिलाती महिला का एनीमेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6483)**
+
+**Author:** [grok_imagine_free_user](https://x.com/FreeGrokUser) | **Source:** [Link](https://x.com/FreeGrokUser/status/2070058384959983811) | **Published:** Jun 25, 2026
+
+---
+### नेबुला से झींगा (Shrimp) में बदलने वाला मॉर्फिंग एनीमेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक रचनात्मक मॉर्फिंग प्रॉम्प्ट जो दृश्य तत्वों का मिलान करके एक ब्रह्मांडीय नेबुला को कॉकटेल झींगे में बदल देता है।
+
+#### 📝 Prompt
+
+```
+आकाशगंगा/नेबुला को धीरे-धीरे तब तक घुमाएं जब तक कि वह एक बड़े कॉकटेल झींगे में न बदल जाए। नेबुला के गुलाबी रंग के झींगे जैसे दिखने वाले हिस्से का उपयोग करें - ताकि वह कॉकटेल झींगे में बदल सके।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070054724389466112/img/M8GyF-NPtJUrq5KO.jpg" width="600" alt="नेबुला से झींगा (Shrimp) में बदलने वाला मॉर्फिंग एनीमेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6484)**
+
+**Author:** [Lynn Hocker](https://x.com/Auroraskye3993) | **Source:** [Link](https://x.com/Auroraskye3993/status/2070054843604181021) | **Published:** Jun 25, 2026
+
+---
 ### सोनोरन रेगिस्तान में क्वांटम आविष्कारक
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1447,6 +1640,25 @@ Sebring को रिस्टोर करें, उस पर लिपटी
 **Author:** [Ashok Kumar Panda](https://x.com/ashok_sr_adv) | **Source:** [Link](https://x.com/ashok_sr_adv/status/2068005598046892078) | **Published:** Jun 19, 2026
 
 ---
+### Ghibli स्टाइल वाला समुद्र के किनारे का कॉटेज
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> आइकॉनिक Studio Ghibli एनीमे स्टाइल में, शाम के समय समुद्र के किनारे स्थित एक जापानी कॉटेज का उदासीन और आकर्षक दृश्य।
+
+#### 📝 Prompt
+
+```
+शाम के समय समुद्र के किनारे स्थित एक आकर्षक जापानी कॉटेज, खिड़कियों से आती गर्म रोशनी, बरामदे के बाहर दिखाई देती समुद्र की हल्की लहरें, पानी पर प्रतिबिंबित तारों भरा आसमान, शांतिपूर्ण और उदासीन अहसास, Studio Ghibli स्टाइल, सिनेमाई एनीमे दृश्य।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2067972919108759552/img/aHHwvenDdcGGk6d4.jpg" width="600" alt="Ghibli स्टाइल वाला समुद्र के किनारे का कॉटेज">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6487)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2067973035446112683) | **Published:** Jun 19, 2026
+
+---
 ### बच्चे के UFO अपहरण का एनिमेशन
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1922,218 +2134,6 @@ Sebring को रिस्टोर करें, उस पर लिपटी
 **Author:** [淼儿](https://x.com/tasakimori) | **Source:** [Link](https://x.com/tasakimori/status/2067589992281674195) | **Published:** Jun 18, 2026
 
 ---
-### Soft Pink Roses Dreamer प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> गुलाबी गुलाबों और सपने देखने वाले के चारों ओर स्वप्निल रोशनी वाला एक रोमांटिक और सॉफ्ट वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-एक सौम्य सपने देखने वाले के चारों ओर खिलते हुए हल्के गुलाबी गुलाब... पंखुड़ियों और स्वप्निल रोशनी में लिपटी हुई एक कोमल फुसफुसाहट।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067564271375134720/img/Kaj3_BjTZTb4EG6a.jpg" width="600" alt="Soft Pink Roses Dreamer प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6322)**
-
-**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2067564344557420569) | **Published:** Jun 18, 2026
-
----
-### कॉफी पीता हुआ शेर
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक मनमौजी वीडियो प्रॉम्प्ट जिसमें एक शांत शेर कॉफी का कप पीते हुए जीवन पर विचार कर रहा है।
-
-#### 📝 Prompt
-
-```
-कॉफी का एक छोटा सा कप और अचानक शेर दुनिया पर दहाड़ना बंद कर देता है... वह बस अपनी कॉफी पी रहा है और हम बाकी लोगों की तरह जीवन पर विचार कर रहा है। शुभ प्रभात ☕️🦁
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4eccf91fa142bb03ff977749eee6f9ae/thumbnails/thumbnail.jpg" width="600" alt="कॉफी पीता हुआ शेर">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6201)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2067548190778216759) | **Published:** Jun 18, 2026
-
----
-### शेर के साथ सुबह की कॉफी
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक मनमौजी वीडियो प्रॉम्प्ट, जिसमें सुबह की कॉफी के माहौल में एक नाटकीय शेर को दिखाया गया है।
-
-#### 📝 Prompt
-
-```
-हम ऐसे जागते हैं ☕ कॉफी, अफरा-तफरी, एक दहाड़ और चुटकुले। मेरी और मेरे नाटकीय शेर की तरफ से सुप्रभात 🦁
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/46b53cf185e14a15977bb2aff2c90ad2/thumbnails/thumbnail.jpg" width="600" alt="शेर के साथ सुबह की कॉफी">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6194)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2067543441685282900) | **Published:** Jun 18, 2026
-
----
-### टेलपाइप से आग उगलती मोटरसाइकिल की व्हीली
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> मोटरसाइकिल के स्टार्ट होने, आग उगलने और सड़क पर एग्जॉस्ट से आग निकलते हुए व्हीली करने का एक वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-अब बाइक स्टार्ट करें और टेलपाइप से आग निकालें, फिर दस सेकंड के लिए सड़क पर वापस आएं और मेरे साथ उस पर व्हीली करें, जिसमें टेलपाइप से आग निकल रही हो
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cc6da1857b761b8a7c7410d431f54bc8/thumbnails/thumbnail.jpg" width="600" alt="टेलपाइप से आग उगलती मोटरसाइकिल की व्हीली">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6211)**
-
-**Author:** [James Parker](https://x.com/JamesPa71114225) | **Source:** [Link](https://x.com/JamesPa71114225/status/2067483309567799473) | **Published:** Jun 18, 2026
-
----
-### पहाड़ी झरने का स्काई एक्सपेंशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक वीडियो जनरेशन प्रॉम्प्ट, जो संदर्भ छवि (reference image) को संशोधित करके आकाश का विस्तार करता है और अग्रभूमि (foreground) के विषय को सुरक्षित रखते हुए नाटकीय वातावरण जोड़ता है।
-
-#### 📝 Prompt
-
-```
-संदर्भ छवि की पृष्ठभूमि संरचना को संशोधित करें ताकि आकाश काफी अधिक दिखाई दे: पहाड़ों और गिरते हुए झरने के ऊपर के फ्रेम के ऊपरी हिस्से को अधिक नाटकीय और विस्तृत आकाश के साथ विस्तारित करें, जबकि अग्रभूमि में मौजूद महिला को वैसा ही बनाए रखें...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0f304e99365084c575e53794df11d167/thumbnails/thumbnail.jpg" width="600" alt="पहाड़ी झरने का स्काई एक्सपेंशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6192)**
-
-**Author:** [Christine Savard](https://x.com/christinesavard) | **Source:** [Link](https://x.com/christinesavard/status/2067464489629618651) | **Published:** Jun 18, 2026
-
----
-### Elon Musk SpaceX ट्रिलियनेयर सेलिब्रेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Elon Musk के ट्रिलियनेयर बनने और SpaceX IPO के बारे में बधाई संदेश के साथ एक इवेंट फोटो को एक शानदार सेलिब्रेटरी वीडियो में बदलें।
-
-#### 📝 Prompt
-
-```
-इस सेलिब्रेटरी @elonmusk @SpaceX इवेंट फोटो को एक शानदार बधाई दृश्य में बदलें। Elon Musk और उनकी टीम को @Nasdaq पोडियम पर अग्रभूमि (foreground) में रखें और @SpaceX लोगो को प्रमुखता से दिखाएं। ऊपरी और निचले हिस्सों में बोल्ड और आकर्षक टेक्स्ट ओवरले जोड़ें:
-
-#SpaceX (#SPCX) के संस्थापक और CEO #ElonMusk को दुनिया का पहला ट्रिलियनेयर बनने पर बधाई — और मानवता को मंगल ग्रह पर ले जाने के लिए #Starship बनाने के लिए!
-यह उपलब्धि, जो कि अभूतपूर्व #SpaceXIPO द्वारा संचालित है, नवाचार और अन्वेषण की सीमाओं को आगे बढ़ाने में एक अविश्वसनीय मील का पत्थर है। मल्टीप्लेनेटरी जीवन के भविष्य के नाम! 🚀🪐 #JehovahElElyon12282009
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d65d08f5c142b7267b5a9c1acfcd5421/thumbnails/thumbnail.jpg" width="600" alt="Elon Musk SpaceX ट्रिलियनेयर सेलिब्रेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6203)**
-
-**Author:** [Lillene Christy Ebanks](https://x.com/ChristyEbanks28) | **Source:** [Link](https://x.com/ChristyEbanks28/status/2067454311978676230) | **Published:** Jun 18, 2026
-
----
-### Stranger in a Strange Land का मंगल ग्रह दृश्य
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक नैरेटिव वीडियो प्रॉम्प्ट जो मंगल ग्रह के पहले अभियान और Valentine Michael Smith के पालन-पोषण को दर्शाता है।
-
-#### 📝 Prompt
-
-```
-Stranger in a Strange Land की शुरुआत से शुरू करें: मंगल ग्रह के पहले अभियान, Valentine Michael Smith (रोब पहने हुए युवक) के जन्म और मंगल ग्रह पर उसके पालन-पोषण का वर्णन करें। Jubal के रूप में वृद्ध व्यक्ति और सुनहरे बालों वाली नर्स पूल के पास ध्यान से सुन रहे हैं...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/40169451cc915cf798e08455520bfc62/thumbnails/thumbnail.jpg" width="600" alt="Stranger in a Strange Land का मंगल ग्रह दृश्य">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6207)**
-
-**Author:** [Timothy Norman](https://x.com/Timothy01775634) | **Source:** [Link](https://x.com/Timothy01775634/status/2067442256563359991) | **Published:** Jun 18, 2026
-
----
-### एलियन UFO कॉमेडी सीन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक मज़ेदार वीडियो प्रॉम्प्ट जिसमें एक UFO लैंडिंग और एक एलियन द्वारा चुटकुला सुनाना शामिल है।
-
-#### 📝 Prompt
-
-```
-अंधेरा जंगल, एक UFO प्रकट होता है, एक तेज़ रोशनी नीचे चमकती है और एक एलियन सामने आता है और कहता है, तुम्हारी मम्मी इतनी मोटी हैं कि बृहस्पति उनके चक्कर लगाता है!
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/17c60e6724e37542de67562383070a46/thumbnails/thumbnail.jpg" width="600" alt="एलियन UFO कॉमेडी सीन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6197)**
-
-**Author:** [Eli Stewart](https://x.com/EliStew17092519) | **Source:** [Link](https://x.com/EliStew17092519/status/2067435312884719780) | **Published:** Jun 18, 2026
-
----
-### SpaceX Starship ऑर्बिटल ड्रॉप पॉड्स
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक साइंस-फिक्शन वीडियो प्रॉम्प्ट जो SpaceX-शैली के ड्रॉप पॉड्स की छवियां उत्पन्न करता है, जिनमें सर्वाइवल और तकनीकी सामान से भरे बैरल शामिल हैं।
-
-#### 📝 Prompt
-
-```
-ऑर्बिटल ड्रॉप पॉड्स की छवियां उत्पन्न करें जो मिनी SpaceX Starship ड्रॉप पॉड्स की तरह हों। इनमें 55 गैलन के विभिन्न प्रकार के ड्रम शामिल होने चाहिए, जैसे कि बैरल में Optimus और अन्य सामान, खाद्य सामग्री के बैरल, तकनीकी सामान के बैरल, औजारों के बैरल, पेय पदार्थों के बैरल, सर्वाइवल किट के बैरल,...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dfbe71700fa45224a1b47b796d4abbb5/thumbnails/thumbnail.jpg" width="600" alt="SpaceX Starship ऑर्बिटल ड्रॉप पॉड्स">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6209)**
-
-**Author:** [Internet James](https://x.com/iminternetjames) | **Source:** [Link](https://x.com/iminternetjames/status/2067426068445962242) | **Published:** Jun 18, 2026
-
----
-### क्षुद्रग्रह रॉकेट पर काम करता अंतरिक्ष यात्री
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक छोटे से क्षुद्रग्रह पर मौजूद अंतरिक्ष यात्री का सिनेमाई वीडियो प्रॉम्प्ट, जो प्रणोदन के लिए रॉकेट इंजन का उपयोग करने का प्रयास कर रहा है।
-
-#### 📝 Prompt
-
-```
-स्पेस सूट पहने एक व्यक्ति केवल दस फीट व्यास वाले एक क्षुद्रग्रह पर खड़ा है। वह एक ऐसे रॉकेट इंजन पर काम कर रहा है जो उल्टा लगा है, जिसका थ्रस्ट क्षुद्रग्रह से दूर, सीधे क्षुद्रग्रह के अंदर की ओर निर्देशित है। यह क्षुद्रग्रह को एक...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/190f7047cf776146400d8cced4642421/thumbnails/thumbnail.jpg" width="600" alt="क्षुद्रग्रह रॉकेट पर काम करता अंतरिक्ष यात्री">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6205)**
-
-**Author:** [Bill Christensen](https://x.com/Technovelgy) | **Source:** [Link](https://x.com/Technovelgy/status/2067414916328251621) | **Published:** Jun 18, 2026
-
----
-### तैरता हुआ चीनी महलनुमा जहाज
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> बादलों के बीच एक प्राचीन जहाज के रूप में डिज़ाइन किए गए तैरते हुए चीनी महल का उच्च-गुणवत्ता वाला वीडियो बनाने के लिए एक विस्तृत प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-मास्टरपीस, सर्वोत्तम गुणवत्ता, बादलों के बीच तैरते एक विशाल प्राचीन जहाज के आकार में बने तैरते हुए चीनी महल की अति-विस्तृत सिनेमैटिक डिजिटल पेंटिंग। इस संरचना में पारंपरिक चीनी वास्तुकला, सुनहरे विवरण, लाल लालटेन और जटिल लकड़ी के काम के साथ कई अलंकृत स्तर हैं। यह नाटकीय बादलों और तैरते हुए चट्टानी पहाड़ों से घिरा हुआ है, जिसके ऊपर एक उज्ज्वल आकाश है जहाँ से सूरज की किरणें छनकर आ रही हैं। महाकाव्य पैमाना, कोमल ईश्वरीय किरणों (god rays) और तैरते हुए कणों के साथ राजसी और रहस्यमय वातावरण। अत्यधिक विस्तृत वास्तुकला, बादल और प्रकाश व्यवस्था। नीचे बाएं कोने में, एक छोटा सुरुचिपूर्ण हस्ताक्षर जोड़ें जिसमें परिष्कृत हस्तलिखित सुलेख शैली में बिल्कुल 'Kisalay' लिखा हो। कोई अन्य टेक्स्ट या वॉटरमार्क नहीं। सिनेमैटिक कंपोजिशन, जीवंत लेकिन सुरुचिपूर्ण रंग, सर्वोत्तम गुणवत्ता, 8K रिज़ॉल्यूशन।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4e591b16cafcb840fda94b6448589caa/thumbnails/thumbnail.jpg" width="600" alt="तैरता हुआ चीनी महलनुमा जहाज">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6171)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067323749532316148) | **Published:** Jun 17, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2195,6 +2195,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-26T04:31:34.718Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-26T11:11:57.693Z</sub>
 
 </div>
