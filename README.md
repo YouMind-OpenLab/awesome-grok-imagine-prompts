@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1967** |
+| 📝 Total Prompts | **1975** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-27** |
 
@@ -189,6 +189,158 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Majestic Sugar Maple Forest Ascent
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt creating a dramatic spiraling ascent up a majestic ancient Sugar Maple tree in a Tennessee forest during golden hour.
+
+#### 📝 Prompt
+
+```
+A cinematic low-angle shot of a majestic ancient Sugar Maple tree in a Tennessee forest at golden hour, camera starting at the massive gnarled base spiraling upward in a smooth dramatic ascent along the tall straight trunk, revealing intricate bark texture, sprawling branches with vibrant autumn leaves glowing in sunlight, epic scale and magnificence, hyper-detailed, photorealistic, sweeping motion, National Geographic style.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070578616514064385/img/s6v7rbP2_YJpcJTs.jpg" width="600" alt="Majestic Sugar Maple Forest Ascent">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6528)**
+
+**Author:** [Ray Salmon](https://x.com/salmon1820) | **Source:** [Link](https://x.com/salmon1820/status/2070579069708570890) | **Published:** Jun 26, 2026
+
+---
+### Misty Howling Morning Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An atmospheric video prompt featuring a man standing in the mist, reacting to the rain and howling at the first light of dawn.
+
+#### 📝 Prompt
+
+```
+he stands still, only moving his head looking from side to side, it is foggy and misty he feels the rain he cherishes the sun 🌞 he howls for the mornings first lights
+```
+
+<img src="https://cms-assets.youmind.com/media/1782548991899_tk0r5w_HLv4wQiXoAAXyB1.jpg" width="600" alt="Misty Howling Morning Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6527)**
+
+**Author:** [Brooke](https://x.com/Brooke85276868) | **Source:** [Link](https://x.com/Brooke85276868/status/2070522599294013689) | **Published:** Jun 26, 2026
+
+---
+### Moonlit Shoreline Rock Concert Performance
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt depicting a rock guitarist and a ballerina performing on a moonlit shore with dynamic wind and motion.
+
+#### 📝 Prompt
+
+```
+Cinematic moonlit shoreline stage: realistic human rock guitarist planted wide in black leather, electric guitar alive—strong picking hand, active fretboard, hair and jacket moving in wind; equal frame with a silver-white ballerina on pointe, classic
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070516606371864576/img/N6tBA0_0E2jxku8N.jpg" width="600" alt="Moonlit Shoreline Rock Concert Performance">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6522)**
+
+**Author:** [@TheCFormula credo.](https://x.com/TheCFormula) | **Source:** [Link](https://x.com/TheCFormula/status/2070516674906730730) | **Published:** Jun 26, 2026
+
+---
+### Studio Ghibli Style Japanese Train Station
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A nostalgic anime-style video prompt of a rural Japanese train station at night with swaying wildflowers and cinematic lighting.
+
+#### 📝 Prompt
+
+```
+A nostalgic rural Japanese train station at night, vintage wooden platform, glowing station lamps, wildflowers swaying in the breeze, starry sky overhead, warm and peaceful atmosphere, Studio Ghibli inspired anime artwork, ultra detailed and cinematic.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070496506583588864/img/ErbxoFiu1HZIslQC.jpg" width="600" alt="Studio Ghibli Style Japanese Train Station">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6523)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2070496541476106291) | **Published:** Jun 26, 2026
+
+---
+### Body Moving Up Through Clouds Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A motion prompt designed to animate a subject ascending through clouds with high-definition cinematic quality.
+
+#### 📝 Prompt
+
+```
+Animate body moving up through the clouds, masterpiece, ultra HD quality 1111111111111111111111111111111111 k resolution
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070478707072905216/img/orE4qofUH1ZrmX8n.jpg" width="600" alt="Body Moving Up Through Clouds Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6524)**
+
+**Author:** [MIUZAH DEIOPAH OF THE PLEIADES](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2070478762215358568) | **Published:** Jun 26, 2026
+
+---
+### Galactic Federation Pleiadians Starship Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A sci-fi prompt depicting Pleiadians in jumpsuits operating computer terminals inside a starship with volumetric lighting.
+
+#### 📝 Prompt
+
+```
+Pleiadians in Blue Galactic federation jumpsuits sat at computer terminals aboard starships, masterpiece, ultra HD Quality 11111111111111111111111111111111111111 k Volumetric Bright Lighting k
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070425640235421696/img/S65YifuMA9sk6iP2.jpg" width="600" alt="Galactic Federation Pleiadians Starship Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6525)**
+
+**Author:** [MIUZAH DEIOPAH OF THE PLEIADES](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2070425694207725650) | **Published:** Jun 26, 2026
+
+---
+### 2D Cartoon Naan Food Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A charming 2D animation prompt for food characters featuring a bouncing naan with avocado and tomato accents.
+
+#### 📝 Prompt
+
+```
+2D cartoon food animation: cheerful naan flatbread with avocado and tomatoes bounces lightly, steam puffs pop in cute circles, basil leaves wiggle. Snappy kids-cartoon timing, warm colors, gentle zoom.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070377021864075264/img/R6Wn080jiwtdSq-z.jpg" width="600" alt="2D Cartoon Naan Food Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6526)**
+
+**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2070377101966913755) | **Published:** Jun 26, 2026
+
+---
+### Cartoon Naan Pizza Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A whimsical 2D cartoon animation prompt featuring a bobbing naan pizza with shimmering ingredients.
+
+#### 📝 Prompt
+
+```
+Playful cartoon animation: the naan pizza gently bobs and steam curls upward in bouncy loops, tomato slices shimmer, basil leaves flutter. Bright 2D cartoon style with soft camera push-in, whimsical and appetizing.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070376328482709504/img/6SqB4RTZlaLEgEJP.jpg" width="600" alt="Cartoon Naan Pizza Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6529)**
+
+**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2070376397508366690) | **Published:** Jun 26, 2026
+
+---
 ### Mermaid and Cat Mermaid Underwater Fantasy
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -651,19 +803,19 @@ Space elevator bringing people and cargo up psychedelic experience lots of stars
 **Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2069426293360194028) | **Published:** Jun 23, 2026
 
 ---
-### Cinematic Slow Motion Breakfast
+### Retro Diner Cereal Splash Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed video generation prompt for a slow-motion cinematic scene of a girl surprised by flying cereal in a retro diner kitchen.
+> A detailed cinematic video prompt for Grok Imagine 1.5 featuring a young girl in a cozy retro diner kitchen as milk and cereal loops splash in dramatic slow motion.
 
 #### 📝 Prompt
 
 ```
-A cinematic wide angle shot inside a cozy retro diner style kitchen. A young girl leans over a bowl of colorful cereal as milk bursts upward in dramatic slow motion. Bright cereal loops float through the air around her face. She looks directly at the camera with wide eyes and an open-mouth expression of surprise and delight. Warm morning sunlight streams through the blinds. The scene has a playful, magical, energetic feel, with fisheye lens distortion, realistic lighting, high detail, dynamic motion, and a fun cinematic vibe. Duration: 10 seconds. Dialogue: Whoa… is my breakfast actually flying? Sound Design: Sudden milk splash. Light cereal scattering sounds. Soft magical sparkle effect. Girl’s surprised gasp. Fun playful background music.
+A cinematic wide angle shot inside a cozy retro diner style kitchen. A young girl leans over a bowl of colorful cereal as milk bursts upward in dramatic slow motion. Bright cereal loops float through the air around her face. She looks directly at the camera with wide eyes and an open-mouth expression of surprise and delight. Warm morning sunlight streams through the blinds. The scene has a playful, magical, energetic feel, with fisheye lens distortion, realistic lighting, high detail, dynamic motion, and a fun cinematic vibe. Duration: 10 seconds.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069395437908643841/img/g-URoeS90azUiBUG.jpg" width="600" alt="Cinematic Slow Motion Breakfast">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069395437908643841/img/g-URoeS90azUiBUG.jpg" width="600" alt="Retro Diner Cereal Splash Video">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6398)**
 
@@ -1973,158 +2125,6 @@ A couple has a brief, intimate conversation: "I'm afraid of the future" is the t
 **Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2067674068950667319) | **Published:** Jun 18, 2026
 
 ---
-### Gangster Elon Musk with Dogecoin Medallion
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A humorous video prompt featuring Elon Musk styled as a hip-hop gangster with gold accessories and tech brand rings.
-
-#### 📝 Prompt
-
-```
-Elon Musk as a hip-hop gangsta with gold teeth grille and cool shades and a gangster outfit, including fur coat and dogecoin medallion necklace and gold and rings on his fingers each ring with logo for SpaceXai, Tesla, Neuralink, and boring company....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4cd7e54c14a3a121297ccbda617e0b5f/thumbnails/thumbnail.jpg" width="600" alt="Gangster Elon Musk with Dogecoin Medallion">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6204)**
-
-**Author:** [sho](https://x.com/sho00092729) | **Source:** [Link](https://x.com/sho00092729/status/2067669306624585821) | **Published:** Jun 18, 2026
-
----
-### Black Myth Wukong Warrior Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An epic cinematic prompt inspired by Black Myth: Wukong, featuring a warrior facing massive guardian statues in a misty, mystical environment.
-
-#### 📝 Prompt
-
-```
-Masterpiece, best quality, ultra-detailed cinematic image from Black Myth: Wukong. A lone warrior stands on a rocky cliff holding a long staff, facing three massive ancient guardian statues shrouded in thick mist and dramatic god rays. The scene has a dark, epic, and mystical atmosphere with floating particles and moody lighting. Highly detailed armor, statues, and environment.Cinematic composition, sharp details, best quality, 8K resolution.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d9881f33649d46b1e7fa2d3552f829a9/thumbnails/thumbnail.jpg" width="600" alt="Black Myth Wukong Warrior Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6200)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067658367368352257) | **Published:** Jun 18, 2026
-
----
-### 3D Animation Talking Dog
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A 3D animated video prompt featuring a talking dog discussing the future and equality.
-
-#### 📝 Prompt
-
-```
-static shot, 3D animation and the dog says can we really build a future where everybody eats and nobody gets left behind?
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a3a2c154173fa5431d689efeb6869ec8/thumbnails/thumbnail.jpg" width="600" alt="3D Animation Talking Dog">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6210)**
-
-**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2067652638263370030) | **Published:** Jun 18, 2026
-
----
-### Optimus Building and Restoring Homes
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video prompt showing an Optimus robot building a house and speaking about the art of restoration.
-
-#### 📝 Prompt
-
-```
-Let’s make Elon look like a fucking genius. Let’s do this. I make that Optimus build a house and then he says restoration rehab rehabilitation the art of saving old souls and old homes where we are trying to get us caught up so we can go above and be...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3d830e8925b695a916ce9e676e7059eb/thumbnails/thumbnail.jpg" width="600" alt="Optimus Building and Restoring Homes">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6208)**
-
-**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2067651155044319585) | **Published:** Jun 18, 2026
-
----
-### Floating Umbrellas Shibuya Crossing
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A surreal cinematic video prompt for Grok Imagine featuring people with umbrellas floating above Shibuya Crossing at night.
-
-#### 📝 Prompt
-
-```
-In this surreal cinematic alternative art scene, people holding colorful umbrellas gently and slowly float upwards, drifting gracefully away into the night sky above Shibuya Crossing, with subtle wind and magical lift, slow graceful upward motion and...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6abc090bd78830396cd00095782e7a7e/thumbnails/thumbnail.jpg" width="600" alt="Floating Umbrellas Shibuya Crossing">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6195)**
-
-**Author:** [JetCapBoy](https://x.com/JetCapBoy) | **Source:** [Link](https://x.com/JetCapBoy/status/2067603546540056770) | **Published:** Jun 18, 2026
-
----
-### Magical Painting Lion Roar
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt where a framed lion comes to life in a dark bedroom and lets out a powerful roar.
-
-#### 📝 Prompt
-
-```
-In this dark bedroom scene, only the lion inside the large ornate black frame hanging on the black wall comes magically to life in a painterly style. The powerful male lion slowly turns his head toward the viewer and lets out a powerful roar
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b76266c625c49d0fbb90629e1de12a71/thumbnails/thumbnail.jpg" width="600" alt="Magical Painting Lion Roar">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6196)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2067598831827484846) | **Published:** Jun 18, 2026
-
----
-### Twilight Japan Rooftop Garden
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed atmospheric prompt for generating a video of a quiet rooftop garden in Japan during twilight.
-
-#### 📝 Prompt
-
-```
-Twilight in Japan, warm city lights below, a quiet rooftop garden above, and a sky painted with stars.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067593205680586752/img/rswrSoM2iHi1oZ8Y.jpg" width="600" alt="Twilight Japan Rooftop Garden">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6319)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2067593250354213218) | **Published:** Jun 18, 2026
-
----
-### Cinematic Dolly-in to Japanese Table Spread
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video prompt for a slow cinematic dolly-in shot of an intimate Japanese restaurant table with steam rising from a tempura bowl and warm bokeh lighting.
-
-#### 📝 Prompt
-
-```
-Slow cinematic dolly-in toward the table spread in an intimate Japanese restaurant. Subtle steam wisps rise from the hot tempura bowl. Warm pendant lights glow softly with gentle bokeh. The hostess holds a welcoming smile with a slight natural blink.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/028b826fe5241d87da6ce8ff6cf616e6/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Dolly-in to Japanese Table Spread">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6212)**
-
-**Author:** [淼儿](https://x.com/tasakimori) | **Source:** [Link](https://x.com/tasakimori/status/2067589992281674195) | **Published:** Jun 18, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2186,6 +2186,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-27T04:17:36.956Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-27T10:36:46.557Z</sub>
 
 </div>

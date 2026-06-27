@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **1967** |
+| 📝 提示词总数 | **1975** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-06-27** |
 
@@ -189,6 +189,158 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 雄伟糖枫林攀升
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段电影感视频提示词，呈现出在黄金时刻，镜头沿着田纳西州森林中一棵雄伟古老的糖枫树进行戏剧性的螺旋式上升。
+
+#### 📝 提示词
+
+```
+一段电影感低角度镜头，拍摄田纳西州森林中一棵雄伟的古老糖枫树，时间为黄金时刻。镜头从巨大的树干基部开始，沿着笔直高耸的树干进行平滑且富有戏剧性的螺旋式上升，展现出复杂的树皮纹理，以及在阳光下闪耀着鲜艳秋叶的茂密枝干。画面宏大壮丽，超高细节，照片级真实感，扫视运动，国家地理风格。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070578616514064385/img/s6v7rbP2_YJpcJTs.jpg" width="600" alt="雄伟糖枫林攀升">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6528)**
+
+**作者:** [Ray Salmon](https://x.com/salmon1820) | **来源:** [Link](https://x.com/salmon1820/status/2070579069708570890) | **发布时间:** Jun 26, 2026
+
+---
+### 薄雾晨曦中的嘶吼场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段充满氛围感的视频提示词，描述了一名男子站在薄雾中，感受着雨水，并在黎明的第一缕曙光中发出嘶吼。
+
+#### 📝 提示词
+
+```
+他静静地站着，只有头部在左右转动。四周雾气弥漫，他感受着雨水，珍惜着阳光 🌞，并为清晨的第一缕曙光发出嘶吼。
+```
+
+<img src="https://cms-assets.youmind.com/media/1782548991899_tk0r5w_HLv4wQiXoAAXyB1.jpg" width="600" alt="薄雾晨曦中的嘶吼场景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6527)**
+
+**作者:** [Brooke](https://x.com/Brooke85276868) | **来源:** [Link](https://x.com/Brooke85276868/status/2070522599294013689) | **发布时间:** Jun 26, 2026
+
+---
+### 月光海岸摇滚音乐会表演
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段电影质感的视频提示词，描绘了一位摇滚吉他手和一位芭蕾舞演员在月光照耀的海岸上表演，画面充满动态的风感与动作。
+
+#### 📝 提示词
+
+```
+电影质感的月光海岸舞台：逼真的摇滚吉他手身穿黑色皮衣，双腿叉开站立，电吉他充满活力——拨弦手强劲有力，指板动作活跃，头发和夹克随风飘动；画面中与一位身着银白色服装的芭蕾舞演员同框，她正踮起脚尖，动作经典
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070516606371864576/img/N6tBA0_0E2jxku8N.jpg" width="600" alt="月光海岸摇滚音乐会表演">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6522)**
+
+**作者:** [@TheCFormula credo.](https://x.com/TheCFormula) | **来源:** [Link](https://x.com/TheCFormula/status/2070516674906730730) | **发布时间:** Jun 26, 2026
+
+---
+### 吉卜力工作室风格的日本火车站
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段充满怀旧动画风格的视频提示词，描绘了夜晚乡村的日本火车站，伴有随风摇曳的野花和电影级的灯光效果。
+
+#### 📝 提示词
+
+```
+一个充满怀旧感的夜晚乡村日本火车站，复古木质站台，闪烁的车站灯光，野花在微风中摇曳，头顶星空，氛围温暖而宁静，吉卜力工作室风格的动画艺术，超高细节，电影级质感。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070496506583588864/img/ErbxoFiu1HZIslQC.jpg" width="600" alt="吉卜力工作室风格的日本火车站">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6523)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **来源:** [Link](https://x.com/MrDasOnX/status/2070496541476106291) | **发布时间:** Jun 26, 2026
+
+---
+### 主体穿云而上的动画效果
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个专为实现主体穿云而上效果而设计的动态提示词，具备高清电影级画质。
+
+#### 📝 提示词
+
+```
+动画效果：主体穿云而上，杰作，超高清画质 1111111111111111111111111111111111 k 分辨率
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070478707072905216/img/orE4qofUH1ZrmX8n.jpg" width="600" alt="主体穿云而上的动画效果">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6524)**
+
+**作者:** [MIUZAH DEIOPAH OF THE PLEIADES](https://x.com/Octillion111111) | **来源:** [Link](https://x.com/Octillion111111/status/2070478762215358568) | **发布时间:** Jun 26, 2026
+
+---
+### 银河联邦昴宿星人星际飞船动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个科幻提示词，描绘了身穿连体服的昴宿星人在星际飞船内操作计算机终端，并带有体积光效果。
+
+#### 📝 提示词
+
+```
+身穿蓝色银河联邦连体服的昴宿星人坐在星际飞船的计算机终端前，杰作，超高清画质 11111111111111111111111111111111111111 k 体积亮光 k
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070425640235421696/img/S65YifuMA9sk6iP2.jpg" width="600" alt="银河联邦昴宿星人星际飞船动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6525)**
+
+**作者:** [MIUZAH DEIOPAH OF THE PLEIADES](https://x.com/Octillion111111) | **来源:** [Link](https://x.com/Octillion111111/status/2070425694207725650) | **发布时间:** Jun 26, 2026
+
+---
+### 2D 卡通馕饼美食动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个迷人的 2D 美食角色动画提示词，主角是一个带有牛油果和番茄装饰的弹跳馕饼。
+
+#### 📝 提示词
+
+```
+2D 卡通美食动画：欢快的馕饼配上牛油果和番茄轻盈地弹跳，蒸汽以可爱的圆圈状冒出，罗勒叶轻轻摇曳。灵动的儿童卡通节奏，暖色调，轻柔的变焦效果。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070377021864075264/img/R6Wn080jiwtdSq-z.jpg" width="600" alt="2D 卡通馕饼美食动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6526)**
+
+**作者:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **来源:** [Link](https://x.com/maggiejuang1/status/2070377101966913755) | **发布时间:** Jun 26, 2026
+
+---
+### 卡通馕披萨动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个充满奇趣的 2D 卡通动画提示词，展示了馕披萨上下浮动且配料闪烁的画面。
+
+#### 📝 提示词
+
+```
+趣味卡通动画：馕披萨轻柔地上下浮动，蒸汽呈圆圈状向上升腾，番茄片闪烁着光泽，罗勒叶轻轻摆动。明亮的 2D 卡通风格，配合柔和的镜头推进，既奇趣又诱人。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070376328482709504/img/6SqB4RTZlaLEgEJP.jpg" width="600" alt="卡通馕披萨动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6529)**
+
+**作者:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **来源:** [Link](https://x.com/maggiejuang1/status/2070376397508366690) | **发布时间:** Jun 26, 2026
+
+---
 ### 美人鱼与猫咪美人鱼的水下奇幻世界
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1982,158 +2134,6 @@ Elena 穿过闪烁的传送门，进入广阔的 Playroom，她环顾四周，�
 **作者:** [Déborah](https://x.com/dvorahfr) | **来源:** [Link](https://x.com/dvorahfr/status/2067674068950667319) | **发布时间:** Jun 18, 2026
 
 ---
-### 佩戴狗狗币勋章的黑帮风格 Elon Musk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个幽默的视频提示词，将 Elon Musk 塑造成嘻哈黑帮风格，配有金色配饰和科技品牌戒指。
-
-#### 📝 提示词
-
-```
-Elon Musk 呈现嘻哈黑帮造型，戴着金牙套、酷炫墨镜，身穿黑帮服饰，包括皮草大衣和狗狗币勋章项链，手指上戴着金戒指，每枚戒指上分别印有 SpaceX、xAI、Tesla、Neuralink 和 The Boring Company 的标志……
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4cd7e54c14a3a121297ccbda617e0b5f/thumbnails/thumbnail.jpg" width="600" alt="佩戴狗狗币勋章的黑帮风格 Elon Musk">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6204)**
-
-**作者:** [sho](https://x.com/sho00092729) | **来源:** [Link](https://x.com/sho00092729/status/2067669306624585821) | **发布时间:** Jun 18, 2026
-
----
-### 《黑神话：悟空》战士场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个受《黑神话：悟空》启发的史诗级电影感提示词，描绘了一名战士在云雾缭绕、充满神秘感的环境中面对巨大守护雕像的场景。
-
-#### 📝 提示词
-
-```
-杰作，最佳画质，来自《黑神话：悟空》的超细节电影感图像。一名孤独的战士手持长棍站在岩石悬崖上，面对着三座巨大的古代守护雕像，雕像笼罩在浓雾和戏剧性的神圣光束中。场景呈现出黑暗、史诗且神秘的氛围，伴有漂浮的微粒和情绪化的光影。高度细节化的盔甲、雕像和环境。电影级构图，清晰的细节，最佳画质，8K 分辨率。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d9881f33649d46b1e7fa2d3552f829a9/thumbnails/thumbnail.jpg" width="600" alt="《黑神话：悟空》战士场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6200)**
-
-**作者:** [⭕Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2067658367368352257) | **发布时间:** Jun 18, 2026
-
----
-### 3D 动画会说话的狗
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段 3D 动画视频提示词，内容是一只正在探讨未来与平等的会说话的狗。
-
-#### 📝 提示词
-
-```
-静态镜头，3D 动画，狗说：我们真的能构建一个每个人都有饭吃、没有人被抛下的未来吗？
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a3a2c154173fa5431d689efeb6869ec8/thumbnails/thumbnail.jpg" width="600" alt="3D 动画会说话的狗">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6210)**
-
-**作者:** [the_light](https://x.com/the_light35) | **来源:** [Link](https://x.com/the_light35/status/2067652638263370030) | **发布时间:** Jun 18, 2026
-
----
-### Optimus 建造与修复房屋
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个视频提示词，展示了 Optimus 机器人建造房屋并讲述修复艺术的过程。
-
-#### 📝 提示词
-
-```
-让我们让 Elon 看起来像个天才。开始吧。我让 Optimus 建造一栋房子，然后他说：修复、康复、重建，这是拯救旧灵魂与旧居所的艺术，我们正努力赶上进度，以便能够超越并达到……
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3d830e8925b695a916ce9e676e7059eb/thumbnails/thumbnail.jpg" width="600" alt="Optimus 建造与修复房屋">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6208)**
-
-**作者:** [the_light](https://x.com/the_light35) | **来源:** [Link](https://x.com/the_light35/status/2067651155044319585) | **发布时间:** Jun 18, 2026
-
----
-### 涩谷十字路口的漂浮雨伞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个为 Grok Imagine 设计的超现实电影感视频提示词，描绘了夜晚涩谷十字路口人们撑着雨伞漂浮在空中的场景。
-
-#### 📝 提示词
-
-```
-在这个超现实的电影感另类艺术场景中，手持彩色雨伞的人们轻柔而缓慢地向上漂浮，优雅地飘向涩谷十字路口上方的夜空。伴随着微风和神奇的升力，呈现出缓慢而优雅的上升动作，以及……
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6abc090bd78830396cd00095782e7a7e/thumbnails/thumbnail.jpg" width="600" alt="涩谷十字路口的漂浮雨伞">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6195)**
-
-**作者:** [JetCapBoy](https://x.com/JetCapBoy) | **来源:** [Link](https://x.com/JetCapBoy/status/2067603546540056770) | **发布时间:** Jun 18, 2026
-
----
-### 魔幻画作：雄狮怒吼
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个电影感视频提示词：画框中的雄狮在昏暗的卧室中苏醒，并发出一声震撼的怒吼。
-
-#### 📝 提示词
-
-```
-在这间昏暗的卧室场景中，挂在黑色墙壁上、大型华丽黑色画框里的雄狮，以油画风格魔幻般地苏醒过来。这头威武的雄狮缓缓转头看向观众，并发出一声震撼的怒吼。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b76266c625c49d0fbb90629e1de12a71/thumbnails/thumbnail.jpg" width="600" alt="魔幻画作：雄狮怒吼">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6196)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2067598831827484846) | **发布时间:** Jun 18, 2026
-
----
-### 日本屋顶花园的黄昏
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段电影感视频提示词，描述了日本宁静的黄昏景象，下方是城市灯火，上方是星空下的屋顶花园。
-
-#### 📝 提示词
-
-```
-日本的黄昏，下方是温暖的城市灯火，上方是静谧的屋顶花园，天空被繁星点缀。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067593205680586752/img/rswrSoM2iHi1oZ8Y.jpg" width="600" alt="日本屋顶花园的黄昏">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6319)**
-
-**作者:** [Mr Das](https://x.com/MrDasOnX) | **来源:** [Link](https://x.com/MrDasOnX/status/2067593250354213218) | **发布时间:** Jun 18, 2026
-
----
-### 电影感推拉镜头：日式餐桌布置
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于生成电影感缓慢推拉镜头的视频提示词，画面展示了温馨的日式餐厅餐桌，天妇罗碗中热气升腾，背景呈现温暖的焦外成像效果。
-
-#### 📝 提示词
-
-```
-缓慢的电影感推拉镜头，聚焦于温馨日式餐厅的餐桌布置。热气腾腾的天妇罗碗中升起细微的蒸汽。温暖的吊灯散发出柔和的光芒，营造出细腻的焦外成像效果。女服务员面带欢迎的微笑，伴随着自然的轻微眨眼。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/028b826fe5241d87da6ce8ff6cf616e6/thumbnails/thumbnail.jpg" width="600" alt="电影感推拉镜头：日式餐桌布置">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6212)**
-
-**作者:** [淼儿](https://x.com/tasakimori) | **来源:** [Link](https://x.com/tasakimori/status/2067589992281674195) | **发布时间:** Jun 18, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2195,6 +2195,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-06-27T04:17:37.990Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-06-27T10:36:48.098Z</sub>
 
 </div>

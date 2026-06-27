@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **1967** |
+| 📝 プロンプト総数 | **1975** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-06-27** |
 
@@ -189,6 +189,158 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### 荘厳なサトウカエデの森を昇る
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> テネシー州の森で、ゴールデンアワーに輝く荘厳な古木のサトウカエデを、螺旋を描きながらドラマチックに上昇していくシネマティックな動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+テネシー州の森でゴールデンアワーに撮影された、荘厳な古木のサトウカエデのシネマティックなローアングルショット。カメラは巨大で節くれだった根元から始まり、背の高い真っ直ぐな幹に沿って滑らかかつドラマチックに螺旋を描きながら上昇する。複雑な樹皮の質感、日光を浴びて鮮やかに輝く紅葉をつけた枝葉が露わになり、壮大なスケールと威厳を感じさせる。超高精細、フォトリアル、ダイナミックなスイープモーション、ナショナルジオグラフィック風の映像。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070578616514064385/img/s6v7rbP2_YJpcJTs.jpg" width="600" alt="荘厳なサトウカエデの森を昇る">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6528)**
+
+**作者:** [Ray Salmon](https://x.com/salmon1820) | **ソース:** [Link](https://x.com/salmon1820/status/2070579069708570890) | **公開日:** Jun 26, 2026
+
+---
+### 霧に包まれた夜明けの遠吠え
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 霧の中に立ち、雨を感じながら夜明けの光に向かって遠吠えをする男性を描いた、雰囲気のあるビデオプロンプトです。
+
+#### 📝 プロンプト
+
+```
+彼は静止したまま、首を左右に動かして周囲を見渡している。霧が立ち込める中、彼は雨を感じ、太陽の光を慈しんでいる 🌞 彼は朝一番の光に向けて遠吠えをする
+```
+
+<img src="https://cms-assets.youmind.com/media/1782548991899_tk0r5w_HLv4wQiXoAAXyB1.jpg" width="600" alt="霧に包まれた夜明けの遠吠え">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6527)**
+
+**作者:** [Brooke](https://x.com/Brooke85276868) | **ソース:** [Link](https://x.com/Brooke85276868/status/2070522599294013689) | **公開日:** Jun 26, 2026
+
+---
+### 月明かりの海岸でのロックコンサート・パフォーマンス
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 月明かりに照らされた海岸で、ダイナミックな風と動きの中でパフォーマンスを行うロックギタリストとバレリーナを描いたシネマティックな動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+月明かりに照らされた海岸のシネマティックなステージ：黒いレザーを身にまとい、足を踏ん張って演奏するリアルなロックギタリスト。生き生きとしたエレキギター、力強いピッキングの手元、指板でのアクティブな動き、風になびく髪とジャケット。その横には、同じフレーム内でポワントで立つ銀白色のバレリーナ、クラシックなスタイル
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070516606371864576/img/N6tBA0_0E2jxku8N.jpg" width="600" alt="月明かりの海岸でのロックコンサート・パフォーマンス">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6522)**
+
+**作者:** [@TheCFormula credo.](https://x.com/TheCFormula) | **ソース:** [Link](https://x.com/TheCFormula/status/2070516674906730730) | **公開日:** Jun 26, 2026
+
+---
+### スタジオジブリ風の日本の駅
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 夜の日本の田舎の駅を舞台にした、ノスタルジックなアニメ風の動画プロンプト。揺れる野花と映画のようなライティングが特徴です。
+
+#### 📝 プロンプト
+
+```
+夜のノスタルジックな日本の田舎の駅、レトロな木造のプラットホーム、温かく光る駅の照明、風に揺れる野花、頭上に広がる星空、温かく穏やかな雰囲気、スタジオジブリ風のアニメアート、超高精細で映画のような質感。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070496506583588864/img/ErbxoFiu1HZIslQC.jpg" width="600" alt="スタジオジブリ風の日本の駅">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6523)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **ソース:** [Link](https://x.com/MrDasOnX/status/2070496541476106291) | **公開日:** Jun 26, 2026
+
+---
+### 雲の中を上昇する被写体のアニメーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 被写体が雲の中を上昇していく様子を、高精細なシネマティック品質でアニメーション化するためのモーションプロンプトです。
+
+#### 📝 プロンプト
+
+```
+雲の中を上昇する被写体のアニメーション、傑作、超高精細品質、1111111111111111111111111111111111 k 解像度
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070478707072905216/img/orE4qofUH1ZrmX8n.jpg" width="600" alt="雲の中を上昇する被写体のアニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6524)**
+
+**作者:** [MIUZAH DEIOPAH OF THE PLEIADES](https://x.com/Octillion111111) | **ソース:** [Link](https://x.com/Octillion111111/status/2070478762215358568) | **公開日:** Jun 26, 2026
+
+---
+### 銀河連邦プレアデス星人の宇宙船アニメーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 宇宙船内のコンピュータ端末を操作する、ジャンプスーツを着たプレアデス星人を描いた SF プロンプト。ボリュメトリックライティングによる演出。
+
+#### 📝 プロンプト
+
+```
+青い銀河連邦のジャンプスーツを着たプレアデス星人が宇宙船内のコンピュータ端末の前に座っている、傑作、超高画質 11111111111111111111111111111111111111 k ボリュメトリックな明るい照明 k
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070425640235421696/img/S65YifuMA9sk6iP2.jpg" width="600" alt="銀河連邦プレアデス星人の宇宙船アニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6525)**
+
+**作者:** [MIUZAH DEIOPAH OF THE PLEIADES](https://x.com/Octillion111111) | **ソース:** [Link](https://x.com/Octillion111111/status/2070425694207725650) | **公開日:** Jun 26, 2026
+
+---
+### 2D カートゥーン風ナン料理のアニメーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> アボカドとトマトをトッピングしたナンが弾む、キュートなフードキャラクターの 2D アニメーション用プロンプトです。
+
+#### 📝 プロンプト
+
+```
+2D カートゥーン風フードアニメーション：陽気なナンのキャラクターがアボカドとトマトを乗せて軽やかに弾み、湯気がキュートな円を描いて立ち上り、バジルの葉が揺れる。子供向けアニメのようなキビキビとしたテンポ、温かみのある色調、緩やかなズーム。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070377021864075264/img/R6Wn080jiwtdSq-z.jpg" width="600" alt="2D カートゥーン風ナン料理のアニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6526)**
+
+**作者:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **ソース:** [Link](https://x.com/maggiejuang1/status/2070377101966913755) | **公開日:** Jun 26, 2026
+
+---
+### ナンピザのカートゥーン風アニメーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 具材がキラキラと輝くナンピザが揺れる、遊び心あふれる 2D カートゥーンアニメーションのプロンプトです。
+
+#### 📝 プロンプト
+
+```
+遊び心のあるカートゥーンアニメーション：ナンピザが優しく揺れ、湯気が弾むようなループを描いて立ち上ります。トマトのスライスはきらめき、バジルの葉がひらひらと舞います。明るい 2D カートゥーンスタイルで、カメラがゆっくりと寄っていく、幻想的で食欲をそそる映像です。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070376328482709504/img/6SqB4RTZlaLEgEJP.jpg" width="600" alt="ナンピザのカートゥーン風アニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6529)**
+
+**作者:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **ソース:** [Link](https://x.com/maggiejuang1/status/2070376397508366690) | **公開日:** Jun 26, 2026
+
+---
 ### 人魚と猫の人魚の水中ファンタジー
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1982,158 +2134,6 @@ UFO に引き寄せられるかのように子供が地面から浮かび上が�
 **作者:** [Déborah](https://x.com/dvorahfr) | **ソース:** [Link](https://x.com/dvorahfr/status/2067674068950667319) | **公開日:** Jun 18, 2026
 
 ---
-### ドージコインのメダルを身につけたギャングスタ風のイーロン・マスク
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ゴールドのアクセサリーやテック企業のロゴ入りリングを身につけ、ヒップホップのギャングスタ風にスタイリングされたイーロン・マスクが登場するユーモラスな動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-ゴールドのグリル（歯の装飾）とクールなサングラスをかけ、ファーコートにドージコインのメダルネックレス、そして SpaceX 、 xAI 、 Tesla 、 Neuralink 、 The Boring Company のロゴが入った指輪をはめた、ヒップホップのギャングスタ風のイーロン・マスク...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4cd7e54c14a3a121297ccbda617e0b5f/thumbnails/thumbnail.jpg" width="600" alt="ドージコインのメダルを身につけたギャングスタ風のイーロン・マスク">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6204)**
-
-**作者:** [sho](https://x.com/sho00092729) | **ソース:** [Link](https://x.com/sho00092729/status/2067669306624585821) | **公開日:** Jun 18, 2026
-
----
-### 『Black Myth: Wukong』の戦士のシーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 『Black Myth: Wukong』にインスパイアされた、霧に包まれた神秘的な環境で巨大な守護像と対峙する戦士を描いた壮大なシネマティックプロンプト。
-
-#### 📝 プロンプト
-
-```
-傑作、最高品質、超詳細な『Black Myth: Wukong』のシネマティック画像。岩だらけの崖の上に立ち、長い杖を手にした孤独な戦士が、深い霧とドラマチックな光の筋に包まれた 3 体の巨大な古代の守護像と対峙している。浮遊する粒子とムードのある照明が、ダークで壮大、かつ神秘的な雰囲気を演出。鎧、彫像、環境に至るまで精巧に描写。シネマティックな構図、シャープなディテール、最高品質、8K 解像度。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d9881f33649d46b1e7fa2d3552f829a9/thumbnails/thumbnail.jpg" width="600" alt="『Black Myth: Wukong』の戦士のシーン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6200)**
-
-**作者:** [⭕Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2067658367368352257) | **公開日:** Jun 18, 2026
-
----
-### 3D アニメーションの喋る犬
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 未来と平等について語る、喋る犬が登場する 3D アニメーション動画のプロンプト。
-
-#### 📝 プロンプト
-
-```
-静止画ショット、3D アニメーション。犬が「私たちは本当に、誰もが食事にありつき、誰一人取り残されない未来を築くことができるのだろうか？」と語りかける。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a3a2c154173fa5431d689efeb6869ec8/thumbnails/thumbnail.jpg" width="600" alt="3D アニメーションの喋る犬">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6210)**
-
-**作者:** [the_light](https://x.com/the_light35) | **ソース:** [Link](https://x.com/the_light35/status/2067652638263370030) | **公開日:** Jun 18, 2026
-
----
-### Optimus による住宅の建築と修復
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Optimus ロボットが家を建て、修復の芸術について語るビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-イーロンを天才に見せよう。さあ、やろう。Optimus に家を建てさせ、彼にこう言わせるんだ。「修復、リハビリテーション、再生。古い魂と古い家を救う芸術。私たちは追いつこうとしている、その先へ行くために……」
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3d830e8925b695a916ce9e676e7059eb/thumbnails/thumbnail.jpg" width="600" alt="Optimus による住宅の建築と修復">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6208)**
-
-**作者:** [the_light](https://x.com/the_light35) | **ソース:** [Link](https://x.com/the_light35/status/2067651155044319585) | **公開日:** Jun 18, 2026
-
----
-### 渋谷スクランブル交差点に浮かぶ傘
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 用のシュールで映画のような動画プロンプト。夜の渋谷スクランブル交差点で、傘を差した人々が空に浮かび上がる様子を描写しています。
-
-#### 📝 プロンプト
-
-```
-このシュールで映画のようなオルタナティブ・アートシーンでは、カラフルな傘を差した人々がゆっくりと優雅に空へと浮かび上がり、夜の渋谷スクランブル交差点の上空へと漂っていきます。かすかな風と魔法のような浮揚感、そしてゆっくりと優雅な上昇の動きが...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6abc090bd78830396cd00095782e7a7e/thumbnails/thumbnail.jpg" width="600" alt="渋谷スクランブル交差点に浮かぶ傘">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6195)**
-
-**作者:** [JetCapBoy](https://x.com/JetCapBoy) | **ソース:** [Link](https://x.com/JetCapBoy/status/2067603546540056770) | **公開日:** Jun 18, 2026
-
----
-### 魔法の絵画：ライオンの咆哮
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 暗い寝室で額縁の中のライオンが命を吹き込まれ、力強く咆哮するシネマティックな動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-暗い寝室のシーン。黒い壁に掛けられた大きな装飾付きの黒い額縁の中で、絵画調のライオンが魔法のように命を吹き込まれます。雄々しいライオンがゆっくりとこちらを向き、力強く咆哮します。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b76266c625c49d0fbb90629e1de12a71/thumbnails/thumbnail.jpg" width="600" alt="魔法の絵画：ライオンの咆哮">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6196)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2067598831827484846) | **公開日:** Jun 18, 2026
-
----
-### 日本の屋上庭園に訪れる黄昏時
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 星空の下、日本の都市の明かりと屋上庭園が織りなす穏やかな黄昏時の風景を描写した、シネマティックな動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-日本の黄昏時。眼下に広がる温かな街の明かり、静寂に包まれた屋上庭園、そして星々で彩られた空。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067593205680586752/img/rswrSoM2iHi1oZ8Y.jpg" width="600" alt="日本の屋上庭園に訪れる黄昏時">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6319)**
-
-**作者:** [Mr Das](https://x.com/MrDasOnX) | **ソース:** [Link](https://x.com/MrDasOnX/status/2067593250354213218) | **公開日:** Jun 18, 2026
-
----
-### 日本料理のテーブルへ向かうシネマティックなドリーイン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 天ぷらの器から湯気が立ち上り、温かみのあるボケ味が効いた、隠れ家的な日本料理店のテーブルへゆっくりと寄っていくシネマティックなドリーインショットの動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-隠れ家的な日本料理店のテーブルへ向かう、ゆっくりとしたシネマティックなドリーイン。熱々の天ぷらの器から繊細な湯気が立ち上る。温かみのあるペンダントライトが柔らかなボケ味を演出。店員が自然な瞬きを交えながら、温かい笑顔で迎えている。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/028b826fe5241d87da6ce8ff6cf616e6/thumbnails/thumbnail.jpg" width="600" alt="日本料理のテーブルへ向かうシネマティックなドリーイン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6212)**
-
-**作者:** [淼儿](https://x.com/tasakimori) | **ソース:** [Link](https://x.com/tasakimori/status/2067589992281674195) | **公開日:** Jun 18, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2195,6 +2195,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-27T04:17:40.113Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-27T10:36:50.542Z</sub>
 
 </div>

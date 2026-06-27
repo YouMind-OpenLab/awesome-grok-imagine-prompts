@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1967** |
+| 📝 Total Prompts | **1975** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-27** |
 
@@ -189,6 +189,158 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### การทะยานขึ้นสู่ยอดป่าเมเปิลน้ำตาลอันยิ่งใหญ่
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวภาพยนตร์ที่สร้างการเคลื่อนกล้องแบบหมุนวนขึ้นสู่ยอดต้นเมเปิลน้ำตาลโบราณอันยิ่งใหญ่ในป่ารัฐเทนเนสซีช่วงเวลาโกลเด้นอาวร์
+
+#### 📝 Prompt
+
+```
+ภาพมุมต่ำแนวภาพยนตร์ของต้นเมเปิลน้ำตาลโบราณอันยิ่งใหญ่ในป่ารัฐเทนเนสซีช่วงเวลาโกลเด้นอาวร์ กล้องเริ่มจากโคนต้นไม้ขนาดใหญ่ที่มีรอยขรุขระ หมุนวนขึ้นด้านบนอย่างนุ่มนวลและน่าตื่นตาไปตามลำต้นที่สูงตรง เผยให้เห็นรายละเอียดของเปลือกไม้ กิ่งก้านที่แผ่ขยายพร้อมใบไม้เปลี่ยนสีที่ส่องประกายในแสงแดด ให้ความรู้สึกถึงขนาดที่ยิ่งใหญ่และงดงาม รายละเอียดสูง สมจริงดั่งภาพถ่าย การเคลื่อนไหวแบบกวาดสายตา สไตล์ National Geographic
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070578616514064385/img/s6v7rbP2_YJpcJTs.jpg" width="600" alt="การทะยานขึ้นสู่ยอดป่าเมเปิลน้ำตาลอันยิ่งใหญ่">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6528)**
+
+**Author:** [Ray Salmon](https://x.com/salmon1820) | **Source:** [Link](https://x.com/salmon1820/status/2070579069708570890) | **Published:** Jun 26, 2026
+
+---
+### ฉากยามเช้าอันเงียบเหงาและเสียงโหยหวนท่ามกลางสายหมอก
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์บรรยากาศชวนฝัน เผยให้เห็นชายคนหนึ่งยืนอยู่ท่ามกลางสายหมอก เขากำลังตอบสนองต่อสายฝนและส่งเสียงโหยหวนรับแสงแรกของรุ่งอรุณ
+
+#### 📝 Prompt
+
+```
+เขายืนนิ่ง ขยับเพียงศีรษะหันมองไปรอบ ๆ บรรยากาศเต็มไปด้วยหมอกหนา เขาสัมผัสได้ถึงสายฝนและดื่มด่ำกับแสงอาทิตย์ 🌞 เขาเปล่งเสียงโหยหวนต้อนรับแสงแรกของยามเช้า
+```
+
+<img src="https://cms-assets.youmind.com/media/1782548991899_tk0r5w_HLv4wQiXoAAXyB1.jpg" width="600" alt="ฉากยามเช้าอันเงียบเหงาและเสียงโหยหวนท่ามกลางสายหมอก">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6527)**
+
+**Author:** [Brooke](https://x.com/Brooke85276868) | **Source:** [Link](https://x.com/Brooke85276868/status/2070522599294013689) | **Published:** Jun 26, 2026
+
+---
+### การแสดงคอนเสิร์ตร็อกบนชายฝั่งใต้แสงจันทร์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์แนวภาพยนตร์ที่ถ่ายทอดภาพมือกีตาร์ร็อกและนักบัลเลต์กำลังแสดงบนชายฝั่งใต้แสงจันทร์ พร้อมด้วยสายลมและการเคลื่อนไหวที่สมจริง
+
+#### 📝 Prompt
+
+```
+เวทีบนชายฝั่งใต้แสงจันทร์สไตล์ภาพยนตร์: มือกีตาร์ร็อกสมจริงในชุดหนังสีดำยืนหยัดมั่น กีตาร์ไฟฟ้าดูมีชีวิตชีวา มือที่กำลังดีดสายอย่างหนักแน่น เฟรตบอร์ดที่ขยับไหว เส้นผมและเสื้อแจ็กเก็ตพริ้วไหวตามแรงลม ในเฟรมเดียวกันมีนักบัลเลต์ในชุดสีเงินขาวกำลังเต้นบนปลายเท้าอย่างคลาสสิก
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070516606371864576/img/N6tBA0_0E2jxku8N.jpg" width="600" alt="การแสดงคอนเสิร์ตร็อกบนชายฝั่งใต้แสงจันทร์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6522)**
+
+**Author:** [@TheCFormula credo.](https://x.com/TheCFormula) | **Source:** [Link](https://x.com/TheCFormula/status/2070516674906730730) | **Published:** Jun 26, 2026
+
+---
+### สถานีรถไฟญี่ปุ่นสไตล์ Studio Ghibli
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอสไตล์อนิเมะสุดคิดถึงของสถานีรถไฟในชนบทของญี่ปุ่นยามค่ำคืน พร้อมดอกไม้ป่าที่พลิ้วไหวและแสงสีแบบภาพยนตร์
+
+#### 📝 Prompt
+
+```
+สถานีรถไฟในชนบทของญี่ปุ่นยามค่ำคืนที่ชวนให้คิดถึง ชานชาลาไม้แบบวินเทจ โคมไฟสถานีที่ส่องสว่าง ดอกไม้ป่าที่พลิ้วไหวตามสายลม ท้องฟ้าเต็มไปด้วยดวงดาว บรรยากาศอบอุ่นและเงียบสงบ งานศิลปะอนิเมะที่ได้รับแรงบันดาลใจจาก Studio Ghibli รายละเอียดคมชัดและมีความเป็นภาพยนตร์
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070496506583588864/img/ErbxoFiu1HZIslQC.jpg" width="600" alt="สถานีรถไฟญี่ปุ่นสไตล์ Studio Ghibli">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6523)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2070496541476106291) | **Published:** Jun 26, 2026
+
+---
+### แอนิเมชันวัตถุเคลื่อนที่ขึ้นผ่านก้อนเมฆ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่งโมชัน (motion prompt) ที่ออกแบบมาเพื่อสร้างแอนิเมชันวัตถุที่กำลังลอยขึ้นผ่านก้อนเมฆด้วยคุณภาพระดับภาพยนตร์ความละเอียดสูง
+
+#### 📝 Prompt
+
+```
+สร้างแอนิเมชันวัตถุเคลื่อนที่ขึ้นผ่านก้อนเมฆ, ผลงานระดับมาสเตอร์พีซ, คุณภาพระดับ ultra HD ความละเอียด 1111111111111111111111111111111111 k
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070478707072905216/img/orE4qofUH1ZrmX8n.jpg" width="600" alt="แอนิเมชันวัตถุเคลื่อนที่ขึ้นผ่านก้อนเมฆ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6524)**
+
+**Author:** [MIUZAH DEIOPAH OF THE PLEIADES](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2070478762215358568) | **Published:** Jun 26, 2026
+
+---
+### แอนิเมชันยานอวกาศของชาวเพลยาเดียนแห่งสหพันธ์กาแล็กซี
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์แนวไซไฟที่แสดงภาพชาวเพลยาเดียนในชุดจัมพ์สูทกำลังใช้งานหน้าจอคอมพิวเตอร์ภายในยานอวกาศ พร้อมแสงแบบวอลูเมตริก
+
+#### 📝 Prompt
+
+```
+ชาวเพลยาเดียนในชุดจัมพ์สูทสีน้ำเงินของสหพันธ์กาแล็กซี นั่งอยู่หน้าจอคอมพิวเตอร์บนยานอวกาศ, ผลงานชิ้นเอก, คุณภาพระดับ Ultra HD 11111111111111111111111111111111111111 k แสงสว่างแบบวอลูเมตริก k
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070425640235421696/img/S65YifuMA9sk6iP2.jpg" width="600" alt="แอนิเมชันยานอวกาศของชาวเพลยาเดียนแห่งสหพันธ์กาแล็กซี">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6525)**
+
+**Author:** [MIUZAH DEIOPAH OF THE PLEIADES](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2070425694207725650) | **Published:** Jun 26, 2026
+
+---
+### แอนิเมชันการ์ตูน 2D รูปอาหารนาน
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์แอนิเมชัน 2D สุดน่ารักสำหรับตัวละครอาหาร โดยมีแผ่นแป้งนานที่กำลังกระดอนไปมาพร้อมส่วนประกอบของอะโวคาโดและมะเขือเทศ
+
+#### 📝 Prompt
+
+```
+แอนิเมชันการ์ตูน 2D รูปอาหาร: แผ่นแป้งนานแสนร่าเริงพร้อมอะโวคาโดและมะเขือเทศกำลังกระดอนเบาๆ มีควันพุ่งออกมาเป็นวงกลมสุดน่ารัก และใบโหระพาสั่นไหว จังหวะแบบการ์ตูนเด็กที่สนุกสนาน โทนสีอบอุ่น พร้อมการซูมเข้าอย่างนุ่มนวล
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070377021864075264/img/R6Wn080jiwtdSq-z.jpg" width="600" alt="แอนิเมชันการ์ตูน 2D รูปอาหารนาน">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6526)**
+
+**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2070377101966913755) | **Published:** Jun 26, 2026
+
+---
+### แอนิเมชันการ์ตูนพิซซ่านาน
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์แอนิเมชันการ์ตูน 2D สุดแปลกตาที่แสดงภาพพิซซ่านานกำลังเด้งไปมาพร้อมส่วนผสมที่ส่องประกาย
+
+#### 📝 Prompt
+
+```
+แอนิเมชันการ์ตูนแสนสนุก: พิซซ่านานเด้งไปมาอย่างนุ่มนวลและมีควันลอยขึ้นเป็นวงกลมอย่างมีชีวิตชีวา ชิ้นมะเขือเทศส่องประกาย ใบโหระพาพริ้วไหว มาในสไตล์การ์ตูน 2D สีสันสดใสพร้อมการเคลื่อนกล้องแบบซูมเข้าอย่างนุ่มนวล ให้ความรู้สึกแปลกใหม่และน่ารับประทาน
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070376328482709504/img/6SqB4RTZlaLEgEJP.jpg" width="600" alt="แอนิเมชันการ์ตูนพิซซ่านาน">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6529)**
+
+**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2070376397508366690) | **Published:** Jun 26, 2026
+
+---
 ### นางเงือกและแมวนางเงือกในโลกแฟนตาซีใต้ทะเล
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1983,158 +2135,6 @@ Masterpiece, best quality, ภาพยนตร์ที่มีรายล�
 **Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2067674068950667319) | **Published:** Jun 18, 2026
 
 ---
-### Elon Musk ในลุคแก๊งสเตอร์พร้อมสร้อยคอ Dogecoin
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์สุดฮาที่นำเสนอ Elon Musk ในสไตล์ฮิปฮอปแก๊งสเตอร์ พร้อมเครื่องประดับทองและแหวนแบรนด์เทคโนโลยี
-
-#### 📝 Prompt
-
-```
-Elon Musk ในลุคฮิปฮอปแก๊งสเตอร์ ใส่ฟันทอง สวมแว่นกันแดดสุดเท่ และชุดแก๊งสเตอร์จัดเต็ม ทั้งเสื้อเฟอร์ สร้อยคอเหรียญ Dogecoin และแหวนทองที่นิ้วมือ โดยแหวนแต่ละวงมีโลโก้ของ SpaceX, xAI, Tesla, Neuralink และ The Boring Company...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4cd7e54c14a3a121297ccbda617e0b5f/thumbnails/thumbnail.jpg" width="600" alt="Elon Musk ในลุคแก๊งสเตอร์พร้อมสร้อยคอ Dogecoin">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6204)**
-
-**Author:** [sho](https://x.com/sho00092729) | **Source:** [Link](https://x.com/sho00092729/status/2067669306624585821) | **Published:** Jun 18, 2026
-
----
-### ฉากนักรบจาก Black Myth: Wukong
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ภาพยนตร์สุดอลังการที่ได้รับแรงบันดาลใจจาก Black Myth: Wukong นำเสนอภาพนักรบที่กำลังเผชิญหน้ากับรูปปั้นผู้พิทักษ์ขนาดมหึมาในบรรยากาศที่เต็มไปด้วยหมอกและมนต์ขลัง
-
-#### 📝 Prompt
-
-```
-ผลงานระดับมาสเตอร์พีซ คุณภาพดีที่สุด ภาพยนตร์ที่มีรายละเอียดสูงจาก Black Myth: Wukong นักรบผู้โดดเดี่ยวบนหน้าผาหินถือกระบองยาว เผชิญหน้ากับรูปปั้นผู้พิทักษ์โบราณขนาดมหึมา 3 ตนที่ถูกปกคลุมด้วยหมอกหนาและแสงอาทิตย์ที่สาดส่องอย่างน่าเกรงขาม ฉากนี้มีบรรยากาศที่มืดมน ยิ่งใหญ่ และลึกลับ พร้อมด้วยละอองลอยและแสงสีที่สร้างอารมณ์ร่วม รายละเอียดชุดเกราะ รูปปั้น และสภาพแวดล้อมมีความคมชัดสูง องค์ประกอบภาพแบบภาพยนตร์ รายละเอียดคมชัด คุณภาพดีที่สุด ความละเอียด 8K
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d9881f33649d46b1e7fa2d3552f829a9/thumbnails/thumbnail.jpg" width="600" alt="ฉากนักรบจาก Black Myth: Wukong">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6200)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067658367368352257) | **Published:** Jun 18, 2026
-
----
-### แอนิเมชัน 3D สุนัขพูดได้
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแอนิเมชัน 3D ที่มีสุนัขพูดได้กำลังสนทนาเกี่ยวกับอนาคตและความเท่าเทียม
-
-#### 📝 Prompt
-
-```
-ภาพนิ่ง แอนิเมชัน 3D และสุนัขพูดว่า เราจะสามารถสร้างอนาคตที่ทุกคนมีกินและไม่มีใครถูกทิ้งไว้ข้างหลังได้จริงหรือ?
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a3a2c154173fa5431d689efeb6869ec8/thumbnails/thumbnail.jpg" width="600" alt="แอนิเมชัน 3D สุนัขพูดได้">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6210)**
-
-**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2067652638263370030) | **Published:** Jun 18, 2026
-
----
-### Optimus กับการสร้างและบูรณะบ้าน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์ที่แสดงหุ่นยนต์ Optimus กำลังสร้างบ้านและพูดคุยเกี่ยวกับศิลปะแห่งการบูรณะ
-
-#### 📝 Prompt
-
-```
-มาทำให้ Elon ดูเป็นอัจฉริยะกันเถอะ มาเริ่มกันเลย ผมจะให้ Optimus สร้างบ้านหลังหนึ่ง แล้วเขาก็พูดถึงเรื่องการบูรณะ การฟื้นฟู และการซ่อมแซม ซึ่งเป็นศิลปะของการรักษาจิตวิญญาณเก่าแก่และบ้านเก่าที่เรากำลังพยายามจะตามให้ทัน เพื่อที่เราจะสามารถก้าวข้ามและไปให้เหนือกว่า...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3d830e8925b695a916ce9e676e7059eb/thumbnails/thumbnail.jpg" width="600" alt="Optimus กับการสร้างและบูรณะบ้าน">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6208)**
-
-**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2067651155044319585) | **Published:** Jun 18, 2026
-
----
-### ร่มลอยฟ้าที่ห้าแยกชิบูย่า
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวภาพยนตร์เหนือจริงสำหรับ Grok Imagine ที่แสดงภาพผู้คนพร้อมร่มที่กำลังลอยอยู่เหนือห้าแยกชิบูย่ายามค่ำคืน
-
-#### 📝 Prompt
-
-```
-ในฉากศิลปะทางเลือกแนวภาพยนตร์ที่เหนือจริงนี้ ผู้คนที่ถือร่มหลากสีสันกำลังลอยตัวขึ้นสู่เบื้องบนอย่างช้าๆ และนุ่มนวล ล่องลอยไปในยามค่ำคืนเหนือห้าแยกชิบูย่า ด้วยสายลมแผ่วเบาและแรงยกที่ดูราวกับเวทมนตร์ การเคลื่อนไหวที่ลอยขึ้นอย่างสง่างามและ...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6abc090bd78830396cd00095782e7a7e/thumbnails/thumbnail.jpg" width="600" alt="ร่มลอยฟ้าที่ห้าแยกชิบูย่า">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6195)**
-
-**Author:** [JetCapBoy](https://x.com/JetCapBoy) | **Source:** [Link](https://x.com/JetCapBoy/status/2067603546540056770) | **Published:** Jun 18, 2026
-
----
-### ภาพวาดมหัศจรรย์ สิงโตคำราม
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวภาพยนตร์ที่สิงโตในกรอบรูปกลับมีชีวิตขึ้นมาในห้องนอนมืดๆ และแผดเสียงคำรามอันทรงพลัง
-
-#### 📝 Prompt
-
-```
-ในฉากห้องนอนที่มืดมิดนี้ มีเพียงสิงโตที่อยู่ภายในกรอบรูปสีดำขนาดใหญ่ที่แขวนอยู่บนผนังสีดำเท่านั้นที่กลับมีชีวิตขึ้นมาอย่างน่าอัศจรรย์ในสไตล์ภาพวาด สิงโตตัวผู้ที่ดูทรงพลังค่อยๆ หันหัวมาทางผู้ชมและแผดเสียงคำรามอันกึกก้อง
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b76266c625c49d0fbb90629e1de12a71/thumbnails/thumbnail.jpg" width="600" alt="ภาพวาดมหัศจรรย์ สิงโตคำราม">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6196)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2067598831827484846) | **Published:** Jun 18, 2026
-
----
-### ยามพลบค่ำในสวนบนดาดฟ้าที่ญี่ปุ่น
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวภาพยนตร์ที่บรรยายถึงฉากยามพลบค่ำอันเงียบสงบในญี่ปุ่น พร้อมแสงไฟจากตัวเมืองและสวนบนดาดฟ้าภายใต้ท้องฟ้าที่เต็มไปด้วยดวงดาว
-
-#### 📝 Prompt
-
-```
-ยามพลบค่ำในญี่ปุ่น แสงไฟจากตัวเมืองอันอบอุ่นเบื้องล่าง สวนบนดาดฟ้าอันเงียบสงบเบื้องบน และท้องฟ้าที่ถูกแต่งแต้มไปด้วยดวงดาว
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067593205680586752/img/rswrSoM2iHi1oZ8Y.jpg" width="600" alt="ยามพลบค่ำในสวนบนดาดฟ้าที่ญี่ปุ่น">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6319)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2067593250354213218) | **Published:** Jun 18, 2026
-
----
-### ภาพยนตร์แนว Dolly-in เคลื่อนเข้าหาโต๊ะอาหารญี่ปุ่น
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่งสำหรับสร้างวิดีโอแบบ Cinematic Dolly-in ที่เคลื่อนเข้าหาโต๊ะอาหารในร้านอาหารญี่ปุ่นบรรยากาศอบอุ่น มีควันจางๆ ลอยขึ้นจากชามเทมปุระ พร้อมแสงโบเก้ที่ดูนุ่มนวล
-
-#### 📝 Prompt
-
-```
-ภาพยนตร์แนว Dolly-in เคลื่อนเข้าหาโต๊ะอาหารในร้านอาหารญี่ปุ่นบรรยากาศอบอุ่น มีควันจางๆ ลอยขึ้นจากชามเทมปุระร้อนๆ แสงจากโคมไฟห้อยเพดานให้ความรู้สึกอบอุ่นพร้อมเอฟเฟกต์โบเก้ที่นุ่มนวล พนักงานต้อนรับส่งยิ้มอย่างเป็นกันเองพร้อมกะพริบตาอย่างเป็นธรรมชาติ
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/028b826fe5241d87da6ce8ff6cf616e6/thumbnails/thumbnail.jpg" width="600" alt="ภาพยนตร์แนว Dolly-in เคลื่อนเข้าหาโต๊ะอาหารญี่ปุ่น">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6212)**
-
-**Author:** [淼儿](https://x.com/tasakimori) | **Source:** [Link](https://x.com/tasakimori/status/2067589992281674195) | **Published:** Jun 18, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2196,6 +2196,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-27T04:17:42.081Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-27T10:36:53.147Z</sub>
 
 </div>

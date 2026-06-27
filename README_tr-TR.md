@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1967** |
+| 📝 Total Prompts | **1975** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-27** |
 
@@ -189,6 +189,158 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Görkemli Şeker Akçaağacı Ormanı Yükselişi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Tennessee ormanındaki görkemli ve kadim bir Şeker Akçaağacı'na, altın saatlerde yapılan dramatik ve sarmal bir yükselişi konu alan sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Tennessee ormanında altın saatlerde çekilmiş, görkemli ve kadim bir Şeker Akçaağacı'nın sinematik düşük açılı çekimi; kamera, ağacın devasa ve budaklı köklerinden başlayarak uzun ve düz gövdesi boyunca pürüzsüz, dramatik bir sarmal yükseliş gerçekleştiriyor. Ağacın girintili çıkıntılı kabuk dokusunu, güneş ışığında parlayan canlı sonbahar yapraklarıyla dolu geniş dallarını gözler önüne seren, epik ölçekte ve ihtişamlı, hiper detaylı, fotogerçekçi, geniş açılı hareketlere sahip, National Geographic tarzında bir görüntü.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070578616514064385/img/s6v7rbP2_YJpcJTs.jpg" width="600" alt="Görkemli Şeker Akçaağacı Ormanı Yükselişi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6528)**
+
+**Author:** [Ray Salmon](https://x.com/salmon1820) | **Source:** [Link](https://x.com/salmon1820/status/2070579069708570890) | **Published:** Jun 26, 2026
+
+---
+### Sisli ve Uluyan Sabah Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Siste duran, yağmura tepki veren ve şafağın ilk ışıklarına doğru uluyan bir adamı konu alan atmosferik bir video istemi.
+
+#### 📝 Prompt
+
+```
+hareketsiz duruyor, sadece başını sağa sola çevirerek etrafına bakıyor, hava sisli ve puslu, yağmuru hissediyor, güneşin tadını çıkarıyor 🌞 sabahın ilk ışıkları için uluyor
+```
+
+<img src="https://cms-assets.youmind.com/media/1782548991899_tk0r5w_HLv4wQiXoAAXyB1.jpg" width="600" alt="Sisli ve Uluyan Sabah Sahnesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6527)**
+
+**Author:** [Brooke](https://x.com/Brooke85276868) | **Source:** [Link](https://x.com/Brooke85276868/status/2070522599294013689) | **Published:** Jun 26, 2026
+
+---
+### Ay Işığı Altında Sahil Kenarında Rock Konseri Performansı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ay ışığı altındaki bir sahilde, dinamik rüzgar ve hareket efektleriyle performans sergileyen bir rock gitaristi ve balerini betimleyen sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Sinematik ay ışığı altında sahil kenarı sahnesi: Siyah deri kıyafetleri içinde, ayakları yere sağlam basan gerçekçi bir rock gitaristi; canlı bir elektro gitar, güçlü bir pena vuruşu, aktif bir klavye kullanımı, rüzgarda savrulan saçlar ve ceket; aynı karede, klasik tarzda parmak uçlarında duran gümüş beyazı bir balerin
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070516606371864576/img/N6tBA0_0E2jxku8N.jpg" width="600" alt="Ay Işığı Altında Sahil Kenarında Rock Konseri Performansı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6522)**
+
+**Author:** [@TheCFormula credo.](https://x.com/TheCFormula) | **Source:** [Link](https://x.com/TheCFormula/status/2070516674906730730) | **Published:** Jun 26, 2026
+
+---
+### Studio Ghibli Tarzı Japon Tren İstasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gece vakti kırsal bir Japon tren istasyonunda, sallanan kır çiçekleri ve sinematik aydınlatma ile nostaljik bir anime tarzı video istemi.
+
+#### 📝 Prompt
+
+```
+Gece vakti nostaljik bir kırsal Japon tren istasyonu, eski ahşap peron, parlayan istasyon lambaları, esintide sallanan kır çiçekleri, tepede yıldızlı gökyüzü, sıcak ve huzurlu bir atmosfer, Studio Ghibli esintili anime çizimi, ultra detaylı ve sinematik.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070496506583588864/img/ErbxoFiu1HZIslQC.jpg" width="600" alt="Studio Ghibli Tarzı Japon Tren İstasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6523)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2070496541476106291) | **Published:** Jun 26, 2026
+
+---
+### Bulutların İçinde Yükselen Gövde Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir nesnenin bulutların arasından yükselmesini yüksek çözünürlüklü sinematik kalitede canlandırmak için tasarlanmış bir hareket komutu.
+
+#### 📝 Prompt
+
+```
+Bulutların içinde yükselen gövdeyi canlandır, başyapıt, ultra HD kalitesi 1111111111111111111111111111111111 k çözünürlük
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070478707072905216/img/orE4qofUH1ZrmX8n.jpg" width="600" alt="Bulutların İçinde Yükselen Gövde Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6524)**
+
+**Author:** [MIUZAH DEIOPAH OF THE PLEIADES](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2070478762215358568) | **Published:** Jun 26, 2026
+
+---
+### Galaktik Federasyon Pleiades Yıldız Gemisi Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir yıldız gemisinin içinde, hacimsel aydınlatma altında bilgisayar terminallerini kullanan tulumlu Pleiadeslileri tasvir eden bir bilim kurgu istemi.
+
+#### 📝 Prompt
+
+```
+Mavi Galaktik Federasyon tulumları giymiş Pleiadesliler yıldız gemisindeki bilgisayar terminallerinde oturuyor, başyapıt, ultra HD Kalite 11111111111111111111111111111111111111 k Hacimsel Parlak Aydınlatma k
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070425640235421696/img/S65YifuMA9sk6iP2.jpg" width="600" alt="Galaktik Federasyon Pleiades Yıldız Gemisi Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6525)**
+
+**Author:** [MIUZAH DEIOPAH OF THE PLEIADES](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2070425694207725650) | **Published:** Jun 26, 2026
+
+---
+### 2D Çizgi Film Naan Ekmeği Gıda Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Avokado ve domates detaylarıyla zıplayan bir naan ekmeğini konu alan, gıda karakterleri için büyüleyici bir 2D animasyon istemi.
+
+#### 📝 Prompt
+
+```
+2D çizgi film gıda animasyonu: Avokado ve domatesli neşeli naan ekmeği hafifçe zıplıyor, buhar bulutları sevimli daireler halinde yükseliyor, fesleğen yaprakları kıpırdıyor. Hareketli çocuk çizgi filmi zamanlaması, sıcak renkler, yumuşak yakınlaştırma.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070377021864075264/img/R6Wn080jiwtdSq-z.jpg" width="600" alt="2D Çizgi Film Naan Ekmeği Gıda Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6526)**
+
+**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2070377101966913755) | **Published:** Jun 26, 2026
+
+---
+### Çizgi Film Tarzında Naan Pizza Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Üzerindeki malzemeleri ışıldayan, hafifçe sallanan bir naan pizzayı konu alan eğlenceli bir 2D çizgi film animasyonu istemi.
+
+#### 📝 Prompt
+
+```
+Eğlenceli çizgi film animasyonu: naan pizza hafifçe sallanıyor ve buharlar kıvrılarak yukarı doğru yükseliyor, domates dilimleri parlıyor, fesleğen yaprakları titriyor. Yumuşak bir kamera yakınlaşması ile parlak 2D çizgi film tarzı, neşeli ve iştah açıcı.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070376328482709504/img/6SqB4RTZlaLEgEJP.jpg" width="600" alt="Çizgi Film Tarzında Naan Pizza Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6529)**
+
+**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2070376397508366690) | **Published:** Jun 26, 2026
+
+---
 ### Deniz Kızı ve Kedi Deniz Kızı Sualtı Fantezisi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1982,158 +2134,6 @@ Bir çift kısa ve samimi bir sohbet ediyor: "Gelecekten korkuyorum" teması iş
 **Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2067674068950667319) | **Published:** Jun 18, 2026
 
 ---
-### Dogecoin Madalyonlu Gangster Elon Musk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Altın aksesuarlar ve teknoloji markası yüzükleriyle hip-hop gangsteri tarzında Elon Musk'ı içeren esprili bir video istemi.
-
-#### 📝 Prompt
-
-```
-Altın dişli ızgarası, havalı güneş gözlükleri ve kürk manto, Dogecoin madalyonlu kolye ile parmaklarında SpaceX, xAI, Tesla, Neuralink ve The Boring Company logolu yüzüklerin bulunduğu gangster kıyafetiyle hip-hop gangsteri tarzında Elon Musk...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4cd7e54c14a3a121297ccbda617e0b5f/thumbnails/thumbnail.jpg" width="600" alt="Dogecoin Madalyonlu Gangster Elon Musk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6204)**
-
-**Author:** [sho](https://x.com/sho00092729) | **Source:** [Link](https://x.com/sho00092729/status/2067669306624585821) | **Published:** Jun 18, 2026
-
----
-### Black Myth Wukong Savaşçı Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Black Myth: Wukong'dan ilham alan, sisli ve mistik bir ortamda devasa koruyucu heykellerle yüzleşen bir savaşçıyı konu alan epik bir sinematik istem.
-
-#### 📝 Prompt
-
-```
-Başyapıt, en iyi kalite, Black Myth: Wukong'dan ultra detaylı sinematik görsel. Kayalık bir uçurumda elinde uzun bir asa ile duran yalnız bir savaşçı, yoğun sis ve dramatik tanrı ışıklarıyla çevrili üç devasa antik koruyucu heykelle yüzleşiyor. Sahne; havada uçuşan parçacıklar ve etkileyici ışıklandırmasıyla karanlık, epik ve mistik bir atmosfere sahip. Son derece detaylı zırh, heykeller ve çevre. Sinematik kompozisyon, keskin detaylar, en iyi kalite, 8K çözünürlük.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d9881f33649d46b1e7fa2d3552f829a9/thumbnails/thumbnail.jpg" width="600" alt="Black Myth Wukong Savaşçı Sahnesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6200)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067658367368352257) | **Published:** Jun 18, 2026
-
----
-### 3D Animasyon Konuşan Köpek
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gelecek ve eşitlik hakkında konuşan bir köpeğin yer aldığı 3D animasyon video istemi.
-
-#### 📝 Prompt
-
-```
-sabit çekim, 3D animasyon ve köpek şöyle diyor: gerçekten herkesin doyduğu ve kimsenin geride bırakılmadığı bir gelecek inşa edebilir miyiz?
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a3a2c154173fa5431d689efeb6869ec8/thumbnails/thumbnail.jpg" width="600" alt="3D Animasyon Konuşan Köpek">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6210)**
-
-**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2067652638263370030) | **Published:** Jun 18, 2026
-
----
-### Optimus ile Ev İnşası ve Restorasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir Optimus robotunun ev inşa ettiği ve restorasyon sanatı hakkında konuştuğu video istemi.
-
-#### 📝 Prompt
-
-```
-Elon'ı dahi gibi gösterelim. Hadi yapalım şunu. Optimus'a bir ev inşa ettireyim ve ardından o şöyle desin: restorasyon, rehabilitasyon, eski ruhları ve eski evleri kurtarma sanatı; yakalamaya çalıştığımız şey bu, böylece üzerine çıkıp...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3d830e8925b695a916ce9e676e7059eb/thumbnails/thumbnail.jpg" width="600" alt="Optimus ile Ev İnşası ve Restorasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6208)**
-
-**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2067651155044319585) | **Published:** Jun 18, 2026
-
----
-### Shibuya Kavşağı'nda Süzülen Şemsiyeler
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için, gece vakti Shibuya Kavşağı üzerinde şemsiyeleriyle süzülen insanları konu alan sürreal ve sinematik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Bu sürreal ve sinematik alternatif sanat sahnesinde, renkli şemsiyeler tutan insanlar nazikçe ve yavaşça yukarı doğru süzülüyor; hafif bir rüzgar ve büyülü bir yükselişle, Shibuya Kavşağı'nın üzerindeki gece gökyüzüne doğru zarif bir şekilde uzaklaşıyorlar. Yavaş ve zarif bir yükselme hareketi ile...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6abc090bd78830396cd00095782e7a7e/thumbnails/thumbnail.jpg" width="600" alt="Shibuya Kavşağı'nda Süzülen Şemsiyeler">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6195)**
-
-**Author:** [JetCapBoy](https://x.com/JetCapBoy) | **Source:** [Link](https://x.com/JetCapBoy/status/2067603546540056770) | **Published:** Jun 18, 2026
-
----
-### Büyülü Tablo Aslan Kükremesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Karanlık bir yatak odasında çerçeveli bir aslanın canlanıp güçlü bir şekilde kükrediği sinematik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Bu karanlık yatak odası sahnesinde, siyah duvarda asılı olan büyük ve süslü siyah çerçevenin içindeki aslan, resimsel bir tarzda sihirli bir şekilde canlanıyor. Güçlü erkek aslan yavaşça başını izleyiciye doğru çeviriyor ve güçlü bir kükreme bırakıyor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b76266c625c49d0fbb90629e1de12a71/thumbnails/thumbnail.jpg" width="600" alt="Büyülü Tablo Aslan Kükremesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6196)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2067598831827484846) | **Published:** Jun 18, 2026
-
----
-### Japonya'da Çatı Bahçesinde Alacakaranlık
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Japonya'da şehir ışıkları ve yıldızlı gökyüzü altındaki çatı bahçesiyle huzurlu bir alacakaranlık sahnesini betimleyen sinematik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Japonya'da alacakaranlık, aşağıda sıcak şehir ışıkları, yukarıda sessiz bir çatı bahçesi ve yıldızlarla boyanmış bir gökyüzü.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067593205680586752/img/rswrSoM2iHi1oZ8Y.jpg" width="600" alt="Japonya'da Çatı Bahçesinde Alacakaranlık">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6319)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2067593250354213218) | **Published:** Jun 18, 2026
-
----
-### Japon Sofrasına Sinematik Dolly-in Çekimi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Tempura kasesinden yükselen buharlar ve sıcak bokeh ışıklandırmasıyla samimi bir Japon restoranı masasına yapılan yavaş ve sinematik bir dolly-in çekimi için video istemi.
-
-#### 📝 Prompt
-
-```
-Samimi bir Japon restoranındaki sofra düzenine doğru yavaş ve sinematik bir dolly-in çekimi. Sıcak tempura kasesinden hafif buhar süzülüyor. Sıcak sarkıt lambalar, yumuşak bir bokeh efektiyle parlıyor. Karşılayan kişi, doğal bir göz kırpma ile içten bir gülümsemeyle duruyor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/028b826fe5241d87da6ce8ff6cf616e6/thumbnails/thumbnail.jpg" width="600" alt="Japon Sofrasına Sinematik Dolly-in Çekimi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6212)**
-
-**Author:** [淼儿](https://x.com/tasakimori) | **Source:** [Link](https://x.com/tasakimori/status/2067589992281674195) | **Published:** Jun 18, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2195,6 +2195,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-27T04:17:55.228Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-27T10:37:06.163Z</sub>
 
 </div>

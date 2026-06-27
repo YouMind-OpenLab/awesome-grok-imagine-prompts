@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1967** |
+| 📝 Total Prompts | **1975** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-27** |
 
@@ -189,6 +189,158 @@ Una mistica e nobile Valchiria celestiale, una donna dignitosa e bellissima con 
 
 > 📝 Sorted by publish date (newest first)
 
+### Ascesa maestosa in una foresta di aceri zuccherini
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video cinematografico che crea una drammatica ascesa a spirale lungo un maestoso e antico acero zuccherino in una foresta del Tennessee durante l'ora d'oro.
+
+#### 📝 Prompt
+
+```
+Un'inquadratura cinematografica dal basso di un maestoso e antico acero zuccherino in una foresta del Tennessee durante l'ora d'oro; la telecamera parte dalla base massiccia e nodosa, risalendo con una fluida e drammatica ascesa a spirale lungo l'alto tronco dritto, rivelando l'intricata consistenza della corteccia e i rami tentacolari con vibranti foglie autunnali che brillano alla luce del sole; scala epica e magnificenza, iper-dettagliato, fotorealistico, movimento ampio, stile National Geographic.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070578616514064385/img/s6v7rbP2_YJpcJTs.jpg" width="600" alt="Ascesa maestosa in una foresta di aceri zuccherini">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6528)**
+
+**Author:** [Ray Salmon](https://x.com/salmon1820) | **Source:** [Link](https://x.com/salmon1820/status/2070579069708570890) | **Published:** Jun 26, 2026
+
+---
+### Scena mattutina nebbiosa con ululato
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video suggestivo che ritrae un uomo immerso nella nebbia, che reagisce alla pioggia e ulula alle prime luci dell'alba.
+
+#### 📝 Prompt
+
+```
+sta fermo, muove solo la testa guardandosi intorno, c'è nebbia e foschia, sente la pioggia, accoglie il sole 🌞 ulula alle prime luci del mattino
+```
+
+<img src="https://cms-assets.youmind.com/media/1782548991899_tk0r5w_HLv4wQiXoAAXyB1.jpg" width="600" alt="Scena mattutina nebbiosa con ululato">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6527)**
+
+**Author:** [Brooke](https://x.com/Brooke85276868) | **Source:** [Link](https://x.com/Brooke85276868/status/2070522599294013689) | **Published:** Jun 26, 2026
+
+---
+### Concerto rock sulla riva illuminata dalla luna
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video cinematografico che ritrae un chitarrista rock e una ballerina che si esibiscono su una riva illuminata dalla luna con vento e movimento dinamici.
+
+#### 📝 Prompt
+
+```
+Palcoscenico cinematografico sulla riva illuminata dalla luna: chitarrista rock umano realistico con le gambe divaricate in pelle nera, chitarra elettrica vibrante—mano che plettra con forza, tastiera attiva, capelli e giacca mossi dal vento; inquadratura bilanciata con una ballerina in bianco argento sulle punte, classico
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070516606371864576/img/N6tBA0_0E2jxku8N.jpg" width="600" alt="Concerto rock sulla riva illuminata dalla luna">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6522)**
+
+**Author:** [@TheCFormula credo.](https://x.com/TheCFormula) | **Source:** [Link](https://x.com/TheCFormula/status/2070516674906730730) | **Published:** Jun 26, 2026
+
+---
+### Stazione ferroviaria giapponese in stile Studio Ghibli
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un nostalgico prompt video in stile anime di una stazione ferroviaria rurale giapponese di notte, con fiori di campo che ondeggiano e un'illuminazione cinematografica.
+
+#### 📝 Prompt
+
+```
+Una nostalgica stazione ferroviaria rurale giapponese di notte, banchina in legno vintage, lampioni della stazione illuminati, fiori di campo che ondeggiano nella brezza, cielo stellato, atmosfera calda e tranquilla, opera d'arte anime ispirata allo Studio Ghibli, ultra dettagliata e cinematografica.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070496506583588864/img/ErbxoFiu1HZIslQC.jpg" width="600" alt="Stazione ferroviaria giapponese in stile Studio Ghibli">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6523)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2070496541476106291) | **Published:** Jun 26, 2026
+
+---
+### Animazione di un corpo che sale attraverso le nuvole
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt di movimento progettato per animare un soggetto che ascende attraverso le nuvole con una qualità cinematografica ad alta definizione.
+
+#### 📝 Prompt
+
+```
+Anima un corpo che si muove verso l'alto attraverso le nuvole, capolavoro, qualità ultra HD, risoluzione 1111111111111111111111111111111111 k
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070478707072905216/img/orE4qofUH1ZrmX8n.jpg" width="600" alt="Animazione di un corpo che sale attraverso le nuvole">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6524)**
+
+**Author:** [MIUZAH DEIOPAH OF THE PLEIADES](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2070478762215358568) | **Published:** Jun 26, 2026
+
+---
+### Animazione dell'astronave dei Pleiadiani della Federazione Galattica
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt sci-fi che ritrae i Pleiadiani in tute spaziali mentre operano terminali informatici all'interno di un'astronave con illuminazione volumetrica.
+
+#### 📝 Prompt
+
+```
+Pleiadiani in tute spaziali blu della Federazione Galattica seduti ai terminali informatici a bordo di astronavi, capolavoro, qualità ultra HD 11111111111111111111111111111111111111 k Illuminazione luminosa volumetrica k
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070425640235421696/img/S65YifuMA9sk6iP2.jpg" width="600" alt="Animazione dell'astronave dei Pleiadiani della Federazione Galattica">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6525)**
+
+**Author:** [MIUZAH DEIOPAH OF THE PLEIADES](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2070425694207725650) | **Published:** Jun 26, 2026
+
+---
+### Animazione 2D di un naan in stile cartoon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un affascinante prompt per un'animazione 2D di personaggi a tema gastronomico, con un naan che rimbalza arricchito da avocado e pomodoro.
+
+#### 📝 Prompt
+
+```
+Animazione 2D di cibo in stile cartoon: un allegro pane naan rimbalza leggermente, sbuffi di vapore appaiono in simpatici cerchi e foglie di basilico ondeggiano. Ritmo vivace da cartone animato per bambini, colori caldi, zoom delicato.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070377021864075264/img/R6Wn080jiwtdSq-z.jpg" width="600" alt="Animazione 2D di un naan in stile cartoon">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6526)**
+
+**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2070377101966913755) | **Published:** Jun 26, 2026
+
+---
+### Animazione cartoon di una pizza naan
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un estroso prompt per un'animazione cartoon 2D che ritrae una pizza naan che ondeggia con ingredienti scintillanti.
+
+#### 📝 Prompt
+
+```
+Animazione cartoon giocosa: la pizza naan ondeggia delicatamente e il vapore si arriccia verso l'alto in loop vivaci, le fette di pomodoro brillano, le foglie di basilico fluttuano. Stile cartoon 2D luminoso con un leggero zoom in, estroso e appetitoso.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070376328482709504/img/6SqB4RTZlaLEgEJP.jpg" width="600" alt="Animazione cartoon di una pizza naan">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6529)**
+
+**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2070376397508366690) | **Published:** Jun 26, 2026
+
+---
 ### Sirena e gatto sirena: fantasia subacquea
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1983,158 +2135,6 @@ Una coppia ha una breve conversazione intima: il tema è "Ho paura del futuro".
 **Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2067674068950667319) | **Published:** Jun 18, 2026
 
 ---
-### Elon Musk in versione gangster con medaglione Dogecoin
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un divertente prompt video che ritrae Elon Musk nello stile di un rapper gangster, con accessori in oro e anelli con loghi di brand tecnologici.
-
-#### 📝 Prompt
-
-```
-Elon Musk in versione gangsta hip-hop con grillz in oro, occhiali da sole alla moda e un outfit da gangster, inclusa una pelliccia, una collana con medaglione Dogecoin e anelli d'oro sulle dita, ognuno con il logo di SpaceX, xAI, Tesla, Neuralink e The Boring Company...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4cd7e54c14a3a121297ccbda617e0b5f/thumbnails/thumbnail.jpg" width="600" alt="Elon Musk in versione gangster con medaglione Dogecoin">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6204)**
-
-**Author:** [sho](https://x.com/sho00092729) | **Source:** [Link](https://x.com/sho00092729/status/2067669306624585821) | **Published:** Jun 18, 2026
-
----
-### Scena del guerriero di Black Myth: Wukong
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinematografico epico ispirato a Black Myth: Wukong, che ritrae un guerriero di fronte a enormi statue guardiane in un ambiente mistico e nebbioso.
-
-#### 📝 Prompt
-
-```
-Capolavoro, qualità eccellente, immagine cinematografica ultra-dettagliata ispirata a Black Myth: Wukong. Un guerriero solitario si erge su una scogliera rocciosa impugnando un lungo bastone, di fronte a tre imponenti statue guardiane antiche avvolte in una fitta nebbia e drammatici raggi divini. La scena presenta un'atmosfera cupa, epica e mistica con particelle fluttuanti e un'illuminazione suggestiva. Armatura, statue e ambiente altamente dettagliati. Composizione cinematografica, dettagli nitidi, qualità eccellente, risoluzione 8K.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d9881f33649d46b1e7fa2d3552f829a9/thumbnails/thumbnail.jpg" width="600" alt="Scena del guerriero di Black Myth: Wukong">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6200)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067658367368352257) | **Published:** Jun 18, 2026
-
----
-### Cane parlante in animazione 3D
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per video in animazione 3D che mostra un cane parlante che discute di futuro e uguaglianza.
-
-#### 📝 Prompt
-
-```
-inquadratura fissa, animazione 3D e il cane dice: possiamo davvero costruire un futuro in cui tutti abbiano da mangiare e nessuno venga lasciato indietro?
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a3a2c154173fa5431d689efeb6869ec8/thumbnails/thumbnail.jpg" width="600" alt="Cane parlante in animazione 3D">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6210)**
-
-**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2067652638263370030) | **Published:** Jun 18, 2026
-
----
-### Optimus costruisce e restaura case
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un video prompt che mostra un robot Optimus mentre costruisce una casa e parla dell'arte del restauro.
-
-#### 📝 Prompt
-
-```
-Facciamo sembrare Elon un genio assoluto. Facciamolo. Faccio costruire una casa a quell'Optimus e poi lui dice restauro, riabilitazione, l'arte di salvare vecchie anime e vecchie case, dove stiamo cercando di metterci in pari per poter andare oltre ed essere...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3d830e8925b695a916ce9e676e7059eb/thumbnails/thumbnail.jpg" width="600" alt="Optimus costruisce e restaura case">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6208)**
-
-**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2067651155044319585) | **Published:** Jun 18, 2026
-
----
-### Ombrelli fluttuanti all'incrocio di Shibuya
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video cinematografico surreale per Grok Imagine che ritrae persone con ombrelli che fluttuano sopra l'incrocio di Shibuya di notte.
-
-#### 📝 Prompt
-
-```
-In questa scena artistica alternativa, cinematografica e surreale, persone che reggono ombrelli colorati fluttuano dolcemente e lentamente verso l'alto, allontanandosi con grazia nel cielo notturno sopra l'incrocio di Shibuya, con un vento leggero, una spinta magica, un lento movimento aggraziato verso l'alto e...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6abc090bd78830396cd00095782e7a7e/thumbnails/thumbnail.jpg" width="600" alt="Ombrelli fluttuanti all'incrocio di Shibuya">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6195)**
-
-**Author:** [JetCapBoy](https://x.com/JetCapBoy) | **Source:** [Link](https://x.com/JetCapBoy/status/2067603546540056770) | **Published:** Jun 18, 2026
-
----
-### Il ruggito magico del leone dipinto
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video cinematografico in cui un leone incorniciato prende vita in una camera da letto buia ed emette un potente ruggito.
-
-#### 📝 Prompt
-
-```
-In questa scena ambientata in una camera da letto buia, solo il leone all'interno della grande cornice nera decorata, appesa alla parete scura, prende magicamente vita con uno stile pittorico. Il possente leone volge lentamente la testa verso lo spettatore ed emette un ruggito potente.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b76266c625c49d0fbb90629e1de12a71/thumbnails/thumbnail.jpg" width="600" alt="Il ruggito magico del leone dipinto">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6196)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2067598831827484846) | **Published:** Jun 18, 2026
-
----
-### Crepuscolo in un giardino pensile in Giappone
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video cinematografico che descrive una tranquilla scena al crepuscolo in Giappone, con le luci della città e un giardino pensile sotto un cielo stellato.
-
-#### 📝 Prompt
-
-```
-Crepuscolo in Giappone, le calde luci della città sottostanti, un tranquillo giardino pensile in alto e un cielo dipinto di stelle.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067593205680586752/img/rswrSoM2iHi1oZ8Y.jpg" width="600" alt="Crepuscolo in un giardino pensile in Giappone">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6319)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2067593250354213218) | **Published:** Jun 18, 2026
-
----
-### Dolly-in cinematografico su una tavola giapponese
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video per una lenta ripresa cinematografica in dolly-in di un intimo tavolo da ristorante giapponese, con vapore che sale da una ciotola di tempura e una calda illuminazione bokeh.
-
-#### 📝 Prompt
-
-```
-Lento dolly-in cinematografico verso la tavola imbandita in un intimo ristorante giapponese. Sottili volute di vapore si levano dalla ciotola di tempura calda. Le luci a sospensione brillano dolcemente con un delicato effetto bokeh. L'hostess accoglie con un sorriso naturale e un leggero battito di ciglia.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/028b826fe5241d87da6ce8ff6cf616e6/thumbnails/thumbnail.jpg" width="600" alt="Dolly-in cinematografico su una tavola giapponese">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6212)**
-
-**Author:** [淼儿](https://x.com/tasakimori) | **Source:** [Link](https://x.com/tasakimori/status/2067589992281674195) | **Published:** Jun 18, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2196,6 +2196,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-27T04:17:51.587Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-27T10:37:02.400Z</sub>
 
 </div>

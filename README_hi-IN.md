@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1967** |
+| 📝 Total Prompts | **1975** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-27** |
 
@@ -189,6 +189,158 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### भव्य शुगर मेपल वन का आरोहण
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> टेनेसी के एक जंगल में गोल्डन आवर के दौरान एक भव्य प्राचीन शुगर मेपल पेड़ के ऊपर नाटकीय रूप से सर्पिल आरोहण बनाने वाला एक सिनेमैटिक वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+गोल्डन आवर के दौरान टेनेसी के एक जंगल में एक भव्य प्राचीन शुगर मेपल पेड़ का सिनेमैटिक लो-एंगल शॉट, कैमरा पेड़ के विशाल गांठदार आधार से शुरू होकर लंबे सीधे तने के साथ एक सहज नाटकीय आरोहण में ऊपर की ओर घूमता है, जो जटिल छाल की बनावट, सूरज की रोशनी में चमकती जीवंत शरद ऋतु की पत्तियों वाली फैली हुई शाखाओं को प्रकट करता है, महाकाव्य पैमाना और भव्यता, अति-विस्तृत, फोटो-यथार्थवादी, व्यापक गति, नेशनल जियोग्राफिक शैली।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070578616514064385/img/s6v7rbP2_YJpcJTs.jpg" width="600" alt="भव्य शुगर मेपल वन का आरोहण">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6528)**
+
+**Author:** [Ray Salmon](https://x.com/salmon1820) | **Source:** [Link](https://x.com/salmon1820/status/2070579069708570890) | **Published:** Jun 26, 2026
+
+---
+### धुंधली सुबह का दृश्य
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वायुमंडलीय वीडियो प्रॉम्प्ट जिसमें एक व्यक्ति धुंध में खड़ा है, बारिश पर प्रतिक्रिया दे रहा है और भोर की पहली रोशनी में चिल्ला रहा है।
+
+#### 📝 Prompt
+
+```
+वह स्थिर खड़ा है, केवल अपना सिर घुमाकर इधर-उधर देख रहा है, चारों ओर कोहरा और धुंध है, वह बारिश को महसूस करता है, वह सूरज 🌞 को संजोता है, वह सुबह की पहली रोशनी के लिए चिल्लाता है
+```
+
+<img src="https://cms-assets.youmind.com/media/1782548991899_tk0r5w_HLv4wQiXoAAXyB1.jpg" width="600" alt="धुंधली सुबह का दृश्य">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6527)**
+
+**Author:** [Brooke](https://x.com/Brooke85276868) | **Source:** [Link](https://x.com/Brooke85276868/status/2070522599294013689) | **Published:** Jun 26, 2026
+
+---
+### चांदनी तट पर रॉक कॉन्सर्ट का प्रदर्शन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सिनेमैटिक वीडियो प्रॉम्प्ट जिसमें चांदनी तट पर गतिशील हवा और हलचल के बीच एक रॉक गिटारवादक और एक बैले डांसर को प्रदर्शन करते हुए दिखाया गया है।
+
+#### 📝 Prompt
+
+```
+सिनेमैटिक चांदनी तट का मंच: काले चमड़े के कपड़ों में यथार्थवादी रॉक गिटारवादक, इलेक्ट्रिक गिटार जीवंत—मजबूत पिकिंग हैंड, सक्रिय फ्रेटबोर्ड, हवा में उड़ते बाल और जैकेट; उसी फ्रेम में चांदी जैसी सफेद बैले डांसर प्वॉइंट पर, क्लासिक
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070516606371864576/img/N6tBA0_0E2jxku8N.jpg" width="600" alt="चांदनी तट पर रॉक कॉन्सर्ट का प्रदर्शन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6522)**
+
+**Author:** [@TheCFormula credo.](https://x.com/TheCFormula) | **Source:** [Link](https://x.com/TheCFormula/status/2070516674906730730) | **Published:** Jun 26, 2026
+
+---
+### स्टूडियो घिबली (Studio Ghibli) स्टाइल जापानी ट्रेन स्टेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> रात के समय एक ग्रामीण जापानी ट्रेन स्टेशन का उदासीन एनीमे-शैली वीडियो प्रॉम्प्ट, जिसमें लहराते जंगली फूल और सिनेमाई लाइटिंग है।
+
+#### 📝 Prompt
+
+```
+रात में एक उदासीन ग्रामीण जापानी ट्रेन स्टेशन, विंटेज लकड़ी का प्लेटफॉर्म, चमकते स्टेशन लैंप, हवा में लहराते जंगली फूल, ऊपर तारों भरा आसमान, गर्म और शांतिपूर्ण वातावरण, स्टूडियो घिबली (Studio Ghibli) से प्रेरित एनीमे आर्टवर्क, अत्यधिक विस्तृत और सिनेमाई।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070496506583588864/img/ErbxoFiu1HZIslQC.jpg" width="600" alt="स्टूडियो घिबली (Studio Ghibli) स्टाइल जापानी ट्रेन स्टेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6523)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2070496541476106291) | **Published:** Jun 26, 2026
+
+---
+### बादलों के बीच ऊपर की ओर बढ़ते शरीर का एनिमेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक मोशन प्रॉम्प्ट जिसे किसी विषय को बादलों के बीच ऊपर की ओर जाते हुए दिखाने के लिए डिज़ाइन किया गया है, जिसमें हाई-डेफिनिशन सिनेमैटिक क्वालिटी है।
+
+#### 📝 Prompt
+
+```
+बादलों के बीच ऊपर की ओर बढ़ते शरीर का एनिमेशन, मास्टरपीस, अल्ट्रा HD क्वालिटी 1111111111111111111111111111111111 k रिज़ॉल्यूशन
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070478707072905216/img/orE4qofUH1ZrmX8n.jpg" width="600" alt="बादलों के बीच ऊपर की ओर बढ़ते शरीर का एनिमेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6524)**
+
+**Author:** [MIUZAH DEIOPAH OF THE PLEIADES](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2070478762215358568) | **Published:** Jun 26, 2026
+
+---
+### गैलेक्टिक फेडरेशन प्लेडियन स्टारशिप एनिमेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक साइंस-फिक्शन प्रॉम्प्ट जो एक स्टारशिप के अंदर कंप्यूटर टर्मिनल चला रहे प्लेडियन को जंपसूट में और वॉल्यूमेट्रिक लाइटिंग के साथ दर्शाता है।
+
+#### 📝 Prompt
+
+```
+नीले गैलेक्टिक फेडरेशन जंपसूट में प्लेडियन स्टारशिप पर कंप्यूटर टर्मिनल पर बैठे हैं, मास्टरपीस, अल्ट्रा एचडी क्वालिटी 11111111111111111111111111111111111111 k वॉल्यूमेट्रिक ब्राइट लाइटिंग k
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070425640235421696/img/S65YifuMA9sk6iP2.jpg" width="600" alt="गैलेक्टिक फेडरेशन प्लेडियन स्टारशिप एनिमेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6525)**
+
+**Author:** [MIUZAH DEIOPAH OF THE PLEIADES](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2070425694207725650) | **Published:** Jun 26, 2026
+
+---
+### 2D कार्टून नान फूड एनिमेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> फूड कैरेक्टर्स के लिए एक आकर्षक 2D एनिमेशन प्रॉम्प्ट, जिसमें एवोकैडो और टमाटर के साथ एक उछलता हुआ नान दिखाया गया है।
+
+#### 📝 Prompt
+
+```
+2D कार्टून फूड एनिमेशन: खुशमिजाज नान ब्रेड हल्के से उछल रही है, साथ में एवोकैडो और टमाटर हैं, भाप के गोले प्यारे सर्कल्स में निकल रहे हैं, और तुलसी की पत्तियां हिल रही हैं। बच्चों के कार्टून जैसी स्नैपी टाइमिंग, वार्म कलर्स और जेंटल ज़ूम।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070377021864075264/img/R6Wn080jiwtdSq-z.jpg" width="600" alt="2D कार्टून नान फूड एनिमेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6526)**
+
+**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2070377101966913755) | **Published:** Jun 26, 2026
+
+---
+### कार्टून नान पिज़्ज़ा एनिमेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक मनमौजी 2D कार्टून एनिमेशन प्रॉम्प्ट, जिसमें चमकती हुई सामग्री के साथ एक उछलता हुआ नान पिज़्ज़ा दिखाया गया है।
+
+#### 📝 Prompt
+
+```
+चंचल कार्टून एनिमेशन: नान पिज़्ज़ा धीरे-धीरे उछल रहा है और भाप गोल-गोल छल्लों में ऊपर की ओर उठ रही है, टमाटर के स्लाइस चमक रहे हैं, और तुलसी की पत्तियां फड़फड़ा रही हैं। सॉफ्ट कैमरा पुश-इन के साथ ब्राइट 2D कार्टून स्टाइल, जो मनमौजी और स्वादिष्ट है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070376328482709504/img/6SqB4RTZlaLEgEJP.jpg" width="600" alt="कार्टून नान पिज़्ज़ा एनिमेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6529)**
+
+**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2070376397508366690) | **Published:** Jun 26, 2026
+
+---
 ### जलपरी और कैट मरमेड की पानी के नीचे की काल्पनिक दुनिया
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1982,158 +2134,6 @@ Sebring को रिस्टोर करें, उस पर लिपटी
 **Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2067674068950667319) | **Published:** Jun 18, 2026
 
 ---
-### डॉगकॉइन (Dogecoin) मेडलियन पहने गैंगस्टर एलन मस्क
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक मज़ेदार वीडियो प्रॉम्प्ट जिसमें एलन मस्क को हिप-हॉप गैंगस्टर के रूप में दिखाया गया है, जिन्होंने सोने की एक्सेसरीज़ और टेक ब्रांड की अंगूठियां पहनी हैं।
-
-#### 📝 Prompt
-
-```
-एलन मस्क एक हिप-हॉप गैंगस्टर के रूप में, दांतों में सोने की ग्रिल, कूल शेड्स और गैंगस्टर आउटफिट पहने हुए, जिसमें फर कोट, डॉगकॉइन (Dogecoin) मेडलियन नेकलेस और उनकी उंगलियों में सोने की अंगूठियां हैं, जिनमें से प्रत्येक पर SpaceX, xAI, Tesla, Neuralink और The Boring Company का लोगो लगा है....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4cd7e54c14a3a121297ccbda617e0b5f/thumbnails/thumbnail.jpg" width="600" alt="डॉगकॉइन (Dogecoin) मेडलियन पहने गैंगस्टर एलन मस्क">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6204)**
-
-**Author:** [sho](https://x.com/sho00092729) | **Source:** [Link](https://x.com/sho00092729/status/2067669306624585821) | **Published:** Jun 18, 2026
-
----
-### Black Myth Wukong योद्धा दृश्य
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Black Myth: Wukong से प्रेरित एक महाकाव्य सिनेमाई प्रॉम्प्ट, जिसमें एक योद्धा धुंधले, रहस्यमय वातावरण में विशाल संरक्षक मूर्तियों का सामना कर रहा है।
-
-#### 📝 Prompt
-
-```
-मास्टरपीस, सर्वोत्तम गुणवत्ता, Black Myth: Wukong से प्रेरित अल्ट्रा-डिटेल्ड सिनेमाई छवि। एक अकेला योद्धा चट्टानी ढलान पर लंबी छड़ी लिए खड़ा है, जो घनी धुंध और नाटकीय ईश्वरीय किरणों से घिरी तीन विशाल प्राचीन संरक्षक मूर्तियों का सामना कर रहा है। दृश्य में तैरते कणों और मूडी लाइटिंग के साथ एक गहरा, महाकाव्य और रहस्यमय वातावरण है। अत्यधिक विस्तृत कवच, मूर्तियाँ और वातावरण। सिनेमाई संरचना, स्पष्ट विवरण, सर्वोत्तम गुणवत्ता, 8K रिज़ॉल्यूशन।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d9881f33649d46b1e7fa2d3552f829a9/thumbnails/thumbnail.jpg" width="600" alt="Black Myth Wukong योद्धा दृश्य">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6200)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067658367368352257) | **Published:** Jun 18, 2026
-
----
-### 3D एनीमेशन टॉकिंग डॉग
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक 3D एनिमेटेड वीडियो प्रॉम्प्ट जिसमें एक बात करने वाला कुत्ता भविष्य और समानता पर चर्चा कर रहा है।
-
-#### 📝 Prompt
-
-```
-स्टैटिक शॉट, 3D एनीमेशन और कुत्ता कहता है क्या हम वास्तव में एक ऐसा भविष्य बना सकते हैं जहाँ हर कोई भोजन करे और कोई भी पीछे न छूटे?
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a3a2c154173fa5431d689efeb6869ec8/thumbnails/thumbnail.jpg" width="600" alt="3D एनीमेशन टॉकिंग डॉग">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6210)**
-
-**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2067652638263370030) | **Published:** Jun 18, 2026
-
----
-### Optimus घरों का निर्माण और जीर्णोद्धार
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो प्रॉम्प्ट जिसमें एक Optimus रोबोट घर बनाते हुए और जीर्णोद्धार की कला के बारे में बात करते हुए दिखाई देता है।
-
-#### 📝 Prompt
-
-```
-चलो Elon को एक जीनियस की तरह दिखाते हैं। चलो इसे करते हैं। मैं उस Optimus से एक घर बनवाता हूँ और फिर वह कहता है कि जीर्णोद्धार, पुनर्वास, पुरानी आत्माओं और पुराने घरों को बचाने की कला, जहाँ हम खुद को बेहतर बनाने की कोशिश कर रहे हैं ताकि हम ऊपर उठ सकें और...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3d830e8925b695a916ce9e676e7059eb/thumbnails/thumbnail.jpg" width="600" alt="Optimus घरों का निर्माण और जीर्णोद्धार">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6208)**
-
-**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2067651155044319585) | **Published:** Jun 18, 2026
-
----
-### शिबुया क्रॉसिंग पर तैरते हुए छाते
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक असली (surreal) सिनेमाई वीडियो प्रॉम्प्ट, जिसमें रात के समय शिबुया क्रॉसिंग के ऊपर लोगों को छातों के साथ तैरते हुए दिखाया गया है।
-
-#### 📝 Prompt
-
-```
-इस असली (surreal) सिनेमाई वैकल्पिक कला दृश्य में, रंग-बिरंगे छाते पकड़े हुए लोग धीरे-धीरे और शांति से ऊपर की ओर तैरते हैं, शिबुया क्रॉसिंग के ऊपर रात के आसमान में खूबसूरती से ओझल होते हुए, हल्की हवा और जादुई खिंचाव के साथ, धीमी और सुंदर ऊपर की ओर गति और...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6abc090bd78830396cd00095782e7a7e/thumbnails/thumbnail.jpg" width="600" alt="शिबुया क्रॉसिंग पर तैरते हुए छाते">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6195)**
-
-**Author:** [JetCapBoy](https://x.com/JetCapBoy) | **Source:** [Link](https://x.com/JetCapBoy/status/2067603546540056770) | **Published:** Jun 18, 2026
-
----
-### जादुई पेंटिंग: शेर की दहाड़
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमैटिक वीडियो प्रॉम्प्ट जिसमें एक अंधेरे बेडरूम में फ्रेम की गई तस्वीर से शेर जीवित हो उठता है और एक शक्तिशाली दहाड़ देता है।
-
-#### 📝 Prompt
-
-```
-इस अंधेरे बेडरूम के दृश्य में, काली दीवार पर टंगे बड़े अलंकृत काले फ्रेम के अंदर मौजूद शेर जादुई रूप से पेंटिंग की शैली में जीवित हो उठता है। शक्तिशाली नर शेर धीरे-धीरे अपना सिर दर्शक की ओर घुमाता है और एक जोरदार दहाड़ देता है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b76266c625c49d0fbb90629e1de12a71/thumbnails/thumbnail.jpg" width="600" alt="जादुई पेंटिंग: शेर की दहाड़">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6196)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2067598831827484846) | **Published:** Jun 18, 2026
-
----
-### जापान के रूफटॉप गार्डन में गोधूलि बेला
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमाई वीडियो प्रॉम्प्ट जो जापान में तारों भरे आकाश के नीचे शहर की रोशनी और रूफटॉप गार्डन वाले एक शांत गोधूलि दृश्य का वर्णन करता है।
-
-#### 📝 Prompt
-
-```
-जापान में गोधूलि बेला, नीचे शहर की गर्म रोशनी, ऊपर एक शांत रूफटॉप गार्डन, और तारों से सजा आकाश।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067593205680586752/img/rswrSoM2iHi1oZ8Y.jpg" width="600" alt="जापान के रूफटॉप गार्डन में गोधूलि बेला">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6319)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2067593250354213218) | **Published:** Jun 18, 2026
-
----
-### जापानी टेबल स्प्रेड का सिनेमैटिक डॉली-इन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक अंतरंग जापानी रेस्तरां की मेज के धीमे सिनेमैटिक डॉली-इन शॉट के लिए एक वीडियो प्रॉम्प्ट, जिसमें टेम्पुरा बाउल से उठती भाप और वार्म बोकेह लाइटिंग दिखाई गई है।
-
-#### 📝 Prompt
-
-```
-एक अंतरंग जापानी रेस्तरां में टेबल स्प्रेड की ओर धीमा सिनेमैटिक डॉली-इन। गर्म टेम्पुरा बाउल से भाप की हल्की लकीरें उठ रही हैं। वार्म पेंडेंट लाइट्स सौम्य बोकेह के साथ चमक रही हैं। परिचारिका के चेहरे पर एक स्वागत भरी मुस्कान है और वह स्वाभाविक रूप से पलकें झपका रही है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/028b826fe5241d87da6ce8ff6cf616e6/thumbnails/thumbnail.jpg" width="600" alt="जापानी टेबल स्प्रेड का सिनेमैटिक डॉली-इन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6212)**
-
-**Author:** [淼儿](https://x.com/tasakimori) | **Source:** [Link](https://x.com/tasakimori/status/2067589992281674195) | **Published:** Jun 18, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2195,6 +2195,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-27T04:17:45.496Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-27T10:36:55.915Z</sub>
 
 </div>

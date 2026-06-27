@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **1967** |
+| 📝 총 프롬프트 수 | **1975** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-06-27** |
 
@@ -189,6 +189,158 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 웅장한 설탕단풍나무 숲으로의 상승
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 골든 아워 시간대 테네시 숲속의 웅장하고 오래된 설탕단풍나무를 따라 나선형으로 드라마틱하게 올라가는 시네마틱 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+골든 아워 시간대 테네시 숲속의 웅장하고 오래된 설탕단풍나무를 담은 시네마틱 로우 앵글 샷. 거대하고 울퉁불퉁한 밑동에서 시작된 카메라가 곧게 뻗은 높은 줄기를 따라 부드럽고 드라마틱하게 나선형으로 상승하며, 정교한 나무껍질 질감과 햇살을 받아 빛나는 선명한 단풍잎이 달린 넓게 퍼진 가지들을 드러냅니다. 웅장한 규모와 장엄함, 초고해상도, 사실적인 사진 느낌, 휩쓸듯 지나가는 움직임, 내셔널 지오그래픽 스타일.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070578616514064385/img/s6v7rbP2_YJpcJTs.jpg" width="600" alt="웅장한 설탕단풍나무 숲으로의 상승">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6528)**
+
+**작성자:** [Ray Salmon](https://x.com/salmon1820) | **출처:** [Link](https://x.com/salmon1820/status/2070579069708570890) | **게시일:** Jun 26, 2026
+
+---
+### 안개 자욱한 새벽의 울부짖음
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 안개 속에서 비를 맞으며 새벽의 첫 빛을 향해 울부짖는 남자의 모습을 담은 분위기 있는 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+그는 가만히 서서 고개만 좌우로 돌린다. 안개가 자욱하고 비를 느끼며 태양을 소중히 여긴다 🌞 그는 아침의 첫 빛을 향해 울부짖는다
+```
+
+<img src="https://cms-assets.youmind.com/media/1782548991899_tk0r5w_HLv4wQiXoAAXyB1.jpg" width="600" alt="안개 자욱한 새벽의 울부짖음">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6527)**
+
+**작성자:** [Brooke](https://x.com/Brooke85276868) | **출처:** [Link](https://x.com/Brooke85276868/status/2070522599294013689) | **게시일:** Jun 26, 2026
+
+---
+### 달빛 비치는 해안가 록 콘서트 공연
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 달빛이 비치는 해안가에서 역동적인 바람과 움직임 속에 록 기타리스트와 발레리나가 공연하는 모습을 담은 시네마틱 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+달빛 비치는 시네마틱 해안가 무대: 검은색 가죽 의상을 입고 다리를 넓게 벌린 채 서 있는 사실적인 록 기타리스트, 생동감 넘치는 일렉트릭 기타 연주—강렬한 피킹 동작, 활발한 지판 운지, 바람에 휘날리는 머리카락과 재킷; 그 옆에서 은백색 의상을 입고 토슈즈를 신은 채 고전적인 동작을 선보이는 발레리나
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070516606371864576/img/N6tBA0_0E2jxku8N.jpg" width="600" alt="달빛 비치는 해안가 록 콘서트 공연">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6522)**
+
+**작성자:** [@TheCFormula credo.](https://x.com/TheCFormula) | **출처:** [Link](https://x.com/TheCFormula/status/2070516674906730730) | **게시일:** Jun 26, 2026
+
+---
+### 스튜디오 지브리 스타일의 일본 기차역
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 밤의 시골 일본 기차역을 배경으로, 흔들리는 야생화와 영화 같은 조명이 어우러진 향수를 불러일으키는 애니메이션 스타일의 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+밤의 향수를 불러일으키는 일본의 시골 기차역, 빈티지한 목재 승강장, 은은하게 빛나는 역 가로등, 산들바람에 흔들리는 야생화, 머리 위로 펼쳐진 별이 빛나는 밤하늘, 따뜻하고 평화로운 분위기, 스튜디오 지브리 스타일의 애니메이션 아트워크, 초고화질 및 영화 같은 연출.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070496506583588864/img/ErbxoFiu1HZIslQC.jpg" width="600" alt="스튜디오 지브리 스타일의 일본 기차역">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6523)**
+
+**작성자:** [Mr Das](https://x.com/MrDasOnX) | **출처:** [Link](https://x.com/MrDasOnX/status/2070496541476106291) | **게시일:** Jun 26, 2026
+
+---
+### 구름 위로 상승하는 신체 애니메이션
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 피사체가 구름을 뚫고 상승하는 모습을 고화질 영화 같은 품질로 구현하도록 설계된 모션 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+구름 위로 상승하는 신체 애니메이션, 마스터피스, 초고화질 1111111111111111111111111111111111 k 해상도
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070478707072905216/img/orE4qofUH1ZrmX8n.jpg" width="600" alt="구름 위로 상승하는 신체 애니메이션">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6524)**
+
+**작성자:** [MIUZAH DEIOPAH OF THE PLEIADES](https://x.com/Octillion111111) | **출처:** [Link](https://x.com/Octillion111111/status/2070478762215358568) | **게시일:** Jun 26, 2026
+
+---
+### 은하 연합 플레이아데스 성단 우주선 애니메이션
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 우주선 내부의 컴퓨터 단말기를 조작하는 플레이아데스 성단 외계인들과 볼류메트릭 조명을 묘사한 SF 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+푸른색 은하 연합 점프슈트를 입은 플레이아데스 성단 외계인들이 우주선 내 컴퓨터 단말기에 앉아 있는 모습, 마스터피스, 울트라 HD 화질 11111111111111111111111111111111111111 k 볼류메트릭 밝은 조명 k
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070425640235421696/img/S65YifuMA9sk6iP2.jpg" width="600" alt="은하 연합 플레이아데스 성단 우주선 애니메이션">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6525)**
+
+**작성자:** [MIUZAH DEIOPAH OF THE PLEIADES](https://x.com/Octillion111111) | **출처:** [Link](https://x.com/Octillion111111/status/2070425694207725650) | **게시일:** Jun 26, 2026
+
+---
+### 2D 카툰 난(Naan) 음식 애니메이션
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 아보카도와 토마토가 곁들여진 난(Naan) 캐릭터가 통통 튀는 매력적인 2D 음식 애니메이션 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+2D 카툰 음식 애니메이션: 발랄한 난(Naan) 플랫브레드가 아보카도, 토마토와 함께 가볍게 튀어 오르고, 귀여운 원형의 김이 모락모락 피어나며 바질 잎이 흔들립니다. 경쾌한 어린이 애니메이션 타이밍, 따뜻한 색감, 부드러운 줌인 효과가 특징입니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070377021864075264/img/R6Wn080jiwtdSq-z.jpg" width="600" alt="2D 카툰 난(Naan) 음식 애니메이션">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6526)**
+
+**작성자:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **출처:** [Link](https://x.com/maggiejuang1/status/2070377101966913755) | **게시일:** Jun 26, 2026
+
+---
+### 만화풍 난 피자 애니메이션
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 재료가 반짝이는 난 피자가 통통 튀는 모습을 담은 기발한 2D 만화 애니메이션 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+장난기 넘치는 만화 애니메이션: 난 피자가 부드럽게 위아래로 움직이고 김이 모락모락 피어오르며, 토마토 슬라이스는 반짝이고 바질 잎은 살랑거립니다. 밝은 2D 만화 스타일로 부드럽게 카메라가 다가가며, 기발하고 먹음직스러운 느낌을 줍니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070376328482709504/img/6SqB4RTZlaLEgEJP.jpg" width="600" alt="만화풍 난 피자 애니메이션">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6529)**
+
+**작성자:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **출처:** [Link](https://x.com/maggiejuang1/status/2070376397508366690) | **게시일:** Jun 26, 2026
+
+---
 ### 인어와 고양이 인어의 수중 판타지
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1982,158 +2134,6 @@ UFO가 끌어당기는 것처럼 아이가 지면에서 떠오르며, 카메라�
 **작성자:** [Déborah](https://x.com/dvorahfr) | **출처:** [Link](https://x.com/dvorahfr/status/2067674068950667319) | **게시일:** Jun 18, 2026
 
 ---
-### 도지코인 메달을 목에 건 갱스터 일론 머스크
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 금색 액세서리와 테크 브랜드 반지를 착용한 힙합 갱스터 스타일의 일론 머스크를 담은 유머러스한 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-금니 그릴과 멋진 선글라스, 털 코트와 도지코인 메달 목걸이를 착용한 힙합 갱스터 스타일의 일론 머스크. 손가락에는 각각 SpaceX, xAI, Tesla, Neuralink, The Boring Company 로고가 새겨진 금반지를 끼고 있다....
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4cd7e54c14a3a121297ccbda617e0b5f/thumbnails/thumbnail.jpg" width="600" alt="도지코인 메달을 목에 건 갱스터 일론 머스크">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6204)**
-
-**작성자:** [sho](https://x.com/sho00092729) | **출처:** [Link](https://x.com/sho00092729/status/2067669306624585821) | **게시일:** Jun 18, 2026
-
----
-### 검은 신화: 오공 전사 장면
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Black Myth: Wukong 에서 영감을 받은 서사적인 영화풍 프롬프트로, 안개 자욱하고 신비로운 환경에서 거대한 수호상과 마주한 전사의 모습을 담고 있습니다.
-
-#### 📝 프롬프트
-
-```
-걸작, 최고 품질, Black Myth: Wukong 의 초정밀 영화풍 이미지. 긴 봉을 들고 바위 절벽 위에 홀로 서 있는 전사가 짙은 안개와 드라마틱한 빛줄기에 싸인 세 개의 거대한 고대 수호상과 마주하고 있습니다. 떠다니는 입자와 분위기 있는 조명으로 어둡고 서사적이며 신비로운 분위기를 자아냅니다. 매우 정교한 갑옷, 조각상 및 환경. 영화적 구도, 선명한 디테일, 최고 품질, 8K 해상도.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d9881f33649d46b1e7fa2d3552f829a9/thumbnails/thumbnail.jpg" width="600" alt="검은 신화: 오공 전사 장면">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6200)**
-
-**작성자:** [⭕Kisalay](https://x.com/Kisalay_) | **출처:** [Link](https://x.com/Kisalay_/status/2067658367368352257) | **게시일:** Jun 18, 2026
-
----
-### 3D 애니메이션 말하는 강아지
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 미래와 평등에 대해 이야기하는 강아지가 등장하는 3D 애니메이션 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-고정 샷, 3D 애니메이션, 강아지가 말합니다: "우리 모두가 배불리 먹고 누구도 소외되지 않는 미래를 정말 만들 수 있을까요?"
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a3a2c154173fa5431d689efeb6869ec8/thumbnails/thumbnail.jpg" width="600" alt="3D 애니메이션 말하는 강아지">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6210)**
-
-**작성자:** [the_light](https://x.com/the_light35) | **출처:** [Link](https://x.com/the_light35/status/2067652638263370030) | **게시일:** Jun 18, 2026
-
----
-### Optimus의 주택 건축 및 복원
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Optimus 로봇이 집을 짓고 복원의 미학에 대해 이야기하는 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-Elon을 천재처럼 보이게 만들어 봅시다. 시작하죠. Optimus가 집을 짓게 하고, 그가 복원, 재건, 회복, 즉 낡은 영혼과 오래된 집을 구하는 예술에 대해 말하게 하세요. 우리가 뒤처진 부분을 따라잡고 그 이상으로 나아가기 위해...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3d830e8925b695a916ce9e676e7059eb/thumbnails/thumbnail.jpg" width="600" alt="Optimus의 주택 건축 및 복원">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6208)**
-
-**작성자:** [the_light](https://x.com/the_light35) | **출처:** [Link](https://x.com/the_light35/status/2067651155044319585) | **게시일:** Jun 18, 2026
-
----
-### 시부야 교차로 위에 떠 있는 우산들
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 밤의 시부야 교차로 위로 우산을 든 사람들이 떠오르는 모습을 담은 Grok Imagine용 초현실적 시네마틱 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-이 초현실적인 시네마틱 얼터너티브 아트 장면에서는 다채로운 우산을 든 사람들이 부드럽고 천천히 위로 떠오르며, 은은한 바람과 마법 같은 부양력, 그리고 느리고 우아한 상승 움직임과 함께 밤하늘로 유유히 사라집니다...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6abc090bd78830396cd00095782e7a7e/thumbnails/thumbnail.jpg" width="600" alt="시부야 교차로 위에 떠 있는 우산들">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6195)**
-
-**작성자:** [JetCapBoy](https://x.com/JetCapBoy) | **출처:** [Link](https://x.com/JetCapBoy/status/2067603546540056770) | **게시일:** Jun 18, 2026
-
----
-### 마법 같은 사자의 포효
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 어두운 침실 속 액자에 담긴 사자가 살아 움직이며 강력한 포효를 내뱉는 시네마틱 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-어두운 침실을 배경으로, 검은 벽에 걸린 크고 화려한 검은색 액자 속 사자가 회화적인 스타일로 마법처럼 살아 움직입니다. 위엄 있는 수사자가 천천히 고개를 돌려 관객을 바라보며 강력한 포효를 내뱉습니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b76266c625c49d0fbb90629e1de12a71/thumbnails/thumbnail.jpg" width="600" alt="마법 같은 사자의 포효">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6196)**
-
-**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2067598831827484846) | **게시일:** Jun 18, 2026
-
----
-### 일본의 루프탑 가든에서 맞이하는 황혼
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 별이 빛나는 하늘 아래 일본의 도시 야경과 루프탑 가든이 어우러진 평화로운 황혼 풍경을 묘사한 시네마틱 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-일본의 황혼, 아래로 펼쳐진 따스한 도시의 불빛, 위로는 고요한 루프탑 가든, 그리고 별들로 수놓아진 하늘.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067593205680586752/img/rswrSoM2iHi1oZ8Y.jpg" width="600" alt="일본의 루프탑 가든에서 맞이하는 황혼">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6319)**
-
-**작성자:** [Mr Das](https://x.com/MrDasOnX) | **출처:** [Link](https://x.com/MrDasOnX/status/2067593250354213218) | **게시일:** Jun 18, 2026
-
----
-### 일본식 테이블 상차림으로 향하는 시네마틱 돌리 인
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 텐동 그릇에서 김이 모락모락 피어오르고 따뜻한 보케 조명이 비치는 아늑한 일본 식당 테이블을 향해 천천히 다가가는 시네마틱 돌리 인 샷을 위한 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-아늑한 일본 식당의 테이블 상차림을 향해 천천히 다가가는 시네마틱 돌리 인 샷. 뜨거운 텐동 그릇에서 미세한 김이 피어오릅니다. 따뜻한 펜던트 조명이 부드러운 보케 효과와 함께 빛납니다. 호스트는 자연스럽게 눈을 깜빡이며 환영하는 미소를 짓고 있습니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/028b826fe5241d87da6ce8ff6cf616e6/thumbnails/thumbnail.jpg" width="600" alt="일본식 테이블 상차림으로 향하는 시네마틱 돌리 인">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6212)**
-
-**작성자:** [淼儿](https://x.com/tasakimori) | **출처:** [Link](https://x.com/tasakimori/status/2067589992281674195) | **게시일:** Jun 18, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2195,6 +2195,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-27T04:17:41.122Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-27T10:36:51.850Z</sub>
 
 </div>
