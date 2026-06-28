@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **1975** |
+| 📝 プロンプト総数 | **1983** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-06-28** |
 
@@ -189,6 +189,139 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### アンデスコンドルの飛行シネマティック
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> アンデスコンドルが山脈の上空を飛行する様子を、超リアルなクローズアップ映像として生成するためのシネマティックなプロンプトです。
+
+#### 📝 プロンプト
+
+```
+アンデス山脈の上空を飛行するアンデスコンドルの超リアルなクローズアップ映像。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071082468061360128/img/cvL7JHWeU0Qp06jP.jpg" width="600" alt="アンデスコンドルの飛行シネマティック">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6564)**
+
+**作者:** [Mario Nawfal](https://x.com/MarioNawfal) | **ソース:** [Link](https://x.com/MarioNawfal/status/2071100026772971840) | **公開日:** Jun 28, 2026
+
+---
+### レトロな CRT マニフェストポスター
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> スキャンラインと蛍光体の発光エフェクトを特徴とする、マニフェストポスターへのシネマティックなプッシュインでレトロフューチャーなムードを演出するビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+マニフェストポスターへのゆっくりとしたシネマティックなプッシュイン。CRT のスキャンラインがかすかに漂い、古いモニターのように蛍光グリーンのエッジが穏やかに明滅する。タイポグラフィはシャープで読みやすい状態を維持。深夜の抗議活動のチラシのような雰囲気で、動きは控えめに。新しいテキストやロゴは追加しない。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070952039459274752/img/eckA5IgOFuPQwTzY.jpg" width="600" alt="レトロな CRT マニフェストポスター">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6562)**
+
+**作者:** [David Herbert Thomas](https://x.com/Diabach1972) | **ソース:** [Link](https://x.com/Diabach1972/status/2070952100410872189) | **公開日:** Jun 27, 2026
+
+---
+### ひまわり畑を歩く女性
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 白いサマードレスを着た女性が、そよ風の中ひまわり畑を散策する様子を捉えたシネマティックな動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+美しい白いサマードレスを着た女性が、そよ風に吹かれながらひまわり畑を歩く様子を捉えた、超リアルなクローズアップ映像。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070883239917711360/img/06wbHnBCrTE_afO9.jpg" width="600" alt="ひまわり畑を歩く女性">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6560)**
+
+**作者:** [Mario Nawfal](https://x.com/MarioNawfal) | **ソース:** [Link](https://x.com/MarioNawfal/status/2070902475238818282) | **公開日:** Jun 27, 2026
+
+---
+### ジブリ風の居心地の良い屋根裏部屋の動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> スタジオジブリ作品にインスパイアされた、ヴィンテージの宝物とフェアリーライトで満たされた、温かく魔法のような屋根裏部屋のシネマティックな動画プロンプト。夜空には満天の星が広がっています。
+
+#### 📝 プロンプト
+
+```
+ヴィンテージの宝物、古い地図、鉢植え、フェアリーライトで満たされた居心地の良い屋根裏部屋。天窓からは息をのむような満天の星空が見える。温かく魔法のような雰囲気。スタジオジブリ風の、非常に詳細なアニメーションイラスト。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070855968339230720/img/gdIXM9etUa8gWSBz.jpg" width="600" alt="ジブリ風の居心地の良い屋根裏部屋の動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6559)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **ソース:** [Link](https://x.com/MrDasOnX/status/2070856044876902482) | **公開日:** Jun 27, 2026
+
+---
+### 赤いマントを纏いリンゴを持つ女性
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 古い木の下でリンゴを持つ、赤いマントを纏った謎めいた女性のシネマティックな動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+古いリンゴの木の下で、鮮やかな赤いリンゴを持つ、深い赤色のフード付きマントを纏った謎めいた若い女性の超リアルなクローズアップシーン。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070822235099504640/img/2GsgtT4YdnmnI_uS.jpg" width="600" alt="赤いマントを纏いリンゴを持つ女性">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6561)**
+
+**作者:** [Mario Nawfal](https://x.com/MarioNawfal) | **ソース:** [Link](https://x.com/MarioNawfal/status/2070842077399675391) | **公開日:** Jun 27, 2026
+
+---
+### ミニチュア・ドールハウスのウォークスルー
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> キャラクターのホストと細部まで作り込まれた小さな部屋のデザインが特徴的な、ミニチュアハウスの遊び心あふれるウォークスルー動画用クリエイティブ・プロンプトです。
+
+#### 📝 プロンプト
+
+```
+Mira がカメラを案内し、『Attack of the 50 Foot Housewife』のミニチュアハウスセットの中を遊び心たっぷりにウォークスルーします。彼女はドールハウスの開かれた正面から足を踏み入れ、ホストらしい熱のこもった笑顔で、小さなリビングルームやキッチン、階段などを紹介していきます。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070828566149799936/img/E-PWyVCNm3dHrglN.jpg" width="600" alt="ミニチュア・ドールハウスのウォークスルー">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6557)**
+
+**作者:** [Brian](https://x.com/luvsheight) | **ソース:** [Link](https://x.com/luvsheight/status/2070828620747063692) | **公開日:** Jun 27, 2026
+
+---
+### 広大な草原を駆ける種馬
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 緑豊かな草原を駆け抜ける黒い種馬の力強い動きを捉えた、リアルな動画生成用プロンプトです。
+
+#### 📝 プロンプト
+
+```
+緑の草原を駆け抜ける黒い種馬を捉えた、超リアルなクローズアップ映像。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070821975010758656/img/YB5H88tCBylmvaM9.jpg" width="600" alt="広大な草原を駆ける種馬">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6558)**
+
+**作者:** [Mario Nawfal](https://x.com/MarioNawfal) | **ソース:** [Link](https://x.com/MarioNawfal/status/2070826977561612604) | **公開日:** Jun 27, 2026
+
+---
 ### 荘厳なサトウカエデの森を昇る
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -532,6 +665,25 @@ Elena が輝くポータルを通り抜け、広大な Playroom へと足を踏�
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6484)**
 
 **作者:** [Lynn Hocker](https://x.com/Auroraskye3993) | **ソース:** [Link](https://x.com/Auroraskye3993/status/2070054843604181021) | **公開日:** Jun 25, 2026
+
+---
+### 古代ローマのフォルムの果物売り
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 1 世紀のローマのフォルムの朝を再現した映画のような歴史的シーン。ラテン語で呼び込みをする果物売りの様子を描いています。
+
+#### 📝 プロンプト
+
+```
+紀元 1 世紀のローマのフォルムの朝 — 果物売り。彼女がラテン語で叫ぶ声：「Bona poma!」（良い果物だよ！）、「Dulcia poma!」（甘い果物だよ！）
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069990879486783488/img/5UrjpNsEn_CuOTWU.jpg" width="600" alt="古代ローマのフォルムの果物売り">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6563)**
+
+**作者:** [たんぐすけん | シニアの叡智、AIで加速！](https://x.com/Tungskenichi) | **ソース:** [Link](https://x.com/Tungskenichi/status/2069992038490362343) | **公開日:** Jun 25, 2026
 
 ---
 ### ソノラマ砂漠の量子発明家
@@ -1982,158 +2134,6 @@ UFO に引き寄せられるかのように子供が地面から浮かび上が�
 **作者:** [Ami A](https://x.com/AA63782) | **ソース:** [Link](https://x.com/AA63782/status/2067815770705526878) | **公開日:** Jun 19, 2026
 
 ---
-### ノスタルジックな日本のカフェ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 赤い自転車が置かれ、木漏れ日が差し込む、古き良き日本のカフェの穏やかでノスタルジックな風景。
-
-#### 📝 プロンプト
-
-```
-傑作、最高品質、静かな通りにあるノスタルジックな日本の古民家カフェの超精細なシネマティック画像。風化した建物には「COFE CAFE」と書かれた色あせた看板、ティールカラーのオーニング、そして外には赤い自転車が停められている。入り口は豊かな緑の植物や木々に囲まれ、葉の間から差し込む温かい陽光が石畳に美しい影を落としている。穏やかで少し哀愁漂う雰囲気。細部まで描き込まれた質感、ライティング、自然の要素。温かみのあるシネマティックな照明、最高品質、8K 解像度。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067768423871029248/img/jUGt1oA5yYJjbZYQ.jpg" width="600" alt="ノスタルジックな日本のカフェ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6249)**
-
-**作者:** [⭕Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2067768674388468127) | **公開日:** Jun 19, 2026
-
----
-### アニメキャラクターのソロワルツアニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 暗い階段を背景に、アニメキャラクターが優雅にソロワルツを踊り、バラの花びらが舞い散るシネマティックなビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-同じアニメキャラクターと暗い階段の環境を維持。彼女はゆっくりとしたソロワルツを続け、優雅なターンと穏やかなスピンを披露します。見えないパートナーと踊っているかのように腕を上げ、髪とドレスが揺らめきます。深紅とダスティローズの花びらが空中を舞い落ち、その動きを際立たせます。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067763909587869696/img/mEoTzdjLwAtWKEs_.jpg" width="600" alt="アニメキャラクターのソロワルツアニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6245)**
-
-**作者:** [Kafka Beatrix@贖罪卿](https://x.com/botamochi8639) | **ソース:** [Link](https://x.com/botamochi8639/status/2067763967494382037) | **公開日:** Jun 19, 2026
-
----
-### 夕暮れのカップルを捉えるオービタルカメラのシーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 夕暮れ時、輝くディテールとゴールデンアワーの光に包まれたカップルの周りを、オービタルカメラがゆっくりと旋回する様子を描写したシネマティックなビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-カメラがカップルの周囲をゆっくりと旋回しながら、わずかにズームインする。2 人は姿勢を保ったまま立ち尽くし、耳元のイヤピースが柔らかく明滅している。夕暮れのスカイラインとゴールデンアワーの光は安定している。カットなしの滑らかでシネマティックな動き。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3c09f0b18600f0547d234e66025d00b/thumbnails/thumbnail.jpg" width="600" alt="夕暮れのカップルを捉えるオービタルカメラのシーン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6193)**
-
-**作者:** [Runaway Outlier](https://x.com/CantTameFire) | **ソース:** [Link](https://x.com/CantTameFire/status/2067753638194552933) | **公開日:** Jun 18, 2026
-
----
-### 砂丘でのモトクロス・バックフリップ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> モトクロスの砂丘でダートバイクがジャンプし、バックフリップを決めるアクション満載のビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-モトクロスの砂丘に来て、ダートバイクに乗り、ジャンプしてバックフリップを決め、着地する
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9a48b6a6332f231319b73af683af335e/thumbnails/thumbnail.jpg" width="600" alt="砂丘でのモトクロス・バックフリップ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6206)**
-
-**作者:** [James Parker](https://x.com/JamesPa71114225) | **ソース:** [Link](https://x.com/JamesPa71114225/status/2067701377879486799) | **公開日:** Jun 18, 2026
-
----
-### 探偵の動機ボード風コラージュ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 複数の画像をドラマチックな探偵風のコラージュボードにまとめる、クリエイティブな動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-これら 8 枚の画像を 1 枚のフルスクリーン画像に合成し、中央に太字でミステリアスなフォントで「MOTIVE」とタイトルが記された、ドラマチックな探偵風の「動機ボード」コラージュを作成してください。取引アプリのスクリーンショット（多額の週間積立投資など）を使用し、...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/34f6911038868eede263c6c61fcbda14/thumbnails/thumbnail.jpg" width="600" alt="探偵の動機ボード風コラージュ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6198)**
-
-**作者:** [Laura k Brown](https://x.com/Coinbase000001) | **ソース:** [Link](https://x.com/Coinbase000001/status/2067695829675020692) | **公開日:** Jun 18, 2026
-
----
-### スタジアムで静かに観戦する観客の自然な映像
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> スタジアムの観客席に座る若い女性を捉えた、超リアルな自然体のビデオプロンプト。瞬きや呼吸といった繊細な動きを伴う、ドキュメンタリー調の映像。
-
-#### 📝 プロンプト
-
-```
-スタジアムの観客席から撮影した、超リアルで自然な映像。若い女性が静かに試合を観戦しており、写真に示されている通り、座ったまま時折飲み物を飲んだり、自然な瞬きや穏やかな呼吸をしたりしている。旗を振る、応援歌を歌う、国歌斉唱、愛国的なジェスチャーやフェイスペイント、大げさなリアクション、拍手、歓喜の表現は一切なし。完全に無言で、会話や口の動きもない。手持ちカメラによる繊細な揺れ、浅い被写界深度、スタジアムのリアルな照明と背景の観客。アーティファクトや顔の歪み、モーフィングはなく、全編を通して人物の容姿や服装に一貫性がある。穏やかでニュートラルなドキュメンタリー調、4K 画質。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cb0cf158f23e217eaceac670dabe183d/thumbnails/thumbnail.jpg" width="600" alt="スタジアムで静かに観戦する観客の自然な映像">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6213)**
-
-**作者:** [Natai](https://x.com/masterai13) | **ソース:** [Link](https://x.com/masterai13/status/2067687869464899651) | **公開日:** Jun 18, 2026
-
----
-### 廃墟の教室と山の景色
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 剥がれ落ちたペンキと差し込む陽光が印象的な廃墟の教室と、窓の外に広がる鮮やかな山の景色を対比させた、映画のような力強いプロンプト。
-
-#### 📝 プロンプト
-
-```
-傑作、最高品質、超高精細な映画のような廃墟の教室の画像。壁や天井の青いペンキが剥がれ落ちている。大きな壊れた窓から陽光が差し込み、濡れた床に美しい反射を作り出している。窓の外には、緑豊かな山々と、ふわふわとした白い雲が浮かぶ鮮やかな青空の絶景が広がっている。朽ち果てた教室と鮮やかな外界との対比が、力強い雰囲気を醸し出している。高精細な質感、ライティング、反射。感情的で映画のようなムード、最高品質、8K 解像度。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2127f4dccb275fa65ac86744afaa816b/thumbnails/thumbnail.jpg" width="600" alt="廃墟の教室と山の景色">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6202)**
-
-**作者:** [⭕Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2067675094315614281) | **公開日:** Jun 18, 2026
-
----
-### カップルの親密な未来についての対話
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 未来に対する不安を語り合うカップルの親密な対話に焦点を当てたビデオプロンプトです。
-
-#### 📝 プロンプト
-
-```
-カップルによる短く親密な会話：「未来が怖い」というテーマ。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f6b3f28ed2764666ea0b351486db68a1/thumbnails/thumbnail.jpg" width="600" alt="カップルの親密な未来についての対話">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6199)**
-
-**作者:** [Déborah](https://x.com/dvorahfr) | **ソース:** [Link](https://x.com/dvorahfr/status/2067674068950667319) | **公開日:** Jun 18, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2195,6 +2195,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-28T04:39:49.688Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-28T10:47:10.440Z</sub>
 
 </div>

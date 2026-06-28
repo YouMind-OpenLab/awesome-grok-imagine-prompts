@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1975** |
+| 📝 Total Prompts | **1983** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-28** |
 
@@ -189,6 +189,139 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### एंडियन कॉन्डोर की उड़ान का सिनेमैटिक दृश्य
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एंडियन कॉन्डोर के पर्वतीय श्रृंखला के ऊपर उड़ान भरते हुए अल्ट्रा-रियलिस्टिक क्लोज-अप वीडियो जनरेट करने के लिए एक सिनेमैटिक प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+एंडिस पर्वत के ऊपर उड़ते हुए एंडियन कॉन्डोर का अल्ट्रा-रियलिस्टिक क्लोज-अप दृश्य।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071082468061360128/img/cvL7JHWeU0Qp06jP.jpg" width="600" alt="एंडियन कॉन्डोर की उड़ान का सिनेमैटिक दृश्य">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6564)**
+
+**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2071100026772971840) | **Published:** Jun 28, 2026
+
+---
+### रेट्रो CRT मेनिफेस्टो पोस्टर
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वीडियो प्रॉम्प्ट जो एक मेनिफेस्टो पोस्टर पर सिनेमैटिक पुश-इन के साथ रेट्रो-फ्यूचरिस्टिक मूड बनाता है, जिसमें स्कैनलाइन्स और फॉस्फोर ग्लो इफेक्ट्स शामिल हैं।
+
+#### 📝 Prompt
+
+```
+मेनिफेस्टो पोस्टर पर धीमा सिनेमैटिक पुश-इन। CRT स्कैनलाइन्स सूक्ष्म रूप से हिल रही हैं, फॉस्फोर ग्रीन एज ग्लो पुराने मॉनिटर की तरह धीरे-धीरे पल्स कर रहा है। टाइपोग्राफी स्पष्ट और पढ़ने योग्य है। मिडनाइट प्रोटेस्ट फ्लायर जैसा मूड, नियंत्रित गति, कोई नया टेक्स्ट नहीं, कोई लोगो नहीं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070952039459274752/img/eckA5IgOFuPQwTzY.jpg" width="600" alt="रेट्रो CRT मेनिफेस्टो पोस्टर">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6562)**
+
+**Author:** [David Herbert Thomas](https://x.com/Diabach1972) | **Source:** [Link](https://x.com/Diabach1972/status/2070952100410872189) | **Published:** Jun 27, 2026
+
+---
+### सूरजमुखी के खेत में चलती महिला
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सिनेमैटिक वीडियो प्रॉम्प्ट जिसमें एक महिला सफेद सनड्रेस पहने हुए हल्की हवा के बीच सूरजमुखी के खेत में टहल रही है।
+
+#### 📝 Prompt
+
+```
+एक सुंदर सफेद सनड्रेस पहने खूबसूरत महिला का अल्ट्रा-रियलिस्टिक क्लोज-अप दृश्य, जो हल्की हवा के बीच सूरजमुखी के खेत में चल रही है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070883239917711360/img/06wbHnBCrTE_afO9.jpg" width="600" alt="सूरजमुखी के खेत में चलती महिला">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6560)**
+
+**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2070902475238818282) | **Published:** Jun 27, 2026
+
+---
+### कोज़ी घिबली इंस्पायर्ड एटिक वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> स्टूडियो घिबली से प्रेरित, एक गर्म और जादुई अटारी (attic) कमरे के लिए एक सिनेमैटिक वीडियो प्रॉम्प्ट, जो विंटेज खजाने और फेयरी लाइट्स से भरा है और जिसके ऊपर तारों से भरी रात का आकाश है।
+
+#### 📝 Prompt
+
+```
+एक आरामदायक अटारी कमरा जो विंटेज खजाने, पुराने नक्शों, गमले वाले पौधों, फेयरी लाइट्स और एक स्काईलाइट से भरा है, जिससे तारों से भरा एक अद्भुत रात का आकाश दिखाई देता है। गर्म और जादुई वातावरण, स्टूडियो घिबली से प्रेरित, अत्यधिक विस्तृत एनीमे चित्रण।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070855968339230720/img/gdIXM9etUa8gWSBz.jpg" width="600" alt="कोज़ी घिबली इंस्पायर्ड एटिक वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6559)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2070856044876902482) | **Published:** Jun 27, 2026
+
+---
+### लाल लबादे में सेब लिए महिला
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक पुराने पेड़ के नीचे सेब पकड़े लाल लबादे में एक रहस्यमयी महिला का सिनेमैटिक वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+एक पुराने सेब के पेड़ के नीचे गहरे लाल रंग का हुड वाला लबादा पहने और एक चमकीला लाल सेब पकड़े रहस्यमयी युवती का अल्ट्रा-रियलिस्टिक क्लोज-अप दृश्य।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070822235099504640/img/2GsgtT4YdnmnI_uS.jpg" width="600" alt="लाल लबादे में सेब लिए महिला">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6561)**
+
+**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2070842077399675391) | **Published:** Jun 27, 2026
+
+---
+### मिनिएचर डॉलहाउस वॉकथ्रू
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक मिनिएचर हाउस सेट के चंचल वॉकथ्रू के लिए एक रचनात्मक वीडियो प्रॉम्प्ट, जिसमें एक कैरेक्टर होस्ट और विस्तृत छोटे कमरों के डिज़ाइन शामिल हैं।
+
+#### 📝 Prompt
+
+```
+मीरा 'Attack of the 50 Foot Housewife' मिनिएचर हाउस सेट के अंदर एक चंचल वॉकथ्रू के लिए कैमरे का मार्गदर्शन करती है। वह डॉलहाउस के खुले हिस्से से अंदर कदम रखती है और एक उत्साही होस्ट की मुस्कान के साथ छोटे लिविंग रूम, किचन और सीढ़ियों की ओर इशारा करती है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070828566149799936/img/E-PWyVCNm3dHrglN.jpg" width="600" alt="मिनिएचर डॉलहाउस वॉकथ्रू">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6557)**
+
+**Author:** [Brian](https://x.com/luvsheight) | **Source:** [Link](https://x.com/luvsheight/status/2070828620747063692) | **Published:** Jun 27, 2026
+
+---
+### खुले मैदान में दौड़ता हुआ स्टैलियन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक यथार्थवादी वीडियो प्रॉम्प्ट जो हरे-भरे खुले मैदान में दौड़ते हुए एक काले स्टैलियन घोड़े की शक्तिशाली गति को दर्शाता है।
+
+#### 📝 Prompt
+
+```
+हरे-भरे खुले मैदान में दौड़ते हुए एक काले स्टैलियन घोड़े का अल्ट्रा-रियलिस्टिक क्लोज-अप दृश्य।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070821975010758656/img/YB5H88tCBylmvaM9.jpg" width="600" alt="खुले मैदान में दौड़ता हुआ स्टैलियन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6558)**
+
+**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2070826977561612604) | **Published:** Jun 27, 2026
+
+---
 ### भव्य शुगर मेपल वन का आरोहण
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -532,6 +665,25 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6484)**
 
 **Author:** [Lynn Hocker](https://x.com/Auroraskye3993) | **Source:** [Link](https://x.com/Auroraskye3993/status/2070054843604181021) | **Published:** Jun 25, 2026
+
+---
+### प्राचीन रोमन फोरम का फल विक्रेता
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> पहली शताब्दी के रोमन फोरम की सुबह का एक सिनेमाई ऐतिहासिक चित्रण, जिसमें एक फल विक्रेता लैटिन भाषा में आवाज़ लगा रहा है।
+
+#### 📝 Prompt
+
+```
+पहली शताब्दी ईस्वी की रोमन फोरम की सुबह — एक फल विक्रेता। लैटिन में उसकी आवाज़: "Bona poma!" — "बढ़िया फल!" "Dulcia poma!" — "मीठे फल!"
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069990879486783488/img/5UrjpNsEn_CuOTWU.jpg" width="600" alt="प्राचीन रोमन फोरम का फल विक्रेता">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6563)**
+
+**Author:** [たんぐすけん | シニアの叡智、AIで加速！](https://x.com/Tungskenichi) | **Source:** [Link](https://x.com/Tungskenichi/status/2069992038490362343) | **Published:** Jun 25, 2026
 
 ---
 ### सोनोरन रेगिस्तान में क्वांटम आविष्कारक
@@ -1982,158 +2134,6 @@ Sebring को रिस्टोर करें, उस पर लिपटी
 **Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2067815770705526878) | **Published:** Jun 19, 2026
 
 ---
-### पुरानी यादें ताजा करने वाला जापानी कैफे
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक पुरानी जापानी कैफे का शांत और पुरानी यादों से भरा दृश्य, जिसमें एक लाल साइकिल और पेड़ों से छनकर आती धूप दिखाई दे रही है।
-
-#### 📝 Prompt
-
-```
-मास्टरपीस, बेहतरीन क्वालिटी, एक शांत सड़क पर स्थित पुराने जापानी कैफे की अल्ट्रा-डिटेल्ड सिनेमैटिक छवि। जर्जर इमारत पर 'COFE CAFE' लिखा एक फीका साइनबोर्ड है, एक टील रंग की छज्जा (awning) है, और बाहर एक लाल साइकिल खड़ी है। प्रवेश द्वार के चारों ओर हरे-भरे पौधे और पेड़ हैं, और पत्तियों से छनकर आती गर्म धूप पत्थर के रास्ते पर सुंदर छाया बना रही है। शांत और थोड़ा उदास माहौल। अत्यधिक विस्तृत बनावट, लाइटिंग और प्राकृतिक तत्व। गर्म सिनेमैटिक लाइटिंग, बेहतरीन क्वालिटी, 8K रिज़ॉल्यूशन।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067768423871029248/img/jUGt1oA5yYJjbZYQ.jpg" width="600" alt="पुरानी यादें ताजा करने वाला जापानी कैफे">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6249)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067768674388468127) | **Published:** Jun 19, 2026
-
----
-### एनीमे कैरेक्टर का सोलो वॉल्ट्ज़ एनिमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक अंधेरे सीढ़ी वाले वातावरण में गिरती हुई गुलाब की पंखुड़ियों के बीच, एक एनीमे कैरेक्टर द्वारा शानदार सोलो वॉल्ट्ज़ का प्रदर्शन करते हुए एक सिनेमैटिक वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-वही एनीमे कैरेक्टर और अंधेरे सीढ़ी वाला वातावरण अपरिवर्तित है। वह अपने धीमे सोलो वॉल्ट्ज़ को शानदार टर्न और हल्के स्पिन के साथ जारी रखती है, उसका हाथ ऐसे उठा हुआ है जैसे किसी अदृश्य साथी के साथ हो, और उसके बाल व ड्रेस लहरा रहे हैं। गहरे लाल और धूल भरे गुलाबी रंग की गुलाब की पंखुड़ियाँ हवा में नीचे गिर रही हैं, जो उसकी गति को और भी आकर्षक बना रही हैं।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067763909587869696/img/mEoTzdjLwAtWKEs_.jpg" width="600" alt="एनीमे कैरेक्टर का सोलो वॉल्ट्ज़ एनिमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6245)**
-
-**Author:** [Kafka Beatrix@贖罪卿](https://x.com/botamochi8639) | **Source:** [Link](https://x.com/botamochi8639/status/2067763967494382037) | **Published:** Jun 19, 2026
-
----
-### Orbital Camera Dusk Couple Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमैटिक वीडियो प्रॉम्प्ट जो गोधूलि बेला में एक जोड़े के चारों ओर धीमी ऑर्बिटल कैमरा मूवमेंट, चमकते विवरण और गोल्डन-आवर लाइटिंग का वर्णन करता है।
-
-#### 📝 Prompt
-
-```
-धीमी ऑर्बिटल कैमरा मूवमेंट जो जोड़े के चारों ओर धीरे-धीरे घूमते हुए अंदर की ओर बढ़ती है। वे अपनी मुद्रा में स्थिर हैं; चमकते हुए इयरपीस धीरे-धीरे पल्स कर रहे हैं। गोधूलि बेला का स्काईलाइन और गोल्डन-आवर की रोशनी स्थिर बनी हुई है। स्मूथ सिनेमैटिक मोशन, कोई कट नहीं।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3c09f0b18600f0547d234e66025d00b/thumbnails/thumbnail.jpg" width="600" alt="Orbital Camera Dusk Couple Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6193)**
-
-**Author:** [Runaway Outlier](https://x.com/CantTameFire) | **Source:** [Link](https://x.com/CantTameFire/status/2067753638194552933) | **Published:** Jun 18, 2026
-
----
-### रेत के टीलों में मोटोक्रॉस बैकफ्लिप
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> मोटोक्रॉस रेत के टीलों पर डर्ट बाइक जंप और बैकफ्लिप का एक एक्शन से भरपूर वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-मैं मोटोक्रॉस रेत के टीलों पर हूँ और मैं अपनी डर्ट बाइक पर सवार होकर एक जंप लगाता हूँ, बैकफ्लिप करता हूँ और उसे सफलतापूर्वक लैंड करता हूँ
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9a48b6a6332f231319b73af683af335e/thumbnails/thumbnail.jpg" width="600" alt="रेत के टीलों में मोटोक्रॉस बैकफ्लिप">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6206)**
-
-**Author:** [James Parker](https://x.com/JamesPa71114225) | **Source:** [Link](https://x.com/JamesPa71114225/status/2067701377879486799) | **Published:** Jun 18, 2026
-
----
-### डिटेक्टिव मोटिव बोर्ड कोलाज
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक रचनात्मक वीडियो प्रॉम्प्ट जो कई छवियों को मिलाकर एक नाटकीय डिटेक्टिव-शैली का कोलाज बोर्ड बनाता है।
-
-#### 📝 Prompt
-
-```
-उन 8 छवियों को एक फुल-स्क्रीन इमेज में संयोजित करें, जिसके केंद्र में बोल्ड और रहस्यमयी फ़ॉन्ट में "MOTIVE" शीर्षक वाला एक नाटकीय डिटेक्टिव-शैली का 'मोटिव बोर्ड' कोलाज तैयार करें। ट्रेडिंग ऐप के स्क्रीनशॉट का उपयोग करें (बड़ी साप्ताहिक राशि के साथ आवर्ती निवेश,...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/34f6911038868eede263c6c61fcbda14/thumbnails/thumbnail.jpg" width="600" alt="डिटेक्टिव मोटिव बोर्ड कोलाज">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6198)**
-
-**Author:** [Laura k Brown](https://x.com/Coinbase000001) | **Source:** [Link](https://x.com/Coinbase000001/status/2067695829675020692) | **Published:** Jun 18, 2026
-
----
-### स्टेडियम में शांत बैठी दर्शक का स्पष्ट (कैंडिड) फुटेज
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> स्टेडियम की गैलरी में बैठी एक युवती का अल्ट्रा-रियलिस्टिक कैंडिड वीडियो प्रॉम्प्ट, जिसमें पलक झपकाने और सांस लेने जैसी सूक्ष्म गतिविधियों के साथ डॉक्यूमेंट्री जैसा लहजा है।
-
-#### 📝 Prompt
-
-```
-स्टेडियम की गैलरी से अल्ट्रा-रियलिस्टिक कैंडिड फुटेज। एक युवती चुपचाप मैच देख रही है और वही कर रही है जो फोटो में दिखाया गया है — बैठी हुई है, कभी-कभी कुछ खा रही है या ड्रिंक की चुस्की ले रही है, स्वाभाविक रूप से पलकें झपका रही है, और शांत तरीके से सांस ले रही है। कोई झंडे नहीं, कोई नारेबाजी नहीं, कोई राष्ट्रगान नहीं, कोई देशभक्ति के संकेत या चेहरे पर पेंट नहीं, कोई अतिरंजित प्रतिक्रिया नहीं, कोई ताली नहीं, कोई जश्न नहीं। पूरी तरह से शांत, कोई बातचीत नहीं, होंठों की कोई हलचल नहीं। सूक्ष्म हैंडहेल्ड कैमरा, शैलो डेप्थ ऑफ फील्ड, यथार्थवादी स्टेडियम लाइटिंग और बैकग्राउंड में भीड़। कोई आर्टिफैक्ट्स नहीं, चेहरे में कोई विकृति नहीं, कोई मॉर्फिंग नहीं, पूरी वीडियो में एक समान पहचान और पोशाक। शांत, तटस्थ, डॉक्यूमेंट्री जैसा लहजा, 4K।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cb0cf158f23e217eaceac670dabe183d/thumbnails/thumbnail.jpg" width="600" alt="स्टेडियम में शांत बैठी दर्शक का स्पष्ट (कैंडिड) फुटेज">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6213)**
-
-**Author:** [Natai](https://x.com/masterai13) | **Source:** [Link](https://x.com/masterai13/status/2067687869464899651) | **Published:** Jun 18, 2026
-
----
-### परित्यक्त कक्षा और पहाड़ों का दृश्य
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> उखड़ती हुई पेंट और धूप वाली एक परित्यक्त कक्षा का शक्तिशाली सिनेमाई प्रॉम्प्ट, जो बाहर के जीवंत पहाड़ी दृश्य के साथ एक गहरा कंट्रास्ट बनाता है।
-
-#### 📝 Prompt
-
-```
-मास्टरपीस, सर्वोत्तम गुणवत्ता, दीवारों और छत पर उखड़ती नीली पेंट वाली एक परित्यक्त कक्षा की अल्ट्रा-डिटेल्ड सिनेमाई छवि। बड़ी टूटी हुई खिड़कियों से आती धूप गीले फर्श पर सुंदर प्रतिबिंब बना रही है। खिड़कियों के बाहर हरे-भरे पहाड़ों और रुई जैसे सफेद बादलों वाले चमकीले नीले आसमान का शानदार दृश्य है। जीर्ण-शीर्ण कक्षा और बाहर की जीवंत दुनिया के बीच का कंट्रास्ट एक शक्तिशाली वातावरण बनाता है। अत्यधिक विस्तृत बनावट, लाइटिंग और रिफ्लेक्शन। भावनात्मक और सिनेमाई मूड, सर्वोत्तम गुणवत्ता, 8K रिज़ॉल्यूशन।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2127f4dccb275fa65ac86744afaa816b/thumbnails/thumbnail.jpg" width="600" alt="परित्यक्त कक्षा और पहाड़ों का दृश्य">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6202)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067675094315614281) | **Published:** Jun 18, 2026
-
----
-### युगल के बीच भविष्य पर अंतरंग बातचीत
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो प्रॉम्प्ट जो एक युगल के बीच भविष्य को लेकर उनके डर पर केंद्रित एक अंतरंग बातचीत को दर्शाता है।
-
-#### 📝 Prompt
-
-```
-एक युगल के बीच एक संक्षिप्त, अंतरंग बातचीत: "मुझे भविष्य से डर लगता है" इसका मुख्य विषय है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f6b3f28ed2764666ea0b351486db68a1/thumbnails/thumbnail.jpg" width="600" alt="युगल के बीच भविष्य पर अंतरंग बातचीत">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6199)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2067674068950667319) | **Published:** Jun 18, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2195,6 +2195,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-28T04:39:54.844Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-28T10:47:18.161Z</sub>
 
 </div>

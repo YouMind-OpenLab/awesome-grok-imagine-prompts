@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1975** |
+| 📝 Total Prompts | **1983** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-28** |
 
@@ -189,6 +189,139 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### And Dağları Kondoru Uçuş Sinematiği
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> And Dağları üzerinde uçan bir kondorun ultra gerçekçi yakın çekimini oluşturmak için sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+And Dağları üzerinde uçan bir kondorun ultra gerçekçi yakın çekim sahnesi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071082468061360128/img/cvL7JHWeU0Qp06jP.jpg" width="600" alt="And Dağları Kondoru Uçuş Sinematiği">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6564)**
+
+**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2071100026772971840) | **Published:** Jun 28, 2026
+
+---
+### Retro CRT Manifesto Posteri
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Tarama çizgileri ve fosfor parıltısı efektlerine sahip, bir manifesto posterine sinematik bir yakınlaşma ile retro-fütüristik bir atmosfer yaratan video istemi.
+
+#### 📝 Prompt
+
+```
+Manifesto posterine yavaş sinematik yakınlaşma. CRT tarama çizgileri hafifçe kayıyor, fosfor yeşili kenar parıltısı eski bir monitör gibi nazikçe yanıp sönüyor. Tipografi keskin ve okunabilir kalıyor. Gece yarısı protesto bildirisi havası, kontrollü hareket, yeni metin yok, logo yok.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070952039459274752/img/eckA5IgOFuPQwTzY.jpg" width="600" alt="Retro CRT Manifesto Posteri">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6562)**
+
+**Author:** [David Herbert Thomas](https://x.com/Diabach1972) | **Source:** [Link](https://x.com/Diabach1972/status/2070952100410872189) | **Published:** Jun 27, 2026
+
+---
+### Ayçiçeği Tarlasında Yürüyen Kadın
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Hafif bir esinti eşliğinde ayçiçeği tarlasında yürüyen beyaz yazlık elbiseli bir kadının yer aldığı sinematik video istemi.
+
+#### 📝 Prompt
+
+```
+Hafif bir esintiyle ayçiçeği tarlasında yürüyen, güzel beyaz yazlık elbiseli bir kadının ultra gerçekçi yakın plan sahnesi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070883239917711360/img/06wbHnBCrTE_afO9.jpg" width="600" alt="Ayçiçeği Tarlasında Yürüyen Kadın">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6560)**
+
+**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2070902475238818282) | **Published:** Jun 27, 2026
+
+---
+### Ghibli Esintili Sıcak Çatı Katı Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Studio Ghibli'den ilham alan; vintage hazineler ve peri ışıklarıyla dolu, galaksi manzaralı bir gece gökyüzünün altında yer alan sıcak ve büyülü bir çatı katı odası için sinematik video istemi.
+
+#### 📝 Prompt
+
+```
+Vintage hazineler, eski haritalar, saksı bitkileri, peri ışıkları ve nefes kesici bir galaksi manzaralı gece gökyüzünü ortaya çıkaran bir çatı penceresiyle dolu sıcak bir çatı katı odası; sıcak ve büyülü atmosfer, Studio Ghibli esintili, yüksek detaylı anime illüstrasyonu.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070855968339230720/img/gdIXM9etUa8gWSBz.jpg" width="600" alt="Ghibli Esintili Sıcak Çatı Katı Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6559)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2070856044876902482) | **Published:** Jun 27, 2026
+
+---
+### Elma Tutan Kırmızı Pelerinli Kadın
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Eski bir ağacın altında elma tutan, kırmızı pelerinli gizemli bir kadını konu alan sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Eski bir elma ağacının altında parlak kırmızı bir elma tutan, koyu kırmızı kapüşonlu pelerinli gizemli genç bir kadının ultra gerçekçi yakın plan sahnesi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070822235099504640/img/2GsgtT4YdnmnI_uS.jpg" width="600" alt="Elma Tutan Kırmızı Pelerinli Kadın">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6561)**
+
+**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2070842077399675391) | **Published:** Jun 27, 2026
+
+---
+### Minyatür Oyuncak Ev Turu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Karakter bir sunucu ve detaylı küçük oda tasarımları içeren, oyuncak bir ev setinde eğlenceli bir tur için yaratıcı bir video istemi.
+
+#### 📝 Prompt
+
+```
+Mira, Attack of the 50 Foot Housewife minyatür ev setinin içinde eğlenceli bir tur için kameraya rehberlik ediyor. Oyuncak evin açık cephesinden içeri adım atıyor ve hevesli bir sunucu gülümsemesiyle minik oturma odasını, mutfağı ve merdivenleri işaret ediyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070828566149799936/img/E-PWyVCNm3dHrglN.jpg" width="600" alt="Minyatür Oyuncak Ev Turu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6557)**
+
+**Author:** [Brian](https://x.com/luvsheight) | **Source:** [Link](https://x.com/luvsheight/status/2070828620747063692) | **Published:** Jun 27, 2026
+
+---
+### Açık Alanda Koşan Aygır
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yeşil ve açık bir alanda koşan siyah bir aygırın güçlü hareketlerini yakalayan gerçekçi bir video istemi.
+
+#### 📝 Prompt
+
+```
+Yeşil ve açık bir alanda koşan siyah bir aygırın ultra gerçekçi yakın plan sahnesi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070821975010758656/img/YB5H88tCBylmvaM9.jpg" width="600" alt="Açık Alanda Koşan Aygır">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6558)**
+
+**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2070826977561612604) | **Published:** Jun 27, 2026
+
+---
 ### Görkemli Şeker Akçaağacı Ormanı Yükselişi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -532,6 +665,25 @@ Galaksinin/nebulanın, büyük bir kokteyl karidesine dönüşene kadar yavaşç
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6484)**
 
 **Author:** [Lynn Hocker](https://x.com/Auroraskye3993) | **Source:** [Link](https://x.com/Auroraskye3993/status/2070054843604181021) | **Published:** Jun 25, 2026
+
+---
+### Antik Roma Forumu'nda Meyve Satıcısı
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 1. yüzyıl Roma Forumu sabahının sinematik bir tarihsel canlandırması; Latince seslenen bir meyve satıcısını konu alıyor.
+
+#### 📝 Prompt
+
+```
+Roma Forumu'nda MS 1. yüzyıl sabahı — bir meyve satıcısı. Latince çağrısı: "Bona poma!" — "Güzel meyveler!" "Dulcia poma!" — "Tatlı meyveler!"
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069990879486783488/img/5UrjpNsEn_CuOTWU.jpg" width="600" alt="Antik Roma Forumu'nda Meyve Satıcısı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6563)**
+
+**Author:** [たんぐすけん | シニアの叡智、AIで加速！](https://x.com/Tungskenichi) | **Source:** [Link](https://x.com/Tungskenichi/status/2069992038490362343) | **Published:** Jun 25, 2026
 
 ---
 ### Sonoran Çölü'nde Kuantum Mucidi
@@ -1982,158 +2134,6 @@ Referans görseldeki büyük çikolatalı dondurma külahını, sayısız minik 
 **Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2067815770705526878) | **Published:** Jun 19, 2026
 
 ---
-### Nostaljik Japon Kafesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kırmızı bir bisiklet ve ağaçların arasından süzülen güneş ışığıyla, eski bir Japon kafesinin huzurlu ve nostaljik manzarası.
-
-#### 📝 Prompt
-
-```
-Başyapıt, en iyi kalite, sessiz bir sokaktaki nostaljik eski bir Japon kafesinin ultra detaylı sinematik görüntüsü. Eskimiş binanın üzerinde 'COFE CAFE' yazan soluk bir tabela, turkuaz renkli bir tente ve dışarıda park edilmiş kırmızı bir bisiklet bulunuyor. Girişi çevreleyen yemyeşil bitkiler ve ağaçlar, yaprakların arasından süzülen sıcak güneş ışığıyla taş kaldırım üzerinde güzel gölgeler oluşturuyor. Huzurlu ve hafif melankolik bir atmosfer. Yüksek detaylı dokular, aydınlatma ve doğal unsurlar. Sıcak sinematik ışıklandırma, en iyi kalite, 8K çözünürlük.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067768423871029248/img/jUGt1oA5yYJjbZYQ.jpg" width="600" alt="Nostaljik Japon Kafesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6249)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067768674388468127) | **Published:** Jun 19, 2026
-
----
-### Anime karakteri solo vals animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Karanlık bir merdiven ortamında zarif bir solo vals yapan anime karakterinin ve dökülen gül yapraklarının yer aldığı sinematik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Aynı anime karakteri ve karanlık merdiven ortamı değişmeden kalıyor. Karakter, görünmez bir partnerle dans ediyormuş gibi kaldırdığı kolu, savrulan saçları ve elbisesiyle zarif dönüşler ve hafif bir dönüşle yavaş solo valsine devam ediyor. Koyu kırmızı ve toz pembe gül yaprakları, hareketi vurgulayacak şekilde havada süzülüyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067763909587869696/img/mEoTzdjLwAtWKEs_.jpg" width="600" alt="Anime karakteri solo vals animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6245)**
-
-**Author:** [Kafka Beatrix@贖罪卿](https://x.com/botamochi8639) | **Source:** [Link](https://x.com/botamochi8639/status/2067763967494382037) | **Published:** Jun 19, 2026
-
----
-### Orbital Kamera Gün Batımı Çift Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gün batımında, parlayan detaylar ve altın saat ışığı eşliğinde bir çiftin etrafında yavaş bir orbital kamera hareketini betimleyen sinematik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Çiftin etrafında hafifçe dönen ve yavaşça yaklaşan orbital kamera hareketi. Duruşlarını koruyorlar; parlayan kulaklıkları yumuşak bir şekilde yanıp sönüyor. Gün batımı silüeti ve altın saat ışığı sabit kalıyor. Kesintisiz, pürüzsüz sinematik hareket.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3c09f0b18600f0547d234e66025d00b/thumbnails/thumbnail.jpg" width="600" alt="Orbital Kamera Gün Batımı Çift Sahnesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6193)**
-
-**Author:** [Runaway Outlier](https://x.com/CantTameFire) | **Source:** [Link](https://x.com/CantTameFire/status/2067753638194552933) | **Published:** Jun 18, 2026
-
----
-### Kum Tepelerinde Motokros Ters Takla
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Motokros kum tepelerinde gerçekleşen, aksiyon dolu bir arazi motosikleti atlayışı ve ters takla video istemi.
-
-#### 📝 Prompt
-
-```
-Motokros kum tepelerindeyim, arazi motosikletime biniyorum, bir atlayış yapıp ters takla atıyorum ve yere sağlam bir şekilde iniş yapıyorum
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9a48b6a6332f231319b73af683af335e/thumbnails/thumbnail.jpg" width="600" alt="Kum Tepelerinde Motokros Ters Takla">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6206)**
-
-**Author:** [James Parker](https://x.com/JamesPa71114225) | **Source:** [Link](https://x.com/JamesPa71114225/status/2067701377879486799) | **Published:** Jun 18, 2026
-
----
-### Dedektif Motivasyon Panosu Kolajı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Birden fazla görseli dramatik, dedektif tarzı bir kolaj panosunda birleştiren yaratıcı bir video istemi.
-
-#### 📝 Prompt
-
-```
-Bu 8 görseli, merkezinde kalın ve gizemli bir yazı tipiyle "MOTIVE" başlığı yazan, dramatik bir dedektif tarzı 'Motivasyon Panosu' kolajı oluşturarak tam ekran tek bir görselde birleştirin. Alım satım uygulaması ekran görüntülerini (büyük haftalık tutarlarla yapılan düzenli yatırımlar,...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/34f6911038868eede263c6c61fcbda14/thumbnails/thumbnail.jpg" width="600" alt="Dedektif Motivasyon Panosu Kolajı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6198)**
-
-**Author:** [Laura k Brown](https://x.com/Coinbase000001) | **Source:** [Link](https://x.com/Coinbase000001/status/2067695829675020692) | **Published:** Jun 18, 2026
-
----
-### Stadyumda Oturan Sakin Bir İzleyicinin Doğal Görüntüleri
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Stadyum tribünlerinde oturan genç bir kadının, göz kırpma ve nefes alma gibi ince hareketlerini içeren, belgesel tonunda ultra gerçekçi bir doğal video istemi.
-
-#### 📝 Prompt
-
-```
-Stadyum tribünlerinden ultra gerçekçi doğal görüntüler. Genç bir kadın sessizce maçı izliyor; fotoğrafta tam olarak gösterildiği gibi oturuyor, ara sıra bir şeyler yiyor veya içeceğinden bir yudum alıyor, doğal bir şekilde göz kırpıyor ve sakin bir şekilde nefes alıyor. Bayrak yok, tezahürat yok, marş yok, vatansever jestler veya yüz boyası yok, abartılı tepkiler yok, alkış yok, kutlama yok. Tamamen sessiz, konuşma yok, dudak hareketi yok. Hafif el kamerası çekimi, sığ alan derinliği, gerçekçi stadyum ışıklandırması ve arka planda kalabalık. Hata yok, bozuk yüz yok, şekil bozulması yok, baştan sona tutarlı kimlik ve kıyafet. Sakin, tarafsız, belgesel tonu, 4K.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cb0cf158f23e217eaceac670dabe183d/thumbnails/thumbnail.jpg" width="600" alt="Stadyumda Oturan Sakin Bir İzleyicinin Doğal Görüntüleri">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6213)**
-
-**Author:** [Natai](https://x.com/masterai13) | **Source:** [Link](https://x.com/masterai13/status/2067687869464899651) | **Published:** Jun 18, 2026
-
----
-### Terk Edilmiş Sınıf ve Dağ Manzarası
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Dökülen boyaları ve güneş ışığıyla terk edilmiş bir sınıfın, dışarıdaki canlı dağ manzarasıyla zıtlık oluşturduğu etkileyici bir sinematik görsel istemi.
-
-#### 📝 Prompt
-
-```
-Başyapıt, en iyi kalite, duvarlarında ve tavanında dökülen mavi boyalar bulunan terk edilmiş bir sınıfın ultra detaylı sinematik görseli. Güneş ışığı büyük kırık pencerelerden içeri süzülerek ıslak zeminde güzel yansımalar oluşturuyor. Pencerelerin dışında yeşil dağların ve kabarık beyaz bulutlarla kaplı parlak mavi gökyüzünün çarpıcı bir manzarası var. Çürümekte olan sınıf ile dışarıdaki canlı dünya arasındaki zıtlık, güçlü bir atmosfer yaratıyor. Yüksek detaylı dokular, ışıklandırma ve yansımalar. Duygusal ve sinematik bir ruh hali, en iyi kalite, 8K çözünürlük.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2127f4dccb275fa65ac86744afaa816b/thumbnails/thumbnail.jpg" width="600" alt="Terk Edilmiş Sınıf ve Dağ Manzarası">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6202)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067675094315614281) | **Published:** Jun 18, 2026
-
----
-### Çiftler Arasında Samimi Gelecek Sohbeti
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir çiftin gelecek korkuları üzerine yaptıkları samimi diyaloğa odaklanan bir video istemi.
-
-#### 📝 Prompt
-
-```
-Bir çift kısa ve samimi bir sohbet ediyor: "Gelecekten korkuyorum" teması işleniyor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f6b3f28ed2764666ea0b351486db68a1/thumbnails/thumbnail.jpg" width="600" alt="Çiftler Arasında Samimi Gelecek Sohbeti">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6199)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2067674068950667319) | **Published:** Jun 18, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2195,6 +2195,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-28T04:40:04.257Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-28T10:47:31.840Z</sub>
 
 </div>

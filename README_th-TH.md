@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1975** |
+| 📝 Total Prompts | **1983** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-28** |
 
@@ -189,6 +189,139 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### วิดีโอซีนีมาติกการบินของแร้งแอนดีส
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแบบซีนีมาติกสำหรับการสร้างภาพระยะใกล้ที่สมจริงเป็นพิเศษของแร้งแอนดีสขณะบินอยู่เหนือเทือกเขา
+
+#### 📝 Prompt
+
+```
+ฉากระยะใกล้ที่สมจริงเป็นพิเศษของแร้งแอนดีสที่กำลังบินอยู่เหนือเทือกเขาแอนดีส
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071082468061360128/img/cvL7JHWeU0Qp06jP.jpg" width="600" alt="วิดีโอซีนีมาติกการบินของแร้งแอนดีส">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6564)**
+
+**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2071100026772971840) | **Published:** Jun 28, 2026
+
+---
+### โปสเตอร์แถลงการณ์สไตล์ Retro CRT
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์ที่สร้างบรรยากาศแบบย้อนยุคแห่งอนาคต (Retro-futuristic) ด้วยการซูมเข้าแบบภาพยนตร์ไปยังโปสเตอร์แถลงการณ์ พร้อมเอฟเฟกต์เส้นสแกน (Scanlines) และแสงเรืองรองแบบฟอสฟอรัส
+
+#### 📝 Prompt
+
+```
+ค่อย ๆ ซูมเข้าแบบภาพยนตร์ไปยังโปสเตอร์แถลงการณ์ เส้นสแกนแบบ CRT เคลื่อนผ่านอย่างแผ่วเบา แสงเรืองรองสีเขียวฟอสฟอรัสที่ขอบกระพริบเบา ๆ เหมือนจอภาพรุ่นเก่า ตัวอักษรยังคงความคมชัดและอ่านง่าย ให้บรรยากาศใบปลิวประท้วงยามค่ำคืน การเคลื่อนไหวที่นุ่มนวล ไม่มีการเพิ่มข้อความใหม่ และไม่มีโลโก้
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070952039459274752/img/eckA5IgOFuPQwTzY.jpg" width="600" alt="โปสเตอร์แถลงการณ์สไตล์ Retro CRT">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6562)**
+
+**Author:** [David Herbert Thomas](https://x.com/Diabach1972) | **Source:** [Link](https://x.com/Diabach1972/status/2070952100410872189) | **Published:** Jun 27, 2026
+
+---
+### หญิงสาวเดินท่ามกลางทุ่งดอกทานตะวัน
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์สไตล์ภาพยนตร์ของหญิงสาวในชุดเดรสสีขาวที่กำลังเดินเล่นในทุ่งดอกทานตะวันท่ามกลางสายลมพัดเบาๆ
+
+#### 📝 Prompt
+
+```
+ฉากโคลสอัพสมจริงเป็นพิเศษของหญิงสาวสวยในชุดเดรสสีขาวงดงามที่กำลังเดินผ่านทุ่งดอกทานตะวันท่ามกลางสายลมพัดเบาๆ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070883239917711360/img/06wbHnBCrTE_afO9.jpg" width="600" alt="หญิงสาวเดินท่ามกลางทุ่งดอกทานตะวัน">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6560)**
+
+**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2070902475238818282) | **Published:** Jun 27, 2026
+
+---
+### วิดีโอห้องใต้หลังคาสไตล์อบอุ่นแบบ Ghibli
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวภาพยนตร์สำหรับห้องใต้หลังคาที่อบอุ่นและเต็มไปด้วยมนต์ขลัง เต็มไปด้วยสมบัติวินเทจและไฟประดับภายใต้ท้องฟ้ายามค่ำคืนที่เต็มไปด้วยดารา ได้รับแรงบันดาลใจจาก Studio Ghibli
+
+#### 📝 Prompt
+
+```
+ห้องใต้หลังคาแสนอบอุ่นที่เต็มไปด้วยสมบัติวินเทจ แผนที่เก่า ต้นไม้ในกระถาง ไฟประดับ และหน้าต่างบนหลังคาที่เผยให้เห็นท้องฟ้ายามค่ำคืนที่เต็มไปด้วยดาราอันน่าทึ่ง บรรยากาศอบอุ่นและเต็มไปด้วยมนต์ขลัง ได้รับแรงบันดาลใจจาก Studio Ghibli เป็นภาพประกอบสไตล์อนิเมะที่มีรายละเอียดสูง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070855968339230720/img/gdIXM9etUa8gWSBz.jpg" width="600" alt="วิดีโอห้องใต้หลังคาสไตล์อบอุ่นแบบ Ghibli">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6559)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2070856044876902482) | **Published:** Jun 27, 2026
+
+---
+### หญิงสาวในชุดคลุมสีแดงกับผลแอปเปิล
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวภาพยนตร์ของหญิงสาวปริศนาในชุดคลุมสีแดงที่กำลังถือผลแอปเปิลอยู่ใต้ต้นไม้เก่าแก่
+
+#### 📝 Prompt
+
+```
+ฉากโคลสอัปสมจริงระดับอัลตราของหญิงสาวปริศนาในชุดคลุมมีฮู้ดสีแดงเข้ม กำลังถือผลแอปเปิลสีแดงสดอยู่ใต้ต้นแอปเปิลเก่าแก่
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070822235099504640/img/2GsgtT4YdnmnI_uS.jpg" width="600" alt="หญิงสาวในชุดคลุมสีแดงกับผลแอปเปิล">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6561)**
+
+**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2070842077399675391) | **Published:** Jun 27, 2026
+
+---
+### วิดีโอพาชมบ้านตุ๊กตาจิ๋ว
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอเชิงสร้างสรรค์สำหรับการพาชมบ้านจำลองขนาดจิ๋วอย่างสนุกสนาน โดยมีตัวละครเป็นผู้ดำเนินรายการและรายละเอียดการตกแต่งห้องขนาดเล็ก
+
+#### 📝 Prompt
+
+```
+Mira นำกล้องพาชมบรรยากาศอย่างสนุกสนานภายในฉากบ้านจำลอง Attack of the 50 Foot Housewife เธอเดินผ่านด้านหน้าบ้านตุ๊กตาที่เปิดออก พร้อมชี้ให้เห็นห้องนั่งเล่น ห้องครัว และบันไดขนาดจิ๋วด้วยรอยยิ้มที่เต็มไปด้วยความกระตือรือร้นในฐานะผู้ดำเนินรายการ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070828566149799936/img/E-PWyVCNm3dHrglN.jpg" width="600" alt="วิดีโอพาชมบ้านตุ๊กตาจิ๋ว">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6557)**
+
+**Author:** [Brian](https://x.com/luvsheight) | **Source:** [Link](https://x.com/luvsheight/status/2070828620747063692) | **Published:** Jun 27, 2026
+
+---
+### ม้าหนุ่มวิ่งในทุ่งกว้าง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอที่สมจริงซึ่งจับภาพการเคลื่อนไหวอันทรงพลังของม้าหนุ่มสีดำที่กำลังวิ่งผ่านทุ่งหญ้าสีเขียว
+
+#### 📝 Prompt
+
+```
+ฉากโคลสอัปที่สมจริงเป็นพิเศษของม้าหนุ่มสีดำที่กำลังวิ่งอยู่ในทุ่งหญ้าสีเขียว
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070821975010758656/img/YB5H88tCBylmvaM9.jpg" width="600" alt="ม้าหนุ่มวิ่งในทุ่งกว้าง">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6558)**
+
+**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2070826977561612604) | **Published:** Jun 27, 2026
+
+---
 ### การทะยานขึ้นสู่ยอดป่าเมเปิลน้ำตาลอันยิ่งใหญ่
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -532,6 +665,25 @@ Elena ก้าวผ่านประตูมิติที่ส่อง�
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6484)**
 
 **Author:** [Lynn Hocker](https://x.com/Auroraskye3993) | **Source:** [Link](https://x.com/Auroraskye3993/status/2070054843604181021) | **Published:** Jun 25, 2026
+
+---
+### พ่อค้าผลไม้ในจัตุรัสโรมันโบราณ
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> การจำลองภาพเหตุการณ์ทางประวัติศาสตร์ในยามเช้า ณ จัตุรัสโรมันช่วงศตวรรษที่ 1 โดยมีพ่อค้าผลไม้กำลังร้องขายสินค้าเป็นภาษาละติน
+
+#### 📝 Prompt
+
+```
+ยามเช้าในศตวรรษที่ 1 ณ จัตุรัสโรมัน — พ่อค้าผลไม้คนหนึ่งกำลังร้องขายสินค้าเป็นภาษาละตินว่า "Bona poma!" — "ผลไม้ชั้นดี!" "Dulcia poma!" — "ผลไม้รสหวาน!"
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069990879486783488/img/5UrjpNsEn_CuOTWU.jpg" width="600" alt="พ่อค้าผลไม้ในจัตุรัสโรมันโบราณ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6563)**
+
+**Author:** [たんぐすけん | シニアの叡智、AIで加速！](https://x.com/Tungskenichi) | **Source:** [Link](https://x.com/Tungskenichi/status/2069992038490362343) | **Published:** Jun 25, 2026
 
 ---
 ### นักประดิษฐ์ควอนตัมในทะเลทรายโซโนรา
@@ -1983,158 +2135,6 @@ Masterpiece, best quality, ultra-detailed fantasy concept art ของนัก
 **Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2067815770705526878) | **Published:** Jun 19, 2026
 
 ---
-### คาเฟ่ญี่ปุ่นสไตล์ย้อนยุค
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> บรรยากาศอันเงียบสงบและชวนให้คิดถึงวันวานของคาเฟ่ญี่ปุ่นเก่าแก่ที่มีจักรยานสีแดงจอดอยู่ พร้อมแสงแดดที่ส่องลอดผ่านต้นไม้ลงมา
-
-#### 📝 Prompt
-
-```
-ผลงานระดับมาสเตอร์พีซ คุณภาพเยี่ยม ภาพถ่ายแนวภาพยนตร์ที่เก็บรายละเอียดอย่างครบถ้วนของคาเฟ่ญี่ปุ่นเก่าแก่ในบรรยากาศย้อนยุคบนถนนที่เงียบสงบ ตัวอาคารที่ดูเก่าแก่มีป้ายที่ซีดจางเขียนว่า 'COFE CAFE' พร้อมกันสาดสีเขียวอมฟ้าและจักรยานสีแดงที่จอดอยู่ด้านหน้า ทางเข้าถูกรายล้อมไปด้วยต้นไม้และพืชพรรณสีเขียวชอุ่ม แสงแดดอันอบอุ่นที่ส่องลอดผ่านใบไม้ลงมาสร้างเงาที่สวยงามบนพื้นหิน มอบบรรยากาศที่เงียบสงบและแฝงไปด้วยความรู้สึกเหงาเล็กน้อย รายละเอียดของพื้นผิว แสง และองค์ประกอบทางธรรมชาติมีความสมจริงสูง แสงสว่างสไตล์ภาพยนตร์อันอบอุ่น คุณภาพดีที่สุด ความละเอียดระดับ 8K
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067768423871029248/img/jUGt1oA5yYJjbZYQ.jpg" width="600" alt="คาเฟ่ญี่ปุ่นสไตล์ย้อนยุค">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6249)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067768674388468127) | **Published:** Jun 19, 2026
-
----
-### แอนิเมชันตัวละครอนิเมะเต้นวอลซ์เดี่ยว
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวภาพยนตร์ของตัวละครอนิเมะที่กำลังเต้นวอลซ์เดี่ยวอย่างสง่างามในบรรยากาศบันไดมืดที่มีกลีบกุหลาบโปรยปราย
-
-#### 📝 Prompt
-
-```
-ตัวละครอนิเมะและบรรยากาศบันไดมืดคงเดิม เธอเต้นวอลซ์เดี่ยวอย่างช้าๆ ต่อไปด้วยการหมุนตัวที่สง่างามและการหมุนรอบตัวเองอย่างนุ่มนวล ยกแขนขึ้นราวกับมีคู่เต้นที่มองไม่เห็น ผมและชุดพริ้วไหว กลีบกุหลาบสีแดงเข้มและสีชมพูหม่นลอยละล่องลงมาในอากาศ ช่วยขับเน้นการเคลื่อนไหวให้โดดเด่นยิ่งขึ้น
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067763909587869696/img/mEoTzdjLwAtWKEs_.jpg" width="600" alt="แอนิเมชันตัวละครอนิเมะเต้นวอลซ์เดี่ยว">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6245)**
-
-**Author:** [Kafka Beatrix@贖罪卿](https://x.com/botamochi8639) | **Source:** [Link](https://x.com/botamochi8639/status/2067763967494382037) | **Published:** Jun 19, 2026
-
----
-### ฉากคู่รักยามพลบค่ำด้วยมุมกล้องแบบ Orbital
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวภาพยนตร์ที่อธิบายการเคลื่อนที่ของกล้องแบบ Orbital อย่างช้าๆ รอบคู่รักในช่วงเวลาพลบค่ำ พร้อมรายละเอียดแสงเรืองรองและแสงในช่วงโกลเด้นอาวร์
-
-#### 📝 Prompt
-
-```
-กล้องเคลื่อนที่แบบ Orbital อย่างช้าๆ วนรอบคู่รักเล็กน้อยพร้อมซูมเข้าไปอย่างนุ่มนวล ทั้งคู่ยังคงยืนในท่าทางที่สง่างาม หูฟังเรืองแสงกะพริบเบาๆ เส้นขอบฟ้าในยามพลบค่ำและแสงในช่วงโกลเด้นอาวร์ยังคงความเสถียร การเคลื่อนไหวแบบภาพยนตร์ที่ลื่นไหล ไม่มีรอยตัดต่อ
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3c09f0b18600f0547d234e66025d00b/thumbnails/thumbnail.jpg" width="600" alt="ฉากคู่รักยามพลบค่ำด้วยมุมกล้องแบบ Orbital">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6193)**
-
-**Author:** [Runaway Outlier](https://x.com/CantTameFire) | **Source:** [Link](https://x.com/CantTameFire/status/2067753638194552933) | **Published:** Jun 18, 2026
-
----
-### การตีลังกากลับหลังด้วยมอเตอร์ไซค์วิบากบนเนินทราย
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพร้อมท์สุดเร้าใจของการกระโดดและตีลังกากลับหลังด้วยมอเตอร์ไซค์วิบากบนเนินทราย
-
-#### 📝 Prompt
-
-```
-ฉันอยู่ที่เนินทรายสำหรับแข่งมอเตอร์ไซค์วิบาก ฉันขี่มอเตอร์ไซค์ขึ้นไปกระโดด ตีลังกากลับหลัง และลงจอดได้อย่างสวยงาม
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9a48b6a6332f231319b73af683af335e/thumbnails/thumbnail.jpg" width="600" alt="การตีลังกากลับหลังด้วยมอเตอร์ไซค์วิบากบนเนินทราย">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6206)**
-
-**Author:** [James Parker](https://x.com/JamesPa71114225) | **Source:** [Link](https://x.com/JamesPa71114225/status/2067701377879486799) | **Published:** Jun 18, 2026
-
----
-### คอลลาจกระดานสืบสวนคดี (Detective Motive Board)
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอสุดสร้างสรรค์ที่รวมภาพหลายภาพเข้าด้วยกันเป็นกระดานคอลลาจสไตล์นักสืบสุดดราม่า
-
-#### 📝 Prompt
-
-```
-รวมภาพทั้ง 8 ภาพนั้นให้เป็นภาพเดียวแบบเต็มหน้าจอ โดยสร้างเป็นคอลลาจ 'Motive Board' สไตล์นักสืบสุดดราม่า พร้อมข้อความ "MOTIVE" ด้วยฟอนต์ตัวหนาที่ดูมีปริศนาไว้ที่กึ่งกลาง ใช้ภาพแคปหน้าจอจากแอปเทรด (การลงทุนแบบต่อเนื่องด้วยยอดเงินรายสัปดาห์จำนวนมาก,...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/34f6911038868eede263c6c61fcbda14/thumbnails/thumbnail.jpg" width="600" alt="คอลลาจกระดานสืบสวนคดี (Detective Motive Board)">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6198)**
-
-**Author:** [Laura k Brown](https://x.com/Coinbase000001) | **Source:** [Link](https://x.com/Coinbase000001/status/2067695829675020692) | **Published:** Jun 18, 2026
-
----
-### ฟุตเทจแคนดิดในสนามกีฬาของผู้ชมที่เงียบสงบ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแคนดิดที่สมจริงเป็นพิเศษสำหรับหญิงสาวที่นั่งอยู่บนอัฒจันทร์ในสนามกีฬา โดยมีรายละเอียดการเคลื่อนไหวที่ละเอียดอ่อน เช่น การกะพริบตาและการหายใจ ในโทนภาพแบบสารคดี
-
-#### 📝 Prompt
-
-```
-ฟุตเทจแคนดิดที่สมจริงเป็นพิเศษจากอัฒจันทร์ในสนามกีฬา หญิงสาวคนหนึ่งนั่งดูการแข่งขันอย่างเงียบๆ โดยทำตามสิ่งที่ปรากฏในภาพถ่ายทุกประการ คือการนั่ง รับประทานอาหารหรือจิบเครื่องดื่มเป็นครั้งคราว กะพริบตาอย่างเป็นธรรมชาติ และหายใจอย่างสงบ ไม่มีธง ไม่มีการตะโกนเชียร์ ไม่มีเพลงชาติ ไม่มีการแสดงออกเชิงรักชาติหรือการเพนต์หน้า ไม่มีการตอบสนองที่เกินจริง ไม่มีการปรบมือ ไม่มีการเฉลิมฉลอง เงียบสนิท ไม่มีการพูดคุย ไม่มีการขยับริมฝีปาก ใช้กล้องมือถือที่สั่นไหวเล็กน้อย ระยะชัดตื้น แสงในสนามกีฬาที่สมจริงและมีฝูงชนเป็นพื้นหลัง ไม่มีสิ่งแปลกปลอม ไม่มีใบหน้าที่บิดเบี้ยว ไม่มีการเปลี่ยนรูปร่าง รักษาอัตลักษณ์และชุดที่สม่ำเสมอตลอดทั้งวิดีโอ โทนภาพสงบ เป็นกลาง และดูเป็นสารคดี ความละเอียด 4K
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cb0cf158f23e217eaceac670dabe183d/thumbnails/thumbnail.jpg" width="600" alt="ฟุตเทจแคนดิดในสนามกีฬาของผู้ชมที่เงียบสงบ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6213)**
-
-**Author:** [Natai](https://x.com/masterai13) | **Source:** [Link](https://x.com/masterai13/status/2067687869464899651) | **Published:** Jun 18, 2026
-
----
-### ห้องเรียนร้างกับวิวภูเขา
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พร้อมท์ภาพยนตร์สุดทรงพลังของห้องเรียนร้างที่มีสีลอกร่อนและแสงแดด ตัดกับวิวภูเขาอันสดใสภายนอก
-
-#### 📝 Prompt
-
-```
-Masterpiece, best quality, ภาพยนตร์ที่มีรายละเอียดสูงของห้องเรียนร้างที่มีสีฟ้าลอกร่อนบนผนังและเพดาน แสงแดดส่องผ่านหน้าต่างบานใหญ่ที่แตกหัก สร้างเงาสะท้อนที่สวยงามบนพื้นเปียก นอกหน้าต่างเป็นวิวทิวทัศน์อันน่าทึ่งของภูเขาสีเขียวและท้องฟ้าสีครามสดใสพร้อมก้อนเมฆสีขาวนุ่มฟู ความแตกต่างระหว่างห้องเรียนที่ทรุดโทรมกับโลกภายนอกที่สดใสสร้างบรรยากาศที่ทรงพลัง พื้นผิว แสง และเงาสะท้อนที่มีรายละเอียดสูง อารมณ์ความรู้สึกแบบภาพยนตร์, best quality, ความละเอียด 8K
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2127f4dccb275fa65ac86744afaa816b/thumbnails/thumbnail.jpg" width="600" alt="ห้องเรียนร้างกับวิวภูเขา">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6202)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067675094315614281) | **Published:** Jun 18, 2026
-
----
-### บทสนทนาสุดซึ้งของคู่รักเกี่ยวกับอนาคต
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์ที่เน้นบทสนทนาอันลึกซึ้งระหว่างคู่รักเกี่ยวกับความกังวลที่มีต่ออนาคต
-
-#### 📝 Prompt
-
-```
-คู่รักพูดคุยกันสั้นๆ อย่างใกล้ชิด โดยมีหัวข้อว่า "ฉันกลัวอนาคตจัง"
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f6b3f28ed2764666ea0b351486db68a1/thumbnails/thumbnail.jpg" width="600" alt="บทสนทนาสุดซึ้งของคู่รักเกี่ยวกับอนาคต">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6199)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2067674068950667319) | **Published:** Jun 18, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2196,6 +2196,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-28T04:39:52.537Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-28T10:47:13.675Z</sub>
 
 </div>

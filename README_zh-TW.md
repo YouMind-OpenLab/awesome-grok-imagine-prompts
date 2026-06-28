@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **1975** |
+| 📝 提示詞總數 | **1983** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-06-28** |
 
@@ -189,6 +189,139 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 安地斯神鷲飛行電影感畫面
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個用於生成安地斯神鷲飛越山脈超寫實特寫鏡頭的電影感影片提示詞。
+
+#### 📝 提示詞
+
+```
+安地斯神鷲飛越安地斯山脈的超寫實特寫場景。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071082468061360128/img/cvL7JHWeU0Qp06jP.jpg" width="600" alt="安地斯神鷲飛行電影感畫面">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6564)**
+
+**作者:** [Mario Nawfal](https://x.com/MarioNawfal) | **來源:** [Link](https://x.com/MarioNawfal/status/2071100026772971840) | **發布時間:** Jun 28, 2026
+
+---
+### 復古 CRT 宣言海報
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個創造復古未來主義氛圍的影片提示詞，以電影般的推鏡效果呈現一張宣言海報，並帶有掃描線與磷光特效。
+
+#### 📝 提示詞
+
+```
+以電影般的節奏緩慢推鏡至宣言海報。CRT 掃描線細微地漂移，磷光綠色的邊緣光澤如同舊式螢幕般輕柔閃爍。字體保持清晰易讀。呈現午夜抗議傳單的氛圍，動作克制，不添加新文字，不包含任何標誌。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070952039459274752/img/eckA5IgOFuPQwTzY.jpg" width="600" alt="復古 CRT 宣言海報">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6562)**
+
+**作者:** [David Herbert Thomas](https://x.com/Diabach1972) | **來源:** [Link](https://x.com/Diabach1972/status/2070952100410872189) | **發布時間:** Jun 27, 2026
+
+---
+### 女子漫步於向日葵花田
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段電影質感的影片提示詞：一位穿著白色連身裙的女子在微風中漫步於向日葵花田。
+
+#### 📝 提示詞
+
+```
+超寫實的特寫鏡頭：一位美麗的女子穿著漂亮的白色連身裙，在微風吹拂下漫步於向日葵花田。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070883239917711360/img/06wbHnBCrTE_afO9.jpg" width="600" alt="女子漫步於向日葵花田">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6560)**
+
+**作者:** [Mario Nawfal](https://x.com/MarioNawfal) | **來源:** [Link](https://x.com/MarioNawfal/status/2070902475238818282) | **發布時間:** Jun 27, 2026
+
+---
+### 吉卜力風格溫馨閣樓影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個電影級的影片提示詞，描繪了一間充滿復古珍寶與仙女燈的溫馨魔法閣樓，窗外是繁星點點的銀河夜空，靈感源自吉卜力工作室。
+
+#### 📝 提示詞
+
+```
+一間溫馨的閣樓，擺滿了復古珍寶、古老地圖、盆栽植物與仙女燈；天窗外映照出令人屏息的銀河夜空，氛圍溫暖而充滿魔法，吉卜力工作室風格，高細節動畫插畫。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070855968339230720/img/gdIXM9etUa8gWSBz.jpg" width="600" alt="吉卜力風格溫馨閣樓影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6559)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **來源:** [Link](https://x.com/MrDasOnX/status/2070856044876902482) | **發布時間:** Jun 27, 2026
+
+---
+### 身穿紅色斗篷手持蘋果的女子
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段電影質感的影片提示詞，描述一位神秘女子身穿紅色斗篷，在古樹下拿著一顆蘋果。
+
+#### 📝 提示詞
+
+```
+超寫實特寫鏡頭，一位神秘的年輕女子身穿深紅色連帽斗篷，在古老的蘋果樹下拿著一顆鮮紅色的蘋果。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070822235099504640/img/2GsgtT4YdnmnI_uS.jpg" width="600" alt="身穿紅色斗篷手持蘋果的女子">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6561)**
+
+**作者:** [Mario Nawfal](https://x.com/MarioNawfal) | **來源:** [Link](https://x.com/MarioNawfal/status/2070842077399675391) | **發布時間:** Jun 27, 2026
+
+---
+### 迷你娃娃屋導覽
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個充滿創意的影片提示詞，用於製作迷你房屋場景的趣味導覽，包含角色主持人以及精緻的微型房間設計。
+
+#### 📝 提示詞
+
+```
+Mira 引導鏡頭進行一場趣味導覽，深入「Attack of the 50 Foot Housewife」迷你房屋場景。她穿過敞開的娃娃屋門面，帶著主持人熱情的微笑，逐一介紹微型客廳、廚房和樓梯。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070828566149799936/img/E-PWyVCNm3dHrglN.jpg" width="600" alt="迷你娃娃屋導覽">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6557)**
+
+**作者:** [Brian](https://x.com/luvsheight) | **來源:** [Link](https://x.com/luvsheight/status/2070828620747063692) | **發布時間:** Jun 27, 2026
+
+---
+### 在開闊原野奔跑的種馬
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個逼真的影片提示詞，捕捉了一匹黑色種馬在綠色開闊原野上奔跑時充滿力量的動作。
+
+#### 📝 提示詞
+
+```
+超逼真的特寫場景，一匹黑色種馬在綠色開闊原野上奔跑。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070821975010758656/img/YB5H88tCBylmvaM9.jpg" width="600" alt="在開闊原野奔跑的種馬">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6558)**
+
+**作者:** [Mario Nawfal](https://x.com/MarioNawfal) | **來源:** [Link](https://x.com/MarioNawfal/status/2070826977561612604) | **發布時間:** Jun 27, 2026
+
+---
 ### 壯麗糖楓林攀升
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -532,6 +665,25 @@ Elena 穿過閃爍的傳送門進入廣闊的 Playroom，她睜大雙眼，神�
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6484)**
 
 **作者:** [Lynn Hocker](https://x.com/Auroraskye3993) | **來源:** [Link](https://x.com/Auroraskye3993/status/2070054843604181021) | **發布時間:** Jun 25, 2026
+
+---
+### 古羅馬廣場的水果攤販
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一場電影級的歷史重現，描繪西元 1 世紀羅馬廣場的早晨，一位水果攤販正以拉丁語叫賣。
+
+#### 📝 提示詞
+
+```
+西元 1 世紀羅馬廣場的早晨——一位水果攤販。她用拉丁語叫賣著：「Bona poma!」（優質水果！）以及「Dulcia poma!」（甜美水果！）
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069990879486783488/img/5UrjpNsEn_CuOTWU.jpg" width="600" alt="古羅馬廣場的水果攤販">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6563)**
+
+**作者:** [たんぐすけん | シニアの叡智、AIで加速！](https://x.com/Tungskenichi) | **來源:** [Link](https://x.com/Tungskenichi/status/2069992038490362343) | **發布時間:** Jun 25, 2026
 
 ---
 ### 索諾蘭沙漠中的量子發明家
@@ -1982,158 +2134,6 @@ Elena 穿過閃爍的傳送門進入廣闊的 Playroom，她睜大雙眼，神�
 **作者:** [Ami A](https://x.com/AA63782) | **來源:** [Link](https://x.com/AA63782/status/2067815770705526878) | **發布時間:** Jun 19, 2026
 
 ---
-### 懷舊日式咖啡廳
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一幅寧靜且充滿懷舊感的日式老咖啡廳場景，門口停放著一輛紅色腳踏車，陽光透過樹葉灑落。
-
-#### 📝 提示詞
-
-```
-傑作，最高品質，超細緻的電影感影像，呈現一間位於靜謐街道上的懷舊日式老咖啡廳。斑駁的建築掛著褪色的「COFE CAFE」招牌，配有藍綠色遮雨棚，門口停放著一輛紅色腳踏車。入口處被茂密的綠色植物與樹木環繞，溫暖的陽光透過葉片灑落，在石板路上形成美麗的光影。氛圍寧靜且帶有一絲淡淡的憂鬱。高度細緻的紋理、光影與自然元素。溫暖的電影級燈光，最高品質，8K 解析度。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067768423871029248/img/jUGt1oA5yYJjbZYQ.jpg" width="600" alt="懷舊日式咖啡廳">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6249)**
-
-**作者:** [⭕Kisalay](https://x.com/Kisalay_) | **來源:** [Link](https://x.com/Kisalay_/status/2067768674388468127) | **發布時間:** Jun 19, 2026
-
----
-### 動漫角色獨舞華爾滋動畫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段電影感十足的影片提示詞，描述一名動漫角色在昏暗的樓梯場景中，伴隨著飄落的玫瑰花瓣，優雅地跳著獨舞華爾滋。
-
-#### 📝 提示詞
-
-```
-維持相同的動漫角色與昏暗樓梯場景。她繼續緩慢地跳著獨舞華爾滋，動作優雅地旋轉，手臂抬起彷彿與隱形的舞伴共舞，頭髮與裙擺隨之搖曳。深紅色與乾燥玫瑰色的花瓣在空中飄落，襯托出她的舞姿。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067763909587869696/img/mEoTzdjLwAtWKEs_.jpg" width="600" alt="動漫角色獨舞華爾滋動畫">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6245)**
-
-**作者:** [Kafka Beatrix@贖罪卿](https://x.com/botamochi8639) | **來源:** [Link](https://x.com/botamochi8639/status/2067763967494382037) | **發布時間:** Jun 19, 2026
-
----
-### 黃昏情侶場景軌道攝影機
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個電影級影片提示詞，描述在黃昏時分，攝影機圍繞著一對情侶進行緩慢的軌道運動，並呈現發光細節與黃金時刻的光影效果。
-
-#### 📝 提示詞
-
-```
-緩慢的軌道攝影機運動，圍繞著情侶輕微盤旋並緩慢推進。他們保持優雅的姿勢；發光的耳機輕柔地閃爍。黃昏的天際線與黃金時刻的光影保持穩定。流暢的電影級運鏡，無剪輯。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3c09f0b18600f0547d234e66025d00b/thumbnails/thumbnail.jpg" width="600" alt="黃昏情侶場景軌道攝影機">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6193)**
-
-**作者:** [Runaway Outlier](https://x.com/CantTameFire) | **來源:** [Link](https://x.com/CantTameFire/status/2067753638194552933) | **發布時間:** Jun 18, 2026
-
----
-### 在沙丘上進行越野摩托車後空翻
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個充滿動作感的影片提示詞，描述越野摩托車在沙丘上跳躍並完成後空翻的場景。
-
-#### 📝 提示詞
-
-```
-我身處越野摩托車沙丘，騎上我的越野摩托車進行跳躍，並完成了一個後空翻且成功著陸
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9a48b6a6332f231319b73af683af335e/thumbnails/thumbnail.jpg" width="600" alt="在沙丘上進行越野摩托車後空翻">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6206)**
-
-**作者:** [James Parker](https://x.com/JamesPa71114225) | **來源:** [Link](https://x.com/JamesPa71114225/status/2067701377879486799) | **發布時間:** Jun 18, 2026
-
----
-### 偵探風格「動機專案」拼貼
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個創意影片提示詞，能將多張圖片組合成充滿戲劇張力的偵探風格拼貼專案。
-
-#### 📝 提示詞
-
-```
-將這 8 張圖片組合成一張全螢幕影像，製作成一個充滿戲劇張力的偵探風格「動機專案」（Motive Board），並在畫面中央以粗體且神秘的字體標註「MOTIVE」。請使用交易應用程式的截圖（包含每週大額的定期定額投資，...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/34f6911038868eede263c6c61fcbda14/thumbnails/thumbnail.jpg" width="600" alt="偵探風格「動機專案」拼貼">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6198)**
-
-**作者:** [Laura k Brown](https://x.com/Coinbase000001) | **來源:** [Link](https://x.com/Coinbase000001/status/2067695829675020692) | **發布時間:** Jun 18, 2026
-
----
-### 體育場觀眾席的紀實風格側拍
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個超逼真的紀實影片提示詞，描繪一位年輕女性坐在體育場觀眾席上，包含眨眼和呼吸等細微動作，呈現出紀錄片般的質感。
-
-#### 📝 提示詞
-
-```
-來自體育場觀眾席的超逼真紀實影像。一位年輕女性安靜地坐著觀看比賽，動作與照片中完全一致——坐著、偶爾進食或啜飲飲料，有自然的眨眼與平靜的呼吸。沒有旗幟、沒有吶喊、沒有國歌、沒有愛國手勢或臉部彩繪，沒有誇張的反應、沒有鼓掌、沒有慶祝。完全安靜，沒有說話，嘴唇沒有動作。細膩的手持攝影感，淺景深，真實的體育場燈光與背景人群。無偽影、無臉部扭曲、無變形，全程保持一致的身分與服裝。冷靜、中性、紀錄片風格，4K 解析度。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cb0cf158f23e217eaceac670dabe183d/thumbnails/thumbnail.jpg" width="600" alt="體育場觀眾席的紀實風格側拍">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6213)**
-
-**作者:** [Natai](https://x.com/masterai13) | **來源:** [Link](https://x.com/masterai13/status/2067687869464899651) | **發布時間:** Jun 18, 2026
-
----
-### 廢棄教室與山景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個極具電影感的提示詞，描繪了一間牆面斑駁、陽光灑落的廢棄教室，與窗外生機勃勃的山景形成強烈對比。
-
-#### 📝 提示詞
-
-```
-傑作，最高品質，超細節電影感影像，描繪了一間牆面與天花板漆面剝落的廢棄教室。陽光透過巨大的破碎窗戶灑入，在潮濕的地面上形成美麗的倒影。窗外是壯麗的綠色山景，以及點綴著蓬鬆白雲的湛藍天空。廢棄教室與窗外充滿活力的世界形成了強烈的對比，營造出極具張力的氛圍。高度細節的紋理、光影與反射效果。情感豐富且具電影感，最高品質，8K 解析度。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2127f4dccb275fa65ac86744afaa816b/thumbnails/thumbnail.jpg" width="600" alt="廢棄教室與山景">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6202)**
-
-**作者:** [⭕Kisalay](https://x.com/Kisalay_) | **來源:** [Link](https://x.com/Kisalay_/status/2067675094315614281) | **發布時間:** Jun 18, 2026
-
----
-### 情侶間關於未來的親密對話
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個影片提示詞，聚焦於一對情侶之間關於對未來恐懼的親密對話。
-
-#### 📝 提示詞
-
-```
-一對情侶進行了一場簡短而親密的對話：「我對未來感到恐懼」是本次的主題。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f6b3f28ed2764666ea0b351486db68a1/thumbnails/thumbnail.jpg" width="600" alt="情侶間關於未來的親密對話">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6199)**
-
-**作者:** [Déborah](https://x.com/dvorahfr) | **來源:** [Link](https://x.com/dvorahfr/status/2067674068950667319) | **發布時間:** Jun 18, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2195,6 +2195,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-06-28T04:39:48.634Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-06-28T10:47:08.988Z</sub>
 
 </div>

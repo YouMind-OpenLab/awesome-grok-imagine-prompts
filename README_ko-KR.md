@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **1975** |
+| 📝 총 프롬프트 수 | **1983** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-06-28** |
 
@@ -189,6 +189,139 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 안데스 콘도르 비행 시네마틱
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 안데스 산맥 상공을 비행하는 안데스 콘도르의 초현실적인 클로즈업 영상을 생성하기 위한 시네마틱 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+안데스 산맥 위를 비행하는 안데스 콘도르의 초현실적인 클로즈업 장면.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071082468061360128/img/cvL7JHWeU0Qp06jP.jpg" width="600" alt="안데스 콘도르 비행 시네마틱">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6564)**
+
+**작성자:** [Mario Nawfal](https://x.com/MarioNawfal) | **출처:** [Link](https://x.com/MarioNawfal/status/2071100026772971840) | **게시일:** Jun 28, 2026
+
+---
+### 레트로 CRT 매니페스토 포스터
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 매니페스토 포스터를 향해 시네마틱하게 다가가는(push-in) 카메라 워킹으로 레트로 퓨처리스틱한 분위기를 연출하는 비디오 프롬프트입니다. 스캔라인과 형광 그린 빛 효과가 포함되어 있습니다.
+
+#### 📝 프롬프트
+
+```
+매니페스토 포스터를 향해 천천히 다가가는 시네마틱한 샷입니다. CRT 스캔라인이 미세하게 흐르고, 오래된 모니터처럼 형광 그린 색상의 가장자리 빛이 부드럽게 깜빡입니다. 타이포그래피는 선명하고 읽기 쉬운 상태를 유지합니다. 한밤중의 시위 전단지 같은 분위기이며, 절제된 움직임을 보여줍니다. 새로운 텍스트나 로고는 추가하지 마세요.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070952039459274752/img/eckA5IgOFuPQwTzY.jpg" width="600" alt="레트로 CRT 매니페스토 포스터">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6562)**
+
+**작성자:** [David Herbert Thomas](https://x.com/Diabach1972) | **출처:** [Link](https://x.com/Diabach1972/status/2070952100410872189) | **게시일:** Jun 27, 2026
+
+---
+### 해바라기 밭을 걷는 여성
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 산들바람이 부는 해바라기 밭을 흰색 원피스를 입고 거니는 여성의 모습을 담은 영화 같은 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+산들바람이 부는 해바라기 밭을 아름다운 흰색 원피스를 입고 거니는 아름다운 여성의 모습을 담은 초현실적인 클로즈업 장면입니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070883239917711360/img/06wbHnBCrTE_afO9.jpg" width="600" alt="해바라기 밭을 걷는 여성">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6560)**
+
+**작성자:** [Mario Nawfal](https://x.com/MarioNawfal) | **출처:** [Link](https://x.com/MarioNawfal/status/2070902475238818282) | **게시일:** Jun 27, 2026
+
+---
+### 지브리 스타일의 아늑한 다락방 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 빈티지한 소품과 요정 조명으로 가득 찬 따뜻하고 마법 같은 다락방, 그리고 은하수가 펼쳐진 밤하늘을 담은 스튜디오 지브리 스타일의 시네마틱 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+빈티지한 보물, 오래된 지도, 화분, 요정 조명으로 가득 찬 아늑한 다락방과 천창 너머로 보이는 숨 막힐 듯 아름다운 은하수가 펼쳐진 밤하늘, 따뜻하고 마법 같은 분위기, 스튜디오 지브리 스타일의 고퀄리티 애니메이션 일러스트.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070855968339230720/img/gdIXM9etUa8gWSBz.jpg" width="600" alt="지브리 스타일의 아늑한 다락방 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6559)**
+
+**작성자:** [Mr Das](https://x.com/MrDasOnX) | **출처:** [Link](https://x.com/MrDasOnX/status/2070856044876902482) | **게시일:** Jun 27, 2026
+
+---
+### 빨간 망토를 입고 사과를 든 여인
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 오래된 나무 아래에서 사과를 들고 있는 신비로운 빨간 망토 여인의 모습을 담은 영화 같은 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+오래된 사과나무 아래에서 밝은 빨간색 사과를 들고 있는, 깊은 빨간색 후드 망토를 입은 신비로운 젊은 여인의 초현실적인 클로즈업 장면.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070822235099504640/img/2GsgtT4YdnmnI_uS.jpg" width="600" alt="빨간 망토를 입고 사과를 든 여인">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6561)**
+
+**작성자:** [Mario Nawfal](https://x.com/MarioNawfal) | **출처:** [Link](https://x.com/MarioNawfal/status/2070842077399675391) | **게시일:** Jun 27, 2026
+
+---
+### 미니어처 돌하우스 워크스루
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 캐릭터 호스트와 디테일한 미니어처 룸 디자인이 돋보이는, 장난기 넘치는 미니어처 하우스 세트 워크스루를 위한 창의적인 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+Mira가 'Attack of the 50 Foot Housewife' 미니어처 하우스 세트 내부를 장난스럽게 안내합니다. 그녀는 활짝 열린 돌하우스 정면을 통해 걸어 들어가며, 열정적인 호스트의 미소와 함께 작은 거실, 주방, 계단을 가리킵니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070828566149799936/img/E-PWyVCNm3dHrglN.jpg" width="600" alt="미니어처 돌하우스 워크스루">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6557)**
+
+**작성자:** [Brian](https://x.com/luvsheight) | **출처:** [Link](https://x.com/luvsheight/status/2070828620747063692) | **게시일:** Jun 27, 2026
+
+---
+### 탁 트인 들판을 달리는 종마
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 푸른 들판을 가로질러 달리는 검은 종마의 역동적인 움직임을 포착한 사실적인 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+푸른 들판을 달리는 검은 종마의 모습을 담은 초현실적인 클로즈업 장면.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070821975010758656/img/YB5H88tCBylmvaM9.jpg" width="600" alt="탁 트인 들판을 달리는 종마">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6558)**
+
+**작성자:** [Mario Nawfal](https://x.com/MarioNawfal) | **출처:** [Link](https://x.com/MarioNawfal/status/2070826977561612604) | **게시일:** Jun 27, 2026
+
+---
 ### 웅장한 설탕단풍나무 숲으로의 상승
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -532,6 +665,25 @@ Elena 가 반짝이는 포털을 지나 광활한 Playroom 으로 들어서며 �
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6484)**
 
 **작성자:** [Lynn Hocker](https://x.com/Auroraskye3993) | **출처:** [Link](https://x.com/Auroraskye3993/status/2070054843604181021) | **게시일:** Jun 25, 2026
+
+---
+### 고대 로마 포럼의 과일 상인
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 1세기 로마 포럼의 아침을 재현한 영화 같은 역사적 장면으로, 라틴어로 외치는 과일 상인의 모습을 담고 있습니다.
+
+#### 📝 프롬프트
+
+```
+서기 1세기 로마 포럼의 아침, 한 과일 상인의 모습. 그녀가 라틴어로 외칩니다: "Bona poma!" — "좋은 과일이요!" "Dulcia poma!" — "달콤한 과일이요!"
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069990879486783488/img/5UrjpNsEn_CuOTWU.jpg" width="600" alt="고대 로마 포럼의 과일 상인">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6563)**
+
+**작성자:** [たんぐすけん | シニアの叡智、AIで加速！](https://x.com/Tungskenichi) | **출처:** [Link](https://x.com/Tungskenichi/status/2069992038490362343) | **게시일:** Jun 25, 2026
 
 ---
 ### 소노란 사막의 양자 발명가
@@ -1982,158 +2134,6 @@ UFO가 끌어당기는 것처럼 아이가 지면에서 떠오르며, 카메라�
 **작성자:** [Ami A](https://x.com/AA63782) | **출처:** [Link](https://x.com/AA63782/status/2067815770705526878) | **게시일:** Jun 19, 2026
 
 ---
-### 향수를 불러일으키는 일본의 카페
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 빨간 자전거와 나무 사이로 비치는 햇살이 어우러진, 평화롭고 향수를 자극하는 오래된 일본 카페의 풍경.
-
-#### 📝 프롬프트
-
-```
-걸작, 최고 품질, 조용한 거리에 위치한 향수를 불러일으키는 오래된 일본 카페의 초정밀 영화 같은 이미지. 세월의 흔적이 느껴지는 건물에는 'COFE CAFE'라고 적힌 빛바랜 간판과 청록색 차양, 그리고 밖에 세워진 빨간 자전거가 있습니다. 입구 주변은 무성한 녹색 식물과 나무들로 둘러싸여 있으며, 나뭇잎 사이로 스며드는 따스한 햇살이 돌바닥 위에 아름다운 그림자를 드리웁니다. 평화롭고 약간은 쓸쓸한 분위기. 매우 상세한 질감, 조명 및 자연 요소. 따뜻한 영화적 조명, 최고 품질, 8K 해상도.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067768423871029248/img/jUGt1oA5yYJjbZYQ.jpg" width="600" alt="향수를 불러일으키는 일본의 카페">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6249)**
-
-**작성자:** [⭕Kisalay](https://x.com/Kisalay_) | **출처:** [Link](https://x.com/Kisalay_/status/2067768674388468127) | **게시일:** Jun 19, 2026
-
----
-### 애니메이션 캐릭터의 솔로 왈츠 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 어두운 계단을 배경으로 애니메이션 캐릭터가 우아하게 솔로 왈츠를 추며 장미 꽃잎이 흩날리는 시네마틱 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-동일한 애니메이션 캐릭터와 어두운 계단 환경을 유지합니다. 캐릭터는 우아한 회전과 부드러운 스핀을 곁들여 느린 솔로 왈츠를 이어가며, 마치 보이지 않는 파트너와 함께하는 듯 팔을 들어 올리고 머리카락과 드레스가 살랑거립니다. 짙은 진홍색과 더스티 로즈 색상의 꽃잎이 공중에서 흩날리며 움직임을 더욱 돋보이게 합니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067763909587869696/img/mEoTzdjLwAtWKEs_.jpg" width="600" alt="애니메이션 캐릭터의 솔로 왈츠 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6245)**
-
-**작성자:** [Kafka Beatrix@贖罪卿](https://x.com/botamochi8639) | **출처:** [Link](https://x.com/botamochi8639/status/2067763967494382037) | **게시일:** Jun 19, 2026
-
----
-### 황혼의 커플 장면을 위한 궤도 카메라 연출
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 황혼을 배경으로 빛나는 디테일과 골든 아워 조명이 어우러진 커플 주위를 천천히 회전하는 궤도 카메라 움직임을 묘사한 시네마틱 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-커플 주위를 천천히 원을 그리며 궤도 카메라가 이동하고, 부드럽게 줌인합니다. 커플은 안정된 자세를 유지하며, 귀에 착용한 이어피스가 은은하게 빛납니다. 황혼의 스카이라인과 골든 아워의 조명은 일정하게 유지됩니다. 컷 전환 없이 부드럽고 영화 같은 움직임을 보여줍니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3c09f0b18600f0547d234e66025d00b/thumbnails/thumbnail.jpg" width="600" alt="황혼의 커플 장면을 위한 궤도 카메라 연출">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6193)**
-
-**작성자:** [Runaway Outlier](https://x.com/CantTameFire) | **출처:** [Link](https://x.com/CantTameFire/status/2067753638194552933) | **게시일:** Jun 18, 2026
-
----
-### 모래 언덕에서의 모토크로스 백플립
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 모래 언덕에서 펼쳐지는 더트 바이크 점프와 백플립을 담은 액션 가득한 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-모래 언덕 모토크로스 경기장에서 더트 바이크를 타고 점프를 해서 백플립을 성공적으로 착지하는 장면
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9a48b6a6332f231319b73af683af335e/thumbnails/thumbnail.jpg" width="600" alt="모래 언덕에서의 모토크로스 백플립">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6206)**
-
-**작성자:** [James Parker](https://x.com/JamesPa71114225) | **출처:** [Link](https://x.com/JamesPa71114225/status/2067701377879486799) | **게시일:** Jun 18, 2026
-
----
-### 탐정의 수사 보드 콜라주
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 여러 이미지를 드라마틱한 탐정 스타일의 콜라주 보드로 결합하는 창의적인 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-8개의 이미지를 하나로 합쳐 전체 화면 이미지로 만드세요. 중앙에 굵고 미스터리한 폰트로 "MOTIVE"라는 제목을 넣은 드라마틱한 탐정 스타일의 '수사 보드(Motive Board)' 콜라주를 제작하세요. 트레이딩 앱 스크린샷(큰 주간 금액으로 반복 투자된 내역 등)을 활용하여...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/34f6911038868eede263c6c61fcbda14/thumbnails/thumbnail.jpg" width="600" alt="탐정의 수사 보드 콜라주">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6198)**
-
-**작성자:** [Laura k Brown](https://x.com/Coinbase000001) | **출처:** [Link](https://x.com/Coinbase000001/status/2067695829675020692) | **게시일:** Jun 18, 2026
-
----
-### 경기장 관중석의 차분한 관객을 담은 자연스러운 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 경기장 관중석에 앉아 있는 젊은 여성을 담은 초현실적인 자연스러운 영상 프롬프트로, 눈 깜빡임과 호흡 등 미세한 움직임이 포함된 다큐멘터리 톤의 영상입니다.
-
-#### 📝 프롬프트
-
-```
-경기장 관중석에서 촬영한 초현실적인 자연스러운 영상. 젊은 여성이 조용히 경기를 관람하고 있으며, 사진에 보이는 그대로 앉아서 가끔 음식을 먹거나 음료를 마시는 모습, 자연스러운 눈 깜빡임, 차분한 호흡을 유지합니다. 깃발, 응원 구호, 국가 제창, 애국적인 제스처나 페이스 페인팅, 과장된 반응, 박수, 환호는 없습니다. 완전히 조용한 상태로, 대화나 입술 움직임은 없습니다. 미세한 핸드헬드 카메라 기법, 얕은 피사계 심도, 사실적인 경기장 조명과 배경의 관중. 노이즈나 왜곡된 얼굴, 형태 변형 없이 영상 전체에서 일관된 인물과 의상을 유지합니다. 차분하고 중립적인 다큐멘터리 톤, 4K 해상도.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cb0cf158f23e217eaceac670dabe183d/thumbnails/thumbnail.jpg" width="600" alt="경기장 관중석의 차분한 관객을 담은 자연스러운 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6213)**
-
-**작성자:** [Natai](https://x.com/masterai13) | **출처:** [Link](https://x.com/masterai13/status/2067687869464899651) | **게시일:** Jun 18, 2026
-
----
-### 버려진 교실과 산의 풍경
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 페인트가 벗겨진 버려진 교실과 그 밖으로 보이는 생동감 넘치는 산의 풍경이 대비를 이루는 강렬한 영화적 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-걸작, 최고 품질, 벽과 천장에 파란색 페인트가 벗겨진 버려진 교실의 초정밀 영화적 이미지. 큰 깨진 창문으로 햇살이 쏟아져 들어와 젖은 바닥에 아름다운 반사를 만들어냅니다. 창밖으로는 푸른 산과 뭉게구름이 떠 있는 밝고 파란 하늘의 멋진 풍경이 펼쳐집니다. 쇠락한 교실과 생동감 넘치는 외부 세계의 대비가 강렬한 분위기를 자아냅니다. 매우 상세한 질감, 조명 및 반사 효과. 감성적이고 영화적인 분위기, 최고 품질, 8K 해상도.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2127f4dccb275fa65ac86744afaa816b/thumbnails/thumbnail.jpg" width="600" alt="버려진 교실과 산의 풍경">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6202)**
-
-**작성자:** [⭕Kisalay](https://x.com/Kisalay_) | **출처:** [Link](https://x.com/Kisalay_/status/2067675094315614281) | **게시일:** Jun 18, 2026
-
----
-### 미래에 대한 연인의 친밀한 대화
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 미래에 대한 두려움을 주제로 연인 간의 친밀한 대화를 담은 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-연인 간의 짧고 친밀한 대화: "미래가 두려워"라는 주제를 다룹니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f6b3f28ed2764666ea0b351486db68a1/thumbnails/thumbnail.jpg" width="600" alt="미래에 대한 연인의 친밀한 대화">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6199)**
-
-**작성자:** [Déborah](https://x.com/dvorahfr) | **출처:** [Link](https://x.com/dvorahfr/status/2067674068950667319) | **게시일:** Jun 18, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2195,6 +2195,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-28T04:39:51.193Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-28T10:47:12.052Z</sub>
 
 </div>

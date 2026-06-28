@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1975** |
+| 📝 Total Prompts | **1983** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-28** |
 
@@ -189,6 +189,139 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Andean Condor Flight Cinematic
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt for generating an ultra-realistic close-up of an Andean condor in flight over the mountain range.
+
+#### 📝 Prompt
+
+```
+Ultra-realistic close-up scene of an Andean condor flying over the Andes Mountains.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071082468061360128/img/cvL7JHWeU0Qp06jP.jpg" width="600" alt="Andean Condor Flight Cinematic">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6564)**
+
+**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2071100026772971840) | **Published:** Jun 28, 2026
+
+---
+### Retro CRT Manifesto Poster
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt creating a retro-futuristic mood with a cinematic push-in on a manifesto poster, featuring scanlines and phosphor glow effects.
+
+#### 📝 Prompt
+
+```
+Slow cinematic push-in on the manifesto poster. CRT scanlines drift subtly, phosphor green edge glow pulses gently like an old monitor. Typography stays sharp and readable. Midnight protest flyer mood, restrained motion, no new text, no logos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070952039459274752/img/eckA5IgOFuPQwTzY.jpg" width="600" alt="Retro CRT Manifesto Poster">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6562)**
+
+**Author:** [David Herbert Thomas](https://x.com/Diabach1972) | **Source:** [Link](https://x.com/Diabach1972/status/2070952100410872189) | **Published:** Jun 27, 2026
+
+---
+### Woman Walking Through Sunflower Field
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt of a woman in a white sundress strolling through a sunflower field during a gentle breeze.
+
+#### 📝 Prompt
+
+```
+Ultra-realistic close-up scene of a beautiful woman in a beautiful white sundress walking through a field of sunflowers with a gentle breeze.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070883239917711360/img/06wbHnBCrTE_afO9.jpg" width="600" alt="Woman Walking Through Sunflower Field">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6560)**
+
+**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2070902475238818282) | **Published:** Jun 27, 2026
+
+---
+### Cozy Ghibli Inspired Attic Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt for a warm, magical attic room filled with vintage treasures and fairy lights under a galaxy-filled night sky, inspired by Studio Ghibli.
+
+#### 📝 Prompt
+
+```
+A cozy attic room filled with vintage treasures, old maps, potted plants, fairy lights, and a skylight revealing a breathtaking galaxy-filled night sky, warm and magical atmosphere, Studio Ghibli inspired, highly detailed anime illustration.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070855968339230720/img/gdIXM9etUa8gWSBz.jpg" width="600" alt="Cozy Ghibli Inspired Attic Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6559)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2070856044876902482) | **Published:** Jun 27, 2026
+
+---
+### Woman in Red Cloak with Apple
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt of a mysterious woman in a red cloak holding an apple under an old tree.
+
+#### 📝 Prompt
+
+```
+Ultra-realistic close-up scene of a mysterious young woman in a deep red hooded cloak holding a bright red apple beneath an old apple tree.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070822235099504640/img/2GsgtT4YdnmnI_uS.jpg" width="600" alt="Woman in Red Cloak with Apple">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6561)**
+
+**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2070842077399675391) | **Published:** Jun 27, 2026
+
+---
+### Miniature Dollhouse Walkthrough
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative video prompt for a playful walkthrough of a miniature house set, featuring a character host and detailed tiny room designs.
+
+#### 📝 Prompt
+
+```
+Mira guides the camera on a playful walkthrough inside the Attack of the 50 Foot Housewife miniature house set. She steps through the open dollhouse facade, pointing out the tiny living room, kitchen, and staircase with an enthusiastic host smile.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070828566149799936/img/E-PWyVCNm3dHrglN.jpg" width="600" alt="Miniature Dollhouse Walkthrough">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6557)**
+
+**Author:** [Brian](https://x.com/luvsheight) | **Source:** [Link](https://x.com/luvsheight/status/2070828620747063692) | **Published:** Jun 27, 2026
+
+---
+### Stallion Running in Open Field
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A realistic video prompt that captures the powerful motion of a black stallion horse running through a green open field.
+
+#### 📝 Prompt
+
+```
+Ultra-realistic close-up scene of a black stallion horse running in a green open field.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070821975010758656/img/YB5H88tCBylmvaM9.jpg" width="600" alt="Stallion Running in Open Field">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6558)**
+
+**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2070826977561612604) | **Published:** Jun 27, 2026
+
+---
 ### Majestic Sugar Maple Forest Ascent
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -534,6 +667,25 @@ Have the galaxy/nebula slowly rotate until it morphs into a large cocktail shrim
 **Author:** [Lynn Hocker](https://x.com/Auroraskye3993) | **Source:** [Link](https://x.com/Auroraskye3993/status/2070054843604181021) | **Published:** Jun 25, 2026
 
 ---
+### Ancient Roman Forum Fruit Seller
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A cinematic historical recreation of a 1st-century Roman Forum morning, featuring a fruit seller calling out in Latin.
+
+#### 📝 Prompt
+
+```
+1st century AD morning at the Roman Forum — a fruit seller. Her call in Latin: "Bona poma!" — "Fine fruit!" "Dulcia poma!" — "Sweet fruit!"
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069990879486783488/img/5UrjpNsEn_CuOTWU.jpg" width="600" alt="Ancient Roman Forum Fruit Seller">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6563)**
+
+**Author:** [たんぐすけん | シニアの叡智、AIで加速！](https://x.com/Tungskenichi) | **Source:** [Link](https://x.com/Tungskenichi/status/2069992038490362343) | **Published:** Jun 25, 2026
+
+---
 ### Quantum Inventor in Sonoran Desert
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -572,11 +724,11 @@ Rainy Runway Tap Dance. Three mechs, one fearless pilot, and an unexpected splas
 **Author:** [AI영상공작실](https://x.com/lee_young71) | **Source:** [Link](https://x.com/lee_young71/status/2069796857874923823) | **Published:** Jun 24, 2026
 
 ---
-### Ultra Realistic Whale Close-up in Hermanus
+### Ultra-Realistic Whale Close-up Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed cinematic prompt for generating a realistic close-up video of a whale in its natural habitat in South Africa.
+> A highly detailed close-up video prompt of a whale in Hermanus, South Africa, showcasing cinematic realism and accurate background landmarks.
 
 #### 📝 Prompt
 
@@ -584,7 +736,7 @@ Rainy Runway Tap Dance. Three mechs, one fearless pilot, and an unexpected splas
 Ultra-realistic close-up scene of a whale in Hermanus, Western Cape, South Africa.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069628026879348736/img/C6vuzUEB3K9HNoiB.jpg" width="600" alt="Ultra Realistic Whale Close-up in Hermanus">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069628026879348736/img/C6vuzUEB3K9HNoiB.jpg" width="600" alt="Ultra-Realistic Whale Close-up Video">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6434)**
 
@@ -803,19 +955,29 @@ Space elevator bringing people and cargo up psychedelic experience lots of stars
 **Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2069426293360194028) | **Published:** Jun 23, 2026
 
 ---
-### Retro Diner Cereal Splash Video
+### Retro Diner Cereal Milk Splash Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed cinematic video prompt for Grok Imagine 1.5 featuring a young girl in a cozy retro diner kitchen as milk and cereal loops splash in dramatic slow motion.
+> A cinematic video prompt featuring a young girl in a retro kitchen as cereal and milk burst upward in dramatic slow motion with magical lighting.
 
 #### 📝 Prompt
 
 ```
 A cinematic wide angle shot inside a cozy retro diner style kitchen. A young girl leans over a bowl of colorful cereal as milk bursts upward in dramatic slow motion. Bright cereal loops float through the air around her face. She looks directly at the camera with wide eyes and an open-mouth expression of surprise and delight. Warm morning sunlight streams through the blinds. The scene has a playful, magical, energetic feel, with fisheye lens distortion, realistic lighting, high detail, dynamic motion, and a fun cinematic vibe. Duration: 10 seconds.
+
+Dialogue: Whoa… is my breakfast actually flying?
+
+Sound Design: 
+
+Sudden milk splash.
+Light cereal scattering sounds.
+Soft magical sparkle effect.
+Girl’s surprised gasp.
+Fun playful background music.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069395437908643841/img/g-URoeS90azUiBUG.jpg" width="600" alt="Retro Diner Cereal Splash Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069395437908643841/img/g-URoeS90azUiBUG.jpg" width="600" alt="Retro Diner Cereal Milk Splash Video">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6398)**
 
@@ -1973,158 +2135,6 @@ In the reference image, transform the large chocolate ice cream cone into one su
 **Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2067815770705526878) | **Published:** Jun 19, 2026
 
 ---
-### Nostalgic Japanese Cafe
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A peaceful and nostalgic scene of an old Japanese cafe with a red bicycle and sunlight filtering through trees.
-
-#### 📝 Prompt
-
-```
-Masterpiece, best quality, ultra-detailed cinematic image of a nostalgic old Japanese cafe on a quiet street. The weathered building has a faded sign that says 'COFE CAFE', a teal awning, and a red bicycle parked outside. Lush green plants and trees surround the entrance, with warm sunlight filtering through the leaves creating beautiful shadows on the stone pavement. Peaceful and slightly melancholic atmosphere. Highly detailed textures, lighting, and natural elements. Warm cinematic lighting, best quality, 8K resolution.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067768423871029248/img/jUGt1oA5yYJjbZYQ.jpg" width="600" alt="Nostalgic Japanese Cafe">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6249)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067768674388468127) | **Published:** Jun 19, 2026
-
----
-### Anime character solo waltz animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt of an anime character performing a graceful solo waltz in a dark stair environment with falling rose petals.
-
-#### 📝 Prompt
-
-```
-Same anime character and dark stair environment unchanged. She continues her slow solo waltz with graceful turns and a gentle spin, arm lifted as if with an invisible partner, hair and dress swaying. Deep crimson and dusty rose petals drift down through the air, highlighting the movement.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067763909587869696/img/mEoTzdjLwAtWKEs_.jpg" width="600" alt="Anime character solo waltz animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6245)**
-
-**Author:** [Kafka Beatrix@贖罪卿](https://x.com/botamochi8639) | **Source:** [Link](https://x.com/botamochi8639/status/2067763967494382037) | **Published:** Jun 19, 2026
-
----
-### Orbital Camera Dusk Couple Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt describing a slow orbital camera movement around a couple at dusk with glowing details and golden-hour lighting.
-
-#### 📝 Prompt
-
-```
-Slow orbital camera move circling slightly around the couple while gently pushing in. They hold their poised stance; glowing earpieces pulse softly. Dusk skyline and golden-hour light stay steady. Smooth cinematic motion, no cuts.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3c09f0b18600f0547d234e66025d00b/thumbnails/thumbnail.jpg" width="600" alt="Orbital Camera Dusk Couple Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6193)**
-
-**Author:** [Runaway Outlier](https://x.com/CantTameFire) | **Source:** [Link](https://x.com/CantTameFire/status/2067753638194552933) | **Published:** Jun 18, 2026
-
----
-### Motocross Backflip in Sand Dunes
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An action-packed video prompt of a dirt bike jump and backflip at motocross sand dunes.
-
-#### 📝 Prompt
-
-```
-I’m at the motocross sand dunes and I get on my dirt bike an make a jump an do a backflip and land it
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9a48b6a6332f231319b73af683af335e/thumbnails/thumbnail.jpg" width="600" alt="Motocross Backflip in Sand Dunes">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6206)**
-
-**Author:** [James Parker](https://x.com/JamesPa71114225) | **Source:** [Link](https://x.com/JamesPa71114225/status/2067701377879486799) | **Published:** Jun 18, 2026
-
----
-### Detective Motive Board Collage
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A creative video prompt that combines multiple images into a dramatic detective-style collage board.
-
-#### 📝 Prompt
-
-```
-Combine those 8 images into one full-screen image by creating a dramatic detective-style 'Motive Board' collage titled "MOTIVE" in bold, mysterious font at the center. Use the trading app screenshots (recurring investments with large weekly amounts,...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/34f6911038868eede263c6c61fcbda14/thumbnails/thumbnail.jpg" width="600" alt="Detective Motive Board Collage">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6198)**
-
-**Author:** [Laura k Brown](https://x.com/Coinbase000001) | **Source:** [Link](https://x.com/Coinbase000001/status/2067695829675020692) | **Published:** Jun 18, 2026
-
----
-### Candid Stadium Footage of a Quiet Spectator
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An ultra-realistic candid video prompt for a young woman sitting in stadium stands, featuring subtle movements like blinking and breathing with a documentary tone.
-
-#### 📝 Prompt
-
-```
-Ultra realistic candid footage from stadium stands. A young woman sits quietly watching the match, doing exactly what is shown in the photo — sitting, occasionally eating or sipping a drink, natural blinking, calm breathing. No flags, no chanting, no anthems, no patriotic gestures or face paint, no exaggerated reactions, no clapping, no celebration. Completely silent, no talking, no lip movement. Subtle handheld camera, shallow depth of field, realistic stadium lighting and crowd in the background. No artifacts, no distorted face, no morphing, consistent identity and outfit throughout. Calm, neutral, documentary tone, 4K.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cb0cf158f23e217eaceac670dabe183d/thumbnails/thumbnail.jpg" width="600" alt="Candid Stadium Footage of a Quiet Spectator">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6213)**
-
-**Author:** [Natai](https://x.com/masterai13) | **Source:** [Link](https://x.com/masterai13/status/2067687869464899651) | **Published:** Jun 18, 2026
-
----
-### Abandoned Classroom Mountain View
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A powerful cinematic prompt of an abandoned classroom with peeling paint and sunlight, contrasting with a vibrant mountain view outside.
-
-#### 📝 Prompt
-
-```
-Masterpiece, best quality, ultra-detailed cinematic image of an abandoned classroom with peeling blue paint on the walls and ceiling. Sunlight streams through large broken windows, creating beautiful reflections on the wet floor. Outside the windows is a stunning view of green mountains and a bright blue sky with fluffy white clouds. The contrast between the decaying classroom and the vibrant outside world creates a powerful atmosphere. Highly detailed textures, lighting, and reflections. . Emotional and cinematic mood, best quality, 8K resolution.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2127f4dccb275fa65ac86744afaa816b/thumbnails/thumbnail.jpg" width="600" alt="Abandoned Classroom Mountain View">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6202)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067675094315614281) | **Published:** Jun 18, 2026
-
----
-### Intimate Future Conversation Couple
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video prompt focusing on an intimate dialogue between a couple about their fears for the future.
-
-#### 📝 Prompt
-
-```
-A couple has a brief, intimate conversation: "I'm afraid of the future" is the theme.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f6b3f28ed2764666ea0b351486db68a1/thumbnails/thumbnail.jpg" width="600" alt="Intimate Future Conversation Couple">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6199)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2067674068950667319) | **Published:** Jun 18, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2186,6 +2196,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-28T04:39:46.124Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-28T10:47:05.738Z</sub>
 
 </div>

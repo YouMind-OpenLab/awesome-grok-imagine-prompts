@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1975** |
+| 📝 Total Prompts | **1983** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-28** |
 
@@ -189,6 +189,139 @@ Una valquiria celestial mística y noble, una mujer digna y hermosa con largo ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Cinemática de vuelo del cóndor andino
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video cinemático para generar un primer plano ultrarrealista de un cóndor andino en pleno vuelo sobre la cordillera.
+
+#### 📝 Prompt
+
+```
+Escena en primer plano ultrarrealista de un cóndor andino volando sobre la cordillera de los Andes.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071082468061360128/img/cvL7JHWeU0Qp06jP.jpg" width="600" alt="Cinemática de vuelo del cóndor andino">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6564)**
+
+**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2071100026772971840) | **Published:** Jun 28, 2026
+
+---
+### Póster de manifiesto estilo CRT retro
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video que crea un ambiente retrofuturista con un acercamiento cinemático a un póster de manifiesto, con efectos de líneas de escaneo y brillo de fósforo.
+
+#### 📝 Prompt
+
+```
+Acercamiento cinemático lento al póster de manifiesto. Las líneas de escaneo CRT se desplazan sutilmente, el brillo verde de fósforo en los bordes palpita suavemente como un monitor antiguo. La tipografía se mantiene nítida y legible. Ambiente de volante de protesta nocturna, movimiento contenido, sin texto nuevo, sin logotipos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070952039459274752/img/eckA5IgOFuPQwTzY.jpg" width="600" alt="Póster de manifiesto estilo CRT retro">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6562)**
+
+**Author:** [David Herbert Thomas](https://x.com/Diabach1972) | **Source:** [Link](https://x.com/Diabach1972/status/2070952100410872189) | **Published:** Jun 27, 2026
+
+---
+### Mujer caminando por un campo de girasoles
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video cinematográfico de una mujer con un vestido de verano blanco paseando por un campo de girasoles durante una brisa suave.
+
+#### 📝 Prompt
+
+```
+Escena en primer plano ultrarrealista de una hermosa mujer con un hermoso vestido de verano blanco caminando por un campo de girasoles con una brisa suave.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070883239917711360/img/06wbHnBCrTE_afO9.jpg" width="600" alt="Mujer caminando por un campo de girasoles">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6560)**
+
+**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2070902475238818282) | **Published:** Jun 27, 2026
+
+---
+### Video de un acogedor ático inspirado en Ghibli
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video cinematográfico para una habitación de ático cálida y mágica, llena de tesoros vintage y luces de hadas bajo un cielo nocturno lleno de galaxias, inspirado en Studio Ghibli.
+
+#### 📝 Prompt
+
+```
+Una acogedora habitación de ático llena de tesoros vintage, mapas antiguos, plantas en macetas, luces de hadas y una claraboya que revela un impresionante cielo nocturno lleno de galaxias, atmósfera cálida y mágica, inspirado en Studio Ghibli, ilustración de anime altamente detallada.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070855968339230720/img/gdIXM9etUa8gWSBz.jpg" width="600" alt="Video de un acogedor ático inspirado en Ghibli">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6559)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2070856044876902482) | **Published:** Jun 27, 2026
+
+---
+### Mujer con capa roja y manzana
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video cinematográfico de una mujer misteriosa con capa roja sosteniendo una manzana bajo un árbol viejo.
+
+#### 📝 Prompt
+
+```
+Escena en primer plano ultrarrealista de una joven misteriosa con una capa roja con capucha que sostiene una manzana roja brillante bajo un viejo manzano.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070822235099504640/img/2GsgtT4YdnmnI_uS.jpg" width="600" alt="Mujer con capa roja y manzana">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6561)**
+
+**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2070842077399675391) | **Published:** Jun 27, 2026
+
+---
+### Recorrido por una casa de muñecas en miniatura
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video creativo para un recorrido lúdico por un set de casa en miniatura, que presenta a un personaje anfitrión y diseños detallados de habitaciones diminutas.
+
+#### 📝 Prompt
+
+```
+Mira guía la cámara en un recorrido lúdico por el interior del set de casa en miniatura de Attack of the 50 Foot Housewife. Ella atraviesa la fachada abierta de la casa de muñecas, señalando la diminuta sala de estar, la cocina y la escalera con la sonrisa entusiasta de una anfitriona.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070828566149799936/img/E-PWyVCNm3dHrglN.jpg" width="600" alt="Recorrido por una casa de muñecas en miniatura">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6557)**
+
+**Author:** [Brian](https://x.com/luvsheight) | **Source:** [Link](https://x.com/luvsheight/status/2070828620747063692) | **Published:** Jun 27, 2026
+
+---
+### Semental corriendo en campo abierto
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video realista que captura el movimiento poderoso de un caballo semental negro corriendo a través de un campo verde abierto.
+
+#### 📝 Prompt
+
+```
+Escena de primer plano ultra realista de un caballo semental negro corriendo en un campo verde abierto.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070821975010758656/img/YB5H88tCBylmvaM9.jpg" width="600" alt="Semental corriendo en campo abierto">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6558)**
+
+**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2070826977561612604) | **Published:** Jun 27, 2026
+
+---
 ### Ascenso majestuoso por un bosque de arces azucareros
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -532,6 +665,25 @@ Haz que la galaxia/nebulosa gire lentamente hasta que se transforme en un camar�
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6484)**
 
 **Author:** [Lynn Hocker](https://x.com/Auroraskye3993) | **Source:** [Link](https://x.com/Auroraskye3993/status/2070054843604181021) | **Published:** Jun 25, 2026
+
+---
+### Vendedor de frutas en el antiguo Foro Romano
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Una recreación histórica cinematográfica de una mañana en el Foro Romano del siglo I, que muestra a un vendedor de frutas gritando en latín.
+
+#### 📝 Prompt
+
+```
+Una mañana del siglo I d. C. en el Foro Romano: un vendedor de frutas. Su llamado en latín: "Bona poma!" — "¡Fruta fina!" "Dulcia poma!" — "¡Fruta dulce!"
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069990879486783488/img/5UrjpNsEn_CuOTWU.jpg" width="600" alt="Vendedor de frutas en el antiguo Foro Romano">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6563)**
+
+**Author:** [たんぐすけん | シニアの叡智、AIで加速！](https://x.com/Tungskenichi) | **Source:** [Link](https://x.com/Tungskenichi/status/2069992038490362343) | **Published:** Jun 25, 2026
 
 ---
 ### Inventor cuántico en el desierto de Sonora
@@ -1983,158 +2135,6 @@ En la imagen de referencia, transforma el cono de helado de chocolate grande en 
 **Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2067815770705526878) | **Published:** Jun 19, 2026
 
 ---
-### Cafetería japonesa nostálgica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Una escena pacífica y nostálgica de una antigua cafetería japonesa con una bicicleta roja y luz solar filtrándose a través de los árboles.
-
-#### 📝 Prompt
-
-```
-Obra maestra, mejor calidad, imagen cinematográfica ultra detallada de una nostálgica cafetería japonesa antigua en una calle tranquila. El edificio desgastado tiene un letrero descolorido que dice 'COFE CAFE', un toldo color verde azulado y una bicicleta roja estacionada afuera. Exuberantes plantas verdes y árboles rodean la entrada, con cálida luz solar filtrándose a través de las hojas, creando hermosas sombras sobre el pavimento de piedra. Atmósfera pacífica y ligeramente melancólica. Texturas, iluminación y elementos naturales altamente detallados. Iluminación cinematográfica cálida, mejor calidad, resolución 8K.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067768423871029248/img/jUGt1oA5yYJjbZYQ.jpg" width="600" alt="Cafetería japonesa nostálgica">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6249)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067768674388468127) | **Published:** Jun 19, 2026
-
----
-### Animación de vals en solitario de un personaje de anime
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video cinematográfico de un personaje de anime realizando un elegante vals en solitario en un entorno de escaleras oscuras con pétalos de rosa cayendo.
-
-#### 📝 Prompt
-
-```
-El mismo personaje de anime y el entorno de escaleras oscuras se mantienen sin cambios. Ella continúa su lento vals en solitario con giros elegantes y un giro suave, con el brazo levantado como si estuviera con una pareja invisible, mientras su cabello y vestido se balancean. Pétalos de rosa carmesí intenso y rosa polvoriento caen a través del aire, resaltando el movimiento.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067763909587869696/img/mEoTzdjLwAtWKEs_.jpg" width="600" alt="Animación de vals en solitario de un personaje de anime">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6245)**
-
-**Author:** [Kafka Beatrix@贖罪卿](https://x.com/botamochi8639) | **Source:** [Link](https://x.com/botamochi8639/status/2067763967494382037) | **Published:** Jun 19, 2026
-
----
-### Escena de pareja al atardecer con cámara orbital
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video cinematográfico que describe un movimiento de cámara orbital lento alrededor de una pareja al atardecer, con detalles brillantes e iluminación de hora dorada.
-
-#### 📝 Prompt
-
-```
-Movimiento de cámara orbital lento que rodea ligeramente a la pareja mientras se acerca suavemente. Mantienen su postura equilibrada; los auriculares brillantes palpitan suavemente. El horizonte al atardecer y la luz de la hora dorada se mantienen constantes. Movimiento cinematográfico fluido, sin cortes.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3c09f0b18600f0547d234e66025d00b/thumbnails/thumbnail.jpg" width="600" alt="Escena de pareja al atardecer con cámara orbital">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6193)**
-
-**Author:** [Runaway Outlier](https://x.com/CantTameFire) | **Source:** [Link](https://x.com/CantTameFire/status/2067753638194552933) | **Published:** Jun 18, 2026
-
----
-### Backflip de motocross en dunas de arena
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video lleno de acción sobre un salto y backflip en motocicleta en dunas de arena de motocross.
-
-#### 📝 Prompt
-
-```
-Estoy en las dunas de arena de motocross, me subo a mi motocicleta, doy un salto, hago un backflip y aterrizo perfectamente
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9a48b6a6332f231319b73af683af335e/thumbnails/thumbnail.jpg" width="600" alt="Backflip de motocross en dunas de arena">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6206)**
-
-**Author:** [James Parker](https://x.com/JamesPa71114225) | **Source:** [Link](https://x.com/JamesPa71114225/status/2067701377879486799) | **Published:** Jun 18, 2026
-
----
-### Collage de tablero de motivos de detective
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video creativo que combina múltiples imágenes en un dramático tablero de collage al estilo detective.
-
-#### 📝 Prompt
-
-```
-Combina esas 8 imágenes en una sola imagen de pantalla completa creando un dramático collage tipo 'Tablero de motivos' al estilo detective, con el título "MOTIVE" en una fuente misteriosa y en negrita al centro. Usa las capturas de pantalla de la aplicación de trading (inversiones recurrentes con grandes montos semanales,...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/34f6911038868eede263c6c61fcbda14/thumbnails/thumbnail.jpg" width="600" alt="Collage de tablero de motivos de detective">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6198)**
-
-**Author:** [Laura k Brown](https://x.com/Coinbase000001) | **Source:** [Link](https://x.com/Coinbase000001/status/2067695829675020692) | **Published:** Jun 18, 2026
-
----
-### Tomas espontáneas en estadio de una espectadora tranquila
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video espontáneo ultrarrealista de una mujer joven sentada en las gradas de un estadio, con movimientos sutiles como parpadear y respirar, con un tono documental.
-
-#### 📝 Prompt
-
-```
-Tomas espontáneas ultrarrealistas desde las gradas de un estadio. Una mujer joven sentada tranquilamente viendo el partido, haciendo exactamente lo que se muestra en la foto: sentada, comiendo o bebiendo algo ocasionalmente, parpadeo natural, respiración tranquila. Sin banderas, sin cánticos, sin himnos, sin gestos patrióticos ni pintura facial, sin reacciones exageradas, sin aplausos, sin celebraciones. Completamente silenciosa, sin hablar, sin movimiento de labios. Cámara en mano sutil, profundidad de campo reducida, iluminación realista de estadio y multitud en el fondo. Sin artefactos, sin rostros distorsionados, sin deformaciones, identidad y vestimenta consistentes en todo momento. Tono tranquilo, neutral y documental, 4K.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cb0cf158f23e217eaceac670dabe183d/thumbnails/thumbnail.jpg" width="600" alt="Tomas espontáneas en estadio de una espectadora tranquila">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6213)**
-
-**Author:** [Natai](https://x.com/masterai13) | **Source:** [Link](https://x.com/masterai13/status/2067687869464899651) | **Published:** Jun 18, 2026
-
----
-### Salón de clases abandonado con vista a la montaña
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un poderoso prompt cinematográfico de un salón de clases abandonado con pintura descascarada y luz solar, en contraste con una vibrante vista a la montaña en el exterior.
-
-#### 📝 Prompt
-
-```
-Obra maestra, mejor calidad, imagen cinematográfica ultra detallada de un salón de clases abandonado con pintura azul descascarada en las paredes y el techo. La luz del sol entra a través de grandes ventanas rotas, creando hermosos reflejos en el suelo húmedo. Fuera de las ventanas se observa una impresionante vista de montañas verdes y un cielo azul brillante con nubes blancas y esponjosas. El contraste entre el aula en decadencia y el vibrante mundo exterior crea una atmósfera poderosa. Texturas, iluminación y reflejos altamente detallados. Estado de ánimo emocional y cinematográfico, mejor calidad, resolución 8K.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2127f4dccb275fa65ac86744afaa816b/thumbnails/thumbnail.jpg" width="600" alt="Salón de clases abandonado con vista a la montaña">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6202)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067675094315614281) | **Published:** Jun 18, 2026
-
----
-### Conversación íntima de pareja sobre el futuro
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video centrado en un diálogo íntimo entre una pareja sobre sus miedos respecto al futuro.
-
-#### 📝 Prompt
-
-```
-Una pareja tiene una conversación breve e íntima: el tema es "Tengo miedo del futuro".
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f6b3f28ed2764666ea0b351486db68a1/thumbnails/thumbnail.jpg" width="600" alt="Conversación íntima de pareja sobre el futuro">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6199)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2067674068950667319) | **Published:** Jun 18, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2196,6 +2196,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-28T04:39:57.070Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-28T10:47:21.813Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **1975** |
+| 📝 提示词总数 | **1983** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-06-28** |
 
@@ -189,6 +189,139 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 安第斯神鹫飞行电影感画面
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于生成安第斯神鹫飞越山脉超写实特写镜头的电影感视频提示词。
+
+#### 📝 提示词
+
+```
+安第斯神鹫飞越安第斯山脉的超写实特写场景。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071082468061360128/img/cvL7JHWeU0Qp06jP.jpg" width="600" alt="安第斯神鹫飞行电影感画面">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6564)**
+
+**作者:** [Mario Nawfal](https://x.com/MarioNawfal) | **来源:** [Link](https://x.com/MarioNawfal/status/2071100026772971840) | **发布时间:** Jun 28, 2026
+
+---
+### 复古 CRT 宣言海报
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个视频提示词，旨在营造复古未来主义氛围，通过电影般的推镜头展示一张宣言海报，并带有扫描线和磷光效果。
+
+#### 📝 提示词
+
+```
+缓慢的电影级推镜头聚焦于宣言海报。CRT 扫描线轻微漂移，磷光绿色的边缘光像老式显示器一样柔和闪烁。排版保持清晰易读。午夜抗议传单氛围，克制的动态，无新增文字，无 Logo。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070952039459274752/img/eckA5IgOFuPQwTzY.jpg" width="600" alt="复古 CRT 宣言海报">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6562)**
+
+**作者:** [David Herbert Thomas](https://x.com/Diabach1972) | **来源:** [Link](https://x.com/Diabach1972/status/2070952100410872189) | **发布时间:** Jun 27, 2026
+
+---
+### 在向日葵花田中漫步的女子
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段电影质感的视频提示词：一位身穿白色连衣裙的女子在微风中漫步于向日葵花田。
+
+#### 📝 提示词
+
+```
+超写实特写镜头：一位美丽的女子身穿漂亮的白色连衣裙，在微风吹拂下穿过向日葵花田。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070883239917711360/img/06wbHnBCrTE_afO9.jpg" width="600" alt="在向日葵花田中漫步的女子">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6560)**
+
+**作者:** [Mario Nawfal](https://x.com/MarioNawfal) | **来源:** [Link](https://x.com/MarioNawfal/status/2070902475238818282) | **发布时间:** Jun 27, 2026
+
+---
+### 吉卜力风格温馨阁楼视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个电影感视频提示词，描绘了一间充满复古珍宝与仙女灯的温馨魔法阁楼，窗外是繁星点点的银河夜空，灵感源自吉卜力工作室。
+
+#### 📝 提示词
+
+```
+一间温馨的阁楼，摆满了复古珍宝、旧地图、盆栽植物和仙女灯，天窗外展现出令人惊叹的银河夜空，氛围温暖而充满魔法，吉卜力风格，高细节动漫插画。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070855968339230720/img/gdIXM9etUa8gWSBz.jpg" width="600" alt="吉卜力风格温馨阁楼视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6559)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **来源:** [Link](https://x.com/MrDasOnX/status/2070856044876902482) | **发布时间:** Jun 27, 2026
+
+---
+### 身穿红色斗篷手持苹果的女子
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段电影质感的视频提示词，描述了一位神秘女子身穿红色斗篷，在古树下拿着一个苹果。
+
+#### 📝 提示词
+
+```
+超写实特写镜头，一位神秘的年轻女子身穿深红色连帽斗篷，在古老的苹果树下拿着一个鲜红的苹果。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070822235099504640/img/2GsgtT4YdnmnI_uS.jpg" width="600" alt="身穿红色斗篷手持苹果的女子">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6561)**
+
+**作者:** [Mario Nawfal](https://x.com/MarioNawfal) | **来源:** [Link](https://x.com/MarioNawfal/status/2070842077399675391) | **发布时间:** Jun 27, 2026
+
+---
+### 微缩娃娃屋漫游指南
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个充满创意的视频提示词，旨在为微缩房屋场景打造一场趣味十足的漫游演示，包含角色主持人以及精致的微缩房间设计。
+
+#### 📝 提示词
+
+```
+Mira 引导镜头在“Attack of the 50 Foot Housewife”微缩房屋场景中进行了一场趣味漫游。她穿过敞开的娃娃屋立面，满脸热情地向观众介绍着微缩客厅、厨房和楼梯。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070828566149799936/img/E-PWyVCNm3dHrglN.jpg" width="600" alt="微缩娃娃屋漫游指南">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6557)**
+
+**作者:** [Brian](https://x.com/luvsheight) | **来源:** [Link](https://x.com/luvsheight/status/2070828620747063692) | **发布时间:** Jun 27, 2026
+
+---
+### 在开阔草地上奔跑的种马
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个写实的视频提示词，捕捉了一匹黑色种马在绿色开阔草地上奔跑时的强劲动态。
+
+#### 📝 提示词
+
+```
+超写实的特写镜头，展现了一匹黑色种马在绿色开阔草地上奔跑的场景。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070821975010758656/img/YB5H88tCBylmvaM9.jpg" width="600" alt="在开阔草地上奔跑的种马">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6558)**
+
+**作者:** [Mario Nawfal](https://x.com/MarioNawfal) | **来源:** [Link](https://x.com/MarioNawfal/status/2070826977561612604) | **发布时间:** Jun 27, 2026
+
+---
 ### 雄伟糖枫林攀升
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -532,6 +665,25 @@ Elena 穿过闪烁的传送门，进入广阔的 Playroom，她环顾四周，�
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6484)**
 
 **作者:** [Lynn Hocker](https://x.com/Auroraskye3993) | **来源:** [Link](https://x.com/Auroraskye3993/status/2070054843604181021) | **发布时间:** Jun 25, 2026
+
+---
+### 古罗马广场的水果商贩
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一场电影级的历史重现，展现了公元 1 世纪罗马广场的清晨，一位水果商贩正用拉丁语叫卖。
+
+#### 📝 提示词
+
+```
+公元 1 世纪罗马广场的清晨 —— 一位水果商贩。她用拉丁语叫卖：“Bona poma!” —— “好水果！”“Dulcia poma!” —— “甜水果！”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069990879486783488/img/5UrjpNsEn_CuOTWU.jpg" width="600" alt="古罗马广场的水果商贩">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6563)**
+
+**作者:** [たんぐすけん | シニアの叡智、AIで加速！](https://x.com/Tungskenichi) | **来源:** [Link](https://x.com/Tungskenichi/status/2069992038490362343) | **发布时间:** Jun 25, 2026
 
 ---
 ### 索诺兰沙漠中的量子发明家
@@ -1982,158 +2134,6 @@ Elena 穿过闪烁的传送门，进入广阔的 Playroom，她环顾四周，�
 **作者:** [Ami A](https://x.com/AA63782) | **来源:** [Link](https://x.com/AA63782/status/2067815770705526878) | **发布时间:** Jun 19, 2026
 
 ---
-### 怀旧日式咖啡馆
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一幅宁静而怀旧的场景，描绘了一家古老的日式咖啡馆，门前停着一辆红色自行车，阳光透过树叶洒下斑驳光影。
-
-#### 📝 提示词
-
-```
-杰作，最高画质，超精细电影感图像，展现了一条安静街道上的怀旧日式咖啡馆。饱经风霜的建筑上挂着一块褪色的招牌，写着“COFE CAFE”，配有青色遮阳篷，门外停着一辆红色自行车。入口处被郁郁葱葱的植物和树木环绕，温暖的阳光透过叶片洒下，在石板路上投射出优美的光影。氛围宁静且略带忧郁。高度精细的纹理、光影和自然元素。温暖的电影级灯光，最高画质，8K 分辨率。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067768423871029248/img/jUGt1oA5yYJjbZYQ.jpg" width="600" alt="怀旧日式咖啡馆">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6249)**
-
-**作者:** [⭕Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2067768674388468127) | **发布时间:** Jun 19, 2026
-
----
-### 动漫角色单人华尔兹动画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个电影级的视频提示词，描述了一位动漫角色在昏暗的楼梯环境中，伴随着飘落的玫瑰花瓣，优雅地跳着单人华尔兹。
-
-#### 📝 提示词
-
-```
-保持原有的动漫角色和昏暗楼梯环境不变。她继续缓慢地跳着单人华尔兹，动作优雅地旋转，手臂抬起仿佛正与一位隐形的舞伴共舞，头发和裙摆随之摆动。深红色和暗粉色的玫瑰花瓣在空中飘落，衬托出她的舞姿。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067763909587869696/img/mEoTzdjLwAtWKEs_.jpg" width="600" alt="动漫角色单人华尔兹动画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6245)**
-
-**作者:** [Kafka Beatrix@贖罪卿](https://x.com/botamochi8639) | **来源:** [Link](https://x.com/botamochi8639/status/2067763967494382037) | **发布时间:** Jun 19, 2026
-
----
-### 黄昏情侣场景轨道摄像机拍摄
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段电影级视频提示词，描述了在黄昏时分，围绕一对情侣进行缓慢的轨道摄像机移动，并带有发光细节和黄金时刻的灯光效果。
-
-#### 📝 提示词
-
-```
-缓慢的轨道摄像机移动，围绕情侣进行轻微环绕并平稳推进。他们保持姿态；发光的耳机在轻轻闪烁。黄昏的天际线和黄金时刻的光线保持稳定。流畅的电影级运镜，无剪辑。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3c09f0b18600f0547d234e66025d00b/thumbnails/thumbnail.jpg" width="600" alt="黄昏情侣场景轨道摄像机拍摄">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6193)**
-
-**作者:** [Runaway Outlier](https://x.com/CantTameFire) | **来源:** [Link](https://x.com/CantTameFire/status/2067753638194552933) | **发布时间:** Jun 18, 2026
-
----
-### 沙丘越野摩托车后空翻
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个充满动作感的视频提示词，展示了越野摩托车在沙丘上的跳跃与后空翻。
-
-#### 📝 提示词
-
-```
-我身处越野摩托车沙丘，骑上我的越野摩托车，完成一次跳跃并做一个后空翻，最后成功着陆
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9a48b6a6332f231319b73af683af335e/thumbnails/thumbnail.jpg" width="600" alt="沙丘越野摩托车后空翻">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6206)**
-
-**作者:** [James Parker](https://x.com/JamesPa71114225) | **来源:** [Link](https://x.com/JamesPa71114225/status/2067701377879486799) | **发布时间:** Jun 18, 2026
-
----
-### 侦探风格“动机”项目拼贴画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个富有创意的视频提示词，将多张图片组合成极具戏剧性的侦探风格“项目”拼贴画。
-
-#### 📝 提示词
-
-```
-将这 8 张图片组合成一张全屏图像，制作成一张极具戏剧性的侦探风格“项目”拼贴画，并在中心以醒目、神秘的字体标注“MOTIVE”。使用交易应用程序的截图（包含大额每周定期投资，...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/34f6911038868eede263c6c61fcbda14/thumbnails/thumbnail.jpg" width="600" alt="侦探风格“动机”项目拼贴画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6198)**
-
-**作者:** [Laura k Brown](https://x.com/Coinbase000001) | **来源:** [Link](https://x.com/Coinbase000001/status/2067695829675020692) | **发布时间:** Jun 18, 2026
-
----
-### 体育场看台安静观众的抓拍镜头
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段超写实的抓拍视频提示词，描述一位年轻女性坐在体育场看台上，包含眨眼和呼吸等细微动作，呈现纪录片风格。
-
-#### 📝 提示词
-
-```
-来自体育场看台的超写实抓拍镜头。一位年轻女性安静地坐着观看比赛，动作与照片中完全一致——坐着，偶尔吃东西或喝饮料，自然的眨眼，平静的呼吸。没有旗帜，没有呐喊，没有国歌，没有爱国手势或面部彩绘，没有夸张的反应，没有鼓掌，没有庆祝。完全安静，没有交谈，没有唇部动作。手持摄像机拍摄，浅景深，背景为真实的体育场灯光和人群。无伪影，无面部扭曲，无变形，全程保持一致的身份和着装。平静、中性、纪录片风格，4K 分辨率。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cb0cf158f23e217eaceac670dabe183d/thumbnails/thumbnail.jpg" width="600" alt="体育场看台安静观众的抓拍镜头">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6213)**
-
-**作者:** [Natai](https://x.com/masterai13) | **来源:** [Link](https://x.com/masterai13/status/2067687869464899651) | **发布时间:** Jun 18, 2026
-
----
-### 废弃教室与山景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个极具电影感的提示词，描绘了墙皮剥落的废弃教室，与窗外生机勃勃的山景形成鲜明对比。
-
-#### 📝 提示词
-
-```
-杰作，最佳质量，超细节电影感图像，展示了一间墙壁和天花板上蓝色油漆剥落的废弃教室。阳光透过破损的大窗户倾泻而入，在潮湿的地面上投下美丽的光影。窗外是郁郁葱葱的群山和蓝天白云的壮丽景色。衰败的教室与充满活力的外部世界形成了强烈的对比，营造出一种震撼的氛围。高度精细的纹理、光影和反射。富有情感的电影氛围，最佳质量，8K 分辨率。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2127f4dccb275fa65ac86744afaa816b/thumbnails/thumbnail.jpg" width="600" alt="废弃教室与山景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6202)**
-
-**作者:** [⭕Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2067675094315614281) | **发布时间:** Jun 18, 2026
-
----
-### 情侣间的亲密未来对话
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个视频提示词，聚焦于一对情侣之间关于未来恐惧的亲密对话。
-
-#### 📝 提示词
-
-```
-一对情侣进行了一段简短而亲密的对话：主题是“我害怕未来”。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f6b3f28ed2764666ea0b351486db68a1/thumbnails/thumbnail.jpg" width="600" alt="情侣间的亲密未来对话">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6199)**
-
-**作者:** [Déborah](https://x.com/dvorahfr) | **来源:** [Link](https://x.com/dvorahfr/status/2067674068950667319) | **发布时间:** Jun 18, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2195,6 +2195,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-06-28T04:39:47.383Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-06-28T10:47:07.441Z</sub>
 
 </div>

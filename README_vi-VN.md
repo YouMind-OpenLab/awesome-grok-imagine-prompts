@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1975** |
+| 📝 Total Prompts | **1983** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-28** |
 
@@ -189,6 +189,139 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Cảnh quay điện ảnh về chuyến bay của thần ưng Andes
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý video điện ảnh để tạo cận cảnh siêu thực về một con thần ưng Andes đang bay trên dãy núi.
+
+#### 📝 Prompt
+
+```
+Cảnh cận cảnh siêu thực về một con thần ưng Andes đang bay trên dãy núi Andes.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071082468061360128/img/cvL7JHWeU0Qp06jP.jpg" width="600" alt="Cảnh quay điện ảnh về chuyến bay của thần ưng Andes">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6564)**
+
+**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2071100026772971840) | **Published:** Jun 28, 2026
+
+---
+### Áp phích tuyên ngôn phong cách CRT cổ điển
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video tạo ra bầu không khí hoài cổ tương lai với hiệu ứng quay phim tiến dần vào áp phích tuyên ngôn, kết hợp các đường quét (scanlines) và hiệu ứng phát sáng phốt pho.
+
+#### 📝 Prompt
+
+```
+Quay phim tiến dần chậm rãi vào áp phích tuyên ngôn. Các đường quét CRT trôi nhẹ nhàng, ánh sáng xanh phốt pho ở viền nhấp nháy tinh tế như màn hình cũ. Phông chữ vẫn sắc nét và dễ đọc. Bầu không khí tờ rơi biểu tình lúc nửa đêm, chuyển động tiết chế, không thêm văn bản mới, không có logo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070952039459274752/img/eckA5IgOFuPQwTzY.jpg" width="600" alt="Áp phích tuyên ngôn phong cách CRT cổ điển">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6562)**
+
+**Author:** [David Herbert Thomas](https://x.com/Diabach1972) | **Source:** [Link](https://x.com/Diabach1972/status/2070952100410872189) | **Published:** Jun 27, 2026
+
+---
+### Người phụ nữ đi dạo giữa cánh đồng hoa hướng dương
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video điện ảnh về người phụ nữ mặc váy trắng đi dạo giữa cánh đồng hoa hướng dương trong làn gió nhẹ.
+
+#### 📝 Prompt
+
+```
+Cảnh quay cận cảnh siêu thực về một người phụ nữ xinh đẹp trong chiếc váy trắng tuyệt đẹp đang đi dạo giữa cánh đồng hoa hướng dương với làn gió nhẹ thổi qua.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070883239917711360/img/06wbHnBCrTE_afO9.jpg" width="600" alt="Người phụ nữ đi dạo giữa cánh đồng hoa hướng dương">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6560)**
+
+**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2070902475238818282) | **Published:** Jun 27, 2026
+
+---
+### Video gác mái ấm cúng lấy cảm hứng từ Ghibli
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video đậm chất điện ảnh về căn phòng gác mái ấm áp, huyền ảo, chứa đầy những món đồ cổ và đèn đom đóm dưới bầu trời đêm đầy dải ngân hà, lấy cảm hứng từ Studio Ghibli.
+
+#### 📝 Prompt
+
+```
+Một căn phòng gác mái ấm cúng chứa đầy những món đồ cổ, bản đồ cũ, cây cảnh, đèn đom đóm và cửa sổ trần lộ ra bầu trời đêm đầy dải ngân hà ngoạn mục, không gian ấm áp và huyền ảo, lấy cảm hứng từ Studio Ghibli, minh họa anime chi tiết cao.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070855968339230720/img/gdIXM9etUa8gWSBz.jpg" width="600" alt="Video gác mái ấm cúng lấy cảm hứng từ Ghibli">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6559)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2070856044876902482) | **Published:** Jun 27, 2026
+
+---
+### Người phụ nữ mặc áo choàng đỏ với quả táo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video điện ảnh về một người phụ nữ bí ẩn mặc áo choàng đỏ đang cầm một quả táo dưới gốc cây cổ thụ.
+
+#### 📝 Prompt
+
+```
+Cảnh quay cận cảnh siêu thực về một người phụ nữ trẻ bí ẩn mặc áo choàng có mũ màu đỏ thẫm, đang cầm một quả táo đỏ tươi dưới gốc cây táo cổ thụ.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070822235099504640/img/2GsgtT4YdnmnI_uS.jpg" width="600" alt="Người phụ nữ mặc áo choàng đỏ với quả táo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6561)**
+
+**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2070842077399675391) | **Published:** Jun 27, 2026
+
+---
+### Hướng dẫn tham quan nhà búp bê thu nhỏ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý video sáng tạo cho chuyến tham quan vui nhộn trong mô hình nhà thu nhỏ, với sự xuất hiện của một nhân vật dẫn chương trình và các thiết kế phòng ốc chi tiết.
+
+#### 📝 Prompt
+
+```
+Mira dẫn dắt camera trong chuyến tham quan vui nhộn bên trong mô hình nhà thu nhỏ Attack of the 50 Foot Housewife. Cô bước qua mặt tiền ngôi nhà búp bê đang mở, chỉ vào phòng khách, nhà bếp và cầu thang tí hon với nụ cười đầy hào hứng của một người dẫn chương trình.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070828566149799936/img/E-PWyVCNm3dHrglN.jpg" width="600" alt="Hướng dẫn tham quan nhà búp bê thu nhỏ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6557)**
+
+**Author:** [Brian](https://x.com/luvsheight) | **Source:** [Link](https://x.com/luvsheight/status/2070828620747063692) | **Published:** Jun 27, 2026
+
+---
+### Chú ngựa chiến chạy trên cánh đồng rộng mở
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video chân thực ghi lại chuyển động mạnh mẽ của một chú ngựa chiến màu đen đang chạy qua cánh đồng xanh bát ngát.
+
+#### 📝 Prompt
+
+```
+Cảnh quay cận cảnh siêu chân thực về một chú ngựa chiến màu đen đang chạy trên cánh đồng xanh rộng mở.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070821975010758656/img/YB5H88tCBylmvaM9.jpg" width="600" alt="Chú ngựa chiến chạy trên cánh đồng rộng mở">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6558)**
+
+**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2070826977561612604) | **Published:** Jun 27, 2026
+
+---
 ### Hành trình vươn lên giữa rừng cây phong đường hùng vĩ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -532,6 +665,25 @@ Hãy để dải ngân hà/tinh vân xoay chậm cho đến khi biến đổi th
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6484)**
 
 **Author:** [Lynn Hocker](https://x.com/Auroraskye3993) | **Source:** [Link](https://x.com/Auroraskye3993/status/2070054843604181021) | **Published:** Jun 25, 2026
+
+---
+### Người bán trái cây tại Diễn đàn La Mã cổ đại
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một thước phim tái hiện lịch sử buổi sáng tại Diễn đàn La Mã thế kỷ thứ 1, với hình ảnh người bán trái cây đang rao hàng bằng tiếng Latin.
+
+#### 📝 Prompt
+
+```
+Buổi sáng thế kỷ thứ 1 sau Công nguyên tại Diễn đàn La Mã — một người bán trái cây. Lời rao bằng tiếng Latin của cô ấy: "Bona poma!" — "Trái cây ngon đây!" "Dulcia poma!" — "Trái cây ngọt đây!"
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069990879486783488/img/5UrjpNsEn_CuOTWU.jpg" width="600" alt="Người bán trái cây tại Diễn đàn La Mã cổ đại">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6563)**
+
+**Author:** [たんぐすけん | シニアの叡智、AIで加速！](https://x.com/Tungskenichi) | **Source:** [Link](https://x.com/Tungskenichi/status/2069992038490362343) | **Published:** Jun 25, 2026
 
 ---
 ### Nhà phát minh lượng tử tại sa mạc Sonoran
@@ -1983,158 +2135,6 @@ Trong hình ảnh tham chiếu, hãy biến chiếc kem ốc quế sô-cô-la l�
 **Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2067815770705526878) | **Published:** Jun 19, 2026
 
 ---
-### Quán cà phê Nhật Bản hoài cổ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một khung cảnh yên bình và đầy hoài niệm về một quán cà phê Nhật Bản cũ với chiếc xe đạp màu đỏ và ánh nắng xuyên qua tán cây.
-
-#### 📝 Prompt
-
-```
-Kiệt tác, chất lượng tốt nhất, hình ảnh điện ảnh siêu chi tiết về một quán cà phê Nhật Bản cũ đầy hoài niệm trên một con phố yên tĩnh. Tòa nhà nhuốm màu thời gian có tấm biển hiệu phai màu ghi chữ 'COFE CAFE', mái hiên màu xanh mòng két và một chiếc xe đạp màu đỏ đỗ bên ngoài. Cây cối xanh tươi bao quanh lối vào, với ánh nắng ấm áp xuyên qua những tán lá tạo nên những bóng đổ tuyệt đẹp trên mặt đường lát đá. Bầu không khí yên bình và có chút man mác buồn. Kết cấu, ánh sáng và các yếu tố tự nhiên vô cùng chi tiết. Ánh sáng điện ảnh ấm áp, chất lượng tốt nhất, độ phân giải 8K.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067768423871029248/img/jUGt1oA5yYJjbZYQ.jpg" width="600" alt="Quán cà phê Nhật Bản hoài cổ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6249)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067768674388468127) | **Published:** Jun 19, 2026
-
----
-### Hoạt ảnh nhân vật anime khiêu vũ waltz một mình
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý video điện ảnh về một nhân vật anime đang thực hiện điệu nhảy waltz một mình đầy duyên dáng trong bối cảnh cầu thang tối với những cánh hoa hồng rơi.
-
-#### 📝 Prompt
-
-```
-Nhân vật anime và bối cảnh cầu thang tối được giữ nguyên. Cô ấy tiếp tục điệu waltz chậm rãi một mình với những bước xoay duyên dáng và cú xoay người nhẹ nhàng, cánh tay nâng lên như đang khiêu vũ cùng một người bạn nhảy vô hình, mái tóc và chiếc váy đung đưa. Những cánh hoa hồng đỏ thẫm và hồng phấn rơi lả tả trong không trung, làm nổi bật từng chuyển động.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067763909587869696/img/mEoTzdjLwAtWKEs_.jpg" width="600" alt="Hoạt ảnh nhân vật anime khiêu vũ waltz một mình">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6245)**
-
-**Author:** [Kafka Beatrix@贖罪卿](https://x.com/botamochi8639) | **Source:** [Link](https://x.com/botamochi8639/status/2067763967494382037) | **Published:** Jun 19, 2026
-
----
-### Cảnh cặp đôi với camera chuyển động quỹ đạo lúc hoàng hôn
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video đậm chất điện ảnh mô tả chuyển động camera quỹ đạo chậm quanh một cặp đôi vào lúc hoàng hôn với các chi tiết phát sáng và ánh sáng giờ vàng.
-
-#### 📝 Prompt
-
-```
-Camera chuyển động quỹ đạo chậm, xoay nhẹ quanh cặp đôi đồng thời tiến lại gần một cách từ tốn. Họ giữ nguyên tư thế; tai nghe phát sáng nhấp nháy nhẹ nhàng. Đường chân trời lúc hoàng hôn và ánh sáng giờ vàng vẫn ổn định. Chuyển động điện ảnh mượt mà, không cắt cảnh.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3c09f0b18600f0547d234e66025d00b/thumbnails/thumbnail.jpg" width="600" alt="Cảnh cặp đôi với camera chuyển động quỹ đạo lúc hoàng hôn">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6193)**
-
-**Author:** [Runaway Outlier](https://x.com/CantTameFire) | **Source:** [Link](https://x.com/CantTameFire/status/2067753638194552933) | **Published:** Jun 18, 2026
-
----
-### Cú lộn ngược trên không với xe cào cào tại đồi cát
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt đầy kịch tính về cảnh xe cào cào thực hiện cú nhảy và lộn ngược trên không tại đồi cát motocross.
-
-#### 📝 Prompt
-
-```
-Tôi đang ở đồi cát motocross, tôi lên xe cào cào của mình, thực hiện một cú nhảy, lộn ngược trên không và tiếp đất thành công
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9a48b6a6332f231319b73af683af335e/thumbnails/thumbnail.jpg" width="600" alt="Cú lộn ngược trên không với xe cào cào tại đồi cát">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6206)**
-
-**Author:** [James Parker](https://x.com/JamesPa71114225) | **Source:** [Link](https://x.com/JamesPa71114225/status/2067701377879486799) | **Published:** Jun 18, 2026
-
----
-### Bảng điều tra manh mối (Detective Motive Board Collage)
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video sáng tạo kết hợp nhiều hình ảnh thành một bảng cắt dán theo phong cách thám tử đầy kịch tính.
-
-#### 📝 Prompt
-
-```
-Hãy kết hợp 8 hình ảnh đó thành một hình ảnh toàn màn hình bằng cách tạo ra một bảng cắt dán 'Motive Board' theo phong cách thám tử đầy kịch tính, với tiêu đề "MOTIVE" được viết bằng phông chữ đậm, đầy bí ẩn ở chính giữa. Sử dụng các ảnh chụp màn hình ứng dụng giao dịch (các khoản đầu tư định kỳ với số tiền hàng tuần lớn,...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/34f6911038868eede263c6c61fcbda14/thumbnails/thumbnail.jpg" width="600" alt="Bảng điều tra manh mối (Detective Motive Board Collage)">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6198)**
-
-**Author:** [Laura k Brown](https://x.com/Coinbase000001) | **Source:** [Link](https://x.com/Coinbase000001/status/2067695829675020692) | **Published:** Jun 18, 2026
-
----
-### Cảnh quay chân thực tại sân vận động về một khán giả trầm lặng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video chân thực, tự nhiên về một cô gái trẻ đang ngồi trên khán đài sân vận động, với các chuyển động tinh tế như chớp mắt và nhịp thở, mang phong cách phim tài liệu.
-
-#### 📝 Prompt
-
-```
-Cảnh quay chân thực, tự nhiên từ khán đài sân vận động. Một cô gái trẻ ngồi lặng lẽ xem trận đấu, thực hiện chính xác những gì được hiển thị trong ảnh — ngồi, thỉnh thoảng ăn hoặc nhấp một ngụm đồ uống, chớp mắt tự nhiên, hơi thở bình tĩnh. Không cờ quạt, không hô hào, không quốc ca, không cử chỉ yêu nước hay vẽ mặt, không phản ứng thái quá, không vỗ tay, không ăn mừng. Hoàn toàn im lặng, không nói chuyện, không cử động môi. Camera cầm tay tinh tế, độ sâu trường ảnh nông, ánh sáng sân vận động chân thực và đám đông ở hậu cảnh. Không có lỗi hình ảnh, không biến dạng khuôn mặt, không biến đổi hình dạng, giữ nguyên danh tính và trang phục xuyên suốt. Phong cách bình tĩnh, trung tính, đậm chất phim tài liệu, 4K.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cb0cf158f23e217eaceac670dabe183d/thumbnails/thumbnail.jpg" width="600" alt="Cảnh quay chân thực tại sân vận động về một khán giả trầm lặng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6213)**
-
-**Author:** [Natai](https://x.com/masterai13) | **Source:** [Link](https://x.com/masterai13/status/2067687869464899651) | **Published:** Jun 18, 2026
-
----
-### Lớp học bỏ hoang với tầm nhìn ra núi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh điện ảnh đầy ấn tượng về một lớp học bỏ hoang với lớp sơn bong tróc và ánh nắng, tương phản với khung cảnh núi non hùng vĩ bên ngoài.
-
-#### 📝 Prompt
-
-```
-Kiệt tác, chất lượng tốt nhất, hình ảnh điện ảnh siêu chi tiết về một lớp học bỏ hoang với lớp sơn màu xanh bong tróc trên tường và trần nhà. Ánh nắng chiếu qua những ô cửa sổ lớn bị vỡ, tạo nên những hình ảnh phản chiếu tuyệt đẹp trên sàn nhà ẩm ướt. Bên ngoài cửa sổ là khung cảnh tuyệt đẹp của những ngọn núi xanh và bầu trời xanh trong cùng những đám mây trắng bồng bềnh. Sự tương phản giữa lớp học đang xuống cấp và thế giới rực rỡ bên ngoài tạo nên một bầu không khí đầy cảm xúc. Kết cấu, ánh sáng và độ phản chiếu cực kỳ chi tiết. Tâm trạng đầy cảm xúc và đậm chất điện ảnh, chất lượng tốt nhất, độ phân giải 8K.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2127f4dccb275fa65ac86744afaa816b/thumbnails/thumbnail.jpg" width="600" alt="Lớp học bỏ hoang với tầm nhìn ra núi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6202)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067675094315614281) | **Published:** Jun 18, 2026
-
----
-### Cuộc trò chuyện thân mật về tương lai của cặp đôi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video tập trung vào cuộc đối thoại thân mật giữa một cặp đôi về những nỗi sợ của họ đối với tương lai.
-
-#### 📝 Prompt
-
-```
-Một cặp đôi có cuộc trò chuyện ngắn gọn, thân mật: chủ đề là "Em/Anh sợ tương lai".
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f6b3f28ed2764666ea0b351486db68a1/thumbnails/thumbnail.jpg" width="600" alt="Cuộc trò chuyện thân mật về tương lai của cặp đôi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6199)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2067674068950667319) | **Published:** Jun 18, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2196,6 +2196,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-28T04:39:53.837Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-28T10:47:16.373Z</sub>
 
 </div>
