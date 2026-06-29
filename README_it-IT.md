@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1983** |
+| 📝 Total Prompts | **1991** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-29** |
 
@@ -189,6 +189,120 @@ Una mistica e nobile Valchiria celestiale, una donna dignitosa e bellissima con 
 
 > 📝 Sorted by publish date (newest first)
 
+### Video di un divano che fa sandboarding nel deserto
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video dinamico che mostra un divano che fa sandboarding nel deserto con istruzioni specifiche per la telecamera.
+
+#### 📝 Prompt
+
+```
+Movimento di sandboarding nel deserto, il divano scivola fluido lungo la discesa verso destra, la telecamera segue il divano protagonista. Ripresa dinamica, mantieni la telecamera rivolta verso la parte anteriore del modello. Il volto del modello è privo di espressione. Non includere una vista panoramica...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071293819006627840/img/pdQ6g7DXonPOm6y7.jpg" width="600" alt="Video di un divano che fa sandboarding nel deserto">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6589)**
+
+**Author:** [Christian Kierulf](https://x.com/ChristianKieru1) | **Source:** [Link](https://x.com/ChristianKieru1/status/2071293887357018535) | **Published:** Jun 28, 2026
+
+---
+### Gattino che gioca nella neve
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt descrittivo dettagliato per un video di un gattino che salta tra i fiocchi di neve con movimenti di camera cinematografici.
+
+#### 📝 Prompt
+
+```
+Il soffice gattino salta giocosamente e zampetta tra i fiocchi di neve che cadono, colpendoli con le zampe anteriori nella neve fresca, con la coda che freme per l'eccitazione. La nevicata continua dolcemente, la camera mantiene una ripresa media fissa con un leggero e lento zoom in avanti.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071292994314264577/img/zp7RX3Yjf71_afrn.jpg" width="600" alt="Gattino che gioca nella neve">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6591)**
+
+**Author:** [grok_imagine_free_user](https://x.com/FreeGrokUser) | **Source:** [Link](https://x.com/FreeGrokUser/status/2071293051084120502) | **Published:** Jun 28, 2026
+
+---
+### Gruppo guidato dai robot Tesla Optimus
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video cinematografico che mostra diversi robot Tesla Optimus riuniti per guidare un gruppo nella giusta direzione.
+
+#### 📝 Prompt
+
+```
+Il gruppo viene raggiunto da molti altri robot Tesla Optimus che si posizionano attorno ad esso per aiutarlo a orientarsi nella direzione corretta
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071218685004382208/img/vu_YCh7uxGKIGN4v.jpg" width="600" alt="Gruppo guidato dai robot Tesla Optimus">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6592)**
+
+**Author:** [Joe Hogan](https://x.com/JoeHoganJr) | **Source:** [Link](https://x.com/JoeHoganJr/status/2071218760829071770) | **Published:** Jun 28, 2026
+
+---
+### Robot di utilità per il disboscamento
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video altamente dettagliato per un robot che libera il sottobosco con un machete, sorprendendo una lince rossa.
+
+#### 📝 Prompt
+
+```
+Un robot umanoide di utilità con rivestimento verde oliva usurato libera un fitto sottobosco con un grande machete ai margini di una foresta illuminata dal sole. A metà del movimento, mentre taglia i cespugli intricati e le foglie volano via, tra il fogliame che si apre una lince rossa tesa si accovaccia, con le orecchie all'indietro, dorata...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071122100564508672/img/c4Cd2x9QeKqLRyJD.jpg" width="600" alt="Robot di utilità per il disboscamento">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6586)**
+
+**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2071122156583571904) | **Published:** Jun 28, 2026
+
+---
+### Video di presentazione al centro di apprendimento spaziale
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video dettagliato che ritrae un gruppo di bambini che mostrano disegni e creazioni a tema spaziale presso un centro di apprendimento.
+
+#### 📝 Prompt
+
+```
+Durante la presentazione al centro di apprendimento spaziale, il bambino sul piccolo palco solleva delicatamente un razzo di carta mentre parla con gli amici seduti sul tappeto a tema galassia; poco lontano, altri bambini agitano i loro disegni di pianeti e una giostrina di stelle glitterate, con le mani alzate per fare a turno nel mostrare le proprie creazioni.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071104793569816576/img/uN0w0sAmBWrP697z.jpg" width="600" alt="Video di presentazione al centro di apprendimento spaziale">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6587)**
+
+**Author:** [Christina Mieloszyk](https://x.com/Stina_Lotus) | **Source:** [Link](https://x.com/Stina_Lotus/status/2071104897047527577) | **Published:** Jun 28, 2026
+
+---
+### Video di interazione con Mecha Kaiju
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video cinematografico che descrive un mecha kaiju lucertola che inclina il busto e respira tra le rovine.
+
+#### 📝 Prompt
+
+```
+Il mecha kaiju lucertola in posizione eretta inclina lentamente il suo busto pesante in avanti e mostra delicatamente il ventre corazzato verso la telecamera, con un sottile movimento di respirazione tra le placche, invitando al contatto: rovine al crepuscolo, atmosfera calma, leggero movimento di avvicinamento della telecamera.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071102594282647552/img/bG9x_bzWimQ31Upc.jpg" width="600" alt="Video di interazione con Mecha Kaiju">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6588)**
+
+**Author:** [ガトル](https://x.com/sakana_no_sippo) | **Source:** [Link](https://x.com/sakana_no_sippo/status/2071102648502387106) | **Published:** Jun 28, 2026
+
+---
 ### Video cinematografico del volo del condor delle Ande
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +320,25 @@ Scena in primo piano ultra-realistica di un condor delle Ande che vola sopra la 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6564)**
 
 **Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2071100026772971840) | **Published:** Jun 28, 2026
+
+---
+### Lettore di notizie a tarda notte
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video dettagliato per un piano sequenza cinematografico di un conduttore di telegiornale in studio con indicazioni specifiche sull'illuminazione.
+
+#### 📝 Prompt
+
+```
+Piano sequenza continuo. Un conduttore di telegiornale siede dietro una scrivania lucida in uno studio televisivo in penombra a tarda notte. Luce principale blu fredda, morbida luce ambrata di contorno proveniente dai monitor fuori campo. È a metà segmento, con i fogli allineati davanti a sé. Il conduttore...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071078793536487424/img/PXsbqWG82QPA_CcP.jpg" width="600" alt="Lettore di notizie a tarda notte">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6590)**
+
+**Author:** [michael Rozyla](https://x.com/ineverhad1) | **Source:** [Link](https://x.com/ineverhad1/status/2071078843331334538) | **Published:** Jun 28, 2026
 
 ---
 ### Poster manifesto in stile CRT retrò
@@ -741,6 +874,37 @@ Scena in primo piano ultra-realistica di una balena a Hermanus, nel Capo Occiden
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6434)**
 
 **Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2069654250263917021) | **Published:** Jun 24, 2026
+
+---
+### Video di gara a schermo diviso sincronizzato
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt completo per generare un video a schermo diviso sincronizzato di un'auto sportiva che derapa su un passo di montagna giapponese, con prospettive sia dal punto di vista interno del pilota che da una telecamera esterna a inseguimento.
+
+#### 📝 Prompt
+
+```
+Lo schermo presenta una configurazione a schermo diviso, diviso tra sinistra e destra. Entrambi i lati catturano lo stesso momento da diverse angolazioni, mostrando lo stesso veicolo, la stessa curva e lo stesso asse temporale.
+
+[Schermo sinistro]
+Telecamera interna dal punto di vista del pilota. All'interno di un'auto sportiva con roll-bar. Il personaggio è seduto al posto di guida e tiene il volante con entrambe le mani. Guida ad alta velocità su un passo di montagna giapponese, entrando e percorrendo un tornante. Gli occhi sono concentrati sulla direzione di marcia con un'espressione seria e concentrata. Le forze G laterali influenzano il corpo, con spalle e capelli che si spostano leggermente verso l'esterno. L'abbigliamento e i capelli ondeggiano naturalmente in risposta al movimento del veicolo. Include sedili a guscio, indicatori e un naturale tremolio della telecamera sincronizzato con le vibrazioni del veicolo.
+
+[Schermo destro]
+Telecamera in terza persona a inseguimento che segue lo stesso veicolo da una posizione leggermente rialzata e posteriore. Un paesaggio realistico di un passo di montagna giapponese circondato da foreste, con guardrail e linee di mezzeria. Il veicolo sta affrontando lo stesso tornante, mostrando il trasferimento di carico nella sua postura. Gli pneumatici aderiscono saldamente al manto stradale e le sospensioni si comprimono in modo naturale. Trasmette una curva ad alta velocità, un senso di velocità e dinamismo.
+
+[Indicazioni per la sincronizzazione]
+La parte sinistra e quella destra non sono scene diverse. L'input dello sterzo sullo schermo sinistro e il comportamento del veicolo sullo schermo destro sono perfettamente abbinati. Viene chiaramente trasmesso che due telecamere stanno riprendendo lo stesso momento. Viene rappresentata una sequenza continua di movimenti in curva senza tagli di scena o cambi di inquadratura.
+
+[Fase finale]
+Il veicolo accelera verso l'uscita della curva. Sullo schermo sinistro, il pilota riporta il volante al centro mentre accelera. Sullo schermo destro, il veicolo si muove in modo stabile verso la sezione successiva. Presenta un'accelerazione fluida, un comportamento realistico del veicolo e una sensazione immersiva simile a una trasmissione di motorsport. Personaggi anime di alta qualità, sfondi di alta qualità, rappresentazione realistica del veicolo, come una scena tratta da un'opera cinematografica.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069652913727934464/img/cD5otFSS6dkITuMi.jpg" width="600" alt="Video di gara a schermo diviso sincronizzato">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6593)**
+
+**Author:** [Eris Create Lab](https://x.com/Eris_Create_Lab) | **Source:** [Link](https://x.com/Eris_Create_Lab/status/2069652994598244645) | **Published:** Jun 24, 2026
 
 ---
 ### Script video per digital human Grok-imagine 1.5
@@ -1983,158 +2147,6 @@ Il bambino si solleva da terra come se l'UFO lo stesse attirando, il movimento d
 **Author:** [David Herbert Thomas](https://x.com/Diabach1972) | **Source:** [Link](https://x.com/Diabach1972/status/2067970008748110198) | **Published:** Jun 19, 2026
 
 ---
-### Partenza cinematografica di una flotta di astronavi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video cinematografico che mostra una flotta di astronavi avanzate che accelerano allontanandosi dall'orbita terrestre, con dinamiche dei propulsori realistiche e un drammatico movimento di macchina all'indietro.
-
-#### 📝 Prompt
-
-```
-La flotta di navi avanzate di classe Starship accelera con potenza allontanandosi dall'orbita terrestre, con dinamiche dei propulsori realistiche e bagliori luminosi. Un drammatico movimento di macchina all'indietro rivela la Terra che si restringe fino a diventare un lontano globo blu, mentre la Luna scorre accanto, transitando verso una prospettiva nello spazio profondo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067969292167983105/img/vm090Uo7YrihYVDO.jpg" width="600" alt="Partenza cinematografica di una flotta di astronavi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6248)**
-
-**Author:** [Adam B](https://x.com/DaExChef) | **Source:** [Link](https://x.com/DaExChef/status/2067969347268522403) | **Published:** Jun 19, 2026
-
----
-### Nave solitaria ed elefante isola
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Una scena drammatica e onirica che ritrae un uomo solo su una nave di fronte a un colossale elefante che trasporta un'intera isola.
-
-#### 📝 Prompt
-
-```
-Un uomo solo su una vecchia nave, che fissa qualcosa che non dovrebbe essere possibile: un colossale elefante antico che trasporta un'intera isola sul dorso. La scala, la luce che filtra tra le nuvole, le onde che si infrangono... tutto in questa scena appare immenso e onirico allo stesso tempo. Avventuroso e leggermente irreale, come imbattersi in un mito dimenticato nel mezzo dell'oceano. Dramma e atmosfera.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067964156440092672/img/a6xeaYFZmuBeqCzv.jpg" width="600" alt="Nave solitaria ed elefante isola">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6253)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067964231618789770) | **Published:** Jun 19, 2026
-
----
-### Tuta spaziale Tesla in stile sci-fi alla Daft Punk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt creativo sci-fi che ritrae una donna con casco dei Daft Punk e tuta spaziale Tesla in un paesaggio artico, mentre tiene in braccio un bambino e un peluche.
-
-#### 📝 Prompt
-
-```
-Foto ultra realistica, luminosa e brillante, illuminazione morbida e chiara, high key, toni chiari. Donna con casco dei Daft Punk nero lucido e oro, lunghi capelli fluenti bianco platino, indossa una tuta spaziale Tesla marrone opaco e nera con logo Tesla sul petto. Tiene delicatamente in braccio un bambino con una tutina bianca a motivi di orsetti, un mini casco dei Daft Punk e un piccolo logo Tesla. Tiene anche un grazioso peluche di Shiba Inu. Vasta e luminosa tundra artica innevata con montagne distanti sullo sfondo, cielo luminoso coperto, altamente dettagliato, fotorealistico, cinematografico.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067963385082224641/img/mPBQNO2QyPbKEgD_.jpg" width="600" alt="Tuta spaziale Tesla in stile sci-fi alla Daft Punk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6256)**
-
-**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2067963455508812163) | **Published:** Jun 19, 2026
-
----
-### Gattino tigrato arancione che gioca in un prato
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video che genera un tenero gattino che sbatte le palpebre e gioca con i fiori di campo in un prato soleggiato.
-
-#### 📝 Prompt
-
-```
-Il soffice gattino tigrato arancione sbatte i suoi grandi occhi, agita la coda in modo giocoso e tocca delicatamente un fiore di campo vicino mentre è seduto nel prato soleggiato, con una brezza leggera che muove l'erba.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067958878072115200/img/ZCTWjrB1moF2zACI.jpg" width="600" alt="Gattino tigrato arancione che gioca in un prato">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6241)**
-
-**Author:** [grok_imagine_free_user](https://x.com/FreeGrokUser) | **Source:** [Link](https://x.com/FreeGrokUser/status/2067958938692378627) | **Published:** Jun 19, 2026
-
----
-### Trailer cinematografico in stile Dark Hollywood
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt di generazione video per creare un trailer cinematografico in stile dark blockbuster basato su un personaggio.
-
-#### 📝 Prompt
-
-```
-Crea un trailer in stile blockbuster hollywoodiano basato su questo personaggio, delineando una trama dai toni oscuri
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067943275537862656/img/qzpFWZbF2wDwv-kR.jpg" width="600" alt="Trailer cinematografico in stile Dark Hollywood">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6242)**
-
-**Author:** [kramrogNL (33.3%)](https://x.com/kramrogNL) | **Source:** [Link](https://x.com/kramrogNL/status/2067943364117266808) | **Published:** Jun 19, 2026
-
----
-### Storia anime di un trilionario
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt narrativo in stile anime che descrive il viaggio di un ragazzo dal Sudafrica fino a diventare un trilionario.
-
-#### 📝 Prompt
-
-```
-La storia anime di un umile ragazzo del Sudafrica e il suo percorso per diventare il primo trilionario al mondo
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2066579935943147521/img/zWNMK7sOkThlgTRe.jpg" width="600" alt="Storia anime di un trilionario">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6320)**
-
-**Author:** [SMX 🇺🇸](https://x.com/iam_smx) | **Source:** [Link](https://x.com/iam_smx/status/2067899026339447040) | **Published:** Jun 19, 2026
-
----
-### Animazione in stile paper-cut di Budapest
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un bellissimo prompt per generare un video in stile paper-cut di Budapest, che include l'architettura storica e il fiume Danubio.
-
-#### 📝 Prompt
-
-```
-Budapest, Ungheria. Dove l'architettura storica, il fiume Danubio e le strade senza tempo si fondono in un meraviglioso mondo in stile paper-cut.
-```
-
-<img src="https://cms-assets.youmind.com/media/1782121028754_405t5z_HLKjCZbWgAAW4Xd.jpg" width="600" alt="Animazione in stile paper-cut di Budapest">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6255)**
-
-**Author:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2067894649663246574) | **Published:** Jun 19, 2026
-
----
-### Trasformazione surreale di un cono gelato
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per una trasformazione video surreale che trasforma un grande cono gelato al cioccolato in una struttura composta da minuscole persone in miniatura, basata su un'immagine di riferimento.
-
-#### 📝 Prompt
-
-```
-Nell'immagine di riferimento, trasforma il grande cono gelato al cioccolato in uno realizzato in modo surreale con innumerevoli minuscole persone iraniane in miniatura
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067815711146389504/img/0WmEi8m954NYcRFy.jpg" width="600" alt="Trasformazione surreale di un cono gelato">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6246)**
-
-**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2067815770705526878) | **Published:** Jun 19, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2196,6 +2208,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-29T04:58:40.637Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-29T12:55:34.934Z</sub>
 
 </div>

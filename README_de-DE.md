@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1983** |
+| 📝 Total Prompts | **1991** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-29** |
 
@@ -189,6 +189,120 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Video von einem Sofa beim Sandboarding in der Wüste
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein dynamischer Motion-Video-Prompt, der ein Sofa beim Sandboarding in der Wüste zeigt, inklusive spezifischer Kameraanweisungen.
+
+#### 📝 Prompt
+
+```
+Sandboarding-Bewegung in der Wüste, das Sofa Slides seidig glatt den Hang hinunter nach rechts, die Kamera folgt dem Sofa als Motiv. Dynamische Aufnahme, die Kamera bleibt auf die Vorderseite des Modells gerichtet. Das Gesicht des Modells ist ausdruckslos. Keine Fernaufnahme...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071293819006627840/img/pdQ6g7DXonPOm6y7.jpg" width="600" alt="Video von einem Sofa beim Sandboarding in der Wüste">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6589)**
+
+**Author:** [Christian Kierulf](https://x.com/ChristianKieru1) | **Source:** [Link](https://x.com/ChristianKieru1/status/2071293887357018535) | **Published:** Jun 28, 2026
+
+---
+### Kätzchen spielt im Schnee
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter beschreibender Prompt für ein Video eines Kätzchens, das mit filmischen Kamerabewegungen durch Schneeflocken springt.
+
+#### 📝 Prompt
+
+```
+Das flauschige Kätzchen springt verspielt umher und patscht nach den treibenden Schneeflocken, wobei es mit seinen Vorderpfoten durch den frischen Schnee wirbelt und der Schwanz vor Aufregung zuckt. Es schneit sanft weiter, die Kamera bleibt in einer ruhigen Halbtotale mit einem dezenten, langsamen Zoom nach vorne.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071292994314264577/img/zp7RX3Yjf71_afrn.jpg" width="600" alt="Kätzchen spielt im Schnee">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6591)**
+
+**Author:** [grok_imagine_free_user](https://x.com/FreeGrokUser) | **Source:** [Link](https://x.com/FreeGrokUser/status/2071293051084120502) | **Published:** Jun 28, 2026
+
+---
+### Tesla Optimus Roboter leiten eine Gruppe
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein cineastischer Video-Prompt, bei dem mehrere Tesla Optimus Roboter zusammenstehen, um eine Gruppe in die richtige Richtung zu führen.
+
+#### 📝 Prompt
+
+```
+Die Gruppe wird von vielen weiteren Tesla Optimus Robotern begleitet, die sich um die Gruppe herum aufstellen, um ihr den richtigen Weg zu weisen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071218685004382208/img/vu_YCh7uxGKIGN4v.jpg" width="600" alt="Tesla Optimus Roboter leiten eine Gruppe">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6592)**
+
+**Author:** [Joe Hogan](https://x.com/JoeHoganJr) | **Source:** [Link](https://x.com/JoeHoganJr/status/2071218760829071770) | **Published:** Jun 28, 2026
+
+---
+### Nutzroboter bei der Waldrodung
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochdetaillierter Video-Prompt für einen Roboter, der mit einer Machete Unterholz im Wald rodet und dabei einen Rotluchs überrascht.
+
+#### 📝 Prompt
+
+```
+Ein humanoider Nutzroboter mit abgenutzter olivgrüner Panzerung rodet dichtes Unterholz mit einer großen Machete an einem sonnendurchfluteten Waldrand. Mitten im Schwung durch verworrenes Gebüsch, Blätter fliegen umher; im geteilten Laub kauert ein angespannter Rotluchs mit angelegten Ohren, goldene...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071122100564508672/img/c4Cd2x9QeKqLRyJD.jpg" width="600" alt="Nutzroboter bei der Waldrodung">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6586)**
+
+**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2071122156583571904) | **Published:** Jun 28, 2026
+
+---
+### Video zum „Show and Tell“ im Weltraum-Lernzentrum
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Video-Prompt, der eine Gruppe von Kindern zeigt, die im Lernzentrum ihre Weltraum-Kunstwerke und Zeichnungen präsentieren.
+
+#### 📝 Prompt
+
+```
+Beim „Show and Tell“ im Weltraum-Lernzentrum hebt das Kind auf der kleinen Bühne behutsam eine Papierrakete hoch, während es mit Freunden auf dem Galaxie-Teppich spricht; in der Nähe schwenken Kinder ihre Planetenzeichnungen und ein glitzerndes Sternen-Mobile, während sie die Hände heben, um abwechselnd ihre Bastelarbeiten vorzustellen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071104793569816576/img/uN0w0sAmBWrP697z.jpg" width="600" alt="Video zum „Show and Tell“ im Weltraum-Lernzentrum">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6587)**
+
+**Author:** [Christina Mieloszyk](https://x.com/Stina_Lotus) | **Source:** [Link](https://x.com/Stina_Lotus/status/2071104897047527577) | **Published:** Jun 28, 2026
+
+---
+### Mecha-Kaiju-Interaktionsvideo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein filmischer Video-Prompt, der ein Mecha-Kaiju-Reptil beschreibt, das seinen Oberkörper neigt und inmitten von Ruinen atmet.
+
+#### 📝 Prompt
+
+```
+Das aufrecht stehende Mecha-Kaiju-Reptil neigt langsam seinen schweren Oberkörper nach vorne und präsentiert sanft seinen gepanzerten Bauch in Richtung Kamera, mit subtilen Atembewegungen der Panzerplatten, die zu einer Berührung einladen – ruhige Ruinen in der Abenddämmerung, sanfter Kamera-Zoom.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071102594282647552/img/bG9x_bzWimQ31Upc.jpg" width="600" alt="Mecha-Kaiju-Interaktionsvideo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6588)**
+
+**Author:** [ガトル](https://x.com/sakana_no_sippo) | **Source:** [Link](https://x.com/sakana_no_sippo/status/2071102648502387106) | **Published:** Jun 28, 2026
+
+---
 ### Andenkondor im Flug – Kinoreife Aufnahme
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +320,25 @@ Ultrarealistische Nahaufnahme eines Andenkondors, der über die Anden fliegt.
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6564)**
 
 **Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2071100026772971840) | **Published:** Jun 28, 2026
+
+---
+### Late-Night-Nachrichtensprecher
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Video-Prompt für eine filmische Kameraeinstellung ohne Schnitt eines Nachrichtensprechers in einem Studio mit spezifischen Beleuchtungsanweisungen.
+
+#### 📝 Prompt
+
+```
+Durchgehende Kameraeinstellung ohne Schnitt. Ein Nachrichtensprecher sitzt hinter einem polierten Nachrichtentisch in einem abgedunkelten Late-Night-Sendestudio. Kaltes blaues Hauptlicht, weiches bernsteinfarbenes Kantenlicht von Monitoren außerhalb des Bildes. Mitten im Beitrag, die Unterlagen liegen ordentlich vor ihm. Der Nachrichtensprecher s...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071078793536487424/img/PXsbqWG82QPA_CcP.jpg" width="600" alt="Late-Night-Nachrichtensprecher">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6590)**
+
+**Author:** [michael Rozyla](https://x.com/ineverhad1) | **Source:** [Link](https://x.com/ineverhad1/status/2071078843331334538) | **Published:** Jun 28, 2026
 
 ---
 ### Retro-CRT-Manifest-Poster
@@ -741,6 +874,37 @@ Ultrarealistische Nahaufnahme eines Wals in Hermanus, Westkap, Südafrika.
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6434)**
 
 **Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2069654250263917021) | **Published:** Jun 24, 2026
+
+---
+### Synchronisiertes Split-Screen-Rennvideo
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ein umfassender Prompt zur Erstellung eines synchronisierten Split-Screen-Videos eines Sportwagens beim Driften auf einem japanischen Gebirgspass, das sowohl die Fahrerperspektive (POV) als auch eine externe Verfolgerkamera zeigt.
+
+#### 📝 Prompt
+
+```
+Der Bildschirm ist in eine linke und eine rechte Hälfte unterteilt. Beide Seiten erfassen denselben Moment aus unterschiedlichen Kamerawinkeln und zeigen dasselbe Fahrzeug, dieselbe Kurve und denselben Zeitverlauf.
+
+[Linker Bildschirm]
+Fahrerperspektive aus dem Innenraum. Im Inneren eines Sportwagens mit Überrollkäfig. Die Figur sitzt auf dem Fahrersitz und hält das Lenkrad mit beiden Händen. Fahrt mit hoher Geschwindigkeit auf einem japanischen Gebirgspass, Einfahrt in eine Haarnadelkurve. Der Blick ist konzentriert und ernst auf die Fahrtrichtung gerichtet. Seitliche G-Kräfte wirken auf den Körper, Schultern und Haare bewegen sich leicht nach außen. Kleidung und Haare schwingen natürlich mit der Fahrzeugbewegung mit. Zu sehen sind Schalensitze, Armaturen und ein natürliches, auf die Fahrzeugvibrationen abgestimmtes Kamerawackeln.
+
+[Rechter Bildschirm]
+Third-Person-Verfolgerkamera, die das Fahrzeug leicht von oben und hinten begleitet. Eine realistische Landschaft eines japanischen Gebirgspasses, umgeben von Wäldern, mit Leitplanken und Mittellinien. Das Fahrzeug durchfährt dieselbe Haarnadelkurve, wobei die Gewichtsverlagerung in der Karosseriehaltung erkennbar ist. Die Reifen greifen fest auf den Straßenbelag, die Federung wird natürlich komprimiert. Vermittelt Kurvenfahrt bei hoher Geschwindigkeit, ein Gefühl von Tempo und Dynamik.
+
+[Synchronisationsanweisungen]
+Die linke und rechte Seite zeigen keine unterschiedlichen Szenen. Der Lenkeinschlag auf dem linken Bildschirm und das Fahrzeugverhalten auf dem rechten Bildschirm sind perfekt aufeinander abgestimmt. Es wird deutlich vermittelt, dass zwei Kameras denselben Moment filmen. Eine kontinuierliche Abfolge der Kurvenbewegung wird ohne Szenenschnitte oder Kamerawechsel dargestellt.
+
+[Abschluss]
+Das Fahrzeug beschleunigt in Richtung Kurvenausgang. Auf dem linken Bildschirm lenkt der Fahrer beim Beschleunigen wieder gerade. Auf dem rechten Bildschirm bewegt sich das Fahrzeug stabil in Richtung des nächsten Abschnitts. Mit sanfter Beschleunigung, realistischem Fahrzeugverhalten und einem immersiven Gefühl wie bei einer Motorsportübertragung. Hochwertige Anime-Charaktere, hochwertige Hintergründe, realistische Fahrzeugdarstellung, wie eine Szene aus einem Kinofilm.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069652913727934464/img/cD5otFSS6dkITuMi.jpg" width="600" alt="Synchronisiertes Split-Screen-Rennvideo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6593)**
+
+**Author:** [Eris Create Lab](https://x.com/Eris_Create_Lab) | **Source:** [Link](https://x.com/Eris_Create_Lab/status/2069652994598244645) | **Published:** Jun 24, 2026
 
 ---
 ### Grok-imagine 1.5 Digital Human Videoskript
@@ -1982,158 +2146,6 @@ Das Kind hebt vom Boden ab, als würde es vom UFO hochgezogen, die Kamera folgt 
 **Author:** [David Herbert Thomas](https://x.com/Diabach1972) | **Source:** [Link](https://x.com/Diabach1972/status/2067970008748110198) | **Published:** Jun 19, 2026
 
 ---
-### Filmreifer Abflug einer Starship-Flotte im Weltraum
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein filmreifer Video-Prompt, der eine Flotte fortschrittlicher Raumschiffe zeigt, die mit realistischer Triebwerksdynamik und einer dramatischen Kamera-Rückwärtsfahrt aus der Erdumlaufbahn beschleunigen.
-
-#### 📝 Prompt
-
-```
-Die Flotte fortschrittlicher Schiffe der Starship-Klasse beschleunigt kraftvoll aus der Erdumlaufbahn, begleitet von realistischer Triebwerksdynamik und hellen Leuchterscheinungen. Eine dramatische Kamera-Rückwärtsfahrt zeigt, wie die Erde zu einer fernen blauen Murmel schrumpft, während der Mond vorbeizieht und die Szene in eine Perspektive des tiefen Weltraums übergeht.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067969292167983105/img/vm090Uo7YrihYVDO.jpg" width="600" alt="Filmreifer Abflug einer Starship-Flotte im Weltraum">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6248)**
-
-**Author:** [Adam B](https://x.com/DaExChef) | **Source:** [Link](https://x.com/DaExChef/status/2067969347268522403) | **Published:** Jun 19, 2026
-
----
-### Einsames Schiff und Insel-Elefant
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eine dramatische, traumartige Szene, in der ein einsamer Mann auf einem Schiff auf einen kolossalen Elefanten trifft, der eine ganze Insel trägt.
-
-#### 📝 Prompt
-
-```
-Ein einsamer Mann auf einem alten Schiff, der auf etwas starrt, das eigentlich unmöglich sein sollte: ein kolossaler, uralter Elefant, der eine ganze Insel auf seinem Rücken trägt. Die Dimensionen, das Licht, das durch die Wolken bricht, die brechenden Wellen… alles an dieser Szene wirkt gleichzeitig gewaltig und traumhaft. Abenteuerlich und fast schon unwirklich, als würde man mitten auf dem Ozean über einen vergessenen Mythos stolpern. Drama und Atmosphäre.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067964156440092672/img/a6xeaYFZmuBeqCzv.jpg" width="600" alt="Einsames Schiff und Insel-Elefant">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6253)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067964231618789770) | **Published:** Jun 19, 2026
-
----
-### Sci-Fi Daft Punk Tesla Raumanzug
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein kreativer Sci-Fi-Prompt für eine Frau mit Daft Punk-Helm und Tesla-Raumanzug in einer arktischen Landschaft, die ein Baby und ein Plüschtier hält.
-
-#### 📝 Prompt
-
-```
-Ultrarealistisches Foto, hell und leuchtend, weiche helle Beleuchtung, High-Key-Beleuchtung, hellere Farbtöne. Frau mit glänzendem schwarz-goldenen Daft Punk-Helm und langem, fließendem platinweißem Haar, trägt einen matten braun-schwarzen Tesla-Raumanzug mit Tesla-Logo auf der Brust. Sie hält sanft ein Baby in einem weißen Strampler mit Teddybären-Muster, das einen Mini-Daft Punk-Helm und ein kleines Tesla-Logo trägt. Außerdem hält sie ein süßes Shiba Inu-Plüschtier. Weite, helle, verschneite arktische Tundra mit fernen Bergen im Hintergrund, heller bewölkter Himmel, hochdetailliert, fotorealistisch, filmisch.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067963385082224641/img/mPBQNO2QyPbKEgD_.jpg" width="600" alt="Sci-Fi Daft Punk Tesla Raumanzug">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6256)**
-
-**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2067963455508812163) | **Published:** Jun 19, 2026
-
----
-### Verspieltes orangefarbenes getigertes Kätzchen auf einer Blumenwiese
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Prompt zur Generierung eines niedlichen Kätzchens, das blinzelt und in einer sonnigen Wiese mit Wildblumen spielt.
-
-#### 📝 Prompt
-
-```
-Das flauschige, orangefarbene getigerte Kätzchen blinzelt mit seinen großen Augen, zuckt verspielt mit dem Schwanz und stupst sanft eine nahegelegene Wildblume an, während es auf der sonnigen Wiese sitzt und eine sanfte Brise das Gras bewegt.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067958878072115200/img/ZCTWjrB1moF2zACI.jpg" width="600" alt="Verspieltes orangefarbenes getigertes Kätzchen auf einer Blumenwiese">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6241)**
-
-**Author:** [grok_imagine_free_user](https://x.com/FreeGrokUser) | **Source:** [Link](https://x.com/FreeGrokUser/status/2067958938692378627) | **Published:** Jun 19, 2026
-
----
-### Düsterer Hollywood-Blockbuster-Trailer
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Videogenerierungs-Prompt zur Erstellung eines düsteren, filmreifen Blockbuster-Trailers basierend auf einem Charakter.
-
-#### 📝 Prompt
-
-```
-Erstelle mir einen Hollywood-Blockbuster-Trailer basierend auf diesem Charakter und entwirf eine düstere Handlung.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067943275537862656/img/qzpFWZbF2wDwv-kR.jpg" width="600" alt="Düsterer Hollywood-Blockbuster-Trailer">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6242)**
-
-**Author:** [kramrogNL (33.3%)](https://x.com/kramrogNL) | **Source:** [Link](https://x.com/kramrogNL/status/2067943364117266808) | **Published:** Jun 19, 2026
-
----
-### Trillionär-Anime-Geschichte
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Anime-Narrativ-Prompt, der den Weg eines Jungen aus Südafrika zum Trillionär beschreibt.
-
-#### 📝 Prompt
-
-```
-Die Anime-Geschichte eines bescheidenen Jungen aus Südafrika und sein Weg zum ersten Trillionär der Welt
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2066579935943147521/img/zWNMK7sOkThlgTRe.jpg" width="600" alt="Trillionär-Anime-Geschichte">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6320)**
-
-**Author:** [SMX 🇺🇸](https://x.com/iam_smx) | **Source:** [Link](https://x.com/iam_smx/status/2067899026339447040) | **Published:** Jun 19, 2026
-
----
-### Budapest Scherenschnitt-Welt Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein wunderschöner Prompt zur Erstellung eines Videos von Budapest im Scherenschnitt-Stil, einschließlich historischer Architektur und der Donau.
-
-#### 📝 Prompt
-
-```
-Budapest, Ungarn. Wo historische Architektur, die Donau und zeitlose Straßen in einer wunderschönen Scherenschnitt-Welt zusammenkommen.
-```
-
-<img src="https://cms-assets.youmind.com/media/1782121028754_405t5z_HLKjCZbWgAAW4Xd.jpg" width="600" alt="Budapest Scherenschnitt-Welt Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6255)**
-
-**Author:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2067894649663246574) | **Published:** Jun 19, 2026
-
----
-### Surreale Verwandlung einer Eiswaffel
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein surrealer Video-Transformations-Prompt, der eine große Schokoladeneiswaffel basierend auf einem Referenzbild in eine Struktur aus winzigen Miniaturmenschen verwandelt.
-
-#### 📝 Prompt
-
-```
-Verwandle im Referenzbild die große Schokoladeneiswaffel in eine surrealistische Struktur, die aus unzähligen winzigen iranischen Miniaturmenschen besteht
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067815711146389504/img/0WmEi8m954NYcRFy.jpg" width="600" alt="Surreale Verwandlung einer Eiswaffel">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6246)**
-
-**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2067815770705526878) | **Published:** Jun 19, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2195,6 +2207,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-29T04:58:37.355Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-29T12:55:32.254Z</sub>
 
 </div>

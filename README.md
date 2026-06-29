@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1983** |
+| 📝 Total Prompts | **1991** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-29** |
 
@@ -189,6 +189,120 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Desert Couch Sandboarding Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A dynamic motion video prompt featuring a couch sandboarding in the desert with specific camera instructions.
+
+#### 📝 Prompt
+
+```
+Desert sandboarding motion, the couch silky smooth slides downhill to the right, the camera follow the subject couch. Dynamic shot, keep the camera face the front of the model. The model's face is expressionless。Do not have a distant view....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071293819006627840/img/pdQ6g7DXonPOm6y7.jpg" width="600" alt="Desert Couch Sandboarding Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6589)**
+
+**Author:** [Christian Kierulf](https://x.com/ChristianKieru1) | **Source:** [Link](https://x.com/ChristianKieru1/status/2071293887357018535) | **Published:** Jun 28, 2026
+
+---
+### Kitten Playing in Snow
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed descriptive prompt for a video of a kitten leaping through snowflakes with cinematic camera movements.
+
+#### 📝 Prompt
+
+```
+The fluffy kitten playfully leaps and paws at drifting snowflakes, batting with its front paws through the fresh snow, tail twitching with excitement. Gentle snowfall continues, camera holds a steady medium shot with subtle slow push-in.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071292994314264577/img/zp7RX3Yjf71_afrn.jpg" width="600" alt="Kitten Playing in Snow">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6591)**
+
+**Author:** [grok_imagine_free_user](https://x.com/FreeGrokUser) | **Source:** [Link](https://x.com/FreeGrokUser/status/2071293051084120502) | **Published:** Jun 28, 2026
+
+---
+### Tesla Optimus Robots Guiding Group
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt featuring multiple Tesla Optimus robots standing together to guide a group in the right direction.
+
+#### 📝 Prompt
+
+```
+The group is joined by many other Tesla Optimus robots that stand around the group to help guide them in the proper direction
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071218685004382208/img/vu_YCh7uxGKIGN4v.jpg" width="600" alt="Tesla Optimus Robots Guiding Group">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6592)**
+
+**Author:** [Joe Hogan](https://x.com/JoeHoganJr) | **Source:** [Link](https://x.com/JoeHoganJr/status/2071218760829071770) | **Published:** Jun 28, 2026
+
+---
+### Utility Robot Forest Clearance
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed video prompt for a robot clearing forest brush with a machete, surprising a bobcat.
+
+#### 📝 Prompt
+
+```
+A humanoid utility robot in worn olive-green plating clears dense underbrush with a large machete in a sun-dappled forest edge. Mid-action swing through tangled bushes, leaves flying; in the parted foliage a tense bobcat crouches low, ears back, gold...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071122100564508672/img/c4Cd2x9QeKqLRyJD.jpg" width="600" alt="Utility Robot Forest Clearance">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6586)**
+
+**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2071122156583571904) | **Published:** Jun 28, 2026
+
+---
+### Space Learning Center Show and Tell Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video prompt depicting a group of children sharing space-themed art and drawings at a learning center.
+
+#### 📝 Prompt
+
+```
+At the space learning center show-and-tell, the child on the little stage gently lifts a paper rocket while talking to friends on the galaxy rug; nearby kids wave their planet drawings and a glitter star mobile, hands raised to take turns sharing what they made.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071104793569816576/img/uN0w0sAmBWrP697z.jpg" width="600" alt="Space Learning Center Show and Tell Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6587)**
+
+**Author:** [Christina Mieloszyk](https://x.com/Stina_Lotus) | **Source:** [Link](https://x.com/Stina_Lotus/status/2071104897047527577) | **Published:** Jun 28, 2026
+
+---
+### Mecha Kaiju Interaction Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt describing a mecha kaiju lizard tilting its torso and breathing in ruins.
+
+#### 📝 Prompt
+
+```
+The upright lizard mecha kaiju slowly tilts its heavy torso forward and gently presents its armored belly toward the camera, subtle breathing motion in the plates, inviting a touch—calm dusk ruins, soft camera push-in.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071102594282647552/img/bG9x_bzWimQ31Upc.jpg" width="600" alt="Mecha Kaiju Interaction Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6588)**
+
+**Author:** [ガトル](https://x.com/sakana_no_sippo) | **Source:** [Link](https://x.com/sakana_no_sippo/status/2071102648502387106) | **Published:** Jun 28, 2026
+
+---
 ### Andean Condor Flight Cinematic
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +320,25 @@ Ultra-realistic close-up scene of an Andean condor flying over the Andes Mountai
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6564)**
 
 **Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2071100026772971840) | **Published:** Jun 28, 2026
+
+---
+### Late Night News Reader
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video prompt for a cinematic continuous take of a newsreader in a studio with specific lighting directions.
+
+#### 📝 Prompt
+
+```
+Single continuous take. A newsreader sits behind a polished anchor desk in a dim, late-night broadcast studio. Cold blue key light, soft amber rim light from off-camera monitors. They are mid-segment, papers squared in front of them. The newsreader s...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071078793536487424/img/PXsbqWG82QPA_CcP.jpg" width="600" alt="Late Night News Reader">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6590)**
+
+**Author:** [michael Rozyla](https://x.com/ineverhad1) | **Source:** [Link](https://x.com/ineverhad1/status/2071078843331334538) | **Published:** Jun 28, 2026
 
 ---
 ### Retro CRT Manifesto Poster
@@ -227,11 +360,11 @@ Slow cinematic push-in on the manifesto poster. CRT scanlines drift subtly, phos
 **Author:** [David Herbert Thomas](https://x.com/Diabach1972) | **Source:** [Link](https://x.com/Diabach1972/status/2070952100410872189) | **Published:** Jun 27, 2026
 
 ---
-### Woman Walking Through Sunflower Field
+### Woman Walking in Sunflowers
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt of a woman in a white sundress strolling through a sunflower field during a gentle breeze.
+> A realistic video prompt of a woman in a white sundress walking through a sunflower field under a gentle breeze.
 
 #### 📝 Prompt
 
@@ -239,7 +372,7 @@ Slow cinematic push-in on the manifesto poster. CRT scanlines drift subtly, phos
 Ultra-realistic close-up scene of a beautiful woman in a beautiful white sundress walking through a field of sunflowers with a gentle breeze.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070883239917711360/img/06wbHnBCrTE_afO9.jpg" width="600" alt="Woman Walking Through Sunflower Field">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070883239917711360/img/06wbHnBCrTE_afO9.jpg" width="600" alt="Woman Walking in Sunflowers">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6560)**
 
@@ -265,11 +398,11 @@ A cozy attic room filled with vintage treasures, old maps, potted plants, fairy 
 **Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2070856044876902482) | **Published:** Jun 27, 2026
 
 ---
-### Woman in Red Cloak with Apple
+### Mysterious Woman with Red Apple
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt of a mysterious woman in a red cloak holding an apple under an old tree.
+> A cinematic video prompt for a close-up scene of a woman in a red hooded cloak holding an apple under a tree.
 
 #### 📝 Prompt
 
@@ -277,7 +410,7 @@ A cozy attic room filled with vintage treasures, old maps, potted plants, fairy 
 Ultra-realistic close-up scene of a mysterious young woman in a deep red hooded cloak holding a bright red apple beneath an old apple tree.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070822235099504640/img/2GsgtT4YdnmnI_uS.jpg" width="600" alt="Woman in Red Cloak with Apple">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070822235099504640/img/2GsgtT4YdnmnI_uS.jpg" width="600" alt="Mysterious Woman with Red Apple">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6561)**
 
@@ -303,11 +436,11 @@ Mira guides the camera on a playful walkthrough inside the Attack of the 50 Foot
 **Author:** [Brian](https://x.com/luvsheight) | **Source:** [Link](https://x.com/luvsheight/status/2070828620747063692) | **Published:** Jun 27, 2026
 
 ---
-### Stallion Running in Open Field
+### Running Black Stallion Video Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A realistic video prompt that captures the powerful motion of a black stallion horse running through a green open field.
+> An ultra-realistic video prompt for Grok Imagine featuring a close-up of a black stallion galloping in an open field.
 
 #### 📝 Prompt
 
@@ -315,7 +448,7 @@ Mira guides the camera on a playful walkthrough inside the Attack of the 50 Foot
 Ultra-realistic close-up scene of a black stallion horse running in a green open field.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070821975010758656/img/YB5H88tCBylmvaM9.jpg" width="600" alt="Stallion Running in Open Field">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070821975010758656/img/YB5H88tCBylmvaM9.jpg" width="600" alt="Running Black Stallion Video Prompt">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6558)**
 
@@ -667,19 +800,22 @@ Have the galaxy/nebula slowly rotate until it morphs into a large cocktail shrim
 **Author:** [Lynn Hocker](https://x.com/Auroraskye3993) | **Source:** [Link](https://x.com/Auroraskye3993/status/2070054843604181021) | **Published:** Jun 25, 2026
 
 ---
-### Ancient Roman Forum Fruit Seller
+### Ancient Roman Forum Morning Scene
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A cinematic historical recreation of a 1st-century Roman Forum morning, featuring a fruit seller calling out in Latin.
+> A historical scene prompt depicting a fruit seller in the 1st century AD Roman Forum at dawn.
 
 #### 📝 Prompt
 
 ```
-1st century AD morning at the Roman Forum — a fruit seller. Her call in Latin: "Bona poma!" — "Fine fruit!" "Dulcia poma!" — "Sweet fruit!"
+1st century AD morning at the Roman Forum 
+— a fruit seller. Her call in Latin: 
+ "Bona poma!" — "Fine fruit!" 
+ "Dulcia poma!" — "Sweet fruit!"
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069990879486783488/img/5UrjpNsEn_CuOTWU.jpg" width="600" alt="Ancient Roman Forum Fruit Seller">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069990879486783488/img/5UrjpNsEn_CuOTWU.jpg" width="600" alt="Ancient Roman Forum Morning Scene">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6563)**
 
@@ -741,6 +877,37 @@ Ultra-realistic close-up scene of a whale in Hermanus, Western Cape, South Afric
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6434)**
 
 **Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2069654250263917021) | **Published:** Jun 24, 2026
+
+---
+### Synchronized Split-Screen Racing Video
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A comprehensive prompt for generating a synchronized split-screen video of a sports car drifting on a Japanese mountain pass, featuring both interior driver POV and exterior chase camera perspectives.
+
+#### 📝 Prompt
+
+```
+The screen features a split-screen configuration divided into left and right. Both sides capture the same moment from different camera angles, showing the same vehicle, the same corner, and the same time axis.
+
+[Left Screen]
+In-car driver camera. Inside a sports car with a roll cage. The character is in the driver's seat holding the steering wheel with both hands. Driving at high speed on a Japanese mountain pass, entering and turning through a hairpin corner. Eyes are focused on the direction of travel with a serious and concentrated expression. Lateral G-forces affect the body, with shoulders and hair flowing slightly outward. Clothing and hair sway naturally in response to vehicle movement. Features bucket seats, gauges, and natural camera shake synchronized with vehicle vibration.
+
+[Right Screen]
+Third-person chase camera following the same vehicle from slightly above and behind. A realistic landscape of a Japanese mountain pass surrounded by forests, featuring guardrails and center lines. The vehicle is turning through the same hairpin corner, showing weight transfer in its posture. Tires grip the road surface firmly, and suspension compresses naturally. Conveys high-speed cornering, a sense of speed, and dynamism.
+
+[Synchronization Direction]
+The left and right are not different scenes. The steering input on the left screen and the vehicle behavior on the right screen are perfectly matched. It clearly conveys that two cameras are filming the same moment. A continuous sequence of cornering movements is depicted without scene cuts or camera switches.
+
+[Final Stage]
+The vehicle accelerates toward the corner exit. On the left screen, the driver returns the steering wheel to center as they accelerate. On the right screen, the vehicle moves stably toward the next section. Features smooth acceleration, realistic vehicle behavior, and an immersive feeling like a motorsport broadcast. High-quality anime characters, high-quality backgrounds, realistic vehicle representation, like a scene from a cinematic work.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069652913727934464/img/cD5otFSS6dkITuMi.jpg" width="600" alt="Synchronized Split-Screen Racing Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6593)**
+
+**Author:** [Eris Create Lab](https://x.com/Eris_Create_Lab) | **Source:** [Link](https://x.com/Eris_Create_Lab/status/2069652994598244645) | **Published:** Jun 24, 2026
 
 ---
 ### Grok-imagine 1.5 Digital Human Video Script
@@ -955,11 +1122,11 @@ Space elevator bringing people and cargo up psychedelic experience lots of stars
 **Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2069426293360194028) | **Published:** Jun 23, 2026
 
 ---
-### Retro Diner Cereal Milk Splash Video
+### Cinematic Retro Diner Cereal Surprise
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt featuring a young girl in a retro kitchen as cereal and milk burst upward in dramatic slow motion with magical lighting.
+> A highly detailed cinematic video prompt for a cozy retro kitchen scene where cereal and milk float in magical slow motion as a young girl reacts with surprise.
 
 #### 📝 Prompt
 
@@ -977,7 +1144,7 @@ Girl’s surprised gasp.
 Fun playful background music.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069395437908643841/img/g-URoeS90azUiBUG.jpg" width="600" alt="Retro Diner Cereal Milk Splash Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069395437908643841/img/g-URoeS90azUiBUG.jpg" width="600" alt="Cinematic Retro Diner Cereal Surprise">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6398)**
 
@@ -1983,158 +2150,6 @@ The child lifts off of the ground as if the UFO is pulling him in, camera moveme
 **Author:** [David Herbert Thomas](https://x.com/Diabach1972) | **Source:** [Link](https://x.com/Diabach1972/status/2067970008748110198) | **Published:** Jun 19, 2026
 
 ---
-### Starship fleet space departure cinematic
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt showing a fleet of advanced starships accelerating away from Earth orbit with realistic thruster dynamics and a dramatic camera pull-back.
-
-#### 📝 Prompt
-
-```
-The fleet of advanced Starship-class vessels accelerates powerfully away from Earth orbit with realistic thruster dynamics and bright flares. Dramatic camera pull-back reveals Earth shrinking to a distant blue marble as the Moon drifts past, transitioning into a deep space perspective.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067969292167983105/img/vm090Uo7YrihYVDO.jpg" width="600" alt="Starship fleet space departure cinematic">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6248)**
-
-**Author:** [Adam B](https://x.com/DaExChef) | **Source:** [Link](https://x.com/DaExChef/status/2067969347268522403) | **Published:** Jun 19, 2026
-
----
-### Lone Ship and Island Elephant
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A dramatic, dreamlike scene featuring a lone man on a ship encountering a colossal elephant carrying an entire island.
-
-#### 📝 Prompt
-
-```
-A lone man on an old ship, staring at something that shouldn’t be possible a colossal ancient elephant carrying an entire island on its back. The scale, the light breaking through the clouds, the crashing waves… everything about this scene feels massive and dreamlike at the same time. adventurous and slightly unreal, like stumbling upon a forgotten myth in the middle of the ocean. drama and atmosphere
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067964156440092672/img/a6xeaYFZmuBeqCzv.jpg" width="600" alt="Lone Ship and Island Elephant">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6253)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067964231618789770) | **Published:** Jun 19, 2026
-
----
-### Daft Punk Tesla Spacesuit Arctic Adventure
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A futuristic video prompt for Grok Imagine depicting a woman in a Daft Punk helmet and Tesla spacesuit in a snowy arctic landscape.
-
-#### 📝 Prompt
-
-```
-Ultra realistic photo, bright and luminous, soft bright lighting, high key lighting, lighter tones. Woman in glossy black and gold Daft Punk helmet with long flowing platinum white hair, wearing a matte brown and black Tesla spacesuit with Tesla logo on chest. She gently holds a baby in white teddy bear patterned onesie with mini Daft Punk helmet and small Tesla logo. She also holds a cute Shiba Inu plush toy. Vast bright snowy arctic tundra with distant mountains in the background, bright overcast sky, highly detailed, photorealistic, cinematic.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067963385082224641/img/mPBQNO2QyPbKEgD_.jpg" width="600" alt="Daft Punk Tesla Spacesuit Arctic Adventure">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6256)**
-
-**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2067963455508812163) | **Published:** Jun 19, 2026
-
----
-### Playful Orange Tabby Kitten in Meadow
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video prompt generating a cute kitten blinking and playing with wildflowers in a sunny meadow.
-
-#### 📝 Prompt
-
-```
-The fluffy orange tabby kitten blinks its big eyes, twitches its tail playfully, and gently paws at a nearby wildflower while sitting in the sunny meadow, with soft breeze rustling the grass.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067958878072115200/img/ZCTWjrB1moF2zACI.jpg" width="600" alt="Playful Orange Tabby Kitten in Meadow">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6241)**
-
-**Author:** [grok_imagine_free_user](https://x.com/FreeGrokUser) | **Source:** [Link](https://x.com/FreeGrokUser/status/2067958938692378627) | **Published:** Jun 19, 2026
-
----
-### Dark Hollywood Blockbuster Trailer
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video generation prompt for creating a dark cinematic blockbuster trailer based on a character.
-
-#### 📝 Prompt
-
-```
-Make me a hollywood blockbuster like trailer based on this character, plotting some dark shit
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067943275537862656/img/qzpFWZbF2wDwv-kR.jpg" width="600" alt="Dark Hollywood Blockbuster Trailer">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6242)**
-
-**Author:** [kramrogNL (33.3%)](https://x.com/kramrogNL) | **Source:** [Link](https://x.com/kramrogNL/status/2067943364117266808) | **Published:** Jun 19, 2026
-
----
-### Trillionaire Anime Story
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An anime narrative prompt describing the journey of a boy from South Africa to becoming a trillionaire.
-
-#### 📝 Prompt
-
-```
-The anime story of a humble boy from South Africa and his journey to becoming the world’s first trillionaire
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2066579935943147521/img/zWNMK7sOkThlgTRe.jpg" width="600" alt="Trillionaire Anime Story">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6320)**
-
-**Author:** [SMX 🇺🇸](https://x.com/iam_smx) | **Source:** [Link](https://x.com/iam_smx/status/2067899026339447040) | **Published:** Jun 19, 2026
-
----
-### Paper-cut Budapest Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A stylized animation prompt that recreates Budapest's historic architecture and river in a beautiful paper-cut artistic style.
-
-#### 📝 Prompt
-
-```
-Budapest, Hungary, Where historic architecture, the Danube River, and timeless streets come together in a beautiful paper-cut world.
-```
-
-<img src="https://cms-assets.youmind.com/media/1782121028754_405t5z_HLKjCZbWgAAW4Xd.jpg" width="600" alt="Paper-cut Budapest Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6255)**
-
-**Author:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2067894649663246574) | **Published:** Jun 19, 2026
-
----
-### Surreal ice cream cone transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A surreal video transformation prompt that turns a large chocolate ice cream cone into a structure made of tiny miniature people based on a reference image.
-
-#### 📝 Prompt
-
-```
-In the reference image, transform the large chocolate ice cream cone into one surrealistically made up of countless tiny miniature Iranian people
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067815711146389504/img/0WmEi8m954NYcRFy.jpg" width="600" alt="Surreal ice cream cone transformation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6246)**
-
-**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2067815770705526878) | **Published:** Jun 19, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2196,6 +2211,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-29T04:58:21.097Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-29T12:55:15.854Z</sub>
 
 </div>

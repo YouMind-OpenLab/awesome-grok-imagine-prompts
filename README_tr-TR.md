@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1983** |
+| 📝 Total Prompts | **1991** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-29** |
 
@@ -189,6 +189,120 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Çölde Kanepe ile Kum Sörfü Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Çölde kum sörfü yapan bir kanepeyi konu alan, özel kamera talimatları içeren dinamik bir hareketli video istemi.
+
+#### 📝 Prompt
+
+```
+Çölde kum sörfü hareketi, kanepe sağa doğru pürüzsüz bir şekilde Slides yapıyor, kamera kanepeyi takip ediyor. Dinamik çekim, kamerayı modelin ön yüzüne dönük tutun. Modelin yüzü ifadesiz. Uzak çekim olmasın....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071293819006627840/img/pdQ6g7DXonPOm6y7.jpg" width="600" alt="Çölde Kanepe ile Kum Sörfü Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6589)**
+
+**Author:** [Christian Kierulf](https://x.com/ChristianKieru1) | **Source:** [Link](https://x.com/ChristianKieru1/status/2071293887357018535) | **Published:** Jun 28, 2026
+
+---
+### Karda Oynayan Yavru Kedi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sinematik kamera hareketleriyle kar tanelerinin arasında zıplayan bir yavru kedinin yer aldığı video için detaylı betimleyici komut.
+
+#### 📝 Prompt
+
+```
+Tüylü yavru kedi, heyecanla kuyruğunu sallayarak havada uçuşan kar tanelerine doğru neşeyle zıplıyor ve ön patileriyle taze karların arasında oyun oynuyor. Hafif kar yağışı devam ederken, kamera sabit bir orta çekimde duruyor ve hafif bir yavaş yakınlaştırma (slow push-in) yapıyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071292994314264577/img/zp7RX3Yjf71_afrn.jpg" width="600" alt="Karda Oynayan Yavru Kedi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6591)**
+
+**Author:** [grok_imagine_free_user](https://x.com/FreeGrokUser) | **Source:** [Link](https://x.com/FreeGrokUser/status/2071293051084120502) | **Published:** Jun 28, 2026
+
+---
+### Tesla Optimus Robotları Rehberlik Grubu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir grup insana doğru yolu göstermek için bir araya gelen çok sayıda Tesla Optimus robotunu konu alan sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Gruba, onlara doğru yolu göstermeye yardımcı olmak için etraflarında duran birçok başka Tesla Optimus robotu katılıyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071218685004382208/img/vu_YCh7uxGKIGN4v.jpg" width="600" alt="Tesla Optimus Robotları Rehberlik Grubu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6592)**
+
+**Author:** [Joe Hogan](https://x.com/JoeHoganJr) | **Source:** [Link](https://x.com/JoeHoganJr/status/2071218760829071770) | **Published:** Jun 28, 2026
+
+---
+### Hizmet Robotu Orman Temizliği
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir robotun palayla orman çalılıklarını temizlediği ve bir vaşağı şaşırttığı, oldukça detaylı bir video istemi.
+
+#### 📝 Prompt
+
+```
+Güneş ışığı alan bir orman kıyısında, yıpranmış zeytin yeşili kaplamalı insansı bir hizmet robotu, büyük bir palayla yoğun çalılıkları temizliyor. Dolaşık çalıların arasından savrulan pala, yapraklar havada uçuşuyor; aralanan bitki örtüsünün içinde gergin bir vaşak, kulakları geriye yatık, altın rengi...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071122100564508672/img/c4Cd2x9QeKqLRyJD.jpg" width="600" alt="Hizmet Robotu Orman Temizliği">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6586)**
+
+**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2071122156583571904) | **Published:** Jun 28, 2026
+
+---
+### Uzay Öğrenme Merkezi Göster ve Anlat Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir öğrenme merkezinde uzay temalı sanat eserlerini ve çizimlerini paylaşan bir grup çocuğu betimleyen detaylı bir video istemi.
+
+#### 📝 Prompt
+
+```
+Uzay öğrenme merkezindeki göster ve anlat etkinliğinde, küçük sahnedeki çocuk galaksi desenli halıdaki arkadaşlarıyla konuşurken elindeki kağıttan roketi nazikçe havaya kaldırıyor; yakındaki çocuklar gezegen çizimlerini ve parıltılı yıldız süslerini sallıyor, yaptıkları çalışmaları paylaşmak için sırayla ellerini kaldırıyorlar.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071104793569816576/img/uN0w0sAmBWrP697z.jpg" width="600" alt="Uzay Öğrenme Merkezi Göster ve Anlat Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6587)**
+
+**Author:** [Christina Mieloszyk](https://x.com/Stina_Lotus) | **Source:** [Link](https://x.com/Stina_Lotus/status/2071104897047527577) | **Published:** Jun 28, 2026
+
+---
+### Meka Kaiju Etkileşim Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gövdesini eğen ve harabeler içinde nefes alan bir meka kaiju kertenkelesini betimleyen sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Dik duran kertenkele meka kaiju, ağır gövdesini yavaşça öne doğru eğiyor ve zırhlı karnını nazikçe kameraya doğru sunuyor; plakalardaki hafif nefes alma hareketi dokunmaya davet ediyor—sakin bir gün batımı harabesi, yumuşak bir kamera yakınlaşması.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071102594282647552/img/bG9x_bzWimQ31Upc.jpg" width="600" alt="Meka Kaiju Etkileşim Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6588)**
+
+**Author:** [ガトル](https://x.com/sakana_no_sippo) | **Source:** [Link](https://x.com/sakana_no_sippo/status/2071102648502387106) | **Published:** Jun 28, 2026
+
+---
 ### And Dağları Kondoru Uçuş Sinematiği
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +320,25 @@ And Dağları üzerinde uçan bir kondorun ultra gerçekçi yakın çekim sahnes
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6564)**
 
 **Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2071100026772971840) | **Published:** Jun 28, 2026
+
+---
+### Gece Haber Bülteni Sunucusu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir stüdyodaki haber sunucusunun, belirli ışıklandırma talimatlarıyla çekilmiş sinematik ve kesintisiz bir videosu için detaylı bir video istemi.
+
+#### 📝 Prompt
+
+```
+Tek plan, kesintisiz çekim. Bir haber sunucusu, loş bir gece haber stüdyosunda, cilalı bir haber masasının arkasında oturuyor. Soğuk mavi ana ışık, kamera dışındaki monitörlerden gelen yumuşak kehribar rengi kenar ışığı. Haber bülteninin ortasındalar, önlerinde kağıtları düzgünce hizalanmış. Haber sunucusu s...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071078793536487424/img/PXsbqWG82QPA_CcP.jpg" width="600" alt="Gece Haber Bülteni Sunucusu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6590)**
+
+**Author:** [michael Rozyla](https://x.com/ineverhad1) | **Source:** [Link](https://x.com/ineverhad1/status/2071078843331334538) | **Published:** Jun 28, 2026
 
 ---
 ### Retro CRT Manifesto Posteri
@@ -741,6 +874,37 @@ Hermanus, Western Cape, Güney Afrika'da bir balinanın ultra gerçekçi yakın 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6434)**
 
 **Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2069654250263917021) | **Published:** Jun 24, 2026
+
+---
+### Senkronize Bölünmüş Ekran Yarış Videosu
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Japon dağ geçidinde drift yapan bir spor otomobilin, hem araç içi sürücü bakış açısını hem de dış takip kamerası perspektiflerini içeren, senkronize bölünmüş ekranlı bir video oluşturmaya yönelik kapsamlı bir komut.
+
+#### 📝 Prompt
+
+```
+Ekran, sağ ve sol olarak bölünmüş bir ekran konfigürasyonuna sahiptir. Her iki taraf da aynı anı farklı kamera açılarından yakalayarak aynı aracı, aynı virajı ve aynı zaman eksenini gösterir.
+
+[Sol Ekran]
+Araç içi sürücü kamerası. Takla kafesi bulunan bir spor otomobilin içi. Karakter sürücü koltuğunda, iki eliyle direksiyonu tutuyor. Japon dağ geçidinde yüksek hızla ilerliyor, keskin bir viraja giriyor ve dönüyor. Gözleri ciddi ve odaklanmış bir ifadeyle gidiş yönüne kilitlenmiş durumda. Yanal G kuvvetleri vücudu etkiliyor; omuzlar ve saçlar hafifçe dışa doğru savruluyor. Kıyafetler ve saçlar, aracın hareketine tepki olarak doğal bir şekilde dalgalanıyor. Yarış koltukları, göstergeler ve araç titreşimiyle senkronize doğal kamera sarsıntısı içeriyor.
+
+[Sağ Ekran]
+Aynı aracı hafifçe yukarıdan ve arkadan takip eden üçüncü şahıs takip kamerası. Ormanlarla çevrili, bariyerleri ve orta çizgileri olan gerçekçi bir Japon dağ geçidi manzarası. Araç aynı keskin virajdan dönüyor ve duruşundaki ağırlık transferini gösteriyor. Lastikler yol yüzeyini sıkıca kavrıyor ve süspansiyon doğal bir şekilde esniyor. Yüksek hızlı viraj almayı, hız hissini ve dinamizmi yansıtıyor.
+
+[Senkronizasyon Talimatı]
+Sol ve sağ taraf farklı sahneler değildir. Sol ekrandaki direksiyon hareketi ile sağ ekrandaki araç davranışı mükemmel bir şekilde eşleşmektedir. İki kameranın aynı anı kaydettiğini açıkça gösterir. Viraj alma hareketlerinin kesintisiz bir sekansı, sahne kesintisi veya kamera değişimi olmadan tasvir edilmiştir.
+
+[Son Aşama]
+Araç, viraj çıkışına doğru hızlanır. Sol ekranda sürücü, hızlanırken direksiyonu merkeze getirir. Sağ ekranda araç, bir sonraki bölüme doğru dengeli bir şekilde ilerler. Pürüzsüz hızlanma, gerçekçi araç davranışı ve motor sporları yayını gibi sürükleyici bir his sunar. Yüksek kaliteli anime karakterleri, yüksek kaliteli arka planlar, gerçekçi araç temsili; sinematik bir yapımdan bir sahne gibi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069652913727934464/img/cD5otFSS6dkITuMi.jpg" width="600" alt="Senkronize Bölünmüş Ekran Yarış Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6593)**
+
+**Author:** [Eris Create Lab](https://x.com/Eris_Create_Lab) | **Source:** [Link](https://x.com/Eris_Create_Lab/status/2069652994598244645) | **Published:** Jun 24, 2026
 
 ---
 ### Grok-imagine 1.5 Dijital İnsan Video Senaryosu
@@ -1982,158 +2146,6 @@ Gün batımında büyüleyici bir Japon deniz kenarı kulübesi, pencerelerden y
 **Author:** [David Herbert Thomas](https://x.com/Diabach1972) | **Source:** [Link](https://x.com/Diabach1972/status/2067970008748110198) | **Published:** Jun 19, 2026
 
 ---
-### Yıldız gemisi filosu uzay kalkışı sinematik
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gerçekçi itici dinamiği ve dramatik bir kamera geri çekilmesiyle Dünya yörüngesinden hızla uzaklaşan gelişmiş yıldız gemilerinden oluşan bir filoyu gösteren sinematik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Gelişmiş Starship sınıfı gemilerden oluşan filo, gerçekçi itici dinamiği ve parlak parlamalarla Dünya yörüngesinden güçlü bir şekilde uzaklaşıyor. Dramatik kamera geri çekilmesi, Dünya'nın uzak bir mavi bilyeye dönüşerek küçüldüğünü ve Ay'ın yanından geçip derin uzay perspektifine geçiş yaptığını gözler önüne seriyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067969292167983105/img/vm090Uo7YrihYVDO.jpg" width="600" alt="Yıldız gemisi filosu uzay kalkışı sinematik">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6248)**
-
-**Author:** [Adam B](https://x.com/DaExChef) | **Source:** [Link](https://x.com/DaExChef/status/2067969347268522403) | **Published:** Jun 19, 2026
-
----
-### Yalnız Gemi ve Ada Fili
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir gemideki yalnız bir adamın, üzerinde koca bir ada taşıyan devasa bir fille karşılaştığı dramatik ve rüya gibi bir sahne.
-
-#### 📝 Prompt
-
-```
-Eski bir gemideki yalnız bir adam, imkansız görünen bir şeye bakıyor: sırtında koca bir ada taşıyan devasa, kadim bir fil. Ölçek, bulutların arasından süzülen ışık, kıyıya vuran dalgalar… bu sahnedeki her şey aynı anda hem devasa hem de rüya gibi hissettiriyor. Maceracı ve biraz gerçeküstü; sanki okyanusun ortasında unutulmuş bir efsaneye rastlamışsınız gibi. Dram ve atmosfer.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067964156440092672/img/a6xeaYFZmuBeqCzv.jpg" width="600" alt="Yalnız Gemi ve Ada Fili">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6253)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067964231618789770) | **Published:** Jun 19, 2026
-
----
-### Bilim Kurgu Daft Punk Tesla Uzay Kıyafeti
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kuzey kutbu manzarasında bir bebek ve peluş oyuncak tutan, Daft Punk kasklı ve Tesla uzay kıyafetli bir kadın için yaratıcı bir bilim kurgu istemi.
-
-#### 📝 Prompt
-
-```
-Ultra gerçekçi fotoğraf, parlak ve ışıl ışıl, yumuşak aydınlatma, yüksek anahtar aydınlatma, daha açık tonlar. Uzun, dalgalı platin beyaz saçlı, parlak siyah ve altın rengi Daft Punk kaskı takan, göğsünde Tesla logosu bulunan mat kahverengi ve siyah Tesla uzay kıyafetli kadın. Kucağında, üzerinde mini Daft Punk kaskı ve küçük Tesla logosu olan beyaz ayıcık desenli tulum giymiş bir bebeği nazikçe tutuyor. Ayrıca elinde sevimli bir Shiba Inu peluş oyuncak var. Arka planda uzak dağların olduğu uçsuz bucaksız, parlak karlı kutup tundrası, parlak kapalı hava, yüksek detaylı, fotogerçekçi, sinematik.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067963385082224641/img/mPBQNO2QyPbKEgD_.jpg" width="600" alt="Bilim Kurgu Daft Punk Tesla Uzay Kıyafeti">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6256)**
-
-**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2067963455508812163) | **Published:** Jun 19, 2026
-
----
-### Çayırda Oyunbaz Turuncu Tekir Kedi Yavrusu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Güneşli bir çayırda gözlerini kırpan ve kır çiçekleriyle oynayan sevimli bir kedi yavrusu oluşturan video istemi.
-
-#### 📝 Prompt
-
-```
-Tüylü turuncu tekir kedi yavrusu, güneşli çayırda otururken büyük gözlerini kırpıyor, kuyruğunu oyunbaz bir şekilde sallıyor ve hafif bir esintiyle hışırdayan çimlerin arasındaki bir kır çiçeğine nazikçe patisiyle dokunuyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067958878072115200/img/ZCTWjrB1moF2zACI.jpg" width="600" alt="Çayırda Oyunbaz Turuncu Tekir Kedi Yavrusu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6241)**
-
-**Author:** [grok_imagine_free_user](https://x.com/FreeGrokUser) | **Source:** [Link](https://x.com/FreeGrokUser/status/2067958938692378627) | **Published:** Jun 19, 2026
-
----
-### Karanlık Hollywood Gişe Rekortmeni Fragmanı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir karakteri temel alan, karanlık ve sinematik bir gişe rekortmeni fragmanı oluşturmak için video üretim istemi.
-
-#### 📝 Prompt
-
-```
-Bu karakteri temel alan, karanlık olayların döndüğü bir Hollywood gişe rekortmeni fragmanı oluştur
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067943275537862656/img/qzpFWZbF2wDwv-kR.jpg" width="600" alt="Karanlık Hollywood Gişe Rekortmeni Fragmanı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6242)**
-
-**Author:** [kramrogNL (33.3%)](https://x.com/kramrogNL) | **Source:** [Link](https://x.com/kramrogNL/status/2067943364117266808) | **Published:** Jun 19, 2026
-
----
-### Trilyoner Anime Hikayesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Güney Afrikalı bir çocuğun trilyoner olma yolculuğunu anlatan bir anime anlatı istemi.
-
-#### 📝 Prompt
-
-```
-Güney Afrikalı mütevazı bir çocuğun dünyanın ilk trilyoneri olma yolculuğunu konu alan anime hikayesi
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2066579935943147521/img/zWNMK7sOkThlgTRe.jpg" width="600" alt="Trilyoner Anime Hikayesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6320)**
-
-**Author:** [SMX 🇺🇸](https://x.com/iam_smx) | **Source:** [Link](https://x.com/iam_smx/status/2067899026339447040) | **Published:** Jun 19, 2026
-
----
-### Budapeşte Kağıt Kesme Sanatı Tarzında Animasyon
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Budapeşte'nin tarihi mimarisini ve Tuna Nehri'ni içeren, kağıt kesme estetiğine sahip bir video oluşturan harika bir komut.
-
-#### 📝 Prompt
-
-```
-Budapeşte, Macaristan. Tarihi mimarinin, Tuna Nehri'nin ve zamansız sokakların büyüleyici bir kağıt kesme sanatı dünyasında bir araya geldiği yer.
-```
-
-<img src="https://cms-assets.youmind.com/media/1782121028754_405t5z_HLKjCZbWgAAW4Xd.jpg" width="600" alt="Budapeşte Kağıt Kesme Sanatı Tarzında Animasyon">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6255)**
-
-**Author:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2067894649663246574) | **Published:** Jun 19, 2026
-
----
-### Sürreal dondurma külahı dönüşümü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Referans bir görsele dayanarak büyük bir çikolatalı dondurma külahını, minik insanlardan oluşan bir yapıya dönüştüren sürreal bir video dönüşüm istemi.
-
-#### 📝 Prompt
-
-```
-Referans görseldeki büyük çikolatalı dondurma külahını, sayısız minik İranlı insandan oluşan sürreal bir yapıya dönüştür
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067815711146389504/img/0WmEi8m954NYcRFy.jpg" width="600" alt="Sürreal dondurma külahı dönüşümü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6246)**
-
-**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2067815770705526878) | **Published:** Jun 19, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2195,6 +2207,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-29T04:58:45.052Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-29T12:55:40.068Z</sub>
 
 </div>

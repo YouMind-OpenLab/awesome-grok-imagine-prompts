@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1983** |
+| 📝 Total Prompts | **1991** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-29** |
 
@@ -189,6 +189,120 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### रेगिस्तान में काउच सैंडबोर्डिंग वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक डायनामिक मोशन वीडियो प्रॉम्प्ट जिसमें रेगिस्तान में सैंडबोर्डिंग करते हुए एक काउच को विशिष्ट कैमरा निर्देशों के साथ दिखाया गया है।
+
+#### 📝 Prompt
+
+```
+रेगिस्तान में सैंडबोर्डिंग का मोशन, काउच बहुत ही स्मूथ तरीके से दाईं ओर नीचे की तरफ Slides करता है, कैमरा काउच का पीछा करता है। डायनामिक शॉट, कैमरे को मॉडल के सामने रखें। मॉडल का चेहरा भावहीन है। दूर का दृश्य न दिखाएं....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071293819006627840/img/pdQ6g7DXonPOm6y7.jpg" width="600" alt="रेगिस्तान में काउच सैंडबोर्डिंग वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6589)**
+
+**Author:** [Christian Kierulf](https://x.com/ChristianKieru1) | **Source:** [Link](https://x.com/ChristianKieru1/status/2071293887357018535) | **Published:** Jun 28, 2026
+
+---
+### बर्फ में खेलता हुआ बिल्ली का बच्चा
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> सिनेमैटिक कैमरा मूवमेंट के साथ बर्फ के टुकड़ों के बीच उछलते हुए बिल्ली के बच्चे के वीडियो के लिए एक विस्तृत वर्णनात्मक प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+रूई जैसा मुलायम बिल्ली का बच्चा चंचलता से उछलता है और हवा में तैरते बर्फ के टुकड़ों को अपने पंजों से मारता है, ताजी बर्फ में अपने अगले पंजों से खेलता है, और उत्साह में उसकी पूंछ हिल रही है। हल्की बर्फबारी जारी है, कैमरा एक स्थिर मीडियम शॉट पर टिका है और धीरे-धीरे ज़ूम-इन (slow push-in) हो रहा है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071292994314264577/img/zp7RX3Yjf71_afrn.jpg" width="600" alt="बर्फ में खेलता हुआ बिल्ली का बच्चा">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6591)**
+
+**Author:** [grok_imagine_free_user](https://x.com/FreeGrokUser) | **Source:** [Link](https://x.com/FreeGrokUser/status/2071293051084120502) | **Published:** Jun 28, 2026
+
+---
+### Tesla Optimus रोबोट्स गाइडिंग ग्रुप
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सिनेमैटिक वीडियो प्रॉम्प्ट जिसमें कई Tesla Optimus रोबोट्स एक साथ खड़े होकर एक समूह को सही दिशा में मार्गदर्शन कर रहे हैं।
+
+#### 📝 Prompt
+
+```
+समूह के साथ कई अन्य Tesla Optimus रोबोट्स शामिल हो जाते हैं जो उन्हें सही दिशा में मार्गदर्शन करने में मदद करने के लिए उनके चारों ओर खड़े हो जाते हैं
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071218685004382208/img/vu_YCh7uxGKIGN4v.jpg" width="600" alt="Tesla Optimus रोबोट्स गाइडिंग ग्रुप">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6592)**
+
+**Author:** [Joe Hogan](https://x.com/JoeHoganJr) | **Source:** [Link](https://x.com/JoeHoganJr/status/2071218760829071770) | **Published:** Jun 28, 2026
+
+---
+### यूटिलिटी रोबोट द्वारा जंगल की सफाई
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक रोबोट द्वारा मैचेटी (बड़ी छुरी) से जंगल की झाड़ियों को साफ करने और एक बॉबकैट को हैरान कर देने का अत्यधिक विस्तृत वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+घिसी हुई जैतून-हरे रंग की प्लेटिंग वाला एक ह्यूमनॉइड यूटिलिटी रोबोट, धूप से सराबोर जंगल के किनारे एक बड़ी मैचेटी से घनी झाड़ियों को साफ कर रहा है। उलझी हुई झाड़ियों के बीच से हाथ चलाने की क्रिया के दौरान पत्तियां उड़ रही हैं; अलग हुई पत्तियों के बीच एक तनावग्रस्त बॉबकैट नीचे दुबका हुआ है, उसके कान पीछे की ओर हैं, सुनहरी...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071122100564508672/img/c4Cd2x9QeKqLRyJD.jpg" width="600" alt="यूटिलिटी रोबोट द्वारा जंगल की सफाई">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6586)**
+
+**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2071122156583571904) | **Published:** Jun 28, 2026
+
+---
+### Space Learning Center Show and Tell वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक विस्तृत वीडियो प्रॉम्प्ट जो एक लर्निंग सेंटर में बच्चों के समूह को अंतरिक्ष-थीम वाली कला और चित्र साझा करते हुए दर्शाता है।
+
+#### 📝 Prompt
+
+```
+स्पेस लर्निंग सेंटर के शो-एंड-टेल में, छोटे मंच पर मौजूद बच्चा गैलेक्सी रग पर बैठे दोस्तों से बात करते हुए धीरे से एक कागज़ का रॉकेट ऊपर उठाता है; पास में बैठे बच्चे अपने ग्रहों के चित्र और ग्लिटर स्टार मोबाइल लहरा रहे हैं, और अपनी बनाई चीज़ों को साझा करने के लिए बारी आने का इंतज़ार करते हुए हाथ उठा रहे हैं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071104793569816576/img/uN0w0sAmBWrP697z.jpg" width="600" alt="Space Learning Center Show and Tell वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6587)**
+
+**Author:** [Christina Mieloszyk](https://x.com/Stina_Lotus) | **Source:** [Link](https://x.com/Stina_Lotus/status/2071104897047527577) | **Published:** Jun 28, 2026
+
+---
+### Mecha Kaiju इंटरैक्शन वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सिनेमैटिक वीडियो प्रॉम्प्ट जो खंडहरों में अपने धड़ को झुकाते और सांस लेते हुए एक मेका काइजु छिपकली का वर्णन करता है।
+
+#### 📝 Prompt
+
+```
+सीधी खड़ी छिपकली जैसी मेका काइजु धीरे-धीरे अपने भारी धड़ को आगे की ओर झुकाती है और धीरे से अपने बख्तरबंद पेट को कैमरे की ओर लाती है, प्लेटों में हल्की सांस लेने की गति दिखाई देती है, जो स्पर्श के लिए आमंत्रित करती है—शांत शाम के खंडहर, कैमरे का धीमा ज़ूम-इन।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071102594282647552/img/bG9x_bzWimQ31Upc.jpg" width="600" alt="Mecha Kaiju इंटरैक्शन वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6588)**
+
+**Author:** [ガトル](https://x.com/sakana_no_sippo) | **Source:** [Link](https://x.com/sakana_no_sippo/status/2071102648502387106) | **Published:** Jun 28, 2026
+
+---
 ### एंडियन कॉन्डोर की उड़ान का सिनेमैटिक दृश्य
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +320,25 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6564)**
 
 **Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2071100026772971840) | **Published:** Jun 28, 2026
+
+---
+### देर रात के न्यूज़ रीडर
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> स्टूडियो में विशिष्ट लाइटिंग निर्देशों के साथ एक न्यूज़ रीडर के सिनेमाई निरंतर शॉट (continuous take) के लिए एक विस्तृत वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+एक निरंतर शॉट। एक न्यूज़ रीडर देर रात के धुंधले ब्रॉडकास्ट स्टूडियो में एक पॉलिश किए हुए एंकर डेस्क के पीछे बैठा है। ठंडी नीली की-लाइट (key light), और कैमरे से दूर मॉनिटरों से आती हल्की एम्बर रिम लाइट। वे न्यूज़ सेगमेंट के बीच में हैं, उनके सामने कागज़ व्यवस्थित तरीके से रखे हुए हैं। न्यूज़ रीडर...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071078793536487424/img/PXsbqWG82QPA_CcP.jpg" width="600" alt="देर रात के न्यूज़ रीडर">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6590)**
+
+**Author:** [michael Rozyla](https://x.com/ineverhad1) | **Source:** [Link](https://x.com/ineverhad1/status/2071078843331334538) | **Published:** Jun 28, 2026
 
 ---
 ### रेट्रो CRT मेनिफेस्टो पोस्टर
@@ -741,6 +874,37 @@ Rainy Runway Tap Dance. तीन mechs, एक निडर पायलट, �
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6434)**
 
 **Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2069654250263917021) | **Published:** Jun 24, 2026
+
+---
+### सिंक्रोनाइज़्ड स्प्लिट-स्क्रीन रेसिंग वीडियो
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> जापानी माउंटेन पास पर ड्रिफ्ट करती स्पोर्ट्स कार का सिंक्रोनाइज़्ड स्प्लिट-स्क्रीन वीडियो बनाने के लिए एक व्यापक प्रॉम्प्ट, जिसमें ड्राइवर का इंटीरियर POV और बाहरी चेज़ कैमरा दोनों दृष्टिकोण शामिल हैं।
+
+#### 📝 Prompt
+
+```
+स्क्रीन में बाएं और दाएं हिस्सों में विभाजित एक स्प्लिट-स्क्रीन कॉन्फ़िगरेशन है। दोनों तरफ एक ही पल को अलग-अलग कैमरा एंगल से कैद किया गया है, जिसमें एक ही वाहन, एक ही मोड़ और एक ही समय अक्ष दिखाई दे रहा है।
+
+[बायां स्क्रीन]
+इन-कार ड्राइवर कैमरा। रोल केज वाली स्पोर्ट्स कार के अंदर। ड्राइवर की सीट पर बैठा किरदार दोनों हाथों से स्टीयरिंग व्हील पकड़े हुए है। जापानी माउंटेन पास पर तेज़ गति से गाड़ी चलाते हुए, हेयरपिन मोड़ में प्रवेश करना और मुड़ना। आंखें यात्रा की दिशा पर केंद्रित हैं और चेहरे पर गंभीर और एकाग्र भाव हैं। लेटरल G-फोर्स शरीर को प्रभावित कर रहे हैं, कंधे और बाल थोड़े बाहर की ओर झुक रहे हैं। वाहन की गति के साथ कपड़े और बाल स्वाभाविक रूप से हिल रहे हैं। इसमें बकेट सीट्स, गेज और वाहन के कंपन के साथ सिंक्रोनाइज़्ड नेचुरल कैमरा शेक शामिल है।
+
+[दायां स्क्रीन]
+थर्ड-पर्सन चेज़ कैमरा, जो वाहन का थोड़ा ऊपर और पीछे से पीछा कर रहा है। जंगलों से घिरा जापानी माउंटेन पास का एक यथार्थवादी परिदृश्य, जिसमें गार्डरेल और सेंटर लाइनें दिखाई दे रही हैं। वाहन उसी हेयरपिन मोड़ से मुड़ रहा है, जिससे उसकी मुद्रा में वजन का स्थानांतरण (weight transfer) दिखाई दे रहा है। टायर सड़क की सतह को मजबूती से पकड़ रहे हैं और सस्पेंशन स्वाभाविक रूप से दब रहा है। यह तेज़ गति से मुड़ने, गति की अनुभूति और गतिशीलता को दर्शाता है।
+
+[सिंक्रोनाइज़ेशन निर्देश]
+बायां और दायां हिस्सा अलग-अलग दृश्य नहीं हैं। बाएं स्क्रीन पर स्टीयरिंग इनपुट और दाएं स्क्रीन पर वाहन का व्यवहार पूरी तरह से मेल खाते हैं। यह स्पष्ट रूप से दर्शाता है कि दो कैमरे एक ही पल को फिल्मा रहे हैं। बिना किसी सीन कट या कैमरा स्विच के कॉर्नरिंग मूवमेंट का एक निरंतर क्रम दिखाया गया है।
+
+[अंतिम चरण]
+वाहन मोड़ के निकास की ओर गति पकड़ता है। बाएं स्क्रीन पर, ड्राइवर गति बढ़ाते ही स्टीयरिंग व्हील को केंद्र में वापस लाता है। दाएं स्क्रीन पर, वाहन अगले सेक्शन की ओर स्थिरता से बढ़ता है। इसमें स्मूथ एक्सेलेरेशन, यथार्थवादी वाहन व्यवहार और मोटरस्पोर्ट प्रसारण जैसा इमर्सिव अनुभव है। उच्च गुणवत्ता वाले एनिमे किरदार, उच्च गुणवत्ता वाले बैकग्राउंड, यथार्थवादी वाहन चित्रण, जैसे कि किसी सिनेमाई काम का दृश्य।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069652913727934464/img/cD5otFSS6dkITuMi.jpg" width="600" alt="सिंक्रोनाइज़्ड स्प्लिट-स्क्रीन रेसिंग वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6593)**
+
+**Author:** [Eris Create Lab](https://x.com/Eris_Create_Lab) | **Source:** [Link](https://x.com/Eris_Create_Lab/status/2069652994598244645) | **Published:** Jun 24, 2026
 
 ---
 ### Grok-imagine 1.5 डिजिटल ह्यूमन वीडियो स्क्रिप्ट
@@ -1982,158 +2146,6 @@ Sebring को रिस्टोर करें, उस पर लिपटी
 **Author:** [David Herbert Thomas](https://x.com/Diabach1972) | **Source:** [Link](https://x.com/Diabach1972/status/2067970008748110198) | **Published:** Jun 19, 2026
 
 ---
-### स्टारशिप फ्लीट स्पेस डिपार्चर सिनेमैटिक
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमैटिक वीडियो प्रॉम्प्ट जिसमें उन्नत स्टारशिप का एक बेड़ा पृथ्वी की कक्षा से तेजी से दूर जा रहा है, जिसमें यथार्थवादी थ्रस्टर डायनामिक्स और एक नाटकीय कैमरा पुल-बैक दिखाया गया है।
-
-#### 📝 Prompt
-
-```
-उन्नत स्टारशिप-क्लास जहाजों का बेड़ा यथार्थवादी थ्रस्टर डायनामिक्स और चमकदार फ्लेयर्स के साथ पृथ्वी की कक्षा से शक्तिशाली रूप से दूर जा रहा है। नाटकीय कैमरा पुल-बैक यह दिखाता है कि जैसे-जैसे चंद्रमा पास से गुजरता है, पृथ्वी एक दूर की नीली मार्बल की तरह छोटी होती जाती है, जो गहरे अंतरिक्ष के परिप्रेक्ष्य में बदल जाती है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067969292167983105/img/vm090Uo7YrihYVDO.jpg" width="600" alt="स्टारशिप फ्लीट स्पेस डिपार्चर सिनेमैटिक">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6248)**
-
-**Author:** [Adam B](https://x.com/DaExChef) | **Source:** [Link](https://x.com/DaExChef/status/2067969347268522403) | **Published:** Jun 19, 2026
-
----
-### अकेला जहाज और द्वीप जैसा हाथी
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक नाटकीय और स्वप्निल दृश्य, जिसमें एक जहाज पर सवार अकेला व्यक्ति एक विशाल हाथी का सामना करता है, जिसकी पीठ पर पूरा का पूरा द्वीप बसा है।
-
-#### 📝 Prompt
-
-```
-एक पुराने जहाज पर सवार अकेला व्यक्ति, एक ऐसी चीज को घूर रहा है जिसका होना असंभव है—एक विशालकाय प्राचीन हाथी जिसकी पीठ पर पूरा का पूरा द्वीप है। इसका पैमाना, बादलों को चीरती हुई रोशनी, टकराती हुई लहरें... इस दृश्य की हर चीज एक साथ विशाल और स्वप्निल महसूस होती है। यह साहसिक और थोड़ा अवास्तविक है, जैसे समुद्र के बीचों-बीच किसी भूले-बिसरे मिथक से अचानक सामना हो गया हो। ड्रामा और वातावरण से भरपूर।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067964156440092672/img/a6xeaYFZmuBeqCzv.jpg" width="600" alt="अकेला जहाज और द्वीप जैसा हाथी">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6253)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067964231618789770) | **Published:** Jun 19, 2026
-
----
-### Sci-Fi Daft Punk Tesla स्पेससूट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> आर्कटिक परिदृश्य में Daft Punk हेलमेट और Tesla स्पेससूट पहने एक महिला के लिए एक रचनात्मक sci-fi प्रॉम्प्ट, जो एक बच्चे और एक प्लश टॉय को पकड़े हुए है।
-
-#### 📝 Prompt
-
-```
-अल्ट्रा रियलिस्टिक फोटो, उज्ज्वल और चमकदार, सॉफ्ट ब्राइट लाइटिंग, हाई की लाइटिंग, हल्के टोन। चमकदार काले और सुनहरे Daft Punk हेलमेट में महिला, जिसके लंबे लहराते प्लेटिनम सफेद बाल हैं, उसने छाती पर Tesla लोगो वाला मैट ब्राउन और ब्लैक Tesla स्पेससूट पहना है। वह धीरे से सफेद टेडी बियर पैटर्न वाली वन्सी पहने एक बच्चे को पकड़े हुए है, जिसने मिनी Daft Punk हेलमेट और छोटा Tesla लोगो पहना है। उसने एक प्यारा Shiba Inu प्लश टॉय भी पकड़ा हुआ है। पृष्ठभूमि में दूर पहाड़ों के साथ विशाल उज्ज्वल बर्फीला आर्कटिक टुंड्रा, उज्ज्वल बादलों वाला आकाश, अत्यधिक विस्तृत, फोटो-रियलिस्टिक, सिनेमैटिक।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067963385082224641/img/mPBQNO2QyPbKEgD_.jpg" width="600" alt="Sci-Fi Daft Punk Tesla स्पेससूट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6256)**
-
-**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2067963455508812163) | **Published:** Jun 19, 2026
-
----
-### घास के मैदान में खेलता हुआ प्यारा नारंगी टैबी बिल्ली का बच्चा
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो प्रॉम्प्ट जो एक प्यारे बिल्ली के बच्चे को पलकें झपकाते हुए और धूप से भरे घास के मैदान में जंगली फूलों के साथ खेलते हुए दिखाता है।
-
-#### 📝 Prompt
-
-```
-रुई जैसा मुलायम नारंगी टैबी बिल्ली का बच्चा अपनी बड़ी-बड़ी आँखें झपकाता है, चंचलता से अपनी पूंछ हिलाता है, और धूप से भरे घास के मैदान में बैठे हुए धीरे से पास के एक जंगली फूल को अपने पंजों से छूता है, जबकि हल्की हवा घास को सरसरा रही है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067958878072115200/img/ZCTWjrB1moF2zACI.jpg" width="600" alt="घास के मैदान में खेलता हुआ प्यारा नारंगी टैबी बिल्ली का बच्चा">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6241)**
-
-**Author:** [grok_imagine_free_user](https://x.com/FreeGrokUser) | **Source:** [Link](https://x.com/FreeGrokUser/status/2067958938692378627) | **Published:** Jun 19, 2026
-
----
-### डार्क हॉलीवुड ब्लॉकबस्टर ट्रेलर
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> किसी पात्र (character) पर आधारित एक डार्क सिनेमैटिक ब्लॉकबस्टर ट्रेलर बनाने के लिए वीडियो जनरेशन प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-इस पात्र (character) पर आधारित एक हॉलीवुड ब्लॉकबस्टर जैसा ट्रेलर बनाओ, जिसमें कुछ डार्क और गंभीर प्लॉट हो
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067943275537862656/img/qzpFWZbF2wDwv-kR.jpg" width="600" alt="डार्क हॉलीवुड ब्लॉकबस्टर ट्रेलर">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6242)**
-
-**Author:** [kramrogNL (33.3%)](https://x.com/kramrogNL) | **Source:** [Link](https://x.com/kramrogNL/status/2067943364117266808) | **Published:** Jun 19, 2026
-
----
-### Trillionaire Anime Story
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> दक्षिण अफ्रीका के एक लड़के के दुनिया का पहला ट्रिलियनेयर बनने तक के सफर को दर्शाने वाला एक एनिमे नैरेटिव प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-दक्षिण अफ्रीका के एक साधारण लड़के की दुनिया का पहला ट्रिलियनेयर बनने तक के सफर की एनिमे कहानी
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2066579935943147521/img/zWNMK7sOkThlgTRe.jpg" width="600" alt="Trillionaire Anime Story">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6320)**
-
-**Author:** [SMX 🇺🇸](https://x.com/iam_smx) | **Source:** [Link](https://x.com/iam_smx/status/2067899026339447040) | **Published:** Jun 19, 2026
-
----
-### बुडापेस्ट पेपर-कट वर्ल्ड एनिमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> बुडापेस्ट का एक सुंदर पेपर-कट एस्थेटिक वीडियो बनाने वाला प्रॉम्प्ट, जिसमें ऐतिहासिक वास्तुकला और डेन्यूब नदी शामिल है।
-
-#### 📝 Prompt
-
-```
-बुडापेस्ट, हंगरी। जहाँ ऐतिहासिक वास्तुकला, डेन्यूब नदी और सदाबहार गलियाँ एक सुंदर पेपर-कट दुनिया में एक साथ मिलती हैं।
-```
-
-<img src="https://cms-assets.youmind.com/media/1782121028754_405t5z_HLKjCZbWgAAW4Xd.jpg" width="600" alt="बुडापेस्ट पेपर-कट वर्ल्ड एनिमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6255)**
-
-**Author:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2067894649663246574) | **Published:** Jun 19, 2026
-
----
-### अवास्तविक आइसक्रीम कोन का रूपांतरण
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक अवास्तविक वीडियो रूपांतरण प्रॉम्प्ट जो एक संदर्भ छवि के आधार पर एक बड़े चॉकलेट आइसक्रीम कोन को छोटे-छोटे लोगों से बनी संरचना में बदल देता है।
-
-#### 📝 Prompt
-
-```
-संदर्भ छवि में, बड़े चॉकलेट आइसक्रीम कोन को अवास्तविक रूप से अनगिनत छोटे ईरानी लोगों से बनी संरचना में बदलें
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067815711146389504/img/0WmEi8m954NYcRFy.jpg" width="600" alt="अवास्तविक आइसक्रीम कोन का रूपांतरण">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6246)**
-
-**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2067815770705526878) | **Published:** Jun 19, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2195,6 +2207,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-29T04:58:32.751Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-29T12:55:26.762Z</sub>
 
 </div>

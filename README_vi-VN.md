@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1983** |
+| 📝 Total Prompts | **1991** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-29** |
 
@@ -189,6 +189,120 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Video trượt cát trên ghế sofa giữa sa mạc
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video chuyển động năng động mô tả chiếc ghế sofa đang trượt cát trên sa mạc với các hướng dẫn cụ thể về góc máy.
+
+#### 📝 Prompt
+
+```
+Chuyển động trượt cát trên sa mạc, chiếc ghế sofa Slides mượt mà đổ dốc về phía bên phải, máy quay theo sát chủ thể là chiếc ghế. Cú máy năng động, giữ máy quay hướng về phía trước của mô hình. Gương mặt của mô hình không biểu cảm. Không quay cảnh toàn cảnh từ xa....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071293819006627840/img/pdQ6g7DXonPOm6y7.jpg" width="600" alt="Video trượt cát trên ghế sofa giữa sa mạc">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6589)**
+
+**Author:** [Christian Kierulf](https://x.com/ChristianKieru1) | **Source:** [Link](https://x.com/ChristianKieru1/status/2071293887357018535) | **Published:** Jun 28, 2026
+
+---
+### Mèo con đùa nghịch trong tuyết
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh mô tả chi tiết cho video về một chú mèo con đang nhảy qua những bông tuyết với các chuyển động máy quay đậm chất điện ảnh.
+
+#### 📝 Prompt
+
+```
+Chú mèo con lông xù tinh nghịch nhảy lên và vờn những bông tuyết đang rơi, dùng hai chân trước khều nhẹ qua lớp tuyết mới, chiếc đuôi ngoáy liên hồi vì phấn khích. Tuyết rơi nhẹ nhàng, máy quay giữ khung hình trung cảnh ổn định với hiệu ứng tiến dần chậm rãi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071292994314264577/img/zp7RX3Yjf71_afrn.jpg" width="600" alt="Mèo con đùa nghịch trong tuyết">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6591)**
+
+**Author:** [grok_imagine_free_user](https://x.com/FreeGrokUser) | **Source:** [Link](https://x.com/FreeGrokUser/status/2071293051084120502) | **Published:** Jun 28, 2026
+
+---
+### Nhóm dẫn đường bằng robot Tesla Optimus
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý video điện ảnh mô tả nhiều robot Tesla Optimus đứng cùng nhau để dẫn dắt một nhóm người đi đúng hướng.
+
+#### 📝 Prompt
+
+```
+Nhóm được tham gia bởi nhiều robot Tesla Optimus khác, những robot này đứng xung quanh nhóm để giúp dẫn dắt họ đi đúng hướng
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071218685004382208/img/vu_YCh7uxGKIGN4v.jpg" width="600" alt="Nhóm dẫn đường bằng robot Tesla Optimus">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6592)**
+
+**Author:** [Joe Hogan](https://x.com/JoeHoganJr) | **Source:** [Link](https://x.com/JoeHoganJr/status/2071218760829071770) | **Published:** Jun 28, 2026
+
+---
+### Robot tiện ích dọn dẹp rừng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video chi tiết về robot dọn dẹp bụi rậm trong rừng bằng dao rựa, khiến một con mèo rừng bất ngờ.
+
+#### 📝 Prompt
+
+```
+Một robot tiện ích hình người với lớp vỏ màu xanh ô liu sờn cũ đang dọn dẹp bụi rậm dày đặc bằng một con dao rựa lớn tại bìa rừng nơi ánh nắng xuyên qua tán lá. Giữa hành động vung dao qua những bụi cây chằng chịt, lá cây bay tứ tung; trong tán lá rẽ ra, một con mèo rừng đang căng thẳng cúi thấp người, tai cụp về phía sau, đôi mắt vàng...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071122100564508672/img/c4Cd2x9QeKqLRyJD.jpg" width="600" alt="Robot tiện ích dọn dẹp rừng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6586)**
+
+**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2071122156583571904) | **Published:** Jun 28, 2026
+
+---
+### Video giới thiệu tại Trung tâm Học tập Vũ trụ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video gợi ý chi tiết mô tả nhóm trẻ em đang chia sẻ các tác phẩm nghệ thuật và tranh vẽ về chủ đề vũ trụ tại một trung tâm học tập.
+
+#### 📝 Prompt
+
+```
+Tại buổi giới thiệu ở trung tâm học tập vũ trụ, em nhỏ trên sân khấu nhỏ nhẹ nhàng nâng chiếc tên lửa bằng giấy trong khi trò chuyện với bạn bè trên tấm thảm hình thiên hà; những đứa trẻ gần đó vẫy những bức vẽ hành tinh và mô hình ngôi sao lấp lánh, giơ tay chờ đến lượt chia sẻ những gì mình đã làm.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071104793569816576/img/uN0w0sAmBWrP697z.jpg" width="600" alt="Video giới thiệu tại Trung tâm Học tập Vũ trụ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6587)**
+
+**Author:** [Christina Mieloszyk](https://x.com/Stina_Lotus) | **Source:** [Link](https://x.com/Stina_Lotus/status/2071104897047527577) | **Published:** Jun 28, 2026
+
+---
+### Video tương tác Mecha Kaiju
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) video điện ảnh mô tả một con quái vật mecha kaiju dạng thằn lằn đang nghiêng thân mình và thở giữa khung cảnh đổ nát.
+
+#### 📝 Prompt
+
+```
+Con quái vật mecha kaiju dạng thằn lằn đứng thẳng từ từ nghiêng phần thân nặng nề về phía trước và nhẹ nhàng hướng phần bụng bọc thép về phía máy quay, chuyển động thở tinh tế trên các lớp giáp, gợi cảm giác muốn chạm vào — bối cảnh tàn tích lúc hoàng hôn tĩnh lặng, máy quay nhẹ nhàng tiến lại gần.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071102594282647552/img/bG9x_bzWimQ31Upc.jpg" width="600" alt="Video tương tác Mecha Kaiju">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6588)**
+
+**Author:** [ガトル](https://x.com/sakana_no_sippo) | **Source:** [Link](https://x.com/sakana_no_sippo/status/2071102648502387106) | **Published:** Jun 28, 2026
+
+---
 ### Cảnh quay điện ảnh về chuyến bay của thần ưng Andes
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +320,25 @@ Cảnh cận cảnh siêu thực về một con thần ưng Andes đang bay trê
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6564)**
 
 **Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2071100026772971840) | **Published:** Jun 28, 2026
+
+---
+### Người dẫn chương trình tin tức đêm khuya
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video chi tiết cho cảnh quay điện ảnh liên tục về một người dẫn chương trình tin tức trong studio với các hướng dẫn chiếu sáng cụ thể.
+
+#### 📝 Prompt
+
+```
+Cảnh quay liên tục không cắt. Một người dẫn chương trình tin tức ngồi sau bàn làm việc sáng bóng trong một studio phát sóng đêm khuya mờ ảo. Ánh sáng chính màu xanh lạnh, ánh sáng viền màu hổ phách dịu nhẹ từ các màn hình ngoài khung hình. Họ đang ở giữa phân đoạn, các tờ giấy được xếp ngay ngắn trước mặt. Người dẫn chương trình...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071078793536487424/img/PXsbqWG82QPA_CcP.jpg" width="600" alt="Người dẫn chương trình tin tức đêm khuya">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6590)**
+
+**Author:** [michael Rozyla](https://x.com/ineverhad1) | **Source:** [Link](https://x.com/ineverhad1/status/2071078843331334538) | **Published:** Jun 28, 2026
 
 ---
 ### Áp phích tuyên ngôn phong cách CRT cổ điển
@@ -741,6 +874,37 @@ Cảnh quay cận cảnh siêu thực về một chú cá voi tại Hermanus, We
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6434)**
 
 **Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2069654250263917021) | **Published:** Jun 24, 2026
+
+---
+### Video Đua xe Màn hình Chia đôi Đồng bộ
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một câu lệnh toàn diện để tạo video màn hình chia đôi đồng bộ về một chiếc xe thể thao đang drift trên đèo Nhật Bản, bao gồm cả góc nhìn từ trong xe của tài xế và góc nhìn camera đuổi theo từ bên ngoài.
+
+#### 📝 Prompt
+
+```
+Màn hình có cấu hình chia đôi thành hai phần trái và phải. Cả hai bên đều ghi lại cùng một khoảnh khắc từ các góc máy khác nhau, hiển thị cùng một phương tiện, cùng một khúc cua và cùng một trục thời gian.
+
+[Màn hình Trái]
+Camera góc nhìn tài xế trong xe. Bên trong một chiếc xe thể thao có khung chống lật (roll cage). Nhân vật đang ngồi ở ghế lái, hai tay giữ vô lăng. Lái xe tốc độ cao trên đèo Nhật Bản, tiến vào và ôm cua tay áo. Ánh mắt tập trung vào hướng di chuyển với vẻ mặt nghiêm túc và tập trung. Lực G ngang tác động lên cơ thể, khiến vai và tóc hơi nghiêng sang một bên. Quần áo và tóc đung đưa tự nhiên theo chuyển động của xe. Có ghế thể thao (bucket seat), bảng đồng hồ và độ rung camera tự nhiên đồng bộ với độ rung của xe.
+
+[Màn hình Phải]
+Camera đuổi theo góc nhìn thứ ba, theo sau cùng phương tiện đó từ phía trên và phía sau một chút. Phong cảnh thực tế của một con đèo Nhật Bản bao quanh bởi rừng cây, có rào chắn và vạch kẻ đường. Chiếc xe đang ôm cùng một khúc cua tay áo, thể hiện sự chuyển dịch trọng tâm trong tư thế của nó. Lốp xe bám chặt vào mặt đường và hệ thống treo nén lại một cách tự nhiên. Truyền tải cảm giác vào cua tốc độ cao, cảm giác về tốc độ và sự năng động.
+
+[Hướng dẫn Đồng bộ hóa]
+Bên trái và bên phải không phải là các cảnh khác nhau. Thao tác đánh lái trên màn hình trái và hành vi của xe trên màn hình phải hoàn toàn khớp nhau. Nó truyền tải rõ ràng rằng hai camera đang quay cùng một khoảnh khắc. Một chuỗi chuyển động vào cua liên tục được mô tả mà không có cắt cảnh hay chuyển đổi camera.
+
+[Giai đoạn Cuối]
+Chiếc xe tăng tốc về phía lối ra của khúc cua. Trên màn hình trái, tài xế trả lái về trung tâm khi họ tăng tốc. Trên màn hình phải, chiếc xe di chuyển ổn định về phía đoạn đường tiếp theo. Có tính năng tăng tốc mượt mà, hành vi xe thực tế và cảm giác đắm chìm như một chương trình phát sóng thể thao tốc độ. Nhân vật anime chất lượng cao, hậu cảnh chất lượng cao, mô tả phương tiện thực tế, giống như một cảnh trong tác phẩm điện ảnh.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069652913727934464/img/cD5otFSS6dkITuMi.jpg" width="600" alt="Video Đua xe Màn hình Chia đôi Đồng bộ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6593)**
+
+**Author:** [Eris Create Lab](https://x.com/Eris_Create_Lab) | **Source:** [Link](https://x.com/Eris_Create_Lab/status/2069652994598244645) | **Published:** Jun 24, 2026
 
 ---
 ### Kịch bản video người ảo Grok-imagine 1.5
@@ -1983,158 +2147,6 @@ Một ngôi nhà tranh ven biển Nhật Bản đầy quyến rũ lúc hoàng h�
 **Author:** [David Herbert Thomas](https://x.com/Diabach1972) | **Source:** [Link](https://x.com/Diabach1972/status/2067970008748110198) | **Published:** Jun 19, 2026
 
 ---
-### Cảnh phim tàu vũ trụ rời quỹ đạo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video đậm chất điện ảnh mô tả hạm đội tàu vũ trụ tiên tiến đang tăng tốc rời khỏi quỹ đạo Trái Đất với hiệu ứng động cơ chân thực và góc quay lùi ấn tượng.
-
-#### 📝 Prompt
-
-```
-Hạm đội tàu vũ trụ lớp Starship tiên tiến tăng tốc mạnh mẽ rời khỏi quỹ đạo Trái Đất với hiệu ứng động cơ chân thực và những tia sáng rực rỡ. Góc quay lùi đầy kịch tính cho thấy Trái Đất dần thu nhỏ lại thành một viên bi xanh xa xăm khi Mặt Trăng trôi qua, chuyển cảnh sang góc nhìn không gian sâu thẳm.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067969292167983105/img/vm090Uo7YrihYVDO.jpg" width="600" alt="Cảnh phim tàu vũ trụ rời quỹ đạo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6248)**
-
-**Author:** [Adam B](https://x.com/DaExChef) | **Source:** [Link](https://x.com/DaExChef/status/2067969347268522403) | **Published:** Jun 19, 2026
-
----
-### Con tàu đơn độc và hòn đảo voi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một khung cảnh đầy kịch tính và tựa như mơ, nơi một người đàn ông đơn độc trên con tàu bắt gặp một chú voi khổng lồ đang cõng trên lưng cả một hòn đảo.
-
-#### 📝 Prompt
-
-```
-Một người đàn ông đơn độc trên con tàu cũ, đang nhìn chằm chằm vào một thứ không tưởng: một chú voi cổ đại khổng lồ đang cõng cả một hòn đảo trên lưng. Quy mô, ánh sáng xuyên qua những đám mây, những con sóng vỗ… mọi thứ về khung cảnh này đều mang lại cảm giác vừa hùng vĩ vừa tựa như mơ. Một trải nghiệm đầy phiêu lưu và có chút hư ảo, giống như tình cờ bắt gặp một huyền thoại bị lãng quên giữa đại dương. Đầy kịch tính và giàu tính nghệ thuật.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067964156440092672/img/a6xeaYFZmuBeqCzv.jpg" width="600" alt="Con tàu đơn độc và hòn đảo voi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6253)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2067964231618789770) | **Published:** Jun 19, 2026
-
----
-### Bộ đồ du hành vũ trụ Tesla phong cách khoa học viễn tưởng Daft Punk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh sáng tạo mang phong cách khoa học viễn tưởng về một người phụ nữ đội mũ bảo hiểm Daft Punk và mặc bộ đồ du hành vũ trụ Tesla giữa khung cảnh Bắc Cực, đang bế một em bé và một món đồ chơi nhồi bông.
-
-#### 📝 Prompt
-
-```
-Ảnh siêu thực, tươi sáng và rực rỡ, ánh sáng dịu nhẹ, ánh sáng high key, tông màu sáng. Người phụ nữ đội mũ bảo hiểm Daft Punk màu đen bóng và vàng với mái tóc bạch kim dài thướt tha, mặc bộ đồ du hành vũ trụ Tesla màu nâu đen lì với logo Tesla trên ngực. Cô ấy đang nhẹ nhàng bế một em bé mặc bộ đồ liền thân họa tiết gấu bông trắng, đội mũ bảo hiểm Daft Punk mini và có logo Tesla nhỏ. Cô ấy cũng đang cầm một món đồ chơi nhồi bông Shiba Inu dễ thương. Khung cảnh lãnh nguyên Bắc Cực đầy tuyết trắng xóa rộng lớn với những dãy núi xa xa ở phía sau, bầu trời u ám sáng sủa, chi tiết cao, chân thực như ảnh chụp, đậm chất điện ảnh.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067963385082224641/img/mPBQNO2QyPbKEgD_.jpg" width="600" alt="Bộ đồ du hành vũ trụ Tesla phong cách khoa học viễn tưởng Daft Punk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6256)**
-
-**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2067963455508812163) | **Published:** Jun 19, 2026
-
----
-### Chú mèo mướp cam tinh nghịch trong đồng cỏ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video tạo ra hình ảnh chú mèo con dễ thương đang chớp mắt và đùa nghịch với những bông hoa dại trên đồng cỏ đầy nắng.
-
-#### 📝 Prompt
-
-```
-Chú mèo mướp cam với bộ lông xù chớp đôi mắt to tròn, cái đuôi ngoe nguẩy đầy tinh nghịch và nhẹ nhàng dùng chân vờn những bông hoa dại gần đó khi đang ngồi giữa đồng cỏ đầy nắng, cùng làn gió nhẹ làm lay động những ngọn cỏ.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067958878072115200/img/ZCTWjrB1moF2zACI.jpg" width="600" alt="Chú mèo mướp cam tinh nghịch trong đồng cỏ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6241)**
-
-**Author:** [grok_imagine_free_user](https://x.com/FreeGrokUser) | **Source:** [Link](https://x.com/FreeGrokUser/status/2067958938692378627) | **Published:** Jun 19, 2026
-
----
-### Trailer phim bom tấn Hollywood phong cách u tối
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video để xây dựng trailer phim bom tấn điện ảnh u tối dựa trên một nhân vật.
-
-#### 📝 Prompt
-
-```
-Hãy tạo cho tôi một trailer giống như phim bom tấn Hollywood dựa trên nhân vật này, với cốt truyện đầy u tối
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067943275537862656/img/qzpFWZbF2wDwv-kR.jpg" width="600" alt="Trailer phim bom tấn Hollywood phong cách u tối">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6242)**
-
-**Author:** [kramrogNL (33.3%)](https://x.com/kramrogNL) | **Source:** [Link](https://x.com/kramrogNL/status/2067943364117266808) | **Published:** Jun 19, 2026
-
----
-### Câu chuyện Anime về một tỷ phú nghìn tỷ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý (prompt) kể chuyện anime mô tả hành trình của một cậu bé từ Nam Phi trở thành một tỷ phú nghìn tỷ.
-
-#### 📝 Prompt
-
-```
-Câu chuyện anime về một cậu bé khiêm tốn đến từ Nam Phi và hành trình trở thành tỷ phú nghìn tỷ đầu tiên trên thế giới
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2066579935943147521/img/zWNMK7sOkThlgTRe.jpg" width="600" alt="Câu chuyện Anime về một tỷ phú nghìn tỷ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6320)**
-
-**Author:** [SMX 🇺🇸](https://x.com/iam_smx) | **Source:** [Link](https://x.com/iam_smx/status/2067899026339447040) | **Published:** Jun 19, 2026
-
----
-### Thế giới hoạt hình cắt giấy Budapest
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tuyệt đẹp để tạo video theo phong cách cắt giấy về Budapest, bao gồm các công trình kiến trúc lịch sử và dòng sông Danube.
-
-#### 📝 Prompt
-
-```
-Budapest, Hungary. Nơi kiến trúc lịch sử, dòng sông Danube và những con phố vượt thời gian hòa quyện trong một thế giới cắt giấy tuyệt đẹp.
-```
-
-<img src="https://cms-assets.youmind.com/media/1782121028754_405t5z_HLKjCZbWgAAW4Xd.jpg" width="600" alt="Thế giới hoạt hình cắt giấy Budapest">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6255)**
-
-**Author:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2067894649663246574) | **Published:** Jun 19, 2026
-
----
-### Biến hình kem ốc quế siêu thực
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) tạo video siêu thực giúp biến đổi một chiếc kem ốc quế sô-cô-la lớn thành một cấu trúc được tạo nên từ vô số người tí hon dựa trên hình ảnh tham chiếu.
-
-#### 📝 Prompt
-
-```
-Trong hình ảnh tham chiếu, hãy biến chiếc kem ốc quế sô-cô-la lớn thành một cấu trúc siêu thực được tạo nên từ vô số người Iran tí hon
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067815711146389504/img/0WmEi8m954NYcRFy.jpg" width="600" alt="Biến hình kem ốc quế siêu thực">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6246)**
-
-**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2067815770705526878) | **Published:** Jun 19, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2196,6 +2208,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-29T04:58:31.074Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-29T12:55:25.302Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **1983** |
+| 📝 プロンプト総数 | **1991** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-06-29** |
 
@@ -189,6 +189,120 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### 砂漠でソファがサンドボードをする動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 砂漠でソファがサンドボードをする様子を描いた、カメラワークの指示を含むダイナミックな動画生成用プロンプトです。
+
+#### 📝 プロンプト
+
+```
+砂漠でのサンドボードの動き。ソファが滑らかに右斜面を滑り降り、カメラがそのソファを追従する。ダイナミックなショットで、カメラは常にモデルの正面を捉え続けること。モデルの表情は無表情で。遠景は含めないこと。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071293819006627840/img/pdQ6g7DXonPOm6y7.jpg" width="600" alt="砂漠でソファがサンドボードをする動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6589)**
+
+**作者:** [Christian Kierulf](https://x.com/ChristianKieru1) | **ソース:** [Link](https://x.com/ChristianKieru1/status/2071293887357018535) | **公開日:** Jun 28, 2026
+
+---
+### 雪の中で遊ぶ子猫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 雪の中を跳ね回る子猫を、映画のようなカメラワークで捉えたビデオのための詳細なプロンプト。
+
+#### 📝 プロンプト
+
+```
+ふわふわの子猫が楽しそうに跳ね回り、舞い落ちる雪片に前足でじゃれついています。興奮で尻尾を揺らしながら、新雪の中を駆け回る様子です。穏やかに雪が降り続く中、カメラは安定したミディアムショットを維持し、わずかにゆっくりとズームインしていきます。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071292994314264577/img/zp7RX3Yjf71_afrn.jpg" width="600" alt="雪の中で遊ぶ子猫">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6591)**
+
+**作者:** [grok_imagine_free_user](https://x.com/FreeGrokUser) | **ソース:** [Link](https://x.com/FreeGrokUser/status/2071293051084120502) | **公開日:** Jun 28, 2026
+
+---
+### Tesla Optimus ロボットがグループを誘導する様子
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 複数の Tesla Optimus ロボットが並び、グループを正しい方向へ導く様子を描いた映画のようなビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+グループの周囲に多くの Tesla Optimus ロボットが集まり、彼らを正しい方向へ導くためにサポートする様子
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071218685004382208/img/vu_YCh7uxGKIGN4v.jpg" width="600" alt="Tesla Optimus ロボットがグループを誘導する様子">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6592)**
+
+**作者:** [Joe Hogan](https://x.com/JoeHoganJr) | **ソース:** [Link](https://x.com/JoeHoganJr/status/2071218760829071770) | **公開日:** Jun 28, 2026
+
+---
+### 汎用ロボットによる森林の草刈り
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> マチェットを使って森林の茂みを刈り払うロボットが、ボブキャットを驚かせる様子を描いた非常に詳細なビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+使い込まれたオリーブグリーンの装甲をまとった人型汎用ロボットが、木漏れ日が差し込む森の端で、大きなマチェットを使って密集した下草を刈り払っている。絡み合った茂みを振り抜く動作の最中で、葉が舞い散る。開かれた茂みの奥では、緊張した様子のボブキャットが耳を伏せて低く身構えており、その黄金色の...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071122100564508672/img/c4Cd2x9QeKqLRyJD.jpg" width="600" alt="汎用ロボットによる森林の草刈り">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6586)**
+
+**作者:** [Jean](https://x.com/SpaceScoutsIntl) | **ソース:** [Link](https://x.com/SpaceScoutsIntl/status/2071122156583571904) | **公開日:** Jun 28, 2026
+
+---
+### 宇宙学習センターでの発表会動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 学習センターで子供たちが宇宙をテーマにしたアートや絵を発表する様子を描いた、詳細な動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+宇宙学習センターの発表会で、小さなステージに上がった子供が紙製のロケットを優しく持ち上げ、銀河模様のラグの上にいる友達に話しかけています。その近くでは、他の子供たちが惑星の絵やキラキラした星のモビールを掲げ、順番に自分の作品を発表しようと手を挙げています。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071104793569816576/img/uN0w0sAmBWrP697z.jpg" width="600" alt="宇宙学習センターでの発表会動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6587)**
+
+**作者:** [Christina Mieloszyk](https://x.com/Stina_Lotus) | **ソース:** [Link](https://x.com/Stina_Lotus/status/2071104897047527577) | **公開日:** Jun 28, 2026
+
+---
+### メカ怪獣のインタラクション動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 胴体を傾け、廃墟の中で呼吸するメカ怪獣のトカゲを描写した映画のような動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+直立したトカゲ型のメカ怪獣が、重厚な胴体をゆっくりと前方に傾け、装甲に覆われた腹部をカメラに向けて優しく差し出す。プレートが微かに上下する呼吸の動きが、触れ合いを誘うような雰囲気を醸し出す。舞台は静かな夕暮れの廃墟、カメラは緩やかにズームイン。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071102594282647552/img/bG9x_bzWimQ31Upc.jpg" width="600" alt="メカ怪獣のインタラクション動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6588)**
+
+**作者:** [ガトル](https://x.com/sakana_no_sippo) | **ソース:** [Link](https://x.com/sakana_no_sippo/status/2071102648502387106) | **公開日:** Jun 28, 2026
+
+---
 ### アンデスコンドルの飛行シネマティック
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +320,25 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6564)**
 
 **作者:** [Mario Nawfal](https://x.com/MarioNawfal) | **ソース:** [Link](https://x.com/MarioNawfal/status/2071100026772971840) | **公開日:** Jun 28, 2026
+
+---
+### 深夜のニュースキャスター
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> スタジオでニュースキャスターを撮影するシネマティックな長回し映像のための、詳細なビデオプロンプト。照明の指示も含まれています。
+
+#### 📝 プロンプト
+
+```
+ワンカットの長回し。深夜の薄暗い放送スタジオで、洗練されたアンカーデスクの前に座るニュースキャスター。冷たい青色のキーライトと、カメラ外のモニターから放たれる柔らかなアンバー色のリムライト。ニュースの途中であり、目の前には書類が整然と置かれている。ニュースキャスターは...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071078793536487424/img/PXsbqWG82QPA_CcP.jpg" width="600" alt="深夜のニュースキャスター">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6590)**
+
+**作者:** [michael Rozyla](https://x.com/ineverhad1) | **ソース:** [Link](https://x.com/ineverhad1/status/2071078843331334538) | **公開日:** Jun 28, 2026
 
 ---
 ### レトロな CRT マニフェストポスター
@@ -741,6 +874,37 @@ Elena が輝くポータルを通り抜け、広大な Playroom へと足を踏�
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6434)**
 
 **作者:** [Mario Nawfal](https://x.com/MarioNawfal) | **ソース:** [Link](https://x.com/MarioNawfal/status/2069654250263917021) | **公開日:** Jun 24, 2026
+
+---
+### 同期された分割画面のレーシング動画
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 日本の峠をドリフト走行するスポーツカーを、車内ドライバー視点と車外チェイスカメラ視点の両方で捉えた、同期された分割画面動画を生成するための包括的なプロンプトです。
+
+#### 📝 プロンプト
+
+```
+画面は左右に分割された構成となっています。両サイドで同じ瞬間を異なるカメラアングルから捉え、同一の車両、同一のコーナー、同一の時間軸を表示します。
+
+[左画面]
+車内ドライバーカメラ。ロールケージを備えたスポーツカーの車内。キャラクターは運転席に座り、両手でステアリングホイールを握っています。日本の峠を高速で走行し、ヘアピンカーブに進入して旋回中。視線は進行方向に向けられ、真剣で集中した表情を浮かべています。横Gが身体にかかり、肩や髪がわずかに外側へ流れています。車両の動きに合わせて衣服や髪が自然に揺れます。バケットシートや計器類、車両の振動と同期した自然なカメラシェイクが特徴です。
+
+[右画面]
+同一車両を斜め後方から追従する三人称視点のチェイスカメラ。森林に囲まれた日本の峠のリアルな風景で、ガードレールやセンターラインが映し出されています。車両は同じヘアピンカーブを旋回しており、姿勢に荷重移動が現れています。タイヤが路面をしっかりと捉え、サスペンションが自然に沈み込んでいます。高速コーナリングのスピード感と躍動感を伝えます。
+
+[同期の指示]
+左右は異なるシーンではありません。左画面のステアリング操作と右画面の車両挙動が完全に一致しています。2つのカメラが同じ瞬間を撮影していることが明確に伝わるようにしてください。シーンカットやカメラの切り替えなしで、コーナリングの一連の動きを描写します。
+
+[最終段階]
+車両はコーナー出口に向けて加速します。左画面では、ドライバーが加速に合わせてステアリングを中央に戻します。右画面では、車両が安定して次のセクションへ向かいます。スムーズな加速、リアルな車両挙動、モータースポーツ中継のような没入感を特徴とします。高品質なアニメキャラクター、高品質な背景、リアルな車両描写により、映画作品のようなシーンを表現してください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069652913727934464/img/cD5otFSS6dkITuMi.jpg" width="600" alt="同期された分割画面のレーシング動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6593)**
+
+**作者:** [Eris Create Lab](https://x.com/Eris_Create_Lab) | **ソース:** [Link](https://x.com/Eris_Create_Lab/status/2069652994598244645) | **公開日:** Jun 24, 2026
 
 ---
 ### Grok-imagine 1.5 デジタルヒューマン動画スクリプト
@@ -1982,158 +2146,6 @@ UFO に引き寄せられるかのように子供が地面から浮かび上が�
 **作者:** [David Herbert Thomas](https://x.com/Diabach1972) | **ソース:** [Link](https://x.com/Diabach1972/status/2067970008748110198) | **公開日:** Jun 19, 2026
 
 ---
-### スターシップ艦隊の宇宙出発シネマティック
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 地球軌道から加速して離れていく先進的なスターシップ艦隊を、リアルなスラスターの挙動とドラマチックなカメラの引きで描いたシネマティックな動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-先進的な Starship クラスの艦隊が、リアルなスラスターの挙動と鮮やかな閃光を放ちながら、地球軌道から力強く加速していきます。カメラがドラマチックに引き、地球が遠くの青いビー玉のように小さくなっていく様子を捉え、月が通り過ぎる中で深宇宙の視点へと切り替わります。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067969292167983105/img/vm090Uo7YrihYVDO.jpg" width="600" alt="スターシップ艦隊の宇宙出発シネマティック">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6248)**
-
-**作者:** [Adam B](https://x.com/DaExChef) | **ソース:** [Link](https://x.com/DaExChef/status/2067969347268522403) | **公開日:** Jun 19, 2026
-
----
-### 孤高の船と島を背負う象
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 古びた船に乗る一人の男が、島を丸ごと背負った巨大な象と遭遇する、ドラマチックで夢のような光景。
-
-#### 📝 プロンプト
-
-```
-古びた船に乗る一人の男が、ありえない光景を目の当たりにする。それは、島を丸ごと背負った巨大な古代の象だった。そのスケール感、雲間から差し込む光、打ち寄せる波……すべてが壮大でありながら、どこか夢の中にいるような感覚を抱かせる。大海原で忘れ去られた神話に出くわしたかのような、冒険心と非現実感が漂うドラマチックな情景。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067964156440092672/img/a6xeaYFZmuBeqCzv.jpg" width="600" alt="孤高の船と島を背負う象">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6253)**
-
-**作者:** [⭕Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2067964231618789770) | **公開日:** Jun 19, 2026
-
----
-### SF 風 Daft Punk Tesla 宇宙服
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Daft Punk のヘルメットと Tesla の宇宙服を身にまとい、北極の景色の中で赤ちゃんとぬいぐるみを持つ女性を描くためのクリエイティブな SF プロンプト。
-
-#### 📝 プロンプト
-
-```
-超リアルな写真、明るく輝くような質感、柔らかく明るいライティング、ハイキー照明、明るい色調。光沢のある黒と金の Daft Punk ヘルメットを被り、長く流れるようなプラチナホワイトの髪をした女性。胸元に Tesla ロゴが入ったマットなブラウンとブラックの Tesla 宇宙服を着用。彼女は、ミニ Daft Punk ヘルメットと小さな Tesla ロゴが付いた、白いテディベア柄のロンパースを着た赤ちゃんを優しく抱いている。また、可愛らしい柴犬のぬいぐるみも持っている。背景には遠くの山々を望む、明るく広大な雪の北極圏のツンドラ、明るい曇り空、高精細、フォトリアル、映画のような仕上がり。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067963385082224641/img/mPBQNO2QyPbKEgD_.jpg" width="600" alt="SF 風 Daft Punk Tesla 宇宙服">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6256)**
-
-**作者:** [Myluna](https://x.com/monicamoonx) | **ソース:** [Link](https://x.com/monicamoonx/status/2067963455508812163) | **公開日:** Jun 19, 2026
-
----
-### 草原で遊ぶ愛らしいオレンジ色のタビー子猫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 日当たりの良い草原で、子猫がまばたきをしたり野花と戯れたりする様子を生成するビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-ふわふわとしたオレンジ色のタビー子猫が、日当たりの良い草原に座り、大きな瞳をまばたかせながら、楽しげに尻尾を揺らしています。柔らかな風が草を揺らす中、近くに咲く野花にそっと前足を伸ばしています。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067958878072115200/img/ZCTWjrB1moF2zACI.jpg" width="600" alt="草原で遊ぶ愛らしいオレンジ色のタビー子猫">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6241)**
-
-**作者:** [grok_imagine_free_user](https://x.com/FreeGrokUser) | **ソース:** [Link](https://x.com/FreeGrokUser/status/2067958938692378627) | **公開日:** Jun 19, 2026
-
----
-### ダークなハリウッド超大作風予告編
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> キャラクターを基に、ダークで映画のような超大作予告編を作成するための動画生成プロンプトです。
-
-#### 📝 プロンプト
-
-```
-このキャラクターを基に、ダークで過激な展開のハリウッド超大作風予告編を作成して
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067943275537862656/img/qzpFWZbF2wDwv-kR.jpg" width="600" alt="ダークなハリウッド超大作風予告編">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6242)**
-
-**作者:** [kramrogNL (33.3%)](https://x.com/kramrogNL) | **ソース:** [Link](https://x.com/kramrogNL/status/2067943364117266808) | **公開日:** Jun 19, 2026
-
----
-### トリリオネア・アニメ・ストーリー
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 南アフリカ出身の少年が兆万長者（トリリオネア）へと成長する旅路を描いた、アニメ制作向けのナラティブ・プロンプトです。
-
-#### 📝 プロンプト
-
-```
-南アフリカの平凡な少年が、世界初のトリリオネアへと駆け上がるまでの軌跡を描いたアニメ・ストーリー
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2066579935943147521/img/zWNMK7sOkThlgTRe.jpg" width="600" alt="トリリオネア・アニメ・ストーリー">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6320)**
-
-**作者:** [SMX 🇺🇸](https://x.com/iam_smx) | **ソース:** [Link](https://x.com/iam_smx/status/2067899026339447040) | **公開日:** Jun 19, 2026
-
----
-### ブダペストのペーパークラフト風アニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 歴史的な建造物やドナウ川など、ブダペストの街並みを美しいペーパークラフト風の映像として生成するプロンプトです。
-
-#### 📝 プロンプト
-
-```
-ハンガリーのブダペスト。歴史的な建造物、ドナウ川、そして時を超えて愛される街並みが、美しいペーパークラフトの世界で融合します。
-```
-
-<img src="https://cms-assets.youmind.com/media/1782121028754_405t5z_HLKjCZbWgAAW4Xd.jpg" width="600" alt="ブダペストのペーパークラフト風アニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6255)**
-
-**作者:** [𝐌](https://x.com/Strength04_X) | **ソース:** [Link](https://x.com/Strength04_X/status/2067894649663246574) | **公開日:** Jun 19, 2026
-
----
-### シュールなアイスクリームコーンの変身
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 参照画像に基づき、大きなチョコレートアイスクリームコーンを無数の小さな人々で構成された構造体へと変身させる、シュールな動画生成用プロンプトです。
-
-#### 📝 プロンプト
-
-```
-参照画像内の大きなチョコレートアイスクリームコーンを、無数の小さなイラン人で構成されたシュールな姿に変身させてください
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067815711146389504/img/0WmEi8m954NYcRFy.jpg" width="600" alt="シュールなアイスクリームコーンの変身">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6246)**
-
-**作者:** [Ami A](https://x.com/AA63782) | **ソース:** [Link](https://x.com/AA63782/status/2067815770705526878) | **公開日:** Jun 19, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2195,6 +2207,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-29T04:58:26.004Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-29T12:55:20.233Z</sub>
 
 </div>
