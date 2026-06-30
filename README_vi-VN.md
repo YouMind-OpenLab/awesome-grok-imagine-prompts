@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1991** |
+| 📝 Total Prompts | **1998** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-30** |
 
@@ -189,6 +189,147 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Người phụ nữ tóc vàng dưới ánh trăng dâu tây
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý video điện ảnh tuyệt đẹp với hình ảnh người phụ nữ trên đỉnh đồi dưới ánh trăng dâu tây khổng lồ vào lúc hoàng hôn.
+
+#### 📝 Prompt
+
+```
+Dưới ánh sáng dịu nhẹ của mặt trăng dâu tây khổng lồ treo thấp trên bầu trời hoàng hôn, một người phụ nữ tóc vàng xinh đẹp đứng duyên dáng trên đỉnh đồi yên tĩnh. Mái tóc vàng óng ả của cô xõa dài thành những gợn sóng nhẹ nhàng sau lưng, bắt trọn ánh sáng hồng rực rỡ. Cô khoác trên mình chiếc váy xuyên thấu đầy mê hoặc.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071733013730541571/img/C68iqHWL4e9bs2tM.jpg" width="600" alt="Người phụ nữ tóc vàng dưới ánh trăng dâu tây">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6635)**
+
+**Author:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **Source:** [Link](https://x.com/AnnetteHollerWe/status/2071733120089653442) | **Published:** Jun 29, 2026
+
+---
+### Huyền thoại trên băng: Trượt băng nghệ thuật
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một gợi ý tạo hoạt ảnh đậm chất điện ảnh và thơ mộng, mô tả cuộc gặp gỡ định mệnh giữa hai vận động viên trượt băng trên sân băng tĩnh lặng.
+
+#### 📝 Prompt
+
+```
+❄️ Huyền thoại trên băng – Tập 1 ❄️
+
+Hai người gặp nhau trên sân băng. Khoảnh khắc ánh mắt họ chạm nhau, thế giới tĩnh lặng bắt đầu chuyển động. Mái tóc bạc vẽ nên những đường gió, và tuyết được khoác lên mình ánh sáng. Từng bước một, họ dệt nên định mệnh và biến nó thành một vũ điệu vĩnh cửu. ✨ Hai tâm hồn. Một nhịp điệu. Một định mệnh. Đây chính là khởi đầu của huyền thoại trên băng. Còn tiếp… ⛸️❄️
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071684493015121920/img/izAPSvtfE0tBXB_V.jpg" width="600" alt="Huyền thoại trên băng: Trượt băng nghệ thuật">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6640)**
+
+**Author:** [猫神MT](https://x.com/nekogami_MT) | **Source:** [Link](https://x.com/nekogami_MT/status/2071684551806787596) | **Published:** Jun 29, 2026
+
+---
+### Hoạt ảnh Mặt Trăng nhiệt động lực học ảo giác
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một lời nhắc video vũ trụ sống động mô tả mặt trăng đang sôi, tỏa nhiệt và các hình mandala xoay tròn trong làn sương ảo giác.
+
+#### 📝 Prompt
+
+```
+Mặt trăng đang sôi tỏa ra các đợt sóng nhiệt trên lớp hơi nước bốc lên; các hình mandala Carnot xoay tròn; máy quay trôi dần lên trên qua làn sương nhiệt động lực học, mang phong cách ảo giác và vũ trụ, tạo cảm giác choáng ngợp như trailer phim.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071662651273269249/img/AdGD3S1k8mhyEWBj.jpg" width="600" alt="Hoạt ảnh Mặt Trăng nhiệt động lực học ảo giác">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6636)**
+
+**Author:** [ATom](https://x.com/ThomasSwaff) | **Source:** [Link](https://x.com/ThomasSwaff/status/2071662857603666081) | **Published:** Jun 29, 2026
+
+---
+### Giấc mơ nấm màu pastel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt mang phong cách ảo giác và huyền ảo, mô tả hành trình lơ lửng qua những vùng đất nấm màu pastel.
+
+#### 📝 Prompt
+
+```
+Lơ lửng trong giấc mơ nấm màu pastel đầy ảo giác… Những lời thì thầm của sự kỳ diệu nhẹ nhàng và ánh sáng dịu êm 🍄🌈✨
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071542463161106432/img/n-v_9YJXnNP9wRsd.jpg" width="600" alt="Giấc mơ nấm màu pastel">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6637)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2071542525698122170) | **Published:** Jun 29, 2026
+
+---
+### Các câu lệnh Grok Imagine cho sinh vật cơ khí và linh hồn hư ảo
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Bộ mô tả hình ảnh chi tiết để tạo ra một chú cáo cơ khí neon và một linh hồn kính màu, được thiết kế để tạo video chất lượng cao trong Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Cáo Neon (Cáo Cơ Khí)
+Khái niệm: Một chú cáo cơ khí nhỏ tượng trưng cho sự nhanh nhẹn và trí tuệ. Đóng vai trò là đối tác cho việc truyền tải thông tin tốc độ cao.
+Chi tiết: Một chú cáo nhỏ được cấu tạo từ các bộ phận cơ khí tinh xảo và các ống neon màu vàng. Một số phần trên cơ thể trong suốt, để lộ các luồng dữ liệu xung ánh sáng bên trong. Nó có đôi mắt dạng thấu kính để ghi lại những gì đi vào tầm nhìn của nó dưới dạng dữ liệu.
+
+Linh hồn Kính màu (Linh hồn Ánh sáng)
+Khái niệm: Một linh hồn có cánh nhỏ, trong suốt được sinh ra từ ánh sáng cô đọng đi qua kính màu nhà thờ.
+Chi tiết: Một linh hồn hình người nhỏ bé được cấu tạo từ ánh sáng đa sắc xoáy tròn, phản chiếu tất cả các màu sắc của kính màu. Cơ thể nó mỏng manh như thủy tinh nhưng lại vô hình như ánh sáng. Khi nhân vật di chuyển, ánh sáng từ kính màu bị thu hút về phía nó, tạo nên những linh hồn này.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2071484451524399104/pu/img/Nr2UO5QjZq2IsxfB.jpg" width="600" alt="Các câu lệnh Grok Imagine cho sinh vật cơ khí và linh hồn hư ảo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6638)**
+
+**Author:** [akira](https://x.com/akira_LEVEL3141) | **Source:** [Link](https://x.com/akira_LEVEL3141/status/2071484537767686272) | **Published:** Jun 29, 2026
+
+---
+### Nụ hôn vàng của những người tình đá cẩm thạch
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý phong cách nghệ thuật tinh tế kết hợp giữa tác phẩm điêu khắc của Yves Pires và phong cách hội họa của Gustav Klimt.
+
+#### 📝 Prompt
+
+```
+Một nụ hôn trong một nụ hôn. Những người tình đá cẩm thạch của Yves Pires quấn quýt bên nhau trước nụ hôn vàng của Klimt.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071412715935985665/img/FcHHNv039pFHi5yr.jpg" width="600" alt="Nụ hôn vàng của những người tình đá cẩm thạch">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6639)**
+
+**Author:** [Jess X](https://x.com/jess_X) | **Source:** [Link](https://x.com/jess_X/status/2071412768066936906) | **Published:** Jun 29, 2026
+
+---
+### Cảnh Graffiti Cyborg Cyberpunk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt chi tiết về một nghệ sĩ graffiti cyborg trong con hẻm neon ẩm ướt, chuyển cảnh từ việc vẽ tranh sang lái xe mô tô.
+
+#### 📝 Prompt
+
+```
+Nghệ sĩ graffiti cyborg đội mũ trùm đầu và mũ bảo hiểm màu xanh lam lùi lại khỏi bức tranh tường robot phát sáng màu xanh trên bức tường gạch, ném bình sơn xịt ra khỏi khung hình, sau đó nhảy lên chiếc mô tô cyberpunk bóng bẩy với đèn neon dưới gầm đang đỗ trong con hẻm ẩm ướt.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071397162634842112/img/ztzxpB6ihaTV4KoI.jpg" width="600" alt="Cảnh Graffiti Cyborg Cyberpunk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6634)**
+
+**Author:** [Robadang ✏️ AI Artist](https://x.com/dang_machina) | **Source:** [Link](https://x.com/dang_machina/status/2071397216674308335) | **Published:** Jun 29, 2026
+
+---
 ### Video trượt cát trên ghế sofa giữa sa mạc
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2014,139 +2155,6 @@ Hãy làm cho con cá mập bơi lại gần máy quay hơn và há miệng đ�
 **Author:** [WiseArtist Studios](https://x.com/Wise375) | **Source:** [Link](https://x.com/Wise375/status/2068185956176261631) | **Published:** Jun 20, 2026
 
 ---
-### Hoạt ảnh trái tim đập với nhân vật biến mất
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh cho Grok Imagine giúp tạo video về một trái tim đang đập ở chính giữa sau khi nhân vật biến mất khỏi khung hình.
-
-#### 📝 Prompt
-
-```
-Được, nhưng hãy để Snoopy biến mất ở cuối. Chỉ để lại trái tim ở chính giữa. Bạn có thể làm cho nó đập như một trái tim thật.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068114147313647617/img/f7Ig4_T2qqQtUBEi.jpg" width="600" alt="Hoạt ảnh trái tim đập với nhân vật biến mất">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6257)**
-
-**Author:** [DW 💉👀🐊](https://x.com/deweller) | **Source:** [Link](https://x.com/deweller/status/2068114216876163273) | **Published:** Jun 19, 2026
-
----
-### Hổ gầm trên ghế sofa sang trọng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý video điện ảnh về chú hổ đang gầm trên chiếc ghế sofa kiểu Pháp với cảm giác hoài cổ, nhiễu hạt và phong cách chụp ảnh dùng đèn flash.
-
-#### 📝 Prompt
-
-```
-hổ gầm trên ghế sofa kiểu Pháp trong biệt thự sang trọng, không khí hoài cổ, bóng đổ đậm, nhiễu hạt dày, mang cảm giác chụp ảnh dùng đèn flash
-```
-
-<img src="https://cms-assets.youmind.com/media/1781944909883_fv7mtm_HLNKqSfWQAEg5k1.jpg" width="600" alt="Hổ gầm trên ghế sofa sang trọng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6250)**
-
-**Author:** [Love’s Last Icon](https://x.com/primusv1) | **Source:** [Link](https://x.com/primusv1/status/2068078806170993124) | **Published:** Jun 19, 2026
-
----
-### Người phụ nữ điện ảnh với tàn nhang và vương miện bạc
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) điện ảnh cực kỳ chi tiết về người phụ nữ có tàn nhang, mái tóc sẫm màu và chiếc vương miện bạc tinh xảo đang cầm một thanh kiếm thời trung cổ.
-
-#### 📝 Prompt
-
-```
-Người phụ nữ với những nốt tàn nhang tinh tế trên mũi và má, những sợi tóc sẫm màu ướt át dính vào khuôn mặt. Chiếc vương miện bạc tinh xảo với các viên pha lê, một lớp khăn voan bạc lấp lánh dày hơn một chút được phủ đầy ấn tượng lên nửa bên trái khuôn mặt (che một bên mắt) và nhẹ nhàng bao bọc một phần thanh kiếm. Khăn voan có kết cấu mờ ảo tinh tế nhưng dày dặn hơn với lớp kim tuyến mịn. Cô ấy cầm một thanh kiếm thời trung cổ được trang trí công phu bằng cả hai tay, chuôi kiếm và phần trên của lưỡi kiếm được che phủ nhẹ nhàng bởi lớp khăn voan dày gần cằm và môi, trên các ngón tay đeo nhiều chiếc nhẫn bạc cầu kỳ. Ánh sáng bên khuếch tán rất dịu, bảng màu xám bạc lạnh nhạt, độ bão hòa thấp, các tông màu thanh lịch và tinh tế. Kết cấu da chân thực siêu chi tiết, đôi môi bóng tự nhiên, các nếp gấp vải chân thực và phản chiếu ánh sáng trên lớp khăn voan dày. Lấy nét cực sắc vào con mắt lộ ra, các nốt tàn nhang và kết cấu khăn voan, độ sâu trường ảnh nông, hiệu ứng bokeh mềm mại mơ màng, siêu thực, chân thực như ảnh chụp, chỉnh màu điện ảnh.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068062467100418048/img/XAdGpdy3LIaC58ti.jpg" width="600" alt="Người phụ nữ điện ảnh với tàn nhang và vương miện bạc">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6254)**
-
-**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2068062555310891321) | **Published:** Jun 19, 2026
-
----
-### Tham quan khu tiếp tân khu công nghiệp
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video POV điện ảnh đi bộ từ lối vào của một cơ sở công nghiệp hiện đại đến khu vực tiếp tân với văn bản tùy chỉnh trên tường.
-
-#### 📝 Prompt
-
-```
-Hãy tạo cho tôi một video về một khu công nghiệp hiện đại từ bên ngoài, sau đó sử dụng góc nhìn thứ nhất (POV) để đi bộ qua cửa trước vào khu vực tiếp tân. Phía trên quầy lễ tân, hãy ghi dòng chữ "MyCityDC"
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068048509111095296/img/bxzPK1A53AAeWJL7.jpg" width="600" alt="Tham quan khu tiếp tân khu công nghiệp">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6243)**
-
-**Author:** [Number-One-AI-Fanboy](https://x.com/Number1AIFanboy) | **Source:** [Link](https://x.com/Number1AIFanboy/status/2068048785930924447) | **Published:** Jun 19, 2026
-
----
-### Hoạt ảnh các bức tượng Phật giáo đang nhảy múa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video đầy sáng tạo, hình dung các bức tượng Phật giáo lịch sử từ Bảo tàng Ấn Độ sống dậy trong một điệu nhảy xuất thần đầy linh thiêng.
-
-#### 📝 Prompt
-
-```
-Những bức tượng di sản Phật giáo được chọn lọc từ Bảo tàng Ấn Độ, trong trí tưởng tượng của chúng tôi, đang nhảy múa trong sự xuất thần đầy linh thiêng!
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068005532213080070/img/TdbhoKsf2yQEobxy.jpg" width="600" alt="Hoạt ảnh các bức tượng Phật giáo đang nhảy múa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6244)**
-
-**Author:** [Ashok Kumar Panda](https://x.com/ashok_sr_adv) | **Source:** [Link](https://x.com/ashok_sr_adv/status/2068005598046892078) | **Published:** Jun 19, 2026
-
----
-### Nhà tranh ven biển phong cách Ghibli
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một khung cảnh hoài niệm và đầy quyến rũ về ngôi nhà tranh ven biển Nhật Bản lúc hoàng hôn theo phong cách anime biểu tượng của Studio Ghibli.
-
-#### 📝 Prompt
-
-```
-Một ngôi nhà tranh ven biển Nhật Bản đầy quyến rũ lúc hoàng hôn, ánh đèn ấm áp tỏa ra từ các ô cửa sổ, những con sóng biển dịu dàng có thể nhìn thấy phía sau hiên nhà, bầu trời đầy sao phản chiếu trên mặt nước, mang lại cảm giác bình yên và hoài niệm, phong cách Studio Ghibli, cảnh anime đậm chất điện ảnh.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067972919108759552/img/aHHwvenDdcGGk6d4.jpg" width="600" alt="Nhà tranh ven biển phong cách Ghibli">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6487)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2067973035446112683) | **Published:** Jun 19, 2026
-
----
-### Hoạt hình trẻ em bị UFO bắt cóc
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt mô tả cảnh một đứa trẻ bị nhấc bổng khỏi mặt đất như thể đang bị UFO kéo lên, với chuyển động camera linh hoạt theo sát hành động.
-
-#### 📝 Prompt
-
-```
-Đứa trẻ nhấc bổng khỏi mặt đất như thể đang bị UFO kéo vào, chuyển động camera theo sát hành động
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067969949851660288/img/uM6tu315NO6QgE5-.jpg" width="600" alt="Hoạt hình trẻ em bị UFO bắt cóc">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6247)**
-
-**Author:** [David Herbert Thomas](https://x.com/Diabach1972) | **Source:** [Link](https://x.com/Diabach1972/status/2067970008748110198) | **Published:** Jun 19, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2208,6 +2216,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-30T04:26:06.364Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-30T11:30:49.684Z</sub>
 
 </div>

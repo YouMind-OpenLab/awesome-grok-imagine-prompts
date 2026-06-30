@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1991** |
+| 📝 Total Prompts | **1998** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-30** |
 
@@ -189,6 +189,147 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### स्ट्रॉबेरी मून के नीचे सुनहरे बालों वाली महिला
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सुंदर सिनेमाई वीडियो प्रॉम्प्ट जिसमें गोधूलि बेला में एक बड़े स्ट्रॉबेरी मून के नीचे पहाड़ी पर खड़ी एक महिला को दिखाया गया है।
+
+#### 📝 Prompt
+
+```
+गोधूलि के आकाश में नीचे लटके एक विशाल स्ट्रॉबेरी मून की हल्की चमक के नीचे, एक सुंदर सुनहरे बालों वाली महिला शांतिपूर्ण पहाड़ी पर शालीनता से खड़ी है। उसके लंबे, सुनहरे बाल लहरों की तरह उसकी पीठ पर गिर रहे हैं, जो गुलाबी रोशनी को पकड़ रहे हैं। उसने एक बेहद खूबसूरत पारभासी गाउन पहना हुआ है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071733013730541571/img/C68iqHWL4e9bs2tM.jpg" width="600" alt="स्ट्रॉबेरी मून के नीचे सुनहरे बालों वाली महिला">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6635)**
+
+**Author:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **Source:** [Link](https://x.com/AnnetteHollerWe/status/2071733120089653442) | **Published:** Jun 29, 2026
+
+---
+### Legends on Ice Figure Skating
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> एक सिनेमैटिक और काव्यात्मक एनीमेशन प्रॉम्प्ट, जो एक शांत आइस रिंक पर दो फिगर स्केटर्स के बीच एक नियतिपूर्ण मुलाकात का वर्णन करता है।
+
+#### 📝 Prompt
+
+```
+❄️ Legends on Ice – Vol.1 ❄️
+
+बर्फ पर दो लोगों की मुलाकात हुई। जिस पल उनकी नज़रें मिलीं, शांत दुनिया में हलचल शुरू हो गई। चांदी जैसे बाल हवा को रंग देते हैं, और बर्फ रोशनी से सराबोर हो जाती है। कदम-दर-कदम, वे नियति को बुनते हैं और उसे एक शाश्वत नृत्य में बदल देते हैं। ✨ दो आत्माएं। एक लय। एक नियति। यह बर्फ की किंवदंती की शुरुआत है। जारी रहेगा… ⛸️❄️
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071684493015121920/img/izAPSvtfE0tBXB_V.jpg" width="600" alt="Legends on Ice Figure Skating">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6640)**
+
+**Author:** [猫神MT](https://x.com/nekogami_MT) | **Source:** [Link](https://x.com/nekogami_MT/status/2071684551806787596) | **Published:** Jun 29, 2026
+
+---
+### साइकेडेलिक थर्मोडायनामिक मून एनिमेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक जीवंत कॉस्मिक वीडियो प्रॉम्प्ट, जिसमें एक उबलता हुआ चंद्रमा, उससे निकलती गर्मी और साइकेडेलिक धुंध में घूमते हुए मंडला दिखाई दे रहे हैं।
+
+#### 📝 Prompt
+
+```
+उबलता हुआ चंद्रमा उठती हुई भाप के ऊपर गर्मी की लहरें छोड़ रहा है; कार्नोट मंडला घूम रहे हैं; कैमरा थर्मोडायनामिक धुंध के बीच ऊपर की ओर बढ़ रहा है, साइकेडेलिक और कॉस्मिक, ट्रेलर जैसा विस्मयकारी दृश्य।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071662651273269249/img/AdGD3S1k8mhyEWBj.jpg" width="600" alt="साइकेडेलिक थर्मोडायनामिक मून एनिमेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6636)**
+
+**Author:** [ATom](https://x.com/ThomasSwaff) | **Source:** [Link](https://x.com/ThomasSwaff/status/2071662857603666081) | **Published:** Jun 29, 2026
+
+---
+### पेस्टल मशरूम ड्रीम
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक साइकेडेलिक और अलौकिक वीडियो प्रॉम्प्ट, जो पेस्टल मशरूम परिदृश्यों के बीच एक तैरती हुई यात्रा का वर्णन करता है।
+
+#### 📝 Prompt
+
+```
+पेस्टल साइकेडेलिक मशरूम के सपने में तैरते हुए… कोमल आश्चर्य और हल्की रोशनी की फुसफुसाहट 🍄🌈✨
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071542463161106432/img/n-v_9YJXnNP9wRsd.jpg" width="600" alt="पेस्टल मशरूम ड्रीम">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6637)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2071542525698122170) | **Published:** Jun 29, 2026
+
+---
+### Grok Imagine के लिए मैकेनिकल और ईथरियल क्रिएचर प्रॉम्प्ट्स
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Grok Imagine में उच्च-गुणवत्ता वाले वीडियो जनरेशन के लिए मैकेनिकल नियॉन फॉक्स और स्टेन्ड-ग्लास स्पिरिट बनाने हेतु विस्तृत विजुअल विवरणों का एक सेट।
+
+#### 📝 Prompt
+
+```
+नियॉन फॉक्स (मैकेनिकल फॉक्स)
+अवधारणा: चपलता और बुद्धिमत्ता का प्रतीक एक छोटा मैकेनिकल लोमड़ी। यह हाई-स्पीड संचार के लिए एक साथी के रूप में कार्य करता है।
+विवरण: जटिल मैकेनिकल पुर्जों और पीली नियॉन ट्यूबों से बनी एक छोटी लोमड़ी। शरीर के कुछ हिस्से पारदर्शी हैं, जिनसे आंतरिक लाइट पल्स डेटा स्ट्रीम दिखाई देती है। इसकी लेंस जैसी आँखें हैं जो इसके दृष्टि क्षेत्र में आने वाली हर चीज़ को डेटा के रूप में कैप्चर करती हैं।
+
+स्टेन्ड ग्लास स्पिरिट (लाइट स्पिरिट)
+अवधारणा: चर्च के स्टेन्ड ग्लास से गुजरने वाली संघनित रोशनी से पैदा हुई एक छोटी, पारभासी पंखों वाली आत्मा।
+विवरण: एक छोटी मानवाकार आत्मा जो स्टेन्ड ग्लास के सभी रंगों को दर्शाती हुई घूमती हुई बहुरंगी रोशनी से बनी है। इसका शरीर कांच की तरह नाजुक है, फिर भी रोशनी की तरह निराकार है। जैसे-जैसे यह पात्र चलता है, स्टेन्ड ग्लास की रोशनी इसकी ओर खिंची चली आती है, जिससे ये आत्माएं बनती हैं।
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2071484451524399104/pu/img/Nr2UO5QjZq2IsxfB.jpg" width="600" alt="Grok Imagine के लिए मैकेनिकल और ईथरियल क्रिएचर प्रॉम्प्ट्स">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6638)**
+
+**Author:** [akira](https://x.com/akira_LEVEL3141) | **Source:** [Link](https://x.com/akira_LEVEL3141/status/2071484537767686272) | **Published:** Jun 29, 2026
+
+---
+### मार्बल लवर्स गोल्डन किस
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yves Pires की मूर्तिकला और Gustav Klimt की चित्रकला शैली को मिलाने वाला एक परिष्कृत आर्ट-स्टाइल प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+एक चुंबन के भीतर एक और चुंबन। Klimt के गोल्डन किस के सामने Yves Pires के मार्बल लवर्स एक-दूसरे में लिपटे हुए।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071412715935985665/img/FcHHNv039pFHi5yr.jpg" width="600" alt="मार्बल लवर्स गोल्डन किस">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6639)**
+
+**Author:** [Jess X](https://x.com/jess_X) | **Source:** [Link](https://x.com/jess_X/status/2071412768066936906) | **Published:** Jun 29, 2026
+
+---
+### साइबरपंक सायबॉर्ग ग्रैफिटी सीन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक विस्तृत वीडियो प्रॉम्प्ट जिसमें एक सायबॉर्ग ग्रैफिटी आर्टिस्ट को गीली नियॉन गली में पेंटिंग करते हुए और फिर मोटरबाइक पर सवार होते हुए दिखाया गया है।
+
+#### 📝 Prompt
+
+```
+हुड और नीले हेलमेट में सायबॉर्ग ग्रैफिटी आर्टिस्ट ईंट की दीवार पर बने चमकते नीले रोबोट म्यूरल से पीछे हटता है, स्प्रे कैन को फ्रेम से बाहर फेंकता है, और फिर गीली गली में खड़ी नियॉन अंडरग्लो वाली एक शानदार साइबरपंक मोटरबाइक पर सवार हो जाता है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071397162634842112/img/ztzxpB6ihaTV4KoI.jpg" width="600" alt="साइबरपंक सायबॉर्ग ग्रैफिटी सीन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6634)**
+
+**Author:** [Robadang ✏️ AI Artist](https://x.com/dang_machina) | **Source:** [Link](https://x.com/dang_machina/status/2071397216674308335) | **Published:** Jun 29, 2026
+
+---
 ### रेगिस्तान में काउच सैंडबोर्डिंग वीडियो
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2013,139 +2154,6 @@ Sebring को रिस्टोर करें, उस पर लिपटी
 **Author:** [WiseArtist Studios](https://x.com/Wise375) | **Source:** [Link](https://x.com/Wise375/status/2068185956176261631) | **Published:** Jun 20, 2026
 
 ---
-### गायब होते पात्र के साथ धड़कते दिल का एनीमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के लिए एक प्रॉम्प्ट जो किसी पात्र के दृश्य से गायब होने के बाद केंद्र में धड़कते हुए दिल का वीडियो बनाता है।
-
-#### 📝 Prompt
-
-```
-हाँ, लेकिन अंत में Snoopy गायब हो जाना चाहिए। केवल दिल को केंद्र में रहने दें। आप इसे दिल की तरह धड़कने वाला बना सकते हैं।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068114147313647617/img/f7Ig4_T2qqQtUBEi.jpg" width="600" alt="गायब होते पात्र के साथ धड़कते दिल का एनीमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6257)**
-
-**Author:** [DW 💉👀🐊](https://x.com/deweller) | **Source:** [Link](https://x.com/deweller/status/2068114216876163273) | **Published:** Jun 19, 2026
-
----
-### लक्जरी सोफे पर दहाड़ता हुआ बाघ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक फ्रांसीसी सोफे पर दहाड़ते हुए बाघ का सिनेमाई वीडियो प्रॉम्प्ट, जिसमें पुरानी यादों वाली, दानेदार और फ्लैश फोटोग्राफी जैसी फील है।
-
-#### 📝 Prompt
-
-```
-लक्जरी एस्टेट में फ्रांसीसी सोफे पर दहाड़ता हुआ बाघ, पुरानी यादों वाला वाइब, गहरी छाया, भारी ग्रेन, कुछ फ्लैश फोटोग्राफी जैसी फील
-```
-
-<img src="https://cms-assets.youmind.com/media/1781944909883_fv7mtm_HLNKqSfWQAEg5k1.jpg" width="600" alt="लक्जरी सोफे पर दहाड़ता हुआ बाघ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6250)**
-
-**Author:** [Love’s Last Icon](https://x.com/primusv1) | **Source:** [Link](https://x.com/primusv1/status/2068078806170993124) | **Published:** Jun 19, 2026
-
----
-### सिल्वर क्राउन पहने झाइयों वाली महिला का सिनेमैटिक दृश्य
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> झाइयों, काले बालों और जटिल सिल्वर क्राउन के साथ मध्ययुगीन तलवार पकड़े हुए एक महिला के लिए अत्यधिक विस्तृत सिनेमैटिक प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-नाक और गालों पर नाजुक झाइयों वाली महिला, चेहरे पर चिपके हुए गीले काले बाल। क्रिस्टल के साथ अलंकृत जटिल सिल्वर क्राउन, चेहरे के बाएं आधे हिस्से पर नाटकीय रूप से लिपटा हुआ थोड़ा मोटा और चमकदार सिल्वर घूंघट (एक आंख को ढकता हुआ) जो तलवार के कुछ हिस्से को भी धीरे से लपेटे हुए है। घूंघट में महीन चमक के साथ एक नाजुक लेकिन ठोस पारभासी बनावट है। उसने दोनों हाथों से एक अलंकृत मध्ययुगीन तलवार पकड़ी हुई है, जिसकी मूठ और ऊपरी ब्लेड उसकी ठुड्डी और होंठों के पास मोटे घूंघट से हल्के से ढकी हुई है, उंगलियों में कई अलंकृत चांदी की अंगूठियां हैं। बहुत ही कोमल डिफ्यूज्ड साइड लाइटिंग, म्यूट और डीसैचुरेटेड कूल सिल्वरी-ग्रे कलर पैलेट, कम सैचुरेशन, सुरुचिपूर्ण और संयमित टोन। अत्यधिक विस्तृत यथार्थवादी त्वचा बनावट, प्राकृतिक चमकदार होंठ, घूंघट पर यथार्थवादी कपड़े की सिलवटें और प्रकाश का परावर्तन। दिखाई देने वाली आंख, झाइयों और घूंघट की बनावट पर एकदम स्पष्ट फोकस, शैलो डेप्थ ऑफ फील्ड, सॉफ्ट ड्रीमी बोकेह, हाइपररियलिस्टिक, फोटोरियलिस्टिक, सिनेमैटिक कलर ग्रेडिंग।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068062467100418048/img/XAdGpdy3LIaC58ti.jpg" width="600" alt="सिल्वर क्राउन पहने झाइयों वाली महिला का सिनेमैटिक दृश्य">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6254)**
-
-**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2068062555310891321) | **Published:** Jun 19, 2026
-
----
-### इंडस्ट्रियल पार्क रिसेप्शन वॉकथ्रू
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक आधुनिक औद्योगिक सुविधा के प्रवेश द्वार से रिसेप्शन क्षेत्र तक, जिसमें कस्टम वॉल टेक्स्ट लगा है, का एक सिनेमैटिक POV वीडियो।
-
-#### 📝 Prompt
-
-```
-मुझे बाहर से एक आधुनिक इंडस्ट्रियल पार्क का वीडियो बनाकर दें, फिर फर्स्ट पर्सन POV का उपयोग करके सामने के दरवाजों से होते हुए रिसेप्शन क्षेत्र तक जाएं। रिसेप्शनिस्ट के ऊपर "MyCityDC" लिखा होना चाहिए।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068048509111095296/img/bxzPK1A53AAeWJL7.jpg" width="600" alt="इंडस्ट्रियल पार्क रिसेप्शन वॉकथ्रू">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6243)**
-
-**Author:** [Number-One-AI-Fanboy](https://x.com/Number1AIFanboy) | **Source:** [Link](https://x.com/Number1AIFanboy/status/2068048785930924447) | **Published:** Jun 19, 2026
-
----
-### नाचती हुई बौद्ध मूर्तियाँ एनीमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक रचनात्मक वीडियो प्रॉम्प्ट जो इंडियन म्यूजियम की ऐतिहासिक बौद्ध मूर्तियों को एक दिव्य आनंदमयी नृत्य में जीवंत होते हुए दर्शाता है।
-
-#### 📝 Prompt
-
-```
-इंडियन म्यूजियम की बौद्ध विरासत की चुनिंदा मूर्तियाँ, हमारी कल्पना में दिव्य आनंद के साथ नृत्य कर रही हैं!
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068005532213080070/img/TdbhoKsf2yQEobxy.jpg" width="600" alt="नाचती हुई बौद्ध मूर्तियाँ एनीमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6244)**
-
-**Author:** [Ashok Kumar Panda](https://x.com/ashok_sr_adv) | **Source:** [Link](https://x.com/ashok_sr_adv/status/2068005598046892078) | **Published:** Jun 19, 2026
-
----
-### Ghibli स्टाइल वाला समुद्र के किनारे का कॉटेज
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> आइकॉनिक Studio Ghibli एनीमे स्टाइल में, शाम के समय समुद्र के किनारे स्थित एक जापानी कॉटेज का उदासीन और आकर्षक दृश्य।
-
-#### 📝 Prompt
-
-```
-शाम के समय समुद्र के किनारे स्थित एक आकर्षक जापानी कॉटेज, खिड़कियों से आती गर्म रोशनी, बरामदे के बाहर दिखाई देती समुद्र की हल्की लहरें, पानी पर प्रतिबिंबित तारों भरा आसमान, शांतिपूर्ण और उदासीन अहसास, Studio Ghibli स्टाइल, सिनेमाई एनीमे दृश्य।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067972919108759552/img/aHHwvenDdcGGk6d4.jpg" width="600" alt="Ghibli स्टाइल वाला समुद्र के किनारे का कॉटेज">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6487)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2067973035446112683) | **Published:** Jun 19, 2026
-
----
-### बच्चे के UFO अपहरण का एनिमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो प्रॉम्प्ट जिसमें एक बच्चे को जमीन से ऊपर उठते हुए दिखाया गया है, जैसे कि उसे किसी UFO द्वारा खींचा जा रहा हो, जिसमें गतिशील कैमरा मूवमेंट क्रिया का अनुसरण करता है।
-
-#### 📝 Prompt
-
-```
-बच्चा जमीन से ऊपर उठता है जैसे कि UFO उसे अपनी ओर खींच रहा हो, कैमरा मूवमेंट क्रिया का अनुसरण करता है
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067969949851660288/img/uM6tu315NO6QgE5-.jpg" width="600" alt="बच्चे के UFO अपहरण का एनिमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6247)**
-
-**Author:** [David Herbert Thomas](https://x.com/Diabach1972) | **Source:** [Link](https://x.com/Diabach1972/status/2067970008748110198) | **Published:** Jun 19, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2207,6 +2215,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-30T04:26:07.671Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-30T11:30:51.161Z</sub>
 
 </div>

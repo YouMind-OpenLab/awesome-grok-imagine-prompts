@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **1991** |
+| 📝 총 프롬프트 수 | **1998** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-06-30** |
 
@@ -189,6 +189,147 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 스트로베리 문 아래의 금발 여성
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 황혼 무렵 거대한 스트로베리 문이 뜬 언덕 위, 한 여성을 담은 아름다운 시네마틱 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+황혼의 하늘 낮게 걸린 거대한 스트로베리 문의 부드러운 빛 아래, 아름다운 금발 여성이 고요한 언덕 위에 우아하게 서 있습니다. 그녀의 긴 금발 머리는 부드러운 물결을 이루며 등 뒤로 흘러내려 장밋빛 조명을 받아 반짝입니다. 그녀는 숨 막힐 듯 아름다운 반투명 드레스를 입고 있습니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071733013730541571/img/C68iqHWL4e9bs2tM.jpg" width="600" alt="스트로베리 문 아래의 금발 여성">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6635)**
+
+**작성자:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **출처:** [Link](https://x.com/AnnetteHollerWe/status/2071733120089653442) | **게시일:** Jun 29, 2026
+
+---
+### Legends on Ice 피겨 스케이팅
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 고요한 아이스링크 위에서 두 피겨 스케이터의 운명적인 만남을 묘사한 영화적이고 시적인 애니메이션 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+❄️ Legends on Ice – Vol.1 ❄️
+
+얼음 위에서 두 사람이 만났다. 그들의 눈이 마주친 순간, 고요하던 세상이 움직이기 시작했다. 은빛 머리카락이 바람을 수놓고, 눈꽃은 빛을 입는다. 한 걸음씩, 그들은 운명을 엮어 영원한 춤으로 승화시킨다. ✨ 두 영혼. 하나의 리듬. 하나의 운명. 이것이 바로 얼음 위의 전설이 시작되는 순간이다. To Be Continued… ⛸️❄️
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071684493015121920/img/izAPSvtfE0tBXB_V.jpg" width="600" alt="Legends on Ice 피겨 스케이팅">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6640)**
+
+**작성자:** [猫神MT](https://x.com/nekogami_MT) | **출처:** [Link](https://x.com/nekogami_MT/status/2071684551806787596) | **게시일:** Jun 29, 2026
+
+---
+### 사이키델릭 열역학 달 애니메이션
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 끓어오르는 달이 열기를 내뿜고 만달라가 사이키델릭한 안개 속에서 회전하는 생생한 우주적 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+끓어오르는 달이 피어오르는 증기 위로 열기를 방출하고, 카르노 만달라가 회전합니다. 카메라는 열역학적 안개 속을 통과하며 위로 이동하며, 사이키델릭하고 우주적인 경외감을 주는 예고편 스타일의 영상입니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071662651273269249/img/AdGD3S1k8mhyEWBj.jpg" width="600" alt="사이키델릭 열역학 달 애니메이션">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6636)**
+
+**작성자:** [ATom](https://x.com/ThomasSwaff) | **출처:** [Link](https://x.com/ThomasSwaff/status/2071662857603666081) | **게시일:** Jun 29, 2026
+
+---
+### 파스텔 버섯의 꿈
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 파스텔 톤의 버섯 풍경 속을 떠다니는 여정을 묘사한 사이키델릭하고 몽환적인 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+파스텔 톤의 사이키델릭한 버섯 꿈속을 떠다니며… 부드러운 경이로움과 은은한 빛의 속삭임 🍄🌈✨
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071542463161106432/img/n-v_9YJXnNP9wRsd.jpg" width="600" alt="파스텔 버섯의 꿈">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6637)**
+
+**작성자:** [Stella 𝕏](https://x.com/StellaGrokStar) | **출처:** [Link](https://x.com/StellaGrokStar/status/2071542525698122170) | **게시일:** Jun 29, 2026
+
+---
+### Grok Imagine 기계 및 영적 생명체 프롬프트
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Grok Imagine에서 고품질 비디오 생성을 위해 설계된, 기계 네온 여우와 스테인드글라스 정령을 생성하기 위한 상세한 시각적 묘사 세트입니다.
+
+#### 📝 프롬프트
+
+```
+네온 여우 (기계 여우)
+콘셉트: 민첩함과 지혜를 상징하는 작은 기계 여우. 고속 통신을 위한 파트너 역할을 합니다.
+세부 묘사: 복잡한 기계 부품과 노란색 네온 튜브로 구성된 작은 여우입니다. 몸의 일부는 투명하여 내부의 빛나는 데이터 흐름을 보여줍니다. 시야에 들어오는 것을 데이터로 포착하기 위한 렌즈 형태의 눈을 가지고 있습니다.
+
+스테인드글라스 정령 (빛의 정령)
+콘셉트: 교회 스테인드글라스를 통과한 응축된 빛에서 태어난 작고 반투명한 날개 달린 정령입니다.
+세부 묘사: 스테인드글라스의 모든 색상을 반사하는 소용돌이치는 다채로운 빛으로 구성된 작은 인간형 정령입니다. 몸은 유리처럼 섬세하면서도 빛처럼 실체가 없습니다. 캐릭터가 걸을 때마다 스테인드글라스의 빛이 정령 쪽으로 끌려와 이 정령들을 형성합니다.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2071484451524399104/pu/img/Nr2UO5QjZq2IsxfB.jpg" width="600" alt="Grok Imagine 기계 및 영적 생명체 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6638)**
+
+**작성자:** [akira](https://x.com/akira_LEVEL3141) | **출처:** [Link](https://x.com/akira_LEVEL3141/status/2071484537767686272) | **게시일:** Jun 29, 2026
+
+---
+### Marble Lovers Golden Kiss
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yves Pires의 조각상과 Gustav Klimt의 화풍을 결합한 세련된 예술 스타일 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+입맞춤 속의 입맞춤. Klimt의 황금빛 키스 앞에 얽힌 Yves Pires의 대리석 연인들.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071412715935985665/img/FcHHNv039pFHi5yr.jpg" width="600" alt="Marble Lovers Golden Kiss">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6639)**
+
+**작성자:** [Jess X](https://x.com/jess_X) | **출처:** [Link](https://x.com/jess_X/status/2071412768066936906) | **게시일:** Jun 29, 2026
+
+---
+### 사이버펑크 사이보그 그래피티 장면
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 비에 젖은 네온 골목에서 그래피티를 그리던 사이보그가 오토바이를 타고 떠나는 모습으로 전환되는 디테일한 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+후드를 쓰고 파란색 헬멧을 쓴 사이보그 그래피티 아티스트가 벽돌 벽에 그려진 빛나는 파란색 로봇 벽화에서 한 걸음 물러나 스프레이 캔을 화면 밖으로 던진 뒤, 비에 젖은 골목에 주차된 네온 조명이 빛나는 세련된 사이버펑크 오토바이에 올라탑니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071397162634842112/img/ztzxpB6ihaTV4KoI.jpg" width="600" alt="사이버펑크 사이보그 그래피티 장면">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6634)**
+
+**작성자:** [Robadang ✏️ AI Artist](https://x.com/dang_machina) | **출처:** [Link](https://x.com/dang_machina/status/2071397216674308335) | **게시일:** Jun 29, 2026
+
+---
 ### 사막 소파 샌드보딩 영상
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2013,139 +2154,6 @@ Sebring 차량을 복원하고 덩굴을 제거한 뒤, 우주로 보내 Elon의
 **작성자:** [WiseArtist Studios](https://x.com/Wise375) | **출처:** [Link](https://x.com/Wise375/status/2068185956176261631) | **게시일:** Jun 20, 2026
 
 ---
-### 사라지는 캐릭터와 함께 박동하는 심장 애니메이션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 캐릭터가 화면에서 사라진 후 중앙에서 박동하는 심장 영상을 생성하기 위한 Grok Imagine 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-네, 하지만 마지막에 Snoopy가 사라지게 해주세요. 중앙에 심장만 남겨주세요. 심장처럼 박동하게 만들 수 있습니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068114147313647617/img/f7Ig4_T2qqQtUBEi.jpg" width="600" alt="사라지는 캐릭터와 함께 박동하는 심장 애니메이션">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6257)**
-
-**작성자:** [DW 💉👀🐊](https://x.com/deweller) | **출처:** [Link](https://x.com/deweller/status/2068114216876163273) | **게시일:** Jun 19, 2026
-
----
-### 고급 소파 위의 으르렁거리는 호랑이
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 프랑스식 소파 위에서 으르렁거리는 호랑이를 담은 영화 같은 영상 프롬프트로, 향수를 불러일으키는 거친 질감과 플래시 사진 느낌을 강조했습니다.
-
-#### 📝 프롬프트
-
-```
-고급 저택의 프랑스식 소파 위에서 으르렁거리는 호랑이, 향수를 불러일으키는 분위기, 짙은 그림자, 거친 입자감, 플래시 사진 느낌
-```
-
-<img src="https://cms-assets.youmind.com/media/1781944909883_fv7mtm_HLNKqSfWQAEg5k1.jpg" width="600" alt="고급 소파 위의 으르렁거리는 호랑이">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6250)**
-
-**작성자:** [Love’s Last Icon](https://x.com/primusv1) | **출처:** [Link](https://x.com/primusv1/status/2068078806170993124) | **게시일:** Jun 19, 2026
-
----
-### 은색 왕관을 쓴 주근깨 여성의 영화 같은 모습
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 주근깨와 어두운 머리카락, 정교한 은색 왕관을 쓰고 중세 검을 든 여성에 대한 고해상도 영화적 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-코와 뺨에 섬세한 주근깨가 있고, 젖은 어두운 머리카락이 얼굴에 달라붙은 여성. 크리스탈이 박힌 정교하고 복잡한 은색 왕관을 쓰고 있으며, 약간 두께감이 있는 반짝이는 은색 베일이 얼굴 왼쪽 절반을 드라마틱하게 덮어 한쪽 눈을 가리고 검의 일부를 부드럽게 감싸고 있습니다. 베일은 섬세하면서도 질감이 느껴지는 반투명한 소재에 미세한 반짝임이 더해져 있습니다. 그녀는 양손으로 화려한 중세 검을 들고 있으며, 턱과 입술 근처에서 두꺼운 베일이 검의 자루와 칼날 윗부분을 부드럽게 덮고 있고, 손가락에는 여러 개의 화려한 은반지를 끼고 있습니다. 매우 부드럽고 확산된 측면 조명, 채도가 낮고 차분한 은회색 톤의 컬러 팔레트, 절제된 우아한 색감. 매우 상세하고 사실적인 피부 질감, 자연스러운 윤기가 흐르는 입술, 두꺼운 베일의 사실적인 주름과 빛 반사. 보이는 눈과 주근깨, 베일의 질감에 날카롭게 초점이 맞춰져 있으며, 얕은 피사계 심도, 부드럽고 몽환적인 보케, 하이퍼 리얼리즘, 포토리얼리즘, 영화 같은 색 보정.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068062467100418048/img/XAdGpdy3LIaC58ti.jpg" width="600" alt="은색 왕관을 쓴 주근깨 여성의 영화 같은 모습">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6254)**
-
-**작성자:** [Myluna](https://x.com/monicamoonx) | **출처:** [Link](https://x.com/monicamoonx/status/2068062555310891321) | **게시일:** Jun 19, 2026
-
----
-### 산업 단지 리셉션 워크스루
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 현대적인 산업 시설 입구에서 리셉션 공간까지, 맞춤형 벽면 텍스트가 포함된 시네마틱한 1인칭 시점(POV) 영상입니다.
-
-#### 📝 프롬프트
-
-```
-현대적인 산업 단지의 외부 모습부터 시작하여 1인칭 시점(POV)으로 정문을 지나 리셉션 공간으로 걸어 들어가는 영상을 만들어 주세요. 리셉션 데스크 위쪽 벽면에는 "MyCityDC"라는 문구가 있어야 합니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068048509111095296/img/bxzPK1A53AAeWJL7.jpg" width="600" alt="산업 단지 리셉션 워크스루">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6243)**
-
-**작성자:** [Number-One-AI-Fanboy](https://x.com/Number1AIFanboy) | **출처:** [Link](https://x.com/Number1AIFanboy/status/2068048785930924447) | **게시일:** Jun 19, 2026
-
----
-### 춤추는 불상 애니메이션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 인도 박물관의 역사적인 불상들이 살아 움직이며 신성하고 황홀한 춤을 추는 모습을 상상한 창의적인 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-인도 박물관에 소장된 불교 유산 조각상들이 우리의 상상 속에서 신성한 황홀경에 빠져 춤을 춥니다!
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068005532213080070/img/TdbhoKsf2yQEobxy.jpg" width="600" alt="춤추는 불상 애니메이션">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6244)**
-
-**작성자:** [Ashok Kumar Panda](https://x.com/ashok_sr_adv) | **출처:** [Link](https://x.com/ashok_sr_adv/status/2068005598046892078) | **게시일:** Jun 19, 2026
-
----
-### 지브리 스타일의 해변가 오두막
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 상징적인 스튜디오 지브리 애니메이션 스타일로 그려진, 해 질 녘 일본 해변가 오두막의 향수를 불러일으키는 매력적인 장면입니다.
-
-#### 📝 프롬프트
-
-```
-해 질 녘의 매력적인 일본 해변가 오두막, 창문에서 흘러나오는 따뜻한 불빛, 현관 너머로 보이는 잔잔한 파도, 물 위에 비친 별이 빛나는 밤하늘, 평화롭고 향수를 불러일으키는 분위기, 스튜디오 지브리 스타일, 영화 같은 애니메이션 장면.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067972919108759552/img/aHHwvenDdcGGk6d4.jpg" width="600" alt="지브리 스타일의 해변가 오두막">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6487)**
-
-**작성자:** [Mr Das](https://x.com/MrDasOnX) | **출처:** [Link](https://x.com/MrDasOnX/status/2067973035446112683) | **게시일:** Jun 19, 2026
-
----
-### 어린이 UFO 납치 애니메이션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> UFO가 끌어당기는 듯한 힘에 의해 아이가 지면에서 공중으로 떠오르는 모습을 담은 비디오 프롬프트로, 역동적인 카메라 움직임이 동작을 따라갑니다.
-
-#### 📝 프롬프트
-
-```
-UFO가 끌어당기는 것처럼 아이가 지면에서 떠오르며, 카메라가 그 움직임을 따라갑니다
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067969949851660288/img/uM6tu315NO6QgE5-.jpg" width="600" alt="어린이 UFO 납치 애니메이션">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6247)**
-
-**작성자:** [David Herbert Thomas](https://x.com/Diabach1972) | **출처:** [Link](https://x.com/Diabach1972/status/2067970008748110198) | **게시일:** Jun 19, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2207,6 +2215,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-30T04:26:03.510Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-30T11:30:46.391Z</sub>
 
 </div>

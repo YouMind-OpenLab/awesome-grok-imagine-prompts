@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1991** |
+| 📝 Total Prompts | **1998** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-30** |
 
@@ -189,6 +189,147 @@ Una mistica e nobile Valchiria celestiale, una donna dignitosa e bellissima con 
 
 > 📝 Sorted by publish date (newest first)
 
+### Donna bionda sotto la luna di fragola
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un bellissimo prompt video cinematografico che ritrae una donna su una collina sotto una grande luna di fragola al crepuscolo.
+
+#### 📝 Prompt
+
+```
+Sotto il bagliore soffuso di una gigantesca luna di fragola che pende bassa nel cielo crepuscolare, una bellissima donna bionda si erge con grazia su una tranquilla collina. I suoi lunghi capelli dorati scendono in onde delicate lungo la schiena, catturando la luce rosata. Indossa un abito traslucido mozzafiato.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071733013730541571/img/C68iqHWL4e9bs2tM.jpg" width="600" alt="Donna bionda sotto la luna di fragola">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6635)**
+
+**Author:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **Source:** [Link](https://x.com/AnnetteHollerWe/status/2071733120089653442) | **Published:** Jun 29, 2026
+
+---
+### Leggende sul ghiaccio: Pattinaggio artistico
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt di animazione poetico e cinematografico che descrive un incontro predestinato tra due pattinatori su una pista di ghiaccio silenziosa.
+
+#### 📝 Prompt
+
+```
+❄️ Leggende sul ghiaccio – Vol.1 ❄️
+
+Due persone si sono incontrate sul ghiaccio. Nel momento in cui i loro sguardi si sono incrociati, il mondo silenzioso ha iniziato a muoversi. Capelli d'argento dipingono il vento e la neve si veste di luce. Passo dopo passo, intrecciano il destino trasformandolo in una danza eterna. ✨ Due anime. Un solo ritmo. Un solo destino. Questo è l'inizio della leggenda del ghiaccio. Continua… ⛸️❄️
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071684493015121920/img/izAPSvtfE0tBXB_V.jpg" width="600" alt="Leggende sul ghiaccio: Pattinaggio artistico">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6640)**
+
+**Author:** [猫神MT](https://x.com/nekogami_MT) | **Source:** [Link](https://x.com/nekogami_MT/status/2071684551806787596) | **Published:** Jun 29, 2026
+
+---
+### Animazione psichedelica della luna termodinamica
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un vivido prompt video cosmico che mostra una luna in ebollizione che irradia calore, con mandala che ruotano in una foschia psichedelica.
+
+#### 📝 Prompt
+
+```
+La luna in ebollizione irradia onde di calore sopra vapori in ascesa; i mandala di Carnot ruotano; la telecamera si sposta verso l'alto attraverso una foschia termodinamica, psichedelica e cosmica, in stile trailer mozzafiato.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071662651273269249/img/AdGD3S1k8mhyEWBj.jpg" width="600" alt="Animazione psichedelica della luna termodinamica">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6636)**
+
+**Author:** [ATom](https://x.com/ThomasSwaff) | **Source:** [Link](https://x.com/ThomasSwaff/status/2071662857603666081) | **Published:** Jun 29, 2026
+
+---
+### Sogno di funghi color pastello
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video psichedelico ed etereo che descrive un viaggio fluttuante attraverso paesaggi di funghi color pastello.
+
+#### 📝 Prompt
+
+```
+Fluttuando in un sogno psichedelico di funghi color pastello… Sussurri di dolce meraviglia e luce soffusa 🍄🌈✨
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071542463161106432/img/n-v_9YJXnNP9wRsd.jpg" width="600" alt="Sogno di funghi color pastello">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6637)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2071542525698122170) | **Published:** Jun 29, 2026
+
+---
+### Prompt per Grok Imagine: Creature Meccaniche ed Eteree
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Una serie di descrizioni visive dettagliate per generare una volpe meccanica al neon e uno spirito in vetro colorato, progettate per la generazione di video di alta qualità in Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Volpe al Neon (Volpe Meccanica)
+Concetto: Una piccola volpe meccanica che simboleggia agilità e saggezza. Funge da partner per la comunicazione ad alta velocità.
+Dettagli: Una piccola volpe composta da intricati componenti meccanici e tubi al neon gialli. Parti del corpo sono trasparenti e rivelano flussi di dati luminosi interni. Possiede occhi simili a lenti per catturare ciò che entra nel suo campo visivo sotto forma di dati.
+
+Spirito in Vetro Colorato (Spirito di Luce)
+Concetto: Un piccolo spirito alato traslucido nato dalla luce condensata che attraversa le vetrate colorate di una chiesa.
+Dettagli: Un piccolo spirito umanoide composto da una luce vorticosa multicolore che riflette tutte le tonalità del vetro colorato. Il suo corpo è delicato come il vetro ma impalpabile come la luce. Mentre il personaggio cammina, la luce delle vetrate viene attratta verso di esso, dando forma a questi spiriti.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2071484451524399104/pu/img/Nr2UO5QjZq2IsxfB.jpg" width="600" alt="Prompt per Grok Imagine: Creature Meccaniche ed Eteree">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6638)**
+
+**Author:** [akira](https://x.com/akira_LEVEL3141) | **Source:** [Link](https://x.com/akira_LEVEL3141/status/2071484537767686272) | **Published:** Jun 29, 2026
+
+---
+### Amanti di marmo: il bacio dorato
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt in stile artistico sofisticato che unisce la scultura di Yves Pires allo stile pittorico di Gustav Klimt.
+
+#### 📝 Prompt
+
+```
+Un bacio nel bacio. Gli amanti di marmo di Yves Pires si intrecciano davanti al bacio dorato di Klimt.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071412715935985665/img/FcHHNv039pFHi5yr.jpg" width="600" alt="Amanti di marmo: il bacio dorato">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6639)**
+
+**Author:** [Jess X](https://x.com/jess_X) | **Source:** [Link](https://x.com/jess_X/status/2071412768066936906) | **Published:** Jun 29, 2026
+
+---
+### Scena di graffiti cyberpunk con cyborg
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video dettagliato che mostra un artista di graffiti cyborg in un vicolo al neon bagnato, che passa dal dipingere al guidare una moto.
+
+#### 📝 Prompt
+
+```
+L'artista di graffiti cyborg con felpa e casco blu si allontana dal murale robotico blu brillante sul muro di mattoni, lancia la bomboletta spray fuori dall'inquadratura, poi sale su un'elegante moto cyberpunk con luci al neon sottoscocca parcheggiata nel vicolo bagnato.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071397162634842112/img/ztzxpB6ihaTV4KoI.jpg" width="600" alt="Scena di graffiti cyberpunk con cyborg">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6634)**
+
+**Author:** [Robadang ✏️ AI Artist](https://x.com/dang_machina) | **Source:** [Link](https://x.com/dang_machina/status/2071397216674308335) | **Published:** Jun 29, 2026
+
+---
 ### Video di un divano che fa sandboarding nel deserto
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2014,139 +2155,6 @@ Fai in modo che lo squalo nuoti più vicino alla telecamera e apra la bocca per 
 **Author:** [WiseArtist Studios](https://x.com/Wise375) | **Source:** [Link](https://x.com/Wise375/status/2068185956176261631) | **Published:** Jun 20, 2026
 
 ---
-### Animazione di un cuore pulsante con personaggio che svanisce
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per Grok Imagine che crea un video di un cuore pulsante centrato dopo che un personaggio svanisce dalla scena.
-
-#### 📝 Prompt
-
-```
-Sì, ma Snoopy svanisce alla fine. Lascia solo il cuore al centro. Puoi farlo pulsare come un cuore.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068114147313647617/img/f7Ig4_T2qqQtUBEi.jpg" width="600" alt="Animazione di un cuore pulsante con personaggio che svanisce">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6257)**
-
-**Author:** [DW 💉👀🐊](https://x.com/deweller) | **Source:** [Link](https://x.com/deweller/status/2068114216876163273) | **Published:** Jun 19, 2026
-
----
-### Tigre che ruggisce su un divano di lusso
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video cinematografico di una tigre che ruggisce su un divano francese, con un'atmosfera nostalgica, granulosa e tipica della fotografia con flash.
-
-#### 📝 Prompt
-
-```
-tigre che ruggisce su un divano francese in una tenuta di lusso, atmosfera nostalgica, ombre marcate, grana pesante, stile fotografia con flash
-```
-
-<img src="https://cms-assets.youmind.com/media/1781944909883_fv7mtm_HLNKqSfWQAEg5k1.jpg" width="600" alt="Tigre che ruggisce su un divano di lusso">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6250)**
-
-**Author:** [Love’s Last Icon](https://x.com/primusv1) | **Source:** [Link](https://x.com/primusv1/status/2068078806170993124) | **Published:** Jun 19, 2026
-
----
-### Donna cinematografica con lentiggini e corona d'argento
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinematografico altamente dettagliato per una donna con lentiggini, capelli scuri e un'intricata corona d'argento che impugna una spada medievale.
-
-#### 📝 Prompt
-
-```
-donna con delicate lentiggini su naso e guance, ciocche di capelli scuri bagnati che aderiscono al viso. Intricata corona d'argento decorata con cristalli, velo d'argento scintillante leggermente più spesso e trasparente drappeggiato drammaticamente sulla metà sinistra del viso (a coprire un occhio) e che avvolge delicatamente parte della spada. Il velo ha una consistenza traslucida delicata ma più corposa con glitter sottili. Impugna una spada medievale decorata con entrambe le mani, elsa e parte superiore della lama delicatamente coperte dal velo più spesso vicino al mento e alle labbra, molteplici anelli d'argento decorati sulle dita. Illuminazione laterale molto morbida e diffusa, palette di colori grigio-argento freddi, desaturati e tenui, bassa saturazione, toni eleganti e sobri. Texture della pelle realistica e iper dettagliata, labbra naturalmente lucide, pieghe del tessuto realistiche e riflessi di luce sul velo più spesso. Messa a fuoco nitidissima sull'occhio visibile, sulle lentiggini e sulla texture del velo, profondità di campo ridotta, bokeh morbido e onirico, iperrealistico, fotorealistico, color grading cinematografico.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068062467100418048/img/XAdGpdy3LIaC58ti.jpg" width="600" alt="Donna cinematografica con lentiggini e corona d'argento">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6254)**
-
-**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2068062555310891321) | **Published:** Jun 19, 2026
-
----
-### Tour della reception del parco industriale
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un video cinematografico in soggettiva che mostra l'ingresso di una moderna struttura industriale fino all'area reception con una scritta personalizzata sulla parete.
-
-#### 📝 Prompt
-
-```
-Crea un video di un moderno parco industriale visto dall'esterno, poi utilizza una visuale in prima persona per entrare dalle porte principali fino all'area reception. Sopra la postazione della reception dovrebbe esserci scritto "MyCityDC"
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068048509111095296/img/bxzPK1A53AAeWJL7.jpg" width="600" alt="Tour della reception del parco industriale">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6243)**
-
-**Author:** [Number-One-AI-Fanboy](https://x.com/Number1AIFanboy) | **Source:** [Link](https://x.com/Number1AIFanboy/status/2068048785930924447) | **Published:** Jun 19, 2026
-
----
-### Animazione di sculture buddiste danzanti
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video creativo che immagina le storiche sculture buddiste dell'Indian Museum prendere vita in una danza estatica divina.
-
-#### 📝 Prompt
-
-```
-Le sculture selezionate del patrimonio buddista dell'Indian Museum, nella nostra immaginazione, danzano in un'estasi divina!
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068005532213080070/img/TdbhoKsf2yQEobxy.jpg" width="600" alt="Animazione di sculture buddiste danzanti">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6244)**
-
-**Author:** [Ashok Kumar Panda](https://x.com/ashok_sr_adv) | **Source:** [Link](https://x.com/ashok_sr_adv/status/2068005598046892078) | **Published:** Jun 19, 2026
-
----
-### Cottage sul mare in stile Ghibli
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Una scena nostalgica e affascinante di un cottage giapponese sul mare al crepuscolo, nel tipico stile anime dello Studio Ghibli.
-
-#### 📝 Prompt
-
-```
-Un incantevole cottage giapponese sul mare al crepuscolo, luci calde che brillano dalle finestre, delicate onde dell'oceano visibili oltre il portico, cielo stellato riflesso sull'acqua, atmosfera pacifica e nostalgica, stile Studio Ghibli, scena anime cinematografica.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067972919108759552/img/aHHwvenDdcGGk6d4.jpg" width="600" alt="Cottage sul mare in stile Ghibli">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6487)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2067973035446112683) | **Published:** Jun 19, 2026
-
----
-### Animazione di un bambino rapito da un UFO
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video che raffigura un bambino sollevato da terra come se venisse attirato da un UFO, con un movimento di camera dinamico che segue l'azione.
-
-#### 📝 Prompt
-
-```
-Il bambino si solleva da terra come se l'UFO lo stesse attirando, il movimento della camera segue l'azione
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067969949851660288/img/uM6tu315NO6QgE5-.jpg" width="600" alt="Animazione di un bambino rapito da un UFO">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6247)**
-
-**Author:** [David Herbert Thomas](https://x.com/Diabach1972) | **Source:** [Link](https://x.com/Diabach1972/status/2067970008748110198) | **Published:** Jun 19, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2208,6 +2216,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-30T04:26:15.459Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-30T11:30:58.120Z</sub>
 
 </div>

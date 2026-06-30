@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1991** |
+| 📝 Total Prompts | **1998** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-30** |
 
@@ -189,6 +189,147 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### หญิงสาวผมบลอนด์ใต้พระจันทร์สีสตรอว์เบอร์รี
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวภาพยนตร์ที่สวยงาม นำเสนอภาพหญิงสาวบนยอดเขาภายใต้พระจันทร์สีสตรอว์เบอร์รีดวงใหญ่ในช่วงเวลาโพล้เพล้
+
+#### 📝 Prompt
+
+```
+ภายใต้แสงนวลตาของพระจันทร์สีสตรอว์เบอร์รีดวงยักษ์ที่แขวนตัวต่ำอยู่บนท้องฟ้าช่วงโพล้เพล้ หญิงสาวผมบลอนด์แสนสวยยืนอยู่อย่างสง่างามบนยอดเขาที่เงียบสงบ ผมสีทองยาวของเธอทิ้งตัวเป็นลอนคลื่นอ่อนๆ ลงมาตามแผ่นหลัง สะท้อนแสงสีชมพูระเรื่อ เธอสวมชุดราตรีโปร่งแสงที่งดงามจนน่าทึ่ง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071733013730541571/img/C68iqHWL4e9bs2tM.jpg" width="600" alt="หญิงสาวผมบลอนด์ใต้พระจันทร์สีสตรอว์เบอร์รี">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6635)**
+
+**Author:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **Source:** [Link](https://x.com/AnnetteHollerWe/status/2071733120089653442) | **Published:** Jun 29, 2026
+
+---
+### Legends on Ice Figure Skating
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> พรอมต์แอนิเมชันแนวภาพยนตร์และกวีที่บรรยายถึงการพบกันตามโชคชะตาของนักสเกตลีลาสองคนบนลานน้ำแข็งที่เงียบสงัด
+
+#### 📝 Prompt
+
+```
+❄️ Legends on Ice – Vol.1 ❄️
+
+คนสองคนพบกันบนลานน้ำแข็ง ในวินาทีที่สายตาประสานกัน โลกที่เคยเงียบงันก็เริ่มเคลื่อนไหว เส้นผมสีเงินวาดลวดลายไปกับสายลม และหิมะก็อาบไล้ด้วยแสงสว่าง ทีละก้าว พวกเขาถักทอโชคชะตาและเปลี่ยนมันให้กลายเป็นการเต้นรำชั่วนิรันดร์ ✨ สองจิตวิญญาณ หนึ่งจังหวะ หนึ่งโชคชะตา นี่คือจุดเริ่มต้นของตำนานบนลานน้ำแข็ง โปรดติดตามตอนต่อไป… ⛸️❄️
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071684493015121920/img/izAPSvtfE0tBXB_V.jpg" width="600" alt="Legends on Ice Figure Skating">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6640)**
+
+**Author:** [猫神MT](https://x.com/nekogami_MT) | **Source:** [Link](https://x.com/nekogami_MT/status/2071684551806787596) | **Published:** Jun 29, 2026
+
+---
+### แอนิเมชันดวงจันทร์เทอร์โมไดนามิกส์สไตล์ไซเคเดลิก
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวคอสมิกสุดสดใส แสดงภาพดวงจันทร์ที่กำลังเดือดพล่าน แผ่รังสีความร้อน และลวดลายมันดาลาที่หมุนวนท่ามกลางหมอกควันสไตล์ไซเคเดลิก
+
+#### 📝 Prompt
+
+```
+ดวงจันทร์ที่กำลังเดือดแผ่คลื่นความร้อนเหนือไอระเหยที่ลอยขึ้นมา ลวดลายมันดาลาแบบคาร์โนต์หมุนวน กล้องเคลื่อนที่ขึ้นผ่านหมอกควันทางอุณหพลศาสตร์ ให้ความรู้สึกแบบไซเคเดลิกและคอสมิก น่าตื่นตาตื่นใจราวกับตัวอย่างภาพยนตร์
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071662651273269249/img/AdGD3S1k8mhyEWBj.jpg" width="600" alt="แอนิเมชันดวงจันทร์เทอร์โมไดนามิกส์สไตล์ไซเคเดลิก">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6636)**
+
+**Author:** [ATom](https://x.com/ThomasSwaff) | **Source:** [Link](https://x.com/ThomasSwaff/status/2071662857603666081) | **Published:** Jun 29, 2026
+
+---
+### ความฝันในดินแดนเห็ดสีพาสเทล
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์แนวไซเคเดลิกและเหนือจริง ที่บรรยายถึงการเดินทางล่องลอยผ่านทิวทัศน์เห็ดสีพาสเทล
+
+#### 📝 Prompt
+
+```
+ล่องลอยอยู่ในความฝันของเห็ดสีพาสเทลแนวไซเคเดลิก... เสียงกระซิบแห่งความมหัศจรรย์อันอ่อนโยนและแสงนวลตา 🍄🌈✨
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071542463161106432/img/n-v_9YJXnNP9wRsd.jpg" width="600" alt="ความฝันในดินแดนเห็ดสีพาสเทล">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6637)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2071542525698122170) | **Published:** Jun 29, 2026
+
+---
+### Grok Imagine: พรอมต์สำหรับสร้างสรรค์สิ่งมีชีวิตในรูปแบบจักรกลและจิตวิญญาณ
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> ชุดคำอธิบายภาพโดยละเอียดสำหรับการสร้างสุนัขจิ้งจอกจักรกลนีออนและจิตวิญญาณกระจกสี ออกแบบมาเพื่อการสร้างวิดีโอคุณภาพสูงใน Grok Imagine
+
+#### 📝 Prompt
+
+```
+สุนัขจิ้งจอกนีออน (Mechanical Fox)
+แนวคิด: สุนัขจิ้งจอกจักรกลขนาดเล็กที่เป็นสัญลักษณ์ของความคล่องแคล่วและสติปัญญา ทำหน้าที่เป็นคู่หูสำหรับการสื่อสารความเร็วสูง
+รายละเอียด: สุนัขจิ้งจอกขนาดเล็กที่ประกอบขึ้นจากชิ้นส่วนจักรกลที่ซับซ้อนและหลอดไฟนีออนสีเหลือง ร่างกายบางส่วนมีความโปร่งใส เผยให้เห็นกระแสข้อมูลแสงที่เต้นเป็นจังหวะอยู่ภายใน มีดวงตาคล้ายเลนส์กล้องเพื่อบันทึกสิ่งที่ผ่านเข้ามาในระยะการมองเห็นให้กลายเป็นข้อมูล
+
+จิตวิญญาณกระจกสี (Light Spirit)
+แนวคิด: จิตวิญญาณมีปีกขนาดเล็กโปร่งแสงที่ถือกำเนิดจากแสงที่ควบแน่นผ่านกระจกสีในโบสถ์
+รายละเอียด: จิตวิญญาณรูปร่างคล้ายมนุษย์ขนาดเล็กที่ประกอบขึ้นจากแสงหลากสีสันที่หมุนวน สะท้อนสีสันทั้งหมดของกระจกสี ร่างกายมีความละเอียดอ่อนดุจแก้วแต่ไร้น้ำหนักดุจแสง เมื่อตัวละครเคลื่อนที่ แสงจากกระจกสีจะถูกดึงดูดเข้ามาหาตัว ก่อตัวขึ้นเป็นจิตวิญญาณเหล่านี้
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2071484451524399104/pu/img/Nr2UO5QjZq2IsxfB.jpg" width="600" alt="Grok Imagine: พรอมต์สำหรับสร้างสรรค์สิ่งมีชีวิตในรูปแบบจักรกลและจิตวิญญาณ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6638)**
+
+**Author:** [akira](https://x.com/akira_LEVEL3141) | **Source:** [Link](https://x.com/akira_LEVEL3141/status/2071484537767686272) | **Published:** Jun 29, 2026
+
+---
+### Marble Lovers Golden Kiss
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สไตล์ศิลปะอันซับซ้อนที่ผสมผสานงานประติมากรรมของ Yves Pires เข้ากับสไตล์การวาดภาพของ Gustav Klimt
+
+#### 📝 Prompt
+
+```
+จูบที่ซ้อนทับอยู่ในจูบ คู่รักหินอ่อนของ Yves Pires ที่โอบกอดกันอยู่เบื้องหน้าผลงาน Golden Kiss ของ Klimt
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071412715935985665/img/FcHHNv039pFHi5yr.jpg" width="600" alt="Marble Lovers Golden Kiss">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6639)**
+
+**Author:** [Jess X](https://x.com/jess_X) | **Source:** [Link](https://x.com/jess_X/status/2071412768066936906) | **Published:** Jun 29, 2026
+
+---
+### ฉากกราฟฟิตี้ไซบอร์กสไตล์ไซเบอร์พังค์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์ที่มีรายละเอียดเกี่ยวกับศิลปินกราฟฟิตี้ไซบอร์กในตรอกนีออนที่เปียกชื้น โดยเปลี่ยนจากการพ่นสีไปเป็นการขี่มอเตอร์ไซค์
+
+#### 📝 Prompt
+
+```
+ศิลปินกราฟฟิตี้ไซบอร์กในชุดฮู้ดและหมวกกันน็อกสีน้ำเงินก้าวถอยหลังออกมาจากภาพวาดฝาผนังหุ่นยนต์สีฟ้าเรืองแสงบนกำแพงอิฐ โยนกระป๋องสเปรย์ออกไปนอกเฟรม จากนั้นกระโดดขึ้นขี่มอเตอร์ไซค์สไตล์ไซเบอร์พังค์สุดโฉบเฉี่ยวที่มีไฟนีออนใต้ท้องรถ ซึ่งจอดอยู่ในตรอกที่เปียกชื้น
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071397162634842112/img/ztzxpB6ihaTV4KoI.jpg" width="600" alt="ฉากกราฟฟิตี้ไซบอร์กสไตล์ไซเบอร์พังค์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6634)**
+
+**Author:** [Robadang ✏️ AI Artist](https://x.com/dang_machina) | **Source:** [Link](https://x.com/dang_machina/status/2071397216674308335) | **Published:** Jun 29, 2026
+
+---
 ### วิดีโอโซฟาเล่นแซนด์บอร์ดกลางทะเลทราย
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2014,139 +2155,6 @@ Masterpiece, best quality, ultra-detailed fantasy concept art ของนัก
 **Author:** [WiseArtist Studios](https://x.com/Wise375) | **Source:** [Link](https://x.com/Wise375/status/2068185956176261631) | **Published:** Jun 20, 2026
 
 ---
-### แอนิเมชันหัวใจเต้นพร้อมตัวละครที่หายไป
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่งสำหรับ Grok Imagine เพื่อสร้างวิดีโอรูปหัวใจเต้นอยู่ตรงกลางหลังจากตัวละครหายไปจากฉาก
-
-#### 📝 Prompt
-
-```
-ได้ แต่ให้ Snoopy หายไปในตอนท้าย เหลือไว้เพียงหัวใจที่อยู่ตรงกลาง และทำให้มันเต้นเหมือนหัวใจจริงๆ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068114147313647617/img/f7Ig4_T2qqQtUBEi.jpg" width="600" alt="แอนิเมชันหัวใจเต้นพร้อมตัวละครที่หายไป">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6257)**
-
-**Author:** [DW 💉👀🐊](https://x.com/deweller) | **Source:** [Link](https://x.com/deweller/status/2068114216876163273) | **Published:** Jun 19, 2026
-
----
-### เสือคำรามบนโซฟาสุดหรู
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวภาพยนตร์ของเสือที่กำลังคำรามบนโซฟาฝรั่งเศส ให้ความรู้สึกย้อนยุค มีเม็ดเกรน และสไตล์การถ่ายภาพแบบใช้แฟลช
-
-#### 📝 Prompt
-
-```
-เสือคำรามบนโซฟาฝรั่งเศสในคฤหาสน์หรู บรรยากาศย้อนยุค เงาเข้ม เม็ดเกรนชัดเจน ให้ความรู้สึกเหมือนภาพถ่ายแฟลช
-```
-
-<img src="https://cms-assets.youmind.com/media/1781944909883_fv7mtm_HLNKqSfWQAEg5k1.jpg" width="600" alt="เสือคำรามบนโซฟาสุดหรู">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6250)**
-
-**Author:** [Love’s Last Icon](https://x.com/primusv1) | **Source:** [Link](https://x.com/primusv1/status/2068078806170993124) | **Published:** Jun 19, 2026
-
----
-### ภาพถ่ายแนวภาพยนตร์ของหญิงสาวที่มีกระประดับด้วยมงกุฎเงิน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์แนวภาพยนตร์ที่มีรายละเอียดสูงสำหรับภาพหญิงสาวที่มีกระ ผมสีเข้ม และสวมมงกุฎเงินอันวิจิตรบรรจง พร้อมถือดาบยุคกลาง
-
-#### 📝 Prompt
-
-```
-หญิงสาวที่มีกระละเอียดบนจมูกและแก้ม เส้นผมสีเข้มเปียกชื้นแนบไปกับใบหน้า สวมมงกุฎเงินอันวิจิตรบรรจงประดับด้วยคริสตัล มีผ้าคลุมหน้าสีเงินโปร่งแสงที่หนาขึ้นเล็กน้อยและเป็นประกายระยิบระยับคลุมทับใบหน้าซีกซ้ายอย่างมีมิติ (ปิดบังดวงตาหนึ่งข้าง) และพันรอบส่วนหนึ่งของดาบอย่างนุ่มนวล ผ้าคลุมหน้ามีเนื้อสัมผัสที่โปร่งแสงแต่ดูมีน้ำหนักพร้อมประกายกลิตเตอร์ละเอียด เธอถือดาบยุคกลางอันวิจิตรด้วยมือทั้งสองข้าง ด้ามดาบและส่วนบนของใบดาบถูกปกคลุมด้วยผ้าคลุมหน้าหนาใกล้กับคางและริมฝีปาก สวมแหวนเงินลวดลายประณีตหลายวงที่นิ้วมือ แสงด้านข้างที่นุ่มนวลและกระจายตัว โทนสีเงินอมเทาที่ดูหม่นและลดความอิ่มตัวของสีลง ให้ความรู้สึกหรูหราและเรียบง่าย พื้นผิวผิวหนังสมจริงที่มีรายละเอียดสูง ริมฝีปากเงางามอย่างเป็นธรรมชาติ รอยพับของผ้าและการสะท้อนของแสงบนผ้าคลุมหน้าดูสมจริง โฟกัสที่ดวงตาข้างที่เห็นได้อย่างคมชัด เห็นรายละเอียดของกระและเนื้อผ้าของผ้าคลุมหน้าชัดเจน ระยะชัดลึกตื้น โบเก้ที่นุ่มนวลชวนฝัน สมจริงระดับไฮเปอร์เรียลลิสติก ภาพถ่ายสมจริง และการปรับแต่งสีสไตล์ภาพยนตร์
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068062467100418048/img/XAdGpdy3LIaC58ti.jpg" width="600" alt="ภาพถ่ายแนวภาพยนตร์ของหญิงสาวที่มีกระประดับด้วยมงกุฎเงิน">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6254)**
-
-**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2068062555310891321) | **Published:** Jun 19, 2026
-
----
-### วิดีโอพาชมพื้นที่ต้อนรับในนิคมอุตสาหกรรม
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอในมุมมองบุคคลที่หนึ่ง (POV) ที่ถ่ายทอดบรรยากาศการเดินจากภายนอกอาคารอุตสาหกรรมสมัยใหม่ เข้าสู่พื้นที่ต้อนรับที่มีการตกแต่งผนังด้วยข้อความเฉพาะ
-
-#### 📝 Prompt
-
-```
-ช่วยสร้างวิดีโอของนิคมอุตสาหกรรมสมัยใหม่จากมุมมองภายนอก จากนั้นใช้มุมมองบุคคลที่หนึ่ง (POV) เดินผ่านประตูหน้าเข้าไปยังพื้นที่ต้อนรับ โดยให้มีข้อความ "MyCityDC" ปรากฏอยู่เหนือบริเวณเคาน์เตอร์ต้อนรับ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068048509111095296/img/bxzPK1A53AAeWJL7.jpg" width="600" alt="วิดีโอพาชมพื้นที่ต้อนรับในนิคมอุตสาหกรรม">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6243)**
-
-**Author:** [Number-One-AI-Fanboy](https://x.com/Number1AIFanboy) | **Source:** [Link](https://x.com/Number1AIFanboy/status/2068048785930924447) | **Published:** Jun 19, 2026
-
----
-### แอนิเมชันประติมากรรมพุทธศิลป์เริงระบำ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอเชิงสร้างสรรค์ที่จินตนาการถึงประติมากรรมพุทธศิลป์ทางประวัติศาสตร์จากพิพิธภัณฑ์อินเดียที่กลับมามีชีวิตและร่ายรำอย่างงดงามราวกับเทพยดา
-
-#### 📝 Prompt
-
-```
-ประติมากรรมมรดกทางพุทธศิลป์ที่คัดสรรมาจากพิพิธภัณฑ์อินเดีย ในจินตนาการของเรานั้นกำลังเริงระบำอย่างเปี่ยมสุขราวกับเทพยดา!
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068005532213080070/img/TdbhoKsf2yQEobxy.jpg" width="600" alt="แอนิเมชันประติมากรรมพุทธศิลป์เริงระบำ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6244)**
-
-**Author:** [Ashok Kumar Panda](https://x.com/ashok_sr_adv) | **Source:** [Link](https://x.com/ashok_sr_adv/status/2068005598046892078) | **Published:** Jun 19, 2026
-
----
-### กระท่อมริมทะเลสไตล์จิบลิ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ฉากกระท่อมริมทะเลญี่ปุ่นยามโพล้เพล้ที่เปี่ยมไปด้วยความรู้สึกโหยหาและมีเสน่ห์ ในสไตล์อนิเมะอันเป็นเอกลักษณ์ของ Studio Ghibli
-
-#### 📝 Prompt
-
-```
-กระท่อมริมทะเลญี่ปุ่นที่มีเสน่ห์ในช่วงยามโพล้เพล้ แสงไฟอุ่น ๆ ส่องสว่างจากหน้าต่าง มองเห็นคลื่นทะเลเบา ๆ เลยจากระเบียงออกไป ท้องฟ้าเต็มไปด้วยดวงดาวสะท้อนบนผืนน้ำ ให้ความรู้สึกสงบและชวนให้คิดถึงวันวาน ในสไตล์ Studio Ghibli เป็นฉากอนิเมะที่ดูเหมือนภาพยนตร์
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067972919108759552/img/aHHwvenDdcGGk6d4.jpg" width="600" alt="กระท่อมริมทะเลสไตล์จิบลิ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6487)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2067973035446112683) | **Published:** Jun 19, 2026
-
----
-### แอนิเมชันเด็กถูก UFO ลักพาตัว
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์ที่แสดงภาพเด็กกำลังถูกยกตัวขึ้นจากพื้นราวกับถูก UFO ดูดขึ้นไป พร้อมการเคลื่อนไหวของกล้องแบบไดนามิกที่ติดตามเหตุการณ์
-
-#### 📝 Prompt
-
-```
-เด็กถูกยกตัวขึ้นจากพื้นราวกับว่า UFO กำลังดึงตัวเขาขึ้นไป โดยมีการเคลื่อนไหวของกล้องติดตามเหตุการณ์
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067969949851660288/img/uM6tu315NO6QgE5-.jpg" width="600" alt="แอนิเมชันเด็กถูก UFO ลักพาตัว">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6247)**
-
-**Author:** [David Herbert Thomas](https://x.com/Diabach1972) | **Source:** [Link](https://x.com/Diabach1972/status/2067970008748110198) | **Published:** Jun 19, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2208,6 +2216,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-30T04:26:04.932Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-30T11:30:47.833Z</sub>
 
 </div>

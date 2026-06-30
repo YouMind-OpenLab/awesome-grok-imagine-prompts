@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1991** |
+| 📝 Total Prompts | **1998** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-06-30** |
 
@@ -189,6 +189,147 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Blonde Woman Under Strawberry Moon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A beautiful cinematic video prompt featuring a woman on a hilltop under a large strawberry moon at twilight.
+
+#### 📝 Prompt
+
+```
+Under the soft glow of a giant strawberry moon hanging low in the twilight sky, a beautiful blonde woman stands gracefully on a quiet hilltop. Her long, golden hair cascades in gentle waves down her back, catching the rosy light. She wears breathtaking translucent gown.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071733013730541571/img/C68iqHWL4e9bs2tM.jpg" width="600" alt="Blonde Woman Under Strawberry Moon">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6635)**
+
+**Author:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **Source:** [Link](https://x.com/AnnetteHollerWe/status/2071733120089653442) | **Published:** Jun 29, 2026
+
+---
+### Legends on Ice Figure Skating
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A cinematic and poetic animation prompt describing a destined encounter between two figure skaters on a silent ice rink.
+
+#### 📝 Prompt
+
+```
+❄️ Legends on Ice – Vol.1 ❄️
+
+Two people met on the ice. The moment their eyes met, the silent world began to move. Silver hair paints the wind, and snow is clothed in light. Step by step, they weave destiny and turn it into an eternal dance. ✨ Two souls. One rhythm. One destiny. This is the beginning of the ice legend. To Be Continued… ⛸️❄️
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071684493015121920/img/izAPSvtfE0tBXB_V.jpg" width="600" alt="Legends on Ice Figure Skating">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6640)**
+
+**Author:** [猫神MT](https://x.com/nekogami_MT) | **Source:** [Link](https://x.com/nekogami_MT/status/2071684551806787596) | **Published:** Jun 29, 2026
+
+---
+### Psychedelic Thermodynamic Moon Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A vivid cosmic video prompt showing a boiling moon, radiating heat, and mandalas spinning in a psychedelic haze.
+
+#### 📝 Prompt
+
+```
+The boiling moon radiates heat waves over rising vapor; carnot mandalas spin; camera drifts upward through thermodynamic haze, psychedelic and cosmic, trailer awe.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071662651273269249/img/AdGD3S1k8mhyEWBj.jpg" width="600" alt="Psychedelic Thermodynamic Moon Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6636)**
+
+**Author:** [ATom](https://x.com/ThomasSwaff) | **Source:** [Link](https://x.com/ThomasSwaff/status/2071662857603666081) | **Published:** Jun 29, 2026
+
+---
+### Pastel Mushroom Dream
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A psychedelic and ethereal video prompt describing a floating journey through pastel mushroom landscapes.
+
+#### 📝 Prompt
+
+```
+Floating in a pastel psychedelic mushroom dream… Whispers of gentle wonder and soft light 🍄🌈✨
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071542463161106432/img/n-v_9YJXnNP9wRsd.jpg" width="600" alt="Pastel Mushroom Dream">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6637)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2071542525698122170) | **Published:** Jun 29, 2026
+
+---
+### Grok Imagine Mechanical and Ethereal Creature Prompts
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A set of detailed visual descriptions for generating a mechanical neon fox and a stained-glass spirit, designed for high-quality video generation in Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Neon Fox (Mechanical Fox)
+Concept: A small mechanical fox symbolizing agility and wisdom. Serves as a partner for high-speed communication.
+Details: A small fox composed of intricate mechanical parts and yellow neon tubes. Parts of the body are transparent, revealing internal light pulse data streams. It has lens-like eyes to capture what enters its field of vision as data.
+
+Stained Glass Spirit (Light Spirit)
+Concept: A small, translucent winged spirit born from condensed light passing through church stained glass.
+Details: A small humanoid spirit composed of swirling multi-colored light reflecting all colors of stained glass. Its body is delicate like glass yet insubstantial like light. As the character walks, light from stained glass is drawn toward it, forming these spirits.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2071484451524399104/pu/img/Nr2UO5QjZq2IsxfB.jpg" width="600" alt="Grok Imagine Mechanical and Ethereal Creature Prompts">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6638)**
+
+**Author:** [akira](https://x.com/akira_LEVEL3141) | **Source:** [Link](https://x.com/akira_LEVEL3141/status/2071484537767686272) | **Published:** Jun 29, 2026
+
+---
+### Marble Lovers Golden Kiss
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A sophisticated art-style prompt combining the sculpture of Yves Pires with the painting style of Gustav Klimt.
+
+#### 📝 Prompt
+
+```
+A kiss within a kiss. Yves Pires’ marble lovers entwined before Klimt’s golden kiss.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071412715935985665/img/FcHHNv039pFHi5yr.jpg" width="600" alt="Marble Lovers Golden Kiss">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6639)**
+
+**Author:** [Jess X](https://x.com/jess_X) | **Source:** [Link](https://x.com/jess_X/status/2071412768066936906) | **Published:** Jun 29, 2026
+
+---
+### Cyberpunk Cyborg Graffiti Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video prompt featuring a cyborg graffiti artist in a wet neon alleyway, transitioning from painting to riding a motorbike.
+
+#### 📝 Prompt
+
+```
+The cyborg graffiti artist in the hood and blue helmet steps back from the glowing blue robot mural on the brick wall, tosses the spray can out of frame, then swings onto a sleek cyberpunk motorbike with neon underglow parked in the wet alley.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071397162634842112/img/ztzxpB6ihaTV4KoI.jpg" width="600" alt="Cyberpunk Cyborg Graffiti Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6634)**
+
+**Author:** [Robadang ✏️ AI Artist](https://x.com/dang_machina) | **Source:** [Link](https://x.com/dang_machina/status/2071397216674308335) | **Published:** Jun 29, 2026
+
+---
 ### Desert Couch Sandboarding Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -379,11 +520,11 @@ Ultra-realistic close-up scene of a beautiful woman in a beautiful white sundres
 **Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2070902475238818282) | **Published:** Jun 27, 2026
 
 ---
-### Cozy Ghibli Inspired Attic Video
+### Studio Ghibli Galaxy Attic
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt for a warm, magical attic room filled with vintage treasures and fairy lights under a galaxy-filled night sky, inspired by Studio Ghibli.
+> An anime-style video prompt for a cozy attic filled with vintage items under a magical galaxy-filled skylight.
 
 #### 📝 Prompt
 
@@ -391,7 +532,7 @@ Ultra-realistic close-up scene of a beautiful woman in a beautiful white sundres
 A cozy attic room filled with vintage treasures, old maps, potted plants, fairy lights, and a skylight revealing a breathtaking galaxy-filled night sky, warm and magical atmosphere, Studio Ghibli inspired, highly detailed anime illustration.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070855968339230720/img/gdIXM9etUa8gWSBz.jpg" width="600" alt="Cozy Ghibli Inspired Attic Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070855968339230720/img/gdIXM9etUa8gWSBz.jpg" width="600" alt="Studio Ghibli Galaxy Attic">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6559)**
 
@@ -512,11 +653,11 @@ Cinematic moonlit shoreline stage: realistic human rock guitarist planted wide i
 **Author:** [@TheCFormula credo.](https://x.com/TheCFormula) | **Source:** [Link](https://x.com/TheCFormula/status/2070516674906730730) | **Published:** Jun 26, 2026
 
 ---
-### Studio Ghibli Style Japanese Train Station
+### Nostalgic Ghibli Train Station
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A nostalgic anime-style video prompt of a rural Japanese train station at night with swaying wildflowers and cinematic lighting.
+> A highly detailed prompt for a nostalgic Japanese train station at night, featuring a peaceful atmosphere in Studio Ghibli style.
 
 #### 📝 Prompt
 
@@ -524,7 +665,7 @@ Cinematic moonlit shoreline stage: realistic human rock guitarist planted wide i
 A nostalgic rural Japanese train station at night, vintage wooden platform, glowing station lamps, wildflowers swaying in the breeze, starry sky overhead, warm and peaceful atmosphere, Studio Ghibli inspired anime artwork, ultra detailed and cinematic.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070496506583588864/img/ErbxoFiu1HZIslQC.jpg" width="600" alt="Studio Ghibli Style Japanese Train Station">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070496506583588864/img/ErbxoFiu1HZIslQC.jpg" width="600" alt="Nostalgic Ghibli Train Station">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6523)**
 
@@ -1122,29 +1263,19 @@ Space elevator bringing people and cargo up psychedelic experience lots of stars
 **Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2069426293360194028) | **Published:** Jun 23, 2026
 
 ---
-### Cinematic Retro Diner Cereal Surprise
+### Cinematic Slow Motion Cereal Breakfast
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed cinematic video prompt for a cozy retro kitchen scene where cereal and milk float in magical slow motion as a young girl reacts with surprise.
+> A magical video prompt generating a retro diner kitchen scene where a girl watches cereal and milk float in slow motion with fisheye distortion.
 
 #### 📝 Prompt
 
 ```
 A cinematic wide angle shot inside a cozy retro diner style kitchen. A young girl leans over a bowl of colorful cereal as milk bursts upward in dramatic slow motion. Bright cereal loops float through the air around her face. She looks directly at the camera with wide eyes and an open-mouth expression of surprise and delight. Warm morning sunlight streams through the blinds. The scene has a playful, magical, energetic feel, with fisheye lens distortion, realistic lighting, high detail, dynamic motion, and a fun cinematic vibe. Duration: 10 seconds.
-
-Dialogue: Whoa… is my breakfast actually flying?
-
-Sound Design: 
-
-Sudden milk splash.
-Light cereal scattering sounds.
-Soft magical sparkle effect.
-Girl’s surprised gasp.
-Fun playful background music.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069395437908643841/img/g-URoeS90azUiBUG.jpg" width="600" alt="Cinematic Retro Diner Cereal Surprise">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069395437908643841/img/g-URoeS90azUiBUG.jpg" width="600" alt="Cinematic Slow Motion Cereal Breakfast">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6398)**
 
@@ -2017,139 +2148,6 @@ Make the shark swim closer to the camera and open its mouth to eat the camera, f
 **Author:** [WiseArtist Studios](https://x.com/Wise375) | **Source:** [Link](https://x.com/Wise375/status/2068185956176261631) | **Published:** Jun 20, 2026
 
 ---
-### Pulsing Heart Animation with Disappearing Character
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for Grok Imagine that creates a video of a centered pulsing heart after a character disappears from the scene.
-
-#### 📝 Prompt
-
-```
-Yes, but Snoopy disappears at the end. Leave only the heart centered. You can make it pulse like a heart.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068114147313647617/img/f7Ig4_T2qqQtUBEi.jpg" width="600" alt="Pulsing Heart Animation with Disappearing Character">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6257)**
-
-**Author:** [DW 💉👀🐊](https://x.com/deweller) | **Source:** [Link](https://x.com/deweller/status/2068114216876163273) | **Published:** Jun 19, 2026
-
----
-### Growling Tiger on Luxury Sofa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt of a tiger growling on a French sofa with a nostalgic, grainy, flash photography feel.
-
-#### 📝 Prompt
-
-```
-tiger growling on French sofa in luxury estate nostalgic vibe heavy shadows heavy grain some flash photography feel
-```
-
-<img src="https://cms-assets.youmind.com/media/1781944909883_fv7mtm_HLNKqSfWQAEg5k1.jpg" width="600" alt="Growling Tiger on Luxury Sofa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6250)**
-
-**Author:** [Love’s Last Icon](https://x.com/primusv1) | **Source:** [Link](https://x.com/primusv1/status/2068078806170993124) | **Published:** Jun 19, 2026
-
----
-### Medieval Woman with Silver Veil and Sword
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic Grok Imagine video prompt featuring a woman in an ornate silver crown and sparkling veil, holding a medieval sword against a muted cool-toned background.
-
-#### 📝 Prompt
-
-```
-woman with delicate freckles on nose and cheeks, wet dark hair strands sticking to her face. Ornate intricate silver crown with crystals, slightly thicker sheer sparkling silver veil dramatically draped over the left half of her face (covering one eye) and softly wrapping part of the sword. The veil has a delicate but more substantial translucent texture with fine glitter. She holds an ornate medieval sword with both hands, hilt and upper blade gently covered by the thicker veil near her chin and lips, multiple ornate silver rings on fingers. Very soft diffused side lighting, muted desaturated cool silvery-grey color palette, low saturation, elegant understated tones. Hyper detailed realistic skin texture, natural glossy lips, realistic fabric folds and light reflections on thicker veil. Razor sharp focus on visible eye, freckles and veil texture, shallow depth of field, soft dreamy bokeh, hyperrealistic, photorealistic, cinematic color grading.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068062467100418048/img/XAdGpdy3LIaC58ti.jpg" width="600" alt="Medieval Woman with Silver Veil and Sword">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6254)**
-
-**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2068062555310891321) | **Published:** Jun 19, 2026
-
----
-### Industrial Park Reception Walkthrough
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic POV video walking through the entrance of a modern industrial facility into a reception area with custom wall text.
-
-#### 📝 Prompt
-
-```
-Create me a video of a modern industrial park from the outside then use a first person POV to walk through the front doors into a reception area. Above the receptionist it should say "MyCityDC"
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068048509111095296/img/bxzPK1A53AAeWJL7.jpg" width="600" alt="Industrial Park Reception Walkthrough">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6243)**
-
-**Author:** [Number-One-AI-Fanboy](https://x.com/Number1AIFanboy) | **Source:** [Link](https://x.com/Number1AIFanboy/status/2068048785930924447) | **Published:** Jun 19, 2026
-
----
-### Dancing Buddhist sculptures animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A creative video prompt that imagines historical Buddhist sculptures from the Indian Museum coming to life in a divine ecstatic dance.
-
-#### 📝 Prompt
-
-```
-The selected sculptures of the Buddhist heritage from the Indian Museum, in our imagination are dancing in divine ecstasy!
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068005532213080070/img/TdbhoKsf2yQEobxy.jpg" width="600" alt="Dancing Buddhist sculptures animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6244)**
-
-**Author:** [Ashok Kumar Panda](https://x.com/ashok_sr_adv) | **Source:** [Link](https://x.com/ashok_sr_adv/status/2068005598046892078) | **Published:** Jun 19, 2026
-
----
-### Ghibli Style Seaside Cottage
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A nostalgic and charming scene of a Japanese seaside cottage at dusk in the iconic Studio Ghibli anime style.
-
-#### 📝 Prompt
-
-```
-A charming Japanese seaside cottage at dusk, warm lights glowing from the windows, gentle ocean waves visible beyond the porch, starry sky reflected on the water, peaceful and nostalgic feeling, Studio Ghibli style, cinematic anime scene.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067972919108759552/img/aHHwvenDdcGGk6d4.jpg" width="600" alt="Ghibli Style Seaside Cottage">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6487)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2067973035446112683) | **Published:** Jun 19, 2026
-
----
-### Child UFO abduction animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video prompt depicting a child being lifted off the ground as if being pulled by a UFO with dynamic camera movement following the action.
-
-#### 📝 Prompt
-
-```
-The child lifts off of the ground as if the UFO is pulling him in, camera movement follows
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067969949851660288/img/uM6tu315NO6QgE5-.jpg" width="600" alt="Child UFO abduction animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6247)**
-
-**Author:** [David Herbert Thomas](https://x.com/Diabach1972) | **Source:** [Link](https://x.com/Diabach1972/status/2067970008748110198) | **Published:** Jun 19, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2211,6 +2209,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-30T04:25:57.546Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-30T11:30:39.069Z</sub>
 
 </div>

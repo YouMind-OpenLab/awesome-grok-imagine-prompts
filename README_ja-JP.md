@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **1991** |
+| 📝 プロンプト総数 | **1998** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-06-30** |
 
@@ -189,6 +189,147 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### ストロベリームーンの下に佇むブロンドの女性
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 夕暮れ時、巨大なストロベリームーンが浮かぶ丘の上に立つ女性を捉えた、美しいシネマティックな動画プロンプトです。
+
+#### 📝 プロンプト
+
+```
+夕暮れの空に低く浮かぶ巨大なストロベリームーンの柔らかな光に包まれ、美しいブロンドの女性が静かな丘の上に優雅に立っています。彼女の長い金髪は緩やかなウェーブを描いて背中に流れ落ち、バラ色の光を反射しています。彼女は息をのむほど美しい透け感のあるガウンを纏っています。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071733013730541571/img/C68iqHWL4e9bs2tM.jpg" width="600" alt="ストロベリームーンの下に佇むブロンドの女性">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6635)**
+
+**作者:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **ソース:** [Link](https://x.com/AnnetteHollerWe/status/2071733120089653442) | **公開日:** Jun 29, 2026
+
+---
+### 氷上の伝説：フィギュアスケート
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 静寂なアイスリンクで運命的に出会う2人のフィギュアスケーターを描いた、映画のように詩的なアニメーションプロンプト。
+
+#### 📝 プロンプト
+
+```
+❄️ 氷上の伝説 – Vol.1 ❄️
+
+氷の上で出会った2人。視線が重なった瞬間、静寂の世界が動き出す。銀色の髪が風を彩り、雪は光を纏う。一歩ずつ運命を紡ぎ、永遠のダンスへと昇華させていく。✨ 2つの魂。1つのリズム。1つの運命。これは氷上の伝説の始まり。To Be Continued… ⛸️❄️
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071684493015121920/img/izAPSvtfE0tBXB_V.jpg" width="600" alt="氷上の伝説：フィギュアスケート">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6640)**
+
+**作者:** [猫神MT](https://x.com/nekogami_MT) | **ソース:** [Link](https://x.com/nekogami_MT/status/2071684551806787596) | **公開日:** Jun 29, 2026
+
+---
+### サイケデリックな熱力学的月の動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 沸騰する月が熱を放ち、マンダラがサイケデリックな霞の中で回転する、鮮やかな宇宙の動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+沸騰する月が立ち昇る蒸気の上に熱波を放ち、カルノー・マンダラが回転する。カメラは熱力学的な霞の中を上方へ漂い、サイケデリックで宇宙的な、予告編のような感動を演出する。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071662651273269249/img/AdGD3S1k8mhyEWBj.jpg" width="600" alt="サイケデリックな熱力学的月の動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6636)**
+
+**作者:** [ATom](https://x.com/ThomasSwaff) | **ソース:** [Link](https://x.com/ThomasSwaff/status/2071662857603666081) | **公開日:** Jun 29, 2026
+
+---
+### パステルカラーのキノコの夢
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> パステルカラーのキノコが広がる風景の中を漂う旅を描いた、サイケデリックで幻想的なビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+パステルカラーのサイケデリックなキノコの夢の中を漂う……穏やかな驚きと柔らかな光のささやき 🍄🌈✨
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071542463161106432/img/n-v_9YJXnNP9wRsd.jpg" width="600" alt="パステルカラーのキノコの夢">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6637)**
+
+**作者:** [Stella 𝕏](https://x.com/StellaGrokStar) | **ソース:** [Link](https://x.com/StellaGrokStar/status/2071542525698122170) | **公開日:** Jun 29, 2026
+
+---
+### Grok Imagine 向け：メカニカルな生物と幻想的な精霊のプロンプト
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Grok Imagine で高品質な動画を生成するために設計された、メカニカルなネオンフォックスとステンドグラスの精霊に関する詳細なビジュアル記述セットです。
+
+#### 📝 プロンプト
+
+```
+ネオンフォックス（メカニカルフォックス）
+コンセプト：俊敏性と知恵を象徴する小型のメカニカルフォックス。高速通信のパートナーとしての役割を担う。
+詳細：複雑な機械部品と黄色のネオン管で構成された小さなキツネ。体の一部は透明で、内部の光のパルスデータストリームが見える。レンズのような目を持ち、視界に入るものをデータとして取り込む。
+
+ステンドグラスの精霊（光の精霊）
+コンセプト：教会のステンドグラスを透過した凝縮された光から生まれた、半透明の小さな翼を持つ精霊。
+詳細：ステンドグラスのあらゆる色を反射する、渦巻く多色の光で構成された小さな人型の精霊。体はガラスのように繊細でありながら、光のように実体がない。キャラクターが歩くと、ステンドグラスの光が引き寄せられ、これらの精霊が形成される。
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2071484451524399104/pu/img/Nr2UO5QjZq2IsxfB.jpg" width="600" alt="Grok Imagine 向け：メカニカルな生物と幻想的な精霊のプロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6638)**
+
+**作者:** [akira](https://x.com/akira_LEVEL3141) | **ソース:** [Link](https://x.com/akira_LEVEL3141/status/2071484537767686272) | **公開日:** Jun 29, 2026
+
+---
+### Marble Lovers Golden Kiss
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yves Pires の彫刻と Gustav Klimt の絵画スタイルを融合させた、洗練されたアートスタイルのプロンプトです。
+
+#### 📝 プロンプト
+
+```
+接吻の中の接吻。Klimt の「黄金の接吻」を背景に、Yves Pires の大理石の恋人たちが絡み合います。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071412715935985665/img/FcHHNv039pFHi5yr.jpg" width="600" alt="Marble Lovers Golden Kiss">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6639)**
+
+**作者:** [Jess X](https://x.com/jess_X) | **ソース:** [Link](https://x.com/jess_X/status/2071412768066936906) | **公開日:** Jun 29, 2026
+
+---
+### サイバーパンクなサイボーグのグラフィティシーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 雨に濡れたネオン街の路地で、サイボーグのグラフィティアーティストが壁画を描き終え、バイクに乗り換える様子を描いた詳細な動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+フードを被り青いヘルメットを装着したサイボーグのグラフィティアーティストが、レンガの壁に描かれた青く光るロボットの壁画から一歩下がり、スプレー缶をフレームの外へ放り投げる。その後、雨に濡れた路地に停められていた、ネオンが輝く洗練されたサイバーパンク仕様のバイクに飛び乗る。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071397162634842112/img/ztzxpB6ihaTV4KoI.jpg" width="600" alt="サイバーパンクなサイボーグのグラフィティシーン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6634)**
+
+**作者:** [Robadang ✏️ AI Artist](https://x.com/dang_machina) | **ソース:** [Link](https://x.com/dang_machina/status/2071397216674308335) | **公開日:** Jun 29, 2026
+
+---
 ### 砂漠でソファがサンドボードをする動画
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2013,139 +2154,6 @@ Sebring を修復してツタを取り除き、Elon の Tesla に加わるよう
 **作者:** [WiseArtist Studios](https://x.com/Wise375) | **ソース:** [Link](https://x.com/Wise375/status/2068185956176261631) | **公開日:** Jun 20, 2026
 
 ---
-### キャラクターが消えて心臓が鼓動するアニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 用のプロンプト。キャラクターが画面から消えた後、中央で心臓が鼓動する動画を作成します。
-
-#### 📝 プロンプト
-
-```
-はい、ただし最後に Snoopy を消してください。中央に心臓だけを残します。心臓のように鼓動するようにしてください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068114147313647617/img/f7Ig4_T2qqQtUBEi.jpg" width="600" alt="キャラクターが消えて心臓が鼓動するアニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6257)**
-
-**作者:** [DW 💉👀🐊](https://x.com/deweller) | **ソース:** [Link](https://x.com/deweller/status/2068114216876163273) | **公開日:** Jun 19, 2026
-
----
-### 高級ソファの上で唸る虎
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> フランス製ソファの上で唸る虎を捉えたシネマティックな動画プロンプト。ノスタルジックで粒状感のある、フラッシュ撮影のような雰囲気が特徴です。
-
-#### 📝 プロンプト
-
-```
-高級邸宅のフランス製ソファの上で唸る虎、ノスタルジックな雰囲気、強い影、強い粒状感、フラッシュ撮影のような質感
-```
-
-<img src="https://cms-assets.youmind.com/media/1781944909883_fv7mtm_HLNKqSfWQAEg5k1.jpg" width="600" alt="高級ソファの上で唸る虎">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6250)**
-
-**作者:** [Love’s Last Icon](https://x.com/primusv1) | **ソース:** [Link](https://x.com/primusv1/status/2068078806170993124) | **公開日:** Jun 19, 2026
-
----
-### 銀の冠を被ったそばかすのある女性のシネマティックなポートレート
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> そばかすのある女性、ダークヘア、精巧な銀の冠、中世の剣を持つ姿を描く、高精細なシネマティックプロンプト。
-
-#### 📝 プロンプト
-
-```
-鼻と頬に繊細なそばかすがあり、濡れたダークヘアが顔に張り付いた女性。クリスタルがあしらわれた精巧で複雑な銀の冠を被り、少し厚手で輝く銀色のベールが顔の左半分をドラマチックに覆い（片目を隠している）、剣の一部を柔らかく包み込んでいる。ベールは繊細ながらも実体感のある半透明の質感で、細かいラメが散りばめられている。両手で精巧な中世の剣を持ち、顎と唇の近くで厚手のベールが剣の柄と刃の上部を優しく覆い、指には複数の華やかな銀の指輪をはめている。非常に柔らかく拡散されたサイドライト、彩度を抑えた落ち着いたクールな銀灰色のカラーパレット、控えめでエレガントな色調。超高精細でリアルな肌の質感、自然な艶のある唇、リアルな布のひだ、厚手のベールに反射する光。見える方の目に焦点を合わせた鋭いピント、そばかすとベールの質感、浅い被写界深度、柔らかく夢のようなボケ味、ハイパーリアリスティック、フォトリアリスティック、シネマティックなカラーグレーディング。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068062467100418048/img/XAdGpdy3LIaC58ti.jpg" width="600" alt="銀の冠を被ったそばかすのある女性のシネマティックなポートレート">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6254)**
-
-**作者:** [Myluna](https://x.com/monicamoonx) | **ソース:** [Link](https://x.com/monicamoonx/status/2068062555310891321) | **公開日:** Jun 19, 2026
-
----
-### 工業団地レセプションのウォークスルー動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> モダンな工業施設の入り口からレセプションエリアまで、カスタムの壁面テキストが映るシネマティックな POV 動画。
-
-#### 📝 プロンプト
-
-```
-モダンな工業団地の外観から始まり、一人称視点（POV）で正面玄関を通り、レセプションエリアへ進む動画を作成してください。受付の頭上には「MyCityDC」という文字を表示させてください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068048509111095296/img/bxzPK1A53AAeWJL7.jpg" width="600" alt="工業団地レセプションのウォークスルー動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6243)**
-
-**作者:** [Number-One-AI-Fanboy](https://x.com/Number1AIFanboy) | **ソース:** [Link](https://x.com/Number1AIFanboy/status/2068048785930924447) | **公開日:** Jun 19, 2026
-
----
-### 踊る仏像のアニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> インド博物館の歴史的な仏像が、神聖で恍惚としたダンスを踊り出す様子を想像したクリエイティブな動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-インド博物館に収蔵されている仏教遺産の彫像たちが、私たちの想像の中で神聖な恍惚感に包まれて踊り出します！
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068005532213080070/img/TdbhoKsf2yQEobxy.jpg" width="600" alt="踊る仏像のアニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6244)**
-
-**作者:** [Ashok Kumar Panda](https://x.com/ashok_sr_adv) | **ソース:** [Link](https://x.com/ashok_sr_adv/status/2068005598046892078) | **公開日:** Jun 19, 2026
-
----
-### ジブリ風の海辺のコテージ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> スタジオジブリ作品のような、夕暮れ時の懐かしく魅力的な日本の海辺のコテージの風景。
-
-#### 📝 プロンプト
-
-```
-夕暮れ時の魅力的な日本の海辺のコテージ。窓からは温かな光が漏れ、ポーチの先には穏やかな波が見える。水面に映る星空が、平和で懐かしい雰囲気を醸し出す。スタジオジブリ風のシネマティックなアニメシーン。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067972919108759552/img/aHHwvenDdcGGk6d4.jpg" width="600" alt="ジブリ風の海辺のコテージ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6487)**
-
-**作者:** [Mr Das](https://x.com/MrDasOnX) | **ソース:** [Link](https://x.com/MrDasOnX/status/2067973035446112683) | **公開日:** Jun 19, 2026
-
----
-### UFO に連れ去られる子供のアニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> UFO に引き寄せられるかのように子供が地面から浮かび上がり、その動きに合わせてカメラがダイナミックに追従するビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-UFO に引き寄せられるかのように子供が地面から浮かび上がり、カメラがその動きを追従する
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067969949851660288/img/uM6tu315NO6QgE5-.jpg" width="600" alt="UFO に連れ去られる子供のアニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6247)**
-
-**作者:** [David Herbert Thomas](https://x.com/Diabach1972) | **ソース:** [Link](https://x.com/Diabach1972/status/2067970008748110198) | **公開日:** Jun 19, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2207,6 +2215,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-30T04:26:02.100Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-30T11:30:43.521Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **1991** |
+| 📝 提示詞總數 | **1998** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-06-30** |
 
@@ -189,6 +189,147 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 草莓月下的金髮女子
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個精美的電影感影片提示詞，描繪了一位女子在黃昏時分，站在草莓月高掛的丘陵上。
+
+#### 📝 提示詞
+
+```
+在黃昏天空中懸掛的巨大草莓月所散發的柔和光芒下，一位美麗的金髮女子優雅地站在寧靜的丘陵上。她那長長的金色秀髮如波浪般垂落在背後，映照著玫瑰色的光輝。她身穿一件令人驚豔的半透明禮服。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071733013730541571/img/C68iqHWL4e9bs2tM.jpg" width="600" alt="草莓月下的金髮女子">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6635)**
+
+**作者:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **來源:** [Link](https://x.com/AnnetteHollerWe/status/2071733120089653442) | **發布時間:** Jun 29, 2026
+
+---
+### 冰上傳奇花式滑冰
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一個充滿電影感與詩意的動畫提示詞，描述兩位花式滑冰選手在寂靜冰場上的宿命相遇。
+
+#### 📝 提示詞
+
+```
+❄️ 冰上傳奇 – 第一卷 ❄️
+
+兩人在冰上相遇。當目光交會的那一刻，寂靜的世界開始轉動。銀色的髮絲渲染了風，白雪披上了光。一步又一步，他們編織著命運，將其化作一場永恆的舞蹈。✨ 兩個靈魂。一種節奏。一個宿命。這是冰上傳奇的開端。待續…… ⛸️❄️
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071684493015121920/img/izAPSvtfE0tBXB_V.jpg" width="600" alt="冰上傳奇花式滑冰">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6640)**
+
+**作者:** [猫神MT](https://x.com/nekogami_MT) | **來源:** [Link](https://x.com/nekogami_MT/status/2071684551806787596) | **發布時間:** Jun 29, 2026
+
+---
+### 迷幻熱力學月球動畫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段生動的宇宙影片提示詞，展示了一顆沸騰的月球，散發著熱氣，曼陀羅在迷幻的霧氣中旋轉。
+
+#### 📝 提示詞
+
+```
+沸騰的月球在升騰的蒸汽上散發熱浪；卡諾曼陀羅旋轉；鏡頭穿過熱力學霧氣向上漂移，迷幻且充滿宇宙感，預告片般的震撼效果。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071662651273269249/img/AdGD3S1k8mhyEWBj.jpg" width="600" alt="迷幻熱力學月球動畫">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6636)**
+
+**作者:** [ATom](https://x.com/ThomasSwaff) | **來源:** [Link](https://x.com/ThomasSwaff/status/2071662857603666081) | **發布時間:** Jun 29, 2026
+
+---
+### 粉彩蘑菇夢境
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段迷幻且空靈的影片提示詞，描述了一場穿梭於粉彩蘑菇景觀中的漂浮之旅。
+
+#### 📝 提示詞
+
+```
+漂浮在粉彩迷幻的蘑菇夢境中…… 輕柔的驚奇與柔和的光影低語 🍄🌈✨
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071542463161106432/img/n-v_9YJXnNP9wRsd.jpg" width="600" alt="粉彩蘑菇夢境">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6637)**
+
+**作者:** [Stella 𝕏](https://x.com/StellaGrokStar) | **來源:** [Link](https://x.com/StellaGrokStar/status/2071542525698122170) | **發布時間:** Jun 29, 2026
+
+---
+### Grok Imagine 機械與空靈生物提示詞
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 為 Grok Imagine 高品質影片生成所設計，包含機械霓虹狐狸與彩繪玻璃精靈的詳細視覺描述。
+
+#### 📝 提示詞
+
+```
+霓虹狐狸（機械狐狸）
+概念：一隻象徵靈敏與智慧的小型機械狐狸，作為高速通訊的夥伴。
+細節：一隻由複雜機械零件與黃色霓虹燈管組成的小狐狸。身體部分呈現透明，露出內部的光脈衝數據流。擁有如鏡頭般的眼睛，能將視野所及之物捕捉為數據。
+
+彩繪玻璃精靈（光之精靈）
+概念：一個由穿過教堂彩繪玻璃的聚光所誕生，半透明的小型帶翼精靈。
+細節：一個由旋轉的多彩光芒組成的小型人形精靈，反射出彩繪玻璃的所有顏色。其身體如玻璃般精緻，卻又如光影般虛幻。當角色行走時，彩繪玻璃的光線會被吸引至其身邊，進而形成這些精靈。
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2071484451524399104/pu/img/Nr2UO5QjZq2IsxfB.jpg" width="600" alt="Grok Imagine 機械與空靈生物提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6638)**
+
+**作者:** [akira](https://x.com/akira_LEVEL3141) | **來源:** [Link](https://x.com/akira_LEVEL3141/status/2071484537767686272) | **發布時間:** Jun 29, 2026
+
+---
+### 大理石戀人：金色之吻
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一種精緻的藝術風格提示詞，結合了 Yves Pires 的雕塑與 Gustav Klimt 的繪畫風格。
+
+#### 📝 提示詞
+
+```
+吻中之吻。Yves Pires 的大理石戀人交織在 Klimt 的金色之吻前。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071412715935985665/img/FcHHNv039pFHi5yr.jpg" width="600" alt="大理石戀人：金色之吻">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6639)**
+
+**作者:** [Jess X](https://x.com/jess_X) | **來源:** [Link](https://x.com/jess_X/status/2071412768066936906) | **發布時間:** Jun 29, 2026
+
+---
+### 賽博龐克生化人塗鴉場景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段細膩的影片提示詞，描述一位生化人塗鴉藝術家在潮濕的霓虹巷弄中，從繪畫轉變為騎乘機車的過程。
+
+#### 📝 提示詞
+
+```
+戴著連帽衫與藍色頭盔的生化人塗鴉藝術家，從磚牆上發光的藍色機器人壁畫前退後，將噴漆罐扔出畫面外，隨後跨上一輛停在潮濕巷弄中、帶有霓虹底燈的時髦賽博龐克機車。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071397162634842112/img/ztzxpB6ihaTV4KoI.jpg" width="600" alt="賽博龐克生化人塗鴉場景">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6634)**
+
+**作者:** [Robadang ✏️ AI Artist](https://x.com/dang_machina) | **來源:** [Link](https://x.com/dang_machina/status/2071397216674308335) | **發布時間:** Jun 29, 2026
+
+---
 ### 沙漠沙發滑沙影片
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2013,139 +2154,6 @@ Elena 穿過閃爍的傳送門進入廣闊的 Playroom，她睜大雙眼，神�
 **作者:** [WiseArtist Studios](https://x.com/Wise375) | **來源:** [Link](https://x.com/Wise375/status/2068185956176261631) | **發布時間:** Jun 20, 2026
 
 ---
-### 帶有角色消失效果的跳動心臟動畫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個用於 Grok Imagine 的提示詞，旨在創作一段角色消失後，畫面中央出現跳動心臟的影片。
-
-#### 📝 提示詞
-
-```
-可以，但請讓 Snoopy 在最後消失。只留下置中的心臟，並讓它像心臟一樣跳動。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068114147313647617/img/f7Ig4_T2qqQtUBEi.jpg" width="600" alt="帶有角色消失效果的跳動心臟動畫">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6257)**
-
-**作者:** [DW 💉👀🐊](https://x.com/deweller) | **來源:** [Link](https://x.com/deweller/status/2068114216876163273) | **發布時間:** Jun 19, 2026
-
----
-### 豪華沙發上的咆哮猛虎
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個電影級的影片提示詞，描繪一隻老虎在法式沙發上咆哮，帶有懷舊、顆粒感及閃光攝影的氛圍。
-
-#### 📝 提示詞
-
-```
-老虎在豪華莊園的法式沙發上咆哮，懷舊氛圍，強烈陰影，厚重顆粒感，帶有閃光攝影的質感
-```
-
-<img src="https://cms-assets.youmind.com/media/1781944909883_fv7mtm_HLNKqSfWQAEg5k1.jpg" width="600" alt="豪華沙發上的咆哮猛虎">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6250)**
-
-**作者:** [Love’s Last Icon](https://x.com/primusv1) | **來源:** [Link](https://x.com/primusv1/status/2068078806170993124) | **發布時間:** Jun 19, 2026
-
----
-### 電影感雀斑女子與銀色皇冠
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個高細節的電影感提示詞，描繪了一位擁有雀斑、深色頭髮，並佩戴精緻銀色皇冠且手持中世紀寶劍的女性。
-
-#### 📝 提示詞
-
-```
-一位鼻樑與臉頰上有精緻雀斑的女性，濕潤的深色髮絲貼在臉上。佩戴著鑲嵌水晶的華麗精緻銀色皇冠，一塊略厚且閃爍的銀色薄紗戲劇性地披在臉部左側（遮住一隻眼睛），並輕柔地包裹住部分劍身。薄紗具有精緻但質感較為厚實的半透明紋理，並帶有細膩的亮粉。她雙手握著一把華麗的中世紀寶劍，劍柄與劍身上部在靠近下巴與嘴唇處被較厚的薄紗輕輕覆蓋，手指上戴著多枚華麗的銀戒指。非常柔和的漫射側光，柔和且去飽和的冷銀灰色調，低飽和度，優雅且低調的色調。超細節的真實皮膚紋理，自然的亮面嘴唇，真實的布料褶皺與厚薄紗上的光影反射。焦點清晰銳利地對準可見的眼睛、雀斑與薄紗紋理，淺景深，柔和夢幻的散景，超寫實，照片級真實感，電影級調色。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068062467100418048/img/XAdGpdy3LIaC58ti.jpg" width="600" alt="電影感雀斑女子與銀色皇冠">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6254)**
-
-**作者:** [Myluna](https://x.com/monicamoonx) | **來源:** [Link](https://x.com/monicamoonx/status/2068062555310891321) | **發布時間:** Jun 19, 2026
-
----
-### 工業園區接待處導覽
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段電影級 POV 視角影片，展示從現代化工業設施外部走入接待大廳的過程，牆面設有客製化文字。
-
-#### 📝 提示詞
-
-```
-請為我製作一段現代化工業園區的影片，從外部開始，並以第一人稱 POV 視角走進前門，進入接待大廳。接待櫃檯上方應顯示「MyCityDC」字樣。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068048509111095296/img/bxzPK1A53AAeWJL7.jpg" width="600" alt="工業園區接待處導覽">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6243)**
-
-**作者:** [Number-One-AI-Fanboy](https://x.com/Number1AIFanboy) | **來源:** [Link](https://x.com/Number1AIFanboy/status/2068048785930924447) | **發布時間:** Jun 19, 2026
-
----
-### 翩翩起舞的佛教雕塑動畫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個充滿創意的影片提示詞，想像印度博物館中歷史悠久的佛教雕塑栩栩如生，展現出神聖而狂喜的舞蹈。
-
-#### 📝 提示詞
-
-```
-在我們的想像中，來自印度博物館的精選佛教文化遺產雕塑，正沉浸在神聖的狂喜中翩翩起舞！
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068005532213080070/img/TdbhoKsf2yQEobxy.jpg" width="600" alt="翩翩起舞的佛教雕塑動畫">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6244)**
-
-**作者:** [Ashok Kumar Panda](https://x.com/ashok_sr_adv) | **來源:** [Link](https://x.com/ashok_sr_adv/status/2068005598046892078) | **發布時間:** Jun 19, 2026
-
----
-### 吉卜力風格海邊小屋
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一幅充滿懷舊與迷人氛圍的場景，呈現了標誌性的吉卜力工作室動畫風格，描繪了黃昏時分的日本海邊小屋。
-
-#### 📝 提示詞
-
-```
-一座迷人的日本海邊小屋，黃昏時分，窗戶透出溫暖的燈光，門廊外可見輕柔的海浪，星空倒映在水面上，營造出寧靜而懷舊的氛圍，吉卜力工作室風格，電影級動畫場景。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067972919108759552/img/aHHwvenDdcGGk6d4.jpg" width="600" alt="吉卜力風格海邊小屋">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6487)**
-
-**作者:** [Mr Das](https://x.com/MrDasOnX) | **來源:** [Link](https://x.com/MrDasOnX/status/2067973035446112683) | **發布時間:** Jun 19, 2026
-
----
-### 兒童被 UFO 綁架的動畫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段影片提示詞，描繪一名兒童彷彿被 UFO 牽引般從地面升起，並搭配跟隨動作的動態鏡頭運鏡。
-
-#### 📝 提示詞
-
-```
-兒童彷彿被 UFO 牽引般從地面升起，鏡頭隨之移動
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2067969949851660288/img/uM6tu315NO6QgE5-.jpg" width="600" alt="兒童被 UFO 綁架的動畫">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6247)**
-
-**作者:** [David Herbert Thomas](https://x.com/Diabach1972) | **來源:** [Link](https://x.com/Diabach1972/status/2067970008748110198) | **發布時間:** Jun 19, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2207,6 +2215,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-06-30T04:26:00.603Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-06-30T11:30:42.047Z</sub>
 
 </div>
