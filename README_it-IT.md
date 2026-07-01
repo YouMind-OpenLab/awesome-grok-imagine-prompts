@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **1998** |
+| 📝 Total Prompts | **2012** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-01** |
 
@@ -189,6 +189,212 @@ Una mistica e nobile Valchiria celestiale, una donna dignitosa e bellissima con 
 
 > 📝 Sorted by publish date (newest first)
 
+### Time-lapse di una casa lunare
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Una ripresa aerea celestiale all'interno di un habitat lunare, con fiori che sbocciano e il sorgere della Terra.
+
+#### 📝 Prompt
+
+```
+Lenta carrellata attraverso una luminosa casa lunare: i fiori sbocciano in time-lapse, la Terra sorge oltre il vetro, caldi granelli di polvere fluttuano a bassa gravità, in un'atmosfera accogliente e celestiale.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072052696539090944/img/WhHmToorzGptVvMe.jpg" width="600" alt="Time-lapse di una casa lunare">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6643)**
+
+**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2072052805112680893) | **Published:** Jun 30, 2026
+
+---
+### Animazione magica di schizzi di razzi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un'inquadratura cinematografica con un lento movimento in avanti su un bambino che disegna razzi che prendono vita sulla pagina.
+
+#### 📝 Prompt
+
+```
+Lento movimento in avanti sul bambino che disegna razzi a lume di candela; le pagine del taccuino sventolano dolcemente; minuscoli razzi disegnati si sollevano dalla pagina sotto forma di scintille dorate per poi svanire nella luce delle stelle. Movimento di camera caldo, magico e pieno di speranza.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072052424286908416/img/lviZw2OFIKF53uaz.jpg" width="600" alt="Animazione magica di schizzi di razzi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6644)**
+
+**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2072052487528300851) | **Published:** Jun 30, 2026
+
+---
+### Animazione di fate serene e loto
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per un'animazione tranquilla e meditativa progettato per Grok-imagine, con due donne dall'aspetto fatato e un loto luminoso pulsante in un ambiente cinematografico soffuso.
+
+#### 📝 Prompt
+
+```
+Anima questa immagine in modo molto lento e delicato. Le due donne dall'aspetto fatato respirano in modo naturale e leggero, con movimenti molto sottili e lenti nei capelli e negli abiti. Il loto luminoso al centro pulsa con una luce calda, ritmica e soffusa, simile a un respiro. Piccole particelle luminose e scintille fluttuano lentamente verso l'alto dal loto. Le libellule si muovono lentamente e con grazia nell'aria. L'acqua del ruscello presenta increspature molto sottili e calme. La cornice dorata e gli elementi dello sfondo rimangono per lo più immobili, con solo un leggero e lento movimento nelle foglie e nei fiori. Mantieni l'atmosfera generale pacifica, sacra, amorevole e meditativa. Animazione lenta, onirica ed emozionante. Alta qualità, illuminazione cinematografica soffusa.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072018753811107840/img/oivrHKil41Nmj4ON.jpg" width="600" alt="Animazione di fate serene e loto">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6649)**
+
+**Author:** [Carina](https://x.com/Freehere8) | **Source:** [Link](https://x.com/Freehere8/status/2072018804293697776) | **Published:** Jun 30, 2026
+
+---
+### Vortice di drago acquatico in evoluzione
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt di animazione per Grok-imagine che raffigura un vortice che si evolve in draghi cromaticamente complessi con scaglie scintillanti.
+
+#### 📝 Prompt
+
+```
+Vortice 
+
+Le eliche si evolvono in tempo reale trasformandosi in draghi cromaticamente complessi, di natura acquatica e dotati di scaglie scintillanti simili a quelle di un pesce tamburo rosso.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071991427295272960/img/3Z0M5DmgoeqZwu8J.jpg" width="600" alt="Vortice di drago acquatico in evoluzione">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6650)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2071991533755072834) | **Published:** Jun 30, 2026
+
+---
+### Visualizzazione del collasso solare cosmico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Una visualizzazione scientifica che mostra il processo dinamico di due soli che collassano in buchi neri.
+
+#### 📝 Prompt
+
+```
+Visualizzazione del collasso ingrandita creata: focalizzata sul processo dinamico di un sole a idrogeno e un sole a elio che si riducono in buchi neri.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071991384110714880/img/d2Mk4fpAfR6rqRNA.jpg" width="600" alt="Visualizzazione del collasso solare cosmico">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6642)**
+
+**Author:** [Timothy Norman](https://x.com/Timothy01775634) | **Source:** [Link](https://x.com/Timothy01775634/status/2071991442323460212) | **Published:** Jun 30, 2026
+
+---
+### Notte stellata e aurora boreale
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video che combina l'aurora boreale con lo stile artistico della Notte stellata di Van Gogh sopra case a telaio in legno.
+
+#### 📝 Prompt
+
+```
+Case a telaio in legno
+
+Un'aurora boreale vortica come nel celebre dipinto Notte stellata 🌌
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071975002459500544/img/zZd1MRU6LULWoueg.jpg" width="600" alt="Notte stellata e aurora boreale">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6646)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2071975095451386157) | **Published:** Jun 30, 2026
+
+---
+### Sogno di un fungo magico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video descrittivo per una scena con funghi iridescenti e luminosi generata da Grok Imagine 1.5.
+
+#### 📝 Prompt
+
+```
+Alla ricerca di un sogno di un fungo magico… Sussurri di meraviglia iridescente e soffusa luce brillante.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071916735448432640/img/8hAGD3gsc5WyyZeS.jpg" width="600" alt="Sogno di un fungo magico">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6652)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2071916798640046195) | **Published:** Jun 30, 2026
+
+---
+### Spot pubblicitario di moda di lusso in un caffè europeo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt commerciale multi-scena completo per un video di moda di lusso con una donna elegante all'ingresso di un caffè europeo.
+
+#### 📝 Prompt
+
+```
+Crea un video di moda di lusso cinematografico ultra-realistico di 15 secondi. Una giovane donna elegante si trova con grazia all'ingresso di un lussuoso caffè europeo, indossando una camicia oversize azzurro cielo con maniche arrotolate, eleganti pantaloni bianchi a gamba larga, scarpe da ginnastica bianche pulite, una borsa a spalla firmata nera, un orologio da polso d'oro e gioielli delicati. Mantieni tratti del viso realistici, proporzioni corporee naturali e uno stile di moda premium.
+
+Scena 1 (0–3s): Ripresa ampia dell'elegante caffè mentre lei cammina lentamente verso l'ingresso con calma sicurezza.
+
+Scena 2 (3–6s): Si scosta delicatamente i capelli mentre una mano rimane in tasca, guardando in basso con un dolce sorriso.
+
+Scena 3 (6–9s): La telecamera gira fluidamente attorno a lei mentre sistema la borsa a spalla e dà un'occhiata verso il caffè.
+
+Scena 4 (9–12s): Primi piani che mettono in risalto la texture realistica della pelle, i tessuti di lusso, i gioielli in oro e la calda luce solare che si riflette attraverso le vetrate del caffè.
+
+Scena 5 (12–15s): Ripresa a figura intera mentre cammina in avanti, si ferma con grazia, si tocca leggermente i capelli e sorride con sicurezza mentre la telecamera si allontana lentamente.
+
+Spot pubblicitario di moda di lusso, narrazione cinematografica, stile editoriale premium, movimento fluido della telecamera, fisica dei tessuti realistica, leggero movimento dei capelli, profondità di campo ridotta, illuminazione calda dell'ora d'oro, fotorealistico, look cinematografico 4K, qualità capolavoro, verticale 9:16.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2071910072574197760/pu/img/MwVbd4P3FYMrIqv-.jpg" width="600" alt="Spot pubblicitario di moda di lusso in un caffè europeo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6647)**
+
+**Author:** [Sadia](https://x.com/SadiaMalik182) | **Source:** [Link](https://x.com/SadiaMalik182/status/2071910182142308737) | **Published:** Jun 30, 2026
+
+---
+### Video di sogni a bordo piscina in estate
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un tranquillo prompt video che ritrae un personaggio che si gode il sole e l'acqua a bordo piscina con vibrazioni estive.
+
+#### 📝 Prompt
+
+```
+Sognando a bordo piscina con le vibrazioni estive della mia A.I., finalmente mi godo l'acqua e il sole caldo
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071889507381637120/img/Kq8elEr4FU0g9dP6.jpg" width="600" alt="Video di sogni a bordo piscina in estate">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6648)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2071889565250416648) | **Published:** Jun 30, 2026
+
+---
+### Dea serena della Luna di Fragola
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video poetico che ritrae una donna adornata di chiaro di luna e diamanti, intenta a riposare sotto una luna di fragola.
+
+#### 📝 Prompt
+
+```
+Riposa sotto la Luna di Fragola, adornata solo di chiaro di luna e diamanti. Fluttuando tra fragole mature e lucciole, diventa parte della notte stessa: serena, radiosa e in completa pace.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071761629625122816/img/N464vyQgtupHuZ7R.jpg" width="600" alt="Dea serena della Luna di Fragola">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6645)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2071761693634425274) | **Published:** Jun 30, 2026
+
+---
 ### Donna bionda sotto la luna di fragola
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +412,25 @@ Sotto il bagliore soffuso di una gigantesca luna di fragola che pende bassa nel 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6635)**
 
 **Author:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **Source:** [Link](https://x.com/AnnetteHollerWe/status/2071733120089653442) | **Published:** Jun 29, 2026
+
+---
+### Ragazza fluttuante con luce stellare
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video cinematografico di una donna che fluttua sopra la terra, tenendo in mano una piccola luce che ritorna alle stelle.
+
+#### 📝 Prompt
+
+```
+Fluttua sopra il mondo, stringendo una piccola luce che è sempre appartenuta alle stelle. Quando finalmente la lascia andare, il cielo stesso sembra accoglierla a casa.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071723164669743104/img/yEApxQoVvWwt2Ngt.jpg" width="600" alt="Ragazza fluttuante con luce stellare">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6651)**
+
+**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2071723446401146975) | **Published:** Jun 29, 2026
 
 ---
 ### Leggende sul ghiaccio: Pattinaggio artistico
@@ -265,6 +490,25 @@ Fluttuando in un sogno psichedelico di funghi color pastello… Sussurri di dolc
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6637)**
 
 **Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2071542525698122170) | **Published:** Jun 29, 2026
+
+---
+### Preparativi per i robot su Marte
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinematografico per Grok Imagine che ritrae robot che vivono come esseri umani su Marte per preparare l'arrivo dell'uomo.
+
+#### 📝 Prompt
+
+```
+I robot vengono inviati su Marte per primi; alcuni hanno il compito di vivere come esseri umani per preparare al meglio il loro futuro arrivo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071520954379882496/img/ZLCsk8a3ogtQhLvn.jpg" width="600" alt="Preparativi per i robot su Marte">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6653)**
+
+**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2071521072533373212) | **Published:** Jun 29, 2026
 
 ---
 ### Prompt per Grok Imagine: Creature Meccaniche ed Eteree
@@ -865,6 +1109,25 @@ Creature celesti che lavorano lentamente a maglia le costellazioni con fili di l
 **Author:** [Maer](https://x.com/Maer4real) | **Source:** [Link](https://x.com/Maer4real/status/2070204948281737574) | **Published:** Jun 25, 2026
 
 ---
+### Orsetto carino che nuota e si tuffa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un incantevole video prompt che mostra un cucciolo di orso che nuota in acque colorate e si tuffa come un professionista.
+
+#### 📝 Prompt
+
+```
+Un tenero orsetto che si gode una nuotata colorata! Dagli schizzi in superficie ai tuffi sott'acqua come un vero professionista
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070170351917797376/img/ErO4qUhEGSf6fJ5M.jpg" width="600" alt="Orsetto carino che nuota e si tuffa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6655)**
+
+**Author:** [Liam](https://x.com/LiamEvergreen) | **Source:** [Link](https://x.com/LiamEvergreen/status/2070170659813237231) | **Published:** Jun 25, 2026
+
+---
 ### Angelo e gatto curioso
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -882,6 +1145,25 @@ La tentazione più dolce. Nemmeno un angelo può fermare un gatto curioso… Una
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6488)**
 
 **Author:** [猫神MT](https://x.com/nekogami_MT) | **Source:** [Link](https://x.com/nekogami_MT/status/2070145869404614826) | **Published:** Jun 25, 2026
+
+---
+### Panorama serale di Dubai
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per una sovrimpressione testuale 'Buonasera' in evidenza su un suggestivo panorama urbano di Dubai.
+
+#### 📝 Prompt
+
+```
+Buonasera Dubai con il testo 'Buonasera' visualizzato in primo piano nella parte superiore
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070134828750798848/img/FKT1EMEuTN10elrV.jpg" width="600" alt="Panorama serale di Dubai">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6654)**
+
+**Author:** [Ijaz Malik](https://x.com/Ijazmalik101) | **Source:** [Link](https://x.com/Ijazmalik101/status/2070134888523763993) | **Published:** Jun 25, 2026
 
 ---
 ### Dea del fuoco che emerge dalla lava
@@ -1885,276 +2167,6 @@ Capolavoro, qualità eccellente, concept art fantasy ultra-dettagliata di un gue
 **Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2068400992690061567) | **Published:** Jun 20, 2026
 
 ---
-### Antica città in rovina all'interno di una grotta
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video cinematografico ed epico di una massiccia civiltà antica nascosta all'interno di una grotta con un fiume turchese.
-
-#### 📝 Prompt
-
-```
-Capolavoro, qualità eccellente, illustrazione fantasy cinematografica ultra-dettagliata di una massiccia città antica in rovina costruita all'interno di una grotta gigante. Un ampio fiume turchese scorre nel mezzo con diverse barche di legno che trasportano persone. Alti pilastri di pietra spezzati e templi costeggiano le rive del fiume, con la luce del sole che filtra da un'apertura nel soffitto della grotta. Illuminazione drammatica, rampicanti sospesi e particelle luminose creano un'atmosfera mistica. Architettura, acqua e illuminazione altamente dettagliate. Composizione epica e suggestiva, qualità eccellente, risoluzione 8K.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068334444898062336/img/ZgqOfxAjNrJqqSiC.jpg" width="600" alt="Antica città in rovina all'interno di una grotta">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6288)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2068355695481962728) | **Published:** Jun 20, 2026
-
----
-### Video cameo di Buzz Lightyear
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt di generazione video che modifica una frase e aggiunge un cameo di Buzz Lightyear con la sua celebre battuta.
-
-#### 📝 Prompt
-
-```
-Cambia "mo money, solve mo problems" in "mo money, solve mo problems in the world and beyond" e aggiungi un cameo di Buzz Lightyear di Toy Story che dice "verso l'infinito e oltre"
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068352992869568512/img/5dbRUcQDbNlW8gfl.jpg" width="600" alt="Video cameo di Buzz Lightyear">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6282)**
-
-**Author:** [sho](https://x.com/sho00092729) | **Source:** [Link](https://x.com/sho00092729/status/2068353042345508903) | **Published:** Jun 20, 2026
-
----
-### Video con rotazione dell'immagine e bagliori colorati
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt di movimento per ruotare un'immagine aggiungendo bagliori di colore dinamici dai lati.
-
-#### 📝 Prompt
-
-```
-Ruota l'immagine e aggiungi del colore giallo-arancio proveniente dal lato sinistro e verde-blu da quello destro; quando si incontrano, l'immagine deve tornare in bianco e nero come l'originale
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068352652073689089/img/2jGKVRm1FTc02fO_.jpg" width="600" alt="Video con rotazione dell'immagine e bagliori colorati">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6283)**
-
-**Author:** [@wellness and art](https://x.com/ELENALAZA3) | **Source:** [Link](https://x.com/ELENALAZA3/status/2068352708742967297) | **Published:** Jun 20, 2026
-
----
-### Il granello di senape che sposta la montagna
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video metaforico che mostra un minuscolo granello di senape che germoglia e sposta una montagna imponente.
-
-#### 📝 Prompt
-
-```
-Crea un'immagine di un minuscolo granello di senape che viene piantato e germoglia mentre sposta una montagna!
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068306162315927552/img/zm-ccPnP8dkH-hba.jpg" width="600" alt="Il granello di senape che sposta la montagna">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6286)**
-
-**Author:** [Mark Tatum](https://x.com/Mark561256) | **Source:** [Link](https://x.com/Mark561256/status/2068306227856126341) | **Published:** Jun 20, 2026
-
----
-### Ripristina la Sebring e mandala nello spazio
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt creativo per la trasformazione video che ripristina un'auto Sebring e la invia in orbita.
-
-#### 📝 Prompt
-
-```
-Ripristina la Sebring, rimuovi le viti e mandala nello spazio per raggiungere la Tesla di Elon
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068296453382950912/img/2Fuk12L9K6hQdVma.jpg" width="600" alt="Ripristina la Sebring e mandala nello spazio">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6290)**
-
-**Author:** [Mark Tatum](https://x.com/Mark561256) | **Source:** [Link](https://x.com/Mark561256/status/2068296531405324765) | **Published:** Jun 20, 2026
-
----
-### Edifici a disco futuristici e passerelle
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt che descrive un paesaggio urbano verticale con edifici a forma di disco collegati da passerelle e treni che passano al di sotto.
-
-#### 📝 Prompt
-
-```
-Questi dischi sono edifici alti, non possiamo ignorare la gravità, sono collegati da passerelle luminose e rialzate, con treni che passano sotto le passerelle; rendi il tutto migliore.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068295575343165440/img/B6FrCqdMl7ax3RNy.jpg" width="600" alt="Edifici a disco futuristici e passerelle">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6278)**
-
-**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2068295627499274408) | **Published:** Jun 20, 2026
-
----
-### Trailer di un film d'azione sci-fi
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt completo per generare un trailer di un film di fantascienza dall'aspetto professionale, con istruzioni specifiche per dialoghi, sottotitoli e composizione delle scene utilizzando la modalità Grok Imagine Agent.
-
-#### 📝 Prompt
-
-```
-Crea un trailer di un film di fantascienza live-action di circa 40 secondi. I dialoghi possono essere in inglese. Includi un titolo e aggiungi sottotitoli in giapponese per ogni battuta. Il contenuto specifico è a tua discrezione, ma assicurati di includere un nemico potente, un raduno di alleati, battaglie intense e una scena di inseguimento ad alta velocità.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068286308477534208/img/gTwYzjzZdgmycZGV.jpg" width="600" alt="Trailer di un film d'azione sci-fi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6295)**
-
-**Author:** [ふくぶん](https://x.com/FFBuncho) | **Source:** [Link](https://x.com/FFBuncho/status/2068287189235142860) | **Published:** Jun 20, 2026
-
----
-### Video del messaggio futuro di Alana
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video cinematografico di un personaggio di nome Alana che consegna un messaggio positivo dal futuro direttamente alla telecamera.
-
-#### 📝 Prompt
-
-```
-parla direttamente alla telecamera con un messaggio dal futuro. il suo nome è Alana e il suo messaggio è positivo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068285330029981696/img/iOSfc2kYYTfdNQ4s.jpg" width="600" alt="Video del messaggio futuro di Alana">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6279)**
-
-**Author:** [Make Britain Great Again](https://x.com/DragonFlam7530) | **Source:** [Link](https://x.com/DragonFlam7530/status/2068285534082859378) | **Published:** Jun 20, 2026
-
----
-### Ragazza che gira la testa e muove le mani
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt specifico per il movimento che indica al personaggio di girare la testa verso sinistra tenendo entrambe le mani dietro la schiena.
-
-#### 📝 Prompt
-
-```
-Aggiungi la ragazza voltata all'indietro che gira la testa verso sinistra con entrambe le mani rivolte verso la schiena.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068264366193963008/img/fl88RZFHxAXhpQjd.jpg" width="600" alt="Ragazza che gira la testa e muove le mani">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6294)**
-
-**Author:** [KAYODE EMMANUEL](https://x.com/KAYODEEMMAqbze) | **Source:** [Link](https://x.com/KAYODEEMMAqbze/status/2068264432052969771) | **Published:** Jun 20, 2026
-
----
-### Uomo che suda nel deserto mentre saluta
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video per Grok Imagine che mostra un uomo che cammina in un deserto torrido con una sovrapposizione di testo che augura buon pomeriggio.
-
-#### 📝 Prompt
-
-```
-Immagine di buon pomeriggio con un uomo che suda mentre cammina nel deserto, includendo anche la scritta 'buon pomeriggio' nella parte superiore.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068248012653289472/img/ob_SbC5c_T2jRlpc.jpg" width="600" alt="Uomo che suda nel deserto mentre saluta">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6405)**
-
-**Author:** [Ijaz Malik](https://x.com/Ijazmalik101) | **Source:** [Link](https://x.com/Ijazmalik101/status/2068248035004739741) | **Published:** Jun 20, 2026
-
----
-### Video di un robot gigante sul campo di battaglia
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video d'azione dinamico che mostra un robot gigante che avanza attraverso un caotico campo di battaglia mentre spara con l'artiglieria.
-
-#### 📝 Prompt
-
-```
-Un robot gigante cammina attraverso un caotico campo di battaglia, sparando proiettili d'artiglieria ovunque mentre avanza.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068244815922540544/img/DU7QNv7aTh7sxmty.jpg" width="600" alt="Video di un robot gigante sul campo di battaglia">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6280)**
-
-**Author:** [Curious 1](https://x.com/CuriousOne_01) | **Source:** [Link](https://x.com/CuriousOne_01/status/2068246873157284117) | **Published:** Jun 20, 2026
-
----
-### Animazione di reincarnazione a colori
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt di animazione che dà vita a un soggetto con una transizione verso una sequenza di reincarnazione a colori.
-
-#### 📝 Prompt
-
-```
-Falla animare come se stesse tornando in vita, aggiungi una sequenza in cui si reincarna a colori
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068239414271111168/img/2lEkFozGR5Fd_i7D.jpg" width="600" alt="Animazione di reincarnazione a colori">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6293)**
-
-**Author:** [bDom](https://x.com/bdom87bdom) | **Source:** [Link](https://x.com/bdom87bdom/status/2068239524291809309) | **Published:** Jun 20, 2026
-
----
-### Transizione video horror di Daffy Duck
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video cinematografico in più parti per Grok Imagine che passa da uno scenario horror ricco di suspense a un finale in stile Looney Tunes con protagonista Daffy Duck.
-
-#### 📝 Prompt
-
-```
-1) (La damigella legge ad alta voce dal suo telefono: Non può essere vero, dice che chi chiama è in casa.) (Movimenti nervosi della damigella.) Per tutto il tempo, una piccola ombra umanoide si muove sullo sfondo.
-
-2) (Lo stalker della damigella è Daffy Duck, il celebre personaggio dei Looney Tunes. Daffy si confonde con lo sfondo, a parte un leggero contorno d'ombra e il suo brillante becco arancione. Resta costantemente dietro la damigella mentre ridacchia dolcemente alla maniera di Daffy Duck: hoo-hoo hoo hoo.) La damigella diventa sempre più spaventata mentre si muove per il suo appartamento cercando di accendere le luci, ma la corrente è saltata. Battute nervose della damigella.
-
-3) (Lo stalker della damigella è Daffy Duck, il celebre personaggio dei Looney Tunes. Daffy grida: Te l'avevo detto che ti avrei trovata, tesoro!) (Le luci si accendono mentre Daffy inizia a rimbalzare comicamente per il soggiorno in stile Looney Tunes, rompendo oggetti come mobili e televisione mentre ride fragorosamente con il suo tipico hoo hoo.) La damigella reagisce in modo comicamente esagerato e urla a Daffy di andarsene!
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068220643607265280/img/xipCJDRYgsmqujEW.jpg" width="600" alt="Transizione video horror di Daffy Duck">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6285)**
-
-**Author:** [1974titsucker](https://x.com/1974titsucker) | **Source:** [Link](https://x.com/1974titsucker/status/2068222678490554472) | **Published:** Jun 20, 2026
-
----
-### POV Attacco di squalo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video in POV ricco di suspense in cui uno squalo nuota verso la telecamera e la 'divora'.
-
-#### 📝 Prompt
-
-```
-Fai in modo che lo squalo nuoti più vicino alla telecamera e apra la bocca per divorarla, quindi sfuma a nero come se la telecamera fosse finita all'interno della sua bocca
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068185896592019457/img/j_7FeU7CPFJIbGrY.jpg" width="600" alt="POV Attacco di squalo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6289)**
-
-**Author:** [WiseArtist Studios](https://x.com/Wise375) | **Source:** [Link](https://x.com/Wise375/status/2068185956176261631) | **Published:** Jun 20, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2216,6 +2228,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-01T04:40:26.038Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-01T12:12:12.669Z</sub>
 
 </div>
