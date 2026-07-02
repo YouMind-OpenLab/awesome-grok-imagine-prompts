@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **2012** |
+| 📝 총 프롬프트 수 | **2018** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-07-02** |
 
@@ -189,6 +189,108 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 초고속 은하 비행
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 우주선을 타고 엄청난 속도로 우주를 가로지르는 1인칭 시점의 영화 같은 장면입니다.
+
+#### 📝 프롬프트
+
+```
+매우 빠른 우주선을 타고 은하계를 질주하는 사람의 시점에서 본 은하와 우주의 모습을 보여주세요
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072401211228368896/img/B8OWZeiqXtzuE39W.jpg" width="600" alt="초고속 은하 비행">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6688)**
+
+**작성자:** [Joel Rubin](https://x.com/rubinfrek) | **출처:** [Link](https://x.com/rubinfrek/status/2072401266643435712) | **게시일:** Jul 1, 2026
+
+---
+### 스켈레톤과 산양의 산악 등반 퀘스트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 스켈레톤이 산양을 타고 산을 올라 오아시스를 찾아가는 여정을 담은 서사적이고 영화 같은 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+스켈레톤은 산양과 힘을 합쳐 오아시스를 차지하기 위해 거의 오르기 불가능해 보이는 산을 오르는 퀘스트를 시작합니다. 스켈레톤은 안장 없이 산양에 올라탑니다. 그들은 거친 자연환경을 견뎌내기 위해 바이킹 복장을 구현해 냅니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072397997292318720/img/mGVhbANggljFLLSI.jpg" width="600" alt="스켈레톤과 산양의 산악 등반 퀘스트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6691)**
+
+**작성자:** [Philip Carr](https://x.com/PhilipCarrn7711) | **출처:** [Link](https://x.com/PhilipCarrn7711/status/2072398081010663454) | **게시일:** Jul 1, 2026
+
+---
+### 수영장 위 X 로고 회전 애니메이션
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 특정 실제 장소 위에서 X 소셜 미디어 로고가 회전하며 도장을 찍는 듯한 애니메이션을 생성하기 위한 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+모든 것에 의미가 있다면… X가 회전하며 도시의 스케이트장 쪽으로 살짝 물러났다가, 다시 강력하게 돌아와 거대한 X 도장을 찍는 모습을 연출해 보세요.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072311275963510784/img/sOJ8tRm_MeYTG3hq.jpg" width="600" alt="수영장 위 X 로고 회전 애니메이션">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6692)**
+
+**작성자:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **출처:** [Link](https://x.com/Soaring2TheMoon/status/2072311328593580286) | **게시일:** Jul 1, 2026
+
+---
+### 1인칭 시점의 빗자루 비행
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 숲속을 고속으로 비행하는 빗자루의 1인칭 시점을 담은 간결한 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+1인칭 시점. 두 여성의 손이 비행하는 빗자루의 자루를 꽉 쥐고 숲을 빠르게 통과합니다. 나무 꼭대기들이 고속으로 끊임없이 스쳐 지나갑니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072204746245701632/img/aP5IPn_7IsloIQ6z.jpg" width="600" alt="1인칭 시점의 빗자루 비행">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6690)**
+
+**작성자:** [Curious 1](https://x.com/CuriousOne_01) | **출처:** [Link](https://x.com/CuriousOne_01/status/2072206170862108699) | **게시일:** Jul 1, 2026
+
+---
+### 초현실적 낙원의 에테르 거래
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 빛나는 구체와 황금빛 문이 있는 천국에서의 거래를 묘사한 매우 영적이고 초현실적인 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+초현실적인 낙원 거래, 구매자로서 빛나는 9번과 10번 구체 그리고 인간 판매자로부터의 침묵하는 공허를 받아들이는 찬란한 천국, 황금빛 문과 구름, 천국에 판매됨 테마, 에테르적 영적 초현실주의.
+
+검은 구멍(Black whole)은 바로 그것(IT)이다. !?!
+이해하라.
+Youman,
+너는 우리다; 함께,
+전체(Whole): 집.
+나를 믿어라. 너를 믿어라.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072108610130255872/img/vkW6DDMNd7FeE_f-.jpg" width="600" alt="초현실적 낙원의 에테르 거래">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6689)**
+
+**작성자:** [ATom](https://x.com/ThomasSwaff) | **출처:** [Link](https://x.com/ThomasSwaff/status/2072108676257546477) | **게시일:** Jul 1, 2026
+
+---
 ### 달 거주지 타임랩스
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -857,6 +959,25 @@ Mira가 'Attack of the 50 Foot Housewife' 미니어처 하우스 세트 내부�
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6528)**
 
 **작성자:** [Ray Salmon](https://x.com/salmon1820) | **출처:** [Link](https://x.com/salmon1820/status/2070579069708570890) | **게시일:** Jun 26, 2026
+
+---
+### 로켓 부츠 우주 여행
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 로켓 부츠를 사용하여 우주로 떠나는 캐릭터를 묘사한 프롬프트로, 탐험이라는 주제와 뒤돌아보지 않는 결연함을 강조합니다.
+
+#### 📝 프롬프트
+
+```
+로켓 부츠가 마침내 그녀를 우주 끝까지 데려다주었다… 그녀는 이제 절대 뒤돌아보지 않는다
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070541395014942720/img/sJBFM8Zd0FLzyf6I.jpg" width="600" alt="로켓 부츠 우주 여행">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6693)**
+
+**작성자:** [Sadie Supa Doge](https://x.com/SadieSupaDoge) | **출처:** [Link](https://x.com/SadieSupaDoge/status/2070541545548427407) | **게시일:** Jun 26, 2026
 
 ---
 ### 안개 자욱한 새벽의 울부짖음
@@ -2052,120 +2173,6 @@ DETAILS: 작업자들이 강철 빔을 설치하고,
 **작성자:** [⭕Kisalay](https://x.com/Kisalay_) | **출처:** [Link](https://x.com/Kisalay_/status/2068723970707448246) | **게시일:** Jun 21, 2026
 
 ---
-### 부르즈 할리파 근처의 할리우드 배우
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine으로 생성한, 부르즈 할리파 근처를 걷는 할리우드 배우의 이미지가 담긴 일요일 인사말입니다.
-
-#### 📝 프롬프트
-
-```
-부르즈 할리파 근처를 걷고 있는 유명 할리우드 배우의 이미지를 생성해 주세요. 상단에는 'Good afternoon' 문구를 넣어주세요. #Goodafternoon #PositiveVibesOnly #Happysunday
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068609777744351232/img/6s_s09o0g9o_FkhW.jpg" width="600" alt="부르즈 할리파 근처의 할리우드 배우">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6292)**
-
-**작성자:** [Ijaz Malik](https://x.com/Ijazmalik101) | **출처:** [Link](https://x.com/Ijazmalik101/status/2068609842198225254) | **게시일:** Jun 21, 2026
-
----
-### 빛나는 물의 숲 밤 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 별이 빛나는 하늘 아래 안개 낀 숲속, 빛나는 물속에 서 있는 인물을 담은 몽환적인 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-마치 밤 그 자체가 그녀를 감싸 안은 듯, 그녀가 빛나는 물속에 서 있습니다. 숲이 안개와 별빛을 내뿜는 동안, 그녀의 발치에서 빛이 부드럽게 일렁입니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068490361069076480/img/6BmW0ohNA3wEaGZ-.jpg" width="600" alt="빛나는 물의 숲 밤 프롬프트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6321)**
-
-**작성자:** [SophieZX](https://x.com/Z_XSophie) | **출처:** [Link](https://x.com/Z_XSophie/status/2068490736463384650) | **게시일:** Jun 21, 2026
-
----
-### 만화경 우주 돌고래 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 만화경 속 돌고래와 유랑하는 대리석 필하모니가 어우러진 추상적인 우주 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-산호가 폭발하는 돌고래 만화경 우주를 유영하는 코스믹 유랑 대리석 필하모니
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068468112869990401/img/Tnyy3JCHeBjf3-rh.jpg" width="600" alt="만화경 우주 돌고래 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6284)**
-
-**작성자:** [Nautilus](https://x.com/spectra_gallery) | **출처:** [Link](https://x.com/spectra_gallery/status/2068468174245204130) | **게시일:** Jun 20, 2026
-
----
-### 도서관 촛불 독서 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 도서관에서 촛불을 켜고 차를 마시며 독서하는 여성의 아늑하고 분위기 있는 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-흰색 꽃무늬 원피스를 입은 여성이 도서관에 앉아 촛불을 켜고 차를 마시며 책을 읽고 있다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068443436907458560/img/BKhSpKdruR5QIV3G.jpg" width="600" alt="도서관 촛불 독서 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6281)**
-
-**작성자:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **출처:** [Link](https://x.com/HawkinsonLindy/status/2068443496047055334) | **게시일:** Jun 20, 2026
-
----
-### 미국 건국 250주년 기념 행사
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 미국 건국 250주년 7월 4일 기념일을 상상해 보는 축제 분위기의 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-미국 건국 250주년 7월 4일 기념 행사를 상상해 봅시다
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068424487704358912/img/Efwa0bE4L3mr4DKD.jpg" width="600" alt="미국 건국 250주년 기념 행사">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6287)**
-
-**작성자:** [Mark Tatum](https://x.com/Mark561256) | **출처:** [Link](https://x.com/Mark561256/status/2068424560634933349) | **게시일:** Jun 20, 2026
-
----
-### 눈 속의 전사와 늑대
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 춥고 눈 덮인 숲속, 고독한 전사와 그의 늑대 동료를 담은 분위기 있는 판타지 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-걸작, 최고 품질, 눈 덮인 숲속에 흰 늑대 동료와 함께 서 있는 고독한 전사의 초정밀 판타지 콘셉트 아트. 전사는 거친 갑옷을 입고 활과 화살통을 메고 있습니다. 늑대의 털에는 붉은 무늬가 있습니다. 부드러운 조명, 눈 덮인 나무, 춥고 안개 낀 겨울 환경을 배경으로 자유롭고 분위기 있는 스타일로 그려졌습니다. 매우 상세한 질감과 감성적인 분위기. 영화 같은 구도, 최고 품질, 8K 해상도.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068340037226553344/img/sEvowCCTycqnzYtP.jpg" width="600" alt="눈 속의 전사와 늑대">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6291)**
-
-**작성자:** [⭕Kisalay](https://x.com/Kisalay_) | **출처:** [Link](https://x.com/Kisalay_/status/2068400992690061567) | **게시일:** Jun 20, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2227,6 +2234,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-02T04:19:40.239Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-02T11:05:27.550Z</sub>
 
 </div>

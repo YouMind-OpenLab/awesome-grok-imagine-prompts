@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2012** |
+| 📝 プロンプト総数 | **2018** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-07-02** |
 
@@ -189,6 +189,108 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### 超高速銀河飛行
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 宇宙船に乗り込み、信じられないほどの速度で宇宙を駆け抜ける、映画のような一人称視点の映像。
+
+#### 📝 プロンプト
+
+```
+超高速で銀河を突き進む宇宙船の操縦席から見た、銀河や宇宙の光景を表現してください
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072401211228368896/img/B8OWZeiqXtzuE39W.jpg" width="600" alt="超高速銀河飛行">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6688)**
+
+**作者:** [Joel Rubin](https://x.com/rubinfrek) | **ソース:** [Link](https://x.com/rubinfrek/status/2072401266643435712) | **公開日:** Jul 1, 2026
+
+---
+### スケルトンと羊の山岳クエスト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> スケルトンが羊に乗って山を登り、オアシスを探し求める様子を描いた壮大なシネマティック・プロンプト。
+
+#### 📝 プロンプト
+
+```
+スケルトンは羊と力を合わせ、登頂不可能に近い険しい山肌を登り、オアシスを手に入れるための冒険に出ます。スケルトンは鞍をつけずに羊に乗り、厳しい自然環境に耐えるためにバイキングの衣装を具現化させます。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072397997292318720/img/mGVhbANggljFLLSI.jpg" width="600" alt="スケルトンと羊の山岳クエスト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6691)**
+
+**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **ソース:** [Link](https://x.com/PhilipCarrn7711/status/2072398081010663454) | **公開日:** Jul 1, 2026
+
+---
+### プールの上で回転する X ロゴのアニメーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> X のソーシャルメディアロゴが回転し、特定の現実世界の場所にスタンプされる様子をアニメーション化するためのプロンプトです。
+
+#### 📝 プロンプト
+
+```
+すべてに意味があるのなら…… X を回転させながら少し引き気味に街のスケート場へ現れ、巨大な X のスタンプを力強く押すような演出にしてください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072311275963510784/img/sOJ8tRm_MeYTG3hq.jpg" width="600" alt="プールの上で回転する X ロゴのアニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6692)**
+
+**作者:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **ソース:** [Link](https://x.com/Soaring2TheMoon/status/2072311328593580286) | **公開日:** Jul 1, 2026
+
+---
+### 一人称視点の空飛ぶほうき
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 森の中を高速で駆け抜ける、空飛ぶほうきの一人称視点を生成するための簡潔な動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+一人称視点。空飛ぶほうきの柄をしっかりと握る 2 本の女性の手。ほうきは森の中を猛スピードで駆け抜けていく。木々の梢が次々と高速で通り過ぎていく様子。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072204746245701632/img/aP5IPn_7IsloIQ6z.jpg" width="600" alt="一人称視点の空飛ぶほうき">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6690)**
+
+**作者:** [Curious 1](https://x.com/CuriousOne_01) | **ソース:** [Link](https://x.com/CuriousOne_01/status/2072206170862108699) | **公開日:** Jul 1, 2026
+
+---
+### シュールな楽園における超越的な取引
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 天国での取引を描いた、非常にスピリチュアルでシュールな動画プロンプト。輝く球体と黄金の門が登場します。
+
+#### 📝 プロンプト
+
+```
+シュールな楽園での取引。輝く天国が買い手となり、9 番と 10 番の光り輝く球体と、人間の売り手からの静寂な虚無を受け取る。黄金の門と雲、天国への売却というテーマ、超越的なスピリチュアル・シュールレアリスム。
+
+ブラックホールこそが IT である。 !?!
+理解せよ。
+YouMind、
+あなたは私たちであり、共に、
+全体：故郷。
+私を信じよ。あなた自身を信じよ。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072108610130255872/img/vkW6DDMNd7FeE_f-.jpg" width="600" alt="シュールな楽園における超越的な取引">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6689)**
+
+**作者:** [ATom](https://x.com/ThomasSwaff) | **ソース:** [Link](https://x.com/ThomasSwaff/status/2072108676257546477) | **公開日:** Jul 1, 2026
+
+---
 ### 月面住宅のタイムラプス
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -857,6 +959,25 @@ Mira がカメラを案内し、『Attack of the 50 Foot Housewife』のミニ�
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6528)**
 
 **作者:** [Ray Salmon](https://x.com/salmon1820) | **ソース:** [Link](https://x.com/salmon1820/status/2070579069708570890) | **公開日:** Jun 26, 2026
+
+---
+### ロケットブーツで宇宙の旅へ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ロケットブーツを使って宇宙へ旅立つキャラクターを描写したプロンプト。探求心と、二度と振り返らないという決意をテーマにしています。
+
+#### 📝 プロンプト
+
+```
+ロケットブーツがついに彼女を宇宙の彼方へと連れ出した……もう、二度と振り返ることはない
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070541395014942720/img/sJBFM8Zd0FLzyf6I.jpg" width="600" alt="ロケットブーツで宇宙の旅へ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6693)**
+
+**作者:** [Sadie Supa Doge](https://x.com/SadieSupaDoge) | **ソース:** [Link](https://x.com/SadieSupaDoge/status/2070541545548427407) | **公開日:** Jun 26, 2026
 
 ---
 ### 霧に包まれた夜明けの遠吠え
@@ -2052,120 +2173,6 @@ Elena が輝くポータルを通り抜け、広大な Playroom へと足を踏�
 **作者:** [⭕Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2068723970707448246) | **公開日:** Jun 21, 2026
 
 ---
-### ブルジュ・ハリファ付近を歩くハリウッド俳優
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine で生成された、ブルジュ・ハリファ付近を歩くハリウッド俳優の画像を使用した日曜日の挨拶です。
-
-#### 📝 プロンプト
-
-```
-ブルジュ・ハリファ付近を歩く人気ハリウッド俳優の画像を生成してください。上部に「Good afternoon」という文字を入れてください。 #Goodafternoon #PositiveVibesOnly #Happysunday
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068609777744351232/img/6s_s09o0g9o_FkhW.jpg" width="600" alt="ブルジュ・ハリファ付近を歩くハリウッド俳優">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6292)**
-
-**作者:** [Ijaz Malik](https://x.com/Ijazmalik101) | **ソース:** [Link](https://x.com/Ijazmalik101/status/2068609842198225254) | **公開日:** Jun 21, 2026
-
----
-### 光り輝く水辺の森の夜のプロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 星空の下、霧に包まれた森の中で、光る水辺に佇む人物を描いた幻想的な動画用プロンプトです。
-
-#### 📝 プロンプト
-
-```
-彼女はまるで夜そのものに抱かれているかのように、光り輝く水の中に立っている。足元では光が穏やかに揺らめき、森は霧と星々を纏って静かに呼吸している。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068490361069076480/img/6BmW0ohNA3wEaGZ-.jpg" width="600" alt="光り輝く水辺の森の夜のプロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6321)**
-
-**作者:** [SophieZX](https://x.com/Z_XSophie) | **ソース:** [Link](https://x.com/Z_XSophie/status/2068490736463384650) | **公開日:** Jun 21, 2026
-
----
-### 万華鏡のような宇宙イルカの動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 万華鏡の中を泳ぐイルカと、彷徨うマーブル模様のハーモニーをテーマにした抽象的な宇宙動画のプロンプトです。
-
-#### 📝 プロンプト
-
-```
-サンゴが爆発するようなイルカ、万華鏡、宇宙を旅する、コスミック、彷徨うマーブル模様のハーモニー
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068468112869990401/img/Tnyy3JCHeBjf3-rh.jpg" width="600" alt="万華鏡のような宇宙イルカの動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6284)**
-
-**作者:** [Nautilus](https://x.com/spectra_gallery) | **ソース:** [Link](https://x.com/spectra_gallery/status/2068468174245204130) | **公開日:** Jun 20, 2026
-
----
-### 図書館でのキャンドルライト読書動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 図書館でキャンドルの明かりの中、紅茶を飲みながら読書をする女性の、居心地の良い雰囲気の動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-白地に花柄のサマードレスを着た女性が、図書館でキャンドルの明かりの中、紅茶を飲みながら読書をしている。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068443436907458560/img/BKhSpKdruR5QIV3G.jpg" width="600" alt="図書館でのキャンドルライト読書動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6281)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2068443496047055334) | **公開日:** Jun 20, 2026
-
----
-### アメリカ建国 250 周年記念祝賀
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> アメリカ合衆国の独立記念日 250 周年を祝う様子を想像した、華やかな動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-アメリカ合衆国の独立記念日 250 周年祝賀イベントを想像してみましょう
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068424487704358912/img/Efwa0bE4L3mr4DKD.jpg" width="600" alt="アメリカ建国 250 周年記念祝賀">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6287)**
-
-**作者:** [Mark Tatum](https://x.com/Mark561256) | **ソース:** [Link](https://x.com/Mark561256/status/2068424560634933349) | **公開日:** Jun 20, 2026
-
----
-### 雪の中の戦士と狼
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 冷たい雪の森に佇む孤独な戦士と、その相棒である狼を描いた、雰囲気のあるファンタジー動画用プロンプト。
-
-#### 📝 プロンプト
-
-```
-傑作、最高品質、雪の森に佇む孤独な戦士と白い狼の相棒を描いた超詳細なファンタジーコンセプトアート。戦士は頑丈な鎧を身にまとい、弓と矢筒を背負っている。狼の毛皮には赤い模様がある。柔らかな光、雪に覆われた木々、冷たく霧深い冬の環境など、ルーズで雰囲気のあるスタイルで描かれている。細部まで描き込まれた質感と情緒的な雰囲気。映画のような構図、最高品質、8K 解像度。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068340037226553344/img/sEvowCCTycqnzYtP.jpg" width="600" alt="雪の中の戦士と狼">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6291)**
-
-**作者:** [⭕Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2068400992690061567) | **公開日:** Jun 20, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2227,6 +2234,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-02T04:19:38.803Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-02T11:05:26.419Z</sub>
 
 </div>

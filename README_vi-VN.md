@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2012** |
+| 📝 Total Prompts | **2018** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-02** |
 
@@ -189,6 +189,108 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Chuyến bay thiên hà tốc độ siêu thanh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Góc nhìn thứ nhất đầy điện ảnh về hành trình bay xuyên vũ trụ với tốc độ kinh ngạc trên một con tàu vũ trụ.
+
+#### 📝 Prompt
+
+```
+Mô tả khung cảnh các thiên hà và vũ trụ dưới góc nhìn của một người đang điều khiển con tàu vũ trụ bay với tốc độ cực nhanh xuyên qua thiên hà
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072401211228368896/img/B8OWZeiqXtzuE39W.jpg" width="600" alt="Chuyến bay thiên hà tốc độ siêu thanh">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6688)**
+
+**Author:** [Joel Rubin](https://x.com/rubinfrek) | **Source:** [Link](https://x.com/rubinfrek/status/2072401266643435712) | **Published:** Jul 1, 2026
+
+---
+### Hành trình chinh phục đỉnh núi của bộ xương cưỡi cừu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh điện ảnh đầy sử thi mô tả cảnh một bộ xương cưỡi cừu leo lên núi để tìm kiếm ốc đảo.
+
+#### 📝 Prompt
+
+```
+Bộ xương hợp sức cùng chú cừu trong hành trình chinh phục vách núi gần như không thể vượt qua để chiếm lấy ốc đảo làm của riêng. Bộ xương cưỡi trên lưng cừu mà không cần yên cương. Họ hiện ra trong trang phục Viking để chống chọi với thời tiết khắc nghiệt.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072397997292318720/img/mGVhbANggljFLLSI.jpg" width="600" alt="Hành trình chinh phục đỉnh núi của bộ xương cưỡi cừu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6691)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2072398081010663454) | **Published:** Jul 1, 2026
+
+---
+### Hoạt ảnh xoay logo X trên hồ bơi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh để tạo hoạt ảnh logo mạng xã hội X xoay và đóng dấu lên một địa điểm thực tế cụ thể.
+
+#### 📝 Prompt
+
+```
+Nếu mọi thứ đều có ý nghĩa… Hãy để logo X xoay tròn, xuất hiện như thể lùi lại một chút về phía khu trượt ván trong thành phố, rồi quay trở lại đầy mạnh mẽ với một dấu ấn X khổng lồ.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072311275963510784/img/sOJ8tRm_MeYTG3hq.jpg" width="600" alt="Hoạt ảnh xoay logo X trên hồ bơi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6692)**
+
+**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2072311328593580286) | **Published:** Jul 1, 2026
+
+---
+### Góc nhìn thứ nhất khi bay trên chổi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video ngắn gọn về góc nhìn thứ nhất khi bay trên chổi xuyên qua khu rừng với tốc độ cao.
+
+#### 📝 Prompt
+
+```
+Góc nhìn thứ nhất. Hai bàn tay phụ nữ nắm chặt cán chổi bay khi nó lao vút qua khu rừng. Những ngọn cây lướt qua liên tục với tốc độ cao.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072204746245701632/img/aP5IPn_7IsloIQ6z.jpg" width="600" alt="Góc nhìn thứ nhất khi bay trên chổi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6690)**
+
+**Author:** [Curious 1](https://x.com/CuriousOne_01) | **Source:** [Link](https://x.com/CuriousOne_01/status/2072206170862108699) | **Published:** Jul 1, 2026
+
+---
+### Giao dịch siêu thực tại thiên đường
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt mang tính tâm linh và siêu thực cao, mô tả một giao dịch tại thiên đường với những quả cầu phát sáng và cổng vàng.
+
+#### 📝 Prompt
+
+```
+Giao dịch siêu thực tại thiên đường, Thiên đường rạng rỡ với tư cách là người mua nhận những quả cầu phát sáng được đánh số chín và mười cùng một khoảng không tĩnh lặng từ một người bán là con người, cổng vàng và những đám mây, chủ đề bán cho thiên đường, chủ nghĩa siêu thực tâm linh thanh tao.
+
+Hố đen chính là NÓ. !?!
+Hiểu chứ.
+Youman,
+Bạn chính là chúng tôi; cùng nhau,
+Toàn vẹn: mái nhà.
+Tin vào tôi. Tin vào bạn.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072108610130255872/img/vkW6DDMNd7FeE_f-.jpg" width="600" alt="Giao dịch siêu thực tại thiên đường">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6689)**
+
+**Author:** [ATom](https://x.com/ThomasSwaff) | **Source:** [Link](https://x.com/ThomasSwaff/status/2072108676257546477) | **Published:** Jul 1, 2026
+
+---
 ### Video tua nhanh tại ngôi nhà trên Mặt Trăng
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -857,6 +959,25 @@ Cảnh quay góc thấp đậm chất điện ảnh về một cây phong đư�
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6528)**
 
 **Author:** [Ray Salmon](https://x.com/salmon1820) | **Source:** [Link](https://x.com/salmon1820/status/2070579069708570890) | **Published:** Jun 26, 2026
+
+---
+### Hành trình không gian với đôi giày tên lửa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh mô tả nhân vật sử dụng đôi giày tên lửa để du hành vào không gian, tập trung vào chủ đề khám phá và quyết tâm không nhìn lại phía sau.
+
+#### 📝 Prompt
+
+```
+Đôi giày tên lửa cuối cùng đã đưa cô ấy bay thẳng vào không gian… và cô ấy sẽ không bao giờ nhìn lại phía sau
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070541395014942720/img/sJBFM8Zd0FLzyf6I.jpg" width="600" alt="Hành trình không gian với đôi giày tên lửa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6693)**
+
+**Author:** [Sadie Supa Doge](https://x.com/SadieSupaDoge) | **Source:** [Link](https://x.com/SadieSupaDoge/status/2070541545548427407) | **Published:** Jun 26, 2026
 
 ---
 ### Cảnh buổi sáng sương mù hú vang
@@ -2053,120 +2174,6 @@ Bốn vị thần cổ đại đứng trên những tầng mây trong khi một 
 **Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2068723970707448246) | **Published:** Jun 21, 2026
 
 ---
-### Diễn viên Hollywood gần Burj Khalifa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Lời chào ngày Chủ nhật với hình ảnh một diễn viên Hollywood đang đi dạo gần tòa nhà Burj Khalifa, được tạo bởi Grok Imagine.
-
-#### 📝 Prompt
-
-```
-Tạo hình ảnh một diễn viên Hollywood nổi tiếng đang đi dạo gần Burj Khalifa với dòng chữ Chúc buổi chiều tốt lành ở phía trên #Chucbuoichieutotlanh #Nangluongtichcuc #Chuynhatvui
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068609777744351232/img/6s_s09o0g9o_FkhW.jpg" width="600" alt="Diễn viên Hollywood gần Burj Khalifa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6292)**
-
-**Author:** [Ijaz Malik](https://x.com/Ijazmalik101) | **Source:** [Link](https://x.com/Ijazmalik101/status/2068609842198225254) | **Published:** Jun 21, 2026
-
----
-### Gợi ý tạo video: Khu rừng nước phát sáng về đêm
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý tạo video đầy mê hoặc về khung cảnh một nhân vật đứng trong dòng nước phát sáng giữa khu rừng sương mù dưới bầu trời đầy sao.
-
-#### 📝 Prompt
-
-```
-Cô ấy đứng trong dòng nước phát sáng như thể chính màn đêm đang ôm trọn lấy cô. Ánh sáng chuyển động nhẹ nhàng quanh đôi chân cô trong khi khu rừng tỏa ra làn sương mờ ảo và những vì sao lấp lánh.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068490361069076480/img/6BmW0ohNA3wEaGZ-.jpg" width="600" alt="Gợi ý tạo video: Khu rừng nước phát sáng về đêm">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6321)**
-
-**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2068490736463384650) | **Published:** Jun 21, 2026
-
----
-### Video chú cá heo vũ trụ vạn hoa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video vũ trụ trừu tượng với hình ảnh những chú cá heo vạn hoa và bản giao hưởng đá cẩm thạch phiêu du.
-
-#### 📝 Prompt
-
-```
-San hô bùng nổ, cá heo vạn hoa, du hành vũ trụ, bản giao hưởng đá cẩm thạch phiêu du
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068468112869990401/img/Tnyy3JCHeBjf3-rh.jpg" width="600" alt="Video chú cá heo vũ trụ vạn hoa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6284)**
-
-**Author:** [Nautilus](https://x.com/spectra_gallery) | **Source:** [Link](https://x.com/spectra_gallery/status/2068468174245204130) | **Published:** Jun 20, 2026
-
----
-### Video đọc sách dưới ánh nến trong thư viện
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý video ấm cúng, đầy không khí về một người phụ nữ đang đọc sách trong thư viện dưới ánh nến và thưởng thức trà.
-
-#### 📝 Prompt
-
-```
-Người phụ nữ mặc váy mùa hè màu trắng họa tiết hoa đang ngồi trong thư viện, đọc sách dưới ánh nến và nhâm nhi tách trà.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068443436907458560/img/BKhSpKdruR5QIV3G.jpg" width="600" alt="Video đọc sách dưới ánh nến trong thư viện">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6281)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2068443496047055334) | **Published:** Jun 20, 2026
-
----
-### Lễ kỷ niệm 250 năm thành lập Hoa Kỳ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý video đầy lễ hội nhằm hình dung về lễ kỷ niệm ngày 4 tháng 7 lần thứ 250 của Hoa Kỳ.
-
-#### 📝 Prompt
-
-```
-Hãy cùng hình dung về Lễ kỷ niệm 250 năm ngày 4 tháng 7 của Hoa Kỳ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068424487704358912/img/Efwa0bE4L3mr4DKD.jpg" width="600" alt="Lễ kỷ niệm 250 năm thành lập Hoa Kỳ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6287)**
-
-**Author:** [Mark Tatum](https://x.com/Mark561256) | **Source:** [Link](https://x.com/Mark561256/status/2068424560634933349) | **Published:** Jun 20, 2026
-
----
-### Chiến binh và Sói trong tuyết
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý video giả tưởng đầy không khí với hình ảnh một chiến binh đơn độc và người bạn đồng hành là chú sói trong khu rừng tuyết lạnh giá.
-
-#### 📝 Prompt
-
-```
-Kiệt tác, chất lượng tốt nhất, nghệ thuật ý tưởng giả tưởng siêu chi tiết về một chiến binh đơn độc đứng trong khu rừng đầy tuyết cùng người bạn đồng hành là chú sói trắng. Chiến binh mặc bộ giáp sờn cũ, mang theo cung và bao tên. Chú sói có những vệt đỏ trên bộ lông. Khung cảnh được vẽ theo phong cách phóng khoáng, đầy không khí với ánh sáng dịu nhẹ, những hàng cây phủ tuyết và môi trường mùa đông lạnh giá, sương mù. Kết cấu chi tiết cao và bầu không khí đầy tâm trạng. Bố cục điện ảnh, chất lượng tốt nhất, độ phân giải 8K.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068340037226553344/img/sEvowCCTycqnzYtP.jpg" width="600" alt="Chiến binh và Sói trong tuyết">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6291)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2068400992690061567) | **Published:** Jun 20, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2228,6 +2235,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-02T04:19:42.996Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-02T11:05:29.706Z</sub>
 
 </div>

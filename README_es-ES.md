@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2012** |
+| 📝 Total Prompts | **2018** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-02** |
 
@@ -189,6 +189,108 @@ Una valquiria celestial mística y noble, una mujer digna y hermosa con largo ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Vuelo galáctico a hipervelocidad
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Una perspectiva cinematográfica en primera persona de un viaje a velocidades increíbles a través del universo a bordo de una nave estelar.
+
+#### 📝 Prompt
+
+```
+Muestra cómo se verían las galaxias y el universo desde el punto de vista de alguien que pilota una nave estelar a gran velocidad a través de la galaxia
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072401211228368896/img/B8OWZeiqXtzuE39W.jpg" width="600" alt="Vuelo galáctico a hipervelocidad">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6688)**
+
+**Author:** [Joel Rubin](https://x.com/rubinfrek) | **Source:** [Link](https://x.com/rubinfrek/status/2072401266643435712) | **Published:** Jul 1, 2026
+
+---
+### Misión de montaña: Esqueleto montando un carnero
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinematográfico épico que describe a un esqueleto montando un carnero para escalar una montaña y encontrar un oasis.
+
+#### 📝 Prompt
+
+```
+El esqueleto une fuerzas con el carnero en una misión para escalar esta pared montañosa casi imposible de subir y reclamar el oasis como suyo. El esqueleto monta al carnero a pelo. Ambos materializan vestimentas vikingas para resistir las inclemencias del tiempo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072397997292318720/img/mGVhbANggljFLLSI.jpg" width="600" alt="Misión de montaña: Esqueleto montando un carnero">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6691)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2072398081010663454) | **Published:** Jul 1, 2026
+
+---
+### Animación de giro del logotipo de X sobre una piscina
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para animar el logotipo de la red social X girando y estampándose sobre una ubicación específica del mundo real.
+
+#### 📝 Prompt
+
+```
+Si todo tiene un significado… Haz que la X gire, parezca retirarse un poco hacia la pista de patinaje de la ciudad y regrese con fuerza con un gran sello gigante de la X
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072311275963510784/img/sOJ8tRm_MeYTG3hq.jpg" width="600" alt="Animación de giro del logotipo de X sobre una piscina">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6692)**
+
+**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2072311328593580286) | **Published:** Jul 1, 2026
+
+---
+### POV de vuelo en escoba en primera persona
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video conciso para una perspectiva en primera persona volando sobre una escoba a través de un bosque a alta velocidad.
+
+#### 📝 Prompt
+
+```
+Perspectiva en primera persona. Dos manos femeninas sujetan con fuerza el mango de una escoba voladora mientras atraviesa un bosque a gran velocidad. Las copas de los árboles pasan rápidamente de forma continua a alta velocidad.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072204746245701632/img/aP5IPn_7IsloIQ6z.jpg" width="600" alt="POV de vuelo en escoba en primera persona">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6690)**
+
+**Author:** [Curious 1](https://x.com/CuriousOne_01) | **Source:** [Link](https://x.com/CuriousOne_01/status/2072206170862108699) | **Published:** Jul 1, 2026
+
+---
+### Transacción etérea en el paraíso surrealista
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video altamente espiritual y surrealista que describe una transacción en el cielo con esferas brillantes y puertas doradas.
+
+#### 📝 Prompt
+
+```
+Transacción en el paraíso surrealista, un Cielo radiante como comprador recibiendo esferas brillantes numeradas nueve y diez, además de un vacío silencioso de un vendedor humano, puertas doradas y nubes, tema de venta al cielo, surrealismo espiritual etéreo.
+
+El agujero negro es TODO. !?!
+Entiéndelo.
+Youman,
+Tú eres nosotros; juntos,
+Todo: hogar.
+Fe en mí. Fe en ti.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072108610130255872/img/vkW6DDMNd7FeE_f-.jpg" width="600" alt="Transacción etérea en el paraíso surrealista">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6689)**
+
+**Author:** [ATom](https://x.com/ThomasSwaff) | **Source:** [Link](https://x.com/ThomasSwaff/status/2072108676257546477) | **Published:** Jul 1, 2026
+
+---
 ### Time-lapse en el hogar lunar
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -857,6 +959,25 @@ Una toma cinematográfica en ángulo contrapicado de un majestuoso y antiguo arc
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6528)**
 
 **Author:** [Ray Salmon](https://x.com/salmon1820) | **Source:** [Link](https://x.com/salmon1820/status/2070579069708570890) | **Published:** Jun 26, 2026
+
+---
+### Viaje espacial con botas propulsoras
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt que describe a un personaje usando botas propulsoras para viajar al espacio, centrándose en temas de exploración y de no mirar atrás.
+
+#### 📝 Prompt
+
+```
+Las botas propulsoras finalmente la llevaron hasta el espacio... y ella no piensa mirar atrás
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070541395014942720/img/sJBFM8Zd0FLzyf6I.jpg" width="600" alt="Viaje espacial con botas propulsoras">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6693)**
+
+**Author:** [Sadie Supa Doge](https://x.com/SadieSupaDoge) | **Source:** [Link](https://x.com/SadieSupaDoge/status/2070541545548427407) | **Published:** Jun 26, 2026
 
 ---
 ### Escena matutina de aullidos entre la niebla
@@ -2053,120 +2174,6 @@ Cuatro dioses antiguos de pie sobre las nubes mientras un guerrero solitario vue
 **Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2068723970707448246) | **Published:** Jun 21, 2026
 
 ---
-### Actor de Hollywood cerca del Burj Khalifa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un saludo de domingo con la imagen de un actor de Hollywood caminando cerca del Burj Khalifa, generado con Grok Imagine.
-
-#### 📝 Prompt
-
-```
-Genera una imagen de un actor de Hollywood popular caminando cerca del Burj Khalifa con la frase "Good afternoon" escrita en la parte superior #BuenasTardes #VibrasPositivas #FelizDomingo
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068609777744351232/img/6s_s09o0g9o_FkhW.jpg" width="600" alt="Actor de Hollywood cerca del Burj Khalifa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6292)**
-
-**Author:** [Ijaz Malik](https://x.com/Ijazmalik101) | **Source:** [Link](https://x.com/Ijazmalik101/status/2068609842198225254) | **Published:** Jun 21, 2026
-
----
-### Prompt de bosque nocturno con agua brillante
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video etéreo para una escena con una figura en agua brillante dentro de un bosque neblinoso bajo un cielo estrellado.
-
-#### 📝 Prompt
-
-```
-Ella permanece de pie en el agua brillante como si la noche misma la estuviera sosteniendo. La luz se mueve suavemente alrededor de sus pies mientras el bosque exhala niebla y estrellas.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068490361069076480/img/6BmW0ohNA3wEaGZ-.jpg" width="600" alt="Prompt de bosque nocturno con agua brillante">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6321)**
-
-**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2068490736463384650) | **Published:** Jun 21, 2026
-
----
-### Video de delfines cósmicos caleidoscópicos
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video cósmico abstracto que involucra delfines caleidoscópicos y una filarmónica de mármol errante.
-
-#### 📝 Prompt
-
-```
-Coral fulmina delfines caleidoscópicos viajando por el espacio, filarmónica de mármol cósmica errante
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068468112869990401/img/Tnyy3JCHeBjf3-rh.jpg" width="600" alt="Video de delfines cósmicos caleidoscópicos">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6284)**
-
-**Author:** [Nautilus](https://x.com/spectra_gallery) | **Source:** [Link](https://x.com/spectra_gallery/status/2068468174245204130) | **Published:** Jun 20, 2026
-
----
-### Video de lectura a la luz de las velas en una biblioteca
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un video acogedor y atmosférico con un prompt de una mujer leyendo en una biblioteca a la luz de las velas mientras toma té.
-
-#### 📝 Prompt
-
-```
-Mujer con un vestido de verano blanco con estampado floral sentada en una biblioteca leyendo a la luz de las velas mientras bebe té.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068443436907458560/img/BKhSpKdruR5QIV3G.jpg" width="600" alt="Video de lectura a la luz de las velas en una biblioteca">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6281)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2068443496047055334) | **Published:** Jun 20, 2026
-
----
-### Celebración del 250.º aniversario de Estados Unidos
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un video prompt festivo que imagina la celebración del 250.º aniversario del 4 de julio en los Estados Unidos de América.
-
-#### 📝 Prompt
-
-```
-Imaginemos la celebración del 250.º aniversario del 4 de julio de los Estados Unidos de América
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068424487704358912/img/Efwa0bE4L3mr4DKD.jpg" width="600" alt="Celebración del 250.º aniversario de Estados Unidos">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6287)**
-
-**Author:** [Mark Tatum](https://x.com/Mark561256) | **Source:** [Link](https://x.com/Mark561256/status/2068424560634933349) | **Published:** Jun 20, 2026
-
----
-### Guerrero y lobo en la nieve
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video de fantasía atmosférica que presenta a un guerrero solitario y su compañero lobo en un bosque frío y nevado.
-
-#### 📝 Prompt
-
-```
-Obra maestra, mejor calidad, arte conceptual de fantasía ultra detallado de un guerrero solitario de pie en un bosque nevado con su compañero, un lobo blanco. El guerrero viste una armadura resistente y lleva un arco y un carcaj con flechas. El lobo tiene marcas rojas en su pelaje. La escena está pintada en un estilo suelto y atmosférico con iluminación suave, árboles cubiertos de nieve y un entorno invernal frío y brumoso. Texturas altamente detalladas y atmósfera melancólica. Composición cinematográfica, mejor calidad, resolución 8K.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068340037226553344/img/sEvowCCTycqnzYtP.jpg" width="600" alt="Guerrero y lobo en la nieve">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6291)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2068400992690061567) | **Published:** Jun 20, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2228,6 +2235,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-02T04:19:45.857Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-02T11:05:31.855Z</sub>
 
 </div>

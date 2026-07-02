@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2012** |
+| 📝 Total Prompts | **2018** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-02** |
 
@@ -189,6 +189,108 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### การเดินทางข้ามกาแล็กซีด้วยความเร็วเหนือแสง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> มุมมองภาพยนตร์แบบบุคคลที่หนึ่งของการขับยานอวกาศพุ่งทะยานผ่านจักรวาลด้วยความเร็วสูง
+
+#### 📝 Prompt
+
+```
+แสดงภาพกาแล็กซีและจักรวาลในมุมมองของผู้ที่กำลังขับยานอวกาศด้วยความเร็วสูงผ่านกาแล็กซี
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072401211228368896/img/B8OWZeiqXtzuE39W.jpg" width="600" alt="การเดินทางข้ามกาแล็กซีด้วยความเร็วเหนือแสง">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6688)**
+
+**Author:** [Joel Rubin](https://x.com/rubinfrek) | **Source:** [Link](https://x.com/rubinfrek/status/2072401266643435712) | **Published:** Jul 1, 2026
+
+---
+### ภารกิจพิชิตยอดเขาของโครงกระดูกบนหลังแกะ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์แนวภาพยนตร์สุดอลังการที่บรรยายภาพโครงกระดูกขี่แกะเพื่อปีนขึ้นไปบนภูเขาและตามหาโอเอซิส
+
+#### 📝 Prompt
+
+```
+โครงกระดูกร่วมมือกับแกะในภารกิจปีนหน้าผาภูเขาที่แทบจะเป็นไปไม่ได้ เพื่อยึดครองโอเอซิสให้เป็นของตน โครงกระดูกขี่หลังแกะโดยไม่มีอาน และพวกเขาสร้างชุดไวกิ้งขึ้นมาเพื่อรับมือกับสภาพอากาศที่โหดร้าย
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072397997292318720/img/mGVhbANggljFLLSI.jpg" width="600" alt="ภารกิจพิชิตยอดเขาของโครงกระดูกบนหลังแกะ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6691)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2072398081010663454) | **Published:** Jul 1, 2026
+
+---
+### แอนิเมชันโลโก้ X หมุนเหนือสระน้ำ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับทำแอนิเมชันโลโก้โซเชียลมีเดีย X ให้หมุนและประทับตราลงบนสถานที่จริงที่กำหนด
+
+#### 📝 Prompt
+
+```
+หากทุกสิ่งมีความหมาย... ให้โลโก้ X หมุนวนแล้วดูเหมือนถอยห่างออกไปเล็กน้อยไปยังลานสเก็ตในเมือง จากนั้นกลับมาอย่างทรงพลังด้วยการประทับตรา X ขนาดใหญ่
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072311275963510784/img/sOJ8tRm_MeYTG3hq.jpg" width="600" alt="แอนิเมชันโลโก้ X หมุนเหนือสระน้ำ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6692)**
+
+**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2072311328593580286) | **Published:** Jul 1, 2026
+
+---
+### มุมมองบุคคลที่หนึ่งขณะขี่ไม้กวาดวิเศษ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์แบบกระชับสำหรับมุมมองบุคคลที่หนึ่งขณะขี่ไม้กวาดบินด้วยความเร็วสูงผ่านป่า
+
+#### 📝 Prompt
+
+```
+มุมมองบุคคลที่หนึ่ง มือของผู้หญิงสองข้างจับด้ามไม้กวาดบินไว้แน่นขณะที่มันพุ่งทะยานผ่านป่า ยอดไม้เคลื่อนผ่านไปอย่างต่อเนื่องด้วยความเร็วสูง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072204746245701632/img/aP5IPn_7IsloIQ6z.jpg" width="600" alt="มุมมองบุคคลที่หนึ่งขณะขี่ไม้กวาดวิเศษ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6690)**
+
+**Author:** [Curious 1](https://x.com/CuriousOne_01) | **Source:** [Link](https://x.com/CuriousOne_01/status/2072206170862108699) | **Published:** Jul 1, 2026
+
+---
+### การทำธุรกรรมในสรวงสวรรค์อันเหนือจริง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์แนวเหนือจริงและเปี่ยมด้วยจิตวิญญาณ บรรยายถึงการทำธุรกรรมในสรวงสวรรค์ที่มีลูกบอลเรืองแสงและประตูสีทอง
+
+#### 📝 Prompt
+
+```
+การทำธุรกรรมในสรวงสวรรค์อันเหนือจริง สวรรค์อันเจิดจรัสในฐานะผู้ซื้อที่ได้รับลูกบอลเรืองแสงหมายเลขเก้าและสิบ พร้อมด้วยความว่างเปล่าอันเงียบงันจากผู้ขายที่เป็นมนุษย์ ประตูสีทองและหมู่เมฆ ธีมการขายให้กับสวรรค์ ความเหนือจริงทางจิตวิญญาณที่ดูเลื่อนลอย
+
+หลุมดำคือทุกสิ่ง !?!
+เข้าใจแล้ว
+Youman,
+คุณคือพวกเรา; ร่วมกัน,
+ทั้งหมด: บ้าน
+ศรัทธาในตัวฉัน ศรัทธาในตัวคุณ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072108610130255872/img/vkW6DDMNd7FeE_f-.jpg" width="600" alt="การทำธุรกรรมในสรวงสวรรค์อันเหนือจริง">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6689)**
+
+**Author:** [ATom](https://x.com/ThomasSwaff) | **Source:** [Link](https://x.com/ThomasSwaff/status/2072108676257546477) | **Published:** Jul 1, 2026
+
+---
 ### ภาพถ่ายเหลื่อมเวลาของบ้านบนดวงจันทร์
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -857,6 +959,25 @@ Mira นำกล้องพาชมบรรยากาศอย่างส
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6528)**
 
 **Author:** [Ray Salmon](https://x.com/salmon1820) | **Source:** [Link](https://x.com/salmon1820/status/2070579069708570890) | **Published:** Jun 26, 2026
+
+---
+### การเดินทางสู่อวกาศด้วยรองเท้าจรวด
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง (Prompt) ที่บรรยายถึงตัวละครที่ใช้รองเท้าจรวดเดินทางออกสู่อวกาศ โดยเน้นไปที่ธีมของการสำรวจและการไม่หันหลังกลับไปมอง
+
+#### 📝 Prompt
+
+```
+ในที่สุดรองเท้าจรวดก็พาเธอทะยานไปถึงอวกาศ... และเธอก็ไม่คิดที่จะหันหลังกลับไปอีกเลย
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070541395014942720/img/sJBFM8Zd0FLzyf6I.jpg" width="600" alt="การเดินทางสู่อวกาศด้วยรองเท้าจรวด">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6693)**
+
+**Author:** [Sadie Supa Doge](https://x.com/SadieSupaDoge) | **Source:** [Link](https://x.com/SadieSupaDoge/status/2070541545548427407) | **Published:** Jun 26, 2026
 
 ---
 ### ฉากยามเช้าอันเงียบเหงาและเสียงโหยหวนท่ามกลางสายหมอก
@@ -2053,120 +2174,6 @@ DETAILS: คนงานติดตั้งคานเหล็ก,
 **Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2068723970707448246) | **Published:** Jun 21, 2026
 
 ---
-### นักแสดงฮอลลีวูดใกล้ Burj Khalifa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำทักทายวันอาทิตย์พร้อมภาพนักแสดงฮอลลีวูดเดินอยู่ใกล้ Burj Khalifa ซึ่งสร้างขึ้นด้วย Grok Imagine
-
-#### 📝 Prompt
-
-```
-สร้างภาพนักแสดงฮอลลีวูดชื่อดังกำลังเดินอยู่ใกล้ Burj Khalifa พร้อมข้อความ Good afternoon ที่ด้านบน #Goodafternoon #PositiveVibesOnly #Happysunday
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068609777744351232/img/6s_s09o0g9o_FkhW.jpg" width="600" alt="นักแสดงฮอลลีวูดใกล้ Burj Khalifa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6292)**
-
-**Author:** [Ijaz Malik](https://x.com/Ijazmalik101) | **Source:** [Link](https://x.com/Ijazmalik101/status/2068609842198225254) | **Published:** Jun 21, 2026
-
----
-### พรอมต์ฉากป่าเรืองแสงยามค่ำคืน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวแฟนตาซีสำหรับฉากที่มีบุคคลยืนอยู่ในน้ำเรืองแสงท่ามกลางป่าที่มีหมอกปกคลุมภายใต้ท้องฟ้าที่เต็มไปด้วยดวงดาว
-
-#### 📝 Prompt
-
-```
-เธอยืนอยู่ในน้ำที่เรืองแสงราวกับว่ายามค่ำคืนกำลังโอบกอดเธอไว้ แสงสว่างเคลื่อนไหวอย่างแผ่วเบารอบเท้าของเธอ ในขณะที่ป่ากำลังหายใจออกมาเป็นไอหมอกและดวงดาว
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068490361069076480/img/6BmW0ohNA3wEaGZ-.jpg" width="600" alt="พรอมต์ฉากป่าเรืองแสงยามค่ำคืน">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6321)**
-
-**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2068490736463384650) | **Published:** Jun 21, 2026
-
----
-### วิดีโอโลมาในห้วงอวกาศแบบคาไลโดสโคป
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวคอสมิกเชิงนามธรรมที่ประกอบด้วยโลมาในรูปแบบคาไลโดสโคปและการเคลื่อนที่ของหินอ่อนที่เปรียบเสมือนดนตรี
-
-#### 📝 Prompt
-
-```
-ปะการังระเบิด โลมา คาไลโดสโคป ท่องอวกาศ คอสมิก หินอ่อนที่ล่องลอยดั่งท่วงทำนองดนตรี
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068468112869990401/img/Tnyy3JCHeBjf3-rh.jpg" width="600" alt="วิดีโอโลมาในห้วงอวกาศแบบคาไลโดสโคป">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6284)**
-
-**Author:** [Nautilus](https://x.com/spectra_gallery) | **Source:** [Link](https://x.com/spectra_gallery/status/2068468174245204130) | **Published:** Jun 20, 2026
-
----
-### วิดีโออ่านหนังสือใต้แสงเทียนในห้องสมุด
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพร้อมท์บรรยากาศอบอุ่นของหญิงสาวที่กำลังอ่านหนังสือในห้องสมุดใต้แสงเทียนพร้อมจิบชา
-
-#### 📝 Prompt
-
-```
-หญิงสาวในชุดเดรสลายดอกสีขาวนั่งอ่านหนังสือในห้องสมุดใต้แสงเทียนพร้อมจิบชา
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068443436907458560/img/BKhSpKdruR5QIV3G.jpg" width="600" alt="วิดีโออ่านหนังสือใต้แสงเทียนในห้องสมุด">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6281)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2068443496047055334) | **Published:** Jun 20, 2026
-
----
-### งานเฉลิมฉลองครบรอบ 250 ปี สหรัฐอเมริกา
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอสุดพิเศษที่จินตนาการถึงงานเฉลิมฉลองวันชาติสหรัฐอเมริกา 4 กรกฎาคม ครบรอบ 250 ปี
-
-#### 📝 Prompt
-
-```
-มาจินตนาการถึงงานเฉลิมฉลองวันชาติสหรัฐอเมริกา 4 กรกฎาคม ครบรอบ 250 ปี กันเถอะ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068424487704358912/img/Efwa0bE4L3mr4DKD.jpg" width="600" alt="งานเฉลิมฉลองครบรอบ 250 ปี สหรัฐอเมริกา">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6287)**
-
-**Author:** [Mark Tatum](https://x.com/Mark561256) | **Source:** [Link](https://x.com/Mark561256/status/2068424560634933349) | **Published:** Jun 20, 2026
-
----
-### นักรบและหมาป่าท่ามกลางหิมะ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวแฟนตาซีที่เปี่ยมไปด้วยบรรยากาศของนักรบผู้โดดเดี่ยวและสหายหมาป่าของเขาในป่าที่หนาวเหน็บและเต็มไปด้วยหิมะ
-
-#### 📝 Prompt
-
-```
-Masterpiece, best quality, ultra-detailed fantasy concept art ของนักรบผู้โดดเดี่ยวที่ยืนอยู่ในป่าหิมะกับสหายหมาป่าสีขาวของเขา นักรบสวมชุดเกราะที่ดูสมบุกสมบันและสะพายธนูพร้อมกระบอกลูกธนู หมาป่ามีรอยแต้มสีแดงบนขน ฉากนี้ถูกวาดในสไตล์ที่ดูอิสระและเน้นบรรยากาศด้วยแสงที่นุ่มนวล ต้นไม้ที่ปกคลุมไปด้วยหิมะ และสภาพแวดล้อมฤดูหนาวที่หนาวเย็นและมีหมอกจางๆ พื้นผิวที่มีรายละเอียดสูงและบรรยากาศที่ดูมีอารมณ์ร่วม องค์ประกอบภาพแบบภาพยนตร์, best quality, 8K resolution
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068340037226553344/img/sEvowCCTycqnzYtP.jpg" width="600" alt="นักรบและหมาป่าท่ามกลางหิมะ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6291)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2068400992690061567) | **Published:** Jun 20, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2228,6 +2235,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-02T04:19:41.688Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-02T11:05:28.630Z</sub>
 
 </div>

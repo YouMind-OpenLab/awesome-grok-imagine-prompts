@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2012** |
+| 📝 Total Prompts | **2018** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-02** |
 
@@ -189,6 +189,108 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Hyper-Speed Galaktischer Flug
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Eine filmische First-Person-Perspektive eines Fluges durch das Universum mit unglaublicher Geschwindigkeit an Bord eines Raumschiffs.
+
+#### 📝 Prompt
+
+```
+Zeigen Sie, wie Galaxien und das Universum aus der Sicht von jemandem aussehen würden, der ein sehr schnelles Raumschiff durch die Galaxie steuert
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072401211228368896/img/B8OWZeiqXtzuE39W.jpg" width="600" alt="Hyper-Speed Galaktischer Flug">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6688)**
+
+**Author:** [Joel Rubin](https://x.com/rubinfrek) | **Source:** [Link](https://x.com/rubinfrek/status/2072401266643435712) | **Published:** Jul 1, 2026
+
+---
+### Skelett auf einem Widder: Berg-Quest
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein epischer, filmischer Prompt, der ein Skelett beschreibt, das auf einem Widder einen Berg erklimmt, um eine Oase zu finden.
+
+#### 📝 Prompt
+
+```
+Das Skelett verbündet sich mit dem Widder bei dem Versuch, diese nahezu unbezwingbare Bergwand zu erklimmen, um die Oase für sich zu beanspruchen. Das Skelett reitet den Widder ohne Sattel. Sie materialisieren Wikingerkleidung, um den Elementen zu trotzen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072397997292318720/img/mGVhbANggljFLLSI.jpg" width="600" alt="Skelett auf einem Widder: Berg-Quest">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6691)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2072398081010663454) | **Published:** Jul 1, 2026
+
+---
+### X-Logo-Spin-Animation über Pool
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Animation des X-Social-Media-Logos, das sich dreht und über einem bestimmten realen Ort aufgestempelt wird.
+
+#### 📝 Prompt
+
+```
+Wenn alles eine Bedeutung hat… Lass das X rotieren, so als würde es sich ein Stück in Richtung des City-Skate-Bereichs zurückziehen, und dann kraftvoll mit einem riesigen, wuchtigen X-Stempel zurückkehren.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072311275963510784/img/sOJ8tRm_MeYTG3hq.jpg" width="600" alt="X-Logo-Spin-Animation über Pool">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6692)**
+
+**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2072311328593580286) | **Published:** Jul 1, 2026
+
+---
+### Ego-Perspektive: Flug auf einem Besen
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein prägnanter Video-Prompt für die Ego-Perspektive eines Fluges auf einem Besen durch einen Wald bei hoher Geschwindigkeit.
+
+#### 📝 Prompt
+
+```
+Ego-Perspektive. Zwei weibliche Hände umklammern fest den Stiel eines fliegenden Besens, während dieser mit hoher Geschwindigkeit durch einen Wald rast. Die Baumwipfel ziehen kontinuierlich in hohem Tempo an der Kamera vorbei.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072204746245701632/img/aP5IPn_7IsloIQ6z.jpg" width="600" alt="Ego-Perspektive: Flug auf einem Besen">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6690)**
+
+**Author:** [Curious 1](https://x.com/CuriousOne_01) | **Source:** [Link](https://x.com/CuriousOne_01/status/2072206170862108699) | **Published:** Jul 1, 2026
+
+---
+### Surreale Paradies-Transaktion
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochspiritueller und surrealer Video-Prompt, der eine Transaktion im Himmel mit leuchtenden Sphären und goldenen Toren beschreibt.
+
+#### 📝 Prompt
+
+```
+Surreale Paradies-Transaktion, strahlender Himmel als Käufer empfängt leuchtende Sphären mit den Nummern neun und zehn sowie eine stille Leere von einem menschlichen Verkäufer, goldene Tore und Wolken, Thema „an den Himmel verkauft“, ätherischer spiritueller Surrealismus.
+
+Das schwarze Ganze ist ES. !?!
+Versteh es.
+YouMind,
+Du bist wir; zusammen,
+Ganz: zu Hause.
+Glaube an mich. Glaube an dich.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072108610130255872/img/vkW6DDMNd7FeE_f-.jpg" width="600" alt="Surreale Paradies-Transaktion">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6689)**
+
+**Author:** [ATom](https://x.com/ThomasSwaff) | **Source:** [Link](https://x.com/ThomasSwaff/status/2072108676257546477) | **Published:** Jul 1, 2026
+
+---
 ### Lunar Home Zeitraffer
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -857,6 +959,25 @@ Eine cineastische Untersicht eines majestätischen, uralten Zuckerahorns in eine
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6528)**
 
 **Author:** [Ray Salmon](https://x.com/salmon1820) | **Source:** [Link](https://x.com/salmon1820/status/2070579069708570890) | **Published:** Jun 26, 2026
+
+---
+### Raketenstiefel-Reise ins All
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt, der einen Charakter beschreibt, der mit Raketenstiefeln ins Weltall reist, mit Fokus auf Themen wie Erkundung und das Zurücklassen der Vergangenheit.
+
+#### 📝 Prompt
+
+```
+Die Raketenstiefel brachten sie endlich bis ins Weltall … und sie blickt nie wieder zurück
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070541395014942720/img/sJBFM8Zd0FLzyf6I.jpg" width="600" alt="Raketenstiefel-Reise ins All">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6693)**
+
+**Author:** [Sadie Supa Doge](https://x.com/SadieSupaDoge) | **Source:** [Link](https://x.com/SadieSupaDoge/status/2070541545548427407) | **Published:** Jun 26, 2026
 
 ---
 ### Nebelverhangene Szene mit Heulen am Morgen
@@ -2052,120 +2173,6 @@ Vier antike Götter stehen über den Wolken, während ein einsamer Krieger auf s
 **Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2068723970707448246) | **Published:** Jun 21, 2026
 
 ---
-### Hollywood-Schauspieler in der Nähe des Burj Khalifa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Sonntagsgruß mit einem Bild eines Hollywood-Schauspielers, der in der Nähe des Burj Khalifa spazieren geht, erstellt mit Grok Imagine.
-
-#### 📝 Prompt
-
-```
-Generiere ein Bild eines beliebten Hollywood-Schauspielers, der in der Nähe des Burj Khalifa spazieren geht, mit dem Schriftzug „Good afternoon“ am oberen Bildrand #GutenTag #PositiveVibesOnly #SchönenSonntag
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068609777744351232/img/6s_s09o0g9o_FkhW.jpg" width="600" alt="Hollywood-Schauspieler in der Nähe des Burj Khalifa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6292)**
-
-**Author:** [Ijaz Malik](https://x.com/Ijazmalik101) | **Source:** [Link](https://x.com/Ijazmalik101/status/2068609842198225254) | **Published:** Jun 21, 2026
-
----
-### Prompt für eine leuchtende Wasserwald-Nacht
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein ätherischer Video-Prompt für eine Szene mit einer Figur in leuchtendem Wasser inmitten eines nebligen Waldes unter einem Sternenhimmel.
-
-#### 📝 Prompt
-
-```
-Sie steht im leuchtenden Wasser, als würde die Nacht selbst sie halten. Licht bewegt sich sanft um ihre Füße, während der Wald Nebel und Sterne atmet.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068490361069076480/img/6BmW0ohNA3wEaGZ-.jpg" width="600" alt="Prompt für eine leuchtende Wasserwald-Nacht">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6321)**
-
-**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2068490736463384650) | **Published:** Jun 21, 2026
-
----
-### Kaleidoskopisches kosmisches Delfin-Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein abstraktes kosmisches Videoprompt mit kaleidoskopischen Delfinen und wandernder Marmor-Philharmonie.
-
-#### 📝 Prompt
-
-```
-Korallen-fulminierende Delfin-Kaleidoskop-Raumfahrt kosmische wandernde Marmor-Philharmonie
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068468112869990401/img/Tnyy3JCHeBjf3-rh.jpg" width="600" alt="Kaleidoskopisches kosmisches Delfin-Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6284)**
-
-**Author:** [Nautilus](https://x.com/spectra_gallery) | **Source:** [Link](https://x.com/spectra_gallery/status/2068468174245204130) | **Published:** Jun 20, 2026
-
----
-### Video: Kerzenschein-Lesen in der Bibliothek
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein gemütlicher, atmosphärischer Video-Prompt einer Frau, die bei Kerzenschein in einer Bibliothek liest und Tee trinkt.
-
-#### 📝 Prompt
-
-```
-Eine Frau in einem weißen, geblümten Sommerkleid sitzt in einer Bibliothek, liest bei Kerzenschein und trinkt Tee.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068443436907458560/img/BKhSpKdruR5QIV3G.jpg" width="600" alt="Video: Kerzenschein-Lesen in der Bibliothek">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6281)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2068443496047055334) | **Published:** Jun 20, 2026
-
----
-### Feier zum 250. Jahrestag der USA
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein festlicher Video-Prompt, der sich die Feierlichkeiten zum 250. Jahrestag des 4. Juli in den Vereinigten Staaten von Amerika vorstellt.
-
-#### 📝 Prompt
-
-```
-Stellen wir uns eine Feier zum 250. Jahrestag des 4. Juli in den Vereinigten Staaten von Amerika vor
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068424487704358912/img/Efwa0bE4L3mr4DKD.jpg" width="600" alt="Feier zum 250. Jahrestag der USA">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6287)**
-
-**Author:** [Mark Tatum](https://x.com/Mark561256) | **Source:** [Link](https://x.com/Mark561256/status/2068424560634933349) | **Published:** Jun 20, 2026
-
----
-### Krieger und Wolf im Schnee
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein atmosphärischer Fantasy-Video-Prompt mit einem einsamen Krieger und seinem Wolfsbegleiter in einem kalten, verschneiten Wald.
-
-#### 📝 Prompt
-
-```
-Meisterwerk, beste Qualität, ultra-detaillierte Fantasy-Concept-Art eines einsamen Kriegers, der mit seinem weißen Wolfsbegleiter in einem verschneiten Wald steht. Der Krieger trägt eine robuste Rüstung und einen Bogen mit einem Köcher voller Pfeile. Der Wolf hat rote Markierungen im Fell. Die Szene ist in einem lockeren, atmosphärischen Stil gemalt, mit weichem Licht, schneebedeckten Bäumen und einer kalten, nebligen Winterumgebung. Hochdetaillierte Texturen und stimmungsvolle Atmosphäre. Kinoreife Komposition, beste Qualität, 8K-Auflösung.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068340037226553344/img/sEvowCCTycqnzYtP.jpg" width="600" alt="Krieger und Wolf im Schnee">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6291)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2068400992690061567) | **Published:** Jun 20, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2227,6 +2234,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-02T04:19:48.253Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-02T11:05:33.996Z</sub>
 
 </div>

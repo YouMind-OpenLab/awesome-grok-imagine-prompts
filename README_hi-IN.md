@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2012** |
+| 📝 Total Prompts | **2018** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-02** |
 
@@ -189,6 +189,108 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### हाइपर-स्पीड गैलेक्टिक फ्लाइट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक स्टारशिप पर सवार होकर अविश्वसनीय गति से ब्रह्मांड में उड़ान भरने का सिनेमाई फर्स्ट-पर्सन नज़ारा।
+
+#### 📝 Prompt
+
+```
+दिखाएं कि आकाशगंगा में बहुत तेज़ गति से स्टारशिप चलाने वाले किसी व्यक्ति के दृष्टिकोण से आकाशगंगाएं और ब्रह्मांड कैसा दिखेगा
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072401211228368896/img/B8OWZeiqXtzuE39W.jpg" width="600" alt="हाइपर-स्पीड गैलेक्टिक फ्लाइट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6688)**
+
+**Author:** [Joel Rubin](https://x.com/rubinfrek) | **Source:** [Link](https://x.com/rubinfrek/status/2072401266643435712) | **Published:** Jul 1, 2026
+
+---
+### Skeleton Riding Ram Mountain Quest
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक महाकाव्य सिनेमाई प्रॉम्प्ट, जिसमें एक कंकाल को पहाड़ पर चढ़ने और नखलिस्तान खोजने के लिए भेड़ (राम) की सवारी करते हुए दिखाया गया है।
+
+#### 📝 Prompt
+
+```
+कंकाल, नखलिस्तान को अपना बनाने के लिए इस लगभग असंभव पहाड़ पर चढ़ने की खोज में भेड़ (राम) के साथ शामिल हो जाता है। कंकाल बिना काठी के भेड़ की सवारी करता है। वे मौसम की मार झेलने के लिए वाइकिंग पोशाक धारण कर लेते हैं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072397997292318720/img/mGVhbANggljFLLSI.jpg" width="600" alt="Skeleton Riding Ram Mountain Quest">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6691)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2072398081010663454) | **Published:** Jul 1, 2026
+
+---
+### पूल के ऊपर X लोगो स्पिन एनिमेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> X सोशल मीडिया लोगो को एक विशिष्ट वास्तविक स्थान पर स्पिन करते और स्टैम्प करते हुए एनिमेट करने के लिए एक प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+अगर हर चीज़ में कोई अर्थ है… तो X को स्पिन करते हुए दिखाएं, जो थोड़ा पीछे हटकर सिटी स्केट की ओर आता है और फिर एक बड़े विशाल X स्टैम्प के साथ शक्तिशाली रूप से वापस आता है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072311275963510784/img/sOJ8tRm_MeYTG3hq.jpg" width="600" alt="पूल के ऊपर X लोगो स्पिन एनिमेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6692)**
+
+**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2072311328593580286) | **Published:** Jul 1, 2026
+
+---
+### फर्स्ट-पर्सन फ्लाइंग ब्रूम POV
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> तेजी से जंगल के बीच झाड़ू पर उड़ने के फर्स्ट-पर्सन परिप्रेक्ष्य के लिए एक संक्षिप्त वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+फर्स्ट-पर्सन परिप्रेक्ष्य। दो महिलाओं के हाथ एक उड़ती हुई झाड़ू के हैंडल को मजबूती से पकड़े हुए हैं, जो जंगल के बीच से तेजी से गुजर रही है। पेड़ों की चोटियाँ लगातार बहुत तेज गति से पीछे छूटती जा रही हैं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072204746245701632/img/aP5IPn_7IsloIQ6z.jpg" width="600" alt="फर्स्ट-पर्सन फ्लाइंग ब्रूम POV">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6690)**
+
+**Author:** [Curious 1](https://x.com/CuriousOne_01) | **Source:** [Link](https://x.com/CuriousOne_01/status/2072206170862108699) | **Published:** Jul 1, 2026
+
+---
+### अवास्तविक स्वर्ग का अलौकिक लेन-देन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक अत्यधिक आध्यात्मिक और अवास्तविक वीडियो प्रॉम्प्ट, जो स्वर्ग में चमकते हुए गोलों और सुनहरे द्वारों के साथ एक लेन-देन का वर्णन करता है।
+
+#### 📝 Prompt
+
+```
+अवास्तविक स्वर्ग का लेन-देन, खरीदार के रूप में चमकता हुआ स्वर्ग जो नौ और दस नंबर वाले चमकते गोलों को प्राप्त कर रहा है, साथ ही एक मानव विक्रेता से एक शांत शून्य, सुनहरे द्वार और बादल, स्वर्ग को बेचे जाने का विषय, अलौकिक आध्यात्मिक अतियथार्थवाद।
+
+ब्लैक होल ही सब कुछ है। !?!
+इसे समझें।
+Youman,
+तुम हम हो; साथ में,
+पूर्ण: घर।
+मुझ पर विश्वास रखो। तुम पर विश्वास रखो।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072108610130255872/img/vkW6DDMNd7FeE_f-.jpg" width="600" alt="अवास्तविक स्वर्ग का अलौकिक लेन-देन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6689)**
+
+**Author:** [ATom](https://x.com/ThomasSwaff) | **Source:** [Link](https://x.com/ThomasSwaff/status/2072108676257546477) | **Published:** Jul 1, 2026
+
+---
 ### लूनर होम टाइम-लैप्स
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -857,6 +959,25 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6528)**
 
 **Author:** [Ray Salmon](https://x.com/salmon1820) | **Source:** [Link](https://x.com/salmon1820/status/2070579069708570890) | **Published:** Jun 26, 2026
+
+---
+### रॉकेट बूट्स स्पेस जर्नी
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक प्रॉम्प्ट जो एक ऐसे किरदार का वर्णन करता है जो अंतरिक्ष में यात्रा करने के लिए रॉकेट बूट्स का उपयोग करता है, जिसमें अन्वेषण और पीछे मुड़कर न देखने के विषयों पर ध्यान केंद्रित किया गया है।
+
+#### 📝 Prompt
+
+```
+रॉकेट बूट्स आखिरकार उसे अंतरिक्ष तक ले ही गए... और वह अब कभी पीछे मुड़कर नहीं देखेगी
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070541395014942720/img/sJBFM8Zd0FLzyf6I.jpg" width="600" alt="रॉकेट बूट्स स्पेस जर्नी">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6693)**
+
+**Author:** [Sadie Supa Doge](https://x.com/SadieSupaDoge) | **Source:** [Link](https://x.com/SadieSupaDoge/status/2070541545548427407) | **Published:** Jun 26, 2026
 
 ---
 ### धुंधली सुबह का दृश्य
@@ -2052,120 +2173,6 @@ Ambience: अल्ट्रा-रियलिस्टिक 2024 समका
 **Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2068723970707448246) | **Published:** Jun 21, 2026
 
 ---
-### बुर्ज खलीफा के पास हॉलीवुड अभिनेता
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine के साथ बनाई गई, बुर्ज खलीफा के पास टहलते हुए एक हॉलीवुड अभिनेता की छवि के साथ रविवार की शुभकामना।
-
-#### 📝 Prompt
-
-```
-बुर्ज खलीफा के पास टहलते हुए एक लोकप्रिय हॉलीवुड अभिनेता की छवि जेनरेट करें, जिसमें ऊपर 'Good afternoon' लिखा हो #Goodafternoon #PositiveVibesOnly #Happysunday
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068609777744351232/img/6s_s09o0g9o_FkhW.jpg" width="600" alt="बुर्ज खलीफा के पास हॉलीवुड अभिनेता">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6292)**
-
-**Author:** [Ijaz Malik](https://x.com/Ijazmalik101) | **Source:** [Link](https://x.com/Ijazmalik101/status/2068609842198225254) | **Published:** Jun 21, 2026
-
----
-### Glowing Water Forest Night प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> तारों भरी रात के नीचे धुंधले जंगल के भीतर चमकते पानी में एक आकृति वाले दृश्य के लिए एक अलौकिक वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-वह चमकते पानी में इस तरह खड़ी है मानो रात खुद उसे थामे हुए हो। उसके पैरों के चारों ओर रोशनी धीरे-धीरे चल रही है जबकि जंगल धुंध और तारों के साथ सांस ले रहा है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068490361069076480/img/6BmW0ohNA3wEaGZ-.jpg" width="600" alt="Glowing Water Forest Night प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6321)**
-
-**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2068490736463384650) | **Published:** Jun 21, 2026
-
----
-### बहुरंगी ब्रह्मांडीय डॉल्फिन वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> बहुरंगी डॉल्फ़िन और घूमते हुए मार्बल फिलहारमोनी से जुड़ा एक अमूर्त ब्रह्मांडीय वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-कोरल फुलमिनेट्स डॉल्फिन बहुरंगी अंतरिक्ष में यात्रा करने वाली ब्रह्मांडीय घूमती हुई मार्बल फिलहारमोनी
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068468112869990401/img/Tnyy3JCHeBjf3-rh.jpg" width="600" alt="बहुरंगी ब्रह्मांडीय डॉल्फिन वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6284)**
-
-**Author:** [Nautilus](https://x.com/spectra_gallery) | **Source:** [Link](https://x.com/spectra_gallery/status/2068468174245204130) | **Published:** Jun 20, 2026
-
----
-### लाइब्रेरी कैंडललाइट रीडिंग वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक आरामदायक और मनमोहक वीडियो प्रॉम्प्ट, जिसमें एक महिला लाइब्रेरी में मोमबत्ती की रोशनी में चाय पीते हुए किताब पढ़ रही है।
-
-#### 📝 Prompt
-
-```
-सफेद और फ्लोरल सनड्रेस पहने एक महिला लाइब्रेरी में बैठी है, जो मोमबत्ती की रोशनी में किताब पढ़ रही है और चाय की चुस्की ले रही है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068443436907458560/img/BKhSpKdruR5QIV3G.jpg" width="600" alt="लाइब्रेरी कैंडललाइट रीडिंग वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6281)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2068443496047055334) | **Published:** Jun 20, 2026
-
----
-### अमेरिका की 250वीं वर्षगांठ का उत्सव
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> संयुक्त राज्य अमेरिका के 250वें 4 जुलाई उत्सव की कल्पना करने वाला एक उत्सवपूर्ण वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-आइए संयुक्त राज्य अमेरिका के 250वें 4 जुलाई उत्सव के जश्न की कल्पना करें
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068424487704358912/img/Efwa0bE4L3mr4DKD.jpg" width="600" alt="अमेरिका की 250वीं वर्षगांठ का उत्सव">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6287)**
-
-**Author:** [Mark Tatum](https://x.com/Mark561256) | **Source:** [Link](https://x.com/Mark561256/status/2068424560634933349) | **Published:** Jun 20, 2026
-
----
-### बर्फ में योद्धा और भेड़िया
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक ठंडे, बर्फीले जंगल में अकेले योद्धा और उसके भेड़िया साथी को दर्शाने वाला एक वायुमंडलीय फैंटेसी वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-मास्टरपीस, सर्वोत्तम गुणवत्ता, एक बर्फीले जंगल में अपने सफेद भेड़िया साथी के साथ खड़े एक अकेले योद्धा की अति-विस्तृत फैंटेसी कॉन्सेप्ट आर्ट। योद्धा ने मजबूत कवच पहना है और उसके पास एक धनुष और तीरों से भरा तरकश है। भेड़िये के फर पर लाल निशान हैं। दृश्य को नरम रोशनी, बर्फ से ढके पेड़ों और ठंडे, धुंधले शीतकालीन वातावरण के साथ एक ढीली, वायुमंडलीय शैली में चित्रित किया गया है। अत्यधिक विस्तृत बनावट और मूडी वातावरण। सिनेमाई संरचना, सर्वोत्तम गुणवत्ता, 8K रिज़ॉल्यूशन।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068340037226553344/img/sEvowCCTycqnzYtP.jpg" width="600" alt="बर्फ में योद्धा और भेड़िया">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6291)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2068400992690061567) | **Published:** Jun 20, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2227,6 +2234,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-02T04:19:44.376Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-02T11:05:30.773Z</sub>
 
 </div>

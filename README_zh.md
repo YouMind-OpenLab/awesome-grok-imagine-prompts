@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **2012** |
+| 📝 提示词总数 | **2018** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-07-02** |
 
@@ -189,6 +189,108 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 超高速银河飞行
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段以第一人称视角呈现的电影级画面，展示了驾驶星际飞船在宇宙中以惊人速度穿行的场景。
+
+#### 📝 提示词
+
+```
+展示当一个人驾驶超高速星际飞船穿梭于银河系时，星系和宇宙所呈现的视觉景象
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072401211228368896/img/B8OWZeiqXtzuE39W.jpg" width="600" alt="超高速银河飞行">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6688)**
+
+**作者:** [Joel Rubin](https://x.com/rubinfrek) | **来源:** [Link](https://x.com/rubinfrek/status/2072401266643435712) | **发布时间:** Jul 1, 2026
+
+---
+### 骷髅骑羊攀登高山之旅
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个史诗般的电影感提示词，描述了一具骷髅骑着公羊攀登高山并寻找绿洲的场景。
+
+#### 📝 提示词
+
+```
+骷髅与公羊联手，踏上了一段攀登几乎无法逾越的山峰的旅程，旨在将绿洲据为己有。骷髅赤身骑在羊背上，它们幻化出维京风格的装束，以抵御恶劣的自然环境。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072397997292318720/img/mGVhbANggljFLLSI.jpg" width="600" alt="骷髅骑羊攀登高山之旅">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6691)**
+
+**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **来源:** [Link](https://x.com/PhilipCarrn7711/status/2072398081010663454) | **发布时间:** Jul 1, 2026
+
+---
+### X Logo 在泳池上方的旋转动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于让 X 社交媒体 Logo 在特定现实场景中旋转并盖章的提示词。
+
+#### 📝 提示词
+
+```
+如果万物皆有意义……让 X 旋转出现，向城市滑板场地方向稍微后撤，随后以一个巨大的 X 盖章强力回归。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072311275963510784/img/sOJ8tRm_MeYTG3hq.jpg" width="600" alt="X Logo 在泳池上方的旋转动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6692)**
+
+**作者:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **来源:** [Link](https://x.com/Soaring2TheMoon/status/2072311328593580286) | **发布时间:** Jul 1, 2026
+
+---
+### 第一人称视角：骑扫帚飞行
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段简洁的视频提示词，用于生成以第一人称视角在森林中高速骑扫帚飞行的画面。
+
+#### 📝 提示词
+
+```
+第一人称视角。两只女性的手紧紧握住飞行扫帚的把手，扫帚在森林中疾驰。树梢以极高的速度不断掠过。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072204746245701632/img/aP5IPn_7IsloIQ6z.jpg" width="600" alt="第一人称视角：骑扫帚飞行">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6690)**
+
+**作者:** [Curious 1](https://x.com/CuriousOne_01) | **来源:** [Link](https://x.com/CuriousOne_01/status/2072206170862108699) | **发布时间:** Jul 1, 2026
+
+---
+### 超现实天堂空灵交易
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个极具灵性与超现实感的视频提示词，描述了在天堂中进行的交易，包含发光的球体和黄金大门。
+
+#### 📝 提示词
+
+```
+超现实天堂交易，光芒四射的天堂作为买方，接收来自人类卖方的编号为 9 和 10 的发光球体以及一片寂静的虚空，黄金大门与云层，售往天堂主题，空灵的精神超现实主义。
+
+黑色整体即是 IT。 !?!
+领悟它。
+Youman，
+你就是我们；在一起，
+整体：家。
+信仰于我。信仰于你。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072108610130255872/img/vkW6DDMNd7FeE_f-.jpg" width="600" alt="超现实天堂空灵交易">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6689)**
+
+**作者:** [ATom](https://x.com/ThomasSwaff) | **来源:** [Link](https://x.com/ThomasSwaff/status/2072108676257546477) | **发布时间:** Jul 1, 2026
+
+---
 ### 月球家园延时摄影
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -857,6 +959,25 @@ Mira 引导镜头在“Attack of the 50 Foot Housewife”微缩房屋场景中�
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6528)**
 
 **作者:** [Ray Salmon](https://x.com/salmon1820) | **来源:** [Link](https://x.com/salmon1820/status/2070579069708570890) | **发布时间:** Jun 26, 2026
+
+---
+### 火箭靴太空之旅
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段描述角色使用火箭靴前往太空的提示词，重点突出了探索精神以及义无反顾的决心。
+
+#### 📝 提示词
+
+```
+火箭靴终于带她飞向了太空……她再也没有回头
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070541395014942720/img/sJBFM8Zd0FLzyf6I.jpg" width="600" alt="火箭靴太空之旅">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6693)**
+
+**作者:** [Sadie Supa Doge](https://x.com/SadieSupaDoge) | **来源:** [Link](https://x.com/SadieSupaDoge/status/2070541545548427407) | **发布时间:** Jun 26, 2026
 
 ---
 ### 薄雾晨曦中的嘶吼场景
@@ -2052,120 +2173,6 @@ Elena 穿过闪烁的传送门，进入广阔的 Playroom，她环顾四周，�
 **作者:** [⭕Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2068723970707448246) | **发布时间:** Jun 21, 2026
 
 ---
-### 哈利法塔附近的 Hollywood 演员
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一张周日问候图片，展示了一位 Hollywood 演员在哈利法塔附近散步的场景，由 Grok Imagine 生成。
-
-#### 📝 提示词
-
-```
-生成一张热门 Hollywood 演员在哈利法塔附近散步的图片，并在顶部标注“Good afternoon” #Goodafternoon #PositiveVibesOnly #Happysunday
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068609777744351232/img/6s_s09o0g9o_FkhW.jpg" width="600" alt="哈利法塔附近的 Hollywood 演员">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6292)**
-
-**作者:** [Ijaz Malik](https://x.com/Ijazmalik101) | **来源:** [Link](https://x.com/Ijazmalik101/status/2068609842198225254) | **发布时间:** Jun 21, 2026
-
----
-### 发光水域森林之夜提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个空灵的视频提示词，描绘了星空下雾气弥漫的森林中，人物站在发光水域里的场景。
-
-#### 📝 提示词
-
-```
-她伫立在发光的水中，仿佛被黑夜本身所拥抱。光影在她脚边轻柔流转，森林在星光下吐纳着氤氲雾气。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068490361069076480/img/6BmW0ohNA3wEaGZ-.jpg" width="600" alt="发光水域森林之夜提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6321)**
-
-**作者:** [SophieZX](https://x.com/Z_XSophie) | **来源:** [Link](https://x.com/Z_XSophie/status/2068490736463384650) | **发布时间:** Jun 21, 2026
-
----
-### 万花筒般的宇宙海豚视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个抽象的宇宙视频提示词，包含万花筒般的海豚和漫游的大理石交响乐。
-
-#### 📝 提示词
-
-```
-珊瑚雷鸣般的海豚万花筒太空漫游宇宙大理石交响乐
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068468112869990401/img/Tnyy3JCHeBjf3-rh.jpg" width="600" alt="万花筒般的宇宙海豚视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6284)**
-
-**作者:** [Nautilus](https://x.com/spectra_gallery) | **来源:** [Link](https://x.com/spectra_gallery/status/2068468174245204130) | **发布时间:** Jun 20, 2026
-
----
-### 图书馆烛光阅读视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段温馨且富有氛围感的视频提示词：一位女性在图书馆里伴着烛光阅读并品茶。
-
-#### 📝 提示词
-
-```
-一位身穿白色碎花连衣裙的女性坐在图书馆里，在烛光下阅读并品茶。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068443436907458560/img/BKhSpKdruR5QIV3G.jpg" width="600" alt="图书馆烛光阅读视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6281)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2068443496047055334) | **发布时间:** Jun 20, 2026
-
----
-### 美国建国 250 周年庆典
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个充满节日氛围的视频提示词，构想美国 7 月 4 日 250 周年庆典的盛况。
-
-#### 📝 提示词
-
-```
-让我们构想一场美国 7 月 4 日 250 周年庆典
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068424487704358912/img/Efwa0bE4L3mr4DKD.jpg" width="600" alt="美国建国 250 周年庆典">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6287)**
-
-**作者:** [Mark Tatum](https://x.com/Mark561256) | **来源:** [Link](https://x.com/Mark561256/status/2068424560634933349) | **发布时间:** Jun 20, 2026
-
----
-### 雪中的战士与狼
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个充满氛围感的奇幻视频提示词，描绘了一名孤独的战士与他的狼伙伴在寒冷雪林中的场景。
-
-#### 📝 提示词
-
-```
-杰作，最高画质，超精细的奇幻概念艺术，描绘了一名孤独的战士与他的白狼伙伴站在雪林中。战士身穿粗犷的盔甲，背着弓和箭袋。狼的皮毛上有红色斑纹。场景采用写意且富有氛围感的风格绘制，光线柔和，树木覆盖着积雪，呈现出寒冷、朦胧的冬季环境。纹理高度精细，氛围感十足。电影级构图，最高画质，8K 分辨率。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068340037226553344/img/sEvowCCTycqnzYtP.jpg" width="600" alt="雪中的战士与狼">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6291)**
-
-**作者:** [⭕Kisalay](https://x.com/Kisalay_) | **来源:** [Link](https://x.com/Kisalay_/status/2068400992690061567) | **发布时间:** Jun 20, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2227,6 +2234,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-07-02T04:19:35.943Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-07-02T11:05:23.869Z</sub>
 
 </div>

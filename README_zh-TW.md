@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **2012** |
+| 📝 提示詞總數 | **2018** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-07-02** |
 
@@ -189,6 +189,108 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 超高速銀河飛行
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 以第一人稱視角，呈現駕駛星際飛船在宇宙中以極高速度穿梭的電影級畫面。
+
+#### 📝 提示詞
+
+```
+展示從駕駛超高速星際飛船穿梭於銀河系的人員視角中，銀河與宇宙會呈現出什麼樣的景象
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072401211228368896/img/B8OWZeiqXtzuE39W.jpg" width="600" alt="超高速銀河飛行">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6688)**
+
+**作者:** [Joel Rubin](https://x.com/rubinfrek) | **來源:** [Link](https://x.com/rubinfrek/status/2072401266643435712) | **發布時間:** Jul 1, 2026
+
+---
+### 骷髏騎乘公羊攀登高山任務
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個史詩般的電影級提示詞，描述骷髏騎著公羊攀登高山並尋找綠洲的場景。
+
+#### 📝 提示詞
+
+```
+骷髏與公羊聯手展開冒險，攀登這座幾乎無法征服的山壁，只為奪取那片綠洲。骷髏以裸背方式騎乘公羊，並幻化出維京服飾以抵禦嚴酷的氣候。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072397997292318720/img/mGVhbANggljFLLSI.jpg" width="600" alt="骷髏騎乘公羊攀登高山任務">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6691)**
+
+**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **來源:** [Link](https://x.com/PhilipCarrn7711/status/2072398081010663454) | **發布時間:** Jul 1, 2026
+
+---
+### X Logo 在泳池上方的旋轉動畫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個讓 X 社群媒體 Logo 在特定現實場景中旋轉並蓋章的提示詞。
+
+#### 📝 提示詞
+
+```
+如果萬物皆有意義……讓 X 旋轉並呈現出向城市滑板場稍微後退的效果，隨後以一個巨大的 X 蓋章強勢回歸。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072311275963510784/img/sOJ8tRm_MeYTG3hq.jpg" width="600" alt="X Logo 在泳池上方的旋轉動畫">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6692)**
+
+**作者:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **來源:** [Link](https://x.com/Soaring2TheMoon/status/2072311328593580286) | **發布時間:** Jul 1, 2026
+
+---
+### 第一人稱視角：騎乘飛天掃帚
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段簡潔的影片提示詞，用於呈現以第一人稱視角高速穿梭於森林中的飛天掃帚體驗。
+
+#### 📝 提示詞
+
+```
+第一人稱視角。兩隻女性的手緊緊握住飛天掃帚的握把，掃帚正高速穿梭於森林之中。樹梢以極快的速度不斷掠過。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072204746245701632/img/aP5IPn_7IsloIQ6z.jpg" width="600" alt="第一人稱視角：騎乘飛天掃帚">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6690)**
+
+**作者:** [Curious 1](https://x.com/CuriousOne_01) | **來源:** [Link](https://x.com/CuriousOne_01/status/2072206170862108699) | **發布時間:** Jul 1, 2026
+
+---
+### 超現實天堂空靈交易
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段極具靈性與超現實感的影片提示詞，描述了在天堂進行的一場交易，場景包含發光的球體與黃金大門。
+
+#### 📝 提示詞
+
+```
+超現實天堂交易，光芒萬丈的天堂作為買方，接收編號為九與十的發光球體，以及來自人類賣方的無聲虛空，背景為黃金大門與雲朵，主題為售予天堂，空靈的靈性超現實主義。
+
+黑洞即是 IT。 !?!
+領悟它。
+Youman，
+你是我們；在一起，
+整體：家。
+相信我。相信你。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072108610130255872/img/vkW6DDMNd7FeE_f-.jpg" width="600" alt="超現實天堂空靈交易">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6689)**
+
+**作者:** [ATom](https://x.com/ThomasSwaff) | **來源:** [Link](https://x.com/ThomasSwaff/status/2072108676257546477) | **發布時間:** Jul 1, 2026
+
+---
 ### 月球家園縮時攝影
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -857,6 +959,25 @@ Mira 引導鏡頭進行一場趣味導覽，深入「Attack of the 50 Foot House
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6528)**
 
 **作者:** [Ray Salmon](https://x.com/salmon1820) | **來源:** [Link](https://x.com/salmon1820/status/2070579069708570890) | **發布時間:** Jun 26, 2026
+
+---
+### 火箭靴太空之旅
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段描述角色使用火箭靴前往太空的提示詞，聚焦於探索主題以及義無反顧的決心。
+
+#### 📝 提示詞
+
+```
+火箭靴終於帶著她一路飛向太空……而她絕不回頭
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070541395014942720/img/sJBFM8Zd0FLzyf6I.jpg" width="600" alt="火箭靴太空之旅">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6693)**
+
+**作者:** [Sadie Supa Doge](https://x.com/SadieSupaDoge) | **來源:** [Link](https://x.com/SadieSupaDoge/status/2070541545548427407) | **發布時間:** Jun 26, 2026
 
 ---
 ### 霧氣繚繞的清晨場景
@@ -2052,120 +2173,6 @@ Elena 穿過閃爍的傳送門進入廣闊的 Playroom，她睜大雙眼，神�
 **作者:** [⭕Kisalay](https://x.com/Kisalay_) | **來源:** [Link](https://x.com/Kisalay_/status/2068723970707448246) | **發布時間:** Jun 21, 2026
 
 ---
-### 在 Burj Khalifa 附近的荷里活演員
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一張週日問候圖片，展示了一位荷里活演員在 Burj Khalifa 附近漫步的場景，由 Grok Imagine 生成。
-
-#### 📝 提示詞
-
-```
-生成一張熱門荷里活演員在 Burj Khalifa 附近漫步的圖片，並在頂部加上「Good afternoon」字樣 #Goodafternoon #PositiveVibesOnly #Happysunday
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068609777744351232/img/6s_s09o0g9o_FkhW.jpg" width="600" alt="在 Burj Khalifa 附近的荷里活演員">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6292)**
-
-**作者:** [Ijaz Malik](https://x.com/Ijazmalik101) | **來源:** [Link](https://x.com/Ijazmalik101/status/2068609842198225254) | **發布時間:** Jun 21, 2026
-
----
-### 發光水域森林之夜提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個空靈的影片提示詞，描繪了一個人物站在星空下霧氣繚繞的森林中，身處發光水域的場景。
-
-#### 📝 提示詞
-
-```
-她站在發光的水中，彷彿黑夜正擁抱著她。光影在她腳邊輕柔流動，而森林則吐納著霧氣與星光。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068490361069076480/img/6BmW0ohNA3wEaGZ-.jpg" width="600" alt="發光水域森林之夜提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6321)**
-
-**作者:** [SophieZX](https://x.com/Z_XSophie) | **來源:** [Link](https://x.com/Z_XSophie/status/2068490736463384650) | **發布時間:** Jun 21, 2026
-
----
-### 萬花筒宇宙海豚影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個抽象的宇宙影片提示詞，包含萬花筒海豚與漫遊的大理石愛樂樂團。
-
-#### 📝 提示詞
-
-```
-珊瑚雷鳴般的萬花筒海豚，遨遊於太空的宇宙漫遊大理石愛樂樂團
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068468112869990401/img/Tnyy3JCHeBjf3-rh.jpg" width="600" alt="萬花筒宇宙海豚影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6284)**
-
-**作者:** [Nautilus](https://x.com/spectra_gallery) | **來源:** [Link](https://x.com/spectra_gallery/status/2068468174245204130) | **發布時間:** Jun 20, 2026
-
----
-### 圖書館燭光閱讀影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段溫馨且充滿氛圍感的影片提示詞，描述一位女性在圖書館內伴著燭光閱讀並品茶的場景。
-
-#### 📝 提示詞
-
-```
-一位身穿白色碎花洋裝的女性坐在圖書館裡，在燭光下閱讀並啜飲著茶。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068443436907458560/img/BKhSpKdruR5QIV3G.jpg" width="600" alt="圖書館燭光閱讀影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6281)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2068443496047055334) | **發布時間:** Jun 20, 2026
-
----
-### 美國建國 250 週年慶典
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個充滿節慶氛圍的影片提示詞，旨在構想美國 250 週年 7 月 4 日獨立紀念日的慶祝活動。
-
-#### 📝 提示詞
-
-```
-讓我們一起構想美國建國 250 週年 7 月 4 日的慶祝活動
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068424487704358912/img/Efwa0bE4L3mr4DKD.jpg" width="600" alt="美國建國 250 週年慶典">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6287)**
-
-**作者:** [Mark Tatum](https://x.com/Mark561256) | **來源:** [Link](https://x.com/Mark561256/status/2068424560634933349) | **發布時間:** Jun 20, 2026
-
----
-### 雪地中的戰士與狼
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個充滿氛圍感的奇幻影片提示詞，描繪了一位孤獨的戰士與他的狼夥伴在寒冷雪林中的場景。
-
-#### 📝 提示詞
-
-```
-傑作，最高品質，超細節奇幻概念藝術，描繪了一位孤獨的戰士與他的白狼夥伴站在雪林中。戰士身穿粗獷的盔甲，背著弓與箭袋。狼的毛皮上有紅色斑紋。場景採用寫意且具氛圍感的風格繪製，光線柔和，樹木覆蓋著積雪，呈現出寒冷、霧氣繚繞的冬季環境。極致的紋理細節與情緒氛圍。電影級構圖，最高品質，8K 解析度。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068340037226553344/img/sEvowCCTycqnzYtP.jpg" width="600" alt="雪地中的戰士與狼">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6291)**
-
-**作者:** [⭕Kisalay](https://x.com/Kisalay_) | **來源:** [Link](https://x.com/Kisalay_/status/2068400992690061567) | **發布時間:** Jun 20, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2227,6 +2234,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-07-02T04:19:37.367Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-07-02T11:05:25.219Z</sub>
 
 </div>

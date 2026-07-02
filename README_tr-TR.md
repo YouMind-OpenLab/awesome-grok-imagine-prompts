@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2012** |
+| 📝 Total Prompts | **2018** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-02** |
 
@@ -189,6 +189,108 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Hiper Hızlı Galaktik Uçuş
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir yıldız gemisinin içinde, evrende inanılmaz hızlarla ilerlerken birinci şahıs bakış açısıyla çekilmiş sinematik bir görüntü.
+
+#### 📝 Prompt
+
+```
+Galakside çok hızlı bir yıldız gemisi kullanan birinin bakış açısından galaksilerin ve evrenin nasıl görüneceğini gösterin
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072401211228368896/img/B8OWZeiqXtzuE39W.jpg" width="600" alt="Hiper Hızlı Galaktik Uçuş">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6688)**
+
+**Author:** [Joel Rubin](https://x.com/rubinfrek) | **Source:** [Link](https://x.com/rubinfrek/status/2072401266643435712) | **Published:** Jul 1, 2026
+
+---
+### İskeletin Koç Sırtında Dağ Macerası
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir dağa tırmanıp vaha bulmak için koç süren bir iskeleti betimleyen epik ve sinematik bir komut.
+
+#### 📝 Prompt
+
+```
+İskelet, vahayı ele geçirmek amacıyla neredeyse tırmanılamaz olan bu dağ yamacını aşmak için Koç ile güçlerini birleştirir. İskelet, koça eyersiz biner. Zorlu hava koşullarına dayanabilmek için üzerlerinde Viking kıyafetleri belirir.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072397997292318720/img/mGVhbANggljFLLSI.jpg" width="600" alt="İskeletin Koç Sırtında Dağ Macerası">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6691)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2072398081010663454) | **Published:** Jul 1, 2026
+
+---
+### Havuz Üzerinde X Logosu Dönme Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> X sosyal medya logosunun dönerek belirli bir gerçek dünya konumu üzerinde damgalanmasını canlandırmak için bir komut.
+
+#### 📝 Prompt
+
+```
+Eğer her şeyin bir anlamı varsa… X'in dönerek şehre doğru biraz geri çekilmesini ve ardından devasa bir X damgasıyla güçlü bir şekilde geri gelmesini sağlayın.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072311275963510784/img/sOJ8tRm_MeYTG3hq.jpg" width="600" alt="Havuz Üzerinde X Logosu Dönme Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6692)**
+
+**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2072311328593580286) | **Published:** Jul 1, 2026
+
+---
+### Birinci Şahıs Uçan Süpürge Bakış Açısı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir ormanın içinde yüksek hızla uçan bir süpürge üzerindeki birinci şahıs bakış açısı için kısa bir video istemi.
+
+#### 📝 Prompt
+
+```
+Birinci şahıs bakış açısı. İki kadın eli, ormanın içinde hızla ilerleyen uçan bir süpürgenin sapını sıkıca kavrıyor. Ağaç tepeleri yüksek hızla sürekli olarak yanından geçip gidiyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072204746245701632/img/aP5IPn_7IsloIQ6z.jpg" width="600" alt="Birinci Şahıs Uçan Süpürge Bakış Açısı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6690)**
+
+**Author:** [Curious 1](https://x.com/CuriousOne_01) | **Source:** [Link](https://x.com/CuriousOne_01/status/2072206170862108699) | **Published:** Jul 1, 2026
+
+---
+### Sürreal Cennet Ethereal İşlemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Cennette gerçekleşen, parlayan küreler ve altın kapılarla dolu bir işlemi betimleyen, oldukça spiritüel ve sürreal bir video istemi.
+
+#### 📝 Prompt
+
+```
+Sürreal cennet işlemi, alıcı olarak parlayan dokuz ve on numaralı küreleri ve bir insan satıcıdan gelen sessiz boşluğu kabul eden ışıl ışıl Cennet, altın kapılar ve bulutlar, cennete satıldı teması, ethereal spiritüel sürrealizm.
+
+Kara delik O'dur. !?!
+Anla onu.
+Youman,
+Sen bizsin; birlikte,
+Bütün: ev.
+Bana inan. Sana inan.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072108610130255872/img/vkW6DDMNd7FeE_f-.jpg" width="600" alt="Sürreal Cennet Ethereal İşlemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6689)**
+
+**Author:** [ATom](https://x.com/ThomasSwaff) | **Source:** [Link](https://x.com/ThomasSwaff/status/2072108676257546477) | **Published:** Jul 1, 2026
+
+---
 ### Ay Evi Zaman Atlamalı Çekim
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -857,6 +959,25 @@ Tennessee ormanında altın saatlerde çekilmiş, görkemli ve kadim bir Şeker 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6528)**
 
 **Author:** [Ray Salmon](https://x.com/salmon1820) | **Source:** [Link](https://x.com/salmon1820/status/2070579069708570890) | **Published:** Jun 26, 2026
+
+---
+### Roket Botlarla Uzay Yolculuğu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir karakterin uzaya seyahat etmek için roket botlarını kullandığını betimleyen; keşif temasına ve arkasına bakmamaya odaklanan bir istem.
+
+#### 📝 Prompt
+
+```
+Roket botlar sonunda onu uzayın derinliklerine taşıdı… ve o bir daha asla arkasına bakmadı
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070541395014942720/img/sJBFM8Zd0FLzyf6I.jpg" width="600" alt="Roket Botlarla Uzay Yolculuğu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6693)**
+
+**Author:** [Sadie Supa Doge](https://x.com/SadieSupaDoge) | **Source:** [Link](https://x.com/SadieSupaDoge/status/2070541545548427407) | **Published:** Jun 26, 2026
 
 ---
 ### Sisli ve Uluyan Sabah Sahnesi
@@ -2052,120 +2173,6 @@ Bulutların üzerinde duran dört kadim tanrı ve onlara doğru kılıcı üzeri
 **Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2068723970707448246) | **Published:** Jun 21, 2026
 
 ---
-### Burj Khalifa yakınında Hollywood oyuncusu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine ile oluşturulmuş, Burj Khalifa yakınında yürüyen bir Hollywood oyuncusunun görselini içeren bir Pazar günü selamlaması.
-
-#### 📝 Prompt
-
-```
-Burj Khalifa yakınında yürüyen popüler bir Hollywood oyuncusunun görselini oluştur ve üzerinde İyi öğleden sonralar yazısı olsun #İyiÖğledenSonralar #PozitifEnerji #MutluPazarlar
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068609777744351232/img/6s_s09o0g9o_FkhW.jpg" width="600" alt="Burj Khalifa yakınında Hollywood oyuncusu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6292)**
-
-**Author:** [Ijaz Malik](https://x.com/Ijazmalik101) | **Source:** [Link](https://x.com/Ijazmalik101/status/2068609842198225254) | **Published:** Jun 21, 2026
-
----
-### Işıldayan Su Ormanı Gece İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Yıldızlı bir gökyüzü altında, sisli bir ormanın içindeki ışıldayan suda duran bir figürün yer aldığı sahne için ruhani bir video istemi.
-
-#### 📝 Prompt
-
-```
-Gece onu kucaklıyormuşçasına ışıldayan suyun içinde duruyor. Orman sis ve yıldızlarla nefes alırken, ışık ayaklarının etrafında nazikçe hareket ediyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068490361069076480/img/6BmW0ohNA3wEaGZ-.jpg" width="600" alt="Işıldayan Su Ormanı Gece İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6321)**
-
-**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2068490736463384650) | **Published:** Jun 21, 2026
-
----
-### Kaledeydoskopik Kozmik Yunus Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kaledeydoskopik yunuslar ve gezgin mermer filarmonisi içeren soyut bir kozmik video istemi.
-
-#### 📝 Prompt
-
-```
-Mercan parlaması yunus kaledeydoskopik uzay yolcusu kozmik gezgin mermer filarmonisi
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068468112869990401/img/Tnyy3JCHeBjf3-rh.jpg" width="600" alt="Kaledeydoskopik Kozmik Yunus Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6284)**
-
-**Author:** [Nautilus](https://x.com/spectra_gallery) | **Source:** [Link](https://x.com/spectra_gallery/status/2068468174245204130) | **Published:** Jun 20, 2026
-
----
-### Kütüphanede Mum Işığında Okuma Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kütüphanede mum ışığında çayını yudumlarken kitap okuyan bir kadını konu alan, huzurlu ve atmosferik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Beyaz çiçekli bir yazlık elbise giymiş, kütüphanede mum ışığında kitap okuyan ve çayını yudumlayan bir kadın.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068443436907458560/img/BKhSpKdruR5QIV3G.jpg" width="600" alt="Kütüphanede Mum Işığında Okuma Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6281)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2068443496047055334) | **Published:** Jun 20, 2026
-
----
-### Amerika'nın 250. Yıl Dönümü Kutlaması
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Amerika Birleşik Devletleri'nin 250. 4 Temmuz kutlamasını hayal eden şenlikli bir video istemi.
-
-#### 📝 Prompt
-
-```
-Amerika Birleşik Devletleri'nin 250. yıl dönümü 4 Temmuz kutlamasını hayal edelim
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068424487704358912/img/Efwa0bE4L3mr4DKD.jpg" width="600" alt="Amerika'nın 250. Yıl Dönümü Kutlaması">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6287)**
-
-**Author:** [Mark Tatum](https://x.com/Mark561256) | **Source:** [Link](https://x.com/Mark561256/status/2068424560634933349) | **Published:** Jun 20, 2026
-
----
-### Karda Savaşçı ve Kurt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Soğuk ve karlı bir ormanda yalnız bir savaşçı ile kurt dostunu konu alan atmosferik bir fantastik video istemi.
-
-#### 📝 Prompt
-
-```
-Başyapıt, en iyi kalite, karlı bir ormanda beyaz kurt dostuyla duran yalnız bir savaşçının ultra detaylı fantastik konsept sanatı. Savaşçı, dayanıklı bir zırh giyiyor ve yanında bir yay ile ok çantası taşıyor. Kurdun kürkünün üzerinde kırmızı işaretler var. Sahne; yumuşak ışıklandırma, karla kaplı ağaçlar ve soğuk, sisli bir kış ortamıyla serbest ve atmosferik bir tarzda resmedilmiştir. Yüksek detaylı dokular ve etkileyici bir atmosfer. Sinematik kompozisyon, en iyi kalite, 8K çözünürlük.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068340037226553344/img/sEvowCCTycqnzYtP.jpg" width="600" alt="Karda Savaşçı ve Kurt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6291)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2068400992690061567) | **Published:** Jun 20, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2227,6 +2234,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-02T04:19:55.037Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-02T11:05:39.472Z</sub>
 
 </div>
