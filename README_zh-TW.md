@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **2018** |
+| 📝 提示詞總數 | **2031** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-07-03** |
 
@@ -189,6 +189,257 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 貓咪與鈔票堆
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段細膩的動態影片提示詞，描繪貓咪坐在鈔票堆上，氣球在柔和的臥室光線下輕微晃動。
+
+#### 📝 提示詞
+
+```
+鏡頭緩慢平移。貓咪在鈔票堆上眨眼並擺動尾巴；小貓輕拍金色氣球，使其輕微晃動。情侶保持親吻姿勢。柔和的臥室光線，僅有細微的動作。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072808304477159424/img/1KSoWQMoOXanp_SJ.jpg" width="600" alt="貓咪與鈔票堆">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6741)**
+
+**作者:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **來源:** [Link](https://x.com/maggiejuang1/status/2072808375604117939) | **發布時間:** Jul 2, 2026
+
+---
+### 星光與蒲公英種子的女神
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個充滿詩意的影片提示詞，描述了一位角色在世界盡頭釋放發光的蒲公英種子，並將其轉化為明日之星的畫面。
+
+#### 📝 提示詞
+
+```
+她佇立在萬物的盡頭，雙手捧著昨日的願望。當她終於放開那些發光的蒲公英種子時，它們緩緩升起、綻放，化作了明日的星辰。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072801371737202689/img/o54qn6BMN41w_nr2.jpg" width="600" alt="星光與蒲公英種子的女神">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6747)**
+
+**作者:** [SophieZX](https://x.com/Z_XSophie) | **來源:** [Link](https://x.com/Z_XSophie/status/2072801622640525764) | **發布時間:** Jul 2, 2026
+
+---
+### Boutique Garden Hair Salon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個為坐落於花園中的精品美髮沙龍所設計的精細電影級提示詞，包含玻璃牆面、香草步道以及溫暖的木質室內裝潢。
+
+#### 📝 提示詞
+
+```
+一間坐落於花園環境中的寧靜精品美髮沙龍，落地窗外是景觀露台，石板小徑旁擺放著種植迷迭香、薰衣草、鼠尾草和薄荷的陶盆。室內採用溫暖的木質櫃檯、編織椅，並呈現柔和的戲劇性光影效果
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072794304259424256/img/2gY6VzYvGxDCtXUv.jpg" width="600" alt="Boutique Garden Hair Salon">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6743)**
+
+**作者:** [Lala](https://x.com/LalaBFox) | **來源:** [Link](https://x.com/LalaBFox/status/2072794777272099095) | **發布時間:** Jul 2, 2026
+
+---
+### Buick Enclave 女性化設計
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段描述 Buick Enclave 側面視角、具備優雅女性化設計與健康食品意象的影片提示詞。
+
+#### 📝 提示詞
+
+```
+Buick Enclave 的側面視角，車身採用優雅的女性化設計，搭配溫暖的中性色調，呈現新鮮健康食品的精美意象，包含色彩繽紛的果昔、精緻的墨西哥粽 (tamales) 以及新鮮食材
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072764635900432384/img/DRqnx5MrpZvA0eOV.jpg" width="600" alt="Buick Enclave 女性化設計">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6738)**
+
+**作者:** [Lala](https://x.com/LalaBFox) | **來源:** [Link](https://x.com/LalaBFox/status/2072764809699811343) | **發布時間:** Jul 2, 2026
+
+---
+### 哥德風仙子與時尚男子漫步
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段電影感影片提示詞，描述一位穿著厚底高跟鞋的哥德風仙子，與一位身穿銀飾黑色西裝的帥氣男子並肩走在路上。
+
+#### 📝 提示詞
+
+```
+哥德風仙子 
+厚底高跟鞋 
+走在路上
+身旁伴隨著一位帥氣男子，穿著帶有銀色裝飾的時尚黑色西裝
+他們在心照不宣的沉默中並肩前行
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072712144089735168/img/w8KweMtlETnNpbhT.jpg" width="600" alt="哥德風仙子與時尚男子漫步">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6737)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2072712207855673501) | **發布時間:** Jul 2, 2026
+
+---
+### 韓式紀錄片風格影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個細節豐富、多場景的影片提示詞，採用 2000 年代 DV 攝影機美學，捕捉韓國社區的生活片段。
+
+#### 📝 提示詞
+
+```
+主要對象：年輕韓國女性，20 歲出頭，自然日常裝扮，身穿褪色炭灰色無袖短版上衣、寬鬆高腰淺色牛仔褲、黑色帆布鞋、黑色繩狀項鍊，黑色波浪捲髮紮成凌亂的側邊馬尾，留著細碎瀏海。真實的皮膚質感，極簡妝容，性格溫暖且平易近人。在整支影片中保持一致的身分、服裝、髮型與外貌。
+地點：寧靜上午時分的真實韓國住宅區。狹窄的混凝土巷弄、低矮民宅、小型露台、盆栽、晾衣繩、腳踏車、電線桿、頭頂電線、成熟樹木投下移動的陰影，安靜的居住氛圍。無商店、廣告、咖啡廳、人群或商業活動。
+視覺風格：超寫實紀錄片風格。真實的隨拍行為。自然的肢體語言。無劇本的生活片段感。強烈的環境真實感。豐富的現實世界細節與可信的人類動作。
+攝影風格：2000 年代初期消費級 DV 攝影機美學。朋友隨意記錄日常時刻的視角。強烈的手持晃動、不完美的構圖、頻繁的自動對焦搜尋、鏡頭呼吸效應、在陽光與陰影間移動時的曝光波動、偶爾的動態模糊、細微的果凍效應、輕微的數位壓縮偽影、褪色的色彩、柔和的對比度、輕微的感光元件雜訊。無穩定器。無電影級運鏡。無現代調色。
+00:00–00:02
+小房子門口外。她坐在低矮的混凝土牆上，雙手舉起調整馬尾。微風吹動散落的髮絲。她自然地微笑，同時攝影機努力保持對焦。
+00:02–00:04
+攝影機跟隨她進入一條擺滿盆栽與混凝土牆的狹窄巷弄。她注意到一隻流浪貓靠近並蹲下。當拍攝者試圖跟上時，構圖稍微偏離中心。
+00:04–00:06
+她溫柔地撫摸並餵食貓咪。自動對焦在她的臉部與動物之間反覆切換。晨光透過頭頂的葉片閃爍。
+00:06–00:08
+她家旁邊的小前院。她將衣物掛在晾衣繩上，布料在微風中搖曳。當雲層短暫飄過頭頂時，曝光隨之改變。
+00:08–00:10
+在一個安靜的露台上，手拿陶瓷咖啡杯。她舒適地坐著觀察社區，偶爾將頭髮撥到耳後。寬鬆的手持側拍角度，帶有自然的攝影機漂移。
+00:10–00:12
+近距離側面特寫。鏡頭外有人向她打招呼。她轉身、舉手、溫暖地微笑，隨意地說了一聲「Annyeong」。攝影機捕捉到這一刻時稍微慢了半拍。
+00:12–00:15
+手拿咖啡杯，緩慢地走在綠樹成蔭的住宅小巷中。她注意到攝影機，露出一個真誠的淺笑，隨後轉過頭繼續行走。錄影在動作進行中突然切換至全黑，就像攝影機被關掉了一樣。
+
+音訊：僅限自然環境音 — 早晨鳥鳴、遠處摩托車聲、輕微風聲
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072637467816271873/img/i8GL9q7gukT0eCIh.jpg" width="600" alt="韓式紀錄片風格影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6745)**
+
+**作者:** [Varun Mehta](https://x.com/varun_j_mehta) | **來源:** [Link](https://x.com/varun_j_mehta/status/2072637540092588361) | **發布時間:** Jul 2, 2026
+
+---
+### Glow Mask Rebirth
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個象徵性的影片提示詞，展示面具裂開並釋放出光芒，代表從悲傷到重生的轉變。
+
+#### 📝 提示詞
+
+```
+從沈默的悲傷到閃耀的重生。觀看面具裂開，釋放出內在的光芒。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072601714033860608/img/esqhukiAJvhFgcs3.jpg" width="600" alt="Glow Mask Rebirth">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6746)**
+
+**作者:** [Shah](https://x.com/ai_with_shah) | **來源:** [Link](https://x.com/ai_with_shah/status/2072601802323980359) | **發布時間:** Jul 2, 2026
+
+---
+### 小狗追球
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段動態的側視影片提示詞，描述一隻黃金獵犬幼犬在綠草地上追逐紅色球的畫面。
+
+#### 📝 提示詞
+
+```
+活潑的黃金獵犬幼犬在陽光普照的公園草地上充滿活力地追逐一顆紅球，牠興奮地跳躍奔跑並搖著尾巴。攝影機以動態側視視角平穩地跟隨幼犬移動，捕捉著充滿活力的綠色草地。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072596733629231104/img/xl6IJHKlOAnKNQ_I.jpg" width="600" alt="小狗追球">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6742)**
+
+**作者:** [Grok imagine user](https://x.com/imagine_user_) | **來源:** [Link](https://x.com/imagine_user_/status/2072596754328154327) | **發布時間:** Jul 2, 2026
+
+---
+### 玩耍毛毯的小貓
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段關於毛茸茸小貓玩耍毛毯的詳細影片提示詞，展現了呼吸和尾巴抽動等細微動作。
+
+#### 📝 提示詞
+
+```
+可愛毛茸茸的小貓用爪子俏皮地拍打著柔軟的毛毯，並睜著大眼睛好奇地歪著頭，展現出自然柔和的動作與細微的呼吸起伏，同時保持在舒適且陽光充足的環境中。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072591636929093632/img/xDWl3tznnmXdV6YS.jpg" width="600" alt="玩耍毛毯的小貓">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6739)**
+
+**作者:** [Grok imagine user](https://x.com/imagine_user_) | **來源:** [Link](https://x.com/imagine_user_/status/2072591652175425705) | **發布時間:** Jul 2, 2026
+
+---
+### 寧靜鄉村夏日影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一部描繪鄉村生活簡單樂趣的寧靜影片，包含新鮮蔬菜與無盡的藍天。
+
+#### 📝 提示詞
+
+```
+寧靜的夏日、新鮮的蔬菜、無盡的藍天，以及鄉村生活最簡單的快樂。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072568839783735296/img/LSqzQV0UlmdYm03N.jpg" width="600" alt="寧靜鄉村夏日影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6748)**
+
+**作者:** [Fatema](https://x.com/heyfatema) | **來源:** [Link](https://x.com/heyfatema/status/2072568898193596863) | **發布時間:** Jul 2, 2026
+
+---
+### 電影感太空全景平移
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個影片提示詞，描述攝影機平滑地從太空控制台橫移，看向窗外紫色星空的畫面。
+
+#### 📝 提示詞
+
+```
+攝影機緩慢且平滑地橫移，從遠處控制台的人員移向巨大的全景窗，逐漸展現並強調更多令人屏息的紫色太空夜景，窗外滿是閃爍的繁星。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072546400781398016/img/GYatkpkV7erPD7Pw.jpg" width="600" alt="電影感太空全景平移">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6740)**
+
+**作者:** [KENDREIK Artist](https://x.com/kendreik) | **來源:** [Link](https://x.com/kendreik/status/2072546454250393631) | **發布時間:** Jul 2, 2026
+
+---
+### 未來感太空船控制台互動
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個為 Grok Imagine 設計的電影級影片提示詞，描述了一位身處未來感駕駛艙的人員，透過透明眼鏡觀察並與控制台進行互動，同時鏡頭緩慢平移。
+
+#### 📝 提示詞
+
+```
+身處未來感太空船中的人員，透過輕盈的透明眼鏡觀察，並以手部與控制台進行細微互動，同時伴隨輕柔的頭部動作。鏡頭在場景中緩慢平移，背景中明亮的星星閃爍著光芒。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072546323354505216/img/Qawm8hfWMByYdJVA.jpg" width="600" alt="未來感太空船控制台互動">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6744)**
+
+**作者:** [KENDREIK Artist](https://x.com/kendreik) | **來源:** [Link](https://x.com/kendreik/status/2072546377251364876) | **發布時間:** Jul 2, 2026
+
+---
 ### 超高速銀河飛行
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -327,6 +578,27 @@ Youman，
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6644)**
 
 **作者:** [Ami A](https://x.com/AA63782) | **來源:** [Link](https://x.com/AA63782/status/2072052487528300851) | **發布時間:** Jun 30, 2026
+
+---
+### 光之橋之旅
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一部詩意盎然的電影感影片，講述一位女性穿越發光橋樑，告別舊世界、邁向新道路的故事。
+
+#### 📝 提示詞
+
+```
+她走過光之橋，
+每一步都將舊世界拋在身後。
+手中的燈籠不再是為了緊握，而是為了釋放，投向前方等待著她的新道路。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072050517350481920/img/Pfz-U8MvfZqnRB9v.jpg" width="600" alt="光之橋之旅">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6749)**
+
+**作者:** [SophieZX](https://x.com/Z_XSophie) | **來源:** [Link](https://x.com/Z_XSophie/status/2072050846662049816) | **發布時間:** Jun 30, 2026
 
 ---
 ### 寧靜仙女與蓮花動畫
@@ -1913,266 +2185,6 @@ Elena 穿過閃爍的傳送門進入廣闊的 Playroom，她睜大雙眼，神�
 **作者:** [steve johnson](https://x.com/seeksteve) | **來源:** [Link](https://x.com/seeksteve/status/2069097737631445197) | **發布時間:** Jun 22, 2026
 
 ---
-### 復古抽象風格摩登女郎市集
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個關於 1920 年代摩登女郎跳蚤市場的藝術提示詞，採用抽象畫風格。
-
-#### 📝 提示詞
-
-```
-一個復古時尚跳蚤市場，女性穿著 1920 年代摩登女郎的服飾，呈現抽象畫風格
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069074678577041408/img/6DicXuBuX-skk71r.jpg" width="600" alt="復古抽象風格摩登女郎市集">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6345)**
-
-**作者:** [Déborah](https://x.com/dvorahfr) | **來源:** [Link](https://x.com/dvorahfr/status/2069076254813233638) | **發布時間:** Jun 22, 2026
-
----
-### 咖啡杯互動動作
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個專注於咖啡杯移動與放置的特定角色互動提示詞。
-
-#### 📝 提示詞
-
-```
-將咖啡杯移至她的胸前，使杯子實際接觸到她胸部上方較為骨感的區域
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069075311174848512/img/TQy-8rEQHABNtQVk.jpg" width="600" alt="咖啡杯互動動作">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6350)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2069075371547623644) | **發布時間:** Jun 22, 2026
-
----
-### 戴帽子的唱歌小狗
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個充滿趣味的提示詞，用於生成小狗戴著帽子唱歌並展現歡樂表情的影片。
-
-#### 📝 提示詞
-
-```
-戴著帽子的小狗唱著「我們是戴帽子的小狗，帽子會一直戴著」，並伴隨著歡樂、充滿活力的動作和俏皮的表情。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068989769913131008/img/ZYyhX3vccsI9lY7k.jpg" width="600" alt="戴帽子的唱歌小狗">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6343)**
-
-**作者:** [marianne](https://x.com/tuakdotsol) | **來源:** [Link](https://x.com/tuakdotsol/status/2069006656927637598) | **發布時間:** Jun 22, 2026
-
----
-### 海底家庭魚類動畫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個溫馨的迪士尼皮克斯風格影片提示詞，描繪了一條巨大的母魚帶著牠的寶寶在海洋中悠遊。
-
-#### 📝 提示詞
-
-```
-精美的數位繪畫，描繪了一條巨大的母魚帶領著小魚寶寶穿過平靜、清澈見底的綠松石色海洋。小魚們緊緊跟隨在後。遠處可見色彩繽紛的珊瑚。上方透出柔和的光芒。迪士尼皮克斯風格藝術，色彩鮮豔，溫馨的家庭場景。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068967572360605696/img/bwwSFaIHS3o4XVoD.jpg" width="600" alt="海底家庭魚類動畫">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6347)**
-
-**作者:** [DAAZLE FC](https://x.com/DAAZLEFC) | **來源:** [Link](https://x.com/DAAZLEFC/status/2068967848849117493) | **發布時間:** Jun 22, 2026
-
----
-### 穿著連帽衫跳舞的小狗
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個高度細緻的影片提示詞，描述一群小狗在後院跳舞唱歌的場景。
-
-#### 📝 提示詞
-
-```
-三隻可愛且毛茸茸的小狗穿著色彩鮮豔的連帽衫（紅色、藍色、黃色），在陽光明媚、有著綠草地和木柵欄的後院中。牠們充滿活力地跳舞並唱著：「我們是穿著連帽衫的小狗，準備好要搖擺了！」表情歡樂且俏皮。動作序列：同步舞蹈、一隻領唱而其他小狗伴舞、一起旋轉與轉圈、高高跳起，最後以舉起爪子的慶祝動作結束。明亮的陽光、鮮豔的色彩、可愛的風格、流暢的動畫、高細節、有趣且生動的短片，長度 6 秒。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068952215646298113/img/LUImq89MgGO62FwT.jpg" width="600" alt="穿著連帽衫跳舞的小狗">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6351)**
-
-**作者:** [liuhuofeiyan](https://x.com/yhjocean) | **來源:** [Link](https://x.com/yhjocean/status/2068953107162370443) | **發布時間:** Jun 22, 2026
-
----
-### 水管收縮序列
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個技術性影片生成提示詞，用於製作一段水停止流動且水管在無洩漏情況下收縮的動畫。
-
-#### 📝 提示詞
-
-```
-在製作影片時。
-切換為英式口音。
-切換為英語語音。
-水需要在 5 到 20 秒內停止流過水管。
-然後。
-水管向內收縮。
-過程中不能有任何洩漏。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068952774650306560/img/jl0yD2PO8-nSyBtP.jpg" width="600" alt="水管收縮序列">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6354)**
-
-**作者:** [Luke Clayden](https://x.com/clayden5_luke) | **來源:** [Link](https://x.com/clayden5_luke/status/2068952831491551674) | **發布時間:** Jun 22, 2026
-
----
-### 語音控制水流動畫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個影片生成提示詞，用於指示旁白變更以及場景中水流停止的特定時間點。
-
-#### 📝 提示詞
-
-```
-建立影片時。
-切換為英式口音。
-切換為英語語音。
-。
-。
-水流需要在 5 到 20 秒內停止流經管道。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068951776275873792/img/KQsGnADBHUPSJPMX.jpg" width="600" alt="語音控制水流動畫">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6355)**
-
-**作者:** [Luke Clayden](https://x.com/clayden5_luke) | **來源:** [Link](https://x.com/clayden5_luke/status/2068951864851268085) | **發布時間:** Jun 22, 2026
-
----
-### 黑猩猩角色服裝變換
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個 3D 動畫提示詞，描述一隻黑猩猩角色在沙漠中行走並朝鏡頭走來，同時進行流暢的科幻風格服裝變換。
-
-#### 📝 提示詞
-
-```
-3D 動畫黑猩猩角色，身處沙漠。牠戴著船長帽和紅色愛心太陽眼鏡。服裝進行流暢的變換，從黑色霓虹藍發光科幻套裝變為藍色 T 恤和短褲。牠正朝著鏡頭走來，面帶微笑，腳下揚起塵土。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068942872360157184/img/V3BZyHjSNCrZ52GZ.jpg" width="600" alt="黑猩猩角色服裝變換">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6356)**
-
-**作者:** [Haris X](https://x.com/Haris_afxal) | **來源:** [Link](https://x.com/Haris_afxal/status/2068942939066413450) | **發布時間:** Jun 22, 2026
-
----
-### 忍者巫師懸浮跳躍
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個以動作為導向的提示詞，描繪一位忍者巫師在建築物之間進行超自然跳躍。
-
-#### 📝 提示詞
-
-```
-創作一位忍者巫師從一棟建築跳躍到另一棟建築，利用懸浮能力跨越巨大距離，不要戴兜帽或披風，只需戴上忍者面罩
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068910740182880256/img/V8DGeJrsim2Tcqbv.jpg" width="600" alt="忍者巫師懸浮跳躍">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6349)**
-
-**作者:** [Justin Brennan](https://x.com/jmjbrennan32780) | **來源:** [Link](https://x.com/jmjbrennan32780/status/2068910792565510604) | **發布時間:** Jun 22, 2026
-
----
-### 古老科幻漩渦動態
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個包含魔法符文與科幻背景下創造漩渦的電影級影片提示詞。
-
-#### 📝 提示詞
-
-```
-喚醒遠古時代的內在火焰，讓力量符文燃燒，釋放科幻風格的創造漩渦，角落處標註 TLV
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068904173983404032/img/HrOkfacMLsRL4HGk.jpg" width="600" alt="古老科幻漩渦動態">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6346)**
-
-**作者:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **來源:** [Link](https://x.com/TLouisevsughan/status/2068904236185006505) | **發布時間:** Jun 22, 2026
-
----
-### 戴著手套跳舞的小貓
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段充滿活力與歡樂的影片提示詞，描述戴著手套的小貓們一邊跳舞、一邊唱著歌，表情俏皮可愛。
-
-#### 📝 提示詞
-
-```
-戴著手套的小貓們開始跳舞並唱著「我們是戴手套的小貓」，動作充滿歡樂與活力，表情十分俏皮。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068748943706759168/img/A37zMRy8vrFNq5Yp.jpg" width="600" alt="戴著手套跳舞的小貓">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6318)**
-
-**作者:** [Imedi](https://x.com/Imedigeorgia) | **來源:** [Link](https://x.com/Imedigeorgia/status/2068749043334054054) | **發布時間:** Jun 21, 2026
-
----
-### 戴著手套跳舞的小貓
-
-![한국어](https://img.shields.io/badge/lang-한국어-orange)
-
-> 這是一個為 Grok Imagine 設計的可愛影片提示詞，內容為戴著手套的小貓們伴隨著俏皮的表情，唱著歡快的歌曲並跳舞。
-
-#### 📝 提示詞
-
-```
-戴著手套的小貓們開始跳舞並唱歌。牠們唱著「我們是戴著手套的小貓」這首歌，動作歡快活潑，表情俏皮可愛。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068748005579108352/img/7_sXRpv2d-A3dfkq.jpg" width="600" alt="戴著手套跳舞的小貓">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6323)**
-
-**作者:** [아까긋마](https://x.com/sfbbang) | **來源:** [Link](https://x.com/sfbbang/status/2068748971783381469) | **發布時間:** Jun 21, 2026
-
----
-### 雲端之上的遠古守護神
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個電影級奇幻影片提示詞，描繪了身穿華麗盔甲的巨大遠古神祇佇立在日落時分雲霧繚繞的山巒之上，以及一名孤獨的戰士。
-
-#### 📝 提示詞
-
-```
-傑作，最高品質，超細緻的電影級奇幻插畫，描繪了幾位巨大的遠古守護神佇立在日落時分雲霧繚繞的山巒之上的雲端。神祇身穿華麗的傳統盔甲，光影效果極具戲劇性。一名小小的戰士乘著雲朵在他們下方飛行。史詩般的天空，伴隨著橙色與藍色的雲彩。高度細緻的角色、雲朵、山脈與光影效果。
-
-四位遠古神祇佇立在雲端之上，而一名孤獨的戰士正御劍向他們飛去。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068723896266993664/img/HpGGCjsBsr5Guch-.jpg" width="600" alt="雲端之上的遠古守護神">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6317)**
-
-**作者:** [⭕Kisalay](https://x.com/Kisalay_) | **來源:** [Link](https://x.com/Kisalay_/status/2068723970707448246) | **發布時間:** Jun 21, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2234,6 +2246,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-07-03T07:44:45.746Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-07-03T11:00:53.791Z</sub>
 
 </div>

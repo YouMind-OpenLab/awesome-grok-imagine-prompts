@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2018** |
+| 📝 プロンプト総数 | **2031** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-07-03** |
 
@@ -189,6 +189,257 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### 札束の上の猫たち
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 札束の上に座る猫たちと、柔らかな寝室の光の中で揺れる風船を捉えた、繊細な動きの動画プロンプトです。
+
+#### 📝 プロンプト
+
+```
+緩やかなカメラの動き。猫たちがまばたきをし、札束の上で尻尾を揺らしています。子猫が金の風船を軽く叩くと、風船がわずかに揺れます。カップルはキスを交わしたままです。柔らかな寝室の光、繊細な動きのみ。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072808304477159424/img/1KSoWQMoOXanp_SJ.jpg" width="600" alt="札束の上の猫たち">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6741)**
+
+**作者:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **ソース:** [Link](https://x.com/maggiejuang1/status/2072808375604117939) | **公開日:** Jul 2, 2026
+
+---
+### 星明かりとタンポポの綿毛の女神
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 世界の果てで、光り輝くタンポポの綿毛を放ち、それが明日の星へと姿を変える様子を描いた詩的なビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+彼女はすべての世界の果てに立ち、昨日までの願いをその両手に抱いている。彼女が光り輝くタンポポの綿毛を解き放つと、それらは舞い上がり、花開き、そして明日の星へと変わっていく。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072801371737202689/img/o54qn6BMN41w_nr2.jpg" width="600" alt="星明かりとタンポポの綿毛の女神">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6747)**
+
+**作者:** [SophieZX](https://x.com/Z_XSophie) | **ソース:** [Link](https://x.com/Z_XSophie/status/2072801622640525764) | **公開日:** Jul 2, 2026
+
+---
+### ブティック・ガーデン・ヘアサロン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 庭園に佇むブティック・ヘアサロンの、細部までこだわったシネマティックなプロンプト。ガラス張りの壁、ハーブが並ぶ小道、温かみのある木製のインテリアが特徴です。
+
+#### 📝 プロンプト
+
+```
+庭園の中に佇む静かなブティック・ヘアサロン。床から天井まである大きな窓からは、ローズマリー、ラベンダー、セージ、ミントが植えられたテラコッタの鉢が並ぶ石畳のテラスへと続いています。室内には温かみのある木製のカウンターや籐の椅子が置かれ、柔らかな光がドラマチックな効果を演出しています。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072794304259424256/img/2gY6VzYvGxDCtXUv.jpg" width="600" alt="ブティック・ガーデン・ヘアサロン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6743)**
+
+**作者:** [Lala](https://x.com/LalaBFox) | **ソース:** [Link](https://x.com/LalaBFox/status/2072794777272099095) | **公開日:** Jul 2, 2026
+
+---
+### Buick Enclave のフェミニンなデザイン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> エレガントでフェミニンなデザインの Buick Enclave のサイドビューと、ヘルシーな食事のイメージを描写したビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+エレガントでフェミニンなデザインでラッピングされた Buick Enclave のサイドビュー、温かみのあるニュートラルカラー、新鮮でヘルシーな食事、カラフルなスムージー、グルメなタマレス、新鮮な食材の美しいイメージ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072764635900432384/img/DRqnx5MrpZvA0eOV.jpg" width="600" alt="Buick Enclave のフェミニンなデザイン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6738)**
+
+**作者:** [Lala](https://x.com/LalaBFox) | **ソース:** [Link](https://x.com/LalaBFox/status/2072764809699811343) | **公開日:** Jul 2, 2026
+
+---
+### ゴシック調の妖精とスタイリッシュな男性が歩く様子
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> プラットフォームヒールを履いたゴシック調の妖精と、シルバーのアクセントが効いた黒のスーツを纏ったハンサムな男性が、並んで道を歩く様子を描いたシネマティックなビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+ゴシック調の妖精 
+プラットフォームヒール 
+道を歩く
+シルバーのアクセントが効いたスタイリッシュな黒のスーツを着たハンサムな男性が並んで歩く
+二人は言葉を交わさず、互いを理解し合いながら歩いている
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072712144089735168/img/w8KweMtlETnNpbhT.jpg" width="600" alt="ゴシック調の妖精とスタイリッシュな男性が歩く様子">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6737)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2072712207855673501) | **公開日:** Jul 2, 2026
+
+---
+### 韓国ドキュメンタリー風動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 2000 年代の DV ビデオカメラの質感を再現し、韓国の住宅街での日常のひとコマを切り取った、詳細なマルチシーン動画プロンプトです。
+
+#### 📝 プロンプト
+
+```
+メイン被写体：20 代前半の韓国人女性。自然体で日常的な外見。色あせたチャコールグレーのノースリーブクロップトップ、ゆったりとしたハイウエストのライトウォッシュジーンズ、黒のキャンバススニーカー、黒のコードネックレスを着用。黒髪のウェーブヘアを無造作なサイドポニーテールにまとめ、薄い前髪を下ろしている。リアルな肌の質感、ナチュラルメイク。親しみやすく温かい雰囲気。動画全体を通して、人物のアイデンティティ、服装、髪型、外見を維持すること。
+ロケーション：穏やかな午前中の韓国の住宅街。狭いコンクリートの路地、低層住宅、小さなテラス、鉢植え、物干し、自転車、電柱、頭上の電線、木漏れ日が揺れる成熟した木々。静かな住宅街の雰囲気。店舗、広告、カフェ、人混み、商業的な要素は一切なし。
+映像スタイル：超リアルなドキュメンタリー調。自然で飾らない行動。リアルなボディランゲージ。台本のない日常の風景。環境の強いリアリティ。現実世界の豊かなディテールと、説得力のある人間の動き。
+カメラスタイル：2000 年代初頭の家庭用 DV ビデオカメラの質感。友人が日常の瞬間を何気なく撮影しているような雰囲気。激しい手ブレ、不完全なフレーミング、頻繁なオートフォーカスの迷い、レンズブリージング、日向と日陰を移動する際の露出の変化、時折発生するモーションブラー、わずかなローリングシャッター現象、微細なデジタル圧縮ノイズ、色あせた色味、柔らかなコントラスト、センサーノイズ。手ブレ補正なし。映画のようなカメラワークは禁止。現代的なカラーグレーディングは行わないこと。
+00:00–00:02
+小さな家の玄関先。低いコンクリートの壁に座り、両手を上げてポニーテールを整えている。軽い風で髪が揺れる。カメラがピント合わせに苦戦する中、彼女は自然な笑顔を見せる。
+00:02–00:04
+カメラが彼女を追い、鉢植えとコンクリートの壁が並ぶ狭い路地へ。野良猫が近づいてくるのに気づき、彼女がしゃがみ込む。撮影者が追いつこうとするため、フレーミングが中心から外れる。
+00:04–00:06
+彼女が優しく猫を撫でて餌をやる。オートフォーカスが彼女の顔と猫の間で繰り返し切り替わる。頭上の葉の間から朝の光が差し込む。
+00:06–00:08
+家の横の小さな前庭。物干し竿に洗濯物を干しており、布地が風に揺れている。雲が通り過ぎるにつれて露出が変化する。
+00:08–00:10
+陶器のコーヒーカップを手に、静かなテラスに座っている。くつろいだ様子で近所を眺め、時折髪を耳にかける。自然なカメラの揺れを伴う、ゆったりとした手持ちのサイドショット。
+00:10–00:12
+横顔のクローズアップ。カメラの外から誰かが挨拶をする。彼女が振り返り、手を挙げて温かく微笑み、何気なく「アンニョン」と言う。カメラがその瞬間をわずかに遅れて捉える。
+00:12–00:15
+コーヒーカップを手に、木々が並ぶ住宅街の道をゆっくりと歩く。カメラに気づき、心からの小さな微笑みを浮かべた後、視線を外して歩き続ける。ビデオカメラの電源を切ったかのように、動きの途中で突然映像がブラックアウトする。
+
+オーディオ：自然な環境音のみ。朝の鳥のさえずり、遠くのバイクの音、かすかな
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072637467816271873/img/i8GL9q7gukT0eCIh.jpg" width="600" alt="韓国ドキュメンタリー風動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6745)**
+
+**作者:** [Varun Mehta](https://x.com/varun_j_mehta) | **ソース:** [Link](https://x.com/varun_j_mehta/status/2072637540092588361) | **公開日:** Jul 2, 2026
+
+---
+### Glow Mask Rebirth
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 仮面が割れて光が溢れ出す様子を描いた象徴的なビデオプロンプト。悲しみから再生へと向かう変化を表現しています。
+
+#### 📝 プロンプト
+
+```
+静かな悲しみから、輝かしい再生へ。仮面が割れ、内なる光が解き放たれる瞬間をご覧ください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072601714033860608/img/esqhukiAJvhFgcs3.jpg" width="600" alt="Glow Mask Rebirth">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6746)**
+
+**作者:** [Shah](https://x.com/ai_with_shah) | **ソース:** [Link](https://x.com/ai_with_shah/status/2072601802323980359) | **公開日:** Jul 2, 2026
+
+---
+### ボールを追いかける子犬
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 緑の芝生の上で赤いボールを追いかけるゴールデンレトリバーの子犬を捉えた、ダイナミックなサイドビューの動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+遊び心あふれるゴールデンレトリバーの子犬が、日差しが降り注ぐ公園の芝生の上で、赤いボールを元気いっぱいに追いかけています。尻尾を振りながら楽しそうに跳ねたり走ったりする様子を、カメラがサイドビューで滑らかに追いかけ、鮮やかな緑の芝生を捉えています。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072596733629231104/img/xl6IJHKlOAnKNQ_I.jpg" width="600" alt="ボールを追いかける子犬">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6742)**
+
+**作者:** [Grok imagine user](https://x.com/imagine_user_) | **ソース:** [Link](https://x.com/imagine_user_/status/2072596754328154327) | **公開日:** Jul 2, 2026
+
+---
+### 毛布と遊ぶ子猫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 毛布と遊ぶふわふわした子猫の動画プロンプト。呼吸や尻尾の動きなど、繊細な動作を詳細に描写しています。
+
+#### 📝 プロンプト
+
+```
+愛らしくふわふわした子猫が、柔らかい毛布にじゃれつき、大きな瞳で好奇心旺盛に首をかしげています。日当たりの良い心地よい空間の中で、自然な動きや穏やかな呼吸が繊細に表現されています。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072591636929093632/img/xDWl3tznnmXdV6YS.jpg" width="600" alt="毛布と遊ぶ子猫">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6739)**
+
+**作者:** [Grok imagine user](https://x.com/imagine_user_) | **ソース:** [Link](https://x.com/imagine_user_/status/2072591652175425705) | **公開日:** Jul 2, 2026
+
+---
+### 穏やかな田舎の夏のビデオ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 新鮮な野菜やどこまでも続く青い空など、田舎暮らしの素朴な喜びを描いた穏やかなビデオです。
+
+#### 📝 プロンプト
+
+```
+穏やかな夏の一日、新鮮な野菜、どこまでも続く青い空、そして田舎暮らしの素朴な喜び。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072568839783735296/img/LSqzQV0UlmdYm03N.jpg" width="600" alt="穏やかな田舎の夏のビデオ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6748)**
+
+**作者:** [Fatema](https://x.com/heyfatema) | **ソース:** [Link](https://x.com/heyfatema/status/2072568898193596863) | **公開日:** Jul 2, 2026
+
+---
+### シネマティックな宇宙のパノラマパン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 宇宙船のコンソールから紫色の星空が広がる窓へと、カメラが滑らかにパンするビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+カメラは遠くのコンソールにいる人物から大きなパノラマウィンドウに向かってゆっくりと滑らかにパンし、明るく輝く星々で満たされた息をのむような紫色の宇宙の光景を徐々に明らかにし、強調していきます
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072546400781398016/img/GYatkpkV7erPD7Pw.jpg" width="600" alt="シネマティックな宇宙のパノラマパン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6740)**
+
+**作者:** [KENDREIK Artist](https://x.com/kendreik) | **ソース:** [Link](https://x.com/kendreik/status/2072546454250393631) | **公開日:** Jul 2, 2026
+
+---
+### 近未来的な宇宙船コンソールのインタラクション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 用のシネマティックな動画プロンプト。近未来的なコックピットで、透明なメガネ越しにコントロールパネルを操作する人物をカメラがパンしながら捉えます。
+
+#### 📝 プロンプト
+
+```
+近未来的な宇宙船に乗った人物が、透明なメガネ越しに視線を向けながら、手を使ってコンソールのコントロールを繊細に操作し、穏やかに頭を動かしています。カメラはシーン全体をゆっくりとパンし、背景では明るい星々が瞬いています。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072546323354505216/img/Qawm8hfWMByYdJVA.jpg" width="600" alt="近未来的な宇宙船コンソールのインタラクション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6744)**
+
+**作者:** [KENDREIK Artist](https://x.com/kendreik) | **ソース:** [Link](https://x.com/kendreik/status/2072546377251364876) | **公開日:** Jul 2, 2026
+
+---
 ### 超高速銀河飛行
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -327,6 +578,27 @@ YouMind、
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6644)**
 
 **作者:** [Ami A](https://x.com/AA63782) | **ソース:** [Link](https://x.com/AA63782/status/2072052487528300851) | **公開日:** Jun 30, 2026
+
+---
+### 光の架け橋の旅
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 輝く橋を渡り、古い世界を後にして新たな道へと踏み出す女性を描いた、詩的で映画のようなビデオ。
+
+#### 📝 プロンプト
+
+```
+彼女は光の架け橋を渡っていく。
+一歩進むごとに、古い世界が遠ざかっていく。
+手に持ったランタンは、もはや握りしめるものではなく、前方に待ち受ける新たな道へと解き放つもの。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072050517350481920/img/Pfz-U8MvfZqnRB9v.jpg" width="600" alt="光の架け橋の旅">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6749)**
+
+**作者:** [SophieZX](https://x.com/Z_XSophie) | **ソース:** [Link](https://x.com/Z_XSophie/status/2072050846662049816) | **公開日:** Jun 30, 2026
 
 ---
 ### 穏やかな妖精の女性と蓮のアニメーション
@@ -1913,266 +2185,6 @@ Elena が輝くポータルを通り抜け、広大な Playroom へと足を踏�
 **作者:** [steve johnson](https://x.com/seeksteve) | **ソース:** [Link](https://x.com/seeksteve/status/2069097737631445197) | **公開日:** Jun 22, 2026
 
 ---
-### ヴィンテージ・アブストラクト・フラッパー・マーケット
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 1920 年代のフラッパーによるフリーマーケットを抽象画スタイルで表現するためのアーティスティックなプロンプトです。
-
-#### 📝 プロンプト
-
-```
-1920 年代のフラッパーの衣装をまとった女性たちが集うヴィンテージ・ファッションのフリーマーケット、抽象画スタイル
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069074678577041408/img/6DicXuBuX-skk71r.jpg" width="600" alt="ヴィンテージ・アブストラクト・フラッパー・マーケット">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6345)**
-
-**作者:** [Déborah](https://x.com/dvorahfr) | **ソース:** [Link](https://x.com/dvorahfr/status/2069076254813233638) | **公開日:** Jun 22, 2026
-
----
-### コーヒーカップのインタラクションモーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> コーヒーカップの動きと配置に焦点を当てた、特定のキャラクターインタラクションプロンプトです。
-
-#### 📝 プロンプト
-
-```
-コーヒーカップを胸元まで移動させ、カップが胸の高い位置にある骨の部分に実際に触れるようにする
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069075311174848512/img/TQy-8rEQHABNtQVk.jpg" width="600" alt="コーヒーカップのインタラクションモーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6350)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2069075371547623644) | **公開日:** Jun 22, 2026
-
----
-### 帽子をかぶって歌う子犬たち
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 帽子をかぶった子犬たちが、楽しそうな表情で歌いながら動く動画を生成するための遊び心あふれるプロンプトです。
-
-#### 📝 プロンプト
-
-```
-帽子をかぶった子犬たちが「私たちは帽子をかぶった犬、帽子はずっとかぶったまま」と歌いながら、楽しげでエネルギッシュな動きと愛らしい表情を見せています。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068989769913131008/img/ZYyhX3vccsI9lY7k.jpg" width="600" alt="帽子をかぶって歌う子犬たち">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6343)**
-
-**作者:** [marianne](https://x.com/tuakdotsol) | **ソース:** [Link](https://x.com/tuakdotsol/status/2069006656927637598) | **公開日:** Jun 22, 2026
-
----
-### 深海の家族の魚のアニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ディズニー・ピクサー風の心温まる動画プロンプト。海の中の巨大な母魚と子供たちの様子を描いています。
-
-#### 📝 プロンプト
-
-```
-穏やかで透き通ったターコイズブルーの海の中、巨大な母魚が小さな子供たちの魚を導いている美しいデジタルペインティング。小さな魚たちがすぐ後ろをついて泳いでいます。遠くには色鮮やかなサンゴが見え、上からは柔らかな光が差し込んでいます。ディズニー・ピクサー風のアートスタイル、鮮やかな色彩、心温まる家族の光景。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068967572360605696/img/bwwSFaIHS3o4XVoD.jpg" width="600" alt="深海の家族の魚のアニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6347)**
-
-**作者:** [DAAZLE FC](https://x.com/DAAZLEFC) | **ソース:** [Link](https://x.com/DAAZLEFC/status/2068967848849117493) | **公開日:** Jun 22, 2026
-
----
-### パーカーを着て踊る子犬たち
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 裏庭で歌いながら踊る子犬たちのグループを描いた、非常に詳細な動画用プロンプトです。
-
-#### 📝 プロンプト
-
-```
-色鮮やかなパーカー（赤、青、黄色）を着た 3 匹のふわふわした可愛い子犬たちが、緑の芝生と木の柵がある日当たりの良い裏庭にいます。彼らはエネルギッシュに踊りながら、「私たちはパーカーを着た子犬、ダンスの準備はバッチリ！」と楽しそうに、遊び心あふれる表情で歌っています。一連の動作：シンクロしたダンス、1 匹がリードして歌い、他の子犬たちが踊る様子、一緒に回転してくるくる回る、高くジャンプする、最後は前足を上げて祝う。明るい日差し、鮮やかな色彩、愛らしくキュートなスタイル、滑らかなアニメーション、高精細、楽しくて活気のある 6 秒間のショート動画。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068952215646298113/img/LUImq89MgGO62FwT.jpg" width="600" alt="パーカーを着て踊る子犬たち">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6351)**
-
-**作者:** [liuhuofeiyan](https://x.com/yhjocean) | **ソース:** [Link](https://x.com/yhjocean/status/2068953107162370443) | **公開日:** Jun 22, 2026
-
----
-### 給水管の収縮シークエンス
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 水が流れ止まり、漏水することなくパイプが収縮するアニメーションを作成するための技術的な動画生成プロンプトです。
-
-#### 📝 プロンプト
-
-```
-動画を作成する際。
-イギリス英語の音声に変更してください。
-英語の音声に変更してください。
-5 ～ 20 秒の間にパイプを通る水の流れを止める必要があります。
-その後、
-パイプが内部に収縮します。
-漏水は一切発生させないでください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068952774650306560/img/jl0yD2PO8-nSyBtP.jpg" width="600" alt="給水管の収縮シークエンス">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6354)**
-
-**作者:** [Luke Clayden](https://x.com/clayden5_luke) | **ソース:** [Link](https://x.com/clayden5_luke/status/2068952831491551674) | **公開日:** Jun 22, 2026
-
----
-### 音声制御による水の動きのアニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ナレーションの変更と、シーン内の水の流れを止める特定のタイミングを指示する動画生成プロンプトです。
-
-#### 📝 プロンプト
-
-```
-動画を作成する際。
-イギリス英語の音声に変更してください。
-英語の音声に変更してください。
-。
-。
-5 ～ 20 秒の間に、パイプを流れる水を止めてください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068951776275873792/img/KQsGnADBHUPSJPMX.jpg" width="600" alt="音声制御による水の動きのアニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6355)**
-
-**作者:** [Luke Clayden](https://x.com/clayden5_luke) | **ソース:** [Link](https://x.com/clayden5_luke/status/2068951864851268085) | **公開日:** Jun 22, 2026
-
----
-### チンパンジーキャラクターの衣装チェンジ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 砂漠を歩きながらシームレスに SF 風の衣装へチェンジする、チンパンジーキャラクターの 3D アニメーションプロンプト。
-
-#### 📝 プロンプト
-
-```
-砂漠にいる 3D アニメーションのチンパンジーキャラクター。船長帽と赤いハートのサングラスを着用。黒地にネオンブルーが光る SF スーツから、青い T シャツとショートパンツへシームレスに衣装が切り替わる。カメラに向かって歩きながら、笑顔で砂埃を蹴り上げている。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068942872360157184/img/V3BZyHjSNCrZ52GZ.jpg" width="600" alt="チンパンジーキャラクターの衣装チェンジ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6356)**
-
-**作者:** [Haris X](https://x.com/Haris_afxal) | **ソース:** [Link](https://x.com/Haris_afxal/status/2068942939066413450) | **公開日:** Jun 22, 2026
-
----
-### 忍者ウィザードの空中浮遊ジャンプ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ビルからビルへと超自然的なジャンプを行う忍者ウィザードをテーマにした、アクション性の高いプロンプトです。
-
-#### 📝 プロンプト
-
-```
-ビルからビルへと飛び移る忍者ウィザードを作成してください。空中浮遊を使って長距離をジャンプする様子で、フードやマントはなし。忍者マスクのみを着用させてください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068910740182880256/img/V8DGeJrsim2Tcqbv.jpg" width="600" alt="忍者ウィザードの空中浮遊ジャンプ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6349)**
-
-**作者:** [Justin Brennan](https://x.com/jmjbrennan32780) | **ソース:** [Link](https://x.com/jmjbrennan32780/status/2068910792565510604) | **公開日:** Jun 22, 2026
-
----
-### 古代 SF 渦動モーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> SF 設定における魔法の印と創造の渦をテーマにした、映画のようなビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-古代の内に秘められた炎を呼び覚まし、力の印を点火せよ。SF 的な創造の渦を解き放て。隅に TLV を配置
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068904173983404032/img/HrOkfacMLsRL4HGk.jpg" width="600" alt="古代 SF 渦動モーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6346)**
-
-**作者:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **ソース:** [Link](https://x.com/TLouisevsughan/status/2068904236185006505) | **公開日:** Jun 22, 2026
-
----
-### ミトンをはめて踊る子猫たち
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ミトンをはめて楽しそうに歌いながら踊る、活気あふれる子猫たちのビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-ミトンをはめた子猫たちが「私たちはミトンをはめた子猫」と歌いながら、楽しげでエネルギッシュな動きと愛らしい表情で踊り始めます。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068748943706759168/img/A37zMRy8vrFNq5Yp.jpg" width="600" alt="ミトンをはめて踊る子猫たち">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6318)**
-
-**作者:** [Imedi](https://x.com/Imedigeorgia) | **ソース:** [Link](https://x.com/Imedigeorgia/status/2068749043334054054) | **公開日:** Jun 21, 2026
-
----
-### ミトンをはめて踊る子猫たち
-
-![한국어](https://img.shields.io/badge/lang-한국어-orange)
-
-> Grok Imagine 用の愛らしいビデオプロンプトです。ミトンをはめた子猫たちが、遊び心あふれる表情で楽しげな歌を歌いながら踊る様子を描写しています。
-
-#### 📝 プロンプト
-
-```
-ミトンをはめた子猫たちが踊り出し、歌い始めます。彼らは「We are kittens wearing mittens」という歌を、陽気で生き生きとした動きと遊び心あふれる表情で歌います。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068748005579108352/img/7_sXRpv2d-A3dfkq.jpg" width="600" alt="ミトンをはめて踊る子猫たち">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6323)**
-
-**作者:** [아까긋마](https://x.com/sfbbang) | **ソース:** [Link](https://x.com/sfbbang/status/2068748971783381469) | **公開日:** Jun 21, 2026
-
----
-### 雲上の古代守護神
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 夕暮れの霧深い山々の上空に佇む、豪華な鎧を纏った巨大な古代の神々と、その下にいる孤独な戦士を描いたシネマティック・ファンタジー動画用プロンプト。
-
-#### 📝 プロンプト
-
-```
-傑作、最高品質、夕暮れの霧深い山々の上空、雲の上に立つ巨大な古代守護神たちを描いた超詳細なシネマティック・ファンタジーイラスト。神々は豪華な伝統的鎧を纏い、ドラマチックなライティングが施されている。その下では、小さな戦士が雲に乗って飛んでいる。オレンジと青の雲が広がる壮大な空。キャラクター、雲、山々、ライティングに至るまで高精細に描写。
-
-雲の上に立つ 4 体の古代の神々と、剣に乗って彼らに向かって飛ぶ孤独な戦士。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068723896266993664/img/HpGGCjsBsr5Guch-.jpg" width="600" alt="雲上の古代守護神">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6317)**
-
-**作者:** [⭕Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2068723970707448246) | **公開日:** Jun 21, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2234,6 +2246,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-03T07:44:47.118Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-03T11:00:55.185Z</sub>
 
 </div>

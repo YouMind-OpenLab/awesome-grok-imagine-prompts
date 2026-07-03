@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **2018** |
+| 📝 총 프롬프트 수 | **2031** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-07-03** |
 
@@ -189,6 +189,257 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 돈다발 위의 고양이들
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 돈다발 위에 앉아 있는 고양이들과 부드러운 침실 조명 아래 흔들리는 풍선을 담은 은은한 모션 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+부드러운 카메라 이동. 돈다발 위에서 고양이들이 눈을 깜빡이고 꼬리를 실룩거립니다. 새끼 고양이가 금색 풍선을 톡 건드리자 풍선이 살짝 흔들립니다. 커플은 입맞춤을 유지합니다. 부드러운 침실 조명, 절제된 움직임.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072808304477159424/img/1KSoWQMoOXanp_SJ.jpg" width="600" alt="돈다발 위의 고양이들">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6741)**
+
+**작성자:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **출처:** [Link](https://x.com/maggiejuang1/status/2072808375604117939) | **게시일:** Jul 2, 2026
+
+---
+### 별빛과 민들레 씨앗의 여신
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 세상의 끝에서 빛나는 민들레 씨앗을 날려 내일의 별로 변화시키는 캐릭터를 담은 시적인 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+그녀는 모든 것의 끝에 서서 어제의 소망을 두 손에 담고 있습니다. 마침내 그녀가 빛나는 민들레 씨앗을 놓아주자, 그것들은 떠올라 꽃을 피우고 내일의 별이 됩니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072801371737202689/img/o54qn6BMN41w_nr2.jpg" width="600" alt="별빛과 민들레 씨앗의 여신">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6747)**
+
+**작성자:** [SophieZX](https://x.com/Z_XSophie) | **출처:** [Link](https://x.com/Z_XSophie/status/2072801622640525764) | **게시일:** Jul 2, 2026
+
+---
+### 부티크 가든 헤어 살롱
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 정원 속에 자리 잡은 부티크 헤어 살롱을 위한 매우 상세한 시네마틱 프롬프트로, 유리 벽과 허브가 늘어선 산책로, 따뜻한 느낌의 목재 인테리어가 특징입니다.
+
+#### 📝 프롬프트
+
+```
+정원 속에 자리 잡은 고요한 부티크 헤어 살롱. 바닥부터 천장까지 이어진 통유리창 너머로 로즈마리, 라벤더, 세이지, 민트가 담긴 테라코타 화분이 돌길을 따라 늘어선 조경 테라스가 펼쳐집니다. 실내는 따뜻한 느낌의 목재 카운터와 라탄 의자로 꾸며져 있으며, 부드럽고 드라마틱한 효과가 연출됩니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072794304259424256/img/2gY6VzYvGxDCtXUv.jpg" width="600" alt="부티크 가든 헤어 살롱">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6743)**
+
+**작성자:** [Lala](https://x.com/LalaBFox) | **출처:** [Link](https://x.com/LalaBFox/status/2072794777272099095) | **게시일:** Jul 2, 2026
+
+---
+### Buick Enclave 여성스러운 디자인
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 우아하고 여성스러운 디자인의 Buick Enclave 측면 모습과 건강한 음식 이미지를 묘사하는 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+우아하고 여성스러운 디자인으로 감싸인 Buick Enclave의 측면 모습, 따뜻한 뉴트럴 톤의 색감, 신선하고 건강한 음식, 다채로운 스무디, 고급 타말레, 신선한 식재료의 아름다운 이미지
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072764635900432384/img/DRqnx5MrpZvA0eOV.jpg" width="600" alt="Buick Enclave 여성스러운 디자인">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6738)**
+
+**작성자:** [Lala](https://x.com/LalaBFox) | **출처:** [Link](https://x.com/LalaBFox/status/2072764809699811343) | **게시일:** Jul 2, 2026
+
+---
+### 고딕 요정과 스타일리시한 남성이 함께 걷는 모습
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 플랫폼 힐을 신은 고딕 요정이 은색 포인트가 들어간 블랙 수트를 입은 잘생긴 남성과 함께 길을 걷는 시네마틱 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+고딕 요정 
+플랫폼 힐 
+길을 걷는 모습
+은색 포인트가 들어간 스타일리시한 블랙 수트를 입은 잘생긴 남성과 동행
+말없이 서로를 이해하며 함께 걷는 두 사람
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072712144089735168/img/w8KweMtlETnNpbhT.jpg" width="600" alt="고딕 요정과 스타일리시한 남성이 함께 걷는 모습">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6737)**
+
+**작성자:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **출처:** [Link](https://x.com/HawkinsonLindy/status/2072712207855673501) | **게시일:** Jul 2, 2026
+
+---
+### 한국 다큐멘터리 스타일 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 2000년대 DV 캠코더 감성을 활용하여 한국 동네의 일상적인 순간을 담아낸 고도로 상세한 멀티 씬 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+주요 인물: 20대 초반의 한국 여성, 자연스러운 일상 모습, 빛바랜 차콜 그레이 색상의 민소매 크롭탑, 헐렁한 하이웨이스트 연청바지, 검은색 캔버스 스니커즈, 검은색 코드 목걸이, 잔머리가 있는 지저분한 옆으로 묶은 포니테일의 검은색 웨이브 머리. 사실적인 피부 질감, 최소한의 메이크업, 따뜻하고 친근한 성격. 영상 전체에서 인물의 정체성, 의상, 헤어스타일, 외모를 일관되게 유지할 것.
+장소: 고요한 오전 시간대의 한국 주택가. 좁은 콘크리트 골목, 낮은 주택, 작은 테라스, 화분, 빨래 건조대, 자전거, 전신주, 머리 위로 얽힌 전선, 움직이는 그림자를 드리우는 성숙한 나무들, 조용한 주거지 분위기. 상점, 광고, 카페, 인파, 상업 시설은 없음.
+시각 스타일: 초현실적인 다큐멘터리 리얼리즘. 꾸밈없는 자연스러운 행동. 자연스러운 바디 랭귀지. 각본 없는 일상적인 느낌. 강렬한 환경적 사실성. 풍부한 현실 세계의 디테일과 믿을 수 있는 인간의 움직임.
+카메라 스타일: 2000년대 초반 소비자용 DV 캠코더 감성. 친구가 일상의 순간을 캐주얼하게 촬영하는 느낌. 심한 핸드헬드 흔들림, 불완전한 프레이밍, 잦은 자동 초점 사냥, 렌즈 브리딩, 햇빛과 그늘 사이를 이동할 때의 노출 변화, 간헐적인 모션 블러, 미세한 롤링 셔터, 가벼운 디지털 압축 아티팩트, 빛바랜 색감, 부드러운 대비, 약간의 센서 노이즈. 흔들림 보정 없음. 영화 같은 카메라 무빙 없음. 현대적인 색 보정 없음.
+00:00–00:02
+작은 집 현관 밖. 그녀는 낮은 콘크리트 담장에 앉아 양손을 들어 포니테일을 정리한다. 가벼운 산들바람에 머리카락이 흩날린다. 카메라가 초점을 잡느라 애쓰는 동안 그녀는 자연스럽게 미소 짓는다.
+00:02–00:04
+카메라가 화분과 콘크리트 벽으로 둘러싸인 좁은 골목으로 그녀를 따라간다. 길고양이가 다가오는 것을 발견하고 그녀가 쪼그려 앉는다. 촬영자가 따라가느라 프레임이 중심에서 벗어난다.
+00:04–00:06
+그녀가 고양이를 부드럽게 쓰다듬으며 먹이를 준다. 자동 초점이 그녀의 얼굴과 고양이 사이를 반복적으로 오간다. 머리 위 나뭇잎 사이로 아침 햇살이 비친다.
+00:06–00:08
+집 옆의 작은 앞마당. 그녀가 빨래 건조대에 빨래를 너는 동안 천들이 바람에 흔들린다. 구름이 머리 위를 지나가며 노출이 변한다.
+00:08–00:10
+세라믹 커피잔이 놓인 조용한 테라스. 그녀는 편안하게 앉아 동네를 바라보며 가끔 귀 뒤로 머리카락을 넘긴다. 자연스러운 카메라 드리프트가 포함된 느슨한 핸드헬드 측면 앵글.
+00:10–00:12
+측면 클로즈업. 카메라 밖의 누군가가 그녀에게 인사한다. 그녀가 고개를 돌려 손을 흔들며 따뜻하게 미소 짓고, 자연스럽게 “안녕”이라고 말한다. 카메라가 그 순간을 약간 늦게 포착한다.
+00:12–00:15
+커피잔을 들고 나무가 늘어선 주택가 골목을 천천히 걷는다. 그녀가 카메라를 발견하고 작지만 진심 어린 미소를 지은 뒤, 다시 시선을 돌려 계속 걷는다. 캠코더를 끈 것처럼 움직임 도중에 영상이 갑자기 검게 끊긴다.
+
+오디오: 자연스러운 주변 소음만 포함 — 아침 새소리, 멀리서 들리는 오토바이 소리, 가벼운
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072637467816271873/img/i8GL9q7gukT0eCIh.jpg" width="600" alt="한국 다큐멘터리 스타일 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6745)**
+
+**작성자:** [Varun Mehta](https://x.com/varun_j_mehta) | **출처:** [Link](https://x.com/varun_j_mehta/status/2072637540092588361) | **게시일:** Jul 2, 2026
+
+---
+### Glow Mask Rebirth
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 가면이 갈라지며 빛이 뿜어져 나오는 상징적인 비디오 프롬프트로, 슬픔에서 다시 태어남으로의 전환을 표현합니다.
+
+#### 📝 프롬프트
+
+```
+침묵의 슬픔에서 빛나는 재탄생으로. 가면이 갈라지며 내면의 빛이 뿜어져 나오는 모습을 확인해 보세요.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072601714033860608/img/esqhukiAJvhFgcs3.jpg" width="600" alt="Glow Mask Rebirth">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6746)**
+
+**작성자:** [Shah](https://x.com/ai_with_shah) | **출처:** [Link](https://x.com/ai_with_shah/status/2072601802323980359) | **게시일:** Jul 2, 2026
+
+---
+### 공을 쫓는 강아지
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 푸른 잔디밭에서 빨간 공을 쫓는 골든 리트리버 강아지의 모습을 담은 역동적인 측면 뷰 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+장난기 많은 골든 리트리버 강아지가 햇살 가득한 공원 잔디밭을 가로질러 빨간 공을 힘차게 쫓아갑니다. 꼬리를 흔들며 즐겁게 뛰어다니는 강아지의 모습을 카메라가 역동적인 측면 뷰로 부드럽게 따라가며 생생한 초록빛 잔디를 담아냅니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072596733629231104/img/xl6IJHKlOAnKNQ_I.jpg" width="600" alt="공을 쫓는 강아지">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6742)**
+
+**작성자:** [Grok imagine user](https://x.com/imagine_user_) | **출처:** [Link](https://x.com/imagine_user_/status/2072596754328154327) | **게시일:** Jul 2, 2026
+
+---
+### 담요와 노는 장난기 많은 새끼 고양이
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 담요를 가지고 노는 복슬복슬한 새끼 고양이의 상세한 비디오 프롬프트로, 숨을 쉬거나 꼬리를 실룩거리는 등의 미세한 움직임을 보여줍니다.
+
+#### 📝 프롬프트
+
+```
+귀엽고 복슬복슬한 새끼 고양이가 부드러운 담요를 앞발로 툭툭 치며 호기심 어린 눈으로 고개를 갸웃거립니다. 따스한 햇살이 내리쬐는 아늑한 공간에서 자연스럽고 부드러운 움직임과 미세한 숨소리까지 생생하게 표현됩니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072591636929093632/img/xDWl3tznnmXdV6YS.jpg" width="600" alt="담요와 노는 장난기 많은 새끼 고양이">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6739)**
+
+**작성자:** [Grok imagine user](https://x.com/imagine_user_) | **출처:** [Link](https://x.com/imagine_user_/status/2072591652175425705) | **게시일:** Jul 2, 2026
+
+---
+### 평화로운 시골의 여름 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 신선한 채소와 끝없이 펼쳐진 푸른 하늘 등 시골 생활의 소박한 즐거움을 담은 평온한 영상입니다.
+
+#### 📝 프롬프트
+
+```
+평화로운 여름날, 신선한 채소, 끝없이 펼쳐진 푸른 하늘, 그리고 시골 생활의 소박한 즐거움.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072568839783735296/img/LSqzQV0UlmdYm03N.jpg" width="600" alt="평화로운 시골의 여름 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6748)**
+
+**작성자:** [Fatema](https://x.com/heyfatema) | **출처:** [Link](https://x.com/heyfatema/status/2072568898193596863) | **게시일:** Jul 2, 2026
+
+---
+### 영화 같은 우주 파노라마 팬
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 우주 콘솔에서 보라색 별이 빛나는 밤하늘이 보이는 창문을 향해 부드럽게 카메라가 이동하는 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+카메라가 멀리 떨어진 콘솔에 있는 사람으로부터 대형 파노라마 창문을 향해 천천히 부드럽게 이동하며, 밝게 빛나는 별들로 가득 찬 숨 막히는 보라색 밤의 우주 풍경을 점진적으로 드러내고 강조합니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072546400781398016/img/GYatkpkV7erPD7Pw.jpg" width="600" alt="영화 같은 우주 파노라마 팬">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6740)**
+
+**작성자:** [KENDREIK Artist](https://x.com/kendreik) | **출처:** [Link](https://x.com/kendreik/status/2072546454250393631) | **게시일:** Jul 2, 2026
+
+---
+### 미래형 우주선 콘솔 인터랙션
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine을 위한 시네마틱 비디오 프롬프트로, 미래형 조종석에 앉은 인물이 투명한 안경을 쓴 채 카메라 팬과 함께 조종 장치를 조작하는 모습을 담고 있습니다.
+
+#### 📝 프롬프트
+
+```
+미래형 우주선에 탑승한 인물이 가볍고 투명한 안경을 쓴 채 손으로 콘솔 조종 장치를 섬세하게 조작하며 부드럽게 고개를 움직입니다. 밝은 별들이 반짝이는 가운데 카메라가 장면을 따라 천천히 팬(pan)합니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072546323354505216/img/Qawm8hfWMByYdJVA.jpg" width="600" alt="미래형 우주선 콘솔 인터랙션">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6744)**
+
+**작성자:** [KENDREIK Artist](https://x.com/kendreik) | **출처:** [Link](https://x.com/kendreik/status/2072546377251364876) | **게시일:** Jul 2, 2026
+
+---
 ### 초고속 은하 비행
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -327,6 +578,27 @@ Youman,
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6644)**
 
 **작성자:** [Ami A](https://x.com/AA63782) | **출처:** [Link](https://x.com/AA63782/status/2072052487528300851) | **게시일:** Jun 30, 2026
+
+---
+### 빛의 다리를 건너는 여정
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 빛나는 다리를 건너 낡은 세상을 뒤로하고 새로운 길로 나아가는 한 여인의 모습을 담은 서정적인 시네마틱 영상입니다.
+
+#### 📝 프롬프트
+
+```
+그녀는 빛의 다리를 건너갑니다.
+발걸음을 옮길 때마다 낡은 세상은 뒤로 멀어집니다.
+손에 든 등불은 이제 붙잡아야 할 것이 아니라, 앞서 기다리는 새로운 길을 향해 놓아주어야 할 것입니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072050517350481920/img/Pfz-U8MvfZqnRB9v.jpg" width="600" alt="빛의 다리를 건너는 여정">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6749)**
+
+**작성자:** [SophieZX](https://x.com/Z_XSophie) | **출처:** [Link](https://x.com/Z_XSophie/status/2072050846662049816) | **게시일:** Jun 30, 2026
 
 ---
 ### 평화로운 요정 여인과 연꽃 애니메이션
@@ -1913,266 +2185,6 @@ DETAILS: 작업자들이 강철 빔을 설치하고,
 **작성자:** [steve johnson](https://x.com/seeksteve) | **출처:** [Link](https://x.com/seeksteve/status/2069097737631445197) | **게시일:** Jun 22, 2026
 
 ---
-### 빈티지 추상 플래퍼 마켓
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 1920년대 플래퍼 벼룩시장을 추상화 스타일로 표현한 예술적 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-추상화 스타일로 그려진 1920년대 플래퍼 복장을 한 여성들이 있는 빈티지 패션 벼룩시장
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069074678577041408/img/6DicXuBuX-skk71r.jpg" width="600" alt="빈티지 추상 플래퍼 마켓">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6345)**
-
-**작성자:** [Déborah](https://x.com/dvorahfr) | **출처:** [Link](https://x.com/dvorahfr/status/2069076254813233638) | **게시일:** Jun 22, 2026
-
----
-### 커피 컵 상호작용 모션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 커피 컵의 움직임과 배치에 초점을 맞춘 특정 캐릭터 상호작용 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-커피 컵을 가슴 쪽으로 이동시켜 컵이 가슴 위쪽 뼈 부분에 실제로 닿도록 합니다
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069075311174848512/img/TQy-8rEQHABNtQVk.jpg" width="600" alt="커피 컵 상호작용 모션">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6350)**
-
-**작성자:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **출처:** [Link](https://x.com/HawkinsonLindy/status/2069075371547623644) | **게시일:** Jun 22, 2026
-
----
-### 모자를 쓴 노래하는 강아지들
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 모자를 쓰고 즐거운 표정으로 노래하며 움직이는 강아지 영상을 생성하기 위한 재미있는 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-모자를 쓴 강아지들이 "우리는 모자를 쓴 강아지들이고 모자는 벗겨지지 않아"라고 노래하며, 활기차고 즐거운 움직임과 장난기 넘치는 표정을 보여줍니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068989769913131008/img/ZYyhX3vccsI9lY7k.jpg" width="600" alt="모자를 쓴 노래하는 강아지들">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6343)**
-
-**작성자:** [marianne](https://x.com/tuakdotsol) | **출처:** [Link](https://x.com/tuakdotsol/status/2069006656927637598) | **게시일:** Jun 22, 2026
-
----
-### 바닷속 가족 물고기 애니메이션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 바닷속 거대한 엄마 물고기와 아기 물고기들을 담은 디즈니-픽사 스타일의 따뜻한 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-잔잔하고 투명한 청록색 바다를 헤엄치는 거대한 엄마 물고기와 그 뒤를 따르는 아기 물고기들을 담은 아름다운 디지털 페인팅입니다. 작은 물고기들이 엄마 뒤를 바짝 따라가고 있으며, 멀리 형형색색의 산호초가 보입니다. 위에서 내려오는 부드러운 빛이 인상적입니다. 디즈니-픽사 스타일의 예술적 감각, 생동감 넘치는 색감, 마음이 따뜻해지는 가족의 모습을 표현했습니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068967572360605696/img/bwwSFaIHS3o4XVoD.jpg" width="600" alt="바닷속 가족 물고기 애니메이션">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6347)**
-
-**작성자:** [DAAZLE FC](https://x.com/DAAZLEFC) | **출처:** [Link](https://x.com/DAAZLEFC/status/2068967848849117493) | **게시일:** Jun 22, 2026
-
----
-### 후드티를 입고 춤추는 강아지들
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 뒷마당에서 춤추며 노래하는 강아지 무리를 위한 고해상도 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-푸른 잔디와 나무 울타리가 있는 화창한 뒷마당에서 알록달록한 후드티 (빨간색, 파란색, 노란색)를 입은 귀엽고 복슬복슬한 강아지 세 마리. 강아지들은 즐겁고 장난기 넘치는 표정으로 “우리는 후드티를 입은 강아지, 춤출 준비 됐어!”라고 노래하며 활기차게 춤을 춥니다. 동작 순서: 절도 있는 군무, 한 마리가 노래를 주도하고 나머지는 춤을 추며 함께 빙글빙글 돌기, 높이 점프하기, 마지막에는 앞발을 들어 올리며 축하하기. 밝은 햇살, 생생한 색감, 사랑스럽고 귀여운 스타일, 부드러운 애니메이션, 높은 디테일, 재미있고 활기찬 6초 분량의 짧은 영상.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068952215646298113/img/LUImq89MgGO62FwT.jpg" width="600" alt="후드티를 입고 춤추는 강아지들">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6351)**
-
-**작성자:** [liuhuofeiyan](https://x.com/yhjocean) | **출처:** [Link](https://x.com/yhjocean/status/2068953107162370443) | **게시일:** Jun 22, 2026
-
----
-### 수도관 수축 시퀀스
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 물이 흐르다 멈추고 파이프가 누수 없이 수축하는 애니메이션을 위한 기술적 영상 생성 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-영상을 제작할 때.
-영국식 음성으로 변경.
-영어 음성으로 변경.
-5~20초 내에 파이프를 통해 흐르는 물이 멈춰야 합니다.
-그다음.
-파이프가 안쪽으로 수축합니다.
-누수 없이 진행되어야 합니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068952774650306560/img/jl0yD2PO8-nSyBtP.jpg" width="600" alt="수도관 수축 시퀀스">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6354)**
-
-**작성자:** [Luke Clayden](https://x.com/clayden5_luke) | **출처:** [Link](https://x.com/clayden5_luke/status/2068952831491551674) | **게시일:** Jun 22, 2026
-
----
-### 음성 제어 물 애니메이션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 영상 내 보이스오버 변경 및 특정 타이밍에 물 흐름을 멈추도록 지시하는 영상 생성 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-영상 제작 시.
-영국식 발음으로 변경.
-영어 음성으로 변경.
-.
-.
-5~20초 사이에 파이프를 통해 흐르는 물이 멈춰야 함.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068951776275873792/img/KQsGnADBHUPSJPMX.jpg" width="600" alt="음성 제어 물 애니메이션">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6355)**
-
-**작성자:** [Luke Clayden](https://x.com/clayden5_luke) | **출처:** [Link](https://x.com/clayden5_luke/status/2068951864851268085) | **게시일:** Jun 22, 2026
-
----
-### 침팬지 캐릭터 의상 전환
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 사막을 배경으로 카메라를 향해 걸어오며 매끄러운 SF 스타일의 의상 체인지를 선보이는 침팬지 캐릭터의 3D 애니메이션 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-사막에 있는 3D 애니메이션 침팬지 캐릭터. 선장 모자와 빨간색 하트 선글라스를 착용하고 있습니다. 검은색 네온 블루 빛이 나는 SF 슈트에서 파란색 티셔츠와 반바지로 매끄럽게 의상이 전환됩니다. 카메라를 향해 걸어오며 미소를 짓고, 발로 먼지를 일으킵니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068942872360157184/img/V3BZyHjSNCrZ52GZ.jpg" width="600" alt="침팬지 캐릭터 의상 전환">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6356)**
-
-**작성자:** [Haris X](https://x.com/Haris_afxal) | **출처:** [Link](https://x.com/Haris_afxal/status/2068942939066413450) | **게시일:** Jun 22, 2026
-
----
-### 닌자 마법사의 공중 부양 점프
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 건물 사이를 초자연적인 점프로 뛰어넘는 닌자 마법사를 다룬 액션 중심의 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-건물과 건물 사이를 아주 먼 거리까지 공중 부양을 이용해 뛰어넘는 닌자 마법사를 생성해 주세요. 후드나 망토는 없어야 하며, 닌자 마스크만 착용하고 있어야 합니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068910740182880256/img/V8DGeJrsim2Tcqbv.jpg" width="600" alt="닌자 마법사의 공중 부양 점프">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6349)**
-
-**작성자:** [Justin Brennan](https://x.com/jmjbrennan32780) | **출처:** [Link](https://x.com/jmjbrennan32780/status/2068910792565510604) | **게시일:** Jun 22, 2026
-
----
-### 고대 SF 소용돌이 모션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> SF 배경 속 마법 문양과 창조의 소용돌이를 다룬 시네마틱 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-고대의 내면의 불꽃을 깨우고, 힘의 문양을 점화하며, SF 창조의 소용돌이를 해방하라. 구석에 TLV 표시
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068904173983404032/img/HrOkfacMLsRL4HGk.jpg" width="600" alt="고대 SF 소용돌이 모션">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6346)**
-
-**작성자:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **출처:** [Link](https://x.com/TLouisevsughan/status/2068904236185006505) | **게시일:** Jun 22, 2026
-
----
-### 장갑을 낀 춤추는 아기 고양이들
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 장갑을 끼고 즐겁고 활기차게 춤추며 노래하는 아기 고양이들의 모습을 담은 유쾌한 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-장갑을 낀 아기 고양이들이 즐겁고 활기찬 몸짓과 장난기 넘치는 표정으로 “우리는 장갑 낀 아기 고양이”라고 노래하며 춤을 추기 시작합니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068748943706759168/img/A37zMRy8vrFNq5Yp.jpg" width="600" alt="장갑을 낀 춤추는 아기 고양이들">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6318)**
-
-**작성자:** [Imedi](https://x.com/Imedigeorgia) | **출처:** [Link](https://x.com/Imedigeorgia/status/2068749043334054054) | **게시일:** Jun 21, 2026
-
----
-### 장갑을 낀 춤추는 아기 고양이들
-
-![한국어](https://img.shields.io/badge/lang-한국어-orange)
-
-> Grok Imagine을 위한 사랑스러운 비디오 프롬프트로, 장갑을 낀 아기 고양이들이 장난기 넘치는 표정으로 즐거운 노래를 부르며 춤을 추는 모습입니다.
-
-#### 📝 프롬프트
-
-```
-장갑을 낀 아기 고양이들이 춤을 추며 노래를 시작합니다. 고양이들은 "우리는 장갑을 낀 아기 고양이들"이라는 노래를 활기차고 생동감 넘치는 동작과 장난기 가득한 표정으로 부릅니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068748005579108352/img/7_sXRpv2d-A3dfkq.jpg" width="600" alt="장갑을 낀 춤추는 아기 고양이들">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6323)**
-
-**작성자:** [아까긋마](https://x.com/sfbbang) | **출처:** [Link](https://x.com/sfbbang/status/2068748971783381469) | **게시일:** Jun 21, 2026
-
----
-### 구름 위 고대의 수호신들
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 노을이 지는 안개 낀 산맥 위, 화려한 갑옷을 입은 거대한 고대 신들과 그 앞의 외로운 전사를 담은 영화 같은 판타지 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-걸작, 최고 품질, 노을이 지는 안개 낀 산맥 위 구름 속에 서 있는 거대한 고대 수호신들을 담은 초정밀 영화적 판타지 일러스트. 신들은 화려한 전통 갑옷을 입고 있으며 극적인 조명 효과가 더해짐. 작은 전사 한 명이 구름을 타고 그들 아래를 비행함. 주황색과 파란색 구름이 어우러진 웅장한 하늘. 매우 상세하게 묘사된 캐릭터, 구름, 산, 그리고 조명. 
-
-구름 위에 서 있는 네 명의 고대 신들과 그들을 향해 검을 타고 날아가는 외로운 전사.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068723896266993664/img/HpGGCjsBsr5Guch-.jpg" width="600" alt="구름 위 고대의 수호신들">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6317)**
-
-**작성자:** [⭕Kisalay](https://x.com/Kisalay_) | **출처:** [Link](https://x.com/Kisalay_/status/2068723970707448246) | **게시일:** Jun 21, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2234,6 +2246,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-03T07:44:48.405Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-03T11:00:56.467Z</sub>
 
 </div>

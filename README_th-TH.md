@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2018** |
+| 📝 Total Prompts | **2031** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-03** |
 
@@ -189,6 +189,257 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### แมวบนกองเงิน
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแบบเคลื่อนไหวเบาๆ ที่มีแมวอยู่บนกองเงินและลูกโป่งที่สั่นไหวในแสงไฟอ่อนๆ ของห้องนอน
+
+#### 📝 Prompt
+
+```
+กล้องเคลื่อนที่อย่างนุ่มนวล แมวกะพริบตาและขยับหางบนกองเงิน ลูกแมวแตะลูกโป่งสีทองทำให้มันสั่นไหวเล็กน้อย คู่รักยังคงจูบกันอยู่ แสงไฟในห้องนอนดูนุ่มนวล มีการเคลื่อนไหวเพียงเล็กน้อยเท่านั้น
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072808304477159424/img/1KSoWQMoOXanp_SJ.jpg" width="600" alt="แมวบนกองเงิน">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6741)**
+
+**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2072808375604117939) | **Published:** Jul 2, 2026
+
+---
+### เทพธิดาแห่งแสงดาวและเมล็ดแดนดิไลออน
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์เชิงกวีที่นำเสนอตัวละครซึ่งกำลังปล่อยเมล็ดแดนดิไลออนเรืองแสงให้กลายเป็นดวงดาวแห่งวันพรุ่งนี้ ณ สุดขอบโลก
+
+#### 📝 Prompt
+
+```
+เธอยืนอยู่ ณ สุดขอบของทุกสรรพสิ่ง ในมือที่แบออกนั้นกุมความปรารถนาของวันวานเอาไว้ เมื่อเธอปล่อยเมล็ดแดนดิไลออนเรืองแสงเหล่านั้นให้ลอยละล่องไป พวกมันก็ลอยขึ้น ผลิบาน และกลายเป็นดวงดาวแห่งวันพรุ่งนี้
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072801371737202689/img/o54qn6BMN41w_nr2.jpg" width="600" alt="เทพธิดาแห่งแสงดาวและเมล็ดแดนดิไลออน">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6747)**
+
+**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2072801622640525764) | **Published:** Jul 2, 2026
+
+---
+### ร้านทำผม Boutique Garden Hair Salon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง (Prompt) แบบภาพยนตร์ที่มีรายละเอียดสูงสำหรับร้านทำผมบูติกที่ตั้งอยู่ในสวน โดดเด่นด้วยผนังกระจก ทางเดินที่เรียงรายไปด้วยสมุนไพร และการตกแต่งภายในด้วยไม้ที่ให้ความรู้สึกอบอุ่น
+
+#### 📝 Prompt
+
+```
+ร้านทำผมบูติกอันเงียบสงบที่ตั้งอยู่ท่ามกลางสวน หน้าต่างสูงจากพื้นจรดเพดานที่เปิดออกสู่ระเบียงที่จัดแต่งภูมิทัศน์อย่างสวยงาม พร้อมกระถางดินเผาที่ปลูกโรสแมรี่ ลาเวนเดอร์ เซจ และมิ้นต์ เรียงรายไปตามทางเดินหิน ภายในร้านตกแต่งด้วยเคาน์เตอร์ไม้ที่ให้ความรู้สึกอบอุ่น เก้าอี้สาน และเอฟเฟกต์แสงนุ่มนวลที่ดูน่าทึ่ง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072794304259424256/img/2gY6VzYvGxDCtXUv.jpg" width="600" alt="ร้านทำผม Boutique Garden Hair Salon">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6743)**
+
+**Author:** [Lala](https://x.com/LalaBFox) | **Source:** [Link](https://x.com/LalaBFox/status/2072794777272099095) | **Published:** Jul 2, 2026
+
+---
+### ดีไซน์ที่เน้นความอ่อนช้อยสำหรับ Buick Enclave
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอที่อธิบายภาพด้านข้างของรถ Buick Enclave ในดีไซน์ที่ดูอ่อนช้อยและสง่างาม พร้อมภาพประกอบของอาหารเพื่อสุขภาพ
+
+#### 📝 Prompt
+
+```
+ภาพด้านข้างของรถ Buick Enclave ที่มาพร้อมดีไซน์อันอ่อนช้อยและสง่างาม โทนสีกลางที่ให้ความรู้สึกอบอุ่น พร้อมภาพประกอบที่สวยงามของอาหารสดใหม่เพื่อสุขภาพ สมูทตี้สีสันสดใส ทามาเล่ระดับกูร์เมต์ และวัตถุดิบที่สดใหม่
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072764635900432384/img/DRqnx5MrpZvA0eOV.jpg" width="600" alt="ดีไซน์ที่เน้นความอ่อนช้อยสำหรับ Buick Enclave">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6738)**
+
+**Author:** [Lala](https://x.com/LalaBFox) | **Source:** [Link](https://x.com/LalaBFox/status/2072764809699811343) | **Published:** Jul 2, 2026
+
+---
+### นางฟ้าสไตล์โกธิคเดินคู่กับชายหนุ่มสุดเท่
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวภาพยนตร์ที่แสดงภาพนางฟ้าสไตล์โกธิคสวมรองเท้าส้นตึกกำลังเดินไปตามถนนเคียงข้างกับชายหนุ่มรูปงามในชุดสูทสีดำประดับเงิน
+
+#### 📝 Prompt
+
+```
+นางฟ้าสไตล์โกธิค 
+รองเท้าส้นตึก 
+เดินไปตามถนน
+เดินเคียงข้างกับชายหนุ่มรูปงามในชุดสูทสีดำสุดเท่ประดับเงิน
+พวกเขาเดินไปด้วยกันในความเงียบที่เข้าใจกัน
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072712144089735168/img/w8KweMtlETnNpbhT.jpg" width="600" alt="นางฟ้าสไตล์โกธิคเดินคู่กับชายหนุ่มสุดเท่">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6737)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2072712207855673501) | **Published:** Jul 2, 2026
+
+---
+### วิดีโอสไตล์สารคดีเกาหลี
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแบบหลายฉากที่มีรายละเอียดสูง โดยใช้สุนทรียภาพของกล้องวิดีโอ DV ยุค 2000 เพื่อถ่ายทอดช่วงเวลาในชีวิตประจำวันของย่านที่พักอาศัยในเกาหลี
+
+#### 📝 Prompt
+
+```
+ตัวละครหลัก: หญิงสาวชาวเกาหลี อายุประมาณ 20 ปีต้นๆ รูปลักษณ์ดูเป็นธรรมชาติในชีวิตประจำวัน สวมเสื้อครอปแขนกุดสีเทาถ่านซีด กางเกงยีนส์เอวสูงทรงหลวมสีอ่อน รองเท้าผ้าใบสีดำ สร้อยคอเชือกสีดำ ผมสีดำหยักศกมัดหางม้าข้างแบบยุ่งๆ พร้อมหน้าม้าบางๆ ผิวสัมผัสสมจริง แต่งหน้าน้อยมาก บุคลิกอบอุ่นและเข้าถึงง่าย รักษาเอกลักษณ์ เสื้อผ้า ทรงผม และรูปลักษณ์ให้คงเดิมตลอดทั้งวิดีโอ
+สถานที่: ย่านที่พักอาศัยในเกาหลีที่ดูสมจริงในช่วงสายที่เงียบสงบ ตรอกคอนกรีตแคบๆ บ้านเตี้ยๆ ระเบียงเล็กๆ กระถางต้นไม้ ราวตากผ้า จักรยาน เสาไฟฟ้า สายไฟระโยงระยาง ต้นไม้ใหญ่ที่ทอดเงาเคลื่อนไหว บรรยากาศที่พักอาศัยที่เงียบสงบ ไม่มีร้านค้า ป้ายโฆษณา คาเฟ่ ฝูงชน หรือกิจกรรมเชิงพาณิชย์ใดๆ
+สไตล์ภาพ: ความสมจริงแบบสารคดีระดับสูง พฤติกรรมที่เป็นธรรมชาติและไม่ได้ตั้งใจ ภาษาท่าทางที่เป็นธรรมชาติ ให้ความรู้สึกเหมือนภาพชีวิตประจำวันที่ไม่ได้เขียนบท มีความสมจริงของสภาพแวดล้อมสูง รายละเอียดในโลกแห่งความเป็นจริงที่ชัดเจน และการเคลื่อนไหวของมนุษย์ที่ดูน่าเชื่อถือ
+สไตล์กล้อง: สุนทรียภาพของกล้องวิดีโอ DV สำหรับผู้บริโภคยุคต้นปี 2000 เหมือนเพื่อนที่กำลังถ่ายบันทึกช่วงเวลาในชีวิตประจำวันแบบสบายๆ มีการสั่นไหวจากการถือกล้องด้วยมืออย่างชัดเจน การจัดเฟรมที่ไม่สมบูรณ์แบบ ระบบออโต้โฟกัสที่ทำงานไม่นิ่ง การปรับโฟกัสเข้าออก (lens breathing) การปรับแสงวูบวาบเมื่อเคลื่อนที่ระหว่างที่ร่มและแดด มีภาพเบลอจากการเคลื่อนไหวเป็นระยะ มีอาการ Rolling shutter เล็กน้อย มีสัญญาณรบกวนแบบดิจิทัล (digital compression artifacts) สีที่ซีดจาง คอนทราสต์ที่นุ่มนวล และมี Noise จากเซนเซอร์เล็กน้อย ไม่มีการกันสั่น ไม่มีการเคลื่อนไหวกล้องแบบภาพยนตร์ ไม่มีการปรับแต่งสีแบบสมัยใหม่
+00:00–00:02
+บริเวณหน้าทางเข้าบ้านหลังเล็กๆ เธอนั่งอยู่บนกำแพงคอนกรีตเตี้ยๆ กำลังจัดทรงผมหางม้าด้วยมือทั้งสองข้าง สายลมพัดเบาๆ ทำให้ปอยผมปลิวไสว เธอยิ้มอย่างเป็นธรรมชาติในขณะที่กล้องพยายามจับโฟกัส
+00:02–00:04
+กล้องติดตามเธอเข้าไปในตรอกแคบๆ ที่เรียงรายไปด้วยกระถางต้นไม้และกำแพงคอนกรีต เธอสังเกตเห็นแมวจรจัดเดินเข้ามาจึงย่อตัวลง การจัดเฟรมหลุดจากจุดศูนย์กลางเนื่องจากผู้ถ่ายพยายามตามให้ทัน
+00:04–00:06
+เธอค่อยๆ ลูบตัวและให้อาหารแมว ระบบออโต้โฟกัสสลับไปมาระหว่างใบหน้าของเธอกับตัวแมว แสงแดดยามเช้าลอดผ่านใบไม้ลงมา
+00:06–00:08
+สนามหน้าบ้านเล็กๆ ข้างบ้านของเธอ เธอกำลังตากผ้าบนราวในขณะที่ผ้าพริ้วไหวตามสายลม แสงเปลี่ยนไปเมื่อมีเมฆเคลื่อนผ่าน
+00:08–00:10
+บนระเบียงที่เงียบสงบพร้อมถ้วยกาแฟเซรามิก เธอนั่งอย่างสบายใจมองดูย่านที่พักอาศัย พลางทัดผมไว้หลังหูเป็นระยะ มุมกล้องด้านข้างแบบถือด้วยมือที่ดูเป็นธรรมชาติพร้อมการเคลื่อนไหวของกล้องที่ไหลไปตามจังหวะ
+00:10–00:12
+ภาพโคลสอัพด้านข้าง มีคนนอกเฟรมทักทายเธอ เธอหันไป ยกมือขึ้น ยิ้มอย่างอบอุ่น และพูดว่า “อันยอง” อย่างเป็นกันเอง กล้องจับภาพช่วงเวลานี้ได้ช้าไปเล็กน้อย
+00:12–00:15
+เดินช้าๆ ไปตามถนนในย่านที่พักอาศัยที่มีต้นไม้เรียงรายพร้อมถือถ้วยกาแฟ เธอสังเกตเห็นกล้อง จึงยิ้มออกมาอย่างจริงใจเล็กน้อย จากนั้นก็หันไปมองทางอื่นและเดินต่อไป ภาพตัดเป็นสีดำกะทันหันกลางคันเหมือนกับว่ากล้องวิดีโอถูกปิดลง
+
+เสียง: เสียงบรรยากาศธรรมชาติเท่านั้น — เสียงนกร้องยามเช้า เสียงมอเตอร์ไซค์จากระยะไกล เสียงลมเบาๆ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072637467816271873/img/i8GL9q7gukT0eCIh.jpg" width="600" alt="วิดีโอสไตล์สารคดีเกาหลี">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6745)**
+
+**Author:** [Varun Mehta](https://x.com/varun_j_mehta) | **Source:** [Link](https://x.com/varun_j_mehta/status/2072637540092588361) | **Published:** Jul 2, 2026
+
+---
+### Glow Mask Rebirth
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพร้อมท์เชิงสัญลักษณ์ที่แสดงภาพหน้ากากแตกออกเพื่อเผยให้เห็นแสงสว่าง ซึ่งสื่อถึงการเปลี่ยนผ่านจากความเศร้าไปสู่การเกิดใหม่
+
+#### 📝 Prompt
+
+```
+จากความเศร้าอันเงียบงันสู่การเกิดใหม่ที่เปล่งประกาย รับชมภาพหน้ากากที่แตกออกและปลดปล่อยแสงสว่างจากภายใน
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072601714033860608/img/esqhukiAJvhFgcs3.jpg" width="600" alt="Glow Mask Rebirth">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6746)**
+
+**Author:** [Shah](https://x.com/ai_with_shah) | **Source:** [Link](https://x.com/ai_with_shah/status/2072601802323980359) | **Published:** Jul 2, 2026
+
+---
+### ลูกสุนัขวิ่งไล่ลูกบอล
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์มุมมองด้านข้างแบบไดนามิกของลูกสุนัขโกลเด้นรีทรีฟเวอร์ที่กำลังวิ่งไล่ลูกบอลสีแดงบนสนามหญ้าสีเขียว
+
+#### 📝 Prompt
+
+```
+ลูกสุนัขโกลเด้นรีทรีฟเวอร์แสนซนวิ่งไล่ลูกบอลสีแดงอย่างกระตือรือร้นไปบนสนามหญ้าในสวนที่มีแสงแดดส่องถึง มันกระโดดและวิ่งด้วยความสนุกสนานพร้อมกับส่ายหางไปมา กล้องเคลื่อนที่ติดตามลูกสุนัขไปอย่างนุ่มนวลในมุมมองด้านข้างแบบไดนามิก เผยให้เห็นความสดใสของสนามหญ้าสีเขียว
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072596733629231104/img/xl6IJHKlOAnKNQ_I.jpg" width="600" alt="ลูกสุนัขวิ่งไล่ลูกบอล">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6742)**
+
+**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2072596754328154327) | **Published:** Jul 2, 2026
+
+---
+### ลูกแมวแสนซนกับผ้าห่ม
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์ที่มีรายละเอียดของลูกแมวขนฟูที่กำลังเล่นกับผ้าห่ม แสดงให้เห็นการเคลื่อนไหวที่ละเอียดอ่อน เช่น การหายใจและการกระดิกหาง
+
+#### 📝 Prompt
+
+```
+ลูกแมวขนฟูน่ารักกำลังใช้เท้าหน้าตะปบผ้าห่มนุ่มๆ อย่างสนุกสนาน พร้อมเอียงคอด้วยดวงตากลมโตอย่างอยากรู้อยากเห็น แสดงให้เห็นการเคลื่อนไหวที่เป็นธรรมชาติและนุ่มนวล รวมถึงการหายใจที่แผ่วเบา ท่ามกลางบรรยากาศอันอบอุ่นที่มีแสงแดดส่องถึง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072591636929093632/img/xDWl3tznnmXdV6YS.jpg" width="600" alt="ลูกแมวแสนซนกับผ้าห่ม">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6739)**
+
+**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2072591652175425705) | **Published:** Jul 2, 2026
+
+---
+### วิดีโอฤดูร้อนในชนบทอันเงียบสงบ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอที่ถ่ายทอดความสงบสุขและความสุขเรียบง่ายของชีวิตในชนบท ทั้งผักสดจากสวนและท้องฟ้าสีครามที่กว้างไกลสุดสายตา
+
+#### 📝 Prompt
+
+```
+วันฤดูร้อนอันเงียบสงบ ผักสดใหม่ ท้องฟ้าสีครามที่ไร้ที่สิ้นสุด และความสุขเรียบง่ายของชีวิตในชนบท
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072568839783735296/img/LSqzQV0UlmdYm03N.jpg" width="600" alt="วิดีโอฤดูร้อนในชนบทอันเงียบสงบ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6748)**
+
+**Author:** [Fatema](https://x.com/heyfatema) | **Source:** [Link](https://x.com/heyfatema/status/2072568898193596863) | **Published:** Jul 2, 2026
+
+---
+### ภาพมุมกว้างแบบภาพยนตร์ในอวกาศ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์สำหรับการแพนกล้องอย่างนุ่มนวลผ่านคอนโซลในอวกาศไปยังหน้าต่างที่มองเห็นค่ำคืนอันเต็มไปด้วยดวงดาวสีม่วง
+
+#### 📝 Prompt
+
+```
+กล้องค่อย ๆ แพนอย่างนุ่มนวลผ่านฉากจากบุคคลที่อยู่ตรงคอนโซลระยะไกลไปยังหน้าต่างบานใหญ่แบบพาโนรามา เผยให้เห็นและเน้นย้ำถึงทิวทัศน์อวกาศยามค่ำคืนสีม่วงอันน่าทึ่งที่เต็มไปด้วยดวงดาวระยิบระยับสว่างไสว
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072546400781398016/img/GYatkpkV7erPD7Pw.jpg" width="600" alt="ภาพมุมกว้างแบบภาพยนตร์ในอวกาศ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6740)**
+
+**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2072546454250393631) | **Published:** Jul 2, 2026
+
+---
+### การโต้ตอบกับแผงควบคุมยานอวกาศแห่งอนาคต
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวภาพยนตร์สำหรับ Grok Imagine ที่แสดงภาพบุคคลในห้องนักบินแห่งอนาคตกำลังโต้ตอบกับแผงควบคุมขณะสวมแว่นตาโปร่งใส โดยมีกล้องแพนผ่าน
+
+#### 📝 Prompt
+
+```
+บุคคลในยานอวกาศแห่งอนาคตกำลังโต้ตอบกับแผงควบคุมด้วยมืออย่างนุ่มนวล พร้อมขยับศีรษะเล็กน้อยขณะมองผ่านแว่นตาโปร่งใส กล้องค่อย ๆ แพนผ่านฉากไปอย่างช้า ๆ ท่ามกลางแสงดาวที่ส่องประกายระยิบระยับ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072546323354505216/img/Qawm8hfWMByYdJVA.jpg" width="600" alt="การโต้ตอบกับแผงควบคุมยานอวกาศแห่งอนาคต">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6744)**
+
+**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2072546377251364876) | **Published:** Jul 2, 2026
+
+---
 ### การเดินทางข้ามกาแล็กซีด้วยความเร็วเหนือแสง
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -327,6 +578,27 @@ Youman,
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6644)**
 
 **Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2072052487528300851) | **Published:** Jun 30, 2026
+
+---
+### การเดินทางบนสะพานแห่งแสง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอภาพยนตร์เชิงกวีของหญิงสาวคนหนึ่งที่กำลังเดินข้ามสะพานเรืองแสง เพื่อทิ้งโลกใบเก่าไว้เบื้องหลังและก้าวเข้าสู่เส้นทางใหม่
+
+#### 📝 Prompt
+
+```
+เธอก้าวเดินข้ามสะพานแห่งแสง
+ทิ้งโลกใบเก่าไว้เบื้องหลังในทุกย่างก้าว
+โคมไฟในมือของเธอไม่ใช่สิ่งที่ต้องยึดถือไว้อีกต่อไป แต่เป็นสิ่งที่ต้องปล่อยให้ลอยไปสู่เส้นทางใหม่ที่รออยู่เบื้องหน้า
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072050517350481920/img/Pfz-U8MvfZqnRB9v.jpg" width="600" alt="การเดินทางบนสะพานแห่งแสง">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6749)**
+
+**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2072050846662049816) | **Published:** Jun 30, 2026
 
 ---
 ### แอนิเมชันหญิงสาวดั่งนางฟ้าและดอกบัวอันเงียบสงบ
@@ -1913,267 +2185,6 @@ DETAILS: คนงานติดตั้งคานเหล็ก,
 **Author:** [steve johnson](https://x.com/seeksteve) | **Source:** [Link](https://x.com/seeksteve/status/2069097737631445197) | **Published:** Jun 22, 2026
 
 ---
-### ตลาดนัดวินเทจสไตล์ Abstract Flappers
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์เชิงศิลปะสำหรับตลาดนัดยุค 1920s ในสไตล์ภาพวาดแบบ Abstract
-
-#### 📝 Prompt
-
-```
-ตลาดนัดแฟชั่นวินเทจที่มีผู้หญิงแต่งกายเป็นสาวแฟลปเปอร์ยุค 1920s ในสไตล์ภาพวาดแบบ Abstract
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069074678577041408/img/6DicXuBuX-skk71r.jpg" width="600" alt="ตลาดนัดวินเทจสไตล์ Abstract Flappers">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6345)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2069076254813233638) | **Published:** Jun 22, 2026
-
----
-### การเคลื่อนไหวโต้ตอบกับแก้วกาแฟ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (prompt) สำหรับการโต้ตอบของตัวละครที่เน้นไปที่การเคลื่อนไหวและการวางแก้วกาแฟโดยเฉพาะ
-
-#### 📝 Prompt
-
-```
-ขยับแก้วกาแฟมาไว้ที่หน้าอกของเธอ เพื่อให้แก้วสัมผัสกับหน้าอกบริเวณส่วนบนที่เป็นกระดูก
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069075311174848512/img/TQy-8rEQHABNtQVk.jpg" width="600" alt="การเคลื่อนไหวโต้ตอบกับแก้วกาแฟ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6350)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2069075371547623644) | **Published:** Jun 22, 2026
-
----
-### ลูกสุนัขใส่หมวกร้องเพลง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) แสนสนุกสำหรับสร้างวิดีโอของลูกสุนัขใส่หมวกที่กำลังร้องเพลงและขยับตัวด้วยท่าทางที่ร่าเริง
-
-#### 📝 Prompt
-
-```
-ลูกสุนัขใส่หมวกร้องเพลงว่า "we’re dogs with hats and the hats stay on" พร้อมด้วยการเคลื่อนไหวที่สนุกสนาน มีพลัง และสีหน้าที่ขี้เล่น
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068989769913131008/img/ZYyhX3vccsI9lY7k.jpg" width="600" alt="ลูกสุนัขใส่หมวกร้องเพลง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6343)**
-
-**Author:** [marianne](https://x.com/tuakdotsol) | **Source:** [Link](https://x.com/tuakdotsol/status/2069006656927637598) | **Published:** Jun 22, 2026
-
----
-### แอนิเมชันครอบครัวปลาใต้ท้องทะเล
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวอบอุ่นหัวใจสไตล์ Disney-Pixar ของแม่ปลาตัวยักษ์กับลูก ๆ ในมหาสมุทร
-
-#### 📝 Prompt
-
-```
-ภาพวาดดิจิทัลอันงดงามของแม่ปลาตัวยักษ์ที่กำลังพาฝูงลูกปลาตัวน้อยแหวกว่ายไปในมหาสมุทรสีฟ้าครามที่เงียบสงบและใสสะอาด ลูกปลาตัวเล็ก ๆ ว่ายตามหลังมาติด ๆ มองเห็นแนวปะการังสีสันสดใสอยู่ไกล ๆ มีแสงสว่างนวลตาจากด้านบน สไตล์ศิลปะแบบ Disney-Pixar สีสันสดใส เป็นฉากครอบครัวที่อบอุ่นหัวใจ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068967572360605696/img/bwwSFaIHS3o4XVoD.jpg" width="600" alt="แอนิเมชันครอบครัวปลาใต้ท้องทะเล">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6347)**
-
-**Author:** [DAAZLE FC](https://x.com/DAAZLEFC) | **Source:** [Link](https://x.com/DAAZLEFC/status/2068967848849117493) | **Published:** Jun 22, 2026
-
----
-### ลูกสุนัขเต้นระบำในชุดฮู้ด
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอที่มีรายละเอียดสูงสำหรับกลุ่มลูกสุนัขที่กำลังเต้นและร้องเพลงในสวนหลังบ้าน
-
-#### 📝 Prompt
-
-```
-ลูกสุนัขขนฟูน่ารัก 3 ตัวสวมชุดฮู้ดสีสันสดใส (สีแดง สีน้ำเงิน สีเหลือง) ในสวนหลังบ้านที่มีแสงแดดส่องถึง พร้อมสนามหญ้าสีเขียวและรั้วไม้ พวกมันกำลังเต้นอย่างกระฉับกระเฉงและร้องเพลงว่า “พวกเราคือลูกสุนัขในชุดฮู้ด พร้อมจะมาเต้นรำกันแล้ว!” ด้วยสีหน้าที่ร่าเริงและขี้เล่น ลำดับท่าทาง: เต้นพร้อมเพรียงกัน มีตัวหนึ่งเป็นผู้นำร้องเพลงในขณะที่ตัวอื่นเต้นตาม หมุนตัวและเต้นรำไปด้วยกัน กระโดดสูง และจบลงด้วยการชูอุ้งเท้าขึ้นเพื่อเฉลิมฉลอง แสงแดดสดใส สีสันจัดจ้าน สไตล์น่ารักน่าเอ็นดู แอนิเมชันลื่นไหล รายละเอียดสูง เป็นวิดีโอสั้นที่สนุกสนานและมีชีวิตชีวา ความยาว 6 วินาที
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068952215646298113/img/LUImq89MgGO62FwT.jpg" width="600" alt="ลูกสุนัขเต้นระบำในชุดฮู้ด">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6351)**
-
-**Author:** [liuhuofeiyan](https://x.com/yhjocean) | **Source:** [Link](https://x.com/yhjocean/status/2068953107162370443) | **Published:** Jun 22, 2026
-
----
-### ลำดับการหดตัวของท่อน้ำ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) สำหรับสร้างวิดีโอเชิงเทคนิคสำหรับแอนิเมชันที่น้ำหยุดไหลและท่อหดตัวโดยไม่มีการรั่วไหล
-
-#### 📝 Prompt
-
-```
-เมื่อสร้างวิดีโอ
-เปลี่ยนเป็นเสียงสำเนียงอังกฤษ
-เปลี่ยนเป็นเสียงภาษาอังกฤษ
-น้ำต้องหยุดไหลผ่านท่อภายใน 5-20 วินาที
-จากนั้น
-ท่อจะหดตัวเข้าไปด้านใน
-โดยไม่มีการรั่วไหลใดๆ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068952774650306560/img/jl0yD2PO8-nSyBtP.jpg" width="600" alt="ลำดับการหดตัวของท่อน้ำ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6354)**
-
-**Author:** [Luke Clayden](https://x.com/clayden5_luke) | **Source:** [Link](https://x.com/clayden5_luke/status/2068952831491551674) | **Published:** Jun 22, 2026
-
----
-### แอนิเมชันน้ำที่ควบคุมด้วยเสียง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับการสร้างวิดีโอที่สั่งให้เปลี่ยนเสียงบรรยายและกำหนดเวลาเฉพาะสำหรับการหยุดไหลของน้ำในฉาก
-
-#### 📝 Prompt
-
-```
-เมื่อสร้างวิดีโอ
-เปลี่ยนเป็นเสียงสำเนียงอังกฤษ
-เปลี่ยนเป็นเสียงภาษาอังกฤษ
-.
-.
-น้ำต้องหยุดไหลผ่านท่อในช่วงเวลา 5-20 วินาที
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068951776275873792/img/KQsGnADBHUPSJPMX.jpg" width="600" alt="แอนิเมชันน้ำที่ควบคุมด้วยเสียง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6355)**
-
-**Author:** [Luke Clayden](https://x.com/clayden5_luke) | **Source:** [Link](https://x.com/clayden5_luke/status/2068951864851268085) | **Published:** Jun 22, 2026
-
----
-### การเปลี่ยนชุดของตัวละครลิงชิมแปนซี
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์แอนิเมชัน 3D ของตัวละครลิงชิมแปนซีในทะเลทรายที่กำลังเปลี่ยนชุดสไตล์ไซไฟแบบไร้รอยต่อขณะเดินตรงมาที่กล้อง
-
-#### 📝 Prompt
-
-```
-ตัวละครลิงชิมแปนซีแอนิเมชัน 3D ในทะเลทราย สวมหมวกกัปตันและแว่นกันแดดรูปหัวใจสีแดง มีการเปลี่ยนชุดแบบไร้รอยต่อจากชุดไซไฟสีดำเรืองแสงสีนีออนฟ้า เป็นเสื้อยืดสีฟ้าและกางเกงขาสั้น เดินตรงมาที่กล้องพร้อมรอยยิ้มและเตะฝุ่นขึ้นมา
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068942872360157184/img/V3BZyHjSNCrZ52GZ.jpg" width="600" alt="การเปลี่ยนชุดของตัวละครลิงชิมแปนซี">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6356)**
-
-**Author:** [Haris X](https://x.com/Haris_afxal) | **Source:** [Link](https://x.com/Haris_afxal/status/2068942939066413450) | **Published:** Jun 22, 2026
-
----
-### นินจาจอมเวทกระโดดเหินเวหา
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์แนวแอ็กชันที่แสดงภาพนินจาจอมเวทกำลังกระโดดข้ามตึกด้วยพลังเหนือธรรมชาติ
-
-#### 📝 Prompt
-
-```
-สร้างภาพนินจาจอมเวทที่กำลังกระโดดจากตึกหนึ่งไปยังอีกตึกหนึ่งในระยะทางที่ไกลมากโดยใช้พลังเหาะเหินในการกระโดด ไม่ต้องใส่ฮู้ดหรือผ้าคลุม
-ใส่เพียงหน้ากากนินจาเท่านั้น
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068910740182880256/img/V8DGeJrsim2Tcqbv.jpg" width="600" alt="นินจาจอมเวทกระโดดเหินเวหา">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6349)**
-
-**Author:** [Justin Brennan](https://x.com/jmjbrennan32780) | **Source:** [Link](https://x.com/jmjbrennan32780/status/2068910792565510604) | **Published:** Jun 22, 2026
-
----
-### การเคลื่อนไหวของกระแสน้ำวนไซไฟโบราณ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวภาพยนตร์ที่เกี่ยวข้องกับสัญลักษณ์เวทมนตร์และกระแสน้ำวนแห่งการสร้างสรรค์ในฉากไซไฟ
-
-#### 📝 Prompt
-
-```
-ปลุกเปลวไฟภายในแห่งยุคโบราณ ปล่อยให้สัญลักษณ์แห่งพลังลุกโชน ปลดปล่อยกระแสน้ำวนแห่งการสร้างสรรค์ในรูปแบบไซไฟ พร้อม TLV ที่มุมภาพ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068904173983404032/img/HrOkfacMLsRL4HGk.jpg" width="600" alt="การเคลื่อนไหวของกระแสน้ำวนไซไฟโบราณ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6346)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2068904236185006505) | **Published:** Jun 22, 2026
-
----
-### ลูกแมวเต้นระบำสวมถุงมือ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพร้อมท์ที่เต็มไปด้วยความสนุกสนานและพลังของเหล่าลูกแมวสวมถุงมือที่กำลังเต้นและร้องเพลงด้วยสีหน้าท่าทางที่ขี้เล่น
-
-#### 📝 Prompt
-
-```
-เหล่าลูกแมวสวมถุงมือเริ่มเต้นและร้องเพลงว่า “we’re kittens with mittens” ด้วยท่าทางที่สนุกสนาน มีพลัง และสีหน้าท่าทางที่ขี้เล่น
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068748943706759168/img/A37zMRy8vrFNq5Yp.jpg" width="600" alt="ลูกแมวเต้นระบำสวมถุงมือ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6318)**
-
-**Author:** [Imedi](https://x.com/Imedigeorgia) | **Source:** [Link](https://x.com/Imedigeorgia/status/2068749043334054054) | **Published:** Jun 21, 2026
-
----
-### ลูกแมวเต้นระบำในถุงมือไหมพรม
-
-![한국어](https://img.shields.io/badge/lang-한국어-orange)
-
-> พรอมต์วิดีโอสุดน่ารักสำหรับ Grok Imagine ที่มีลูกแมวสวมถุงมือไหมพรมกำลังเต้นและร้องเพลงอย่างร่าเริงด้วยท่าทางที่ขี้เล่น
-
-#### 📝 Prompt
-
-```
-ลูกแมวที่สวมถุงมือไหมพรมเริ่มเต้นและร้องเพลง พวกมันร้องเพลง "We are kittens wearing mittens" ด้วยท่าทางที่ร่าเริง มีชีวิตชีวา และสีหน้าที่ขี้เล่น
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068748005579108352/img/7_sXRpv2d-A3dfkq.jpg" width="600" alt="ลูกแมวเต้นระบำในถุงมือไหมพรม">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6323)**
-
-**Author:** [아까긋마](https://x.com/sfbbang) | **Source:** [Link](https://x.com/sfbbang/status/2068748971783381469) | **Published:** Jun 21, 2026
-
----
-### เทพผู้พิทักษ์โบราณเหนือหมู่เมฆ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวแฟนตาซีระดับภาพยนตร์ ที่นำเสนอภาพเทพเจ้าโบราณขนาดมหึมาในชุดเกราะวิจิตรบรรจง ยืนอยู่เหนือภูเขาที่มีหมอกปกคลุมในช่วงพระอาทิตย์ตกดิน พร้อมกับนักรบผู้โดดเดี่ยว
-
-#### 📝 Prompt
-
-```
-ผลงานระดับมาสเตอร์พีซ คุณภาพดีที่สุด ภาพประกอบแนวแฟนตาซีระดับภาพยนตร์ที่มีรายละเอียดสูงของเทพผู้พิทักษ์โบราณขนาดมหึมาหลายองค์ยืนอยู่บนก้อนเมฆเหนือภูเขาที่มีหมอกปกคลุมในช่วงพระอาทิตย์ตกดิน เหล่าเทพสวมชุดเกราะแบบดั้งเดิมที่วิจิตรบรรจงพร้อมแสงเงาที่ดูน่าเกรงขาม มีนักรบตัวเล็ก ๆ บินอยู่เบื้องล่างบนก้อนเมฆ ท้องฟ้าอันยิ่งใหญ่พร้อมเมฆสีส้มและสีน้ำเงิน ตัวละคร ก้อนเมฆ ภูเขา และแสงเงาที่มีรายละเอียดสูง 
-
-เทพโบราณสี่องค์ยืนอยู่เหนือหมู่เมฆ ในขณะที่นักรบผู้โดดเดี่ยวบินตรงไปยังพวกเขาบนกระบี่ของเขา
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068723896266993664/img/HpGGCjsBsr5Guch-.jpg" width="600" alt="เทพผู้พิทักษ์โบราณเหนือหมู่เมฆ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6317)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2068723970707448246) | **Published:** Jun 21, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2235,6 +2246,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-03T07:44:49.723Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-03T11:00:57.800Z</sub>
 
 </div>

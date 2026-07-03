@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2018** |
+| 📝 Total Prompts | **2031** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-03** |
 
@@ -189,6 +189,257 @@ Una valquiria celestial mística y noble, una mujer digna y hermosa con largo ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Gatos sobre pilas de dinero
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video con movimiento sutil que muestra gatos sobre pilas de dinero y un globo que se tambalea bajo la suave luz de un dormitorio.
+
+#### 📝 Prompt
+
+```
+Desplazamiento suave de cámara. Los gatos parpadean y mueven la cola sobre las pilas de dinero; el gatito toca el globo dorado para que se tambalee ligeramente. La pareja mantiene el beso. Luz suave de dormitorio, solo movimiento sutil.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072808304477159424/img/1KSoWQMoOXanp_SJ.jpg" width="600" alt="Gatos sobre pilas de dinero">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6741)**
+
+**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2072808375604117939) | **Published:** Jul 2, 2026
+
+---
+### Diosa de la luz de las estrellas y las semillas de diente de león
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video poético que presenta a un personaje liberando semillas de diente de león brillantes que se transforman en las estrellas del mañana en el fin del mundo.
+
+#### 📝 Prompt
+
+```
+Ella se encuentra al borde de todo, sosteniendo los deseos de ayer en sus manos abiertas. Cuando finalmente deja ir las brillantes semillas de diente de león, estas se elevan, florecen y se convierten en las estrellas del mañana.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072801371737202689/img/o54qn6BMN41w_nr2.jpg" width="600" alt="Diosa de la luz de las estrellas y las semillas de diente de león">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6747)**
+
+**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2072801622640525764) | **Published:** Jul 2, 2026
+
+---
+### Salón de belleza Boutique Garden
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinematográfico altamente detallado para un salón de belleza boutique ubicado en un jardín, con paredes de vidrio, senderos bordeados de hierbas e interiores de madera cálida.
+
+#### 📝 Prompt
+
+```
+Un sereno salón de belleza boutique ubicado en un entorno de jardín, con ventanales de piso a techo que se abren a terrazas ajardinadas con macetas de terracota de romero, lavanda, salvia y menta bordeando senderos de piedra. En el interior, mostradores de madera cálida, sillas tejidas y efectos dramáticos suaves
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072794304259424256/img/2gY6VzYvGxDCtXUv.jpg" width="600" alt="Salón de belleza Boutique Garden">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6743)**
+
+**Author:** [Lala](https://x.com/LalaBFox) | **Source:** [Link](https://x.com/LalaBFox/status/2072794777272099095) | **Published:** Jul 2, 2026
+
+---
+### Diseño femenino del Buick Enclave
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video que describe una vista lateral de un Buick Enclave con un diseño femenino elegante e imágenes de comida saludable.
+
+#### 📝 Prompt
+
+```
+Vista lateral de un Buick Enclave envuelto en un diseño femenino elegante, colores neutros cálidos, hermosas imágenes de comida fresca y saludable, batidos coloridos, tamales gourmet e ingredientes frescos
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072764635900432384/img/DRqnx5MrpZvA0eOV.jpg" width="600" alt="Diseño femenino del Buick Enclave">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6738)**
+
+**Author:** [Lala](https://x.com/LalaBFox) | **Source:** [Link](https://x.com/LalaBFox/status/2072764809699811343) | **Published:** Jul 2, 2026
+
+---
+### Hada gótica y hombre elegante caminando
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video cinematográfico que muestra a un hada gótica con tacones de plataforma caminando por una carretera junto a un hombre apuesto con un traje negro con detalles plateados.
+
+#### 📝 Prompt
+
+```
+Hada gótica 
+Tacones de plataforma 
+Camina por la carretera
+Acompañada por un hombre apuesto y elegante con traje negro con detalles plateados
+Caminan en un silencio cómplice
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072712144089735168/img/w8KweMtlETnNpbhT.jpg" width="600" alt="Hada gótica y hombre elegante caminando">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6737)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2072712207855673501) | **Published:** Jul 2, 2026
+
+---
+### Video estilo documental coreano
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video multiescena altamente detallado que utiliza la estética de una videocámara DV de los años 2000 para capturar un momento de la vida cotidiana en un vecindario coreano.
+
+#### 📝 Prompt
+
+```
+Sujeto principal: mujer coreana joven, de unos 20 años, apariencia natural y cotidiana, top corto sin mangas en color gris carbón deslavado, jeans holgados de tiro alto en mezclilla clara, tenis de lona negros, collar de cordón negro, cabello negro ondulado en una coleta lateral despeinada con flequillo ligero. Textura de piel realista, maquillaje mínimo, personalidad cálida y accesible. Mantener una identidad, vestimenta, peinado y apariencia consistentes durante todo el video.
+Ubicación: vecindario residencial coreano auténtico durante una tranquila mañana. Callejones estrechos de concreto, casas de poca altura, pequeñas terrazas, plantas en macetas, tendederos, bicicletas, postes de luz, cables aéreos, árboles maduros que proyectan sombras en movimiento, atmósfera residencial silenciosa. Sin tiendas, anuncios, cafeterías, multitudes ni actividad comercial.
+Estilo visual: realismo documental ultra realista. Comportamiento espontáneo genuino. Lenguaje corporal natural. Sensación de vida cotidiana sin guion. Fuerte autenticidad ambiental. Ricos detalles del mundo real y movimiento humano creíble.
+Estilo de cámara: estética de videocámara DV de consumo de principios de los años 2000. Un amigo grabando momentos cotidianos de forma casual. Mucho movimiento de mano, encuadre imperfecto, enfoque automático errático, respiración del lente, cambios de exposición al moverse entre el sol y la sombra, desenfoque de movimiento ocasional, sutil efecto de rolling shutter, leves artefactos de compresión digital, colores deslavados, contraste suave, ligero ruido de sensor. Sin estabilización. Sin movimientos de cámara cinematográficos. Sin corrección de color moderna.
+00:00–00:02
+Fuera de la entrada de una casa pequeña. Ella está sentada en un muro bajo de concreto ajustándose la coleta con ambas manos levantadas. Una brisa ligera mueve los mechones sueltos de su cabello. Sonríe de forma natural mientras la cámara lucha por mantener el enfoque.
+00:02–00:04
+La cámara la sigue hacia un callejón estrecho bordeado de plantas en macetas y muros de concreto. Ella nota que un gato callejero se acerca y se agacha. El encuadre se desplaza fuera del centro mientras el operador intenta seguirla.
+00:04–00:06
+Ella acaricia y alimenta suavemente al gato. El enfoque automático cambia repetidamente entre su rostro y el animal. La luz del sol de la mañana parpadea a través de las hojas sobre ellos.
+00:06–00:08
+Pequeño patio delantero al lado de su casa. Ella cuelga ropa en un tendedero mientras las telas se balancean con la brisa. La exposición cambia a medida que las nubes pasan brevemente por encima.
+00:08–00:10
+En una terraza tranquila con una taza de café de cerámica. Ella está sentada cómodamente observando el vecindario, ocasionalmente apartando el cabello detrás de su oreja. Ángulo lateral suelto, grabado a mano con deriva natural de la cámara.
+00:10–00:12
+Perfil lateral cercano. Alguien fuera de cámara la saluda. Ella se gira, levanta la mano, sonríe cálidamente y dice casualmente: “Annyeong”. La cámara captura el momento con un ligero retraso.
+00:12–00:15
+Caminando lentamente por una calle residencial arbolada sosteniendo su taza de café. Ella nota la cámara, dedica una pequeña sonrisa genuina, luego mira hacia otro lado y continúa caminando. La grabación se corta abruptamente a negro a mitad del movimiento, como si la videocámara se hubiera apagado.
+
+Audio: solo sonido ambiental natural: pájaros por la mañana, motocicletas a lo lejos, luz
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072637467816271873/img/i8GL9q7gukT0eCIh.jpg" width="600" alt="Video estilo documental coreano">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6745)**
+
+**Author:** [Varun Mehta](https://x.com/varun_j_mehta) | **Source:** [Link](https://x.com/varun_j_mehta/status/2072637540092588361) | **Published:** Jul 2, 2026
+
+---
+### Glow Mask Rebirth
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video simbólico que muestra una máscara agrietándose para liberar luz, representando la transición de la tristeza al renacimiento.
+
+#### 📝 Prompt
+
+```
+De la tristeza silenciosa al renacimiento radiante. Observa cómo la máscara se abre y libera la luz que lleva dentro.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072601714033860608/img/esqhukiAJvhFgcs3.jpg" width="600" alt="Glow Mask Rebirth">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6746)**
+
+**Author:** [Shah](https://x.com/ai_with_shah) | **Source:** [Link](https://x.com/ai_with_shah/status/2072601802323980359) | **Published:** Jul 2, 2026
+
+---
+### Cachorro persiguiendo una pelota
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video dinámico con vista lateral de un cachorro golden retriever persiguiendo una pelota roja a través de pasto verde.
+
+#### 📝 Prompt
+
+```
+El juguetón cachorro golden retriever persigue enérgicamente una pelota roja a través del pasto soleado del parque, saltando y corriendo con alegría mientras mueve la cola; la cámara sigue suavemente al cachorro en una vista lateral dinámica, capturando el vibrante pasto verde.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072596733629231104/img/xl6IJHKlOAnKNQ_I.jpg" width="600" alt="Cachorro persiguiendo una pelota">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6742)**
+
+**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2072596754328154327) | **Published:** Jul 2, 2026
+
+---
+### Gatito juguetón con manta
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video detallado de un gatito esponjoso jugando con una manta, mostrando movimientos sutiles como la respiración y el movimiento de la cola.
+
+#### 📝 Prompt
+
+```
+El lindo y esponjoso gatito golpea juguetonamente con su pata la suave manta e inclina la cabeza con curiosidad mientras abre mucho sus ojos, mostrando movimientos naturales y suaves, además de una respiración sutil, todo dentro de un acogedor entorno iluminado por el sol.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072591636929093632/img/xDWl3tznnmXdV6YS.jpg" width="600" alt="Gatito juguetón con manta">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6739)**
+
+**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2072591652175425705) | **Published:** Jul 2, 2026
+
+---
+### Video de un apacible verano en el campo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un video sereno que retrata las alegrías sencillas de la vida en el campo, incluyendo vegetales frescos y cielos azules infinitos.
+
+#### 📝 Prompt
+
+```
+Un día de verano tranquilo, vegetales frescos, cielos azules infinitos y la alegría sencilla de la vida en el campo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072568839783735296/img/LSqzQV0UlmdYm03N.jpg" width="600" alt="Video de un apacible verano en el campo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6748)**
+
+**Author:** [Fatema](https://x.com/heyfatema) | **Source:** [Link](https://x.com/heyfatema/status/2072568898193596863) | **Published:** Jul 2, 2026
+
+---
+### Panorámica cinematográfica de espacio
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video para un movimiento de cámara fluido a través de una consola espacial hacia una ventana con vista a una noche estrellada de color púrpura.
+
+#### 📝 Prompt
+
+```
+La cámara realiza un paneo lento y fluido a través de la escena, desde la persona en la consola distante hacia los grandes ventanales panorámicos, revelando y enfatizando gradualmente la impresionante vista del espacio nocturno púrpura lleno de estrellas brillantes y centelleantes
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072546400781398016/img/GYatkpkV7erPD7Pw.jpg" width="600" alt="Panorámica cinematográfica de espacio">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6740)**
+
+**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2072546454250393631) | **Published:** Jul 2, 2026
+
+---
+### Interacción con la consola de una nave espacial futurista
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video cinematográfico para Grok Imagine que muestra a una persona en una cabina futurista interactuando con los controles mientras mira a través de lentes transparentes mientras la cámara hace un paneo.
+
+#### 📝 Prompt
+
+```
+La persona en la nave espacial futurista interactúa sutilmente con los controles de la consola usando sus manos y realiza movimientos suaves de cabeza mientras mira a través de lentes transparentes y ligeros. La cámara hace un paneo lento a través de la escena mientras las estrellas brillantes centellean
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072546323354505216/img/Qawm8hfWMByYdJVA.jpg" width="600" alt="Interacción con la consola de una nave espacial futurista">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6744)**
+
+**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2072546377251364876) | **Published:** Jul 2, 2026
+
+---
 ### Vuelo galáctico a hipervelocidad
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -327,6 +578,27 @@ Acercamiento lento hacia el niño que dibuja cohetes a la luz de las velas; las 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6644)**
 
 **Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2072052487528300851) | **Published:** Jun 30, 2026
+
+---
+### El viaje del puente de luz
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un video cinematográfico y poético de una mujer cruzando un puente resplandeciente, dejando atrás el viejo mundo por un nuevo camino.
+
+#### 📝 Prompt
+
+```
+Ella camina a través del puente de luz,
+dejando atrás el viejo mundo con cada paso.
+La linterna en su mano ya no es algo que deba sostener, sino algo que debe liberar hacia el nuevo camino que le espera por delante.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072050517350481920/img/Pfz-U8MvfZqnRB9v.jpg" width="600" alt="El viaje del puente de luz">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6749)**
+
+**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2072050846662049816) | **Published:** Jun 30, 2026
 
 ---
 ### Animación de hadas pacíficas y loto
@@ -1913,267 +2185,6 @@ comienza con [Image1] como el primer fotograma exacto, realiza un zoom rápido a
 **Author:** [steve johnson](https://x.com/seeksteve) | **Source:** [Link](https://x.com/seeksteve/status/2069097737631445197) | **Published:** Jun 22, 2026
 
 ---
-### Mercado de Flappers Abstractas Vintage
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt artístico para un mercado de pulgas de flappers de los años 20 en estilo de pintura abstracta.
-
-#### 📝 Prompt
-
-```
-un mercado de pulgas de moda vintage con mujeres vestidas como flappers de los años 20 al estilo de una pintura abstracta
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069074678577041408/img/6DicXuBuX-skk71r.jpg" width="600" alt="Mercado de Flappers Abstractas Vintage">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6345)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2069076254813233638) | **Published:** Jun 22, 2026
-
----
-### Movimiento de interacción con taza de café
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de interacción de personaje específico enfocado en el movimiento y la colocación de una taza de café.
-
-#### 📝 Prompt
-
-```
-Mueve la taza de café hacia su pecho de modo que la taza realmente toque su pecho en la parte alta, sobre la zona ósea
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069075311174848512/img/TQy-8rEQHABNtQVk.jpg" width="600" alt="Movimiento de interacción con taza de café">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6350)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2069075371547623644) | **Published:** Jun 22, 2026
-
----
-### Cachorros cantando con sombreros
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt divertido para generar un video de cachorros con sombreros cantando y moviéndose con expresiones alegres.
-
-#### 📝 Prompt
-
-```
-Los cachorros con sombreros cantan "somos perros con sombreros y los sombreros se quedan puestos" con movimientos alegres y enérgicos y expresiones juguetonas.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068989769913131008/img/ZYyhX3vccsI9lY7k.jpg" width="600" alt="Cachorros cantando con sombreros">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6343)**
-
-**Author:** [marianne](https://x.com/tuakdotsol) | **Source:** [Link](https://x.com/tuakdotsol/status/2069006656927637598) | **Published:** Jun 22, 2026
-
----
-### Animación de familia de peces bajo el mar
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un conmovedor prompt de video inspirado en Disney-Pixar que muestra a una madre pez gigante y sus crías en el océano.
-
-#### 📝 Prompt
-
-```
-Hermosa pintura digital de una madre pez gigante guiando a sus pequeños peces bebés a través de un océano turquesa tranquilo y cristalino. Los peces pequeños la siguen de cerca. Corales coloridos visibles a lo lejos. Luz suave y brillante desde arriba. Estilo artístico inspirado en Disney-Pixar, colores vibrantes, escena familiar conmovedora.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068967572360605696/img/bwwSFaIHS3o4XVoD.jpg" width="600" alt="Animación de familia de peces bajo el mar">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6347)**
-
-**Author:** [DAAZLE FC](https://x.com/DAAZLEFC) | **Source:** [Link](https://x.com/DAAZLEFC/status/2068967848849117493) | **Published:** Jun 22, 2026
-
----
-### Cachorritos bailando con sudaderas
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video altamente detallado de un grupo de cachorritos bailando y cantando en un patio trasero.
-
-#### 📝 Prompt
-
-```
-Tres lindos cachorritos peludos usando sudaderas coloridas (roja, azul, amarilla) en un patio trasero soleado con césped verde y una cerca de madera. Están bailando enérgicamente y cantando “¡Somos cachorritos en sudaderas, listos para bailar!” con expresiones alegres y juguetonas. Secuencia de acciones: baile sincronizado, uno liderando la canción mientras los otros bailan, girando y dando vueltas juntos, saltando alto, terminando con las patas levantadas en celebración. Luz solar brillante, colores vibrantes, estilo adorable y tierno, animación fluida, alto detalle, video corto divertido y animado, 6 segundos
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068952215646298113/img/LUImq89MgGO62FwT.jpg" width="600" alt="Cachorritos bailando con sudaderas">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6351)**
-
-**Author:** [liuhuofeiyan](https://x.com/yhjocean) | **Source:** [Link](https://x.com/yhjocean/status/2068953107162370443) | **Published:** Jun 22, 2026
-
----
-### Secuencia de retracción de tubería de agua
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt técnico de generación de video para una animación donde el agua deja de fluir y una tubería se retrae sin fugas.
-
-#### 📝 Prompt
-
-```
-Al crear un video.
-Cambiar a voz británica.
-Cambiar a voz en inglés.
-el agua debe dejar de fluir a través de la tubería en 5-20 segundos.
-luego
-la tubería se retrae hacia adentro.
-sin ninguna fuga.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068952774650306560/img/jl0yD2PO8-nSyBtP.jpg" width="600" alt="Secuencia de retracción de tubería de agua">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6354)**
-
-**Author:** [Luke Clayden](https://x.com/clayden5_luke) | **Source:** [Link](https://x.com/clayden5_luke/status/2068952831491551674) | **Published:** Jun 22, 2026
-
----
-### Animación de agua controlada por voz
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de generación de video que indica un cambio de voz en off y un tiempo específico para que el flujo de agua se detenga en una escena.
-
-#### 📝 Prompt
-
-```
-Al crear un video.
-Cambia a voz británica.
-Cambia a voz en inglés.
-.
-.
-el agua debe dejar de fluir a través de la tubería entre los 5 y 20 segundos.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068951776275873792/img/KQsGnADBHUPSJPMX.jpg" width="600" alt="Animación de agua controlada por voz">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6355)**
-
-**Author:** [Luke Clayden](https://x.com/clayden5_luke) | **Source:** [Link](https://x.com/clayden5_luke/status/2068951864851268085) | **Published:** Jun 22, 2026
-
----
-### Transición de atuendo de personaje de chimpancé
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de animación 3D de un personaje de chimpancé en un desierto realizando un cambio de atuendo de ciencia ficción fluido mientras camina hacia la cámara.
-
-#### 📝 Prompt
-
-```
-Personaje de chimpancé animado en 3D en un desierto. Usa una gorra de capitán y lentes de sol de corazón rojo. Transición fluida de cambio de atuendo de un traje de ciencia ficción negro con luces de neón azul a una camiseta azul y pantalones cortos. Camina hacia la cámara, sonriendo y levantando polvo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068942872360157184/img/V3BZyHjSNCrZ52GZ.jpg" width="600" alt="Transición de atuendo de personaje de chimpancé">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6356)**
-
-**Author:** [Haris X](https://x.com/Haris_afxal) | **Source:** [Link](https://x.com/Haris_afxal/status/2068942939066413450) | **Published:** Jun 22, 2026
-
----
-### Salto de levitación del mago ninja
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt orientado a la acción que muestra a un mago ninja realizando un salto sobrenatural entre edificios.
-
-#### 📝 Prompt
-
-```
-Crea un mago ninja saltando de un edificio a otro, cubriendo una gran distancia usando levitación para realizar el salto, sin capucha ni capa.
-Solo una máscara ninja
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068910740182880256/img/V8DGeJrsim2Tcqbv.jpg" width="600" alt="Salto de levitación del mago ninja">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6349)**
-
-**Author:** [Justin Brennan](https://x.com/jmjbrennan32780) | **Source:** [Link](https://x.com/jmjbrennan32780/status/2068910792565510604) | **Published:** Jun 22, 2026
-
----
-### Vórtice de movimiento de ciencia ficción antigua
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video cinematográfico que involucra sellos mágicos y un vórtice de creación en un entorno de ciencia ficción.
-
-#### 📝 Prompt
-
-```
-Despierta la llama interna de los tiempos antiguos, deja que los sellos de poder se enciendan, libera el Vórtice de creación de ciencia ficción, TLV en la esquina
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068904173983404032/img/HrOkfacMLsRL4HGk.jpg" width="600" alt="Vórtice de movimiento de ciencia ficción antigua">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6346)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2068904236185006505) | **Published:** Jun 22, 2026
-
----
-### Gatitos bailando con mitones
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video alegre y lleno de energía de gatitos usando mitones mientras bailan y cantan con expresiones juguetonas.
-
-#### 📝 Prompt
-
-```
-Los gatitos con mitones comienzan a bailar y cantar “somos gatitos con mitones” con movimientos alegres y enérgicos y expresiones juguetonas.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068748943706759168/img/A37zMRy8vrFNq5Yp.jpg" width="600" alt="Gatitos bailando con mitones">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6318)**
-
-**Author:** [Imedi](https://x.com/Imedigeorgia) | **Source:** [Link](https://x.com/Imedigeorgia/status/2068749043334054054) | **Published:** Jun 21, 2026
-
----
-### Gatitos bailando con mitones
-
-![한국어](https://img.shields.io/badge/lang-한국어-orange)
-
-> Un adorable prompt de video para Grok Imagine que muestra a gatitos con mitones bailando y cantando una canción alegre con expresiones juguetonas.
-
-#### 📝 Prompt
-
-```
-Gatitos usando mitones comienzan a bailar y cantar. Cantan la canción "We are kittens wearing mittens" con movimientos alegres y animados, y expresiones juguetonas.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068748005579108352/img/7_sXRpv2d-A3dfkq.jpg" width="600" alt="Gatitos bailando con mitones">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6323)**
-
-**Author:** [아까긋마](https://x.com/sfbbang) | **Source:** [Link](https://x.com/sfbbang/status/2068748971783381469) | **Published:** Jun 21, 2026
-
----
-### Antiguas deidades guardianas sobre las nubes
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video de fantasía cinematográfica que presenta a enormes dioses antiguos con armaduras ornamentadas sobre montañas brumosas al atardecer, junto a un guerrero solitario.
-
-#### 📝 Prompt
-
-```
-Obra maestra, mejor calidad, ilustración de fantasía cinematográfica ultra detallada de varias deidades guardianas antiguas masivas de pie sobre las nubes, encima de montañas brumosas al atardecer. Los dioses llevan armaduras tradicionales ornamentadas con iluminación dramática. Un pequeño guerrero vuela debajo de ellos sobre una nube. Cielo épico con nubes naranjas y azules. Personajes, nubes, montañas e iluminación altamente detallados.
-
-Cuatro dioses antiguos de pie sobre las nubes mientras un guerrero solitario vuela hacia ellos sobre su espada.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068723896266993664/img/HpGGCjsBsr5Guch-.jpg" width="600" alt="Antiguas deidades guardianas sobre las nubes">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6317)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2068723970707448246) | **Published:** Jun 21, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2235,6 +2246,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-03T07:44:55.925Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-03T11:01:03.291Z</sub>
 
 </div>

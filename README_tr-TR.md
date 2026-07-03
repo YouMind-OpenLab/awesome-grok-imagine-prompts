@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2018** |
+| 📝 Total Prompts | **2031** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-03** |
 
@@ -189,6 +189,257 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Para Yığınları Üzerindeki Kediler
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Para yığınları üzerinde duran kediler ve yumuşak yatak odası ışığında sallanan bir balon içeren, hafif hareketli bir video istemi.
+
+#### 📝 Prompt
+
+```
+Hafif kamera kayması. Kediler para yığınları üzerinde gözlerini kırpıyor ve kuyruklarını seğirtiyor; yavru kedi altın renkli balona dokunuyor ve balon hafifçe sallanıyor. Çift öpüşmeye devam ediyor. Yumuşak yatak odası ışığı, sadece ince hareketler.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072808304477159424/img/1KSoWQMoOXanp_SJ.jpg" width="600" alt="Para Yığınları Üzerindeki Kediler">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6741)**
+
+**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2072808375604117939) | **Published:** Jul 2, 2026
+
+---
+### Yıldız Işığı ve Karahindiba Tohumlarının Tanrıçası
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Dünyanın ucunda, parlayan karahindiba tohumlarını serbest bırakarak onları yarının yıldızlarına dönüştüren bir karakteri konu alan şiirsel bir video istemi.
+
+#### 📝 Prompt
+
+```
+Her şeyin bittiği noktada duruyor, dünün dileklerini açık avuçlarında tutuyor. Nihayet parlayan karahindiba tohumlarını serbest bıraktığında, tohumlar yükselip çiçek açıyor ve yarının yıldızlarına dönüşüyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072801371737202689/img/o54qn6BMN41w_nr2.jpg" width="600" alt="Yıldız Işığı ve Karahindiba Tohumlarının Tanrıçası">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6747)**
+
+**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2072801622640525764) | **Published:** Jul 2, 2026
+
+---
+### Boutique Garden Hair Salon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir bahçe içine gizlenmiş butik bir kuaför salonu için cam duvarlar, bitkilerle çevrili yollar ve sıcak ahşap iç mekanlar içeren, son derece detaylı sinematik bir istem.
+
+#### 📝 Prompt
+
+```
+Bahçe ortamında yer alan huzurlu bir butik kuaför salonu; tabandan tavana pencereler, biberiye, lavanta, adaçayı ve nane dolu terakota saksıların süslediği taş yollara açılan peyzajlı teraslara bakıyor. İçeride ise sıcak ahşap tezgahlar, hasır sandalyeler ve yumuşak, dramatik ışık efektleri bulunuyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072794304259424256/img/2gY6VzYvGxDCtXUv.jpg" width="600" alt="Boutique Garden Hair Salon">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6743)**
+
+**Author:** [Lala](https://x.com/LalaBFox) | **Source:** [Link](https://x.com/LalaBFox/status/2072794777272099095) | **Published:** Jul 2, 2026
+
+---
+### Buick Enclave Feminen Tasarım
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Zarif ve feminen bir tasarıma sahip Buick Enclave'in yan görünüşünü ve sağlıklı yiyecek görsellerini betimleyen bir video istemi.
+
+#### 📝 Prompt
+
+```
+Zarif ve feminen bir tasarımla kaplanmış Buick Enclave'in yan görünüşü, sıcak nötr renkler, taze ve sağlıklı yiyeceklerin güzel görselleri, renkli smoothie'ler, gurme tamale'ler ve taze malzemeler
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072764635900432384/img/DRqnx5MrpZvA0eOV.jpg" width="600" alt="Buick Enclave Feminen Tasarım">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6738)**
+
+**Author:** [Lala](https://x.com/LalaBFox) | **Source:** [Link](https://x.com/LalaBFox/status/2072764809699811343) | **Published:** Jul 2, 2026
+
+---
+### Gotik Peri ve Şık Bir Adam Yürüyor
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Platform topuklu ayakkabılar giymiş gotik bir perinin, gümüş detaylı siyah takım elbiseli yakışıklı bir adamla birlikte yolda yürüdüğü sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Gotik peri 
+platform topuklu ayakkabılar 
+Yolda yürüyor
+Siyah, gümüş detaylı şık takım elbiseli yakışıklı bir adam ona eşlik ediyor
+Anlaşılır bir sessizlik içinde yürüyorlar
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072712144089735168/img/w8KweMtlETnNpbhT.jpg" width="600" alt="Gotik Peri ve Şık Bir Adam Yürüyor">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6737)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2072712207855673501) | **Published:** Jul 2, 2026
+
+---
+### Kore Belgesel Tarzı Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 2000'lerin DV video kamera estetiğini kullanarak bir Kore mahallesindeki gündelik yaşamdan bir kesiti yakalayan, oldukça detaylı ve çok sahneli bir video istemi.
+
+#### 📝 Prompt
+
+```
+Ana özne: Genç Koreli kadın, 20'li yaşların başı, doğal günlük görünüm, soluk kömür grisi kolsuz kısa üst, bol yüksek belli açık renkli kot pantolon, siyah kanvas spor ayakkabılar, siyah kordon kolye, dağınık yan at kuyruğu yapılmış siyah dalgalı saçlar ve seyrek perçemler. Gerçekçi cilt dokusu, minimal makyaj, sıcak ve cana yakın bir kişilik. Video boyunca kimliği, kıyafeti, saç stilini ve görünümü tutarlı tutun.
+Konum: Sakin bir sabah geç saatlerde otantik bir Kore yerleşim bölgesi. Dar beton ara sokaklar, alçak katlı evler, küçük teraslar, saksı bitkileri, çamaşır ipleri, bisikletler, elektrik direkleri, havai hatlar, hareketli gölgeler oluşturan olgun ağaçlar, sessiz bir mahalle atmosferi. Mağaza, reklam, kafe, kalabalık veya ticari faaliyet yok.
+Görsel Tarz: Ultra gerçekçi belgesel gerçekçiliği. Samimi ve doğal davranışlar. Doğal vücut dili. Senaryosuz, hayattan bir kesit hissi. Güçlü çevresel özgünlük. Zengin gerçek dünya detayları ve inandırıcı insan hareketleri.
+Kamera Tarzı: 2000'lerin başındaki tüketici tipi DV video kamera estetiği. Bir arkadaşın gündelik anları gelişigüzel kaydetmesi. Belirgin el titremesi, kusurlu kadraj, sık sık odak arama, lens nefes alması, güneş ve gölge arasında hareket ederken pozlama dalgalanmaları, ara sıra hareket bulanıklığı, hafif rolling shutter etkisi, hafif dijital sıkıştırma bozulmaları, soluk renkler, yumuşak kontrast, hafif sensör gürültüsü. Sabitleme yok. Sinematik kamera hareketleri yok. Modern renk düzenlemesi yok.
+00:00–00:02
+Küçük bir ev girişinin dışı. Alçak bir beton duvarın üzerinde oturuyor, iki eliyle at kuyruğunu düzeltiyor. Hafif bir esinti saç tellerini hareket ettiriyor. Kamera odaklanmakta zorlanırken o doğal bir şekilde gülümsüyor.
+00:02–00:04
+Kamera onu saksı bitkileri ve beton duvarlarla çevrili dar bir sokağa kadar takip ediyor. Yaklaşan sokak kedisini fark edip çömeliyor. Kameraman ona yetişmeye çalışırken kadraj merkezden kayıyor.
+00:04–00:06
+Kediyi nazikçe seviyor ve besliyor. Otomatik odaklama sürekli olarak yüzü ile hayvan arasında gidip geliyor. Sabah güneş ışığı tepedeki yaprakların arasından titreyerek geçiyor.
+00:06–00:08
+Evinin yanındaki küçük ön bahçe. Kumaşlar esintide sallanırken çamaşır ipine çamaşır asıyor. Bulutlar tepeden kısa süreliğine geçerken pozlama değişiyor.
+00:08–00:10
+Seramik bir kahve fincanı ile sessiz bir terasta. Rahat bir şekilde oturup mahalleyi izliyor, ara sıra saçını kulağının arkasına atıyor. Doğal kamera kaymasıyla gevşek el kamerası yan açısı.
+00:10–00:12
+Yandan yakın profil. Kamera dışından biri ona selam veriyor. Dönüyor, elini kaldırıyor, sıcak bir şekilde gülümsüyor ve doğal bir şekilde “Annyeong” diyor. Kamera anı biraz geç yakalıyor.
+00:12–00:15
+Kahve fincanını tutarak ağaçlıklı bir yerleşim sokağında yavaşça yürüyor. Kamerayı fark ediyor, küçük ve samimi bir gülümseme veriyor, ardından başka yöne bakıp yürümeye devam ediyor. Kayıt, sanki video kamera kapatılmış gibi hareketin ortasında aniden siyaha düşüyor.
+
+Ses: Sadece doğal ortam sesleri — sabah kuşları, uzaktan gelen motosikletler, hafif
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072637467816271873/img/i8GL9q7gukT0eCIh.jpg" width="600" alt="Kore Belgesel Tarzı Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6745)**
+
+**Author:** [Varun Mehta](https://x.com/varun_j_mehta) | **Source:** [Link](https://x.com/varun_j_mehta/status/2072637540092588361) | **Published:** Jul 2, 2026
+
+---
+### Glow Mask Rebirth
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir maskenin kırılarak içinden ışık saçtığı, üzüntüden yeniden doğuşa geçişi temsil eden sembolik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Sessiz bir hüzünden ışıl ışıl bir yeniden doğuşa. Maskenin çatlayıp içindeki ışığı serbest bırakışını izleyin.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072601714033860608/img/esqhukiAJvhFgcs3.jpg" width="600" alt="Glow Mask Rebirth">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6746)**
+
+**Author:** [Shah](https://x.com/ai_with_shah) | **Source:** [Link](https://x.com/ai_with_shah/status/2072601802323980359) | **Published:** Jul 2, 2026
+
+---
+### Topu Kovalayan Yavru Köpek
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yeşil çimenler üzerinde kırmızı bir topu kovalayan golden retriever cinsi yavru köpeğin dinamik, yandan çekim video istemi.
+
+#### 📝 Prompt
+
+```
+Oyuncu golden retriever yavrusu, güneşli parkın çimenleri üzerinde kırmızı bir topu neşeyle kovalıyor; kuyruğunu sallayarak zıplıyor ve koşuyor. Kamera, canlı yeşil çimenleri yakalayarak dinamik bir yan açıyla yavru köpeği pürüzsüz bir şekilde takip ediyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072596733629231104/img/xl6IJHKlOAnKNQ_I.jpg" width="600" alt="Topu Kovalayan Yavru Köpek">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6742)**
+
+**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2072596754328154327) | **Published:** Jul 2, 2026
+
+---
+### Battaniye ile Oynayan Sevimli Yavru Kedi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Battaniye ile oynayan tüylü bir yavru kedinin; nefes alma ve kuyruk seğirmesi gibi ince hareketlerini gösteren detaylı bir video istemi.
+
+#### 📝 Prompt
+
+```
+Sevimli ve tüylü yavru kedi, yumuşak battaniyeye patisiyle oyunbaz bir şekilde vuruyor ve büyük gözleriyle merakla başını yana eğiyor; güneş alan bu huzurlu ortamda, nazik ve doğal hareketler sergileyerek hafifçe nefes alıp veriyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072591636929093632/img/xDWl3tznnmXdV6YS.jpg" width="600" alt="Battaniye ile Oynayan Sevimli Yavru Kedi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6739)**
+
+**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2072591652175425705) | **Published:** Jul 2, 2026
+
+---
+### Huzurlu Kırsal Yaz Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Taze sebzeler ve uçsuz bucaksız mavi gökyüzü dahil olmak üzere, kırsal yaşamın basit neşelerini tasvir eden dingin bir video.
+
+#### 📝 Prompt
+
+```
+Huzurlu bir yaz günü, taze sebzeler, uçsuz bucaksız mavi gökyüzü ve kırsal yaşamın sunduğu basit mutluluk.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072568839783735296/img/LSqzQV0UlmdYm03N.jpg" width="600" alt="Huzurlu Kırsal Yaz Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6748)**
+
+**Author:** [Fatema](https://x.com/heyfatema) | **Source:** [Link](https://x.com/heyfatema/status/2072568898193596863) | **Published:** Jul 2, 2026
+
+---
+### Sinematik Uzay Panoramik Kaydırma
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Uzay konsolundan mor yıldızlı bir geceyi gösteren pencereye doğru yumuşak bir kamera kaydırması için video istemi.
+
+#### 📝 Prompt
+
+```
+Kamera, uzaktaki konsolda bulunan kişiden geniş panoramik pencerelere doğru yavaş ve yumuşak bir şekilde kayarak, parlak ve parıldayan yıldızlarla dolu nefes kesici mor gece uzay manzarasını kademeli olarak ortaya çıkarır ve vurgular.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072546400781398016/img/GYatkpkV7erPD7Pw.jpg" width="600" alt="Sinematik Uzay Panoramik Kaydırma">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6740)**
+
+**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2072546454250393631) | **Published:** Jul 2, 2026
+
+---
+### Fütüristik Uzay Aracı Konsolu Etkileşimi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kamera kayarken şeffaf gözlüklerin ardından bakarak kontrollerle etkileşime giren fütüristik bir kokpitteki kişiyi konu alan, Grok Imagine için sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Fütüristik uzay aracındaki kişi, hafif şeffaf gözlüklerin ardından bakarken ellerini kullanarak konsol kontrolleriyle incelikli bir şekilde etkileşime giriyor ve hafif baş hareketleri yapıyor. Kamera sahne boyunca yavaşça kayarken parlak yıldızlar parıldıyor
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072546323354505216/img/Qawm8hfWMByYdJVA.jpg" width="600" alt="Fütüristik Uzay Aracı Konsolu Etkileşimi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6744)**
+
+**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2072546377251364876) | **Published:** Jul 2, 2026
+
+---
 ### Hiper Hızlı Galaktik Uçuş
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -327,6 +578,27 @@ Mum ışığında roketler çizen çocuğa doğru yavaş yakın çekim; not deft
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6644)**
 
 **Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2072052487528300851) | **Published:** Jun 30, 2026
+
+---
+### Işık Köprüsü Yolculuğu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Eski dünyayı geride bırakıp yeni bir yola adım atan, parlayan bir köprüden geçen bir kadının şiirsel ve sinematik videosu.
+
+#### 📝 Prompt
+
+```
+Işık köprüsünün üzerinde yürüyor,
+her adımda eski dünyayı geride bırakarak.
+Elindeki fener artık tutulacak bir şey değil, önünde bekleyen yeni yola bırakılacak bir umut.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072050517350481920/img/Pfz-U8MvfZqnRB9v.jpg" width="600" alt="Işık Köprüsü Yolculuğu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6749)**
+
+**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2072050846662049816) | **Published:** Jun 30, 2026
 
 ---
 ### Huzurlu Peri Kadınlar ve Lotus Animasyonu
@@ -1913,266 +2185,6 @@ Onlar, huzurun ta kendisi olan bir melodi 🎵 söylemelerine yardımcı olan si
 **Author:** [steve johnson](https://x.com/seeksteve) | **Source:** [Link](https://x.com/seeksteve/status/2069097737631445197) | **Published:** Jun 22, 2026
 
 ---
-### Vintage Abstract Flappers Pazarı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 1920'lerin flapper tarzı bit pazarı için soyut resim stilinde sanatsal bir istem.
-
-#### 📝 Prompt
-
-```
-soyut resim stilinde, 1920'lerin flapper tarzı kıyafetleri giymiş kadınların bulunduğu vintage moda bit pazarı
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069074678577041408/img/6DicXuBuX-skk71r.jpg" width="600" alt="Vintage Abstract Flappers Pazarı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6345)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2069076254813233638) | **Published:** Jun 22, 2026
-
----
-### Kahve Kupası Etkileşim Hareketi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir kahve kupasının hareketine ve konumlandırılmasına odaklanan özel bir karakter etkileşim komutu.
-
-#### 📝 Prompt
-
-```
-Kahve kupasını göğsüne doğru hareket ettirir, böylece kupa göğsünün üst kısmındaki kemikli bölgeye gerçekten temas eder
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069075311174848512/img/TQy-8rEQHABNtQVk.jpg" width="600" alt="Kahve Kupası Etkileşim Hareketi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6350)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2069075371547623644) | **Published:** Jun 22, 2026
-
----
-### Şapkalı Şarkı Söyleyen Yavru Köpekler
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Şapkalı yavru köpeklerin şarkı söyleyip neşeli ifadelerle hareket ettiği bir video oluşturmak için eğlenceli bir komut.
-
-#### 📝 Prompt
-
-```
-Şapkalı yavru köpekler, neşeli ve enerjik hareketler ve oyuncu ifadelerle "biz şapkalı köpekleriz ve şapkalarımız başımızdan çıkmaz" şarkısını söylüyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068989769913131008/img/ZYyhX3vccsI9lY7k.jpg" width="600" alt="Şapkalı Şarkı Söyleyen Yavru Köpekler">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6343)**
-
-**Author:** [marianne](https://x.com/tuakdotsol) | **Source:** [Link](https://x.com/tuakdotsol/status/2069006656927637598) | **Published:** Jun 22, 2026
-
----
-### Deniz Altı Aile Balık Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Okyanusta dev bir anne balık ve yavrularını konu alan, Disney-Pixar tarzından esinlenilmiş iç ısıtan bir video istemi.
-
-#### 📝 Prompt
-
-```
-Sakin, kristal berraklığında turkuaz bir okyanusta küçük yavrularına öncülük eden dev bir anne balığın güzel dijital çizimi. Küçük balıklar hemen arkasından onu takip ediyor. Uzakta renkli mercanlar görünüyor. Yukarıdan gelen yumuşak, parlak bir ışık. Disney-Pixar esintili sanat tarzı, canlı renkler, iç ısıtan bir aile sahnesi.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068967572360605696/img/bwwSFaIHS3o4XVoD.jpg" width="600" alt="Deniz Altı Aile Balık Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6347)**
-
-**Author:** [DAAZLE FC](https://x.com/DAAZLEFC) | **Source:** [Link](https://x.com/DAAZLEFC/status/2068967848849117493) | **Published:** Jun 22, 2026
-
----
-### Kapüşonlu Kıyafetleriyle Dans Eden Yavru Köpekler
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Arka bahçede dans edip şarkı söyleyen bir grup yavru köpek için oldukça detaylı bir video istemi.
-
-#### 📝 Prompt
-
-```
-Yeşil çimenli ve ahşap çitli güneşli bir arka bahçede renkli (kırmızı, mavi, sarı) kapüşonlu kıyafetler giymiş üç sevimli ve tüylü yavru köpek. Neşeli ve oyuncu ifadelerle enerjik bir şekilde dans ediyorlar ve "Biz kapüşonlu yavru köpekleriz, dans etmeye hazırız!" şarkısını söylüyorlar. Eylem dizisi: senkronize dans, biri şarkıya liderlik ederken diğerlerinin dans etmesi, birlikte dönüp kıvrılmaları, yükseğe zıplamaları ve kutlama için patilerini havaya kaldırarak bitirmeleri. Parlak güneş ışığı, canlı renkler, sevimli tarz, akıcı animasyon, yüksek detay, eğlenceli ve hareketli kısa video, 6 saniye
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068952215646298113/img/LUImq89MgGO62FwT.jpg" width="600" alt="Kapüşonlu Kıyafetleriyle Dans Eden Yavru Köpekler">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6351)**
-
-**Author:** [liuhuofeiyan](https://x.com/yhjocean) | **Source:** [Link](https://x.com/yhjocean/status/2068953107162370443) | **Published:** Jun 22, 2026
-
----
-### Su Borusu Geri Çekilme Sekansı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Suyun akışının durduğu ve borunun sızıntı olmadan geri çekildiği bir animasyon için teknik video oluşturma istemi.
-
-#### 📝 Prompt
-
-```
-Bir video oluştururken.
-İngiliz aksanlı sese geç.
-İngilizce sese geç.
-Suyun 5-20 saniye içinde borudan akışının durması gerekiyor.
-ardından
-boru içeri doğru geri çekiliyor.
-hiçbir sızıntı olmadan.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068952774650306560/img/jl0yD2PO8-nSyBtP.jpg" width="600" alt="Su Borusu Geri Çekilme Sekansı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6354)**
-
-**Author:** [Luke Clayden](https://x.com/clayden5_luke) | **Source:** [Link](https://x.com/clayden5_luke/status/2068952831491551674) | **Published:** Jun 22, 2026
-
----
-### Ses Kontrollü Su Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir video oluşturma komutu; seslendirme değişikliğini ve bir sahnedeki su akışının durması için gereken belirli zamanlamayı içerir.
-
-#### 📝 Prompt
-
-```
-Video oluştururken.
-İngiliz aksanlı sese geç.
-İngilizce sese geç.
-.
-.
-borudan akan suyun 5-20 saniye içinde durması gerekiyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068951776275873792/img/KQsGnADBHUPSJPMX.jpg" width="600" alt="Ses Kontrollü Su Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6355)**
-
-**Author:** [Luke Clayden](https://x.com/clayden5_luke) | **Source:** [Link](https://x.com/clayden5_luke/status/2068951864851268085) | **Published:** Jun 22, 2026
-
----
-### Şempanze Karakter Kıyafet Geçişi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Çölde yürürken kameraya doğru ilerleyen ve kusursuz bir bilim kurgu kıyafet değişimi gerçekleştiren şempanze karakterin 3D animasyon istemi.
-
-#### 📝 Prompt
-
-```
-Çölde 3D animasyon şempanze karakter. Kaptan şapkası ve kırmızı kalp şeklinde güneş gözlüğü takıyor. Siyah neon-mavi parlayan bilim kurgu kıyafetinden mavi bir tişört ve şorta kusursuz kıyafet değişimi geçişi. Kameraya doğru yürüyor, gülümsüyor ve toz kaldırıyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068942872360157184/img/V3BZyHjSNCrZ52GZ.jpg" width="600" alt="Şempanze Karakter Kıyafet Geçişi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6356)**
-
-**Author:** [Haris X](https://x.com/Haris_afxal) | **Source:** [Link](https://x.com/Haris_afxal/status/2068942939066413450) | **Published:** Jun 22, 2026
-
----
-### Ninja Büyücü Havada Süzülme Atlayışı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Binalar arasında doğaüstü bir atlayış gerçekleştiren ninja büyücüyü konu alan aksiyon odaklı bir istem.
-
-#### 📝 Prompt
-
-```
-Bir binadan diğerine atlayan, havada süzülme yeteneğini kullanarak büyük bir mesafeyi kateden bir ninja büyücü oluştur; kapüşon veya pelerin olmasın, sadece ninja maskesi olsun
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068910740182880256/img/V8DGeJrsim2Tcqbv.jpg" width="600" alt="Ninja Büyücü Havada Süzülme Atlayışı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6349)**
-
-**Author:** [Justin Brennan](https://x.com/jmjbrennan32780) | **Source:** [Link](https://x.com/jmjbrennan32780/status/2068910792565510604) | **Published:** Jun 22, 2026
-
----
-### Antik Bilim Kurgu Girdap Hareketi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bilim kurgu ortamında büyülü mühürleri ve yaratılış girdabını içeren sinematik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Antik zamanın içsel ateşini uyandır, güç mühürlerinin parlamasına izin ver, bilim kurgu yaratılış Girdabını serbest bırak, köşede TLV
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068904173983404032/img/HrOkfacMLsRL4HGk.jpg" width="600" alt="Antik Bilim Kurgu Girdap Hareketi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6346)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2068904236185006505) | **Published:** Jun 22, 2026
-
----
-### Eldivenli Dans Eden Kedicikler
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eldiven takmış, neşeli ve enerjik bir şekilde dans edip şarkı söyleyen, oyuncu ifadeli kediciklerin yer aldığı eğlenceli bir video istemi.
-
-#### 📝 Prompt
-
-```
-Eldivenli kedicikler, neşeli ve enerjik hareketler ve oyuncu ifadelerle dans edip "biz eldivenli kedicikleriz" diye şarkı söylemeye başlıyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068748943706759168/img/A37zMRy8vrFNq5Yp.jpg" width="600" alt="Eldivenli Dans Eden Kedicikler">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6318)**
-
-**Author:** [Imedi](https://x.com/Imedigeorgia) | **Source:** [Link](https://x.com/Imedigeorgia/status/2068749043334054054) | **Published:** Jun 21, 2026
-
----
-### Eldivenli Dans Eden Yavru Kediler
-
-![한국어](https://img.shields.io/badge/lang-한국어-orange)
-
-> Grok Imagine için eldiven takmış, neşeli bir şarkı söyleyip oyuncu ifadelerle dans eden yavru kedileri konu alan sevimli bir video istemi.
-
-#### 📝 Prompt
-
-```
-Eldiven takan yavru kediler dans etmeye ve şarkı söylemeye başlar. Neşeli, canlı hareketler ve oyuncu ifadelerle "Biz eldiven takan yavru kedileriz" şarkısını söylerler.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068748005579108352/img/7_sXRpv2d-A3dfkq.jpg" width="600" alt="Eldivenli Dans Eden Yavru Kediler">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6323)**
-
-**Author:** [아까긋마](https://x.com/sfbbang) | **Source:** [Link](https://x.com/sfbbang/status/2068748971783381469) | **Published:** Jun 21, 2026
-
----
-### Bulutların Üzerindeki Kadim Koruyucu Tanrılar
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gün batımında sisli dağların üzerinde duran, süslü zırhlar içindeki devasa kadim tanrıları ve yalnız bir savaşçıyı konu alan sinematik bir fantastik video istemi.
-
-#### 📝 Prompt
-
-```
-Başyapıt, en iyi kalite, gün batımında sisli dağların üzerindeki bulutlarda duran birkaç devasa kadim koruyucu tanrının ultra detaylı sinematik fantastik illüstrasyonu. Tanrılar, dramatik bir ışıklandırma altında süslü geleneksel zırhlar içindeler. Küçük bir savaşçı, bir bulutun üzerinde onların altında uçuyor. Turuncu ve mavi bulutlarla dolu epik bir gökyüzü. Yüksek detaylı karakterler, bulutlar, dağlar ve ışıklandırma.
-
-Bulutların üzerinde duran dört kadim tanrı ve onlara doğru kılıcı üzerinde uçan yalnız bir savaşçı.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068723896266993664/img/HpGGCjsBsr5Guch-.jpg" width="600" alt="Bulutların Üzerindeki Kadim Koruyucu Tanrılar">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6317)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2068723970707448246) | **Published:** Jun 21, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2234,6 +2246,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-03T07:45:05.491Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-03T11:01:11.834Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2018** |
+| 📝 Total Prompts | **2031** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-03** |
 
@@ -189,6 +189,257 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Cats on Money Stacks
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A subtle motion video prompt featuring cats on stacks of money and a balloon wobbling in soft bedroom light.
+
+#### 📝 Prompt
+
+```
+Gentle camera drift. Cats blink and twitch tails on the money stacks; the kitten taps the gold balloon so it wobbles slightly. The couple holds the kiss. Soft bedroom light, subtle motion only.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072808304477159424/img/1KSoWQMoOXanp_SJ.jpg" width="600" alt="Cats on Money Stacks">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6741)**
+
+**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2072808375604117939) | **Published:** Jul 2, 2026
+
+---
+### Goddess of Starlight and Dandelion Seeds
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A poetic video prompt featuring a character releasing glowing dandelion seeds that transform into tomorrow's stars at the edge of the world.
+
+#### 📝 Prompt
+
+```
+She stands at the edge of everything, holding yesterday’s wishes in her open hands. When she finally lets the glowing dandelion seeds go, they rise, bloom, and become tomorrow’s stars.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072801371737202689/img/o54qn6BMN41w_nr2.jpg" width="600" alt="Goddess of Starlight and Dandelion Seeds">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6747)**
+
+**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2072801622640525764) | **Published:** Jul 2, 2026
+
+---
+### Boutique Garden Hair Salon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed cinematic prompt for a boutique hair salon nestled in a garden, featuring glass walls, herb-lined pathways, and warm wood interiors.
+
+#### 📝 Prompt
+
+```
+A serene boutique hair salon nestled in a garden setting, floor-to-ceiling windows opening onto landscaped terraces with terracotta pots of rosemary, lavender, sage, and mint lining stone pathways. Inside, warm wood counters, woven chairs, and soft mars dramatic effects
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072794304259424256/img/2gY6VzYvGxDCtXUv.jpg" width="600" alt="Boutique Garden Hair Salon">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6743)**
+
+**Author:** [Lala](https://x.com/LalaBFox) | **Source:** [Link](https://x.com/LalaBFox/status/2072794777272099095) | **Published:** Jul 2, 2026
+
+---
+### Buick Enclave Feminine Design
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt describing a side view of a Buick Enclave with an elegant feminine design and healthy food imagery.
+
+#### 📝 Prompt
+
+```
+Side view of a Buick Enclave wrapped in elegant feminine design, warm neutral colors, beautiful imagery of fresh healthy food, colorful smoothies, gourmet tamales, and fresh ingredients
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072764635900432384/img/DRqnx5MrpZvA0eOV.jpg" width="600" alt="Buick Enclave Feminine Design">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6738)**
+
+**Author:** [Lala](https://x.com/LalaBFox) | **Source:** [Link](https://x.com/LalaBFox/status/2072764809699811343) | **Published:** Jul 2, 2026
+
+---
+### Gothic Fairy and Stylish Man Walking
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt featuring a gothic fairy in platform heels walking down a road alongside a handsome man in a silver-accented black suit.
+
+#### 📝 Prompt
+
+```
+Gothic fairy 
+platform heels 
+Walks down road
+Joined by talk handsome man stylish black suit with silver accents
+They walk with understood silence
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072712144089735168/img/w8KweMtlETnNpbhT.jpg" width="600" alt="Gothic Fairy and Stylish Man Walking">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6737)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2072712207855673501) | **Published:** Jul 2, 2026
+
+---
+### Korean Documentary Style Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed, multi-scene video prompt using a 2000s DV camcorder aesthetic to capture a slice-of-life moment in a Korean neighborhood.
+
+#### 📝 Prompt
+
+```
+Main subject: young Korean woman, early 20s, natural everyday appearance, faded charcoal-grey sleeveless crop top, loose high-waisted light-wash jeans, black canvas sneakers, black cord necklace, black wavy hair in a messy side ponytail with wispy bangs. Realistic skin texture, minimal makeup, warm and approachable personality. Maintain consistent identity, clothing, hairstyle, and appearance throughout the entire video.
+Location: Authentic Korean residential neighborhood during a calm late morning. Narrow concrete alleys, low-rise homes, small terraces, potted plants, laundry lines, bicycles, utility poles, overhead wires, mature trees casting moving shadows, quiet residential atmosphere. No stores, advertisements, cafés, crowds, or commercial activity.
+Visual Style: Ultra-realistic documentary realism. Genuine candid behavior. Natural body language. Unscripted slice-of-life feeling. Strong environmental authenticity. Rich real-world details and believable human motion.
+Camera Style: Early-2000s consumer DV camcorder aesthetic. Friend casually recording everyday moments. Heavy handheld shake, imperfect framing, frequent autofocus hunting, lens breathing, exposure pumping when moving between sun and shade, occasional motion blur, subtle rolling shutter, mild digital compression artifacts, faded colors, soft contrast, slight sensor noise. No stabilization. No cinematic camera moves. No modern color grading.
+00:00–00:02
+Outside a small house entrance. She sits on a low concrete wall adjusting her ponytail with both hands raised. A light breeze moves loose strands of hair. She smiles naturally while the camera struggles to hold focus.
+00:02–00:04
+The camera follows her into a narrow alley lined with potted plants and concrete walls. She notices a stray cat approaching and crouches down. Framing drifts off-center as the operator tries to keep up.
+00:04–00:06
+She gently pets and feeds the cat. Autofocus repeatedly shifts between her face and the animal. Morning sunlight flickers through leaves overhead.
+00:06–00:08
+Small front yard beside her house. She hangs laundry on a clothesline while fabrics sway in the breeze. Exposure changes as clouds briefly pass overhead.
+00:08–00:10
+On a quiet terrace with a ceramic coffee cup. She sits comfortably watching the neighborhood, occasionally brushing hair behind her ear. Loose handheld side angle with natural camera drift.
+00:10–00:12
+Close side profile. Someone off-camera greets her. She turns, raises her hand, smiles warmly, and casually says, “Annyeong.” The camera catches the moment slightly late.
+00:12–00:15
+Walking slowly down a tree-lined residential lane holding her coffee cup. She notices the camera, gives a small genuine smile, then looks away and continues walking. Recording cuts abruptly to black mid-motion as if the camcorder was switched off.
+
+Audio: Natural ambient sound only — morning birds, distant motorcycles, light
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072637467816271873/img/i8GL9q7gukT0eCIh.jpg" width="600" alt="Korean Documentary Style Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6745)**
+
+**Author:** [Varun Mehta](https://x.com/varun_j_mehta) | **Source:** [Link](https://x.com/varun_j_mehta/status/2072637540092588361) | **Published:** Jul 2, 2026
+
+---
+### Glow Mask Rebirth
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A symbolic video prompt showing a mask cracking open to release light, representing a transition from sadness to rebirth.
+
+#### 📝 Prompt
+
+```
+From silent sadness to glowing rebirth. Watch the mask crack open and release the light within.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072601714033860608/img/esqhukiAJvhFgcs3.jpg" width="600" alt="Glow Mask Rebirth">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6746)**
+
+**Author:** [Shah](https://x.com/ai_with_shah) | **Source:** [Link](https://x.com/ai_with_shah/status/2072601802323980359) | **Published:** Jul 2, 2026
+
+---
+### Puppy Chasing Ball
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A dynamic side-view video prompt of a golden retriever puppy chasing a red ball through green grass.
+
+#### 📝 Prompt
+
+```
+The playful golden retriever puppy energetically chases a red ball across the sunny park grass, jumping and running with joy while wagging its tail, the camera smoothly tracks alongside the puppy in a dynamic side view, capturing the vibrant green grass
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072596733629231104/img/xl6IJHKlOAnKNQ_I.jpg" width="600" alt="Puppy Chasing Ball">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6742)**
+
+**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2072596754328154327) | **Published:** Jul 2, 2026
+
+---
+### Playful Kitten with Blanket
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video prompt of a fluffy kitten playing with a blanket, showing subtle movements like breathing and tail twitching.
+
+#### 📝 Prompt
+
+```
+The cute fluffy kitten playfully bats its paw at the soft blanket and tilts its head curiously with big eyes, showing gentle natural movements and subtle breathing while staying in the cozy sunlit setting.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072591636929093632/img/xDWl3tznnmXdV6YS.jpg" width="600" alt="Playful Kitten with Blanket">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6739)**
+
+**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2072591652175425705) | **Published:** Jul 2, 2026
+
+---
+### Peaceful Countryside Summer Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A serene video depicting the simple joys of countryside life, including fresh vegetables and endless blue skies.
+
+#### 📝 Prompt
+
+```
+A peaceful summer day, fresh vegetables, endless blue skies, and the simple joy of countryside life.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072568839783735296/img/LSqzQV0UlmdYm03N.jpg" width="600" alt="Peaceful Countryside Summer Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6748)**
+
+**Author:** [Fatema](https://x.com/heyfatema) | **Source:** [Link](https://x.com/heyfatema/status/2072568898193596863) | **Published:** Jul 2, 2026
+
+---
+### Cinematic Space Panorama Pan
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt for a smooth camera pan across a space console toward a window viewing a purple starry night.
+
+#### 📝 Prompt
+
+```
+The camera slowly and smoothly pans across the scene from the person at the distant console toward the large panoramic windows, gradually revealing and emphasizing more of the breathtaking purple night space view filled with bright twinkling stars
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072546400781398016/img/GYatkpkV7erPD7Pw.jpg" width="600" alt="Cinematic Space Panorama Pan">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6740)**
+
+**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2072546454250393631) | **Published:** Jul 2, 2026
+
+---
+### Futuristic Spacecraft Console Interaction
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt for Grok Imagine featuring a person in a futuristic cockpit interacting with controls while looking through transparent glasses as the camera pans.
+
+#### 📝 Prompt
+
+```
+The person in the futuristic spacecraft subtly interacts with the console controls using their hands and makes gentle head movements while looking through the light transparent glasses. The camera slowly pans across the scene as bright stars twinkle
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072546323354505216/img/Qawm8hfWMByYdJVA.jpg" width="600" alt="Futuristic Spacecraft Console Interaction">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6744)**
+
+**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2072546377251364876) | **Published:** Jul 2, 2026
+
+---
 ### Hyper-Speed Galactic Flight
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -327,6 +578,27 @@ Slow push-in on the boy sketching rockets by candlelight; notebook pages flutter
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6644)**
 
 **Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2072052487528300851) | **Published:** Jun 30, 2026
+
+---
+### Bridge of Light Journey
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A poetic cinematic video of a woman crossing a glowing bridge, leaving the old world for a new path.
+
+#### 📝 Prompt
+
+```
+She walks across the bridge of light,
+leaving the old world behind with every step.
+The lantern in her hand is no longer something to hold but something to release into the new path waiting ahead.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072050517350481920/img/Pfz-U8MvfZqnRB9v.jpg" width="600" alt="Bridge of Light Journey">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6749)**
+
+**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2072050846662049816) | **Published:** Jun 30, 2026
 
 ---
 ### Peaceful Fairy Women and Lotus Animation
@@ -866,11 +1138,11 @@ Ultra-realistic close-up scene of a beautiful woman in a beautiful white sundres
 **Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2070902475238818282) | **Published:** Jun 27, 2026
 
 ---
-### Ghibli Style Cozy Attic
+### Studio Ghibli Inspired Cozy Attic
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed anime-style prompt for a magical attic room with vintage treasures and a galaxy skylight.
+> A detailed cinematic prompt for creating a Studio Ghibli-inspired attic room scene with magical atmosphere and celestial views.
 
 #### 📝 Prompt
 
@@ -878,7 +1150,7 @@ Ultra-realistic close-up scene of a beautiful woman in a beautiful white sundres
 A cozy attic room filled with vintage treasures, old maps, potted plants, fairy lights, and a skylight revealing a breathtaking galaxy-filled night sky, warm and magical atmosphere, Studio Ghibli inspired, highly detailed anime illustration.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070855968339230720/img/gdIXM9etUa8gWSBz.jpg" width="600" alt="Ghibli Style Cozy Attic">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070855968339230720/img/gdIXM9etUa8gWSBz.jpg" width="600" alt="Studio Ghibli Inspired Cozy Attic">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6559)**
 
@@ -961,11 +1233,11 @@ A cinematic low-angle shot of a majestic ancient Sugar Maple tree in a Tennessee
 **Author:** [Ray Salmon](https://x.com/salmon1820) | **Source:** [Link](https://x.com/salmon1820/status/2070579069708570890) | **Published:** Jun 26, 2026
 
 ---
-### Rocket Boots Space Journey
+### Rocket Boots Space Voyage
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt describing a character using rocket boots to travel into space, focusing on themes of exploration and no looking back.
+> A cinematic video prompt of a character using rocket boots to journey all the way to space.
 
 #### 📝 Prompt
 
@@ -973,7 +1245,7 @@ A cinematic low-angle shot of a majestic ancient Sugar Maple tree in a Tennessee
 The rocket boots finally took her all the way to space… and she’s never looking back
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070541395014942720/img/sJBFM8Zd0FLzyf6I.jpg" width="600" alt="Rocket Boots Space Journey">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070541395014942720/img/sJBFM8Zd0FLzyf6I.jpg" width="600" alt="Rocket Boots Space Voyage">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6693)**
 
@@ -1018,11 +1290,11 @@ Cinematic moonlit shoreline stage: realistic human rock guitarist planted wide i
 **Author:** [@TheCFormula credo.](https://x.com/TheCFormula) | **Source:** [Link](https://x.com/TheCFormula/status/2070516674906730730) | **Published:** Jun 26, 2026
 
 ---
-### Nostalgic Ghibli Style Train Station
+### Nostalgic Ghibli Japanese Train Station
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A Studio Ghibli inspired cinematic anime prompt of a rural Japanese train station at night.
+> A video prompt for generating a peaceful, Studio Ghibli inspired rural Japanese train station at night with cinematic lighting.
 
 #### 📝 Prompt
 
@@ -1030,7 +1302,7 @@ Cinematic moonlit shoreline stage: realistic human rock guitarist planted wide i
 A nostalgic rural Japanese train station at night, vintage wooden platform, glowing station lamps, wildflowers swaying in the breeze, starry sky overhead, warm and peaceful atmosphere, Studio Ghibli inspired anime artwork, ultra detailed and cinematic.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070496506583588864/img/ErbxoFiu1HZIslQC.jpg" width="600" alt="Nostalgic Ghibli Style Train Station">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070496506583588864/img/ErbxoFiu1HZIslQC.jpg" width="600" alt="Nostalgic Ghibli Japanese Train Station">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6523)**
 
@@ -1906,267 +2178,6 @@ start with [Image1] as the exact first frame, crash zoom through thr window of t
 **Author:** [steve johnson](https://x.com/seeksteve) | **Source:** [Link](https://x.com/seeksteve/status/2069097737631445197) | **Published:** Jun 22, 2026
 
 ---
-### Vintage Abstract Flappers Market
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An artistic prompt for a 1920s flapper flea market in an abstract painting style.
-
-#### 📝 Prompt
-
-```
-a vintage fashion flea market with women dressed as 1920s flappers in the style of an absract painting
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069074678577041408/img/6DicXuBuX-skk71r.jpg" width="600" alt="Vintage Abstract Flappers Market">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6345)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2069076254813233638) | **Published:** Jun 22, 2026
-
----
-### Coffee Cup Interaction Motion
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A specific character interaction prompt focused on the movement and placement of a coffee cup.
-
-#### 📝 Prompt
-
-```
-Moves cup of coffee to her chest so cup is actually touching her chest high on the bony part of the chest
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069075311174848512/img/TQy-8rEQHABNtQVk.jpg" width="600" alt="Coffee Cup Interaction Motion">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6350)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2069075371547623644) | **Published:** Jun 22, 2026
-
----
-### Singing Puppies in Hats
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A playful prompt for generating a video of puppies in hats singing and moving with joyful expressions.
-
-#### 📝 Prompt
-
-```
-The puppies with hats sing "we’re dogs with hats and the hats stay on” with joyful, energetic movements and playful expressions.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068989769913131008/img/ZYyhX3vccsI9lY7k.jpg" width="600" alt="Singing Puppies in Hats">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6343)**
-
-**Author:** [marianne](https://x.com/tuakdotsol) | **Source:** [Link](https://x.com/tuakdotsol/status/2069006656927637598) | **Published:** Jun 22, 2026
-
----
-### Undersea Family Fish Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A heartwarming Disney-Pixar inspired video prompt of a giant mother fish and her babies in the ocean.
-
-#### 📝 Prompt
-
-```
-Beautiful digital painting of a giant mother fish leading her little baby fishes through a calm, crystal-clear turquoise ocean. Small fish are following closely behind her. Colorful coral visible in the distance. Soft glowing light from above. Disney-Pixar inspired art style, vibrant colors, heartwarming family scene.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068967572360605696/img/bwwSFaIHS3o4XVoD.jpg" width="600" alt="Undersea Family Fish Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6347)**
-
-**Author:** [DAAZLE FC](https://x.com/DAAZLEFC) | **Source:** [Link](https://x.com/DAAZLEFC/status/2068967848849117493) | **Published:** Jun 22, 2026
-
----
-### Dancing Puppies in Hoodies
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed video prompt for a group of puppies dancing and singing in a backyard.
-
-#### 📝 Prompt
-
-```
-Three cute fluffy puppies wearing colorful hoodies (red, blue, yellow) in a sunny backyard with green grass and wooden fence. They are dancing energetically and singing “We’re puppies in hoodies, ready to boogie!” with joyful, playful expressions. Sequence of actions: synchronized dancing, one leading the song while others dance, spinning and twirling together, jumping high, ending with paws raised in celebration. Bright sunlight, vibrant colors, adorable cute style, smooth animation, high detail, fun and lively short video, 6seconds
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068952215646298113/img/LUImq89MgGO62FwT.jpg" width="600" alt="Dancing Puppies in Hoodies">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6351)**
-
-**Author:** [liuhuofeiyan](https://x.com/yhjocean) | **Source:** [Link](https://x.com/yhjocean/status/2068953107162370443) | **Published:** Jun 22, 2026
-
----
-### Water Pipe Retraction Sequence
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A technical video generation prompt for an animation where water stops flowing and a pipe retracts without leaks.
-
-#### 📝 Prompt
-
-```
-When creating a video.
-Change to British voice.
-Change to english voice 
-the water needs to stop flowing through the pipe in 5-20 seconds.
-then 
-the pipe retracts inside.
-without any leaks.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068952774650306560/img/jl0yD2PO8-nSyBtP.jpg" width="600" alt="Water Pipe Retraction Sequence">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6354)**
-
-**Author:** [Luke Clayden](https://x.com/clayden5_luke) | **Source:** [Link](https://x.com/clayden5_luke/status/2068952831491551674) | **Published:** Jun 22, 2026
-
----
-### Voice Controlled Water Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video generation prompt instructing a voice-over change and a specific timing for water flow to stop in a scene.
-
-#### 📝 Prompt
-
-```
-When creating a video.
-Change to British voice.
-Change to english voice 
-.
-.
-the water needs to stop flowing through the pipe in 5-20 seconds.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068951776275873792/img/KQsGnADBHUPSJPMX.jpg" width="600" alt="Voice Controlled Water Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6355)**
-
-**Author:** [Luke Clayden](https://x.com/clayden5_luke) | **Source:** [Link](https://x.com/clayden5_luke/status/2068951864851268085) | **Published:** Jun 22, 2026
-
----
-### Chimp Character Outfit Transition
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A 3D animated prompt of a chimp character in a desert performing a seamless sci-fi outfit change while walking toward the camera.
-
-#### 📝 Prompt
-
-```
-3D animated chimp character in a desert. He wears a captain hat and red heart sunglasses. Seamless outfit change transition from a black neon-blue glowing sci-fi suit into a blue t-shirt and shorts. Walking toward the camera, smiling, kicking up dust.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068942872360157184/img/V3BZyHjSNCrZ52GZ.jpg" width="600" alt="Chimp Character Outfit Transition">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6356)**
-
-**Author:** [Haris X](https://x.com/Haris_afxal) | **Source:** [Link](https://x.com/Haris_afxal/status/2068942939066413450) | **Published:** Jun 22, 2026
-
----
-### Ninja Wizard Levitation Jump
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An action-oriented prompt featuring a ninja wizard performing a supernatural jump between buildings.
-
-#### 📝 Prompt
-
-```
-Create a ninja wizard jumping from one building to another, a large distance using levitations to make the jump, no hood or cape
-Just a ninja mask
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068910740182880256/img/V8DGeJrsim2Tcqbv.jpg" width="600" alt="Ninja Wizard Levitation Jump">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6349)**
-
-**Author:** [Justin Brennan](https://x.com/jmjbrennan32780) | **Source:** [Link](https://x.com/jmjbrennan32780/status/2068910792565510604) | **Published:** Jun 22, 2026
-
----
-### Ancient Sci-Fi Vortex Motion
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt involving magical sigils and a vortex of creation in a sci-fi setting.
-
-#### 📝 Prompt
-
-```
-Awaken internal flame of the ancient time, let the sigils of power ignite, unleash the Vortex of creation sci fi, TLV in corner
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068904173983404032/img/HrOkfacMLsRL4HGk.jpg" width="600" alt="Ancient Sci-Fi Vortex Motion">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6346)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2068904236185006505) | **Published:** Jun 22, 2026
-
----
-### Dancing Kittens with Mittens
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A joyful and energetic video prompt of kittens wearing mittens dancing and singing with playful expressions.
-
-#### 📝 Prompt
-
-```
-The kittens with mittens start dancing and singing “we’re kittens with mittens” with joyful, energetic movements and playful expressions.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068748943706759168/img/A37zMRy8vrFNq5Yp.jpg" width="600" alt="Dancing Kittens with Mittens">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6318)**
-
-**Author:** [Imedi](https://x.com/Imedigeorgia) | **Source:** [Link](https://x.com/Imedigeorgia/status/2068749043334054054) | **Published:** Jun 21, 2026
-
----
-### Dancing Kittens in Mittens
-
-![한국어](https://img.shields.io/badge/lang-한국어-orange)
-
-> An adorable video prompt for Grok Imagine featuring kittens in mittens dancing and singing a cheerful song with playful expressions.
-
-#### 📝 Prompt
-
-```
-Kittens wearing mittens start dancing and singing. They sing the song "We are kittens wearing mittens" with cheerful and lively movements and playful expressions.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068748005579108352/img/7_sXRpv2d-A3dfkq.jpg" width="600" alt="Dancing Kittens in Mittens">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6323)**
-
-**Author:** [아까긋마](https://x.com/sfbbang) | **Source:** [Link](https://x.com/sfbbang/status/2068748971783381469) | **Published:** Jun 21, 2026
-
----
-### Ancient Guardian Deities Above Clouds
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic fantasy video prompt featuring massive ancient gods in ornate armor standing above misty mountains at sunset with a lone warrior.
-
-#### 📝 Prompt
-
-```
-Masterpiece, best quality, ultra-detailed cinematic fantasy illustration of several massive ancient guardian deities standing on clouds above misty mountains at sunset. The gods are in ornate traditional armor with dramatic lighting. A small warrior flies below them on a cloud. Epic sky with orange and blue clouds. Highly detailed characters, clouds, mountains, and lighting. 
-
-Four ancient gods standing above the clouds while a lone warrior flies toward them on his sword.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068723896266993664/img/HpGGCjsBsr5Guch-.jpg" width="600" alt="Ancient Guardian Deities Above Clouds">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6317)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2068723970707448246) | **Published:** Jun 21, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2228,6 +2239,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-03T07:44:42.816Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-03T11:00:50.965Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2018** |
+| 📝 Total Prompts | **2031** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-03** |
 
@@ -189,6 +189,257 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### पैसों के ढेर पर बिल्लियाँ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सूक्ष्म मोशन वीडियो प्रॉम्प्ट जिसमें पैसों के ढेर पर बैठी बिल्लियाँ और बेडरूम की हल्की रोशनी में डगमगाता हुआ एक गुब्बारा दिखाया गया है।
+
+#### 📝 Prompt
+
+```
+कैमरे का हल्का बहाव। बिल्लियाँ पैसों के ढेर पर पलकें झपकाती हैं और अपनी पूंछ हिलाती हैं; बिल्ली का बच्चा सुनहरे गुब्बारे को थपथपाता है जिससे वह थोड़ा डगमगाता है। जोड़ा चुंबन में लीन है। बेडरूम की हल्की रोशनी, केवल सूक्ष्म गति।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072808304477159424/img/1KSoWQMoOXanp_SJ.jpg" width="600" alt="पैसों के ढेर पर बिल्लियाँ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6741)**
+
+**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2072808375604117939) | **Published:** Jul 2, 2026
+
+---
+### तारों और डैंडेलियन बीजों की देवी
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक काव्यात्मक वीडियो प्रॉम्प्ट जिसमें एक पात्र चमकते हुए डैंडेलियन बीजों को छोड़ता है, जो दुनिया के किनारे पर पहुँचकर कल के तारों में बदल जाते हैं।
+
+#### 📝 Prompt
+
+```
+वह सब कुछ के किनारे पर खड़ी है, अपने खुले हाथों में कल की इच्छाओं को थामे हुए। जब वह अंततः उन चमकते हुए डैंडेलियन बीजों को छोड़ती है, तो वे ऊपर उठते हैं, खिलते हैं और कल के तारे बन जाते हैं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072801371737202689/img/o54qn6BMN41w_nr2.jpg" width="600" alt="तारों और डैंडेलियन बीजों की देवी">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6747)**
+
+**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2072801622640525764) | **Published:** Jul 2, 2026
+
+---
+### बुटीक गार्डन हेयर सैलून
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक बगीचे में स्थित बुटीक हेयर सैलून के लिए अत्यधिक विस्तृत सिनेमैटिक प्रॉम्प्ट, जिसमें कांच की दीवारें, जड़ी-बूटियों से सजे रास्ते और गर्म लकड़ी के इंटीरियर शामिल हैं।
+
+#### 📝 Prompt
+
+```
+एक बगीचे के वातावरण में स्थित एक शांत बुटीक हेयर सैलून, जिसमें फर्श से छत तक की खिड़कियां हैं जो लैंडस्केप छतों की ओर खुलती हैं, जहां पत्थर के रास्तों के किनारे रोज़मेरी, लैवेंडर, सेज और पुदीने के टेराकोटा गमले रखे हैं। अंदर, गर्म लकड़ी के काउंटर, बुनी हुई कुर्सियां और नरम मार्स नाटकीय प्रभाव
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072794304259424256/img/2gY6VzYvGxDCtXUv.jpg" width="600" alt="बुटीक गार्डन हेयर सैलून">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6743)**
+
+**Author:** [Lala](https://x.com/LalaBFox) | **Source:** [Link](https://x.com/LalaBFox/status/2072794777272099095) | **Published:** Jul 2, 2026
+
+---
+### Buick Enclave का फेमिनिन डिज़ाइन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वीडियो प्रॉम्प्ट जो एक Buick Enclave के साइड व्यू का वर्णन करता है, जिसमें एक एलिगेंट फेमिनिन डिज़ाइन और स्वस्थ भोजन की इमेजरी शामिल है।
+
+#### 📝 Prompt
+
+```
+एलिगेंट फेमिनिन डिज़ाइन में लिपटी Buick Enclave का साइड व्यू, वार्म न्यूट्रल कलर्स, ताज़ा और स्वस्थ भोजन की सुंदर इमेजरी, रंगीन स्मूदीज़, स्वादिष्ट तमाले (tamales), और ताज़ा सामग्री
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072764635900432384/img/DRqnx5MrpZvA0eOV.jpg" width="600" alt="Buick Enclave का फेमिनिन डिज़ाइन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6738)**
+
+**Author:** [Lala](https://x.com/LalaBFox) | **Source:** [Link](https://x.com/LalaBFox/status/2072764809699811343) | **Published:** Jul 2, 2026
+
+---
+### गॉथिक फेयरी और स्टाइलिश पुरुष का चलना
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सिनेमैटिक वीडियो प्रॉम्प्ट जिसमें प्लेटफॉर्म हील्स पहने एक गॉथिक फेयरी, सिल्वर एक्सेंट वाले काले सूट में एक हैंडसम पुरुष के साथ सड़क पर चल रही है।
+
+#### 📝 Prompt
+
+```
+गॉथिक फेयरी 
+प्लेटफॉर्म हील्स 
+सड़क पर चलना
+सिल्वर एक्सेंट वाले स्टाइलिश काले सूट में एक हैंडसम पुरुष का साथ
+वे एक समझी हुई चुप्पी के साथ चलते हैं
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072712144089735168/img/w8KweMtlETnNpbhT.jpg" width="600" alt="गॉथिक फेयरी और स्टाइलिश पुरुष का चलना">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6737)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2072712207855673501) | **Published:** Jul 2, 2026
+
+---
+### कोरियन डॉक्यूमेंट्री स्टाइल वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 2000 के दशक के DV कैमकोर्डर एस्थेटिक का उपयोग करते हुए एक अत्यधिक विस्तृत, मल्टी-सीन वीडियो प्रॉम्प्ट, जो एक कोरियन पड़ोस के जीवन के एक पल को दर्शाता है।
+
+#### 📝 Prompt
+
+```
+मुख्य विषय: युवा कोरियन महिला, 20 के दशक की शुरुआत, स्वाभाविक रोज़मर्रा का लुक, फीकी चारकोल-ग्रे स्लीवलेस क्रॉप टॉप, ढीली हाई-वेस्ट लाइट-वॉश जींस, काले कैनवास स्नीकर्स, काला कॉर्ड नेकलेस, काले लहरदार बाल जो एक बिखरी हुई साइड पोनीटेल में बंधे हैं और माथे पर हल्की लटें हैं। यथार्थवादी त्वचा बनावट, न्यूनतम मेकअप, गर्मजोशी भरा और मिलनसार व्यक्तित्व। पूरे वीडियो में पहचान, कपड़े, हेयरस्टाइल और लुक को एक समान बनाए रखें।
+स्थान: शांत देर सुबह के दौरान एक प्रामाणिक कोरियन आवासीय पड़ोस। संकरी कंक्रीट की गलियां, कम ऊंचाई वाले घर, छोटे टेरेस, गमले वाले पौधे, कपड़े सुखाने की रस्सियां, साइकिलें, बिजली के खंभे, ऊपर से गुजरते तार, परिपक्व पेड़ जो हिलती हुई छाया डाल रहे हैं, शांत आवासीय वातावरण। कोई दुकानें, विज्ञापन, कैफे, भीड़ या व्यावसायिक गतिविधि नहीं।
+विजुअल स्टाइल: अल्ट्रा-रियलिस्टिक डॉक्यूमेंट्री यथार्थवाद। वास्तविक कैंडिड व्यवहार। स्वाभाविक बॉडी लैंग्वेज। बिना स्क्रिप्ट वाला जीवन का अहसास। मजबूत पर्यावरणीय प्रामाणिकता। वास्तविक दुनिया के समृद्ध विवरण और विश्वसनीय मानवीय गति।
+कैमरा स्टाइल: 2000 के दशक की शुरुआत का कंज्यूमर DV कैमकोर्डर एस्थेटिक। कोई दोस्त जो अनौपचारिक रूप से रोज़मर्रा के पलों को रिकॉर्ड कर रहा हो। भारी हैंडहेल्ड शेक, अपूर्ण फ्रेमिंग, बार-बार ऑटोफोकस का भटकना, लेंस ब्रीदिंग, धूप और छाया के बीच चलते समय एक्सपोज़र में बदलाव, कभी-कभार मोशन ब्लर, हल्का रोलिंग शटर, हल्का डिजिटल कंप्रेशन आर्टिफैक्ट्स, फीके रंग, सॉफ्ट कंट्रास्ट, हल्का सेंसर नॉइज़। कोई स्टेबिलाइज़ेशन नहीं। कोई सिनेमैटिक कैमरा मूव्स नहीं। कोई आधुनिक कलर ग्रेडिंग नहीं।
+00:00–00:02
+एक छोटे घर के प्रवेश द्वार के बाहर। वह एक नीची कंक्रीट की दीवार पर बैठी है और अपने दोनों हाथों से अपनी पोनीटेल ठीक कर रही है। हल्की हवा से बालों की लटें हिल रही हैं। वह स्वाभाविक रूप से मुस्कुराती है जबकि कैमरा फोकस बनाए रखने के लिए संघर्ष कर रहा है।
+00:02–00:04
+कैमरा उसे गमलों और कंक्रीट की दीवारों वाली एक संकरी गली में फॉलो करता है। वह एक आवारा बिल्ली को अपनी ओर आते हुए देखती है और नीचे झुक जाती है। फ्रेमिंग केंद्र से हट जाती है क्योंकि ऑपरेटर उसे फॉलो करने की कोशिश कर रहा है।
+00:04–00:06
+वह धीरे से बिल्ली को सहलाती है और खाना खिलाती है। ऑटोफोकस बार-बार उसके चेहरे और जानवर के बीच शिफ्ट होता है। सुबह की धूप ऊपर पेड़ों की पत्तियों के बीच से छनकर आ रही है।
+00:06–00:08
+उसके घर के बगल में छोटा सा सामने का आंगन। वह कपड़े सुखाने की रस्सी पर कपड़े डाल रही है जबकि कपड़े हवा में लहरा रहे हैं। बादलों के गुजरने के साथ एक्सपोज़र बदलता है।
+00:08–00:10
+सिरेमिक कॉफी कप के साथ एक शांत टेरेस पर। वह आराम से बैठकर पड़ोस को देख रही है, कभी-कभी अपने बालों को कान के पीछे कर रही है। प्राकृतिक कैमरा ड्रिफ्ट के साथ ढीला हैंडहेल्ड साइड एंगल।
+00:10–00:12
+करीबी साइड प्रोफाइल। कैमरे के पीछे से कोई उसे अभिवादन करता है। वह मुड़ती है, अपना हाथ उठाती है, गर्मजोशी से मुस्कुराती है और अनौपचारिक रूप से कहती है, "Annyeong"। कैमरा इस पल को थोड़ा देर से पकड़ता है।
+00:12–00:15
+हाथ में कॉफी कप लिए पेड़ों से घिरी आवासीय गली में धीरे-धीरे चल रही है। वह कैमरे को देखती है, एक छोटी सी सच्ची मुस्कान देती है, फिर दूसरी तरफ देखकर चलना जारी रखती है। रिकॉर्डिंग अचानक बीच में ही काली हो जाती है जैसे कि कैमकोर्डर बंद कर दिया गया हो।
+
+ऑडियो: केवल प्राकृतिक परिवेश की ध्वनि — सुबह के पक्षी, दूर की मोटरसाइकिलें, हल्की हवा।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072637467816271873/img/i8GL9q7gukT0eCIh.jpg" width="600" alt="कोरियन डॉक्यूमेंट्री स्टाइल वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6745)**
+
+**Author:** [Varun Mehta](https://x.com/varun_j_mehta) | **Source:** [Link](https://x.com/varun_j_mehta/status/2072637540092588361) | **Published:** Jul 2, 2026
+
+---
+### Glow Mask Rebirth
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक प्रतीकात्मक वीडियो प्रॉम्प्ट जिसमें एक मुखौटा टूटकर रोशनी बिखेरता है, जो उदासी से पुनर्जन्म की ओर संक्रमण को दर्शाता है।
+
+#### 📝 Prompt
+
+```
+खामोश उदासी से चमकते पुनर्जन्म तक। देखें कि कैसे मुखौटा टूटता है और भीतर की रोशनी को बाहर आने देता है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072601714033860608/img/esqhukiAJvhFgcs3.jpg" width="600" alt="Glow Mask Rebirth">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6746)**
+
+**Author:** [Shah](https://x.com/ai_with_shah) | **Source:** [Link](https://x.com/ai_with_shah/status/2072601802323980359) | **Published:** Jul 2, 2026
+
+---
+### गेंद का पीछा करता पिल्ला
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> हरी घास पर लाल गेंद का पीछा करते हुए गोल्डन रिट्रीवर पिल्ले का एक डायनामिक साइड-व्यू वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+चंचल गोल्डन रिट्रीवर पिल्ला धूप से भरे पार्क की घास पर ऊर्जा के साथ लाल गेंद का पीछा कर रहा है, अपनी पूंछ हिलाते हुए खुशी के साथ कूद और दौड़ रहा है, कैमरा डायनामिक साइड व्यू में पिल्ले के साथ-साथ सुचारू रूप से चलता है, जो जीवंत हरी घास को कैद करता है
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072596733629231104/img/xl6IJHKlOAnKNQ_I.jpg" width="600" alt="गेंद का पीछा करता पिल्ला">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6742)**
+
+**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2072596754328154327) | **Published:** Jul 2, 2026
+
+---
+### कंबल के साथ खेलता प्यारा बिल्ली का बच्चा
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक मुलायम बिल्ली के बच्चे का कंबल के साथ खेलने का विस्तृत वीडियो प्रॉम्प्ट, जिसमें सांस लेने और पूंछ हिलाने जैसी सूक्ष्म गतिविधियाँ दिखाई गई हैं।
+
+#### 📝 Prompt
+
+```
+प्यारा और रोएंदार बिल्ली का बच्चा चंचलता से अपने पंजे से मुलायम कंबल को मारता है और बड़ी-बड़ी आँखों से उत्सुकतापूर्वक अपना सिर झुकाता है। यह आरामदायक और धूप वाली जगह पर रहते हुए कोमल, स्वाभाविक गतिविधियों और हल्की सांस लेने की प्रक्रिया को दर्शाता है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072591636929093632/img/xDWl3tznnmXdV6YS.jpg" width="600" alt="कंबल के साथ खेलता प्यारा बिल्ली का बच्चा">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6739)**
+
+**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2072591652175425705) | **Published:** Jul 2, 2026
+
+---
+### शांतिपूर्ण ग्रामीण गर्मियों का वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ग्रामीण जीवन की सरल खुशियों को दर्शाने वाला एक शांत वीडियो, जिसमें ताजी सब्जियां और अंतहीन नीला आसमान शामिल है।
+
+#### 📝 Prompt
+
+```
+एक शांतिपूर्ण गर्मी का दिन, ताजी सब्जियां, अंतहीन नीला आसमान और ग्रामीण जीवन की सरल खुशी।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072568839783735296/img/LSqzQV0UlmdYm03N.jpg" width="600" alt="शांतिपूर्ण ग्रामीण गर्मियों का वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6748)**
+
+**Author:** [Fatema](https://x.com/heyfatema) | **Source:** [Link](https://x.com/heyfatema/status/2072568898193596863) | **Published:** Jul 2, 2026
+
+---
+### सिनेमैटिक स्पेस पैनोरमा पैन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक स्पेस कंसोल से खिड़की की ओर, जहाँ से बैंगनी तारों भरी रात दिखाई देती है, एक स्मूथ कैमरा पैन के लिए वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+कैमरा धीरे-धीरे और सहजता से दूर कंसोल पर बैठे व्यक्ति से बड़ी पैनोरमिक खिड़कियों की ओर पैन करता है, जिससे धीरे-धीरे चमकदार टिमटिमाते तारों से भरे बैंगनी अंतरिक्ष के लुभावने दृश्य का खुलासा होता है और उस पर जोर दिया जाता है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072546400781398016/img/GYatkpkV7erPD7Pw.jpg" width="600" alt="सिनेमैटिक स्पेस पैनोरमा पैन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6740)**
+
+**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2072546454250393631) | **Published:** Jul 2, 2026
+
+---
+### भविष्यवादी अंतरिक्ष यान कंसोल इंटरैक्शन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक सिनेमैटिक वीडियो प्रॉम्प्ट, जिसमें एक व्यक्ति भविष्यवादी कॉकपिट में पारदर्शी चश्मा पहनकर कंट्रोल्स के साथ इंटरैक्ट कर रहा है और कैमरा पैन हो रहा है।
+
+#### 📝 Prompt
+
+```
+भविष्यवादी अंतरिक्ष यान में मौजूद व्यक्ति अपने हाथों से कंसोल कंट्रोल्स के साथ सूक्ष्मता से इंटरैक्ट करता है और हल्के पारदर्शी चश्मे से देखते हुए सिर को धीरे-धीरे घुमाता है। कैमरा धीरे-धीरे दृश्य के आर-पार पैन होता है और चमकीले तारे टिमटिमाते हैं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072546323354505216/img/Qawm8hfWMByYdJVA.jpg" width="600" alt="भविष्यवादी अंतरिक्ष यान कंसोल इंटरैक्शन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6744)**
+
+**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2072546377251364876) | **Published:** Jul 2, 2026
+
+---
 ### हाइपर-स्पीड गैलेक्टिक फ्लाइट
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -327,6 +578,27 @@ Youman,
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6644)**
 
 **Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2072052487528300851) | **Published:** Jun 30, 2026
+
+---
+### प्रकाश के सेतु की यात्रा
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक महिला के चमकते हुए पुल को पार करने का काव्यात्मक सिनेमाई वीडियो, जो पुरानी दुनिया को छोड़कर एक नए रास्ते की ओर बढ़ रही है।
+
+#### 📝 Prompt
+
+```
+वह प्रकाश के सेतु को पार कर रही है,
+हर कदम के साथ पुरानी दुनिया को पीछे छोड़ते हुए।
+उसके हाथ में मौजूद लालटेन अब थामे रखने की वस्तु नहीं, बल्कि आगे प्रतीक्षा कर रहे नए रास्ते पर छोड़ देने के लिए है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072050517350481920/img/Pfz-U8MvfZqnRB9v.jpg" width="600" alt="प्रकाश के सेतु की यात्रा">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6749)**
+
+**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2072050846662049816) | **Published:** Jun 30, 2026
 
 ---
 ### शांत परी महिलाएं और कमल का एनीमेशन
@@ -1913,266 +2185,6 @@ Ambience: अल्ट्रा-रियलिस्टिक 2024 समका
 **Author:** [steve johnson](https://x.com/seeksteve) | **Source:** [Link](https://x.com/seeksteve/status/2069097737631445197) | **Published:** Jun 22, 2026
 
 ---
-### विंटेज एब्सट्रैक्ट फ्लैपर्स मार्केट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 1920 के दशक के फ्लैपर फ्ली मार्केट के लिए एक कलात्मक प्रॉम्प्ट, जो एब्सट्रैक्ट पेंटिंग शैली में है।
-
-#### 📝 Prompt
-
-```
-एक विंटेज फैशन फ्ली मार्केट जहाँ महिलाएँ 1920 के दशक की फ्लैपर शैली में कपड़े पहने हुए हैं, एब्सट्रैक्ट पेंटिंग की शैली में
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069074678577041408/img/6DicXuBuX-skk71r.jpg" width="600" alt="विंटेज एब्सट्रैक्ट फ्लैपर्स मार्केट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6345)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2069076254813233638) | **Published:** Jun 22, 2026
-
----
-### कॉफी कप इंटरेक्शन मोशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक विशिष्ट कैरेक्टर इंटरेक्शन प्रॉम्प्ट जो कॉफी कप की गति और उसे रखने पर केंद्रित है।
-
-#### 📝 Prompt
-
-```
-कॉफी के कप को उसकी छाती की ओर ले जाएं ताकि कप वास्तव में उसकी छाती के ऊपरी हिस्से की हड्डी वाली जगह को छुए
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069075311174848512/img/TQy-8rEQHABNtQVk.jpg" width="600" alt="कॉफी कप इंटरेक्शन मोशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6350)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2069075371547623644) | **Published:** Jun 22, 2026
-
----
-### टोपी पहने गाते हुए पिल्ले
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> टोपी पहने हुए पिल्लों का वीडियो बनाने के लिए एक मजेदार प्रॉम्प्ट, जिसमें वे गाते हुए और खुशी के भावों के साथ हिलते-डुलते नजर आते हैं।
-
-#### 📝 Prompt
-
-```
-टोपी पहने हुए पिल्ले "we’re dogs with hats and the hats stay on" गाते हैं, जिसमें वे खुशी और ऊर्जा के साथ हिलते-डुलते हैं और उनके चेहरे पर चंचल भाव हैं।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068989769913131008/img/ZYyhX3vccsI9lY7k.jpg" width="600" alt="टोपी पहने गाते हुए पिल्ले">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6343)**
-
-**Author:** [marianne](https://x.com/tuakdotsol) | **Source:** [Link](https://x.com/tuakdotsol/status/2069006656927637598) | **Published:** Jun 22, 2026
-
----
-### समुद्र के नीचे मछली परिवार का एनिमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> डिज्नी-पिक्सर (Disney-Pixar) से प्रेरित एक दिल को छू लेने वाला वीडियो प्रॉम्प्ट, जिसमें समुद्र में एक विशाल माँ मछली और उसके बच्चे हैं।
-
-#### 📝 Prompt
-
-```
-एक शांत, क्रिस्टल-क्लियर फ़िरोज़ी समुद्र में अपनी छोटी मछलियों का नेतृत्व करती एक विशाल माँ मछली की सुंदर डिजिटल पेंटिंग। छोटी मछलियाँ उसके पीछे-पीछे चल रही हैं। दूर रंग-बिरंगे मूंगे (कोरल) दिखाई दे रहे हैं। ऊपर से आती हल्की चमक। डिज्नी-पिक्सर (Disney-Pixar) से प्रेरित आर्ट स्टाइल, जीवंत रंग, दिल को छू लेने वाला पारिवारिक दृश्य।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068967572360605696/img/bwwSFaIHS3o4XVoD.jpg" width="600" alt="समुद्र के नीचे मछली परिवार का एनिमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6347)**
-
-**Author:** [DAAZLE FC](https://x.com/DAAZLEFC) | **Source:** [Link](https://x.com/DAAZLEFC/status/2068967848849117493) | **Published:** Jun 22, 2026
-
----
-### हुडी पहने नाचते पिल्ले
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> घर के पिछवाड़े में नाचते और गाते पिल्लों के एक समूह के लिए एक अत्यधिक विस्तृत वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-हरे-भरे घास और लकड़ी की बाड़ वाले एक धूपदार पिछवाड़े में रंगीन हुडी (लाल, नीला, पीला) पहने तीन प्यारे रोएंदार पिल्ले। वे उत्साह के साथ नाच रहे हैं और खुशी व चंचल भावों के साथ गा रहे हैं, “We’re puppies in hoodies, ready to boogie!”। क्रियाओं का क्रम: तालमेल के साथ नृत्य, एक पिल्ला गाना गा रहा है जबकि अन्य नाच रहे हैं, साथ में घूमना और चक्कर काटना, ऊंची छलांग लगाना, और अंत में जश्न में पंजे ऊपर उठाना। तेज धूप, जीवंत रंग, मनमोहक प्यारा स्टाइल, स्मूथ एनिमेशन, उच्च विवरण, मजेदार और जीवंत छोटा वीडियो, 6 सेकंड
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068952215646298113/img/LUImq89MgGO62FwT.jpg" width="600" alt="हुडी पहने नाचते पिल्ले">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6351)**
-
-**Author:** [liuhuofeiyan](https://x.com/yhjocean) | **Source:** [Link](https://x.com/yhjocean/status/2068953107162370443) | **Published:** Jun 22, 2026
-
----
-### वाटर पाइप रिट्रैक्शन सीक्वेंस
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक एनीमेशन के लिए तकनीकी वीडियो जनरेशन प्रॉम्प्ट, जहाँ पानी का बहाव रुक जाता है और पाइप बिना किसी रिसाव के अंदर की ओर सिमट जाता है।
-
-#### 📝 Prompt
-
-```
-वीडियो बनाते समय।
-ब्रिटिश आवाज़ में बदलें।
-अंग्रेज़ी आवाज़ में बदलें।
-5-20 सेकंड के भीतर पाइप से पानी का बहाव रुक जाना चाहिए।
-उसके बाद
-पाइप अंदर की ओर सिमट जाना चाहिए।
-बिना किसी रिसाव के।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068952774650306560/img/jl0yD2PO8-nSyBtP.jpg" width="600" alt="वाटर पाइप रिट्रैक्शन सीक्वेंस">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6354)**
-
-**Author:** [Luke Clayden](https://x.com/clayden5_luke) | **Source:** [Link](https://x.com/clayden5_luke/status/2068952831491551674) | **Published:** Jun 22, 2026
-
----
-### वॉयस कंट्रोल्ड वॉटर एनिमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो जनरेशन प्रॉम्प्ट जो वॉयस-ओवर में बदलाव और किसी दृश्य में पानी के बहाव को रोकने के लिए एक विशिष्ट समय-सीमा का निर्देश देता है।
-
-#### 📝 Prompt
-
-```
-वीडियो बनाते समय।
-ब्रिटिश आवाज़ में बदलें।
-अंग्रेज़ी आवाज़ में बदलें।
-.
-.
-पानी को पाइप से 5-20 सेकंड के भीतर बहना बंद कर देना चाहिए।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068951776275873792/img/KQsGnADBHUPSJPMX.jpg" width="600" alt="वॉयस कंट्रोल्ड वॉटर एनिमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6355)**
-
-**Author:** [Luke Clayden](https://x.com/clayden5_luke) | **Source:** [Link](https://x.com/clayden5_luke/status/2068951864851268085) | **Published:** Jun 22, 2026
-
----
-### चिम्प कैरेक्टर आउटफिट ट्रांजिशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> रेगिस्तान में एक चिम्प कैरेक्टर का 3D एनिमेटेड प्रॉम्प्ट, जो कैमरे की ओर चलते हुए एक सीमलेस साइंस-फिक्शन आउटफिट चेंज करता है।
-
-#### 📝 Prompt
-
-```
-रेगिस्तान में 3D एनिमेटेड चिम्प कैरेक्टर। उसने कैप्टन हैट और लाल दिल के आकार का सनग्लास पहना है। काले नियॉन-ब्लू चमकते साइंस-फिक्शन सूट से नीली टी-शर्ट और शॉर्ट्स में सीमलेस आउटफिट चेंज ट्रांजिशन। कैमरे की ओर चलते हुए, मुस्कुराते हुए और धूल उड़ाते हुए।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068942872360157184/img/V3BZyHjSNCrZ52GZ.jpg" width="600" alt="चिम्प कैरेक्टर आउटफिट ट्रांजिशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6356)**
-
-**Author:** [Haris X](https://x.com/Haris_afxal) | **Source:** [Link](https://x.com/Haris_afxal/status/2068942939066413450) | **Published:** Jun 22, 2026
-
----
-### निंजा विज़ार्ड लेविटेशन जंप
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक एक्शन-ओरिएंटेड प्रॉम्प्ट जिसमें एक निंजा विज़ार्ड इमारतों के बीच अलौकिक छलांग लगा रहा है।
-
-#### 📝 Prompt
-
-```
-एक निंजा विज़ार्ड बनाएं जो एक इमारत से दूसरी इमारत पर कूद रहा हो, लेविटेशन का उपयोग करके लंबी दूरी की छलांग लगा रहा हो, कोई हुड या केप नहीं, केवल एक निंजा मास्क
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068910740182880256/img/V8DGeJrsim2Tcqbv.jpg" width="600" alt="निंजा विज़ार्ड लेविटेशन जंप">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6349)**
-
-**Author:** [Justin Brennan](https://x.com/jmjbrennan32780) | **Source:** [Link](https://x.com/jmjbrennan32780/status/2068910792565510604) | **Published:** Jun 22, 2026
-
----
-### प्राचीन साइंस-फिक्शन भंवर गति
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमैटिक वीडियो प्रॉम्प्ट जिसमें साइंस-फिक्शन सेटिंग में जादुई संकेत (sigils) और निर्माण का एक भंवर शामिल है।
-
-#### 📝 Prompt
-
-```
-प्राचीन समय की आंतरिक ज्वाला को जगाएं, शक्ति के संकेतों (sigils) को प्रज्वलित होने दें, साइंस-फिक्शन निर्माण के भंवर को उजागर करें, कोने में TLV
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068904173983404032/img/HrOkfacMLsRL4HGk.jpg" width="600" alt="प्राचीन साइंस-फिक्शन भंवर गति">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6346)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2068904236185006505) | **Published:** Jun 22, 2026
-
----
-### दस्ताने पहने नाचते हुए बिल्ली के बच्चे
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> दस्ताने पहने हुए बिल्ली के बच्चों का एक आनंदमय और ऊर्जावान वीडियो प्रॉम्प्ट, जो चंचल भावों के साथ नाच रहे हैं और गा रहे हैं।
-
-#### 📝 Prompt
-
-```
-दस्ताने पहने हुए बिल्ली के बच्चे आनंदमय, ऊर्जावान गतिविधियों और चंचल भावों के साथ “we’re kittens with mittens” गाते हुए और नाचते हुए शुरू करते हैं।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068748943706759168/img/A37zMRy8vrFNq5Yp.jpg" width="600" alt="दस्ताने पहने नाचते हुए बिल्ली के बच्चे">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6318)**
-
-**Author:** [Imedi](https://x.com/Imedigeorgia) | **Source:** [Link](https://x.com/Imedigeorgia/status/2068749043334054054) | **Published:** Jun 21, 2026
-
----
-### दस्ताने पहने नाचते हुए बिल्ली के बच्चे
-
-![한국어](https://img.shields.io/badge/lang-한국어-orange)
-
-> Grok Imagine के लिए एक प्यारा वीडियो प्रॉम्प्ट, जिसमें दस्ताने पहने बिल्ली के बच्चे चंचल भावों के साथ एक खुशमिजाज गाना गाते और नाचते हुए दिखाई देते हैं।
-
-#### 📝 Prompt
-
-```
-दस्ताने पहने बिल्ली के बच्चे नाचना और गाना शुरू करते हैं। वे "We are kittens wearing mittens" गाना गाते हैं और साथ ही खुशमिजाज, जीवंत हरकतें और चंचल भाव प्रदर्शित करते हैं।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068748005579108352/img/7_sXRpv2d-A3dfkq.jpg" width="600" alt="दस्ताने पहने नाचते हुए बिल्ली के बच्चे">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6323)**
-
-**Author:** [아까긋마](https://x.com/sfbbang) | **Source:** [Link](https://x.com/sfbbang/status/2068748971783381469) | **Published:** Jun 21, 2026
-
----
-### बादलों के ऊपर प्राचीन रक्षक देवता
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमैटिक फैंटेसी वीडियो प्रॉम्प्ट जिसमें सूर्यास्त के समय धुंधले पहाड़ों के ऊपर अलंकृत कवच पहने विशाल प्राचीन देवता और एक अकेला योद्धा दिखाई दे रहा है।
-
-#### 📝 Prompt
-
-```
-मास्टरपीस, सर्वोत्तम गुणवत्ता, सूर्यास्त के समय धुंधले पहाड़ों के ऊपर बादलों पर खड़े कई विशाल प्राचीन रक्षक देवताओं का अति-विस्तृत सिनेमैटिक फैंटेसी चित्रण। देवता अलंकृत पारंपरिक कवच में हैं और उन पर नाटकीय प्रकाश पड़ रहा है। एक छोटा योद्धा उनके नीचे एक बादल पर उड़ रहा है। नारंगी और नीले बादलों वाला भव्य आकाश। अत्यधिक विस्तृत पात्र, बादल, पहाड़ और लाइटिंग।
-
-चार प्राचीन देवता बादलों के ऊपर खड़े हैं जबकि एक अकेला योद्धा अपनी तलवार पर सवार होकर उनकी ओर उड़ रहा है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2068723896266993664/img/HpGGCjsBsr5Guch-.jpg" width="600" alt="बादलों के ऊपर प्राचीन रक्षक देवता">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6317)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2068723970707448246) | **Published:** Jun 21, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2234,6 +2246,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-03T07:44:52.537Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-03T11:01:00.558Z</sub>
 
 </div>
