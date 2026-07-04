@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2031** |
+| 📝 Total Prompts | **2042** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-04** |
 
@@ -189,6 +189,197 @@ Uma valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Queda cômica no estilo Family Guy
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de geração de vídeo para um personagem caindo de escadas de forma cômica, inspirado no estilo de Family Guy.
+
+#### 📝 Prompt
+
+```
+Faça-me cair das escadas de um jeito bem cômico. Algo parecido com o que você veria em Family Guy.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073147482532454400/img/aR5MbtGnXRJgSUBO.jpg" width="600" alt="Queda cômica no estilo Family Guy">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6810)**
+
+**Author:** [Jeremy Judkins](https://x.com/jeremyjudkins_) | **Source:** [Link](https://x.com/jeremyjudkins_/status/2073147550543065228) | **Published:** Jul 3, 2026
+
+---
+### Retrato em vídeo de modelo de moda falando suavemente
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de geração de vídeo cinematográfico para um close-up de uma modelo de moda falando de forma suave e calma diretamente para a câmera em um estúdio.
+
+#### 📝 Prompt
+
+```
+Ela fala de forma muito suave e calma para a câmera: "Você quer saber o que parece real para mim? Isso parece real.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073086602998669312/img/uzh8FsXEwcaY0AXs.jpg" width="600" alt="Retrato em vídeo de modelo de moda falando suavemente">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6815)**
+
+**Author:** [Carolina Delgado](https://x.com/carolletta) | **Source:** [Link](https://x.com/carolletta/status/2073086668555616662) | **Published:** Jul 3, 2026
+
+---
+### Cena Emocionante de Cinema
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo mostrando uma mulher tentando esconder suas lágrimas enquanto assiste a um filme em um cinema escuro e com luzes oscilantes.
+
+#### 📝 Prompt
+
+```
+Plano estático, todos na cena estão assistindo a um filme. A mulher no centro do quadro está enxugando lágrimas silenciosamente, tentando ao máximo manter uma expressão neutra. Iluminação: Mantenha a sala na penumbra; não altere a luz, a luz do projetor oscila.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073081606798245888/img/ZzQFC_U3AwMG3ohk.jpg" width="600" alt="Cena Emocionante de Cinema">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6816)**
+
+**Author:** [auqib](https://x.com/auqibhabib) | **Source:** [Link](https://x.com/auqibhabib/status/2073081684627751041) | **Published:** Jul 3, 2026
+
+---
+### Animação de Food Truck Personalizado
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo para um food truck vibrante com sinalização específica e teto de trailer ao pôr do sol.
+
+#### 📝 Prompt
+
+```
+Uma van de food truck personalizada e vibrante com um teto de trailer retrátil estendido no topo, estacionada durante a golden hour. O logotipo pintado à mão na lateral do caminhão diz exatamente: Nomi's nourishes heart ♥️ & love of Christ 🙏
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073065027460878336/img/KUujS7HE0EoeSn-x.jpg" width="600" alt="Animação de Food Truck Personalizado">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6808)**
+
+**Author:** [Lala](https://x.com/LalaBFox) | **Source:** [Link](https://x.com/LalaBFox/status/2073065215852179699) | **Published:** Jul 3, 2026
+
+---
+### Animação Sonhando com a Divindade
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo para uma cena espiritual que apresenta um sonho sobre a divindade e a humanidade.
+
+#### 📝 Prompt
+
+```
+Ele está sonhando com Deus. Jesus vem ajudá-lo a entender como ser uma boa humanidade.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073042545282891776/img/8vdpsnWvi6Poutn3.jpg" width="600" alt="Animação Sonhando com a Divindade">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6814)**
+
+**Author:** [Moral English](https://x.com/XMoralEnglish) | **Source:** [Link](https://x.com/XMoralEnglish/status/2073042630896963693) | **Published:** Jul 3, 2026
+
+---
+### Vídeo de Incantação em Cabana de Terror
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo descrevendo uma sequência de filme de terror em uma cabana remota envolvendo incantações e possessão demoníaca.
+
+#### 📝 Prompt
+
+```
+Cinco amigos e tBruce Campbell viajam para uma cabana remota na floresta, onde reproduzem uma fita com incantações. Isso liberta os demônios que os possuem sucessivamente até que reste apenas um lutando pela sobrevivência.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072947271906553856/img/GkHz06weSGMdrMfn.jpg" width="600" alt="Vídeo de Incantação em Cabana de Terror">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6812)**
+
+**Author:** [David Williams](https://x.com/DavidWilliamsYN) | **Source:** [Link](https://x.com/DavidWilliamsYN/status/2072947330916184298) | **Published:** Jul 3, 2026
+
+---
+### Sequência de Vlog com Câmera na Mão em Beco
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico que descreve uma câmera na mão seguindo uma mulher em um beco para encontrar um gato, com estilo de vlog casual.
+
+#### 📝 Prompt
+
+```
+A câmera na mão a segue por trás em direção ao beco estreito repleto de plantas. Ela avista o gato de rua, diminui o passo e se agacha enquanto o enquadramento sai do centro, com o operador tentando acompanhá-la. Luz natural do dia, movimento de vlog casual.
+Persistent --
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072943824876306432/img/Ukkc9ZlojOmJMBe8.jpg" width="600" alt="Sequência de Vlog com Câmera na Mão em Beco">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6811)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2072943892731691042) | **Published:** Jul 3, 2026
+
+---
+### Vídeo cinematográfico do estilo de vida de uma jovem coreana
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado para gerar um vídeo realista de uma jovem coreana em trajes casuais do dia a dia, com foco específico nas texturas das roupas e nos detalhes do penteado.
+
+#### 📝 Prompt
+
+```
+I.A. jovem coreana vivendo sua melhor vida - em uma existência de I.A., início dos 20 anos, aparência natural do dia a dia, blusa cropped sem mangas cinza-carvão desbotada, jeans de lavagem clara e cintura alta, tênis de lona pretos, colar de cordão preto, cabelo preto ondulado em um rabo de cavalo lateral bagunçado com franja fina
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072890092838862848/img/EQ-pwHohNBpjCxmc.jpg" width="600" alt="Vídeo cinematográfico do estilo de vida de uma jovem coreana">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6809)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2072890171352125729) | **Published:** Jul 3, 2026
+
+---
+### Fundo de vídeo com a bandeira nacional do Brasil
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para o Grok Imagine criar um fundo de vídeo usando os elementos da bandeira nacional do Brasil, incluindo o campo verde, o losango amarelo e a esfera azul.
+
+#### 📝 Prompt
+
+```
+Use a bandeira nacional do Brasil da primeira imagem como fundo completo — campo verde, losango amarelo e a esfera azul com estrelas brancas e a faixa branca com ORDEM E PROGRESSO
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072835615654297600/img/iGyVD4ClOjpK39wo.jpg" width="600" alt="Fundo de vídeo com a bandeira nacional do Brasil">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6807)**
+
+**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2072835668548702400) | **Published:** Jul 3, 2026
+
+---
+### Cena de Terror em Cabana com Snorricam
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de terror detalhado usando um ângulo Snorricam para retratar o pânico interno de uma mulher em uma cabana enquanto é seguida por uma figura misteriosa.
+
+#### 📝 Prompt
+
+```
+Medo assombrado/ Terror, ângulo de câmera Snorricam, mantendo o rosto travado no enquadramento enquanto o mundo ao redor balança e oscila. Isso externaliza fisicamente o estado mental de um personagem sem uma palavra de diálogo. Tornada famosa por Requiem for a Dream, de Aronofsky, para retratar o pânico induzido por drogas, é igualmente eficaz para euforia, isolamento, medo ou dissociação, dependendo do contexto. Jovem mulher de pele clara com texturas e poros sutis, olhos verdes, longos cabelos ruivos naturais com franja rala caída pelas laterais, rosto estoico, sutilmente nervosa, sobrancelhas finas, nariz pequeno e natural com um pequeno piercing de argola, maçãs do rosto altas, lábios macios e cor de pêssego. Ela está vestindo uma regata preta com um suéter laranja enferrujado por cima com botões, pequeno colar de cruz dourada. Enquadramento médio, mãos ao lado do corpo, olhos olhando fixamente para a câmera. Ela está em uma cabana grande com uma lareira de tijolos, iluminação baixa, sombras intensas, renderização realista, profundidade de campo rasa, estilo de filme de terror independente da A24. Um homem sombrio aparece da floresta para segui-la. O homem para e apenas observa enquanto ela se afasta, piscadas naturais contínuas.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2072832751275839488/pu/img/TSfH8--S8goCReu8.jpg" width="600" alt="Cena de Terror em Cabana com Snorricam">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6813)**
+
+**Author:** [NYXEN](https://x.com/NYXEN_77) | **Source:** [Link](https://x.com/NYXEN_77/status/2072832789968306469) | **Published:** Jul 3, 2026
+
+---
 ### Gatos em pilhas de dinheiro
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -324,6 +515,25 @@ Caminhando lentamente por uma rua residencial arborizada segurando sua xícara d
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6745)**
 
 **Author:** [Varun Mehta](https://x.com/varun_j_mehta) | **Source:** [Link](https://x.com/varun_j_mehta/status/2072637540092588361) | **Published:** Jul 2, 2026
+
+---
+### O Florescer Silencioso de Renda Branca
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico apresentando renda delicada e visuais suaves de florescimento onírico, criando uma atmosfera pacífica e etérea.
+
+#### 📝 Prompt
+
+```
+O Florescer Silencioso de Renda Branca. Sussurros de renda delicada e sonhos suaves que florescem.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072630157358268417/img/RAQoETfhBUEbJNII.jpg" width="600" alt="O Florescer Silencioso de Renda Branca">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6817)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2072630235775017264) | **Published:** Jul 2, 2026
 
 ---
 ### Glow Mask Rebirth
@@ -1964,227 +2174,6 @@ Trilha sonora divertida e lúdica ao fundo.
 **Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2069395522088030511) | **Published:** Jun 23, 2026
 
 ---
-### Vídeo de Sequência de Construção Arquitetônica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo técnico para uma sequência arquitetônica com câmera fixa, mostrando a extensão de um balanço e o movimento de um pórtico.
-
-#### 📝 Prompt
-
-```
-Vídeo de construção arquitetônica cinematográfica, posição de câmera fixa idêntica, o balanço em extensão e o revestimento parcial visíveis exatamente como na imagem de referência, segundos 0 a 4 o pórtico móvel avançando lentamente ao longo do topo da treliça em direção a...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069392701674704896/img/7BgJh-k7kuAJ2C2V.jpg" width="600" alt="Vídeo de Sequência de Construção Arquitetônica">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6396)**
-
-**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2069392763775488017) | **Published:** Jun 23, 2026
-
----
-### Vídeo de Mundo em Disco Roxo Psicodélico
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo vibrante para um mundo fantástico em formato de disco com temas roxos, trens aéreos e cidades em disco.
-
-#### 📝 Prompt
-
-```
-Crie um mundo em disco psicodélico mais roxo com cidades em disco, trens aéreos e oceanos na terra
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069376283121795072/img/KualyFsLSLjo51T-.jpg" width="600" alt="Vídeo de Mundo em Disco Roxo Psicodélico">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6395)**
-
-**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2069376338037727657) | **Published:** Jun 23, 2026
-
----
-### Conceito de Timelapse de Ilhas Flutuantes
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de paisagem em câmera lenta exibindo enormes ilhas tectônicas flutuantes acima de um espesso mar de nuvens douradas.
-
-#### 📝 Prompt
-
-```
-Mencionado boa tarde no topo. A cena é dominada por gigantescos e irregulares pináculos de rocha e ilhas tectônicas flutuantes suspensas sobre um espesso e ondulante mar de nuvens douradas. O ambiente permanece completamente inalterado. O movimento é lento e p...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069337036562354176/img/R1OooegZbE1YaGsF.jpg" width="600" alt="Conceito de Timelapse de Ilhas Flutuantes">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6390)**
-
-**Author:** [Ijaz Malik](https://x.com/Ijazmalik101) | **Source:** [Link](https://x.com/Ijazmalik101/status/2069337097371316452) | **Published:** Jun 23, 2026
-
----
-### Comercial Cinematográfico de Piano em Sala
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado para um comercial de alto padrão apresentando uma mulher em um piano de cauda em uma sala com iluminação suave.
-
-#### 📝 Prompt
-
-```
-Comercial cinematográfico intimista de 30 segundos para “Still I Made a Rose”: jovem mulher de vestido preto ao piano de cauda em uma sala refinada e com iluminação suave, tendo Beethoven como testemunha silenciosa. Adicione um violinista elegante de preto como uma presença secundária sutil. O piano carrega
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069277854005878784/img/dVOs1LSsOy-Xjil9.jpg" width="600" alt="Comercial Cinematográfico de Piano em Sala">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6400)**
-
-**Author:** [@TheCFormula credo.](https://x.com/TheCFormula) | **Source:** [Link](https://x.com/TheCFormula/status/2069278020574035982) | **Published:** Jun 23, 2026
-
----
-### Timelapse de Reconstrução de Galeria Estática
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Uma configuração de layout complexa para uma câmera em tripé estático, preparando um processo de vídeo em timelapse de conservação arquitetônica.
-
-#### 📝 Prompt
-
-```
-TRAVAMENTO DE CENA: Timelapse com tripé estático a partir da mesma posição de galeria de 1,7 metro, lente ultra-angular de 28mm, enquadramento e geometria fixos.
-
-ESTÁGIO: Processo completo de conservação e reconstrução.
-
-DETALHES: Remoção de ferrugem e repintura de ferro fundido, vitrais do clerestório...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069259967153254400/img/p6dDCfnmxd0P7u6v.jpg" width="600" alt="Timelapse de Reconstrução de Galeria Estática">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6391)**
-
-**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2069260049906807111) | **Published:** Jun 23, 2026
-
----
-### Bloqueio de Cena de Construção em Caverna
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt técnico para uma transição de timelapse de construção dentro de um ponto de vista fixo de caverna.
-
-#### 📝 Prompt
-
-```
-BLOQUEIO DE CENA: Tripé estático, ponto de vista de caverna idêntico, enquadramento contínuo, sem cortes, sequência de construção realista e desfoque de movimento.
-
-ESTÁGIO: Transição da construção ativa para a estrutura arquitetônica concluída.
-
-DETALHES: Trabalhadores instalam vigas de aço,
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069212754955866112/img/2wVVbOe7MzcUbKTU.jpg" width="600" alt="Bloqueio de Cena de Construção em Caverna">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6401)**
-
-**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2069212840007983162) | **Published:** Jun 23, 2026
-
----
-### Pintura a óleo de um mago idoso
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cinematográfico que cria o retrato de um mago idoso com barba prateada e vestes de veludo, no estilo de uma pintura a óleo de Rembrandt.
-
-#### 📝 Prompt
-
-```
-Retrato de um mago idoso com uma longa barba prateada e olhos verde-profundos, vestindo uma túnica de veludo desgastada e um chapéu pontudo com runas sutis. Estilo de pintura a óleo clássica com pinceladas ricas, iluminação em chiaroscuro ao estilo de Rembrandt e um fundo escuro e atmosférico
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069140101335240704/img/B0BT_K2r94QlMt51.jpg" width="600" alt="Pintura a óleo de um mago idoso">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6352)**
-
-**Author:** [Tippawan](https://x.com/Tippawaniqaa1) | **Source:** [Link](https://x.com/Tippawaniqaa1/status/2069140119777669192) | **Published:** Jun 22, 2026
-
----
-### Energia Radiante do Coração Cósmico
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt cinematográfico que descreve um emblema de coração vermelho brilhante flutuando no espaço cósmico profundo.
-
-#### 📝 Prompt
-
-```
-O emblema de coração vermelho brilhante dentro de seu anel de energia dourada radiante está sendo enviado ao universo: ele flutua graciosamente do primeiro plano para as profundezas infinitas do espaço cósmico, cercado por estrelas giratórias, nebulosas vibrantes e galáxias distantes.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069126357981040640/img/BJOmfWI2u0COfsHh.jpg" width="600" alt="Energia Radiante do Coração Cósmico">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6344)**
-
-**Author:** [David Herbert Thomas](https://x.com/Diabach1972) | **Source:** [Link](https://x.com/Diabach1972/status/2069126422455546185) | **Published:** Jun 22, 2026
-
----
-### Jornada de Transformação do Pterodáctilo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de animação surreal onde um surfista se transforma em um pterodáctilo e viaja para Júpiter.
-
-#### 📝 Prompt
-
-```
-pegar onda
-
-Ela se transforma em um pterodáctilo e voa para Júpiter em julho. Juniper é sua escolta.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069110645916663808/img/8R4jZoEj_h4YMOXQ.jpg" width="600" alt="Jornada de Transformação do Pterodáctilo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6357)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2069110771632476463) | **Published:** Jun 22, 2026
-
----
-### Melodia de Serenidade do Raio
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt poético para um vídeo sereno envolvendo raios de luz e moscas que cantam.
-
-#### 📝 Prompt
-
-```
-💡 do raio🌙🌕
-
-Elas são amigas de moscas que as ajudam a cantar uma melodia 🎵 que é a própria serenidade.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069100655814590464/img/x59SVmp1rbTqAfhg.jpg" width="600" alt="Melodia de Serenidade do Raio">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6348)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2069100778220859677) | **Published:** Jun 22, 2026
-
----
-### Vídeo de Crash Zoom Guiado por Quadros
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt técnico que demonstra a capacidade do Grok Imagine 1.5 de seguir direções específicas de quadro inicial e final.
-
-#### 📝 Prompt
-
-```
-comece com [Image1] como o primeiro quadro exato, faça um crash zoom através da janela da casa, dentro da janela da casa está o quadro exato [Image2]
-```
-
-<img src="https://cms-assets.youmind.com/media/1782204557179_0yl3e5_HLbpW05WsAA7Sgp.jpg" width="600" alt="Vídeo de Crash Zoom Guiado por Quadros">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6353)**
-
-**Author:** [steve johnson](https://x.com/seeksteve) | **Source:** [Link](https://x.com/seeksteve/status/2069097737631445197) | **Published:** Jun 22, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2246,6 +2235,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-04T07:11:18.313Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-04T10:35:02.188Z</sub>
 
 </div>

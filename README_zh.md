@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **2031** |
+| 📝 提示词总数 | **2042** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-07-04** |
 
@@ -189,6 +189,197 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 《居家男人》风格的滑稽跌倒
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个视频生成提示词，用于创作一个以《居家男人》风格为灵感、滑稽地从楼梯上跌落的角色。
+
+#### 📝 提示词
+
+```
+让我以一种非常滑稽的方式从楼梯上摔下来。类似于你在《居家男人》里可能会看到的那种效果。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073147482532454400/img/aR5MbtGnXRJgSUBO.jpg" width="600" alt="《居家男人》风格的滑稽跌倒">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6810)**
+
+**作者:** [Jeremy Judkins](https://x.com/jeremyjudkins_) | **来源:** [Link](https://x.com/jeremyjudkins_/status/2073147550543065228) | **发布时间:** Jul 3, 2026
+
+---
+### 轻声细语的时尚模特视频肖像
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 这是一个电影级的视频生成提示词，用于拍摄一位时尚模特在摄影棚内对着镜头轻声细语、神态从容的特写镜头。
+
+#### 📝 提示词
+
+```
+她对着镜头轻声细语，神态从容地说道：“你想知道什么对我来说是真实的吗？这就是真实的感觉。”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073086602998669312/img/uzh8FsXEwcaY0AXs.jpg" width="600" alt="轻声细语的时尚模特视频肖像">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6815)**
+
+**作者:** [Carolina Delgado](https://x.com/carolletta) | **来源:** [Link](https://x.com/carolletta/status/2073086668555616662) | **发布时间:** Jul 3, 2026
+
+---
+### 感人的电影院场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段视频提示词，展示了一名女性在昏暗闪烁的电影院中观看电影时，试图掩饰泪水的画面。
+
+#### 📝 提示词
+
+```
+固定镜头，场景中的每个人都在看电影。画面中央的女性正在悄悄擦拭泪水，竭力保持面部表情平静。灯光：保持房间昏暗；不要改变光线，投影仪的光线在闪烁。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073081606798245888/img/ZzQFC_U3AwMG3ohk.jpg" width="600" alt="感人的电影院场景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6816)**
+
+**作者:** [auqib](https://x.com/auqibhabib) | **来源:** [Link](https://x.com/auqibhabib/status/2073081684627751041) | **发布时间:** Jul 3, 2026
+
+---
+### 定制餐车动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个关于在日落时分，带有特定标识和露营车顶的活力餐车的视频提示词。
+
+#### 📝 提示词
+
+```
+一辆充满活力的定制餐车，顶部配有展开的弹出式露营车顶，停在黄金时刻的阳光下。车身侧面印有醒目的手绘标志，文字内容为：Nomi's nourishes heart ♥️ & love of Christ 🙏
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073065027460878336/img/KUujS7HE0EoeSn-x.jpg" width="600" alt="定制餐车动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6808)**
+
+**作者:** [Lala](https://x.com/LalaBFox) | **来源:** [Link](https://x.com/LalaBFox/status/2073065215852179699) | **发布时间:** Jul 3, 2026
+
+---
+### 神性梦境动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个关于神性与人性梦境的精神场景视频提示词。
+
+#### 📝 提示词
+
+```
+他梦见了上帝。耶稣前来指引他如何成为一个善良的人。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073042545282891776/img/8vdpsnWvi6Poutn3.jpg" width="600" alt="神性梦境动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6814)**
+
+**作者:** [Moral English](https://x.com/XMoralEnglish) | **来源:** [Link](https://x.com/XMoralEnglish/status/2073042630896963693) | **发布时间:** Jul 3, 2026
+
+---
+### 恐怖小屋咒语视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段描述偏远小屋中涉及咒语和恶魔附身的恐怖电影片段的视频提示词。
+
+#### 📝 提示词
+
+```
+五位好友和 tBruce Campbell 一起前往森林中一间偏远的小屋，他们在那里播放了一盘录有咒语的磁带。这释放了恶魔，恶魔依次附身于他们，直到最后只剩下一人为了生存而挣扎。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072947271906553856/img/GkHz06weSGMdrMfn.jpg" width="600" alt="恐怖小屋咒语视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6812)**
+
+**作者:** [David Williams](https://x.com/DavidWilliamsYN) | **来源:** [Link](https://x.com/DavidWilliamsYN/status/2072947330916184298) | **发布时间:** Jul 3, 2026
+
+---
+### 手持 Vlog 风格：巷弄寻猫镜头序列
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段电影感视频提示词，描述了手持摄像机跟随一名女性进入巷弄寻找猫咪的场景，呈现出随性的 Vlog 风格。
+
+#### 📝 提示词
+
+```
+手持摄像机从后方跟随她进入绿植环绕的狭窄巷弄。她发现了流浪猫，放慢脚步并蹲下，画面因拍摄者试图跟上而出现轻微偏移。自然光，随性 Vlog 运镜。
+Persistent --
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072943824876306432/img/Ukkc9ZlojOmJMBe8.jpg" width="600" alt="手持 Vlog 风格：巷弄寻猫镜头序列">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6811)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2072943892731691042) | **发布时间:** Jul 3, 2026
+
+---
+### 年轻韩国女性生活方式的电影感视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一份详细的提示词，用于生成一位身着休闲日常服装的年轻韩国女性的逼真视频，重点关注服装质感和发型细节。
+
+#### 📝 提示词
+
+```
+A.I. 年轻韩国女性享受美好生活 - 处于 A.I. 存在状态，20 岁出头，自然的日常外貌，褪色的炭灰色无袖露脐上衣，宽松高腰浅色牛仔裤，黑色帆布运动鞋，黑色绳状项链，黑色波浪卷发扎成凌乱的侧马尾，配有稀疏的刘海
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072890092838862848/img/EQ-pwHohNBpjCxmc.jpg" width="600" alt="年轻韩国女性生活方式的电影感视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6809)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2072890171352125729) | **发布时间:** Jul 3, 2026
+
+---
+### 巴西国旗视频背景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于 Grok Imagine 的提示词，旨在利用巴西国旗的元素（包括绿色底色、黄色菱形和蓝色球体）创建视频背景。
+
+#### 📝 提示词
+
+```
+使用第一张图片中的巴西国旗作为全屏背景——包含绿色底色、黄色菱形，以及带有白色星星和白色“ORDEM E PROGRESSO”横幅的蓝色球体
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072835615654297600/img/iGyVD4ClOjpK39wo.jpg" width="600" alt="巴西国旗视频背景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6807)**
+
+**作者:** [Ami A](https://x.com/AA63782) | **来源:** [Link](https://x.com/AA63782/status/2072835668548702400) | **发布时间:** Jul 3, 2026
+
+---
+### Snorricam 木屋恐怖场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个详细的恐怖提示词，使用 Snorricam 视角来描绘一名女性在木屋中被神秘身影跟踪时的内心恐慌。
+
+#### 📝 提示词
+
+```
+闹鬼的恐惧/恐怖，Snorricam 摄像机视角，将人物面部锁定在画面中，同时周围的世界摇晃和倾斜。它无需任何对白，即可将角色的心理状态外化。该手法因 Aronofsky 的《梦之安魂曲》(Requiem for a Dream) 而闻名，用于描绘药物诱发的恐慌，根据语境的不同，它在表现欣快感、孤独感、恐惧或解离状态时同样有效。年轻女性，浅肤色，带有细腻的纹理和毛孔，绿色眼睛，长长的天然红发，带有稀疏的刘海垂在脸颊两侧，表情冷漠，略显紧张，细眉，小巧的自然鼻型，鼻翼处有一个小圆环穿孔，高颧骨，饱满柔软的桃色嘴唇。她穿着一件黑色背心，外面套着一件带有纽扣的铁锈橙色毛衣，戴着一条细小的金色十字架项链。中景构图，双手垂在身侧，双眼直视前方镜头。她身处一个巨大的木屋中，背景有一个大型砖砌壁炉，低照度，高对比阴影，写实渲染，浅景深，A24 独立恐怖电影风格。一个阴影中的男人从树林中出现并跟踪她。男人停下脚步，只是盯着她走远，伴有持续的自然眨眼动作。
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2072832751275839488/pu/img/TSfH8--S8goCReu8.jpg" width="600" alt="Snorricam 木屋恐怖场景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6813)**
+
+**作者:** [NYXEN](https://x.com/NYXEN_77) | **来源:** [Link](https://x.com/NYXEN_77/status/2072832789968306469) | **发布时间:** Jul 3, 2026
+
+---
 ### 坐在钱堆上的猫
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -324,6 +515,25 @@ Buick Enclave 侧视图，车身采用优雅的女性化设计，色调为温暖
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6745)**
 
 **作者:** [Varun Mehta](https://x.com/varun_j_mehta) | **来源:** [Link](https://x.com/varun_j_mehta/status/2072637540092588361) | **发布时间:** Jul 2, 2026
+
+---
+### 静谧绽放的白蕾丝
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个电影感的视频提示词，呈现精致的蕾丝与柔和绽放的梦幻视觉效果，营造出宁静而空灵的氛围。
+
+#### 📝 提示词
+
+```
+静谧绽放的白蕾丝。精致蕾丝的低语与柔和绽放的梦境。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072630157358268417/img/RAQoETfhBUEbJNII.jpg" width="600" alt="静谧绽放的白蕾丝">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6817)**
+
+**作者:** [Stella 𝕏](https://x.com/StellaGrokStar) | **来源:** [Link](https://x.com/StellaGrokStar/status/2072630235775017264) | **发布时间:** Jul 2, 2026
 
 ---
 ### Glow Mask Rebirth
@@ -1964,227 +2174,6 @@ Elena 穿过闪烁的传送门，进入广阔的 Playroom，她环顾四周，�
 **作者:** [BMX](https://x.com/bmx_ai13) | **来源:** [Link](https://x.com/bmx_ai13/status/2069395522088030511) | **发布时间:** Jun 23, 2026
 
 ---
-### 建筑施工顺序视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于固定机位建筑序列的技术视频提示词，展示悬臂梁的延伸和龙门架的移动。
-
-#### 📝 提示词
-
-```
-电影级建筑施工视频，机位保持完全固定，延伸的悬臂梁和部分外墙板与参考图像完全一致，0 至 4 秒期间，移动龙门架沿着桁架顶部缓慢向……移动
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069392701674704896/img/7BgJh-k7kuAJ2C2V.jpg" width="600" alt="建筑施工顺序视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6396)**
-
-**作者:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **来源:** [Link](https://x.com/gpimpmyspace/status/2069392763775488017) | **发布时间:** Jun 23, 2026
-
----
-### 迷幻紫色圆盘世界视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个充满活力的视频提示词，用于创作以紫色为主题的奇幻圆盘世界，包含空中列车和圆盘城市。
-
-#### 📝 提示词
-
-```
-创作一个迷幻的、更多紫色调的圆盘世界，包含圆盘城市、蓝色空中列车以及地球海洋
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069376283121795072/img/KualyFsLSLjo51T-.jpg" width="600" alt="迷幻紫色圆盘世界视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6395)**
-
-**作者:** [KENDREIK Artist](https://x.com/kendreik) | **来源:** [Link](https://x.com/kendreik/status/2069376338037727657) | **发布时间:** Jun 23, 2026
-
----
-### 浮空岛延时摄影概念
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个慢动作景观提示词，展示了厚重金色云海之上巨大的构造浮空岛。
-
-#### 📝 提示词
-
-```
-午后时分，场景上方由巨大的锯齿状岩石尖塔和悬浮在厚重翻滚的金色云海之上的构造浮空岛主导。环境保持完全不变。运动缓慢且...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069337036562354176/img/R1OooegZbE1YaGsF.jpg" width="600" alt="浮空岛延时摄影概念">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6390)**
-
-**作者:** [Ijaz Malik](https://x.com/Ijazmalik101) | **来源:** [Link](https://x.com/Ijazmalik101/status/2069337097371316452) | **发布时间:** Jun 23, 2026
-
----
-### 电影感钢琴房商业广告
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份用于高端商业广告的详细提示词，场景为一位女性在柔光房间内弹奏大钢琴。
-
-#### 📝 提示词
-
-```
-为“Still I Made a Rose”制作的 30 秒亲密电影感商业广告：一位身着黑色礼服的年轻女性在精致、柔光的房间内弹奏大钢琴，贝多芬作为静默的见证者。加入一位身着黑衣的优雅小提琴手作为微妙的次要角色。钢琴承载着
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069277854005878784/img/dVOs1LSsOy-Xjil9.jpg" width="600" alt="电影感钢琴房商业广告">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6400)**
-
-**作者:** [@TheCFormula credo.](https://x.com/TheCFormula) | **来源:** [Link](https://x.com/TheCFormula/status/2069278020574035982) | **发布时间:** Jun 23, 2026
-
----
-### 静态画廊重构延时摄影
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一种用于静态三脚架机位的复杂布局配置，旨在记录建筑保护的延时摄影过程。
-
-#### 📝 提示词
-
-```
-场景锁定：从 1.7 米高的画廊固定位置进行静态三脚架延时拍摄，采用 28mm 超广角镜头，固定构图与几何视角。
-
-阶段：完整的保护与重建过程。
-
-细节：铸铁除锈与重新喷漆、高侧窗玻璃...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069259967153254400/img/p6dDCfnmxd0P7u6v.jpg" width="600" alt="静态画廊重构延时摄影">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6391)**
-
-**作者:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **来源:** [Link](https://x.com/gpimpmyspace/status/2069260049906807111) | **发布时间:** Jun 23, 2026
-
----
-### 洞穴施工场景锁定
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用于固定洞穴视角内施工延时摄影转场的提示词。
-
-#### 📝 提示词
-
-```
-场景锁定：静态三脚架，完全一致的洞穴视角，连续构图，无剪辑，逼真的施工顺序和运动模糊。
-
-阶段：从正在施工过渡到建筑外壳完工。
-
-细节：工人们安装钢梁，
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069212754955866112/img/2wVVbOe7MzcUbKTU.jpg" width="600" alt="洞穴施工场景锁定">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6401)**
-
-**作者:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **来源:** [Link](https://x.com/gpimpmyspace/status/2069212840007983162) | **发布时间:** Jun 23, 2026
-
----
-### 年长巫师油画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个电影级视频提示词，旨在创作一幅留着银色胡须、身着天鹅绒长袍的年长巫师肖像，风格仿照伦勃朗的油画作品。
-
-#### 📝 提示词
-
-```
-一位留着长长银色胡须、拥有深绿色眼睛的年长巫师肖像，身穿磨损的天鹅绒长袍，戴着饰有精细符文的尖顶帽。古典油画风格，笔触丰富，采用类似伦勃朗的明暗对照法照明，背景深邃且富有情绪感。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069140101335240704/img/B0BT_K2r94QlMt51.jpg" width="600" alt="年长巫师油画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6352)**
-
-**作者:** [Tippawan](https://x.com/Tippawaniqaa1) | **来源:** [Link](https://x.com/Tippawaniqaa1/status/2069140119777669192) | **发布时间:** Jun 22, 2026
-
----
-### 宇宙之心辐射能量
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段电影质感的提示词，描述了一个发光的红色心形标志漂浮进入深邃宇宙空间。
-
-#### 📝 提示词
-
-```
-位于璀璨金色能量环中的发光红色心形标志正被送往宇宙：它从前景优雅地漂入无限深邃的宇宙空间，周围环绕着旋转的恒星、充满活力的星云以及遥远的星系。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069126357981040640/img/BJOmfWI2u0COfsHh.jpg" width="600" alt="宇宙之心辐射能量">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6344)**
-
-**作者:** [David Herbert Thomas](https://x.com/Diabach1972) | **来源:** [Link](https://x.com/Diabach1972/status/2069126422455546185) | **发布时间:** Jun 22, 2026
-
----
-### 翼龙变形之旅
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个超现实的动画提示词：冲浪者变身为翼龙并前往木星。
-
-#### 📝 提示词
-
-```
-赶上浪潮
-
-她在 7 月变身为一只翼龙，飞向木星。Juniper 是她的护送者。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069110645916663808/img/8R4jZoEj_h4YMOXQ.jpg" width="600" alt="翼龙变形之旅">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6357)**
-
-**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **来源:** [Link](https://x.com/PhilipCarrn7711/status/2069110771632476463) | **发布时间:** Jun 22, 2026
-
----
-### 宁静旋律之光
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个关于光线与飞虫歌唱的宁静视频的诗意提示词。
-
-#### 📝 提示词
-
-```
-💡 光之射线 🌙🌕
-
-它们与飞虫是好朋友，飞虫协助它们唱出一段旋律 🎵，那正是宁静本身。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069100655814590464/img/x59SVmp1rbTqAfhg.jpg" width="600" alt="宁静旋律之光">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6348)**
-
-**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **来源:** [Link](https://x.com/PhilipCarrn7711/status/2069100778220859677) | **发布时间:** Jun 22, 2026
-
----
-### 基于帧引导的快速推拉镜头视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个技术提示词，展示了 Grok Imagine 1.5 遵循特定起始帧和结束帧指令的能力。
-
-#### 📝 提示词
-
-```
-以 [Image1] 作为起始帧，快速推拉镜头穿过房屋窗户，房屋窗户内部的画面应与 [Image2] 完全一致
-```
-
-<img src="https://cms-assets.youmind.com/media/1782204557179_0yl3e5_HLbpW05WsAA7Sgp.jpg" width="600" alt="基于帧引导的快速推拉镜头视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6353)**
-
-**作者:** [steve johnson](https://x.com/seeksteve) | **来源:** [Link](https://x.com/seeksteve/status/2069097737631445197) | **发布时间:** Jun 22, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2246,6 +2235,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-07-04T07:11:07.244Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-07-04T10:34:46.584Z</sub>
 
 </div>

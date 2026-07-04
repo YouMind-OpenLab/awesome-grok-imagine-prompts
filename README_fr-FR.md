@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2031** |
+| 📝 Total Prompts | **2042** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-04** |
 
@@ -189,6 +189,197 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Chute comique style Family Guy
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de génération vidéo pour un personnage tombant dans les escaliers de manière comique, inspiré par le style de Family Guy.
+
+#### 📝 Prompt
+
+```
+Fais-moi tomber dans les escaliers de façon vraiment comique. Un peu comme ce qu'on pourrait voir dans Family Guy.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073147482532454400/img/aR5MbtGnXRJgSUBO.jpg" width="600" alt="Chute comique style Family Guy">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6810)**
+
+**Author:** [Jeremy Judkins](https://x.com/jeremyjudkins_) | **Source:** [Link](https://x.com/jeremyjudkins_/status/2073147550543065228) | **Published:** Jul 3, 2026
+
+---
+### Portrait vidéo d'un mannequin de mode parlant doucement
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de génération vidéo cinématographique pour un gros plan d'un mannequin de mode parlant doucement et calmement directement à la caméra dans un studio.
+
+#### 📝 Prompt
+
+```
+Elle parle très doucement et calmement face à la caméra : « Veux-tu savoir ce qui me semble réel ? C'est cela qui me semble réel. »
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073086602998669312/img/uzh8FsXEwcaY0AXs.jpg" width="600" alt="Portrait vidéo d'un mannequin de mode parlant doucement">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6815)**
+
+**Author:** [Carolina Delgado](https://x.com/carolletta) | **Source:** [Link](https://x.com/carolletta/status/2073086668555616662) | **Published:** Jul 3, 2026
+
+---
+### Scène de cinéma émouvante
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo montrant une femme essayant de cacher ses larmes tout en regardant un film dans une salle de cinéma sombre et vacillante.
+
+#### 📝 Prompt
+
+```
+Plan fixe, tout le monde dans la scène regarde un film. La femme au centre du cadre essuie discrètement ses larmes, faisant de son mieux pour garder un visage impassible. Éclairage : Garder la pièce sombre ; ne pas changer la lumière, la lumière du projecteur vacille.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073081606798245888/img/ZzQFC_U3AwMG3ohk.jpg" width="600" alt="Scène de cinéma émouvante">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6816)**
+
+**Author:** [auqib](https://x.com/auqibhabib) | **Source:** [Link](https://x.com/auqibhabib/status/2073081684627751041) | **Published:** Jul 3, 2026
+
+---
+### Animation personnalisée de food truck
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo pour un food truck dynamique avec une signalétique spécifique et un toit relevable au coucher du soleil.
+
+#### 📝 Prompt
+
+```
+Un food truck personnalisé dynamique avec un toit relevable de type camping-car déployé, stationné à l'heure dorée. Un logo peint à la main en gras sur le côté du camion indique exactement : Nomi's nourishes heart ♥️ & love of Christ 🙏
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073065027460878336/img/KUujS7HE0EoeSn-x.jpg" width="600" alt="Animation personnalisée de food truck">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6808)**
+
+**Author:** [Lala](https://x.com/LalaBFox) | **Source:** [Link](https://x.com/LalaBFox/status/2073065215852179699) | **Published:** Jul 3, 2026
+
+---
+### Animation « Dreaming of Divinity »
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo pour une scène spirituelle illustrant un rêve sur la divinité et l'humanité.
+
+#### 📝 Prompt
+
+```
+Il rêve de Dieu. Jésus vient l'aider à comprendre comment incarner une humanité bienveillante.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073042545282891776/img/8vdpsnWvi6Poutn3.jpg" width="600" alt="Animation « Dreaming of Divinity »">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6814)**
+
+**Author:** [Moral English](https://x.com/XMoralEnglish) | **Source:** [Link](https://x.com/XMoralEnglish/status/2073042630896963693) | **Published:** Jul 3, 2026
+
+---
+### Vidéo d'incantation dans une cabane d'horreur
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo décrivant une séquence de film d'horreur dans une cabane isolée impliquant des incantations et une possession démoniaque.
+
+#### 📝 Prompt
+
+```
+Cinq amis et tBruce Campbell se rendent dans une cabane isolée au fond des bois où ils écoutent une cassette contenant des incantations. Cela libère des démons qui les possèdent les uns après les autres jusqu'à ce qu'il n'en reste plus qu'un seul, luttant pour sa survie.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072947271906553856/img/GkHz06weSGMdrMfn.jpg" width="600" alt="Vidéo d'incantation dans une cabane d'horreur">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6812)**
+
+**Author:** [David Williams](https://x.com/DavidWilliamsYN) | **Source:** [Link](https://x.com/DavidWilliamsYN/status/2072947330916184298) | **Published:** Jul 3, 2026
+
+---
+### Séquence de vlog à la main dans une ruelle avec un chat
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo cinématographique décrivant une caméra portée à la main suivant une femme dans une ruelle à la recherche d'un chat, dans le style d'un vlog décontracté.
+
+#### 📝 Prompt
+
+```
+La caméra portée à la main la suit par derrière dans l'étroite ruelle bordée de plantes. Elle aperçoit le chat errant, ralentit et s'accroupit tandis que le cadre se décale légèrement alors que l'opérateur tente de suivre le mouvement. Lumière du jour naturelle, mouvement de vlog décontracté.
+Persistent --
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072943824876306432/img/Ukkc9ZlojOmJMBe8.jpg" width="600" alt="Séquence de vlog à la main dans une ruelle avec un chat">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6811)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2072943892731691042) | **Published:** Jul 3, 2026
+
+---
+### Vidéo cinématique du style de vie d'une jeune femme coréenne
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt détaillé pour générer une vidéo réaliste d'une jeune femme coréenne en tenue décontractée, mettant l'accent sur les textures des vêtements et les détails de la coiffure.
+
+#### 📝 Prompt
+
+```
+Jeune femme coréenne générée par IA profitant de la vie - dans une existence numérique, début vingtaine, apparence naturelle et quotidienne, haut court sans manches gris anthracite délavé, jean ample taille haute délavé clair, baskets en toile noires, collier cordon noir, cheveux noirs ondulés coiffés en une queue de cheval latérale décontractée avec une frange effilée
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072890092838862848/img/EQ-pwHohNBpjCxmc.jpg" width="600" alt="Vidéo cinématique du style de vie d'une jeune femme coréenne">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6809)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2072890171352125729) | **Published:** Jul 3, 2026
+
+---
+### Arrière-plan vidéo du drapeau national du Brésil
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour Grok Imagine afin de créer un arrière-plan vidéo utilisant les éléments du drapeau national brésilien, incluant le champ vert, le losange jaune et le globe bleu.
+
+#### 📝 Prompt
+
+```
+Utilisez le drapeau national du Brésil de la première image comme arrière-plan complet : champ vert, losange jaune, et le globe bleu avec les étoiles blanches et la bande blanche ORDEM E PROGRESSO
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072835615654297600/img/iGyVD4ClOjpK39wo.jpg" width="600" alt="Arrière-plan vidéo du drapeau national du Brésil">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6807)**
+
+**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2072835668548702400) | **Published:** Jul 3, 2026
+
+---
+### Scène d'horreur dans un chalet avec Snorricam
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt d'horreur détaillé utilisant un angle Snorricam pour illustrer la panique intérieure d'une femme dans un chalet, alors qu'elle est suivie par une silhouette mystérieuse.
+
+#### 📝 Prompt
+
+```
+Peur hantée / Horreur, angle de caméra Snorricam, gardant le visage verrouillé dans le cadre tandis que le monde autour oscille et tangue. Cela extériorise physiquement l'état mental d'un personnage sans un mot de dialogue. Rendu célèbre par Requiem for a Dream d'Aronofsky pour illustrer la panique induite par la drogue, il est tout aussi efficace pour l'euphorie, l'isolement, la peur ou la dissociation selon le contexte. Jeune femme à la peau claire avec des textures et des pores subtils, yeux verts, longs cheveux roux naturels avec une frange effilée portée sur les côtés, visage stoïque, subtilement nerveuse, sourcils fins, petit nez naturel avec un petit piercing anneau, pommettes hautes, lèvres pleines et douces couleur pêche. Elle porte un débardeur noir avec un gilet orange rouille par-dessus avec des boutons, un petit collier croix en or. Plan moyen, mains le long du corps, yeux fixés droit devant vers la caméra. Elle se trouve dans un grand chalet avec une imposante cheminée en briques, faible éclairage, ombres marquées, rendu réaliste, faible profondeur de champ, style film d'horreur indépendant A24. Un homme dans l'ombre surgit des bois pour la suivre. L'homme s'arrête et la regarde simplement s'éloigner, clignements d'yeux naturels continus.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2072832751275839488/pu/img/TSfH8--S8goCReu8.jpg" width="600" alt="Scène d'horreur dans un chalet avec Snorricam">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6813)**
+
+**Author:** [NYXEN](https://x.com/NYXEN_77) | **Source:** [Link](https://x.com/NYXEN_77/status/2072832789968306469) | **Published:** Jul 3, 2026
+
+---
 ### Des chats sur des liasses de billets
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -324,6 +515,25 @@ Audio : Ambiance sonore naturelle uniquement — oiseaux matinaux, motos au loin
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6745)**
 
 **Author:** [Varun Mehta](https://x.com/varun_j_mehta) | **Source:** [Link](https://x.com/varun_j_mehta/status/2072637540092588361) | **Published:** Jul 2, 2026
+
+---
+### Une éclosion paisible de dentelle blanche
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo cinématographique mettant en scène une dentelle délicate et des visuels oniriques aux floraisons douces, créant une atmosphère paisible et éthérée.
+
+#### 📝 Prompt
+
+```
+Une éclosion paisible de dentelle blanche. Murmures de dentelle délicate et rêves en pleine floraison.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072630157358268417/img/RAQoETfhBUEbJNII.jpg" width="600" alt="Une éclosion paisible de dentelle blanche">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6817)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2072630235775017264) | **Published:** Jul 2, 2026
 
 ---
 ### Glow Mask Rebirth
@@ -1964,227 +2174,6 @@ Musique de fond amusante et enjouée.
 **Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2069395522088030511) | **Published:** Jun 23, 2026
 
 ---
-### Vidéo de séquence de construction architecturale
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo technique pour une séquence architecturale à caméra fixe montrant l'extension d'un porte-à-faux et le mouvement d'un portique.
-
-#### 📝 Prompt
-
-```
-Vidéo de construction architecturale cinématographique, position de caméra fixe identique, le porte-à-faux en extension et le bardage partiel visibles exactement comme sur l'image de référence, secondes 0 à 4, le portique mobile avançant lentement le long du sommet de la structure vers...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069392701674704896/img/7BgJh-k7kuAJ2C2V.jpg" width="600" alt="Vidéo de séquence de construction architecturale">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6396)**
-
-**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2069392763775488017) | **Published:** Jun 23, 2026
-
----
-### Vidéo d'un monde disque psychédélique violet
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo dynamique pour un monde fantastique en forme de disque aux tons violets, avec des trains aériens et des cités-disques.
-
-#### 📝 Prompt
-
-```
-Crée un monde disque psychédélique à dominante violette avec des cités-disques, des trains aériens et un océan terrestre
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069376283121795072/img/KualyFsLSLjo51T-.jpg" width="600" alt="Vidéo d'un monde disque psychédélique violet">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6395)**
-
-**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2069376338037727657) | **Published:** Jun 23, 2026
-
----
-### Concept de timelapse d'îles flottantes
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de paysage au ralenti mettant en scène d'immenses îles tectoniques flottantes au-dessus d'une épaisse mer de nuages dorés.
-
-#### 📝 Prompt
-
-```
-Mentionné bon après-midi au sommet. La scène est dominée par des flèches rocheuses gigantesques et déchiquetées ainsi que des îles tectoniques flottantes suspendues au-dessus d'une épaisse mer de nuages dorés en mouvement. L'environnement reste totalement inchangé. Le mouvement est lent et p...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069337036562354176/img/R1OooegZbE1YaGsF.jpg" width="600" alt="Concept de timelapse d'îles flottantes">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6390)**
-
-**Author:** [Ijaz Malik](https://x.com/Ijazmalik101) | **Source:** [Link](https://x.com/Ijazmalik101/status/2069337097371316452) | **Published:** Jun 23, 2026
-
----
-### Publicité cinématographique pour piano dans un salon
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt détaillé pour une publicité haut de gamme mettant en scène une femme devant un piano à queue dans une pièce à l'éclairage tamisé.
-
-#### 📝 Prompt
-
-```
-Publicité cinématographique intimiste de 30 secondes pour « Still I Made a Rose » : une jeune femme en robe noire devant un piano à queue dans un salon raffiné à l'éclairage tamisé, avec Beethoven en témoin silencieux. Ajoutez un violoniste élégant en noir comme présence secondaire subtile. Le piano porte
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069277854005878784/img/dVOs1LSsOy-Xjil9.jpg" width="600" alt="Publicité cinématographique pour piano dans un salon">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6400)**
-
-**Author:** [@TheCFormula credo.](https://x.com/TheCFormula) | **Source:** [Link](https://x.com/TheCFormula/status/2069278020574035982) | **Published:** Jun 23, 2026
-
----
-### Timelapse de reconstruction d'une galerie statique
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Une configuration de mise en page complexe pour une caméra sur trépied fixe, destinée à un processus de timelapse de conservation architecturale.
-
-#### 📝 Prompt
-
-```
-VERROUILLAGE DE LA SCÈNE : Timelapse sur trépied statique depuis une position identique de 1,7 mètre dans la galerie, objectif ultra grand-angle 28 mm, cadrage et géométrie fixes.
-
-ÉTAPE : Processus complet de conservation et de reconstruction.
-
-DÉTAILS : Dérouillage et remise en peinture de la fonte, vitrage de la claire-voie...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069259967153254400/img/p6dDCfnmxd0P7u6v.jpg" width="600" alt="Timelapse de reconstruction d'une galerie statique">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6391)**
-
-**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2069260049906807111) | **Published:** Jun 23, 2026
-
----
-### Verrouillage de scène pour construction de grotte
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt technique pour une transition en timelapse de construction depuis un point de vue fixe dans une grotte.
-
-#### 📝 Prompt
-
-```
-VERROUILLAGE DE SCÈNE : Trépied statique, point de vue identique dans la grotte, cadrage continu, aucune coupure, séquence de construction réaliste et flou de mouvement.
-
-ÉTAPE : Transition d'une construction active vers une structure architecturale terminée.
-
-DÉTAILS : Des ouvriers installent des poutres en acier,
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069212754955866112/img/2wVVbOe7MzcUbKTU.jpg" width="600" alt="Verrouillage de scène pour construction de grotte">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6401)**
-
-**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2069212840007983162) | **Published:** Jun 23, 2026
-
----
-### Peinture à l'huile d'un vieux magicien
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo cinématographique créant le portrait d'un vieux magicien à la barbe argentée vêtu de robes en velours, dans le style d'une peinture à l'huile de Rembrandt.
-
-#### 📝 Prompt
-
-```
-Portrait d'un vieux magicien avec une longue barbe argentée et des yeux vert profond, portant une robe en velours usée et un chapeau pointu orné de runes subtiles. Style peinture à l'huile classique avec des coups de pinceau riches, un éclairage en clair-obscur façon Rembrandt et un arrière-plan sombre et atmosphérique.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069140101335240704/img/B0BT_K2r94QlMt51.jpg" width="600" alt="Peinture à l'huile d'un vieux magicien">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6352)**
-
-**Author:** [Tippawan](https://x.com/Tippawaniqaa1) | **Source:** [Link](https://x.com/Tippawaniqaa1/status/2069140119777669192) | **Published:** Jun 22, 2026
-
----
-### Énergie rayonnante du cœur cosmique
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinématographique décrivant un emblème de cœur rougeoyant dérivant dans l'espace cosmique profond.
-
-#### 📝 Prompt
-
-```
-L'emblème du cœur rougeoyant à l'intérieur de son anneau d'énergie dorée rayonnante est envoyé vers l'univers : il dérive avec grâce du premier plan vers les profondeurs infinies de l'espace cosmique, entouré d'étoiles tourbillonnantes, de nébuleuses vibrantes et de galaxies lointaines.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069126357981040640/img/BJOmfWI2u0COfsHh.jpg" width="600" alt="Énergie rayonnante du cœur cosmique">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6344)**
-
-**Author:** [David Herbert Thomas](https://x.com/Diabach1972) | **Source:** [Link](https://x.com/Diabach1972/status/2069126422455546185) | **Published:** Jun 22, 2026
-
----
-### Le voyage de transformation du ptérodactyle
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt d'animation surréaliste où un surfeur se transforme en ptérodactyle et voyage jusqu'à Jupiter.
-
-#### 📝 Prompt
-
-```
-attraper une vague
-
-Elle se transforme en ptérodactyle et s'envole vers Jupiter en juillet. Juniper est son escorte.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069110645916663808/img/8R4jZoEj_h4YMOXQ.jpg" width="600" alt="Le voyage de transformation du ptérodactyle">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6357)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2069110771632476463) | **Published:** Jun 22, 2026
-
----
-### Mélodie de sérénité du rayon
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt poétique pour une vidéo sereine mettant en scène des rayons lumineux et des mouches chanteuses.
-
-#### 📝 Prompt
-
-```
-💡 du rayon🌙🌕
-
-Elles sont amies avec des mouches qui les aident à chanter une mélodie 🎵 qui est la sérénité même.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069100655814590464/img/x59SVmp1rbTqAfhg.jpg" width="600" alt="Mélodie de sérénité du rayon">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6348)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2069100778220859677) | **Published:** Jun 22, 2026
-
----
-### Vidéo avec zoom rapide guidé par images
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt technique démontrant la capacité de Grok Imagine 1.5 à suivre des instructions précises pour les images de début et de fin.
-
-#### 📝 Prompt
-
-```
-commencez avec [Image1] comme première image exacte, effectuez un zoom rapide à travers la fenêtre de la maison, à l'intérieur de la fenêtre de la maison se trouve l'image exacte [Image2]
-```
-
-<img src="https://cms-assets.youmind.com/media/1782204557179_0yl3e5_HLbpW05WsAA7Sgp.jpg" width="600" alt="Vidéo avec zoom rapide guidé par images">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6353)**
-
-**Author:** [steve johnson](https://x.com/seeksteve) | **Source:** [Link](https://x.com/seeksteve/status/2069097737631445197) | **Published:** Jun 22, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2246,6 +2235,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-04T07:11:16.491Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-04T10:34:59.663Z</sub>
 
 </div>

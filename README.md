@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2031** |
+| 📝 Total Prompts | **2042** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-04** |
 
@@ -189,6 +189,197 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Comical Family Guy Style Fall
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt for a character falling down stairs in a comical way, inspired by the style of Family Guy.
+
+#### 📝 Prompt
+
+```
+Make me fall down the stairs in a really comical way. Similar to something maybe you would see on family guy.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073147482532454400/img/aR5MbtGnXRJgSUBO.jpg" width="600" alt="Comical Family Guy Style Fall">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6810)**
+
+**Author:** [Jeremy Judkins](https://x.com/jeremyjudkins_) | **Source:** [Link](https://x.com/jeremyjudkins_/status/2073147550543065228) | **Published:** Jul 3, 2026
+
+---
+### Soft Spoken Fashion Model Video Portrait
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video generation prompt for a close-up of a fashion model speaking softly and calmly directly to the camera in a studio setting.
+
+#### 📝 Prompt
+
+```
+She talks very softly and calm to the camera: "Do you want to know what feels real to me? This feels real.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073086602998669312/img/uzh8FsXEwcaY0AXs.jpg" width="600" alt="Soft Spoken Fashion Model Video Portrait">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6815)**
+
+**Author:** [Carolina Delgado](https://x.com/carolletta) | **Source:** [Link](https://x.com/carolletta/status/2073086668555616662) | **Published:** Jul 3, 2026
+
+---
+### Emotional Movie Theater Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt showing a woman trying to hide her tears while watching a movie in a flickering, dimly lit theater.
+
+#### 📝 Prompt
+
+```
+Static shot, Everyone in the scene is watching a movie. The woman in the center of the frame is quietly wiping away tears, trying her best to keep a straight face. Lighting: Keep the room dim; do not change the light, the light from the projector flickers.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073081606798245888/img/ZzQFC_U3AwMG3ohk.jpg" width="600" alt="Emotional Movie Theater Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6816)**
+
+**Author:** [auqib](https://x.com/auqibhabib) | **Source:** [Link](https://x.com/auqibhabib/status/2073081684627751041) | **Published:** Jul 3, 2026
+
+---
+### Custom Food Truck Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt for a vibrant food truck with specific signage and a camper roof at sunset.
+
+#### 📝 Prompt
+
+```
+A vibrant custom food truck van with a pop-up sleep camper roof extended on top, parked at golden hour. Bold hand-painted logo on the truck side reads exactly: Nomi's nourishes heart ♥️ & love of Christ 🙏
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073065027460878336/img/KUujS7HE0EoeSn-x.jpg" width="600" alt="Custom Food Truck Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6808)**
+
+**Author:** [Lala](https://x.com/LalaBFox) | **Source:** [Link](https://x.com/LalaBFox/status/2073065215852179699) | **Published:** Jul 3, 2026
+
+---
+### Dreaming of Divinity Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt for a spiritual scene featuring a dream about divinity and humanity.
+
+#### 📝 Prompt
+
+```
+He is dreaming about God. Jesus come to help him about how to be a good humanity.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073042545282891776/img/8vdpsnWvi6Poutn3.jpg" width="600" alt="Dreaming of Divinity Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6814)**
+
+**Author:** [Moral English](https://x.com/XMoralEnglish) | **Source:** [Link](https://x.com/XMoralEnglish/status/2073042630896963693) | **Published:** Jul 3, 2026
+
+---
+### Horror Cabin Cabin Incantation Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt describing a horror movie sequence in a remote cabin involving incantations and demonic possession.
+
+#### 📝 Prompt
+
+```
+Five friends and tBruce Campbell axed travel to a remote cabin in the woods where they play a tape with incantations. This releases the demons which possess them in succession until only one is left fighting for survival.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072947271906553856/img/GkHz06weSGMdrMfn.jpg" width="600" alt="Horror Cabin Cabin Incantation Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6812)**
+
+**Author:** [David Williams](https://x.com/DavidWilliamsYN) | **Source:** [Link](https://x.com/DavidWilliamsYN/status/2072947330916184298) | **Published:** Jul 3, 2026
+
+---
+### Handheld Vlog Alley Cat Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt describing a handheld camera following a woman into an alley to find a cat, styled as a casual vlog.
+
+#### 📝 Prompt
+
+```
+The handheld camera follows her from behind into the narrow plant-lined alley. She spots the stray cat, slows, and crouches down as the frame drifts off-center while the operator tries to keep up. Natural daylight, casual vlog motion.
+Persistent --
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072943824876306432/img/Ukkc9ZlojOmJMBe8.jpg" width="600" alt="Handheld Vlog Alley Cat Sequence">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6811)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2072943892731691042) | **Published:** Jul 3, 2026
+
+---
+### Cinematic Video of Young Korean Woman Lifestyle
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a lifelike video of a young Korean woman in casual everyday attire, specifically focusing on clothing textures and hairstyle details.
+
+#### 📝 Prompt
+
+```
+A.I. young Korean woman living her best life - in an A.I. existence, early 20s, natural everyday appearance, faded charcoal-grey sleeveless crop top, loose high-waisted light-wash jeans, black canvas sneakers, black cord necklace, black wavy hair in a messy side ponytail with wispy bangs
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072890092838862848/img/EQ-pwHohNBpjCxmc.jpg" width="600" alt="Cinematic Video of Young Korean Woman Lifestyle">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6809)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2072890171352125729) | **Published:** Jul 3, 2026
+
+---
+### Brazil National Flag Video Background
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for Grok Imagine to create a video background using the elements of the Brazilian national flag, including the green field, yellow diamond, and blue globe.
+
+#### 📝 Prompt
+
+```
+Use the Brazil national flag from the first image as the full background—green field, yellow diamond, and the blue globe with white stars and the white ORDEM E PROGRESSO band
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072835615654297600/img/iGyVD4ClOjpK39wo.jpg" width="600" alt="Brazil National Flag Video Background">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6807)**
+
+**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2072835668548702400) | **Published:** Jul 3, 2026
+
+---
+### Snorricam Cabin Horror Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed horror prompt using a Snorricam angle to depict a woman's internal panic in a cabin while being followed by a mysterious figure.
+
+#### 📝 Prompt
+
+```
+Haunted fear/ Horror, A Snorricam camera angle, keeping their face locked in frame while the world around them sways and lurches. It physically externalizes a character's mental state without a word of dialogue. Made famous by Aronofsky's Requiem for a Dream to depict drug-induced panic, it's equally effective for euphoria, isolation, fear or dissociation depending on context. Young woman with light skin with subtle textures and pores, green eyes, long natural red hair with wispy bangs worn down by her sides, stoic face, subtly nervous, thin eyebrows, small natural nose with a small hoop piercing, high cheekbones, full soft peach lips. She is wearing a black tank top with a rusty orange sweater over with buttons, small gold cross necklace  Mid frame, hands by her side, eyes staring straight ahead at the camera. She is in a big cabin with a large brick fire place, low lighting, high shadows, realistic rendering, shallow depth of field, A24 indi  horror film style. One shadowed man appears from the woods to follow her. The man stops and just stares at her walking away, continuous natural blinking.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2072832751275839488/pu/img/TSfH8--S8goCReu8.jpg" width="600" alt="Snorricam Cabin Horror Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6813)**
+
+**Author:** [NYXEN](https://x.com/NYXEN_77) | **Source:** [Link](https://x.com/NYXEN_77/status/2072832789968306469) | **Published:** Jul 3, 2026
+
+---
 ### Cats on Money Stacks
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -208,11 +399,11 @@ Gentle camera drift. Cats blink and twitch tails on the money stacks; the kitten
 **Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2072808375604117939) | **Published:** Jul 2, 2026
 
 ---
-### Goddess of Starlight and Dandelion Seeds
+### Glowing Dandelion Transformation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A poetic video prompt featuring a character releasing glowing dandelion seeds that transform into tomorrow's stars at the edge of the world.
+> A poetic video prompt depicting a woman at the edge of the world releasing dandelion seeds that transform into stars.
 
 #### 📝 Prompt
 
@@ -220,7 +411,7 @@ Gentle camera drift. Cats blink and twitch tails on the money stacks; the kitten
 She stands at the edge of everything, holding yesterday’s wishes in her open hands. When she finally lets the glowing dandelion seeds go, they rise, bloom, and become tomorrow’s stars.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072801371737202689/img/o54qn6BMN41w_nr2.jpg" width="600" alt="Goddess of Starlight and Dandelion Seeds">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072801371737202689/img/o54qn6BMN41w_nr2.jpg" width="600" alt="Glowing Dandelion Transformation">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6747)**
 
@@ -324,6 +515,25 @@ Audio: Natural ambient sound only — morning birds, distant motorcycles, light
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6745)**
 
 **Author:** [Varun Mehta](https://x.com/varun_j_mehta) | **Source:** [Link](https://x.com/varun_j_mehta/status/2072637540092588361) | **Published:** Jul 2, 2026
+
+---
+### A Quiet Bloom of White Lace
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt featuring delicate lace and soft blooming dream-like visuals, creating a peaceful and ethereal atmosphere.
+
+#### 📝 Prompt
+
+```
+A Quiet Bloom of White Lace. Whispers of delicate lace and soft blooming dreams.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072630157358268417/img/RAQoETfhBUEbJNII.jpg" width="600" alt="A Quiet Bloom of White Lace">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6817)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2072630235775017264) | **Published:** Jul 2, 2026
 
 ---
 ### Glow Mask Rebirth
@@ -580,21 +790,19 @@ Slow push-in on the boy sketching rockets by candlelight; notebook pages flutter
 **Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2072052487528300851) | **Published:** Jun 30, 2026
 
 ---
-### Bridge of Light Journey
+### Ethereal Bridge of Light Walk
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A poetic cinematic video of a woman crossing a glowing bridge, leaving the old world for a new path.
+> A poetic video prompt describing a woman walking across a bridge of light, releasing a lantern.
 
 #### 📝 Prompt
 
 ```
-She walks across the bridge of light,
-leaving the old world behind with every step.
-The lantern in her hand is no longer something to hold but something to release into the new path waiting ahead.
+She walks across the bridge of light, leaving the old world behind with every step. The lantern in her hand is no longer something to hold but something to release into the new path waiting ahead.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072050517350481920/img/Pfz-U8MvfZqnRB9v.jpg" width="600" alt="Bridge of Light Journey">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072050517350481920/img/Pfz-U8MvfZqnRB9v.jpg" width="600" alt="Ethereal Bridge of Light Walk">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6749)**
 
@@ -685,12 +893,12 @@ An aurora borealis swirls like the famous painting Starry Night 🌌
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A dreamlike prompt featuring a magical mushroom scene with iridescent wonder and soft glowing light.
+> An ethereal video prompt focusing on glowing mushrooms and iridescent visual wonders.
 
 #### 📝 Prompt
 
 ```
-Reaching for a magical mushroom dream… Whispers of iridescent wonder and soft glowing light. 🌈✨
+Reaching for a magical mushroom dream… Whispers of iridescent wonder and soft glowing light.
 ```
 
 <img src="https://pbs.twimg.com/amplify_video_thumb/2071916735448432640/img/8hAGD3gsc5WyyZeS.jpg" width="600" alt="Magical Mushroom Dream">
@@ -1957,227 +2165,6 @@ A cinematic wide angle shot inside a cozy retro diner style kitchen. A young gir
 **Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2069395522088030511) | **Published:** Jun 23, 2026
 
 ---
-### Architectural Construction Sequence Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A technical video prompt for a locked-camera architectural sequence showing the extension of a cantilever and gantry movement.
-
-#### 📝 Prompt
-
-```
-Cinematic architectural construction video, identical locked camera position, the extending cantilever and partial cladding visible exactly as the reference image, seconds 0 to 4 the travelling gantry inching slowly along the top of the truss toward...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069392701674704896/img/7BgJh-k7kuAJ2C2V.jpg" width="600" alt="Architectural Construction Sequence Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6396)**
-
-**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2069392763775488017) | **Published:** Jun 23, 2026
-
----
-### Psychedelic Purple Disc World Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A vibrant video prompt for a fantasy disc-shaped world with purple themes, sky trains, and disc cities.
-
-#### 📝 Prompt
-
-```
-Create psychedelic more purple disc world with disc cities bly sky trains on earth ocean
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069376283121795072/img/KualyFsLSLjo51T-.jpg" width="600" alt="Psychedelic Purple Disc World Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6395)**
-
-**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2069376338037727657) | **Published:** Jun 23, 2026
-
----
-### Floating Islands Timelapse Concept
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A slow-motion landscape prompt showcasing massive tectonic floating islands above a thick sea of golden clouds.
-
-#### 📝 Prompt
-
-```
-Mentioned good afternoon on the top The scene is dominated by gargantuan, jagged rock spires and floating tectonic islands suspended above a thick, rolling sea of golden clouds. The environment remains completely unchanged. The movement is slow and p...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069337036562354176/img/R1OooegZbE1YaGsF.jpg" width="600" alt="Floating Islands Timelapse Concept">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6390)**
-
-**Author:** [Ijaz Malik](https://x.com/Ijazmalik101) | **Source:** [Link](https://x.com/Ijazmalik101/status/2069337097371316452) | **Published:** Jun 23, 2026
-
----
-### Cinematic Piano Room Commercial
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for a high-end commercial featuring a woman at a grand piano in a softly lit room.
-
-#### 📝 Prompt
-
-```
-Intimate 30-second cinematic commercial for “Still I Made a Rose”: young woman in black dress at grand piano in refined, softly lit room with Beethoven as silent witness. Add one elegant violinist in black as subtle secondary presence. Piano carries
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069277854005878784/img/dVOs1LSsOy-Xjil9.jpg" width="600" alt="Cinematic Piano Room Commercial">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6400)**
-
-**Author:** [@TheCFormula credo.](https://x.com/TheCFormula) | **Source:** [Link](https://x.com/TheCFormula/status/2069278020574035982) | **Published:** Jun 23, 2026
-
----
-### Static Gallery Reconstruction Timelapse
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An intricate layout configuration for a static tripod camera setting up a architectural conservation timelapse video process.
-
-#### 📝 Prompt
-
-```
-SCENE LOCK: Static tripod timelapse from identical 1.7 metre gallery position, ultra-wide 28mm lens, fixed framing and geometry.
-
-STAGE: Complete conservation and rebuilding process.
-
-DETAILS: Rust removal and repainting of cast iron, clerestory glaz...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069259967153254400/img/p6dDCfnmxd0P7u6v.jpg" width="600" alt="Static Gallery Reconstruction Timelapse">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6391)**
-
-**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2069260049906807111) | **Published:** Jun 23, 2026
-
----
-### Cave Construction Scene Lock
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A technical prompt for a construction timelapse transition within a fixed cave viewpoint.
-
-#### 📝 Prompt
-
-```
-SCENE LOCK: Static tripod, identical cave viewpoint, continuous framing, no cuts, realistic construction sequence and motion blur.
-
-STAGE: Transition from active construction into completed architectural shell.
-
-DETAILS: Workers install steel beams,
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069212754955866112/img/2wVVbOe7MzcUbKTU.jpg" width="600" alt="Cave Construction Scene Lock">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6401)**
-
-**Author:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **Source:** [Link](https://x.com/gpimpmyspace/status/2069212840007983162) | **Published:** Jun 23, 2026
-
----
-### Elderly Wizard Oil Painting
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt creating a portrait of an elderly wizard with a silver beard and velvet robes, styled like a Rembrandt oil painting.
-
-#### 📝 Prompt
-
-```
-Portrait of an elderly wizard with a long silver beard and deep green eyes, wearing a worn velvet robe and a pointed hat with subtle runes. Classical oil painting style with rich brushstrokes, Rembrandt-like chiaroscuro lighting, dark moody background
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069140101335240704/img/B0BT_K2r94QlMt51.jpg" width="600" alt="Elderly Wizard Oil Painting">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6352)**
-
-**Author:** [Tippawan](https://x.com/Tippawaniqaa1) | **Source:** [Link](https://x.com/Tippawaniqaa1/status/2069140119777669192) | **Published:** Jun 22, 2026
-
----
-### Cosmic Heart Radiant Energy
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic prompt describing a glowing red heart emblem drifting into deep cosmic space.
-
-#### 📝 Prompt
-
-```
-The glowing red heart emblem inside its radiant golden energy ring is being sent to the universe: it drifts gracefully from the foreground into the infinite depths of cosmic space, surrounded by swirling stars, vibrant nebulae, and distant galaxies.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069126357981040640/img/BJOmfWI2u0COfsHh.jpg" width="600" alt="Cosmic Heart Radiant Energy">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6344)**
-
-**Author:** [David Herbert Thomas](https://x.com/Diabach1972) | **Source:** [Link](https://x.com/Diabach1972/status/2069126422455546185) | **Published:** Jun 22, 2026
-
----
-### Pterodactyl Transformation Journey
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A surreal animation prompt where a surfer transforms into a pterodactyl and travels to Jupiter.
-
-#### 📝 Prompt
-
-```
-catch surf
-
-She turns into a pterodactyl and flies to Jupiter in July. Juniper’s her escort.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069110645916663808/img/8R4jZoEj_h4YMOXQ.jpg" width="600" alt="Pterodactyl Transformation Journey">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6357)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2069110771632476463) | **Published:** Jun 22, 2026
-
----
-### Serenity Melody Ray
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A poetic prompt for a serene video involving light rays and singing flies.
-
-#### 📝 Prompt
-
-```
-💡 of the ray🌙🌕
-
-They are friends with flies who help them sing a melody 🎵 that is serenity itself.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069100655814590464/img/x59SVmp1rbTqAfhg.jpg" width="600" alt="Serenity Melody Ray">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6348)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2069100778220859677) | **Published:** Jun 22, 2026
-
----
-### Frame-Guided Crash Zoom Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A technical prompt demonstrating Grok Imagine 1.5's ability to follow specific start and end frame directions.
-
-#### 📝 Prompt
-
-```
-start with [Image1] as the exact first frame, crash zoom through thr window of the house, inside the window of the house is the exact frame [Image2]
-```
-
-<img src="https://cms-assets.youmind.com/media/1782204557179_0yl3e5_HLbpW05WsAA7Sgp.jpg" width="600" alt="Frame-Guided Crash Zoom Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6353)**
-
-**Author:** [steve johnson](https://x.com/seeksteve) | **Source:** [Link](https://x.com/seeksteve/status/2069097737631445197) | **Published:** Jun 22, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2239,6 +2226,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-04T07:11:06.308Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-04T10:34:45.300Z</sub>
 
 </div>

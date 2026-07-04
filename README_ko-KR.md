@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **2031** |
+| 📝 총 프롬프트 수 | **2042** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-07-04** |
 
@@ -189,6 +189,197 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### Family Guy 스타일의 코믹한 낙상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Family Guy 스타일에서 영감을 받아 캐릭터가 계단에서 코믹하게 넘어지는 장면을 생성하기 위한 비디오 생성 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+Family Guy에서 볼 법한 아주 코믹한 방식으로 내가 계단에서 넘어지는 모습을 만들어 줘.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073147482532454400/img/aR5MbtGnXRJgSUBO.jpg" width="600" alt="Family Guy 스타일의 코믹한 낙상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6810)**
+
+**작성자:** [Jeremy Judkins](https://x.com/jeremyjudkins_) | **출처:** [Link](https://x.com/jeremyjudkins_/status/2073147550543065228) | **게시일:** Jul 3, 2026
+
+---
+### 부드럽게 말하는 패션 모델 비디오 포트레이트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 스튜디오 환경에서 패션 모델이 카메라를 정면으로 응시하며 차분하고 부드럽게 말하는 모습을 담은 시네마틱 비디오 생성 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+그녀가 카메라를 향해 매우 부드럽고 차분하게 말합니다: "나에게 무엇이 진짜처럼 느껴지는지 알고 싶나요? 바로 이것이 진짜처럼 느껴져요."
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073086602998669312/img/uzh8FsXEwcaY0AXs.jpg" width="600" alt="부드럽게 말하는 패션 모델 비디오 포트레이트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6815)**
+
+**작성자:** [Carolina Delgado](https://x.com/carolletta) | **출처:** [Link](https://x.com/carolletta/status/2073086668555616662) | **게시일:** Jul 3, 2026
+
+---
+### 감동적인 영화관 장면
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 어둡고 조명이 깜빡이는 영화관에서 영화를 보며 눈물을 참으려는 여성의 모습을 담은 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+고정 샷, 장면 속 모든 사람이 영화를 관람 중입니다. 화면 중앙의 여성은 태연한 척하려고 애쓰며 조용히 눈물을 닦아냅니다. 조명: 방을 어둡게 유지하고, 조명을 변경하지 마세요. 프로젝터에서 나오는 빛이 깜빡입니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073081606798245888/img/ZzQFC_U3AwMG3ohk.jpg" width="600" alt="감동적인 영화관 장면">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6816)**
+
+**작성자:** [auqib](https://x.com/auqibhabib) | **출처:** [Link](https://x.com/auqibhabib/status/2073081684627751041) | **게시일:** Jul 3, 2026
+
+---
+### 커스텀 푸드 트럭 애니메이션
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 일몰을 배경으로 특정 간판과 캠퍼 지붕이 있는 생동감 넘치는 푸드 트럭을 위한 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+골든 아워에 주차된, 팝업 캠퍼 지붕이 확장된 생동감 넘치는 커스텀 푸드 트럭. 트럭 측면에 손으로 그린 대담한 로고에는 정확히 다음과 같이 적혀 있습니다: Nomi's nourishes heart ♥️ & love of Christ 🙏
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073065027460878336/img/KUujS7HE0EoeSn-x.jpg" width="600" alt="커스텀 푸드 트럭 애니메이션">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6808)**
+
+**작성자:** [Lala](https://x.com/LalaBFox) | **출처:** [Link](https://x.com/LalaBFox/status/2073065215852179699) | **게시일:** Jul 3, 2026
+
+---
+### 신성함을 꿈꾸는 애니메이션
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 신성함과 인류에 대한 꿈을 다룬 영적인 장면을 위한 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+그는 신에 대해 꿈을 꾸고 있습니다. 예수님이 그에게 어떻게 훌륭한 인류가 될 수 있는지 가르쳐 주러 오셨습니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073042545282891776/img/8vdpsnWvi6Poutn3.jpg" width="600" alt="신성함을 꿈꾸는 애니메이션">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6814)**
+
+**작성자:** [Moral English](https://x.com/XMoralEnglish) | **출처:** [Link](https://x.com/XMoralEnglish/status/2073042630896963693) | **게시일:** Jul 3, 2026
+
+---
+### 공포의 오두막 주문 비디오
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 외딴 오두막에서 벌어지는 주문과 악령 들림을 다룬 공포 영화 시퀀스를 묘사하는 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+다섯 명의 친구와 tBruce Campbell axed는 숲속 외딴 오두막으로 여행을 떠나 그곳에서 주문이 담긴 테이프를 재생합니다. 이로 인해 악령들이 풀려나고, 마지막 한 명이 살아남기 위해 사투를 벌일 때까지 친구들은 차례로 악령에 빙의됩니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072947271906553856/img/GkHz06weSGMdrMfn.jpg" width="600" alt="공포의 오두막 주문 비디오">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6812)**
+
+**작성자:** [David Williams](https://x.com/DavidWilliamsYN) | **출처:** [Link](https://x.com/DavidWilliamsYN/status/2072947330916184298) | **게시일:** Jul 3, 2026
+
+---
+### 핸드헬드 브이로그 골목길 고양이 시퀀스
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 여성이 골목길에서 고양이를 발견하기까지의 과정을 핸드헬드 카메라로 따라가는, 캐주얼한 브이로그 스타일의 시네마틱 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+핸드헬드 카메라가 식물로 가득한 좁은 골목길로 들어가는 그녀의 뒤를 따라갑니다. 그녀가 길고양이를 발견하고 속도를 줄이며 웅크려 앉자, 촬영자가 따라가는 과정에서 프레임이 중심에서 살짝 벗어납니다. 자연광, 캐주얼한 브이로그 느낌의 움직임.
+Persistent --
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072943824876306432/img/Ukkc9ZlojOmJMBe8.jpg" width="600" alt="핸드헬드 브이로그 골목길 고양이 시퀀스">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6811)**
+
+**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2072943892731691042) | **게시일:** Jul 3, 2026
+
+---
+### 한국 젊은 여성의 일상을 담은 영화 같은 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 캐주얼한 일상복을 입은 한국 젊은 여성의 실감 나는 영상을 생성하기 위한 상세 프롬프트로, 의류 질감과 헤어스타일 디테일에 중점을 두었습니다.
+
+#### 📝 프롬프트
+
+```
+A.I. 속에서 최고의 삶을 누리는 한국 젊은 여성, 20대 초반, 자연스러운 일상 모습, 빛바랜 차콜 그레이 색상의 슬리브리스 크롭탑, 헐렁한 하이웨이스트 연청바지, 검은색 캔버스 스니커즈, 검은색 코드 목걸이, 잔머리가 있는 지저분한 옆으로 묶은 검은색 웨이브 포니테일
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072890092838862848/img/EQ-pwHohNBpjCxmc.jpg" width="600" alt="한국 젊은 여성의 일상을 담은 영화 같은 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6809)**
+
+**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2072890171352125729) | **게시일:** Jul 3, 2026
+
+---
+### 브라질 국기 영상 배경
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 브라질 국기의 요소인 녹색 바탕, 노란색 마름모, 파란색 지구본을 활용하여 영상 배경을 생성하기 위한 Grok Imagine 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+첫 번째 이미지의 브라질 국기를 전체 배경으로 사용하세요. 녹색 바탕, 노란색 마름모, 그리고 흰색 별과 'ORDEM E PROGRESSO' 문구가 적힌 흰색 띠가 있는 파란색 지구본을 포함해 주세요.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072835615654297600/img/iGyVD4ClOjpK39wo.jpg" width="600" alt="브라질 국기 영상 배경">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6807)**
+
+**작성자:** [Ami A](https://x.com/AA63782) | **출처:** [Link](https://x.com/AA63782/status/2072835668548702400) | **게시일:** Jul 3, 2026
+
+---
+### Snorricam 오두막 공포 장면
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Snorricam 앵글을 사용하여 오두막에서 의문의 존재에게 쫓기는 여성의 내면적 공포를 묘사한 상세한 호러 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+공포/호러, Snorricam 카메라 앵글, 주변 환경이 흔들리고 요동치는 동안 인물의 얼굴을 프레임에 고정합니다. 대사 한마디 없이 캐릭터의 심리 상태를 물리적으로 외부화합니다. 대런 아로노프스키 감독의 '레퀴엠(Requiem for a Dream)'에서 약물로 인한 공포를 묘사하며 유명해졌으며, 맥락에 따라 행복감, 고립감, 두려움 또는 해리 상태를 표현하는 데에도 매우 효과적입니다. 미세한 피부 질감과 모공이 살아있는 밝은 피부의 젊은 여성, 녹색 눈, 자연스러운 긴 붉은 머리에 옆으로 내린 얇은 앞머리, 무표정하지만 미묘하게 긴장한 얼굴, 얇은 눈썹, 작은 코 피어싱을 한 자연스러운 코, 높은 광대뼈, 부드러운 복숭아빛 입술. 검은색 탱크톱 위에 단추가 달린 녹슨 오렌지색 스웨터를 입고 있으며, 작은 금색 십자가 목걸이를 착용함. 미드 프레임, 양손은 옆으로 내리고 눈은 카메라를 똑바로 응시함. 커다란 벽돌 벽난로가 있는 넓은 오두막, 낮은 조명, 짙은 그림자, 사실적인 렌더링, 얕은 피사계 심도, A24 인디 호러 영화 스타일. 숲속에서 그림자에 가려진 한 남자가 나타나 그녀를 뒤따름. 남자는 멈춰 서서 멀어지는 그녀를 응시하며, 지속적으로 자연스럽게 눈을 깜빡임.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2072832751275839488/pu/img/TSfH8--S8goCReu8.jpg" width="600" alt="Snorricam 오두막 공포 장면">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6813)**
+
+**작성자:** [NYXEN](https://x.com/NYXEN_77) | **출처:** [Link](https://x.com/NYXEN_77/status/2072832789968306469) | **게시일:** Jul 3, 2026
+
+---
 ### 돈다발 위의 고양이들
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -324,6 +515,25 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6745)**
 
 **작성자:** [Varun Mehta](https://x.com/varun_j_mehta) | **출처:** [Link](https://x.com/varun_j_mehta/status/2072637540092588361) | **게시일:** Jul 2, 2026
+
+---
+### 고요하게 피어나는 화이트 레이스
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 섬세한 레이스와 부드럽게 피어나는 꿈결 같은 비주얼이 어우러진 시네마틱 영상 프롬프트로, 평온하고 신비로운 분위기를 자아냅니다.
+
+#### 📝 프롬프트
+
+```
+고요하게 피어나는 화이트 레이스. 섬세한 레이스의 속삭임과 부드럽게 피어나는 꿈의 향연.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072630157358268417/img/RAQoETfhBUEbJNII.jpg" width="600" alt="고요하게 피어나는 화이트 레이스">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6817)**
+
+**작성자:** [Stella 𝕏](https://x.com/StellaGrokStar) | **출처:** [Link](https://x.com/StellaGrokStar/status/2072630235775017264) | **게시일:** Jul 2, 2026
 
 ---
 ### Glow Mask Rebirth
@@ -1964,227 +2174,6 @@ Elena 가 반짝이는 포털을 지나 광활한 Playroom 으로 들어서며 �
 **작성자:** [BMX](https://x.com/bmx_ai13) | **출처:** [Link](https://x.com/bmx_ai13/status/2069395522088030511) | **게시일:** Jun 23, 2026
 
 ---
-### 건축 시공 순서 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 캔틸레버 확장과 갠트리 이동을 보여주는 고정 카메라 건축 시퀀스를 위한 기술적 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-영화 같은 건축 시공 영상, 동일한 고정 카메라 위치, 참조 이미지와 정확히 일치하는 확장되는 캔틸레버와 부분적인 외장재, 0초에서 4초 구간에는 이동식 갠트리가 트러스 상단을 따라 천천히 이동하며...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069392701674704896/img/7BgJh-k7kuAJ2C2V.jpg" width="600" alt="건축 시공 순서 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6396)**
-
-**작성자:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **출처:** [Link](https://x.com/gpimpmyspace/status/2069392763775488017) | **게시일:** Jun 23, 2026
-
----
-### 사이키델릭한 보라색 디스크 월드 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 보라색 테마, 하늘을 나는 기차, 디스크 형태의 도시가 어우러진 판타지 디스크 월드를 위한 생동감 넘치는 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-지구의 바다 위로 디스크 도시와 하늘을 나는 기차가 있는, 더 사이키델릭하고 보라색 빛의 디스크 월드를 생성해 줘
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069376283121795072/img/KualyFsLSLjo51T-.jpg" width="600" alt="사이키델릭한 보라색 디스크 월드 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6395)**
-
-**작성자:** [KENDREIK Artist](https://x.com/kendreik) | **출처:** [Link](https://x.com/kendreik/status/2069376338037727657) | **게시일:** Jun 23, 2026
-
----
-### 떠 있는 섬 타임랩스 콘셉트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 짙은 황금빛 구름 바다 위에 거대한 지각 변동으로 떠 있는 섬들을 보여주는 슬로우 모션 풍경 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-상단에 언급된 좋은 오후입니다. 이 장면은 거대하고 삐죽삐죽한 암석 첨탑들과 짙고 넘실거리는 황금빛 구름 바다 위에 떠 있는 지각 변동으로 형성된 섬들이 압도합니다. 주변 환경은 완전히 변함없이 유지됩니다. 움직임은 느리고...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069337036562354176/img/R1OooegZbE1YaGsF.jpg" width="600" alt="떠 있는 섬 타임랩스 콘셉트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6390)**
-
-**작성자:** [Ijaz Malik](https://x.com/Ijazmalik101) | **출처:** [Link](https://x.com/Ijazmalik101/status/2069337097371316452) | **게시일:** Jun 23, 2026
-
----
-### 영화 같은 피아노 룸 광고
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 은은한 조명의 방에서 그랜드 피아노를 연주하는 여성을 주인공으로 한 고급 광고용 상세 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-“Still I Made a Rose”를 위한 30초 분량의 감성적인 영화풍 광고: 베토벤의 초상이 조용히 지켜보는 가운데, 은은한 조명의 세련된 방에서 그랜드 피아노를 연주하는 검은 드레스 차림의 젊은 여성. 여기에 우아한 검은 옷차림의 바이올리니스트를 보조 출연자로 추가하여 섬세한 분위기를 더함. 피아노 선율이
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069277854005878784/img/dVOs1LSsOy-Xjil9.jpg" width="600" alt="영화 같은 피아노 룸 광고">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6400)**
-
-**작성자:** [@TheCFormula credo.](https://x.com/TheCFormula) | **출처:** [Link](https://x.com/TheCFormula/status/2069278020574035982) | **게시일:** Jun 23, 2026
-
----
-### 정적 갤러리 복원 타임랩스
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 건축물 보존 타임랩스 영상 제작을 위해 삼각대를 고정하고 촬영한 정교한 레이아웃 구성입니다.
-
-#### 📝 프롬프트
-
-```
-SCENE LOCK: 동일한 1.7 미터 갤러리 위치에서 촬영한 정적 삼각대 타임랩스, 초광각 28mm 렌즈, 고정된 프레임 및 지오메트리.
-
-STAGE: 전체 보존 및 재건 과정.
-
-DETAILS: 주철의 녹 제거 및 재도장, 고측창 유리...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069259967153254400/img/p6dDCfnmxd0P7u6v.jpg" width="600" alt="정적 갤러리 복원 타임랩스">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6391)**
-
-**작성자:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **출처:** [Link](https://x.com/gpimpmyspace/status/2069260049906807111) | **게시일:** Jun 23, 2026
-
----
-### 동굴 건설 장면 고정
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 고정된 동굴 시점에서 건설 타임랩스 전환을 위한 기술적 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-SCENE LOCK: 고정 삼각대, 동일한 동굴 시점, 연속적인 프레이밍, 컷 없음, 사실적인 건설 시퀀스 및 모션 블러.
-
-STAGE: 활발한 건설 현장에서 완성된 건축 골조로의 전환.
-
-DETAILS: 작업자들이 강철 빔을 설치하고,
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069212754955866112/img/2wVVbOe7MzcUbKTU.jpg" width="600" alt="동굴 건설 장면 고정">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6401)**
-
-**작성자:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **출처:** [Link](https://x.com/gpimpmyspace/status/2069212840007983162) | **게시일:** Jun 23, 2026
-
----
-### 노마법사 유화
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 렘브란트 유화 스타일로 은색 수염과 벨벳 로브를 입은 노마법사의 초상화를 생성하는 시네마틱 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-길고 은색인 수염과 깊은 녹색 눈을 가진 노마법사의 초상화. 낡은 벨벳 로브와 미묘한 룬 문자가 새겨진 뾰족한 모자를 쓰고 있음. 풍부한 붓터치가 돋보이는 고전 유화 스타일, 렘브란트풍의 키아로스쿠로 조명, 어둡고 분위기 있는 배경
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069140101335240704/img/B0BT_K2r94QlMt51.jpg" width="600" alt="노마법사 유화">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6352)**
-
-**작성자:** [Tippawan](https://x.com/Tippawaniqaa1) | **출처:** [Link](https://x.com/Tippawaniqaa1/status/2069140119777669192) | **게시일:** Jun 22, 2026
-
----
-### 코스믹 하트 래디언트 에너지
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 빛나는 붉은 하트 엠블럼이 깊은 우주 공간으로 떠다니는 모습을 묘사한 시네마틱 프롬프트.
-
-#### 📝 프롬프트
-
-```
-찬란한 황금빛 에너지 고리 안에 있는 빛나는 붉은 하트 엠블럼이 우주를 향해 나아갑니다. 소용돌이치는 별들과 생동감 넘치는 성운, 그리고 먼 은하계에 둘러싸인 채 전경에서 무한한 우주 공간의 심연으로 우아하게 흘러갑니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069126357981040640/img/BJOmfWI2u0COfsHh.jpg" width="600" alt="코스믹 하트 래디언트 에너지">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6344)**
-
-**작성자:** [David Herbert Thomas](https://x.com/Diabach1972) | **출처:** [Link](https://x.com/Diabach1972/status/2069126422455546185) | **게시일:** Jun 22, 2026
-
----
-### 익룡 변신 여정
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 서퍼가 익룡으로 변신하여 목성으로 여행을 떠나는 초현실적인 애니메이션 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-파도를 타다
-
-그녀는 7월에 익룡으로 변신하여 목성으로 날아갑니다. 주니퍼(Juniper)가 그녀를 호위합니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069110645916663808/img/8R4jZoEj_h4YMOXQ.jpg" width="600" alt="익룡 변신 여정">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6357)**
-
-**작성자:** [Philip Carr](https://x.com/PhilipCarrn7711) | **출처:** [Link](https://x.com/PhilipCarrn7711/status/2069110771632476463) | **게시일:** Jun 22, 2026
-
----
-### Serenity Melody Ray
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 빛줄기와 노래하는 파리가 어우러진 평온한 영상을 위한 시적인 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-💡 빛줄기의 🌙🌕
-
-그들은 평온함 그 자체인 멜로디 🎵를 노래하도록 돕는 파리들과 친구입니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069100655814590464/img/x59SVmp1rbTqAfhg.jpg" width="600" alt="Serenity Melody Ray">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6348)**
-
-**작성자:** [Philip Carr](https://x.com/PhilipCarrn7711) | **출처:** [Link](https://x.com/PhilipCarrn7711/status/2069100778220859677) | **게시일:** Jun 22, 2026
-
----
-### 프레임 가이드 크래시 줌 비디오
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 1.5가 특정 시작 및 종료 프레임 지시를 따르는 능력을 보여주는 기술적 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-[Image1]을 정확한 첫 번째 프레임으로 시작하여, 집 창문을 통해 크래시 줌인하고, 집 창문 안쪽은 [Image2] 프레임과 정확히 일치하게 하세요
-```
-
-<img src="https://cms-assets.youmind.com/media/1782204557179_0yl3e5_HLbpW05WsAA7Sgp.jpg" width="600" alt="프레임 가이드 크래시 줌 비디오">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6353)**
-
-**작성자:** [steve johnson](https://x.com/seeksteve) | **출처:** [Link](https://x.com/seeksteve/status/2069097737631445197) | **게시일:** Jun 22, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2246,6 +2235,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-04T07:11:10.053Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-04T10:34:50.419Z</sub>
 
 </div>

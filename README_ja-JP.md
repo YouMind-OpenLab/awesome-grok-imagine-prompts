@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2031** |
+| 📝 プロンプト総数 | **2042** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-07-04** |
 
@@ -189,6 +189,197 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### Family Guy 風のコミカルな転倒
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Family Guy のスタイルにインスパイアされた、階段からコミカルに転げ落ちるキャラクターの動画生成用プロンプトです。
+
+#### 📝 プロンプト
+
+```
+Family Guy で見られるような、とてもコミカルな方法で階段から転げ落ちる様子を生成してください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073147482532454400/img/aR5MbtGnXRJgSUBO.jpg" width="600" alt="Family Guy 風のコミカルな転倒">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6810)**
+
+**作者:** [Jeremy Judkins](https://x.com/jeremyjudkins_) | **ソース:** [Link](https://x.com/jeremyjudkins_/status/2073147550543065228) | **公開日:** Jul 3, 2026
+
+---
+### 穏やかに語りかけるファッションモデルのビデオポートレート
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> スタジオでファッションモデルがカメラに向かって穏やかに語りかける、クローズアップのシネマティックな動画生成用プロンプト。
+
+#### 📝 プロンプト
+
+```
+彼女はカメラに向かって非常に穏やかに語りかけます。「私にとって何がリアルに感じられるか知りたい？ これがリアルなのよ。」
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073086602998669312/img/uzh8FsXEwcaY0AXs.jpg" width="600" alt="穏やかに語りかけるファッションモデルのビデオポートレート">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6815)**
+
+**作者:** [Carolina Delgado](https://x.com/carolletta) | **ソース:** [Link](https://x.com/carolletta/status/2073086668555616662) | **公開日:** Jul 3, 2026
+
+---
+### 感動的な映画館のシーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 薄暗い映画館で、映画を見ながら涙を隠そうとする女性を描いたビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+固定ショット。シーン内の全員が映画を鑑賞している。フレーム中央の女性は、平静を装おうと必死になりながら、静かに涙を拭っている。ライティング：部屋は薄暗い状態を維持すること。照明は変更せず、プロジェクターの光が明滅する様子を表現すること。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073081606798245888/img/ZzQFC_U3AwMG3ohk.jpg" width="600" alt="感動的な映画館のシーン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6816)**
+
+**作者:** [auqib](https://x.com/auqibhabib) | **ソース:** [Link](https://x.com/auqibhabib/status/2073081684627751041) | **公開日:** Jul 3, 2026
+
+---
+### カスタムフードトラックのアニメーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 特定の看板とキャンパー屋根を備えた、夕暮れ時の活気あるフードトラックの動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+ゴールデンアワーに駐車された、ポップアップ式のキャンパー屋根を広げた活気あるカスタムフードトラック。トラックの側面には「Nomi's nourishes heart ♥️ & love of Christ 🙏」と正確に記された、大胆な手描きのロゴ。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073065027460878336/img/KUujS7HE0EoeSn-x.jpg" width="600" alt="カスタムフードトラックのアニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6808)**
+
+**作者:** [Lala](https://x.com/LalaBFox) | **ソース:** [Link](https://x.com/LalaBFox/status/2073065215852179699) | **公開日:** Jul 3, 2026
+
+---
+### 神性を夢見るアニメーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 神性と人間性についての夢をテーマにした、スピリチュアルなシーン向けのビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+彼は神の夢を見ている。イエスが現れ、良き人間であるためにはどうすべきかを彼に教え、導く。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073042545282891776/img/8vdpsnWvi6Poutn3.jpg" width="600" alt="神性を夢見るアニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6814)**
+
+**作者:** [Moral English](https://x.com/XMoralEnglish) | **ソース:** [Link](https://x.com/XMoralEnglish/status/2073042630896963693) | **公開日:** Jul 3, 2026
+
+---
+### ホラーキャビン・呪文の動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 人里離れたキャビンで呪文や悪魔憑きが発生する、ホラー映画のシークエンスを描写した動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+5 人の友人と tBruce Campbell が斧を手に、森の奥深くにある人里離れたキャビンへと向かう。そこで彼らが呪文が録音されたテープを再生したことで悪魔が解き放たれ、次々と憑依されていく。最後に残った 1 人が、生き残りをかけて戦う。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072947271906553856/img/GkHz06weSGMdrMfn.jpg" width="600" alt="ホラーキャビン・呪文の動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6812)**
+
+**作者:** [David Williams](https://x.com/DavidWilliamsYN) | **ソース:** [Link](https://x.com/DavidWilliamsYN/status/2072947330916184298) | **公開日:** Jul 3, 2026
+
+---
+### ハンディカメラで撮影した路地裏の猫のシークエンス
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 女性が路地裏で猫を見つける様子をハンディカメラで追う、カジュアルな Vlog スタイルのシネマティックな動画プロンプトです。
+
+#### 📝 プロンプト
+
+```
+ハンディカメラが、植物が並ぶ狭い路地へと入っていく彼女の後ろ姿を追う。彼女は野良猫を見つけて歩みを緩め、しゃがみ込む。撮影者が追いつこうとする中で、フレームが中心からわずかにずれる。自然光、カジュアルな Vlog の動き。
+Persistent --
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072943824876306432/img/Ukkc9ZlojOmJMBe8.jpg" width="600" alt="ハンディカメラで撮影した路地裏の猫のシークエンス">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6811)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2072943892731691042) | **公開日:** Jul 3, 2026
+
+---
+### 韓国人女性の日常を捉えたシネマティックな動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> カジュアルな日常着を身にまとった若い韓国人女性のリアルな動画を生成するための詳細なプロンプトです。特に衣服の質感や髪型のディテールに焦点を当てています。
+
+#### 📝 プロンプト
+
+```
+A.I. の世界で最高の人生を送る若い韓国人女性、20 代前半、自然で日常的な外見、色あせたチャコールグレーのノースリーブクロップトップ、ゆったりとしたハイウエストのライトウォッシュジーンズ、黒のキャンバススニーカー、黒のコードネックレス、無造作なサイドポニーテールに薄い前髪を合わせた黒のウェーブヘア
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072890092838862848/img/EQ-pwHohNBpjCxmc.jpg" width="600" alt="韓国人女性の日常を捉えたシネマティックな動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6809)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2072890171352125729) | **公開日:** Jul 3, 2026
+
+---
+### ブラジル国旗のビデオ背景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ブラジル国旗の要素（緑の地、黄色のひし形、青い地球儀）を使用してビデオ背景を作成するための Grok Imagine 用プロンプト。
+
+#### 📝 プロンプト
+
+```
+最初の画像のブラジル国旗を背景全体に使用してください。緑の地、黄色のひし形、そして白い星と「ORDEM E PROGRESSO」の白い帯が描かれた青い地球儀を含めてください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072835615654297600/img/iGyVD4ClOjpK39wo.jpg" width="600" alt="ブラジル国旗のビデオ背景">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6807)**
+
+**作者:** [Ami A](https://x.com/AA63782) | **ソース:** [Link](https://x.com/AA63782/status/2072835668548702400) | **公開日:** Jul 3, 2026
+
+---
+### Snorricam を使用したキャビンでのホラーシーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Snorricam アングルを用いて、謎の人物に追われながらキャビン内でパニックに陥る女性を描写した詳細なホラープロンプト。
+
+#### 📝 プロンプト
+
+```
+取り憑かれたような恐怖 / ホラー。Snorricam カメラアングルを使用し、周囲の世界が揺れ動く中で、被写体の顔をフレーム内に固定します。これにより、セリフを使わずにキャラクターの精神状態を物理的に表現します。アロノフスキー監督の『レクイエム・フォー・ドリーム』で薬物によるパニックを描写するために有名になりましたが、文脈に応じて多幸感、孤独、恐怖、乖離を表現するのにも同様に効果的です。肌の質感や毛穴まで繊細に描かれた色白の若い女性、緑の瞳、自然な赤色のロングヘア、サイドに流した薄い前髪。ストイックな表情、わずかに緊張した様子、細い眉、小さな鼻ピアスをした自然な形の鼻、高い頬骨、ふっくらとした柔らかいピーチ色の唇。黒のタンクトップの上に、ボタン付きの錆びたオレンジ色のセーターを着用。小さな金の十字架のネックレス。ミッドフレーム、両手は体の横に、目は真っ直ぐカメラを見つめている。大きなレンガ造りの暖炉がある広いキャビン内、低照度、深い影、リアルなレンダリング、浅い被写界深度、A24 インディーズホラー映画スタイル。森から影に包まれた一人の男が現れ、彼女を追う。男は立ち止まり、歩き去る彼女をただ見つめている。自然な瞬きが続く。
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2072832751275839488/pu/img/TSfH8--S8goCReu8.jpg" width="600" alt="Snorricam を使用したキャビンでのホラーシーン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6813)**
+
+**作者:** [NYXEN](https://x.com/NYXEN_77) | **ソース:** [Link](https://x.com/NYXEN_77/status/2072832789968306469) | **公開日:** Jul 3, 2026
+
+---
 ### 札束の上の猫たち
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -324,6 +515,25 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6745)**
 
 **作者:** [Varun Mehta](https://x.com/varun_j_mehta) | **ソース:** [Link](https://x.com/varun_j_mehta/status/2072637540092588361) | **公開日:** Jul 2, 2026
+
+---
+### 静かに咲き誇るホワイトレース
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 繊細なレースと柔らかく咲き誇る夢のようなビジュアルを特徴とする、平和で幻想的な雰囲気を醸し出すシネマティックなビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+静かに咲き誇るホワイトレース。繊細なレースの囁きと、柔らかく咲き誇る夢の情景。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072630157358268417/img/RAQoETfhBUEbJNII.jpg" width="600" alt="静かに咲き誇るホワイトレース">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6817)**
+
+**作者:** [Stella 𝕏](https://x.com/StellaGrokStar) | **ソース:** [Link](https://x.com/StellaGrokStar/status/2072630235775017264) | **公開日:** Jul 2, 2026
 
 ---
 ### Glow Mask Rebirth
@@ -1964,227 +2174,6 @@ Elena が輝くポータルを通り抜け、広大な Playroom へと足を踏�
 **作者:** [BMX](https://x.com/bmx_ai13) | **ソース:** [Link](https://x.com/bmx_ai13/status/2069395522088030511) | **公開日:** Jun 23, 2026
 
 ---
-### 建築施工シークエンス動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> カンチレバーの張り出しとガントリーの動きを示す、固定カメラによる建築シークエンスのテクニカルビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-映画のような建築施工動画。カメラ位置は完全に固定。参照画像と完全に一致する張り出したカンチレバーと部分的な外装材。0 秒から 4 秒にかけて、移動ガントリーがトラスの上をゆっくりと前進し...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069392701674704896/img/7BgJh-k7kuAJ2C2V.jpg" width="600" alt="建築施工シークエンス動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6396)**
-
-**作者:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **ソース:** [Link](https://x.com/gpimpmyspace/status/2069392763775488017) | **公開日:** Jun 23, 2026
-
----
-### サイケデリックな紫の円盤状世界の動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 紫を基調とした、空飛ぶ列車や円盤状の都市が存在するファンタジーな円盤状世界の鮮やかな動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-地球の海の上に、空飛ぶ列車や円盤状の都市がある、よりサイケデリックで紫色の円盤状の世界を作成してください
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069376283121795072/img/KualyFsLSLjo51T-.jpg" width="600" alt="サイケデリックな紫の円盤状世界の動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6395)**
-
-**作者:** [KENDREIK Artist](https://x.com/kendreik) | **ソース:** [Link](https://x.com/kendreik/status/2069376338037727657) | **公開日:** Jun 23, 2026
-
----
-### 浮遊する島々のタイムラプスコンセプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 黄金色の厚い雲海の上に浮かぶ、巨大な地殻変動による浮遊島を描いたスローモーション風景プロンプト。
-
-#### 📝 プロンプト
-
-```
-上空から見た午後の光景。巨大で険しい岩の尖塔と、黄金色の厚い雲海の上に浮かぶ地殻変動による浮遊島が、このシーンを支配しています。環境は完全に変化していません。動きはゆっくりとしており...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069337036562354176/img/R1OooegZbE1YaGsF.jpg" width="600" alt="浮遊する島々のタイムラプスコンセプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6390)**
-
-**作者:** [Ijaz Malik](https://x.com/Ijazmalik101) | **ソース:** [Link](https://x.com/Ijazmalik101/status/2069337097371316452) | **公開日:** Jun 23, 2026
-
----
-### シネマティックなピアノルームのコマーシャル
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 柔らかな光に包まれた部屋でグランドピアノを弾く女性をフィーチャーした、ハイエンドなコマーシャル向けの詳細なプロンプト。
-
-#### 📝 プロンプト
-
-```
-「Still I Made a Rose」のための 30 秒間の親密なシネマティック・コマーシャル：洗練された柔らかな光の部屋で、黒いドレスを着た若い女性がグランドピアノを演奏し、ベートーヴェンの肖像画が静かに見守っている。サブの存在として、黒い衣装をまとったエレガントなバイオリニストを 1 名追加。ピアノが奏でる
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069277854005878784/img/dVOs1LSsOy-Xjil9.jpg" width="600" alt="シネマティックなピアノルームのコマーシャル">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6400)**
-
-**作者:** [@TheCFormula credo.](https://x.com/TheCFormula) | **ソース:** [Link](https://x.com/TheCFormula/status/2069278020574035982) | **公開日:** Jun 23, 2026
-
----
-### 静止画ギャラリー再構築タイムラプス
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 建築保存のタイムラプス動画制作に向けた、三脚固定カメラによる緻密なレイアウト構成。
-
-#### 📝 プロンプト
-
-```
-シーンロック：ギャラリー内の同一位置（高さ 1.7 メートル）に三脚を固定し、超広角 28mm レンズを使用して撮影したタイムラプス。フレーミングとジオメトリを完全に固定。
-
-ステージ：保存および再構築プロセスの全工程。
-
-詳細：鋳鉄の錆取りおよび再塗装、高窓（クリアストーリー）のガラス...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069259967153254400/img/p6dDCfnmxd0P7u6v.jpg" width="600" alt="静止画ギャラリー再構築タイムラプス">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6391)**
-
-**作者:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **ソース:** [Link](https://x.com/gpimpmyspace/status/2069260049906807111) | **公開日:** Jun 23, 2026
-
----
-### 洞窟建設シーンの固定
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 固定された洞窟の視点内での建設タイムラプス移行のための技術的なプロンプト。
-
-#### 📝 プロンプト
-
-```
-シーン固定：静止三脚、同一の洞窟視点、連続的なフレーミング、カットなし、リアルな建設シーケンスとモーションブラー。
-
-ステージ：活発な建設作業から完成した建築シェルへの移行。
-
-詳細：作業員が鉄骨を設置、
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069212754955866112/img/2wVVbOe7MzcUbKTU.jpg" width="600" alt="洞窟建設シーンの固定">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6401)**
-
-**作者:** [Greenpimpmyspace](https://x.com/gpimpmyspace) | **ソース:** [Link](https://x.com/gpimpmyspace/status/2069212840007983162) | **公開日:** Jun 23, 2026
-
----
-### 老魔術師の油絵
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 銀色の髭を蓄え、ベルベットのローブをまとった老魔術師のポートレートを、レンブラント風の油絵スタイルで生成するためのシネマティックな動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-長く銀色の髭と深い緑色の瞳を持つ老魔術師のポートレート。使い古されたベルベットのローブと、かすかなルーン文字が刻まれたとんがり帽子を身につけている。豊かな筆致による古典的な油絵スタイルで、レンブラントのようなキアロスクーロ（明暗法）のライティングと、ダークで重厚な背景が特徴。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069140101335240704/img/B0BT_K2r94QlMt51.jpg" width="600" alt="老魔術師の油絵">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6352)**
-
-**作者:** [Tippawan](https://x.com/Tippawaniqaa1) | **ソース:** [Link](https://x.com/Tippawaniqaa1/status/2069140119777669192) | **公開日:** Jun 22, 2026
-
----
-### コズミック・ハートの放射エネルギー
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 輝く赤いハートのエンブレムが深宇宙へと漂っていく様子を描写した、映画のようなプロンプト。
-
-#### 📝 プロンプト
-
-```
-輝く黄金のエネルギーリングに包まれた赤いハートのエンブレムが、宇宙へと送り出されます。それは手前から無限に広がる深宇宙の奥深くへと優雅に漂い、渦巻く星々や鮮やかな星雲、そして遠くの銀河に囲まれています。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069126357981040640/img/BJOmfWI2u0COfsHh.jpg" width="600" alt="コズミック・ハートの放射エネルギー">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6344)**
-
-**作者:** [David Herbert Thomas](https://x.com/Diabach1972) | **ソース:** [Link](https://x.com/Diabach1972/status/2069126422455546185) | **公開日:** Jun 22, 2026
-
----
-### プテラノドンへの変身の旅
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> サーファーがプテラノドンに変身し、木星へと旅立つシュールなアニメーションプロンプト。
-
-#### 📝 プロンプト
-
-```
-波に乗る
-
-彼女はプテラノドンに変身し、7 月に木星へと飛び立つ。ジュニパーが彼女の護衛を務める。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069110645916663808/img/8R4jZoEj_h4YMOXQ.jpg" width="600" alt="プテラノドンへの変身の旅">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6357)**
-
-**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **ソース:** [Link](https://x.com/PhilipCarrn7711/status/2069110771632476463) | **公開日:** Jun 22, 2026
-
----
-### Serenity Melody Ray
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 光線と歌うハエが登場する、穏やかなビデオのための詩的なプロンプト。
-
-#### 📝 プロンプト
-
-```
-💡 of the ray🌙🌕
-
-彼らはハエたちと友達で、ハエたちが彼らの歌うメロディ 🎵 を手伝っています。それはまさに静寂そのものです。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069100655814590464/img/x59SVmp1rbTqAfhg.jpg" width="600" alt="Serenity Melody Ray">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6348)**
-
-**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **ソース:** [Link](https://x.com/PhilipCarrn7711/status/2069100778220859677) | **公開日:** Jun 22, 2026
-
----
-### フレームガイド付きクラッシュズーム動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 1.5 が開始フレームと終了フレームの特定の指示に従う能力を示すテクニカルプロンプトです。
-
-#### 📝 プロンプト
-
-```
-[Image1] を正確な最初のフレームとして開始し、家の窓に向かってクラッシュズームを行い、家の窓の中に [Image2] の正確なフレームを表示する
-```
-
-<img src="https://cms-assets.youmind.com/media/1782204557179_0yl3e5_HLbpW05WsAA7Sgp.jpg" width="600" alt="フレームガイド付きクラッシュズーム動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6353)**
-
-**作者:** [steve johnson](https://x.com/seeksteve) | **ソース:** [Link](https://x.com/seeksteve/status/2069097737631445197) | **公開日:** Jun 22, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2246,6 +2235,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-04T07:11:09.087Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-04T10:34:49.162Z</sub>
 
 </div>
