@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2042** |
+| 📝 Total Prompts | **2047** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-05** |
 
@@ -189,6 +189,110 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### सुपर 8 फिल्म बीच वुमन वेव
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक पुरानी यादों वाली वीडियो जनरेशन प्रॉम्प्ट, जिसमें समुद्र तट पर हाथ हिलाती एक महिला के लिए सुपर 8 फिल्म एस्थेटिक्स का उपयोग किया गया है। इसमें Grok Imagine 1.5 के लिए विशिष्ट फेशियल एक्सप्रेशन और वैलेंस पैरामीटर्स शामिल हैं।
+
+#### 📝 Prompt
+
+```
+सुपर 8 फिल्म स्टॉक पर शूट किया गया, समुद्र तट पर एक दिन। एक महिला समुद्र तट पर लेटी हुई है, मुस्कुरा रही है और कैमरे की ओर हाथ हिला रही है।
+
+V/A: वैलेंस 0.80, अराउज़ल 0.50
+
+FACS: मध्यम तीव्रता पर AU6 + AU12 + AU25
+
+Anatomical: कोन्स (corners)
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073281509696389120/img/uTGkKkjYbpsIWFYs.jpg" width="600" alt="सुपर 8 फिल्म बीच वुमन वेव">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6857)**
+
+**Author:** [M I K E • R I C K S](https://x.com/michaelricks) | **Source:** [Link](https://x.com/michaelricks/status/2073425366677324118) | **Published:** Jul 4, 2026
+
+---
+### राजसी रानी का राज्याभिषेक दृश्य
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक युवा रानी, नीचे उतरता हुआ ताज और एक भव्य सुनहरे हॉल को दर्शाते हुए शाही राज्याभिषेक दृश्य के लिए एक सिनेमैटिक वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+एक ताज धीरे-धीरे एक युवा रानी के सिर पर उतरता है जबकि दरबार अपनी सांसें थामे हुए है। एक क्रेन कैमरा उसकी आंखों से ऊपर की ओर बढ़ते हुए सुनहरे हॉल के वाइड शॉट पर जाता है। पृष्ठभूमि में गंभीर गाना बजानेवालों की आवाज़, राजसी माहौल। 6 सेकंड।
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2073295683986112512/pu/img/E4Iac8E7gQZpIaeY.jpg" width="600" alt="राजसी रानी का राज्याभिषेक दृश्य">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6858)**
+
+**Author:** [MYS AI](https://x.com/mys1111) | **Source:** [Link](https://x.com/mys1111/status/2073295711202922501) | **Published:** Jul 4, 2026
+
+---
+### चिकन एलियन डोरबेल रिंग
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक चिकन-एलियन हाइब्रिड के घर तक चलकर आने और डोरबेल बजाने के बारे में एक रचनात्मक और रॉ प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+चिकन, एलियन, घर की ओर चल रहा है। और फिर वह डोरबेल बजाता है डिंग डोंग
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073247871189516288/img/-it_HCAUiB0_et6F.jpg" width="600" alt="चिकन एलियन डोरबेल रिंग">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6855)**
+
+**Author:** [Aether Ink Studios](https://x.com/anameistudios) | **Source:** [Link](https://x.com/anameistudios/status/2073247922221682782) | **Published:** Jul 4, 2026
+
+---
+### काउबॉय द्वारा हारमोनिका बजाने की तकनीक
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> हारमोनिका बजाते हुए एक काउबॉय का वीडियो बनाने के लिए विस्तृत निर्देश, जिसमें यथार्थवादी सांस लेने की प्रक्रिया, हाथों की गति और तकनीक पर ध्यान केंद्रित किया गया है।
+
+#### 📝 Prompt
+
+```
+एक बार जब काउबॉय बजाना शुरू करता है, तो वह केवल अपने मुंह से नहीं, बल्कि अपने पेट से सांस लेगा। वह अपने होंठों को ढीला रखेगा और अपनी जीभ का उपयोग छेदों को ब्लॉक करने के लिए करेगा ताकि वह एक बार में केवल एक स्पष्ट नोट बजा सके।
+जब वह वह गहरी, भावनात्मक, रोने जैसी ध्वनि चाहता है, तो वह हारमोनिका के चारों ओर अपने हाथों को कप की तरह रखेगा और बजाते समय उन्हें खोलेगा और बंद करेगा — इसे 'हैंड वाह' (hand wah) कहते हैं।
+वह हवा फूंकने और खींचने के बीच सहजता से स्विच करेगा, अपनी जीभ और गले से प्रत्येक नोट को आकार देगा ताकि हारमोनिका वास्तव में गाता हुआ महसूस हो।
+काउबॉय के बजाना शुरू करने पर यह कुछ ऐसा दिखेगा।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073238762746781696/img/j85hRx9lC5KU2p-f.jpg" width="600" alt="काउबॉय द्वारा हारमोनिका बजाने की तकनीक">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6854)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2073238878723412103) | **Published:** Jul 4, 2026
+
+---
+### पॉपकॉर्न पूल में महिला और एलियन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक असली और मजेदार वीडियो प्रॉम्प्ट, जिसमें कैटसूट पहने एक महिला और एक एलियन काउबॉय पॉपकॉर्न से भरे स्विमिंग पूल में खेल रहे हैं।
+
+#### 📝 Prompt
+
+```
+लंबे हल्के सुनहरे बालों वाली सुंदर महिला, जिसने डायमंड नेकलेस और डायमंड इयररिंग्स के साथ कैटसूट पहना है, और काउबॉय हैट और काउबॉय आउटफिट में एक बड़ा नीला पुरुष एलियन, पॉपकॉर्न से भरे एक विशाल स्विमिंग पूल में खेल रहे हैं
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073203927307177986/img/gd5F1J0f27MQzpZH.jpg" width="600" alt="पॉपकॉर्न पूल में महिला और एलियन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6856)**
+
+**Author:** [Sheelagh Mac Mathghamhna](https://x.com/abitoblarney) | **Source:** [Link](https://x.com/abitoblarney/status/2073204014909378959) | **Published:** Jul 4, 2026
+
+---
 ### Family Guy स्टाइल में मज़ेदार तरीके से गिरना
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2069,111 +2173,6 @@ Rainy Runway Tap Dance. तीन mechs, एक निडर पायलट, �
 **Author:** [Vitalii Isaev](https://x.com/restofart) | **Source:** [Link](https://x.com/restofart/status/2069493142080856175) | **Published:** Jun 23, 2026
 
 ---
-### वीडियो एडिटिंग और एनिमेशन प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक इमेज-टू-वीडियो मॉडिफिकेशन प्रॉम्प्ट जो आँखें बंद करने, होंठ हिलाने, पलकें झपकाने और क्रैकिंग पज़ल पीस को रेंडर करने के लिए विस्तृत क्रमिक चरण प्रदान करता है।
-
-#### 📝 Prompt
-
-```
-इसे एक वीडियो में बदलें और उसकी आँखों को धीरे-धीरे बंद होते हुए दिखाएं, पलकों पर वही रंग रखें। बिना मुस्कुराए उसके होंठों को हिलाएं, फिर उसकी बाईं आँख को झपकाएं और तीन छोटे पज़ल पीस को टूटते हुए दिखाएं। हटा दें। एडिट करें और उसके होंठों को बदलें जो मुस्कुरा नहीं रहे हैं...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069489335075053568/img/35ftvD5GXpwkcCuT.jpg" width="600" alt="वीडियो एडिटिंग और एनिमेशन प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6388)**
-
-**Author:** [caroline freebern](https://x.com/myHeartis1true) | **Source:** [Link](https://x.com/myHeartis1true/status/2069489395145593017) | **Published:** Jun 23, 2026
-
----
-### इंडस्ट्रियल वेयरहाउस फाइट एक्शन सीक्वेंस
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिंगल कंटीन्यूअस हैंडहेल्ड कैमरा शॉट का उपयोग करते हुए साउथ इंडियन वेयरहाउस फाइट सीन के लिए एक वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-रेफरेंस इमेज @Image1 से केवल सब्जेक्ट लें। बाकी सब कुछ छोड़ दें... क्विक एक्शन, रात में अल्ट्रा-रियलिस्टिक साउथ इंडियन इंडस्ट्रियल वेयरहाउस फाइट। हिडन स्टिच कट्स के साथ सिंगल कंटीन्यूअस शॉट, कोई दृश्य संपादन (एडिट) नहीं। रॉ हैंडहेल्ड मोबाइल फुटेज।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069445527146786817/img/lN4as31Fb581VU9J.jpg" width="600" alt="इंडस्ट्रियल वेयरहाउस फाइट एक्शन सीक्वेंस">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6402)**
-
-**Author:** [YoYo Studios](https://x.com/TeamTwood) | **Source:** [Link](https://x.com/TeamTwood/status/2069445589159563630) | **Published:** Jun 23, 2026
-
----
-### हैंडहेल्ड डॉक्यूमेंट्री निर्माण स्थल वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमैटिक वीडियो प्रॉम्प्ट जिसे ग्रिटी, हैंडहेल्ड डॉक्यूमेंट्री एस्थेटिक के लिए डिज़ाइन किया गया है, जिसमें सूर्यास्त के समय 4K रिज़ॉल्यूशन वाला निर्माण स्थल और उड़ते हुए धूल के कण दिखाई देते हैं।
-
-#### 📝 Prompt
-
-```
-Ambience: अल्ट्रा-रियलिस्टिक 2024 समकालीन वीडियो, शार्प 4K रिज़ॉल्यूशन, रॉ हैंडहेल्ड डॉक्यूमेंट्री फील। धूल भरे, अधूरे कंक्रीट निर्माण स्थल में हाई-कॉन्ट्रास्ट सूर्यास्त की रोशनी। गहरी नारंगी रोशनी, लंबी कठोर छायाएं और उड़ते हुए धूल के कण।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069445390055931904/img/r4Q4-1AsOnjYiJb4.jpg" width="600" alt="हैंडहेल्ड डॉक्यूमेंट्री निर्माण स्थल वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6394)**
-
-**Author:** [YoYo Studios](https://x.com/TeamTwood) | **Source:** [Link](https://x.com/TeamTwood/status/2069445457286406297) | **Published:** Jun 23, 2026
-
----
-### Space Elevator की साइकेडेलिक यात्रा
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक साइकेडेलिक वीडियो प्रॉम्प्ट जो तारों से भरे ब्रह्मांड के माध्यम से लोगों और कार्गो को ले जाने वाले एक स्पेस एलिवेटर को दर्शाता है।
-
-#### 📝 Prompt
-
-```
-स्पेस एलिवेटर जो लोगों और कार्गो को ऊपर ले जा रहा है, साइकेडेलिक अनुभव, ढेर सारे तारे
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069426227119546368/img/MpSjI5Viq9KfuEqL.jpg" width="600" alt="Space Elevator की साइकेडेलिक यात्रा">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6397)**
-
-**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2069426293360194028) | **Published:** Jun 23, 2026
-
----
-### रेट्रो डायनर में उड़ते हुए सीरियल्स का दृश्य
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक बेहद विस्तृत सिनेमैटिक प्रॉम्प्ट जिसमें एक रेट्रो किचन में एक छोटी बच्ची, स्लो-मोशन में उछलता दूध और हवा में तैरते सीरियल्स दिखाए गए हैं।
-
-#### 📝 Prompt
-
-```
-एक आरामदायक रेट्रो डायनर स्टाइल किचन के अंदर का सिनेमैटिक वाइड एंगल शॉट। एक छोटी बच्ची रंगीन सीरियल्स के कटोरे के ऊपर झुकी हुई है और दूध नाटकीय स्लो-मोशन में ऊपर की ओर उछल रहा है। चमकीले सीरियल्स के लूप्स उसके चेहरे के चारों ओर हवा में तैर रहे हैं। वह सीधे कैमरे की ओर बड़ी-बड़ी आँखों और आश्चर्य व खुशी से खुले मुँह के साथ देख रही है। सुबह की गर्म धूप ब्लाइंड्स से छनकर अंदर आ रही है। इस दृश्य में एक चंचल, जादुई और ऊर्जावान एहसास है, जिसमें फिशआई लेंस डिस्टॉर्शन, यथार्थवादी लाइटिंग, उच्च विवरण, गतिशील गति और एक मजेदार सिनेमैटिक वाइब है। अवधि: 10 सेकंड।
-
-संवाद: वाह... क्या मेरा नाश्ता सचमुच उड़ रहा है?
-
-साउंड डिज़ाइन:
-
-दूध के उछलने की अचानक आवाज़।
-सीरियल्स के बिखरने की हल्की आवाज़।
-हल्का जादुई स्पार्कल इफेक्ट।
-बच्ची की आश्चर्य भरी आह।
-मजेदार चंचल बैकग्राउंड म्यूजिक।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069395437908643841/img/g-URoeS90azUiBUG.jpg" width="600" alt="रेट्रो डायनर में उड़ते हुए सीरियल्स का दृश्य">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6398)**
-
-**Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2069395522088030511) | **Published:** Jun 23, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2235,6 +2234,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-05T04:18:58.332Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-05T10:44:55.392Z</sub>
 
 </div>

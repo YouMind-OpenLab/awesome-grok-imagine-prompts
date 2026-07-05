@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2042** |
+| 📝 Total Prompts | **2047** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-05** |
 
@@ -189,6 +189,110 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Super 8 Film Plaj Kadın El Sallama
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 1.5 için belirli yüz ifadesi ve değerlik parametrelerine sahip, plajda el sallayan bir kadının Super 8 film estetiğiyle hazırlandığı nostaljik bir video oluşturma istemi.
+
+#### 📝 Prompt
+
+```
+Super 8 film stoğu ile çekilmiş, plajda bir gün. Bir kadın kumsalda uzanıyor, gülümsüyor ve kameraya el sallıyor.
+
+V/A: değerlik (valence) 0.80, uyarılma (arousal) 0.50
+
+FACS: orta şiddette AU6 + AU12 + AU25
+
+Anatomik: köşeler
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073281509696389120/img/uTGkKkjYbpsIWFYs.jpg" width="600" alt="Super 8 Film Plaj Kadın El Sallama">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6857)**
+
+**Author:** [M I K E • R I C K S](https://x.com/michaelricks) | **Source:** [Link](https://x.com/michaelricks/status/2073425366677324118) | **Published:** Jul 4, 2026
+
+---
+### Görkemli Kraliçe Taç Giyme Töreni Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Genç bir kraliçe, alçalan bir taç ve görkemli altın bir salon içeren kraliyet taç giyme töreni sahnesi için sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Saray nefesini tutmuşken bir taç yavaşça genç kraliçenin başına iner. Kamera, gözlerinden yukarı doğru hareket ederek altın salonun geniş açılı bir çekimine geçer. Arka planda ciddi bir koro, görkemli bir atmosfer. 6 saniye.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2073295683986112512/pu/img/E4Iac8E7gQZpIaeY.jpg" width="600" alt="Görkemli Kraliçe Taç Giyme Töreni Sahnesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6858)**
+
+**Author:** [MYS AI](https://x.com/mys1111) | **Source:** [Link](https://x.com/mys1111/status/2073295711202922501) | **Published:** Jul 4, 2026
+
+---
+### Tavuk Uzaylı Kapı Zili Çalıyor
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir evin kapısına gelip zili çalan tavuk-uzaylı melezi hakkında yaratıcı ve ham bir istem.
+
+#### 📝 Prompt
+
+```
+Tavuk, uzaylı, eve doğru yürüyor. Sonra kapı zilini çalıyor, ding dong
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073247871189516288/img/-it_HCAUiB0_et6F.jpg" width="600" alt="Tavuk Uzaylı Kapı Zili Çalıyor">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6855)**
+
+**Author:** [Aether Ink Studios](https://x.com/anameistudios) | **Source:** [Link](https://x.com/anameistudios/status/2073247922221682782) | **Published:** Jul 4, 2026
+
+---
+### Kovboy Mızıka Çalma Tekniği
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gerçekçi nefes alışverişi, el hareketleri ve tekniğe odaklanarak mızıka çalan bir kovboy videosu oluşturmaya yönelik detaylı bir kılavuz.
+
+#### 📝 Prompt
+
+```
+Kovboy çalmaya başladığında, sadece ağzından değil, diyaframından nefes alacaktır. Dudaklarını gevşek tutacak ve her seferinde sadece tek bir temiz nota çalabilmek için dilini kullanarak delikleri kapatacaktır.
+O derin, duygusal ve ağlayan sesi istediğinde, ellerini mızıkanın etrafında birleştirip çalarken açıp kapatacaktır; buna 'hand wah' tekniği denir.
+Hava üfleme ve çekme arasında akıcı bir şekilde geçiş yapacak, mızıkanın adeta şarkı söylemesi için her notayı dili ve boğazıyla şekillendirecektir.
+Kovboy çalmaya başladığında görüntünün nasıl olacağı işte böyle olacaktır.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073238762746781696/img/j85hRx9lC5KU2p-f.jpg" width="600" alt="Kovboy Mızıka Çalma Tekniği">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6854)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2073238878723412103) | **Published:** Jul 4, 2026
+
+---
+### Patlamış Mısır Havuzunda Kadın ve Uzaylı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kedi kostümlü bir kadın ile kovboy şapkalı bir uzaylının patlamış mısırla dolu bir yüzme havuzunda eğlendiği sürreal ve eğlenceli bir video istemi.
+
+#### 📝 Prompt
+
+```
+Kedi kostümü giymiş, elmas kolye ve elmas küpeli, uzun açık sarı saçlı güzel bir kadın ile kovboy şapkası ve kovboy kıyafeti içindeki büyük mavi erkek bir uzaylı, patlamış mısırla dolu devasa bir yüzme havuzunda oynuyorlar
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073203927307177986/img/gd5F1J0f27MQzpZH.jpg" width="600" alt="Patlamış Mısır Havuzunda Kadın ve Uzaylı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6856)**
+
+**Author:** [Sheelagh Mac Mathghamhna](https://x.com/abitoblarney) | **Source:** [Link](https://x.com/abitoblarney/status/2073204014909378959) | **Published:** Jul 4, 2026
+
+---
 ### Family Guy Tarzı Komik Düşüş
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2069,111 +2173,6 @@ Hayaletimsi yarı saydam deriye, büyük parlayan mavi gözlere ve vücudundan s
 **Author:** [Vitalii Isaev](https://x.com/restofart) | **Source:** [Link](https://x.com/restofart/status/2069493142080856175) | **Published:** Jun 23, 2026
 
 ---
-### Video Düzenleme ve Animasyon İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gözleri kapatma, dudakları hareket ettirme, göz kırpma ve çatlayan yapboz parçalarını oluşturma için ayrıntılı sıralı adımlar sunan bir görselden videoya dönüştürme istemi.
-
-#### 📝 Prompt
-
-```
-Bunu bir videoya dönüştür ve göz kapaklarında aynı renkleri koruyarak gözlerini yavaşça kapatmasını sağla. Gülümsemeden dudaklarını hareket ettir, ardından sol gözünü kırpmasını ve üç küçük yapboz parçasının çatlamasını sağla. kaldır. düzenle ve gülümsemeyen dudaklarını değiştir...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069489335075053568/img/35ftvD5GXpwkcCuT.jpg" width="600" alt="Video Düzenleme ve Animasyon İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6388)**
-
-**Author:** [caroline freebern](https://x.com/myHeartis1true) | **Source:** [Link](https://x.com/myHeartis1true/status/2069489395145593017) | **Published:** Jun 23, 2026
-
----
-### Endüstriyel Depo Dövüş Aksiyon Sekansı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Tek bir kesintisiz el kamerası çekimi kullanan, Güney Hindistan tarzı bir depo dövüş sahnesi için video istemi.
-
-#### 📝 Prompt
-
-```
-@Image1 referans görselinden sadece özneyi al. Geri kalan her şeyi ihmal et… hızlı aksiyon, gece vakti ultra gerçekçi Güney Hindistan tarzı endüstriyel depo dövüşü. Gizli geçişlerle tek kesintisiz çekim, görünür düzenleme yok. Ham el kamerası mobil çekim.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069445527146786817/img/lN4as31Fb581VU9J.jpg" width="600" alt="Endüstriyel Depo Dövüş Aksiyon Sekansı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6402)**
-
-**Author:** [YoYo Studios](https://x.com/TeamTwood) | **Source:** [Link](https://x.com/TeamTwood/status/2069445589159563630) | **Published:** Jun 23, 2026
-
----
-### Elde Taşınabilir Belgesel Tarzı İnşaat Alanı Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gün batımında, havada uçuşan toz zerreleriyle 4K çözünürlüklü bir inşaat alanını konu alan, gerçekçi ve elde çekilmiş belgesel estetiği için tasarlanmış sinematik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Ambiyans: Ultra gerçekçi 2024 çağdaş video, keskin 4K çözünürlük, ham ve elde çekilmiş belgesel hissi. Tozlu, tamamlanmamış beton bir inşaat alanında yüksek kontrastlı gün batımı ışığı. Derin turuncu ışık, uzun ve sert gölgeler, havada uçuşan toz zerreleri.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069445390055931904/img/r4Q4-1AsOnjYiJb4.jpg" width="600" alt="Elde Taşınabilir Belgesel Tarzı İnşaat Alanı Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6394)**
-
-**Author:** [YoYo Studios](https://x.com/TeamTwood) | **Source:** [Link](https://x.com/TeamTwood/status/2069445457286406297) | **Published:** Jun 23, 2026
-
----
-### Uzay Asansörü ile Saykodelik Yolculuk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> İnsanları ve kargoları yıldızlarla dolu bir evrende taşıyan bir uzay asansörünü betimleyen saykodelik bir video istemi.
-
-#### 📝 Prompt
-
-```
-İnsanları ve kargoları yukarı taşıyan uzay asansörü, saykodelik deneyim, bolca yıldız
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069426227119546368/img/MpSjI5Viq9KfuEqL.jpg" width="600" alt="Uzay Asansörü ile Saykodelik Yolculuk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6397)**
-
-**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2069426293360194028) | **Published:** Jun 23, 2026
-
----
-### Retro Diner Uçan Mısır Gevreği Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Retro bir mutfakta, ağır çekim süt sıçramaları ve havada süzülen mısır gevrekleri ile genç bir kızı konu alan son derece detaylı sinematik bir istem.
-
-#### 📝 Prompt
-
-```
-Retro lokanta tarzı şirin bir mutfağın içinden geniş açılı sinematik bir çekim. Genç bir kız, sütün dramatik bir ağır çekimle yukarı doğru fışkırdığı renkli bir mısır gevreği kasesinin üzerine eğilmiş. Parlak mısır gevreği halkaları yüzünün etrafında havada süzülüyor. Doğrudan kameraya bakıyor; gözleri fal taşı gibi açık, ağzı şaşkınlık ve keyif dolu bir ifadeyle aralık. Perdelerden içeri sıcak bir sabah güneşi süzülüyor. Sahne; balıkgözü lens bozulması, gerçekçi aydınlatma, yüksek detay, dinamik hareket ve eğlenceli sinematik havasıyla oyuncu, büyülü ve enerjik bir his veriyor. Süre: 10 saniye.
-
-Diyalog: Vay canına… kahvaltım gerçekten uçuyor mu?
-
-Ses Tasarımı: 
-
-Ani süt sıçrama sesi.
-Hafif mısır gevreği saçılma sesleri.
-Yumuşak, büyülü ışıltı efekti.
-Kızın şaşkınlık dolu nefes alışverişi.
-Eğlenceli ve neşeli arka plan müziği.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069395437908643841/img/g-URoeS90azUiBUG.jpg" width="600" alt="Retro Diner Uçan Mısır Gevreği Sahnesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6398)**
-
-**Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2069395522088030511) | **Published:** Jun 23, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2235,6 +2234,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-05T04:19:06.417Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-05T10:45:03.865Z</sub>
 
 </div>

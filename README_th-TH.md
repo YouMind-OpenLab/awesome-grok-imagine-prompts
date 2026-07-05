@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2042** |
+| 📝 Total Prompts | **2047** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-05** |
 
@@ -189,6 +189,110 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### วิดีโอฟิล์ม Super 8 ผู้หญิงโบกมือที่ชายหาด
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สร้างวิดีโอแนวคิดถึงอดีตด้วยสุนทรียศาสตร์แบบฟิล์ม Super 8 ของผู้หญิงที่กำลังโบกมือบนชายหาด พร้อมพารามิเตอร์การแสดงออกทางสีหน้าและค่าความรู้สึกเฉพาะสำหรับ Grok Imagine 1.5
+
+#### 📝 Prompt
+
+```
+ถ่ายทำด้วยฟิล์ม Super 8 ในวันพักผ่อนที่ชายหาด ผู้หญิงคนหนึ่งกำลังนอนอยู่บนหาดทราย ยิ้มและโบกมือให้กับกล้อง
+
+V/A: valence 0.80, arousal 0.50
+
+FACS: AU6 + AU12 + AU25 ที่ระดับความเข้มข้นปานกลาง
+
+Anatomical: มุมปาก
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073281509696389120/img/uTGkKkjYbpsIWFYs.jpg" width="600" alt="วิดีโอฟิล์ม Super 8 ผู้หญิงโบกมือที่ชายหาด">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6857)**
+
+**Author:** [M I K E • R I C K S](https://x.com/michaelricks) | **Source:** [Link](https://x.com/michaelricks/status/2073425366677324118) | **Published:** Jul 4, 2026
+
+---
+### ฉากพิธีราชาภิเษกของราชินีผู้สง่างาม
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวภาพยนตร์สำหรับฉากพิธีราชาภิเษกที่ประกอบด้วยราชินีวัยเยาว์ มงกุฎที่กำลังเลื่อนลงมา และโถงทองคำอันโอ่อ่า
+
+#### 📝 Prompt
+
+```
+มงกุฎค่อย ๆ เลื่อนลงมาบนศีรษะของราชินีวัยเยาว์ท่ามกลางความเงียบสงัดของเหล่าขุนนาง กล้องเครนเคลื่อนจากดวงตาของเธอขึ้นไปเป็นภาพมุมกว้างของโถงทองคำ มีเสียงประสานที่ดูเคร่งขรึมเป็นฉากหลัง ให้บรรยากาศที่สง่างาม ความยาว 6 วินาที
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2073295683986112512/pu/img/E4Iac8E7gQZpIaeY.jpg" width="600" alt="ฉากพิธีราชาภิเษกของราชินีผู้สง่างาม">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6858)**
+
+**Author:** [MYS AI](https://x.com/mys1111) | **Source:** [Link](https://x.com/mys1111/status/2073295711202922501) | **Published:** Jul 4, 2026
+
+---
+### เสียงกริ่งประตูจากมนุษย์ต่างดาวไก่
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์เชิงสร้างสรรค์และดิบๆ เกี่ยวกับลูกผสมระหว่างไก่กับมนุษย์ต่างดาวที่เดินมาที่บ้านแล้วกดกริ่งประตู
+
+#### 📝 Prompt
+
+```
+ไก่ มนุษย์ต่างดาว กำลังเดินมาที่บ้าน แล้วมันก็กดกริ่งประตู ติ๊งต่อง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073247871189516288/img/-it_HCAUiB0_et6F.jpg" width="600" alt="เสียงกริ่งประตูจากมนุษย์ต่างดาวไก่">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6855)**
+
+**Author:** [Aether Ink Studios](https://x.com/anameistudios) | **Source:** [Link](https://x.com/anameistudios/status/2073247922221682782) | **Published:** Jul 4, 2026
+
+---
+### เทคนิคการเป่าฮาร์โมนิกาของคาวบอย
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำแนะนำโดยละเอียดสำหรับการสร้างวิดีโอคาวบอยเป่าฮาร์โมนิกา โดยเน้นไปที่การหายใจ การขยับมือ และเทคนิคที่สมจริง
+
+#### 📝 Prompt
+
+```
+เมื่อคาวบอยเริ่มเล่น เขาจะหายใจจากท้องไม่ใช่แค่จากปาก เขาจะผ่อนคลายริมฝีปากและใช้ลิ้นปิดช่องต่าง ๆ เพื่อให้เป่าออกมาได้ทีละโน้ตอย่างชัดเจน
+เมื่อเขาต้องการเสียงที่ลึกซึ้ง กินใจ และดูเหมือนเสียงร้องไห้ เขาจะใช้มือทั้งสองข้างป้องรอบฮาร์โมนิกาแล้วเปิดปิดสลับกันขณะเล่น ซึ่งนั่นคือเทคนิค hand wah
+เขาจะสลับระหว่างการเป่าลมออกและการสูดลมเข้าอย่างนุ่มนวล พร้อมกับปรับรูปโน้ตแต่ละตัวด้วยลิ้นและลำคอเพื่อให้เสียงฮาร์โมนิกานั้นกังวานราวกับเสียงร้องเพลง
+นั่นคือภาพที่จะปรากฏเมื่อคาวบอยเริ่มบรรเลงเพลง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073238762746781696/img/j85hRx9lC5KU2p-f.jpg" width="600" alt="เทคนิคการเป่าฮาร์โมนิกาของคาวบอย">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6854)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2073238878723412103) | **Published:** Jul 4, 2026
+
+---
+### หญิงสาวกับมนุษย์ต่างดาวในสระป๊อปคอร์น
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์แนวเซอร์เรียลแสนสนุก ที่มีหญิงสาวในชุดรัดรูปและมนุษย์ต่างดาวคาวบอยกำลังเล่นกันอยู่ในสระว่ายน้ำที่เต็มไปด้วยป๊อปคอร์น
+
+#### 📝 Prompt
+
+```
+หญิงสาวสวยผมยาวสีบลอนด์อ่อน สวมสร้อยคอเพชรและต่างหูเพชรในชุดรัดรูป กับมนุษย์ต่างดาวเพศชายตัวใหญ่สีฟ้าในหมวกคาวบอยและชุดคาวบอย กำลังเล่นกันอยู่ในสระว่ายน้ำขนาดมหึมาที่เต็มไปด้วยป๊อปคอร์น
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073203927307177986/img/gd5F1J0f27MQzpZH.jpg" width="600" alt="หญิงสาวกับมนุษย์ต่างดาวในสระป๊อปคอร์น">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6856)**
+
+**Author:** [Sheelagh Mac Mathghamhna](https://x.com/abitoblarney) | **Source:** [Link](https://x.com/abitoblarney/status/2073204014909378959) | **Published:** Jul 4, 2026
+
+---
 ### ฉากตกบันไดสไตล์ตลกแบบ Family Guy
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2069,111 +2173,6 @@ Elena ก้าวผ่านประตูมิติที่ส่อง�
 **Author:** [Vitalii Isaev](https://x.com/restofart) | **Source:** [Link](https://x.com/restofart/status/2069493142080856175) | **Published:** Jun 23, 2026
 
 ---
-### พรอมต์สำหรับการตัดต่อวิดีโอและแอนิเมชัน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับการปรับแต่งภาพเป็นวิดีโอที่ให้ขั้นตอนโดยละเอียดตามลำดับ เพื่อสั่งให้หลับตา ขยับริมฝีปาก กะพริบตา และเรนเดอร์ชิ้นส่วนจิ๊กซอว์ที่กำลังแตกออก
-
-#### 📝 Prompt
-
-```
-เปลี่ยนสิ่งนี้ให้เป็นวิดีโอและทำให้ดวงตาของเธอค่อย ๆ หลับลงโดยใช้สีเดียวกันบนเปลือกตา ขยับริมฝีปากโดยไม่ยิ้ม จากนั้นกะพริบตาซ้ายและทำให้ชิ้นส่วนจิ๊กซอว์เล็ก ๆ สามชิ้นแตกออก ลบออก แก้ไขและเปลี่ยนริมฝีปากของเธอให้ไม่ยิ้ม...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069489335075053568/img/35ftvD5GXpwkcCuT.jpg" width="600" alt="พรอมต์สำหรับการตัดต่อวิดีโอและแอนิเมชัน">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6388)**
-
-**Author:** [caroline freebern](https://x.com/myHeartis1true) | **Source:** [Link](https://x.com/myHeartis1true/status/2069489395145593017) | **Published:** Jun 23, 2026
-
----
-### ฉากต่อสู้ในโกดังสินค้าอุตสาหกรรม
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์สำหรับฉากต่อสู้ในโกดังสไตล์อินเดียใต้ โดยใช้การถ่ายทำแบบกล้องถือด้วยมือช็อตเดียวต่อเนื่อง
-
-#### 📝 Prompt
-
-```
-เลือกเฉพาะตัวละครจากภาพอ้างอิง @Image1 ไม่ต้องนำองค์ประกอบอื่นมา... แอ็กชันที่รวดเร็ว ฉากต่อสู้ในโกดังอุตสาหกรรมสไตล์อินเดียใต้ที่สมจริงสุดๆ ในยามค่ำคืน ถ่ายทำแบบช็อตเดียวต่อเนื่องโดยมีการตัดต่อแบบซ่อนรอยต่อ ไม่เห็นรอยตัดต่อใดๆ ให้ความรู้สึกเหมือนฟุตเทจดิบจากการถ่ายด้วยมือถือ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069445527146786817/img/lN4as31Fb581VU9J.jpg" width="600" alt="ฉากต่อสู้ในโกดังสินค้าอุตสาหกรรม">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6402)**
-
-**Author:** [YoYo Studios](https://x.com/TeamTwood) | **Source:** [Link](https://x.com/TeamTwood/status/2069445589159563630) | **Published:** Jun 23, 2026
-
----
-### วิดีโอสารคดีถ่ายทำแบบถือกล้องในไซต์ก่อสร้าง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอสไตล์ภาพยนตร์ที่ออกแบบมาเพื่อความรู้สึกแบบสารคดีดิบๆ ถ่ายทำด้วยมือ โดยนำเสนอไซต์ก่อสร้างในความละเอียด 4K ช่วงพระอาทิตย์ตกดินพร้อมละอองฝุ่นที่ฟุ้งกระจาย
-
-#### 📝 Prompt
-
-```
-บรรยากาศ: วิดีโอร่วมสมัยปี 2024 ที่สมจริงเป็นพิเศษ ความละเอียด 4K คมชัด ให้ความรู้สึกเหมือนสารคดีที่ถ่ายทำด้วยมือแบบดิบๆ แสงพระอาทิตย์ตกที่มีคอนทราสต์สูงในไซต์ก่อสร้างคอนกรีตที่ยังไม่เสร็จและเต็มไปด้วยฝุ่น แสงสีส้มเข้ม เงาที่ทอดยาวและคมชัด พร้อมละอองฝุ่นที่หมุนวน
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069445390055931904/img/r4Q4-1AsOnjYiJb4.jpg" width="600" alt="วิดีโอสารคดีถ่ายทำแบบถือกล้องในไซต์ก่อสร้าง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6394)**
-
-**Author:** [YoYo Studios](https://x.com/TeamTwood) | **Source:** [Link](https://x.com/TeamTwood/status/2069445457286406297) | **Published:** Jun 23, 2026
-
----
-### การเดินทางสุดล้ำผ่านลิฟต์อวกาศ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์แนวไซเคเดลิกที่แสดงภาพลิฟต์อวกาศกำลังขนส่งผู้คนและสินค้าเดินทางผ่านจักรวาลที่เต็มไปด้วยดวงดาว
-
-#### 📝 Prompt
-
-```
-ลิฟต์อวกาศพาทุกคนและสินค้าเดินทางขึ้นสู่ประสบการณ์สุดล้ำท่ามกลางดวงดาวมากมาย
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069426227119546368/img/MpSjI5Viq9KfuEqL.jpg" width="600" alt="การเดินทางสุดล้ำผ่านลิฟต์อวกาศ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6397)**
-
-**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2069426293360194028) | **Published:** Jun 23, 2026
-
----
-### ฉากซีเรียลลอยได้ในร้านอาหารสไตล์เรโทร
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ภาพยนตร์ที่มีรายละเอียดสูง นำเสนอเด็กหญิงในห้องครัวสไตล์เรโทร พร้อมเอฟเฟกต์นมกระเซ็นแบบสโลว์โมชั่นและซีเรียลที่ลอยอยู่ในอากาศ
-
-#### 📝 Prompt
-
-```
-ภาพมุมกว้างแบบภาพยนตร์ภายในห้องครัวที่แสนอบอุ่นสไตล์ร้านอาหารเรโทร เด็กหญิงคนหนึ่งโน้มตัวลงเหนือชามซีเรียลสีสันสดใส ขณะที่นมพุ่งกระจายขึ้นด้านบนในแบบสโลว์โมชั่นที่ดูน่าตื่นตาตื่นใจ ซีเรียลห่วงสีสดใสลอยละล่องอยู่รอบใบหน้าของเธอ เธอมองตรงมาที่กล้องด้วยดวงตาเบิกกว้างและแสดงสีหน้าประหลาดใจและดีใจจนอ้าปากค้าง แสงแดดยามเช้าอันอบอุ่นส่องผ่านมู่ลี่เข้ามา ฉากนี้ให้ความรู้สึกสนุกสนาน มีมนต์ขลัง และเต็มไปด้วยพลัง พร้อมการบิดเบือนของเลนส์ฟิชอาย แสงที่สมจริง รายละเอียดสูง การเคลื่อนไหวที่ดูมีชีวิตชีวา และบรรยากาศแบบภาพยนตร์ที่สนุกสนาน ระยะเวลา: 10 วินาที
-
-บทพูด: ว้าว... นี่อาหารเช้าของฉันกำลังลอยอยู่จริงๆ เหรอเนี่ย?
-
-การออกแบบเสียง: 
-
-เสียงนมกระเซ็นฉับพลัน
-เสียงซีเรียลกระจายตัวเบาๆ
-เสียงเอฟเฟกต์ประกายวิ้งๆ แบบเวทมนตร์
-เสียงเด็กหญิงอุทานด้วยความประหลาดใจ
-ดนตรีประกอบที่สนุกสนานและขี้เล่น
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069395437908643841/img/g-URoeS90azUiBUG.jpg" width="600" alt="ฉากซีเรียลลอยได้ในร้านอาหารสไตล์เรโทร">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6398)**
-
-**Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2069395522088030511) | **Published:** Jun 23, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2235,6 +2234,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-05T04:18:56.451Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-05T10:44:53.377Z</sub>
 
 </div>

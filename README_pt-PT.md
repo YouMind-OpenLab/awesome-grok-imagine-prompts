@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2042** |
+| 📝 Total Prompts | **2047** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-05** |
 
@@ -189,6 +189,110 @@ Uma Valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Mulher na praia acenando em filme Super 8
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt nostálgico de geração de vídeo usando a estética de filme Super 8 de uma mulher acenando em uma praia, apresentando parâmetros específicos de expressão facial e valência para o Grok Imagine 1.5.
+
+#### 📝 Prompt
+
+```
+Filmado em película Super 8, um dia na praia. Uma mulher está deitada na areia, sorrindo e acenando para a câmera.
+
+V/A: valência 0,80, excitação 0,50
+
+FACS: AU6 + AU12 + AU25 em intensidade moderada
+
+Anatômico: cantos
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073281509696389120/img/uTGkKkjYbpsIWFYs.jpg" width="600" alt="Mulher na praia acenando em filme Super 8">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6857)**
+
+**Author:** [M I K E • R I C K S](https://x.com/michaelricks) | **Source:** [Link](https://x.com/michaelricks/status/2073425366677324118) | **Published:** Jul 4, 2026
+
+---
+### Cena de Coroação de Rainha Majestosa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico para uma cena de coroação real com uma jovem rainha, uma coroa descendo e um majestoso salão dourado.
+
+#### 📝 Prompt
+
+```
+Uma coroa desce lentamente sobre a cabeça de uma jovem rainha enquanto a corte prende a respiração. Uma câmera tipo grua sobe dos olhos dela para um plano aberto do salão dourado. Coro solene ao fundo, atmosfera majestosa. 6 segundos.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2073295683986112512/pu/img/E4Iac8E7gQZpIaeY.jpg" width="600" alt="Cena de Coroação de Rainha Majestosa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6858)**
+
+**Author:** [MYS AI](https://x.com/mys1111) | **Source:** [Link](https://x.com/mys1111/status/2073295711202922501) | **Published:** Jul 4, 2026
+
+---
+### Campainha do Alienígena Galinha
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt criativo e autêntico sobre um híbrido de galinha e alienígena caminhando até uma casa e tocando a campainha.
+
+#### 📝 Prompt
+
+```
+Galinha, alienígena, caminhando até a casa. E então ele toca a campainha, ding dong
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073247871189516288/img/-it_HCAUiB0_et6F.jpg" width="600" alt="Campainha do Alienígena Galinha">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6855)**
+
+**Author:** [Aether Ink Studios](https://x.com/anameistudios) | **Source:** [Link](https://x.com/anameistudios/status/2073247922221682782) | **Published:** Jul 4, 2026
+
+---
+### Técnica de Cowboy Tocando Gaita
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Uma instrução detalhada para gerar um vídeo de um cowboy tocando gaita, focando em respiração realista, movimentos das mãos e técnica.
+
+#### 📝 Prompt
+
+```
+Assim que o cowboy começar a tocar, ele respirará pelo diafragma, não apenas pela boca. Ele manterá os lábios relaxados e usará a língua para bloquear os orifícios, garantindo que toque apenas uma nota limpa por vez.
+Quando ele quiser aquele som profundo, emotivo e choroso, ele envolverá a gaita com as mãos, abrindo-as e fechando-as enquanto toca — esse é o efeito 'hand wah'.
+Ele alternará suavemente entre soprar e aspirar o ar, moldando cada nota com a língua e a garganta para que a gaita realmente cante.
+É assim que parecerá quando o cowboy começar a tocar.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073238762746781696/img/j85hRx9lC5KU2p-f.jpg" width="600" alt="Técnica de Cowboy Tocando Gaita">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6854)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2073238878723412103) | **Published:** Jul 4, 2026
+
+---
+### Mulher e alienígena em uma piscina de pipoca
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo surreal e divertido apresentando uma mulher de traje felino e um alienígena cowboy brincando em uma piscina cheia de pipoca.
+
+#### 📝 Prompt
+
+```
+Uma bela mulher de cabelos longos loiro-claros, usando um colar de diamantes e brincos de diamante, vestindo um traje felino, e um grande alienígena azul do sexo masculino, com um chapéu de cowboy e traje de cowboy, brincam em uma piscina gigantesca cheia de pipoca
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073203927307177986/img/gd5F1J0f27MQzpZH.jpg" width="600" alt="Mulher e alienígena em uma piscina de pipoca">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6856)**
+
+**Author:** [Sheelagh Mac Mathghamhna](https://x.com/abitoblarney) | **Source:** [Link](https://x.com/abitoblarney/status/2073204014909378959) | **Published:** Jul 4, 2026
+
+---
 ### Queda cômica ao estilo Family Guy
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2069,111 +2173,6 @@ Peixe abissal bioluminescente com pele translúcida fantasmagórica, olhos grand
 **Author:** [Vitalii Isaev](https://x.com/restofart) | **Source:** [Link](https://x.com/restofart/status/2069493142080856175) | **Published:** Jun 23, 2026
 
 ---
-### Prompt de Edição de Vídeo e Animação
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de modificação de imagem para vídeo que fornece etapas sequenciais detalhadas para fechar os olhos, mover os lábios, piscar e renderizar peças de quebra-cabeça se partindo.
-
-#### 📝 Prompt
-
-```
-Transforme isto em um vídeo e mova os olhos dela fechando gradualmente com as mesmas cores nas pálpebras. Mova os lábios dela sem sorrir, depois faça-a piscar o olho esquerdo e três pequenas peças de quebra-cabeça se partindo. remover. edite e altere os lábios dela que não estão sorrindo ju...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069489335075053568/img/35ftvD5GXpwkcCuT.jpg" width="600" alt="Prompt de Edição de Vídeo e Animação">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6388)**
-
-**Author:** [caroline freebern](https://x.com/myHeartis1true) | **Source:** [Link](https://x.com/myHeartis1true/status/2069489395145593017) | **Published:** Jun 23, 2026
-
----
-### Sequência de Ação de Luta em Armazém Industrial
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo para uma cena de luta em um armazém do sul da Índia, usando um único plano contínuo de câmera na mão.
-
-#### 📝 Prompt
-
-```
-Pegue apenas o sujeito da imagem de referência @Image1. Ignore todo o resto... ação rápida, luta ultra-realista em armazém industrial do sul da Índia à noite. Plano único contínuo com cortes ocultos, sem edições visíveis. Filmagem bruta feita com celular na mão.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069445527146786817/img/lN4as31Fb581VU9J.jpg" width="600" alt="Sequência de Ação de Luta em Armazém Industrial">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6402)**
-
-**Author:** [YoYo Studios](https://x.com/TeamTwood) | **Source:** [Link](https://x.com/TeamTwood/status/2069445589159563630) | **Published:** Jun 23, 2026
-
----
-### Vídeo de documentário com câmera na mão em canteiro de obras
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cinematográfico projetado para uma estética de documentário realista e crua, apresentando um canteiro de obras em resolução 4K ao pôr do sol com partículas de poeira em suspensão.
-
-#### 📝 Prompt
-
-```
-Ambiente: Vídeo contemporâneo ultrarrealista de 2024, resolução 4K nítida, sensação crua de documentário com câmera na mão. Iluminação de pôr do sol de alto contraste em um canteiro de obras de concreto inacabado e empoeirado. Luz laranja intensa, sombras longas e marcantes e partículas de poeira girando no ar.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069445390055931904/img/r4Q4-1AsOnjYiJb4.jpg" width="600" alt="Vídeo de documentário com câmera na mão em canteiro de obras">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6394)**
-
-**Author:** [YoYo Studios](https://x.com/TeamTwood) | **Source:** [Link](https://x.com/TeamTwood/status/2069445457286406297) | **Published:** Jun 23, 2026
-
----
-### Jornada Psicodélica no Elevador Espacial
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo psicodélico retratando um elevador espacial transportando pessoas e carga através de um universo repleto de estrelas.
-
-#### 📝 Prompt
-
-```
-Elevador espacial levando pessoas e carga para cima, experiência psicodélica, muitas estrelas
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069426227119546368/img/MpSjI5Viq9KfuEqL.jpg" width="600" alt="Jornada Psicodélica no Elevador Espacial">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6397)**
-
-**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2069426293360194028) | **Published:** Jun 23, 2026
-
----
-### Cena de Cereal Voando em Lanchonete Retrô
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt cinematográfico altamente detalhado apresentando uma jovem em uma cozinha retrô com respingos de leite em câmera lenta e cereais flutuantes.
-
-#### 📝 Prompt
-
-```
-Uma tomada cinematográfica em grande angular dentro de uma cozinha aconchegante no estilo lanchonete retrô. Uma jovem se inclina sobre uma tigela de cereal colorido enquanto o leite explode para cima em uma câmera lenta dramática. Argolas de cereal brilhantes flutuam pelo ar ao redor de seu rosto. Ela olha diretamente para a câmera com olhos arregalados e uma expressão de surpresa e deleite, com a boca aberta. A luz quente da manhã entra pelas persianas. A cena tem uma atmosfera lúdica, mágica e energética, com distorção de lente olho de peixe, iluminação realista, alto nível de detalhe, movimento dinâmico e uma vibe cinematográfica divertida. Duração: 10 segundos.
-
-Diálogo: Uau... meu café da manhã está realmente voando?
-
-Design de Som: 
-
-Respingo repentino de leite.
-Sons leves de cereais se espalhando.
-Efeito suave de brilho mágico.
-Suspiro de surpresa da garota.
-Música de fundo divertida e lúdica.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069395437908643841/img/g-URoeS90azUiBUG.jpg" width="600" alt="Cena de Cereal Voando em Lanchonete Retrô">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6398)**
-
-**Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2069395522088030511) | **Published:** Jun 23, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2235,6 +2234,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-05T04:19:05.242Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-05T10:45:02.580Z</sub>
 
 </div>

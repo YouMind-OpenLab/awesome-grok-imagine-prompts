@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2042** |
+| 📝 Total Prompts | **2047** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-05** |
 
@@ -189,6 +189,110 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Người phụ nữ vẫy tay trên bãi biển với phong cách phim Super 8
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video đầy hoài niệm sử dụng thẩm mỹ phim Super 8 về một người phụ nữ đang vẫy tay trên bãi biển, bao gồm các thông số cụ thể về biểu cảm khuôn mặt và giá trị cảm xúc cho Grok Imagine 1.5.
+
+#### 📝 Prompt
+
+```
+Quay bằng phim Super 8, một ngày trên bãi biển. Một người phụ nữ đang nằm trên bãi biển, mỉm cười và vẫy tay về phía máy quay.
+
+V/A: valence 0.80, arousal 0.50
+
+FACS: AU6 + AU12 + AU25 với cường độ trung bình
+
+Giải phẫu: khóe miệng
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073281509696389120/img/uTGkKkjYbpsIWFYs.jpg" width="600" alt="Người phụ nữ vẫy tay trên bãi biển với phong cách phim Super 8">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6857)**
+
+**Author:** [M I K E • R I C K S](https://x.com/michaelricks) | **Source:** [Link](https://x.com/michaelricks/status/2073425366677324118) | **Published:** Jul 4, 2026
+
+---
+### Cảnh lễ đăng quang của nữ hoàng đầy uy nghiêm
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý video điện ảnh về cảnh lễ đăng quang hoàng gia với sự xuất hiện của một nữ hoàng trẻ, chiếc vương miện đang hạ xuống và một đại sảnh dát vàng tráng lệ.
+
+#### 📝 Prompt
+
+```
+Một chiếc vương miện từ từ hạ xuống đầu vị nữ hoàng trẻ trong khi cả triều đình nín thở chờ đợi. Máy quay cần cẩu di chuyển từ đôi mắt của cô lên góc quay toàn cảnh đại sảnh dát vàng. Nhạc hợp xướng trang nghiêm vang lên ở phía sau, tạo nên bầu không khí đầy uy nghiêm. 6 giây.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2073295683986112512/pu/img/E4Iac8E7gQZpIaeY.jpg" width="600" alt="Cảnh lễ đăng quang của nữ hoàng đầy uy nghiêm">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6858)**
+
+**Author:** [MYS AI](https://x.com/mys1111) | **Source:** [Link](https://x.com/mys1111/status/2073295711202922501) | **Published:** Jul 4, 2026
+
+---
+### Chuông cửa hình người ngoài hành tinh gà
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh sáng tạo và chân thực về một sinh vật lai giữa gà và người ngoài hành tinh đang đi đến một ngôi nhà và nhấn chuông cửa.
+
+#### 📝 Prompt
+
+```
+Gà, người ngoài hành tinh, đang đi bộ đến ngôi nhà. Sau đó nó nhấn chuông cửa đinh đong
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073247871189516288/img/-it_HCAUiB0_et6F.jpg" width="600" alt="Chuông cửa hình người ngoài hành tinh gà">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6855)**
+
+**Author:** [Aether Ink Studios](https://x.com/anameistudios) | **Source:** [Link](https://x.com/anameistudios/status/2073247922221682782) | **Published:** Jul 4, 2026
+
+---
+### Kỹ thuật chơi kèn harmonica của cao bồi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Hướng dẫn chi tiết để tạo video về một cao bồi đang chơi kèn harmonica, tập trung vào hơi thở chân thực, chuyển động tay và kỹ thuật chơi.
+
+#### 📝 Prompt
+
+```
+Khi cao bồi bắt đầu chơi, anh ấy sẽ lấy hơi từ bụng chứ không chỉ từ miệng. Anh ấy sẽ giữ đôi môi thả lỏng và dùng lưỡi chặn các lỗ kèn để đảm bảo chỉ thổi ra một nốt nhạc rõ ràng tại mỗi thời điểm.
+Khi muốn tạo ra âm thanh trầm buồn, da diết, anh ấy sẽ khum bàn tay quanh chiếc kèn harmonica rồi đóng mở tay liên tục trong khi chơi — đó chính là kỹ thuật hand wah.
+Anh ấy sẽ chuyển đổi nhịp nhàng giữa việc thổi và hít hơi, điều chỉnh từng nốt nhạc bằng lưỡi và cổ họng để tiếng kèn harmonica thực sự ngân vang như tiếng hát.
+Đó là cách mà hình ảnh sẽ hiển thị khi cao bồi bắt đầu chơi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073238762746781696/img/j85hRx9lC5KU2p-f.jpg" width="600" alt="Kỹ thuật chơi kèn harmonica của cao bồi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6854)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2073238878723412103) | **Published:** Jul 4, 2026
+
+---
+### Quý cô và người ngoài hành tinh trong hồ bắp rang
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt siêu thực và thú vị với hình ảnh một quý cô mặc bộ đồ catsuit và một chàng cao bồi ngoài hành tinh đang chơi đùa trong hồ bơi chứa đầy bắp rang.
+
+#### 📝 Prompt
+
+```
+Một quý cô xinh đẹp với mái tóc dài vàng sáng, đeo vòng cổ kim cương và hoa tai kim cương, mặc bộ đồ catsuit cùng một nam người ngoài hành tinh to lớn màu xanh dương đội mũ cao bồi và mặc trang phục cao bồi đang chơi đùa trong một hồ bơi khổng lồ chứa đầy bắp rang
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073203927307177986/img/gd5F1J0f27MQzpZH.jpg" width="600" alt="Quý cô và người ngoài hành tinh trong hồ bắp rang">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6856)**
+
+**Author:** [Sheelagh Mac Mathghamhna](https://x.com/abitoblarney) | **Source:** [Link](https://x.com/abitoblarney/status/2073204014909378959) | **Published:** Jul 4, 2026
+
+---
 ### Cú ngã hài hước kiểu Family Guy
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2069,111 +2173,6 @@ Loài cá phát quang dưới đáy vực thẳm với lớp da trong suốt ma 
 **Author:** [Vitalii Isaev](https://x.com/restofart) | **Source:** [Link](https://x.com/restofart/status/2069493142080856175) | **Published:** Jun 23, 2026
 
 ---
-### Lời nhắc chỉnh sửa video và hoạt ảnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một lời nhắc chuyển đổi hình ảnh thành video cung cấp các bước tuần tự chi tiết để nhắm mắt, cử động môi, chớp mắt và tạo hiệu ứng các mảnh ghép bị nứt.
-
-#### 📝 Prompt
-
-```
-Chuyển nội dung này thành video và làm cho mắt cô ấy từ từ nhắm lại với cùng tông màu trên mí mắt. Di chuyển môi cô ấy mà không mỉm cười, sau đó chớp mắt trái và làm ba mảnh ghép nhỏ bị nứt. xóa. chỉnh sửa và thay đổi đôi môi không mỉm cười của cô ấy...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069489335075053568/img/35ftvD5GXpwkcCuT.jpg" width="600" alt="Lời nhắc chỉnh sửa video và hoạt ảnh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6388)**
-
-**Author:** [caroline freebern](https://x.com/myHeartis1true) | **Source:** [Link](https://x.com/myHeartis1true/status/2069489395145593017) | **Published:** Jun 23, 2026
-
----
-### Phân cảnh hành động đánh nhau tại nhà kho công nghiệp
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video cho cảnh đánh nhau tại nhà kho kiểu Nam Ấn Độ, sử dụng một cú máy cầm tay liên tục.
-
-#### 📝 Prompt
-
-```
-Chỉ lấy chủ thể từ hình ảnh tham chiếu @Image1 . Bỏ qua mọi thứ khác … hành động nhanh, cảnh đánh nhau tại nhà kho công nghiệp Nam Ấn Độ về đêm siêu thực. Cú máy đơn liên tục với các điểm nối ẩn, không lộ vết cắt. Phim quay thô bằng điện thoại cầm tay .
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069445527146786817/img/lN4as31Fb581VU9J.jpg" width="600" alt="Phân cảnh hành động đánh nhau tại nhà kho công nghiệp">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6402)**
-
-**Author:** [YoYo Studios](https://x.com/TeamTwood) | **Source:** [Link](https://x.com/TeamTwood/status/2069445589159563630) | **Published:** Jun 23, 2026
-
----
-### Video tư liệu cầm tay về công trường xây dựng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video điện ảnh được thiết kế với phong cách phim tài liệu cầm tay chân thực, mô tả công trường xây dựng ở độ phân giải 4K vào lúc hoàng hôn với những hạt bụi bay trong không trung.
-
-#### 📝 Prompt
-
-```
-Bối cảnh: Video đương đại siêu thực năm 2024, độ phân giải 4K sắc nét, mang phong cách phim tài liệu cầm tay thô mộc. Ánh sáng hoàng hôn có độ tương phản cao tại một công trường xây dựng bê tông dang dở đầy bụi bặm. Ánh sáng cam đậm, đổ bóng dài và sắc nét, cùng những hạt bụi bay lơ lửng.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069445390055931904/img/r4Q4-1AsOnjYiJb4.jpg" width="600" alt="Video tư liệu cầm tay về công trường xây dựng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6394)**
-
-**Author:** [YoYo Studios](https://x.com/TeamTwood) | **Source:** [Link](https://x.com/TeamTwood/status/2069445457286406297) | **Published:** Jun 23, 2026
-
----
-### Hành trình ảo giác thang máy không gian
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video ảo giác mô tả thang máy không gian đang vận chuyển người và hàng hóa xuyên qua vũ trụ đầy sao.
-
-#### 📝 Prompt
-
-```
-Thang máy không gian đưa người và hàng hóa lên cao, trải nghiệm ảo giác với vô vàn vì sao
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069426227119546368/img/MpSjI5Viq9KfuEqL.jpg" width="600" alt="Hành trình ảo giác thang máy không gian">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6397)**
-
-**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2069426293360194028) | **Published:** Jun 23, 2026
-
----
-### Cảnh ngũ cốc bay trong quán ăn phong cách Retro
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh điện ảnh chi tiết về một cô bé trong căn bếp cổ điển với sữa bắn tung tóe chuyển động chậm và ngũ cốc bay lơ lửng.
-
-#### 📝 Prompt
-
-```
-Một cú máy góc rộng đậm chất điện ảnh bên trong căn bếp ấm cúng theo phong cách quán ăn retro. Một cô bé đang nghiêng người trên bát ngũ cốc đầy màu sắc khi sữa bắn tung lên trên trong hiệu ứng chuyển động chậm đầy kịch tính. Những vòng ngũ cốc rực rỡ bay lơ lửng trong không trung xung quanh khuôn mặt cô bé. Cô bé nhìn thẳng vào ống kính với đôi mắt mở to cùng biểu cảm ngạc nhiên và thích thú. Ánh nắng buổi sáng ấm áp chiếu qua rèm cửa. Khung cảnh mang lại cảm giác vui tươi, kỳ diệu và tràn đầy năng lượng, với hiệu ứng méo hình của ống kính mắt cá, ánh sáng chân thực, độ chi tiết cao, chuyển động linh hoạt và không khí điện ảnh thú vị. Thời lượng: 10 giây.
-
-Lời thoại: Wow… bữa sáng của mình đang thực sự bay sao?
-
-Thiết kế âm thanh: 
-
-Tiếng sữa bắn bất ngờ.
-Tiếng ngũ cốc rơi rải rác nhẹ nhàng.
-Hiệu ứng lấp lánh kỳ diệu nhẹ nhàng.
-Tiếng hít thở ngạc nhiên của cô bé.
-Nhạc nền vui nhộn, tinh nghịch.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069395437908643841/img/g-URoeS90azUiBUG.jpg" width="600" alt="Cảnh ngũ cốc bay trong quán ăn phong cách Retro">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6398)**
-
-**Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2069395522088030511) | **Published:** Jun 23, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2235,6 +2234,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-05T04:18:57.386Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-05T10:44:54.433Z</sub>
 
 </div>

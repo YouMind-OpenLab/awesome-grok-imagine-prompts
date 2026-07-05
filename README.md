@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2042** |
+| 📝 Total Prompts | **2047** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-05** |
 
@@ -189,11 +189,115 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Super 8 Film Beach Woman Wave
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A nostalgic video generation prompt using Super 8 film aesthetics of a woman waving on a beach, featuring specific facial expression and valence parameters for Grok Imagine 1.5.
+
+#### 📝 Prompt
+
+```
+Shot on Super 8 film stock, a day at the beach. A woman is lying on the beach, smiling and waving at the camera.
+
+V/A: valence 0.80, arousal 0.50
+
+FACS: AU6 + AU12 + AU25 at moderate intensity
+
+Anatomical: corners
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073281509696389120/img/uTGkKkjYbpsIWFYs.jpg" width="600" alt="Super 8 Film Beach Woman Wave">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6857)**
+
+**Author:** [M I K E • R I C K S](https://x.com/michaelricks) | **Source:** [Link](https://x.com/michaelricks/status/2073425366677324118) | **Published:** Jul 4, 2026
+
+---
+### Majestic Queen Coronation Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt for a royal coronation scene featuring a young queen, a descending crown, and a majestic golden hall.
+
+#### 📝 Prompt
+
+```
+A crown slowly descends onto the head of a young queen while the court holds its breath. A crane camera moves up from her eyes to a wide shot of the golden hall. Solemn choir in the background, majestic mood. 6 seconds.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2073295683986112512/pu/img/E4Iac8E7gQZpIaeY.jpg" width="600" alt="Majestic Queen Coronation Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6858)**
+
+**Author:** [MYS AI](https://x.com/mys1111) | **Source:** [Link](https://x.com/mys1111/status/2073295711202922501) | **Published:** Jul 4, 2026
+
+---
+### Chicken Alien Doorbell Ring
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative and raw prompt about a chicken-alien hybrid walking up to a house and ringing the doorbell.
+
+#### 📝 Prompt
+
+```
+Chicken, alien, walking at the house. And then it rings the doorbell ding dong it
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073247871189516288/img/-it_HCAUiB0_et6F.jpg" width="600" alt="Chicken Alien Doorbell Ring">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6855)**
+
+**Author:** [Aether Ink Studios](https://x.com/anameistudios) | **Source:** [Link](https://x.com/anameistudios/status/2073247922221682782) | **Published:** Jul 4, 2026
+
+---
+### Cowboy Playing Harmonica Technique
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed instruction for generating a video of a cowboy playing a harmonica, focusing on realistic breathing, hand movements, and technique.
+
+#### 📝 Prompt
+
+```
+Once the cowboy begins to play, he’ll breathe from his stomach, not just his mouth. He’ll keep his lips relaxed and use his tongue to block the holes so he only plays one clean note at a time.
+When he wants that deep, emotional, crying sound, he’ll cup his hands around the harmonica and open and close them while playing — that’s the hand wah.
+He’ll be switching smoothly between blowing and drawing air, shaping each note with his tongue and throat so the harmonica actually sings.
+That’s how it will look once the cowboy begins to play.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073238762746781696/img/j85hRx9lC5KU2p-f.jpg" width="600" alt="Cowboy Playing Harmonica Technique">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6854)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2073238878723412103) | **Published:** Jul 4, 2026
+
+---
+### Lady and Alien in Popcorn Pool
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal and fun video prompt featuring a lady in a catsuit and an alien cowboy playing in a swimming pool filled with popcorn.
+
+#### 📝 Prompt
+
+```
+Beautiful lady with long light blonde hair with a diamond necklace and diamond earrings wearing a catsuit and a big blue male alien in a cowboy hat and cowboy outfit are playing in a gigantic swimming pool filled with popcorn
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073203927307177986/img/gd5F1J0f27MQzpZH.jpg" width="600" alt="Lady and Alien in Popcorn Pool">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6856)**
+
+**Author:** [Sheelagh Mac Mathghamhna](https://x.com/abitoblarney) | **Source:** [Link](https://x.com/abitoblarney/status/2073204014909378959) | **Published:** Jul 4, 2026
+
+---
 ### Comical Family Guy Style Fall
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A video generation prompt for a character falling down stairs in a comical way, inspired by the style of Family Guy.
+> A prompt for Grok Imagine that animates a static photo into a comical, slapstick-style video of someone falling down stairs, reminiscent of Family Guy.
 
 #### 📝 Prompt
 
@@ -208,19 +312,21 @@ Make me fall down the stairs in a really comical way. Similar to something maybe
 **Author:** [Jeremy Judkins](https://x.com/jeremyjudkins_) | **Source:** [Link](https://x.com/jeremyjudkins_/status/2073147550543065228) | **Published:** Jul 3, 2026
 
 ---
-### Soft Spoken Fashion Model Video Portrait
+### Fashion Model Studio Close-up Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video generation prompt for a close-up of a fashion model speaking softly and calmly directly to the camera in a studio setting.
+> A high-end studio portrait video prompt featuring a fashion model under soft beauty dish lighting, speaking directly and calmly to the camera for a realistic look.
 
 #### 📝 Prompt
 
 ```
+Soft beauty dish lighting, fashion model close-up, flawless skin texture, sophisticated studio portrait, high-end magazine style
+
 She talks very softly and calm to the camera: "Do you want to know what feels real to me? This feels real.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073086602998669312/img/uzh8FsXEwcaY0AXs.jpg" width="600" alt="Soft Spoken Fashion Model Video Portrait">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073086602998669312/img/uzh8FsXEwcaY0AXs.jpg" width="600" alt="Fashion Model Studio Close-up Video">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6815)**
 
@@ -517,11 +623,11 @@ Audio: Natural ambient sound only — morning birds, distant motorcycles, light
 **Author:** [Varun Mehta](https://x.com/varun_j_mehta) | **Source:** [Link](https://x.com/varun_j_mehta/status/2072637540092588361) | **Published:** Jul 2, 2026
 
 ---
-### A Quiet Bloom of White Lace
+### White Lace Blooming Flowers
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt featuring delicate lace and soft blooming dream-like visuals, creating a peaceful and ethereal atmosphere.
+> A delicate video prompt focusing on soft whispers of lace and blooming white floral patterns.
 
 #### 📝 Prompt
 
@@ -529,7 +635,7 @@ Audio: Natural ambient sound only — morning birds, distant motorcycles, light
 A Quiet Bloom of White Lace. Whispers of delicate lace and soft blooming dreams.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072630157358268417/img/RAQoETfhBUEbJNII.jpg" width="600" alt="A Quiet Bloom of White Lace">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072630157358268417/img/RAQoETfhBUEbJNII.jpg" width="600" alt="White Lace Blooming Flowers">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6817)**
 
@@ -893,7 +999,7 @@ An aurora borealis swirls like the famous painting Starry Night 🌌
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An ethereal video prompt focusing on glowing mushrooms and iridescent visual wonders.
+> A highly descriptive prompt for iridescent, glowing, and magical dreamlike mushroom visuals.
 
 #### 📝 Prompt
 
@@ -2070,101 +2176,6 @@ Bioluminescent abyssal fish with ghostly translucent skin, large glowing blue ey
 **Author:** [Vitalii Isaev](https://x.com/restofart) | **Source:** [Link](https://x.com/restofart/status/2069493142080856175) | **Published:** Jun 23, 2026
 
 ---
-### Video Editing and Animation Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An image-to-video modification prompt that gives detailed sequential steps to close eyes, move lips, blink, and render cracking puzzles pieces.
-
-#### 📝 Prompt
-
-```
-Turn this into a video and move her eyes gradually closing with the same colors on the lids. Move her lips without smiling, then blinking her left eye and three small puzzle pieces cracking. remove. edit in and change her lips that are not smiling ju...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069489335075053568/img/35ftvD5GXpwkcCuT.jpg" width="600" alt="Video Editing and Animation Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6388)**
-
-**Author:** [caroline freebern](https://x.com/myHeartis1true) | **Source:** [Link](https://x.com/myHeartis1true/status/2069489395145593017) | **Published:** Jun 23, 2026
-
----
-### Industrial Warehouse Fight Action Sequence
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video prompt for a South Indian warehouse fight scene using a single continuous handheld camera shot.
-
-#### 📝 Prompt
-
-```
-Take Only Subject From The Reference Image @Image1 . Neglect everything … quick action ,Ultra-realistic South Indian industrial warehouse fight at night. Single continuous shot with hidden stitch cuts, no visible edits. Raw handheld mobile footage .
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069445527146786817/img/lN4as31Fb581VU9J.jpg" width="600" alt="Industrial Warehouse Fight Action Sequence">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6402)**
-
-**Author:** [YoYo Studios](https://x.com/TeamTwood) | **Source:** [Link](https://x.com/TeamTwood/status/2069445589159563630) | **Published:** Jun 23, 2026
-
----
-### Handheld Documentary Construction Site Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt designed for a gritty, handheld documentary aesthetic featuring a 4K resolution construction site at sunset with swirling dust motes.
-
-#### 📝 Prompt
-
-```
-Ambience: Ultra-realistic 2024 contemporary video, sharp 4K resolution, raw handheld documentary feel. High-contrast sunset lighting in a dusty, unfinished concrete construction site. Deep orange light, long harsh shadows, and swirling dust motes.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069445390055931904/img/r4Q4-1AsOnjYiJb4.jpg" width="600" alt="Handheld Documentary Construction Site Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6394)**
-
-**Author:** [YoYo Studios](https://x.com/TeamTwood) | **Source:** [Link](https://x.com/TeamTwood/status/2069445457286406297) | **Published:** Jun 23, 2026
-
----
-### Space Elevator Psychedelic Journey
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A psychedelic video prompt depicting a space elevator carrying people and cargo through a star-filled universe.
-
-#### 📝 Prompt
-
-```
-Space elevator bringing people and cargo up psychedelic experience lots of stars
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069426227119546368/img/MpSjI5Viq9KfuEqL.jpg" width="600" alt="Space Elevator Psychedelic Journey">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6397)**
-
-**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2069426293360194028) | **Published:** Jun 23, 2026
-
----
-### Cinematic Slow Motion Cereal Breakfast
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A magical video prompt generating a retro diner kitchen scene where a girl watches cereal and milk float in slow motion with fisheye distortion.
-
-#### 📝 Prompt
-
-```
-A cinematic wide angle shot inside a cozy retro diner style kitchen. A young girl leans over a bowl of colorful cereal as milk bursts upward in dramatic slow motion. Bright cereal loops float through the air around her face. She looks directly at the camera with wide eyes and an open-mouth expression of surprise and delight. Warm morning sunlight streams through the blinds. The scene has a playful, magical, energetic feel, with fisheye lens distortion, realistic lighting, high detail, dynamic motion, and a fun cinematic vibe. Duration: 10 seconds.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069395437908643841/img/g-URoeS90azUiBUG.jpg" width="600" alt="Cinematic Slow Motion Cereal Breakfast">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6398)**
-
-**Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2069395522088030511) | **Published:** Jun 23, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2226,6 +2237,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-05T04:18:51.845Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-05T10:44:48.246Z</sub>
 
 </div>

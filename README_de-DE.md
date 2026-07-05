@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2042** |
+| 📝 Total Prompts | **2047** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-05** |
 
@@ -189,6 +189,110 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Super-8-Film Frau am Strand winkt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein nostalgischer Video-Generierungs-Prompt im Super-8-Film-Stil einer winkenden Frau am Strand, inklusive spezifischer Parameter für Gesichtsausdruck und Valenz für Grok Imagine 1.5.
+
+#### 📝 Prompt
+
+```
+Aufgenommen auf Super-8-Filmmaterial, ein Tag am Strand. Eine Frau liegt am Strand, lächelt und winkt in die Kamera.
+
+V/A: Valenz 0,80, Arousal 0,50
+
+FACS: AU6 + AU12 + AU25 bei moderater Intensität
+
+Anatomisch: Mundwinkel
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073281509696389120/img/uTGkKkjYbpsIWFYs.jpg" width="600" alt="Super-8-Film Frau am Strand winkt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6857)**
+
+**Author:** [M I K E • R I C K S](https://x.com/michaelricks) | **Source:** [Link](https://x.com/michaelricks/status/2073425366677324118) | **Published:** Jul 4, 2026
+
+---
+### Majestätische Krönungsszene einer Königin
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein cineastischer Video-Prompt für eine königliche Krönungsszene mit einer jungen Königin, einer herabschwebenden Krone und einem prunkvollen goldenen Saal.
+
+#### 📝 Prompt
+
+```
+Eine Krone senkt sich langsam auf das Haupt einer jungen Königin, während der Hof den Atem anhält. Eine Kran-Kamera bewegt sich von ihren Augen nach oben zu einer Totalen des goldenen Saals. Feierlicher Chor im Hintergrund, majestätische Stimmung. 6 Sekunden.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2073295683986112512/pu/img/E4Iac8E7gQZpIaeY.jpg" width="600" alt="Majestätische Krönungsszene einer Königin">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6858)**
+
+**Author:** [MYS AI](https://x.com/mys1111) | **Source:** [Link](https://x.com/mys1111/status/2073295711202922501) | **Published:** Jul 4, 2026
+
+---
+### Hühner-Alien-Türklingel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein kreativer und unverfälschter Prompt über eine Hühner-Alien-Hybridkreatur, die auf ein Haus zugeht und an der Tür klingelt.
+
+#### 📝 Prompt
+
+```
+Huhn, Alien, geht auf das Haus zu. Und dann klingelt es an der Tür, ding dong, es
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073247871189516288/img/-it_HCAUiB0_et6F.jpg" width="600" alt="Hühner-Alien-Türklingel">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6855)**
+
+**Author:** [Aether Ink Studios](https://x.com/anameistudios) | **Source:** [Link](https://x.com/anameistudios/status/2073247922221682782) | **Published:** Jul 4, 2026
+
+---
+### Technik eines Mundharmonika spielenden Cowboys
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Eine detaillierte Anleitung zur Erstellung eines Videos eines Mundharmonika spielenden Cowboys, mit Fokus auf realistische Atmung, Handbewegungen und Technik.
+
+#### 📝 Prompt
+
+```
+Sobald der Cowboy zu spielen beginnt, atmet er aus dem Bauch, nicht nur aus dem Mund. Er hält seine Lippen entspannt und nutzt seine Zunge, um die Löcher abzudecken, sodass er immer nur einen sauberen Ton spielt.
+Wenn er diesen tiefen, emotionalen, klagenden Klang erzeugen möchte, umschließt er die Mundharmonika mit seinen Händen und öffnet und schließt sie während des Spielens – das ist der sogenannte Hand-Wah-Effekt.
+Er wechselt fließend zwischen Blasen und Ziehen und formt jeden Ton mit Zunge und Rachen, damit die Mundharmonika regelrecht singt.
+So wird es aussehen, sobald der Cowboy anfängt zu spielen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073238762746781696/img/j85hRx9lC5KU2p-f.jpg" width="600" alt="Technik eines Mundharmonika spielenden Cowboys">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6854)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2073238878723412103) | **Published:** Jul 4, 2026
+
+---
+### Dame und Alien im Popcorn-Pool
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein surrealer und unterhaltsamer Video-Prompt mit einer Dame im Catsuit und einem Alien-Cowboy, die in einem mit Popcorn gefüllten Swimmingpool spielen.
+
+#### 📝 Prompt
+
+```
+Eine wunderschöne Dame mit langem, hellblondem Haar, einer Diamantkette und Diamantohrringen in einem Catsuit sowie ein großer, blauer männlicher Alien mit Cowboyhut und Cowboy-Outfit spielen in einem riesigen, mit Popcorn gefüllten Swimmingpool
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073203927307177986/img/gd5F1J0f27MQzpZH.jpg" width="600" alt="Dame und Alien im Popcorn-Pool">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6856)**
+
+**Author:** [Sheelagh Mac Mathghamhna](https://x.com/abitoblarney) | **Source:** [Link](https://x.com/abitoblarney/status/2073204014909378959) | **Published:** Jul 4, 2026
+
+---
 ### Komischer Treppensturz im Family Guy-Stil
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2069,111 +2173,6 @@ Biolumineszenter Tiefseefisch mit geisterhafter, durchscheinender Haut, großen 
 **Author:** [Vitalii Isaev](https://x.com/restofart) | **Source:** [Link](https://x.com/restofart/status/2069493142080856175) | **Published:** Jun 23, 2026
 
 ---
-### Prompt für Videobearbeitung und Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Image-to-Video-Modifikations-Prompt, der detaillierte aufeinanderfolgende Schritte vorgibt, um Augen zu schließen, Lippen zu bewegen, zu blinzeln und zerbrechende Puzzleteile zu rendern.
-
-#### 📝 Prompt
-
-```
-Verwandle dies in ein Video und bewege ihre Augen so, dass sie sich allmählich schließen, wobei die Farben auf den Lidern beibehalten werden. Bewege ihre Lippen, ohne zu lächeln, lass sie dann mit dem linken Auge blinzeln und drei kleine Puzzleteile zerbrechen. entfernen. bearbeite und ändere ihre Lippen so, dass sie nicht lächeln...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069489335075053568/img/35ftvD5GXpwkcCuT.jpg" width="600" alt="Prompt für Videobearbeitung und Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6388)**
-
-**Author:** [caroline freebern](https://x.com/myHeartis1true) | **Source:** [Link](https://x.com/myHeartis1true/status/2069489395145593017) | **Published:** Jun 23, 2026
-
----
-### Actiongeladene Kampfszene in einem Industrielager
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Videoprompt für eine südindische Lagerhaus-Kampfszene in einer einzigen, durchgehenden Handkamera-Einstellung.
-
-#### 📝 Prompt
-
-```
-Übernehme nur das Subjekt aus dem Referenzbild @Image1. Ignoriere alles andere … schnelle Action, ultrarealistischer südindischer Industrielager-Kampf bei Nacht. Einzelne durchgehende Aufnahme mit versteckten Schnitten, keine sichtbaren Bearbeitungen. Rohes, handgeführtes Handy-Filmmaterial.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069445527146786817/img/lN4as31Fb581VU9J.jpg" width="600" alt="Actiongeladene Kampfszene in einem Industrielager">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6402)**
-
-**Author:** [YoYo Studios](https://x.com/TeamTwood) | **Source:** [Link](https://x.com/TeamTwood/status/2069445589159563630) | **Published:** Jun 23, 2026
-
----
-### Handgeführte Dokumentarfilm-Aufnahme einer Baustelle
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein cineastischer Video-Prompt für eine raue, handgeführte Dokumentarfilm-Ästhetik, der eine Baustelle in 4K-Auflösung bei Sonnenuntergang mit wirbelnden Staubpartikeln zeigt.
-
-#### 📝 Prompt
-
-```
-Ambiente: Ultrarealistisches zeitgenössisches Video von 2024, scharfe 4K-Auflösung, authentischer Look einer handgeführten Dokumentation. Kontrastreiche Beleuchtung durch den Sonnenuntergang auf einer staubigen Rohbaustelle aus Beton. Tiefes orangefarbenes Licht, lange harte Schatten und wirbelnde Staubpartikel.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069445390055931904/img/r4Q4-1AsOnjYiJb4.jpg" width="600" alt="Handgeführte Dokumentarfilm-Aufnahme einer Baustelle">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6394)**
-
-**Author:** [YoYo Studios](https://x.com/TeamTwood) | **Source:** [Link](https://x.com/TeamTwood/status/2069445457286406297) | **Published:** Jun 23, 2026
-
----
-### Psychedelische Reise mit dem Weltraumlift
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein psychedelischer Video-Prompt, der einen Weltraumlift zeigt, der Menschen und Fracht durch ein sternenreiches Universum befördert.
-
-#### 📝 Prompt
-
-```
-Weltraumlift befördert Menschen und Fracht nach oben, psychedelische Erfahrung, viele Sterne
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069426227119546368/img/MpSjI5Viq9KfuEqL.jpg" width="600" alt="Psychedelische Reise mit dem Weltraumlift">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6397)**
-
-**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2069426293360194028) | **Published:** Jun 23, 2026
-
----
-### Retro-Diner-Szene mit fliegenden Cerealien
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochdetaillierter, filmischer Prompt, der ein junges Mädchen in einer Retro-Küche zeigt, mit Milchspritzern in Zeitlupe und schwebenden Cerealien.
-
-#### 📝 Prompt
-
-```
-Eine filmische Weitwinkelaufnahme in einer gemütlichen Küche im Retro-Diner-Stil. Ein junges Mädchen beugt sich über eine Schüssel mit bunten Cerealien, während Milch in dramatischer Zeitlupe nach oben spritzt. Bunte Cerealien-Ringe schweben in der Luft um ihr Gesicht. Sie schaut mit großen Augen und vor Überraschung und Freude offenem Mund direkt in die Kamera. Warmes Morgenlicht fällt durch die Jalousien. Die Szene wirkt verspielt, magisch und energiegeladen, mit Fischaugenobjektiv-Verzerrung, realistischer Beleuchtung, hohem Detailgrad, dynamischer Bewegung und einer unterhaltsamen, filmischen Atmosphäre. Dauer: 10 Sekunden.
-
-Dialog: Wow… fliegt mein Frühstück etwa?
-
-Sounddesign:
-
-Plötzliches Milchspritzen.
-Leise Geräusche von verstreuten Cerealien.
-Sanfter, magischer Glitzereffekt.
-Überraschtes Keuchen des Mädchens.
-Unterhaltsame, verspielte Hintergrundmusik.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069395437908643841/img/g-URoeS90azUiBUG.jpg" width="600" alt="Retro-Diner-Szene mit fliegenden Cerealien">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6398)**
-
-**Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2069395522088030511) | **Published:** Jun 23, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2235,6 +2234,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-05T04:19:01.395Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-05T10:44:58.333Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **2042** |
+| 📝 총 프롬프트 수 | **2047** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-07-05** |
 
@@ -189,6 +189,110 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 슈퍼 8 필름 해변 여성 손 흔드는 장면
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 1.5를 위한 특정 표정 및 감정가 매개변수를 포함하여, 해변에서 손을 흔드는 여성의 모습을 슈퍼 8 필름 감성으로 담아낸 향수를 불러일으키는 영상 생성 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+슈퍼 8 필름으로 촬영한 해변에서의 하루. 한 여성이 해변에 누워 카메라를 향해 미소 지으며 손을 흔들고 있다.
+
+V/A: 감정가(valence) 0.80, 각성도(arousal) 0.50
+
+FACS: AU6 + AU12 + AU25 (중간 강도)
+
+해부학적 특징: 입꼬리
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073281509696389120/img/uTGkKkjYbpsIWFYs.jpg" width="600" alt="슈퍼 8 필름 해변 여성 손 흔드는 장면">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6857)**
+
+**작성자:** [M I K E • R I C K S](https://x.com/michaelricks) | **출처:** [Link](https://x.com/michaelricks/status/2073425366677324118) | **게시일:** Jul 4, 2026
+
+---
+### 웅장한 여왕의 대관식 장면
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 젊은 여왕, 내려오는 왕관, 그리고 웅장한 황금빛 홀을 특징으로 하는 왕실 대관식 장면을 위한 영화 같은 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+궁정 사람들이 숨을 죽인 가운데 왕관이 젊은 여왕의 머리 위로 천천히 내려옵니다. 크레인 카메라가 여왕의 눈에서부터 황금빛 홀의 전체 전경을 담는 와이드 샷으로 이동합니다. 배경에는 엄숙한 합창곡이 흐르며 웅장한 분위기를 자아냅니다. 6초 분량.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2073295683986112512/pu/img/E4Iac8E7gQZpIaeY.jpg" width="600" alt="웅장한 여왕의 대관식 장면">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6858)**
+
+**작성자:** [MYS AI](https://x.com/mys1111) | **출처:** [Link](https://x.com/mys1111/status/2073295711202922501) | **게시일:** Jul 4, 2026
+
+---
+### 닭 외계인 초인종 누르기
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 닭과 외계인이 결합된 생명체가 집으로 걸어와 초인종을 누르는 상황에 대한 창의적이고 생생한 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+닭과 외계인이 섞인 존재가 집으로 걸어옵니다. 그러고는 초인종을 딩동 하고 누릅니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073247871189516288/img/-it_HCAUiB0_et6F.jpg" width="600" alt="닭 외계인 초인종 누르기">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6855)**
+
+**작성자:** [Aether Ink Studios](https://x.com/anameistudios) | **출처:** [Link](https://x.com/anameistudios/status/2073247922221682782) | **게시일:** Jul 4, 2026
+
+---
+### 카우보이 하모니카 연주 기법
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 카우보이가 하모니카를 연주하는 영상을 생성하기 위한 상세 가이드로, 사실적인 호흡, 손동작 및 연주 기법에 중점을 둡니다.
+
+#### 📝 프롬프트
+
+```
+카우보이가 연주를 시작하면 입뿐만 아니라 복식 호흡을 사용합니다. 입술에 힘을 빼고 혀로 구멍을 막아 한 번에 하나의 음만 정확하게 연주하도록 합니다.
+깊고 애절한 울림을 표현하고 싶을 때는 하모니카를 손으로 감싸 쥐고 연주 중에 손을 여닫는 '핸드 와(hand wah)' 기법을 사용합니다.
+숨을 불어넣고 들이마시는 동작을 매끄럽게 전환하며, 혀와 목구멍으로 각 음을 조절해 하모니카가 마치 노래하는 것처럼 들리게 합니다.
+카우보이가 연주를 시작하면 이러한 모습이 연출될 것입니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073238762746781696/img/j85hRx9lC5KU2p-f.jpg" width="600" alt="카우보이 하모니카 연주 기법">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6854)**
+
+**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2073238878723412103) | **게시일:** Jul 4, 2026
+
+---
+### 팝콘 수영장에서 노는 숙녀와 외계인
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 캣슈트를 입은 숙녀와 카우보이 모자를 쓴 외계인이 팝콘으로 가득 찬 수영장에서 노는 초현실적이고 재미있는 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+다이아몬드 목걸이와 귀걸이를 착용하고 캣슈트를 입은 긴 금발 머리의 아름다운 숙녀와, 카우보이 모자와 복장을 한 거대한 파란색 남성 외계인이 팝콘으로 가득 찬 거대한 수영장에서 놀고 있는 모습
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073203927307177986/img/gd5F1J0f27MQzpZH.jpg" width="600" alt="팝콘 수영장에서 노는 숙녀와 외계인">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6856)**
+
+**작성자:** [Sheelagh Mac Mathghamhna](https://x.com/abitoblarney) | **출처:** [Link](https://x.com/abitoblarney/status/2073204014909378959) | **게시일:** Jul 4, 2026
+
+---
 ### Family Guy 스타일의 코믹한 낙상
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2069,111 +2173,6 @@ Elena 가 반짝이는 포털을 지나 광활한 Playroom 으로 들어서며 �
 **작성자:** [Vitalii Isaev](https://x.com/restofart) | **출처:** [Link](https://x.com/restofart/status/2069493142080856175) | **게시일:** Jun 23, 2026
 
 ---
-### 영상 편집 및 애니메이션 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 눈을 감고, 입술을 움직이고, 눈을 깜빡이며, 퍼즐 조각이 갈라지는 효과를 렌더링하는 상세한 단계별 지침을 제공하는 이미지-투-비디오(Image-to-video) 수정 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-이 이미지를 영상으로 변환하고, 눈꺼풀의 색상을 유지하면서 눈이 서서히 감기도록 움직여 주세요. 미소 짓지 않는 상태에서 입술을 움직이고, 왼쪽 눈을 깜빡인 뒤 작은 퍼즐 조각 3개가 갈라지게 하세요. 제거. 편집을 통해 미소 짓지 않는 입술로 변경...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069489335075053568/img/35ftvD5GXpwkcCuT.jpg" width="600" alt="영상 편집 및 애니메이션 프롬프트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6388)**
-
-**작성자:** [caroline freebern](https://x.com/myHeartis1true) | **출처:** [Link](https://x.com/myHeartis1true/status/2069489395145593017) | **게시일:** Jun 23, 2026
-
----
-### 산업용 창고 격투 액션 시퀀스
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 단일 연속 핸드헬드 카메라 샷을 사용한 남인도풍 창고 격투 장면을 위한 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-@Image1 참조 이미지에서 피사체만 가져올 것. 나머지는 무시할 것 … 빠른 액션, 밤 시간대의 초현실적인 남인도풍 산업용 창고 격투. 숨겨진 스티치 컷을 사용한 단일 연속 샷, 눈에 띄는 편집 없음. 가공되지 않은 핸드헬드 모바일 영상.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069445527146786817/img/lN4as31Fb581VU9J.jpg" width="600" alt="산업용 창고 격투 액션 시퀀스">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6402)**
-
-**작성자:** [YoYo Studios](https://x.com/TeamTwood) | **출처:** [Link](https://x.com/TeamTwood/status/2069445589159563630) | **게시일:** Jun 23, 2026
-
----
-### 핸드헬드 다큐멘터리 스타일 건설 현장 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 해 질 녘 먼지가 흩날리는 건설 현장을 4K 해상도로 담아낸, 거칠고 생생한 핸드헬드 다큐멘터리 감성의 시네마틱 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-분위기: 초현실적인 2024년 현대적 영상, 선명한 4K 해상도, 날것 그대로의 핸드헬드 다큐멘터리 느낌. 먼지 가득한 미완성 콘크리트 건설 현장의 강렬한 대비를 이루는 일몰 조명. 짙은 오렌지빛 조명, 길고 거친 그림자, 그리고 흩날리는 먼지 입자.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069445390055931904/img/r4Q4-1AsOnjYiJb4.jpg" width="600" alt="핸드헬드 다큐멘터리 스타일 건설 현장 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6394)**
-
-**작성자:** [YoYo Studios](https://x.com/TeamTwood) | **출처:** [Link](https://x.com/TeamTwood/status/2069445457286406297) | **게시일:** Jun 23, 2026
-
----
-### 우주 엘리베이터 사이키델릭 여정
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 사람과 화물을 싣고 별이 가득한 우주를 통과하는 우주 엘리베이터를 묘사한 사이키델릭 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-사람과 화물을 싣고 올라가는 우주 엘리베이터 사이키델릭 경험 수많은 별들
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069426227119546368/img/MpSjI5Viq9KfuEqL.jpg" width="600" alt="우주 엘리베이터 사이키델릭 여정">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6397)**
-
-**작성자:** [KENDREIK Artist](https://x.com/kendreik) | **출처:** [Link](https://x.com/kendreik/status/2069426293360194028) | **게시일:** Jun 23, 2026
-
----
-### 레트로 다이너 시리얼 비행 장면
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 레트로 주방에서 슬로우 모션으로 튀어 오르는 우유와 공중에 떠 있는 시리얼, 그리고 어린 소녀를 담은 고해상도 시네마틱 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-아늑한 레트로 다이너 스타일 주방 내부를 비추는 시네마틱 광각 샷. 어린 소녀가 시리얼 그릇 위로 몸을 숙이자 우유가 드라마틱한 슬로우 모션으로 위로 솟구칩니다. 알록달록한 시리얼 루프들이 소녀의 얼굴 주변으로 공중에 떠다닙니다. 소녀는 놀라움과 기쁨이 가득한 표정으로 입을 벌린 채 카메라를 정면으로 응시합니다. 블라인드 사이로 따스한 아침 햇살이 비칩니다. 어안 렌즈 왜곡, 사실적인 조명, 높은 디테일, 역동적인 움직임, 그리고 재미있는 시네마틱 분위기가 어우러져 장난스럽고 마법 같은 에너지가 느껴지는 장면입니다. 재생 시간: 10초.
-
-대사: 와… 내 아침 식사가 진짜 날고 있는 거야?
-
-사운드 디자인:
-
-갑작스러운 우유 튀는 소리.
-가벼운 시리얼 흩어지는 소리.
-부드러운 마법 같은 반짝임 효과.
-소녀의 놀란 숨소리.
-재미있고 경쾌한 배경 음악.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069395437908643841/img/g-URoeS90azUiBUG.jpg" width="600" alt="레트로 다이너 시리얼 비행 장면">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6398)**
-
-**작성자:** [BMX](https://x.com/bmx_ai13) | **출처:** [Link](https://x.com/bmx_ai13/status/2069395522088030511) | **게시일:** Jun 23, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2235,6 +2234,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-05T04:18:55.535Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-05T10:44:52.371Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2042** |
+| 📝 プロンプト総数 | **2047** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-07-05** |
 
@@ -189,6 +189,110 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### スーパー 8 フィルム風：ビーチで手を振る女性
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 1.5 向けに、スーパー 8 フィルムの質感を活かしたノスタルジックな動画生成プロンプトです。ビーチで手を振る女性の表情や感情パラメーターを指定しています。
+
+#### 📝 プロンプト
+
+```
+スーパー 8 フィルムで撮影された、あるビーチでの一日。女性がビーチに横たわり、笑顔でカメラに向かって手を振っている。
+
+V/A：価（valence）0.80、覚醒度（arousal）0.50
+
+FACS：AU6 + AU12 + AU25（中程度の強度）
+
+解剖学的特徴：口角
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073281509696389120/img/uTGkKkjYbpsIWFYs.jpg" width="600" alt="スーパー 8 フィルム風：ビーチで手を振る女性">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6857)**
+
+**作者:** [M I K E • R I C K S](https://x.com/michaelricks) | **ソース:** [Link](https://x.com/michaelricks/status/2073425366677324118) | **公開日:** Jul 4, 2026
+
+---
+### 荘厳な女王の戴冠式シーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 若き女王、降り注ぐ王冠、そして荘厳な黄金の広間を描いた、ロイヤルな戴冠式シーンのためのシネマティックな動画プロンプトです。
+
+#### 📝 プロンプト
+
+```
+宮廷が息をのむ中、若き女王の頭上に王冠がゆっくりと降りてくる。クレーンカメラが彼女の瞳から上昇し、黄金の広間のワイドショットへと切り替わる。背景には厳かな聖歌隊の調べ、荘厳な雰囲気。6 秒間。
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2073295683986112512/pu/img/E4Iac8E7gQZpIaeY.jpg" width="600" alt="荘厳な女王の戴冠式シーン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6858)**
+
+**作者:** [MYS AI](https://x.com/mys1111) | **ソース:** [Link](https://x.com/mys1111/status/2073295711202922501) | **公開日:** Jul 4, 2026
+
+---
+### ニワトリ型エイリアンのドアベル・リンギング
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ニワトリとエイリアンのハイブリッドが家に歩み寄り、ドアベルを鳴らすという、独創的で生々しいプロンプトです。
+
+#### 📝 プロンプト
+
+```
+ニワトリのエイリアンが家に向かって歩いてくる。そして、ドアベルを「ピンポーン」と鳴らす
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073247871189516288/img/-it_HCAUiB0_et6F.jpg" width="600" alt="ニワトリ型エイリアンのドアベル・リンギング">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6855)**
+
+**作者:** [Aether Ink Studios](https://x.com/anameistudios) | **ソース:** [Link](https://x.com/anameistudios/status/2073247922221682782) | **公開日:** Jul 4, 2026
+
+---
+### カウボーイのハーモニカ演奏テクニック
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> カウボーイがハーモニカを演奏する動画を生成するための詳細な指示。リアルな呼吸、手の動き、テクニックに焦点を当てています。
+
+#### 📝 プロンプト
+
+```
+カウボーイが演奏を始めると、口先だけでなく腹式呼吸で息を吸い込みます。唇の力を抜き、舌を使って穴を塞ぐことで、一度に一つのクリアな音が出るようにします。
+深く感情的な、泣いているような音を出したいときは、ハーモニカを両手で包み込み、演奏しながら手を開閉させます。これが「ハンド・ワウ」というテクニックです。
+息を吹き込む動作と吸い込む動作をスムーズに切り替え、舌と喉を使って音色を形作ることで、まるでハーモニカが歌っているかのように表現します。
+カウボーイが演奏を始めると、このような動きになります。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073238762746781696/img/j85hRx9lC5KU2p-f.jpg" width="600" alt="カウボーイのハーモニカ演奏テクニック">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6854)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2073238878723412103) | **公開日:** Jul 4, 2026
+
+---
+### ポップコーンのプールで遊ぶ女性とエイリアン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> キャットスーツを着た女性とカウボーイ姿のエイリアンが、ポップコーンで満たされたプールで遊ぶ、シュールで楽しいビデオプロンプトです。
+
+#### 📝 プロンプト
+
+```
+ダイヤモンドのネックレスとピアスを身につけ、キャットスーツを着た長いブロンドヘアの美しい女性と、カウボーイハットとカウボーイ衣装をまとった大きな青い男性エイリアンが、ポップコーンで満たされた巨大なプールで遊んでいる様子
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073203927307177986/img/gd5F1J0f27MQzpZH.jpg" width="600" alt="ポップコーンのプールで遊ぶ女性とエイリアン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6856)**
+
+**作者:** [Sheelagh Mac Mathghamhna](https://x.com/abitoblarney) | **ソース:** [Link](https://x.com/abitoblarney/status/2073204014909378959) | **公開日:** Jul 4, 2026
+
+---
 ### Family Guy 風のコミカルな転倒
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2069,111 +2173,6 @@ Elena が輝くポータルを通り抜け、広大な Playroom へと足を踏�
 **作者:** [Vitalii Isaev](https://x.com/restofart) | **ソース:** [Link](https://x.com/restofart/status/2069493142080856175) | **公開日:** Jun 23, 2026
 
 ---
-### 動画編集およびアニメーション用プロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 目を閉じる、唇を動かす、まばたきをする、パズルのピースが割れる様子を描画するなど、詳細な手順を指定する画像から動画への変換用プロンプトです。
-
-#### 📝 プロンプト
-
-```
-これを動画に変換し、まぶたの色を維持したまま、彼女の目を徐々に閉じるように動かしてください。微笑まずに唇を動かし、左目でまばたきをさせ、3 つの小さなパズルのピースが割れる様子を描画してください。削除。編集して、微笑んでいない唇に変更し...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069489335075053568/img/35ftvD5GXpwkcCuT.jpg" width="600" alt="動画編集およびアニメーション用プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6388)**
-
-**作者:** [caroline freebern](https://x.com/myHeartis1true) | **ソース:** [Link](https://x.com/myHeartis1true/status/2069489395145593017) | **公開日:** Jun 23, 2026
-
----
-### 工業用倉庫での格闘アクションシーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 南インドの倉庫での格闘シーンを、手持ちカメラによるワンカット撮影で表現するためのビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-参照画像 @Image1 から被写体のみを抽出してください。それ以外はすべて無視してください。夜間の南インドの工業用倉庫での、超リアルな格闘アクション。隠しカットを用いたシングル・コンティニュアス・ショット（ワンカット風撮影）で、編集の継ぎ目は見せないこと。手持ちのモバイル端末で撮影したような、生の映像素材。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069445527146786817/img/lN4as31Fb581VU9J.jpg" width="600" alt="工業用倉庫での格闘アクションシーン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6402)**
-
-**作者:** [YoYo Studios](https://x.com/TeamTwood) | **ソース:** [Link](https://x.com/TeamTwood/status/2069445589159563630) | **公開日:** Jun 23, 2026
-
----
-### 手持ちカメラによる建設現場のドキュメンタリー風映像
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 夕暮れ時の建設現場を舞台に、舞い上がる塵（ちり）を捉えた、臨場感あふれる手持ちカメラのドキュメンタリー風映像を生成するためのプロンプトです。4K 解像度に対応しています。
-
-#### 📝 プロンプト
-
-```
-雰囲気：2024 年の超リアルな現代映像、鮮明な 4K 解像度、生のドキュメンタリーのような手持ちカメラの質感。未完成のコンクリート建設現場で、塵が舞う中でのコントラストの強い夕暮れのライティング。深みのあるオレンジ色の光、長く伸びる鋭い影、そして舞い上がる塵の粒子。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069445390055931904/img/r4Q4-1AsOnjYiJb4.jpg" width="600" alt="手持ちカメラによる建設現場のドキュメンタリー風映像">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6394)**
-
-**作者:** [YoYo Studios](https://x.com/TeamTwood) | **ソース:** [Link](https://x.com/TeamTwood/status/2069445457286406297) | **公開日:** Jun 23, 2026
-
----
-### 宇宙エレベーターのサイケデリックな旅
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 人々や貨物を乗せた宇宙エレベーターが、星々が輝く宇宙空間を駆け抜ける様子を描いたサイケデリックな動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-人々や貨物を運ぶ宇宙エレベーター、サイケデリックな体験、満天の星々
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069426227119546368/img/MpSjI5Viq9KfuEqL.jpg" width="600" alt="宇宙エレベーターのサイケデリックな旅">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6397)**
-
-**作者:** [KENDREIK Artist](https://x.com/kendreik) | **ソース:** [Link](https://x.com/kendreik/status/2069426293360194028) | **公開日:** Jun 23, 2026
-
----
-### レトロなダイナー風のシリアルが舞うシーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> レトロなキッチンで、スローモーションのミルクの飛沫と浮かぶシリアルに囲まれた少女を描いた、非常に詳細なシネマティックプロンプト。
-
-#### 📝 プロンプト
-
-```
-居心地の良いレトロなダイナー風キッチンのシネマティックなワイドアングルショット。カラフルなシリアルのボウルに身を乗り出した少女の目の前で、ミルクがドラマチックなスローモーションで弾け飛ぶ。明るいリング状のシリアルが彼女の顔の周りに浮かんでいる。彼女は目を大きく見開き、口をあんぐりと開けて、驚きと喜びの表情でカメラをまっすぐに見つめている。ブラインド越しに温かい朝の光が差し込む。魚眼レンズによる歪み、リアルなライティング、高精細なディテール、ダイナミックな動き、そして楽しげなシネマティックな雰囲気を持つ、遊び心と魔法のようなエネルギーに満ちたシーン。尺：10 秒。
-
-セリフ：わあ…朝ごはんが本当に飛んでる？
-
-サウンドデザイン：
-
-ミルクが弾ける突然の音。
-シリアルが散らばる軽やかな音。
-魔法のような柔らかなキラキラ音。
-少女の驚いた息を呑む声。
-楽しく遊び心のあるバックグラウンドミュージック。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069395437908643841/img/g-URoeS90azUiBUG.jpg" width="600" alt="レトロなダイナー風のシリアルが舞うシーン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6398)**
-
-**作者:** [BMX](https://x.com/bmx_ai13) | **ソース:** [Link](https://x.com/bmx_ai13/status/2069395522088030511) | **公開日:** Jun 23, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2235,6 +2234,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-05T04:18:54.628Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-05T10:44:51.372Z</sub>
 
 </div>

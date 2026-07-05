@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2042** |
+| 📝 Total Prompts | **2047** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-05** |
 
@@ -189,6 +189,110 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Femme faisant signe sur la plage, style film Super 8
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de génération vidéo nostalgique utilisant l'esthétique du film Super 8, mettant en scène une femme faisant signe sur une plage, avec des paramètres spécifiques d'expression faciale et de valence pour Grok Imagine 1.5.
+
+#### 📝 Prompt
+
+```
+Tourné sur pellicule Super 8, une journée à la plage. Une femme est allongée sur le sable, souriant et faisant signe à la caméra.
+
+V/A : valence 0,80, arousal 0,50
+
+FACS : AU6 + AU12 + AU25 à intensité modérée
+
+Anatomique : coins
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073281509696389120/img/uTGkKkjYbpsIWFYs.jpg" width="600" alt="Femme faisant signe sur la plage, style film Super 8">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6857)**
+
+**Author:** [M I K E • R I C K S](https://x.com/michaelricks) | **Source:** [Link](https://x.com/michaelricks/status/2073425366677324118) | **Published:** Jul 4, 2026
+
+---
+### Scène de couronnement d'une reine majestueuse
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo cinématographique pour une scène de couronnement royal mettant en vedette une jeune reine, une couronne qui descend et une majestueuse salle dorée.
+
+#### 📝 Prompt
+
+```
+Une couronne descend lentement sur la tête d'une jeune reine tandis que la cour retient son souffle. Une caméra sur grue s'élève depuis ses yeux vers un plan large de la salle dorée. Chœur solennel en arrière-plan, atmosphère majestueuse. 6 secondes.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2073295683986112512/pu/img/E4Iac8E7gQZpIaeY.jpg" width="600" alt="Scène de couronnement d'une reine majestueuse">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6858)**
+
+**Author:** [MYS AI](https://x.com/mys1111) | **Source:** [Link](https://x.com/mys1111/status/2073295711202922501) | **Published:** Jul 4, 2026
+
+---
+### Sonnette Alien Poulet
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt créatif et brut mettant en scène un hybride poulet-alien s'approchant d'une maison pour sonner à la porte.
+
+#### 📝 Prompt
+
+```
+Poulet, alien, marchant vers la maison. Et puis il sonne à la porte, ding dong
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073247871189516288/img/-it_HCAUiB0_et6F.jpg" width="600" alt="Sonnette Alien Poulet">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6855)**
+
+**Author:** [Aether Ink Studios](https://x.com/anameistudios) | **Source:** [Link](https://x.com/anameistudios/status/2073247922221682782) | **Published:** Jul 4, 2026
+
+---
+### Technique de jeu d'harmonica pour un cowboy
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Instructions détaillées pour générer une vidéo d'un cowboy jouant de l'harmonica, en mettant l'accent sur la respiration réaliste, les mouvements des mains et la technique.
+
+#### 📝 Prompt
+
+```
+Une fois que le cowboy commence à jouer, il doit respirer par le ventre, et non seulement par la bouche. Il garde ses lèvres détendues et utilise sa langue pour boucher les trous afin de ne jouer qu'une seule note nette à la fois.
+Lorsqu'il souhaite obtenir ce son profond, émouvant et plaintif, il doit placer ses mains en coupe autour de l'harmonica et les ouvrir et fermer tout en jouant ; c'est ce qu'on appelle l'effet « wah » à la main.
+Il alternera avec fluidité entre l'expiration et l'aspiration, en façonnant chaque note avec sa langue et sa gorge pour que l'harmonica chante véritablement.
+Voilà à quoi cela ressemblera une fois que le cowboy commencera à jouer.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073238762746781696/img/j85hRx9lC5KU2p-f.jpg" width="600" alt="Technique de jeu d'harmonica pour un cowboy">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6854)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2073238878723412103) | **Published:** Jul 4, 2026
+
+---
+### Une femme et un extraterrestre dans une piscine de pop-corn
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo surréaliste et amusant mettant en scène une femme en combinaison moulante et un cow-boy extraterrestre jouant dans une piscine remplie de pop-corn.
+
+#### 📝 Prompt
+
+```
+Une belle femme aux longs cheveux blond clair portant un collier et des boucles d'oreilles en diamant ainsi qu'une combinaison moulante, et un grand extraterrestre bleu portant un chapeau et une tenue de cow-boy, jouent dans une piscine gigantesque remplie de pop-corn
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073203927307177986/img/gd5F1J0f27MQzpZH.jpg" width="600" alt="Une femme et un extraterrestre dans une piscine de pop-corn">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6856)**
+
+**Author:** [Sheelagh Mac Mathghamhna](https://x.com/abitoblarney) | **Source:** [Link](https://x.com/abitoblarney/status/2073204014909378959) | **Published:** Jul 4, 2026
+
+---
 ### Chute comique style Family Guy
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2069,111 +2173,6 @@ Poisson abyssal bioluminescent avec une peau translucide fantomatique, de grands
 **Author:** [Vitalii Isaev](https://x.com/restofart) | **Source:** [Link](https://x.com/restofart/status/2069493142080856175) | **Published:** Jun 23, 2026
 
 ---
-### Prompt de montage vidéo et d'animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de modification d'image en vidéo fournissant des étapes séquentielles détaillées pour fermer les yeux, bouger les lèvres, cligner des yeux et rendre l'effet de pièces de puzzle qui se fissurent.
-
-#### 📝 Prompt
-
-```
-Transformez ceci en vidéo et faites en sorte que ses yeux se ferment progressivement en conservant les mêmes couleurs sur les paupières. Faites bouger ses lèvres sans sourire, puis faites-lui cligner de l'œil gauche et faites apparaître trois petites pièces de puzzle qui se fissurent. supprimez. modifiez et changez ses lèvres pour qu'elles ne sourient pas ju...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069489335075053568/img/35ftvD5GXpwkcCuT.jpg" width="600" alt="Prompt de montage vidéo et d'animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6388)**
-
-**Author:** [caroline freebern](https://x.com/myHeartis1true) | **Source:** [Link](https://x.com/myHeartis1true/status/2069489395145593017) | **Published:** Jun 23, 2026
-
----
-### Séquence de combat dans un entrepôt industriel
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo pour une scène de combat dans un entrepôt du sud de l'Inde, filmée en un seul plan-séquence à la caméra portée.
-
-#### 📝 Prompt
-
-```
-Ne prendre que le sujet de l'image de référence @Image1. Ignorer tout le reste… action rapide, combat ultra-réaliste dans un entrepôt industriel du sud de l'Inde de nuit. Plan-séquence unique avec raccords invisibles, sans coupes apparentes. Images brutes filmées à la main avec un mobile.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069445527146786817/img/lN4as31Fb581VU9J.jpg" width="600" alt="Séquence de combat dans un entrepôt industriel">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6402)**
-
-**Author:** [YoYo Studios](https://x.com/TeamTwood) | **Source:** [Link](https://x.com/TeamTwood/status/2069445589159563630) | **Published:** Jun 23, 2026
-
----
-### Vidéo documentaire filmée à la main d'un chantier de construction
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo cinématographique conçu pour une esthétique documentaire brute filmée à la main, représentant un chantier de construction en résolution 4K au coucher du soleil avec des particules de poussière en suspension.
-
-#### 📝 Prompt
-
-```
-Ambiance : Vidéo contemporaine ultra-réaliste 2024, résolution 4K nette, rendu documentaire brut filmé à la main. Éclairage de coucher du soleil à fort contraste dans un chantier de construction en béton brut et poussiéreux. Lumière orange profonde, longues ombres marquées et particules de poussière tourbillonnantes.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069445390055931904/img/r4Q4-1AsOnjYiJb4.jpg" width="600" alt="Vidéo documentaire filmée à la main d'un chantier de construction">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6394)**
-
-**Author:** [YoYo Studios](https://x.com/TeamTwood) | **Source:** [Link](https://x.com/TeamTwood/status/2069445457286406297) | **Published:** Jun 23, 2026
-
----
-### Voyage psychédélique en ascenseur spatial
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo psychédélique représentant un ascenseur spatial transportant des personnes et des marchandises à travers un univers rempli d'étoiles.
-
-#### 📝 Prompt
-
-```
-Ascenseur spatial transportant des personnes et des marchandises, expérience psychédélique, beaucoup d'étoiles
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069426227119546368/img/MpSjI5Viq9KfuEqL.jpg" width="600" alt="Voyage psychédélique en ascenseur spatial">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6397)**
-
-**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2069426293360194028) | **Published:** Jun 23, 2026
-
----
-### Scène de céréales volantes dans un diner rétro
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinématographique très détaillé mettant en scène une jeune fille dans une cuisine rétro, avec des éclaboussures de lait au ralenti et des céréales en lévitation.
-
-#### 📝 Prompt
-
-```
-Un plan cinématographique grand angle à l'intérieur d'une cuisine chaleureuse au style diner rétro. Une jeune fille se penche au-dessus d'un bol de céréales colorées alors que le lait jaillit vers le haut dans un ralenti spectaculaire. Des boucles de céréales lumineuses flottent dans l'air autour de son visage. Elle regarde directement la caméra, les yeux écarquillés et la bouche ouverte dans une expression de surprise et de joie. La lumière chaude du matin traverse les stores. La scène dégage une atmosphère ludique, magique et énergique, avec une distorsion d'objectif fisheye, un éclairage réaliste, un niveau de détail élevé, un mouvement dynamique et une ambiance cinématographique amusante. Durée : 10 secondes.
-
-Dialogue : Waouh… est-ce que mon petit-déjeuner est en train de voler ?
-
-Conception sonore :
-
-Éclaboussure soudaine de lait.
-Léger bruit de céréales qui s'éparpillent.
-Effet sonore doux de scintillement magique.
-Soupir de surprise de la jeune fille.
-Musique de fond amusante et enjouée.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069395437908643841/img/g-URoeS90azUiBUG.jpg" width="600" alt="Scène de céréales volantes dans un diner rétro">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6398)**
-
-**Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2069395522088030511) | **Published:** Jun 23, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2235,6 +2234,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-05T04:19:02.383Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-05T10:44:59.331Z</sub>
 
 </div>

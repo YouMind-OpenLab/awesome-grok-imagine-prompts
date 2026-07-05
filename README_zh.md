@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **2042** |
+| 📝 提示词总数 | **2047** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-07-05** |
 
@@ -189,6 +189,110 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### Super 8 胶片风格海滩女性挥手
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个怀旧的视频生成提示词，采用 Super 8 胶片美学，描绘了一位女性在海滩上挥手的场景，并为 Grok Imagine 1.5 提供了特定的面部表情和效价参数。
+
+#### 📝 提示词
+
+```
+使用 Super 8 胶片拍摄，海滩上的一天。一位女性躺在海滩上，微笑着向镜头挥手。
+
+V/A：效价 0.80，唤醒度 0.50
+
+FACS：中等强度的 AU6 + AU12 + AU25
+
+解剖学：嘴角
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073281509696389120/img/uTGkKkjYbpsIWFYs.jpg" width="600" alt="Super 8 胶片风格海滩女性挥手">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6857)**
+
+**作者:** [M I K E • R I C K S](https://x.com/michaelricks) | **来源:** [Link](https://x.com/michaelricks/status/2073425366677324118) | **发布时间:** Jul 4, 2026
+
+---
+### 女王加冕盛典场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于皇家加冕场景的电影级视频提示词，包含年轻女王、缓缓降下的皇冠以及宏伟的金色大厅。
+
+#### 📝 提示词
+
+```
+皇冠缓缓降落在年轻女王的头上，全场屏息凝神。摄像机从她的双眼向上移动，呈现出金色大厅的广角镜头。背景伴随着庄严的合唱，氛围宏伟壮丽。时长 6 秒。
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2073295683986112512/pu/img/E4Iac8E7gQZpIaeY.jpg" width="600" alt="女王加冕盛典场景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6858)**
+
+**作者:** [MYS AI](https://x.com/mys1111) | **来源:** [Link](https://x.com/mys1111/status/2073295711202922501) | **发布时间:** Jul 4, 2026
+
+---
+### 小鸡外星人按门铃
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个关于小鸡与外星人混合体走向房子并按响门铃的创意且原始的提示词。
+
+#### 📝 提示词
+
+```
+小鸡，外星人，走向房子。然后它按响了门铃，叮咚一声
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073247871189516288/img/-it_HCAUiB0_et6F.jpg" width="600" alt="小鸡外星人按门铃">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6855)**
+
+**作者:** [Aether Ink Studios](https://x.com/anameistudios) | **来源:** [Link](https://x.com/anameistudios/status/2073247922221682782) | **发布时间:** Jul 4, 2026
+
+---
+### 牛仔演奏口琴的技巧
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 关于生成牛仔演奏口琴视频的详细指南，重点关注真实的呼吸、手部动作及演奏技巧。
+
+#### 📝 提示词
+
+```
+当牛仔开始演奏时，他会用腹部呼吸，而不仅仅是嘴部。他会保持双唇放松，并用舌头封住多余的孔，确保每次只吹出一个清晰的音符。
+当他想要那种深沉、感性且如泣如诉的声音时，他会用双手罩住口琴，在演奏的同时开合双手——这就是“手哇音”（hand wah）技巧。
+他会在吹气和吸气之间平滑切换，通过舌头和喉咙塑造每一个音符，让口琴仿佛在歌唱。
+这就是牛仔开始演奏时的呈现效果。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073238762746781696/img/j85hRx9lC5KU2p-f.jpg" width="600" alt="牛仔演奏口琴的技巧">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6854)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2073238878723412103) | **发布时间:** Jul 4, 2026
+
+---
+### 爆米花池中的女士与外星人
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个超现实且充满趣味的视频提示词，描述了一位身穿紧身猫女装的女士与一位外星牛仔在装满爆米花的游泳池中玩耍的场景。
+
+#### 📝 提示词
+
+```
+一位留着浅金色长发、佩戴钻石项链和钻石耳环的美丽女士，身穿紧身猫女装，与一位戴着牛仔帽、身穿牛仔服的蓝色男性外星人，正在一个装满爆米花的巨大游泳池中玩耍
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073203927307177986/img/gd5F1J0f27MQzpZH.jpg" width="600" alt="爆米花池中的女士与外星人">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6856)**
+
+**作者:** [Sheelagh Mac Mathghamhna](https://x.com/abitoblarney) | **来源:** [Link](https://x.com/abitoblarney/status/2073204014909378959) | **发布时间:** Jul 4, 2026
+
+---
 ### 《居家男人》风格的滑稽跌倒
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2069,111 +2173,6 @@ Elena 穿过闪烁的传送门，进入广阔的 Playroom，她环顾四周，�
 **作者:** [Vitalii Isaev](https://x.com/restofart) | **来源:** [Link](https://x.com/restofart/status/2069493142080856175) | **发布时间:** Jun 23, 2026
 
 ---
-### 视频剪辑与动画提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个图像转视频的修改提示词，提供详细的连续步骤，包括闭眼、动嘴唇、眨眼以及渲染拼图碎裂的效果。
-
-#### 📝 提示词
-
-```
-将其制作成视频，让她的眼睛逐渐闭合，眼睑保持相同的颜色。让她的嘴唇移动但不要微笑，然后眨左眼，并让三块小拼图碎裂。移除。编辑并修改她不微笑的嘴唇，使其...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069489335075053568/img/35ftvD5GXpwkcCuT.jpg" width="600" alt="视频剪辑与动画提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6388)**
-
-**作者:** [caroline freebern](https://x.com/myHeartis1true) | **来源:** [Link](https://x.com/myHeartis1true/status/2069489395145593017) | **发布时间:** Jun 23, 2026
-
----
-### 工业仓库打斗动作场面
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个关于南印度仓库打斗场景的视频提示词，采用单镜头手持拍摄。
-
-#### 📝 提示词
-
-```
-仅从参考图像 @Image1 中提取主体。忽略其他所有内容……快速动作，超写实的南印度工业仓库夜间打斗。单镜头连续拍摄，带有隐藏的剪辑点，无可见编辑痕迹。原始手持移动设备拍摄素材。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069445527146786817/img/lN4as31Fb581VU9J.jpg" width="600" alt="工业仓库打斗动作场面">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6402)**
-
-**作者:** [YoYo Studios](https://x.com/TeamTwood) | **来源:** [Link](https://x.com/TeamTwood/status/2069445589159563630) | **发布时间:** Jun 23, 2026
-
----
-### 手持纪实风格建筑工地视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一款为粗粝手持纪实美学设计的电影级视频提示词，呈现 4K 分辨率下日落时分尘土飞扬的建筑工地。
-
-#### 📝 提示词
-
-```
-氛围：超写实 2024 当代视频，清晰的 4K 分辨率，原始手持纪实感。在尘土飞扬、未完工的混凝土建筑工地中，呈现高对比度的日落光影。深橙色光线、长而硬的阴影，以及空气中盘旋的尘埃微粒。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069445390055931904/img/r4Q4-1AsOnjYiJb4.jpg" width="600" alt="手持纪实风格建筑工地视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6394)**
-
-**作者:** [YoYo Studios](https://x.com/TeamTwood) | **来源:** [Link](https://x.com/TeamTwood/status/2069445457286406297) | **发布时间:** Jun 23, 2026
-
----
-### 太空电梯迷幻之旅
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段迷幻风格的视频提示词，描绘了一部太空电梯载着乘客和货物穿梭于繁星点点的宇宙中。
-
-#### 📝 提示词
-
-```
-太空电梯载人载货上升，迷幻体验，繁星点点
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069426227119546368/img/MpSjI5Viq9KfuEqL.jpg" width="600" alt="太空电梯迷幻之旅">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6397)**
-
-**作者:** [KENDREIK Artist](https://x.com/kendreik) | **来源:** [Link](https://x.com/kendreik/status/2069426293360194028) | **发布时间:** Jun 23, 2026
-
----
-### 复古餐厅麦片飞舞场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个高度精细的电影级提示词，描绘了一位小女孩在复古厨房中，伴随着慢动作牛奶飞溅和漂浮麦片的场景。
-
-#### 📝 提示词
-
-```
-一个位于温馨复古风格厨房内的电影级广角镜头。一位小女孩俯身看着一碗五彩麦片，牛奶以戏剧性的慢动作向上喷溅。明亮的麦片圈在她脸庞周围漂浮。她睁大双眼，张着嘴，表情既惊讶又欣喜，直视着镜头。温暖的晨光透过百叶窗射入。整个场景充满俏皮、魔幻和活力的感觉，带有鱼眼镜头畸变、逼真的光影、高细节、动态感以及有趣的电影氛围。时长：10 秒。
-
-对话：哇……我的早餐真的在飞吗？
-
-声音设计：
-
-突如其来的牛奶飞溅声。
-轻微的麦片散落声。
-柔和的魔幻闪烁音效。
-女孩惊讶的吸气声。
-欢快俏皮的背景音乐。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069395437908643841/img/g-URoeS90azUiBUG.jpg" width="600" alt="复古餐厅麦片飞舞场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6398)**
-
-**作者:** [BMX](https://x.com/bmx_ai13) | **来源:** [Link](https://x.com/bmx_ai13/status/2069395522088030511) | **发布时间:** Jun 23, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2235,6 +2234,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-07-05T04:18:52.784Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-07-05T10:44:49.278Z</sub>
 
 </div>

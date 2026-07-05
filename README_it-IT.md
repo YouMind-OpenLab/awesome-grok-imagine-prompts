@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2042** |
+| 📝 Total Prompts | **2047** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-05** |
 
@@ -189,6 +189,110 @@ Una mistica e nobile Valchiria celestiale, una donna dignitosa e bellissima con 
 
 > 📝 Sorted by publish date (newest first)
 
+### Donna che saluta in spiaggia, stile pellicola Super 8
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt nostalgico per la generazione video che utilizza l'estetica della pellicola Super 8 per una donna che saluta su una spiaggia, includendo parametri specifici di espressione facciale e valenza per Grok Imagine 1.5.
+
+#### 📝 Prompt
+
+```
+Girato su pellicola Super 8, una giornata in spiaggia. Una donna è sdraiata sulla spiaggia, sorride e saluta verso la telecamera.
+
+V/A: valenza 0.80, arousal 0.50
+
+FACS: AU6 + AU12 + AU25 a intensità moderata
+
+Anatomico: angoli
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073281509696389120/img/uTGkKkjYbpsIWFYs.jpg" width="600" alt="Donna che saluta in spiaggia, stile pellicola Super 8">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6857)**
+
+**Author:** [M I K E • R I C K S](https://x.com/michaelricks) | **Source:** [Link](https://x.com/michaelricks/status/2073425366677324118) | **Published:** Jul 4, 2026
+
+---
+### Scena dell'incoronazione di una regina maestosa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video cinematografico per una scena di incoronazione reale con una giovane regina, una corona che scende e una maestosa sala dorata.
+
+#### 📝 Prompt
+
+```
+Una corona scende lentamente sulla testa di una giovane regina mentre la corte trattiene il respiro. Una telecamera su gru si sposta dai suoi occhi verso un'inquadratura ampia della sala dorata. Coro solenne in sottofondo, atmosfera maestosa. 6 secondi.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2073295683986112512/pu/img/E4Iac8E7gQZpIaeY.jpg" width="600" alt="Scena dell'incoronazione di una regina maestosa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6858)**
+
+**Author:** [MYS AI](https://x.com/mys1111) | **Source:** [Link](https://x.com/mys1111/status/2073295711202922501) | **Published:** Jul 4, 2026
+
+---
+### Campanello alieno a forma di pollo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt creativo e originale su un ibrido pollo-alieno che si avvicina a una casa e suona il campanello.
+
+#### 📝 Prompt
+
+```
+Pollo, alieno, che cammina verso la casa. E poi suona il campanello din don
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073247871189516288/img/-it_HCAUiB0_et6F.jpg" width="600" alt="Campanello alieno a forma di pollo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6855)**
+
+**Author:** [Aether Ink Studios](https://x.com/anameistudios) | **Source:** [Link](https://x.com/anameistudios/status/2073247922221682782) | **Published:** Jul 4, 2026
+
+---
+### Tecnica dell'armonica per un cowboy
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Istruzioni dettagliate per generare un video di un cowboy che suona l'armonica, concentrandosi su respirazione realistica, movimenti delle mani e tecnica.
+
+#### 📝 Prompt
+
+```
+Una volta che il cowboy inizia a suonare, respirerà di diaframma, non solo con la bocca. Terrà le labbra rilassate e userà la lingua per bloccare i fori, così da suonare una sola nota pulita alla volta.
+Quando vorrà ottenere quel suono profondo, emozionante e malinconico, avvolgerà le mani attorno all'armonica aprendole e chiudendole mentre suona: è il cosiddetto effetto "hand wah".
+Passerà fluidamente dall'inspirazione all'espirazione, modellando ogni nota con la lingua e la gola affinché l'armonica sembri quasi cantare.
+Ecco come apparirà il cowboy una volta che inizierà a suonare.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073238762746781696/img/j85hRx9lC5KU2p-f.jpg" width="600" alt="Tecnica dell'armonica per un cowboy">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6854)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2073238878723412103) | **Published:** Jul 4, 2026
+
+---
+### Donna e alieno in una piscina di popcorn
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un video prompt surreale e divertente che ritrae una donna in tuta attillata e un alieno cowboy che giocano in una piscina piena di popcorn.
+
+#### 📝 Prompt
+
+```
+Una bellissima donna dai lunghi capelli biondo chiaro, con collana e orecchini di diamanti e indosso una tuta attillata, e un grande alieno maschio blu con cappello e abbigliamento da cowboy giocano in una gigantesca piscina piena di popcorn
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073203927307177986/img/gd5F1J0f27MQzpZH.jpg" width="600" alt="Donna e alieno in una piscina di popcorn">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6856)**
+
+**Author:** [Sheelagh Mac Mathghamhna](https://x.com/abitoblarney) | **Source:** [Link](https://x.com/abitoblarney/status/2073204014909378959) | **Published:** Jul 4, 2026
+
+---
 ### Caduta comica in stile Family Guy
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2069,111 +2173,6 @@ Pesce abissale bioluminescente con pelle traslucida spettrale, grandi occhi blu 
 **Author:** [Vitalii Isaev](https://x.com/restofart) | **Source:** [Link](https://x.com/restofart/status/2069493142080856175) | **Published:** Jun 23, 2026
 
 ---
-### Prompt per montaggio video e animazione
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt di modifica da immagine a video che fornisce passaggi sequenziali dettagliati per chiudere gli occhi, muovere le labbra, sbattere le palpebre e renderizzare pezzi di puzzle che si incrinano.
-
-#### 📝 Prompt
-
-```
-Trasforma questo in un video e fai in modo che i suoi occhi si chiudano gradualmente mantenendo gli stessi colori sulle palpebre. Muovi le sue labbra senza sorridere, poi falla sbattere l'occhio sinistro e fai incrinare tre piccoli pezzi di puzzle. rimuovi. modifica e cambia le sue labbra in modo che non sorridano...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069489335075053568/img/35ftvD5GXpwkcCuT.jpg" width="600" alt="Prompt per montaggio video e animazione">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6388)**
-
-**Author:** [caroline freebern](https://x.com/myHeartis1true) | **Source:** [Link](https://x.com/myHeartis1true/status/2069489395145593017) | **Published:** Jun 23, 2026
-
----
-### Sequenza d'azione di combattimento in un magazzino industriale
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video per una scena di combattimento in un magazzino in stile sud-indiano, utilizzando una singola ripresa continua a mano.
-
-#### 📝 Prompt
-
-```
-Prendi solo il soggetto dall'immagine di riferimento @Image1 . Tralascia tutto il resto… azione rapida, combattimento ultra-realistico in un magazzino industriale sud-indiano di notte. Singola ripresa continua con tagli nascosti, nessuna modifica visibile. Filmato grezzo girato a mano con dispositivo mobile.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069445527146786817/img/lN4as31Fb581VU9J.jpg" width="600" alt="Sequenza d'azione di combattimento in un magazzino industriale">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6402)**
-
-**Author:** [YoYo Studios](https://x.com/TeamTwood) | **Source:** [Link](https://x.com/TeamTwood/status/2069445589159563630) | **Published:** Jun 23, 2026
-
----
-### Video documentario a mano di un cantiere
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video cinematografico progettato per un'estetica da documentario crudo girato a mano, che mostra un cantiere edile in risoluzione 4K al tramonto con pulviscolo in sospensione.
-
-#### 📝 Prompt
-
-```
-Atmosfera: video contemporaneo ultra-realistico 2024, risoluzione 4K nitida, autentico stile documentaristico a mano. Illuminazione al tramonto ad alto contrasto in un cantiere in cemento grezzo e polveroso. Luce arancione intensa, ombre lunghe e nette, e pulviscolo in sospensione.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069445390055931904/img/r4Q4-1AsOnjYiJb4.jpg" width="600" alt="Video documentario a mano di un cantiere">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6394)**
-
-**Author:** [YoYo Studios](https://x.com/TeamTwood) | **Source:** [Link](https://x.com/TeamTwood/status/2069445457286406297) | **Published:** Jun 23, 2026
-
----
-### Viaggio psichedelico sull'ascensore spaziale
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video psichedelico che raffigura un ascensore spaziale che trasporta persone e merci attraverso un universo pieno di stelle.
-
-#### 📝 Prompt
-
-```
-Ascensore spaziale che trasporta persone e merci verso l'alto, esperienza psichedelica, molte stelle
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069426227119546368/img/MpSjI5Viq9KfuEqL.jpg" width="600" alt="Viaggio psichedelico sull'ascensore spaziale">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6397)**
-
-**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2069426293360194028) | **Published:** Jun 23, 2026
-
----
-### Scena di cereali volanti in un diner rétro
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinematografico altamente dettagliato che ritrae una ragazzina in una cucina rétro con schizzi di latte al rallentatore e cereali fluttuanti.
-
-#### 📝 Prompt
-
-```
-Un'inquadratura cinematografica grandangolare all'interno di un'accogliente cucina in stile diner rétro. Una ragazzina è china su una ciotola di cereali colorati mentre il latte schizza verso l'alto in un drammatico rallentatore. Anelli di cereali luminosi fluttuano nell'aria attorno al suo viso. Guarda direttamente verso la telecamera con gli occhi sgranati e un'espressione di sorpresa e gioia a bocca aperta. La calda luce del mattino filtra attraverso le persiane. La scena ha un'atmosfera giocosa, magica ed energica, con distorsione da obiettivo fisheye, illuminazione realistica, dettagli elevati, movimento dinamico e un divertente tocco cinematografico. Durata: 10 secondi.
-
-Dialogo: Wow… la mia colazione sta davvero volando?
-
-Sound Design: 
-
-Improvviso schizzo di latte.
-Leggeri suoni di cereali che si spargono.
-Effetto scintillio magico delicato.
-Il sussulto di sorpresa della ragazza.
-Divertente musica di sottofondo giocosa.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069395437908643841/img/g-URoeS90azUiBUG.jpg" width="600" alt="Scena di cereali volanti in un diner rétro">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6398)**
-
-**Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2069395522088030511) | **Published:** Jun 23, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2235,6 +2234,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-05T04:19:03.423Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-05T10:45:00.478Z</sub>
 
 </div>
