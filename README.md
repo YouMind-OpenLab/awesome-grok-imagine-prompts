@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2047** |
+| 📝 Total Prompts | **2051** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-07** |
 
@@ -189,6 +189,92 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Raccoon Pippin Dialogue Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex narrative video prompt for Grok Imagine featuring a cute raccoon named Pippin and a dragon named Lumi engaging in dialogue.
+
+#### 📝 Prompt
+
+```
+[now talking - (raccoon is cute. Raccoon name is Pippin…]
+Princess
+“Ready, Pippin?”
+Pippin (adjusting goggles)
+“Almost…”
+(one goggle slips sideways)
+“…Now ready.”
+🐉 Lumi (waiting patiently)
+“Take your time.”
+Pippin
+“Safety first....”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074205396571766784/img/7l4P4FiAHqkmi7Hf.jpg" width="600" alt="Raccoon Pippin Dialogue Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6890)**
+
+**Author:** [Carina](https://x.com/Freehere8) | **Source:** [Link](https://x.com/Freehere8/status/2074205457116430719) | **Published:** Jul 6, 2026
+
+---
+### Superior Mirage Arctic Sea Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Generates a surreal video of a Fata Morgana mirage over the ocean, with a ship appearing to float beneath castle-like structures.
+
+#### 📝 Prompt
+
+```
+a Morgana superior mirage over the ocean, a distant ship appearing to float in the air with distorted castle-like structures above it, surreal atmospheric illusion, cold arctic sea, realistic photography
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074058180124954624/img/GikiyzZpNpFJpdr2.jpg" width="600" alt="Superior Mirage Arctic Sea Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6891)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2074058236144091448) | **Published:** Jul 6, 2026
+
+---
+### Futuristic Home Transition Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Generates a cinematic video transition from an open book to a woman inside a high-rise futuristic home with city views.
+
+#### 📝 Prompt
+
+```
+novel book with open pages next smooth transition, same exact woman, in high-rise luxurious home environment with enormous clean windows overlooking futuristic city, extreme details, best quality, no narration
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074051903214718976/img/xmJwlIssDHniaFT0.jpg" width="600" alt="Futuristic Home Transition Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6889)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2074051961662455902) | **Published:** Jul 6, 2026
+
+---
+### Magic Book Floating Letters Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Generates a video of a person opening a book as letters emerge and float slowly upward.
+
+#### 📝 Prompt
+
+```
+The subject opens up a book and letters from the book start slowly floating up from the book
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074032639397277696/img/Lh91rrIjd0aelSCk.jpg" width="600" alt="Magic Book Floating Letters Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6892)**
+
+**Author:** [motana](https://x.com/motana27) | **Source:** [Link](https://x.com/motana27/status/2074032702320267757) | **Published:** Jul 6, 2026
+
+---
 ### Super 8 Film Beach Woman Wave
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -312,21 +398,19 @@ Make me fall down the stairs in a really comical way. Similar to something maybe
 **Author:** [Jeremy Judkins](https://x.com/jeremyjudkins_) | **Source:** [Link](https://x.com/jeremyjudkins_/status/2073147550543065228) | **Published:** Jul 3, 2026
 
 ---
-### Fashion Model Studio Close-up Video
+### Calm Soft-Spoken Woman Video Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-end studio portrait video prompt featuring a fashion model under soft beauty dish lighting, speaking directly and calmly to the camera for a realistic look.
+> A video generation prompt for Grok Imagine designed to create a calm, intimate scene where a model speaks directly and softly to the camera.
 
 #### 📝 Prompt
 
 ```
-Soft beauty dish lighting, fashion model close-up, flawless skin texture, sophisticated studio portrait, high-end magazine style
-
 She talks very softly and calm to the camera: "Do you want to know what feels real to me? This feels real.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073086602998669312/img/uzh8FsXEwcaY0AXs.jpg" width="600" alt="Fashion Model Studio Close-up Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073086602998669312/img/uzh8FsXEwcaY0AXs.jpg" width="600" alt="Calm Soft-Spoken Woman Video Prompt">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6815)**
 
@@ -896,11 +980,11 @@ Slow push-in on the boy sketching rockets by candlelight; notebook pages flutter
 **Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2072052487528300851) | **Published:** Jun 30, 2026
 
 ---
-### Ethereal Bridge of Light Walk
+### Cinematic Bridge of Light Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A poetic video prompt describing a woman walking across a bridge of light, releasing a lantern.
+> A cinematic video prompt describing a woman carrying a lantern across a bridge of light into a new world.
 
 #### 📝 Prompt
 
@@ -908,7 +992,7 @@ Slow push-in on the boy sketching rockets by candlelight; notebook pages flutter
 She walks across the bridge of light, leaving the old world behind with every step. The lantern in her hand is no longer something to hold but something to release into the new path waiting ahead.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072050517350481920/img/Pfz-U8MvfZqnRB9v.jpg" width="600" alt="Ethereal Bridge of Light Walk">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072050517350481920/img/Pfz-U8MvfZqnRB9v.jpg" width="600" alt="Cinematic Bridge of Light Video">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6749)**
 
@@ -2100,82 +2184,6 @@ A single candle flame reflected in many broken mirror shards creating one unifie
 **Author:** [Christine](https://x.com/ChristineJxpxy) | **Source:** [Link](https://x.com/ChristineJxpxy/status/2069538330791035250) | **Published:** Jun 23, 2026
 
 ---
-### Portal Approach through Fire
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A narrative video prompt depicting a character cautiously approaching an unknown portal while walking through fire.
-
-#### 📝 Prompt
-
-```
-he is cautiously approaching an unknown portal ME WALKING THROUGH THE FIRE AGAIN
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069518033781948417/img/0s-mD8zFTi9qPWYU.jpg" width="600" alt="Portal Approach through Fire">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6392)**
-
-**Author:** [John Smith](https://x.com/JohnSmithwnbq) | **Source:** [Link](https://x.com/JohnSmithwnbq/status/2069518262119891160) | **Published:** Jun 23, 2026
-
----
-### Magenta Organic Zoom Loop
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A precise camera control prompt for looping a zoom animation on abstract organic forms.
-
-#### 📝 Prompt
-
-```
-Smoothly bring the abstract magenta-pink organic form closer by zooming in to reveal fine details, pause briefly at the closest point, then slowly zoom back out to the original distance, and repeat this zoom-in-pause-zoom-out cycle fluidly throughout
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069515860486574080/img/tE0nH4l17oKS3yYu.jpg" width="600" alt="Magenta Organic Zoom Loop">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6399)**
-
-**Author:** [Ember Art](https://x.com/Ember8184Art) | **Source:** [Link](https://x.com/Ember8184Art/status/2069515931265413336) | **Published:** Jun 23, 2026
-
----
-### 16-Bit Pixel Art Air Ship
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A nostalgic pixel art animation prompt for a whimsical air ship floating through a bright sky.
-
-#### 📝 Prompt
-
-```
-16-bit Pixel art: a fantastical and whimsical air ship, large inflated multi-colored cloth quilt blimp with ropes keeping it afloat, flying in the bright blue sky. Front and rear propellors slowly spin. Static stationary camera keeps the air ship centered while the clouds pass by simulating movement of the air ship. No music. Vintage pixelated video game animation style.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069502866516238336/img/zHYSE8iNVY5V9jWG.jpg" width="600" alt="16-Bit Pixel Art Air Ship">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6403)**
-
-**Author:** [Gagaror](https://x.com/theRealGagaror) | **Source:** [Link](https://x.com/theRealGagaror/status/2069502927392084113) | **Published:** Jun 23, 2026
-
----
-### Bioluminescent Abyssal Fish Cinematic Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed cinematic video prompt for a nature documentary-style sequence featuring a menacing bioluminescent fish in the deep ocean.
-
-#### 📝 Prompt
-
-```
-Bioluminescent abyssal fish with ghostly translucent skin, large glowing blue eyes, and long, wispy filaments drifting from its body. Context: Pitch-black abyssal ocean depths, dark water with subtle floating marine snow and organic particles. Action: The creature swims slowly and menacingly forward, its massive jaw gradually opens to reveal rows of long, sharp, needle-like teeth. Its filaments undulate gently in the current. Style: Cinematic, photorealistic, nature documentary, horror, macro photography, high detail, unsettling, eerie. Camera motion: Slow, subtle push-in, tracking the creature's forward movement, creating a sense of impending doom. Composition: Medium close-up shot, focused on the creature's head and glowing eyes, shallow depth of field, head-on angle. Ambiance: Extreme low-light, high contrast, deep shadows, volumetric lighting originating from the creature's bioluminescence, eerie blue and white glow, dark and cold color palette.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069493025986772992/img/8Gk6sxDOUOJuGWjW.jpg" width="600" alt="Bioluminescent Abyssal Fish Cinematic Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6404)**
-
-**Author:** [Vitalii Isaev](https://x.com/restofart) | **Source:** [Link](https://x.com/restofart/status/2069493142080856175) | **Published:** Jun 23, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2237,6 +2245,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-07T08:10:07.330Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-07T11:30:26.504Z</sub>
 
 </div>

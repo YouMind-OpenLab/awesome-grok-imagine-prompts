@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2047** |
+| 📝 Total Prompts | **2051** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-07** |
 
@@ -189,6 +189,92 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Cảnh đối thoại của chú gấu trúc Pippin
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video tường thuật phức tạp cho Grok Imagine, với sự tham gia của chú gấu trúc dễ thương tên Pippin và chú rồng tên Lumi đang trò chuyện cùng nhau.
+
+#### 📝 Prompt
+
+```
+[đang trò chuyện - (gấu trúc rất dễ thương. Tên của gấu trúc là Pippin…]
+Công chúa
+“Sẵn sàng chưa, Pippin?”
+Pippin (đang chỉnh kính bảo hộ)
+“Sắp rồi…”
+(một bên kính trượt sang một bên)
+“…Giờ thì sẵn sàng rồi.”
+🐉 Lumi (đang kiên nhẫn chờ đợi)
+“Cứ từ từ thôi.”
+Pippin
+“An toàn là trên hết….”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074205396571766784/img/7l4P4FiAHqkmi7Hf.jpg" width="600" alt="Cảnh đối thoại của chú gấu trúc Pippin">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6890)**
+
+**Author:** [Carina](https://x.com/Freehere8) | **Source:** [Link](https://x.com/Freehere8/status/2074205457116430719) | **Published:** Jul 6, 2026
+
+---
+### Video về hiện tượng ảo ảnh trên không tại vùng biển Bắc Cực
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Tạo một video siêu thực về hiện tượng ảo ảnh Fata Morgana trên đại dương, với hình ảnh con tàu như đang lơ lửng bên dưới các cấu trúc tựa như lâu đài.
+
+#### 📝 Prompt
+
+```
+hiện tượng ảo ảnh trên không Fata Morgana trên đại dương, một con tàu ở xa trông như đang lơ lửng giữa không trung với các cấu trúc tựa như lâu đài bị biến dạng ở phía trên, ảo ảnh khí quyển siêu thực, vùng biển Bắc Cực lạnh giá, nhiếp ảnh chân thực
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074058180124954624/img/GikiyzZpNpFJpdr2.jpg" width="600" alt="Video về hiện tượng ảo ảnh trên không tại vùng biển Bắc Cực">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6891)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2074058236144091448) | **Published:** Jul 6, 2026
+
+---
+### Video chuyển cảnh ngôi nhà tương lai
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Tạo video chuyển cảnh đậm chất điện ảnh từ một cuốn sách đang mở sang hình ảnh một người phụ nữ bên trong ngôi nhà tương lai cao tầng với tầm nhìn ra thành phố.
+
+#### 📝 Prompt
+
+```
+cuốn tiểu thuyết với các trang sách đang mở chuyển cảnh mượt mà, cùng một người phụ nữ, trong không gian nhà ở cao cấp sang trọng với những ô cửa sổ lớn sạch sẽ nhìn ra thành phố tương lai, chi tiết cực cao, chất lượng tốt nhất, không lời dẫn
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074051903214718976/img/xmJwlIssDHniaFT0.jpg" width="600" alt="Video chuyển cảnh ngôi nhà tương lai">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6889)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2074051961662455902) | **Published:** Jul 6, 2026
+
+---
+### Video Những Chữ Cái Bay Lên Từ Cuốn Sách Phép Thuật
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Tạo video một người đang mở cuốn sách, trong khi các chữ cái dần hiện ra và bay chậm rãi lên trên.
+
+#### 📝 Prompt
+
+```
+Nhân vật mở cuốn sách ra và các chữ cái từ trong sách bắt đầu chậm rãi bay lên.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074032639397277696/img/Lh91rrIjd0aelSCk.jpg" width="600" alt="Video Những Chữ Cái Bay Lên Từ Cuốn Sách Phép Thuật">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6892)**
+
+**Author:** [motana](https://x.com/motana27) | **Source:** [Link](https://x.com/motana27/status/2074032702320267757) | **Published:** Jul 6, 2026
+
+---
 ### Người phụ nữ vẫy tay trên bãi biển với phong cách phim Super 8
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2097,82 +2183,6 @@ Một ngọn nến đơn lẻ phản chiếu trong nhiều mảnh gương vỡ t
 **Author:** [Christine](https://x.com/ChristineJxpxy) | **Source:** [Link](https://x.com/ChristineJxpxy/status/2069538330791035250) | **Published:** Jun 23, 2026
 
 ---
-### Tiếp cận cổng không gian qua lửa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt tường thuật mô tả một nhân vật đang thận trọng tiến về phía một cổng không gian bí ẩn trong khi bước đi qua lửa.
-
-#### 📝 Prompt
-
-```
-anh ấy đang thận trọng tiến về phía một cổng không gian bí ẩn TÔI LẠI ĐANG BƯỚC ĐI QUA LỬA
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069518033781948417/img/0s-mD8zFTi9qPWYU.jpg" width="600" alt="Tiếp cận cổng không gian qua lửa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6392)**
-
-**Author:** [John Smith](https://x.com/JohnSmithwnbq) | **Source:** [Link](https://x.com/JohnSmithwnbq/status/2069518262119891160) | **Published:** Jun 23, 2026
-
----
-### Vòng lặp thu phóng hữu cơ màu đỏ tươi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh điều khiển camera chính xác để tạo vòng lặp hiệu ứng thu phóng trên các hình khối hữu cơ trừu tượng.
-
-#### 📝 Prompt
-
-```
-Di chuyển hình khối hữu cơ màu hồng đỏ tươi trừu tượng lại gần một cách mượt mà bằng cách thu phóng để làm rõ các chi tiết tinh xảo, tạm dừng một chút ở điểm gần nhất, sau đó từ từ thu phóng ngược lại khoảng cách ban đầu và lặp lại chu kỳ thu phóng-tạm dừng-thu phóng này một cách trôi chảy xuyên suốt
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069515860486574080/img/tE0nH4l17oKS3yYu.jpg" width="600" alt="Vòng lặp thu phóng hữu cơ màu đỏ tươi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6399)**
-
-**Author:** [Ember Art](https://x.com/Ember8184Art) | **Source:** [Link](https://x.com/Ember8184Art/status/2069515931265413336) | **Published:** Jun 23, 2026
-
----
-### Khí cầu nghệ thuật Pixel 16-bit
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý hoạt ảnh nghệ thuật pixel đầy hoài niệm về chiếc khí cầu kỳ lạ đang lơ lửng giữa bầu trời rực rỡ.
-
-#### 📝 Prompt
-
-```
-Nghệ thuật Pixel 16-bit: một chiếc khí cầu kỳ ảo và độc đáo, với phần thân là khinh khí cầu bằng vải chắp vá nhiều màu sắc được giữ cố định bằng dây thừng, đang bay trên bầu trời xanh trong vắt. Các cánh quạt phía trước và phía sau quay chậm rãi. Camera tĩnh giữ cho khí cầu ở vị trí trung tâm trong khi những đám mây trôi qua tạo cảm giác khí cầu đang di chuyển. Không có nhạc. Phong cách hoạt ảnh trò chơi điện tử pixel cổ điển.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069502866516238336/img/zHYSE8iNVY5V9jWG.jpg" width="600" alt="Khí cầu nghệ thuật Pixel 16-bit">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6403)**
-
-**Author:** [Gagaror](https://x.com/theRealGagaror) | **Source:** [Link](https://x.com/theRealGagaror/status/2069502927392084113) | **Published:** Jun 23, 2026
-
----
-### Video điện ảnh về loài cá phát quang dưới đáy vực thẳm
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) chi tiết để tạo video điện ảnh theo phong cách phim tài liệu thiên nhiên, mô tả loài cá phát quang đáng sợ dưới đáy đại dương.
-
-#### 📝 Prompt
-
-```
-Loài cá phát quang dưới đáy vực thẳm với lớp da trong suốt ma quái, đôi mắt to phát sáng màu xanh lam và những sợi vây dài, mảnh mai trôi dạt từ cơ thể. Bối cảnh: Vùng nước sâu thẳm tối đen như mực, nước tối với các hạt tuyết biển và chất hữu cơ trôi nổi nhẹ nhàng. Hành động: Sinh vật bơi chậm rãi và đầy đe dọa về phía trước, bộ hàm khổng lồ dần mở ra để lộ những hàng răng dài, sắc nhọn như kim. Các sợi vây của nó uốn lượn nhẹ nhàng theo dòng nước. Phong cách: Điện ảnh, chân thực, phim tài liệu thiên nhiên, kinh dị, nhiếp ảnh macro, độ chi tiết cao, gây bất an, kỳ quái. Chuyển động máy quay: Di chuyển chậm, tinh tế, bám theo chuyển động tiến về phía trước của sinh vật, tạo cảm giác về một mối nguy hiểm sắp ập đến. Bố cục: Cận cảnh trung bình, tập trung vào phần đầu và đôi mắt phát sáng của sinh vật, độ sâu trường ảnh nông, góc quay trực diện. Không khí: Ánh sáng cực thấp, độ tương phản cao, bóng tối sâu thẳm, ánh sáng thể tích bắt nguồn từ sự phát quang của sinh vật, ánh sáng xanh và trắng kỳ quái, bảng màu tối và lạnh.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069493025986772992/img/8Gk6sxDOUOJuGWjW.jpg" width="600" alt="Video điện ảnh về loài cá phát quang dưới đáy vực thẳm">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6404)**
-
-**Author:** [Vitalii Isaev](https://x.com/restofart) | **Source:** [Link](https://x.com/restofart/status/2069493142080856175) | **Published:** Jun 23, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2234,6 +2244,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-07T08:10:13.802Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-07T11:30:35.383Z</sub>
 
 </div>

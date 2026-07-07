@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2047** |
+| 📝 Total Prompts | **2051** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-07** |
 
@@ -189,6 +189,92 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Rakun Pippin Diyalog Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Pippin adında sevimli bir rakun ile Lumi adında bir ejderhanın diyalog kurduğu, Grok Imagine için hazırlanmış karmaşık bir anlatı video istemi.
+
+#### 📝 Prompt
+
+```
+[şimdi konuşuyor - (rakun çok sevimli. Rakunun adı Pippin…]
+Prenses
+“Hazır mısın, Pippin?”
+Pippin (gözlüğünü düzeltir)
+“Neredeyse…”
+(gözlüğün biri yana kayar)
+“…Şimdi hazırım.”
+🐉 Lumi (sabırla bekler)
+“Acele etme.”
+Pippin
+“Önce güvenlik....”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074205396571766784/img/7l4P4FiAHqkmi7Hf.jpg" width="600" alt="Rakun Pippin Diyalog Sahnesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6890)**
+
+**Author:** [Carina](https://x.com/Freehere8) | **Source:** [Link](https://x.com/Freehere8/status/2074205457116430719) | **Published:** Jul 6, 2026
+
+---
+### Üstün Serap Kuzey Denizi Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Okyanus üzerinde, bir geminin kale benzeri yapıların altında yüzüyormuş gibi göründüğü gerçeküstü bir Fata Morgana serap videosu oluşturur.
+
+#### 📝 Prompt
+
+```
+okyanus üzerinde Fata Morgana üstün serabı, havada süzülüyormuş gibi görünen uzak bir gemi ve üzerinde bozulmuş kale benzeri yapılar, gerçeküstü atmosferik illüzyon, soğuk kuzey denizi, gerçekçi fotoğrafçılık
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074058180124954624/img/GikiyzZpNpFJpdr2.jpg" width="600" alt="Üstün Serap Kuzey Denizi Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6891)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2074058236144091448) | **Published:** Jul 6, 2026
+
+---
+### Fütüristik Ev Geçiş Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Açık bir kitaptan, şehir manzaralı fütüristik bir gökdelende yaşayan bir kadına sinematik bir video geçişi oluşturur.
+
+#### 📝 Prompt
+
+```
+açık sayfaları olan roman, yumuşak geçiş, aynı kadın, fütüristik şehre bakan devasa temiz pencerelere sahip lüks bir gökdelen ortamında, aşırı detaylı, en iyi kalite, anlatım yok
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074051903214718976/img/xmJwlIssDHniaFT0.jpg" width="600" alt="Fütüristik Ev Geçiş Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6889)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2074051961662455902) | **Published:** Jul 6, 2026
+
+---
+### Sihirli Kitap Uçuşan Harfler Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir kişinin kitap açtığı ve harflerin kitaptan çıkıp yavaşça yukarı doğru süzüldüğü bir video oluşturur.
+
+#### 📝 Prompt
+
+```
+Kişi kitabı açar ve kitaptaki harfler yavaşça kitaptan yukarı doğru süzülmeye başlar
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074032639397277696/img/Lh91rrIjd0aelSCk.jpg" width="600" alt="Sihirli Kitap Uçuşan Harfler Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6892)**
+
+**Author:** [motana](https://x.com/motana27) | **Source:** [Link](https://x.com/motana27/status/2074032702320267757) | **Published:** Jul 6, 2026
+
+---
 ### Super 8 Film Plaj Kadın El Sallama
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2097,82 +2183,6 @@ Birçok kırık ayna parçasında yansıyan tek bir mum alevi, birleşik parlak 
 **Author:** [Christine](https://x.com/ChristineJxpxy) | **Source:** [Link](https://x.com/ChristineJxpxy/status/2069538330791035250) | **Published:** Jun 23, 2026
 
 ---
-### Ateşin İçinden Geçerek Portala Yaklaşım
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir karakterin ateşin içinden yürüyerek bilinmeyen bir portala temkinli bir şekilde yaklaştığını betimleyen anlatısal bir video istemi.
-
-#### 📝 Prompt
-
-```
-ateşin içinden tekrar yürürken bilinmeyen bir portala temkinli bir şekilde yaklaşıyor
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069518033781948417/img/0s-mD8zFTi9qPWYU.jpg" width="600" alt="Ateşin İçinden Geçerek Portala Yaklaşım">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6392)**
-
-**Author:** [John Smith](https://x.com/JohnSmithwnbq) | **Source:** [Link](https://x.com/JohnSmithwnbq/status/2069518262119891160) | **Published:** Jun 23, 2026
-
----
-### Magenta Organik Yakınlaştırma Döngüsü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Soyut organik formlar üzerinde yakınlaştırma animasyonunu döngüye almak için hassas bir kamera kontrol komutu.
-
-#### 📝 Prompt
-
-```
-Soyut macenta-pembe organik formu, ince detayları ortaya çıkarmak için yakınlaştırarak akıcı bir şekilde yaklaştırın, en yakın noktada kısa bir süre duraklayın, ardından yavaşça orijinal mesafeye geri uzaklaştırın ve bu yakınlaştır-duraklat-uzaklaştır döngüsünü boyunca akıcı bir şekilde tekrarlayın
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069515860486574080/img/tE0nH4l17oKS3yYu.jpg" width="600" alt="Magenta Organik Yakınlaştırma Döngüsü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6399)**
-
-**Author:** [Ember Art](https://x.com/Ember8184Art) | **Source:** [Link](https://x.com/Ember8184Art/status/2069515931265413336) | **Published:** Jun 23, 2026
-
----
-### 16-Bit Pixel Art Hava Gemisi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Parlak bir gökyüzünde süzülen fantastik bir hava gemisi için nostaljik bir piksel sanat animasyon istemi.
-
-#### 📝 Prompt
-
-```
-16-bit Pixel art: fantastik ve sıra dışı bir hava gemisi, havada kalmasını sağlayan iplerle bağlı, büyük şişirilmiş çok renkli kumaş yama işi bir zeplin, parlak mavi gökyüzünde uçuyor. Ön ve arka pervaneler yavaşça dönüyor. Sabit kamera, hava gemisini merkezde tutarken bulutlar geçerek hava gemisinin hareketini simüle ediyor. Müzik yok. Vintage pikselleştirilmiş video oyunu animasyon stili.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069502866516238336/img/zHYSE8iNVY5V9jWG.jpg" width="600" alt="16-Bit Pixel Art Hava Gemisi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6403)**
-
-**Author:** [Gagaror](https://x.com/theRealGagaror) | **Source:** [Link](https://x.com/theRealGagaror/status/2069502927392084113) | **Published:** Jun 23, 2026
-
----
-### Biyolüminesans Derin Deniz Balığı Sinematik Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Derin okyanusta tehditkar bir biyolüminesans balığı içeren, doğa belgeseli tarzındaki bir sekans için detaylı sinematik video istemi.
-
-#### 📝 Prompt
-
-```
-Hayaletimsi yarı saydam deriye, büyük parlayan mavi gözlere ve vücudundan süzülen uzun, ince filamentlere sahip biyolüminesans derin deniz balığı. Bağlam: Zifiri karanlık abisal okyanus derinlikleri, hafif yüzen deniz karı ve organik parçacıklarla dolu karanlık su. Eylem: Yaratık yavaş ve tehditkar bir şekilde ileri doğru yüzer, devasa çenesi yavaşça açılarak uzun, keskin, iğne benzeri diş sıralarını ortaya çıkarır. Filamentleri akıntıda nazikçe dalgalanır. Stil: Sinematik, fotogerçekçi, doğa belgeseli, korku, makro fotoğrafçılık, yüksek detay, rahatsız edici, ürkütücü. Kamera hareketi: Yavaş, hafif bir yakınlaşma (push-in), yaratığın ileri hareketini takip ederek yaklaşan bir felaket hissi yaratır. Kompozisyon: Orta yakın çekim, yaratığın kafasına ve parlayan gözlerine odaklanmış, sığ alan derinliği, karşıdan açı. Atmosfer: Aşırı düşük ışık, yüksek kontrast, derin gölgeler, yaratığın biyolüminesansından kaynaklanan hacimsel aydınlatma, ürkütücü mavi ve beyaz parıltı, karanlık ve soğuk renk paleti.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069493025986772992/img/8Gk6sxDOUOJuGWjW.jpg" width="600" alt="Biyolüminesans Derin Deniz Balığı Sinematik Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6404)**
-
-**Author:** [Vitalii Isaev](https://x.com/restofart) | **Source:** [Link](https://x.com/restofart/status/2069493142080856175) | **Published:** Jun 23, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2234,6 +2244,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-07T08:10:23.069Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-07T11:30:47.731Z</sub>
 
 </div>

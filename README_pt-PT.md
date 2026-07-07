@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2047** |
+| 📝 Total Prompts | **2051** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-07** |
 
@@ -189,6 +189,92 @@ Uma Valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Cena de Diálogo do Guaxinim Pippin
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo narrativo complexo para o Grok Imagine, apresentando um guaxinim fofo chamado Pippin e um dragão chamado Lumi engajados em um diálogo.
+
+#### 📝 Prompt
+
+```
+[agora falando - (o guaxinim é fofo. O nome do guaxinim é Pippin…]
+Princesa
+“Pronto, Pippin?”
+Pippin (ajustando os óculos de proteção)
+“Quase…”
+(um dos óculos escorrega para o lado)
+“…Agora pronto.”
+🐉 Lumi (esperando pacientemente)
+“Não tenha pressa.”
+Pippin
+“Segurança em primeiro lugar....”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074205396571766784/img/7l4P4FiAHqkmi7Hf.jpg" width="600" alt="Cena de Diálogo do Guaxinim Pippin">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6890)**
+
+**Author:** [Carina](https://x.com/Freehere8) | **Source:** [Link](https://x.com/Freehere8/status/2074205457116430719) | **Published:** Jul 6, 2026
+
+---
+### Vídeo de Miragem Superior no Mar Ártico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gera um vídeo surreal de uma miragem Fata Morgana sobre o oceano, com um navio parecendo flutuar sob estruturas semelhantes a castelos.
+
+#### 📝 Prompt
+
+```
+miragem superior Fata Morgana sobre o oceano, um navio distante parecendo flutuar no ar com estruturas distorcidas semelhantes a castelos acima dele, ilusão atmosférica surreal, mar ártico frio, fotografia realista
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074058180124954624/img/GikiyzZpNpFJpdr2.jpg" width="600" alt="Vídeo de Miragem Superior no Mar Ártico">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6891)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2074058236144091448) | **Published:** Jul 6, 2026
+
+---
+### Vídeo de Transição para Casa Futurista
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gera uma transição de vídeo cinematográfica de um livro aberto para uma mulher dentro de uma casa futurista em um arranha-céu com vista para a cidade.
+
+#### 📝 Prompt
+
+```
+livro de romance com páginas abertas próxima transição suave, exatamente a mesma mulher, em ambiente de casa luxuosa em arranha-céu com janelas enormes e limpas com vista para cidade futurista, detalhes extremos, melhor qualidade, sem narração
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074051903214718976/img/xmJwlIssDHniaFT0.jpg" width="600" alt="Vídeo de Transição para Casa Futurista">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6889)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2074051961662455902) | **Published:** Jul 6, 2026
+
+---
+### Vídeo de Letras Flutuantes em Livro Mágico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gera um vídeo de uma pessoa abrindo um livro enquanto letras emergem e flutuam lentamente para cima.
+
+#### 📝 Prompt
+
+```
+O sujeito abre um livro e as letras começam a flutuar lentamente para fora dele
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074032639397277696/img/Lh91rrIjd0aelSCk.jpg" width="600" alt="Vídeo de Letras Flutuantes em Livro Mágico">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6892)**
+
+**Author:** [motana](https://x.com/motana27) | **Source:** [Link](https://x.com/motana27/status/2074032702320267757) | **Published:** Jul 6, 2026
+
+---
 ### Mulher na praia acenando em filme Super 8
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2097,82 +2183,6 @@ A chama de uma única vela refletida em vários cacos de espelho quebrados, cria
 **Author:** [Christine](https://x.com/ChristineJxpxy) | **Source:** [Link](https://x.com/ChristineJxpxy/status/2069538330791035250) | **Published:** Jun 23, 2026
 
 ---
-### Abordagem ao Portal através do Fogo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo narrativo que retrata um personagem se aproximando cautelosamente de um portal desconhecido enquanto caminha através do fogo.
-
-#### 📝 Prompt
-
-```
-ele está se aproximando cautelosamente de um portal desconhecido EU CAMINHANDO ATRAVÉS DO FOGO NOVAMENTE
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069518033781948417/img/0s-mD8zFTi9qPWYU.jpg" width="600" alt="Abordagem ao Portal através do Fogo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6392)**
-
-**Author:** [John Smith](https://x.com/JohnSmithwnbq) | **Source:** [Link](https://x.com/JohnSmithwnbq/status/2069518262119891160) | **Published:** Jun 23, 2026
-
----
-### Loop de Zoom Orgânico Magenta
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de controle de câmera preciso para criar um loop de animação de zoom em formas orgânicas abstratas.
-
-#### 📝 Prompt
-
-```
-Aproxime suavemente a forma orgânica abstrata em tom magenta-rosa com um zoom para revelar detalhes precisos, faça uma pausa breve no ponto mais próximo e, em seguida, afaste lentamente o zoom de volta à distância original, repetindo este ciclo de zoom-pausa-afastamento de forma fluida.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069515860486574080/img/tE0nH4l17oKS3yYu.jpg" width="600" alt="Loop de Zoom Orgânico Magenta">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6399)**
-
-**Author:** [Ember Art](https://x.com/Ember8184Art) | **Source:** [Link](https://x.com/Ember8184Art/status/2069515931265413336) | **Published:** Jun 23, 2026
-
----
-### Dirigível em Pixel Art de 16 bits
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt nostálgico de animação em pixel art para um dirigível extravagante flutuando em um céu brilhante.
-
-#### 📝 Prompt
-
-```
-Pixel art de 16 bits: um dirigível fantástico e extravagante, um grande balão feito de retalhos coloridos inflados com cordas mantendo-o flutuando, voando em um céu azul brilhante. As hélices dianteiras e traseiras giram lentamente. A câmera estática mantém o dirigível centralizado enquanto as nuvens passam, simulando o movimento da aeronave. Sem música. Estilo de animação de videogame retrô pixelizado.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069502866516238336/img/zHYSE8iNVY5V9jWG.jpg" width="600" alt="Dirigível em Pixel Art de 16 bits">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6403)**
-
-**Author:** [Gagaror](https://x.com/theRealGagaror) | **Source:** [Link](https://x.com/theRealGagaror/status/2069502927392084113) | **Published:** Jun 23, 2026
-
----
-### Vídeo cinematográfico de peixe abissal bioluminescente
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cinematográfico detalhado para uma sequência no estilo documentário de natureza, apresentando um peixe bioluminescente ameaçador nas profundezas do oceano.
-
-#### 📝 Prompt
-
-```
-Peixe abissal bioluminescente com pele translúcida fantasmagórica, olhos grandes que brilham em azul e longos filamentos finos flutuando pelo corpo. Contexto: Profundezas abissais do oceano em breu total, água escura com neve marinha flutuante sutil e partículas orgânicas. Ação: A criatura nada lenta e ameaçadoramente para frente, sua mandíbula maciça abre-se gradualmente para revelar fileiras de dentes longos, afiados e semelhantes a agulhas. Seus filamentos ondulam suavemente na correnteza. Estilo: Cinematográfico, fotorrealista, documentário de natureza, terror, fotografia macro, alto detalhamento, perturbador, sinistro. Movimento de câmera: Aproximação lenta e sutil, acompanhando o movimento frontal da criatura, criando uma sensação de perigo iminente. Composição: Plano médio fechado, focado na cabeça e nos olhos brilhantes da criatura, profundidade de campo rasa, ângulo frontal. Ambiente: Luz extremamente baixa, alto contraste, sombras profundas, iluminação volumétrica originada da bioluminescência da criatura, brilho azul e branco sinistro, paleta de cores escura e fria.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069493025986772992/img/8Gk6sxDOUOJuGWjW.jpg" width="600" alt="Vídeo cinematográfico de peixe abissal bioluminescente">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6404)**
-
-**Author:** [Vitalii Isaev](https://x.com/restofart) | **Source:** [Link](https://x.com/restofart/status/2069493142080856175) | **Published:** Jun 23, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2234,6 +2244,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-07T08:10:22.181Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-07T11:30:46.286Z</sub>
 
 </div>

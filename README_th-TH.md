@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2047** |
+| 📝 Total Prompts | **2051** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-07** |
 
@@ -189,6 +189,92 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### ฉากบทสนทนาของแรคคูน Pippin
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอเล่าเรื่องที่ซับซ้อนสำหรับ Grok Imagine ซึ่งมีแรคคูนน่ารักชื่อ Pippin และมังกรชื่อ Lumi กำลังสนทนากัน
+
+#### 📝 Prompt
+
+```
+[กำลังพูดคุย - (แรคคูนน่ารัก แรคคูนชื่อ Pippin…]
+เจ้าหญิง
+“พร้อมหรือยัง Pippin?”
+Pippin (กำลังปรับแว่นตากันลม)
+“เกือบแล้ว…”
+(แว่นตาข้างหนึ่งเลื่อนไปด้านข้าง)
+“…พร้อมแล้ว”
+🐉 Lumi (รออย่างอดทน)
+“ไม่ต้องรีบนะ”
+Pippin
+“ความปลอดภัยต้องมาก่อน....”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074205396571766784/img/7l4P4FiAHqkmi7Hf.jpg" width="600" alt="ฉากบทสนทนาของแรคคูน Pippin">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6890)**
+
+**Author:** [Carina](https://x.com/Freehere8) | **Source:** [Link](https://x.com/Freehere8/status/2074205457116430719) | **Published:** Jul 6, 2026
+
+---
+### วิดีโอปรากฏการณ์มิราจเหนือทะเลอาร์กติก
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> สร้างวิดีโอเหนือจริงของปรากฏการณ์มิราจแบบ Fata Morgana เหนือมหาสมุทร โดยมีเรือที่ดูเหมือนลอยอยู่ใต้โครงสร้างคล้ายปราสาท
+
+#### 📝 Prompt
+
+```
+ปรากฏการณ์มิราจแบบ Fata Morgana เหนือมหาสมุทร, เรือที่อยู่ไกลออกไปดูเหมือนลอยอยู่กลางอากาศโดยมีโครงสร้างคล้ายปราสาทบิดเบี้ยวอยู่ด้านบน, ภาพลวงตาทางบรรยากาศที่เหนือจริง, ทะเลอาร์กติกที่หนาวเย็น, ภาพถ่ายสมจริง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074058180124954624/img/GikiyzZpNpFJpdr2.jpg" width="600" alt="วิดีโอปรากฏการณ์มิราจเหนือทะเลอาร์กติก">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6891)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2074058236144091448) | **Published:** Jul 6, 2026
+
+---
+### วิดีโอเปลี่ยนฉากบ้านแห่งอนาคต
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> สร้างวิดีโอเปลี่ยนฉากแบบภาพยนตร์จากหนังสือที่เปิดอยู่ ไปสู่ภาพผู้หญิงภายในบ้านพักอาศัยสุดหรูบนตึกสูงที่มองเห็นวิวเมืองแห่งอนาคต
+
+#### 📝 Prompt
+
+```
+novel book with open pages next smooth transition, same exact woman, in high-rise luxurious home environment with enormous clean windows overlooking futuristic city, extreme details, best quality, no narration
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074051903214718976/img/xmJwlIssDHniaFT0.jpg" width="600" alt="วิดีโอเปลี่ยนฉากบ้านแห่งอนาคต">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6889)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2074051961662455902) | **Published:** Jul 6, 2026
+
+---
+### วิดีโอตัวอักษรลอยออกจากหนังสือเวทมนตร์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> สร้างวิดีโอของบุคคลที่กำลังเปิดหนังสือ โดยมีตัวอักษรค่อย ๆ ลอยขึ้นมาจากหนังสือ
+
+#### 📝 Prompt
+
+```
+ตัวละครเปิดหนังสือออก แล้วตัวอักษรจากในเล่มก็เริ่มค่อย ๆ ลอยขึ้นมาจากหนังสือ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074032639397277696/img/Lh91rrIjd0aelSCk.jpg" width="600" alt="วิดีโอตัวอักษรลอยออกจากหนังสือเวทมนตร์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6892)**
+
+**Author:** [motana](https://x.com/motana27) | **Source:** [Link](https://x.com/motana27/status/2074032702320267757) | **Published:** Jul 6, 2026
+
+---
 ### วิดีโอฟิล์ม Super 8 ผู้หญิงโบกมือที่ชายหาด
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2097,82 +2183,6 @@ Elena ก้าวผ่านประตูมิติที่ส่อง�
 **Author:** [Christine](https://x.com/ChristineJxpxy) | **Source:** [Link](https://x.com/ChristineJxpxy/status/2069538330791035250) | **Published:** Jun 23, 2026
 
 ---
-### วิธีการเข้าสู่พอร์ทัลผ่านกองเพลิง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอเชิงบรรยายที่แสดงภาพตัวละครกำลังเดินผ่านกองเพลิงอย่างระมัดระวังเพื่อเข้าใกล้พอร์ทัลปริศนา
-
-#### 📝 Prompt
-
-```
-เขากำลังเดินเข้าใกล้พอร์ทัลปริศนาอย่างระมัดระวัง ในขณะที่ฉันกำลังเดินผ่านกองเพลิงอีกครั้ง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069518033781948417/img/0s-mD8zFTi9qPWYU.jpg" width="600" alt="วิธีการเข้าสู่พอร์ทัลผ่านกองเพลิง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6392)**
-
-**Author:** [John Smith](https://x.com/JohnSmithwnbq) | **Source:** [Link](https://x.com/JohnSmithwnbq/status/2069518262119891160) | **Published:** Jun 23, 2026
-
----
-### Magenta Organic Zoom Loop
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่งควบคุมกล้องที่แม่นยำสำหรับการทำภาพเคลื่อนไหวแบบซูมวนลูปบนรูปทรงออร์แกนิกแบบนามธรรม
-
-#### 📝 Prompt
-
-```
-ค่อย ๆ เคลื่อนรูปทรงออร์แกนิกสีชมพูอมม่วงแบบนามธรรมเข้ามาใกล้ขึ้นด้วยการซูมเข้าเพื่อเผยให้เห็นรายละเอียดที่ชัดเจน หยุดพักชั่วครู่ที่จุดที่ใกล้ที่สุด จากนั้นค่อย ๆ ซูมออกกลับไปยังระยะเดิม และทำซ้ำวงจรการซูมเข้า-หยุดพัก-ซูมออกนี้อย่างต่อเนื่องและลื่นไหล
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069515860486574080/img/tE0nH4l17oKS3yYu.jpg" width="600" alt="Magenta Organic Zoom Loop">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6399)**
-
-**Author:** [Ember Art](https://x.com/Ember8184Art) | **Source:** [Link](https://x.com/Ember8184Art/status/2069515931265413336) | **Published:** Jun 23, 2026
-
----
-### เรือเหาะสไตล์พิกเซลอาร์ต 16-บิต
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับสร้างแอนิเมชันพิกเซลอาร์ตสุดคลาสสิกของเรือเหาะแสนสนุกที่ลอยอยู่บนท้องฟ้าอันสดใส
-
-#### 📝 Prompt
-
-```
-พิกเซลอาร์ต 16-บิต: เรือเหาะสุดแฟนตาซีและแปลกตา ตัวเรือเป็นบอลลูนผ้าห่มหลากสีขนาดใหญ่ที่มีเชือกยึดไว้ ลอยอยู่บนท้องฟ้าสีครามสดใส ใบพัดด้านหน้าและด้านหลังหมุนอย่างช้าๆ กล้องตั้งนิ่งอยู่กับที่โดยให้เรือเหาะอยู่ตรงกลาง ในขณะที่ก้อนเมฆเคลื่อนผ่านเพื่อจำลองการเคลื่อนที่ของเรือเหาะ ไม่มีดนตรีประกอบ สไตล์แอนิเมชันวิดีโอเกมพิกเซลย้อนยุค
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069502866516238336/img/zHYSE8iNVY5V9jWG.jpg" width="600" alt="เรือเหาะสไตล์พิกเซลอาร์ต 16-บิต">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6403)**
-
-**Author:** [Gagaror](https://x.com/theRealGagaror) | **Source:** [Link](https://x.com/theRealGagaror/status/2069502927392084113) | **Published:** Jun 23, 2026
-
----
-### วิดีโอภาพยนตร์ปลาทะเลลึกเรืองแสง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวภาพยนตร์ที่มีรายละเอียดสำหรับฉากสไตล์สารคดีธรรมชาติ นำเสนอภาพปลาเรืองแสงสุดน่าเกรงขามในมหาสมุทรลึก
-
-#### 📝 Prompt
-
-```
-ปลาทะเลลึกเรืองแสงที่มีผิวหนังโปร่งแสงดูหลอน ดวงตาสีฟ้าขนาดใหญ่ที่ส่องสว่าง และเส้นใยยาวบางเบาที่พริ้วไหวจากลำตัว บริบท: ความมืดมิดของมหาสมุทรลึก น้ำที่มืดสนิทพร้อมละอองหิมะทะเลและเศษซากอินทรีย์ที่ลอยอยู่เบาบาง การเคลื่อนไหว: สิ่งมีชีวิตว่ายช้าๆ อย่างคุกคามไปข้างหน้า ขากรรไกรขนาดใหญ่ค่อยๆ อ้าออกเผยให้เห็นฟันแหลมคมยาวเหมือนเข็ม เส้นใยของมันพริ้วไหวอย่างนุ่มนวลตามกระแสน้ำ สไตล์: ภาพยนตร์, สมจริงเหมือนภาพถ่าย, สารคดีธรรมชาติ, สยองขวัญ, การถ่ายภาพมาโคร, รายละเอียดสูง, น่าขนลุก, ชวนผวา การเคลื่อนไหวของกล้อง: เคลื่อนเข้าช้าๆ อย่างนุ่มนวล ติดตามการเคลื่อนที่ไปข้างหน้าของสิ่งมีชีวิต สร้างความรู้สึกถึงหายนะที่กำลังจะมาถึง องค์ประกอบภาพ: ภาพระยะใกล้ปานกลาง เน้นที่หัวและดวงตาที่เรืองแสงของสิ่งมีชีวิต ระยะชัดลึกตื้น มุมกล้องแบบตรงหน้า บรรยากาศ: แสงน้อยมาก คอนทราสต์สูง เงาลึก แสงเชิงปริมาตรที่มาจากแสงเรืองของสิ่งมีชีวิต แสงสีฟ้าและสีขาวที่น่าขนลุก โทนสีมืดและเย็น
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069493025986772992/img/8Gk6sxDOUOJuGWjW.jpg" width="600" alt="วิดีโอภาพยนตร์ปลาทะเลลึกเรืองแสง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6404)**
-
-**Author:** [Vitalii Isaev](https://x.com/restofart) | **Source:** [Link](https://x.com/restofart/status/2069493142080856175) | **Published:** Jun 23, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2234,6 +2244,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-07T08:10:12.594Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-07T11:30:34.067Z</sub>
 
 </div>

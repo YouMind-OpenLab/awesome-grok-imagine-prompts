@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **2047** |
+| 📝 提示词总数 | **2051** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-07-07** |
 
@@ -189,6 +189,92 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 浣熊 Pippin 对话场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个为 Grok Imagine 设计的复杂叙事视频提示词，讲述了一只名叫 Pippin 的可爱浣熊与一条名叫 Lumi 的龙进行对话的故事。
+
+#### 📝 提示词
+
+```
+[正在对话 - (浣熊很可爱。浣熊的名字叫 Pippin…]
+公主
+“准备好了吗，Pippin？”
+Pippin (调整护目镜)
+“快了……”
+(一只护目镜滑向一边)
+“……现在准备好了。”
+🐉 Lumi (耐心地等待)
+“慢慢来。”
+Pippin
+“安全第一……”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074205396571766784/img/7l4P4FiAHqkmi7Hf.jpg" width="600" alt="浣熊 Pippin 对话场景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6890)**
+
+**作者:** [Carina](https://x.com/Freehere8) | **来源:** [Link](https://x.com/Freehere8/status/2074205457116430719) | **发布时间:** Jul 6, 2026
+
+---
+### 北极海面海市蜃楼视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 生成一段超现实的北极海面海市蜃楼视频，画面中一艘船仿佛悬浮在城堡般的结构下方。
+
+#### 📝 提示词
+
+```
+海面上的摩根海市蜃楼，远处的一艘船仿佛悬浮在空中，上方有扭曲的城堡状结构，超现实的大气幻象，寒冷的北极海域，写实摄影
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074058180124954624/img/GikiyzZpNpFJpdr2.jpg" width="600" alt="北极海面海市蜃楼视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6891)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2074058236144091448) | **发布时间:** Jul 6, 2026
+
+---
+### 未来感家居转场视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 生成一段电影级的视频转场，从一本打开的书平滑过渡到一位身处未来感高层住宅、坐拥城市景观的女性。
+
+#### 📝 提示词
+
+```
+novel book with open pages next smooth transition, same exact woman, in high-rise luxurious home environment with enormous clean windows overlooking futuristic city, extreme details, best quality, no narration
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074051903214718976/img/xmJwlIssDHniaFT0.jpg" width="600" alt="未来感家居转场视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6889)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2074051961662455902) | **发布时间:** Jul 6, 2026
+
+---
+### Magic Book Floating Letters Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 生成一段视频：一个人打开书本，书中的文字缓缓浮现并向上飘动。
+
+#### 📝 提示词
+
+```
+主体打开书本，书中的文字开始从书页中缓缓浮现并向上飘动
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074032639397277696/img/Lh91rrIjd0aelSCk.jpg" width="600" alt="Magic Book Floating Letters Video">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6892)**
+
+**作者:** [motana](https://x.com/motana27) | **来源:** [Link](https://x.com/motana27/status/2074032702320267757) | **发布时间:** Jul 6, 2026
+
+---
 ### Super 8 胶片风格海滩女性挥手
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2097,82 +2183,6 @@ Elena 穿过闪烁的传送门，进入广阔的 Playroom，她环顾四周，�
 **作者:** [Christine](https://x.com/ChristineJxpxy) | **来源:** [Link](https://x.com/ChristineJxpxy/status/2069538330791035250) | **发布时间:** Jun 23, 2026
 
 ---
-### 穿越火海的传送门
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段叙事性视频提示词，描绘了一个角色在穿越火海时小心翼翼地靠近未知传送门的场景。
-
-#### 📝 提示词
-
-```
-他正小心翼翼地靠近一个未知的传送门，我再次穿越火海
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069518033781948417/img/0s-mD8zFTi9qPWYU.jpg" width="600" alt="穿越火海的传送门">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6392)**
-
-**作者:** [John Smith](https://x.com/JohnSmithwnbq) | **来源:** [Link](https://x.com/JohnSmithwnbq/status/2069518262119891160) | **发布时间:** Jun 23, 2026
-
----
-### 洋红色有机形态缩放循环
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个精确的摄像机控制提示词，用于在抽象有机形态上实现循环缩放动画。
-
-#### 📝 提示词
-
-```
-平滑地放大视角，使抽象的洋红色有机形态靠近以呈现精细细节，在最近点稍作停顿，然后缓慢缩放回原始距离，并在此过程中流畅地重复“放大-停顿-缩小”的循环。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069515860486574080/img/tE0nH4l17oKS3yYu.jpg" width="600" alt="洋红色有机形态缩放循环">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6399)**
-
-**作者:** [Ember Art](https://x.com/Ember8184Art) | **来源:** [Link](https://x.com/Ember8184Art/status/2069515931265413336) | **发布时间:** Jun 23, 2026
-
----
-### 16 位像素艺术飞艇
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个怀旧的像素艺术动画提示词，描绘了一艘在明亮天空中漂浮的奇幻飞艇。
-
-#### 📝 提示词
-
-```
-16 位像素艺术：一艘奇幻而古怪的飞艇，巨大的充气式彩色拼布飞艇，由绳索固定，在明亮的蓝天中飞行。前后螺旋桨缓慢旋转。静态固定摄像机使飞艇保持在中心位置，同时云朵飘过，模拟飞艇的移动效果。无音乐。复古像素化电子游戏动画风格。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069502866516238336/img/zHYSE8iNVY5V9jWG.jpg" width="600" alt="16 位像素艺术飞艇">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6403)**
-
-**作者:** [Gagaror](https://x.com/theRealGagaror) | **来源:** [Link](https://x.com/theRealGagaror/status/2069502927392084113) | **发布时间:** Jun 23, 2026
-
----
-### 深海生物发光鱼电影级视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段详细的电影级视频提示词，适用于自然纪录片风格的片段，展示深海中一条极具威胁性的生物发光鱼。
-
-#### 📝 提示词
-
-```
-生物发光深海鱼，拥有幽灵般的半透明皮肤、巨大的蓝色发光眼睛，以及从身体延伸出的长而细的丝状物。背景：漆黑的深海海底，深色的海水中漂浮着细微的海洋雪和有机颗粒。动作：生物缓慢而充满威胁地向前游动，巨大的下颚逐渐张开，露出成排长而锋利的针状牙齿。它的丝状物在水流中轻轻摆动。风格：电影感、照片级真实感、自然纪录片、恐怖、微距摄影、高细节、令人不安、诡异。摄像机运动：缓慢、细微的推镜头，追踪生物的前进动作，营造出一种迫在眉睫的压迫感。构图：中景特写，聚焦于生物的头部和发光的眼睛，浅景深，正面视角。氛围：极低光照、高对比度、深阴影、源自生物自身生物发光的体积光，诡异的蓝白色光芒，深色且冰冷的色调。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069493025986772992/img/8Gk6sxDOUOJuGWjW.jpg" width="600" alt="深海生物发光鱼电影级视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6404)**
-
-**作者:** [Vitalii Isaev](https://x.com/restofart) | **来源:** [Link](https://x.com/restofart/status/2069493142080856175) | **发布时间:** Jun 23, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2234,6 +2244,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-07-07T08:10:08.457Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-07-07T11:30:27.780Z</sub>
 
 </div>

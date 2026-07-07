@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2047** |
+| 📝 Total Prompts | **2051** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-07** |
 
@@ -189,6 +189,92 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Dialogszene mit Waschbär Pippin
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein komplexer narrativer Video-Prompt für Grok Imagine, in dem ein niedlicher Waschbär namens Pippin und ein Drache namens Lumi ein Gespräch führen.
+
+#### 📝 Prompt
+
+```
+[jetzt im Gespräch - (Waschbär ist niedlich. Waschbär heißt Pippin…]
+Prinzessin
+„Bereit, Pippin?“
+Pippin (rückt seine Schutzbrille zurecht)
+„Fast…“
+(ein Glas der Brille rutscht zur Seite)
+„…Jetzt bereit.“
+🐉 Lumi (wartet geduldig)
+„Lass dir Zeit.“
+Pippin
+„Sicherheit geht vor....“
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074205396571766784/img/7l4P4FiAHqkmi7Hf.jpg" width="600" alt="Dialogszene mit Waschbär Pippin">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6890)**
+
+**Author:** [Carina](https://x.com/Freehere8) | **Source:** [Link](https://x.com/Freehere8/status/2074205457116430719) | **Published:** Jul 6, 2026
+
+---
+### Video einer Fata Morgana über dem Arktischen Ozean
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Erzeugt ein surreales Video einer Fata Morgana über dem Ozean, bei dem ein Schiff unter schlossartigen Strukturen zu schweben scheint.
+
+#### 📝 Prompt
+
+```
+überlegene Fata Morgana über dem Ozean, ein entferntes Schiff, das in der Luft zu schweben scheint, mit verzerrten, schlossartigen Strukturen darüber, surreale atmosphärische Illusion, kaltes arktisches Meer, realistische Fotografie
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074058180124954624/img/GikiyzZpNpFJpdr2.jpg" width="600" alt="Video einer Fata Morgana über dem Arktischen Ozean">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6891)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2074058236144091448) | **Published:** Jul 6, 2026
+
+---
+### Futuristisches Video-Übergangsszenario für Zuhause
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Erzeugt einen filmischen Videoübergang von einem aufgeschlagenen Buch zu einer Frau in einem futuristischen Hochhaus-Apartment mit Stadtblick.
+
+#### 📝 Prompt
+
+```
+Roman mit aufgeschlagenen Seiten, nahtloser Übergang, dieselbe Frau, in einer luxuriösen Hochhaus-Wohnung mit riesigen, sauberen Fenstern und Blick auf eine futuristische Stadt, extreme Details, beste Qualität, keine Erzählung
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074051903214718976/img/xmJwlIssDHniaFT0.jpg" width="600" alt="Futuristisches Video-Übergangsszenario für Zuhause">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6889)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2074051961662455902) | **Published:** Jul 6, 2026
+
+---
+### Video von schwebenden Buchstaben aus einem Zauberbuch
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Erzeugt ein Video, in dem eine Person ein Buch öffnet, während Buchstaben daraus hervortreten und langsam nach oben schweben.
+
+#### 📝 Prompt
+
+```
+Die Person öffnet ein Buch, woraufhin Buchstaben aus dem Buch langsam nach oben schweben.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074032639397277696/img/Lh91rrIjd0aelSCk.jpg" width="600" alt="Video von schwebenden Buchstaben aus einem Zauberbuch">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6892)**
+
+**Author:** [motana](https://x.com/motana27) | **Source:** [Link](https://x.com/motana27/status/2074032702320267757) | **Published:** Jul 6, 2026
+
+---
 ### Super-8-Film Frau am Strand winkt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2097,82 +2183,6 @@ Eine einzelne Kerzenflamme, die sich in vielen zerbrochenen Spiegelscherben spie
 **Author:** [Christine](https://x.com/ChristineJxpxy) | **Source:** [Link](https://x.com/ChristineJxpxy/status/2069538330791035250) | **Published:** Jun 23, 2026
 
 ---
-### Portal-Ansatz durch das Feuer
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein narrativer Video-Prompt, der eine Figur zeigt, die sich vorsichtig einem unbekannten Portal nähert, während sie durch Feuer geht.
-
-#### 📝 Prompt
-
-```
-er nähert sich vorsichtig einem unbekannten Portal, WÄHREND ICH WIEDER DURCH DAS FEUER GEHE
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069518033781948417/img/0s-mD8zFTi9qPWYU.jpg" width="600" alt="Portal-Ansatz durch das Feuer">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6392)**
-
-**Author:** [John Smith](https://x.com/JohnSmithwnbq) | **Source:** [Link](https://x.com/JohnSmithwnbq/status/2069518262119891160) | **Published:** Jun 23, 2026
-
----
-### Magenta Organic Zoom Loop
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein präziser Kamerasteuerungs-Prompt für eine Zoom-Animation, die organische abstrakte Formen in einer Endlosschleife zeigt.
-
-#### 📝 Prompt
-
-```
-Lassen Sie die abstrakte magentafarbene organische Form durch sanftes Hineinzoomen näher herankommen, um feine Details sichtbar zu machen. Halten Sie am nächsten Punkt kurz inne und zoomen Sie dann langsam wieder auf die ursprüngliche Distanz zurück. Wiederholen Sie diesen Zyklus aus Hineinzoomen, Innehalten und Herauszoomen fließend während der gesamten Dauer.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069515860486574080/img/tE0nH4l17oKS3yYu.jpg" width="600" alt="Magenta Organic Zoom Loop">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6399)**
-
-**Author:** [Ember Art](https://x.com/Ember8184Art) | **Source:** [Link](https://x.com/Ember8184Art/status/2069515931265413336) | **Published:** Jun 23, 2026
-
----
-### 16-Bit Pixel-Art-Luftschiff
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein nostalgischer Pixel-Art-Animations-Prompt für ein skurriles Luftschiff, das durch einen hellen Himmel schwebt.
-
-#### 📝 Prompt
-
-```
-16-Bit-Pixel-Art: ein fantastisches und skurriles Luftschiff, ein großer, aufgeblähter, mehrfarbiger Stoff-Zeppelin, der mit Seilen in der Luft gehalten wird und durch den strahlend blauen Himmel fliegt. Die vorderen und hinteren Propeller drehen sich langsam. Eine statische, unbewegliche Kamera hält das Luftschiff in der Mitte, während die vorbeiziehenden Wolken die Bewegung des Luftschiffs simulieren. Keine Musik. Animierter Grafikstil eines klassischen Pixel-Art-Videospiels.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069502866516238336/img/zHYSE8iNVY5V9jWG.jpg" width="600" alt="16-Bit Pixel-Art-Luftschiff">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6403)**
-
-**Author:** [Gagaror](https://x.com/theRealGagaror) | **Source:** [Link](https://x.com/theRealGagaror/status/2069502927392084113) | **Published:** Jun 23, 2026
-
----
-### Filmreifes Video eines biolumineszenten Tiefseefisches
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter, filmreifer Video-Prompt für eine Sequenz im Stil einer Naturdokumentation, die einen bedrohlichen biolumineszenten Fisch in der Tiefsee zeigt.
-
-#### 📝 Prompt
-
-```
-Biolumineszenter Tiefseefisch mit geisterhafter, durchscheinender Haut, großen leuchtend blauen Augen und langen, feinen Filamenten, die von seinem Körper abstehen. Kontext: Pechschwarze Tiefsee, dunkles Wasser mit dezent treibendem Meeresschnee und organischen Partikeln. Aktion: Die Kreatur schwimmt langsam und bedrohlich vorwärts, ihr massiver Kiefer öffnet sich allmählich und enthüllt Reihen langer, scharfer, nadelartiger Zähne. Die Filamente wiegen sich sanft in der Strömung. Stil: Filmreif, fotorealistisch, Naturdokumentation, Horror, Makrofotografie, detailreich, beunruhigend, unheimlich. Kamerabewegung: Langsames, subtiles Hineinfahren, das der Vorwärtsbewegung der Kreatur folgt und ein Gefühl von drohendem Unheil erzeugt. Komposition: Halbnahaufnahme, fokussiert auf den Kopf und die leuchtenden Augen der Kreatur, geringe Schärfentiefe, frontale Perspektive. Atmosphäre: Extrem schwaches Licht, hoher Kontrast, tiefe Schatten, volumetrische Beleuchtung durch die Biolumineszenz der Kreatur, unheimliches blaues und weißes Leuchten, dunkle und kalte Farbpalette.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069493025986772992/img/8Gk6sxDOUOJuGWjW.jpg" width="600" alt="Filmreifes Video eines biolumineszenten Tiefseefisches">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6404)**
-
-**Author:** [Vitalii Isaev](https://x.com/restofart) | **Source:** [Link](https://x.com/restofart/status/2069493142080856175) | **Published:** Jun 23, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2234,6 +2244,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-07T08:10:17.916Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-07T11:30:40.621Z</sub>
 
 </div>

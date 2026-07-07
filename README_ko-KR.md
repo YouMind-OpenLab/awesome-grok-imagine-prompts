@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **2047** |
+| 📝 총 프롬프트 수 | **2051** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-07-07** |
 
@@ -189,6 +189,92 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 너구리 피핀(Pippin) 대화 장면
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 귀여운 너구리 피핀과 용 루미(Lumi)가 대화를 나누는 모습을 담은 Grok Imagine용 복합 서사 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+[대화 중 - (너구리가 귀엽다. 너구리의 이름은 피핀…)]
+공주
+“준비됐니, 피핀?”
+피핀 (고글을 고쳐 쓰며)
+“거의 다…”
+(고글 한쪽이 옆으로 흘러내린다)
+“…이제 됐어.”
+🐉 루미 (참을성 있게 기다리며)
+“천천히 해도 돼.”
+피핀
+“안전이 제일이니까….”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074205396571766784/img/7l4P4FiAHqkmi7Hf.jpg" width="600" alt="너구리 피핀(Pippin) 대화 장면">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6890)**
+
+**작성자:** [Carina](https://x.com/Freehere8) | **출처:** [Link](https://x.com/Freehere8/status/2074205457116430719) | **게시일:** Jul 6, 2026
+
+---
+### 북극해의 상위 신기루 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 바다 위에서 나타나는 파타 모르가나(Fata Morgana) 신기루의 초현실적인 영상을 생성합니다. 마치 성 같은 구조물 아래로 배가 공중에 떠 있는 듯한 모습을 연출합니다.
+
+#### 📝 프롬프트
+
+```
+바다 위 파타 모르가나 상위 신기루, 공중에 떠 있는 것처럼 보이는 먼바다의 배와 그 위로 왜곡된 성 모양의 구조물, 초현실적인 대기 현상, 차가운 북극해, 사실적인 사진
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074058180124954624/img/GikiyzZpNpFJpdr2.jpg" width="600" alt="북극해의 상위 신기루 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6891)**
+
+**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2074058236144091448) | **게시일:** Jul 6, 2026
+
+---
+### 미래형 주택 전환 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 펼쳐진 책에서 도시 전망이 보이는 미래형 고층 주택 속 여성으로 이어지는 영화 같은 영상 전환을 생성합니다.
+
+#### 📝 프롬프트
+
+```
+novel book with open pages next smooth transition, same exact woman, in high-rise luxurious home environment with enormous clean windows overlooking futuristic city, extreme details, best quality, no narration
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074051903214718976/img/xmJwlIssDHniaFT0.jpg" width="600" alt="미래형 주택 전환 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6889)**
+
+**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2074051961662455902) | **게시일:** Jul 6, 2026
+
+---
+### 매직 북 플로팅 레터 비디오
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 책을 펼치면 글자들이 나타나 천천히 위로 떠오르는 영상을 생성합니다.
+
+#### 📝 프롬프트
+
+```
+피사체가 책을 펼치면 책 속의 글자들이 천천히 위로 떠오르기 시작합니다
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074032639397277696/img/Lh91rrIjd0aelSCk.jpg" width="600" alt="매직 북 플로팅 레터 비디오">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6892)**
+
+**작성자:** [motana](https://x.com/motana27) | **출처:** [Link](https://x.com/motana27/status/2074032702320267757) | **게시일:** Jul 6, 2026
+
+---
 ### 슈퍼 8 필름 해변 여성 손 흔드는 장면
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2097,82 +2183,6 @@ Elena 가 반짝이는 포털을 지나 광활한 Playroom 으로 들어서며 �
 **작성자:** [Christine](https://x.com/ChristineJxpxy) | **출처:** [Link](https://x.com/ChristineJxpxy/status/2069538330791035250) | **게시일:** Jun 23, 2026
 
 ---
-### 불길을 뚫고 포털로 향하는 접근
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 불길 속을 걸으며 미지의 포털에 조심스럽게 다가가는 캐릭터를 묘사한 내러티브 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-그는 미지의 포털에 조심스럽게 다가가고 있다. 나는 다시 불길 속을 걷고 있다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069518033781948417/img/0s-mD8zFTi9qPWYU.jpg" width="600" alt="불길을 뚫고 포털로 향하는 접근">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6392)**
-
-**작성자:** [John Smith](https://x.com/JohnSmithwnbq) | **출처:** [Link](https://x.com/JohnSmithwnbq/status/2069518262119891160) | **게시일:** Jun 23, 2026
-
----
-### 마젠타 유기적 줌 루프
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 추상적인 유기적 형태에 대한 줌 애니메이션을 반복하기 위한 정밀한 카메라 제어 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-추상적인 마젠타 핑크색 유기적 형태를 줌인하여 미세한 디테일이 드러나도록 부드럽게 가까이 가져온 뒤, 가장 가까운 지점에서 잠시 멈추고, 다시 천천히 원래 거리로 줌아웃하는 과정을 반복하며 이 줌인-일시정지-줌아웃 주기를 전체적으로 매끄럽게 유지하세요.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069515860486574080/img/tE0nH4l17oKS3yYu.jpg" width="600" alt="마젠타 유기적 줌 루프">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6399)**
-
-**작성자:** [Ember Art](https://x.com/Ember8184Art) | **출처:** [Link](https://x.com/Ember8184Art/status/2069515931265413336) | **게시일:** Jun 23, 2026
-
----
-### 16비트 픽셀 아트 비행선
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 밝은 하늘을 떠다니는 기발한 비행선을 위한 향수를 불러일으키는 픽셀 아트 애니메이션 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-16비트 픽셀 아트: 환상적이고 기발한 비행선, 다채로운 천 조각을 이어 붙인 듯한 커다란 풍선과 이를 고정하는 밧줄이 달린 비행선이 밝고 푸른 하늘을 날고 있습니다. 앞뒤 프로펠러가 천천히 회전합니다. 고정된 카메라가 비행선을 중앙에 유지하는 동안 구름이 지나가며 비행선이 움직이는 듯한 효과를 줍니다. 음악 없음. 빈티지 픽셀 비디오 게임 애니메이션 스타일.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069502866516238336/img/zHYSE8iNVY5V9jWG.jpg" width="600" alt="16비트 픽셀 아트 비행선">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6403)**
-
-**작성자:** [Gagaror](https://x.com/theRealGagaror) | **출처:** [Link](https://x.com/theRealGagaror/status/2069502927392084113) | **게시일:** Jun 23, 2026
-
----
-### 심해 발광어 시네마틱 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 심해의 위협적인 발광어를 다룬 자연 다큐멘터리 스타일의 시퀀스를 위한 상세한 시네마틱 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-유령처럼 반투명한 피부와 거대하고 빛나는 푸른 눈, 몸에서 길게 늘어진 가느다란 필라멘트를 가진 심해 발광어. 배경: 칠흑 같은 심해, 미세한 해양 설(marine snow)과 유기물 입자가 떠다니는 어두운 물속. 동작: 생명체가 천천히 위협적으로 앞으로 헤엄치며, 거대한 턱이 서서히 열리면서 길고 날카로운 바늘 같은 이빨이 드러남. 필라멘트가 해류에 따라 부드럽게 물결침. 스타일: 시네마틱, 사실적(photorealistic), 자연 다큐멘터리, 호러, 매크로 사진, 고해상도, 불안함, 기괴함. 카메라 움직임: 생명체의 전진을 따라가는 느리고 미세한 푸시인(push-in) 기법으로 임박한 파멸의 느낌을 조성. 구도: 생명체의 머리와 빛나는 눈에 초점을 맞춘 미디엄 클로즈업 샷, 얕은 피사계 심도, 정면 앵글. 분위기: 극도로 낮은 조도, 높은 대비, 깊은 그림자, 생명체의 생물 발광에서 비롯된 볼류메트릭 라이팅(volumetric lighting), 기괴한 푸른색과 흰색의 빛, 어둡고 차가운 색감.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069493025986772992/img/8Gk6sxDOUOJuGWjW.jpg" width="600" alt="심해 발광어 시네마틱 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6404)**
-
-**작성자:** [Vitalii Isaev](https://x.com/restofart) | **출처:** [Link](https://x.com/restofart/status/2069493142080856175) | **게시일:** Jun 23, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2234,6 +2244,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-07T08:10:11.604Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-07T11:30:32.523Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2047** |
+| 📝 プロンプト総数 | **2051** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-07-07** |
 
@@ -189,6 +189,92 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### アライグマのピピンの対話シーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 用の複雑なナラティブ動画プロンプト。かわいいアライグマのピピンとドラゴンのルミが対話する様子を描いています。
+
+#### 📝 プロンプト
+
+```
+[会話中 - (アライグマはかわいい。アライグマの名前はピピン…]
+プリンセス
+「準備はいい、ピピン？」
+ピピン (ゴーグルを調整しながら)
+「もう少しだけ…」
+(ゴーグルが片方ずれる)
+「…よし、準備完了。」
+🐉 ルミ (辛抱強く待っている)
+「ゆっくりでいいよ。」
+ピピン
+「安全第一だからね…。」
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074205396571766784/img/7l4P4FiAHqkmi7Hf.jpg" width="600" alt="アライグマのピピンの対話シーン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6890)**
+
+**作者:** [Carina](https://x.com/Freehere8) | **ソース:** [Link](https://x.com/Freehere8/status/2074205457116430719) | **公開日:** Jul 6, 2026
+
+---
+### 北極海の蜃気楼（上位蜃気楼）の動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 海上に現れる蜃気楼（ファタ・モルガーナ）の超現実的な動画を生成します。船がまるで城のような構造物の下で浮いているかのように見える光景を描写します。
+
+#### 📝 プロンプト
+
+```
+海上に現れる上位蜃気楼（ファタ・モルガーナ）、空中に浮かんでいるように見える遠くの船、その上部に歪んだ城のような構造物、超現実的な大気の錯覚、冷たい北極海、リアルな写真
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074058180124954624/img/GikiyzZpNpFJpdr2.jpg" width="600" alt="北極海の蜃気楼（上位蜃気楼）の動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6891)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2074058236144091448) | **公開日:** Jul 6, 2026
+
+---
+### 近未来的な住宅へのトランジション動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 開いた本から、都会の景色を望む近未来的な高層住宅にいる女性へと切り替わる、映画のような動画トランジションを生成します。
+
+#### 📝 プロンプト
+
+```
+開いたページのある小説本からスムーズに切り替わり、同一の女性が、近未来都市を見下ろす巨大で清潔な窓のある豪華な高層住宅の環境にいる様子、極めて詳細、最高品質、ナレーションなし
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074051903214718976/img/xmJwlIssDHniaFT0.jpg" width="600" alt="近未来的な住宅へのトランジション動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6889)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2074051961662455902) | **公開日:** Jul 6, 2026
+
+---
+### 魔法の本と浮かび上がる文字の動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 人が本を開くと、中から文字が浮かび上がり、ゆっくりと上昇していく動画を生成します。
+
+#### 📝 プロンプト
+
+```
+被写体が本を開くと、本の中から文字が現れ、ゆっくりと浮かび上がっていきます
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074032639397277696/img/Lh91rrIjd0aelSCk.jpg" width="600" alt="魔法の本と浮かび上がる文字の動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6892)**
+
+**作者:** [motana](https://x.com/motana27) | **ソース:** [Link](https://x.com/motana27/status/2074032702320267757) | **公開日:** Jul 6, 2026
+
+---
 ### スーパー 8 フィルム風：ビーチで手を振る女性
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2097,82 +2183,6 @@ Elena が輝くポータルを通り抜け、広大な Playroom へと足を踏�
 **作者:** [Christine](https://x.com/ChristineJxpxy) | **ソース:** [Link](https://x.com/ChristineJxpxy/status/2069538330791035250) | **公開日:** Jun 23, 2026
 
 ---
-### 炎を抜けてポータルへ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 炎の中を歩きながら、未知のポータルに慎重に近づくキャラクターを描いたナラティブビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-彼は未知のポータルに慎重に近づいている。私は再び炎の中を歩いている。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069518033781948417/img/0s-mD8zFTi9qPWYU.jpg" width="600" alt="炎を抜けてポータルへ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6392)**
-
-**作者:** [John Smith](https://x.com/JohnSmithwnbq) | **ソース:** [Link](https://x.com/JohnSmithwnbq/status/2069518262119891160) | **公開日:** Jun 23, 2026
-
----
-### マゼンタ・オーガニック・ズーム・ループ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 抽象的な有機的フォルムのズームアニメーションをループさせるための、精密なカメラコントロールプロンプトです。
-
-#### 📝 プロンプト
-
-```
-マゼンタピンクの抽象的な有機的フォルムを、ズームインして細部を明らかにしながら滑らかに近づけ、最も近い地点で一時停止した後、元の距離までゆっくりとズームアウトします。この「ズームイン・一時停止・ズームアウト」のサイクルを全体を通して流れるように繰り返してください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069515860486574080/img/tE0nH4l17oKS3yYu.jpg" width="600" alt="マゼンタ・オーガニック・ズーム・ループ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6399)**
-
-**作者:** [Ember Art](https://x.com/Ember8184Art) | **ソース:** [Link](https://x.com/Ember8184Art/status/2069515931265413336) | **公開日:** Jun 23, 2026
-
----
-### 16 ビットピクセルアートの飛行船
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 明るい空を漂う、幻想的な飛行船を描いたノスタルジックなピクセルアートアニメーション用プロンプト。
-
-#### 📝 プロンプト
-
-```
-16 ビットピクセルアート：幻想的で風変わりな飛行船。色とりどりの布を縫い合わせた大きな膨らんだ飛行船が、ロープで吊り下げられ、青く明るい空を飛んでいる。前後にあるプロペラがゆっくりと回転する。カメラは固定されており、飛行船を中央に捉え続け、雲が流れることで飛行船が移動しているように見せる。音楽なし。ヴィンテージなピクセルビデオゲームのアニメーションスタイル。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069502866516238336/img/zHYSE8iNVY5V9jWG.jpg" width="600" alt="16 ビットピクセルアートの飛行船">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6403)**
-
-**作者:** [Gagaror](https://x.com/theRealGagaror) | **ソース:** [Link](https://x.com/theRealGagaror/status/2069502927392084113) | **公開日:** Jun 23, 2026
-
----
-### 深海生物の生物発光を捉えたシネマティック映像
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 深海に生息する不気味な生物発光魚をフィーチャーした、ネイチャードキュメンタリー風のシネマティックな動画生成用プロンプト。
-
-#### 📝 プロンプト
-
-```
-生物発光する深海魚。幽霊のように半透明な皮膚、大きく光る青い目、体からたなびく長く繊細なフィラメント。背景：漆黒の深海、わずかに漂うマリンスノーや有機物。アクション：ゆっくりと不気味に前進し、巨大な顎が徐々に開いて、針のように鋭い歯が並ぶ口内が露わになる。フィラメントが海流に合わせて優雅に揺らめく。スタイル：シネマティック、フォトリアル、ネイチャードキュメンタリー、ホラー、マクロ撮影、高精細、不穏、不気味。カメラワーク：ゆっくりとした繊細なプッシュイン、生物の前進を追跡し、差し迫る破滅の予感を演出。構図：ミディアムクローズアップ、生物の頭部と光る目に焦点を当て、被写界深度を浅くした正面からのアングル。雰囲気：極端な低照度、高コントラスト、深い影、生物自身の発光によるボリュームライティング、不気味な青と白の輝き、暗く冷たい色調。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069493025986772992/img/8Gk6sxDOUOJuGWjW.jpg" width="600" alt="深海生物の生物発光を捉えたシネマティック映像">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6404)**
-
-**作者:** [Vitalii Isaev](https://x.com/restofart) | **ソース:** [Link](https://x.com/restofart/status/2069493142080856175) | **公開日:** Jun 23, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2234,6 +2244,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-07T08:10:10.502Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-07T11:30:30.876Z</sub>
 
 </div>

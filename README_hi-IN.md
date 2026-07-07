@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2047** |
+| 📝 Total Prompts | **2051** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-07** |
 
@@ -189,6 +189,92 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### रेकून पिपिन संवाद दृश्य
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक जटिल नैरेटिव वीडियो प्रॉम्प्ट, जिसमें पिपिन नाम का एक प्यारा रेकून और लुमी नाम का एक ड्रैगन आपस में बातचीत कर रहे हैं।
+
+#### 📝 Prompt
+
+```
+[अब बात हो रही है - (रेकून प्यारा है। रेकून का नाम पिपिन है…]
+राजकुमारी
+“तैयार हो, पिपिन?”
+पिपिन (चश्मा ठीक करते हुए)
+“लगभग…”
+(एक चश्मा साइड में खिसक जाता है)
+“…अब तैयार हूँ।”
+🐉 लुमी (धैर्यपूर्वक प्रतीक्षा करते हुए)
+“आराम से करो।”
+पिपिन
+“सुरक्षा सबसे पहले....”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074205396571766784/img/7l4P4FiAHqkmi7Hf.jpg" width="600" alt="रेकून पिपिन संवाद दृश्य">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6890)**
+
+**Author:** [Carina](https://x.com/Freehere8) | **Source:** [Link](https://x.com/Freehere8/status/2074205457116430719) | **Published:** Jul 6, 2026
+
+---
+### सुपीरियर मिराज आर्कटिक सी वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> समुद्र के ऊपर एक फता मोर्गाना (Fata Morgana) मिराज का असली जैसा वीडियो बनाता है, जिसमें एक जहाज महल जैसी संरचनाओं के नीचे तैरता हुआ दिखाई देता है।
+
+#### 📝 Prompt
+
+```
+समुद्र के ऊपर एक मोर्गाना सुपीरियर मिराज, हवा में तैरता हुआ एक दूर का जहाज जिसके ऊपर महल जैसी विकृत संरचनाएं हैं, असली जैसा वायुमंडलीय भ्रम, ठंडा आर्कटिक समुद्र, यथार्थवादी फोटोग्राफी
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074058180124954624/img/GikiyzZpNpFJpdr2.jpg" width="600" alt="सुपीरियर मिराज आर्कटिक सी वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6891)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2074058236144091448) | **Published:** Jul 6, 2026
+
+---
+### फ्यूचरिस्टिक होम ट्रांजिशन वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक खुली किताब से एक महिला के हाई-राइज फ्यूचरिस्टिक घर में, जहाँ से शहर का नज़ारा दिखता है, एक सिनेमैटिक वीडियो ट्रांजिशन जनरेट करता है।
+
+#### 📝 Prompt
+
+```
+novel book with open pages next smooth transition, same exact woman, in high-rise luxurious home environment with enormous clean windows overlooking futuristic city, extreme details, best quality, no narration
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074051903214718976/img/xmJwlIssDHniaFT0.jpg" width="600" alt="फ्यूचरिस्टिक होम ट्रांजिशन वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6889)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2074051961662455902) | **Published:** Jul 6, 2026
+
+---
+### Magic Book Floating Letters Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक ऐसे वीडियो को जनरेट करता है जिसमें एक व्यक्ति किताब खोलता है और अक्षर बाहर निकलकर धीरे-धीरे ऊपर की ओर तैरने लगते हैं।
+
+#### 📝 Prompt
+
+```
+विषय एक किताब खोलता है और किताब के अक्षर धीरे-धीरे किताब से बाहर निकलकर ऊपर की ओर तैरने लगते हैं
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074032639397277696/img/Lh91rrIjd0aelSCk.jpg" width="600" alt="Magic Book Floating Letters Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6892)**
+
+**Author:** [motana](https://x.com/motana27) | **Source:** [Link](https://x.com/motana27/status/2074032702320267757) | **Published:** Jul 6, 2026
+
+---
 ### सुपर 8 फिल्म बीच वुमन वेव
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2097,82 +2183,6 @@ Rainy Runway Tap Dance. तीन mechs, एक निडर पायलट, �
 **Author:** [Christine](https://x.com/ChristineJxpxy) | **Source:** [Link](https://x.com/ChristineJxpxy/status/2069538330791035250) | **Published:** Jun 23, 2026
 
 ---
-### आग के बीच से पोर्टल की ओर बढ़ना
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक नैरेटिव वीडियो प्रॉम्प्ट जो एक ऐसे किरदार को दर्शाता है जो आग के बीच से चलते हुए सावधानीपूर्वक एक अज्ञात पोर्टल की ओर बढ़ रहा है।
-
-#### 📝 Prompt
-
-```
-वह सावधानीपूर्वक एक अज्ञात पोर्टल की ओर बढ़ रहा है और मैं फिर से आग के बीच से चल रहा हूँ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069518033781948417/img/0s-mD8zFTi9qPWYU.jpg" width="600" alt="आग के बीच से पोर्टल की ओर बढ़ना">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6392)**
-
-**Author:** [John Smith](https://x.com/JohnSmithwnbq) | **Source:** [Link](https://x.com/JohnSmithwnbq/status/2069518262119891160) | **Published:** Jun 23, 2026
-
----
-### Magenta Organic Zoom Loop
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> अमूर्त ऑर्गेनिक आकृतियों पर ज़ूम एनीमेशन को लूप करने के लिए एक सटीक कैमरा कंट्रोल प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-अमूर्त मैजेंटा-गुलाबी ऑर्गेनिक आकृति को ज़ूम इन करके धीरे-धीरे करीब लाएं ताकि बारीक विवरण दिखाई दें, सबसे करीबी बिंदु पर थोड़ी देर रुकें, फिर धीरे-धीरे ज़ूम आउट करके मूल दूरी पर वापस आ जाएं, और इस ज़ूम-इन-पॉज़-ज़ूम-आउट चक्र को पूरी प्रक्रिया के दौरान सहजता से दोहराएं।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069515860486574080/img/tE0nH4l17oKS3yYu.jpg" width="600" alt="Magenta Organic Zoom Loop">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6399)**
-
-**Author:** [Ember Art](https://x.com/Ember8184Art) | **Source:** [Link](https://x.com/Ember8184Art/status/2069515931265413336) | **Published:** Jun 23, 2026
-
----
-### 16-बिट पिक्सेल आर्ट एयर शिप
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक उज्ज्वल आकाश में तैरते हुए मनमौजी एयर शिप के लिए एक पुरानी यादें ताजा करने वाला पिक्सेल आर्ट एनीमेशन प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-16-बिट पिक्सेल आर्ट: एक काल्पनिक और मनमौजी एयर शिप, बड़े आकार का फूला हुआ बहुरंगी कपड़े का गुब्बारा (ब्लिम्प) जिसे रस्सियों से हवा में लटकाया गया है, जो गहरे नीले आकाश में उड़ रहा है। आगे और पीछे के प्रोपेलर धीरे-धीरे घूम रहे हैं। स्थिर कैमरा एयर शिप को केंद्र में रखता है जबकि बादल गुजरते हुए एयर शिप की गति का आभास कराते हैं। कोई संगीत नहीं। विंटेज पिक्सेलेटेड वीडियो गेम एनीमेशन शैली।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069502866516238336/img/zHYSE8iNVY5V9jWG.jpg" width="600" alt="16-बिट पिक्सेल आर्ट एयर शिप">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6403)**
-
-**Author:** [Gagaror](https://x.com/theRealGagaror) | **Source:** [Link](https://x.com/theRealGagaror/status/2069502927392084113) | **Published:** Jun 23, 2026
-
----
-### बायोलुमिनेसेंट एबिसल फिश सिनेमैटिक वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> गहरे समुद्र में एक खतरनाक बायोलुमिनेसेंट मछली को दर्शाने वाले नेचर डॉक्यूमेंट्री-शैली के अनुक्रम के लिए एक विस्तृत सिनेमैटिक वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-बायोलुमिनेसेंट एबिसल मछली, जिसकी त्वचा पारभासी (translucent) और भूतिया है, बड़ी चमकती नीली आँखें हैं, और शरीर से लंबे, पतले तंतु (filaments) निकल रहे हैं। संदर्भ: घोर अंधेरी एबिसल महासागर की गहराई, गहरा पानी जिसमें समुद्री बर्फ और जैविक कण तैर रहे हैं। क्रिया: जीव धीरे-धीरे और खतरनाक तरीके से आगे की ओर तैरता है, उसका विशाल जबड़ा धीरे-धीरे खुलता है जिससे लंबी, नुकीली, सुई जैसी दांतों की कतारें दिखाई देती हैं। उसके तंतु धारा में धीरे-धीरे लहराते हैं। शैली: सिनेमैटिक, फोटो-रियलिस्टिक, नेचर डॉक्यूमेंट्री, हॉरर, मैक्रो फोटोग्राफी, उच्च विवरण, परेशान करने वाली, डरावनी। कैमरा मोशन: धीमा, सूक्ष्म पुश-इन, जीव की आगे की गति को ट्रैक करते हुए, जो आसन्न खतरे का अहसास कराता है। संरचना: मीडियम क्लोज-अप शॉट, जीव के सिर और चमकती आंखों पर केंद्रित, उथली गहराई (shallow depth of field), सामने का कोण। परिवेश: अत्यधिक कम रोशनी, उच्च कंट्रास्ट, गहरी छाया, जीव की बायोलुमिनेसेंस से उत्पन्न वॉल्यूमेट्रिक लाइटिंग, डरावनी नीली और सफेद चमक, गहरा और ठंडा रंग पैलेट।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069493025986772992/img/8Gk6sxDOUOJuGWjW.jpg" width="600" alt="बायोलुमिनेसेंट एबिसल फिश सिनेमैटिक वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6404)**
-
-**Author:** [Vitalii Isaev](https://x.com/restofart) | **Source:** [Link](https://x.com/restofart/status/2069493142080856175) | **Published:** Jun 23, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2234,6 +2244,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-07T08:10:14.886Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-07T11:30:36.655Z</sub>
 
 </div>
