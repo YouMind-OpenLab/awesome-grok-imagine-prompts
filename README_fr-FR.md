@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2051** |
+| 📝 Total Prompts | **2056** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-08** |
 
@@ -189,6 +189,115 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Superposition chronométrée « Stars in Jars »
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo pour une scène magique avec des étoiles dans des bocaux en verre et des superpositions de texte chronométrées apparaissant à intervalles réguliers.
+
+#### 📝 Prompt
+
+```
+des étoiles à l'intérieur de bocaux en verre. Superposition de texte : Libérez la magie. Ce texte apparaît après 5 secondes et est remplacé par https://t.co/bkeik1FLaj après 10 secondes.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074550597907279873/img/zMVbRBTn_MUwcTx7.jpg" width="600" alt="Superposition chronométrée « Stars in Jars »">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6929)**
+
+**Author:** [Ingi Freyr Rafnsson](https://x.com/ingi41717) | **Source:** [Link](https://x.com/ingi41717/status/2074550662101180540) | **Published:** Jul 7, 2026
+
+---
+### Animation vidéo d'un champ de fleurs sauvages
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt image-vers-vidéo qui anime une personne dans un champ de fleurs sauvages interagissant avec une libellule.
+
+#### 📝 Prompt
+
+```
+À partir de cette photo, placez-la dans un champ de fleurs sauvages, la main tendue, et faites en sorte qu'une libellule se pose dessus. Le soleil brille intensément et sa robe rouge ondule.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074536511383486464/img/xnmAjniTXZvEfJ-c.jpg" width="600" alt="Animation vidéo d'un champ de fleurs sauvages">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6927)**
+
+**Author:** [Lisa Shardlow](https://x.com/lisa_shard96352) | **Source:** [Link](https://x.com/lisa_shard96352/status/2074536570749661521) | **Published:** Jul 7, 2026
+
+---
+### Souris prêtre catholique à Brooklyn
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo cinématographique pour une séquence photoréaliste mettant en scène une souris prêtre en soutane naviguant dans le monde immense et animé de Brooklyn.
+
+#### 📝 Prompt
+
+```
+Séquence cinématographique de 15 secondes, ultra-photoréaliste, réalisme de niveau Pixar avec éclairage en prises de vues réelles, 4K, faible profondeur de champ, mouvement de caméra naturel.
+
+Une minuscule souris des champs grise, vêtue comme un humble prêtre catholique, porte une soutane noire parfaitement ajustée avec un col romain blanc à sa taille. Elle transporte une petite sacoche en cuir usé remplie de livres de prières miniatures et se dépêche avec détermination à travers les rues écrasantes de Brooklyn, à New York.
+
+La caméra commence au niveau des yeux de la souris, alors que d'énormes chaussures humaines passent en tonnant comme des immeubles en mouvement. Des taxis jaunes rugissent au-dessus. La vibration des rames de métro se fait sentir à travers le trottoir. La vapeur s'échappe des bouches d'égout, créant des nuages imposants autour d'elle. Des tasses à café, des pages de journaux et des feuilles d'automne tourbillonnent dans les airs comme des objets géants dans son monde.
+
+Le petit prêtre évite habilement les roues de vélos, les pigeons, les flaques d'eau de la taille de lacs et les ombres des navetteurs pressés, restant toujours calme et joyeux. La lumière du soleil se reflète chaleureusement sur les maisons en grès brun tandis que les cloches d'une église sonnent faiblement au loin.
+
+La caméra le suit jusqu'à ce qu'il atteigne une ancienne maison en grès brun de Brooklyn. À la base du large escalier en pierre menant à la porte d'entrée se trouve une minuscule église en bois voûtée, intégrée dans les fondations sous les marches. Elle possède des vitraux, une cloche miniature en laiton, des jardinières et une lanterne lumineuse au-dessus de l'entrée.
+
+La souris prêtre sourit avec une satisfaction tranquille, déverrouille la petite porte en bois avec une clé ancienne, entre à l'intérieur et fait sonner doucement la petite cloche de l'église alors qu'une lumière dorée et chaleureuse se répand sur le trottoir, tandis que le monde humain animé continue de s'agiter, totalement inconscient de sa présence.
+
+Hautement cinématographique, touchant, fantaisiste mais ancré dans la réalité, textures réalistes, atmosphère authentique de Brooklyn, narration émotionnelle, travellings fluides, sans dialogue, sons ambiants naturels de la ville uniquement.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074431689858715648/img/jw8oO-1IwUz5ouCE.jpg" width="600" alt="Souris prêtre catholique à Brooklyn">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6926)**
+
+**Author:** [Sub Pop Culture 🇺🇸🐿️](https://x.com/WriterMcG) | **Source:** [Link](https://x.com/WriterMcG/status/2074431744808264058) | **Published:** Jul 7, 2026
+
+---
+### Animation cosmique de la princesse tisserande de Tanabata
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt visuel céleste conçu pour Grok Imagine afin de créer une scène mystique et hyper-détaillée de la princesse tisserande et du prince bouvier sous la Voie lactée.
+
+#### 📝 Prompt
+
+```
+fond noir cosmique, princesse tisserande et prince bouvier, voie lactée, contours argentés lumineux, mystique, hypnotique, qualité ultra, hyper-détaillé, plan ultra-large
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074257789342601217/img/-tlANcy6fn_FF2x1.jpg" width="600" alt="Animation cosmique de la princesse tisserande de Tanabata">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6928)**
+
+**Author:** [なお](https://x.com/Naonekozamurai) | **Source:** [Link](https://x.com/Naonekozamurai/status/2074403041240035467) | **Published:** Jul 7, 2026
+
+---
+### Boucle DJ animée Android Deltamon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une illustration numérique de style anime pour une animation en boucle DJ mettant en scène Android Deltamon devant une structure circulaire lumineuse dans un ciel nocturne étoilé.
+
+#### 📝 Prompt
+
+```
+Une illustration numérique de style anime d'Android Deltamon en tant que boucle DJ, devant une structure circulaire lumineuse dans un ciel nocturne très étoilé
+fantaisie, pas de zoom, 12 FPS
+Pas de dialogue
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074356449107664896/img/-PEZI3ycFgV0_1QQ.jpg" width="600" alt="Boucle DJ animée Android Deltamon">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6930)**
+
+**Author:** [Cicadas Francois Cosmos 🇯🇵](https://x.com/FC_Cicadas) | **Source:** [Link](https://x.com/FC_Cicadas/status/2074356506334822402) | **Published:** Jul 7, 2026
+
+---
 ### Scène de dialogue du raton laveur Pippin
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2073,116 +2182,6 @@ Claquettes sur piste pluvieuse. Trois mechas, un pilote intrépide et une éclab
 **Author:** [AI영상공작실](https://x.com/lee_young71) | **Source:** [Link](https://x.com/lee_young71/status/2069796857874923823) | **Published:** Jun 24, 2026
 
 ---
-### Gros plan ultra-réaliste d'une baleine à Hermanus
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinématographique très détaillé pour générer une vidéo en gros plan réaliste d'une baleine dans son habitat naturel en Afrique du Sud.
-
-#### 📝 Prompt
-
-```
-Scène en gros plan ultra-réaliste d'une baleine à Hermanus, dans la province du Cap-Occidental, en Afrique du Sud.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069628026879348736/img/C6vuzUEB3K9HNoiB.jpg" width="600" alt="Gros plan ultra-réaliste d'une baleine à Hermanus">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6434)**
-
-**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2069654250263917021) | **Published:** Jun 24, 2026
-
----
-### Vidéo de course en écran scindé synchronisé
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt complet pour générer une vidéo en écran scindé synchronisé d'une voiture de sport en dérapage sur un col de montagne japonais, présentant à la fois le point de vue du conducteur à l'intérieur et une caméra de poursuite à l'extérieur.
-
-#### 📝 Prompt
-
-```
-L'écran présente une configuration en écran scindé divisé en deux parties, gauche et droite. Les deux côtés capturent le même instant sous des angles de caméra différents, montrant le même véhicule, le même virage et le même axe temporel.
-
-[Écran gauche]
-Caméra embarquée du conducteur. À l'intérieur d'une voiture de sport équipée d'un arceau de sécurité. Le personnage est assis sur le siège conducteur, les deux mains sur le volant. Conduite à haute vitesse sur un col de montagne japonais, abordant et négociant un virage en épingle. Les yeux sont fixés sur la direction du trajet avec une expression sérieuse et concentrée. Les forces G latérales affectent le corps, les épaules et les cheveux se déplaçant légèrement vers l'extérieur. Les vêtements et les cheveux ondulent naturellement en réponse aux mouvements du véhicule. Comprend des sièges baquets, des compteurs et un tremblement de caméra naturel synchronisé avec les vibrations du véhicule.
-
-[Écran droit]
-Caméra de poursuite à la troisième personne suivant le même véhicule, légèrement en hauteur et par l'arrière. Paysage réaliste d'un col de montagne japonais entouré de forêts, avec des glissières de sécurité et des lignes médianes. Le véhicule négocie le même virage en épingle, illustrant le transfert de masse dans sa posture. Les pneus adhèrent fermement à la surface de la route et la suspension se comprime naturellement. Transmet une sensation de vitesse élevée, de dynamisme et de virage rapide.
-
-[Direction de synchronisation]
-La gauche et la droite ne sont pas des scènes différentes. L'action sur le volant à gauche et le comportement du véhicule à droite sont parfaitement assortis. Cela montre clairement que deux caméras filment le même moment. Une séquence continue de mouvements de virage est représentée sans coupures de scène ni changements de caméra.
-
-[Étape finale]
-Le véhicule accélère vers la sortie du virage. Sur l'écran gauche, le conducteur ramène le volant au centre tout en accélérant. Sur l'écran droit, le véhicule se déplace de manière stable vers la section suivante. Comprend une accélération fluide, un comportement réaliste du véhicule et une sensation immersive digne d'une retransmission de sport automobile. Personnages d'anime de haute qualité, arrière-plans de haute qualité, représentation réaliste du véhicule, comme une scène tirée d'une œuvre cinématographique.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069652913727934464/img/cD5otFSS6dkITuMi.jpg" width="600" alt="Vidéo de course en écran scindé synchronisé">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6593)**
-
-**Author:** [Eris Create Lab](https://x.com/Eris_Create_Lab) | **Source:** [Link](https://x.com/Eris_Create_Lab/status/2069652994598244645) | **Published:** Jun 24, 2026
-
----
-### Script de vidéo d'humain numérique Grok-imagine 1.5
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt détaillé pour générer une vidéo d'humain numérique avec un présentateur s'adressant à la caméra, incluant un arrière-plan de feu animé et un monologue spécifique sur le thème des relations.
-
-#### 📝 Prompt
-
-```
-Premier plan : L'hôte regarde la caméra et commence par une accroche.
-Animation d'arrière-plan : Une boule de feu commence à brûler à partir des mots « Première cohabitation » et diminue lentement.
-Elle dit (66 caractères) :
-« Pourquoi tant de gens perdent-ils leur étincelle après avoir emménagé ensemble ? Ce n'est pas qu'il devient soudainement froid, mais que la première cohabitation consume souvent plus de la moitié de l'imagination, de l'initiative et de la passion d'une personne pour une relation intime. »
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069642383088562176/img/eo2NBUhWqy0L72th.jpg" width="600" alt="Script de vidéo d'humain numérique Grok-imagine 1.5">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6437)**
-
-**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2069642495282057518) | **Published:** Jun 24, 2026
-
----
-### La fenêtre réaliste du tableau hanté
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un scénario imaginatif décrivant un cadre magique doué de parole, situé dans le couloir d'un ancien château côtier.
-
-#### 📝 Prompt
-
-```
-Imaginez cette image, cette présence, vivant à l'intérieur d'un étrange cadre accroché dans le couloir d'un ancien château face à l'océan. L'image est une fenêtre entre les mondes ; elle peut parler aux spectateurs, mais ne peut franchir la limite du cadre...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069548037827895296/img/qN-AjDO1mFDZ06Ri.jpg" width="600" alt="La fenêtre réaliste du tableau hanté">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6389)**
-
-**Author:** [Matt Wilson](https://x.com/MattWilson8178) | **Source:** [Link](https://x.com/MattWilson8178/status/2069549629474242638) | **Published:** Jun 23, 2026
-
----
-### Vidéo de mandala de bougie dans un miroir
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo de nature morte spirituelle montrant la flamme d'une bougie unique se reflétant dans des éclats de miroir brisés pour créer un motif de mandala unifié.
-
-#### 📝 Prompt
-
-```
-La flamme d'une bougie unique se reflétant dans de nombreux éclats de miroir brisés pour créer un mandala lumineux et unifié, nature morte spirituelle dans une pièce sombre.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069538232203960321/img/RQSycTTeDm08tqJc.jpg" width="600" alt="Vidéo de mandala de bougie dans un miroir">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6393)**
-
-**Author:** [Christine](https://x.com/ChristineJxpxy) | **Source:** [Link](https://x.com/ChristineJxpxy/status/2069538330791035250) | **Published:** Jun 23, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2244,6 +2243,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-08T06:52:48.527Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-08T10:43:30.609Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2051** |
+| 📝 Total Prompts | **2056** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-08** |
 
@@ -189,6 +189,115 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Sterne in Gläsern mit zeitgesteuertem Overlay
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Prompt für eine magische Szene mit Sternen in Gläsern und spezifischen, zeitgesteuerten Texteinblendungen, die in Intervallen erscheinen.
+
+#### 📝 Prompt
+
+```
+Sterne in Gläsern. Texteinblendung: Entfessle die Magie. Dieser Text erscheint nach 5 Sekunden und wird nach 10 Sekunden durch https://t.co/bkeik1FLaj ersetzt.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074550597907279873/img/zMVbRBTn_MUwcTx7.jpg" width="600" alt="Sterne in Gläsern mit zeitgesteuertem Overlay">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6929)**
+
+**Author:** [Ingi Freyr Rafnsson](https://x.com/ingi41717) | **Source:** [Link](https://x.com/ingi41717/status/2074550662101180540) | **Published:** Jul 7, 2026
+
+---
+### Video-Animation: Blumenwiese
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Image-to-Video-Prompt, der eine Person in einem Blumenfeld animiert, die mit einer Libelle interagiert.
+
+#### 📝 Prompt
+
+```
+Verwende dieses Foto, um sie in ein Blumenfeld zu versetzen. Sie streckt ihre Hand aus und eine Libelle landet darauf. Die Sonne scheint hell und ihr rotes Kleid weht im Wind.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074536511383486464/img/xnmAjniTXZvEfJ-c.jpg" width="600" alt="Video-Animation: Blumenwiese">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6927)**
+
+**Author:** [Lisa Shardlow](https://x.com/lisa_shard96352) | **Source:** [Link](https://x.com/lisa_shard96352/status/2074536570749661521) | **Published:** Jul 7, 2026
+
+---
+### Katholischer Mäusepriester in Brooklyn
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein filmischer Video-Prompt für eine fotorealistische Sequenz mit einem Mäusepriester in einer Soutane, der sich durch die geschäftige und überdimensionale Welt von Brooklyn bewegt.
+
+#### 📝 Prompt
+
+```
+15-sekündige filmische Sequenz, ultra-fotorealistisch, Realismus auf Pixar-Niveau mit Live-Action-Beleuchtung, 4K, geringe Schärfentiefe, natürliche Kamerabewegung.
+
+Eine winzige graue Feldmaus, gekleidet als bescheidener katholischer Priester, trägt eine perfekt maßgeschneiderte schwarze Soutane mit einem weißen Kollar, das genau auf die Größe einer Maus angepasst ist. Er trägt eine winzige, abgenutzte Ledertasche bei sich, gefüllt mit Miniatur-Gebetbüchern, und eilt entschlossen durch die überwältigenden Straßen von Brooklyn, New York.
+
+Die Kamera beginnt auf Augenhöhe der Maus, während riesige menschliche Schuhe wie sich bewegende Gebäude vorbeidonnern. Gelbe Taxis brausen über ihm. Die Vibrationen der U-Bahnen sind durch den Gehweg spürbar. Dampf steigt aus den Straßengullis auf und bildet turmhohe Wolken um ihn herum. Kaffeebecher, Zeitungsseiten und Herbstblätter wirbeln wie riesige Objekte durch seine Welt.
+
+Der kleine Priester weicht geschickt Fahrradreifen, Tauben, Pfützen von der Größe eines Sees und den Schatten hastiger Pendler aus, wobei er stets ruhig und freudig bleibt. Sonnenlicht reflektiert warm auf den Brownstone-Häusern, während in der Ferne leise Kirchenglocken läuten.
+
+Die Kamera folgt ihm, als er ein altes Brownstone-Haus in Brooklyn erreicht. Am Fuß der breiten Steintreppe, die zur Eingangstür führt, befindet sich eine winzige, gewölbte Holzkirche, die in das Fundament unter den Stufen gebaut ist. Sie hat Buntglasfenster, eine Miniatur-Messingglocke, Blumenkästen und eine leuchtende Laterne über dem Eingang.
+
+Der Mäusepriester lächelt mit stiller Zufriedenheit, schließt die winzige Holztür mit einem antiken Schlüssel auf, tritt ein und läutet sanft die kleine Kirchenglocke, während warmes goldenes Licht auf den Gehweg fällt, während die geschäftige menschliche Welt über ihm völlig ahnungslos weitergeht.
+
+Hochgradig filmisch, herzlich, skurril, aber bodenständig, realistische Texturen, authentische Brooklyn-Atmosphäre, emotionales Storytelling, flüssige Kamerafahrten, kein Dialog, nur natürliche Umgebungsgeräusche der Stadt.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074431689858715648/img/jw8oO-1IwUz5ouCE.jpg" width="600" alt="Katholischer Mäusepriester in Brooklyn">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6926)**
+
+**Author:** [Sub Pop Culture 🇺🇸🐿️](https://x.com/WriterMcG) | **Source:** [Link](https://x.com/WriterMcG/status/2074431744808264058) | **Published:** Jul 7, 2026
+
+---
+### Tanabata-Webprinzessin kosmische Animation
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ein himmlischer visueller Prompt für Grok Imagine, um eine mystische, hyperdetaillierte Szene der Webprinzessin und des Kuhhirten-Prinzen unter der Milchstraße zu erstellen.
+
+#### 📝 Prompt
+
+```
+kosmischer schwarzer Hintergrund, Webprinzessin und Kuhhirten-Prinz, Milchstraße, leuchtende silberne Umrisse, mystisch, hypnotisch, Ultra-Qualität, hyperdetailliert, Ultra-Weitwinkelaufnahme
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074257789342601217/img/-tlANcy6fn_FF2x1.jpg" width="600" alt="Tanabata-Webprinzessin kosmische Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6928)**
+
+**Author:** [なお](https://x.com/Naonekozamurai) | **Source:** [Link](https://x.com/Naonekozamurai/status/2074403041240035467) | **Published:** Jul 7, 2026
+
+---
+### Android Deltamon Anime DJ-Loop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Eine digitale Illustration im Anime-Stil für eine DJ-Loop-Animation, die Android Deltamon vor einer leuchtenden kreisförmigen Struktur in einem sternenklaren Nachthimmel zeigt.
+
+#### 📝 Prompt
+
+```
+Eine digitale Illustration im Anime-Stil von Android Deltamon als DJ-Loop, vor einer leuchtenden kreisförmigen Struktur in einem sehr sternenklaren Nachthimmel
+Fantasie, kein Zoom, 12 FPS
+Kein Dialog
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074356449107664896/img/-PEZI3ycFgV0_1QQ.jpg" width="600" alt="Android Deltamon Anime DJ-Loop">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6930)**
+
+**Author:** [Cicadas Francois Cosmos 🇯🇵](https://x.com/FC_Cicadas) | **Source:** [Link](https://x.com/FC_Cicadas/status/2074356506334822402) | **Published:** Jul 7, 2026
+
+---
 ### Dialogszene mit Waschbär Pippin
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2073,116 +2182,6 @@ Stepptanz auf regnerischer Landebahn. Drei Mechs, ein furchtloser Pilot und ein 
 **Author:** [AI영상공작실](https://x.com/lee_young71) | **Source:** [Link](https://x.com/lee_young71/status/2069796857874923823) | **Published:** Jun 24, 2026
 
 ---
-### Ultrarealistische Wal-Nahaufnahme in Hermanus
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochdetaillierter, filmischer Prompt zur Erstellung eines realistischen Nahaufnahme-Videos eines Wals in seinem natürlichen Lebensraum in Südafrika.
-
-#### 📝 Prompt
-
-```
-Ultrarealistische Nahaufnahme eines Wals in Hermanus, Westkap, Südafrika.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069628026879348736/img/C6vuzUEB3K9HNoiB.jpg" width="600" alt="Ultrarealistische Wal-Nahaufnahme in Hermanus">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6434)**
-
-**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2069654250263917021) | **Published:** Jun 24, 2026
-
----
-### Synchronisiertes Split-Screen-Rennvideo
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein umfassender Prompt zur Erstellung eines synchronisierten Split-Screen-Videos eines Sportwagens beim Driften auf einem japanischen Gebirgspass, das sowohl die Fahrerperspektive (POV) als auch eine externe Verfolgerkamera zeigt.
-
-#### 📝 Prompt
-
-```
-Der Bildschirm ist in eine linke und eine rechte Hälfte unterteilt. Beide Seiten erfassen denselben Moment aus unterschiedlichen Kamerawinkeln und zeigen dasselbe Fahrzeug, dieselbe Kurve und denselben Zeitverlauf.
-
-[Linker Bildschirm]
-Fahrerperspektive aus dem Innenraum. Im Inneren eines Sportwagens mit Überrollkäfig. Die Figur sitzt auf dem Fahrersitz und hält das Lenkrad mit beiden Händen. Fahrt mit hoher Geschwindigkeit auf einem japanischen Gebirgspass, Einfahrt in eine Haarnadelkurve. Der Blick ist konzentriert und ernst auf die Fahrtrichtung gerichtet. Seitliche G-Kräfte wirken auf den Körper, Schultern und Haare bewegen sich leicht nach außen. Kleidung und Haare schwingen natürlich mit der Fahrzeugbewegung mit. Zu sehen sind Schalensitze, Armaturen und ein natürliches, auf die Fahrzeugvibrationen abgestimmtes Kamerawackeln.
-
-[Rechter Bildschirm]
-Third-Person-Verfolgerkamera, die das Fahrzeug leicht von oben und hinten begleitet. Eine realistische Landschaft eines japanischen Gebirgspasses, umgeben von Wäldern, mit Leitplanken und Mittellinien. Das Fahrzeug durchfährt dieselbe Haarnadelkurve, wobei die Gewichtsverlagerung in der Karosseriehaltung erkennbar ist. Die Reifen greifen fest auf den Straßenbelag, die Federung wird natürlich komprimiert. Vermittelt Kurvenfahrt bei hoher Geschwindigkeit, ein Gefühl von Tempo und Dynamik.
-
-[Synchronisationsanweisungen]
-Die linke und rechte Seite zeigen keine unterschiedlichen Szenen. Der Lenkeinschlag auf dem linken Bildschirm und das Fahrzeugverhalten auf dem rechten Bildschirm sind perfekt aufeinander abgestimmt. Es wird deutlich vermittelt, dass zwei Kameras denselben Moment filmen. Eine kontinuierliche Abfolge der Kurvenbewegung wird ohne Szenenschnitte oder Kamerawechsel dargestellt.
-
-[Abschluss]
-Das Fahrzeug beschleunigt in Richtung Kurvenausgang. Auf dem linken Bildschirm lenkt der Fahrer beim Beschleunigen wieder gerade. Auf dem rechten Bildschirm bewegt sich das Fahrzeug stabil in Richtung des nächsten Abschnitts. Mit sanfter Beschleunigung, realistischem Fahrzeugverhalten und einem immersiven Gefühl wie bei einer Motorsportübertragung. Hochwertige Anime-Charaktere, hochwertige Hintergründe, realistische Fahrzeugdarstellung, wie eine Szene aus einem Kinofilm.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069652913727934464/img/cD5otFSS6dkITuMi.jpg" width="600" alt="Synchronisiertes Split-Screen-Rennvideo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6593)**
-
-**Author:** [Eris Create Lab](https://x.com/Eris_Create_Lab) | **Source:** [Link](https://x.com/Eris_Create_Lab/status/2069652994598244645) | **Published:** Jun 24, 2026
-
----
-### Grok-imagine 1.5 Digital Human Videoskript
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein detaillierter Prompt zur Erstellung eines Digital-Human-Videos mit einem Moderator, der in die Kamera spricht, vor einem animierten Hintergrund mit Feuer und einem spezifischen Monolog zum Thema Beziehungen.
-
-#### 📝 Prompt
-
-```
-Vordergrund: Der Moderator schaut in die Kamera und beginnt mit einem Hook.
-Hintergrundanimation: Ein Feuerball beginnt bei den Worten „Erstes Zusammenleben“ zu brennen und wird langsam kleiner.
-Sie sagt (66 Zeichen):
-„Warum verlieren viele Menschen den Funken, nachdem sie zusammengezogen sind? Es liegt nicht daran, dass er plötzlich kalt wird, sondern dass das erste Zusammenleben oft mehr als die Hälfte der Fantasie, Initiative und Leidenschaft eines Menschen für eine intime Beziehung verbrennt.“
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069642383088562176/img/eo2NBUhWqy0L72th.jpg" width="600" alt="Grok-imagine 1.5 Digital Human Videoskript">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6437)**
-
-**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2069642495282057518) | **Published:** Jun 24, 2026
-
----
-### Das Fenster zur Realität im Spukgemälde
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein fantasievolles Szenario, das einen magischen, sprechenden Bilderrahmen in einem alten Küstenschloss beschreibt.
-
-#### 📝 Prompt
-
-```
-Stellen Sie sich vor, dieses Bild, diese Präsenz, würde in einem seltsamen Bilderrahmen leben, der in einem alten Schlossflur mit Blick auf die Küste hängt. Das Bild ist ein Fenster zwischen den Welten; sie kann zu den Betrachtern sprechen, aber die Grenze des Bildes nicht überschreiten...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069548037827895296/img/qN-AjDO1mFDZ06Ri.jpg" width="600" alt="Das Fenster zur Realität im Spukgemälde">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6389)**
-
-**Author:** [Matt Wilson](https://x.com/MattWilson8178) | **Source:** [Link](https://x.com/MattWilson8178/status/2069549629474242638) | **Published:** Jun 23, 2026
-
----
-### Kerzen-Mandala-Spiegel-Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein spiritueller Stillleben-Video-Prompt, der eine einzelne Kerzenflamme zeigt, die sich in zerbrochenen Spiegelscherben spiegelt und ein einheitliches Mandala-Muster bildet.
-
-#### 📝 Prompt
-
-```
-Eine einzelne Kerzenflamme, die sich in vielen zerbrochenen Spiegelscherben spiegelt und ein einheitliches, helles Mandala erzeugt; spirituelles Stillleben in einem dunklen Raum.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069538232203960321/img/RQSycTTeDm08tqJc.jpg" width="600" alt="Kerzen-Mandala-Spiegel-Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6393)**
-
-**Author:** [Christine](https://x.com/ChristineJxpxy) | **Source:** [Link](https://x.com/ChristineJxpxy/status/2069538330791035250) | **Published:** Jun 23, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2244,6 +2243,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-08T06:52:47.168Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-08T10:43:29.663Z</sub>
 
 </div>

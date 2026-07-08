@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2051** |
+| 📝 Total Prompts | **2056** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-08** |
 
@@ -189,6 +189,115 @@ Una valquiria celestial mística y noble, una mujer digna y hermosa con largo ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Superposición cronometrada de estrellas en frascos
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video para una escena mágica con estrellas en frascos de vidrio y superposiciones de texto cronometradas que aparecen a intervalos específicos.
+
+#### 📝 Prompt
+
+```
+estrellas dentro de frascos de vidrio. Superposición de texto: Libera la magia. Ese texto aparece después de 5 segundos y es reemplazado por https://t.co/bkeik1FLaj después de 10 segundos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074550597907279873/img/zMVbRBTn_MUwcTx7.jpg" width="600" alt="Superposición cronometrada de estrellas en frascos">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6929)**
+
+**Author:** [Ingi Freyr Rafnsson](https://x.com/ingi41717) | **Source:** [Link](https://x.com/ingi41717/status/2074550662101180540) | **Published:** Jul 7, 2026
+
+---
+### Animación de video de campo de flores silvestres
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de imagen a video que anima a una persona en un campo de flores silvestres interactuando con una libélula.
+
+#### 📝 Prompt
+
+```
+Usando esta foto, colócala en un campo de flores silvestres, extendiendo su mano para que una libélula se pose en ella. El sol brilla intensamente y su vestido rojo se mueve con el viento.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074536511383486464/img/xnmAjniTXZvEfJ-c.jpg" width="600" alt="Animación de video de campo de flores silvestres">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6927)**
+
+**Author:** [Lisa Shardlow](https://x.com/lisa_shard96352) | **Source:** [Link](https://x.com/lisa_shard96352/status/2074536570749661521) | **Published:** Jul 7, 2026
+
+---
+### Ratón sacerdote católico en Brooklyn
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video cinematográfico para una secuencia fotorrealista que presenta a un ratón sacerdote con sotana navegando por el bullicioso y gigantesco mundo de Brooklyn.
+
+#### 📝 Prompt
+
+```
+Secuencia cinematográfica de 15 segundos, ultra fotorrealista, realismo al nivel de Pixar con iluminación de acción real, 4K, profundidad de campo reducida, movimiento de cámara natural.
+
+Un pequeño ratón de campo gris vestido como un humilde sacerdote católico lleva una sotana negra perfectamente confeccionada con un cuello romano blanco a su medida. Lleva un pequeño bolso de cuero desgastado lleno de libros de oraciones en miniatura y se apresura con determinación por las abrumadoras calles de Brooklyn, Nueva York.
+
+La cámara comienza a la altura de los ojos del ratón mientras enormes zapatos humanos retumban como edificios en movimiento. Los taxis amarillos rugen por encima. La vibración de los trenes subterráneos se siente a través del pavimento. El vapor se eleva de las rejillas de la calle, creando nubes imponentes a su alrededor. Tazas de café, páginas de periódicos y hojas de otoño giran en el aire como objetos gigantes en su mundo.
+
+El pequeño sacerdote esquiva con destreza las ruedas de las bicicletas, las palomas, los charcos de lluvia del tamaño de lagos y las sombras de los viajeros apresurados, manteniéndose siempre tranquilo y alegre. La luz del sol se refleja cálidamente en las casas de piedra rojiza mientras las campanas de la iglesia suenan débilmente a lo lejos.
+
+La cámara lo sigue hasta que llega a una antigua casa de piedra rojiza de Brooklyn. En la base de la amplia escalera de piedra que conduce a la puerta principal hay una pequeña iglesia de madera arqueada construida en los cimientos debajo de los escalones. Tiene vidrieras, una campana de bronce en miniatura, jardineras y una linterna brillante sobre la entrada.
+
+El ratón sacerdote sonríe con tranquila satisfacción, abre la pequeña puerta de madera con una llave antigua, entra y hace sonar suavemente la pequeña campana de la iglesia mientras una cálida luz dorada se derrama sobre la acera, todo esto mientras el bullicioso mundo humano continúa sin darse cuenta de nada por encima de él.
+
+Altamente cinematográfico, conmovedor, caprichoso pero realista, texturas realistas, atmósfera auténtica de Brooklyn, narrativa emocional, tomas de seguimiento fluidas, sin diálogos, solo sonidos ambientales naturales de la ciudad.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074431689858715648/img/jw8oO-1IwUz5ouCE.jpg" width="600" alt="Ratón sacerdote católico en Brooklyn">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6926)**
+
+**Author:** [Sub Pop Culture 🇺🇸🐿️](https://x.com/WriterMcG) | **Source:** [Link](https://x.com/WriterMcG/status/2074431744808264058) | **Published:** Jul 7, 2026
+
+---
+### Animación cósmica de la Princesa Tejedora en Tanabata
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt visual celestial diseñado para Grok Imagine con el fin de crear una escena mística y ultra detallada de la Princesa Tejedora y el Pastor bajo la Vía Láctea.
+
+#### 📝 Prompt
+
+```
+fondo negro cósmico, Princesa Tejedora y Pastor, vía láctea, contornos plateados brillantes, místico, hipnótico, calidad ultra, hiperdetallado, toma ultra gran angular
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074257789342601217/img/-tlANcy6fn_FF2x1.jpg" width="600" alt="Animación cósmica de la Princesa Tejedora en Tanabata">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6928)**
+
+**Author:** [なお](https://x.com/Naonekozamurai) | **Source:** [Link](https://x.com/Naonekozamurai/status/2074403041240035467) | **Published:** Jul 7, 2026
+
+---
+### Android Deltamon Anime DJ Loop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Una ilustración digital estilo anime para una animación tipo DJ loop que presenta a Android Deltamon frente a una estructura circular brillante en un cielo nocturno estrellado.
+
+#### 📝 Prompt
+
+```
+Una ilustración digital estilo anime de Android Deltamon presentada como un DJ-loop, frente a una estructura circular brillante en un cielo nocturno muy estrellado
+fantasía, sin zoom, 12 FPS
+Sin diálogo
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074356449107664896/img/-PEZI3ycFgV0_1QQ.jpg" width="600" alt="Android Deltamon Anime DJ Loop">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6930)**
+
+**Author:** [Cicadas Francois Cosmos 🇯🇵](https://x.com/FC_Cicadas) | **Source:** [Link](https://x.com/FC_Cicadas/status/2074356506334822402) | **Published:** Jul 7, 2026
+
+---
 ### Escena de diálogo del mapache Pippin
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2073,116 +2182,6 @@ Baile de tap en pista lluviosa. Tres mechs, un piloto intrépido y un chapuzón 
 **Author:** [AI영상공작실](https://x.com/lee_young71) | **Source:** [Link](https://x.com/lee_young71/status/2069796857874923823) | **Published:** Jun 24, 2026
 
 ---
-### Primer plano ultra realista de una ballena en Hermanus
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinematográfico altamente detallado para generar un video en primer plano realista de una ballena en su hábitat natural en Sudáfrica.
-
-#### 📝 Prompt
-
-```
-Escena en primer plano ultra realista de una ballena en Hermanus, Cabo Occidental, Sudáfrica.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069628026879348736/img/C6vuzUEB3K9HNoiB.jpg" width="600" alt="Primer plano ultra realista de una ballena en Hermanus">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6434)**
-
-**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2069654250263917021) | **Published:** Jun 24, 2026
-
----
-### Video de carreras en pantalla dividida sincronizada
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt integral para generar un video en pantalla dividida sincronizada de un auto deportivo derrapando en un paso de montaña japonés, que incluye tanto la perspectiva interior del conductor como la cámara de persecución exterior.
-
-#### 📝 Prompt
-
-```
-La pantalla presenta una configuración de pantalla dividida en izquierda y derecha. Ambos lados capturan el mismo momento desde diferentes ángulos de cámara, mostrando el mismo vehículo, la misma curva y el mismo eje temporal.
-
-[Pantalla izquierda]
-Cámara interior del conductor. Dentro de un auto deportivo con jaula antivuelco. El personaje está en el asiento del conductor sosteniendo el volante con ambas manos. Conduce a alta velocidad en un paso de montaña japonés, entrando y girando en una curva cerrada. Los ojos están enfocados en la dirección del viaje con una expresión seria y concentrada. Las fuerzas G laterales afectan el cuerpo, con los hombros y el cabello fluyendo ligeramente hacia afuera. La ropa y el cabello se balancean naturalmente en respuesta al movimiento del vehículo. Incluye asientos tipo cubo, indicadores y un movimiento de cámara natural sincronizado con la vibración del vehículo.
-
-[Pantalla derecha]
-Cámara de persecución en tercera persona que sigue al mismo vehículo desde una posición ligeramente elevada y trasera. Un paisaje realista de un paso de montaña japonés rodeado de bosques, con guardarraíles y líneas centrales. El vehículo está girando en la misma curva cerrada, mostrando la transferencia de peso en su postura. Los neumáticos se agarran firmemente a la superficie de la carretera y la suspensión se comprime de forma natural. Transmite el giro a alta velocidad, una sensación de velocidad y dinamismo.
-
-[Dirección de sincronización]
-La izquierda y la derecha no son escenas diferentes. La entrada de dirección en la pantalla izquierda y el comportamiento del vehículo en la pantalla derecha coinciden perfectamente. Transmite claramente que dos cámaras están filmando el mismo momento. Se representa una secuencia continua de movimientos de giro sin cortes de escena ni cambios de cámara.
-
-[Etapa final]
-El vehículo acelera hacia la salida de la curva. En la pantalla izquierda, el conductor devuelve el volante al centro mientras acelera. En la pantalla derecha, el vehículo se mueve de forma estable hacia la siguiente sección. Presenta una aceleración suave, un comportamiento realista del vehículo y una sensación inmersiva como una transmisión de automovilismo. Personajes de anime de alta calidad, fondos de alta calidad, representación realista del vehículo, como una escena de una obra cinematográfica.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069652913727934464/img/cD5otFSS6dkITuMi.jpg" width="600" alt="Video de carreras en pantalla dividida sincronizada">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6593)**
-
-**Author:** [Eris Create Lab](https://x.com/Eris_Create_Lab) | **Source:** [Link](https://x.com/Eris_Create_Lab/status/2069652994598244645) | **Published:** Jun 24, 2026
-
----
-### Guion de video de humano digital para Grok-imagine 1.5
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt detallado para generar un video de un humano digital con un presentador hablando a la cámara, que incluye un fondo de fuego animado y un monólogo específico sobre relaciones.
-
-#### 📝 Prompt
-
-```
-Primer plano: El presentador mira a la cámara y comienza con un gancho.
-Animación de fondo: Una bola de fuego comienza a arder desde las palabras "Primera convivencia" y se vuelve más pequeña lentamente.
-Ella dice (66 caracteres):
-"¿Por qué muchas personas pierden la chispa después de vivir juntas? No es que él se vuelva frío de repente, sino que la primera convivencia a menudo consume más de la mitad de la imaginación, la iniciativa y la pasión de una persona por una relación íntima."
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069642383088562176/img/eo2NBUhWqy0L72th.jpg" width="600" alt="Guion de video de humano digital para Grok-imagine 1.5">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6437)**
-
-**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2069642495282057518) | **Published:** Jun 24, 2026
-
----
-### La ventana de la realidad del cuadro embrujado
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un escenario imaginativo que describe un marco mágico parlante ubicado dentro del pasillo de un antiguo castillo costero.
-
-#### 📝 Prompt
-
-```
-Imagina que esta imagen, esta presencia, vivía dentro de un extraño marco de fotos colgado en el pasillo de un antiguo castillo frente a la costa del océano. La imagen es una ventana entre reinos; ella puede hablar con los espectadores, pero no puede cruzar el límite de la imagen...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069548037827895296/img/qN-AjDO1mFDZ06Ri.jpg" width="600" alt="La ventana de la realidad del cuadro embrujado">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6389)**
-
-**Author:** [Matt Wilson](https://x.com/MattWilson8178) | **Source:** [Link](https://x.com/MattWilson8178/status/2069549629474242638) | **Published:** Jun 23, 2026
-
----
-### Video de mandala de vela en espejo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video de naturaleza muerta espiritual que muestra la llama de una sola vela reflejándose en fragmentos de espejo rotos para crear un patrón de mandala unificado.
-
-#### 📝 Prompt
-
-```
-La llama de una sola vela reflejada en muchos fragmentos de espejo rotos creando un mandala brillante y unificado, naturaleza muerta espiritual en una habitación oscura.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069538232203960321/img/RQSycTTeDm08tqJc.jpg" width="600" alt="Video de mandala de vela en espejo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6393)**
-
-**Author:** [Christine](https://x.com/ChristineJxpxy) | **Source:** [Link](https://x.com/ChristineJxpxy/status/2069538330791035250) | **Published:** Jun 23, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2244,6 +2243,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-08T06:52:45.758Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-08T10:43:28.678Z</sub>
 
 </div>

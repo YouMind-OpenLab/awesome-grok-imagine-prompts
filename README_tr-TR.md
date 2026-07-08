@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2051** |
+| 📝 Total Prompts | **2056** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-08** |
 
@@ -189,6 +189,115 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Kavanozdaki Yıldızlar Zaman Ayarlı Katman
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Cam kavanozlar içindeki yıldızların yer aldığı büyülü bir sahne ve belirli aralıklarla beliren zaman ayarlı metin katmanları için bir video istemi.
+
+#### 📝 Prompt
+
+```
+cam kavanozların içindeki yıldızlar. Metin katmanı: Büyüyü serbest bırak. Bu metin 5 saniye sonra belirir ve 10 saniye sonra yerini https://t.co/bkeik1FLaj adresine bırakır.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074550597907279873/img/zMVbRBTn_MUwcTx7.jpg" width="600" alt="Kavanozdaki Yıldızlar Zaman Ayarlı Katman">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6929)**
+
+**Author:** [Ingi Freyr Rafnsson](https://x.com/ingi41717) | **Source:** [Link](https://x.com/ingi41717/status/2074550662101180540) | **Published:** Jul 7, 2026
+
+---
+### Kır Çiçekleri Tarlası Video Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir kır çiçeği tarlasında yusufçukla etkileşime giren bir kişiyi canlandıran, görselden videoya dönüştürme istemi.
+
+#### 📝 Prompt
+
+```
+Bu fotoğrafı kullanarak onu bir kır çiçeği tarlasına yerleştir; elini uzatsın ve bir yusufçuk eline konsun. Güneş parlak bir şekilde parlıyor ve kırmızı elbisesi rüzgarda dalgalanıyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074536511383486464/img/xnmAjniTXZvEfJ-c.jpg" width="600" alt="Kır Çiçekleri Tarlası Video Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6927)**
+
+**Author:** [Lisa Shardlow](https://x.com/lisa_shard96352) | **Source:** [Link](https://x.com/lisa_shard96352/status/2074536570749661521) | **Published:** Jul 7, 2026
+
+---
+### Brooklyn'de Katolik Fare Rahip
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Brooklyn'in hareketli ve devasa dünyasında gezinen, cübbeli bir fare rahibin yer aldığı fotogerçekçi bir sekans için sinematik video istemi.
+
+#### 📝 Prompt
+
+```
+15 saniyelik sinematik sekans, ultra fotogerçekçi, canlı çekim aydınlatmasıyla Pixar seviyesinde gerçekçilik, 4K, sığ alan derinliği, doğal kamera hareketi.
+
+Alçakgönüllü bir Katolik rahip gibi giyinmiş minik bir gri tarla faresi, kendisine uygun boyutta dikilmiş siyah bir cübbe ve beyaz bir rahip yakası takıyor. İçinde minyatür dua kitapları olan küçük, yıpranmış deri bir çanta taşıyor ve New York, Brooklyn'in bunaltıcı sokaklarında kararlılıkla ilerliyor.
+
+Kamera, fare gözü hizasında başlıyor; devasa insan ayakkabıları hareketli binalar gibi gürleyerek yanından geçiyor. Sarı taksiler tepesinde kükrüyor. Metro trenlerinin titreşimi kaldırımdan hissedilebiliyor. Sokak mazgallarından yükselen buhar, etrafında devasa bulutlar oluşturuyor. Kahve bardakları, gazete sayfaları ve sonbahar yaprakları, onun dünyasında dev nesneler gibi havada uçuşuyor.
+
+Küçük rahip; bisiklet tekerleklerinden, güvercinlerden, göl büyüklüğündeki yağmur birikintilerinden ve aceleci insanların gölgelerinden ustalıkla kaçıyor, her zaman sakin ve neşeli kalıyor. Güneş ışığı kahverengi taş binalardan (brownstone) sıcak bir şekilde yansırken, uzaktan hafifçe kilise çanları duyuluyor.
+
+Kamera, eski bir Brooklyn taş binasına ulaştığında onu takip ediyor. Ön kapıya çıkan geniş taş merdivenlerin tabanında, basamakların altındaki temele inşa edilmiş kemerli, minik ahşap bir kilise bulunuyor. Kilisenin vitray pencereleri, minyatür bir pirinç çanı, çiçek kutuları ve girişin üzerinde parlayan bir feneri var.
+
+Fare rahip sessiz bir memnuniyetle gülümsüyor, antika bir anahtarla minik ahşap kapının kilidini açıyor, içeri giriyor ve küçük kilise çanını nazikçe çalıyor; o sırada sıcak altın rengi ışık kaldırıma yayılırken, hareketli insan dünyası onun üzerinde hiçbir şeyden habersiz akıp gitmeye devam ediyor.
+
+Oldukça sinematik, içten, tuhaf ama gerçekçi, gerçekçi dokular, otantik Brooklyn atmosferi, duygusal hikaye anlatımı, akıcı takip çekimleri, diyalog yok, sadece doğal ortam şehir sesleri.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074431689858715648/img/jw8oO-1IwUz5ouCE.jpg" width="600" alt="Brooklyn'de Katolik Fare Rahip">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6926)**
+
+**Author:** [Sub Pop Culture 🇺🇸🐿️](https://x.com/WriterMcG) | **Source:** [Link](https://x.com/WriterMcG/status/2074431744808264058) | **Published:** Jul 7, 2026
+
+---
+### Tanabata Dokumacı Prenses Kozmik Animasyonu
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Grok Imagine için tasarlanmış; Dokumacı Prenses ve Çoban Prens'in Samanyolu altındaki mistik, hiper detaylı sahnesini oluşturmaya yönelik göksel bir görsel istemi.
+
+#### 📝 Prompt
+
+```
+kozmik siyah arka plan, Dokumacı Prenses ve Çoban Prens, samanyolu, parlayan gümüş ana hatlar, mistik, hipnotik, ultra kalite, hiper detaylı, ultra geniş açı
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074257789342601217/img/-tlANcy6fn_FF2x1.jpg" width="600" alt="Tanabata Dokumacı Prenses Kozmik Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6928)**
+
+**Author:** [なお](https://x.com/Naonekozamurai) | **Source:** [Link](https://x.com/Naonekozamurai/status/2074403041240035467) | **Published:** Jul 7, 2026
+
+---
+### Android Deltamon Anime DJ Döngüsü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yıldızlı bir gece gökyüzünde parlayan dairesel bir yapının önünde Android Deltamon'un yer aldığı, DJ döngü animasyonu için anime tarzında dijital bir illüstrasyon.
+
+#### 📝 Prompt
+
+```
+Android Deltamon'un DJ döngüsü olarak yer aldığı, çok yıldızlı bir gece gökyüzünde parlayan dairesel bir yapının önündeki dijital anime tarzı illüstrasyon
+fantezi, yakınlaştırma yok, 12 FPS
+Diyalog yok
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074356449107664896/img/-PEZI3ycFgV0_1QQ.jpg" width="600" alt="Android Deltamon Anime DJ Döngüsü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6930)**
+
+**Author:** [Cicadas Francois Cosmos 🇯🇵](https://x.com/FC_Cicadas) | **Source:** [Link](https://x.com/FC_Cicadas/status/2074356506334822402) | **Published:** Jul 7, 2026
+
+---
 ### Rakun Pippin Diyalog Sahnesi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2073,116 +2182,6 @@ Yağmurlu Pistte Step Dansı. Üç robot, bir korkusuz pilot ve yukarıdan gelen
 **Author:** [AI영상공작실](https://x.com/lee_young71) | **Source:** [Link](https://x.com/lee_young71/status/2069796857874923823) | **Published:** Jun 24, 2026
 
 ---
-### Hermanus'ta Ultra Gerçekçi Balina Yakın Çekimi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Güney Afrika'daki doğal yaşam alanında bir balinanın gerçekçi yakın çekim videosunu oluşturmak için oldukça detaylı sinematik bir komut.
-
-#### 📝 Prompt
-
-```
-Hermanus, Western Cape, Güney Afrika'da bir balinanın ultra gerçekçi yakın çekim sahnesi.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069628026879348736/img/C6vuzUEB3K9HNoiB.jpg" width="600" alt="Hermanus'ta Ultra Gerçekçi Balina Yakın Çekimi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6434)**
-
-**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2069654250263917021) | **Published:** Jun 24, 2026
-
----
-### Senkronize Bölünmüş Ekran Yarış Videosu
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Japon dağ geçidinde drift yapan bir spor otomobilin, hem araç içi sürücü bakış açısını hem de dış takip kamerası perspektiflerini içeren, senkronize bölünmüş ekranlı bir video oluşturmaya yönelik kapsamlı bir komut.
-
-#### 📝 Prompt
-
-```
-Ekran, sağ ve sol olarak bölünmüş bir ekran konfigürasyonuna sahiptir. Her iki taraf da aynı anı farklı kamera açılarından yakalayarak aynı aracı, aynı virajı ve aynı zaman eksenini gösterir.
-
-[Sol Ekran]
-Araç içi sürücü kamerası. Takla kafesi bulunan bir spor otomobilin içi. Karakter sürücü koltuğunda, iki eliyle direksiyonu tutuyor. Japon dağ geçidinde yüksek hızla ilerliyor, keskin bir viraja giriyor ve dönüyor. Gözleri ciddi ve odaklanmış bir ifadeyle gidiş yönüne kilitlenmiş durumda. Yanal G kuvvetleri vücudu etkiliyor; omuzlar ve saçlar hafifçe dışa doğru savruluyor. Kıyafetler ve saçlar, aracın hareketine tepki olarak doğal bir şekilde dalgalanıyor. Yarış koltukları, göstergeler ve araç titreşimiyle senkronize doğal kamera sarsıntısı içeriyor.
-
-[Sağ Ekran]
-Aynı aracı hafifçe yukarıdan ve arkadan takip eden üçüncü şahıs takip kamerası. Ormanlarla çevrili, bariyerleri ve orta çizgileri olan gerçekçi bir Japon dağ geçidi manzarası. Araç aynı keskin virajdan dönüyor ve duruşundaki ağırlık transferini gösteriyor. Lastikler yol yüzeyini sıkıca kavrıyor ve süspansiyon doğal bir şekilde esniyor. Yüksek hızlı viraj almayı, hız hissini ve dinamizmi yansıtıyor.
-
-[Senkronizasyon Talimatı]
-Sol ve sağ taraf farklı sahneler değildir. Sol ekrandaki direksiyon hareketi ile sağ ekrandaki araç davranışı mükemmel bir şekilde eşleşmektedir. İki kameranın aynı anı kaydettiğini açıkça gösterir. Viraj alma hareketlerinin kesintisiz bir sekansı, sahne kesintisi veya kamera değişimi olmadan tasvir edilmiştir.
-
-[Son Aşama]
-Araç, viraj çıkışına doğru hızlanır. Sol ekranda sürücü, hızlanırken direksiyonu merkeze getirir. Sağ ekranda araç, bir sonraki bölüme doğru dengeli bir şekilde ilerler. Pürüzsüz hızlanma, gerçekçi araç davranışı ve motor sporları yayını gibi sürükleyici bir his sunar. Yüksek kaliteli anime karakterleri, yüksek kaliteli arka planlar, gerçekçi araç temsili; sinematik bir yapımdan bir sahne gibi.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069652913727934464/img/cD5otFSS6dkITuMi.jpg" width="600" alt="Senkronize Bölünmüş Ekran Yarış Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6593)**
-
-**Author:** [Eris Create Lab](https://x.com/Eris_Create_Lab) | **Source:** [Link](https://x.com/Eris_Create_Lab/status/2069652994598244645) | **Published:** Jun 24, 2026
-
----
-### Grok-imagine 1.5 Dijital İnsan Video Senaryosu
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Kameraya konuşan bir sunucunun yer aldığı, animasyonlu ateş arka planı ve ilişki temalı özel bir monolog içeren dijital insan videosu oluşturmaya yönelik detaylı bir komut.
-
-#### 📝 Prompt
-
-```
-Ön plan: Sunucu kameraya bakar ve etkileyici bir giriş cümlesiyle başlar.
-Arka plan animasyonu: "İlk Birlikte Yaşama" kelimelerinden bir ateş topu yanmaya başlar ve yavaşça küçülür.
-Sunucunun konuşması (66 karakter):
-"Neden birçok insan birlikte yaşamaya başladıktan sonra o kıvılcımı kaybeder? Sorun erkeğin aniden soğuması değil, ilk birlikte yaşamanın genellikle bir insanın hayal gücünün, inisiyatifinin ve yakın ilişkiye dair tutkusunun yarısından fazlasını tüketmesidir."
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069642383088562176/img/eo2NBUhWqy0L72th.jpg" width="600" alt="Grok-imagine 1.5 Dijital İnsan Video Senaryosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6437)**
-
-**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2069642495282057518) | **Published:** Jun 24, 2026
-
----
-### Lanetli Tablo Gerçeklik Penceresi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Okyanus kıyısındaki antik bir kale koridorunda bulunan, konuşan sihirli bir çerçeveyi anlatan yaratıcı bir senaryo.
-
-#### 📝 Prompt
-
-```
-Bu görüntünün, bu varlığın, okyanus kıyısındaki antik bir kale koridorunda asılı duran tuhaf bir resim çerçevesinin içinde yaşadığını hayal edin. Bu görüntü, alemler arasında bir pencere görevi görüyor; izleyicilerle konuşabiliyor ancak resmin sınırlarını aşamıyor...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069548037827895296/img/qN-AjDO1mFDZ06Ri.jpg" width="600" alt="Lanetli Tablo Gerçeklik Penceresi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6389)**
-
-**Author:** [Matt Wilson](https://x.com/MattWilson8178) | **Source:** [Link](https://x.com/MattWilson8178/status/2069549629474242638) | **Published:** Jun 23, 2026
-
----
-### Mum Mandala Ayna Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Tek bir mum alevinin kırık ayna parçaları üzerinde yansıyarak birleşik bir mandala deseni oluşturduğu spiritüel bir natürmort video istemi.
-
-#### 📝 Prompt
-
-```
-Birçok kırık ayna parçasında yansıyan tek bir mum alevi, birleşik parlak bir mandala oluşturuyor, karanlık oda spiritüel natürmort.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069538232203960321/img/RQSycTTeDm08tqJc.jpg" width="600" alt="Mum Mandala Ayna Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6393)**
-
-**Author:** [Christine](https://x.com/ChristineJxpxy) | **Source:** [Link](https://x.com/ChristineJxpxy/status/2069538330791035250) | **Published:** Jun 23, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2244,6 +2243,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-08T06:52:55.156Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-08T10:43:34.546Z</sub>
 
 </div>

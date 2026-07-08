@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **2051** |
+| 📝 총 프롬프트 수 | **2056** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-07-08** |
 
@@ -189,6 +189,115 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 유리병 속 별 타이머 오버레이
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 유리병 속 별들이 담긴 마법 같은 장면과 특정 간격으로 나타나는 텍스트 오버레이를 위한 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+유리병 속 별들. 텍스트 오버레이: 마법을 해제하세요. 해당 텍스트는 5초 후에 나타나며, 10초 후에는 https://t.co/bkeik1FLaj 로 대체됩니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074550597907279873/img/zMVbRBTn_MUwcTx7.jpg" width="600" alt="유리병 속 별 타이머 오버레이">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6929)**
+
+**작성자:** [Ingi Freyr Rafnsson](https://x.com/ingi41717) | **출처:** [Link](https://x.com/ingi41717/status/2074550662101180540) | **게시일:** Jul 7, 2026
+
+---
+### 야생화 들판 비디오 애니메이션
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 야생화 들판에서 잠자리와 교감하는 인물을 애니메이션으로 구현하는 이미지 투 비디오(image-to-video) 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+이 사진을 사용하여 그녀를 야생화가 가득한 들판에 배치하고, 그녀가 손을 뻗었을 때 잠자리가 그 위에 내려앉는 모습을 연출해 주세요. 햇살이 밝게 비치고 그녀의 빨간 드레스가 바람에 휘날리고 있습니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074536511383486464/img/xnmAjniTXZvEfJ-c.jpg" width="600" alt="야생화 들판 비디오 애니메이션">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6927)**
+
+**작성자:** [Lisa Shardlow](https://x.com/lisa_shard96352) | **출처:** [Link](https://x.com/lisa_shard96352/status/2074536570749661521) | **게시일:** Jul 7, 2026
+
+---
+### 브루클린의 가톨릭 신부 생쥐
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 브루클린의 거대하고 분주한 세상을 누비는 사제복 차림의 생쥐를 주인공으로 한, 실사 영화 스타일의 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+15초 분량의 영화적 시퀀스, 초고화질 실사 스타일, 실사 영화 조명을 적용한 픽사 수준의 사실감, 4K 해상도, 얕은 피사계 심도, 자연스러운 카메라 무빙.
+
+겸손한 가톨릭 신부 복장을 한 작은 들쥐가 자신의 몸에 딱 맞게 제작된 검은색 사제복과 흰색 로만 칼라를 착용하고 있습니다. 생쥐는 작은 기도서가 담긴 낡은 가죽 가방을 메고 뉴욕 브루클린의 압도적인 거리 사이를 결연한 모습으로 바쁘게 움직입니다.
+
+카메라는 생쥐의 눈높이에서 시작되며, 거대한 사람들의 신발이 움직이는 건물처럼 쿵쿵거리며 지나갑니다. 머리 위로는 노란색 택시가 굉음을 내며 지나가고, 지하철이 지나가는 진동이 보도를 통해 느껴집니다. 거리의 맨홀 뚜껑에서 피어오르는 증기는 생쥐 주변으로 거대한 구름을 형성합니다. 커피 컵, 신문지, 낙엽들이 생쥐의 세상에서는 거대한 물체처럼 공중을 휘날립니다.
+
+작은 신부는 자전거 바퀴, 비둘기, 호수만큼 커다란 빗물 웅덩이, 그리고 바쁘게 오가는 통근자들의 그림자를 능숙하게 피하면서도 평온하고 기쁜 표정을 잃지 않습니다. 햇살이 브라운스톤 건물에 따스하게 반사되고, 멀리서 교회 종소리가 은은하게 울려 퍼집니다.
+
+카메라는 그가 오래된 브루클린의 브라운스톤 건물에 도착할 때까지 그를 따라갑니다. 현관으로 이어지는 넓은 돌계단 아래에는 계단 기초 부분에 지어진 작은 아치형 목조 교회가 있습니다. 교회에는 스테인드글라스 창문, 작은 황동 종, 꽃 상자, 그리고 입구 위에 빛나는 랜턴이 달려 있습니다.
+
+신부 생쥐는 조용한 만족감을 느끼며 미소 짓고, 골동품 열쇠로 작은 나무 문을 열고 안으로 들어갑니다. 그가 부드럽게 작은 교회 종을 울리자 따스한 황금빛이 인도 위로 쏟아져 나오고, 그 위로는 분주한 인간 세상이 아무것도 모른 채 계속됩니다.
+
+매우 영화적이고 가슴 따뜻하며, 기발하면서도 현실적인 질감, 브루클린의 생생한 분위기, 감성적인 스토리텔링, 부드러운 트래킹 샷, 대사 없음, 자연스러운 도시 주변 소음만 포함.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074431689858715648/img/jw8oO-1IwUz5ouCE.jpg" width="600" alt="브루클린의 가톨릭 신부 생쥐">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6926)**
+
+**작성자:** [Sub Pop Culture 🇺🇸🐿️](https://x.com/WriterMcG) | **출처:** [Link](https://x.com/WriterMcG/status/2074431744808264058) | **게시일:** Jul 7, 2026
+
+---
+### 칠석 견우와 직녀 우주 애니메이션
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Grok Imagine을 위해 설계된 천체 비주얼 프롬프트로, 은하수 아래 견우와 직녀의 신비롭고 초정밀한 장면을 생성합니다.
+
+#### 📝 프롬프트
+
+```
+우주적인 검은 배경, 견우와 직녀, 은하수, 빛나는 은색 윤곽선, 신비로운, 최면을 거는 듯한, 최고 품질, 초정밀, 초광각 샷
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074257789342601217/img/-tlANcy6fn_FF2x1.jpg" width="600" alt="칠석 견우와 직녀 우주 애니메이션">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6928)**
+
+**작성자:** [なお](https://x.com/Naonekozamurai) | **출처:** [Link](https://x.com/Naonekozamurai/status/2074403041240035467) | **게시일:** Jul 7, 2026
+
+---
+### Android Deltamon 애니메이션 DJ 루프
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 별이 빛나는 밤하늘 아래, 빛나는 원형 구조물을 배경으로 한 Android Deltamon의 DJ 루프 애니메이션 스타일 디지털 일러스트레이션입니다.
+
+#### 📝 프롬프트
+
+```
+별이 가득한 밤하늘의 빛나는 원형 구조물을 배경으로 한 Android Deltamon의 DJ 루프용 애니메이션 스타일 디지털 일러스트레이션
+판타지, 줌 없음, 12 FPS
+대사 없음
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074356449107664896/img/-PEZI3ycFgV0_1QQ.jpg" width="600" alt="Android Deltamon 애니메이션 DJ 루프">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6930)**
+
+**작성자:** [Cicadas Francois Cosmos 🇯🇵](https://x.com/FC_Cicadas) | **출처:** [Link](https://x.com/FC_Cicadas/status/2074356506334822402) | **게시일:** Jul 7, 2026
+
+---
 ### 너구리 피핀(Pippin) 대화 장면
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2073,116 +2182,6 @@ Elena 가 반짝이는 포털을 지나 광활한 Playroom 으로 들어서며 �
 **작성자:** [AI영상공작실](https://x.com/lee_young71) | **출처:** [Link](https://x.com/lee_young71/status/2069796857874923823) | **게시일:** Jun 24, 2026
 
 ---
-### 헤르마누스에서 촬영한 초현실적인 고래 클로즈업
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 남아프리카 공화국의 자연 서식지에 있는 고래의 사실적인 클로즈업 영상을 생성하기 위한 고도로 상세한 시네마틱 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-남아프리카 공화국 웨스턴케이프주 헤르마누스에서 촬영한 고래의 초현실적인 클로즈업 장면.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069628026879348736/img/C6vuzUEB3K9HNoiB.jpg" width="600" alt="헤르마누스에서 촬영한 초현실적인 고래 클로즈업">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6434)**
-
-**작성자:** [Mario Nawfal](https://x.com/MarioNawfal) | **출처:** [Link](https://x.com/MarioNawfal/status/2069654250263917021) | **게시일:** Jun 24, 2026
-
----
-### 동기화된 분할 화면 레이싱 영상
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 일본 산악 도로에서 드리프트하는 스포츠카를 내부 운전자 시점과 외부 추격 카메라 시점으로 동시에 보여주는 동기화된 분할 화면 영상 생성용 종합 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-화면은 좌우로 나뉜 분할 화면 구성입니다. 양쪽 화면은 서로 다른 카메라 각도에서 같은 순간을 포착하며, 동일한 차량, 동일한 코너, 동일한 시간축을 보여줍니다.
-
-[왼쪽 화면]
-차량 내부 운전자 카메라. 롤케이지가 설치된 스포츠카 내부. 캐릭터가 운전석에 앉아 양손으로 스티어링 휠을 잡고 있습니다. 일본 산악 도로를 고속으로 주행하며 헤어핀 코너로 진입해 회전합니다. 시선은 진행 방향을 향하고 있으며, 진지하고 집중한 표정입니다. 측면 G-포스가 몸에 가해져 어깨와 머리카락이 바깥쪽으로 약간 쏠립니다. 차량 움직임에 따라 의상과 머리카락이 자연스럽게 흔들립니다. 버킷 시트, 계기판, 차량 진동과 동기화된 자연스러운 카메라 흔들림이 특징입니다.
-
-[오른쪽 화면]
-동일한 차량을 약간 위쪽 뒤에서 따라가는 3인칭 추격 카메라. 가드레일과 중앙선이 있는 숲으로 둘러싸인 일본 산악 도로의 사실적인 풍경. 차량이 같은 헤어핀 코너를 돌며 자세의 무게 중심 이동을 보여줍니다. 타이어가 노면을 단단히 움켜쥐고 서스펜션이 자연스럽게 압축됩니다. 고속 코너링, 속도감, 역동성을 전달합니다.
-
-[동기화 지침]
-좌우 화면은 서로 다른 장면이 아닙니다. 왼쪽 화면의 스티어링 조작과 오른쪽 화면의 차량 움직임이 완벽하게 일치합니다. 두 대의 카메라가 같은 순간을 촬영하고 있음을 명확하게 전달합니다. 장면 전환이나 카메라 교체 없이 코너링 동작이 연속적으로 묘사됩니다.
-
-[최종 단계]
-차량이 코너 탈출을 향해 가속합니다. 왼쪽 화면에서는 운전자가 가속하며 스티어링 휠을 중앙으로 되돌립니다. 오른쪽 화면에서는 차량이 다음 구간을 향해 안정적으로 이동합니다. 부드러운 가속, 사실적인 차량 움직임, 모터스포츠 중계와 같은 몰입감을 제공합니다. 고품질 애니메이션 캐릭터, 고품질 배경, 영화의 한 장면 같은 사실적인 차량 묘사가 특징입니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069652913727934464/img/cD5otFSS6dkITuMi.jpg" width="600" alt="동기화된 분할 화면 레이싱 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6593)**
-
-**작성자:** [Eris Create Lab](https://x.com/Eris_Create_Lab) | **출처:** [Link](https://x.com/Eris_Create_Lab/status/2069652994598244645) | **게시일:** Jun 24, 2026
-
----
-### Grok-imagine 1.5 디지털 휴먼 영상 스크립트
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 카메라를 보고 말하는 호스트, 애니메이션 불꽃 배경, 그리고 관계를 주제로 한 독백이 포함된 디지털 휴먼 영상 생성용 상세 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-전경: 호스트가 카메라를 응시하며 도입부로 시작합니다.
-배경 애니메이션: "첫 동거"라는 단어에서 불덩이가 타오르기 시작하며 서서히 작아집니다.
-호스트 대사 (66자):
-"왜 많은 사람들이 함께 살기 시작하면 열정을 잃는 걸까요? 그가 갑자기 차가워진 것이 아니라, 첫 동거가 친밀한 관계에 대한 상상력과 주도성, 그리고 열정의 절반 이상을 태워버리기 때문입니다."
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069642383088562176/img/eo2NBUhWqy0L72th.jpg" width="600" alt="Grok-imagine 1.5 디지털 휴먼 영상 스크립트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6437)**
-
-**작성자:** [John](https://x.com/john87445528) | **출처:** [Link](https://x.com/john87445528/status/2069642495282057518) | **게시일:** Jun 24, 2026
-
----
-### 유령이 깃든 그림, 현실의 창
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 해안가 고대 성 복도에 걸린 마법의 말하는 액자에 대한 상상력을 자극하는 시나리오입니다.
-
-#### 📝 프롬프트
-
-```
-이 이미지, 이 존재가 해안가에 위치한 고대 성 복도에 걸린 기묘한 액자 속에 살고 있다고 상상해 보세요. 이 그림은 차원을 잇는 창문과 같습니다. 그녀는 관람객에게 말을 걸 수 있지만, 그림의 경계를 넘어설 수는 없습니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069548037827895296/img/qN-AjDO1mFDZ06Ri.jpg" width="600" alt="유령이 깃든 그림, 현실의 창">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6389)**
-
-**작성자:** [Matt Wilson](https://x.com/MattWilson8178) | **출처:** [Link](https://x.com/MattWilson8178/status/2069549629474242638) | **게시일:** Jun 23, 2026
-
----
-### 캔들 만다라 거울 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 깨진 거울 조각에 반사된 단일 촛불이 하나의 통합된 만다라 패턴을 만들어내는 영적인 정물 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-수많은 깨진 거울 조각에 반사되어 하나의 밝고 통합된 만다라를 형성하는 단일 촛불, 어두운 방 안의 영적인 정물.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069538232203960321/img/RQSycTTeDm08tqJc.jpg" width="600" alt="캔들 만다라 거울 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6393)**
-
-**작성자:** [Christine](https://x.com/ChristineJxpxy) | **출처:** [Link](https://x.com/ChristineJxpxy/status/2069538330791035250) | **게시일:** Jun 23, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2244,6 +2243,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-08T06:52:37.861Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-08T10:43:24.084Z</sub>
 
 </div>

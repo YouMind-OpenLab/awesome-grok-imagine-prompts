@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2051** |
+| 📝 Total Prompts | **2056** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-08** |
 
@@ -189,6 +189,115 @@ Uma valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Sobreposição Temporizada de Estrelas em Potes
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo para uma cena mágica com estrelas em potes de vidro e sobreposições de texto cronometradas aparecendo em intervalos específicos.
+
+#### 📝 Prompt
+
+```
+estrelas dentro de potes de vidro. Sobreposição de texto: Libere a magia. Esse texto aparece após 5 segundos e é substituído por https://t.co/bkeik1FLaj após 10 segundos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074550597907279873/img/zMVbRBTn_MUwcTx7.jpg" width="600" alt="Sobreposição Temporizada de Estrelas em Potes">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6929)**
+
+**Author:** [Ingi Freyr Rafnsson](https://x.com/ingi41717) | **Source:** [Link](https://x.com/ingi41717/status/2074550662101180540) | **Published:** Jul 7, 2026
+
+---
+### Animação de Vídeo em Campo de Flores Silvestres
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de imagem para vídeo que anima uma pessoa em um campo de flores silvestres interagindo com uma libélula.
+
+#### 📝 Prompt
+
+```
+Usando esta foto, coloque-a em um campo de flores silvestres, estendendo a mão para que uma libélula pouse nela. O sol está brilhando intensamente e seu vestido vermelho está esvoaçante.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074536511383486464/img/xnmAjniTXZvEfJ-c.jpg" width="600" alt="Animação de Vídeo em Campo de Flores Silvestres">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6927)**
+
+**Author:** [Lisa Shardlow](https://x.com/lisa_shard96352) | **Source:** [Link](https://x.com/lisa_shard96352/status/2074536570749661521) | **Published:** Jul 7, 2026
+
+---
+### Rato padre católico no Brooklyn
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico para uma sequência fotorrealista apresentando um rato padre de batina navegando pelo mundo agitado e gigantesco do Brooklyn.
+
+#### 📝 Prompt
+
+```
+Sequência cinematográfica de 15 segundos, ultra-fotorrealista, realismo nível Pixar com iluminação de live-action, 4K, profundidade de campo reduzida, movimento de câmera natural.
+
+Um pequeno rato de campo cinza, vestido como um humilde padre católico, usa uma batina preta perfeitamente ajustada com um colarinho romano branco feito sob medida para um rato. Ele carrega uma pequena bolsa de couro gasta, cheia de livros de orações em miniatura, e caminha com determinação pelas ruas avassaladoras do Brooklyn, Nova York.
+
+A câmera começa ao nível dos olhos do rato, enquanto enormes sapatos humanos passam como prédios em movimento. Táxis amarelos rugem acima. A vibração dos trens do metrô pode ser sentida através da calçada. O vapor sobe das grades das ruas, criando nuvens imponentes ao redor dele. Copos de café, páginas de jornal e folhas de outono giram no ar como objetos gigantes em seu mundo.
+
+O pequeno padre desvia habilmente de rodas de bicicleta, pombos, poças de chuva do tamanho de lagos e das sombras de pedestres apressados, permanecendo sempre calmo e alegre. A luz do sol reflete calorosamente nos brownstones, enquanto sinos de igreja tocam suavemente ao longe.
+
+A câmera o segue até que ele chega a um antigo brownstone do Brooklyn. Na base da ampla escadaria de pedra que leva à porta da frente, há uma pequena igreja de madeira em arco construída na fundação, sob os degraus. Ela possui vitrais, um sino de latão em miniatura, jardineiras e uma lanterna brilhante sobre a entrada.
+
+O rato padre sorri com uma satisfação serena, destranca a pequena porta de madeira com uma chave antiga, entra e toca suavemente o pequeno sino da igreja, enquanto uma luz dourada e quente se espalha pela calçada, ao mesmo tempo em que o agitado mundo humano continua, completamente alheio a ele.
+
+Altamente cinematográfico, emocionante, fantasioso, porém realista, texturas realistas, atmosfera autêntica do Brooklyn, narrativa emocional, planos de acompanhamento suaves, sem diálogos, apenas sons ambientes naturais da cidade.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074431689858715648/img/jw8oO-1IwUz5ouCE.jpg" width="600" alt="Rato padre católico no Brooklyn">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6926)**
+
+**Author:** [Sub Pop Culture 🇺🇸🐿️](https://x.com/WriterMcG) | **Source:** [Link](https://x.com/WriterMcG/status/2074431744808264058) | **Published:** Jul 7, 2026
+
+---
+### Animação Cósmica da Princesa Tecelã no Tanabata
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Um prompt visual celestial projetado para o Grok Imagine criar uma cena mística e hiperdetalhada da Princesa Tecelã e do Príncipe Pastor sob a Via Láctea.
+
+#### 📝 Prompt
+
+```
+fundo preto cósmico, Princesa Tecelã e Príncipe Pastor, via láctea, contornos prateados brilhantes, místico, hipnótico, qualidade ultra, hiperdetalhado, plano ultra-amplo
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074257789342601217/img/-tlANcy6fn_FF2x1.jpg" width="600" alt="Animação Cósmica da Princesa Tecelã no Tanabata">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6928)**
+
+**Author:** [なお](https://x.com/Naonekozamurai) | **Source:** [Link](https://x.com/Naonekozamurai/status/2074403041240035467) | **Published:** Jul 7, 2026
+
+---
+### Android Deltamon Anime DJ Loop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Uma ilustração digital em estilo anime para uma animação de DJ loop, apresentando o Android Deltamon contra uma estrutura circular brilhante em um céu noturno estrelado.
+
+#### 📝 Prompt
+
+```
+Uma ilustração digital em estilo anime do Android Deltamon como um DJ-loop, contra uma estrutura circular brilhante em um céu noturno muito estrelado
+fantasia, sem zoom, 12 FPS
+Sem diálogo
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074356449107664896/img/-PEZI3ycFgV0_1QQ.jpg" width="600" alt="Android Deltamon Anime DJ Loop">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6930)**
+
+**Author:** [Cicadas Francois Cosmos 🇯🇵](https://x.com/FC_Cicadas) | **Source:** [Link](https://x.com/FC_Cicadas/status/2074356506334822402) | **Published:** Jul 7, 2026
+
+---
 ### Cena de Diálogo do Guaxinim Pippin
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2073,116 +2182,6 @@ Sapateado na Pista Chuvosa. Três mechas, um piloto destemido e um splash inespe
 **Author:** [AI영상공작실](https://x.com/lee_young71) | **Source:** [Link](https://x.com/lee_young71/status/2069796857874923823) | **Published:** Jun 24, 2026
 
 ---
-### Close-up ultrarrealista de baleia em Hermanus
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt cinematográfico altamente detalhado para gerar um vídeo em close-up realista de uma baleia em seu habitat natural na África do Sul.
-
-#### 📝 Prompt
-
-```
-Cena em close-up ultrarrealista de uma baleia em Hermanus, Cabo Ocidental, África do Sul.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069628026879348736/img/C6vuzUEB3K9HNoiB.jpg" width="600" alt="Close-up ultrarrealista de baleia em Hermanus">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6434)**
-
-**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2069654250263917021) | **Published:** Jun 24, 2026
-
----
-### Vídeo de Corrida em Tela Dividida Sincronizada
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Um prompt abrangente para gerar um vídeo em tela dividida sincronizada de um carro esportivo fazendo drift em uma estrada de montanha japonesa, apresentando tanto o ponto de vista do motorista (POV) quanto a perspectiva de câmera de perseguição externa.
-
-#### 📝 Prompt
-
-```
-A tela apresenta uma configuração de tela dividida entre esquerda e direita. Ambos os lados capturam o mesmo momento a partir de ângulos de câmera diferentes, mostrando o mesmo veículo, a mesma curva e o mesmo eixo temporal.
-
-[Tela Esquerda]
-Câmera interna do motorista. Dentro de um carro esportivo com gaiola de proteção. O personagem está no banco do motorista segurando o volante com as duas mãos. Dirigindo em alta velocidade em uma estrada de montanha japonesa, entrando e fazendo uma curva fechada (hairpin). Os olhos estão focados na direção do movimento com uma expressão séria e concentrada. Forças G laterais afetam o corpo, com ombros e cabelos balançando levemente para fora. Roupas e cabelos balançam naturalmente em resposta ao movimento do veículo. Apresenta bancos concha, painel de instrumentos e vibração natural da câmera sincronizada com a vibração do veículo.
-
-[Tela Direita]
-Câmera de perseguição em terceira pessoa seguindo o mesmo veículo de um ângulo ligeiramente acima e atrás. Uma paisagem realista de uma estrada de montanha japonesa cercada por florestas, apresentando guardrails e linhas centrais. O veículo está fazendo a mesma curva fechada, mostrando a transferência de peso em sua postura. Os pneus aderem firmemente à superfície da estrada e a suspensão comprime naturalmente. Transmite uma curva em alta velocidade, sensação de velocidade e dinamismo.
-
-[Diretriz de Sincronização]
-A esquerda e a direita não são cenas diferentes. O comando do volante na tela esquerda e o comportamento do veículo na tela direita são perfeitamente correspondentes. Fica claro que duas câmeras estão filmando o mesmo momento. Uma sequência contínua de movimentos de curva é retratada sem cortes de cena ou trocas de câmera.
-
-[Estágio Final]
-O veículo acelera em direção à saída da curva. Na tela esquerda, o motorista retorna o volante para o centro enquanto acelera. Na tela direita, o veículo se move de forma estável em direção à próxima seção. Apresenta aceleração suave, comportamento realista do veículo e uma sensação imersiva como uma transmissão de automobilismo. Personagens de anime de alta qualidade, fundos de alta qualidade, representação realista do veículo, como uma cena de uma obra cinematográfica.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069652913727934464/img/cD5otFSS6dkITuMi.jpg" width="600" alt="Vídeo de Corrida em Tela Dividida Sincronizada">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6593)**
-
-**Author:** [Eris Create Lab](https://x.com/Eris_Create_Lab) | **Source:** [Link](https://x.com/Eris_Create_Lab/status/2069652994598244645) | **Published:** Jun 24, 2026
-
----
-### Roteiro de vídeo de humano digital Grok-imagine 1.5
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Um prompt detalhado para gerar um vídeo de humano digital com um apresentador falando para a câmera, apresentando um fundo de fogo animado e um monólogo específico sobre relacionamentos.
-
-#### 📝 Prompt
-
-```
-Primeiro plano: O apresentador olha para a câmera e começa com um gancho.
-Animação de fundo: Uma bola de fogo começa a queimar a partir das palavras "Primeira Coabitação" e diminui lentamente.
-Ela diz (66 caracteres):
-"Por que muitas pessoas perdem o brilho depois de morar juntas? Não é que ele se torne frio de repente, mas é que a primeira coabitação muitas vezes consome mais da metade da imaginação, iniciativa e paixão de uma pessoa por um relacionamento íntimo."
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069642383088562176/img/eo2NBUhWqy0L72th.jpg" width="600" alt="Roteiro de vídeo de humano digital Grok-imagine 1.5">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6437)**
-
-**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2069642495282057518) | **Published:** Jun 24, 2026
-
----
-### Janela da Realidade: A Pintura Assombrada
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um cenário imaginativo que descreve uma moldura mágica falante localizada no corredor de um antigo castelo costeiro.
-
-#### 📝 Prompt
-
-```
-Imagine que esta imagem, esta presença, vive dentro de uma estranha moldura pendurada no corredor de um antigo castelo de frente para a costa do oceano. A imagem é uma janela entre reinos; ela pode falar com os espectadores, mas não consegue cruzar a fronteira da imagem...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069548037827895296/img/qN-AjDO1mFDZ06Ri.jpg" width="600" alt="Janela da Realidade: A Pintura Assombrada">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6389)**
-
-**Author:** [Matt Wilson](https://x.com/MattWilson8178) | **Source:** [Link](https://x.com/MattWilson8178/status/2069549629474242638) | **Published:** Jun 23, 2026
-
----
-### Vídeo de Mandala de Vela em Espelho
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo de natureza morta espiritual mostrando a chama de uma única vela refletida em cacos de espelho quebrados para criar um padrão de mandala unificado.
-
-#### 📝 Prompt
-
-```
-A chama de uma única vela refletida em vários cacos de espelho quebrados criando uma mandala brilhante e unificada, natureza morta espiritual em um quarto escuro.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069538232203960321/img/RQSycTTeDm08tqJc.jpg" width="600" alt="Vídeo de Mandala de Vela em Espelho">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6393)**
-
-**Author:** [Christine](https://x.com/ChristineJxpxy) | **Source:** [Link](https://x.com/ChristineJxpxy/status/2069538330791035250) | **Published:** Jun 23, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2244,6 +2243,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-08T06:52:52.271Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-08T10:43:32.541Z</sub>
 
 </div>

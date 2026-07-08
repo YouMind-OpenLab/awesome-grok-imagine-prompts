@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **2051** |
+| 📝 提示詞總數 | **2056** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-07-08** |
 
@@ -189,6 +189,115 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### Stars in Jars 定時疊加效果
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個關於玻璃罐中裝滿星星的奇幻場景影片提示詞，並包含在特定時間間隔出現的文字疊加效果。
+
+#### 📝 提示詞
+
+```
+玻璃罐中的星星。文字疊加：釋放魔法。該文字將在 5 秒後出現，並在 10 秒後替換為 https://t.co/bkeik1FLaj 。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074550597907279873/img/zMVbRBTn_MUwcTx7.jpg" width="600" alt="Stars in Jars 定時疊加效果">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6929)**
+
+**作者:** [Ingi Freyr Rafnsson](https://x.com/ingi41717) | **來源:** [Link](https://x.com/ingi41717/status/2074550662101180540) | **發布時間:** Jul 7, 2026
+
+---
+### 野花田影片動畫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個將圖片轉換為影片的提示詞，讓野花田中的人物與蜻蜓進行互動。
+
+#### 📝 提示詞
+
+```
+使用這張照片，將她置身於一片野花田中，讓她伸出手，並有一隻蜻蜓停在上面。陽光燦爛，她身上的紅色連身裙隨風飄動。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074536511383486464/img/xnmAjniTXZvEfJ-c.jpg" width="600" alt="野花田影片動畫">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6927)**
+
+**作者:** [Lisa Shardlow](https://x.com/lisa_shard96352) | **來源:** [Link](https://x.com/lisa_shard96352/status/2074536570749661521) | **發布時間:** Jul 7, 2026
+
+---
+### 布魯克林的天主教老鼠神父
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個電影級的影片提示詞，旨在呈現一隻穿著法衣的老鼠神父在布魯克林熙熙攘攘的巨大世界中穿梭的寫實畫面。
+
+#### 📝 提示詞
+
+```
+15 秒電影級序列，超寫實風格，具備皮克斯（Pixar）等級的真實感與真人電影燈光，4K 解析度，淺景深，自然攝影機運鏡。
+
+一隻小小的灰色田鼠打扮成謙卑的天主教神父，穿著一件為牠量身打造、剪裁完美的黑色法衣，並戴著白色的羅馬領。牠背著一個破舊的小皮包，裡面裝滿了微型祈禱書，神情堅定地在紐約布魯克林擁擠的街道上匆忙趕路。
+
+攝影機從老鼠的視角開始拍攝，巨大的人類腳步聲如移動的建築物般轟隆而過。黃色計程車在頭頂呼嘯，地鐵行駛的震動透過路面傳來。街道排水孔冒出的蒸氣在牠周圍形成高聳的雲霧。咖啡杯、報紙頁面和秋葉在空中旋轉，在牠的世界裡宛如巨大的物體。
+
+這位小神父熟練地閃避腳踏車輪、鴿子、如湖泊般大的雨水坑，以及匆忙通勤者的陰影，始終保持冷靜與喜悅。陽光溫暖地反射在褐石建築上，遠處隱約傳來教堂的鐘聲。
+
+攝影機跟隨牠來到一棟古老的布魯克林褐石建築前。在通往大門的寬闊石階底部，有一個嵌入地基的小型拱形木造教堂。教堂設有彩色玻璃窗、微型黃銅鐘、花箱，入口處還掛著一盞發光的燈籠。
+
+老鼠神父帶著平靜的滿足感微笑，用一把古董鑰匙打開了小木門，走進屋內，輕輕搖響了小教堂的鐘。溫暖的金色光芒灑在人行道上，而上方熙熙攘攘的人類世界對這一切渾然不覺。
+
+極具電影感，溫馨感人，充滿奇幻色彩卻又貼近現實，真實的紋理，道地的布魯克林氛圍，情感敘事，流暢的跟拍鏡頭，無對話，僅有自然的城市環境音。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074431689858715648/img/jw8oO-1IwUz5ouCE.jpg" width="600" alt="布魯克林的天主教老鼠神父">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6926)**
+
+**作者:** [Sub Pop Culture 🇺🇸🐿️](https://x.com/WriterMcG) | **來源:** [Link](https://x.com/WriterMcG/status/2074431744808264058) | **發布時間:** Jul 7, 2026
+
+---
+### 七夕織女星空動畫
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 這是一個為 Grok Imagine 設計的星空視覺提示詞，旨在創作一幅關於織女與牛郎在銀河下相會的神秘且極致細膩的場景。
+
+#### 📝 提示詞
+
+```
+宇宙黑色背景，織女與牛郎，銀河，發光的銀色輪廓，神秘，催眠感，極致畫質，超細節，超廣角鏡頭
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074257789342601217/img/-tlANcy6fn_FF2x1.jpg" width="600" alt="七夕織女星空動畫">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6928)**
+
+**作者:** [なお](https://x.com/Naonekozamurai) | **來源:** [Link](https://x.com/Naonekozamurai/status/2074403041240035467) | **發布時間:** Jul 7, 2026
+
+---
+### Android Deltamon 動漫 DJ 循環動畫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一幅動漫風格的數位插畫，描繪了 Android Deltamon 在星空下，背景為發光圓形結構的 DJ 循環動畫。
+
+#### 📝 提示詞
+
+```
+一幅動漫風格的數位插畫，描繪了 Android Deltamon 作為 DJ 循環動畫的角色，背景為星空下發光的圓形結構
+奇幻，無縮放，12 FPS
+無對話
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074356449107664896/img/-PEZI3ycFgV0_1QQ.jpg" width="600" alt="Android Deltamon 動漫 DJ 循環動畫">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6930)**
+
+**作者:** [Cicadas Francois Cosmos 🇯🇵](https://x.com/FC_Cicadas) | **來源:** [Link](https://x.com/FC_Cicadas/status/2074356506334822402) | **發布時間:** Jul 7, 2026
+
+---
 ### 浣熊 Pippin 對話場景
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2073,116 +2182,6 @@ Elena 穿過閃爍的傳送門進入廣闊的 Playroom，她睜大雙眼，神�
 **作者:** [AI영상공작실](https://x.com/lee_young71) | **來源:** [Link](https://x.com/lee_young71/status/2069796857874923823) | **發布時間:** Jun 24, 2026
 
 ---
-### 赫曼努斯鯨魚超寫實特寫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個高細節的電影級提示詞，用於生成鯨魚在南非自然棲息地中的寫實特寫影片。
-
-#### 📝 提示詞
-
-```
-位於南非西開普省赫曼努斯的鯨魚超寫實特寫場景。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069628026879348736/img/C6vuzUEB3K9HNoiB.jpg" width="600" alt="赫曼努斯鯨魚超寫實特寫">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6434)**
-
-**作者:** [Mario Nawfal](https://x.com/MarioNawfal) | **來源:** [Link](https://x.com/MarioNawfal/status/2069654250263917021) | **發布時間:** Jun 24, 2026
-
----
-### 同步分割畫面賽車影片
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一份用於生成同步分割畫面影片的綜合提示詞，展示跑車在日本山路漂移的場景，同時包含車內駕駛視角與車外追逐鏡頭。
-
-#### 📝 提示詞
-
-```
-畫面採用左右分割的配置。兩側從不同角度捕捉同一瞬間，呈現相同的車輛、相同的彎道以及相同的時間軸。
-
-[左側畫面]
-車內駕駛視角。位於裝有防滾籠的跑車內部。角色坐在駕駛座上，雙手握住方向盤。在日本山路上高速行駛，進入並轉過髮夾彎。眼神專注於行進方向，表情嚴肅且集中。身體受到側向 G 力影響，肩膀與頭髮微微向外飄動。衣物與頭髮隨著車輛移動自然擺動。包含桶型座椅、儀表板，以及與車輛震動同步的自然鏡頭晃動。
-
-[右側畫面]
-從車輛後上方跟隨的第三人稱追逐鏡頭。呈現被森林環繞的日本山路真實景觀，包含護欄與中心線。車輛正轉過同一個髮夾彎，展現車身重心轉移的姿態。輪胎緊抓路面，懸吊系統自然壓縮。傳達出高速過彎的速度感與動態感。
-
-[同步說明]
-左右兩側並非不同場景。左側畫面的轉向操作與右側畫面的車輛動態完美匹配。清楚傳達出兩台攝影機正在拍攝同一瞬間。描繪出連續的過彎動作，過程中沒有場景切換或鏡頭轉換。
-
-[最終階段]
-車輛加速駛向彎道出口。左側畫面上，駕駛在加速時將方向盤回正。右側畫面上，車輛穩定地駛向下一路段。具備流暢的加速感、真實的車輛動態，以及如同賽車轉播般的沉浸感。高品質的動漫角色、高品質的背景、真實的車輛呈現，宛如電影作品中的場景。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069652913727934464/img/cD5otFSS6dkITuMi.jpg" width="600" alt="同步分割畫面賽車影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6593)**
-
-**作者:** [Eris Create Lab](https://x.com/Eris_Create_Lab) | **來源:** [Link](https://x.com/Eris_Create_Lab/status/2069652994598244645) | **發布時間:** Jun 24, 2026
-
----
-### Grok-imagine 1.5 數位人影片腳本
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 一份用於生成數位人影片的詳細提示詞，內容為主持人對著鏡頭說話，背景為動畫火焰，並包含一段關於親密關係主題的獨白。
-
-#### 📝 提示詞
-
-```
-前景：主持人看向鏡頭，以一個吸引人的開場白開始。
-背景動畫：一團火焰從「第一次同居」這幾個字開始燃燒，並逐漸變小。
-她說（66 個字）：
-「為什麼很多人在同居後就失去了火花？並不是他突然變冷淡了，而是第一次同居往往會燒掉一個人對親密關係超過一半的想像力、主動性與熱情。」
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069642383088562176/img/eo2NBUhWqy0L72th.jpg" width="600" alt="Grok-imagine 1.5 數位人影片腳本">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6437)**
-
-**作者:** [John](https://x.com/john87445528) | **來源:** [Link](https://x.com/john87445528/status/2069642495282057518) | **發布時間:** Jun 24, 2026
-
----
-### 鬧鬼畫作的現實之窗
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個充滿想像力的場景，描述了一幅位於古老海岸城堡走廊中、會說話的魔法畫框。
-
-#### 📝 提示詞
-
-```
-想像一下這個畫面，這個存在，居住在一個懸掛於古老城堡走廊、面朝海洋的奇特畫框內。這幅畫是連結不同領域的窗口，她可以與觀看者對話，但卻無法跨越畫面的界線……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069548037827895296/img/qN-AjDO1mFDZ06Ri.jpg" width="600" alt="鬧鬼畫作的現實之窗">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6389)**
-
-**作者:** [Matt Wilson](https://x.com/MattWilson8178) | **來源:** [Link](https://x.com/MattWilson8178/status/2069549629474242638) | **發布時間:** Jun 23, 2026
-
----
-### 蠟燭曼陀羅鏡面影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個靈性靜物影片提示詞，展示了單一燭光在破碎鏡片中反射，進而形成統一曼陀羅圖案的畫面。
-
-#### 📝 提示詞
-
-```
-單一燭光在許多破碎鏡片中反射，形成一個統一且明亮的曼陀羅，黑暗房間中的靈性靜物。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069538232203960321/img/RQSycTTeDm08tqJc.jpg" width="600" alt="蠟燭曼陀羅鏡面影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6393)**
-
-**作者:** [Christine](https://x.com/ChristineJxpxy) | **來源:** [Link](https://x.com/ChristineJxpxy/status/2069538330791035250) | **發布時間:** Jun 23, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2244,6 +2243,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-07-08T06:52:35.294Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-07-08T10:43:22.417Z</sub>
 
 </div>

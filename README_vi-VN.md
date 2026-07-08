@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2051** |
+| 📝 Total Prompts | **2056** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-08** |
 
@@ -189,6 +189,115 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Lớp phủ thời gian Stars in Jars
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt cho khung cảnh kỳ ảo với những ngôi sao trong lọ thủy tinh và các lớp phủ văn bản theo thời gian xuất hiện ở những khoảng nghỉ nhất định.
+
+#### 📝 Prompt
+
+```
+những ngôi sao bên trong lọ thủy tinh. Lớp phủ văn bản: Giải phóng phép thuật. Văn bản đó xuất hiện sau 5 giây và được thay thế bằng https://t.co/bkeik1FLaj sau 10 giây.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074550597907279873/img/zMVbRBTn_MUwcTx7.jpg" width="600" alt="Lớp phủ thời gian Stars in Jars">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6929)**
+
+**Author:** [Ingi Freyr Rafnsson](https://x.com/ingi41717) | **Source:** [Link](https://x.com/ingi41717/status/2074550662101180540) | **Published:** Jul 7, 2026
+
+---
+### Video hoạt ảnh cánh đồng hoa dại
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) chuyển đổi hình ảnh thành video, tạo hoạt ảnh cho một người đang tương tác với chuồn chuồn trên cánh đồng hoa dại.
+
+#### 📝 Prompt
+
+```
+Sử dụng bức ảnh này, hãy đặt cô ấy vào một cánh đồng hoa dại, đang giơ tay ra và một con chuồn chuồn đậu trên đó. Mặt trời đang chiếu sáng rực rỡ và chiếc váy đỏ của cô ấy đang bay bổng.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074536511383486464/img/xnmAjniTXZvEfJ-c.jpg" width="600" alt="Video hoạt ảnh cánh đồng hoa dại">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6927)**
+
+**Author:** [Lisa Shardlow](https://x.com/lisa_shard96352) | **Source:** [Link](https://x.com/lisa_shard96352/status/2074536570749661521) | **Published:** Jul 7, 2026
+
+---
+### Chú chuột linh mục Công giáo tại Brooklyn
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video điện ảnh cho phân cảnh chân thực, mô tả một chú chuột linh mục mặc áo chùng đang di chuyển trong thế giới rộng lớn và nhộn nhịp của Brooklyn.
+
+#### 📝 Prompt
+
+```
+Phân cảnh điện ảnh dài 15 giây, siêu chân thực, độ chi tiết ngang tầm Pixar với ánh sáng như phim người đóng, 4K, độ sâu trường ảnh nông, chuyển động máy quay tự nhiên.
+
+Một chú chuột đồng nhỏ màu xám trong trang phục linh mục Công giáo khiêm nhường, khoác trên mình chiếc áo chùng đen được may đo hoàn hảo cùng cổ áo linh mục trắng vừa vặn với kích thước của chú. Chú mang theo một chiếc túi da nhỏ sờn cũ đựng những cuốn sách cầu nguyện tí hon và vội vã bước đi đầy quyết tâm trên những con phố choáng ngợp của Brooklyn, New York.
+
+Máy quay bắt đầu ở tầm mắt của chú chuột khi những đôi giày khổng lồ của con người sầm sập lướt qua như những tòa nhà di động. Những chiếc taxi màu vàng gầm rú phía trên. Người xem có thể cảm nhận được độ rung của tàu điện ngầm qua mặt đường. Hơi nước bốc lên từ các nắp cống, tạo thành những đám mây cao vút xung quanh chú. Những chiếc cốc cà phê, trang báo và lá mùa thu xoáy trong không trung như những vật thể khổng lồ trong thế giới của chú.
+
+Chú linh mục nhỏ khéo léo né tránh bánh xe đạp, chim bồ câu, những vũng nước mưa to như hồ nước và bóng của những người đi đường vội vã, nhưng vẫn luôn giữ vẻ bình tĩnh và vui tươi. Ánh nắng phản chiếu ấm áp trên những tòa nhà bằng đá nâu, trong khi tiếng chuông nhà thờ vang vọng xa xăm.
+
+Máy quay theo chân chú khi chú đến một tòa nhà bằng đá nâu cổ kính ở Brooklyn. Dưới chân cầu thang đá rộng dẫn đến cửa trước là một nhà thờ gỗ hình vòm tí hon được xây dựng ngay trong nền móng dưới các bậc thang. Nhà thờ có cửa sổ kính màu, một chiếc chuông đồng nhỏ, những bậu hoa và một chiếc đèn lồng tỏa sáng phía trên lối vào.
+
+Chú chuột linh mục mỉm cười đầy mãn nguyện, mở cánh cửa gỗ nhỏ bằng một chiếc chìa khóa cổ, bước vào trong và nhẹ nhàng rung chiếc chuông nhỏ. Ánh sáng vàng ấm áp tràn ra vỉa hè trong khi thế giới con người nhộn nhịp phía trên vẫn tiếp tục chuyển động mà không hề hay biết.
+
+Tính điện ảnh cao, giàu cảm xúc, kỳ ảo nhưng chân thực, kết cấu thực tế, không khí Brooklyn nguyên bản, kể chuyện giàu cảm xúc, các cú máy tracking mượt mà, không lời thoại, chỉ có âm thanh môi trường tự nhiên của thành phố.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074431689858715648/img/jw8oO-1IwUz5ouCE.jpg" width="600" alt="Chú chuột linh mục Công giáo tại Brooklyn">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6926)**
+
+**Author:** [Sub Pop Culture 🇺🇸🐿️](https://x.com/WriterMcG) | **Source:** [Link](https://x.com/WriterMcG/status/2074431744808264058) | **Published:** Jul 7, 2026
+
+---
+### Hoạt hình vũ trụ Nàng Chức Nữ
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một câu lệnh hình ảnh thiên thể được thiết kế cho Grok Imagine để tạo ra khung cảnh huyền bí, siêu chi tiết về Nàng Chức Nữ và Chàng Ngưu Lang dưới dải Ngân Hà.
+
+#### 📝 Prompt
+
+```
+nền đen vũ trụ, Nàng Chức Nữ và Chàng Ngưu Lang, dải ngân hà, đường nét bạc phát sáng, huyền bí, thôi miên, chất lượng cực cao, siêu chi tiết, góc máy siêu rộng
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074257789342601217/img/-tlANcy6fn_FF2x1.jpg" width="600" alt="Hoạt hình vũ trụ Nàng Chức Nữ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6928)**
+
+**Author:** [なお](https://x.com/Naonekozamurai) | **Source:** [Link](https://x.com/Naonekozamurai/status/2074403041240035467) | **Published:** Jul 7, 2026
+
+---
+### Vòng lặp DJ Anime Android Deltamon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một hình minh họa kỹ thuật số theo phong cách anime cho hoạt ảnh vòng lặp DJ, nổi bật với Android Deltamon trên nền cấu trúc hình tròn phát sáng giữa bầu trời đêm đầy sao.
+
+#### 📝 Prompt
+
+```
+Hình minh họa kỹ thuật số theo phong cách anime của Android Deltamon dưới dạng vòng lặp DJ, trên nền cấu trúc hình tròn phát sáng giữa bầu trời đêm đầy sao
+fantazi, không thu phóng, 12 FPS
+Không có lời thoại
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074356449107664896/img/-PEZI3ycFgV0_1QQ.jpg" width="600" alt="Vòng lặp DJ Anime Android Deltamon">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6930)**
+
+**Author:** [Cicadas Francois Cosmos 🇯🇵](https://x.com/FC_Cicadas) | **Source:** [Link](https://x.com/FC_Cicadas/status/2074356506334822402) | **Published:** Jul 7, 2026
+
+---
 ### Cảnh đối thoại của chú gấu trúc Pippin
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2073,116 +2182,6 @@ Trong đêm sa mạc Sonoran ấm áp gần Queen Creek, một nhà phát minh c
 **Author:** [AI영상공작실](https://x.com/lee_young71) | **Source:** [Link](https://x.com/lee_young71/status/2069796857874923823) | **Published:** Jun 24, 2026
 
 ---
-### Cận cảnh cá voi chân thực đến kinh ngạc tại Hermanus
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) điện ảnh chi tiết giúp tạo ra video cận cảnh chân thực về cá voi trong môi trường sống tự nhiên tại Nam Phi.
-
-#### 📝 Prompt
-
-```
-Cảnh quay cận cảnh siêu thực về một chú cá voi tại Hermanus, Western Cape, Nam Phi.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069628026879348736/img/C6vuzUEB3K9HNoiB.jpg" width="600" alt="Cận cảnh cá voi chân thực đến kinh ngạc tại Hermanus">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6434)**
-
-**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2069654250263917021) | **Published:** Jun 24, 2026
-
----
-### Video Đua xe Màn hình Chia đôi Đồng bộ
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Một câu lệnh toàn diện để tạo video màn hình chia đôi đồng bộ về một chiếc xe thể thao đang drift trên đèo Nhật Bản, bao gồm cả góc nhìn từ trong xe của tài xế và góc nhìn camera đuổi theo từ bên ngoài.
-
-#### 📝 Prompt
-
-```
-Màn hình có cấu hình chia đôi thành hai phần trái và phải. Cả hai bên đều ghi lại cùng một khoảnh khắc từ các góc máy khác nhau, hiển thị cùng một phương tiện, cùng một khúc cua và cùng một trục thời gian.
-
-[Màn hình Trái]
-Camera góc nhìn tài xế trong xe. Bên trong một chiếc xe thể thao có khung chống lật (roll cage). Nhân vật đang ngồi ở ghế lái, hai tay giữ vô lăng. Lái xe tốc độ cao trên đèo Nhật Bản, tiến vào và ôm cua tay áo. Ánh mắt tập trung vào hướng di chuyển với vẻ mặt nghiêm túc và tập trung. Lực G ngang tác động lên cơ thể, khiến vai và tóc hơi nghiêng sang một bên. Quần áo và tóc đung đưa tự nhiên theo chuyển động của xe. Có ghế thể thao (bucket seat), bảng đồng hồ và độ rung camera tự nhiên đồng bộ với độ rung của xe.
-
-[Màn hình Phải]
-Camera đuổi theo góc nhìn thứ ba, theo sau cùng phương tiện đó từ phía trên và phía sau một chút. Phong cảnh thực tế của một con đèo Nhật Bản bao quanh bởi rừng cây, có rào chắn và vạch kẻ đường. Chiếc xe đang ôm cùng một khúc cua tay áo, thể hiện sự chuyển dịch trọng tâm trong tư thế của nó. Lốp xe bám chặt vào mặt đường và hệ thống treo nén lại một cách tự nhiên. Truyền tải cảm giác vào cua tốc độ cao, cảm giác về tốc độ và sự năng động.
-
-[Hướng dẫn Đồng bộ hóa]
-Bên trái và bên phải không phải là các cảnh khác nhau. Thao tác đánh lái trên màn hình trái và hành vi của xe trên màn hình phải hoàn toàn khớp nhau. Nó truyền tải rõ ràng rằng hai camera đang quay cùng một khoảnh khắc. Một chuỗi chuyển động vào cua liên tục được mô tả mà không có cắt cảnh hay chuyển đổi camera.
-
-[Giai đoạn Cuối]
-Chiếc xe tăng tốc về phía lối ra của khúc cua. Trên màn hình trái, tài xế trả lái về trung tâm khi họ tăng tốc. Trên màn hình phải, chiếc xe di chuyển ổn định về phía đoạn đường tiếp theo. Có tính năng tăng tốc mượt mà, hành vi xe thực tế và cảm giác đắm chìm như một chương trình phát sóng thể thao tốc độ. Nhân vật anime chất lượng cao, hậu cảnh chất lượng cao, mô tả phương tiện thực tế, giống như một cảnh trong tác phẩm điện ảnh.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069652913727934464/img/cD5otFSS6dkITuMi.jpg" width="600" alt="Video Đua xe Màn hình Chia đôi Đồng bộ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6593)**
-
-**Author:** [Eris Create Lab](https://x.com/Eris_Create_Lab) | **Source:** [Link](https://x.com/Eris_Create_Lab/status/2069652994598244645) | **Published:** Jun 24, 2026
-
----
-### Kịch bản video người ảo Grok-imagine 1.5
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Một câu lệnh chi tiết để tạo video người ảo với người dẫn chương trình đang nói chuyện trước ống kính, kết hợp với hình nền ngọn lửa hoạt họa và một đoạn độc thoại về chủ đề mối quan hệ.
-
-#### 📝 Prompt
-
-```
-Tiền cảnh: Người dẫn chương trình nhìn vào ống kính và bắt đầu bằng một câu dẫn thu hút.
-Hậu cảnh hoạt họa: Một quả cầu lửa bắt đầu bùng cháy từ dòng chữ "Sống thử lần đầu" và nhỏ dần lại.
-Cô ấy nói (66 ký tự):
-"Tại sao nhiều người lại mất đi sự nồng cháy sau khi sống chung? Không phải vì anh ấy đột nhiên trở nên lạnh nhạt, mà là vì lần sống thử đầu tiên thường thiêu rụi hơn một nửa trí tưởng tượng, sự chủ động và niềm đam mê của một người dành cho mối quan hệ thân mật."
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069642383088562176/img/eo2NBUhWqy0L72th.jpg" width="600" alt="Kịch bản video người ảo Grok-imagine 1.5">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6437)**
-
-**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2069642495282057518) | **Published:** Jun 24, 2026
-
----
-### Cửa sổ thực tại trong bức tranh bị ám
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một kịch bản đầy trí tưởng tượng mô tả chiếc khung tranh biết nói kỳ diệu nằm trong hành lang của một tòa lâu đài cổ ven biển.
-
-#### 📝 Prompt
-
-```
-Hãy tưởng tượng hình ảnh này, sự hiện diện này, đang sống bên trong một chiếc khung tranh kỳ lạ treo ở hành lang của một tòa lâu đài cổ hướng ra bờ biển. Bức tranh là một ô cửa sổ kết nối giữa các cõi, cô ấy có thể trò chuyện với người xem nhưng lại không thể vượt qua ranh giới của khung hình...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069548037827895296/img/qN-AjDO1mFDZ06Ri.jpg" width="600" alt="Cửa sổ thực tại trong bức tranh bị ám">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6389)**
-
-**Author:** [Matt Wilson](https://x.com/MattWilson8178) | **Source:** [Link](https://x.com/MattWilson8178/status/2069549629474242638) | **Published:** Jun 23, 2026
-
----
-### Video Gương Mandala Nến
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý video tĩnh vật mang tính tâm linh, mô tả ngọn nến đơn lẻ phản chiếu qua các mảnh gương vỡ để tạo thành họa tiết mandala thống nhất.
-
-#### 📝 Prompt
-
-```
-Một ngọn nến đơn lẻ phản chiếu trong nhiều mảnh gương vỡ tạo thành một mandala rực rỡ thống nhất, tĩnh vật tâm linh trong căn phòng tối.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069538232203960321/img/RQSycTTeDm08tqJc.jpg" width="600" alt="Video Gương Mandala Nến">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6393)**
-
-**Author:** [Christine](https://x.com/ChristineJxpxy) | **Source:** [Link](https://x.com/ChristineJxpxy/status/2069538330791035250) | **Published:** Jun 23, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2244,6 +2243,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-08T06:52:41.048Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-08T10:43:25.963Z</sub>
 
 </div>

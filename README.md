@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2051** |
+| 📝 Total Prompts | **2056** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-08** |
 
@@ -189,6 +189,115 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Stars in Jars Timed Overlay
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt for a magical scene with stars in glass jars and specific timed text overlays appearing at intervals.
+
+#### 📝 Prompt
+
+```
+stars inside glass jars. Text overlay: Release the magic. That text appears after 5 seconds and is replaced with https://t.co/bkeik1FLaj after 10 seconds.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074550597907279873/img/zMVbRBTn_MUwcTx7.jpg" width="600" alt="Stars in Jars Timed Overlay">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6929)**
+
+**Author:** [Ingi Freyr Rafnsson](https://x.com/ingi41717) | **Source:** [Link](https://x.com/ingi41717/status/2074550662101180540) | **Published:** Jul 7, 2026
+
+---
+### Wildflower Field Video Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An image-to-video prompt that animates a person in a wildflower field interacting with a dragonfly.
+
+#### 📝 Prompt
+
+```
+Using this photo, put her in a field of wildflowers, holding out her hand and a dragonfly lands on it. The sun is shining brightly, and her red dress is flowing.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074536511383486464/img/xnmAjniTXZvEfJ-c.jpg" width="600" alt="Wildflower Field Video Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6927)**
+
+**Author:** [Lisa Shardlow](https://x.com/lisa_shard96352) | **Source:** [Link](https://x.com/lisa_shard96352/status/2074536570749661521) | **Published:** Jul 7, 2026
+
+---
+### Catholic Mouse Priest in Brooklyn
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt for a photorealistic sequence featuring a mouse priest in a cassock navigating the bustling and oversized world of Brooklyn.
+
+#### 📝 Prompt
+
+```
+15-second cinematic sequence, ultra-photorealistic, Pixar-level realism with live-action lighting, 4K, shallow depth of field, natural camera movement.
+
+A tiny gray field mouse dressed as a humble Catholic priest wears a perfectly tailored black cassock with a white Roman collar sized for a mouse. He carries a tiny worn leather satchel filled with miniature prayer books and hurries with determination through the overwhelming streets of Brooklyn, New York.
+
+The camera begins at mouse-eye level as enormous human shoes thunder past like moving buildings. Yellow taxis roar overhead. The vibration of subway trains can be felt through the pavement. Steam rises from street grates, creating towering clouds around him. Coffee cups, newspaper pages, and autumn leaves swirl through the air like giant objects in his world.
+
+The little priest expertly dodges bicycle wheels, pigeons, rain puddles the size of lakes, and the shadows of hurried commuters, always remaining calm and joyful. Sunlight reflects warmly off the brownstones while church bells faintly ring in the distance.
+
+The camera follows him as he reaches an old Brooklyn brownstone. At the base of the wide stone staircase leading to the front door is a tiny arched wooden church built into the foundation beneath the steps. It has stained-glass windows, a miniature brass bell, flower boxes, and a glowing lantern over the entrance.
+
+The mouse priest smiles with quiet satisfaction, unlocks the tiny wooden door with an antique key, steps inside, and gently rings the little church bell as warm golden light spills out onto the sidewalk while the bustling human world continues completely unaware above him.
+
+Highly cinematic, heartfelt, whimsical but grounded, realistic textures, authentic Brooklyn atmosphere, emotional storytelling, smooth tracking shots, no dialogue, natural ambient city sounds only.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074431689858715648/img/jw8oO-1IwUz5ouCE.jpg" width="600" alt="Catholic Mouse Priest in Brooklyn">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6926)**
+
+**Author:** [Sub Pop Culture 🇺🇸🐿️](https://x.com/WriterMcG) | **Source:** [Link](https://x.com/WriterMcG/status/2074431744808264058) | **Published:** Jul 7, 2026
+
+---
+### Tanabata Weaver Princess Cosmic Animation
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A celestial visual prompt designed for Grok Imagine to create a mystical, hyper-detailed scene of the Weaver Princess and Cowherd Prince under the Milky Way.
+
+#### 📝 Prompt
+
+```
+cosmic black background, Weaver Princess and Cowherd Prince, milky way, glowing silver outlines, mystical, hypnotic, ultra quality, hyperdetailed, ultra-wide shot
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074257789342601217/img/-tlANcy6fn_FF2x1.jpg" width="600" alt="Tanabata Weaver Princess Cosmic Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6928)**
+
+**Author:** [なお](https://x.com/Naonekozamurai) | **Source:** [Link](https://x.com/Naonekozamurai/status/2074403041240035467) | **Published:** Jul 7, 2026
+
+---
+### Android Deltamon Anime DJ Loop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An anime-style digital illustration for a DJ loop animation featuring Android Deltamon against a glowing circular structure in a starry night sky.
+
+#### 📝 Prompt
+
+```
+A digital anime-style illustration of Android Deltamon features as a DJ-loop, against a glowing circular structure in a very starry night sky
+fantazi, no zoom, 12 FPS
+No dialogue
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074356449107664896/img/-PEZI3ycFgV0_1QQ.jpg" width="600" alt="Android Deltamon Anime DJ Loop">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6930)**
+
+**Author:** [Cicadas Francois Cosmos 🇯🇵](https://x.com/FC_Cicadas) | **Source:** [Link](https://x.com/FC_Cicadas/status/2074356506334822402) | **Published:** Jul 7, 2026
+
+---
 ### Raccoon Pippin Dialogue Scene
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -398,11 +507,11 @@ Make me fall down the stairs in a really comical way. Similar to something maybe
 **Author:** [Jeremy Judkins](https://x.com/jeremyjudkins_) | **Source:** [Link](https://x.com/jeremyjudkins_/status/2073147550543065228) | **Published:** Jul 3, 2026
 
 ---
-### Calm Soft-Spoken Woman Video Prompt
+### Calm Fashion Model Soft Speech Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A video generation prompt for Grok Imagine designed to create a calm, intimate scene where a model speaks directly and softly to the camera.
+> A video generation prompt for a fashion model speaking in a soft, calm tone directly to the camera in a studio setting.
 
 #### 📝 Prompt
 
@@ -410,7 +519,7 @@ Make me fall down the stairs in a really comical way. Similar to something maybe
 She talks very softly and calm to the camera: "Do you want to know what feels real to me? This feels real.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073086602998669312/img/uzh8FsXEwcaY0AXs.jpg" width="600" alt="Calm Soft-Spoken Woman Video Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073086602998669312/img/uzh8FsXEwcaY0AXs.jpg" width="600" alt="Calm Fashion Model Soft Speech Video">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6815)**
 
@@ -2074,116 +2183,6 @@ Rainy Runway Tap Dance. Three mechs, one fearless pilot, and an unexpected splas
 **Author:** [AI영상공작실](https://x.com/lee_young71) | **Source:** [Link](https://x.com/lee_young71/status/2069796857874923823) | **Published:** Jun 24, 2026
 
 ---
-### Ultra-Realistic Whale Close-up Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed close-up video prompt of a whale in Hermanus, South Africa, showcasing cinematic realism and accurate background landmarks.
-
-#### 📝 Prompt
-
-```
-Ultra-realistic close-up scene of a whale in Hermanus, Western Cape, South Africa.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069628026879348736/img/C6vuzUEB3K9HNoiB.jpg" width="600" alt="Ultra-Realistic Whale Close-up Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6434)**
-
-**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2069654250263917021) | **Published:** Jun 24, 2026
-
----
-### Synchronized Split-Screen Racing Video
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A comprehensive prompt for generating a synchronized split-screen video of a sports car drifting on a Japanese mountain pass, featuring both interior driver POV and exterior chase camera perspectives.
-
-#### 📝 Prompt
-
-```
-The screen features a split-screen configuration divided into left and right. Both sides capture the same moment from different camera angles, showing the same vehicle, the same corner, and the same time axis.
-
-[Left Screen]
-In-car driver camera. Inside a sports car with a roll cage. The character is in the driver's seat holding the steering wheel with both hands. Driving at high speed on a Japanese mountain pass, entering and turning through a hairpin corner. Eyes are focused on the direction of travel with a serious and concentrated expression. Lateral G-forces affect the body, with shoulders and hair flowing slightly outward. Clothing and hair sway naturally in response to vehicle movement. Features bucket seats, gauges, and natural camera shake synchronized with vehicle vibration.
-
-[Right Screen]
-Third-person chase camera following the same vehicle from slightly above and behind. A realistic landscape of a Japanese mountain pass surrounded by forests, featuring guardrails and center lines. The vehicle is turning through the same hairpin corner, showing weight transfer in its posture. Tires grip the road surface firmly, and suspension compresses naturally. Conveys high-speed cornering, a sense of speed, and dynamism.
-
-[Synchronization Direction]
-The left and right are not different scenes. The steering input on the left screen and the vehicle behavior on the right screen are perfectly matched. It clearly conveys that two cameras are filming the same moment. A continuous sequence of cornering movements is depicted without scene cuts or camera switches.
-
-[Final Stage]
-The vehicle accelerates toward the corner exit. On the left screen, the driver returns the steering wheel to center as they accelerate. On the right screen, the vehicle moves stably toward the next section. Features smooth acceleration, realistic vehicle behavior, and an immersive feeling like a motorsport broadcast. High-quality anime characters, high-quality backgrounds, realistic vehicle representation, like a scene from a cinematic work.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069652913727934464/img/cD5otFSS6dkITuMi.jpg" width="600" alt="Synchronized Split-Screen Racing Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6593)**
-
-**Author:** [Eris Create Lab](https://x.com/Eris_Create_Lab) | **Source:** [Link](https://x.com/Eris_Create_Lab/status/2069652994598244645) | **Published:** Jun 24, 2026
-
----
-### Grok-imagine 1.5 Digital Human Video Script
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A detailed prompt for generating a digital human video with a host talking to the camera, featuring an animated fire background and a specific relationship-themed monologue.
-
-#### 📝 Prompt
-
-```
-Foreground: The host looks at the camera and starts with a hook.
-Background animation: A ball of fire starts burning from the words "First Cohabitation" and slowly gets smaller.
-She says (66 characters):
-"Why is it that many people lose their spark after living together? It's not that he suddenly turns cold, but that the first cohabitation often burns up more than half of a person's imagination, initiative, and passion for an intimate relationship."
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069642383088562176/img/eo2NBUhWqy0L72th.jpg" width="600" alt="Grok-imagine 1.5 Digital Human Video Script">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6437)**
-
-**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2069642495282057518) | **Published:** Jun 24, 2026
-
----
-### Haunted Painting Reality Window
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An imaginative scenario describing a magical talking frame located inside an ancient coastal castle hallway.
-
-#### 📝 Prompt
-
-```
-Imagine this image, this presence , lived within a strange picture frame hanging in an ancient castle hallway facing the coast of the ocean. The image is a window between realms, she can speak to viewers but, can't cross the boundary of the image....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069548037827895296/img/qN-AjDO1mFDZ06Ri.jpg" width="600" alt="Haunted Painting Reality Window">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6389)**
-
-**Author:** [Matt Wilson](https://x.com/MattWilson8178) | **Source:** [Link](https://x.com/MattWilson8178/status/2069549629474242638) | **Published:** Jun 23, 2026
-
----
-### Candle Mandala Mirror Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A spiritual still-life video prompt showing a single candle flame reflecting in broken mirror shards to create a unified mandala pattern.
-
-#### 📝 Prompt
-
-```
-A single candle flame reflected in many broken mirror shards creating one unified bright mandala, dark room spiritual still life.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069538232203960321/img/RQSycTTeDm08tqJc.jpg" width="600" alt="Candle Mandala Mirror Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6393)**
-
-**Author:** [Christine](https://x.com/ChristineJxpxy) | **Source:** [Link](https://x.com/ChristineJxpxy/status/2069538330791035250) | **Published:** Jun 23, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2245,6 +2244,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-08T06:52:32.743Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-08T10:43:20.714Z</sub>
 
 </div>
