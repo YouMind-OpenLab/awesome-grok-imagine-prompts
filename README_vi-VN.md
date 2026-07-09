@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2056** |
+| 📝 Total Prompts | **2060** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-09** |
 
@@ -189,6 +189,96 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Hoạt ảnh phác thảo bút chì lãng mạn
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Thêm hiệu ứng hoạt ảnh bay bổng gồm các dấu hôn, trái tim và ánh sáng vào bức phác thảo bút chì tĩnh của một cặp đôi.
+
+#### 📝 Prompt
+
+```
+Hiệu ứng hoạt ảnh bay bổng lãng mạn phía sau cặp đôi trong bức phác thảo bút chì: vô số dấu hôn và trái tim trôi nổi hướng lên trên và xoay chậm rãi, ánh sáng bokeh nhấp nháy, các tia sáng lấp lánh, những dải sáng dịu nhẹ đung đưa, cùng những lời yêu thương nhẹ nhàng hiện ra rồi mờ dần ở hậu cảnh sâu thẳm. Bản phác thảo vẫn giữ nguyên trạng thái tĩnh trong khi các yếu tố nền chuyển động.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074851646090174464/img/2mqfgIrxWodVjovB.jpg" width="600" alt="Hoạt ảnh phác thảo bút chì lãng mạn">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6973)**
+
+**Author:** [joscilene Laura](https://x.com/joscilene_maria) | **Source:** [Link](https://x.com/joscilene_maria/status/2074851707507355664) | **Published:** Jul 8, 2026
+
+---
+### Video mùa hè tại nhà nông thôn Hàn Quốc
+
+![한국어](https://img.shields.io/badge/lang-한국어-orange)
+
+> Một câu lệnh tạo video 4K đậm chất điện ảnh về khung cảnh mùa hè hoài niệm và yên bình bên trong một ngôi nhà nông thôn truyền thống của Hàn Quốc, với ánh nắng mặt trời, những miếng dưa hấu hình tam giác và chiếc quạt máy đang quay.
+
+#### 📝 Prompt
+
+```
+Một video mùa hè dài 10 giây trong trẻo và tươi mát, lấy bối cảnh bên trong phòng khách của một ngôi nhà gỗ nông thôn Hàn Quốc cổ kính. Ánh nắng trong trẻo và rực rỡ tràn vào qua các cửa ra vào và cửa sổ đang mở, sàn gỗ cùng những bức tường gỗ cũ kỹ tạo nên bầu không khí nhà nông thôn ấm áp và đầy hoài niệm. Tổng thể mang lại cảm giác của một buổi chiều mùa hè tươi sáng và thoáng đãng.
+
+Cửa được mở rộng, phía bên ngoài là những hàng cây xanh mướt đang đung đưa nhẹ nhàng trong gió. Khung cảnh bên ngoài trông thật trong xanh và yên bình như một buổi chiều hè tĩnh lặng ở nông thôn.
+
+Một chiếc khay kim loại tròn được đặt trên chiếc bàn gỗ thấp. Những miếng dưa hấu chỉ được đặt bên trong khay chứ không đặt trực tiếp lên bàn. Năm hoặc sáu miếng dưa hấu hình tam giác tươi ngon được sắp xếp gọn gàng trên khay. Mỗi miếng dưa hấu không có hình bán nguyệt mà là hình tam giác điển hình với phần đỉnh nhọn và lớp vỏ xanh ngắn ở phía dưới. Khi nhìn từ góc máy, phần thịt đỏ trông giống như một hình tam giác rõ nét, và lớp vỏ xanh bám tự nhiên dọc theo cạnh dưới của hình tam giác. Dưa hấu không quá dày mà mỏng và tươi, để lộ phần thịt đỏ mọng nước, những hạt đen nhỏ và cảm giác tươi mát, lạnh lạnh của dưa hấu mùa hè.
+
+Bên cạnh khay là một cuốn nhật ký bằng tranh mùa hè được vẽ bằng bút chì màu, nhưng văn bản không thể đọc được. Một vài chiếc bút chì màu được đặt tự nhiên xung quanh cuốn nhật ký, hơi rải rác nhưng trông có vẻ như đang được sử dụng chứ không hề bừa bộn.
+
+Một chiếc quạt điện cũ được đặt trên sàn gỗ cạnh bàn, đang quay chậm rãi từ bên này sang bên kia. Làn gió từ quạt làm rèm cửa và các trang nhật ký lay động nhẹ, mặc dù là một ngày hè nóng bức với ánh nắng chói chang, nhưng căn phòng lại mang cảm giác mát mẻ và thư thái.
+
+Bầu không khí hoài niệm của một ngôi nhà nông thôn Hàn Quốc, ánh nắng trong trẻo, cây xanh tươi mát, phòng khách bằng gỗ thông thoáng, bóng đổ mềm mại, kết cấu chân thực, buổi chiều mùa hè yên bình, không khí tĩnh lặng và thư giãn, 4K điện ảnh, ánh sáng tự nhiên, những miếng dưa hấu hình tam giác trên khay kim loại và cuốn nhật ký bằng tranh, camera từ từ tiến lại gần chiếc quạt máy. Không có người.
+
+Độ dài video: 10 giây. Tỷ lệ khung hình: 16:9. Bầu không khí: Tươi sáng, tươi mát, hoài niệm, yên bình, làn gió quạt mát mẻ trong một ngày hè trong trẻo.
+
+Câu lệnh phủ định (Negative Prompt): Dưa hấu hình bán nguyệt, dưa hấu hình lưỡi liềm, dưa hấu cắt tròn, dưa hấu cắt theo vòng tròn, dưa hấu đặt trực tiếp trên bàn, dưa hấu nằm ngoài khay, trái cây lơ lửng trong không trung, hình dạng dưa hấu kỳ lạ, hình tam giác cứng nhắc về mặt hình học, miếng dưa hấu bị biến dạng, trái cây tan chảy, miếng dưa hấu quá dày, những khối dưa hấu dày, dưa hấu hình khối, những miếng dưa hấu bị vỡ không đều, vỏ dưa hấu quá lớn, trái cây trông giả tạo, dưa hấu nhợt nhạt và khô héo, dưa hấu chất đống ở giữa, sắp xếp trái cây lộn xộn, phòng tối, ánh sáng ảm đạm, căn hộ hiện đại, con người, bàn tay, khuôn mặt, văn bản có thể đọc được, phụ đề, logo, hình mờ, quạt bị biến dạng, hình ảnh mờ, chất lượng thấp, camera rung lắc.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074491828473393153/img/7RlihPIyY87TipaM.jpg" width="600" alt="Video mùa hè tại nhà nông thôn Hàn Quốc">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6975)**
+
+**Author:** [엘라](https://x.com/Luciela_00) | **Source:** [Link](https://x.com/Luciela_00/status/2074780529900020044) | **Published:** Jul 8, 2026
+
+---
+### UFO và sự biến hình của Orihime
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một cảnh tường thuật phức tạp bao gồm các UFO, một người đàn ông đeo kính râm, một chú chuột hamster và một người ngoài hành tinh biến hình thành Orihime huyền thoại.
+
+#### 📝 Prompt
+
+```
+@Image1 Tôi ước cho thế giới hòa bình! Và ngay khi tôi ước, một lượng lớn UFO xuất hiện. Một cảnh tượng nơi người đàn ông đeo kính râm và chú chuột hamster ngạc nhiên trước một người ngoài hành tinh ở bên phải, người này nói "Ngươi! Có phải ngươi đã gọi bạn bè của mình đến không!?", sau đó người ngoài hành tinh biến thành một Orihime xinh đẹp và nói: "Thực ra, ta chính là Orihime!". Người đàn ông đeo kính râm và chú chuột hamster bị sốc, thốt lên "Cái gì cơ!"
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074749392687693824/img/LDwry94WXu9Xlr_r.jpg" width="600" alt="UFO và sự biến hình của Orihime">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6974)**
+
+**Author:** [AI特撮アトリエ](https://x.com/AI_tokusatsu) | **Source:** [Link](https://x.com/AI_tokusatsu/status/2074749452200579403) | **Published:** Jul 8, 2026
+
+---
+### Hoạt hình nhẹ nhàng về mẹ và bé
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý hoạt hình ấm áp mô tả cảnh người mẹ nhẹ nhàng bế đứa con tò mò của mình vào lòng để đưa bé về nhà.
+
+#### 📝 Prompt
+
+```
+Người mẹ của đứa trẻ bình tĩnh và dịu dàng, không sợ hãi, tò mò, quở trách nhẹ nhàng, bế đứa trẻ vào lòng để đưa bé về nhà, vào trong những chiếc khăn ấm áp
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074696905938833408/img/65jkdLK7xBV8xuRI.jpg" width="600" alt="Hoạt hình nhẹ nhàng về mẹ và bé">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6972)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2074696965485478140) | **Published:** Jul 8, 2026
+
+---
 ### Lớp phủ thời gian Stars in Jars
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2106,82 +2196,6 @@ Cô ấy nở một nụ cười ấm áp, chân thật và giơ một tay lên 
 **Author:** [grok_imagine_free_user](https://x.com/FreeGrokUser) | **Source:** [Link](https://x.com/FreeGrokUser/status/2070058384959983811) | **Published:** Jun 25, 2026
 
 ---
-### Hiệu ứng chuyển cảnh từ Tinh vân sang Tôm
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh sáng tạo giúp chuyển đổi hình ảnh từ tinh vân vũ trụ sang món tôm cocktail bằng cách sử dụng các yếu tố hình ảnh tương đồng.
-
-#### 📝 Prompt
-
-```
-Hãy để dải ngân hà/tinh vân xoay chậm cho đến khi biến đổi thành một con tôm cocktail lớn. Sử dụng chính phần tinh vân có màu hồng trông giống con tôm để thực hiện quá trình chuyển đổi sang hình ảnh tôm cocktail.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070054724389466112/img/M8GyF-NPtJUrq5KO.jpg" width="600" alt="Hiệu ứng chuyển cảnh từ Tinh vân sang Tôm">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6484)**
-
-**Author:** [Lynn Hocker](https://x.com/Auroraskye3993) | **Source:** [Link](https://x.com/Auroraskye3993/status/2070054843604181021) | **Published:** Jun 25, 2026
-
----
-### Người bán trái cây tại Diễn đàn La Mã cổ đại
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Một thước phim tái hiện lịch sử buổi sáng tại Diễn đàn La Mã thế kỷ thứ 1, với hình ảnh người bán trái cây đang rao hàng bằng tiếng Latin.
-
-#### 📝 Prompt
-
-```
-Buổi sáng thế kỷ thứ 1 sau Công nguyên tại Diễn đàn La Mã — một người bán trái cây. Lời rao bằng tiếng Latin của cô ấy: "Bona poma!" — "Trái cây ngon đây!" "Dulcia poma!" — "Trái cây ngọt đây!"
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069990879486783488/img/5UrjpNsEn_CuOTWU.jpg" width="600" alt="Người bán trái cây tại Diễn đàn La Mã cổ đại">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6563)**
-
-**Author:** [たんぐすけん | シニアの叡智、AIで加速！](https://x.com/Tungskenichi) | **Source:** [Link](https://x.com/Tungskenichi/status/2069992038490362343) | **Published:** Jun 25, 2026
-
----
-### Nhà phát minh lượng tử tại sa mạc Sonoran
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh chi tiết để tạo video về một nhà phát minh đang thử nghiệm thiết bị lượng tử dưới bầu trời đêm sa mạc.
-
-#### 📝 Prompt
-
-```
-Trong đêm sa mạc Sonoran ấm áp gần Queen Creek, một nhà phát minh có tầm nhìn xuất chúng (với tinh thần quả cảm như hiệp sĩ để kiến tạo tương lai) đang thử nghiệm một thiết bị truyền thông lượng tử mới dưới bầu trời đầy sao.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069909509695533056/img/lWsxKTO6INUZB8Rz.jpg" width="600" alt="Nhà phát minh lượng tử tại sa mạc Sonoran">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6436)**
-
-**Author:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **Source:** [Link](https://x.com/AnnetteHollerWe/status/2069909624585928886) | **Published:** Jun 24, 2026
-
----
-### Lời nhắc video Mecha Runway Tap Dance
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một lời nhắc khoa học viễn tưởng độc đáo với hình ảnh các cỗ máy mechs đang nhảy tap dance trên đường băng dưới mưa, kết hợp giữa hành động cơ khí và sự vui nhộn.
-
-#### 📝 Prompt
-
-```
-Điệu nhảy Tap Dance trên đường băng dưới mưa. Ba cỗ máy mechs, một phi công dũng cảm và một màn té nước bất ngờ từ trên cao
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069796787972706304/img/fDS2_ogoihwdgA_v.jpg" width="600" alt="Lời nhắc video Mecha Runway Tap Dance">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6435)**
-
-**Author:** [AI영상공작실](https://x.com/lee_young71) | **Source:** [Link](https://x.com/lee_young71/status/2069796857874923823) | **Published:** Jun 24, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2243,6 +2257,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-09T07:59:45.429Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-09T11:27:31.692Z</sub>
 
 </div>

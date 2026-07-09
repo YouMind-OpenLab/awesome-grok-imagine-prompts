@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2056** |
+| 📝 Total Prompts | **2060** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-09** |
 
@@ -189,6 +189,96 @@ Uma Valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Animação Romântica em Esboço a Lápis
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Adiciona uma animação flutuante de marcas de beijo, corações e luzes a um esboço a lápis estático de um casal.
+
+#### 📝 Prompt
+
+```
+Animação romântica flutuante atrás do casal em esboço a lápis: inúmeras marcas de beijo e corações flutuam para cima e giram lentamente, luzes bokeh pulsam, brilhos cintilam, raios de luz suaves balançam, palavras de amor aparecem e desaparecem suavemente no fundo profundo. O esboço em si permanece estático enquanto os elementos de fundo se movem.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074851646090174464/img/2mqfgIrxWodVjovB.jpg" width="600" alt="Animação Romântica em Esboço a Lápis">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6973)**
+
+**Author:** [joscilene Laura](https://x.com/joscilene_maria) | **Source:** [Link](https://x.com/joscilene_maria/status/2074851707507355664) | **Published:** Jul 8, 2026
+
+---
+### Vídeo de Verão em Casa Rural Coreana
+
+![한국어](https://img.shields.io/badge/lang-한국어-orange)
+
+> Um prompt de vídeo cinematográfico em 4K para gerar uma cena de verão nostálgica e pacífica dentro de uma casa rural coreana tradicional, apresentando luz solar, fatias triangulares de melancia e um ventilador de chão giratório.
+
+#### 📝 Prompt
+
+```
+Um vídeo de verão claro e fresco de 10 segundos ambientado na sala de estar de uma antiga casa rural coreana de madeira. A luz solar limpa e brilhante entra pelas portas e janelas abertas, e o piso de madeira e as paredes de madeira antigas criam uma atmosfera calorosa e nostálgica de casa rural. No geral, parece uma tarde de verão brilhante e arejada.
+
+A porta está bem aberta e, do lado de fora, árvores verdes frescas e folhas balançam levemente ao vento. O exterior parece claro e azul, pacífico como uma tarde tranquila de verão no campo.
+
+Uma bandeja de metal redonda é colocada sobre uma mesa baixa de madeira. As fatias de melancia estão apenas dentro da bandeja e não diretamente sobre a mesa. Cinco ou seis fatias triangulares de melancia fresca estão dispostas ordenadamente na bandeja. Cada fatia de melancia não tem formato de meia-lua, mas é uma fatia triangular típica com o topo pontiagudo e uma casca verde curta na parte inferior. Quando vista pela câmera, o lado da polpa vermelha parece um triângulo claro, e a casca verde está naturalmente fixada ao longo da borda inferior do triângulo. A melancia não é muito grossa, mas fina e fresca, mostrando a polpa vermelha úmida, pequenas sementes pretas e a sensação de uma melancia de verão fresca e gelada.
+
+Ao lado da bandeja, há um diário ilustrado de verão desenhado com lápis de cor, mas o texto é ilegível. Vários lápis de cor estão naturalmente espalhados ao redor do diário, levemente dispersos, mas parecendo algo usado no dia a dia, em vez de bagunçado.
+
+Um ventilador elétrico antigo é colocado no piso de madeira ao lado da mesa, girando lentamente de um lado para o outro com suas pás em movimento. A brisa do ventilador move as cortinas e as páginas do diário levemente e, embora seja um dia quente de verão com sol, o ambiente parece fresco e relaxado.
+
+Atmosfera nostálgica de uma casa rural coreana, luz solar clara, árvores verdes frescas, sala de estar de madeira bem ventilada, sombras suaves, texturas realistas, tarde de verão pacífica, atmosfera tranquila e relaxada, cinematográfico 4K, luz natural, fatias triangulares de melancia em uma bandeja de metal e um diário ilustrado, câmera aproximando-se lentamente do ventilador de chão. Sem pessoas.
+
+Duração do vídeo: 10 segundos. Proporção: 16:9. Atmosfera: Brilhante, fresca, nostálgica, pacífica, brisa refrescante de ventilador em um dia claro de verão.
+
+Prompt Negativo: Melancia em formato de meia-lua, melancia em formato de crescente, melancia fatiada redonda, melancia cortada circularmente, melancia colocada diretamente na mesa, melancia fora da bandeja, frutas flutuando no ar, formatos estranhos de melancia, triângulos geometricamente rígidos demais, fatias de melancia distorcidas, frutas derretendo, fatias de melancia grossas demais, pedaços grossos de melancia, melancia em formato de cubo, pedaços quebrados irregularmente, casca de melancia excessivamente grande, frutas com aparência artificial, melancia pálida e seca, melancia amontoada no centro, arranjo de frutas bagunçado, sala escura, iluminação sombria, apartamento moderno, pessoas, mãos, rostos, texto legível, legendas, logotipos, marcas d'água, ventilador distorcido, imagem embaçada, baixa qualidade, câmera trêmula.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074491828473393153/img/7RlihPIyY87TipaM.jpg" width="600" alt="Vídeo de Verão em Casa Rural Coreana">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6975)**
+
+**Author:** [엘라](https://x.com/Luciela_00) | **Source:** [Link](https://x.com/Luciela_00/status/2074780529900020044) | **Published:** Jul 8, 2026
+
+---
+### OVNI e a Transformação de Orihime
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Uma cena narrativa complexa envolvendo OVNIs, um homem de óculos escuros, um hamster e um alienígena que se transforma na lendária Orihime.
+
+#### 📝 Prompt
+
+```
+@Image1 Eu desejo paz mundial! E, quando faço isso, um grande número de OVNIs chega. Uma cena onde um homem de óculos escuros e um hamster são surpreendidos por um alienígena à direita, que diz: "Você! Você chamou seus amigos!?", e então o alienígena se transforma em uma bela Orihime e diz: "Na verdade, eu sou a Orihime!". O homem de óculos escuros e o hamster ficam chocados, exclamando: "O quêêê!"
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074749392687693824/img/LDwry94WXu9Xlr_r.jpg" width="600" alt="OVNI e a Transformação de Orihime">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6974)**
+
+**Author:** [AI特撮アトリエ](https://x.com/AI_tokusatsu) | **Source:** [Link](https://x.com/AI_tokusatsu/status/2074749452200579403) | **Published:** Jul 8, 2026
+
+---
+### Animação suave de mãe e filho
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de animação emocionante que descreve uma mãe pegando seu filho curioso com ternura em um abraço para levá-lo para casa.
+
+#### 📝 Prompt
+
+```
+A mãe da criança é calma e gentil, sem medo, curiosa, repreensão suave, pega a mesma criança em um abraço para levá-la para casa, para dentro, para toalhas quentes
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074696905938833408/img/65jkdLK7xBV8xuRI.jpg" width="600" alt="Animação suave de mãe e filho">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6972)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2074696965485478140) | **Published:** Jul 8, 2026
+
+---
 ### Sobreposição Temporizada de Estrelas em Potes
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2106,82 +2196,6 @@ Ela abre um sorriso caloroso e genuíno e levanta uma das mãos em um aceno amig
 **Author:** [grok_imagine_free_user](https://x.com/FreeGrokUser) | **Source:** [Link](https://x.com/FreeGrokUser/status/2070058384959983811) | **Published:** Jun 25, 2026
 
 ---
-### Animação de transformação de nebulosa em camarão
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt criativo de transformação que faz a transição de uma nebulosa cósmica para um camarão de coquetel usando elementos visuais correspondentes.
-
-#### 📝 Prompt
-
-```
-Faça a galáxia/nebulosa girar lentamente até se transformar em um grande camarão de coquetel. Use a parte rosada da própria nebulosa, que se assemelha a um camarão, para realizar a transformação.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070054724389466112/img/M8GyF-NPtJUrq5KO.jpg" width="600" alt="Animação de transformação de nebulosa em camarão">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6484)**
-
-**Author:** [Lynn Hocker](https://x.com/Auroraskye3993) | **Source:** [Link](https://x.com/Auroraskye3993/status/2070054843604181021) | **Published:** Jun 25, 2026
-
----
-### Vendedor de frutas no antigo Fórum Romano
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Uma recriação histórica cinematográfica de uma manhã no Fórum Romano do século I, apresentando um vendedor de frutas gritando em latim.
-
-#### 📝 Prompt
-
-```
-Manhã do século I d.C. no Fórum Romano — um vendedor de frutas. Seu chamado em latim: "Bona poma!" — "Frutas boas!" "Dulcia poma!" — "Frutas doces!"
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069990879486783488/img/5UrjpNsEn_CuOTWU.jpg" width="600" alt="Vendedor de frutas no antigo Fórum Romano">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6563)**
-
-**Author:** [たんぐすけん | シニアの叡智、AIで加速！](https://x.com/Tungskenichi) | **Source:** [Link](https://x.com/Tungskenichi/status/2069992038490362343) | **Published:** Jun 25, 2026
-
----
-### Inventor Quântico no Deserto de Sonora
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado para gerar um vídeo de um inventor testando um dispositivo quântico sob o céu noturno do deserto.
-
-#### 📝 Prompt
-
-```
-Na noite quente do Deserto de Sonora, perto de Queen Creek, um brilhante inventor visionário (com aquele ímpeto de cavaleiro para construir o futuro) está testando um novo dispositivo de comunicação quântica sob um céu estrelado.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069909509695533056/img/lWsxKTO6INUZB8Rz.jpg" width="600" alt="Inventor Quântico no Deserto de Sonora">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6436)**
-
-**Author:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **Source:** [Link](https://x.com/AnnetteHollerWe/status/2069909624585928886) | **Published:** Jun 24, 2026
-
----
-### Prompt de Vídeo: Sapateado de Mechas na Pista
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de ficção científica único apresentando mechas fazendo sapateado em uma pista chuvosa, misturando ação mecânica com diversão.
-
-#### 📝 Prompt
-
-```
-Sapateado na Pista Chuvosa. Três mechas, um piloto destemido e um splash inesperado vindo de cima
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069796787972706304/img/fDS2_ogoihwdgA_v.jpg" width="600" alt="Prompt de Vídeo: Sapateado de Mechas na Pista">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6435)**
-
-**Author:** [AI영상공작실](https://x.com/lee_young71) | **Source:** [Link](https://x.com/lee_young71/status/2069796857874923823) | **Published:** Jun 24, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2243,6 +2257,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-09T07:59:57.013Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-09T11:27:39.374Z</sub>
 
 </div>

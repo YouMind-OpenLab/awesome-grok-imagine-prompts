@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2056** |
+| 📝 Total Prompts | **2060** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-09** |
 
@@ -189,6 +189,96 @@ Una mistica e nobile Valchiria celestiale, una donna dignitosa e bellissima con 
 
 > 📝 Sorted by publish date (newest first)
 
+### Animazione romantica a schizzo a matita
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Aggiunge un'animazione fluttuante di baci, cuori e luci a uno schizzo a matita statico di una coppia.
+
+#### 📝 Prompt
+
+```
+Romantica animazione fluttuante dietro la coppia dello schizzo a matita: innumerevoli baci e cuori fluttuano verso l'alto e vorticano lentamente, luci bokeh pulsano, scintille brillano, raggi di luce soffusa ondeggiano, parole d'amore appaiono e scompaiono delicatamente sullo sfondo profondo. Lo schizzo rimane statico mentre gli elementi dello sfondo si muovono.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074851646090174464/img/2mqfgIrxWodVjovB.jpg" width="600" alt="Animazione romantica a schizzo a matita">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6973)**
+
+**Author:** [joscilene Laura](https://x.com/joscilene_maria) | **Source:** [Link](https://x.com/joscilene_maria/status/2074851707507355664) | **Published:** Jul 8, 2026
+
+---
+### Video estivo in una casa rurale coreana
+
+![한국어](https://img.shields.io/badge/lang-한국어-orange)
+
+> Un prompt video 4K cinematografico per generare una scena estiva nostalgica e pacifica all'interno di una tradizionale casa rurale coreana, con luce solare, fette di anguria triangolari e un ventilatore da pavimento rotante.
+
+#### 📝 Prompt
+
+```
+Un video estivo chiaro e fresco di 10 secondi ambientato nel soggiorno di una vecchia casa rurale coreana in legno. Una luce solare pulita e luminosa entra dalle porte e dalle finestre aperte; il pavimento in legno e le vecchie pareti in legno creano un'atmosfera calda e nostalgica. Nel complesso, la scena trasmette la sensazione di un luminoso e arioso pomeriggio estivo.
+
+La porta è spalancata e, all'esterno, alberi e foglie di un verde brillante ondeggiano leggermente al vento. L'esterno appare limpido e azzurro, pacifico come un tranquillo pomeriggio estivo in campagna.
+
+Un vassoio di metallo rotondo è appoggiato su un tavolino basso di legno. Le fette di anguria sono disposte esclusivamente all'interno del vassoio e non direttamente sul tavolo. Cinque o sei fresche fette di anguria triangolari sono sistemate ordinatamente sul vassoio. Ogni fetta non ha la classica forma a mezzaluna, ma è una tipica fetta triangolare con la punta rivolta verso l'alto e la scorza verde corta alla base. Dal punto di vista della telecamera, la polpa rossa appare come un triangolo netto, con la scorza verde naturalmente attaccata lungo il bordo inferiore. L'anguria non è troppo spessa, ma sottile e fresca, mostrando la polpa rossa umida, piccoli semi neri e la sensazione di un'anguria estiva fresca e dissetante.
+
+Accanto al vassoio si trova un diario estivo illustrato disegnato con matite colorate, ma il testo non è leggibile. Diverse matite colorate sono posate naturalmente attorno al diario, leggermente sparse ma in modo da sembrare vissuto piuttosto che disordinato.
+
+Un vecchio ventilatore elettrico è posizionato sul pavimento in legno accanto al tavolo, ruotando lentamente da un lato all'altro con le pale in movimento. La brezza del ventilatore muove leggermente le tende e le pagine del diario; sebbene sia una calda giornata estiva soleggiata, la stanza appare fresca e rilassata.
+
+Atmosfera nostalgica di una casa rurale coreana, luce solare limpida, alberi verde brillante, soggiorno in legno ben ventilato, ombre morbide, texture realistiche, tranquillo pomeriggio estivo, atmosfera calma e rilassata, 4K cinematografico, luce naturale, fette di anguria triangolari su un vassoio di metallo e un diario illustrato, la telecamera si avvicina lentamente al ventilatore. Nessuna persona presente.
+
+Durata del video: 10 secondi. Rapporto d'aspetto: 16:9. Atmosfera: Luminosa, fresca, nostalgica, pacifica, brezza fresca del ventilatore in una limpida giornata estiva.
+
+Prompt negativo: Anguria a forma di mezzaluna, anguria a forma di falce, anguria affettata in modo rotondo, anguria tagliata circolarmente, anguria posizionata direttamente sul tavolo, anguria fuori dal vassoio, frutta che fluttua nell'aria, forme di anguria strane, triangoli geometricamente troppo rigidi, fette di anguria distorte, frutta che si scioglie, fette di anguria troppo spesse, pezzi di anguria grossolani, anguria a forma di cubo, pezzi rotti in modo irregolare, scorza di anguria eccessivamente grande, frutta dall'aspetto artificiale, anguria pallida e secca, anguria ammucchiata al centro, disposizione della frutta disordinata, stanza buia, illuminazione cupa, appartamento moderno, persone, mani, volti, testo leggibile, sottotitoli, loghi, filigrane, ventilatore distorto, immagine sfocata, bassa qualità, telecamera tremolante.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074491828473393153/img/7RlihPIyY87TipaM.jpg" width="600" alt="Video estivo in una casa rurale coreana">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6975)**
+
+**Author:** [엘라](https://x.com/Luciela_00) | **Source:** [Link](https://x.com/Luciela_00/status/2074780529900020044) | **Published:** Jul 8, 2026
+
+---
+### UFO e la trasformazione di Orihime
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Una complessa scena narrativa che coinvolge UFO, un uomo con gli occhiali da sole, un criceto e un alieno che si trasforma nella leggendaria Orihime.
+
+#### 📝 Prompt
+
+```
+@Image1 Desidero la pace nel mondo! E proprio in quel momento, arriva un gran numero di UFO. Una scena in cui un uomo con gli occhiali da sole e un criceto vengono sorpresi da un alieno sulla destra che dice: "Tu! Hai chiamato i tuoi amici!?", e poi l'alieno si trasforma in una bellissima Orihime e dice: "In realtà, sono Orihime!". L'uomo con gli occhiali da sole e il criceto sono scioccati ed esclamano: "Co-oosa!"
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074749392687693824/img/LDwry94WXu9Xlr_r.jpg" width="600" alt="UFO e la trasformazione di Orihime">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6974)**
+
+**Author:** [AI特撮アトリエ](https://x.com/AI_tokusatsu) | **Source:** [Link](https://x.com/AI_tokusatsu/status/2074749452200579403) | **Published:** Jul 8, 2026
+
+---
+### Animazione delicata di madre e figlio
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt di animazione commovente che descrive una madre che prende delicatamente in braccio il suo bambino curioso per portarlo a casa.
+
+#### 📝 Prompt
+
+```
+La madre del bambino è calma e gentile, senza paura, curiosa, un rimprovero dolce, prende in braccio lo stesso bambino in un abbraccio per portarlo a casa al caldo tra asciugamani morbidi
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074696905938833408/img/65jkdLK7xBV8xuRI.jpg" width="600" alt="Animazione delicata di madre e figlio">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6972)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2074696965485478140) | **Published:** Jul 8, 2026
+
+---
 ### Overlay a tempo Stars in Jars
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2106,82 +2196,6 @@ Accenna un sorriso caldo e genuino e alza una mano in un saluto amichevole verso
 **Author:** [grok_imagine_free_user](https://x.com/FreeGrokUser) | **Source:** [Link](https://x.com/FreeGrokUser/status/2070058384959983811) | **Published:** Jun 25, 2026
 
 ---
-### Animazione di morphing da nebulosa a gamberetto
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt creativo di morphing che trasforma una nebulosa cosmica in un gamberetto in cocktail, utilizzando elementi visivi corrispondenti.
-
-#### 📝 Prompt
-
-```
-Fai ruotare lentamente la galassia/nebulosa finché non si trasforma in un grande gamberetto in cocktail. Usa la parte rosata della nebulosa, che ricorda un gamberetto, per eseguire il morphing nel gamberetto in cocktail.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070054724389466112/img/M8GyF-NPtJUrq5KO.jpg" width="600" alt="Animazione di morphing da nebulosa a gamberetto">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6484)**
-
-**Author:** [Lynn Hocker](https://x.com/Auroraskye3993) | **Source:** [Link](https://x.com/Auroraskye3993/status/2070054843604181021) | **Published:** Jun 25, 2026
-
----
-### Venditore di frutta nell'antico Foro Romano
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Una ricostruzione storica cinematografica di una mattina nel Foro Romano del I secolo, con un venditore di frutta che grida in latino.
-
-#### 📝 Prompt
-
-```
-Mattina del I secolo d.C. al Foro Romano: un venditore di frutta. Il suo richiamo in latino: "Bona poma!" — "Buona frutta!" "Dulcia poma!" — "Frutta dolce!"
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069990879486783488/img/5UrjpNsEn_CuOTWU.jpg" width="600" alt="Venditore di frutta nell'antico Foro Romano">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6563)**
-
-**Author:** [たんぐすけん | シニアの叡智、AIで加速！](https://x.com/Tungskenichi) | **Source:** [Link](https://x.com/Tungskenichi/status/2069992038490362343) | **Published:** Jun 25, 2026
-
----
-### Inventore quantistico nel deserto di Sonora
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt dettagliato per generare un video di un inventore che testa un dispositivo quantistico sotto il cielo notturno del deserto.
-
-#### 📝 Prompt
-
-```
-Nella calda notte del deserto di Sonora, vicino a Queen Creek, un brillante inventore visionario (con quella determinazione da cavaliere nel costruire il futuro) sta testando un nuovo dispositivo di comunicazione quantistica sotto un cielo stellato.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069909509695533056/img/lWsxKTO6INUZB8Rz.jpg" width="600" alt="Inventore quantistico nel deserto di Sonora">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6436)**
-
-**Author:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **Source:** [Link](https://x.com/AnnetteHollerWe/status/2069909624585928886) | **Published:** Jun 24, 2026
-
----
-### Prompt video: Mecha che ballano tip tap sulla pista
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt sci-fi unico che vede dei mech esibirsi in un tip tap su una pista piovosa, unendo l'azione meccanica a un tocco di giocosità.
-
-#### 📝 Prompt
-
-```
-Tip tap su pista piovosa. Tre mech, un pilota senza paura e un inaspettato scroscio dall'alto
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069796787972706304/img/fDS2_ogoihwdgA_v.jpg" width="600" alt="Prompt video: Mecha che ballano tip tap sulla pista">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6435)**
-
-**Author:** [AI영상공작실](https://x.com/lee_young71) | **Source:** [Link](https://x.com/lee_young71/status/2069796857874923823) | **Published:** Jun 24, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2243,6 +2257,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-09T07:59:54.106Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-09T11:27:37.426Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **2056** |
+| 📝 총 프롬프트 수 | **2060** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-07-09** |
 
@@ -189,6 +189,96 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 로맨틱한 연필 스케치 애니메이션
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 커플의 정적인 연필 스케치 위에 키스 마크, 하트, 조명 효과가 떠다니는 애니메이션을 추가합니다.
+
+#### 📝 프롬프트
+
+```
+연필 스케치로 그려진 커플 뒤로 펼쳐지는 로맨틱한 플로팅 애니메이션: 수많은 키스 마크와 하트가 위로 떠오르며 천천히 소용돌이치고, 보케 조명이 깜빡이며, 반짝임이 빛나고, 부드러운 빛줄기가 흔들립니다. 깊은 배경 속에서는 사랑의 문구들이 은은하게 나타났다 사라집니다. 스케치 자체는 정지된 상태로 유지되며 배경 요소들만 움직입니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074851646090174464/img/2mqfgIrxWodVjovB.jpg" width="600" alt="로맨틱한 연필 스케치 애니메이션">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6973)**
+
+**작성자:** [joscilene Laura](https://x.com/joscilene_maria) | **출처:** [Link](https://x.com/joscilene_maria/status/2074851707507355664) | **게시일:** Jul 8, 2026
+
+---
+### 한국 시골집 여름 영상
+
+![한국어](https://img.shields.io/badge/lang-한국어-orange)
+
+> 전통적인 한국 시골집 내부의 향수를 불러일으키는 평화로운 여름 풍경을 생성하기 위한 시네마틱 4K 영상 프롬프트입니다. 햇살, 삼각형 수박 조각, 회전하는 선풍기가 포함되어 있습니다.
+
+#### 📝 프롬프트
+
+```
+오래된 목조 한국 시골집 거실을 배경으로 한 맑고 청량한 10초 분량의 여름 영상입니다. 열린 문과 창문을 통해 깨끗하고 밝은 햇살이 들어오며, 나무 바닥과 오래된 나무 벽이 따뜻하고 향수 어린 시골집 분위기를 자아냅니다. 전체적으로 밝고 통풍이 잘되는 여름 오후의 느낌입니다.
+
+문은 활짝 열려 있고, 문밖으로는 신선한 초록색 나무와 잎사귀들이 바람에 살랑거립니다. 밖은 맑고 푸르며, 조용한 시골의 여름 오후처럼 평화롭습니다.
+
+낮은 나무 탁자 위에는 둥근 금속 쟁반이 놓여 있습니다. 수박 조각은 탁자 위에 직접 놓이지 않고 쟁반 안에만 담겨 있습니다. 5~6개의 신선한 삼각형 수박 조각이 쟁반 위에 가지런히 놓여 있습니다. 각 수박 조각은 반달 모양이 아니라, 위쪽이 뾰족하고 아래쪽에 짧은 초록색 껍질이 있는 전형적인 삼각형 모양입니다. 카메라 시점에서 볼 때 빨간 과육 면은 맑은 삼각형 모양이며, 초록색 껍질은 삼각형의 아래쪽 가장자리를 따라 자연스럽게 붙어 있습니다. 수박은 너무 두껍지 않고 얇고 신선하며, 촉촉한 빨간 과육과 작은 검은 씨앗, 그리고 시원한 여름 수박의 느낌을 보여줍니다.
+
+쟁반 옆에는 색연필로 그린 여름 그림일기장이 놓여 있지만, 글씨는 읽을 수 없습니다. 그림일기 주변에는 색연필 몇 자루가 자연스럽게 놓여 있는데, 지저분하지 않고 사람이 살고 있는 듯한 느낌을 줍니다.
+
+탁자 옆 나무 바닥에는 낡은 선풍기가 놓여 있으며, 날개를 돌리며 좌우로 천천히 회전합니다. 선풍기 바람에 커튼과 그림일기 페이지가 살짝 움직이며, 햇살이 내리쬐는 더운 여름날이지만 방 안은 시원하고 여유롭게 느껴집니다.
+
+한국 시골집의 향수 어린 분위기, 맑은 햇살, 신선한 초록색 나무, 통풍이 잘되는 나무 거실, 부드러운 그림자, 사실적인 질감, 평화로운 여름 오후, 조용하고 편안한 분위기, 시네마틱 4K, 자연광, 금속 쟁반 위의 삼각형 수박 조각과 그림일기, 선풍기로 천천히 다가가는 카메라. 사람 없음.
+
+영상 길이: 10초. 화면 비율: 16:9. 분위기: 밝고, 신선하고, 향수를 불러일으키며, 평화롭고, 맑은 여름날 선풍기 바람이 부는 시원함.
+
+부정 프롬프트: 반달 모양 수박, 초승달 모양 수박, 둥글게 썬 수박, 원형으로 자른 수박, 탁자 위에 직접 놓인 수박, 쟁반 밖의 수박, 공중에 떠 있는 과일, 이상한 수박 모양, 기하학적으로 너무 딱딱한 삼각형, 왜곡된 수박 조각, 녹아내리는 과일, 너무 두꺼운 수박 조각, 두꺼운 수박 덩어리, 정육면체 모양 수박, 불규칙하게 깨진 조각, 지나치게 큰 수박 껍질, 인위적으로 보이는 과일, 창백하고 마른 수박, 중앙에 쌓인 수박, 지저분한 과일 배치, 어두운 방, 우울한 조명, 현대적인 아파트, 사람, 손, 얼굴, 읽을 수 있는 텍스트, 자막, 로고, 워터마크, 왜곡된 선풍기, 흐릿한 이미지, 저화질, 흔들리는 카메라.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074491828473393153/img/7RlihPIyY87TipaM.jpg" width="600" alt="한국 시골집 여름 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6975)**
+
+**작성자:** [엘라](https://x.com/Luciela_00) | **출처:** [Link](https://x.com/Luciela_00/status/2074780529900020044) | **게시일:** Jul 8, 2026
+
+---
+### UFO와 오리히메 변신
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> UFO, 선글라스를 쓴 남자, 햄스터, 그리고 전설 속 오리히메로 변신하는 외계인이 등장하는 복합적인 서사 장면입니다.
+
+#### 📝 프롬프트
+
+```
+@Image1 세계 평화를 기원하자 수많은 UFO가 나타납니다. 선글라스를 쓴 남자와 햄스터가 오른쪽에 있는 외계인을 보고 "너! 네가 친구들을 불렀어!?"라며 놀라는 장면입니다. 그러자 외계인이 아름다운 오리히메로 변신하며 "사실, 난 오리히메야!"라고 말합니다. 선글라스를 쓴 남자와 햄스터는 "뭐, 뭐라고!?"라며 경악합니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074749392687693824/img/LDwry94WXu9Xlr_r.jpg" width="600" alt="UFO와 오리히메 변신">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6974)**
+
+**작성자:** [AI特撮アトリエ](https://x.com/AI_tokusatsu) | **출처:** [Link](https://x.com/AI_tokusatsu/status/2074749452200579403) | **게시일:** Jul 8, 2026
+
+---
+### 다정한 엄마와 아이 애니메이션
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 호기심 많은 아이를 엄마가 다정하게 안아 올려 집으로 데려가는 따뜻한 분위기의 애니메이션 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+아이의 엄마는 차분하고 다정하며, 두려움 없이 호기심 어린 모습으로 부드럽게 타이른다. 엄마는 아이를 포근하게 안아 올려 따뜻한 수건이 있는 집 안으로 데려간다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074696905938833408/img/65jkdLK7xBV8xuRI.jpg" width="600" alt="다정한 엄마와 아이 애니메이션">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6972)**
+
+**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2074696965485478140) | **게시일:** Jul 8, 2026
+
+---
 ### 유리병 속 별 타이머 오버레이
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2106,82 +2196,6 @@ Elena 가 반짝이는 포털을 지나 광활한 Playroom 으로 들어서며 �
 **작성자:** [grok_imagine_free_user](https://x.com/FreeGrokUser) | **출처:** [Link](https://x.com/FreeGrokUser/status/2070058384959983811) | **게시일:** Jun 25, 2026
 
 ---
-### 성운에서 칵테일 새우로 변하는 모핑 애니메이션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 우주 성운을 칵테일 새우로 자연스럽게 전환하는 창의적인 모핑 프롬프트로, 시각적 요소를 조화롭게 연결합니다.
-
-#### 📝 프롬프트
-
-```
-은하/성운이 천천히 회전하다가 커다란 칵테일 새우로 변하게 하세요. 성운의 분홍빛을 띠는 새우 모양 부분을 활용하여 칵테일 새우로 모핑되도록 설정하세요.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070054724389466112/img/M8GyF-NPtJUrq5KO.jpg" width="600" alt="성운에서 칵테일 새우로 변하는 모핑 애니메이션">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6484)**
-
-**작성자:** [Lynn Hocker](https://x.com/Auroraskye3993) | **출처:** [Link](https://x.com/Auroraskye3993/status/2070054843604181021) | **게시일:** Jun 25, 2026
-
----
-### 고대 로마 포럼의 과일 상인
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 1세기 로마 포럼의 아침을 재현한 영화 같은 역사적 장면으로, 라틴어로 외치는 과일 상인의 모습을 담고 있습니다.
-
-#### 📝 프롬프트
-
-```
-서기 1세기 로마 포럼의 아침, 한 과일 상인의 모습. 그녀가 라틴어로 외칩니다: "Bona poma!" — "좋은 과일이요!" "Dulcia poma!" — "달콤한 과일이요!"
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069990879486783488/img/5UrjpNsEn_CuOTWU.jpg" width="600" alt="고대 로마 포럼의 과일 상인">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6563)**
-
-**작성자:** [たんぐすけん | シニアの叡智、AIで加速！](https://x.com/Tungskenichi) | **출처:** [Link](https://x.com/Tungskenichi/status/2069992038490362343) | **게시일:** Jun 25, 2026
-
----
-### 소노란 사막의 양자 발명가
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 소노란 사막의 밤하늘 아래에서 양자 장치를 테스트하는 발명가의 영상을 생성하기 위한 상세 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-퀸 크릭 인근의 따뜻한 소노란 사막의 밤, 미래를 건설하려는 기사 같은 열정을 지닌 뛰어난 발명가가 별이 가득한 하늘 아래에서 새로운 양자 통신 장치를 테스트하고 있습니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069909509695533056/img/lWsxKTO6INUZB8Rz.jpg" width="600" alt="소노란 사막의 양자 발명가">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6436)**
-
-**작성자:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **출처:** [Link](https://x.com/AnnetteHollerWe/status/2069909624585928886) | **게시일:** Jun 24, 2026
-
----
-### 메카 런웨이 탭댄스 비디오 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 비 내리는 런웨이에서 탭댄스를 추는 메카들의 모습을 담은 독특한 SF 프롬프트로, 기계적인 액션과 유쾌함을 결합했습니다.
-
-#### 📝 프롬프트
-
-```
-비 내리는 런웨이의 탭댄스. 세 대의 메카, 한 명의 대담한 파일럿, 그리고 위에서 쏟아지는 예상치 못한 물보라
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069796787972706304/img/fDS2_ogoihwdgA_v.jpg" width="600" alt="메카 런웨이 탭댄스 비디오 프롬프트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6435)**
-
-**작성자:** [AI영상공작실](https://x.com/lee_young71) | **출처:** [Link](https://x.com/lee_young71/status/2069796857874923823) | **게시일:** Jun 24, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2243,6 +2257,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-09T07:59:42.422Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-09T11:27:29.661Z</sub>
 
 </div>

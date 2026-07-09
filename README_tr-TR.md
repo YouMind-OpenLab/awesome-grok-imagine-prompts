@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2056** |
+| 📝 Total Prompts | **2060** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-09** |
 
@@ -189,6 +189,96 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Romantik Kurşun Kalem Eskiz Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir çiftin sabit kurşun kalem eskizine öpücük izleri, kalpler ve ışıklardan oluşan yüzen bir animasyon ekler.
+
+#### 📝 Prompt
+
+```
+Kurşun kalem eskiz çiftin arkasında romantik yüzen animasyon: sayısız öpücük izi ve kalp yukarı doğru süzülüp yavaşça döner, bokeh ışıkları titreşir, parıltılar ışıldar, yumuşak ışık huzmeleri sallanır, aşk sözcükleri derin arka planda yavaşça belirip kaybolur. Eskizin kendisi sabit kalırken arka plan öğeleri hareket eder.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074851646090174464/img/2mqfgIrxWodVjovB.jpg" width="600" alt="Romantik Kurşun Kalem Eskiz Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6973)**
+
+**Author:** [joscilene Laura](https://x.com/joscilene_maria) | **Source:** [Link](https://x.com/joscilene_maria/status/2074851707507355664) | **Published:** Jul 8, 2026
+
+---
+### Kore Kırsal Evi Yaz Videosu
+
+![한국어](https://img.shields.io/badge/lang-한국어-orange)
+
+> Geleneksel bir Kore kırsal evinin içinde; güneş ışığı, üçgen karpuz dilimleri ve dönen bir yer vantilatörü içeren nostaljik ve huzurlu bir yaz sahnesi oluşturmak için sinematik 4K video istemi.
+
+#### 📝 Prompt
+
+```
+Eski, ahşap bir Kore kırsal evinin oturma odasında geçen, net ve ferah 10 saniyelik bir yaz videosu. Açık kapı ve pencerelerden içeri temiz ve parlak bir güneş ışığı süzülüyor; ahşap zemin ve eski ahşap duvarlar sıcak ve nostaljik bir kırsal ev atmosferi yaratıyor. Genel olarak, parlak ve havadar bir yaz öğleden sonrasını hissettiriyor.
+
+Kapı ardına kadar açık ve kapının dışında taze yeşil ağaçlar ile yapraklar rüzgarda hafifçe sallanıyor. Dışarısı, sakin bir kırsal yaz öğleden sonrası gibi berrak, mavi ve huzurlu görünüyor.
+
+Alçak bir ahşap masanın üzerinde yuvarlak metal bir tepsi duruyor. Karpuz dilimleri doğrudan masanın üzerine değil, sadece tepsinin içine yerleştirilmiş. Tepside beş veya altı adet taze, üçgen karpuz dilimi düzgün bir şekilde dizilmiş. Her bir karpuz dilimi yarım ay şeklinde değil; ucu sivri, alt kısmında ise kısa yeşil kabuğu olan tipik bir üçgen dilim şeklinde. Kameradan bakıldığında kırmızı etli kısım net bir üçgen gibi görünüyor ve yeşil kabuk, üçgenin alt kenarı boyunca doğal bir şekilde uzanıyor. Karpuzlar çok kalın değil; ince ve taze görünüyor; nemli kırmızı etini, küçük siyah çekirdeklerini ve taze, soğuk yaz karpuzu hissini yansıtıyor.
+
+Tepsinin yanında, renkli kalemlerle çizilmiş bir yaz resimli günlüğü notu duruyor ancak üzerindeki yazılar okunmuyor. Birkaç renkli kalem, resimli günlüğün etrafına doğal bir şekilde dağılmış; dağınık değil, yaşanmışlık hissi verecek şekilde duruyor.
+
+Masanın yanındaki ahşap zeminde eski bir elektrikli vantilatör duruyor ve pervaneleri dönerek yavaşça bir yandan diğer yana hareket ediyor. Vantilatörün esintisi perdeleri ve resimli günlüğün sayfalarını hafifçe hareket ettiriyor; güneşli, sıcak bir yaz günü olmasına rağmen oda serin ve rahatlatıcı hissettiriyor.
+
+Kore kırsal evinin nostaljik atmosferi, berrak güneş ışığı, taze yeşil ağaçlar, iyi havalandırılan ahşap oturma odası, yumuşak gölgeler, gerçekçi dokular, huzurlu yaz öğleden sonrası, sakin ve rahat bir atmosfer, sinematik 4K, doğal ışık, metal tepsi üzerinde üçgen karpuz dilimleri ve resimli günlük, kameranın yer vantilatörüne yavaşça yaklaşması. İnsan yok.
+
+Video uzunluğu: 10 saniye. En boy oranı: 16:9. Atmosfer: Parlak, taze, nostaljik, huzurlu, açık bir yaz gününde vantilatörün serin esintisi.
+
+Negatif İstem: Yarım ay şeklinde karpuz, hilal şeklinde karpuz, yuvarlak dilimlenmiş karpuz, dairesel kesilmiş karpuz, doğrudan masanın üzerine yerleştirilmiş karpuz, tepsinin dışındaki karpuz, havada uçuşan meyve, tuhaf karpuz şekilleri, geometrik olarak çok katı üçgenler, bozulmuş karpuz dilimleri, eriyen meyve, çok kalın karpuz dilimleri, kalın karpuz parçaları, küp şeklinde karpuz, düzensiz kırılmış parçalar, aşırı büyük karpuz kabuğu, yapay görünen meyve, solgun ve kuru karpuz, ortada yığılmış karpuz, dağınık meyve düzeni, karanlık oda, kasvetli aydınlatma, modern apartman, insanlar, eller, yüzler, okunabilir metin, altyazılar, logolar, filigranlar, bozulmuş vantilatör, bulanık görüntü, düşük kalite, titrek kamera.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074491828473393153/img/7RlihPIyY87TipaM.jpg" width="600" alt="Kore Kırsal Evi Yaz Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6975)**
+
+**Author:** [엘라](https://x.com/Luciela_00) | **Source:** [Link](https://x.com/Luciela_00/status/2074780529900020044) | **Published:** Jul 8, 2026
+
+---
+### UFO ve Orihime Dönüşümü
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> UFO'lar, güneş gözlüklü bir adam, bir hamster ve efsanevi Orihime'ye dönüşen bir uzaylıyı içeren karmaşık bir anlatı sahnesi.
+
+#### 📝 Prompt
+
+```
+@Image1 Dünya barışı diliyorum! ve bunu dilediğim anda çok sayıda UFO geliyor. Güneş gözlüklü bir adam ve bir hamsterın, sağ taraftaki bir uzaylı karşısında şaşkına döndüğü ve uzaylının "Sen! Arkadaşlarımı mı çağırdın!?" dediği, ardından uzaylının güzel bir Orihime'ye dönüşerek "Aslında ben Orihime'yim!" dediği bir sahne. Güneş gözlüklü adam ve hamster şok içinde "Neaaa!" diye bağırıyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074749392687693824/img/LDwry94WXu9Xlr_r.jpg" width="600" alt="UFO ve Orihime Dönüşümü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6974)**
+
+**Author:** [AI特撮アトリエ](https://x.com/AI_tokusatsu) | **Source:** [Link](https://x.com/AI_tokusatsu/status/2074749452200579403) | **Published:** Jul 8, 2026
+
+---
+### Nazik Anne ve Çocuk Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Meraklı çocuğunu kucağına alıp eve götüren şefkatli bir anneyi betimleyen iç ısıtıcı bir animasyon istemi.
+
+#### 📝 Prompt
+
+```
+Çocuğun annesi sakin ve nazik, korku yok, meraklı, yumuşak bir azarlama, aynı çocuğu kucağına alıp eve, sıcak havluların yanına götürüyor
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074696905938833408/img/65jkdLK7xBV8xuRI.jpg" width="600" alt="Nazik Anne ve Çocuk Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6972)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2074696965485478140) | **Published:** Jul 8, 2026
+
+---
 ### Kavanozdaki Yıldızlar Zaman Ayarlı Katman
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2106,82 +2196,6 @@ Ateşli lavların içinden yavaşça yükselen bir ateş Tanrıçası oluşturun
 **Author:** [grok_imagine_free_user](https://x.com/FreeGrokUser) | **Source:** [Link](https://x.com/FreeGrokUser/status/2070058384959983811) | **Published:** Jun 25, 2026
 
 ---
-### Nebuladan Karidese Dönüşüm Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kozmik bir nebulayı, görsel öğeleri eşleştirerek bir kokteyl karidesine dönüştüren yaratıcı bir dönüşüm komutu.
-
-#### 📝 Prompt
-
-```
-Galaksinin/nebulanın, büyük bir kokteyl karidesine dönüşene kadar yavaşça dönmesini sağlayın. Nebulanın kendi içindeki pembemsi, karidese benzeyen kısımları kullanarak kokteyl karidesine geçiş yapın.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070054724389466112/img/M8GyF-NPtJUrq5KO.jpg" width="600" alt="Nebuladan Karidese Dönüşüm Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6484)**
-
-**Author:** [Lynn Hocker](https://x.com/Auroraskye3993) | **Source:** [Link](https://x.com/Auroraskye3993/status/2070054843604181021) | **Published:** Jun 25, 2026
-
----
-### Antik Roma Forumu'nda Meyve Satıcısı
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 1. yüzyıl Roma Forumu sabahının sinematik bir tarihsel canlandırması; Latince seslenen bir meyve satıcısını konu alıyor.
-
-#### 📝 Prompt
-
-```
-Roma Forumu'nda MS 1. yüzyıl sabahı — bir meyve satıcısı. Latince çağrısı: "Bona poma!" — "Güzel meyveler!" "Dulcia poma!" — "Tatlı meyveler!"
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069990879486783488/img/5UrjpNsEn_CuOTWU.jpg" width="600" alt="Antik Roma Forumu'nda Meyve Satıcısı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6563)**
-
-**Author:** [たんぐすけん | シニアの叡智、AIで加速！](https://x.com/Tungskenichi) | **Source:** [Link](https://x.com/Tungskenichi/status/2069992038490362343) | **Published:** Jun 25, 2026
-
----
-### Sonoran Çölü'nde Kuantum Mucidi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir mucidin çöl gece gökyüzü altında kuantum cihazını test ettiği bir videoyu oluşturmaya yönelik detaylı bir istem.
-
-#### 📝 Prompt
-
-```
-Queen Creek yakınlarındaki ılık Sonoran Çölü gecesinde, parlak ve vizyoner bir mucit (geleceği inşa etme konusunda şövalye ruhlu bir azimle), yıldızlarla dolu gökyüzü altında yeni bir kuantum iletişim cihazını test ediyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069909509695533056/img/lWsxKTO6INUZB8Rz.jpg" width="600" alt="Sonoran Çölü'nde Kuantum Mucidi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6436)**
-
-**Author:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **Source:** [Link](https://x.com/AnnetteHollerWe/status/2069909624585928886) | **Published:** Jun 24, 2026
-
----
-### Mecha Runway Tap Dance Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mekanik aksiyonu eğlenceli bir dokunuşla birleştiren, yağmurlu bir pistte step dansı yapan robotların yer aldığı benzersiz bir bilim kurgu istemi.
-
-#### 📝 Prompt
-
-```
-Yağmurlu Pistte Step Dansı. Üç robot, bir korkusuz pilot ve yukarıdan gelen beklenmedik bir su sıçraması
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069796787972706304/img/fDS2_ogoihwdgA_v.jpg" width="600" alt="Mecha Runway Tap Dance Video İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6435)**
-
-**Author:** [AI영상공작실](https://x.com/lee_young71) | **Source:** [Link](https://x.com/lee_young71/status/2069796857874923823) | **Published:** Jun 24, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2243,6 +2257,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-09T07:59:58.488Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-09T11:27:40.391Z</sub>
 
 </div>

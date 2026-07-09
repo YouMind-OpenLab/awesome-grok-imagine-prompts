@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2056** |
+| 📝 Total Prompts | **2060** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-09** |
 
@@ -189,6 +189,96 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Romantische Bleistiftskizzen-Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Fügt einer statischen Bleistiftskizze eines Paares eine schwebende Animation mit Kussmündern, Herzen und Lichteffekten hinzu.
+
+#### 📝 Prompt
+
+```
+Romantische, schwebende Animation hinter dem gezeichneten Paar: Unzählige Kussmünder und Herzen schweben nach oben und wirbeln langsam umher, Bokeh-Lichter pulsieren, Funken glitzern, sanfte Lichtstrahlen wiegen sich und Liebesworte blenden im tiefen Hintergrund sanft ein und aus. Die Skizze selbst bleibt statisch, während sich die Hintergrundelemente bewegen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074851646090174464/img/2mqfgIrxWodVjovB.jpg" width="600" alt="Romantische Bleistiftskizzen-Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6973)**
+
+**Author:** [joscilene Laura](https://x.com/joscilene_maria) | **Source:** [Link](https://x.com/joscilene_maria/status/2074851707507355664) | **Published:** Jul 8, 2026
+
+---
+### Video eines koreanischen Landhauses im Sommer
+
+![한국어](https://img.shields.io/badge/lang-한국어-orange)
+
+> Ein cineastischer 4K-Video-Prompt zur Erzeugung einer nostalgischen und friedlichen Sommerszene in einem traditionellen koreanischen Landhaus, mit Sonnenlicht, dreieckigen Wassermelonenscheiben und einem rotierenden Standventilator.
+
+#### 📝 Prompt
+
+```
+Ein klares und frisches 10-sekündiges Sommervideo, das im Wohnzimmer eines alten hölzernen koreanischen Landhauses spielt. Helles, klares Sonnenlicht fällt durch die offenen Türen und Fenster, während der Holzboden und die alten Holzwände eine warme und nostalgische Atmosphäre schaffen. Insgesamt wirkt die Szene wie ein heller und luftiger Sommernachmittag.
+
+Die Tür steht weit offen, und draußen wiegen sich frische grüne Bäume und Blätter leicht im Wind. Der Außenbereich wirkt klar und blau, friedlich wie ein ruhiger Sommernachmittag auf dem Land.
+
+Auf einem niedrigen Holztisch steht ein rundes Metalltablett. Die Wassermelonenscheiben liegen nur auf dem Tablett und nicht direkt auf dem Tisch. Fünf oder sechs frische, dreieckige Wassermelonenscheiben sind ordentlich auf dem Tablett angerichtet. Jede Scheibe hat nicht die Form eines Halbmonds, sondern ist ein typisches Dreieck mit einer spitzen Oberseite und einer kurzen grünen Schale am unteren Rand. Aus der Kameraperspektive betrachtet sieht die rote Fruchtfleischseite wie ein klares Dreieck aus, und die grüne Schale ist natürlich entlang der Unterkante angebracht. Die Wassermelone ist nicht zu dick, sondern dünn und frisch, mit saftigem rotem Fruchtfleisch, kleinen schwarzen Kernen und dem Anschein einer frischen, kühlen Sommerwassermelone.
+
+Neben dem Tablett liegt ein mit Buntstiften gezeichnetes Sommer-Bildertagebuch, dessen Text jedoch unleserlich ist. Mehrere Buntstifte liegen natürlich um das Tagebuch herum, leicht verstreut, aber eher bewohnt als unordentlich wirkend.
+
+Ein alter elektrischer Ventilator steht auf dem Holzboden neben dem Tisch und rotiert langsam von einer Seite zur anderen, während sich seine Flügel drehen. Der Luftzug des Ventilators bewegt die Vorhänge und die Seiten des Tagebuchs leicht. Obwohl es ein heißer Sommertag mit Sonnenschein ist, wirkt der Raum kühl und entspannt.
+
+Nostalgische Atmosphäre eines koreanischen Landhauses, klares Sonnenlicht, frische grüne Bäume, gut belüftetes Wohnzimmer aus Holz, weiche Schatten, realistische Texturen, friedlicher Sommernachmittag, ruhige und entspannte Stimmung, cineastisches 4K, natürliches Licht, dreieckige Wassermelonenscheiben auf einem Metalltablett und ein Bildertagebuch, Kamera nähert sich langsam dem Ventilator. Keine Personen.
+
+Videolänge: 10 Sekunden. Seitenverhältnis: 16:9. Atmosphäre: Hell, frisch, nostalgisch, friedlich, kühler Ventilatorwind an einem klaren Sommertag.
+
+Negative Prompt: Halbmondförmige Wassermelone, sichelförmige Wassermelone, runde Wassermelonenscheiben, kreisförmig geschnittene Wassermelone, Wassermelone direkt auf dem Tisch, Wassermelone außerhalb des Tabletts, in der Luft schwebende Früchte, seltsame Wassermelonenformen, geometrisch zu starre Dreiecke, verzerrte Wassermelonenscheiben, schmelzendes Obst, zu dicke Wassermelonenscheiben, dicke Wassermelonenstücke, würfelförmige Wassermelone, ungleichmäßig zerbrochene Stücke, übermäßig große Wassermelonenschale, künstlich aussehendes Obst, blasse und trockene Wassermelone, in der Mitte aufgetürmte Wassermelone, unordentliche Anordnung der Früchte, dunkler Raum, düstere Beleuchtung, moderne Wohnung, Menschen, Hände, Gesichter, lesbarer Text, Untertitel, Logos, Wasserzeichen, verzerrter Ventilator, unscharfes Bild, niedrige Qualität, wackelige Kamera.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074491828473393153/img/7RlihPIyY87TipaM.jpg" width="600" alt="Video eines koreanischen Landhauses im Sommer">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6975)**
+
+**Author:** [엘라](https://x.com/Luciela_00) | **Source:** [Link](https://x.com/Luciela_00/status/2074780529900020044) | **Published:** Jul 8, 2026
+
+---
+### UFO und Orihime-Transformation
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Eine komplexe Erzählszene mit UFOs, einem Mann mit Sonnenbrille, einem Hamster und einem Alien, das sich in die legendäre Orihime verwandelt.
+
+#### 📝 Prompt
+
+```
+@Image1 Ich wünsche mir Weltfrieden! Und als ich das tue, taucht eine große Anzahl von UFOs auf. Eine Szene, in der ein Mann mit Sonnenbrille und ein Hamster rechts von einem Alien überrascht werden, das sagt: „Du! Hast du deine Freunde gerufen!?“, woraufhin sich das Alien in eine wunderschöne Orihime verwandelt und sagt: „Eigentlich bin ich Orihime!“ Der Mann mit der Sonnenbrille und der Hamster sind schockiert und rufen: „Waaas!?“
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074749392687693824/img/LDwry94WXu9Xlr_r.jpg" width="600" alt="UFO und Orihime-Transformation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6974)**
+
+**Author:** [AI特撮アトリエ](https://x.com/AI_tokusatsu) | **Source:** [Link](https://x.com/AI_tokusatsu/status/2074749452200579403) | **Published:** Jul 8, 2026
+
+---
+### Sanfte Animation von Mutter und Kind
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein herzerwärmender Animations-Prompt, der beschreibt, wie eine Mutter ihr neugieriges Kind sanft hochhebt und in einer Umarmung nach Hause trägt.
+
+#### 📝 Prompt
+
+```
+Die Mutter des Kindes ist ruhig und sanft, keine Angst, neugierig, sanfter Tadel, hebt das Kind behutsam hoch und trägt es in einer Umarmung nach Hause in warme Handtücher
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074696905938833408/img/65jkdLK7xBV8xuRI.jpg" width="600" alt="Sanfte Animation von Mutter und Kind">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6972)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2074696965485478140) | **Published:** Jul 8, 2026
+
+---
 ### Sterne in Gläsern mit zeitgesteuertem Overlay
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2106,82 +2196,6 @@ Sie zeigt ein warmes, aufrichtiges Lächeln und hebt eine Hand für ein freundli
 **Author:** [grok_imagine_free_user](https://x.com/FreeGrokUser) | **Source:** [Link](https://x.com/FreeGrokUser/status/2070058384959983811) | **Published:** Jun 25, 2026
 
 ---
-### Morphing-Animation: Von der Nebelwolke zur Garnele
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein kreativer Morphing-Prompt, der eine kosmische Nebelwolke mithilfe passender visueller Elemente in eine Cocktail-Garnele verwandelt.
-
-#### 📝 Prompt
-
-```
-Lasse die Galaxie bzw. den Nebel langsam rotieren, bis er sich in eine große Cocktail-Garnele verwandelt. Nutze dabei den rosafarbenen, garnelenähnlichen Teil des Nebels selbst, um den Übergang zur Cocktail-Garnele zu vollziehen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070054724389466112/img/M8GyF-NPtJUrq5KO.jpg" width="600" alt="Morphing-Animation: Von der Nebelwolke zur Garnele">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6484)**
-
-**Author:** [Lynn Hocker](https://x.com/Auroraskye3993) | **Source:** [Link](https://x.com/Auroraskye3993/status/2070054843604181021) | **Published:** Jun 25, 2026
-
----
-### Obstverkäufer auf dem antiken römischen Forum
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Eine filmische historische Nachstellung eines Morgens auf dem römischen Forum im 1. Jahrhundert, bei der ein Obstverkäufer auf Latein seine Waren anpreist.
-
-#### 📝 Prompt
-
-```
-Ein Morgen im 1. Jahrhundert n. Chr. auf dem römischen Forum – ein Obstverkäufer. Sein Ruf auf Latein: „Bona poma!“ – „Gutes Obst!“ „Dulcia poma!“ – „Süßes Obst!“
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069990879486783488/img/5UrjpNsEn_CuOTWU.jpg" width="600" alt="Obstverkäufer auf dem antiken römischen Forum">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6563)**
-
-**Author:** [たんぐすけん | シニアの叡智、AIで加速！](https://x.com/Tungskenichi) | **Source:** [Link](https://x.com/Tungskenichi/status/2069992038490362343) | **Published:** Jun 25, 2026
-
----
-### Quantenerfinder in der Sonora-Wüste
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt zur Erstellung eines Videos, in dem ein Erfinder unter dem nächtlichen Wüstenhimmel ein Quantengerät testet.
-
-#### 📝 Prompt
-
-```
-In der warmen Nacht der Sonora-Wüste bei Queen Creek testet ein brillanter, visionärer Erfinder (mit dem ritterlichen Drang, die Zukunft zu gestalten) unter einem sternenklaren Himmel ein neues Quantenkommunikationsgerät.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069909509695533056/img/lWsxKTO6INUZB8Rz.jpg" width="600" alt="Quantenerfinder in der Sonora-Wüste">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6436)**
-
-**Author:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **Source:** [Link](https://x.com/AnnetteHollerWe/status/2069909624585928886) | **Published:** Jun 24, 2026
-
----
-### Mecha Runway Stepptanz Video-Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein einzigartiger Sci-Fi-Prompt, bei dem Mechs auf einer regnerischen Landebahn steppen und mechanische Action mit Verspieltheit verbinden.
-
-#### 📝 Prompt
-
-```
-Stepptanz auf regnerischer Landebahn. Drei Mechs, ein furchtloser Pilot und ein unerwarteter Spritzer von oben
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069796787972706304/img/fDS2_ogoihwdgA_v.jpg" width="600" alt="Mecha Runway Stepptanz Video-Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6435)**
-
-**Author:** [AI영상공작실](https://x.com/lee_young71) | **Source:** [Link](https://x.com/lee_young71/status/2069796857874923823) | **Published:** Jun 24, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2243,6 +2257,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-09T07:59:50.932Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-09T11:27:35.546Z</sub>
 
 </div>

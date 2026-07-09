@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2056** |
+| 📝 Total Prompts | **2060** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-09** |
 
@@ -189,6 +189,96 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Romantic Pencil Sketch Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Adds a floating animation of kiss marks, hearts, and lights to a static pencil sketch of a couple.
+
+#### 📝 Prompt
+
+```
+Romantic floating animation behind the pencil sketch couple: countless kiss marks and hearts drift upward and swirl slowly, bokeh lights pulse, sparkles twinkle, soft light rays sway, love words gently fade in and out in the deep background. The sketch itself remains static while the background elements move.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074851646090174464/img/2mqfgIrxWodVjovB.jpg" width="600" alt="Romantic Pencil Sketch Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6973)**
+
+**Author:** [joscilene Laura](https://x.com/joscilene_maria) | **Source:** [Link](https://x.com/joscilene_maria/status/2074851707507355664) | **Published:** Jul 8, 2026
+
+---
+### Korean Rural House Summer Video
+
+![한국어](https://img.shields.io/badge/lang-한국어-orange)
+
+> A cinematic 4K video prompt for generating a nostalgic and peaceful summer scene inside a traditional Korean rural house, featuring sunlight, triangular watermelon slices, and a rotating floor fan.
+
+#### 📝 Prompt
+
+```
+A clear and fresh 10-second summer video set inside the living room of an old wooden Korean rural house. Clean and bright sunlight enters through the open doors and windows, and the wooden floor and old wooden walls create a warm and nostalgic rural house atmosphere. Overall, it feels like a bright and airy summer afternoon.
+
+The door is wide open, and outside the door, fresh green trees and leaves are swaying slightly in the wind. The outside looks clear and blue, peaceful like a quiet rural summer afternoon.
+
+A round metal tray is placed on a low wooden table. Watermelon slices are only placed inside the tray and not directly on the table. Five or six fresh triangular watermelon slices are neatly arranged on the tray. Each watermelon slice is not half-moon shaped, but a typical triangular slice with a pointed top and short green rind at the bottom. When viewed from the camera, the red flesh side looks like a clear triangle, and the green rind is naturally attached along the bottom edge of the triangle. The watermelon is not too thick, but thin and fresh, showing the moist red flesh, small black seeds, and the feeling of fresh, cold summer watermelon.
+
+Next to the tray lies a summer picture diary note drawn with colored pencils, but the text is unreadable. Several colored pencils are naturally placed around the picture diary, slightly scattered but looking lived-in rather than messy.
+
+An old electric fan is placed on the wooden floor next to the table, rotating slowly from side to side with its blades turning. The fan's breeze moves the curtains and the pages of the picture diary slightly, and although it's a hot summer day with sunshine, the room feels cool and relaxed.
+
+Nostalgic atmosphere of a Korean rural house, clear sunlight, fresh green trees, well-ventilated wooden living room, soft shadows, realistic textures, peaceful summer afternoon, quiet and relaxed atmosphere, cinematic 4K, natural light, triangular watermelon slices on a metal tray and a picture diary, camera slowly approaching the floor fan. No people.
+
+Video length: 10 seconds. Aspect ratio: 16:9. Atmosphere: Bright, fresh, nostalgic, peaceful, cool fan breeze on a clear summer day.
+
+Negative Prompt: Half-moon shaped watermelon, crescent-shaped watermelon, round sliced watermelon, circularly cut watermelon, watermelon placed directly on the table, watermelon outside the tray, fruit floating in the air, strange watermelon shapes, geometrically too rigid triangles, distorted watermelon slices, melting fruit, too thick watermelon slices, thick chunks of watermelon, cube-shaped watermelon, unevenly broken pieces, excessively large watermelon rind, artificial-looking fruit, pale and dry watermelon, watermelon piled in the center, messy fruit arrangement, dark room, gloomy lighting, modern apartment, people, hands, faces, readable text, subtitles, logos, watermarks, distorted fan, blurry image, low quality, shaky camera.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074491828473393153/img/7RlihPIyY87TipaM.jpg" width="600" alt="Korean Rural House Summer Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6975)**
+
+**Author:** [엘라](https://x.com/Luciela_00) | **Source:** [Link](https://x.com/Luciela_00/status/2074780529900020044) | **Published:** Jul 8, 2026
+
+---
+### UFO and Orihime Transformation
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A complex narrative scene involving UFOs, a man in sunglasses, a hamster, and an alien transforming into the legendary Orihime.
+
+#### 📝 Prompt
+
+```
+@Image1 I wish for world peace! and when I do, a large number of UFOs arrive. A scene where a man in sunglasses and a hamster are surprised by an alien on the right, saying "You! Did you call your friends!?", and then the alien turns into a beautiful Orihime and says, "Actually, I'm Orihime!" The man in sunglasses and the hamster are shocked, going "Wh-aaat!"
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074749392687693824/img/LDwry94WXu9Xlr_r.jpg" width="600" alt="UFO and Orihime Transformation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6974)**
+
+**Author:** [AI特撮アトリエ](https://x.com/AI_tokusatsu) | **Source:** [Link](https://x.com/AI_tokusatsu/status/2074749452200579403) | **Published:** Jul 8, 2026
+
+---
+### Gentle Mother and Child Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A heartwarming animation prompt describing a mother gently scooping up her curious child in a snuggle to carry them home.
+
+#### 📝 Prompt
+
+```
+child's Mother is calm and gentle, no fear, curious, soft chastise, scoops up exact same child in a snuggle to carry home inside to warm towels
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074696905938833408/img/65jkdLK7xBV8xuRI.jpg" width="600" alt="Gentle Mother and Child Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6972)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2074696965485478140) | **Published:** Jul 8, 2026
+
+---
 ### Stars in Jars Timed Overlay
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -488,11 +578,11 @@ Beautiful lady with long light blonde hair with a diamond necklace and diamond e
 **Author:** [Sheelagh Mac Mathghamhna](https://x.com/abitoblarney) | **Source:** [Link](https://x.com/abitoblarney/status/2073204014909378959) | **Published:** Jul 4, 2026
 
 ---
-### Comical Family Guy Style Fall
+### Comical Family Guy Style Stair Fall
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for Grok Imagine that animates a static photo into a comical, slapstick-style video of someone falling down stairs, reminiscent of Family Guy.
+> A comical animation prompt for Grok Imagine that transforms a photo into a funny video of someone falling down stairs in the signature style of the show Family Guy.
 
 #### 📝 Prompt
 
@@ -500,18 +590,18 @@ Beautiful lady with long light blonde hair with a diamond necklace and diamond e
 Make me fall down the stairs in a really comical way. Similar to something maybe you would see on family guy.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073147482532454400/img/aR5MbtGnXRJgSUBO.jpg" width="600" alt="Comical Family Guy Style Fall">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073147482532454400/img/aR5MbtGnXRJgSUBO.jpg" width="600" alt="Comical Family Guy Style Stair Fall">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6810)**
 
 **Author:** [Jeremy Judkins](https://x.com/jeremyjudkins_) | **Source:** [Link](https://x.com/jeremyjudkins_/status/2073147550543065228) | **Published:** Jul 3, 2026
 
 ---
-### Calm Fashion Model Soft Speech Video
+### Soft Spoken Fashion Model Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A video generation prompt for a fashion model speaking in a soft, calm tone directly to the camera in a studio setting.
+> A cinematic video prompt featuring a fashion model speaking softly and calmly to the camera, designed to create a sense of realism and intimacy in a studio setting.
 
 #### 📝 Prompt
 
@@ -519,7 +609,7 @@ Make me fall down the stairs in a really comical way. Similar to something maybe
 She talks very softly and calm to the camera: "Do you want to know what feels real to me? This feels real.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073086602998669312/img/uzh8FsXEwcaY0AXs.jpg" width="600" alt="Calm Fashion Model Soft Speech Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073086602998669312/img/uzh8FsXEwcaY0AXs.jpg" width="600" alt="Soft Spoken Fashion Model Video">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6815)**
 
@@ -2104,85 +2194,6 @@ She breaks into a warm, genuine smile and raises one hand in a friendly wave tow
 **Author:** [grok_imagine_free_user](https://x.com/FreeGrokUser) | **Source:** [Link](https://x.com/FreeGrokUser/status/2070058384959983811) | **Published:** Jun 25, 2026
 
 ---
-### Nebula to Shrimp Morphing Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A creative morphing prompt that transitions a cosmic nebula into a cocktail shrimp using matching visual elements.
-
-#### 📝 Prompt
-
-```
-Have the galaxy/nebula slowly rotate until it morphs into a large cocktail shrimp. Use the pinkish shrimp-looking part of the nebula itself - to morph into the cocktail shrimp.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070054724389466112/img/M8GyF-NPtJUrq5KO.jpg" width="600" alt="Nebula to Shrimp Morphing Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6484)**
-
-**Author:** [Lynn Hocker](https://x.com/Auroraskye3993) | **Source:** [Link](https://x.com/Auroraskye3993/status/2070054843604181021) | **Published:** Jun 25, 2026
-
----
-### Ancient Roman Forum Morning Scene
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A historical scene prompt depicting a fruit seller in the 1st century AD Roman Forum at dawn.
-
-#### 📝 Prompt
-
-```
-1st century AD morning at the Roman Forum 
-— a fruit seller. Her call in Latin: 
- "Bona poma!" — "Fine fruit!" 
- "Dulcia poma!" — "Sweet fruit!"
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069990879486783488/img/5UrjpNsEn_CuOTWU.jpg" width="600" alt="Ancient Roman Forum Morning Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6563)**
-
-**Author:** [たんぐすけん | シニアの叡智、AIで加速！](https://x.com/Tungskenichi) | **Source:** [Link](https://x.com/Tungskenichi/status/2069992038490362343) | **Published:** Jun 25, 2026
-
----
-### Quantum Inventor in Sonoran Desert
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for generating a video of an inventor testing a quantum device under a desert night sky.
-
-#### 📝 Prompt
-
-```
-In the warm Sonoran Desert night near Queen Creek, a brilliant visionary inventor (with that knight-like drive to build the future) is testing a new quantum communication device under a star-filled sky.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069909509695533056/img/lWsxKTO6INUZB8Rz.jpg" width="600" alt="Quantum Inventor in Sonoran Desert">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6436)**
-
-**Author:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **Source:** [Link](https://x.com/AnnetteHollerWe/status/2069909624585928886) | **Published:** Jun 24, 2026
-
----
-### Mecha Runway Tap Dance Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A unique sci-fi prompt featuring mechs performing a tap dance on a rainy runway, blending mechanical action with playfulness.
-
-#### 📝 Prompt
-
-```
-Rainy Runway Tap Dance. Three mechs, one fearless pilot, and an unexpected splash from above
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069796787972706304/img/fDS2_ogoihwdgA_v.jpg" width="600" alt="Mecha Runway Tap Dance Video Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6435)**
-
-**Author:** [AI영상공작실](https://x.com/lee_young71) | **Source:** [Link](https://x.com/lee_young71/status/2069796857874923823) | **Published:** Jun 24, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2244,6 +2255,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-09T07:59:36.623Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-09T11:27:25.278Z</sub>
 
 </div>

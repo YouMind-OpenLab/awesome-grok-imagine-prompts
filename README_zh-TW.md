@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **2056** |
+| 📝 提示詞總數 | **2060** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-07-09** |
 
@@ -189,6 +189,96 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 浪漫鉛筆素描動畫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 為靜態的雙人鉛筆素描添加吻痕、愛心與光影的漂浮動畫效果。
+
+#### 📝 提示詞
+
+```
+鉛筆素描情侶後方的浪漫漂浮動畫：無數的吻痕與愛心緩緩向上漂浮並旋轉，散景光點閃爍，星光點點，柔和的光束搖曳，深處背景中的情話輕柔地淡入淡出。素描本身保持靜態，而背景元素則持續動態呈現。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074851646090174464/img/2mqfgIrxWodVjovB.jpg" width="600" alt="浪漫鉛筆素描動畫">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6973)**
+
+**作者:** [joscilene Laura](https://x.com/joscilene_maria) | **來源:** [Link](https://x.com/joscilene_maria/status/2074851707507355664) | **發布時間:** Jul 8, 2026
+
+---
+### 韓國鄉村房屋夏日影片
+
+![한국어](https://img.shields.io/badge/lang-한국어-orange)
+
+> 這是一個 4K 電影級影片提示詞，用於生成一個充滿懷舊與寧靜感的夏日場景，背景為傳統韓國鄉村房屋，包含陽光、三角形西瓜切片以及旋轉的落地電風扇。
+
+#### 📝 提示詞
+
+```
+這是一段清晰、清新的 10 秒夏日影片，場景設定在韓國傳統木造鄉村房屋的客廳內。明亮潔淨的陽光透過敞開的門窗灑入，木質地板與古樸的木牆營造出溫馨懷舊的鄉村氛圍。整體呈現出明亮通透的夏日午後感受。
+
+房門大開，門外是隨風輕輕搖曳的翠綠樹木與葉片。室外景色清澈湛藍，宛如寧靜的鄉村夏日午後般平和。
+
+低矮的木桌上放著一個圓形金屬托盤。西瓜切片僅放置在托盤內，而非直接放在桌面上。托盤上整齊地排列著五、六片新鮮的三角形西瓜。每片西瓜並非半月形，而是典型的三角形切片，頂部尖銳，底部帶有少許綠色瓜皮。從鏡頭角度看，紅色的果肉面呈現清晰的三角形，綠色瓜皮自然地附著在三角形的底邊。西瓜厚度適中，看起來薄而新鮮，展現出濕潤的紅色果肉、細小的黑籽，以及清涼爽口的夏日西瓜質感。
+
+托盤旁放著一本用彩色鉛筆繪製的夏日圖畫日記，但文字無法辨識。幾支彩色鉛筆自然地散落在圖畫日記周圍，略顯零亂卻帶有生活氣息，並不雜亂。
+
+桌旁的木地板上放著一台舊式電風扇，正緩慢地左右旋轉，扇葉轉動著。風扇吹出的微風輕輕拂動窗簾與圖畫日記的頁面，儘管窗外是陽光普照的炎熱夏日，室內卻顯得涼爽而放鬆。
+
+韓國鄉村房屋的懷舊氛圍、清澈陽光、新鮮綠樹、通風良好的木造客廳、柔和陰影、真實質感、寧靜的夏日午後、安靜放鬆的氣氛、電影級 4K 畫質、自然光、金屬托盤上的三角形西瓜切片與圖畫日記、鏡頭緩慢靠近落地電風扇。無人物。
+
+影片長度：10 秒。長寬比：16:9。氛圍：明亮、清新、懷舊、寧靜，晴朗夏日裡清涼的電風扇微風。
+
+負面提示詞：半月形西瓜、新月形西瓜、圓形切片西瓜、圓形切割西瓜、直接放在桌上的西瓜、托盤外的西瓜、漂浮在空中的水果、奇怪的西瓜形狀、幾何形狀過於僵硬的三角形、扭曲的西瓜切片、融化的水果、過厚的西瓜切片、厚實的西瓜塊、立方體西瓜、不均勻的碎塊、過大的西瓜皮、人工感強的水果、蒼白乾燥的西瓜、堆疊在中心的西瓜、雜亂的水果擺放、黑暗的房間、陰暗的燈光、現代公寓、人物、手、臉、可辨識的文字、字幕、標誌、浮水印、扭曲的電風扇、模糊影像、低畫質、晃動的鏡頭。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074491828473393153/img/7RlihPIyY87TipaM.jpg" width="600" alt="韓國鄉村房屋夏日影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6975)**
+
+**作者:** [엘라](https://x.com/Luciela_00) | **來源:** [Link](https://x.com/Luciela_00/status/2074780529900020044) | **發布時間:** Jul 8, 2026
+
+---
+### UFO 與織女變身
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一個複雜的敘事場景，內容包含 UFO、戴墨鏡的男子、倉鼠，以及變身為傳說中織女的外星人。
+
+#### 📝 提示詞
+
+```
+@Image1 我許願世界和平！當我許願時，大量的 UFO 到來。場景中，一名戴墨鏡的男子和一隻倉鼠對右側的外星人感到驚訝，男子說：「你！是你叫你的朋友來的嗎！？」，接著外星人變身成美麗的織女並說：「其實，我是織女！」。戴墨鏡的男子和倉鼠感到震驚，說著：「什——麼！」
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074749392687693824/img/LDwry94WXu9Xlr_r.jpg" width="600" alt="UFO 與織女變身">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6974)**
+
+**作者:** [AI特撮アトリエ](https://x.com/AI_tokusatsu) | **來源:** [Link](https://x.com/AI_tokusatsu/status/2074749452200579403) | **發布時間:** Jul 8, 2026
+
+---
+### 溫馨母子動畫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個溫馨的動畫提示詞，描述了一位母親溫柔地將好奇的孩子抱入懷中，帶他們回家的場景。
+
+#### 📝 提示詞
+
+```
+孩子的母親冷靜而溫柔，沒有恐懼，充滿好奇，溫和地責備，將同一個孩子抱入懷中，帶回家中溫暖的毛巾裡
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074696905938833408/img/65jkdLK7xBV8xuRI.jpg" width="600" alt="溫馨母子動畫">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6972)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2074696965485478140) | **發布時間:** Jul 8, 2026
+
+---
 ### Stars in Jars 定時疊加效果
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2106,82 +2196,6 @@ Elena 穿過閃爍的傳送門進入廣闊的 Playroom，她睜大雙眼，神�
 **作者:** [grok_imagine_free_user](https://x.com/FreeGrokUser) | **來源:** [Link](https://x.com/FreeGrokUser/status/2070058384959983811) | **發布時間:** Jun 25, 2026
 
 ---
-### 星雲變形為蝦的動畫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個充滿創意的變形提示詞，利用視覺元素的相似性，將宇宙星雲過渡為雞尾酒蝦。
-
-#### 📝 提示詞
-
-```
-讓星系或星雲緩慢旋轉，直到它變形為一隻大雞尾酒蝦。利用星雲本身呈現粉紅色的蝦狀部分，將其變形為雞尾酒蝦。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070054724389466112/img/M8GyF-NPtJUrq5KO.jpg" width="600" alt="星雲變形為蝦的動畫">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6484)**
-
-**作者:** [Lynn Hocker](https://x.com/Auroraskye3993) | **來源:** [Link](https://x.com/Auroraskye3993/status/2070054843604181021) | **發布時間:** Jun 25, 2026
-
----
-### 古羅馬廣場的水果攤販
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一場電影級的歷史重現，描繪西元 1 世紀羅馬廣場的早晨，一位水果攤販正以拉丁語叫賣。
-
-#### 📝 提示詞
-
-```
-西元 1 世紀羅馬廣場的早晨——一位水果攤販。她用拉丁語叫賣著：「Bona poma!」（優質水果！）以及「Dulcia poma!」（甜美水果！）
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069990879486783488/img/5UrjpNsEn_CuOTWU.jpg" width="600" alt="古羅馬廣場的水果攤販">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6563)**
-
-**作者:** [たんぐすけん | シニアの叡智、AIで加速！](https://x.com/Tungskenichi) | **來源:** [Link](https://x.com/Tungskenichi/status/2069992038490362343) | **發布時間:** Jun 25, 2026
-
----
-### 索諾蘭沙漠中的量子發明家
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一份詳細的提示詞，用於生成一段發明家在沙漠夜空下測試量子裝置的影片。
-
-#### 📝 提示詞
-
-```
-在靠近 Queen Creek 的溫暖索諾蘭沙漠之夜，一位才華橫溢的發明家（懷揣著如騎士般開創未來的決心）正在星空下測試一台全新的量子通訊裝置。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069909509695533056/img/lWsxKTO6INUZB8Rz.jpg" width="600" alt="索諾蘭沙漠中的量子發明家">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6436)**
-
-**作者:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **來源:** [Link](https://x.com/AnnetteHollerWe/status/2069909624585928886) | **發布時間:** Jun 24, 2026
-
----
-### 機甲跑道踢踏舞影片提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個獨特的科幻提示詞，描繪機甲在雨中跑道上跳踢踏舞的場景，將機械動作與趣味性完美融合。
-
-#### 📝 提示詞
-
-```
-雨中跑道踢踏舞。三台機甲、一位無畏的駕駛員，以及一場來自天外意想不到的飛濺。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069796787972706304/img/fDS2_ogoihwdgA_v.jpg" width="600" alt="機甲跑道踢踏舞影片提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6435)**
-
-**作者:** [AI영상공작실](https://x.com/lee_young71) | **來源:** [Link](https://x.com/lee_young71/status/2069796857874923823) | **發布時間:** Jun 24, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2243,6 +2257,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-07-09T07:59:39.448Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-07-09T11:27:27.590Z</sub>
 
 </div>

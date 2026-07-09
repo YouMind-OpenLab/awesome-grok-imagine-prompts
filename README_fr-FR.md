@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2056** |
+| 📝 Total Prompts | **2060** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-09** |
 
@@ -189,6 +189,96 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Animation romantique au crayon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ajoute une animation flottante de marques de baisers, de cœurs et de lumières à un croquis au crayon statique d'un couple.
+
+#### 📝 Prompt
+
+```
+Animation flottante romantique derrière le couple dessiné au crayon : d'innombrables marques de baisers et cœurs dérivent vers le haut et tourbillonnent lentement, des lumières bokeh pulsent, des étincelles scintillent, des rayons de lumière douce se balancent, des mots d'amour apparaissent et disparaissent doucement en arrière-plan. Le croquis lui-même reste statique tandis que les éléments de l'arrière-plan sont en mouvement.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074851646090174464/img/2mqfgIrxWodVjovB.jpg" width="600" alt="Animation romantique au crayon">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6973)**
+
+**Author:** [joscilene Laura](https://x.com/joscilene_maria) | **Source:** [Link](https://x.com/joscilene_maria/status/2074851707507355664) | **Published:** Jul 8, 2026
+
+---
+### Vidéo d'une maison rurale coréenne en été
+
+![한국어](https://img.shields.io/badge/lang-한국어-orange)
+
+> Un prompt vidéo cinématographique en 4K pour générer une scène estivale nostalgique et paisible à l'intérieur d'une maison rurale coréenne traditionnelle, mettant en scène la lumière du soleil, des tranches de pastèque triangulaires et un ventilateur sur pied oscillant.
+
+#### 📝 Prompt
+
+```
+Une vidéo estivale claire et fraîche de 10 secondes située dans le salon d'une ancienne maison rurale coréenne en bois. Une lumière vive et propre pénètre par les portes et fenêtres ouvertes, tandis que le plancher et les vieux murs en bois créent une atmosphère chaleureuse et nostalgique. L'ensemble dégage une sensation d'après-midi d'été lumineux et aéré.
+
+La porte est grande ouverte ; à l'extérieur, des arbres et des feuilles d'un vert éclatant se balancent légèrement sous la brise. L'extérieur paraît clair et bleu, paisible comme un après-midi d'été calme à la campagne.
+
+Un plateau métallique rond est posé sur une table basse en bois. Des tranches de pastèque sont disposées uniquement dans le plateau et non directement sur la table. Cinq ou six tranches de pastèque triangulaires fraîches sont soigneusement rangées sur le plateau. Chaque tranche n'est pas en forme de demi-lune, mais présente la forme triangulaire classique avec une pointe en haut et une courte écorce verte à la base. Vue par la caméra, la chair rouge forme un triangle net, et l'écorce verte est naturellement fixée le long du bord inférieur. La pastèque n'est pas trop épaisse, mais fine et fraîche, révélant une chair rouge humide, de petits pépins noirs et l'aspect d'une pastèque d'été fraîche et désaltérante.
+
+À côté du plateau se trouve un journal intime illustré d'été, dessiné aux crayons de couleur, mais le texte est illisible. Plusieurs crayons de couleur sont disposés naturellement autour du journal, légèrement éparpillés, donnant une impression de vie plutôt que de désordre.
+
+Un vieux ventilateur électrique est posé sur le plancher en bois à côté de la table, oscillant lentement de gauche à droite, ses pales en mouvement. La brise du ventilateur fait bouger légèrement les rideaux et les pages du journal ; bien qu'il s'agisse d'une chaude journée d'été ensoleillée, la pièce semble fraîche et détendue.
+
+Atmosphère nostalgique d'une maison rurale coréenne, lumière du soleil claire, arbres vert frais, salon en bois bien ventilé, ombres douces, textures réalistes, après-midi d'été paisible, atmosphère calme et détendue, cinématographique 4K, lumière naturelle, tranches de pastèque triangulaires sur un plateau métallique et journal illustré, caméra s'approchant lentement du ventilateur. Aucune personne.
+
+Durée de la vidéo : 10 secondes. Format : 16:9. Atmosphère : Lumineuse, fraîche, nostalgique, paisible, brise de ventilateur rafraîchissante par une journée d'été claire.
+
+Prompt négatif : Pastèque en forme de demi-lune, pastèque en forme de croissant, pastèque tranchée en rond, pastèque coupée en cercle, pastèque placée directement sur la table, pastèque en dehors du plateau, fruit flottant dans les airs, formes de pastèque étranges, triangles géométriquement trop rigides, tranches de pastèque déformées, fruit qui fond, tranches de pastèque trop épaisses, gros morceaux de pastèque, pastèque en forme de cube, morceaux cassés irrégulièrement, écorce de pastèque excessivement large, fruit à l'aspect artificiel, pastèque pâle et sèche, pastèque empilée au centre, disposition des fruits désordonnée, pièce sombre, éclairage lugubre, appartement moderne, personnes, mains, visages, texte lisible, sous-titres, logos, filigranes, ventilateur déformé, image floue, basse qualité, caméra tremblante.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074491828473393153/img/7RlihPIyY87TipaM.jpg" width="600" alt="Vidéo d'une maison rurale coréenne en été">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6975)**
+
+**Author:** [엘라](https://x.com/Luciela_00) | **Source:** [Link](https://x.com/Luciela_00/status/2074780529900020044) | **Published:** Jul 8, 2026
+
+---
+### OVNI et la transformation d'Orihime
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Une scène narrative complexe impliquant des OVNIS, un homme portant des lunettes de soleil, un hamster et une extraterrestre se transformant en la légendaire Orihime.
+
+#### 📝 Prompt
+
+```
+@Image1 Je souhaite la paix dans le monde ! Et à cet instant, un grand nombre d'OVNIS arrivent. Une scène où un homme avec des lunettes de soleil et un hamster sont surpris par une extraterrestre sur la droite, qui dit : « Toi ! C'est toi qui as appelé tes amis !? », puis l'extraterrestre se transforme en une magnifique Orihime et déclare : « En fait, je suis Orihime ! » L'homme aux lunettes de soleil et le hamster sont sous le choc et s'exclament : « Quoiiiii ! »
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074749392687693824/img/LDwry94WXu9Xlr_r.jpg" width="600" alt="OVNI et la transformation d'Orihime">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6974)**
+
+**Author:** [AI特撮アトリエ](https://x.com/AI_tokusatsu) | **Source:** [Link](https://x.com/AI_tokusatsu/status/2074749452200579403) | **Published:** Jul 8, 2026
+
+---
+### Animation douce d'une mère et de son enfant
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt d'animation réconfortant décrivant une mère prenant délicatement son enfant curieux dans ses bras pour le ramener à la maison.
+
+#### 📝 Prompt
+
+```
+La mère de l'enfant est calme et douce, sans peur, curieuse, réprimande avec tendresse, prend l'enfant dans ses bras pour le ramener à la maison et l'envelopper dans des serviettes chaudes
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074696905938833408/img/65jkdLK7xBV8xuRI.jpg" width="600" alt="Animation douce d'une mère et de son enfant">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6972)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2074696965485478140) | **Published:** Jul 8, 2026
+
+---
 ### Superposition chronométrée « Stars in Jars »
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2106,82 +2196,6 @@ Elle affiche un sourire chaleureux et sincère tout en levant la main pour faire
 **Author:** [grok_imagine_free_user](https://x.com/FreeGrokUser) | **Source:** [Link](https://x.com/FreeGrokUser/status/2070058384959983811) | **Published:** Jun 25, 2026
 
 ---
-### Animation de morphing : de la nébuleuse à la crevette
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de morphing créatif qui transforme une nébuleuse cosmique en crevette cocktail en utilisant des éléments visuels correspondants.
-
-#### 📝 Prompt
-
-```
-Faites pivoter lentement la galaxie/nébuleuse jusqu'à ce qu'elle se transforme en une grosse crevette cocktail. Utilisez la partie rosée de la nébuleuse, qui ressemble à une crevette, pour effectuer la transition vers la crevette cocktail.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070054724389466112/img/M8GyF-NPtJUrq5KO.jpg" width="600" alt="Animation de morphing : de la nébuleuse à la crevette">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6484)**
-
-**Author:** [Lynn Hocker](https://x.com/Auroraskye3993) | **Source:** [Link](https://x.com/Auroraskye3993/status/2070054843604181021) | **Published:** Jun 25, 2026
-
----
-### Vendeur de fruits dans le Forum romain antique
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Une reconstitution historique cinématographique d'une matinée au Forum romain au Ier siècle, mettant en scène un vendeur de fruits interpellant les passants en latin.
-
-#### 📝 Prompt
-
-```
-Matinée du Ier siècle après J.-C. au Forum romain — un vendeur de fruits. Son appel en latin : « Bona poma ! » — « Bons fruits ! » « Dulcia poma ! » — « Fruits sucrés ! »
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069990879486783488/img/5UrjpNsEn_CuOTWU.jpg" width="600" alt="Vendeur de fruits dans le Forum romain antique">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6563)**
-
-**Author:** [たんぐすけん | シニアの叡智、AIで加速！](https://x.com/Tungskenichi) | **Source:** [Link](https://x.com/Tungskenichi/status/2069992038490362343) | **Published:** Jun 25, 2026
-
----
-### Inventeur quantique dans le désert de Sonora
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt détaillé pour générer une vidéo d'un inventeur testant un appareil quantique sous le ciel nocturne du désert.
-
-#### 📝 Prompt
-
-```
-Dans la douce nuit du désert de Sonora, près de Queen Creek, un brillant inventeur visionnaire (animé par cette détermination chevaleresque à bâtir le futur) teste un nouvel appareil de communication quantique sous un ciel étoilé.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069909509695533056/img/lWsxKTO6INUZB8Rz.jpg" width="600" alt="Inventeur quantique dans le désert de Sonora">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6436)**
-
-**Author:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **Source:** [Link](https://x.com/AnnetteHollerWe/status/2069909624585928886) | **Published:** Jun 24, 2026
-
----
-### Prompt vidéo : Mecha Runway Tap Dance
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de science-fiction unique mettant en scène des mechas effectuant des claquettes sur une piste d'atterrissage sous la pluie, mêlant action mécanique et esprit ludique.
-
-#### 📝 Prompt
-
-```
-Claquettes sur piste pluvieuse. Trois mechas, un pilote intrépide et une éclaboussure inattendue venue d'en haut
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069796787972706304/img/fDS2_ogoihwdgA_v.jpg" width="600" alt="Prompt vidéo : Mecha Runway Tap Dance">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6435)**
-
-**Author:** [AI영상공작실](https://x.com/lee_young71) | **Source:** [Link](https://x.com/lee_young71/status/2069796857874923823) | **Published:** Jun 24, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2243,6 +2257,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-09T07:59:52.761Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-09T11:27:36.479Z</sub>
 
 </div>
