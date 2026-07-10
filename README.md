@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2060** |
+| 📝 Total Prompts | **2064** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-10** |
 
@@ -189,6 +189,82 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Bioluminescent Dawn Fantasy Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A beautiful cinematic prompt describing a fantasy dawn scene with pulsing lights and subtle motions.
+
+#### 📝 Prompt
+
+```
+Slow rise of dawn-star, bioluminescent flowers pulsing light, banners stirring in a faint night breeze, divine glow on armor breathing softly.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075306107371974656/img/ZEKl6A-mpnvhQId8.jpg" width="600" alt="Bioluminescent Dawn Fantasy Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7012)**
+
+**Author:** [Terry Palmieri](https://x.com/TerryPalmieri14) | **Source:** [Link](https://x.com/TerryPalmieri14/status/2075306197566320781) | **Published:** Jul 9, 2026
+
+---
+### Grass Court Tennis Action
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed cinematic prompt for a tennis match, featuring specific lighting, physics, and camera movements.
+
+#### 📝 Prompt
+
+```
+The tennis player completes the forehand swing as the yellow ball rockets across the grass court. Racket strings vibrate, grass blades sway in the breeze, golden sunlight glints off the ball, and soft stadium atmosphere with subtle camera push-in.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075286654127136768/img/BvYqUAVhqVp1FaO7.jpg" width="600" alt="Grass Court Tennis Action">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7010)**
+
+**Author:** [Robert Heinlein](https://x.com/strangerinastr) | **Source:** [Link](https://x.com/strangerinastr/status/2075286711521956062) | **Published:** Jul 9, 2026
+
+---
+### Breathtaking Imaginary Fantasy World
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A massive cinematic video prompt for a realistic fantasy landscape with floating mountains, glowing forests, and waterfalls.
+
+#### 📝 Prompt
+
+```
+A breathtaking imaginary world that looks completely real, with floating mountains, giant ancient trees, crystal rivers, glowing forests, waterfalls flowing into misty lakes, golden sunrise, dramatic clouds, exotic birds, peaceful atmosphere, cinematic composition, ultra-photorealistic, IMAX, HDR, volumetric lighting, natural colors, hyper-detailed, 8K, professional photography, no CGI, no illustration, looks like a real place.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075106901357219840/img/BgbByrZssE0gXhLF.jpg" width="600" alt="Breathtaking Imaginary Fantasy World">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7011)**
+
+**Author:** [Tesla Owners Silicon Valley](https://x.com/teslaownersSV) | **Source:** [Link](https://x.com/teslaownersSV/status/2075107002020471065) | **Published:** Jul 9, 2026
+
+---
+### Angel Flight Sequence Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed fantasy prompt describing an angel transitioning between worlds with dynamic text effects.
+
+#### 📝 Prompt
+
+```
+The angel from the book steps into the room where the world is real the words “GOD FIRST ALWAYS” form in a nebulous way as he flies away to the moon
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075056939734609920/img/ZFXMqJXRT-Uv0faI.jpg" width="600" alt="Angel Flight Sequence Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7013)**
+
+**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2075057016158986588) | **Published:** Jul 9, 2026
+
+---
 ### Romantic Pencil Sketch Animation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -601,12 +677,12 @@ Make me fall down the stairs in a really comical way. Similar to something maybe
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt featuring a fashion model speaking softly and calmly to the camera, designed to create a sense of realism and intimacy in a studio setting.
+> A high-end fashion model close-up with studio lighting and specific dialogue for AI video generation.
 
 #### 📝 Prompt
 
 ```
-She talks very softly and calm to the camera: "Do you want to know what feels real to me? This feels real.
+Soft beauty dish lighting, fashion model close-up, flawless skin texture, sophisticated studio portrait, high-end magazine style. She talks very softly and calm to the camera: "Do you want to know what feels real to me? This feels real.
 ```
 
 <img src="https://pbs.twimg.com/amplify_video_thumb/2073086602998669312/img/uzh8FsXEwcaY0AXs.jpg" width="600" alt="Soft Spoken Fashion Model Video">
@@ -2118,82 +2194,6 @@ Cute little bear enjoying a colorful swim! From splashing on top to diving under
 **Author:** [Liam](https://x.com/LiamEvergreen) | **Source:** [Link](https://x.com/LiamEvergreen/status/2070170659813237231) | **Published:** Jun 25, 2026
 
 ---
-### Angel and Curious Cat
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A heartwarming cinematic video prompt featuring a curious cat and an angel with a focus on lighting and texture.
-
-#### 📝 Prompt
-
-```
-The Sweetest Temptation. Even an angel can’t stop a curious cat… One tiny feather. One serious little face. One unforgettable moment.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070145797845651456/img/FL07IBEA8pSaJAj7.jpg" width="600" alt="Angel and Curious Cat">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6488)**
-
-**Author:** [猫神MT](https://x.com/nekogami_MT) | **Source:** [Link](https://x.com/nekogami_MT/status/2070145869404614826) | **Published:** Jun 25, 2026
-
----
-### Dubai Good Evening Cityscape
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for a prominent 'Good evening' text overlay on a scenic Dubai cityscape.
-
-#### 📝 Prompt
-
-```
-Good evening Dubai with the text 'Good evening' prominently displayed at the top
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070134828750798848/img/FKT1EMEuTN10elrV.jpg" width="600" alt="Dubai Good Evening Cityscape">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6654)**
-
-**Author:** [Ijaz Malik](https://x.com/Ijazmalik101) | **Source:** [Link](https://x.com/Ijazmalik101/status/2070134888523763993) | **Published:** Jun 25, 2026
-
----
-### Fire Goddess Rising from Lava
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Cinematic video prompt for a fire goddess emerging from molten lava under a starry night sky.
-
-#### 📝 Prompt
-
-```
-Create a fire Goddess gradually rising out of the fiery lava. She’s not an evil goddess so her eyes are normal. She’s made completely out of the fire and there are stars and lightning in the background night sky.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070059497469644800/img/RV29vFQTGszbVWDn.jpg" width="600" alt="Fire Goddess Rising from Lava">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6481)**
-
-**Author:** [Lynn Hocker](https://x.com/Auroraskye3993) | **Source:** [Link](https://x.com/Auroraskye3993/status/2070059787602317621) | **Published:** Jun 25, 2026
-
----
-### Woman Smiling and Waving Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video generation prompt depicting a woman smiling and waving with natural motion and a soft breeze effect.
-
-#### 📝 Prompt
-
-```
-She breaks into a warm, genuine smile and raises one hand in a friendly wave toward the camera, hair and capelet swaying slightly in a soft breeze. Gentle, natural motion; same soft daylight and brick wall background.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070058371399798784/img/tAIcikHFdaJgOUit.jpg" width="600" alt="Woman Smiling and Waving Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6483)**
-
-**Author:** [grok_imagine_free_user](https://x.com/FreeGrokUser) | **Source:** [Link](https://x.com/FreeGrokUser/status/2070058384959983811) | **Published:** Jun 25, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2255,6 +2255,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-10T07:58:06.805Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-10T11:28:10.061Z</sub>
 
 </div>

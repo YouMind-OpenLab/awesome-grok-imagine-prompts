@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2060** |
+| 📝 Total Prompts | **2064** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-10** |
 
@@ -189,6 +189,82 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### बायोल्यूमिनेसेंट डॉन फैंटेसी प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सुंदर सिनेमाई प्रॉम्प्ट जो पल्सिंग लाइट्स और सूक्ष्म गति के साथ एक काल्पनिक भोर के दृश्य का वर्णन करता है।
+
+#### 📝 Prompt
+
+```
+भोर के तारे का धीरे-धीरे उदय, बायोल्यूमिनेसेंट फूलों का प्रकाश के साथ धड़कना, हल्की रात की हवा में लहराते बैनर, कवच पर धीरे-धीरे सांस लेती दिव्य चमक।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075306107371974656/img/ZEKl6A-mpnvhQId8.jpg" width="600" alt="बायोल्यूमिनेसेंट डॉन फैंटेसी प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7012)**
+
+**Author:** [Terry Palmieri](https://x.com/TerryPalmieri14) | **Source:** [Link](https://x.com/TerryPalmieri14/status/2075306197566320781) | **Published:** Jul 9, 2026
+
+---
+### ग्रास कोर्ट टेनिस एक्शन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> टेनिस मैच के लिए एक विस्तृत सिनेमैटिक प्रॉम्प्ट, जिसमें विशिष्ट लाइटिंग, फिजिक्स और कैमरा मूवमेंट शामिल हैं।
+
+#### 📝 Prompt
+
+```
+टेनिस खिलाड़ी अपना फोरहैंड स्विंग पूरा करता है और पीली गेंद ग्रास कोर्ट पर तेजी से आगे बढ़ती है। रैकेट की तारें कंपन करती हैं, घास की पत्तियां हवा में लहराती हैं, सुनहरी धूप गेंद पर चमकती है, और स्टेडियम का हल्का माहौल है जिसमें कैमरे का सूक्ष्म पुश-इन शामिल है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075286654127136768/img/BvYqUAVhqVp1FaO7.jpg" width="600" alt="ग्रास कोर्ट टेनिस एक्शन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7010)**
+
+**Author:** [Robert Heinlein](https://x.com/strangerinastr) | **Source:** [Link](https://x.com/strangerinastr/status/2075286711521956062) | **Published:** Jul 9, 2026
+
+---
+### लुभावनी काल्पनिक दुनिया
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> तैरते पहाड़ों, चमकते जंगलों और झरनों वाले एक यथार्थवादी काल्पनिक परिदृश्य के लिए एक विशाल सिनेमाई वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+एक लुभावनी काल्पनिक दुनिया जो पूरी तरह से वास्तविक दिखती है, जिसमें तैरते पहाड़, विशाल प्राचीन पेड़, क्रिस्टल जैसी नदियाँ, चमकते जंगल, धुंधली झीलों में गिरते झरने, सुनहरी सुबह, नाटकीय बादल, विदेशी पक्षी, शांतिपूर्ण वातावरण, सिनेमाई संरचना, अल्ट्रा-फोटोरीलिस्टिक, IMAX, HDR, वॉल्यूमेट्रिक लाइटिंग, प्राकृतिक रंग, हाइपर-डिटेल्ड, 8K, पेशेवर फोटोग्राफी, कोई CGI नहीं, कोई चित्रण नहीं, बिल्कुल असली जगह जैसी।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075106901357219840/img/BgbByrZssE0gXhLF.jpg" width="600" alt="लुभावनी काल्पनिक दुनिया">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7011)**
+
+**Author:** [Tesla Owners Silicon Valley](https://x.com/teslaownersSV) | **Source:** [Link](https://x.com/teslaownersSV/status/2075107002020471065) | **Published:** Jul 9, 2026
+
+---
+### Angel Flight Sequence Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक विस्तृत फैंटेसी प्रॉम्प्ट जो एक एंजेल को गतिशील टेक्स्ट इफेक्ट्स के साथ दुनिया के बीच बदलाव करते हुए दर्शाता है।
+
+#### 📝 Prompt
+
+```
+किताब से निकला एंजेल उस कमरे में कदम रखता है जहाँ दुनिया वास्तविक है, और जैसे ही वह उड़कर चाँद की ओर जाता है, “GOD FIRST ALWAYS” शब्द एक धुंधले तरीके से बनते हैं
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075056939734609920/img/ZFXMqJXRT-Uv0faI.jpg" width="600" alt="Angel Flight Sequence Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7013)**
+
+**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2075057016158986588) | **Published:** Jul 9, 2026
+
+---
 ### रोमांटिक पेंसिल स्केच एनिमेशन
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2120,82 +2196,6 @@ Youman,
 **Author:** [Liam](https://x.com/LiamEvergreen) | **Source:** [Link](https://x.com/LiamEvergreen/status/2070170659813237231) | **Published:** Jun 25, 2026
 
 ---
-### फरिश्ता और जिज्ञासु बिल्ली
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक जिज्ञासु बिल्ली और एक फरिश्ते को दर्शाने वाला एक दिल को छू लेने वाला सिनेमैटिक वीडियो प्रॉम्प्ट, जिसमें लाइटिंग और टेक्सचर पर विशेष ध्यान दिया गया है।
-
-#### 📝 Prompt
-
-```
-सबसे प्यारी शरारत। एक फरिश्ता भी एक जिज्ञासु बिल्ली को नहीं रोक सकता... एक छोटा सा पंख। एक गंभीर सा छोटा चेहरा। एक यादगार पल।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070145797845651456/img/FL07IBEA8pSaJAj7.jpg" width="600" alt="फरिश्ता और जिज्ञासु बिल्ली">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6488)**
-
-**Author:** [猫神MT](https://x.com/nekogami_MT) | **Source:** [Link](https://x.com/nekogami_MT/status/2070145869404614826) | **Published:** Jun 25, 2026
-
----
-### दुबई का शाम का नज़ारा
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> दुबई के एक सुंदर सिटीस्केप पर 'गुड इवनिंग' (शुभ संध्या) टेक्स्ट ओवरले के लिए एक प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-दुबई की शाम, जिसमें सबसे ऊपर 'Good evening' टेक्स्ट प्रमुखता से लिखा हो
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070134828750798848/img/FKT1EMEuTN10elrV.jpg" width="600" alt="दुबई का शाम का नज़ारा">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6654)**
-
-**Author:** [Ijaz Malik](https://x.com/Ijazmalik101) | **Source:** [Link](https://x.com/Ijazmalik101/status/2070134888523763993) | **Published:** Jun 25, 2026
-
----
-### लावा से उठती अग्नि देवी
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> तारों भरी रात के आकाश के नीचे पिघलते लावा से बाहर निकलती एक अग्नि देवी के लिए सिनेमैटिक वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-एक अग्नि देवी को धीरे-धीरे दहकते लावा से बाहर निकलते हुए बनाएँ। वह कोई दुष्ट देवी नहीं है, इसलिए उसकी आँखें सामान्य हैं। वह पूरी तरह से आग से बनी है और पृष्ठभूमि में रात के आकाश में तारे और बिजली चमक रही है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070059497469644800/img/RV29vFQTGszbVWDn.jpg" width="600" alt="लावा से उठती अग्नि देवी">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6481)**
-
-**Author:** [Lynn Hocker](https://x.com/Auroraskye3993) | **Source:** [Link](https://x.com/Auroraskye3993/status/2070059787602317621) | **Published:** Jun 25, 2026
-
----
-### मुस्कुराती और हाथ हिलाती महिला का एनीमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो जनरेशन प्रॉम्प्ट जिसमें एक महिला को स्वाभाविक गति और हल्की हवा के प्रभाव के साथ मुस्कुराते और हाथ हिलाते हुए दर्शाया गया है।
-
-#### 📝 Prompt
-
-```
-वह एक प्यारी, सच्ची मुस्कान के साथ कैमरे की ओर दोस्ताना अंदाज़ में हाथ हिलाती है, जबकि हल्की हवा में उसके बाल और केपलेट थोड़े लहरा रहे हैं। सौम्य, स्वाभाविक गति; वही हल्की दिन की रोशनी और ईंट की दीवार का बैकग्राउंड।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070058371399798784/img/tAIcikHFdaJgOUit.jpg" width="600" alt="मुस्कुराती और हाथ हिलाती महिला का एनीमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6483)**
-
-**Author:** [grok_imagine_free_user](https://x.com/FreeGrokUser) | **Source:** [Link](https://x.com/FreeGrokUser/status/2070058384959983811) | **Published:** Jun 25, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2257,6 +2257,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-10T07:58:16.218Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-10T11:28:20.915Z</sub>
 
 </div>

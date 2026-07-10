@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2060** |
+| 📝 Total Prompts | **2064** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-10** |
 
@@ -189,6 +189,82 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Gợi ý hình ảnh giả tưởng về bình minh phát quang sinh học
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý hình ảnh điện ảnh tuyệt đẹp mô tả khung cảnh bình minh giả tưởng với những ánh sáng nhấp nháy và chuyển động tinh tế.
+
+#### 📝 Prompt
+
+```
+Bình minh từ từ ló dạng, những bông hoa phát quang sinh học nhấp nháy ánh sáng, các biểu ngữ lay động trong làn gió đêm nhẹ, ánh hào quang thần thánh trên bộ giáp đang thở nhịp nhàng.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075306107371974656/img/ZEKl6A-mpnvhQId8.jpg" width="600" alt="Gợi ý hình ảnh giả tưởng về bình minh phát quang sinh học">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7012)**
+
+**Author:** [Terry Palmieri](https://x.com/TerryPalmieri14) | **Source:** [Link](https://x.com/TerryPalmieri14/status/2075306197566320781) | **Published:** Jul 9, 2026
+
+---
+### Trận đấu quần vợt trên sân cỏ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) điện ảnh chi tiết cho trận đấu quần vợt, bao gồm các thông số cụ thể về ánh sáng, vật lý và chuyển động máy quay.
+
+#### 📝 Prompt
+
+```
+Vận động viên quần vợt hoàn tất cú vung vợt thuận tay khi quả bóng màu vàng lao vút qua mặt sân cỏ. Dây vợt rung lên, những ngọn cỏ đung đưa trong gió, ánh nắng vàng óng ánh trên quả bóng, cùng bầu không khí sân vận động nhẹ nhàng với hiệu ứng máy quay tiến dần vào chủ thể.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075286654127136768/img/BvYqUAVhqVp1FaO7.jpg" width="600" alt="Trận đấu quần vợt trên sân cỏ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7010)**
+
+**Author:** [Robert Heinlein](https://x.com/strangerinastr) | **Source:** [Link](https://x.com/strangerinastr/status/2075286711521956062) | **Published:** Jul 9, 2026
+
+---
+### Thế giới giả tưởng kỳ ảo đầy choáng ngợp
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video điện ảnh quy mô lớn về phong cảnh giả tưởng chân thực với những ngọn núi bay, khu rừng phát sáng và các thác nước.
+
+#### 📝 Prompt
+
+```
+Một thế giới tưởng tượng đầy choáng ngợp trông hoàn toàn chân thực, với những ngọn núi bay, cây cổ thụ khổng lồ, dòng sông pha lê, khu rừng phát sáng, thác nước đổ xuống những hồ nước đầy sương mù, bình minh vàng rực, những đám mây đầy kịch tính, các loài chim kỳ lạ, bầu không khí yên bình, bố cục điện ảnh, siêu chân thực, IMAX, HDR, ánh sáng thể tích, màu sắc tự nhiên, siêu chi tiết, 8K, nhiếp ảnh chuyên nghiệp, không phải CGI, không phải minh họa, trông giống như một địa điểm có thật.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075106901357219840/img/BgbByrZssE0gXhLF.jpg" width="600" alt="Thế giới giả tưởng kỳ ảo đầy choáng ngợp">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7011)**
+
+**Author:** [Tesla Owners Silicon Valley](https://x.com/teslaownersSV) | **Source:** [Link](https://x.com/teslaownersSV/status/2075107002020471065) | **Published:** Jul 9, 2026
+
+---
+### Prompt chuỗi cảnh thiên thần bay
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt giả tưởng chi tiết mô tả cảnh thiên thần chuyển giao giữa các thế giới với các hiệu ứng văn bản động.
+
+#### 📝 Prompt
+
+```
+Thiên thần từ trong cuốn sách bước vào căn phòng nơi thế giới là thực tại, các từ “GOD FIRST ALWAYS” hình thành một cách mờ ảo khi thiên thần bay về phía mặt trăng
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075056939734609920/img/ZFXMqJXRT-Uv0faI.jpg" width="600" alt="Prompt chuỗi cảnh thiên thần bay">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7013)**
+
+**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2075057016158986588) | **Published:** Jul 9, 2026
+
+---
 ### Hoạt ảnh phác thảo bút chì lãng mạn
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2120,82 +2196,6 @@ Chú gấu nhỏ dễ thương đang tận hưởng làn nước đầy màu s�
 **Author:** [Liam](https://x.com/LiamEvergreen) | **Source:** [Link](https://x.com/LiamEvergreen/status/2070170659813237231) | **Published:** Jun 25, 2026
 
 ---
-### Thiên thần và chú mèo tò mò
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt đậm chất điện ảnh đầy cảm động về một chú mèo tò mò và một thiên thần, tập trung vào ánh sáng và kết cấu.
-
-#### 📝 Prompt
-
-```
-Sự cám dỗ ngọt ngào nhất. Ngay cả một thiên thần cũng không thể ngăn cản một chú mèo tò mò… Một chiếc lông vũ nhỏ xíu. Một gương mặt nhỏ đầy nghiêm túc. Một khoảnh khắc khó quên.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070145797845651456/img/FL07IBEA8pSaJAj7.jpg" width="600" alt="Thiên thần và chú mèo tò mò">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6488)**
-
-**Author:** [猫神MT](https://x.com/nekogami_MT) | **Source:** [Link](https://x.com/nekogami_MT/status/2070145869404614826) | **Published:** Jun 25, 2026
-
----
-### Cảnh quan thành phố Dubai vào buổi tối
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) để tạo lớp phủ văn bản 'Good evening' nổi bật trên khung cảnh thành phố Dubai tuyệt đẹp.
-
-#### 📝 Prompt
-
-```
-Chào buổi tối Dubai với dòng chữ 'Good evening' được hiển thị nổi bật ở phía trên
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070134828750798848/img/FKT1EMEuTN10elrV.jpg" width="600" alt="Cảnh quan thành phố Dubai vào buổi tối">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6654)**
-
-**Author:** [Ijaz Malik](https://x.com/Ijazmalik101) | **Source:** [Link](https://x.com/Ijazmalik101/status/2070134888523763993) | **Published:** Jun 25, 2026
-
----
-### Nữ thần Lửa trỗi dậy từ dòng nham thạch
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Lời nhắc video điện ảnh về một nữ thần lửa đang trỗi dậy từ dòng nham thạch nóng chảy dưới bầu trời đêm đầy sao.
-
-#### 📝 Prompt
-
-```
-Tạo hình một nữ thần Lửa đang dần trỗi dậy từ dòng nham thạch rực cháy. Cô ấy không phải là một nữ thần độc ác nên đôi mắt trông rất bình thường. Cơ thể cô ấy được tạo thành hoàn toàn từ lửa, với khung cảnh bầu trời đêm đầy sao và sấm sét ở phía sau.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070059497469644800/img/RV29vFQTGszbVWDn.jpg" width="600" alt="Nữ thần Lửa trỗi dậy từ dòng nham thạch">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6481)**
-
-**Author:** [Lynn Hocker](https://x.com/Auroraskye3993) | **Source:** [Link](https://x.com/Auroraskye3993/status/2070059787602317621) | **Published:** Jun 25, 2026
-
----
-### Hoạt ảnh người phụ nữ mỉm cười và vẫy tay
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video mô tả người phụ nữ đang mỉm cười và vẫy tay với chuyển động tự nhiên cùng hiệu ứng gió nhẹ.
-
-#### 📝 Prompt
-
-```
-Cô ấy nở một nụ cười ấm áp, chân thật và giơ một tay lên vẫy chào thân thiện về phía máy quay, mái tóc và chiếc khăn choàng đung đưa nhẹ nhàng trong làn gió. Chuyển động tự nhiên, uyển chuyển; giữ nguyên ánh sáng ban ngày dịu nhẹ và bối cảnh bức tường gạch.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070058371399798784/img/tAIcikHFdaJgOUit.jpg" width="600" alt="Hoạt ảnh người phụ nữ mỉm cười và vẫy tay">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6483)**
-
-**Author:** [grok_imagine_free_user](https://x.com/FreeGrokUser) | **Source:** [Link](https://x.com/FreeGrokUser/status/2070058384959983811) | **Published:** Jun 25, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2257,6 +2257,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-10T07:58:14.640Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-10T11:28:19.457Z</sub>
 
 </div>

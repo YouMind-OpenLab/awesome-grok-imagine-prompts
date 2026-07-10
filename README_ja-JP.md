@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2060** |
+| 📝 プロンプト総数 | **2064** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-07-10** |
 
@@ -189,6 +189,82 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### 生物発光の夜明けファンタジープロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 光の明滅と繊細な動きを伴う、幻想的な夜明けのシーンを描写した美しいシネマティックプロンプトです。
+
+#### 📝 プロンプト
+
+```
+明けの明星がゆっくりと昇り、生物発光する花々が光を明滅させ、かすかな夜風に旗が揺らめき、鎧に宿る神聖な輝きが穏やかに呼吸している。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075306107371974656/img/ZEKl6A-mpnvhQId8.jpg" width="600" alt="生物発光の夜明けファンタジープロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7012)**
+
+**作者:** [Terry Palmieri](https://x.com/TerryPalmieri14) | **ソース:** [Link](https://x.com/TerryPalmieri14/status/2075306197566320781) | **公開日:** Jul 9, 2026
+
+---
+### 芝コートでのテニスアクション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> テニスの試合を想定した、ライティング、物理演算、カメラワークを詳細に指定するシネマティックプロンプト。
+
+#### 📝 プロンプト
+
+```
+テニスプレイヤーがフォアハンドのスイングを終え、黄色いボールが芝コートを鋭く駆け抜ける。ラケットのガットが振動し、芝生が風に揺れ、黄金色の陽光がボールに反射する。スタジアムの柔らかな空気感の中、カメラが緩やかに被写体へ寄っていく。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075286654127136768/img/BvYqUAVhqVp1FaO7.jpg" width="600" alt="芝コートでのテニスアクション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7010)**
+
+**作者:** [Robert Heinlein](https://x.com/strangerinastr) | **ソース:** [Link](https://x.com/strangerinastr/status/2075286711521956062) | **公開日:** Jul 9, 2026
+
+---
+### 息をのむような幻想的なファンタジー世界
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 浮遊する山々、光り輝く森、滝など、リアルなファンタジー風景を描き出すための大規模なシネマティック動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+完全に実在するかのような、息をのむほど幻想的な世界。浮遊する山々、巨大な古代樹、水晶のように澄んだ川、光り輝く森、霧のかかった湖へと流れ落ちる滝、黄金の日の出、ドラマチックな雲、エキゾチックな鳥たち。穏やかな雰囲気、シネマティックな構図、超フォトリアル、IMAX、HDR、ボリュームライト、自然な色彩、ハイパーディテール、8K、プロフェッショナルな写真撮影、CGI なし、イラスト感なし、実在する場所のような見た目。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075106901357219840/img/BgbByrZssE0gXhLF.jpg" width="600" alt="息をのむような幻想的なファンタジー世界">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7011)**
+
+**作者:** [Tesla Owners Silicon Valley](https://x.com/teslaownersSV) | **ソース:** [Link](https://x.com/teslaownersSV/status/2075107002020471065) | **公開日:** Jul 9, 2026
+
+---
+### エンジェル・フライト・シーケンス・プロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 動的なテキストエフェクトを伴い、天使が異世界間を移動する様子を描写した詳細なファンタジープロンプトです。
+
+#### 📝 プロンプト
+
+```
+本の中から現れた天使が、現実世界へと足を踏み入れる。彼が月へと飛び去る際、「GOD FIRST ALWAYS」という言葉が霧のように浮かび上がる。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075056939734609920/img/ZFXMqJXRT-Uv0faI.jpg" width="600" alt="エンジェル・フライト・シーケンス・プロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7013)**
+
+**作者:** [the_light](https://x.com/the_light35) | **ソース:** [Link](https://x.com/the_light35/status/2075057016158986588) | **公開日:** Jul 9, 2026
+
+---
 ### ロマンチックな鉛筆スケッチ風アニメーション
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2120,82 +2196,6 @@ Elena が輝くポータルを通り抜け、広大な Playroom へと足を踏�
 **作者:** [Liam](https://x.com/LiamEvergreen) | **ソース:** [Link](https://x.com/LiamEvergreen/status/2070170659813237231) | **公開日:** Jun 25, 2026
 
 ---
-### 天使と好奇心旺盛な猫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 好奇心旺盛な猫と天使が登場する、光と質感にこだわった心温まるシネマティックな動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-最高に甘い誘惑。天使でさえ、好奇心旺盛な猫を止めることはできない……。たった一枚の羽。真剣そのものの小さな顔。忘れられないひととき。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070145797845651456/img/FL07IBEA8pSaJAj7.jpg" width="600" alt="天使と好奇心旺盛な猫">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6488)**
-
-**作者:** [猫神MT](https://x.com/nekogami_MT) | **ソース:** [Link](https://x.com/nekogami_MT/status/2070145869404614826) | **公開日:** Jun 25, 2026
-
----
-### ドバイの美しい夜景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ドバイの美しい夜景に「Good evening」というテキストを大きく重ねるためのプロンプトです。
-
-#### 📝 プロンプト
-
-```
-ドバイの夜景。上部に「Good evening」というテキストが大きく表示されている
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070134828750798848/img/FKT1EMEuTN10elrV.jpg" width="600" alt="ドバイの美しい夜景">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6654)**
-
-**作者:** [Ijaz Malik](https://x.com/Ijazmalik101) | **ソース:** [Link](https://x.com/Ijazmalik101/status/2070134888523763993) | **公開日:** Jun 25, 2026
-
----
-### 溶岩から現れる炎の女神
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 星空の下、溶岩から立ち上がる炎の女神を描くシネマティックな動画生成用プロンプト。
-
-#### 📝 プロンプト
-
-```
-燃え盛る溶岩の中からゆっくりと立ち上がる炎の女神を生成してください。邪悪な女神ではないため、目は人間と同じ自然なものにします。彼女の体は完全に炎で構成されており、背景の夜空には星と稲妻が輝いています。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070059497469644800/img/RV29vFQTGszbVWDn.jpg" width="600" alt="溶岩から現れる炎の女神">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6481)**
-
-**作者:** [Lynn Hocker](https://x.com/Auroraskye3993) | **ソース:** [Link](https://x.com/Auroraskye3993/status/2070059787602317621) | **公開日:** Jun 25, 2026
-
----
-### 笑顔で手を振る女性のアニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 自然な動きと柔らかなそよ風のエフェクトを加え、笑顔で手を振る女性を描写した動画生成プロンプトです。
-
-#### 📝 プロンプト
-
-```
-彼女が温かく心からの笑顔を見せ、カメラに向かって親しみを込めて片手を振ります。柔らかなそよ風に髪とケープがわずかに揺れています。穏やかで自然な動きを表現し、柔らかな自然光とレンガの壁を背景にしています。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070058371399798784/img/tAIcikHFdaJgOUit.jpg" width="600" alt="笑顔で手を振る女性のアニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6483)**
-
-**作者:** [grok_imagine_free_user](https://x.com/FreeGrokUser) | **ソース:** [Link](https://x.com/FreeGrokUser/status/2070058384959983811) | **公開日:** Jun 25, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2257,6 +2257,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-10T07:58:10.634Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-10T11:28:14.018Z</sub>
 
 </div>

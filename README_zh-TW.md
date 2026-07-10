@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **2060** |
+| 📝 提示詞總數 | **2064** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-07-10** |
 
@@ -189,6 +189,82 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 生物發光黎明奇幻提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個精美的電影級提示詞，描述了帶有脈衝光影與細微動態的奇幻黎明場景。
+
+#### 📝 提示詞
+
+```
+晨星緩緩升起，生物發光花朵閃爍著脈衝光芒，旗幟在微弱的夜風中飄動，神聖的光輝映照在輕微起伏的盔甲上。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075306107371974656/img/ZEKl6A-mpnvhQId8.jpg" width="600" alt="生物發光黎明奇幻提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7012)**
+
+**作者:** [Terry Palmieri](https://x.com/TerryPalmieri14) | **來源:** [Link](https://x.com/TerryPalmieri14/status/2075306197566320781) | **發布時間:** Jul 9, 2026
+
+---
+### 草地網球賽事動作
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一份關於網球比賽的詳細電影級提示詞，包含特定的光影、物理效果與運鏡方式。
+
+#### 📝 提示詞
+
+```
+網球選手完成正手揮拍，黃色的網球在草地球場上疾馳而過。球拍線震動，草葉在微風中搖曳，金色的陽光在球面上閃爍，並搭配柔和的球場氛圍與細膩的鏡頭推進。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075286654127136768/img/BvYqUAVhqVp1FaO7.jpg" width="600" alt="草地網球賽事動作">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7010)**
+
+**作者:** [Robert Heinlein](https://x.com/strangerinastr) | **來源:** [Link](https://x.com/strangerinastr/status/2075286711521956062) | **發布時間:** Jul 9, 2026
+
+---
+### 令人屏息的奇幻世界
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個大規模的電影級影片提示詞，用於生成包含浮空山脈、發光森林與瀑布的寫實奇幻景觀。
+
+#### 📝 提示詞
+
+```
+一個看起來完全真實、令人屏息的奇幻世界，包含浮空山脈、巨大的古樹、水晶般的河流、發光森林、流入霧氣繚繞湖泊的瀑布、金色的日出、戲劇性的雲層、異國鳥類、寧靜的氛圍、電影級構圖、超寫實攝影、IMAX、HDR、體積光、自然色彩、超高細節、8K 解析度、專業攝影，無 CGI，非插畫，看起來就像真實存在的地方。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075106901357219840/img/BgbByrZssE0gXhLF.jpg" width="600" alt="令人屏息的奇幻世界">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7011)**
+
+**作者:** [Tesla Owners Silicon Valley](https://x.com/teslaownersSV) | **來源:** [Link](https://x.com/teslaownersSV/status/2075107002020471065) | **發布時間:** Jul 9, 2026
+
+---
+### Angel Flight Sequence Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個詳細的奇幻提示詞，描述了天使在不同世界間穿梭的過程，並結合了動態文字特效。
+
+#### 📝 提示詞
+
+```
+書中的天使步入現實世界，當他飛向月球時，「GOD FIRST ALWAYS」這些字樣以朦朧的方式浮現出來
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075056939734609920/img/ZFXMqJXRT-Uv0faI.jpg" width="600" alt="Angel Flight Sequence Prompt">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7013)**
+
+**作者:** [the_light](https://x.com/the_light35) | **來源:** [Link](https://x.com/the_light35/status/2075057016158986588) | **發布時間:** Jul 9, 2026
+
+---
 ### 浪漫鉛筆素描動畫
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2120,82 +2196,6 @@ Elena 穿過閃爍的傳送門進入廣闊的 Playroom，她睜大雙眼，神�
 **作者:** [Liam](https://x.com/LiamEvergreen) | **來源:** [Link](https://x.com/LiamEvergreen/status/2070170659813237231) | **發布時間:** Jun 25, 2026
 
 ---
-### 天使與好奇貓
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個溫馨的電影感影片提示詞，主角為一隻好奇的貓和一位天使，重點在於光影與質感。
-
-#### 📝 提示詞
-
-```
-最甜蜜的誘惑。即使是天使也無法阻止一隻好奇的貓…… 一根小小的羽毛。一張認真的小臉。一個難忘的瞬間。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070145797845651456/img/FL07IBEA8pSaJAj7.jpg" width="600" alt="天使與好奇貓">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6488)**
-
-**作者:** [猫神MT](https://x.com/nekogami_MT) | **來源:** [Link](https://x.com/nekogami_MT/status/2070145869404614826) | **發布時間:** Jun 25, 2026
-
----
-### 杜拜晚安城市景觀
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個在風景優美的杜拜城市景觀上，疊加顯眼「晚安」文字的提示詞。
-
-#### 📝 提示詞
-
-```
-晚安杜拜，文字「Good evening」顯眼地顯示在頂部
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070134828750798848/img/FKT1EMEuTN10elrV.jpg" width="600" alt="杜拜晚安城市景觀">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6654)**
-
-**作者:** [Ijaz Malik](https://x.com/Ijazmalik101) | **來源:** [Link](https://x.com/Ijazmalik101/status/2070134888523763993) | **發布時間:** Jun 25, 2026
-
----
-### 從熔岩中升起的火焰女神
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 電影級影片提示詞：一位火焰女神在星空下從熾熱熔岩中緩緩升起。
-
-#### 📝 提示詞
-
-```
-創作一位從熾熱熔岩中緩緩升起的火焰女神。她並非邪惡女神，因此她的雙眼看起來很正常。她全身由火焰構成，背景是點綴著繁星與閃電的夜空。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070059497469644800/img/RV29vFQTGszbVWDn.jpg" width="600" alt="從熔岩中升起的火焰女神">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6481)**
-
-**作者:** [Lynn Hocker](https://x.com/Auroraskye3993) | **來源:** [Link](https://x.com/Auroraskye3993/status/2070059787602317621) | **發布時間:** Jun 25, 2026
-
----
-### 女性微笑揮手動畫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個影片生成提示詞，描繪了一位女性微笑並揮手的畫面，動作自然且帶有微風吹拂的效果。
-
-#### 📝 提示詞
-
-```
-她露出溫暖而真誠的微笑，並向鏡頭友善地揮手，頭髮和披肩在微風中輕輕擺動。動作柔和自然；保持相同的柔和日光與磚牆背景。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070058371399798784/img/tAIcikHFdaJgOUit.jpg" width="600" alt="女性微笑揮手動畫">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6483)**
-
-**作者:** [grok_imagine_free_user](https://x.com/FreeGrokUser) | **來源:** [Link](https://x.com/FreeGrokUser/status/2070058384959983811) | **發布時間:** Jun 25, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2257,6 +2257,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-07-10T07:58:09.367Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-07-10T11:28:12.721Z</sub>
 
 </div>

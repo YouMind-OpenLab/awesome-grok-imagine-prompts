@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2060** |
+| 📝 Total Prompts | **2064** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-10** |
 
@@ -189,6 +189,82 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Fantasy-Prompt: Biolumineszente Morgendämmerung
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein wunderschöner, filmreifer Prompt, der eine Fantasy-Morgendämmerung mit pulsierenden Lichtern und subtilen Bewegungen beschreibt.
+
+#### 📝 Prompt
+
+```
+Langsamer Aufgang des Morgensterns, biolumineszente Blumen mit pulsierendem Licht, Banner, die in einer leichten Nachtbrise wehen, göttlicher Glanz auf sanft atmender Rüstung.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075306107371974656/img/ZEKl6A-mpnvhQId8.jpg" width="600" alt="Fantasy-Prompt: Biolumineszente Morgendämmerung">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7012)**
+
+**Author:** [Terry Palmieri](https://x.com/TerryPalmieri14) | **Source:** [Link](https://x.com/TerryPalmieri14/status/2075306197566320781) | **Published:** Jul 9, 2026
+
+---
+### Tennis-Action auf dem Rasenplatz
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter filmischer Prompt für ein Tennismatch mit spezifischen Vorgaben zu Beleuchtung, Physik und Kamerabewegungen.
+
+#### 📝 Prompt
+
+```
+Der Tennisspieler vollendet den Vorhandschlag, während der gelbe Ball über den Rasenplatz schießt. Die Saiten des Schlägers vibrieren, Grashalme wiegen sich im Wind, goldenes Sonnenlicht glänzt auf dem Ball und eine sanfte Stadionatmosphäre mit einem subtilen Kamera-Zoom nach vorne.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075286654127136768/img/BvYqUAVhqVp1FaO7.jpg" width="600" alt="Tennis-Action auf dem Rasenplatz">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7010)**
+
+**Author:** [Robert Heinlein](https://x.com/strangerinastr) | **Source:** [Link](https://x.com/strangerinastr/status/2075286711521956062) | **Published:** Jul 9, 2026
+
+---
+### Atemberaubende imaginäre Fantasiewelt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein massiver filmischer Video-Prompt für eine realistische Fantasielandschaft mit schwebenden Bergen, leuchtenden Wäldern und Wasserfällen.
+
+#### 📝 Prompt
+
+```
+Eine atemberaubende imaginäre Welt, die vollkommen echt wirkt, mit schwebenden Bergen, riesigen uralten Bäumen, kristallklaren Flüssen, leuchtenden Wäldern, Wasserfällen, die in neblige Seen stürzen, goldenem Sonnenaufgang, dramatischen Wolken, exotischen Vögeln, friedlicher Atmosphäre, filmischer Komposition, ultra-fotorealistisch, IMAX, HDR, volumetrischer Beleuchtung, natürlichen Farben, hyperdetailliert, 8K, professioneller Fotografie, kein CGI, keine Illustration, sieht aus wie ein echter Ort.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075106901357219840/img/BgbByrZssE0gXhLF.jpg" width="600" alt="Atemberaubende imaginäre Fantasiewelt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7011)**
+
+**Author:** [Tesla Owners Silicon Valley](https://x.com/teslaownersSV) | **Source:** [Link](https://x.com/teslaownersSV/status/2075107002020471065) | **Published:** Jul 9, 2026
+
+---
+### Angel Flight Sequence Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Fantasy-Prompt, der einen Engel beim Übergang zwischen Welten mit dynamischen Texteffekten beschreibt.
+
+#### 📝 Prompt
+
+```
+Der Engel aus dem Buch tritt in den Raum, in dem die Welt real ist; die Worte „GOD FIRST ALWAYS“ bilden sich auf nebelartige Weise, während er zum Mond davonfliegt
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075056939734609920/img/ZFXMqJXRT-Uv0faI.jpg" width="600" alt="Angel Flight Sequence Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7013)**
+
+**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2075057016158986588) | **Published:** Jul 9, 2026
+
+---
 ### Romantische Bleistiftskizzen-Animation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2120,82 +2196,6 @@ Ein süßes kleines Bärenjunges genießt ein farbenfrohes Bad! Vom Planschen an
 **Author:** [Liam](https://x.com/LiamEvergreen) | **Source:** [Link](https://x.com/LiamEvergreen/status/2070170659813237231) | **Published:** Jun 25, 2026
 
 ---
-### Engel und neugierige Katze
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein herzerwärmender, filmischer Video-Prompt mit einer neugierigen Katze und einem Engel, bei dem der Fokus auf Beleuchtung und Textur liegt.
-
-#### 📝 Prompt
-
-```
-Die süßeste Versuchung. Selbst ein Engel kann eine neugierige Katze nicht aufhalten… Eine winzige Feder. Ein ernstes kleines Gesicht. Ein unvergesslicher Moment.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070145797845651456/img/FL07IBEA8pSaJAj7.jpg" width="600" alt="Engel und neugierige Katze">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6488)**
-
-**Author:** [猫神MT](https://x.com/nekogami_MT) | **Source:** [Link](https://x.com/nekogami_MT/status/2070145869404614826) | **Published:** Jun 25, 2026
-
----
-### Dubai Stadtlandschaft am Abend
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für einen markanten „Guten Abend“-Text-Overlay über einer malerischen Stadtlandschaft von Dubai.
-
-#### 📝 Prompt
-
-```
-Guten Abend Dubai mit dem Text „Guten Abend“, der prominent am oberen Bildrand angezeigt wird
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070134828750798848/img/FKT1EMEuTN10elrV.jpg" width="600" alt="Dubai Stadtlandschaft am Abend">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6654)**
-
-**Author:** [Ijaz Malik](https://x.com/Ijazmalik101) | **Source:** [Link](https://x.com/Ijazmalik101/status/2070134888523763993) | **Published:** Jun 25, 2026
-
----
-### Feuergöttin entsteigt der Lava
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kinoreifer Video-Prompt für eine Feuergöttin, die unter einem sternenklaren Nachthimmel aus flüssiger Lava emporsteigt.
-
-#### 📝 Prompt
-
-```
-Erstelle eine Feuergöttin, die allmählich aus der glühenden Lava emporsteigt. Sie ist keine böse Göttin, daher hat sie normale Augen. Sie besteht vollständig aus Feuer und im nächtlichen Hintergrundhimmel sind Sterne und Blitze zu sehen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070059497469644800/img/RV29vFQTGszbVWDn.jpg" width="600" alt="Feuergöttin entsteigt der Lava">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6481)**
-
-**Author:** [Lynn Hocker](https://x.com/Auroraskye3993) | **Source:** [Link](https://x.com/Auroraskye3993/status/2070059787602317621) | **Published:** Jun 25, 2026
-
----
-### Animation einer lächelnden und winkenden Frau
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Generierungs-Prompt, der eine Frau zeigt, die lächelt und winkt, mit natürlicher Bewegung und einem sanften Brise-Effekt.
-
-#### 📝 Prompt
-
-```
-Sie zeigt ein warmes, aufrichtiges Lächeln und hebt eine Hand für ein freundliches Winken in Richtung Kamera, während ihr Haar und ihr Capelet sanft in einer leichten Brise wehen. Sanfte, natürliche Bewegung; gleiches weiches Tageslicht und Hintergrund aus Ziegelmauer.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070058371399798784/img/tAIcikHFdaJgOUit.jpg" width="600" alt="Animation einer lächelnden und winkenden Frau">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6483)**
-
-**Author:** [grok_imagine_free_user](https://x.com/FreeGrokUser) | **Source:** [Link](https://x.com/FreeGrokUser/status/2070058384959983811) | **Published:** Jun 25, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2257,6 +2257,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-10T07:58:20.239Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-10T11:28:26.313Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2060** |
+| 📝 Total Prompts | **2064** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-10** |
 
@@ -189,6 +189,82 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### พรอมต์แฟนตาซีรุ่งอรุณแห่งแสงชีวภาพ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์แนวภาพยนตร์ที่สวยงาม อธิบายฉากแฟนตาซีในช่วงรุ่งอรุณที่มีแสงระยิบระยับและการเคลื่อนไหวที่นุ่มนวล
+
+#### 📝 Prompt
+
+```
+แสงดาวรุ่งอรุณค่อย ๆ ปรากฏขึ้น ดอกไม้เรืองแสงส่องสว่างเป็นจังหวะ ธงทิวไหวเอนตามสายลมยามค่ำคืนที่แผ่วเบา และแสงอันศักดิ์สิทธิ์ที่อาบไล้บนชุดเกราะซึ่งขยับขึ้นลงอย่างแผ่วเบาราวกับกำลังหายใจ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075306107371974656/img/ZEKl6A-mpnvhQId8.jpg" width="600" alt="พรอมต์แฟนตาซีรุ่งอรุณแห่งแสงชีวภาพ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7012)**
+
+**Author:** [Terry Palmieri](https://x.com/TerryPalmieri14) | **Source:** [Link](https://x.com/TerryPalmieri14/status/2075306197566320781) | **Published:** Jul 9, 2026
+
+---
+### การแข่งขันเทนนิสบนคอร์ตหญ้า
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์เชิงภาพยนตร์แบบละเอียดสำหรับการแข่งขันเทนนิส โดยเน้นการจัดแสง ฟิสิกส์ และการเคลื่อนไหวของกล้องที่เฉพาะเจาะจง
+
+#### 📝 Prompt
+
+```
+นักเทนนิสเหวี่ยงไม้โฟร์แฮนด์จนลูกบอลสีเหลืองพุ่งทะยานข้ามคอร์ตหญ้า เอ็นไม้เทนนิสสั่นไหว ใบหญ้าเอนไหวตามสายลม แสงแดดสีทองสะท้อนบนลูกบอล พร้อมบรรยากาศในสนามที่นุ่มนวลและการเคลื่อนกล้องแบบซูมเข้าอย่างนุ่มนวล
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075286654127136768/img/BvYqUAVhqVp1FaO7.jpg" width="600" alt="การแข่งขันเทนนิสบนคอร์ตหญ้า">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7010)**
+
+**Author:** [Robert Heinlein](https://x.com/strangerinastr) | **Source:** [Link](https://x.com/strangerinastr/status/2075286711521956062) | **Published:** Jul 9, 2026
+
+---
+### โลกแฟนตาซีในจินตนาการอันน่าทึ่ง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอระดับภาพยนตร์สำหรับทิวทัศน์แฟนตาซีที่สมจริง พร้อมภูเขาลอยฟ้า ป่าเรืองแสง และน้ำตก
+
+#### 📝 Prompt
+
+```
+โลกในจินตนาการอันน่าทึ่งที่ดูสมจริงอย่างสมบูรณ์แบบ ประกอบด้วยภูเขาลอยฟ้า ต้นไม้โบราณขนาดใหญ่ แม่น้ำคริสตัล ป่าเรืองแสง น้ำตกที่ไหลลงสู่ทะเลสาบที่มีหมอกปกคลุม แสงอาทิตย์ยามเช้าสีทอง ก้อนเมฆที่ดูมีมิติ นกหายาก บรรยากาศอันเงียบสงบ องค์ประกอบภาพระดับภาพยนตร์ สมจริงดั่งภาพถ่าย IMAX, HDR, แสงแบบ Volumetric, สีสันที่เป็นธรรมชาติ, รายละเอียดสูง, 8K, การถ่ายภาพระดับมืออาชีพ, ไม่ใช่ CGI, ไม่ใช่ภาพวาด, ดูเหมือนสถานที่จริง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075106901357219840/img/BgbByrZssE0gXhLF.jpg" width="600" alt="โลกแฟนตาซีในจินตนาการอันน่าทึ่ง">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7011)**
+
+**Author:** [Tesla Owners Silicon Valley](https://x.com/teslaownersSV) | **Source:** [Link](https://x.com/teslaownersSV/status/2075107002020471065) | **Published:** Jul 9, 2026
+
+---
+### พร้อมท์ลำดับภาพ Angel Flight
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พร้อมท์แนวแฟนตาซีแบบละเอียดที่บรรยายถึงทูตสวรรค์ที่กำลังเคลื่อนย้ายระหว่างโลกต่าง ๆ พร้อมเอฟเฟกต์ข้อความแบบไดนามิก
+
+#### 📝 Prompt
+
+```
+ทูตสวรรค์จากในหนังสือย่างกรายเข้ามาในห้องที่โลกแห่งความเป็นจริง ข้อความ “GOD FIRST ALWAYS” ก่อตัวขึ้นอย่างเลือนลางในขณะที่เขากำลังบินจากไปสู่ดวงจันทร์
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075056939734609920/img/ZFXMqJXRT-Uv0faI.jpg" width="600" alt="พร้อมท์ลำดับภาพ Angel Flight">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7013)**
+
+**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2075057016158986588) | **Published:** Jul 9, 2026
+
+---
 ### แอนิเมชันภาพสเก็ตช์ดินสอสุดโรแมนติก
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2120,82 +2196,6 @@ Elena ก้าวผ่านประตูมิติที่ส่อง�
 **Author:** [Liam](https://x.com/LiamEvergreen) | **Source:** [Link](https://x.com/LiamEvergreen/status/2070170659813237231) | **Published:** Jun 25, 2026
 
 ---
-### นางฟ้ากับแมวช่างสงสัย
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวภาพยนตร์สุดอบอุ่นหัวใจ ที่นำเสนอเรื่องราวของแมวช่างสงสัยกับนางฟ้า โดยเน้นไปที่การจัดแสงและรายละเอียดของพื้นผิว
-
-#### 📝 Prompt
-
-```
-สิ่งล่อใจที่หอมหวานที่สุด แม้แต่นางฟ้าก็ยังห้ามใจแมวช่างสงสัยไม่ได้... ขนนกเพียงหนึ่งเส้น กับใบหน้าเล็กๆ ที่จริงจังสุดๆ ก่อให้เกิดเป็นช่วงเวลาที่น่าจดจำ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070145797845651456/img/FL07IBEA8pSaJAj7.jpg" width="600" alt="นางฟ้ากับแมวช่างสงสัย">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6488)**
-
-**Author:** [猫神MT](https://x.com/nekogami_MT) | **Source:** [Link](https://x.com/nekogami_MT/status/2070145869404614826) | **Published:** Jun 25, 2026
-
----
-### ทิวทัศน์เมืองดูไบยามค่ำคืน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับข้อความ 'Good evening' ที่โดดเด่นบนภาพทิวทัศน์เมืองดูไบที่สวยงาม
-
-#### 📝 Prompt
-
-```
-ยามเย็นในดูไบพร้อมข้อความ 'Good evening' ที่แสดงไว้อย่างโดดเด่นที่ด้านบน
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070134828750798848/img/FKT1EMEuTN10elrV.jpg" width="600" alt="ทิวทัศน์เมืองดูไบยามค่ำคืน">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6654)**
-
-**Author:** [Ijaz Malik](https://x.com/Ijazmalik101) | **Source:** [Link](https://x.com/Ijazmalik101/status/2070134888523763993) | **Published:** Jun 25, 2026
-
----
-### เทพีแห่งไฟผู้ผงาดจากลาวา
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวภาพยนตร์สำหรับเทพีแห่งไฟที่กำลังปรากฏตัวจากลาวาหลอมละลายภายใต้ท้องฟ้ายามค่ำคืนที่เต็มไปด้วยดวงดาว
-
-#### 📝 Prompt
-
-```
-สร้างภาพเทพีแห่งไฟที่ค่อย ๆ ผงาดขึ้นมาจากลาวาที่ลุกโชน เธอไม่ใช่เทพีใจร้าย ดังนั้นดวงตาของเธอจึงดูเป็นปกติ ร่างกายของเธอประกอบขึ้นจากเปลวไฟทั้งหมด และมีฉากหลังเป็นท้องฟ้ายามค่ำคืนที่มีดวงดาวและสายฟ้า
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070059497469644800/img/RV29vFQTGszbVWDn.jpg" width="600" alt="เทพีแห่งไฟผู้ผงาดจากลาวา">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6481)**
-
-**Author:** [Lynn Hocker](https://x.com/Auroraskye3993) | **Source:** [Link](https://x.com/Auroraskye3993/status/2070059787602317621) | **Published:** Jun 25, 2026
-
----
-### แอนิเมชันผู้หญิงยิ้มและโบกมือ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับการสร้างวิดีโอที่แสดงภาพผู้หญิงกำลังยิ้มและโบกมือด้วยการเคลื่อนไหวที่เป็นธรรมชาติ พร้อมเอฟเฟกต์สายลมพัดเบาๆ
-
-#### 📝 Prompt
-
-```
-เธอเผยรอยยิ้มที่อบอุ่นและจริงใจ พร้อมยกมือขึ้นโบกทักทายกล้องอย่างเป็นมิตร โดยมีเส้นผมและผ้าคลุมไหล่พริ้วไหวเล็กน้อยตามสายลมที่พัดผ่าน การเคลื่อนไหวที่นุ่มนวลและเป็นธรรมชาติ มาพร้อมแสงกลางวันแบบซอฟต์และฉากหลังเป็นผนังอิฐเหมือนเดิม
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070058371399798784/img/tAIcikHFdaJgOUit.jpg" width="600" alt="แอนิเมชันผู้หญิงยิ้มและโบกมือ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6483)**
-
-**Author:** [grok_imagine_free_user](https://x.com/FreeGrokUser) | **Source:** [Link](https://x.com/FreeGrokUser/status/2070058384959983811) | **Published:** Jun 25, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2257,6 +2257,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-10T07:58:13.144Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-10T11:28:17.814Z</sub>
 
 </div>

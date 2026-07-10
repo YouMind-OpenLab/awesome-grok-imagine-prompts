@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **2060** |
+| 📝 총 프롬프트 수 | **2064** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-07-10** |
 
@@ -189,6 +189,82 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 생체 발광 새벽 판타지 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 맥동하는 빛과 미묘한 움직임이 어우러진 판타지 새벽 장면을 묘사한 아름다운 시네마틱 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+새벽 별이 천천히 떠오르고, 생체 발광 꽃들이 빛을 내며 맥동하며, 희미한 밤바람에 깃발이 흔들리고, 갑옷 위로 신성한 빛이 부드럽게 감돕니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075306107371974656/img/ZEKl6A-mpnvhQId8.jpg" width="600" alt="생체 발광 새벽 판타지 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7012)**
+
+**작성자:** [Terry Palmieri](https://x.com/TerryPalmieri14) | **출처:** [Link](https://x.com/TerryPalmieri14/status/2075306197566320781) | **게시일:** Jul 9, 2026
+
+---
+### 잔디 코트 테니스 경기 장면
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 특정한 조명, 물리 효과, 카메라 움직임을 포함한 테니스 경기를 위한 상세한 시네마틱 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+테니스 선수가 포핸드 스윙을 마무리하자 노란색 공이 잔디 코트를 가로질러 빠르게 날아갑니다. 라켓 줄이 떨리고 잔디 잎이 바람에 흔들리며, 황금빛 햇살이 공에 반사됩니다. 은은한 경기장 분위기 속에서 카메라가 부드럽게 다가가는 연출입니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075286654127136768/img/BvYqUAVhqVp1FaO7.jpg" width="600" alt="잔디 코트 테니스 경기 장면">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7010)**
+
+**작성자:** [Robert Heinlein](https://x.com/strangerinastr) | **출처:** [Link](https://x.com/strangerinastr/status/2075286711521956062) | **게시일:** Jul 9, 2026
+
+---
+### 숨 막히게 아름다운 상상 속 판타지 세계
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 떠다니는 산, 빛나는 숲, 폭포가 어우러진 현실적인 판타지 풍경을 위한 대규모 시네마틱 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+실제처럼 보이는 숨 막히게 아름다운 상상 속 세계. 떠다니는 산, 거대한 고대 나무, 수정처럼 맑은 강, 빛나는 숲, 안개 낀 호수로 쏟아지는 폭포, 황금빛 일출, 드라마틱한 구름, 이국적인 새, 평화로운 분위기, 시네마틱 구도, 초현실적인 사실감, IMAX, HDR, 볼륨 조명, 자연스러운 색감, 초고해상도, 8K, 전문 사진 촬영, CGI 없음, 일러스트 아님, 실제 장소처럼 보임.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075106901357219840/img/BgbByrZssE0gXhLF.jpg" width="600" alt="숨 막히게 아름다운 상상 속 판타지 세계">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7011)**
+
+**작성자:** [Tesla Owners Silicon Valley](https://x.com/teslaownersSV) | **출처:** [Link](https://x.com/teslaownersSV/status/2075107002020471065) | **게시일:** Jul 9, 2026
+
+---
+### 엔젤 플라이트 시퀀스 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 다이내믹한 텍스트 효과와 함께 차원을 이동하는 천사를 묘사한 상세한 판타지 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+책 속의 천사가 현실 세계의 방으로 걸어 들어오고, 그가 달을 향해 날아갈 때 “GOD FIRST ALWAYS”라는 문구가 안개처럼 형성됩니다
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075056939734609920/img/ZFXMqJXRT-Uv0faI.jpg" width="600" alt="엔젤 플라이트 시퀀스 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7013)**
+
+**작성자:** [the_light](https://x.com/the_light35) | **출처:** [Link](https://x.com/the_light35/status/2075057016158986588) | **게시일:** Jul 9, 2026
+
+---
 ### 로맨틱한 연필 스케치 애니메이션
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2120,82 +2196,6 @@ Elena 가 반짝이는 포털을 지나 광활한 Playroom 으로 들어서며 �
 **작성자:** [Liam](https://x.com/LiamEvergreen) | **출처:** [Link](https://x.com/LiamEvergreen/status/2070170659813237231) | **게시일:** Jun 25, 2026
 
 ---
-### 천사와 호기심 많은 고양이
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 호기심 많은 고양이와 천사를 주인공으로 한, 조명과 질감에 집중한 마음 따뜻해지는 시네마틱 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-가장 달콤한 유혹. 천사조차도 호기심 많은 고양이를 막을 수는 없습니다… 작은 깃털 하나. 진지한 표정의 작은 얼굴. 잊을 수 없는 순간 하나.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070145797845651456/img/FL07IBEA8pSaJAj7.jpg" width="600" alt="천사와 호기심 많은 고양이">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6488)**
-
-**작성자:** [猫神MT](https://x.com/nekogami_MT) | **출처:** [Link](https://x.com/nekogami_MT/status/2070145869404614826) | **게시일:** Jun 25, 2026
-
----
-### 두바이의 아름다운 저녁 도시 풍경
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 두바이의 멋진 도시 풍경 위에 'Good evening'이라는 문구를 강조하여 배치하기 위한 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-상단에 'Good evening'이라는 문구가 강조된 두바이의 저녁 풍경
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070134828750798848/img/FKT1EMEuTN10elrV.jpg" width="600" alt="두바이의 아름다운 저녁 도시 풍경">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6654)**
-
-**작성자:** [Ijaz Malik](https://x.com/Ijazmalik101) | **출처:** [Link](https://x.com/Ijazmalik101/status/2070134888523763993) | **게시일:** Jun 25, 2026
-
----
-### 용암에서 솟아오르는 불의 여신
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 별이 빛나는 밤하늘 아래, 녹아내리는 용암 속에서 솟아오르는 불의 여신을 위한 시네마틱 비디오 프롬프트.
-
-#### 📝 프롬프트
-
-```
-불타는 용암 속에서 서서히 솟아오르는 불의 여신을 생성해 주세요. 그녀는 악한 여신이 아니므로 눈은 평범한 모습입니다. 그녀는 온몸이 불로 이루어져 있으며, 배경의 밤하늘에는 별과 번개가 보입니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070059497469644800/img/RV29vFQTGszbVWDn.jpg" width="600" alt="용암에서 솟아오르는 불의 여신">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6481)**
-
-**작성자:** [Lynn Hocker](https://x.com/Auroraskye3993) | **출처:** [Link](https://x.com/Auroraskye3993/status/2070059787602317621) | **게시일:** Jun 25, 2026
-
----
-### 웃으며 손을 흔드는 여성 애니메이션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 자연스러운 움직임과 부드러운 산들바람 효과가 더해진, 웃으며 손을 흔드는 여성의 모습을 담은 비디오 생성 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-그녀가 따뜻하고 진심 어린 미소를 지으며 카메라를 향해 다정하게 한 손을 흔듭니다. 부드러운 산들바람에 머리카락과 케이프릿이 살짝 흩날립니다. 부드럽고 자연스러운 움직임이 특징이며, 동일한 부드러운 자연광과 벽돌 벽 배경이 유지됩니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070058371399798784/img/tAIcikHFdaJgOUit.jpg" width="600" alt="웃으며 손을 흔드는 여성 애니메이션">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6483)**
-
-**작성자:** [grok_imagine_free_user](https://x.com/FreeGrokUser) | **출처:** [Link](https://x.com/FreeGrokUser/status/2070058384959983811) | **게시일:** Jun 25, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2257,6 +2257,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-10T07:58:11.904Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-10T11:28:15.730Z</sub>
 
 </div>

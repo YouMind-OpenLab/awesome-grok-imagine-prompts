@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2060** |
+| 📝 Total Prompts | **2064** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-10** |
 
@@ -189,6 +189,82 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Prompt fantastique : Aube bioluminescente
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un magnifique prompt cinématographique décrivant une scène d'aube fantastique avec des lumières pulsantes et des mouvements subtils.
+
+#### 📝 Prompt
+
+```
+Lever lent de l'étoile de l'aube, fleurs bioluminescentes à la lumière pulsante, bannières s'agitant dans une légère brise nocturne, éclat divin sur une armure respirant doucement.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075306107371974656/img/ZEKl6A-mpnvhQId8.jpg" width="600" alt="Prompt fantastique : Aube bioluminescente">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7012)**
+
+**Author:** [Terry Palmieri](https://x.com/TerryPalmieri14) | **Source:** [Link](https://x.com/TerryPalmieri14/status/2075306197566320781) | **Published:** Jul 9, 2026
+
+---
+### Action de tennis sur gazon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinématographique détaillé pour un match de tennis, mettant en avant un éclairage, une physique et des mouvements de caméra spécifiques.
+
+#### 📝 Prompt
+
+```
+Le joueur de tennis termine son coup droit alors que la balle jaune fuse sur le court en gazon. Les cordes de la raquette vibrent, les brins d'herbe ondulent sous la brise, la lumière dorée du soleil scintille sur la balle, le tout dans une atmosphère de stade douce avec un léger travelling avant.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075286654127136768/img/BvYqUAVhqVp1FaO7.jpg" width="600" alt="Action de tennis sur gazon">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7010)**
+
+**Author:** [Robert Heinlein](https://x.com/strangerinastr) | **Source:** [Link](https://x.com/strangerinastr/status/2075286711521956062) | **Published:** Jul 9, 2026
+
+---
+### Un monde fantastique imaginaire à couper le souffle
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo cinématographique massif pour un paysage fantastique réaliste avec des montagnes flottantes, des forêts lumineuses et des cascades.
+
+#### 📝 Prompt
+
+```
+Un monde imaginaire à couper le souffle qui semble totalement réel, avec des montagnes flottantes, des arbres anciens géants, des rivières cristallines, des forêts lumineuses, des cascades se jetant dans des lacs brumeux, un lever de soleil doré, des nuages spectaculaires, des oiseaux exotiques, une atmosphère paisible, une composition cinématographique, ultra-photoréaliste, IMAX, HDR, éclairage volumétrique, couleurs naturelles, hyper-détaillé, 8K, photographie professionnelle, sans CGI, sans illustration, ressemble à un endroit réel.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075106901357219840/img/BgbByrZssE0gXhLF.jpg" width="600" alt="Un monde fantastique imaginaire à couper le souffle">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7011)**
+
+**Author:** [Tesla Owners Silicon Valley](https://x.com/teslaownersSV) | **Source:** [Link](https://x.com/teslaownersSV/status/2075107002020471065) | **Published:** Jul 9, 2026
+
+---
+### Prompt de séquence de vol d'ange
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt fantastique détaillé décrivant un ange effectuant une transition entre deux mondes avec des effets de texte dynamiques.
+
+#### 📝 Prompt
+
+```
+L'ange du livre entre dans la pièce où le monde est réel, les mots « GOD FIRST ALWAYS » se forment de manière nébuleuse alors qu'il s'envole vers la lune
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075056939734609920/img/ZFXMqJXRT-Uv0faI.jpg" width="600" alt="Prompt de séquence de vol d'ange">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7013)**
+
+**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2075057016158986588) | **Published:** Jul 9, 2026
+
+---
 ### Animation romantique au crayon
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2120,82 +2196,6 @@ Un adorable petit ours qui profite d'une baignade colorée ! Des éclaboussures 
 **Author:** [Liam](https://x.com/LiamEvergreen) | **Source:** [Link](https://x.com/LiamEvergreen/status/2070170659813237231) | **Published:** Jun 25, 2026
 
 ---
-### L'ange et le chat curieux
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo cinématographique réconfortant mettant en scène un chat curieux et un ange, avec un accent particulier sur l'éclairage et la texture.
-
-#### 📝 Prompt
-
-```
-La plus douce des tentations. Même un ange ne peut arrêter un chat curieux… Une petite plume. Une petite frimousse sérieuse. Un moment inoubliable.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070145797845651456/img/FL07IBEA8pSaJAj7.jpg" width="600" alt="L'ange et le chat curieux">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6488)**
-
-**Author:** [猫神MT](https://x.com/nekogami_MT) | **Source:** [Link](https://x.com/nekogami_MT/status/2070145869404614826) | **Published:** Jun 25, 2026
-
----
-### Paysage urbain de Dubaï en soirée
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour une superposition de texte « Bonsoir » bien visible sur un paysage urbain pittoresque de Dubaï.
-
-#### 📝 Prompt
-
-```
-Bonsoir Dubaï avec le texte « Bonsoir » affiché en évidence en haut de l'image
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070134828750798848/img/FKT1EMEuTN10elrV.jpg" width="600" alt="Paysage urbain de Dubaï en soirée">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6654)**
-
-**Author:** [Ijaz Malik](https://x.com/Ijazmalik101) | **Source:** [Link](https://x.com/Ijazmalik101/status/2070134888523763993) | **Published:** Jun 25, 2026
-
----
-### Déesse du feu émergeant de la lave
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt vidéo cinématographique d'une déesse du feu émergeant de lave en fusion sous un ciel nocturne étoilé.
-
-#### 📝 Prompt
-
-```
-Créez une déesse du feu émergeant progressivement de la lave ardente. Elle n'est pas une déesse maléfique, ses yeux sont donc normaux. Elle est entièrement composée de feu et le ciel nocturne en arrière-plan est parsemé d'étoiles et d'éclairs.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070059497469644800/img/RV29vFQTGszbVWDn.jpg" width="600" alt="Déesse du feu émergeant de la lave">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6481)**
-
-**Author:** [Lynn Hocker](https://x.com/Auroraskye3993) | **Source:** [Link](https://x.com/Auroraskye3993/status/2070059787602317621) | **Published:** Jun 25, 2026
-
----
-### Animation d'une femme souriante faisant un signe de la main
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de génération vidéo représentant une femme qui sourit et fait un signe de la main avec un mouvement naturel et un effet de brise légère.
-
-#### 📝 Prompt
-
-```
-Elle affiche un sourire chaleureux et sincère tout en levant la main pour faire un signe amical vers la caméra, ses cheveux et sa capelette ondulant légèrement sous une brise douce. Mouvement fluide et naturel ; même éclairage de jour tamisé et arrière-plan en mur de briques.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070058371399798784/img/tAIcikHFdaJgOUit.jpg" width="600" alt="Animation d'une femme souriante faisant un signe de la main">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6483)**
-
-**Author:** [grok_imagine_free_user](https://x.com/FreeGrokUser) | **Source:** [Link](https://x.com/FreeGrokUser/status/2070058384959983811) | **Published:** Jun 25, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2257,6 +2257,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-10T07:58:21.707Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-10T11:28:27.746Z</sub>
 
 </div>

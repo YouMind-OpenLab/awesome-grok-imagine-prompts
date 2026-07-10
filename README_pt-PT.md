@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2060** |
+| 📝 Total Prompts | **2064** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-10** |
 
@@ -189,6 +189,82 @@ Uma Valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Prompt de Fantasia: Amanhecer Bioluminescente
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um belo prompt cinematográfico que descreve uma cena de amanhecer fantástico com luzes pulsantes e movimentos sutis.
+
+#### 📝 Prompt
+
+```
+Amanhecer lento da estrela da alvorada, flores bioluminescentes com luz pulsante, estandartes agitando-se em uma leve brisa noturna, brilho divino em uma armadura que respira suavemente.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075306107371974656/img/ZEKl6A-mpnvhQId8.jpg" width="600" alt="Prompt de Fantasia: Amanhecer Bioluminescente">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7012)**
+
+**Author:** [Terry Palmieri](https://x.com/TerryPalmieri14) | **Source:** [Link](https://x.com/TerryPalmieri14/status/2075306197566320781) | **Published:** Jul 9, 2026
+
+---
+### Ação de Tênis em Quadra de Grama
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt cinematográfico detalhado para uma partida de tênis, apresentando iluminação, física e movimentos de câmera específicos.
+
+#### 📝 Prompt
+
+```
+O tenista completa o movimento de forehand enquanto a bola amarela dispara pela quadra de grama. As cordas da raquete vibram, as lâminas de grama balançam com a brisa, a luz solar dourada reflete na bola e a atmosfera suave do estádio é capturada com um leve movimento de câmera para frente.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075286654127136768/img/BvYqUAVhqVp1FaO7.jpg" width="600" alt="Ação de Tênis em Quadra de Grama">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7010)**
+
+**Author:** [Robert Heinlein](https://x.com/strangerinastr) | **Source:** [Link](https://x.com/strangerinastr/status/2075286711521956062) | **Published:** Jul 9, 2026
+
+---
+### Mundo de Fantasia Imaginário de Tirar o Fôlego
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico massivo para uma paisagem de fantasia realista com montanhas flutuantes, florestas brilhantes e cachoeiras.
+
+#### 📝 Prompt
+
+```
+Um mundo imaginário de tirar o fôlego que parece completamente real, com montanhas flutuantes, árvores antigas gigantes, rios de cristal, florestas brilhantes, cachoeiras desaguando em lagos enevoados, nascer do sol dourado, nuvens dramáticas, pássaros exóticos, atmosfera pacífica, composição cinematográfica, ultra-fotorrealista, IMAX, HDR, iluminação volumétrica, cores naturais, hiperdetalhado, 8K, fotografia profissional, sem CGI, sem ilustração, parece um lugar real.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075106901357219840/img/BgbByrZssE0gXhLF.jpg" width="600" alt="Mundo de Fantasia Imaginário de Tirar o Fôlego">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7011)**
+
+**Author:** [Tesla Owners Silicon Valley](https://x.com/teslaownersSV) | **Source:** [Link](https://x.com/teslaownersSV/status/2075107002020471065) | **Published:** Jul 9, 2026
+
+---
+### Prompt de Sequência de Voo do Anjo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de fantasia detalhado que descreve um anjo em transição entre mundos com efeitos de texto dinâmicos.
+
+#### 📝 Prompt
+
+```
+O anjo do livro entra na sala onde o mundo é real, as palavras “GOD FIRST ALWAYS” se formam de maneira nebulosa enquanto ele voa em direção à lua
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075056939734609920/img/ZFXMqJXRT-Uv0faI.jpg" width="600" alt="Prompt de Sequência de Voo do Anjo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7013)**
+
+**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2075057016158986588) | **Published:** Jul 9, 2026
+
+---
 ### Animação Romântica em Esboço a Lápis
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2120,82 +2196,6 @@ Um ursinho fofo aproveitando um mergulho colorido! Desde chapinhar na superfíci
 **Author:** [Liam](https://x.com/LiamEvergreen) | **Source:** [Link](https://x.com/LiamEvergreen/status/2070170659813237231) | **Published:** Jun 25, 2026
 
 ---
-### O Anjo e o Gato Curioso
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cinematográfico e emocionante que apresenta um gato curioso e um anjo, com foco em iluminação e textura.
-
-#### 📝 Prompt
-
-```
-A tentação mais doce. Nem um anjo consegue resistir a um gato curioso… Uma pequena pena. Um rostinho muito sério. Um momento inesquecível.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070145797845651456/img/FL07IBEA8pSaJAj7.jpg" width="600" alt="O Anjo e o Gato Curioso">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6488)**
-
-**Author:** [猫神MT](https://x.com/nekogami_MT) | **Source:** [Link](https://x.com/nekogami_MT/status/2070145869404614826) | **Published:** Jun 25, 2026
-
----
-### Paisagem urbana de Dubai à noite
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt para uma sobreposição de texto 'Boa noite' em destaque sobre uma paisagem urbana cênica de Dubai.
-
-#### 📝 Prompt
-
-```
-Boa noite Dubai com o texto 'Boa noite' exibido em destaque na parte superior
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070134828750798848/img/FKT1EMEuTN10elrV.jpg" width="600" alt="Paisagem urbana de Dubai à noite">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6654)**
-
-**Author:** [Ijaz Malik](https://x.com/Ijazmalik101) | **Source:** [Link](https://x.com/Ijazmalik101/status/2070134888523763993) | **Published:** Jun 25, 2026
-
----
-### Deusa do Fogo emergindo da lava
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt de vídeo cinematográfico para uma deusa do fogo emergindo de lava derretida sob um céu noturno estrelado.
-
-#### 📝 Prompt
-
-```
-Crie uma deusa do fogo emergindo gradualmente da lava ardente. Ela não é uma deusa maligna, portanto seus olhos são normais. Ela é feita inteiramente de fogo e há estrelas e relâmpagos no céu noturno ao fundo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070059497469644800/img/RV29vFQTGszbVWDn.jpg" width="600" alt="Deusa do Fogo emergindo da lava">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6481)**
-
-**Author:** [Lynn Hocker](https://x.com/Auroraskye3993) | **Source:** [Link](https://x.com/Auroraskye3993/status/2070059787602317621) | **Published:** Jun 25, 2026
-
----
-### Animação de mulher sorrindo e acenando
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de geração de vídeo que retrata uma mulher sorrindo e acenando com movimento natural e um efeito de brisa suave.
-
-#### 📝 Prompt
-
-```
-Ela abre um sorriso caloroso e genuíno e levanta uma das mãos em um aceno amigável para a câmera, com o cabelo e a capa balançando levemente em uma brisa suave. Movimento suave e natural; mesma luz do dia suave e fundo de parede de tijolos.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070058371399798784/img/tAIcikHFdaJgOUit.jpg" width="600" alt="Animação de mulher sorrindo e acenando">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6483)**
-
-**Author:** [grok_imagine_free_user](https://x.com/FreeGrokUser) | **Source:** [Link](https://x.com/FreeGrokUser/status/2070058384959983811) | **Published:** Jun 25, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2257,6 +2257,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-10T07:58:25.815Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-10T11:28:32.062Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2060** |
+| 📝 Total Prompts | **2064** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-10** |
 
@@ -189,6 +189,82 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Biyolüminesans Şafak Fantastik İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Pulsar ışıklar ve hafif hareketlerle dolu fantastik bir şafak sahnesini betimleyen, sinematik ve büyüleyici bir istem.
+
+#### 📝 Prompt
+
+```
+Şafak yıldızının yavaş yükselişi, ışık saçan biyolüminesans çiçekler, hafif gece esintisinde dalgalanan sancaklar, zırh üzerinde yumuşak bir şekilde nefes alan ilahi bir ışıltı.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075306107371974656/img/ZEKl6A-mpnvhQId8.jpg" width="600" alt="Biyolüminesans Şafak Fantastik İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7012)**
+
+**Author:** [Terry Palmieri](https://x.com/TerryPalmieri14) | **Source:** [Link](https://x.com/TerryPalmieri14/status/2075306197566320781) | **Published:** Jul 9, 2026
+
+---
+### Çim Kort Tenis Aksiyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Belirli bir ışıklandırma, fizik ve kamera hareketlerini içeren, tenis maçına yönelik detaylı bir sinematik komut.
+
+#### 📝 Prompt
+
+```
+Tenis oyuncusu forehand vuruşunu tamamlarken sarı top çim kortta hızla ilerliyor. Raket telleri titriyor, çimler esintiyle dalgalanıyor, altın rengi güneş ışığı topun üzerinde parlıyor ve hafif bir kamera yakınlaştırmasıyla yumuşak bir stadyum atmosferi hissediliyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075286654127136768/img/BvYqUAVhqVp1FaO7.jpg" width="600" alt="Çim Kort Tenis Aksiyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7010)**
+
+**Author:** [Robert Heinlein](https://x.com/strangerinastr) | **Source:** [Link](https://x.com/strangerinastr/status/2075286711521956062) | **Published:** Jul 9, 2026
+
+---
+### Nefes Kesen Hayali Fantastik Dünya
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Uçan dağlar, ışıldayan ormanlar ve şelalelerle dolu gerçekçi bir fantastik manzara için devasa sinematik video istemi.
+
+#### 📝 Prompt
+
+```
+Tamamen gerçek görünen, uçan dağlar, devasa antik ağaçlar, kristal nehirler, ışıldayan ormanlar, sisli göllere dökülen şelaleler, altın rengi gün doğumu, dramatik bulutlar, egzotik kuşlar, huzurlu bir atmosfer, sinematik kompozisyon, ultra fotogerçekçi, IMAX, HDR, hacimsel aydınlatma, doğal renkler, hiper detaylı, 8K, profesyonel fotoğrafçılık, CGI yok, illüstrasyon yok, gerçek bir yer gibi görünen nefes kesici hayali bir dünya.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075106901357219840/img/BgbByrZssE0gXhLF.jpg" width="600" alt="Nefes Kesen Hayali Fantastik Dünya">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7011)**
+
+**Author:** [Tesla Owners Silicon Valley](https://x.com/teslaownersSV) | **Source:** [Link](https://x.com/teslaownersSV/status/2075107002020471065) | **Published:** Jul 9, 2026
+
+---
+### Angel Flight Sequence İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Dinamik metin efektleriyle dünyalar arasında geçiş yapan bir meleği betimleyen detaylı bir fantastik istem.
+
+#### 📝 Prompt
+
+```
+Kitaptaki melek, dünyanın gerçek olduğu odaya adım atar; o aya doğru uçarken “GOD FIRST ALWAYS” kelimeleri sisli bir şekilde belirir
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075056939734609920/img/ZFXMqJXRT-Uv0faI.jpg" width="600" alt="Angel Flight Sequence İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7013)**
+
+**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2075057016158986588) | **Published:** Jul 9, 2026
+
+---
 ### Romantik Kurşun Kalem Eskiz Animasyonu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2120,82 +2196,6 @@ Renkli sularda yüzmenin keyfini çıkaran sevimli küçük ayı! Suyun üzerind
 **Author:** [Liam](https://x.com/LiamEvergreen) | **Source:** [Link](https://x.com/LiamEvergreen/status/2070170659813237231) | **Published:** Jun 25, 2026
 
 ---
-### Melek ve Meraklı Kedi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Işık ve dokuya odaklanan, meraklı bir kedi ile bir meleğin yer aldığı iç ısıtan sinematik bir video istemi.
-
-#### 📝 Prompt
-
-```
-En Tatlı Cazibe. Bir melek bile meraklı bir kediyi durduramaz… Tek bir küçük tüy. Ciddi bir küçük yüz. Unutulmaz bir an.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070145797845651456/img/FL07IBEA8pSaJAj7.jpg" width="600" alt="Melek ve Meraklı Kedi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6488)**
-
-**Author:** [猫神MT](https://x.com/nekogami_MT) | **Source:** [Link](https://x.com/nekogami_MT/status/2070145869404614826) | **Published:** Jun 25, 2026
-
----
-### Dubai İyi Akşamlar Şehir Manzarası
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Etkileyici bir Dubai şehir manzarası üzerinde belirgin bir 'İyi akşamlar' metni için bir komut.
-
-#### 📝 Prompt
-
-```
-Üst kısımda belirgin bir şekilde 'İyi akşamlar' metni yazılı olan Dubai'ye iyi akşamlar
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070134828750798848/img/FKT1EMEuTN10elrV.jpg" width="600" alt="Dubai İyi Akşamlar Şehir Manzarası">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6654)**
-
-**Author:** [Ijaz Malik](https://x.com/Ijazmalik101) | **Source:** [Link](https://x.com/Ijazmalik101/status/2070134888523763993) | **Published:** Jun 25, 2026
-
----
-### Lavların İçinden Yükselen Ateş Tanrıçası
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Yıldızlı bir gece gökyüzü altında erimiş lavların içinden çıkan bir ateş tanrıçası için sinematik video istemi.
-
-#### 📝 Prompt
-
-```
-Ateşli lavların içinden yavaşça yükselen bir ateş Tanrıçası oluşturun. Kötü bir tanrıça değil, bu yüzden gözleri normal. Tamamen ateşten oluşuyor ve arka plandaki gece gökyüzünde yıldızlar ve şimşekler var.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070059497469644800/img/RV29vFQTGszbVWDn.jpg" width="600" alt="Lavların İçinden Yükselen Ateş Tanrıçası">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6481)**
-
-**Author:** [Lynn Hocker](https://x.com/Auroraskye3993) | **Source:** [Link](https://x.com/Auroraskye3993/status/2070059787602317621) | **Published:** Jun 25, 2026
-
----
-### Gülümseyen ve El Sallayan Kadın Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Doğal hareketler ve hafif esinti efektiyle gülümseyen ve el sallayan bir kadını tasvir eden bir video oluşturma istemi.
-
-#### 📝 Prompt
-
-```
-İçten ve samimi bir gülümsemeyle kameraya doğru dostça el sallar; saçları ve pelerini hafif bir esintiyle dalgalanır. Yumuşak, doğal hareketler; aynı yumuşak gün ışığı ve tuğla duvar arka planı.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070058371399798784/img/tAIcikHFdaJgOUit.jpg" width="600" alt="Gülümseyen ve El Sallayan Kadın Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6483)**
-
-**Author:** [grok_imagine_free_user](https://x.com/FreeGrokUser) | **Source:** [Link](https://x.com/FreeGrokUser/status/2070058384959983811) | **Published:** Jun 25, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2257,6 +2257,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-10T07:58:27.066Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-10T11:28:33.593Z</sub>
 
 </div>

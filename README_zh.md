@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **2060** |
+| 📝 提示词总数 | **2064** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-07-10** |
 
@@ -189,6 +189,82 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 生物发光黎明奇幻提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个精美的电影级提示词，描述了带有脉动光芒和细微动态的奇幻黎明场景。
+
+#### 📝 提示词
+
+```
+晨星缓慢升起，生物发光花朵闪烁着脉动光芒，旗帜在微弱的夜风中飘动，盔甲上笼罩着神圣的光辉，并伴随着轻柔的呼吸感。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075306107371974656/img/ZEKl6A-mpnvhQId8.jpg" width="600" alt="生物发光黎明奇幻提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7012)**
+
+**作者:** [Terry Palmieri](https://x.com/TerryPalmieri14) | **来源:** [Link](https://x.com/TerryPalmieri14/status/2075306197566320781) | **发布时间:** Jul 9, 2026
+
+---
+### 草地网球赛动态
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一份关于网球比赛的详细电影级提示词，包含特定的光影、物理效果和镜头运动。
+
+#### 📝 提示词
+
+```
+网球运动员完成正手挥拍动作，黄色的网球在草地球场上疾驰而过。球拍线震动，草叶在微风中摇曳，金色的阳光在球面上闪烁，营造出柔和的赛场氛围，并伴有细微的镜头推进效果。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075286654127136768/img/BvYqUAVhqVp1FaO7.jpg" width="600" alt="草地网球赛动态">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7010)**
+
+**作者:** [Robert Heinlein](https://x.com/strangerinastr) | **来源:** [Link](https://x.com/strangerinastr/status/2075286711521956062) | **发布时间:** Jul 9, 2026
+
+---
+### 令人惊叹的虚构奇幻世界
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于生成逼真奇幻景观的大型电影级视频提示词，包含浮空山脉、发光森林和瀑布。
+
+#### 📝 提示词
+
+```
+一个看起来完全真实、令人惊叹的虚构世界，包含浮空山脉、参天古树、水晶河流、发光森林、流入雾气缭绕湖泊的瀑布、金色日出、戏剧性的云层、奇异的鸟类、宁静的氛围，电影级构图，超写实，IMAX，HDR，体积光，自然色彩，超高细节，8K，专业摄影，无 CGI，非插画，看起来就像真实存在的地方。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075106901357219840/img/BgbByrZssE0gXhLF.jpg" width="600" alt="令人惊叹的虚构奇幻世界">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7011)**
+
+**作者:** [Tesla Owners Silicon Valley](https://x.com/teslaownersSV) | **来源:** [Link](https://x.com/teslaownersSV/status/2075107002020471065) | **发布时间:** Jul 9, 2026
+
+---
+### 天使飞行序列提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段详细的奇幻提示词，描述了天使在不同世界间穿梭的过程，并带有动态文字效果。
+
+#### 📝 提示词
+
+```
+书中的天使步入现实世界所在的房间，当他飞向月球时，“GOD FIRST ALWAYS”这几个字以星云般的方式浮现出来
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075056939734609920/img/ZFXMqJXRT-Uv0faI.jpg" width="600" alt="天使飞行序列提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7013)**
+
+**作者:** [the_light](https://x.com/the_light35) | **来源:** [Link](https://x.com/the_light35/status/2075057016158986588) | **发布时间:** Jul 9, 2026
+
+---
 ### 浪漫铅笔素描动画
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2120,82 +2196,6 @@ Elena 穿过闪烁的传送门，进入广阔的 Playroom，她环顾四周，�
 **作者:** [Liam](https://x.com/LiamEvergreen) | **来源:** [Link](https://x.com/LiamEvergreen/status/2070170659813237231) | **发布时间:** Jun 25, 2026
 
 ---
-### 天使与好奇猫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个温馨的电影感视频提示词，主角是一只好奇的猫和一位天使，重点展现光影与质感。
-
-#### 📝 提示词
-
-```
-最甜蜜的诱惑。即使是天使也无法阻挡一只好奇的猫…… 一片小小的羽毛，一张严肃的小脸，一个难忘的瞬间。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070145797845651456/img/FL07IBEA8pSaJAj7.jpg" width="600" alt="天使与好奇猫">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6488)**
-
-**作者:** [猫神MT](https://x.com/nekogami_MT) | **来源:** [Link](https://x.com/nekogami_MT/status/2070145869404614826) | **发布时间:** Jun 25, 2026
-
----
-### 迪拜傍晚城市景观
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于在迪拜风景优美的城市景观上叠加醒目“Good evening”文字的提示词。
-
-#### 📝 提示词
-
-```
-迪拜的傍晚，顶部醒目地显示着“Good evening”字样
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070134828750798848/img/FKT1EMEuTN10elrV.jpg" width="600" alt="迪拜傍晚城市景观">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6654)**
-
-**作者:** [Ijaz Malik](https://x.com/Ijazmalik101) | **来源:** [Link](https://x.com/Ijazmalik101/status/2070134888523763993) | **发布时间:** Jun 25, 2026
-
----
-### 从熔岩中升起的火焰女神
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 电影级视频提示词：一位火焰女神在星空下从炽热的熔岩中缓缓升起。
-
-#### 📝 提示词
-
-```
-创作一位从炽热熔岩中缓缓升起的火焰女神。她并非邪恶的女神，因此她的双眼看起来很正常。她完全由火焰构成，背景是点缀着繁星与闪电的夜空。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070059497469644800/img/RV29vFQTGszbVWDn.jpg" width="600" alt="从熔岩中升起的火焰女神">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6481)**
-
-**作者:** [Lynn Hocker](https://x.com/Auroraskye3993) | **来源:** [Link](https://x.com/Auroraskye3993/status/2070059787602317621) | **发布时间:** Jun 25, 2026
-
----
-### 女性微笑挥手动画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个视频生成提示词，描绘了一位女性微笑并挥手的场景，动作自然，带有微风拂过的效果。
-
-#### 📝 提示词
-
-```
-她露出温暖而真诚的笑容，向镜头友好地挥手，头发和披肩在微风中轻轻飘动。动作轻柔自然；保持柔和的日光和砖墙背景。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070058371399798784/img/tAIcikHFdaJgOUit.jpg" width="600" alt="女性微笑挥手动画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6483)**
-
-**作者:** [grok_imagine_free_user](https://x.com/FreeGrokUser) | **来源:** [Link](https://x.com/FreeGrokUser/status/2070058384959983811) | **发布时间:** Jun 25, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2257,6 +2257,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-07-10T07:58:08.080Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-07-10T11:28:11.479Z</sub>
 
 </div>
