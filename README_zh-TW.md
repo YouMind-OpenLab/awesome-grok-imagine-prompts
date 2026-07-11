@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **2064** |
+| 📝 提示詞總數 | **2069** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-07-11** |
 
@@ -189,6 +189,44 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 冰雪女王永凍宮殿影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段描述冰雪女王穿越永凍之地及其北極宮殿的影片生成提示詞。
+
+#### 📝 提示詞
+
+```
+冰雪女王（Snedronningen），即雪花或「雪蜂」的女王，她隨雪花遊歷世界各地。她的宮殿與花園位於永凍之地，具體來說是在斯匹次卑爾根群島（Spitsbergen）。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075688361616904192/img/O2dQTf94XaXvZ8ou.jpg" width="600" alt="冰雪女王永凍宮殿影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7062)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2075688977089139000) | **發布時間:** Jul 10, 2026
+
+---
+### 黑人海倫（Helen of Troy）電影感影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 此提示詞旨在生成一段黑人海倫的電影感影片，強調特定的文化呈現，而非傳統選角。
+
+#### 📝 提示詞
+
+```
+我不只是想要一位黑人女演員來飾演海倫，我想要的是一位「黑人海倫」。請製作那段影片。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075601009921957888/img/aN9beJL_fzdcvCfd.jpg" width="600" alt="黑人海倫（Helen of Troy）電影感影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7061)**
+
+**作者:** [Huff](https://x.com/Huff4Congress) | **來源:** [Link](https://x.com/Huff4Congress/status/2075601096253309265) | **發布時間:** Jul 10, 2026
+
+---
 ### 生物發光黎明奇幻提示詞
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -424,6 +462,25 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 **作者:** [Sub Pop Culture 🇺🇸🐿️](https://x.com/WriterMcG) | **來源:** [Link](https://x.com/WriterMcG/status/2074431744808264058) | **發布時間:** Jul 7, 2026
 
 ---
+### 溫柔巨人與發光蝴蝶動畫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個溫馨的敘事提示詞，主角為一位溫柔的巨人與一隻神奇的蝴蝶，用於 Gemini Omni 與其他影片模型之間的並排比較。
+
+#### 📝 提示詞
+
+```
+溫柔的巨人發現了一隻發光的蝴蝶……從孤獨的日落到星空下奇幻的友誼。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074412047656173568/img/PmeIz0AWd-B6Ynfs.jpg" width="600" alt="溫柔巨人與發光蝴蝶動畫">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6932)**
+
+**作者:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **來源:** [Link](https://x.com/Dheepanratnam/status/2074412218666414171) | **發布時間:** Jul 7, 2026
+
+---
 ### 七夕織女星空動畫
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -464,6 +521,25 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 **作者:** [Cicadas Francois Cosmos 🇯🇵](https://x.com/FC_Cicadas) | **來源:** [Link](https://x.com/FC_Cicadas/status/2074356506334822402) | **發布時間:** Jul 7, 2026
 
 ---
+### 女子與古龍
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個敘事影片提示詞，描述一名女子游向廢墟城市中的一條古龍，強調「存在感」而非衝突。
+
+#### 📝 提示詞
+
+```
+她直接游向那條龍，在牠身旁顯得如此渺小。不是為了戰鬥，也不是為了逃跑。只是單純地存在於此，在一個讓身後廢墟城市看起來如同兒童玩具般的龐然大物面前。圍繞著她們的水域，沉澱著古老的故事。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074351738916945920/img/DN5W4PjaZPXMXP3N.jpg" width="600" alt="女子與古龍">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7063)**
+
+**作者:** [⭕Kisalay](https://x.com/Kisalay_) | **來源:** [Link](https://x.com/Kisalay_/status/2074351816167563613) | **發布時間:** Jul 7, 2026
+
+---
 ### 浣熊 Pippin 對話場景
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -491,6 +567,27 @@ Pippin
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6890)**
 
 **作者:** [Carina](https://x.com/Freehere8) | **來源:** [Link](https://x.com/Freehere8/status/2074205457116430719) | **發布時間:** Jul 6, 2026
+
+---
+### 珊瑚王國海之女神影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個關於海之女神的詳細影片提示詞，她擁有紫金雙瞳，在珊瑚王國中掌控著海洋與魚群。
+
+#### 📝 提示詞
+
+```
+她舉起手，大海便隨之起舞。珊瑚王國在她掌中，魚群穿梭於她那化作水與光芒的指尖。
+
+她的雙眼同時訴說著兩個故事，一隻如深海般紫羅蘭色，另一隻如波光粼粼的金色陽光。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074135555185811456/img/cQEtJba5Tny5k2e2.jpg" width="600" alt="珊瑚王國海之女神影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7064)**
+
+**作者:** [⭕Kisalay](https://x.com/Kisalay_) | **來源:** [Link](https://x.com/Kisalay_/status/2074146361805819955) | **發布時間:** Jul 6, 2026
 
 ---
 ### 北極海海市蜃樓影片
@@ -2101,101 +2198,6 @@ Mira 引導鏡頭進行一場趣味導覽，深入「Attack of the 50 Foot House
 **作者:** [⭕Kisalay](https://x.com/Kisalay_) | **來源:** [Link](https://x.com/Kisalay_/status/2070243131253989767) | **發布時間:** Jun 25, 2026
 
 ---
-### 天穹之紗與遺忘之星
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個充滿詩意的提示詞，旨在生成一段神秘的影片場景，展現星光從宇宙面紗中浮現的景象。
-
-#### 📝 提示詞
-
-```
-從永恆的陰影中，我喚醒了織物，面紗隨之散開，凝視那遺忘之星的光芒
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070240737728528384/img/5-6YWwqCjfFiH52L.jpg" width="600" alt="天穹之紗與遺忘之星">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6480)**
-
-**作者:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **來源:** [Link](https://x.com/TLouisevsughan/status/2070240789201109025) | **發布時間:** Jun 25, 2026
-
----
-### 奇幻傳送門場景敘事
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段描述性敘事提示詞，用於呈現角色穿過閃爍的傳送門，進入魔法遊戲室的影片。
-
-#### 📝 提示詞
-
-```
-Elena 穿過閃爍的傳送門進入廣闊的 Playroom，她睜大雙眼，神情充滿好奇與興奮。Krampus 張開雙臂，熱情地向眾人示意。Holly 帶著燦爛的笑容向前跳躍，俏皮地挽起手臂。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070235831818756096/img/dFvaEDOD_8Hhk_SD.jpg" width="600" alt="奇幻傳送門場景敘事">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6479)**
-
-**作者:** [Chronicles of Petecastic](https://x.com/MrPetecastic) | **來源:** [Link](https://x.com/MrPetecastic/status/2070235889586889042) | **發布時間:** Jun 25, 2026
-
----
-### 情緒激動的憤怒情侶戲劇
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個專注於微表情與獨立電影戲劇感的情侶影片提示詞。
-
-#### 📝 提示詞
-
-```
-創作一個情緒激動的憤怒情侶場景，包含精簡有力的對話、適當且細膩的微表情，採用暖色調調色，搭配主光與補光，使用變形鏡頭，無螢幕文字，呈現情緒複雜但細膩的適當角度，主角為年輕的美國情侶，具備獨立電影的戲劇感，包含憤怒與停頓，以展現完整的情緒張力。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070218111413035009/img/K5v2YoeYSUocr6rw.jpg" width="600" alt="情緒激動的憤怒情侶戲劇">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6482)**
-
-**作者:** [Kiri](https://x.com/Kyrannio) | **來源:** [Link](https://x.com/Kyrannio/status/2070218164609405380) | **發布時間:** Jun 25, 2026
-
----
-### 天界生物編織星座
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段充滿想像力的影片提示詞，描繪了神秘生物用光之絲線編織星辰的畫面。
-
-#### 📝 提示詞
-
-```
-天界生物正緩慢地用光之絲線將星座編織在一起。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070204889674760192/img/h9MGPkeZh7Lae6zN.jpg" width="600" alt="天界生物編織星座">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6485)**
-
-**作者:** [Maer](https://x.com/Maer4real) | **來源:** [Link](https://x.com/Maer4real/status/2070204948281737574) | **發布時間:** Jun 25, 2026
-
----
-### 可愛小熊游泳與潛水
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段迷人的影片提示詞，描述一隻可愛的小熊在色彩繽紛的水中游泳，並像專業選手一樣潛水。
-
-#### 📝 提示詞
-
-```
-可愛小熊享受色彩繽紛的游泳時光！從水面戲水到像專業選手一樣潛入水底
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070170351917797376/img/ErO4qUhEGSf6fJ5M.jpg" width="600" alt="可愛小熊游泳與潛水">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6655)**
-
-**作者:** [Liam](https://x.com/LiamEvergreen) | **來源:** [Link](https://x.com/LiamEvergreen/status/2070170659813237231) | **發布時間:** Jun 25, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2257,6 +2259,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-07-11T06:37:29.456Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-07-11T09:59:42.228Z</sub>
 
 </div>

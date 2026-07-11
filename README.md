@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2064** |
+| 📝 Total Prompts | **2069** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-11** |
 
@@ -189,6 +189,44 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Snow Queen Permafrost Palace Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A descriptive prompt for generating a video of the Snow Queen traveling through permafrost lands and her arctic palace.
+
+#### 📝 Prompt
+
+```
+The Snow Queen (Snedronningen), the queen of the snowflakes or "snow-bees", who travels throughout the world with the snow. Her palace and gardens are in the lands of permafrost, specifically Spitsbergen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075688361616904192/img/O2dQTf94XaXvZ8ou.jpg" width="600" alt="Snow Queen Permafrost Palace Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7062)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2075688977089139000) | **Published:** Jul 10, 2026
+
+---
+### Black Helen of Troy Cinematic Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt designed to generate a cinematic video of a Black Helen of Troy, emphasizing specific cultural representation over standard casting.
+
+#### 📝 Prompt
+
+```
+I don’t simply want a black actress playing Helen of Troy. I want a Black Helen of Troy. Make that video.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075601009921957888/img/aN9beJL_fzdcvCfd.jpg" width="600" alt="Black Helen of Troy Cinematic Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7061)**
+
+**Author:** [Huff](https://x.com/Huff4Congress) | **Source:** [Link](https://x.com/Huff4Congress/status/2075601096253309265) | **Published:** Jul 10, 2026
+
+---
 ### Bioluminescent Dawn Fantasy Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -284,33 +322,33 @@ Romantic floating animation behind the pencil sketch couple: countless kiss mark
 **Author:** [joscilene Laura](https://x.com/joscilene_maria) | **Source:** [Link](https://x.com/joscilene_maria/status/2074851707507355664) | **Published:** Jul 8, 2026
 
 ---
-### Korean Rural House Summer Video
+### Nostalgic Korean Country House Summer Afternoon
 
 ![한국어](https://img.shields.io/badge/lang-한국어-orange)
 
-> A cinematic 4K video prompt for generating a nostalgic and peaceful summer scene inside a traditional Korean rural house, featuring sunlight, triangular watermelon slices, and a rotating floor fan.
+> A highly detailed cinematic video prompt for Grok Imagine capturing a serene summer afternoon inside a traditional Korean wooden house with sunlight and fresh watermelon.
 
 #### 📝 Prompt
 
 ```
-A clear and fresh 10-second summer video set inside the living room of an old wooden Korean rural house. Clean and bright sunlight enters through the open doors and windows, and the wooden floor and old wooden walls create a warm and nostalgic rural house atmosphere. Overall, it feels like a bright and airy summer afternoon.
+A clear and refreshing 10-second summer video unfolding inside the living room of an old wooden Korean country house. Clean and bright sunlight enters through open doors and windows, and wooden floors and old wooden walls create a warm and friendly atmosphere. Overall, it feels like a bright and airy summer afternoon.
 
-The door is wide open, and outside the door, fresh green trees and leaves are swaying slightly in the wind. The outside looks clear and blue, peaceful like a quiet rural summer afternoon.
+The door is wide open, and outside the door, fresh green trees and leaves are swaying slightly in the wind. The outside is bright and blue, and looks peaceful like a quiet country summer afternoon.
 
-A round metal tray is placed on a low wooden table. Watermelon slices are only placed inside the tray and not directly on the table. Five or six fresh triangular watermelon slices are neatly arranged on the tray. Each watermelon slice is not half-moon shaped, but a typical triangular slice with a pointed top and short green rind at the bottom. When viewed from the camera, the red flesh side looks like a clear triangle, and the green rind is naturally attached along the bottom edge of the triangle. The watermelon is not too thick, but thin and fresh, showing the moist red flesh, small black seeds, and the feeling of fresh, cold summer watermelon.
+On a low wooden table sits a round metal tray. Watermelon slices must be placed only inside the tray and not directly on the table. There are 5-6 fresh triangular watermelon slices neatly arranged on the tray. Each watermelon slice is not half-moon shaped, but a typical triangular watermelon slice with a pointed top and a short green skin at the bottom. When viewed from the camera, the red pulp surface looks like a clear triangle, and the green skin is naturally attached along the bottom edge of the triangle. The watermelon is not too thick, but thin and refreshing, and the moist red pulp, small black seeds, and fresh and cold summer watermelon feel are well visible.
 
-Next to the tray lies a summer picture diary note drawn with colored pencils, but the text is unreadable. Several colored pencils are naturally placed around the picture diary, slightly scattered but looking lived-in rather than messy.
+Next to the tray is a summer picture diary note drawn with colored pencils, but the letters are not readable. Several colored pencils are placed naturally around the picture diary, slightly scattered but not messy and looking like they have a sense of life.
 
-An old electric fan is placed on the wooden floor next to the table, rotating slowly from side to side with its blades turning. The fan's breeze moves the curtains and the pages of the picture diary slightly, and although it's a hot summer day with sunshine, the room feels cool and relaxed.
+An old electric fan is placed on the wooden floor next to the table, rotating slowly from side to side with its blades turning. The fan wind moves the curtains and picture diary pages slightly, and although it is a hot summer day, the room feels cool and relaxed.
 
-Nostalgic atmosphere of a Korean rural house, clear sunlight, fresh green trees, well-ventilated wooden living room, soft shadows, realistic textures, peaceful summer afternoon, quiet and relaxed atmosphere, cinematic 4K, natural light, triangular watermelon slices on a metal tray and a picture diary, camera slowly approaching the floor fan. No people.
+Nostalgic atmosphere of a Korean country house, clear sunlight, fresh green trees, well-ventilated wooden living room, soft shadows, realistic texture, peaceful summer afternoon, quiet and relaxed atmosphere, cinematic 4K, natural light, triangular watermelon slices on a metal tray, picture diary, camera movement slowly approaching the floor fan. No people.
 
-Video length: 10 seconds. Aspect ratio: 16:9. Atmosphere: Bright, fresh, nostalgic, peaceful, cool fan breeze on a clear summer day.
+Video length: 10 seconds. Aspect ratio: 16:9. Atmosphere: Bright, fresh, nostalgic, peaceful, cool fan wind on a clear summer day.
 
-Negative Prompt: Half-moon shaped watermelon, crescent-shaped watermelon, round sliced watermelon, circularly cut watermelon, watermelon placed directly on the table, watermelon outside the tray, fruit floating in the air, strange watermelon shapes, geometrically too rigid triangles, distorted watermelon slices, melting fruit, too thick watermelon slices, thick chunks of watermelon, cube-shaped watermelon, unevenly broken pieces, excessively large watermelon rind, artificial-looking fruit, pale and dry watermelon, watermelon piled in the center, messy fruit arrangement, dark room, gloomy lighting, modern apartment, people, hands, faces, readable text, subtitles, logos, watermarks, distorted fan, blurry image, low quality, shaky camera.
+Negative Prompt: Half-moon shaped watermelon, crescent-shaped watermelon, round sliced watermelon, circular cut watermelon, watermelon placed directly on the table, watermelon outside the tray, fruit floating in the air, strange watermelon shape, geometrically too hard triangle, distorted watermelon slices, melted fruit, too thick watermelon slices, thick chunk watermelon, cube shaped watermelon, bumpy broken pieces, excessively large watermelon skin, artificial looking fruit, pale and dry watermelon, watermelon stacked in the middle, messy fruit arrangement, dark room, gloomy lighting, modern apartment, people, hands, face, readable letters, subtitles, logo, watermark, distorted fan, blurry image, low quality, shaky camera.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074491828473393153/img/7RlihPIyY87TipaM.jpg" width="600" alt="Korean Rural House Summer Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074491828473393153/img/7RlihPIyY87TipaM.jpg" width="600" alt="Nostalgic Korean Country House Summer Afternoon">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6975)**
 
@@ -424,6 +462,25 @@ Highly cinematic, heartfelt, whimsical but grounded, realistic textures, authent
 **Author:** [Sub Pop Culture 🇺🇸🐿️](https://x.com/WriterMcG) | **Source:** [Link](https://x.com/WriterMcG/status/2074431744808264058) | **Published:** Jul 7, 2026
 
 ---
+### Giant and Glowing Butterfly
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A heartwarming story about a gentle giant finding a glowing butterfly at sunset, turning into a magical friendship under the stars.
+
+#### 📝 Prompt
+
+```
+Gentle giant finds a glowing butterfly… from lonely sunset to magical friendship under the stars.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074412047656173568/img/PmeIz0AWd-B6Ynfs.jpg" width="600" alt="Giant and Glowing Butterfly">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6932)**
+
+**Author:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Source:** [Link](https://x.com/Dheepanratnam/status/2074412218666414171) | **Published:** Jul 7, 2026
+
+---
 ### Tanabata Weaver Princess Cosmic Animation
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -464,6 +521,25 @@ No dialogue
 **Author:** [Cicadas Francois Cosmos 🇯🇵](https://x.com/FC_Cicadas) | **Source:** [Link](https://x.com/FC_Cicadas/status/2074356506334822402) | **Published:** Jul 7, 2026
 
 ---
+### Woman and Ancient Dragon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A narrative video prompt featuring a woman swimming toward an ancient dragon in a ruined city, emphasizing presence over conflict.
+
+#### 📝 Prompt
+
+```
+She swims directly toward the dragon, small beside it. To not fight. Not to run. Just to be there, in the presence of something that makes the ruined city behind her seem like children's toys. The water surrounding them is heavy with old stories.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074351738916945920/img/DN5W4PjaZPXMXP3N.jpg" width="600" alt="Woman and Ancient Dragon">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7063)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2074351816167563613) | **Published:** Jul 7, 2026
+
+---
 ### Raccoon Pippin Dialogue Scene
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -491,6 +567,27 @@ Pippin
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6890)**
 
 **Author:** [Carina](https://x.com/Freehere8) | **Source:** [Link](https://x.com/Freehere8/status/2074205457116430719) | **Published:** Jul 6, 2026
+
+---
+### Coral Kingdom Sea Goddess Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly descriptive video prompt of a sea goddess with violet and gold eyes controlling the ocean and fish within a coral kingdom.
+
+#### 📝 Prompt
+
+```
+She raises her hand and the sea obeys. A coral kingdom in her hand Fish darting through fingers That have turned to water and light.
+
+Her eyes tell two stories at once, one violet like the deep and one golden like the sunlight on waves.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074135555185811456/img/cQEtJba5Tny5k2e2.jpg" width="600" alt="Coral Kingdom Sea Goddess Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7064)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2074146361805819955) | **Published:** Jul 6, 2026
 
 ---
 ### Superior Mirage Arctic Sea Video
@@ -2099,101 +2196,6 @@ The tunnel doesn’t forgive hesitation. He launches off the broken concrete lik
 **Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2070243131253989767) | **Published:** Jun 25, 2026
 
 ---
-### Celestial Veil and Forgotten Stars
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A poetic prompt generating a mystical video scene of starlight emerging from a cosmic veil.
-
-#### 📝 Prompt
-
-```
-From the shadows of internity, I a waken the weave, the veil parts, behold the light of forgotten stars
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070240737728528384/img/5-6YWwqCjfFiH52L.jpg" width="600" alt="Celestial Veil and Forgotten Stars">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6480)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2070240789201109025) | **Published:** Jun 25, 2026
-
----
-### Fantasy Portal Scene Narrative
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A descriptive narrative prompt for a video showing a character stepping through a shimmering portal into a magical playroom.
-
-#### 📝 Prompt
-
-```
-Elena steps through the shimmering portal into the vast Playroom, looking around with wide-eyed intrigue and excitement. Krampus gestures welcomingly with open arms toward the group. Holly bounces forward with a bright smile, linking arms playfully.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070235831818756096/img/dFvaEDOD_8Hhk_SD.jpg" width="600" alt="Fantasy Portal Scene Narrative">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6479)**
-
-**Author:** [Chronicles of Petecastic](https://x.com/MrPetecastic) | **Source:** [Link](https://x.com/MrPetecastic/status/2070235889586889042) | **Published:** Jun 25, 2026
-
----
-### Emotional Angry Couple Drama
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An emotional video prompt focused on micro-expressions and indie film drama between a couple.
-
-#### 📝 Prompt
-
-```
-Create an emotional scene of an angry couple, limited punchy dialogue, appropriate subtle micro expressions, warm color grading with key fill light and anamorphic lensing no onscreen text, emotionally complex but subtle proper angles, younger American couple with indie film drama sensibility with anger and pauses for a full range
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070218111413035009/img/K5v2YoeYSUocr6rw.jpg" width="600" alt="Emotional Angry Couple Drama">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6482)**
-
-**Author:** [Kiri](https://x.com/Kyrannio) | **Source:** [Link](https://x.com/Kyrannio/status/2070218164609405380) | **Published:** Jun 25, 2026
-
----
-### Celestial Creatures Knitting Constellations
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An imaginative video prompt depicting mystical creatures knitting stars with threads of light.
-
-#### 📝 Prompt
-
-```
-Celestial creatures slowly knitting constellations together with threads of light.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070204889674760192/img/h9MGPkeZh7Lae6zN.jpg" width="600" alt="Celestial Creatures Knitting Constellations">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6485)**
-
-**Author:** [Maer](https://x.com/Maer4real) | **Source:** [Link](https://x.com/Maer4real/status/2070204948281737574) | **Published:** Jun 25, 2026
-
----
-### Cute Bear Swimming and Diving
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A charming video prompt featuring a cute bear cub swimming in colorful water and diving like a professional.
-
-#### 📝 Prompt
-
-```
-Cute little bear enjoying a colorful swim! From splashing on top to diving underwater like a pro
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070170351917797376/img/ErO4qUhEGSf6fJ5M.jpg" width="600" alt="Cute Bear Swimming and Diving">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6655)**
-
-**Author:** [Liam](https://x.com/LiamEvergreen) | **Source:** [Link](https://x.com/LiamEvergreen/status/2070170659813237231) | **Published:** Jun 25, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2255,6 +2257,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-11T06:37:26.700Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-11T09:59:39.199Z</sub>
 
 </div>

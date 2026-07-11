@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **2064** |
+| 📝 총 프롬프트 수 | **2069** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-07-11** |
 
@@ -189,6 +189,44 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 눈의 여왕 영구동토 궁전 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 눈의 여왕이 영구동토 지대와 그녀의 북극 궁전을 여행하는 영상을 생성하기 위한 설명형 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+눈의 여왕(Snedronningen)은 눈송이 또는 "눈벌(snow-bees)"의 여왕으로, 눈과 함께 전 세계를 여행합니다. 그녀의 궁전과 정원은 영구동토 지대, 특히 스피츠베르겐에 위치해 있습니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075688361616904192/img/O2dQTf94XaXvZ8ou.jpg" width="600" alt="눈의 여왕 영구동토 궁전 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7062)**
+
+**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2075688977089139000) | **게시일:** Jul 10, 2026
+
+---
+### 흑인 트로이의 헬레네 시네마틱 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 일반적인 캐스팅을 넘어 특정 문화적 표현을 강조한, 흑인 트로이의 헬레네 시네마틱 영상을 생성하기 위한 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+단순히 흑인 배우가 트로이의 헬레네를 연기하는 것을 원하는 게 아닙니다. 저는 '흑인 트로이의 헬레네' 그 자체를 원합니다. 그런 영상을 만들어 주세요.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075601009921957888/img/aN9beJL_fzdcvCfd.jpg" width="600" alt="흑인 트로이의 헬레네 시네마틱 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7061)**
+
+**작성자:** [Huff](https://x.com/Huff4Congress) | **출처:** [Link](https://x.com/Huff4Congress/status/2075601096253309265) | **게시일:** Jul 10, 2026
+
+---
 ### 생체 발광 새벽 판타지 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -424,6 +462,25 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 **작성자:** [Sub Pop Culture 🇺🇸🐿️](https://x.com/WriterMcG) | **출처:** [Link](https://x.com/WriterMcG/status/2074431744808264058) | **게시일:** Jul 7, 2026
 
 ---
+### 온순한 거인과 빛나는 나비 애니메이션
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 온순한 거인과 마법 같은 나비가 등장하는 가슴 따뜻한 스토리텔링 프롬프트로, Gemini Omni와 다른 비디오 모델을 나란히 비교하는 데 사용됩니다.
+
+#### 📝 프롬프트
+
+```
+온순한 거인이 빛나는 나비를 발견하다… 외로운 노을에서 별빛 아래 마법 같은 우정으로 이어지는 이야기.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074412047656173568/img/PmeIz0AWd-B6Ynfs.jpg" width="600" alt="온순한 거인과 빛나는 나비 애니메이션">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6932)**
+
+**작성자:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **출처:** [Link](https://x.com/Dheepanratnam/status/2074412218666414171) | **게시일:** Jul 7, 2026
+
+---
 ### 칠석 견우와 직녀 우주 애니메이션
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -464,6 +521,25 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 **작성자:** [Cicadas Francois Cosmos 🇯🇵](https://x.com/FC_Cicadas) | **출처:** [Link](https://x.com/FC_Cicadas/status/2074356506334822402) | **게시일:** Jul 7, 2026
 
 ---
+### 여성과 고대 용
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 폐허가 된 도시에서 고대 용을 향해 헤엄치는 여성을 담은 내러티브 비디오 프롬프트로, 갈등보다는 존재감에 중점을 둡니다.
+
+#### 📝 프롬프트
+
+```
+그녀는 용을 향해 곧장 헤엄쳐 갑니다. 용 옆에 있으니 그녀는 작게만 보입니다. 싸우기 위해서도, 도망치기 위해서도 아닙니다. 그저 뒤에 있는 폐허가 된 도시를 마치 아이들의 장난감처럼 보이게 만드는 존재와 함께하기 위해서입니다. 그들을 둘러싼 물속에는 오래된 이야기들이 묵직하게 깔려 있습니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074351738916945920/img/DN5W4PjaZPXMXP3N.jpg" width="600" alt="여성과 고대 용">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7063)**
+
+**작성자:** [⭕Kisalay](https://x.com/Kisalay_) | **출처:** [Link](https://x.com/Kisalay_/status/2074351816167563613) | **게시일:** Jul 7, 2026
+
+---
 ### 너구리 피핀(Pippin) 대화 장면
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -491,6 +567,27 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6890)**
 
 **작성자:** [Carina](https://x.com/Freehere8) | **출처:** [Link](https://x.com/Freehere8/status/2074205457116430719) | **게시일:** Jul 6, 2026
+
+---
+### 산호 왕국의 바다 여신 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 산호 왕국 속에서 바다와 물고기를 다스리는, 보랏빛과 금빛 눈을 가진 바다 여신을 묘사한 매우 상세한 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+그녀가 손을 들어 올리자 바다가 복종한다. 그녀의 손안에 있는 산호 왕국, 물과 빛으로 변한 그녀의 손가락 사이를 물고기들이 빠르게 헤엄쳐 다닌다.
+
+그녀의 두 눈은 동시에 두 가지 이야기를 들려준다. 하나는 깊은 바다처럼 보랏빛이고, 다른 하나는 파도 위로 부서지는 햇살처럼 금빛이다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074135555185811456/img/cQEtJba5Tny5k2e2.jpg" width="600" alt="산호 왕국의 바다 여신 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7064)**
+
+**작성자:** [⭕Kisalay](https://x.com/Kisalay_) | **출처:** [Link](https://x.com/Kisalay_/status/2074146361805819955) | **게시일:** Jul 6, 2026
 
 ---
 ### 북극해의 상위 신기루 영상
@@ -2101,101 +2198,6 @@ Mira가 'Attack of the 50 Foot Housewife' 미니어처 하우스 세트 내부�
 **작성자:** [⭕Kisalay](https://x.com/Kisalay_) | **출처:** [Link](https://x.com/Kisalay_/status/2070243131253989767) | **게시일:** Jun 25, 2026
 
 ---
-### 천상의 베일과 잊혀진 별들
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 우주적 베일 속에서 쏟아져 나오는 별빛의 신비로운 영상 장면을 생성하기 위한 시적인 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-영겁의 그림자 속에서 나는 직물을 깨우고, 베일이 갈라지니, 잊혀진 별들의 빛을 보라
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070240737728528384/img/5-6YWwqCjfFiH52L.jpg" width="600" alt="천상의 베일과 잊혀진 별들">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6480)**
-
-**작성자:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **출처:** [Link](https://x.com/TLouisevsughan/status/2070240789201109025) | **게시일:** Jun 25, 2026
-
----
-### 판타지 포털 장면 내러티브
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 캐릭터가 반짝이는 포털을 통해 마법 같은 놀이방으로 들어가는 장면을 묘사한 비디오용 내러티브 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-Elena 가 반짝이는 포털을 지나 광활한 Playroom 으로 들어서며 호기심과 흥분이 가득한 눈으로 주위를 둘러봅니다. Krampus 는 두 팔을 벌려 일행을 환영하는 제스처를 취합니다. Holly 는 밝은 미소를 지으며 앞으로 달려 나와 장난스럽게 팔짱을 낍니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070235831818756096/img/dFvaEDOD_8Hhk_SD.jpg" width="600" alt="판타지 포털 장면 내러티브">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6479)**
-
-**작성자:** [Chronicles of Petecastic](https://x.com/MrPetecastic) | **출처:** [Link](https://x.com/MrPetecastic/status/2070235889586889042) | **게시일:** Jun 25, 2026
-
----
-### 감정적인 분노의 커플 드라마
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 커플 간의 미세한 표정과 인디 영화적 드라마에 초점을 맞춘 감정적인 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-분노한 커플의 감정적인 장면을 연출해 주세요. 간결하고 강렬한 대사, 적절하고 미묘한 미세 표정, 키 필 라이트(key fill light)와 아나모픽 렌즈를 사용한 따뜻한 색감 보정을 적용하세요. 화면 내 텍스트는 없어야 하며, 감정적으로 복잡하지만 미묘한 적절한 앵글을 사용하세요. 인디 영화의 감성이 느껴지는 젊은 미국인 커플이 분노와 침묵을 통해 폭넓은 감정을 표현하는 장면을 만들어 주세요.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070218111413035009/img/K5v2YoeYSUocr6rw.jpg" width="600" alt="감정적인 분노의 커플 드라마">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6482)**
-
-**작성자:** [Kiri](https://x.com/Kyrannio) | **출처:** [Link](https://x.com/Kyrannio/status/2070218164609405380) | **게시일:** Jun 25, 2026
-
----
-### 별자리를 뜨개질하는 천상의 존재들
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 빛의 실로 별을 뜨개질하는 신비로운 생명체를 묘사한 상상력이 돋보이는 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-빛의 실을 이용해 천천히 별자리를 뜨개질하고 있는 천상의 존재들.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070204889674760192/img/h9MGPkeZh7Lae6zN.jpg" width="600" alt="별자리를 뜨개질하는 천상의 존재들">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6485)**
-
-**작성자:** [Maer](https://x.com/Maer4real) | **출처:** [Link](https://x.com/Maer4real/status/2070204948281737574) | **게시일:** Jun 25, 2026
-
----
-### 수영하고 다이빙하는 귀여운 곰
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 알록달록한 물속에서 수영하며 프로처럼 다이빙하는 귀여운 아기 곰을 담은 매력적인 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-알록달록한 물속에서 수영을 즐기는 귀여운 아기 곰! 물 위에서 첨벙거리는 모습부터 프로처럼 물속으로 다이빙하는 모습까지 모두 담았습니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070170351917797376/img/ErO4qUhEGSf6fJ5M.jpg" width="600" alt="수영하고 다이빙하는 귀여운 곰">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6655)**
-
-**작성자:** [Liam](https://x.com/LiamEvergreen) | **출처:** [Link](https://x.com/LiamEvergreen/status/2070170659813237231) | **게시일:** Jun 25, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2257,6 +2259,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-11T06:37:32.242Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-11T09:59:45.084Z</sub>
 
 </div>

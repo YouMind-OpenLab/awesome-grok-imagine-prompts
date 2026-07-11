@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2064** |
+| 📝 Total Prompts | **2069** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-11** |
 
@@ -189,6 +189,44 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### วิดีโอพระราชวังน้ำแข็งของราชินีหิมะ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง (Prompt) สำหรับสร้างวิดีโอการเดินทางของราชินีหิมะผ่านดินแดนชั้นดินเยือกแข็งคงตัวและพระราชวังอาร์กติกของเธอ
+
+#### 📝 Prompt
+
+```
+ราชินีหิมะ (Snedronningen) ผู้เป็นราชินีแห่งเกล็ดหิมะหรือ "ฝูงผึ้งหิมะ" ผู้เดินทางไปทั่วโลกพร้อมกับหิมะ พระราชวังและสวนของเธอตั้งอยู่ในดินแดนชั้นดินเยือกแข็งคงตัว โดยเฉพาะอย่างยิ่งที่สฟาลบาร์ (Spitsbergen)
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075688361616904192/img/O2dQTf94XaXvZ8ou.jpg" width="600" alt="วิดีโอพระราชวังน้ำแข็งของราชินีหิมะ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7062)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2075688977089139000) | **Published:** Jul 10, 2026
+
+---
+### วิดีโอภาพยนตร์ Black Helen of Troy
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์ที่ออกแบบมาเพื่อสร้างวิดีโอในรูปแบบภาพยนตร์ของ Black Helen of Troy โดยเน้นการนำเสนอทางวัฒนธรรมที่เฉพาะเจาะจงมากกว่าการคัดเลือกนักแสดงแบบทั่วไป
+
+#### 📝 Prompt
+
+```
+ฉันไม่ได้ต้องการแค่นักแสดงผิวดำมารับบท Helen of Troy แต่ฉันต้องการ Black Helen of Troy จริงๆ ช่วยสร้างวิดีโอนั้นให้หน่อย
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075601009921957888/img/aN9beJL_fzdcvCfd.jpg" width="600" alt="วิดีโอภาพยนตร์ Black Helen of Troy">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7061)**
+
+**Author:** [Huff](https://x.com/Huff4Congress) | **Source:** [Link](https://x.com/Huff4Congress/status/2075601096253309265) | **Published:** Jul 10, 2026
+
+---
 ### พรอมต์แฟนตาซีรุ่งอรุณแห่งแสงชีวภาพ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -424,6 +462,25 @@ Why use our gallery?
 **Author:** [Sub Pop Culture 🇺🇸🐿️](https://x.com/WriterMcG) | **Source:** [Link](https://x.com/WriterMcG/status/2074431744808264058) | **Published:** Jul 7, 2026
 
 ---
+### แอนิเมชันยักษ์ใจดีกับผีเสื้อเรืองแสง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับการเล่าเรื่องสุดอบอุ่นหัวใจที่มีตัวละครยักษ์ใจดีและผีเสื้อวิเศษ ใช้สำหรับการเปรียบเทียบประสิทธิภาพระหว่าง Gemini Omni และโมเดลวิดีโออื่น ๆ แบบเคียงข้างกัน
+
+#### 📝 Prompt
+
+```
+ยักษ์ใจดีพบกับผีเสื้อเรืองแสง... จากยามเย็นที่แสนเหงา สู่มิตรภาพอันน่าอัศจรรย์ใต้แสงดาว
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074412047656173568/img/PmeIz0AWd-B6Ynfs.jpg" width="600" alt="แอนิเมชันยักษ์ใจดีกับผีเสื้อเรืองแสง">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6932)**
+
+**Author:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Source:** [Link](https://x.com/Dheepanratnam/status/2074412218666414171) | **Published:** Jul 7, 2026
+
+---
 ### แอนิเมชันจักรวาลเจ้าหญิงทอผ้าในวันทานาบาตะ
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -464,6 +521,25 @@ No dialogue
 **Author:** [Cicadas Francois Cosmos 🇯🇵](https://x.com/FC_Cicadas) | **Source:** [Link](https://x.com/FC_Cicadas/status/2074356506334822402) | **Published:** Jul 7, 2026
 
 ---
+### หญิงสาวกับมังกรโบราณ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวเล่าเรื่องที่แสดงภาพหญิงสาวกำลังว่ายน้ำตรงไปยังมังกรโบราณท่ามกลางเมืองที่ล่มสลาย โดยเน้นไปที่การอยู่ร่วมกันมากกว่าการต่อสู้
+
+#### 📝 Prompt
+
+```
+เธอว่ายน้ำตรงไปยังมังกร ร่างของเธอช่างดูตัวเล็กเมื่ออยู่ข้างๆ มัน ไม่ใช่เพื่อต่อสู้ ไม่ใช่เพื่อหนี เพียงแค่อยู่ตรงนั้น ในห้วงเวลาที่ทำให้เมืองที่ล่มสลายเบื้องหลังดูราวกับของเล่นเด็ก ผืนน้ำที่โอบล้อมพวกเขานั้นหนักอึ้งไปด้วยเรื่องราวในอดีต
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074351738916945920/img/DN5W4PjaZPXMXP3N.jpg" width="600" alt="หญิงสาวกับมังกรโบราณ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7063)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2074351816167563613) | **Published:** Jul 7, 2026
+
+---
 ### ฉากบทสนทนาของแรคคูน Pippin
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -491,6 +567,27 @@ Pippin
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6890)**
 
 **Author:** [Carina](https://x.com/Freehere8) | **Source:** [Link](https://x.com/Freehere8/status/2074205457116430719) | **Published:** Jul 6, 2026
+
+---
+### วิดีโอเทพธิดาแห่งท้องทะเลในอาณาจักรปะการัง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอที่บรรยายรายละเอียดอย่างชัดเจนของเทพธิดาแห่งท้องทะเลที่มีดวงตาสีม่วงและสีทอง ผู้ควบคุมมหาสมุทรและฝูงปลาภายในอาณาจักรปะการัง
+
+#### 📝 Prompt
+
+```
+นางยกมือขึ้นและท้องทะเลก็เชื่อฟัง อาณาจักรปะการังอยู่ในมือของนาง ฝูงปลาแหวกว่ายผ่านนิ้วมือที่กลายเป็นน้ำและแสงสว่าง
+
+ดวงตาของนางบอกเล่าสองเรื่องราวในคราวเดียวกัน ข้างหนึ่งเป็นสีม่วงดั่งห้วงลึก และอีกข้างเป็นสีทองดั่งแสงอาทิตย์ที่กระทบผิวน้ำ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074135555185811456/img/cQEtJba5Tny5k2e2.jpg" width="600" alt="วิดีโอเทพธิดาแห่งท้องทะเลในอาณาจักรปะการัง">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7064)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2074146361805819955) | **Published:** Jul 6, 2026
 
 ---
 ### วิดีโอปรากฏการณ์มิราจเหนือทะเลอาร์กติก
@@ -2101,101 +2198,6 @@ Mira นำกล้องพาชมบรรยากาศอย่างส
 **Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2070243131253989767) | **Published:** Jun 25, 2026
 
 ---
-### ม่านแห่งสรวงสวรรค์และดวงดาวที่ถูกลืม
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่งเชิงกวีสำหรับการสร้างวิดีโอฉากลึกลับของแสงดาวที่ปรากฏออกมาจากม่านแห่งจักรวาล
-
-#### 📝 Prompt
-
-```
-จากเงามืดแห่งนิรันดร์กาล ข้าปลุกเร้าผืนผ้าแห่งการถักทอ เมื่อม่านแยกออก จงยลโฉมแสงแห่งดวงดาวที่ถูกลืม
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070240737728528384/img/5-6YWwqCjfFiH52L.jpg" width="600" alt="ม่านแห่งสรวงสวรรค์และดวงดาวที่ถูกลืม">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6480)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2070240789201109025) | **Published:** Jun 25, 2026
-
----
-### การบรรยายฉากประตูมิติแฟนตาซี
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำบรรยายสำหรับวิดีโอที่แสดงตัวละครก้าวผ่านประตูมิติที่ส่องประกายเข้าไปในห้องของเล่นสุดมหัศจรรย์
-
-#### 📝 Prompt
-
-```
-Elena ก้าวผ่านประตูมิติที่ส่องประกายเข้าไปใน Playroom อันกว้างใหญ่ เธอหันมองไปรอบๆ ด้วยความสนใจและความตื่นเต้นอย่างเห็นได้ชัด Krampus ผายมือต้อนรับกลุ่มคนด้วยท่าทางที่เป็นมิตร Holly กระโดดเข้ามาข้างหน้าด้วยรอยยิ้มสดใส พร้อมกับคล้องแขนอย่างขี้เล่น
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070235831818756096/img/dFvaEDOD_8Hhk_SD.jpg" width="600" alt="การบรรยายฉากประตูมิติแฟนตาซี">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6479)**
-
-**Author:** [Chronicles of Petecastic](https://x.com/MrPetecastic) | **Source:** [Link](https://x.com/MrPetecastic/status/2070235889586889042) | **Published:** Jun 25, 2026
-
----
-### ดราม่าคู่รักอารมณ์เดือด
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวอารมณ์ที่เน้นการแสดงออกทางสีหน้าแบบละเอียดและดราม่าสไตล์อินดี้ระหว่างคู่รัก
-
-#### 📝 Prompt
-
-```
-สร้างฉากอารมณ์ของคู่รักที่กำลังโกรธเคือง มีบทสนทนาสั้นๆ ที่กระแทกใจ เน้นการแสดงออกทางสีหน้าแบบละเอียดที่เหมาะสม ใช้การปรับโทนสีแบบอบอุ่นพร้อมไฟหลักและไฟเสริม รวมถึงการใช้เลนส์แบบ Anamorphic โดยไม่มีข้อความบนหน้าจอ เน้นความซับซ้อนทางอารมณ์แต่ดูนุ่มนวลด้วยมุมกล้องที่เหมาะสม เป็นคู่รักชาวอเมริกันวัยหนุ่มสาวในสไตล์ดราม่าภาพยนตร์อินดี้ ที่ถ่ายทอดความโกรธและการเว้นจังหวะอารมณ์ได้อย่างครบถ้วน
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070218111413035009/img/K5v2YoeYSUocr6rw.jpg" width="600" alt="ดราม่าคู่รักอารมณ์เดือด">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6482)**
-
-**Author:** [Kiri](https://x.com/Kyrannio) | **Source:** [Link](https://x.com/Kyrannio/status/2070218164609405380) | **Published:** Jun 25, 2026
-
----
-### สิ่งมีชีวิตจากสรวงสวรรค์ถักทอหมู่ดาว
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์สุดจินตนาการที่แสดงภาพสิ่งมีชีวิตลึกลับกำลังถักทอดวงดาวด้วยเส้นใยแห่งแสง
-
-#### 📝 Prompt
-
-```
-สิ่งมีชีวิตจากสรวงสวรรค์กำลังค่อย ๆ ถักทอหมู่ดาวเข้าด้วยกันด้วยเส้นใยแห่งแสง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070204889674760192/img/h9MGPkeZh7Lae6zN.jpg" width="600" alt="สิ่งมีชีวิตจากสรวงสวรรค์ถักทอหมู่ดาว">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6485)**
-
-**Author:** [Maer](https://x.com/Maer4real) | **Source:** [Link](https://x.com/Maer4real/status/2070204948281737574) | **Published:** Jun 25, 2026
-
----
-### หมีน้อยน่ารักกำลังว่ายน้ำและดำน้ำ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพร้อมท์สุดน่ารักของลูกหมีที่กำลังว่ายน้ำในน้ำสีสันสดใสและดำน้ำได้อย่างมืออาชีพ
-
-#### 📝 Prompt
-
-```
-หมีน้อยน่ารักกำลังสนุกกับการว่ายน้ำในน้ำสีสันสดใส! ตั้งแต่การกระโดดเล่นน้ำไปจนถึงการดำน้ำลงใต้น้ำอย่างมืออาชีพ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070170351917797376/img/ErO4qUhEGSf6fJ5M.jpg" width="600" alt="หมีน้อยน่ารักกำลังว่ายน้ำและดำน้ำ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6655)**
-
-**Author:** [Liam](https://x.com/LiamEvergreen) | **Source:** [Link](https://x.com/LiamEvergreen/status/2070170659813237231) | **Published:** Jun 25, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2257,6 +2259,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-11T06:37:33.493Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-11T09:59:46.651Z</sub>
 
 </div>

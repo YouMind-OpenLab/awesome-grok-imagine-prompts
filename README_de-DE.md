@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2064** |
+| 📝 Total Prompts | **2069** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-11** |
 
@@ -189,6 +189,44 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Video der Schneekönigin im Permafrost-Palast
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein beschreibender Prompt für die Generierung eines Videos, in dem die Schneekönigin durch Permafrost-Landschaften und ihren arktischen Palast reist.
+
+#### 📝 Prompt
+
+```
+Die Schneekönigin (Snedronningen), die Königin der Schneeflocken oder „Schneebienen“, die mit dem Schnee durch die ganze Welt reist. Ihr Palast und ihre Gärten befinden sich in den Permafrost-Regionen, genauer gesagt auf Spitzbergen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075688361616904192/img/O2dQTf94XaXvZ8ou.jpg" width="600" alt="Video der Schneekönigin im Permafrost-Palast">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7062)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2075688977089139000) | **Published:** Jul 10, 2026
+
+---
+### Cinematic-Video: Schwarze Helena von Troja
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Erstellung eines cineastischen Videos einer schwarzen Helena von Troja, bei dem die kulturelle Repräsentation stärker betont wird als bei einer Standardbesetzung.
+
+#### 📝 Prompt
+
+```
+Ich möchte nicht einfach nur eine schwarze Schauspielerin, die die Helena von Troja spielt. Ich möchte eine schwarze Helena von Troja. Erstelle dieses Video.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075601009921957888/img/aN9beJL_fzdcvCfd.jpg" width="600" alt="Cinematic-Video: Schwarze Helena von Troja">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7061)**
+
+**Author:** [Huff](https://x.com/Huff4Congress) | **Source:** [Link](https://x.com/Huff4Congress/status/2075601096253309265) | **Published:** Jul 10, 2026
+
+---
 ### Fantasy-Prompt: Biolumineszente Morgendämmerung
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -424,6 +462,25 @@ Hochgradig filmisch, herzlich, skurril, aber bodenständig, realistische Texture
 **Author:** [Sub Pop Culture 🇺🇸🐿️](https://x.com/WriterMcG) | **Source:** [Link](https://x.com/WriterMcG/status/2074431744808264058) | **Published:** Jul 7, 2026
 
 ---
+### Animation eines sanftmütigen Riesen und eines leuchtenden Schmetterlings
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein herzerwärmender Storytelling-Prompt mit einem sanftmütigen Riesen und einem magischen Schmetterling, der für einen direkten Vergleich zwischen Gemini Omni und anderen Videomodellen verwendet wird.
+
+#### 📝 Prompt
+
+```
+Ein sanftmütiger Riese findet einen leuchtenden Schmetterling… vom einsamen Sonnenuntergang bis hin zu einer magischen Freundschaft unter dem Sternenhimmel.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074412047656173568/img/PmeIz0AWd-B6Ynfs.jpg" width="600" alt="Animation eines sanftmütigen Riesen und eines leuchtenden Schmetterlings">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6932)**
+
+**Author:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Source:** [Link](https://x.com/Dheepanratnam/status/2074412218666414171) | **Published:** Jul 7, 2026
+
+---
 ### Tanabata-Webprinzessin kosmische Animation
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -464,6 +521,25 @@ Kein Dialog
 **Author:** [Cicadas Francois Cosmos 🇯🇵](https://x.com/FC_Cicadas) | **Source:** [Link](https://x.com/FC_Cicadas/status/2074356506334822402) | **Published:** Jul 7, 2026
 
 ---
+### Frau und uralter Drache
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein narrativer Video-Prompt, der eine Frau zeigt, die in einer Ruinenstadt auf einen uralten Drachen zuschwimmt und dabei die Präsenz statt des Konflikts betont.
+
+#### 📝 Prompt
+
+```
+Sie schwimmt direkt auf den Drachen zu, winzig neben ihm. Nicht um zu kämpfen. Nicht um zu fliehen. Einfach nur, um dort zu sein, in der Gegenwart von etwas, das die Ruinenstadt hinter ihr wie Kinderspielzeug wirken lässt. Das Wasser, das sie umgibt, ist schwer von alten Geschichten.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074351738916945920/img/DN5W4PjaZPXMXP3N.jpg" width="600" alt="Frau und uralter Drache">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7063)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2074351816167563613) | **Published:** Jul 7, 2026
+
+---
 ### Dialogszene mit Waschbär Pippin
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -491,6 +567,27 @@ Pippin
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6890)**
 
 **Author:** [Carina](https://x.com/Freehere8) | **Source:** [Link](https://x.com/Freehere8/status/2074205457116430719) | **Published:** Jul 6, 2026
+
+---
+### Video: Die Meeresgöttin im Korallenreich
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Video-Prompt einer Meeresgöttin mit violetten und goldenen Augen, die den Ozean und die Fische in einem Korallenreich beherrscht.
+
+#### 📝 Prompt
+
+```
+Sie hebt ihre Hand und das Meer gehorcht. Ein Korallenreich in ihrer Hand. Fische huschen durch ihre Finger, die zu Wasser und Licht geworden sind.
+
+Ihre Augen erzählen zwei Geschichten zugleich: eine violett wie die Tiefe und eine golden wie das Sonnenlicht auf den Wellen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074135555185811456/img/cQEtJba5Tny5k2e2.jpg" width="600" alt="Video: Die Meeresgöttin im Korallenreich">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7064)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2074146361805819955) | **Published:** Jul 6, 2026
 
 ---
 ### Video einer Fata Morgana über dem Arktischen Ozean
@@ -2101,101 +2198,6 @@ Der Tunnel verzeiht kein Zögern. Er hebt von dem zerbrochenen Beton ab, als wä
 **Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2070243131253989767) | **Published:** Jun 25, 2026
 
 ---
-### Himmlischer Schleier und vergessene Sterne
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein poetischer Prompt zur Erzeugung einer mystischen Videosezene, in der Sternenlicht aus einem kosmischen Schleier hervortritt.
-
-#### 📝 Prompt
-
-```
-Aus den Schatten der Ewigkeit erwecke ich das Gewebe, der Schleier teilt sich, erblickt das Licht vergessener Sterne
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070240737728528384/img/5-6YWwqCjfFiH52L.jpg" width="600" alt="Himmlischer Schleier und vergessene Sterne">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6480)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2070240789201109025) | **Published:** Jun 25, 2026
-
----
-### Fantasy-Portal-Szenenbeschreibung
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein beschreibender narrativer Prompt für ein Video, das zeigt, wie eine Figur durch ein schimmerndes Portal in ein magisches Spielzimmer tritt.
-
-#### 📝 Prompt
-
-```
-Elena tritt durch das schimmernde Portal in das riesige Spielzimmer und blickt sich mit neugierigen, weit aufgerissenen Augen und voller Begeisterung um. Krampus heißt die Gruppe mit offenen Armen willkommen. Holly hüpft mit einem strahlenden Lächeln vor und hakt sich verspielt unter.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070235831818756096/img/dFvaEDOD_8Hhk_SD.jpg" width="600" alt="Fantasy-Portal-Szenenbeschreibung">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6479)**
-
-**Author:** [Chronicles of Petecastic](https://x.com/MrPetecastic) | **Source:** [Link](https://x.com/MrPetecastic/status/2070235889586889042) | **Published:** Jun 25, 2026
-
----
-### Emotionales Drama eines wütenden Paares
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein emotionaler Video-Prompt, der sich auf Mikroexpressionen und Indie-Film-Drama zwischen einem Paar konzentriert.
-
-#### 📝 Prompt
-
-```
-Erstelle eine emotionale Szene eines wütenden Paares, knappe und prägnante Dialoge, angemessene subtile Mikroexpressionen, warmes Color Grading mit Key-Fill-Licht und anamorphotischem Objektiv, kein Text auf dem Bildschirm, emotional komplex, aber subtil, passende Kamerawinkel, junges amerikanisches Paar mit Indie-Film-Dramatik, inklusive Wut und Pausen für ein breites emotionales Spektrum
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070218111413035009/img/K5v2YoeYSUocr6rw.jpg" width="600" alt="Emotionales Drama eines wütenden Paares">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6482)**
-
-**Author:** [Kiri](https://x.com/Kyrannio) | **Source:** [Link](https://x.com/Kyrannio/status/2070218164609405380) | **Published:** Jun 25, 2026
-
----
-### Himmlische Wesen stricken Sternbilder
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein fantasievoller Video-Prompt, der mystische Wesen zeigt, die mit Lichtfäden Sterne stricken.
-
-#### 📝 Prompt
-
-```
-Himmlische Wesen, die langsam Sternbilder mit Lichtfäden zusammenstricken.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070204889674760192/img/h9MGPkeZh7Lae6zN.jpg" width="600" alt="Himmlische Wesen stricken Sternbilder">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6485)**
-
-**Author:** [Maer](https://x.com/Maer4real) | **Source:** [Link](https://x.com/Maer4real/status/2070204948281737574) | **Published:** Jun 25, 2026
-
----
-### Süßer Bär beim Schwimmen und Tauchen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein bezaubernder Video-Prompt mit einem niedlichen Bärenjungen, das in farbenfrohem Wasser schwimmt und wie ein Profi taucht.
-
-#### 📝 Prompt
-
-```
-Ein süßes kleines Bärenjunges genießt ein farbenfrohes Bad! Vom Planschen an der Oberfläche bis hin zum professionellen Tauchgang unter Wasser
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070170351917797376/img/ErO4qUhEGSf6fJ5M.jpg" width="600" alt="Süßer Bär beim Schwimmen und Tauchen">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6655)**
-
-**Author:** [Liam](https://x.com/LiamEvergreen) | **Source:** [Link](https://x.com/LiamEvergreen/status/2070170659813237231) | **Published:** Jun 25, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2257,6 +2259,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-11T06:37:39.778Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-11T09:59:53.654Z</sub>
 
 </div>

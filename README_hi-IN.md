@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2064** |
+| 📝 Total Prompts | **2069** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-11** |
 
@@ -189,6 +189,44 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### स्नो क्वीन पर्माफ्रॉस्ट पैलेस वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> स्नो क्वीन के पर्माफ्रॉस्ट भूमि और उसके आर्कटिक महल से होकर यात्रा करने का वीडियो बनाने के लिए एक वर्णनात्मक प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+स्नो क्वीन (Snedronningen), जो बर्फ के कणों या "स्नो-बीज़" की रानी है, जो बर्फ के साथ पूरी दुनिया में यात्रा करती है। उसका महल और बगीचे पर्माफ्रॉस्ट की भूमि में, विशेष रूप से स्पिट्सबर्गेन (Spitsbergen) में स्थित हैं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075688361616904192/img/O2dQTf94XaXvZ8ou.jpg" width="600" alt="स्नो क्वीन पर्माफ्रॉस्ट पैलेस वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7062)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2075688977089139000) | **Published:** Jul 10, 2026
+
+---
+### ब्लैक हेलेन ऑफ ट्रॉय सिनेमैटिक वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक प्रॉम्प्ट जिसे ब्लैक हेलेन ऑफ ट्रॉय का सिनेमैटिक वीडियो बनाने के लिए डिज़ाइन किया गया है, जो मानक कास्टिंग के बजाय विशिष्ट सांस्कृतिक प्रतिनिधित्व पर जोर देता है।
+
+#### 📝 Prompt
+
+```
+मैं केवल यह नहीं चाहता कि कोई अश्वेत अभिनेत्री हेलेन ऑफ ट्रॉय की भूमिका निभाए। मुझे एक ब्लैक हेलेन ऑफ ट्रॉय चाहिए। वह वीडियो बनाएं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075601009921957888/img/aN9beJL_fzdcvCfd.jpg" width="600" alt="ब्लैक हेलेन ऑफ ट्रॉय सिनेमैटिक वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7061)**
+
+**Author:** [Huff](https://x.com/Huff4Congress) | **Source:** [Link](https://x.com/Huff4Congress/status/2075601096253309265) | **Published:** Jul 10, 2026
+
+---
 ### बायोल्यूमिनेसेंट डॉन फैंटेसी प्रॉम्प्ट
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -424,6 +462,25 @@ Why use our gallery?
 **Author:** [Sub Pop Culture 🇺🇸🐿️](https://x.com/WriterMcG) | **Source:** [Link](https://x.com/WriterMcG/status/2074431744808264058) | **Published:** Jul 7, 2026
 
 ---
+### सौम्य विशालकाय और चमकती तितली का एनीमेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सौम्य विशालकाय और एक जादुई तितली की विशेषता वाली एक दिल को छू लेने वाली कहानी, जिसका उपयोग Gemini Omni और अन्य वीडियो मॉडलों की तुलना करने के लिए किया गया है।
+
+#### 📝 Prompt
+
+```
+सौम्य विशालकाय को एक चमकती तितली मिलती है... अकेले सूर्यास्त से लेकर तारों के नीचे जादुई दोस्ती तक।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074412047656173568/img/PmeIz0AWd-B6Ynfs.jpg" width="600" alt="सौम्य विशालकाय और चमकती तितली का एनीमेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6932)**
+
+**Author:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Source:** [Link](https://x.com/Dheepanratnam/status/2074412218666414171) | **Published:** Jul 7, 2026
+
+---
 ### तनाबाता वीवर प्रिंसेस कॉस्मिक एनिमेशन
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -464,6 +521,25 @@ Android Deltamon का एक डिजिटल एनीमे-शैली �
 **Author:** [Cicadas Francois Cosmos 🇯🇵](https://x.com/FC_Cicadas) | **Source:** [Link](https://x.com/FC_Cicadas/status/2074356506334822402) | **Published:** Jul 7, 2026
 
 ---
+### महिला और प्राचीन ड्रैगन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक नैरेटिव वीडियो प्रॉम्प्ट जिसमें एक महिला एक बर्बाद शहर में प्राचीन ड्रैगन की ओर तैर रही है, जिसमें संघर्ष के बजाय उपस्थिति पर जोर दिया गया है।
+
+#### 📝 Prompt
+
+```
+वह सीधे ड्रैगन की ओर तैरती है, उसके सामने छोटी सी। न लड़ने के लिए। न भागने के लिए। बस वहाँ मौजूद रहने के लिए, किसी ऐसी चीज़ की उपस्थिति में जो उसके पीछे के बर्बाद शहर को बच्चों के खिलौनों जैसा बना देती है। उनके चारों ओर का पानी पुरानी कहानियों से भरा हुआ है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074351738916945920/img/DN5W4PjaZPXMXP3N.jpg" width="600" alt="महिला और प्राचीन ड्रैगन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7063)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2074351816167563613) | **Published:** Jul 7, 2026
+
+---
 ### रेकून पिपिन संवाद दृश्य
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -491,6 +567,27 @@ Android Deltamon का एक डिजिटल एनीमे-शैली �
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6890)**
 
 **Author:** [Carina](https://x.com/Freehere8) | **Source:** [Link](https://x.com/Freehere8/status/2074205457116430719) | **Published:** Jul 6, 2026
+
+---
+### कोरल किंगडम सी गॉडेस वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> बैंगनी और सुनहरी आँखों वाली एक समुद्री देवी का अत्यधिक वर्णनात्मक वीडियो प्रॉम्प्ट, जो एक कोरल किंगडम के भीतर समुद्र और मछलियों को नियंत्रित कर रही है।
+
+#### 📝 Prompt
+
+```
+वह अपना हाथ उठाती है और समुद्र उसकी आज्ञा मानता है। उसके हाथ में एक कोरल किंगडम है, जहाँ मछलियाँ उसकी उंगलियों के बीच से तेज़ी से निकल रही हैं, जो पानी और रोशनी में बदल चुकी हैं।
+
+उसकी आँखें एक साथ दो कहानियाँ बयां करती हैं, एक गहरी गहराई जैसी बैंगनी और दूसरी लहरों पर पड़ती सूरज की रोशनी जैसी सुनहरी।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074135555185811456/img/cQEtJba5Tny5k2e2.jpg" width="600" alt="कोरल किंगडम सी गॉडेस वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7064)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2074146361805819955) | **Published:** Jul 6, 2026
 
 ---
 ### सुपीरियर मिराज आर्कटिक सी वीडियो
@@ -2101,101 +2198,6 @@ Youman,
 **Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2070243131253989767) | **Published:** Jun 25, 2026
 
 ---
-### Celestial Veil and Forgotten Stars
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक काव्यात्मक प्रॉम्प्ट जो ब्रह्मांडीय आवरण से निकलते तारों के प्रकाश का एक रहस्यमय वीडियो दृश्य तैयार करता है।
-
-#### 📝 Prompt
-
-```
-अनंत की परछाइयों से, मैं बुनावट को जगाता हूँ, आवरण हटता है, भूले-बिसरे तारों के प्रकाश को देखो
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070240737728528384/img/5-6YWwqCjfFiH52L.jpg" width="600" alt="Celestial Veil and Forgotten Stars">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6480)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2070240789201109025) | **Published:** Jun 25, 2026
-
----
-### फैंटेसी पोर्टल सीन नैरेटिव
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो के लिए वर्णनात्मक नैरेटिव प्रॉम्प्ट, जिसमें एक पात्र एक झिलमिलाते पोर्टल से होकर एक जादुई प्लेरूम में प्रवेश करता है।
-
-#### 📝 Prompt
-
-```
-एलेना झिलमिलाते पोर्टल से होकर विशाल प्लेरूम में कदम रखती है, और बड़ी उत्सुकता और रोमांच के साथ चारों ओर देखती है। क्रैम्पस अपनी बाहें फैलाकर समूह का स्वागत करता है। होली एक प्यारी सी मुस्कान के साथ आगे बढ़ती है और चंचलता से हाथ मिलाती है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070235831818756096/img/dFvaEDOD_8Hhk_SD.jpg" width="600" alt="फैंटेसी पोर्टल सीन नैरेटिव">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6479)**
-
-**Author:** [Chronicles of Petecastic](https://x.com/MrPetecastic) | **Source:** [Link](https://x.com/MrPetecastic/status/2070235889586889042) | **Published:** Jun 25, 2026
-
----
-### भावुक और गुस्से में भरा कपल ड्रामा
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक भावुक वीडियो प्रॉम्प्ट जो माइक्रो-एक्सप्रेशंस और एक कपल के बीच इंडी फिल्म ड्रामा पर केंद्रित है।
-
-#### 📝 Prompt
-
-```
-गुस्से में भरे एक कपल का भावुक दृश्य बनाएं, जिसमें सीमित और प्रभावशाली संवाद हों, सूक्ष्म माइक्रो-एक्सप्रेशंस का सही इस्तेमाल हो, की-फिल लाइट के साथ वार्म कलर ग्रेडिंग हो और एनामोर्फिक लेंसिंग का उपयोग किया गया हो। स्क्रीन पर कोई टेक्स्ट न हो, दृश्य भावनात्मक रूप से जटिल लेकिन सूक्ष्म हों, सही एंगल्स का उपयोग करें, युवा अमेरिकन कपल हो, जिसमें इंडी फिल्म ड्रामा की संवेदनशीलता हो और गुस्से व ठहराव के साथ भावनाओं की पूरी रेंज दिखाई दे।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070218111413035009/img/K5v2YoeYSUocr6rw.jpg" width="600" alt="भावुक और गुस्से में भरा कपल ड्रामा">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6482)**
-
-**Author:** [Kiri](https://x.com/Kyrannio) | **Source:** [Link](https://x.com/Kyrannio/status/2070218164609405380) | **Published:** Jun 25, 2026
-
----
-### आकाशीय जीव जो नक्षत्रों को बुन रहे हैं
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक कल्पनाशील वीडियो प्रॉम्प्ट जो रहस्यमयी जीवों को प्रकाश के धागों से तारों को बुनते हुए दर्शाता है।
-
-#### 📝 Prompt
-
-```
-आकाशीय जीव धीरे-धीरे प्रकाश के धागों से नक्षत्रों को एक साथ बुन रहे हैं।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070204889674760192/img/h9MGPkeZh7Lae6zN.jpg" width="600" alt="आकाशीय जीव जो नक्षत्रों को बुन रहे हैं">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6485)**
-
-**Author:** [Maer](https://x.com/Maer4real) | **Source:** [Link](https://x.com/Maer4real/status/2070204948281737574) | **Published:** Jun 25, 2026
-
----
-### प्यारा भालू तैरते और गोता लगाते हुए
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक आकर्षक वीडियो प्रॉम्प्ट जिसमें एक प्यारा भालू का बच्चा रंगीन पानी में तैर रहा है और किसी पेशेवर की तरह गोता लगा रहा है।
-
-#### 📝 Prompt
-
-```
-प्यारा सा भालू रंगीन पानी में तैरने का आनंद ले रहा है! ऊपर छपछपाने से लेकर किसी प्रो की तरह पानी के अंदर गोता लगाने तक
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070170351917797376/img/ErO4qUhEGSf6fJ5M.jpg" width="600" alt="प्यारा भालू तैरते और गोता लगाते हुए">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6655)**
-
-**Author:** [Liam](https://x.com/LiamEvergreen) | **Source:** [Link](https://x.com/LiamEvergreen/status/2070170659813237231) | **Published:** Jun 25, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2257,6 +2259,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-11T06:37:35.810Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-11T09:59:49.400Z</sub>
 
 </div>

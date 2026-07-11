@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2064** |
+| 📝 Total Prompts | **2069** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-11** |
 
@@ -189,6 +189,44 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Video về Cung điện Băng giá của Bà chúa Tuyết
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh mô tả để tạo video về hành trình của Bà chúa Tuyết qua các vùng đất băng vĩnh cửu và cung điện Bắc Cực của bà.
+
+#### 📝 Prompt
+
+```
+Bà chúa Tuyết (Snedronningen), nữ hoàng của những bông tuyết hay còn gọi là "những chú ong tuyết", người du hành khắp thế giới cùng với những cơn tuyết. Cung điện và khu vườn của bà nằm ở những vùng đất băng vĩnh cửu, cụ thể là tại Spitsbergen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075688361616904192/img/O2dQTf94XaXvZ8ou.jpg" width="600" alt="Video về Cung điện Băng giá của Bà chúa Tuyết">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7062)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2075688977089139000) | **Published:** Jul 10, 2026
+
+---
+### Video điện ảnh về Helen of Troy da đen
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh được thiết kế để tạo video điện ảnh về Helen of Troy da đen, nhấn mạnh vào sự đại diện văn hóa đặc thù thay vì cách tuyển diễn viên thông thường.
+
+#### 📝 Prompt
+
+```
+Tôi không chỉ muốn một nữ diễn viên da đen đóng vai Helen of Troy. Tôi muốn một Helen of Troy da đen thực thụ. Hãy tạo video đó.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075601009921957888/img/aN9beJL_fzdcvCfd.jpg" width="600" alt="Video điện ảnh về Helen of Troy da đen">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7061)**
+
+**Author:** [Huff](https://x.com/Huff4Congress) | **Source:** [Link](https://x.com/Huff4Congress/status/2075601096253309265) | **Published:** Jul 10, 2026
+
+---
 ### Gợi ý hình ảnh giả tưởng về bình minh phát quang sinh học
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -424,6 +462,25 @@ Tính điện ảnh cao, giàu cảm xúc, kỳ ảo nhưng chân thực, kết 
 **Author:** [Sub Pop Culture 🇺🇸🐿️](https://x.com/WriterMcG) | **Source:** [Link](https://x.com/WriterMcG/status/2074431744808264058) | **Published:** Jul 7, 2026
 
 ---
+### Hoạt hình Người khổng lồ hiền lành và Chú bướm phát sáng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý kể chuyện đầy cảm động về một người khổng lồ hiền lành và một chú bướm kỳ diệu, được sử dụng để so sánh song song giữa Gemini Omni và các mô hình video khác.
+
+#### 📝 Prompt
+
+```
+Người khổng lồ hiền lành tìm thấy một chú bướm phát sáng… từ buổi hoàng hôn cô đơn đến tình bạn kỳ diệu dưới những vì sao.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074412047656173568/img/PmeIz0AWd-B6Ynfs.jpg" width="600" alt="Hoạt hình Người khổng lồ hiền lành và Chú bướm phát sáng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6932)**
+
+**Author:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Source:** [Link](https://x.com/Dheepanratnam/status/2074412218666414171) | **Published:** Jul 7, 2026
+
+---
 ### Hoạt hình vũ trụ Nàng Chức Nữ
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -464,6 +521,25 @@ Không có lời thoại
 **Author:** [Cicadas Francois Cosmos 🇯🇵](https://x.com/FC_Cicadas) | **Source:** [Link](https://x.com/FC_Cicadas/status/2074356506334822402) | **Published:** Jul 7, 2026
 
 ---
+### Người phụ nữ và Rồng cổ đại
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý video kể chuyện về người phụ nữ đang bơi về phía con rồng cổ đại trong một thành phố đổ nát, nhấn mạnh vào sự hiện diện thay vì xung đột.
+
+#### 📝 Prompt
+
+```
+Cô bơi thẳng về phía con rồng, trông thật nhỏ bé bên cạnh nó. Không phải để chiến đấu. Không phải để chạy trốn. Chỉ đơn giản là ở đó, trong sự hiện diện của một sinh vật khiến thành phố đổ nát phía sau cô trông như những món đồ chơi trẻ con. Dòng nước bao quanh họ nặng trĩu những câu chuyện xưa cũ.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074351738916945920/img/DN5W4PjaZPXMXP3N.jpg" width="600" alt="Người phụ nữ và Rồng cổ đại">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7063)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2074351816167563613) | **Published:** Jul 7, 2026
+
+---
 ### Cảnh đối thoại của chú gấu trúc Pippin
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -491,6 +567,27 @@ Pippin
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6890)**
 
 **Author:** [Carina](https://x.com/Freehere8) | **Source:** [Link](https://x.com/Freehere8/status/2074205457116430719) | **Published:** Jul 6, 2026
+
+---
+### Video Nữ thần biển cả tại Vương quốc San hô
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một đoạn gợi ý video mô tả chi tiết về nữ thần biển cả với đôi mắt màu tím và vàng, người đang điều khiển đại dương và các loài cá trong một vương quốc san hô.
+
+#### 📝 Prompt
+
+```
+Nàng giơ tay lên và biển cả tuân lệnh. Một vương quốc san hô nằm trong lòng bàn tay nàng. Những chú cá lao nhanh qua các ngón tay đã hóa thành nước và ánh sáng.
+
+Đôi mắt nàng kể hai câu chuyện cùng một lúc, một bên màu tím như vực sâu và một bên màu vàng như ánh mặt trời trên những con sóng.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074135555185811456/img/cQEtJba5Tny5k2e2.jpg" width="600" alt="Video Nữ thần biển cả tại Vương quốc San hô">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7064)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2074146361805819955) | **Published:** Jul 6, 2026
 
 ---
 ### Video về hiện tượng ảo ảnh trên không tại vùng biển Bắc Cực
@@ -2101,101 +2198,6 @@ Chỉ còn tiếng sóng đại dương và phép màu của trí tưởng tư�
 **Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2070243131253989767) | **Published:** Jun 25, 2026
 
 ---
-### Màn Che Thiên Hà và Những Vì Sao Bị Lãng Quên
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh đầy chất thơ để tạo ra thước phim huyền bí về ánh sao đang hé lộ từ màn che vũ trụ.
-
-#### 📝 Prompt
-
-```
-Từ bóng tối của cõi vĩnh hằng, ta đánh thức dải ngân hà, màn che dần tách lối, hãy chiêm ngưỡng ánh sáng của những vì sao đã bị lãng quên
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070240737728528384/img/5-6YWwqCjfFiH52L.jpg" width="600" alt="Màn Che Thiên Hà và Những Vì Sao Bị Lãng Quên">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6480)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2070240789201109025) | **Published:** Jun 25, 2026
-
----
-### Câu chuyện về Cổng không gian huyền ảo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh mô tả chi tiết cho video về một nhân vật bước qua cánh cổng lung linh để vào căn phòng chơi kỳ diệu.
-
-#### 📝 Prompt
-
-```
-Elena bước qua cánh cổng lung linh để vào căn phòng Playroom rộng lớn, cô nhìn xung quanh với vẻ tò mò và phấn khích. Krampus dang rộng vòng tay chào đón cả nhóm. Holly nhảy chân sáo tiến về phía trước với nụ cười rạng rỡ, tinh nghịch khoác tay mọi người.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070235831818756096/img/dFvaEDOD_8Hhk_SD.jpg" width="600" alt="Câu chuyện về Cổng không gian huyền ảo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6479)**
-
-**Author:** [Chronicles of Petecastic](https://x.com/MrPetecastic) | **Source:** [Link](https://x.com/MrPetecastic/status/2070235889586889042) | **Published:** Jun 25, 2026
-
----
-### Phim tâm lý cặp đôi giận dữ đầy cảm xúc
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý video đầy cảm xúc tập trung vào các biểu cảm vi mô và kịch tính phim độc lập giữa một cặp đôi.
-
-#### 📝 Prompt
-
-```
-Tạo một cảnh quay đầy cảm xúc về một cặp đôi đang giận dữ, với lời thoại ngắn gọn, súc tích, các biểu cảm vi mô tinh tế phù hợp, tông màu ấm với ánh sáng chính và phụ cùng ống kính anamorphic, không có văn bản trên màn hình, góc quay chuẩn xác, phức tạp về mặt cảm xúc nhưng đầy tinh tế, cặp đôi người Mỹ trẻ tuổi với phong cách phim độc lập, thể hiện sự giận dữ và những khoảng lặng để bộc lộ trọn vẹn cảm xúc
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070218111413035009/img/K5v2YoeYSUocr6rw.jpg" width="600" alt="Phim tâm lý cặp đôi giận dữ đầy cảm xúc">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6482)**
-
-**Author:** [Kiri](https://x.com/Kyrannio) | **Source:** [Link](https://x.com/Kyrannio/status/2070218164609405380) | **Published:** Jun 25, 2026
-
----
-### Những sinh vật huyền bí đan dệt các chòm sao
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một lời nhắc video đầy trí tưởng tượng mô tả các sinh vật huyền bí đang đan những ngôi sao bằng sợi ánh sáng.
-
-#### 📝 Prompt
-
-```
-Những sinh vật huyền bí đang chậm rãi đan dệt các chòm sao lại với nhau bằng những sợi ánh sáng.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070204889674760192/img/h9MGPkeZh7Lae6zN.jpg" width="600" alt="Những sinh vật huyền bí đan dệt các chòm sao">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6485)**
-
-**Author:** [Maer](https://x.com/Maer4real) | **Source:** [Link](https://x.com/Maer4real/status/2070204948281737574) | **Published:** Jun 25, 2026
-
----
-### Chú gấu dễ thương đang bơi lội và lặn
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt đầy cuốn hút với hình ảnh chú gấu con dễ thương đang bơi trong làn nước đầy màu sắc và lặn điêu luyện như một chuyên gia.
-
-#### 📝 Prompt
-
-```
-Chú gấu nhỏ dễ thương đang tận hưởng làn nước đầy màu sắc! Từ việc vẫy vùng trên mặt nước đến những cú lặn dưới nước chuyên nghiệp
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070170351917797376/img/ErO4qUhEGSf6fJ5M.jpg" width="600" alt="Chú gấu dễ thương đang bơi lội và lặn">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6655)**
-
-**Author:** [Liam](https://x.com/LiamEvergreen) | **Source:** [Link](https://x.com/LiamEvergreen/status/2070170659813237231) | **Published:** Jun 25, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2257,6 +2259,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-11T06:37:34.793Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-11T09:59:48.082Z</sub>
 
 </div>

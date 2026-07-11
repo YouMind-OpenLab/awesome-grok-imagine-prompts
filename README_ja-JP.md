@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2064** |
+| 📝 プロンプト総数 | **2069** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-07-11** |
 
@@ -189,6 +189,44 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### 雪の女王の永久凍土の宮殿の動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 雪の女王が永久凍土の地と北極の宮殿を旅する様子を動画生成するための記述的なプロンプト。
+
+#### 📝 プロンプト
+
+```
+雪の女王（Snedronningen）は、雪の結晶や「スノー・ビー」の女王であり、雪と共に世界中を旅します。彼女の宮殿と庭園は永久凍土の地、具体的にはスピッツベルゲン島にあります。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075688361616904192/img/O2dQTf94XaXvZ8ou.jpg" width="600" alt="雪の女王の永久凍土の宮殿の動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7062)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2075688977089139000) | **公開日:** Jul 10, 2026
+
+---
+### Black Helen of Troy シネマティックビデオ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一般的なキャスティングではなく、特定の文化的表現を強調した、Black Helen of Troy のシネマティックビデオを生成するためのプロンプトです。
+
+#### 📝 プロンプト
+
+```
+単に黒人の女優がヘレネを演じるのではなく、Black Helen of Troy そのものを表現したい。そのビデオを作成してください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075601009921957888/img/aN9beJL_fzdcvCfd.jpg" width="600" alt="Black Helen of Troy シネマティックビデオ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7061)**
+
+**作者:** [Huff](https://x.com/Huff4Congress) | **ソース:** [Link](https://x.com/Huff4Congress/status/2075601096253309265) | **公開日:** Jul 10, 2026
+
+---
 ### 生物発光の夜明けファンタジープロンプト
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -424,6 +462,25 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 **作者:** [Sub Pop Culture 🇺🇸🐿️](https://x.com/WriterMcG) | **ソース:** [Link](https://x.com/WriterMcG/status/2074431744808264058) | **公開日:** Jul 7, 2026
 
 ---
+### 優しい巨人と光る蝶のアニメーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 優しい巨人と魔法の蝶が登場する心温まるストーリーテリング用プロンプト。Gemini Omni と他の動画生成モデルの比較検証に使用されます。
+
+#### 📝 プロンプト
+
+```
+優しい巨人が光る蝶を見つける……孤独な夕暮れから、星空の下で育まれる魔法のような友情まで。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074412047656173568/img/PmeIz0AWd-B6Ynfs.jpg" width="600" alt="優しい巨人と光る蝶のアニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6932)**
+
+**作者:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **ソース:** [Link](https://x.com/Dheepanratnam/status/2074412218666414171) | **公開日:** Jul 7, 2026
+
+---
 ### 七夕の織姫と彦星の宇宙アニメーション
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -464,6 +521,25 @@ Android Deltamon をフィーチャーした DJ ループ用のアニメスタ�
 **作者:** [Cicadas Francois Cosmos 🇯🇵](https://x.com/FC_Cicadas) | **ソース:** [Link](https://x.com/FC_Cicadas/status/2074356506334822402) | **公開日:** Jul 7, 2026
 
 ---
+### 女性と古代のドラゴン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 廃墟となった都市で、古代のドラゴンに向かって泳ぐ女性を描いたナラティブビデオプロンプト。対立よりも「存在感」を強調しています。
+
+#### 📝 プロンプト
+
+```
+彼女はドラゴンのすぐそばまで、まっすぐに泳いでいく。戦うためでも、逃げるためでもない。ただ、背後に広がる廃墟の街を子供のおもちゃのように見せてしまうほどの存在のそばに、そこにいるために。二人を包み込む水は、古い物語の重みを湛えている。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074351738916945920/img/DN5W4PjaZPXMXP3N.jpg" width="600" alt="女性と古代のドラゴン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7063)**
+
+**作者:** [⭕Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2074351816167563613) | **公開日:** Jul 7, 2026
+
+---
 ### アライグマのピピンの対話シーン
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -491,6 +567,27 @@ Android Deltamon をフィーチャーした DJ ループ用のアニメスタ�
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6890)**
 
 **作者:** [Carina](https://x.com/Freehere8) | **ソース:** [Link](https://x.com/Freehere8/status/2074205457116430719) | **公開日:** Jul 6, 2026
+
+---
+### 珊瑚の王国の海の女神の動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 珊瑚の王国で海と魚を操る、紫と金の瞳を持つ海の女神を描いた、非常に詳細な動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+彼女が手をかざすと、海がそれに従う。彼女の手の中にある珊瑚の王国。指の間を魚たちが駆け抜ける。その指は水と光へと姿を変えている。
+
+彼女の瞳は二つの物語を同時に語る。一つは深海のような紫色、もう一つは波間にきらめく陽光のような金色。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074135555185811456/img/cQEtJba5Tny5k2e2.jpg" width="600" alt="珊瑚の王国の海の女神の動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7064)**
+
+**作者:** [⭕Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2074146361805819955) | **公開日:** Jul 6, 2026
 
 ---
 ### 北極海の蜃気楼（上位蜃気楼）の動画
@@ -2101,101 +2198,6 @@ Mira がカメラを案内し、『Attack of the 50 Foot Housewife』のミニ�
 **作者:** [⭕Kisalay](https://x.com/Kisalay_) | **ソース:** [Link](https://x.com/Kisalay_/status/2070243131253989767) | **公開日:** Jun 25, 2026
 
 ---
-### Celestial Veil and Forgotten Stars
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 宇宙のヴェールから星の光が浮かび上がる、神秘的なビデオシーンを生成するための詩的なプロンプトです。
-
-#### 📝 プロンプト
-
-```
-永遠の影より、我は織り成すものを目覚めさせる。ヴェールは裂け、忘れ去られた星々の光が姿を現す
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070240737728528384/img/5-6YWwqCjfFiH52L.jpg" width="600" alt="Celestial Veil and Forgotten Stars">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6480)**
-
-**作者:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **ソース:** [Link](https://x.com/TLouisevsughan/status/2070240789201109025) | **公開日:** Jun 25, 2026
-
----
-### ファンタジーポータルのシーンナラティブ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> キャラクターが輝くポータルを通り抜け、魔法のプレイルームへと足を踏み入れる様子を描いた動画用のナラティブプロンプト。
-
-#### 📝 プロンプト
-
-```
-Elena が輝くポータルを通り抜け、広大な Playroom へと足を踏み入れる。彼女は好奇心と興奮に目を輝かせながら周囲を見渡す。Krampus は両手を広げ、グループを歓迎するようにジェスチャーをする。Holly は明るい笑顔で弾むように前に進み、楽しげに腕を組む。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070235831818756096/img/dFvaEDOD_8Hhk_SD.jpg" width="600" alt="ファンタジーポータルのシーンナラティブ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6479)**
-
-**作者:** [Chronicles of Petecastic](https://x.com/MrPetecastic) | **ソース:** [Link](https://x.com/MrPetecastic/status/2070235889586889042) | **公開日:** Jun 25, 2026
-
----
-### 感情的な怒れるカップルのドラマ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> カップル間の微細な表情やインディーズ映画のようなドラマ性に焦点を当てた、感情的なビデオプロンプトです。
-
-#### 📝 プロンプト
-
-```
-怒っているカップルの感情的なシーンを作成してください。パンチの効いた短いセリフ、適切で繊細な微細な表情、キーフィルライトとアナモルフィックレンズを使用した温かみのあるカラーグレーディングを施し、画面上のテキストはなしにします。感情的に複雑でありながらも繊細な適切なアングルで、インディーズ映画のようなドラマ性を備えた若いアメリカ人カップルを描き、怒りと間（ま）を活かして感情の全範囲を表現してください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070218111413035009/img/K5v2YoeYSUocr6rw.jpg" width="600" alt="感情的な怒れるカップルのドラマ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6482)**
-
-**作者:** [Kiri](https://x.com/Kyrannio) | **ソース:** [Link](https://x.com/Kyrannio/status/2070218164609405380) | **公開日:** Jun 25, 2026
-
----
-### 星々を編む天上の生き物たち
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 光の糸で星を編む神秘的な生き物を描いた、想像力豊かなビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-光の糸を使って、ゆっくりと星座を編み上げていく天上の生き物たち。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070204889674760192/img/h9MGPkeZh7Lae6zN.jpg" width="600" alt="星々を編む天上の生き物たち">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6485)**
-
-**作者:** [Maer](https://x.com/Maer4real) | **ソース:** [Link](https://x.com/Maer4real/status/2070204948281737574) | **公開日:** Jun 25, 2026
-
----
-### 泳いだり潜ったりするかわいいクマ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> カラフルな水の中を泳ぎ、プロのように潜水するかわいい子グマをフィーチャーした魅力的な動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-カラフルな水の中で楽しそうに泳ぐかわいい子グマ！水面でパシャパシャと遊ぶ姿から、プロのように水中へ潜る様子まで
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070170351917797376/img/ErO4qUhEGSf6fJ5M.jpg" width="600" alt="泳いだり潜ったりするかわいいクマ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6655)**
-
-**作者:** [Liam](https://x.com/LiamEvergreen) | **ソース:** [Link](https://x.com/LiamEvergreen/status/2070170659813237231) | **公開日:** Jun 25, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2257,6 +2259,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-11T06:37:30.912Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-11T09:59:43.763Z</sub>
 
 </div>

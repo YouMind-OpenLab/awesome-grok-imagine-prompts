@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2064** |
+| 📝 Total Prompts | **2069** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-11** |
 
@@ -189,6 +189,44 @@ Una valquiria celestial mística y noble, una mujer digna y hermosa con largo ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Video del Palacio de Permafrost de la Reina de las Nieves
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt descriptivo para generar un video de la Reina de las Nieves viajando a través de tierras de permafrost y su palacio ártico.
+
+#### 📝 Prompt
+
+```
+La Reina de las Nieves (Snedronningen), la reina de los copos de nieve o "abejas de nieve", que viaja por todo el mundo con la nieve. Su palacio y sus jardines se encuentran en las tierras de permafrost, específicamente en Spitsbergen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075688361616904192/img/O2dQTf94XaXvZ8ou.jpg" width="600" alt="Video del Palacio de Permafrost de la Reina de las Nieves">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7062)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2075688977089139000) | **Published:** Jul 10, 2026
+
+---
+### Video cinematográfico de una Helena de Troya negra
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt diseñado para generar un video cinematográfico de una Helena de Troya negra, enfatizando una representación cultural específica por encima del casting estándar.
+
+#### 📝 Prompt
+
+```
+No quiero simplemente una actriz negra interpretando a Helena de Troya. Quiero a una Helena de Troya negra. Crea ese video.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075601009921957888/img/aN9beJL_fzdcvCfd.jpg" width="600" alt="Video cinematográfico de una Helena de Troya negra">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7061)**
+
+**Author:** [Huff](https://x.com/Huff4Congress) | **Source:** [Link](https://x.com/Huff4Congress/status/2075601096253309265) | **Published:** Jul 10, 2026
+
+---
 ### Prompt de fantasía: Amanecer bioluminiscente
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -424,6 +462,25 @@ Altamente cinematográfico, conmovedor, caprichoso pero realista, texturas reali
 **Author:** [Sub Pop Culture 🇺🇸🐿️](https://x.com/WriterMcG) | **Source:** [Link](https://x.com/WriterMcG/status/2074431744808264058) | **Published:** Jul 7, 2026
 
 ---
+### Animación de un gigante amable y una mariposa brillante
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt narrativo conmovedor que presenta a un gigante amable y una mariposa mágica, utilizado para una comparación lado a lado entre Gemini Omni y otros modelos de video.
+
+#### 📝 Prompt
+
+```
+Un gigante amable encuentra una mariposa brillante… desde un atardecer solitario hasta una amistad mágica bajo las estrellas.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074412047656173568/img/PmeIz0AWd-B6Ynfs.jpg" width="600" alt="Animación de un gigante amable y una mariposa brillante">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6932)**
+
+**Author:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Source:** [Link](https://x.com/Dheepanratnam/status/2074412218666414171) | **Published:** Jul 7, 2026
+
+---
 ### Animación cósmica de la princesa tejedora en Tanabata
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -464,6 +521,25 @@ Sin diálogos
 **Author:** [Cicadas Francois Cosmos 🇯🇵](https://x.com/FC_Cicadas) | **Source:** [Link](https://x.com/FC_Cicadas/status/2074356506334822402) | **Published:** Jul 7, 2026
 
 ---
+### Mujer y dragón ancestral
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video narrativo que muestra a una mujer nadando hacia un dragón ancestral en una ciudad en ruinas, enfatizando la presencia por encima del conflicto.
+
+#### 📝 Prompt
+
+```
+Ella nada directamente hacia el dragón, pequeña a su lado. Sin luchar. Sin huir. Solo estar allí, en presencia de algo que hace que la ciudad en ruinas detrás de ella parezca un juguete de niños. El agua que los rodea está cargada de historias antiguas.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074351738916945920/img/DN5W4PjaZPXMXP3N.jpg" width="600" alt="Mujer y dragón ancestral">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7063)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2074351816167563613) | **Published:** Jul 7, 2026
+
+---
 ### Escena de diálogo del mapache Pippin
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -491,6 +567,27 @@ Pippin
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6890)**
 
 **Author:** [Carina](https://x.com/Freehere8) | **Source:** [Link](https://x.com/Freehere8/status/2074205457116430719) | **Published:** Jul 6, 2026
+
+---
+### Video de la Diosa del Mar en el Reino de Coral
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video altamente descriptivo de una diosa del mar con ojos violetas y dorados que controla el océano y los peces dentro de un reino de coral.
+
+#### 📝 Prompt
+
+```
+Ella levanta su mano y el mar obedece. Un reino de coral en su mano. Peces que se lanzan a través de sus dedos, los cuales se han convertido en agua y luz.
+
+Sus ojos cuentan dos historias a la vez, una violeta como las profundidades y otra dorada como la luz del sol sobre las olas.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074135555185811456/img/cQEtJba5Tny5k2e2.jpg" width="600" alt="Video de la Diosa del Mar en el Reino de Coral">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7064)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2074146361805819955) | **Published:** Jul 6, 2026
 
 ---
 ### Video de espejismo superior en el mar Ártico
@@ -2101,101 +2198,6 @@ El túnel no perdona la duda. Se lanza desde el hormigón roto como si las leyes
 **Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2070243131253989767) | **Published:** Jun 25, 2026
 
 ---
-### Velo celestial y estrellas olvidadas
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt poético que genera una escena de video mística de luz estelar emergiendo de un velo cósmico.
-
-#### 📝 Prompt
-
-```
-Desde las sombras de la eternidad, despierto el tejido, el velo se separa, contemplad la luz de las estrellas olvidadas
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070240737728528384/img/5-6YWwqCjfFiH52L.jpg" width="600" alt="Velo celestial y estrellas olvidadas">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6480)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2070240789201109025) | **Published:** Jun 25, 2026
-
----
-### Narrativa de escena de portal fantástico
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt narrativo descriptivo para un video que muestra a un personaje atravesando un portal brillante hacia una sala de juegos mágica.
-
-#### 📝 Prompt
-
-```
-Elena atraviesa el portal brillante hacia la vasta Playroom, mirando a su alrededor con intriga y emoción. Krampus hace un gesto de bienvenida con los brazos abiertos hacia el grupo. Holly salta hacia adelante con una sonrisa radiante, entrelazando los brazos de forma juguetona.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070235831818756096/img/dFvaEDOD_8Hhk_SD.jpg" width="600" alt="Narrativa de escena de portal fantástico">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6479)**
-
-**Author:** [Chronicles of Petecastic](https://x.com/MrPetecastic) | **Source:** [Link](https://x.com/MrPetecastic/status/2070235889586889042) | **Published:** Jun 25, 2026
-
----
-### Drama emocional de pareja enfadada
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de vídeo emocional centrado en microexpresiones y drama de cine independiente entre una pareja.
-
-#### 📝 Prompt
-
-```
-Crea una escena emocional de una pareja enfadada, con diálogos breves y contundentes, microexpresiones sutiles y adecuadas, gradación de color cálida con luz de relleno clave y lentes anamórficas, sin texto en pantalla, ángulos adecuados emocionalmente complejos pero sutiles, pareja estadounidense joven con sensibilidad de cine independiente, con ira y pausas para lograr una gama completa de emociones
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070218111413035009/img/K5v2YoeYSUocr6rw.jpg" width="600" alt="Drama emocional de pareja enfadada">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6482)**
-
-**Author:** [Kiri](https://x.com/Kyrannio) | **Source:** [Link](https://x.com/Kyrannio/status/2070218164609405380) | **Published:** Jun 25, 2026
-
----
-### Criaturas celestiales tejiendo constelaciones
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un video prompt imaginativo que representa a criaturas místicas tejiendo estrellas con hilos de luz.
-
-#### 📝 Prompt
-
-```
-Criaturas celestiales tejiendo lentamente constelaciones con hilos de luz.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070204889674760192/img/h9MGPkeZh7Lae6zN.jpg" width="600" alt="Criaturas celestiales tejiendo constelaciones">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6485)**
-
-**Author:** [Maer](https://x.com/Maer4real) | **Source:** [Link](https://x.com/Maer4real/status/2070204948281737574) | **Published:** Jun 25, 2026
-
----
-### Oso tierno nadando y buceando
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un encantador prompt de video que muestra a un tierno osezno nadando en aguas coloridas y buceando como un profesional.
-
-#### 📝 Prompt
-
-```
-¡Un pequeño y tierno oso disfrutando de un nado colorido! Desde chapotear en la superficie hasta bucear bajo el agua como todo un profesional
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070170351917797376/img/ErO4qUhEGSf6fJ5M.jpg" width="600" alt="Oso tierno nadando y buceando">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6655)**
-
-**Author:** [Liam](https://x.com/LiamEvergreen) | **Source:** [Link](https://x.com/LiamEvergreen/status/2070170659813237231) | **Published:** Jun 25, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2257,6 +2259,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-11T06:37:37.035Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-11T09:59:50.749Z</sub>
 
 </div>

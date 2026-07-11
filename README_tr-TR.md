@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2064** |
+| 📝 Total Prompts | **2069** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-11** |
 
@@ -189,6 +189,44 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Kar Kraliçesi Permafrost Sarayı Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kar Kraliçesi'nin permafrost topraklarında ve kutup sarayında yolculuğunu konu alan bir video oluşturmaya yönelik açıklayıcı bir komut.
+
+#### 📝 Prompt
+
+```
+Kar tanelerinin veya "kar arılarının" kraliçesi olan ve karla birlikte tüm dünyayı dolaşan Kar Kraliçesi (Snedronningen). Sarayı ve bahçeleri, permafrost topraklarında, özellikle de Spitsbergen'de yer almaktadır.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075688361616904192/img/O2dQTf94XaXvZ8ou.jpg" width="600" alt="Kar Kraliçesi Permafrost Sarayı Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7062)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2075688977089139000) | **Published:** Jul 10, 2026
+
+---
+### Siyahi Truvalı Helen Sinematik Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Standart oyuncu seçimlerinin ötesine geçerek belirli bir kültürel temsili vurgulayan, Siyahi bir Truvalı Helen'in sinematik videosunu oluşturmak için tasarlanmış bir komut.
+
+#### 📝 Prompt
+
+```
+Sadece Truvalı Helen rolünü oynayan siyahi bir aktris istemiyorum. Siyahi bir Truvalı Helen istiyorum. O videoyu oluştur.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075601009921957888/img/aN9beJL_fzdcvCfd.jpg" width="600" alt="Siyahi Truvalı Helen Sinematik Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7061)**
+
+**Author:** [Huff](https://x.com/Huff4Congress) | **Source:** [Link](https://x.com/Huff4Congress/status/2075601096253309265) | **Published:** Jul 10, 2026
+
+---
 ### Biyolüminesans Şafak Fantastik İstemi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -424,6 +462,25 @@ Oldukça sinematik, içten, tuhaf ama gerçekçi, gerçekçi dokular, otantik Br
 **Author:** [Sub Pop Culture 🇺🇸🐿️](https://x.com/WriterMcG) | **Source:** [Link](https://x.com/WriterMcG/status/2074431744808264058) | **Published:** Jul 7, 2026
 
 ---
+### Nazik Dev ve Parlayan Kelebek Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Nazik bir dev ve büyülü bir kelebeği konu alan, Gemini Omni ile diğer video modellerinin yan yana karşılaştırmasında kullanılan iç ısıtan bir hikaye anlatımı istemi.
+
+#### 📝 Prompt
+
+```
+Nazik dev parlayan bir kelebek bulur… yalnız bir gün batımından yıldızların altında büyülü bir dostluğa uzanan hikaye.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074412047656173568/img/PmeIz0AWd-B6Ynfs.jpg" width="600" alt="Nazik Dev ve Parlayan Kelebek Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6932)**
+
+**Author:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Source:** [Link](https://x.com/Dheepanratnam/status/2074412218666414171) | **Published:** Jul 7, 2026
+
+---
 ### Tanabata Dokumacı Prenses Kozmik Animasyonu
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -464,6 +521,25 @@ Diyalog yok
 **Author:** [Cicadas Francois Cosmos 🇯🇵](https://x.com/FC_Cicadas) | **Source:** [Link](https://x.com/FC_Cicadas/status/2074356506334822402) | **Published:** Jul 7, 2026
 
 ---
+### Kadın ve Kadim Ejderha
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yıkık bir şehirde kadim bir ejderhaya doğru yüzen bir kadını konu alan, çatışmadan ziyade varoluşa odaklanan anlatısal bir video istemi.
+
+#### 📝 Prompt
+
+```
+Doğrudan ejderhaya doğru yüzüyor, onun yanında küçücük kalıyor. Savaşmak için değil. Kaçmak için değil. Sadece orada, arkasındaki yıkık şehri çocuk oyuncağı gibi gösteren bir varlığın huzurunda olmak için. Onları çevreleyen su, eski hikayelerin ağırlığıyla dolu.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074351738916945920/img/DN5W4PjaZPXMXP3N.jpg" width="600" alt="Kadın ve Kadim Ejderha">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7063)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2074351816167563613) | **Published:** Jul 7, 2026
+
+---
 ### Rakun Pippin Diyalog Sahnesi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -491,6 +567,27 @@ Pippin
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6890)**
 
 **Author:** [Carina](https://x.com/Freehere8) | **Source:** [Link](https://x.com/Freehere8/status/2074205457116430719) | **Published:** Jul 6, 2026
+
+---
+### Mercan Krallığı Deniz Tanrıçası Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mercan krallığı içinde okyanusu ve balıkları kontrol eden, menekşe ve altın rengi gözlere sahip bir deniz tanrıçasını betimleyen oldukça detaylı bir video istemi.
+
+#### 📝 Prompt
+
+```
+Elini kaldırıyor ve deniz ona itaat ediyor. Avucunun içinde bir mercan krallığı, suya ve ışığa dönüşmüş parmaklarının arasından fırlayan balıklar.
+
+Gözleri aynı anda iki hikaye anlatıyor; biri derinlikler gibi menekşe rengi, diğeri dalgaların üzerindeki güneş ışığı gibi altın rengi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074135555185811456/img/cQEtJba5Tny5k2e2.jpg" width="600" alt="Mercan Krallığı Deniz Tanrıçası Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7064)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2074146361805819955) | **Published:** Jul 6, 2026
 
 ---
 ### Üstün Serap Kuzey Denizi Videosu
@@ -2101,101 +2198,6 @@ Tünel, tereddüdü affetmez. Fizik kuralları sadece bir öneriymiş gibi kır�
 **Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2070243131253989767) | **Published:** Jun 25, 2026
 
 ---
-### Göksel Örtü ve Unutulmuş Yıldızlar
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kozmik bir örtünün içinden çıkan yıldız ışığının mistik video sahnesini oluşturan şiirsel bir komut.
-
-#### 📝 Prompt
-
-```
-Sonsuzluğun gölgelerinden dokumayı uyandırıyorum, örtü aralanıyor, unutulmuş yıldızların ışığına tanıklık et
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070240737728528384/img/5-6YWwqCjfFiH52L.jpg" width="600" alt="Göksel Örtü ve Unutulmuş Yıldızlar">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6480)**
-
-**Author:** [Tammy LouiseVsughan](https://x.com/TLouisevsughan) | **Source:** [Link](https://x.com/TLouisevsughan/status/2070240789201109025) | **Published:** Jun 25, 2026
-
----
-### Fantastik Portal Sahnesi Anlatımı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir karakterin parıldayan bir portaldan geçerek büyülü bir oyun odasına adım attığı videoya yönelik betimleyici bir anlatım istemi.
-
-#### 📝 Prompt
-
-```
-Elena, parıldayan portaldan geçerek uçsuz bucaksız Oyun Odası'na adım atıyor ve etrafına merak ve heyecan dolu gözlerle bakıyor. Krampus, kollarını iki yana açarak grubu davetkar bir şekilde selamlıyor. Holly, parlak bir gülümsemeyle öne doğru zıplayıp oyuncu bir tavırla kollarını kenetliyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070235831818756096/img/dFvaEDOD_8Hhk_SD.jpg" width="600" alt="Fantastik Portal Sahnesi Anlatımı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6479)**
-
-**Author:** [Chronicles of Petecastic](https://x.com/MrPetecastic) | **Source:** [Link](https://x.com/MrPetecastic/status/2070235889586889042) | **Published:** Jun 25, 2026
-
----
-### Duygusal ve Öfkeli Çift Draması
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mikro ifadelere ve bir çift arasındaki bağımsız film dramasına odaklanan duygusal bir video istemi.
-
-#### 📝 Prompt
-
-```
-Öfkeli bir çiftin duygusal sahnesini oluştur; kısa ve vurucu diyaloglar, uygun ve incelikli mikro ifadeler, anahtar dolgu ışığı ve anamorfik lens kullanımıyla sıcak renk derecelendirmesi olsun, ekranda metin bulunmasın, duygusal açıdan karmaşık ancak incelikli doğru açılar kullanılsın, bağımsız film draması hassasiyetine sahip genç Amerikalı bir çift, öfke ve tam bir yelpazeyi yansıtan duraksamalar içersin
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070218111413035009/img/K5v2YoeYSUocr6rw.jpg" width="600" alt="Duygusal ve Öfkeli Çift Draması">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6482)**
-
-**Author:** [Kiri](https://x.com/Kyrannio) | **Source:** [Link](https://x.com/Kyrannio/status/2070218164609405380) | **Published:** Jun 25, 2026
-
----
-### Göksel Yaratıklar Takımyıldızları Örüyor
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mistik yaratıkların ışık iplikleriyle yıldızları ördüğünü betimleyen yaratıcı bir video istemi.
-
-#### 📝 Prompt
-
-```
-Göksel yaratıklar, ışık iplikleriyle takımyıldızları yavaşça birbirine örüyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070204889674760192/img/h9MGPkeZh7Lae6zN.jpg" width="600" alt="Göksel Yaratıklar Takımyıldızları Örüyor">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6485)**
-
-**Author:** [Maer](https://x.com/Maer4real) | **Source:** [Link](https://x.com/Maer4real/status/2070204948281737574) | **Published:** Jun 25, 2026
-
----
-### Yüzen ve Dalan Sevimli Ayı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Renkli sularda yüzen ve profesyonel bir dalgıç gibi dalış yapan sevimli bir ayı yavrusunu konu alan büyüleyici bir video istemi.
-
-#### 📝 Prompt
-
-```
-Renkli sularda yüzmenin keyfini çıkaran sevimli küçük ayı! Suyun üzerinde çırpınmaktan profesyonel bir dalgıç gibi su altına dalmaya kadar her anıyla
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070170351917797376/img/ErO4qUhEGSf6fJ5M.jpg" width="600" alt="Yüzen ve Dalan Sevimli Ayı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6655)**
-
-**Author:** [Liam](https://x.com/LiamEvergreen) | **Source:** [Link](https://x.com/LiamEvergreen/status/2070170659813237231) | **Published:** Jun 25, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2257,6 +2259,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-11T06:37:46.614Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-11T10:00:02.235Z</sub>
 
 </div>
