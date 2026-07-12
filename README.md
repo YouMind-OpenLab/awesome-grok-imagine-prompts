@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2069** |
+| 📝 Total Prompts | **2084** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-12** |
 
@@ -189,6 +189,258 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Space Colony Housing
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A science fiction video prompt depicting the crowded and industrial reality of early space colonies with hydroponic gardens.
+
+#### 📝 Prompt
+
+```
+They were pressure seals, hydroponic gardens, crowded concrete housing, artificial light, recycled air, and people trying to make dinner at the edge of nowhere.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076086195482714112/img/Iw0wb0gAEItuwkJV.jpg" width="600" alt="Space Colony Housing">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7128)**
+
+**Author:** [Sherice](https://x.com/Sherice0799) | **Source:** [Link](https://x.com/Sherice0799/status/2076086295336489166) | **Published:** Jul 11, 2026
+
+---
+### Blonde Scuba Diving Beach Walk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A beach-themed prompt describing a woman walking and preparing for a scuba diving adventure in the ocean.
+
+#### 📝 Prompt
+
+```
+A beautiful blonde and border putting on jumping into the water with her mouth on swimming with the the sea creatures and all Nemo her tank and walking into the ocean
+
+A beautiful blonde walking down the beach, getting ready to scuba diving
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076057170081415168/img/NKhvJlct2cdM6zzK.jpg" width="600" alt="Blonde Scuba Diving Beach Walk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7121)**
+
+**Author:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **Source:** [Link](https://x.com/AnnetteHollerWe/status/2076057254605009386) | **Published:** Jul 11, 2026
+
+---
+### Viking Shield Maiden Forest Entrance
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt for a Viking shield maiden with braided white hair emerging from a forest to take a stand.
+
+#### 📝 Prompt
+
+```
+A viking shield maiden with braided white hair taking her stand coming out of the forest
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076056920826216448/img/w1fIASmvMPd0ZUy9.jpg" width="600" alt="Viking Shield Maiden Forest Entrance">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7124)**
+
+**Author:** [Rebecca Clark](https://x.com/clark_rebe76017) | **Source:** [Link](https://x.com/clark_rebe76017/status/2076056974483915213) | **Published:** Jul 11, 2026
+
+---
+### Cinematic Gothic Military Parade
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A grand cinematic video prompt of a military parade featuring gothic architecture, marching bands, and stormy skies.
+
+#### 📝 Prompt
+
+```
+a large cinematic military parade, with gothic architecture, marching bands, tanks, crowds, aircraft, and a stormy sky
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076055202583511042/img/a_HcgX78ZEZVwe7T.jpg" width="600" alt="Cinematic Gothic Military Parade">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7129)**
+
+**Author:** [Tianjin 💫](https://x.com/TianjinXiin) | **Source:** [Link](https://x.com/TianjinXiin/status/2076055651646624251) | **Published:** Jul 11, 2026
+
+---
+### Arborpunk Hanging Orchid Mandala
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex artistic video prompt combining Balinese craftsmanship with Mucha-inspired organic lines in a circular mandala.
+
+#### 📝 Prompt
+
+```
+Artistic Arborpunk Hanging Orchid Observatory reimagined as a grand circular mandala composition, centered on a luminous sacred lotus flower at the heart. Infused with Balinese tropical craftsmanship and Alphonse Mucha-inspired flowing organic lines.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076033338314518528/img/8uNA4q9A5ERPiyjD.jpg" width="600" alt="Arborpunk Hanging Orchid Mandala">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7115)**
+
+**Author:** [Carina](https://x.com/Freehere8) | **Source:** [Link](https://x.com/Freehere8/status/2076033394631422235) | **Published:** Jul 11, 2026
+
+---
+### Call of Duty FPS Gameplay
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed prompt for creating realistic first-person shooter gameplay videos in the style of Modern Warfare, featuring tactical movement through a foggy urban street at night.
+
+#### 📝 Prompt
+
+```
+Ultra photorealistic first-person view in Call of Duty Modern Warfare style, player holding an M4A1 rifle with red dot sight, aiming down a dark urban street at night, realistic military gear, dramatic lighting, volumetric fog, highly detailed textures, cinematic gameplay footage --ar 16:9 --stylize 50 Realistic first-person shooter gameplay in Call of Duty Modern Warfare style: The player holds an M4A1 rifle with red dot sight, slowly moving forward through the foggy dark street while aiming. Subtle realistic weapon sway, breathing movement, and footsteps. The camera advances slowly with natural head bob, scanning the environment, volumetric fog, distant red lights and street lamps, highly detailed realistic motion and atmosphere --ar 16:9 --motion 4
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076020512023605248/img/TEjjbB8IXpHrtrXq.jpg" width="600" alt="Call of Duty FPS Gameplay">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7118)**
+
+**Author:** [ⁱᵃᵐ|᠘𝘶𝗸ค𐍃🇩🇪💙](https://x.com/LukasK92) | **Source:** [Link](https://x.com/LukasK92/status/2076020574438990207) | **Published:** Jul 11, 2026
+
+---
+### French Bulldog Belly Rub
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A charming prompt for a video of a female French Bulldog named Luna reacting joyfully to a belly rub, featuring specific dialogue and affectionate actions.
+
+#### 📝 Prompt
+
+```
+Dog Luna is a FEMALE ‘French bulldog’ getting belly rub from her sissy. Luna says “Sissy belly rubs are heaven on earth I love you” Luna wriggles and licks Sissy profusely on her hand.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075963834242613248/img/dI7eS9l4Pmi2M7Yu.jpg" width="600" alt="French Bulldog Belly Rub">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7119)**
+
+**Author:** [Brenda (Peanci) Helton](https://x.com/BrendaDHel6581) | **Source:** [Link](https://x.com/BrendaDHel6581/status/2075963908611785148) | **Published:** Jul 11, 2026
+
+---
+### Rococo Painting of Teen Boys
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A stylized video prompt that creates a Rococo painting aesthetic featuring two teen siblings by a forest lake.
+
+#### 📝 Prompt
+
+```
+A rococo painting of two young teen boys standing by a lake after swimming in a forest environment, siblings affectionately embraced.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075933202628382720/img/XaDF72k4IAzF39Y-.jpg" width="600" alt="Rococo Painting of Teen Boys">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7123)**
+
+**Author:** [Bobby](https://x.com/AiNerdGuy) | **Source:** [Link](https://x.com/AiNerdGuy/status/2075933252972622105) | **Published:** Jul 11, 2026
+
+---
+### Panda Kindness Story Lesson
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A narrative video prompt illustrating a moral lesson about kindness through a story of a panda sharing bamboo.
+
+#### 📝 Prompt
+
+```
+Lesson: Kindness always returns.
+A panda shared his last bamboo shoot with a hungry friend.
+Days later, many animals helped him after a storm destroyed his home.
+Kindness grows when it’s shared.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075864661749063680/img/ySbTF3zaFgWUMXxJ.jpg" width="600" alt="Panda Kindness Story Lesson">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7125)**
+
+**Author:** [Joyce Song](https://x.com/JoyceSongccrp) | **Source:** [Link](https://x.com/JoyceSongccrp/status/2075864735807914123) | **Published:** Jul 11, 2026
+
+---
+### Cinematic Roman Soldier Mountain Escape
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An intense, high-action cinematic prompt of a Roman soldier being chased through deep snow by a cougar in a majestic mountain range.
+
+#### 📝 Prompt
+
+```
+Cinematic 5-second action sequence of a Roman soldier in detailed armor sprinting desperately through deep snow in a vast, majestic snow-capped mountain range. A large, powerful cougar is aggressively chasing him. Dynamic motion, heavy snow spray from their feet, the soldier looking back in alarm, the cougar with mouth open mid-roar, dramatic low-angle composition, epic lighting, highly detailed fur and armor, intense atmosphere, photorealistic with strong artistic drama.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075819801612861440/img/mc33JqSewAl_OSLy.jpg" width="600" alt="Cinematic Roman Soldier Mountain Escape">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7122)**
+
+**Author:** [Raadhika 💫✨️](https://x.com/Raadhika73) | **Source:** [Link](https://x.com/Raadhika73/status/2075819856562208814) | **Published:** Jul 11, 2026
+
+---
+### Surreal Rap Battle Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A chaotic and surreal character-based prompt involving rhyming, stairs, and specific colored figures in a high-energy animation.
+
+#### 📝 Prompt
+
+```
+They rhyme a rap. baby bop who is colored white falls down some 6767 stairs and blames blue barney the pee dino with a sausage nose. He is colored blue (). The things go 10x crazy up and down the stairs.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075793194751586304/img/anHyVxN8rHqpv3Ke.jpg" width="600" alt="Surreal Rap Battle Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7120)**
+
+**Author:** [⬅️](https://x.com/CursedMoonRice) | **Source:** [Link](https://x.com/CursedMoonRice/status/2075793261940060544) | **Published:** Jul 11, 2026
+
+---
+### Cyberpunk Neon City Bike Ride
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A mood-driven video prompt for a cyberpunk motorcycle scene with neon lights and smooth transitions.
+
+#### 📝 Prompt
+
+```
+matte black helmet, neon lights, cyber punk city, smooth transition, clean tilt, ride this bike home.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075768629207941120/img/JvLUDdoI0YRz4xR-.jpg" width="600" alt="Cyberpunk Neon City Bike Ride">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7116)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2075768940848931198) | **Published:** Jul 11, 2026
+
+---
+### Cinematic 4K Volumetric Clouds
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A technical prompt focusing on cinematic quality, volumetric effects, and intense shadow/cloud colors for a realistic video output.
+
+#### 📝 Prompt
+
+```
+Realistic 4K cinematic quality /Smoot mix realism /interpolation and upscale /Volumetric effect / Softer, more intense shadows / Intense/ clouds color
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075756908561014784/img/0eJ59GY8fQ4jzLta.jpg" width="600" alt="Cinematic 4K Volumetric Clouds">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7117)**
+
+**Author:** [Arak Dark](https://x.com/orgunus93304) | **Source:** [Link](https://x.com/orgunus93304/status/2075756972553486681) | **Published:** Jul 11, 2026
+
+---
 ### Snow Queen Permafrost Palace Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -265,11 +517,30 @@ The tennis player completes the forehand swing as the yellow ball rockets across
 **Author:** [Robert Heinlein](https://x.com/strangerinastr) | **Source:** [Link](https://x.com/strangerinastr/status/2075286711521956062) | **Published:** Jul 9, 2026
 
 ---
-### Breathtaking Imaginary Fantasy World
+### Photorealistic Sailor Moon Mirror Selfie
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A massive cinematic video prompt for a realistic fantasy landscape with floating mountains, glowing forests, and waterfalls.
+> A highly detailed video prompt for a realistic mirror selfie of a woman in an accurate Sailor Moon costume, featuring natural lighting and skin textures.
+
+#### 📝 Prompt
+
+```
+Highly realistic mirror selfie of a woman with pale porcelain skin and delicate natural freckles across her face, shoulders and chest. She is dressed in a detailed, accurate Sailor Moon costume: white leotard with blue sailor collar and large red bow on the chest, short pleated blue skirt with white and red trim, golden crescent moon tiara, long white gloves with red accents, red boots, red choker with golden heart pendant, and golden brooch. Classic blonde hair in odango buns with long flowing pigtails. She is taking a mirror selfie in a modern bathroom, holding a black smartphone in one hand, looking directly at the camera with a confident and slightly playful expression. Soft natural window lighting, realistic skin texture, visible freckles, sharp focus, photorealistic.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075205335040634880/img/UdrgqedZjz4y9CUP.jpg" width="600" alt="Photorealistic Sailor Moon Mirror Selfie">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7126)**
+
+**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2075205397112123637) | **Published:** Jul 9, 2026
+
+---
+### Photorealistic Fantasy World Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed prompt for creating a breathtaking cinematic video of a fantasy landscape with floating mountains and glowing forests.
 
 #### 📝 Prompt
 
@@ -277,7 +548,7 @@ The tennis player completes the forehand swing as the yellow ball rockets across
 A breathtaking imaginary world that looks completely real, with floating mountains, giant ancient trees, crystal rivers, glowing forests, waterfalls flowing into misty lakes, golden sunrise, dramatic clouds, exotic birds, peaceful atmosphere, cinematic composition, ultra-photorealistic, IMAX, HDR, volumetric lighting, natural colors, hyper-detailed, 8K, professional photography, no CGI, no illustration, looks like a real place.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075106901357219840/img/BgbByrZssE0gXhLF.jpg" width="600" alt="Breathtaking Imaginary Fantasy World">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075106901357219840/img/BgbByrZssE0gXhLF.jpg" width="600" alt="Photorealistic Fantasy World Video Prompt">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7011)**
 
@@ -322,33 +593,19 @@ Romantic floating animation behind the pencil sketch couple: countless kiss mark
 **Author:** [joscilene Laura](https://x.com/joscilene_maria) | **Source:** [Link](https://x.com/joscilene_maria/status/2074851707507355664) | **Published:** Jul 8, 2026
 
 ---
-### Nostalgic Korean Country House Summer Afternoon
+### Traditional Korean Rural Summer Scene
 
 ![한국어](https://img.shields.io/badge/lang-한국어-orange)
 
-> A highly detailed cinematic video prompt for Grok Imagine capturing a serene summer afternoon inside a traditional Korean wooden house with sunlight and fresh watermelon.
+> A nostalgic and detailed video prompt depicting a traditional Korean countryside home during a bright summer afternoon, featuring sunlit interiors, refreshing watermelon, and a rotating fan.
 
 #### 📝 Prompt
 
 ```
-A clear and refreshing 10-second summer video unfolding inside the living room of an old wooden Korean country house. Clean and bright sunlight enters through open doors and windows, and wooden floors and old wooden walls create a warm and friendly atmosphere. Overall, it feels like a bright and airy summer afternoon.
-
-The door is wide open, and outside the door, fresh green trees and leaves are swaying slightly in the wind. The outside is bright and blue, and looks peaceful like a quiet country summer afternoon.
-
-On a low wooden table sits a round metal tray. Watermelon slices must be placed only inside the tray and not directly on the table. There are 5-6 fresh triangular watermelon slices neatly arranged on the tray. Each watermelon slice is not half-moon shaped, but a typical triangular watermelon slice with a pointed top and a short green skin at the bottom. When viewed from the camera, the red pulp surface looks like a clear triangle, and the green skin is naturally attached along the bottom edge of the triangle. The watermelon is not too thick, but thin and refreshing, and the moist red pulp, small black seeds, and fresh and cold summer watermelon feel are well visible.
-
-Next to the tray is a summer picture diary note drawn with colored pencils, but the letters are not readable. Several colored pencils are placed naturally around the picture diary, slightly scattered but not messy and looking like they have a sense of life.
-
-An old electric fan is placed on the wooden floor next to the table, rotating slowly from side to side with its blades turning. The fan wind moves the curtains and picture diary pages slightly, and although it is a hot summer day, the room feels cool and relaxed.
-
-Nostalgic atmosphere of a Korean country house, clear sunlight, fresh green trees, well-ventilated wooden living room, soft shadows, realistic texture, peaceful summer afternoon, quiet and relaxed atmosphere, cinematic 4K, natural light, triangular watermelon slices on a metal tray, picture diary, camera movement slowly approaching the floor fan. No people.
-
-Video length: 10 seconds. Aspect ratio: 16:9. Atmosphere: Bright, fresh, nostalgic, peaceful, cool fan wind on a clear summer day.
-
-Negative Prompt: Half-moon shaped watermelon, crescent-shaped watermelon, round sliced watermelon, circular cut watermelon, watermelon placed directly on the table, watermelon outside the tray, fruit floating in the air, strange watermelon shape, geometrically too hard triangle, distorted watermelon slices, melted fruit, too thick watermelon slices, thick chunk watermelon, cube shaped watermelon, bumpy broken pieces, excessively large watermelon skin, artificial looking fruit, pale and dry watermelon, watermelon stacked in the middle, messy fruit arrangement, dark room, gloomy lighting, modern apartment, people, hands, face, readable letters, subtitles, logo, watermark, distorted fan, blurry image, low quality, shaky camera.
+A crisp, fresh 10-second summer video set inside the living room of an old wooden Korean countryside house. Clean, bright sunlight streams through open doors and windows, and wooden floors and old wooden walls create a warm and friendly countryside home atmosphere. Overall, it feels like a bright and airy summer afternoon. The door is wide open, and outside the door, fresh green trees and leaves are swaying gently in the breeze. The outside is clear and blue with sunlight, and looks as peaceful as a quiet rural summer afternoon. A round metal tray sits on a low wooden table. Watermelon slices must only be placed inside the tray and not directly on the table. Five to six fresh triangular watermelon slices are neatly placed on the tray. Each watermelon slice is not half-moon shaped, but a typical triangular watermelon slice with a pointed top and short green skin attached to the bottom. When viewed from the camera, the red pulp side looks like a sharp triangle, and the green skin is naturally attached along the lower edge of the triangle. The watermelon is not too thick but thin and fresh, and the moist red pulp, small black seeds, and fresh, cold summer watermelon feel are clearly visible. Next to the tray is a summer picture diary notebook drawn with colored pencils, but the letters are illegible. Several colored pencils are naturally placed around the picture diary, slightly scattered but not messy and looking lived-in. An old electric fan sits on the wooden floor next to the table, slowly rotating from side to side with its blades turning. The fan breeze slightly moves the curtains and the pages of the picture diary, and although it's a hot summer day with bright sunlight, the room feels cool and relaxed. Nostalgic atmosphere of a Korean countryside house, clear sunlight, fresh green trees, airy wooden living room, soft shadows, realistic textures, peaceful summer afternoon, quiet and relaxed atmosphere, cinematic 4K, natural light, triangular watermelon slices on a metal tray and picture diary, camera movement slowly approaching the floor fan. No people. Video length: 10 seconds. Aspect ratio: 16:9. Atmosphere: Bright, fresh, nostalgic, peaceful, cool fan breeze on a clear summer day. Negative prompt: Half-moon shaped watermelon, crescent-shaped watermelon, round sliced watermelon, circularly cut watermelon, watermelon placed directly on the table, watermelon outside the tray, fruit floating in the air, weird watermelon shape, geometrically too stiff triangle, distorted watermelon slices, melted fruit, too thick watermelon slices, chunky watermelon, cube-shaped watermelon, bumpy broken pieces, excessively large watermelon rind, artificial looking fruit, pale and dry watermelon, watermelon piled in the center, messy fruit arrangement, dark room, gloomy lighting, modern apartment, people, hands, faces, readable letters, subtitles, logos, watermarks, distorted fan, blurry image, low quality, shaky camera.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074491828473393153/img/7RlihPIyY87TipaM.jpg" width="600" alt="Nostalgic Korean Country House Summer Afternoon">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074491828473393153/img/7RlihPIyY87TipaM.jpg" width="600" alt="Traditional Korean Rural Summer Scene">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6975)**
 
@@ -462,19 +719,19 @@ Highly cinematic, heartfelt, whimsical but grounded, realistic textures, authent
 **Author:** [Sub Pop Culture 🇺🇸🐿️](https://x.com/WriterMcG) | **Source:** [Link](https://x.com/WriterMcG/status/2074431744808264058) | **Published:** Jul 7, 2026
 
 ---
-### Giant and Glowing Butterfly
+### Giant and Glowing Butterfly Story
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A heartwarming story about a gentle giant finding a glowing butterfly at sunset, turning into a magical friendship under the stars.
+> A narrative video prompt about a gentle giant finding a magical butterfly, following their journey from sunset to starlight.
 
 #### 📝 Prompt
 
 ```
-Gentle giant finds a glowing butterfly… from lonely sunset to magical friendship under the stars.
+Gentle giant finds a glowing butterfly… from lonely sunset to magical friendship under the stars
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074412047656173568/img/PmeIz0AWd-B6Ynfs.jpg" width="600" alt="Giant and Glowing Butterfly">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074412047656173568/img/PmeIz0AWd-B6Ynfs.jpg" width="600" alt="Giant and Glowing Butterfly Story">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6932)**
 
@@ -521,11 +778,11 @@ No dialogue
 **Author:** [Cicadas Francois Cosmos 🇯🇵](https://x.com/FC_Cicadas) | **Source:** [Link](https://x.com/FC_Cicadas/status/2074356506334822402) | **Published:** Jul 7, 2026
 
 ---
-### Woman and Ancient Dragon
+### Swimmer and the Ancient Dragon
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A narrative video prompt featuring a woman swimming toward an ancient dragon in a ruined city, emphasizing presence over conflict.
+> A cinematic video prompt describing a peaceful encounter between a small swimmer and a massive dragon in an ancient underwater city.
 
 #### 📝 Prompt
 
@@ -533,7 +790,7 @@ No dialogue
 She swims directly toward the dragon, small beside it. To not fight. Not to run. Just to be there, in the presence of something that makes the ruined city behind her seem like children's toys. The water surrounding them is heavy with old stories.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074351738916945920/img/DN5W4PjaZPXMXP3N.jpg" width="600" alt="Woman and Ancient Dragon">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074351738916945920/img/DN5W4PjaZPXMXP3N.jpg" width="600" alt="Swimmer and the Ancient Dragon">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7063)**
 
@@ -569,25 +826,42 @@ Pippin
 **Author:** [Carina](https://x.com/Freehere8) | **Source:** [Link](https://x.com/Freehere8/status/2074205457116430719) | **Published:** Jul 6, 2026
 
 ---
-### Coral Kingdom Sea Goddess Video
+### Mystical Underwater Sea Goddess
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly descriptive video prompt of a sea goddess with violet and gold eyes controlling the ocean and fish within a coral kingdom.
+> A poetic video prompt of a goddess whose hand commands the sea, featuring a coral kingdom and fish darting through fingers of water and light.
 
 #### 📝 Prompt
 
 ```
-She raises her hand and the sea obeys. A coral kingdom in her hand Fish darting through fingers That have turned to water and light.
-
-Her eyes tell two stories at once, one violet like the deep and one golden like the sunlight on waves.
+She raises her hand and the sea obeys. A coral kingdom in her hand Fish darting through fingers That have turned to water and light. Her eyes tell two stories at once, one violet like the deep and one golden like the sunlight on waves.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074135555185811456/img/cQEtJba5Tny5k2e2.jpg" width="600" alt="Coral Kingdom Sea Goddess Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074135555185811456/img/cQEtJba5Tny5k2e2.jpg" width="600" alt="Mystical Underwater Sea Goddess">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7064)**
 
 **Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2074146361805819955) | **Published:** Jul 6, 2026
+
+---
+### Serene Japanese Kimono Night Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A peaceful video prompt featuring a woman in a kimono by the water under warm lantern light with falling autumn leaves.
+
+#### 📝 Prompt
+
+```
+A lantern glowing warm over the water, autumn leaves falling softly, and her sitting there in that beautiful kimono with the fish keeping her company in the blue night.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074123319205601280/img/VGutJ5IAumyEj7IT.jpg" width="600" alt="Serene Japanese Kimono Night Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7127)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2074123700790522084) | **Published:** Jul 6, 2026
 
 ---
 ### Superior Mirage Arctic Sea Video
@@ -1908,294 +2182,6 @@ Ultra-realistic close-up scene of a beautiful woman in a beautiful white sundres
 **Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2070902475238818282) | **Published:** Jun 27, 2026
 
 ---
-### Studio Ghibli Inspired Cozy Attic
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed cinematic prompt for creating a Studio Ghibli-inspired attic room scene with magical atmosphere and celestial views.
-
-#### 📝 Prompt
-
-```
-A cozy attic room filled with vintage treasures, old maps, potted plants, fairy lights, and a skylight revealing a breathtaking galaxy-filled night sky, warm and magical atmosphere, Studio Ghibli inspired, highly detailed anime illustration.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070855968339230720/img/gdIXM9etUa8gWSBz.jpg" width="600" alt="Studio Ghibli Inspired Cozy Attic">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6559)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2070856044876902482) | **Published:** Jun 27, 2026
-
----
-### Woman in Red Hood with Apple
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic close-up of a mysterious woman in a red hooded cloak under an old apple tree.
-
-#### 📝 Prompt
-
-```
-Ultra-realistic close-up scene of a mysterious young woman in a deep red hooded cloak holding a bright red apple beneath an old apple tree.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070822235099504640/img/2GsgtT4YdnmnI_uS.jpg" width="600" alt="Woman in Red Hood with Apple">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6561)**
-
-**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2070842077399675391) | **Published:** Jun 27, 2026
-
----
-### Miniature Dollhouse Walkthrough
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A creative video prompt for a playful walkthrough of a miniature house set, featuring a character host and detailed tiny room designs.
-
-#### 📝 Prompt
-
-```
-Mira guides the camera on a playful walkthrough inside the Attack of the 50 Foot Housewife miniature house set. She steps through the open dollhouse facade, pointing out the tiny living room, kitchen, and staircase with an enthusiastic host smile.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070828566149799936/img/E-PWyVCNm3dHrglN.jpg" width="600" alt="Miniature Dollhouse Walkthrough">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6557)**
-
-**Author:** [Brian](https://x.com/luvsheight) | **Source:** [Link](https://x.com/luvsheight/status/2070828620747063692) | **Published:** Jun 27, 2026
-
----
-### Stallion Running in Open Field
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt that generates a highly realistic close-up of a black stallion running through a green field.
-
-#### 📝 Prompt
-
-```
-Ultra-realistic close-up scene of a black stallion horse running in a green open field.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070821975010758656/img/YB5H88tCBylmvaM9.jpg" width="600" alt="Stallion Running in Open Field">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6558)**
-
-**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2070826977561612604) | **Published:** Jun 27, 2026
-
----
-### Majestic Sugar Maple Forest Ascent
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt creating a dramatic spiraling ascent up a majestic ancient Sugar Maple tree in a Tennessee forest during golden hour.
-
-#### 📝 Prompt
-
-```
-A cinematic low-angle shot of a majestic ancient Sugar Maple tree in a Tennessee forest at golden hour, camera starting at the massive gnarled base spiraling upward in a smooth dramatic ascent along the tall straight trunk, revealing intricate bark texture, sprawling branches with vibrant autumn leaves glowing in sunlight, epic scale and magnificence, hyper-detailed, photorealistic, sweeping motion, National Geographic style.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070578616514064385/img/s6v7rbP2_YJpcJTs.jpg" width="600" alt="Majestic Sugar Maple Forest Ascent">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6528)**
-
-**Author:** [Ray Salmon](https://x.com/salmon1820) | **Source:** [Link](https://x.com/salmon1820/status/2070579069708570890) | **Published:** Jun 26, 2026
-
----
-### Rocket Boots Space Voyage
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt of a character using rocket boots to journey all the way to space.
-
-#### 📝 Prompt
-
-```
-The rocket boots finally took her all the way to space… and she’s never looking back
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070541395014942720/img/sJBFM8Zd0FLzyf6I.jpg" width="600" alt="Rocket Boots Space Voyage">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6693)**
-
-**Author:** [Sadie Supa Doge](https://x.com/SadieSupaDoge) | **Source:** [Link](https://x.com/SadieSupaDoge/status/2070541545548427407) | **Published:** Jun 26, 2026
-
----
-### Misty Howling Morning Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An atmospheric video prompt featuring a man standing in the mist, reacting to the rain and howling at the first light of dawn.
-
-#### 📝 Prompt
-
-```
-he stands still, only moving his head looking from side to side, it is foggy and misty he feels the rain he cherishes the sun 🌞 he howls for the mornings first lights
-```
-
-<img src="https://cms-assets.youmind.com/media/1782548991899_tk0r5w_HLv4wQiXoAAXyB1.jpg" width="600" alt="Misty Howling Morning Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6527)**
-
-**Author:** [Brooke](https://x.com/Brooke85276868) | **Source:** [Link](https://x.com/Brooke85276868/status/2070522599294013689) | **Published:** Jun 26, 2026
-
----
-### Moonlit Shoreline Rock Concert Performance
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt depicting a rock guitarist and a ballerina performing on a moonlit shore with dynamic wind and motion.
-
-#### 📝 Prompt
-
-```
-Cinematic moonlit shoreline stage: realistic human rock guitarist planted wide in black leather, electric guitar alive—strong picking hand, active fretboard, hair and jacket moving in wind; equal frame with a silver-white ballerina on pointe, classic
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070516606371864576/img/N6tBA0_0E2jxku8N.jpg" width="600" alt="Moonlit Shoreline Rock Concert Performance">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6522)**
-
-**Author:** [@TheCFormula credo.](https://x.com/TheCFormula) | **Source:** [Link](https://x.com/TheCFormula/status/2070516674906730730) | **Published:** Jun 26, 2026
-
----
-### Nostalgic Ghibli Japanese Train Station
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video prompt for generating a peaceful, Studio Ghibli inspired rural Japanese train station at night with cinematic lighting.
-
-#### 📝 Prompt
-
-```
-A nostalgic rural Japanese train station at night, vintage wooden platform, glowing station lamps, wildflowers swaying in the breeze, starry sky overhead, warm and peaceful atmosphere, Studio Ghibli inspired anime artwork, ultra detailed and cinematic.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070496506583588864/img/ErbxoFiu1HZIslQC.jpg" width="600" alt="Nostalgic Ghibli Japanese Train Station">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6523)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2070496541476106291) | **Published:** Jun 26, 2026
-
----
-### Body Moving Up Through Clouds Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A motion prompt designed to animate a subject ascending through clouds with high-definition cinematic quality.
-
-#### 📝 Prompt
-
-```
-Animate body moving up through the clouds, masterpiece, ultra HD quality 1111111111111111111111111111111111 k resolution
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070478707072905216/img/orE4qofUH1ZrmX8n.jpg" width="600" alt="Body Moving Up Through Clouds Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6524)**
-
-**Author:** [MIUZAH DEIOPAH OF THE PLEIADES](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2070478762215358568) | **Published:** Jun 26, 2026
-
----
-### Galactic Federation Pleiadians Starship Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A sci-fi prompt depicting Pleiadians in jumpsuits operating computer terminals inside a starship with volumetric lighting.
-
-#### 📝 Prompt
-
-```
-Pleiadians in Blue Galactic federation jumpsuits sat at computer terminals aboard starships, masterpiece, ultra HD Quality 11111111111111111111111111111111111111 k Volumetric Bright Lighting k
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070425640235421696/img/S65YifuMA9sk6iP2.jpg" width="600" alt="Galactic Federation Pleiadians Starship Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6525)**
-
-**Author:** [MIUZAH DEIOPAH OF THE PLEIADES](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2070425694207725650) | **Published:** Jun 26, 2026
-
----
-### 2D Cartoon Naan Food Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A charming 2D animation prompt for food characters featuring a bouncing naan with avocado and tomato accents.
-
-#### 📝 Prompt
-
-```
-2D cartoon food animation: cheerful naan flatbread with avocado and tomatoes bounces lightly, steam puffs pop in cute circles, basil leaves wiggle. Snappy kids-cartoon timing, warm colors, gentle zoom.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070377021864075264/img/R6Wn080jiwtdSq-z.jpg" width="600" alt="2D Cartoon Naan Food Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6526)**
-
-**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2070377101966913755) | **Published:** Jun 26, 2026
-
----
-### Cartoon Naan Pizza Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A whimsical 2D cartoon animation prompt featuring a bobbing naan pizza with shimmering ingredients.
-
-#### 📝 Prompt
-
-```
-Playful cartoon animation: the naan pizza gently bobs and steam curls upward in bouncy loops, tomato slices shimmer, basil leaves flutter. Bright 2D cartoon style with soft camera push-in, whimsical and appetizing.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070376328482709504/img/6SqB4RTZlaLEgEJP.jpg" width="600" alt="Cartoon Naan Pizza Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6529)**
-
-**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2070376397508366690) | **Published:** Jun 26, 2026
-
----
-### Mermaid and Cat Mermaid Underwater Fantasy
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A serene video of a mermaid and a cat mermaid swimming together in the deep blue ocean, accompanied by a giant whale.
-
-#### 📝 Prompt
-
-```
-🌊🐋 Beneath the endless blue, a mermaid and her cat mermaid swim side by side beneath the watchful eye of a gentle giant whale.
-
-A world where friendship knows no boundaries…
-Only the sound of the ocean and the magic of imagination. ✨
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070262422682898432/img/IQ76u5RSXEZJqet9.jpg" width="600" alt="Mermaid and Cat Mermaid Underwater Fantasy">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6478)**
-
-**Author:** [猫神MT](https://x.com/nekogami_MT) | **Source:** [Link](https://x.com/nekogami_MT/status/2070262480039997474) | **Published:** Jun 25, 2026
-
----
-### Cinematic Motorcycle Tunnel Jump
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A high-action cinematic prompt featuring a motorcyclist launching off broken concrete in a dark tunnel with sparks flying.
-
-#### 📝 Prompt
-
-```
-The tunnel doesn’t forgive hesitation. He launches off the broken concrete like the laws of physics were just a suggestion. Sparks fly. The engine screams. And for one perfect second, he’s flying through the dark with nothing but will and momentum keeping him in the air. Some men run from the shadows. This one rides straight through them.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069995864765120512/img/Da81kGoY505pVtB8.jpg" width="600" alt="Cinematic Motorcycle Tunnel Jump">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6486)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2070243131253989767) | **Published:** Jun 25, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2257,6 +2243,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-12T06:53:46.471Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-12T10:14:55.121Z</sub>
 
 </div>

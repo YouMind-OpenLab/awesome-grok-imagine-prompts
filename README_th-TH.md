@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2069** |
+| 📝 Total Prompts | **2084** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-12** |
 
@@ -189,6 +189,258 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### ที่อยู่อาศัยในอาณานิคมอวกาศ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์แนวไซไฟที่ถ่ายทอดความเป็นจริงอันแออัดและเต็มไปด้วยอุตสาหกรรมของอาณานิคมอวกาศยุคบุกเบิก พร้อมด้วยสวนไฮโดรโปนิกส์
+
+#### 📝 Prompt
+
+```
+มันคือซีลกันความดัน สวนไฮโดรโปนิกส์ ที่พักอาศัยคอนกรีตอันแออัด แสงไฟประดิษฐ์ อากาศที่ผ่านการรีไซเคิล และผู้คนที่พยายามทำมื้อค่ำที่ขอบของความว่างเปล่า
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076086195482714112/img/Iw0wb0gAEItuwkJV.jpg" width="600" alt="ที่อยู่อาศัยในอาณานิคมอวกาศ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7128)**
+
+**Author:** [Sherice](https://x.com/Sherice0799) | **Source:** [Link](https://x.com/Sherice0799/status/2076086295336489166) | **Published:** Jul 11, 2026
+
+---
+### สาวผมบลอนด์เดินเล่นริมหาดเตรียมตัวดำน้ำลึก
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์ในธีมชายหาดที่บรรยายถึงหญิงสาวคนหนึ่งกำลังเดินและเตรียมตัวสำหรับการผจญภัยดำน้ำลึกในมหาสมุทร
+
+#### 📝 Prompt
+
+```
+หญิงสาวผมบลอนด์แสนสวยกำลังสวมอุปกรณ์เตรียมกระโดดลงน้ำ โดยคาบอุปกรณ์ช่วยหายใจเพื่อว่ายน้ำไปชมสัตว์ทะเลและเหล่าปลานีโม พร้อมถังออกซิเจนและเดินลงสู่มหาสมุทร
+
+หญิงสาวผมบลอนด์แสนสวยกำลังเดินอยู่บนชายหาด เตรียมตัวสำหรับการดำน้ำลึก
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076057170081415168/img/NKhvJlct2cdM6zzK.jpg" width="600" alt="สาวผมบลอนด์เดินเล่นริมหาดเตรียมตัวดำน้ำลึก">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7121)**
+
+**Author:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **Source:** [Link](https://x.com/AnnetteHollerWe/status/2076057254605009386) | **Published:** Jul 11, 2026
+
+---
+### ทางเข้าป่าของนักรบหญิงไวกิ้ง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์สำหรับนักรบหญิงไวกิ้งผมเปียสีขาวที่กำลังก้าวออกมาจากป่าเพื่อเตรียมพร้อมต่อสู้
+
+#### 📝 Prompt
+
+```
+นักรบหญิงไวกิ้งผมเปียสีขาวกำลังก้าวออกมาจากป่าเพื่อเตรียมพร้อมต่อสู้
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076056920826216448/img/w1fIASmvMPd0ZUy9.jpg" width="600" alt="ทางเข้าป่าของนักรบหญิงไวกิ้ง">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7124)**
+
+**Author:** [Rebecca Clark](https://x.com/clark_rebe76017) | **Source:** [Link](https://x.com/clark_rebe76017/status/2076056974483915213) | **Published:** Jul 11, 2026
+
+---
+### ขบวนพาเหรดทหารสไตล์โกธิคสุดอลังการ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวภาพยนตร์สุดยิ่งใหญ่ของขบวนพาเหรดทหารที่เต็มไปด้วยสถาปัตยกรรมแบบโกธิค วงโยธวาทิต และท้องฟ้าที่เต็มไปด้วยพายุ
+
+#### 📝 Prompt
+
+```
+ขบวนพาเหรดทหารแนวภาพยนตร์ขนาดใหญ่ พร้อมด้วยสถาปัตยกรรมแบบโกธิค วงโยธวาทิต รถถัง ฝูงชน เครื่องบิน และท้องฟ้าที่เต็มไปด้วยพายุ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076055202583511042/img/a_HcgX78ZEZVwe7T.jpg" width="600" alt="ขบวนพาเหรดทหารสไตล์โกธิคสุดอลังการ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7129)**
+
+**Author:** [Tianjin 💫](https://x.com/TianjinXiin) | **Source:** [Link](https://x.com/TianjinXiin/status/2076055651646624251) | **Published:** Jul 11, 2026
+
+---
+### Arborpunk Hanging Orchid Mandala
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอเชิงศิลปะที่ซับซ้อน ซึ่งผสมผสานงานฝีมือแบบบาหลีเข้ากับเส้นสายแบบออร์แกนิกที่ได้รับแรงบันดาลใจจาก Mucha ในรูปแบบแมนดาลาวงกลม
+
+#### 📝 Prompt
+
+```
+Arborpunk Hanging Orchid Observatory ในรูปแบบใหม่ที่นำเสนอผ่านองค์ประกอบแมนดาลาวงกลมขนาดใหญ่ โดยมีดอกบัวศักดิ์สิทธิ์ที่ส่องสว่างเป็นศูนย์กลาง ผสมผสานงานฝีมือเขตร้อนแบบบาหลีเข้ากับเส้นสายที่พลิ้วไหวแบบออร์แกนิกที่ได้รับแรงบันดาลใจจาก Alphonse Mucha
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076033338314518528/img/8uNA4q9A5ERPiyjD.jpg" width="600" alt="Arborpunk Hanging Orchid Mandala">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7115)**
+
+**Author:** [Carina](https://x.com/Freehere8) | **Source:** [Link](https://x.com/Freehere8/status/2076033394631422235) | **Published:** Jul 11, 2026
+
+---
+### เกมเพลย์ FPS สไตล์ Call of Duty
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง (Prompt) รายละเอียดสูงสำหรับการสร้างวิดีโอเกมเพลย์แนวเดินยิงมุมมองบุคคลที่หนึ่ง (FPS) ที่สมจริงในสไตล์ Modern Warfare โดยเน้นการเคลื่อนที่เชิงยุทธวิธีผ่านถนนในเมืองที่มีหมอกหนาในยามค่ำคืน
+
+#### 📝 Prompt
+
+```
+ภาพมุมมองบุคคลที่หนึ่งที่สมจริงระดับ Ultra ในสไตล์ Call of Duty Modern Warfare ผู้เล่นถือปืนไรเฟิล M4A1 ติดกล้องเล็งจุดแดง เล็งไปตามถนนในเมืองที่มืดมิดในยามค่ำคืน อุปกรณ์ทางทหารที่สมจริง แสงสีที่ดูดราม่า หมอกวอลูเมตริก พื้นผิวที่มีรายละเอียดสูง ฟุตเทจเกมเพลย์แบบภาพยนตร์ --ar 16:9 --stylize 50 เกมเพลย์แนวเดินยิงมุมมองบุคคลที่หนึ่งที่สมจริงในสไตล์ Call of Duty Modern Warfare: ผู้เล่นถือปืนไรเฟิล M4A1 ติดกล้องเล็งจุดแดง ค่อยๆ เคลื่อนที่ไปข้างหน้าผ่านถนนที่มืดมิดและเต็มไปด้วยหมอกขณะเล็งปืน มีการส่ายของอาวุธที่สมจริง การเคลื่อนไหวของการหายใจ และเสียงฝีเท้า กล้องเคลื่อนที่ไปข้างหน้าอย่างช้าๆ พร้อมการโยกของศีรษะที่เป็นธรรมชาติ คอยสอดส่องสภาพแวดล้อม หมอกวอลูเมตริก แสงไฟสีแดงจากระยะไกลและไฟถนน การเคลื่อนไหวและบรรยากาศที่สมจริงพร้อมรายละเอียดสูง --ar 16:9 --motion 4
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076020512023605248/img/TEjjbB8IXpHrtrXq.jpg" width="600" alt="เกมเพลย์ FPS สไตล์ Call of Duty">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7118)**
+
+**Author:** [ⁱᵃᵐ|᠘𝘶𝗸ค𐍃🇩🇪💙](https://x.com/LukasK92) | **Source:** [Link](https://x.com/LukasK92/status/2076020574438990207) | **Published:** Jul 11, 2026
+
+---
+### การเกาพุงสุนัขเฟรนช์บูลด็อก
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์แสนน่ารักสำหรับวิดีโอของสุนัขเฟรนช์บูลด็อกเพศเมียชื่อ Luna ที่กำลังตอบสนองอย่างมีความสุขเมื่อถูกเกาพุง โดยมีบทพูดและการแสดงออกที่เต็มไปด้วยความรัก
+
+#### 📝 Prompt
+
+```
+สุนัข Luna เป็น ‘เฟรนช์บูลด็อก’ เพศเมีย กำลังถูกพี่สาวเกาพุงให้ Luna พูดว่า “การที่พี่สาวเกาพุงให้เนี่ย มันคือสวรรค์บนดินเลย ฉันรักพี่นะ” Luna บิดตัวไปมาและเลียมือพี่สาวอย่างรัวๆ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075963834242613248/img/dI7eS9l4Pmi2M7Yu.jpg" width="600" alt="การเกาพุงสุนัขเฟรนช์บูลด็อก">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7119)**
+
+**Author:** [Brenda (Peanci) Helton](https://x.com/BrendaDHel6581) | **Source:** [Link](https://x.com/BrendaDHel6581/status/2075963908611785148) | **Published:** Jul 11, 2026
+
+---
+### ภาพวาดสไตล์โรโกโกของเด็กหนุ่ม
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอที่มีสไตล์เฉพาะตัวสำหรับสร้างภาพวาดสไตล์โรโกโกของพี่น้องวัยรุ่นสองคนที่ริมทะเลสาบในป่า
+
+#### 📝 Prompt
+
+```
+ภาพวาดสไตล์โรโกโกของเด็กหนุ่มวัยรุ่นสองคนที่ยืนอยู่ริมทะเลสาบหลังจากว่ายน้ำในป่า โดยที่พี่น้องทั้งสองสวมกอดกันอย่างอบอุ่น
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075933202628382720/img/XaDF72k4IAzF39Y-.jpg" width="600" alt="ภาพวาดสไตล์โรโกโกของเด็กหนุ่ม">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7123)**
+
+**Author:** [Bobby](https://x.com/AiNerdGuy) | **Source:** [Link](https://x.com/AiNerdGuy/status/2075933252972622105) | **Published:** Jul 11, 2026
+
+---
+### บทเรียนเรื่องความเมตตาของหมีแพนด้า
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอเล่าเรื่องที่ถ่ายทอดบทเรียนทางศีลธรรมเกี่ยวกับความเมตตา ผ่านเรื่องราวของหมีแพนด้าที่แบ่งปันหน่อไม้ให้กับเพื่อน
+
+#### 📝 Prompt
+
+```
+บทเรียน: ความเมตตามักจะย้อนกลับมาหาเราเสมอ
+หมีแพนด้าตัวหนึ่งแบ่งปันหน่อไม้ชิ้นสุดท้ายของเขาให้กับเพื่อนที่กำลังหิวโหย
+หลายวันต่อมา สัตว์หลายชนิดได้เข้ามาช่วยเหลือเขาหลังจากพายุทำลายบ้านของเขาไป
+ความเมตตาจะงอกงามเมื่อเราแบ่งปัน
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075864661749063680/img/ySbTF3zaFgWUMXxJ.jpg" width="600" alt="บทเรียนเรื่องความเมตตาของหมีแพนด้า">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7125)**
+
+**Author:** [Joyce Song](https://x.com/JoyceSongccrp) | **Source:** [Link](https://x.com/JoyceSongccrp/status/2075864735807914123) | **Published:** Jul 11, 2026
+
+---
+### ฉากหนีตายของทหารโรมันในบรรยากาศภาพยนตร์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์แนวภาพยนตร์แอ็กชันสุดเข้มข้นของทหารโรมันที่กำลังถูกเสือคูการ์ไล่ล่าท่ามกลางหิมะหนาในเทือกเขาอันยิ่งใหญ่
+
+#### 📝 Prompt
+
+```
+ฉากแอ็กชันความยาว 5 วินาทีในรูปแบบภาพยนตร์ เผยให้เห็นทหารโรมันในชุดเกราะรายละเอียดสูงกำลังวิ่งหนีอย่างสุดชีวิตผ่านหิมะหนาในเทือกเขาหิมะอันกว้างใหญ่และงดงาม โดยมีเสือคูการ์ตัวใหญ่ทรงพลังกำลังไล่ล่าอย่างดุเดือด การเคลื่อนไหวที่สมจริง หิมะกระเซ็นจากฝ่าเท้า ทหารหันกลับมามองด้วยความตื่นตระหนก เสือคูการ์อ้าปากคำราม จัดองค์ประกอบภาพมุมต่ำที่ดูน่าเกรงขาม แสงสีแบบมหากาพย์ รายละเอียดขนและชุดเกราะที่คมชัด บรรยากาศเข้มข้น สมจริงราวกับภาพถ่ายพร้อมความดราม่าทางศิลปะที่ทรงพลัง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075819801612861440/img/mc33JqSewAl_OSLy.jpg" width="600" alt="ฉากหนีตายของทหารโรมันในบรรยากาศภาพยนตร์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7122)**
+
+**Author:** [Raadhika 💫✨️](https://x.com/Raadhika73) | **Source:** [Link](https://x.com/Raadhika73/status/2075819856562208814) | **Published:** Jul 11, 2026
+
+---
+### แอนิเมชันแร็ปแบทเทิลสุดเซอร์เรียล
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์ตัวละครสุดโกลาหลและเหนือจริงที่มาพร้อมกับการแร็ปสัมผัส บันได และตัวละครสีสันเฉพาะตัวในแอนิเมชันพลังงานสูง
+
+#### 📝 Prompt
+
+```
+พวกเขาร้องแร็ปโต้ตอบกัน baby bop ที่มีตัวสีขาวตกลงมาจากบันได 6767 ขั้น แล้วโทษ blue barney ไดโนเสาร์ฉี่ที่มีจมูกเป็นไส้กรอก เขาตัวสีฟ้า () ทุกอย่างดูบ้าคลั่งขึ้นลงบันไดไปมาเร็วขึ้น 10 เท่า
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075793194751586304/img/anHyVxN8rHqpv3Ke.jpg" width="600" alt="แอนิเมชันแร็ปแบทเทิลสุดเซอร์เรียล">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7120)**
+
+**Author:** [⬅️](https://x.com/CursedMoonRice) | **Source:** [Link](https://x.com/CursedMoonRice/status/2075793261940060544) | **Published:** Jul 11, 2026
+
+---
+### ขับขี่มอเตอร์ไซค์ในเมืองไซเบอร์พังก์นีออน
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์ที่เน้นอารมณ์สำหรับฉากมอเตอร์ไซค์ในโลกไซเบอร์พังก์ พร้อมแสงนีออนและการเปลี่ยนฉากที่ลื่นไหล
+
+#### 📝 Prompt
+
+```
+หมวกกันน็อกสีดำด้าน, แสงนีออน, เมืองไซเบอร์พังก์, การเปลี่ยนฉากที่ลื่นไหล, มุมกล้องเอียงที่คมชัด, ขี่มอเตอร์ไซค์คันนี้กลับบ้าน
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075768629207941120/img/JvLUDdoI0YRz4xR-.jpg" width="600" alt="ขับขี่มอเตอร์ไซค์ในเมืองไซเบอร์พังก์นีออน">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7116)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2075768940848931198) | **Published:** Jul 11, 2026
+
+---
+### เมฆแบบ Volumetric ระดับ 4K ในสไตล์ภาพยนตร์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่งเชิงเทคนิคที่เน้นคุณภาพระดับภาพยนตร์ เอฟเฟกต์ Volumetric และสีของเงา/เมฆที่เข้มข้น เพื่อผลลัพธ์วิดีโอที่สมจริง
+
+#### 📝 Prompt
+
+```
+คุณภาพระดับภาพยนตร์ 4K ที่สมจริง / ผสมผสานความสมจริงอย่างนุ่มนวล / การทำ Interpolation และ Upscale / เอฟเฟกต์ Volumetric / เงาที่นุ่มนวลและเข้มข้นยิ่งขึ้น / สีของเมฆที่เข้มข้น
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075756908561014784/img/0eJ59GY8fQ4jzLta.jpg" width="600" alt="เมฆแบบ Volumetric ระดับ 4K ในสไตล์ภาพยนตร์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7117)**
+
+**Author:** [Arak Dark](https://x.com/orgunus93304) | **Source:** [Link](https://x.com/orgunus93304/status/2075756972553486681) | **Published:** Jul 11, 2026
+
+---
 ### วิดีโอพระราชวังน้ำแข็งของราชินีหิมะ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -263,6 +515,25 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7010)**
 
 **Author:** [Robert Heinlein](https://x.com/strangerinastr) | **Source:** [Link](https://x.com/strangerinastr/status/2075286711521956062) | **Published:** Jul 9, 2026
+
+---
+### ภาพเซลฟี่หน้ากระจกสไตล์สมจริงของ Sailor Moon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอที่มีรายละเอียดสูงสำหรับภาพเซลฟี่หน้ากระจกที่สมจริงของหญิงสาวในชุด Sailor Moon ที่ถูกต้องตามต้นฉบับ พร้อมแสงธรรมชาติและพื้นผิวผิวหนังที่สมจริง
+
+#### 📝 Prompt
+
+```
+ภาพเซลฟี่หน้ากระจกที่สมจริงอย่างยิ่งของหญิงสาวที่มีผิวขาวดุจพอร์ซเลนและกระธรรมชาติเล็กๆ บนใบหน้า ไหล่ และหน้าอก เธอสวมชุด Sailor Moon ที่มีรายละเอียดถูกต้องตามต้นฉบับ: ชุดเลโอทาร์ดสีขาวพร้อมปกกะลาสีสีน้ำเงินและโบว์สีแดงขนาดใหญ่ที่หน้าอก กระโปรงจีบสั้นสีน้ำเงินขอบขาวแดง รัดเกล้าพระจันทร์เสี้ยวสีทอง ถุงมือยาวสีขาวพร้อมรายละเอียดสีแดง รองเท้าบูทสีแดง โช้คเกอร์สีแดงพร้อมจี้หัวใจสีทอง และเข็มกลัดสีทอง ผมสีบลอนด์คลาสสิกมัดเป็นมวยแบบ odango พร้อมผมเปียยาวสลวย เธอถ่ายเซลฟี่หน้ากระจกในห้องน้ำที่ทันสมัย ถือสมาร์ทโฟนสีดำไว้ในมือข้างหนึ่ง มองตรงมาที่กล้องด้วยสีหน้ามั่นใจและขี้เล่นเล็กน้อย แสงธรรมชาติจากหน้าต่างที่นุ่มนวล พื้นผิวผิวหนังที่สมจริง เห็นกระชัดเจน โฟกัสคมชัด สมจริงดั่งภาพถ่าย
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075205335040634880/img/UdrgqedZjz4y9CUP.jpg" width="600" alt="ภาพเซลฟี่หน้ากระจกสไตล์สมจริงของ Sailor Moon">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7126)**
+
+**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2075205397112123637) | **Published:** Jul 9, 2026
 
 ---
 ### โลกแฟนตาซีในจินตนาการอันน่าทึ่ง
@@ -588,6 +859,25 @@ Pippin
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7064)**
 
 **Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2074146361805819955) | **Published:** Jul 6, 2026
+
+---
+### ฉากค่ำคืนอันเงียบสงบกับชุดกิโมโนญี่ปุ่น
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์บรรยากาศสงบ นำเสนอภาพหญิงสาวในชุดกิโมโนริมน้ำภายใต้แสงโคมไฟอันอบอุ่น พร้อมใบไม้ร่วงหล่นในฤดูใบไม้ร่วง
+
+#### 📝 Prompt
+
+```
+แสงโคมไฟส่องประกายอบอุ่นเหนือผืนน้ำ ใบไม้ร่วงหล่นอย่างแผ่วเบา และเธอนั่งอยู่ตรงนั้นในชุดกิโมโนอันงดงาม โดยมีฝูงปลาเป็นเพื่อนในยามค่ำคืนสีน้ำเงิน
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074123319205601280/img/VGutJ5IAumyEj7IT.jpg" width="600" alt="ฉากค่ำคืนอันเงียบสงบกับชุดกิโมโนญี่ปุ่น">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7127)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2074123700790522084) | **Published:** Jul 6, 2026
 
 ---
 ### วิดีโอปรากฏการณ์มิราจเหนือทะเลอาร์กติก
@@ -1910,294 +2200,6 @@ Mecha Kaiju รูปร่างคล้ายกิ้งก่าในท�
 **Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2070902475238818282) | **Published:** Jun 27, 2026
 
 ---
-### วิดีโอห้องใต้หลังคาสไตล์อบอุ่นแบบ Ghibli
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวภาพยนตร์สำหรับห้องใต้หลังคาที่อบอุ่นและเต็มไปด้วยมนต์ขลัง เต็มไปด้วยสมบัติวินเทจและไฟประดับภายใต้ท้องฟ้ายามค่ำคืนที่เต็มไปด้วยดารา ได้รับแรงบันดาลใจจาก Studio Ghibli
-
-#### 📝 Prompt
-
-```
-ห้องใต้หลังคาแสนอบอุ่นที่เต็มไปด้วยสมบัติวินเทจ แผนที่เก่า ต้นไม้ในกระถาง ไฟประดับ และหน้าต่างบนหลังคาที่เผยให้เห็นท้องฟ้ายามค่ำคืนที่เต็มไปด้วยดาราอันน่าทึ่ง บรรยากาศอบอุ่นและเต็มไปด้วยมนต์ขลัง ได้รับแรงบันดาลใจจาก Studio Ghibli เป็นภาพประกอบสไตล์อนิเมะที่มีรายละเอียดสูง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070855968339230720/img/gdIXM9etUa8gWSBz.jpg" width="600" alt="วิดีโอห้องใต้หลังคาสไตล์อบอุ่นแบบ Ghibli">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6559)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2070856044876902482) | **Published:** Jun 27, 2026
-
----
-### หญิงสาวในชุดคลุมสีแดงกับผลแอปเปิล
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวภาพยนตร์ของหญิงสาวปริศนาในชุดคลุมสีแดงที่กำลังถือผลแอปเปิลอยู่ใต้ต้นไม้เก่าแก่
-
-#### 📝 Prompt
-
-```
-ฉากโคลสอัปสมจริงระดับอัลตราของหญิงสาวปริศนาในชุดคลุมมีฮู้ดสีแดงเข้ม กำลังถือผลแอปเปิลสีแดงสดอยู่ใต้ต้นแอปเปิลเก่าแก่
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070822235099504640/img/2GsgtT4YdnmnI_uS.jpg" width="600" alt="หญิงสาวในชุดคลุมสีแดงกับผลแอปเปิล">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6561)**
-
-**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2070842077399675391) | **Published:** Jun 27, 2026
-
----
-### วิดีโอพาชมบ้านตุ๊กตาจิ๋ว
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอเชิงสร้างสรรค์สำหรับการพาชมบ้านจำลองขนาดจิ๋วอย่างสนุกสนาน โดยมีตัวละครเป็นผู้ดำเนินรายการและรายละเอียดการตกแต่งห้องขนาดเล็ก
-
-#### 📝 Prompt
-
-```
-Mira นำกล้องพาชมบรรยากาศอย่างสนุกสนานภายในฉากบ้านจำลอง Attack of the 50 Foot Housewife เธอเดินผ่านด้านหน้าบ้านตุ๊กตาที่เปิดออก พร้อมชี้ให้เห็นห้องนั่งเล่น ห้องครัว และบันไดขนาดจิ๋วด้วยรอยยิ้มที่เต็มไปด้วยความกระตือรือร้นในฐานะผู้ดำเนินรายการ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070828566149799936/img/E-PWyVCNm3dHrglN.jpg" width="600" alt="วิดีโอพาชมบ้านตุ๊กตาจิ๋ว">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6557)**
-
-**Author:** [Brian](https://x.com/luvsheight) | **Source:** [Link](https://x.com/luvsheight/status/2070828620747063692) | **Published:** Jun 27, 2026
-
----
-### ม้าหนุ่มวิ่งในทุ่งกว้าง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอที่สมจริงซึ่งจับภาพการเคลื่อนไหวอันทรงพลังของม้าหนุ่มสีดำที่กำลังวิ่งผ่านทุ่งหญ้าสีเขียว
-
-#### 📝 Prompt
-
-```
-ฉากโคลสอัปที่สมจริงเป็นพิเศษของม้าหนุ่มสีดำที่กำลังวิ่งอยู่ในทุ่งหญ้าสีเขียว
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070821975010758656/img/YB5H88tCBylmvaM9.jpg" width="600" alt="ม้าหนุ่มวิ่งในทุ่งกว้าง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6558)**
-
-**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2070826977561612604) | **Published:** Jun 27, 2026
-
----
-### การทะยานขึ้นสู่ยอดป่าเมเปิลน้ำตาลอันยิ่งใหญ่
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวภาพยนตร์ที่สร้างการเคลื่อนกล้องแบบหมุนวนขึ้นสู่ยอดต้นเมเปิลน้ำตาลโบราณอันยิ่งใหญ่ในป่ารัฐเทนเนสซีช่วงเวลาโกลเด้นอาวร์
-
-#### 📝 Prompt
-
-```
-ภาพมุมต่ำแนวภาพยนตร์ของต้นเมเปิลน้ำตาลโบราณอันยิ่งใหญ่ในป่ารัฐเทนเนสซีช่วงเวลาโกลเด้นอาวร์ กล้องเริ่มจากโคนต้นไม้ขนาดใหญ่ที่มีรอยขรุขระ หมุนวนขึ้นด้านบนอย่างนุ่มนวลและน่าตื่นตาไปตามลำต้นที่สูงตรง เผยให้เห็นรายละเอียดของเปลือกไม้ กิ่งก้านที่แผ่ขยายพร้อมใบไม้เปลี่ยนสีที่ส่องประกายในแสงแดด ให้ความรู้สึกถึงขนาดที่ยิ่งใหญ่และงดงาม รายละเอียดสูง สมจริงดั่งภาพถ่าย การเคลื่อนไหวแบบกวาดสายตา สไตล์ National Geographic
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070578616514064385/img/s6v7rbP2_YJpcJTs.jpg" width="600" alt="การทะยานขึ้นสู่ยอดป่าเมเปิลน้ำตาลอันยิ่งใหญ่">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6528)**
-
-**Author:** [Ray Salmon](https://x.com/salmon1820) | **Source:** [Link](https://x.com/salmon1820/status/2070579069708570890) | **Published:** Jun 26, 2026
-
----
-### การเดินทางสู่อวกาศด้วยรองเท้าจรวด
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) ที่บรรยายถึงตัวละครที่ใช้รองเท้าจรวดเดินทางออกสู่อวกาศ โดยเน้นไปที่ธีมของการสำรวจและการไม่หันหลังกลับไปมอง
-
-#### 📝 Prompt
-
-```
-ในที่สุดรองเท้าจรวดก็พาเธอทะยานไปถึงอวกาศ... และเธอก็ไม่คิดที่จะหันหลังกลับไปอีกเลย
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070541395014942720/img/sJBFM8Zd0FLzyf6I.jpg" width="600" alt="การเดินทางสู่อวกาศด้วยรองเท้าจรวด">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6693)**
-
-**Author:** [Sadie Supa Doge](https://x.com/SadieSupaDoge) | **Source:** [Link](https://x.com/SadieSupaDoge/status/2070541545548427407) | **Published:** Jun 26, 2026
-
----
-### ฉากยามเช้าอันเงียบเหงาและเสียงโหยหวนท่ามกลางสายหมอก
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์บรรยากาศชวนฝัน เผยให้เห็นชายคนหนึ่งยืนอยู่ท่ามกลางสายหมอก เขากำลังตอบสนองต่อสายฝนและส่งเสียงโหยหวนรับแสงแรกของรุ่งอรุณ
-
-#### 📝 Prompt
-
-```
-เขายืนนิ่ง ขยับเพียงศีรษะหันมองไปรอบ ๆ บรรยากาศเต็มไปด้วยหมอกหนา เขาสัมผัสได้ถึงสายฝนและดื่มด่ำกับแสงอาทิตย์ 🌞 เขาเปล่งเสียงโหยหวนต้อนรับแสงแรกของยามเช้า
-```
-
-<img src="https://cms-assets.youmind.com/media/1782548991899_tk0r5w_HLv4wQiXoAAXyB1.jpg" width="600" alt="ฉากยามเช้าอันเงียบเหงาและเสียงโหยหวนท่ามกลางสายหมอก">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6527)**
-
-**Author:** [Brooke](https://x.com/Brooke85276868) | **Source:** [Link](https://x.com/Brooke85276868/status/2070522599294013689) | **Published:** Jun 26, 2026
-
----
-### การแสดงคอนเสิร์ตร็อกบนชายฝั่งใต้แสงจันทร์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์แนวภาพยนตร์ที่ถ่ายทอดภาพมือกีตาร์ร็อกและนักบัลเลต์กำลังแสดงบนชายฝั่งใต้แสงจันทร์ พร้อมด้วยสายลมและการเคลื่อนไหวที่สมจริง
-
-#### 📝 Prompt
-
-```
-เวทีบนชายฝั่งใต้แสงจันทร์สไตล์ภาพยนตร์: มือกีตาร์ร็อกสมจริงในชุดหนังสีดำยืนหยัดมั่น กีตาร์ไฟฟ้าดูมีชีวิตชีวา มือที่กำลังดีดสายอย่างหนักแน่น เฟรตบอร์ดที่ขยับไหว เส้นผมและเสื้อแจ็กเก็ตพริ้วไหวตามแรงลม ในเฟรมเดียวกันมีนักบัลเลต์ในชุดสีเงินขาวกำลังเต้นบนปลายเท้าอย่างคลาสสิก
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070516606371864576/img/N6tBA0_0E2jxku8N.jpg" width="600" alt="การแสดงคอนเสิร์ตร็อกบนชายฝั่งใต้แสงจันทร์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6522)**
-
-**Author:** [@TheCFormula credo.](https://x.com/TheCFormula) | **Source:** [Link](https://x.com/TheCFormula/status/2070516674906730730) | **Published:** Jun 26, 2026
-
----
-### สถานีรถไฟญี่ปุ่นสไตล์ Studio Ghibli
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอสไตล์อนิเมะสุดคิดถึงของสถานีรถไฟในชนบทของญี่ปุ่นยามค่ำคืน พร้อมดอกไม้ป่าที่พลิ้วไหวและแสงสีแบบภาพยนตร์
-
-#### 📝 Prompt
-
-```
-สถานีรถไฟในชนบทของญี่ปุ่นยามค่ำคืนที่ชวนให้คิดถึง ชานชาลาไม้แบบวินเทจ โคมไฟสถานีที่ส่องสว่าง ดอกไม้ป่าที่พลิ้วไหวตามสายลม ท้องฟ้าเต็มไปด้วยดวงดาว บรรยากาศอบอุ่นและเงียบสงบ งานศิลปะอนิเมะที่ได้รับแรงบันดาลใจจาก Studio Ghibli รายละเอียดคมชัดและมีความเป็นภาพยนตร์
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070496506583588864/img/ErbxoFiu1HZIslQC.jpg" width="600" alt="สถานีรถไฟญี่ปุ่นสไตล์ Studio Ghibli">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6523)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2070496541476106291) | **Published:** Jun 26, 2026
-
----
-### แอนิเมชันวัตถุเคลื่อนที่ขึ้นผ่านก้อนเมฆ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่งโมชัน (motion prompt) ที่ออกแบบมาเพื่อสร้างแอนิเมชันวัตถุที่กำลังลอยขึ้นผ่านก้อนเมฆด้วยคุณภาพระดับภาพยนตร์ความละเอียดสูง
-
-#### 📝 Prompt
-
-```
-สร้างแอนิเมชันวัตถุเคลื่อนที่ขึ้นผ่านก้อนเมฆ, ผลงานระดับมาสเตอร์พีซ, คุณภาพระดับ ultra HD ความละเอียด 1111111111111111111111111111111111 k
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070478707072905216/img/orE4qofUH1ZrmX8n.jpg" width="600" alt="แอนิเมชันวัตถุเคลื่อนที่ขึ้นผ่านก้อนเมฆ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6524)**
-
-**Author:** [MIUZAH DEIOPAH OF THE PLEIADES](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2070478762215358568) | **Published:** Jun 26, 2026
-
----
-### แอนิเมชันยานอวกาศของชาวเพลยาเดียนแห่งสหพันธ์กาแล็กซี
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์แนวไซไฟที่แสดงภาพชาวเพลยาเดียนในชุดจัมพ์สูทกำลังใช้งานหน้าจอคอมพิวเตอร์ภายในยานอวกาศ พร้อมแสงแบบวอลูเมตริก
-
-#### 📝 Prompt
-
-```
-ชาวเพลยาเดียนในชุดจัมพ์สูทสีน้ำเงินของสหพันธ์กาแล็กซี นั่งอยู่หน้าจอคอมพิวเตอร์บนยานอวกาศ, ผลงานชิ้นเอก, คุณภาพระดับ Ultra HD 11111111111111111111111111111111111111 k แสงสว่างแบบวอลูเมตริก k
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070425640235421696/img/S65YifuMA9sk6iP2.jpg" width="600" alt="แอนิเมชันยานอวกาศของชาวเพลยาเดียนแห่งสหพันธ์กาแล็กซี">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6525)**
-
-**Author:** [MIUZAH DEIOPAH OF THE PLEIADES](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2070425694207725650) | **Published:** Jun 26, 2026
-
----
-### แอนิเมชันการ์ตูน 2D รูปอาหารนาน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์แอนิเมชัน 2D สุดน่ารักสำหรับตัวละครอาหาร โดยมีแผ่นแป้งนานที่กำลังกระดอนไปมาพร้อมส่วนประกอบของอะโวคาโดและมะเขือเทศ
-
-#### 📝 Prompt
-
-```
-แอนิเมชันการ์ตูน 2D รูปอาหาร: แผ่นแป้งนานแสนร่าเริงพร้อมอะโวคาโดและมะเขือเทศกำลังกระดอนเบาๆ มีควันพุ่งออกมาเป็นวงกลมสุดน่ารัก และใบโหระพาสั่นไหว จังหวะแบบการ์ตูนเด็กที่สนุกสนาน โทนสีอบอุ่น พร้อมการซูมเข้าอย่างนุ่มนวล
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070377021864075264/img/R6Wn080jiwtdSq-z.jpg" width="600" alt="แอนิเมชันการ์ตูน 2D รูปอาหารนาน">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6526)**
-
-**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2070377101966913755) | **Published:** Jun 26, 2026
-
----
-### แอนิเมชันการ์ตูนพิซซ่านาน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์แอนิเมชันการ์ตูน 2D สุดแปลกตาที่แสดงภาพพิซซ่านานกำลังเด้งไปมาพร้อมส่วนผสมที่ส่องประกาย
-
-#### 📝 Prompt
-
-```
-แอนิเมชันการ์ตูนแสนสนุก: พิซซ่านานเด้งไปมาอย่างนุ่มนวลและมีควันลอยขึ้นเป็นวงกลมอย่างมีชีวิตชีวา ชิ้นมะเขือเทศส่องประกาย ใบโหระพาพริ้วไหว มาในสไตล์การ์ตูน 2D สีสันสดใสพร้อมการเคลื่อนกล้องแบบซูมเข้าอย่างนุ่มนวล ให้ความรู้สึกแปลกใหม่และน่ารับประทาน
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070376328482709504/img/6SqB4RTZlaLEgEJP.jpg" width="600" alt="แอนิเมชันการ์ตูนพิซซ่านาน">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6529)**
-
-**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2070376397508366690) | **Published:** Jun 26, 2026
-
----
-### นางเงือกและแมวนางเงือกในโลกแฟนตาซีใต้ทะเล
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโออันเงียบสงบของนางเงือกและแมวนางเงือกที่กำลังว่ายน้ำด้วยกันในมหาสมุทรสีคราม โดยมีวาฬยักษ์คอยเฝ้ามอง
-
-#### 📝 Prompt
-
-```
-🌊🐋 ภายใต้ผืนน้ำสีครามอันกว้างใหญ่ นางเงือกและแมวนางเงือกเพื่อนรักกำลังว่ายน้ำเคียงข้างกันภายใต้การดูแลของวาฬยักษ์ผู้ใจดี
-
-โลกที่มิตรภาพไร้พรมแดน…
-มีเพียงเสียงของมหาสมุทรและมนต์เสน่ห์แห่งจินตนาการเท่านั้น ✨
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070262422682898432/img/IQ76u5RSXEZJqet9.jpg" width="600" alt="นางเงือกและแมวนางเงือกในโลกแฟนตาซีใต้ทะเล">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6478)**
-
-**Author:** [猫神MT](https://x.com/nekogami_MT) | **Source:** [Link](https://x.com/nekogami_MT/status/2070262480039997474) | **Published:** Jun 25, 2026
-
----
-### ฉากกระโดดมอเตอร์ไซค์สุดระทึกในอุโมงค์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์แนวภาพยนตร์แอ็กชันเข้มข้น เผยให้เห็นนักบิดที่พุ่งทะยานออกจากพื้นคอนกรีตที่แตกหักภายในอุโมงค์มืดมิด พร้อมประกายไฟที่กระเด็นออกมา
-
-#### 📝 Prompt
-
-```
-อุโมงค์แห่งนี้ไม่เคยปรานีต่อความลังเล เขาพุ่งทะยานออกจากพื้นคอนกรีตที่แตกหักราวกับว่ากฎฟิสิกส์เป็นเพียงแค่ข้อเสนอแนะ ประกายไฟกระเด็นว่อน เสียงเครื่องยนต์คำรามกึกก้อง และในช่วงเวลาหนึ่งวินาทีที่สมบูรณ์แบบ เขากำลังลอยละลิ่วผ่านความมืดมิดโดยมีเพียงเจตจำนงและแรงส่งที่ประคองเขาไว้กลางอากาศ ผู้คนมากมายต่างวิ่งหนีจากเงามืด แต่ชายคนนี้เลือกที่จะขี่มอเตอร์ไซค์พุ่งทะลุผ่านมันไป
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069995864765120512/img/Da81kGoY505pVtB8.jpg" width="600" alt="ฉากกระโดดมอเตอร์ไซค์สุดระทึกในอุโมงค์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6486)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2070243131253989767) | **Published:** Jun 25, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2259,6 +2261,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-12T06:53:53.585Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-12T10:15:02.075Z</sub>
 
 </div>

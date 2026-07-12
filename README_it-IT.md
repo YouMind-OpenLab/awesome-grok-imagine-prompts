@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2069** |
+| 📝 Total Prompts | **2084** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-12** |
 
@@ -189,6 +189,258 @@ Una mistica e nobile Valchiria celestiale, una donna dignitosa e bellissima con 
 
 > 📝 Sorted by publish date (newest first)
 
+### Alloggi nelle colonie spaziali
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video di fantascienza che ritrae la realtà affollata e industriale delle prime colonie spaziali con giardini idroponici.
+
+#### 📝 Prompt
+
+```
+Erano guarnizioni a pressione, giardini idroponici, alloggi in cemento sovraffollati, luce artificiale, aria riciclata e persone che cercavano di preparare la cena ai confini del nulla.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076086195482714112/img/Iw0wb0gAEItuwkJV.jpg" width="600" alt="Alloggi nelle colonie spaziali">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7128)**
+
+**Author:** [Sherice](https://x.com/Sherice0799) | **Source:** [Link](https://x.com/Sherice0799/status/2076086295336489166) | **Published:** Jul 11, 2026
+
+---
+### Passeggiata in spiaggia di una bionda che fa immersioni
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt a tema spiaggia che descrive una donna che cammina e si prepara per un'avventura subacquea nell'oceano.
+
+#### 📝 Prompt
+
+```
+Una bellissima bionda che si prepara a tuffarsi in acqua con il boccaglio per nuotare insieme alle creature marine e a Nemo, con la sua bombola, mentre cammina verso l'oceano.
+
+Una bellissima bionda che cammina sulla spiaggia, preparandosi per un'immersione subacquea.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076057170081415168/img/NKhvJlct2cdM6zzK.jpg" width="600" alt="Passeggiata in spiaggia di una bionda che fa immersioni">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7121)**
+
+**Author:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **Source:** [Link](https://x.com/AnnetteHollerWe/status/2076057254605009386) | **Published:** Jul 11, 2026
+
+---
+### Guerriera vichinga all'ingresso della foresta
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video per una guerriera vichinga con capelli bianchi intrecciati che emerge da una foresta per prendere posizione.
+
+#### 📝 Prompt
+
+```
+Una guerriera vichinga con capelli bianchi intrecciati che prende posizione uscendo dalla foresta
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076056920826216448/img/w1fIASmvMPd0ZUy9.jpg" width="600" alt="Guerriera vichinga all'ingresso della foresta">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7124)**
+
+**Author:** [Rebecca Clark](https://x.com/clark_rebe76017) | **Source:** [Link](https://x.com/clark_rebe76017/status/2076056974483915213) | **Published:** Jul 11, 2026
+
+---
+### Parata militare gotica cinematografica
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un grandioso prompt video cinematografico di una parata militare con architettura gotica, bande musicali e cieli tempestosi.
+
+#### 📝 Prompt
+
+```
+una grande parata militare cinematografica, con architettura gotica, bande musicali, carri armati, folla, aerei e un cielo tempestoso
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076055202583511042/img/a_HcgX78ZEZVwe7T.jpg" width="600" alt="Parata militare gotica cinematografica">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7129)**
+
+**Author:** [Tianjin 💫](https://x.com/TianjinXiin) | **Source:** [Link](https://x.com/TianjinXiin/status/2076055651646624251) | **Published:** Jul 11, 2026
+
+---
+### Mandala di orchidea sospesa in stile Arborpunk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un complesso prompt video artistico che unisce l'artigianato balinese a linee organiche ispirate a Mucha all'interno di un mandala circolare.
+
+#### 📝 Prompt
+
+```
+Osservatorio di orchidee sospese in stile Arborpunk, reinterpretato come una grandiosa composizione a mandala circolare, incentrato su un luminoso fiore di loto sacro nel cuore. Infuso di artigianato tropicale balinese e linee organiche fluide ispirate ad Alphonse Mucha.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076033338314518528/img/8uNA4q9A5ERPiyjD.jpg" width="600" alt="Mandala di orchidea sospesa in stile Arborpunk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7115)**
+
+**Author:** [Carina](https://x.com/Freehere8) | **Source:** [Link](https://x.com/Freehere8/status/2076033394631422235) | **Published:** Jul 11, 2026
+
+---
+### Gameplay FPS di Call of Duty
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt estremamente dettagliato per creare video di gameplay sparatutto in prima persona realistici nello stile di Modern Warfare, caratterizzati da movimenti tattici attraverso una strada urbana nebbiosa durante la notte.
+
+#### 📝 Prompt
+
+```
+Visuale in prima persona ultra-fotorealistica in stile Call of Duty Modern Warfare, giocatore che impugna un fucile M4A1 con mirino a punto rosso, che mira lungo una strada urbana buia di notte, equipaggiamento militare realistico, illuminazione drammatica, nebbia volumetrica, texture altamente dettagliate, filmato di gameplay cinematografico --ar 16:9 --stylize 50 Gameplay sparatutto in prima persona realistico in stile Call of Duty Modern Warfare: il giocatore impugna un fucile M4A1 con mirino a punto rosso, avanzando lentamente attraverso la strada buia e nebbiosa mentre mira. Sottile oscillazione realistica dell'arma, movimento del respiro e passi. La telecamera avanza lentamente con un naturale movimento della testa, scansionando l'ambiente, nebbia volumetrica, luci rosse in lontananza e lampioni, movimento e atmosfera realistici altamente dettagliati --ar 16:9 --motion 4
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076020512023605248/img/TEjjbB8IXpHrtrXq.jpg" width="600" alt="Gameplay FPS di Call of Duty">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7118)**
+
+**Author:** [ⁱᵃᵐ|᠘𝘶𝗸ค𐍃🇩🇪💙](https://x.com/LukasK92) | **Source:** [Link](https://x.com/LukasK92/status/2076020574438990207) | **Published:** Jul 11, 2026
+
+---
+### Il grattino sulla pancia di un Bulldog Francese
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt affascinante per un video di una Bulldog Francese femmina di nome Luna che reagisce con gioia a un grattino sulla pancia, includendo dialoghi specifici e gesti affettuosi.
+
+#### 📝 Prompt
+
+```
+La cagnolina Luna è una femmina di 'Bulldog francese' che riceve un grattino sulla pancia dalla sua sorellina. Luna dice: “I grattini sulla pancia della sorellina sono il paradiso in terra, ti voglio bene”. Luna si dimena e lecca abbondantemente la mano della sorellina.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075963834242613248/img/dI7eS9l4Pmi2M7Yu.jpg" width="600" alt="Il grattino sulla pancia di un Bulldog Francese">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7119)**
+
+**Author:** [Brenda (Peanci) Helton](https://x.com/BrendaDHel6581) | **Source:** [Link](https://x.com/BrendaDHel6581/status/2075963908611785148) | **Published:** Jul 11, 2026
+
+---
+### Dipinto rococò di ragazzi adolescenti
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video stilizzato che crea un'estetica da dipinto rococò con due fratelli adolescenti vicino a un lago nel bosco.
+
+#### 📝 Prompt
+
+```
+Un dipinto rococò di due giovani ragazzi adolescenti in piedi vicino a un lago dopo aver nuotato in un ambiente boschivo, fratelli abbracciati affettuosamente.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075933202628382720/img/XaDF72k4IAzF39Y-.jpg" width="600" alt="Dipinto rococò di ragazzi adolescenti">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7123)**
+
+**Author:** [Bobby](https://x.com/AiNerdGuy) | **Source:** [Link](https://x.com/AiNerdGuy/status/2075933252972622105) | **Published:** Jul 11, 2026
+
+---
+### Lezione sulla gentilezza del panda
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video narrativo che illustra una lezione morale sulla gentilezza attraverso la storia di un panda che condivide il bambù.
+
+#### 📝 Prompt
+
+```
+Lezione: La gentilezza torna sempre indietro.
+Un panda ha condiviso il suo ultimo germoglio di bambù con un amico affamato.
+Giorni dopo, molti animali lo hanno aiutato dopo che una tempesta ha distrutto la sua casa.
+La gentilezza cresce quando viene condivisa.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075864661749063680/img/ySbTF3zaFgWUMXxJ.jpg" width="600" alt="Lezione sulla gentilezza del panda">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7125)**
+
+**Author:** [Joyce Song](https://x.com/JoyceSongccrp) | **Source:** [Link](https://x.com/JoyceSongccrp/status/2075864735807914123) | **Published:** Jul 11, 2026
+
+---
+### Fuga cinematografica di un soldato romano in montagna
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinematografico intenso e ricco di azione che ritrae un soldato romano inseguito da un puma tra la neve alta in una maestosa catena montuosa.
+
+#### 📝 Prompt
+
+```
+Sequenza d'azione cinematografica di 5 secondi che mostra un soldato romano in armatura dettagliata mentre corre disperatamente attraverso la neve alta in una vasta e maestosa catena montuosa innevata. Un puma grande e potente lo insegue aggressivamente. Movimento dinamico, spruzzi di neve pesante sollevati dai piedi, il soldato che si guarda indietro allarmato, il puma con la bocca aperta a metà ruggito, composizione drammatica dal basso, illuminazione epica, pelliccia e armatura altamente dettagliate, atmosfera intensa, fotorealistico con un forte impatto artistico.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075819801612861440/img/mc33JqSewAl_OSLy.jpg" width="600" alt="Fuga cinematografica di un soldato romano in montagna">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7122)**
+
+**Author:** [Raadhika 💫✨️](https://x.com/Raadhika73) | **Source:** [Link](https://x.com/Raadhika73/status/2075819856562208814) | **Published:** Jul 11, 2026
+
+---
+### Animazione di una rap battle surreale
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt caotico e surreale basato sui personaggi che coinvolge rime, scale e figure di colori specifici in un'animazione ad alta energia.
+
+#### 📝 Prompt
+
+```
+Recitano un rap in rima. Baby Bop, di colore bianco, cade giù da 6767 gradini e dà la colpa a Barney blu, il dinosauro che fa la pipì con un naso a forma di salsiccia. È di colore blu (). Le cose impazziscono 10 volte di più su e giù per le scale.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075793194751586304/img/anHyVxN8rHqpv3Ke.jpg" width="600" alt="Animazione di una rap battle surreale">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7120)**
+
+**Author:** [⬅️](https://x.com/CursedMoonRice) | **Source:** [Link](https://x.com/CursedMoonRice/status/2075793261940060544) | **Published:** Jul 11, 2026
+
+---
+### Corsa in moto nella città cyberpunk al neon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video basato sull'atmosfera per una scena in moto cyberpunk con luci al neon e transizioni fluide.
+
+#### 📝 Prompt
+
+```
+casco nero opaco, luci al neon, città cyberpunk, transizione fluida, inclinazione pulita, guida questa moto verso casa.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075768629207941120/img/JvLUDdoI0YRz4xR-.jpg" width="600" alt="Corsa in moto nella città cyberpunk al neon">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7116)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2075768940848931198) | **Published:** Jul 11, 2026
+
+---
+### Nuvole volumetriche cinematiche in 4K
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt tecnico incentrato sulla qualità cinematografica, sugli effetti volumetrici e sull'intensità dei colori di ombre e nuvole per un output video realistico.
+
+#### 📝 Prompt
+
+```
+Qualità cinematografica 4K realistica / Mix fluido di realismo / Interpolazione e upscale / Effetto volumetrico / Ombre più morbide e intense / Colori intensi delle nuvole
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075756908561014784/img/0eJ59GY8fQ4jzLta.jpg" width="600" alt="Nuvole volumetriche cinematiche in 4K">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7117)**
+
+**Author:** [Arak Dark](https://x.com/orgunus93304) | **Source:** [Link](https://x.com/orgunus93304/status/2075756972553486681) | **Published:** Jul 11, 2026
+
+---
 ### Video del Palazzo di Permafrost della Regina delle Nevi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -263,6 +515,25 @@ Il tennista completa il dritto mentre la pallina gialla sfreccia sul campo in er
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7010)**
 
 **Author:** [Robert Heinlein](https://x.com/strangerinastr) | **Source:** [Link](https://x.com/strangerinastr/status/2075286711521956062) | **Published:** Jul 9, 2026
+
+---
+### Selfie allo specchio fotorealistico di Sailor Moon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video altamente dettagliato per un selfie allo specchio realistico di una donna con un costume di Sailor Moon accurato, caratterizzato da illuminazione naturale e texture della pelle.
+
+#### 📝 Prompt
+
+```
+Selfie allo specchio altamente realistico di una donna con pelle di porcellana chiara e delicate lentiggini naturali su viso, spalle e petto. Indossa un costume di Sailor Moon dettagliato e accurato: body bianco con colletto alla marinara blu e grande fiocco rosso sul petto, gonna corta a pieghe blu con bordi bianchi e rossi, tiara con mezzaluna dorata, lunghi guanti bianchi con dettagli rossi, stivali rossi, girocollo rosso con ciondolo a cuore dorato e spilla dorata. Classici capelli biondi raccolti negli odango con lunghe code fluenti. Si sta scattando un selfie allo specchio in un bagno moderno, tenendo uno smartphone nero in una mano, guardando direttamente verso la fotocamera con un'espressione sicura e leggermente giocosa. Illuminazione naturale soffusa proveniente da una finestra, texture della pelle realistica, lentiggini visibili, messa a fuoco nitida, fotorealistico.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075205335040634880/img/UdrgqedZjz4y9CUP.jpg" width="600" alt="Selfie allo specchio fotorealistico di Sailor Moon">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7126)**
+
+**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2075205397112123637) | **Published:** Jul 9, 2026
 
 ---
 ### Un mondo fantasy immaginario mozzafiato
@@ -588,6 +859,25 @@ I suoi occhi raccontano due storie contemporaneamente, una viola come l'abisso e
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7064)**
 
 **Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2074146361805819955) | **Published:** Jul 6, 2026
+
+---
+### Scena notturna serena con kimono giapponese
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un video prompt suggestivo che ritrae una donna in kimono vicino all'acqua, illuminata dalla luce calda delle lanterne mentre cadono le foglie autunnali.
+
+#### 📝 Prompt
+
+```
+Una lanterna che brilla di luce calda sull'acqua, foglie autunnali che cadono dolcemente e lei seduta lì con quel bellissimo kimono, in compagnia dei pesci nella notte blu.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074123319205601280/img/VGutJ5IAumyEj7IT.jpg" width="600" alt="Scena notturna serena con kimono giapponese">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7127)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2074123700790522084) | **Published:** Jul 6, 2026
 
 ---
 ### Video di un miraggio superiore nel Mar Artico
@@ -1910,294 +2200,6 @@ Scena in primo piano ultra-realistica di una bellissima donna con un elegante ve
 **Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2070902475238818282) | **Published:** Jun 27, 2026
 
 ---
-### Video di una mansarda accogliente ispirata allo stile Ghibli
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video cinematografico per una mansarda calda e magica, ricca di tesori vintage e luci fatate sotto un cielo notturno stellato, ispirato allo Studio Ghibli.
-
-#### 📝 Prompt
-
-```
-Un'accogliente mansarda piena di tesori vintage, vecchie mappe, piante in vaso, luci fatate e un lucernario che rivela un cielo notturno mozzafiato pieno di galassie, atmosfera calda e magica, ispirato allo Studio Ghibli, illustrazione anime altamente dettagliata.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070855968339230720/img/gdIXM9etUa8gWSBz.jpg" width="600" alt="Video di una mansarda accogliente ispirata allo stile Ghibli">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6559)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2070856044876902482) | **Published:** Jun 27, 2026
-
----
-### Donna con mantello rosso e mela
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video cinematografico di una donna misteriosa con un mantello rosso che tiene in mano una mela sotto un vecchio albero.
-
-#### 📝 Prompt
-
-```
-Scena in primo piano ultra-realistica di una giovane donna misteriosa con un mantello rosso intenso col cappuccio che tiene in mano una mela rossa brillante sotto un vecchio melo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070822235099504640/img/2GsgtT4YdnmnI_uS.jpg" width="600" alt="Donna con mantello rosso e mela">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6561)**
-
-**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2070842077399675391) | **Published:** Jun 27, 2026
-
----
-### Tour guidato di una casa delle bambole in miniatura
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video creativo per un divertente tour di un set di una casa in miniatura, con un personaggio che fa da guida e dettagliati design di stanze minuscole.
-
-#### 📝 Prompt
-
-```
-Mira guida la telecamera in un divertente tour all'interno del set in miniatura di Attack of the 50 Foot Housewife. Attraversa la facciata aperta della casa delle bambole, indicando il minuscolo soggiorno, la cucina e la scala con l'entusiasta sorriso di una presentatrice.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070828566149799936/img/E-PWyVCNm3dHrglN.jpg" width="600" alt="Tour guidato di una casa delle bambole in miniatura">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6557)**
-
-**Author:** [Brian](https://x.com/luvsheight) | **Source:** [Link](https://x.com/luvsheight/status/2070828620747063692) | **Published:** Jun 27, 2026
-
----
-### Stallone che corre in un campo aperto
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video realistico che cattura il movimento potente di uno stallone nero mentre corre in un campo verde aperto.
-
-#### 📝 Prompt
-
-```
-Scena in primo piano ultra-realistica di uno stallone nero che corre in un campo verde aperto.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070821975010758656/img/YB5H88tCBylmvaM9.jpg" width="600" alt="Stallone che corre in un campo aperto">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6558)**
-
-**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2070826977561612604) | **Published:** Jun 27, 2026
-
----
-### Ascesa maestosa in una foresta di aceri zuccherini
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video cinematografico che crea una drammatica ascesa a spirale lungo un maestoso e antico acero zuccherino in una foresta del Tennessee durante l'ora d'oro.
-
-#### 📝 Prompt
-
-```
-Un'inquadratura cinematografica dal basso di un maestoso e antico acero zuccherino in una foresta del Tennessee durante l'ora d'oro; la telecamera parte dalla base massiccia e nodosa, risalendo con una fluida e drammatica ascesa a spirale lungo l'alto tronco dritto, rivelando l'intricata consistenza della corteccia e i rami tentacolari con vibranti foglie autunnali che brillano alla luce del sole; scala epica e magnificenza, iper-dettagliato, fotorealistico, movimento ampio, stile National Geographic.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070578616514064385/img/s6v7rbP2_YJpcJTs.jpg" width="600" alt="Ascesa maestosa in una foresta di aceri zuccherini">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6528)**
-
-**Author:** [Ray Salmon](https://x.com/salmon1820) | **Source:** [Link](https://x.com/salmon1820/status/2070579069708570890) | **Published:** Jun 26, 2026
-
----
-### Viaggio spaziale con stivali a propulsione
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt che descrive un personaggio che utilizza stivali a propulsione per viaggiare nello spazio, concentrandosi sui temi dell'esplorazione e del non voltarsi mai indietro.
-
-#### 📝 Prompt
-
-```
-Gli stivali a propulsione l'hanno finalmente portata fin nello spazio... e non si guarderà mai più indietro
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070541395014942720/img/sJBFM8Zd0FLzyf6I.jpg" width="600" alt="Viaggio spaziale con stivali a propulsione">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6693)**
-
-**Author:** [Sadie Supa Doge](https://x.com/SadieSupaDoge) | **Source:** [Link](https://x.com/SadieSupaDoge/status/2070541545548427407) | **Published:** Jun 26, 2026
-
----
-### Scena mattutina nebbiosa con ululato
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video suggestivo che ritrae un uomo immerso nella nebbia, che reagisce alla pioggia e ulula alle prime luci dell'alba.
-
-#### 📝 Prompt
-
-```
-sta fermo, muove solo la testa guardandosi intorno, c'è nebbia e foschia, sente la pioggia, accoglie il sole 🌞 ulula alle prime luci del mattino
-```
-
-<img src="https://cms-assets.youmind.com/media/1782548991899_tk0r5w_HLv4wQiXoAAXyB1.jpg" width="600" alt="Scena mattutina nebbiosa con ululato">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6527)**
-
-**Author:** [Brooke](https://x.com/Brooke85276868) | **Source:** [Link](https://x.com/Brooke85276868/status/2070522599294013689) | **Published:** Jun 26, 2026
-
----
-### Concerto rock sulla riva illuminata dalla luna
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video cinematografico che ritrae un chitarrista rock e una ballerina che si esibiscono su una riva illuminata dalla luna con vento e movimento dinamici.
-
-#### 📝 Prompt
-
-```
-Palcoscenico cinematografico sulla riva illuminata dalla luna: chitarrista rock umano realistico con le gambe divaricate in pelle nera, chitarra elettrica vibrante—mano che plettra con forza, tastiera attiva, capelli e giacca mossi dal vento; inquadratura bilanciata con una ballerina in bianco argento sulle punte, classico
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070516606371864576/img/N6tBA0_0E2jxku8N.jpg" width="600" alt="Concerto rock sulla riva illuminata dalla luna">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6522)**
-
-**Author:** [@TheCFormula credo.](https://x.com/TheCFormula) | **Source:** [Link](https://x.com/TheCFormula/status/2070516674906730730) | **Published:** Jun 26, 2026
-
----
-### Stazione ferroviaria giapponese in stile Studio Ghibli
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un nostalgico prompt video in stile anime di una stazione ferroviaria rurale giapponese di notte, con fiori di campo che ondeggiano e un'illuminazione cinematografica.
-
-#### 📝 Prompt
-
-```
-Una nostalgica stazione ferroviaria rurale giapponese di notte, banchina in legno vintage, lampioni della stazione illuminati, fiori di campo che ondeggiano nella brezza, cielo stellato, atmosfera calda e tranquilla, opera d'arte anime ispirata allo Studio Ghibli, ultra dettagliata e cinematografica.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070496506583588864/img/ErbxoFiu1HZIslQC.jpg" width="600" alt="Stazione ferroviaria giapponese in stile Studio Ghibli">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6523)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2070496541476106291) | **Published:** Jun 26, 2026
-
----
-### Animazione di un corpo che sale attraverso le nuvole
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt di movimento progettato per animare un soggetto che ascende attraverso le nuvole con una qualità cinematografica ad alta definizione.
-
-#### 📝 Prompt
-
-```
-Anima un corpo che si muove verso l'alto attraverso le nuvole, capolavoro, qualità ultra HD, risoluzione 1111111111111111111111111111111111 k
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070478707072905216/img/orE4qofUH1ZrmX8n.jpg" width="600" alt="Animazione di un corpo che sale attraverso le nuvole">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6524)**
-
-**Author:** [MIUZAH DEIOPAH OF THE PLEIADES](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2070478762215358568) | **Published:** Jun 26, 2026
-
----
-### Animazione dell'astronave dei Pleiadiani della Federazione Galattica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt sci-fi che ritrae i Pleiadiani in tute spaziali mentre operano terminali informatici all'interno di un'astronave con illuminazione volumetrica.
-
-#### 📝 Prompt
-
-```
-Pleiadiani in tute spaziali blu della Federazione Galattica seduti ai terminali informatici a bordo di astronavi, capolavoro, qualità ultra HD 11111111111111111111111111111111111111 k Illuminazione luminosa volumetrica k
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070425640235421696/img/S65YifuMA9sk6iP2.jpg" width="600" alt="Animazione dell'astronave dei Pleiadiani della Federazione Galattica">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6525)**
-
-**Author:** [MIUZAH DEIOPAH OF THE PLEIADES](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2070425694207725650) | **Published:** Jun 26, 2026
-
----
-### Animazione 2D di un naan in stile cartoon
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un affascinante prompt per un'animazione 2D di personaggi a tema gastronomico, con un naan che rimbalza arricchito da avocado e pomodoro.
-
-#### 📝 Prompt
-
-```
-Animazione 2D di cibo in stile cartoon: un allegro pane naan rimbalza leggermente, sbuffi di vapore appaiono in simpatici cerchi e foglie di basilico ondeggiano. Ritmo vivace da cartone animato per bambini, colori caldi, zoom delicato.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070377021864075264/img/R6Wn080jiwtdSq-z.jpg" width="600" alt="Animazione 2D di un naan in stile cartoon">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6526)**
-
-**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2070377101966913755) | **Published:** Jun 26, 2026
-
----
-### Animazione cartoon di una pizza naan
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un estroso prompt per un'animazione cartoon 2D che ritrae una pizza naan che ondeggia con ingredienti scintillanti.
-
-#### 📝 Prompt
-
-```
-Animazione cartoon giocosa: la pizza naan ondeggia delicatamente e il vapore si arriccia verso l'alto in loop vivaci, le fette di pomodoro brillano, le foglie di basilico fluttuano. Stile cartoon 2D luminoso con un leggero zoom in, estroso e appetitoso.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070376328482709504/img/6SqB4RTZlaLEgEJP.jpg" width="600" alt="Animazione cartoon di una pizza naan">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6529)**
-
-**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2070376397508366690) | **Published:** Jun 26, 2026
-
----
-### Sirena e gatto sirena: fantasia subacquea
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un video sereno di una sirena e un gatto sirena che nuotano insieme nell'oceano blu profondo, accompagnati da una balena gigante.
-
-#### 📝 Prompt
-
-```
-🌊🐋 Sotto l'infinito blu, una sirena e il suo gatto sirena nuotano fianco a fianco sotto l'occhio vigile di una gentile balena gigante.
-
-Un mondo in cui l'amicizia non conosce confini…
-Solo il suono dell'oceano e la magia dell'immaginazione. ✨
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070262422682898432/img/IQ76u5RSXEZJqet9.jpg" width="600" alt="Sirena e gatto sirena: fantasia subacquea">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6478)**
-
-**Author:** [猫神MT](https://x.com/nekogami_MT) | **Source:** [Link](https://x.com/nekogami_MT/status/2070262480039997474) | **Published:** Jun 25, 2026
-
----
-### Salto cinematografico in moto nel tunnel
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinematografico ad alta tensione che ritrae un motociclista che spicca un salto da una rampa di cemento distrutto in un tunnel oscuro, tra una pioggia di scintille.
-
-#### 📝 Prompt
-
-```
-Il tunnel non perdona l'esitazione. Si lancia dal cemento distrutto come se le leggi della fisica fossero solo un suggerimento. Le scintille volano. Il motore urla. E per un secondo perfetto, vola nell'oscurità con nient'altro che la volontà e lo slancio a tenerlo in aria. Alcuni uomini fuggono dalle ombre. Lui le attraversa a tutta velocità.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069995864765120512/img/Da81kGoY505pVtB8.jpg" width="600" alt="Salto cinematografico in moto nel tunnel">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6486)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2070243131253989767) | **Published:** Jun 25, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2259,6 +2261,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-12T06:54:05.490Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-12T10:15:12.431Z</sub>
 
 </div>

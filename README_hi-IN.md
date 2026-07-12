@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2069** |
+| 📝 Total Prompts | **2084** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-12** |
 
@@ -189,6 +189,258 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### अंतरिक्ष कॉलोनी आवास
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक साइंस फिक्शन वीडियो प्रॉम्प्ट जो शुरुआती अंतरिक्ष कॉलोनियों की भीड़भाड़ और औद्योगिक वास्तविकता को हाइड्रोपोनिक बगीचों के साथ दर्शाता है।
+
+#### 📝 Prompt
+
+```
+वे दबाव सील, हाइड्रोपोनिक बगीचे, भीड़भाड़ वाले कंक्रीट के घर, कृत्रिम रोशनी, पुनर्नवीनीकरण हवा और कहीं नहीं के किनारे रात का खाना बनाने की कोशिश करते लोग थे।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076086195482714112/img/Iw0wb0gAEItuwkJV.jpg" width="600" alt="अंतरिक्ष कॉलोनी आवास">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7128)**
+
+**Author:** [Sherice](https://x.com/Sherice0799) | **Source:** [Link](https://x.com/Sherice0799/status/2076086295336489166) | **Published:** Jul 11, 2026
+
+---
+### सुनहरे बालों वाली महिला की स्कूबा डाइविंग बीच वॉक
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> समुद्र तट पर आधारित एक प्रॉम्प्ट, जिसमें एक महिला को समुद्र में स्कूबा डाइविंग के रोमांच के लिए तैयार होते और चलते हुए दर्शाया गया है।
+
+#### 📝 Prompt
+
+```
+एक सुंदर सुनहरे बालों वाली महिला जो पानी में कूदने के लिए तैयार हो रही है, अपने माउथपीस के साथ समुद्री जीवों और नीमो के साथ तैर रही है, अपना टैंक पहनकर समुद्र की ओर बढ़ रही है।
+
+एक सुंदर सुनहरे बालों वाली महिला समुद्र तट पर चल रही है और स्कूबा डाइविंग के लिए तैयार हो रही है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076057170081415168/img/NKhvJlct2cdM6zzK.jpg" width="600" alt="सुनहरे बालों वाली महिला की स्कूबा डाइविंग बीच वॉक">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7121)**
+
+**Author:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **Source:** [Link](https://x.com/AnnetteHollerWe/status/2076057254605009386) | **Published:** Jul 11, 2026
+
+---
+### वाइकिंग शील्ड मेडेन फॉरेस्ट एंट्रेंस
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वाइकिंग शील्ड मेडेन के लिए वीडियो प्रॉम्प्ट, जिसके सुनहरे-सफेद गुंथे हुए बाल हैं और वह जंगल से बाहर निकलकर अपना स्थान ले रही है।
+
+#### 📝 Prompt
+
+```
+एक वाइकिंग शील्ड मेडेन जिसके सुनहरे-सफेद गुंथे हुए बाल हैं, वह जंगल से बाहर निकलकर अपना स्थान ले रही है
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076056920826216448/img/w1fIASmvMPd0ZUy9.jpg" width="600" alt="वाइकिंग शील्ड मेडेन फॉरेस्ट एंट्रेंस">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7124)**
+
+**Author:** [Rebecca Clark](https://x.com/clark_rebe76017) | **Source:** [Link](https://x.com/clark_rebe76017/status/2076056974483915213) | **Published:** Jul 11, 2026
+
+---
+### सिनेमैटिक गोथिक मिलिट्री परेड
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> गोथिक वास्तुकला, मार्चिंग बैंड और तूफानी आसमान वाली एक भव्य सिनेमैटिक मिलिट्री परेड का वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+एक भव्य सिनेमैटिक मिलिट्री परेड, जिसमें गोथिक वास्तुकला, मार्चिंग बैंड, टैंक, भीड़, विमान और तूफानी आसमान है
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076055202583511042/img/a_HcgX78ZEZVwe7T.jpg" width="600" alt="सिनेमैटिक गोथिक मिलिट्री परेड">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7129)**
+
+**Author:** [Tianjin 💫](https://x.com/TianjinXiin) | **Source:** [Link](https://x.com/TianjinXiin/status/2076055651646624251) | **Published:** Jul 11, 2026
+
+---
+### Arborpunk हैंगिंग ऑर्किड मंडला
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक जटिल कलात्मक वीडियो प्रॉम्प्ट जो बाली की शिल्पकारी को मुचा (Mucha) से प्रेरित ऑर्गेनिक लाइनों के साथ एक गोलाकार मंडला में जोड़ता है।
+
+#### 📝 Prompt
+
+```
+कलात्मक Arborpunk हैंगिंग ऑर्किड वेधशाला को एक भव्य गोलाकार मंडला रचना के रूप में फिर से तैयार किया गया है, जिसके केंद्र में एक चमकदार पवित्र कमल का फूल है। इसमें बाली की उष्णकटिबंधीय शिल्पकारी और अल्फोंस मुचा (Alphonse Mucha) से प्रेरित बहती हुई ऑर्गेनिक लाइनों का समावेश है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076033338314518528/img/8uNA4q9A5ERPiyjD.jpg" width="600" alt="Arborpunk हैंगिंग ऑर्किड मंडला">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7115)**
+
+**Author:** [Carina](https://x.com/Freehere8) | **Source:** [Link](https://x.com/Freehere8/status/2076033394631422235) | **Published:** Jul 11, 2026
+
+---
+### Call of Duty FPS गेमप्ले
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Modern Warfare की शैली में यथार्थवादी फर्स्ट-पर्सन शूटर गेमप्ले वीडियो बनाने के लिए एक अत्यधिक विस्तृत प्रॉम्प्ट, जिसमें रात में धुंधली शहरी सड़क पर सामरिक हलचल दिखाई गई है।
+
+#### 📝 Prompt
+
+```
+Call of Duty Modern Warfare शैली में अल्ट्रा फोटो-यथार्थवादी फर्स्ट-पर्सन व्यू, खिलाड़ी के हाथ में रेड डॉट साइट वाली M4A1 राइफल है, जो रात में एक अंधेरी शहरी सड़क पर निशाना साध रहा है, यथार्थवादी सैन्य गियर, नाटकीय लाइटिंग, वॉल्यूमेट्रिक फॉग, अत्यधिक विस्तृत टेक्सचर, सिनेमाई गेमप्ले फुटेज --ar 16:9 --stylize 50 Call of Duty Modern Warfare शैली में यथार्थवादी फर्स्ट-पर्सन शूटर गेमप्ले: खिलाड़ी रेड डॉट साइट वाली M4A1 राइफल पकड़े हुए है, जो निशाना साधते हुए धुंधली अंधेरी सड़क पर धीरे-धीरे आगे बढ़ रहा है। सूक्ष्म यथार्थवादी हथियार का हिलना, सांस लेने की गति और कदमों की आहट। कैमरा प्राकृतिक हेड बॉब के साथ धीरे-धीरे आगे बढ़ता है, वातावरण को स्कैन करता है, वॉल्यूमेट्रिक फॉग, दूर की लाल बत्तियां और स्ट्रीट लैंप, अत्यधिक विस्तृत यथार्थवादी गति और वातावरण --ar 16:9 --motion 4
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076020512023605248/img/TEjjbB8IXpHrtrXq.jpg" width="600" alt="Call of Duty FPS गेमप्ले">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7118)**
+
+**Author:** [ⁱᵃᵐ|᠘𝘶𝗸ค𐍃🇩🇪💙](https://x.com/LukasK92) | **Source:** [Link](https://x.com/LukasK92/status/2076020574438990207) | **Published:** Jul 11, 2026
+
+---
+### फ्रेंच बुलडॉग बेली रब
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> लूना नाम की एक मादा फ्रेंच बुलडॉग के बेली रब (पेट सहलाने) पर खुशी से प्रतिक्रिया देने वाले वीडियो के लिए एक आकर्षक प्रॉम्प्ट, जिसमें विशिष्ट संवाद और स्नेहपूर्ण क्रियाएं शामिल हैं।
+
+#### 📝 Prompt
+
+```
+कुतिया लूना एक मादा 'फ्रेंच बुलडॉग' है जिसे उसकी सिसी (बहन) बेली रब दे रही है। लूना कहती है, "सिसी, बेली रब धरती पर स्वर्ग के समान हैं, मैं तुमसे प्यार करती हूँ।" लूना मचलती है और सिसी के हाथ को खूब चाटती है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075963834242613248/img/dI7eS9l4Pmi2M7Yu.jpg" width="600" alt="फ्रेंच बुलडॉग बेली रब">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7119)**
+
+**Author:** [Brenda (Peanci) Helton](https://x.com/BrendaDHel6581) | **Source:** [Link](https://x.com/BrendaDHel6581/status/2075963908611785148) | **Published:** Jul 11, 2026
+
+---
+### किशोर लड़कों की रोकोको पेंटिंग
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक स्टाइलिश वीडियो प्रॉम्प्ट जो जंगल की झील के किनारे दो किशोर भाई-बहनों की रोकोको पेंटिंग जैसा सौंदर्य बनाता है।
+
+#### 📝 Prompt
+
+```
+जंगल के वातावरण में तैरने के बाद झील के किनारे खड़े दो युवा किशोर लड़कों की एक रोकोको पेंटिंग, जिसमें भाई-बहन प्यार से गले मिले हुए हैं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075933202628382720/img/XaDF72k4IAzF39Y-.jpg" width="600" alt="किशोर लड़कों की रोकोको पेंटिंग">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7123)**
+
+**Author:** [Bobby](https://x.com/AiNerdGuy) | **Source:** [Link](https://x.com/AiNerdGuy/status/2075933252972622105) | **Published:** Jul 11, 2026
+
+---
+### पांडा की दयालुता की कहानी का पाठ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक नैरेटिव वीडियो प्रॉम्प्ट जो पांडा द्वारा बांस साझा करने की कहानी के माध्यम से दयालुता का नैतिक पाठ सिखाता है।
+
+#### 📝 Prompt
+
+```
+सीख: दयालुता हमेशा वापस आती है।
+एक पांडा ने अपना आखिरी बांस का अंकुर एक भूखे दोस्त के साथ साझा किया।
+कुछ दिनों बाद, जब एक तूफान ने उसका घर नष्ट कर दिया, तो कई जानवरों ने उसकी मदद की।
+दयालुता साझा करने से बढ़ती है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075864661749063680/img/ySbTF3zaFgWUMXxJ.jpg" width="600" alt="पांडा की दयालुता की कहानी का पाठ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7125)**
+
+**Author:** [Joyce Song](https://x.com/JoyceSongccrp) | **Source:** [Link](https://x.com/JoyceSongccrp/status/2075864735807914123) | **Published:** Jul 11, 2026
+
+---
+### सिनेमैटिक रोमन सैनिक का पहाड़ी से पलायन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक रोमन सैनिक का बर्फीले पहाड़ों में एक कौगर (cougar) द्वारा पीछा किए जाने का एक तीव्र, हाई-एक्शन सिनेमैटिक प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+एक रोमन सैनिक का 5-सेकंड का सिनेमैटिक एक्शन सीक्वेंस, जिसमें वह विस्तृत कवच पहने हुए विशाल, राजसी बर्फ से ढकी पर्वत श्रृंखला में गहरी बर्फ के बीच तेजी से भाग रहा है। एक बड़ा, शक्तिशाली कौगर आक्रामक रूप से उसका पीछा कर रहा है। गतिशील गति, उनके पैरों से उड़ती भारी बर्फ, सैनिक का घबराहट में पीछे मुड़कर देखना, कौगर का दहाड़ते हुए खुला मुंह, नाटकीय लो-एंगल कंपोजिशन, एपिक लाइटिंग, अत्यधिक विस्तृत फर और कवच, तीव्र वातावरण, मजबूत कलात्मक ड्रामा के साथ फोटो-रियलिस्टिक।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075819801612861440/img/mc33JqSewAl_OSLy.jpg" width="600" alt="सिनेमैटिक रोमन सैनिक का पहाड़ी से पलायन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7122)**
+
+**Author:** [Raadhika 💫✨️](https://x.com/Raadhika73) | **Source:** [Link](https://x.com/Raadhika73/status/2075819856562208814) | **Published:** Jul 11, 2026
+
+---
+### अवास्तविक रैप बैटल एनिमेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक अराजक और अवास्तविक चरित्र-आधारित प्रॉम्प्ट जिसमें तुकबंदी, सीढ़ियाँ और उच्च-ऊर्जा वाले एनिमेशन में विशिष्ट रंगीन आकृतियाँ शामिल हैं।
+
+#### 📝 Prompt
+
+```
+वे एक रैप की तुकबंदी करते हैं। सफेद रंग का बेबी बॉप 6767 सीढ़ियों से नीचे गिर जाता है और सॉसेज जैसी नाक वाले नीले रंग के पी डाइनो, ब्लू बार्नी को दोषी ठहराता है। उसका रंग नीला है ()। चीजें सीढ़ियों पर 10 गुना तेजी से ऊपर-नीचे होती हैं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075793194751586304/img/anHyVxN8rHqpv3Ke.jpg" width="600" alt="अवास्तविक रैप बैटल एनिमेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7120)**
+
+**Author:** [⬅️](https://x.com/CursedMoonRice) | **Source:** [Link](https://x.com/CursedMoonRice/status/2075793261940060544) | **Published:** Jul 11, 2026
+
+---
+### साइबरपंक नियॉन सिटी बाइक राइड
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> नियॉन लाइट्स और स्मूथ ट्रांज़िशन के साथ साइबरपंक मोटरसाइकिल दृश्य के लिए एक मूड-संचालित वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+मैट ब्लैक हेलमेट, नियॉन लाइट्स, साइबरपंक सिटी, स्मूथ ट्रांज़िशन, क्लीन टिल्ट, राइड दिस बाइक होम।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075768629207941120/img/JvLUDdoI0YRz4xR-.jpg" width="600" alt="साइबरपंक नियॉन सिटी बाइक राइड">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7116)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2075768940848931198) | **Published:** Jul 11, 2026
+
+---
+### सिनेमैटिक 4K वॉल्यूमेट्रिक क्लाउड्स
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक तकनीकी प्रॉम्प्ट जो सिनेमैटिक क्वालिटी, वॉल्यूमेट्रिक इफेक्ट्स और यथार्थवादी वीडियो आउटपुट के लिए गहरे शैडो/क्लाउड रंगों पर केंद्रित है।
+
+#### 📝 Prompt
+
+```
+यथार्थवादी 4K सिनेमैटिक क्वालिटी / स्मूथ मिक्स रियलिज्म / इंटरपोलेशन और अपस्केल / वॉल्यूमेट्रिक इफेक्ट / सॉफ्ट, अधिक गहरे शैडो / तीव्र क्लाउड रंग
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075756908561014784/img/0eJ59GY8fQ4jzLta.jpg" width="600" alt="सिनेमैटिक 4K वॉल्यूमेट्रिक क्लाउड्स">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7117)**
+
+**Author:** [Arak Dark](https://x.com/orgunus93304) | **Source:** [Link](https://x.com/orgunus93304/status/2075756972553486681) | **Published:** Jul 11, 2026
+
+---
 ### स्नो क्वीन पर्माफ्रॉस्ट पैलेस वीडियो
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -263,6 +515,25 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7010)**
 
 **Author:** [Robert Heinlein](https://x.com/strangerinastr) | **Source:** [Link](https://x.com/strangerinastr/status/2075286711521956062) | **Published:** Jul 9, 2026
+
+---
+### फोटो-रियलिस्टिक सेलर मून मिरर सेल्फी
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक महिला की सटीक सेलर मून पोशाक में यथार्थवादी मिरर सेल्फी के लिए एक अत्यधिक विस्तृत वीडियो प्रॉम्प्ट, जिसमें प्राकृतिक रोशनी और त्वचा की बनावट शामिल है।
+
+#### 📝 Prompt
+
+```
+एक महिला की अत्यधिक यथार्थवादी मिरर सेल्फी, जिसकी त्वचा दूधिया सफेद है और चेहरे, कंधों व छाती पर हल्के प्राकृतिक झाईयां (freckles) हैं। उसने एक विस्तृत और सटीक सेलर मून पोशाक पहनी है: नीले सेलर कॉलर और छाती पर बड़े लाल बो (bow) के साथ सफेद लियोटार्ड, सफेद और लाल ट्रिम वाली छोटी नीली प्लीटेड स्कर्ट, सुनहरे अर्धचंद्राकार मुकुट, लाल लहजे वाले लंबे सफेद दस्ताने, लाल जूते, सुनहरे दिल के पेंडेंट वाला लाल चोकर, और सुनहरा ब्रोच। लंबे लहराते पोनीटेल के साथ ओडांगो बन (odango buns) में क्लासिक सुनहरे बाल। वह एक आधुनिक बाथरूम में मिरर सेल्फी ले रही है, एक हाथ में काला स्मार्टफोन पकड़े हुए, आत्मविश्वास और थोड़ी चंचल अभिव्यक्ति के साथ सीधे कैमरे की ओर देख रही है। खिड़की से आती नरम प्राकृतिक रोशनी, यथार्थवादी त्वचा की बनावट, स्पष्ट झाईयां, शार्प फोकस, फोटो-रियलिस्टिक।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075205335040634880/img/UdrgqedZjz4y9CUP.jpg" width="600" alt="फोटो-रियलिस्टिक सेलर मून मिरर सेल्फी">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7126)**
+
+**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2075205397112123637) | **Published:** Jul 9, 2026
 
 ---
 ### लुभावनी काल्पनिक दुनिया
@@ -588,6 +859,25 @@ Android Deltamon का एक डिजिटल एनीमे-शैली �
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7064)**
 
 **Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2074146361805819955) | **Published:** Jul 6, 2026
+
+---
+### शांत जापानी किमोनो नाइट सीन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक शांतिपूर्ण वीडियो प्रॉम्प्ट जिसमें पानी के किनारे गर्म लालटेन की रोशनी में किमोनो पहने एक महिला और गिरते हुए पतझड़ के पत्ते दिखाई दे रहे हैं।
+
+#### 📝 Prompt
+
+```
+पानी पर चमकती एक गर्म लालटेन, धीरे-धीरे गिरते पतझड़ के पत्ते, और वह नीली रात में उस खूबसूरत किमोनो में बैठी है, जहाँ मछलियाँ उसका साथ दे रही हैं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074123319205601280/img/VGutJ5IAumyEj7IT.jpg" width="600" alt="शांत जापानी किमोनो नाइट सीन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7127)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2074123700790522084) | **Published:** Jul 6, 2026
 
 ---
 ### सुपीरियर मिराज आर्कटिक सी वीडियो
@@ -1910,294 +2200,6 @@ Youman,
 **Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2070902475238818282) | **Published:** Jun 27, 2026
 
 ---
-### कोज़ी घिबली इंस्पायर्ड एटिक वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> स्टूडियो घिबली से प्रेरित, एक गर्म और जादुई अटारी (attic) कमरे के लिए एक सिनेमैटिक वीडियो प्रॉम्प्ट, जो विंटेज खजाने और फेयरी लाइट्स से भरा है और जिसके ऊपर तारों से भरी रात का आकाश है।
-
-#### 📝 Prompt
-
-```
-एक आरामदायक अटारी कमरा जो विंटेज खजाने, पुराने नक्शों, गमले वाले पौधों, फेयरी लाइट्स और एक स्काईलाइट से भरा है, जिससे तारों से भरा एक अद्भुत रात का आकाश दिखाई देता है। गर्म और जादुई वातावरण, स्टूडियो घिबली से प्रेरित, अत्यधिक विस्तृत एनीमे चित्रण।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070855968339230720/img/gdIXM9etUa8gWSBz.jpg" width="600" alt="कोज़ी घिबली इंस्पायर्ड एटिक वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6559)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2070856044876902482) | **Published:** Jun 27, 2026
-
----
-### लाल लबादे में सेब लिए महिला
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक पुराने पेड़ के नीचे सेब पकड़े लाल लबादे में एक रहस्यमयी महिला का सिनेमैटिक वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-एक पुराने सेब के पेड़ के नीचे गहरे लाल रंग का हुड वाला लबादा पहने और एक चमकीला लाल सेब पकड़े रहस्यमयी युवती का अल्ट्रा-रियलिस्टिक क्लोज-अप दृश्य।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070822235099504640/img/2GsgtT4YdnmnI_uS.jpg" width="600" alt="लाल लबादे में सेब लिए महिला">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6561)**
-
-**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2070842077399675391) | **Published:** Jun 27, 2026
-
----
-### मिनिएचर डॉलहाउस वॉकथ्रू
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक मिनिएचर हाउस सेट के चंचल वॉकथ्रू के लिए एक रचनात्मक वीडियो प्रॉम्प्ट, जिसमें एक कैरेक्टर होस्ट और विस्तृत छोटे कमरों के डिज़ाइन शामिल हैं।
-
-#### 📝 Prompt
-
-```
-मीरा 'Attack of the 50 Foot Housewife' मिनिएचर हाउस सेट के अंदर एक चंचल वॉकथ्रू के लिए कैमरे का मार्गदर्शन करती है। वह डॉलहाउस के खुले हिस्से से अंदर कदम रखती है और एक उत्साही होस्ट की मुस्कान के साथ छोटे लिविंग रूम, किचन और सीढ़ियों की ओर इशारा करती है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070828566149799936/img/E-PWyVCNm3dHrglN.jpg" width="600" alt="मिनिएचर डॉलहाउस वॉकथ्रू">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6557)**
-
-**Author:** [Brian](https://x.com/luvsheight) | **Source:** [Link](https://x.com/luvsheight/status/2070828620747063692) | **Published:** Jun 27, 2026
-
----
-### खुले मैदान में दौड़ता हुआ स्टैलियन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक यथार्थवादी वीडियो प्रॉम्प्ट जो हरे-भरे खुले मैदान में दौड़ते हुए एक काले स्टैलियन घोड़े की शक्तिशाली गति को दर्शाता है।
-
-#### 📝 Prompt
-
-```
-हरे-भरे खुले मैदान में दौड़ते हुए एक काले स्टैलियन घोड़े का अल्ट्रा-रियलिस्टिक क्लोज-अप दृश्य।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070821975010758656/img/YB5H88tCBylmvaM9.jpg" width="600" alt="खुले मैदान में दौड़ता हुआ स्टैलियन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6558)**
-
-**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2070826977561612604) | **Published:** Jun 27, 2026
-
----
-### भव्य शुगर मेपल वन का आरोहण
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> टेनेसी के एक जंगल में गोल्डन आवर के दौरान एक भव्य प्राचीन शुगर मेपल पेड़ के ऊपर नाटकीय रूप से सर्पिल आरोहण बनाने वाला एक सिनेमैटिक वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-गोल्डन आवर के दौरान टेनेसी के एक जंगल में एक भव्य प्राचीन शुगर मेपल पेड़ का सिनेमैटिक लो-एंगल शॉट, कैमरा पेड़ के विशाल गांठदार आधार से शुरू होकर लंबे सीधे तने के साथ एक सहज नाटकीय आरोहण में ऊपर की ओर घूमता है, जो जटिल छाल की बनावट, सूरज की रोशनी में चमकती जीवंत शरद ऋतु की पत्तियों वाली फैली हुई शाखाओं को प्रकट करता है, महाकाव्य पैमाना और भव्यता, अति-विस्तृत, फोटो-यथार्थवादी, व्यापक गति, नेशनल जियोग्राफिक शैली।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070578616514064385/img/s6v7rbP2_YJpcJTs.jpg" width="600" alt="भव्य शुगर मेपल वन का आरोहण">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6528)**
-
-**Author:** [Ray Salmon](https://x.com/salmon1820) | **Source:** [Link](https://x.com/salmon1820/status/2070579069708570890) | **Published:** Jun 26, 2026
-
----
-### रॉकेट बूट्स स्पेस जर्नी
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक प्रॉम्प्ट जो एक ऐसे किरदार का वर्णन करता है जो अंतरिक्ष में यात्रा करने के लिए रॉकेट बूट्स का उपयोग करता है, जिसमें अन्वेषण और पीछे मुड़कर न देखने के विषयों पर ध्यान केंद्रित किया गया है।
-
-#### 📝 Prompt
-
-```
-रॉकेट बूट्स आखिरकार उसे अंतरिक्ष तक ले ही गए... और वह अब कभी पीछे मुड़कर नहीं देखेगी
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070541395014942720/img/sJBFM8Zd0FLzyf6I.jpg" width="600" alt="रॉकेट बूट्स स्पेस जर्नी">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6693)**
-
-**Author:** [Sadie Supa Doge](https://x.com/SadieSupaDoge) | **Source:** [Link](https://x.com/SadieSupaDoge/status/2070541545548427407) | **Published:** Jun 26, 2026
-
----
-### धुंधली सुबह का दृश्य
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वायुमंडलीय वीडियो प्रॉम्प्ट जिसमें एक व्यक्ति धुंध में खड़ा है, बारिश पर प्रतिक्रिया दे रहा है और भोर की पहली रोशनी में चिल्ला रहा है।
-
-#### 📝 Prompt
-
-```
-वह स्थिर खड़ा है, केवल अपना सिर घुमाकर इधर-उधर देख रहा है, चारों ओर कोहरा और धुंध है, वह बारिश को महसूस करता है, वह सूरज 🌞 को संजोता है, वह सुबह की पहली रोशनी के लिए चिल्लाता है
-```
-
-<img src="https://cms-assets.youmind.com/media/1782548991899_tk0r5w_HLv4wQiXoAAXyB1.jpg" width="600" alt="धुंधली सुबह का दृश्य">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6527)**
-
-**Author:** [Brooke](https://x.com/Brooke85276868) | **Source:** [Link](https://x.com/Brooke85276868/status/2070522599294013689) | **Published:** Jun 26, 2026
-
----
-### चांदनी तट पर रॉक कॉन्सर्ट का प्रदर्शन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमैटिक वीडियो प्रॉम्प्ट जिसमें चांदनी तट पर गतिशील हवा और हलचल के बीच एक रॉक गिटारवादक और एक बैले डांसर को प्रदर्शन करते हुए दिखाया गया है।
-
-#### 📝 Prompt
-
-```
-सिनेमैटिक चांदनी तट का मंच: काले चमड़े के कपड़ों में यथार्थवादी रॉक गिटारवादक, इलेक्ट्रिक गिटार जीवंत—मजबूत पिकिंग हैंड, सक्रिय फ्रेटबोर्ड, हवा में उड़ते बाल और जैकेट; उसी फ्रेम में चांदी जैसी सफेद बैले डांसर प्वॉइंट पर, क्लासिक
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070516606371864576/img/N6tBA0_0E2jxku8N.jpg" width="600" alt="चांदनी तट पर रॉक कॉन्सर्ट का प्रदर्शन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6522)**
-
-**Author:** [@TheCFormula credo.](https://x.com/TheCFormula) | **Source:** [Link](https://x.com/TheCFormula/status/2070516674906730730) | **Published:** Jun 26, 2026
-
----
-### स्टूडियो घिबली (Studio Ghibli) स्टाइल जापानी ट्रेन स्टेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> रात के समय एक ग्रामीण जापानी ट्रेन स्टेशन का उदासीन एनीमे-शैली वीडियो प्रॉम्प्ट, जिसमें लहराते जंगली फूल और सिनेमाई लाइटिंग है।
-
-#### 📝 Prompt
-
-```
-रात में एक उदासीन ग्रामीण जापानी ट्रेन स्टेशन, विंटेज लकड़ी का प्लेटफॉर्म, चमकते स्टेशन लैंप, हवा में लहराते जंगली फूल, ऊपर तारों भरा आसमान, गर्म और शांतिपूर्ण वातावरण, स्टूडियो घिबली (Studio Ghibli) से प्रेरित एनीमे आर्टवर्क, अत्यधिक विस्तृत और सिनेमाई।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070496506583588864/img/ErbxoFiu1HZIslQC.jpg" width="600" alt="स्टूडियो घिबली (Studio Ghibli) स्टाइल जापानी ट्रेन स्टेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6523)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2070496541476106291) | **Published:** Jun 26, 2026
-
----
-### बादलों के बीच ऊपर की ओर बढ़ते शरीर का एनिमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक मोशन प्रॉम्प्ट जिसे किसी विषय को बादलों के बीच ऊपर की ओर जाते हुए दिखाने के लिए डिज़ाइन किया गया है, जिसमें हाई-डेफिनिशन सिनेमैटिक क्वालिटी है।
-
-#### 📝 Prompt
-
-```
-बादलों के बीच ऊपर की ओर बढ़ते शरीर का एनिमेशन, मास्टरपीस, अल्ट्रा HD क्वालिटी 1111111111111111111111111111111111 k रिज़ॉल्यूशन
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070478707072905216/img/orE4qofUH1ZrmX8n.jpg" width="600" alt="बादलों के बीच ऊपर की ओर बढ़ते शरीर का एनिमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6524)**
-
-**Author:** [MIUZAH DEIOPAH OF THE PLEIADES](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2070478762215358568) | **Published:** Jun 26, 2026
-
----
-### गैलेक्टिक फेडरेशन प्लेडियन स्टारशिप एनिमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक साइंस-फिक्शन प्रॉम्प्ट जो एक स्टारशिप के अंदर कंप्यूटर टर्मिनल चला रहे प्लेडियन को जंपसूट में और वॉल्यूमेट्रिक लाइटिंग के साथ दर्शाता है।
-
-#### 📝 Prompt
-
-```
-नीले गैलेक्टिक फेडरेशन जंपसूट में प्लेडियन स्टारशिप पर कंप्यूटर टर्मिनल पर बैठे हैं, मास्टरपीस, अल्ट्रा एचडी क्वालिटी 11111111111111111111111111111111111111 k वॉल्यूमेट्रिक ब्राइट लाइटिंग k
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070425640235421696/img/S65YifuMA9sk6iP2.jpg" width="600" alt="गैलेक्टिक फेडरेशन प्लेडियन स्टारशिप एनिमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6525)**
-
-**Author:** [MIUZAH DEIOPAH OF THE PLEIADES](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2070425694207725650) | **Published:** Jun 26, 2026
-
----
-### 2D कार्टून नान फूड एनिमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> फूड कैरेक्टर्स के लिए एक आकर्षक 2D एनिमेशन प्रॉम्प्ट, जिसमें एवोकैडो और टमाटर के साथ एक उछलता हुआ नान दिखाया गया है।
-
-#### 📝 Prompt
-
-```
-2D कार्टून फूड एनिमेशन: खुशमिजाज नान ब्रेड हल्के से उछल रही है, साथ में एवोकैडो और टमाटर हैं, भाप के गोले प्यारे सर्कल्स में निकल रहे हैं, और तुलसी की पत्तियां हिल रही हैं। बच्चों के कार्टून जैसी स्नैपी टाइमिंग, वार्म कलर्स और जेंटल ज़ूम।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070377021864075264/img/R6Wn080jiwtdSq-z.jpg" width="600" alt="2D कार्टून नान फूड एनिमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6526)**
-
-**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2070377101966913755) | **Published:** Jun 26, 2026
-
----
-### कार्टून नान पिज़्ज़ा एनिमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक मनमौजी 2D कार्टून एनिमेशन प्रॉम्प्ट, जिसमें चमकती हुई सामग्री के साथ एक उछलता हुआ नान पिज़्ज़ा दिखाया गया है।
-
-#### 📝 Prompt
-
-```
-चंचल कार्टून एनिमेशन: नान पिज़्ज़ा धीरे-धीरे उछल रहा है और भाप गोल-गोल छल्लों में ऊपर की ओर उठ रही है, टमाटर के स्लाइस चमक रहे हैं, और तुलसी की पत्तियां फड़फड़ा रही हैं। सॉफ्ट कैमरा पुश-इन के साथ ब्राइट 2D कार्टून स्टाइल, जो मनमौजी और स्वादिष्ट है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070376328482709504/img/6SqB4RTZlaLEgEJP.jpg" width="600" alt="कार्टून नान पिज़्ज़ा एनिमेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6529)**
-
-**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2070376397508366690) | **Published:** Jun 26, 2026
-
----
-### जलपरी और कैट मरमेड की पानी के नीचे की काल्पनिक दुनिया
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> गहरे नीले समुद्र में एक जलपरी और एक कैट मरमेड के साथ तैरने का एक शांत वीडियो, जिसमें एक विशाल व्हेल भी साथ है।
-
-#### 📝 Prompt
-
-```
-🌊🐋 अनंत नीले सागर के नीचे, एक जलपरी और उसकी कैट मरमेड एक सौम्य विशाल व्हेल की देखरेख में साथ-साथ तैर रही हैं।
-
-एक ऐसी दुनिया जहाँ दोस्ती की कोई सीमा नहीं होती…
-सिर्फ समुद्र की आवाज़ और कल्पना का जादू। ✨
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070262422682898432/img/IQ76u5RSXEZJqet9.jpg" width="600" alt="जलपरी और कैट मरमेड की पानी के नीचे की काल्पनिक दुनिया">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6478)**
-
-**Author:** [猫神MT](https://x.com/nekogami_MT) | **Source:** [Link](https://x.com/nekogami_MT/status/2070262480039997474) | **Published:** Jun 25, 2026
-
----
-### सिनेमैटिक मोटरसाइकिल टनल जंप
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक हाई-एक्शन सिनेमैटिक प्रॉम्प्ट जिसमें एक मोटरसाइकिल सवार अंधेरी सुरंग में टूटे हुए कंक्रीट से छलांग लगा रहा है और चिंगारियां उड़ रही हैं।
-
-#### 📝 Prompt
-
-```
-सुरंग हिचकिचाहट को माफ नहीं करती। वह टूटे हुए कंक्रीट से ऐसे उछलता है जैसे भौतिकी के नियम सिर्फ एक सुझाव हों। चिंगारियां उड़ती हैं। इंजन दहाड़ता है। और एक पल के लिए, वह अंधेरे में उड़ रहा होता है, जहाँ केवल उसकी इच्छाशक्ति और गति उसे हवा में बनाए रखती है। कुछ लोग परछाइयों से भागते हैं। यह सवार सीधे उनके बीच से गुजरता है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069995864765120512/img/Da81kGoY505pVtB8.jpg" width="600" alt="सिनेमैटिक मोटरसाइकिल टनल जंप">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6486)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2070243131253989767) | **Published:** Jun 25, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2259,6 +2261,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-12T06:53:56.265Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-12T10:15:05.012Z</sub>
 
 </div>

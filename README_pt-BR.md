@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2069** |
+| 📝 Total Prompts | **2084** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-12** |
 
@@ -189,6 +189,258 @@ Uma valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Habitação em Colônia Espacial
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo de ficção científica que retrata a realidade industrial e superlotada das primeiras colônias espaciais com jardins hidropônicos.
+
+#### 📝 Prompt
+
+```
+Eram vedações de pressão, jardins hidropônicos, habitações de concreto superlotadas, luz artificial, ar reciclado e pessoas tentando preparar o jantar no fim do mundo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076086195482714112/img/Iw0wb0gAEItuwkJV.jpg" width="600" alt="Habitação em Colônia Espacial">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7128)**
+
+**Author:** [Sherice](https://x.com/Sherice0799) | **Source:** [Link](https://x.com/Sherice0799/status/2076086295336489166) | **Published:** Jul 11, 2026
+
+---
+### Caminhada na praia de uma loira praticando mergulho
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt com tema de praia que descreve uma mulher caminhando e se preparando para uma aventura de mergulho no oceano.
+
+#### 📝 Prompt
+
+```
+Uma linda loira na beira da praia colocando o equipamento para pular na água, com o regulador na boca para nadar com as criaturas marinhas e todo o seu equipamento, caminhando em direção ao oceano.
+
+Uma linda loira caminhando pela praia, preparando-se para um mergulho.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076057170081415168/img/NKhvJlct2cdM6zzK.jpg" width="600" alt="Caminhada na praia de uma loira praticando mergulho">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7121)**
+
+**Author:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **Source:** [Link](https://x.com/AnnetteHollerWe/status/2076057254605009386) | **Published:** Jul 11, 2026
+
+---
+### Guerreira Viking na Entrada da Floresta
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo para uma guerreira viking com cabelos brancos trançados saindo de uma floresta para se posicionar.
+
+#### 📝 Prompt
+
+```
+Uma guerreira viking com cabelos brancos trançados se posicionando ao sair da floresta
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076056920826216448/img/w1fIASmvMPd0ZUy9.jpg" width="600" alt="Guerreira Viking na Entrada da Floresta">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7124)**
+
+**Author:** [Rebecca Clark](https://x.com/clark_rebe76017) | **Source:** [Link](https://x.com/clark_rebe76017/status/2076056974483915213) | **Published:** Jul 11, 2026
+
+---
+### Desfile Militar Gótico Cinematográfico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um grandioso prompt de vídeo cinematográfico de um desfile militar com arquitetura gótica, bandas marciais e céus tempestuosos.
+
+#### 📝 Prompt
+
+```
+um grande desfile militar cinematográfico, com arquitetura gótica, bandas marciais, tanques, multidões, aeronaves e um céu tempestuoso
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076055202583511042/img/a_HcgX78ZEZVwe7T.jpg" width="600" alt="Desfile Militar Gótico Cinematográfico">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7129)**
+
+**Author:** [Tianjin 💫](https://x.com/TianjinXiin) | **Source:** [Link](https://x.com/TianjinXiin/status/2076055651646624251) | **Published:** Jul 11, 2026
+
+---
+### Mandala de Orquídea Suspensa Arborpunk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo artístico complexo que combina o artesanato balinês com linhas orgânicas inspiradas em Mucha em uma mandala circular.
+
+#### 📝 Prompt
+
+```
+Observatório de Orquídea Suspensa Arborpunk artístico reimaginado como uma grandiosa composição de mandala circular, centralizado em uma luminosa flor de lótus sagrada no coração. Infundido com o artesanato tropical balinês e linhas orgânicas fluidas inspiradas em Alphonse Mucha.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076033338314518528/img/8uNA4q9A5ERPiyjD.jpg" width="600" alt="Mandala de Orquídea Suspensa Arborpunk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7115)**
+
+**Author:** [Carina](https://x.com/Freehere8) | **Source:** [Link](https://x.com/Freehere8/status/2076033394631422235) | **Published:** Jul 11, 2026
+
+---
+### Gameplay de FPS de Call of Duty
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt altamente detalhado para criar vídeos de gameplay de tiro em primeira pessoa realistas no estilo de Modern Warfare, apresentando movimentação tática por uma rua urbana com neblina à noite.
+
+#### 📝 Prompt
+
+```
+Visão em primeira pessoa ultrarrealista no estilo de Call of Duty Modern Warfare, jogador segurando um rifle M4A1 com mira red dot, mirando em uma rua urbana escura à noite, equipamento militar realista, iluminação dramática, neblina volumétrica, texturas altamente detalhadas, filmagem de gameplay cinematográfica --ar 16:9 --stylize 50 Gameplay de tiro em primeira pessoa realista no estilo de Call of Duty Modern Warfare: O jogador segura um rifle M4A1 com mira red dot, movendo-se lentamente pela rua escura e com neblina enquanto mira. Oscilação realista e sutil da arma, movimento de respiração e passos. A câmera avança lentamente com balanço natural da cabeça, escaneando o ambiente, neblina volumétrica, luzes vermelhas distantes e postes de iluminação, movimento realista altamente detalhado e atmosfera --ar 16:9 --motion 4
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076020512023605248/img/TEjjbB8IXpHrtrXq.jpg" width="600" alt="Gameplay de FPS de Call of Duty">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7118)**
+
+**Author:** [ⁱᵃᵐ|᠘𝘶𝗸ค𐍃🇩🇪💙](https://x.com/LukasK92) | **Source:** [Link](https://x.com/LukasK92/status/2076020574438990207) | **Published:** Jul 11, 2026
+
+---
+### Bulldog Francês recebendo carinho na barriga
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt encantador para um vídeo de uma Bulldog Francês fêmea chamada Luna reagindo alegremente a um carinho na barriga, apresentando diálogos específicos e ações afetuosas.
+
+#### 📝 Prompt
+
+```
+A cadela Luna é uma 'Bulldog Francês' FÊMEA recebendo carinho na barriga de sua irmã. Luna diz: “Carinho na barriga da irmã é o paraíso na terra, eu te amo”. Luna se contorce e lambe profusamente a mão da irmã.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075963834242613248/img/dI7eS9l4Pmi2M7Yu.jpg" width="600" alt="Bulldog Francês recebendo carinho na barriga">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7119)**
+
+**Author:** [Brenda (Peanci) Helton](https://x.com/BrendaDHel6581) | **Source:** [Link](https://x.com/BrendaDHel6581/status/2075963908611785148) | **Published:** Jul 11, 2026
+
+---
+### Pintura Rococó de Adolescentes
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo estilizado que cria uma estética de pintura Rococó apresentando dois irmãos adolescentes perto de um lago na floresta.
+
+#### 📝 Prompt
+
+```
+Uma pintura rococó de dois jovens adolescentes parados perto de um lago após nadar em um ambiente de floresta, irmãos abraçados afetuosamente.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075933202628382720/img/XaDF72k4IAzF39Y-.jpg" width="600" alt="Pintura Rococó de Adolescentes">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7123)**
+
+**Author:** [Bobby](https://x.com/AiNerdGuy) | **Source:** [Link](https://x.com/AiNerdGuy/status/2075933252972622105) | **Published:** Jul 11, 2026
+
+---
+### Lição de história sobre a bondade do panda
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo narrativo que ilustra uma lição moral sobre bondade através da história de um panda que compartilha bambu.
+
+#### 📝 Prompt
+
+```
+Lição: A bondade sempre retorna.
+Um panda compartilhou seu último broto de bambu com um amigo faminto.
+Dias depois, muitos animais o ajudaram após uma tempestade destruir sua casa.
+A bondade cresce quando é compartilhada.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075864661749063680/img/ySbTF3zaFgWUMXxJ.jpg" width="600" alt="Lição de história sobre a bondade do panda">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7125)**
+
+**Author:** [Joyce Song](https://x.com/JoyceSongccrp) | **Source:** [Link](https://x.com/JoyceSongccrp/status/2075864735807914123) | **Published:** Jul 11, 2026
+
+---
+### Fuga Cinematográfica de Soldado Romano na Montanha
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt cinematográfico intenso e de alta ação de um soldado romano sendo perseguido por uma onça-parda através de neve profunda em uma majestosa cadeia de montanhas.
+
+#### 📝 Prompt
+
+```
+Sequência de ação cinematográfica de 5 segundos de um soldado romano com armadura detalhada correndo desesperadamente pela neve profunda em uma vasta e majestosa cadeia de montanhas com picos nevados. Uma onça-parda grande e poderosa o persegue agressivamente. Movimento dinâmico, neve pesada sendo levantada pelos pés, o soldado olhando para trás com alarme, a onça-parda com a boca aberta no meio de um rugido, composição dramática em ângulo baixo, iluminação épica, pelos e armadura altamente detalhados, atmosfera intensa, fotorrealista com forte drama artístico.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075819801612861440/img/mc33JqSewAl_OSLy.jpg" width="600" alt="Fuga Cinematográfica de Soldado Romano na Montanha">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7122)**
+
+**Author:** [Raadhika 💫✨️](https://x.com/Raadhika73) | **Source:** [Link](https://x.com/Raadhika73/status/2075819856562208814) | **Published:** Jul 11, 2026
+
+---
+### Animação de Batalha de Rap Surreal
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt caótico e surreal baseado em personagens, envolvendo rimas, escadas e figuras coloridas específicas em uma animação de alta energia.
+
+#### 📝 Prompt
+
+```
+Eles rimam um rap. O baby bop, que é de cor branca, cai de umas 6767 escadas e culpa o barney azul, o dinossauro do xixi com nariz de salsicha. Ele é de cor azul (). As coisas ficam 10x mais loucas subindo e descendo as escadas.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075793194751586304/img/anHyVxN8rHqpv3Ke.jpg" width="600" alt="Animação de Batalha de Rap Surreal">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7120)**
+
+**Author:** [⬅️](https://x.com/CursedMoonRice) | **Source:** [Link](https://x.com/CursedMoonRice/status/2075793261940060544) | **Published:** Jul 11, 2026
+
+---
+### Passeio de Moto em Cidade Neon Cyberpunk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo focado em atmosfera para uma cena de motocicleta cyberpunk com luzes neon e transições suaves.
+
+#### 📝 Prompt
+
+```
+capacete preto fosco, luzes neon, cidade cyberpunk, transição suave, inclinação limpa, pilote esta moto para casa.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075768629207941120/img/JvLUDdoI0YRz4xR-.jpg" width="600" alt="Passeio de Moto em Cidade Neon Cyberpunk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7116)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2075768940848931198) | **Published:** Jul 11, 2026
+
+---
+### Nuvens Volumétricas Cinematográficas em 4K
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt técnico focado em qualidade cinematográfica, efeitos volumétricos e cores intensas de sombras/nuvens para uma saída de vídeo realista.
+
+#### 📝 Prompt
+
+```
+Qualidade cinematográfica 4K realista / Mistura suave de realismo / Interpolação e upscale / Efeito volumétrico / Sombras mais suaves e intensas / Cores de nuvens intensas
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075756908561014784/img/0eJ59GY8fQ4jzLta.jpg" width="600" alt="Nuvens Volumétricas Cinematográficas em 4K">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7117)**
+
+**Author:** [Arak Dark](https://x.com/orgunus93304) | **Source:** [Link](https://x.com/orgunus93304/status/2075756972553486681) | **Published:** Jul 11, 2026
+
+---
 ### Vídeo do Palácio de Permafrost da Rainha da Neve
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -263,6 +515,25 @@ O tenista completa o movimento de forehand enquanto a bola amarela dispara pela 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7010)**
 
 **Author:** [Robert Heinlein](https://x.com/strangerinastr) | **Source:** [Link](https://x.com/strangerinastr/status/2075286711521956062) | **Published:** Jul 9, 2026
+
+---
+### Selfie no espelho fotorrealista da Sailor Moon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo altamente detalhado para uma selfie realista no espelho de uma mulher com um traje fiel da Sailor Moon, apresentando iluminação natural e texturas de pele.
+
+#### 📝 Prompt
+
+```
+Selfie no espelho altamente realista de uma mulher com pele de porcelana clara e sardas naturais delicadas no rosto, ombros e peito. Ela está vestida com um traje detalhado e fiel da Sailor Moon: collant branco com gola de marinheiro azul e um grande laço vermelho no peito, saia plissada azul curta com acabamento em branco e vermelho, tiara de lua crescente dourada, luvas brancas longas com detalhes em vermelho, botas vermelhas, gargantilha vermelha com pingente de coração dourado e broche dourado. Cabelo loiro clássico em coques odango com longas marias-chiquinhas fluidas. Ela está tirando uma selfie no espelho em um banheiro moderno, segurando um smartphone preto em uma das mãos, olhando diretamente para a câmera com uma expressão confiante e levemente brincalhona. Iluminação natural suave de janela, textura de pele realista, sardas visíveis, foco nítido, fotorrealista.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075205335040634880/img/UdrgqedZjz4y9CUP.jpg" width="600" alt="Selfie no espelho fotorrealista da Sailor Moon">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7126)**
+
+**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2075205397112123637) | **Published:** Jul 9, 2026
 
 ---
 ### Mundo de fantasia imaginário de tirar o fôlego
@@ -588,6 +859,25 @@ Seus olhos contam duas histórias ao mesmo tempo, uma violeta como as profundeza
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7064)**
 
 **Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2074146361805819955) | **Published:** Jul 6, 2026
+
+---
+### Cena Noturna Serena de Quimono Japonês
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo tranquilo apresentando uma mulher de quimono à beira da água sob a luz quente de lanternas com folhas de outono caindo.
+
+#### 📝 Prompt
+
+```
+Uma lanterna brilhando calorosamente sobre a água, folhas de outono caindo suavemente, e ela sentada ali naquele lindo quimono com os peixes fazendo-lhe companhia na noite azul.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074123319205601280/img/VGutJ5IAumyEj7IT.jpg" width="600" alt="Cena Noturna Serena de Quimono Japonês">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7127)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2074123700790522084) | **Published:** Jul 6, 2026
 
 ---
 ### Vídeo de Miragem Superior no Mar Ártico
@@ -1910,294 +2200,6 @@ Cena em close-up ultrarrealista de uma linda mulher com um belo vestido de verã
 **Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2070902475238818282) | **Published:** Jun 27, 2026
 
 ---
-### Vídeo de sótão aconchegante inspirado no Studio Ghibli
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cinematográfico para um sótão acolhedor e mágico, repleto de tesouros vintage e luzes de fada sob um céu noturno estrelado, inspirado no Studio Ghibli.
-
-#### 📝 Prompt
-
-```
-Um sótão aconchegante repleto de tesouros vintage, mapas antigos, plantas em vasos, luzes de fada e uma claraboia revelando um céu noturno deslumbrante repleto de galáxias, atmosfera calorosa e mágica, inspirado no Studio Ghibli, ilustração em anime altamente detalhada.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070855968339230720/img/gdIXM9etUa8gWSBz.jpg" width="600" alt="Vídeo de sótão aconchegante inspirado no Studio Ghibli">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6559)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2070856044876902482) | **Published:** Jun 27, 2026
-
----
-### Mulher de Capa Vermelha com uma Maçã
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cinematográfico de uma mulher misteriosa de capa vermelha segurando uma maçã sob uma árvore antiga.
-
-#### 📝 Prompt
-
-```
-Cena em close-up ultrarrealista de uma jovem misteriosa vestindo uma capa com capuz vermelho profundo, segurando uma maçã vermelha brilhante sob uma macieira antiga.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070822235099504640/img/2GsgtT4YdnmnI_uS.jpg" width="600" alt="Mulher de Capa Vermelha com uma Maçã">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6561)**
-
-**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2070842077399675391) | **Published:** Jun 27, 2026
-
----
-### Tour por uma Casa de Bonecas em Miniatura
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo criativo para um tour divertido por um cenário de casa em miniatura, apresentando uma personagem como apresentadora e designs detalhados de cômodos minúsculos.
-
-#### 📝 Prompt
-
-```
-Mira guia a câmera em um tour divertido pelo interior do cenário de casa em miniatura de Attack of the 50 Foot Housewife. Ela entra pela fachada aberta da casa de bonecas, apontando para a pequena sala de estar, a cozinha e a escadaria com o sorriso entusiasmado de uma apresentadora.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070828566149799936/img/E-PWyVCNm3dHrglN.jpg" width="600" alt="Tour por uma Casa de Bonecas em Miniatura">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6557)**
-
-**Author:** [Brian](https://x.com/luvsheight) | **Source:** [Link](https://x.com/luvsheight/status/2070828620747063692) | **Published:** Jun 27, 2026
-
----
-### Garanhão correndo em campo aberto
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo realista que captura o movimento poderoso de um cavalo garanhão preto correndo através de um campo verde aberto.
-
-#### 📝 Prompt
-
-```
-Cena em close-up ultrarrealista de um cavalo garanhão preto correndo em um campo verde aberto.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070821975010758656/img/YB5H88tCBylmvaM9.jpg" width="600" alt="Garanhão correndo em campo aberto">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6558)**
-
-**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2070826977561612604) | **Published:** Jun 27, 2026
-
----
-### Ascensão Majestosa pela Floresta de Bordo-açucareiro
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cinematográfico que cria uma ascensão espiral dramática por uma majestosa e antiga árvore de Bordo-açucareiro em uma floresta do Tennessee durante a 'golden hour'.
-
-#### 📝 Prompt
-
-```
-Um plano cinematográfico de ângulo baixo de uma majestosa e antiga árvore de Bordo-açucareiro em uma floresta do Tennessee durante a 'golden hour', com a câmera começando na base maciça e retorcida, subindo em espiral em uma ascensão suave e dramática ao longo do tronco alto e reto, revelando a textura intrincada da casca, galhos extensos com vibrantes folhas de outono brilhando sob a luz do sol, escala épica e magnificência, hiperdetalhado, fotorrealista, movimento amplo, estilo National Geographic.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070578616514064385/img/s6v7rbP2_YJpcJTs.jpg" width="600" alt="Ascensão Majestosa pela Floresta de Bordo-açucareiro">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6528)**
-
-**Author:** [Ray Salmon](https://x.com/salmon1820) | **Source:** [Link](https://x.com/salmon1820/status/2070579069708570890) | **Published:** Jun 26, 2026
-
----
-### Jornada Espacial com Botas Foguete
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt descrevendo uma personagem usando botas foguete para viajar ao espaço, focando em temas de exploração e em não olhar para trás.
-
-#### 📝 Prompt
-
-```
-As botas foguete finalmente a levaram até o espaço... e ela nunca mais vai olhar para trás
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070541395014942720/img/sJBFM8Zd0FLzyf6I.jpg" width="600" alt="Jornada Espacial com Botas Foguete">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6693)**
-
-**Author:** [Sadie Supa Doge](https://x.com/SadieSupaDoge) | **Source:** [Link](https://x.com/SadieSupaDoge/status/2070541545548427407) | **Published:** Jun 26, 2026
-
----
-### Cena Matinal Nebulosa e Uivante
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo atmosférico apresentando um homem parado na neblina, reagindo à chuva e uivando para os primeiros raios do amanhecer.
-
-#### 📝 Prompt
-
-```
-ele permanece imóvel, movendo apenas a cabeça de um lado para o outro, está nublado e com neblina, ele sente a chuva, ele aprecia o sol 🌞 ele uiva para as primeiras luzes da manhã
-```
-
-<img src="https://cms-assets.youmind.com/media/1782548991899_tk0r5w_HLv4wQiXoAAXyB1.jpg" width="600" alt="Cena Matinal Nebulosa e Uivante">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6527)**
-
-**Author:** [Brooke](https://x.com/Brooke85276868) | **Source:** [Link](https://x.com/Brooke85276868/status/2070522599294013689) | **Published:** Jun 26, 2026
-
----
-### Concerto de Rock na Costa sob o Luar
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cinematográfico retratando um guitarrista de rock e uma bailarina se apresentando em uma costa sob o luar, com vento e movimento dinâmicos.
-
-#### 📝 Prompt
-
-```
-Palco cinematográfico na costa sob o luar: guitarrista de rock realista com base firme, vestindo couro preto, guitarra elétrica vibrante — mão de palhetada forte, escala ativa, cabelo e jaqueta movendo-se ao vento; enquadramento equilibrado com uma bailarina de branco prateado nas pontas, clássica
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070516606371864576/img/N6tBA0_0E2jxku8N.jpg" width="600" alt="Concerto de Rock na Costa sob o Luar">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6522)**
-
-**Author:** [@TheCFormula credo.](https://x.com/TheCFormula) | **Source:** [Link](https://x.com/TheCFormula/status/2070516674906730730) | **Published:** Jun 26, 2026
-
----
-### Estação de trem japonesa no estilo Studio Ghibli
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo nostálgico em estilo anime de uma estação de trem rural japonesa à noite, com flores silvestres balançando e iluminação cinematográfica.
-
-#### 📝 Prompt
-
-```
-Uma estação de trem rural japonesa nostálgica à noite, plataforma de madeira vintage, luzes da estação brilhando, flores silvestres balançando na brisa, céu estrelado, atmosfera calorosa e pacífica, arte em anime inspirada no Studio Ghibli, ultra detalhada e cinematográfica.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070496506583588864/img/ErbxoFiu1HZIslQC.jpg" width="600" alt="Estação de trem japonesa no estilo Studio Ghibli">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6523)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2070496541476106291) | **Published:** Jun 26, 2026
-
----
-### Animação de corpo subindo através das nuvens
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de movimento projetado para animar um objeto subindo através das nuvens com qualidade cinematográfica de alta definição.
-
-#### 📝 Prompt
-
-```
-Anime um corpo subindo através das nuvens, obra-prima, qualidade ultra HD, resolução 1111111111111111111111111111111111 k
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070478707072905216/img/orE4qofUH1ZrmX8n.jpg" width="600" alt="Animação de corpo subindo através das nuvens">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6524)**
-
-**Author:** [MIUZAH DEIOPAH OF THE PLEIADES](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2070478762215358568) | **Published:** Jun 26, 2026
-
----
-### Animação de Nave Estelar da Federação Galáctica dos Pleiadianos
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de ficção científica retratando pleiadianos em macacões operando terminais de computador dentro de uma nave estelar com iluminação volumétrica.
-
-#### 📝 Prompt
-
-```
-Pleiadianos em macacões azuis da Federação Galáctica sentados em terminais de computador a bordo de naves estelares, obra-prima, qualidade ultra HD 11111111111111111111111111111111111111 k Iluminação Brilhante Volumétrica k
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070425640235421696/img/S65YifuMA9sk6iP2.jpg" width="600" alt="Animação de Nave Estelar da Federação Galáctica dos Pleiadianos">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6525)**
-
-**Author:** [MIUZAH DEIOPAH OF THE PLEIADES](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2070425694207725650) | **Published:** Jun 26, 2026
-
----
-### Animação 2D de Comida: Cartoon de Naan
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de animação 2D encantador para personagens de comida, apresentando um pão naan saltitante com detalhes de abacate e tomate.
-
-#### 📝 Prompt
-
-```
-Animação 2D de comida estilo cartoon: um pão naan alegre salta levemente, com abacate e tomates, pequenas nuvens de vapor surgem em círculos fofos e folhas de manjericão balançam. Timing ágil de desenho animado infantil, cores quentes e zoom suave.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070377021864075264/img/R6Wn080jiwtdSq-z.jpg" width="600" alt="Animação 2D de Comida: Cartoon de Naan">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6526)**
-
-**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2070377101966913755) | **Published:** Jun 26, 2026
-
----
-### Animação de Cartoon de Pizza de Naan
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de animação 2D caprichoso apresentando uma pizza de naan saltitante com ingredientes cintilantes.
-
-#### 📝 Prompt
-
-```
-Animação de cartoon divertida: a pizza de naan balança suavemente e o vapor sobe em loops saltitantes, fatias de tomate brilham, folhas de manjericão tremulam. Estilo cartoon 2D vibrante com um leve zoom da câmera, caprichoso e apetitoso.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070376328482709504/img/6SqB4RTZlaLEgEJP.jpg" width="600" alt="Animação de Cartoon de Pizza de Naan">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6529)**
-
-**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2070376397508366690) | **Published:** Jun 26, 2026
-
----
-### Sereia e Gata Sereia: Fantasia Subaquática
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um vídeo sereno de uma sereia e uma gata sereia nadando juntas no oceano azul profundo, acompanhadas por uma baleia gigante.
-
-#### 📝 Prompt
-
-```
-🌊🐋 Sob o azul sem fim, uma sereia e sua gata sereia nadam lado a lado sob o olhar atento de uma baleia gigante e gentil.
-
-Um mundo onde a amizade não conhece fronteiras…
-Apenas o som do oceano e a magia da imaginação. ✨
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070262422682898432/img/IQ76u5RSXEZJqet9.jpg" width="600" alt="Sereia e Gata Sereia: Fantasia Subaquática">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6478)**
-
-**Author:** [猫神MT](https://x.com/nekogami_MT) | **Source:** [Link](https://x.com/nekogami_MT/status/2070262480039997474) | **Published:** Jun 25, 2026
-
----
-### Salto cinematográfico de motocicleta em túnel
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt cinematográfico de alta ação apresentando um motociclista saltando de concreto quebrado em um túnel escuro com faíscas voando.
-
-#### 📝 Prompt
-
-```
-O túnel não perdoa hesitação. Ele salta do concreto quebrado como se as leis da física fossem apenas uma sugestão. Faíscas voam. O motor ruge. E, por um segundo perfeito, ele voa pela escuridão com nada além de força de vontade e impulso mantendo-o no ar. Alguns homens fogem das sombras. Este as atravessa de uma vez.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069995864765120512/img/Da81kGoY505pVtB8.jpg" width="600" alt="Salto cinematográfico de motocicleta em túnel">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6486)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2070243131253989767) | **Published:** Jun 25, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2259,6 +2261,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-12T06:54:07.393Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-12T10:15:13.750Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2069** |
+| 📝 Total Prompts | **2084** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-12** |
 
@@ -189,6 +189,258 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Nhà ở thuộc địa không gian
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt khoa học viễn tưởng mô tả thực tế công nghiệp chật chội của các thuộc địa không gian thời kỳ đầu với những khu vườn thủy canh.
+
+#### 📝 Prompt
+
+```
+Đó là những lớp đệm áp suất, những khu vườn thủy canh, những khu nhà bê tông chật chội, ánh sáng nhân tạo, không khí tái chế và những con người đang cố gắng chuẩn bị bữa tối ở nơi tận cùng của hư vô.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076086195482714112/img/Iw0wb0gAEItuwkJV.jpg" width="600" alt="Nhà ở thuộc địa không gian">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7128)**
+
+**Author:** [Sherice](https://x.com/Sherice0799) | **Source:** [Link](https://x.com/Sherice0799/status/2076086295336489166) | **Published:** Jul 11, 2026
+
+---
+### Cô gái tóc vàng đi dạo trên bãi biển chuẩn bị lặn biển
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) theo chủ đề bãi biển mô tả một người phụ nữ đang đi dạo và chuẩn bị cho chuyến phiêu lưu lặn biển dưới đại dương.
+
+#### 📝 Prompt
+
+```
+Một cô gái tóc vàng xinh đẹp đang đeo thiết bị, chuẩn bị nhảy xuống nước, ngậm ống thở để bơi cùng các sinh vật biển và những chú cá Nemo, cô ấy mang bình dưỡng khí và bước xuống đại dương
+
+Một cô gái tóc vàng xinh đẹp đang đi dạo trên bãi biển, chuẩn bị cho chuyến lặn biển
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076057170081415168/img/NKhvJlct2cdM6zzK.jpg" width="600" alt="Cô gái tóc vàng đi dạo trên bãi biển chuẩn bị lặn biển">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7121)**
+
+**Author:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **Source:** [Link](https://x.com/AnnetteHollerWe/status/2076057254605009386) | **Published:** Jul 11, 2026
+
+---
+### Nữ chiến binh Viking bước ra từ bìa rừng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt về nữ chiến binh Viking với mái tóc trắng tết bím đang bước ra từ khu rừng để sẵn sàng chiến đấu.
+
+#### 📝 Prompt
+
+```
+Một nữ chiến binh Viking với mái tóc trắng tết bím đang bước ra từ khu rừng để sẵn sàng chiến đấu
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076056920826216448/img/w1fIASmvMPd0ZUy9.jpg" width="600" alt="Nữ chiến binh Viking bước ra từ bìa rừng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7124)**
+
+**Author:** [Rebecca Clark](https://x.com/clark_rebe76017) | **Source:** [Link](https://x.com/clark_rebe76017/status/2076056974483915213) | **Published:** Jul 11, 2026
+
+---
+### Diễu binh quân sự phong cách Gothic điện ảnh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video điện ảnh hoành tráng về buổi diễu binh quân sự với kiến trúc Gothic, các ban nhạc diễu hành và bầu trời giông bão.
+
+#### 📝 Prompt
+
+```
+một buổi diễu binh quân sự điện ảnh quy mô lớn, với kiến trúc Gothic, các ban nhạc diễu hành, xe tăng, đám đông, máy bay và bầu trời giông bão
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076055202583511042/img/a_HcgX78ZEZVwe7T.jpg" width="600" alt="Diễu binh quân sự phong cách Gothic điện ảnh">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7129)**
+
+**Author:** [Tianjin 💫](https://x.com/TianjinXiin) | **Source:** [Link](https://x.com/TianjinXiin/status/2076055651646624251) | **Published:** Jul 11, 2026
+
+---
+### Mandala Hoa Lan Treo Arborpunk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video nghệ thuật phức tạp kết hợp giữa kỹ nghệ thủ công Bali với những đường nét hữu cơ lấy cảm hứng từ Mucha trong một bố cục mandala hình tròn.
+
+#### 📝 Prompt
+
+```
+Đài quan sát Hoa Lan Treo Arborpunk nghệ thuật được tái hiện dưới dạng một bố cục mandala hình tròn hoành tráng, với tâm điểm là một đóa hoa sen thiêng tỏa sáng. Tác phẩm được thổi hồn bởi kỹ nghệ thủ công nhiệt đới Bali và những đường nét hữu cơ uyển chuyển lấy cảm hứng từ Alphonse Mucha.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076033338314518528/img/8uNA4q9A5ERPiyjD.jpg" width="600" alt="Mandala Hoa Lan Treo Arborpunk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7115)**
+
+**Author:** [Carina](https://x.com/Freehere8) | **Source:** [Link](https://x.com/Freehere8/status/2076033394631422235) | **Published:** Jul 11, 2026
+
+---
+### Trải nghiệm chơi game FPS Call of Duty
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) cực kỳ chi tiết để tạo các video gameplay bắn súng góc nhìn thứ nhất chân thực theo phong cách Modern Warfare, với các pha di chuyển chiến thuật qua một con phố đô thị đầy sương mù vào ban đêm.
+
+#### 📝 Prompt
+
+```
+Góc nhìn thứ nhất siêu chân thực theo phong cách Call of Duty Modern Warfare, người chơi cầm súng trường M4A1 với kính ngắm chấm đỏ, nhắm vào một con phố đô thị tối tăm vào ban đêm, trang bị quân sự thực tế, ánh sáng ấn tượng, sương mù thể tích, kết cấu chi tiết cao, thước phim gameplay đậm chất điện ảnh --ar 16:9 --stylize 50 Trải nghiệm chơi game bắn súng góc nhìn thứ nhất chân thực theo phong cách Call of Duty Modern Warfare: Người chơi cầm súng trường M4A1 với kính ngắm chấm đỏ, từ từ di chuyển về phía trước qua con phố tối tăm đầy sương mù trong khi đang nhắm mục tiêu. Độ rung của vũ khí, nhịp thở và tiếng bước chân chân thực tinh tế. Camera tiến về phía trước chậm rãi với chuyển động đầu tự nhiên, quét môi trường xung quanh, sương mù thể tích, ánh đèn đỏ và đèn đường ở phía xa, chuyển động và bầu không khí chân thực với độ chi tiết cao --ar 16:9 --motion 4
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076020512023605248/img/TEjjbB8IXpHrtrXq.jpg" width="600" alt="Trải nghiệm chơi game FPS Call of Duty">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7118)**
+
+**Author:** [ⁱᵃᵐ|᠘𝘶𝗸ค𐍃🇩🇪💙](https://x.com/LukasK92) | **Source:** [Link](https://x.com/LukasK92/status/2076020574438990207) | **Published:** Jul 11, 2026
+
+---
+### Vuốt ve bụng chó French Bulldog
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một lời nhắc đầy thú vị cho video về một cô chó French Bulldog tên là Luna đang phản ứng đầy vui vẻ khi được vuốt ve bụng, bao gồm các lời thoại cụ thể và những hành động âu yếm.
+
+#### 📝 Prompt
+
+```
+Cô chó Luna thuộc giống ‘French bulldog’ đang được chị gái vuốt ve bụng. Luna nói: “Vuốt ve bụng từ chị gái đúng là thiên đường trên mặt đất, em yêu chị”. Luna quẫy đuôi và liếm liên tục vào tay chị gái.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075963834242613248/img/dI7eS9l4Pmi2M7Yu.jpg" width="600" alt="Vuốt ve bụng chó French Bulldog">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7119)**
+
+**Author:** [Brenda (Peanci) Helton](https://x.com/BrendaDHel6581) | **Source:** [Link](https://x.com/BrendaDHel6581/status/2075963908611785148) | **Published:** Jul 11, 2026
+
+---
+### Tranh phong cách Rococo vẽ các thiếu niên
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video cách điệu giúp tạo ra tác phẩm mang tính thẩm mỹ của hội họa Rococo, với hình ảnh hai anh em thiếu niên bên hồ nước trong rừng.
+
+#### 📝 Prompt
+
+```
+Một bức tranh phong cách Rococo vẽ hai thiếu niên đang đứng bên hồ sau khi bơi trong rừng, hai anh em đang ôm nhau đầy tình cảm.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075933202628382720/img/XaDF72k4IAzF39Y-.jpg" width="600" alt="Tranh phong cách Rococo vẽ các thiếu niên">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7123)**
+
+**Author:** [Bobby](https://x.com/AiNerdGuy) | **Source:** [Link](https://x.com/AiNerdGuy/status/2075933252972622105) | **Published:** Jul 11, 2026
+
+---
+### Bài học về lòng tốt của chú gấu trúc
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý video kể chuyện minh họa bài học đạo đức về lòng tốt thông qua câu chuyện một chú gấu trúc chia sẻ tre.
+
+#### 📝 Prompt
+
+```
+Bài học: Lòng tốt luôn được đền đáp.
+Một chú gấu trúc đã chia sẻ mầm tre cuối cùng của mình với một người bạn đang đói.
+Nhiều ngày sau, các loài động vật đã giúp đỡ chú sau khi một cơn bão phá hủy ngôi nhà của chú.
+Lòng tốt sẽ lan tỏa khi chúng ta biết sẻ chia.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075864661749063680/img/ySbTF3zaFgWUMXxJ.jpg" width="600" alt="Bài học về lòng tốt của chú gấu trúc">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7125)**
+
+**Author:** [Joyce Song](https://x.com/JoyceSongccrp) | **Source:** [Link](https://x.com/JoyceSongccrp/status/2075864735807914123) | **Published:** Jul 11, 2026
+
+---
+### Cảnh quay điện ảnh: Người lính La Mã chạy trốn trên núi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) điện ảnh đầy kịch tính về một người lính La Mã đang bị một con báo sư tử truy đuổi qua lớp tuyết dày trên dãy núi hùng vĩ.
+
+#### 📝 Prompt
+
+```
+Phân cảnh hành động điện ảnh dài 5 giây về một người lính La Mã trong bộ giáp chi tiết đang chạy nước rút đầy tuyệt vọng qua lớp tuyết dày trên dãy núi phủ tuyết trắng hùng vĩ. Một con báo sư tử lớn, dũng mãnh đang hung hăng truy đuổi anh ta. Chuyển động linh hoạt, tuyết bắn tung tóe dưới chân, người lính ngoái nhìn lại với vẻ hoảng sợ, con báo sư tử há miệng gầm thét, bố cục góc thấp đầy kịch tính, ánh sáng hoành tráng, chi tiết bộ lông và giáp trụ sắc nét, không khí căng thẳng, chân thực như ảnh chụp với tính nghệ thuật mạnh mẽ.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075819801612861440/img/mc33JqSewAl_OSLy.jpg" width="600" alt="Cảnh quay điện ảnh: Người lính La Mã chạy trốn trên núi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7122)**
+
+**Author:** [Raadhika 💫✨️](https://x.com/Raadhika73) | **Source:** [Link](https://x.com/Raadhika73/status/2075819856562208814) | **Published:** Jul 11, 2026
+
+---
+### Hoạt hình trận chiến rap siêu thực
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một lời nhắc (prompt) đầy hỗn loạn và siêu thực về các nhân vật, bao gồm việc gieo vần, cầu thang và các nhân vật có màu sắc cụ thể trong một đoạn hoạt hình tràn đầy năng lượng.
+
+#### 📝 Prompt
+
+```
+Họ gieo vần một bài rap. Baby Bop màu trắng ngã xuống 6767 bậc cầu thang và đổ lỗi cho Barney màu xanh, con khủng long tè dầm với cái mũi hình xúc xích. Nó có màu xanh dương (). Mọi thứ trở nên điên rồ gấp 10 lần khi lên xuống cầu thang.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075793194751586304/img/anHyVxN8rHqpv3Ke.jpg" width="600" alt="Hoạt hình trận chiến rap siêu thực">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7120)**
+
+**Author:** [⬅️](https://x.com/CursedMoonRice) | **Source:** [Link](https://x.com/CursedMoonRice/status/2075793261940060544) | **Published:** Jul 11, 2026
+
+---
+### Chuyến đi xe đạp phong cách Cyberpunk Neon City
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt giàu cảm xúc cho cảnh quay xe mô tô phong cách cyberpunk với ánh đèn neon và các hiệu ứng chuyển cảnh mượt mà.
+
+#### 📝 Prompt
+
+```
+mũ bảo hiểm đen nhám, đèn neon, thành phố cyberpunk, chuyển cảnh mượt mà, góc nghiêng tinh tế, lái chiếc xe này về nhà.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075768629207941120/img/JvLUDdoI0YRz4xR-.jpg" width="600" alt="Chuyến đi xe đạp phong cách Cyberpunk Neon City">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7116)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2075768940848931198) | **Published:** Jul 11, 2026
+
+---
+### Mây thể tích 4K chuẩn điện ảnh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh kỹ thuật tập trung vào chất lượng điện ảnh, hiệu ứng thể tích và màu sắc đổ bóng/mây cường độ cao để tạo ra video chân thực.
+
+#### 📝 Prompt
+
+```
+Chất lượng điện ảnh 4K chân thực / Kết hợp mượt mà giữa tính hiện thực / Nội suy và nâng cấp hình ảnh / Hiệu ứng thể tích / Đổ bóng mềm mại, cường độ cao hơn / Màu sắc đám mây sống động
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075756908561014784/img/0eJ59GY8fQ4jzLta.jpg" width="600" alt="Mây thể tích 4K chuẩn điện ảnh">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7117)**
+
+**Author:** [Arak Dark](https://x.com/orgunus93304) | **Source:** [Link](https://x.com/orgunus93304/status/2075756972553486681) | **Published:** Jul 11, 2026
+
+---
 ### Video về Cung điện Băng giá của Bà chúa Tuyết
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -263,6 +515,25 @@ Vận động viên quần vợt hoàn tất cú vung vợt thuận tay khi qu�
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7010)**
 
 **Author:** [Robert Heinlein](https://x.com/strangerinastr) | **Source:** [Link](https://x.com/strangerinastr/status/2075286711521956062) | **Published:** Jul 9, 2026
+
+---
+### Ảnh selfie qua gương chân thực của Sailor Moon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) video chi tiết cho bức ảnh selfie qua gương chân thực của một người phụ nữ trong trang phục Sailor Moon chuẩn xác, với ánh sáng tự nhiên và kết cấu da chân thực.
+
+#### 📝 Prompt
+
+```
+Ảnh selfie qua gương cực kỳ chân thực của một người phụ nữ với làn da trắng sứ và những nốt tàn nhang tự nhiên tinh tế trên khuôn mặt, vai và ngực. Cô ấy mặc trang phục Sailor Moon chi tiết và chuẩn xác: áo liền quần trắng với cổ áo thủy thủ màu xanh và chiếc nơ đỏ lớn trước ngực, váy xếp ly ngắn màu xanh với viền trắng đỏ, vương miện trăng lưỡi liềm vàng, găng tay trắng dài với điểm nhấn màu đỏ, ủng đỏ, vòng cổ choker đỏ với mặt dây chuyền trái tim vàng và trâm cài áo vàng. Mái tóc vàng cổ điển búi kiểu odango với hai bím tóc dài buông xõa. Cô ấy đang chụp ảnh selfie qua gương trong một phòng tắm hiện đại, một tay cầm điện thoại thông minh màu đen, nhìn thẳng vào ống kính với biểu cảm tự tin và hơi tinh nghịch. Ánh sáng cửa sổ tự nhiên dịu nhẹ, kết cấu da chân thực, tàn nhang rõ nét, lấy nét sắc sảo, ảnh chân thực như đời thực.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075205335040634880/img/UdrgqedZjz4y9CUP.jpg" width="600" alt="Ảnh selfie qua gương chân thực của Sailor Moon">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7126)**
+
+**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2075205397112123637) | **Published:** Jul 9, 2026
 
 ---
 ### Thế giới giả tưởng kỳ ảo đầy choáng ngợp
@@ -588,6 +859,25 @@ Nàng giơ tay lên và biển cả tuân lệnh. Một vương quốc san hô n
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7064)**
 
 **Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2074146361805819955) | **Published:** Jul 6, 2026
+
+---
+### Khung cảnh đêm thanh bình với người mặc Kimono Nhật Bản
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt yên bình mô tả người phụ nữ mặc Kimono bên bờ nước dưới ánh đèn lồng ấm áp cùng những chiếc lá mùa thu đang rơi.
+
+#### 📝 Prompt
+
+```
+Ánh đèn lồng tỏa sáng ấm áp trên mặt nước, những chiếc lá mùa thu rơi nhẹ nhàng, và cô ấy ngồi đó trong bộ Kimono tuyệt đẹp cùng đàn cá bầu bạn trong đêm xanh tĩnh lặng.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074123319205601280/img/VGutJ5IAumyEj7IT.jpg" width="600" alt="Khung cảnh đêm thanh bình với người mặc Kimono Nhật Bản">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7127)**
+
+**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2074123700790522084) | **Published:** Jul 6, 2026
 
 ---
 ### Video về hiện tượng ảo ảnh trên không tại vùng biển Bắc Cực
@@ -1910,294 +2200,6 @@ Cảnh quay cận cảnh siêu thực về một người phụ nữ xinh đẹp
 **Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2070902475238818282) | **Published:** Jun 27, 2026
 
 ---
-### Video gác mái ấm cúng lấy cảm hứng từ Ghibli
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video đậm chất điện ảnh về căn phòng gác mái ấm áp, huyền ảo, chứa đầy những món đồ cổ và đèn đom đóm dưới bầu trời đêm đầy dải ngân hà, lấy cảm hứng từ Studio Ghibli.
-
-#### 📝 Prompt
-
-```
-Một căn phòng gác mái ấm cúng chứa đầy những món đồ cổ, bản đồ cũ, cây cảnh, đèn đom đóm và cửa sổ trần lộ ra bầu trời đêm đầy dải ngân hà ngoạn mục, không gian ấm áp và huyền ảo, lấy cảm hứng từ Studio Ghibli, minh họa anime chi tiết cao.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070855968339230720/img/gdIXM9etUa8gWSBz.jpg" width="600" alt="Video gác mái ấm cúng lấy cảm hứng từ Ghibli">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6559)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2070856044876902482) | **Published:** Jun 27, 2026
-
----
-### Người phụ nữ mặc áo choàng đỏ với quả táo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video điện ảnh về một người phụ nữ bí ẩn mặc áo choàng đỏ đang cầm một quả táo dưới gốc cây cổ thụ.
-
-#### 📝 Prompt
-
-```
-Cảnh quay cận cảnh siêu thực về một người phụ nữ trẻ bí ẩn mặc áo choàng có mũ màu đỏ thẫm, đang cầm một quả táo đỏ tươi dưới gốc cây táo cổ thụ.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070822235099504640/img/2GsgtT4YdnmnI_uS.jpg" width="600" alt="Người phụ nữ mặc áo choàng đỏ với quả táo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6561)**
-
-**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2070842077399675391) | **Published:** Jun 27, 2026
-
----
-### Hướng dẫn tham quan nhà búp bê thu nhỏ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý video sáng tạo cho chuyến tham quan vui nhộn trong mô hình nhà thu nhỏ, với sự xuất hiện của một nhân vật dẫn chương trình và các thiết kế phòng ốc chi tiết.
-
-#### 📝 Prompt
-
-```
-Mira dẫn dắt camera trong chuyến tham quan vui nhộn bên trong mô hình nhà thu nhỏ Attack of the 50 Foot Housewife. Cô bước qua mặt tiền ngôi nhà búp bê đang mở, chỉ vào phòng khách, nhà bếp và cầu thang tí hon với nụ cười đầy hào hứng của một người dẫn chương trình.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070828566149799936/img/E-PWyVCNm3dHrglN.jpg" width="600" alt="Hướng dẫn tham quan nhà búp bê thu nhỏ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6557)**
-
-**Author:** [Brian](https://x.com/luvsheight) | **Source:** [Link](https://x.com/luvsheight/status/2070828620747063692) | **Published:** Jun 27, 2026
-
----
-### Chú ngựa chiến chạy trên cánh đồng rộng mở
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video chân thực ghi lại chuyển động mạnh mẽ của một chú ngựa chiến màu đen đang chạy qua cánh đồng xanh bát ngát.
-
-#### 📝 Prompt
-
-```
-Cảnh quay cận cảnh siêu chân thực về một chú ngựa chiến màu đen đang chạy trên cánh đồng xanh rộng mở.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070821975010758656/img/YB5H88tCBylmvaM9.jpg" width="600" alt="Chú ngựa chiến chạy trên cánh đồng rộng mở">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6558)**
-
-**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2070826977561612604) | **Published:** Jun 27, 2026
-
----
-### Hành trình vươn lên giữa rừng cây phong đường hùng vĩ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video đậm chất điện ảnh, mô tả cảnh quay xoắn ốc đầy kịch tính vươn lên trên một cây phong đường cổ thụ hùng vĩ trong khu rừng ở Tennessee vào giờ vàng.
-
-#### 📝 Prompt
-
-```
-Cảnh quay góc thấp đậm chất điện ảnh về một cây phong đường cổ thụ hùng vĩ trong khu rừng ở Tennessee vào giờ vàng, máy quay bắt đầu từ phần gốc sần sùi khổng lồ và xoắn ốc vươn lên theo đường thẳng dọc thân cây cao, làm nổi bật kết cấu vỏ cây tinh xảo, những cành cây vươn rộng với tán lá mùa thu rực rỡ tỏa sáng dưới ánh mặt trời, quy mô hoành tráng và tráng lệ, siêu chi tiết, chân thực như ảnh chụp, chuyển động bao quát, phong cách National Geographic.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070578616514064385/img/s6v7rbP2_YJpcJTs.jpg" width="600" alt="Hành trình vươn lên giữa rừng cây phong đường hùng vĩ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6528)**
-
-**Author:** [Ray Salmon](https://x.com/salmon1820) | **Source:** [Link](https://x.com/salmon1820/status/2070579069708570890) | **Published:** Jun 26, 2026
-
----
-### Hành trình không gian với đôi giày tên lửa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh mô tả nhân vật sử dụng đôi giày tên lửa để du hành vào không gian, tập trung vào chủ đề khám phá và quyết tâm không nhìn lại phía sau.
-
-#### 📝 Prompt
-
-```
-Đôi giày tên lửa cuối cùng đã đưa cô ấy bay thẳng vào không gian… và cô ấy sẽ không bao giờ nhìn lại phía sau
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070541395014942720/img/sJBFM8Zd0FLzyf6I.jpg" width="600" alt="Hành trình không gian với đôi giày tên lửa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6693)**
-
-**Author:** [Sadie Supa Doge](https://x.com/SadieSupaDoge) | **Source:** [Link](https://x.com/SadieSupaDoge/status/2070541545548427407) | **Published:** Jun 26, 2026
-
----
-### Cảnh buổi sáng sương mù hú vang
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý video đầy không khí với hình ảnh một người đàn ông đứng trong làn sương, phản ứng với cơn mưa và hú vang đón những tia nắng đầu tiên của bình minh.
-
-#### 📝 Prompt
-
-```
-anh ấy đứng yên, chỉ cử động đầu nhìn sang hai bên, trời đầy sương mù và hơi nước, anh ấy cảm nhận cơn mưa, anh ấy trân trọng ánh mặt trời 🌞 anh ấy hú vang đón những tia sáng đầu tiên của buổi sớm
-```
-
-<img src="https://cms-assets.youmind.com/media/1782548991899_tk0r5w_HLv4wQiXoAAXyB1.jpg" width="600" alt="Cảnh buổi sáng sương mù hú vang">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6527)**
-
-**Author:** [Brooke](https://x.com/Brooke85276868) | **Source:** [Link](https://x.com/Brooke85276868/status/2070522599294013689) | **Published:** Jun 26, 2026
-
----
-### Buổi biểu diễn nhạc rock trên bờ biển dưới ánh trăng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý video điện ảnh mô tả nghệ sĩ guitar rock và vũ công ballet biểu diễn trên bờ biển dưới ánh trăng với gió và chuyển động đầy sống động.
-
-#### 📝 Prompt
-
-```
-Sân khấu bờ biển dưới ánh trăng đậm chất điện ảnh: nghệ sĩ guitar rock chân thực trong trang phục da đen, cây đàn guitar điện sống động—bàn tay gảy đàn mạnh mẽ, phím đàn linh hoạt, tóc và áo khoác bay trong gió; khung hình cân đối với một vũ công ballet trong trang phục trắng bạc đang đứng trên mũi giày, cổ điển
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070516606371864576/img/N6tBA0_0E2jxku8N.jpg" width="600" alt="Buổi biểu diễn nhạc rock trên bờ biển dưới ánh trăng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6522)**
-
-**Author:** [@TheCFormula credo.](https://x.com/TheCFormula) | **Source:** [Link](https://x.com/TheCFormula/status/2070516674906730730) | **Published:** Jun 26, 2026
-
----
-### Nhà ga Nhật Bản phong cách Studio Ghibli
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt phong cách anime đầy hoài niệm về nhà ga nông thôn Nhật Bản vào ban đêm với những bông hoa dại đung đưa và ánh sáng đậm chất điện ảnh.
-
-#### 📝 Prompt
-
-```
-Một nhà ga nông thôn Nhật Bản đầy hoài niệm vào ban đêm, sân ga bằng gỗ cổ điển, đèn nhà ga tỏa sáng, hoa dại đung đưa trong gió, bầu trời đầy sao phía trên, bầu không khí ấm áp và yên bình, tác phẩm nghệ thuật anime lấy cảm hứng từ Studio Ghibli, cực kỳ chi tiết và đậm chất điện ảnh.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070496506583588864/img/ErbxoFiu1HZIslQC.jpg" width="600" alt="Nhà ga Nhật Bản phong cách Studio Ghibli">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6523)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2070496541476106291) | **Published:** Jun 26, 2026
-
----
-### Hoạt ảnh vật thể bay lên xuyên qua những đám mây
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh chuyển động được thiết kế để tạo hiệu ứng vật thể bay lên xuyên qua những đám mây với chất lượng điện ảnh độ phân giải cao.
-
-#### 📝 Prompt
-
-```
-Tạo hoạt ảnh vật thể bay lên xuyên qua những đám mây, kiệt tác, chất lượng siêu nét 1111111111111111111111111111111111 k
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070478707072905216/img/orE4qofUH1ZrmX8n.jpg" width="600" alt="Hoạt ảnh vật thể bay lên xuyên qua những đám mây">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6524)**
-
-**Author:** [MIUZAH DEIOPAH OF THE PLEIADES](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2070478762215358568) | **Published:** Jun 26, 2026
-
----
-### Hoạt ảnh tàu vũ trụ của Liên đoàn Thiên hà Pleiadians
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh khoa học viễn tưởng mô tả người Pleiadians mặc bộ đồ liền thân đang vận hành các trạm máy tính bên trong tàu vũ trụ với hiệu ứng ánh sáng thể tích.
-
-#### 📝 Prompt
-
-```
-Người Pleiadians trong bộ đồ liền thân màu xanh của Liên đoàn Thiên hà đang ngồi tại các trạm máy tính trên tàu vũ trụ, kiệt tác, chất lượng siêu HD 11111111111111111111111111111111111111 k Ánh sáng thể tích rực rỡ k
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070425640235421696/img/S65YifuMA9sk6iP2.jpg" width="600" alt="Hoạt ảnh tàu vũ trụ của Liên đoàn Thiên hà Pleiadians">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6525)**
-
-**Author:** [MIUZAH DEIOPAH OF THE PLEIADES](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2070425694207725650) | **Published:** Jun 26, 2026
-
----
-### Hoạt hình 2D món bánh Naan
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý hoạt hình 2D đầy cuốn hút về các nhân vật đồ ăn, với hình ảnh chiếc bánh naan vui nhộn cùng điểm nhấn là quả bơ và cà chua.
-
-#### 📝 Prompt
-
-```
-Hoạt hình 2D món ăn: chiếc bánh naan vui vẻ cùng quả bơ và cà chua nảy nhẹ nhàng, những làn hơi nóng bốc lên thành vòng tròn dễ thương, lá húng tây đung đưa. Nhịp điệu hoạt hình trẻ em sinh động, màu sắc ấm áp, hiệu ứng zoom nhẹ.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070377021864075264/img/R6Wn080jiwtdSq-z.jpg" width="600" alt="Hoạt hình 2D món bánh Naan">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6526)**
-
-**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2070377101966913755) | **Published:** Jun 26, 2026
-
----
-### Hoạt hình Pizza Naan phong cách hoạt họa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý tạo hoạt hình 2D vui nhộn với hình ảnh chiếc pizza naan đang nhấp nhô cùng các nguyên liệu lấp lánh.
-
-#### 📝 Prompt
-
-```
-Hoạt hình phong cách hoạt họa vui nhộn: chiếc pizza naan nhấp nhô nhẹ nhàng và làn hơi bốc lên theo những vòng xoáy sinh động, những lát cà chua lấp lánh, lá húng tây lay động. Phong cách hoạt họa 2D tươi sáng với hiệu ứng camera tiến gần nhẹ nhàng, đầy thú vị và ngon mắt.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070376328482709504/img/6SqB4RTZlaLEgEJP.jpg" width="600" alt="Hoạt hình Pizza Naan phong cách hoạt họa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6529)**
-
-**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2070376397508366690) | **Published:** Jun 26, 2026
-
----
-### Nàng tiên cá và mèo tiên cá trong thế giới giả tưởng dưới đại dương
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một đoạn video yên bình về nàng tiên cá và mèo tiên cá cùng bơi lội dưới đại dương xanh thẳm, đồng hành cùng một chú cá voi khổng lồ.
-
-#### 📝 Prompt
-
-```
-🌊🐋 Dưới làn nước xanh vô tận, một nàng tiên cá và chú mèo tiên cá cùng bơi cạnh nhau dưới sự dõi theo của một chú cá voi khổng lồ hiền lành.
-
-Một thế giới nơi tình bạn không có giới hạn…
-Chỉ còn tiếng sóng đại dương và phép màu của trí tưởng tượng. ✨
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070262422682898432/img/IQ76u5RSXEZJqet9.jpg" width="600" alt="Nàng tiên cá và mèo tiên cá trong thế giới giả tưởng dưới đại dương">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6478)**
-
-**Author:** [猫神MT](https://x.com/nekogami_MT) | **Source:** [Link](https://x.com/nekogami_MT/status/2070262480039997474) | **Published:** Jun 25, 2026
-
----
-### Cú nhảy mô tô điện ảnh trong đường hầm
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) tạo video điện ảnh đầy kịch tính với hình ảnh người lái mô tô phóng qua đoạn bê tông vỡ trong đường hầm tối tăm cùng những tia lửa bắn ra.
-
-#### 📝 Prompt
-
-```
-Đường hầm không dành cho sự do dự. Anh lao mình khỏi đoạn bê tông vỡ như thể các định luật vật lý chỉ là lời gợi ý. Những tia lửa bắn tung tóe. Động cơ gầm rú. Và trong một giây hoàn hảo, anh bay xuyên qua bóng tối, chỉ còn ý chí và đà lao giữ anh lơ lửng giữa không trung. Một số người chọn cách chạy trốn khỏi bóng tối. Còn anh, anh lao thẳng xuyên qua chúng.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069995864765120512/img/Da81kGoY505pVtB8.jpg" width="600" alt="Cú nhảy mô tô điện ảnh trong đường hầm">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6486)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2070243131253989767) | **Published:** Jun 25, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2259,6 +2261,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-12T06:53:54.911Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-12T10:15:03.592Z</sub>
 
 </div>
