@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2084** |
+| 📝 Total Prompts | **2093** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-13** |
 
@@ -189,6 +189,178 @@ Uma Valquíria celestial mística e nobre, uma mulher digna e bela com longos ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Biblioteca dos Sonhos Esquecidos
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Uma cena de biblioteca etérea e mágica onde sonhos esquecidos são preservados dentro de livros de cristal brilhantes.
+
+#### 📝 Prompt
+
+```
+Uma biblioteca infinita armazena todos os sonhos que a humanidade esqueceu. Eles brilham suavemente dentro de livros de cristal, esperando para inspirar alguém novamente.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073669518388334592/img/OxWSXP4uE0UQvKus.jpg" width="600" alt="Biblioteca dos Sonhos Esquecidos">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7171)**
+
+**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2076454307344379943) | **Published:** Jul 12, 2026
+
+---
+### Cena de combate live-action do Inosuke
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt cinematográfico projetado para criar uma versão live-action do Inosuke de Demon Slayer realizando movimentos de combate dinâmicos em um cenário de floresta.
+
+#### 📝 Prompt
+
+```
+Correndo em velocidade máxima pela floresta, saltando em um giro mortal e desferindo um golpe finalizador feroz com lâminas duplas. Uma recriação cinematográfica em live-action por IA inspirada em um lendário guerreiro fera.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076437314323218432/img/aZJsw2d6HSAdorLc.jpg" width="600" alt="Cena de combate live-action do Inosuke">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7164)**
+
+**Author:** [猫神MT](https://x.com/nekogami_MT) | **Source:** [Link](https://x.com/nekogami_MT/status/2076437370086527139) | **Published:** Jul 12, 2026
+
+---
+### Moshpit em show numa nave espacial
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Uma cena de ficção científica criativa envolvendo um alienígena e uma mulher loira num show barulhento dentro de uma nave espacial com fogos de artifício.
+
+#### 📝 Prompt
+
+```
+Um alienígena alto e azul e uma bela mulher com longos cabelos loiros ondulados em tranças, usando brincos de diamante, um colar de diamante e um macacão preto, estão na roda de mosh num show barulhento com fogos de artifício no convés principal da nave espacial
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076434901243486208/img/fx8rIBSkXwZuHgwX.jpg" width="600" alt="Moshpit em show numa nave espacial">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7170)**
+
+**Author:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **Source:** [Link](https://x.com/blarneytrades/status/2076435045926031796) | **Published:** Jul 12, 2026
+
+---
+### Perspectiva de Piña Colada à beira da piscina
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo em primeira pessoa (POV) de uma pessoa segurando uma bebida à beira da piscina com um efeito de filtro de óculos de sol.
+
+#### 📝 Prompt
+
+```
+Visão da câmera à beira da piscina, perspectiva de uma pessoa segurando uma piña colada, filtro de óculos de sol tingindo a cena
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076322997862817793/img/9JwN9k9LSY3U0H1x.jpg" width="600" alt="Perspectiva de Piña Colada à beira da piscina">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7169)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2076323062832660878) | **Published:** Jul 12, 2026
+
+---
+### Movimento de Retrato Cinematográfico Suave
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo altamente detalhado para um retrato cinematográfico com movimentos sutis, como o balanço do cabelo, piscadas naturais e um sorriso caloroso.
+
+#### 📝 Prompt
+
+```
+Movimento de retrato cinematográfico suave: seu longo cabelo loiro balança suavemente como se estivesse em uma brisa leve, ela pisca naturalmente e oferece um leve sorriso caloroso, olhos castanho-âmbar capturando a luz difusa. Respiração sutil, profundidade de campo rasa, elegante e calma...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076272285762416640/img/BjJT775QrAAyJIXe.jpg" width="600" alt="Movimento de Retrato Cinematográfico Suave">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7163)**
+
+**Author:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **Source:** [Link](https://x.com/AnnetteHollerWe/status/2076272344570667216) | **Published:** Jul 12, 2026
+
+---
+### Imagens de documentário marinho sobre golfinhos
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo no estilo documentário marinho apresentando um golfinho nadando em direção à costa sob a luz dourada do sol.
+
+#### 📝 Prompt
+
+```
+Golfinho nada de forma constante em direção à costa arenosa distante, rastro suave na superfície, luz solar dourada, oceano calmo, imagens de documentário marinho. Bom dia e brilhe. 🐬🦞
+```
+
+<img src="https://cms-assets.youmind.com/media/1783931843539_afa46i_HNBjT3ia0AAGDLy.jpg" width="600" alt="Imagens de documentário marinho sobre golfinhos">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7165)**
+
+**Author:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **Source:** [Link](https://x.com/AnnetteHollerWe/status/2076268696474104007) | **Published:** Jul 12, 2026
+
+---
+### Atmosfera de Bairro Residencial Coreano
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Este prompt cria um passo a passo cinematográfico consistente de um bairro coreano tranquilo, com foco em becos estreitos, casas de baixa altura e terraços.
+
+#### 📝 Prompt
+
+```
+Mantenha a identidade, vestimenta, penteado e aparência consistentes durante todo o vídeo. Localização: Bairro residencial coreano autêntico durante o final de uma manhã calma. Becos estreitos de concreto, casas de baixa altura, pequenos terraços, vasos de plantas, roupas no varal
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076204329359331328/img/u0JkrxwIap0pblAd.jpg" width="600" alt="Atmosfera de Bairro Residencial Coreano">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7166)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2076204407729824032) | **Published:** Jul 12, 2026
+
+---
+### Paisagem Noturna com Pétalas de Rosa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo para uma cena noturna sob o luar, apresentando pinheiros, vaga-lumes e pétalas de rosa caindo.
+
+#### 📝 Prompt
+
+```
+Lua cheia, nuvens, pinheiros, vaga-lumes, área gramada
+Adicione pétalas de rosa cor-de-rosa e vermelhas caindo do céu
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076181751546978304/img/Godn6f1Q8X0t4h1O.jpg" width="600" alt="Paisagem Noturna com Pétalas de Rosa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7167)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2076181829221286088) | **Published:** Jul 12, 2026
+
+---
+### Animação Realista de Gato
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de animação detalhado para um gato malhado fotorrealista, apresentando movimentos sutis como respiração e piscadas.
+
+#### 📝 Prompt
+
+```
+Animação sutil e realista: o gato malhado respira suavemente com uma leve elevação do peito, as orelhas tremem uma vez, os olhos verdes piscam lentamente, os bigodes vibram levemente, a ponta da cauda balança suavemente. Câmera fixa em ângulo baixo. Luz natural do dia, fotorrealista.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076144050173034496/img/q6lkJuEh0K8BtFI6.jpg" width="600" alt="Animação Realista de Gato">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7168)**
+
+**Author:** [Sangcjeol Lee](https://x.com/sangcjeol) | **Source:** [Link](https://x.com/sangcjeol/status/2076144105319706898) | **Published:** Jul 12, 2026
+
+---
 ### Habitação em Colônia Espacial
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2029,177 +2201,6 @@ Movimento de sandboard no deserto, o sofá desliza suavemente colina abaixo para
 **Author:** [Christian Kierulf](https://x.com/ChristianKieru1) | **Source:** [Link](https://x.com/ChristianKieru1/status/2071293887357018535) | **Published:** Jun 28, 2026
 
 ---
-### Gatinho brincando na neve
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt descritivo detalhado para um vídeo de um gatinho saltando entre flocos de neve com movimentos de câmera cinematográficos.
-
-#### 📝 Prompt
-
-```
-O gatinho fofo salta de forma brincalhona e tenta pegar os flocos de neve, batendo com as patas dianteiras na neve fresca, com a cauda balançando de empolgação. A neve cai suavemente, a câmera mantém um plano médio estável com um leve movimento de aproximação (slow push-in).
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071292994314264577/img/zp7RX3Yjf71_afrn.jpg" width="600" alt="Gatinho brincando na neve">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6591)**
-
-**Author:** [grok_imagine_free_user](https://x.com/FreeGrokUser) | **Source:** [Link](https://x.com/FreeGrokUser/status/2071293051084120502) | **Published:** Jun 28, 2026
-
----
-### Grupo Guiado por Robôs Tesla Optimus
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cinematográfico apresentando vários robôs Tesla Optimus juntos para guiar um grupo na direção certa.
-
-#### 📝 Prompt
-
-```
-O grupo é acompanhado por muitos outros robôs Tesla Optimus que se posicionam ao redor do grupo para ajudar a guiá-los na direção correta
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071218685004382208/img/vu_YCh7uxGKIGN4v.jpg" width="600" alt="Grupo Guiado por Robôs Tesla Optimus">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6592)**
-
-**Author:** [Joe Hogan](https://x.com/JoeHoganJr) | **Source:** [Link](https://x.com/JoeHoganJr/status/2071218760829071770) | **Published:** Jun 28, 2026
-
----
-### Robô utilitário limpando floresta
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo altamente detalhado de um robô limpando arbustos em uma floresta com um facão, surpreendendo um lince.
-
-#### 📝 Prompt
-
-```
-Um robô humanoide utilitário com revestimento verde-oliva desgastado limpa arbustos densos com um facão grande na orla de uma floresta iluminada pelo sol. No meio do movimento de corte através de arbustos emaranhados, folhas voando; na folhagem aberta, um lince tenso se agacha, com as orelhas para trás, olhos dourados...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071122100564508672/img/c4Cd2x9QeKqLRyJD.jpg" width="600" alt="Robô utilitário limpando floresta">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6586)**
-
-**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2071122156583571904) | **Published:** Jun 28, 2026
-
----
-### Vídeo de Apresentação no Centro de Aprendizagem Espacial
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo detalhado que retrata um grupo de crianças compartilhando artes e desenhos com o tema espacial em um centro de aprendizagem.
-
-#### 📝 Prompt
-
-```
-Na apresentação do centro de aprendizagem espacial, a criança no pequeno palco levanta suavemente um foguete de papel enquanto conversa com os amigos no tapete da galáxia; crianças próximas balançam seus desenhos de planetas e um móbile de estrela com glitter, com as mãos levantadas para se revezarem ao compartilhar o que fizeram.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071104793569816576/img/uN0w0sAmBWrP697z.jpg" width="600" alt="Vídeo de Apresentação no Centro de Aprendizagem Espacial">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6587)**
-
-**Author:** [Christina Mieloszyk](https://x.com/Stina_Lotus) | **Source:** [Link](https://x.com/Stina_Lotus/status/2071104897047527577) | **Published:** Jun 28, 2026
-
----
-### Vídeo de interação com Mecha Kaiju
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cinematográfico descrevendo um mecha kaiju lagarto inclinando o tronco e respirando em ruínas.
-
-#### 📝 Prompt
-
-```
-O mecha kaiju lagarto bípede inclina lentamente seu tronco pesado para frente e apresenta suavemente sua barriga blindada em direção à câmera, com um movimento sutil de respiração nas placas, convidando ao toque — ruínas ao entardecer, câmera com movimento suave de aproximação.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071102594282647552/img/bG9x_bzWimQ31Upc.jpg" width="600" alt="Vídeo de interação com Mecha Kaiju">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6588)**
-
-**Author:** [ガトル](https://x.com/sakana_no_sippo) | **Source:** [Link](https://x.com/sakana_no_sippo/status/2071102648502387106) | **Published:** Jun 28, 2026
-
----
-### Cinematografia de Voo do Condor-dos-Andes
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cinematográfico para gerar um close-up ultrarrealista de um condor-dos-andes em voo sobre a cordilheira.
-
-#### 📝 Prompt
-
-```
-Cena em close-up ultrarrealista de um condor-dos-andes voando sobre a Cordilheira dos Andes.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071082468061360128/img/cvL7JHWeU0Qp06jP.jpg" width="600" alt="Cinematografia de Voo do Condor-dos-Andes">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6564)**
-
-**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2071100026772971840) | **Published:** Jun 28, 2026
-
----
-### Apresentador de Notícias da Madrugada
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo detalhado para um plano-sequência cinematográfico de um apresentador de notícias em um estúdio, com instruções específicas de iluminação.
-
-#### 📝 Prompt
-
-```
-Plano-sequência contínuo. Um apresentador de notícias está sentado atrás de uma bancada polida em um estúdio de transmissão escuro durante a madrugada. Luz principal azul fria, luz de contorno âmbar suave vinda de monitores fora da câmera. Ele está no meio de um segmento, com papéis alinhados à sua frente. O apresentador de notícias...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071078793536487424/img/PXsbqWG82QPA_CcP.jpg" width="600" alt="Apresentador de Notícias da Madrugada">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6590)**
-
-**Author:** [michael Rozyla](https://x.com/ineverhad1) | **Source:** [Link](https://x.com/ineverhad1/status/2071078843331334538) | **Published:** Jun 28, 2026
-
----
-### Pôster de Manifesto CRT Retrô
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo que cria uma atmosfera retrô-futurista com um zoom cinematográfico em um pôster de manifesto, apresentando linhas de varredura e efeitos de brilho de fósforo.
-
-#### 📝 Prompt
-
-```
-Zoom cinematográfico lento no pôster do manifesto. As linhas de varredura CRT deslizam sutilmente, o brilho verde de fósforo nas bordas pulsa suavemente como um monitor antigo. A tipografia permanece nítida e legível. Atmosfera de panfleto de protesto noturno, movimento contido, sem novos textos, sem logotipos.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070952039459274752/img/eckA5IgOFuPQwTzY.jpg" width="600" alt="Pôster de Manifesto CRT Retrô">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6562)**
-
-**Author:** [David Herbert Thomas](https://x.com/Diabach1972) | **Source:** [Link](https://x.com/Diabach1972/status/2070952100410872189) | **Published:** Jun 27, 2026
-
----
-### Mulher caminhando por um campo de girassóis
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cinematográfico de uma mulher com um vestido de verão branco caminhando por um campo de girassóis durante uma brisa suave.
-
-#### 📝 Prompt
-
-```
-Cena em close-up ultrarrealista de uma bela mulher com um lindo vestido de verão branco caminhando por um campo de girassóis com uma brisa suave.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070883239917711360/img/06wbHnBCrTE_afO9.jpg" width="600" alt="Mulher caminhando por um campo de girassóis">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6560)**
-
-**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2070902475238818282) | **Published:** Jun 27, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2261,6 +2262,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-13T07:46:06.452Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-13T11:36:50.612Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2084** |
+| 📝 Total Prompts | **2093** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-13** |
 
@@ -189,6 +189,178 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Thư viện của những giấc mơ bị lãng quên
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một khung cảnh thư viện huyền ảo và kỳ diệu, nơi những giấc mơ bị lãng quên được lưu giữ bên trong những cuốn sách pha lê phát sáng.
+
+#### 📝 Prompt
+
+```
+Một thư viện vô tận lưu trữ mọi giấc mơ mà nhân loại đã lãng quên. Chúng tỏa sáng dịu nhẹ bên trong những cuốn sách pha lê, chờ đợi để truyền cảm hứng cho một ai đó một lần nữa.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073669518388334592/img/OxWSXP4uE0UQvKus.jpg" width="600" alt="Thư viện của những giấc mơ bị lãng quên">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7171)**
+
+**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2076454307344379943) | **Published:** Jul 12, 2026
+
+---
+### Cảnh chiến đấu của Inosuke phiên bản người đóng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh điện ảnh được thiết kế để tạo ra phiên bản người đóng của Inosuke từ Demon Slayer đang thực hiện các động tác chiến đấu năng động trong bối cảnh rừng rậm.
+
+#### 📝 Prompt
+
+```
+Lao đi với tốc độ tối đa xuyên qua khu rừng, thực hiện cú lộn vòng trên không và tung ra đòn kết liễu bằng song kiếm đầy uy lực. Một tác phẩm tái hiện bằng AI theo phong cách điện ảnh người đóng, lấy cảm hứng từ chiến binh thú huyền thoại.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076437314323218432/img/aZJsw2d6HSAdorLc.jpg" width="600" alt="Cảnh chiến đấu của Inosuke phiên bản người đóng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7164)**
+
+**Author:** [猫神MT](https://x.com/nekogami_MT) | **Source:** [Link](https://x.com/nekogami_MT/status/2076437370086527139) | **Published:** Jul 12, 2026
+
+---
+### Moshpit tại buổi hòa nhạc trên tàu vũ trụ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một khung cảnh khoa học viễn tưởng đầy trí tưởng tượng với sự xuất hiện của một người ngoài hành tinh và một phụ nữ tóc vàng tại buổi hòa nhạc ồn ào trên tàu vũ trụ cùng pháo hoa.
+
+#### 📝 Prompt
+
+```
+Người ngoài hành tinh cao lớn màu xanh và quý cô xinh đẹp với mái tóc vàng dài gợn sóng tết bím, đeo khuyên tai kim cương, vòng cổ kim cương và mặc bộ đồ liền thân màu đen đang ở trong khu vực mosh pit tại một buổi hòa nhạc ồn ào với pháo hoa trên boong chính của tàu vũ trụ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076434901243486208/img/fx8rIBSkXwZuHgwX.jpg" width="600" alt="Moshpit tại buổi hòa nhạc trên tàu vũ trụ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7170)**
+
+**Author:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **Source:** [Link](https://x.com/blarneytrades/status/2076435045926031796) | **Published:** Jul 12, 2026
+
+---
+### Góc nhìn bên hồ bơi với ly Pina Colada
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video POV về một người đang cầm đồ uống bên hồ bơi với hiệu ứng bộ lọc kính râm.
+
+#### 📝 Prompt
+
+```
+Góc máy từ bên hồ bơi, góc nhìn của một người đang cầm ly piña colada, hiệu ứng bộ lọc kính râm làm thay đổi tông màu của khung cảnh
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076322997862817793/img/9JwN9k9LSY3U0H1x.jpg" width="600" alt="Góc nhìn bên hồ bơi với ly Pina Colada">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7169)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2076323062832660878) | **Published:** Jul 12, 2026
+
+---
+### Chuyển động chân dung điện ảnh nhẹ nhàng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video (prompt) cực kỳ chi tiết cho chân dung điện ảnh với các chuyển động tinh tế như tóc bay nhẹ, chớp mắt tự nhiên và nụ cười ấm áp.
+
+#### 📝 Prompt
+
+```
+Chuyển động chân dung điện ảnh nhẹ nhàng: mái tóc vàng dài của cô ấy đung đưa mềm mại như trong làn gió nhẹ, cô ấy chớp mắt tự nhiên và nở nụ cười ấm áp nhẹ nhàng, đôi mắt màu nâu hổ phách bắt trọn ánh sáng khuếch tán. Hơi thở tinh tế, độ sâu trường ảnh nông, thanh lịch và điềm tĩnh...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076272285762416640/img/BjJT775QrAAyJIXe.jpg" width="600" alt="Chuyển động chân dung điện ảnh nhẹ nhàng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7163)**
+
+**Author:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **Source:** [Link](https://x.com/AnnetteHollerWe/status/2076272344570667216) | **Published:** Jul 12, 2026
+
+---
+### Cảnh quay phim tài liệu về cá heo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video theo phong cách phim tài liệu về đại dương, mô tả cảnh một chú cá heo đang bơi về phía bờ dưới ánh nắng vàng rực rỡ.
+
+#### 📝 Prompt
+
+```
+Cá heo bơi đều đặn về phía bờ cát xa xăm, những gợn sóng nhẹ trên mặt nước, ánh nắng vàng, đại dương tĩnh lặng, cảnh quay phim tài liệu về đại dương. Bình minh lên. 🐬🦞
+```
+
+<img src="https://cms-assets.youmind.com/media/1783931843539_afa46i_HNBjT3ia0AAGDLy.jpg" width="600" alt="Cảnh quay phim tài liệu về cá heo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7165)**
+
+**Author:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **Source:** [Link](https://x.com/AnnetteHollerWe/status/2076268696474104007) | **Published:** Jul 12, 2026
+
+---
+### Bầu không khí khu dân cư Hàn Quốc
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt này tạo ra một thước phim điện ảnh nhất quán về một khu phố yên tĩnh tại Hàn Quốc, tập trung vào những con hẻm nhỏ, nhà thấp tầng và các sân hiên.
+
+#### 📝 Prompt
+
+```
+Duy trì sự nhất quán về danh tính, trang phục, kiểu tóc và ngoại hình trong suốt toàn bộ video. Địa điểm: Khu dân cư Hàn Quốc chân thực vào một buổi sáng muộn yên bình. Những con hẻm bê tông nhỏ, nhà thấp tầng, sân hiên nhỏ, chậu cây, quần áo phơi
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076204329359331328/img/u0JkrxwIap0pblAd.jpg" width="600" alt="Bầu không khí khu dân cư Hàn Quốc">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7166)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2076204407729824032) | **Published:** Jul 12, 2026
+
+---
+### Phong cảnh đêm với những cánh hoa hồng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video cho cảnh đêm dưới ánh trăng với cây thông, đom đóm và những cánh hoa hồng rơi.
+
+#### 📝 Prompt
+
+```
+Trăng tròn, mây, cây thông, đom đóm, bãi cỏ
+Thêm những cánh hoa hồng màu hồng và đỏ rơi từ trên bầu trời
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076181751546978304/img/Godn6f1Q8X0t4h1O.jpg" width="600" alt="Phong cảnh đêm với những cánh hoa hồng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7167)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2076181829221286088) | **Published:** Jul 12, 2026
+
+---
+### Hoạt ảnh mèo sống động như thật
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo hoạt ảnh chi tiết cho chú mèo mướp chân thực, bao gồm các chuyển động tinh tế như nhịp thở và chớp mắt.
+
+#### 📝 Prompt
+
+```
+Hoạt ảnh sống động tinh tế: chú mèo mướp thở nhẹ nhàng với lồng ngực phập phồng, tai giật nhẹ một lần, đôi mắt xanh chớp chậm rãi, ria mép rung khẽ, chóp đuôi đung đưa mềm mại. Góc máy cố định ở tầm thấp. Ánh sáng ban ngày tự nhiên, chân thực như ảnh chụp.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076144050173034496/img/q6lkJuEh0K8BtFI6.jpg" width="600" alt="Hoạt ảnh mèo sống động như thật">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7168)**
+
+**Author:** [Sangcjeol Lee](https://x.com/sangcjeol) | **Source:** [Link](https://x.com/sangcjeol/status/2076144105319706898) | **Published:** Jul 12, 2026
+
+---
 ### Nhà ở thuộc địa không gian
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2029,177 +2201,6 @@ Chuyển động trượt cát trên sa mạc, chiếc ghế sofa Slides mượt
 **Author:** [Christian Kierulf](https://x.com/ChristianKieru1) | **Source:** [Link](https://x.com/ChristianKieru1/status/2071293887357018535) | **Published:** Jun 28, 2026
 
 ---
-### Mèo con đùa nghịch trong tuyết
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh mô tả chi tiết cho video về một chú mèo con đang nhảy qua những bông tuyết với các chuyển động máy quay đậm chất điện ảnh.
-
-#### 📝 Prompt
-
-```
-Chú mèo con lông xù tinh nghịch nhảy lên và vờn những bông tuyết đang rơi, dùng hai chân trước khều nhẹ qua lớp tuyết mới, chiếc đuôi ngoáy liên hồi vì phấn khích. Tuyết rơi nhẹ nhàng, máy quay giữ khung hình trung cảnh ổn định với hiệu ứng tiến dần chậm rãi.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071292994314264577/img/zp7RX3Yjf71_afrn.jpg" width="600" alt="Mèo con đùa nghịch trong tuyết">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6591)**
-
-**Author:** [grok_imagine_free_user](https://x.com/FreeGrokUser) | **Source:** [Link](https://x.com/FreeGrokUser/status/2071293051084120502) | **Published:** Jun 28, 2026
-
----
-### Nhóm dẫn đường bằng robot Tesla Optimus
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý video điện ảnh mô tả nhiều robot Tesla Optimus đứng cùng nhau để dẫn dắt một nhóm người đi đúng hướng.
-
-#### 📝 Prompt
-
-```
-Nhóm được tham gia bởi nhiều robot Tesla Optimus khác, những robot này đứng xung quanh nhóm để giúp dẫn dắt họ đi đúng hướng
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071218685004382208/img/vu_YCh7uxGKIGN4v.jpg" width="600" alt="Nhóm dẫn đường bằng robot Tesla Optimus">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6592)**
-
-**Author:** [Joe Hogan](https://x.com/JoeHoganJr) | **Source:** [Link](https://x.com/JoeHoganJr/status/2071218760829071770) | **Published:** Jun 28, 2026
-
----
-### Robot tiện ích dọn dẹp rừng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video chi tiết về robot dọn dẹp bụi rậm trong rừng bằng dao rựa, khiến một con mèo rừng bất ngờ.
-
-#### 📝 Prompt
-
-```
-Một robot tiện ích hình người với lớp vỏ màu xanh ô liu sờn cũ đang dọn dẹp bụi rậm dày đặc bằng một con dao rựa lớn tại bìa rừng nơi ánh nắng xuyên qua tán lá. Giữa hành động vung dao qua những bụi cây chằng chịt, lá cây bay tứ tung; trong tán lá rẽ ra, một con mèo rừng đang căng thẳng cúi thấp người, tai cụp về phía sau, đôi mắt vàng...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071122100564508672/img/c4Cd2x9QeKqLRyJD.jpg" width="600" alt="Robot tiện ích dọn dẹp rừng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6586)**
-
-**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2071122156583571904) | **Published:** Jun 28, 2026
-
----
-### Video giới thiệu tại Trung tâm Học tập Vũ trụ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video gợi ý chi tiết mô tả nhóm trẻ em đang chia sẻ các tác phẩm nghệ thuật và tranh vẽ về chủ đề vũ trụ tại một trung tâm học tập.
-
-#### 📝 Prompt
-
-```
-Tại buổi giới thiệu ở trung tâm học tập vũ trụ, em nhỏ trên sân khấu nhỏ nhẹ nhàng nâng chiếc tên lửa bằng giấy trong khi trò chuyện với bạn bè trên tấm thảm hình thiên hà; những đứa trẻ gần đó vẫy những bức vẽ hành tinh và mô hình ngôi sao lấp lánh, giơ tay chờ đến lượt chia sẻ những gì mình đã làm.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071104793569816576/img/uN0w0sAmBWrP697z.jpg" width="600" alt="Video giới thiệu tại Trung tâm Học tập Vũ trụ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6587)**
-
-**Author:** [Christina Mieloszyk](https://x.com/Stina_Lotus) | **Source:** [Link](https://x.com/Stina_Lotus/status/2071104897047527577) | **Published:** Jun 28, 2026
-
----
-### Video tương tác Mecha Kaiju
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) video điện ảnh mô tả một con quái vật mecha kaiju dạng thằn lằn đang nghiêng thân mình và thở giữa khung cảnh đổ nát.
-
-#### 📝 Prompt
-
-```
-Con quái vật mecha kaiju dạng thằn lằn đứng thẳng từ từ nghiêng phần thân nặng nề về phía trước và nhẹ nhàng hướng phần bụng bọc thép về phía máy quay, chuyển động thở tinh tế trên các lớp giáp, gợi cảm giác muốn chạm vào — bối cảnh tàn tích lúc hoàng hôn tĩnh lặng, máy quay nhẹ nhàng tiến lại gần.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071102594282647552/img/bG9x_bzWimQ31Upc.jpg" width="600" alt="Video tương tác Mecha Kaiju">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6588)**
-
-**Author:** [ガトル](https://x.com/sakana_no_sippo) | **Source:** [Link](https://x.com/sakana_no_sippo/status/2071102648502387106) | **Published:** Jun 28, 2026
-
----
-### Cảnh quay điện ảnh về chuyến bay của thần ưng Andes
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý video điện ảnh để tạo cận cảnh siêu thực về một con thần ưng Andes đang bay trên dãy núi.
-
-#### 📝 Prompt
-
-```
-Cảnh cận cảnh siêu thực về một con thần ưng Andes đang bay trên dãy núi Andes.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071082468061360128/img/cvL7JHWeU0Qp06jP.jpg" width="600" alt="Cảnh quay điện ảnh về chuyến bay của thần ưng Andes">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6564)**
-
-**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2071100026772971840) | **Published:** Jun 28, 2026
-
----
-### Người dẫn chương trình tin tức đêm khuya
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video chi tiết cho cảnh quay điện ảnh liên tục về một người dẫn chương trình tin tức trong studio với các hướng dẫn chiếu sáng cụ thể.
-
-#### 📝 Prompt
-
-```
-Cảnh quay liên tục không cắt. Một người dẫn chương trình tin tức ngồi sau bàn làm việc sáng bóng trong một studio phát sóng đêm khuya mờ ảo. Ánh sáng chính màu xanh lạnh, ánh sáng viền màu hổ phách dịu nhẹ từ các màn hình ngoài khung hình. Họ đang ở giữa phân đoạn, các tờ giấy được xếp ngay ngắn trước mặt. Người dẫn chương trình...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071078793536487424/img/PXsbqWG82QPA_CcP.jpg" width="600" alt="Người dẫn chương trình tin tức đêm khuya">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6590)**
-
-**Author:** [michael Rozyla](https://x.com/ineverhad1) | **Source:** [Link](https://x.com/ineverhad1/status/2071078843331334538) | **Published:** Jun 28, 2026
-
----
-### Áp phích tuyên ngôn phong cách CRT cổ điển
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video tạo ra bầu không khí hoài cổ tương lai với hiệu ứng quay phim tiến dần vào áp phích tuyên ngôn, kết hợp các đường quét (scanlines) và hiệu ứng phát sáng phốt pho.
-
-#### 📝 Prompt
-
-```
-Quay phim tiến dần chậm rãi vào áp phích tuyên ngôn. Các đường quét CRT trôi nhẹ nhàng, ánh sáng xanh phốt pho ở viền nhấp nháy tinh tế như màn hình cũ. Phông chữ vẫn sắc nét và dễ đọc. Bầu không khí tờ rơi biểu tình lúc nửa đêm, chuyển động tiết chế, không thêm văn bản mới, không có logo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070952039459274752/img/eckA5IgOFuPQwTzY.jpg" width="600" alt="Áp phích tuyên ngôn phong cách CRT cổ điển">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6562)**
-
-**Author:** [David Herbert Thomas](https://x.com/Diabach1972) | **Source:** [Link](https://x.com/Diabach1972/status/2070952100410872189) | **Published:** Jun 27, 2026
-
----
-### Người phụ nữ đi dạo giữa cánh đồng hoa hướng dương
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video điện ảnh về người phụ nữ mặc váy trắng đi dạo giữa cánh đồng hoa hướng dương trong làn gió nhẹ.
-
-#### 📝 Prompt
-
-```
-Cảnh quay cận cảnh siêu thực về một người phụ nữ xinh đẹp trong chiếc váy trắng tuyệt đẹp đang đi dạo giữa cánh đồng hoa hướng dương với làn gió nhẹ thổi qua.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070883239917711360/img/06wbHnBCrTE_afO9.jpg" width="600" alt="Người phụ nữ đi dạo giữa cánh đồng hoa hướng dương">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6560)**
-
-**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2070902475238818282) | **Published:** Jun 27, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2261,6 +2262,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-13T07:45:52.516Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-13T11:36:36.637Z</sub>
 
 </div>

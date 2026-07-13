@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2084** |
+| 📝 Total Prompts | **2093** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-13** |
 
@@ -189,6 +189,178 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### भूले-बिसरे सपनों का पुस्तकालय
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक अलौकिक और जादुई पुस्तकालय का दृश्य जहाँ भूले हुए सपनों को चमकती हुई क्रिस्टल की किताबों में सहेज कर रखा गया है।
+
+#### 📝 Prompt
+
+```
+एक अनंत पुस्तकालय मानवता के हर उस सपने को संजोता है जिसे वह भूल चुकी है। ये सपने क्रिस्टल की किताबों के भीतर धीमी रोशनी में चमकते हैं, जो किसी को फिर से प्रेरित करने की प्रतीक्षा कर रहे हैं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073669518388334592/img/OxWSXP4uE0UQvKus.jpg" width="600" alt="भूले-बिसरे सपनों का पुस्तकालय">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7171)**
+
+**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2076454307344379943) | **Published:** Jul 12, 2026
+
+---
+### इनोसुके (Inosuke) का लाइव-एक्शन कॉम्बैट सीन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सिनेमैटिक प्रॉम्प्ट जिसे Demon Slayer के इनोसुके (Inosuke) का लाइव-एक्शन वर्शन बनाने के लिए डिज़ाइन किया गया है, जिसमें वह जंगल के माहौल में गतिशील कॉम्बैट मूव्स कर रहा है।
+
+#### 📝 Prompt
+
+```
+जंगल में पूरी रफ़्तार से दौड़ते हुए, स्पिनिंग फ्लिप के साथ छलांग लगाना और दो तलवारों से एक ज़बरदस्त फिनिशिंग स्ट्राइक करना। एक महान बीस्ट वॉरियर से प्रेरित एक सिनेमैटिक लाइव-एक्शन AI रीक्रिएशन।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076437314323218432/img/aZJsw2d6HSAdorLc.jpg" width="600" alt="इनोसुके (Inosuke) का लाइव-एक्शन कॉम्बैट सीन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7164)**
+
+**Author:** [猫神MT](https://x.com/nekogami_MT) | **Source:** [Link](https://x.com/nekogami_MT/status/2076437370086527139) | **Published:** Jul 12, 2026
+
+---
+### स्पेसशिप कॉन्सर्ट मॉशपिट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक काल्पनिक साइंस-फिक्शन दृश्य जिसमें एक एलियन और एक सुनहरे बालों वाली महिला एक शोरगुल वाले स्पेसशिप कॉन्सर्ट में आतिशबाजी का आनंद ले रहे हैं।
+
+#### 📝 Prompt
+
+```
+लंबा नीला एलियन और लंबी लहरदार सुनहरे बालों वाली सुंदर महिला, जिसने चोटियाँ बनाई हुई हैं, हीरे के झुमके और हीरे का हार पहना है और काले रंग की कैटसूट पहनी है, स्पेसशिप के मुख्य डेक पर एक शोरगुल वाले कॉन्सर्ट में आतिशबाजी के बीच मॉश पिट में हैं
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076434901243486208/img/fx8rIBSkXwZuHgwX.jpg" width="600" alt="स्पेसशिप कॉन्सर्ट मॉशपिट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7170)**
+
+**Author:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **Source:** [Link](https://x.com/blarneytrades/status/2076435045926031796) | **Published:** Jul 12, 2026
+
+---
+### पूलसाइड पिना कोलाडा का नज़रिया
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> पूल के किनारे ड्रिंक पकड़े हुए एक व्यक्ति का POV वीडियो प्रॉम्प्ट, जिसमें सनग्लासेस फिल्टर का प्रभाव है।
+
+#### 📝 Prompt
+
+```
+पूल के किनारे से कैमरा व्यू, पिना कोलाडा पकड़े हुए व्यक्ति का नज़रिया, सनग्लासेस फिल्टर से दृश्य पर टिंट
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076322997862817793/img/9JwN9k9LSY3U0H1x.jpg" width="600" alt="पूलसाइड पिना कोलाडा का नज़रिया">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7169)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2076323062832660878) | **Published:** Jul 12, 2026
+
+---
+### सौम्य सिनेमैटिक पोर्ट्रेट मोशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> सिनेमैटिक पोर्ट्रेट के लिए एक अत्यधिक विस्तृत वीडियो प्रॉम्प्ट, जिसमें बालों का लहराना, स्वाभाविक रूप से पलकें झपकाना और एक सौम्य मुस्कान जैसी सूक्ष्म गतिविधियां शामिल हैं।
+
+#### 📝 Prompt
+
+```
+सौम्य सिनेमैटिक पोर्ट्रेट मोशन: उसके लंबे सुनहरे बाल हल्की हवा में धीरे-धीरे लहरा रहे हैं, वह स्वाभाविक रूप से पलकें झपकाती है और एक हल्की सी गर्म मुस्कान देती है, एम्बर भूरी आँखें बिखरी हुई रोशनी को पकड़ रही हैं। सूक्ष्म सांस लेना, उथला डेप्थ ऑफ फील्ड, सुरुचिपूर्ण और शांत...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076272285762416640/img/BjJT775QrAAyJIXe.jpg" width="600" alt="सौम्य सिनेमैटिक पोर्ट्रेट मोशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7163)**
+
+**Author:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **Source:** [Link](https://x.com/AnnetteHollerWe/status/2076272344570667216) | **Published:** Jul 12, 2026
+
+---
+### डॉल्फिन समुद्री वृत्तचित्र फुटेज
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक समुद्री वृत्तचित्र शैली का वीडियो प्रॉम्प्ट, जिसमें एक डॉल्फिन सुनहरी धूप के नीचे तट की ओर तैरती हुई दिखाई दे रही है।
+
+#### 📝 Prompt
+
+```
+डॉल्फिन धीरे-धीरे दूर रेतीले तट की ओर तैर रही है, सतह पर हल्की लहरें, सुनहरी धूप, शांत महासागर, समुद्री वृत्तचित्र फुटेज। उठो और चमक उठो। 🐬🦞
+```
+
+<img src="https://cms-assets.youmind.com/media/1783931843539_afa46i_HNBjT3ia0AAGDLy.jpg" width="600" alt="डॉल्फिन समुद्री वृत्तचित्र फुटेज">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7165)**
+
+**Author:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **Source:** [Link](https://x.com/AnnetteHollerWe/status/2076268696474104007) | **Published:** Jul 12, 2026
+
+---
+### कोरियाई आवासीय पड़ोस का माहौल
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> यह प्रॉम्प्ट एक शांत कोरियाई पड़ोस का निरंतर सिनेमाई वॉकथ्रू बनाता है, जिसमें संकरी गलियों, कम ऊंचाई वाले घरों और छतों पर ध्यान केंद्रित किया गया है।
+
+#### 📝 Prompt
+
+```
+पूरे वीडियो के दौरान एक समान पहचान, कपड़े, हेयरस्टाइल और लुक बनाए रखें। स्थान: देर सुबह के शांत समय में एक प्रामाणिक कोरियाई आवासीय पड़ोस। संकरी कंक्रीट की गलियां, कम ऊंचाई वाले घर, छोटी छतें, गमले में लगे पौधे, कपड़े
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076204329359331328/img/u0JkrxwIap0pblAd.jpg" width="600" alt="कोरियाई आवासीय पड़ोस का माहौल">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7166)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2076204407729824032) | **Published:** Jul 12, 2026
+
+---
+### गुलाब की पंखुड़ियों के साथ रात का परिदृश्य
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> चांदनी रात के दृश्य के लिए एक वीडियो प्रॉम्प्ट, जिसमें देवदार के पेड़, जुगनू और गिरती हुई गुलाब की पंखुड़ियाँ शामिल हैं।
+
+#### 📝 Prompt
+
+```
+पूर्णिमा के बादल, देवदार के पेड़, जुगनू, घास का मैदान
+आसमान से गिरती हुई गुलाबी और लाल गुलाब की पंखुड़ियाँ जोड़ें
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076181751546978304/img/Godn6f1Q8X0t4h1O.jpg" width="600" alt="गुलाब की पंखुड़ियों के साथ रात का परिदृश्य">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7167)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2076181829221286088) | **Published:** Jul 12, 2026
+
+---
+### यथार्थवादी बिल्ली का एनिमेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> सांस लेने और पलक झपकाने जैसी सूक्ष्म गतिविधियों के साथ एक फोटो-रियलिस्टिक टैबी बिल्ली के लिए एक विस्तृत एनिमेशन प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+सूक्ष्म जीवंत एनिमेशन: टैबी बिल्ली धीरे-धीरे सांस ले रही है, छाती में हल्की हलचल है, कान एक बार फड़फड़ाते हैं, हरी आंखें धीरे-धीरे झपकती हैं, मूंछें हल्की कांपती हैं, पूंछ का सिरा धीरे से हिलता है। कैमरा स्थिर लो-एंगल पर है। प्राकृतिक दिन का प्रकाश, फोटो-रियलिस्टिक।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076144050173034496/img/q6lkJuEh0K8BtFI6.jpg" width="600" alt="यथार्थवादी बिल्ली का एनिमेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7168)**
+
+**Author:** [Sangcjeol Lee](https://x.com/sangcjeol) | **Source:** [Link](https://x.com/sangcjeol/status/2076144105319706898) | **Published:** Jul 12, 2026
+
+---
 ### अंतरिक्ष कॉलोनी आवास
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2029,177 +2201,6 @@ Youman,
 **Author:** [Christian Kierulf](https://x.com/ChristianKieru1) | **Source:** [Link](https://x.com/ChristianKieru1/status/2071293887357018535) | **Published:** Jun 28, 2026
 
 ---
-### बर्फ में खेलता हुआ बिल्ली का बच्चा
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> सिनेमैटिक कैमरा मूवमेंट के साथ बर्फ के टुकड़ों के बीच उछलते हुए बिल्ली के बच्चे के वीडियो के लिए एक विस्तृत वर्णनात्मक प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-रूई जैसा मुलायम बिल्ली का बच्चा चंचलता से उछलता है और हवा में तैरते बर्फ के टुकड़ों को अपने पंजों से मारता है, ताजी बर्फ में अपने अगले पंजों से खेलता है, और उत्साह में उसकी पूंछ हिल रही है। हल्की बर्फबारी जारी है, कैमरा एक स्थिर मीडियम शॉट पर टिका है और धीरे-धीरे ज़ूम-इन (slow push-in) हो रहा है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071292994314264577/img/zp7RX3Yjf71_afrn.jpg" width="600" alt="बर्फ में खेलता हुआ बिल्ली का बच्चा">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6591)**
-
-**Author:** [grok_imagine_free_user](https://x.com/FreeGrokUser) | **Source:** [Link](https://x.com/FreeGrokUser/status/2071293051084120502) | **Published:** Jun 28, 2026
-
----
-### Tesla Optimus रोबोट्स गाइडिंग ग्रुप
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमैटिक वीडियो प्रॉम्प्ट जिसमें कई Tesla Optimus रोबोट्स एक साथ खड़े होकर एक समूह को सही दिशा में मार्गदर्शन कर रहे हैं।
-
-#### 📝 Prompt
-
-```
-समूह के साथ कई अन्य Tesla Optimus रोबोट्स शामिल हो जाते हैं जो उन्हें सही दिशा में मार्गदर्शन करने में मदद करने के लिए उनके चारों ओर खड़े हो जाते हैं
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071218685004382208/img/vu_YCh7uxGKIGN4v.jpg" width="600" alt="Tesla Optimus रोबोट्स गाइडिंग ग्रुप">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6592)**
-
-**Author:** [Joe Hogan](https://x.com/JoeHoganJr) | **Source:** [Link](https://x.com/JoeHoganJr/status/2071218760829071770) | **Published:** Jun 28, 2026
-
----
-### यूटिलिटी रोबोट द्वारा जंगल की सफाई
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक रोबोट द्वारा मैचेटी (बड़ी छुरी) से जंगल की झाड़ियों को साफ करने और एक बॉबकैट को हैरान कर देने का अत्यधिक विस्तृत वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-घिसी हुई जैतून-हरे रंग की प्लेटिंग वाला एक ह्यूमनॉइड यूटिलिटी रोबोट, धूप से सराबोर जंगल के किनारे एक बड़ी मैचेटी से घनी झाड़ियों को साफ कर रहा है। उलझी हुई झाड़ियों के बीच से हाथ चलाने की क्रिया के दौरान पत्तियां उड़ रही हैं; अलग हुई पत्तियों के बीच एक तनावग्रस्त बॉबकैट नीचे दुबका हुआ है, उसके कान पीछे की ओर हैं, सुनहरी...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071122100564508672/img/c4Cd2x9QeKqLRyJD.jpg" width="600" alt="यूटिलिटी रोबोट द्वारा जंगल की सफाई">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6586)**
-
-**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2071122156583571904) | **Published:** Jun 28, 2026
-
----
-### Space Learning Center Show and Tell वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक विस्तृत वीडियो प्रॉम्प्ट जो एक लर्निंग सेंटर में बच्चों के समूह को अंतरिक्ष-थीम वाली कला और चित्र साझा करते हुए दर्शाता है।
-
-#### 📝 Prompt
-
-```
-स्पेस लर्निंग सेंटर के शो-एंड-टेल में, छोटे मंच पर मौजूद बच्चा गैलेक्सी रग पर बैठे दोस्तों से बात करते हुए धीरे से एक कागज़ का रॉकेट ऊपर उठाता है; पास में बैठे बच्चे अपने ग्रहों के चित्र और ग्लिटर स्टार मोबाइल लहरा रहे हैं, और अपनी बनाई चीज़ों को साझा करने के लिए बारी आने का इंतज़ार करते हुए हाथ उठा रहे हैं।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071104793569816576/img/uN0w0sAmBWrP697z.jpg" width="600" alt="Space Learning Center Show and Tell वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6587)**
-
-**Author:** [Christina Mieloszyk](https://x.com/Stina_Lotus) | **Source:** [Link](https://x.com/Stina_Lotus/status/2071104897047527577) | **Published:** Jun 28, 2026
-
----
-### Mecha Kaiju इंटरैक्शन वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमैटिक वीडियो प्रॉम्प्ट जो खंडहरों में अपने धड़ को झुकाते और सांस लेते हुए एक मेका काइजु छिपकली का वर्णन करता है।
-
-#### 📝 Prompt
-
-```
-सीधी खड़ी छिपकली जैसी मेका काइजु धीरे-धीरे अपने भारी धड़ को आगे की ओर झुकाती है और धीरे से अपने बख्तरबंद पेट को कैमरे की ओर लाती है, प्लेटों में हल्की सांस लेने की गति दिखाई देती है, जो स्पर्श के लिए आमंत्रित करती है—शांत शाम के खंडहर, कैमरे का धीमा ज़ूम-इन।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071102594282647552/img/bG9x_bzWimQ31Upc.jpg" width="600" alt="Mecha Kaiju इंटरैक्शन वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6588)**
-
-**Author:** [ガトル](https://x.com/sakana_no_sippo) | **Source:** [Link](https://x.com/sakana_no_sippo/status/2071102648502387106) | **Published:** Jun 28, 2026
-
----
-### एंडियन कॉन्डोर की उड़ान का सिनेमैटिक दृश्य
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एंडियन कॉन्डोर के पर्वतीय श्रृंखला के ऊपर उड़ान भरते हुए अल्ट्रा-रियलिस्टिक क्लोज-अप वीडियो जनरेट करने के लिए एक सिनेमैटिक प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-एंडिस पर्वत के ऊपर उड़ते हुए एंडियन कॉन्डोर का अल्ट्रा-रियलिस्टिक क्लोज-अप दृश्य।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071082468061360128/img/cvL7JHWeU0Qp06jP.jpg" width="600" alt="एंडियन कॉन्डोर की उड़ान का सिनेमैटिक दृश्य">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6564)**
-
-**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2071100026772971840) | **Published:** Jun 28, 2026
-
----
-### देर रात के न्यूज़ रीडर
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> स्टूडियो में विशिष्ट लाइटिंग निर्देशों के साथ एक न्यूज़ रीडर के सिनेमाई निरंतर शॉट (continuous take) के लिए एक विस्तृत वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-एक निरंतर शॉट। एक न्यूज़ रीडर देर रात के धुंधले ब्रॉडकास्ट स्टूडियो में एक पॉलिश किए हुए एंकर डेस्क के पीछे बैठा है। ठंडी नीली की-लाइट (key light), और कैमरे से दूर मॉनिटरों से आती हल्की एम्बर रिम लाइट। वे न्यूज़ सेगमेंट के बीच में हैं, उनके सामने कागज़ व्यवस्थित तरीके से रखे हुए हैं। न्यूज़ रीडर...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071078793536487424/img/PXsbqWG82QPA_CcP.jpg" width="600" alt="देर रात के न्यूज़ रीडर">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6590)**
-
-**Author:** [michael Rozyla](https://x.com/ineverhad1) | **Source:** [Link](https://x.com/ineverhad1/status/2071078843331334538) | **Published:** Jun 28, 2026
-
----
-### रेट्रो CRT मेनिफेस्टो पोस्टर
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो प्रॉम्प्ट जो एक मेनिफेस्टो पोस्टर पर सिनेमैटिक पुश-इन के साथ रेट्रो-फ्यूचरिस्टिक मूड बनाता है, जिसमें स्कैनलाइन्स और फॉस्फोर ग्लो इफेक्ट्स शामिल हैं।
-
-#### 📝 Prompt
-
-```
-मेनिफेस्टो पोस्टर पर धीमा सिनेमैटिक पुश-इन। CRT स्कैनलाइन्स सूक्ष्म रूप से हिल रही हैं, फॉस्फोर ग्रीन एज ग्लो पुराने मॉनिटर की तरह धीरे-धीरे पल्स कर रहा है। टाइपोग्राफी स्पष्ट और पढ़ने योग्य है। मिडनाइट प्रोटेस्ट फ्लायर जैसा मूड, नियंत्रित गति, कोई नया टेक्स्ट नहीं, कोई लोगो नहीं।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070952039459274752/img/eckA5IgOFuPQwTzY.jpg" width="600" alt="रेट्रो CRT मेनिफेस्टो पोस्टर">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6562)**
-
-**Author:** [David Herbert Thomas](https://x.com/Diabach1972) | **Source:** [Link](https://x.com/Diabach1972/status/2070952100410872189) | **Published:** Jun 27, 2026
-
----
-### सूरजमुखी के खेत में चलती महिला
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमैटिक वीडियो प्रॉम्प्ट जिसमें एक महिला सफेद सनड्रेस पहने हुए हल्की हवा के बीच सूरजमुखी के खेत में टहल रही है।
-
-#### 📝 Prompt
-
-```
-एक सुंदर सफेद सनड्रेस पहने खूबसूरत महिला का अल्ट्रा-रियलिस्टिक क्लोज-अप दृश्य, जो हल्की हवा के बीच सूरजमुखी के खेत में चल रही है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070883239917711360/img/06wbHnBCrTE_afO9.jpg" width="600" alt="सूरजमुखी के खेत में चलती महिला">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6560)**
-
-**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2070902475238818282) | **Published:** Jun 27, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2261,6 +2262,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-13T07:45:54.148Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-13T11:36:38.247Z</sub>
 
 </div>

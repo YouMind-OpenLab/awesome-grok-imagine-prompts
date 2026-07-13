@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **2084** |
+| 📝 提示词总数 | **2093** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-07-13** |
 
@@ -189,6 +189,178 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 被遗忘的梦境图书馆
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个空灵而神奇的图书馆场景，被遗忘的梦境被珍藏在闪烁着微光的晶体书籍中。
+
+#### 📝 提示词
+
+```
+一座无尽的图书馆存储着人类遗忘的每一个梦境。它们在晶体书籍中柔和地闪烁，等待着再次启迪他人。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073669518388334592/img/OxWSXP4uE0UQvKus.jpg" width="600" alt="被遗忘的梦境图书馆">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7171)**
+
+**作者:** [James King](https://x.com/JamesKi97287119) | **来源:** [Link](https://x.com/JamesKi97287119/status/2076454307344379943) | **发布时间:** Jul 12, 2026
+
+---
+### 真人版伊之助战斗场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个电影级提示词，旨在创作《鬼灭之刃》中伊之助在森林场景中进行动态战斗动作的真人版画面。
+
+#### 📝 提示词
+
+```
+在森林中全速冲刺，腾空跃起完成旋转翻身，并释放出猛烈的双刀终结技。这是一段由 AI 创作的电影级真人版画面，灵感源自那位传奇的兽之呼吸战士。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076437314323218432/img/aZJsw2d6HSAdorLc.jpg" width="600" alt="真人版伊之助战斗场景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7164)**
+
+**作者:** [猫神MT](https://x.com/nekogami_MT) | **来源:** [Link](https://x.com/nekogami_MT/status/2076437370086527139) | **发布时间:** Jul 12, 2026
+
+---
+### 太空船演唱会现场
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个充满想象力的科幻场景，描绘了一位外星人和一位金发女性在喧闹的太空船演唱会上，背景伴有烟花。
+
+#### 📝 提示词
+
+```
+高大的蓝色外星人与一位留着波浪长金发编辫、佩戴钻石耳环和钻石项链、身穿黑色紧身连衣裤的美丽女士，正身处太空船主甲板上喧闹的演唱会人群中，周围烟花绽放。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076434901243486208/img/fx8rIBSkXwZuHgwX.jpg" width="600" alt="太空船演唱会现场">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7170)**
+
+**作者:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **来源:** [Link](https://x.com/blarneytrades/status/2076435045926031796) | **发布时间:** Jul 12, 2026
+
+---
+### 泳池边品味椰林飘香的视角
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段以第一人称视角拍摄的视频提示词，展示某人手持饮品在泳池边，并带有墨镜滤镜效果。
+
+#### 📝 提示词
+
+```
+泳池边的摄像机视角，以手持椰林飘香 (piña colada) 的人的视角呈现，场景带有墨镜滤镜效果
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076322997862817793/img/9JwN9k9LSY3U0H1x.jpg" width="600" alt="泳池边品味椰林飘香的视角">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7169)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2076323062832660878) | **发布时间:** Jul 12, 2026
+
+---
+### 柔和电影感人像动态
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个高度详细的视频提示词，用于创作电影感人像，包含头发摆动、自然眨眼和温暖微笑等细腻动作。
+
+#### 📝 提示词
+
+```
+柔和电影感人像动态：她金色的长发在微风中轻轻摇曳，她自然地眨着眼睛，露出淡淡的温暖微笑，琥珀色的双眸捕捉着漫射光。细腻的呼吸感，浅景深，优雅而从容……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076272285762416640/img/BjJT775QrAAyJIXe.jpg" width="600" alt="柔和电影感人像动态">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7163)**
+
+**作者:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **来源:** [Link](https://x.com/AnnetteHollerWe/status/2076272344570667216) | **发布时间:** Jul 12, 2026
+
+---
+### 海豚海洋纪录片素材
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段海洋纪录片风格的视频提示词，展示了一只海豚在金色阳光下向岸边游去。
+
+#### 📝 提示词
+
+```
+海豚向着远处的沙滩平稳游动，水面泛起轻柔的涟漪，金色阳光，平静的海洋，海洋纪录片素材。新的一天开始了。🐬🦞
+```
+
+<img src="https://cms-assets.youmind.com/media/1783931843539_afa46i_HNBjT3ia0AAGDLy.jpg" width="600" alt="海豚海洋纪录片素材">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7165)**
+
+**作者:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **来源:** [Link](https://x.com/AnnetteHollerWe/status/2076268696474104007) | **发布时间:** Jul 12, 2026
+
+---
+### 韩国住宅区氛围
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 此提示词旨在创作一段连贯的电影感短片，展现宁静的韩国社区，重点刻画狭窄巷弄、低层住宅和露台。
+
+#### 📝 提示词
+
+```
+在整个视频中保持一致的身份、服装、发型和外观。地点：宁静的上午，真实的韩国住宅区。狭窄的混凝土巷弄、低层住宅、小型露台、盆栽植物、晾晒的衣物
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076204329359331328/img/u0JkrxwIap0pblAd.jpg" width="600" alt="韩国住宅区氛围">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7166)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2076204407729824032) | **发布时间:** Jul 12, 2026
+
+---
+### 玫瑰花瓣下的夜景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个关于月光夜景的视频提示词，包含松树、萤火虫和飘落的玫瑰花瓣。
+
+#### 📝 提示词
+
+```
+满月、云朵、松树、萤火虫、草地
+添加从天空中飘落的粉色和红色玫瑰花瓣
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076181751546978304/img/Godn6f1Q8X0t4h1O.jpg" width="600" alt="玫瑰花瓣下的夜景">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7167)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2076181829221286088) | **发布时间:** Jul 12, 2026
+
+---
+### 栩栩如生的猫咪动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于制作照片级真实感虎斑猫动画的详细提示词，包含呼吸和眨眼等细微动作。
+
+#### 📝 提示词
+
+```
+细微而逼真的动画：虎斑猫轻柔地呼吸，胸部微微起伏，耳朵抽动一下，绿色的眼睛缓慢眨动，胡须轻微颤动，尾尖柔和地摆动。摄像机保持稳定的低角度拍摄。自然日光，照片级真实感。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076144050173034496/img/q6lkJuEh0K8BtFI6.jpg" width="600" alt="栩栩如生的猫咪动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7168)**
+
+**作者:** [Sangcjeol Lee](https://x.com/sangcjeol) | **来源:** [Link](https://x.com/sangcjeol/status/2076144105319706898) | **发布时间:** Jul 12, 2026
+
+---
 ### 太空殖民地住房
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2029,177 +2201,6 @@ Youman，
 **作者:** [Christian Kierulf](https://x.com/ChristianKieru1) | **来源:** [Link](https://x.com/ChristianKieru1/status/2071293887357018535) | **发布时间:** Jun 28, 2026
 
 ---
-### 小猫在雪中嬉戏
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段关于小猫在雪花中跳跃的详细描述性提示词，包含电影级的运镜方式。
-
-#### 📝 提示词
-
-```
-毛茸茸的小猫顽皮地跳跃着，用前爪拍打飘落的雪花，在厚厚的积雪中嬉戏，尾巴因兴奋而微微摆动。轻柔的雪花持续飘落，镜头保持稳定的中景拍摄，并伴有细微的缓慢推进。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071292994314264577/img/zp7RX3Yjf71_afrn.jpg" width="600" alt="小猫在雪中嬉戏">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6591)**
-
-**作者:** [grok_imagine_free_user](https://x.com/FreeGrokUser) | **来源:** [Link](https://x.com/FreeGrokUser/status/2071293051084120502) | **发布时间:** Jun 28, 2026
-
----
-### Tesla Optimus 机器人引导团队
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段电影质感的视频提示词，展示了多个 Tesla Optimus 机器人站在一起，为团队指引正确方向。
-
-#### 📝 提示词
-
-```
-团队周围聚集了许多其他的 Tesla Optimus 机器人，它们环绕在团队身边，协助指引他们前往正确的方向
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071218685004382208/img/vu_YCh7uxGKIGN4v.jpg" width="600" alt="Tesla Optimus 机器人引导团队">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6592)**
-
-**作者:** [Joe Hogan](https://x.com/JoeHoganJr) | **来源:** [Link](https://x.com/JoeHoganJr/status/2071218760829071770) | **发布时间:** Jun 28, 2026
-
----
-### 多功能机器人清理森林
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段高度详细的视频提示词，描述了一个机器人用大砍刀清理森林灌木丛，并惊动了一只短尾猫的场景。
-
-#### 📝 提示词
-
-```
-一个身着磨损橄榄绿外壳的人形多功能机器人，正在阳光斑驳的森林边缘用一把大砍刀清理茂密的灌木丛。挥刀动作正处于半空中，穿过纠缠的灌木，树叶四散飞扬；在拨开的枝叶间，一只警觉的短尾猫正低伏着身体，双耳后贴，金色的……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071122100564508672/img/c4Cd2x9QeKqLRyJD.jpg" width="600" alt="多功能机器人清理森林">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6586)**
-
-**作者:** [Jean](https://x.com/SpaceScoutsIntl) | **来源:** [Link](https://x.com/SpaceScoutsIntl/status/2071122156583571904) | **发布时间:** Jun 28, 2026
-
----
-### 太空学习中心展示与分享视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段详细的视频提示词，描绘了一群孩子在学习中心分享太空主题艺术作品和绘画的场景。
-
-#### 📝 提示词
-
-```
-在太空学习中心的展示与分享活动中，站在小舞台上的孩子轻轻举起一个纸火箭，与坐在星系地毯上的朋友们交谈；旁边的孩子们挥舞着他们的行星画作和一个闪亮的星星挂饰，纷纷举手排队分享自己的作品。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071104793569816576/img/uN0w0sAmBWrP697z.jpg" width="600" alt="太空学习中心展示与分享视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6587)**
-
-**作者:** [Christina Mieloszyk](https://x.com/Stina_Lotus) | **来源:** [Link](https://x.com/Stina_Lotus/status/2071104897047527577) | **发布时间:** Jun 28, 2026
-
----
-### 机甲怪兽互动视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段电影质感的视频提示词，描述了一只机甲怪兽蜥蜴倾斜躯干并在废墟中呼吸的场景。
-
-#### 📝 提示词
-
-```
-直立的蜥蜴机甲怪兽缓慢地将沉重的躯干向前倾斜，轻柔地将装甲腹部朝向镜头，甲片间伴随着细微的呼吸起伏，仿佛在邀请触碰——背景是宁静的黄昏废墟，镜头缓慢推进。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071102594282647552/img/bG9x_bzWimQ31Upc.jpg" width="600" alt="机甲怪兽互动视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6588)**
-
-**作者:** [ガトル](https://x.com/sakana_no_sippo) | **来源:** [Link](https://x.com/sakana_no_sippo/status/2071102648502387106) | **发布时间:** Jun 28, 2026
-
----
-### 安第斯神鹫飞行电影感画面
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于生成安第斯神鹫飞越山脉超写实特写镜头的电影感视频提示词。
-
-#### 📝 提示词
-
-```
-安第斯神鹫飞越安第斯山脉的超写实特写场景。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071082468061360128/img/cvL7JHWeU0Qp06jP.jpg" width="600" alt="安第斯神鹫飞行电影感画面">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6564)**
-
-**作者:** [Mario Nawfal](https://x.com/MarioNawfal) | **来源:** [Link](https://x.com/MarioNawfal/status/2071100026772971840) | **发布时间:** Jun 28, 2026
-
----
-### 深夜新闻主播
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份详细的视频提示词，用于拍摄电影感长镜头，展示演播室中新闻主播的特定灯光指导。
-
-#### 📝 提示词
-
-```
-单镜头长镜头。一位新闻主播坐在光亮的演播台后，身处昏暗的深夜广播演播室。冷蓝色主光，来自画外监视器的柔和琥珀色轮廓光。主播正处于播报环节中，面前整齐地摆放着文件。新闻主播正在...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071078793536487424/img/PXsbqWG82QPA_CcP.jpg" width="600" alt="深夜新闻主播">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6590)**
-
-**作者:** [michael Rozyla](https://x.com/ineverhad1) | **来源:** [Link](https://x.com/ineverhad1/status/2071078843331334538) | **发布时间:** Jun 28, 2026
-
----
-### 复古 CRT 宣言海报
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个视频提示词，旨在营造复古未来主义氛围，通过电影般的推镜头展示一张宣言海报，并带有扫描线和磷光效果。
-
-#### 📝 提示词
-
-```
-缓慢的电影级推镜头聚焦于宣言海报。CRT 扫描线轻微漂移，磷光绿色的边缘光像老式显示器一样柔和闪烁。排版保持清晰易读。午夜抗议传单氛围，克制的动态，无新增文字，无 Logo。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070952039459274752/img/eckA5IgOFuPQwTzY.jpg" width="600" alt="复古 CRT 宣言海报">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6562)**
-
-**作者:** [David Herbert Thomas](https://x.com/Diabach1972) | **来源:** [Link](https://x.com/Diabach1972/status/2070952100410872189) | **发布时间:** Jun 27, 2026
-
----
-### 在向日葵花田中漫步的女子
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段电影质感的视频提示词：一位身穿白色连衣裙的女子在微风中漫步于向日葵花田。
-
-#### 📝 提示词
-
-```
-超写实特写镜头：一位美丽的女子身穿漂亮的白色连衣裙，在微风吹拂下穿过向日葵花田。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070883239917711360/img/06wbHnBCrTE_afO9.jpg" width="600" alt="在向日葵花田中漫步的女子">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6560)**
-
-**作者:** [Mario Nawfal](https://x.com/MarioNawfal) | **来源:** [Link](https://x.com/MarioNawfal/status/2070902475238818282) | **发布时间:** Jun 27, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2261,6 +2262,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-07-13T07:45:43.511Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-07-13T11:36:27.874Z</sub>
 
 </div>

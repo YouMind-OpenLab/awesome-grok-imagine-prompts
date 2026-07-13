@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **2084** |
+| 📝 提示詞總數 | **2093** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-07-13** |
 
@@ -189,6 +189,178 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 被遺忘的夢境圖書館
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個空靈且充滿魔力的圖書館場景，被遺忘的夢境被保存於發光的晶體書中。
+
+#### 📝 提示詞
+
+```
+一座無盡的圖書館儲存著人類遺忘的每一個夢境。它們在晶體書中散發著柔和的光芒，等待著再次啟發某人。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073669518388334592/img/OxWSXP4uE0UQvKus.jpg" width="600" alt="被遺忘的夢境圖書館">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7171)**
+
+**作者:** [James King](https://x.com/JamesKi97287119) | **來源:** [Link](https://x.com/JamesKi97287119/status/2076454307344379943) | **發布時間:** Jul 12, 2026
+
+---
+### 真人版伊之助戰鬥場景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個電影級提示詞，旨在創作《鬼滅之刃》中伊之助在森林場景中展現動態戰鬥招式的真人版影像。
+
+#### 📝 提示詞
+
+```
+在森林中全速衝刺，躍起並完成旋轉空翻，隨後使出猛烈的雙刀終結技。這是一段由 AI 創作、靈感源自傳奇獸之呼吸戰士的電影級真人版影像。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076437314323218432/img/aZJsw2d6HSAdorLc.jpg" width="600" alt="真人版伊之助戰鬥場景">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7164)**
+
+**作者:** [猫神MT](https://x.com/nekogami_MT) | **來源:** [Link](https://x.com/nekogami_MT/status/2076437370086527139) | **發布時間:** Jul 12, 2026
+
+---
+### 太空船演唱會衝撞區
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個充滿想像力的科幻場景，描述了一位外星人與一位金髮女性在吵雜的太空船演唱會中，伴隨著煙火的畫面。
+
+#### 📝 提示詞
+
+```
+高大的藍色外星人與一位留著波浪長金髮編織辮子、戴著鑽石耳環與鑽石項鍊、身穿黑色緊身衣的美麗女士，正身處太空船主甲板上吵雜的演唱會衝撞區中，現場還有煙火綻放。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076434901243486208/img/fx8rIBSkXwZuHgwX.jpg" width="600" alt="太空船演唱會衝撞區">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7170)**
+
+**作者:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **來源:** [Link](https://x.com/blarneytrades/status/2076435045926031796) | **發布時間:** Jul 12, 2026
+
+---
+### 池畔鳳梨可樂達視角
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段第一人稱視角的影片提示詞，呈現某人手持飲品在池畔，並帶有太陽眼鏡濾鏡效果。
+
+#### 📝 提示詞
+
+```
+從池畔拍攝的攝影機視角，模擬手持鳳梨可樂達的人的視角，場景帶有太陽眼鏡的濾鏡色調
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076322997862817793/img/9JwN9k9LSY3U0H1x.jpg" width="600" alt="池畔鳳梨可樂達視角">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7169)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2076323062832660878) | **發布時間:** Jul 12, 2026
+
+---
+### 柔和電影感人像動態
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個高度細緻的影片提示詞，用於創作具有細微動作（如髮絲飄動、自然眨眼及溫暖微笑）的電影感人像。
+
+#### 📝 提示詞
+
+```
+柔和電影感人像動態：她金色的長髮在微風中輕輕飄動，她自然地眨眼並露出溫暖的淺笑，琥珀色的雙眸捕捉著漫射光。細微的呼吸感，淺景深效果，優雅而寧靜...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076272285762416640/img/BjJT775QrAAyJIXe.jpg" width="600" alt="柔和電影感人像動態">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7163)**
+
+**作者:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **來源:** [Link](https://x.com/AnnetteHollerWe/status/2076272344570667216) | **發布時間:** Jul 12, 2026
+
+---
+### 海豚海洋紀錄片素材
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段海洋紀錄片風格的影片提示詞，呈現海豚在金色陽光下向岸邊游去的畫面。
+
+#### 📝 提示詞
+
+```
+海豚穩定地向前游向遠方的沙岸，水面泛起輕柔的漣漪，金色陽光灑落，平靜的海洋，海洋紀錄片素材。美好的一天從現在開始。 🐬🦞
+```
+
+<img src="https://cms-assets.youmind.com/media/1783931843539_afa46i_HNBjT3ia0AAGDLy.jpg" width="600" alt="海豚海洋紀錄片素材">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7165)**
+
+**作者:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **來源:** [Link](https://x.com/AnnetteHollerWe/status/2076268696474104007) | **發布時間:** Jul 12, 2026
+
+---
+### 韓國住宅區氛圍
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 此提示詞可建立一段連貫的電影感影片，呈現寧靜的韓國住宅區，重點在於狹窄巷弄、低矮房屋與露台。
+
+#### 📝 提示詞
+
+```
+在整段影片中保持一致的身分、服裝、髮型與外觀。場景：平靜上午時分的道地韓國住宅區。狹窄的混凝土巷弄、低矮房屋、小型露台、盆栽與晾曬的衣物
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076204329359331328/img/u0JkrxwIap0pblAd.jpg" width="600" alt="韓國住宅區氛圍">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7166)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2076204407729824032) | **發布時間:** Jul 12, 2026
+
+---
+### 玫瑰花瓣下的夜景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段以月光下的夜景為主題的影片提示詞，包含松樹、螢火蟲與飄落的玫瑰花瓣。
+
+#### 📝 提示詞
+
+```
+滿月、雲朵、松樹、螢火蟲、草地
+加入從天而降的粉色與紅色玫瑰花瓣
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076181751546978304/img/Godn6f1Q8X0t4h1O.jpg" width="600" alt="玫瑰花瓣下的夜景">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7167)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2076181829221286088) | **發布時間:** Jul 12, 2026
+
+---
+### 栩栩如生的貓咪動畫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一份詳細的攝影級虎斑貓動畫提示詞，包含呼吸與眨眼等細微動作。
+
+#### 📝 提示詞
+
+```
+細膩逼真的動畫：虎斑貓輕柔地呼吸，胸部隨之微微起伏，耳朵抽動一下，綠色的眼睛緩慢眨動，鬍鬚輕微顫動，尾巴尖端柔和地擺動。攝影機保持穩定的低角度拍攝。自然日光，攝影級質感。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076144050173034496/img/q6lkJuEh0K8BtFI6.jpg" width="600" alt="栩栩如生的貓咪動畫">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7168)**
+
+**作者:** [Sangcjeol Lee](https://x.com/sangcjeol) | **來源:** [Link](https://x.com/sangcjeol/status/2076144105319706898) | **發布時間:** Jul 12, 2026
+
+---
 ### 太空殖民地住宅
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2029,177 +2201,6 @@ Youman，
 **作者:** [Christian Kierulf](https://x.com/ChristianKieru1) | **來源:** [Link](https://x.com/ChristianKieru1/status/2071293887357018535) | **發布時間:** Jun 28, 2026
 
 ---
-### 小貓在雪中玩耍
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段關於小貓在雪花中跳躍的詳細描述性提示詞，包含電影級的攝影機運鏡。
-
-#### 📝 提示詞
-
-```
-毛茸茸的小貓頑皮地跳躍，用前爪拍打著飄落的雪花，在厚厚的積雪中揮舞，尾巴因興奮而微微抽動。細雪持續飄落，攝影機保持穩定的中景鏡頭，並伴隨細膩的緩慢推進。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071292994314264577/img/zp7RX3Yjf71_afrn.jpg" width="600" alt="小貓在雪中玩耍">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6591)**
-
-**作者:** [grok_imagine_free_user](https://x.com/FreeGrokUser) | **來源:** [Link](https://x.com/FreeGrokUser/status/2071293051084120502) | **發布時間:** Jun 28, 2026
-
----
-### Tesla Optimus 機器人引導團隊
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段電影感十足的影片提示詞，描繪多台 Tesla Optimus 機器人站在一起，引導團隊朝正確方向前進。
-
-#### 📝 提示詞
-
-```
-團隊加入了許多其他的 Tesla Optimus 機器人，牠們圍繞在團隊身邊，協助引導他們朝正確的方向前進。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071218685004382208/img/vu_YCh7uxGKIGN4v.jpg" width="600" alt="Tesla Optimus 機器人引導團隊">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6592)**
-
-**作者:** [Joe Hogan](https://x.com/JoeHoganJr) | **來源:** [Link](https://x.com/JoeHoganJr/status/2071218760829071770) | **發布時間:** Jun 28, 2026
-
----
-### 實用型機器人森林清理
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個高度細緻的影片提示詞，描述機器人使用開山刀清理森林灌木叢，並驚動了一隻短尾貓。
-
-#### 📝 提示詞
-
-```
-一個身披磨損橄欖綠裝甲的人形實用型機器人，正在陽光斑駁的森林邊緣用一把大開山刀清理茂密的灌木叢。揮刀動作進行到一半，穿過糾結的灌木，樹葉四處飛散；在分開的枝葉間，一隻緊張的短尾貓正壓低身體，耳朵向後貼，金色的……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071122100564508672/img/c4Cd2x9QeKqLRyJD.jpg" width="600" alt="實用型機器人森林清理">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6586)**
-
-**作者:** [Jean](https://x.com/SpaceScoutsIntl) | **來源:** [Link](https://x.com/SpaceScoutsIntl/status/2071122156583571904) | **發布時間:** Jun 28, 2026
-
----
-### 太空學習中心成果發表影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段詳細的影片提示詞，描繪了一群孩子在學習中心分享太空主題藝術品與繪畫的場景。
-
-#### 📝 提示詞
-
-```
-在太空學習中心的成果發表會上，站在小舞台上的孩子輕輕舉起紙火箭，與坐在銀河地毯上的朋友們交談；附近的孩子們揮舞著他們的行星畫作和閃亮星星吊飾，紛紛舉手排隊分享他們的作品。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071104793569816576/img/uN0w0sAmBWrP697z.jpg" width="600" alt="太空學習中心成果發表影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6587)**
-
-**作者:** [Christina Mieloszyk](https://x.com/Stina_Lotus) | **來源:** [Link](https://x.com/Stina_Lotus/status/2071104897047527577) | **發布時間:** Jun 28, 2026
-
----
-### 機甲怪獸互動影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段電影級的影片提示詞，描述一隻機甲怪獸蜥蜴傾斜軀幹並在廢墟中呼吸的場景。
-
-#### 📝 提示詞
-
-```
-直立的蜥蜴機甲怪獸緩慢地將沉重的軀幹向前傾斜，輕柔地將裝甲腹部呈現給鏡頭，裝甲板上有細微的呼吸起伏，彷彿在邀請觸碰——背景為平靜的黃昏廢墟，鏡頭緩慢推進。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071102594282647552/img/bG9x_bzWimQ31Upc.jpg" width="600" alt="機甲怪獸互動影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6588)**
-
-**作者:** [ガトル](https://x.com/sakana_no_sippo) | **來源:** [Link](https://x.com/sakana_no_sippo/status/2071102648502387106) | **發布時間:** Jun 28, 2026
-
----
-### 安地斯神鷲飛行電影感畫面
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個用於生成安地斯神鷲飛越山脈超寫實特寫鏡頭的電影感影片提示詞。
-
-#### 📝 提示詞
-
-```
-安地斯神鷲飛越安地斯山脈的超寫實特寫場景。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071082468061360128/img/cvL7JHWeU0Qp06jP.jpg" width="600" alt="安地斯神鷲飛行電影感畫面">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6564)**
-
-**作者:** [Mario Nawfal](https://x.com/MarioNawfal) | **來源:** [Link](https://x.com/MarioNawfal/status/2071100026772971840) | **發布時間:** Jun 28, 2026
-
----
-### 深夜新聞主播
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份詳細的影片提示詞，用於拍攝新聞主播在攝影棚內的電影感長鏡頭，並包含具體的燈光指導。
-
-#### 📝 提示詞
-
-```
-單一長鏡頭。一位新聞主播坐在昏暗的深夜廣播攝影棚內，桌前是一張精緻的主播台。冷藍色的主光，搭配來自鏡頭外螢幕的柔和琥珀色輪廓光。主播正處於播報段落中，面前整齊地擺放著文件。新聞主播正...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071078793536487424/img/PXsbqWG82QPA_CcP.jpg" width="600" alt="深夜新聞主播">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6590)**
-
-**作者:** [michael Rozyla](https://x.com/ineverhad1) | **來源:** [Link](https://x.com/ineverhad1/status/2071078843331334538) | **發布時間:** Jun 28, 2026
-
----
-### 復古 CRT 宣言海報
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個創造復古未來主義氛圍的影片提示詞，以電影般的推鏡效果呈現一張宣言海報，並帶有掃描線與磷光特效。
-
-#### 📝 提示詞
-
-```
-以電影般的節奏緩慢推鏡至宣言海報。CRT 掃描線細微地漂移，磷光綠色的邊緣光澤如同舊式螢幕般輕柔閃爍。字體保持清晰易讀。呈現午夜抗議傳單的氛圍，動作克制，不添加新文字，不包含任何標誌。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070952039459274752/img/eckA5IgOFuPQwTzY.jpg" width="600" alt="復古 CRT 宣言海報">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6562)**
-
-**作者:** [David Herbert Thomas](https://x.com/Diabach1972) | **來源:** [Link](https://x.com/Diabach1972/status/2070952100410872189) | **發布時間:** Jun 27, 2026
-
----
-### 女子漫步於向日葵花田
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段電影質感的影片提示詞：一位穿著白色連身裙的女子在微風中漫步於向日葵花田。
-
-#### 📝 提示詞
-
-```
-超寫實的特寫鏡頭：一位美麗的女子穿著漂亮的白色連身裙，在微風吹拂下漫步於向日葵花田。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070883239917711360/img/06wbHnBCrTE_afO9.jpg" width="600" alt="女子漫步於向日葵花田">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6560)**
-
-**作者:** [Mario Nawfal](https://x.com/MarioNawfal) | **來源:** [Link](https://x.com/MarioNawfal/status/2070902475238818282) | **發布時間:** Jun 27, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2261,6 +2262,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-07-13T07:45:45.228Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-07-13T11:36:29.301Z</sub>
 
 </div>

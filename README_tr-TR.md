@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2084** |
+| 📝 Total Prompts | **2093** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-13** |
 
@@ -189,6 +189,178 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Unutulmuş Düşler Kütüphanesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Unutulmuş düşlerin parlayan kristal kitapların içinde korunduğu, ruhani ve büyülü bir kütüphane sahnesi.
+
+#### 📝 Prompt
+
+```
+Sonsuz bir kütüphane, insanlığın unuttuğu her düşü saklıyor. Bu düşler, birine yeniden ilham vermek için bekleyen kristal kitapların içinde hafifçe parlıyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073669518388334592/img/OxWSXP4uE0UQvKus.jpg" width="600" alt="Unutulmuş Düşler Kütüphanesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7171)**
+
+**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2076454307344379943) | **Published:** Jul 12, 2026
+
+---
+### Canlı Aksiyon Inosuke Dövüş Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Demon Slayer'dan Inosuke'nin orman ortamında dinamik dövüş hareketleri sergilediği bir canlı aksiyon versiyonunu oluşturmak için tasarlanmış sinematik bir istem.
+
+#### 📝 Prompt
+
+```
+Ormanda tam hızla koşarken, dönerek takla atarken ve vahşi bir çift kılıçlı bitirici vuruş yaparken. Efsanevi bir canavar savaşçıdan esinlenilmiş, sinematik bir canlı aksiyon yapay zeka rekreasyonu.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076437314323218432/img/aZJsw2d6HSAdorLc.jpg" width="600" alt="Canlı Aksiyon Inosuke Dövüş Sahnesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7164)**
+
+**Author:** [猫神MT](https://x.com/nekogami_MT) | **Source:** [Link](https://x.com/nekogami_MT/status/2076437370086527139) | **Published:** Jul 12, 2026
+
+---
+### Uzay Gemisi Konseri Moshpit
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gürültülü bir uzay gemisi konserinde havai fişekler eşliğinde bir uzaylı ve sarışın bir kadının yer aldığı yaratıcı bir bilim kurgu sahnesi.
+
+#### 📝 Prompt
+
+```
+Uzun boylu mavi bir uzaylı ve örgülü, uzun dalgalı sarı saçlı, elmas küpeli, elmas kolyeli ve siyah bir tulum giyen güzel bir kadın, uzay gemisinin ana güvertesinde havai fişeklerin olduğu gürültülü bir konserde mosh pit alanındalar
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076434901243486208/img/fx8rIBSkXwZuHgwX.jpg" width="600" alt="Uzay Gemisi Konseri Moshpit">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7170)**
+
+**Author:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **Source:** [Link](https://x.com/blarneytrades/status/2076435045926031796) | **Published:** Jul 12, 2026
+
+---
+### Havuz Kenarında Piña Colada Bakış Açısı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Havuz kenarında içecek tutan bir kişinin güneş gözlüğü filtresi efektli POV video istemi.
+
+#### 📝 Prompt
+
+```
+Havuz kenarından kamera açısı, piña colada tutan bir kişinin bakış açısı, sahneyi renklendiren güneş gözlüğü filtresi
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076322997862817793/img/9JwN9k9LSY3U0H1x.jpg" width="600" alt="Havuz Kenarında Piña Colada Bakış Açısı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7169)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2076323062832660878) | **Published:** Jul 12, 2026
+
+---
+### Hafif Sinematik Portre Hareketi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Saçların dalgalanması, doğal göz kırpma ve sıcak bir gülümseme gibi ince hareketler içeren sinematik bir portre için oldukça detaylı bir video istemi.
+
+#### 📝 Prompt
+
+```
+Hafif sinematik portre hareketi: uzun sarı saçları hafif bir esintideymiş gibi nazikçe dalgalanıyor, doğal bir şekilde göz kırpıyor ve hafif, sıcak bir gülümseme sunuyor; kehribar rengi gözleri dağılmış ışığı yakalıyor. Hafif nefes alışverişi, sığ alan derinliği, zarif ve sakin...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076272285762416640/img/BjJT775QrAAyJIXe.jpg" width="600" alt="Hafif Sinematik Portre Hareketi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7163)**
+
+**Author:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **Source:** [Link](https://x.com/AnnetteHollerWe/status/2076272344570667216) | **Published:** Jul 12, 2026
+
+---
+### Yunus Deniz Belgeseli Görüntüleri
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Altın rengi güneş ışığı altında kıyıya doğru yüzen bir yunusu konu alan, deniz belgeseli tarzında bir video istemi.
+
+#### 📝 Prompt
+
+```
+Yunus, uzak kumsala doğru istikrarlı bir şekilde ilerliyor, su yüzeyinde hafif bir iz bırakıyor, altın rengi güneş ışığı, sakin okyanus, belgesel tarzı deniz görüntüleri. Günaydın. 🐬🦞
+```
+
+<img src="https://cms-assets.youmind.com/media/1783931843539_afa46i_HNBjT3ia0AAGDLy.jpg" width="600" alt="Yunus Deniz Belgeseli Görüntüleri">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7165)**
+
+**Author:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **Source:** [Link](https://x.com/AnnetteHollerWe/status/2076268696474104007) | **Published:** Jul 12, 2026
+
+---
+### Kore Yerleşim Bölgesi Atmosferi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bu istem, dar sokaklara, alçak katlı evlere ve teraslara odaklanarak sessiz bir Kore mahallesinin tutarlı ve sinematik bir gezintisini oluşturur.
+
+#### 📝 Prompt
+
+```
+Video boyunca tutarlı bir kimlik, kıyafet, saç stili ve görünüm koruyun. Konum: Sakin bir sabahın geç saatlerinde otantik bir Kore yerleşim bölgesi. Dar beton sokaklar, alçak katlı evler, küçük teraslar, saksı bitkileri, çamaşırlar
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076204329359331328/img/u0JkrxwIap0pblAd.jpg" width="600" alt="Kore Yerleşim Bölgesi Atmosferi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7166)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2076204407729824032) | **Published:** Jul 12, 2026
+
+---
+### Gül Yapraklarıyla Gece Manzarası
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Çam ağaçları, ateş böcekleri ve düşen gül yapraklarının yer aldığı, ay ışığıyla aydınlanan bir gece sahnesi için video istemi.
+
+#### 📝 Prompt
+
+```
+Dolunay, bulutlar, çam ağaçları, ateş böcekleri, çimenlik alan
+Gökyüzünden düşen pembe ve kırmızı gül yaprakları ekle
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076181751546978304/img/Godn6f1Q8X0t4h1O.jpg" width="600" alt="Gül Yapraklarıyla Gece Manzarası">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7167)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2076181829221286088) | **Published:** Jul 12, 2026
+
+---
+### Gerçekçi Kedi Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Nefes alma ve göz kırpma gibi ince hareketlere sahip, fotogerçekçi bir tekir kedi için detaylı animasyon istemi.
+
+#### 📝 Prompt
+
+```
+İnce ve gerçekçi animasyon: tekir kedi hafifçe nefes alıyor, göğsü hafifçe yükseliyor, kulakları bir kez seğiriyor, yeşil gözleri yavaşça kırpılıyor, bıyıkları hafifçe titriyor, kuyruk ucu yumuşakça sallanıyor. Kamera sabit, düşük açıda. Doğal gün ışığı, fotogerçekçi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076144050173034496/img/q6lkJuEh0K8BtFI6.jpg" width="600" alt="Gerçekçi Kedi Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7168)**
+
+**Author:** [Sangcjeol Lee](https://x.com/sangcjeol) | **Source:** [Link](https://x.com/sangcjeol/status/2076144105319706898) | **Published:** Jul 12, 2026
+
+---
 ### Uzay Kolonisi Konutları
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2029,177 +2201,6 @@ Kapüşonlu ve mavi kasklı siborg grafiti sanatçısı, tuğla duvardaki parlay
 **Author:** [Christian Kierulf](https://x.com/ChristianKieru1) | **Source:** [Link](https://x.com/ChristianKieru1/status/2071293887357018535) | **Published:** Jun 28, 2026
 
 ---
-### Karda Oynayan Yavru Kedi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sinematik kamera hareketleriyle kar tanelerinin arasında zıplayan bir yavru kedinin yer aldığı video için detaylı betimleyici komut.
-
-#### 📝 Prompt
-
-```
-Tüylü yavru kedi, heyecanla kuyruğunu sallayarak havada uçuşan kar tanelerine doğru neşeyle zıplıyor ve ön patileriyle taze karların arasında oyun oynuyor. Hafif kar yağışı devam ederken, kamera sabit bir orta çekimde duruyor ve hafif bir yavaş yakınlaştırma (slow push-in) yapıyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071292994314264577/img/zp7RX3Yjf71_afrn.jpg" width="600" alt="Karda Oynayan Yavru Kedi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6591)**
-
-**Author:** [grok_imagine_free_user](https://x.com/FreeGrokUser) | **Source:** [Link](https://x.com/FreeGrokUser/status/2071293051084120502) | **Published:** Jun 28, 2026
-
----
-### Tesla Optimus Robotları Rehberlik Grubu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir grup insana doğru yolu göstermek için bir araya gelen çok sayıda Tesla Optimus robotunu konu alan sinematik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Gruba, onlara doğru yolu göstermeye yardımcı olmak için etraflarında duran birçok başka Tesla Optimus robotu katılıyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071218685004382208/img/vu_YCh7uxGKIGN4v.jpg" width="600" alt="Tesla Optimus Robotları Rehberlik Grubu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6592)**
-
-**Author:** [Joe Hogan](https://x.com/JoeHoganJr) | **Source:** [Link](https://x.com/JoeHoganJr/status/2071218760829071770) | **Published:** Jun 28, 2026
-
----
-### Hizmet Robotu Orman Temizliği
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir robotun palayla orman çalılıklarını temizlediği ve bir vaşağı şaşırttığı, oldukça detaylı bir video istemi.
-
-#### 📝 Prompt
-
-```
-Güneş ışığı alan bir orman kıyısında, yıpranmış zeytin yeşili kaplamalı insansı bir hizmet robotu, büyük bir palayla yoğun çalılıkları temizliyor. Dolaşık çalıların arasından savrulan pala, yapraklar havada uçuşuyor; aralanan bitki örtüsünün içinde gergin bir vaşak, kulakları geriye yatık, altın rengi...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071122100564508672/img/c4Cd2x9QeKqLRyJD.jpg" width="600" alt="Hizmet Robotu Orman Temizliği">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6586)**
-
-**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2071122156583571904) | **Published:** Jun 28, 2026
-
----
-### Uzay Öğrenme Merkezi Göster ve Anlat Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir öğrenme merkezinde uzay temalı sanat eserlerini ve çizimlerini paylaşan bir grup çocuğu betimleyen detaylı bir video istemi.
-
-#### 📝 Prompt
-
-```
-Uzay öğrenme merkezindeki göster ve anlat etkinliğinde, küçük sahnedeki çocuk galaksi desenli halıdaki arkadaşlarıyla konuşurken elindeki kağıttan roketi nazikçe havaya kaldırıyor; yakındaki çocuklar gezegen çizimlerini ve parıltılı yıldız süslerini sallıyor, yaptıkları çalışmaları paylaşmak için sırayla ellerini kaldırıyorlar.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071104793569816576/img/uN0w0sAmBWrP697z.jpg" width="600" alt="Uzay Öğrenme Merkezi Göster ve Anlat Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6587)**
-
-**Author:** [Christina Mieloszyk](https://x.com/Stina_Lotus) | **Source:** [Link](https://x.com/Stina_Lotus/status/2071104897047527577) | **Published:** Jun 28, 2026
-
----
-### Meka Kaiju Etkileşim Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gövdesini eğen ve harabeler içinde nefes alan bir meka kaiju kertenkelesini betimleyen sinematik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Dik duran kertenkele meka kaiju, ağır gövdesini yavaşça öne doğru eğiyor ve zırhlı karnını nazikçe kameraya doğru sunuyor; plakalardaki hafif nefes alma hareketi dokunmaya davet ediyor—sakin bir gün batımı harabesi, yumuşak bir kamera yakınlaşması.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071102594282647552/img/bG9x_bzWimQ31Upc.jpg" width="600" alt="Meka Kaiju Etkileşim Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6588)**
-
-**Author:** [ガトル](https://x.com/sakana_no_sippo) | **Source:** [Link](https://x.com/sakana_no_sippo/status/2071102648502387106) | **Published:** Jun 28, 2026
-
----
-### And Dağları Kondoru Uçuş Sinematiği
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> And Dağları üzerinde uçan bir kondorun ultra gerçekçi yakın çekimini oluşturmak için sinematik bir video istemi.
-
-#### 📝 Prompt
-
-```
-And Dağları üzerinde uçan bir kondorun ultra gerçekçi yakın çekim sahnesi.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071082468061360128/img/cvL7JHWeU0Qp06jP.jpg" width="600" alt="And Dağları Kondoru Uçuş Sinematiği">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6564)**
-
-**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2071100026772971840) | **Published:** Jun 28, 2026
-
----
-### Gece Haber Bülteni Sunucusu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir stüdyodaki haber sunucusunun, belirli ışıklandırma talimatlarıyla çekilmiş sinematik ve kesintisiz bir videosu için detaylı bir video istemi.
-
-#### 📝 Prompt
-
-```
-Tek plan, kesintisiz çekim. Bir haber sunucusu, loş bir gece haber stüdyosunda, cilalı bir haber masasının arkasında oturuyor. Soğuk mavi ana ışık, kamera dışındaki monitörlerden gelen yumuşak kehribar rengi kenar ışığı. Haber bülteninin ortasındalar, önlerinde kağıtları düzgünce hizalanmış. Haber sunucusu s...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071078793536487424/img/PXsbqWG82QPA_CcP.jpg" width="600" alt="Gece Haber Bülteni Sunucusu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6590)**
-
-**Author:** [michael Rozyla](https://x.com/ineverhad1) | **Source:** [Link](https://x.com/ineverhad1/status/2071078843331334538) | **Published:** Jun 28, 2026
-
----
-### Retro CRT Manifesto Posteri
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Tarama çizgileri ve fosfor parıltısı efektlerine sahip, bir manifesto posterine sinematik bir yakınlaşma ile retro-fütüristik bir atmosfer yaratan video istemi.
-
-#### 📝 Prompt
-
-```
-Manifesto posterine yavaş sinematik yakınlaşma. CRT tarama çizgileri hafifçe kayıyor, fosfor yeşili kenar parıltısı eski bir monitör gibi nazikçe yanıp sönüyor. Tipografi keskin ve okunabilir kalıyor. Gece yarısı protesto bildirisi havası, kontrollü hareket, yeni metin yok, logo yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070952039459274752/img/eckA5IgOFuPQwTzY.jpg" width="600" alt="Retro CRT Manifesto Posteri">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6562)**
-
-**Author:** [David Herbert Thomas](https://x.com/Diabach1972) | **Source:** [Link](https://x.com/Diabach1972/status/2070952100410872189) | **Published:** Jun 27, 2026
-
----
-### Ayçiçeği Tarlasında Yürüyen Kadın
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Hafif bir esinti eşliğinde ayçiçeği tarlasında yürüyen beyaz yazlık elbiseli bir kadının yer aldığı sinematik video istemi.
-
-#### 📝 Prompt
-
-```
-Hafif bir esintiyle ayçiçeği tarlasında yürüyen, güzel beyaz yazlık elbiseli bir kadının ultra gerçekçi yakın plan sahnesi.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070883239917711360/img/06wbHnBCrTE_afO9.jpg" width="600" alt="Ayçiçeği Tarlasında Yürüyen Kadın">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6560)**
-
-**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2070902475238818282) | **Published:** Jun 27, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2261,6 +2262,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-13T07:46:07.940Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-13T11:36:52.303Z</sub>
 
 </div>

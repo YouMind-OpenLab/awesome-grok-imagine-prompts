@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2084** |
+| 📝 Total Prompts | **2093** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-13** |
 
@@ -189,6 +189,178 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Library of Forgotten Dreams
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An ethereal and magical library scene where forgotten dreams are preserved inside glowing crystal books.
+
+#### 📝 Prompt
+
+```
+An endless library stores every dream humanity has forgotten. They glow softly inside crystal books waiting to inspire someone again.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073669518388334592/img/OxWSXP4uE0UQvKus.jpg" width="600" alt="Library of Forgotten Dreams">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7171)**
+
+**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2076454307344379943) | **Published:** Jul 12, 2026
+
+---
+### Live-Action Inosuke Combat Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic prompt designed to create a live-action version of Inosuke from Demon Slayer performing dynamic combat moves in a forest setting.
+
+#### 📝 Prompt
+
+```
+Charging at full speed through the forest, leaping into a spinning flip, and unleashing a fierce dual-blade finishing strike. A cinematic live-action AI recreation inspired by a legendary beast warrior.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076437314323218432/img/aZJsw2d6HSAdorLc.jpg" width="600" alt="Live-Action Inosuke Combat Scene">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7164)**
+
+**Author:** [猫神MT](https://x.com/nekogami_MT) | **Source:** [Link](https://x.com/nekogami_MT/status/2076437370086527139) | **Published:** Jul 12, 2026
+
+---
+### Spaceship Concert Moshpit
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An imaginative sci-fi scene involving an alien and a blonde woman at a loud spaceship concert with fireworks.
+
+#### 📝 Prompt
+
+```
+Tall blue alien and beautiful lady with long wavy blonde hair in braids with diamond earrings a diamond necklace wearing a black catsuit are in the mosh pit at a loud concert with fireworks on the main deck of the spaceship
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076434901243486208/img/fx8rIBSkXwZuHgwX.jpg" width="600" alt="Spaceship Concert Moshpit">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7170)**
+
+**Author:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **Source:** [Link](https://x.com/blarneytrades/status/2076435045926031796) | **Published:** Jul 12, 2026
+
+---
+### Poolside Pina Colada Perspective
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A POV video prompt of a person holding a drink poolside with a sunglasses filter effect.
+
+#### 📝 Prompt
+
+```
+Camera view from poolside, perspective from a person holding a piña colada, sunglasses filter tinting the scene
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076322997862817793/img/9JwN9k9LSY3U0H1x.jpg" width="600" alt="Poolside Pina Colada Perspective">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7169)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2076323062832660878) | **Published:** Jul 12, 2026
+
+---
+### Gentle Cinematic Portrait Motion
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed video prompt for a cinematic portrait featuring subtle movements like hair swaying, natural blinking, and a warm smile.
+
+#### 📝 Prompt
+
+```
+Gentle cinematic portrait motion: her long blonde hair sways softly as if in a light breeze, she blinks naturally and offers a slight warm smile, amber brown eyes catching the diffused light. Subtle breathing, shallow depth of field, elegant and calm...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076272285762416640/img/BjJT775QrAAyJIXe.jpg" width="600" alt="Gentle Cinematic Portrait Motion">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7163)**
+
+**Author:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **Source:** [Link](https://x.com/AnnetteHollerWe/status/2076272344570667216) | **Published:** Jul 12, 2026
+
+---
+### Dolphin Marine Documentary Footage
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A marine documentary style video prompt featuring a dolphin swimming toward a shore under golden sunlight.
+
+#### 📝 Prompt
+
+```
+Dolphin swims steadily forward toward the distant sandy shore, gentle wake at the surface, golden sunlight, calm ocean, documentary marine footage. Rise and shine. 🐬🦞
+```
+
+<img src="https://cms-assets.youmind.com/media/1783931843539_afa46i_HNBjT3ia0AAGDLy.jpg" width="600" alt="Dolphin Marine Documentary Footage">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7165)**
+
+**Author:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **Source:** [Link](https://x.com/AnnetteHollerWe/status/2076268696474104007) | **Published:** Jul 12, 2026
+
+---
+### Korean Residential Neighborhood Atmosphere
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> This prompt creates a consistent cinematic walkthrough of a quiet Korean neighborhood, focusing on narrow alleys, low-rise homes, and terraces.
+
+#### 📝 Prompt
+
+```
+Maintain consistent identity, clothing, hairstyle, and appearance throughout the entire video. Location: Authentic Korean residential neighborhood during a calm late morning. Narrow concrete alleys, low-rise homes, small terraces, potted plants, laundry
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076204329359331328/img/u0JkrxwIap0pblAd.jpg" width="600" alt="Korean Residential Neighborhood Atmosphere">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7166)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2076204407729824032) | **Published:** Jul 12, 2026
+
+---
+### Night Landscape with Rose Petals
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt for a moonlit night scene featuring pine trees, lightning bugs, and falling rose petals.
+
+#### 📝 Prompt
+
+```
+Full moon clouds pines trees lightning bugs grassy area
+Add pink and red rose petals falling from sky
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076181751546978304/img/Godn6f1Q8X0t4h1O.jpg" width="600" alt="Night Landscape with Rose Petals">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7167)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2076181829221286088) | **Published:** Jul 12, 2026
+
+---
+### Lifelike Cat Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed animation prompt for a photorealistic tabby cat featuring subtle movements like breathing and blinking.
+
+#### 📝 Prompt
+
+```
+Subtle lifelike animation: the tabby cat breathes gently with slight chest rise, ears twitch once, green eyes blink slowly, whiskers quiver faintly, tail tip sways softly. Camera holds steady low angle. Natural daylight, photoreal.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076144050173034496/img/q6lkJuEh0K8BtFI6.jpg" width="600" alt="Lifelike Cat Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7168)**
+
+**Author:** [Sangcjeol Lee](https://x.com/sangcjeol) | **Source:** [Link](https://x.com/sangcjeol/status/2076144105319706898) | **Published:** Jul 12, 2026
+
+---
 ### Space Colony Housing
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2011,177 +2183,6 @@ Desert sandboarding motion, the couch silky smooth slides downhill to the right,
 **Author:** [Christian Kierulf](https://x.com/ChristianKieru1) | **Source:** [Link](https://x.com/ChristianKieru1/status/2071293887357018535) | **Published:** Jun 28, 2026
 
 ---
-### Kitten Playing in Snow
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed descriptive prompt for a video of a kitten leaping through snowflakes with cinematic camera movements.
-
-#### 📝 Prompt
-
-```
-The fluffy kitten playfully leaps and paws at drifting snowflakes, batting with its front paws through the fresh snow, tail twitching with excitement. Gentle snowfall continues, camera holds a steady medium shot with subtle slow push-in.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071292994314264577/img/zp7RX3Yjf71_afrn.jpg" width="600" alt="Kitten Playing in Snow">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6591)**
-
-**Author:** [grok_imagine_free_user](https://x.com/FreeGrokUser) | **Source:** [Link](https://x.com/FreeGrokUser/status/2071293051084120502) | **Published:** Jun 28, 2026
-
----
-### Tesla Optimus Robots Guiding Group
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt featuring multiple Tesla Optimus robots standing together to guide a group in the right direction.
-
-#### 📝 Prompt
-
-```
-The group is joined by many other Tesla Optimus robots that stand around the group to help guide them in the proper direction
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071218685004382208/img/vu_YCh7uxGKIGN4v.jpg" width="600" alt="Tesla Optimus Robots Guiding Group">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6592)**
-
-**Author:** [Joe Hogan](https://x.com/JoeHoganJr) | **Source:** [Link](https://x.com/JoeHoganJr/status/2071218760829071770) | **Published:** Jun 28, 2026
-
----
-### Utility Robot Forest Clearance
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed video prompt for a robot clearing forest brush with a machete, surprising a bobcat.
-
-#### 📝 Prompt
-
-```
-A humanoid utility robot in worn olive-green plating clears dense underbrush with a large machete in a sun-dappled forest edge. Mid-action swing through tangled bushes, leaves flying; in the parted foliage a tense bobcat crouches low, ears back, gold...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071122100564508672/img/c4Cd2x9QeKqLRyJD.jpg" width="600" alt="Utility Robot Forest Clearance">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6586)**
-
-**Author:** [Jean](https://x.com/SpaceScoutsIntl) | **Source:** [Link](https://x.com/SpaceScoutsIntl/status/2071122156583571904) | **Published:** Jun 28, 2026
-
----
-### Space Learning Center Show and Tell Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed video prompt depicting a group of children sharing space-themed art and drawings at a learning center.
-
-#### 📝 Prompt
-
-```
-At the space learning center show-and-tell, the child on the little stage gently lifts a paper rocket while talking to friends on the galaxy rug; nearby kids wave their planet drawings and a glitter star mobile, hands raised to take turns sharing what they made.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071104793569816576/img/uN0w0sAmBWrP697z.jpg" width="600" alt="Space Learning Center Show and Tell Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6587)**
-
-**Author:** [Christina Mieloszyk](https://x.com/Stina_Lotus) | **Source:** [Link](https://x.com/Stina_Lotus/status/2071104897047527577) | **Published:** Jun 28, 2026
-
----
-### Mecha Kaiju Interaction Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt describing a mecha kaiju lizard tilting its torso and breathing in ruins.
-
-#### 📝 Prompt
-
-```
-The upright lizard mecha kaiju slowly tilts its heavy torso forward and gently presents its armored belly toward the camera, subtle breathing motion in the plates, inviting a touch—calm dusk ruins, soft camera push-in.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071102594282647552/img/bG9x_bzWimQ31Upc.jpg" width="600" alt="Mecha Kaiju Interaction Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6588)**
-
-**Author:** [ガトル](https://x.com/sakana_no_sippo) | **Source:** [Link](https://x.com/sakana_no_sippo/status/2071102648502387106) | **Published:** Jun 28, 2026
-
----
-### Andean Condor Flight Cinematic
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt for generating an ultra-realistic close-up of an Andean condor in flight over the mountain range.
-
-#### 📝 Prompt
-
-```
-Ultra-realistic close-up scene of an Andean condor flying over the Andes Mountains.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071082468061360128/img/cvL7JHWeU0Qp06jP.jpg" width="600" alt="Andean Condor Flight Cinematic">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6564)**
-
-**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2071100026772971840) | **Published:** Jun 28, 2026
-
----
-### Late Night News Reader
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed video prompt for a cinematic continuous take of a newsreader in a studio with specific lighting directions.
-
-#### 📝 Prompt
-
-```
-Single continuous take. A newsreader sits behind a polished anchor desk in a dim, late-night broadcast studio. Cold blue key light, soft amber rim light from off-camera monitors. They are mid-segment, papers squared in front of them. The newsreader s...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071078793536487424/img/PXsbqWG82QPA_CcP.jpg" width="600" alt="Late Night News Reader">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6590)**
-
-**Author:** [michael Rozyla](https://x.com/ineverhad1) | **Source:** [Link](https://x.com/ineverhad1/status/2071078843331334538) | **Published:** Jun 28, 2026
-
----
-### Retro CRT Manifesto Poster
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video prompt creating a retro-futuristic mood with a cinematic push-in on a manifesto poster, featuring scanlines and phosphor glow effects.
-
-#### 📝 Prompt
-
-```
-Slow cinematic push-in on the manifesto poster. CRT scanlines drift subtly, phosphor green edge glow pulses gently like an old monitor. Typography stays sharp and readable. Midnight protest flyer mood, restrained motion, no new text, no logos.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070952039459274752/img/eckA5IgOFuPQwTzY.jpg" width="600" alt="Retro CRT Manifesto Poster">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6562)**
-
-**Author:** [David Herbert Thomas](https://x.com/Diabach1972) | **Source:** [Link](https://x.com/Diabach1972/status/2070952100410872189) | **Published:** Jun 27, 2026
-
----
-### Woman Walking in Sunflowers
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A realistic video prompt of a woman in a white sundress walking through a sunflower field under a gentle breeze.
-
-#### 📝 Prompt
-
-```
-Ultra-realistic close-up scene of a beautiful woman in a beautiful white sundress walking through a field of sunflowers with a gentle breeze.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070883239917711360/img/06wbHnBCrTE_afO9.jpg" width="600" alt="Woman Walking in Sunflowers">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6560)**
-
-**Author:** [Mario Nawfal](https://x.com/MarioNawfal) | **Source:** [Link](https://x.com/MarioNawfal/status/2070902475238818282) | **Published:** Jun 27, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2243,6 +2244,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-13T07:45:41.565Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-13T11:36:26.458Z</sub>
 
 </div>

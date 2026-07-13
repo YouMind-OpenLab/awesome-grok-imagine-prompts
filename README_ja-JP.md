@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2084** |
+| 📝 プロンプト総数 | **2093** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-07-13** |
 
@@ -189,6 +189,178 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### 忘れられた夢の図書館
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 忘れ去られた夢が光り輝くクリスタルの本の中に保存されている、幻想的で魔法のような図書館の光景。
+
+#### 📝 プロンプト
+
+```
+果てしなく続く図書館には、人類が忘れてしまったあらゆる夢が収められています。それらはクリスタルの本の中で柔らかく光を放ち、再び誰かにインスピレーションを与えるその時を待っています。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073669518388334592/img/OxWSXP4uE0UQvKus.jpg" width="600" alt="忘れられた夢の図書館">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7171)**
+
+**作者:** [James King](https://x.com/JamesKi97287119) | **ソース:** [Link](https://x.com/JamesKi97287119/status/2076454307344379943) | **公開日:** Jul 12, 2026
+
+---
+### 実写版 伊之助の戦闘シーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 『鬼滅の刃』の伊之助が森の中でダイナミックな戦闘アクションを繰り広げる、実写版を想定したシネマティックなプロンプトです。
+
+#### 📝 プロンプト
+
+```
+森の中を全速力で駆け抜け、回転しながら跳躍し、猛烈な二刀流の必殺技を繰り出す。伝説の獣の戦士に着想を得た、シネマティックな実写風 AI 再現。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076437314323218432/img/aZJsw2d6HSAdorLc.jpg" width="600" alt="実写版 伊之助の戦闘シーン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7164)**
+
+**作者:** [猫神MT](https://x.com/nekogami_MT) | **ソース:** [Link](https://x.com/nekogami_MT/status/2076437370086527139) | **公開日:** Jul 12, 2026
+
+---
+### 宇宙船コンサートのモッシュピット
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 宇宙船で開催された賑やかなコンサートで、エイリアンとブロンドの女性が花火を楽しむ様子を描いた想像力豊かな SF シーン。
+
+#### 📝 プロンプト
+
+```
+背の高い青いエイリアンと、ダイヤモンドのイヤリングとネックレスを身につけ、黒いキャットスーツを着た、三つ編みの長いウェーブのかかったブロンドヘアの美しい女性が、宇宙船のメインデッキで打ち上がる花火の中、賑やかなコンサートのモッシュピットにいる様子。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076434901243486208/img/fx8rIBSkXwZuHgwX.jpg" width="600" alt="宇宙船コンサートのモッシュピット">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7170)**
+
+**作者:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **ソース:** [Link](https://x.com/blarneytrades/status/2076435045926031796) | **公開日:** Jul 12, 2026
+
+---
+### プールサイドでピニャ・コラーダを楽しむ視点
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> サングラスのフィルター越しに、プールサイドでドリンクを持っている人物の POV 動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+プールサイドからのカメラ視点、ピニャ・コラーダを持っている人物の視点、サングラスのフィルターで色づいた光景
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076322997862817793/img/9JwN9k9LSY3U0H1x.jpg" width="600" alt="プールサイドでピニャ・コラーダを楽しむ視点">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7169)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2076323062832660878) | **公開日:** Jul 12, 2026
+
+---
+### 穏やかなシネマティック・ポートレートの動き
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 髪の揺れ、自然な瞬き、温かい微笑みといった繊細な動きを特徴とする、シネマティック・ポートレートのための高精細なビデオプロンプトです。
+
+#### 📝 プロンプト
+
+```
+穏やかなシネマティック・ポートレートの動き：そよ風に吹かれるように柔らかく揺れる長いブロンドの髪、自然な瞬き、そしてわずかに浮かべる温かい微笑み。琥珀色の瞳が拡散光を捉えている。繊細な呼吸、浅い被写界深度、エレガントで落ち着いた雰囲気...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076272285762416640/img/BjJT775QrAAyJIXe.jpg" width="600" alt="穏やかなシネマティック・ポートレートの動き">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7163)**
+
+**作者:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **ソース:** [Link](https://x.com/AnnetteHollerWe/status/2076272344570667216) | **公開日:** Jul 12, 2026
+
+---
+### イルカの海洋ドキュメンタリー映像
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 黄金色の太陽光の下、海岸に向かって泳ぐイルカを捉えた海洋ドキュメンタリー風の動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+イルカが遠くの砂浜に向かって着実に前進する。水面には穏やかな波紋が広がり、黄金色の太陽光が降り注ぐ。穏やかな海、海洋ドキュメンタリー映像。さあ、輝く朝を。 🐬🦞
+```
+
+<img src="https://cms-assets.youmind.com/media/1783931843539_afa46i_HNBjT3ia0AAGDLy.jpg" width="600" alt="イルカの海洋ドキュメンタリー映像">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7165)**
+
+**作者:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **ソース:** [Link](https://x.com/AnnetteHollerWe/status/2076268696474104007) | **公開日:** Jul 12, 2026
+
+---
+### 韓国の住宅街の雰囲気
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> このプロンプトは、狭い路地、低層住宅、テラスに焦点を当てた、静かな韓国の住宅街を歩く一貫性のあるシネマティックな映像を作成します。
+
+#### 📝 プロンプト
+
+```
+動画全体を通して、人物のアイデンティティ、服装、髪型、外見を維持してください。場所：穏やかな午前遅くの、本格的な韓国の住宅街。コンクリートの狭い路地、低層住宅、小さなテラス、鉢植え、洗濯物
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076204329359331328/img/u0JkrxwIap0pblAd.jpg" width="600" alt="韓国の住宅街の雰囲気">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7166)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2076204407729824032) | **公開日:** Jul 12, 2026
+
+---
+### バラの花びらが舞う夜の風景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 松の木、ホタル、そして舞い落ちるバラの花びらが特徴的な、月夜のシーンのための動画プロンプトです。
+
+#### 📝 プロンプト
+
+```
+満月、雲、松の木、ホタル、草地
+空からピンクと赤のバラの花びらが舞い落ちる様子を追加
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076181751546978304/img/Godn6f1Q8X0t4h1O.jpg" width="600" alt="バラの花びらが舞う夜の風景">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7167)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2076181829221286088) | **公開日:** Jul 12, 2026
+
+---
+### リアルな猫のアニメーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 呼吸や瞬きといった繊細な動きを特徴とする、フォトリアルなトラ猫の緻密なアニメーション用プロンプトです。
+
+#### 📝 プロンプト
+
+```
+繊細でリアルなアニメーション：トラ猫が穏やかに呼吸し、胸がわずかに上下する。耳が一度ピクリと動き、緑色の目がゆっくりと瞬きをする。ひげがかすかに震え、尻尾の先が柔らかく揺れる。カメラはローアングルで固定。自然光、フォトリアル。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076144050173034496/img/q6lkJuEh0K8BtFI6.jpg" width="600" alt="リアルな猫のアニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7168)**
+
+**作者:** [Sangcjeol Lee](https://x.com/sangcjeol) | **ソース:** [Link](https://x.com/sangcjeol/status/2076144105319706898) | **公開日:** Jul 12, 2026
+
+---
 ### スペースコロニーの居住区
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2029,177 +2201,6 @@ A.I. と一緒に夏の雰囲気を感じながらプールサイドでまどろ
 **作者:** [Christian Kierulf](https://x.com/ChristianKieru1) | **ソース:** [Link](https://x.com/ChristianKieru1/status/2071293887357018535) | **公開日:** Jun 28, 2026
 
 ---
-### 雪の中で遊ぶ子猫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 雪の中を跳ね回る子猫を、映画のようなカメラワークで捉えたビデオのための詳細なプロンプト。
-
-#### 📝 プロンプト
-
-```
-ふわふわの子猫が楽しそうに跳ね回り、舞い落ちる雪片に前足でじゃれついています。興奮で尻尾を揺らしながら、新雪の中を駆け回る様子です。穏やかに雪が降り続く中、カメラは安定したミディアムショットを維持し、わずかにゆっくりとズームインしていきます。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071292994314264577/img/zp7RX3Yjf71_afrn.jpg" width="600" alt="雪の中で遊ぶ子猫">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6591)**
-
-**作者:** [grok_imagine_free_user](https://x.com/FreeGrokUser) | **ソース:** [Link](https://x.com/FreeGrokUser/status/2071293051084120502) | **公開日:** Jun 28, 2026
-
----
-### Tesla Optimus ロボットがグループを誘導する様子
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 複数の Tesla Optimus ロボットが並び、グループを正しい方向へ導く様子を描いた映画のようなビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-グループの周囲に多くの Tesla Optimus ロボットが集まり、彼らを正しい方向へ導くためにサポートする様子
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071218685004382208/img/vu_YCh7uxGKIGN4v.jpg" width="600" alt="Tesla Optimus ロボットがグループを誘導する様子">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6592)**
-
-**作者:** [Joe Hogan](https://x.com/JoeHoganJr) | **ソース:** [Link](https://x.com/JoeHoganJr/status/2071218760829071770) | **公開日:** Jun 28, 2026
-
----
-### 汎用ロボットによる森林の草刈り
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> マチェットを使って森林の茂みを刈り払うロボットが、ボブキャットを驚かせる様子を描いた非常に詳細なビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-使い込まれたオリーブグリーンの装甲をまとった人型汎用ロボットが、木漏れ日が差し込む森の端で、大きなマチェットを使って密集した下草を刈り払っている。絡み合った茂みを振り抜く動作の最中で、葉が舞い散る。開かれた茂みの奥では、緊張した様子のボブキャットが耳を伏せて低く身構えており、その黄金色の...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071122100564508672/img/c4Cd2x9QeKqLRyJD.jpg" width="600" alt="汎用ロボットによる森林の草刈り">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6586)**
-
-**作者:** [Jean](https://x.com/SpaceScoutsIntl) | **ソース:** [Link](https://x.com/SpaceScoutsIntl/status/2071122156583571904) | **公開日:** Jun 28, 2026
-
----
-### 宇宙学習センターでの発表会動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 学習センターで子供たちが宇宙をテーマにしたアートや絵を発表する様子を描いた、詳細な動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-宇宙学習センターの発表会で、小さなステージに上がった子供が紙製のロケットを優しく持ち上げ、銀河模様のラグの上にいる友達に話しかけています。その近くでは、他の子供たちが惑星の絵やキラキラした星のモビールを掲げ、順番に自分の作品を発表しようと手を挙げています。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071104793569816576/img/uN0w0sAmBWrP697z.jpg" width="600" alt="宇宙学習センターでの発表会動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6587)**
-
-**作者:** [Christina Mieloszyk](https://x.com/Stina_Lotus) | **ソース:** [Link](https://x.com/Stina_Lotus/status/2071104897047527577) | **公開日:** Jun 28, 2026
-
----
-### メカ怪獣のインタラクション動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 胴体を傾け、廃墟の中で呼吸するメカ怪獣のトカゲを描写した映画のような動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-直立したトカゲ型のメカ怪獣が、重厚な胴体をゆっくりと前方に傾け、装甲に覆われた腹部をカメラに向けて優しく差し出す。プレートが微かに上下する呼吸の動きが、触れ合いを誘うような雰囲気を醸し出す。舞台は静かな夕暮れの廃墟、カメラは緩やかにズームイン。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071102594282647552/img/bG9x_bzWimQ31Upc.jpg" width="600" alt="メカ怪獣のインタラクション動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6588)**
-
-**作者:** [ガトル](https://x.com/sakana_no_sippo) | **ソース:** [Link](https://x.com/sakana_no_sippo/status/2071102648502387106) | **公開日:** Jun 28, 2026
-
----
-### アンデスコンドルの飛行シネマティック
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> アンデスコンドルが山脈の上空を飛行する様子を、超リアルなクローズアップ映像として生成するためのシネマティックなプロンプトです。
-
-#### 📝 プロンプト
-
-```
-アンデス山脈の上空を飛行するアンデスコンドルの超リアルなクローズアップ映像。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071082468061360128/img/cvL7JHWeU0Qp06jP.jpg" width="600" alt="アンデスコンドルの飛行シネマティック">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6564)**
-
-**作者:** [Mario Nawfal](https://x.com/MarioNawfal) | **ソース:** [Link](https://x.com/MarioNawfal/status/2071100026772971840) | **公開日:** Jun 28, 2026
-
----
-### 深夜のニュースキャスター
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> スタジオでニュースキャスターを撮影するシネマティックな長回し映像のための、詳細なビデオプロンプト。照明の指示も含まれています。
-
-#### 📝 プロンプト
-
-```
-ワンカットの長回し。深夜の薄暗い放送スタジオで、洗練されたアンカーデスクの前に座るニュースキャスター。冷たい青色のキーライトと、カメラ外のモニターから放たれる柔らかなアンバー色のリムライト。ニュースの途中であり、目の前には書類が整然と置かれている。ニュースキャスターは...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071078793536487424/img/PXsbqWG82QPA_CcP.jpg" width="600" alt="深夜のニュースキャスター">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6590)**
-
-**作者:** [michael Rozyla](https://x.com/ineverhad1) | **ソース:** [Link](https://x.com/ineverhad1/status/2071078843331334538) | **公開日:** Jun 28, 2026
-
----
-### レトロな CRT マニフェストポスター
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> スキャンラインと蛍光体の発光エフェクトを特徴とする、マニフェストポスターへのシネマティックなプッシュインでレトロフューチャーなムードを演出するビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-マニフェストポスターへのゆっくりとしたシネマティックなプッシュイン。CRT のスキャンラインがかすかに漂い、古いモニターのように蛍光グリーンのエッジが穏やかに明滅する。タイポグラフィはシャープで読みやすい状態を維持。深夜の抗議活動のチラシのような雰囲気で、動きは控えめに。新しいテキストやロゴは追加しない。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070952039459274752/img/eckA5IgOFuPQwTzY.jpg" width="600" alt="レトロな CRT マニフェストポスター">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6562)**
-
-**作者:** [David Herbert Thomas](https://x.com/Diabach1972) | **ソース:** [Link](https://x.com/Diabach1972/status/2070952100410872189) | **公開日:** Jun 27, 2026
-
----
-### ひまわり畑を歩く女性
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 白いサマードレスを着た女性が、そよ風の中ひまわり畑を散策する様子を捉えたシネマティックな動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-美しい白いサマードレスを着た女性が、そよ風に吹かれながらひまわり畑を歩く様子を捉えた、超リアルなクローズアップ映像。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070883239917711360/img/06wbHnBCrTE_afO9.jpg" width="600" alt="ひまわり畑を歩く女性">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6560)**
-
-**作者:** [Mario Nawfal](https://x.com/MarioNawfal) | **ソース:** [Link](https://x.com/MarioNawfal/status/2070902475238818282) | **公開日:** Jun 27, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2261,6 +2262,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-13T07:45:46.912Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-13T11:36:30.975Z</sub>
 
 </div>
