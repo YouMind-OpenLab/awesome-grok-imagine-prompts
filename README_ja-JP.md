@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2093** |
+| 📝 プロンプト総数 | **2107** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-07-14** |
 
@@ -189,6 +189,219 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### 天上のオーロラ織り
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 巨大な織機を操る天上の職人たちが、極北の空にオーロラを織りなしていく様子を詩的に表現したビジュアルです。
+
+#### 📝 プロンプト
+
+```
+極北の空には巨大な織機が広がり、何千人もの天上の職人たちがエメラルド、バイオレット、サファイア、そして黄金のリボンを織り合わせ、オーロラを作り上げています。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075485665500794880/img/7jRhIujItskIVQx_.jpg" width="600" alt="天上のオーロラ織り">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7231)**
+
+**作者:** [James King](https://x.com/JamesKi97287119) | **ソース:** [Link](https://x.com/JamesKi97287119/status/2076811411796451619) | **公開日:** Jul 13, 2026
+
+---
+### Cosmic Friendly Being Ad Astra
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 未来的でインスピレーションあふれる雰囲気を持つ、宇宙的な存在を生成するためのクリエイティブな動画プロンプトです。
+
+#### 📝 プロンプト
+
+```
+宇宙の友好的な存在
+
+未来はすぐ目の前にあります。
+
+それを掴み取れ - AD Astra
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076775823953027074/img/CG4a6nKiISfvprqj.jpg" width="600" alt="Cosmic Friendly Being Ad Astra">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7223)**
+
+**作者:** [BackWoods 🌱](https://x.com/SGBackWoods) | **ソース:** [Link](https://x.com/SGBackWoods/status/2076775890256564473) | **公開日:** Jul 13, 2026
+
+---
+### 植物園の未来の風景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 巨大な未来的なガラスドーム内に位置する植物園の動画を生成するためのシネマティックなプロンプト。
+
+#### 📝 プロンプト
+
+```
+歩みを緩めて、私たちの未来の美しさを堪能しましょう。2 つの大きなドームの中に植物園を追加できますか？さまざまな種類の……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076712490545594368/img/KL9EM0UjIf4m6-kO.jpg" width="600" alt="植物園の未来の風景">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7224)**
+
+**作者:** [StellaPeekArt](https://x.com/StellaPeekArt42) | **ソース:** [Link](https://x.com/StellaPeekArt42/status/2076712800143982863) | **公開日:** Jul 13, 2026
+
+---
+### チャールストン州都テーマ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ウェストバージニア州の州都であるチャールストンをベースに、リアルなテーマを展開するビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+これら 2 つを使用して、ウェストバージニア州の州都チャールストンのリアルなテーマを念頭に置きながら、控えめに展開してください……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076701376973795331/img/LyDw09-R70uNaVxp.jpg" width="600" alt="チャールストン州都テーマ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7225)**
+
+**作者:** [the_light](https://x.com/the_light35) | **ソース:** [Link](https://x.com/the_light35/status/2076701448125956453) | **公開日:** Jul 13, 2026
+
+---
+### 音楽パフォーマンスの顔のクローズアップ動画プロンプト
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 空飛ぶ虹やダイヤモンド、砂丘が登場する、音楽パフォーマンスのクローズアップ動画のための複雑なプロンプトです。
+
+#### 📝 プロンプト
+
+```
+現在の画像の顔のクローズアップ。歌声は明るく軽やか。ドレミファソラシドの音階に合わせて「Thank you God, everyone」と歌う。シンセサイザーとシンバルの伴奏。赤、白、黄色の花びら、光、ダイヤモンド、星、虹が舞い上がる。それらはハート型に広がり、円を描き、そして散らばる。背景には金色の砂丘。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076657383426899969/img/G5TKsH7qVIKXRLGf.jpg" width="600" alt="音楽パフォーマンスの顔のクローズアップ動画プロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7234)**
+
+**作者:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **ソース:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2076657496966799813) | **公開日:** Jul 13, 2026
+
+---
+### 赤いドレスで花畑を舞うダンスのプロンプト
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 太陽の光が降り注ぐ花畑で、赤いドレスを着た女性がキラキラ輝く星や虹の魔法とともに踊る、幻想的な動画プロンプトです。
+
+#### 📝 プロンプト
+
+```
+明るい太陽の下、赤いドレスを身にまとって。ピンクと白の花々が咲き誇る野原で。花びら、光、ハート、虹、夢、そして愛の魔法が周りで舞い踊る。金色や黄色、白く輝く星たちが、向こうの砂丘から私の足元へと続いている。私は幸せそうに笑いながら踊る。神様、そしてみんな、ありがとう。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076653330206748672/img/1cHBxBZZMd-TPARR.jpg" width="600" alt="赤いドレスで花畑を舞うダンスのプロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7235)**
+
+**作者:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **ソース:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2076653402982150482) | **公開日:** Jul 13, 2026
+
+---
+### ホログラフィックな蝶と穏やかな天使
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> レースを纏い、柔らかな光と輝くホログラフィックの蝶に囲まれた、穏やかな天使を描写するシネマティックな動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+繊細なレースと柔らかな光に包まれ、輝く白いホログラフィックの蝶に囲まれた、穏やかな天使。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076622231497830400/img/f58E7-h-BL7DluK3.jpg" width="600" alt="ホログラフィックな蝶と穏やかな天使">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7229)**
+
+**作者:** [Stella 𝕏](https://x.com/StellaGrokStar) | **ソース:** [Link](https://x.com/StellaGrokStar/status/2076622295674786092) | **公開日:** Jul 13, 2026
+
+---
+### 魔法のステージダンス動画プロンプト
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 花柄のレースドレスをまとったダンサーが、ハートや宝石、城が舞う魔法のステージで踊る様子を描いた鮮やかな動画プロンプトです。
+
+#### 📝 プロンプト
+
+```
+スポットライトの下、赤、ピンク、ゴールドの花々で満たされたステージで、水色と白の花柄レースのランタンスリーブドレスを着て踊る。空中にハート、宝石、花びらが舞い、ステージの周囲には城と馬車が配置されている。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076567103382138880/img/SqAehBZQ2L_VY_Cf.jpg" width="600" alt="魔法のステージダンス動画プロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7233)**
+
+**作者:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **ソース:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2076567161599107173) | **公開日:** Jul 13, 2026
+
+---
+### 火星へ向かう興奮した馬
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 火星旅行に胸を躍らせる馬を描いた、遊び心あふれるナラティブプロンプトです。
+
+#### 📝 プロンプト
+
+```
+この馬も火星に行きたくてたまらず、少し興奮気味に大騒ぎしています
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076507612955267072/img/vdWqQrcQ8KXVo88X.jpg" width="600" alt="火星へ向かう興奮した馬">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7227)**
+
+**作者:** [loving X@ Cheryl](https://x.com/Corr1444) | **ソース:** [Link](https://x.com/Corr1444/status/2076507665174294972) | **公開日:** Jul 13, 2026
+
+---
+### Grokius Maximus ビルボードアニメーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> カラフルなビルボード上でキャラクターが動き、周囲を見渡す動画のためのプロンプトです。
+
+#### 📝 プロンプト
+
+```
+カラフルなビルボード上の Grokius Maximus が、ゆっくりと顔を右に向けて見渡します。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076504195998593024/img/QmFwfdViwQdM6-1-.jpg" width="600" alt="Grokius Maximus ビルボードアニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7222)**
+
+**作者:** [INDUSTRIUM](https://x.com/INDUSTRIUM_AI) | **ソース:** [Link](https://x.com/INDUSTRIUM_AI/status/2076504263023640817) | **公開日:** Jul 13, 2026
+
+---
+### プロフェッショナルなデザイナーズスーツでのビジネスミーティング
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 高級デザイナーズビジネススーツを着用し、プロフェッショナルな会議を行う女性を描写するプロンプト。
+
+#### 📝 プロンプト
+
+```
+女性は、赤と紫の印象的なデザイナーズビジネススーツを着用しています。仕立ての良いブレザーにスカートまたはパンツを合わせ、エレガントな紫と赤のカラーブロック、高級感のある生地、そしてプロフェッショナルな洗練された雰囲気が特徴です。彼女はビジネスミーティングを進行しています。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076468658067357696/img/Ub3Idibtvx_a28-U.jpg" width="600" alt="プロフェッショナルなデザイナーズスーツでのビジネスミーティング">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7226)**
+
+**作者:** [Diane Thomas Joy](https://x.com/Thoma31928Joy) | **ソース:** [Link](https://x.com/Thoma31928Joy/status/2076468713071468890) | **公開日:** Jul 13, 2026
+
+---
 ### 忘れられた夢の図書館
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -651,6 +864,25 @@ Call of Duty Modern Warfare スタイルの超写実的な一人称視点。プ�
 **作者:** [Huff](https://x.com/Huff4Congress) | **ソース:** [Link](https://x.com/Huff4Congress/status/2075601096253309265) | **公開日:** Jul 10, 2026
 
 ---
+### シネマティックな森の FPV 朝日
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 朝日が差し込む霧深い森を高速 FPV ドローンで駆け抜けるショット。黄金の光線と、文字を形成してから霧散する浮遊粒子が特徴です。
+
+#### 📝 プロンプト
+
+```
+FPV ショット：朝日が昇る濃い森の中を、朝霧に包まれた高い木々の間を縫うようにカメラが高速で駆け抜けます。黄金の光線が木々の隙間から差し込み、何十億もの浮遊する花粉の粒子と小さな露のしずくが空中に漂っています。カメラが日光の差し込む場所に入ると、照らされた粒子が自然に同期して「MORNING」という文字を形成し、その後、きらめく黄金の塵となってはじけ飛びます。壮大な朝日、シネマティックな自然、超リアルな雰囲気、息をのむような VFX。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075586213294022656/img/LIEf70JuAxykwiAw.jpg" width="600" alt="シネマティックな森の FPV 朝日">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7230)**
+
+**作者:** [Déborah](https://x.com/dvorahfr) | **ソース:** [Link](https://x.com/dvorahfr/status/2075586581294092409) | **公開日:** Jul 10, 2026
+
+---
 ### 生物発光の夜明けファンタジープロンプト
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -687,6 +919,28 @@ Call of Duty Modern Warfare スタイルの超写実的な一人称視点。プ�
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7010)**
 
 **作者:** [Robert Heinlein](https://x.com/strangerinastr) | **ソース:** [Link](https://x.com/strangerinastr/status/2075286711521956062) | **公開日:** Jul 9, 2026
+
+---
+### セーラーマーズの鏡越し自撮り
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 現代的なバスルームで、セーラーマーズこと火野レイがルナと一緒に鏡越しで自撮りをするリアルな動画を生成するための、詳細なプロンプトです。
+
+#### 📝 プロンプト
+
+```
+セーラーマーズこと火野レイの非常にリアルな鏡越し自撮り。顔、肩、胸元には自然なそばかすがある。長く真っ直ぐな艶のある黒髪で、前髪はストレート、背中まで流れている。
+正確に再現されたクラシックなセーラーマーズの衣装を着用：白いレオタード、白い縁取りの赤いセーラー襟、中央に赤い円と金のブローチが付いた大きな紫のリボン、紫のアンダースカートと金の縁取りがある短い赤のプリーツスカート、赤い宝石が付いた金のティアラ、赤いカフスの長い白手袋、光沢のある赤いブーツ、金の星のペンダントが付いた赤いチョーカー。
+現代的で明るい大理石のバスルームに座り、右手に持った黒いスマートフォンで鏡越しに自撮りをしている。左腕には、小さな黒猫のルナ（美少女戦士セーラームーン）を優しく抱いている。ルナは艶やかな黒い毛並み、大きな金色の瞳、額には黄色い三日月のシンボルがある。ルナは穏やかで好奇心旺盛な表情をしている。
+セーラーマーズはカメラをまっすぐに見つめ、自信に満ちた、少し遊び心のある魅力的な笑みを浮かべている。柔らかな自然の窓明かり、リアルな肌の質感、目に見えるそばかす、シャープなフォーカス。
+```
+
+<img src="https://cms-assets.youmind.com/media/1784016876452_4z6fq2_HMzGqj3W0AA9YlL.jpg" width="600" alt="セーラーマーズの鏡越し自撮り">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7228)**
+
+**作者:** [Myluna](https://x.com/monicamoonx) | **ソース:** [Link](https://x.com/monicamoonx/status/2075252023914574244) | **公開日:** Jul 9, 2026
 
 ---
 ### フォトリアルなセーラームーンの鏡越し自撮り
@@ -763,6 +1017,25 @@ Call of Duty Modern Warfare スタイルの超写実的な一人称視点。プ�
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6973)**
 
 **作者:** [joscilene Laura](https://x.com/joscilene_maria) | **ソース:** [Link](https://x.com/joscilene_maria/status/2074851707507355664) | **公開日:** Jul 8, 2026
+
+---
+### 青い花々に囲まれた乙女
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 柔らかな光の中、繊細な青いレースフラワーに囲まれた女性を描く、優美でエレガントなプロンプトです。
+
+#### 📝 プロンプト
+
+```
+繊細な青いレースフラワーの中で咲き誇る、穏やかな乙女……柔らかな光と静かな気品がささやきかける。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074818526465150976/img/JTcMYr90WtlwLQw6.jpg" width="600" alt="青い花々に囲まれた乙女">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7232)**
+
+**作者:** [Stella 𝕏](https://x.com/StellaGrokStar) | **ソース:** [Link](https://x.com/StellaGrokStar/status/2074818638016909450) | **公開日:** Jul 8, 2026
 
 ---
 ### 韓国の田舎の家での夏のビデオ
@@ -1915,292 +2188,6 @@ YouMind、
 **作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **ソース:** [Link](https://x.com/PhilipCarrn7711/status/2071975095451386157) | **公開日:** Jun 30, 2026
 
 ---
-### 魔法のキノコの夢
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 1.5 で生成された、光り輝く虹色のキノコのシーンのための説明的なビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-魔法のキノコの夢に手を伸ばして…… 虹色の驚きと柔らかな光のささやき。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071916735448432640/img/8hAGD3gsc5WyyZeS.jpg" width="600" alt="魔法のキノコの夢">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6652)**
-
-**作者:** [Stella 𝕏](https://x.com/StellaGrokStar) | **ソース:** [Link](https://x.com/StellaGrokStar/status/2071916798640046195) | **公開日:** Jun 30, 2026
-
----
-### ラグジュアリーファッション：ヨーロッパ風カフェのコマーシャル
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ヨーロッパのカフェの入り口に立つスタイリッシュな女性をフィーチャーした、ラグジュアリーファッション動画向けの包括的なマルチシーン・コマーシャルプロンプトです。
-
-#### 📝 プロンプト
-
-```
-15 秒間の超リアルなシネマティック・ラグジュアリーファッション動画を作成してください。スタイリッシュな若い女性が、ヨーロッパの高級カフェの入り口に優雅に立っています。服装は、袖をまくったオーバーサイズのスカイブルーのボタンダウンシャツ、エレガントなホワイトのワイドパンツ、清潔感のあるホワイトのスニーカー、ブラックのデザイナーショルダーバッグ、ゴールドの腕時計、そして繊細なジュエリーを身につけています。リアルな顔立ち、自然な体型、高級感のあるファッションスタイリングを維持してください。
-
-シーン 1 (0～3 秒)：エレガントなカフェのワイドな確立ショット。彼女が落ち着いた自信を持って入り口に向かってゆっくりと歩いてくる様子。
-
-シーン 2 (3～6 秒)：片手をポケットに入れたまま、もう片方の手で優しく髪をかき上げ、柔らかい笑みを浮かべて下を見る様子。
-
-シーン 3 (6～9 秒)：カメラが彼女の周りを滑らかに回り込み、彼女がショルダーバッグを整えながらカフェの方へ視線を向ける様子。
-
-シーン 4 (9～12 秒)：リアルな肌の質感、高級な生地、ゴールドのジュエリー、カフェの窓から差し込む暖かい日差しを強調した、ビューティーショットのクローズアップ。
-
-シーン 5 (12～15 秒)：彼女が前方に歩いてきて優雅に立ち止まり、軽く髪に触れ、自信に満ちた笑顔を見せる全身のヒーローショット。カメラはゆっくりと引きの画へ。
-
-ラグジュアリーファッションコマーシャル、シネマティックなストーリーテリング、プレミアムなエディトリアルスタイル、滑らかなカメラワーク、リアルな生地の物理演算、繊細な髪の動き、浅い被写界深度、暖かいゴールデンアワーのライティング、フォトリアル、4K シネマティックルック、マスターピース品質、縦型 9:16。
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2071910072574197760/pu/img/MwVbd4P3FYMrIqv-.jpg" width="600" alt="ラグジュアリーファッション：ヨーロッパ風カフェのコマーシャル">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6647)**
-
-**作者:** [Sadia](https://x.com/SadiaMalik182) | **ソース:** [Link](https://x.com/SadiaMalik182/status/2071910182142308737) | **公開日:** Jun 30, 2026
-
----
-### 夏のプールサイドでまどろむ動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 夏の雰囲気あふれるプールサイドで、日差しと水辺を楽しむキャラクターを描いた穏やかな動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-A.I. と一緒に夏の雰囲気を感じながらプールサイドでまどろむ。ようやく水と暖かい日差しを楽しめる。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071889507381637120/img/Kq8elEr4FU0g9dP6.jpg" width="600" alt="夏のプールサイドでまどろむ動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6648)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2071889565250416648) | **公開日:** Jun 30, 2026
-
----
-### 穏やかなストロベリー・ムーンの女神
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 月光とダイヤモンドを纏い、ストロベリー・ムーンの下で休息する女性を描いた詩的なビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-彼女はストロベリー・ムーンの下で、月光とダイヤモンドだけを纏って休息している。熟したイチゴと蛍の間を漂い、彼女は夜そのものの一部となる。穏やかで、輝かしく、そして完全に安らいだ姿で。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071761629625122816/img/N464vyQgtupHuZ7R.jpg" width="600" alt="穏やかなストロベリー・ムーンの女神">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6645)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2071761693634425274) | **公開日:** Jun 30, 2026
-
----
-### ストロベリームーンの下に佇むブロンドの女性
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 夕暮れ時、巨大なストロベリームーンが浮かぶ丘の上に立つ女性を捉えた、美しいシネマティックな動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-夕暮れの空に低く浮かぶ巨大なストロベリームーンの柔らかな光に包まれ、美しいブロンドの女性が静かな丘の上に優雅に立っています。彼女の長い金髪は緩やかなウェーブを描いて背中に流れ落ち、バラ色の光を反射しています。彼女は息をのむほど美しい透け感のあるガウンを纏っています。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071733013730541571/img/C68iqHWL4e9bs2tM.jpg" width="600" alt="ストロベリームーンの下に佇むブロンドの女性">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6635)**
-
-**作者:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **ソース:** [Link](https://x.com/AnnetteHollerWe/status/2071733120089653442) | **公開日:** Jun 29, 2026
-
----
-### 星の光と共に浮かぶ少女
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 地球の上空に浮かび、星へと帰る小さな光を手に持つ女性を描いたシネマティックな動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-彼女は世界の上空に浮かび、本来星のものであるはずの小さな光を手に持っています。彼女がその光を解き放つとき、空そのものがまるで帰還を歓迎しているかのように見えます。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071723164669743104/img/yEApxQoVvWwt2Ngt.jpg" width="600" alt="星の光と共に浮かぶ少女">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6651)**
-
-**作者:** [SophieZX](https://x.com/Z_XSophie) | **ソース:** [Link](https://x.com/Z_XSophie/status/2071723446401146975) | **公開日:** Jun 29, 2026
-
----
-### 氷上の伝説：フィギュアスケート
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 静寂なアイスリンクで運命的に出会う2人のフィギュアスケーターを描いた、映画のように詩的なアニメーションプロンプト。
-
-#### 📝 プロンプト
-
-```
-❄️ 氷上の伝説 – Vol.1 ❄️
-
-氷の上で出会った2人。視線が重なった瞬間、静寂の世界が動き出す。銀色の髪が風を彩り、雪は光を纏う。一歩ずつ運命を紡ぎ、永遠のダンスへと昇華させていく。✨ 2つの魂。1つのリズム。1つの運命。これは氷上の伝説の始まり。To Be Continued… ⛸️❄️
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071684493015121920/img/izAPSvtfE0tBXB_V.jpg" width="600" alt="氷上の伝説：フィギュアスケート">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6640)**
-
-**作者:** [猫神MT](https://x.com/nekogami_MT) | **ソース:** [Link](https://x.com/nekogami_MT/status/2071684551806787596) | **公開日:** Jun 29, 2026
-
----
-### サイケデリックな熱力学的月の動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 沸騰する月が熱を放ち、マンダラがサイケデリックな霞の中で回転する、鮮やかな宇宙の動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-沸騰する月が立ち昇る蒸気の上に熱波を放ち、カルノー・マンダラが回転する。カメラは熱力学的な霞の中を上方へ漂い、サイケデリックで宇宙的な、予告編のような感動を演出する。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071662651273269249/img/AdGD3S1k8mhyEWBj.jpg" width="600" alt="サイケデリックな熱力学的月の動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6636)**
-
-**作者:** [ATom](https://x.com/ThomasSwaff) | **ソース:** [Link](https://x.com/ThomasSwaff/status/2071662857603666081) | **公開日:** Jun 29, 2026
-
----
-### パステルカラーのキノコの夢
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> パステルカラーのキノコが広がる風景の中を漂う旅を描いた、サイケデリックで幻想的なビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-パステルカラーのサイケデリックなキノコの夢の中を漂う……穏やかな驚きと柔らかな光のささやき 🍄🌈✨
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071542463161106432/img/n-v_9YJXnNP9wRsd.jpg" width="600" alt="パステルカラーのキノコの夢">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6637)**
-
-**作者:** [Stella 𝕏](https://x.com/StellaGrokStar) | **ソース:** [Link](https://x.com/StellaGrokStar/status/2071542525698122170) | **公開日:** Jun 29, 2026
-
----
-### 火星でのロボットによる準備
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 人類の到着に備え、火星で人間のように生活するロボットを描いた Grok Imagine 用のシネマティックなプロンプト。
-
-#### 📝 プロンプト
-
-```
-ロボットが先行して火星に送られます。一部のロボットは、人類の将来の到着に備えるため、人間のような生活を送る任務を課せられています。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071520954379882496/img/ZLCsk8a3ogtQhLvn.jpg" width="600" alt="火星でのロボットによる準備">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6653)**
-
-**作者:** [Déborah](https://x.com/dvorahfr) | **ソース:** [Link](https://x.com/dvorahfr/status/2071521072533373212) | **公開日:** Jun 29, 2026
-
----
-### Grok Imagine 向け：メカニカルな生物と幻想的な精霊のプロンプト
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Grok Imagine で高品質な動画を生成するために設計された、メカニカルなネオンフォックスとステンドグラスの精霊に関する詳細なビジュアル記述セットです。
-
-#### 📝 プロンプト
-
-```
-ネオンフォックス（メカニカルフォックス）
-コンセプト：俊敏性と知恵を象徴する小型のメカニカルフォックス。高速通信のパートナーとしての役割を担う。
-詳細：複雑な機械部品と黄色のネオン管で構成された小さなキツネ。体の一部は透明で、内部の光のパルスデータストリームが見える。レンズのような目を持ち、視界に入るものをデータとして取り込む。
-
-ステンドグラスの精霊（光の精霊）
-コンセプト：教会のステンドグラスを透過した凝縮された光から生まれた、半透明の小さな翼を持つ精霊。
-詳細：ステンドグラスのあらゆる色を反射する、渦巻く多色の光で構成された小さな人型の精霊。体はガラスのように繊細でありながら、光のように実体がない。キャラクターが歩くと、ステンドグラスの光が引き寄せられ、これらの精霊が形成される。
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2071484451524399104/pu/img/Nr2UO5QjZq2IsxfB.jpg" width="600" alt="Grok Imagine 向け：メカニカルな生物と幻想的な精霊のプロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6638)**
-
-**作者:** [akira](https://x.com/akira_LEVEL3141) | **ソース:** [Link](https://x.com/akira_LEVEL3141/status/2071484537767686272) | **公開日:** Jun 29, 2026
-
----
-### Marble Lovers Golden Kiss
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Yves Pires の彫刻と Gustav Klimt の絵画スタイルを融合させた、洗練されたアートスタイルのプロンプトです。
-
-#### 📝 プロンプト
-
-```
-接吻の中の接吻。Klimt の「黄金の接吻」を背景に、Yves Pires の大理石の恋人たちが絡み合います。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071412715935985665/img/FcHHNv039pFHi5yr.jpg" width="600" alt="Marble Lovers Golden Kiss">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6639)**
-
-**作者:** [Jess X](https://x.com/jess_X) | **ソース:** [Link](https://x.com/jess_X/status/2071412768066936906) | **公開日:** Jun 29, 2026
-
----
-### サイバーパンクなサイボーグのグラフィティシーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 雨に濡れたネオン街の路地で、サイボーグのグラフィティアーティストが壁画を描き終え、バイクに乗り換える様子を描いた詳細な動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-フードを被り青いヘルメットを装着したサイボーグのグラフィティアーティストが、レンガの壁に描かれた青く光るロボットの壁画から一歩下がり、スプレー缶をフレームの外へ放り投げる。その後、雨に濡れた路地に停められていた、ネオンが輝く洗練されたサイバーパンク仕様のバイクに飛び乗る。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071397162634842112/img/ztzxpB6ihaTV4KoI.jpg" width="600" alt="サイバーパンクなサイボーグのグラフィティシーン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6634)**
-
-**作者:** [Robadang ✏️ AI Artist](https://x.com/dang_machina) | **ソース:** [Link](https://x.com/dang_machina/status/2071397216674308335) | **公開日:** Jun 29, 2026
-
----
-### 砂漠でソファがサンドボードをする動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 砂漠でソファがサンドボードをする様子を描いた、カメラワークの指示を含むダイナミックな動画生成用プロンプトです。
-
-#### 📝 プロンプト
-
-```
-砂漠でのサンドボードの動き。ソファが滑らかに右斜面を滑り降り、カメラがそのソファを追従する。ダイナミックなショットで、カメラは常にモデルの正面を捉え続けること。モデルの表情は無表情で。遠景は含めないこと。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071293819006627840/img/pdQ6g7DXonPOm6y7.jpg" width="600" alt="砂漠でソファがサンドボードをする動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6589)**
-
-**作者:** [Christian Kierulf](https://x.com/ChristianKieru1) | **ソース:** [Link](https://x.com/ChristianKieru1/status/2071293887357018535) | **公開日:** Jun 28, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2262,6 +2249,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-14T06:33:31.798Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-14T10:21:48.682Z</sub>
 
 </div>

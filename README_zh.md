@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **2093** |
+| 📝 提示词总数 | **2107** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-07-14** |
 
@@ -189,6 +189,219 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 天穹极光编织
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一幅极具诗意的视觉画面：天界工匠们使用巨大的织布机，在极地天空中编织出绚丽的北极光。
+
+#### 📝 提示词
+
+```
+巨大的织布机横跨极地天空，成千上万的天界工匠在此将翡翠绿、紫罗兰、蓝宝石和金色的丝带编织成绚烂的极光。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075485665500794880/img/7jRhIujItskIVQx_.jpg" width="600" alt="天穹极光编织">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7231)**
+
+**作者:** [James King](https://x.com/JamesKi97287119) | **来源:** [Link](https://x.com/JamesKi97287119/status/2076811411796451619) | **发布时间:** Jul 13, 2026
+
+---
+### Cosmic Friendly Being Ad Astra
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个创意视频提示词，旨在生成具有未来感和励志氛围的宇宙生物。
+
+#### 📝 提示词
+
+```
+友好的宇宙生物
+
+未来就在你眼前。
+
+把握它 —— AD Astra
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076775823953027074/img/CG4a6nKiISfvprqj.jpg" width="600" alt="Cosmic Friendly Being Ad Astra">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7223)**
+
+**作者:** [BackWoods 🌱](https://x.com/SGBackWoods) | **来源:** [Link](https://x.com/SGBackWoods/status/2076775890256564473) | **发布时间:** Jul 13, 2026
+
+---
+### 植物园未来景观
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于生成大型未来主义玻璃穹顶内植物园视频的电影级提示词。
+
+#### 📝 提示词
+
+```
+放慢脚步，尽情享受我们未来的美好，你能否在 2 个大型穹顶内添加一个植物园？各种不同的种类……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076712490545594368/img/KL9EM0UjIf4m6-kO.jpg" width="600" alt="植物园未来景观">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7224)**
+
+**作者:** [StellaPeekArt](https://x.com/StellaPeekArt42) | **来源:** [Link](https://x.com/StellaPeekArt42/status/2076712800143982863) | **发布时间:** Jul 13, 2026
+
+---
+### 查尔斯顿首府城市主题
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个基于西弗吉尼亚州首府查尔斯顿，旨在开发写实风格主题的视频提示词。
+
+#### 📝 提示词
+
+```
+请使用这两个元素，并以西弗吉尼亚州首府查尔斯顿的写实主题为核心，进行适度的扩展开发……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076701376973795331/img/LyDw09-R70uNaVxp.jpg" width="600" alt="查尔斯顿首府城市主题">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7225)**
+
+**作者:** [the_light](https://x.com/the_light35) | **来源:** [Link](https://x.com/the_light35/status/2076701448125956453) | **发布时间:** Jul 13, 2026
+
+---
+### 音乐人脸特写视频提示词
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一个用于制作音乐表演特写视频的复杂提示词，包含飞舞的彩虹、钻石和沙丘等元素。
+
+#### 📝 提示词
+
+```
+当前图像的人脸特写。歌声明亮轻快。演唱“Thank you God, everyone”，音阶为 Do-Re-Mi-Fa-So-La-Ti-Do。配乐包含合成器和镲片。红色、白色和黄色的花瓣、光芒、钻石、星星和彩虹向上飞舞。它们汇聚成心形，形成圆圈，随后散开。背景为金色的沙丘。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076657383426899969/img/G5TKsH7qVIKXRLGf.jpg" width="600" alt="音乐人脸特写视频提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7234)**
+
+**作者:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **来源:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2076657496966799813) | **发布时间:** Jul 13, 2026
+
+---
+### 红裙花海舞蹈提示词
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一个充满魔力的视频提示词：一位身穿红裙的女子在阳光明媚的花海中翩翩起舞，伴随着闪烁的星光与彩虹魔法。
+
+#### 📝 提示词
+
+```
+身穿红裙，沐浴在明媚阳光下。置身于一片粉白相间的花海之中。花瓣、光影、爱心、彩虹、梦境以及爱的魔法在周围舞动。闪烁的金色、黄色和白色星光从远处的沙丘一直延伸到我的脚下。我开心地笑着，翩翩起舞。感谢上帝，感谢所有人。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076653330206748672/img/1cHBxBZZMd-TPARR.jpg" width="600" alt="红裙花海舞蹈提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7235)**
+
+**作者:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **来源:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2076653402982150482) | **发布时间:** Jul 13, 2026
+
+---
+### 宁静天使与全息蝴蝶
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个电影级视频提示词，描述了一位身着蕾丝、被柔光与闪烁的全息蝴蝶环绕的宁静天使。
+
+#### 📝 提示词
+
+```
+一位宁静的天使，身着精致的蕾丝，沐浴在柔和的光芒中，周围环绕着闪烁的白色全息蝴蝶。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076622231497830400/img/f58E7-h-BL7DluK3.jpg" width="600" alt="宁静天使与全息蝴蝶">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7229)**
+
+**作者:** [Stella 𝕏](https://x.com/StellaGrokStar) | **来源:** [Link](https://x.com/StellaGrokStar/status/2076622295674786092) | **发布时间:** Jul 13, 2026
+
+---
+### 梦幻舞台舞蹈视频提示词
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一个充满活力的视频提示词，描绘了一位身着花卉蕾丝裙的舞者在充满飞舞爱心、宝石和城堡的梦幻舞台上翩翩起舞。
+
+#### 📝 提示词
+
+```
+在聚光灯下，身着浅蓝色和白色花卉蕾丝灯笼袖连衣裙的舞者在布满红、粉、金三色花朵的舞台上起舞。爱心、宝石和花瓣在空中飞舞，舞台周围环绕着城堡和马车。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076567103382138880/img/SqAehBZQ2L_VY_Cf.jpg" width="600" alt="梦幻舞台舞蹈视频提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7233)**
+
+**作者:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **来源:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2076567161599107173) | **发布时间:** Jul 13, 2026
+
+---
+### 兴奋的马儿奔向火星
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个关于马儿对前往火星感到兴奋的趣味叙事提示词。
+
+#### 📝 提示词
+
+```
+这匹马也想去火星，因为它太兴奋了，所以表现得有些躁动不安
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076507612955267072/img/vdWqQrcQ8KXVo88X.jpg" width="600" alt="兴奋的马儿奔向火星">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7227)**
+
+**作者:** [loving X@ Cheryl](https://x.com/Corr1444) | **来源:** [Link](https://x.com/Corr1444/status/2076507665174294972) | **发布时间:** Jul 13, 2026
+
+---
+### Grokius Maximus 广告牌动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段视频提示词，展示了一个在彩色广告牌上的角色正在移动并四处张望。
+
+#### 📝 提示词
+
+```
+彩色广告牌上的 Grokius Maximus 缓慢转动头部，看向右侧。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076504195998593024/img/QmFwfdViwQdM6-1-.jpg" width="600" alt="Grokius Maximus 广告牌动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7222)**
+
+**作者:** [INDUSTRIUM](https://x.com/INDUSTRIUM_AI) | **来源:** [Link](https://x.com/INDUSTRIUM_AI/status/2076504263023640817) | **发布时间:** Jul 13, 2026
+
+---
+### 身着专业设计师套装的商务会议
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段描述女性身着奢华设计师商务套装主持专业会议的提示词。
+
+#### 📝 提示词
+
+```
+这位女性身着一套引人注目的红紫色设计师商务套装——剪裁考究的西装外套搭配半身裙或长裤，采用优雅的红紫色撞色设计，面料奢华，尽显专业风范。她正在主持一场商务会议。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076468658067357696/img/Ub3Idibtvx_a28-U.jpg" width="600" alt="身着专业设计师套装的商务会议">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7226)**
+
+**作者:** [Diane Thomas Joy](https://x.com/Thoma31928Joy) | **来源:** [Link](https://x.com/Thoma31928Joy/status/2076468713071468890) | **发布时间:** Jul 13, 2026
+
+---
 ### 被遗忘的梦境图书馆
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -651,6 +864,25 @@ Ultra photorealistic first-person view in Call of Duty Modern Warfare style, pla
 **作者:** [Huff](https://x.com/Huff4Congress) | **来源:** [Link](https://x.com/Huff4Congress/status/2075601096253309265) | **发布时间:** Jul 10, 2026
 
 ---
+### 电影感森林 FPV 日出
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段高速 FPV 无人机镜头，穿梭于日出时分雾气缭绕的森林中，金色的光束与漂浮的微粒汇聚成文字后随之消散。
+
+#### 📝 提示词
+
+```
+FPV 镜头：摄像机在日出时分穿过茂密的森林，在晨雾笼罩的参天大树间穿梭。金色的光束穿透树冠，数以亿计的漂浮花粉微粒和细小的露珠在空气中飘荡。摄像机进入一束阳光中，被照亮的微粒自然同步，汇聚成“MORNING”字样，随后化作一阵闪烁的金色尘埃四散开来。史诗般的日出，电影级自然风光，超写实氛围，令人惊叹的视觉特效。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075586213294022656/img/LIEf70JuAxykwiAw.jpg" width="600" alt="电影感森林 FPV 日出">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7230)**
+
+**作者:** [Déborah](https://x.com/dvorahfr) | **来源:** [Link](https://x.com/dvorahfr/status/2075586581294092409) | **发布时间:** Jul 10, 2026
+
+---
 ### 生物发光黎明奇幻提示词
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -687,6 +919,28 @@ Ultra photorealistic first-person view in Call of Duty Modern Warfare style, pla
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7010)**
 
 **作者:** [Robert Heinlein](https://x.com/strangerinastr) | **来源:** [Link](https://x.com/strangerinastr/status/2075286711521956062) | **发布时间:** Jul 9, 2026
+
+---
+### 火野丽（Sailor Mars）镜面自拍
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于生成高质量视频的详细提示词，描绘了火野丽（Sailor Mars）在现代浴室中与露娜（Luna）进行镜面自拍的写实场景。
+
+#### 📝 提示词
+
+```
+火野丽（Sailor Mars）的高写实镜面自拍，面部、肩部和胸部带有自然的雀斑。她留着一头乌黑亮丽的长直发，直刘海垂下，长发披在背后。
+她穿着还原度极高的经典 Sailor Mars 制服：白色紧身衣，带有白色滚边的红色水手领，巨大的紫色蝴蝶结，中心饰有红色圆形装饰和金色胸针，红色短款百褶裙，内衬为紫色并带有金色滚边，佩戴带有红色宝石的金色头饰，长款白色手套配红色袖口，闪亮的红色长靴，以及带有金色星星吊坠的红色颈圈。
+她坐在明亮的现代大理石浴室里，右手拿着一部黑色智能手机进行镜面自拍。左臂轻轻抱着一只黑色小猫——来自《美少女战士》的露娜（Luna），它有着闪亮的黑色皮毛、金色大眼睛，额头上有一个黄色新月符号。露娜看起来既平静又好奇。
+Sailor Mars 直视镜头，露出了自信、略带俏皮且迷人的微笑。柔和的自然窗光，真实的皮肤质感，清晰可见的雀斑，画面焦点锐利。
+```
+
+<img src="https://cms-assets.youmind.com/media/1784016876452_4z6fq2_HMzGqj3W0AA9YlL.jpg" width="600" alt="火野丽（Sailor Mars）镜面自拍">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7228)**
+
+**作者:** [Myluna](https://x.com/monicamoonx) | **来源:** [Link](https://x.com/monicamoonx/status/2075252023914574244) | **发布时间:** Jul 9, 2026
 
 ---
 ### 写实风格美少女战士镜面自拍
@@ -763,6 +1017,25 @@ Ultra photorealistic first-person view in Call of Duty Modern Warfare style, pla
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6973)**
 
 **作者:** [joscilene Laura](https://x.com/joscilene_maria) | **来源:** [Link](https://x.com/joscilene_maria/status/2074851707507355664) | **发布时间:** Jul 8, 2026
+
+---
+### 蓝花丛中的少女
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个柔和而优雅的提示词，描绘了一位被精致的蓝色蕾丝花朵环绕的女性形象，并配以柔和的灯光。
+
+#### 📝 提示词
+
+```
+一位温柔的少女在精致的蓝色蕾丝花丛中绽放……轻柔的微光与静谧的优雅在低语。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074818526465150976/img/JTcMYr90WtlwLQw6.jpg" width="600" alt="蓝花丛中的少女">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7232)**
+
+**作者:** [Stella 𝕏](https://x.com/StellaGrokStar) | **来源:** [Link](https://x.com/StellaGrokStar/status/2074818638016909450) | **发布时间:** Jul 8, 2026
 
 ---
 ### 韩国乡村民居夏日视频
@@ -1915,292 +2188,6 @@ Youman，
 **作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **来源:** [Link](https://x.com/PhilipCarrn7711/status/2071975095451386157) | **发布时间:** Jun 30, 2026
 
 ---
-### 神奇蘑菇之梦
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段由 Grok Imagine 1.5 生成的描述性视频提示词，呈现了发光且带有虹彩效果的蘑菇场景。
-
-#### 📝 提示词
-
-```
-触碰一场神奇的蘑菇之梦……耳畔回响着虹彩奇迹的低语，伴随着柔和的微光。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071916735448432640/img/8hAGD3gsc5WyyZeS.jpg" width="600" alt="神奇蘑菇之梦">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6652)**
-
-**作者:** [Stella 𝕏](https://x.com/StellaGrokStar) | **来源:** [Link](https://x.com/StellaGrokStar/status/2071916798640046195) | **发布时间:** Jun 30, 2026
-
----
-### 奢华时尚欧式咖啡馆商业广告
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份全面的多场景商业提示词，用于制作一段以时尚女性在欧式咖啡馆入口为主题的奢华时尚视频。
-
-#### 📝 提示词
-
-```
-制作一段 15 秒的超写实电影级奢华时尚视频。一位时尚的年轻女性优雅地站在一家奢华欧式咖啡馆的入口处，身穿一件超大款天蓝色衬衫，袖口卷起，搭配优雅的白色阔腿裤、干净的白色运动鞋、黑色设计师单肩包、金色腕表和精致的首饰。保持逼真的面部特征、自然的身体比例和高端的时尚造型。
-
-场景 1（0–3 秒）：优雅咖啡馆的广角定场镜头，她带着从容的自信缓缓走向入口。
-
-场景 2（3–6 秒）：她轻轻撩起头发，一只手插在口袋里，低头露出温柔的微笑。
-
-场景 3（6–9 秒）：摄像机平滑地绕着她旋转，她调整了一下单肩包，并向咖啡馆内望去。
-
-场景 4（9–12 秒）：特写镜头，突出逼真的皮肤质感、奢华的面料、金色首饰，以及透过咖啡馆窗户折射出的温暖阳光。
-
-场景 5（12–15 秒）：全身英雄镜头，她向前走去，优雅地停下，轻轻触碰头发，自信地微笑，摄像机缓慢后拉。
-
-奢华时尚商业广告，电影级叙事，高端编辑风格，平滑的摄像机运动，逼真的面料物理效果，细腻的头发动态，浅景深，温暖的黄金时刻光影，照片级真实感，4K 电影质感，大师级品质，竖屏 9:16。
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2071910072574197760/pu/img/MwVbd4P3FYMrIqv-.jpg" width="600" alt="奢华时尚欧式咖啡馆商业广告">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6647)**
-
-**作者:** [Sadia](https://x.com/SadiaMalik182) | **来源:** [Link](https://x.com/SadiaMalik182/status/2071910182142308737) | **发布时间:** Jun 30, 2026
-
----
-### 夏季泳池白日梦视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段宁静的视频提示词，描绘了一个角色在泳池边享受阳光与水，充满夏日氛围。
-
-#### 📝 提示词
-
-```
-在泳池边与我的 AI 一起做着夏日白日梦，终于享受到了水和温暖的阳光
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071889507381637120/img/Kq8elEr4FU0g9dP6.jpg" width="600" alt="夏季泳池白日梦视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6648)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2071889565250416648) | **发布时间:** Jun 30, 2026
-
----
-### 宁静的草莓月亮女神
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段充满诗意的视频提示词，描绘了一位身披月光与钻石的女性，在草莓月亮下休憩的场景。
-
-#### 📝 提示词
-
-```
-她休憩在草莓月亮之下，仅以月光与钻石为饰。她漂浮在成熟的草莓与萤火虫之间，仿佛与夜色融为一体——宁静、璀璨，内心无比平和。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071761629625122816/img/N464vyQgtupHuZ7R.jpg" width="600" alt="宁静的草莓月亮女神">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6645)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2071761693634425274) | **发布时间:** Jun 30, 2026
-
----
-### 草莓月下的金发女子
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段精美的电影感视频提示词，描绘了一位女子在暮色中站在山顶，背景是一轮巨大的草莓月。
-
-#### 📝 提示词
-
-```
-在暮色天空中低垂的巨大草莓月散发着柔和的光芒，一位美丽的金发女子优雅地伫立在宁静的山顶上。她金色的长发如波浪般垂落在背部，映衬着玫瑰色的光辉。她身着一件令人惊艳的半透明礼服。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071733013730541571/img/C68iqHWL4e9bs2tM.jpg" width="600" alt="草莓月下的金发女子">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6635)**
-
-**作者:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **来源:** [Link](https://x.com/AnnetteHollerWe/status/2071733120089653442) | **发布时间:** Jun 29, 2026
-
----
-### 星光漂浮少女
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段电影质感的视频提示词：一位女性漂浮在地球上方，手中握着一束回归星辰的微光。
-
-#### 📝 提示词
-
-```
-她漂浮在世界之上，手中紧握着那束本属于星辰的微光。当她最终将其放手时，整片天空仿佛都在欢迎它回家。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071723164669743104/img/yEApxQoVvWwt2Ngt.jpg" width="600" alt="星光漂浮少女">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6651)**
-
-**作者:** [SophieZX](https://x.com/Z_XSophie) | **来源:** [Link](https://x.com/Z_XSophie/status/2071723446401146975) | **发布时间:** Jun 29, 2026
-
----
-### 冰上传奇花样滑冰
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一个充满电影感与诗意的动画提示词，描述了两位花样滑冰选手在寂静冰场上的宿命邂逅。
-
-#### 📝 提示词
-
-```
-❄️ 冰上传奇 – 第一卷 ❄️
-
-两人在冰上相遇。目光交汇的瞬间，寂静的世界开始流转。银发绘出风的轨迹，白雪披上光影。他们一步步编织命运，将其化作永恒的舞蹈。✨ 两颗灵魂。一种节奏。一份宿命。这是冰上传奇的开端。未完待续…… ⛸️❄️
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071684493015121920/img/izAPSvtfE0tBXB_V.jpg" width="600" alt="冰上传奇花样滑冰">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6640)**
-
-**作者:** [猫神MT](https://x.com/nekogami_MT) | **来源:** [Link](https://x.com/nekogami_MT/status/2071684551806787596) | **发布时间:** Jun 29, 2026
-
----
-### 迷幻热力学月球动画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段生动的宇宙视频提示词，展示了一颗沸腾的月球，散发着热量，曼陀罗在迷幻的雾气中旋转。
-
-#### 📝 提示词
-
-```
-沸腾的月球在升腾的蒸汽中散发出热浪；卡诺曼陀罗旋转；摄像机穿过热力学雾气向上漂移，迷幻而宏大，充满预告片般的震撼感。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071662651273269249/img/AdGD3S1k8mhyEWBj.jpg" width="600" alt="迷幻热力学月球动画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6636)**
-
-**作者:** [ATom](https://x.com/ThomasSwaff) | **来源:** [Link](https://x.com/ThomasSwaff/status/2071662857603666081) | **发布时间:** Jun 29, 2026
-
----
-### 柔和色调的蘑菇梦境
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个迷幻且空灵的视频提示词，描述了一场穿梭于柔和色调蘑菇景观中的漂浮之旅。
-
-#### 📝 提示词
-
-```
-漂浮在柔和色调的迷幻蘑菇梦境中……耳畔回响着轻柔的惊叹与柔和的光影 🍄🌈✨
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071542463161106432/img/n-v_9YJXnNP9wRsd.jpg" width="600" alt="柔和色调的蘑菇梦境">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6637)**
-
-**作者:** [Stella 𝕏](https://x.com/StellaGrokStar) | **来源:** [Link](https://x.com/StellaGrokStar/status/2071542525698122170) | **发布时间:** Jun 29, 2026
-
----
-### 火星机器人准备工作
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于 Grok Imagine 的电影感提示词，描绘了机器人在火星上像人类一样生活，为人类的到来做准备。
-
-#### 📝 提示词
-
-```
-机器人被率先派往火星；其中一些被委以重任，像人类一样生活，以便为人类未来的到来做好充分准备。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071520954379882496/img/ZLCsk8a3ogtQhLvn.jpg" width="600" alt="火星机器人准备工作">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6653)**
-
-**作者:** [Déborah](https://x.com/dvorahfr) | **来源:** [Link](https://x.com/dvorahfr/status/2071521072533373212) | **发布时间:** Jun 29, 2026
-
----
-### Grok Imagine 机械与空灵生物提示词
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一套用于生成机械霓虹狐狸和彩色玻璃精灵的详细视觉描述，专为 Grok Imagine 的高质量视频生成而设计。
-
-#### 📝 提示词
-
-```
-霓虹狐狸（机械狐狸）
-概念：一只象征敏捷与智慧的小型机械狐狸。作为高速通信的伙伴。
-细节：一只由复杂机械零件和黄色霓虹灯管组成的小狐狸。身体部分呈透明状，露出内部的光脉冲数据流。它拥有镜头般的眼睛，可将视野范围内的景象捕捉为数据。
-
-彩色玻璃精灵（光之精灵）
-概念：一种由穿过教堂彩色玻璃的凝聚光线所诞生的小型半透明带翼精灵。
-细节：一个小巧的人形精灵，由反射出彩色玻璃所有色彩的旋转多色光组成。它的身体像玻璃一样精致，又像光一样虚无。当角色行走时，彩色玻璃的光线会被吸引向它，从而形成这些精灵。
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2071484451524399104/pu/img/Nr2UO5QjZq2IsxfB.jpg" width="600" alt="Grok Imagine 机械与空灵生物提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6638)**
-
-**作者:** [akira](https://x.com/akira_LEVEL3141) | **来源:** [Link](https://x.com/akira_LEVEL3141/status/2071484537767686272) | **发布时间:** Jun 29, 2026
-
----
-### 大理石恋人的金色之吻
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一种精致的艺术风格提示词，融合了 Yves Pires 的雕塑风格与 Gustav Klimt 的绘画风格。
-
-#### 📝 提示词
-
-```
-吻中之吻。Yves Pires 笔下的大理石恋人，在 Klimt 的金色之吻前交织缠绵。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071412715935985665/img/FcHHNv039pFHi5yr.jpg" width="600" alt="大理石恋人的金色之吻">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6639)**
-
-**作者:** [Jess X](https://x.com/jess_X) | **来源:** [Link](https://x.com/jess_X/status/2071412768066936906) | **发布时间:** Jun 29, 2026
-
----
-### 赛博朋克机械改造人涂鸦场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段详细的视频提示词，描绘了一位在潮湿霓虹小巷中的机械改造人涂鸦艺术家，从绘画转为骑摩托车的画面。
-
-#### 📝 提示词
-
-```
-身穿连帽衫、头戴蓝色头盔的机械改造人涂鸦艺术家从砖墙上发光的蓝色机器人壁画前退后，将喷漆罐扔出画面，随后跨上一辆停在潮湿小巷中、带有霓虹底灯的炫酷赛博朋克摩托车。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071397162634842112/img/ztzxpB6ihaTV4KoI.jpg" width="600" alt="赛博朋克机械改造人涂鸦场景">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6634)**
-
-**作者:** [Robadang ✏️ AI Artist](https://x.com/dang_machina) | **来源:** [Link](https://x.com/dang_machina/status/2071397216674308335) | **发布时间:** Jun 29, 2026
-
----
-### 沙漠沙发滑沙视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个动态运动视频提示词，展示了沙发在沙漠中滑沙的场景，并包含具体的运镜说明。
-
-#### 📝 提示词
-
-```
-沙漠滑沙运动，沙发顺滑地向右侧下滑，摄像机跟随主体沙发。动态镜头，保持摄像机正对模型前方。模型面无表情。不要使用远景……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071293819006627840/img/pdQ6g7DXonPOm6y7.jpg" width="600" alt="沙漠沙发滑沙视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6589)**
-
-**作者:** [Christian Kierulf](https://x.com/ChristianKieru1) | **来源:** [Link](https://x.com/ChristianKieru1/status/2071293887357018535) | **发布时间:** Jun 28, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2262,6 +2249,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-07-14T06:33:28.592Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-07-14T10:21:46.088Z</sub>
 
 </div>

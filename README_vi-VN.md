@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2093** |
+| 📝 Total Prompts | **2107** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-14** |
 
@@ -189,6 +189,219 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Dệt nên Cực quang Thiên giới
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một hình ảnh đầy chất thơ về những dải cực quang được các nghệ nhân thiên giới dệt nên trên bầu trời vùng cực bằng những khung cửi khổng lồ.
+
+#### 📝 Prompt
+
+```
+Những khung cửi khổng lồ trải dài khắp bầu trời vùng cực, nơi hàng ngàn nghệ nhân thiên giới dệt nên các dải màu lục bảo, tím, lam ngọc và vàng thành những dải cực quang rực rỡ.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075485665500794880/img/7jRhIujItskIVQx_.jpg" width="600" alt="Dệt nên Cực quang Thiên giới">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7231)**
+
+**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2076811411796451619) | **Published:** Jul 13, 2026
+
+---
+### Sinh vật vũ trụ thân thiện Ad Astra
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video sáng tạo về sinh vật vũ trụ với bầu không khí tương lai và đầy cảm hứng.
+
+#### 📝 Prompt
+
+```
+Sinh vật vũ trụ thân thiện
+
+Tương lai đang ở ngay trước mắt bạn.
+
+Hãy nắm bắt lấy - AD Astra
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076775823953027074/img/CG4a6nKiISfvprqj.jpg" width="600" alt="Sinh vật vũ trụ thân thiện Ad Astra">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7223)**
+
+**Author:** [BackWoods 🌱](https://x.com/SGBackWoods) | **Source:** [Link](https://x.com/SGBackWoods/status/2076775890256564473) | **Published:** Jul 13, 2026
+
+---
+### Khung cảnh tương lai của Vườn Bách thảo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) đậm chất điện ảnh để tạo video về các khu vườn bách thảo nằm bên trong những mái vòm kính khổng lồ mang phong cách tương lai.
+
+#### 📝 Prompt
+
+```
+hãy sống chậm lại và tận hưởng vẻ đẹp tương lai của chúng ta, bạn có thể thêm một khu vườn bách thảo vào bên trong 2 mái vòm lớn hơn không. với nhiều loại cây khác nhau....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076712490545594368/img/KL9EM0UjIf4m6-kO.jpg" width="600" alt="Khung cảnh tương lai của Vườn Bách thảo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7224)**
+
+**Author:** [StellaPeekArt](https://x.com/StellaPeekArt42) | **Source:** [Link](https://x.com/StellaPeekArt42/status/2076712800143982863) | **Published:** Jul 13, 2026
+
+---
+### Chủ đề Thành phố Thủ phủ Charleston
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video giúp phát triển chủ đề chân thực dựa trên Charleston, thủ phủ của West Virginia.
+
+#### 📝 Prompt
+
+```
+Hãy sử dụng hai yếu tố này và phát triển chúng một cách tinh tế với chủ đề Charleston, thủ phủ của West Virginia, một cách chân thực nhất....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076701376973795331/img/LyDw09-R70uNaVxp.jpg" width="600" alt="Chủ đề Thành phố Thủ phủ Charleston">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7225)**
+
+**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2076701448125956453) | **Published:** Jul 13, 2026
+
+---
+### Lời nhắc video cận cảnh khuôn mặt theo nhạc
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một lời nhắc video phức tạp cho màn trình diễn âm nhạc cận cảnh với sự xuất hiện của cầu vồng, kim cương và những đụn cát bay.
+
+#### 📝 Prompt
+
+```
+Cận cảnh khuôn mặt từ hình ảnh hiện tại. Giọng hát tươi sáng và nhẹ nhàng. Hát "Thank you God, everyone" theo các nốt Đồ-Rê-Mi-Fa-Son-La-Si-Đô. Nhạc đệm bao gồm đàn synthesizer và chũm chọe. Những cánh hoa màu đỏ, trắng và vàng, ánh sáng, kim cương, các vì sao và cầu vồng bay lên. Chúng lan tỏa thành hình trái tim, tạo thành vòng tròn rồi phân tán. Nền là những đụn cát bụi vàng.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076657383426899969/img/G5TKsH7qVIKXRLGf.jpg" width="600" alt="Lời nhắc video cận cảnh khuôn mặt theo nhạc">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7234)**
+
+**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2076657496966799813) | **Published:** Jul 13, 2026
+
+---
+### Gợi ý video: Cô gái váy đỏ khiêu vũ giữa cánh đồng hoa
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một gợi ý video đầy mê hoặc với hình ảnh người phụ nữ mặc váy đỏ khiêu vũ giữa cánh đồng hoa ngập tràn ánh nắng, điểm xuyết bởi những ngôi sao lấp lánh và phép màu cầu vồng.
+
+#### 📝 Prompt
+
+```
+Mặc chiếc váy đỏ dưới ánh mặt trời rực rỡ. Giữa cánh đồng hoa hồng và trắng. Những cánh hoa, ánh sáng, trái tim, cầu vồng, những giấc mơ và phép màu của tình yêu đang nhảy múa xung quanh. Những ngôi sao vàng, vàng nhạt và trắng lấp lánh dẫn lối từ những cồn cát đằng kia đến dưới chân tôi. Tôi cười hạnh phúc khi đang khiêu vũ. Cảm ơn Chúa, cảm ơn mọi người.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076653330206748672/img/1cHBxBZZMd-TPARR.jpg" width="600" alt="Gợi ý video: Cô gái váy đỏ khiêu vũ giữa cánh đồng hoa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7235)**
+
+**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2076653402982150482) | **Published:** Jul 13, 2026
+
+---
+### Thiên thần thanh bình với những chú bướm ba chiều
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video điện ảnh mô tả một thiên thần yên bình trong trang phục ren, được bao quanh bởi ánh sáng rực rỡ và những chú bướm ba chiều lấp lánh.
+
+#### 📝 Prompt
+
+```
+Một thiên thần thanh bình khoác trên mình lớp ren tinh tế và ánh sáng dịu nhẹ, được bao quanh bởi những chú bướm ba chiều màu trắng lấp lánh.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076622231497830400/img/f58E7-h-BL7DluK3.jpg" width="600" alt="Thiên thần thanh bình với những chú bướm ba chiều">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7229)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2076622295674786092) | **Published:** Jul 13, 2026
+
+---
+### Prompt video sân khấu kỳ ảo
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một prompt video sống động với hình ảnh vũ công trong chiếc váy ren hoa trên sân khấu kỳ ảo tràn ngập trái tim, đá quý và lâu đài bay.
+
+#### 📝 Prompt
+
+```
+Vũ công trong chiếc váy ren hoa tay phồng màu xanh nhạt và trắng đang nhảy múa trên sân khấu tràn ngập hoa đỏ, hồng và vàng dưới ánh đèn sân khấu. Những trái tim, đá quý và cánh hoa bay lượn trong không trung, với lâu đài và cỗ xe bao quanh sân khấu.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076567103382138880/img/SqAehBZQ2L_VY_Cf.jpg" width="600" alt="Prompt video sân khấu kỳ ảo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7233)**
+
+**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2076567161599107173) | **Published:** Jul 13, 2026
+
+---
+### Chú ngựa phấn khích trên hành trình đến Sao Hỏa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý kể chuyện vui nhộn về một chú ngựa đang háo hức muốn du hành đến Sao Hỏa.
+
+#### 📝 Prompt
+
+```
+Chú ngựa này cũng muốn đến Sao Hỏa và đang làm loạn vì quá phấn khích
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076507612955267072/img/vdWqQrcQ8KXVo88X.jpg" width="600" alt="Chú ngựa phấn khích trên hành trình đến Sao Hỏa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7227)**
+
+**Author:** [loving X@ Cheryl](https://x.com/Corr1444) | **Source:** [Link](https://x.com/Corr1444/status/2076507665174294972) | **Published:** Jul 13, 2026
+
+---
+### Hoạt ảnh bảng quảng cáo Grokius Maximus
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) cho video mô tả nhân vật trên bảng quảng cáo đầy màu sắc đang di chuyển và nhìn xung quanh.
+
+#### 📝 Prompt
+
+```
+Nhân vật Grokius Maximus trên bảng quảng cáo đầy màu sắc từ từ quay đầu nhìn sang bên phải.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076504195998593024/img/QmFwfdViwQdM6-1-.jpg" width="600" alt="Hoạt ảnh bảng quảng cáo Grokius Maximus">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7222)**
+
+**Author:** [INDUSTRIUM](https://x.com/INDUSTRIUM_AI) | **Source:** [Link](https://x.com/INDUSTRIUM_AI/status/2076504263023640817) | **Published:** Jul 13, 2026
+
+---
+### Doanh nhân mặc bộ suit thiết kế chuyên nghiệp trong cuộc họp
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh mô tả một người phụ nữ mặc bộ suit công sở thiết kế sang trọng đang điều hành một cuộc họp chuyên nghiệp.
+
+#### 📝 Prompt
+
+```
+Người phụ nữ mặc một bộ suit công sở thiết kế nổi bật với tông màu đỏ và tím — áo blazer được cắt may tinh tế cùng chân váy hoặc quần tây với cách phối màu tím và đỏ thanh lịch, chất liệu vải cao cấp, mang lại vẻ ngoài chuyên nghiệp. Cô ấy đang điều hành một cuộc họp kinh doanh.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076468658067357696/img/Ub3Idibtvx_a28-U.jpg" width="600" alt="Doanh nhân mặc bộ suit thiết kế chuyên nghiệp trong cuộc họp">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7226)**
+
+**Author:** [Diane Thomas Joy](https://x.com/Thoma31928Joy) | **Source:** [Link](https://x.com/Thoma31928Joy/status/2076468713071468890) | **Published:** Jul 13, 2026
+
+---
 ### Thư viện của những giấc mơ bị lãng quên
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -651,6 +864,25 @@ Tôi không chỉ muốn một nữ diễn viên da đen đóng vai Helen of Tro
 **Author:** [Huff](https://x.com/Huff4Congress) | **Source:** [Link](https://x.com/Huff4Congress/status/2075601096253309265) | **Published:** Jul 10, 2026
 
 ---
+### Cảnh quay FPV điện ảnh trong rừng lúc bình minh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một cảnh quay bằng flycam FPV tốc độ cao băng qua khu rừng đầy sương mù vào lúc bình minh, với những tia sáng vàng và các hạt lơ lửng tạo thành chữ trước khi tan biến.
+
+#### 📝 Prompt
+
+```
+Cảnh quay FPV: Camera lướt nhanh qua khu rừng rậm rạp vào lúc bình minh, len lỏi giữa những hàng cây cao chót vót phủ đầy sương sớm. Những tia nắng vàng xuyên qua tán lá, trong khi hàng tỷ hạt phấn hoa và những giọt sương nhỏ li ti trôi nổi trong không trung. Camera tiến vào một luồng sáng, nơi các hạt bụi được chiếu sáng đồng bộ một cách tự nhiên, tạo thành chữ "MORNING" trước khi bùng nổ thành một dải bụi vàng lấp lánh. Bình minh hùng vĩ, thiên nhiên điện ảnh, bầu không khí siêu thực, hiệu ứng hình ảnh (VFX) ngoạn mục.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075586213294022656/img/LIEf70JuAxykwiAw.jpg" width="600" alt="Cảnh quay FPV điện ảnh trong rừng lúc bình minh">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7230)**
+
+**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2075586581294092409) | **Published:** Jul 10, 2026
+
+---
 ### Gợi ý hình ảnh giả tưởng về bình minh phát quang sinh học
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -687,6 +919,28 @@ Vận động viên quần vợt hoàn tất cú vung vợt thuận tay khi qu�
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7010)**
 
 **Author:** [Robert Heinlein](https://x.com/strangerinastr) | **Source:** [Link](https://x.com/strangerinastr/status/2075286711521956062) | **Published:** Jul 9, 2026
+
+---
+### Ảnh selfie trước gương của Sailor Mars
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) chi tiết để tạo video chân thực về Rei Hino trong vai Sailor Mars đang chụp ảnh selfie trước gương cùng Luna trong một phòng tắm hiện đại.
+
+#### 📝 Prompt
+
+```
+Ảnh selfie trước gương cực kỳ chân thực của Rei Hino trong vai Sailor Mars, với những đốm tàn nhang tự nhiên trên khuôn mặt, vai và ngực. Cô có mái tóc đen dài, thẳng, bóng mượt với phần tóc mái bằng xõa xuống lưng.
+Cô mặc trang phục Sailor Mars cổ điển chuẩn xác: áo liền quần trắng, cổ áo thủy thủ đỏ với viền trắng, chiếc nơ lớn màu tím với tâm hình tròn màu đỏ và trâm cài vàng, váy xếp ly ngắn màu đỏ với lớp lót tím và viền vàng, vương miện vàng với viên đá quý đỏ, găng tay trắng dài với cổ tay đỏ, đôi bốt đỏ sáng bóng, vòng cổ choker đỏ với mặt dây chuyền ngôi sao vàng.
+Cô đang ngồi trong một phòng tắm ốp đá cẩm thạch hiện đại, sáng sủa, chụp ảnh selfie trước gương bằng điện thoại thông minh màu đen trên tay phải. Tay trái cô đang nhẹ nhàng ôm một chú mèo đen nhỏ - Luna từ Sailor Moon, với bộ lông đen bóng, đôi mắt vàng to tròn và biểu tượng vầng trăng khuyết màu vàng trên trán. Luna trông bình tĩnh và tò mò.
+Sailor Mars nhìn thẳng vào ống kính với nụ cười tự tin, hơi tinh nghịch và quyến rũ. Ánh sáng cửa sổ tự nhiên dịu nhẹ, kết cấu da chân thực, tàn nhang rõ nét, lấy nét sắc sảo.
+```
+
+<img src="https://cms-assets.youmind.com/media/1784016876452_4z6fq2_HMzGqj3W0AA9YlL.jpg" width="600" alt="Ảnh selfie trước gương của Sailor Mars">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7228)**
+
+**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2075252023914574244) | **Published:** Jul 9, 2026
 
 ---
 ### Ảnh selfie qua gương chân thực của Sailor Moon
@@ -763,6 +1017,25 @@ Hiệu ứng hoạt ảnh bay bổng lãng mạn phía sau cặp đôi trong b�
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6973)**
 
 **Author:** [joscilene Laura](https://x.com/joscilene_maria) | **Source:** [Link](https://x.com/joscilene_maria/status/2074851707507355664) | **Published:** Jul 8, 2026
+
+---
+### Thiếu nữ giữa rừng hoa xanh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) nhẹ nhàng và tinh tế mô tả hình ảnh một thiếu nữ được bao quanh bởi những bông hoa ren xanh mỏng manh trong ánh sáng dịu nhẹ.
+
+#### 📝 Prompt
+
+```
+Một thiếu nữ dịu dàng đang nở rộ giữa những bông hoa ren xanh mỏng manh… Lời thì thầm của ánh sáng dịu êm và vẻ thanh lịch tĩnh lặng.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074818526465150976/img/JTcMYr90WtlwLQw6.jpg" width="600" alt="Thiếu nữ giữa rừng hoa xanh">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7232)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2074818638016909450) | **Published:** Jul 8, 2026
 
 ---
 ### Video mùa hè tại nhà nông thôn Hàn Quốc
@@ -1915,292 +2188,6 @@ Cực quang cuộn xoáy như bức tranh Đêm đầy sao nổi tiếng 🌌
 **Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2071975095451386157) | **Published:** Jun 30, 2026
 
 ---
-### Giấc mơ nấm kỳ ảo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một đoạn gợi ý video mô tả cảnh nấm phát sáng, óng ánh được tạo bởi Grok Imagine 1.5.
-
-#### 📝 Prompt
-
-```
-Chạm tay vào giấc mơ nấm kỳ ảo… Những lời thì thầm của vẻ đẹp óng ánh và ánh sáng dịu nhẹ.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071916735448432640/img/8hAGD3gsc5WyyZeS.jpg" width="600" alt="Giấc mơ nấm kỳ ảo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6652)**
-
-**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2071916798640046195) | **Published:** Jun 30, 2026
-
----
-### Quảng cáo thời trang cao cấp tại quán cà phê châu Âu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt quảng cáo đa cảnh toàn diện cho video thời trang cao cấp, với hình ảnh một người phụ nữ sành điệu tại lối vào quán cà phê châu Âu.
-
-#### 📝 Prompt
-
-```
-Tạo một video thời trang cao cấp đậm chất điện ảnh, siêu thực dài 15 giây. Một người phụ nữ trẻ sành điệu đang đứng duyên dáng tại lối vào của một quán cà phê châu Âu sang trọng, mặc áo sơ mi cài nút màu xanh da trời dáng rộng với phần tay áo xắn lên, quần ống rộng màu trắng thanh lịch, giày sneaker trắng sạch sẽ, túi đeo vai hàng hiệu màu đen, đồng hồ đeo tay bằng vàng và trang sức tinh tế. Giữ nguyên các đường nét khuôn mặt chân thực, tỷ lệ cơ thể tự nhiên và phong cách thời trang cao cấp.
-
-Cảnh 1 (0–3 giây): Cảnh quay toàn cảnh thiết lập không gian quán cà phê thanh lịch khi cô ấy chậm rãi bước về phía lối vào với vẻ tự tin, điềm tĩnh.
-
-Cảnh 2 (3–6 giây): Cô ấy nhẹ nhàng vuốt tóc ra sau trong khi một tay vẫn để trong túi, cúi nhìn với nụ cười dịu dàng.
-
-Cảnh 3 (6–9 giây): Máy quay xoay mượt mà xung quanh cô ấy khi cô điều chỉnh túi đeo vai và liếc nhìn về phía quán cà phê.
-
-Cảnh 4 (9–12 giây): Cảnh quay cận cảnh làm nổi bật kết cấu da chân thực, chất liệu vải cao cấp, trang sức vàng và ánh nắng ấm áp phản chiếu qua cửa sổ quán cà phê.
-
-Cảnh 5 (12–15 giây): Cảnh quay toàn thân làm nổi bật nhân vật khi cô bước tới, dừng lại duyên dáng, khẽ chạm vào tóc và mỉm cười tự tin trong khi máy quay từ từ lùi lại.
-
-Quảng cáo thời trang cao cấp, kể chuyện bằng điện ảnh, phong cách biên tập thượng lưu, chuyển động máy quay mượt mà, vật lý vải chân thực, chuyển động tóc tinh tế, độ sâu trường ảnh nông, ánh sáng giờ vàng ấm áp, chân thực như ảnh chụp, diện mạo điện ảnh 4K, chất lượng tuyệt tác, khung hình dọc 9:16.
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2071910072574197760/pu/img/MwVbd4P3FYMrIqv-.jpg" width="600" alt="Quảng cáo thời trang cao cấp tại quán cà phê châu Âu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6647)**
-
-**Author:** [Sadia](https://x.com/SadiaMalik182) | **Source:** [Link](https://x.com/SadiaMalik182/status/2071910182142308737) | **Published:** Jun 30, 2026
-
----
-### Video mơ màng bên hồ bơi ngày hè
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý video đầy thư thái mô tả một nhân vật đang tận hưởng ánh nắng và làn nước bên hồ bơi với không khí mùa hè.
-
-#### 📝 Prompt
-
-```
-Đang mơ màng bên hồ bơi cùng không khí mùa hè của A.I., cuối cùng cũng được tận hưởng làn nước và ánh nắng ấm áp
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071889507381637120/img/Kq8elEr4FU0g9dP6.jpg" width="600" alt="Video mơ màng bên hồ bơi ngày hè">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6648)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2071889565250416648) | **Published:** Jun 30, 2026
-
----
-### Nữ thần Trăng Dâu thanh bình
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video đầy chất thơ với hình ảnh người phụ nữ khoác lên mình ánh trăng và kim cương, đang nghỉ ngơi dưới ánh trăng dâu.
-
-#### 📝 Prompt
-
-```
-Nàng nghỉ ngơi dưới ánh Trăng Dâu, chỉ khoác lên mình ánh trăng và kim cương. Lơ lửng giữa những trái dâu chín mọng và đom đóm, nàng trở thành một phần của chính màn đêm — thanh bình, rạng rỡ và hoàn toàn an yên.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071761629625122816/img/N464vyQgtupHuZ7R.jpg" width="600" alt="Nữ thần Trăng Dâu thanh bình">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6645)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2071761693634425274) | **Published:** Jun 30, 2026
-
----
-### Người phụ nữ tóc vàng dưới ánh trăng dâu tây
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý video điện ảnh tuyệt đẹp với hình ảnh người phụ nữ trên đỉnh đồi dưới ánh trăng dâu tây khổng lồ vào lúc hoàng hôn.
-
-#### 📝 Prompt
-
-```
-Dưới ánh sáng dịu nhẹ của mặt trăng dâu tây khổng lồ treo thấp trên bầu trời hoàng hôn, một người phụ nữ tóc vàng xinh đẹp đứng duyên dáng trên đỉnh đồi yên tĩnh. Mái tóc vàng óng ả của cô xõa dài thành những gợn sóng nhẹ nhàng sau lưng, bắt trọn ánh sáng hồng rực rỡ. Cô khoác trên mình chiếc váy xuyên thấu đầy mê hoặc.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071733013730541571/img/C68iqHWL4e9bs2tM.jpg" width="600" alt="Người phụ nữ tóc vàng dưới ánh trăng dâu tây">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6635)**
-
-**Author:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **Source:** [Link](https://x.com/AnnetteHollerWe/status/2071733120089653442) | **Published:** Jun 29, 2026
-
----
-### Cô gái lơ lửng cùng ánh sao
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video điện ảnh về một người phụ nữ đang lơ lửng phía trên trái đất, cầm một đốm sáng nhỏ đang trở về với những vì sao.
-
-#### 📝 Prompt
-
-```
-Cô lơ lửng phía trên thế giới, nắm giữ một đốm sáng nhỏ vốn thuộc về những vì sao. Khi cô cuối cùng cũng buông tay, bầu trời dường như đang chào đón nó trở về nhà.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071723164669743104/img/yEApxQoVvWwt2Ngt.jpg" width="600" alt="Cô gái lơ lửng cùng ánh sao">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6651)**
-
-**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2071723446401146975) | **Published:** Jun 29, 2026
-
----
-### Huyền thoại trên băng: Trượt băng nghệ thuật
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Một gợi ý tạo hoạt ảnh đậm chất điện ảnh và thơ mộng, mô tả cuộc gặp gỡ định mệnh giữa hai vận động viên trượt băng trên sân băng tĩnh lặng.
-
-#### 📝 Prompt
-
-```
-❄️ Huyền thoại trên băng – Tập 1 ❄️
-
-Hai người gặp nhau trên sân băng. Khoảnh khắc ánh mắt họ chạm nhau, thế giới tĩnh lặng bắt đầu chuyển động. Mái tóc bạc vẽ nên những đường gió, và tuyết được khoác lên mình ánh sáng. Từng bước một, họ dệt nên định mệnh và biến nó thành một vũ điệu vĩnh cửu. ✨ Hai tâm hồn. Một nhịp điệu. Một định mệnh. Đây chính là khởi đầu của huyền thoại trên băng. Còn tiếp… ⛸️❄️
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071684493015121920/img/izAPSvtfE0tBXB_V.jpg" width="600" alt="Huyền thoại trên băng: Trượt băng nghệ thuật">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6640)**
-
-**Author:** [猫神MT](https://x.com/nekogami_MT) | **Source:** [Link](https://x.com/nekogami_MT/status/2071684551806787596) | **Published:** Jun 29, 2026
-
----
-### Hoạt ảnh Mặt Trăng nhiệt động lực học ảo giác
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một lời nhắc video vũ trụ sống động mô tả mặt trăng đang sôi, tỏa nhiệt và các hình mandala xoay tròn trong làn sương ảo giác.
-
-#### 📝 Prompt
-
-```
-Mặt trăng đang sôi tỏa ra các đợt sóng nhiệt trên lớp hơi nước bốc lên; các hình mandala Carnot xoay tròn; máy quay trôi dần lên trên qua làn sương nhiệt động lực học, mang phong cách ảo giác và vũ trụ, tạo cảm giác choáng ngợp như trailer phim.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071662651273269249/img/AdGD3S1k8mhyEWBj.jpg" width="600" alt="Hoạt ảnh Mặt Trăng nhiệt động lực học ảo giác">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6636)**
-
-**Author:** [ATom](https://x.com/ThomasSwaff) | **Source:** [Link](https://x.com/ThomasSwaff/status/2071662857603666081) | **Published:** Jun 29, 2026
-
----
-### Giấc mơ nấm màu pastel
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt mang phong cách ảo giác và huyền ảo, mô tả hành trình lơ lửng qua những vùng đất nấm màu pastel.
-
-#### 📝 Prompt
-
-```
-Lơ lửng trong giấc mơ nấm màu pastel đầy ảo giác… Những lời thì thầm của sự kỳ diệu nhẹ nhàng và ánh sáng dịu êm 🍄🌈✨
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071542463161106432/img/n-v_9YJXnNP9wRsd.jpg" width="600" alt="Giấc mơ nấm màu pastel">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6637)**
-
-**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2071542525698122170) | **Published:** Jun 29, 2026
-
----
-### Chuẩn bị cho robot trên sao Hỏa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh điện ảnh dành cho Grok Imagine mô tả cảnh các robot sống như con người trên sao Hỏa để chuẩn bị cho sự xuất hiện của con người.
-
-#### 📝 Prompt
-
-```
-Robot được gửi đến sao Hỏa trước; một số được giao nhiệm vụ sống như con người để chuẩn bị tốt nhất cho sự xuất hiện của họ trong tương lai.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071520954379882496/img/ZLCsk8a3ogtQhLvn.jpg" width="600" alt="Chuẩn bị cho robot trên sao Hỏa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6653)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2071521072533373212) | **Published:** Jun 29, 2026
-
----
-### Các câu lệnh Grok Imagine cho sinh vật cơ khí và linh hồn hư ảo
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Bộ mô tả hình ảnh chi tiết để tạo ra một chú cáo cơ khí neon và một linh hồn kính màu, được thiết kế để tạo video chất lượng cao trong Grok Imagine.
-
-#### 📝 Prompt
-
-```
-Cáo Neon (Cáo Cơ Khí)
-Khái niệm: Một chú cáo cơ khí nhỏ tượng trưng cho sự nhanh nhẹn và trí tuệ. Đóng vai trò là đối tác cho việc truyền tải thông tin tốc độ cao.
-Chi tiết: Một chú cáo nhỏ được cấu tạo từ các bộ phận cơ khí tinh xảo và các ống neon màu vàng. Một số phần trên cơ thể trong suốt, để lộ các luồng dữ liệu xung ánh sáng bên trong. Nó có đôi mắt dạng thấu kính để ghi lại những gì đi vào tầm nhìn của nó dưới dạng dữ liệu.
-
-Linh hồn Kính màu (Linh hồn Ánh sáng)
-Khái niệm: Một linh hồn có cánh nhỏ, trong suốt được sinh ra từ ánh sáng cô đọng đi qua kính màu nhà thờ.
-Chi tiết: Một linh hồn hình người nhỏ bé được cấu tạo từ ánh sáng đa sắc xoáy tròn, phản chiếu tất cả các màu sắc của kính màu. Cơ thể nó mỏng manh như thủy tinh nhưng lại vô hình như ánh sáng. Khi nhân vật di chuyển, ánh sáng từ kính màu bị thu hút về phía nó, tạo nên những linh hồn này.
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2071484451524399104/pu/img/Nr2UO5QjZq2IsxfB.jpg" width="600" alt="Các câu lệnh Grok Imagine cho sinh vật cơ khí và linh hồn hư ảo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6638)**
-
-**Author:** [akira](https://x.com/akira_LEVEL3141) | **Source:** [Link](https://x.com/akira_LEVEL3141/status/2071484537767686272) | **Published:** Jun 29, 2026
-
----
-### Nụ hôn vàng của những người tình đá cẩm thạch
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý phong cách nghệ thuật tinh tế kết hợp giữa tác phẩm điêu khắc của Yves Pires và phong cách hội họa của Gustav Klimt.
-
-#### 📝 Prompt
-
-```
-Một nụ hôn trong một nụ hôn. Những người tình đá cẩm thạch của Yves Pires quấn quýt bên nhau trước nụ hôn vàng của Klimt.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071412715935985665/img/FcHHNv039pFHi5yr.jpg" width="600" alt="Nụ hôn vàng của những người tình đá cẩm thạch">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6639)**
-
-**Author:** [Jess X](https://x.com/jess_X) | **Source:** [Link](https://x.com/jess_X/status/2071412768066936906) | **Published:** Jun 29, 2026
-
----
-### Cảnh Graffiti Cyborg Cyberpunk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt chi tiết về một nghệ sĩ graffiti cyborg trong con hẻm neon ẩm ướt, chuyển cảnh từ việc vẽ tranh sang lái xe mô tô.
-
-#### 📝 Prompt
-
-```
-Nghệ sĩ graffiti cyborg đội mũ trùm đầu và mũ bảo hiểm màu xanh lam lùi lại khỏi bức tranh tường robot phát sáng màu xanh trên bức tường gạch, ném bình sơn xịt ra khỏi khung hình, sau đó nhảy lên chiếc mô tô cyberpunk bóng bẩy với đèn neon dưới gầm đang đỗ trong con hẻm ẩm ướt.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071397162634842112/img/ztzxpB6ihaTV4KoI.jpg" width="600" alt="Cảnh Graffiti Cyborg Cyberpunk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6634)**
-
-**Author:** [Robadang ✏️ AI Artist](https://x.com/dang_machina) | **Source:** [Link](https://x.com/dang_machina/status/2071397216674308335) | **Published:** Jun 29, 2026
-
----
-### Video trượt cát trên ghế sofa giữa sa mạc
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video chuyển động năng động mô tả chiếc ghế sofa đang trượt cát trên sa mạc với các hướng dẫn cụ thể về góc máy.
-
-#### 📝 Prompt
-
-```
-Chuyển động trượt cát trên sa mạc, chiếc ghế sofa Slides mượt mà đổ dốc về phía bên phải, máy quay theo sát chủ thể là chiếc ghế. Cú máy năng động, giữ máy quay hướng về phía trước của mô hình. Gương mặt của mô hình không biểu cảm. Không quay cảnh toàn cảnh từ xa....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071293819006627840/img/pdQ6g7DXonPOm6y7.jpg" width="600" alt="Video trượt cát trên ghế sofa giữa sa mạc">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6589)**
-
-**Author:** [Christian Kierulf](https://x.com/ChristianKieru1) | **Source:** [Link](https://x.com/ChristianKieru1/status/2071293887357018535) | **Published:** Jun 28, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2262,6 +2249,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-14T06:33:37.511Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-14T10:21:54.304Z</sub>
 
 </div>

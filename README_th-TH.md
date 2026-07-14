@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2093** |
+| 📝 Total Prompts | **2107** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-14** |
 
@@ -189,6 +189,219 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### การถักทอแสงเหนือแห่งสรวงสวรรค์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ภาพจินตนาการเชิงกวีของแสงเหนือที่ถูกถักทอขึ้นบนท้องฟ้าขั้วโลกโดยเหล่าช่างฝีมือแห่งสรวงสวรรค์ด้วยกี่ทอผ้าขนาดมหึมา
+
+#### 📝 Prompt
+
+```
+กี่ทอผ้าขนาดมหึมาทอดตัวยาวไปทั่วท้องฟ้าขั้วโลก ที่ซึ่งริ้วแสงสีมรกต ม่วง ไพลิน และทอง ถูกถักทอให้กลายเป็นแสงออโรราโดยช่างฝีมือแห่งสรวงสวรรค์นับพันชีวิต
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075485665500794880/img/7jRhIujItskIVQx_.jpg" width="600" alt="การถักทอแสงเหนือแห่งสรวงสวรรค์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7231)**
+
+**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2076811411796451619) | **Published:** Jul 13, 2026
+
+---
+### สิ่งมีชีวิตจากจักรวาลที่เป็นมิตร Ad Astra
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอเชิงสร้างสรรค์สำหรับการสร้างสิ่งมีชีวิตจากจักรวาลในบรรยากาศแห่งอนาคตและสร้างแรงบันดาลใจ
+
+#### 📝 Prompt
+
+```
+สิ่งมีชีวิตจากจักรวาลที่เป็นมิตร
+
+อนาคตอยู่ตรงหน้าคุณแล้ว
+
+คว้ามันไว้ - AD Astra
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076775823953027074/img/CG4a6nKiISfvprqj.jpg" width="600" alt="สิ่งมีชีวิตจากจักรวาลที่เป็นมิตร Ad Astra">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7223)**
+
+**Author:** [BackWoods 🌱](https://x.com/SGBackWoods) | **Source:** [Link](https://x.com/SGBackWoods/status/2076775890256564473) | **Published:** Jul 13, 2026
+
+---
+### ทิวทัศน์สวนพฤกษศาสตร์แห่งอนาคต
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง (Prompt) สไตล์ภาพยนตร์สำหรับสร้างวิดีโอสวนพฤกษศาสตร์ที่ตั้งอยู่ภายในโดมแก้วขนาดใหญ่แห่งอนาคต
+
+#### 📝 Prompt
+
+```
+ลองชะลอจังหวะชีวิตแล้วดื่มด่ำไปกับความงดงามแห่งอนาคตของเรา คุณช่วยเพิ่มสวนพฤกษศาสตร์เข้าไปในโดมขนาดใหญ่ 2 แห่งนั้นได้ไหม มีพืชพรรณหลากหลายชนิด...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076712490545594368/img/KL9EM0UjIf4m6-kO.jpg" width="600" alt="ทิวทัศน์สวนพฤกษศาสตร์แห่งอนาคต">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7224)**
+
+**Author:** [StellaPeekArt](https://x.com/StellaPeekArt42) | **Source:** [Link](https://x.com/StellaPeekArt42/status/2076712800143982863) | **Published:** Jul 13, 2026
+
+---
+### ธีมเมืองหลวง Charleston
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์ที่พัฒนาธีมให้มีความสมจริงโดยอิงจากเมือง Charleston ซึ่งเป็นเมืองหลวงของรัฐ West Virginia
+
+#### 📝 Prompt
+
+```
+ใช้ทั้งสองสิ่งนี้แล้วนำมาพัฒนาอย่างพอเหมาะโดยคำนึงถึงธีมเมือง Charleston เมืองหลวงของรัฐ West Virginia ที่มีความสมจริง...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076701376973795331/img/LyDw09-R70uNaVxp.jpg" width="600" alt="ธีมเมืองหลวง Charleston">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7225)**
+
+**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2076701448125956453) | **Published:** Jul 13, 2026
+
+---
+### พรอมต์วิดีโอโคลสอัปใบหน้าพร้อมดนตรี
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> พรอมต์วิดีโอแบบซับซ้อนสำหรับการแสดงดนตรีแบบโคลสอัปที่มีสายรุ้ง เพชร และเนินทรายลอยละล่อง
+
+#### 📝 Prompt
+
+```
+โคลสอัปใบหน้าจากภาพปัจจุบัน เสียงร้องมีความสดใสและโปร่งเบา ร้องเพลง "Thank you God, everyone" ตามโน้ต โด-เร-มี-ฟา-ซอล-ลา-ที-โด ประกอบด้วยเสียงสังเคราะห์และฉาบ กลีบดอกไม้สีแดง สีขาว และสีเหลือง แสง เพชร ดวงดาว และสายรุ้งลอยขึ้นมา ทั้งหมดกระจายตัวเป็นรูปหัวใจ ก่อตัวเป็นวงกลม แล้วแตกกระจายออก โดยมีฉากหลังเป็นเนินทรายสีทอง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076657383426899969/img/G5TKsH7qVIKXRLGf.jpg" width="600" alt="พรอมต์วิดีโอโคลสอัปใบหน้าพร้อมดนตรี">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7234)**
+
+**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2076657496966799813) | **Published:** Jul 13, 2026
+
+---
+### พร้อมท์วิดีโอเต้นรำในทุ่งดอกไม้ชุดเดรสสีแดง
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> พร้อมท์วิดีโอสุดมหัศจรรย์ของหญิงสาวในชุดเดรสสีแดงที่กำลังเต้นรำอยู่ท่ามกลางทุ่งดอกไม้ใต้แสงแดด พร้อมด้วยประกายดาวและเวทมนตร์สายรุ้ง
+
+#### 📝 Prompt
+
+```
+สวมชุดเดรสสีแดงภายใต้แสงแดดสดใส ในทุ่งดอกไม้สีชมพูและสีขาว กลีบดอกไม้ แสงสว่าง หัวใจ สายรุ้ง ความฝัน และเวทมนตร์แห่งความรักเต้นระบำอยู่รอบตัว ประกายดาวสีทอง สีเหลือง และสีขาวทอดยาวจากเนินทรายตรงนั้นมาจนถึงเท้าของฉัน ฉันหัวเราะอย่างมีความสุขขณะเต้นรำ ขอบคุณพระเจ้า ขอบคุณทุกคน
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076653330206748672/img/1cHBxBZZMd-TPARR.jpg" width="600" alt="พร้อมท์วิดีโอเต้นรำในทุ่งดอกไม้ชุดเดรสสีแดง">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7235)**
+
+**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2076653402982150482) | **Published:** Jul 13, 2026
+
+---
+### นางฟ้าผู้สงบนิ่งกับผีเสื้อโฮโลแกรม
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวภาพยนตร์ที่บรรยายถึงนางฟ้าผู้สงบนิ่งในชุดลูกไม้ ท่ามกลางแสงสว่างที่เปล่งประกายและผีเสื้อโฮโลแกรมที่ระยิบระยับ
+
+#### 📝 Prompt
+
+```
+นางฟ้าผู้สงบนิ่งในชุดลูกไม้เนื้อละเอียดและแสงสว่างที่นุ่มนวล รายล้อมไปด้วยผีเสื้อโฮโลแกรมสีขาวที่ระยิบระยับ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076622231497830400/img/f58E7-h-BL7DluK3.jpg" width="600" alt="นางฟ้าผู้สงบนิ่งกับผีเสื้อโฮโลแกรม">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7229)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2076622295674786092) | **Published:** Jul 13, 2026
+
+---
+### พรอมต์วิดีโอการเต้นบนเวทีสุดมหัศจรรย์
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> พรอมต์วิดีโอสีสันสดใสที่มีนักเต้นในชุดเดรสผ้าลูกไม้ลายดอกไม้บนเวทีสุดมหัศจรรย์ที่เต็มไปด้วยหัวใจ อัญมณี และปราสาทที่ลอยละล่อง
+
+#### 📝 Prompt
+
+```
+การเต้นรำในชุดเดรสแขนพองผ้าลูกไม้ลายดอกไม้สีฟ้าอ่อนและสีขาว บนเวทีที่เต็มไปด้วยดอกไม้สีแดง สีชมพู และสีทองภายใต้แสงสปอตไลท์ มีหัวใจ อัญมณี และกลีบดอกไม้ลอยอยู่ในอากาศ พร้อมด้วยปราสาทและรถม้าที่รายล้อมอยู่รอบเวที
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076567103382138880/img/SqAehBZQ2L_VY_Cf.jpg" width="600" alt="พรอมต์วิดีโอการเต้นบนเวทีสุดมหัศจรรย์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7233)**
+
+**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2076567161599107173) | **Published:** Jul 13, 2026
+
+---
+### ม้าสุดตื่นเต้นกำลังมุ่งหน้าสู่ดาวอังคาร
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์เล่าเรื่องแนวสนุกสนานเกี่ยวกับม้าตัวหนึ่งที่ตื่นเต้นกับการเดินทางไปดาวอังคาร
+
+#### 📝 Prompt
+
+```
+ม้าตัวนี้ก็อยากไปดาวอังคารเหมือนกัน และกำลังแสดงอาการดี๊ด๊าเพราะมันตื่นเต้นสุดๆ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076507612955267072/img/vdWqQrcQ8KXVo88X.jpg" width="600" alt="ม้าสุดตื่นเต้นกำลังมุ่งหน้าสู่ดาวอังคาร">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7227)**
+
+**Author:** [loving X@ Cheryl](https://x.com/Corr1444) | **Source:** [Link](https://x.com/Corr1444/status/2076507665174294972) | **Published:** Jul 13, 2026
+
+---
+### แอนิเมชันป้ายโฆษณา Grokius Maximus
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับวิดีโอที่แสดงตัวละครบนป้ายโฆษณาสีสันสดใสกำลังเคลื่อนไหวและหันมองไปรอบๆ
+
+#### 📝 Prompt
+
+```
+Grokius Maximus บนป้ายโฆษณาสีสันสดใสค่อยๆ หันศีรษะไปมองทางด้านขวา
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076504195998593024/img/QmFwfdViwQdM6-1-.jpg" width="600" alt="แอนิเมชันป้ายโฆษณา Grokius Maximus">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7222)**
+
+**Author:** [INDUSTRIUM](https://x.com/INDUSTRIUM_AI) | **Source:** [Link](https://x.com/INDUSTRIUM_AI/status/2076504263023640817) | **Published:** Jul 13, 2026
+
+---
+### การประชุมธุรกิจในชุดดีไซเนอร์ระดับมืออาชีพ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์บรรยายภาพผู้หญิงในชุดสูทธุรกิจดีไซเนอร์สุดหรูขณะกำลังดำเนินการประชุมอย่างมืออาชีพ
+
+#### 📝 Prompt
+
+```
+หญิงสาวสวมชุดสูทธุรกิจดีไซเนอร์สีแดงและม่วงที่โดดเด่น ประกอบด้วยเสื้อเบลเซอร์สั่งตัดและกระโปรงหรือกางเกงขายาวที่มีการตัดต่อสีม่วงและแดงอย่างมีระดับ เนื้อผ้าหรูหรา และดูเป็นมืออาชีพ เธออยู่ในระหว่างการดำเนินการประชุมทางธุรกิจ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076468658067357696/img/Ub3Idibtvx_a28-U.jpg" width="600" alt="การประชุมธุรกิจในชุดดีไซเนอร์ระดับมืออาชีพ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7226)**
+
+**Author:** [Diane Thomas Joy](https://x.com/Thoma31928Joy) | **Source:** [Link](https://x.com/Thoma31928Joy/status/2076468713071468890) | **Published:** Jul 13, 2026
+
+---
 ### ห้องสมุดแห่งความฝันที่ถูกลืม
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -651,6 +864,25 @@ Arborpunk Hanging Orchid Observatory ในรูปแบบใหม่ที�
 **Author:** [Huff](https://x.com/Huff4Congress) | **Source:** [Link](https://x.com/Huff4Congress/status/2075601096253309265) | **Published:** Jul 10, 2026
 
 ---
+### ภาพยนตร์โดรน FPV เหนือป่าไม้ในยามเช้า
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ภาพจากโดรน FPV ความเร็วสูงที่บินผ่านป่าที่มีหมอกปกคลุมในช่วงพระอาทิตย์ขึ้น โดดเด่นด้วยแสงสีทองและละอองที่ลอยตัวรวมกันเป็นข้อความก่อนจะจางหายไป
+
+#### 📝 Prompt
+
+```
+ภาพจาก FPV: กล้องเคลื่อนที่ด้วยความเร็วผ่านป่าทึบในช่วงพระอาทิตย์ขึ้น ลัดเลาะไปตามต้นไม้สูงใหญ่ที่ปกคลุมด้วยหมอกยามเช้า แสงสีทองส่องผ่านยอดไม้ในขณะที่ละอองเกสรและหยดน้ำค้างนับพันล้านลอยฟุ้งอยู่ในอากาศ กล้องเคลื่อนเข้าสู่ลำแสงอาทิตย์ที่ส่องกระทบละอองเหล่านั้นจนก่อตัวเป็นคำว่า "MORNING" ก่อนจะแตกกระจายกลายเป็นละอองสีทองระยิบระยับ ภาพพระอาทิตย์ขึ้นที่ยิ่งใหญ่ บรรยากาศธรรมชาติแบบภาพยนตร์ ความสมจริงระดับสูง และ VFX ที่น่าทึ่ง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075586213294022656/img/LIEf70JuAxykwiAw.jpg" width="600" alt="ภาพยนตร์โดรน FPV เหนือป่าไม้ในยามเช้า">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7230)**
+
+**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2075586581294092409) | **Published:** Jul 10, 2026
+
+---
 ### พรอมต์แฟนตาซีรุ่งอรุณแห่งแสงชีวภาพ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -687,6 +919,28 @@ Arborpunk Hanging Orchid Observatory ในรูปแบบใหม่ที�
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7010)**
 
 **Author:** [Robert Heinlein](https://x.com/strangerinastr) | **Source:** [Link](https://x.com/strangerinastr/status/2075286711521956062) | **Published:** Jul 9, 2026
+
+---
+### ภาพเซลฟี่หน้ากระจกของ Sailor Mars
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์ที่มีรายละเอียดสูงสำหรับการสร้างวิดีโอที่สมจริงของ Rei Hino ในบทบาท Sailor Mars ขณะกำลังถ่ายเซลฟี่หน้ากระจกกับ Luna ในห้องน้ำสไตล์โมเดิร์น
+
+#### 📝 Prompt
+
+```
+ภาพเซลฟี่หน้ากระจกที่สมจริงมากของ Rei Hino ในบทบาท Sailor Mars เผยให้เห็นกระที่เป็นธรรมชาติบนใบหน้า หัวไหล่ และหน้าอก เธอมีผมสีดำยาวตรงเงางามพร้อมหน้าม้าตรงที่ทิ้งตัวลงมาด้านหลัง
+เธอสวมชุด Sailor Mars คลาสสิกที่ถูกต้องตามต้นฉบับ: ชุดรัดรูปสีขาว ปกกะลาสีสีแดงขลิบขาว โบว์สีม่วงขนาดใหญ่ที่มีจุดศูนย์กลางเป็นวงกลมสีแดงและเข็มกลัดสีทอง กระโปรงจีบสั้นสีแดงพร้อมกระโปรงซับในสีม่วงและขลิบทอง รัดเกล้าสีทองประดับอัญมณีสีแดง ถุงมือยาวสีขาวข้อมือสีแดง รองเท้าบูทสีแดงเงางาม และโช้คเกอร์สีแดงพร้อมจี้รูปดาวสีทอง
+เธอนั่งอยู่ในห้องน้ำหินอ่อนที่สว่างและทันสมัย กำลังถ่ายเซลฟี่หน้ากระจกด้วยสมาร์ทโฟนสีดำในมือขวา ในอ้อมแขนซ้ายเธออุ้มแมวดำตัวน้อยอย่างอ่อนโยน นั่นคือ Luna จาก Sailor Moon ซึ่งมีขนสีดำเงา ดวงตาสีทองกลมโต และสัญลักษณ์รูปพระจันทร์เสี้ยวสีเหลืองบนหน้าผาก Luna ดูสงบและอยากรู้อยากเห็น
+Sailor Mars มองตรงมาที่กล้องด้วยรอยยิ้มที่มั่นใจ ขี้เล่นเล็กน้อย และมีเสน่ห์ แสงธรรมชาติจากหน้าต่างที่นุ่มนวล ผิวสัมผัสสมจริง เห็นกระชัดเจน โฟกัสคมชัด
+```
+
+<img src="https://cms-assets.youmind.com/media/1784016876452_4z6fq2_HMzGqj3W0AA9YlL.jpg" width="600" alt="ภาพเซลฟี่หน้ากระจกของ Sailor Mars">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7228)**
+
+**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2075252023914574244) | **Published:** Jul 9, 2026
 
 ---
 ### ภาพเซลฟี่หน้ากระจกสไตล์สมจริงของ Sailor Moon
@@ -763,6 +1017,25 @@ Arborpunk Hanging Orchid Observatory ในรูปแบบใหม่ที�
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6973)**
 
 **Author:** [joscilene Laura](https://x.com/joscilene_maria) | **Source:** [Link](https://x.com/joscilene_maria/status/2074851707507355664) | **Published:** Jul 8, 2026
+
+---
+### หญิงสาวท่ามกลางมวลบุปผาสีคราม
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์ที่ให้ความรู้สึกนุ่มนวลและสง่างาม เผยให้เห็นภาพหญิงสาวที่รายล้อมไปด้วยดอกไม้ลูกไม้สีฟ้าอันบอบบางภายใต้แสงไฟที่นุ่มนวล
+
+#### 📝 Prompt
+
+```
+หญิงสาวผู้อ่อนโยนที่กำลังเบ่งบานท่ามกลางมวลบุปผาสีครามอันบอบบาง... เสียงกระซิบแห่งแสงอันนุ่มนวลและความสง่างามที่เงียบสงบ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074818526465150976/img/JTcMYr90WtlwLQw6.jpg" width="600" alt="หญิงสาวท่ามกลางมวลบุปผาสีคราม">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7232)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2074818638016909450) | **Published:** Jul 8, 2026
 
 ---
 ### วิดีโอฤดูร้อนในบ้านชนบทเกาหลี
@@ -1915,292 +2188,6 @@ Youman,
 **Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2071975095451386157) | **Published:** Jun 30, 2026
 
 ---
-### ความฝันเห็ดมหัศจรรย์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่งวิดีโอเชิงบรรยายสำหรับฉากเห็ดเรืองแสงสีรุ้งที่สร้างขึ้นโดย Grok Imagine 1.5
-
-#### 📝 Prompt
-
-```
-เอื้อมมือไปสู่ความฝันเห็ดมหัศจรรย์… เสียงกระซิบแห่งความอัศจรรย์สีรุ้งและแสงสว่างอันนุ่มนวล
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071916735448432640/img/8hAGD3gsc5WyyZeS.jpg" width="600" alt="ความฝันเห็ดมหัศจรรย์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6652)**
-
-**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2071916798640046195) | **Published:** Jun 30, 2026
-
----
-### โฆษณาแฟชั่นหรูในคาเฟ่สไตล์ยุโรป
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ชุดคำสั่ง (Prompt) สำหรับวิดีโอโฆษณาแฟชั่นหรูแบบหลายฉาก ที่นำเสนอภาพหญิงสาวผู้มีสไตล์บริเวณทางเข้าคาเฟ่ในยุโรป
-
-#### 📝 Prompt
-
-```
-สร้างวิดีโอโฆษณาแฟชั่นหรูระดับภาพยนตร์ที่สมจริงเป็นพิเศษความยาว 15 วินาที หญิงสาวผู้มีสไตล์ยืนอย่างสง่างามที่ทางเข้าคาเฟ่หรูในยุโรป สวมเสื้อเชิ้ตกระดุมสีฟ้าสกายบลูทรงโอเวอร์ไซส์พับแขน กางเกงขายาวทรงกระบอกกว้างสีขาวสุดหรู รองเท้าผ้าใบสีขาวสะอาดตา กระเป๋าสะพายไหล่ดีไซน์เนอร์สีดำ นาฬิกาข้อมือสีทอง และเครื่องประดับที่ละเอียดอ่อน คงไว้ซึ่งลักษณะใบหน้า สัดส่วนร่างกายที่เป็นธรรมชาติ และการจัดสไตล์แฟชั่นระดับพรีเมียม
-
-ฉากที่ 1 (0–3 วินาที): ภาพมุมกว้างของคาเฟ่สุดหรูในขณะที่เธอกำลังเดินอย่างช้าๆ ไปยังทางเข้าด้วยความมั่นใจและสุขุม
-
-ฉากที่ 2 (3–6 วินาที): เธอค่อยๆ ปัดผมไปด้านหลังในขณะที่มืออีกข้างยังคงอยู่ในกระเป๋ากางเกง ก้มหน้าลงพร้อมรอยยิ้มที่อ่อนโยน
-
-ฉากที่ 3 (6–9 วินาที): กล้องหมุนรอบตัวเธออย่างนุ่มนวลในขณะที่เธอจัดกระเป๋าสะพายและเหลือบมองไปทางคาเฟ่
-
-ฉากที่ 4 (9–12 วินาที): ภาพโคลสอัพความงามที่เน้นพื้นผิวผิวที่สมจริง เนื้อผ้าหรูหรา เครื่องประดับทอง และแสงแดดอุ่นๆ ที่สะท้อนผ่านหน้าต่างคาเฟ่
-
-ฉากที่ 5 (12–15 วินาที): ภาพเต็มตัวแบบฮีโร่ช็อตในขณะที่เธอเดินไปข้างหน้า หยุดอย่างสง่างาม แตะผมเบาๆ และยิ้มอย่างมั่นใจในขณะที่กล้องค่อยๆ ถอยออก
-
-โฆษณาแฟชั่นหรู, การเล่าเรื่องแบบภาพยนตร์, สไตล์บรรณาธิการระดับพรีเมียม, การเคลื่อนไหวของกล้องที่นุ่มนวล, ฟิสิกส์ของเนื้อผ้าที่สมจริง, การเคลื่อนไหวของเส้นผมที่ละเอียดอ่อน, ระยะชัดลึกตื้น, แสงสีทองอบอุ่น, สมจริงเหมือนภาพถ่าย, รูปลักษณ์แบบภาพยนตร์ 4K, คุณภาพระดับมาสเตอร์พีซ, แนวตั้ง 9:16
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2071910072574197760/pu/img/MwVbd4P3FYMrIqv-.jpg" width="600" alt="โฆษณาแฟชั่นหรูในคาเฟ่สไตล์ยุโรป">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6647)**
-
-**Author:** [Sadia](https://x.com/SadiaMalik182) | **Source:** [Link](https://x.com/SadiaMalik182/status/2071910182142308737) | **Published:** Jun 30, 2026
-
----
-### วิดีโอวันพักผ่อนริมสระน้ำช่วงฤดูร้อน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพร้อมคำบรรยายที่แสดงภาพตัวละครกำลังเพลิดเพลินกับแสงแดดและสายน้ำริมสระในบรรยากาศช่วงฤดูร้อน
-
-#### 📝 Prompt
-
-```
-นั่งเหม่อลอยริมสระน้ำกับบรรยากาศฤดูร้อนสไตล์ A.I. ในที่สุดก็ได้เพลิดเพลินกับสายน้ำและแสงแดดอันอบอุ่นเสียที
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071889507381637120/img/Kq8elEr4FU0g9dP6.jpg" width="600" alt="วิดีโอวันพักผ่อนริมสระน้ำช่วงฤดูร้อน">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6648)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2071889565250416648) | **Published:** Jun 30, 2026
-
----
-### เทพธิดาแห่งพระจันทร์สีสตรอว์เบอร์รีผู้เงียบสงบ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์เชิงกวีที่นำเสนอภาพหญิงสาวผู้ประดับประดาด้วยแสงจันทร์และเพชรพลอยขณะพักผ่อนอยู่ใต้พระจันทร์สีสตรอว์เบอร์รี
-
-#### 📝 Prompt
-
-```
-เธอนอนพักผ่อนอยู่ใต้พระจันทร์สีสตรอว์เบอร์รี ประดับกายด้วยเพียงแสงจันทร์และเพชรพลอย เธอเคลิบเคลิ้มไปท่ามกลางผลสตรอว์เบอร์รีสุกปลั่งและแสงหิ่งห้อย กลายเป็นส่วนหนึ่งของค่ำคืนอย่างสมบูรณ์ ทั้งเงียบสงบ เปล่งประกาย และเปี่ยมไปด้วยความสงบสุข
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071761629625122816/img/N464vyQgtupHuZ7R.jpg" width="600" alt="เทพธิดาแห่งพระจันทร์สีสตรอว์เบอร์รีผู้เงียบสงบ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6645)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2071761693634425274) | **Published:** Jun 30, 2026
-
----
-### หญิงสาวผมบลอนด์ใต้พระจันทร์สีสตรอว์เบอร์รี
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวภาพยนตร์ที่สวยงาม นำเสนอภาพหญิงสาวบนยอดเขาภายใต้พระจันทร์สีสตรอว์เบอร์รีดวงใหญ่ในช่วงเวลาโพล้เพล้
-
-#### 📝 Prompt
-
-```
-ภายใต้แสงนวลตาของพระจันทร์สีสตรอว์เบอร์รีดวงยักษ์ที่แขวนตัวต่ำอยู่บนท้องฟ้าช่วงโพล้เพล้ หญิงสาวผมบลอนด์แสนสวยยืนอยู่อย่างสง่างามบนยอดเขาที่เงียบสงบ ผมสีทองยาวของเธอทิ้งตัวเป็นลอนคลื่นอ่อนๆ ลงมาตามแผ่นหลัง สะท้อนแสงสีชมพูระเรื่อ เธอสวมชุดราตรีโปร่งแสงที่งดงามจนน่าทึ่ง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071733013730541571/img/C68iqHWL4e9bs2tM.jpg" width="600" alt="หญิงสาวผมบลอนด์ใต้พระจันทร์สีสตรอว์เบอร์รี">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6635)**
-
-**Author:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **Source:** [Link](https://x.com/AnnetteHollerWe/status/2071733120089653442) | **Published:** Jun 29, 2026
-
----
-### หญิงสาวลอยตัวกับแสงดาว
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวภาพยนตร์ของหญิงสาวที่กำลังลอยอยู่เหนือโลก โดยถือแสงสว่างดวงเล็กๆ ที่กำลังจะกลับคืนสู่ดวงดาว
-
-#### 📝 Prompt
-
-```
-เธอลอยตัวอยู่เหนือโลก พร้อมถือแสงสว่างดวงเล็กๆ ที่เป็นของดวงดาวมาโดยตลอด เมื่อเธอปล่อยมันไป ท้องฟ้าก็ดูเหมือนจะต้อนรับมันกลับบ้าน
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071723164669743104/img/yEApxQoVvWwt2Ngt.jpg" width="600" alt="หญิงสาวลอยตัวกับแสงดาว">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6651)**
-
-**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2071723446401146975) | **Published:** Jun 29, 2026
-
----
-### Legends on Ice Figure Skating
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> พรอมต์แอนิเมชันแนวภาพยนตร์และกวีที่บรรยายถึงการพบกันตามโชคชะตาของนักสเกตลีลาสองคนบนลานน้ำแข็งที่เงียบสงัด
-
-#### 📝 Prompt
-
-```
-❄️ Legends on Ice – Vol.1 ❄️
-
-คนสองคนพบกันบนลานน้ำแข็ง ในวินาทีที่สายตาประสานกัน โลกที่เคยเงียบงันก็เริ่มเคลื่อนไหว เส้นผมสีเงินวาดลวดลายไปกับสายลม และหิมะก็อาบไล้ด้วยแสงสว่าง ทีละก้าว พวกเขาถักทอโชคชะตาและเปลี่ยนมันให้กลายเป็นการเต้นรำชั่วนิรันดร์ ✨ สองจิตวิญญาณ หนึ่งจังหวะ หนึ่งโชคชะตา นี่คือจุดเริ่มต้นของตำนานบนลานน้ำแข็ง โปรดติดตามตอนต่อไป… ⛸️❄️
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071684493015121920/img/izAPSvtfE0tBXB_V.jpg" width="600" alt="Legends on Ice Figure Skating">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6640)**
-
-**Author:** [猫神MT](https://x.com/nekogami_MT) | **Source:** [Link](https://x.com/nekogami_MT/status/2071684551806787596) | **Published:** Jun 29, 2026
-
----
-### แอนิเมชันดวงจันทร์เทอร์โมไดนามิกส์สไตล์ไซเคเดลิก
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวคอสมิกสุดสดใส แสดงภาพดวงจันทร์ที่กำลังเดือดพล่าน แผ่รังสีความร้อน และลวดลายมันดาลาที่หมุนวนท่ามกลางหมอกควันสไตล์ไซเคเดลิก
-
-#### 📝 Prompt
-
-```
-ดวงจันทร์ที่กำลังเดือดแผ่คลื่นความร้อนเหนือไอระเหยที่ลอยขึ้นมา ลวดลายมันดาลาแบบคาร์โนต์หมุนวน กล้องเคลื่อนที่ขึ้นผ่านหมอกควันทางอุณหพลศาสตร์ ให้ความรู้สึกแบบไซเคเดลิกและคอสมิก น่าตื่นตาตื่นใจราวกับตัวอย่างภาพยนตร์
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071662651273269249/img/AdGD3S1k8mhyEWBj.jpg" width="600" alt="แอนิเมชันดวงจันทร์เทอร์โมไดนามิกส์สไตล์ไซเคเดลิก">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6636)**
-
-**Author:** [ATom](https://x.com/ThomasSwaff) | **Source:** [Link](https://x.com/ThomasSwaff/status/2071662857603666081) | **Published:** Jun 29, 2026
-
----
-### ความฝันในดินแดนเห็ดสีพาสเทล
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์แนวไซเคเดลิกและเหนือจริง ที่บรรยายถึงการเดินทางล่องลอยผ่านทิวทัศน์เห็ดสีพาสเทล
-
-#### 📝 Prompt
-
-```
-ล่องลอยอยู่ในความฝันของเห็ดสีพาสเทลแนวไซเคเดลิก... เสียงกระซิบแห่งความมหัศจรรย์อันอ่อนโยนและแสงนวลตา 🍄🌈✨
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071542463161106432/img/n-v_9YJXnNP9wRsd.jpg" width="600" alt="ความฝันในดินแดนเห็ดสีพาสเทล">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6637)**
-
-**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2071542525698122170) | **Published:** Jun 29, 2026
-
----
-### การเตรียมความพร้อมของหุ่นยนต์บนดาวอังคาร
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) สำหรับ Grok Imagine ในรูปแบบภาพยนตร์ที่แสดงภาพหุ่นยนต์ใช้ชีวิตเหมือนมนุษย์บนดาวอังคาร เพื่อเตรียมพร้อมสำหรับการมาถึงของมนุษย์ในอนาคต
-
-#### 📝 Prompt
-
-```
-หุ่นยนต์ถูกส่งไปยังดาวอังคารก่อน โดยบางส่วนได้รับมอบหมายให้ใช้ชีวิตเสมือนมนุษย์ เพื่อเตรียมความพร้อมให้ดีที่สุดสำหรับการมาถึงของมนุษย์ในอนาคต
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071520954379882496/img/ZLCsk8a3ogtQhLvn.jpg" width="600" alt="การเตรียมความพร้อมของหุ่นยนต์บนดาวอังคาร">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6653)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2071521072533373212) | **Published:** Jun 29, 2026
-
----
-### Grok Imagine: พรอมต์สำหรับสร้างสรรค์สิ่งมีชีวิตในรูปแบบจักรกลและจิตวิญญาณ
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> ชุดคำอธิบายภาพโดยละเอียดสำหรับการสร้างสุนัขจิ้งจอกจักรกลนีออนและจิตวิญญาณกระจกสี ออกแบบมาเพื่อการสร้างวิดีโอคุณภาพสูงใน Grok Imagine
-
-#### 📝 Prompt
-
-```
-สุนัขจิ้งจอกนีออน (Mechanical Fox)
-แนวคิด: สุนัขจิ้งจอกจักรกลขนาดเล็กที่เป็นสัญลักษณ์ของความคล่องแคล่วและสติปัญญา ทำหน้าที่เป็นคู่หูสำหรับการสื่อสารความเร็วสูง
-รายละเอียด: สุนัขจิ้งจอกขนาดเล็กที่ประกอบขึ้นจากชิ้นส่วนจักรกลที่ซับซ้อนและหลอดไฟนีออนสีเหลือง ร่างกายบางส่วนมีความโปร่งใส เผยให้เห็นกระแสข้อมูลแสงที่เต้นเป็นจังหวะอยู่ภายใน มีดวงตาคล้ายเลนส์กล้องเพื่อบันทึกสิ่งที่ผ่านเข้ามาในระยะการมองเห็นให้กลายเป็นข้อมูล
-
-จิตวิญญาณกระจกสี (Light Spirit)
-แนวคิด: จิตวิญญาณมีปีกขนาดเล็กโปร่งแสงที่ถือกำเนิดจากแสงที่ควบแน่นผ่านกระจกสีในโบสถ์
-รายละเอียด: จิตวิญญาณรูปร่างคล้ายมนุษย์ขนาดเล็กที่ประกอบขึ้นจากแสงหลากสีสันที่หมุนวน สะท้อนสีสันทั้งหมดของกระจกสี ร่างกายมีความละเอียดอ่อนดุจแก้วแต่ไร้น้ำหนักดุจแสง เมื่อตัวละครเคลื่อนที่ แสงจากกระจกสีจะถูกดึงดูดเข้ามาหาตัว ก่อตัวขึ้นเป็นจิตวิญญาณเหล่านี้
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2071484451524399104/pu/img/Nr2UO5QjZq2IsxfB.jpg" width="600" alt="Grok Imagine: พรอมต์สำหรับสร้างสรรค์สิ่งมีชีวิตในรูปแบบจักรกลและจิตวิญญาณ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6638)**
-
-**Author:** [akira](https://x.com/akira_LEVEL3141) | **Source:** [Link](https://x.com/akira_LEVEL3141/status/2071484537767686272) | **Published:** Jun 29, 2026
-
----
-### Marble Lovers Golden Kiss
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สไตล์ศิลปะอันซับซ้อนที่ผสมผสานงานประติมากรรมของ Yves Pires เข้ากับสไตล์การวาดภาพของ Gustav Klimt
-
-#### 📝 Prompt
-
-```
-จูบที่ซ้อนทับอยู่ในจูบ คู่รักหินอ่อนของ Yves Pires ที่โอบกอดกันอยู่เบื้องหน้าผลงาน Golden Kiss ของ Klimt
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071412715935985665/img/FcHHNv039pFHi5yr.jpg" width="600" alt="Marble Lovers Golden Kiss">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6639)**
-
-**Author:** [Jess X](https://x.com/jess_X) | **Source:** [Link](https://x.com/jess_X/status/2071412768066936906) | **Published:** Jun 29, 2026
-
----
-### ฉากกราฟฟิตี้ไซบอร์กสไตล์ไซเบอร์พังค์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์ที่มีรายละเอียดเกี่ยวกับศิลปินกราฟฟิตี้ไซบอร์กในตรอกนีออนที่เปียกชื้น โดยเปลี่ยนจากการพ่นสีไปเป็นการขี่มอเตอร์ไซค์
-
-#### 📝 Prompt
-
-```
-ศิลปินกราฟฟิตี้ไซบอร์กในชุดฮู้ดและหมวกกันน็อกสีน้ำเงินก้าวถอยหลังออกมาจากภาพวาดฝาผนังหุ่นยนต์สีฟ้าเรืองแสงบนกำแพงอิฐ โยนกระป๋องสเปรย์ออกไปนอกเฟรม จากนั้นกระโดดขึ้นขี่มอเตอร์ไซค์สไตล์ไซเบอร์พังค์สุดโฉบเฉี่ยวที่มีไฟนีออนใต้ท้องรถ ซึ่งจอดอยู่ในตรอกที่เปียกชื้น
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071397162634842112/img/ztzxpB6ihaTV4KoI.jpg" width="600" alt="ฉากกราฟฟิตี้ไซบอร์กสไตล์ไซเบอร์พังค์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6634)**
-
-**Author:** [Robadang ✏️ AI Artist](https://x.com/dang_machina) | **Source:** [Link](https://x.com/dang_machina/status/2071397216674308335) | **Published:** Jun 29, 2026
-
----
-### วิดีโอโซฟาเล่นแซนด์บอร์ดกลางทะเลทราย
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอเคลื่อนไหวแบบไดนามิกที่แสดงภาพโซฟาเล่นแซนด์บอร์ดในทะเลทราย พร้อมคำแนะนำการตั้งค่ากล้องโดยเฉพาะ
-
-#### 📝 Prompt
-
-```
-ภาพเคลื่อนไหวการเล่นแซนด์บอร์ดกลางทะเลทราย โซฟา Slides ลงเนินไปทางขวาอย่างนุ่มนวล กล้องติดตามโซฟาที่เป็นวัตถุหลัก เป็นช็อตแบบไดนามิก โดยให้กล้องหันไปทางด้านหน้าของโมเดล ใบหน้าของโมเดลไม่มีการแสดงอารมณ์ ไม่ต้องถ่ายในมุมมองระยะไกล...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071293819006627840/img/pdQ6g7DXonPOm6y7.jpg" width="600" alt="วิดีโอโซฟาเล่นแซนด์บอร์ดกลางทะเลทราย">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6589)**
-
-**Author:** [Christian Kierulf](https://x.com/ChristianKieru1) | **Source:** [Link](https://x.com/ChristianKieru1/status/2071293887357018535) | **Published:** Jun 28, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2262,6 +2249,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-14T06:33:35.629Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-14T10:21:51.148Z</sub>
 
 </div>

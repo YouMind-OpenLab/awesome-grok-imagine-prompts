@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2093** |
+| 📝 Total Prompts | **2107** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-14** |
 
@@ -189,6 +189,219 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Celestial Aurora Weaving
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A poetic visualization of the northern lights being woven across the polar sky by celestial artisans using massive looms.
+
+#### 📝 Prompt
+
+```
+Massive looms stretch across the polar sky where ribbons of emerald, violet, sapphire, and gold are woven into auroras by thousands of celestial artisans.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075485665500794880/img/7jRhIujItskIVQx_.jpg" width="600" alt="Celestial Aurora Weaving">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7231)**
+
+**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2076811411796451619) | **Published:** Jul 13, 2026
+
+---
+### Cosmic Friendly Being Ad Astra
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative video prompt generating a cosmic being with a futuristic and inspirational atmosphere.
+
+#### 📝 Prompt
+
+```
+Cosmic friendly being
+
+The future is right in front of you.
+
+Grasp it - AD Astra
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076775823953027074/img/CG4a6nKiISfvprqj.jpg" width="600" alt="Cosmic Friendly Being Ad Astra">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7223)**
+
+**Author:** [BackWoods 🌱](https://x.com/SGBackWoods) | **Source:** [Link](https://x.com/SGBackWoods/status/2076775890256564473) | **Published:** Jul 13, 2026
+
+---
+### Botanical Garden Future Scenery
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic prompt for generating a video of botanical gardens located inside large futuristic glass domes.
+
+#### 📝 Prompt
+
+```
+slow down and enjoy the beauty of our future, can you add a botanical garden inside the 2 larger domes. different kinds....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076712490545594368/img/KL9EM0UjIf4m6-kO.jpg" width="600" alt="Botanical Garden Future Scenery">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7224)**
+
+**Author:** [StellaPeekArt](https://x.com/StellaPeekArt42) | **Source:** [Link](https://x.com/StellaPeekArt42/status/2076712800143982863) | **Published:** Jul 13, 2026
+
+---
+### Charleston Capitol City Theme
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt that develops a realistic theme based on West Virginia's capital, Charleston.
+
+#### 📝 Prompt
+
+```
+Use these two and develop them modestly with realistic West Virginias capital Charleston theme in mind....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076701376973795331/img/LyDw09-R70uNaVxp.jpg" width="600" alt="Charleston Capitol City Theme">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7225)**
+
+**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2076701448125956453) | **Published:** Jul 13, 2026
+
+---
+### Musical Face Close-up Video Prompt
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A complex video prompt for a close-up musical performance involving flying rainbows, diamonds, and sand dunes.
+
+#### 📝 Prompt
+
+```
+Close-up of the face from the current image. The singing voice is bright and light. Sing "Thank you God, everyone" to the notes Do-Re-Mi-Fa-So-La-Ti-Do. Accompanied by synthesizers and cymbals. Red, white, and yellow petals, light, diamonds, stars, and rainbows fly up. They spread into a heart shape, form a circle, and scatter. Gold dust dunes in the background.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076657383426899969/img/G5TKsH7qVIKXRLGf.jpg" width="600" alt="Musical Face Close-up Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7234)**
+
+**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2076657496966799813) | **Published:** Jul 13, 2026
+
+---
+### Red Dress Flower Field Dance Prompt
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A magical video prompt featuring a woman in a red dress dancing in a sunlit flower field with sparkling stars and rainbow magic.
+
+#### 📝 Prompt
+
+```
+Wearing a red dress under a bright sun. In a field of pink and white flowers. Petals, light, hearts, rainbows, dreams, and the magic of love dance around. Sparkling gold, yellow, and white stars lead from the dunes over there to my feet. I laugh happily while dancing. Thank you God, everyone.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076653330206748672/img/1cHBxBZZMd-TPARR.jpg" width="600" alt="Red Dress Flower Field Dance Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7235)**
+
+**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2076653402982150482) | **Published:** Jul 13, 2026
+
+---
+### Serene Angel with Holographic Butterflies
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt describing a peaceful angel in lace surrounded by glowing light and shimmering holographic butterflies.
+
+#### 📝 Prompt
+
+```
+A serene angel wrapped in delicate lace and soft glowing light, surrounded by shimmering white holographic butterflies.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076622231497830400/img/f58E7-h-BL7DluK3.jpg" width="600" alt="Serene Angel with Holographic Butterflies">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7229)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2076622295674786092) | **Published:** Jul 13, 2026
+
+---
+### Magical Stage Dance Video Prompt
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A vibrant video prompt featuring a dancer in a floral lace dress on a magical stage filled with flying hearts, gems, and castles.
+
+#### 📝 Prompt
+
+```
+Dancing in a light blue and white floral lace lantern sleeve dress on a stage filled with red, pink, and gold flowers under spotlights. Hearts, gems, and petals fly through the air, with a castle and carriage surrounding the stage.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076567103382138880/img/SqAehBZQ2L_VY_Cf.jpg" width="600" alt="Magical Stage Dance Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7233)**
+
+**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2076567161599107173) | **Published:** Jul 13, 2026
+
+---
+### Excited Horse Heading to Mars
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A playful narrative prompt about a horse excited to travel to Mars.
+
+#### 📝 Prompt
+
+```
+This horse wants to go to mars also and is carrying on because he’s a little excited
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076507612955267072/img/vdWqQrcQ8KXVo88X.jpg" width="600" alt="Excited Horse Heading to Mars">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7227)**
+
+**Author:** [loving X@ Cheryl](https://x.com/Corr1444) | **Source:** [Link](https://x.com/Corr1444/status/2076507665174294972) | **Published:** Jul 13, 2026
+
+---
+### Grokius Maximus Billboard Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for a video showing a character on a colorful billboard moving and looking around.
+
+#### 📝 Prompt
+
+```
+The Grokius Maximus on the colorful billboard slowly turns her head to look to the right.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076504195998593024/img/QmFwfdViwQdM6-1-.jpg" width="600" alt="Grokius Maximus Billboard Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7222)**
+
+**Author:** [INDUSTRIUM](https://x.com/INDUSTRIUM_AI) | **Source:** [Link](https://x.com/INDUSTRIUM_AI/status/2076504263023640817) | **Published:** Jul 13, 2026
+
+---
+### Professional Designer Suit Business Meeting
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt describing a woman in a luxury designer business suit conducting a professional meeting.
+
+#### 📝 Prompt
+
+```
+The woman wears a striking red and purple designer business suit — tailored blazer and skirt or trousers with elegant purple and red color blocking, luxury fabric, and professional polish. She is conducting a business meeting.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076468658067357696/img/Ub3Idibtvx_a28-U.jpg" width="600" alt="Professional Designer Suit Business Meeting">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7226)**
+
+**Author:** [Diane Thomas Joy](https://x.com/Thoma31928Joy) | **Source:** [Link](https://x.com/Thoma31928Joy/status/2076468713071468890) | **Published:** Jul 13, 2026
+
+---
 ### Library of Forgotten Dreams
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -632,11 +845,11 @@ The Snow Queen (Snedronningen), the queen of the snowflakes or "snow-bees", who 
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2075688977089139000) | **Published:** Jul 10, 2026
 
 ---
-### Black Helen of Troy Cinematic Video
+### Black Helen of Troy Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt designed to generate a cinematic video of a Black Helen of Troy, emphasizing specific cultural representation over standard casting.
+> A specific conceptual prompt for creating a video of Helen of Troy reimagined as a Black woman.
 
 #### 📝 Prompt
 
@@ -644,11 +857,30 @@ The Snow Queen (Snedronningen), the queen of the snowflakes or "snow-bees", who 
 I don’t simply want a black actress playing Helen of Troy. I want a Black Helen of Troy. Make that video.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075601009921957888/img/aN9beJL_fzdcvCfd.jpg" width="600" alt="Black Helen of Troy Cinematic Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075601009921957888/img/aN9beJL_fzdcvCfd.jpg" width="600" alt="Black Helen of Troy Video">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7061)**
 
 **Author:** [Huff](https://x.com/Huff4Congress) | **Source:** [Link](https://x.com/Huff4Congress/status/2075601096253309265) | **Published:** Jul 10, 2026
+
+---
+### Cinematic Forest FPV Sunrise
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-speed FPV drone shot racing through a misty forest at sunrise, featuring golden light rays and floating particles that form text before dissipating.
+
+#### 📝 Prompt
+
+```
+FPV shot: The camera races through a dense forest at sunrise, weaving between towering trees covered in morning mist. Golden rays pierce the canopy as billions of floating pollen particles and tiny droplets of dew drift through the air. The camera enters a shaft of sunlight where the illuminated particles synchronize naturally, forming "MORNING" before exploding into a cascade of sparkling golden dust. Epic sunrise, cinematic nature, ultra realistic atmosphere, breathtaking VFX.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075586213294022656/img/LIEf70JuAxykwiAw.jpg" width="600" alt="Cinematic Forest FPV Sunrise">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7230)**
+
+**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2075586581294092409) | **Published:** Jul 10, 2026
 
 ---
 ### Bioluminescent Dawn Fantasy Prompt
@@ -689,6 +921,28 @@ The tennis player completes the forehand swing as the yellow ball rockets across
 **Author:** [Robert Heinlein](https://x.com/strangerinastr) | **Source:** [Link](https://x.com/strangerinastr/status/2075286711521956062) | **Published:** Jul 9, 2026
 
 ---
+### Sailor Mars Mirror Selfie
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed prompt for generating a realistic video of Rei Hino as Sailor Mars taking a mirror selfie with Luna in a modern bathroom.
+
+#### 📝 Prompt
+
+```
+Highly realistic mirror selfie of Rei Hino as Sailor Mars, natural freckles on her face, shoulders and chest. She has long, straight glossy black hair with straight bangs flowing down her back. 
+She wears an accurate classic Sailor Mars outfit: white leotard, red sailor collar with white trim, large purple bow with red circular center and golden brooch, short red pleated skirt with purple underskirt and gold trim, golden tiara with red gemstone, long white gloves with red cuffs, shiny red boots, red choker with golden star pendant.
+She is sitting in a modern bright marble bathroom, taking a mirror selfie with a black smartphone in her right hand. In her left arm she is gently holding a small black cat - Luna from Sailor Moon, with shiny black fur, big golden eyes, and a yellow crescent moon symbol on her forehead. Luna looks calm and curious. 
+Sailor Mars looks directly at the camera with a confident, slightly playful and charming smile. Soft natural window lighting, realistic skin texture, visible freckles, sharp focus.
+```
+
+<img src="https://cms-assets.youmind.com/media/1784016876452_4z6fq2_HMzGqj3W0AA9YlL.jpg" width="600" alt="Sailor Mars Mirror Selfie">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7228)**
+
+**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2075252023914574244) | **Published:** Jul 9, 2026
+
+---
 ### Photorealistic Sailor Moon Mirror Selfie
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -708,11 +962,11 @@ Highly realistic mirror selfie of a woman with pale porcelain skin and delicate 
 **Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2075205397112123637) | **Published:** Jul 9, 2026
 
 ---
-### Photorealistic Fantasy World Video Prompt
+### Breathtaking Imaginary World with Floating Mountains
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed prompt for creating a breathtaking cinematic video of a fantasy landscape with floating mountains and glowing forests.
+> A detailed cinematic prompt for generating a hyper-photorealistic imaginary landscape featuring floating mountains, crystal rivers, and glowing forests.
 
 #### 📝 Prompt
 
@@ -720,7 +974,7 @@ Highly realistic mirror selfie of a woman with pale porcelain skin and delicate 
 A breathtaking imaginary world that looks completely real, with floating mountains, giant ancient trees, crystal rivers, glowing forests, waterfalls flowing into misty lakes, golden sunrise, dramatic clouds, exotic birds, peaceful atmosphere, cinematic composition, ultra-photorealistic, IMAX, HDR, volumetric lighting, natural colors, hyper-detailed, 8K, professional photography, no CGI, no illustration, looks like a real place.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075106901357219840/img/BgbByrZssE0gXhLF.jpg" width="600" alt="Photorealistic Fantasy World Video Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075106901357219840/img/BgbByrZssE0gXhLF.jpg" width="600" alt="Breathtaking Imaginary World with Floating Mountains">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7011)**
 
@@ -763,6 +1017,25 @@ Romantic floating animation behind the pencil sketch couple: countless kiss mark
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6973)**
 
 **Author:** [joscilene Laura](https://x.com/joscilene_maria) | **Source:** [Link](https://x.com/joscilene_maria/status/2074851707507355664) | **Published:** Jul 8, 2026
+
+---
+### Maiden Among Blue Flowers
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A soft and elegant prompt featuring a female figure surrounded by delicate blue lace flowers in soft lighting.
+
+#### 📝 Prompt
+
+```
+A gentle maiden blooming among delicate blue lace flowers… Whispers of soft light and quiet elegance.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074818526465150976/img/JTcMYr90WtlwLQw6.jpg" width="600" alt="Maiden Among Blue Flowers">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7232)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2074818638016909450) | **Published:** Jul 8, 2026
 
 ---
 ### Traditional Korean Rural Summer Scene
@@ -950,11 +1223,11 @@ No dialogue
 **Author:** [Cicadas Francois Cosmos 🇯🇵](https://x.com/FC_Cicadas) | **Source:** [Link](https://x.com/FC_Cicadas/status/2074356506334822402) | **Published:** Jul 7, 2026
 
 ---
-### Swimmer and the Ancient Dragon
+### Ancient Underwater Dragon Encounter
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt describing a peaceful encounter between a small swimmer and a massive dragon in an ancient underwater city.
+> A cinematic video prompt of a woman swimming towards a massive dragon in a ruined underwater city.
 
 #### 📝 Prompt
 
@@ -962,7 +1235,7 @@ No dialogue
 She swims directly toward the dragon, small beside it. To not fight. Not to run. Just to be there, in the presence of something that makes the ruined city behind her seem like children's toys. The water surrounding them is heavy with old stories.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074351738916945920/img/DN5W4PjaZPXMXP3N.jpg" width="600" alt="Swimmer and the Ancient Dragon">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074351738916945920/img/DN5W4PjaZPXMXP3N.jpg" width="600" alt="Ancient Underwater Dragon Encounter">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7063)**
 
@@ -1897,292 +2170,6 @@ An aurora borealis swirls like the famous painting Starry Night 🌌
 **Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2071975095451386157) | **Published:** Jun 30, 2026
 
 ---
-### Magical Mushroom Dream
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly descriptive prompt for iridescent, glowing, and magical dreamlike mushroom visuals.
-
-#### 📝 Prompt
-
-```
-Reaching for a magical mushroom dream… Whispers of iridescent wonder and soft glowing light.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071916735448432640/img/8hAGD3gsc5WyyZeS.jpg" width="600" alt="Magical Mushroom Dream">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6652)**
-
-**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2071916798640046195) | **Published:** Jun 30, 2026
-
----
-### Luxury Fashion European Cafe Commercial
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A comprehensive multi-scene commercial prompt for a luxury fashion video featuring a stylish woman at a European cafe entrance.
-
-#### 📝 Prompt
-
-```
-Create a 15-second ultra-realistic cinematic luxury fashion video. A stylish young woman stands gracefully at the entrance of a luxury European café, wearing an oversized sky-blue button-down shirt with rolled-up sleeves, elegant white wide-leg trousers, clean white sneakers, a black designer shoulder bag, a gold wristwatch, and delicate jewelry. Preserve realistic facial features, natural body proportions, and premium fashion styling.
-
-Scene 1 (0–3s): Wide establishing shot of the elegant café as she slowly walks toward the entrance with calm confidence.
-
-Scene 2 (3–6s): She gently brushes her hair back while one hand remains in her pocket, looking down with a soft smile.
-
-Scene 3 (6–9s): The camera smoothly circles around her as she adjusts her shoulder bag and glances toward the café.
-
-Scene 4 (9–12s): Close-up beauty shots highlighting realistic skin texture, luxury fabrics, gold jewelry, and warm sunlight reflecting through the café windows.
-
-Scene 5 (12–15s): Full-body hero shot as she walks forward, pauses gracefully, lightly touches her hair, and smiles confidently while the camera slowly pulls back.
-
-Luxury fashion commercial, cinematic storytelling, premium editorial style, smooth camera movement, realistic fabric physics, subtle hair movement, shallow depth of field, warm golden-hour lighting, photorealistic, 4K cinematic look, masterpiece quality, vertical 9:16.
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2071910072574197760/pu/img/MwVbd4P3FYMrIqv-.jpg" width="600" alt="Luxury Fashion European Cafe Commercial">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6647)**
-
-**Author:** [Sadia](https://x.com/SadiaMalik182) | **Source:** [Link](https://x.com/SadiaMalik182/status/2071910182142308737) | **Published:** Jun 30, 2026
-
----
-### Summer Poolside Daydreaming Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A serene video prompt depicting a character enjoying the sunshine and water at a poolside with summer vibes.
-
-#### 📝 Prompt
-
-```
-At the poolside daydreaming with my A.I. summer vibes, finally enjoys the water and warm sunshine
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071889507381637120/img/Kq8elEr4FU0g9dP6.jpg" width="600" alt="Summer Poolside Daydreaming Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6648)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2071889565250416648) | **Published:** Jun 30, 2026
-
----
-### Serene Strawberry Moon Goddess
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A poetic video prompt featuring a woman adorned in moonlight and diamonds resting under a strawberry moon.
-
-#### 📝 Prompt
-
-```
-She rests beneath the Strawberry Moon, adorned only in moonlight and diamonds. Floating among ripe strawberries and fireflies, she becomes part of the night itself — serene, radiant, and completely at peace.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071761629625122816/img/N464vyQgtupHuZ7R.jpg" width="600" alt="Serene Strawberry Moon Goddess">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6645)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2071761693634425274) | **Published:** Jun 30, 2026
-
----
-### Blonde Woman Under Strawberry Moon
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A beautiful cinematic video prompt featuring a woman on a hilltop under a large strawberry moon at twilight.
-
-#### 📝 Prompt
-
-```
-Under the soft glow of a giant strawberry moon hanging low in the twilight sky, a beautiful blonde woman stands gracefully on a quiet hilltop. Her long, golden hair cascades in gentle waves down her back, catching the rosy light. She wears breathtaking translucent gown.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071733013730541571/img/C68iqHWL4e9bs2tM.jpg" width="600" alt="Blonde Woman Under Strawberry Moon">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6635)**
-
-**Author:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **Source:** [Link](https://x.com/AnnetteHollerWe/status/2071733120089653442) | **Published:** Jun 29, 2026
-
----
-### Floating Girl with Star Light
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt of a woman floating above the earth, holding a small light that returns to the stars.
-
-#### 📝 Prompt
-
-```
-She floats above the world, holding one small light that has always belonged to the stars. When she finally lets it go, the sky itself seems to welcome it home.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071723164669743104/img/yEApxQoVvWwt2Ngt.jpg" width="600" alt="Floating Girl with Star Light">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6651)**
-
-**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2071723446401146975) | **Published:** Jun 29, 2026
-
----
-### Legends on Ice Figure Skating
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A cinematic and poetic animation prompt describing a destined encounter between two figure skaters on a silent ice rink.
-
-#### 📝 Prompt
-
-```
-❄️ Legends on Ice – Vol.1 ❄️
-
-Two people met on the ice. The moment their eyes met, the silent world began to move. Silver hair paints the wind, and snow is clothed in light. Step by step, they weave destiny and turn it into an eternal dance. ✨ Two souls. One rhythm. One destiny. This is the beginning of the ice legend. To Be Continued… ⛸️❄️
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071684493015121920/img/izAPSvtfE0tBXB_V.jpg" width="600" alt="Legends on Ice Figure Skating">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6640)**
-
-**Author:** [猫神MT](https://x.com/nekogami_MT) | **Source:** [Link](https://x.com/nekogami_MT/status/2071684551806787596) | **Published:** Jun 29, 2026
-
----
-### Psychedelic Thermodynamic Moon Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A vivid cosmic video prompt showing a boiling moon, radiating heat, and mandalas spinning in a psychedelic haze.
-
-#### 📝 Prompt
-
-```
-The boiling moon radiates heat waves over rising vapor; carnot mandalas spin; camera drifts upward through thermodynamic haze, psychedelic and cosmic, trailer awe.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071662651273269249/img/AdGD3S1k8mhyEWBj.jpg" width="600" alt="Psychedelic Thermodynamic Moon Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6636)**
-
-**Author:** [ATom](https://x.com/ThomasSwaff) | **Source:** [Link](https://x.com/ThomasSwaff/status/2071662857603666081) | **Published:** Jun 29, 2026
-
----
-### Pastel Psychedelic Mushroom Dream
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An ethereal video prompt of a pastel psychedelic mushroom dream with whispers of gentle wonder and soft light.
-
-#### 📝 Prompt
-
-```
-Floating in a pastel psychedelic mushroom dream… Whispers of gentle wonder and soft light
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071542463161106432/img/n-v_9YJXnNP9wRsd.jpg" width="600" alt="Pastel Psychedelic Mushroom Dream">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6637)**
-
-**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2071542525698122170) | **Published:** Jun 29, 2026
-
----
-### Robots on Mars Preparation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic prompt for Grok Imagine depicting robots living like humans on Mars to prepare for human arrival.
-
-#### 📝 Prompt
-
-```
-Robots are sent to Mars first; some are tasked with living like humans in order to best prepare for their future arrival.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071520954379882496/img/ZLCsk8a3ogtQhLvn.jpg" width="600" alt="Robots on Mars Preparation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6653)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2071521072533373212) | **Published:** Jun 29, 2026
-
----
-### Grok Imagine Mechanical and Ethereal Creature Prompts
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A set of detailed visual descriptions for generating a mechanical neon fox and a stained-glass spirit, designed for high-quality video generation in Grok Imagine.
-
-#### 📝 Prompt
-
-```
-Neon Fox (Mechanical Fox)
-Concept: A small mechanical fox symbolizing agility and wisdom. Serves as a partner for high-speed communication.
-Details: A small fox composed of intricate mechanical parts and yellow neon tubes. Parts of the body are transparent, revealing internal light pulse data streams. It has lens-like eyes to capture what enters its field of vision as data.
-
-Stained Glass Spirit (Light Spirit)
-Concept: A small, translucent winged spirit born from condensed light passing through church stained glass.
-Details: A small humanoid spirit composed of swirling multi-colored light reflecting all colors of stained glass. Its body is delicate like glass yet insubstantial like light. As the character walks, light from stained glass is drawn toward it, forming these spirits.
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2071484451524399104/pu/img/Nr2UO5QjZq2IsxfB.jpg" width="600" alt="Grok Imagine Mechanical and Ethereal Creature Prompts">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6638)**
-
-**Author:** [akira](https://x.com/akira_LEVEL3141) | **Source:** [Link](https://x.com/akira_LEVEL3141/status/2071484537767686272) | **Published:** Jun 29, 2026
-
----
-### Marble Lovers Golden Kiss
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A sophisticated art-style prompt combining the sculpture of Yves Pires with the painting style of Gustav Klimt.
-
-#### 📝 Prompt
-
-```
-A kiss within a kiss. Yves Pires’ marble lovers entwined before Klimt’s golden kiss.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071412715935985665/img/FcHHNv039pFHi5yr.jpg" width="600" alt="Marble Lovers Golden Kiss">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6639)**
-
-**Author:** [Jess X](https://x.com/jess_X) | **Source:** [Link](https://x.com/jess_X/status/2071412768066936906) | **Published:** Jun 29, 2026
-
----
-### Cyborg Graffiti Artist Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed cinematic prompt for a cyborg graffiti artist transitioning from painting a robot mural to riding a cyberpunk motorbike in a rainy alley.
-
-#### 📝 Prompt
-
-```
-The cyborg graffiti artist in the hood and blue helmet steps back from the glowing blue robot mural on the brick wall, tosses the spray can out of frame, then swings onto a sleek cyberpunk motorbike with neon underglow parked in the wet alley.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071397162634842112/img/ztzxpB6ihaTV4KoI.jpg" width="600" alt="Cyborg Graffiti Artist Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6634)**
-
-**Author:** [Robadang ✏️ AI Artist](https://x.com/dang_machina) | **Source:** [Link](https://x.com/dang_machina/status/2071397216674308335) | **Published:** Jun 29, 2026
-
----
-### Desert Couch Sandboarding Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A dynamic motion video prompt featuring a couch sandboarding in the desert with specific camera instructions.
-
-#### 📝 Prompt
-
-```
-Desert sandboarding motion, the couch silky smooth slides downhill to the right, the camera follow the subject couch. Dynamic shot, keep the camera face the front of the model. The model's face is expressionless。Do not have a distant view....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071293819006627840/img/pdQ6g7DXonPOm6y7.jpg" width="600" alt="Desert Couch Sandboarding Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6589)**
-
-**Author:** [Christian Kierulf](https://x.com/ChristianKieru1) | **Source:** [Link](https://x.com/ChristianKieru1/status/2071293887357018535) | **Published:** Jun 28, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2244,6 +2231,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-14T06:33:26.737Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-14T10:21:44.769Z</sub>
 
 </div>
