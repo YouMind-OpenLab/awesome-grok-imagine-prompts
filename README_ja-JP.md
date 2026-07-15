@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2107** |
+| 📝 プロンプト総数 | **2109** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-07-15** |
 
@@ -189,6 +189,56 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### 浮かぶ水の球体
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 柔らかな自然光の中、グラスから流れ出た水が宙に浮く球体を形成する様子を描いた、フォトリアルな動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+テーブルの上の水の入ったグラス。水が突然グラスから上向きに流れ出し、宙に浮く球体を形成する。フォトリアル、柔らかな自然光
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077061435562364928/img/8qeVxVJrvKvXuW5h.jpg" width="600" alt="浮かぶ水の球体">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7268)**
+
+**作者:** [atmen](https://x.com/atmen189) | **ソース:** [Link](https://x.com/atmen189/status/2077238726120669192) | **公開日:** Jul 15, 2026
+
+---
+### セネガルを巡る 8K シネマティック FPV ドローンツアー
+
+![한국어](https://img.shields.io/badge/lang-한국어-orange)
+
+> Grok Imagine 用の非常に詳細な 10 秒間の FPV ドローン飛行プロンプト。アフリカ・ルネサンスの像、ゴレ島、ラック・ローズなど、ゴールデンアワーのセネガルの名所を巡る旅を捉えます。
+
+#### 📝 プロンプト
+
+```
+10 秒間の超高精細シネマティック FPV（一人称視点）ドローン映像。カメラの揺れがほとんどない、非常に安定した自然なドローン飛行により、実際のドローン撮影のような鮮やかな映像美を実現します。滑らかで優雅な動きと、スリリングでダイナミックなシーンを融合させています。
+
+0～2 秒：ゴールデンアワーのダカール上空を滑らかに飛行し、左旋回しながらアフリカ・ルネサンスの像と街並みの壮大なパノラマを捉えます。
+
+2～4 秒：ゴレ島へ自然に移行し、歴史的な島の周囲をスリリングな低空飛行で回り込み、植民地時代の建物の細部や波の様子を捉えます。
+
+4～6 秒：ラック・ローズ（ピンクレイク）へ移動し、ピンク色の湖の上をダイナミックに低空飛行しながら、塩の模様やきらめく水面を捉えます。
+
+6～8 秒：ジュジ国立鳥類保護区へ移動し、湿地帯や鳥、緑豊かなマングローブ林の上を左旋回しながら滑らかに低空飛行します。
+
+8～10 秒：最後にシネ・サルーム・デルタの上空へ上昇し、美しい夕日のパノラマを捉えます。マングローブ林、水路、そして黄金色の太陽光が調和する、雄大でありながら落ち着いた風景を左旋回しながら映し出します。
+
+極めてリアルな 8K ドローン映像、非常に滑らかな FPV の動きと自然な左旋回、ゴールデンアワーから鮮やかな夕暮れへと移り変わる温かみのあるシネマティックなライティング、細部まで精巧に再現されたリアルなランドマーク、水・塩・石・植物の非常に洗練された質感、深みのある雰囲気、傑作、超精密な描写。
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2077034602020093954/pu/img/fnLBpMQGWkAG_5up.jpg" width="600" alt="セネガルを巡る 8K シネマティック FPV ドローンツアー">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7269)**
+
+**作者:** [Drone V Drone](https://x.com/drone_v_drone) | **ソース:** [Link](https://x.com/drone_v_drone/status/2077034857784574322) | **公開日:** Jul 14, 2026
+
+---
 ### 天上のオーロラ織り
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -936,7 +986,7 @@ FPV ショット：朝日が昇る濃い森の中を、朝霧に包まれた高�
 セーラーマーズはカメラをまっすぐに見つめ、自信に満ちた、少し遊び心のある魅力的な笑みを浮かべている。柔らかな自然の窓明かり、リアルな肌の質感、目に見えるそばかす、シャープなフォーカス。
 ```
 
-<img src="https://cms-assets.youmind.com/media/1784016876452_4z6fq2_HMzGqj3W0AA9YlL.jpg" width="600" alt="セーラーマーズの鏡越し自撮り">
+<img src="https://cms-assets.youmind.com/media/1784102842781_bmms9p_HMzGqj3W0AA9YlL.jpg" width="600" alt="セーラーマーズの鏡越し自撮り">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7228)**
 
@@ -2148,46 +2198,6 @@ YouMind、
 **作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **ソース:** [Link](https://x.com/PhilipCarrn7711/status/2071991533755072834) | **公開日:** Jun 30, 2026
 
 ---
-### 宇宙の太陽崩壊の可視化
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 2 つの太陽がブラックホールへと崩壊していく動的なプロセスを示す科学的可視化。
-
-#### 📝 プロンプト
-
-```
-水素太陽とヘリウム太陽がブラックホールへと収縮していく動的なプロセスに焦点を当てた、崩壊のズームイン可視化を作成しました。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071991384110714880/img/d2Mk4fpAfR6rqRNA.jpg" width="600" alt="宇宙の太陽崩壊の可視化">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6642)**
-
-**作者:** [Timothy Norman](https://x.com/Timothy01775634) | **ソース:** [Link](https://x.com/Timothy01775634/status/2071991442323460212) | **公開日:** Jun 30, 2026
-
----
-### 星月夜のオーロラ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> オーロラとゴッホの「星月夜」の芸術的なスタイルを組み合わせた、木造住宅の上空に広がる動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-木造住宅 
-
-名画「星月夜」のように渦巻くオーロラ 🌌
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071975002459500544/img/zZd1MRU6LULWoueg.jpg" width="600" alt="星月夜のオーロラ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6646)**
-
-**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **ソース:** [Link](https://x.com/PhilipCarrn7711/status/2071975095451386157) | **公開日:** Jun 30, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2249,6 +2259,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-15T06:37:20.677Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-15T10:24:58.977Z</sub>
 
 </div>

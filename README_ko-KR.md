@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **2107** |
+| 📝 총 프롬프트 수 | **2109** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-07-15** |
 
@@ -189,6 +189,56 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 공중에 떠 있는 물 구체
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 유리잔에서 흘러나온 물이 부드러운 자연광 아래 공중에 떠 있는 구체 형태를 이루는 모습을 담은 사실적인 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+테이블 위의 유리잔, 물이 갑자기 유리잔 밖으로 솟구쳐 올라 공중에 떠 있는 구체를 형성함, 사실적인 사진 느낌, 부드러운 자연광
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077061435562364928/img/8qeVxVJrvKvXuW5h.jpg" width="600" alt="공중에 떠 있는 물 구체">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7268)**
+
+**작성자:** [atmen](https://x.com/atmen189) | **출처:** [Link](https://x.com/atmen189/status/2077238726120669192) | **게시일:** Jul 15, 2026
+
+---
+### 세네갈의 8K 시네마틱 FPV 드론 투어
+
+![한국어](https://img.shields.io/badge/lang-한국어-orange)
+
+> Grok Imagine을 위한 10초 분량의 고해상도 FPV 드론 비행 프롬프트입니다. 아프리카 르네상스 기념비, 고레 섬, 핑크 호수 등 세네갈의 주요 명소를 골든 아워 시간대에 담아낸 여정을 묘사합니다.
+
+#### 📝 프롬프트
+
+```
+10초 분량의 초고화질 시네마틱 1인칭 FPV 드론 영상입니다. 카메라 흔들림이 거의 없는 매우 안정적이고 자연스러운 드론 비행으로, 실제 드론 촬영 영상과 같은 생생한 시각적 아름다움을 선사합니다. 부드럽고 우아한 움직임과 스릴 넘치는 역동적인 장면이 조화를 이룹니다.
+
+0-2초: 골든 아워 시간대의 다카르 상공을 부드럽게 비행하며, 왼쪽으로 선회하여 아프리카 르네상스 기념비와 도시 스카이라인의 웅장한 파노라마 뷰를 담아냅니다.
+
+2-4초: 자연스럽게 고레 섬으로 이동하여 역사적인 섬 주변을 스릴 넘치는 저고도 비행으로 훑으며, 식민지 시대 건축물과 파도의 디테일을 포착합니다.
+
+4-6초: 핑크 호수(Lac Rose)로 이동하여 호수 위를 역동적인 저고도로 비행하며, 소금 결정 패턴과 반짝이는 수면을 담아냅니다.
+
+6-8초: 주지 국립공원(Djoudj National Park)으로 이동하여 습지와 새들, 울창한 맹그로브 숲 위를 부드럽게 저고도 비행하며 왼쪽으로 선회합니다.
+
+8-10초: 마지막으로 시네 살룸 삼각주(Sine-Saloum Delta) 상공으로 상승하며 아름다운 일몰 파노라마를 담아냅니다. 왼쪽으로 선회하면서 맹그로브 숲, 수로, 황금빛 햇살이 조화를 이루는 웅장하면서도 절제된 풍경을 보여줍니다.
+
+극도로 사실적인 8K 드론 영상, 매우 부드러운 FPV 움직임과 자연스러운 좌회전, 골든 아워에서 선명한 일몰로 이어지는 따뜻한 시네마틱 조명 변화, 최대 디테일을 자랑하는 사실적이고 정확한 랜드마크, 물·소금·돌·식물의 매우 정교한 질감, 깊이 있는 분위기, 걸작, 초정밀 묘사.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2077034602020093954/pu/img/fnLBpMQGWkAG_5up.jpg" width="600" alt="세네갈의 8K 시네마틱 FPV 드론 투어">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7269)**
+
+**작성자:** [Drone V Drone](https://x.com/drone_v_drone) | **출처:** [Link](https://x.com/drone_v_drone/status/2077034857784574322) | **게시일:** Jul 14, 2026
+
+---
 ### 천상의 오로라 직조
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -936,7 +986,7 @@ FPV 샷: 카메라는 아침 안개가 자욱한 숲속의 거대한 나무들 �
 세일러 마스는 자신감 넘치고 약간 장난스러우면서도 매력적인 미소를 지으며 카메라를 정면으로 응시함. 부드러운 자연광이 창문을 통해 들어오며, 사실적인 피부 질감, 눈에 보이는 주근깨, 선명한 초점이 특징임.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1784016876452_4z6fq2_HMzGqj3W0AA9YlL.jpg" width="600" alt="세일러 마스 거울 셀카">
+<img src="https://cms-assets.youmind.com/media/1784102842781_bmms9p_HMzGqj3W0AA9YlL.jpg" width="600" alt="세일러 마스 거울 셀카">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7228)**
 
@@ -2148,46 +2198,6 @@ Youman,
 **작성자:** [Philip Carr](https://x.com/PhilipCarrn7711) | **출처:** [Link](https://x.com/PhilipCarrn7711/status/2071991533755072834) | **게시일:** Jun 30, 2026
 
 ---
-### 우주 태양 붕괴 시각화
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 두 개의 태양이 블랙홀로 붕괴되는 역동적인 과정을 보여주는 과학적 시각화 자료입니다.
-
-#### 📝 프롬프트
-
-```
-수소 태양과 헬륨 태양이 블랙홀로 축소되는 역동적인 과정에 초점을 맞춘 붕괴 시각화가 생성되었습니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071991384110714880/img/d2Mk4fpAfR6rqRNA.jpg" width="600" alt="우주 태양 붕괴 시각화">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6642)**
-
-**작성자:** [Timothy Norman](https://x.com/Timothy01775634) | **출처:** [Link](https://x.com/Timothy01775634/status/2071991442323460212) | **게시일:** Jun 30, 2026
-
----
-### 별이 빛나는 밤의 오로라
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 반 고흐의 '별이 빛나는 밤' 예술 스타일과 목조 주택을 결합한 오로라 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-목조 주택 
-
-유명한 명화 '별이 빛나는 밤'처럼 소용돌이치는 오로라 🌌
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071975002459500544/img/zZd1MRU6LULWoueg.jpg" width="600" alt="별이 빛나는 밤의 오로라">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6646)**
-
-**작성자:** [Philip Carr](https://x.com/PhilipCarrn7711) | **출처:** [Link](https://x.com/PhilipCarrn7711/status/2071975095451386157) | **게시일:** Jun 30, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2249,6 +2259,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-15T06:37:21.324Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-15T10:25:00.265Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2107** |
+| 📝 Total Prompts | **2109** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-15** |
 
@@ -189,6 +189,56 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Sphère d'eau en lévitation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo photoréaliste montrant de l'eau s'écoulant d'un verre pour former une sphère en lévitation sous une lumière douce.
+
+#### 📝 Prompt
+
+```
+Un verre d'eau sur une table, l'eau s'écoule soudainement vers le haut hors du verre et forme une sphère en lévitation, photoréaliste, lumière douce
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077061435562364928/img/8qeVxVJrvKvXuW5h.jpg" width="600" alt="Sphère d'eau en lévitation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7268)**
+
+**Author:** [atmen](https://x.com/atmen189) | **Source:** [Link](https://x.com/atmen189/status/2077238726120669192) | **Published:** Jul 15, 2026
+
+---
+### Visite cinématographique 8K en drone FPV du Sénégal
+
+![한국어](https://img.shields.io/badge/lang-한국어-orange)
+
+> Un prompt de vol en drone FPV de 10 secondes extrêmement détaillé pour Grok Imagine, capturant un voyage à travers les sites emblématiques du Sénégal, notamment le Monument de la Renaissance africaine, l'île de Gorée et le lac Rose pendant l'heure dorée.
+
+#### 📝 Prompt
+
+```
+Une vidéo cinématographique en drone FPV à la première personne en ultra-haute définition de 10 secondes. Vol de drone extrêmement stable et naturel, presque sans tremblement de caméra, offrant une beauté visuelle saisissante semblable à de véritables images de drone. Il allie des mouvements fluides et élégants à des scènes dynamiques palpitantes.
+
+0-2s : Vol fluide à haute altitude au-dessus de Dakar pendant l'heure dorée, effectuant une rotation vers la gauche pour une vue panoramique grandiose du Monument de la Renaissance africaine et de la ligne d'horizon.
+
+2-4s : Transition naturelle vers l'île de Gorée, effectuant un vol palpitant à basse altitude autour de l'île historique, capturant les détails des bâtiments de l'époque coloniale et des vagues.
+
+4-6s : Déplacement vers le lac Rose, profitant d'un vol dynamique à basse altitude au-dessus du lac rose, capturant les motifs salins et la surface de l'eau scintillante.
+
+6-8s : Déplacement vers le parc national des oiseaux du Djoudj, volant en douceur à basse altitude au-dessus des zones humides, des oiseaux et des forêts de mangroves luxuriantes tout en effectuant une rotation vers la gauche.
+
+8-10s : Enfin, ascension au-dessus du delta du Sine-Saloum, capturant un magnifique panorama au coucher du soleil. Montrez un paysage majestueux mais sobre où les forêts de mangroves, les voies navigables et la lumière dorée du soleil s'harmonisent tout en effectuant une rotation vers la gauche.
+
+Images de drone 8K extrêmement réalistes, mouvement FPV très fluide et virages à gauche naturels, changements d'éclairage cinématographiques chaleureux passant de l'heure dorée à un coucher de soleil éclatant, monuments réalistes et précis bénéficiant d'un niveau de détail maximal, textures hautement sophistiquées de l'eau, du sel, de la pierre et des plantes, atmosphère profonde, chef-d'œuvre, à décrire avec une ultra-précision.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2077034602020093954/pu/img/fnLBpMQGWkAG_5up.jpg" width="600" alt="Visite cinématographique 8K en drone FPV du Sénégal">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7269)**
+
+**Author:** [Drone V Drone](https://x.com/drone_v_drone) | **Source:** [Link](https://x.com/drone_v_drone/status/2077034857784574322) | **Published:** Jul 14, 2026
+
+---
 ### Tissage de l'aurore céleste
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -936,7 +986,7 @@ Elle est assise dans une salle de bain moderne et lumineuse en marbre, prenant u
 Sailor Mars regarde directement l'objectif avec un sourire confiant, légèrement espiègle et charmant. Éclairage naturel doux venant d'une fenêtre, texture de peau réaliste, taches de rousseur visibles, mise au point nette.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1784016876452_4z6fq2_HMzGqj3W0AA9YlL.jpg" width="600" alt="Selfie au miroir de Sailor Mars">
+<img src="https://cms-assets.youmind.com/media/1784102842781_bmms9p_HMzGqj3W0AA9YlL.jpg" width="600" alt="Selfie au miroir de Sailor Mars">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7228)**
 
@@ -2148,46 +2198,6 @@ Les hélices évoluent en temps réel pour devenir des dragons chromatiquement c
 **Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2071991533755072834) | **Published:** Jun 30, 2026
 
 ---
-### Visualisation de l'effondrement d'un soleil cosmique
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Une visualisation scientifique illustrant le processus dynamique de deux soleils s'effondrant en trous noirs.
-
-#### 📝 Prompt
-
-```
-Visualisation de l'effondrement en gros plan créée — axée sur le processus dynamique d'un soleil à hydrogène et d'un soleil à hélium se réduisant en trous noirs.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071991384110714880/img/d2Mk4fpAfR6rqRNA.jpg" width="600" alt="Visualisation de l'effondrement d'un soleil cosmique">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6642)**
-
-**Author:** [Timothy Norman](https://x.com/Timothy01775634) | **Source:** [Link](https://x.com/Timothy01775634/status/2071991442323460212) | **Published:** Jun 30, 2026
-
----
-### Nuit étoilée et aurore boréale
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo combinant une aurore boréale avec le style artistique de La Nuit étoilée de Van Gogh au-dessus de maisons à ossature bois.
-
-#### 📝 Prompt
-
-```
-Maisons à ossature bois 
-
-Une aurore boréale tourbillonne comme dans le célèbre tableau La Nuit étoilée 🌌
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071975002459500544/img/zZd1MRU6LULWoueg.jpg" width="600" alt="Nuit étoilée et aurore boréale">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6646)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2071975095451386157) | **Published:** Jun 30, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2249,6 +2259,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-15T06:37:25.746Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-15T10:25:07.390Z</sub>
 
 </div>

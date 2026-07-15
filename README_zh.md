@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **2107** |
+| 📝 提示词总数 | **2109** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-07-15** |
 
@@ -189,6 +189,56 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 悬浮水球
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段照片级真实感的视频提示词：水从杯中流出，在柔和的日光下形成一个悬浮的水球。
+
+#### 📝 提示词
+
+```
+桌上放着一杯水，水突然向上流出杯子并形成一个悬浮的球体，照片级真实感，柔和的日光
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077061435562364928/img/8qeVxVJrvKvXuW5h.jpg" width="600" alt="悬浮水球">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7268)**
+
+**作者:** [atmen](https://x.com/atmen189) | **来源:** [Link](https://x.com/atmen189/status/2077238726120669192) | **发布时间:** Jul 15, 2026
+
+---
+### 塞内加尔 8K 电影级 FPV 无人机之旅
+
+![한국어](https://img.shields.io/badge/lang-한국어-orange)
+
+> 为 Grok Imagine 设计的 10 秒高细节 FPV 无人机飞行提示词，捕捉穿越塞内加尔地标的旅程，包括非洲复兴纪念碑、戈雷岛和玫瑰湖的黄金时刻。
+
+#### 📝 提示词
+
+```
+一段 10 秒的超高清电影级第一人称 FPV 无人机视频。飞行极其平稳自然，几乎没有镜头抖动，呈现出如同真实无人机拍摄般的生动视觉美感。它将平滑优雅的运动与惊险的动态场景完美融合。
+
+0-2 秒：在黄金时刻平稳地飞越达喀尔高空，向左环绕，呈现非洲复兴纪念碑和城市天际线的宏伟全景。
+
+2-4 秒：自然过渡到戈雷岛，围绕这座历史悠久的岛屿进行惊险的低空飞行，捕捉殖民时期建筑的细节和海浪。
+
+4-6 秒：移动至玫瑰湖（Lac Rose），在粉色湖面上进行动态低空飞行，捕捉盐分纹理和波光粼粼的水面。
+
+6-8 秒：移动至朱贾国家鸟类保护区（Djoudj National Park），在湿地、鸟类和茂密的红树林上空平稳低飞，同时向左环绕。
+
+8-10 秒：最后，上升至萨卢姆三角洲（Sine-Saloum Delta）上空，捕捉美丽的日落全景。展现一幅宏伟而内敛的景观，红树林、水道与金色阳光交相辉映，同时向左环绕。
+
+极其逼真的 8K 无人机镜头，非常平滑的 FPV 运动和自然的左转，从黄金时刻过渡到绚丽日落的温暖电影级光影变化，真实且准确的地标建筑，细节丰富，水面、盐分、岩石和植物的纹理高度细腻，深邃的氛围感，大师之作，超高精度描述。
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2077034602020093954/pu/img/fnLBpMQGWkAG_5up.jpg" width="600" alt="塞内加尔 8K 电影级 FPV 无人机之旅">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7269)**
+
+**作者:** [Drone V Drone](https://x.com/drone_v_drone) | **来源:** [Link](https://x.com/drone_v_drone/status/2077034857784574322) | **发布时间:** Jul 14, 2026
+
+---
 ### 天穹极光编织
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -936,7 +986,7 @@ FPV 镜头：摄像机在日出时分穿过茂密的森林，在晨雾笼罩的�
 Sailor Mars 直视镜头，露出了自信、略带俏皮且迷人的微笑。柔和的自然窗光，真实的皮肤质感，清晰可见的雀斑，画面焦点锐利。
 ```
 
-<img src="https://cms-assets.youmind.com/media/1784016876452_4z6fq2_HMzGqj3W0AA9YlL.jpg" width="600" alt="火野丽（Sailor Mars）镜面自拍">
+<img src="https://cms-assets.youmind.com/media/1784102842781_bmms9p_HMzGqj3W0AA9YlL.jpg" width="600" alt="火野丽（Sailor Mars）镜面自拍">
 
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7228)**
 
@@ -2148,46 +2198,6 @@ Youman，
 **作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **来源:** [Link](https://x.com/PhilipCarrn7711/status/2071991533755072834) | **发布时间:** Jun 30, 2026
 
 ---
-### 宇宙太阳坍缩可视化
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一项科学可视化展示，呈现了两颗太阳坍缩为黑洞的动态过程。
-
-#### 📝 提示词
-
-```
-已创建放大版坍缩可视化 —— 聚焦于一颗氢太阳和一颗氦太阳坍缩为黑洞的动态过程。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071991384110714880/img/d2Mk4fpAfR6rqRNA.jpg" width="600" alt="宇宙太阳坍缩可视化">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6642)**
-
-**作者:** [Timothy Norman](https://x.com/Timothy01775634) | **来源:** [Link](https://x.com/Timothy01775634/status/2071991442323460212) | **发布时间:** Jun 30, 2026
-
----
-### 星夜极光
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个将北极光与梵高《星夜》艺术风格相结合，并以木结构房屋为背景的视频提示词。
-
-#### 📝 提示词
-
-```
-木结构房屋 
-
-北极光如著名的《星夜》画作般旋转 🌌
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071975002459500544/img/zZd1MRU6LULWoueg.jpg" width="600" alt="星夜极光">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6646)**
-
-**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **来源:** [Link](https://x.com/PhilipCarrn7711/status/2071975095451386157) | **发布时间:** Jun 30, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2249,6 +2259,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-07-15T06:37:19.459Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-07-15T10:24:55.983Z</sub>
 
 </div>

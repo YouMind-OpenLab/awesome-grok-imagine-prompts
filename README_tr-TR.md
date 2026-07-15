@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2107** |
+| 📝 Total Prompts | **2109** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-15** |
 
@@ -189,6 +189,56 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Yüzen Su Küresi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir bardaktan dışarı akan suyun yumuşak gün ışığında yüzen bir küre oluşturduğu fotogerçekçi bir video istemi.
+
+#### 📝 Prompt
+
+```
+Masada duran bir bardak su, su aniden bardaktan yukarı doğru akar ve yüzen bir küre oluşturur, fotogerçekçi, yumuşak gün ışığı
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077061435562364928/img/8qeVxVJrvKvXuW5h.jpg" width="600" alt="Yüzen Su Küresi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7268)**
+
+**Author:** [atmen](https://x.com/atmen189) | **Source:** [Link](https://x.com/atmen189/status/2077238726120669192) | **Published:** Jul 15, 2026
+
+---
+### Senegal'in Sinematik 8K FPV Drone Turu
+
+![한국어](https://img.shields.io/badge/lang-한국어-orange)
+
+> Grok Imagine için, Afrika Rönesans Anıtı, Goree Adası ve Pembe Göl (Lake Rose) gibi Senegal'in simge yapıları üzerinde altın saatte geçen bir yolculuğu yakalayan, 10 saniyelik son derece detaylı bir FPV drone uçuş komutu.
+
+#### 📝 Prompt
+
+```
+10 saniyelik ultra yüksek çözünürlüklü sinematik birinci şahıs FPV drone videosu. Neredeyse hiç kamera sarsıntısı olmayan, son derece stabil ve doğal bir drone uçuşu; gerçek drone çekimleri gibi canlı bir görsel güzellik sunuyor. Pürüzsüz ve zarif hareketleri, heyecan verici dinamik sahnelerle birleştiriyor.
+
+0-2. saniye: Altın saatte Dakar üzerinde yüksek irtifada süzülün, Afrika Rönesans Anıtı ve şehir silüetinin görkemli panoramik manzarası için sola doğru dönün.
+
+2-4. saniye: Doğal bir geçişle Goree Adası'na yönelin, tarihi ada çevresinde heyecan verici bir alçak uçuş gerçekleştirerek kolonyal dönem binalarının ve dalgaların detaylarını yakalayın.
+
+4-6. saniye: Lac Rose'a (Pembe Göl) geçin, pembe göl üzerinde dinamik bir alçak uçuşun keyfini çıkarın, tuz desenlerini ve parıldayan su yüzeyini görüntüleyin.
+
+6-8. saniye: Djoudj Milli Parkı'na ilerleyin, sulak alanlar, kuşlar ve yemyeşil mangrov ormanları üzerinde sola doğru dönerek pürüzsüz bir alçak uçuş yapın.
+
+8-10. saniye: Son olarak, Sine-Saloum Deltası üzerinde yükselerek güzel bir gün batımı panoraması yakalayın. Mangrov ormanlarının, su yollarının ve altın güneş ışığının uyum içinde olduğu, sola doğru dönerken görkemli ama abartısız bir manzara sergileyin.
+
+Son derece gerçekçi 8K drone görüntüleri, çok pürüzsüz FPV hareketi ve doğal sol dönüşler, altın saatten canlı bir gün batımına geçiş yapan sıcak sinematik ışık değişimleri, maksimum detay sunan gerçekçi ve doğru simge yapılar, su, tuz, taş ve bitkilerin son derece sofistike dokuları, derin atmosfer, başyapıt, ultra hassasiyetle tanımlayın.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2077034602020093954/pu/img/fnLBpMQGWkAG_5up.jpg" width="600" alt="Senegal'in Sinematik 8K FPV Drone Turu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7269)**
+
+**Author:** [Drone V Drone](https://x.com/drone_v_drone) | **Source:** [Link](https://x.com/drone_v_drone/status/2077034857784574322) | **Published:** Jul 14, 2026
+
+---
 ### Göksel Aurora Dokuması
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -936,7 +986,7 @@ Modern, aydınlık ve mermer bir banyoda oturuyor, sağ elindeki siyah akıllı 
 Sailor Mars, kendine güvenen, hafif oyuncu ve büyüleyici bir gülümsemeyle doğrudan kameraya bakıyor. Yumuşak doğal pencere ışığı, gerçekçi cilt dokusu, belirgin çiller, keskin odak.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1784016876452_4z6fq2_HMzGqj3W0AA9YlL.jpg" width="600" alt="Sailor Mars Ayna Selfiesi">
+<img src="https://cms-assets.youmind.com/media/1784102842781_bmms9p_HMzGqj3W0AA9YlL.jpg" width="600" alt="Sailor Mars Ayna Selfiesi">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7228)**
 
@@ -2148,46 +2198,6 @@ Sarmallar gerçek zamanlı olarak evrilerek, sucul olan ve kırmızı davul bal�
 **Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2071991533755072834) | **Published:** Jun 30, 2026
 
 ---
-### Kozmik Güneş Çöküşü Görselleştirmesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> İki güneşin kara deliklere dönüşme sürecini gösteren bilimsel bir görselleştirme.
-
-#### 📝 Prompt
-
-```
-Yakınlaştırılmış çöküş görselleştirmesi oluşturuldu; bir hidrojen güneşi ve bir helyum güneşinin kara deliklere dönüşme sürecindeki dinamik yapıya odaklanıldı.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071991384110714880/img/d2Mk4fpAfR6rqRNA.jpg" width="600" alt="Kozmik Güneş Çöküşü Görselleştirmesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6642)**
-
-**Author:** [Timothy Norman](https://x.com/Timothy01775634) | **Source:** [Link](https://x.com/Timothy01775634/status/2071991442323460212) | **Published:** Jun 30, 2026
-
----
-### Yıldızlı Gece Kuzey Işıkları
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kuzey ışıklarını, Van Gogh'un Yıldızlı Gece tablosunun sanatsal tarzıyla ahşap karkas evlerin üzerinde birleştiren bir video istemi.
-
-#### 📝 Prompt
-
-```
-Ahşap Karkas Evler 
-
-Kuzey ışıkları, ünlü Yıldızlı Gece tablosundaki gibi kıvrılıyor 🌌
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071975002459500544/img/zZd1MRU6LULWoueg.jpg" width="600" alt="Yıldızlı Gece Kuzey Işıkları">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6646)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2071975095451386157) | **Published:** Jun 30, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2249,6 +2259,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-15T06:37:28.463Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-15T10:25:11.186Z</sub>
 
 </div>

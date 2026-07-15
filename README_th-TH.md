@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2107** |
+| 📝 Total Prompts | **2109** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-15** |
 
@@ -189,6 +189,56 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### ทรงกลมน้ำลอยตัว
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแบบสมจริงของน้ำที่ไหลออกจากแก้วเพื่อก่อตัวเป็นทรงกลมลอยตัวในแสงกลางวันแบบนุ่มนวล
+
+#### 📝 Prompt
+
+```
+แก้วน้ำบนโต๊ะ น้ำไหลพุ่งขึ้นจากแก้วอย่างกะทันหันและก่อตัวเป็นทรงกลมลอยตัว สมจริง แสงกลางวันแบบนุ่มนวล
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077061435562364928/img/8qeVxVJrvKvXuW5h.jpg" width="600" alt="ทรงกลมน้ำลอยตัว">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7268)**
+
+**Author:** [atmen](https://x.com/atmen189) | **Source:** [Link](https://x.com/atmen189/status/2077238726120669192) | **Published:** Jul 15, 2026
+
+---
+### ทัวร์โดรน FPV ระดับภาพยนตร์ 8K ในเซเนกัล
+
+![한국어](https://img.shields.io/badge/lang-한국어-orange)
+
+> พรอมต์สำหรับการสร้างวิดีโอโดรน FPV ความยาว 10 วินาทีที่มีรายละเอียดสูงสำหรับ Grok Imagine โดยบันทึกการเดินทางผ่านแลนด์มาร์คสำคัญของเซเนกัล รวมถึงอนุสาวรีย์ African Renaissance Monument, เกาะ Goree Island และทะเลสาบสีชมพู Lake Rose ในช่วงเวลา golden hour
+
+#### 📝 Prompt
+
+```
+วิดีโอโดรน FPV มุมมองบุคคลที่หนึ่งระดับภาพยนตร์ความละเอียดสูงพิเศษ 10 วินาที การบินของโดรนที่นิ่งและเป็นธรรมชาติอย่างยิ่ง แทบไม่มีการสั่นไหวของกล้อง มอบความงดงามทางภาพที่สดใสเสมือนฟุตเทจจากกล้องโดรนจริง ผสมผสานการเคลื่อนไหวที่ราบรื่นและสง่างามเข้ากับฉากที่น่าตื่นเต้นเร้าใจ
+
+0-2 วินาที: บินอย่างราบรื่นที่ระดับความสูงเหนือเมืองดาการ์ในช่วง golden hour พร้อมหมุนวนไปทางซ้ายเพื่อชมทัศนียภาพแบบพาโนรามาอันยิ่งใหญ่ของอนุสาวรีย์ African Renaissance Monument และเส้นขอบฟ้า
+
+2-4 วินาที: เปลี่ยนผ่านไปยังเกาะ Goree Island อย่างเป็นธรรมชาติ พร้อมบินในระดับต่ำที่น่าตื่นเต้นรอบเกาะประวัติศาสตร์แห่งนี้ เพื่อเก็บรายละเอียดของอาคารยุคอาณานิคมและเกลียวคลื่น
+
+4-6 วินาที: เคลื่อนตัวไปยัง Lac Rose (ทะเลสาบสีชมพู) เพลิดเพลินกับการบินระดับต่ำแบบไดนามิกเหนือทะเลสาบสีชมพู เก็บรายละเอียดลวดลายของเกลือและผิวน้ำที่ส่องประกายระยิบระยับ
+
+6-8 วินาที: เคลื่อนตัวไปยังอุทยานแห่งชาติ Djoudj National Park บินต่ำอย่างราบรื่นเหนือพื้นที่ชุ่มน้ำ นก และป่าชายเลนที่อุดมสมบูรณ์ พร้อมหมุนวนไปทางซ้าย
+
+8-10 วินาที: ปิดท้ายด้วยการบินขึ้นเหนือสามเหลี่ยมปากแม่น้ำ Sine-Saloum Delta เพื่อเก็บภาพพาโนรามาพระอาทิตย์ตกที่สวยงาม แสดงให้เห็นทิวทัศน์ที่ยิ่งใหญ่แต่เรียบง่าย โดยมีป่าชายเลน ทางน้ำ และแสงแดดสีทองที่สอดประสานกันอย่างลงตัวในขณะที่หมุนวนไปทางซ้าย
+
+ฟุตเทจโดรน 8K ที่สมจริงอย่างยิ่ง การเคลื่อนไหวแบบ FPV ที่ราบรื่นมากและการเลี้ยวซ้ายที่เป็นธรรมชาติ การเปลี่ยนแปลงของแสงแบบภาพยนตร์ที่อบอุ่นจากช่วง golden hour ไปสู่พระอาทิตย์ตกที่สดใส แลนด์มาร์คที่สมจริงและแม่นยำพร้อมรายละเอียดสูงสุด พื้นผิวที่ซับซ้อนของน้ำ เกลือ หิน และพืชพรรณ บรรยากาศที่ลึกซึ้ง ผลงานชิ้นเอก บรรยายด้วยความแม่นยำสูงสุด
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2077034602020093954/pu/img/fnLBpMQGWkAG_5up.jpg" width="600" alt="ทัวร์โดรน FPV ระดับภาพยนตร์ 8K ในเซเนกัล">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7269)**
+
+**Author:** [Drone V Drone](https://x.com/drone_v_drone) | **Source:** [Link](https://x.com/drone_v_drone/status/2077034857784574322) | **Published:** Jul 14, 2026
+
+---
 ### การถักทอแสงเหนือแห่งสรวงสวรรค์
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -936,7 +986,7 @@ Arborpunk Hanging Orchid Observatory ในรูปแบบใหม่ที�
 Sailor Mars มองตรงมาที่กล้องด้วยรอยยิ้มที่มั่นใจ ขี้เล่นเล็กน้อย และมีเสน่ห์ แสงธรรมชาติจากหน้าต่างที่นุ่มนวล ผิวสัมผัสสมจริง เห็นกระชัดเจน โฟกัสคมชัด
 ```
 
-<img src="https://cms-assets.youmind.com/media/1784016876452_4z6fq2_HMzGqj3W0AA9YlL.jpg" width="600" alt="ภาพเซลฟี่หน้ากระจกของ Sailor Mars">
+<img src="https://cms-assets.youmind.com/media/1784102842781_bmms9p_HMzGqj3W0AA9YlL.jpg" width="600" alt="ภาพเซลฟี่หน้ากระจกของ Sailor Mars">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7228)**
 
@@ -2148,46 +2198,6 @@ Youman,
 **Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2071991533755072834) | **Published:** Jun 30, 2026
 
 ---
-### การจำลองการยุบตัวของดวงอาทิตย์ในอวกาศ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> การจำลองทางวิทยาศาสตร์ที่แสดงกระบวนการแบบไดนามิกของการที่ดวงอาทิตย์สองดวงยุบตัวลงกลายเป็นหลุมดำ
-
-#### 📝 Prompt
-
-```
-สร้างการจำลองการยุบตัวแบบซูมเข้า โดยเน้นไปที่กระบวนการแบบไดนามิกของดวงอาทิตย์ไฮโดรเจนและดวงอาทิตย์ฮีเลียมที่ยุบตัวลงกลายเป็นหลุมดำ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071991384110714880/img/d2Mk4fpAfR6rqRNA.jpg" width="600" alt="การจำลองการยุบตัวของดวงอาทิตย์ในอวกาศ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6642)**
-
-**Author:** [Timothy Norman](https://x.com/Timothy01775634) | **Source:** [Link](https://x.com/Timothy01775634/status/2071991442323460212) | **Published:** Jun 30, 2026
-
----
-### แสงเหนือยามค่ำคืนในสไตล์ Starry Night
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอที่ผสมผสานปรากฏการณ์แสงเหนือเข้ากับสไตล์ศิลปะภาพวาด Starry Night ของ Van Gogh เหนือบ้านโครงสร้างไม้
-
-#### 📝 Prompt
-
-```
-บ้านโครงสร้างไม้ 
-
-แสงเหนือที่หมุนวนราวกับภาพวาดชื่อดังอย่าง Starry Night 🌌
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071975002459500544/img/zZd1MRU6LULWoueg.jpg" width="600" alt="แสงเหนือยามค่ำคืนในสไตล์ Starry Night">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6646)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2071975095451386157) | **Published:** Jun 30, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2249,6 +2259,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-15T06:37:21.913Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-15T10:25:01.462Z</sub>
 
 </div>

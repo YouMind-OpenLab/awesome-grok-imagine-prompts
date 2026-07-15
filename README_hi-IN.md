@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2107** |
+| 📝 Total Prompts | **2109** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-15** |
 
@@ -189,6 +189,56 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### तैरता हुआ पानी का गोला
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> सॉफ्ट डेलाइट में एक गिलास से बाहर निकलकर तैरते हुए गोले का आकार लेते पानी का एक फोटो-रियलिस्टिक वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+मेज पर रखा पानी का एक गिलास, पानी अचानक गिलास से ऊपर की ओर बहता है और एक तैरता हुआ गोला बनाता है, फोटो-रियलिस्टिक, सॉफ्ट डेलाइट
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077061435562364928/img/8qeVxVJrvKvXuW5h.jpg" width="600" alt="तैरता हुआ पानी का गोला">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7268)**
+
+**Author:** [atmen](https://x.com/atmen189) | **Source:** [Link](https://x.com/atmen189/status/2077238726120669192) | **Published:** Jul 15, 2026
+
+---
+### सेनेगल का सिनेमैटिक 8K FPV ड्रोन टूर
+
+![한국어](https://img.shields.io/badge/lang-한국어-orange)
+
+> Grok Imagine के लिए 10-सेकंड का एक अत्यंत विस्तृत FPV ड्रोन फ्लाइट प्रॉम्प्ट, जो अफ्रीकन रेनेसां मॉन्यूमेंट, गोरी आइलैंड और लेक रोज़ सहित सेनेगल के लैंडमार्क्स की गोल्डन आवर के दौरान यात्रा को दर्शाता है।
+
+#### 📝 Prompt
+
+```
+10-सेकंड का अल्ट्रा-हाई-डेफिनिशन सिनेमैटिक फर्स्ट-पर्सन FPV ड्रोन वीडियो। बेहद स्थिर और स्वाभाविक ड्रोन फ्लाइट जिसमें कैमरा शेक लगभग न के बराबर है, जो असली ड्रोन कैमरा फुटेज जैसी जीवंत दृश्य सुंदरता प्रदान करती है। यह सहज, सुंदर गतिविधियों को रोमांचक गतिशील दृश्यों के साथ जोड़ता है।
+
+0-2 सेकंड: गोल्डन आवर के दौरान डकार के ऊपर अधिक ऊंचाई पर सहजता से उड़ान भरें, अफ्रीकन रेनेसां मॉन्यूमेंट और स्काईलाइन के भव्य मनोरम दृश्य के लिए बाईं ओर परिक्रमा करें।
+
+2-4 सेकंड: स्वाभाविक रूप से गोरी आइलैंड की ओर बढ़ें, ऐतिहासिक द्वीप के चारों ओर एक रोमांचक कम ऊंचाई वाली उड़ान भरें, औपनिवेशिक युग की इमारतों और लहरों के विवरण को कैद करें।
+
+4-6 सेकंड: लैक रोज़ (पिंक लेक) पर जाएं, गुलाबी झील के ऊपर एक गतिशील कम ऊंचाई वाली उड़ान का आनंद लें, खारे पैटर्न और झिलमिलाती पानी की सतह को कैद करें।
+
+6-8 सेकंड: जूडज नेशनल पार्क (Djoudj National Park) की ओर बढ़ें, आर्द्रभूमि, पक्षियों और हरे-भरे मैंग्रोव जंगलों के ऊपर कम ऊंचाई पर सहजता से उड़ान भरते हुए बाईं ओर परिक्रमा करें।
+
+8-10 सेकंड: अंत में, साइन-सालोम डेल्टा (Sine-Saloum Delta) के ऊपर चढ़ें, सूर्यास्त का एक सुंदर मनोरम दृश्य कैद करें। एक राजसी लेकिन संयमित परिदृश्य दिखाएं जहां मैंग्रोव के जंगल, जलमार्ग और सुनहरी धूप बाईं ओर परिक्रमा करते हुए सामंजस्य बिठाते हैं।
+
+अत्यंत यथार्थवादी 8K ड्रोन फुटेज, बहुत ही सहज FPV मूवमेंट और स्वाभाविक बाएं मोड़, गोल्डन आवर से जीवंत सूर्यास्त की ओर ले जाने वाली गर्म सिनेमैटिक लाइटिंग, अधिकतम विवरण के साथ यथार्थवादी और सटीक लैंडमार्क्स, पानी, नमक, पत्थर और पौधों की अत्यधिक परिष्कृत बनावट, गहरा वातावरण, मास्टरपीस, अल्ट्रा-प्रिसिजन के साथ वर्णन करें।
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2077034602020093954/pu/img/fnLBpMQGWkAG_5up.jpg" width="600" alt="सेनेगल का सिनेमैटिक 8K FPV ड्रोन टूर">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7269)**
+
+**Author:** [Drone V Drone](https://x.com/drone_v_drone) | **Source:** [Link](https://x.com/drone_v_drone/status/2077034857784574322) | **Published:** Jul 14, 2026
+
+---
 ### आकाशीय औरोरा की बुनाई
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -936,7 +986,7 @@ Rei Hino के Sailor Mars अवतार की अत्यधिक यथ�
 Sailor Mars सीधे कैमरे की ओर आत्मविश्वास भरी, थोड़ी चंचल और आकर्षक मुस्कान के साथ देख रही हैं। खिड़की से आती हल्की प्राकृतिक रोशनी, यथार्थवादी त्वचा की बनावट, दिखाई देने वाली झाइयां, शार्प फोकस।
 ```
 
-<img src="https://cms-assets.youmind.com/media/1784016876452_4z6fq2_HMzGqj3W0AA9YlL.jpg" width="600" alt="Sailor Mars मिरर सेल्फी">
+<img src="https://cms-assets.youmind.com/media/1784102842781_bmms9p_HMzGqj3W0AA9YlL.jpg" width="600" alt="Sailor Mars मिरर सेल्फी">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7228)**
 
@@ -2148,46 +2198,6 @@ Youman,
 **Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2071991533755072834) | **Published:** Jun 30, 2026
 
 ---
-### ब्रह्मांडीय सूर्य पतन का दृश्य
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वैज्ञानिक दृश्य जो दो सूर्यों के ब्लैक होल में बदलने की गतिशील प्रक्रिया को दर्शाता है।
-
-#### 📝 Prompt
-
-```
-ज़ूम-इन पतन का दृश्य तैयार किया गया — जो एक हाइड्रोजन सूर्य और एक हीलियम सूर्य के ब्लैक होल में बदलने की गतिशील प्रक्रिया पर केंद्रित है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071991384110714880/img/d2Mk4fpAfR6rqRNA.jpg" width="600" alt="ब्रह्मांडीय सूर्य पतन का दृश्य">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6642)**
-
-**Author:** [Timothy Norman](https://x.com/Timothy01775634) | **Source:** [Link](https://x.com/Timothy01775634/status/2071991442323460212) | **Published:** Jun 30, 2026
-
----
-### तारों भरी रात और ऑरोरा बोरेलिस
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो प्रॉम्प्ट जो ऑरोरा बोरेलिस को वैन गॉग की 'स्टार्री नाइट' (Starry Night) की कलात्मक शैली के साथ स्टिक-बिल्ट घरों पर जोड़ता है।
-
-#### 📝 Prompt
-
-```
-स्टिक-बिल्ट घर 
-
-एक ऑरोरा बोरेलिस प्रसिद्ध पेंटिंग 'स्टार्री नाइट' (Starry Night) की तरह घूम रहा है 🌌
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071975002459500544/img/zZd1MRU6LULWoueg.jpg" width="600" alt="तारों भरी रात और ऑरोरा बोरेलिस">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6646)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2071975095451386157) | **Published:** Jun 30, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2249,6 +2259,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-15T06:37:23.263Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-15T10:25:03.656Z</sub>
 
 </div>

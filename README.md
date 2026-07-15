@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2107** |
+| 📝 Total Prompts | **2109** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-15** |
 
@@ -189,6 +189,56 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Floating Water Sphere
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A photorealistic video prompt of water flowing out of a glass to form a floating sphere in soft daylight.
+
+#### 📝 Prompt
+
+```
+A glass of water on a table, the water suddenly flows upward out of the glass and forms a floating sphere, photorealistic, soft daylight
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077061435562364928/img/8qeVxVJrvKvXuW5h.jpg" width="600" alt="Floating Water Sphere">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7268)**
+
+**Author:** [atmen](https://x.com/atmen189) | **Source:** [Link](https://x.com/atmen189/status/2077238726120669192) | **Published:** Jul 15, 2026
+
+---
+### Cinematic 8K FPV Drone Tour of Senegal
+
+![한국어](https://img.shields.io/badge/lang-한국어-orange)
+
+> A highly detailed 10-second FPV drone flight prompt for Grok Imagine, capturing a journey across Senegal's landmarks including the African Renaissance Monument, Goree Island, and Lake Rose during the golden hour.
+
+#### 📝 Prompt
+
+```
+A 10-second ultra-high-definition cinematic first-person FPV drone video. Extremely stable and natural drone flight with almost no camera shake, delivering vivid visual beauty like real drone camera footage. It blends smooth, elegant movements with thrilling dynamic scenes. 
+
+0-2s: Smoothly fly at a high altitude over Dakar during golden hour, orbiting left for a grand panoramic view of the African Renaissance Monument and the skyline. 
+
+2-4s: Naturally transition to Goree Island, performing a thrilling low-altitude flight around the historic island, capturing the details of colonial-era buildings and waves. 
+
+4-6s: Move to Lac Rose (Pink Lake), enjoying a dynamic low-altitude flight over the pink lake, capturing the salty patterns and shimmering water surface. 
+
+6-8s: Move to Djoudj National Park, smoothly flying low over wetlands, birds, and lush mangrove forests while orbiting left. 
+
+8-10s: Finally, ascend over the Sine-Saloum Delta, capturing a beautiful sunset panorama. Show a majestic yet understated landscape where mangrove forests, waterways, and golden sunlight harmonize while orbiting left. 
+
+Extremely realistic 8K drone footage, very smooth FPV movement and natural left turns, warm cinematic lighting changes leading from golden hour to a vivid sunset, realistic and accurate landmarks boasting maximum detail, highly sophisticated textures of water, salt, stone, and plants, deep atmosphere, masterpiece, describe with ultra-precision.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2077034602020093954/pu/img/fnLBpMQGWkAG_5up.jpg" width="600" alt="Cinematic 8K FPV Drone Tour of Senegal">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7269)**
+
+**Author:** [Drone V Drone](https://x.com/drone_v_drone) | **Source:** [Link](https://x.com/drone_v_drone/status/2077034857784574322) | **Published:** Jul 14, 2026
+
+---
 ### Celestial Aurora Weaving
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -307,19 +357,19 @@ Wearing a red dress under a bright sun. In a field of pink and white flowers. Pe
 **Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2076653402982150482) | **Published:** Jul 13, 2026
 
 ---
-### Serene Angel with Holographic Butterflies
+### Serene Angel with Butterflies
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt describing a peaceful angel in lace surrounded by glowing light and shimmering holographic butterflies.
+> An ethereal video prompt for Grok Imagine describing a serene angel in lace surrounded by white holographic butterflies.
 
 #### 📝 Prompt
 
 ```
-A serene angel wrapped in delicate lace and soft glowing light, surrounded by shimmering white holographic butterflies.
+A serene angel wrapped in delicate lace and soft glowing light, surrounded by shimmering white holographic butterflies. ✨🦋
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076622231497830400/img/f58E7-h-BL7DluK3.jpg" width="600" alt="Serene Angel with Holographic Butterflies">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076622231497830400/img/f58E7-h-BL7DluK3.jpg" width="600" alt="Serene Angel with Butterflies">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7229)**
 
@@ -864,11 +914,11 @@ I don’t simply want a black actress playing Helen of Troy. I want a Black Hele
 **Author:** [Huff](https://x.com/Huff4Congress) | **Source:** [Link](https://x.com/Huff4Congress/status/2075601096253309265) | **Published:** Jul 10, 2026
 
 ---
-### Cinematic Forest FPV Sunrise
+### FPV Forest Sunrise Morning Text
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-speed FPV drone shot racing through a misty forest at sunrise, featuring golden light rays and floating particles that form text before dissipating.
+> A complex cinematic prompt for an FPV drone shot flying through a forest, where sunlight-illuminated particles form the word 'MORNING'.
 
 #### 📝 Prompt
 
@@ -876,7 +926,7 @@ I don’t simply want a black actress playing Helen of Troy. I want a Black Hele
 FPV shot: The camera races through a dense forest at sunrise, weaving between towering trees covered in morning mist. Golden rays pierce the canopy as billions of floating pollen particles and tiny droplets of dew drift through the air. The camera enters a shaft of sunlight where the illuminated particles synchronize naturally, forming "MORNING" before exploding into a cascade of sparkling golden dust. Epic sunrise, cinematic nature, ultra realistic atmosphere, breathtaking VFX.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075586213294022656/img/LIEf70JuAxykwiAw.jpg" width="600" alt="Cinematic Forest FPV Sunrise">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075586213294022656/img/LIEf70JuAxykwiAw.jpg" width="600" alt="FPV Forest Sunrise Morning Text">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7230)**
 
@@ -925,7 +975,7 @@ The tennis player completes the forehand swing as the yellow ball rockets across
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed prompt for generating a realistic video of Rei Hino as Sailor Mars taking a mirror selfie with Luna in a modern bathroom.
+> A highly detailed video prompt for a realistic mirror selfie of Rei Hino as Sailor Mars with Luna the cat.
 
 #### 📝 Prompt
 
@@ -936,7 +986,7 @@ She is sitting in a modern bright marble bathroom, taking a mirror selfie with a
 Sailor Mars looks directly at the camera with a confident, slightly playful and charming smile. Soft natural window lighting, realistic skin texture, visible freckles, sharp focus.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1784016876452_4z6fq2_HMzGqj3W0AA9YlL.jpg" width="600" alt="Sailor Mars Mirror Selfie">
+<img src="https://cms-assets.youmind.com/media/1784102842781_bmms9p_HMzGqj3W0AA9YlL.jpg" width="600" alt="Sailor Mars Mirror Selfie">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7228)**
 
@@ -962,11 +1012,11 @@ Highly realistic mirror selfie of a woman with pale porcelain skin and delicate 
 **Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2075205397112123637) | **Published:** Jul 9, 2026
 
 ---
-### Breathtaking Imaginary World with Floating Mountains
+### Hyper-realistic Imaginary Floating Mountain World
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed cinematic prompt for generating a hyper-photorealistic imaginary landscape featuring floating mountains, crystal rivers, and glowing forests.
+> A cinematic video generation prompt for creating a breathtaking, ultra-photorealistic imaginary world featuring floating mountains, crystal rivers, and glowing forests in 8K quality.
 
 #### 📝 Prompt
 
@@ -974,7 +1024,7 @@ Highly realistic mirror selfie of a woman with pale porcelain skin and delicate 
 A breathtaking imaginary world that looks completely real, with floating mountains, giant ancient trees, crystal rivers, glowing forests, waterfalls flowing into misty lakes, golden sunrise, dramatic clouds, exotic birds, peaceful atmosphere, cinematic composition, ultra-photorealistic, IMAX, HDR, volumetric lighting, natural colors, hyper-detailed, 8K, professional photography, no CGI, no illustration, looks like a real place.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075106901357219840/img/BgbByrZssE0gXhLF.jpg" width="600" alt="Breathtaking Imaginary World with Floating Mountains">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075106901357219840/img/BgbByrZssE0gXhLF.jpg" width="600" alt="Hyper-realistic Imaginary Floating Mountain World">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7011)**
 
@@ -1038,19 +1088,19 @@ A gentle maiden blooming among delicate blue lace flowers… Whispers of soft li
 **Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2074818638016909450) | **Published:** Jul 8, 2026
 
 ---
-### Traditional Korean Rural Summer Scene
+### Nostalgic Korean Summer House Video
 
 ![한국어](https://img.shields.io/badge/lang-한국어-orange)
 
-> A nostalgic and detailed video prompt depicting a traditional Korean countryside home during a bright summer afternoon, featuring sunlit interiors, refreshing watermelon, and a rotating fan.
+> A highly detailed video prompt capturing the peaceful atmosphere of an old Korean country home on a sunny summer afternoon, featuring watermelon and a rotating fan.
 
 #### 📝 Prompt
 
 ```
-A crisp, fresh 10-second summer video set inside the living room of an old wooden Korean countryside house. Clean, bright sunlight streams through open doors and windows, and wooden floors and old wooden walls create a warm and friendly countryside home atmosphere. Overall, it feels like a bright and airy summer afternoon. The door is wide open, and outside the door, fresh green trees and leaves are swaying gently in the breeze. The outside is clear and blue with sunlight, and looks as peaceful as a quiet rural summer afternoon. A round metal tray sits on a low wooden table. Watermelon slices must only be placed inside the tray and not directly on the table. Five to six fresh triangular watermelon slices are neatly placed on the tray. Each watermelon slice is not half-moon shaped, but a typical triangular watermelon slice with a pointed top and short green skin attached to the bottom. When viewed from the camera, the red pulp side looks like a sharp triangle, and the green skin is naturally attached along the lower edge of the triangle. The watermelon is not too thick but thin and fresh, and the moist red pulp, small black seeds, and fresh, cold summer watermelon feel are clearly visible. Next to the tray is a summer picture diary notebook drawn with colored pencils, but the letters are illegible. Several colored pencils are naturally placed around the picture diary, slightly scattered but not messy and looking lived-in. An old electric fan sits on the wooden floor next to the table, slowly rotating from side to side with its blades turning. The fan breeze slightly moves the curtains and the pages of the picture diary, and although it's a hot summer day with bright sunlight, the room feels cool and relaxed. Nostalgic atmosphere of a Korean countryside house, clear sunlight, fresh green trees, airy wooden living room, soft shadows, realistic textures, peaceful summer afternoon, quiet and relaxed atmosphere, cinematic 4K, natural light, triangular watermelon slices on a metal tray and picture diary, camera movement slowly approaching the floor fan. No people. Video length: 10 seconds. Aspect ratio: 16:9. Atmosphere: Bright, fresh, nostalgic, peaceful, cool fan breeze on a clear summer day. Negative prompt: Half-moon shaped watermelon, crescent-shaped watermelon, round sliced watermelon, circularly cut watermelon, watermelon placed directly on the table, watermelon outside the tray, fruit floating in the air, weird watermelon shape, geometrically too stiff triangle, distorted watermelon slices, melted fruit, too thick watermelon slices, chunky watermelon, cube-shaped watermelon, bumpy broken pieces, excessively large watermelon rind, artificial looking fruit, pale and dry watermelon, watermelon piled in the center, messy fruit arrangement, dark room, gloomy lighting, modern apartment, people, hands, faces, readable letters, subtitles, logos, watermarks, distorted fan, blurry image, low quality, shaky camera.
+A clear and fresh 10-second summer video set inside the living room of an old wooden Korean countryside house. Clean and bright sunlight enters through open doors and windows, and wooden floors and old wooden walls create a warm and friendly cottage atmosphere. Overall bright and airy summer afternoon feel. The door is wide open, and fresh green trees and leaves are swaying slightly in the wind outside. The outside is bright and blue with sunlight, and it looks peaceful like a quiet rural summer afternoon. On a low wooden table sits a round metal tray. Watermelon slices must be placed only inside the tray, not directly on the table. Five to six fresh triangular watermelon slices are neatly placed on the tray. Each watermelon slice is not half-moon shaped, but a typical triangular watermelon slice with a pointed top and short green skin at the bottom. When viewed from the camera, the red pulp side looks like a sharp triangle, and the green skin is naturally attached along the bottom edge of the triangle. The watermelon is not too thick, but thin and fresh, and the moist red pulp, small black seeds, and fresh and cold summer watermelon feel are clearly visible. Beside the tray is a summer picture diary notebook drawn with colored pencils, but the letters are illegible. Several colored pencils are naturally placed around the picture diary, slightly scattered but looking tidy and lived-in. An old electric fan is placed on the wooden floor next to the table, slowly rotating left and right with its blades spinning. The fan breeze slightly moves the curtains and the pages of the picture diary, and although it's a hot summer day, the room feels cool and relaxed. Nostalgic atmosphere of a Korean countryside house, clear sunlight, fresh green trees, well-ventilated wooden living room, soft shadows, realistic textures, peaceful summer afternoon, quiet and relaxed atmosphere, cinematic 4K, natural light, triangular watermelon slices and picture diary on a metal tray, and camera movement slowly approaching the floor fan. No people. Video length: 10 seconds. Aspect ratio: 16:9. Atmosphere: Bright, fresh, nostalgic, peaceful, cool fan breeze on a clear summer day. Negative prompt: half-moon shaped watermelon, crescent-shaped watermelon, round sliced watermelon, circularly cut watermelon, watermelon placed directly on the table, watermelon outside the tray, fruit floating in the air, strange watermelon shapes, geometrically too rigid triangles, distorted watermelon slices, melted fruit, too thick watermelon slices, thick chunks of watermelon, cube-shaped watermelon, unevenly broken pieces, excessively large watermelon rinds, artificial-looking fruit, pale and dry watermelon, watermelon piled in the middle, messy fruit arrangement, dark room, gloomy lighting, modern apartment, people, hands, faces, readable text, subtitles, logos, watermarks, distorted fans, blurry images, low quality, shaky camera.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074491828473393153/img/7RlihPIyY87TipaM.jpg" width="600" alt="Traditional Korean Rural Summer Scene">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074491828473393153/img/7RlihPIyY87TipaM.jpg" width="600" alt="Nostalgic Korean Summer House Video">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6975)**
 
@@ -2130,46 +2180,6 @@ The helixes evolve in real time to become chromatically complex dragons that are
 **Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2071991533755072834) | **Published:** Jun 30, 2026
 
 ---
-### Cosmic Sun Collapse Visualization
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A scientific visualization showing the dynamic process of two suns collapsing into black holes.
-
-#### 📝 Prompt
-
-```
-Zoomed-in collapse visualization created — focused on the dynamic process of a hydrogen sun and a helium sun reducing to black holes.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071991384110714880/img/d2Mk4fpAfR6rqRNA.jpg" width="600" alt="Cosmic Sun Collapse Visualization">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6642)**
-
-**Author:** [Timothy Norman](https://x.com/Timothy01775634) | **Source:** [Link](https://x.com/Timothy01775634/status/2071991442323460212) | **Published:** Jun 30, 2026
-
----
-### Starry Night Aurora Borealis
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video prompt combining aurora borealis with the artistic style of Van Gogh's Starry Night over stick-built homes.
-
-#### 📝 Prompt
-
-```
-Stick Built Homes 
-
-An aurora borealis swirls like the famous painting Starry Night 🌌
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071975002459500544/img/zZd1MRU6LULWoueg.jpg" width="600" alt="Starry Night Aurora Borealis">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6646)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2071975095451386157) | **Published:** Jun 30, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2231,6 +2241,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-15T06:37:18.852Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-15T10:24:54.839Z</sub>
 
 </div>

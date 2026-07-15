@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2107** |
+| 📝 Total Prompts | **2109** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-15** |
 
@@ -189,6 +189,56 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Khối cầu nước lơ lửng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video chân thực về dòng nước chảy ra từ ly tạo thành khối cầu lơ lửng trong ánh sáng ban ngày dịu nhẹ.
+
+#### 📝 Prompt
+
+```
+Một ly nước trên bàn, nước đột ngột chảy ngược lên khỏi ly và tạo thành một khối cầu lơ lửng, chân thực, ánh sáng ban ngày dịu nhẹ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077061435562364928/img/8qeVxVJrvKvXuW5h.jpg" width="600" alt="Khối cầu nước lơ lửng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7268)**
+
+**Author:** [atmen](https://x.com/atmen189) | **Source:** [Link](https://x.com/atmen189/status/2077238726120669192) | **Published:** Jul 15, 2026
+
+---
+### Chuyến tham quan bằng flycam FPV 8K đậm chất điện ảnh tại Senegal
+
+![한국어](https://img.shields.io/badge/lang-한국어-orange)
+
+> Một câu lệnh (prompt) tạo video flycam FPV chi tiết dài 10 giây cho Grok Imagine, ghi lại hành trình khám phá các địa danh của Senegal bao gồm Tượng Phục hưng châu Phi, Đảo Goree và Hồ Hồng (Lake Rose) trong khung giờ vàng.
+
+#### 📝 Prompt
+
+```
+Một video flycam FPV góc nhìn thứ nhất đậm chất điện ảnh, độ phân giải siêu cao dài 10 giây. Chuyến bay của flycam cực kỳ ổn định và tự nhiên, hầu như không bị rung lắc, mang đến vẻ đẹp hình ảnh sống động như những thước phim quay từ flycam thực tế. Video kết hợp các chuyển động mượt mà, thanh thoát với những cảnh quay năng động đầy kịch tính.
+
+0-2 giây: Bay mượt mà ở độ cao lớn phía trên Dakar vào khung giờ vàng, lượn sang trái để có tầm nhìn toàn cảnh hùng vĩ về Tượng Phục hưng châu Phi và đường chân trời.
+
+2-4 giây: Chuyển cảnh tự nhiên đến Đảo Goree, thực hiện chuyến bay tầm thấp đầy kịch tính quanh hòn đảo lịch sử, ghi lại chi tiết các tòa nhà thời thuộc địa và những con sóng.
+
+4-6 giây: Di chuyển đến Lac Rose (Hồ Hồng), tận hưởng chuyến bay tầm thấp năng động phía trên hồ nước màu hồng, ghi lại các mảng muối và mặt nước lấp lánh.
+
+6-8 giây: Di chuyển đến Vườn quốc gia Djoudj, bay thấp mượt mà trên các vùng đất ngập nước, các loài chim và những khu rừng ngập mặn tươi tốt trong khi lượn sang trái.
+
+8-10 giây: Cuối cùng, bay lên cao phía trên Đồng bằng Sine-Saloum, ghi lại toàn cảnh hoàng hôn tuyệt đẹp. Khắc họa một khung cảnh hùng vĩ nhưng đầy tinh tế, nơi rừng ngập mặn, đường thủy và ánh nắng vàng hòa quyện vào nhau trong khi flycam lượn sang trái.
+
+Cảnh quay flycam 8K cực kỳ chân thực, chuyển động FPV rất mượt mà và các cú lượn trái tự nhiên, ánh sáng điện ảnh ấm áp chuyển từ khung giờ vàng sang hoàng hôn rực rỡ, các địa danh chân thực và chính xác với độ chi tiết tối đa, kết cấu tinh xảo của nước, muối, đá và thực vật, bầu không khí sâu lắng, kiệt tác, mô tả với độ chính xác tuyệt đối.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2077034602020093954/pu/img/fnLBpMQGWkAG_5up.jpg" width="600" alt="Chuyến tham quan bằng flycam FPV 8K đậm chất điện ảnh tại Senegal">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7269)**
+
+**Author:** [Drone V Drone](https://x.com/drone_v_drone) | **Source:** [Link](https://x.com/drone_v_drone/status/2077034857784574322) | **Published:** Jul 14, 2026
+
+---
 ### Dệt nên Cực quang Thiên giới
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -936,7 +986,7 @@ Cô đang ngồi trong một phòng tắm ốp đá cẩm thạch hiện đại,
 Sailor Mars nhìn thẳng vào ống kính với nụ cười tự tin, hơi tinh nghịch và quyến rũ. Ánh sáng cửa sổ tự nhiên dịu nhẹ, kết cấu da chân thực, tàn nhang rõ nét, lấy nét sắc sảo.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1784016876452_4z6fq2_HMzGqj3W0AA9YlL.jpg" width="600" alt="Ảnh selfie trước gương của Sailor Mars">
+<img src="https://cms-assets.youmind.com/media/1784102842781_bmms9p_HMzGqj3W0AA9YlL.jpg" width="600" alt="Ảnh selfie trước gương của Sailor Mars">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7228)**
 
@@ -2148,46 +2198,6 @@ Các đường xoắn ốc tiến hóa trong thời gian thực để trở thà
 **Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2071991533755072834) | **Published:** Jun 30, 2026
 
 ---
-### Hình ảnh mô phỏng sự sụp đổ của mặt trời vũ trụ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một hình ảnh mô phỏng khoa học cho thấy quá trình động lực học của hai mặt trời khi sụp đổ thành các lỗ đen.
-
-#### 📝 Prompt
-
-```
-Đã tạo hình ảnh mô phỏng cận cảnh sự sụp đổ — tập trung vào quá trình động lực học của một mặt trời hydro và một mặt trời heli khi suy giảm thành các lỗ đen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071991384110714880/img/d2Mk4fpAfR6rqRNA.jpg" width="600" alt="Hình ảnh mô phỏng sự sụp đổ của mặt trời vũ trụ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6642)**
-
-**Author:** [Timothy Norman](https://x.com/Timothy01775634) | **Source:** [Link](https://x.com/Timothy01775634/status/2071991442323460212) | **Published:** Jun 30, 2026
-
----
-### Đêm đầy sao và cực quang
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video kết hợp cực quang với phong cách nghệ thuật Đêm đầy sao của Van Gogh trên những ngôi nhà khung gỗ.
-
-#### 📝 Prompt
-
-```
-Những ngôi nhà khung gỗ 
-
-Cực quang cuộn xoáy như bức tranh Đêm đầy sao nổi tiếng 🌌
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071975002459500544/img/zZd1MRU6LULWoueg.jpg" width="600" alt="Đêm đầy sao và cực quang">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6646)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2071975095451386157) | **Published:** Jun 30, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2249,6 +2259,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-15T06:37:22.620Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-15T10:25:02.564Z</sub>
 
 </div>

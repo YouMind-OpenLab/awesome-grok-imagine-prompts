@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2107** |
+| 📝 Total Prompts | **2109** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-15** |
 
@@ -189,6 +189,56 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Schwebende Wasserkugel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein fotorealistischer Video-Prompt von Wasser, das aus einem Glas fließt und bei sanftem Tageslicht eine schwebende Kugel bildet.
+
+#### 📝 Prompt
+
+```
+Ein Glas Wasser auf einem Tisch, das Wasser fließt plötzlich nach oben aus dem Glas heraus und bildet eine schwebende Kugel, fotorealistisch, sanftes Tageslicht
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077061435562364928/img/8qeVxVJrvKvXuW5h.jpg" width="600" alt="Schwebende Wasserkugel">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7268)**
+
+**Author:** [atmen](https://x.com/atmen189) | **Source:** [Link](https://x.com/atmen189/status/2077238726120669192) | **Published:** Jul 15, 2026
+
+---
+### Filmreife 8K-FPV-Drohnentour durch den Senegal
+
+![한국어](https://img.shields.io/badge/lang-한국어-orange)
+
+> Ein hochdetaillierter 10-sekündiger FPV-Drohnenflug-Prompt für Grok Imagine, der eine Reise zu den Wahrzeichen des Senegals einfängt, darunter das Monument de la Renaissance Africaine, die Insel Gorée und der Lac Rose während der goldenen Stunde.
+
+#### 📝 Prompt
+
+```
+Ein 10-sekündiges, filmreifes Ultra-High-Definition-FPV-Drohnenvideo aus der Ich-Perspektive. Extrem stabiler und natürlicher Drohnenflug ohne nennenswertes Kamerawackeln, der eine lebendige visuelle Ästhetik wie bei echtem Drohnenmaterial liefert. Es verbindet fließende, elegante Bewegungen mit aufregenden, dynamischen Szenen.
+
+0-2s: Sanfter Flug in großer Höhe über Dakar während der goldenen Stunde, mit einer Linkskurve für einen großartigen Panoramablick auf das Monument de la Renaissance Africaine und die Skyline.
+
+2-4s: Natürlicher Übergang zur Insel Gorée, mit einem aufregenden Tiefflug um die historische Insel, der die Details der Gebäude aus der Kolonialzeit und die Wellen einfängt.
+
+4-6s: Wechsel zum Lac Rose (Rosa See), mit einem dynamischen Tiefflug über den rosa See, der die Salzstrukturen und die schimmernde Wasseroberfläche einfängt.
+
+6-8s: Wechsel zum Djoudj-Nationalpark, mit einem sanften Tiefflug über Feuchtgebiete, Vögel und üppige Mangrovenwälder bei einer Linkskurve.
+
+8-10s: Abschließender Aufstieg über das Sine-Saloum-Delta, um ein wunderschönes Sonnenuntergangspanorama einzufangen. Zeigen Sie eine majestätische und doch dezente Landschaft, in der Mangrovenwälder, Wasserwege und goldenes Sonnenlicht bei einer Linkskurve harmonieren.
+
+Extrem realistisches 8K-Drohnenmaterial, sehr flüssige FPV-Bewegungen und natürliche Linkskurven, warme filmische Lichtwechsel von der goldenen Stunde bis hin zu einem lebendigen Sonnenuntergang, realistische und präzise Wahrzeichen mit maximalem Detailreichtum, hochkomplexe Texturen von Wasser, Salz, Stein und Pflanzen, tiefe Atmosphäre, Meisterwerk, mit höchster Präzision beschrieben.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2077034602020093954/pu/img/fnLBpMQGWkAG_5up.jpg" width="600" alt="Filmreife 8K-FPV-Drohnentour durch den Senegal">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7269)**
+
+**Author:** [Drone V Drone](https://x.com/drone_v_drone) | **Source:** [Link](https://x.com/drone_v_drone/status/2077034857784574322) | **Published:** Jul 14, 2026
+
+---
 ### Himmlisches Aurora-Weben
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -936,7 +986,7 @@ Sie sitzt in einem modernen, hellen Marmorbadezimmer und macht ein Spiegel-Selfi
 Sailor Mars blickt direkt in die Kamera mit einem selbstbewussten, leicht verspielten und charmanten Lächeln. Weiches, natürliches Fensterlicht, realistische Hauttextur, sichtbare Sommersprossen, scharfer Fokus.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1784016876452_4z6fq2_HMzGqj3W0AA9YlL.jpg" width="600" alt="Sailor Mars Spiegel-Selfie">
+<img src="https://cms-assets.youmind.com/media/1784102842781_bmms9p_HMzGqj3W0AA9YlL.jpg" width="600" alt="Sailor Mars Spiegel-Selfie">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7228)**
 
@@ -2148,46 +2198,6 @@ Die Spiralen entwickeln sich in Echtzeit zu chromatisch komplexen, aquatischen D
 **Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2071991533755072834) | **Published:** Jun 30, 2026
 
 ---
-### Visualisierung des kosmischen Sonnenkollapses
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eine wissenschaftliche Visualisierung, die den dynamischen Prozess zeigt, bei dem zwei Sonnen zu Schwarzen Löchern kollabieren.
-
-#### 📝 Prompt
-
-```
-Visualisierung des herangezoomten Kollapses erstellt – Fokus auf den dynamischen Prozess, bei dem eine Wasserstoffsonne und eine Heliumsonne zu Schwarzen Löchern schrumpfen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071991384110714880/img/d2Mk4fpAfR6rqRNA.jpg" width="600" alt="Visualisierung des kosmischen Sonnenkollapses">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6642)**
-
-**Author:** [Timothy Norman](https://x.com/Timothy01775634) | **Source:** [Link](https://x.com/Timothy01775634/status/2071991442323460212) | **Published:** Jun 30, 2026
-
----
-### Sternennacht und Nordlichter
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Prompt, der Nordlichter mit dem künstlerischen Stil von Van Goghs Sternennacht über Häusern in Holzrahmenbauweise kombiniert.
-
-#### 📝 Prompt
-
-```
-Häuser in Holzrahmenbauweise
-
-Ein Nordlicht wirbelt wie in dem berühmten Gemälde Sternennacht 🌌
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071975002459500544/img/zZd1MRU6LULWoueg.jpg" width="600" alt="Sternennacht und Nordlichter">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6646)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2071975095451386157) | **Published:** Jun 30, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2249,6 +2259,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-15T06:37:25.166Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-15T10:25:06.587Z</sub>
 
 </div>

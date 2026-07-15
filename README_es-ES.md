@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2107** |
+| 📝 Total Prompts | **2109** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-15** |
 
@@ -189,6 +189,56 @@ Una valquiria celestial mística y noble, una mujer digna y hermosa con largo ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Esfera de agua flotante
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video fotorrealista de agua fluyendo fuera de un vaso para formar una esfera flotante bajo una luz diurna suave.
+
+#### 📝 Prompt
+
+```
+Un vaso de agua sobre una mesa, el agua fluye repentinamente hacia arriba fuera del vaso y forma una esfera flotante, fotorrealista, luz diurna suave
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077061435562364928/img/8qeVxVJrvKvXuW5h.jpg" width="600" alt="Esfera de agua flotante">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7268)**
+
+**Author:** [atmen](https://x.com/atmen189) | **Source:** [Link](https://x.com/atmen189/status/2077238726120669192) | **Published:** Jul 15, 2026
+
+---
+### Recorrido cinematográfico en dron FPV 8K por Senegal
+
+![한국어](https://img.shields.io/badge/lang-한국어-orange)
+
+> Un prompt de vuelo de dron FPV de 10 segundos altamente detallado para Grok Imagine, que captura un viaje a través de los puntos de referencia de Senegal, incluyendo el Monumento al Renacimiento Africano, la Isla de Gorea y el Lago Rosa durante la hora dorada.
+
+#### 📝 Prompt
+
+```
+Un video cinematográfico de dron FPV en primera persona de 10 segundos en ultra alta definición. Vuelo de dron extremadamente estable y natural, casi sin vibraciones de cámara, que ofrece una belleza visual vívida como la de una grabación real de dron. Combina movimientos suaves y elegantes con escenas dinámicas emocionantes.
+
+0-2s: Vuelo suave a gran altitud sobre Dakar durante la hora dorada, orbitando hacia la izquierda para una gran vista panorámica del Monumento al Renacimiento Africano y el horizonte.
+
+2-4s: Transición natural hacia la Isla de Gorea, realizando un emocionante vuelo a baja altitud alrededor de la isla histórica, capturando los detalles de los edificios de la era colonial y las olas.
+
+4-6s: Traslado al Lago Rosa (Lac Rose), disfrutando de un vuelo dinámico a baja altitud sobre el lago rosado, capturando los patrones salinos y la superficie del agua brillante.
+
+6-8s: Traslado al Parque Nacional de las Aves del Djoudj, volando suavemente a baja altura sobre humedales, aves y exuberantes bosques de manglares mientras se orbita hacia la izquierda.
+
+8-10s: Finalmente, ascenso sobre el Delta del Sine-Saloum, capturando un hermoso panorama del atardecer. Muestra un paisaje majestuoso pero discreto donde los bosques de manglares, los canales y la luz solar dorada armonizan mientras se orbita hacia la izquierda.
+
+Metraje de dron 8K extremadamente realista, movimiento FPV muy suave y giros naturales a la izquierda, cambios de iluminación cinematográfica cálida que van desde la hora dorada hasta un atardecer vívido, puntos de referencia realistas y precisos con el máximo detalle, texturas altamente sofisticadas de agua, sal, piedra y plantas, atmósfera profunda, obra maestra, descrito con ultraprecisión.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2077034602020093954/pu/img/fnLBpMQGWkAG_5up.jpg" width="600" alt="Recorrido cinematográfico en dron FPV 8K por Senegal">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7269)**
+
+**Author:** [Drone V Drone](https://x.com/drone_v_drone) | **Source:** [Link](https://x.com/drone_v_drone/status/2077034857784574322) | **Published:** Jul 14, 2026
+
+---
 ### Tejido de la Aurora Celestial
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -936,7 +986,7 @@ Está sentada en un baño moderno y luminoso de mármol, tomándose una selfie e
 Sailor Mars mira directamente a la cámara con una sonrisa segura, ligeramente juguetona y encantadora. Iluminación natural suave proveniente de una ventana, textura de piel realista, pecas visibles, enfoque nítido.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1784016876452_4z6fq2_HMzGqj3W0AA9YlL.jpg" width="600" alt="Selfie de Sailor Mars en el espejo">
+<img src="https://cms-assets.youmind.com/media/1784102842781_bmms9p_HMzGqj3W0AA9YlL.jpg" width="600" alt="Selfie de Sailor Mars en el espejo">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7228)**
 
@@ -2148,46 +2198,6 @@ Las hélices evolucionan en tiempo real para convertirse en dragones cromáticam
 **Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2071991533755072834) | **Published:** Jun 30, 2026
 
 ---
-### Visualización del colapso solar cósmico
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Una visualización científica que muestra el proceso dinámico de dos soles colapsando en agujeros negros.
-
-#### 📝 Prompt
-
-```
-Visualización del colapso con zoom creada: centrada en el proceso dinámico de un sol de hidrógeno y un sol de helio reduciéndose a agujeros negros.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071991384110714880/img/d2Mk4fpAfR6rqRNA.jpg" width="600" alt="Visualización del colapso solar cósmico">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6642)**
-
-**Author:** [Timothy Norman](https://x.com/Timothy01775634) | **Source:** [Link](https://x.com/Timothy01775634/status/2071991442323460212) | **Published:** Jun 30, 2026
-
----
-### Noche estrellada y aurora boreal
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video que combina la aurora boreal con el estilo artístico de La noche estrellada de Van Gogh sobre casas de construcción tradicional.
-
-#### 📝 Prompt
-
-```
-Casas de construcción tradicional
-
-Una aurora boreal se arremolina como en la famosa pintura La noche estrellada 🌌
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071975002459500544/img/zZd1MRU6LULWoueg.jpg" width="600" alt="Noche estrellada y aurora boreal">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6646)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2071975095451386157) | **Published:** Jun 30, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2249,6 +2259,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-15T06:37:23.873Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-15T10:25:04.702Z</sub>
 
 </div>
