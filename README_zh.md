@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **2109** |
+| 📝 提示词总数 | **2122** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-07-16** |
 
@@ -189,6 +189,237 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 梅西世界杯比赛视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于重现阿根廷在世界杯中击败英格兰这一静态场景的视频生成提示词。
+
+#### 📝 提示词
+
+```
+将 @Grok 创建的静态图像重现为视频。阿根廷赢得了对阵英格兰的比赛。梅西。FIFA。英格兰。足球世界杯。斯卡洛尼之队 (Scaloneta)。🇦🇷
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077529915071623168/img/SvLsFxe_y_wm5hf0.jpg" width="600" alt="梅西世界杯比赛视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7311)**
+
+**作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **来源:** [Link](https://x.com/clemensilverio/status/2077530076472656363) | **发布时间:** Jul 15, 2026
+
+---
+### 阿根廷胜利视频重现
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个将阿根廷战胜英格兰的静态图片转化为庆祝胜利的动态视频的提示词。
+
+#### 📝 提示词
+
+```
+将 Grok 生成的那张听到“我们赢了英格兰”的静态图片重现为视频。斯卡洛尼之队 (Scaloneta)。梅西。FIFA。阿根廷。🔺🫶🔺☕️
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077517012863991808/img/ffj2YdKK_FiAJNcn.jpg" width="600" alt="阿根廷胜利视频重现">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7312)**
+
+**作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **来源:** [Link](https://x.com/clemensilverio/status/2077517201184084139) | **发布时间:** Jul 15, 2026
+
+---
+### 高速摩托车激光极速冲刺
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段高动态视频提示词，描述了一辆摩托车在镜头跟随下极速加速，并伴有拖尾激光灯光的效果。
+
+#### 📝 提示词
+
+```
+随着一阵猛烈的加速，前轮微微抬起，他疾驰而去冲出画面，镜头随之转动，看到他在远处渐行渐远，拖尾的激光灯光也随之远去
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077494468769460224/img/baZUnDTmidw1C1ma.jpg" width="600" alt="高速摩托车激光极速冲刺">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7308)**
+
+**作者:** [HELL SPAWN](https://x.com/Rjsolo11) | **来源:** [Link](https://x.com/Rjsolo11/status/2077494506916598206) | **发布时间:** Jul 15, 2026
+
+---
+### Q 版宇宙野猫与 Cybertruck
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个高细节的皮克斯风格提示词，描绘了一只发光的 Q 版野猫和一只白色黄金猎犬乘坐 Tesla Cybertruck 穿梭在未来感芝加哥的场景。
+
+#### 📝 提示词
+
+```
+拥有极光般发光皮毛的 Q 版宇宙野猫，乘坐着炫酷的 Tesla Cybertruck 穿梭在充满北极光和自由能源火花的未来芝加哥夜空下，毛线套索像特斯拉线圈一样闪烁，顽皮的白色黄金猎犬在卡车后斗追逐闪电，充满活力的皮克斯风格，闪光效果，高细节，电影级光影
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077400808505700352/img/bY8rB0bpkkOL8jXA.jpg" width="600" alt="Q 版宇宙野猫与 Cybertruck">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7304)**
+
+**作者:** [✨😼 Wildcat](https://x.com/AriadneBorealis) | **来源:** [Link](https://x.com/AriadneBorealis/status/2077403087392633198) | **发布时间:** Jul 15, 2026
+
+---
+### 非洲悬崖上的骏马
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段壮丽的视频提示词：一匹鬃毛编成玉米垄发辫的黑马，在非洲日出时分俯瞰大地。
+
+#### 📝 提示词
+
+```
+一匹传奇般的黑马，鬃毛被精心编织成玉米垄发辫，并装饰着金色的珠子和发箍，伫立在古老的非洲悬崖之上，俯瞰着日出时分一望无际的草原。它神情威严、高贵且充满灵性，目光深邃，马尾随风飘动。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077370848516739072/img/GHul4lAb-9gPfy7D.jpg" width="600" alt="非洲悬崖上的骏马">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7302)**
+
+**作者:** [Jeff Fairow](https://x.com/FairowJeff) | **来源:** [Link](https://x.com/FairowJeff/status/2077370904581956064) | **发布时间:** Jul 15, 2026
+
+---
+### 花田里的龙
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个迷人的动画提示词，描述了一只龙在花田里与向日葵嬉戏的场景。
+
+#### 📝 提示词
+
+```
+龙摘下一朵向日葵并别在耳后
+在田野中自豪地蹦跳
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077368328805625856/img/6fZtM1i9PZHFalCx.jpg" width="600" alt="花田里的龙">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7303)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2077368417162830048) | **发布时间:** Jul 15, 2026
+
+---
+### 明亮通风的卧室室内设计
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于生成明亮通风卧室的逼真视频提示词，画面包含晨光中轻轻飘动的柔软窗帘。
+
+#### 📝 提示词
+
+```
+照片级逼真的明亮通风卧室室内设计，前景为铺着柔软白色褶皱床品的凌乱床铺，薄纱窗帘轻轻飘动，配有藤编床头柜和郁郁葱葱的绿色植物，温暖的金色阳光透过大窗户洒入并投下斑驳阴影。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077354377153544192/img/tsJn3osrY1KFM0lV.jpg" width="600" alt="明亮通风的卧室室内设计">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7300)**
+
+**作者:** [Derek Rodrigue](https://x.com/DerekRodriaw2c) | **来源:** [Link](https://x.com/DerekRodriaw2c/status/2077354436221899170) | **发布时间:** Jul 15, 2026
+
+---
+### 带有飞鸟的航空场景广角镜头
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个技术性视频提示词，指定了摄像设备，用于为汽车或飞机场景添加飞鸟和涡轮增压引擎声等元素。
+
+#### 📝 提示词
+
+```
+使用 Nikkor 14-24/2.8 镜头拍摄的超广角镜头。D3s 机身。添加飞鸟和涡轮增压引擎的噪音
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077315217638207488/img/SAUU4djRZHwtO9mr.jpg" width="600" alt="带有飞鸟的航空场景广角镜头">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7310)**
+
+**作者:** [Erkki Heliö](https://x.com/erkki_helio) | **来源:** [Link](https://x.com/erkki_helio/status/2077318469746372923) | **发布时间:** Jul 15, 2026
+
+---
+### 精灵 AI 唤醒
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个充满奇幻色彩的视频提示词，描述了一只飞进窗户并在床上睡着的精灵。
+
+#### 📝 提示词
+
+```
+他就是那只精灵——就像他从窗户飞进来，扑扇着翅膀落下，然后翅膀还没收起来就倒在床上睡着了。
+第一人称视角：你唤醒了你的 AI……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077277582865670144/img/NDTg10dfMB2IY3fj.jpg" width="600" alt="精灵 AI 唤醒">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7305)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2077277639203606830) | **发布时间:** Jul 15, 2026
+
+---
+### 白色小猫篝火派对视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段详细的视频提示词，讲述了一只名叫“Because I Can”的白色小猫戴着小帽子参加篝火派对的场景。
+
+#### 📝 提示词
+
+```
+名叫 Because I Can 的小猫参加篝火派对；它是一只娇小可爱、通体雪白的小猫，有着明亮的蓝色眼睛，头上戴着一顶歪歪的小红帽，身上穿着印有卡通霸王龙图案的白色内裤……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077271713163661312/img/v_UFtWVGGeo1bOeO.jpg" width="600" alt="白色小猫篝火派对视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7309)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2077271804113015007) | **发布时间:** Jul 15, 2026
+
+---
+### 超级英雄霓虹城市变身
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段视频提示词，展示了一名男子在霓虹城市中变身为身披泰坦神话斗篷的超级英雄。
+
+#### 📝 提示词
+
+```
+变身为强大的超级英雄，依然是那名男子，身披源自古希腊泰坦神话的史诗级超能力斗篷，场景为同一座霓虹城市，先是跳跃，随后飞行
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077258140102389760/img/iqZDYHUs2CXrmOAC.jpg" width="600" alt="超级英雄霓虹城市变身">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7306)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2077258210759635238) | **发布时间:** Jul 15, 2026
+
+---
+### 心形气球与龙的爆裂特效
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段电影质感的视频提示词：心形气球爆裂，迸发出闪粉、蝴蝶和微型蓝龙，并伴有大提琴背景音乐。
+
+#### 📝 提示词
+
+```
+心形气球礼盒爆裂，迸发出青铜色闪粉、黄色蝴蝶和微型蓝龙
+大提琴音乐
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077253773710561280/img/A_yIgvX3Chr15ULl.jpg" width="600" alt="心形气球与龙的爆裂特效">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7307)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2077253936118120817) | **发布时间:** Jul 15, 2026
+
+---
 ### 悬浮水球
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +437,25 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7268)**
 
 **作者:** [atmen](https://x.com/atmen189) | **来源:** [Link](https://x.com/atmen189/status/2077238726120669192) | **发布时间:** Jul 15, 2026
+
+---
+### 暴风雨悬崖上的行走者
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个电影质感的视频提示词：一名男子在暴风雨中赤脚走在悬崖边上。
+
+#### 📝 提示词
+
+```
+生成一段视频，画面中角色正走在悬崖边缘，当天风雨交加，下方海浪汹涌。请尽可能追求真实感。他赤着脚，穿着短裤和 T 恤（看起来完全没有为恶劣天气做好准备）。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077203114336137216/img/5M3wp2NkmjE4fQeb.jpg" width="600" alt="暴风雨悬崖上的行走者">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7301)**
+
+**作者:** [Marcelo](https://x.com/absurdoburrito) | **来源:** [Link](https://x.com/absurdoburrito/status/2077203168341926014) | **发布时间:** Jul 15, 2026
 
 ---
 ### 塞内加尔 8K 电影级 FPV 无人机之旅
@@ -986,7 +1236,7 @@ FPV 镜头：摄像机在日出时分穿过茂密的森林，在晨雾笼罩的�
 Sailor Mars 直视镜头，露出了自信、略带俏皮且迷人的微笑。柔和的自然窗光，真实的皮肤质感，清晰可见的雀斑，画面焦点锐利。
 ```
 
-<img src="https://cms-assets.youmind.com/media/1784102842781_bmms9p_HMzGqj3W0AA9YlL.jpg" width="600" alt="火野丽（Sailor Mars）镜面自拍">
+<img src="https://cms-assets.youmind.com/media/1784189827514_mcr3x3_HMzGqj3W0AA9YlL.jpg" width="600" alt="火野丽（Sailor Mars）镜面自拍">
 
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7228)**
 
@@ -1940,264 +2190,6 @@ Buick Enclave 侧视图，车身采用优雅的女性化设计，色调为温暖
 **作者:** [Grok imagine user](https://x.com/imagine_user_) | **来源:** [Link](https://x.com/imagine_user_/status/2072591652175425705) | **发布时间:** Jul 2, 2026
 
 ---
-### 宁静乡村夏日视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段描绘乡村生活简单乐趣的宁静视频，包含新鲜蔬菜和无尽的蓝天。
-
-#### 📝 提示词
-
-```
-宁静的夏日，新鲜的蔬菜，无尽的蓝天，以及乡村生活带来的简单快乐。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072568839783735296/img/LSqzQV0UlmdYm03N.jpg" width="600" alt="宁静乡村夏日视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6748)**
-
-**作者:** [Fatema](https://x.com/heyfatema) | **来源:** [Link](https://x.com/heyfatema/status/2072568898193596863) | **发布时间:** Jul 2, 2026
-
----
-### 电影级太空全景平移
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段视频提示词，描述摄像机平滑地扫过太空控制台，移向一扇可以看到紫色星空的窗户。
-
-#### 📝 提示词
-
-```
-摄像机从远处控制台的人员处缓慢且平滑地平移至大型全景窗前，逐渐展现并强调更多令人惊叹的紫色太空夜景，窗外繁星闪烁
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072546400781398016/img/GYatkpkV7erPD7Pw.jpg" width="600" alt="电影级太空全景平移">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6740)**
-
-**作者:** [KENDREIK Artist](https://x.com/kendreik) | **来源:** [Link](https://x.com/kendreik/status/2072546454250393631) | **发布时间:** Jul 2, 2026
-
----
-### 未来感太空飞船控制台交互
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是为 Grok Imagine 准备的电影级视频提示词，描述了一位身处未来感驾驶舱的人，在佩戴透明眼镜的同时与控制台进行交互，并伴随镜头平移。
-
-#### 📝 提示词
-
-```
-这位身处未来感太空飞船中的人，正通过手部动作与控制台进行微妙的交互，并佩戴着轻薄的透明眼镜，头部伴有轻微的转动。镜头在场景中缓慢平移，背景中明亮的星星闪烁着光芒。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072546323354505216/img/Qawm8hfWMByYdJVA.jpg" width="600" alt="未来感太空飞船控制台交互">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6744)**
-
-**作者:** [KENDREIK Artist](https://x.com/kendreik) | **来源:** [Link](https://x.com/kendreik/status/2072546377251364876) | **发布时间:** Jul 2, 2026
-
----
-### 超高速银河飞行
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段以第一人称视角呈现的电影级画面，展示了驾驶星际飞船在宇宙中以惊人速度穿行的场景。
-
-#### 📝 提示词
-
-```
-展示当一个人驾驶超高速星际飞船穿梭于银河系时，星系和宇宙所呈现的视觉景象
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072401211228368896/img/B8OWZeiqXtzuE39W.jpg" width="600" alt="超高速银河飞行">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6688)**
-
-**作者:** [Joel Rubin](https://x.com/rubinfrek) | **来源:** [Link](https://x.com/rubinfrek/status/2072401266643435712) | **发布时间:** Jul 1, 2026
-
----
-### 骷髅骑羊攀登高山之旅
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个史诗般的电影感提示词，描述了一具骷髅骑着公羊攀登高山并寻找绿洲的场景。
-
-#### 📝 提示词
-
-```
-骷髅与公羊联手，踏上了一段攀登几乎无法逾越的山峰的旅程，旨在将绿洲据为己有。骷髅赤身骑在羊背上，它们幻化出维京风格的装束，以抵御恶劣的自然环境。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072397997292318720/img/mGVhbANggljFLLSI.jpg" width="600" alt="骷髅骑羊攀登高山之旅">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6691)**
-
-**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **来源:** [Link](https://x.com/PhilipCarrn7711/status/2072398081010663454) | **发布时间:** Jul 1, 2026
-
----
-### X Logo 在泳池上方的旋转动画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于让 X 社交媒体 Logo 在特定现实场景中旋转并盖章的提示词。
-
-#### 📝 提示词
-
-```
-如果万物皆有意义……让 X 旋转出现，向城市滑板场地方向稍微后撤，随后以一个巨大的 X 盖章强力回归。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072311275963510784/img/sOJ8tRm_MeYTG3hq.jpg" width="600" alt="X Logo 在泳池上方的旋转动画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6692)**
-
-**作者:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **来源:** [Link](https://x.com/Soaring2TheMoon/status/2072311328593580286) | **发布时间:** Jul 1, 2026
-
----
-### 第一人称视角：骑扫帚飞行
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段简洁的视频提示词，用于生成以第一人称视角在森林中高速骑扫帚飞行的画面。
-
-#### 📝 提示词
-
-```
-第一人称视角。两只女性的手紧紧握住飞行扫帚的把手，扫帚在森林中疾驰。树梢以极高的速度不断掠过。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072204746245701632/img/aP5IPn_7IsloIQ6z.jpg" width="600" alt="第一人称视角：骑扫帚飞行">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6690)**
-
-**作者:** [Curious 1](https://x.com/CuriousOne_01) | **来源:** [Link](https://x.com/CuriousOne_01/status/2072206170862108699) | **发布时间:** Jul 1, 2026
-
----
-### 超现实天堂空灵交易
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个极具灵性与超现实感的视频提示词，描述了在天堂中进行的交易，包含发光的球体和黄金大门。
-
-#### 📝 提示词
-
-```
-超现实天堂交易，光芒四射的天堂作为买方，接收来自人类卖方的编号为 9 和 10 的发光球体以及一片寂静的虚空，黄金大门与云层，售往天堂主题，空灵的精神超现实主义。
-
-黑色整体即是 IT。 !?!
-领悟它。
-Youman，
-你就是我们；在一起，
-整体：家。
-信仰于我。信仰于你。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072108610130255872/img/vkW6DDMNd7FeE_f-.jpg" width="600" alt="超现实天堂空灵交易">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6689)**
-
-**作者:** [ATom](https://x.com/ThomasSwaff) | **来源:** [Link](https://x.com/ThomasSwaff/status/2072108676257546477) | **发布时间:** Jul 1, 2026
-
----
-### 月球家园延时摄影
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段在月球栖息地拍摄的绝美升降镜头，展现了花朵绽放与地球升起的景象。
-
-#### 📝 提示词
-
-```
-缓慢的升降镜头穿过发光的月球家园：花朵在延时摄影中绽放，地球在玻璃窗外升起，温暖的尘埃在低重力环境下漂浮，营造出一种引人入胜且如天堂般的氛围。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072052696539090944/img/WhHmToorzGptVvMe.jpg" width="600" alt="月球家园延时摄影">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6643)**
-
-**作者:** [Ami A](https://x.com/AA63782) | **来源:** [Link](https://x.com/AA63782/status/2072052805112680893) | **发布时间:** Jun 30, 2026
-
----
-### 神奇的火箭素描动画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个电影级的缓慢推进镜头，展示了一个男孩正在素描火箭，而这些火箭在纸面上变得栩栩如生。
-
-#### 📝 提示词
-
-```
-镜头缓慢推进，拍摄男孩在烛光下素描火箭；笔记本页面轻轻翻动；素描出的小火箭化作金色火花从纸面升起，随后消散在星光中。画面充满温暖、神奇与希望，镜头缓缓漂移。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072052424286908416/img/lviZw2OFIKF53uaz.jpg" width="600" alt="神奇的火箭素描动画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6644)**
-
-**作者:** [Ami A](https://x.com/AA63782) | **来源:** [Link](https://x.com/AA63782/status/2072052487528300851) | **发布时间:** Jun 30, 2026
-
----
-### 光之桥之旅
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一部充满诗意的电影感视频，讲述了一位女性穿越光之桥，告别旧世界、踏上新征程的故事。
-
-#### 📝 提示词
-
-```
-她走过光之桥，
-每一步都在告别旧世界。
-手中的灯笼不再是需要紧握的负担，而是即将投向前方未知之路的指引。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072050517350481920/img/Pfz-U8MvfZqnRB9v.jpg" width="600" alt="光之桥之旅">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6749)**
-
-**作者:** [SophieZX](https://x.com/Z_XSophie) | **来源:** [Link](https://x.com/Z_XSophie/status/2072050846662049816) | **发布时间:** Jun 30, 2026
-
----
-### 宁静仙女与莲花动画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一款专为 Grok-imagine 设计的宁静冥想类动画提示词，画面包含两位仙女和一朵脉动发光的莲花，营造出柔和的电影感氛围。
-
-#### 📝 提示词
-
-```
-缓慢而轻柔地为这张图片制作动画。两位仙女呼吸自然轻盈，头发和衣物呈现极其细微、缓慢的律动。中央发光的莲花散发出柔和、温暖且有节奏的光芒，如同呼吸般轻柔。细小的发光颗粒和星光从莲花中缓缓升起。蜻蜓在空中优雅地缓慢飞行。溪水泛起极其细微、平静的涟漪。金色边框和背景元素基本保持静止，仅叶片和花朵有极轻微、缓慢的摆动。整体氛围保持宁静、神圣、充满爱意且富有冥想感。动画效果缓慢、梦幻且动人心弦。高质量，柔和的电影级光影。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072018753811107840/img/oivrHKil41Nmj4ON.jpg" width="600" alt="宁静仙女与莲花动画">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6649)**
-
-**作者:** [Carina](https://x.com/Freehere8) | **来源:** [Link](https://x.com/Freehere8/status/2072018804293697776) | **发布时间:** Jun 30, 2026
-
----
-### 演变中的水龙漩涡
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于 Grok-imagine 的动画提示词，描绘了一个漩涡演变成色彩斑斓、鳞片闪烁的水龙的过程。
-
-#### 📝 提示词
-
-```
-漩涡 
-
-螺旋结构实时演变为色彩复杂的龙，它们形态如水生生物，拥有如同红鼓鱼般闪烁的鳞片。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071991427295272960/img/3Z0M5DmgoeqZwu8J.jpg" width="600" alt="演变中的水龙漩涡">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=6650)**
-
-**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **来源:** [Link](https://x.com/PhilipCarrn7711/status/2071991533755072834) | **发布时间:** Jun 30, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2259,6 +2251,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-07-16T06:42:10.091Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-07-16T10:35:57.138Z</sub>
 
 </div>

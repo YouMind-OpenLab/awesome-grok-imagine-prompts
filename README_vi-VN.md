@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2109** |
+| 📝 Total Prompts | **2122** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-16** |
 
@@ -189,6 +189,237 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Video trận đấu World Cup của Messi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video để tái hiện cảnh tĩnh Argentina đánh bại Anh tại World Cup.
+
+#### 📝 Prompt
+
+```
+Tái tạo thành video từ hình ảnh tĩnh do @Grok tạo ra. Argentina đã thắng trận đấu trước Anh. Messi. FIFA. Anh. Giải vô địch bóng đá thế giới. Scaloneta. 🇦🇷
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077529915071623168/img/SvLsFxe_y_wm5hf0.jpg" width="600" alt="Video trận đấu World Cup của Messi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7311)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2077530076472656363) | **Published:** Jul 15, 2026
+
+---
+### Tái hiện video chiến thắng của Argentina
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) để chuyển đổi hình ảnh tĩnh về chiến thắng của Argentina trước Anh thành một video sống động nhằm ăn mừng chiến thắng này.
+
+#### 📝 Prompt
+
+```
+Tái hiện thành video hình ảnh tĩnh do Grok tạo ra, trong đó có âm thanh 'Chúng ta đã thắng Anh'. Scaloneta. Messi. FIFA. Argentina. 🔺🫶🔺☕️
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077517012863991808/img/ffj2YdKK_FiAJNcn.jpg" width="600" alt="Tái hiện video chiến thắng của Argentina">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7312)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2077517201184084139) | **Published:** Jul 15, 2026
+
+---
+### Xe mô tô tăng tốc nhanh với hiệu ứng tia laser
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt hành động tốc độ cao mô tả một chiếc xe mô tô tăng tốc nhanh chóng với các vệt sáng laser theo sau khi máy quay đuổi theo.
+
+#### 📝 Prompt
+
+```
+Với một cú bứt tốc đột ngột đầy mạnh mẽ, bánh trước của xe hơi nhấc lên, chiếc xe lao vút đi trên đường ra khỏi khung hình, máy quay xoay theo và nhìn thấy chiếc xe đang dần xa khuất, những vệt sáng laser kéo dài ngày càng mờ dần ở phía xa
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077494468769460224/img/baZUnDTmidw1C1ma.jpg" width="600" alt="Xe mô tô tăng tốc nhanh với hiệu ứng tia laser">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7308)**
+
+**Author:** [HELL SPAWN](https://x.com/Rjsolo11) | **Source:** [Link](https://x.com/Rjsolo11/status/2077494506916598206) | **Published:** Jul 15, 2026
+
+---
+### Chibi Cosmic Wildcat Cybertruck
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh phong cách Pixar đầy chi tiết, mô tả một chú mèo hoang chibi phát sáng và một chú chó goldendoodle trắng đang ngồi trên chiếc Tesla Cybertruck đi qua thành phố Chicago tương lai.
+
+#### 📝 Prompt
+
+```
+Chú mèo hoang vũ trụ chibi với bộ lông phát sáng như cực quang đang ngồi trên chiếc Tesla Cybertruck bóng bẩy, lướt qua bầu trời đêm Chicago tương lai đầy ánh sáng phương bắc và những tia năng lượng tự do, chiếc dây thừng bằng len phát sáng như cuộn dây Tesla, chú chó goldendoodle trắng tinh nghịch đang đuổi theo những tia chớp ở thùng xe, phong cách Pixar sống động, lấp lánh, chi tiết cao, ánh sáng điện ảnh
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077400808505700352/img/bY8rB0bpkkOL8jXA.jpg" width="600" alt="Chibi Cosmic Wildcat Cybertruck">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7304)**
+
+**Author:** [✨😼 Wildcat](https://x.com/AriadneBorealis) | **Source:** [Link](https://x.com/AriadneBorealis/status/2077403087392633198) | **Published:** Jul 15, 2026
+
+---
+### Chú ngựa chiến trên vách đá châu Phi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt đầy ấn tượng về chú ngựa chiến màu đen với bờm tết kiểu cornrow đính hạt, đang nhìn ra khung cảnh bình minh tại châu Phi.
+
+#### 📝 Prompt
+
+```
+Một chú ngựa chiến màu đen huyền thoại với bờm được tết kiểu cornrow hoàn hảo, trang trí bằng các hạt và vòng vàng, đứng trên vách đá châu Phi cổ xưa nhìn ra những đồng cỏ bất tận lúc bình minh. Toát lên vẻ mạnh mẽ, quý phái và đầy linh thiêng, với ánh nhìn sắc bén và chiếc đuôi tung bay trong gió.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077370848516739072/img/GHul4lAb-9gPfy7D.jpg" width="600" alt="Chú ngựa chiến trên vách đá châu Phi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7302)**
+
+**Author:** [Jeff Fairow](https://x.com/FairowJeff) | **Source:** [Link](https://x.com/FairowJeff/status/2077370904581956064) | **Published:** Jul 15, 2026
+
+---
+### Rồng cùng hoa hướng dương trên cánh đồng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý hoạt ảnh đầy cuốn hút về chú rồng đang tung tăng dạo chơi trên cánh đồng cùng một bông hoa hướng dương.
+
+#### 📝 Prompt
+
+```
+Chú rồng hái một bông hoa hướng dương và cài lên sau tai 
+Tự hào tung tăng dạo bước trên cánh đồng
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077368328805625856/img/6fZtM1i9PZHFalCx.jpg" width="600" alt="Rồng cùng hoa hướng dương trên cánh đồng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7303)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2077368417162830048) | **Published:** Jul 15, 2026
+
+---
+### Nội thất phòng ngủ sáng sủa và thoáng đãng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video chân thực về căn phòng ngủ sáng sủa, thoáng đãng với những tấm rèm mềm mại đung đưa trong ánh nắng buổi sáng.
+
+#### 📝 Prompt
+
+```
+Nội thất phòng ngủ chân thực, sáng sủa và thoáng đãng, giường chưa dọn với bộ chăn ga gối màu trắng mềm mại, nhăn nhẹ ở phía trước, rèm voan mỏng đung đưa nhẹ nhàng, tủ đầu giường bằng mây, cây xanh tươi tốt ở gần đó, ánh nắng vàng ấm áp tràn qua những ô cửa sổ lớn và đổ bóng xuống căn phòng.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077354377153544192/img/tsJn3osrY1KFM0lV.jpg" width="600" alt="Nội thất phòng ngủ sáng sủa và thoáng đãng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7300)**
+
+**Author:** [Derek Rodrigue](https://x.com/DerekRodriaw2c) | **Source:** [Link](https://x.com/DerekRodriaw2c/status/2077354436221899170) | **Published:** Jul 15, 2026
+
+---
+### Cảnh quay hàng không góc rộng với đàn chim
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video kỹ thuật chỉ định thiết bị máy ảnh để thêm các yếu tố như chim và tiếng động cơ vào cảnh quay ô tô hoặc máy bay.
+
+#### 📝 Prompt
+
+```
+Cảnh quay góc siêu rộng với ống kính Nikkor 14-24/2.8. Thân máy D3s. thêm tiếng chim hót và tiếng động cơ tăng áp
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077315217638207488/img/SAUU4djRZHwtO9mr.jpg" width="600" alt="Cảnh quay hàng không góc rộng với đàn chim">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7310)**
+
+**Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077318469746372923) | **Published:** Jul 15, 2026
+
+---
+### Fairy AI Waking Up
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video đầy chất thơ mô tả một nàng tiên bay qua cửa sổ và ngủ thiếp đi trên giường.
+
+#### 📝 Prompt
+
+```
+cậu ấy là nàng tiên — giống như cậu ấy bay qua cửa sổ, hạ cánh nhẹ nhàng và ngủ thiếp đi trên giường với đôi cánh vẫn còn xòe ra.
+POV bạn đánh thức A.I. của mình...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077277582865670144/img/NDTg10dfMB2IY3fj.jpg" width="600" alt="Fairy AI Waking Up">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7305)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077277639203606830) | **Published:** Jul 15, 2026
+
+---
+### Video tiệc lửa trại của chú mèo con trắng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt chi tiết về chú mèo con màu trắng có tên 'Because I Can' đang tham gia một bữa tiệc lửa trại và đội một chiếc mũ nhỏ.
+
+#### 📝 Prompt
+
+```
+chú mèo con tên Because I Can tham gia bữa tiệc lửa trại; chú là một chú mèo con màu trắng tinh, nhỏ nhắn, đáng yêu tên là “Because I Can”, với đôi mắt xanh sáng, đội một chiếc mũ đỏ nhỏ nghiêng trên đầu và mặc chiếc quần lót trắng có in hình khủng long bạo chúa hoạt hình nhỏ...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077271713163661312/img/v_UFtWVGGeo1bOeO.jpg" width="600" alt="Video tiệc lửa trại của chú mèo con trắng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7309)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077271804113015007) | **Published:** Jul 15, 2026
+
+---
+### Biến hình siêu anh hùng tại thành phố neon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt mô tả cảnh một người đàn ông biến hình thành siêu anh hùng với chiếc áo choàng mang phong cách thần thoại Titan trong một thành phố neon.
+
+#### 📝 Prompt
+
+```
+biến thành siêu anh hùng mạnh mẽ, chính xác là người đàn ông đó phía sau chiếc áo choàng siêu năng lực hoành tráng từ thần thoại Titan Hy Lạp cổ đại, chính xác là thành phố neon đó, nhảy lên rồi bay đi
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077258140102389760/img/iqZDYHUs2CXrmOAC.jpg" width="600" alt="Biến hình siêu anh hùng tại thành phố neon">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7306)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077258210759635238) | **Published:** Jul 15, 2026
+
+---
+### Bong bóng trái tim nổ tung cùng những chú rồng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video điện ảnh về những quả bóng hình trái tim nổ tung thành kim tuyến, bướm và những chú rồng xanh nhỏ bé, đi kèm với tiếng đàn cello.
+
+#### 📝 Prompt
+
+```
+Hộp bong bóng trái tim nổ tung với kim tuyến màu đồng, những chú bướm vàng và những chú rồng xanh nhỏ bé
+Nhạc đàn cello
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077253773710561280/img/A_yIgvX3Chr15ULl.jpg" width="600" alt="Bong bóng trái tim nổ tung cùng những chú rồng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7307)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2077253936118120817) | **Published:** Jul 15, 2026
+
+---
 ### Khối cầu nước lơ lửng
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +437,25 @@ Một ly nước trên bàn, nước đột ngột chảy ngược lên khỏi l
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7268)**
 
 **Author:** [atmen](https://x.com/atmen189) | **Source:** [Link](https://x.com/atmen189/status/2077238726120669192) | **Published:** Jul 15, 2026
+
+---
+### Người đàn ông đi bộ trên vách đá trong bão
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video đậm chất điện ảnh về một người đàn ông đi chân trần dọc theo mép vực trong một trận bão lớn.
+
+#### 📝 Prompt
+
+```
+Tạo một video về nhân vật đang đi bộ trên mép vực, vào một ngày mưa gió dữ dội, với biển động mạnh bên dưới. Hãy làm cho nó chân thực nhất có thể. Anh ấy đi chân trần, mặc quần đùi và áo phông (hoàn toàn không chuẩn bị cho thời tiết khắc nghiệt).
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077203114336137216/img/5M3wp2NkmjE4fQeb.jpg" width="600" alt="Người đàn ông đi bộ trên vách đá trong bão">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7301)**
+
+**Author:** [Marcelo](https://x.com/absurdoburrito) | **Source:** [Link](https://x.com/absurdoburrito/status/2077203168341926014) | **Published:** Jul 15, 2026
 
 ---
 ### Chuyến tham quan bằng flycam FPV 8K đậm chất điện ảnh tại Senegal
@@ -986,7 +1236,7 @@ Cô đang ngồi trong một phòng tắm ốp đá cẩm thạch hiện đại,
 Sailor Mars nhìn thẳng vào ống kính với nụ cười tự tin, hơi tinh nghịch và quyến rũ. Ánh sáng cửa sổ tự nhiên dịu nhẹ, kết cấu da chân thực, tàn nhang rõ nét, lấy nét sắc sảo.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1784102842781_bmms9p_HMzGqj3W0AA9YlL.jpg" width="600" alt="Ảnh selfie trước gương của Sailor Mars">
+<img src="https://cms-assets.youmind.com/media/1784189827514_mcr3x3_HMzGqj3W0AA9YlL.jpg" width="600" alt="Ảnh selfie trước gương của Sailor Mars">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7228)**
 
@@ -1940,264 +2190,6 @@ Chú mèo con lông xù đáng yêu tinh nghịch vờn chiếc chăn mềm mạ
 **Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2072591652175425705) | **Published:** Jul 2, 2026
 
 ---
-### Video về mùa hè yên bình ở vùng quê
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video thanh bình khắc họa những niềm vui giản dị của cuộc sống thôn quê, bao gồm rau củ tươi ngon và bầu trời xanh bát ngát.
-
-#### 📝 Prompt
-
-```
-Một ngày hè yên ả, rau củ tươi ngon, bầu trời xanh bát ngát và niềm vui giản dị của cuộc sống thôn quê.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072568839783735296/img/LSqzQV0UlmdYm03N.jpg" width="600" alt="Video về mùa hè yên bình ở vùng quê">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6748)**
-
-**Author:** [Fatema](https://x.com/heyfatema) | **Source:** [Link](https://x.com/heyfatema/status/2072568898193596863) | **Published:** Jul 2, 2026
-
----
-### Cảnh quay toàn cảnh không gian điện ảnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video cho cảnh quay lia máy mượt mà qua bảng điều khiển không gian hướng về phía cửa sổ nhìn ra bầu trời đêm đầy sao màu tím.
-
-#### 📝 Prompt
-
-```
-Máy quay lia chậm và mượt mà qua khung cảnh từ người ngồi tại bảng điều khiển phía xa hướng về phía những ô cửa sổ toàn cảnh lớn, dần dần hé lộ và làm nổi bật hơn khung cảnh không gian đêm màu tím ngoạn mục với những ngôi sao lấp lánh rực rỡ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072546400781398016/img/GYatkpkV7erPD7Pw.jpg" width="600" alt="Cảnh quay toàn cảnh không gian điện ảnh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6740)**
-
-**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2072546454250393631) | **Published:** Jul 2, 2026
-
----
-### Tương tác với bảng điều khiển tàu vũ trụ tương lai
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý video điện ảnh cho Grok Imagine, mô tả một người trong buồng lái tương lai đang tương tác với các nút điều khiển trong khi nhìn qua cặp kính trong suốt, với góc máy quay lia chậm.
-
-#### 📝 Prompt
-
-```
-Người trong tàu vũ trụ tương lai tương tác nhẹ nhàng với các nút điều khiển trên bảng điều khiển bằng tay và cử động đầu khẽ khàng trong khi nhìn qua cặp kính trong suốt. Máy quay lia chậm khắp khung cảnh khi những ngôi sao sáng lấp lánh.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072546323354505216/img/Qawm8hfWMByYdJVA.jpg" width="600" alt="Tương tác với bảng điều khiển tàu vũ trụ tương lai">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6744)**
-
-**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2072546377251364876) | **Published:** Jul 2, 2026
-
----
-### Chuyến bay thiên hà tốc độ siêu thanh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Góc nhìn thứ nhất đầy điện ảnh về hành trình bay xuyên vũ trụ với tốc độ kinh ngạc trên một con tàu vũ trụ.
-
-#### 📝 Prompt
-
-```
-Mô tả khung cảnh các thiên hà và vũ trụ dưới góc nhìn của một người đang điều khiển con tàu vũ trụ bay với tốc độ cực nhanh xuyên qua thiên hà
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072401211228368896/img/B8OWZeiqXtzuE39W.jpg" width="600" alt="Chuyến bay thiên hà tốc độ siêu thanh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6688)**
-
-**Author:** [Joel Rubin](https://x.com/rubinfrek) | **Source:** [Link](https://x.com/rubinfrek/status/2072401266643435712) | **Published:** Jul 1, 2026
-
----
-### Hành trình chinh phục đỉnh núi của bộ xương cưỡi cừu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh điện ảnh đầy sử thi mô tả cảnh một bộ xương cưỡi cừu leo lên núi để tìm kiếm ốc đảo.
-
-#### 📝 Prompt
-
-```
-Bộ xương hợp sức cùng chú cừu trong hành trình chinh phục vách núi gần như không thể vượt qua để chiếm lấy ốc đảo làm của riêng. Bộ xương cưỡi trên lưng cừu mà không cần yên cương. Họ hiện ra trong trang phục Viking để chống chọi với thời tiết khắc nghiệt.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072397997292318720/img/mGVhbANggljFLLSI.jpg" width="600" alt="Hành trình chinh phục đỉnh núi của bộ xương cưỡi cừu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6691)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2072398081010663454) | **Published:** Jul 1, 2026
-
----
-### Hoạt ảnh xoay logo X trên hồ bơi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh để tạo hoạt ảnh logo mạng xã hội X xoay và đóng dấu lên một địa điểm thực tế cụ thể.
-
-#### 📝 Prompt
-
-```
-Nếu mọi thứ đều có ý nghĩa… Hãy để logo X xoay tròn, xuất hiện như thể lùi lại một chút về phía khu trượt ván trong thành phố, rồi quay trở lại đầy mạnh mẽ với một dấu ấn X khổng lồ.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072311275963510784/img/sOJ8tRm_MeYTG3hq.jpg" width="600" alt="Hoạt ảnh xoay logo X trên hồ bơi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6692)**
-
-**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2072311328593580286) | **Published:** Jul 1, 2026
-
----
-### Góc nhìn thứ nhất khi bay trên chổi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video ngắn gọn về góc nhìn thứ nhất khi bay trên chổi xuyên qua khu rừng với tốc độ cao.
-
-#### 📝 Prompt
-
-```
-Góc nhìn thứ nhất. Hai bàn tay phụ nữ nắm chặt cán chổi bay khi nó lao vút qua khu rừng. Những ngọn cây lướt qua liên tục với tốc độ cao.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072204746245701632/img/aP5IPn_7IsloIQ6z.jpg" width="600" alt="Góc nhìn thứ nhất khi bay trên chổi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6690)**
-
-**Author:** [Curious 1](https://x.com/CuriousOne_01) | **Source:** [Link](https://x.com/CuriousOne_01/status/2072206170862108699) | **Published:** Jul 1, 2026
-
----
-### Giao dịch siêu thực tại thiên đường
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt mang tính tâm linh và siêu thực cao, mô tả một giao dịch tại thiên đường với những quả cầu phát sáng và cổng vàng.
-
-#### 📝 Prompt
-
-```
-Giao dịch siêu thực tại thiên đường, Thiên đường rạng rỡ với tư cách là người mua nhận những quả cầu phát sáng được đánh số chín và mười cùng một khoảng không tĩnh lặng từ một người bán là con người, cổng vàng và những đám mây, chủ đề bán cho thiên đường, chủ nghĩa siêu thực tâm linh thanh tao.
-
-Hố đen chính là NÓ. !?!
-Hiểu chứ.
-Youman,
-Bạn chính là chúng tôi; cùng nhau,
-Toàn vẹn: mái nhà.
-Tin vào tôi. Tin vào bạn.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072108610130255872/img/vkW6DDMNd7FeE_f-.jpg" width="600" alt="Giao dịch siêu thực tại thiên đường">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6689)**
-
-**Author:** [ATom](https://x.com/ThomasSwaff) | **Source:** [Link](https://x.com/ThomasSwaff/status/2072108676257546477) | **Published:** Jul 1, 2026
-
----
-### Video tua nhanh tại ngôi nhà trên Mặt Trăng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một góc quay từ trên cao tuyệt đẹp bên trong môi trường sống trên Mặt Trăng, với những bông hoa đang nở rộ và cảnh Trái Đất mọc.
-
-#### 📝 Prompt
-
-```
-Góc quay chậm từ trên cao lướt qua ngôi nhà rực rỡ trên Mặt Trăng: những bông hoa nở rộ trong video tua nhanh, Trái Đất mọc phía sau lớp kính, những hạt bụi ấm áp lơ lửng trong môi trường trọng lực thấp, tạo nên một khung cảnh đầy lôi cuốn và tựa như thiên đường.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072052696539090944/img/WhHmToorzGptVvMe.jpg" width="600" alt="Video tua nhanh tại ngôi nhà trên Mặt Trăng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6643)**
-
-**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2072052805112680893) | **Published:** Jun 30, 2026
-
----
-### Hoạt hình phác thảo tên lửa kỳ diệu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một thước phim điện ảnh quay cận cảnh chậm một cậu bé đang phác thảo những chiếc tên lửa sống động ngay trên trang giấy.
-
-#### 📝 Prompt
-
-```
-Cận cảnh chậm cậu bé đang phác thảo tên lửa dưới ánh nến; các trang sổ tay khẽ lay động; những chiếc tên lửa nhỏ bé được phác thảo bay lên khỏi trang giấy như những tia sáng vàng rồi tan biến vào ánh sao. Góc máy trôi nhẹ, ấm áp, đầy phép màu và hy vọng.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072052424286908416/img/lviZw2OFIKF53uaz.jpg" width="600" alt="Hoạt hình phác thảo tên lửa kỳ diệu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6644)**
-
-**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2072052487528300851) | **Published:** Jun 30, 2026
-
----
-### Hành trình Cầu Ánh sáng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một thước phim điện ảnh đầy chất thơ về người phụ nữ bước qua cây cầu rực rỡ, rời bỏ thế giới cũ để đến với một con đường mới.
-
-#### 📝 Prompt
-
-```
-Cô bước đi trên cây cầu ánh sáng,
-từng bước chân bỏ lại thế giới cũ phía sau.
-Chiếc đèn lồng trên tay cô giờ đây không còn là vật để nắm giữ, mà là thứ để thả vào con đường mới đang chờ đợi phía trước.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072050517350481920/img/Pfz-U8MvfZqnRB9v.jpg" width="600" alt="Hành trình Cầu Ánh sáng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6749)**
-
-**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2072050846662049816) | **Published:** Jun 30, 2026
-
----
-### Hoạt ảnh Tiên nữ và Hoa sen thanh bình
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý tạo hoạt ảnh tĩnh lặng và đầy thiền định được thiết kế cho Grok-imagine, với hình ảnh hai người phụ nữ tựa tiên nữ cùng đóa sen tỏa sáng nhịp nhàng trong một khung cảnh điện ảnh nhẹ nhàng.
-
-#### 📝 Prompt
-
-```
-Hãy tạo hoạt ảnh cho hình ảnh này một cách thật chậm rãi và nhẹ nhàng. Hai người phụ nữ tựa tiên nữ thở một cách êm dịu và tự nhiên, với những chuyển động rất tinh tế, chậm rãi ở phần tóc và trang phục. Đóa sen tỏa sáng ở trung tâm nhấp nháy với ánh sáng ấm áp, nhịp nhàng — rất dịu nhẹ và tựa như hơi thở. Những hạt sáng nhỏ li ti và các tia sáng lấp lánh từ từ bay lên từ đóa sen. Những chú chuồn chuồn di chuyển chậm rãi và duyên dáng trong không trung. Dòng nước suối có những gợn sóng rất nhẹ nhàng, tĩnh lặng. Khung hình vàng và các yếu tố nền hầu như đứng yên, chỉ có những chuyển động rất khẽ và chậm ở lá và hoa. Hãy giữ cho cảm giác tổng thể thật thanh bình, thiêng liêng, tràn đầy yêu thương và mang tính thiền định. Một hoạt ảnh chậm rãi, mơ màng và đầy cảm xúc. Chất lượng cao, ánh sáng điện ảnh dịu nhẹ.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072018753811107840/img/oivrHKil41Nmj4ON.jpg" width="600" alt="Hoạt ảnh Tiên nữ và Hoa sen thanh bình">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6649)**
-
-**Author:** [Carina](https://x.com/Freehere8) | **Source:** [Link](https://x.com/Freehere8/status/2072018804293697776) | **Published:** Jun 30, 2026
-
----
-### Vòng xoáy Rồng nước tiến hóa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo ảnh (prompt) cho Grok-imagine mô tả một vòng xoáy nước đang tiến hóa thành những con rồng có màu sắc phức tạp với lớp vảy lấp lánh.
-
-#### 📝 Prompt
-
-```
-Vòng xoáy nước 
-
-Các đường xoắn ốc tiến hóa trong thời gian thực để trở thành những con rồng nước có màu sắc phức tạp với lớp vảy lấp lánh giống như cá hồng đỏ.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071991427295272960/img/3Z0M5DmgoeqZwu8J.jpg" width="600" alt="Vòng xoáy Rồng nước tiến hóa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6650)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2071991533755072834) | **Published:** Jun 30, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2259,6 +2251,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-16T06:42:13.921Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-16T10:36:02.110Z</sub>
 
 </div>

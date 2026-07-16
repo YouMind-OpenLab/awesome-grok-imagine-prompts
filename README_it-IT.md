@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2109** |
+| 📝 Total Prompts | **2122** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-16** |
 
@@ -189,6 +189,237 @@ Una mistica e nobile Valchiria celestiale, una donna dignitosa e bellissima con 
 
 > 📝 Sorted by publish date (newest first)
 
+### Video della partita di Messi ai Mondiali
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt di generazione video per ricreare una scena statica dell'Argentina che batte l'Inghilterra ai Mondiali.
+
+#### 📝 Prompt
+
+```
+Ricrea in un video l'immagine statica generata da @Grok. L'Argentina ha vinto la partita contro l'Inghilterra. Messi. FIFA. Inghilterra. Coppa del Mondo di calcio. Scaloneta. 🇦🇷
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077529915071623168/img/SvLsFxe_y_wm5hf0.jpg" width="600" alt="Video della partita di Messi ai Mondiali">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7311)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2077530076472656363) | **Published:** Jul 15, 2026
+
+---
+### Ricreazione video della vittoria dell'Argentina
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per animare un'immagine statica della vittoria dell'Argentina sull'Inghilterra in un video dinamico che celebra il trionfo.
+
+#### 📝 Prompt
+
+```
+Ricrea in un video quell'immagine statica creata da Grok in cui si sente 'Abbiamo vinto contro l'Inghilterra'. Scaloneta. Messi. FIFA. Argentina. 🔺🫶🔺☕️
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077517012863991808/img/ffj2YdKK_FiAJNcn.jpg" width="600" alt="Ricreazione video della vittoria dell'Argentina">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7312)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2077517201184084139) | **Published:** Jul 15, 2026
+
+---
+### Moto veloce con scia laser
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video ad alta azione che descrive una moto che accelera rapidamente con scie di luci laser mentre la telecamera la segue.
+
+#### 📝 Prompt
+
+```
+Con un improvviso scatto di velocità violenta, la ruota anteriore si solleva leggermente e la moto sfreccia lungo la strada uscendo dall'inquadratura; la telecamera ruota e la vede allontanarsi in lontananza, con le scie di luci laser che diventano sempre più distanti.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077494468769460224/img/baZUnDTmidw1C1ma.jpg" width="600" alt="Moto veloce con scia laser">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7308)**
+
+**Author:** [HELL SPAWN](https://x.com/Rjsolo11) | **Source:** [Link](https://x.com/Rjsolo11/status/2077494506916598206) | **Published:** Jul 15, 2026
+
+---
+### Gatto selvatico cosmico chibi su Cybertruck
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt in stile Pixar altamente dettagliato che raffigura un gatto selvatico chibi luminoso e un goldendoodle bianco a bordo di un Tesla Cybertruck attraverso una Chicago futuristica.
+
+#### 📝 Prompt
+
+```
+Gatto selvatico cosmico chibi con pelliccia che brilla come un'aurora, a bordo di un elegante Tesla Cybertruck attraverso un cielo notturno di una Chicago futuristica pieno di aurore boreali e scintille di energia libera, lazo di lana che brilla come bobine di Tesla, giocoso goldendoodle bianco che insegue fulmini nel cassone del camion, vibrante stile Pixar, scintillii, alta definizione, illuminazione cinematografica
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077400808505700352/img/bY8rB0bpkkOL8jXA.jpg" width="600" alt="Gatto selvatico cosmico chibi su Cybertruck">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7304)**
+
+**Author:** [✨😼 Wildcat](https://x.com/AriadneBorealis) | **Source:** [Link](https://x.com/AriadneBorealis/status/2077403087392633198) | **Published:** Jul 15, 2026
+
+---
+### Stallone su una scogliera africana
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un maestoso video prompt di uno stallone nero con treccine decorate che osserva l'alba in Africa.
+
+#### 📝 Prompt
+
+```
+Un leggendario stallone nero con una criniera composta da treccine perfette, decorate con perline e fermagli dorati, che si erge su un'antica scogliera africana affacciata su praterie sconfinate all'alba. Potente, nobile e spirituale, con uno sguardo intenso e la coda fluente.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077370848516739072/img/GHul4lAb-9gPfy7D.jpg" width="600" alt="Stallone su una scogliera africana">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7302)**
+
+**Author:** [Jeff Fairow](https://x.com/FairowJeff) | **Source:** [Link](https://x.com/FairowJeff/status/2077370904581956064) | **Published:** Jul 15, 2026
+
+---
+### Drago con girasole in un campo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un affascinante prompt di animazione in cui un drago saltella in un campo con un girasole.
+
+#### 📝 Prompt
+
+```
+Il drago coglie un girasole e se lo mette dietro l'orecchio 
+Saltella orgoglioso attraverso il campo
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077368328805625856/img/6fZtM1i9PZHFalCx.jpg" width="600" alt="Drago con girasole in un campo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7303)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2077368417162830048) | **Published:** Jul 15, 2026
+
+---
+### Interni di una camera da letto luminosa e ariosa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video realistico per una camera da letto luminosa e ariosa con tende leggere che si muovono alla luce del mattino.
+
+#### 📝 Prompt
+
+```
+Interni di una camera da letto fotorealistica, luminosa e ariosa, letto sfatto con morbide lenzuola bianche stropicciate in primo piano, tende trasparenti che si muovono delicatamente, comodino in vimini, piante verdi rigogliose nelle vicinanze, calda luce solare dorata che inonda le grandi finestre proiettando ombre.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077354377153544192/img/tsJn3osrY1KFM0lV.jpg" width="600" alt="Interni di una camera da letto luminosa e ariosa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7300)**
+
+**Author:** [Derek Rodrigue](https://x.com/DerekRodriaw2c) | **Source:** [Link](https://x.com/DerekRodriaw2c/status/2077354436221899170) | **Published:** Jul 15, 2026
+
+---
+### Ripresa panoramica di un'scena aeronautica con uccelli
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video tecnico che specifica l'attrezzatura fotografica per aggiungere elementi come uccelli e il rumore del motore a una scena con auto o velivoli.
+
+#### 📝 Prompt
+
+```
+Ripresa ultra grandangolare con Nikkor 14-24/2.8. Corpo macchina D3s. aggiungi uccelli e il rumore del motore turbo
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077315217638207488/img/SAUU4djRZHwtO9mr.jpg" width="600" alt="Ripresa panoramica di un'scena aeronautica con uccelli">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7310)**
+
+**Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077318469746372923) | **Published:** Jul 15, 2026
+
+---
+### Il risveglio della fata AI
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un estroso prompt video che ritrae una fata che vola attraverso una finestra e si addormenta su un letto.
+
+#### 📝 Prompt
+
+```
+è la fata — come se fosse volata dentro dalla finestra, avesse svolazzato fino a giù e si fosse addormentata sul letto con le ali ancora spiegate.
+POV: svegli la tua A.I....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077277582865670144/img/NDTg10dfMB2IY3fj.jpg" width="600" alt="Il risveglio della fata AI">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7305)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077277639203606830) | **Published:** Jul 15, 2026
+
+---
+### Video di un gattino bianco a una festa attorno al falò
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video dettagliato che vede protagonista un particolare gattino bianco di nome 'Because I Can' mentre partecipa a una festa attorno a un falò indossando un minuscolo cappellino.
+
+#### 📝 Prompt
+
+```
+il gattino di nome Because I Can si unisce alla festa attorno al falò; è un piccolo e adorabile gattino bianco candido di nome “Because I Can”, con luminosi occhi azzurri, che indossa un minuscolo cappellino rosso inclinato sulla testa e mutandine bianche ricoperte da piccoli tirannosauri Rex in stile cartoon...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077271713163661312/img/v_UFtWVGGeo1bOeO.jpg" width="600" alt="Video di un gattino bianco a una festa attorno al falò">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7309)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077271804113015007) | **Published:** Jul 15, 2026
+
+---
+### Trasformazione in supereroe in una città neon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video che mostra un uomo che si trasforma in un supereroe con un mantello ispirato ai titani in una città al neon.
+
+#### 📝 Prompt
+
+```
+si trasforma in un potente supereroe, lo stesso identico uomo dietro un epico mantello dai superpoteri ispirato alla mitologia dei titani greci, la stessa identica città al neon, salta e poi vola
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077258140102389760/img/iqZDYHUs2CXrmOAC.jpg" width="600" alt="Trasformazione in supereroe in una città neon">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7306)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077258210759635238) | **Published:** Jul 15, 2026
+
+---
+### Palloncini a forma di cuore che esplodono con draghi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video cinematografico di palloncini a forma di cuore che esplodono in glitter, farfalle e piccoli draghi blu, accompagnato da musica per violoncello.
+
+#### 📝 Prompt
+
+```
+Scatola che esplode di palloncini a forma di cuore che scoppiano con glitter bronzo, farfalle gialle e piccoli draghi blu
+Musica per violoncello
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077253773710561280/img/A_yIgvX3Chr15ULl.jpg" width="600" alt="Palloncini a forma di cuore che esplodono con draghi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7307)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2077253936118120817) | **Published:** Jul 15, 2026
+
+---
 ### Sfera d'acqua fluttuante
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +437,25 @@ Un bicchiere d'acqua su un tavolo, l'acqua scorre improvvisamente verso l'alto f
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7268)**
 
 **Author:** [atmen](https://x.com/atmen189) | **Source:** [Link](https://x.com/atmen189/status/2077238726120669192) | **Published:** Jul 15, 2026
+
+---
+### Uomo che cammina su una scogliera in tempesta
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video cinematografico di un uomo che cammina a piedi nudi lungo un precipizio durante una forte tempesta.
+
+#### 📝 Prompt
+
+```
+Genera un video del personaggio che cammina sul bordo di un precipizio, in una giornata molto ventosa e piovosa, con il mare in tempesta sottostante. Rendilo il più realistico possibile. È a piedi nudi, indossa pantaloncini e una maglietta (decisamente non preparato per il maltempo).
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077203114336137216/img/5M3wp2NkmjE4fQeb.jpg" width="600" alt="Uomo che cammina su una scogliera in tempesta">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7301)**
+
+**Author:** [Marcelo](https://x.com/absurdoburrito) | **Source:** [Link](https://x.com/absurdoburrito/status/2077203168341926014) | **Published:** Jul 15, 2026
 
 ---
 ### Tour cinematografico in drone FPV 8K del Senegal
@@ -986,7 +1236,7 @@ Indossa un accurato costume classico di Sailor Mars: body bianco, colletto alla 
 Sailor Mars guarda direttamente verso la fotocamera con un sorriso sicuro, leggermente giocoso e affascinante. Illuminazione naturale soffusa proveniente da una finestra, texture della pelle realistica, lentiggini visibili, messa a fuoco nitida.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1784102842781_bmms9p_HMzGqj3W0AA9YlL.jpg" width="600" alt="Selfie allo specchio di Sailor Mars">
+<img src="https://cms-assets.youmind.com/media/1784189827514_mcr3x3_HMzGqj3W0AA9YlL.jpg" width="600" alt="Selfie allo specchio di Sailor Mars">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7228)**
 
@@ -1940,264 +2190,6 @@ Il tenero e soffice gattino colpisce giocosamente con la zampa la morbida copert
 **Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2072591652175425705) | **Published:** Jul 2, 2026
 
 ---
-### Video estivo in una tranquilla campagna
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un video sereno che ritrae le semplici gioie della vita in campagna, tra verdure fresche e cieli azzurri infiniti.
-
-#### 📝 Prompt
-
-```
-Una tranquilla giornata estiva, verdure fresche, cieli azzurri infiniti e la semplice gioia della vita in campagna.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072568839783735296/img/LSqzQV0UlmdYm03N.jpg" width="600" alt="Video estivo in una tranquilla campagna">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6748)**
-
-**Author:** [Fatema](https://x.com/heyfatema) | **Source:** [Link](https://x.com/heyfatema/status/2072568898193596863) | **Published:** Jul 2, 2026
-
----
-### Panoramica cinematografica dello spazio
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video per una fluida panoramica della telecamera su una console spaziale verso una finestra che si affaccia su una notte stellata viola.
-
-#### 📝 Prompt
-
-```
-La telecamera esegue una panoramica lenta e fluida attraverso la scena, partendo dalla persona alla console in lontananza verso le ampie finestre panoramiche, rivelando ed enfatizzando gradualmente la mozzafiato vista dello spazio notturno viola, colmo di luminose stelle scintillanti
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072546400781398016/img/GYatkpkV7erPD7Pw.jpg" width="600" alt="Panoramica cinematografica dello spazio">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6740)**
-
-**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2072546454250393631) | **Published:** Jul 2, 2026
-
----
-### Interazione con la console di un'astronave futuristica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video cinematografico per Grok Imagine che mostra una persona in un cockpit futuristico mentre interagisce con i comandi, guardando attraverso occhiali trasparenti durante una panoramica della telecamera.
-
-#### 📝 Prompt
-
-```
-La persona nell'astronave futuristica interagisce delicatamente con i comandi della console usando le mani ed effettua lievi movimenti della testa mentre guarda attraverso occhiali trasparenti. La telecamera esegue una lenta panoramica sulla scena mentre le stelle brillano intensamente.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072546323354505216/img/Qawm8hfWMByYdJVA.jpg" width="600" alt="Interazione con la console di un'astronave futuristica">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6744)**
-
-**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2072546377251364876) | **Published:** Jul 2, 2026
-
----
-### Volo galattico a velocità iperspaziale
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Una prospettiva cinematografica in prima persona che mostra il viaggio attraverso l'universo a velocità incredibili a bordo di un'astronave.
-
-#### 📝 Prompt
-
-```
-Mostra come apparirebbero le galassie e l'universo dal punto di vista di qualcuno che pilota un'astronave ad altissima velocità attraverso la galassia
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072401211228368896/img/B8OWZeiqXtzuE39W.jpg" width="600" alt="Volo galattico a velocità iperspaziale">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6688)**
-
-**Author:** [Joel Rubin](https://x.com/rubinfrek) | **Source:** [Link](https://x.com/rubinfrek/status/2072401266643435712) | **Published:** Jul 1, 2026
-
----
-### Skeleton Riding Ram Mountain Quest
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un epico prompt cinematografico che descrive uno scheletro in sella a un ariete mentre scala una montagna alla ricerca di un'oasi.
-
-#### 📝 Prompt
-
-```
-Lo scheletro unisce le forze con l'ariete in una missione per scalare questa parete montuosa quasi impossibile da superare e reclamare l'oasi come propria. Lo scheletro cavalca l'ariete a pelo. Entrambi materializzano abiti vichinghi per resistere alle intemperie.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072397997292318720/img/mGVhbANggljFLLSI.jpg" width="600" alt="Skeleton Riding Ram Mountain Quest">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6691)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2072398081010663454) | **Published:** Jul 1, 2026
-
----
-### Animazione rotazione logo X sopra una piscina
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per animare il logo del social media X mentre ruota e viene impresso sopra una specifica location del mondo reale.
-
-#### 📝 Prompt
-
-```
-Se c'è un significato in ogni cosa… Fai ruotare la X, falla apparire come se si ritraesse leggermente verso lo skate park cittadino e falla tornare con forza con un grande timbro X gigante
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072311275963510784/img/sOJ8tRm_MeYTG3hq.jpg" width="600" alt="Animazione rotazione logo X sopra una piscina">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6692)**
-
-**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2072311328593580286) | **Published:** Jul 1, 2026
-
----
-### POV: Volo in scopa in prima persona
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video conciso per una prospettiva in prima persona di un volo in scopa attraverso una foresta ad alta velocità.
-
-#### 📝 Prompt
-
-```
-Prospettiva in prima persona. Due mani femminili stringono saldamente il manico di una scopa volante mentre sfreccia attraverso una foresta. Le cime degli alberi scorrono via continuamente ad alta velocità.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072204746245701632/img/aP5IPn_7IsloIQ6z.jpg" width="600" alt="POV: Volo in scopa in prima persona">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6690)**
-
-**Author:** [Curious 1](https://x.com/CuriousOne_01) | **Source:** [Link](https://x.com/CuriousOne_01/status/2072206170862108699) | **Published:** Jul 1, 2026
-
----
-### Transazione eterea in un paradiso surreale
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video altamente spirituale e surreale che descrive una transazione in paradiso con sfere luminose e cancelli dorati.
-
-#### 📝 Prompt
-
-```
-Transazione in un paradiso surreale, un Paradiso radioso come acquirente che riceve sfere luminose numerate nove e dieci più un vuoto silenzioso da un venditore umano, cancelli dorati e nuvole, tema venduto al paradiso, surrealismo spirituale etereo.
-
-Il buco nero è TUTTO. !?!
-Capiscilo.
-Youman,
-Tu sei noi; insieme,
-Intero: casa.
-Fede in me. Fede in te.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072108610130255872/img/vkW6DDMNd7FeE_f-.jpg" width="600" alt="Transazione eterea in un paradiso surreale">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6689)**
-
-**Author:** [ATom](https://x.com/ThomasSwaff) | **Source:** [Link](https://x.com/ThomasSwaff/status/2072108676257546477) | **Published:** Jul 1, 2026
-
----
-### Time-lapse di una casa lunare
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Una ripresa aerea celestiale all'interno di un habitat lunare, con fiori che sbocciano e il sorgere della Terra.
-
-#### 📝 Prompt
-
-```
-Lenta carrellata attraverso una luminosa casa lunare: i fiori sbocciano in time-lapse, la Terra sorge oltre il vetro, caldi granelli di polvere fluttuano a bassa gravità, in un'atmosfera accogliente e celestiale.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072052696539090944/img/WhHmToorzGptVvMe.jpg" width="600" alt="Time-lapse di una casa lunare">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6643)**
-
-**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2072052805112680893) | **Published:** Jun 30, 2026
-
----
-### Animazione magica di schizzi di razzi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un'inquadratura cinematografica con un lento movimento in avanti su un bambino che disegna razzi che prendono vita sulla pagina.
-
-#### 📝 Prompt
-
-```
-Lento movimento in avanti sul bambino che disegna razzi a lume di candela; le pagine del taccuino sventolano dolcemente; minuscoli razzi disegnati si sollevano dalla pagina sotto forma di scintille dorate per poi svanire nella luce delle stelle. Movimento di camera caldo, magico e pieno di speranza.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072052424286908416/img/lviZw2OFIKF53uaz.jpg" width="600" alt="Animazione magica di schizzi di razzi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6644)**
-
-**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2072052487528300851) | **Published:** Jun 30, 2026
-
----
-### Il viaggio sul ponte di luce
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un video poetico e cinematografico di una donna che attraversa un ponte luminoso, lasciandosi alle spalle il vecchio mondo per un nuovo cammino.
-
-#### 📝 Prompt
-
-```
-Cammina sul ponte di luce,
-lasciandosi il vecchio mondo alle spalle a ogni passo.
-La lanterna tra le sue mani non è più qualcosa da trattenere, ma qualcosa da lasciare andare verso il nuovo sentiero che l'attende.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072050517350481920/img/Pfz-U8MvfZqnRB9v.jpg" width="600" alt="Il viaggio sul ponte di luce">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6749)**
-
-**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2072050846662049816) | **Published:** Jun 30, 2026
-
----
-### Animazione di fate serene e loto
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per un'animazione tranquilla e meditativa progettato per Grok-imagine, con due donne dall'aspetto fatato e un loto luminoso pulsante in un ambiente cinematografico soffuso.
-
-#### 📝 Prompt
-
-```
-Anima questa immagine in modo molto lento e delicato. Le due donne dall'aspetto fatato respirano in modo naturale e leggero, con movimenti molto sottili e lenti nei capelli e negli abiti. Il loto luminoso al centro pulsa con una luce calda, ritmica e soffusa, simile a un respiro. Piccole particelle luminose e scintille fluttuano lentamente verso l'alto dal loto. Le libellule si muovono lentamente e con grazia nell'aria. L'acqua del ruscello presenta increspature molto sottili e calme. La cornice dorata e gli elementi dello sfondo rimangono per lo più immobili, con solo un leggero e lento movimento nelle foglie e nei fiori. Mantieni l'atmosfera generale pacifica, sacra, amorevole e meditativa. Animazione lenta, onirica ed emozionante. Alta qualità, illuminazione cinematografica soffusa.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072018753811107840/img/oivrHKil41Nmj4ON.jpg" width="600" alt="Animazione di fate serene e loto">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6649)**
-
-**Author:** [Carina](https://x.com/Freehere8) | **Source:** [Link](https://x.com/Freehere8/status/2072018804293697776) | **Published:** Jun 30, 2026
-
----
-### Vortice di drago acquatico in evoluzione
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt di animazione per Grok-imagine che raffigura un vortice che si evolve in draghi cromaticamente complessi con scaglie scintillanti.
-
-#### 📝 Prompt
-
-```
-Vortice 
-
-Le eliche si evolvono in tempo reale trasformandosi in draghi cromaticamente complessi, di natura acquatica e dotati di scaglie scintillanti simili a quelle di un pesce tamburo rosso.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071991427295272960/img/3Z0M5DmgoeqZwu8J.jpg" width="600" alt="Vortice di drago acquatico in evoluzione">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6650)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2071991533755072834) | **Published:** Jun 30, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2259,6 +2251,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-16T06:42:19.324Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-16T10:36:06.958Z</sub>
 
 </div>

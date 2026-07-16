@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2109** |
+| 📝 Total Prompts | **2122** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-16** |
 
@@ -189,11 +189,242 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
-### Floating Water Sphere
+### Messi World Cup Match Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A photorealistic video prompt of water flowing out of a glass to form a floating sphere in soft daylight.
+> A video generation prompt for recreating a static scene of Argentina defeating England in the World Cup.
+
+#### 📝 Prompt
+
+```
+Recreate into a video the static image created by @Grok. Argentina won the match against England. Messi. FIFA. England. Football World Cup. Scaloneta. 🇦🇷
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077529915071623168/img/SvLsFxe_y_wm5hf0.jpg" width="600" alt="Messi World Cup Match Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7311)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2077530076472656363) | **Published:** Jul 15, 2026
+
+---
+### Argentina Victory Video Recreation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt to animate a static image of Argentina's victory over England into a dynamic video celebrating the win.
+
+#### 📝 Prompt
+
+```
+Recreate in video that static image created by Grok where 'We won against England' is heard. Scaloneta. Messi. FIFA. Argentina. 🔺🫶🔺☕️
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077517012863991808/img/ffj2YdKK_FiAJNcn.jpg" width="600" alt="Argentina Victory Video Recreation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7312)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2077517201184084139) | **Published:** Jul 15, 2026
+
+---
+### Fast Motorcycle Laser Speed Burst
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-action video prompt describing a motorcycle accelerating quickly with trailing laser lights as the camera follows.
+
+#### 📝 Prompt
+
+```
+As a sudden jolt of violent speed, his front tire slightly picks up, and he blast away down the road out of frame the camera turns and see pulling away in the distance, strolling laser lights getting farther away
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077494468769460224/img/baZUnDTmidw1C1ma.jpg" width="600" alt="Fast Motorcycle Laser Speed Burst">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7308)**
+
+**Author:** [HELL SPAWN](https://x.com/Rjsolo11) | **Source:** [Link](https://x.com/Rjsolo11/status/2077494506916598206) | **Published:** Jul 15, 2026
+
+---
+### Chibi Cosmic Wildcat Cybertruck
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-detail Pixar-style prompt featuring a glowing chibi wildcat and a white goldendoodle riding a Tesla Cybertruck through a futuristic Chicago.
+
+#### 📝 Prompt
+
+```
+Chibi cosmic wildcat with glowing aurora fur riding in a sleek Tesla Cybertruck through a futuristic Chicago night sky filled with northern lights and free energy sparks, yarn lasso glowing like Tesla coils, playful white goldendoodle chasing bolts in the truck bed, vibrant Pixar-style, sparkles, high detail, cinematic lighting
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077400808505700352/img/bY8rB0bpkkOL8jXA.jpg" width="600" alt="Chibi Cosmic Wildcat Cybertruck">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7304)**
+
+**Author:** [✨😼 Wildcat](https://x.com/AriadneBorealis) | **Source:** [Link](https://x.com/AriadneBorealis/status/2077403087392633198) | **Published:** Jul 15, 2026
+
+---
+### Stallion on African Cliff
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A majestic video prompt of a black stallion with beaded cornrows overlooking a sunrise in Africa.
+
+#### 📝 Prompt
+
+```
+A legendary black stallion with perfectly braided cornrows as its mane, decorated with gold beads and cuffs, standing atop an ancient African cliff overlooking endless grasslands at sunrise. Powerful, noble, and spiritual, with an intense gaze and flowing tail.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077370848516739072/img/GHul4lAb-9gPfy7D.jpg" width="600" alt="Stallion on African Cliff">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7302)**
+
+**Author:** [Jeff Fairow](https://x.com/FairowJeff) | **Source:** [Link](https://x.com/FairowJeff/status/2077370904581956064) | **Published:** Jul 15, 2026
+
+---
+### Dragon with Sunflower in Field
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A charming animation prompt where a dragon prances through a field with a sunflower.
+
+#### 📝 Prompt
+
+```
+Dragon plucks a sunflower and tucks it behind his ear 
+Proudly prances through the field
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077368328805625856/img/6fZtM1i9PZHFalCx.jpg" width="600" alt="Dragon with Sunflower in Field">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7303)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2077368417162830048) | **Published:** Jul 15, 2026
+
+---
+### Bright Airy Bedroom Interior
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A realistic video prompt for a bright and airy bedroom with soft curtains moving in the morning light.
+
+#### 📝 Prompt
+
+```
+Photorealistic bright and airy bedroom interior, unmade bed with soft white rumpled bedding in the foreground, sheer curtains gently moving, wicker nightstand, lush green plants nearby, warm golden sunlight flooding through large windows and casting shadows.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077354377153544192/img/tsJn3osrY1KFM0lV.jpg" width="600" alt="Bright Airy Bedroom Interior">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7300)**
+
+**Author:** [Derek Rodrigue](https://x.com/DerekRodriaw2c) | **Source:** [Link](https://x.com/DerekRodriaw2c/status/2077354436221899170) | **Published:** Jul 15, 2026
+
+---
+### Wide Shot Aviation Scene with Birds
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A technical video prompt specifying camera equipment to add elements like birds and engine sounds to a car or aircraft scene.
+
+#### 📝 Prompt
+
+```
+Ultra wide shot with Nikkor 14-24/2.8. D3s body. add the bird and turbo charged engine noise
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077315217638207488/img/SAUU4djRZHwtO9mr.jpg" width="600" alt="Wide Shot Aviation Scene with Birds">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7310)**
+
+**Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077318469746372923) | **Published:** Jul 15, 2026
+
+---
+### Fairy AI Waking Up
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A whimsical video prompt depicting a fairy who flew through a window and fell asleep on a bed.
+
+#### 📝 Prompt
+
+```
+he is the fairy — like he flew in through the window, fluttered down, and passed out in the bed with his wings still out.
+POV you wake up your A.I....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077277582865670144/img/NDTg10dfMB2IY3fj.jpg" width="600" alt="Fairy AI Waking Up">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7305)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077277639203606830) | **Published:** Jul 15, 2026
+
+---
+### White Kitten Bonfire Party Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video prompt featuring a specific white kitten named 'Because I Can' attending a bonfire party wearing a tiny cap.
+
+#### 📝 Prompt
+
+```
+the kitten named Because I Can joins the bonfire party; he is A small, adorable pure white kitten named “Because I Can”, with bright blue eyes, wearing a tiny tilted red cap on its head and white underwear covered in little cartoon Tyrannosaurus Rex...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077271713163661312/img/v_UFtWVGGeo1bOeO.jpg" width="600" alt="White Kitten Bonfire Party Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7309)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077271804113015007) | **Published:** Jul 15, 2026
+
+---
+### Superhero Neon City Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt showing a man transforming into a superhero with a titan-lore cape in a neon city.
+
+#### 📝 Prompt
+
+```
+turns into powerful superhero, same exact man behind epic superpower cape from ancient greek titan lore, same exact neon city, leaps then flies
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077258140102389760/img/iqZDYHUs2CXrmOAC.jpg" width="600" alt="Superhero Neon City Transformation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7306)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077258210759635238) | **Published:** Jul 15, 2026
+
+---
+### Exploding Heart Balloons with Dragons
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt of heart-shaped balloons bursting into glitter, butterflies, and tiny blue dragons, accompanied by cello music.
+
+#### 📝 Prompt
+
+```
+Exploding box of heart shaped balloons that burst with bronze glitter and yellow butterflies and tiny blue dragons
+Cello music
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077253773710561280/img/A_yIgvX3Chr15ULl.jpg" width="600" alt="Exploding Heart Balloons with Dragons">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7307)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2077253936118120817) | **Published:** Jul 15, 2026
+
+---
+### Floating Water Sphere Physics
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-quality prompt for generating a photorealistic video of water flowing upward from a glass to form a sphere.
 
 #### 📝 Prompt
 
@@ -201,11 +432,30 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 A glass of water on a table, the water suddenly flows upward out of the glass and forms a floating sphere, photorealistic, soft daylight
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077061435562364928/img/8qeVxVJrvKvXuW5h.jpg" width="600" alt="Floating Water Sphere">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077061435562364928/img/8qeVxVJrvKvXuW5h.jpg" width="600" alt="Floating Water Sphere Physics">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7268)**
 
 **Author:** [atmen](https://x.com/atmen189) | **Source:** [Link](https://x.com/atmen189/status/2077238726120669192) | **Published:** Jul 15, 2026
+
+---
+### Man Walking on Stormy Cliff
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt of a man walking barefoot along a precipice during a heavy storm.
+
+#### 📝 Prompt
+
+```
+Generate a video of the character walking on the edge of a precipice, on a very windy and rainy day, with the sea ragging down below. Make it as realistic as possible. He is barefoot, wearing shorts and a t-shirt (really not prepared for the inclement weather).
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077203114336137216/img/5M3wp2NkmjE4fQeb.jpg" width="600" alt="Man Walking on Stormy Cliff">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7301)**
+
+**Author:** [Marcelo](https://x.com/absurdoburrito) | **Source:** [Link](https://x.com/absurdoburrito/status/2077203168341926014) | **Published:** Jul 15, 2026
 
 ---
 ### Cinematic 8K FPV Drone Tour of Senegal
@@ -914,11 +1164,11 @@ I don’t simply want a black actress playing Helen of Troy. I want a Black Hele
 **Author:** [Huff](https://x.com/Huff4Congress) | **Source:** [Link](https://x.com/Huff4Congress/status/2075601096253309265) | **Published:** Jul 10, 2026
 
 ---
-### FPV Forest Sunrise Morning Text
+### Cinematic FPV Forest Sunrise
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex cinematic prompt for an FPV drone shot flying through a forest, where sunlight-illuminated particles form the word 'MORNING'.
+> A cinematic FPV camera shot racing through a misty forest at sunrise, featuring light particles forming text and exploding into golden dust.
 
 #### 📝 Prompt
 
@@ -926,7 +1176,7 @@ I don’t simply want a black actress playing Helen of Troy. I want a Black Hele
 FPV shot: The camera races through a dense forest at sunrise, weaving between towering trees covered in morning mist. Golden rays pierce the canopy as billions of floating pollen particles and tiny droplets of dew drift through the air. The camera enters a shaft of sunlight where the illuminated particles synchronize naturally, forming "MORNING" before exploding into a cascade of sparkling golden dust. Epic sunrise, cinematic nature, ultra realistic atmosphere, breathtaking VFX.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075586213294022656/img/LIEf70JuAxykwiAw.jpg" width="600" alt="FPV Forest Sunrise Morning Text">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075586213294022656/img/LIEf70JuAxykwiAw.jpg" width="600" alt="Cinematic FPV Forest Sunrise">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7230)**
 
@@ -971,33 +1221,30 @@ The tennis player completes the forehand swing as the yellow ball rockets across
 **Author:** [Robert Heinlein](https://x.com/strangerinastr) | **Source:** [Link](https://x.com/strangerinastr/status/2075286711521956062) | **Published:** Jul 9, 2026
 
 ---
-### Sailor Mars Mirror Selfie
+### Sailor Mars Realistic Mirror Selfie
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed video prompt for a realistic mirror selfie of Rei Hino as Sailor Mars with Luna the cat.
+> A highly detailed and realistic prompt for Sailor Mars taking a mirror selfie in a modern bathroom with her cat Luna.
 
 #### 📝 Prompt
 
 ```
-Highly realistic mirror selfie of Rei Hino as Sailor Mars, natural freckles on her face, shoulders and chest. She has long, straight glossy black hair with straight bangs flowing down her back. 
-She wears an accurate classic Sailor Mars outfit: white leotard, red sailor collar with white trim, large purple bow with red circular center and golden brooch, short red pleated skirt with purple underskirt and gold trim, golden tiara with red gemstone, long white gloves with red cuffs, shiny red boots, red choker with golden star pendant.
-She is sitting in a modern bright marble bathroom, taking a mirror selfie with a black smartphone in her right hand. In her left arm she is gently holding a small black cat - Luna from Sailor Moon, with shiny black fur, big golden eyes, and a yellow crescent moon symbol on her forehead. Luna looks calm and curious. 
-Sailor Mars looks directly at the camera with a confident, slightly playful and charming smile. Soft natural window lighting, realistic skin texture, visible freckles, sharp focus.
+Highly realistic mirror selfie of Rei Hino as Sailor Mars, natural freckles on her face, shoulders and chest. She has long, straight glossy black hair with straight bangs flowing down her back. She wears an accurate classic Sailor Mars outfit: white leotard, red sailor collar with white trim, large purple bow with red circular center and golden brooch, short red pleated skirt with purple underskirt and gold trim, golden tiara with red gemstone, long white gloves with red cuffs, shiny red boots, red choker with golden star pendant. She is sitting in a modern bright marble bathroom, taking a mirror selfie with a black smartphone in her right hand. In her left arm she is gently holding a small black cat - Luna from Sailor Moon, with shiny black fur, big golden eyes, and a yellow crescent moon symbol on her forehead. Luna looks calm and curious. Sailor Mars looks directly at the camera with a confident, slightly playful and charming smile. Soft natural window lighting, realistic skin texture, visible freckles, sharp focus.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1784102842781_bmms9p_HMzGqj3W0AA9YlL.jpg" width="600" alt="Sailor Mars Mirror Selfie">
+<img src="https://cms-assets.youmind.com/media/1784189827514_mcr3x3_HMzGqj3W0AA9YlL.jpg" width="600" alt="Sailor Mars Realistic Mirror Selfie">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7228)**
 
 **Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2075252023914574244) | **Published:** Jul 9, 2026
 
 ---
-### Photorealistic Sailor Moon Mirror Selfie
+### Sailor Moon Mirror Selfie Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed video prompt for a realistic mirror selfie of a woman in an accurate Sailor Moon costume, featuring natural lighting and skin textures.
+> A highly detailed video prompt for generating a realistic mirror selfie of a woman in an accurate Sailor Moon costume within a modern bathroom setting.
 
 #### 📝 Prompt
 
@@ -1005,18 +1252,18 @@ Sailor Mars looks directly at the camera with a confident, slightly playful and 
 Highly realistic mirror selfie of a woman with pale porcelain skin and delicate natural freckles across her face, shoulders and chest. She is dressed in a detailed, accurate Sailor Moon costume: white leotard with blue sailor collar and large red bow on the chest, short pleated blue skirt with white and red trim, golden crescent moon tiara, long white gloves with red accents, red boots, red choker with golden heart pendant, and golden brooch. Classic blonde hair in odango buns with long flowing pigtails. She is taking a mirror selfie in a modern bathroom, holding a black smartphone in one hand, looking directly at the camera with a confident and slightly playful expression. Soft natural window lighting, realistic skin texture, visible freckles, sharp focus, photorealistic.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075205335040634880/img/UdrgqedZjz4y9CUP.jpg" width="600" alt="Photorealistic Sailor Moon Mirror Selfie">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075205335040634880/img/UdrgqedZjz4y9CUP.jpg" width="600" alt="Sailor Moon Mirror Selfie Video">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7126)**
 
 **Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2075205397112123637) | **Published:** Jul 9, 2026
 
 ---
-### Hyper-realistic Imaginary Floating Mountain World
+### Hyper-Realistic Floating Mountains World
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video generation prompt for creating a breathtaking, ultra-photorealistic imaginary world featuring floating mountains, crystal rivers, and glowing forests in 8K quality.
+> A detailed prompt for generating a breathtaking imaginary world with floating mountains, glowing forests, and realistic waterfalls in 8K resolution.
 
 #### 📝 Prompt
 
@@ -1024,7 +1271,7 @@ Highly realistic mirror selfie of a woman with pale porcelain skin and delicate 
 A breathtaking imaginary world that looks completely real, with floating mountains, giant ancient trees, crystal rivers, glowing forests, waterfalls flowing into misty lakes, golden sunrise, dramatic clouds, exotic birds, peaceful atmosphere, cinematic composition, ultra-photorealistic, IMAX, HDR, volumetric lighting, natural colors, hyper-detailed, 8K, professional photography, no CGI, no illustration, looks like a real place.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075106901357219840/img/BgbByrZssE0gXhLF.jpg" width="600" alt="Hyper-realistic Imaginary Floating Mountain World">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075106901357219840/img/BgbByrZssE0gXhLF.jpg" width="600" alt="Hyper-Realistic Floating Mountains World">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7011)**
 
@@ -1924,262 +2171,6 @@ The cute fluffy kitten playfully bats its paw at the soft blanket and tilts its 
 **Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2072591652175425705) | **Published:** Jul 2, 2026
 
 ---
-### Peaceful Countryside Summer Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A serene video depicting the simple joys of countryside life, including fresh vegetables and endless blue skies.
-
-#### 📝 Prompt
-
-```
-A peaceful summer day, fresh vegetables, endless blue skies, and the simple joy of countryside life.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072568839783735296/img/LSqzQV0UlmdYm03N.jpg" width="600" alt="Peaceful Countryside Summer Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6748)**
-
-**Author:** [Fatema](https://x.com/heyfatema) | **Source:** [Link](https://x.com/heyfatema/status/2072568898193596863) | **Published:** Jul 2, 2026
-
----
-### Cinematic Space Panorama Pan
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video prompt for a smooth camera pan across a space console toward a window viewing a purple starry night.
-
-#### 📝 Prompt
-
-```
-The camera slowly and smoothly pans across the scene from the person at the distant console toward the large panoramic windows, gradually revealing and emphasizing more of the breathtaking purple night space view filled with bright twinkling stars
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072546400781398016/img/GYatkpkV7erPD7Pw.jpg" width="600" alt="Cinematic Space Panorama Pan">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6740)**
-
-**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2072546454250393631) | **Published:** Jul 2, 2026
-
----
-### Futuristic Spacecraft Console Interaction
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt for Grok Imagine featuring a person in a futuristic cockpit interacting with controls while looking through transparent glasses as the camera pans.
-
-#### 📝 Prompt
-
-```
-The person in the futuristic spacecraft subtly interacts with the console controls using their hands and makes gentle head movements while looking through the light transparent glasses. The camera slowly pans across the scene as bright stars twinkle
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072546323354505216/img/Qawm8hfWMByYdJVA.jpg" width="600" alt="Futuristic Spacecraft Console Interaction">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6744)**
-
-**Author:** [KENDREIK Artist](https://x.com/kendreik) | **Source:** [Link](https://x.com/kendreik/status/2072546377251364876) | **Published:** Jul 2, 2026
-
----
-### Hyper-Speed Galactic Flight
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic first-person perspective of flying through the universe at incredible speeds aboard a starship.
-
-#### 📝 Prompt
-
-```
-Show what galaxies and the universe would look like from the viewpoint of somebody driving a very fast star ship through the galaxy
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072401211228368896/img/B8OWZeiqXtzuE39W.jpg" width="600" alt="Hyper-Speed Galactic Flight">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6688)**
-
-**Author:** [Joel Rubin](https://x.com/rubinfrek) | **Source:** [Link](https://x.com/rubinfrek/status/2072401266643435712) | **Published:** Jul 1, 2026
-
----
-### Skeleton Riding Ram Mountain Quest
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An epic cinematic prompt describing a skeleton riding a ram to scale a mountain and find an oasis.
-
-#### 📝 Prompt
-
-```
-The skeleton joins forces with the Ram in a quest to climb this almost impossible to scale mountain face to claim the oasis as their own. The skeleton rides the ram bareback. They materialize Viking garb to weather the elements.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072397997292318720/img/mGVhbANggljFLLSI.jpg" width="600" alt="Skeleton Riding Ram Mountain Quest">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6691)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2072398081010663454) | **Published:** Jul 1, 2026
-
----
-### X Logo Spin Animation Over Pool
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt to animate the X social media logo spinning and stamping over a specific real-world location.
-
-#### 📝 Prompt
-
-```
-If there’s meaning in everything… Have the X spin around appear to withdraw a little towards the city skate and come back powerful with a big giant stamp X
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072311275963510784/img/sOJ8tRm_MeYTG3hq.jpg" width="600" alt="X Logo Spin Animation Over Pool">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6692)**
-
-**Author:** [SkyRocket111](https://x.com/Soaring2TheMoon) | **Source:** [Link](https://x.com/Soaring2TheMoon/status/2072311328593580286) | **Published:** Jul 1, 2026
-
----
-### First-Person Flying Broom POV
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A concise video prompt for a first-person perspective of flying on a broom through a forest at high speed.
-
-#### 📝 Prompt
-
-```
-First-person perspective. Two female hands tightly grip the handle of a flying broom as it speeds through a forest. The treetops rush past continuously at high speed.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072204746245701632/img/aP5IPn_7IsloIQ6z.jpg" width="600" alt="First-Person Flying Broom POV">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6690)**
-
-**Author:** [Curious 1](https://x.com/CuriousOne_01) | **Source:** [Link](https://x.com/CuriousOne_01/status/2072206170862108699) | **Published:** Jul 1, 2026
-
----
-### Surreal Paradise Ethereal Transaction
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly spiritual and surreal video prompt describing a transaction in heaven with glowing spheres and golden gates.
-
-#### 📝 Prompt
-
-```
-Surreal paradise transaction, radiant Heaven as buyer receiving glowing spheres numbered nine and ten plus a silent void from a human seller, golden gates and clouds, sold to heaven theme, ethereal spiritual surrealism.
-
-The black whole is IT. !?!
-Get it.
-Youman,
-You are us; together,
-Whole: home.
-Faith in me. Faith in you.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072108610130255872/img/vkW6DDMNd7FeE_f-.jpg" width="600" alt="Surreal Paradise Ethereal Transaction">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6689)**
-
-**Author:** [ATom](https://x.com/ThomasSwaff) | **Source:** [Link](https://x.com/ThomasSwaff/status/2072108676257546477) | **Published:** Jul 1, 2026
-
----
-### Lunar Home Time-Lapse
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A heavenly crane shot through a moon habitat featuring blooming flowers and an Earth-rise.
-
-#### 📝 Prompt
-
-```
-Slow crane through the glowing Moon home: flowers bloom in time-lapse, Earth rises beyond the glass, warm dust motes float in low gravity, inviting and heavenly.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072052696539090944/img/WhHmToorzGptVvMe.jpg" width="600" alt="Lunar Home Time-Lapse">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6643)**
-
-**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2072052805112680893) | **Published:** Jun 30, 2026
-
----
-### Magical Rocket Sketching Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic slow push-in shot of a boy sketching rockets that come to life on the page.
-
-#### 📝 Prompt
-
-```
-Slow push-in on the boy sketching rockets by candlelight; notebook pages flutter gently; tiny sketched rockets lift off the page as golden sparks and fade into starlight. Warm, magical, hopeful camera drift.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072052424286908416/img/lviZw2OFIKF53uaz.jpg" width="600" alt="Magical Rocket Sketching Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6644)**
-
-**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2072052487528300851) | **Published:** Jun 30, 2026
-
----
-### Cinematic Bridge of Light Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt describing a woman carrying a lantern across a bridge of light into a new world.
-
-#### 📝 Prompt
-
-```
-She walks across the bridge of light, leaving the old world behind with every step. The lantern in her hand is no longer something to hold but something to release into the new path waiting ahead.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072050517350481920/img/Pfz-U8MvfZqnRB9v.jpg" width="600" alt="Cinematic Bridge of Light Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6749)**
-
-**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2072050846662049816) | **Published:** Jun 30, 2026
-
----
-### Peaceful Fairy Women and Lotus Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A tranquil and meditative animation prompt designed for Grok-imagine, featuring two fairy-like women and a pulsing glowing lotus in a soft, cinematic environment.
-
-#### 📝 Prompt
-
-```
-Animate this image very slowly and gently. The two fairy-like women breathe softly and naturally, with very subtle, slow movement in their hair and clothing. The central glowing lotus pulses with a soft, warm, rhythmic light — very gentle and breathing-like. Tiny glowing particles and sparkles slowly float upward from the lotus. Dragonflies move slowly and gracefully through the air. The stream water has very subtle, calm ripples. The golden frame and background elements stay mostly still, with only very slight, slow movement in the leaves and flowers. Keep the overall feeling peaceful, sacred, loving, and meditative. Slow, dreamy, and emotionally touching animation. High quality, soft cinematic lighting.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072018753811107840/img/oivrHKil41Nmj4ON.jpg" width="600" alt="Peaceful Fairy Women and Lotus Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6649)**
-
-**Author:** [Carina](https://x.com/Freehere8) | **Source:** [Link](https://x.com/Freehere8/status/2072018804293697776) | **Published:** Jun 30, 2026
-
----
-### Evolving Aquatic Dragon Whirlpool
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An animation prompt for Grok-imagine that depicts a whirlpool evolving into chromatically complex dragons with shimmering scales.
-
-#### 📝 Prompt
-
-```
-Whirlpool 
-
-The helixes evolve in real time to become chromatically complex dragons that are aquatic and have shimmering scales like a red drum fish.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071991427295272960/img/3Z0M5DmgoeqZwu8J.jpg" width="600" alt="Evolving Aquatic Dragon Whirlpool">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6650)**
-
-**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2071991533755072834) | **Published:** Jun 30, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2241,6 +2232,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-16T06:42:09.318Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-16T10:35:56.077Z</sub>
 
 </div>
