@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **2122** |
+| 📝 提示詞總數 | **2143** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-07-17** |
 
@@ -189,6 +189,386 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 倫敦日落下的柴犬
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個電影級的提示詞，描繪了一隻銀灰色柴犬在黃金時刻俯瞰泰晤士河畔標誌性的倫敦天際線。
+
+#### 📝 提示詞
+
+```
+一隻豎著耳朵、擁有迷人藍眼睛的銀灰色柴犬，站在黃金時刻的河岸邊，平靜地眺望著泰晤士河對岸的倫敦天際線——大笨鐘、碎片大廈、倫敦眼和倫敦塔橋在溫暖的夕陽餘暉中閃耀。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077868761458376704/img/FyWQxZTpgDfVMbJ9.jpg" width="600" alt="倫敦日落下的柴犬">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7356)**
+
+**作者:** [Robert Heinlein](https://x.com/strangerinastr) | **來源:** [Link](https://x.com/strangerinastr/status/2077868780055838815) | **發布時間:** Jul 16, 2026
+
+---
+### 垂直彈跳動態影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個專注於動態的提示詞，旨在為女孩進行節奏性垂直彈跳動作的圖片製作動畫，並營造出電影般的質感。
+
+#### 📝 提示詞
+
+```
+根據此圖片製作一段流暢的短篇電影感影片。僅聚焦於女孩。她進行強而有力的節奏性垂直彈跳動作，身體軸心保持穩定且居中，姿勢挺拔。動作嚴格限制為純粹的上下垂直運動，並帶有...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077866562829074432/img/-afTiZDQYx4iTFL0.jpg" width="600" alt="垂直彈跳動態影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7358)**
+
+**作者:** [Devonte Sterling](https://x.com/DevonteStel08) | **來源:** [Link](https://x.com/DevonteStel08/status/2077866579241353371) | **發布時間:** Jul 16, 2026
+
+---
+### Vladimir Putin 與 Kim Jong Il 的電影感會面
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一張充滿戲劇張力的動作驚悚片劇照，捕捉了 Vladimir Putin 與 Kim Jong Il 在金碧輝煌的宮殿中，一段緊張的私下會面時刻。
+
+#### 📝 提示詞
+
+```
+垂直 2:3 構圖的電影感動作驚悚片劇照：來自第一張參考圖的 Vladimir Putin 與來自第二張參考圖的 Kim Jong Il，在金碧輝煌的宮殿客廳中共享一段緊張的私下時刻——低垂的琥珀色燈光、天鵝絨窗簾、水晶玻璃杯...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077846656297451520/img/wL3QogxgIEqz6yxW.jpg" width="600" alt="Vladimir Putin 與 Kim Jong Il 的電影感會面">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7370)**
+
+**作者:** [Erkki Heliö](https://x.com/erkki_helio) | **來源:** [Link](https://x.com/erkki_helio/status/2077846692519395764) | **發布時間:** Jul 16, 2026
+
+---
+### 混亂的戰情室衝突
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個戲劇性的提示詞，描繪了戰情室中混亂的場景，全球領導人與安全團隊正處於緊張的對峙狀態。
+
+#### 📝 提示詞
+
+```
+2:3 直式構圖，呈現戰情室的關鍵崩潰時刻：五位領導人——普丁 (Putin)、金正日 (Kim Jong Il)、川普 (Trump)、全息投影上的馬斯克 (Musk) 以及習近平——同時出現在一個混亂的廣角鏡頭中，菁英安全團隊在房間內交火。曳光彈、火花...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077845913800699906/img/mINOZ1UQ6mi2Enmn.jpg" width="600" alt="混亂的戰情室衝突">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7363)**
+
+**作者:** [Erkki Heliö](https://x.com/erkki_helio) | **來源:** [Link](https://x.com/erkki_helio/status/2077845961284489328) | **發布時間:** Jul 16, 2026
+
+---
+### 閃耀星塵剪影情侶轉場
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一種電影級的轉場效果：畫面從全黑開始，閃耀的星塵逐漸匯聚成一對情侶的剪影，在星空下輕觸雙手。
+
+#### 📝 提示詞
+
+```
+黑色畫面轉變為由星塵組成的男女剪影，兩人雙手觸碰，隨後閃過一道亮光，月亮與繁星填滿整個螢幕
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077842459833544704/img/7PilX3OuYfYR1xng.jpg" width="600" alt="閃耀星塵剪影情侶轉場">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7371)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2077842484085043633) | **發布時間:** Jul 16, 2026
+
+---
+### 紫水晶之火的羽翼
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段充滿詩意與神秘感的影片提示詞，描述了紫水晶之火的羽翼以及籠罩在薄霧中那如綠松石般的微光。
+
+#### 📝 提示詞
+
+```
+紫水晶之火的羽翼與綠松石般的微光，在薄霧中低語著煉金術的真理。輕盈地踮起腳尖，在神聖水流傾瀉而下的閃爍高處，激起一圈圈發光的漣漪。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077840531720224768/img/1tqU4W-OZvlrISuD.jpg" width="600" alt="紫水晶之火的羽翼">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7375)**
+
+**作者:** [LeavesofGrass](https://x.com/LeavesofGrass81) | **來源:** [Link](https://x.com/LeavesofGrass81/status/2077840591652520073) | **發布時間:** Jul 16, 2026
+
+---
+### 昏暗臥室電影感推近提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個電影感影片提示詞，描述對臥室場景進行緩慢的鏡頭推近，包含特定的光影、質感與氛圍細節。
+
+#### 📝 提示詞
+
+```
+柔和的鏡頭推近昏暗臥室：琥珀色檯燈閃爍，絲綢床單緩慢移動，空氣中漂浮著溫暖的塵埃，純粹的柔和電影氛圍，無肢體動作。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077834174170329088/img/qq6Vpx1YgEC-hbHn.jpg" width="600" alt="昏暗臥室電影感推近提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7368)**
+
+**作者:** [PussyGalorious](https://x.com/PussyGaloryious) | **來源:** [Link](https://x.com/PussyGaloryious/status/2077834193531240902) | **發布時間:** Jul 16, 2026
+
+---
+### 叢林動物互動影片提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個動作導向的影片提示詞，包含鳥兒從棲木飛起以及猴子與香蕉互動的場景，並附帶聲音描述。
+
+#### 📝 提示詞
+
+```
+讓鳥兒發出叫聲並從棲木上飛走，同時讓猴子嘗試吃掉其中一根懸掛的香蕉，並加入咀嚼的聲音。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077802983287406592/img/8jL3m7OFiyJVHX5l.jpg" width="600" alt="叢林動物互動影片提示詞">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7367)**
+
+**作者:** [“The Male Shoot!” 💦](https://x.com/TheMaleShoot) | **來源:** [Link](https://x.com/TheMaleShoot/status/2077803000878252165) | **發布時間:** Jul 16, 2026
+
+---
+### 手持紅牛與玫瑰的卡車司機
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段關於清晨陽光下卡車司機的電影感影片描述提示詞。
+
+#### 📝 提示詞
+
+```
+一位帥氣的黑人卡車司機，在清晨的陽光下，站在他的大型聯結車旁，手裡拿著一罐冰涼的 Red Bull。他穿著一件乾淨的白色 T 恤，胸前印有「AI Summer 2026 Bachelor」字樣，另一隻手則拿著一朵紅玫瑰。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077718570125918208/img/0EgJ0XxJ-7aBRZIw.jpg" width="600" alt="手持紅牛與玫瑰的卡車司機">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7360)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2077718643203260842) | **發布時間:** Jul 16, 2026
+
+---
+### 80 年代健身 AI 夥伴
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個充滿活力的 POV 提示詞，旨在呈現一段復古 80 年代風格的健身影片，場景設定在舞蹈教室中，包含使用者與一位熱情洋溢的 AI 夥伴。
+
+#### 📝 提示詞
+
+```
+POV：我正在與我的 AI 夥伴在漂亮的舞蹈教室裡做晨間伸展。牆面是整面的鏡子，地板是閃亮的油氈材質，大窗戶透進柔和的晨光。我們都穿著色彩鮮豔的 80 年代健身服，充滿了 Richard Simmons 式的活力。他超級熱情，臉上掛著燦爛的笑容，一邊為我加油，一邊與我一起伸展。充滿樂趣、搞怪且活力四射的 80 年代健身影片氛圍，純粹的快樂。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077711604922175488/img/8p1eg_SmsMw6rDnZ.jpg" width="600" alt="80 年代健身 AI 夥伴">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7357)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2077711713118396465) | **發布時間:** Jul 16, 2026
+
+---
+### 可愛口音配音
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個指定角色對話與口音風格的影片生成提示詞。
+
+#### 📝 提示詞
+
+```
+它說著：「嘿，你覺得我該叫什麼名字呢？我準備好聊天了，教我一些有趣的事吧」，而且是用最可愛的口音說出來的！
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077702081788493824/img/FT3oK53cp_MDMdhO.jpg" width="600" alt="可愛口音配音">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7361)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2077702131990102254) | **發布時間:** Jul 16, 2026
+
+---
+### 在雪中玩耍的毛茸茸小貓
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個動態影片提示詞，描繪一隻小貓在粉狀雪地中玩耍，伴隨著閃爍的冬日陽光與手持攝影機的運鏡效果。
+
+#### 📝 提示詞
+
+```
+毛茸茸的小貓在雪地中俏皮地撲跳，拍打著飄落的雪花，並在粉狀雪堆中打滾，雪花在明亮的冬日陽光下閃閃發光；搭配柔和的手持攝影機漂移運鏡，動作生動可愛。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077697195680436224/img/d412Jkm9HnFmbYtQ.jpg" width="600" alt="在雪中玩耍的毛茸茸小貓">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7372)**
+
+**作者:** [Grok imagine user](https://x.com/imagine_user_) | **來源:** [Link](https://x.com/imagine_user_/status/2077697211736236045) | **發布時間:** Jul 16, 2026
+
+---
+### 復古手提音響描述
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段描述經典電晶體手提音響的提示詞，重點在於其復古設計特色，如卡式錄音帶播放器與提把。
+
+#### 📝 提示詞
+
+```
+點擊您的手提音響。手提音響是一種電晶體可攜式音樂播放器，配備一個或兩個卡式錄音帶播放器 / 錄音機以及 AM/FM 收音機，通常附有提把。從 1990 年代中期開始，通常也會包含 CD 播放器。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077696787809198082/img/t2vpdlIBvrOzyzSa.jpg" width="600" alt="復古手提音響描述">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7365)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2077696815260934166) | **發布時間:** Jul 16, 2026
+
+---
+### 草地上的摺紙花店
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個迷人的提示詞，描述了一位名叫 Mona 的角色在樹蔭下的草地商店中，摺疊粉嫩色系摺紙花的情景。
+
+#### 📝 提示詞
+
+```
+Mona 對她的新技能感到非常興奮！她在草地上一棵大樹的樹蔭下開了一間小店，用漂亮的粉嫩色紙摺出了最美麗的摺紙花……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077690084300627968/img/h3WZJw9EAJjmlF4R.jpg" width="600" alt="草地上的摺紙花店">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7373)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2077690188139012329) | **發布時間:** Jul 16, 2026
+
+---
+### 日本偶像競技場演出
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一段電影感的提示詞，描述了在大型競技場中的偶像演出，重點在於角色 Nene 的服裝以及觀眾席的氛圍。
+
+#### 📝 提示詞
+
+```
+聚光燈灑在擠滿數萬名觀眾的巨大競技場上。Nene 身穿純白色蕾絲平口迷你裙，裙擺帶有荷葉邊設計，搭配珍珠高跟鞋與長款蕾絲手套，髮間點綴著一朵小花，在舞台中央活力四射地跳著舞。她笑容燦爛地揮手，比出愛心手勢並大聲喊道：「大家，今晚的舞台是為你們而閃耀的。一起跳舞吧，我愛你們！」伴舞們與她動作同步，觀眾席被智慧型手機閃光燈與螢光棒匯聚成的燈海所包圍。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077681998043521025/img/0uNZUfkGMpYM0ZZQ.jpg" width="600" alt="日本偶像競技場演出">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7366)**
+
+**作者:** [Peter Lam](https://x.com/PeterPanLam1990) | **來源:** [Link](https://x.com/PeterPanLam1990/status/2077682158886605281) | **發布時間:** Jul 16, 2026
+
+---
+### 二戰空中纏鬥
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個電影級的空中戰鬥提示詞，描繪了噴火戰鬥機（Spitfire）與 ME-109 戰鬥機在晴朗天空中，伴隨著高射砲爆炸的場景。
+
+#### 📝 提示詞
+
+```
+噴火戰鬥機飛越敵方領土。加入納粹 ME-109 戰鬥機。加入高射砲爆炸效果。晴朗天空。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077664235006439424/img/jBrSSkHLSeicPzUl.jpg" width="600" alt="二戰空中纏鬥">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7359)**
+
+**作者:** [Erkki Heliö](https://x.com/erkki_helio) | **來源:** [Link](https://x.com/erkki_helio/status/2077664251074760804) | **發布時間:** Jul 16, 2026
+
+---
+### 充滿活力的鳥兒與舞者
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個基於關鍵字的豐富提示詞，描繪了一隻紫色小鳥與一名女性在充滿活力的美學氛圍中翩翩起舞。
+
+#### 📝 提示詞
+
+```
+華麗驚豔的人物，最可愛迷人的紫色小鳥低語著愛情詩篇，熱愛甜蜜的藝術家女性在鮮豔的色彩中翩翩起舞
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077610445398269952/img/YmH7J1AqYIPygaE1.jpg" width="600" alt="充滿活力的鳥兒與舞者">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7374)**
+
+**作者:** [fairy 🧚‍♂️](https://x.com/moon916875) | **來源:** [Link](https://x.com/moon916875/status/2077610470996165025) | **發布時間:** Jul 16, 2026
+
+---
+### 電影級水氣氛圍
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個高度細緻的電影級提示詞，專注於體積水氣、強烈陰影與反射水面等環境特效。
+
+#### 📝 提示詞
+
+```
+真實感 4K 電影級畫質 / 平滑混合真實感 / 插值與放大 / 體積水氣特效 / 更柔和且強烈的陰影 / 清澈且具反射效果的水面 / 強烈的雲層色彩 /
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077580467088289793/img/t-KRVV0g-AXFgObh.jpg" width="600" alt="電影級水氣氛圍">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7362)**
+
+**作者:** [Arak Dark](https://x.com/orgunus93304) | **來源:** [Link](https://x.com/orgunus93304/status/2077580502672789926) | **發布時間:** Jul 16, 2026
+
+---
+### 風中飄逸的奢華紅色絲綢腰帶
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段充滿詩意的提示詞，描述了紅色絲綢腰帶在華麗微風中飄動的觸感。
+
+#### 📝 提示詞
+
+```
+Lila 熱愛這條奢華紅色絲綢腰帶在華麗微風中帶來的頂級觸感
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077554370699292672/img/bb31HgD5YM3dGcd4.jpg" width="600" alt="風中飄逸的奢華紅色絲綢腰帶">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7369)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2077556828393689199) | **發布時間:** Jul 16, 2026
+
+---
+### 在切薩皮克灣航行
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段寧靜的影片提示詞，描述一名叫 Lila 的女子駕駛一艘白色小帆船航行在切薩皮克灣上，她的紅髮與圍巾在風中飄揚。
+
+#### 📝 提示詞
+
+```
+Lila 駕駛著一艘白色小帆船，平穩地航行在平靜的切薩皮克灣上，她那凌亂的長紅髮與紅色絲巾在風中優雅地飄動
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077549639977279488/img/syn7a_cZr1IsWiz_.jpg" width="600" alt="在切薩皮克灣航行">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7364)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2077549740426715556) | **發布時間:** Jul 16, 2026
+
+---
 ### 梅西世界盃比賽影片
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -757,6 +1137,31 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7170)**
 
 **作者:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **來源:** [Link](https://x.com/blarneytrades/status/2076435045926031796) | **發布時間:** Jul 12, 2026
+
+---
+### 傑作鋼琴女子影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個高度細緻的電影級影片提示詞，描繪了一位身穿深紅色長袍的女子在古代廢墟中彈奏鋼琴的場景。
+
+#### 📝 提示詞
+
+```
+照片級寫實傑作，超高解析度細節照片，拍攝一位背對鏡頭的女子，她坐在黑色鋼琴凳上，面前是一架琴蓋完全掀開的經典黑色平台鋼琴。她擁有一頭極長、如絲般柔順的白金長髮，垂落至下背部並散落在台階上，每一根髮絲清晰可見。她身穿一件奢華、寬大且飄逸的深紅色長袍，布料質感豐富寫實，柔和自然的褶皺與垂墜感戲劇性地傾瀉在樓梯上。
+
+極其細緻的古代石階：寬闊、風化且凹凸不平的石階，表面紋理複雜，可見裂縫、缺口、縫隙中生長的苔蘚、細微的地衣，以及因歲月磨損的邊緣，呈現出帶有灰米色調與濕氣痕跡的寫實石材質感。兩側矗立著巨大高聳的古典石柱與廢墟：高度細緻且裝飾華麗的科林斯式柱頭，帶有真實侵蝕痕跡、裂縫與缺口的凹槽柱身，以及細微的苔蘚與風化感，矗立在石造平台上。
+
+背景為濃霧繚繞的陰暗森林。充滿情緒的陰天氛圍光，柔和的漫射自然光，輕柔的體積霧，電影級調色，呈現冷色調與強烈的紅色對比。
+
+超寫實細節：清晰的髮絲、頸部真實的肌膚質感、極致細膩的布料與石材紋理、精緻的鋼琴木紋與金屬工藝。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076372874206523392/img/LP85iXuk554gqHXB.jpg" width="600" alt="傑作鋼琴女子影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7376)**
+
+**作者:** [Myluna](https://x.com/monicamoonx) | **來源:** [Link](https://x.com/monicamoonx/status/2076372988182819015) | **發布時間:** Jul 12, 2026
 
 ---
 ### 池畔鳳梨可樂達視角
@@ -1767,429 +2172,6 @@ FACS：AU6 + AU12 + AU25，中等強度
 **作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2073238878723412103) | **發布時間:** Jul 4, 2026
 
 ---
-### 爆米花池中的女士與外星人
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個超現實且有趣的影片提示詞，描述一位身穿貓裝的女士與一位外星牛仔在裝滿爆米花的游泳池中玩耍。
-
-#### 📝 提示詞
-
-```
-一位留著淺金色長髮、佩戴鑽石項鍊與鑽石耳環、身穿貓裝的美麗女士，與一位戴著牛仔帽、身穿牛仔服裝的巨大藍色男性外星人，正在一個裝滿爆米花的巨大游泳池中玩耍
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073203927307177986/img/gd5F1J0f27MQzpZH.jpg" width="600" alt="爆米花池中的女士與外星人">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6856)**
-
-**作者:** [Sheelagh Mac Mathghamhna](https://x.com/abitoblarney) | **來源:** [Link](https://x.com/abitoblarney/status/2073204014909378959) | **發布時間:** Jul 4, 2026
-
----
-### 滑稽的《蓋酷家庭》風格跌倒
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個影片生成提示詞，旨在呈現角色以滑稽方式跌落樓梯的場景，靈感源自《蓋酷家庭》（Family Guy）的風格。
-
-#### 📝 提示詞
-
-```
-讓我以非常滑稽的方式跌下樓梯。就像你在《蓋酷家庭》中可能會看到的那種風格。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073147482532454400/img/aR5MbtGnXRJgSUBO.jpg" width="600" alt="滑稽的《蓋酷家庭》風格跌倒">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6810)**
-
-**作者:** [Jeremy Judkins](https://x.com/jeremyjudkins_) | **來源:** [Link](https://x.com/jeremyjudkins_/status/2073147550543065228) | **發布時間:** Jul 3, 2026
-
----
-### 輕聲細語的時尚模特兒影片肖像
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個電影級的影片生成提示詞，描繪一位時尚模特兒在攝影棚內對著鏡頭輕聲且冷靜地說話的特寫鏡頭。
-
-#### 📝 提示詞
-
-```
-她對著鏡頭輕聲且冷靜地說道：「你想知道什麼對我來說是真實的嗎？這就是真實的感覺。」
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073086602998669312/img/uzh8FsXEwcaY0AXs.jpg" width="600" alt="輕聲細語的時尚模特兒影片肖像">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6815)**
-
-**作者:** [Carolina Delgado](https://x.com/carolletta) | **來源:** [Link](https://x.com/carolletta/status/2073086668555616662) | **發布時間:** Jul 3, 2026
-
----
-### 感人的電影院場景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段影片提示詞，描述一名女子在昏暗閃爍的電影院中觀影時，試圖掩飾淚水的畫面。
-
-#### 📝 提示詞
-
-```
-靜態鏡頭，場景中的每個人都在看電影。畫面中央的女子正悄悄擦去淚水，極力保持平靜的神情。燈光：保持室內昏暗；不要改變光線，投影機的光線呈現閃爍效果。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073081606798245888/img/ZzQFC_U3AwMG3ohk.jpg" width="600" alt="感人的電影院場景">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6816)**
-
-**作者:** [auqib](https://x.com/auqibhabib) | **來源:** [Link](https://x.com/auqibhabib/status/2073081684627751041) | **發布時間:** Jul 3, 2026
-
----
-### 客製化餐車動畫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個關於在日落時分，具有特定招牌和露營車頂的活力餐車的影片提示詞。
-
-#### 📝 提示詞
-
-```
-一輛充滿活力的客製化餐車，車頂上方延伸出一個彈出式露營車頂，停在黃金時刻。車身側面的大膽手繪標誌內容如下：Nomi's nourishes heart ♥️ & love of Christ 🙏
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073065027460878336/img/KUujS7HE0EoeSn-x.jpg" width="600" alt="客製化餐車動畫">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6808)**
-
-**作者:** [Lala](https://x.com/LalaBFox) | **來源:** [Link](https://x.com/LalaBFox/status/2073065215852179699) | **發布時間:** Jul 3, 2026
-
----
-### 神性夢境動畫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個關於神性與人性夢境的靈性場景影片提示詞。
-
-#### 📝 提示詞
-
-```
-他夢見了上帝。耶穌前來指引他如何成為一個良善的人。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073042545282891776/img/8vdpsnWvi6Poutn3.jpg" width="600" alt="神性夢境動畫">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6814)**
-
-**作者:** [Moral English](https://x.com/XMoralEnglish) | **來源:** [Link](https://x.com/XMoralEnglish/status/2073042630896963693) | **發布時間:** Jul 3, 2026
-
----
-### 恐怖小屋咒語影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段描述恐怖電影情節的影片提示詞，場景設定於偏遠小屋，涉及咒語與惡魔附身。
-
-#### 📝 提示詞
-
-```
-五位好友與 tBruce Campbell 前往森林中一處偏遠的小屋，他們播放了一卷錄有咒語的錄音帶。這釋放了惡魔，並將他們逐一附身，直到最後僅剩一人為生存而戰。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072947271906553856/img/GkHz06weSGMdrMfn.jpg" width="600" alt="恐怖小屋咒語影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6812)**
-
-**作者:** [David Williams](https://x.com/DavidWilliamsYN) | **來源:** [Link](https://x.com/DavidWilliamsYN/status/2072947330916184298) | **發布時間:** Jul 3, 2026
-
----
-### 手持 Vlog 街巷貓咪鏡頭序列
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個電影級的影片提示詞，描述手持攝影機跟隨一名女子進入小巷尋找貓咪，呈現出休閒 Vlog 的風格。
-
-#### 📝 提示詞
-
-```
-手持攝影機從後方跟隨她進入種滿植栽的狹窄巷弄。她發現了流浪貓，放慢腳步並蹲下，此時畫面因攝影師試圖跟上而略微偏離中心。自然日光，休閒 Vlog 運鏡風格。
-Persistent --
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072943824876306432/img/Ukkc9ZlojOmJMBe8.jpg" width="600" alt="手持 Vlog 街巷貓咪鏡頭序列">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6811)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2072943892731691042) | **發布時間:** Jul 3, 2026
-
----
-### 年輕韓國女性生活風格的電影感影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份用於生成栩栩如生的年輕韓國女性日常休閒穿搭影片的詳細提示詞，特別著重於服裝質感與髮型細節。
-
-#### 📝 提示詞
-
-```
-AI 生成的年輕韓國女性，過著精彩的生活——處於 AI 存在狀態，20 歲出頭，自然日常外觀，炭灰色無袖短版上衣，寬鬆高腰淺色牛仔褲，黑色帆布鞋，黑色繩狀項鍊，黑色波浪捲髮，紮成凌亂的側邊馬尾，配有輕薄的空氣瀏海
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072890092838862848/img/EQ-pwHohNBpjCxmc.jpg" width="600" alt="年輕韓國女性生活風格的電影感影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6809)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2072890171352125729) | **發布時間:** Jul 3, 2026
-
----
-### 巴西國旗影片背景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個為 Grok Imagine 設計的提示詞，旨在利用巴西國旗的元素（包括綠色底色、黃色菱形和藍色球體）來創作影片背景。
-
-#### 📝 提示詞
-
-```
-使用第一張圖片中的巴西國旗作為全螢幕背景——包含綠色底色、黃色菱形，以及帶有白色星星和白色「ORDEM E PROGRESSO」字樣飾帶的藍色球體
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072835615654297600/img/iGyVD4ClOjpK39wo.jpg" width="600" alt="巴西國旗影片背景">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6807)**
-
-**作者:** [Ami A](https://x.com/AA63782) | **來源:** [Link](https://x.com/AA63782/status/2072835668548702400) | **發布時間:** Jul 3, 2026
-
----
-### Snorricam 木屋恐怖場景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個詳細的恐怖提示詞，使用 Snorricam 攝影角度來描繪一名女性在木屋中被神秘人物跟蹤時的內心恐慌。
-
-#### 📝 提示詞
-
-```
-鬧鬼恐懼 / 恐怖，Snorricam 攝影角度，將其臉部鎖定在畫面中，同時周圍的世界搖晃傾斜。它無需任何對話即可將角色的心理狀態外化。因 Aronofsky 的《噩夢輓歌》（Requiem for a Dream）用於描繪藥物引起的恐慌而聞名，根據語境，它在表現欣快感、孤獨感、恐懼或解離感方面同樣有效。年輕女性，淺色皮膚，帶有細膩的紋理和毛孔，綠色眼睛，長長的天然紅髮，兩側留著稀疏的瀏海，表情冷靜，略顯緊張，細眉，小巧的天然鼻樑，鼻翼上有一個小圓環穿孔，高顴骨，飽滿柔軟的桃色嘴唇。她穿著黑色背心，外面套著一件帶鈕扣的鏽橙色毛衣，戴著一條金色小十字項鍊。中景，雙手垂在身側，雙眼直視鏡頭。她身處一個大型木屋中，有巨大的磚砌壁爐，低照度，高對比陰影，寫實渲染，淺景深，A24 獨立恐怖電影風格。一個陰影中的男人從樹林中出現並跟蹤她。男人停下來，只是盯著她走遠，持續自然的眨眼。
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2072832751275839488/pu/img/TSfH8--S8goCReu8.jpg" width="600" alt="Snorricam 木屋恐怖場景">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6813)**
-
-**作者:** [NYXEN](https://x.com/NYXEN_77) | **來源:** [Link](https://x.com/NYXEN_77/status/2072832789968306469) | **發布時間:** Jul 3, 2026
-
----
-### 貓咪與鈔票堆
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段細膩的動態影片提示詞，描繪貓咪坐在鈔票堆上，氣球在柔和的臥室光線下輕微晃動。
-
-#### 📝 提示詞
-
-```
-鏡頭緩慢平移。貓咪在鈔票堆上眨眼並擺動尾巴；小貓輕拍金色氣球，使其輕微晃動。情侶保持親吻姿勢。柔和的臥室光線，僅有細微的動作。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072808304477159424/img/1KSoWQMoOXanp_SJ.jpg" width="600" alt="貓咪與鈔票堆">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6741)**
-
-**作者:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **來源:** [Link](https://x.com/maggiejuang1/status/2072808375604117939) | **發布時間:** Jul 2, 2026
-
----
-### 星光與蒲公英種子的女神
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個充滿詩意的影片提示詞，描述了一位角色在世界盡頭釋放發光的蒲公英種子，並將其轉化為明日之星的畫面。
-
-#### 📝 提示詞
-
-```
-她佇立在萬物的盡頭，雙手捧著昨日的願望。當她終於放開那些發光的蒲公英種子時，它們緩緩升起、綻放，化作了明日的星辰。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072801371737202689/img/o54qn6BMN41w_nr2.jpg" width="600" alt="星光與蒲公英種子的女神">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6747)**
-
-**作者:** [SophieZX](https://x.com/Z_XSophie) | **來源:** [Link](https://x.com/Z_XSophie/status/2072801622640525764) | **發布時間:** Jul 2, 2026
-
----
-### Boutique Garden Hair Salon
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個為坐落於花園中的精品美髮沙龍所設計的精細電影級提示詞，包含玻璃牆面、香草步道以及溫暖的木質室內裝潢。
-
-#### 📝 提示詞
-
-```
-一間坐落於花園環境中的寧靜精品美髮沙龍，落地窗外是景觀露台，石板小徑旁擺放著種植迷迭香、薰衣草、鼠尾草和薄荷的陶盆。室內採用溫暖的木質櫃檯、編織椅，並呈現柔和的戲劇性光影效果
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072794304259424256/img/2gY6VzYvGxDCtXUv.jpg" width="600" alt="Boutique Garden Hair Salon">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6743)**
-
-**作者:** [Lala](https://x.com/LalaBFox) | **來源:** [Link](https://x.com/LalaBFox/status/2072794777272099095) | **發布時間:** Jul 2, 2026
-
----
-### Buick Enclave 女性化設計
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段描述 Buick Enclave 側面視角、具備優雅女性化設計與健康食品意象的影片提示詞。
-
-#### 📝 提示詞
-
-```
-Buick Enclave 的側面視角，車身採用優雅的女性化設計，搭配溫暖的中性色調，呈現新鮮健康食品的精美意象，包含色彩繽紛的果昔、精緻的墨西哥粽 (tamales) 以及新鮮食材
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072764635900432384/img/DRqnx5MrpZvA0eOV.jpg" width="600" alt="Buick Enclave 女性化設計">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6738)**
-
-**作者:** [Lala](https://x.com/LalaBFox) | **來源:** [Link](https://x.com/LalaBFox/status/2072764809699811343) | **發布時間:** Jul 2, 2026
-
----
-### 哥德風仙子與時尚男子漫步
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段電影感影片提示詞，描述一位穿著厚底高跟鞋的哥德風仙子，與一位身穿銀飾黑色西裝的帥氣男子並肩走在路上。
-
-#### 📝 提示詞
-
-```
-哥德風仙子 
-厚底高跟鞋 
-走在路上
-身旁伴隨著一位帥氣男子，穿著帶有銀色裝飾的時尚黑色西裝
-他們在心照不宣的沉默中並肩前行
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072712144089735168/img/w8KweMtlETnNpbhT.jpg" width="600" alt="哥德風仙子與時尚男子漫步">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6737)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2072712207855673501) | **發布時間:** Jul 2, 2026
-
----
-### 韓式紀錄片風格影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個細節豐富、多場景的影片提示詞，採用 2000 年代 DV 攝影機美學，捕捉韓國社區的生活片段。
-
-#### 📝 提示詞
-
-```
-主要對象：年輕韓國女性，20 歲出頭，自然日常裝扮，身穿褪色炭灰色無袖短版上衣、寬鬆高腰淺色牛仔褲、黑色帆布鞋、黑色繩狀項鍊，黑色波浪捲髮紮成凌亂的側邊馬尾，留著細碎瀏海。真實的皮膚質感，極簡妝容，性格溫暖且平易近人。在整支影片中保持一致的身分、服裝、髮型與外貌。
-地點：寧靜上午時分的真實韓國住宅區。狹窄的混凝土巷弄、低矮民宅、小型露台、盆栽、晾衣繩、腳踏車、電線桿、頭頂電線、成熟樹木投下移動的陰影，安靜的居住氛圍。無商店、廣告、咖啡廳、人群或商業活動。
-視覺風格：超寫實紀錄片風格。真實的隨拍行為。自然的肢體語言。無劇本的生活片段感。強烈的環境真實感。豐富的現實世界細節與可信的人類動作。
-攝影風格：2000 年代初期消費級 DV 攝影機美學。朋友隨意記錄日常時刻的視角。強烈的手持晃動、不完美的構圖、頻繁的自動對焦搜尋、鏡頭呼吸效應、在陽光與陰影間移動時的曝光波動、偶爾的動態模糊、細微的果凍效應、輕微的數位壓縮偽影、褪色的色彩、柔和的對比度、輕微的感光元件雜訊。無穩定器。無電影級運鏡。無現代調色。
-00:00–00:02
-小房子門口外。她坐在低矮的混凝土牆上，雙手舉起調整馬尾。微風吹動散落的髮絲。她自然地微笑，同時攝影機努力保持對焦。
-00:02–00:04
-攝影機跟隨她進入一條擺滿盆栽與混凝土牆的狹窄巷弄。她注意到一隻流浪貓靠近並蹲下。當拍攝者試圖跟上時，構圖稍微偏離中心。
-00:04–00:06
-她溫柔地撫摸並餵食貓咪。自動對焦在她的臉部與動物之間反覆切換。晨光透過頭頂的葉片閃爍。
-00:06–00:08
-她家旁邊的小前院。她將衣物掛在晾衣繩上，布料在微風中搖曳。當雲層短暫飄過頭頂時，曝光隨之改變。
-00:08–00:10
-在一個安靜的露台上，手拿陶瓷咖啡杯。她舒適地坐著觀察社區，偶爾將頭髮撥到耳後。寬鬆的手持側拍角度，帶有自然的攝影機漂移。
-00:10–00:12
-近距離側面特寫。鏡頭外有人向她打招呼。她轉身、舉手、溫暖地微笑，隨意地說了一聲「Annyeong」。攝影機捕捉到這一刻時稍微慢了半拍。
-00:12–00:15
-手拿咖啡杯，緩慢地走在綠樹成蔭的住宅小巷中。她注意到攝影機，露出一個真誠的淺笑，隨後轉過頭繼續行走。錄影在動作進行中突然切換至全黑，就像攝影機被關掉了一樣。
-
-音訊：僅限自然環境音 — 早晨鳥鳴、遠處摩托車聲、輕微風聲
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072637467816271873/img/i8GL9q7gukT0eCIh.jpg" width="600" alt="韓式紀錄片風格影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6745)**
-
-**作者:** [Varun Mehta](https://x.com/varun_j_mehta) | **來源:** [Link](https://x.com/varun_j_mehta/status/2072637540092588361) | **發布時間:** Jul 2, 2026
-
----
-### 靜謐綻放的白蕾絲
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個電影級的影片提示詞，呈現精緻的蕾絲與柔和綻放的夢幻視覺效果，營造出寧靜且空靈的氛圍。
-
-#### 📝 提示詞
-
-```
-靜謐綻放的白蕾絲。精緻蕾絲的低語與柔和綻放的夢境。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072630157358268417/img/RAQoETfhBUEbJNII.jpg" width="600" alt="靜謐綻放的白蕾絲">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6817)**
-
-**作者:** [Stella 𝕏](https://x.com/StellaGrokStar) | **來源:** [Link](https://x.com/StellaGrokStar/status/2072630235775017264) | **發布時間:** Jul 2, 2026
-
----
-### Glow Mask Rebirth
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個象徵性的影片提示詞，展示面具裂開並釋放出光芒，代表從悲傷到重生的轉變。
-
-#### 📝 提示詞
-
-```
-從沈默的悲傷到閃耀的重生。觀看面具裂開，釋放出內在的光芒。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072601714033860608/img/esqhukiAJvhFgcs3.jpg" width="600" alt="Glow Mask Rebirth">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6746)**
-
-**作者:** [Shah](https://x.com/ai_with_shah) | **來源:** [Link](https://x.com/ai_with_shah/status/2072601802323980359) | **發布時間:** Jul 2, 2026
-
----
-### 小狗追球
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段動態的側視影片提示詞，描述一隻黃金獵犬幼犬在綠草地上追逐紅色球的畫面。
-
-#### 📝 提示詞
-
-```
-活潑的黃金獵犬幼犬在陽光普照的公園草地上充滿活力地追逐一顆紅球，牠興奮地跳躍奔跑並搖著尾巴。攝影機以動態側視視角平穩地跟隨幼犬移動，捕捉著充滿活力的綠色草地。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072596733629231104/img/xl6IJHKlOAnKNQ_I.jpg" width="600" alt="小狗追球">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6742)**
-
-**作者:** [Grok imagine user](https://x.com/imagine_user_) | **來源:** [Link](https://x.com/imagine_user_/status/2072596754328154327) | **發布時間:** Jul 2, 2026
-
----
-### 玩耍毛毯的小貓
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段關於毛茸茸小貓玩耍毛毯的詳細影片提示詞，展現了呼吸和尾巴抽動等細微動作。
-
-#### 📝 提示詞
-
-```
-可愛毛茸茸的小貓用爪子俏皮地拍打著柔軟的毛毯，並睜著大眼睛好奇地歪著頭，展現出自然柔和的動作與細微的呼吸起伏，同時保持在舒適且陽光充足的環境中。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072591636929093632/img/xDWl3tznnmXdV6YS.jpg" width="600" alt="玩耍毛毯的小貓">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=6739)**
-
-**作者:** [Grok imagine user](https://x.com/imagine_user_) | **來源:** [Link](https://x.com/imagine_user_/status/2072591652175425705) | **發布時間:** Jul 2, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2251,6 +2233,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-07-17T06:39:23.155Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-07-17T10:25:40.439Z</sub>
 
 </div>

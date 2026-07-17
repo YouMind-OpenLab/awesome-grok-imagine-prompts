@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2122** |
+| 📝 Total Prompts | **2143** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-17** |
 
@@ -189,6 +189,386 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Shiba Inu London Sunset
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic prompt depicting a silver-gray Shiba Inu overlooking the iconic London skyline during a golden hour sunset by the Thames.
+
+#### 📝 Prompt
+
+```
+A silver-gray Shiba Inu with upright ears and striking blue eyes stands on a riverside embankment at golden hour, calmly surveying the London skyline across the Thames—Big Ben, the Shard, the London Eye, and Tower Bridge glowing in warm sunset light.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077868761458376704/img/FyWQxZTpgDfVMbJ9.jpg" width="600" alt="Shiba Inu London Sunset">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7356)**
+
+**Author:** [Robert Heinlein](https://x.com/strangerinastr) | **Source:** [Link](https://x.com/strangerinastr/status/2077868780055838815) | **Published:** Jul 16, 2026
+
+---
+### Vertical Bouncing Motion Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A motion-focused prompt designed to animate an image of a girl performing a rhythmic vertical bouncing motion with a cinematic feel.
+
+#### 📝 Prompt
+
+```
+Create a short smooth cinematic video from this image. Focus only on the girl. She performs strong rhythmic vertical bouncing motion with a stable centered body axis and upright posture. The movement is strictly straight up-and-down only, with con...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077866562829074432/img/-afTiZDQYx4iTFL0.jpg" width="600" alt="Vertical Bouncing Motion Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7358)**
+
+**Author:** [Devonte Sterling](https://x.com/DevonteStel08) | **Source:** [Link](https://x.com/DevonteStel08/status/2077866579241353371) | **Published:** Jul 16, 2026
+
+---
+### Vladimir Putin and Kim Jong Il Cinematic Meeting
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A dramatic cinematic action-thriller still capturing a tense private moment between Vladimir Putin and Kim Jong Il in a gilded palace.
+
+#### 📝 Prompt
+
+```
+Cinematic action-thriller still in vertical 2:3 framing: Vladimir Putin from the first reference and Kim Jong Il from the second reference share a tense private moment alone in a gilded palace sitting room—low amber lamps, velvet drapes, crystal glas...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077846656297451520/img/wL3QogxgIEqz6yxW.jpg" width="600" alt="Vladimir Putin and Kim Jong Il Cinematic Meeting">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7370)**
+
+**Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077846692519395764) | **Published:** Jul 16, 2026
+
+---
+### Chaotic War Room Conflict
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A dramatic prompt depicting a chaotic scene in a war room featuring global leaders and security teams in a climactic standoff.
+
+#### 📝 Prompt
+
+```
+Climactic war-room meltdown in 2:3 portrait composition: all five leaders—Putin, Kim Jong Il, Trump, Musk on holographic display, and Xi Jinping—caught in a single chaotic wide shot as elite security teams exchange rifle fire cross-room. Tracers, spa...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077845913800699906/img/mINOZ1UQ6mi2Enmn.jpg" width="600" alt="Chaotic War Room Conflict">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7363)**
+
+**Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077845961284489328) | **Published:** Jul 16, 2026
+
+---
+### Sparkling Dust Silhouette Couple Transition
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic transition from a black screen to sparkling dust forming silhouettes of a couple touching hands under a starry sky.
+
+#### 📝 Prompt
+
+```
+Black screen becomes Sparking dust in silhouette of a man and woman, their hands touch, flash of bright light, the moon and stars fill the screen
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077842459833544704/img/7PilX3OuYfYR1xng.jpg" width="600" alt="Sparkling Dust Silhouette Couple Transition">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7371)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2077842484085043633) | **Published:** Jul 16, 2026
+
+---
+### Wings of Amethyst Fire
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A poetic and mystical video prompt describing amethyst fire wings and turquoise light in a veiled mist.
+
+#### 📝 Prompt
+
+```
+Wings of amethyst fire and turquoise light whispering alchemical truth through the veiled mist Tiptoeing softly, creating rings of glowing light where sacred waters fall in shimmering heights
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077840531720224768/img/1tqU4W-OZvlrISuD.jpg" width="600" alt="Wings of Amethyst Fire">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7375)**
+
+**Author:** [LeavesofGrass](https://x.com/LeavesofGrass81) | **Source:** [Link](https://x.com/LeavesofGrass81/status/2077840591652520073) | **Published:** Jul 16, 2026
+
+---
+### Dim Bedroom Cinematic Push-in Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt describing a slow camera push-in on a bedroom scene with specific lighting, texture, and atmospheric details.
+
+#### 📝 Prompt
+
+```
+Gentle camera push-in on a dim bedroom: amber lamp flickers, satin sheets slowly shift, warm dust motes in the air, soft cinematic mood only, no body movement.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077834174170329088/img/qq6Vpx1YgEC-hbHn.jpg" width="600" alt="Dim Bedroom Cinematic Push-in Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7368)**
+
+**Author:** [PussyGalorious](https://x.com/PussyGaloryious) | **Source:** [Link](https://x.com/PussyGaloryious/status/2077834193531240902) | **Published:** Jul 16, 2026
+
+---
+### Jungle Animal Interaction Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An action-oriented video prompt featuring a bird flying off a perch and a monkey interacting with bananas, including sound descriptions.
+
+#### 📝 Prompt
+
+```
+Have the bird fly off his perch squawking and the monkey try eating one of the hanging bananas with munching sounds
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077802983287406592/img/8jL3m7OFiyJVHX5l.jpg" width="600" alt="Jungle Animal Interaction Video Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7367)**
+
+**Author:** [“The Male Shoot!” 💦](https://x.com/TheMaleShoot) | **Source:** [Link](https://x.com/TheMaleShoot/status/2077803000878252165) | **Published:** Jul 16, 2026
+
+---
+### Trucker with Red Bull and Rose
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A descriptive prompt for a cinematic video of a trucker in the early morning light.
+
+#### 📝 Prompt
+
+```
+A handsome Black trucker, early morning light, standing beside his big rig with a cold Red Bull in his hand. He’s wearing a clean white t-shirt that says “AI Summer 2026 Bachelor” across the chest, and he’s holding a single red rose in his other hand.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077718570125918208/img/0EgJ0XxJ-7aBRZIw.jpg" width="600" alt="Trucker with Red Bull and Rose">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7360)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077718643203260842) | **Published:** Jul 16, 2026
+
+---
+### 80s Fitness AI Companion
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-energy POV prompt for a vintage 80s-style fitness video featuring the user and an enthusiastic AI companion in a dance studio.
+
+#### 📝 Prompt
+
+```
+POV: I’m doing my morning stretches with my AI companion in a beautiful dance studio. Wall-to-wall mirrors, shiny linoleum floor, big windows with soft morning light. We’re both in bright colorful 80s workout clothes, full Richard Simmons energy. He’s super enthusiastic, big smiles, cheering me on while we stretch together. Fun, silly, high-energy 80s fitness video vibes, pure joy.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077711604922175488/img/8p1eg_SmsMw6rDnZ.jpg" width="600" alt="80s Fitness AI Companion">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7357)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077711713118396465) | **Published:** Jul 16, 2026
+
+---
+### Adorable Accent Voiceover
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt specifying a character's dialogue and accent style.
+
+#### 📝 Prompt
+
+```
+it says, "hey there, what should we name me, i'm ready to chat, teach me something fun" in the most adorable accent!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077702081788493824/img/FT3oK53cp_MDMdhO.jpg" width="600" alt="Adorable Accent Voiceover">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7361)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077702131990102254) | **Published:** Jul 16, 2026
+
+---
+### Fluffy Kitten Playing in Snow
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A dynamic video prompt for a kitten playing in powdery snow with sparkling winter light and handheld camera motion.
+
+#### 📝 Prompt
+
+```
+The fluffy kitten playfully pounces through the snow, swats at falling flakes, and rolls in powdery drifts while snow sparkles in bright winter light; gentle handheld camera drift, lively and cute motion.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077697195680436224/img/d412Jkm9HnFmbYtQ.jpg" width="600" alt="Fluffy Kitten Playing in Snow">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7372)**
+
+**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2077697211736236045) | **Published:** Jul 16, 2026
+
+---
+### Retro Boombox Description
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt describing a classic transistorized boombox, focusing on its retro design features like cassette players and carrying handle.
+
+#### 📝 Prompt
+
+```
+click on your boombox which is boombox is a transistorized portable music player featuring one or two cassette tape players /recorders and AM/FM radio, generally with a carrying handle. Beginning in the mid-1990s, a CD player was often included.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077696787809198082/img/t2vpdlIBvrOzyzSa.jpg" width="600" alt="Retro Boombox Description">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7365)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077696815260934166) | **Published:** Jul 16, 2026
+
+---
+### Origami Flower Shop in a Meadow
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A charming prompt featuring a character named Mona folding pastel origami flowers at a meadow shop under a shady tree.
+
+#### 📝 Prompt
+
+```
+Mona's so excited about her new talent! She sets up a little shop right under a big shady tree in the meadow, using pretty pastel paper to fold the most beautiful origami flowers....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077690084300627968/img/h3WZJw9EAJjmlF4R.jpg" width="600" alt="Origami Flower Shop in a Meadow">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7373)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077690188139012329) | **Published:** Jul 16, 2026
+
+---
+### Japanese Idol Arena Performance
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A cinematic prompt describing an idol performance in a massive arena, focusing on the character Nene's outfit and the audience atmosphere.
+
+#### 📝 Prompt
+
+```
+Spotlights pour onto a massive arena packed with tens of thousands of spectators. Nene wears a pure white lace strapless mini dress with a ruffled hem, pearl high heels, and long lace gloves, with a small flower in her hair, performing an energetic dance at the center of the stage. She smiles brightly while waving, making a heart gesture and shouting. "Everyone, tonight's stage shines for you. Let's dance together, I love you!" The backup dancers move in sync with her, and the audience seats are enveloped in a sea of lights from smartphone flashes and glow sticks.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077681998043521025/img/0uNZUfkGMpYM0ZZQ.jpg" width="600" alt="Japanese Idol Arena Performance">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7366)**
+
+**Author:** [Peter Lam](https://x.com/PeterPanLam1990) | **Source:** [Link](https://x.com/PeterPanLam1990/status/2077682158886605281) | **Published:** Jul 16, 2026
+
+---
+### WWII Aerial Dogfight
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic aerial combat prompt featuring a Spitfire and ME-109 fighters amidst flak gun explosions in a clear sky.
+
+#### 📝 Prompt
+
+```
+Spitfire flying over enemy territory. Add nazi ME-109 fighters. Add flak gun explosions. Clear sky.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077664235006439424/img/jBrSSkHLSeicPzUl.jpg" width="600" alt="WWII Aerial Dogfight">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7359)**
+
+**Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077664251074760804) | **Published:** Jul 16, 2026
+
+---
+### Vibrant Bird and Dancer
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A colorful keyword-based prompt featuring a purple bird and a woman dancing with vibrant aesthetics.
+
+#### 📝 Prompt
+
+```
+Gorgeous amazing people cutest adorable purple bird whispering love poetry love sweet artist woman dancing with vibrant colours
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077610445398269952/img/YmH7J1AqYIPygaE1.jpg" width="600" alt="Vibrant Bird and Dancer">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7374)**
+
+**Author:** [fairy 🧚‍♂️](https://x.com/moon916875) | **Source:** [Link](https://x.com/moon916875/status/2077610470996165025) | **Published:** Jul 16, 2026
+
+---
+### Cinematic Water Vapor Atmosphere
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed cinematic prompt focused on environmental effects like volumetric water vapor, intense shadows, and reflective water surfaces.
+
+#### 📝 Prompt
+
+```
+Realistic 4K cinematic quality /Smoot mix realism /interpolation and upscale /Volumetric water vapor effect / Softer, more intense shadows   / Crystal clear and reflective water / Intense/ clouds color /
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077580467088289793/img/t-KRVV0g-AXFgObh.jpg" width="600" alt="Cinematic Water Vapor Atmosphere">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7362)**
+
+**Author:** [Arak Dark](https://x.com/orgunus93304) | **Source:** [Link](https://x.com/orgunus93304/status/2077580502672789926) | **Published:** Jul 16, 2026
+
+---
+### Luxurious Red Silk Sash in Wind
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A poetic prompt describing the tactile feel of a red silk sash blowing in a sumptuous wind.
+
+#### 📝 Prompt
+
+```
+Lila loves the luxurious feel of the luxe red silk sash with this sumptuous wind
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077554370699292672/img/bb31HgD5YM3dGcd4.jpg" width="600" alt="Luxurious Red Silk Sash in Wind">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7369)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077556828393689199) | **Published:** Jul 16, 2026
+
+---
+### Sailing in the Chesapeake Bay
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A serene video prompt featuring a woman named Lila sailing across the Chesapeake Bay on a small white sailboat, with her red hair and scarf catching the wind.
+
+#### 📝 Prompt
+
+```
+Lila gently sailing on a small white sailboat across the calm Chesapeake Bay, her long messy red hair and red silk scarf flowing beautifully in the wind
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077549639977279488/img/syn7a_cZr1IsWiz_.jpg" width="600" alt="Sailing in the Chesapeake Bay">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7364)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077549740426715556) | **Published:** Jul 16, 2026
+
+---
 ### Messi World Cup Match Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -759,6 +1139,31 @@ Tall blue alien and beautiful lady with long wavy blonde hair in braids with dia
 **Author:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **Source:** [Link](https://x.com/blarneytrades/status/2076435045926031796) | **Published:** Jul 12, 2026
 
 ---
+### Masterpiece Piano Woman Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed cinematic prompt for a video featuring a woman in a crimson robe playing a piano in ancient ruins.
+
+#### 📝 Prompt
+
+```
+Photorealistic masterpiece, ultra-detailed resolution photograph of a woman seen from behind, sitting on a black piano bench in front of a classic black grand piano with lid fully raised. She has extremely long, silky straight platinum-white hair flowing down to her lower back and spilling over the steps, with individual hair strands visible. She wears a luxurious, voluminous deep crimson red flowing robe with rich, realistic fabric texture, soft natural folds, wrinkles and drapery cascading dramatically down the stairs.
+
+Extremely detailed ancient stone stairs: wide, weathered, uneven stone steps with intricate surface texture, visible cracks, chips, moss growing in crevices, subtle lichen, worn edges from age, realistic stone material with varied gray-beige tones and moisture marks. Massive, tall classical stone pillars and ruins on both sides: highly detailed ornate Corinthian-style capitals, fluted columns with realistic erosion, cracks, chipped stone, subtle moss and weathering, standing on the stone platform.
+
+Dense dark misty forest in the foggy background. Moody atmospheric overcast lighting with soft diffused natural light, gentle volumetric fog, cinematic color grading with cool tones and strong red contrast.
+
+Hyper-realistic details: individual hair strands, realistic skin on neck, incredibly detailed fabric and stone textures, intricate piano wood grain and metalwork.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076372874206523392/img/LP85iXuk554gqHXB.jpg" width="600" alt="Masterpiece Piano Woman Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7376)**
+
+**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2076372988182819015) | **Published:** Jul 12, 2026
+
+---
 ### Poolside Pina Colada Perspective
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1164,11 +1569,11 @@ I don’t simply want a black actress playing Helen of Troy. I want a Black Hele
 **Author:** [Huff](https://x.com/Huff4Congress) | **Source:** [Link](https://x.com/Huff4Congress/status/2075601096253309265) | **Published:** Jul 10, 2026
 
 ---
-### Cinematic FPV Forest Sunrise
+### Sunrise Forest FPV VFX
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic FPV camera shot racing through a misty forest at sunrise, featuring light particles forming text and exploding into golden dust.
+> A highly detailed cinematic FPV shot of a mist-covered forest at sunrise with floating pollen particles that form text.
 
 #### 📝 Prompt
 
@@ -1176,7 +1581,7 @@ I don’t simply want a black actress playing Helen of Troy. I want a Black Hele
 FPV shot: The camera races through a dense forest at sunrise, weaving between towering trees covered in morning mist. Golden rays pierce the canopy as billions of floating pollen particles and tiny droplets of dew drift through the air. The camera enters a shaft of sunlight where the illuminated particles synchronize naturally, forming "MORNING" before exploding into a cascade of sparkling golden dust. Epic sunrise, cinematic nature, ultra realistic atmosphere, breathtaking VFX.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075586213294022656/img/LIEf70JuAxykwiAw.jpg" width="600" alt="Cinematic FPV Forest Sunrise">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075586213294022656/img/LIEf70JuAxykwiAw.jpg" width="600" alt="Sunrise Forest FPV VFX">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7230)**
 
@@ -1748,429 +2153,6 @@ That’s how it will look once the cowboy begins to play.
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2073238878723412103) | **Published:** Jul 4, 2026
 
 ---
-### Lady and Alien in Popcorn Pool
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A surreal and fun video prompt featuring a lady in a catsuit and an alien cowboy playing in a swimming pool filled with popcorn.
-
-#### 📝 Prompt
-
-```
-Beautiful lady with long light blonde hair with a diamond necklace and diamond earrings wearing a catsuit and a big blue male alien in a cowboy hat and cowboy outfit are playing in a gigantic swimming pool filled with popcorn
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073203927307177986/img/gd5F1J0f27MQzpZH.jpg" width="600" alt="Lady and Alien in Popcorn Pool">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6856)**
-
-**Author:** [Sheelagh Mac Mathghamhna](https://x.com/abitoblarney) | **Source:** [Link](https://x.com/abitoblarney/status/2073204014909378959) | **Published:** Jul 4, 2026
-
----
-### Comical Family Guy Style Stair Fall
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A comical animation prompt for Grok Imagine that transforms a photo into a funny video of someone falling down stairs in the signature style of the show Family Guy.
-
-#### 📝 Prompt
-
-```
-Make me fall down the stairs in a really comical way. Similar to something maybe you would see on family guy.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073147482532454400/img/aR5MbtGnXRJgSUBO.jpg" width="600" alt="Comical Family Guy Style Stair Fall">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6810)**
-
-**Author:** [Jeremy Judkins](https://x.com/jeremyjudkins_) | **Source:** [Link](https://x.com/jeremyjudkins_/status/2073147550543065228) | **Published:** Jul 3, 2026
-
----
-### Soft Spoken Fashion Model Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A high-end fashion model close-up with studio lighting and specific dialogue for AI video generation.
-
-#### 📝 Prompt
-
-```
-Soft beauty dish lighting, fashion model close-up, flawless skin texture, sophisticated studio portrait, high-end magazine style. She talks very softly and calm to the camera: "Do you want to know what feels real to me? This feels real.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073086602998669312/img/uzh8FsXEwcaY0AXs.jpg" width="600" alt="Soft Spoken Fashion Model Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6815)**
-
-**Author:** [Carolina Delgado](https://x.com/carolletta) | **Source:** [Link](https://x.com/carolletta/status/2073086668555616662) | **Published:** Jul 3, 2026
-
----
-### Emotional Movie Theater Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video prompt showing a woman trying to hide her tears while watching a movie in a flickering, dimly lit theater.
-
-#### 📝 Prompt
-
-```
-Static shot, Everyone in the scene is watching a movie. The woman in the center of the frame is quietly wiping away tears, trying her best to keep a straight face. Lighting: Keep the room dim; do not change the light, the light from the projector flickers.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073081606798245888/img/ZzQFC_U3AwMG3ohk.jpg" width="600" alt="Emotional Movie Theater Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6816)**
-
-**Author:** [auqib](https://x.com/auqibhabib) | **Source:** [Link](https://x.com/auqibhabib/status/2073081684627751041) | **Published:** Jul 3, 2026
-
----
-### Custom Food Truck Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video prompt for a vibrant food truck with specific signage and a camper roof at sunset.
-
-#### 📝 Prompt
-
-```
-A vibrant custom food truck van with a pop-up sleep camper roof extended on top, parked at golden hour. Bold hand-painted logo on the truck side reads exactly: Nomi's nourishes heart ♥️ & love of Christ 🙏
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073065027460878336/img/KUujS7HE0EoeSn-x.jpg" width="600" alt="Custom Food Truck Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6808)**
-
-**Author:** [Lala](https://x.com/LalaBFox) | **Source:** [Link](https://x.com/LalaBFox/status/2073065215852179699) | **Published:** Jul 3, 2026
-
----
-### Dreaming of Divinity Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video prompt for a spiritual scene featuring a dream about divinity and humanity.
-
-#### 📝 Prompt
-
-```
-He is dreaming about God. Jesus come to help him about how to be a good humanity.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073042545282891776/img/8vdpsnWvi6Poutn3.jpg" width="600" alt="Dreaming of Divinity Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6814)**
-
-**Author:** [Moral English](https://x.com/XMoralEnglish) | **Source:** [Link](https://x.com/XMoralEnglish/status/2073042630896963693) | **Published:** Jul 3, 2026
-
----
-### Horror Cabin Cabin Incantation Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video prompt describing a horror movie sequence in a remote cabin involving incantations and demonic possession.
-
-#### 📝 Prompt
-
-```
-Five friends and tBruce Campbell axed travel to a remote cabin in the woods where they play a tape with incantations. This releases the demons which possess them in succession until only one is left fighting for survival.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072947271906553856/img/GkHz06weSGMdrMfn.jpg" width="600" alt="Horror Cabin Cabin Incantation Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6812)**
-
-**Author:** [David Williams](https://x.com/DavidWilliamsYN) | **Source:** [Link](https://x.com/DavidWilliamsYN/status/2072947330916184298) | **Published:** Jul 3, 2026
-
----
-### Handheld Vlog Alley Cat Sequence
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt describing a handheld camera following a woman into an alley to find a cat, styled as a casual vlog.
-
-#### 📝 Prompt
-
-```
-The handheld camera follows her from behind into the narrow plant-lined alley. She spots the stray cat, slows, and crouches down as the frame drifts off-center while the operator tries to keep up. Natural daylight, casual vlog motion.
-Persistent --
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072943824876306432/img/Ukkc9ZlojOmJMBe8.jpg" width="600" alt="Handheld Vlog Alley Cat Sequence">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6811)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2072943892731691042) | **Published:** Jul 3, 2026
-
----
-### Cinematic Video of Young Korean Woman Lifestyle
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for generating a lifelike video of a young Korean woman in casual everyday attire, specifically focusing on clothing textures and hairstyle details.
-
-#### 📝 Prompt
-
-```
-A.I. young Korean woman living her best life - in an A.I. existence, early 20s, natural everyday appearance, faded charcoal-grey sleeveless crop top, loose high-waisted light-wash jeans, black canvas sneakers, black cord necklace, black wavy hair in a messy side ponytail with wispy bangs
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072890092838862848/img/EQ-pwHohNBpjCxmc.jpg" width="600" alt="Cinematic Video of Young Korean Woman Lifestyle">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6809)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2072890171352125729) | **Published:** Jul 3, 2026
-
----
-### Brazil National Flag Video Background
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for Grok Imagine to create a video background using the elements of the Brazilian national flag, including the green field, yellow diamond, and blue globe.
-
-#### 📝 Prompt
-
-```
-Use the Brazil national flag from the first image as the full background—green field, yellow diamond, and the blue globe with white stars and the white ORDEM E PROGRESSO band
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072835615654297600/img/iGyVD4ClOjpK39wo.jpg" width="600" alt="Brazil National Flag Video Background">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6807)**
-
-**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2072835668548702400) | **Published:** Jul 3, 2026
-
----
-### Snorricam Cabin Horror Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed horror prompt using a Snorricam angle to depict a woman's internal panic in a cabin while being followed by a mysterious figure.
-
-#### 📝 Prompt
-
-```
-Haunted fear/ Horror, A Snorricam camera angle, keeping their face locked in frame while the world around them sways and lurches. It physically externalizes a character's mental state without a word of dialogue. Made famous by Aronofsky's Requiem for a Dream to depict drug-induced panic, it's equally effective for euphoria, isolation, fear or dissociation depending on context. Young woman with light skin with subtle textures and pores, green eyes, long natural red hair with wispy bangs worn down by her sides, stoic face, subtly nervous, thin eyebrows, small natural nose with a small hoop piercing, high cheekbones, full soft peach lips. She is wearing a black tank top with a rusty orange sweater over with buttons, small gold cross necklace  Mid frame, hands by her side, eyes staring straight ahead at the camera. She is in a big cabin with a large brick fire place, low lighting, high shadows, realistic rendering, shallow depth of field, A24 indi  horror film style. One shadowed man appears from the woods to follow her. The man stops and just stares at her walking away, continuous natural blinking.
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2072832751275839488/pu/img/TSfH8--S8goCReu8.jpg" width="600" alt="Snorricam Cabin Horror Scene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6813)**
-
-**Author:** [NYXEN](https://x.com/NYXEN_77) | **Source:** [Link](https://x.com/NYXEN_77/status/2072832789968306469) | **Published:** Jul 3, 2026
-
----
-### Cats on Money Stacks
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A subtle motion video prompt featuring cats on stacks of money and a balloon wobbling in soft bedroom light.
-
-#### 📝 Prompt
-
-```
-Gentle camera drift. Cats blink and twitch tails on the money stacks; the kitten taps the gold balloon so it wobbles slightly. The couple holds the kiss. Soft bedroom light, subtle motion only.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072808304477159424/img/1KSoWQMoOXanp_SJ.jpg" width="600" alt="Cats on Money Stacks">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6741)**
-
-**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2072808375604117939) | **Published:** Jul 2, 2026
-
----
-### Glowing Dandelion Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A poetic video prompt depicting a woman at the edge of the world releasing dandelion seeds that transform into stars.
-
-#### 📝 Prompt
-
-```
-She stands at the edge of everything, holding yesterday’s wishes in her open hands. When she finally lets the glowing dandelion seeds go, they rise, bloom, and become tomorrow’s stars.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072801371737202689/img/o54qn6BMN41w_nr2.jpg" width="600" alt="Glowing Dandelion Transformation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6747)**
-
-**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2072801622640525764) | **Published:** Jul 2, 2026
-
----
-### Boutique Garden Hair Salon
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed cinematic prompt for a boutique hair salon nestled in a garden, featuring glass walls, herb-lined pathways, and warm wood interiors.
-
-#### 📝 Prompt
-
-```
-A serene boutique hair salon nestled in a garden setting, floor-to-ceiling windows opening onto landscaped terraces with terracotta pots of rosemary, lavender, sage, and mint lining stone pathways. Inside, warm wood counters, woven chairs, and soft mars dramatic effects
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072794304259424256/img/2gY6VzYvGxDCtXUv.jpg" width="600" alt="Boutique Garden Hair Salon">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6743)**
-
-**Author:** [Lala](https://x.com/LalaBFox) | **Source:** [Link](https://x.com/LalaBFox/status/2072794777272099095) | **Published:** Jul 2, 2026
-
----
-### Buick Enclave Feminine Design
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video prompt describing a side view of a Buick Enclave with an elegant feminine design and healthy food imagery.
-
-#### 📝 Prompt
-
-```
-Side view of a Buick Enclave wrapped in elegant feminine design, warm neutral colors, beautiful imagery of fresh healthy food, colorful smoothies, gourmet tamales, and fresh ingredients
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072764635900432384/img/DRqnx5MrpZvA0eOV.jpg" width="600" alt="Buick Enclave Feminine Design">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6738)**
-
-**Author:** [Lala](https://x.com/LalaBFox) | **Source:** [Link](https://x.com/LalaBFox/status/2072764809699811343) | **Published:** Jul 2, 2026
-
----
-### Gothic Fairy and Stylish Man Walking
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt featuring a gothic fairy in platform heels walking down a road alongside a handsome man in a silver-accented black suit.
-
-#### 📝 Prompt
-
-```
-Gothic fairy 
-platform heels 
-Walks down road
-Joined by talk handsome man stylish black suit with silver accents
-They walk with understood silence
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072712144089735168/img/w8KweMtlETnNpbhT.jpg" width="600" alt="Gothic Fairy and Stylish Man Walking">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6737)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2072712207855673501) | **Published:** Jul 2, 2026
-
----
-### Korean Documentary Style Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed, multi-scene video prompt using a 2000s DV camcorder aesthetic to capture a slice-of-life moment in a Korean neighborhood.
-
-#### 📝 Prompt
-
-```
-Main subject: young Korean woman, early 20s, natural everyday appearance, faded charcoal-grey sleeveless crop top, loose high-waisted light-wash jeans, black canvas sneakers, black cord necklace, black wavy hair in a messy side ponytail with wispy bangs. Realistic skin texture, minimal makeup, warm and approachable personality. Maintain consistent identity, clothing, hairstyle, and appearance throughout the entire video.
-Location: Authentic Korean residential neighborhood during a calm late morning. Narrow concrete alleys, low-rise homes, small terraces, potted plants, laundry lines, bicycles, utility poles, overhead wires, mature trees casting moving shadows, quiet residential atmosphere. No stores, advertisements, cafés, crowds, or commercial activity.
-Visual Style: Ultra-realistic documentary realism. Genuine candid behavior. Natural body language. Unscripted slice-of-life feeling. Strong environmental authenticity. Rich real-world details and believable human motion.
-Camera Style: Early-2000s consumer DV camcorder aesthetic. Friend casually recording everyday moments. Heavy handheld shake, imperfect framing, frequent autofocus hunting, lens breathing, exposure pumping when moving between sun and shade, occasional motion blur, subtle rolling shutter, mild digital compression artifacts, faded colors, soft contrast, slight sensor noise. No stabilization. No cinematic camera moves. No modern color grading.
-00:00–00:02
-Outside a small house entrance. She sits on a low concrete wall adjusting her ponytail with both hands raised. A light breeze moves loose strands of hair. She smiles naturally while the camera struggles to hold focus.
-00:02–00:04
-The camera follows her into a narrow alley lined with potted plants and concrete walls. She notices a stray cat approaching and crouches down. Framing drifts off-center as the operator tries to keep up.
-00:04–00:06
-She gently pets and feeds the cat. Autofocus repeatedly shifts between her face and the animal. Morning sunlight flickers through leaves overhead.
-00:06–00:08
-Small front yard beside her house. She hangs laundry on a clothesline while fabrics sway in the breeze. Exposure changes as clouds briefly pass overhead.
-00:08–00:10
-On a quiet terrace with a ceramic coffee cup. She sits comfortably watching the neighborhood, occasionally brushing hair behind her ear. Loose handheld side angle with natural camera drift.
-00:10–00:12
-Close side profile. Someone off-camera greets her. She turns, raises her hand, smiles warmly, and casually says, “Annyeong.” The camera catches the moment slightly late.
-00:12–00:15
-Walking slowly down a tree-lined residential lane holding her coffee cup. She notices the camera, gives a small genuine smile, then looks away and continues walking. Recording cuts abruptly to black mid-motion as if the camcorder was switched off.
-
-Audio: Natural ambient sound only — morning birds, distant motorcycles, light
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072637467816271873/img/i8GL9q7gukT0eCIh.jpg" width="600" alt="Korean Documentary Style Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6745)**
-
-**Author:** [Varun Mehta](https://x.com/varun_j_mehta) | **Source:** [Link](https://x.com/varun_j_mehta/status/2072637540092588361) | **Published:** Jul 2, 2026
-
----
-### White Lace Blooming Flowers
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A delicate video prompt focusing on soft whispers of lace and blooming white floral patterns.
-
-#### 📝 Prompt
-
-```
-A Quiet Bloom of White Lace. Whispers of delicate lace and soft blooming dreams.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072630157358268417/img/RAQoETfhBUEbJNII.jpg" width="600" alt="White Lace Blooming Flowers">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6817)**
-
-**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2072630235775017264) | **Published:** Jul 2, 2026
-
----
-### Glow Mask Rebirth
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A symbolic video prompt showing a mask cracking open to release light, representing a transition from sadness to rebirth.
-
-#### 📝 Prompt
-
-```
-From silent sadness to glowing rebirth. Watch the mask crack open and release the light within.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072601714033860608/img/esqhukiAJvhFgcs3.jpg" width="600" alt="Glow Mask Rebirth">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6746)**
-
-**Author:** [Shah](https://x.com/ai_with_shah) | **Source:** [Link](https://x.com/ai_with_shah/status/2072601802323980359) | **Published:** Jul 2, 2026
-
----
-### Puppy Chasing Ball
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A dynamic side-view video prompt of a golden retriever puppy chasing a red ball through green grass.
-
-#### 📝 Prompt
-
-```
-The playful golden retriever puppy energetically chases a red ball across the sunny park grass, jumping and running with joy while wagging its tail, the camera smoothly tracks alongside the puppy in a dynamic side view, capturing the vibrant green grass
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072596733629231104/img/xl6IJHKlOAnKNQ_I.jpg" width="600" alt="Puppy Chasing Ball">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6742)**
-
-**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2072596754328154327) | **Published:** Jul 2, 2026
-
----
-### Playful Kitten with Blanket
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed video prompt of a fluffy kitten playing with a blanket, showing subtle movements like breathing and tail twitching.
-
-#### 📝 Prompt
-
-```
-The cute fluffy kitten playfully bats its paw at the soft blanket and tilts its head curiously with big eyes, showing gentle natural movements and subtle breathing while staying in the cozy sunlit setting.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072591636929093632/img/xDWl3tznnmXdV6YS.jpg" width="600" alt="Playful Kitten with Blanket">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6739)**
-
-**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2072591652175425705) | **Published:** Jul 2, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2232,6 +2214,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-17T06:39:20.521Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-17T10:25:38.678Z</sub>
 
 </div>

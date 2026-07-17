@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2122** |
+| 📝 Total Prompts | **2143** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-17** |
 
@@ -189,6 +189,386 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Shiba Inu Londra Gün Batımı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Thames Nehri kıyısında, altın saatlerde ikonik Londra silüetine karşı duran gümüş grisi bir Shiba Inu'yu betimleyen sinematik bir görsel istemi.
+
+#### 📝 Prompt
+
+```
+Dik kulaklı ve çarpıcı mavi gözlü gümüş grisi bir Shiba Inu, altın saatlerde nehir kenarındaki bir set üzerinde duruyor ve Thames Nehri'nin karşısındaki Londra silüetini sakin bir şekilde izliyor; Big Ben, The Shard, London Eye ve Tower Bridge sıcak gün batımı ışığında parlıyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077868761458376704/img/FyWQxZTpgDfVMbJ9.jpg" width="600" alt="Shiba Inu Londra Gün Batımı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7356)**
+
+**Author:** [Robert Heinlein](https://x.com/strangerinastr) | **Source:** [Link](https://x.com/strangerinastr/status/2077868780055838815) | **Published:** Jul 16, 2026
+
+---
+### Dikey Zıplama Hareketli Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sinematik bir hisle ritmik dikey zıplama hareketi yapan bir kızın görselini canlandırmak için tasarlanmış, hareket odaklı bir komut.
+
+#### 📝 Prompt
+
+```
+Bu görselden kısa, akıcı ve sinematik bir video oluştur. Sadece kıza odaklan. Kız, sabit bir merkez ekseni ve dik bir duruşla güçlü, ritmik bir dikey zıplama hareketi yapıyor. Hareket kesinlikle sadece yukarı ve aşağı yönlü olup...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077866562829074432/img/-afTiZDQYx4iTFL0.jpg" width="600" alt="Dikey Zıplama Hareketli Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7358)**
+
+**Author:** [Devonte Sterling](https://x.com/DevonteStel08) | **Source:** [Link](https://x.com/DevonteStel08/status/2077866579241353371) | **Published:** Jul 16, 2026
+
+---
+### Vladimir Putin ve Kim Jong Il Sinematik Buluşması
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Vladimir Putin ve Kim Jong Il arasında altın varaklı bir sarayda geçen gergin ve özel bir anı yakalayan dramatik, sinematik bir aksiyon-gerilim karesi.
+
+#### 📝 Prompt
+
+```
+Dikey 2:3 çerçeveleme ile sinematik aksiyon-gerilim karesi: İlk referanstan Vladimir Putin ve ikinci referanstan Kim Jong Il, altın varaklı bir sarayın oturma odasında baş başa, gergin ve özel bir anı paylaşıyorlar; loş kehribar rengi lambalar, kadife perdeler, kristal bardaklar...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077846656297451520/img/wL3QogxgIEqz6yxW.jpg" width="600" alt="Vladimir Putin ve Kim Jong Il Sinematik Buluşması">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7370)**
+
+**Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077846692519395764) | **Published:** Jul 16, 2026
+
+---
+### Kaotik Savaş Odası Çatışması
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Küresel liderlerin ve güvenlik ekiplerinin yer aldığı, doruk noktasındaki bir çatışmayı konu alan, savaş odasındaki kaotik sahneyi betimleyen dramatik bir istem.
+
+#### 📝 Prompt
+
+```
+2:3 dikey kompozisyonda doruk noktasındaki savaş odası krizi: Putin, Kim Jong Il, Trump, holografik ekrandaki Musk ve Xi Jinping olmak üzere beş liderin tamamı, seçkin güvenlik ekiplerinin oda içinde tüfek ateşiyle çatıştığı tek bir kaotik geniş açılı karede yakalanmış. İzli mermiler, kıvılcımlar...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077845913800699906/img/mINOZ1UQ6mi2Enmn.jpg" width="600" alt="Kaotik Savaş Odası Çatışması">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7363)**
+
+**Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077845961284489328) | **Published:** Jul 16, 2026
+
+---
+### Işıltılı Toz Silüet Çift Geçişi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Siyah bir ekrandan, yıldızlı bir gökyüzü altında elleri birbirine değen bir çiftin silüetini oluşturan ışıltılı toza doğru sinematik bir geçiş.
+
+#### 📝 Prompt
+
+```
+Siyah ekran, bir erkek ve kadının silüetini oluşturan ışıltılı toza dönüşür, elleri birbirine değer, parlak bir ışık patlaması olur, ay ve yıldızlar ekranı doldurur
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077842459833544704/img/7PilX3OuYfYR1xng.jpg" width="600" alt="Işıltılı Toz Silüet Çift Geçişi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7371)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2077842484085043633) | **Published:** Jul 16, 2026
+
+---
+### Ametist Ateşinin Kanatları
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Örtülü bir sisin içinde ametist rengi ateş kanatlarını ve turkuaz ışığı betimleyen şiirsel ve mistik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Ametist ateşinden kanatlar ve turkuaz ışık, örtülü sisin içinden simyasal gerçekleri fısıldıyor. Hafifçe parmak uçlarında yürüyerek, kutsal suların ışıltılı yüksekliklerden döküldüğü yerlerde parlayan ışık halkaları yaratıyor
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077840531720224768/img/1tqU4W-OZvlrISuD.jpg" width="600" alt="Ametist Ateşinin Kanatları">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7375)**
+
+**Author:** [LeavesofGrass](https://x.com/LeavesofGrass81) | **Source:** [Link](https://x.com/LeavesofGrass81/status/2077840591652520073) | **Published:** Jul 16, 2026
+
+---
+### Loş Yatak Odası Sinematik Yakınlaşma İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Belirli aydınlatma, doku ve atmosferik detaylara sahip bir yatak odası sahnesine yavaş kamera yakınlaşmasını tanımlayan sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Loş yatak odasına yumuşak kamera yakınlaşması: kehribar rengi lamba titriyor, saten çarşaflar yavaşça hareket ediyor, havada uçuşan sıcak toz zerreleri, sadece yumuşak sinematik atmosfer, vücut hareketi yok.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077834174170329088/img/qq6Vpx1YgEC-hbHn.jpg" width="600" alt="Loş Yatak Odası Sinematik Yakınlaşma İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7368)**
+
+**Author:** [PussyGalorious](https://x.com/PussyGaloryious) | **Source:** [Link](https://x.com/PussyGaloryious/status/2077834193531240902) | **Published:** Jul 16, 2026
+
+---
+### Vahşi Hayvan Etkileşimi Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir kuşun tüneğinden uçarak uzaklaşmasını ve bir maymunun muzlarla etkileşime girmesini içeren, ses betimlemelerini de kapsayan aksiyon odaklı bir video istemi.
+
+#### 📝 Prompt
+
+```
+Kuşun ciyaklayarak tüneğinden uçup gitmesini ve maymunun asılı muzlardan birini yemeğe çalışırken ağız şapırdatma sesleri çıkarmasını sağlayın
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077802983287406592/img/8jL3m7OFiyJVHX5l.jpg" width="600" alt="Vahşi Hayvan Etkileşimi Video İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7367)**
+
+**Author:** [“The Male Shoot!” 💦](https://x.com/TheMaleShoot) | **Source:** [Link](https://x.com/TheMaleShoot/status/2077803000878252165) | **Published:** Jul 16, 2026
+
+---
+### Red Bull ve Gül ile Kamyon Şoförü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sabahın erken saatlerindeki ışıkta bir kamyon şoförünün sinematik videosu için betimleyici bir komut.
+
+#### 📝 Prompt
+
+```
+Yakışıklı, Siyahi bir kamyon şoförü, sabahın erken saatlerindeki ışıkta, elinde soğuk bir Red Bull ile tırının yanında duruyor. Göğsünde “AI Summer 2026 Bachelor” yazan temiz beyaz bir tişört giyiyor ve diğer elinde tek bir kırmızı gül tutuyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077718570125918208/img/0EgJ0XxJ-7aBRZIw.jpg" width="600" alt="Red Bull ve Gül ile Kamyon Şoförü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7360)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077718643203260842) | **Published:** Jul 16, 2026
+
+---
+### 80'ler Tarzı Fitness AI Arkadaşı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kullanıcı ve enerjik bir AI arkadaşının bir dans stüdyosunda yer aldığı, 80'ler tarzı nostaljik bir fitness videosu için yüksek enerjili bir POV istemi.
+
+#### 📝 Prompt
+
+```
+POV: AI arkadaşımla güzel bir dans stüdyosunda sabah esneme hareketlerimi yapıyorum. Boydan boya aynalar, parlak linolyum zemin, yumuşak sabah ışığı alan büyük pencereler. İkimiz de rengarenk 80'ler tarzı spor kıyafetleri içindeyiz, tam bir Richard Simmons enerjisi var. O çok hevesli, kocaman gülümsüyor ve biz birlikte esnerken beni destekliyor. Eğlenceli, şapşal, yüksek enerjili 80'ler fitness videosu havası, saf neşe.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077711604922175488/img/8p1eg_SmsMw6rDnZ.jpg" width="600" alt="80'ler Tarzı Fitness AI Arkadaşı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7357)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077711713118396465) | **Published:** Jul 16, 2026
+
+---
+### Sevimli Aksanlı Seslendirme
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir karakterin diyalog ve aksan tarzını belirten video oluşturma istemi.
+
+#### 📝 Prompt
+
+```
+"hey there, what should we name me, i'm ready to chat, teach me something fun" ifadesini en sevimli aksanla söylüyor!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077702081788493824/img/FT3oK53cp_MDMdhO.jpg" width="600" alt="Sevimli Aksanlı Seslendirme">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7361)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077702131990102254) | **Published:** Jul 16, 2026
+
+---
+### Karda Oynayan Tüylü Kedi Yavrusu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Işıltılı kış ışığı ve elde taşınan kamera hareketiyle tozlu karda oynayan bir kedi yavrusu için dinamik video istemi.
+
+#### 📝 Prompt
+
+```
+Tüylü kedi yavrusu karların içinde neşeyle zıplıyor, düşen kar tanelerine patileriyle vuruyor ve parlak kış ışığında parıldayan tozlu kar yığınlarında yuvarlanıyor; hafif elde taşınan kamera hareketi, canlı ve sevimli bir görüntü.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077697195680436224/img/d412Jkm9HnFmbYtQ.jpg" width="600" alt="Karda Oynayan Tüylü Kedi Yavrusu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7372)**
+
+**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2077697211736236045) | **Published:** Jul 16, 2026
+
+---
+### Retro Boombox Açıklaması
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kaset çalarlar ve taşıma kolu gibi retro tasarım özelliklerine odaklanan, klasik transistörlü bir boombox'ı tanımlayan bir istem.
+
+#### 📝 Prompt
+
+```
+Boombox'ınıza tıklayın; boombox, genellikle bir taşıma koluna sahip, bir veya iki kaset çalar/kaydedici ve AM/FM radyo içeren transistörlü taşınabilir bir müzik çalardır. 1990'ların ortalarından itibaren, genellikle bir CD çalar da eklenmeye başlanmıştır.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077696787809198082/img/t2vpdlIBvrOzyzSa.jpg" width="600" alt="Retro Boombox Açıklaması">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7365)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077696815260934166) | **Published:** Jul 16, 2026
+
+---
+### Çayırda Origami Çiçek Dükkanı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mona adında bir karakterin, gölgeli bir ağacın altındaki çayır dükkanında pastel renkli origami çiçekleri katlamasını konu alan büyüleyici bir istem.
+
+#### 📝 Prompt
+
+```
+Mona yeni yeteneği için çok heyecanlı! Çayırda, büyük gölgeli bir ağacın hemen altına küçük bir dükkan kuruyor ve en güzel origami çiçeklerini katlamak için hoş pastel renkli kağıtlar kullanıyor...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077690084300627968/img/h3WZJw9EAJjmlF4R.jpg" width="600" alt="Çayırda Origami Çiçek Dükkanı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7373)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077690188139012329) | **Published:** Jul 16, 2026
+
+---
+### Japon İdol Arena Performansı
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Devasa bir arenadaki idol performansını, Nene karakterinin kıyafetine ve seyirci atmosferine odaklanarak betimleyen sinematik bir istem.
+
+#### 📝 Prompt
+
+```
+Spot ışıkları, on binlerce seyirciyle dolu devasa bir arenaya dökülüyor. Nene, fırfırlı etek ucu olan saf beyaz dantel straplez mini bir elbise, incili yüksek topuklu ayakkabılar ve uzun dantel eldivenler giymiş, saçında küçük bir çiçekle sahnenin merkezinde enerjik bir dans sergiliyor. El sallarken, kalp işareti yaparken ve bağırırken parlak bir şekilde gülümsüyor. "Herkes, bu geceki sahne sizin için parlıyor. Hadi birlikte dans edelim, sizi seviyorum!" Yedek dansçılar onunla uyum içinde hareket ediyor ve seyirci koltukları, akıllı telefon flaşlarından ve ışıklı çubuklardan oluşan bir ışık deniziyle çevrili.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077681998043521025/img/0uNZUfkGMpYM0ZZQ.jpg" width="600" alt="Japon İdol Arena Performansı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7366)**
+
+**Author:** [Peter Lam](https://x.com/PeterPanLam1990) | **Source:** [Link](https://x.com/PeterPanLam1990/status/2077682158886605281) | **Published:** Jul 16, 2026
+
+---
+### II. Dünya Savaşı Hava Muharebesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Açık bir gökyüzünde uçaksavar patlamaları arasında Spitfire ve ME-109 avcı uçaklarını içeren sinematik bir hava muharebesi istemi.
+
+#### 📝 Prompt
+
+```
+Düşman bölgesi üzerinde uçan Spitfire. Nazi ME-109 avcı uçaklarını ekle. Uçaksavar patlamaları ekle. Açık gökyüzü.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077664235006439424/img/jBrSSkHLSeicPzUl.jpg" width="600" alt="II. Dünya Savaşı Hava Muharebesi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7359)**
+
+**Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077664251074760804) | **Published:** Jul 16, 2026
+
+---
+### Canlı Kuş ve Dansçı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mor bir kuş ve canlı estetikle dans eden bir kadını konu alan, anahtar kelime tabanlı renkli bir istem.
+
+#### 📝 Prompt
+
+```
+Muhteşem harika insanlar en tatlı sevimli mor kuş aşk şiiri fısıldıyor aşk tatlı sanatçı kadın canlı renklerle dans ediyor
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077610445398269952/img/YmH7J1AqYIPygaE1.jpg" width="600" alt="Canlı Kuş ve Dansçı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7374)**
+
+**Author:** [fairy 🧚‍♂️](https://x.com/moon916875) | **Source:** [Link](https://x.com/moon916875/status/2077610470996165025) | **Published:** Jul 16, 2026
+
+---
+### Sinematik Su Buharı Atmosferi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Hacimsel su buharı, yoğun gölgeler ve yansıtıcı su yüzeyleri gibi çevresel efektlere odaklanan, son derece detaylı sinematik bir istem.
+
+#### 📝 Prompt
+
+```
+Gerçekçi 4K sinematik kalite / Pürüzsüz gerçekçilik karışımı / İnterpolasyon ve yükseltme / Hacimsel su buharı efekti / Daha yumuşak, daha yoğun gölgeler / Kristal netliğinde ve yansıtıcı su / Yoğun bulut renkleri /
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077580467088289793/img/t-KRVV0g-AXFgObh.jpg" width="600" alt="Sinematik Su Buharı Atmosferi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7362)**
+
+**Author:** [Arak Dark](https://x.com/orgunus93304) | **Source:** [Link](https://x.com/orgunus93304/status/2077580502672789926) | **Published:** Jul 16, 2026
+
+---
+### Rüzgarda Lüks Kırmızı İpek Kuşak
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Görkemli bir rüzgarda dalgalanan kırmızı ipek bir kuşağın dokunsal hissini betimleyen şiirsel bir komut.
+
+#### 📝 Prompt
+
+```
+Lila, bu görkemli rüzgarda dalgalanan lüks kırmızı ipek kuşağın verdiği o zengin hissi çok seviyor
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077554370699292672/img/bb31HgD5YM3dGcd4.jpg" width="600" alt="Rüzgarda Lüks Kırmızı İpek Kuşak">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7369)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077556828393689199) | **Published:** Jul 16, 2026
+
+---
+### Chesapeake Körfezi'nde Yelken Keyfi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Chesapeake Körfezi'nde küçük beyaz bir yelkenliyle gezintiye çıkan Lila adındaki bir kadının, rüzgarda savrulan kızıl saçları ve eşarbıyla huzur veren video istemi.
+
+#### 📝 Prompt
+
+```
+Lila, sakin Chesapeake Körfezi'nde küçük beyaz bir yelkenliyle nazikçe ilerliyor; uzun, dağınık kızıl saçları ve kırmızı ipek eşarbı rüzgarda büyüleyici bir şekilde dalgalanıyor
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077549639977279488/img/syn7a_cZr1IsWiz_.jpg" width="600" alt="Chesapeake Körfezi'nde Yelken Keyfi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7364)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077549740426715556) | **Published:** Jul 16, 2026
+
+---
 ### Messi Dünya Kupası Maç Videosu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -757,6 +1137,31 @@ Uzun boylu mavi bir uzaylı ve örgülü, uzun dalgalı sarı saçlı, elmas kü
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7170)**
 
 **Author:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **Source:** [Link](https://x.com/blarneytrades/status/2076435045926031796) | **Published:** Jul 12, 2026
+
+---
+### Başyapıt Piyano Çalan Kadın Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Antik kalıntılar arasında piyano çalan, kızıl cübbeli bir kadının yer aldığı video için son derece detaylı sinematik bir komut.
+
+#### 📝 Prompt
+
+```
+Fotogerçekçi başyapıt, arkadan görünen, tamamen açık kuyruklu klasik siyah bir piyanonun önünde, siyah piyano taburesinde oturan bir kadının ultra detaylı çözünürlüklü fotoğrafı. Belinin altına kadar uzanan, ipeksi, düz, platin beyazı saçları basamaklara dökülüyor ve saç telleri tek tek seçilebiliyor. Üzerinde, zengin ve gerçekçi kumaş dokusuna sahip, yumuşak doğal kıvrımları, kırışıklıkları ve merdivenlerden aşağı dramatik bir şekilde süzülen dökümlü yapısıyla lüks, hacimli, koyu kızıl renkli bir cübbe var.
+
+Son derece detaylı antik taş merdivenler: karmaşık yüzey dokusuna, belirgin çatlaklara, kırıklara, çatlaklarda büyüyen yosunlara, hafif likenlere, zamandan aşınmış kenarlara sahip; çeşitli gri-bej tonları ve nem izleri içeren gerçekçi taş malzemeden yapılmış geniş, yıpranmış, düzensiz taş basamaklar. Her iki tarafta devasa, uzun klasik taş sütunlar ve kalıntılar: son derece detaylı süslü Korint tarzı başlıklar, gerçekçi erozyona, çatlaklara, kırık taşlara, hafif yosun ve hava koşullarına maruz kalmış dokulara sahip, taş platform üzerinde duran yivli sütunlar.
+
+Arka planda sisli, yoğun ve karanlık bir orman. Yumuşak yayılmış doğal ışıkla karamsar atmosferik kapalı hava aydınlatması, hafif hacimsel sis, soğuk tonlar ve güçlü kırmızı kontrast ile sinematik renk düzenlemesi.
+
+Hiper gerçekçi detaylar: tek tek saç telleri, boyunda gerçekçi cilt dokusu, inanılmaz derecede detaylı kumaş ve taş dokuları, karmaşık piyano ahşap damarları ve metal işçiliği.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076372874206523392/img/LP85iXuk554gqHXB.jpg" width="600" alt="Başyapıt Piyano Çalan Kadın Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7376)**
+
+**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2076372988182819015) | **Published:** Jul 12, 2026
 
 ---
 ### Havuz Kenarında Piña Colada Bakış Açısı
@@ -1767,429 +2172,6 @@ Kovboy çalmaya başladığında görüntünün nasıl olacağı işte böyle ol
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2073238878723412103) | **Published:** Jul 4, 2026
 
 ---
-### Patlamış Mısır Havuzunda Kadın ve Uzaylı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kedi kostümlü bir kadın ile kovboy şapkalı bir uzaylının patlamış mısırla dolu bir yüzme havuzunda eğlendiği sürreal ve eğlenceli bir video istemi.
-
-#### 📝 Prompt
-
-```
-Kedi kostümü giymiş, elmas kolye ve elmas küpeli, uzun açık sarı saçlı güzel bir kadın ile kovboy şapkası ve kovboy kıyafeti içindeki büyük mavi erkek bir uzaylı, patlamış mısırla dolu devasa bir yüzme havuzunda oynuyorlar
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073203927307177986/img/gd5F1J0f27MQzpZH.jpg" width="600" alt="Patlamış Mısır Havuzunda Kadın ve Uzaylı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6856)**
-
-**Author:** [Sheelagh Mac Mathghamhna](https://x.com/abitoblarney) | **Source:** [Link](https://x.com/abitoblarney/status/2073204014909378959) | **Published:** Jul 4, 2026
-
----
-### Family Guy Tarzı Komik Düşüş
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Family Guy tarzından esinlenerek, bir karakterin merdivenlerden komik bir şekilde düşmesini konu alan bir video oluşturma istemi.
-
-#### 📝 Prompt
-
-```
-Beni merdivenlerden gerçekten çok komik bir şekilde düşür. Family Guy'da görebileceğin türden bir şey olsun.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073147482532454400/img/aR5MbtGnXRJgSUBO.jpg" width="600" alt="Family Guy Tarzı Komik Düşüş">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6810)**
-
-**Author:** [Jeremy Judkins](https://x.com/jeremyjudkins_) | **Source:** [Link](https://x.com/jeremyjudkins_/status/2073147550543065228) | **Published:** Jul 3, 2026
-
----
-### Yumuşak Sesli Moda Modeli Video Portresi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir stüdyo ortamında doğrudan kameraya yumuşak ve sakin bir şekilde konuşan bir moda modelinin yakın plan çekimi için sinematik bir video oluşturma istemi.
-
-#### 📝 Prompt
-
-```
-Kameraya çok yumuşak ve sakin bir şekilde konuşuyor: "Bana neyin gerçek hissettirdiğini bilmek ister misin? İşte bu gerçek hissettiriyor."
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073086602998669312/img/uzh8FsXEwcaY0AXs.jpg" width="600" alt="Yumuşak Sesli Moda Modeli Video Portresi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6815)**
-
-**Author:** [Carolina Delgado](https://x.com/carolletta) | **Source:** [Link](https://x.com/carolletta/status/2073086668555616662) | **Published:** Jul 3, 2026
-
----
-### Duygusal Sinema Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Loş ve titrek ışıklı bir sinema salonunda film izlerken gözyaşlarını saklamaya çalışan bir kadını gösteren video istemi.
-
-#### 📝 Prompt
-
-```
-Sabit çekim, Sahnedeki herkes bir film izliyor. Kadrajın merkezindeki kadın sessizce gözyaşlarını siliyor ve ifadesini bozmamaya çalışıyor. Aydınlatma: Odayı loş tutun; ışığı değiştirmeyin, projektörden gelen ışık titriyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073081606798245888/img/ZzQFC_U3AwMG3ohk.jpg" width="600" alt="Duygusal Sinema Sahnesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6816)**
-
-**Author:** [auqib](https://x.com/auqibhabib) | **Source:** [Link](https://x.com/auqibhabib/status/2073081684627751041) | **Published:** Jul 3, 2026
-
----
-### Özel Yemek Kamyonu Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gün batımında, özel tabelalara ve karavan çatısına sahip canlı bir yemek kamyonu için video istemi.
-
-#### 📝 Prompt
-
-```
-Gün batımında park etmiş, üzerinde açılır kapanır karavan çatısı bulunan canlı ve özel bir yemek kamyonu. Kamyonun yan tarafındaki el boyaması cesur logoda tam olarak şunlar yazıyor: Nomi's nourishes heart ♥️ & love of Christ 🙏
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073065027460878336/img/KUujS7HE0EoeSn-x.jpg" width="600" alt="Özel Yemek Kamyonu Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6808)**
-
-**Author:** [Lala](https://x.com/LalaBFox) | **Source:** [Link](https://x.com/LalaBFox/status/2073065215852179699) | **Published:** Jul 3, 2026
-
----
-### İlahi Rüya Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> İlahilik ve insanlık üzerine bir rüyayı konu alan spiritüel bir sahne için video istemi.
-
-#### 📝 Prompt
-
-```
-Tanrı hakkında rüya görüyor. İsa, ona nasıl iyi bir insan olunacağı konusunda yardım etmek için geliyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073042545282891776/img/8vdpsnWvi6Poutn3.jpg" width="600" alt="İlahi Rüya Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6814)**
-
-**Author:** [Moral English](https://x.com/XMoralEnglish) | **Source:** [Link](https://x.com/XMoralEnglish/status/2073042630896963693) | **Published:** Jul 3, 2026
-
----
-### Korku Kulübesi Büyü Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Uzak bir kulübede geçen, büyüler ve şeytani ele geçirme olaylarını içeren bir korku filmi sekansını betimleyen video istemi.
-
-#### 📝 Prompt
-
-```
-Beş arkadaş ve tBruce Campbell, ormandaki uzak bir kulübeye giderler ve burada büyülerin yer aldığı bir kaset çalarlar. Bu, onları sırayla ele geçiren ve hayatta kalmak için savaşan sadece bir kişi kalana kadar devam eden iblisleri serbest bırakır.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072947271906553856/img/GkHz06weSGMdrMfn.jpg" width="600" alt="Korku Kulübesi Büyü Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6812)**
-
-**Author:** [David Williams](https://x.com/DavidWilliamsYN) | **Source:** [Link](https://x.com/DavidWilliamsYN/status/2072947330916184298) | **Published:** Jul 3, 2026
-
----
-### Elde Taşınabilir Vlog Sokak Kedisi Sekansı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir kadının bir kedi bulmak için ara sokağa girişini takip eden, elde tutulan kamera çekimi tarzında, gündelik vlog üslubunda sinematik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Elde tutulan kamera, bitkilerle çevrili dar ara sokakta onu arkadan takip ediyor. Sokak kedisini fark ediyor, yavaşlıyor ve operatör ona yetişmeye çalışırken kadraj merkezden kayarken çömeliyor. Doğal gün ışığı, gündelik vlog hareketi.
-Kalıcı --
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072943824876306432/img/Ukkc9ZlojOmJMBe8.jpg" width="600" alt="Elde Taşınabilir Vlog Sokak Kedisi Sekansı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6811)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2072943892731691042) | **Published:** Jul 3, 2026
-
----
-### Genç Koreli Kadın Yaşam Tarzı Sinematik Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Genç bir Koreli kadının günlük kıyafetler içindeki gerçekçi bir videosunu oluşturmak için; kıyafet dokuları ve saç stili detaylarına odaklanan ayrıntılı bir istem.
-
-#### 📝 Prompt
-
-```
-Yapay zeka ürünü, hayatını en iyi şekilde yaşayan genç Koreli kadın - yapay zeka varlığında, 20'li yaşların başı, doğal günlük görünüm, soluk kömür grisi kolsuz kısa üst, bol yüksek belli açık renkli kot pantolon, siyah kanvas spor ayakkabı, siyah kordon kolye, dağınık yan at kuyruğu yapılmış siyah dalgalı saçlar ve ince perçemler
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072890092838862848/img/EQ-pwHohNBpjCxmc.jpg" width="600" alt="Genç Koreli Kadın Yaşam Tarzı Sinematik Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6809)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2072890171352125729) | **Published:** Jul 3, 2026
-
----
-### Brezilya Ulusal Bayrağı Video Arka Planı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine için Brezilya ulusal bayrağının yeşil zemin, sarı eşkenar dörtgen ve mavi küre gibi unsurlarını kullanarak bir video arka planı oluşturmaya yönelik bir komut.
-
-#### 📝 Prompt
-
-```
-İlk görseldeki Brezilya ulusal bayrağını tam arka plan olarak kullanın; yeşil zemin, sarı eşkenar dörtgen ve üzerinde beyaz yıldızlar ile beyaz ORDEM E PROGRESSO şeridi bulunan mavi küre.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072835615654297600/img/iGyVD4ClOjpK39wo.jpg" width="600" alt="Brezilya Ulusal Bayrağı Video Arka Planı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6807)**
-
-**Author:** [Ami A](https://x.com/AA63782) | **Source:** [Link](https://x.com/AA63782/status/2072835668548702400) | **Published:** Jul 3, 2026
-
----
-### Snorricam Kabin Korku Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir kadının kabin içindeki içsel paniğini ve gizemli bir figür tarafından takip edilişini Snorricam açısıyla betimleyen detaylı bir korku istemi.
-
-#### 📝 Prompt
-
-```
-Lanetli korku/Korku, Snorricam kamera açısı, dünya etraflarında sallanıp sarsılırken yüzlerini kadrajda sabit tutar. Bir karakterin zihinsel durumunu tek bir diyalog kelimesi olmadan fiziksel olarak dışa vurur. Aronofsky'nin Bir Rüya İçin Ağıt (Requiem for a Dream) filminde uyuşturucu kaynaklı paniği betimlemek için kullanılarak meşhur olmuştur; bağlama göre öfori, izolasyon, korku veya dissosiyasyon için de aynı derecede etkilidir. İnce dokulu ve gözenekli açık tenli, yeşil gözlü, yanlardan dökülen seyrek perçemli uzun doğal kızıl saçlı genç kadın; ifadesiz, hafif gergin bir yüz, ince kaşlar, küçük halka piercingli küçük doğal bir burun, belirgin elmacık kemikleri, dolgun yumuşak şeftali rengi dudaklar. Üzerinde siyah bir atlet ve onun üzerinde düğmeli, pas rengi turuncu bir hırka, küçük altın bir haç kolye var. Orta kadraj, elleri yanlarında, gözleri doğrudan kameraya dikilmiş. Büyük bir tuğla şöminesi olan geniş bir kabinde, düşük ışıklandırma, derin gölgeler, gerçekçi render, sığ alan derinliği, A24 bağımsız korku filmi tarzı. Ormandan gölgeler içinde bir adam onu takip etmek için belirir. Adam durur ve sadece uzaklaşan kadına bakar, sürekli doğal göz kırpma.
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2072832751275839488/pu/img/TSfH8--S8goCReu8.jpg" width="600" alt="Snorricam Kabin Korku Sahnesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6813)**
-
-**Author:** [NYXEN](https://x.com/NYXEN_77) | **Source:** [Link](https://x.com/NYXEN_77/status/2072832789968306469) | **Published:** Jul 3, 2026
-
----
-### Para Yığınları Üzerindeki Kediler
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Para yığınları üzerinde duran kediler ve yumuşak yatak odası ışığında sallanan bir balon içeren, hafif hareketli bir video istemi.
-
-#### 📝 Prompt
-
-```
-Hafif kamera kayması. Kediler para yığınları üzerinde gözlerini kırpıyor ve kuyruklarını seğirtiyor; yavru kedi altın renkli balona dokunuyor ve balon hafifçe sallanıyor. Çift öpüşmeye devam ediyor. Yumuşak yatak odası ışığı, sadece ince hareketler.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072808304477159424/img/1KSoWQMoOXanp_SJ.jpg" width="600" alt="Para Yığınları Üzerindeki Kediler">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6741)**
-
-**Author:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **Source:** [Link](https://x.com/maggiejuang1/status/2072808375604117939) | **Published:** Jul 2, 2026
-
----
-### Yıldız Işığı ve Karahindiba Tohumlarının Tanrıçası
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Dünyanın ucunda, parlayan karahindiba tohumlarını serbest bırakarak onları yarının yıldızlarına dönüştüren bir karakteri konu alan şiirsel bir video istemi.
-
-#### 📝 Prompt
-
-```
-Her şeyin bittiği noktada duruyor, dünün dileklerini açık avuçlarında tutuyor. Nihayet parlayan karahindiba tohumlarını serbest bıraktığında, tohumlar yükselip çiçek açıyor ve yarının yıldızlarına dönüşüyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072801371737202689/img/o54qn6BMN41w_nr2.jpg" width="600" alt="Yıldız Işığı ve Karahindiba Tohumlarının Tanrıçası">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6747)**
-
-**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2072801622640525764) | **Published:** Jul 2, 2026
-
----
-### Boutique Garden Hair Salon
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir bahçe içine gizlenmiş butik bir kuaför salonu için cam duvarlar, bitkilerle çevrili yollar ve sıcak ahşap iç mekanlar içeren, son derece detaylı sinematik bir istem.
-
-#### 📝 Prompt
-
-```
-Bahçe ortamında yer alan huzurlu bir butik kuaför salonu; tabandan tavana pencereler, biberiye, lavanta, adaçayı ve nane dolu terakota saksıların süslediği taş yollara açılan peyzajlı teraslara bakıyor. İçeride ise sıcak ahşap tezgahlar, hasır sandalyeler ve yumuşak, dramatik ışık efektleri bulunuyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072794304259424256/img/2gY6VzYvGxDCtXUv.jpg" width="600" alt="Boutique Garden Hair Salon">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6743)**
-
-**Author:** [Lala](https://x.com/LalaBFox) | **Source:** [Link](https://x.com/LalaBFox/status/2072794777272099095) | **Published:** Jul 2, 2026
-
----
-### Buick Enclave Feminen Tasarım
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Zarif ve feminen bir tasarıma sahip Buick Enclave'in yan görünüşünü ve sağlıklı yiyecek görsellerini betimleyen bir video istemi.
-
-#### 📝 Prompt
-
-```
-Zarif ve feminen bir tasarımla kaplanmış Buick Enclave'in yan görünüşü, sıcak nötr renkler, taze ve sağlıklı yiyeceklerin güzel görselleri, renkli smoothie'ler, gurme tamale'ler ve taze malzemeler
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072764635900432384/img/DRqnx5MrpZvA0eOV.jpg" width="600" alt="Buick Enclave Feminen Tasarım">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6738)**
-
-**Author:** [Lala](https://x.com/LalaBFox) | **Source:** [Link](https://x.com/LalaBFox/status/2072764809699811343) | **Published:** Jul 2, 2026
-
----
-### Gotik Peri ve Şık Bir Adam Yürüyor
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Platform topuklu ayakkabılar giymiş gotik bir perinin, gümüş detaylı siyah takım elbiseli yakışıklı bir adamla birlikte yolda yürüdüğü sinematik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Gotik peri 
-platform topuklu ayakkabılar 
-Yolda yürüyor
-Siyah, gümüş detaylı şık takım elbiseli yakışıklı bir adam ona eşlik ediyor
-Anlaşılır bir sessizlik içinde yürüyorlar
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072712144089735168/img/w8KweMtlETnNpbhT.jpg" width="600" alt="Gotik Peri ve Şık Bir Adam Yürüyor">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6737)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2072712207855673501) | **Published:** Jul 2, 2026
-
----
-### Kore Belgesel Tarzı Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 2000'lerin DV video kamera estetiğini kullanarak bir Kore mahallesindeki gündelik yaşamdan bir kesiti yakalayan, oldukça detaylı ve çok sahneli bir video istemi.
-
-#### 📝 Prompt
-
-```
-Ana özne: Genç Koreli kadın, 20'li yaşların başı, doğal günlük görünüm, soluk kömür grisi kolsuz kısa üst, bol yüksek belli açık renkli kot pantolon, siyah kanvas spor ayakkabılar, siyah kordon kolye, dağınık yan at kuyruğu yapılmış siyah dalgalı saçlar ve seyrek perçemler. Gerçekçi cilt dokusu, minimal makyaj, sıcak ve cana yakın bir kişilik. Video boyunca kimliği, kıyafeti, saç stilini ve görünümü tutarlı tutun.
-Konum: Sakin bir sabah geç saatlerde otantik bir Kore yerleşim bölgesi. Dar beton ara sokaklar, alçak katlı evler, küçük teraslar, saksı bitkileri, çamaşır ipleri, bisikletler, elektrik direkleri, havai hatlar, hareketli gölgeler oluşturan olgun ağaçlar, sessiz bir mahalle atmosferi. Mağaza, reklam, kafe, kalabalık veya ticari faaliyet yok.
-Görsel Tarz: Ultra gerçekçi belgesel gerçekçiliği. Samimi ve doğal davranışlar. Doğal vücut dili. Senaryosuz, hayattan bir kesit hissi. Güçlü çevresel özgünlük. Zengin gerçek dünya detayları ve inandırıcı insan hareketleri.
-Kamera Tarzı: 2000'lerin başındaki tüketici tipi DV video kamera estetiği. Bir arkadaşın gündelik anları gelişigüzel kaydetmesi. Belirgin el titremesi, kusurlu kadraj, sık sık odak arama, lens nefes alması, güneş ve gölge arasında hareket ederken pozlama dalgalanmaları, ara sıra hareket bulanıklığı, hafif rolling shutter etkisi, hafif dijital sıkıştırma bozulmaları, soluk renkler, yumuşak kontrast, hafif sensör gürültüsü. Sabitleme yok. Sinematik kamera hareketleri yok. Modern renk düzenlemesi yok.
-00:00–00:02
-Küçük bir ev girişinin dışı. Alçak bir beton duvarın üzerinde oturuyor, iki eliyle at kuyruğunu düzeltiyor. Hafif bir esinti saç tellerini hareket ettiriyor. Kamera odaklanmakta zorlanırken o doğal bir şekilde gülümsüyor.
-00:02–00:04
-Kamera onu saksı bitkileri ve beton duvarlarla çevrili dar bir sokağa kadar takip ediyor. Yaklaşan sokak kedisini fark edip çömeliyor. Kameraman ona yetişmeye çalışırken kadraj merkezden kayıyor.
-00:04–00:06
-Kediyi nazikçe seviyor ve besliyor. Otomatik odaklama sürekli olarak yüzü ile hayvan arasında gidip geliyor. Sabah güneş ışığı tepedeki yaprakların arasından titreyerek geçiyor.
-00:06–00:08
-Evinin yanındaki küçük ön bahçe. Kumaşlar esintide sallanırken çamaşır ipine çamaşır asıyor. Bulutlar tepeden kısa süreliğine geçerken pozlama değişiyor.
-00:08–00:10
-Seramik bir kahve fincanı ile sessiz bir terasta. Rahat bir şekilde oturup mahalleyi izliyor, ara sıra saçını kulağının arkasına atıyor. Doğal kamera kaymasıyla gevşek el kamerası yan açısı.
-00:10–00:12
-Yandan yakın profil. Kamera dışından biri ona selam veriyor. Dönüyor, elini kaldırıyor, sıcak bir şekilde gülümsüyor ve doğal bir şekilde “Annyeong” diyor. Kamera anı biraz geç yakalıyor.
-00:12–00:15
-Kahve fincanını tutarak ağaçlıklı bir yerleşim sokağında yavaşça yürüyor. Kamerayı fark ediyor, küçük ve samimi bir gülümseme veriyor, ardından başka yöne bakıp yürümeye devam ediyor. Kayıt, sanki video kamera kapatılmış gibi hareketin ortasında aniden siyaha düşüyor.
-
-Ses: Sadece doğal ortam sesleri — sabah kuşları, uzaktan gelen motosikletler, hafif
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072637467816271873/img/i8GL9q7gukT0eCIh.jpg" width="600" alt="Kore Belgesel Tarzı Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6745)**
-
-**Author:** [Varun Mehta](https://x.com/varun_j_mehta) | **Source:** [Link](https://x.com/varun_j_mehta/status/2072637540092588361) | **Published:** Jul 2, 2026
-
----
-### Beyaz Dantelin Sessiz Çiçek Açışı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Zarif danteller ve yumuşak, çiçek açan rüya benzeri görseller içeren, huzurlu ve ruhani bir atmosfer yaratan sinematik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Beyaz Dantelin Sessiz Çiçek Açışı. Zarif dantellerin ve yumuşak, çiçek açan rüyaların fısıltıları.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072630157358268417/img/RAQoETfhBUEbJNII.jpg" width="600" alt="Beyaz Dantelin Sessiz Çiçek Açışı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6817)**
-
-**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2072630235775017264) | **Published:** Jul 2, 2026
-
----
-### Glow Mask Rebirth
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir maskenin kırılarak içinden ışık saçtığı, üzüntüden yeniden doğuşa geçişi temsil eden sembolik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Sessiz bir hüzünden ışıl ışıl bir yeniden doğuşa. Maskenin çatlayıp içindeki ışığı serbest bırakışını izleyin.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072601714033860608/img/esqhukiAJvhFgcs3.jpg" width="600" alt="Glow Mask Rebirth">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6746)**
-
-**Author:** [Shah](https://x.com/ai_with_shah) | **Source:** [Link](https://x.com/ai_with_shah/status/2072601802323980359) | **Published:** Jul 2, 2026
-
----
-### Topu Kovalayan Yavru Köpek
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Yeşil çimenler üzerinde kırmızı bir topu kovalayan golden retriever cinsi yavru köpeğin dinamik, yandan çekim video istemi.
-
-#### 📝 Prompt
-
-```
-Oyuncu golden retriever yavrusu, güneşli parkın çimenleri üzerinde kırmızı bir topu neşeyle kovalıyor; kuyruğunu sallayarak zıplıyor ve koşuyor. Kamera, canlı yeşil çimenleri yakalayarak dinamik bir yan açıyla yavru köpeği pürüzsüz bir şekilde takip ediyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072596733629231104/img/xl6IJHKlOAnKNQ_I.jpg" width="600" alt="Topu Kovalayan Yavru Köpek">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6742)**
-
-**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2072596754328154327) | **Published:** Jul 2, 2026
-
----
-### Battaniye ile Oynayan Sevimli Yavru Kedi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Battaniye ile oynayan tüylü bir yavru kedinin; nefes alma ve kuyruk seğirmesi gibi ince hareketlerini gösteren detaylı bir video istemi.
-
-#### 📝 Prompt
-
-```
-Sevimli ve tüylü yavru kedi, yumuşak battaniyeye patisiyle oyunbaz bir şekilde vuruyor ve büyük gözleriyle merakla başını yana eğiyor; güneş alan bu huzurlu ortamda, nazik ve doğal hareketler sergileyerek hafifçe nefes alıp veriyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072591636929093632/img/xDWl3tznnmXdV6YS.jpg" width="600" alt="Battaniye ile Oynayan Sevimli Yavru Kedi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6739)**
-
-**Author:** [Grok imagine user](https://x.com/imagine_user_) | **Source:** [Link](https://x.com/imagine_user_/status/2072591652175425705) | **Published:** Jul 2, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2251,6 +2233,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-17T06:39:38.209Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-17T10:25:51.143Z</sub>
 
 </div>

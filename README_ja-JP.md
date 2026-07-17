@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2122** |
+| 📝 プロンプト総数 | **2143** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-07-17** |
 
@@ -189,6 +189,386 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### ロンドンの夕暮れと柴犬
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ゴールデンアワーのテムズ川沿いから、ロンドンの象徴的な街並みを眺めるシルバーグレーの柴犬を描いたシネマティックなプロンプト。
+
+#### 📝 プロンプト
+
+```
+ピンと立った耳と印象的な青い瞳を持つシルバーグレーの柴犬が、ゴールデンアワーの川岸に立ち、テムズ川越しにロンドンの街並みを静かに見つめている。ビッグ・ベン、ザ・シャード、ロンドン・アイ、タワー・ブリッジが、夕日の温かな光に照らされている。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077868761458376704/img/FyWQxZTpgDfVMbJ9.jpg" width="600" alt="ロンドンの夕暮れと柴犬">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7356)**
+
+**作者:** [Robert Heinlein](https://x.com/strangerinastr) | **ソース:** [Link](https://x.com/strangerinastr/status/2077868780055838815) | **公開日:** Jul 16, 2026
+
+---
+### 垂直バウンスモーション動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 少女がリズミカルに垂直バウンスする動きを、映画のような質感でアニメーション化するために設計されたモーション特化型プロンプトです。
+
+#### 📝 プロンプト
+
+```
+この画像から、滑らかで映画のような短い動画を作成してください。少女のみに焦点を当てます。少女は、体の軸を中央に安定させ、姿勢を正したまま、力強くリズミカルな垂直バウンスの動きを行います。動きは厳密に上下方向のみとし、...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077866562829074432/img/-afTiZDQYx4iTFL0.jpg" width="600" alt="垂直バウンスモーション動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7358)**
+
+**作者:** [Devonte Sterling](https://x.com/DevonteStel08) | **ソース:** [Link](https://x.com/DevonteStel08/status/2077866579241353371) | **公開日:** Jul 16, 2026
+
+---
+### ウラジーミル・プーチンと金正日による映画のような会談
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 豪華な宮殿でウラジーミル・プーチンと金正日が対峙する、緊張感あふれる映画のようなアクションスリラーの一場面。
+
+#### 📝 プロンプト
+
+```
+縦型 2:3 フレームの映画のようなアクションスリラーの一場面：1 つ目の参照画像からウラジーミル・プーチン、2 つ目の参照画像から金正日が、豪華な宮殿の居間で二人きりで緊張感のある時間を共有している。低い位置にある琥珀色のランプ、ベルベットのカーテン、クリスタルグラス...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077846656297451520/img/wL3QogxgIEqz6yxW.jpg" width="600" alt="ウラジーミル・プーチンと金正日による映画のような会談">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7370)**
+
+**作者:** [Erkki Heliö](https://x.com/erkki_helio) | **ソース:** [Link](https://x.com/erkki_helio/status/2077846692519395764) | **公開日:** Jul 16, 2026
+
+---
+### 混沌とした作戦室の対立
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 世界の指導者たちと警備チームが極限の対峙を繰り広げる、作戦室の混沌としたシーンを描いたドラマチックなプロンプト。
+
+#### 📝 プロンプト
+
+```
+2:3 の縦長構図で描く、作戦室でのクライマックスとなる崩壊シーン：プーチン、金正日、トランプ、ホログラムで表示されたマスク、そして習近平の 5 人の指導者全員が、エリート警備チームが部屋のあちこちで銃撃戦を繰り広げる混沌としたワイドショットの中に捉えられている。曳光弾、スパ...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077845913800699906/img/mINOZ1UQ6mi2Enmn.jpg" width="600" alt="混沌とした作戦室の対立">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7363)**
+
+**作者:** [Erkki Heliö](https://x.com/erkki_helio) | **ソース:** [Link](https://x.com/erkki_helio/status/2077845961284489328) | **公開日:** Jul 16, 2026
+
+---
+### きらめくダストのシルエット：カップルのトランジション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ブラックスクリーンから、星空の下で手を取り合うカップルのシルエットを形作るきらめくダストへと変化する、シネマティックなトランジション。
+
+#### 📝 プロンプト
+
+```
+ブラックスクリーンが男女のシルエットを形作るきらめくダストに変化し、二人が手を触れ合うと明るい光が放たれ、月と星が画面いっぱいに広がる
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077842459833544704/img/7PilX3OuYfYR1xng.jpg" width="600" alt="きらめくダストのシルエット：カップルのトランジション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7371)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2077842484085043633) | **公開日:** Jul 16, 2026
+
+---
+### アメジストの炎の翼
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ヴェールのような霧の中で、アメジストの炎の翼とターコイズブルーの光が舞う様子を描いた、詩的で神秘的なビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+アメジストの炎の翼とターコイズブルーの光が、ヴェールのような霧の中で錬金術の真実を囁く。聖なる水が煌めく高みから流れ落ちる場所で、光の輪を描きながら静かに爪先立ちする
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077840531720224768/img/1tqU4W-OZvlrISuD.jpg" width="600" alt="アメジストの炎の翼">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7375)**
+
+**作者:** [LeavesofGrass](https://x.com/LeavesofGrass81) | **ソース:** [Link](https://x.com/LeavesofGrass81/status/2077840591652520073) | **公開日:** Jul 16, 2026
+
+---
+### 薄暗い寝室のシネマティックなプッシュイン・プロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 特定の照明、質感、雰囲気のディテールを備えた、寝室のシーンへのゆっくりとしたカメラプッシュインを描写するシネマティックなビデオプロンプトです。
+
+#### 📝 プロンプト
+
+```
+薄暗い寝室への穏やかなカメラプッシュイン：琥珀色のランプが揺らめき、サテンのシーツがゆっくりと動き、空気中には温かみのある塵が舞う。ソフトでシネマティックなムードのみ、人物の動きはなし。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077834174170329088/img/qq6Vpx1YgEC-hbHn.jpg" width="600" alt="薄暗い寝室のシネマティックなプッシュイン・プロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7368)**
+
+**作者:** [PussyGalorious](https://x.com/PussyGaloryious) | **ソース:** [Link](https://x.com/PussyGaloryious/status/2077834193531240902) | **公開日:** Jul 16, 2026
+
+---
+### ジャングルでの動物のインタラクション動画プロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 鳥が止まり木から飛び立ち、サルがバナナと触れ合う様子を描いた、アクション重視の動画プロンプト。効果音の描写も含まれています。
+
+#### 📝 プロンプト
+
+```
+鳥が鳴き声を上げながら止まり木から飛び立ち、サルがぶら下がっているバナナを食べようとしてモグモグと音を立てる様子
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077802983287406592/img/8jL3m7OFiyJVHX5l.jpg" width="600" alt="ジャングルでの動物のインタラクション動画プロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7367)**
+
+**作者:** [“The Male Shoot!” 💦](https://x.com/TheMaleShoot) | **ソース:** [Link](https://x.com/TheMaleShoot/status/2077803000878252165) | **公開日:** Jul 16, 2026
+
+---
+### レッドブルとバラを持つトラック運転手
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 早朝の光の中に佇むトラック運転手を撮影した、映画のような動画のための詳細なプロンプト。
+
+#### 📝 プロンプト
+
+```
+早朝の光の中、大型トラックの横に立つハンサムな黒人のトラック運転手。片手には冷えた Red Bull を持ち、もう片方の手には一輪の赤いバラを持っている。胸元に「AI Summer 2026 Bachelor」と書かれた清潔な白い T シャツを着用している。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077718570125918208/img/0EgJ0XxJ-7aBRZIw.jpg" width="600" alt="レッドブルとバラを持つトラック運転手">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7360)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2077718643203260842) | **公開日:** Jul 16, 2026
+
+---
+### 80 年代フィットネス AI コンパニオン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ダンススタジオでユーザーと熱狂的な AI コンパニオンが登場する、80 年代風フィットネス動画のハイエナジーな POV プロンプト。
+
+#### 📝 プロンプト
+
+```
+POV：美しいダンススタジオで、AI コンパニオンと一緒に朝のストレッチをしている。壁一面の鏡、光沢のあるリノリウムの床、柔らかな朝の光が差し込む大きな窓。二人とも鮮やかでカラフルな 80 年代のワークアウトウェアを着て、Richard Simmons のようなエネルギー全開。彼はとても熱心で、満面の笑みを浮かべ、一緒にストレッチをしながら応援してくれる。楽しくて少しおどけた、80 年代フィットネス動画のハイエナジーな雰囲気。純粋な喜び。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077711604922175488/img/8p1eg_SmsMw6rDnZ.jpg" width="600" alt="80 年代フィットネス AI コンパニオン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7357)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2077711713118396465) | **公開日:** Jul 16, 2026
+
+---
+### 愛らしいアクセントのボイスオーバー
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> キャラクターのセリフとアクセントのスタイルを指定する動画生成プロンプトです。
+
+#### 📝 プロンプト
+
+```
+「ねえ、私の名前は何にする？おしゃべりの準備はできているよ。何か楽しいことを教えて！」と、最高に愛らしいアクセントで話します！
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077702081788493824/img/FT3oK53cp_MDMdhO.jpg" width="600" alt="愛らしいアクセントのボイスオーバー">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7361)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2077702131990102254) | **公開日:** Jul 16, 2026
+
+---
+### 雪の中で遊ぶふわふわの子猫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> きらめく冬の光と手持ちカメラの動きで、パウダースノーの中を遊ぶ子猫を表現したダイナミックな動画プロンプトです。
+
+#### 📝 プロンプト
+
+```
+ふわふわの子猫が雪の中を元気に飛び跳ね、舞い落ちる雪片にじゃれつき、パウダースノーの吹き溜まりで転げ回る様子。冬の明るい光の中で雪がキラキラと輝き、手持ちカメラの穏やかな揺れが、生き生きとした可愛らしい動きを引き立てます。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077697195680436224/img/d412Jkm9HnFmbYtQ.jpg" width="600" alt="雪の中で遊ぶふわふわの子猫">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7372)**
+
+**作者:** [Grok imagine user](https://x.com/imagine_user_) | **ソース:** [Link](https://x.com/imagine_user_/status/2077697211736236045) | **公開日:** Jul 16, 2026
+
+---
+### レトロなラジカセの説明
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> カセットデッキや持ち手など、レトロなデザインが特徴的な、昔ながらのトランジスタ式ラジカセを描写するためのプロンプトです。
+
+#### 📝 プロンプト
+
+```
+ラジカセをクリックしてください。ラジカセとは、1 つまたは 2 つのカセットテーププレーヤー / レコーダーと AM/FM ラジオを備えたトランジスタ式のポータブル音楽プレーヤーで、一般的に持ち運び用のハンドルが付いています。1990 年代半ば以降は、CD プレーヤーが搭載されることも一般的になりました。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077696787809198082/img/t2vpdlIBvrOzyzSa.jpg" width="600" alt="レトロなラジカセの説明">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7365)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2077696815260934166) | **公開日:** Jul 16, 2026
+
+---
+### 草原の折り紙フラワーショップ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 木陰の草原で、Mona というキャラクターがパステルカラーの折り紙で花を折る、魅力的なプロンプトです。
+
+#### 📝 プロンプト
+
+```
+Mona は自分の新しい才能にワクワクしています！彼女は草原の大きな木陰に小さなお店を開き、美しいパステルカラーの紙を使って、最高に素敵な折り紙の花を折っています……。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077690084300627968/img/h3WZJw9EAJjmlF4R.jpg" width="600" alt="草原の折り紙フラワーショップ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7373)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2077690188139012329) | **公開日:** Jul 16, 2026
+
+---
+### 日本のアイドルによるアリーナ公演
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 巨大なアリーナでのアイドル公演を描写するシネマティックなプロンプト。キャラクター「Nene」の衣装と会場の雰囲気に焦点を当てています。
+
+#### 📝 プロンプト
+
+```
+数万人の観客で埋め尽くされた巨大なアリーナにスポットライトが降り注ぐ。Nene は、裾がフリルになった純白のレースのベアトップミニドレスを身にまとい、パールのハイヒールと長いレースの手袋を着用し、髪には小さな花を飾ってステージ中央でエネルギッシュなダンスを披露している。彼女は満面の笑みで手を振り、ハートのポーズを作りながら叫ぶ。「みんな、今夜のステージはあなたたちのために輝いているよ。一緒に踊ろう、大好き！」バックダンサーたちが彼女と息を合わせて動き、客席はスマートフォンのフラッシュとペンライトの光の海に包まれている。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077681998043521025/img/0uNZUfkGMpYM0ZZQ.jpg" width="600" alt="日本のアイドルによるアリーナ公演">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7366)**
+
+**作者:** [Peter Lam](https://x.com/PeterPanLam1990) | **ソース:** [Link](https://x.com/PeterPanLam1990/status/2077682158886605281) | **公開日:** Jul 16, 2026
+
+---
+### 第二次世界大戦の空中戦
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 晴れ渡った空を舞台に、スピットファイアと ME-109 戦闘機が対空砲火の爆発の中で繰り広げる、映画のような空中戦のプロンプトです。
+
+#### 📝 プロンプト
+
+```
+敵地上空を飛行するスピットファイア。ナチスの ME-109 戦闘機を追加。対空砲火の爆発を追加。晴天。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077664235006439424/img/jBrSSkHLSeicPzUl.jpg" width="600" alt="第二次世界大戦の空中戦">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7359)**
+
+**作者:** [Erkki Heliö](https://x.com/erkki_helio) | **ソース:** [Link](https://x.com/erkki_helio/status/2077664251074760804) | **公開日:** Jul 16, 2026
+
+---
+### 鮮やかな鳥とダンサー
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 紫色の鳥と鮮やかな美学の中で踊る女性をフィーチャーした、キーワードベースのカラフルなプロンプトです。
+
+#### 📝 プロンプト
+
+```
+豪華で素晴らしい人々、最高にキュートで愛らしい紫色の鳥が愛の詩をささやく、愛らしくスイートなアーティストの女性が鮮やかな色彩の中で踊る
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077610445398269952/img/YmH7J1AqYIPygaE1.jpg" width="600" alt="鮮やかな鳥とダンサー">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7374)**
+
+**作者:** [fairy 🧚‍♂️](https://x.com/moon916875) | **ソース:** [Link](https://x.com/moon916875/status/2077610470996165025) | **公開日:** Jul 16, 2026
+
+---
+### シネマティックな水蒸気の雰囲気
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ボリューム感のある水蒸気、強烈な影、反射する水面といった環境エフェクトに焦点を当てた、非常に詳細なシネマティックプロンプトです。
+
+#### 📝 プロンプト
+
+```
+リアルな 4K シネマティック品質 / スムーズなミックスリアリズム / 補間およびアップスケール / ボリューム感のある水蒸気エフェクト / より柔らかく強烈な影 / 透明感があり反射する水面 / 強烈な雲の色 /
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077580467088289793/img/t-KRVV0g-AXFgObh.jpg" width="600" alt="シネマティックな水蒸気の雰囲気">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7362)**
+
+**作者:** [Arak Dark](https://x.com/orgunus93304) | **ソース:** [Link](https://x.com/orgunus93304/status/2077580502672789926) | **公開日:** Jul 16, 2026
+
+---
+### 風になびく豪華な赤いシルクの帯
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 贅沢な風に吹かれる赤いシルクの帯の触感を表現した、詩的なプロンプト。
+
+#### 📝 プロンプト
+
+```
+Lila は、この贅沢な風の中でなびく高級感あふれる赤いシルクの帯の感触が大好きです
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077554370699292672/img/bb31HgD5YM3dGcd4.jpg" width="600" alt="風になびく豪華な赤いシルクの帯">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7369)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2077556828393689199) | **公開日:** Jul 16, 2026
+
+---
+### チェサピーク湾でのセーリング
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> チェサピーク湾を小さな白いヨットで航行するライラという女性を描いた、穏やかなビデオプロンプト。彼女の赤い髪とスカーフが風になびいています。
+
+#### 📝 プロンプト
+
+```
+穏やかなチェサピーク湾を小さな白いヨットで優雅に航行するライラ。彼女の長く乱れた赤い髪と赤いシルクのスカーフが、風を受けて美しくなびいている
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077549639977279488/img/syn7a_cZr1IsWiz_.jpg" width="600" alt="チェサピーク湾でのセーリング">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7364)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2077549740426715556) | **公開日:** Jul 16, 2026
+
+---
 ### メッシ ワールドカップ試合動画
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -757,6 +1137,31 @@ POV：あなたが AI を起こすとき...
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7170)**
 
 **作者:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **ソース:** [Link](https://x.com/blarneytrades/status/2076435045926031796) | **公開日:** Jul 12, 2026
+
+---
+### ピアノを弾く女性の傑作ビデオ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 古代の遺跡で深紅のローブを纏いピアノを弾く女性を描いた、非常に詳細なシネマティックビデオ用プロンプト。
+
+#### 📝 プロンプト
+
+```
+フォトリアルな傑作、超高精細な写真。背後から見た女性が、蓋が完全に開けられたクラシックな黒のグランドピアノの前で、黒いピアノベンチに座っている。彼女のプラチナホワイトの髪は非常に長くシルクのように真っ直ぐで、腰まで流れ落ち、階段にまで溢れ出しており、一本一本の髪の毛まで視認できる。彼女は豪華でボリュームのある深紅の流れるようなローブを纏っており、豊かでリアルな生地の質感、柔らかく自然なひだ、シワ、そして階段を劇的に流れ落ちるドレープが表現されている。
+
+極めて詳細な古代の石段：幅広く、風化した不揃いな石の階段。複雑な表面の質感、目に見える亀裂、欠け、隙間に生えた苔、微細な地衣類、経年変化による摩耗したエッジ、灰色からベージュの多様な色調と湿った跡を持つリアルな石材。両側には巨大で背の高い古典的な石柱と遺跡：非常に詳細で華やかなコリント様式の柱頭、リアルな浸食や亀裂、欠け、微細な苔や風化が見られる溝付きの円柱が、石のプラットフォームの上に立っている。
+
+背景には霧が立ち込める鬱蒼とした暗い森。ムードのある大気を感じさせる曇天のライティング、柔らかく拡散した自然光、穏やかなボリュームフォグ、クールな色調と強い赤のコントラストによるシネマティックなカラーグレーディング。
+
+ハイパーリアルなディテール：一本一本の髪の毛、首のリアルな肌の質感、信じられないほど詳細な生地と石の質感、複雑なピアノの木目と金属細工。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076372874206523392/img/LP85iXuk554gqHXB.jpg" width="600" alt="ピアノを弾く女性の傑作ビデオ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7376)**
+
+**作者:** [Myluna](https://x.com/monicamoonx) | **ソース:** [Link](https://x.com/monicamoonx/status/2076372988182819015) | **公開日:** Jul 12, 2026
 
 ---
 ### プールサイドでピニャ・コラーダを楽しむ視点
@@ -1767,429 +2172,6 @@ FACS：AU6 + AU12 + AU25（中程度の強度）
 **作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2073238878723412103) | **公開日:** Jul 4, 2026
 
 ---
-### ポップコーンのプールで遊ぶ女性とエイリアン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> キャットスーツを着た女性とカウボーイ姿のエイリアンが、ポップコーンで満たされたプールで遊ぶ、シュールで楽しいビデオプロンプトです。
-
-#### 📝 プロンプト
-
-```
-ダイヤモンドのネックレスとピアスを身につけ、キャットスーツを着た長いブロンドヘアの美しい女性と、カウボーイハットとカウボーイ衣装をまとった大きな青い男性エイリアンが、ポップコーンで満たされた巨大なプールで遊んでいる様子
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073203927307177986/img/gd5F1J0f27MQzpZH.jpg" width="600" alt="ポップコーンのプールで遊ぶ女性とエイリアン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6856)**
-
-**作者:** [Sheelagh Mac Mathghamhna](https://x.com/abitoblarney) | **ソース:** [Link](https://x.com/abitoblarney/status/2073204014909378959) | **公開日:** Jul 4, 2026
-
----
-### Family Guy 風のコミカルな転倒
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Family Guy のスタイルにインスパイアされた、階段からコミカルに転げ落ちるキャラクターの動画生成用プロンプトです。
-
-#### 📝 プロンプト
-
-```
-Family Guy で見られるような、とてもコミカルな方法で階段から転げ落ちる様子を生成してください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073147482532454400/img/aR5MbtGnXRJgSUBO.jpg" width="600" alt="Family Guy 風のコミカルな転倒">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6810)**
-
-**作者:** [Jeremy Judkins](https://x.com/jeremyjudkins_) | **ソース:** [Link](https://x.com/jeremyjudkins_/status/2073147550543065228) | **公開日:** Jul 3, 2026
-
----
-### 穏やかに語りかけるファッションモデルのビデオポートレート
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> スタジオでファッションモデルがカメラに向かって穏やかに語りかける、クローズアップのシネマティックな動画生成用プロンプト。
-
-#### 📝 プロンプト
-
-```
-彼女はカメラに向かって非常に穏やかに語りかけます。「私にとって何がリアルに感じられるか知りたい？ これがリアルなのよ。」
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073086602998669312/img/uzh8FsXEwcaY0AXs.jpg" width="600" alt="穏やかに語りかけるファッションモデルのビデオポートレート">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6815)**
-
-**作者:** [Carolina Delgado](https://x.com/carolletta) | **ソース:** [Link](https://x.com/carolletta/status/2073086668555616662) | **公開日:** Jul 3, 2026
-
----
-### 感動的な映画館のシーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 薄暗い映画館で、映画を見ながら涙を隠そうとする女性を描いたビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-固定ショット。シーン内の全員が映画を鑑賞している。フレーム中央の女性は、平静を装おうと必死になりながら、静かに涙を拭っている。ライティング：部屋は薄暗い状態を維持すること。照明は変更せず、プロジェクターの光が明滅する様子を表現すること。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073081606798245888/img/ZzQFC_U3AwMG3ohk.jpg" width="600" alt="感動的な映画館のシーン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6816)**
-
-**作者:** [auqib](https://x.com/auqibhabib) | **ソース:** [Link](https://x.com/auqibhabib/status/2073081684627751041) | **公開日:** Jul 3, 2026
-
----
-### カスタムフードトラックのアニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 特定の看板とキャンパー屋根を備えた、夕暮れ時の活気あるフードトラックの動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-ゴールデンアワーに駐車された、ポップアップ式のキャンパー屋根を広げた活気あるカスタムフードトラック。トラックの側面には「Nomi's nourishes heart ♥️ & love of Christ 🙏」と正確に記された、大胆な手描きのロゴ。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073065027460878336/img/KUujS7HE0EoeSn-x.jpg" width="600" alt="カスタムフードトラックのアニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6808)**
-
-**作者:** [Lala](https://x.com/LalaBFox) | **ソース:** [Link](https://x.com/LalaBFox/status/2073065215852179699) | **公開日:** Jul 3, 2026
-
----
-### 神性を夢見るアニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 神性と人間性についての夢をテーマにした、スピリチュアルなシーン向けのビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-彼は神の夢を見ている。イエスが現れ、良き人間であるためにはどうすべきかを彼に教え、導く。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073042545282891776/img/8vdpsnWvi6Poutn3.jpg" width="600" alt="神性を夢見るアニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6814)**
-
-**作者:** [Moral English](https://x.com/XMoralEnglish) | **ソース:** [Link](https://x.com/XMoralEnglish/status/2073042630896963693) | **公開日:** Jul 3, 2026
-
----
-### ホラーキャビン・呪文の動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 人里離れたキャビンで呪文や悪魔憑きが発生する、ホラー映画のシークエンスを描写した動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-5 人の友人と tBruce Campbell が斧を手に、森の奥深くにある人里離れたキャビンへと向かう。そこで彼らが呪文が録音されたテープを再生したことで悪魔が解き放たれ、次々と憑依されていく。最後に残った 1 人が、生き残りをかけて戦う。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072947271906553856/img/GkHz06weSGMdrMfn.jpg" width="600" alt="ホラーキャビン・呪文の動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6812)**
-
-**作者:** [David Williams](https://x.com/DavidWilliamsYN) | **ソース:** [Link](https://x.com/DavidWilliamsYN/status/2072947330916184298) | **公開日:** Jul 3, 2026
-
----
-### ハンディカメラで撮影した路地裏の猫のシークエンス
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 女性が路地裏で猫を見つける様子をハンディカメラで追う、カジュアルな Vlog スタイルのシネマティックな動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-ハンディカメラが、植物が並ぶ狭い路地へと入っていく彼女の後ろ姿を追う。彼女は野良猫を見つけて歩みを緩め、しゃがみ込む。撮影者が追いつこうとする中で、フレームが中心からわずかにずれる。自然光、カジュアルな Vlog の動き。
-Persistent --
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072943824876306432/img/Ukkc9ZlojOmJMBe8.jpg" width="600" alt="ハンディカメラで撮影した路地裏の猫のシークエンス">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6811)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2072943892731691042) | **公開日:** Jul 3, 2026
-
----
-### 韓国人女性の日常を捉えたシネマティックな動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> カジュアルな日常着を身にまとった若い韓国人女性のリアルな動画を生成するための詳細なプロンプトです。特に衣服の質感や髪型のディテールに焦点を当てています。
-
-#### 📝 プロンプト
-
-```
-A.I. の世界で最高の人生を送る若い韓国人女性、20 代前半、自然で日常的な外見、色あせたチャコールグレーのノースリーブクロップトップ、ゆったりとしたハイウエストのライトウォッシュジーンズ、黒のキャンバススニーカー、黒のコードネックレス、無造作なサイドポニーテールに薄い前髪を合わせた黒のウェーブヘア
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072890092838862848/img/EQ-pwHohNBpjCxmc.jpg" width="600" alt="韓国人女性の日常を捉えたシネマティックな動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6809)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2072890171352125729) | **公開日:** Jul 3, 2026
-
----
-### ブラジル国旗のビデオ背景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ブラジル国旗の要素（緑の地、黄色のひし形、青い地球儀）を使用してビデオ背景を作成するための Grok Imagine 用プロンプト。
-
-#### 📝 プロンプト
-
-```
-最初の画像のブラジル国旗を背景全体に使用してください。緑の地、黄色のひし形、そして白い星と「ORDEM E PROGRESSO」の白い帯が描かれた青い地球儀を含めてください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072835615654297600/img/iGyVD4ClOjpK39wo.jpg" width="600" alt="ブラジル国旗のビデオ背景">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6807)**
-
-**作者:** [Ami A](https://x.com/AA63782) | **ソース:** [Link](https://x.com/AA63782/status/2072835668548702400) | **公開日:** Jul 3, 2026
-
----
-### Snorricam を使用したキャビンでのホラーシーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Snorricam アングルを用いて、謎の人物に追われながらキャビン内でパニックに陥る女性を描写した詳細なホラープロンプト。
-
-#### 📝 プロンプト
-
-```
-取り憑かれたような恐怖 / ホラー。Snorricam カメラアングルを使用し、周囲の世界が揺れ動く中で、被写体の顔をフレーム内に固定します。これにより、セリフを使わずにキャラクターの精神状態を物理的に表現します。アロノフスキー監督の『レクイエム・フォー・ドリーム』で薬物によるパニックを描写するために有名になりましたが、文脈に応じて多幸感、孤独、恐怖、乖離を表現するのにも同様に効果的です。肌の質感や毛穴まで繊細に描かれた色白の若い女性、緑の瞳、自然な赤色のロングヘア、サイドに流した薄い前髪。ストイックな表情、わずかに緊張した様子、細い眉、小さな鼻ピアスをした自然な形の鼻、高い頬骨、ふっくらとした柔らかいピーチ色の唇。黒のタンクトップの上に、ボタン付きの錆びたオレンジ色のセーターを着用。小さな金の十字架のネックレス。ミッドフレーム、両手は体の横に、目は真っ直ぐカメラを見つめている。大きなレンガ造りの暖炉がある広いキャビン内、低照度、深い影、リアルなレンダリング、浅い被写界深度、A24 インディーズホラー映画スタイル。森から影に包まれた一人の男が現れ、彼女を追う。男は立ち止まり、歩き去る彼女をただ見つめている。自然な瞬きが続く。
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2072832751275839488/pu/img/TSfH8--S8goCReu8.jpg" width="600" alt="Snorricam を使用したキャビンでのホラーシーン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6813)**
-
-**作者:** [NYXEN](https://x.com/NYXEN_77) | **ソース:** [Link](https://x.com/NYXEN_77/status/2072832789968306469) | **公開日:** Jul 3, 2026
-
----
-### 札束の上の猫たち
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 札束の上に座る猫たちと、柔らかな寝室の光の中で揺れる風船を捉えた、繊細な動きの動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-緩やかなカメラの動き。猫たちがまばたきをし、札束の上で尻尾を揺らしています。子猫が金の風船を軽く叩くと、風船がわずかに揺れます。カップルはキスを交わしたままです。柔らかな寝室の光、繊細な動きのみ。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072808304477159424/img/1KSoWQMoOXanp_SJ.jpg" width="600" alt="札束の上の猫たち">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6741)**
-
-**作者:** [Maggie Juang 🦢](https://x.com/maggiejuang1) | **ソース:** [Link](https://x.com/maggiejuang1/status/2072808375604117939) | **公開日:** Jul 2, 2026
-
----
-### 星明かりとタンポポの綿毛の女神
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 世界の果てで、光り輝くタンポポの綿毛を放ち、それが明日の星へと姿を変える様子を描いた詩的なビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-彼女はすべての世界の果てに立ち、昨日までの願いをその両手に抱いている。彼女が光り輝くタンポポの綿毛を解き放つと、それらは舞い上がり、花開き、そして明日の星へと変わっていく。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072801371737202689/img/o54qn6BMN41w_nr2.jpg" width="600" alt="星明かりとタンポポの綿毛の女神">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6747)**
-
-**作者:** [SophieZX](https://x.com/Z_XSophie) | **ソース:** [Link](https://x.com/Z_XSophie/status/2072801622640525764) | **公開日:** Jul 2, 2026
-
----
-### ブティック・ガーデン・ヘアサロン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 庭園に佇むブティック・ヘアサロンの、細部までこだわったシネマティックなプロンプト。ガラス張りの壁、ハーブが並ぶ小道、温かみのある木製のインテリアが特徴です。
-
-#### 📝 プロンプト
-
-```
-庭園の中に佇む静かなブティック・ヘアサロン。床から天井まである大きな窓からは、ローズマリー、ラベンダー、セージ、ミントが植えられたテラコッタの鉢が並ぶ石畳のテラスへと続いています。室内には温かみのある木製のカウンターや籐の椅子が置かれ、柔らかな光がドラマチックな効果を演出しています。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072794304259424256/img/2gY6VzYvGxDCtXUv.jpg" width="600" alt="ブティック・ガーデン・ヘアサロン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6743)**
-
-**作者:** [Lala](https://x.com/LalaBFox) | **ソース:** [Link](https://x.com/LalaBFox/status/2072794777272099095) | **公開日:** Jul 2, 2026
-
----
-### Buick Enclave のフェミニンなデザイン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> エレガントでフェミニンなデザインの Buick Enclave のサイドビューと、ヘルシーな食事のイメージを描写したビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-エレガントでフェミニンなデザインでラッピングされた Buick Enclave のサイドビュー、温かみのあるニュートラルカラー、新鮮でヘルシーな食事、カラフルなスムージー、グルメなタマレス、新鮮な食材の美しいイメージ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072764635900432384/img/DRqnx5MrpZvA0eOV.jpg" width="600" alt="Buick Enclave のフェミニンなデザイン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6738)**
-
-**作者:** [Lala](https://x.com/LalaBFox) | **ソース:** [Link](https://x.com/LalaBFox/status/2072764809699811343) | **公開日:** Jul 2, 2026
-
----
-### ゴシック調の妖精とスタイリッシュな男性が歩く様子
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> プラットフォームヒールを履いたゴシック調の妖精と、シルバーのアクセントが効いた黒のスーツを纏ったハンサムな男性が、並んで道を歩く様子を描いたシネマティックなビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-ゴシック調の妖精 
-プラットフォームヒール 
-道を歩く
-シルバーのアクセントが効いたスタイリッシュな黒のスーツを着たハンサムな男性が並んで歩く
-二人は言葉を交わさず、互いを理解し合いながら歩いている
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072712144089735168/img/w8KweMtlETnNpbhT.jpg" width="600" alt="ゴシック調の妖精とスタイリッシュな男性が歩く様子">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6737)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2072712207855673501) | **公開日:** Jul 2, 2026
-
----
-### 韓国ドキュメンタリー風動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 2000 年代の DV ビデオカメラの質感を再現し、韓国の住宅街での日常のひとコマを切り取った、詳細なマルチシーン動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-メイン被写体：20 代前半の韓国人女性。自然体で日常的な外見。色あせたチャコールグレーのノースリーブクロップトップ、ゆったりとしたハイウエストのライトウォッシュジーンズ、黒のキャンバススニーカー、黒のコードネックレスを着用。黒髪のウェーブヘアを無造作なサイドポニーテールにまとめ、薄い前髪を下ろしている。リアルな肌の質感、ナチュラルメイク。親しみやすく温かい雰囲気。動画全体を通して、人物のアイデンティティ、服装、髪型、外見を維持すること。
-ロケーション：穏やかな午前中の韓国の住宅街。狭いコンクリートの路地、低層住宅、小さなテラス、鉢植え、物干し、自転車、電柱、頭上の電線、木漏れ日が揺れる成熟した木々。静かな住宅街の雰囲気。店舗、広告、カフェ、人混み、商業的な要素は一切なし。
-映像スタイル：超リアルなドキュメンタリー調。自然で飾らない行動。リアルなボディランゲージ。台本のない日常の風景。環境の強いリアリティ。現実世界の豊かなディテールと、説得力のある人間の動き。
-カメラスタイル：2000 年代初頭の家庭用 DV ビデオカメラの質感。友人が日常の瞬間を何気なく撮影しているような雰囲気。激しい手ブレ、不完全なフレーミング、頻繁なオートフォーカスの迷い、レンズブリージング、日向と日陰を移動する際の露出の変化、時折発生するモーションブラー、わずかなローリングシャッター現象、微細なデジタル圧縮ノイズ、色あせた色味、柔らかなコントラスト、センサーノイズ。手ブレ補正なし。映画のようなカメラワークは禁止。現代的なカラーグレーディングは行わないこと。
-00:00–00:02
-小さな家の玄関先。低いコンクリートの壁に座り、両手を上げてポニーテールを整えている。軽い風で髪が揺れる。カメラがピント合わせに苦戦する中、彼女は自然な笑顔を見せる。
-00:02–00:04
-カメラが彼女を追い、鉢植えとコンクリートの壁が並ぶ狭い路地へ。野良猫が近づいてくるのに気づき、彼女がしゃがみ込む。撮影者が追いつこうとするため、フレーミングが中心から外れる。
-00:04–00:06
-彼女が優しく猫を撫でて餌をやる。オートフォーカスが彼女の顔と猫の間で繰り返し切り替わる。頭上の葉の間から朝の光が差し込む。
-00:06–00:08
-家の横の小さな前庭。物干し竿に洗濯物を干しており、布地が風に揺れている。雲が通り過ぎるにつれて露出が変化する。
-00:08–00:10
-陶器のコーヒーカップを手に、静かなテラスに座っている。くつろいだ様子で近所を眺め、時折髪を耳にかける。自然なカメラの揺れを伴う、ゆったりとした手持ちのサイドショット。
-00:10–00:12
-横顔のクローズアップ。カメラの外から誰かが挨拶をする。彼女が振り返り、手を挙げて温かく微笑み、何気なく「アンニョン」と言う。カメラがその瞬間をわずかに遅れて捉える。
-00:12–00:15
-コーヒーカップを手に、木々が並ぶ住宅街の道をゆっくりと歩く。カメラに気づき、心からの小さな微笑みを浮かべた後、視線を外して歩き続ける。ビデオカメラの電源を切ったかのように、動きの途中で突然映像がブラックアウトする。
-
-オーディオ：自然な環境音のみ。朝の鳥のさえずり、遠くのバイクの音、かすかな
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072637467816271873/img/i8GL9q7gukT0eCIh.jpg" width="600" alt="韓国ドキュメンタリー風動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6745)**
-
-**作者:** [Varun Mehta](https://x.com/varun_j_mehta) | **ソース:** [Link](https://x.com/varun_j_mehta/status/2072637540092588361) | **公開日:** Jul 2, 2026
-
----
-### 静かに咲き誇るホワイトレース
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 繊細なレースと柔らかく咲き誇る夢のようなビジュアルを特徴とする、平和で幻想的な雰囲気を醸し出すシネマティックなビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-静かに咲き誇るホワイトレース。繊細なレースの囁きと、柔らかく咲き誇る夢の情景。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072630157358268417/img/RAQoETfhBUEbJNII.jpg" width="600" alt="静かに咲き誇るホワイトレース">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6817)**
-
-**作者:** [Stella 𝕏](https://x.com/StellaGrokStar) | **ソース:** [Link](https://x.com/StellaGrokStar/status/2072630235775017264) | **公開日:** Jul 2, 2026
-
----
-### Glow Mask Rebirth
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 仮面が割れて光が溢れ出す様子を描いた象徴的なビデオプロンプト。悲しみから再生へと向かう変化を表現しています。
-
-#### 📝 プロンプト
-
-```
-静かな悲しみから、輝かしい再生へ。仮面が割れ、内なる光が解き放たれる瞬間をご覧ください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072601714033860608/img/esqhukiAJvhFgcs3.jpg" width="600" alt="Glow Mask Rebirth">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6746)**
-
-**作者:** [Shah](https://x.com/ai_with_shah) | **ソース:** [Link](https://x.com/ai_with_shah/status/2072601802323980359) | **公開日:** Jul 2, 2026
-
----
-### ボールを追いかける子犬
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 緑の芝生の上で赤いボールを追いかけるゴールデンレトリバーの子犬を捉えた、ダイナミックなサイドビューの動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-遊び心あふれるゴールデンレトリバーの子犬が、日差しが降り注ぐ公園の芝生の上で、赤いボールを元気いっぱいに追いかけています。尻尾を振りながら楽しそうに跳ねたり走ったりする様子を、カメラがサイドビューで滑らかに追いかけ、鮮やかな緑の芝生を捉えています。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072596733629231104/img/xl6IJHKlOAnKNQ_I.jpg" width="600" alt="ボールを追いかける子犬">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6742)**
-
-**作者:** [Grok imagine user](https://x.com/imagine_user_) | **ソース:** [Link](https://x.com/imagine_user_/status/2072596754328154327) | **公開日:** Jul 2, 2026
-
----
-### 毛布と遊ぶ子猫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 毛布と遊ぶふわふわした子猫の動画プロンプト。呼吸や尻尾の動きなど、繊細な動作を詳細に描写しています。
-
-#### 📝 プロンプト
-
-```
-愛らしくふわふわした子猫が、柔らかい毛布にじゃれつき、大きな瞳で好奇心旺盛に首をかしげています。日当たりの良い心地よい空間の中で、自然な動きや穏やかな呼吸が繊細に表現されています。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072591636929093632/img/xDWl3tznnmXdV6YS.jpg" width="600" alt="毛布と遊ぶ子猫">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=6739)**
-
-**作者:** [Grok imagine user](https://x.com/imagine_user_) | **ソース:** [Link](https://x.com/imagine_user_/status/2072591652175425705) | **公開日:** Jul 2, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2251,6 +2233,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-17T06:39:24.367Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-17T10:25:41.373Z</sub>
 
 </div>
