@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **2143** |
+| 📝 총 프롬프트 수 | **2165** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-07-18** |
 
@@ -189,6 +189,432 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 또띠아 칩 디핑 밈
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 피크닉 배경에서 또띠아 칩이 다양한 소스에 찍히는 모습을 담은 애니메이션 밈을 위한 설명형 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+밈을 하나 만들고 싶습니다. 또띠아 칩이 여러 가지 색상의 소스에 계속해서 찍히는 장면이 필요합니다.
+
+그리고 여성의 손이 칩을 들고 있는 모습을 추가해 주세요.
+
+배경은 미국 북동부의 호숫가나 해변에 있는 피크닉 장소로 설정해 주세요. 그곳에는...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078259138434412544/img/SiWxqpOIS3xbaoj7.jpg" width="600" alt="또띠아 칩 디핑 밈">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7449)**
+
+**작성자:** [Tommy](https://x.com/tomrcaruso) | **출처:** [Link](https://x.com/tomrcaruso/status/2078259151654863249) | **게시일:** Jul 17, 2026
+
+---
+### 미래지향적인 3D 설계도와 외계 기술
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 황금빛 설계도, 나노 기술, 그리고 포털에서 쏟아져 나오는 다채로운 색상의 외계 공학적 선물들을 담은 하이테크 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+포털에서 쏟아져 나오는 수많은 3D 설계도, 반중력 추진 장치, 나노 기술, DNA, 칩, 무선 기술, 외계 기술의 경이로움, 인류에게 주어진 공학적 선물, 대화 없음, 황금빛 설계도, 노란색, 초록색, 파란색, 빨간색, 제조
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078255485120028672/img/iG7rCcKsfBCNp0o1.jpg" width="600" alt="미래지향적인 3D 설계도와 외계 기술">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7463)**
+
+**작성자:** [JordanPaul](https://x.com/JordanPauldt3) | **출처:** [Link](https://x.com/JordanPauldt3/status/2078255523065922002) | **게시일:** Jul 17, 2026
+
+---
+### 풍자적인 슈가 대디 영상 변환
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 원본 피사체를 변경하지 않고 특정 사진을 풍자적인 테마 영상으로 애니메이션화하는 이미지-투-비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+슈가 대디 이데올로기를 풍자하는 영상으로, 사진은 그대로 유지하면서 영상으로 변환해 줘
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078247343724396544/img/T7IhOpC-6Dimr6OK.jpg" width="600" alt="풍자적인 슈가 대디 영상 변환">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7464)**
+
+**작성자:** [Mike Rush](https://x.com/MichaelPRush1) | **출처:** [Link](https://x.com/MichaelPRush1/status/2078247393271677078) | **게시일:** Jul 17, 2026
+
+---
+### 시골 쥐 앰비언트 영상 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 남부 억양을 가진 부드러운 시골 쥐와 편안한 앰비언트 사운드가 어우러진 감각적인 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+부드럽고 온화한 남부 억양의 시골 쥐 목소리, "이것은 아이스크림이야"라고 말하는 작은 젓는 소리, 창문을 통해 들려오는 작은 풍경 소리, 부드러운 산들바람에 살랑이는 귀여운 시골풍 커튼
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078242624801009664/img/GxFvUCSpEm0AY4bX.jpg" width="600" alt="시골 쥐 앰비언트 영상 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7462)**
+
+**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2078242696322322629) | **게시일:** Jul 17, 2026
+
+---
+### 우주선 탈출 액션 장면
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 우주선 안에서 폭발을 피해 달리는 외계인과 진홍색 드레스를 입은 여성의 액션 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+키가 큰 푸른 외계인과 긴 웨이브 금발 머리를 땋고 다이아몬드 귀걸이와 목걸이를 착용한 진홍색 드레스 차림의 아름다운 여성이 손을 잡고 뒤에서 폭탄이 터지는 우주선을 가로질러 달리고 있다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078238146882367488/img/Ird_lFOGKNY_zjgd.jpg" width="600" alt="우주선 탈출 액션 장면">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7446)**
+
+**작성자:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **출처:** [Link](https://x.com/blarneytrades/status/2078238181154013612) | **게시일:** Jul 17, 2026
+
+---
+### 네루다 시(詩) 시네마틱 돌리 줌
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 파블로 네루다의 시와 인물의 얼굴을 향한 느린 돌리 줌 카메라 무빙을 결합한 시네마틱 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+당신의 침묵으로도 내게 말하게 해주오. 등불처럼 맑고, 반지처럼 단순한 그 침묵으로. 당신은 밤과 같으니, 고요하고 별이 빛나오. 당신의 침묵은 별의 침묵, 그토록 멀고 단순한 것. 당신이 침묵할 때 나는 당신을 좋아하니, 당신은 마치 부재하는 것처럼 보이기 때문이오. - 파블로 네루다 - 시 15번 (1924년) 
+그녀가 고개를 돌릴 때 얼굴을 향해 천천히 다가가는 시네마틱 돌리 줌 ……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078235059685826560/img/78MU6Gf3yJ8bUvLC.jpg" width="600" alt="네루다 시(詩) 시네마틱 돌리 줌">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7461)**
+
+**작성자:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **출처:** [Link](https://x.com/clemensilverio/status/2078235180951654614) | **게시일:** Jul 17, 2026
+
+---
+### Lunar Cross Monument 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 달에 영광스러운 십자가를 세우기 위한 전 세계적인 노력을 담은 웅장하고 영화 같은 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+전 세계가 힘을 합쳐 달에 첫 번째 십자가를 세우는 모습을 상상해 보세요. 영광스럽고 모든 면에서 놀라운 장면입니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078206578407157760/img/oGzyeg8T7_EDDSAe.jpg" width="600" alt="Lunar Cross Monument 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7452)**
+
+**작성자:** [the_light](https://x.com/the_light35) | **출처:** [Link](https://x.com/the_light35/status/2078206660540039569) | **게시일:** Jul 17, 2026
+
+---
+### SF 호러 코쿤 모션
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 대리석 바닥 위 고무 코쿤 안에서 벌어지는 사투를 묘사한 상세한 SF 호러 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+벨보이의 검은색 고무 코쿤이 열린 상자 옆 황금빛 객실 바닥으로 세게 넘어진 뒤, 딱딱하고 매끄러운 포드 안에 갇힌 채 대리석 위에서 좌우로 격렬하게 꿈틀거리며 몸부림치는 SF 호러 시네마틱 모션.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078205269784293376/img/iQJKcRtp2Ub1ntkM.jpg" width="600" alt="SF 호러 코쿤 모션">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7460)**
+
+**작성자:** [William Looby](https://x.com/WilliamLooby) | **출처:** [Link](https://x.com/WilliamLooby/status/2078205297802289155) | **게시일:** Jul 17, 2026
+
+---
+### SF 외계인 우주 댄스
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 우주선 갑판 위에서 외계인과 검은색 캣슈트를 입은 여성이 춤을 추는 모습을 담은 상세한 SF 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+키가 큰 파란색 외계인과 검은색 캣슈트를 입은 아름다운 여성이 느리게 춤을 추고 있습니다. 여성은 땋은 머리가 섞인 긴 웨이브 금발 머리에 다이아몬드 귀걸이와 다이아몬드 목걸이를 착용하고 있으며, 두 사람 모두 방독면을 쓴 채 우주선 메인 갑판에서 불꽃놀이를 배경으로...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078184093070630912/img/89vs2_ijTQiKvpTk.jpg" width="600" alt="SF 외계인 우주 댄스">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7445)**
+
+**작성자:** [Sheelagh Mac Mathghamhna](https://x.com/abitoblarney) | **출처:** [Link](https://x.com/abitoblarney/status/2078184117875744912) | **게시일:** Jul 17, 2026
+
+---
+### 청춘의 샘 비밀 정원
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 분수와 평화로운 분위기가 어우러진 신비로운 정원 영상을 생성하기 위한 풍성하고 경치 좋은 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+Annabelle 🪻🌸🌹🐞🍇⛲️🌲
+
+이 아름다운 정원은 청춘의 샘이 있는 곳입니다. 영원한 생명과 끝없는 평화의 원천을 제공합니다 ✌️.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078183762882338817/img/bW9GjeVYURMKIgCk.jpg" width="600" alt="청춘의 샘 비밀 정원">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7451)**
+
+**작성자:** [Philip Carr](https://x.com/PhilipCarrn7711) | **출처:** [Link](https://x.com/PhilipCarrn7711/status/2078183805542609356) | **게시일:** Jul 17, 2026
+
+---
+### 끊김 없는 몬순 우기 루프
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 깜빡이는 조명과 물결이 있는 빗속 풍경을 고정된 카메라 샷으로 담아내기 위한 복합적이고 다단계적인 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+삼각대를 사용한 고정 샷으로, 카메라가 완전히 멈춰 있어야 합니다. 줌, 팬, 푸시 인/아웃 등 어떠한 카메라 움직임도 없어야 합니다. 끊김 없는 루프를 위해 첫 프레임부터 마지막 프레임까지 화면의 크기와 위치가 정확히 동일하게 유지되어야 합니다.
+
+오직 다음 요소들만 부드럽고 지속적으로 움직입니다: 따뜻한 조명 사이로 쏟아지는 거센 몬순 비, 고인 물에 떨어지며 잔잔한 파동을 일으키는 빗방울, 따뜻하게 일렁이는 황동 오일 램프(디야)의 불꽃, 거의 눈에 띄지 않게 흔들리는 매달린 조명, 배경에서 느릿하게 흐르는 옅은 안개, 빗속에서 희미하게 반짝이는 먼 거리의 불빛.
+
+클립의 시작과 끝이 거의 동일하게 보이도록 모든 움직임을 차분하고 느리며 자연스럽게 유지하세요. 컷, 점프, 장면 전환, 카메라 흔들림이 없는 매끄러운 영화적 심리스 루프를 구현하세요.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078177855280730112/img/JfojpFLsFGeQndvX.jpg" width="600" alt="끊김 없는 몬순 우기 루프">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7447)**
+
+**작성자:** [MarketMaverick](https://x.com/AKCapStrat) | **출처:** [Link](https://x.com/AKCapStrat/status/2078178274987876455) | **게시일:** Jul 17, 2026
+
+---
+### 야간 부두 실루엣 영상 편집
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 반딧불이를 추가하고 호숫가 부두에 앉은 커플을 우주적인 실루엣으로 변환하는 다단계 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+반딧불이 추가
+부두 끝에 앉아 발을 물에 담그고 있는 남녀 추가
+남녀를 우주적인 그림자 실루엣으로 변경
+
+부두 끝에 앉아 호수를 바라보고 있는 남녀의 뒷모습
+남녀가 서로를 바라보며 얼굴을 돌림...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078175189876228096/img/-c3jM7q83iyyeDax.jpg" width="600" alt="야간 부두 실루엣 영상 편집">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7453)**
+
+**작성자:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **출처:** [Link](https://x.com/HawkinsonLindy/status/2078175251276652699) | **게시일:** Jul 17, 2026
+
+---
+### 세월의 흔적을 간직한 노인의 독백
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 지혜를 나누는 노인의 모습을 담은 극사실주의 익스트림 클로즈업을 위한 정교한 시네마틱 프롬프트로, 디테일한 질감과 동기화된 대사가 특징입니다.
+
+#### 📝 프롬프트
+
+```
+깊게 패인 주름과 은회색 수염, 감정이 담긴 푸른 회색 눈동자, 그리고 차분하고 사색적인 표정을 지닌 노인의 친밀한 익스트림 클로즈업 초상화입니다. 그의 얼굴이 화면을 거의 가득 채우며 미세한 주름, 자연스러운 피부 질감, 검버섯, 그리고 미묘한 잡티까지 극도로 사실적으로 드러납니다. 한쪽에서 들어오는 부드러운 확산광이 얼굴 윤곽을 은은하게 조각하며 눈가와 광대뼈 주변에 섬세한 그림자를 만듭니다. 차갑고 채도가 낮은 블루 및 틸 색감 보정, 얕은 피사계 심도, 부드럽게 흐려진 배경, 영화적 구도, 진정성 있는 감성 다큐멘터리 사진, 85mm 인물 사진 렌즈, f/1.8 조리개, 눈동자에 초점을 맞춘 날카로운 선명도, 미세한 필름 그레인, 높은 다이내믹 레인지, 가공되지 않은 시대를 초월한 분위기를 연출합니다.
+
+카메라는 거의 알아차릴 수 없을 정도로 천천히 다가가는 단일 연속 익스트림 클로즈업을 유지합니다. 노인은 자연스럽게 숨을 쉬고, 가끔 눈을 깜빡이며, 기억이 떠오를 때 미세한 표정 변화를 보입니다. 그의 눈은 약간 촉촉하게 빛나고, 마지막에는 희미하고 사려 깊은 미소가 나타납니다. 그의 입술은 카메라와 차분한 눈 맞춤을 유지하면서 완벽하게 동기화된 대사를 내뱉습니다. 모든 얼굴 움직임은 진정성 있고 절제되어 있습니다.
+
+대사 (15초):
+“젊었을 때는 성공이 영원할 줄 알고 쫓아다녔지. 하지만 이제는 알아… 사랑하는 사람들과 함께 나눈 순간들만이 시간이 결코 앗아갈 수 없는 유일한 것이라는 걸.”
+
+부드러운 멈춤이 포함된 자연스러운 대화 속도, 완벽한 입술 동기화, 사실적인 안면 근육 움직임, 미묘한 눈동자 움직임, 부드러운 호흡, 다큐멘터리 스타일의 연기, 과장 없는 연기, 자막 없음, 화면 내 텍스트 없음, 배경 음악 없음, 오직 조용한 방 안의 공기 소리와 그의 자연스러운 목소리의 온기만 담겨 있습니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078126631454130176/img/Qu2cocBFk9NfFjaz.jpg" width="600" alt="세월의 흔적을 간직한 노인의 독백">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7458)**
+
+**작성자:** [BMX](https://x.com/bmx_ai13) | **출처:** [Link](https://x.com/bmx_ai13/status/2078126675540455669) | **게시일:** Jul 17, 2026
+
+---
+### 혹등고래 우주 포털
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 혹등고래가 차원을 넘나드는 우주선이자 외계 종족을 위한 포털로 변하는 초현실적인 영화적 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+혹등고래 🐋, 그 경이로움 👽🛸
+
+이 장면은 혹등고래 🐋가 외계 종족을 다른 세계로 실어 나르는 우주선 🚀이 되어 또 다른 차원으로 연결되는 포털로 변하는 모습을 담고 있습니다....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078118809253158912/img/GNQu9B67SskBJ0EK.jpg" width="600" alt="혹등고래 우주 포털">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7456)**
+
+**작성자:** [Philip Carr](https://x.com/PhilipCarrn7711) | **출처:** [Link](https://x.com/PhilipCarrn7711/status/2078118847979106524) | **게시일:** Jul 17, 2026
+
+---
+### 아크로바틱 무술 전투
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 숙련된 아크로바틱 연기자들이 펼치는 강렬한 액션 프롬프트로, 대사 없이 전체 카메라 앵글로 촬영된 드라마틱한 무술 시퀀스를 담고 있습니다.
+
+#### 📝 프롬프트
+
+```
+두 사람 모두 숙련된 아크로바틱 연기자이자 모든 무술에 능통합니다. 살기를 띠고 쉴 새 없이 움직입니다. 전체 카메라 앵글이 모든 타격과 아슬아슬한 순간을 포착합니다. 드라마틱한 조명. 대사 없음, 음악 없음
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078088291551707136/img/pblRDCAL2KzHNICH.jpg" width="600" alt="아크로바틱 무술 전투">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7459)**
+
+**작성자:** [Datedman](https://x.com/Datedman) | **출처:** [Link](https://x.com/Datedman/status/2078088307477447101) | **게시일:** Jul 17, 2026
+
+---
+### 헤드샷 이미지 변환
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 입력된 사진을 얼굴 특징을 유지하면서 전문 스튜디오 헤드샷으로 변환하도록 설계된 변환 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+이 사진을 동일한 남성의 사실적인 전문 스튜디오 헤드샷으로 변환하세요. 얼굴 형태, 비율, 짧은 갈색 머리, 헤어라인, 옅은 수염, 피부 톤, 실제 점과 주름이 포함된 자연스러운 피부 질감, 실제 나이 등을 그대로 유지하면서 f...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078072979250925568/img/FJevrN9Yi-6Oh8QY.jpg" width="600" alt="헤드샷 이미지 변환">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7448)**
+
+**작성자:** [joedixon22@gmail.com](https://x.com/Yesyesyes_OK) | **출처:** [Link](https://x.com/Yesyesyes_OK/status/2078072992219709491) | **게시일:** Jul 17, 2026
+
+---
+### 말을 타듯 즐기는 오토바이 라이딩
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 마치 말을 타는 것처럼 오토바이에 올라타 질주하는 캐릭터를 위한 독특한 모션 프롬프트로, 파도가 부서지는 부두를 배경으로 합니다.
+
+#### 📝 프롬프트
+
+```
+말을 타는 것과 동일한 방식으로 오토바이에 탑승, 왼쪽 다리는 반드시 동일한 오토바이 위로 넘겨야 함, 동일한 모델 및 동일한 복장 유지, 파도가 부서지는 부두를 따라 신나게 질주하는 모습
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078059962836684800/img/VXEx_TgMlsQDue7T.jpg" width="600" alt="말을 타듯 즐기는 오토바이 라이딩">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7457)**
+
+**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2078060007975694402) | **게시일:** Jul 17, 2026
+
+---
+### 미래형 해상 도시와 비행 리무진
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 변신하는 럭셔리 이동 수단과 골든 아워 조명이 어우러진 초미래형 해상 도시를 위한 고도로 상세한 시네마틱 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+공중으로 변신하는 요트 선체 형태의 리무진, 디자이너 가방으로 접히는 고카트 등 변신하는 럭셔리 이동 수단들이 빛의 다리로 연결된 해상 빌라들 사이를 유영하는 항공 뷰. 흑요석 같은 바다, 백금색 건축물, 홀로그램 표지판 등 모든 표면이 거울처럼 빛납니다. 젖은 표면에 비치는 골든 아워의 햇살, 초호화 미래형 해상 도시, 놀랍도록 매끄러운 디테일과 웅장한 시네마틱 스케일.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078050676949590016/img/ARFEnSWuZFj3_nPS.jpg" width="600" alt="미래형 해상 도시와 비행 리무진">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7454)**
+
+**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2078053374671347881) | **게시일:** Jul 17, 2026
+
+---
+### 패션 런웨이 워킹
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 부츠를 신고 자신감 있게 걸으며 말썽꾸러기 같은 분위기를 풍기는 스타일리시한 여성 캐릭터를 위한 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+멋진 의상을 완벽하게 갖춰 입고, 마치 사고를 칠 것 같은 당당한 태도로 그 부츠를 신고 걸어보세요
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078048484221968384/img/O17b8JlonNgwa-FR.jpg" width="600" alt="패션 런웨이 워킹">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7444)**
+
+**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2078048544540270970) | **게시일:** Jul 17, 2026
+
+---
+### 스카이다이빙하는 강아지와 낙하산 타는 펭귄
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 스카이다이빙 고글을 착용한 강아지와 낙하산을 탄 펭귄이 영상 속에서 상호작용하는 창의적인 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+강아지 옆에 낙하산을 탄 펭귄을 배치하고 서로 대화를 나누게 하세요. 둘 다 스카이다이빙 고글을 착용하고 있어야 합니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077932647708508160/img/Fe-GLcxLdpmIuJkn.jpg" width="600" alt="스카이다이빙하는 강아지와 낙하산 타는 펭귄">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7455)**
+
+**작성자:** [Robin Murray](https://x.com/RobinMurrat43a) | **출처:** [Link](https://x.com/RobinMurrat43a/status/2077932663261032730) | **게시일:** Jul 17, 2026
+
+---
+### 우주 포털로 다가가는 중
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 혼란스러운 환경 속에서 미지의 포털로 조심스럽게 다가가는 캐릭터를 묘사한 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+그는 미지의 포털로 조심스럽게 다가가고 있습니다.
+
+혼란 속을 조심스럽게 걸어가려 노력하며, 뜨거운 열기를 느끼지 못하고 있습니다!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077926118774931456/img/5X1CFQdfzARRmlOz.jpg" width="600" alt="우주 포털로 다가가는 중">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7450)**
+
+**작성자:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **출처:** [Link](https://x.com/foxypatience/status/2077926150936912218) | **게시일:** Jul 17, 2026
+
+---
 ### 런던의 일몰과 시바견
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -358,6 +784,25 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7360)**
 
 **작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2077718643203260842) | **게시일:** Jul 16, 2026
+
+---
+### 미드나잇 레이스를 입은 발레리나
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 마젠타 꽃 아래에서 레이스 의상을 입고 공연하는 발레리나를 위한 우아한 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+늘어진 마젠타 꽃 아래, 미드나잇 레이스를 입고 우아하게 춤추는 발레리나. 🖤🌸
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077717424397553664/img/Z4ENagHANjXR2TWL.jpg" width="600" alt="미드나잇 레이스를 입은 발레리나">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7465)**
+
+**작성자:** [Stella 𝕏](https://x.com/StellaGrokStar) | **출처:** [Link](https://x.com/StellaGrokStar/status/2077717488071274861) | **게시일:** Jul 16, 2026
 
 ---
 ### 80년대 피트니스 AI 컴패니언
@@ -1705,473 +2150,6 @@ FPV 샷: 카메라는 아침 안개가 자욱한 숲속의 거대한 나무들 �
 **작성자:** [the_light](https://x.com/the_light35) | **출처:** [Link](https://x.com/the_light35/status/2075057016158986588) | **게시일:** Jul 9, 2026
 
 ---
-### 로맨틱한 연필 스케치 애니메이션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 커플의 정적인 연필 스케치 위에 키스 마크, 하트, 조명 효과가 떠다니는 애니메이션을 추가합니다.
-
-#### 📝 프롬프트
-
-```
-연필 스케치로 그려진 커플 뒤로 펼쳐지는 로맨틱한 플로팅 애니메이션: 수많은 키스 마크와 하트가 위로 떠오르며 천천히 소용돌이치고, 보케 조명이 깜빡이며, 반짝임이 빛나고, 부드러운 빛줄기가 흔들립니다. 깊은 배경 속에서는 사랑의 문구들이 은은하게 나타났다 사라집니다. 스케치 자체는 정지된 상태로 유지되며 배경 요소들만 움직입니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074851646090174464/img/2mqfgIrxWodVjovB.jpg" width="600" alt="로맨틱한 연필 스케치 애니메이션">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6973)**
-
-**작성자:** [joscilene Laura](https://x.com/joscilene_maria) | **출처:** [Link](https://x.com/joscilene_maria/status/2074851707507355664) | **게시일:** Jul 8, 2026
-
----
-### 푸른 꽃들 사이의 소녀
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 부드러운 조명 아래 섬세한 블루 레이스 플라워에 둘러싸인 여성의 모습을 담은 우아하고 감성적인 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-섬세한 블루 레이스 플라워 사이로 피어난 다정한 소녀… 부드러운 빛과 고요한 우아함이 속삭이는 순간.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074818526465150976/img/JTcMYr90WtlwLQw6.jpg" width="600" alt="푸른 꽃들 사이의 소녀">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7232)**
-
-**작성자:** [Stella 𝕏](https://x.com/StellaGrokStar) | **출처:** [Link](https://x.com/StellaGrokStar/status/2074818638016909450) | **게시일:** Jul 8, 2026
-
----
-### 한국 시골집 여름 영상
-
-![한국어](https://img.shields.io/badge/lang-한국어-orange)
-
-> 전통적인 한국 시골집 내부의 향수를 불러일으키는 평화로운 여름 풍경을 생성하기 위한 시네마틱 4K 영상 프롬프트입니다. 햇살, 삼각형 수박 조각, 회전하는 선풍기가 포함되어 있습니다.
-
-#### 📝 프롬프트
-
-```
-오래된 목조 한국 시골집 거실을 배경으로 한 맑고 청량한 10초 분량의 여름 영상입니다. 열린 문과 창문을 통해 깨끗하고 밝은 햇살이 들어오며, 나무 바닥과 오래된 나무 벽이 따뜻하고 향수 어린 시골집 분위기를 자아냅니다. 전체적으로 밝고 통풍이 잘되는 여름 오후의 느낌입니다.
-
-문은 활짝 열려 있고, 문밖으로는 신선한 초록색 나무와 잎사귀들이 바람에 살랑거립니다. 밖은 맑고 푸르며, 조용한 시골의 여름 오후처럼 평화롭습니다.
-
-낮은 나무 탁자 위에는 둥근 금속 쟁반이 놓여 있습니다. 수박 조각은 탁자 위에 직접 놓이지 않고 쟁반 안에만 담겨 있습니다. 5~6개의 신선한 삼각형 수박 조각이 쟁반 위에 가지런히 놓여 있습니다. 각 수박 조각은 반달 모양이 아니라, 위쪽이 뾰족하고 아래쪽에 짧은 초록색 껍질이 있는 전형적인 삼각형 모양입니다. 카메라 시점에서 볼 때 빨간 과육 면은 맑은 삼각형 모양이며, 초록색 껍질은 삼각형의 아래쪽 가장자리를 따라 자연스럽게 붙어 있습니다. 수박은 너무 두껍지 않고 얇고 신선하며, 촉촉한 빨간 과육과 작은 검은 씨앗, 그리고 시원한 여름 수박의 느낌을 보여줍니다.
-
-쟁반 옆에는 색연필로 그린 여름 그림일기장이 놓여 있지만, 글씨는 읽을 수 없습니다. 그림일기 주변에는 색연필 몇 자루가 자연스럽게 놓여 있는데, 지저분하지 않고 사람이 살고 있는 듯한 느낌을 줍니다.
-
-탁자 옆 나무 바닥에는 낡은 선풍기가 놓여 있으며, 날개를 돌리며 좌우로 천천히 회전합니다. 선풍기 바람에 커튼과 그림일기 페이지가 살짝 움직이며, 햇살이 내리쬐는 더운 여름날이지만 방 안은 시원하고 여유롭게 느껴집니다.
-
-한국 시골집의 향수 어린 분위기, 맑은 햇살, 신선한 초록색 나무, 통풍이 잘되는 나무 거실, 부드러운 그림자, 사실적인 질감, 평화로운 여름 오후, 조용하고 편안한 분위기, 시네마틱 4K, 자연광, 금속 쟁반 위의 삼각형 수박 조각과 그림일기, 선풍기로 천천히 다가가는 카메라. 사람 없음.
-
-영상 길이: 10초. 화면 비율: 16:9. 분위기: 밝고, 신선하고, 향수를 불러일으키며, 평화롭고, 맑은 여름날 선풍기 바람이 부는 시원함.
-
-부정 프롬프트: 반달 모양 수박, 초승달 모양 수박, 둥글게 썬 수박, 원형으로 자른 수박, 탁자 위에 직접 놓인 수박, 쟁반 밖의 수박, 공중에 떠 있는 과일, 이상한 수박 모양, 기하학적으로 너무 딱딱한 삼각형, 왜곡된 수박 조각, 녹아내리는 과일, 너무 두꺼운 수박 조각, 두꺼운 수박 덩어리, 정육면체 모양 수박, 불규칙하게 깨진 조각, 지나치게 큰 수박 껍질, 인위적으로 보이는 과일, 창백하고 마른 수박, 중앙에 쌓인 수박, 지저분한 과일 배치, 어두운 방, 우울한 조명, 현대적인 아파트, 사람, 손, 얼굴, 읽을 수 있는 텍스트, 자막, 로고, 워터마크, 왜곡된 선풍기, 흐릿한 이미지, 저화질, 흔들리는 카메라.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074491828473393153/img/7RlihPIyY87TipaM.jpg" width="600" alt="한국 시골집 여름 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6975)**
-
-**작성자:** [엘라](https://x.com/Luciela_00) | **출처:** [Link](https://x.com/Luciela_00/status/2074780529900020044) | **게시일:** Jul 8, 2026
-
----
-### UFO와 오리히메 변신
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> UFO, 선글라스를 쓴 남자, 햄스터, 그리고 전설 속 오리히메로 변신하는 외계인이 등장하는 복합적인 서사 장면입니다.
-
-#### 📝 프롬프트
-
-```
-@Image1 세계 평화를 기원하자 수많은 UFO가 나타납니다. 선글라스를 쓴 남자와 햄스터가 오른쪽에 있는 외계인을 보고 "너! 네가 친구들을 불렀어!?"라며 놀라는 장면입니다. 그러자 외계인이 아름다운 오리히메로 변신하며 "사실, 난 오리히메야!"라고 말합니다. 선글라스를 쓴 남자와 햄스터는 "뭐, 뭐라고!?"라며 경악합니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074749392687693824/img/LDwry94WXu9Xlr_r.jpg" width="600" alt="UFO와 오리히메 변신">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6974)**
-
-**작성자:** [AI特撮アトリエ](https://x.com/AI_tokusatsu) | **출처:** [Link](https://x.com/AI_tokusatsu/status/2074749452200579403) | **게시일:** Jul 8, 2026
-
----
-### 다정한 엄마와 아이 애니메이션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 호기심 많은 아이를 엄마가 다정하게 안아 올려 집으로 데려가는 따뜻한 분위기의 애니메이션 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-아이의 엄마는 차분하고 다정하며, 두려움 없이 호기심 어린 모습으로 부드럽게 타이른다. 엄마는 아이를 포근하게 안아 올려 따뜻한 수건이 있는 집 안으로 데려간다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074696905938833408/img/65jkdLK7xBV8xuRI.jpg" width="600" alt="다정한 엄마와 아이 애니메이션">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6972)**
-
-**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2074696965485478140) | **게시일:** Jul 8, 2026
-
----
-### 유리병 속 별 타이머 오버레이
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 유리병 속 별들이 담긴 마법 같은 장면과 특정 간격으로 나타나는 텍스트 오버레이를 위한 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-유리병 속 별들. 텍스트 오버레이: 마법을 해제하세요. 해당 텍스트는 5초 후에 나타나며, 10초 후에는 https://t.co/bkeik1FLaj 로 대체됩니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074550597907279873/img/zMVbRBTn_MUwcTx7.jpg" width="600" alt="유리병 속 별 타이머 오버레이">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6929)**
-
-**작성자:** [Ingi Freyr Rafnsson](https://x.com/ingi41717) | **출처:** [Link](https://x.com/ingi41717/status/2074550662101180540) | **게시일:** Jul 7, 2026
-
----
-### 야생화 들판 비디오 애니메이션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 야생화 들판에서 잠자리와 교감하는 인물을 애니메이션으로 구현하는 이미지 투 비디오(image-to-video) 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-이 사진을 사용하여 그녀를 야생화가 가득한 들판에 배치하고, 그녀가 손을 뻗었을 때 잠자리가 그 위에 내려앉는 모습을 연출해 주세요. 햇살이 밝게 비치고 그녀의 빨간 드레스가 바람에 휘날리고 있습니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074536511383486464/img/xnmAjniTXZvEfJ-c.jpg" width="600" alt="야생화 들판 비디오 애니메이션">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6927)**
-
-**작성자:** [Lisa Shardlow](https://x.com/lisa_shard96352) | **출처:** [Link](https://x.com/lisa_shard96352/status/2074536570749661521) | **게시일:** Jul 7, 2026
-
----
-### 브루클린의 가톨릭 신부 생쥐
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 브루클린의 거대하고 분주한 세상을 누비는 사제복 차림의 생쥐를 주인공으로 한, 실사 영화 스타일의 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-15초 분량의 영화적 시퀀스, 초고화질 실사 스타일, 실사 영화 조명을 적용한 픽사 수준의 사실감, 4K 해상도, 얕은 피사계 심도, 자연스러운 카메라 무빙.
-
-겸손한 가톨릭 신부 복장을 한 작은 들쥐가 자신의 몸에 딱 맞게 제작된 검은색 사제복과 흰색 로만 칼라를 착용하고 있습니다. 생쥐는 작은 기도서가 담긴 낡은 가죽 가방을 메고 뉴욕 브루클린의 압도적인 거리 사이를 결연한 모습으로 바쁘게 움직입니다.
-
-카메라는 생쥐의 눈높이에서 시작되며, 거대한 사람들의 신발이 움직이는 건물처럼 쿵쿵거리며 지나갑니다. 머리 위로는 노란색 택시가 굉음을 내며 지나가고, 지하철이 지나가는 진동이 보도를 통해 느껴집니다. 거리의 맨홀 뚜껑에서 피어오르는 증기는 생쥐 주변으로 거대한 구름을 형성합니다. 커피 컵, 신문지, 낙엽들이 생쥐의 세상에서는 거대한 물체처럼 공중을 휘날립니다.
-
-작은 신부는 자전거 바퀴, 비둘기, 호수만큼 커다란 빗물 웅덩이, 그리고 바쁘게 오가는 통근자들의 그림자를 능숙하게 피하면서도 평온하고 기쁜 표정을 잃지 않습니다. 햇살이 브라운스톤 건물에 따스하게 반사되고, 멀리서 교회 종소리가 은은하게 울려 퍼집니다.
-
-카메라는 그가 오래된 브루클린의 브라운스톤 건물에 도착할 때까지 그를 따라갑니다. 현관으로 이어지는 넓은 돌계단 아래에는 계단 기초 부분에 지어진 작은 아치형 목조 교회가 있습니다. 교회에는 스테인드글라스 창문, 작은 황동 종, 꽃 상자, 그리고 입구 위에 빛나는 랜턴이 달려 있습니다.
-
-신부 생쥐는 조용한 만족감을 느끼며 미소 짓고, 골동품 열쇠로 작은 나무 문을 열고 안으로 들어갑니다. 그가 부드럽게 작은 교회 종을 울리자 따스한 황금빛이 인도 위로 쏟아져 나오고, 그 위로는 분주한 인간 세상이 아무것도 모른 채 계속됩니다.
-
-매우 영화적이고 가슴 따뜻하며, 기발하면서도 현실적인 질감, 브루클린의 생생한 분위기, 감성적인 스토리텔링, 부드러운 트래킹 샷, 대사 없음, 자연스러운 도시 주변 소음만 포함.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074431689858715648/img/jw8oO-1IwUz5ouCE.jpg" width="600" alt="브루클린의 가톨릭 신부 생쥐">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6926)**
-
-**작성자:** [Sub Pop Culture 🇺🇸🐿️](https://x.com/WriterMcG) | **출처:** [Link](https://x.com/WriterMcG/status/2074431744808264058) | **게시일:** Jul 7, 2026
-
----
-### 온순한 거인과 빛나는 나비 애니메이션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 온순한 거인과 마법 같은 나비가 등장하는 가슴 따뜻한 스토리텔링 프롬프트로, Gemini Omni와 다른 비디오 모델을 나란히 비교하는 데 사용됩니다.
-
-#### 📝 프롬프트
-
-```
-온순한 거인이 빛나는 나비를 발견하다… 외로운 노을에서 별빛 아래 마법 같은 우정으로 이어지는 이야기.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074412047656173568/img/PmeIz0AWd-B6Ynfs.jpg" width="600" alt="온순한 거인과 빛나는 나비 애니메이션">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6932)**
-
-**작성자:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **출처:** [Link](https://x.com/Dheepanratnam/status/2074412218666414171) | **게시일:** Jul 7, 2026
-
----
-### 칠석 견우와 직녀 우주 애니메이션
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Grok Imagine을 위해 설계된 천체 비주얼 프롬프트로, 은하수 아래 견우와 직녀의 신비롭고 초정밀한 장면을 생성합니다.
-
-#### 📝 프롬프트
-
-```
-우주적인 검은 배경, 견우와 직녀, 은하수, 빛나는 은색 윤곽선, 신비로운, 최면을 거는 듯한, 최고 품질, 초정밀, 초광각 샷
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074257789342601217/img/-tlANcy6fn_FF2x1.jpg" width="600" alt="칠석 견우와 직녀 우주 애니메이션">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6928)**
-
-**작성자:** [なお](https://x.com/Naonekozamurai) | **출처:** [Link](https://x.com/Naonekozamurai/status/2074403041240035467) | **게시일:** Jul 7, 2026
-
----
-### Android Deltamon 애니메이션 DJ 루프
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 별이 빛나는 밤하늘 아래, 빛나는 원형 구조물을 배경으로 한 Android Deltamon의 DJ 루프 애니메이션 스타일 디지털 일러스트레이션입니다.
-
-#### 📝 프롬프트
-
-```
-별이 가득한 밤하늘의 빛나는 원형 구조물을 배경으로 한 Android Deltamon의 DJ 루프용 애니메이션 스타일 디지털 일러스트레이션
-판타지, 줌 없음, 12 FPS
-대사 없음
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074356449107664896/img/-PEZI3ycFgV0_1QQ.jpg" width="600" alt="Android Deltamon 애니메이션 DJ 루프">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6930)**
-
-**작성자:** [Cicadas Francois Cosmos 🇯🇵](https://x.com/FC_Cicadas) | **출처:** [Link](https://x.com/FC_Cicadas/status/2074356506334822402) | **게시일:** Jul 7, 2026
-
----
-### 여성과 고대 용
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 폐허가 된 도시에서 고대 용을 향해 헤엄치는 여성을 담은 내러티브 비디오 프롬프트로, 갈등보다는 존재감에 중점을 둡니다.
-
-#### 📝 프롬프트
-
-```
-그녀는 용을 향해 곧장 헤엄쳐 갑니다. 용 옆에 있으니 그녀는 작게만 보입니다. 싸우기 위해서도, 도망치기 위해서도 아닙니다. 그저 뒤에 있는 폐허가 된 도시를 마치 아이들의 장난감처럼 보이게 만드는 존재와 함께하기 위해서입니다. 그들을 둘러싼 물속에는 오래된 이야기들이 묵직하게 깔려 있습니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074351738916945920/img/DN5W4PjaZPXMXP3N.jpg" width="600" alt="여성과 고대 용">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7063)**
-
-**작성자:** [⭕Kisalay](https://x.com/Kisalay_) | **출처:** [Link](https://x.com/Kisalay_/status/2074351816167563613) | **게시일:** Jul 7, 2026
-
----
-### 너구리 피핀(Pippin) 대화 장면
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 귀여운 너구리 피핀과 용 루미(Lumi)가 대화를 나누는 모습을 담은 Grok Imagine용 복합 서사 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-[대화 중 - (너구리가 귀엽다. 너구리의 이름은 피핀…)]
-공주
-“준비됐니, 피핀?”
-피핀 (고글을 고쳐 쓰며)
-“거의 다…”
-(고글 한쪽이 옆으로 흘러내린다)
-“…이제 됐어.”
-🐉 루미 (참을성 있게 기다리며)
-“천천히 해도 돼.”
-피핀
-“안전이 제일이니까….”
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074205396571766784/img/7l4P4FiAHqkmi7Hf.jpg" width="600" alt="너구리 피핀(Pippin) 대화 장면">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6890)**
-
-**작성자:** [Carina](https://x.com/Freehere8) | **출처:** [Link](https://x.com/Freehere8/status/2074205457116430719) | **게시일:** Jul 6, 2026
-
----
-### 산호 왕국의 바다 여신 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 산호 왕국 속에서 바다와 물고기를 다스리는, 보랏빛과 금빛 눈을 가진 바다 여신을 묘사한 매우 상세한 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-그녀가 손을 들어 올리자 바다가 복종한다. 그녀의 손안에 있는 산호 왕국, 물과 빛으로 변한 그녀의 손가락 사이를 물고기들이 빠르게 헤엄쳐 다닌다.
-
-그녀의 두 눈은 동시에 두 가지 이야기를 들려준다. 하나는 깊은 바다처럼 보랏빛이고, 다른 하나는 파도 위로 부서지는 햇살처럼 금빛이다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074135555185811456/img/cQEtJba5Tny5k2e2.jpg" width="600" alt="산호 왕국의 바다 여신 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7064)**
-
-**작성자:** [⭕Kisalay](https://x.com/Kisalay_) | **출처:** [Link](https://x.com/Kisalay_/status/2074146361805819955) | **게시일:** Jul 6, 2026
-
----
-### 고요한 일본 기모노 야경
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 따스한 등불 아래 물가에서 기모노를 입고 앉아 있는 여인과 떨어지는 단풍잎을 담은 평화로운 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-물 위로 따스하게 빛나는 등불, 부드럽게 떨어지는 단풍잎, 그리고 푸른 밤 물고기들과 함께 아름다운 기모노를 입고 앉아 있는 그녀의 모습.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074123319205601280/img/VGutJ5IAumyEj7IT.jpg" width="600" alt="고요한 일본 기모노 야경">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7127)**
-
-**작성자:** [⭕Kisalay](https://x.com/Kisalay_) | **출처:** [Link](https://x.com/Kisalay_/status/2074123700790522084) | **게시일:** Jul 6, 2026
-
----
-### 북극해의 상위 신기루 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 바다 위에서 나타나는 파타 모르가나(Fata Morgana) 신기루의 초현실적인 영상을 생성합니다. 마치 성 같은 구조물 아래로 배가 공중에 떠 있는 듯한 모습을 연출합니다.
-
-#### 📝 프롬프트
-
-```
-바다 위 파타 모르가나 상위 신기루, 공중에 떠 있는 것처럼 보이는 먼바다의 배와 그 위로 왜곡된 성 모양의 구조물, 초현실적인 대기 현상, 차가운 북극해, 사실적인 사진
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074058180124954624/img/GikiyzZpNpFJpdr2.jpg" width="600" alt="북극해의 상위 신기루 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6891)**
-
-**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2074058236144091448) | **게시일:** Jul 6, 2026
-
----
-### 미래형 주택 전환 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 펼쳐진 책에서 도시 전망이 보이는 미래형 고층 주택 속 여성으로 이어지는 영화 같은 영상 전환을 생성합니다.
-
-#### 📝 프롬프트
-
-```
-novel book with open pages next smooth transition, same exact woman, in high-rise luxurious home environment with enormous clean windows overlooking futuristic city, extreme details, best quality, no narration
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074051903214718976/img/xmJwlIssDHniaFT0.jpg" width="600" alt="미래형 주택 전환 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6889)**
-
-**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2074051961662455902) | **게시일:** Jul 6, 2026
-
----
-### 매직 북 플로팅 레터 비디오
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 책을 펼치면 글자들이 나타나 천천히 위로 떠오르는 영상을 생성합니다.
-
-#### 📝 프롬프트
-
-```
-피사체가 책을 펼치면 책 속의 글자들이 천천히 위로 떠오르기 시작합니다
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074032639397277696/img/Lh91rrIjd0aelSCk.jpg" width="600" alt="매직 북 플로팅 레터 비디오">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6892)**
-
-**작성자:** [motana](https://x.com/motana27) | **출처:** [Link](https://x.com/motana27/status/2074032702320267757) | **게시일:** Jul 6, 2026
-
----
-### 슈퍼 8 필름 해변 여성 손 흔드는 장면
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Grok Imagine 1.5를 위한 특정 표정 및 감정가 매개변수를 포함하여, 해변에서 손을 흔드는 여성의 모습을 슈퍼 8 필름 감성으로 담아낸 향수를 불러일으키는 영상 생성 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-슈퍼 8 필름으로 촬영한 해변에서의 하루. 한 여성이 해변에 누워 카메라를 향해 미소 지으며 손을 흔들고 있다.
-
-V/A: 감정가(valence) 0.80, 각성도(arousal) 0.50
-
-FACS: AU6 + AU12 + AU25 (중간 강도)
-
-해부학적 특징: 입꼬리
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073281509696389120/img/uTGkKkjYbpsIWFYs.jpg" width="600" alt="슈퍼 8 필름 해변 여성 손 흔드는 장면">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6857)**
-
-**작성자:** [M I K E • R I C K S](https://x.com/michaelricks) | **출처:** [Link](https://x.com/michaelricks/status/2073425366677324118) | **게시일:** Jul 4, 2026
-
----
-### 웅장한 여왕의 대관식 장면
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 젊은 여왕, 내려오는 왕관, 그리고 웅장한 황금빛 홀을 특징으로 하는 왕실 대관식 장면을 위한 영화 같은 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-궁정 사람들이 숨을 죽인 가운데 왕관이 젊은 여왕의 머리 위로 천천히 내려옵니다. 크레인 카메라가 여왕의 눈에서부터 황금빛 홀의 전체 전경을 담는 와이드 샷으로 이동합니다. 배경에는 엄숙한 합창곡이 흐르며 웅장한 분위기를 자아냅니다. 6초 분량.
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2073295683986112512/pu/img/E4Iac8E7gQZpIaeY.jpg" width="600" alt="웅장한 여왕의 대관식 장면">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6858)**
-
-**작성자:** [MYS AI](https://x.com/mys1111) | **출처:** [Link](https://x.com/mys1111/status/2073295711202922501) | **게시일:** Jul 4, 2026
-
----
-### 닭 외계인 초인종 누르기
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 닭과 외계인이 결합된 생명체가 집으로 걸어와 초인종을 누르는 상황에 대한 창의적이고 생생한 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-닭과 외계인이 섞인 존재가 집으로 걸어옵니다. 그러고는 초인종을 딩동 하고 누릅니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073247871189516288/img/-it_HCAUiB0_et6F.jpg" width="600" alt="닭 외계인 초인종 누르기">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6855)**
-
-**작성자:** [Aether Ink Studios](https://x.com/anameistudios) | **출처:** [Link](https://x.com/anameistudios/status/2073247922221682782) | **게시일:** Jul 4, 2026
-
----
-### 카우보이 하모니카 연주 기법
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 카우보이가 하모니카를 연주하는 영상을 생성하기 위한 상세 가이드로, 사실적인 호흡, 손동작 및 연주 기법에 중점을 둡니다.
-
-#### 📝 프롬프트
-
-```
-카우보이가 연주를 시작하면 입뿐만 아니라 복식 호흡을 사용합니다. 입술에 힘을 빼고 혀로 구멍을 막아 한 번에 하나의 음만 정확하게 연주하도록 합니다.
-깊고 애절한 울림을 표현하고 싶을 때는 하모니카를 손으로 감싸 쥐고 연주 중에 손을 여닫는 '핸드 와(hand wah)' 기법을 사용합니다.
-숨을 불어넣고 들이마시는 동작을 매끄럽게 전환하며, 혀와 목구멍으로 각 음을 조절해 하모니카가 마치 노래하는 것처럼 들리게 합니다.
-카우보이가 연주를 시작하면 이러한 모습이 연출될 것입니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073238762746781696/img/j85hRx9lC5KU2p-f.jpg" width="600" alt="카우보이 하모니카 연주 기법">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=6854)**
-
-**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2073238878723412103) | **게시일:** Jul 4, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2233,6 +2211,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-18T06:28:14.081Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-18T09:53:37.145Z</sub>
 
 </div>

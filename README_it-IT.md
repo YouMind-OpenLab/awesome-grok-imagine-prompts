@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2143** |
+| 📝 Total Prompts | **2165** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-18** |
 
@@ -189,6 +189,432 @@ Una mistica e nobile Valchiria celestiale, una donna dignitosa e bellissima con 
 
 > 📝 Sorted by publish date (newest first)
 
+### Meme della tortilla chip che si intinge
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt descrittivo per un meme animato che mostra una tortilla chip che viene intinta in varie salse con uno sfondo da picnic.
+
+#### 📝 Prompt
+
+```
+Vorrei creare un meme, per favore. Ho bisogno di una tortilla chip che viene intinta continuamente in salse di colori diversi.
+
+Successivamente, aggiungi la chip tenuta in mano da una donna.
+
+Per lo sfondo, crea un'ambientazione da picnic presso un lago o una spiaggia nel nord-est degli Stati Uniti. Ci sono...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078259138434412544/img/SiWxqpOIS3xbaoj7.jpg" width="600" alt="Meme della tortilla chip che si intinge">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7449)**
+
+**Author:** [Tommy](https://x.com/tomrcaruso) | **Source:** [Link](https://x.com/tomrcaruso/status/2078259151654863249) | **Published:** Jul 17, 2026
+
+---
+### Progetti 3D futuristici e tecnologia aliena
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video high-tech che mostra progetti dorati, nanotecnologie e doni dell'ingegneria aliena che emergono da un portale con colori vivaci.
+
+#### 📝 Prompt
+
+```
+Molti progetti 3D escono dal portale, propulsori antigravità, nanotecnologie, DNA, chip, wireless, nuove tecnologie, le meraviglie della tecnologia aliena, doni ingegneristici per l'umanità, nessuna conversazione, progetti dorati, giallo, verde, blu, rosso, manifattura
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078255485120028672/img/iG7rCcKsfBCNp0o1.jpg" width="600" alt="Progetti 3D futuristici e tecnologia aliena">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7463)**
+
+**Author:** [JordanPaul](https://x.com/JordanPauldt3) | **Source:** [Link](https://x.com/JordanPauldt3/status/2078255523065922002) | **Published:** Jul 17, 2026
+
+---
+### Trasformazione video satirica sullo stile 'Sugar Daddy'
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt da immagine a video che anima una foto specifica trasformandola in un video a tema satirico, senza alterare il soggetto originale.
+
+#### 📝 Prompt
+
+```
+In una satira sull'ideologia dello sugar daddy, non modificare la foto, trasformala semplicemente in un video
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078247343724396544/img/T7IhOpC-6Dimr6OK.jpg" width="600" alt="Trasformazione video satirica sullo stile 'Sugar Daddy'">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7464)**
+
+**Author:** [Mike Rush](https://x.com/MichaelPRush1) | **Source:** [Link](https://x.com/MichaelPRush1/status/2078247393271677078) | **Published:** Jul 17, 2026
+
+---
+### Prompt video ambientale: topolino di campagna
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video ricco di stimoli sensoriali che vede protagonista un tenero topolino di campagna con accento del sud e rilassanti suoni ambientali.
+
+#### 📝 Prompt
+
+```
+gentile e tenero topolino di campagna con voce dall'accento del sud, suoni delicati di mescolata "questo è gelato", tintinnio di campanelli eolici che filtra dalla finestra con una brezza leggera che fa frusciare le graziose tendine di campagna
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078242624801009664/img/GxFvUCSpEm0AY4bX.jpg" width="600" alt="Prompt video ambientale: topolino di campagna">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7462)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2078242696322322629) | **Published:** Jul 17, 2026
+
+---
+### Scena d'azione: Fuga dall'astronave
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt d'azione che ritrae un alieno e una donna in abito bordeaux mentre corrono attraverso un'astronave tra le esplosioni.
+
+#### 📝 Prompt
+
+```
+Un alto alieno blu e una bellissima donna con lunghi capelli biondi mossi raccolti in trecce, orecchini di diamanti e una collana di diamanti, che indossa un abito bordeaux, corrono mano nella mano attraverso l'astronave mentre delle bombe esplodono alle loro spalle.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078238146882367488/img/Ird_lFOGKNY_zjgd.jpg" width="600" alt="Scena d'azione: Fuga dall'astronave">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7446)**
+
+**Author:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **Source:** [Link](https://x.com/blarneytrades/status/2078238181154013612) | **Published:** Jul 17, 2026
+
+---
+### Dolly zoom cinematografico ispirato alla poesia di Neruda
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video cinematografico che unisce la poesia di Pablo Neruda a un lento movimento di camera dolly zoom sul volto del soggetto.
+
+#### 📝 Prompt
+
+```
+Lascia che ti parli anche con il tuo silenzio — chiaro come una lampada, semplice come un anello. Sei come la notte, silenziosa e stellata. Il tuo silenzio è quello di una stella, così lontano e semplice. Mi piaci quando taci, perché sei come assente. -Pablo Neruda - Poesia 15 (1924) 
+Lento dolly zoom cinematografico che stringe sul suo volto mentre lei si gira ……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078235059685826560/img/78MU6Gf3yJ8bUvLC.jpg" width="600" alt="Dolly zoom cinematografico ispirato alla poesia di Neruda">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7461)**
+
+**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2078235180951654614) | **Published:** Jul 17, 2026
+
+---
+### Video del Monumento della Croce Lunare
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un video prompt grandioso e cinematografico che ritrae uno sforzo globale per posizionare una gloriosa croce sulla luna.
+
+#### 📝 Prompt
+
+```
+Immagina il mondo che si unisce per posizionare la prima croce sulla luna, gloriosa, in ogni suo aspetto e straordinaria
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078206578407157760/img/oGzyeg8T7_EDDSAe.jpg" width="600" alt="Video del Monumento della Croce Lunare">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7452)**
+
+**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2078206660540039569) | **Published:** Jul 17, 2026
+
+---
+### Movimento horror sci-fi in bozzolo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt horror sci-fi dettagliato che descrive una lotta all'interno di un bozzolo di gomma su un pavimento di marmo.
+
+#### 📝 Prompt
+
+```
+Il bozzolo di gomma nera del fattorino si inclina e cade pesantemente sul pavimento dorato della camera accanto alla scatola aperta, poi si dimena e si agita violentemente sul marmo rotolando da un lato all'altro, intrappolato all'interno del rigido baccello lucido, movimento cinematografico horror sci-fi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078205269784293376/img/iQJKcRtp2Ub1ntkM.jpg" width="600" alt="Movimento horror sci-fi in bozzolo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7460)**
+
+**Author:** [William Looby](https://x.com/WilliamLooby) | **Source:** [Link](https://x.com/WilliamLooby/status/2078205297802289155) | **Published:** Jul 17, 2026
+
+---
+### Ballo spaziale alieno sci-fi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt di fantascienza dettagliato che ritrae un alieno e una donna in tuta aderente nera che ballano sul ponte di un'astronave.
+
+#### 📝 Prompt
+
+```
+Alto alieno blu che balla lentamente con una bellissima donna che indossa una tuta aderente nera, con lunghi capelli biondi ondulati con trecce, orecchini di diamanti e una collana di diamanti; entrambi indossano maschere antigas e ballano lentamente sul ponte principale dell'astronave con fuochi d'artificio e b...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078184093070630912/img/89vs2_ijTQiKvpTk.jpg" width="600" alt="Ballo spaziale alieno sci-fi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7445)**
+
+**Author:** [Sheelagh Mac Mathghamhna](https://x.com/abitoblarney) | **Source:** [Link](https://x.com/abitoblarney/status/2078184117875744912) | **Published:** Jul 17, 2026
+
+---
+### Giardino segreto della fonte della giovinezza
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt rigoglioso e suggestivo per generare il video di un giardino mistico con una fontana e un'atmosfera serena.
+
+#### 📝 Prompt
+
+```
+Annabelle 🪻🌸🌹🐞🍇⛲️🌲
+
+Questo splendido giardino è il luogo in cui si trova la fonte della giovinezza. Offre una fonte di vita eterna e di pace infinita ✌️.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078183762882338817/img/bW9GjeVYURMKIgCk.jpg" width="600" alt="Giardino segreto della fonte della giovinezza">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7451)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2078183805542609356) | **Published:** Jul 17, 2026
+
+---
+### Loop continuo di pioggia monsonica
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt complesso e articolato per un'inquadratura statica perfetta di una scena piovosa con lampade tremolanti e increspature nell'acqua.
+
+#### 📝 Prompt
+
+```
+Ripresa statica su treppiede, fotocamera completamente immobile. NESSUNO zoom, NESSUNA panoramica, NESSUN movimento di avvicinamento o allontanamento, NESSUN tipo di movimento della fotocamera. L'inquadratura rimane ESATTAMENTE della stessa dimensione e posizione dal primo all'ultimo fotogramma per un loop continuo.
+
+Solo questi elementi si muovono, in modo delicato e continuo: forte pioggia monsonica che cade costantemente e solca la calda luce delle lampade, gocce di pioggia che creano delicati schizzi e increspature nella pozza riflettente, fiamme delle lampade a olio in ottone (diyas) che tremolano caldamente, lampade sospese che oscillano in modo quasi impercettibile, banchi di nebbia che si spostano lentamente sullo sfondo, deboli luci in lontananza che brillano attraverso la pioggia.
+
+Mantieni tutto il movimento calmo, lento e naturale in modo che l'inizio e la fine della clip appaiano quasi identici. Loop cinematografico fluido e continuo, senza tagli, senza salti, senza cambi di scena, senza derive della fotocamera.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078177855280730112/img/JfojpFLsFGeQndvX.jpg" width="600" alt="Loop continuo di pioggia monsonica">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7447)**
+
+**Author:** [MarketMaverick](https://x.com/AKCapStrat) | **Source:** [Link](https://x.com/AKCapStrat/status/2078178274987876455) | **Published:** Jul 17, 2026
+
+---
+### Video editing: silhouette su pontile notturno
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video multi-fase utilizzato per aggiungere lucciole e trasformare una coppia in sagome celestiali su un pontile in riva al lago.
+
+#### 📝 Prompt
+
+```
+Aggiungi lucciole
+Aggiungi un uomo e una donna seduti in fondo al pontile con i piedi nell'acqua
+Trasforma l'uomo e la donna in sagome oscure del cosmo
+
+Uomo e donna seduti in fondo al pontile di spalle rivolti verso il lago
+L'uomo e la donna si voltano l'uno verso l'altra...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078175189876228096/img/-c3jM7q83iyyeDax.jpg" width="600" alt="Video editing: silhouette su pontile notturno">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7453)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2078175251276652699) | **Published:** Jul 17, 2026
+
+---
+### Monologo di un anziano dal volto segnato dal tempo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un sofisticato prompt cinematografico per un primo piano estremo fotorealistico di un anziano che condivide la sua saggezza, caratterizzato da texture dettagliate e dialogo sincronizzato.
+
+#### 📝 Prompt
+
+```
+Un intimo ritratto in primo piano estremo di un uomo anziano con la pelle profondamente segnata dal tempo, una barba grigio argento, espressivi occhi grigio-azzurri e un'espressione calma e riflessiva. Il suo volto riempie quasi l'intera inquadratura, rivelando rughe sottili, la texture naturale della pelle, macchie senili e imperfezioni sottili con un realismo fotorealistico eccezionale. Una luce diurna soffusa e diffusa entra da un lato, scolpendo delicatamente i tratti del suo viso e creando ombre leggere attorno agli occhi e agli zigomi. Color grading freddo desaturato sui toni del blu e del verde acqua, profondità di campo ridotta, sfondo leggermente sfocato, composizione cinematografica, autentica fotografia documentaristica emozionale, obiettivo per ritratti da 85mm, apertura f/1.8, messa a fuoco nitidissima sugli occhi, sottile grana cinematografica, alta gamma dinamica, atmosfera cruda e senza tempo.
+
+La cinepresa mantiene un unico primo piano estremo continuo con un lentissimo zoom in quasi impercettibile. L'uomo respira naturalmente, batte le palpebre di tanto in tanto e mostra sottili micro-espressioni mentre i ricordi riaffiorano. I suoi occhi brillano leggermente e un accenno di sorriso pensieroso appare verso la fine. Le sue labbra si muovono con un parlato perfettamente sincronizzato, mantenendo un contatto visivo calmo con la cinepresa. Ogni movimento facciale risulta autentico e misurato.
+
+Dialogo (15 secondi):
+“Quando ero giovane, inseguivo il successo perché pensavo che sarebbe durato per sempre. Ora so che… i momenti che condividi con le persone che ami sono le uniche cose che il tempo non potrà mai portarti via.”
+
+Ritmo conversazionale naturale con pause delicate, perfetta sincronizzazione labiale, movimento realistico dei muscoli facciali, sottile movimento oculare, respiro leggero, performance in stile documentaristico, nessuna recitazione esagerata, nessun sottotitolo, nessun testo a schermo, nessuna musica di sottofondo, solo la quieta atmosfera della stanza e il calore della sua voce naturale.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078126631454130176/img/Qu2cocBFk9NfFjaz.jpg" width="600" alt="Monologo di un anziano dal volto segnato dal tempo">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7458)**
+
+**Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2078126675540455669) | **Published:** Jul 17, 2026
+
+---
+### Portale spaziale delle megattere
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinematografico surreale in cui le megattere si trasformano in astronavi interdimensionali e portali per specie aliene.
+
+#### 📝 Prompt
+
+```
+Le megattere 🐋 non si fermano mai 👽🛸
+
+Questa scena si trasforma in un portale verso un'altra dimensione dove le megattere 🐋 sono astronavi 🚀 che trasportano specie aliene tra i mondi....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078118809253158912/img/GNQu9B67SskBJ0EK.jpg" width="600" alt="Portale spaziale delle megattere">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7456)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2078118847979106524) | **Published:** Jul 17, 2026
+
+---
+### Combattimento di arti marziali acrobatiche
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt d'azione ad alta intensità che vede protagonisti acrobati esperti in una drammatica sequenza di arti marziali, con copertura completa della telecamera e assenza di dialoghi.
+
+#### 📝 Prompt
+
+```
+Sono entrambi acrobati addestrati ed esperti in tutte le arti marziali. Sono assetati di sangue e non smettono mai di muoversi. La copertura completa della telecamera cattura ogni contatto e ogni colpo mancato di poco. Illuminazione drammatica. Nessun dialogo, nessuna musica.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078088291551707136/img/pblRDCAL2KzHNICH.jpg" width="600" alt="Combattimento di arti marziali acrobatiche">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7459)**
+
+**Author:** [Datedman](https://x.com/Datedman) | **Source:** [Link](https://x.com/Datedman/status/2078088307477447101) | **Published:** Jul 17, 2026
+
+---
+### Trasformazione immagine in ritratto professionale
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt di trasformazione progettato per convertire una foto in un ritratto professionale da studio, mantenendo intatti i dettagli del volto.
+
+#### 📝 Prompt
+
+```
+Trasforma questa immagine in un ritratto professionale da studio fotorealistico dello stesso uomo: preserva la geometria del viso, le proporzioni, i capelli castani corti, l'attaccatura dei capelli, la barba incolta, il tono della pelle, la texture naturale con nei e rughe reali, l'età apparente e f...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078072979250925568/img/FJevrN9Yi-6Oh8QY.jpg" width="600" alt="Trasformazione immagine in ritratto professionale">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7448)**
+
+**Author:** [joedixon22@gmail.com](https://x.com/Yesyesyes_OK) | **Source:** [Link](https://x.com/Yesyesyes_OK/status/2078072992219709491) | **Published:** Jul 17, 2026
+
+---
+### Guida della moto in stile equestre
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt di movimento unico per un personaggio che sale e guida una moto come se fosse un cavallo, con uno sfondo di onde che si infrangono.
+
+#### 📝 Prompt
+
+```
+monta in sella alla moto come se fosse un cavallo, la gamba sinistra deve passare sopra la stessa identica moto, stesso modello, stesso outfit, corsa estatica lungo il molo con onde che si infrangono ora
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078059962836684800/img/VXEx_TgMlsQDue7T.jpg" width="600" alt="Guida della moto in stile equestre">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7457)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2078060007975694402) | **Published:** Jul 17, 2026
+
+---
+### Limousine volanti in una città oceanica futuristica
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinematografico altamente dettagliato per una città iper-futuristica sull'acqua, caratterizzata da veicoli di lusso trasformabili e illuminazione durante l'ora d'oro.
+
+#### 📝 Prompt
+
+```
+Veduta aerea di una flotta di veicoli di lusso trasformabili: scafi di yacht che si ripiegano in limousine volanti, go-kart che si comprimono in bagagli di design, che scivolano tra ville oceaniche sovrapposte collegate da ponti di luce. Ogni superficie è lucida come uno specchio: acqua color ossidiana, architettura in platino, insegne olografiche. Il sole dell'ora d'oro attraversa i riflessi bagnati, città sull'acqua iper-futuristica ultra-lusso, dettagli lucidi incredibili e una scala cinematografica di alto livello.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078050676949590016/img/ARFEnSWuZFj3_nPS.jpg" width="600" alt="Limousine volanti in una città oceanica futuristica">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7454)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2078053374671347881) | **Published:** Jul 17, 2026
+
+---
+### Sfilata di moda
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt incentrato sul personaggio di una donna alla moda che cammina con sicurezza indossando stivali, trasmettendo un atteggiamento provocatorio.
+
+#### 📝 Prompt
+
+```
+ottimo outfit, metti tutto insieme ora e cammina con quegli stivali come se fossi un guaio in persona
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078048484221968384/img/O17b8JlonNgwa-FR.jpg" width="600" alt="Sfilata di moda">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7444)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2078048544540270970) | **Published:** Jul 17, 2026
+
+---
+### Cane che fa paracadutismo e pinguino con paracadute
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt creativo per un'interazione video tra un cane e un pinguino con paracadute, entrambi dotati di occhiali da paracadutismo.
+
+#### 📝 Prompt
+
+```
+Accanto al cane, inserisci anche un pinguino con un paracadute e falli parlare tra loro; entrambi devono indossare occhiali da paracadutismo
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077932647708508160/img/Fe-GLcxLdpmIuJkn.jpg" width="600" alt="Cane che fa paracadutismo e pinguino con paracadute">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7455)**
+
+**Author:** [Robin Murray](https://x.com/RobinMurrat43a) | **Source:** [Link](https://x.com/RobinMurrat43a/status/2077932663261032730) | **Published:** Jul 17, 2026
+
+---
+### Avvicinamento al portale spaziale
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video che ritrae un personaggio che si avvicina con cautela a un portale sconosciuto attraverso un ambiente caotico.
+
+#### 📝 Prompt
+
+```
+si sta avvicinando con cautela a un portale sconosciuto
+
+Cerca di attraversare il caos con attenzione, senza sentire il calore!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077926118774931456/img/5X1CFQdfzARRmlOz.jpg" width="600" alt="Avvicinamento al portale spaziale">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7450)**
+
+**Author:** [Patience ( Protect )@almostmidnight “RealLove“](https://x.com/foxypatience) | **Source:** [Link](https://x.com/foxypatience/status/2077926150936912218) | **Published:** Jul 17, 2026
+
+---
 ### Shiba Inu al tramonto a Londra
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -358,6 +784,25 @@ Un affascinante camionista nero, luce del primo mattino, in piedi accanto al suo
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7360)**
 
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077718643203260842) | **Published:** Jul 16, 2026
+
+---
+### Ballerina in pizzo color mezzanotte
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un elegante prompt video per una ballerina vestita di pizzo che si esibisce sotto fiori color magenta.
+
+#### 📝 Prompt
+
+```
+Una graziosa ballerina avvolta in pizzo color mezzanotte sotto fiori magenta sospesi. 🖤🌸
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077717424397553664/img/Z4ENagHANjXR2TWL.jpg" width="600" alt="Ballerina in pizzo color mezzanotte">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7465)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2077717488071274861) | **Published:** Jul 16, 2026
 
 ---
 ### Compagno di fitness AI in stile anni '80
@@ -1705,473 +2150,6 @@ L'angelo del libro entra nella stanza dove il mondo è reale, le parole “GOD F
 **Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2075057016158986588) | **Published:** Jul 9, 2026
 
 ---
-### Animazione romantica a schizzo a matita
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Aggiunge un'animazione fluttuante di baci, cuori e luci a uno schizzo a matita statico di una coppia.
-
-#### 📝 Prompt
-
-```
-Romantica animazione fluttuante dietro la coppia dello schizzo a matita: innumerevoli baci e cuori fluttuano verso l'alto e vorticano lentamente, luci bokeh pulsano, scintille brillano, raggi di luce soffusa ondeggiano, parole d'amore appaiono e scompaiono delicatamente sullo sfondo profondo. Lo schizzo rimane statico mentre gli elementi dello sfondo si muovono.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074851646090174464/img/2mqfgIrxWodVjovB.jpg" width="600" alt="Animazione romantica a schizzo a matita">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6973)**
-
-**Author:** [joscilene Laura](https://x.com/joscilene_maria) | **Source:** [Link](https://x.com/joscilene_maria/status/2074851707507355664) | **Published:** Jul 8, 2026
-
----
-### Fanciulla tra fiori blu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt delicato ed elegante che ritrae una figura femminile circondata da raffinati fiori di pizzo blu in una luce soffusa.
-
-#### 📝 Prompt
-
-```
-Una dolce fanciulla che sboccia tra delicati fiori di pizzo blu... Sussurri di luce soffusa ed elegante quiete.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074818526465150976/img/JTcMYr90WtlwLQw6.jpg" width="600" alt="Fanciulla tra fiori blu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7232)**
-
-**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2074818638016909450) | **Published:** Jul 8, 2026
-
----
-### Video estivo in una casa rurale coreana
-
-![한국어](https://img.shields.io/badge/lang-한국어-orange)
-
-> Un prompt video 4K cinematografico per generare una scena estiva nostalgica e pacifica all'interno di una tradizionale casa rurale coreana, con luce solare, fette di anguria triangolari e un ventilatore da pavimento rotante.
-
-#### 📝 Prompt
-
-```
-Un video estivo chiaro e fresco di 10 secondi ambientato nel soggiorno di una vecchia casa rurale coreana in legno. Una luce solare pulita e luminosa entra dalle porte e dalle finestre aperte; il pavimento in legno e le vecchie pareti in legno creano un'atmosfera calda e nostalgica. Nel complesso, la scena trasmette la sensazione di un luminoso e arioso pomeriggio estivo.
-
-La porta è spalancata e, all'esterno, alberi e foglie di un verde brillante ondeggiano leggermente al vento. L'esterno appare limpido e azzurro, pacifico come un tranquillo pomeriggio estivo in campagna.
-
-Un vassoio di metallo rotondo è appoggiato su un tavolino basso di legno. Le fette di anguria sono disposte esclusivamente all'interno del vassoio e non direttamente sul tavolo. Cinque o sei fresche fette di anguria triangolari sono sistemate ordinatamente sul vassoio. Ogni fetta non ha la classica forma a mezzaluna, ma è una tipica fetta triangolare con la punta rivolta verso l'alto e la scorza verde corta alla base. Dal punto di vista della telecamera, la polpa rossa appare come un triangolo netto, con la scorza verde naturalmente attaccata lungo il bordo inferiore. L'anguria non è troppo spessa, ma sottile e fresca, mostrando la polpa rossa umida, piccoli semi neri e la sensazione di un'anguria estiva fresca e dissetante.
-
-Accanto al vassoio si trova un diario estivo illustrato disegnato con matite colorate, ma il testo non è leggibile. Diverse matite colorate sono posate naturalmente attorno al diario, leggermente sparse ma in modo da sembrare vissuto piuttosto che disordinato.
-
-Un vecchio ventilatore elettrico è posizionato sul pavimento in legno accanto al tavolo, ruotando lentamente da un lato all'altro con le pale in movimento. La brezza del ventilatore muove leggermente le tende e le pagine del diario; sebbene sia una calda giornata estiva soleggiata, la stanza appare fresca e rilassata.
-
-Atmosfera nostalgica di una casa rurale coreana, luce solare limpida, alberi verde brillante, soggiorno in legno ben ventilato, ombre morbide, texture realistiche, tranquillo pomeriggio estivo, atmosfera calma e rilassata, 4K cinematografico, luce naturale, fette di anguria triangolari su un vassoio di metallo e un diario illustrato, la telecamera si avvicina lentamente al ventilatore. Nessuna persona presente.
-
-Durata del video: 10 secondi. Rapporto d'aspetto: 16:9. Atmosfera: Luminosa, fresca, nostalgica, pacifica, brezza fresca del ventilatore in una limpida giornata estiva.
-
-Prompt negativo: Anguria a forma di mezzaluna, anguria a forma di falce, anguria affettata in modo rotondo, anguria tagliata circolarmente, anguria posizionata direttamente sul tavolo, anguria fuori dal vassoio, frutta che fluttua nell'aria, forme di anguria strane, triangoli geometricamente troppo rigidi, fette di anguria distorte, frutta che si scioglie, fette di anguria troppo spesse, pezzi di anguria grossolani, anguria a forma di cubo, pezzi rotti in modo irregolare, scorza di anguria eccessivamente grande, frutta dall'aspetto artificiale, anguria pallida e secca, anguria ammucchiata al centro, disposizione della frutta disordinata, stanza buia, illuminazione cupa, appartamento moderno, persone, mani, volti, testo leggibile, sottotitoli, loghi, filigrane, ventilatore distorto, immagine sfocata, bassa qualità, telecamera tremolante.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074491828473393153/img/7RlihPIyY87TipaM.jpg" width="600" alt="Video estivo in una casa rurale coreana">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6975)**
-
-**Author:** [엘라](https://x.com/Luciela_00) | **Source:** [Link](https://x.com/Luciela_00/status/2074780529900020044) | **Published:** Jul 8, 2026
-
----
-### UFO e la trasformazione di Orihime
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Una complessa scena narrativa che coinvolge UFO, un uomo con gli occhiali da sole, un criceto e un alieno che si trasforma nella leggendaria Orihime.
-
-#### 📝 Prompt
-
-```
-@Image1 Desidero la pace nel mondo! E proprio in quel momento, arriva un gran numero di UFO. Una scena in cui un uomo con gli occhiali da sole e un criceto vengono sorpresi da un alieno sulla destra che dice: "Tu! Hai chiamato i tuoi amici!?", e poi l'alieno si trasforma in una bellissima Orihime e dice: "In realtà, sono Orihime!". L'uomo con gli occhiali da sole e il criceto sono scioccati ed esclamano: "Co-oosa!"
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074749392687693824/img/LDwry94WXu9Xlr_r.jpg" width="600" alt="UFO e la trasformazione di Orihime">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6974)**
-
-**Author:** [AI特撮アトリエ](https://x.com/AI_tokusatsu) | **Source:** [Link](https://x.com/AI_tokusatsu/status/2074749452200579403) | **Published:** Jul 8, 2026
-
----
-### Animazione delicata di madre e figlio
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt di animazione commovente che descrive una madre che prende delicatamente in braccio il suo bambino curioso per portarlo a casa.
-
-#### 📝 Prompt
-
-```
-La madre del bambino è calma e gentile, senza paura, curiosa, un rimprovero dolce, prende in braccio lo stesso bambino in un abbraccio per portarlo a casa al caldo tra asciugamani morbidi
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074696905938833408/img/65jkdLK7xBV8xuRI.jpg" width="600" alt="Animazione delicata di madre e figlio">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6972)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2074696965485478140) | **Published:** Jul 8, 2026
-
----
-### Overlay a tempo Stars in Jars
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video per una scena magica con stelle in barattoli di vetro e sovrapposizioni di testo a tempo che appaiono a intervalli specifici.
-
-#### 📝 Prompt
-
-```
-stelle all'interno di barattoli di vetro. Sovrapposizione di testo: Scatena la magia. Quel testo appare dopo 5 secondi e viene sostituito con https://t.co/bkeik1FLaj dopo 10 secondi.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074550597907279873/img/zMVbRBTn_MUwcTx7.jpg" width="600" alt="Overlay a tempo Stars in Jars">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6929)**
-
-**Author:** [Ingi Freyr Rafnsson](https://x.com/ingi41717) | **Source:** [Link](https://x.com/ingi41717/status/2074550662101180540) | **Published:** Jul 7, 2026
-
----
-### Animazione video di un campo di fiori selvatici
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt da immagine a video che anima una persona in un campo di fiori selvatici mentre interagisce con una libellula.
-
-#### 📝 Prompt
-
-```
-Usando questa foto, inseriscila in un campo di fiori selvatici mentre tende la mano e una libellula vi si posa sopra. Il sole splende intensamente e il suo vestito rosso ondeggia.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074536511383486464/img/xnmAjniTXZvEfJ-c.jpg" width="600" alt="Animazione video di un campo di fiori selvatici">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6927)**
-
-**Author:** [Lisa Shardlow](https://x.com/lisa_shard96352) | **Source:** [Link](https://x.com/lisa_shard96352/status/2074536570749661521) | **Published:** Jul 7, 2026
-
----
-### Topo sacerdote cattolico a Brooklyn
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video cinematografico per una sequenza fotorealistica che vede protagonista un topo sacerdote in talare, intento a muoversi nel frenetico e smisurato mondo di Brooklyn.
-
-#### 📝 Prompt
-
-```
-Sequenza cinematografica di 15 secondi, ultra-fotorealistica, realismo di livello Pixar con illuminazione live-action, 4K, profondità di campo ridotta, movimento naturale della telecamera.
-
-Un minuscolo topo di campagna grigio, vestito come un umile sacerdote cattolico, indossa una talare nera perfettamente su misura con un colletto romano bianco proporzionato alla sua taglia. Porta con sé una minuscola borsa di cuoio consumata, piena di libri di preghiere in miniatura, e si affretta con determinazione attraverso le strade travolgenti di Brooklyn, New York.
-
-La telecamera inizia all'altezza degli occhi del topo, mentre enormi scarpe umane tuonano accanto a lui come edifici in movimento. I taxi gialli sfrecciano sopra la sua testa. La vibrazione dei treni della metropolitana si percepisce attraverso il marciapiede. Il vapore sale dalle grate stradali, creando nubi imponenti attorno a lui. Tazze di caffè, pagine di giornale e foglie autunnali turbinano nell'aria come oggetti giganti nel suo mondo.
-
-Il piccolo sacerdote schiva abilmente ruote di biciclette, piccioni, pozzanghere grandi come laghi e le ombre dei pendolari di fretta, rimanendo sempre calmo e gioioso. La luce del sole si riflette caldamente sulle case in pietra arenaria (brownstone), mentre le campane della chiesa suonano debolmente in lontananza.
-
-La telecamera lo segue mentre raggiunge una vecchia casa in pietra arenaria di Brooklyn. Alla base dell'ampia scalinata in pietra che conduce alla porta d'ingresso si trova una minuscola chiesa in legno ad arco, costruita nelle fondamenta sotto i gradini. È dotata di vetrate colorate, una campana in ottone in miniatura, fioriere e una lanterna luminosa sopra l'ingresso.
-
-Il topo sacerdote sorride con tranquilla soddisfazione, apre la minuscola porta di legno con una chiave antica, entra e suona dolcemente la piccola campana della chiesa, mentre una calda luce dorata si diffonde sul marciapiede, mentre il frenetico mondo umano continua a scorrere completamente ignaro sopra di lui.
-
-Altamente cinematografico, toccante, stravagante ma concreto, texture realistiche, autentica atmosfera di Brooklyn, narrazione emozionale, riprese in movimento fluide, nessun dialogo, solo suoni ambientali naturali della città.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074431689858715648/img/jw8oO-1IwUz5ouCE.jpg" width="600" alt="Topo sacerdote cattolico a Brooklyn">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6926)**
-
-**Author:** [Sub Pop Culture 🇺🇸🐿️](https://x.com/WriterMcG) | **Source:** [Link](https://x.com/WriterMcG/status/2074431744808264058) | **Published:** Jul 7, 2026
-
----
-### Animazione di un gigante gentile e una farfalla luminosa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt narrativo emozionante con protagonista un gigante gentile e una farfalla magica, utilizzato per un confronto diretto tra Gemini Omni e altri modelli video.
-
-#### 📝 Prompt
-
-```
-Un gigante gentile trova una farfalla luminosa… dal tramonto in solitudine a una magica amicizia sotto le stelle.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074412047656173568/img/PmeIz0AWd-B6Ynfs.jpg" width="600" alt="Animazione di un gigante gentile e una farfalla luminosa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6932)**
-
-**Author:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Source:** [Link](https://x.com/Dheepanratnam/status/2074412218666414171) | **Published:** Jul 7, 2026
-
----
-### Animazione cosmica della Principessa Tessitrice di Tanabata
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt visivo celestiale progettato per Grok Imagine per creare una scena mistica e iper-dettagliata della Principessa Tessitrice e del Principe Bovaro sotto la Via Lattea.
-
-#### 📝 Prompt
-
-```
-sfondo nero cosmico, Principessa Tessitrice e Principe Bovaro, via lattea, contorni argentati luminosi, mistico, ipnotico, qualità ultra, iper-dettagliato, ripresa ultra-grandangolare
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074257789342601217/img/-tlANcy6fn_FF2x1.jpg" width="600" alt="Animazione cosmica della Principessa Tessitrice di Tanabata">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6928)**
-
-**Author:** [なお](https://x.com/Naonekozamurai) | **Source:** [Link](https://x.com/Naonekozamurai/status/2074403041240035467) | **Published:** Jul 7, 2026
-
----
-### Loop DJ Anime di Android Deltamon
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un'illustrazione digitale in stile anime per un'animazione DJ loop che vede protagonista Android Deltamon davanti a una struttura circolare luminosa in un cielo notturno stellato.
-
-#### 📝 Prompt
-
-```
-Un'illustrazione digitale in stile anime di Android Deltamon presentata come DJ-loop, davanti a una struttura circolare luminosa in un cielo notturno molto stellato
-fantasy, no zoom, 12 FPS
-Nessun dialogo
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074356449107664896/img/-PEZI3ycFgV0_1QQ.jpg" width="600" alt="Loop DJ Anime di Android Deltamon">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6930)**
-
-**Author:** [Cicadas Francois Cosmos 🇯🇵](https://x.com/FC_Cicadas) | **Source:** [Link](https://x.com/FC_Cicadas/status/2074356506334822402) | **Published:** Jul 7, 2026
-
----
-### Donna e drago antico
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video narrativo che ritrae una donna che nuota verso un antico drago in una città in rovina, enfatizzando la presenza rispetto al conflitto.
-
-#### 📝 Prompt
-
-```
-Nuota direttamente verso il drago, piccola al suo cospetto. Non per combattere. Non per scappare. Solo per essere lì, alla presenza di qualcosa che fa sembrare la città in rovina alle sue spalle un giocattolo per bambini. L'acqua che li circonda è carica di storie antiche.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074351738916945920/img/DN5W4PjaZPXMXP3N.jpg" width="600" alt="Donna e drago antico">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7063)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2074351816167563613) | **Published:** Jul 7, 2026
-
----
-### Scena di dialogo del procione Pippin
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un complesso prompt video narrativo per Grok Imagine che vede protagonisti un simpatico procione di nome Pippin e un drago di nome Lumi impegnati in un dialogo.
-
-#### 📝 Prompt
-
-```
-[ora parla - (il procione è carino. Il nome del procione è Pippin…]
-Principessa
-“Pronto, Pippin?”
-Pippin (mentre sistema gli occhialini)
-“Quasi…”
-(un occhialino scivola di lato)
-“…Ora sono pronto.”
-🐉 Lumi (in attesa paziente)
-“Prenditi il tuo tempo.”
-Pippin
-“La sicurezza prima di tutto....”
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074205396571766784/img/7l4P4FiAHqkmi7Hf.jpg" width="600" alt="Scena di dialogo del procione Pippin">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6890)**
-
-**Author:** [Carina](https://x.com/Freehere8) | **Source:** [Link](https://x.com/Freehere8/status/2074205457116430719) | **Published:** Jul 6, 2026
-
----
-### Video della Dea del Mare nel Regno di Corallo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video altamente descrittivo di una dea del mare con occhi viola e oro che controlla l'oceano e i pesci all'interno di un regno di corallo.
-
-#### 📝 Prompt
-
-```
-Solleva la mano e il mare obbedisce. Un regno di corallo nel palmo della sua mano, pesci che guizzano tra le dita che si sono trasformate in acqua e luce.
-
-I suoi occhi raccontano due storie contemporaneamente, una viola come l'abisso e una dorata come la luce del sole sulle onde.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074135555185811456/img/cQEtJba5Tny5k2e2.jpg" width="600" alt="Video della Dea del Mare nel Regno di Corallo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7064)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2074146361805819955) | **Published:** Jul 6, 2026
-
----
-### Scena notturna serena con kimono giapponese
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un video prompt suggestivo che ritrae una donna in kimono vicino all'acqua, illuminata dalla luce calda delle lanterne mentre cadono le foglie autunnali.
-
-#### 📝 Prompt
-
-```
-Una lanterna che brilla di luce calda sull'acqua, foglie autunnali che cadono dolcemente e lei seduta lì con quel bellissimo kimono, in compagnia dei pesci nella notte blu.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074123319205601280/img/VGutJ5IAumyEj7IT.jpg" width="600" alt="Scena notturna serena con kimono giapponese">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7127)**
-
-**Author:** [⭕Kisalay](https://x.com/Kisalay_) | **Source:** [Link](https://x.com/Kisalay_/status/2074123700790522084) | **Published:** Jul 6, 2026
-
----
-### Video di un miraggio superiore nel Mar Artico
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Genera un video surreale di un miraggio di Fata Morgana sull'oceano, con una nave che sembra fluttuare sotto strutture simili a castelli.
-
-#### 📝 Prompt
-
-```
-miraggio superiore di Fata Morgana sull'oceano, una nave in lontananza che sembra fluttuare nell'aria con strutture distorte simili a castelli sopra di essa, illusione atmosferica surreale, mare artico freddo, fotografia realistica
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074058180124954624/img/GikiyzZpNpFJpdr2.jpg" width="600" alt="Video di un miraggio superiore nel Mar Artico">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6891)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2074058236144091448) | **Published:** Jul 6, 2026
-
----
-### Video di transizione per una casa futuristica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Genera una transizione video cinematografica da un libro aperto a una donna all'interno di una casa futuristica in un grattacielo con vista sulla città.
-
-#### 📝 Prompt
-
-```
-romanzo con pagine aperte accanto a una transizione fluida, la stessa identica donna, in un ambiente domestico lussuoso all'interno di un grattacielo con enormi finestre pulite che si affacciano su una città futuristica, dettagli estremi, qualità eccellente, nessuna narrazione
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074051903214718976/img/xmJwlIssDHniaFT0.jpg" width="600" alt="Video di transizione per una casa futuristica">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6889)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2074051961662455902) | **Published:** Jul 6, 2026
-
----
-### Video del libro magico con lettere fluttuanti
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Genera un video in cui una persona apre un libro da cui emergono lettere che fluttuano lentamente verso l'alto.
-
-#### 📝 Prompt
-
-```
-Il soggetto apre un libro e le lettere iniziano a fluttuare lentamente verso l'alto partendo dalle pagine
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074032639397277696/img/Lh91rrIjd0aelSCk.jpg" width="600" alt="Video del libro magico con lettere fluttuanti">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6892)**
-
-**Author:** [motana](https://x.com/motana27) | **Source:** [Link](https://x.com/motana27/status/2074032702320267757) | **Published:** Jul 6, 2026
-
----
-### Donna che saluta in spiaggia, stile pellicola Super 8
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt nostalgico per la generazione video che utilizza l'estetica della pellicola Super 8 per una donna che saluta su una spiaggia, includendo parametri specifici di espressione facciale e valenza per Grok Imagine 1.5.
-
-#### 📝 Prompt
-
-```
-Girato su pellicola Super 8, una giornata in spiaggia. Una donna è sdraiata sulla spiaggia, sorride e saluta verso la telecamera.
-
-V/A: valenza 0.80, arousal 0.50
-
-FACS: AU6 + AU12 + AU25 a intensità moderata
-
-Anatomico: angoli
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073281509696389120/img/uTGkKkjYbpsIWFYs.jpg" width="600" alt="Donna che saluta in spiaggia, stile pellicola Super 8">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6857)**
-
-**Author:** [M I K E • R I C K S](https://x.com/michaelricks) | **Source:** [Link](https://x.com/michaelricks/status/2073425366677324118) | **Published:** Jul 4, 2026
-
----
-### Scena dell'incoronazione di una regina maestosa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video cinematografico per una scena di incoronazione reale con una giovane regina, una corona che scende e una maestosa sala dorata.
-
-#### 📝 Prompt
-
-```
-Una corona scende lentamente sulla testa di una giovane regina mentre la corte trattiene il respiro. Una telecamera su gru si sposta dai suoi occhi verso un'inquadratura ampia della sala dorata. Coro solenne in sottofondo, atmosfera maestosa. 6 secondi.
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2073295683986112512/pu/img/E4Iac8E7gQZpIaeY.jpg" width="600" alt="Scena dell'incoronazione di una regina maestosa">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6858)**
-
-**Author:** [MYS AI](https://x.com/mys1111) | **Source:** [Link](https://x.com/mys1111/status/2073295711202922501) | **Published:** Jul 4, 2026
-
----
-### Campanello alieno a forma di pollo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt creativo e originale su un ibrido pollo-alieno che si avvicina a una casa e suona il campanello.
-
-#### 📝 Prompt
-
-```
-Pollo, alieno, che cammina verso la casa. E poi suona il campanello din don
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073247871189516288/img/-it_HCAUiB0_et6F.jpg" width="600" alt="Campanello alieno a forma di pollo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6855)**
-
-**Author:** [Aether Ink Studios](https://x.com/anameistudios) | **Source:** [Link](https://x.com/anameistudios/status/2073247922221682782) | **Published:** Jul 4, 2026
-
----
-### Tecnica dell'armonica per un cowboy
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Istruzioni dettagliate per generare un video di un cowboy che suona l'armonica, concentrandosi su respirazione realistica, movimenti delle mani e tecnica.
-
-#### 📝 Prompt
-
-```
-Una volta che il cowboy inizia a suonare, respirerà di diaframma, non solo con la bocca. Terrà le labbra rilassate e userà la lingua per bloccare i fori, così da suonare una sola nota pulita alla volta.
-Quando vorrà ottenere quel suono profondo, emozionante e malinconico, avvolgerà le mani attorno all'armonica aprendole e chiudendole mentre suona: è il cosiddetto effetto "hand wah".
-Passerà fluidamente dall'inspirazione all'espirazione, modellando ogni nota con la lingua e la gola affinché l'armonica sembri quasi cantare.
-Ecco come apparirà il cowboy una volta che inizierà a suonare.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073238762746781696/img/j85hRx9lC5KU2p-f.jpg" width="600" alt="Tecnica dell'armonica per un cowboy">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=6854)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2073238878723412103) | **Published:** Jul 4, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2233,6 +2211,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-18T06:28:22.822Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-18T09:53:45.664Z</sub>
 
 </div>
