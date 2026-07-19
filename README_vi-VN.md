@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2165** |
+| 📝 Total Prompts | **2174** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-19** |
 
@@ -189,6 +189,163 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Video chú mèo xám yêu nước đang hát
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh sáng tạo về chú mèo xám béo với đôi chân trắng đang hát một giai điệu yêu nước trong khi làm việc.
+
+#### 📝 Prompt
+
+```
+Có một chú mèo xám béo với đôi chân trắng. Chú đang hát khẽ giai điệu “oh beautiful for spacious skies, for amber waves of grain” trong khi làm việc.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078578004008034304/img/xH1oglULnTnXbhPu.jpg" width="600" alt="Video chú mèo xám yêu nước đang hát">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7515)**
+
+**Author:** [Susan Kurvach](https://x.com/SKurvach) | **Source:** [Link](https://x.com/SKurvach/status/2078578018801315977) | **Published:** Jul 18, 2026
+
+---
+### Tranh sơn dầu Sư tử sống động
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo hoạt ảnh sáng tạo cho bối cảnh phòng ngủ tối, nơi bức tranh sơn dầu đóng khung hình sư tử trở nên sống động và chuyển động.
+
+#### 📝 Prompt
+
+```
+Một chiếc khung đen lớn chạm trổ tinh xảo treo trên bức tường tối màu trong phòng ngủ. Bên cạnh bức tranh là một cửa sổ với rèm nhung đỏ dày. Bên trong chiếc khung đen đó là một bức tranh sơn dầu đã trở nên sống động. Chỉ có chú sư tử bên trong bức tranh là chuyển động.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078575143455014912/img/MSLfxwToTfN-zDAz.jpg" width="600" alt="Tranh sơn dầu Sư tử sống động">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7517)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2078575196550615483) | **Published:** Jul 18, 2026
+
+---
+### Chân dung yêu tinh giả tưởng đen tối đậm chất điện ảnh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh chi tiết để tạo video giả tưởng đen tối với hình ảnh một người phụ nữ yêu tinh có con bướm đêm lớn che mắt cùng hiệu ứng ánh sáng viền đầy kịch tính.
+
+#### 📝 Prompt
+
+```
+Chân dung cận cảnh cực độ của một người phụ nữ yêu tinh với làn da nhợt nhạt, lấm tấm tàn nhang và bụi bặm, đôi tai nhọn, đội vương miện vàng đen cầu kỳ với các chi tiết chạm trổ gothic và đá quý tối màu, mái tóc trắng dài bồng bềnh thấp thoáng, một con bướm đêm rất lớn và chi tiết với đôi cánh hoa văn phức tạp che khuất hoàn toàn cả hai mắt, thân và đôi cánh xòe của bướm đêm che kín vùng mắt, ánh sáng điện ảnh low-key kịch tính với ánh sáng viền mạnh làm nổi bật kết cấu và các hạt bụi trên da, bảng màu trầm, giảm bão hòa với tông vàng và đen chủ đạo, bầu không khí giả tưởng đen tối, siêu thực, siêu chi tiết, đậm chất điện ảnh, đầy tâm trạng.
+```
+
+<img src="https://cms-assets.youmind.com/media/1784448567940_z5jw75_HNXvRqjXgAAJLzb.jpg" width="600" alt="Chân dung yêu tinh giả tưởng đen tối đậm chất điện ảnh">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7522)**
+
+**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2078540320497619021) | **Published:** Jul 18, 2026
+
+---
+### Prompt chụp ảnh selfie cho người hâm mộ Tottenham Hotspur
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt mô tả chi tiết để tạo ảnh selfie chân thực về một phụ nữ mặc áo đấu Tottenham Hotspur trong không gian văn phòng.
+
+#### 📝 Prompt
+
+```
+Ảnh selfie chân thực của một cô gái trẻ người Đông Á khoảng ngoài 20 tuổi, mái tóc nâu đen ngang vai với phần tóc mái bằng và hơi xoăn nhẹ, đeo kính gọng đen hình chữ nhật dày. Cô ấy đang làm vẻ mặt tinh nghịch: miệng mở, thè lưỡi sang một bên, nhìn thẳng vào ống kính.
+
+Cô ấy mặc áo đấu bóng đá Tottenham Hotspur màu trắng với phần vai và tay áo raglan màu xanh navy. Nổi bật trên ngực áo là biểu tượng chú gà trống Tottenham cổ điển đứng trên quả bóng, logo Nike màu đen bên dưới và dòng chữ "AIA" màu đỏ đậm của nhà tài trợ. Một phần chữ "KIA" có thể nhìn thấy trên tay áo bên trái.
+
+Cô ấy đang ngồi trên ghế văn phòng màu đen trong một căn phòng trong nhà với tường sáng màu, rèm sáo ngang màu trắng bên trái, sàn gỗ và một chiếc áo đấu bóng đá khác treo trên tường phía sau. Ánh sáng tự nhiên, kết cấu da chân thực, chi tiết sắc nét, góc chụp selfie tự nhiên, độ phân giải cao, chân thực 8k.
+```
+
+<img src="https://cms-assets.youmind.com/media/1784448563059_4zf39l_HNe1fQibQAAMMJz.jpg" width="600" alt="Prompt chụp ảnh selfie cho người hâm mộ Tottenham Hotspur">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7521)**
+
+**Author:** [Feyber | AI Creator](https://x.com/woleswoosh) | **Source:** [Link](https://x.com/woleswoosh/status/2078449711980450083) | **Published:** Jul 18, 2026
+
+---
+### Video về các sinh vật kim loại sống
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một lời nhắc khoa học viễn tưởng đầy tính khái niệm mô tả những quả cầu kim loại sống như những sinh vật quý giá thúc đẩy một cuộc cách mạng.
+
+#### 📝 Prompt
+
+```
+Những quả cầu kim loại là các sinh vật sống quý giá, đóng vai trò là nguồn năng lượng cho cuộc cách mạng công nghệ.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078434978551980032/img/tmZN-iVwdcziDEFj.jpg" width="600" alt="Video về các sinh vật kim loại sống">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7516)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2078435020054610058) | **Published:** Jul 18, 2026
+
+---
+### Vũ trụ kinh dị gương vỡ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt giả tưởng khoa học viễn tưởng hoành tráng với hình ảnh chiếc gương vũ trụ vỡ tan, các thiên hà xoay chuyển và một con mắt cổ đại khổng lồ bằng cả vũ trụ.
+
+#### 📝 Prompt
+
+```
+Một chiếc gương vũ trụ vỡ tan thành hàng tỷ mảnh, mỗi mảnh phản chiếu một vũ trụ khác nhau nơi nữ thần ngoài hành tinh đều gặp chung một kết cục bi thảm. Các mảnh vỡ hợp nhất thành một chiếc khóa thiên thể khổng lồ lớn hơn cả các thiên hà. Khi chiếc khóa từ từ mở ra, một tiếng đập trái tim vang vọng khắp không gian, khiến các vì sao rung chuyển. Phía sau phong ấn bị phá vỡ, một con mắt cổ đại to bằng cả vũ trụ mở ra, với con ngươi chứa đựng vô số thiên hà đang xoay chuyển. Chỉ với một cái chớp mắt, toàn bộ các thiên hà biến mất vào bóng tối. Lần đầu tiên, nữ thần chết lặng vì sợ hãi. Một giọng nói thần giao cách cảm thì thầm: "Cảm ơn... vì đã giải thoát cho ta." Những vết nứt lan rộng trên cơ thể rực sáng của cô khi luồng năng lượng vũ trụ trắng xóa bùng phát từ bên trong. Ultra cinematic, IMAX, Unreal Engine 5, chân thực, kinh dị vũ trụ, ánh sáng thể tích, hình ảnh quy mô thiên hà, chuyển động camera kịch tính, 8K, siêu chi tiết, giả tưởng khoa học viễn tưởng hoành tráng.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078407939208159232/img/TV8-cLpw1Nm5QJv1.jpg" width="600" alt="Vũ trụ kinh dị gương vỡ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7520)**
+
+**Author:** [badgirl🍀 🐶🐈‍⬛](https://x.com/MPhuong609) | **Source:** [Link](https://x.com/MPhuong609/status/2078408030933381214) | **Published:** Jul 18, 2026
+
+---
+### Hoạt hình 3D Gấu trúc đi tàu lượn siêu tốc
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo ảnh 3D về chú gấu trúc hoạt hình đang đi tàu lượn siêu tốc với hiệu ứng nhòe chuyển động theo phong cách Blender.
+
+#### 📝 Prompt
+
+```
+Một chú gấu trúc hoạt hình đang đi tàu lượn siêu tốc trong bản kết xuất 3D Blender với hiệu ứng nhòe chuyển động và phông nền tự nhiên.
+Gấu trúc đang rất tận hưởng 😄
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078330473974001664/img/SmZ_vnjIivQ8ABnz.jpg" width="600" alt="Hoạt hình 3D Gấu trúc đi tàu lượn siêu tốc">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7518)**
+
+**Author:** [Sadie 🕊🖼️](https://x.com/poetrynthings) | **Source:** [Link](https://x.com/poetrynthings/status/2078330507230589122) | **Published:** Jul 18, 2026
+
+---
+### Prompt nâng cấp chất lượng điện ảnh 4K chân thực
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt video kỹ thuật tập trung vào chất lượng điện ảnh, nội suy và hiệu ứng thể tích với các vùng đổ bóng đậm nét.
+
+#### 📝 Prompt
+
+```
+Chất lượng điện ảnh 4K chân thực / Kết hợp mượt mà giữa chủ nghĩa hiện thực / Nội suy và nâng cấp / Hiệu ứng thể tích / Đổ bóng và âm thanh mềm mại, cường độ cao hơn
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078322717904764928/img/bcmrms4zRXCeNwTG.jpg" width="600" alt="Prompt nâng cấp chất lượng điện ảnh 4K chân thực">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7519)**
+
+**Author:** [Arak Dark](https://x.com/orgunus93304) | **Source:** [Link](https://x.com/orgunus93304/status/2078322764847403145) | **Published:** Jul 18, 2026
+
+---
 ### Meme chấm bánh Tortilla Chip
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1050,6 +1207,25 @@ Tái hiện thành video hình ảnh tĩnh do Grok tạo ra, trong đó có âm 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7312)**
 
 **Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2077517201184084139) | **Published:** Jul 15, 2026
+
+---
+### Chú mèo cuộn len vũ trụ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh siêu thực về chú mèo khám phá ra vũ trụ được tạo nên từ những cuộn len phát sáng và các hành tinh.
+
+#### 📝 Prompt
+
+```
+Khi chú mèo nhà bình thường của bạn bất ngờ phát hiện ra vũ trụ được tạo nên từ những cuộn len phát sáng và các hành tinh xoay chuyển… niềm vui thuần khiết đã được mở khóa!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077495982846091264/img/lfnp8s3el34dwedU.jpg" width="600" alt="Chú mèo cuộn len vũ trụ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7523)**
+
+**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2077496246089007407) | **Published:** Jul 15, 2026
 
 ---
 ### Xe mô tô tăng tốc nhanh với hiệu ứng tia laser
@@ -1976,180 +2152,6 @@ Chất lượng điện ảnh 4K chân thực / Kết hợp mượt mà giữa t
 **Author:** [Arak Dark](https://x.com/orgunus93304) | **Source:** [Link](https://x.com/orgunus93304/status/2075756972553486681) | **Published:** Jul 11, 2026
 
 ---
-### Video về Cung điện Băng giá của Bà chúa Tuyết
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh mô tả để tạo video về hành trình của Bà chúa Tuyết qua các vùng đất băng vĩnh cửu và cung điện Bắc Cực của bà.
-
-#### 📝 Prompt
-
-```
-Bà chúa Tuyết (Snedronningen), nữ hoàng của những bông tuyết hay còn gọi là "những chú ong tuyết", người du hành khắp thế giới cùng với những cơn tuyết. Cung điện và khu vườn của bà nằm ở những vùng đất băng vĩnh cửu, cụ thể là tại Spitsbergen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075688361616904192/img/O2dQTf94XaXvZ8ou.jpg" width="600" alt="Video về Cung điện Băng giá của Bà chúa Tuyết">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7062)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2075688977089139000) | **Published:** Jul 10, 2026
-
----
-### Video điện ảnh về Helen of Troy da đen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh được thiết kế để tạo video điện ảnh về Helen of Troy da đen, nhấn mạnh vào sự đại diện văn hóa đặc thù thay vì cách tuyển diễn viên thông thường.
-
-#### 📝 Prompt
-
-```
-Tôi không chỉ muốn một nữ diễn viên da đen đóng vai Helen of Troy. Tôi muốn một Helen of Troy da đen thực thụ. Hãy tạo video đó.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075601009921957888/img/aN9beJL_fzdcvCfd.jpg" width="600" alt="Video điện ảnh về Helen of Troy da đen">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7061)**
-
-**Author:** [Huff](https://x.com/Huff4Congress) | **Source:** [Link](https://x.com/Huff4Congress/status/2075601096253309265) | **Published:** Jul 10, 2026
-
----
-### Cảnh quay FPV điện ảnh trong rừng lúc bình minh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một cảnh quay bằng flycam FPV tốc độ cao băng qua khu rừng đầy sương mù vào lúc bình minh, với những tia sáng vàng và các hạt lơ lửng tạo thành chữ trước khi tan biến.
-
-#### 📝 Prompt
-
-```
-Cảnh quay FPV: Camera lướt nhanh qua khu rừng rậm rạp vào lúc bình minh, len lỏi giữa những hàng cây cao chót vót phủ đầy sương sớm. Những tia nắng vàng xuyên qua tán lá, trong khi hàng tỷ hạt phấn hoa và những giọt sương nhỏ li ti trôi nổi trong không trung. Camera tiến vào một luồng sáng, nơi các hạt bụi được chiếu sáng đồng bộ một cách tự nhiên, tạo thành chữ "MORNING" trước khi bùng nổ thành một dải bụi vàng lấp lánh. Bình minh hùng vĩ, thiên nhiên điện ảnh, bầu không khí siêu thực, hiệu ứng hình ảnh (VFX) ngoạn mục.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075586213294022656/img/LIEf70JuAxykwiAw.jpg" width="600" alt="Cảnh quay FPV điện ảnh trong rừng lúc bình minh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7230)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2075586581294092409) | **Published:** Jul 10, 2026
-
----
-### Gợi ý hình ảnh giả tưởng về bình minh phát quang sinh học
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý hình ảnh điện ảnh tuyệt đẹp mô tả khung cảnh bình minh giả tưởng với những ánh sáng nhấp nháy và chuyển động tinh tế.
-
-#### 📝 Prompt
-
-```
-Bình minh từ từ ló dạng, những bông hoa phát quang sinh học nhấp nháy ánh sáng, các biểu ngữ lay động trong làn gió đêm nhẹ, ánh hào quang thần thánh trên bộ giáp đang thở nhịp nhàng.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075306107371974656/img/ZEKl6A-mpnvhQId8.jpg" width="600" alt="Gợi ý hình ảnh giả tưởng về bình minh phát quang sinh học">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7012)**
-
-**Author:** [Terry Palmieri](https://x.com/TerryPalmieri14) | **Source:** [Link](https://x.com/TerryPalmieri14/status/2075306197566320781) | **Published:** Jul 9, 2026
-
----
-### Trận đấu quần vợt trên sân cỏ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) điện ảnh chi tiết cho trận đấu quần vợt, bao gồm các thông số cụ thể về ánh sáng, vật lý và chuyển động máy quay.
-
-#### 📝 Prompt
-
-```
-Vận động viên quần vợt hoàn tất cú vung vợt thuận tay khi quả bóng màu vàng lao vút qua mặt sân cỏ. Dây vợt rung lên, những ngọn cỏ đung đưa trong gió, ánh nắng vàng óng ánh trên quả bóng, cùng bầu không khí sân vận động nhẹ nhàng với hiệu ứng máy quay tiến dần vào chủ thể.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075286654127136768/img/BvYqUAVhqVp1FaO7.jpg" width="600" alt="Trận đấu quần vợt trên sân cỏ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7010)**
-
-**Author:** [Robert Heinlein](https://x.com/strangerinastr) | **Source:** [Link](https://x.com/strangerinastr/status/2075286711521956062) | **Published:** Jul 9, 2026
-
----
-### Ảnh selfie trước gương của Sailor Mars
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) chi tiết để tạo video chân thực về Rei Hino trong vai Sailor Mars đang chụp ảnh selfie trước gương cùng Luna trong một phòng tắm hiện đại.
-
-#### 📝 Prompt
-
-```
-Ảnh selfie trước gương cực kỳ chân thực của Rei Hino trong vai Sailor Mars, với những đốm tàn nhang tự nhiên trên khuôn mặt, vai và ngực. Cô có mái tóc đen dài, thẳng, bóng mượt với phần tóc mái bằng xõa xuống lưng.
-Cô mặc trang phục Sailor Mars cổ điển chuẩn xác: áo liền quần trắng, cổ áo thủy thủ đỏ với viền trắng, chiếc nơ lớn màu tím với tâm hình tròn màu đỏ và trâm cài vàng, váy xếp ly ngắn màu đỏ với lớp lót tím và viền vàng, vương miện vàng với viên đá quý đỏ, găng tay trắng dài với cổ tay đỏ, đôi bốt đỏ sáng bóng, vòng cổ choker đỏ với mặt dây chuyền ngôi sao vàng.
-Cô đang ngồi trong một phòng tắm ốp đá cẩm thạch hiện đại, sáng sủa, chụp ảnh selfie trước gương bằng điện thoại thông minh màu đen trên tay phải. Tay trái cô đang nhẹ nhàng ôm một chú mèo đen nhỏ - Luna từ Sailor Moon, với bộ lông đen bóng, đôi mắt vàng to tròn và biểu tượng vầng trăng khuyết màu vàng trên trán. Luna trông bình tĩnh và tò mò.
-Sailor Mars nhìn thẳng vào ống kính với nụ cười tự tin, hơi tinh nghịch và quyến rũ. Ánh sáng cửa sổ tự nhiên dịu nhẹ, kết cấu da chân thực, tàn nhang rõ nét, lấy nét sắc sảo.
-```
-
-<img src="https://cms-assets.youmind.com/media/1784189827514_mcr3x3_HMzGqj3W0AA9YlL.jpg" width="600" alt="Ảnh selfie trước gương của Sailor Mars">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7228)**
-
-**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2075252023914574244) | **Published:** Jul 9, 2026
-
----
-### Ảnh selfie qua gương chân thực của Sailor Moon
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) video chi tiết cho bức ảnh selfie qua gương chân thực của một người phụ nữ trong trang phục Sailor Moon chuẩn xác, với ánh sáng tự nhiên và kết cấu da chân thực.
-
-#### 📝 Prompt
-
-```
-Ảnh selfie qua gương cực kỳ chân thực của một người phụ nữ với làn da trắng sứ và những nốt tàn nhang tự nhiên tinh tế trên khuôn mặt, vai và ngực. Cô ấy mặc trang phục Sailor Moon chi tiết và chuẩn xác: áo liền quần trắng với cổ áo thủy thủ màu xanh và chiếc nơ đỏ lớn trước ngực, váy xếp ly ngắn màu xanh với viền trắng đỏ, vương miện trăng lưỡi liềm vàng, găng tay trắng dài với điểm nhấn màu đỏ, ủng đỏ, vòng cổ choker đỏ với mặt dây chuyền trái tim vàng và trâm cài áo vàng. Mái tóc vàng cổ điển búi kiểu odango với hai bím tóc dài buông xõa. Cô ấy đang chụp ảnh selfie qua gương trong một phòng tắm hiện đại, một tay cầm điện thoại thông minh màu đen, nhìn thẳng vào ống kính với biểu cảm tự tin và hơi tinh nghịch. Ánh sáng cửa sổ tự nhiên dịu nhẹ, kết cấu da chân thực, tàn nhang rõ nét, lấy nét sắc sảo, ảnh chân thực như đời thực.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075205335040634880/img/UdrgqedZjz4y9CUP.jpg" width="600" alt="Ảnh selfie qua gương chân thực của Sailor Moon">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7126)**
-
-**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2075205397112123637) | **Published:** Jul 9, 2026
-
----
-### Thế giới giả tưởng kỳ ảo đầy choáng ngợp
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video điện ảnh quy mô lớn về phong cảnh giả tưởng chân thực với những ngọn núi bay, khu rừng phát sáng và các thác nước.
-
-#### 📝 Prompt
-
-```
-Một thế giới tưởng tượng đầy choáng ngợp trông hoàn toàn chân thực, với những ngọn núi bay, cây cổ thụ khổng lồ, dòng sông pha lê, khu rừng phát sáng, thác nước đổ xuống những hồ nước đầy sương mù, bình minh vàng rực, những đám mây đầy kịch tính, các loài chim kỳ lạ, bầu không khí yên bình, bố cục điện ảnh, siêu chân thực, IMAX, HDR, ánh sáng thể tích, màu sắc tự nhiên, siêu chi tiết, 8K, nhiếp ảnh chuyên nghiệp, không phải CGI, không phải minh họa, trông giống như một địa điểm có thật.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075106901357219840/img/BgbByrZssE0gXhLF.jpg" width="600" alt="Thế giới giả tưởng kỳ ảo đầy choáng ngợp">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7011)**
-
-**Author:** [Tesla Owners Silicon Valley](https://x.com/teslaownersSV) | **Source:** [Link](https://x.com/teslaownersSV/status/2075107002020471065) | **Published:** Jul 9, 2026
-
----
-### Prompt chuỗi cảnh thiên thần bay
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt giả tưởng chi tiết mô tả cảnh thiên thần chuyển giao giữa các thế giới với các hiệu ứng văn bản động.
-
-#### 📝 Prompt
-
-```
-Thiên thần từ trong cuốn sách bước vào căn phòng nơi thế giới là thực tại, các từ “GOD FIRST ALWAYS” hình thành một cách mờ ảo khi thiên thần bay về phía mặt trăng
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075056939734609920/img/ZFXMqJXRT-Uv0faI.jpg" width="600" alt="Prompt chuỗi cảnh thiên thần bay">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7013)**
-
-**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2075057016158986588) | **Published:** Jul 9, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2211,6 +2213,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-19T06:52:50.108Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-19T10:23:11.463Z</sub>
 
 </div>

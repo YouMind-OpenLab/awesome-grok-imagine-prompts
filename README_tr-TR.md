@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2165** |
+| 📝 Total Prompts | **2174** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-19** |
 
@@ -189,6 +189,163 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Vatansever Şarkı Söyleyen Gri Kedi Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Çalışırken vatansever bir melodi mırıldanan, beyaz patili şişman gri bir kediyi konu alan yaratıcı bir komut.
+
+#### 📝 Prompt
+
+```
+Beyaz patili şişman gri bir kedi var. Çalışırken kısık sesle “oh beautiful for spacious skies, for amber waves of grain” melodisini söylüyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078578004008034304/img/xH1oglULnTnXbhPu.jpg" width="600" alt="Vatansever Şarkı Söyleyen Gri Kedi Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7515)**
+
+**Author:** [Susan Kurvach](https://x.com/SKurvach) | **Source:** [Link](https://x.com/SKurvach/status/2078578018801315977) | **Published:** Jul 18, 2026
+
+---
+### Canlı Aslan Yağlı Boya Tablosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Karanlık bir yatak odasında, çerçeveli bir aslan yağlı boya tablosunun canlanıp hareket ettiği yaratıcı bir animasyon istemi.
+
+#### 📝 Prompt
+
+```
+Siyah duvarlı karanlık bir yatak odasının duvarında asılı, büyük ve süslü siyah bir çerçeve. Tablonun yanında ağır kırmızı kadife perdeleri olan bir pencere bulunuyor. Süslü siyah çerçevenin içinde, canlanmış bir yağlı boya tablo yer alıyor. Sadece tablonun içindeki aslan hareket ediyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078575143455014912/img/MSLfxwToTfN-zDAz.jpg" width="600" alt="Canlı Aslan Yağlı Boya Tablosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7517)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2078575196550615483) | **Published:** Jul 18, 2026
+
+---
+### Sinematik Karanlık Fantastik Elf Portresi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gözlerini kapatan büyük bir güveye sahip elf kadının yer aldığı ve dramatik kenar ışıklandırmasının kullanıldığı karanlık fantastik bir video oluşturmak için detaylı bir istem.
+
+#### 📝 Prompt
+
+```
+Çok soluk, çilli ve tozlu bir cilde sahip elf kadının aşırı yakın plan portresi; sivri elf kulakları, başında gotik işlemeli ve koyu renkli mücevherlerle süslü, karartılmış altın rengi gösterişli bir taç, kısmen görünen uzun beyaz saçlar, her iki gözünü tamamen kapatan ve gizleyen çok büyük ve detaylı, karmaşık desenli kanatlara sahip bir güve, güvenin gövdesi ve açılmış kanatları göz bölgesini tamamen örtüyor, dokuları ve ciltteki toz parçacıklarını vurgulayan güçlü kenar ışığıyla dramatik düşük anahtarlı sinematik aydınlatma, altın ve siyahın hakim olduğu soluk ve doygunluğu azaltılmış renk paleti, karanlık fantastik atmosfer, hiper gerçekçi, hiper detaylı, sinematik, karamsar.
+```
+
+<img src="https://cms-assets.youmind.com/media/1784448567940_z5jw75_HNXvRqjXgAAJLzb.jpg" width="600" alt="Sinematik Karanlık Fantastik Elf Portresi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7522)**
+
+**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2078540320497619021) | **Published:** Jul 18, 2026
+
+---
+### Tottenham Hotspur Taraftar Selfie İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Tottenham Hotspur futbol forması giyen bir kadının ofis ortamında çekilmiş gerçekçi bir selfie'si için oldukça detaylı betimleyici bir istem.
+
+#### 📝 Prompt
+
+```
+20'li yaşlarının başında, sevimli, genç, Doğu Asyalı bir kadının fotogerçekçi selfie'si; omuz hizasında, düz kahküllü ve hafif dalgalı koyu kahverengi-siyah saçlar, kalın siyah dikdörtgen gözlükler takıyor. Eğlenceli ve şapşal bir yüz ifadesi yapıyor: ağzı açık, dili yana doğru çıkmış, doğrudan kameraya bakıyor.
+
+Üzerinde lacivert reglan omuzlu ve kollu beyaz bir Tottenham Hotspur futbol forması var. Göğüs kısmında belirgin şekilde: top üzerinde duran klasik Tottenham horoz arması, altında siyah Nike logosu ve en altta büyük, kalın kırmızı "AIA" sponsor yazısı yer alıyor. Sol kolda kısmen "KIA" yazısı görünüyor.
+
+Siyah bir ofis koltuğunda, açık renkli duvarları olan, solda beyaz yatay jalurileri bulunan, ahşap zeminli ve arkasındaki duvarda başka bir futbol forması asılı olan gündelik bir iç mekanda oturuyor. Doğal gün ışığı, gerçekçi cilt dokusu, keskin detaylar, gündelik selfie açısı, yüksek çözünürlük, 8k fotogerçekçilik.
+```
+
+<img src="https://cms-assets.youmind.com/media/1784448563059_4zf39l_HNe1fQibQAAMMJz.jpg" width="600" alt="Tottenham Hotspur Taraftar Selfie İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7521)**
+
+**Author:** [Feyber | AI Creator](https://x.com/woleswoosh) | **Source:** [Link](https://x.com/woleswoosh/status/2078449711980450083) | **Published:** Jul 18, 2026
+
+---
+### Canlı Metal Organizmalar Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Canlı metal küreleri, bir devrimi körükleyen değerli organizmalar olarak betimleyen kavramsal bir bilim kurgu istemi.
+
+#### 📝 Prompt
+
+```
+Metal küreler, teknolojik devrimi körükleyen değerli ve canlı organizmalardır.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078434978551980032/img/tmZN-iVwdcziDEFj.jpg" width="600" alt="Canlı Metal Organizmalar Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7516)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2078435020054610058) | **Published:** Jul 18, 2026
+
+---
+### Kozmik Korku Parçalanmış Ayna Evreni
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Parçalanan kozmik bir ayna, dönen galaksiler ve evren boyutunda antik bir göz içeren epik bir bilim kurgu fantezi video istemi.
+
+#### 📝 Prompt
+
+```
+Parçalanmış kozmik bir ayna, her biri uzaylı tanrıçanın aynı trajik kaderle karşılaştığı farklı bir evreni yansıtan milyarlarca parçaya ayrılıyor. Parçalar, galaksilerden daha büyük devasa bir göksel kilide dönüşüyor. Kilit yavaşça açılırken, uzayda bir kalp atışı yankılanıyor ve yıldızların titremesine neden oluyor. Kırık mührün ötesinde, evren boyutunda antik bir göz açılıyor; irisi sayısız dönen galaksiyi barındırıyor. Tek bir göz kırpışıyla, tüm galaksiler karanlığa gömülüyor. Tanrıça ilk kez korkudan donup kalıyor. Telepatik bir ses fısıldıyor: "Teşekkür ederim... beni özgür bıraktığın için." Parlayan vücudunda çatlaklar yayılırken, içinden kör edici beyaz bir kozmik enerji patlıyor. Ultra sinematik, IMAX, Unreal Engine 5, fotogerçekçi, kozmik korku, hacimsel aydınlatma, galaksi ölçeğinde görseller, dramatik kamera hareketi, 8K, hiper detaylı, epik bilim kurgu fantezi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078407939208159232/img/TV8-cLpw1Nm5QJv1.jpg" width="600" alt="Kozmik Korku Parçalanmış Ayna Evreni">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7520)**
+
+**Author:** [badgirl🍀 🐶🐈‍⬛](https://x.com/MPhuong609) | **Source:** [Link](https://x.com/MPhuong609/status/2078408030933381214) | **Published:** Jul 18, 2026
+
+---
+### Panda Hız Treni 3D Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Blender benzeri bir tarzda, hareket bulanıklığı efektlerine sahip bir hız trenine binen çizgi film tarzı bir panda için 3D render istemi.
+
+#### 📝 Prompt
+
+```
+Çizgi film tarzı bir panda, hareket bulanıklığı ve doğal arka plan ile Blender 3D render'ında hız trenine biniyor.
+Panda çok eğleniyor 😄
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078330473974001664/img/SmZ_vnjIivQ8ABnz.jpg" width="600" alt="Panda Hız Treni 3D Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7518)**
+
+**Author:** [Sadie 🕊🖼️](https://x.com/poetrynthings) | **Source:** [Link](https://x.com/poetrynthings/status/2078330507230589122) | **Published:** Jul 18, 2026
+
+---
+### Gerçekçi 4K Sinematik Yükseltme İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sinematik kalite, enterpolasyon ve yoğun gölgeli volümetrik efektlere odaklanan teknik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Gerçekçi 4K sinematik kalite / Pürüzsüz gerçekçilik karışımı / Enterpolasyon ve yükseltme / Volümetrik efekt / Daha yumuşak, daha yoğun gölgeler ve sesler
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078322717904764928/img/bcmrms4zRXCeNwTG.jpg" width="600" alt="Gerçekçi 4K Sinematik Yükseltme İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7519)**
+
+**Author:** [Arak Dark](https://x.com/orgunus93304) | **Source:** [Link](https://x.com/orgunus93304/status/2078322764847403145) | **Published:** Jul 18, 2026
+
+---
 ### Tortilla Cipsi Batırma Memi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1050,6 +1207,25 @@ Grok tarafından oluşturulan ve 'İngiltere'ye karşı kazandık' sesinin duyul
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7312)**
 
 **Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2077517201184084139) | **Published:** Jul 15, 2026
+
+---
+### Kozmik Yumak Kedisi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir kedinin, parlayan yumaklardan ve gezegenlerden oluşan bir evreni keşfetmesini konu alan sürreal bir istem.
+
+#### 📝 Prompt
+
+```
+Sıradan ev kediniz aniden evrenin parlayan yumaklardan ve dönen gezegenlerden oluştuğunu keşfettiğinde… saf neşe açığa çıkar!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077495982846091264/img/lfnp8s3el34dwedU.jpg" width="600" alt="Kozmik Yumak Kedisi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7523)**
+
+**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2077496246089007407) | **Published:** Jul 15, 2026
 
 ---
 ### Hızlı Motosiklet Lazer Hız Patlaması
@@ -1976,180 +2152,6 @@ Gerçekçi 4K sinematik kalite / Pürüzsüz gerçekçilik karışımı / İnter
 **Author:** [Arak Dark](https://x.com/orgunus93304) | **Source:** [Link](https://x.com/orgunus93304/status/2075756972553486681) | **Published:** Jul 11, 2026
 
 ---
-### Kar Kraliçesi Permafrost Sarayı Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kar Kraliçesi'nin permafrost topraklarında ve kutup sarayında yolculuğunu konu alan bir video oluşturmaya yönelik açıklayıcı bir komut.
-
-#### 📝 Prompt
-
-```
-Kar tanelerinin veya "kar arılarının" kraliçesi olan ve karla birlikte tüm dünyayı dolaşan Kar Kraliçesi (Snedronningen). Sarayı ve bahçeleri, permafrost topraklarında, özellikle de Spitsbergen'de yer almaktadır.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075688361616904192/img/O2dQTf94XaXvZ8ou.jpg" width="600" alt="Kar Kraliçesi Permafrost Sarayı Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7062)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2075688977089139000) | **Published:** Jul 10, 2026
-
----
-### Siyahi Truvalı Helen Sinematik Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Standart oyuncu seçimlerinin ötesine geçerek belirli bir kültürel temsili vurgulayan, Siyahi bir Truvalı Helen'in sinematik videosunu oluşturmak için tasarlanmış bir komut.
-
-#### 📝 Prompt
-
-```
-Sadece Truvalı Helen rolünü oynayan siyahi bir aktris istemiyorum. Siyahi bir Truvalı Helen istiyorum. O videoyu oluştur.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075601009921957888/img/aN9beJL_fzdcvCfd.jpg" width="600" alt="Siyahi Truvalı Helen Sinematik Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7061)**
-
-**Author:** [Huff](https://x.com/Huff4Congress) | **Source:** [Link](https://x.com/Huff4Congress/status/2075601096253309265) | **Published:** Jul 10, 2026
-
----
-### Sinematik Orman FPV Gün Doğumu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gün doğumunda sisli bir ormanın içinde hızla ilerleyen, altın ışık huzmeleri ve dağılmadan önce metin oluşturan uçuşan parçacıkların yer aldığı yüksek hızlı bir FPV drone çekimi.
-
-#### 📝 Prompt
-
-```
-FPV çekimi: Kamera, gün doğumunda sabah sisiyle kaplı devasa ağaçların arasından süzülerek yoğun bir ormanın içinde hızla ilerliyor. Altın ışık huzmeleri ağaç tepelerini delip geçerken, milyarlarca uçuşan polen parçacığı ve minik çiy damlaları havada süzülüyor. Kamera, aydınlanan parçacıkların doğal bir şekilde birleşerek "MORNING" yazısını oluşturduğu ve ardından parıldayan altın rengi bir toz şelalesine dönüşerek dağıldığı bir güneş ışığı huzmesine giriyor. Destansı gün doğumu, sinematik doğa, ultra gerçekçi atmosfer, nefes kesici VFX.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075586213294022656/img/LIEf70JuAxykwiAw.jpg" width="600" alt="Sinematik Orman FPV Gün Doğumu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7230)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2075586581294092409) | **Published:** Jul 10, 2026
-
----
-### Biyolüminesans Şafak Fantastik İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Pulsar ışıklar ve hafif hareketlerle dolu fantastik bir şafak sahnesini betimleyen, sinematik ve büyüleyici bir istem.
-
-#### 📝 Prompt
-
-```
-Şafak yıldızının yavaş yükselişi, ışık saçan biyolüminesans çiçekler, hafif gece esintisinde dalgalanan sancaklar, zırh üzerinde yumuşak bir şekilde nefes alan ilahi bir ışıltı.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075306107371974656/img/ZEKl6A-mpnvhQId8.jpg" width="600" alt="Biyolüminesans Şafak Fantastik İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7012)**
-
-**Author:** [Terry Palmieri](https://x.com/TerryPalmieri14) | **Source:** [Link](https://x.com/TerryPalmieri14/status/2075306197566320781) | **Published:** Jul 9, 2026
-
----
-### Çim Kort Tenis Aksiyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Belirli bir ışıklandırma, fizik ve kamera hareketlerini içeren, tenis maçına yönelik detaylı bir sinematik komut.
-
-#### 📝 Prompt
-
-```
-Tenis oyuncusu forehand vuruşunu tamamlarken sarı top çim kortta hızla ilerliyor. Raket telleri titriyor, çimler esintiyle dalgalanıyor, altın rengi güneş ışığı topun üzerinde parlıyor ve hafif bir kamera yakınlaştırmasıyla yumuşak bir stadyum atmosferi hissediliyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075286654127136768/img/BvYqUAVhqVp1FaO7.jpg" width="600" alt="Çim Kort Tenis Aksiyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7010)**
-
-**Author:** [Robert Heinlein](https://x.com/strangerinastr) | **Source:** [Link](https://x.com/strangerinastr/status/2075286711521956062) | **Published:** Jul 9, 2026
-
----
-### Sailor Mars Ayna Selfiesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Rei Hino'nun Sailor Mars olarak modern bir banyoda Luna ile ayna selfiesi çektiği gerçekçi bir video oluşturmak için oldukça detaylı bir komut.
-
-#### 📝 Prompt
-
-```
-Rei Hino'nun Sailor Mars olarak son derece gerçekçi ayna selfiesi; yüzünde, omuzlarında ve göğsünde doğal çiller bulunuyor. Sırtına dökülen düz, parlak siyah saçları ve düz perçemleri var.
-Üzerinde aslına uygun klasik Sailor Mars kıyafeti: beyaz mayo, beyaz şeritli kırmızı denizci yakası, kırmızı dairesel merkezli ve altın broşlu büyük mor fiyonk, mor etek uçlu ve altın şeritli kısa kırmızı pileli etek, kırmızı değerli taşlı altın taç, kırmızı manşetli uzun beyaz eldivenler, parlak kırmızı çizmeler, altın yıldız kolye uçlu kırmızı tasma.
-Modern, aydınlık ve mermer bir banyoda oturuyor, sağ elindeki siyah akıllı telefonla ayna selfiesi çekiyor. Sol kolunda ise Sailor Moon'dan tanıdığımız, parlak siyah tüyleri, büyük altın sarısı gözleri ve alnında sarı hilal sembolü olan küçük siyah kedi Luna'yı nazikçe tutuyor. Luna sakin ve meraklı görünüyor.
-Sailor Mars, kendine güvenen, hafif oyuncu ve büyüleyici bir gülümsemeyle doğrudan kameraya bakıyor. Yumuşak doğal pencere ışığı, gerçekçi cilt dokusu, belirgin çiller, keskin odak.
-```
-
-<img src="https://cms-assets.youmind.com/media/1784189827514_mcr3x3_HMzGqj3W0AA9YlL.jpg" width="600" alt="Sailor Mars Ayna Selfiesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7228)**
-
-**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2075252023914574244) | **Published:** Jul 9, 2026
-
----
-### Fotogerçekçi Sailor Moon Ayna Özçekimi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Doğal ışıklandırma ve cilt dokularına sahip, gerçekçi bir Sailor Moon kostümü içindeki kadının ayna özçekimi için oldukça detaylı bir video istemi.
-
-#### 📝 Prompt
-
-```
-Soluk porselen bir cilde ve yüzünde, omuzlarında ve göğsünde belirgin, doğal çillere sahip bir kadının son derece gerçekçi ayna özçekimi. Üzerinde detaylı ve aslına uygun bir Sailor Moon kostümü var: mavi denizci yakalı ve göğsünde büyük kırmızı fiyonklu beyaz mayo, beyaz ve kırmızı şeritli kısa pileli mavi etek, altın renkli hilal şeklinde taç, kırmızı detaylı uzun beyaz eldivenler, kırmızı botlar, altın kalp kolye uçlu kırmızı tasma ve altın broş. Uzun, dalgalı at kuyruklarıyla klasik sarı odango topuz saç modeli. Modern bir banyoda ayna karşısında özçekim yapıyor, bir elinde siyah bir akıllı telefon tutuyor, kendine güvenen ve hafif oyuncu bir ifadeyle doğrudan kameraya bakıyor. Yumuşak doğal pencere ışığı, gerçekçi cilt dokusu, belirgin çiller, keskin odak, fotogerçekçi.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075205335040634880/img/UdrgqedZjz4y9CUP.jpg" width="600" alt="Fotogerçekçi Sailor Moon Ayna Özçekimi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7126)**
-
-**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2075205397112123637) | **Published:** Jul 9, 2026
-
----
-### Nefes Kesen Hayali Fantastik Dünya
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Uçan dağlar, ışıldayan ormanlar ve şelalelerle dolu gerçekçi bir fantastik manzara için devasa sinematik video istemi.
-
-#### 📝 Prompt
-
-```
-Tamamen gerçek görünen, uçan dağlar, devasa antik ağaçlar, kristal nehirler, ışıldayan ormanlar, sisli göllere dökülen şelaleler, altın rengi gün doğumu, dramatik bulutlar, egzotik kuşlar, huzurlu bir atmosfer, sinematik kompozisyon, ultra fotogerçekçi, IMAX, HDR, hacimsel aydınlatma, doğal renkler, hiper detaylı, 8K, profesyonel fotoğrafçılık, CGI yok, illüstrasyon yok, gerçek bir yer gibi görünen nefes kesici hayali bir dünya.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075106901357219840/img/BgbByrZssE0gXhLF.jpg" width="600" alt="Nefes Kesen Hayali Fantastik Dünya">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7011)**
-
-**Author:** [Tesla Owners Silicon Valley](https://x.com/teslaownersSV) | **Source:** [Link](https://x.com/teslaownersSV/status/2075107002020471065) | **Published:** Jul 9, 2026
-
----
-### Angel Flight Sequence İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Dinamik metin efektleriyle dünyalar arasında geçiş yapan bir meleği betimleyen detaylı bir fantastik istem.
-
-#### 📝 Prompt
-
-```
-Kitaptaki melek, dünyanın gerçek olduğu odaya adım atar; o aya doğru uçarken “GOD FIRST ALWAYS” kelimeleri sisli bir şekilde belirir
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075056939734609920/img/ZFXMqJXRT-Uv0faI.jpg" width="600" alt="Angel Flight Sequence İstemi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7013)**
-
-**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2075057016158986588) | **Published:** Jul 9, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2211,6 +2213,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-19T06:52:59.673Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-19T10:23:17.950Z</sub>
 
 </div>

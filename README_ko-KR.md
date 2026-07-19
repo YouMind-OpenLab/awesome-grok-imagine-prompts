@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **2165** |
+| 📝 총 프롬프트 수 | **2174** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-07-19** |
 
@@ -189,6 +189,163 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 애국가를 부르는 회색 고양이 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 업무 중에 애국가를 부르는 하얀 발을 가진 뚱뚱한 회색 고양이를 담은 창의적인 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+하얀 발을 가진 뚱뚱한 회색 고양이 한 마리가 있습니다. 이 고양이는 업무를 보면서 "오 아름다운 넓은 하늘과 황금빛 곡식의 물결을 위하여"라는 노래를 조용히 부릅니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078578004008034304/img/xH1oglULnTnXbhPu.jpg" width="600" alt="애국가를 부르는 회색 고양이 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7515)**
+
+**작성자:** [Susan Kurvach](https://x.com/SKurvach) | **출처:** [Link](https://x.com/SKurvach/status/2078578018801315977) | **게시일:** Jul 18, 2026
+
+---
+### 살아 움직이는 사자 유화
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 어두운 침실에서 액자 속 사자 유화가 살아 움직이는 모습을 연출하기 위한 창의적인 애니메이션 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+검은색 벽으로 된 어두운 침실 벽에 걸린 크고 화려한 검은색 액자. 그림 옆에는 두꺼운 빨간색 벨벳 커튼이 쳐진 창문이 있습니다. 화려한 검은색 액자 안에는 살아 움직이는 유화가 담겨 있습니다. 그림 속 사자만이 움직입니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078575143455014912/img/MSLfxwToTfN-zDAz.jpg" width="600" alt="살아 움직이는 사자 유화">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7517)**
+
+**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2078575196550615483) | **게시일:** Jul 18, 2026
+
+---
+### 시네마틱 다크 판타지 엘프 초상화
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 눈을 가린 거대한 나방과 드라마틱한 림 라이트가 특징인 엘프 여성의 다크 판타지 영상을 제작하기 위한 상세 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+창백하고 주근깨가 있으며 먼지가 내려앉은 피부를 가진 엘프 여성의 익스트림 클로즈업 초상화, 뾰족한 엘프 귀, 고딕 양식의 세공과 어두운 보석이 박힌 화려한 검은색 금관을 머리에 쓰고 있음, 길게 흐르는 흰 머리카락이 부분적으로 보임, 복잡한 패턴의 날개를 가진 매우 크고 디테일한 나방이 양쪽 눈을 완전히 덮고 가리고 있음, 나방의 몸통과 펼쳐진 날개가 눈 부위를 완전히 숨김, 피부의 질감과 먼지 입자를 강조하는 강렬한 림 라이트가 적용된 드라마틱한 로우 키 시네마틱 조명, 금색과 검은색이 주를 이루는 차분하고 채도가 낮은 색감, 다크 판타지 분위기, 하이퍼 리얼리스틱, 초정밀 디테일, 시네마틱, 무드 있는 분위기.
+```
+
+<img src="https://cms-assets.youmind.com/media/1784448567940_z5jw75_HNXvRqjXgAAJLzb.jpg" width="600" alt="시네마틱 다크 판타지 엘프 초상화">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7522)**
+
+**작성자:** [Myluna](https://x.com/monicamoonx) | **출처:** [Link](https://x.com/monicamoonx/status/2078540320497619021) | **게시일:** Jul 18, 2026
+
+---
+### 토트넘 홋스퍼 팬 셀카 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 실내 사무실을 배경으로 토트넘 홋스퍼 축구 유니폼을 입은 여성의 사실적인 셀카를 위한 매우 상세한 묘사 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+20대 초반의 귀여운 동아시아 여성의 사실적인 셀카, 어깨 길이의 짙은 갈색-검은색 머리에 일자 앞머리와 약간의 웨이브, 두꺼운 검은색 사각형 안경을 착용함. 입을 벌리고 혀를 옆으로 내미는 장난스러운 표정을 지으며 카메라를 정면으로 응시함.
+
+흰색 토트넘 홋스퍼 축구 유니폼을 입고 있으며, 어깨와 소매는 네이비 블루 색상의 래글런 스타일임. 가슴 중앙에는 공 위에 서 있는 토트넘의 상징인 수탉 문양, 그 아래 검은색 Nike 스우시 로고, 그리고 하단에 굵고 선명한 빨간색 "AIA" 스폰서 문구가 있음. 왼쪽 소매에는 "KIA" 문구의 일부가 보임.
+
+밝은 벽과 왼쪽의 흰색 블라인드, 나무 바닥으로 된 캐주얼한 실내 공간의 검은색 사무용 의자에 앉아 있으며, 뒤쪽 벽에는 다른 축구 유니폼이 걸려 있음. 자연광, 사실적인 피부 질감, 선명한 디테일, 캐주얼한 셀카 각도, 고해상도, 8k 포토리얼리즘.
+```
+
+<img src="https://cms-assets.youmind.com/media/1784448563059_4zf39l_HNe1fQibQAAMMJz.jpg" width="600" alt="토트넘 홋스퍼 팬 셀카 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7521)**
+
+**작성자:** [Feyber | AI Creator](https://x.com/woleswoosh) | **출처:** [Link](https://x.com/woleswoosh/status/2078449711980450083) | **게시일:** Jul 18, 2026
+
+---
+### 살아있는 금속 유기체 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 기술 혁명의 동력이 되는 귀중한 유기체로서의 살아있는 금속 구체를 묘사한 콘셉트 SF 프롬프트.
+
+#### 📝 프롬프트
+
+```
+금속 구체는 기술 혁명의 동력이 되는 귀중한 살아있는 유기체입니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078434978551980032/img/tmZN-iVwdcziDEFj.jpg" width="600" alt="살아있는 금속 유기체 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7516)**
+
+**작성자:** [Philip Carr](https://x.com/PhilipCarrn7711) | **출처:** [Link](https://x.com/PhilipCarrn7711/status/2078435020054610058) | **게시일:** Jul 18, 2026
+
+---
+### 코스믹 호러: 산산조각 난 거울 우주
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 산산조각 나는 우주 거울, 회전하는 은하계, 그리고 우주만한 크기의 고대 눈을 담은 서사적인 SF 판타지 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+산산조각 난 우주 거울이 수십억 개의 파편으로 폭발하며, 각 파편은 외계 여신이 똑같은 비극적 운명을 맞이하는 서로 다른 우주를 비춘다. 파편들은 은하계보다 거대한 거대한 천체 자물쇠로 합쳐진다. 자물쇠가 천천히 열리자 우주를 가로질러 심장 박동 소리가 울려 퍼지고, 별들이 진동한다. 깨진 봉인 너머로 우주만한 크기의 고대 눈이 떠지며, 그 홍채 안에는 수많은 은하계가 회전하고 있다. 눈을 한 번 깜빡이자 은하계 전체가 어둠 속으로 사라진다. 여신은 처음으로 공포에 질려 얼어붙는다. 텔레파시 목소리가 속삭인다. "고마워... 나를 자유롭게 해줘서." 그녀의 빛나는 몸 전체로 균열이 퍼져 나가고, 내면에서 눈부신 백색의 우주 에너지가 분출된다. 초고화질 시네마틱, IMAX, Unreal Engine 5, 실사 같은 사실감, 코스믹 호러, 볼류메트릭 라이팅, 은하계 규모의 비주얼, 극적인 카메라 무빙, 8K, 초정밀 디테일, 서사적인 SF 판타지.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078407939208159232/img/TV8-cLpw1Nm5QJv1.jpg" width="600" alt="코스믹 호러: 산산조각 난 거울 우주">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7520)**
+
+**작성자:** [badgirl🍀 🐶🐈‍⬛](https://x.com/MPhuong609) | **출처:** [Link](https://x.com/MPhuong609/status/2078408030933381214) | **게시일:** Jul 18, 2026
+
+---
+### 판다 롤러코스터 3D 애니메이션
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Blender 스타일의 모션 블러 효과가 적용된 롤러코스터를 타는 만화 같은 판다의 3D 렌더링 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+Blender 3D 렌더링으로 제작된, 모션 블러와 자연스러운 배경 속에서 롤러코스터를 타는 만화 같은 판다의 모습입니다.
+판다가 즐거워하고 있어요 😄
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078330473974001664/img/SmZ_vnjIivQ8ABnz.jpg" width="600" alt="판다 롤러코스터 3D 애니메이션">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7518)**
+
+**작성자:** [Sadie 🕊🖼️](https://x.com/poetrynthings) | **출처:** [Link](https://x.com/poetrynthings/status/2078330507230589122) | **게시일:** Jul 18, 2026
+
+---
+### 실사 4K 시네마틱 업스케일 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 시네마틱 품질, 보간법(interpolation), 그리고 강렬한 그림자가 포함된 볼류메트릭 효과에 중점을 둔 기술적인 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+실사 4K 시네마틱 품질 / 부드러운 믹스 리얼리즘 / 보간법 및 업스케일 / 볼류메트릭 효과 / 더 부드럽고 강렬한 그림자와 사운드
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078322717904764928/img/bcmrms4zRXCeNwTG.jpg" width="600" alt="실사 4K 시네마틱 업스케일 프롬프트">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7519)**
+
+**작성자:** [Arak Dark](https://x.com/orgunus93304) | **출처:** [Link](https://x.com/orgunus93304/status/2078322764847403145) | **게시일:** Jul 18, 2026
+
+---
 ### 또띠아 칩 디핑 밈
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1050,6 +1207,25 @@ Grok으로 생성된 '우리가 잉글랜드를 이겼다'는 소리가 들리�
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7312)**
 
 **작성자:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **출처:** [Link](https://x.com/clemensilverio/status/2077517201184084139) | **게시일:** Jul 15, 2026
+
+---
+### 우주 실타래 고양이
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 빛나는 실타래와 행성으로 이루어진 우주를 발견한 고양이를 다룬 초현실적인 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+평범한 집고양이가 우주가 빛나는 실타래와 소용돌이치는 행성들로 이루어져 있다는 사실을 갑자기 발견했을 때… 순수한 즐거움이 깨어납니다!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077495982846091264/img/lfnp8s3el34dwedU.jpg" width="600" alt="우주 실타래 고양이">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7523)**
+
+**작성자:** [SophieZX](https://x.com/Z_XSophie) | **출처:** [Link](https://x.com/Z_XSophie/status/2077496246089007407) | **게시일:** Jul 15, 2026
 
 ---
 ### 빠른 오토바이 레이저 스피드 버스트
@@ -1976,180 +2152,6 @@ Call of Duty Modern Warfare 스타일의 초고화질 1인칭 시점, 레드 도
 **작성자:** [Arak Dark](https://x.com/orgunus93304) | **출처:** [Link](https://x.com/orgunus93304/status/2075756972553486681) | **게시일:** Jul 11, 2026
 
 ---
-### 눈의 여왕 영구동토 궁전 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 눈의 여왕이 영구동토 지대와 그녀의 북극 궁전을 여행하는 영상을 생성하기 위한 설명형 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-눈의 여왕(Snedronningen)은 눈송이 또는 "눈벌(snow-bees)"의 여왕으로, 눈과 함께 전 세계를 여행합니다. 그녀의 궁전과 정원은 영구동토 지대, 특히 스피츠베르겐에 위치해 있습니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075688361616904192/img/O2dQTf94XaXvZ8ou.jpg" width="600" alt="눈의 여왕 영구동토 궁전 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7062)**
-
-**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2075688977089139000) | **게시일:** Jul 10, 2026
-
----
-### 흑인 트로이의 헬레네 시네마틱 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 일반적인 캐스팅을 넘어 특정 문화적 표현을 강조한, 흑인 트로이의 헬레네 시네마틱 영상을 생성하기 위한 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-단순히 흑인 배우가 트로이의 헬레네를 연기하는 것을 원하는 게 아닙니다. 저는 '흑인 트로이의 헬레네' 그 자체를 원합니다. 그런 영상을 만들어 주세요.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075601009921957888/img/aN9beJL_fzdcvCfd.jpg" width="600" alt="흑인 트로이의 헬레네 시네마틱 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7061)**
-
-**작성자:** [Huff](https://x.com/Huff4Congress) | **출처:** [Link](https://x.com/Huff4Congress/status/2075601096253309265) | **게시일:** Jul 10, 2026
-
----
-### 시네마틱 숲 FPV 일출
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 일출 무렵 안개 낀 숲을 고속으로 질주하는 FPV 드론 샷으로, 황금빛 햇살과 텍스트 형태로 모였다가 흩어지는 부유 입자들이 특징입니다.
-
-#### 📝 프롬프트
-
-```
-FPV 샷: 카메라는 아침 안개가 자욱한 숲속의 거대한 나무들 사이를 누비며 일출을 향해 질주합니다. 황금빛 햇살이 나뭇잎 사이로 쏟아지고, 수십억 개의 부유하는 꽃가루 입자와 작은 이슬방울들이 공기 중에 떠다닙니다. 카메라는 햇살이 비치는 공간으로 진입하며, 조명을 받은 입자들이 자연스럽게 모여 "MORNING"이라는 글자를 형성한 뒤 반짝이는 황금빛 먼지 폭포처럼 흩어집니다. 웅장한 일출, 시네마틱 자연, 초현실적인 분위기, 숨 막히는 VFX.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075586213294022656/img/LIEf70JuAxykwiAw.jpg" width="600" alt="시네마틱 숲 FPV 일출">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7230)**
-
-**작성자:** [Déborah](https://x.com/dvorahfr) | **출처:** [Link](https://x.com/dvorahfr/status/2075586581294092409) | **게시일:** Jul 10, 2026
-
----
-### 생체 발광 새벽 판타지 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 맥동하는 빛과 미묘한 움직임이 어우러진 판타지 새벽 장면을 묘사한 아름다운 시네마틱 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-새벽 별이 천천히 떠오르고, 생체 발광 꽃들이 빛을 내며 맥동하며, 희미한 밤바람에 깃발이 흔들리고, 갑옷 위로 신성한 빛이 부드럽게 감돕니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075306107371974656/img/ZEKl6A-mpnvhQId8.jpg" width="600" alt="생체 발광 새벽 판타지 프롬프트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7012)**
-
-**작성자:** [Terry Palmieri](https://x.com/TerryPalmieri14) | **출처:** [Link](https://x.com/TerryPalmieri14/status/2075306197566320781) | **게시일:** Jul 9, 2026
-
----
-### 잔디 코트 테니스 경기 장면
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 특정한 조명, 물리 효과, 카메라 움직임을 포함한 테니스 경기를 위한 상세한 시네마틱 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-테니스 선수가 포핸드 스윙을 마무리하자 노란색 공이 잔디 코트를 가로질러 빠르게 날아갑니다. 라켓 줄이 떨리고 잔디 잎이 바람에 흔들리며, 황금빛 햇살이 공에 반사됩니다. 은은한 경기장 분위기 속에서 카메라가 부드럽게 다가가는 연출입니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075286654127136768/img/BvYqUAVhqVp1FaO7.jpg" width="600" alt="잔디 코트 테니스 경기 장면">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7010)**
-
-**작성자:** [Robert Heinlein](https://x.com/strangerinastr) | **출처:** [Link](https://x.com/strangerinastr/status/2075286711521956062) | **게시일:** Jul 9, 2026
-
----
-### 세일러 마스 거울 셀카
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 세일러 마스(히노 레이)가 현대적인 욕실에서 루나와 함께 거울 셀카를 찍는 사실적인 영상을 생성하기 위한 고도로 상세한 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-세일러 마스(히노 레이)의 매우 사실적인 거울 셀카, 얼굴과 어깨, 가슴에 자연스러운 주근깨가 있음. 등 뒤로 길게 늘어지는 곧고 윤기 나는 검은 생머리에 일자 앞머리를 하고 있음.
-정교하게 재현된 클래식 세일러 마스 의상 착용: 흰색 레오타드, 흰색 테두리가 있는 빨간색 세일러 칼라, 빨간색 원형 중앙 장식과 금색 브로치가 달린 커다란 보라색 리본, 보라색 속치마와 금색 테두리가 있는 짧은 빨간색 주름치마, 빨간색 보석이 박힌 금색 티아라, 빨간색 커프스가 있는 긴 흰색 장갑, 반짝이는 빨간색 부츠, 금색 별 펜던트가 달린 빨간색 초커.
-현대적이고 밝은 대리석 욕실에 앉아 오른손에 검은색 스마트폰을 들고 거울 셀카를 찍고 있음. 왼팔에는 세일러 문에 등장하는 작은 검은 고양이 루나를 부드럽게 안고 있음. 루나는 윤기 나는 검은 털, 커다란 금색 눈, 이마에 노란색 초승달 문양이 있음. 루나는 차분하면서도 호기심 어린 표정임.
-세일러 마스는 자신감 넘치고 약간 장난스러우면서도 매력적인 미소를 지으며 카메라를 정면으로 응시함. 부드러운 자연광이 창문을 통해 들어오며, 사실적인 피부 질감, 눈에 보이는 주근깨, 선명한 초점이 특징임.
-```
-
-<img src="https://cms-assets.youmind.com/media/1784189827514_mcr3x3_HMzGqj3W0AA9YlL.jpg" width="600" alt="세일러 마스 거울 셀카">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7228)**
-
-**작성자:** [Myluna](https://x.com/monicamoonx) | **출처:** [Link](https://x.com/monicamoonx/status/2075252023914574244) | **게시일:** Jul 9, 2026
-
----
-### 실사 스타일의 세일러문 거울 셀카
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 자연스러운 조명과 피부 질감을 살린, 정교한 세일러문 코스튬을 입은 여성의 실사 거울 셀카를 위한 고품질 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-창백한 도자기 피부와 얼굴, 어깨, 가슴에 자연스러운 주근깨가 있는 여성의 매우 사실적인 거울 셀카. 그녀는 정교하고 정확하게 구현된 세일러문 코스튬을 입고 있습니다: 파란색 세일러 칼라와 가슴에 큰 빨간 리본이 달린 흰색 레오타드, 흰색과 빨간색 테두리가 있는 짧은 파란색 주름 치마, 황금색 초승달 티아라, 빨간색 포인트가 있는 긴 흰색 장갑, 빨간색 부츠, 황금색 하트 펜던트가 달린 빨간색 초커, 그리고 황금색 브로치. 오당고 머리 모양의 고전적인 금발 머리와 길게 늘어진 트윈테일. 현대적인 욕실에서 한 손에 검은색 스마트폰을 들고 거울 셀카를 찍고 있으며, 자신감 있고 약간 장난기 어린 표정으로 카메라를 정면으로 응시하고 있습니다. 부드러운 자연 채광, 사실적인 피부 질감, 선명한 주근깨, 또렷한 초점, 실사 같은 퀄리티.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075205335040634880/img/UdrgqedZjz4y9CUP.jpg" width="600" alt="실사 스타일의 세일러문 거울 셀카">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7126)**
-
-**작성자:** [Myluna](https://x.com/monicamoonx) | **출처:** [Link](https://x.com/monicamoonx/status/2075205397112123637) | **게시일:** Jul 9, 2026
-
----
-### 숨 막히게 아름다운 상상 속 판타지 세계
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 떠다니는 산, 빛나는 숲, 폭포가 어우러진 현실적인 판타지 풍경을 위한 대규모 시네마틱 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-실제처럼 보이는 숨 막히게 아름다운 상상 속 세계. 떠다니는 산, 거대한 고대 나무, 수정처럼 맑은 강, 빛나는 숲, 안개 낀 호수로 쏟아지는 폭포, 황금빛 일출, 드라마틱한 구름, 이국적인 새, 평화로운 분위기, 시네마틱 구도, 초현실적인 사실감, IMAX, HDR, 볼륨 조명, 자연스러운 색감, 초고해상도, 8K, 전문 사진 촬영, CGI 없음, 일러스트 아님, 실제 장소처럼 보임.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075106901357219840/img/BgbByrZssE0gXhLF.jpg" width="600" alt="숨 막히게 아름다운 상상 속 판타지 세계">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7011)**
-
-**작성자:** [Tesla Owners Silicon Valley](https://x.com/teslaownersSV) | **출처:** [Link](https://x.com/teslaownersSV/status/2075107002020471065) | **게시일:** Jul 9, 2026
-
----
-### 엔젤 플라이트 시퀀스 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 다이내믹한 텍스트 효과와 함께 차원을 이동하는 천사를 묘사한 상세한 판타지 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-책 속의 천사가 현실 세계의 방으로 걸어 들어오고, 그가 달을 향해 날아갈 때 “GOD FIRST ALWAYS”라는 문구가 안개처럼 형성됩니다
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075056939734609920/img/ZFXMqJXRT-Uv0faI.jpg" width="600" alt="엔젤 플라이트 시퀀스 프롬프트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7013)**
-
-**작성자:** [the_light](https://x.com/the_light35) | **출처:** [Link](https://x.com/the_light35/status/2075057016158986588) | **게시일:** Jul 9, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2211,6 +2213,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-19T06:52:47.663Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-19T10:23:09.567Z</sub>
 
 </div>

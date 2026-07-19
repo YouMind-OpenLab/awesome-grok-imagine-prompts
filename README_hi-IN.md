@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2165** |
+| 📝 Total Prompts | **2174** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-19** |
 
@@ -189,6 +189,163 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### देशभक्ति गीत गाती ग्रे बिल्ली का वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक रचनात्मक प्रॉम्प्ट जिसमें सफेद पंजों वाली एक मोटी ग्रे बिल्ली काम करते हुए देशभक्ति का गीत गा रही है।
+
+#### 📝 Prompt
+
+```
+सफेद पंजों वाली एक मोटी ग्रे बिल्ली है। वह काम करते समय धीरे-धीरे “oh beautiful for spacious skies, for amber waves of grain” धुन गाती है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078578004008034304/img/xH1oglULnTnXbhPu.jpg" width="600" alt="देशभक्ति गीत गाती ग्रे बिल्ली का वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7515)**
+
+**Author:** [Susan Kurvach](https://x.com/SKurvach) | **Source:** [Link](https://x.com/SKurvach/status/2078578018801315977) | **Published:** Jul 18, 2026
+
+---
+### जीवंत शेर की ऑयल पेंटिंग
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक अंधेरे बेडरूम के लिए एक रचनात्मक एनीमेशन प्रॉम्प्ट, जहाँ एक फ्रेम में लगी शेर की ऑयल पेंटिंग जीवित हो उठती है और हिलने लगती है।
+
+#### 📝 Prompt
+
+```
+काली दीवारों वाले एक अंधेरे बेडरूम की दीवार पर लटका हुआ एक बड़ा अलंकृत काला फ्रेम। पेंटिंग के बगल में भारी लाल मखमली पर्दों वाली एक खिड़की है। अलंकृत काले फ्रेम के अंदर एक ऑयल पेंटिंग है जो जीवित हो उठी है। पेंटिंग के अंदर केवल शेर ही हिलता है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078575143455014912/img/MSLfxwToTfN-zDAz.jpg" width="600" alt="जीवंत शेर की ऑयल पेंटिंग">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7517)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2078575196550615483) | **Published:** Jul 18, 2026
+
+---
+### सिनेमैटिक डार्क फैंटेसी एल्फ पोर्ट्रेट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक डार्क फैंटेसी वीडियो बनाने के लिए विस्तृत प्रॉम्प्ट, जिसमें एक एल्फ महिला है जिसकी आँखों पर एक बड़ा पतंगा (moth) है और नाटकीय रिम लाइटिंग का उपयोग किया गया है।
+
+#### 📝 Prompt
+
+```
+एक एल्फ महिला का एक्सट्रीम क्लोज-अप पोर्ट्रेट, जिसकी त्वचा बहुत पीली, झाइयों वाली और धूल भरी है, नुकीले एल्फ कान, सिर पर गॉथिक फिलिग्री और गहरे रत्नों से जड़ा एक अलंकृत काला-सुनहरा ताज, लंबे लहराते सफेद बाल आंशिक रूप से दिखाई दे रहे हैं, एक बहुत बड़ा और विस्तृत पतंगा जिसके जटिल पैटर्न वाले पंख उसकी दोनों आँखों को पूरी तरह से ढक रहे हैं, पतंगे का शरीर और फैले हुए पंख आँखों के क्षेत्र को पूरी तरह छिपा रहे हैं, नाटकीय लो-की सिनेमैटिक लाइटिंग के साथ मजबूत रिम लाइट जो त्वचा पर बनावट और धूल के कणों को उभार रही है, म्यूट और डीसैचुरेटेड कलर पैलेट जिसमें सोने और काले रंग की प्रधानता है, डार्क फैंटेसी वातावरण, हाइपर-रियलिस्टिक, हाइपर-डिटेल्ड, सिनेमैटिक, मूडी।
+```
+
+<img src="https://cms-assets.youmind.com/media/1784448567940_z5jw75_HNXvRqjXgAAJLzb.jpg" width="600" alt="सिनेमैटिक डार्क फैंटेसी एल्फ पोर्ट्रेट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7522)**
+
+**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2078540320497619021) | **Published:** Jul 18, 2026
+
+---
+### टोटेनहम हॉटस्पर फैन सेल्फी प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ऑफिस के अंदरूनी माहौल में टोटेनहम हॉटस्पर फुटबॉल जर्सी पहने एक महिला की यथार्थवादी सेल्फी के लिए एक अत्यधिक विस्तृत वर्णनात्मक प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+20 के दशक की शुरुआत में एक प्यारी युवा पूर्वी एशियाई महिला की फोटो-यथार्थवादी सेल्फी, कंधे तक लंबे गहरे भूरे-काले बाल, सीधे बैंग्स और हल्की लहरों के साथ, मोटे काले आयताकार चश्मे पहने हुए। वह एक चंचल और मजाकिया चेहरा बना रही है: मुंह खुला, जीभ बाहर निकली हुई, सीधे कैमरे की ओर देख रही है।
+
+उसने नेवी ब्लू रैगलान कंधों और आस्तीन वाली सफेद टोटेनहम हॉटस्पर फुटबॉल जर्सी पहनी है। छाती पर प्रमुखता से: एक गेंद पर खड़ा क्लासिक टोटेनहम कॉकरेल क्रेस्ट, नीचे काला नाइकी स्वूश, और नीचे बड़े बोल्ड लाल रंग में "AIA" प्रायोजक टेक्स्ट। बाईं आस्तीन पर "KIA" टेक्स्ट का कुछ हिस्सा दिखाई दे रहा है।
+
+वह हल्के रंगों वाली दीवारों, बाईं ओर सफेद क्षैतिज ब्लाइंड्स, लकड़ी के फर्श वाले एक सामान्य इनडोर कमरे में काली ऑफिस कुर्सी पर बैठी है, और उसके पीछे दीवार पर एक और फुटबॉल जर्सी लटकी हुई है। प्राकृतिक दिन का प्रकाश, यथार्थवादी त्वचा बनावट, स्पष्ट विवरण, कैजुअल सेल्फी एंगल, उच्च रिज़ॉल्यूशन, 8k फोटो-यथार्थवाद।
+```
+
+<img src="https://cms-assets.youmind.com/media/1784448563059_4zf39l_HNe1fQibQAAMMJz.jpg" width="600" alt="टोटेनहम हॉटस्पर फैन सेल्फी प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7521)**
+
+**Author:** [Feyber | AI Creator](https://x.com/woleswoosh) | **Source:** [Link](https://x.com/woleswoosh/status/2078449711980450083) | **Published:** Jul 18, 2026
+
+---
+### लिविंग मेटल ऑर्गेनिज्म वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक वैचारिक साइंस-फिक्शन प्रॉम्प्ट जो जीवित धातु की गेंदों को कीमती जीवों के रूप में वर्णित करता है जो एक क्रांति को बढ़ावा दे रहे हैं।
+
+#### 📝 Prompt
+
+```
+धातु की ये गेंदें कीमती और जीवित जीव हैं जो तकनीकी क्रांति को बढ़ावा देती हैं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078434978551980032/img/tmZN-iVwdcziDEFj.jpg" width="600" alt="लिविंग मेटल ऑर्गेनिज्म वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7516)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2078435020054610058) | **Published:** Jul 18, 2026
+
+---
+### कॉस्मिक हॉरर शैटर्ड मिरर यूनिवर्स
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक महाकाव्य विज्ञान-फाई फंतासी वीडियो प्रॉम्प्ट, जिसमें एक टूटता हुआ ब्रह्मांडीय दर्पण, घूमती हुई आकाशगंगाएँ और एक प्राचीन ब्रह्मांड के आकार की आँख दिखाई गई है।
+
+#### 📝 Prompt
+
+```
+एक टूटता हुआ ब्रह्मांडीय दर्पण अरबों टुकड़ों में बिखर जाता है, जिनमें से प्रत्येक एक अलग ब्रह्मांड को दर्शाता है जहाँ विदेशी देवी को एक ही दुखद भाग्य का सामना करना पड़ता है। ये टुकड़े आकाशगंगाओं से भी बड़े एक विशाल खगोलीय ताले में विलीन हो जाते हैं। जैसे ही ताला धीरे-धीरे खुलता है, अंतरिक्ष में एक दिल की धड़कन गूंजती है, जिससे तारे कांपने लगते हैं। टूटी हुई मुहर के पार, एक ब्रह्मांड के आकार की प्राचीन आँख खुलती है, जिसकी पुतली में अनगिनत घूमती हुई आकाशगंगाएँ समाहित हैं। एक ही पलक झपकते ही, पूरी आकाशगंगाएँ अंधेरे में विलीन हो जाती हैं। देवी पहली बार डर के मारे जम जाती है। एक टेलीपैथिक आवाज़ फुसफुसाती है, "शुक्रिया... मुझे आज़ाद करने के लिए।" उसके चमकते शरीर पर दरारें फैल जाती हैं और भीतर से चमकदार सफेद ब्रह्मांडीय ऊर्जा फूट पड़ती है। अल्ट्रा सिनेमैटिक, IMAX, Unreal Engine 5, फोटो-रियलिस्टिक, कॉस्मिक हॉरर, वॉल्यूमेट्रिक लाइटिंग, गैलेक्सी-स्केल विजुअल्स, ड्रामेटिक कैमरा मूवमेंट, 8K, हाइपर डिटेल्ड, एपिक साइंस-फिक्शन फंतासी।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078407939208159232/img/TV8-cLpw1Nm5QJv1.jpg" width="600" alt="कॉस्मिक हॉरर शैटर्ड मिरर यूनिवर्स">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7520)**
+
+**Author:** [badgirl🍀 🐶🐈‍⬛](https://x.com/MPhuong609) | **Source:** [Link](https://x.com/MPhuong609/status/2078408030933381214) | **Published:** Jul 18, 2026
+
+---
+### पांडा रोलर कोस्टर 3D एनिमेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Blender-जैसे स्टाइल में मोशन ब्लर इफेक्ट्स के साथ रोलर कोस्टर की सवारी करते हुए एक कार्टूनिश पांडा के लिए 3D रेंडर प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+एक कार्टूनिश पांडा Blender 3D रेंडर में मोशन ब्लर और प्राकृतिक बैकग्राउंड के साथ रोलर कोस्टर की सवारी कर रहा है।
+पांडा मजे कर रहा है 😄
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078330473974001664/img/SmZ_vnjIivQ8ABnz.jpg" width="600" alt="पांडा रोलर कोस्टर 3D एनिमेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7518)**
+
+**Author:** [Sadie 🕊🖼️](https://x.com/poetrynthings) | **Source:** [Link](https://x.com/poetrynthings/status/2078330507230589122) | **Published:** Jul 18, 2026
+
+---
+### यथार्थवादी 4K सिनेमैटिक अपस्केल प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> सिनेमैटिक क्वालिटी, इंटरपोलेशन और तीव्र छाया के साथ वॉल्यूमेट्रिक प्रभावों पर केंद्रित एक तकनीकी वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+यथार्थवादी 4K सिनेमैटिक क्वालिटी / स्मूथ मिक्स रियलिज्म / इंटरपोलेशन और अपस्केल / वॉल्यूमेट्रिक इफेक्ट / नरम, अधिक तीव्र छाया और ध्वनियाँ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078322717904764928/img/bcmrms4zRXCeNwTG.jpg" width="600" alt="यथार्थवादी 4K सिनेमैटिक अपस्केल प्रॉम्प्ट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7519)**
+
+**Author:** [Arak Dark](https://x.com/orgunus93304) | **Source:** [Link](https://x.com/orgunus93304/status/2078322764847403145) | **Published:** Jul 18, 2026
+
+---
 ### टॉर्टिला चिप डिपिंग मीम
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1050,6 +1207,25 @@ Grok द्वारा बनाई गई उस स्थिर छवि क
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7312)**
 
 **Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2077517201184084139) | **Published:** Jul 15, 2026
+
+---
+### कॉस्मिक यार्न कैट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक असली (surreal) प्रॉम्प्ट जिसमें एक बिल्ली को चमकते हुए ऊन के गोलों और ग्रहों से बनी एक पूरी दुनिया मिलती है।
+
+#### 📝 Prompt
+
+```
+जब आपकी साधारण पालतू बिल्ली को अचानक पता चलता है कि ब्रह्मांड चमकते हुए ऊन के गोलों और घूमते हुए ग्रहों से बना है... तो खुशी का ठिकाना नहीं रहता!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077495982846091264/img/lfnp8s3el34dwedU.jpg" width="600" alt="कॉस्मिक यार्न कैट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7523)**
+
+**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2077496246089007407) | **Published:** Jul 15, 2026
 
 ---
 ### तेज़ मोटरसाइकिल लेज़र स्पीड बर्स्ट
@@ -1976,180 +2152,6 @@ Call of Duty Modern Warfare शैली में अल्ट्रा फो�
 **Author:** [Arak Dark](https://x.com/orgunus93304) | **Source:** [Link](https://x.com/orgunus93304/status/2075756972553486681) | **Published:** Jul 11, 2026
 
 ---
-### स्नो क्वीन पर्माफ्रॉस्ट पैलेस वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> स्नो क्वीन के पर्माफ्रॉस्ट भूमि और उसके आर्कटिक महल से होकर यात्रा करने का वीडियो बनाने के लिए एक वर्णनात्मक प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-स्नो क्वीन (Snedronningen), जो बर्फ के कणों या "स्नो-बीज़" की रानी है, जो बर्फ के साथ पूरी दुनिया में यात्रा करती है। उसका महल और बगीचे पर्माफ्रॉस्ट की भूमि में, विशेष रूप से स्पिट्सबर्गेन (Spitsbergen) में स्थित हैं।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075688361616904192/img/O2dQTf94XaXvZ8ou.jpg" width="600" alt="स्नो क्वीन पर्माफ्रॉस्ट पैलेस वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7062)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2075688977089139000) | **Published:** Jul 10, 2026
-
----
-### ब्लैक हेलेन ऑफ ट्रॉय सिनेमैटिक वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक प्रॉम्प्ट जिसे ब्लैक हेलेन ऑफ ट्रॉय का सिनेमैटिक वीडियो बनाने के लिए डिज़ाइन किया गया है, जो मानक कास्टिंग के बजाय विशिष्ट सांस्कृतिक प्रतिनिधित्व पर जोर देता है।
-
-#### 📝 Prompt
-
-```
-मैं केवल यह नहीं चाहता कि कोई अश्वेत अभिनेत्री हेलेन ऑफ ट्रॉय की भूमिका निभाए। मुझे एक ब्लैक हेलेन ऑफ ट्रॉय चाहिए। वह वीडियो बनाएं।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075601009921957888/img/aN9beJL_fzdcvCfd.jpg" width="600" alt="ब्लैक हेलेन ऑफ ट्रॉय सिनेमैटिक वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7061)**
-
-**Author:** [Huff](https://x.com/Huff4Congress) | **Source:** [Link](https://x.com/Huff4Congress/status/2075601096253309265) | **Published:** Jul 10, 2026
-
----
-### सिनेमैटिक फॉरेस्ट FPV सनराइज
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> सूर्योदय के समय धुंध भरे जंगल में रेसिंग करता एक हाई-स्पीड FPV ड्रोन शॉट, जिसमें सुनहरी रोशनी की किरणें और तैरते हुए कण शामिल हैं जो बिखरने से पहले टेक्स्ट का रूप लेते हैं।
-
-#### 📝 Prompt
-
-```
-FPV शॉट: कैमरा सूर्योदय के समय घने जंगल से होकर गुजरता है, जो सुबह की धुंध से ढके ऊंचे पेड़ों के बीच से निकलता है। सुनहरी किरणें पेड़ों की छतरियों को चीरती हुई निकलती हैं, जबकि हवा में तैरते हुए अरबों पराग कण और ओस की छोटी बूंदें बह रही हैं। कैमरा सूरज की रोशनी की एक किरण में प्रवेश करता है जहाँ प्रकाशित कण स्वाभाविक रूप से एक साथ मिलकर "MORNING" शब्द बनाते हैं और फिर सुनहरी चमकती धूल की बौछार में बदल जाते हैं। एपिक सनराइज, सिनेमैटिक नेचर, अल्ट्रा रियलिस्टिक एटमॉस्फियर, ब्रेथटेकिंग VFX।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075586213294022656/img/LIEf70JuAxykwiAw.jpg" width="600" alt="सिनेमैटिक फॉरेस्ट FPV सनराइज">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7230)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2075586581294092409) | **Published:** Jul 10, 2026
-
----
-### बायोल्यूमिनेसेंट डॉन फैंटेसी प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सुंदर सिनेमाई प्रॉम्प्ट जो पल्सिंग लाइट्स और सूक्ष्म गति के साथ एक काल्पनिक भोर के दृश्य का वर्णन करता है।
-
-#### 📝 Prompt
-
-```
-भोर के तारे का धीरे-धीरे उदय, बायोल्यूमिनेसेंट फूलों का प्रकाश के साथ धड़कना, हल्की रात की हवा में लहराते बैनर, कवच पर धीरे-धीरे सांस लेती दिव्य चमक।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075306107371974656/img/ZEKl6A-mpnvhQId8.jpg" width="600" alt="बायोल्यूमिनेसेंट डॉन फैंटेसी प्रॉम्प्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7012)**
-
-**Author:** [Terry Palmieri](https://x.com/TerryPalmieri14) | **Source:** [Link](https://x.com/TerryPalmieri14/status/2075306197566320781) | **Published:** Jul 9, 2026
-
----
-### ग्रास कोर्ट टेनिस एक्शन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> टेनिस मैच के लिए एक विस्तृत सिनेमैटिक प्रॉम्प्ट, जिसमें विशिष्ट लाइटिंग, फिजिक्स और कैमरा मूवमेंट शामिल हैं।
-
-#### 📝 Prompt
-
-```
-टेनिस खिलाड़ी अपना फोरहैंड स्विंग पूरा करता है और पीली गेंद ग्रास कोर्ट पर तेजी से आगे बढ़ती है। रैकेट की तारें कंपन करती हैं, घास की पत्तियां हवा में लहराती हैं, सुनहरी धूप गेंद पर चमकती है, और स्टेडियम का हल्का माहौल है जिसमें कैमरे का सूक्ष्म पुश-इन शामिल है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075286654127136768/img/BvYqUAVhqVp1FaO7.jpg" width="600" alt="ग्रास कोर्ट टेनिस एक्शन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7010)**
-
-**Author:** [Robert Heinlein](https://x.com/strangerinastr) | **Source:** [Link](https://x.com/strangerinastr/status/2075286711521956062) | **Published:** Jul 9, 2026
-
----
-### Sailor Mars मिरर सेल्फी
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Rei Hino के Sailor Mars अवतार की एक आधुनिक बाथरूम में Luna के साथ मिरर सेल्फी लेते हुए यथार्थवादी वीडियो बनाने के लिए एक अत्यधिक विस्तृत प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-Rei Hino के Sailor Mars अवतार की अत्यधिक यथार्थवादी मिरर सेल्फी, उनके चेहरे, कंधों और छाती पर प्राकृतिक झाइयां (freckles)। उनके लंबे, सीधे और चमकदार काले बाल हैं, जिनके आगे के बाल (bangs) सीधे हैं और पीछे की ओर गिर रहे हैं।
-उन्होंने Sailor Mars की सटीक क्लासिक पोशाक पहनी है: सफेद लियोटार्ड, सफेद ट्रिम के साथ लाल नाविक कॉलर, लाल गोलाकार केंद्र और सुनहरे ब्रोच के साथ बड़ा बैंगनी धनुष, बैंगनी अंडरस्कर्ट और सुनहरे ट्रिम के साथ छोटी लाल प्लीटेड स्कर्ट, लाल रत्न के साथ सुनहरी टियारा, लाल कफ के साथ लंबे सफेद दस्ताने, चमकदार लाल जूते, सुनहरे स्टार पेंडेंट के साथ लाल चोकर।
-वह एक आधुनिक चमकदार मार्बल बाथरूम में बैठी हैं और अपने दाहिने हाथ में काले स्मार्टफोन से मिरर सेल्फी ले रही हैं। अपने बाएं हाथ में उन्होंने धीरे से एक छोटी काली बिल्ली को पकड़ा हुआ है - Sailor Moon की Luna, जिसके बाल चमकदार काले हैं, बड़ी सुनहरी आंखें हैं और माथे पर पीले रंग का अर्धचंद्र (crescent moon) का निशान है। Luna शांत और जिज्ञासु दिख रही है।
-Sailor Mars सीधे कैमरे की ओर आत्मविश्वास भरी, थोड़ी चंचल और आकर्षक मुस्कान के साथ देख रही हैं। खिड़की से आती हल्की प्राकृतिक रोशनी, यथार्थवादी त्वचा की बनावट, दिखाई देने वाली झाइयां, शार्प फोकस।
-```
-
-<img src="https://cms-assets.youmind.com/media/1784189827514_mcr3x3_HMzGqj3W0AA9YlL.jpg" width="600" alt="Sailor Mars मिरर सेल्फी">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7228)**
-
-**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2075252023914574244) | **Published:** Jul 9, 2026
-
----
-### फोटो-रियलिस्टिक सेलर मून मिरर सेल्फी
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक महिला की सटीक सेलर मून पोशाक में यथार्थवादी मिरर सेल्फी के लिए एक अत्यधिक विस्तृत वीडियो प्रॉम्प्ट, जिसमें प्राकृतिक रोशनी और त्वचा की बनावट शामिल है।
-
-#### 📝 Prompt
-
-```
-एक महिला की अत्यधिक यथार्थवादी मिरर सेल्फी, जिसकी त्वचा दूधिया सफेद है और चेहरे, कंधों व छाती पर हल्के प्राकृतिक झाईयां (freckles) हैं। उसने एक विस्तृत और सटीक सेलर मून पोशाक पहनी है: नीले सेलर कॉलर और छाती पर बड़े लाल बो (bow) के साथ सफेद लियोटार्ड, सफेद और लाल ट्रिम वाली छोटी नीली प्लीटेड स्कर्ट, सुनहरे अर्धचंद्राकार मुकुट, लाल लहजे वाले लंबे सफेद दस्ताने, लाल जूते, सुनहरे दिल के पेंडेंट वाला लाल चोकर, और सुनहरा ब्रोच। लंबे लहराते पोनीटेल के साथ ओडांगो बन (odango buns) में क्लासिक सुनहरे बाल। वह एक आधुनिक बाथरूम में मिरर सेल्फी ले रही है, एक हाथ में काला स्मार्टफोन पकड़े हुए, आत्मविश्वास और थोड़ी चंचल अभिव्यक्ति के साथ सीधे कैमरे की ओर देख रही है। खिड़की से आती नरम प्राकृतिक रोशनी, यथार्थवादी त्वचा की बनावट, स्पष्ट झाईयां, शार्प फोकस, फोटो-रियलिस्टिक।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075205335040634880/img/UdrgqedZjz4y9CUP.jpg" width="600" alt="फोटो-रियलिस्टिक सेलर मून मिरर सेल्फी">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7126)**
-
-**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2075205397112123637) | **Published:** Jul 9, 2026
-
----
-### लुभावनी काल्पनिक दुनिया
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> तैरते पहाड़ों, चमकते जंगलों और झरनों वाले एक यथार्थवादी काल्पनिक परिदृश्य के लिए एक विशाल सिनेमाई वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-एक लुभावनी काल्पनिक दुनिया जो पूरी तरह से वास्तविक दिखती है, जिसमें तैरते पहाड़, विशाल प्राचीन पेड़, क्रिस्टल जैसी नदियाँ, चमकते जंगल, धुंधली झीलों में गिरते झरने, सुनहरी सुबह, नाटकीय बादल, विदेशी पक्षी, शांतिपूर्ण वातावरण, सिनेमाई संरचना, अल्ट्रा-फोटोरीलिस्टिक, IMAX, HDR, वॉल्यूमेट्रिक लाइटिंग, प्राकृतिक रंग, हाइपर-डिटेल्ड, 8K, पेशेवर फोटोग्राफी, कोई CGI नहीं, कोई चित्रण नहीं, बिल्कुल असली जगह जैसी।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075106901357219840/img/BgbByrZssE0gXhLF.jpg" width="600" alt="लुभावनी काल्पनिक दुनिया">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7011)**
-
-**Author:** [Tesla Owners Silicon Valley](https://x.com/teslaownersSV) | **Source:** [Link](https://x.com/teslaownersSV/status/2075107002020471065) | **Published:** Jul 9, 2026
-
----
-### Angel Flight Sequence Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक विस्तृत फैंटेसी प्रॉम्प्ट जो एक एंजेल को गतिशील टेक्स्ट इफेक्ट्स के साथ दुनिया के बीच बदलाव करते हुए दर्शाता है।
-
-#### 📝 Prompt
-
-```
-किताब से निकला एंजेल उस कमरे में कदम रखता है जहाँ दुनिया वास्तविक है, और जैसे ही वह उड़कर चाँद की ओर जाता है, “GOD FIRST ALWAYS” शब्द एक धुंधले तरीके से बनते हैं
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075056939734609920/img/ZFXMqJXRT-Uv0faI.jpg" width="600" alt="Angel Flight Sequence Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7013)**
-
-**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2075057016158986588) | **Published:** Jul 9, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2211,6 +2213,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-19T06:52:51.125Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-19T10:23:12.005Z</sub>
 
 </div>

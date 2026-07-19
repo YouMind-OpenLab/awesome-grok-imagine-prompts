@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **2165** |
+| 📝 提示词总数 | **2174** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-07-19** |
 
@@ -189,6 +189,163 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 歌唱爱国歌曲的灰猫视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个富有创意的提示词，描绘了一只长着白爪子的胖灰猫在工作时唱着爱国歌曲。
+
+#### 📝 提示词
+
+```
+有一只长着白爪子的胖灰猫，它在工作时轻声唱着“哦，为了辽阔的天空，为了金色的谷浪”这首曲子。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078578004008034304/img/xH1oglULnTnXbhPu.jpg" width="600" alt="歌唱爱国歌曲的灰猫视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7515)**
+
+**作者:** [Susan Kurvach](https://x.com/SKurvach) | **来源:** [Link](https://x.com/SKurvach/status/2078578018801315977) | **发布时间:** Jul 18, 2026
+
+---
+### 栩栩如生的狮子油画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个适用于昏暗卧室的创意动画提示词，画面中一幅狮子油画仿佛活了过来并开始移动。
+
+#### 📝 提示词
+
+```
+一面挂在昏暗卧室墙上的大型华丽黑色画框，墙面呈黑色。画作一侧是一扇带有厚重红色天鹅绒窗帘的窗户。华丽的黑色画框内是一幅已经“活”过来的油画，只有画中的狮子在移动。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078575143455014912/img/MSLfxwToTfN-zDAz.jpg" width="600" alt="栩栩如生的狮子油画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7517)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2078575196550615483) | **发布时间:** Jul 18, 2026
+
+---
+### 电影级暗黑奇幻精灵肖像
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一份详细的提示词，用于创作一段暗黑奇幻风格的视频，画面中是一位双眼被巨型飞蛾覆盖的精灵女性，并带有戏剧性的轮廓光效果。
+
+#### 📝 提示词
+
+```
+精灵女性的极致特写肖像，皮肤苍白且布满雀斑与尘埃，长着尖尖的精灵耳，头上戴着装饰华丽的黑金皇冠，镶嵌着哥特式金银丝工艺与深色宝石，隐约可见飘逸的长白发，一只细节极其丰富的巨型飞蛾完全遮住了她的双眼，飞蛾的身体和展开的翅膀彻底掩盖了眼部区域，戏剧性的低调电影级布光，强烈的轮廓光突显了皮肤的纹理与尘埃颗粒，采用低饱和度的色调，以金色和黑色为主，营造出暗黑奇幻的氛围，超写实，超细节，电影感，情绪化。
+```
+
+<img src="https://cms-assets.youmind.com/media/1784448567940_z5jw75_HNXvRqjXgAAJLzb.jpg" width="600" alt="电影级暗黑奇幻精灵肖像">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7522)**
+
+**作者:** [Myluna](https://x.com/monicamoonx) | **来源:** [Link](https://x.com/monicamoonx/status/2078540320497619021) | **发布时间:** Jul 18, 2026
+
+---
+### 托特纳姆热刺球迷自拍提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个高度详细的描述性提示词，用于生成一位身穿托特纳姆热刺足球球衣的女性在室内办公环境下的写实自拍。
+
+#### 📝 提示词
+
+```
+一张照片级写实的自拍，主角是一位 20 出头的可爱东亚年轻女性，留着齐肩深棕黑色直发，带有平刘海和轻微波浪卷，佩戴黑色粗框长方形眼镜。她做着俏皮搞怪的表情：嘴巴微张，舌头向一侧伸出，直视镜头。
+
+她身穿一件白色托特纳姆热刺足球球衣，带有海军蓝插肩袖。胸前显著位置印有经典的托特纳姆公鸡队徽，下方有黑色 Nike 对勾标志，以及醒目的红色“AIA”赞助商文字。左袖上可见部分“KIA”字样。
+
+她坐在黑色办公椅上，身处一个休闲的室内房间，墙壁明亮，左侧有白色横向百叶窗，铺设木地板，身后墙上挂着另一件足球球衣。自然光，真实的皮肤纹理，清晰的细节，休闲自拍视角，高分辨率，8k 照片级写实。
+```
+
+<img src="https://cms-assets.youmind.com/media/1784448563059_4zf39l_HNe1fQibQAAMMJz.jpg" width="600" alt="托特纳姆热刺球迷自拍提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7521)**
+
+**作者:** [Feyber | AI Creator](https://x.com/woleswoosh) | **来源:** [Link](https://x.com/woleswoosh/status/2078449711980450083) | **发布时间:** Jul 18, 2026
+
+---
+### 液态金属生物视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个概念性科幻提示词，描述了作为珍贵生物的金属球如何推动一场技术革命。
+
+#### 📝 提示词
+
+```
+这些金属球是珍贵的生命体，它们为技术革命提供了动力。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078434978551980032/img/tmZN-iVwdcziDEFj.jpg" width="600" alt="液态金属生物视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7516)**
+
+**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **来源:** [Link](https://x.com/PhilipCarrn7711/status/2078435020054610058) | **发布时间:** Jul 18, 2026
+
+---
+### 宇宙恐怖：破碎的镜像宇宙
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段史诗级的科幻奇幻视频提示词，呈现了破碎的宇宙之镜、旋转的星系以及一只古老且如宇宙般巨大的眼睛。
+
+#### 📝 提示词
+
+```
+一面破碎的宇宙之镜炸裂成数十亿个碎片，每一块碎片都映射出一个不同的宇宙，在那里，外星女神遭遇了同样的悲惨命运。碎片汇聚成一把比星系还要巨大的天体锁。随着锁缓缓开启，心跳声在太空中回荡，令群星颤抖。在破碎的封印之后，一只如宇宙般巨大的古老眼睛睁开了，其虹膜中包含着无数旋转的星系。仅仅眨眼之间，整个星系便消失在黑暗中。女神第一次因恐惧而僵住。一个心灵感应的声音低语道：“谢谢你……让我重获自由。”裂纹在她发光的身体上蔓延，耀眼的白色宇宙能量从体内喷涌而出。极致电影感，IMAX，Unreal Engine 5，照片级真实，宇宙恐怖，体积光，星系级视觉效果，戏剧性运镜，8K，超高细节，史诗级科幻奇幻。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078407939208159232/img/TV8-cLpw1Nm5QJv1.jpg" width="600" alt="宇宙恐怖：破碎的镜像宇宙">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7520)**
+
+**作者:** [badgirl🍀 🐶🐈‍⬛](https://x.com/MPhuong609) | **来源:** [Link](https://x.com/MPhuong609/status/2078408030933381214) | **发布时间:** Jul 18, 2026
+
+---
+### 熊猫过山车 3D 动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个 3D 渲染提示词，描绘了一只卡通熊猫乘坐过山车，带有类似 Blender 风格的动态模糊效果。
+
+#### 📝 提示词
+
+```
+一只卡通熊猫在 Blender 3D 渲染中乘坐过山车，带有动态模糊和自然背景。
+熊猫玩得很开心 😄
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078330473974001664/img/SmZ_vnjIivQ8ABnz.jpg" width="600" alt="熊猫过山车 3D 动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7518)**
+
+**作者:** [Sadie 🕊🖼️](https://x.com/poetrynthings) | **来源:** [Link](https://x.com/poetrynthings/status/2078330507230589122) | **发布时间:** Jul 18, 2026
+
+---
+### 逼真的 4K 电影级画质提升提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个侧重于电影级画质、插帧和体积光效果，并带有强烈阴影对比的技术性视频提示词。
+
+#### 📝 提示词
+
+```
+逼真的 4K 电影级画质 / 平滑混合真实感 / 插帧与画质提升 / 体积光效果 / 更柔和、更强烈的阴影与声音
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078322717904764928/img/bcmrms4zRXCeNwTG.jpg" width="600" alt="逼真的 4K 电影级画质提升提示词">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7519)**
+
+**作者:** [Arak Dark](https://x.com/orgunus93304) | **来源:** [Link](https://x.com/orgunus93304/status/2078322764847403145) | **发布时间:** Jul 18, 2026
+
+---
 ### 玉米片蘸酱模因
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1050,6 +1207,25 @@ Lila 驾驶着一艘白色小帆船在平静的切萨皮克湾上轻柔航行，
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7312)**
 
 **作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **来源:** [Link](https://x.com/clemensilverio/status/2077517201184084139) | **发布时间:** Jul 15, 2026
+
+---
+### 宇宙毛线猫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个超现实的提示词，描绘了一只猫发现宇宙是由发光的毛线球和行星组成的场景。
+
+#### 📝 提示词
+
+```
+当你的普通家猫突然发现宇宙是由发光的毛线球和旋转的行星组成时……纯粹的快乐瞬间解锁！
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077495982846091264/img/lfnp8s3el34dwedU.jpg" width="600" alt="宇宙毛线猫">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7523)**
+
+**作者:** [SophieZX](https://x.com/Z_XSophie) | **来源:** [Link](https://x.com/Z_XSophie/status/2077496246089007407) | **发布时间:** Jul 15, 2026
 
 ---
 ### 高速摩托车激光极速冲刺
@@ -1976,180 +2152,6 @@ Ultra photorealistic first-person view in Call of Duty Modern Warfare style, pla
 **作者:** [Arak Dark](https://x.com/orgunus93304) | **来源:** [Link](https://x.com/orgunus93304/status/2075756972553486681) | **发布时间:** Jul 11, 2026
 
 ---
-### 冰雪女王永冻宫殿视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段用于生成冰雪女王穿行于永冻之地及其北极宫殿视频的描述性提示词。
-
-#### 📝 提示词
-
-```
-冰雪女王（Snedronningen），即雪花或“雪蜂”的女王，她随雪花游历世界各地。她的宫殿和花园位于永冻之地，具体而言是在斯瓦尔巴群岛（Spitsbergen）。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075688361616904192/img/O2dQTf94XaXvZ8ou.jpg" width="600" alt="冰雪女王永冻宫殿视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7062)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2075688977089139000) | **发布时间:** Jul 10, 2026
-
----
-### 黑人版特洛伊的海伦电影感视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 旨在生成黑人版特洛伊的海伦电影感视频的提示词，强调特定的文化呈现，而非传统的选角方式。
-
-#### 📝 提示词
-
-```
-我不仅仅想要一位黑人女演员来扮演特洛伊的海伦。我想要的是一位黑人版特洛伊的海伦。请制作这段视频。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075601009921957888/img/aN9beJL_fzdcvCfd.jpg" width="600" alt="黑人版特洛伊的海伦电影感视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7061)**
-
-**作者:** [Huff](https://x.com/Huff4Congress) | **来源:** [Link](https://x.com/Huff4Congress/status/2075601096253309265) | **发布时间:** Jul 10, 2026
-
----
-### 电影感森林 FPV 日出
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段高速 FPV 无人机镜头，穿梭于日出时分雾气缭绕的森林中，金色的光束与漂浮的微粒汇聚成文字后随之消散。
-
-#### 📝 提示词
-
-```
-FPV 镜头：摄像机在日出时分穿过茂密的森林，在晨雾笼罩的参天大树间穿梭。金色的光束穿透树冠，数以亿计的漂浮花粉微粒和细小的露珠在空气中飘荡。摄像机进入一束阳光中，被照亮的微粒自然同步，汇聚成“MORNING”字样，随后化作一阵闪烁的金色尘埃四散开来。史诗般的日出，电影级自然风光，超写实氛围，令人惊叹的视觉特效。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075586213294022656/img/LIEf70JuAxykwiAw.jpg" width="600" alt="电影感森林 FPV 日出">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7230)**
-
-**作者:** [Déborah](https://x.com/dvorahfr) | **来源:** [Link](https://x.com/dvorahfr/status/2075586581294092409) | **发布时间:** Jul 10, 2026
-
----
-### 生物发光黎明奇幻提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个精美的电影级提示词，描述了带有脉动光芒和细微动态的奇幻黎明场景。
-
-#### 📝 提示词
-
-```
-晨星缓慢升起，生物发光花朵闪烁着脉动光芒，旗帜在微弱的夜风中飘动，盔甲上笼罩着神圣的光辉，并伴随着轻柔的呼吸感。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075306107371974656/img/ZEKl6A-mpnvhQId8.jpg" width="600" alt="生物发光黎明奇幻提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7012)**
-
-**作者:** [Terry Palmieri](https://x.com/TerryPalmieri14) | **来源:** [Link](https://x.com/TerryPalmieri14/status/2075306197566320781) | **发布时间:** Jul 9, 2026
-
----
-### 草地网球赛动态
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份关于网球比赛的详细电影级提示词，包含特定的光影、物理效果和镜头运动。
-
-#### 📝 提示词
-
-```
-网球运动员完成正手挥拍动作，黄色的网球在草地球场上疾驰而过。球拍线震动，草叶在微风中摇曳，金色的阳光在球面上闪烁，营造出柔和的赛场氛围，并伴有细微的镜头推进效果。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075286654127136768/img/BvYqUAVhqVp1FaO7.jpg" width="600" alt="草地网球赛动态">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7010)**
-
-**作者:** [Robert Heinlein](https://x.com/strangerinastr) | **来源:** [Link](https://x.com/strangerinastr/status/2075286711521956062) | **发布时间:** Jul 9, 2026
-
----
-### 火野丽（Sailor Mars）镜面自拍
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于生成高质量视频的详细提示词，描绘了火野丽（Sailor Mars）在现代浴室中与露娜（Luna）进行镜面自拍的写实场景。
-
-#### 📝 提示词
-
-```
-火野丽（Sailor Mars）的高写实镜面自拍，面部、肩部和胸部带有自然的雀斑。她留着一头乌黑亮丽的长直发，直刘海垂下，长发披在背后。
-她穿着还原度极高的经典 Sailor Mars 制服：白色紧身衣，带有白色滚边的红色水手领，巨大的紫色蝴蝶结，中心饰有红色圆形装饰和金色胸针，红色短款百褶裙，内衬为紫色并带有金色滚边，佩戴带有红色宝石的金色头饰，长款白色手套配红色袖口，闪亮的红色长靴，以及带有金色星星吊坠的红色颈圈。
-她坐在明亮的现代大理石浴室里，右手拿着一部黑色智能手机进行镜面自拍。左臂轻轻抱着一只黑色小猫——来自《美少女战士》的露娜（Luna），它有着闪亮的黑色皮毛、金色大眼睛，额头上有一个黄色新月符号。露娜看起来既平静又好奇。
-Sailor Mars 直视镜头，露出了自信、略带俏皮且迷人的微笑。柔和的自然窗光，真实的皮肤质感，清晰可见的雀斑，画面焦点锐利。
-```
-
-<img src="https://cms-assets.youmind.com/media/1784189827514_mcr3x3_HMzGqj3W0AA9YlL.jpg" width="600" alt="火野丽（Sailor Mars）镜面自拍">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7228)**
-
-**作者:** [Myluna](https://x.com/monicamoonx) | **来源:** [Link](https://x.com/monicamoonx/status/2075252023914574244) | **发布时间:** Jul 9, 2026
-
----
-### 写实风格美少女战士镜面自拍
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个高度详细的视频提示词，用于生成一位身着还原度极高的美少女战士服装的女性进行镜面自拍，呈现自然光影和真实皮肤质感。
-
-#### 📝 提示词
-
-```
-高度写实的镜面自拍，画面中的女性拥有白皙如瓷的肌肤，脸部、肩部和胸前带有精致自然的雀斑。她身着细节考究、高度还原的美少女战士服装：白色紧身衣搭配蓝色水手领和胸前的大红蝴蝶结，蓝色短款百褶裙带有红白镶边，佩戴金色新月额饰、红色装饰的长款白手套、红色长靴、带有金色心形吊坠的红色颈圈以及金色胸针。标志性的金发梳成月野兔式的丸子头，留着长长的双马尾。她正在现代风格的浴室里进行镜面自拍，一手拿着黑色智能手机，直视镜头，表情自信且略带俏皮。柔和的自然窗光，真实的皮肤纹理，清晰可见的雀斑，焦点锐利，照片级写实。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075205335040634880/img/UdrgqedZjz4y9CUP.jpg" width="600" alt="写实风格美少女战士镜面自拍">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7126)**
-
-**作者:** [Myluna](https://x.com/monicamoonx) | **来源:** [Link](https://x.com/monicamoonx/status/2075205397112123637) | **发布时间:** Jul 9, 2026
-
----
-### 令人惊叹的虚构奇幻世界
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于生成逼真奇幻景观的大型电影级视频提示词，包含浮空山脉、发光森林和瀑布。
-
-#### 📝 提示词
-
-```
-一个看起来完全真实、令人惊叹的虚构世界，包含浮空山脉、参天古树、水晶河流、发光森林、流入雾气缭绕湖泊的瀑布、金色日出、戏剧性的云层、奇异的鸟类、宁静的氛围，电影级构图，超写实，IMAX，HDR，体积光，自然色彩，超高细节，8K，专业摄影，无 CGI，非插画，看起来就像真实存在的地方。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075106901357219840/img/BgbByrZssE0gXhLF.jpg" width="600" alt="令人惊叹的虚构奇幻世界">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7011)**
-
-**作者:** [Tesla Owners Silicon Valley](https://x.com/teslaownersSV) | **来源:** [Link](https://x.com/teslaownersSV/status/2075107002020471065) | **发布时间:** Jul 9, 2026
-
----
-### 天使飞行序列提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段详细的奇幻提示词，描述了天使在不同世界间穿梭的过程，并带有动态文字效果。
-
-#### 📝 提示词
-
-```
-书中的天使步入现实世界所在的房间，当他飞向月球时，“GOD FIRST ALWAYS”这几个字以星云般的方式浮现出来
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075056939734609920/img/ZFXMqJXRT-Uv0faI.jpg" width="600" alt="天使飞行序列提示词">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7013)**
-
-**作者:** [the_light](https://x.com/the_light35) | **来源:** [Link](https://x.com/the_light35/status/2075057016158986588) | **发布时间:** Jul 9, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2211,6 +2213,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-07-19T06:52:44.280Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-07-19T10:23:07.482Z</sub>
 
 </div>

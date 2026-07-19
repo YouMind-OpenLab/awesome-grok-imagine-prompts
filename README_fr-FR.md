@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2165** |
+| 📝 Total Prompts | **2174** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-19** |
 
@@ -189,6 +189,163 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Vidéo d'un chat gris patriotique qui chante
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt créatif mettant en scène un gros chat gris aux pattes blanches chantant un air patriotique tout en travaillant.
+
+#### 📝 Prompt
+
+```
+Il y a un gros chat gris aux pattes blanches. Il chante doucement l'air de « Oh beautiful for spacious skies, for amber waves of grain » tout en travaillant.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078578004008034304/img/xH1oglULnTnXbhPu.jpg" width="600" alt="Vidéo d'un chat gris patriotique qui chante">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7515)**
+
+**Author:** [Susan Kurvach](https://x.com/SKurvach) | **Source:** [Link](https://x.com/SKurvach/status/2078578018801315977) | **Published:** Jul 18, 2026
+
+---
+### Peinture à l'huile d'un lion vivant
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt d'animation créatif pour une chambre sombre où une peinture à l'huile encadrée d'un lion prend vie et bouge.
+
+#### 📝 Prompt
+
+```
+Un grand cadre noir orné accroché au mur d'une chambre sombre aux murs noirs. Sur le côté du tableau se trouve une fenêtre avec de lourds rideaux en velours rouge. À l'intérieur du cadre noir orné, une peinture à l'huile a pris vie. Seul le lion à l'intérieur du tableau bouge.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078575143455014912/img/MSLfxwToTfN-zDAz.jpg" width="600" alt="Peinture à l'huile d'un lion vivant">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7517)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2078575196550615483) | **Published:** Jul 18, 2026
+
+---
+### Portrait d'elfe dark fantasy cinématographique
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt détaillé pour créer une vidéo dark fantasy mettant en scène une femme elfe avec un grand papillon de nuit couvrant ses yeux et un éclairage de contour dramatique.
+
+#### 📝 Prompt
+
+```
+Gros plan extrême sur le portrait d'une femme elfe à la peau très pâle, tachetée de taches de rousseur et poussiéreuse, oreilles d'elfe pointues, portant une couronne dorée noircie ornée de filigranes gothiques et de bijoux sombres sur la tête, longs cheveux blancs fluides partiellement visibles, un très grand papillon de nuit détaillé aux ailes aux motifs complexes couvrant et masquant complètement ses deux yeux, le corps et les ailes déployées du papillon dissimulant entièrement la zone des yeux, éclairage cinématographique dramatique en basse lumière avec un fort éclairage de contour soulignant les textures et les particules de poussière sur la peau, palette de couleurs sourdes et désaturées dominée par l'or et le noir, atmosphère dark fantasy, hyper-réaliste, hyper-détaillé, cinématographique, mélancolique.
+```
+
+<img src="https://cms-assets.youmind.com/media/1784448567940_z5jw75_HNXvRqjXgAAJLzb.jpg" width="600" alt="Portrait d'elfe dark fantasy cinématographique">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7522)**
+
+**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2078540320497619021) | **Published:** Jul 18, 2026
+
+---
+### Prompt pour un selfie de fan de Tottenham Hotspur
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt descriptif très détaillé pour un selfie réaliste d'une femme portant un maillot de football de Tottenham Hotspur dans un bureau.
+
+#### 📝 Prompt
+
+```
+Selfie photoréaliste d'une jeune femme est-asiatique mignonne d'une vingtaine d'années, cheveux brun-noir mi-longs avec une frange droite et de légères ondulations, portant des lunettes rectangulaires noires épaisses. Elle fait une grimace amusante : bouche ouverte, langue tirée sur le côté, regardant droit vers l'appareil photo.
+
+Elle porte un maillot de football blanc de Tottenham Hotspur avec des épaules et des manches raglan bleu marine. Bien visible sur la poitrine : l'emblème classique du coq de Tottenham sur un ballon, le swoosh Nike noir en dessous, et le texte du sponsor « AIA » en rouge gras plus bas. Une partie du texte « KIA » est visible sur la manche gauche.
+
+Elle est assise dans une chaise de bureau noire dans une pièce intérieure décontractée aux murs clairs, avec des stores vénitiens blancs sur la gauche, un parquet en bois et un autre maillot de football accroché au mur derrière elle. Lumière naturelle du jour, texture de peau réaliste, détails nets, angle de selfie décontracté, haute résolution, photoréalisme 8k.
+```
+
+<img src="https://cms-assets.youmind.com/media/1784448563059_4zf39l_HNe1fQibQAAMMJz.jpg" width="600" alt="Prompt pour un selfie de fan de Tottenham Hotspur">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7521)**
+
+**Author:** [Feyber | AI Creator](https://x.com/woleswoosh) | **Source:** [Link](https://x.com/woleswoosh/status/2078449711980450083) | **Published:** Jul 18, 2026
+
+---
+### Vidéo d'organismes métalliques vivants
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de science-fiction conceptuel décrivant des sphères de métal vivantes comme des organismes précieux alimentant une révolution.
+
+#### 📝 Prompt
+
+```
+Les sphères de métal sont des organismes vivants et précieux qui alimentent la révolution technologique.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078434978551980032/img/tmZN-iVwdcziDEFj.jpg" width="600" alt="Vidéo d'organismes métalliques vivants">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7516)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2078435020054610058) | **Published:** Jul 18, 2026
+
+---
+### Univers miroir brisé d'horreur cosmique
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo de science-fiction et de fantasy épique mettant en scène un miroir cosmique qui se brise, des galaxies en rotation et un œil ancien de la taille de l'univers.
+
+#### 📝 Prompt
+
+```
+Un miroir cosmique brisé explose en des milliards de fragments, chacun reflétant un univers différent où la déesse extraterrestre rencontre le même destin tragique. Les fragments fusionnent pour former un verrou céleste colossal plus grand que des galaxies. Alors que le verrou s'ouvre lentement, un battement de cœur résonne à travers l'espace, faisant trembler les étoiles. Au-delà du sceau brisé, un œil ancien de la taille d'un univers s'ouvre, son iris contenant d'innombrables galaxies en rotation. D'un seul battement de cils, des galaxies entières disparaissent dans les ténèbres. La déesse se fige de peur pour la première fois. Une voix télépathique murmure : « Merci... de m'avoir libéré. » Des fissures se propagent sur son corps lumineux alors qu'une énergie cosmique blanche et aveuglante jaillit de l'intérieur. Ultra cinématographique, IMAX, Unreal Engine 5, photoréaliste, horreur cosmique, éclairage volumétrique, visuels à l'échelle galactique, mouvement de caméra dramatique, 8K, hyper détaillé, science-fiction et fantasy épique.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078407939208159232/img/TV8-cLpw1Nm5QJv1.jpg" width="600" alt="Univers miroir brisé d'horreur cosmique">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7520)**
+
+**Author:** [badgirl🍀 🐶🐈‍⬛](https://x.com/MPhuong609) | **Source:** [Link](https://x.com/MPhuong609/status/2078408030933381214) | **Published:** Jul 18, 2026
+
+---
+### Animation 3D d'un panda sur des montagnes russes
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de rendu 3D pour un panda cartoon sur des montagnes russes avec des effets de flou cinétique, dans un style rappelant Blender.
+
+#### 📝 Prompt
+
+```
+Un panda cartoon monte sur des montagnes russes dans un rendu 3D type Blender avec un flou cinétique et un arrière-plan naturel.
+Le panda s'amuse 😄
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078330473974001664/img/SmZ_vnjIivQ8ABnz.jpg" width="600" alt="Animation 3D d'un panda sur des montagnes russes">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7518)**
+
+**Author:** [Sadie 🕊🖼️](https://x.com/poetrynthings) | **Source:** [Link](https://x.com/poetrynthings/status/2078330507230589122) | **Published:** Jul 18, 2026
+
+---
+### Prompt d'upscale cinématographique 4K réaliste
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo technique axé sur la qualité cinématographique, l'interpolation et les effets volumétriques avec des ombres intenses.
+
+#### 📝 Prompt
+
+```
+Qualité cinématographique 4K réaliste / Mélange de réalisme fluide / Interpolation et upscale / Effet volumétrique / Ombres et sons plus doux et plus intenses
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078322717904764928/img/bcmrms4zRXCeNwTG.jpg" width="600" alt="Prompt d'upscale cinématographique 4K réaliste">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7519)**
+
+**Author:** [Arak Dark](https://x.com/orgunus93304) | **Source:** [Link](https://x.com/orgunus93304/status/2078322764847403145) | **Published:** Jul 18, 2026
+
+---
 ### Mème de la chips tortilla que l'on trempe
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1050,6 +1207,25 @@ Recréez en vidéo cette image statique générée par Grok où l'on entend « W
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7312)**
 
 **Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2077517201184084139) | **Published:** Jul 15, 2026
+
+---
+### Chat cosmique en pelote
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt surréaliste mettant en scène un chat découvrant un univers composé de pelotes de laine lumineuses et de planètes.
+
+#### 📝 Prompt
+
+```
+Quand votre chat domestique découvre soudain que l'univers est fait de pelotes de laine lumineuses et de planètes tourbillonnantes… le bonheur à l'état pur !
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077495982846091264/img/lfnp8s3el34dwedU.jpg" width="600" alt="Chat cosmique en pelote">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7523)**
+
+**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2077496246089007407) | **Published:** Jul 15, 2026
 
 ---
 ### Accélération fulgurante d'une moto laser
@@ -1976,180 +2152,6 @@ Qualité cinématique 4K réaliste / Mélange fluide de réalisme / Interpolatio
 **Author:** [Arak Dark](https://x.com/orgunus93304) | **Source:** [Link](https://x.com/orgunus93304/status/2075756972553486681) | **Published:** Jul 11, 2026
 
 ---
-### Vidéo du palais de permafrost de la Reine des neiges
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt descriptif pour générer une vidéo de la Reine des neiges voyageant à travers des terres de permafrost et son palais arctique.
-
-#### 📝 Prompt
-
-```
-La Reine des neiges (Snedronningen), reine des flocons ou « abeilles des neiges », voyage à travers le monde avec la neige. Son palais et ses jardins se situent dans les terres de permafrost, plus précisément au Spitzberg.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075688361616904192/img/O2dQTf94XaXvZ8ou.jpg" width="600" alt="Vidéo du palais de permafrost de la Reine des neiges">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7062)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2075688977089139000) | **Published:** Jul 10, 2026
-
----
-### Vidéo cinématographique d'une Hélène de Troie noire
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt conçu pour générer une vidéo cinématographique d'une Hélène de Troie noire, mettant l'accent sur une représentation culturelle spécifique plutôt que sur un casting standard.
-
-#### 📝 Prompt
-
-```
-Je ne veux pas simplement une actrice noire jouant Hélène de Troie. Je veux une Hélène de Troie noire. Créez cette vidéo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075601009921957888/img/aN9beJL_fzdcvCfd.jpg" width="600" alt="Vidéo cinématographique d'une Hélène de Troie noire">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7061)**
-
-**Author:** [Huff](https://x.com/Huff4Congress) | **Source:** [Link](https://x.com/Huff4Congress/status/2075601096253309265) | **Published:** Jul 10, 2026
-
----
-### Lever de soleil cinématographique en forêt filmé au drone FPV
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un plan de drone FPV à haute vitesse traversant une forêt brumeuse au lever du soleil, mettant en scène des rayons de lumière dorés et des particules flottantes qui forment un texte avant de se dissiper.
-
-#### 📝 Prompt
-
-```
-Plan FPV : La caméra traverse une forêt dense au lever du soleil, se faufilant entre des arbres imposants recouverts de brume matinale. Des rayons dorés percent la canopée tandis que des milliards de particules de pollen flottantes et de minuscules gouttelettes de rosée dérivent dans l'air. La caméra pénètre dans un faisceau de lumière où les particules illuminées se synchronisent naturellement pour former le mot « MORNING » avant d'exploser en une cascade de poussière dorée scintillante. Lever de soleil épique, nature cinématographique, atmosphère ultra-réaliste, effets visuels époustouflants.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075586213294022656/img/LIEf70JuAxykwiAw.jpg" width="600" alt="Lever de soleil cinématographique en forêt filmé au drone FPV">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7230)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2075586581294092409) | **Published:** Jul 10, 2026
-
----
-### Prompt fantastique : Aube bioluminescente
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un magnifique prompt cinématographique décrivant une scène d'aube fantastique avec des lumières pulsantes et des mouvements subtils.
-
-#### 📝 Prompt
-
-```
-Lever lent de l'étoile de l'aube, fleurs bioluminescentes à la lumière pulsante, bannières s'agitant dans une légère brise nocturne, éclat divin sur une armure respirant doucement.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075306107371974656/img/ZEKl6A-mpnvhQId8.jpg" width="600" alt="Prompt fantastique : Aube bioluminescente">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7012)**
-
-**Author:** [Terry Palmieri](https://x.com/TerryPalmieri14) | **Source:** [Link](https://x.com/TerryPalmieri14/status/2075306197566320781) | **Published:** Jul 9, 2026
-
----
-### Action de tennis sur gazon
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinématographique détaillé pour un match de tennis, mettant en avant un éclairage, une physique et des mouvements de caméra spécifiques.
-
-#### 📝 Prompt
-
-```
-Le joueur de tennis termine son coup droit alors que la balle jaune fuse sur le court en gazon. Les cordes de la raquette vibrent, les brins d'herbe ondulent sous la brise, la lumière dorée du soleil scintille sur la balle, le tout dans une atmosphère de stade douce avec un léger travelling avant.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075286654127136768/img/BvYqUAVhqVp1FaO7.jpg" width="600" alt="Action de tennis sur gazon">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7010)**
-
-**Author:** [Robert Heinlein](https://x.com/strangerinastr) | **Source:** [Link](https://x.com/strangerinastr/status/2075286711521956062) | **Published:** Jul 9, 2026
-
----
-### Selfie au miroir de Sailor Mars
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt ultra-détaillé pour générer une vidéo réaliste de Rei Hino en Sailor Mars prenant un selfie au miroir avec Luna dans une salle de bain moderne.
-
-#### 📝 Prompt
-
-```
-Selfie au miroir ultra-réaliste de Rei Hino en Sailor Mars, taches de rousseur naturelles sur le visage, les épaules et la poitrine. Elle a de longs cheveux noirs lisses et brillants avec une frange droite tombant dans son dos.
-Elle porte une tenue classique et fidèle de Sailor Mars : justaucorps blanc, col marin rouge avec bordure blanche, grand nœud violet avec un centre circulaire rouge et une broche dorée, jupe plissée rouge courte avec sous-jupe violette et bordure dorée, diadème doré avec une pierre précieuse rouge, longs gants blancs avec revers rouges, bottes rouges brillantes, ras-du-cou rouge avec pendentif étoile dorée.
-Elle est assise dans une salle de bain moderne et lumineuse en marbre, prenant un selfie au miroir avec un smartphone noir dans sa main droite. Dans son bras gauche, elle tient délicatement un petit chat noir - Luna de Sailor Moon, avec une fourrure noire brillante, de grands yeux dorés et un symbole de croissant de lune jaune sur le front. Luna a l'air calme et curieuse.
-Sailor Mars regarde directement l'objectif avec un sourire confiant, légèrement espiègle et charmant. Éclairage naturel doux venant d'une fenêtre, texture de peau réaliste, taches de rousseur visibles, mise au point nette.
-```
-
-<img src="https://cms-assets.youmind.com/media/1784189827514_mcr3x3_HMzGqj3W0AA9YlL.jpg" width="600" alt="Selfie au miroir de Sailor Mars">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7228)**
-
-**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2075252023914574244) | **Published:** Jul 9, 2026
-
----
-### Selfie photoréaliste de Sailor Moon dans un miroir
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo extrêmement détaillé pour un selfie réaliste dans un miroir d'une femme portant un costume fidèle de Sailor Moon, avec un éclairage naturel et des textures de peau réalistes.
-
-#### 📝 Prompt
-
-```
-Selfie ultra-réaliste dans un miroir d'une femme à la peau de porcelaine pâle avec de délicates taches de rousseur naturelles sur le visage, les épaules et la poitrine. Elle porte un costume de Sailor Moon détaillé et fidèle : justaucorps blanc avec col marin bleu et grand nœud rouge sur la poitrine, jupe courte plissée bleue avec bordures blanches et rouges, diadème doré en forme de croissant de lune, longs gants blancs avec des accents rouges, bottes rouges, tour de cou rouge avec pendentif cœur doré et broche dorée. Cheveux blonds classiques coiffés en chignons odango avec de longues couettes fluides. Elle prend un selfie dans le miroir d'une salle de bain moderne, tenant un smartphone noir d'une main, regardant directement l'objectif avec une expression confiante et légèrement espiègle. Éclairage naturel doux provenant d'une fenêtre, texture de peau réaliste, taches de rousseur visibles, mise au point nette, photoréaliste.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075205335040634880/img/UdrgqedZjz4y9CUP.jpg" width="600" alt="Selfie photoréaliste de Sailor Moon dans un miroir">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7126)**
-
-**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2075205397112123637) | **Published:** Jul 9, 2026
-
----
-### Un monde fantastique imaginaire à couper le souffle
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo cinématographique massif pour un paysage fantastique réaliste avec des montagnes flottantes, des forêts lumineuses et des cascades.
-
-#### 📝 Prompt
-
-```
-Un monde imaginaire à couper le souffle qui semble totalement réel, avec des montagnes flottantes, des arbres anciens géants, des rivières cristallines, des forêts lumineuses, des cascades se jetant dans des lacs brumeux, un lever de soleil doré, des nuages spectaculaires, des oiseaux exotiques, une atmosphère paisible, une composition cinématographique, ultra-photoréaliste, IMAX, HDR, éclairage volumétrique, couleurs naturelles, hyper-détaillé, 8K, photographie professionnelle, sans CGI, sans illustration, ressemble à un endroit réel.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075106901357219840/img/BgbByrZssE0gXhLF.jpg" width="600" alt="Un monde fantastique imaginaire à couper le souffle">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7011)**
-
-**Author:** [Tesla Owners Silicon Valley](https://x.com/teslaownersSV) | **Source:** [Link](https://x.com/teslaownersSV/status/2075107002020471065) | **Published:** Jul 9, 2026
-
----
-### Prompt de séquence de vol d'ange
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt fantastique détaillé décrivant un ange effectuant une transition entre deux mondes avec des effets de texte dynamiques.
-
-#### 📝 Prompt
-
-```
-L'ange du livre entre dans la pièce où le monde est réel, les mots « GOD FIRST ALWAYS » se forment de manière nébuleuse alors qu'il s'envole vers la lune
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075056939734609920/img/ZFXMqJXRT-Uv0faI.jpg" width="600" alt="Prompt de séquence de vol d'ange">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7013)**
-
-**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2075057016158986588) | **Published:** Jul 9, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2211,6 +2213,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-19T06:52:55.568Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-19T10:23:14.722Z</sub>
 
 </div>

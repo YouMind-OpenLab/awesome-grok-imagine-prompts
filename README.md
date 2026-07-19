@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2165** |
+| 📝 Total Prompts | **2174** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-19** |
 
@@ -189,6 +189,163 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Singing Patriotic Grey Cat Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative prompt featuring a fat grey cat with white paws singing a patriotic tune while working.
+
+#### 📝 Prompt
+
+```
+There is a fat grey cat with white paws She sings quietly “oh beautiful for spacious skies, for amber waves of grain” tune while working
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078578004008034304/img/xH1oglULnTnXbhPu.jpg" width="600" alt="Singing Patriotic Grey Cat Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7515)**
+
+**Author:** [Susan Kurvach](https://x.com/SKurvach) | **Source:** [Link](https://x.com/SKurvach/status/2078578018801315977) | **Published:** Jul 18, 2026
+
+---
+### Living Lion Oil Painting
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative animation prompt for a dark bedroom where a framed oil painting of a lion comes to life and moves.
+
+#### 📝 Prompt
+
+```
+A large ornate black frame hanging on a dark bedroom wall with black walls. To the side of the painting is a window with heavy red velvet drapes. Inside the ornate black frame is an oil painting that has come to life. Only the lion inside the painting moves
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078575143455014912/img/MSLfxwToTfN-zDAz.jpg" width="600" alt="Living Lion Oil Painting">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7517)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2078575196550615483) | **Published:** Jul 18, 2026
+
+---
+### Cinematic Dark Fantasy Elf Portrait
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for creating a dark fantasy video featuring an elf woman with a large moth covering her eyes and dramatic rim lighting.
+
+#### 📝 Prompt
+
+```
+Extreme close-up portrait of a elf woman with very pale freckled dusty skin, pointed elf ears, wearing an ornate blackened golden crown with gothic filigree and dark jewels on her head, long flowing white hair partially visible, a very large and detailed moth with intricate patterned wings completely covering and obscuring both of her eyes, the moth's body and spread wings fully hiding the eye area, dramatic low-key cinematic lighting with strong rim light highlighting textures and dust particles on skin, muted desaturated color palette with gold and black dominance, dark fantasy atmosphere, hyper-realistic, hyper-detailed, cinematic, moody.
+```
+
+<img src="https://cms-assets.youmind.com/media/1784448567940_z5jw75_HNXvRqjXgAAJLzb.jpg" width="600" alt="Cinematic Dark Fantasy Elf Portrait">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7522)**
+
+**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2078540320497619021) | **Published:** Jul 18, 2026
+
+---
+### Tottenham Hotspur Fan Selfie Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed descriptive prompt for a realistic selfie of a woman wearing a Tottenham Hotspur football jersey in an indoor office setting.
+
+#### 📝 Prompt
+
+```
+Photorealistic selfie of a cute young East Asian woman in her early 20s, shoulder-length dark brown-black hair with straight bangs and slight waves, wearing thick black rectangular glasses. She makes a playful silly face: mouth open, tongue sticking out to the side, looking straight at the camera. 
+
+She is wearing a white Tottenham Hotspur football jersey with navy blue raglan shoulders and sleeves. Prominent on the chest: the classic Tottenham cockerel crest standing on a ball, black Nike swoosh underneath, and large bold red "AIA" sponsor text below. Partial "KIA" text visible on the left sleeve. 
+
+She is sitting in a black office chair in a casual indoor room with light walls, white horizontal blinds on the left, wooden floor, and another football jersey hanging on the wall behind her. Natural daylight, realistic skin texture, sharp details, casual selfie angle, high resolution, 8k photorealism.
+```
+
+<img src="https://cms-assets.youmind.com/media/1784448563059_4zf39l_HNe1fQibQAAMMJz.jpg" width="600" alt="Tottenham Hotspur Fan Selfie Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7521)**
+
+**Author:** [Feyber | AI Creator](https://x.com/woleswoosh) | **Source:** [Link](https://x.com/woleswoosh/status/2078449711980450083) | **Published:** Jul 18, 2026
+
+---
+### Living Metal Organisms Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A conceptual sci-fi prompt describing living metal balls as precious organisms fueling a revolution.
+
+#### 📝 Prompt
+
+```
+The balls of metal are precious and living organisms that fuel the technological revolution.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078434978551980032/img/tmZN-iVwdcziDEFj.jpg" width="600" alt="Living Metal Organisms Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7516)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2078435020054610058) | **Published:** Jul 18, 2026
+
+---
+### Cosmic Horror Shattered Mirror Universe
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An epic sci-fi fantasy video prompt featuring a shattering cosmic mirror, rotating galaxies, and an ancient universe-sized eye.
+
+#### 📝 Prompt
+
+```
+A shattered cosmic mirror explodes into billions of fragments, each reflecting a different universe where the alien goddess meets the same tragic fate. The fragments merge into a colossal celestial lock larger than galaxies. As the lock slowly opens, a heartbeat echoes across space, causing stars to tremble. Beyond the broken seal, an ancient eye the size of a universe opens, its iris containing countless rotating galaxies. With a single blink, entire galaxies vanish into darkness. The goddess freezes in fear for the first time. A telepathic voice whispers, "Thank you... for setting me free." Cracks spread across her glowing body as blinding white cosmic energy erupts from within. Ultra cinematic, IMAX, Unreal Engine 5, photorealistic, cosmic horror, volumetric lighting, galaxy-scale visuals, dramatic camera movement, 8K, hyper detailed, epic sci-fi fantasy.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078407939208159232/img/TV8-cLpw1Nm5QJv1.jpg" width="600" alt="Cosmic Horror Shattered Mirror Universe">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7520)**
+
+**Author:** [badgirl🍀 🐶🐈‍⬛](https://x.com/MPhuong609) | **Source:** [Link](https://x.com/MPhuong609/status/2078408030933381214) | **Published:** Jul 18, 2026
+
+---
+### Panda Roller Coaster 3D Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A 3D render prompt for a cartoonish panda riding a roller coaster with motion blur effects in a Blender-like style.
+
+#### 📝 Prompt
+
+```
+A cartoonish panda rides a roller coaster in a Blender 3D render with motion blur and natural background.
+Panda is enjoying 😄
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078330473974001664/img/SmZ_vnjIivQ8ABnz.jpg" width="600" alt="Panda Roller Coaster 3D Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7518)**
+
+**Author:** [Sadie 🕊🖼️](https://x.com/poetrynthings) | **Source:** [Link](https://x.com/poetrynthings/status/2078330507230589122) | **Published:** Jul 18, 2026
+
+---
+### Realistic 4K Cinematic Upscale Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A technical video prompt focusing on cinematic quality, interpolation, and volumetric effects with intense shadows.
+
+#### 📝 Prompt
+
+```
+Realistic 4K cinematic quality /Smoot mix realism /interpolation and upscale /Volumetric effect / Softer, more intense shadows and sounds
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078322717904764928/img/bcmrms4zRXCeNwTG.jpg" width="600" alt="Realistic 4K Cinematic Upscale Prompt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7519)**
+
+**Author:** [Arak Dark](https://x.com/orgunus93304) | **Source:** [Link](https://x.com/orgunus93304/status/2078322764847403145) | **Published:** Jul 18, 2026
+
+---
 ### Dipping Tortilla Chip Meme
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -938,19 +1095,19 @@ Spitfire flying over enemy territory. Add nazi ME-109 fighters. Add flak gun exp
 **Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077664251074760804) | **Published:** Jul 16, 2026
 
 ---
-### Vibrant Bird and Dancer
+### Dancing Woman with Purple Bird
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A colorful keyword-based prompt featuring a purple bird and a woman dancing with vibrant aesthetics.
+> A vibrant and artistic video featuring a woman dancing accompanied by a purple bird and flowing colors.
 
 #### 📝 Prompt
 
 ```
-Gorgeous amazing people cutest adorable purple bird whispering love poetry love sweet artist woman dancing with vibrant colours
+Gorgeous amazing people 🌺cutest adorable purple bird whispering love 💜💜🦋💜💜🕊️ poetry love sweet artist 🧑‍🎨 woman dancing 💃 with vibrant colours
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077610445398269952/img/YmH7J1AqYIPygaE1.jpg" width="600" alt="Vibrant Bird and Dancer">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077610445398269952/img/YmH7J1AqYIPygaE1.jpg" width="600" alt="Dancing Woman with Purple Bird">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7374)**
 
@@ -1050,6 +1207,25 @@ Recreate in video that static image created by Grok where 'We won against Englan
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7312)**
 
 **Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2077517201184084139) | **Published:** Jul 15, 2026
+
+---
+### Cosmic Yarn Cat
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal prompt featuring a cat discovering a universe made of glowing yarn balls and planets.
+
+#### 📝 Prompt
+
+```
+When your ordinary house cat suddenly discovers the universe is made of glowing yarn balls and swirling planets… pure joy unlocked!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077495982846091264/img/lfnp8s3el34dwedU.jpg" width="600" alt="Cosmic Yarn Cat">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7523)**
+
+**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2077496246089007407) | **Published:** Jul 15, 2026
 
 ---
 ### Fast Motorcycle Laser Speed Burst
@@ -1432,19 +1608,19 @@ Wearing a red dress under a bright sun. In a field of pink and white flowers. Pe
 **Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2076653402982150482) | **Published:** Jul 13, 2026
 
 ---
-### Serene Angel with Butterflies
+### Serene Angel and Holographic Butterflies
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An ethereal video prompt for Grok Imagine describing a serene angel in lace surrounded by white holographic butterflies.
+> A highly descriptive visual prompt for generating a serene 15-second video of an angel surrounded by glowing light and white butterflies.
 
 #### 📝 Prompt
 
 ```
-A serene angel wrapped in delicate lace and soft glowing light, surrounded by shimmering white holographic butterflies. ✨🦋
+A serene angel wrapped in delicate lace and soft glowing light, surrounded by shimmering white holographic butterflies.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076622231497830400/img/f58E7-h-BL7DluK3.jpg" width="600" alt="Serene Angel with Butterflies">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076622231497830400/img/f58E7-h-BL7DluK3.jpg" width="600" alt="Serene Angel and Holographic Butterflies">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7229)**
 
@@ -1976,177 +2152,6 @@ Realistic 4K cinematic quality /Smoot mix realism /interpolation and upscale /Vo
 **Author:** [Arak Dark](https://x.com/orgunus93304) | **Source:** [Link](https://x.com/orgunus93304/status/2075756972553486681) | **Published:** Jul 11, 2026
 
 ---
-### Snow Queen Permafrost Palace Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A descriptive prompt for generating a video of the Snow Queen traveling through permafrost lands and her arctic palace.
-
-#### 📝 Prompt
-
-```
-The Snow Queen (Snedronningen), the queen of the snowflakes or "snow-bees", who travels throughout the world with the snow. Her palace and gardens are in the lands of permafrost, specifically Spitsbergen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075688361616904192/img/O2dQTf94XaXvZ8ou.jpg" width="600" alt="Snow Queen Permafrost Palace Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7062)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2075688977089139000) | **Published:** Jul 10, 2026
-
----
-### Black Helen of Troy Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A specific conceptual prompt for creating a video of Helen of Troy reimagined as a Black woman.
-
-#### 📝 Prompt
-
-```
-I don’t simply want a black actress playing Helen of Troy. I want a Black Helen of Troy. Make that video.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075601009921957888/img/aN9beJL_fzdcvCfd.jpg" width="600" alt="Black Helen of Troy Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7061)**
-
-**Author:** [Huff](https://x.com/Huff4Congress) | **Source:** [Link](https://x.com/Huff4Congress/status/2075601096253309265) | **Published:** Jul 10, 2026
-
----
-### Sunrise Forest FPV VFX
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed cinematic FPV shot of a mist-covered forest at sunrise with floating pollen particles that form text.
-
-#### 📝 Prompt
-
-```
-FPV shot: The camera races through a dense forest at sunrise, weaving between towering trees covered in morning mist. Golden rays pierce the canopy as billions of floating pollen particles and tiny droplets of dew drift through the air. The camera enters a shaft of sunlight where the illuminated particles synchronize naturally, forming "MORNING" before exploding into a cascade of sparkling golden dust. Epic sunrise, cinematic nature, ultra realistic atmosphere, breathtaking VFX.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075586213294022656/img/LIEf70JuAxykwiAw.jpg" width="600" alt="Sunrise Forest FPV VFX">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7230)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2075586581294092409) | **Published:** Jul 10, 2026
-
----
-### Bioluminescent Dawn Fantasy Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A beautiful cinematic prompt describing a fantasy dawn scene with pulsing lights and subtle motions.
-
-#### 📝 Prompt
-
-```
-Slow rise of dawn-star, bioluminescent flowers pulsing light, banners stirring in a faint night breeze, divine glow on armor breathing softly.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075306107371974656/img/ZEKl6A-mpnvhQId8.jpg" width="600" alt="Bioluminescent Dawn Fantasy Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7012)**
-
-**Author:** [Terry Palmieri](https://x.com/TerryPalmieri14) | **Source:** [Link](https://x.com/TerryPalmieri14/status/2075306197566320781) | **Published:** Jul 9, 2026
-
----
-### Grass Court Tennis Action
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed cinematic prompt for a tennis match, featuring specific lighting, physics, and camera movements.
-
-#### 📝 Prompt
-
-```
-The tennis player completes the forehand swing as the yellow ball rockets across the grass court. Racket strings vibrate, grass blades sway in the breeze, golden sunlight glints off the ball, and soft stadium atmosphere with subtle camera push-in.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075286654127136768/img/BvYqUAVhqVp1FaO7.jpg" width="600" alt="Grass Court Tennis Action">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7010)**
-
-**Author:** [Robert Heinlein](https://x.com/strangerinastr) | **Source:** [Link](https://x.com/strangerinastr/status/2075286711521956062) | **Published:** Jul 9, 2026
-
----
-### Sailor Mars Realistic Mirror Selfie
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed and realistic prompt for Sailor Mars taking a mirror selfie in a modern bathroom with her cat Luna.
-
-#### 📝 Prompt
-
-```
-Highly realistic mirror selfie of Rei Hino as Sailor Mars, natural freckles on her face, shoulders and chest. She has long, straight glossy black hair with straight bangs flowing down her back. She wears an accurate classic Sailor Mars outfit: white leotard, red sailor collar with white trim, large purple bow with red circular center and golden brooch, short red pleated skirt with purple underskirt and gold trim, golden tiara with red gemstone, long white gloves with red cuffs, shiny red boots, red choker with golden star pendant. She is sitting in a modern bright marble bathroom, taking a mirror selfie with a black smartphone in her right hand. In her left arm she is gently holding a small black cat - Luna from Sailor Moon, with shiny black fur, big golden eyes, and a yellow crescent moon symbol on her forehead. Luna looks calm and curious. Sailor Mars looks directly at the camera with a confident, slightly playful and charming smile. Soft natural window lighting, realistic skin texture, visible freckles, sharp focus.
-```
-
-<img src="https://cms-assets.youmind.com/media/1784189827514_mcr3x3_HMzGqj3W0AA9YlL.jpg" width="600" alt="Sailor Mars Realistic Mirror Selfie">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7228)**
-
-**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2075252023914574244) | **Published:** Jul 9, 2026
-
----
-### Sailor Moon Mirror Selfie Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed video prompt for generating a realistic mirror selfie of a woman in an accurate Sailor Moon costume within a modern bathroom setting.
-
-#### 📝 Prompt
-
-```
-Highly realistic mirror selfie of a woman with pale porcelain skin and delicate natural freckles across her face, shoulders and chest. She is dressed in a detailed, accurate Sailor Moon costume: white leotard with blue sailor collar and large red bow on the chest, short pleated blue skirt with white and red trim, golden crescent moon tiara, long white gloves with red accents, red boots, red choker with golden heart pendant, and golden brooch. Classic blonde hair in odango buns with long flowing pigtails. She is taking a mirror selfie in a modern bathroom, holding a black smartphone in one hand, looking directly at the camera with a confident and slightly playful expression. Soft natural window lighting, realistic skin texture, visible freckles, sharp focus, photorealistic.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075205335040634880/img/UdrgqedZjz4y9CUP.jpg" width="600" alt="Sailor Moon Mirror Selfie Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7126)**
-
-**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2075205397112123637) | **Published:** Jul 9, 2026
-
----
-### Hyper-Realistic Floating Mountains World
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for generating a breathtaking imaginary world with floating mountains, glowing forests, and realistic waterfalls in 8K resolution.
-
-#### 📝 Prompt
-
-```
-A breathtaking imaginary world that looks completely real, with floating mountains, giant ancient trees, crystal rivers, glowing forests, waterfalls flowing into misty lakes, golden sunrise, dramatic clouds, exotic birds, peaceful atmosphere, cinematic composition, ultra-photorealistic, IMAX, HDR, volumetric lighting, natural colors, hyper-detailed, 8K, professional photography, no CGI, no illustration, looks like a real place.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075106901357219840/img/BgbByrZssE0gXhLF.jpg" width="600" alt="Hyper-Realistic Floating Mountains World">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7011)**
-
-**Author:** [Tesla Owners Silicon Valley](https://x.com/teslaownersSV) | **Source:** [Link](https://x.com/teslaownersSV/status/2075107002020471065) | **Published:** Jul 9, 2026
-
----
-### Angel Flight Sequence Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed fantasy prompt describing an angel transitioning between worlds with dynamic text effects.
-
-#### 📝 Prompt
-
-```
-The angel from the book steps into the room where the world is real the words “GOD FIRST ALWAYS” form in a nebulous way as he flies away to the moon
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075056939734609920/img/ZFXMqJXRT-Uv0faI.jpg" width="600" alt="Angel Flight Sequence Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7013)**
-
-**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2075057016158986588) | **Published:** Jul 9, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2208,6 +2213,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-19T06:52:43.205Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-19T10:23:06.697Z</sub>
 
 </div>

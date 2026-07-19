@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2165** |
+| 📝 Total Prompts | **2174** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-19** |
 
@@ -189,6 +189,163 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### วิดีโอแมวสีเทาร้องเพลงรักชาติ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สร้างสรรค์รูปแมวสีเทาอ้วนที่มีอุ้งเท้าสีขาวกำลังร้องเพลงรักชาติขณะทำงาน
+
+#### 📝 Prompt
+
+```
+มีแมวสีเทาอ้วนที่มีอุ้งเท้าสีขาว มันกำลังร้องเพลง “oh beautiful for spacious skies, for amber waves of grain” เบาๆ ขณะทำงาน
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078578004008034304/img/xH1oglULnTnXbhPu.jpg" width="600" alt="วิดีโอแมวสีเทาร้องเพลงรักชาติ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7515)**
+
+**Author:** [Susan Kurvach](https://x.com/SKurvach) | **Source:** [Link](https://x.com/SKurvach/status/2078578018801315977) | **Published:** Jul 18, 2026
+
+---
+### ภาพวาดสีน้ำมันสิงโตมีชีวิต
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์แอนิเมชันสุดสร้างสรรค์สำหรับห้องนอนโทนดาร์ก ที่ภาพวาดสีน้ำมันรูปสิงโตในกรอบกลับมีชีวิตและเคลื่อนไหวได้
+
+#### 📝 Prompt
+
+```
+กรอบสีดำขนาดใหญ่ลวดลายวิจิตรแขวนอยู่บนผนังห้องนอนสีดำ ด้านข้างของภาพวาดมีหน้าต่างพร้อมผ้าม่านกำมะหยี่สีแดงหนา ภายในกรอบสีดำนั้นคือภาพวาดสีน้ำมันที่กลับมีชีวิตขึ้นมา โดยมีเพียงสิงโตที่อยู่ในภาพเท่านั้นที่เคลื่อนไหว
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078575143455014912/img/MSLfxwToTfN-zDAz.jpg" width="600" alt="ภาพวาดสีน้ำมันสิงโตมีชีวิต">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7517)**
+
+**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2078575196550615483) | **Published:** Jul 18, 2026
+
+---
+### ภาพพอร์ตเทรตเอลฟ์ในธีมดาร์กแฟนตาซีสไตล์ภาพยนตร์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์รายละเอียดสำหรับการสร้างวิดีโอแนวดาร์กแฟนตาซีที่มีตัวละครหญิงเอลฟ์ซึ่งมีผีเสื้อกลางคืนตัวใหญ่ปิดตาอยู่ พร้อมการจัดแสงแบบริมไลท์ที่ดูมีมิติ
+
+#### 📝 Prompt
+
+```
+ภาพพอร์ตเทรตระยะใกล้พิเศษของหญิงเอลฟ์ที่มีผิวซีดเผือดเต็มไปด้วยกระและฝุ่นละออง หูแหลม สวมมงกุฎสีทองรมดำที่ประดับด้วยลวดลายกอทิกและอัญมณีสีเข้มบนศีรษะ ผมสีขาวสลวยยาวที่มองเห็นได้บางส่วน มีผีเสื้อกลางคืนตัวใหญ่และละเอียดมากที่มีลวดลายปีกซับซ้อนปิดบังดวงตาทั้งสองข้างไว้อย่างมิดชิด ลำตัวและปีกที่กางออกของผีเสื้อบดบังบริเวณดวงตาจนหมดสิ้น การจัดแสงแบบภาพยนตร์ที่มีคอนทราสต์สูง (Low-key) พร้อมแสงริมไลท์ที่เน้นพื้นผิวและละอองฝุ่นบนผิวหนัง โทนสีหม่นและลดความอิ่มตัวของสีโดยเน้นสีทองและสีดำเป็นหลัก บรรยากาศดาร์กแฟนตาซี สมจริงขั้นสูง รายละเอียดคมชัดระดับไฮเอนด์ ให้ความรู้สึกเหมือนภาพยนตร์และมีอารมณ์ร่วม
+```
+
+<img src="https://cms-assets.youmind.com/media/1784448567940_z5jw75_HNXvRqjXgAAJLzb.jpg" width="600" alt="ภาพพอร์ตเทรตเอลฟ์ในธีมดาร์กแฟนตาซีสไตล์ภาพยนตร์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7522)**
+
+**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2078540320497619021) | **Published:** Jul 18, 2026
+
+---
+### พรอมต์ภาพเซลฟี่แฟนบอล Tottenham Hotspur
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์คำบรรยายรายละเอียดสูงสำหรับภาพเซลฟี่สมจริงของผู้หญิงที่สวมเสื้อฟุตบอล Tottenham Hotspur ในบรรยากาศออฟฟิศในร่ม
+
+#### 📝 Prompt
+
+```
+ภาพเซลฟี่สมจริงของหญิงสาวชาวเอเชียตะวันออกหน้าตาน่ารักอายุประมาณ 20 ต้นๆ ผมสีน้ำตาลเข้มเกือบดำยาวประบ่า มีหน้าม้าตรงและดัดลอนเล็กน้อย สวมแว่นตาทรงสี่เหลี่ยมกรอบหนาสีดำ เธอทำหน้าตาทะเล้นขี้เล่น: อ้าปาก แลบลิ้นออกมาด้านข้าง มองตรงมาที่กล้อง
+
+เธอสวมเสื้อฟุตบอล Tottenham Hotspur สีขาวที่มีดีไซน์ไหล่และแขนเสื้อแบบแร็กแลนสีน้ำเงินกรมท่า โดดเด่นที่หน้าอกด้วยตราสัญลักษณ์ไก่ชน Tottenham อันเป็นเอกลักษณ์ที่ยืนอยู่บนลูกบอล มีโลโก้ Nike สีดำอยู่ด้านล่าง และข้อความสปอนเซอร์ "AIA" สีแดงตัวหนาขนาดใหญ่ถัดลงมา มีข้อความ "KIA" ปรากฏให้เห็นบางส่วนที่แขนเสื้อด้านซ้าย
+
+เธอนั่งอยู่บนเก้าอี้ทำงานสีดำในห้องในร่มบรรยากาศสบายๆ ผนังสีอ่อน มีมู่ลี่แนวนอนสีขาวทางด้านซ้าย พื้นไม้ และมีเสื้อฟุตบอลอีกตัวแขวนอยู่บนผนังด้านหลังเธอ แสงธรรมชาติ ผิวสัมผัสสมจริง รายละเอียดคมชัด มุมกล้องแบบเซลฟี่ที่เป็นธรรมชาติ ความละเอียดสูง สมจริงระดับ 8k
+```
+
+<img src="https://cms-assets.youmind.com/media/1784448563059_4zf39l_HNe1fQibQAAMMJz.jpg" width="600" alt="พรอมต์ภาพเซลฟี่แฟนบอล Tottenham Hotspur">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7521)**
+
+**Author:** [Feyber | AI Creator](https://x.com/woleswoosh) | **Source:** [Link](https://x.com/woleswoosh/status/2078449711980450083) | **Published:** Jul 18, 2026
+
+---
+### วิดีโอสิ่งมีชีวิตโลหะที่มีชีวิต
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์แนวไซไฟเชิงแนวคิดที่บรรยายถึงลูกบอลโลหะที่มีชีวิตในฐานะสิ่งมีชีวิตล้ำค่าที่เป็นเชื้อเพลิงให้กับการปฏิวัติ
+
+#### 📝 Prompt
+
+```
+ลูกบอลโลหะเหล่านี้เป็นสิ่งมีชีวิตที่ล้ำค่าซึ่งเป็นเชื้อเพลิงให้กับการปฏิวัติทางเทคโนโลยี
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078434978551980032/img/tmZN-iVwdcziDEFj.jpg" width="600" alt="วิดีโอสิ่งมีชีวิตโลหะที่มีชีวิต">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7516)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2078435020054610058) | **Published:** Jul 18, 2026
+
+---
+### จักรวาลสยองขวัญแห่งกระจกที่แตกสลาย
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์แนวไซไฟแฟนตาซีสุดอลังการ นำเสนอภาพกระจกจักรวาลที่แตกกระจาย กาแล็กซีที่หมุนวน และดวงตาโบราณขนาดมหึมาเท่าจักรวาล
+
+#### 📝 Prompt
+
+```
+กระจกจักรวาลที่แตกสลายระเบิดออกเป็นเศษเสี้ยวหลายพันล้านชิ้น แต่ละชิ้นสะท้อนภาพจักรวาลที่แตกต่างกันซึ่งเทพธิดาต่างดาวต้องเผชิญกับชะตากรรมอันน่าเศร้าแบบเดียวกัน เศษกระจกเหล่านั้นรวมตัวกันเป็นแม่กุญแจสวรรค์ขนาดมหึมาที่ใหญ่กว่ากาแล็กซี เมื่อแม่กุญแจค่อย ๆ เปิดออก เสียงหัวใจเต้นดังก้องไปทั่วอวกาศจนดวงดาวต่างสั่นสะเทือน หลังผนึกที่แตกออก ดวงตาโบราณขนาดเท่าจักรวาลก็ลืมตาขึ้น โดยมีกาแล็กซีจำนวนนับไม่ถ้วนหมุนวนอยู่ภายในม่านตา เพียงแค่กะพริบตาครั้งเดียว กาแล็กซีทั้งระบบก็เลือนหายไปในความมืดมิด เทพธิดาหยุดนิ่งด้วยความหวาดกลัวเป็นครั้งแรก เสียงกระซิบทางจิตดังขึ้นว่า "ขอบคุณนะ... ที่ปลดปล่อยข้า" รอยร้าวปรากฏขึ้นทั่วร่างที่เปล่งแสงของนาง ก่อนที่พลังงานจักรวาลสีขาวสว่างจ้าจะระเบิดออกมาจากภายใน ภาพยนตร์ระดับอัลตร้า, IMAX, Unreal Engine 5, สมจริงดั่งภาพถ่าย, สยองขวัญเชิงจักรวาล, แสงเชิงปริมาตร, ทัศนียภาพระดับกาแล็กซี, การเคลื่อนกล้องที่เร้าอารมณ์, 8K, รายละเอียดสูง, ไซไฟแฟนตาซีสุดอลังการ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078407939208159232/img/TV8-cLpw1Nm5QJv1.jpg" width="600" alt="จักรวาลสยองขวัญแห่งกระจกที่แตกสลาย">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7520)**
+
+**Author:** [badgirl🍀 🐶🐈‍⬛](https://x.com/MPhuong609) | **Source:** [Link](https://x.com/MPhuong609/status/2078408030933381214) | **Published:** Jul 18, 2026
+
+---
+### แอนิเมชัน 3D แพนด้าเล่นรถไฟเหาะ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับเรนเดอร์ภาพ 3D ของหมีแพนด้าการ์ตูนที่กำลังนั่งรถไฟเหาะ พร้อมเอฟเฟกต์ภาพเบลอจากการเคลื่อนไหว (motion blur) ในสไตล์คล้ายโปรแกรม Blender
+
+#### 📝 Prompt
+
+```
+หมีแพนด้าการ์ตูนกำลังนั่งรถไฟเหาะในงานเรนเดอร์ 3D สไตล์ Blender พร้อมเอฟเฟกต์ภาพเบลอจากการเคลื่อนไหวและฉากหลังที่เป็นธรรมชาติ
+เจ้าแพนด้ากำลังสนุกสุดเหวี่ยง 😄
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078330473974001664/img/SmZ_vnjIivQ8ABnz.jpg" width="600" alt="แอนิเมชัน 3D แพนด้าเล่นรถไฟเหาะ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7518)**
+
+**Author:** [Sadie 🕊🖼️](https://x.com/poetrynthings) | **Source:** [Link](https://x.com/poetrynthings/status/2078330507230589122) | **Published:** Jul 18, 2026
+
+---
+### พร้อมท์สำหรับอัปสเกลวิดีโอ 4K ให้สมจริงระดับภาพยนตร์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พร้อมท์วิดีโอเชิงเทคนิคที่เน้นคุณภาพระดับภาพยนตร์ การแทรกเฟรม (interpolation) และเอฟเฟกต์เชิงปริมาตร (volumetric effects) พร้อมเงาที่เข้มข้น
+
+#### 📝 Prompt
+
+```
+คุณภาพระดับภาพยนตร์ 4K ที่สมจริง / ผสมผสานความสมจริงอย่างนุ่มนวล / การแทรกเฟรมและการอัปสเกล / เอฟเฟกต์เชิงปริมาตร / เงาและเสียงที่นุ่มนวลแต่เข้มข้นยิ่งขึ้น
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078322717904764928/img/bcmrms4zRXCeNwTG.jpg" width="600" alt="พร้อมท์สำหรับอัปสเกลวิดีโอ 4K ให้สมจริงระดับภาพยนตร์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7519)**
+
+**Author:** [Arak Dark](https://x.com/orgunus93304) | **Source:** [Link](https://x.com/orgunus93304/status/2078322764847403145) | **Published:** Jul 18, 2026
+
+---
 ### มีมการจิ้มแผ่นตอร์ติญาชิป
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1050,6 +1207,25 @@ Lila กำลังล่องเรือใบสีขาวลำเล็
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7312)**
 
 **Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2077517201184084139) | **Published:** Jul 15, 2026
+
+---
+### แมวเหมียวกับไหมพรมจักรวาล
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์แนวเหนือจริงของแมวตัวหนึ่งที่ค้นพบจักรวาลซึ่งประกอบไปด้วยลูกบอลไหมพรมเรืองแสงและดวงดาวต่าง ๆ
+
+#### 📝 Prompt
+
+```
+เมื่อแมวบ้านธรรมดา ๆ ของคุณค้นพบว่าจักรวาลนี้ทำมาจากลูกบอลไหมพรมเรืองแสงและดวงดาวที่หมุนวน... ความสุขที่แท้จริงได้เริ่มต้นขึ้นแล้ว!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077495982846091264/img/lfnp8s3el34dwedU.jpg" width="600" alt="แมวเหมียวกับไหมพรมจักรวาล">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7523)**
+
+**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2077496246089007407) | **Published:** Jul 15, 2026
 
 ---
 ### มอเตอร์ไซค์ซิ่งความเร็วสูงพร้อมแสงเลเซอร์
@@ -1976,180 +2152,6 @@ Arborpunk Hanging Orchid Observatory ในรูปแบบใหม่ที�
 **Author:** [Arak Dark](https://x.com/orgunus93304) | **Source:** [Link](https://x.com/orgunus93304/status/2075756972553486681) | **Published:** Jul 11, 2026
 
 ---
-### วิดีโอพระราชวังน้ำแข็งของราชินีหิมะ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) สำหรับสร้างวิดีโอการเดินทางของราชินีหิมะผ่านดินแดนชั้นดินเยือกแข็งคงตัวและพระราชวังอาร์กติกของเธอ
-
-#### 📝 Prompt
-
-```
-ราชินีหิมะ (Snedronningen) ผู้เป็นราชินีแห่งเกล็ดหิมะหรือ "ฝูงผึ้งหิมะ" ผู้เดินทางไปทั่วโลกพร้อมกับหิมะ พระราชวังและสวนของเธอตั้งอยู่ในดินแดนชั้นดินเยือกแข็งคงตัว โดยเฉพาะอย่างยิ่งที่สฟาลบาร์ (Spitsbergen)
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075688361616904192/img/O2dQTf94XaXvZ8ou.jpg" width="600" alt="วิดีโอพระราชวังน้ำแข็งของราชินีหิมะ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7062)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2075688977089139000) | **Published:** Jul 10, 2026
-
----
-### วิดีโอภาพยนตร์ Black Helen of Troy
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ที่ออกแบบมาเพื่อสร้างวิดีโอในรูปแบบภาพยนตร์ของ Black Helen of Troy โดยเน้นการนำเสนอทางวัฒนธรรมที่เฉพาะเจาะจงมากกว่าการคัดเลือกนักแสดงแบบทั่วไป
-
-#### 📝 Prompt
-
-```
-ฉันไม่ได้ต้องการแค่นักแสดงผิวดำมารับบท Helen of Troy แต่ฉันต้องการ Black Helen of Troy จริงๆ ช่วยสร้างวิดีโอนั้นให้หน่อย
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075601009921957888/img/aN9beJL_fzdcvCfd.jpg" width="600" alt="วิดีโอภาพยนตร์ Black Helen of Troy">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7061)**
-
-**Author:** [Huff](https://x.com/Huff4Congress) | **Source:** [Link](https://x.com/Huff4Congress/status/2075601096253309265) | **Published:** Jul 10, 2026
-
----
-### ภาพยนตร์โดรน FPV เหนือป่าไม้ในยามเช้า
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ภาพจากโดรน FPV ความเร็วสูงที่บินผ่านป่าที่มีหมอกปกคลุมในช่วงพระอาทิตย์ขึ้น โดดเด่นด้วยแสงสีทองและละอองที่ลอยตัวรวมกันเป็นข้อความก่อนจะจางหายไป
-
-#### 📝 Prompt
-
-```
-ภาพจาก FPV: กล้องเคลื่อนที่ด้วยความเร็วผ่านป่าทึบในช่วงพระอาทิตย์ขึ้น ลัดเลาะไปตามต้นไม้สูงใหญ่ที่ปกคลุมด้วยหมอกยามเช้า แสงสีทองส่องผ่านยอดไม้ในขณะที่ละอองเกสรและหยดน้ำค้างนับพันล้านลอยฟุ้งอยู่ในอากาศ กล้องเคลื่อนเข้าสู่ลำแสงอาทิตย์ที่ส่องกระทบละอองเหล่านั้นจนก่อตัวเป็นคำว่า "MORNING" ก่อนจะแตกกระจายกลายเป็นละอองสีทองระยิบระยับ ภาพพระอาทิตย์ขึ้นที่ยิ่งใหญ่ บรรยากาศธรรมชาติแบบภาพยนตร์ ความสมจริงระดับสูง และ VFX ที่น่าทึ่ง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075586213294022656/img/LIEf70JuAxykwiAw.jpg" width="600" alt="ภาพยนตร์โดรน FPV เหนือป่าไม้ในยามเช้า">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7230)**
-
-**Author:** [Déborah](https://x.com/dvorahfr) | **Source:** [Link](https://x.com/dvorahfr/status/2075586581294092409) | **Published:** Jul 10, 2026
-
----
-### พรอมต์แฟนตาซีรุ่งอรุณแห่งแสงชีวภาพ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์แนวภาพยนตร์ที่สวยงาม อธิบายฉากแฟนตาซีในช่วงรุ่งอรุณที่มีแสงระยิบระยับและการเคลื่อนไหวที่นุ่มนวล
-
-#### 📝 Prompt
-
-```
-แสงดาวรุ่งอรุณค่อย ๆ ปรากฏขึ้น ดอกไม้เรืองแสงส่องสว่างเป็นจังหวะ ธงทิวไหวเอนตามสายลมยามค่ำคืนที่แผ่วเบา และแสงอันศักดิ์สิทธิ์ที่อาบไล้บนชุดเกราะซึ่งขยับขึ้นลงอย่างแผ่วเบาราวกับกำลังหายใจ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075306107371974656/img/ZEKl6A-mpnvhQId8.jpg" width="600" alt="พรอมต์แฟนตาซีรุ่งอรุณแห่งแสงชีวภาพ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7012)**
-
-**Author:** [Terry Palmieri](https://x.com/TerryPalmieri14) | **Source:** [Link](https://x.com/TerryPalmieri14/status/2075306197566320781) | **Published:** Jul 9, 2026
-
----
-### การแข่งขันเทนนิสบนคอร์ตหญ้า
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์เชิงภาพยนตร์แบบละเอียดสำหรับการแข่งขันเทนนิส โดยเน้นการจัดแสง ฟิสิกส์ และการเคลื่อนไหวของกล้องที่เฉพาะเจาะจง
-
-#### 📝 Prompt
-
-```
-นักเทนนิสเหวี่ยงไม้โฟร์แฮนด์จนลูกบอลสีเหลืองพุ่งทะยานข้ามคอร์ตหญ้า เอ็นไม้เทนนิสสั่นไหว ใบหญ้าเอนไหวตามสายลม แสงแดดสีทองสะท้อนบนลูกบอล พร้อมบรรยากาศในสนามที่นุ่มนวลและการเคลื่อนกล้องแบบซูมเข้าอย่างนุ่มนวล
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075286654127136768/img/BvYqUAVhqVp1FaO7.jpg" width="600" alt="การแข่งขันเทนนิสบนคอร์ตหญ้า">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7010)**
-
-**Author:** [Robert Heinlein](https://x.com/strangerinastr) | **Source:** [Link](https://x.com/strangerinastr/status/2075286711521956062) | **Published:** Jul 9, 2026
-
----
-### ภาพเซลฟี่หน้ากระจกของ Sailor Mars
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ที่มีรายละเอียดสูงสำหรับการสร้างวิดีโอที่สมจริงของ Rei Hino ในบทบาท Sailor Mars ขณะกำลังถ่ายเซลฟี่หน้ากระจกกับ Luna ในห้องน้ำสไตล์โมเดิร์น
-
-#### 📝 Prompt
-
-```
-ภาพเซลฟี่หน้ากระจกที่สมจริงมากของ Rei Hino ในบทบาท Sailor Mars เผยให้เห็นกระที่เป็นธรรมชาติบนใบหน้า หัวไหล่ และหน้าอก เธอมีผมสีดำยาวตรงเงางามพร้อมหน้าม้าตรงที่ทิ้งตัวลงมาด้านหลัง
-เธอสวมชุด Sailor Mars คลาสสิกที่ถูกต้องตามต้นฉบับ: ชุดรัดรูปสีขาว ปกกะลาสีสีแดงขลิบขาว โบว์สีม่วงขนาดใหญ่ที่มีจุดศูนย์กลางเป็นวงกลมสีแดงและเข็มกลัดสีทอง กระโปรงจีบสั้นสีแดงพร้อมกระโปรงซับในสีม่วงและขลิบทอง รัดเกล้าสีทองประดับอัญมณีสีแดง ถุงมือยาวสีขาวข้อมือสีแดง รองเท้าบูทสีแดงเงางาม และโช้คเกอร์สีแดงพร้อมจี้รูปดาวสีทอง
-เธอนั่งอยู่ในห้องน้ำหินอ่อนที่สว่างและทันสมัย กำลังถ่ายเซลฟี่หน้ากระจกด้วยสมาร์ทโฟนสีดำในมือขวา ในอ้อมแขนซ้ายเธออุ้มแมวดำตัวน้อยอย่างอ่อนโยน นั่นคือ Luna จาก Sailor Moon ซึ่งมีขนสีดำเงา ดวงตาสีทองกลมโต และสัญลักษณ์รูปพระจันทร์เสี้ยวสีเหลืองบนหน้าผาก Luna ดูสงบและอยากรู้อยากเห็น
-Sailor Mars มองตรงมาที่กล้องด้วยรอยยิ้มที่มั่นใจ ขี้เล่นเล็กน้อย และมีเสน่ห์ แสงธรรมชาติจากหน้าต่างที่นุ่มนวล ผิวสัมผัสสมจริง เห็นกระชัดเจน โฟกัสคมชัด
-```
-
-<img src="https://cms-assets.youmind.com/media/1784189827514_mcr3x3_HMzGqj3W0AA9YlL.jpg" width="600" alt="ภาพเซลฟี่หน้ากระจกของ Sailor Mars">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7228)**
-
-**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2075252023914574244) | **Published:** Jul 9, 2026
-
----
-### ภาพเซลฟี่หน้ากระจกสไตล์สมจริงของ Sailor Moon
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอที่มีรายละเอียดสูงสำหรับภาพเซลฟี่หน้ากระจกที่สมจริงของหญิงสาวในชุด Sailor Moon ที่ถูกต้องตามต้นฉบับ พร้อมแสงธรรมชาติและพื้นผิวผิวหนังที่สมจริง
-
-#### 📝 Prompt
-
-```
-ภาพเซลฟี่หน้ากระจกที่สมจริงอย่างยิ่งของหญิงสาวที่มีผิวขาวดุจพอร์ซเลนและกระธรรมชาติเล็กๆ บนใบหน้า ไหล่ และหน้าอก เธอสวมชุด Sailor Moon ที่มีรายละเอียดถูกต้องตามต้นฉบับ: ชุดเลโอทาร์ดสีขาวพร้อมปกกะลาสีสีน้ำเงินและโบว์สีแดงขนาดใหญ่ที่หน้าอก กระโปรงจีบสั้นสีน้ำเงินขอบขาวแดง รัดเกล้าพระจันทร์เสี้ยวสีทอง ถุงมือยาวสีขาวพร้อมรายละเอียดสีแดง รองเท้าบูทสีแดง โช้คเกอร์สีแดงพร้อมจี้หัวใจสีทอง และเข็มกลัดสีทอง ผมสีบลอนด์คลาสสิกมัดเป็นมวยแบบ odango พร้อมผมเปียยาวสลวย เธอถ่ายเซลฟี่หน้ากระจกในห้องน้ำที่ทันสมัย ถือสมาร์ทโฟนสีดำไว้ในมือข้างหนึ่ง มองตรงมาที่กล้องด้วยสีหน้ามั่นใจและขี้เล่นเล็กน้อย แสงธรรมชาติจากหน้าต่างที่นุ่มนวล พื้นผิวผิวหนังที่สมจริง เห็นกระชัดเจน โฟกัสคมชัด สมจริงดั่งภาพถ่าย
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075205335040634880/img/UdrgqedZjz4y9CUP.jpg" width="600" alt="ภาพเซลฟี่หน้ากระจกสไตล์สมจริงของ Sailor Moon">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7126)**
-
-**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2075205397112123637) | **Published:** Jul 9, 2026
-
----
-### โลกแฟนตาซีในจินตนาการอันน่าทึ่ง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอระดับภาพยนตร์สำหรับทิวทัศน์แฟนตาซีที่สมจริง พร้อมภูเขาลอยฟ้า ป่าเรืองแสง และน้ำตก
-
-#### 📝 Prompt
-
-```
-โลกในจินตนาการอันน่าทึ่งที่ดูสมจริงอย่างสมบูรณ์แบบ ประกอบด้วยภูเขาลอยฟ้า ต้นไม้โบราณขนาดใหญ่ แม่น้ำคริสตัล ป่าเรืองแสง น้ำตกที่ไหลลงสู่ทะเลสาบที่มีหมอกปกคลุม แสงอาทิตย์ยามเช้าสีทอง ก้อนเมฆที่ดูมีมิติ นกหายาก บรรยากาศอันเงียบสงบ องค์ประกอบภาพระดับภาพยนตร์ สมจริงดั่งภาพถ่าย IMAX, HDR, แสงแบบ Volumetric, สีสันที่เป็นธรรมชาติ, รายละเอียดสูง, 8K, การถ่ายภาพระดับมืออาชีพ, ไม่ใช่ CGI, ไม่ใช่ภาพวาด, ดูเหมือนสถานที่จริง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075106901357219840/img/BgbByrZssE0gXhLF.jpg" width="600" alt="โลกแฟนตาซีในจินตนาการอันน่าทึ่ง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7011)**
-
-**Author:** [Tesla Owners Silicon Valley](https://x.com/teslaownersSV) | **Source:** [Link](https://x.com/teslaownersSV/status/2075107002020471065) | **Published:** Jul 9, 2026
-
----
-### พร้อมท์ลำดับภาพ Angel Flight
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พร้อมท์แนวแฟนตาซีแบบละเอียดที่บรรยายถึงทูตสวรรค์ที่กำลังเคลื่อนย้ายระหว่างโลกต่าง ๆ พร้อมเอฟเฟกต์ข้อความแบบไดนามิก
-
-#### 📝 Prompt
-
-```
-ทูตสวรรค์จากในหนังสือย่างกรายเข้ามาในห้องที่โลกแห่งความเป็นจริง ข้อความ “GOD FIRST ALWAYS” ก่อตัวขึ้นอย่างเลือนลางในขณะที่เขากำลังบินจากไปสู่ดวงจันทร์
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075056939734609920/img/ZFXMqJXRT-Uv0faI.jpg" width="600" alt="พร้อมท์ลำดับภาพ Angel Flight">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7013)**
-
-**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2075057016158986588) | **Published:** Jul 9, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2211,6 +2213,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-19T06:52:48.834Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-19T10:23:10.620Z</sub>
 
 </div>

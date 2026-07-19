@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2165** |
+| 📝 プロンプト総数 | **2174** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-07-19** |
 
@@ -189,6 +189,163 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### 愛国的な歌を歌う灰色の猫の動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 白い足をした太った灰色の猫が、仕事をしながら愛国歌を歌うクリエイティブなプロンプト。
+
+#### 📝 プロンプト
+
+```
+白い足をした太った灰色の猫がいます。彼女は仕事をしながら、「Oh beautiful for spacious skies, for amber waves of grain」という曲を静かに歌っています。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078578004008034304/img/xH1oglULnTnXbhPu.jpg" width="600" alt="愛国的な歌を歌う灰色の猫の動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7515)**
+
+**作者:** [Susan Kurvach](https://x.com/SKurvach) | **ソース:** [Link](https://x.com/SKurvach/status/2078578018801315977) | **公開日:** Jul 18, 2026
+
+---
+### 生きているライオンの油絵
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 暗い寝室で、額縁に入ったライオンの油絵が命を吹き込まれて動き出す、クリエイティブなアニメーション用プロンプト。
+
+#### 📝 プロンプト
+
+```
+黒い壁の暗い寝室に掛けられた、大きく装飾的な黒い額縁。絵の横には、重厚な赤いベルベットのカーテンがかかった窓がある。装飾的な黒い額縁の中には、命を吹き込まれた油絵がある。絵の中のライオンだけが動いている
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078575143455014912/img/MSLfxwToTfN-zDAz.jpg" width="600" alt="生きているライオンの油絵">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7517)**
+
+**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2078575196550615483) | **公開日:** Jul 18, 2026
+
+---
+### シネマティックなダークファンタジー風エルフのポートレート
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 目元を覆う大きな蛾とドラマチックなリムライトが特徴的な、ダークファンタジー風エルフの動画を生成するための詳細なプロンプトです。
+
+#### 📝 プロンプト
+
+```
+非常に色白でそばかすがあり、埃を被ったような肌を持つエルフの女性の超クローズアップポートレート。尖った耳を持ち、ゴシック様式のフィリグリー細工と暗い宝石があしらわれた華やかな黒金色の冠を頭に戴いている。長く流れるような白い髪が一部見え、複雑な模様の羽を持つ非常に大きく精巧な蛾が、彼女の両目を完全に覆い隠している。蛾の体と広げた羽が目元を完全に隠しており、肌の質感や埃の粒子を際立たせる強いリムライトを効かせた、ドラマチックでローキーなシネマティックライティング。ゴールドとブラックを基調とした、彩度を抑えたミュートカラーのパレット。ダークファンタジーの雰囲気、ハイパーリアリスティック、超高精細、シネマティック、ムーディー。
+```
+
+<img src="https://cms-assets.youmind.com/media/1784448567940_z5jw75_HNXvRqjXgAAJLzb.jpg" width="600" alt="シネマティックなダークファンタジー風エルフのポートレート">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7522)**
+
+**作者:** [Myluna](https://x.com/monicamoonx) | **ソース:** [Link](https://x.com/monicamoonx/status/2078540320497619021) | **公開日:** Jul 18, 2026
+
+---
+### トッテナム・ホットスパーのファンによる自撮りプロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> オフィス内でトッテナム・ホットスパーのユニフォームを着た女性の、リアルな自撮り写真を生成するための詳細なプロンプト。
+
+#### 📝 プロンプト
+
+```
+20 代前半のキュートな東アジア人女性による、フォトリアルな自撮り写真。肩までの長さのダークブラウンから黒の髪、ストレートのバングス（前髪）で少しウェーブがかかっており、黒縁の太い長方形のメガネをかけている。口を開けて舌を横に出し、カメラを真っ直ぐに見つめるおどけた表情。
+
+彼女は、ネイビーブルーのラグランショルダーと袖が特徴的な、トッテナム・ホットスパーの白いサッカーユニフォームを着用している。胸元には、ボールの上に立つトッテナムの象徴的なコックレルのエンブレム、その下に黒い Nike のスウッシュ、さらにその下に大きく太い赤字で「AIA」のスポンサーロゴがはっきりと描かれている。左袖には「KIA」の文字の一部が見える。
+
+明るい壁のカジュアルな室内で黒いオフィスチェアに座っており、左側には白い横型ブラインド、床は木目調。背後の壁には別のサッカーユニフォームが掛かっている。自然光、リアルな肌の質感、シャープなディテール、カジュアルな自撮りアングル、高解像度、8k フォトリアリズム。
+```
+
+<img src="https://cms-assets.youmind.com/media/1784448563059_4zf39l_HNe1fQibQAAMMJz.jpg" width="600" alt="トッテナム・ホットスパーのファンによる自撮りプロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7521)**
+
+**作者:** [Feyber | AI Creator](https://x.com/woleswoosh) | **ソース:** [Link](https://x.com/woleswoosh/status/2078449711980450083) | **公開日:** Jul 18, 2026
+
+---
+### Living Metal Organisms Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> テクノロジー革命の原動力となる、貴重な生命体としての金属球を描いたコンセプト SF プロンプト。
+
+#### 📝 プロンプト
+
+```
+その金属球は、テクノロジー革命の原動力となる貴重な生命体である。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078434978551980032/img/tmZN-iVwdcziDEFj.jpg" width="600" alt="Living Metal Organisms Video">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7516)**
+
+**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **ソース:** [Link](https://x.com/PhilipCarrn7711/status/2078435020054610058) | **公開日:** Jul 18, 2026
+
+---
+### コズミック・ホラー：砕け散る鏡の宇宙
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 砕け散る宇宙の鏡、回転する銀河、そして宇宙規模の古代の眼を描いた、壮大な SF ファンタジー映像プロンプト。
+
+#### 📝 プロンプト
+
+```
+砕け散った宇宙の鏡が数十億の破片となって爆発する。それぞれの破片には、異星の女神が同じ悲劇的な運命を辿る異なる宇宙が映し出されている。破片は銀河よりも巨大な天上の鍵へと融合していく。鍵がゆっくりと開くと、宇宙中に心臓の鼓動が響き渡り、星々が震える。壊れた封印の向こう側で、宇宙ほどの大きさを持つ古代の眼が開かれ、その虹彩の中では無数の銀河が回転している。まばたき一つで、銀河系全体が闇へと消え去る。女神は初めて恐怖に凍りつく。テレパシーによる声が囁く。「私を解放してくれて……ありがとう」。彼女の輝く体に亀裂が走り、内側から眩いばかりの白い宇宙エネルギーが噴出する。ウルトラシネマティック、IMAX、Unreal Engine 5、フォトリアル、コズミック・ホラー、ボリュームライト、銀河スケールのビジュアル、ドラマチックなカメラワーク、8K、超高精細、壮大な SF ファンタジー。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078407939208159232/img/TV8-cLpw1Nm5QJv1.jpg" width="600" alt="コズミック・ホラー：砕け散る鏡の宇宙">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7520)**
+
+**作者:** [badgirl🍀 🐶🐈‍⬛](https://x.com/MPhuong609) | **ソース:** [Link](https://x.com/MPhuong609/status/2078408030933381214) | **公開日:** Jul 18, 2026
+
+---
+### パンダのジェットコースター 3D アニメーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Blender 風のスタイルで、モーションブラー効果をかけたジェットコースターに乗るカートゥーン調のパンダの 3D レンダリング用プロンプトです。
+
+#### 📝 プロンプト
+
+```
+Blender 3D レンダリングで、モーションブラーと自然な背景の中、カートゥーン調のパンダがジェットコースターに乗っています。
+パンダは楽しんでいます 😄
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078330473974001664/img/SmZ_vnjIivQ8ABnz.jpg" width="600" alt="パンダのジェットコースター 3D アニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7518)**
+
+**作者:** [Sadie 🕊🖼️](https://x.com/poetrynthings) | **ソース:** [Link](https://x.com/poetrynthings/status/2078330507230589122) | **公開日:** Jul 18, 2026
+
+---
+### リアルな 4K シネマティックアップスケールプロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> シネマティックな品質、補間、ボリュームエフェクト、そして強烈な影に焦点を当てたテクニカルなビデオプロンプトです。
+
+#### 📝 プロンプト
+
+```
+リアルな 4K シネマティック品質 / スムーズなミックスリアリズム / 補間およびアップスケール / ボリュームエフェクト / よりソフトで強烈な影とサウンド
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078322717904764928/img/bcmrms4zRXCeNwTG.jpg" width="600" alt="リアルな 4K シネマティックアップスケールプロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7519)**
+
+**作者:** [Arak Dark](https://x.com/orgunus93304) | **ソース:** [Link](https://x.com/orgunus93304/status/2078322764847403145) | **公開日:** Jul 18, 2026
+
+---
 ### トルティーヤチップスのディップミーム
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1050,6 +1207,25 @@ Grok で作成された「イングランドに勝ったぞ」という音声が
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7312)**
 
 **作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **ソース:** [Link](https://x.com/clemensilverio/status/2077517201184084139) | **公開日:** Jul 15, 2026
+
+---
+### Cosmic Yarn Cat
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 光り輝く毛糸玉と惑星で構成された宇宙を発見する猫を描いた、シュールなプロンプト。
+
+#### 📝 プロンプト
+
+```
+いつもの飼い猫が、宇宙が光り輝く毛糸玉と渦巻く惑星でできていることを発見したら……そこには純粋な喜びが待っています！
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077495982846091264/img/lfnp8s3el34dwedU.jpg" width="600" alt="Cosmic Yarn Cat">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7523)**
+
+**作者:** [SophieZX](https://x.com/Z_XSophie) | **ソース:** [Link](https://x.com/Z_XSophie/status/2077496246089007407) | **公開日:** Jul 15, 2026
 
 ---
 ### 高速バイクのレーザー加速
@@ -1976,180 +2152,6 @@ Call of Duty Modern Warfare スタイルの超写実的な一人称視点。プ�
 **作者:** [Arak Dark](https://x.com/orgunus93304) | **ソース:** [Link](https://x.com/orgunus93304/status/2075756972553486681) | **公開日:** Jul 11, 2026
 
 ---
-### 雪の女王の永久凍土の宮殿の動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 雪の女王が永久凍土の地と北極の宮殿を旅する様子を動画生成するための記述的なプロンプト。
-
-#### 📝 プロンプト
-
-```
-雪の女王（Snedronningen）は、雪の結晶や「スノー・ビー」の女王であり、雪と共に世界中を旅します。彼女の宮殿と庭園は永久凍土の地、具体的にはスピッツベルゲン島にあります。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075688361616904192/img/O2dQTf94XaXvZ8ou.jpg" width="600" alt="雪の女王の永久凍土の宮殿の動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7062)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2075688977089139000) | **公開日:** Jul 10, 2026
-
----
-### Black Helen of Troy シネマティックビデオ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一般的なキャスティングではなく、特定の文化的表現を強調した、Black Helen of Troy のシネマティックビデオを生成するためのプロンプトです。
-
-#### 📝 プロンプト
-
-```
-単に黒人の女優がヘレネを演じるのではなく、Black Helen of Troy そのものを表現したい。そのビデオを作成してください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075601009921957888/img/aN9beJL_fzdcvCfd.jpg" width="600" alt="Black Helen of Troy シネマティックビデオ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7061)**
-
-**作者:** [Huff](https://x.com/Huff4Congress) | **ソース:** [Link](https://x.com/Huff4Congress/status/2075601096253309265) | **公開日:** Jul 10, 2026
-
----
-### シネマティックな森の FPV 朝日
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 朝日が差し込む霧深い森を高速 FPV ドローンで駆け抜けるショット。黄金の光線と、文字を形成してから霧散する浮遊粒子が特徴です。
-
-#### 📝 プロンプト
-
-```
-FPV ショット：朝日が昇る濃い森の中を、朝霧に包まれた高い木々の間を縫うようにカメラが高速で駆け抜けます。黄金の光線が木々の隙間から差し込み、何十億もの浮遊する花粉の粒子と小さな露のしずくが空中に漂っています。カメラが日光の差し込む場所に入ると、照らされた粒子が自然に同期して「MORNING」という文字を形成し、その後、きらめく黄金の塵となってはじけ飛びます。壮大な朝日、シネマティックな自然、超リアルな雰囲気、息をのむような VFX。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075586213294022656/img/LIEf70JuAxykwiAw.jpg" width="600" alt="シネマティックな森の FPV 朝日">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7230)**
-
-**作者:** [Déborah](https://x.com/dvorahfr) | **ソース:** [Link](https://x.com/dvorahfr/status/2075586581294092409) | **公開日:** Jul 10, 2026
-
----
-### 生物発光の夜明けファンタジープロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 光の明滅と繊細な動きを伴う、幻想的な夜明けのシーンを描写した美しいシネマティックプロンプトです。
-
-#### 📝 プロンプト
-
-```
-明けの明星がゆっくりと昇り、生物発光する花々が光を明滅させ、かすかな夜風に旗が揺らめき、鎧に宿る神聖な輝きが穏やかに呼吸している。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075306107371974656/img/ZEKl6A-mpnvhQId8.jpg" width="600" alt="生物発光の夜明けファンタジープロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7012)**
-
-**作者:** [Terry Palmieri](https://x.com/TerryPalmieri14) | **ソース:** [Link](https://x.com/TerryPalmieri14/status/2075306197566320781) | **公開日:** Jul 9, 2026
-
----
-### 芝コートでのテニスアクション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> テニスの試合を想定した、ライティング、物理演算、カメラワークを詳細に指定するシネマティックプロンプト。
-
-#### 📝 プロンプト
-
-```
-テニスプレイヤーがフォアハンドのスイングを終え、黄色いボールが芝コートを鋭く駆け抜ける。ラケットのガットが振動し、芝生が風に揺れ、黄金色の陽光がボールに反射する。スタジアムの柔らかな空気感の中、カメラが緩やかに被写体へ寄っていく。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075286654127136768/img/BvYqUAVhqVp1FaO7.jpg" width="600" alt="芝コートでのテニスアクション">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7010)**
-
-**作者:** [Robert Heinlein](https://x.com/strangerinastr) | **ソース:** [Link](https://x.com/strangerinastr/status/2075286711521956062) | **公開日:** Jul 9, 2026
-
----
-### セーラーマーズの鏡越し自撮り
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 現代的なバスルームで、セーラーマーズこと火野レイがルナと一緒に鏡越しで自撮りをするリアルな動画を生成するための、詳細なプロンプトです。
-
-#### 📝 プロンプト
-
-```
-セーラーマーズこと火野レイの非常にリアルな鏡越し自撮り。顔、肩、胸元には自然なそばかすがある。長く真っ直ぐな艶のある黒髪で、前髪はストレート、背中まで流れている。
-正確に再現されたクラシックなセーラーマーズの衣装を着用：白いレオタード、白い縁取りの赤いセーラー襟、中央に赤い円と金のブローチが付いた大きな紫のリボン、紫のアンダースカートと金の縁取りがある短い赤のプリーツスカート、赤い宝石が付いた金のティアラ、赤いカフスの長い白手袋、光沢のある赤いブーツ、金の星のペンダントが付いた赤いチョーカー。
-現代的で明るい大理石のバスルームに座り、右手に持った黒いスマートフォンで鏡越しに自撮りをしている。左腕には、小さな黒猫のルナ（美少女戦士セーラームーン）を優しく抱いている。ルナは艶やかな黒い毛並み、大きな金色の瞳、額には黄色い三日月のシンボルがある。ルナは穏やかで好奇心旺盛な表情をしている。
-セーラーマーズはカメラをまっすぐに見つめ、自信に満ちた、少し遊び心のある魅力的な笑みを浮かべている。柔らかな自然の窓明かり、リアルな肌の質感、目に見えるそばかす、シャープなフォーカス。
-```
-
-<img src="https://cms-assets.youmind.com/media/1784189827514_mcr3x3_HMzGqj3W0AA9YlL.jpg" width="600" alt="セーラーマーズの鏡越し自撮り">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7228)**
-
-**作者:** [Myluna](https://x.com/monicamoonx) | **ソース:** [Link](https://x.com/monicamoonx/status/2075252023914574244) | **公開日:** Jul 9, 2026
-
----
-### フォトリアルなセーラームーンの鏡越し自撮り
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> セーラームーンの衣装を忠実に再現した女性のリアルな鏡越し自撮りを生成するための、高精細な動画プロンプト。自然な光と肌の質感を表現します。
-
-#### 📝 プロンプト
-
-```
-陶器のような白い肌に、顔、肩、胸元に繊細で自然なそばかすがある女性の、極めてリアルな鏡越し自撮り。彼女は、細部まで忠実に再現されたセーラームーンの衣装を着用している。白いレオタード、青いセーラー襟、胸元の大きな赤いリボン、白と赤の縁取りが施された青いプリーツミニスカート、金の三日月ティアラ、赤のアクセントが入った長い白手袋、赤いブーツ、金のハート型ペンダント付きの赤いチョーカー、そして金のブローチ。髪型は金髪のクラシックなお団子ヘアで、長いツインテールが流れている。現代的なバスルームで鏡越しに自撮りをしており、片手に黒いスマートフォンを持ち、自信に満ちた少し遊び心のある表情でカメラをまっすぐに見つめている。柔らかな自然光が窓から差し込み、リアルな肌の質感、目に見えるそばかす、シャープなピント、フォトリアルな仕上がり。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075205335040634880/img/UdrgqedZjz4y9CUP.jpg" width="600" alt="フォトリアルなセーラームーンの鏡越し自撮り">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7126)**
-
-**作者:** [Myluna](https://x.com/monicamoonx) | **ソース:** [Link](https://x.com/monicamoonx/status/2075205397112123637) | **公開日:** Jul 9, 2026
-
----
-### 息をのむような幻想的なファンタジー世界
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 浮遊する山々、光り輝く森、滝など、リアルなファンタジー風景を描き出すための大規模なシネマティック動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-完全に実在するかのような、息をのむほど幻想的な世界。浮遊する山々、巨大な古代樹、水晶のように澄んだ川、光り輝く森、霧のかかった湖へと流れ落ちる滝、黄金の日の出、ドラマチックな雲、エキゾチックな鳥たち。穏やかな雰囲気、シネマティックな構図、超フォトリアル、IMAX、HDR、ボリュームライト、自然な色彩、ハイパーディテール、8K、プロフェッショナルな写真撮影、CGI なし、イラスト感なし、実在する場所のような見た目。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075106901357219840/img/BgbByrZssE0gXhLF.jpg" width="600" alt="息をのむような幻想的なファンタジー世界">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7011)**
-
-**作者:** [Tesla Owners Silicon Valley](https://x.com/teslaownersSV) | **ソース:** [Link](https://x.com/teslaownersSV/status/2075107002020471065) | **公開日:** Jul 9, 2026
-
----
-### エンジェル・フライト・シーケンス・プロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 動的なテキストエフェクトを伴い、天使が異世界間を移動する様子を描写した詳細なファンタジープロンプトです。
-
-#### 📝 プロンプト
-
-```
-本の中から現れた天使が、現実世界へと足を踏み入れる。彼が月へと飛び去る際、「GOD FIRST ALWAYS」という言葉が霧のように浮かび上がる。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075056939734609920/img/ZFXMqJXRT-Uv0faI.jpg" width="600" alt="エンジェル・フライト・シーケンス・プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7013)**
-
-**作者:** [the_light](https://x.com/the_light35) | **ソース:** [Link](https://x.com/the_light35/status/2075057016158986588) | **公開日:** Jul 9, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2211,6 +2213,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-19T06:52:46.600Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-19T10:23:08.846Z</sub>
 
 </div>
