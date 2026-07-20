@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2174** |
+| 📝 Total Prompts | **2184** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-20** |
 
@@ -189,6 +189,367 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Hát mừng sinh nhật cùng nến
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một câu lệnh đầy không khí lễ hội để tạo video một người đang hát mừng sinh nhật trong khi thổi nến.
+
+#### 📝 Prompt
+
+```
+Tôi hát bài Happy Birthday to You trong khi thổi nến. Happy Birthday to You, Happy Birthday to You, Happy Birthday Dear Everyone, Happy Birthday to You.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078946160816140288/img/fylJTyQLaDWqbX12.jpg" width="600" alt="Hát mừng sinh nhật cùng nến">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7575)**
+
+**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2078946208807301490) | **Published:** Jul 19, 2026
+
+---
+### Video điện ảnh mùa hè hoài cổ thập niên 90
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh toàn diện để tạo video quay một lần (single-take), chuyển động siêu chậm với phong cách hoài cổ thập niên 90 và các chuyển cảnh mượt mà.
+
+#### 📝 Prompt
+
+```
+Sử dụng các hình ảnh tham chiếu để tạo ra một video liền mạch, quay một lần (single-take) không ngắt quãng. Tuyệt đối không có lời thoại, cắt cảnh đột ngột, hiệu ứng mờ dần (fade-in/fade-out) hoặc thay đổi độ mờ trong suốt toàn bộ video. Trình bày cảnh quay ở chế độ chuyển động siêu chậm để gợi lên bầu không khí mùa hè thư thái và phong cách hình ảnh hoài cổ thập niên 90. Kết nối từng cảnh một cách tự nhiên chỉ bằng các chuyển động camera mượt mà. Thêm hiệu ứng âm thanh chuyển cảnh phù hợp và duy trì luồng âm thanh môi trường điện ảnh liên tục, không bị gián đoạn. Không có nhạc. Duy trì tính nhất quán về hình ảnh, chuyển động mượt mà và hiệu ứng ánh sáng điện ảnh chân thực. Thời lượng: 10 giây; tỷ lệ khung hình: 16:9; độ phân giải: 720p. Chuyển động camera là yếu tố quan trọng nhất. Tôi không yêu cầu các người mẫu chuyển đổi giữa các cảnh; thay vào đó, tôi mô tả mỗi lần chuyển cảnh như một chuyển động vật lý của camera, chẳng hạn như đẩy qua một vật thể, lia máy qua các yếu tố tiền cảnh hoặc theo chân chủ thể vào môi trường tiếp theo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078919323738136577/img/HWk8HR6PkKuBgFMH.jpg" width="600" alt="Video điện ảnh mùa hè hoài cổ thập niên 90">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7571)**
+
+**Author:** [Loriel.AI](https://x.com/ou_zhen599) | **Source:** [Link](https://x.com/ou_zhen599/status/2078920201085845703) | **Published:** Jul 19, 2026
+
+---
+### Phong cách trượt ván Surfer McTwist
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video năng động về một vận động viên lướt sóng thực hiện cú xoay McTwist phức tạp cùng động tác stale fish grab, được thiết kế theo phong cách trượt ván.
+
+#### 📝 Prompt
+
+```
+Rất chuẩn chỉnh 💐
+
+Vận động viên lướt sóng hiện đã sẵn sàng tại vị trí xuất phát hoàn hảo để thực hiện cú xoay ngược McTwist trên không ấn tượng nhất từng thấy, kết hợp với động tác stale fish grab. Lấy cảm hứng từ trượt ván.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078914214249304064/img/a1-WQgHtGabLSXZy.jpg" width="600" alt="Phong cách trượt ván Surfer McTwist">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7567)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2078914251318608302) | **Published:** Jul 19, 2026
+
+---
+### Chuỗi hành động thoát hiểm bằng cánh rồng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) tạo hoạt ảnh giả tưởng về nhân vật mọc cánh rồng để thoát khỏi cái giếng đầy độc tố.
+
+#### 📝 Prompt
+
+```
+Thoát khỏi sự kìm kẹp của cái giếng đầy độc tố 
+
+Cô ấy mọc ra đôi cánh 🪽 rồng 🐉 và có thể thoát khỏi trạng thái mê hoặc.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078908101114175489/img/Uo3pyJ7ypvgQhFuZ.jpg" width="600" alt="Chuỗi hành động thoát hiểm bằng cánh rồng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7569)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2078908136543408297) | **Published:** Jul 19, 2026
+
+---
+### Video nhảy Anime theo phong cách sách Pop-up
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một prompt Grok Imagine toàn diện cho video nhảy anime dài 6 giây, tập trung vào tính nhất quán của nhân vật, sự phối hợp đa góc máy và thẩm mỹ lấy cảm hứng từ nghệ thuật cắt giấy đầy màu sắc.
+
+#### 📝 Prompt
+
+```
+# Prompt cho video nhảy 6 giây theo phong cách Pop-up
+Sử dụng nhân vật trong hình ảnh tham chiếu làm nhân vật chính duy nhất. **6 giây, 24 fps, dọc 9:16.** Hoạt hình Nhật Bản full-color chất lượng cao. Nghệ thuật tinh xảo như phim anime chiếu rạp, chuyển động cơ thể mượt mà, biểu cảm khuôn mặt phong phú, cùng tóc và trang phục đung đưa tự nhiên. Trong thế giới của một cuốn sách tranh pop-up đầy màu sắc, nhân vật chính thực hiện một điệu nhảy bước chân nhẹ nhàng, tạo nên một video nhảy siêu ngắn dễ dàng phát lại nhiều lần trên mạng xã hội.
+
+## Mục tiêu cốt lõi
+* Thu hút người xem bằng cả chuyển động và biểu cảm trong 0,3 giây đầu tiên
+* Tạo ra một điệu nhảy sử dụng kỹ thuật bước chân và cảm giác nhịp điệu khác biệt so với các tác phẩm trước đây
+* Bao gồm một động tác đặc trưng có thể ghi nhớ ngay sau lần xem đầu tiên
+* Sử dụng 5 góc máy với các đoạn cắt cảnh chi tiết để tạo nhịp độ và sự liền mạch cho video
+* Tạo cấu trúc vòng lặp quay trở lại từ cuối về đầu mà không gây cảm giác gượng ép
+* Ưu tiên sự dễ thương, thân thiện và năng lượng của nhân vật chính
+* Cấu trúc video để dẫn đến việc lưu lại, phát lại nhiều lần và bắt chước vũ đạo
+
+## Tính nhất quán của nhân vật
+Nhân vật chính là nhân vật từ chính hình ảnh tham chiếu. Duy trì các đặc điểm sau đây từ hình ảnh tham chiếu trên tất cả các góc máy, tư thế, biểu cảm và khung hình:
+* Kiểu tóc
+* Màu tóc
+* Hình dáng tóc mái
+* Màu mắt
+* Các đường nét khuôn mặt
+* Màu da
+* Vóc dáng
+* Tỷ lệ đầu so với cơ thể
+* Độ tuổi cảm nhận
+* Trang phục
+* Bảng màu trang phục
+* Giày
+* Phụ kiện
+* Bầu không khí tổng thể
+Không thay đổi khuôn mặt hoặc vóc dáng ngay cả khi chuyển góc máy. Không cho phép thay đổi nhân vật, thay đổi trang phục, thay đổi kiểu tóc hoặc làm mất phụ kiện. Giữ các ngón tay ở hình dạng tự nhiên và mô tả chính xác các chi tay trái và phải.
+
+## Bối cảnh
+Bối cảnh là một sân khấu nhảy thu nhỏ được tạo ra bên trong một cuốn sách tranh pop-up khổng lồ. Đặt các vật trang trí sau trên sàn 3D trông giống như một trang sách đang mở:
+* Những đám mây làm bằng giấy
+* Đèn hình ngôi sao nhỏ
+* Các khối xây dựng đầy màu sắc
+* Một phông nền hình vòm
+* Đèn sân khấu tròn
+* Các hình thù nhỏ như hoa giấy
+Màu nền nên tập trung vào màu kem, hồng san hô, xanh da trời, vàng chanh và tím oải hương. Tạo cho phông nền cảm giác ba chiều, nhưng không để nó nổi bật hơn nhân vật chính. Không đưa bất kỳ người nào khác ngoài nhân vật chính, vũ công, khán giả hoặc động vật vào video.
+
+## Âm nhạc
+**Bản nhạc vocal tiếng Nhật hoàn toàn gốc.** Không làm cho nó giống với các bài hát hiện có, bài hát anime, bản hit phổ biến hoặc bài hát thiếu nhi. Phong cách J-POP/anime-pop tươi sáng, dễ thương và có nhịp độ nhanh. Không bao gồm phần intro ngắn; bắt đầu phần vocal, nhịp điệu và giai điệu đồng thời từ 0 giây. Sử dụng các âm thanh sau trong âm nhạc:
+* Trống nhẹ
+* Synthesizer tươi sáng
+* Tiếng vỗ tay nhỏ
+* Nốt cao như tiếng chuông
+* Bass nảy
+* Các âm thanh nhấn nhá dễ thương như 'pon', 'pah' và 'kira'.
+Đồng bộ hóa vũ đạo, chuyển đổi góc máy và chuyển động nền theo nhịp điệu. Bài hát nên dài khoảng 5 giây, kết thúc tự nhiên phần vocal và giai điệu vào khoảng 5,0 đến 5,3 giây. Trong 0,7 giây cuối cùng, chỉ để lại một âm thanh dư âm ngắn và hiệu ứng âm thanh dẫn vào vòng lặp. Không hiển thị văn bản, phụ đề hoặc lời bài hát.
+
+## Ý tưởng video
+Nhân vật chính di chuyển sang trái và phải trên một sân khấu nhỏ, thực hiện một điệu nhảy tươi sáng và dễ thương kết hợp các bước nhảy nảy và vỗ tay. Hiển thị rõ ràng các chuyển động toàn thân sau đây, không chỉ phần thân trên:
+* Các bước mở mũi chân sang trái và phải
+* Chuyển động ngang nhỏ
+* Chuyển động thu đầu gối vào trong
+* Chuyển động nhịp nhàng lên xuống của vai
+* Những cú xoay nhẹ
+* Vỗ tay đồng bộ với nhịp điệu
+* Tư thế cân bằng một chân cuối cùng
+Không sử dụng các động tác nhào lộn mạnh hoặc nhảy lớn. Làm cho vũ đạo dễ dàng để bất kỳ ai cũng có thể bắt chước và muốn nhảy theo nguồn nhạc.
+
+## Động tác đặc trưng
+Sử dụng 'Pata-Pata Step' làm động tác đặc trưng độc đáo cho video này.
+1. Mở cả hai tay ra ngoài ở độ cao ngang vai.
+2. Nhanh chóng búng cổ tay vào và ra hai lần.
+3. Đồng thời mở mũi chân theo thứ tự bên phải, sau đó bên trái.
+4. Bắt chéo cả hai tay một lần trước ngực.
+5. Mở mạnh hai tay đang bắt chéo theo đường chéo hướng lên trên.
+6. Nhấc một chân nhẹ nhàng, nghiêng đầu và mỉm cười.
+Thực hiện các chuyển động tay và chân theo cùng một nhịp điệu, tạo ra vũ đạo có thể ghi nhớ chỉ bằng hình bóng. Không tập trung vũ đạo xung quanh các hình trái tim, chỉ trỏ, ký hiệu hòa bình bên má hoặc hôn gió.
+
+## Hiệu ứng Pop-up
+Không giống như các hiệu ứng phong cách bút sáp màu của tác phẩm trước, hãy sử dụng biểu cảm thủ công giấy 3D trông giống như các lớp giấy cắt chồng lên nhau. Các họa tiết cần sử dụng:
+* Hình tam giác nhỏ
+* Hình tròn đầy màu sắc
+* Băng dính giấy
+* Các đường zigzag
+* Mây thu nhỏ
+* Các mảnh giấy hình ngôi sao
+* Các vòm bán nguyệt
+* Các đường nét giống lò xo
+* Hoa giấy nhỏ
+* Giấy dạng ruy băng lượn sóng
+Các hiệu ứng sẽ xuất hiện như thể bật ra từ sàn sân khấu hoặc phông nền. Sử dụng các chuyển động sau:
+* Nổi lên từ trang sách
+* Giấy gấp mở ra
+* Nảy lên một lần như lò xo
+* Đung đưa nhẹ sang trái và phải
+* Rải rác như hoa giấy
+* Thu lại vào trong trang sách
+Không chồng chéo quá nhiều lên khuôn mặt hoặc cơ thể của nhân vật chính. Sử dụng chúng để củng cố hướng chuyển động, điểm đặt chân và thời điểm vỗ tay.
+
+## Cấu hình 5 góc máy
+Sử dụng 5 góc máy, nhưng không chỉ đơn giản là luân phiên chúng mỗi giây. Chèn các đoạn cắt ngắn từ 0,2 đến 0,5 giây vào giữa một cảnh quay chính dài hơn, thay đổi góc nhìn theo nhịp điệu.
+
+### Camera A: Camera toàn cảnh phía trước
+Camera chính hiển thị toàn thân nhân vật chính và toàn bộ sân khấu. Một góc độ mà vũ đạo, kỹ thuật bước chân và chuyển động ngang rõ ràng. Dolly nhẹ tới lui để theo dõi chuyển động của nhân vật chính một cách tự nhiên.
+
+### Camera B: Camera góc thấp từ phía dưới chéo
+Bắt trọn nhân vật chính từ vị trí thấp phía trước sân khấu, nhìn chéo lên. Nhấn mạnh vào điểm đặt chân, việc mở/đóng mũi chân và sự đung đưa của trang phục. Không sử dụng góc thấp cực đoan; duy trì sự dễ thương.
+
+### Camera C: Camera theo dõi từ phía trước bên phải
+Chạy song song với chuyển động ngang của nhân vật chính từ phía trước bên phải. Hiển thị sự phối hợp của khuôn mặt, vai, eo và cánh tay. Nhân vật chính quay ánh nhìn về phía ống kính một lần trong khi di chuyển.
+
+### Camera D: Camera từ trên cao nhìn xuống
+Hiển thị hình dạng sàn, quỹ đạo chân và hiệu ứng giấy trong một bố cục hình tròn. Sử dụng ngắn gọn như một điểm nhấn nhịp điệu thay vì trong thời gian dài.
+
+### Camera E: Camera cận cảnh khuôn mặt và phần thân trên
+Hiển thị những thay đổi trong biểu cảm, vỗ tay và chuyển động nghiêng đầu. Không phải là cận cảnh tĩnh của khuôn mặt; trượt nhẹ sang bên theo chuyển động của nhân vật chính.
+
+## Chỉ đạo góc máy
+Không sử dụng các hiệu ứng glitch hoặc đèn flash chói lóa để chuyển cảnh. Sử dụng các chuyển đổi tự nhiên sau:
+* Cắt tại thời điểm cánh tay của nhân vật chính băng qua màn hình
+* Cắt tại thời điểm băng dính giấy đi qua phía trước màn hình
+* Thay đổi góc độ tại thời điểm chân đặt xuống sàn
+* Kết nối các hướng theo các cú xoay của nhân vật chính
+* Sử dụng match cut tận dụng các vòm phông nền
+Ngay cả khi các đoạn cắt thay đổi, hãy kết nối chính xác cánh tay, chân, hướng cơ thể và vị trí di chuyển của nhân vật chính. Đảm bảo cùng một hành động không bị tua lại giữa chừng hoặc đột ngột trở thành một tư thế khác.
+
+## Dòng thời gian 6 giây
+### 0,0–0,7 giây
+**Camera E: Cận cảnh khuôn mặt và phần thân trên.** Nhân vật chính đã bắt nhịp ngay từ đầu. Nảy cả hai vai luân phiên trong khi nhanh chóng mở cả hai tay bên cạnh khuôn mặt. Thay đổi từ đôi mắt mở to nhẹ (như thể ngạc nhiên) sang nụ cười vui vẻ. Khoảng 0,2 giây, các vòm giấy nền nổi lên cùng một lúc. Các mảnh giấy hình ngôi sao nhỏ bật ra từ cả hai bên khuôn mặt. Camera lùi lại một chút để chuyển sang cảnh toàn thân tiếp theo.
+
+### 0,7–1,6 giây
+**Camera A: Toàn cảnh phía trước.** Nhân vật chính di chuyển hai bước nhỏ sang phải. Mở cả hai tay ra ngoài ở bước đầu tiên và vỗ tay trước ngực ở bước thứ hai. Tại thời điểm vỗ tay, một hiệu ứng giấy hình tròn bật ra từ dưới chân. Sử dụng đầu gối và mũi chân nhẹ nhàng để toàn bộ cơ thể trông như đang nảy lên.
+
+### 1,6–2,0 giây
+**Camera B: Cắt cảnh góc thấp ngắn.** Bắt trọn khoảnh khắc nhân vật chính đặt chân phải xuống sàn và hướng mũi chân trái ra ngoài. Các hình tam giác và đường zigzag bật ra từ sàn khi đặt chân xuống. Tóc và gấu trang phục đung đưa với độ trễ nhẹ. Cánh tay của nhân vật chính băng qua phía trước màn hình ở cuối đoạn cắt.
+
+### 2,0–3,0 giây
+**Camera C: Theo dõi từ phía trước bên phải.** Nhân vật chính thực hiện nửa đầu của 'Pata-Pata Step' trong khi quay trở lại bên trái. Mở cả hai tay ở độ cao ngang vai và búng cổ tay vào và ra hai lần. Đồng thời mở mũi chân theo thứ tự bên phải, sau đó bên trái. Nhìn theo hướng di chuyển lúc đầu, sau đó gửi ánh nhìn về phía camera ở lần búng cổ tay cuối cùng. Băng dính giấy nền vẫy theo chuyển động của nhân vật chính.
+
+### 3,0–3,4 giây
+**Camera D: Cắt cảnh từ trên cao xuống ngắn.** Nhân vật chính bắt chéo cả hai tay trước ngực và đưa cả hai chân vào giữa. Các hình tròn và ngôi sao vẽ trên sàn xoay một vòng quanh nhân vật chính. Hoa giấy lan ra ngoài nhưng biến mất nhanh chóng để làm sạch màn hình.
+
+### 3,4–4,5 giây
+**Camera A: Toàn cảnh phía trước.** Nhân vật chính mở rộng cả hai tay đang bắt chéo theo đường chéo hướng lên trên, hoàn thành 'Pata-Pata Step'. Liên tục nảy vai hai lần và thực hiện các bước nhỏ theo thứ tự chân phải, sau đó chân trái. Những đám mây nền và đèn hình ngôi sao di chuyển lên xuống luân phiên đồng bộ với các chuyển động. Camera từ từ tiến lại gần nhân vật chính.
+
+### 4,5–5,1 giây
+**Cắt liên tục từ Camera B sang Camera C sử dụng một cú xoay.** Bắt đầu một chuyển động xoay nửa vòng nhỏ từ góc thấp. Chuyển sang camera theo dõi phía trước bên phải giữa chừng cú xoay để kết nối chuyển động một cách liền mạch. Sau khi hoàn thành cú xoay, nhân vật chính nhấc một chân nhẹ nhàng và mở cả hai tay theo đường chéo. Tóc, trang phục và băng dính giấy dừng lại với độ trễ nhẹ đồng bộ với nốt nhạc cuối cùng của bài hát.
+
+### 5,1–6,0 giây
+**Camera E: Cận cảnh năng động.** Nhân vật chính hạ chân đã nhấc xuống trong khi đưa cả hai tay trở lại độ cao ngang vai. Nghiêng nhẹ đầu sang phía đối diện và mỉm cười vui vẻ. Không phải là cái nháy mắt, mà là một nụ cười tươi sáng trong khi nhìn vào camera bằng cả hai mắt. Các hiệu ứng giấy xung quanh được cất đi như thể đang được gấp lại vào trang sách. Kết thúc bằng cách quay trở lại tư thế bắt đầu với hai tay ở độ cao ngang vai. Kết thúc ngay trước khi vai bước vào nhịp tiếp theo; vòng lặp sẽ kết nối tự nhiên với chuyển động vai ở phần đầu.
+
+## Diễn xuất biểu cảm khuôn mặt
+Không giữ biểu cảm tĩnh ngay cả trong thời gian ngắn.
+* Bắt đầu: Đôi mắt hơi ngạc nhiên
+* Nửa đầu: Nụ cười vui vẻ
+* Quay ánh nhìn về camera: Biểu cảm hơi tinh nghịch
+* Động tác đặc trưng: Nụ cười tự tin
+* Kết thúc: Nụ cười thân thiện và tươi sáng
+Tránh các khuôn mặt hài hước quá mức hoặc các biểu cảm khiến các đường nét khuôn mặt biến dạng đáng kể.
+
+## Chỉ đạo tập trung vào tính lan truyền (Virality)
+* Cả nhân vật và nền đều di chuyển đồng thời ngay từ đầu
+* Bao gồm các thay đổi biểu cảm trong vòng 0,3 giây
+* Tạo đặc điểm riêng biệt cho các chuyển động chân cũng như chuyển động tay
+* Chèn các đoạn cắt ngắn đồng bộ với nhịp điệu
+* Đặt trọng tâm của vũ đạo vào khoảng mốc 2-3 giây
+* Khớp tư thế cuối cùng với tư thế chuẩn bị bắt đầu
+* Tạo hình bóng trông dễ thương ngay cả khi tạm dừng
+* Sử dụng bố cục mà các chuyển động khuôn mặt, tay và chân có thể phân biệt được ngay cả trên màn hình nhỏ
+* Không tăng quá nhiều thông tin; tập trung sự chú ý vào nhân vật chính
+
+## Ràng buộc
+* Không có bất kỳ người nào khác ngoài nhân vật chính
+* Duy trì nhân vật từ hình ảnh tham chiếu trong tất cả các cảnh cắt
+* Không thay đổi khuôn mặt, kiểu tóc, màu tóc, mắt, vóc dáng, tỷ lệ đầu so với cơ thể hoặc độ tuổi cảm nhận
+* Không thay đổi hoặc làm mất trang phục, giày hoặc phụ kiện
+* Không cho phép thay đổi nhân vật trong khi chuyển góc máy
+* Phân biệt rõ ràng việc sử dụng 5 camera
+* Giữ các hành động và vị trí liên tục ngay cả khi chuyển đổi camera
+* Không cắt mất chân quá nhiều khỏi màn hình
+* Không bao gồm các cú xoay tốc độ cao không tự nhiên hoặc nhảy lớn
+* Không làm biến dạng số lượng chi hoặc khớp
+* Không sử dụng rung lắc camera quá mức, nhòe chuyển động hoặc biến dạng mắt cá
+* Không sử dụng các vụ nổ, khói, lửa hoặc sét kiểu live-action
+* Không sử dụng glitch, chia màn hình hoặc đèn nhấp nháy
+* Không hiển thị văn bản, phụ đề, lời bài hát, logo, UI hoặc hình mờ
+* Không tái tạo các bài hát hiện có hoặc vũ đạo hiện có
+
+## Đầu ra lý tưởng
+Thiết lập một điểm nhấn mở đầu mạnh mẽ, bước chân nhẹ nhàng, một động tác đặc trưng đáng nhớ, thay đổi góc nhìn chi tiết với 5 camera, đồng bộ hóa với âm nhạc và một vòng lặp tự nhiên trong thời gian ngắn 6 giây. Tạo ra một video nhảy hoạt hình dễ thương, nhịp độ nhanh, chuyên biệt để lan truyền, khiến người xem muốn phát lại và bắt chước 'Pata-Pata Step' theo nhạc.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078850697823657984/img/OdpWpBDKkYAJEsE0.jpg" width="600" alt="Video nhảy Anime theo phong cách sách Pop-up">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7574)**
+
+**Author:** [クリラボ｜Curious Creator Lab｜AIクリエイター](https://x.com/CCL_2026) | **Source:** [Link](https://x.com/CCL_2026/status/2078851334653325546) | **Published:** Jul 19, 2026
+
+---
+### Phù thủy phép thuật trên cỗ xe hoa
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một video prompt đầy kỳ ảo mô tả một cô phù thủy nhỏ đáng yêu du hành từ mặt trăng trên một cỗ xe hoa, với các hiệu ứng chuyển cảnh cận cảnh và âm hưởng nhạc giao hưởng.
+
+#### 📝 Prompt
+
+```
+Tôi đã trở thành một cô phù thủy nhỏ đáng yêu đầy bí ẩn. Được bao quanh bởi những trái tim của tình yêu, ước mơ, hy vọng, ánh sáng, sự tự do và hạnh phúc, cùng với kim cương và hoa, tôi cưỡi trên một cỗ xe làm từ hoa và vàng, đến từ Canada trên mặt trăng, bay lượn trên bầu trời một cách uyển chuyển, tiến dần về phía trước để thực hiện cú cận cảnh khuôn mặt cuối cùng, hòa cùng giai điệu dàn nhạc giao hưởng ngọt ngào và hùng tráng.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078820433366073345/img/LrmYgNjI2U0D_L-Y.jpg" width="600" alt="Phù thủy phép thuật trên cỗ xe hoa">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7576)**
+
+**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2078820469294375037) | **Published:** Jul 19, 2026
+
+---
+### Tiệc sinh nhật tôm âm nhạc
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt đầy thú vị với hình ảnh những chú tôm hoạt hình đang tổ chức sinh nhật trên bãi biển, trong đó có một chú tôm đang hát và những chú tôm khác đang chơi đàn piano.
+
+#### 📝 Prompt
+
+```
+Chú tôm dẫn đầu hát một cách vui vẻ với khuôn miệng cử động rõ ràng, như thể đang hát bài Chúc mừng sinh nhật gửi đến ông Teng, những chú tôm khác cùng nhau chơi các phím đàn piano theo nhịp điệu, lắc lư và ăn mừng trên bãi biển đầy nắng, phía sau là những con sóng nhẹ nhàng, một bữa tiệc sinh nhật vui vẻ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078770217656926208/img/oaG6sA7_hTIr5SR3.jpg" width="600" alt="Tiệc sinh nhật tôm âm nhạc">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7570)**
+
+**Author:** [Cinemonroll](https://x.com/cinemonroll7) | **Source:** [Link](https://x.com/cinemonroll7/status/2078770241065406655) | **Published:** Jul 19, 2026
+
+---
+### Video biểu diễn ca hát
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh hướng dẫn AI tạo hoạt ảnh cho nhân vật đang hát lời bài hát cụ thể với cảm xúc chân thực.
+
+#### 📝 Prompt
+
+```
+Hãy tưởng tượng cô ấy đang hát phần đầu của bài Hearts Content: “Maybe you thought I hung the moon Maybe you thought we were Jimmy and June. Maybe you thought it was just us two, maybe we spoke too soon.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078719547461230592/img/G81RRdH4FTklzS3j.jpg" width="600" alt="Video biểu diễn ca hát">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7568)**
+
+**Author:** [Doc Toadlips](https://x.com/DToadlips) | **Source:** [Link](https://x.com/DToadlips/status/2078719563235995784) | **Published:** Jul 19, 2026
+
+---
+### Các câu lệnh tạo hình ảnh điện ảnh cho phát sóng trận đấu bóng đá
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bộ câu lệnh chuyên nghiệp dành cho Grok Imagine để tạo hình ảnh phát sóng bóng đá, bao gồm cảnh quay sân vận động từ trên cao và các tình huống cụ thể trong trận đấu như phạt đền và đá phạt trực tiếp.
+
+#### 📝 Prompt
+
+```
+stadium flyover – sân vận động 80.000 chỗ ngồi, argentina đấu với tây ban nha, một cú máy quay từ trên cao xoay vòng hạ thấp liên tục, tifo + pháo sáng, ánh sáng giao thoa giữa giờ vàng và đèn pha
+
+penalty – lamine yamal (tây ban nha số 19) đối đầu với emiliano martínez (thủ môn argentina): đà chạy, cú sút, pha bay người hết cỡ, bóng vào lưới. khuôn mặt chân thực thông qua hình ảnh tham chiếu
+
+free kick – messi ở khoảng cách 25m, hàng rào 5 người, cú sút xoáy vòng qua hàng rào vào góc cao khung thành. hàng rào phải đối mặt với bóng với hai tay ép sát người, giống như hàng rào thực tế
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078586357488709632/img/7Rg5Aik0KFhlWel5.jpg" width="600" alt="Các câu lệnh tạo hình ảnh điện ảnh cho phát sóng trận đấu bóng đá">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7573)**
+
+**Author:** [thehype.](https://x.com/thehypedotnews) | **Source:** [Link](https://x.com/thehypedotnews/status/2078586716445655145) | **Published:** Jul 18, 2026
+
+---
 ### Video chú mèo xám yêu nước đang hát
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -244,6 +605,25 @@ Chân dung cận cảnh cực độ của một người phụ nữ yêu tinh v�
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7522)**
 
 **Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2078540320497619021) | **Published:** Jul 18, 2026
+
+---
+### Cô thỏ vũ công ballet trong bộ ren đen
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video tinh tế về cô thỏ vũ công ballet diện trang phục ren đen và lông vũ, uyển chuyển di chuyển giữa những đóa hoa lấp lánh.
+
+#### 📝 Prompt
+
+```
+Một cô thỏ vũ công ballet khoác lên mình bộ ren đen và lông vũ, nhẹ nhàng di chuyển giữa những đóa hoa lấp lánh đầy tinh tế.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078459688677699584/img/ALSZoPWS1WcZGCCv.jpg" width="600" alt="Cô thỏ vũ công ballet trong bộ ren đen">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7572)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2078459756415791449) | **Published:** Jul 18, 2026
 
 ---
 ### Prompt chụp ảnh selfie cho người hâm mộ Tottenham Hotspur
@@ -1959,199 +2339,6 @@ Một nữ chiến binh Viking với mái tóc trắng tết bím đang bước 
 **Author:** [Rebecca Clark](https://x.com/clark_rebe76017) | **Source:** [Link](https://x.com/clark_rebe76017/status/2076056974483915213) | **Published:** Jul 11, 2026
 
 ---
-### Diễu binh quân sự phong cách Gothic điện ảnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video điện ảnh hoành tráng về buổi diễu binh quân sự với kiến trúc Gothic, các ban nhạc diễu hành và bầu trời giông bão.
-
-#### 📝 Prompt
-
-```
-một buổi diễu binh quân sự điện ảnh quy mô lớn, với kiến trúc Gothic, các ban nhạc diễu hành, xe tăng, đám đông, máy bay và bầu trời giông bão
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076055202583511042/img/a_HcgX78ZEZVwe7T.jpg" width="600" alt="Diễu binh quân sự phong cách Gothic điện ảnh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7129)**
-
-**Author:** [Tianjin 💫](https://x.com/TianjinXiin) | **Source:** [Link](https://x.com/TianjinXiin/status/2076055651646624251) | **Published:** Jul 11, 2026
-
----
-### Mandala Hoa Lan Treo Arborpunk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video nghệ thuật phức tạp kết hợp giữa kỹ nghệ thủ công Bali với những đường nét hữu cơ lấy cảm hứng từ Mucha trong một bố cục mandala hình tròn.
-
-#### 📝 Prompt
-
-```
-Đài quan sát Hoa Lan Treo Arborpunk nghệ thuật được tái hiện dưới dạng một bố cục mandala hình tròn hoành tráng, với tâm điểm là một đóa hoa sen thiêng tỏa sáng. Tác phẩm được thổi hồn bởi kỹ nghệ thủ công nhiệt đới Bali và những đường nét hữu cơ uyển chuyển lấy cảm hứng từ Alphonse Mucha.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076033338314518528/img/8uNA4q9A5ERPiyjD.jpg" width="600" alt="Mandala Hoa Lan Treo Arborpunk">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7115)**
-
-**Author:** [Carina](https://x.com/Freehere8) | **Source:** [Link](https://x.com/Freehere8/status/2076033394631422235) | **Published:** Jul 11, 2026
-
----
-### Trải nghiệm chơi game FPS Call of Duty
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) cực kỳ chi tiết để tạo các video gameplay bắn súng góc nhìn thứ nhất chân thực theo phong cách Modern Warfare, với các pha di chuyển chiến thuật qua một con phố đô thị đầy sương mù vào ban đêm.
-
-#### 📝 Prompt
-
-```
-Góc nhìn thứ nhất siêu chân thực theo phong cách Call of Duty Modern Warfare, người chơi cầm súng trường M4A1 với kính ngắm chấm đỏ, nhắm vào một con phố đô thị tối tăm vào ban đêm, trang bị quân sự thực tế, ánh sáng ấn tượng, sương mù thể tích, kết cấu chi tiết cao, thước phim gameplay đậm chất điện ảnh --ar 16:9 --stylize 50 Trải nghiệm chơi game bắn súng góc nhìn thứ nhất chân thực theo phong cách Call of Duty Modern Warfare: Người chơi cầm súng trường M4A1 với kính ngắm chấm đỏ, từ từ di chuyển về phía trước qua con phố tối tăm đầy sương mù trong khi đang nhắm mục tiêu. Độ rung của vũ khí, nhịp thở và tiếng bước chân chân thực tinh tế. Camera tiến về phía trước chậm rãi với chuyển động đầu tự nhiên, quét môi trường xung quanh, sương mù thể tích, ánh đèn đỏ và đèn đường ở phía xa, chuyển động và bầu không khí chân thực với độ chi tiết cao --ar 16:9 --motion 4
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076020512023605248/img/TEjjbB8IXpHrtrXq.jpg" width="600" alt="Trải nghiệm chơi game FPS Call of Duty">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7118)**
-
-**Author:** [ⁱᵃᵐ|᠘𝘶𝗸ค𐍃🇩🇪💙](https://x.com/LukasK92) | **Source:** [Link](https://x.com/LukasK92/status/2076020574438990207) | **Published:** Jul 11, 2026
-
----
-### Vuốt ve bụng chó French Bulldog
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một lời nhắc đầy thú vị cho video về một cô chó French Bulldog tên là Luna đang phản ứng đầy vui vẻ khi được vuốt ve bụng, bao gồm các lời thoại cụ thể và những hành động âu yếm.
-
-#### 📝 Prompt
-
-```
-Cô chó Luna thuộc giống ‘French bulldog’ đang được chị gái vuốt ve bụng. Luna nói: “Vuốt ve bụng từ chị gái đúng là thiên đường trên mặt đất, em yêu chị”. Luna quẫy đuôi và liếm liên tục vào tay chị gái.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075963834242613248/img/dI7eS9l4Pmi2M7Yu.jpg" width="600" alt="Vuốt ve bụng chó French Bulldog">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7119)**
-
-**Author:** [Brenda (Peanci) Helton](https://x.com/BrendaDHel6581) | **Source:** [Link](https://x.com/BrendaDHel6581/status/2075963908611785148) | **Published:** Jul 11, 2026
-
----
-### Tranh phong cách Rococo vẽ các thiếu niên
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video cách điệu giúp tạo ra tác phẩm mang tính thẩm mỹ của hội họa Rococo, với hình ảnh hai anh em thiếu niên bên hồ nước trong rừng.
-
-#### 📝 Prompt
-
-```
-Một bức tranh phong cách Rococo vẽ hai thiếu niên đang đứng bên hồ sau khi bơi trong rừng, hai anh em đang ôm nhau đầy tình cảm.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075933202628382720/img/XaDF72k4IAzF39Y-.jpg" width="600" alt="Tranh phong cách Rococo vẽ các thiếu niên">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7123)**
-
-**Author:** [Bobby](https://x.com/AiNerdGuy) | **Source:** [Link](https://x.com/AiNerdGuy/status/2075933252972622105) | **Published:** Jul 11, 2026
-
----
-### Bài học về lòng tốt của chú gấu trúc
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý video kể chuyện minh họa bài học đạo đức về lòng tốt thông qua câu chuyện một chú gấu trúc chia sẻ tre.
-
-#### 📝 Prompt
-
-```
-Bài học: Lòng tốt luôn được đền đáp.
-Một chú gấu trúc đã chia sẻ mầm tre cuối cùng của mình với một người bạn đang đói.
-Nhiều ngày sau, các loài động vật đã giúp đỡ chú sau khi một cơn bão phá hủy ngôi nhà của chú.
-Lòng tốt sẽ lan tỏa khi chúng ta biết sẻ chia.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075864661749063680/img/ySbTF3zaFgWUMXxJ.jpg" width="600" alt="Bài học về lòng tốt của chú gấu trúc">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7125)**
-
-**Author:** [Joyce Song](https://x.com/JoyceSongccrp) | **Source:** [Link](https://x.com/JoyceSongccrp/status/2075864735807914123) | **Published:** Jul 11, 2026
-
----
-### Cảnh quay điện ảnh: Người lính La Mã chạy trốn trên núi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) điện ảnh đầy kịch tính về một người lính La Mã đang bị một con báo sư tử truy đuổi qua lớp tuyết dày trên dãy núi hùng vĩ.
-
-#### 📝 Prompt
-
-```
-Phân cảnh hành động điện ảnh dài 5 giây về một người lính La Mã trong bộ giáp chi tiết đang chạy nước rút đầy tuyệt vọng qua lớp tuyết dày trên dãy núi phủ tuyết trắng hùng vĩ. Một con báo sư tử lớn, dũng mãnh đang hung hăng truy đuổi anh ta. Chuyển động linh hoạt, tuyết bắn tung tóe dưới chân, người lính ngoái nhìn lại với vẻ hoảng sợ, con báo sư tử há miệng gầm thét, bố cục góc thấp đầy kịch tính, ánh sáng hoành tráng, chi tiết bộ lông và giáp trụ sắc nét, không khí căng thẳng, chân thực như ảnh chụp với tính nghệ thuật mạnh mẽ.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075819801612861440/img/mc33JqSewAl_OSLy.jpg" width="600" alt="Cảnh quay điện ảnh: Người lính La Mã chạy trốn trên núi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7122)**
-
-**Author:** [Raadhika 💫✨️](https://x.com/Raadhika73) | **Source:** [Link](https://x.com/Raadhika73/status/2075819856562208814) | **Published:** Jul 11, 2026
-
----
-### Hoạt hình trận chiến rap siêu thực
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một lời nhắc (prompt) đầy hỗn loạn và siêu thực về các nhân vật, bao gồm việc gieo vần, cầu thang và các nhân vật có màu sắc cụ thể trong một đoạn hoạt hình tràn đầy năng lượng.
-
-#### 📝 Prompt
-
-```
-Họ gieo vần một bài rap. Baby Bop màu trắng ngã xuống 6767 bậc cầu thang và đổ lỗi cho Barney màu xanh, con khủng long tè dầm với cái mũi hình xúc xích. Nó có màu xanh dương (). Mọi thứ trở nên điên rồ gấp 10 lần khi lên xuống cầu thang.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075793194751586304/img/anHyVxN8rHqpv3Ke.jpg" width="600" alt="Hoạt hình trận chiến rap siêu thực">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7120)**
-
-**Author:** [⬅️](https://x.com/CursedMoonRice) | **Source:** [Link](https://x.com/CursedMoonRice/status/2075793261940060544) | **Published:** Jul 11, 2026
-
----
-### Chuyến đi xe đạp phong cách Cyberpunk Neon City
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt giàu cảm xúc cho cảnh quay xe mô tô phong cách cyberpunk với ánh đèn neon và các hiệu ứng chuyển cảnh mượt mà.
-
-#### 📝 Prompt
-
-```
-mũ bảo hiểm đen nhám, đèn neon, thành phố cyberpunk, chuyển cảnh mượt mà, góc nghiêng tinh tế, lái chiếc xe này về nhà.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075768629207941120/img/JvLUDdoI0YRz4xR-.jpg" width="600" alt="Chuyến đi xe đạp phong cách Cyberpunk Neon City">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7116)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2075768940848931198) | **Published:** Jul 11, 2026
-
----
-### Mây thể tích 4K chuẩn điện ảnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh kỹ thuật tập trung vào chất lượng điện ảnh, hiệu ứng thể tích và màu sắc đổ bóng/mây cường độ cao để tạo ra video chân thực.
-
-#### 📝 Prompt
-
-```
-Chất lượng điện ảnh 4K chân thực / Kết hợp mượt mà giữa tính hiện thực / Nội suy và nâng cấp hình ảnh / Hiệu ứng thể tích / Đổ bóng mềm mại, cường độ cao hơn / Màu sắc đám mây sống động
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075756908561014784/img/0eJ59GY8fQ4jzLta.jpg" width="600" alt="Mây thể tích 4K chuẩn điện ảnh">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7117)**
-
-**Author:** [Arak Dark](https://x.com/orgunus93304) | **Source:** [Link](https://x.com/orgunus93304/status/2075756972553486681) | **Published:** Jul 11, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2213,6 +2400,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-20T07:11:14.143Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-20T11:24:35.983Z</sub>
 
 </div>

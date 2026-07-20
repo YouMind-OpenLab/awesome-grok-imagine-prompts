@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2174** |
+| 📝 Total Prompts | **2184** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-20** |
 
@@ -189,6 +189,367 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Mumlarla İyi ki Doğdun Şarkısı Söylemek
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Birinin mumları üflerken İyi ki Doğdun şarkısını söylediği bir video oluşturmak için şenlikli bir komut.
+
+#### 📝 Prompt
+
+```
+Mumları üflerken İyi ki Doğdun şarkısını söylüyorum. İyi ki doğdun, iyi ki doğdun, iyi ki doğdun sevgili herkes, iyi ki doğdun.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078946160816140288/img/fylJTyQLaDWqbX12.jpg" width="600" alt="Mumlarla İyi ki Doğdun Şarkısı Söylemek">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7575)**
+
+**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2078946208807301490) | **Published:** Jul 19, 2026
+
+---
+### Nostaljik 90'lar Yaz Sinematik Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Nostaljik 90'lar estetiğine ve akıcı geçişlere sahip, tek çekim, ultra ağır çekim bir video için kapsamlı bir komut.
+
+#### 📝 Prompt
+
+```
+Referans görselleri kullanarak kesintisiz, sürekli ve tek çekim bir video oluşturun. Tüm sekans boyunca diyalog, sert kesmeler, kararma/aydınlanma (fade-in/fade-out) geçişleri veya opaklık değişimleri olmamalıdır. Rahat bir yaz atmosferi ve nostaljik 90'lar görsel estetiği uyandırmak için görüntüleri ultra ağır çekimde sunun. Her sahneyi yalnızca akıcı kamera hareketleri kullanarak doğal bir şekilde birbirine bağlayın. Uyumlu geçiş ses efektleri ekleyin ve kesintisiz, sürekli bir sinematik ortam sesi akışını koruyun. Müzik olmasın. Görsel tutarlılığı, akıcı hareketi ve gerçekçi sinematik ışık efektlerini koruyun. Süre: 10 saniye; en boy oranı: 16:9; çözünürlük: 720p. Kamera hareketi en önemli unsurdur. Modellerin sahneler arasında geçiş yapmasını istemedim; bunun yerine, her geçişi bir nesnenin yanından geçmek, ön plandaki öğelerin yanından kaydırmak veya özneyi bir sonraki ortama kadar takip etmek gibi fiziksel bir kamera hareketi olarak tanımladım.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078919323738136577/img/HWk8HR6PkKuBgFMH.jpg" width="600" alt="Nostaljik 90'lar Yaz Sinematik Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7571)**
+
+**Author:** [Loriel.AI](https://x.com/ou_zhen599) | **Source:** [Link](https://x.com/ou_zhen599/status/2078920201085845703) | **Published:** Jul 19, 2026
+
+---
+### Surfer McTwist Kaykay Stili
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kaykay tarzında, stale fish grab hareketiyle karmaşık bir McTwist dönüşü yapan bir sörfçü için dinamik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Oldukça düzgün 💐
+
+Sörfçü, tahtayı stale fish grab ile kavrayarak şimdiye kadar görülmüş en yüksek McTwist ters dönüşünü gerçekleştirmek için mükemmel bir fırlatma rampasına hizalandı. Kaykaydan esinlenilmiştir.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078914214249304064/img/a1-WQgHtGabLSXZy.jpg" width="600" alt="Surfer McTwist Kaykay Stili">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7567)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2078914251318608302) | **Published:** Jul 19, 2026
+
+---
+### Ejderha Kanadı Kaçış Sekansı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir karakterin zehirli bir kuyudan kaçmak için ejderha kanatlarına dönüştüğü fantastik bir animasyon istemi.
+
+#### 📝 Prompt
+
+```
+Zehirli bir kuyunun pençesinden kurtulun 
+
+Bir ejderhanın 🐉 kanatlarını 🪽 çıkarıyor ve trans halinden kurtulmayı başarıyorum.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078908101114175489/img/Uo3pyJ7ypvgQhFuZ.jpg" width="600" alt="Ejderha Kanadı Kaçış Sekansı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7569)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2078908136543408297) | **Published:** Jul 19, 2026
+
+---
+### Pop-up Kitap Tarzında Anime Dans Videosu
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Karakter tutarlılığı, çoklu kamera koordinasyonu ve renkli kağıt el işi estetiğine odaklanan 6 saniyelik bir anime dans videosu için kapsamlı bir Grok Imagine istemi.
+
+#### 📝 Prompt
+
+```
+# 6 Saniyelik Pop-Up Step Dans Videosu İstemi
+Referans görseldeki karakteri tek başrol olarak kullanın. **6 saniye, 24 fps, dikey 9:16.** Yüksek kaliteli Japon tam renkli animasyonu. Tiyatro kalitesinde anime filmleri kadar rafine sanat, akıcı vücut hareketleri, zengin yüz ifadesi değişimleri ve doğal bir şekilde sallanan saçlar ve kostümler. Renkli bir pop-up resimli kitap dünyasında, başrol oyuncusu hafif bir step dansı yaparak sosyal medyada tekrar tekrar izlenmesi kolay, ultra kısa bir dans videosu oluşturur.
+
+## Temel Hedefler
+* İlk 0,3 saniyede hem hareket hem de ifadeyle izleyicileri yakalayın
+* Önceki çalışmalardan farklı, ayak oyunlarını ve ritim duygusunu kullanan bir dans yaratın
+* Sadece bir kez izlendikten sonra hatırlanabilecek imza bir hareket ekleyin
+* Videoda tempo ve akış yaratmak için detaylı kesmelerle 5 kamera kullanın
+* Sondan başa doğal bir şekilde dönen bir döngü yapısı oluşturun
+* Başrolün sevimliliğine, samimiyetine ve enerjisine öncelik verin
+* Videoyu kaydetmeye, tekrar izlemeye ve koreografiyi taklit etmeye teşvik edecek şekilde yapılandırın
+
+## Karakter Tutarlılığı
+Başrol oyuncusu, referans görseldeki karakterin ta kendisidir. Referans görselde görülen aşağıdaki özellikleri tüm kameralarda, pozlarda, ifadelerde ve karelerde koruyun:
+* Saç modeli
+* Saç rengi
+* Kahkül şekli
+* Göz rengi
+* Yüz hatları
+* Ten rengi
+* Fizik
+* Baş-vücut oranı
+* Algılanan yaş
+* Kostüm
+* Kostüm renk şeması
+* Ayakkabılar
+* Aksesuarlar
+* Genel atmosfer
+Kameralar değiştiğinde bile yüzleri veya fizikleri değiştirmeyin. Karakter değişikliğine, kostüm değişikliğine, saç modeli değişikliğine veya aksesuarların kaybolmasına izin vermeyin. Parmakları doğal şekillerde tutun ve sağ ve sol uzuvları doğru şekilde tasvir edin.
+
+## Ortam
+Ortam, dev bir pop-up resimli kitabın içinde yaratılmış minyatür bir dans sahnesidir. Açık bir sayfa gibi görünen 3D bir zemine şu dekorasyonları yerleştirin:
+* Kağıttan yapılmış bulutlar
+* Küçük yıldız şeklinde ışıklar
+* Renkli yapı blokları
+* Kemerli bir arka plan
+* Yuvarlak sahne ışıkları
+* Konfeti gibi küçük şekiller
+Arka plan renkleri krem, mercan pembesi, gök mavisi, limon sarısı ve lavanta tonlarında olmalıdır. Arka plana üç boyutluluk hissi verin ancak başrol oyuncusundan daha fazla öne çıkmasına izin vermeyin. Başrol oyuncusu dışında herhangi bir kişi, dansçı, izleyici veya hayvan yer almasın.
+
+## Müzik
+**Tamamen özgün Japonca vokal parçası.** Mevcut şarkılara, anime şarkılarına, popüler hitlere veya çocuk şarkılarına benzetmeyin. Parlak ve sevimli, tempolu J-POP/anime-pop tarzı. Kısa bir giriş eklemeyin; vokalleri, ritmi ve melodiyi 0. saniyeden itibaren aynı anda başlatın. Müzikte şu sesleri kullanın:
+* Hafif davullar
+* Parlak synthesizer'lar
+* Küçük el çırpmaları
+* Zil benzeri yüksek notalar
+* Hareketli bas
+* 'Pon', 'pah' ve 'kira' gibi hissettiren sevimli vurgu sesleri
+Koreografiyi, kamera geçişlerini ve arka plan hareketini ritimle senkronize edin. Şarkı yaklaşık 5 saniye uzunluğunda olmalı, vokaller ve melodi 5,0 ile 5,3 saniye civarında doğal bir şekilde bitmelidir. Son 0,7 saniye için, sadece kısa bir tını ve döngüye giren ses efektleri bırakın. Metin, altyazı veya şarkı sözü görüntülemeyin.
+
+## Video Konsepti
+Başrol oyuncusu küçük bir sahnede sağa sola hareket ederek, hareketli adımları ve el çırpmaları birleştiren parlak ve sevimli bir dans sergiler. Sadece üst vücudu değil, tüm vücut hareketlerini net bir şekilde gösterin:
+* Ayak parmaklarını sağa ve sola açan adımlar
+* Küçük yanal hareketler
+* Dizleri içeri doğru büken hareketler
+* Omuzların ritmik yukarı-aşağı hareketi
+* Hafif dönüşler
+* Zamanlamayla senkronize el çırpmaları
+* Finalde tek ayak üzerinde denge pozu
+Yoğun akrobasi veya büyük zıplamalar kullanmayın. Koreografiyi herkesin taklit edebileceği ve ses kaynağıyla birlikte dans etmek isteyeceği şekilde kolaylaştırın.
+
+## İmza Hareket
+Bu video için benzersiz imza hareket olarak 'Pata-Pata Step'i kullanın.
+1. Her iki eli omuz hizasında dışa doğru açın.
+2. Bilekleri hızlıca iki kez içe ve dışa doğru bükün.
+3. Aynı anda ayak parmaklarını önce sağ, sonra sol sırasıyla açın.
+4. Her iki eli göğüs önünde bir kez çaprazlayın.
+5. Çapraz elleri çapraz yukarı doğru kuvvetlice açın.
+6. Bir bacağı hafifçe kaldırın, başı eğin ve gülümseyerek donun.
+El ve ayak hareketlerini aynı ritimle gerçekleştirerek, sadece silüetiyle bile hatırlanabilecek bir koreografi oluşturun. Koreografiyi kalpler, işaret etme, yanakta zafer işareti veya öpücük gönderme etrafında merkezlemeyin.
+
+## Pop-Up Efektleri
+Önceki çalışmanın pastel boya tarzı efektlerinin aksine, üst üste binmiş kağıt kesikleri gibi görünen 3D bir kağıt el işi ifadesi kullanın. Kullanılacak motifler:
+* Küçük üçgenler
+* Renkli daireler
+* Kağıt bant
+* Zikzak çizgiler
+* Minyatür bulutlar
+* Yıldız şeklinde kağıt parçaları
+* Yarım daire kemerler
+* Yay benzeri çizgiler
+* Küçük konfetiler
+* Dalgalı şerit benzeri kağıtlar
+Efektler sahne zemininden veya arka plandan fırlıyormuş gibi görünmelidir. Şu hareketleri kullanın:
+* Sayfadan yükselme
+* Katlanmış kağıdın açılması
+* Yay gibi bir kez zıplama
+* Hafifçe sağa sola sallanma
+* Konfeti gibi dağılma
+* Sayfanın içine geri çekilme
+Başrol oyuncusunun yüzü veya vücuduyla çok fazla örtüşmeyin. Bunları hareket yönünü, ayak basışlarını ve el çırpma anlarını güçlendirmek için kullanın.
+
+## 5 Kamera Yapılandırması
+5 kamera kullanın, ancak bunları sadece her saniye değiştirmeyin. Daha uzun bir ana çekimin ortasına 0,2 ila 0,5 saniyelik kısa kesmeler ekleyerek perspektifleri ritme göre değiştirin.
+
+### Kamera A: Ön Geniş Açı Kamera
+Başrol oyuncusunun tüm vücudunu ve tüm sahneyi gösteren ana kamera. Koreografinin, ayak oyunlarının ve yanal hareketin net olduğu bir açı. Başrol oyuncusunun hareketini doğal bir şekilde takip etmek için hafifçe ileri geri dolly yapın.
+
+### Kamera B: Çapraz Aşağıdan Düşük Açı Kamera
+Başrol oyuncusunu sahnenin önündeki düşük bir konumdan, çapraz yukarı bakacak şekilde yakalayın. Ayak basışlarını, ayak parmaklarının açılıp kapanmasını ve kostümün sallanmasını vurgulayın. Aşırı düşük açı kullanmayın; sevimliliği koruyun.
+
+### Kamera C: Sağ-Ön Takip Kamerası
+Ön sağdan yanal hareketle paralel ilerleyin. Yüz, omuz, bel ve kol koordinasyonunu gösterin. Başrol oyuncusu hareket sırasında bakışlarını bir kez lense geri çevirir.
+
+### Kamera D: Doğrudan Yukarıdan Tepe Kamerası
+Zemin şekillerini, ayak yörüngelerini ve kağıt efektlerini dairesel bir kompozisyonda gösterin. Uzun süreler yerine ritim vurgusu olarak kısaca kullanın.
+
+### Kamera E: Yüz ve Üst Vücut Yakın Çekim Kamerası
+İfade değişimlerini, el çırpmalarını ve baş eğme hareketlerini gösterin. Yüzün sabit bir yakın çekimi değil; başrol oyuncusunun hareketini takip ederek hafifçe yana kaydırın.
+
+## Kamera Yönetimi
+Kamera geçişleri için gösterişli parlamalar veya flaşlar kullanmayın. Şu doğal geçişleri kullanın:
+* Başrol oyuncusunun kolu ekranı kestiği anda kesme yapın
+* Kağıt bant ekranın önünden geçtiği anda kesme yapın
+* Bir ayak zemine bastığı anda açıyı değiştirin
+* Yönleri başrol oyuncusunun dönüşlerine göre bağlayın
+* Arka plan kemerlerini kullanan eşleşen kesmeler (match cuts) kullanın
+Kesmeler değişse bile başrol oyuncusunun kollarını, bacaklarını, vücut yönünü ve hareket konumunu doğru bir şekilde bağlayın. Aynı eylemin yarı yolda geri sarılmadığından veya aniden farklı bir poza dönüşmediğinden emin olun.
+
+## 6 Saniyelik Zaman Çizelgesi
+### 0,0–0,7 saniye
+**Kamera E: Yüz ve üst vücut yakın çekimi.** Başrol oyuncusu başlangıçta zaten ritimdedir. Her iki eli yüzün yanında hızla açarken omuzları dönüşümlü olarak zıplatın. Hafifçe açılmış gözlerden (şaşırmış gibi) neşeli bir gülümsemeye geçin. 0,2 saniye civarında arka plan kağıt kemerleri aynı anda yükselir. Yüzün her iki yanından küçük yıldız şeklinde kağıt parçaları fırlar. Kamera, bir sonraki tam vücut çekimine geçmek için kısaca geri çekilir.
+
+### 0,7–1,6 saniye
+**Kamera A: Ön geniş açı.** Başrol oyuncusu sağa doğru iki küçük adım atar. İlk adımda her iki eli dışa doğru açın ve ikinci adımda göğüs önünde çırpın. Çırpma anında, ayakların altından dairesel bir kağıt efekti açılır. Tüm vücudun zıplıyor gibi görünmesi için dizleri ve ayak parmaklarını yumuşak kullanın.
+
+### 1,6–2,0 saniye
+**Kamera B: Kısa düşük açılı kesme.** Başrol oyuncusunun sağ ayağını zemine bastığı ve sol ayak parmağını dışa doğru işaret ettiği anı yakalayın. İniş sırasında zeminden üçgenler ve zikzak çizgiler fırlar. Saç ve kostüm etekleri hafif bir gecikmeyle sallanır. Kesmenin sonunda başrol oyuncusunun eli ekranın önünden geçer.
+
+### 2,0–3,0 saniye
+**Kamera C: Sağ önden takip.** Başrol oyuncusu sola dönerken 'Pata-Pata Step'in ilk yarısını gerçekleştirir. Her iki eli omuz hizasında açın ve bilekleri iki kez içe ve dışa bükün. Aynı anda ayak parmaklarını önce sağ, sonra sol sırasıyla açın. İlk başta hareket yönüne bakın, ardından son bilek büküşünde kameraya bir bakış atın. Arka plan kağıt bandı, başrol oyuncusunun hareketine göre dalgalanır.
+
+### 3,0–3,4 saniye
+**Kamera D: Kısa yukarıdan kesme.** Başrol oyuncusu her iki eli göğüs önünde çaprazlar ve her iki ayağı merkezde birleştirir. Zemine çizilmiş daireler ve yıldızlar başrol oyuncusunun etrafında bir kez döner. Konfetiler dışarı doğru yayılır ancak ekranı temizlemek için hızla kaybolur.
+
+### 3,4–4,5 saniye
+**Kamera A: Ön geniş açı.** Başrol oyuncusu çapraz ellerini çapraz yukarı doğru genişçe açarak 'Pata-Pata Step'i tamamlar. Omuzları sürekli iki kez zıplatın ve önce sağ ayak, sonra sol ayak sırasıyla küçük adımlar atın. Arka plan bulutları ve yıldız şeklindeki ışıklar, hareketlerle senkronize olarak yukarı aşağı hareket eder. Kamera yavaşça başrol oyuncusuna yaklaşır.
+
+### 4,5–5,1 saniye
+**Kamera B'den Kamera C'ye dönüş kullanarak sürekli kesme.** Düşük açıdan küçük bir yarım dönüş hareketine başlayın. Hareketi sorunsuz bir şekilde bağlamak için dönüşün ortasında sağ-ön takip kamerasına geçin. Dönüşü tamamladıktan sonra, başrol oyuncusu bir bacağını hafifçe kaldırır ve her iki kolunu çapraz açar. Saç, kostüm ve kağıt bant, şarkının son notasıyla senkronize olarak hafif bir gecikmeyle durur.
+
+### 5,1–6,0 saniye
+**Kamera E: Dinamik yakın çekim.** Başrol oyuncusu kaldırılan bacağını indirirken her iki elini omuz hizasına geri getirir. Başı hafifçe karşı tarafa eğin ve neşeyle gülümseyin. Tek gözü kapatan bir göz kırpma değil, her iki gözle kameraya bakarken parlak bir kahkaha. Çevredeki kağıt efektleri, sayfaya geri katlanıyormuş gibi kaldırılır. Elleri omuz hizasında olacak şekilde aynı başlangıç duruşuna dönerek bitirin. Omuzlar bir sonraki ritme girmeden hemen önce bitirin; döngü başlangıçtaki omuz hareketine doğal bir şekilde bağlanacaktır.
+
+## Yüz İfadesi Oyunculuğu
+Kısa süre içinde bile ifadeleri sabit tutmayın.
+* Başlangıç: Hafif şaşkın gözler
+* İlk yarı: Neşeli gülümseme
+* Kameraya bakış dönüşü: Hafif yaramaz bir ifade
+* İmza hareket: Kendinden emin gülümseme
+* Son: Samimi ve parlak gülümseme
+Aşırı komik yüzlerden veya yüz hatlarının büyük ölçüde bozulduğu ifadelerden kaçının.
+
+## Viral Odaklı Yönetim
+* Hem karakterler hem de arka plan baştan itibaren aynı anda hareket eder
+* 0,3 saniye içinde ifade değişimleri ekleyin
+* El hareketleri kadar ayak hareketlerine de belirgin özellikler verin
+* Ritimle senkronize kısa kesmeler ekleyin
+* Koreografinin merkezini 2-3 saniye işaretine yerleştirin
+* Final pozunu başlangıç hazırlık duruşuyla eşleştirin
+* Duraklatıldığında bile sevimli görünen bir silüet oluşturun
+* Yüz, el ve ayak hareketlerinin küçük ekranlarda bile ayırt edilebildiği kompozisyonlar kullanın
+* Bilgiyi çok fazla artırmayın; dikkati başrol oyuncusuna odaklayın
+
+## Kısıtlamalar
+* Başrol oyuncusu dışında herhangi bir kişi yer almasın
+* Referans görseldeki karakteri tüm kesmelerde koruyun
+* Yüzü, saç modelini, saç rengini, gözleri, fiziği, baş-vücut oranını veya algılanan yaşı değiştirmeyin
+* Kostümleri, ayakkabıları veya aksesuarları değiştirmeyin veya kaybetmeyin
+* Kamera geçişleri sırasında karakter değişikliğine izin vermeyin
+* 5 kameranın kullanımını net bir şekilde farklılaştırın
+* Kameraları değiştirirken bile eylemleri ve konumları sürekli tutun
+* Ayakları ekrandan çok fazla kesmeyin
+* Doğal olmayan yüksek hızlı dönüşler veya büyük zıplamalar eklemeyin
+* Uzuv veya eklem sayısını bozmayın
+* Aşırı kamera sarsıntısı, hareket bulanıklığı veya balıkgözü bozulması kullanmayın
+* Canlı aksiyon tarzı patlamalar, duman, ateş veya şimşek kullanmayın
+* Hata (glitch), ekran bölünmeleri veya flaş ışıkları kullanmayın
+* Metin, altyazı, şarkı sözü, logo, kullanıcı arayüzü veya filigran görüntülemeyin
+* Mevcut şarkıları veya mevcut koreografileri yeniden üretmeyin
+
+## İdeal Çıktı
+Güçlü bir açılış kancası, hafif ayak oyunları, akılda kalıcı bir imza hareket, 5 kamera ile detaylı perspektif değişimleri, müzikle senkronizasyon ve 6 saniyelik kısa süre içinde doğal bir döngü oluşturun. İzleyicilerin tekrar izlemek ve müzikle birlikte 'Pata-Pata Step'i taklit etmek isteyeceği, sevimli, tempolu, viral odaklı bir animasyonlu dans videosu yaratın.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078850697823657984/img/OdpWpBDKkYAJEsE0.jpg" width="600" alt="Pop-up Kitap Tarzında Anime Dans Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7574)**
+
+**Author:** [クリラボ｜Curious Creator Lab｜AIクリエイター](https://x.com/CCL_2026) | **Source:** [Link](https://x.com/CCL_2026/status/2078851334653325546) | **Published:** Jul 19, 2026
+
+---
+### Çiçekli Arabada Büyülü Cadı
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ay'dan çiçekli bir arabayla seyahat eden sevimli bir cadıyı tasvir eden, yakın plan geçişler ve orkestral temalar içeren fantastik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Gizemli ve sevimli bir cadıya dönüştüm. Aşk, hayaller, umut, ışık, özgürlük ve mutluluk kalpleriyle, elmaslar ve çiçeklerle çevrili bir şekilde, çiçeklerden ve altından yapılmış bir arabaya biniyorum. Ay'ın Kanada'sından gelerek gökyüzünde kıvrıla kıvrıla uçuyor, yüzümün son yakın plan çekimi için öne doğru yaklaşıyorum; tüm bunlara tatlı ve görkemli bir orkestra eşlik ediyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078820433366073345/img/LrmYgNjI2U0D_L-Y.jpg" width="600" alt="Çiçekli Arabada Büyülü Cadı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7576)**
+
+**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2078820469294375037) | **Published:** Jul 19, 2026
+
+---
+### Müzikal Karides Doğum Günü Partisi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sahilde doğum günü kutlayan animasyon karideslerin yer aldığı, birinin şarkı söylediği ve diğerlerinin piyano tuşlarını çaldığı eğlenceli bir video istemi.
+
+#### 📝 Prompt
+
+```
+Lider karides, sanki Bay Teng'e İyi ki doğdun şarkısını söylüyormuş gibi ağzını net bir şekilde hareket ettirerek neşeyle şarkı söylüyor; diğer karidesler ise güneşli sahilde, arkalarında hafif dalgalar eşliğinde ritim tutarak, sallanarak ve kutlama yaparak hep birlikte piyano tuşlarını çalıyor, neşeli doğum günü partisi
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078770217656926208/img/oaG6sA7_hTIr5SR3.jpg" width="600" alt="Müzikal Karides Doğum Günü Partisi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7570)**
+
+**Author:** [Cinemonroll](https://x.com/cinemonroll7) | **Source:** [Link](https://x.com/cinemonroll7/status/2078770241065406655) | **Published:** Jul 19, 2026
+
+---
+### Şarkı Performansı Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yapay zekayı, bir karakteri belirli şarkı sözlerini duygusal bir derinlikle söyleyecek şekilde canlandırmaya yönlendiren bir komut.
+
+#### 📝 Prompt
+
+```
+Hearts Content'in ilk kısmını söylediğini hayal edin: “Belki ayı benim yerleştirdiğimi düşündün, belki Jimmy ve June olduğumuzu düşündün. Belki sadece ikimizin olduğunu düşündün, belki de çok erken konuştuk.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078719547461230592/img/G81RRdH4FTklzS3j.jpg" width="600" alt="Şarkı Performansı Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7568)**
+
+**Author:** [Doc Toadlips](https://x.com/DToadlips) | **Source:** [Link](https://x.com/DToadlips/status/2078719563235995784) | **Published:** Jul 19, 2026
+
+---
+### Futbol Maçı Yayın Sinematik İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için stadyum üzerinden uçuşlar, penaltılar ve serbest vuruşlar gibi belirli oyun aksiyonlarını kapsayan profesyonel futbol yayını istemleri seti.
+
+#### 📝 Prompt
+
+```
+stadyum üzerinden uçuş – 80 bin kişilik stadyum, arjantin - ispanya, kesintisiz alçalan dairesel hava çekimi, koreografi + meşaleler, altın saat / projektör ışığı geçişi
+
+penaltı – lamine yamal (ispanya #19) ve emiliano martínez (arjantin kalecisi): koşu, tek vuruş, tam uzanışla kurtarış, top ağlarda. referans ile gerçek yüzler
+
+serbest vuruş – messi 25 metre mesafede, beş kişilik baraj, barajın üzerinden kavisli vuruş ve topun köşeye girmesi. barajdaki oyuncular, gerçek bir baraj gibi kollarını vücutlarına yapıştırmış şekilde topa bakmalı
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078586357488709632/img/7Rg5Aik0KFhlWel5.jpg" width="600" alt="Futbol Maçı Yayın Sinematik İstemi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7573)**
+
+**Author:** [thehype.](https://x.com/thehypedotnews) | **Source:** [Link](https://x.com/thehypedotnews/status/2078586716445655145) | **Published:** Jul 18, 2026
+
+---
 ### Vatansever Şarkı Söyleyen Gri Kedi Videosu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -244,6 +605,25 @@ Siyah duvarlı karanlık bir yatak odasının duvarında asılı, büyük ve sü
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7522)**
 
 **Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2078540320497619021) | **Published:** Jul 18, 2026
+
+---
+### Siyah Dantelli Tavşan Balerin
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Siyah dantel ve tüylerle süslenmiş, ışıltılı çiçeklerin arasında zarafetle hareket eden bir tavşan balerin için incelikli bir video istemi.
+
+#### 📝 Prompt
+
+```
+Siyah dantel ve tüylere bürünmüş, narin ve ışıltılı çiçeklerin arasında nazikçe hareket eden bir tavşan balerin.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078459688677699584/img/ALSZoPWS1WcZGCCv.jpg" width="600" alt="Siyah Dantelli Tavşan Balerin">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7572)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2078459756415791449) | **Published:** Jul 18, 2026
 
 ---
 ### Tottenham Hotspur Taraftar Selfie İstemi
@@ -1959,199 +2339,6 @@ Plajda yürüyen ve tüplü dalışa hazırlanan güzel bir sarışın
 **Author:** [Rebecca Clark](https://x.com/clark_rebe76017) | **Source:** [Link](https://x.com/clark_rebe76017/status/2076056974483915213) | **Published:** Jul 11, 2026
 
 ---
-### Sinematik Gotik Askeri Geçit Töreni
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gotik mimari, bando takımları ve fırtınalı gökyüzü içeren görkemli bir sinematik askeri geçit töreni video istemi.
-
-#### 📝 Prompt
-
-```
-gotik mimari, bando takımları, tanklar, kalabalıklar, hava araçları ve fırtınalı bir gökyüzü ile büyük, sinematik bir askeri geçit töreni
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076055202583511042/img/a_HcgX78ZEZVwe7T.jpg" width="600" alt="Sinematik Gotik Askeri Geçit Töreni">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7129)**
-
-**Author:** [Tianjin 💫](https://x.com/TianjinXiin) | **Source:** [Link](https://x.com/TianjinXiin/status/2076055651646624251) | **Published:** Jul 11, 2026
-
----
-### Arborpunk Asılı Orkide Mandalas
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bali işçiliğini Mucha esintili organik çizgilerle dairesel bir mandala formunda birleştiren karmaşık bir sanatsal video istemi.
-
-#### 📝 Prompt
-
-```
-Merkezinde ışıldayan kutsal bir nilüfer çiçeğinin yer aldığı, görkemli ve dairesel bir mandala kompozisyonu olarak yeniden hayal edilen sanatsal Arborpunk Asılı Orkide Gözlemevi. Bali'nin tropikal işçiliği ve Alphonse Mucha esintili akıcı organik çizgilerle harmanlanmıştır.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076033338314518528/img/8uNA4q9A5ERPiyjD.jpg" width="600" alt="Arborpunk Asılı Orkide Mandalas">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7115)**
-
-**Author:** [Carina](https://x.com/Freehere8) | **Source:** [Link](https://x.com/Freehere8/status/2076033394631422235) | **Published:** Jul 11, 2026
-
----
-### Call of Duty FPS Oynanışı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Modern Warfare tarzında gerçekçi birinci şahıs nişancı (FPS) oyun videoları oluşturmak için, gece vakti sisli bir şehir sokağında taktiksel hareketleri içeren oldukça detaylı bir komut.
-
-#### 📝 Prompt
-
-```
-Call of Duty Modern Warfare tarzında ultra fotogerçekçi birinci şahıs görünümü, elinde kırmızı nokta nişangahlı M4A1 tüfek tutan oyuncu, gece karanlık bir şehir sokağında nişan alıyor, gerçekçi askeri teçhizat, dramatik aydınlatma, hacimsel sis, yüksek detaylı dokular, sinematik oynanış görüntüleri --ar 16:9 --stylize 50 Call of Duty Modern Warfare tarzında gerçekçi birinci şahıs nişancı oynanışı: Oyuncu, elinde kırmızı nokta nişangahlı M4A1 tüfekle, nişan alarak sisli karanlık sokakta yavaşça ilerliyor. Hafif gerçekçi silah sallanması, nefes alma hareketi ve ayak sesleri. Kamera, doğal kafa hareketleriyle yavaşça ilerleyerek çevreyi tarıyor, hacimsel sis, uzaktaki kırmızı ışıklar ve sokak lambaları, yüksek detaylı gerçekçi hareket ve atmosfer --ar 16:9 --motion 4
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076020512023605248/img/TEjjbB8IXpHrtrXq.jpg" width="600" alt="Call of Duty FPS Oynanışı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7118)**
-
-**Author:** [ⁱᵃᵐ|᠘𝘶𝗸ค𐍃🇩🇪💙](https://x.com/LukasK92) | **Source:** [Link](https://x.com/LukasK92/status/2076020574438990207) | **Published:** Jul 11, 2026
-
----
-### Fransız Bulldog Karın Okşama
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Luna adındaki dişi bir Fransız Bulldog'un karın okşamaya neşeyle tepki verdiği, belirli diyaloglar ve sevgi dolu hareketler içeren büyüleyici bir video istemi.
-
-#### 📝 Prompt
-
-```
-Köpek Luna, kız kardeşinden karın okşama seansı alan DİŞİ bir 'Fransız bulldog'. Luna, “Kız kardeşimin karın okşamaları yeryüzündeki cennet, seni seviyorum” diyor. Luna kıvranıyor ve kız kardeşinin elini bol bol yalıyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075963834242613248/img/dI7eS9l4Pmi2M7Yu.jpg" width="600" alt="Fransız Bulldog Karın Okşama">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7119)**
-
-**Author:** [Brenda (Peanci) Helton](https://x.com/BrendaDHel6581) | **Source:** [Link](https://x.com/BrendaDHel6581/status/2075963908611785148) | **Published:** Jul 11, 2026
-
----
-### Genç Erkek Çocukların Rokoko Tarzı Tablosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ormanlık bir göl kenarında iki genç kardeşi konu alan, Rokoko tablosu estetiğinde stilize bir video istemi.
-
-#### 📝 Prompt
-
-```
-Ormanlık bir ortamda, yüzdükten sonra göl kenarında duran, birbirine sevgiyle sarılmış iki genç erkek kardeşin Rokoko tarzı tablosu.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075933202628382720/img/XaDF72k4IAzF39Y-.jpg" width="600" alt="Genç Erkek Çocukların Rokoko Tarzı Tablosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7123)**
-
-**Author:** [Bobby](https://x.com/AiNerdGuy) | **Source:** [Link](https://x.com/AiNerdGuy/status/2075933252972622105) | **Published:** Jul 11, 2026
-
----
-### Panda İyilik Hikayesi Dersi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir pandanın bambusunu paylaşması üzerinden iyilikle ilgili ahlaki bir dersi anlatan anlatısal video istemi.
-
-#### 📝 Prompt
-
-```
-Ders: İyilik her zaman karşılığını bulur.
-Bir panda, son bambu filizini aç bir arkadaşıyla paylaştı.
-Günler sonra, evi bir fırtınada yıkıldığında birçok hayvan ona yardım etti.
-İyilik paylaşıldıkça çoğalır.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075864661749063680/img/ySbTF3zaFgWUMXxJ.jpg" width="600" alt="Panda İyilik Hikayesi Dersi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7125)**
-
-**Author:** [Joyce Song](https://x.com/JoyceSongccrp) | **Source:** [Link](https://x.com/JoyceSongccrp/status/2075864735807914123) | **Published:** Jul 11, 2026
-
----
-### Sinematik Romalı Askerin Dağdan Kaçışı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Görkemli bir sıradağda, derin karlar içinde bir puma tarafından kovalanan Romalı bir askerin yer aldığı, yüksek aksiyonlu ve sinematik bir istem.
-
-#### 📝 Prompt
-
-```
-Geniş ve görkemli, karla kaplı bir sıradağda, detaylı zırhı içinde derin karların üzerinde çaresizce koşan bir Romalı askerin 5 saniyelik sinematik aksiyon sekansı. Büyük ve güçlü bir puma onu saldırgan bir şekilde kovalıyor. Dinamik hareketler, ayaklarının altından savrulan yoğun kar kütleleri, askerin endişeyle arkasına bakışı, pumanın kükreme anındaki açık ağzı, dramatik düşük açılı kompozisyon, epik aydınlatma, yüksek detaylı kürk ve zırh dokusu, yoğun atmosfer, güçlü sanatsal dramaya sahip fotogerçekçi görüntü.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075819801612861440/img/mc33JqSewAl_OSLy.jpg" width="600" alt="Sinematik Romalı Askerin Dağdan Kaçışı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7122)**
-
-**Author:** [Raadhika 💫✨️](https://x.com/Raadhika73) | **Source:** [Link](https://x.com/Raadhika73/status/2075819856562208814) | **Published:** Jul 11, 2026
-
----
-### Sürreal Rap Savaşı Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kafiyeler, merdivenler ve belirli renkli figürlerin yer aldığı, yüksek enerjili bir animasyonda geçen kaotik ve sürreal karakter odaklı bir istem.
-
-#### 📝 Prompt
-
-```
-Bir rap kafiyesi yapıyorlar. Beyaz renkli baby bop 6767 basamaklı merdivenden aşağı düşüyor ve sosis burunlu çiş dinozor mavi barney'i suçluyor. O mavi renkte (). Olaylar merdivenlerde 10 kat daha çılgın bir hal alıyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075793194751586304/img/anHyVxN8rHqpv3Ke.jpg" width="600" alt="Sürreal Rap Savaşı Animasyonu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7120)**
-
-**Author:** [⬅️](https://x.com/CursedMoonRice) | **Source:** [Link](https://x.com/CursedMoonRice/status/2075793261940060544) | **Published:** Jul 11, 2026
-
----
-### Cyberpunk Neon Şehirde Motosiklet Sürüşü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Neon ışıklar ve akıcı geçişlerle dolu bir cyberpunk motosiklet sahnesi için atmosfer odaklı video istemi.
-
-#### 📝 Prompt
-
-```
-mat siyah kask, neon ışıklar, cyberpunk şehir, akıcı geçiş, net eğim, bu motosikleti eve sür.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075768629207941120/img/JvLUDdoI0YRz4xR-.jpg" width="600" alt="Cyberpunk Neon Şehirde Motosiklet Sürüşü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7116)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2075768940848931198) | **Published:** Jul 11, 2026
-
----
-### Sinematik 4K Volumetrik Bulutlar
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gerçekçi bir video çıktısı için sinematik kaliteye, volumetrik efektlere ve yoğun gölge/bulut renklerine odaklanan teknik bir istem.
-
-#### 📝 Prompt
-
-```
-Gerçekçi 4K sinematik kalite / Pürüzsüz gerçekçilik karışımı / İnterpolasyon ve yükseltme / Volumetrik efekt / Daha yumuşak, daha yoğun gölgeler / Yoğun bulut renkleri
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075756908561014784/img/0eJ59GY8fQ4jzLta.jpg" width="600" alt="Sinematik 4K Volumetrik Bulutlar">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7117)**
-
-**Author:** [Arak Dark](https://x.com/orgunus93304) | **Source:** [Link](https://x.com/orgunus93304/status/2075756972553486681) | **Published:** Jul 11, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2213,6 +2400,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-20T07:11:24.203Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-20T11:24:47.852Z</sub>
 
 </div>

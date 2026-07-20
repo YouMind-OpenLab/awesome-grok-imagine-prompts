@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2174** |
+| 📝 Total Prompts | **2184** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-20** |
 
@@ -189,6 +189,185 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Singing Happy Birthday with Candles
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A festive prompt for generating a video of someone singing Happy Birthday while blowing out candles.
+
+#### 📝 Prompt
+
+```
+I sing Happy Birthday to You while blowing out the candles. Happy Birthday to You, Happy Birthday to You, Happy Birthday Dear Everyone, Happy Birthday to You.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078946160816140288/img/fylJTyQLaDWqbX12.jpg" width="600" alt="Singing Happy Birthday with Candles">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7575)**
+
+**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2078946208807301490) | **Published:** Jul 19, 2026
+
+---
+### Nostalgic 90s Summer Cinematic Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive prompt for a single-take, ultra-slow motion video with a nostalgic 90s aesthetic and smooth transitions.
+
+#### 📝 Prompt
+
+```
+Use the reference images to create a seamless, continuous single-take video. There must be no dialogue, hard cuts, fade-in/fade-out transitions, or changes in opacity throughout the entire sequence. Present the footage in ultra-slow motion to evoke a relaxed summer atmosphere and a nostalgic ’90s visual aesthetic. Connect each scene naturally using only smooth camera movements. Add matching transition sound effects and maintain a continuous, uninterrupted flow of cinematic ambient sound. No music. Maintain visual consistency, fluid motion, and realistic cinematic lighting effects. Duration: 10 seconds; aspect ratio: 16:9; resolution: 720p. Camera movement is the most important element. I did not ask for models to switch between scenes; instead, I described each transition as a physical camera movement, such as pushing past an object, panning past foreground elements, or following the subject into the next environment.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078919323738136577/img/HWk8HR6PkKuBgFMH.jpg" width="600" alt="Nostalgic 90s Summer Cinematic Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7571)**
+
+**Author:** [Loriel.AI](https://x.com/ou_zhen599) | **Source:** [Link](https://x.com/ou_zhen599/status/2078920201085845703) | **Published:** Jul 19, 2026
+
+---
+### Surfer McTwist Skateboarding Style
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A dynamic video prompt for a surfer performing a complex McTwist spin with a stale fish grab, styled like skateboarding.
+
+#### 📝 Prompt
+
+```
+Pretty proper 💐
+
+The surfer is now lined up for the perfect launch pad to execute the most lofty McTwist inverted spin ever seen while grabbing the board with a stale fish grab. Inspired by skateboarding.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078914214249304064/img/a1-WQgHtGabLSXZy.jpg" width="600" alt="Surfer McTwist Skateboarding Style">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7567)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2078914251318608302) | **Published:** Jul 19, 2026
+
+---
+### Dragon Wing Escape Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A fantasy animation prompt where a character grows dragon wings to escape a poisonous well.
+
+#### 📝 Prompt
+
+```
+Escape the grasp of a poisonous well 
+
+She grows the wings 🪽 of a dragon 🐉 and I able to escape the trance.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078908101114175489/img/Uo3pyJ7ypvgQhFuZ.jpg" width="600" alt="Dragon Wing Escape Sequence">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7569)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2078908136543408297) | **Published:** Jul 19, 2026
+
+---
+### Anime Dance Video in Pop-up Book Style
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A comprehensive Grok Imagine prompt for a 6-second anime dance video, focusing on character consistency, multi-camera coordination, and a colorful papercraft-inspired aesthetic.
+
+#### 📝 Prompt
+
+```
+# 6-Second Pop-Up Step Dance Video Prompt Use the character in the reference image as the sole protagonist. **6 seconds, 24 fps, vertical 9:16.** High-quality Japanese full-color animation. Art as refined as a theatrical anime movie, smooth body movements, rich facial expression changes, and naturally swaying hair and costumes. In a world of a colorful pop-up picture book, the protagonist performs a light step dance, creating an ultra-short dance video that is easy to play repeatedly on social media. ## Core Objectives * Hook viewers with both movement and expression in the first 0.3 seconds * Create a dance that utilizes footwork and a sense of rhythm different from previous works * Include a signature move that can be remembered after just one viewing * Use 5 cameras with detailed cut-ins to create pace and flow in the video * Create a loop structure that returns from the end to the beginning without feeling unnatural * Prioritize the protagonist's cuteness, friendliness, and energy * Structure the video to lead to saves, repeat plays, and imitation of the choreography ## Character Consistency The protagonist is the character from the reference image themselves. Maintain the following features seen in the reference image across all cameras, poses, expressions, and frames: * Hairstyle * Hair color * Shape of bangs * Eye color * Facial features * Skin color * Physique * Head-to-body ratio * Perceived age * Costume * Costume color scheme * Shoes * Accessories * Overall atmosphere Do not change faces or physiques even when cameras switch. Do not allow character changes, costume changes, hairstyle changes, or disappearance of accessories. Keep fingers in natural shapes and correctly depict left and right limbs. ## Setting The setting is a miniature dance stage created inside a giant pop-up picture book. Place the following decorations on a 3D floor that looks like an open page: * Clouds made of paper * Small star-shaped lights * Colorful building blocks * An arched background * Round stage lights * Small shapes like confetti The background colors should center on cream, coral pink, sky blue, lemon yellow, and lavender. Give the background a sense of three-dimensionality, but do not let it stand out more than the protagonist. Do not feature any persons other than the protagonist, dancers, audience members, or animals. ## Music **Completely original Japanese vocal track.** Do not make it resemble existing songs, anime songs, popular hits, or nursery rhymes. Bright and cute, up-tempo J-POP/anime-pop style. Do not include a short intro; start the vocals, beat, and melody simultaneously from 0 seconds. Use the following sounds in the music: * Light drums * Bright synthesizers * Small hand claps * Bell-like high notes * Bouncy bass * Cute accent sounds that feel like 'pon,' 'pah,' and 'kira.' Synchronize the choreography, camera switches, and background movement with the beat. The song should be approximately 5 seconds long, naturally ending the vocals and melody around 5.0 to 5.3 seconds. For the final 0.7 seconds, leave only a short lingering sound and sound effects that lead into the loop. Do not display text, subtitles, or lyrics. ## Video Concept The protagonist moves left and right on a small stage, performing a bright and cute dance combining bouncy steps and handclaps. Clearly show the following full-body movements, not just the upper body: * Steps opening toes left and right * Small lateral movements * Movements tucking knees inward * Rhythmical up-and-down movement of shoulders * Light turns * Handclaps synchronized with timing * Final one-legged balance pose Do not use intense acrobatics or large jumps. Make the choreography easy for anyone to imitate and want to dance along with the sound source. ## Signature Move Use the 'Pata-Pata Step' as the unique signature move for this video. 1. Open both hands outward at shoulder height. 2. Quickly flick wrists in and out twice. 3. Simultaneously open toes in the order of right, then left. 4. Cross both hands once in front of the chest. 5. Vigorously open the crossed hands diagonally upward. 6. Lift one leg slightly, tilt the head, and freeze with a smile. Perform hand and foot movements to the same rhythm, creating choreography that can be remembered just by its silhouette. Do not center the choreography around hearts, pointing, cheek-side peace signs, or blown kisses. ## Pop-Up Effects Unlike the previous work's crayon-style effects, use a 3D papercraft expression that looks like paper cutouts layered together. Motifs to use: * Small triangles * Colorful circles * Paper tape * Zigzag lines * Miniature clouds * Star-shaped paper pieces * Semicircular arches * Spring-like lines * Small confetti * Wavy ribbon-like paper Effects should appear as if popping out from the stage floor or background. Use the following movements: * Rising from the page * Folded paper opening * Bouncing once like a spring * Swaying slightly left and right * Scattering as confetti * Retracting back into the page Do not overlap too much on the protagonist's face or body. Use them to reinforce the direction of movement, foot landings, and the moment of handclaps. ## 5-Camera Configuration Use 5 cameras, but do not simply cycle through them every second. Insert short 0.2 to 0.5-second cut-ins in the middle of a longer main shot, changing perspectives according to the beat. ### Camera A: Front Wide Camera Main camera showing the protagonist's full body and the entire stage. An angle where choreography, footwork, and lateral movement are clear. Slightly dolly back and forth to follow the protagonist's movement naturally. ### Camera B: Low-Angle Camera from Diagonally Below Capture the protagonist from a low position in front of the stage, looking diagonally up. Emphasize foot landings, opening/closing of toes, and the swaying of the costume. Do not use an extreme low angle; maintain cuteness. ### Camera C: Right-Front Tracking Camera Run parallel to the protagonist's lateral movement from the front right. Show the coordination of face, shoulders, waist, and arms. The protagonist returns their gaze to the lens once during movement. ### Camera D: Top Camera from Directly Above Show floor shapes, foot trajectories, and paper effects in a circular composition. Use briefly as a beat accent rather than for long periods. ### Camera E: Face and Upper-Body Close-Up Camera Show changes in expression, handclaps, and head-tilting movements. Not a static close-up of the face; slide slightly sideways following the protagonist's movement. ## Camera Direction Do not use flashy glitches or flashes for camera switches. Use the following natural transitions: * Cut at the moment the protagonist's arm crosses the screen * Cut at the moment paper tape passes in front of the screen * Change the angle at the moment a foot lands on the floor * Connect directions according to the protagonist's turns * Use match cuts utilizing the background arches Even when cuts change, accurately connect the protagonist's arms, legs, body direction, and movement position. Ensure the same action doesn't rewind midway or suddenly become a different pose. ## 6-Second Timeline ### 0.0–0.7 seconds **Camera E: Close-up of face and upper body.** The protagonist is already in rhythm at the start. Bounce both shoulders alternately while quickly opening both hands beside the face. Change from slightly widened eyes (as if surprised) to a joyful smile. Around 0.2 seconds, background paper arches rise all at once. Small star-shaped paper pieces pop out from both sides of the face. The camera pulls back briefly once to transition to the next full-body shot. ### 0.7–1.6 seconds **Camera A: Front wide.** The protagonist moves two small steps to the right. Open both hands outward on the first step and clap in front of the chest on the second step. At the moment of the clap, a circular paper effect pops open from under the feet. Use knees and toes softly so the entire body appears to bounce. ### 1.6–2.0 seconds **Camera B: Short low-angle cut-in.** Capture the moment the protagonist lands their right foot on the floor and points their left toe outward. Triangles and zigzag lines pop out from the floor upon landing. Hair and costume hems sway with a slight delay. The protagonist's hand crosses in front of the screen at the end of the cut-in. ### 2.0–3.0 seconds **Camera C: Tracking from front right.** The protagonist performs the first half of the 'Pata-Pata Step' while returning to the left. Open both hands at shoulder height and flick wrists in and out twice. Simultaneously open toes in the order of right, then left. Look in the direction of travel at first, then send a gaze to the camera on the final wrist flick. Background paper tape waves according to the protagonist's movement. ### 3.0–3.4 seconds **Camera D: Short top-down cut-in.** The protagonist crosses both hands in front of the chest and brings both feet together in the center. Circles and stars drawn on the floor rotate once around the protagonist. Confetti spreads outward but disappears quickly to clean up the screen. ### 3.4–4.5 seconds **Camera A: Front wide.** The protagonist widely opens both crossed hands diagonally upward, completing the 'Pata-Pata Step.' Continuously bounce shoulders twice and take small steps in the order of right foot, then left foot. Background clouds and star-shaped lights move up and down alternately in sync with movements. The camera slowly approaches the protagonist. ### 4.5–5.1 seconds **Continuous cut from Camera B to Camera C using a turn.** Start a small half-turn movement from a low angle. Switch to the front-right tracking camera mid-turn to connect the movement seamlessly. After completing the turn, the protagonist lifts one leg slightly and opens both arms diagonally. Hair, costume, and paper tape stop with a soft delay in sync with the final note of the song. ### 5.1–6.0 seconds **Camera E: Dynamic close-up.** The protagonist lowers the lifted leg while returning both hands to shoulder height. Lightly tilt the head to the opposite side and smile joyfully. Not a wink closing one eye, but a bright laugh while looking at the camera with both eyes. Surrounding paper effects are stored away as if being folded back into the page. End by returning to the same starting posture with hands at shoulder height. End just before the shoulders enter the next beat; looping will connect naturally to the shoulder movement at the beginning. ## Facial Expression Acting Do not keep expressions static even within the short duration. * Beginning: Slightly surprised eyes * First half: Joyful smile * Gaze return to camera: Slightly mischievous expression * Signature move: Confident smile * End: Friendly and bright smile Avoid excessive funny faces or expressions where facial features deform greatly. ## Virality-Focused Direction * Both characters and background move simultaneously from the start * Include expression changes within 0.3 seconds * Give distinct characteristics to foot movements as well as hand movements * Insert short cut-ins synchronized with the beat * Place the core of the choreography around the 2-3 second mark * Match the final pose with the starting preparation posture * Create a silhouette that looks cute even when paused * Use compositions where face, hand, and foot movements are distinguishable even on small screens * Do not increase information too much; focus attention on the protagonist ## Constraints * Do not feature any persons other than the protagonist * Maintain the character from the reference image in all cuts * Do not change face, hairstyle, hair color, eyes, physique, head-to-body ratio, or perceived age * Do not change or lose costumes, shoes, or accessories * Do not allow character changes during camera switches * Clearly differentiate the use of the 5 cameras * Keep actions and positions continuous even when switching cameras * Do not cut off the feet too much from the screen * Do not include unnatural high-speed spins or large jumps * Do not distort the number of limbs or joints * Do not use excessive camera shake, motion blur, or fisheye distortion * Do not use live-action style explosions, smoke, fire, or lightning * Do not use glitches, screen splits, or strobe lighting * Do not display text, subtitles, lyrics, logos, UIs, or watermarks * Do not reproduce existing songs or existing choreography ## Output Ideal Establish a strong opening hook, light footwork, a memorable signature move, detailed perspective changes with 5 cameras, synchronization with music, and a natural loop within the short 6-second duration. Create a cute, up-tempo, viral-specialized animated dance video that makes viewers want to replay it and imitate the 'Pata-Pata Step' to the music.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078850697823657984/img/OdpWpBDKkYAJEsE0.jpg" width="600" alt="Anime Dance Video in Pop-up Book Style">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7574)**
+
+**Author:** [クリラボ｜Curious Creator Lab｜AIクリエイター](https://x.com/CCL_2026) | **Source:** [Link](https://x.com/CCL_2026/status/2078851334653325546) | **Published:** Jul 19, 2026
+
+---
+### Magical Witch in Flower Carriage
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A whimsical video prompt depicting a cute witch traveling from the moon in a floral carriage, featuring close-up transitions and orchestral themes.
+
+#### 📝 Prompt
+
+```
+I've become a mysteriously cute witch. Surrounded by hearts of love, dreams, hope, light, freedom, and happiness, along with diamonds and flowers, I ride a carriage of flowers and gold, coming from the moon's Canada, flying through the sky in a wiggly way, approaching the front for a final close-up of the face, accompanied by a sweet and grand orchestra.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078820433366073345/img/LrmYgNjI2U0D_L-Y.jpg" width="600" alt="Magical Witch in Flower Carriage">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7576)**
+
+**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2078820469294375037) | **Published:** Jul 19, 2026
+
+---
+### Musical Shrimp Birthday Party
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A whimsical video prompt featuring animated shrimps celebrating a birthday on a beach, with one singing and others playing piano keys.
+
+#### 📝 Prompt
+
+```
+The lead shrimp sings happily with mouth moving clearly, as if singing Happy birthday to Mr Teng, the other shrimps play the piano keys together in rhythm, swaying and celebrating on the sunny beach, gentle waves behind them, joyful birthday party en
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078770217656926208/img/oaG6sA7_hTIr5SR3.jpg" width="600" alt="Musical Shrimp Birthday Party">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7570)**
+
+**Author:** [Cinemonroll](https://x.com/cinemonroll7) | **Source:** [Link](https://x.com/cinemonroll7/status/2078770241065406655) | **Published:** Jul 19, 2026
+
+---
+### Singing Performance Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt that guides the AI to animate a character singing specific song lyrics with emotional resonance.
+
+#### 📝 Prompt
+
+```
+Imagine her singing the first part of Hearts Content: “Maybe you thought I hung the moon Maybe you thought we were Jimmy and June. Maybe you thought it was just us two, maybe we spoke too soon.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078719547461230592/img/G81RRdH4FTklzS3j.jpg" width="600" alt="Singing Performance Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7568)**
+
+**Author:** [Doc Toadlips](https://x.com/DToadlips) | **Source:** [Link](https://x.com/DToadlips/status/2078719563235995784) | **Published:** Jul 19, 2026
+
+---
+### Football Match Broadcast Cinematic Prompts
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A set of professional football broadcast prompts for Grok Imagine, covering stadium flyovers and specific gameplay actions like penalties and free kicks.
+
+#### 📝 Prompt
+
+```
+stadium flyover – 80k-seat bowl, argentina vs spain, one continuous descending aerial spiral, tifo + flares, golden-hour / floodlight split
+
+penalty – lamine yamal (spain #19) vs emiliano martínez (argentina keeper): run-up, single strike, full-stretch dive, ball in the net. real faces via reference
+
+free kick – messi 25m out, five-man wall, curl up and over the wall into the top corner. the wall has to face the ball with arms pinned down, like a real wall
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078586357488709632/img/7Rg5Aik0KFhlWel5.jpg" width="600" alt="Football Match Broadcast Cinematic Prompts">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7573)**
+
+**Author:** [thehype.](https://x.com/thehypedotnews) | **Source:** [Link](https://x.com/thehypedotnews/status/2078586716445655145) | **Published:** Jul 18, 2026
+
+---
 ### Singing Patriotic Grey Cat Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -244,6 +423,25 @@ Extreme close-up portrait of a elf woman with very pale freckled dusty skin, poi
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7522)**
 
 **Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2078540320497619021) | **Published:** Jul 18, 2026
+
+---
+### Bunny Ballerina in Black Lace
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A delicate video prompt for a bunny ballerina dressed in black lace and feathers, moving gracefully through sparkling blooms.
+
+#### 📝 Prompt
+
+```
+A bunny ballerina wrapped in black lace and feathers, moving gently among delicate sparkling blooms.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078459688677699584/img/ALSZoPWS1WcZGCCv.jpg" width="600" alt="Bunny Ballerina in Black Lace">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7572)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2078459756415791449) | **Published:** Jul 18, 2026
 
 ---
 ### Tottenham Hotspur Fan Selfie Prompt
@@ -1959,199 +2157,6 @@ A viking shield maiden with braided white hair taking her stand coming out of th
 **Author:** [Rebecca Clark](https://x.com/clark_rebe76017) | **Source:** [Link](https://x.com/clark_rebe76017/status/2076056974483915213) | **Published:** Jul 11, 2026
 
 ---
-### Cinematic Gothic Military Parade
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A grand cinematic video prompt of a military parade featuring gothic architecture, marching bands, and stormy skies.
-
-#### 📝 Prompt
-
-```
-a large cinematic military parade, with gothic architecture, marching bands, tanks, crowds, aircraft, and a stormy sky
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076055202583511042/img/a_HcgX78ZEZVwe7T.jpg" width="600" alt="Cinematic Gothic Military Parade">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7129)**
-
-**Author:** [Tianjin 💫](https://x.com/TianjinXiin) | **Source:** [Link](https://x.com/TianjinXiin/status/2076055651646624251) | **Published:** Jul 11, 2026
-
----
-### Arborpunk Hanging Orchid Mandala
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A complex artistic video prompt combining Balinese craftsmanship with Mucha-inspired organic lines in a circular mandala.
-
-#### 📝 Prompt
-
-```
-Artistic Arborpunk Hanging Orchid Observatory reimagined as a grand circular mandala composition, centered on a luminous sacred lotus flower at the heart. Infused with Balinese tropical craftsmanship and Alphonse Mucha-inspired flowing organic lines.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076033338314518528/img/8uNA4q9A5ERPiyjD.jpg" width="600" alt="Arborpunk Hanging Orchid Mandala">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7115)**
-
-**Author:** [Carina](https://x.com/Freehere8) | **Source:** [Link](https://x.com/Freehere8/status/2076033394631422235) | **Published:** Jul 11, 2026
-
----
-### Call of Duty FPS Gameplay
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed prompt for creating realistic first-person shooter gameplay videos in the style of Modern Warfare, featuring tactical movement through a foggy urban street at night.
-
-#### 📝 Prompt
-
-```
-Ultra photorealistic first-person view in Call of Duty Modern Warfare style, player holding an M4A1 rifle with red dot sight, aiming down a dark urban street at night, realistic military gear, dramatic lighting, volumetric fog, highly detailed textures, cinematic gameplay footage --ar 16:9 --stylize 50 Realistic first-person shooter gameplay in Call of Duty Modern Warfare style: The player holds an M4A1 rifle with red dot sight, slowly moving forward through the foggy dark street while aiming. Subtle realistic weapon sway, breathing movement, and footsteps. The camera advances slowly with natural head bob, scanning the environment, volumetric fog, distant red lights and street lamps, highly detailed realistic motion and atmosphere --ar 16:9 --motion 4
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076020512023605248/img/TEjjbB8IXpHrtrXq.jpg" width="600" alt="Call of Duty FPS Gameplay">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7118)**
-
-**Author:** [ⁱᵃᵐ|᠘𝘶𝗸ค𐍃🇩🇪💙](https://x.com/LukasK92) | **Source:** [Link](https://x.com/LukasK92/status/2076020574438990207) | **Published:** Jul 11, 2026
-
----
-### French Bulldog Belly Rub
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A charming prompt for a video of a female French Bulldog named Luna reacting joyfully to a belly rub, featuring specific dialogue and affectionate actions.
-
-#### 📝 Prompt
-
-```
-Dog Luna is a FEMALE ‘French bulldog’ getting belly rub from her sissy. Luna says “Sissy belly rubs are heaven on earth I love you” Luna wriggles and licks Sissy profusely on her hand.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075963834242613248/img/dI7eS9l4Pmi2M7Yu.jpg" width="600" alt="French Bulldog Belly Rub">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7119)**
-
-**Author:** [Brenda (Peanci) Helton](https://x.com/BrendaDHel6581) | **Source:** [Link](https://x.com/BrendaDHel6581/status/2075963908611785148) | **Published:** Jul 11, 2026
-
----
-### Rococo Painting of Teen Boys
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A stylized video prompt that creates a Rococo painting aesthetic featuring two teen siblings by a forest lake.
-
-#### 📝 Prompt
-
-```
-A rococo painting of two young teen boys standing by a lake after swimming in a forest environment, siblings affectionately embraced.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075933202628382720/img/XaDF72k4IAzF39Y-.jpg" width="600" alt="Rococo Painting of Teen Boys">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7123)**
-
-**Author:** [Bobby](https://x.com/AiNerdGuy) | **Source:** [Link](https://x.com/AiNerdGuy/status/2075933252972622105) | **Published:** Jul 11, 2026
-
----
-### Panda Kindness Story Lesson
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A narrative video prompt illustrating a moral lesson about kindness through a story of a panda sharing bamboo.
-
-#### 📝 Prompt
-
-```
-Lesson: Kindness always returns.
-A panda shared his last bamboo shoot with a hungry friend.
-Days later, many animals helped him after a storm destroyed his home.
-Kindness grows when it’s shared.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075864661749063680/img/ySbTF3zaFgWUMXxJ.jpg" width="600" alt="Panda Kindness Story Lesson">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7125)**
-
-**Author:** [Joyce Song](https://x.com/JoyceSongccrp) | **Source:** [Link](https://x.com/JoyceSongccrp/status/2075864735807914123) | **Published:** Jul 11, 2026
-
----
-### Cinematic Roman Soldier Mountain Escape
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An intense, high-action cinematic prompt of a Roman soldier being chased through deep snow by a cougar in a majestic mountain range.
-
-#### 📝 Prompt
-
-```
-Cinematic 5-second action sequence of a Roman soldier in detailed armor sprinting desperately through deep snow in a vast, majestic snow-capped mountain range. A large, powerful cougar is aggressively chasing him. Dynamic motion, heavy snow spray from their feet, the soldier looking back in alarm, the cougar with mouth open mid-roar, dramatic low-angle composition, epic lighting, highly detailed fur and armor, intense atmosphere, photorealistic with strong artistic drama.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075819801612861440/img/mc33JqSewAl_OSLy.jpg" width="600" alt="Cinematic Roman Soldier Mountain Escape">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7122)**
-
-**Author:** [Raadhika 💫✨️](https://x.com/Raadhika73) | **Source:** [Link](https://x.com/Raadhika73/status/2075819856562208814) | **Published:** Jul 11, 2026
-
----
-### Surreal Rap Battle Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A chaotic and surreal character-based prompt involving rhyming, stairs, and specific colored figures in a high-energy animation.
-
-#### 📝 Prompt
-
-```
-They rhyme a rap. baby bop who is colored white falls down some 6767 stairs and blames blue barney the pee dino with a sausage nose. He is colored blue (). The things go 10x crazy up and down the stairs.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075793194751586304/img/anHyVxN8rHqpv3Ke.jpg" width="600" alt="Surreal Rap Battle Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7120)**
-
-**Author:** [⬅️](https://x.com/CursedMoonRice) | **Source:** [Link](https://x.com/CursedMoonRice/status/2075793261940060544) | **Published:** Jul 11, 2026
-
----
-### Cyberpunk Neon City Bike Ride
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A mood-driven video prompt for a cyberpunk motorcycle scene with neon lights and smooth transitions.
-
-#### 📝 Prompt
-
-```
-matte black helmet, neon lights, cyber punk city, smooth transition, clean tilt, ride this bike home.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075768629207941120/img/JvLUDdoI0YRz4xR-.jpg" width="600" alt="Cyberpunk Neon City Bike Ride">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7116)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2075768940848931198) | **Published:** Jul 11, 2026
-
----
-### Cinematic 4K Volumetric Clouds
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A technical prompt focusing on cinematic quality, volumetric effects, and intense shadow/cloud colors for a realistic video output.
-
-#### 📝 Prompt
-
-```
-Realistic 4K cinematic quality /Smoot mix realism /interpolation and upscale /Volumetric effect / Softer, more intense shadows / Intense/ clouds color
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075756908561014784/img/0eJ59GY8fQ4jzLta.jpg" width="600" alt="Cinematic 4K Volumetric Clouds">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7117)**
-
-**Author:** [Arak Dark](https://x.com/orgunus93304) | **Source:** [Link](https://x.com/orgunus93304/status/2075756972553486681) | **Published:** Jul 11, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2213,6 +2218,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-20T07:11:06.996Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-20T11:24:29.072Z</sub>
 
 </div>
