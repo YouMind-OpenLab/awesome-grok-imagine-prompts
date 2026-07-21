@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2184** |
+| 📝 Total Prompts | **2204** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-21** |
 
@@ -189,6 +189,408 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Cinematic Achilles Trojanischer Krieg Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein professioneller, filmischer Video-Prompt für eine Szene aus dem Trojanischen Krieg mit Achilles, inklusive Anweisungen zu Kamerabewegungen, Sounddesign und Beleuchtung.
+
+#### 📝 Prompt
+
+```
+Dramatische Totale von Achilles in glänzender Bronze-Rüstung, wie er im Morgengrauen durch ein rauchiges Schlachtfeld vor Troja stürmt, das Schwert erhoben, mit intensivem Schlachtruf, gefallene Krieger und brennende Pfeile im Hintergrund, epischer Maßstab mit der Silhouette des riesigen hölzernen Pferdes, filmische volumetrische Lichtstrahlen durchdringen Staubwolken und Blutnebel, hyper-detaillierte metallische Reflexionen und Stoffrisse, ein Meisterwerk, das die Fantasy-Details von Greg Rutkowski mit der epischen Komposition von Villeneuve und der Lichtmeisterschaft von Deakins vereint, 8K IMAX-Kinoqualität. Achilles in glänzender Bronze-Rüstung stürmt mit kraftvollem Schwertschwung und Kampfgebrüll durch das chaotische, rauchige Schlachtfeld von Troja, langsamer, dramatischer Tracking-Shot, der von einer Totalen in eine heroische Nahaufnahme übergeht, mit Bewegungsparallaxe bei fliegenden Pfeilen und wirbelndem Staub, tadellose Physik bei Rüstungsklängen und Bodenaufprallen, nativ synchronisierter, tiefer Krieger-Dialog „Für Troja!“ mit düsteren Kampf-SFX (metallisches Klirren, Schlachtrufe, zischende Flammen) und anschwellender orchestraler Musik, goldene volumetrische Lichtstrahlen der Morgendämmerung und filmische Rim-Light-Beleuchtung, Stil-Fusion von Rutkowski/Villeneuve/Deakins, makellose 24fps, 15-sekündige kontinuierliche Bewegung, hyper-detailliertes 8K-Meisterwerk, bereit für virale Trailer-Energie.
+```
+
+<img src="https://cms-assets.youmind.com/media/1784621994095_n65q56_HNu02XKXUAAkc2V.jpg" width="600" alt="Cinematic Achilles Trojanischer Krieg Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7646)**
+
+**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2079454701368545290) | **Published:** Jul 21, 2026
+
+---
+### Ostasiatisches Mode-Porträt-Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochdetaillierter Video-Prompt für ein fotorealistisches Mode-Porträt einer jungen ostasiatischen Frau mit langem schwarzem Haar, die ein übergroßes blaues T-Shirt trägt.
+
+#### 📝 Prompt
+
+```
+Fotorealistisches Mode-Porträt einer schönen jungen ostasiatischen Frau mit langem, glattem, tiefschwarzem Haar, die lässig auf einem schwarzen Stuhl sitzt. Sie trägt eine schwarze ovale Sonnenbrille, dezentes Make-up mit glänzenden rosaroten Lippen und eine zarte silberne Halskette mit dem Namen „Ani“. Sie ist bekleidet mit einem übergroßen schieferblauen T-Shirt mit schwarzem Text auf der Brust, einer schwarzen Radlerhose und schwarz-weißen Sneakern mit leuchtend blauen Schnürsenkeln, die zu großen Schleifen gebunden sind. Ihre rechte Hand berührt sanft ihr Haar an der Schläfe, während ihre linke Hand den Riemen einer schwarzen Umhängetasche hält. An der Tasche befindet sich ein niedlicher weißer Teddybär-Schlüsselanhänger, der blaue Kleidung trägt, sowie ein großer, flauschiger blauer Bommel. Der Hintergrund ist eine einfarbige, texturierte blaue Wand, auf der das Wort „Comeback“ in großer, fetter, schwarzer Schreibschrift steht. Natürliches Tageslicht, weiche Schatten, realistische Hauttextur, scharfer Fokus, hohe Detailgenauigkeit, Instagram-Modefotografie-Stil, Ganzkörperaufnahme aus leicht niedriger Perspektive, selbstbewusste Pose
+```
+
+<img src="https://cms-assets.youmind.com/media/1784621982635_sglbmo_HNpWATlbYAAFwZw.jpg" width="600" alt="Ostasiatisches Mode-Porträt-Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7642)**
+
+**Author:** [Feyber | AI Creator](https://x.com/woleswoosh) | **Source:** [Link](https://x.com/woleswoosh/status/2079325481053356127) | **Published:** Jul 20, 2026
+
+---
+### Mandala-Oktopus-Tintenspray
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein filmischer Video-Prompt eines vieläugigen Mandala-Oktopus, der sich wirbelnd bewegt und in einer Zoom-out-Einstellung Tinte versprüht.
+
+#### 📝 Prompt
+
+```
+Octo Pi 👁️ 
+
+Die Szene zoomt heraus und enthüllt das Gesicht eines 11-äugigen Mandala-Oktopus, der sich gegen den Uhrzeigersinn dreht und burgunderrote sowie schwarze Tinte 🫟 aus den Saugnäpfen seiner Tentakel versprüht.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079320309442695168/img/LQB1lzQZcsGx7TXS.jpg" width="600" alt="Mandala-Oktopus-Tintenspray">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7630)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2079320346281255384) | **Published:** Jul 20, 2026
+
+---
+### Animation eines sich verbeugenden Aliens und eines Raumschiffs
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein filmischer Video-Prompt, der einen Menschen in einem roten Anzug zeigt, der sich vor einem Alien verbeugt, während Raumschiffe im Hintergrund vorbeiziehen und Aliens applaudieren.
+
+#### 📝 Prompt
+
+```
+Lass den Menschen im roten Anzug nun so aussehen, als würde er sich vor dem Alien verbeugen. Die Raumschiffe im Hintergrund ziehen am Hintergrund vorbei und die Aliens klatschen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079294854610165760/img/cGrQU8eVfSnd4vJW.jpg" width="600" alt="Animation eines sich verbeugenden Aliens und eines Raumschiffs">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7639)**
+
+**Author:** [Mr. Savistarz](https://x.com/AryehKatz) | **Source:** [Link](https://x.com/AryehKatz/status/2079294886356889866) | **Published:** Jul 20, 2026
+
+---
+### Pterodactyls vs. Fairies Party
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein chaotischer und magischer Video-Prompt, bei dem Pterodaktylen eine Party stürmen, nur um von Feen mit Feenstaub gebändigt zu werden.
+
+#### 📝 Prompt
+
+```
+Eingestaubt
+
+Pterodaktylen stürzen herab und crashen die Party. 🎈 Sie sorgen für Chaos, doch die Feen 🧚‍♀️ bändigen sie mit ihrem magischen Feenstaub.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079277906010718208/img/pQAxd525mRTlfrYj.jpg" width="600" alt="Pterodactyls vs. Fairies Party">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7641)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2079277954324959412) | **Published:** Jul 20, 2026
+
+---
+### Kate Greenaway Garten-Aquarell
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein herzerwärmender Video-Prompt im Aquarellstil, der ein Mädchen zeigt, das in einem Garten Vögel füttert.
+
+#### 📝 Prompt
+
+```
+Inspiriert von Kate Greenaway, ein süßes Mädchen in einem blauen Kittel und einer Haube, das in einem Garten Krümel für Vögel verstreut, Spatzen und Rotkehlchen um sie herum, detailliertes Gefieder und Blattwerk, zartes Aquarell, herzerwärmende Kinderszene.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079274259495505920/img/gtGbBhmF_znZwIxc.jpg" width="600" alt="Kate Greenaway Garten-Aquarell">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7635)**
+
+**Author:** [Dawn Marie](https://x.com/DedeMoments) | **Source:** [Link](https://x.com/DedeMoments/status/2079274314033996030) | **Published:** Jul 20, 2026
+
+---
+### Die Bitcoin-Überfahrt des Fährmanns
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein konzeptioneller Video-Prompt, der einen mythischen Fährmann darstellt, der einen Bitcoin als Bezahlung für die Überfahrt in eine andere Welt erhält.
+
+#### 📝 Prompt
+
+```
+Stelle dir in der Vision des Fährmanns in die andere Welt vor, wie er einen Bitcoin als Bezahlung für die Überfahrt entgegennimmt.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079267766364712960/img/NN8jvuCWSUYl9z7Y.jpg" width="600" alt="Die Bitcoin-Überfahrt des Fährmanns">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7640)**
+
+**Author:** [Sats Nakamondo](https://x.com/shroudspeeders) | **Source:** [Link](https://x.com/shroudspeeders/status/2079267780814090567) | **Published:** Jul 20, 2026
+
+---
+### Winzige Drachen im Wassereimer
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Fantasy-Video-Prompt mit winzigen, farbenfrohen Drachen, die zusammen mit Schmetterlingen und Kolibris in einem Wassereimer spielen.
+
+#### 📝 Prompt
+
+```
+Schmetterlinge hinzufügen Libellen Honigbienen Kolibris Metall-Wassereimer neben einer Schaufel Zwei winzige Drachen hinzufügen, die nebeneinander laufen Ein Drache rot mit gelb-orangen Streifen Zweiter Drache in Blau- und Schimmertönen Drachen springen in den Wassereimer
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079250071053582336/img/usApoo9fvygIGxyS.jpg" width="600" alt="Winzige Drachen im Wassereimer">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7637)**
+
+**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2079250137071894916) | **Published:** Jul 20, 2026
+
+---
+### Auftritt eines getigerten schwarzen Panthers
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Generierungs-Prompt, der einen seltenen hybriden Großkatzen-Auftritt zeigt.
+
+#### 📝 Prompt
+
+```
+Schwarz getigerter Panther 
+
+Ein schwarzer Panther mit weißen Tigerstreifen betritt die Szene.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079240828749246464/img/7e7dJ0qyRE5g_7BR.jpg" width="600" alt="Auftritt eines getigerten schwarzen Panthers">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7643)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2079240875234742401) | **Published:** Jul 20, 2026
+
+---
+### Der orangefarbene Katzenkönig und die Hunde
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein surrealer Prompt, der eine orangefarbene Katze als obersten Herrscher in einem Reich darstellt, in dem Hunde Katzen verehren.
+
+#### 📝 Prompt
+
+```
+Der orangefarbene 🍊 Mann herrscht über seine Untertanen 👑 Diese Katze driftet in ein anderes Reich ab, in dem Katzen als höchste Wesen verehrt und von den dort lebenden Hunden auf ein Podest gestellt werden.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079205626157150208/img/IHgWx_xcC5Fb4FZ_.jpg" width="600" alt="Der orangefarbene Katzenkönig und die Hunde">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7638)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2079205676518121776) | **Published:** Jul 20, 2026
+
+---
+### Mutiertes Dämonen-Insektennetz
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Dark-Fantasy-Prompt für Grok Imagine, der Dämonen zeigt, die als mutierte fliegende Insekten in einem Netz gefangen sind.
+
+#### 📝 Prompt
+
+```
+Dämonenfliegen gefangen 🕸️🪰
+
+Das Netz fängt Dämonen ein, die auf der Erde als fliegende Insekten mutierten Ursprungs existieren.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079202586146504705/img/Bx8_X3tIykN6vnK2.jpg" width="600" alt="Mutiertes Dämonen-Insektennetz">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7632)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2079202684616298609) | **Published:** Jul 20, 2026
+
+---
+### Spiderwolf-Mensch: Rettung aus dem Fegefeuer
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein cineastischer Video-Prompt, der einen Spiderwolf-Menschen zeigt, wie er mit einem riesigen Netz Seelen aus dem Fegefeuer rettet.
+
+#### 📝 Prompt
+
+```
+Vom Spiderwolf-Menschen aus dem Fegefeuer befreit 🐺🕷️🕸️
+
+Dieses komplexe Netz erstreckt sich über die gesamte Umgebung und wird dazu genutzt, verlorene Seelen einzufangen, die im Fegefeuer feststecken. Auf diese Weise werden sie von ihrem Leiden erlöst.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079202094452559872/img/5u5-VKlEG9iFIEaE.jpg" width="600" alt="Spiderwolf-Mensch: Rettung aus dem Fegefeuer">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7633)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2079202210336887043) | **Published:** Jul 20, 2026
+
+---
+### Dialog im Café
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein narrativer Video-Prompt mit einer Figur namens Eros, die zwei Mädchen Kaffee serviert, inklusive spezifischer Dialoge und Handlungen.
+
+#### 📝 Prompt
+
+```
+Die Mädchen sagen: Guten Morgen, Eros.
+
+Eros sagt: Was darf es heute sein, Mädels… Kaffee?
+
+Die Mädchen antworten: Ja, bitte, sehr gerne.
+
+Zwei Tassen Kaffee erscheinen, als Eros seine Hand über die Bar bewegt. Er fügt hinzu: Genau so, wie ihr ihn mögt… Perfekt.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079142090974343168/img/RghMiGYtRKSXQZLc.jpg" width="600" alt="Dialog im Café">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7629)**
+
+**Author:** [Matt Wilson](https://x.com/MattWilson8178) | **Source:** [Link](https://x.com/MattWilson8178/status/2079142131482898445) | **Published:** Jul 20, 2026
+
+---
+### Hellblaue Gothic-Subkultur-Mode
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Detaillierter Prompt für ein hellblaues „Jirai-kei“-Subkultur-Outfit mit klarer Typografie und beschädigten Strumpfhosen.
+
+#### 📝 Prompt
+
+```
+Hellblaue Jirai-kei-Subkultur-Mode für Mädchen mit feiner Typografie, die das Design verziert, und hellblauen, beschädigten Strumpfhosen. Die Typografie ist klar und enthält Wörter wie „REBORN“, „NOCTURNE“, „VOID“ und „ETHEREAL“. Möchtest du es einmal ausprobieren?
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079125853259374592/img/iYUE3hzJRI9-E4Vy.jpg" width="600" alt="Hellblaue Gothic-Subkultur-Mode">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7648)**
+
+**Author:** [インぺレン！](https://x.com/kou2020) | **Source:** [Link](https://x.com/kou2020/status/2079129559589642332) | **Published:** Jul 20, 2026
+
+---
+### Eingang zum Plejaden-Portal
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Ultra-HD-Videoprompt, der Mitglieder der Galaktischen Föderation zeigt, wie sie mysteriöse Portale betreten und verlassen.
+
+#### 📝 Prompt
+
+```
+Plejader der Galaktischen Föderation in blauen Uniformen und silbernen Stiefeln beim Betreten und Verlassen von Portalen, Meisterwerk, Ultra-HD-Auflösung
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079120835642621952/img/kVz3Ri-l91NiBKrd.jpg" width="600" alt="Eingang zum Plejaden-Portal">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7645)**
+
+**Author:** [Pleiadians Paradise](https://x.com/Octillion111111) | **Source:** [Link](https://x.com/Octillion111111/status/2079120875773640859) | **Published:** Jul 20, 2026
+
+---
+### KI-Clone: Video zur Feier des Weltmeisterschaftssiegs
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein dynamischer 5-Sekunden-Video-Prompt zur Erstellung einer Feierszene, in der eine Person im Trikot der spanischen Nationalmannschaft den Weltmeisterschaftspokal in die Höhe streckt.
+
+#### 📝 Prompt
+
+```
+Verwende das hochgeladene Referenzbild, um einen präzisen, fotorealistischen Clone von mir zu erstellen (gleiches Gesicht, langes, dunkles, welliges Haar). Kleide sie in das rote Trikot und die Hose der spanischen Frauen-Nationalmannschaft. Sie hält den goldenen Weltmeisterschaftspokal, lächelt in die Kamera, während ihr Haar im Wind weht, und hebt ihn dann zur Feier hoch über den Kopf. Außenaufnahme auf einem Spielfeld, Beleuchtung zur goldenen Stunde, dynamisches 5-Sekunden-Video.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079047726331785216/img/xNGg_G3mICcJxWZg.jpg" width="600" alt="KI-Clone: Video zur Feier des Weltmeisterschaftssiegs">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7644)**
+
+**Author:** [Mumtaz K Tejani](https://x.com/MumtazTejani_) | **Source:** [Link](https://x.com/MumtazTejani_/status/2079047739376009414) | **Published:** Jul 20, 2026
+
+---
+### Futuristischer Neon-Metropolenhimmel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Grok Imagine-Prompt für ein Sci-Fi-Video, das ein futuristisches Stadtbild zeigt, in dem der Himmel die Landschaft mit Neonlicht durchflutet.
+
+#### 📝 Prompt
+
+```
+Meowlow 
+
+Der geometrische Himmel verschlingt die Landschaft und verleiht der Welt das Aussehen einer futuristischen Metropole voller Aktivität und Neonbeleuchtung.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079044316547203072/img/rOJ_KyUKUYubPtbE.jpg" width="600" alt="Futuristischer Neon-Metropolenhimmel">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7631)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2079044348189012285) | **Published:** Jul 20, 2026
+
+---
+### Anime-OP-Stil Tanzanimation
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ein detaillierter Animations-Prompt zur Erstellung eines rasanten Tanzes im japanischen Anime-Opening-Stil, mit Fokus auf präzise Handbewegungen, Cell-Shading-Ästhetik und Charakterkonsistenz.
+
+#### 📝 Prompt
+
+```
+Priorisieren Sie die Analyse der Charakterinformationen aus dem Referenzbild und extrahieren sowie bewahren Sie Merkmale wie Gesichtszüge, Frisur, Haarfarbe, Augen, Haut, Kleidung, Accessoires, Körpertyp, Farbschema und Atmosphäre. Anstatt einer bloßen visuellen Reproduktion, erweitern Sie die extrahierten Farben, Texturen und das Ambiente auf Text, Beleuchtung, Handbewegungsbahnen, Hintergründe, Kameraführung und Impact-Frames.
+
+Ein heller, rasanter Tanz im Stil eines japanischen Metaverse-Anime-Openings. Der Charakter schaut nach vorne und führt synchron zu einem leichten Rhythmus eine Reihe von Bewegungen in schneller Abfolge aus: beide Hände an die Seiten des Gesichts heben -> eine Hand diagonal nach oben strecken -> die andere Hand auf die Hüfte legen -> kleine Schritte nach links und rechts -> beide Arme schnell vor der Brust kreuzen -> beide Hände weit nach außen öffnen -> den Körper diagonal neigen und dabei ein Bein leicht anheben -> abwechselnd mit den Zeigefingern nach links und rechts zeigen -> beide Hände leicht neben den Wangen schütteln. Beide Füße bleiben auf dem Boden.
+
+Die Bewegungen sollten nicht zu groß, sondern fein und schnell sein, leicht komisch und niedlich. Zeigen Sie die Posen der Arme, Handgelenke und Fingerspitzen deutlich. Konzentrieren Sie sich auf die Choreografie des Oberkörpers und der Hände anstatt auf intensives Hüftschwingen. Fügen Sie kurzzeitige Standposen ein, gefolgt von schnellen Übergängen zu anderen Posen. Der Ausdruck ist energiegeladen und fröhlich. Die Kamera sollte im Grunde eine Ganzkörperaufnahme von vorne sein. Stil: Japanischer Vollfarb-Anime, TV-Anime-Stil, Cell-Shading, flache Farbgebung, glatte Linien und Füllungen sowie ein flotter Schnitt wie bei einem Anime-OP.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079003712157257728/img/IhSys2EIK_9tPMix.jpg" width="600" alt="Anime-OP-Stil Tanzanimation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7647)**
+
+**Author:** [咲山(AIイラスト・AI動画垢)](https://x.com/z933TfmXkaISSVc) | **Source:** [Link](https://x.com/z933TfmXkaISSVc/status/2079003739403558990) | **Published:** Jul 20, 2026
+
+---
+### Schwerkrafttrotzende Flüchtige
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein cineastischer Prompt über Flüchtige, die mithilfe von schwerkrafttrotzender Technologie der Gefangennahme und der Justiz entkommen.
+
+#### 📝 Prompt
+
+```
+Einfallsreiche Flüchtige: Die einfallsreichen Flüchtigen haben einen Weg gefunden, der Schwerkraft zu trotzen und der Justiz erneut zu entkommen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079000413630541824/img/xwSLacUEqnWnJWAJ.jpg" width="600" alt="Schwerkrafttrotzende Flüchtige">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7636)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2079000450880151570) | **Published:** Jul 20, 2026
+
+---
+### Präsentation für einen futuristischen Roboter-Wettbewerb
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Animations-Prompt, der einen Roboter anweist, seine Funktionen zu präsentieren, sich umzudrehen und am Ende zu springen.
+
+#### 📝 Prompt
+
+```
+Animieren Sie diesen Roboter so, als würde er seine gesamten Funktionen für einen futuristischen Roboter-Wettbewerb präsentieren. Lassen Sie ihn sich umdrehen und am Ende springen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078999735789051904/img/B-JweGDNARuBZDdn.jpg" width="600" alt="Präsentation für einen futuristischen Roboter-Wettbewerb">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7634)**
+
+**Author:** [Mr. Savistarz](https://x.com/AryehKatz) | **Source:** [Link](https://x.com/AryehKatz/status/2078999784115855538) | **Published:** Jul 20, 2026
+
+---
 ### Happy Birthday singen mit Kerzen
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -418,7 +820,7 @@ Ein großer, verzierter schwarzer Rahmen hängt an einer dunklen Schlafzimmerwan
 Extremes Nahaufnahme-Porträt einer Elfenfrau mit sehr blasser, sommersprossiger und staubiger Haut, spitzen Elfenohren, sie trägt eine verzierte, geschwärzte Goldkrone mit gotischem Filigran und dunklen Juwelen auf dem Kopf, langes, fließendes weißes Haar teilweise sichtbar, ein sehr großer und detaillierter Nachtfalter mit komplex gemusterten Flügeln bedeckt und verdeckt vollständig ihre beiden Augen, der Körper und die ausgebreiteten Flügel des Falters verbergen den Augenbereich komplett, dramatische Low-Key-Kinobeleuchtung mit starkem Streiflicht, das Texturen und Staubpartikel auf der Haut hervorhebt, gedämpfte, entsättigte Farbpalette mit Dominanz von Gold und Schwarz, Dark-Fantasy-Atmosphäre, hyperrealistisch, hyperdetailliert, filmisch, stimmungsvoll.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1784448567940_z5jw75_HNXvRqjXgAAJLzb.jpg" width="600" alt="Cinematic Dark Fantasy Elfen-Porträt">
+<img src="https://cms-assets.youmind.com/media/1784621990255_o1g34n_HNXvRqjXgAAJLzb.jpg" width="600" alt="Cinematic Dark Fantasy Elfen-Porträt">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7522)**
 
@@ -1768,395 +2170,6 @@ Verwenden Sie diese beiden und entwickeln Sie sie dezent weiter, wobei Sie das r
 **Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2076701448125956453) | **Published:** Jul 13, 2026
 
 ---
-### Musikalischer Nahaufnahme-Video-Prompt
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein komplexer Video-Prompt für eine musikalische Nahaufnahme mit fliegenden Regenbögen, Diamanten und Sanddünen.
-
-#### 📝 Prompt
-
-```
-Nahaufnahme des Gesichts aus dem aktuellen Bild. Die Singstimme ist hell und leicht. Singe „Thank you God, everyone“ zu den Noten Do-Re-Mi-Fa-So-La-Ti-Do. Begleitet von Synthesizern und Becken. Rote, weiße und gelbe Blütenblätter, Licht, Diamanten, Sterne und Regenbögen fliegen nach oben. Sie verteilen sich zu einer Herzform, bilden einen Kreis und zerstreuen sich. Im Hintergrund Goldstaub-Dünen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076657383426899969/img/G5TKsH7qVIKXRLGf.jpg" width="600" alt="Musikalischer Nahaufnahme-Video-Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7234)**
-
-**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2076657496966799813) | **Published:** Jul 13, 2026
-
----
-### Prompt für Tanz im Blumenfeld im roten Kleid
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein magischer Video-Prompt: Eine Frau im roten Kleid tanzt in einem sonnendurchfluteten Blumenfeld, umgeben von funkelnden Sternen und Regenbogenmagie.
-
-#### 📝 Prompt
-
-```
-Sie trägt ein rotes Kleid unter einer hellen Sonne. In einem Feld aus rosa und weißen Blumen. Blütenblätter, Licht, Herzen, Regenbögen, Träume und die Magie der Liebe tanzen umher. Funkelnde goldene, gelbe und weiße Sterne führen von den Dünen dort drüben bis zu meinen Füßen. Ich lache glücklich beim Tanzen. Danke Gott, danke an alle.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076653330206748672/img/1cHBxBZZMd-TPARR.jpg" width="600" alt="Prompt für Tanz im Blumenfeld im roten Kleid">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7235)**
-
-**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2076653402982150482) | **Published:** Jul 13, 2026
-
----
-### Gelassener Engel mit holografischen Schmetterlingen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein kinoreifer Video-Prompt, der einen friedlichen Engel in Spitze beschreibt, umgeben von leuchtendem Licht und schimmernden holografischen Schmetterlingen.
-
-#### 📝 Prompt
-
-```
-Ein gelassener Engel, gehüllt in zarte Spitze und sanftes, leuchtendes Licht, umgeben von schimmernden, weißen holografischen Schmetterlingen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076622231497830400/img/f58E7-h-BL7DluK3.jpg" width="600" alt="Gelassener Engel mit holografischen Schmetterlingen">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7229)**
-
-**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2076622295674786092) | **Published:** Jul 13, 2026
-
----
-### Magischer Bühnen-Tanz-Video-Prompt
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein lebendiger Video-Prompt, der eine Tänzerin in einem floralen Spitzenkleid auf einer magischen Bühne voller fliegender Herzen, Edelsteine und Schlösser zeigt.
-
-#### 📝 Prompt
-
-```
-Tanz in einem hellblau-weißen, floralen Spitzenkleid mit Laternenärmeln auf einer Bühne voller roter, rosafarbener und goldener Blumen unter Scheinwerfern. Herzen, Edelsteine und Blütenblätter fliegen durch die Luft, während ein Schloss und eine Kutsche die Bühne umgeben.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076567103382138880/img/SqAehBZQ2L_VY_Cf.jpg" width="600" alt="Magischer Bühnen-Tanz-Video-Prompt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7233)**
-
-**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2076567161599107173) | **Published:** Jul 13, 2026
-
----
-### Aufgeregtes Pferd auf dem Weg zum Mars
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein spielerischer Prompt für eine Erzählung über ein Pferd, das sich auf die Reise zum Mars freut.
-
-#### 📝 Prompt
-
-```
-Dieses Pferd möchte auch zum Mars und spielt völlig verrückt, weil es ein wenig aufgeregt ist
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076507612955267072/img/vdWqQrcQ8KXVo88X.jpg" width="600" alt="Aufgeregtes Pferd auf dem Weg zum Mars">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7227)**
-
-**Author:** [loving X@ Cheryl](https://x.com/Corr1444) | **Source:** [Link](https://x.com/Corr1444/status/2076507665174294972) | **Published:** Jul 13, 2026
-
----
-### Grokius Maximus Billboard-Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für ein Video, das einen Charakter auf einer farbenfrohen Werbetafel zeigt, der sich bewegt und umblickt.
-
-#### 📝 Prompt
-
-```
-Die Grokius Maximus auf der farbenfrohen Werbetafel dreht langsam ihren Kopf, um nach rechts zu schauen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076504195998593024/img/QmFwfdViwQdM6-1-.jpg" width="600" alt="Grokius Maximus Billboard-Animation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7222)**
-
-**Author:** [INDUSTRIUM](https://x.com/INDUSTRIUM_AI) | **Source:** [Link](https://x.com/INDUSTRIUM_AI/status/2076504263023640817) | **Published:** Jul 13, 2026
-
----
-### Professionelles Business-Meeting im Designer-Anzug
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt, der eine Frau in einem luxuriösen Designer-Business-Anzug bei einem professionellen Meeting beschreibt.
-
-#### 📝 Prompt
-
-```
-Die Frau trägt einen auffälligen Designer-Business-Anzug in Rot und Violett – ein maßgeschneiderter Blazer mit Rock oder Hose in elegantem Color-Blocking, gefertigt aus luxuriösem Stoff mit professionellem Finish. Sie leitet ein Business-Meeting.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076468658067357696/img/Ub3Idibtvx_a28-U.jpg" width="600" alt="Professionelles Business-Meeting im Designer-Anzug">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7226)**
-
-**Author:** [Diane Thomas Joy](https://x.com/Thoma31928Joy) | **Source:** [Link](https://x.com/Thoma31928Joy/status/2076468713071468890) | **Published:** Jul 13, 2026
-
----
-### Bibliothek der vergessenen Träume
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eine ätherische und magische Bibliotheksszene, in der vergessene Träume in leuchtenden Kristallbüchern bewahrt werden.
-
-#### 📝 Prompt
-
-```
-Eine unendliche Bibliothek bewahrt jeden Traum, den die Menschheit vergessen hat. Sie leuchten sanft in Kristallbüchern und warten darauf, jemanden erneut zu inspirieren.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073669518388334592/img/OxWSXP4uE0UQvKus.jpg" width="600" alt="Bibliothek der vergessenen Träume">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7171)**
-
-**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2076454307344379943) | **Published:** Jul 12, 2026
-
----
-### Live-Action Inosuke Kampfszene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein cineastischer Prompt, der darauf ausgelegt ist, eine Live-Action-Version von Inosuke aus Demon Slayer bei dynamischen Kampfbewegungen in einer Waldumgebung zu erstellen.
-
-#### 📝 Prompt
-
-```
-Mit voller Geschwindigkeit durch den Wald stürmen, in einen rotierenden Salto abspringen und einen heftigen Finishing-Schlag mit zwei Klingen entfesseln. Eine cineastische Live-Action-KI-Nachbildung, inspiriert von einem legendären Bestienkrieger.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076437314323218432/img/aZJsw2d6HSAdorLc.jpg" width="600" alt="Live-Action Inosuke Kampfszene">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7164)**
-
-**Author:** [猫神MT](https://x.com/nekogami_MT) | **Source:** [Link](https://x.com/nekogami_MT/status/2076437370086527139) | **Published:** Jul 12, 2026
-
----
-### Raumschiff-Konzert-Moshpit
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eine fantasievolle Sci-Fi-Szene mit einem Alien und einer blonden Frau bei einem lauten Raumschiff-Konzert mit Feuerwerk.
-
-#### 📝 Prompt
-
-```
-Ein großer blauer Alien und eine wunderschöne Frau mit langem, welligem blonden Haar in Zöpfen, Diamantohrringen, einer Diamantkette und einem schwarzen Catsuit befinden sich im Moshpit bei einem lauten Konzert mit Feuerwerk auf dem Hauptdeck des Raumschiffs
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076434901243486208/img/fx8rIBSkXwZuHgwX.jpg" width="600" alt="Raumschiff-Konzert-Moshpit">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7170)**
-
-**Author:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **Source:** [Link](https://x.com/blarneytrades/status/2076435045926031796) | **Published:** Jul 12, 2026
-
----
-### Meisterwerk-Video: Frau am Klavier
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochdetaillierter cineastischer Prompt für ein Video, das eine Frau in einem purpurroten Gewand zeigt, die in antiken Ruinen Klavier spielt.
-
-#### 📝 Prompt
-
-```
-Fotorealistisches Meisterwerk, ultra-detailliertes hochauflösendes Foto einer Frau von hinten, die auf einer schwarzen Klavierbank vor einem klassischen schwarzen Flügel mit vollständig geöffnetem Deckel sitzt. Sie hat extrem langes, seidig glattes, platinweißes Haar, das bis zum unteren Rücken reicht und über die Stufen fließt, wobei einzelne Haarsträhnen sichtbar sind. Sie trägt ein luxuriöses, voluminöses, tief purpurrotes fließendes Gewand mit reicher, realistischer Stofftextur, weichen natürlichen Falten, Knitterungen und Drapierungen, die dramatisch die Treppe hinunterfallen.
-
-Extrem detaillierte antike Steintreppe: breite, verwitterte, unebene Steinstufen mit komplexer Oberflächenstruktur, sichtbaren Rissen, Absplitterungen, Moos in den Fugen, feinem Flechtenbewuchs, abgenutzten Kanten durch das Alter, realistisches Steinmaterial mit variierenden grau-beigen Tönen und Feuchtigkeitsspuren. Massive, hohe klassische Steinsäulen und Ruinen auf beiden Seiten: hochdetaillierte, verzierte Kapitelle im korinthischen Stil, kannelierte Säulen mit realistischer Erosion, Rissen, abgeplatztem Stein, feinem Moos und Verwitterung, die auf der Steinplattform stehen.
-
-Dichter, dunkler, nebliger Wald im nebligen Hintergrund. Stimmungsvolle atmosphärische bewölkte Beleuchtung mit weichem, diffusem natürlichem Licht, sanftem volumetrischem Nebel, cineastischem Color Grading mit kühlen Tönen und starkem roten Kontrast.
-
-Hyperrealistische Details: einzelne Haarsträhnen, realistische Haut am Hals, unglaublich detaillierte Stoff- und Steinstrukturen, komplexe Klavierholzmaserung und Metallarbeiten.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076372874206523392/img/LP85iXuk554gqHXB.jpg" width="600" alt="Meisterwerk-Video: Frau am Klavier">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7376)**
-
-**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2076372988182819015) | **Published:** Jul 12, 2026
-
----
-### Perspektive mit Piña Colada am Pool
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein POV-Video-Prompt einer Person, die am Pool ein Getränk hält, mit einem Sonnenbrillen-Filtereffekt.
-
-#### 📝 Prompt
-
-```
-Kamerablick vom Poolrand, Perspektive einer Person, die eine Piña Colada hält, Sonnenbrillen-Filter, der die Szene einfärbt
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076322997862817793/img/9JwN9k9LSY3U0H1x.jpg" width="600" alt="Perspektive mit Piña Colada am Pool">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7169)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2076323062832660878) | **Published:** Jul 12, 2026
-
----
-### Sanfte filmische Porträtbewegung
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochdetaillierter Video-Prompt für ein filmisches Porträt mit subtilen Bewegungen wie wehendem Haar, natürlichem Blinzeln und einem warmen Lächeln.
-
-#### 📝 Prompt
-
-```
-Sanfte filmische Porträtbewegung: Ihr langes blondes Haar weht sanft wie in einer leichten Brise, sie blinzelt natürlich und schenkt ein leichtes, warmes Lächeln, während ihre bernsteinbraunen Augen das diffuse Licht einfangen. Subtile Atmung, geringe Schärfentiefe, elegant und ruhig...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076272285762416640/img/BjJT775QrAAyJIXe.jpg" width="600" alt="Sanfte filmische Porträtbewegung">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7163)**
-
-**Author:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **Source:** [Link](https://x.com/AnnetteHollerWe/status/2076272344570667216) | **Published:** Jul 12, 2026
-
----
-### Dolphin-Dokumentarfilmaufnahmen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Prompt im Stil einer Meeresdokumentation, der einen Delfin zeigt, der im goldenen Sonnenlicht auf ein Ufer zuschwimmt.
-
-#### 📝 Prompt
-
-```
-Ein Delfin schwimmt stetig auf das ferne sandige Ufer zu, sanfte Wellen an der Oberfläche, goldenes Sonnenlicht, ruhiger Ozean, maritime Dokumentarfilmaufnahmen. Guten Morgen. 🐬🦞
-```
-
-<img src="https://cms-assets.youmind.com/media/1783931843539_afa46i_HNBjT3ia0AAGDLy.jpg" width="600" alt="Dolphin-Dokumentarfilmaufnahmen">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7165)**
-
-**Author:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **Source:** [Link](https://x.com/AnnetteHollerWe/status/2076268696474104007) | **Published:** Jul 12, 2026
-
----
-### Atmosphäre eines koreanischen Wohnviertels
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Dieser Prompt erzeugt einen konsistenten filmischen Rundgang durch ein ruhiges koreanisches Wohnviertel mit Fokus auf engen Gassen, niedrigen Häusern und Terrassen.
-
-#### 📝 Prompt
-
-```
-Behalten Sie Identität, Kleidung, Frisur und Erscheinungsbild während des gesamten Videos konsistent bei. Ort: Authentisches koreanisches Wohnviertel an einem ruhigen Vormittag. Enge Betongassen, niedrige Häuser, kleine Terrassen, Topfpflanzen, Wäsche
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076204329359331328/img/u0JkrxwIap0pblAd.jpg" width="600" alt="Atmosphäre eines koreanischen Wohnviertels">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7166)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2076204407729824032) | **Published:** Jul 12, 2026
-
----
-### Nächtliche Landschaft mit Rosenblättern
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Prompt für eine mondbeschienene Nachtszene mit Kiefern, Glühwürmchen und herabfallenden Rosenblättern.
-
-#### 📝 Prompt
-
-```
-Vollmond Wolken Kiefern Glühwürmchen grasbewachsene Fläche
-Füge vom Himmel herabfallende rosa und rote Rosenblätter hinzu
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076181751546978304/img/Godn6f1Q8X0t4h1O.jpg" width="600" alt="Nächtliche Landschaft mit Rosenblättern">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7167)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2076181829221286088) | **Published:** Jul 12, 2026
-
----
-### Lebensechte Katzenanimation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Animations-Prompt für eine fotorealistische getigerte Katze mit subtilen Bewegungen wie Atmen und Blinzeln.
-
-#### 📝 Prompt
-
-```
-Subtile, lebensechte Animation: Die getigerte Katze atmet sanft mit leichtem Heben des Brustkorbs, die Ohren zucken einmal, die grünen Augen blinzeln langsam, die Schnurrhaare beben leicht, die Schwanzspitze schwingt sanft. Die Kamera bleibt in einer stabilen niedrigen Perspektive. Natürliches Tageslicht, fotorealistisch.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076144050173034496/img/q6lkJuEh0K8BtFI6.jpg" width="600" alt="Lebensechte Katzenanimation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7168)**
-
-**Author:** [Sangcjeol Lee](https://x.com/sangcjeol) | **Source:** [Link](https://x.com/sangcjeol/status/2076144105319706898) | **Published:** Jul 12, 2026
-
----
-### Wohnraum in Weltraumkolonien
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Science-Fiction-Video-Prompt, der die überfüllte und industrielle Realität früher Weltraumkolonien mit Hydrokultur-Gärten darstellt.
-
-#### 📝 Prompt
-
-```
-Es waren Druckschleusen, Hydrokultur-Gärten, überfüllte Betonunterkünfte, künstliches Licht, recycelte Luft und Menschen, die am Rande des Nirgendwo versuchten, ihr Abendessen zuzubereiten.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076086195482714112/img/Iw0wb0gAEItuwkJV.jpg" width="600" alt="Wohnraum in Weltraumkolonien">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7128)**
-
-**Author:** [Sherice](https://x.com/Sherice0799) | **Source:** [Link](https://x.com/Sherice0799/status/2076086295336489166) | **Published:** Jul 11, 2026
-
----
-### Blonde Frau beim Strandspaziergang vor dem Tauchgang
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Strand-Prompt, der eine Frau beschreibt, die am Strand entlanggeht und sich auf ein Tauchabenteuer im Ozean vorbereitet.
-
-#### 📝 Prompt
-
-```
-Eine wunderschöne Blondine am Strand, die sich auf den Sprung ins Wasser vorbereitet, um mit den Meeresbewohnern und Nemo zu schwimmen, während sie ihre Tauchausrüstung anlegt und in den Ozean geht.
-
-Eine wunderschöne Blondine, die den Strand entlanggeht und sich auf das Gerätetauchen vorbereitet.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076057170081415168/img/NKhvJlct2cdM6zzK.jpg" width="600" alt="Blonde Frau beim Strandspaziergang vor dem Tauchgang">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7121)**
-
-**Author:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **Source:** [Link](https://x.com/AnnetteHollerWe/status/2076057254605009386) | **Published:** Jul 11, 2026
-
----
-### Wikinger-Schildmaid am Waldeingang
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Prompt für eine Wikinger-Schildmaid mit geflochtenem weißem Haar, die aus einem Wald tritt, um Stellung zu beziehen.
-
-#### 📝 Prompt
-
-```
-Eine Wikinger-Schildmaid mit geflochtenem weißem Haar, die aus dem Wald tritt und Stellung bezieht
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076056920826216448/img/w1fIASmvMPd0ZUy9.jpg" width="600" alt="Wikinger-Schildmaid am Waldeingang">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7124)**
-
-**Author:** [Rebecca Clark](https://x.com/clark_rebe76017) | **Source:** [Link](https://x.com/clark_rebe76017/status/2076056974483915213) | **Published:** Jul 11, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2218,6 +2231,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-21T06:55:05.335Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-21T10:50:27.383Z</sub>
 
 </div>

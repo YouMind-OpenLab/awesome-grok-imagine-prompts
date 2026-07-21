@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **2184** |
+| 📝 提示詞總數 | **2204** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-07-21** |
 
@@ -189,6 +189,408 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 史詩級阿基里斯特洛伊戰爭影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一份專業級的電影感影片提示詞，用於生成阿基里斯在特洛伊戰爭中的場景，包含攝影機運鏡、音效設計及燈光說明。
+
+#### 📝 提示詞
+
+```
+黎明時分，身穿閃亮青銅盔甲的阿基里斯在煙霧繚繞的特洛伊戰場上衝鋒的戲劇性廣角鏡頭，高舉長劍，表情充滿激烈的戰鬥怒吼，背景為倒下的戰士與燃燒的箭矢，呈現出宏大的史詩規模，遠處可見高聳的木馬剪影，電影級體積光穿透塵埃與血霧，呈現超細膩的金屬反射與布料撕裂感，完美融合 Greg Rutkowski 的奇幻細節、Villeneuve 的史詩構圖與 Deakins 的燈光大師風格，8K IMAX 電影質感。身穿閃亮青銅盔甲的阿基里斯在混沌且煙霧瀰漫的特洛伊戰場上，伴隨強力的揮劍動作與戰吼向前衝鋒，緩慢的戲劇性跟拍鏡頭從廣角推進至英雄特寫，並結合飛箭與旋轉塵埃的視差效果，盔甲碰撞與地面衝擊的物理細節完美呈現，內建同步的深沉戰士對話「為了特洛伊！」以及粗獷的戰鬥音效（金屬碰撞聲、戰吼、火焰呼嘯聲）與澎湃的管弦樂配樂，金色黎明的體積光與電影級輪廓光，融合 Rutkowski / Villeneuve / Deakins 風格，完美流暢的 24fps 15 秒連續動態，具備病毒式預告片能量的超細膩 8K 傑作。
+```
+
+<img src="https://cms-assets.youmind.com/media/1784621994095_n65q56_HNu02XKXUAAkc2V.jpg" width="600" alt="史詩級阿基里斯特洛伊戰爭影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7646)**
+
+**作者:** [SophieZX](https://x.com/Z_XSophie) | **來源:** [Link](https://x.com/Z_XSophie/status/2079454701368545290) | **發布時間:** Jul 21, 2026
+
+---
+### 東亞時尚人像動畫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個高細節的影片提示詞，用於生成一位留著黑色長髮、身穿寬鬆藍色 T 恤的年輕東亞女性的寫實時尚人像。
+
+#### 📝 提示詞
+
+```
+一位美麗的年輕東亞女性的寫實時尚人像，留著黑色直長髮，隨意地坐在黑色椅子上。她戴著黑色橢圓形太陽眼鏡，化著淡妝，塗著亮面粉紅色嘴唇，戴著一條刻有「Ani」字樣的精緻銀色項鍊。她身穿一件寬鬆的石板藍色 T 恤，胸前印有黑色文字，搭配黑色單車短褲，以及繫著大蝴蝶結亮藍色鞋帶的黑白運動鞋。她的右手輕觸太陽穴附近的頭髮，左手則握著黑色肩背包的背帶。包包上掛著一個穿著藍色衣服的可愛白色泰迪熊鑰匙圈，以及一個蓬鬆的大型藍色毛球。背景是純色紋理藍牆，牆上用粗體黑色草寫字體寫著「Comeback」。自然日光照明，柔和陰影，真實皮膚紋理，對焦清晰，高細節，Instagram 時尚攝影風格，略低角度全身鏡頭，自信姿勢
+```
+
+<img src="https://cms-assets.youmind.com/media/1784621982635_sglbmo_HNpWATlbYAAFwZw.jpg" width="600" alt="東亞時尚人像動畫">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7642)**
+
+**作者:** [Feyber | AI Creator](https://x.com/woleswoosh) | **來源:** [Link](https://x.com/woleswoosh/status/2079325481053356127) | **發布時間:** Jul 20, 2026
+
+---
+### 曼陀羅章魚墨水噴濺
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段電影級的影片提示詞，描述一隻多眼曼陀羅章魚在鏡頭拉遠時旋轉並噴灑墨水。
+
+#### 📝 提示詞
+
+```
+Octo Pi 👁️ 
+
+場景鏡頭拉遠，顯現出一隻擁有 11 隻眼睛的曼陀羅章魚，牠逆時針旋轉，並從觸手的吸盤中噴出酒紅色與黑色的墨水 🫟。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079320309442695168/img/LQB1lzQZcsGx7TXS.jpg" width="600" alt="曼陀羅章魚墨水噴濺">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7630)**
+
+**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **來源:** [Link](https://x.com/PhilipCarrn7711/status/2079320346281255384) | **發布時間:** Jul 20, 2026
+
+---
+### 外星人鞠躬與太空船動畫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段電影感十足的影片提示詞，描述一名身穿紅色套裝的人類向外星人鞠躬，背景中太空船穿梭而過，外星人則在鼓掌。
+
+#### 📝 提示詞
+
+```
+現在讓那位身穿紅色套裝的人類看起來像是在向外星人鞠躬。背景中的太空船正穿梭而過，而外星人們正在鼓掌。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079294854610165760/img/cGrQU8eVfSnd4vJW.jpg" width="600" alt="外星人鞠躬與太空船動畫">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7639)**
+
+**作者:** [Mr. Savistarz](https://x.com/AryehKatz) | **來源:** [Link](https://x.com/AryehKatz/status/2079294886356889866) | **發布時間:** Jul 20, 2026
+
+---
+### 翼龍與仙子的派對
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個充滿混亂與魔力的影片提示詞：翼龍闖入了派對，最後由仙子們使用魔法粉塵將其擺平。
+
+#### 📝 提示詞
+
+```
+灑落粉塵
+
+翼龍俯衝而下，闖入了派對。🎈 它們雖然混亂，但仙子們 🧚‍♀️ 用魔法粉塵輕鬆搞定了它們。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079277906010718208/img/pQAxd525mRTlfrYj.jpg" width="600" alt="翼龍與仙子的派對">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7641)**
+
+**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **來源:** [Link](https://x.com/PhilipCarrn7711/status/2079277954324959412) | **發布時間:** Jul 20, 2026
+
+---
+### Kate Greenaway 風格花園水彩畫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個溫馨的水彩風格影片提示詞，描繪了一位女孩在花園中餵鳥的場景。
+
+#### 📝 提示詞
+
+```
+Kate Greenaway 風格，一位穿著藍色罩衫和軟帽的可愛女孩在花園中為鳥兒撒下麵包屑，麻雀與知更鳥環繞在側，細膩的羽毛與葉片紋理，柔和精緻的水彩質感，溫馨的兒童繪本場景。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079274259495505920/img/gtGbBhmF_znZwIxc.jpg" width="600" alt="Kate Greenaway 風格花園水彩畫">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7635)**
+
+**作者:** [Dawn Marie](https://x.com/DedeMoments) | **來源:** [Link](https://x.com/DedeMoments/status/2079274314033996030) | **發布時間:** Jul 20, 2026
+
+---
+### 船夫比特幣渡河
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個概念性影片提示，描繪了一位神話中的船夫收到一枚比特幣作為前往另一個領域的渡河費用。
+
+#### 📝 提示詞
+
+```
+在前往另一個領域的船夫願景中，讓他收到一枚比特幣作為渡河費用。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079267766364712960/img/NN8jvuCWSUYl9z7Y.jpg" width="600" alt="船夫比特幣渡河">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7640)**
+
+**作者:** [Sats Nakamondo](https://x.com/shroudspeeders) | **來源:** [Link](https://x.com/shroudspeeders/status/2079267780814090567) | **發布時間:** Jul 20, 2026
+
+---
+### 水桶裡的小龍
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個精緻的奇幻影片提示詞，描述了色彩繽紛的小龍在水桶中與蝴蝶和蜂鳥嬉戲的場景。
+
+#### 📝 提示詞
+
+```
+加入蝴蝶、蜻蜓、蜜蜂、蜂鳥。在鏟子旁放置一個金屬水桶。加入兩隻並肩行走的小龍，一隻為紅色帶有黃橙色條紋，另一隻為藍色且帶有閃爍光澤。小龍在水桶中跳躍。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079250071053582336/img/usApoo9fvygIGxyS.jpg" width="600" alt="水桶裡的小龍">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7637)**
+
+**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2079250137071894916) | **發布時間:** Jul 20, 2026
+
+---
+### 虎紋黑豹登場
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個關於稀有混種大型貓科動物登場的影片生成提示詞。
+
+#### 📝 提示詞
+
+```
+虎紋黑豹 
+
+一隻帶有白虎條紋的黑豹進入畫面。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079240828749246464/img/7e7dJ0qyRE5g_7BR.jpg" width="600" alt="虎紋黑豹登場">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7643)**
+
+**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **來源:** [Link](https://x.com/PhilipCarrn7711/status/2079240875234742401) | **發布時間:** Jul 20, 2026
+
+---
+### 橘貓國王與狗
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個超現實的提示詞，描繪了一隻橘貓作為至高無上的統治者，在一個狗崇拜貓的國度裡的情景。
+
+#### 📝 提示詞
+
+```
+橘色 🍊 男子統治著他的臣民 👑 這隻貓漂流到另一個國度，在那裡貓被視為至高無上的存在，並被居住於此的犬類奉為神明。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079205626157150208/img/IHgWx_xcC5Fb4FZ_.jpg" width="600" alt="橘貓國王與狗">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7638)**
+
+**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **來源:** [Link](https://x.com/PhilipCarrn7711/status/2079205676518121776) | **發布時間:** Jul 20, 2026
+
+---
+### 變異惡魔昆蟲網
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個為 Grok Imagine 設計的暗黑奇幻提示詞，描繪了被困在網中、化身為變異飛蟲的惡魔。
+
+#### 📝 提示詞
+
+```
+被捕獲的惡魔飛蟲 🕸️🪰
+
+這張網捕捉了那些以變異飛蟲形態存在於地球上的惡魔。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079202586146504705/img/Bx8_X3tIykN6vnK2.jpg" width="600" alt="變異惡魔昆蟲網">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7632)**
+
+**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **來源:** [Link](https://x.com/PhilipCarrn7711/status/2079202684616298609) | **發布時間:** Jul 20, 2026
+
+---
+### 蜘蛛狼人煉獄救援
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段電影級的影片提示詞，描繪蜘蛛狼人使用巨大的網從煉獄中拯救靈魂。
+
+#### 📝 提示詞
+
+```
+由蜘蛛狼人從煉獄中解放 🐺🕷️🕸️
+
+這張錯綜複雜的網覆蓋了整個環境，用於捕捉困在煉獄中的迷失靈魂，隨後將他們從苦難中解救出來。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079202094452559872/img/5u5-VKlEG9iFIEaE.jpg" width="600" alt="蜘蛛狼人煉獄救援">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7633)**
+
+**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **來源:** [Link](https://x.com/PhilipCarrn7711/status/2079202210336887043) | **發布時間:** Jul 20, 2026
+
+---
+### 咖啡廳互動對話
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段敘事影片提示詞，描述名為 Eros 的角色為兩位女孩準備咖啡的場景，包含具體的對話與動作。
+
+#### 📝 提示詞
+
+```
+女孩們說：早安，Eros。
+
+Eros 說：女孩們，今天想喝點什麼……咖啡嗎？
+
+女孩們回答：是的，麻煩了。
+
+當 Eros 在吧台上方揮手時，兩杯咖啡隨之出現。他接著說：正是你們喜歡的口味……完美。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079142090974343168/img/RghMiGYtRKSXQZLc.jpg" width="600" alt="咖啡廳互動對話">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7629)**
+
+**作者:** [Matt Wilson](https://x.com/MattWilson8178) | **來源:** [Link](https://x.com/MattWilson8178/status/2079142131482898445) | **發布時間:** Jul 20, 2026
+
+---
+### 淺藍色地雷系次文化時尚
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 關於淺藍色「地雷系」次文化穿搭的詳細提示詞，包含清晰的排版與破損絲襪設計。
+
+#### 📝 提示詞
+
+```
+淺藍色地雷系女孩次文化時尚，設計中點綴著精緻的排版，搭配淺藍色破損絲襪。排版清晰可見「REBORN」、「NOCTURNE」、「VOID」與「ETHEREAL」等字樣。想嘗試穿穿看嗎？
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079125853259374592/img/iYUE3hzJRI9-E4Vy.jpg" width="600" alt="淺藍色地雷系次文化時尚">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7648)**
+
+**作者:** [インぺレン！](https://x.com/kou2020) | **來源:** [Link](https://x.com/kou2020/status/2079129559589642332) | **發布時間:** Jul 20, 2026
+
+---
+### 昴宿星門戶入口
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段超高畫質影片提示詞，展示銀河聯邦成員進出神秘門戶的畫面。
+
+#### 📝 提示詞
+
+```
+身穿藍色制服與銀色靴子的昴宿星銀河聯邦成員進出門戶，傑作，超高畫質解析度
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079120835642621952/img/kVz3Ri-l91NiBKrd.jpg" width="600" alt="昴宿星門戶入口">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7645)**
+
+**作者:** [Pleiadians Paradise](https://x.com/Octillion111111) | **來源:** [Link](https://x.com/Octillion111111/status/2079120875773640859) | **發布時間:** Jul 20, 2026
+
+---
+### AI Clone 世界盃奪冠慶祝影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個 5 秒的動態影片提示詞，用於生成一位身穿西班牙國家隊球衣的人舉起世界盃獎盃的慶祝場景。
+
+#### 📝 提示詞
+
+```
+使用上傳的參考圖片，製作一個精確且逼真的 AI Clone（相同的臉部特徵，留著深色長捲髮）。讓她穿上西班牙女子國家隊的紅色球衣與球褲。她手持金色世界盃獎盃，對著鏡頭微笑，頭髮在風中飄動，隨後將獎盃高舉過頭慶祝。戶外球場，黃金時刻光影，5 秒動態影片。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079047726331785216/img/xNGg_G3mICcJxWZg.jpg" width="600" alt="AI Clone 世界盃奪冠慶祝影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7644)**
+
+**作者:** [Mumtaz K Tejani](https://x.com/MumtazTejani_) | **來源:** [Link](https://x.com/MumtazTejani_/status/2079047739376009414) | **發布時間:** Jul 20, 2026
+
+---
+### 未來感霓虹都會天空
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個用於科幻影片的 Grok Imagine 提示詞，描繪了一個未來城市景觀，天空以霓虹燈光籠罩著整個地景。
+
+#### 📝 提示詞
+
+```
+Meowlow 
+
+幾何形狀的天空籠罩著地景，讓整個世界呈現出一種充滿活力與霓虹燈光的未來感都會面貌。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079044316547203072/img/rOJ_KyUKUYubPtbE.jpg" width="600" alt="未來感霓虹都會天空">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7631)**
+
+**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **來源:** [Link](https://x.com/PhilipCarrn7711/status/2079044348189012285) | **發布時間:** Jul 20, 2026
+
+---
+### 動漫 OP 風格舞蹈動畫
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一份用於生成快節奏日本動漫開場風格舞蹈的詳細動畫提示詞，重點在於精準的手部動作、賽璐珞風格美學以及角色一致性。
+
+#### 📝 提示詞
+
+```
+優先分析參考圖像中的角色資訊，提取並保持臉部特徵、髮型、髮色、眼睛、皮膚、服裝、配件、體型、配色方案及氛圍等特徵。不僅僅是視覺上的重現，更要將提取出的色彩、紋理與氛圍延伸至文字、光影、手部軌跡、背景、運鏡及衝擊幀中。
+
+一段明亮且節奏輕快的日本元宇宙動漫開場風格舞蹈。角色面向前方，配合輕快的節奏，連續進行一系列動作：雙手舉至臉頰兩側 -> 單手向斜上方伸展 -> 另一隻手叉腰 -> 左右小碎步 -> 雙臂快速在胸前交叉 -> 雙手向外大幅張開 -> 身體斜傾並微抬單腳 -> 食指交替指向左右兩側 -> 雙手在臉頰旁輕微晃動。雙腳始終保持著地。
+
+動作幅度不宜過大，需細膩且快速，帶點俏皮可愛感。清晰呈現手臂、手腕及指尖的姿勢。重點在於上半身與手部的編舞，而非激烈的扭腰動作。包含短暫的定格姿勢，隨後快速轉換至不同動作。表情充滿活力且愉悅。鏡頭基本上採用正面的全身鏡頭。風格：日本全彩動漫、TV 動畫風格、賽璐珞風格、平塗上色、流暢的線條與填色，以及如同動漫 OP 般輕快的剪輯。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079003712157257728/img/IhSys2EIK_9tPMix.jpg" width="600" alt="動漫 OP 風格舞蹈動畫">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7647)**
+
+**作者:** [咲山(AIイラスト・AI動画垢)](https://x.com/z933TfmXkaISSVc) | **來源:** [Link](https://x.com/z933TfmXkaISSVc/status/2079003739403558990) | **發布時間:** Jul 20, 2026
+
+---
+### 反重力逃亡者
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個關於逃亡者利用反重力技術躲避追捕與制裁的電影感提示詞。
+
+#### 📝 提示詞
+
+```
+足智多謀的逃亡者們已經掌握了反重力技術，並再次成功逃避了法律的制裁。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079000413630541824/img/xwSLacUEqnWnJWAJ.jpg" width="600" alt="反重力逃亡者">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7636)**
+
+**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **來源:** [Link](https://x.com/PhilipCarrn7711/status/2079000450880151570) | **發布時間:** Jul 20, 2026
+
+---
+### 未來感機器人競賽展示
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個動畫提示詞，指示機器人展示其功能、轉身並在最後跳躍。
+
+#### 📝 提示詞
+
+```
+為這個機器人製作動畫，就像他在為一場未來感機器人競賽展示所有功能一樣。讓他轉身並在最後跳躍。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078999735789051904/img/B-JweGDNARuBZDdn.jpg" width="600" alt="未來感機器人競賽展示">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7634)**
+
+**作者:** [Mr. Savistarz](https://x.com/AryehKatz) | **來源:** [Link](https://x.com/AryehKatz/status/2078999784115855538) | **發布時間:** Jul 20, 2026
+
+---
 ### 唱生日快樂歌並吹熄蠟燭
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -600,7 +1002,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 極致特寫肖像，一位擁有蒼白、佈滿雀斑且帶有塵埃感肌膚的精靈女性，長著尖尖的精靈耳朵，頭戴裝飾華麗的黑金皇冠，皇冠上有哥德式金屬絲工藝與深色寶石，長長的白色秀髮隱約可見。一隻細節豐富、翅膀花紋繁複的大型飛蛾完全遮住了她的雙眼，飛蛾的軀體與展開的雙翼徹底隱藏了眼部區域。採用戲劇性的低調電影燈光，強烈的輪廓光突顯了肌膚的紋理與塵埃微粒。色調為低飽和度的暗色系，以金色與黑色為主導，營造出暗黑奇幻氛圍，超寫實、超細節、電影感、情緒化。
 ```
 
-<img src="https://cms-assets.youmind.com/media/1784448567940_z5jw75_HNXvRqjXgAAJLzb.jpg" width="600" alt="電影感暗黑奇幻精靈肖像">
+<img src="https://cms-assets.youmind.com/media/1784621990255_o1g34n_HNXvRqjXgAAJLzb.jpg" width="600" alt="電影感暗黑奇幻精靈肖像">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7522)**
 
@@ -1950,395 +2352,6 @@ Lila 駕駛著一艘白色小帆船，平穩地航行在平靜的切薩皮克灣
 **作者:** [the_light](https://x.com/the_light35) | **來源:** [Link](https://x.com/the_light35/status/2076701448125956453) | **發布時間:** Jul 13, 2026
 
 ---
-### 音樂人臉特寫影片提示詞
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一個關於音樂表演特寫的複雜影片提示詞，包含飛舞的彩虹、鑽石與沙丘。
-
-#### 📝 提示詞
-
-```
-當前圖像的人臉特寫。歌聲明亮輕快。演唱「Thank you God, everyone」，音階為 Do-Re-Mi-Fa-So-La-Ti-Do。伴奏為合成器與鈸。紅色、白色與黃色的花瓣、光芒、鑽石、星星與彩虹向上飛舞。它們散開成心形、形成圓圈，隨後四散。背景為金色的沙丘。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076657383426899969/img/G5TKsH7qVIKXRLGf.jpg" width="600" alt="音樂人臉特寫影片提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7234)**
-
-**作者:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **來源:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2076657496966799813) | **發布時間:** Jul 13, 2026
-
----
-### 紅裙花海舞動提示詞
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 這是一個充滿魔幻感的影片提示詞，描繪了一位穿著紅裙的女子在陽光普照的花海中翩翩起舞，伴隨著閃爍的星光與彩虹魔法。
-
-#### 📝 提示詞
-
-```
-身穿紅裙，沐浴在明亮的陽光下。置身於一片粉色與白色的花海中。花瓣、光影、愛心、彩虹、夢境以及愛的魔法在四周舞動。閃爍著金色、黃色與白色的星光，從遠處的沙丘一路延伸至我的腳邊。我開心地笑著，盡情舞動。感謝上帝，感謝每一個人。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076653330206748672/img/1cHBxBZZMd-TPARR.jpg" width="600" alt="紅裙花海舞動提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7235)**
-
-**作者:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **來源:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2076653402982150482) | **發布時間:** Jul 13, 2026
-
----
-### 寧靜天使與全息蝴蝶
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段電影級影片提示詞，描述了一位身穿蕾絲、被柔和光芒與閃爍全息蝴蝶環繞的寧靜天使。
-
-#### 📝 提示詞
-
-```
-一位寧靜的天使，身披精緻的蕾絲與柔和的微光，周圍環繞著閃爍的白色全息蝴蝶。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076622231497830400/img/f58E7-h-BL7DluK3.jpg" width="600" alt="寧靜天使與全息蝴蝶">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7229)**
-
-**作者:** [Stella 𝕏](https://x.com/StellaGrokStar) | **來源:** [Link](https://x.com/StellaGrokStar/status/2076622295674786092) | **發布時間:** Jul 13, 2026
-
----
-### 夢幻舞台舞蹈影片提示詞
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 這是一個充滿活力的影片提示詞，描繪了一位身穿花卉蕾絲連身裙的舞者，在充滿愛心、寶石與城堡的夢幻舞台上翩翩起舞。
-
-#### 📝 提示詞
-
-```
-在聚光燈下，一位身穿淺藍白相間花卉蕾絲燈籠袖連身裙的舞者，於佈滿紅、粉、金花朵的舞台上舞動。愛心、寶石與花瓣在空中飛舞，舞台周圍環繞著城堡與馬車。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076567103382138880/img/SqAehBZQ2L_VY_Cf.jpg" width="600" alt="夢幻舞台舞蹈影片提示詞">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7233)**
-
-**作者:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **來源:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2076567161599107173) | **發布時間:** Jul 13, 2026
-
----
-### 興奮的馬兒前往火星
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個關於馬兒因為要去火星而感到興奮的趣味敘事提示詞。
-
-#### 📝 提示詞
-
-```
-這匹馬也想去火星，而且因為太興奮了，所以一直鬧個不停。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076507612955267072/img/vdWqQrcQ8KXVo88X.jpg" width="600" alt="興奮的馬兒前往火星">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7227)**
-
-**作者:** [loving X@ Cheryl](https://x.com/Corr1444) | **來源:** [Link](https://x.com/Corr1444/status/2076507665174294972) | **發布時間:** Jul 13, 2026
-
----
-### Grokius Maximus 專案動畫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段影片提示詞，展示角色在色彩繽紛的專案看板上移動並環顧四周。
-
-#### 📝 提示詞
-
-```
-位於色彩繽紛的專案看板上的 Grokius Maximus 緩慢地轉過頭，看向右側。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076504195998593024/img/QmFwfdViwQdM6-1-.jpg" width="600" alt="Grokius Maximus 專案動畫">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7222)**
-
-**作者:** [INDUSTRIUM](https://x.com/INDUSTRIUM_AI) | **來源:** [Link](https://x.com/INDUSTRIUM_AI/status/2076504263023640817) | **發布時間:** Jul 13, 2026
-
----
-### 專業設計師商務會議套裝
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段描述女性身穿奢華設計師商務套裝主持專業會議的提示詞。
-
-#### 📝 提示詞
-
-```
-這位女性身穿一套引人注目的紅紫色設計師商務套裝——剪裁精緻的西裝外套搭配裙裝或長褲，採用優雅的紫紅色撞色設計，面料奢華，展現出專業氣質。她正在主持一場商務會議。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076468658067357696/img/Ub3Idibtvx_a28-U.jpg" width="600" alt="專業設計師商務會議套裝">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7226)**
-
-**作者:** [Diane Thomas Joy](https://x.com/Thoma31928Joy) | **來源:** [Link](https://x.com/Thoma31928Joy/status/2076468713071468890) | **發布時間:** Jul 13, 2026
-
----
-### 被遺忘的夢境圖書館
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個空靈且充滿魔力的圖書館場景，被遺忘的夢境被保存於發光的晶體書中。
-
-#### 📝 提示詞
-
-```
-一座無盡的圖書館儲存著人類遺忘的每一個夢境。它們在晶體書中散發著柔和的光芒，等待著再次啟發某人。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073669518388334592/img/OxWSXP4uE0UQvKus.jpg" width="600" alt="被遺忘的夢境圖書館">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7171)**
-
-**作者:** [James King](https://x.com/JamesKi97287119) | **來源:** [Link](https://x.com/JamesKi97287119/status/2076454307344379943) | **發布時間:** Jul 12, 2026
-
----
-### 真人版伊之助戰鬥場景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個電影級提示詞，旨在創作《鬼滅之刃》中伊之助在森林場景中展現動態戰鬥招式的真人版影像。
-
-#### 📝 提示詞
-
-```
-在森林中全速衝刺，躍起並完成旋轉空翻，隨後使出猛烈的雙刀終結技。這是一段由 AI 創作、靈感源自傳奇獸之呼吸戰士的電影級真人版影像。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076437314323218432/img/aZJsw2d6HSAdorLc.jpg" width="600" alt="真人版伊之助戰鬥場景">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7164)**
-
-**作者:** [猫神MT](https://x.com/nekogami_MT) | **來源:** [Link](https://x.com/nekogami_MT/status/2076437370086527139) | **發布時間:** Jul 12, 2026
-
----
-### 太空船演唱會衝撞區
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個充滿想像力的科幻場景，描述了一位外星人與一位金髮女性在吵雜的太空船演唱會中，伴隨著煙火的畫面。
-
-#### 📝 提示詞
-
-```
-高大的藍色外星人與一位留著波浪長金髮編織辮子、戴著鑽石耳環與鑽石項鍊、身穿黑色緊身衣的美麗女士，正身處太空船主甲板上吵雜的演唱會衝撞區中，現場還有煙火綻放。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076434901243486208/img/fx8rIBSkXwZuHgwX.jpg" width="600" alt="太空船演唱會衝撞區">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7170)**
-
-**作者:** [Síle Máire Róisín Ní Mathghamhna](https://x.com/blarneytrades) | **來源:** [Link](https://x.com/blarneytrades/status/2076435045926031796) | **發布時間:** Jul 12, 2026
-
----
-### 傑作鋼琴女子影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個高度細緻的電影級影片提示詞，描繪了一位身穿深紅色長袍的女子在古代廢墟中彈奏鋼琴的場景。
-
-#### 📝 提示詞
-
-```
-照片級寫實傑作，超高解析度細節照片，拍攝一位背對鏡頭的女子，她坐在黑色鋼琴凳上，面前是一架琴蓋完全掀開的經典黑色平台鋼琴。她擁有一頭極長、如絲般柔順的白金長髮，垂落至下背部並散落在台階上，每一根髮絲清晰可見。她身穿一件奢華、寬大且飄逸的深紅色長袍，布料質感豐富寫實，柔和自然的褶皺與垂墜感戲劇性地傾瀉在樓梯上。
-
-極其細緻的古代石階：寬闊、風化且凹凸不平的石階，表面紋理複雜，可見裂縫、缺口、縫隙中生長的苔蘚、細微的地衣，以及因歲月磨損的邊緣，呈現出帶有灰米色調與濕氣痕跡的寫實石材質感。兩側矗立著巨大高聳的古典石柱與廢墟：高度細緻且裝飾華麗的科林斯式柱頭，帶有真實侵蝕痕跡、裂縫與缺口的凹槽柱身，以及細微的苔蘚與風化感，矗立在石造平台上。
-
-背景為濃霧繚繞的陰暗森林。充滿情緒的陰天氛圍光，柔和的漫射自然光，輕柔的體積霧，電影級調色，呈現冷色調與強烈的紅色對比。
-
-超寫實細節：清晰的髮絲、頸部真實的肌膚質感、極致細膩的布料與石材紋理、精緻的鋼琴木紋與金屬工藝。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076372874206523392/img/LP85iXuk554gqHXB.jpg" width="600" alt="傑作鋼琴女子影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7376)**
-
-**作者:** [Myluna](https://x.com/monicamoonx) | **來源:** [Link](https://x.com/monicamoonx/status/2076372988182819015) | **發布時間:** Jul 12, 2026
-
----
-### 池畔鳳梨可樂達視角
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段第一人稱視角的影片提示詞，呈現某人手持飲品在池畔，並帶有太陽眼鏡濾鏡效果。
-
-#### 📝 提示詞
-
-```
-從池畔拍攝的攝影機視角，模擬手持鳳梨可樂達的人的視角，場景帶有太陽眼鏡的濾鏡色調
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076322997862817793/img/9JwN9k9LSY3U0H1x.jpg" width="600" alt="池畔鳳梨可樂達視角">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7169)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2076323062832660878) | **發布時間:** Jul 12, 2026
-
----
-### 柔和電影感人像動態
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個高度細緻的影片提示詞，用於創作具有細微動作（如髮絲飄動、自然眨眼及溫暖微笑）的電影感人像。
-
-#### 📝 提示詞
-
-```
-柔和電影感人像動態：她金色的長髮在微風中輕輕飄動，她自然地眨眼並露出溫暖的淺笑，琥珀色的雙眸捕捉著漫射光。細微的呼吸感，淺景深效果，優雅而寧靜...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076272285762416640/img/BjJT775QrAAyJIXe.jpg" width="600" alt="柔和電影感人像動態">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7163)**
-
-**作者:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **來源:** [Link](https://x.com/AnnetteHollerWe/status/2076272344570667216) | **發布時間:** Jul 12, 2026
-
----
-### 海豚海洋紀錄片素材
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段海洋紀錄片風格的影片提示詞，呈現海豚在金色陽光下向岸邊游去的畫面。
-
-#### 📝 提示詞
-
-```
-海豚穩定地向前游向遠方的沙岸，水面泛起輕柔的漣漪，金色陽光灑落，平靜的海洋，海洋紀錄片素材。美好的一天從現在開始。 🐬🦞
-```
-
-<img src="https://cms-assets.youmind.com/media/1783931843539_afa46i_HNBjT3ia0AAGDLy.jpg" width="600" alt="海豚海洋紀錄片素材">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7165)**
-
-**作者:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **來源:** [Link](https://x.com/AnnetteHollerWe/status/2076268696474104007) | **發布時間:** Jul 12, 2026
-
----
-### 韓國住宅區氛圍
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 此提示詞可建立一段連貫的電影感影片，呈現寧靜的韓國住宅區，重點在於狹窄巷弄、低矮房屋與露台。
-
-#### 📝 提示詞
-
-```
-在整段影片中保持一致的身分、服裝、髮型與外觀。場景：平靜上午時分的道地韓國住宅區。狹窄的混凝土巷弄、低矮房屋、小型露台、盆栽與晾曬的衣物
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076204329359331328/img/u0JkrxwIap0pblAd.jpg" width="600" alt="韓國住宅區氛圍">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7166)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2076204407729824032) | **發布時間:** Jul 12, 2026
-
----
-### 玫瑰花瓣下的夜景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段以月光下的夜景為主題的影片提示詞，包含松樹、螢火蟲與飄落的玫瑰花瓣。
-
-#### 📝 提示詞
-
-```
-滿月、雲朵、松樹、螢火蟲、草地
-加入從天而降的粉色與紅色玫瑰花瓣
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076181751546978304/img/Godn6f1Q8X0t4h1O.jpg" width="600" alt="玫瑰花瓣下的夜景">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7167)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2076181829221286088) | **發布時間:** Jul 12, 2026
-
----
-### 栩栩如生的貓咪動畫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份詳細的攝影級虎斑貓動畫提示詞，包含呼吸與眨眼等細微動作。
-
-#### 📝 提示詞
-
-```
-細膩逼真的動畫：虎斑貓輕柔地呼吸，胸部隨之微微起伏，耳朵抽動一下，綠色的眼睛緩慢眨動，鬍鬚輕微顫動，尾巴尖端柔和地擺動。攝影機保持穩定的低角度拍攝。自然日光，攝影級質感。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076144050173034496/img/q6lkJuEh0K8BtFI6.jpg" width="600" alt="栩栩如生的貓咪動畫">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7168)**
-
-**作者:** [Sangcjeol Lee](https://x.com/sangcjeol) | **來源:** [Link](https://x.com/sangcjeol/status/2076144105319706898) | **發布時間:** Jul 12, 2026
-
----
-### 太空殖民地住宅
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段科幻影片提示詞，描繪了早期太空殖民地擁擠且工業化的現實，以及其中的水耕花園。
-
-#### 📝 提示詞
-
-```
-那裡有壓力密封艙、水耕花園、擁擠的混凝土住宅、人造光、循環空氣，還有在荒涼邊緣努力準備晚餐的人們。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076086195482714112/img/Iw0wb0gAEItuwkJV.jpg" width="600" alt="太空殖民地住宅">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7128)**
-
-**作者:** [Sherice](https://x.com/Sherice0799) | **來源:** [Link](https://x.com/Sherice0799/status/2076086295336489166) | **發布時間:** Jul 11, 2026
-
----
-### 金髮女子海灘漫步與水肺潛水
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個以海灘為主題的提示詞，描述一位女性在海邊漫步，並準備進行一場海洋水肺潛水冒險。
-
-#### 📝 提示詞
-
-```
-一位美麗的金髮女子走在海邊，準備跳入水中，口中含著呼吸管與海洋生物共游，就像尼莫一樣，她背著氣瓶走進海洋。
-
-一位美麗的金髮女子走在海灘上，準備進行水肺潛水。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076057170081415168/img/NKhvJlct2cdM6zzK.jpg" width="600" alt="金髮女子海灘漫步與水肺潛水">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7121)**
-
-**作者:** [Annette H Wensel](https://x.com/AnnetteHollerWe) | **來源:** [Link](https://x.com/AnnetteHollerWe/status/2076057254605009386) | **發布時間:** Jul 11, 2026
-
----
-### 維京盾牌女戰士森林入口
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段關於維京盾牌女戰士的影片提示詞，描述她留著白色編髮，從森林中走出並準備迎戰。
-
-#### 📝 提示詞
-
-```
-一位留著白色編髮的維京盾牌女戰士從森林中走出，準備迎戰
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076056920826216448/img/w1fIASmvMPd0ZUy9.jpg" width="600" alt="維京盾牌女戰士森林入口">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7124)**
-
-**作者:** [Rebecca Clark](https://x.com/clark_rebe76017) | **來源:** [Link](https://x.com/clark_rebe76017/status/2076056974483915213) | **發布時間:** Jul 11, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2400,6 +2413,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-07-21T06:54:57.564Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-07-21T10:50:17.708Z</sub>
 
 </div>
