@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2204** |
+| 📝 プロンプト総数 | **2206** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-07-22** |
 
@@ -189,6 +189,25 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### 8 ビットピクセル・フェアリー・アニメーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 黄昏の森に佇む銀髪の妖精をテーマにした、シームレスなループ再生が可能な 8 ビットピクセルアート動画を作成するための完全なアニメーションプロンプトです。
+
+#### 📝 プロンプト
+
+```
+8 ビットピクセルアート、長い銀髪と花の冠をつけた夢のように幻想的な妖精の少女、透け感のあるレースのドレスを着用、黄昏時の光る苔むした森に裸足で立っている、ホタルと舞い散る花びら、柔らかな蔦が絡まる古代樹、パステルピンク・ラベンダー・グリーンの色調、タンブラーコア風の夢幻的なファンタジー美学、レトロな 8 ビットピクセルスタイル、柔らかな輝き、限定されたカラーパレット。ループ再生可能なアンビエント 8 ビットピクセルアート動画、繊細な動き、シームレスな夢のループ、タンブラー風ファンタジー美学、レトロピクセルスタイル
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079799034387337216/img/tg67vvo-Xpk8Q8IP.jpg" width="600" alt="8 ビットピクセル・フェアリー・アニメーション">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7697)**
+
+**作者:** [paranoidream ♡︎](https://x.com/paranoidream) | **ソース:** [Link](https://x.com/paranoidream/status/2079799074325422343) | **公開日:** Jul 22, 2026
+
+---
 ### トロイア戦争：アキレウスのシネマティック動画プロンプト
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +225,25 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7646)**
 
 **作者:** [SophieZX](https://x.com/Z_XSophie) | **ソース:** [Link](https://x.com/Z_XSophie/status/2079454701368545290) | **公開日:** Jul 21, 2026
+
+---
+### 正確なキャラクター回転シーケンス
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> キャラクターが特定の回転と一時停止を行うための、非常に詳細なモーションコントロールプロンプトです。
+
+#### 📝 プロンプト
+
+```
+キャラクターがその場で 40 度回転し、0.5 秒間正確に一時停止します。自然で落ち着いた姿勢を保ったまま一時停止を維持してください。次に、同じ方向に 40 度回転を続け、0.5 秒間一時停止します。その後、カメラに向かって回転し戻り...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079420629032247296/img/IAU_81whWcdJEsDL.jpg" width="600" alt="正確なキャラクター回転シーケンス">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7696)**
+
+**作者:** [Claudia Jean](https://x.com/ClaudiaJeanxpe) | **ソース:** [Link](https://x.com/ClaudiaJeanxpe/status/2079421393268093241) | **公開日:** Jul 21, 2026
 
 ---
 ### 東アジア系ファッションポートレートアニメーション
@@ -2314,44 +2352,6 @@ POV：あなたが AI を起こすとき...
 **作者:** [BackWoods 🌱](https://x.com/SGBackWoods) | **ソース:** [Link](https://x.com/SGBackWoods/status/2076775890256564473) | **公開日:** Jul 13, 2026
 
 ---
-### 植物園の未来の風景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 巨大な未来的なガラスドーム内に位置する植物園の動画を生成するためのシネマティックなプロンプト。
-
-#### 📝 プロンプト
-
-```
-歩みを緩めて、私たちの未来の美しさを堪能しましょう。2 つの大きなドームの中に植物園を追加できますか？さまざまな種類の……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076712490545594368/img/KL9EM0UjIf4m6-kO.jpg" width="600" alt="植物園の未来の風景">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7224)**
-
-**作者:** [StellaPeekArt](https://x.com/StellaPeekArt42) | **ソース:** [Link](https://x.com/StellaPeekArt42/status/2076712800143982863) | **公開日:** Jul 13, 2026
-
----
-### チャールストン州都テーマ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ウェストバージニア州の州都であるチャールストンをベースに、リアルなテーマを展開するビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-これら 2 つを使用して、ウェストバージニア州の州都チャールストンのリアルなテーマを念頭に置きながら、控えめに展開してください……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076701376973795331/img/LyDw09-R70uNaVxp.jpg" width="600" alt="チャールストン州都テーマ">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7225)**
-
-**作者:** [the_light](https://x.com/the_light35) | **ソース:** [Link](https://x.com/the_light35/status/2076701448125956453) | **公開日:** Jul 13, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2413,6 +2413,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-22T06:52:56.950Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-22T10:46:36.679Z</sub>
 
 </div>

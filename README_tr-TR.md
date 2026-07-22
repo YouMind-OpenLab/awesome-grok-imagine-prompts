@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2204** |
+| 📝 Total Prompts | **2206** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-22** |
 
@@ -189,6 +189,25 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### 8-bit Piksel Peri Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Alacakaranlık ormanında gümüş saçlı bir perinin kusursuz döngüye sahip 8-bit piksel sanat videosunu oluşturmak için eksiksiz bir animasyon istemi.
+
+#### 📝 Prompt
+
+```
+8-bit piksel sanatı, uzun gümüş saçlı ve çiçek taçlı, şeffaf dantel elbiseli, alacakaranlıkta parlayan yosunlu bir ormanda çıplak ayakla duran rüya gibi ruhani peri kızı, ateş böcekleri ve uçuşan yapraklar, yumuşak sarmaşıklarla kaplı antik ağaçlar, pastel pembe, lavanta ve yeşil tonları, tumblr tarzı rüya gibi fantastik estetik, retro 8-bit piksel stili, yumuşak parıltı, sınırlı renk paleti. Döngüsel ortam 8-bit piksel sanat videosu, hafif hareket, kusursuz rüya gibi döngü, tumblr fantastik estetiği, retro piksel stili
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079799034387337216/img/tg67vvo-Xpk8Q8IP.jpg" width="600" alt="8-bit Piksel Peri Animasyonu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7697)**
+
+**Author:** [paranoidream ♡︎](https://x.com/paranoidream) | **Source:** [Link](https://x.com/paranoidream/status/2079799074325422343) | **Published:** Jul 22, 2026
+
+---
 ### Sinematik Aşil Truva Savaşı Videosu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +225,25 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7646)**
 
 **Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2079454701368545290) | **Published:** Jul 21, 2026
+
+---
+### Hassas Karakter Rotasyon Dizisi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Belirli rotasyonlar ve duraklamalar gerçekleştiren bir karakter için son derece ayrıntılı hareket kontrol komutu.
+
+#### 📝 Prompt
+
+```
+karakter olduğu yerde 40 derecelik bir dönüş gerçekleştirir: tam olarak 0,5 saniye duraklar, doğal ve sakin bir duruşla duraklamayı korur. ardından aynı yönde 40 derece dönmeye devam eder, 0,5 saniye duraklar. sonra kameraya doğru geri döner ve...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079420629032247296/img/IAU_81whWcdJEsDL.jpg" width="600" alt="Hassas Karakter Rotasyon Dizisi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7696)**
+
+**Author:** [Claudia Jean](https://x.com/ClaudiaJeanxpe) | **Source:** [Link](https://x.com/ClaudiaJeanxpe/status/2079421393268093241) | **Published:** Jul 21, 2026
 
 ---
 ### Doğu Asya Moda Portresi Animasyonu
@@ -2314,44 +2352,6 @@ Onu yakalayın - AD Astra
 **Author:** [BackWoods 🌱](https://x.com/SGBackWoods) | **Source:** [Link](https://x.com/SGBackWoods/status/2076775890256564473) | **Published:** Jul 13, 2026
 
 ---
-### Botanik Bahçesi Gelecek Manzarası
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Büyük fütüristik cam kubbelerin içinde yer alan botanik bahçelerinin videosunu oluşturmak için sinematik bir istem.
-
-#### 📝 Prompt
-
-```
-yavaşlayın ve geleceğimizin güzelliğinin tadını çıkarın, 2 büyük kubbenin içine bir botanik bahçesi ekleyebilir misiniz? farklı türlerde....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076712490545594368/img/KL9EM0UjIf4m6-kO.jpg" width="600" alt="Botanik Bahçesi Gelecek Manzarası">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7224)**
-
-**Author:** [StellaPeekArt](https://x.com/StellaPeekArt42) | **Source:** [Link](https://x.com/StellaPeekArt42/status/2076712800143982863) | **Published:** Jul 13, 2026
-
----
-### Charleston Capitol City Teması
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Batı Virginia'nın başkenti Charleston'ı temel alan gerçekçi bir tema geliştiren bir video istemi.
-
-#### 📝 Prompt
-
-```
-Bu ikisini kullanın ve Batı Virginia'nın başkenti Charleston'ın gerçekçi temasını göz önünde bulundurarak mütevazı bir şekilde geliştirin...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076701376973795331/img/LyDw09-R70uNaVxp.jpg" width="600" alt="Charleston Capitol City Teması">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7225)**
-
-**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2076701448125956453) | **Published:** Jul 13, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2413,6 +2413,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-22T06:53:10.857Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-22T10:46:51.619Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2204** |
+| 📝 Total Prompts | **2206** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-22** |
 
@@ -189,6 +189,25 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### 8-bit Pixel Fairy Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complete animation prompt for creating a seamless looping 8-bit pixel art video of a silver-haired fairy in a twilight forest.
+
+#### 📝 Prompt
+
+```
+8-bit pixel art, dreamy ethereal fairy girl with long silver hair and flower crown, wearing sheer lace dress, standing barefoot in glowing mossy forest at twilight, fireflies and floating petals, ancient trees with soft ivy, pastel pinks lavenders and greens, tumblr core dreamy fantasy aesthetic, retro 8-bit pixel style, soft glow, limited color palette. Looping ambient 8-bit pixel art video, subtle motion, seamless dreamy loop, tumblr fantasy aesthetic, retro pixel style
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079799034387337216/img/tg67vvo-Xpk8Q8IP.jpg" width="600" alt="8-bit Pixel Fairy Animation">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7697)**
+
+**Author:** [paranoidream ♡︎](https://x.com/paranoidream) | **Source:** [Link](https://x.com/paranoidream/status/2079799074325422343) | **Published:** Jul 22, 2026
+
+---
 ### Cinematic Achilles Trojan War Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +225,25 @@ Dramatic wide shot of Achilles in gleaming bronze armor charging through smoky T
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7646)**
 
 **Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2079454701368545290) | **Published:** Jul 21, 2026
+
+---
+### Precise Character Rotation Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed motion control prompt for a character performing specific rotations and pauses.
+
+#### 📝 Prompt
+
+```
+the character performs a 40-degree rotation in place: pausing precisely for 0.5 second, holding the pause with a natural, composed posture. then keep rotating 40-degree in the same direction, pause 0.5 seconds. then rotate back toward the camera and...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079420629032247296/img/IAU_81whWcdJEsDL.jpg" width="600" alt="Precise Character Rotation Sequence">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7696)**
+
+**Author:** [Claudia Jean](https://x.com/ClaudiaJeanxpe) | **Source:** [Link](https://x.com/ClaudiaJeanxpe/status/2079421393268093241) | **Published:** Jul 21, 2026
 
 ---
 ### East Asian Fashion Portrait Animation
@@ -2132,44 +2170,6 @@ Grasp it - AD Astra
 **Author:** [BackWoods 🌱](https://x.com/SGBackWoods) | **Source:** [Link](https://x.com/SGBackWoods/status/2076775890256564473) | **Published:** Jul 13, 2026
 
 ---
-### Botanical Garden Future Scenery
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic prompt for generating a video of botanical gardens located inside large futuristic glass domes.
-
-#### 📝 Prompt
-
-```
-slow down and enjoy the beauty of our future, can you add a botanical garden inside the 2 larger domes. different kinds....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076712490545594368/img/KL9EM0UjIf4m6-kO.jpg" width="600" alt="Botanical Garden Future Scenery">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7224)**
-
-**Author:** [StellaPeekArt](https://x.com/StellaPeekArt42) | **Source:** [Link](https://x.com/StellaPeekArt42/status/2076712800143982863) | **Published:** Jul 13, 2026
-
----
-### Charleston Capitol City Theme
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video prompt that develops a realistic theme based on West Virginia's capital, Charleston.
-
-#### 📝 Prompt
-
-```
-Use these two and develop them modestly with realistic West Virginias capital Charleston theme in mind....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076701376973795331/img/LyDw09-R70uNaVxp.jpg" width="600" alt="Charleston Capitol City Theme">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7225)**
-
-**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2076701448125956453) | **Published:** Jul 13, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2231,6 +2231,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-22T06:52:53.356Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-22T10:46:32.676Z</sub>
 
 </div>

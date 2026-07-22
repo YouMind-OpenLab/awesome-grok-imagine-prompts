@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2204** |
+| 📝 Total Prompts | **2206** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-22** |
 
@@ -189,6 +189,25 @@ Una mistica e nobile Valchiria celestiale, una donna dignitosa e bellissima con 
 
 > 📝 Sorted by publish date (newest first)
 
+### Animazione fata in pixel art a 8-bit
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt di animazione completo per creare un video in pixel art a 8-bit con loop fluido di una fata dai capelli argentati in una foresta al crepuscolo.
+
+#### 📝 Prompt
+
+```
+Pixel art a 8-bit, fata eterea e sognante con lunghi capelli argentati e corona di fiori, indossa un abito di pizzo trasparente, in piedi a piedi nudi in una foresta muschiosa e luminosa al crepuscolo, lucciole e petali fluttuanti, alberi antichi con edera soffice, rosa pastello, lavanda e verde, estetica fantasy sognante tumblr core, stile pixel art 8-bit retrò, bagliore soffuso, tavolozza di colori limitata. Video in pixel art 8-bit con loop ambientale, movimento sottile, loop fluido e sognante, estetica fantasy tumblr, stile pixel retrò
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079799034387337216/img/tg67vvo-Xpk8Q8IP.jpg" width="600" alt="Animazione fata in pixel art a 8-bit">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7697)**
+
+**Author:** [paranoidream ♡︎](https://x.com/paranoidream) | **Source:** [Link](https://x.com/paranoidream/status/2079799074325422343) | **Published:** Jul 22, 2026
+
+---
 ### Video cinematografico sulla guerra di Troia e Achille
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +225,25 @@ Drammatica inquadratura ampia di Achille in una scintillante armatura di bronzo 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7646)**
 
 **Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2079454701368545290) | **Published:** Jul 21, 2026
+
+---
+### Sequenza di rotazione precisa del personaggio
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt di controllo del movimento altamente dettagliato per un personaggio che esegue rotazioni e pause specifiche.
+
+#### 📝 Prompt
+
+```
+il personaggio esegue una rotazione di 40 gradi sul posto: facendo una pausa precisa di 0,5 secondi, mantenendo la pausa con una postura naturale e composta. quindi continua a ruotare di 40 gradi nella stessa direzione, pausa di 0,5 secondi. poi ruota di nuovo verso la telecamera e...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079420629032247296/img/IAU_81whWcdJEsDL.jpg" width="600" alt="Sequenza di rotazione precisa del personaggio">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7696)**
+
+**Author:** [Claudia Jean](https://x.com/ClaudiaJeanxpe) | **Source:** [Link](https://x.com/ClaudiaJeanxpe/status/2079421393268093241) | **Published:** Jul 21, 2026
 
 ---
 ### Ritratto di moda dell'Asia orientale in animazione
@@ -2315,44 +2353,6 @@ Afferralo - AD Astra
 **Author:** [BackWoods 🌱](https://x.com/SGBackWoods) | **Source:** [Link](https://x.com/SGBackWoods/status/2076775890256564473) | **Published:** Jul 13, 2026
 
 ---
-### Scenario futuro del giardino botanico
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinematografico per generare un video di giardini botanici situati all'interno di grandi cupole di vetro futuristiche.
-
-#### 📝 Prompt
-
-```
-rallenta e goditi la bellezza del nostro futuro, puoi aggiungere un giardino botanico all'interno delle 2 cupole più grandi. tipi diversi....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076712490545594368/img/KL9EM0UjIf4m6-kO.jpg" width="600" alt="Scenario futuro del giardino botanico">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7224)**
-
-**Author:** [StellaPeekArt](https://x.com/StellaPeekArt42) | **Source:** [Link](https://x.com/StellaPeekArt42/status/2076712800143982863) | **Published:** Jul 13, 2026
-
----
-### Tema della capitale Charleston
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video che sviluppa un tema realistico basato su Charleston, la capitale del West Virginia.
-
-#### 📝 Prompt
-
-```
-Utilizza questi due elementi e sviluppali con moderazione, tenendo a mente il tema realistico di Charleston, la capitale del West Virginia....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076701376973795331/img/LyDw09-R70uNaVxp.jpg" width="600" alt="Tema della capitale Charleston">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7225)**
-
-**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2076701448125956453) | **Published:** Jul 13, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2414,6 +2414,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-22T06:53:07.600Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-22T10:46:47.536Z</sub>
 
 </div>

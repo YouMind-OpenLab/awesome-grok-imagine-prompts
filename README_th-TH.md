@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2204** |
+| 📝 Total Prompts | **2206** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-22** |
 
@@ -189,6 +189,25 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### แอนิเมชันนางฟ้าพิกเซลอาร์ต 8-bit
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พร้อมท์แอนิเมชันฉบับสมบูรณ์สำหรับการสร้างวิดีโอพิกเซลอาร์ต 8-bit แบบวนลูปไร้รอยต่อ ของนางฟ้าผมสีเงินในป่าช่วงทไวไลท์
+
+#### 📝 Prompt
+
+```
+พิกเซลอาร์ต 8-bit, เด็กสาวนางฟ้าผู้มีเสน่ห์ชวนฝัน ผมยาวสีเงินสวมมงกุฎดอกไม้ สวมชุดลูกไม้โปร่งบาง ยืนเท้าเปล่าในป่ามอสเรืองแสงช่วงทไวไลท์, หิ่งห้อยและกลีบดอกไม้ลอยละล่อง, ต้นไม้โบราณที่มีเถาวัลย์นุ่มนวล, โทนสีชมพูพาสเทล สีลาเวนเดอร์ และสีเขียว, สุนทรียศาสตร์แฟนตาซีชวนฝันสไตล์ tumblr, สไตล์พิกเซล 8-bit ย้อนยุค, แสงนวลตา, พาเลตต์สีจำกัด วิดีโอพิกเซลอาร์ต 8-bit แบบวนลูป, การเคลื่อนไหวที่นุ่มนวล, ลูปชวนฝันที่ไร้รอยต่อ, สุนทรียศาสตร์แฟนตาซีสไตล์ tumblr, สไตล์พิกเซลย้อนยุค
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079799034387337216/img/tg67vvo-Xpk8Q8IP.jpg" width="600" alt="แอนิเมชันนางฟ้าพิกเซลอาร์ต 8-bit">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7697)**
+
+**Author:** [paranoidream ♡︎](https://x.com/paranoidream) | **Source:** [Link](https://x.com/paranoidream/status/2079799074325422343) | **Published:** Jul 22, 2026
+
+---
 ### วิดีโอภาพยนตร์สงครามกรุงทรอยฉากอคิลลีส
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +225,25 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7646)**
 
 **Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2079454701368545290) | **Published:** Jul 21, 2026
+
+---
+### ลำดับการหมุนตัวละครอย่างแม่นยำ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่งควบคุมการเคลื่อนไหวที่มีรายละเอียดสูง สำหรับตัวละครที่ต้องการให้หมุนและหยุดตามจังหวะที่กำหนด
+
+#### 📝 Prompt
+
+```
+ตัวละครหมุนตัว 40 องศาอยู่กับที่ : หยุดนิ่งอย่างแม่นยำเป็นเวลา 0.5 วินาที โดยคงท่าทางที่เป็นธรรมชาติและดูสงบนิ่งเอาไว้ จากนั้นหมุนต่ออีก 40 องศาในทิศทางเดิม แล้วหยุดอีก 0.5 วินาที จากนั้นหมุนกลับมาทางกล้องและ...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079420629032247296/img/IAU_81whWcdJEsDL.jpg" width="600" alt="ลำดับการหมุนตัวละครอย่างแม่นยำ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7696)**
+
+**Author:** [Claudia Jean](https://x.com/ClaudiaJeanxpe) | **Source:** [Link](https://x.com/ClaudiaJeanxpe/status/2079421393268093241) | **Published:** Jul 21, 2026
 
 ---
 ### แอนิเมชันภาพถ่ายแฟชั่นสไตล์เอเชียตะวันออก
@@ -2132,44 +2170,6 @@ POV เมื่อคุณปลุก A.I. ของคุณ...
 **Author:** [BackWoods 🌱](https://x.com/SGBackWoods) | **Source:** [Link](https://x.com/SGBackWoods/status/2076775890256564473) | **Published:** Jul 13, 2026
 
 ---
-### ทิวทัศน์สวนพฤกษศาสตร์แห่งอนาคต
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) สไตล์ภาพยนตร์สำหรับสร้างวิดีโอสวนพฤกษศาสตร์ที่ตั้งอยู่ภายในโดมแก้วขนาดใหญ่แห่งอนาคต
-
-#### 📝 Prompt
-
-```
-ลองชะลอจังหวะชีวิตแล้วดื่มด่ำไปกับความงดงามแห่งอนาคตของเรา คุณช่วยเพิ่มสวนพฤกษศาสตร์เข้าไปในโดมขนาดใหญ่ 2 แห่งนั้นได้ไหม มีพืชพรรณหลากหลายชนิด...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076712490545594368/img/KL9EM0UjIf4m6-kO.jpg" width="600" alt="ทิวทัศน์สวนพฤกษศาสตร์แห่งอนาคต">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7224)**
-
-**Author:** [StellaPeekArt](https://x.com/StellaPeekArt42) | **Source:** [Link](https://x.com/StellaPeekArt42/status/2076712800143982863) | **Published:** Jul 13, 2026
-
----
-### ธีมเมืองหลวง Charleston
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์ที่พัฒนาธีมให้มีความสมจริงโดยอิงจากเมือง Charleston ซึ่งเป็นเมืองหลวงของรัฐ West Virginia
-
-#### 📝 Prompt
-
-```
-ใช้ทั้งสองสิ่งนี้แล้วนำมาพัฒนาอย่างพอเหมาะโดยคำนึงถึงธีมเมือง Charleston เมืองหลวงของรัฐ West Virginia ที่มีความสมจริง...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076701376973795331/img/LyDw09-R70uNaVxp.jpg" width="600" alt="ธีมเมืองหลวง Charleston">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7225)**
-
-**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2076701448125956453) | **Published:** Jul 13, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2231,6 +2231,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-22T06:52:59.527Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-22T10:46:39.413Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2204** |
+| 📝 Total Prompts | **2206** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-22** |
 
@@ -189,6 +189,25 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Hoạt ảnh tiên nữ pixel 8-bit
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) hoàn chỉnh để tạo video nghệ thuật pixel 8-bit lặp lại liền mạch về một nàng tiên tóc bạc trong khu rừng lúc hoàng hôn.
+
+#### 📝 Prompt
+
+```
+Nghệ thuật pixel 8-bit, nàng tiên mơ màng huyền ảo với mái tóc bạc dài và vương miện hoa, mặc váy ren mỏng, đứng chân trần trong khu rừng rêu phát sáng lúc hoàng hôn, đom đóm và cánh hoa bay lơ lửng, những cái cây cổ thụ với dây thường xuân mềm mại, tông màu hồng phấn, tím oải hương và xanh lá, thẩm mỹ giả tưởng mơ màng kiểu tumblr, phong cách pixel 8-bit cổ điển, ánh sáng dịu nhẹ, bảng màu giới hạn. Video nghệ thuật pixel 8-bit lặp lại, chuyển động tinh tế, vòng lặp mơ màng liền mạch, thẩm mỹ giả tưởng tumblr, phong cách pixel cổ điển
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079799034387337216/img/tg67vvo-Xpk8Q8IP.jpg" width="600" alt="Hoạt ảnh tiên nữ pixel 8-bit">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7697)**
+
+**Author:** [paranoidream ♡︎](https://x.com/paranoidream) | **Source:** [Link](https://x.com/paranoidream/status/2079799074325422343) | **Published:** Jul 22, 2026
+
+---
 ### Video điện ảnh về Achilles trong Chiến tranh thành Troy
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +225,25 @@ Cảnh quay toàn cảnh đầy kịch tính về Achilles trong bộ giáp đ�
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7646)**
 
 **Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2079454701368545290) | **Published:** Jul 21, 2026
+
+---
+### Chuỗi xoay nhân vật chính xác
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh điều khiển chuyển động chi tiết dành cho nhân vật thực hiện các thao tác xoay và tạm dừng cụ thể.
+
+#### 📝 Prompt
+
+```
+nhân vật thực hiện xoay 40 độ tại chỗ: tạm dừng chính xác trong 0,5 giây, giữ tư thế tạm dừng một cách tự nhiên và điềm tĩnh. sau đó tiếp tục xoay 40 độ theo cùng hướng, tạm dừng 0,5 giây. sau đó xoay ngược lại về phía máy quay và...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079420629032247296/img/IAU_81whWcdJEsDL.jpg" width="600" alt="Chuỗi xoay nhân vật chính xác">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7696)**
+
+**Author:** [Claudia Jean](https://x.com/ClaudiaJeanxpe) | **Source:** [Link](https://x.com/ClaudiaJeanxpe/status/2079421393268093241) | **Published:** Jul 21, 2026
 
 ---
 ### Ảnh động chân dung thời trang Đông Á
@@ -2314,44 +2352,6 @@ Hãy nắm bắt lấy - AD Astra
 **Author:** [BackWoods 🌱](https://x.com/SGBackWoods) | **Source:** [Link](https://x.com/SGBackWoods/status/2076775890256564473) | **Published:** Jul 13, 2026
 
 ---
-### Khung cảnh tương lai của Vườn Bách thảo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) đậm chất điện ảnh để tạo video về các khu vườn bách thảo nằm bên trong những mái vòm kính khổng lồ mang phong cách tương lai.
-
-#### 📝 Prompt
-
-```
-hãy sống chậm lại và tận hưởng vẻ đẹp tương lai của chúng ta, bạn có thể thêm một khu vườn bách thảo vào bên trong 2 mái vòm lớn hơn không. với nhiều loại cây khác nhau....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076712490545594368/img/KL9EM0UjIf4m6-kO.jpg" width="600" alt="Khung cảnh tương lai của Vườn Bách thảo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7224)**
-
-**Author:** [StellaPeekArt](https://x.com/StellaPeekArt42) | **Source:** [Link](https://x.com/StellaPeekArt42/status/2076712800143982863) | **Published:** Jul 13, 2026
-
----
-### Chủ đề Thành phố Thủ phủ Charleston
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video giúp phát triển chủ đề chân thực dựa trên Charleston, thủ phủ của West Virginia.
-
-#### 📝 Prompt
-
-```
-Hãy sử dụng hai yếu tố này và phát triển chúng một cách tinh tế với chủ đề Charleston, thủ phủ của West Virginia, một cách chân thực nhất....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076701376973795331/img/LyDw09-R70uNaVxp.jpg" width="600" alt="Chủ đề Thành phố Thủ phủ Charleston">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7225)**
-
-**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2076701448125956453) | **Published:** Jul 13, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2413,6 +2413,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-22T06:53:00.702Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-22T10:46:40.805Z</sub>
 
 </div>

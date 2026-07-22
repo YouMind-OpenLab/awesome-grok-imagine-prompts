@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2204** |
+| 📝 Total Prompts | **2206** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-22** |
 
@@ -189,6 +189,25 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### 8-bit पिक्सेल फेयरी एनिमेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> गोधूलि बेला के जंगल में चांदी जैसे बालों वाली परी का सीमलेस लूपिंग 8-bit पिक्सेल आर्ट वीडियो बनाने के लिए एक संपूर्ण एनिमेशन प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+8-bit पिक्सेल आर्ट, लंबे चांदी जैसे बालों और फूलों का ताज पहने स्वप्निल ईथरियल परी, पारदर्शी लेस ड्रेस पहने हुए, गोधूलि बेला में चमकते हुए काईदार जंगल में नंगे पैर खड़ी, जुगनू और तैरती हुई पंखुड़ियाँ, नरम आइवी के साथ प्राचीन पेड़, पेस्टल गुलाबी, लैवेंडर और हरे रंग, टम्बलर कोर स्वप्निल फैंटेसी एस्थेटिक, रेट्रो 8-bit पिक्सेल स्टाइल, सॉफ्ट ग्लो, सीमित कलर पैलेट। लूपिंग एम्बिएंट 8-bit पिक्सेल आर्ट वीडियो, सूक्ष्म गति, सीमलेस स्वप्निल लूप, टम्बलर फैंटेसी एस्थेटिक, रेट्रो पिक्सेल स्टाइल
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079799034387337216/img/tg67vvo-Xpk8Q8IP.jpg" width="600" alt="8-bit पिक्सेल फेयरी एनिमेशन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7697)**
+
+**Author:** [paranoidream ♡︎](https://x.com/paranoidream) | **Source:** [Link](https://x.com/paranoidream/status/2079799074325422343) | **Published:** Jul 22, 2026
+
+---
 ### सिनेमैटिक अकिलीज़ ट्रोजन वॉर वीडियो
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +225,25 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7646)**
 
 **Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2079454701368545290) | **Published:** Jul 21, 2026
+
+---
+### सटीक कैरेक्टर रोटेशन अनुक्रम
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक विशिष्ट कैरेक्टर के रोटेशन और पॉज़ के लिए अत्यधिक विस्तृत मोशन कंट्रोल प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+कैरेक्टर अपनी जगह पर 40-डिग्री का रोटेशन करता है: ठीक 0.5 सेकंड के लिए रुकता है, और एक स्वाभाविक व संयमित मुद्रा में पॉज़ बनाए रखता है। फिर उसी दिशा में 40-डिग्री घूमना जारी रखें, 0.5 सेकंड के लिए रुकें। फिर कैमरे की ओर वापस घूमें और...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079420629032247296/img/IAU_81whWcdJEsDL.jpg" width="600" alt="सटीक कैरेक्टर रोटेशन अनुक्रम">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7696)**
+
+**Author:** [Claudia Jean](https://x.com/ClaudiaJeanxpe) | **Source:** [Link](https://x.com/ClaudiaJeanxpe/status/2079421393268093241) | **Published:** Jul 21, 2026
 
 ---
 ### पूर्वी एशियाई फैशन पोर्ट्रेट एनीमेशन
@@ -2313,44 +2351,6 @@ Because I Can नाम का बिल्ली का बच्चा बो�
 **Author:** [BackWoods 🌱](https://x.com/SGBackWoods) | **Source:** [Link](https://x.com/SGBackWoods/status/2076775890256564473) | **Published:** Jul 13, 2026
 
 ---
-### बोटैनिकल गार्डन का भविष्य का दृश्य
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> विशाल भविष्यवादी ग्लास डोम के अंदर स्थित बोटैनिकल गार्डन का वीडियो बनाने के लिए एक सिनेमैटिक प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-धीमे हो जाएं और हमारे भविष्य की सुंदरता का आनंद लें, क्या आप 2 बड़े डोम के अंदर एक बोटैनिकल गार्डन जोड़ सकते हैं। विभिन्न प्रकार के....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076712490545594368/img/KL9EM0UjIf4m6-kO.jpg" width="600" alt="बोटैनिकल गार्डन का भविष्य का दृश्य">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7224)**
-
-**Author:** [StellaPeekArt](https://x.com/StellaPeekArt42) | **Source:** [Link](https://x.com/StellaPeekArt42/status/2076712800143982863) | **Published:** Jul 13, 2026
-
----
-### Charleston Capitol City थीम
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> वेस्ट वर्जीनिया की राजधानी, Charleston पर आधारित एक यथार्थवादी थीम विकसित करने वाला वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-इन दोनों का उपयोग करें और वेस्ट वर्जीनिया की राजधानी Charleston की यथार्थवादी थीम को ध्यान में रखते हुए इन्हें संयमित रूप से विकसित करें....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076701376973795331/img/LyDw09-R70uNaVxp.jpg" width="600" alt="Charleston Capitol City थीम">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7225)**
-
-**Author:** [the_light](https://x.com/the_light35) | **Source:** [Link](https://x.com/the_light35/status/2076701448125956453) | **Published:** Jul 13, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2412,6 +2412,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-22T06:53:01.817Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-22T10:46:41.844Z</sub>
 
 </div>

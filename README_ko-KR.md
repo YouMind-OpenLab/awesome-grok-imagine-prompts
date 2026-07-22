@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **2204** |
+| 📝 총 프롬프트 수 | **2206** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-07-22** |
 
@@ -189,6 +189,25 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 8비트 픽셀 요정 애니메이션
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 황혼의 숲속에 있는 은발 요정을 소재로 한, 매끄럽게 반복되는 8비트 픽셀 아트 영상 제작용 전체 애니메이션 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+8비트 픽셀 아트, 긴 은발 머리에 꽃 왕관을 쓰고 시스루 레이스 드레스를 입은 몽환적이고 신비로운 요정 소녀, 황혼이 내린 빛나는 이끼 숲속에 맨발로 서 있음, 반딧불이와 떠다니는 꽃잎, 부드러운 담쟁이덩굴이 감긴 고목들, 파스텔 핑크와 라벤더 및 그린 색조, 텀블러 감성의 몽환적인 판타지 미학, 레트로 8비트 픽셀 스타일, 부드러운 빛, 제한된 색상 팔레트. 반복되는 앰비언트 8비트 픽셀 아트 영상, 미세한 움직임, 매끄럽고 몽환적인 루프, 텀블러 판타지 미학, 레트로 픽셀 스타일
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079799034387337216/img/tg67vvo-Xpk8Q8IP.jpg" width="600" alt="8비트 픽셀 요정 애니메이션">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7697)**
+
+**작성자:** [paranoidream ♡︎](https://x.com/paranoidream) | **출처:** [Link](https://x.com/paranoidream/status/2079799074325422343) | **게시일:** Jul 22, 2026
+
+---
 ### 트로이 전쟁 아킬레우스 시네마틱 영상
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +225,25 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7646)**
 
 **작성자:** [SophieZX](https://x.com/Z_XSophie) | **출처:** [Link](https://x.com/Z_XSophie/status/2079454701368545290) | **게시일:** Jul 21, 2026
+
+---
+### 정밀한 캐릭터 회전 시퀀스
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 캐릭터가 특정 회전 및 일시 정지 동작을 수행하도록 지시하는 매우 상세한 모션 제어 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+캐릭터가 제자리에서 40도 회전을 수행합니다: 0.5초 동안 정확하게 일시 정지하며 자연스럽고 차분한 자세를 유지합니다. 그 후 같은 방향으로 40도 더 회전하고 0.5초간 일시 정지합니다. 이어서 카메라 방향으로 다시 회전하며...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079420629032247296/img/IAU_81whWcdJEsDL.jpg" width="600" alt="정밀한 캐릭터 회전 시퀀스">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7696)**
+
+**작성자:** [Claudia Jean](https://x.com/ClaudiaJeanxpe) | **출처:** [Link](https://x.com/ClaudiaJeanxpe/status/2079421393268093241) | **게시일:** Jul 21, 2026
 
 ---
 ### 동아시아 패션 인물 애니메이션
@@ -2314,44 +2352,6 @@ Because I Can이라는 이름의 아기 고양이가 모닥불 파티에 참여�
 **작성자:** [BackWoods 🌱](https://x.com/SGBackWoods) | **출처:** [Link](https://x.com/SGBackWoods/status/2076775890256564473) | **게시일:** Jul 13, 2026
 
 ---
-### 식물원의 미래 풍경
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 거대한 미래형 유리 돔 안에 위치한 식물원 영상을 생성하기 위한 시네마틱 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-속도를 늦추고 우리의 미래가 가진 아름다움을 즐겨보세요. 2개의 더 큰 돔 안에 식물원을 추가해 줄 수 있나요? 다양한 종류의...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076712490545594368/img/KL9EM0UjIf4m6-kO.jpg" width="600" alt="식물원의 미래 풍경">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7224)**
-
-**작성자:** [StellaPeekArt](https://x.com/StellaPeekArt42) | **출처:** [Link](https://x.com/StellaPeekArt42/status/2076712800143982863) | **게시일:** Jul 13, 2026
-
----
-### 찰스턴 캐피톨 시티 테마
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 웨스트버지니아주의 주도인 찰스턴을 기반으로 사실적인 테마를 개발하는 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-이 두 가지를 활용하여 웨스트버지니아주의 주도인 찰스턴의 사실적인 테마를 염두에 두고 적절하게 개발해 보세요....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076701376973795331/img/LyDw09-R70uNaVxp.jpg" width="600" alt="찰스턴 캐피톨 시티 테마">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7225)**
-
-**작성자:** [the_light](https://x.com/the_light35) | **출처:** [Link](https://x.com/the_light35/status/2076701448125956453) | **게시일:** Jul 13, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2413,6 +2413,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-22T06:52:58.187Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-22T10:46:37.775Z</sub>
 
 </div>

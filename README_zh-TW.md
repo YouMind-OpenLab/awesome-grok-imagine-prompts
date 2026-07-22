@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **2204** |
+| 📝 提示詞總數 | **2206** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-07-22** |
 
@@ -189,6 +189,25 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 8-bit 像素精靈動畫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一套完整的動畫提示詞，用於創作一段關於暮色森林中銀髮精靈的無縫循環 8-bit 像素藝術影片。
+
+#### 📝 提示詞
+
+```
+8-bit 像素藝術，夢幻空靈的精靈少女，留著銀色長髮並戴著花冠，身穿透視蕾絲裙，赤腳站在暮色中發光的苔蘚森林裡，螢火蟲與漂浮的花瓣，古老的樹木纏繞著柔軟的常春藤，柔和的粉色、薰衣草紫與綠色，Tumblr 風格夢幻奇幻美學，復古 8-bit 像素風格，柔和光暈，有限色盤。循環環境 8-bit 像素藝術影片，細微動態，無縫夢幻循環，Tumblr 奇幻美學，復古像素風格
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079799034387337216/img/tg67vvo-Xpk8Q8IP.jpg" width="600" alt="8-bit 像素精靈動畫">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7697)**
+
+**作者:** [paranoidream ♡︎](https://x.com/paranoidream) | **來源:** [Link](https://x.com/paranoidream/status/2079799074325422343) | **發布時間:** Jul 22, 2026
+
+---
 ### 史詩級阿基里斯特洛伊戰爭影片
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +225,25 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7646)**
 
 **作者:** [SophieZX](https://x.com/Z_XSophie) | **來源:** [Link](https://x.com/Z_XSophie/status/2079454701368545290) | **發布時間:** Jul 21, 2026
+
+---
+### 精確的角色旋轉序列
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個用於角色執行特定旋轉與暫停動作的高度詳細運動控制提示詞。
+
+#### 📝 提示詞
+
+```
+角色原地執行 40 度的旋轉：精確暫停 0.5 秒，並以自然、沉穩的姿勢保持暫停。接著朝同一方向繼續旋轉 40 度，暫停 0.5 秒。隨後轉回面向鏡頭並……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079420629032247296/img/IAU_81whWcdJEsDL.jpg" width="600" alt="精確的角色旋轉序列">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7696)**
+
+**作者:** [Claudia Jean](https://x.com/ClaudiaJeanxpe) | **來源:** [Link](https://x.com/ClaudiaJeanxpe/status/2079421393268093241) | **發布時間:** Jul 21, 2026
 
 ---
 ### 東亞時尚人像動畫
@@ -2314,44 +2352,6 @@ Lila 駕駛著一艘白色小帆船，平穩地航行在平靜的切薩皮克灣
 **作者:** [BackWoods 🌱](https://x.com/SGBackWoods) | **來源:** [Link](https://x.com/SGBackWoods/status/2076775890256564473) | **發布時間:** Jul 13, 2026
 
 ---
-### 植物園未來景觀
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個用於生成位於大型未來感玻璃穹頂內植物園影片的電影級提示詞。
-
-#### 📝 提示詞
-
-```
-放慢腳步，享受我們未來的景致，你能在這 2 個較大的穹頂內加入一座植物園嗎？包含各種不同的種類……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076712490545594368/img/KL9EM0UjIf4m6-kO.jpg" width="600" alt="植物園未來景觀">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7224)**
-
-**作者:** [StellaPeekArt](https://x.com/StellaPeekArt42) | **來源:** [Link](https://x.com/StellaPeekArt42/status/2076712800143982863) | **發布時間:** Jul 13, 2026
-
----
-### 查爾斯頓首府城市主題
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個基於西維吉尼亞州首府查爾斯頓，開發出寫實風格主題的影片提示詞。
-
-#### 📝 提示詞
-
-```
-使用這兩個元素，並以西維吉尼亞州首府查爾斯頓的寫實主題為核心，進行適度的開發與延伸……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076701376973795331/img/LyDw09-R70uNaVxp.jpg" width="600" alt="查爾斯頓首府城市主題">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7225)**
-
-**作者:** [the_light](https://x.com/the_light35) | **來源:** [Link](https://x.com/the_light35/status/2076701448125956453) | **發布時間:** Jul 13, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2413,6 +2413,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-07-22T06:52:55.774Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-07-22T10:46:35.267Z</sub>
 
 </div>
