@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2206** |
+| 📝 Total Prompts | **2211** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-23** |
 
@@ -189,11 +189,87 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
-### 8-bit Pixel Fairy Animation
+### Jasmine Flower Shower Surreal Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complete animation prompt for creating a seamless looping 8-bit pixel art video of a silver-haired fairy in a twilight forest.
+> A fantasy video prompt featuring a woman in a coral dress surrounded by an oversized jasmine flower shower with cinematic motion effects.
+
+#### 📝 Prompt
+
+```
+hyper-realist, white western European natural mid blond hair curly abundant short hair, tan skin, wearing a short Coral Dress, long beautiful legs, bright and vigorous pose, super oversized Jazmin flower shower, unleashed, dew & dawn, surreal, fantasy flare, shot showing movement and blurred parts
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080195922261159936/img/qFyktxK14q7UycIM.jpg" width="600" alt="Jasmine Flower Shower Surreal Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7756)**
+
+**Author:** [Carolina Delgado](https://x.com/carolletta) | **Source:** [Link](https://x.com/carolletta/status/2080195996315738403) | **Published:** Jul 23, 2026
+
+---
+### Animated Dragon Battle Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-action video prompt for generating a fierce dragon battle with cinematic lighting and explosive effects in Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Animated cartoon dragon battle sequence: A fierce red dragon with spiked scales and glowing amber eyes roars and unleashes powerful fire blasts while flying aggressively toward the viewer. Dynamic camera angles, explosive flame effects, dramatic light
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080006615110168576/img/OZish_Gktox2ogxM.jpg" width="600" alt="Animated Dragon Battle Sequence">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7754)**
+
+**Author:** [Faizal](https://x.com/zalkad) | **Source:** [Link](https://x.com/zalkad/status/2080006653068616110) | **Published:** Jul 22, 2026
+
+---
+### Cinematic Warrior Woman in Burning Village
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed prompt for generating a realistic cinematic portrait of a blonde warrior in plate armor standing in a smoky, burning medieval village with a dragon in the background.
+
+#### 📝 Prompt
+
+```
+Ultra realistic cinematic portrait of a warrior woman with fair skin, piercing blue eyes and long, thick platinum-blonde braid over her right shoulder, wearing highly detailed ornate silver-grey medieval plate armor with intricate embossed patterns and chainmail, holding a large ornate longsword with dark hilt in her right hand, standing in a medieval village street with burning buildings, large blurred dragon visible in the smoky background, very muted and desaturated color palette, heavily muted colors, low saturation, gritty cinematic atmosphere, dramatic but subdued lighting, soft fire glow, sharp focused eyes looking slightly upward, serious and noble expression, ultra detailed skin texture with visible pores, realistic metal reflections and wear on armor, dust and soot particles, 8k raw photography, photorealistic.
+```
+
+<img src="https://cms-assets.youmind.com/media/1784794869283_q4h6ki_HN2Q8NdXIAAF7kf.jpg" width="600" alt="Cinematic Warrior Woman in Burning Village">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7757)**
+
+**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2079978038343913772) | **Published:** Jul 22, 2026
+
+---
+### Nordic 8-Bit Pixel Art Style
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a relaxing 8-bit pixel art scene accompanied by ethereal Nordic instrumental music.
+
+#### 📝 Prompt
+
+```
+Cute relaxing 8 bit pixel art, calm ethereal instrumental Nordic music with no vocals, like you're coming home to where you truly belong after a long journey out of the deep dark night of chaos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079811831452057600/img/1EWmR4RRAfGfaBoZ.jpg" width="600" alt="Nordic 8-Bit Pixel Art Style">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7758)**
+
+**Author:** [Kiki 🇺🇸](https://x.com/kikisknees) | **Source:** [Link](https://x.com/kikisknees/status/2079811897411682562) | **Published:** Jul 22, 2026
+
+---
+### 8-bit Pixel Art Fairy Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for creating a seamless looping 8-bit pixel art animation of an ethereal fairy girl in a glowing forest.
 
 #### 📝 Prompt
 
@@ -201,11 +277,30 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 8-bit pixel art, dreamy ethereal fairy girl with long silver hair and flower crown, wearing sheer lace dress, standing barefoot in glowing mossy forest at twilight, fireflies and floating petals, ancient trees with soft ivy, pastel pinks lavenders and greens, tumblr core dreamy fantasy aesthetic, retro 8-bit pixel style, soft glow, limited color palette. Looping ambient 8-bit pixel art video, subtle motion, seamless dreamy loop, tumblr fantasy aesthetic, retro pixel style
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079799034387337216/img/tg67vvo-Xpk8Q8IP.jpg" width="600" alt="8-bit Pixel Fairy Animation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079799034387337216/img/tg67vvo-Xpk8Q8IP.jpg" width="600" alt="8-bit Pixel Art Fairy Animation">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7697)**
 
 **Author:** [paranoidream ♡︎](https://x.com/paranoidream) | **Source:** [Link](https://x.com/paranoidream/status/2079799074325422343) | **Published:** Jul 22, 2026
+
+---
+### Face Cross-Section fMRI Scan
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt that visualizes a human face splitting open to show an internal fMRI brain scan in motion.
+
+#### 📝 Prompt
+
+```
+cut the face in half open up and make it look like we are doing a fMRI of the brain
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079724515811074048/img/ETlS_bwjcDqsxOnA.jpg" width="600" alt="Face Cross-Section fMRI Scan">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7755)**
+
+**Author:** [Doc Toadlips](https://x.com/DToadlips) | **Source:** [Link](https://x.com/DToadlips/status/2079724995815575661) | **Published:** Jul 22, 2026
 
 ---
 ### Cinematic Achilles Trojan War Video
@@ -846,11 +941,11 @@ A large ornate black frame hanging on a dark bedroom wall with black walls. To t
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2078575196550615483) | **Published:** Jul 18, 2026
 
 ---
-### Dark Fantasy Elf with Moth Mask
+### Gothic Elf Woman with Moth Eyes
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed cinematic prompt for a dark fantasy scene featuring an elf woman and an intricate moth obscuring her eyes.
+> A dark fantasy cinematic prompt for an extreme close-up of an elf woman with a large moth obscuring her eyes, featuring gothic crowns and low-key lighting.
 
 #### 📝 Prompt
 
@@ -858,7 +953,7 @@ A large ornate black frame hanging on a dark bedroom wall with black walls. To t
 Extreme close-up portrait of a elf woman with very pale freckled dusty skin, pointed elf ears, wearing an ornate blackened golden crown with gothic filigree and dark jewels on her head, long flowing white hair partially visible, a very large and detailed moth with intricate patterned wings completely covering and obscuring both of her eyes, the moth's body and spread wings fully hiding the eye area, dramatic low-key cinematic lighting with strong rim light highlighting textures and dust particles on skin, muted desaturated color palette with gold and black dominance, dark fantasy atmosphere, hyper-realistic, hyper-detailed, cinematic, moody.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1784621990255_o1g34n_HNXvRqjXgAAJLzb.jpg" width="600" alt="Dark Fantasy Elf with Moth Mask">
+<img src="https://cms-assets.youmind.com/media/1784794870305_y2t22h_HNXvRqjXgAAJLzb.jpg" width="600" alt="Gothic Elf Woman with Moth Eyes">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7522)**
 
@@ -2059,117 +2154,6 @@ Cello music
 **Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2077253936118120817) | **Published:** Jul 15, 2026
 
 ---
-### Floating Water Sphere Physics
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A high-quality prompt for generating a photorealistic video of water flowing upward from a glass to form a sphere.
-
-#### 📝 Prompt
-
-```
-A glass of water on a table, the water suddenly flows upward out of the glass and forms a floating sphere, photorealistic, soft daylight
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077061435562364928/img/8qeVxVJrvKvXuW5h.jpg" width="600" alt="Floating Water Sphere Physics">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7268)**
-
-**Author:** [atmen](https://x.com/atmen189) | **Source:** [Link](https://x.com/atmen189/status/2077238726120669192) | **Published:** Jul 15, 2026
-
----
-### Man Walking on Stormy Cliff
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt of a man walking barefoot along a precipice during a heavy storm.
-
-#### 📝 Prompt
-
-```
-Generate a video of the character walking on the edge of a precipice, on a very windy and rainy day, with the sea ragging down below. Make it as realistic as possible. He is barefoot, wearing shorts and a t-shirt (really not prepared for the inclement weather).
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077203114336137216/img/5M3wp2NkmjE4fQeb.jpg" width="600" alt="Man Walking on Stormy Cliff">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7301)**
-
-**Author:** [Marcelo](https://x.com/absurdoburrito) | **Source:** [Link](https://x.com/absurdoburrito/status/2077203168341926014) | **Published:** Jul 15, 2026
-
----
-### Cinematic 8K FPV Drone Tour of Senegal
-
-![한국어](https://img.shields.io/badge/lang-한국어-orange)
-
-> A highly detailed 10-second FPV drone flight prompt for Grok Imagine, capturing a journey across Senegal's landmarks including the African Renaissance Monument, Goree Island, and Lake Rose during the golden hour.
-
-#### 📝 Prompt
-
-```
-A 10-second ultra-high-definition cinematic first-person FPV drone video. Extremely stable and natural drone flight with almost no camera shake, delivering vivid visual beauty like real drone camera footage. It blends smooth, elegant movements with thrilling dynamic scenes. 
-
-0-2s: Smoothly fly at a high altitude over Dakar during golden hour, orbiting left for a grand panoramic view of the African Renaissance Monument and the skyline. 
-
-2-4s: Naturally transition to Goree Island, performing a thrilling low-altitude flight around the historic island, capturing the details of colonial-era buildings and waves. 
-
-4-6s: Move to Lac Rose (Pink Lake), enjoying a dynamic low-altitude flight over the pink lake, capturing the salty patterns and shimmering water surface. 
-
-6-8s: Move to Djoudj National Park, smoothly flying low over wetlands, birds, and lush mangrove forests while orbiting left. 
-
-8-10s: Finally, ascend over the Sine-Saloum Delta, capturing a beautiful sunset panorama. Show a majestic yet understated landscape where mangrove forests, waterways, and golden sunlight harmonize while orbiting left. 
-
-Extremely realistic 8K drone footage, very smooth FPV movement and natural left turns, warm cinematic lighting changes leading from golden hour to a vivid sunset, realistic and accurate landmarks boasting maximum detail, highly sophisticated textures of water, salt, stone, and plants, deep atmosphere, masterpiece, describe with ultra-precision.
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2077034602020093954/pu/img/fnLBpMQGWkAG_5up.jpg" width="600" alt="Cinematic 8K FPV Drone Tour of Senegal">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7269)**
-
-**Author:** [Drone V Drone](https://x.com/drone_v_drone) | **Source:** [Link](https://x.com/drone_v_drone/status/2077034857784574322) | **Published:** Jul 14, 2026
-
----
-### Celestial Aurora Weaving
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A poetic visualization of the northern lights being woven across the polar sky by celestial artisans using massive looms.
-
-#### 📝 Prompt
-
-```
-Massive looms stretch across the polar sky where ribbons of emerald, violet, sapphire, and gold are woven into auroras by thousands of celestial artisans.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075485665500794880/img/7jRhIujItskIVQx_.jpg" width="600" alt="Celestial Aurora Weaving">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7231)**
-
-**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2076811411796451619) | **Published:** Jul 13, 2026
-
----
-### Cosmic Friendly Being Ad Astra
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A creative video prompt generating a cosmic being with a futuristic and inspirational atmosphere.
-
-#### 📝 Prompt
-
-```
-Cosmic friendly being
-
-The future is right in front of you.
-
-Grasp it - AD Astra
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076775823953027074/img/CG4a6nKiISfvprqj.jpg" width="600" alt="Cosmic Friendly Being Ad Astra">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7223)**
-
-**Author:** [BackWoods 🌱](https://x.com/SGBackWoods) | **Source:** [Link](https://x.com/SGBackWoods/status/2076775890256564473) | **Published:** Jul 13, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2231,6 +2215,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-23T06:52:59.966Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-23T10:46:53.778Z</sub>
 
 </div>

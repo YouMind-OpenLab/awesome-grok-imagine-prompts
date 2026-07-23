@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2206** |
+| 📝 Total Prompts | **2211** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-23** |
 
@@ -189,6 +189,82 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### जैस्मीन फ्लावर शावर सरियल वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक फैंटेसी वीडियो प्रॉम्प्ट जिसमें कोरल ड्रेस पहने एक महिला को सिनेमैटिक मोशन इफेक्ट्स के साथ विशाल जैस्मीन फूलों की बौछार के बीच दिखाया गया है।
+
+#### 📝 Prompt
+
+```
+हाइपर-रियलिस्टिक, गोरी पश्चिमी यूरोपीय प्राकृतिक मध्यम सुनहरे घुंघराले छोटे बाल, सांवली त्वचा, छोटी कोरल ड्रेस पहने हुए, लंबे सुंदर पैर, उज्ज्वल और ऊर्जावान पोज़, सुपर ओवरसाइज़्ड जैस्मीन फूलों की बौछार, उन्मुक्त, ओस और भोर, सरियल, फैंटेसी फ्लेयर, मूवमेंट और धुंधले हिस्सों को दर्शाने वाला शॉट
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080195922261159936/img/qFyktxK14q7UycIM.jpg" width="600" alt="जैस्मीन फ्लावर शावर सरियल वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7756)**
+
+**Author:** [Carolina Delgado](https://x.com/carolletta) | **Source:** [Link](https://x.com/carolletta/status/2080195996315738403) | **Published:** Jul 23, 2026
+
+---
+### एनिमेटेड ड्रैगन बैटल सीक्वेंस
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine में सिनेमैटिक लाइटिंग और विस्फोटक प्रभावों के साथ एक भीषण ड्रैगन लड़ाई उत्पन्न करने के लिए एक हाई-एक्शन वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+एनिमेटेड कार्टून ड्रैगन बैटल सीक्वेंस: नुकीले शल्कों और चमकती एम्बर आंखों वाला एक भीषण लाल ड्रैगन दहाड़ता है और दर्शक की ओर आक्रामक रूप से उड़ते हुए शक्तिशाली आग के गोले छोड़ता है। डायनामिक कैमरा एंगल, विस्फोटक फ्लेम इफेक्ट्स, ड्रामेटिक लाइट
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080006615110168576/img/OZish_Gktox2ogxM.jpg" width="600" alt="एनिमेटेड ड्रैगन बैटल सीक्वेंस">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7754)**
+
+**Author:** [Faizal](https://x.com/zalkad) | **Source:** [Link](https://x.com/zalkad/status/2080006653068616110) | **Published:** Jul 22, 2026
+
+---
+### जलते हुए गाँव में सिनेमैटिक योद्धा महिला
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक यथार्थवादी सिनेमैटिक पोर्ट्रेट बनाने के लिए अत्यधिक विस्तृत प्रॉम्प्ट, जिसमें एक मध्ययुगीन जलते हुए धुएँ से भरे गाँव में प्लेट आर्मर पहने सुनहरे बालों वाली योद्धा है और पृष्ठभूमि में एक ड्रैगन है।
+
+#### 📝 Prompt
+
+```
+गोरी त्वचा, तीखी नीली आँखों और दाहिने कंधे पर लंबी, घनी प्लेटिनम-ब्लोंड चोटी वाली एक योद्धा महिला का अल्ट्रा-यथार्थवादी सिनेमैटिक पोर्ट्रेट, जिसने जटिल उभरे हुए पैटर्न और चेनमेल के साथ अत्यधिक विस्तृत अलंकृत सिल्वर-ग्रे मध्ययुगीन प्लेट आर्मर पहना है, दाहिने हाथ में गहरे हैंडल वाली एक बड़ी अलंकृत लंबी तलवार पकड़े हुए, जलती हुई इमारतों वाली एक मध्ययुगीन गाँव की सड़क पर खड़ी है, धुएँ वाली पृष्ठभूमि में एक बड़ा धुंधला ड्रैगन दिखाई दे रहा है, बहुत ही म्यूट और डीसैचुरेटेड कलर पैलेट, भारी रूप से म्यूट रंग, कम सैचुरेशन, ग्रिटी सिनेमैटिक वातावरण, नाटकीय लेकिन संयमित लाइटिंग, हल्की आग की चमक, ऊपर की ओर देखती हुई तीखी केंद्रित आँखें, गंभीर और नेक अभिव्यक्ति, दिखाई देने वाले रोमछिद्रों के साथ अल्ट्रा-डिटेल्ड त्वचा बनावट, आर्मर पर यथार्थवादी धातु प्रतिबिंब और घिसाव, धूल और कालिख के कण, 8k रॉ फोटोग्राफी, फोटो-यथार्थवादी।
+```
+
+<img src="https://cms-assets.youmind.com/media/1784794869283_q4h6ki_HN2Q8NdXIAAF7kf.jpg" width="600" alt="जलते हुए गाँव में सिनेमैटिक योद्धा महिला">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7757)**
+
+**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2079978038343913772) | **Published:** Jul 22, 2026
+
+---
+### नॉर्डिक 8-बिट पिक्सेल आर्ट स्टाइल
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ईथरियल नॉर्डिक इंस्ट्रूमेंटल संगीत के साथ एक आरामदायक 8-बिट पिक्सेल आर्ट दृश्य उत्पन्न करने के लिए एक प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+प्यारा और आरामदायक 8-बिट पिक्सेल आर्ट, बिना किसी वोकल के शांत ईथरियल नॉर्डिक इंस्ट्रूमेंटल संगीत, जैसे कि आप अराजकता की गहरी अंधेरी रात से एक लंबी यात्रा के बाद उस जगह घर लौट रहे हैं जहाँ आप वास्तव में संबंधित हैं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079811831452057600/img/1EWmR4RRAfGfaBoZ.jpg" width="600" alt="नॉर्डिक 8-बिट पिक्सेल आर्ट स्टाइल">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7758)**
+
+**Author:** [Kiki 🇺🇸](https://x.com/kikisknees) | **Source:** [Link](https://x.com/kikisknees/status/2079811897411682562) | **Published:** Jul 22, 2026
+
+---
 ### 8-bit पिक्सेल फेयरी एनिमेशन
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +282,25 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7697)**
 
 **Author:** [paranoidream ♡︎](https://x.com/paranoidream) | **Source:** [Link](https://x.com/paranoidream/status/2079799074325422343) | **Published:** Jul 22, 2026
+
+---
+### चेहरे का क्रॉस-सेक्शन fMRI स्कैन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सिनेमैटिक वीडियो प्रॉम्प्ट जो मानव चेहरे को बीच से खुलते हुए और उसके अंदर के fMRI ब्रेन स्कैन को गति में दिखाता है।
+
+#### 📝 Prompt
+
+```
+चेहरे को बीच से काटें और इसे खोलें ताकि ऐसा लगे कि हम मस्तिष्क का fMRI कर रहे हैं
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079724515811074048/img/ETlS_bwjcDqsxOnA.jpg" width="600" alt="चेहरे का क्रॉस-सेक्शन fMRI स्कैन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7755)**
+
+**Author:** [Doc Toadlips](https://x.com/DToadlips) | **Source:** [Link](https://x.com/DToadlips/status/2079724995815575661) | **Published:** Jul 22, 2026
 
 ---
 ### सिनेमैटिक अकिलीज़ ट्रोजन वॉर वीडियो
@@ -1039,7 +1134,7 @@ free kick – messi 25m out, five-man wall, curl up and over the wall into the t
 एक एल्फ महिला का एक्सट्रीम क्लोज-अप पोर्ट्रेट, जिसकी त्वचा बहुत पीली, झाइयों वाली और धूल भरी है, नुकीले एल्फ कान, सिर पर गॉथिक फिलिग्री और गहरे रत्नों से जड़ा एक अलंकृत काला-सुनहरा ताज, लंबे लहराते सफेद बाल आंशिक रूप से दिखाई दे रहे हैं, एक बहुत बड़ा और विस्तृत पतंगा जिसके जटिल पैटर्न वाले पंख उसकी दोनों आँखों को पूरी तरह से ढक रहे हैं, पतंगे का शरीर और फैले हुए पंख आँखों के क्षेत्र को पूरी तरह छिपा रहे हैं, नाटकीय लो-की सिनेमैटिक लाइटिंग के साथ मजबूत रिम लाइट जो त्वचा पर बनावट और धूल के कणों को उभार रही है, म्यूट और डीसैचुरेटेड कलर पैलेट जिसमें सोने और काले रंग की प्रधानता है, डार्क फैंटेसी वातावरण, हाइपर-रियलिस्टिक, हाइपर-डिटेल्ड, सिनेमैटिक, मूडी।
 ```
 
-<img src="https://cms-assets.youmind.com/media/1784621990255_o1g34n_HNXvRqjXgAAJLzb.jpg" width="600" alt="सिनेमैटिक डार्क फैंटेसी एल्फ पोर्ट्रेट">
+<img src="https://cms-assets.youmind.com/media/1784794870305_y2t22h_HNXvRqjXgAAJLzb.jpg" width="600" alt="सिनेमैटिक डार्क फैंटेसी एल्फ पोर्ट्रेट">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7522)**
 
@@ -2240,117 +2335,6 @@ Because I Can नाम का बिल्ली का बच्चा बो�
 **Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2077253936118120817) | **Published:** Jul 15, 2026
 
 ---
-### तैरता हुआ पानी का गोला
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> सॉफ्ट डेलाइट में एक गिलास से बाहर निकलकर तैरते हुए गोले का आकार लेते पानी का एक फोटो-रियलिस्टिक वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-मेज पर रखा पानी का एक गिलास, पानी अचानक गिलास से ऊपर की ओर बहता है और एक तैरता हुआ गोला बनाता है, फोटो-रियलिस्टिक, सॉफ्ट डेलाइट
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077061435562364928/img/8qeVxVJrvKvXuW5h.jpg" width="600" alt="तैरता हुआ पानी का गोला">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7268)**
-
-**Author:** [atmen](https://x.com/atmen189) | **Source:** [Link](https://x.com/atmen189/status/2077238726120669192) | **Published:** Jul 15, 2026
-
----
-### तूफानी चट्टान पर चलता हुआ व्यक्ति
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक भारी तूफान के दौरान चट्टान के किनारे नंगे पैर चलते हुए एक व्यक्ति का सिनेमैटिक वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-एक ऐसे पात्र का वीडियो जनरेट करें जो बहुत तेज हवा और बारिश वाले दिन, नीचे उफनते समुद्र के साथ, चट्टान के किनारे पर चल रहा हो। इसे यथासंभव यथार्थवादी बनाएं। वह नंगे पैर है, शॉर्ट्स और टी-शर्ट पहने हुए है (जो खराब मौसम के लिए बिल्कुल भी उपयुक्त नहीं है)।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077203114336137216/img/5M3wp2NkmjE4fQeb.jpg" width="600" alt="तूफानी चट्टान पर चलता हुआ व्यक्ति">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7301)**
-
-**Author:** [Marcelo](https://x.com/absurdoburrito) | **Source:** [Link](https://x.com/absurdoburrito/status/2077203168341926014) | **Published:** Jul 15, 2026
-
----
-### सेनेगल का सिनेमैटिक 8K FPV ड्रोन टूर
-
-![한국어](https://img.shields.io/badge/lang-한국어-orange)
-
-> Grok Imagine के लिए 10-सेकंड का एक अत्यंत विस्तृत FPV ड्रोन फ्लाइट प्रॉम्प्ट, जो अफ्रीकन रेनेसां मॉन्यूमेंट, गोरी आइलैंड और लेक रोज़ सहित सेनेगल के लैंडमार्क्स की गोल्डन आवर के दौरान यात्रा को दर्शाता है।
-
-#### 📝 Prompt
-
-```
-10-सेकंड का अल्ट्रा-हाई-डेफिनिशन सिनेमैटिक फर्स्ट-पर्सन FPV ड्रोन वीडियो। बेहद स्थिर और स्वाभाविक ड्रोन फ्लाइट जिसमें कैमरा शेक लगभग न के बराबर है, जो असली ड्रोन कैमरा फुटेज जैसी जीवंत दृश्य सुंदरता प्रदान करती है। यह सहज, सुंदर गतिविधियों को रोमांचक गतिशील दृश्यों के साथ जोड़ता है।
-
-0-2 सेकंड: गोल्डन आवर के दौरान डकार के ऊपर अधिक ऊंचाई पर सहजता से उड़ान भरें, अफ्रीकन रेनेसां मॉन्यूमेंट और स्काईलाइन के भव्य मनोरम दृश्य के लिए बाईं ओर परिक्रमा करें।
-
-2-4 सेकंड: स्वाभाविक रूप से गोरी आइलैंड की ओर बढ़ें, ऐतिहासिक द्वीप के चारों ओर एक रोमांचक कम ऊंचाई वाली उड़ान भरें, औपनिवेशिक युग की इमारतों और लहरों के विवरण को कैद करें।
-
-4-6 सेकंड: लैक रोज़ (पिंक लेक) पर जाएं, गुलाबी झील के ऊपर एक गतिशील कम ऊंचाई वाली उड़ान का आनंद लें, खारे पैटर्न और झिलमिलाती पानी की सतह को कैद करें।
-
-6-8 सेकंड: जूडज नेशनल पार्क (Djoudj National Park) की ओर बढ़ें, आर्द्रभूमि, पक्षियों और हरे-भरे मैंग्रोव जंगलों के ऊपर कम ऊंचाई पर सहजता से उड़ान भरते हुए बाईं ओर परिक्रमा करें।
-
-8-10 सेकंड: अंत में, साइन-सालोम डेल्टा (Sine-Saloum Delta) के ऊपर चढ़ें, सूर्यास्त का एक सुंदर मनोरम दृश्य कैद करें। एक राजसी लेकिन संयमित परिदृश्य दिखाएं जहां मैंग्रोव के जंगल, जलमार्ग और सुनहरी धूप बाईं ओर परिक्रमा करते हुए सामंजस्य बिठाते हैं।
-
-अत्यंत यथार्थवादी 8K ड्रोन फुटेज, बहुत ही सहज FPV मूवमेंट और स्वाभाविक बाएं मोड़, गोल्डन आवर से जीवंत सूर्यास्त की ओर ले जाने वाली गर्म सिनेमैटिक लाइटिंग, अधिकतम विवरण के साथ यथार्थवादी और सटीक लैंडमार्क्स, पानी, नमक, पत्थर और पौधों की अत्यधिक परिष्कृत बनावट, गहरा वातावरण, मास्टरपीस, अल्ट्रा-प्रिसिजन के साथ वर्णन करें।
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2077034602020093954/pu/img/fnLBpMQGWkAG_5up.jpg" width="600" alt="सेनेगल का सिनेमैटिक 8K FPV ड्रोन टूर">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7269)**
-
-**Author:** [Drone V Drone](https://x.com/drone_v_drone) | **Source:** [Link](https://x.com/drone_v_drone/status/2077034857784574322) | **Published:** Jul 14, 2026
-
----
-### आकाशीय औरोरा की बुनाई
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ध्रुवीय आकाश में विशाल करघों का उपयोग करके आकाशीय कारीगरों द्वारा उत्तरी रोशनी को बुने जाने का एक काव्यात्मक चित्रण।
-
-#### 📝 Prompt
-
-```
-ध्रुवीय आकाश में विशाल करघे फैले हुए हैं, जहाँ हजारों आकाशीय कारीगर पन्ने, बैंगनी, नीलम और सुनहरे रंग की पट्टियों को औरोरा में बुनते हैं।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075485665500794880/img/7jRhIujItskIVQx_.jpg" width="600" alt="आकाशीय औरोरा की बुनाई">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7231)**
-
-**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2076811411796451619) | **Published:** Jul 13, 2026
-
----
-### Cosmic Friendly Being Ad Astra
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक रचनात्मक वीडियो प्रॉम्प्ट जो भविष्यवादी और प्रेरणादायक वातावरण के साथ एक ब्रह्मांडीय प्राणी (cosmic being) को उत्पन्न करता है।
-
-#### 📝 Prompt
-
-```
-ब्रह्मांडीय मित्रवत प्राणी
-
-भविष्य बिल्कुल आपके सामने है।
-
-इसे हासिल करें - AD Astra
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076775823953027074/img/CG4a6nKiISfvprqj.jpg" width="600" alt="Cosmic Friendly Being Ad Astra">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7223)**
-
-**Author:** [BackWoods 🌱](https://x.com/SGBackWoods) | **Source:** [Link](https://x.com/SGBackWoods/status/2076775890256564473) | **Published:** Jul 13, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2412,6 +2396,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-23T06:53:09.092Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-23T10:47:01.878Z</sub>
 
 </div>

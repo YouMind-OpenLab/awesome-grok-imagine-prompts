@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **2206** |
+| 📝 提示词总数 | **2211** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-07-23** |
 
@@ -189,6 +189,82 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 茉莉花雨超现实视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个奇幻视频提示词，展示了一位身穿珊瑚色连衣裙的女性，被超大号茉莉花雨所环绕，并带有电影级的动态效果。
+
+#### 📝 提示词
+
+```
+超写实，白人西欧女性，自然中等金色卷发，短发，小麦色皮肤，身穿短款珊瑚色连衣裙，修长美腿，明亮且充满活力的姿态，超大号茉莉花雨，奔放，露水与黎明，超现实，奇幻光晕，镜头展现出动态感与模糊效果
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080195922261159936/img/qFyktxK14q7UycIM.jpg" width="600" alt="茉莉花雨超现实视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7756)**
+
+**作者:** [Carolina Delgado](https://x.com/carolletta) | **来源:** [Link](https://x.com/carolletta/status/2080195996315738403) | **发布时间:** Jul 23, 2026
+
+---
+### 动画龙族战斗序列
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个高动作视频提示词，用于在 Grok Imagine 中生成具有电影级光影和爆炸效果的激烈龙族战斗场景。
+
+#### 📝 提示词
+
+```
+动画卡通龙族战斗序列：一只长有尖刺鳞片、双眼闪烁琥珀色光芒的凶猛红龙正在咆哮，并在向观众猛烈飞行的过程中喷射出强力的火焰。动态摄像机角度，爆炸性火焰特效，戏剧性光影
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080006615110168576/img/OZish_Gktox2ogxM.jpg" width="600" alt="动画龙族战斗序列">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7754)**
+
+**作者:** [Faizal](https://x.com/zalkad) | **来源:** [Link](https://x.com/zalkad/status/2080006653068616110) | **发布时间:** Jul 22, 2026
+
+---
+### 燃烧村庄中的电影感女战士
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个高细节提示词，用于生成一张逼真的电影感肖像：一位身穿板甲的金发女战士站在烟雾缭绕、燃烧的中世纪村庄中，背景中隐约可见一条巨龙。
+
+#### 📝 提示词
+
+```
+超逼真的电影感肖像，一位皮肤白皙、拥有锐利蓝眼睛的女战士，右肩垂着厚长的白金发辫，身穿细节极其丰富的华丽银灰色中世纪板甲，盔甲上有复杂的浮雕图案和锁子甲，右手握着一把带有深色剑柄的华丽长剑，站在燃烧着建筑的中世纪村庄街道上，背景的烟雾中可见模糊的巨龙轮廓，色调极其柔和且去饱和，低饱和度，粗粝的电影氛围，戏剧性但柔和的灯光，微弱的火光，眼神锐利且略微向上看，表情严肃而高贵，超细节的皮肤纹理可见毛孔，逼真的金属反射和盔甲磨损痕迹，灰尘和烟灰颗粒，8k 原片摄影，照片级真实感。
+```
+
+<img src="https://cms-assets.youmind.com/media/1784794869283_q4h6ki_HN2Q8NdXIAAF7kf.jpg" width="600" alt="燃烧村庄中的电影感女战士">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7757)**
+
+**作者:** [Myluna](https://x.com/monicamoonx) | **来源:** [Link](https://x.com/monicamoonx/status/2079978038343913772) | **发布时间:** Jul 22, 2026
+
+---
+### 北欧 8-Bit 像素艺术风格
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于生成令人放松的 8-Bit 像素艺术场景的提示词，并配有空灵的北欧器乐。
+
+#### 📝 提示词
+
+```
+可爱且令人放松的 8-Bit 像素艺术，平静而空灵的北欧器乐，无歌词。仿佛在历经漫长黑夜的混乱旅程后，终于回到了真正属于你的归宿。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079811831452057600/img/1EWmR4RRAfGfaBoZ.jpg" width="600" alt="北欧 8-Bit 像素艺术风格">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7758)**
+
+**作者:** [Kiki 🇺🇸](https://x.com/kikisknees) | **来源:** [Link](https://x.com/kikisknees/status/2079811897411682562) | **发布时间:** Jul 22, 2026
+
+---
 ### 8 位像素仙子动画
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +282,25 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7697)**
 
 **作者:** [paranoidream ♡︎](https://x.com/paranoidream) | **来源:** [Link](https://x.com/paranoidream/status/2079799074325422343) | **发布时间:** Jul 22, 2026
+
+---
+### 人脸横截面 fMRI 扫描
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个电影级的视频提示词，可视化展示人脸裂开并露出内部动态 fMRI 大脑扫描的过程。
+
+#### 📝 提示词
+
+```
+将人脸从中间切开并打开，呈现出正在进行大脑 fMRI 扫描的效果
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079724515811074048/img/ETlS_bwjcDqsxOnA.jpg" width="600" alt="人脸横截面 fMRI 扫描">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7755)**
+
+**作者:** [Doc Toadlips](https://x.com/DToadlips) | **来源:** [Link](https://x.com/DToadlips/status/2079724995815575661) | **发布时间:** Jul 22, 2026
 
 ---
 ### 史诗级阿喀琉斯特洛伊战争视频
@@ -1041,7 +1136,7 @@ Meowlow
 精灵女性的极致特写肖像，皮肤苍白且布满雀斑与尘埃，长着尖尖的精灵耳，头上戴着装饰华丽的黑金皇冠，镶嵌着哥特式金银丝工艺与深色宝石，隐约可见飘逸的长白发，一只细节极其丰富的巨型飞蛾完全遮住了她的双眼，飞蛾的身体和展开的翅膀彻底掩盖了眼部区域，戏剧性的低调电影级布光，强烈的轮廓光突显了皮肤的纹理与尘埃颗粒，采用低饱和度的色调，以金色和黑色为主，营造出暗黑奇幻的氛围，超写实，超细节，电影感，情绪化。
 ```
 
-<img src="https://cms-assets.youmind.com/media/1784621990255_o1g34n_HNXvRqjXgAAJLzb.jpg" width="600" alt="电影级暗黑奇幻精灵肖像">
+<img src="https://cms-assets.youmind.com/media/1784794870305_y2t22h_HNXvRqjXgAAJLzb.jpg" width="600" alt="电影级暗黑奇幻精灵肖像">
 
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7522)**
 
@@ -2242,117 +2337,6 @@ Lila 驾驶着一艘白色小帆船在平静的切萨皮克湾上轻柔航行，
 **作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2077253936118120817) | **发布时间:** Jul 15, 2026
 
 ---
-### 悬浮水球
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段照片级真实感的视频提示词：水从杯中流出，在柔和的日光下形成一个悬浮的水球。
-
-#### 📝 提示词
-
-```
-桌上放着一杯水，水突然向上流出杯子并形成一个悬浮的球体，照片级真实感，柔和的日光
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077061435562364928/img/8qeVxVJrvKvXuW5h.jpg" width="600" alt="悬浮水球">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7268)**
-
-**作者:** [atmen](https://x.com/atmen189) | **来源:** [Link](https://x.com/atmen189/status/2077238726120669192) | **发布时间:** Jul 15, 2026
-
----
-### 暴风雨悬崖上的行走者
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个电影质感的视频提示词：一名男子在暴风雨中赤脚走在悬崖边上。
-
-#### 📝 提示词
-
-```
-生成一段视频，画面中角色正走在悬崖边缘，当天风雨交加，下方海浪汹涌。请尽可能追求真实感。他赤着脚，穿着短裤和 T 恤（看起来完全没有为恶劣天气做好准备）。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077203114336137216/img/5M3wp2NkmjE4fQeb.jpg" width="600" alt="暴风雨悬崖上的行走者">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7301)**
-
-**作者:** [Marcelo](https://x.com/absurdoburrito) | **来源:** [Link](https://x.com/absurdoburrito/status/2077203168341926014) | **发布时间:** Jul 15, 2026
-
----
-### 塞内加尔 8K 电影级 FPV 无人机之旅
-
-![한국어](https://img.shields.io/badge/lang-한국어-orange)
-
-> 为 Grok Imagine 设计的 10 秒高细节 FPV 无人机飞行提示词，捕捉穿越塞内加尔地标的旅程，包括非洲复兴纪念碑、戈雷岛和玫瑰湖的黄金时刻。
-
-#### 📝 提示词
-
-```
-一段 10 秒的超高清电影级第一人称 FPV 无人机视频。飞行极其平稳自然，几乎没有镜头抖动，呈现出如同真实无人机拍摄般的生动视觉美感。它将平滑优雅的运动与惊险的动态场景完美融合。
-
-0-2 秒：在黄金时刻平稳地飞越达喀尔高空，向左环绕，呈现非洲复兴纪念碑和城市天际线的宏伟全景。
-
-2-4 秒：自然过渡到戈雷岛，围绕这座历史悠久的岛屿进行惊险的低空飞行，捕捉殖民时期建筑的细节和海浪。
-
-4-6 秒：移动至玫瑰湖（Lac Rose），在粉色湖面上进行动态低空飞行，捕捉盐分纹理和波光粼粼的水面。
-
-6-8 秒：移动至朱贾国家鸟类保护区（Djoudj National Park），在湿地、鸟类和茂密的红树林上空平稳低飞，同时向左环绕。
-
-8-10 秒：最后，上升至萨卢姆三角洲（Sine-Saloum Delta）上空，捕捉美丽的日落全景。展现一幅宏伟而内敛的景观，红树林、水道与金色阳光交相辉映，同时向左环绕。
-
-极其逼真的 8K 无人机镜头，非常平滑的 FPV 运动和自然的左转，从黄金时刻过渡到绚丽日落的温暖电影级光影变化，真实且准确的地标建筑，细节丰富，水面、盐分、岩石和植物的纹理高度细腻，深邃的氛围感，大师之作，超高精度描述。
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2077034602020093954/pu/img/fnLBpMQGWkAG_5up.jpg" width="600" alt="塞内加尔 8K 电影级 FPV 无人机之旅">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7269)**
-
-**作者:** [Drone V Drone](https://x.com/drone_v_drone) | **来源:** [Link](https://x.com/drone_v_drone/status/2077034857784574322) | **发布时间:** Jul 14, 2026
-
----
-### 天穹极光编织
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一幅极具诗意的视觉画面：天界工匠们使用巨大的织布机，在极地天空中编织出绚丽的北极光。
-
-#### 📝 提示词
-
-```
-巨大的织布机横跨极地天空，成千上万的天界工匠在此将翡翠绿、紫罗兰、蓝宝石和金色的丝带编织成绚烂的极光。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075485665500794880/img/7jRhIujItskIVQx_.jpg" width="600" alt="天穹极光编织">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7231)**
-
-**作者:** [James King](https://x.com/JamesKi97287119) | **来源:** [Link](https://x.com/JamesKi97287119/status/2076811411796451619) | **发布时间:** Jul 13, 2026
-
----
-### Cosmic Friendly Being Ad Astra
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个创意视频提示词，旨在生成具有未来感和励志氛围的宇宙生物。
-
-#### 📝 提示词
-
-```
-友好的宇宙生物
-
-未来就在你眼前。
-
-把握它 —— AD Astra
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076775823953027074/img/CG4a6nKiISfvprqj.jpg" width="600" alt="Cosmic Friendly Being Ad Astra">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7223)**
-
-**作者:** [BackWoods 🌱](https://x.com/SGBackWoods) | **来源:** [Link](https://x.com/SGBackWoods/status/2076775890256564473) | **发布时间:** Jul 13, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2414,6 +2398,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-07-23T06:53:00.886Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-07-23T10:46:55.079Z</sub>
 
 </div>

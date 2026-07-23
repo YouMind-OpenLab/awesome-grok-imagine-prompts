@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **2206** |
+| 📝 총 프롬프트 수 | **2211** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-07-23** |
 
@@ -189,6 +189,82 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 자스민 꽃 소나기 초현실적 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 산호색 드레스를 입은 여성이 거대한 자스민 꽃 소나기에 둘러싸여 있는, 영화 같은 움직임 효과가 가미된 판타지 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+초현실주의, 백인 서유럽인, 자연스러운 중간 밝기의 금발, 풍성한 곱슬 단발머리, 태닝한 피부, 짧은 산호색 드레스 착용, 길고 아름다운 다리, 밝고 활기찬 포즈, 초대형 자스민 꽃 소나기, 쏟아지는 꽃잎, 이슬과 새벽, 초현실적, 판타지 플레어, 움직임과 흐릿한 부분이 강조된 샷
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080195922261159936/img/qFyktxK14q7UycIM.jpg" width="600" alt="자스민 꽃 소나기 초현실적 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7756)**
+
+**작성자:** [Carolina Delgado](https://x.com/carolletta) | **출처:** [Link](https://x.com/carolletta/status/2080195996315738403) | **게시일:** Jul 23, 2026
+
+---
+### 애니메이션 드래곤 전투 시퀀스
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine에서 영화 같은 조명과 폭발적인 효과를 갖춘 치열한 드래곤 전투를 생성하기 위한 고액션 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+애니메이션 카툰 드래곤 전투 시퀀스: 뾰족한 비늘과 빛나는 호박색 눈을 가진 사나운 붉은 드래곤이 포효하며, 시청자를 향해 공격적으로 날아오면서 강력한 화염을 내뿜습니다. 역동적인 카메라 앵글, 폭발적인 불꽃 효과, 드라마틱한 조명
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080006615110168576/img/OZish_Gktox2ogxM.jpg" width="600" alt="애니메이션 드래곤 전투 시퀀스">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7754)**
+
+**작성자:** [Faizal](https://x.com/zalkad) | **출처:** [Link](https://x.com/zalkad/status/2080006653068616110) | **게시일:** Jul 22, 2026
+
+---
+### 불타는 마을의 영화 같은 여성 전사
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 연기가 자욱하고 불타는 중세 마을을 배경으로, 뒤편에 용이 있는 판금 갑옷을 입은 금발 전사의 사실적인 영화적 초상을 생성하기 위한 고도로 상세한 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+하얀 피부와 날카로운 푸른 눈, 오른쪽 어깨 위로 길고 두꺼운 백금발 머리를 땋아 내린 여성 전사의 초고화질 영화적 초상. 복잡한 양각 패턴과 사슬 갑옷이 정교하게 새겨진 은회색 중세 판금 갑옷을 착용하고, 오른손에는 어두운 손잡이가 달린 크고 화려한 롱소드를 쥐고 있음. 불타는 건물이 있는 중세 마을 거리에 서 있으며, 연기 자욱한 배경으로 흐릿한 거대한 용이 보임. 매우 차분하고 채도가 낮은 색감, 억제된 색조, 낮은 채도, 거칠고 영화적인 분위기, 극적이면서도 절제된 조명, 부드러운 불빛, 약간 위를 응시하는 날카로운 눈매, 진지하고 고귀한 표정, 모공까지 보이는 초고화질 피부 질감, 갑옷의 사실적인 금속 반사와 마모 흔적, 먼지와 그을음 입자, 8k RAW 사진, 사실적인 사진.
+```
+
+<img src="https://cms-assets.youmind.com/media/1784794869283_q4h6ki_HN2Q8NdXIAAF7kf.jpg" width="600" alt="불타는 마을의 영화 같은 여성 전사">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7757)**
+
+**작성자:** [Myluna](https://x.com/monicamoonx) | **출처:** [Link](https://x.com/monicamoonx/status/2079978038343913772) | **게시일:** Jul 22, 2026
+
+---
+### 북유럽풍 8비트 픽셀 아트 스타일
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 몽환적인 북유럽풍 연주곡과 어우러진 편안한 8비트 픽셀 아트 장면을 생성하기 위한 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+귀엽고 편안한 8비트 픽셀 아트, 보컬이 없는 차분하고 몽환적인 북유럽풍 연주곡. 깊고 어두운 혼돈의 밤을 지나 긴 여정을 마치고, 진정한 안식처인 집으로 돌아온 듯한 느낌을 줍니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079811831452057600/img/1EWmR4RRAfGfaBoZ.jpg" width="600" alt="북유럽풍 8비트 픽셀 아트 스타일">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7758)**
+
+**작성자:** [Kiki 🇺🇸](https://x.com/kikisknees) | **출처:** [Link](https://x.com/kikisknees/status/2079811897411682562) | **게시일:** Jul 22, 2026
+
+---
 ### 8비트 픽셀 요정 애니메이션
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +282,25 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7697)**
 
 **작성자:** [paranoidream ♡︎](https://x.com/paranoidream) | **출처:** [Link](https://x.com/paranoidream/status/2079799074325422343) | **게시일:** Jul 22, 2026
+
+---
+### 얼굴 단면 fMRI 스캔
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 사람의 얼굴이 반으로 갈라지며 내부의 fMRI 뇌 스캔 영상이 움직이는 모습을 시각화한 시네마틱 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+얼굴을 반으로 가르고 그 안에서 뇌 fMRI 스캔이 진행되는 것처럼 보이게 만들어 줘
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079724515811074048/img/ETlS_bwjcDqsxOnA.jpg" width="600" alt="얼굴 단면 fMRI 스캔">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7755)**
+
+**작성자:** [Doc Toadlips](https://x.com/DToadlips) | **출처:** [Link](https://x.com/DToadlips/status/2079724995815575661) | **게시일:** Jul 22, 2026
 
 ---
 ### 트로이 전쟁 아킬레우스 시네마틱 영상
@@ -1040,7 +1135,7 @@ free kick – 25m 거리의 메시, 5인 수비벽, 수비벽을 넘어 상단 �
 창백하고 주근깨가 있으며 먼지가 내려앉은 피부를 가진 엘프 여성의 익스트림 클로즈업 초상화, 뾰족한 엘프 귀, 고딕 양식의 세공과 어두운 보석이 박힌 화려한 검은색 금관을 머리에 쓰고 있음, 길게 흐르는 흰 머리카락이 부분적으로 보임, 복잡한 패턴의 날개를 가진 매우 크고 디테일한 나방이 양쪽 눈을 완전히 덮고 가리고 있음, 나방의 몸통과 펼쳐진 날개가 눈 부위를 완전히 숨김, 피부의 질감과 먼지 입자를 강조하는 강렬한 림 라이트가 적용된 드라마틱한 로우 키 시네마틱 조명, 금색과 검은색이 주를 이루는 차분하고 채도가 낮은 색감, 다크 판타지 분위기, 하이퍼 리얼리스틱, 초정밀 디테일, 시네마틱, 무드 있는 분위기.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1784621990255_o1g34n_HNXvRqjXgAAJLzb.jpg" width="600" alt="시네마틱 다크 판타지 엘프 초상화">
+<img src="https://cms-assets.youmind.com/media/1784794870305_y2t22h_HNXvRqjXgAAJLzb.jpg" width="600" alt="시네마틱 다크 판타지 엘프 초상화">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7522)**
 
@@ -2241,117 +2336,6 @@ Because I Can이라는 이름의 아기 고양이가 모닥불 파티에 참여�
 **작성자:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **출처:** [Link](https://x.com/HawkinsonLindy/status/2077253936118120817) | **게시일:** Jul 15, 2026
 
 ---
-### 공중에 떠 있는 물 구체
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 유리잔에서 흘러나온 물이 부드러운 자연광 아래 공중에 떠 있는 구체 형태를 이루는 모습을 담은 사실적인 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-테이블 위의 유리잔, 물이 갑자기 유리잔 밖으로 솟구쳐 올라 공중에 떠 있는 구체를 형성함, 사실적인 사진 느낌, 부드러운 자연광
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077061435562364928/img/8qeVxVJrvKvXuW5h.jpg" width="600" alt="공중에 떠 있는 물 구체">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7268)**
-
-**작성자:** [atmen](https://x.com/atmen189) | **출처:** [Link](https://x.com/atmen189/status/2077238726120669192) | **게시일:** Jul 15, 2026
-
----
-### 폭풍우 치는 절벽을 걷는 남자
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 거센 폭풍우 속에서 맨발로 절벽을 따라 걷는 남자의 모습을 담은 영화 같은 비디오 프롬프트.
-
-#### 📝 프롬프트
-
-```
-바람이 매우 강하게 불고 비가 내리는 날, 아래쪽에는 거친 바다가 펼쳐진 절벽 끝을 걷는 캐릭터의 영상을 생성해 주세요. 최대한 사실적으로 만들어 주세요. 그는 맨발에 반바지와 티셔츠 차림입니다(악천후에 전혀 대비하지 못한 모습).
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077203114336137216/img/5M3wp2NkmjE4fQeb.jpg" width="600" alt="폭풍우 치는 절벽을 걷는 남자">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7301)**
-
-**작성자:** [Marcelo](https://x.com/absurdoburrito) | **출처:** [Link](https://x.com/absurdoburrito/status/2077203168341926014) | **게시일:** Jul 15, 2026
-
----
-### 세네갈의 8K 시네마틱 FPV 드론 투어
-
-![한국어](https://img.shields.io/badge/lang-한국어-orange)
-
-> Grok Imagine을 위한 10초 분량의 고해상도 FPV 드론 비행 프롬프트입니다. 아프리카 르네상스 기념비, 고레 섬, 핑크 호수 등 세네갈의 주요 명소를 골든 아워 시간대에 담아낸 여정을 묘사합니다.
-
-#### 📝 프롬프트
-
-```
-10초 분량의 초고화질 시네마틱 1인칭 FPV 드론 영상입니다. 카메라 흔들림이 거의 없는 매우 안정적이고 자연스러운 드론 비행으로, 실제 드론 촬영 영상과 같은 생생한 시각적 아름다움을 선사합니다. 부드럽고 우아한 움직임과 스릴 넘치는 역동적인 장면이 조화를 이룹니다.
-
-0-2초: 골든 아워 시간대의 다카르 상공을 부드럽게 비행하며, 왼쪽으로 선회하여 아프리카 르네상스 기념비와 도시 스카이라인의 웅장한 파노라마 뷰를 담아냅니다.
-
-2-4초: 자연스럽게 고레 섬으로 이동하여 역사적인 섬 주변을 스릴 넘치는 저고도 비행으로 훑으며, 식민지 시대 건축물과 파도의 디테일을 포착합니다.
-
-4-6초: 핑크 호수(Lac Rose)로 이동하여 호수 위를 역동적인 저고도로 비행하며, 소금 결정 패턴과 반짝이는 수면을 담아냅니다.
-
-6-8초: 주지 국립공원(Djoudj National Park)으로 이동하여 습지와 새들, 울창한 맹그로브 숲 위를 부드럽게 저고도 비행하며 왼쪽으로 선회합니다.
-
-8-10초: 마지막으로 시네 살룸 삼각주(Sine-Saloum Delta) 상공으로 상승하며 아름다운 일몰 파노라마를 담아냅니다. 왼쪽으로 선회하면서 맹그로브 숲, 수로, 황금빛 햇살이 조화를 이루는 웅장하면서도 절제된 풍경을 보여줍니다.
-
-극도로 사실적인 8K 드론 영상, 매우 부드러운 FPV 움직임과 자연스러운 좌회전, 골든 아워에서 선명한 일몰로 이어지는 따뜻한 시네마틱 조명 변화, 최대 디테일을 자랑하는 사실적이고 정확한 랜드마크, 물·소금·돌·식물의 매우 정교한 질감, 깊이 있는 분위기, 걸작, 초정밀 묘사.
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2077034602020093954/pu/img/fnLBpMQGWkAG_5up.jpg" width="600" alt="세네갈의 8K 시네마틱 FPV 드론 투어">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7269)**
-
-**작성자:** [Drone V Drone](https://x.com/drone_v_drone) | **출처:** [Link](https://x.com/drone_v_drone/status/2077034857784574322) | **게시일:** Jul 14, 2026
-
----
-### 천상의 오로라 직조
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 거대한 베틀을 사용하는 천상의 장인들이 극지방 하늘에 오로라를 수놓는 모습을 시적으로 형상화한 작품입니다.
-
-#### 📝 프롬프트
-
-```
-극지방 하늘을 가로질러 거대한 베틀이 펼쳐져 있고, 수천 명의 천상 장인들이 에메랄드, 보라, 사파이어, 금빛 리본을 엮어 오로라를 만들어 냅니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075485665500794880/img/7jRhIujItskIVQx_.jpg" width="600" alt="천상의 오로라 직조">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7231)**
-
-**작성자:** [James King](https://x.com/JamesKi97287119) | **출처:** [Link](https://x.com/JamesKi97287119/status/2076811411796451619) | **게시일:** Jul 13, 2026
-
----
-### 우주적이고 친근한 존재, Ad Astra
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 미래지향적이고 영감을 주는 분위기의 우주적 존재를 생성하는 창의적인 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-우주적이고 친근한 존재
-
-미래가 바로 당신 앞에 있습니다.
-
-그것을 붙잡으세요 - AD Astra
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076775823953027074/img/CG4a6nKiISfvprqj.jpg" width="600" alt="우주적이고 친근한 존재, Ad Astra">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7223)**
-
-**작성자:** [BackWoods 🌱](https://x.com/SGBackWoods) | **출처:** [Link](https://x.com/SGBackWoods/status/2076775890256564473) | **게시일:** Jul 13, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2413,6 +2397,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-23T06:53:04.316Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-23T10:46:58.686Z</sub>
 
 </div>

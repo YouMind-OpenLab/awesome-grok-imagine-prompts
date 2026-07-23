@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2206** |
+| 📝 Total Prompts | **2211** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-23** |
 
@@ -189,6 +189,82 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Yasemin Çiçeği Yağmuru Sürreal Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mercan rengi elbiseli bir kadının, sinematik hareket efektleriyle devasa yasemin çiçeği yağmuruyla çevrelendiği fantastik bir video istemi.
+
+#### 📝 Prompt
+
+```
+hiper gerçekçi, beyaz batı Avrupalı doğal orta sarı saçlı, kıvırcık gür kısa saçlı, bronz tenli, kısa Mercan rengi Elbise giymiş, uzun güzel bacaklı, parlak ve enerjik poz, süper büyük boy Yasemin çiçeği yağmuru, serbest, çiy ve şafak vakti, sürreal, fantezi parlaması, hareket ve bulanık kısımları gösteren çekim
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080195922261159936/img/qFyktxK14q7UycIM.jpg" width="600" alt="Yasemin Çiçeği Yağmuru Sürreal Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7756)**
+
+**Author:** [Carolina Delgado](https://x.com/carolletta) | **Source:** [Link](https://x.com/carolletta/status/2080195996315738403) | **Published:** Jul 23, 2026
+
+---
+### Animasyonlu Ejderha Savaşı Sekansı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine'de sinematik ışıklandırma ve patlayıcı efektlerle vahşi bir ejderha savaşı oluşturmak için yüksek aksiyonlu bir video istemi.
+
+#### 📝 Prompt
+
+```
+Animasyonlu çizgi film ejderha savaşı sekansı: Dikenli pullara ve parlayan kehribar gözlere sahip vahşi bir kırmızı ejderha kükrüyor ve izleyiciye doğru agresif bir şekilde uçarken güçlü ateş patlamaları saçıyor. Dinamik kamera açıları, patlayıcı alev efektleri, dramatik ışık
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080006615110168576/img/OZish_Gktox2ogxM.jpg" width="600" alt="Animasyonlu Ejderha Savaşı Sekansı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7754)**
+
+**Author:** [Faizal](https://x.com/zalkad) | **Source:** [Link](https://x.com/zalkad/status/2080006653068616110) | **Published:** Jul 22, 2026
+
+---
+### Yanan Köyde Sinematik Savaşçı Kadın
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Arka planda bir ejderha ile dumanlı, yanan bir orta çağ köyünde duran, plaka zırhlı sarışın bir savaşçının gerçekçi sinematik portresini oluşturmak için oldukça detaylı bir istem.
+
+#### 📝 Prompt
+
+```
+Açık tenli, delici mavi gözlü ve sağ omzundan sarkan uzun, kalın platin sarısı örgülü, üzerinde karmaşık kabartma desenleri ve zincir zırhı olan son derece detaylı, süslü gümüş-gri orta çağ plaka zırhı giymiş, sağ elinde koyu kabzalı büyük ve süslü bir uzun kılıç tutan, yanan binaların olduğu bir orta çağ köyü sokağında duran, dumanlı arka planda büyük ve bulanık bir ejderha görünen, oldukça soluk ve doygunluğu azaltılmış renk paleti, yoğun şekilde matlaştırılmış renkler, düşük doygunluk, cesur sinematik atmosfer, dramatik ama hafifletilmiş aydınlatma, yumuşak ateş parıltısı, hafifçe yukarı bakan keskin odaklı gözler, ciddi ve asil bir ifade, görünür gözeneklere sahip ultra detaylı cilt dokusu, zırh üzerinde gerçekçi metal yansımaları ve aşınma, toz ve kurum parçacıkları, 8k ham fotoğraf, fotogerçekçi.
+```
+
+<img src="https://cms-assets.youmind.com/media/1784794869283_q4h6ki_HN2Q8NdXIAAF7kf.jpg" width="600" alt="Yanan Köyde Sinematik Savaşçı Kadın">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7757)**
+
+**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2079978038343913772) | **Published:** Jul 22, 2026
+
+---
+### İskandinav 8-Bit Piksel Sanatı Tarzı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ethereal İskandinav enstrümantal müziği eşliğinde rahatlatıcı bir 8-bit piksel sanat sahnesi oluşturmak için bir komut.
+
+#### 📝 Prompt
+
+```
+Sevimli ve rahatlatıcı 8-bit piksel sanatı; kaosun derin karanlık gecesinden gelen uzun bir yolculuğun ardından gerçekten ait olduğunuz yere, evinize dönüyormuşsunuz hissi veren, vokal içermeyen sakin ve ethereal İskandinav enstrümantal müziği.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079811831452057600/img/1EWmR4RRAfGfaBoZ.jpg" width="600" alt="İskandinav 8-Bit Piksel Sanatı Tarzı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7758)**
+
+**Author:** [Kiki 🇺🇸](https://x.com/kikisknees) | **Source:** [Link](https://x.com/kikisknees/status/2079811897411682562) | **Published:** Jul 22, 2026
+
+---
 ### 8-bit Piksel Peri Animasyonu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +282,25 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7697)**
 
 **Author:** [paranoidream ♡︎](https://x.com/paranoidream) | **Source:** [Link](https://x.com/paranoidream/status/2079799074325422343) | **Published:** Jul 22, 2026
+
+---
+### Yüz Kesiti fMRI Taraması
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> İnsan yüzünün ikiye ayrılarak içerideki fMRI beyin taramasını hareket halinde gösteren sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+yüzü ortadan ikiye ayır ve sanki beynin fMRI taramasını yapıyormuşuz gibi görünmesini sağla
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079724515811074048/img/ETlS_bwjcDqsxOnA.jpg" width="600" alt="Yüz Kesiti fMRI Taraması">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7755)**
+
+**Author:** [Doc Toadlips](https://x.com/DToadlips) | **Source:** [Link](https://x.com/DToadlips/status/2079724995815575661) | **Published:** Jul 22, 2026
 
 ---
 ### Sinematik Aşil Truva Savaşı Videosu
@@ -1040,7 +1135,7 @@ Siyah duvarlı karanlık bir yatak odasının duvarında asılı, büyük ve sü
 Çok soluk, çilli ve tozlu bir cilde sahip elf kadının aşırı yakın plan portresi; sivri elf kulakları, başında gotik işlemeli ve koyu renkli mücevherlerle süslü, karartılmış altın rengi gösterişli bir taç, kısmen görünen uzun beyaz saçlar, her iki gözünü tamamen kapatan ve gizleyen çok büyük ve detaylı, karmaşık desenli kanatlara sahip bir güve, güvenin gövdesi ve açılmış kanatları göz bölgesini tamamen örtüyor, dokuları ve ciltteki toz parçacıklarını vurgulayan güçlü kenar ışığıyla dramatik düşük anahtarlı sinematik aydınlatma, altın ve siyahın hakim olduğu soluk ve doygunluğu azaltılmış renk paleti, karanlık fantastik atmosfer, hiper gerçekçi, hiper detaylı, sinematik, karamsar.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1784621990255_o1g34n_HNXvRqjXgAAJLzb.jpg" width="600" alt="Sinematik Karanlık Fantastik Elf Portresi">
+<img src="https://cms-assets.youmind.com/media/1784794870305_y2t22h_HNXvRqjXgAAJLzb.jpg" width="600" alt="Sinematik Karanlık Fantastik Elf Portresi">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7522)**
 
@@ -2241,117 +2336,6 @@ Bronz simler, sarı kelebekler ve minik mavi ejderhalarla patlayan kalp şeklind
 **Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2077253936118120817) | **Published:** Jul 15, 2026
 
 ---
-### Yüzen Su Küresi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir bardaktan dışarı akan suyun yumuşak gün ışığında yüzen bir küre oluşturduğu fotogerçekçi bir video istemi.
-
-#### 📝 Prompt
-
-```
-Masada duran bir bardak su, su aniden bardaktan yukarı doğru akar ve yüzen bir küre oluşturur, fotogerçekçi, yumuşak gün ışığı
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077061435562364928/img/8qeVxVJrvKvXuW5h.jpg" width="600" alt="Yüzen Su Küresi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7268)**
-
-**Author:** [atmen](https://x.com/atmen189) | **Source:** [Link](https://x.com/atmen189/status/2077238726120669192) | **Published:** Jul 15, 2026
-
----
-### Fırtınalı Uçurumda Yürüyen Adam
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Şiddetli bir fırtına sırasında uçurumun kenarında çıplak ayakla yürüyen bir adamın sinematik video istemi.
-
-#### 📝 Prompt
-
-```
-Çok rüzgarlı ve yağmurlu bir günde, aşağıda hırçın denizlerin olduğu bir uçurumun kenarında yürüyen karakterin videosunu oluşturun. Mümkün olduğunca gerçekçi yapın. Karakter çıplak ayaklı, şort ve tişört giyiyor (kötü hava koşullarına hiç hazırlıklı değil).
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077203114336137216/img/5M3wp2NkmjE4fQeb.jpg" width="600" alt="Fırtınalı Uçurumda Yürüyen Adam">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7301)**
-
-**Author:** [Marcelo](https://x.com/absurdoburrito) | **Source:** [Link](https://x.com/absurdoburrito/status/2077203168341926014) | **Published:** Jul 15, 2026
-
----
-### Senegal'in Sinematik 8K FPV Drone Turu
-
-![한국어](https://img.shields.io/badge/lang-한국어-orange)
-
-> Grok Imagine için, Afrika Rönesans Anıtı, Goree Adası ve Pembe Göl (Lake Rose) gibi Senegal'in simge yapıları üzerinde altın saatte geçen bir yolculuğu yakalayan, 10 saniyelik son derece detaylı bir FPV drone uçuş komutu.
-
-#### 📝 Prompt
-
-```
-10 saniyelik ultra yüksek çözünürlüklü sinematik birinci şahıs FPV drone videosu. Neredeyse hiç kamera sarsıntısı olmayan, son derece stabil ve doğal bir drone uçuşu; gerçek drone çekimleri gibi canlı bir görsel güzellik sunuyor. Pürüzsüz ve zarif hareketleri, heyecan verici dinamik sahnelerle birleştiriyor.
-
-0-2. saniye: Altın saatte Dakar üzerinde yüksek irtifada süzülün, Afrika Rönesans Anıtı ve şehir silüetinin görkemli panoramik manzarası için sola doğru dönün.
-
-2-4. saniye: Doğal bir geçişle Goree Adası'na yönelin, tarihi ada çevresinde heyecan verici bir alçak uçuş gerçekleştirerek kolonyal dönem binalarının ve dalgaların detaylarını yakalayın.
-
-4-6. saniye: Lac Rose'a (Pembe Göl) geçin, pembe göl üzerinde dinamik bir alçak uçuşun keyfini çıkarın, tuz desenlerini ve parıldayan su yüzeyini görüntüleyin.
-
-6-8. saniye: Djoudj Milli Parkı'na ilerleyin, sulak alanlar, kuşlar ve yemyeşil mangrov ormanları üzerinde sola doğru dönerek pürüzsüz bir alçak uçuş yapın.
-
-8-10. saniye: Son olarak, Sine-Saloum Deltası üzerinde yükselerek güzel bir gün batımı panoraması yakalayın. Mangrov ormanlarının, su yollarının ve altın güneş ışığının uyum içinde olduğu, sola doğru dönerken görkemli ama abartısız bir manzara sergileyin.
-
-Son derece gerçekçi 8K drone görüntüleri, çok pürüzsüz FPV hareketi ve doğal sol dönüşler, altın saatten canlı bir gün batımına geçiş yapan sıcak sinematik ışık değişimleri, maksimum detay sunan gerçekçi ve doğru simge yapılar, su, tuz, taş ve bitkilerin son derece sofistike dokuları, derin atmosfer, başyapıt, ultra hassasiyetle tanımlayın.
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2077034602020093954/pu/img/fnLBpMQGWkAG_5up.jpg" width="600" alt="Senegal'in Sinematik 8K FPV Drone Turu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7269)**
-
-**Author:** [Drone V Drone](https://x.com/drone_v_drone) | **Source:** [Link](https://x.com/drone_v_drone/status/2077034857784574322) | **Published:** Jul 14, 2026
-
----
-### Göksel Aurora Dokuması
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kutup gökyüzünde göksel zanaatkarlar tarafından devasa tezgahlar kullanılarak dokunan kuzey ışıklarının şiirsel bir görselleştirmesi.
-
-#### 📝 Prompt
-
-```
-Kutup gökyüzü boyunca uzanan devasa tezgahlarda, binlerce göksel zanaatkar tarafından zümrüt, menekşe, safir ve altın rengi şeritler auroralara dönüştürülerek dokunuyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075485665500794880/img/7jRhIujItskIVQx_.jpg" width="600" alt="Göksel Aurora Dokuması">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7231)**
-
-**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2076811411796451619) | **Published:** Jul 13, 2026
-
----
-### Kozmik Dost Canlısı Varlık Ad Astra
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Fütüristik ve ilham verici bir atmosfere sahip kozmik bir varlık oluşturan yaratıcı bir video istemi.
-
-#### 📝 Prompt
-
-```
-Kozmik dost canlısı varlık
-
-Gelecek tam önünüzde.
-
-Onu yakalayın - AD Astra
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076775823953027074/img/CG4a6nKiISfvprqj.jpg" width="600" alt="Kozmik Dost Canlısı Varlık Ad Astra">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7223)**
-
-**Author:** [BackWoods 🌱](https://x.com/SGBackWoods) | **Source:** [Link](https://x.com/SGBackWoods/status/2076775890256564473) | **Published:** Jul 13, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2413,6 +2397,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-23T06:53:19.932Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-23T10:47:10.611Z</sub>
 
 </div>

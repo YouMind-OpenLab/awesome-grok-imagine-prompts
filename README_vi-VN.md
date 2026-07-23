@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2206** |
+| 📝 Total Prompts | **2211** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-23** |
 
@@ -189,6 +189,82 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Video siêu thực về cơn mưa hoa nhài
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý video giả tưởng với hình ảnh người phụ nữ mặc váy màu san hô, bao quanh là cơn mưa hoa nhài khổng lồ cùng các hiệu ứng chuyển động đậm chất điện ảnh.
+
+#### 📝 Prompt
+
+```
+siêu thực, người phụ nữ da trắng phương Tây, tóc vàng tự nhiên xoăn ngắn bồng bềnh, da rám nắng, mặc váy ngắn màu san hô, đôi chân dài tuyệt đẹp, tư thế tươi sáng và tràn đầy sức sống, cơn mưa hoa nhài siêu lớn, bung tỏa, sương sớm & bình minh, siêu thực, ánh sáng huyền ảo, cảnh quay thể hiện sự chuyển động và các chi tiết làm mờ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080195922261159936/img/qFyktxK14q7UycIM.jpg" width="600" alt="Video siêu thực về cơn mưa hoa nhài">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7756)**
+
+**Author:** [Carolina Delgado](https://x.com/carolletta) | **Source:** [Link](https://x.com/carolletta/status/2080195996315738403) | **Published:** Jul 23, 2026
+
+---
+### Chuỗi hoạt cảnh rồng chiến đấu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video hành động cao trào để tạo ra trận chiến rồng dữ dội với ánh sáng điện ảnh và hiệu ứng cháy nổ trong Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Chuỗi hoạt cảnh rồng chiến đấu: Một con rồng đỏ hung dữ với lớp vảy gai góc và đôi mắt màu hổ phách rực sáng đang gầm thét, tung ra những luồng lửa mạnh mẽ khi bay thẳng về phía người xem một cách đầy uy lực. Góc quay linh hoạt, hiệu ứng ngọn lửa bùng nổ, ánh sáng kịch tính
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080006615110168576/img/OZish_Gktox2ogxM.jpg" width="600" alt="Chuỗi hoạt cảnh rồng chiến đấu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7754)**
+
+**Author:** [Faizal](https://x.com/zalkad) | **Source:** [Link](https://x.com/zalkad/status/2080006653068616110) | **Published:** Jul 22, 2026
+
+---
+### Nữ chiến binh điện ảnh trong ngôi làng bốc cháy
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) chi tiết để tạo ra chân dung điện ảnh chân thực về một nữ chiến binh tóc vàng mặc giáp trụ, đứng giữa ngôi làng thời trung cổ đầy khói lửa với hình ảnh con rồng phía sau.
+
+#### 📝 Prompt
+
+```
+Chân dung điện ảnh siêu thực về một nữ chiến binh có làn da trắng, đôi mắt xanh sắc sảo và mái tóc tết màu vàng bạch kim dày, dài vắt qua vai phải, mặc bộ giáp trụ thời trung cổ màu xám bạc tinh xảo với các hoa văn chạm nổi và áo giáp lưới chi tiết, tay phải cầm một thanh trường kiếm lớn có chuôi tối màu, đứng trên con phố làng thời trung cổ với những tòa nhà đang bốc cháy, hình ảnh con rồng lớn mờ ảo ẩn hiện trong làn khói phía sau, bảng màu trầm và giảm độ bão hòa, màu sắc cực kỳ nhạt, độ bão hòa thấp, bầu không khí điện ảnh gai góc, ánh sáng ấn tượng nhưng dịu nhẹ, ánh lửa mờ ảo, đôi mắt sắc nét nhìn hơi hướng lên trên, biểu cảm nghiêm nghị và cao quý, kết cấu da siêu chi tiết với lỗ chân lông rõ nét, phản chiếu kim loại chân thực và các vết mòn trên giáp, các hạt bụi và muội than, ảnh chụp 8k raw, chân thực như ảnh chụp.
+```
+
+<img src="https://cms-assets.youmind.com/media/1784794869283_q4h6ki_HN2Q8NdXIAAF7kf.jpg" width="600" alt="Nữ chiến binh điện ảnh trong ngôi làng bốc cháy">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7757)**
+
+**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2079978038343913772) | **Published:** Jul 22, 2026
+
+---
+### Phong cách nghệ thuật Pixel 8-Bit kiểu Bắc Âu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) để tạo ra khung cảnh nghệ thuật pixel 8-bit thư giãn, kết hợp cùng âm nhạc không lời mang âm hưởng Bắc Âu huyền ảo.
+
+#### 📝 Prompt
+
+```
+Nghệ thuật pixel 8-bit dễ thương và thư giãn, nhạc không lời Bắc Âu huyền ảo, êm dịu không có giọng hát, mang lại cảm giác như bạn đang trở về nơi thực sự thuộc về mình sau một hành trình dài thoát khỏi màn đêm sâu thẳm của sự hỗn loạn.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079811831452057600/img/1EWmR4RRAfGfaBoZ.jpg" width="600" alt="Phong cách nghệ thuật Pixel 8-Bit kiểu Bắc Âu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7758)**
+
+**Author:** [Kiki 🇺🇸](https://x.com/kikisknees) | **Source:** [Link](https://x.com/kikisknees/status/2079811897411682562) | **Published:** Jul 22, 2026
+
+---
 ### Hoạt ảnh tiên nữ pixel 8-bit
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +282,25 @@ Nghệ thuật pixel 8-bit, nàng tiên mơ màng huyền ảo với mái tóc b
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7697)**
 
 **Author:** [paranoidream ♡︎](https://x.com/paranoidream) | **Source:** [Link](https://x.com/paranoidream/status/2079799074325422343) | **Published:** Jul 22, 2026
+
+---
+### Quét fMRI mặt cắt ngang khuôn mặt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video điện ảnh mô phỏng hình ảnh khuôn mặt người tách ra để lộ hình ảnh quét fMRI não bộ đang chuyển động.
+
+#### 📝 Prompt
+
+```
+cắt đôi khuôn mặt ra và làm cho nó trông giống như chúng ta đang thực hiện quét fMRI của não bộ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079724515811074048/img/ETlS_bwjcDqsxOnA.jpg" width="600" alt="Quét fMRI mặt cắt ngang khuôn mặt">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7755)**
+
+**Author:** [Doc Toadlips](https://x.com/DToadlips) | **Source:** [Link](https://x.com/DToadlips/status/2079724995815575661) | **Published:** Jul 22, 2026
 
 ---
 ### Video điện ảnh về Achilles trong Chiến tranh thành Troy
@@ -1040,7 +1135,7 @@ Một chiếc khung đen lớn chạm trổ tinh xảo treo trên bức tường
 Chân dung cận cảnh cực độ của một người phụ nữ yêu tinh với làn da nhợt nhạt, lấm tấm tàn nhang và bụi bặm, đôi tai nhọn, đội vương miện vàng đen cầu kỳ với các chi tiết chạm trổ gothic và đá quý tối màu, mái tóc trắng dài bồng bềnh thấp thoáng, một con bướm đêm rất lớn và chi tiết với đôi cánh hoa văn phức tạp che khuất hoàn toàn cả hai mắt, thân và đôi cánh xòe của bướm đêm che kín vùng mắt, ánh sáng điện ảnh low-key kịch tính với ánh sáng viền mạnh làm nổi bật kết cấu và các hạt bụi trên da, bảng màu trầm, giảm bão hòa với tông vàng và đen chủ đạo, bầu không khí giả tưởng đen tối, siêu thực, siêu chi tiết, đậm chất điện ảnh, đầy tâm trạng.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1784621990255_o1g34n_HNXvRqjXgAAJLzb.jpg" width="600" alt="Chân dung yêu tinh giả tưởng đen tối đậm chất điện ảnh">
+<img src="https://cms-assets.youmind.com/media/1784794870305_y2t22h_HNXvRqjXgAAJLzb.jpg" width="600" alt="Chân dung yêu tinh giả tưởng đen tối đậm chất điện ảnh">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7522)**
 
@@ -2241,117 +2336,6 @@ Nhạc đàn cello
 **Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2077253936118120817) | **Published:** Jul 15, 2026
 
 ---
-### Khối cầu nước lơ lửng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video chân thực về dòng nước chảy ra từ ly tạo thành khối cầu lơ lửng trong ánh sáng ban ngày dịu nhẹ.
-
-#### 📝 Prompt
-
-```
-Một ly nước trên bàn, nước đột ngột chảy ngược lên khỏi ly và tạo thành một khối cầu lơ lửng, chân thực, ánh sáng ban ngày dịu nhẹ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077061435562364928/img/8qeVxVJrvKvXuW5h.jpg" width="600" alt="Khối cầu nước lơ lửng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7268)**
-
-**Author:** [atmen](https://x.com/atmen189) | **Source:** [Link](https://x.com/atmen189/status/2077238726120669192) | **Published:** Jul 15, 2026
-
----
-### Người đàn ông đi bộ trên vách đá trong bão
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video đậm chất điện ảnh về một người đàn ông đi chân trần dọc theo mép vực trong một trận bão lớn.
-
-#### 📝 Prompt
-
-```
-Tạo một video về nhân vật đang đi bộ trên mép vực, vào một ngày mưa gió dữ dội, với biển động mạnh bên dưới. Hãy làm cho nó chân thực nhất có thể. Anh ấy đi chân trần, mặc quần đùi và áo phông (hoàn toàn không chuẩn bị cho thời tiết khắc nghiệt).
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077203114336137216/img/5M3wp2NkmjE4fQeb.jpg" width="600" alt="Người đàn ông đi bộ trên vách đá trong bão">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7301)**
-
-**Author:** [Marcelo](https://x.com/absurdoburrito) | **Source:** [Link](https://x.com/absurdoburrito/status/2077203168341926014) | **Published:** Jul 15, 2026
-
----
-### Chuyến tham quan bằng flycam FPV 8K đậm chất điện ảnh tại Senegal
-
-![한국어](https://img.shields.io/badge/lang-한국어-orange)
-
-> Một câu lệnh (prompt) tạo video flycam FPV chi tiết dài 10 giây cho Grok Imagine, ghi lại hành trình khám phá các địa danh của Senegal bao gồm Tượng Phục hưng châu Phi, Đảo Goree và Hồ Hồng (Lake Rose) trong khung giờ vàng.
-
-#### 📝 Prompt
-
-```
-Một video flycam FPV góc nhìn thứ nhất đậm chất điện ảnh, độ phân giải siêu cao dài 10 giây. Chuyến bay của flycam cực kỳ ổn định và tự nhiên, hầu như không bị rung lắc, mang đến vẻ đẹp hình ảnh sống động như những thước phim quay từ flycam thực tế. Video kết hợp các chuyển động mượt mà, thanh thoát với những cảnh quay năng động đầy kịch tính.
-
-0-2 giây: Bay mượt mà ở độ cao lớn phía trên Dakar vào khung giờ vàng, lượn sang trái để có tầm nhìn toàn cảnh hùng vĩ về Tượng Phục hưng châu Phi và đường chân trời.
-
-2-4 giây: Chuyển cảnh tự nhiên đến Đảo Goree, thực hiện chuyến bay tầm thấp đầy kịch tính quanh hòn đảo lịch sử, ghi lại chi tiết các tòa nhà thời thuộc địa và những con sóng.
-
-4-6 giây: Di chuyển đến Lac Rose (Hồ Hồng), tận hưởng chuyến bay tầm thấp năng động phía trên hồ nước màu hồng, ghi lại các mảng muối và mặt nước lấp lánh.
-
-6-8 giây: Di chuyển đến Vườn quốc gia Djoudj, bay thấp mượt mà trên các vùng đất ngập nước, các loài chim và những khu rừng ngập mặn tươi tốt trong khi lượn sang trái.
-
-8-10 giây: Cuối cùng, bay lên cao phía trên Đồng bằng Sine-Saloum, ghi lại toàn cảnh hoàng hôn tuyệt đẹp. Khắc họa một khung cảnh hùng vĩ nhưng đầy tinh tế, nơi rừng ngập mặn, đường thủy và ánh nắng vàng hòa quyện vào nhau trong khi flycam lượn sang trái.
-
-Cảnh quay flycam 8K cực kỳ chân thực, chuyển động FPV rất mượt mà và các cú lượn trái tự nhiên, ánh sáng điện ảnh ấm áp chuyển từ khung giờ vàng sang hoàng hôn rực rỡ, các địa danh chân thực và chính xác với độ chi tiết tối đa, kết cấu tinh xảo của nước, muối, đá và thực vật, bầu không khí sâu lắng, kiệt tác, mô tả với độ chính xác tuyệt đối.
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2077034602020093954/pu/img/fnLBpMQGWkAG_5up.jpg" width="600" alt="Chuyến tham quan bằng flycam FPV 8K đậm chất điện ảnh tại Senegal">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7269)**
-
-**Author:** [Drone V Drone](https://x.com/drone_v_drone) | **Source:** [Link](https://x.com/drone_v_drone/status/2077034857784574322) | **Published:** Jul 14, 2026
-
----
-### Dệt nên Cực quang Thiên giới
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một hình ảnh đầy chất thơ về những dải cực quang được các nghệ nhân thiên giới dệt nên trên bầu trời vùng cực bằng những khung cửi khổng lồ.
-
-#### 📝 Prompt
-
-```
-Những khung cửi khổng lồ trải dài khắp bầu trời vùng cực, nơi hàng ngàn nghệ nhân thiên giới dệt nên các dải màu lục bảo, tím, lam ngọc và vàng thành những dải cực quang rực rỡ.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075485665500794880/img/7jRhIujItskIVQx_.jpg" width="600" alt="Dệt nên Cực quang Thiên giới">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7231)**
-
-**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2076811411796451619) | **Published:** Jul 13, 2026
-
----
-### Sinh vật vũ trụ thân thiện Ad Astra
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video sáng tạo về sinh vật vũ trụ với bầu không khí tương lai và đầy cảm hứng.
-
-#### 📝 Prompt
-
-```
-Sinh vật vũ trụ thân thiện
-
-Tương lai đang ở ngay trước mắt bạn.
-
-Hãy nắm bắt lấy - AD Astra
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076775823953027074/img/CG4a6nKiISfvprqj.jpg" width="600" alt="Sinh vật vũ trụ thân thiện Ad Astra">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7223)**
-
-**Author:** [BackWoods 🌱](https://x.com/SGBackWoods) | **Source:** [Link](https://x.com/SGBackWoods/status/2076775890256564473) | **Published:** Jul 13, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2413,6 +2397,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-23T06:53:07.766Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-23T10:47:00.662Z</sub>
 
 </div>

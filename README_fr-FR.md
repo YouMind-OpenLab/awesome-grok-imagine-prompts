@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2206** |
+| 📝 Total Prompts | **2211** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-23** |
 
@@ -189,6 +189,82 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Vidéo surréaliste d'une pluie de fleurs de jasmin
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo fantastique mettant en scène une femme en robe corail entourée d'une pluie de fleurs de jasmin surdimensionnées avec des effets de mouvement cinématographiques.
+
+#### 📝 Prompt
+
+```
+hyper-réaliste, femme blanche d'Europe de l'Ouest, cheveux mi-longs blonds naturels bouclés et abondants, peau hâlée, portant une robe corail courte, longues jambes magnifiques, pose vive et dynamique, pluie de fleurs de jasmin surdimensionnées, déchaînée, rosée et aube, surréaliste, éclat fantastique, plan montrant du mouvement et des zones floues
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080195922261159936/img/qFyktxK14q7UycIM.jpg" width="600" alt="Vidéo surréaliste d'une pluie de fleurs de jasmin">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7756)**
+
+**Author:** [Carolina Delgado](https://x.com/carolletta) | **Source:** [Link](https://x.com/carolletta/status/2080195996315738403) | **Published:** Jul 23, 2026
+
+---
+### Séquence de combat de dragon animé
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo riche en action pour générer un combat de dragon féroce avec un éclairage cinématographique et des effets explosifs dans Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Séquence de combat de dragon de dessin animé : un féroce dragon rouge aux écailles épineuses et aux yeux ambrés luisants rugit et déchaîne de puissantes bouffées de feu tout en volant agressivement vers le spectateur. Angles de caméra dynamiques, effets de flammes explosifs, lumière dramatique
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080006615110168576/img/OZish_Gktox2ogxM.jpg" width="600" alt="Séquence de combat de dragon animé">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7754)**
+
+**Author:** [Faizal](https://x.com/zalkad) | **Source:** [Link](https://x.com/zalkad/status/2080006653068616110) | **Published:** Jul 22, 2026
+
+---
+### Guerrière cinématographique dans un village en flammes
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt ultra-détaillé pour générer un portrait cinématographique réaliste d'une guerrière blonde en armure de plaques, debout dans un village médiéval enfumé et en proie aux flammes, avec un dragon en arrière-plan.
+
+#### 📝 Prompt
+
+```
+Portrait cinématographique ultra-réaliste d'une guerrière à la peau claire, aux yeux bleu perçant et à la longue tresse épaisse blond platine sur l'épaule droite, portant une armure de plaques médiévale argentée ornée de motifs en relief complexes et d'une cotte de mailles, tenant une grande épée longue ouvragée à la garde sombre dans sa main droite, debout dans une rue de village médiéval avec des bâtiments en feu, grand dragon flou visible dans l'arrière-plan enfumé, palette de couleurs très sourdes et désaturées, couleurs fortement atténuées, faible saturation, atmosphère cinématographique granuleuse, éclairage dramatique mais tamisé, douce lueur de feu, yeux nets fixés légèrement vers le haut, expression sérieuse et noble, texture de peau ultra-détaillée avec pores visibles, reflets métalliques réalistes et usure sur l'armure, particules de poussière et de suie, photographie brute 8k, photoréaliste.
+```
+
+<img src="https://cms-assets.youmind.com/media/1784794869283_q4h6ki_HN2Q8NdXIAAF7kf.jpg" width="600" alt="Guerrière cinématographique dans un village en flammes">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7757)**
+
+**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2079978038343913772) | **Published:** Jul 22, 2026
+
+---
+### Style pixel art 8 bits nordique
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour générer une scène relaxante en pixel art 8 bits accompagnée d'une musique instrumentale nordique éthérée.
+
+#### 📝 Prompt
+
+```
+Pixel art 8 bits mignon et relaxant, musique instrumentale nordique calme et éthérée sans voix, comme si vous rentriez chez vous, là où vous avez toujours eu votre place, après un long voyage hors de la nuit profonde et chaotique.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079811831452057600/img/1EWmR4RRAfGfaBoZ.jpg" width="600" alt="Style pixel art 8 bits nordique">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7758)**
+
+**Author:** [Kiki 🇺🇸](https://x.com/kikisknees) | **Source:** [Link](https://x.com/kikisknees/status/2079811897411682562) | **Published:** Jul 22, 2026
+
+---
 ### Animation de fée en pixel art 8 bits
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +282,25 @@ Pixel art 8 bits, fée éthérée et onirique avec de longs cheveux argentés et
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7697)**
 
 **Author:** [paranoidream ♡︎](https://x.com/paranoidream) | **Source:** [Link](https://x.com/paranoidream/status/2079799074325422343) | **Published:** Jul 22, 2026
+
+---
+### Scan IRMf en coupe transversale du visage
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo cinématographique visualisant un visage humain s'ouvrant en deux pour révéler une IRMf du cerveau en mouvement.
+
+#### 📝 Prompt
+
+```
+couper le visage en deux, l'ouvrir et donner l'impression que nous effectuons une IRMf du cerveau
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079724515811074048/img/ETlS_bwjcDqsxOnA.jpg" width="600" alt="Scan IRMf en coupe transversale du visage">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7755)**
+
+**Author:** [Doc Toadlips](https://x.com/DToadlips) | **Source:** [Link](https://x.com/DToadlips/status/2079724995815575661) | **Published:** Jul 22, 2026
 
 ---
 ### Vidéo cinématographique : La guerre de Troie et Achille
@@ -1040,7 +1135,7 @@ Un grand cadre noir orné accroché au mur d'une chambre sombre aux murs noirs. 
 Gros plan extrême sur le portrait d'une femme elfe à la peau très pâle, tachetée de taches de rousseur et poussiéreuse, oreilles d'elfe pointues, portant une couronne dorée noircie ornée de filigranes gothiques et de bijoux sombres sur la tête, longs cheveux blancs fluides partiellement visibles, un très grand papillon de nuit détaillé aux ailes aux motifs complexes couvrant et masquant complètement ses deux yeux, le corps et les ailes déployées du papillon dissimulant entièrement la zone des yeux, éclairage cinématographique dramatique en basse lumière avec un fort éclairage de contour soulignant les textures et les particules de poussière sur la peau, palette de couleurs sourdes et désaturées dominée par l'or et le noir, atmosphère dark fantasy, hyper-réaliste, hyper-détaillé, cinématographique, mélancolique.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1784621990255_o1g34n_HNXvRqjXgAAJLzb.jpg" width="600" alt="Portrait d'elfe dark fantasy cinématographique">
+<img src="https://cms-assets.youmind.com/media/1784794870305_y2t22h_HNXvRqjXgAAJLzb.jpg" width="600" alt="Portrait d'elfe dark fantasy cinématographique">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7522)**
 
@@ -2241,117 +2336,6 @@ Musique de violoncelle
 **Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2077253936118120817) | **Published:** Jul 15, 2026
 
 ---
-### Sphère d'eau en lévitation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo photoréaliste montrant de l'eau s'écoulant d'un verre pour former une sphère en lévitation sous une lumière douce.
-
-#### 📝 Prompt
-
-```
-Un verre d'eau sur une table, l'eau s'écoule soudainement vers le haut hors du verre et forme une sphère en lévitation, photoréaliste, lumière douce
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077061435562364928/img/8qeVxVJrvKvXuW5h.jpg" width="600" alt="Sphère d'eau en lévitation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7268)**
-
-**Author:** [atmen](https://x.com/atmen189) | **Source:** [Link](https://x.com/atmen189/status/2077238726120669192) | **Published:** Jul 15, 2026
-
----
-### Homme marchant sur une falaise en pleine tempête
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo cinématographique montrant un homme marchant pieds nus le long d'un précipice pendant une forte tempête.
-
-#### 📝 Prompt
-
-```
-Générez une vidéo d'un personnage marchant au bord d'un précipice, par une journée très venteuse et pluvieuse, avec une mer déchaînée en contrebas. Rendez le résultat aussi réaliste que possible. Il est pieds nus, porte un short et un t-shirt (clairement pas préparé pour les intempéries).
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077203114336137216/img/5M3wp2NkmjE4fQeb.jpg" width="600" alt="Homme marchant sur une falaise en pleine tempête">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7301)**
-
-**Author:** [Marcelo](https://x.com/absurdoburrito) | **Source:** [Link](https://x.com/absurdoburrito/status/2077203168341926014) | **Published:** Jul 15, 2026
-
----
-### Visite cinématographique 8K en drone FPV du Sénégal
-
-![한국어](https://img.shields.io/badge/lang-한국어-orange)
-
-> Un prompt de vol en drone FPV de 10 secondes extrêmement détaillé pour Grok Imagine, capturant un voyage à travers les sites emblématiques du Sénégal, notamment le Monument de la Renaissance africaine, l'île de Gorée et le lac Rose pendant l'heure dorée.
-
-#### 📝 Prompt
-
-```
-Une vidéo cinématographique en drone FPV à la première personne en ultra-haute définition de 10 secondes. Vol de drone extrêmement stable et naturel, presque sans tremblement de caméra, offrant une beauté visuelle saisissante semblable à de véritables images de drone. Il allie des mouvements fluides et élégants à des scènes dynamiques palpitantes.
-
-0-2s : Vol fluide à haute altitude au-dessus de Dakar pendant l'heure dorée, effectuant une rotation vers la gauche pour une vue panoramique grandiose du Monument de la Renaissance africaine et de la ligne d'horizon.
-
-2-4s : Transition naturelle vers l'île de Gorée, effectuant un vol palpitant à basse altitude autour de l'île historique, capturant les détails des bâtiments de l'époque coloniale et des vagues.
-
-4-6s : Déplacement vers le lac Rose, profitant d'un vol dynamique à basse altitude au-dessus du lac rose, capturant les motifs salins et la surface de l'eau scintillante.
-
-6-8s : Déplacement vers le parc national des oiseaux du Djoudj, volant en douceur à basse altitude au-dessus des zones humides, des oiseaux et des forêts de mangroves luxuriantes tout en effectuant une rotation vers la gauche.
-
-8-10s : Enfin, ascension au-dessus du delta du Sine-Saloum, capturant un magnifique panorama au coucher du soleil. Montrez un paysage majestueux mais sobre où les forêts de mangroves, les voies navigables et la lumière dorée du soleil s'harmonisent tout en effectuant une rotation vers la gauche.
-
-Images de drone 8K extrêmement réalistes, mouvement FPV très fluide et virages à gauche naturels, changements d'éclairage cinématographiques chaleureux passant de l'heure dorée à un coucher de soleil éclatant, monuments réalistes et précis bénéficiant d'un niveau de détail maximal, textures hautement sophistiquées de l'eau, du sel, de la pierre et des plantes, atmosphère profonde, chef-d'œuvre, à décrire avec une ultra-précision.
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2077034602020093954/pu/img/fnLBpMQGWkAG_5up.jpg" width="600" alt="Visite cinématographique 8K en drone FPV du Sénégal">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7269)**
-
-**Author:** [Drone V Drone](https://x.com/drone_v_drone) | **Source:** [Link](https://x.com/drone_v_drone/status/2077034857784574322) | **Published:** Jul 14, 2026
-
----
-### Tissage de l'aurore céleste
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Une visualisation poétique des aurores boréales tissées à travers le ciel polaire par des artisans célestes utilisant des métiers à tisser monumentaux.
-
-#### 📝 Prompt
-
-```
-Des métiers à tisser monumentaux s'étendent à travers le ciel polaire, où des rubans d'émeraude, de violet, de saphir et d'or sont tissés en aurores par des milliers d'artisans célestes.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075485665500794880/img/7jRhIujItskIVQx_.jpg" width="600" alt="Tissage de l'aurore céleste">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7231)**
-
-**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2076811411796451619) | **Published:** Jul 13, 2026
-
----
-### Être cosmique bienveillant Ad Astra
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo créatif générant un être cosmique dans une atmosphère futuriste et inspirante.
-
-#### 📝 Prompt
-
-```
-Être cosmique bienveillant
-
-L'avenir est juste devant vous.
-
-Saisissez-le - AD Astra
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076775823953027074/img/CG4a6nKiISfvprqj.jpg" width="600" alt="Être cosmique bienveillant Ad Astra">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7223)**
-
-**Author:** [BackWoods 🌱](https://x.com/SGBackWoods) | **Source:** [Link](https://x.com/SGBackWoods/status/2076775890256564473) | **Published:** Jul 13, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2413,6 +2397,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-23T06:53:13.812Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-23T10:47:06.187Z</sub>
 
 </div>

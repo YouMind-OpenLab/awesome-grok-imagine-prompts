@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2206** |
+| 📝 Total Prompts | **2211** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-23** |
 
@@ -189,6 +189,82 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Surreales Video: Jasminblüten-Regen
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Fantasy-Video-Prompt mit einer Frau in einem korallenfarbenen Kleid, umgeben von einem überdimensionalen Jasminblüten-Regen mit filmischen Bewegungseffekten.
+
+#### 📝 Prompt
+
+```
+hyperrealistisch, weiße westeuropäische Frau, natürliches mittellanges blondes lockiges Haar, gebräunte Haut, trägt ein kurzes korallenfarbenes Kleid, lange schöne Beine, helle und dynamische Pose, überdimensionaler Jasminblüten-Regen, entfesselt, Tau & Morgendämmerung, surreal, Fantasy-Lichteffekte, Aufnahme mit Fokus auf Bewegung und Unschärfe-Elementen
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080195922261159936/img/qFyktxK14q7UycIM.jpg" width="600" alt="Surreales Video: Jasminblüten-Regen">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7756)**
+
+**Author:** [Carolina Delgado](https://x.com/carolletta) | **Source:** [Link](https://x.com/carolletta/status/2080195996315738403) | **Published:** Jul 23, 2026
+
+---
+### Animierte Drachenkampf-Sequenz
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein actiongeladener Video-Prompt zur Erstellung eines erbitterten Drachenkampfes mit kinoreifer Beleuchtung und explosiven Effekten in Grok Imagine.
+
+#### 📝 Prompt
+
+```
+Animierte Cartoon-Drachenkampf-Sequenz: Ein wilder roter Drache mit stacheligen Schuppen und leuchtend bernsteinfarbenen Augen brüllt und entfesselt mächtige Feuerstöße, während er aggressiv auf den Betrachter zufliegt. Dynamische Kamerawinkel, explosive Flammeneffekte, dramatisches Licht
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080006615110168576/img/OZish_Gktox2ogxM.jpg" width="600" alt="Animierte Drachenkampf-Sequenz">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7754)**
+
+**Author:** [Faizal](https://x.com/zalkad) | **Source:** [Link](https://x.com/zalkad/status/2080006653068616110) | **Published:** Jul 22, 2026
+
+---
+### Filmreife Kriegerin in brennendem Dorf
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochdetaillierter Prompt zur Erstellung eines realistischen, filmreifen Porträts einer blonden Kriegerin in Plattenrüstung, die in einem rauchigen, brennenden mittelalterlichen Dorf steht, mit einem Drachen im Hintergrund.
+
+#### 📝 Prompt
+
+```
+Ultrarealistisches, filmreifes Porträt einer Kriegerin mit heller Haut, stechend blauen Augen und einem langen, dicken platinblonden Zopf über der rechten Schulter, bekleidet mit einer hochdetaillierten, verzierten silbergrauen mittelalterlichen Plattenrüstung mit komplexen Prägemustern und Kettenhemd, in der rechten Hand ein großes, verziertes Langschwert mit dunklem Griff haltend, stehend in einer mittelalterlichen Dorfstraße mit brennenden Gebäuden, ein großer, unscharfer Drache im rauchigen Hintergrund sichtbar, sehr gedämpfte und entsättigte Farbpalette, stark reduzierte Farben, niedrige Sättigung, düstere filmreife Atmosphäre, dramatische, aber dezente Beleuchtung, sanfter Feuerschein, scharf fokussierte Augen, die leicht nach oben blicken, ernster und edler Ausdruck, ultra-detaillierte Hauttextur mit sichtbaren Poren, realistische Metallreflexionen und Abnutzungsspuren an der Rüstung, Staub- und Rußpartikel, 8k Raw-Fotografie, fotorealistisch.
+```
+
+<img src="https://cms-assets.youmind.com/media/1784794869283_q4h6ki_HN2Q8NdXIAAF7kf.jpg" width="600" alt="Filmreife Kriegerin in brennendem Dorf">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7757)**
+
+**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2079978038343913772) | **Published:** Jul 22, 2026
+
+---
+### Nordischer 8-Bit-Pixel-Art-Stil
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Erstellung einer entspannenden 8-Bit-Pixel-Art-Szene, untermalt von ätherischer nordischer Instrumentalmusik.
+
+#### 📝 Prompt
+
+```
+Niedliche, entspannende 8-Bit-Pixel-Art, ruhige, ätherische nordische Instrumentalmusik ohne Gesang, als würdest du nach einer langen Reise aus der tiefen, dunklen Nacht des Chaos endlich nach Hause kommen, dorthin, wo du wirklich hingehörst.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079811831452057600/img/1EWmR4RRAfGfaBoZ.jpg" width="600" alt="Nordischer 8-Bit-Pixel-Art-Stil">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7758)**
+
+**Author:** [Kiki 🇺🇸](https://x.com/kikisknees) | **Source:** [Link](https://x.com/kikisknees/status/2079811897411682562) | **Published:** Jul 22, 2026
+
+---
 ### 8-Bit-Pixel-Feen-Animation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +282,25 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7697)**
 
 **Author:** [paranoidream ♡︎](https://x.com/paranoidream) | **Source:** [Link](https://x.com/paranoidream/status/2079799074325422343) | **Published:** Jul 22, 2026
+
+---
+### fMRI-Querschnitt eines Gesichts
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein kinoreifer Video-Prompt, der ein menschliches Gesicht visualisiert, das sich öffnet und einen animierten fMRI-Gehirnscan im Inneren zeigt.
+
+#### 📝 Prompt
+
+```
+schneide das Gesicht in der Mitte auf und lass es so aussehen, als würden wir ein fMRI des Gehirns durchführen
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079724515811074048/img/ETlS_bwjcDqsxOnA.jpg" width="600" alt="fMRI-Querschnitt eines Gesichts">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7755)**
+
+**Author:** [Doc Toadlips](https://x.com/DToadlips) | **Source:** [Link](https://x.com/DToadlips/status/2079724995815575661) | **Published:** Jul 22, 2026
 
 ---
 ### Cinematic Achilles Trojanischer Krieg Video
@@ -858,7 +953,7 @@ Ein großer, verzierter schwarzer Rahmen hängt an einer dunklen Schlafzimmerwan
 Extremes Nahaufnahme-Porträt einer Elfenfrau mit sehr blasser, sommersprossiger und staubiger Haut, spitzen Elfenohren, sie trägt eine verzierte, geschwärzte Goldkrone mit gotischem Filigran und dunklen Juwelen auf dem Kopf, langes, fließendes weißes Haar teilweise sichtbar, ein sehr großer und detaillierter Nachtfalter mit komplex gemusterten Flügeln bedeckt und verdeckt vollständig ihre beiden Augen, der Körper und die ausgebreiteten Flügel des Falters verbergen den Augenbereich komplett, dramatische Low-Key-Kinobeleuchtung mit starkem Streiflicht, das Texturen und Staubpartikel auf der Haut hervorhebt, gedämpfte, entsättigte Farbpalette mit Dominanz von Gold und Schwarz, Dark-Fantasy-Atmosphäre, hyperrealistisch, hyperdetailliert, filmisch, stimmungsvoll.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1784621990255_o1g34n_HNXvRqjXgAAJLzb.jpg" width="600" alt="Cinematic Dark Fantasy Elfen-Porträt">
+<img src="https://cms-assets.youmind.com/media/1784794870305_y2t22h_HNXvRqjXgAAJLzb.jpg" width="600" alt="Cinematic Dark Fantasy Elfen-Porträt">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7522)**
 
@@ -2059,117 +2154,6 @@ Cellomusik
 **Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2077253936118120817) | **Published:** Jul 15, 2026
 
 ---
-### Schwebende Wasserkugel
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein fotorealistischer Video-Prompt von Wasser, das aus einem Glas fließt und bei sanftem Tageslicht eine schwebende Kugel bildet.
-
-#### 📝 Prompt
-
-```
-Ein Glas Wasser auf einem Tisch, das Wasser fließt plötzlich nach oben aus dem Glas heraus und bildet eine schwebende Kugel, fotorealistisch, sanftes Tageslicht
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077061435562364928/img/8qeVxVJrvKvXuW5h.jpg" width="600" alt="Schwebende Wasserkugel">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7268)**
-
-**Author:** [atmen](https://x.com/atmen189) | **Source:** [Link](https://x.com/atmen189/status/2077238726120669192) | **Published:** Jul 15, 2026
-
----
-### Mann geht auf stürmischer Klippe
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein cineastischer Video-Prompt eines Mannes, der während eines schweren Sturms barfuß an einem Abgrund entlanggeht.
-
-#### 📝 Prompt
-
-```
-Erstelle ein Video von der Figur, wie sie an einem sehr windigen und regnerischen Tag am Rande eines Abgrunds entlanggeht, während unter ihr das Meer tobt. Gestalte es so realistisch wie möglich. Er ist barfuß und trägt Shorts sowie ein T-Shirt (er ist absolut nicht auf das schlechte Wetter vorbereitet).
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077203114336137216/img/5M3wp2NkmjE4fQeb.jpg" width="600" alt="Mann geht auf stürmischer Klippe">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7301)**
-
-**Author:** [Marcelo](https://x.com/absurdoburrito) | **Source:** [Link](https://x.com/absurdoburrito/status/2077203168341926014) | **Published:** Jul 15, 2026
-
----
-### Filmreife 8K-FPV-Drohnentour durch den Senegal
-
-![한국어](https://img.shields.io/badge/lang-한국어-orange)
-
-> Ein hochdetaillierter 10-sekündiger FPV-Drohnenflug-Prompt für Grok Imagine, der eine Reise zu den Wahrzeichen des Senegals einfängt, darunter das Monument de la Renaissance Africaine, die Insel Gorée und der Lac Rose während der goldenen Stunde.
-
-#### 📝 Prompt
-
-```
-Ein 10-sekündiges, filmreifes Ultra-High-Definition-FPV-Drohnenvideo aus der Ich-Perspektive. Extrem stabiler und natürlicher Drohnenflug ohne nennenswertes Kamerawackeln, der eine lebendige visuelle Ästhetik wie bei echtem Drohnenmaterial liefert. Es verbindet fließende, elegante Bewegungen mit aufregenden, dynamischen Szenen.
-
-0-2s: Sanfter Flug in großer Höhe über Dakar während der goldenen Stunde, mit einer Linkskurve für einen großartigen Panoramablick auf das Monument de la Renaissance Africaine und die Skyline.
-
-2-4s: Natürlicher Übergang zur Insel Gorée, mit einem aufregenden Tiefflug um die historische Insel, der die Details der Gebäude aus der Kolonialzeit und die Wellen einfängt.
-
-4-6s: Wechsel zum Lac Rose (Rosa See), mit einem dynamischen Tiefflug über den rosa See, der die Salzstrukturen und die schimmernde Wasseroberfläche einfängt.
-
-6-8s: Wechsel zum Djoudj-Nationalpark, mit einem sanften Tiefflug über Feuchtgebiete, Vögel und üppige Mangrovenwälder bei einer Linkskurve.
-
-8-10s: Abschließender Aufstieg über das Sine-Saloum-Delta, um ein wunderschönes Sonnenuntergangspanorama einzufangen. Zeigen Sie eine majestätische und doch dezente Landschaft, in der Mangrovenwälder, Wasserwege und goldenes Sonnenlicht bei einer Linkskurve harmonieren.
-
-Extrem realistisches 8K-Drohnenmaterial, sehr flüssige FPV-Bewegungen und natürliche Linkskurven, warme filmische Lichtwechsel von der goldenen Stunde bis hin zu einem lebendigen Sonnenuntergang, realistische und präzise Wahrzeichen mit maximalem Detailreichtum, hochkomplexe Texturen von Wasser, Salz, Stein und Pflanzen, tiefe Atmosphäre, Meisterwerk, mit höchster Präzision beschrieben.
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2077034602020093954/pu/img/fnLBpMQGWkAG_5up.jpg" width="600" alt="Filmreife 8K-FPV-Drohnentour durch den Senegal">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7269)**
-
-**Author:** [Drone V Drone](https://x.com/drone_v_drone) | **Source:** [Link](https://x.com/drone_v_drone/status/2077034857784574322) | **Published:** Jul 14, 2026
-
----
-### Himmlisches Aurora-Weben
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eine poetische Visualisierung der Nordlichter, die von himmlischen Kunsthandwerkern an riesigen Webstühlen über den Polarhimmel gewebt werden.
-
-#### 📝 Prompt
-
-```
-Riesige Webstühle erstrecken sich über den Polarhimmel, wo Bänder in Smaragd, Violett, Saphir und Gold von tausenden himmlischen Kunsthandwerkern zu Polarlichtern verwoben werden.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075485665500794880/img/7jRhIujItskIVQx_.jpg" width="600" alt="Himmlisches Aurora-Weben">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7231)**
-
-**Author:** [James King](https://x.com/JamesKi97287119) | **Source:** [Link](https://x.com/JamesKi97287119/status/2076811411796451619) | **Published:** Jul 13, 2026
-
----
-### Kosmisches freundliches Wesen Ad Astra
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein kreativer Video-Prompt zur Erstellung eines kosmischen Wesens mit einer futuristischen und inspirierenden Atmosphäre.
-
-#### 📝 Prompt
-
-```
-Kosmisches freundliches Wesen
-
-Die Zukunft liegt direkt vor dir.
-
-Ergreife sie – AD Astra
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076775823953027074/img/CG4a6nKiISfvprqj.jpg" width="600" alt="Kosmisches freundliches Wesen Ad Astra">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7223)**
-
-**Author:** [BackWoods 🌱](https://x.com/SGBackWoods) | **Source:** [Link](https://x.com/SGBackWoods/status/2076775890256564473) | **Published:** Jul 13, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2231,6 +2215,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-23T06:53:12.739Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-23T10:47:05.106Z</sub>
 
 </div>

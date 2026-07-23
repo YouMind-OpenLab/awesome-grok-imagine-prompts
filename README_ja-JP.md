@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2206** |
+| 📝 プロンプト総数 | **2211** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-07-23** |
 
@@ -189,6 +189,82 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### ジャスミンの花が降り注ぐシュールなビデオ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> コーラルカラーのドレスを着た女性が、巨大なジャスミンの花のシャワーに包まれる、映画のようなモーションエフェクトを駆使したファンタジービデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+ハイパーリアリズム、白人の西洋人、自然なミディアムブロンドの豊かなカールショートヘア、日焼けした肌、短いコーラルドレスを着用、長く美しい脚、明るくエネルギッシュなポーズ、超巨大なジャスミンの花のシャワー、解放感、朝露と夜明け、シュール、ファンタジーフレア、動きとボケ味を活かしたショット
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080195922261159936/img/qFyktxK14q7UycIM.jpg" width="600" alt="ジャスミンの花が降り注ぐシュールなビデオ">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7756)**
+
+**作者:** [Carolina Delgado](https://x.com/carolletta) | **ソース:** [Link](https://x.com/carolletta/status/2080195996315738403) | **公開日:** Jul 23, 2026
+
+---
+### アニメーションによるドラゴンの戦闘シーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine で映画のようなライティングと爆発エフェクトを伴う、激しいドラゴンの戦闘シーンを生成するためのハイアクションなビデオプロンプトです。
+
+#### 📝 プロンプト
+
+```
+アニメーション調のドラゴンの戦闘シーン：鋭い鱗と琥珀色に輝く目を持つ獰猛な赤いドラゴンが咆哮し、視聴者に向かってアグレッシブに飛びながら強力な火炎を放つ。ダイナミックなカメラアングル、爆発する炎のエフェクト、ドラマチックなライティング
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080006615110168576/img/OZish_Gktox2ogxM.jpg" width="600" alt="アニメーションによるドラゴンの戦闘シーン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7754)**
+
+**作者:** [Faizal](https://x.com/zalkad) | **ソース:** [Link](https://x.com/zalkad/status/2080006653068616110) | **公開日:** Jul 22, 2026
+
+---
+### 燃え盛る村に立つ戦士の女性のシネマティックなポートレート
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 煙が立ち込める中世の燃える村を背景に、ドラゴンが潜む場所でプレートアーマーを纏った金髪の戦士を描く、リアルでシネマティックなポートレート生成用の詳細なプロンプトです。
+
+#### 📝 プロンプト
+
+```
+超リアルなシネマティック・ポートレート。色白で鋭い青い瞳を持ち、右肩に長く太いプラチナブロンドの三つ編みを垂らした女性戦士。精巧なエンボス模様と鎖帷子が施された、非常に詳細な銀灰色の重厚な中世プレートアーマーを着用。右手に黒い柄の大きな装飾ロングソードを携えている。燃え盛る建物が並ぶ中世の村の通りに立ち、背景の煙の中にはぼんやりと大きなドラゴンの姿が見える。非常に落ち着いた彩度の低いカラーパレット、彩度を抑えた色調、荒々しくシネマティックな雰囲気。ドラマチックでありながら控えめな照明、柔らかな炎の輝き。わずかに上を見つめる鋭い眼差し、真剣で高潔な表情。毛穴まで見える超詳細な肌の質感、鎧のリアルな金属反射と摩耗、塵と煤の粒子。8k RAW 写真、フォトリアリスティック。
+```
+
+<img src="https://cms-assets.youmind.com/media/1784794869283_q4h6ki_HN2Q8NdXIAAF7kf.jpg" width="600" alt="燃え盛る村に立つ戦士の女性のシネマティックなポートレート">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7757)**
+
+**作者:** [Myluna](https://x.com/monicamoonx) | **ソース:** [Link](https://x.com/monicamoonx/status/2079978038343913772) | **公開日:** Jul 22, 2026
+
+---
+### 北欧風 8 ビットピクセルアートスタイル
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 癒やしの 8 ビットピクセルアートシーンと、幻想的な北欧のインストゥルメンタル音楽を生成するためのプロンプトです。
+
+#### 📝 プロンプト
+
+```
+可愛らしくリラックスできる 8 ビットピクセルアート。ボーカルなしの穏やかで幻想的な北欧のインストゥルメンタル音楽。混沌とした深い闇の夜を抜け、長い旅の果てに、本来あるべき自分の居場所に帰ってきたかのような情景。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079811831452057600/img/1EWmR4RRAfGfaBoZ.jpg" width="600" alt="北欧風 8 ビットピクセルアートスタイル">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7758)**
+
+**作者:** [Kiki 🇺🇸](https://x.com/kikisknees) | **ソース:** [Link](https://x.com/kikisknees/status/2079811897411682562) | **公開日:** Jul 22, 2026
+
+---
 ### 8 ビットピクセル・フェアリー・アニメーション
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +282,25 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7697)**
 
 **作者:** [paranoidream ♡︎](https://x.com/paranoidream) | **ソース:** [Link](https://x.com/paranoidream/status/2079799074325422343) | **公開日:** Jul 22, 2026
+
+---
+### 顔の断面の fMRI スキャン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 人間の顔が割れて、内部の fMRI 脳スキャン映像が動いている様子を視覚化するシネマティックな動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+顔を半分に切り開き、脳の fMRI スキャンを行っているかのように見せる
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079724515811074048/img/ETlS_bwjcDqsxOnA.jpg" width="600" alt="顔の断面の fMRI スキャン">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7755)**
+
+**作者:** [Doc Toadlips](https://x.com/DToadlips) | **ソース:** [Link](https://x.com/DToadlips/status/2079724995815575661) | **公開日:** Jul 22, 2026
 
 ---
 ### トロイア戦争：アキレウスのシネマティック動画プロンプト
@@ -1040,7 +1135,7 @@ Meowlow
 非常に色白でそばかすがあり、埃を被ったような肌を持つエルフの女性の超クローズアップポートレート。尖った耳を持ち、ゴシック様式のフィリグリー細工と暗い宝石があしらわれた華やかな黒金色の冠を頭に戴いている。長く流れるような白い髪が一部見え、複雑な模様の羽を持つ非常に大きく精巧な蛾が、彼女の両目を完全に覆い隠している。蛾の体と広げた羽が目元を完全に隠しており、肌の質感や埃の粒子を際立たせる強いリムライトを効かせた、ドラマチックでローキーなシネマティックライティング。ゴールドとブラックを基調とした、彩度を抑えたミュートカラーのパレット。ダークファンタジーの雰囲気、ハイパーリアリスティック、超高精細、シネマティック、ムーディー。
 ```
 
-<img src="https://cms-assets.youmind.com/media/1784621990255_o1g34n_HNXvRqjXgAAJLzb.jpg" width="600" alt="シネマティックなダークファンタジー風エルフのポートレート">
+<img src="https://cms-assets.youmind.com/media/1784794870305_y2t22h_HNXvRqjXgAAJLzb.jpg" width="600" alt="シネマティックなダークファンタジー風エルフのポートレート">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7522)**
 
@@ -2241,117 +2336,6 @@ POV：あなたが AI を起こすとき...
 **作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2077253936118120817) | **公開日:** Jul 15, 2026
 
 ---
-### 浮かぶ水の球体
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 柔らかな自然光の中、グラスから流れ出た水が宙に浮く球体を形成する様子を描いた、フォトリアルな動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-テーブルの上の水の入ったグラス。水が突然グラスから上向きに流れ出し、宙に浮く球体を形成する。フォトリアル、柔らかな自然光
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077061435562364928/img/8qeVxVJrvKvXuW5h.jpg" width="600" alt="浮かぶ水の球体">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7268)**
-
-**作者:** [atmen](https://x.com/atmen189) | **ソース:** [Link](https://x.com/atmen189/status/2077238726120669192) | **公開日:** Jul 15, 2026
-
----
-### 嵐の崖を歩く男性
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 激しい嵐の中、崖っぷちを裸足で歩く男性のシネマティックな動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-風雨が非常に強い日、眼下に荒れ狂う海が広がる崖の縁を歩くキャラクターの動画を生成してください。可能な限りリアルに仕上げてください。彼は裸足で、T シャツとショートパンツという、悪天候には全く適していない服装をしています。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077203114336137216/img/5M3wp2NkmjE4fQeb.jpg" width="600" alt="嵐の崖を歩く男性">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7301)**
-
-**作者:** [Marcelo](https://x.com/absurdoburrito) | **ソース:** [Link](https://x.com/absurdoburrito/status/2077203168341926014) | **公開日:** Jul 15, 2026
-
----
-### セネガルを巡る 8K シネマティック FPV ドローンツアー
-
-![한국어](https://img.shields.io/badge/lang-한국어-orange)
-
-> Grok Imagine 用の非常に詳細な 10 秒間の FPV ドローン飛行プロンプト。アフリカ・ルネサンスの像、ゴレ島、ラック・ローズなど、ゴールデンアワーのセネガルの名所を巡る旅を捉えます。
-
-#### 📝 プロンプト
-
-```
-10 秒間の超高精細シネマティック FPV（一人称視点）ドローン映像。カメラの揺れがほとんどない、非常に安定した自然なドローン飛行により、実際のドローン撮影のような鮮やかな映像美を実現します。滑らかで優雅な動きと、スリリングでダイナミックなシーンを融合させています。
-
-0～2 秒：ゴールデンアワーのダカール上空を滑らかに飛行し、左旋回しながらアフリカ・ルネサンスの像と街並みの壮大なパノラマを捉えます。
-
-2～4 秒：ゴレ島へ自然に移行し、歴史的な島の周囲をスリリングな低空飛行で回り込み、植民地時代の建物の細部や波の様子を捉えます。
-
-4～6 秒：ラック・ローズ（ピンクレイク）へ移動し、ピンク色の湖の上をダイナミックに低空飛行しながら、塩の模様やきらめく水面を捉えます。
-
-6～8 秒：ジュジ国立鳥類保護区へ移動し、湿地帯や鳥、緑豊かなマングローブ林の上を左旋回しながら滑らかに低空飛行します。
-
-8～10 秒：最後にシネ・サルーム・デルタの上空へ上昇し、美しい夕日のパノラマを捉えます。マングローブ林、水路、そして黄金色の太陽光が調和する、雄大でありながら落ち着いた風景を左旋回しながら映し出します。
-
-極めてリアルな 8K ドローン映像、非常に滑らかな FPV の動きと自然な左旋回、ゴールデンアワーから鮮やかな夕暮れへと移り変わる温かみのあるシネマティックなライティング、細部まで精巧に再現されたリアルなランドマーク、水・塩・石・植物の非常に洗練された質感、深みのある雰囲気、傑作、超精密な描写。
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2077034602020093954/pu/img/fnLBpMQGWkAG_5up.jpg" width="600" alt="セネガルを巡る 8K シネマティック FPV ドローンツアー">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7269)**
-
-**作者:** [Drone V Drone](https://x.com/drone_v_drone) | **ソース:** [Link](https://x.com/drone_v_drone/status/2077034857784574322) | **公開日:** Jul 14, 2026
-
----
-### 天上のオーロラ織り
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 巨大な織機を操る天上の職人たちが、極北の空にオーロラを織りなしていく様子を詩的に表現したビジュアルです。
-
-#### 📝 プロンプト
-
-```
-極北の空には巨大な織機が広がり、何千人もの天上の職人たちがエメラルド、バイオレット、サファイア、そして黄金のリボンを織り合わせ、オーロラを作り上げています。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075485665500794880/img/7jRhIujItskIVQx_.jpg" width="600" alt="天上のオーロラ織り">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7231)**
-
-**作者:** [James King](https://x.com/JamesKi97287119) | **ソース:** [Link](https://x.com/JamesKi97287119/status/2076811411796451619) | **公開日:** Jul 13, 2026
-
----
-### Cosmic Friendly Being Ad Astra
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 未来的でインスピレーションあふれる雰囲気を持つ、宇宙的な存在を生成するためのクリエイティブな動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-宇宙の友好的な存在
-
-未来はすぐ目の前にあります。
-
-それを掴み取れ - AD Astra
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076775823953027074/img/CG4a6nKiISfvprqj.jpg" width="600" alt="Cosmic Friendly Being Ad Astra">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7223)**
-
-**作者:** [BackWoods 🌱](https://x.com/SGBackWoods) | **ソース:** [Link](https://x.com/SGBackWoods/status/2076775890256564473) | **公開日:** Jul 13, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2413,6 +2397,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-23T06:53:03.233Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-23T10:46:57.551Z</sub>
 
 </div>

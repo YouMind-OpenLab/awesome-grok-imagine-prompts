@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **2206** |
+| 📝 提示詞總數 | **2211** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-07-23** |
 
@@ -189,6 +189,82 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 茉莉花雨超現實影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個奇幻影片提示詞，描繪了一位身穿珊瑚色連身裙的女性，被超大茉莉花雨包圍，並帶有電影級的動態效果。
+
+#### 📝 提示詞
+
+```
+超寫實，白色西歐自然中金色捲髮，豐盈短髮，小麥色肌膚，身穿短款珊瑚色連身裙，修長美腿，明亮且充滿活力的姿勢，超大茉莉花雨，奔放，露水與黎明，超現實，奇幻光暈，拍攝畫面呈現動態感與模糊細節
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080195922261159936/img/qFyktxK14q7UycIM.jpg" width="600" alt="茉莉花雨超現實影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7756)**
+
+**作者:** [Carolina Delgado](https://x.com/carolletta) | **來源:** [Link](https://x.com/carolletta/status/2080195996315738403) | **發布時間:** Jul 23, 2026
+
+---
+### 動畫龍族戰鬥場景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個高動作強度的影片提示詞，用於在 Grok Imagine 中生成具有電影級光影與爆炸特效的激烈龍族戰鬥。
+
+#### 📝 提示詞
+
+```
+動畫卡通龍族戰鬥場景：一隻擁有尖刺鱗片與琥珀色發光雙眼的兇猛紅龍，正咆哮著並噴射出強大的火焰，同時向觀眾方向猛烈飛行。動態攝影視角，爆炸性火焰特效，戲劇性光影。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080006615110168576/img/OZish_Gktox2ogxM.jpg" width="600" alt="動畫龍族戰鬥場景">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7754)**
+
+**作者:** [Faizal](https://x.com/zalkad) | **來源:** [Link](https://x.com/zalkad/status/2080006653068616110) | **發布時間:** Jul 22, 2026
+
+---
+### 燃燒村莊中的電影感女戰士
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個高細節的提示詞，用於生成一張寫實的電影感肖像，描繪了一位身穿板甲的金髮女戰士，背景是煙霧繚繞、燃燒的中世紀村莊與一條巨龍。
+
+#### 📝 提示詞
+
+```
+超寫實電影感肖像，描繪一位皮膚白皙、擁有銳利藍眼睛的女戰士，右肩垂著一條厚實的長鉑金色辮子，身穿細節豐富、帶有精緻浮雕圖案與鎖子甲的銀灰色中世紀板甲，右手握著一把帶有深色劍柄的華麗長劍，站在燃燒著建築物的中世紀村莊街道上，背景煙霧中隱約可見一條巨大的模糊巨龍，色調極度柔和且去飽和，低飽和度，粗獷的電影氛圍，戲劇性但柔和的燈光，微弱的火光，銳利的雙眼微微向上凝視，表情嚴肅而高貴，超細節皮膚紋理可見毛孔，寫實的金屬反射與盔甲磨損痕跡，灰塵與煤灰顆粒，8k 原片攝影，照片級真實感。
+```
+
+<img src="https://cms-assets.youmind.com/media/1784794869283_q4h6ki_HN2Q8NdXIAAF7kf.jpg" width="600" alt="燃燒村莊中的電影感女戰士">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7757)**
+
+**作者:** [Myluna](https://x.com/monicamoonx) | **來源:** [Link](https://x.com/monicamoonx/status/2079978038343913772) | **發布時間:** Jul 22, 2026
+
+---
+### 北歐 8-Bit 像素藝術風格
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用於生成放鬆的 8-Bit 像素藝術場景，並伴隨空靈北歐器樂的提示詞。
+
+#### 📝 提示詞
+
+```
+可愛且令人放鬆的 8-Bit 像素藝術，平靜空靈的北歐器樂，無人聲，彷彿在經歷漫長且黑暗混亂的旅程後，回到了真正屬於你的家。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079811831452057600/img/1EWmR4RRAfGfaBoZ.jpg" width="600" alt="北歐 8-Bit 像素藝術風格">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7758)**
+
+**作者:** [Kiki 🇺🇸](https://x.com/kikisknees) | **來源:** [Link](https://x.com/kikisknees/status/2079811897411682562) | **發布時間:** Jul 22, 2026
+
+---
 ### 8-bit 像素精靈動畫
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +282,25 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7697)**
 
 **作者:** [paranoidream ♡︎](https://x.com/paranoidream) | **來源:** [Link](https://x.com/paranoidream/status/2079799074325422343) | **發布時間:** Jul 22, 2026
+
+---
+### 人臉橫切面 fMRI 掃描
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個電影級的影片提示詞，將人臉剖開並呈現大腦 fMRI 掃描的動態視覺效果。
+
+#### 📝 提示詞
+
+```
+將人臉從中間剖開，呈現出正在進行大腦 fMRI 掃描的視覺效果
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079724515811074048/img/ETlS_bwjcDqsxOnA.jpg" width="600" alt="人臉橫切面 fMRI 掃描">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7755)**
+
+**作者:** [Doc Toadlips](https://x.com/DToadlips) | **來源:** [Link](https://x.com/DToadlips/status/2079724995815575661) | **發布時間:** Jul 22, 2026
 
 ---
 ### 史詩級阿基里斯特洛伊戰爭影片
@@ -1040,7 +1135,7 @@ Meowlow
 極致特寫肖像，一位擁有蒼白、佈滿雀斑且帶有塵埃感肌膚的精靈女性，長著尖尖的精靈耳朵，頭戴裝飾華麗的黑金皇冠，皇冠上有哥德式金屬絲工藝與深色寶石，長長的白色秀髮隱約可見。一隻細節豐富、翅膀花紋繁複的大型飛蛾完全遮住了她的雙眼，飛蛾的軀體與展開的雙翼徹底隱藏了眼部區域。採用戲劇性的低調電影燈光，強烈的輪廓光突顯了肌膚的紋理與塵埃微粒。色調為低飽和度的暗色系，以金色與黑色為主導，營造出暗黑奇幻氛圍，超寫實、超細節、電影感、情緒化。
 ```
 
-<img src="https://cms-assets.youmind.com/media/1784621990255_o1g34n_HNXvRqjXgAAJLzb.jpg" width="600" alt="電影感暗黑奇幻精靈肖像">
+<img src="https://cms-assets.youmind.com/media/1784794870305_y2t22h_HNXvRqjXgAAJLzb.jpg" width="600" alt="電影感暗黑奇幻精靈肖像">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7522)**
 
@@ -2241,117 +2336,6 @@ Lila 駕駛著一艘白色小帆船，平穩地航行在平靜的切薩皮克灣
 **作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2077253936118120817) | **發布時間:** Jul 15, 2026
 
 ---
-### 懸浮水球
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個照片級真實感的影片提示詞：水從玻璃杯中流出，在柔和的日光下形成一個懸浮的水球。
-
-#### 📝 提示詞
-
-```
-桌上的一杯水，水突然向上流出玻璃杯並形成一個懸浮的水球，照片級真實感，柔和的日光
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077061435562364928/img/8qeVxVJrvKvXuW5h.jpg" width="600" alt="懸浮水球">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7268)**
-
-**作者:** [atmen](https://x.com/atmen189) | **來源:** [Link](https://x.com/atmen189/status/2077238726120669192) | **發布時間:** Jul 15, 2026
-
----
-### 在暴風雨懸崖上行走的人
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段電影級的影片提示詞，描述一名男子在強烈暴風雨中赤腳走在懸崖邊緣。
-
-#### 📝 提示詞
-
-```
-生成一段影片，內容為角色走在懸崖邊緣，當天風雨交加，下方海浪洶湧。請盡可能呈現真實感。他赤腳，穿著短褲和 T-shirt（完全沒有為惡劣天氣做好準備）。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077203114336137216/img/5M3wp2NkmjE4fQeb.jpg" width="600" alt="在暴風雨懸崖上行走的人">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7301)**
-
-**作者:** [Marcelo](https://x.com/absurdoburrito) | **來源:** [Link](https://x.com/absurdoburrito/status/2077203168341926014) | **發布時間:** Jul 15, 2026
-
----
-### 塞內加爾 8K 電影級 FPV 無人機之旅
-
-![한국어](https://img.shields.io/badge/lang-한국어-orange)
-
-> 為 Grok Imagine 設計的高細節 10 秒 FPV 無人機飛行提示詞，捕捉橫跨塞內加爾地標的旅程，包含非洲復興紀念碑、戈雷島以及玫瑰湖的黃金時刻。
-
-#### 📝 提示詞
-
-```
-一段 10 秒的超高畫質電影級第一人稱視角（FPV）無人機影片。飛行極其穩定自然，幾乎沒有攝影機晃動，呈現出如同真實無人機鏡頭般的生動視覺美感。影片融合了流暢優雅的運鏡與驚險動感的場景。
-
-0-2 秒：在黃金時刻平穩地飛越達卡上空，向左環繞，呈現非洲復興紀念碑與城市天際線的宏偉全景。
-
-2-4 秒：自然過渡至戈雷島，圍繞這座歷史悠久的島嶼進行驚險的低空飛行，捕捉殖民時期建築與海浪的細節。
-
-4-6 秒：移動至玫瑰湖（Lac Rose），在粉紅湖面上進行動態低空飛行，捕捉鹽分紋理與波光粼粼的水面。
-
-6-8 秒：移動至朱賈國家鳥類保護區（Djoudj National Park），在濕地、鳥群與茂密的紅樹林上方平穩低空飛行，同時向左環繞。
-
-8-10 秒：最後，上升至薩盧姆三角洲（Sine-Saloum Delta）上方，捕捉絕美的日落全景。展現壯麗而內斂的景觀，紅樹林、水道與金色的陽光相互輝映，同時向左環繞。
-
-極致逼真的 8K 無人機鏡頭，非常流暢的 FPV 運鏡與自然的左轉動作，溫暖的電影級光影變化從黃金時刻過渡至生動的日落，真實且精確的地標細節，水體、鹽分、岩石與植物的紋理細膩精緻，深邃的氛圍感，大師級作品，以超高精確度進行描述。
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2077034602020093954/pu/img/fnLBpMQGWkAG_5up.jpg" width="600" alt="塞內加爾 8K 電影級 FPV 無人機之旅">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7269)**
-
-**作者:** [Drone V Drone](https://x.com/drone_v_drone) | **來源:** [Link](https://x.com/drone_v_drone/status/2077034857784574322) | **發布時間:** Jul 14, 2026
-
----
-### 天穹極光編織
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一幅詩意的視覺景象，描繪了天界工匠使用巨大的織布機，在極地天空中編織出北極光的過程。
-
-#### 📝 提示詞
-
-```
-巨大的織布機橫跨極地天空，成千上萬的天界工匠在此將翡翠綠、紫羅蘭、寶石藍與金色的絲帶，編織成絢麗的極光。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075485665500794880/img/7jRhIujItskIVQx_.jpg" width="600" alt="天穹極光編織">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7231)**
-
-**作者:** [James King](https://x.com/JamesKi97287119) | **來源:** [Link](https://x.com/JamesKi97287119/status/2076811411796451619) | **發布時間:** Jul 13, 2026
-
----
-### Cosmic Friendly Being Ad Astra
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個充滿創意且具備未來感與啟發性氛圍的宇宙生物影片提示詞。
-
-#### 📝 提示詞
-
-```
-宇宙友善生物
-
-未來就在你眼前。
-
-把握它 - AD Astra
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076775823953027074/img/CG4a6nKiISfvprqj.jpg" width="600" alt="Cosmic Friendly Being Ad Astra">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7223)**
-
-**作者:** [BackWoods 🌱](https://x.com/SGBackWoods) | **來源:** [Link](https://x.com/SGBackWoods/status/2076775890256564473) | **發布時間:** Jul 13, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2413,6 +2397,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-07-23T06:53:02.018Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-07-23T10:46:56.423Z</sub>
 
 </div>
