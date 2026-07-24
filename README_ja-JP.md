@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2211** |
+| 📝 プロンプト総数 | **2215** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-07-24** |
 
@@ -189,6 +189,44 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### テラコッタ・ヴェール・ダンサー
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 温かみのある黄金色の光の中、カラフルなモザイクの壁を背景にオレンジ色のシルクをなびかせて踊るダンサーのためのビデオプロンプト。
+
+#### 📝 プロンプト
+
+```
+彼女は温かみのある黄金色の光の中で踊り、オレンジ色のシルクがカラフルなモザイクの壁を背景に優雅になびいている。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080380918401835009/img/jpLJqErXUFLPbras.jpg" width="600" alt="テラコッタ・ヴェール・ダンサー">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7793)**
+
+**作者:** [Bob - Art with a Hat](https://x.com/artwithahat0) | **ソース:** [Link](https://x.com/artwithahat0/status/2080381005395878356) | **公開日:** Jul 23, 2026
+
+---
+### 月明かりの庭に佇む謎めいた擬人化猫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine 向けの精細なシネマティックプロンプト。ノワール調の月明かりの庭で、影のようなローブを纏った気品ある擬人化猫を描写します。
+
+#### 📝 プロンプト
+
+```
+月明かりに照らされた枯れ桜の庭で、王冠を被り、影のような暗いローブを纏った謎めいた擬人化猫が静かに座っている。ドラマチックなノワール調のライティングが、深いコントラストと情緒的な影を際立たせている。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080305619941355520/img/Ct1mEMjGL47q8Oh_.jpg" width="600" alt="月明かりの庭に佇む謎めいた擬人化猫">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7792)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **ソース:** [Link](https://x.com/MrDasOnX/status/2080305655907500138) | **公開日:** Jul 23, 2026
+
+---
 ### ジャスミンの花が降り注ぐシュールなビデオ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +244,31 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7756)**
 
 **作者:** [Carolina Delgado](https://x.com/carolletta) | **ソース:** [Link](https://x.com/carolletta/status/2080195996315738403) | **公開日:** Jul 23, 2026
+
+---
+### ガンダルフ vs バルログの壮大なバトル
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 火山洞窟で繰り広げられる魔術師と溶岩のドラゴンの壮絶な戦いを描いた、15 秒間のプロ仕様シネマティック動画用プロンプト。
+
+#### 📝 プロンプト
+
+```
+溶岩の川と舞い散る火の粉に照らされた広大な火山洞窟で繰り広げられる、15 秒間のドラマチックなファンタジー・バトル。まずは、ひび割れた岩棚に立つ白髪の強力な魔術師戦士をローアングルで捉える。長くたなびく灰色のローブがドラマチックに揺れ、彼が 2 本の光り輝く剣を高く掲げる。片方の剣は眩い青白色の光とレンズフレアを放ち、もう片方は猛烈な黄金のエネルギービームを放つ。その周囲では、巨大なオレンジ色のエネルギーの輪が魔法の盾のように渦を巻き、広がっていく。
+
+対峙するのは、溶岩の炎と黒曜石の鱗で構成された巨大な火炎ドラゴンの獣。翼を大きく広げ、炉のように燃える目で咆哮し、洞窟全体を照らす激しいオレンジ色の炎を吐き出す。
+
+ダイナミックなカメラワーク：魔術師の決意に満ちた表情へゆっくりとドラマチックにズームインし、獣が飛びかかる瞬間に両者の周囲を素早く旋回する。魔術師は岩棚から優雅に飛び降り、剣を力強く振り抜く。その軌跡には鮮やかなエネルギーの尾が残り、ドラゴンの炎の皮膚に命中すると火花が爆発する。炎と光が激しくぶつかり合い、火の粉と溶岩の破片が飛び散る。ドラゴンは長い尾を振り回しながら顎で噛みつこうとし、魔術師はアクロバティックな回避と反撃を繰り返す。
+
+重厚な響きと鋭い剣戟の音が混ざり合う壮大なオーケストラ音楽が盛り上がる。最後は、魔術師が青白い光と黄金の光を放ちながら両剣を獣の胸に突き刺す英雄的なワイドショットで締めくくる。ドラゴンの怒りの咆哮とともに、周囲で炎が激しく噴き上がる。超高精細、シネマティックなライティング、激しい動き、壮大なスケール、4K 画質、ドラマチックなスローモーションと高速アクションの融合。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080084050291642368/img/8eUFvxZ_lMf6KfF7.jpg" width="600" alt="ガンダルフ vs バルログの壮大なバトル">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7794)**
+
+**作者:** [Lord Of The Groks](https://x.com/LordOfTheGroks) | **ソース:** [Link](https://x.com/LordOfTheGroks/status/2080084115844735126) | **公開日:** Jul 23, 2026
 
 ---
 ### アニメーションによるドラゴンの戦闘シーン
@@ -301,6 +364,27 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7755)**
 
 **作者:** [Doc Toadlips](https://x.com/DToadlips) | **ソース:** [Link](https://x.com/DToadlips/status/2079724995815575661) | **公開日:** Jul 22, 2026
+
+---
+### 超写実的なゴシック様式の母子のマクロポートレート
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ゴシック調の冠を被った女性が、おくるみに包まれた赤ちゃんを優しく抱きかかえる様子を捉えた、映画のように感情豊かなマクロポートレート用プロンプト。フォトリアルな肌の質感と落ち着いた色調に焦点を当てています。
+
+#### 📝 プロンプト
+
+```
+青白い肌、そばかす、長く流れるような白い髪を持つ美しい女性の超写実的なマクロポートレート。繊細なディテール、控えめなドレープ、レースのアクセントがあしらわれた、エレガントで流れるような黒いロングドレスを着用。頭には装飾的なダークなスパイク付きゴシッククラウン。彼女は、柔らかく上品な白い布のおくるみに包まれた愛らしい赤ちゃんを両手と腕で優しく抱き寄せ、胸元で慈しむように抱いている。赤ちゃんはふっくらとしていて愛らしく、柔らかく繊細な肌をしており、布にしっかりと包まれて心地よさそうにしている。彼女のポーズは保護的で愛情に満ちている。
+
+非常に落ち着いた低彩度のカラーパレット、ほぼ彩度のない色調、繊細でクールなアンダートーン、柔らかな自然の影、毛穴まで見えるリアルな肌の質感、映画のようでいて抑制されたライティング、極めて詳細、シャープなマクロフォーカス、超写実的、フォトリアリズム。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079626100322205696/img/Y8Ulemh-dWFDb9uk.jpg" width="600" alt="超写実的なゴシック様式の母子のマクロポートレート">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7795)**
+
+**作者:** [Myluna](https://x.com/monicamoonx) | **ソース:** [Link](https://x.com/monicamoonx/status/2079626150091932125) | **公開日:** Jul 21, 2026
 
 ---
 ### トロイア戦争：アキレウスのシネマティック動画プロンプト
@@ -1135,7 +1219,7 @@ Meowlow
 非常に色白でそばかすがあり、埃を被ったような肌を持つエルフの女性の超クローズアップポートレート。尖った耳を持ち、ゴシック様式のフィリグリー細工と暗い宝石があしらわれた華やかな黒金色の冠を頭に戴いている。長く流れるような白い髪が一部見え、複雑な模様の羽を持つ非常に大きく精巧な蛾が、彼女の両目を完全に覆い隠している。蛾の体と広げた羽が目元を完全に隠しており、肌の質感や埃の粒子を際立たせる強いリムライトを効かせた、ドラマチックでローキーなシネマティックライティング。ゴールドとブラックを基調とした、彩度を抑えたミュートカラーのパレット。ダークファンタジーの雰囲気、ハイパーリアリスティック、超高精細、シネマティック、ムーディー。
 ```
 
-<img src="https://cms-assets.youmind.com/media/1784794870305_y2t22h_HNXvRqjXgAAJLzb.jpg" width="600" alt="シネマティックなダークファンタジー風エルフのポートレート">
+<img src="https://cms-assets.youmind.com/media/1784881007798_36ite4_HNXvRqjXgAAJLzb.jpg" width="600" alt="シネマティックなダークファンタジー風エルフのポートレート">
 
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7522)**
 
@@ -2258,84 +2342,6 @@ Nikkor 14-24/2.8 を使用した超広角ショット。D3s ボディ。鳥と�
 **作者:** [Erkki Heliö](https://x.com/erkki_helio) | **ソース:** [Link](https://x.com/erkki_helio/status/2077318469746372923) | **公開日:** Jul 15, 2026
 
 ---
-### 目覚めるフェアリー AI
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 窓から飛び込み、ベッドで眠りについた妖精を描いた幻想的なビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-彼がその妖精です。窓から飛び込んできて、ひらひらと舞い降り、羽を広げたままベッドで気絶するように眠ってしまったのです。
-POV：あなたが AI を起こすとき...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077277582865670144/img/NDTg10dfMB2IY3fj.jpg" width="600" alt="目覚めるフェアリー AI">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7305)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2077277639203606830) | **公開日:** Jul 15, 2026
-
----
-### 白い子猫の焚き火パーティー動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 「Because I Can」という名前の白い子猫が、小さな帽子をかぶって焚き火パーティーに参加する様子を描いた詳細な動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-「Because I Can」という名前の子猫が焚き火パーティーに参加する様子。明るい青い目をした、小さくて愛らしい純白の子猫「Because I Can」が、頭に小さな赤い帽子を斜めにかぶり、小さな漫画のティラノサウルス・レックスが描かれた白い下着を身につけている...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077271713163661312/img/v_UFtWVGGeo1bOeO.jpg" width="600" alt="白い子猫の焚き火パーティー動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7309)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2077271804113015007) | **公開日:** Jul 15, 2026
-
----
-### スーパーヒーローのネオンシティ変身
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ネオン輝く街で、男性がギリシャ神話の巨神の伝承を思わせるマントを纏ったスーパーヒーローへと変身する動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-強力なスーパーヒーローに変身、古代ギリシャの巨神の伝承に登場するような壮大なスーパーパワーのマントを纏った同一の男性、同じネオンシティ、跳躍して空へ飛び立つ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077258140102389760/img/iqZDYHUs2CXrmOAC.jpg" width="600" alt="スーパーヒーローのネオンシティ変身">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7306)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2077258210759635238) | **公開日:** Jul 15, 2026
-
----
-### ドラゴンが飛び出すハート型バルーンの爆発
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ハート型のバルーンが弾けて、グリッターや蝶、小さな青いドラゴンが舞い散る様子をチェロの音色とともに描いたシネマティックな動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-ブロンズのグリッターと黄色い蝶、小さな青いドラゴンが飛び出す、ハート型バルーンの爆発
-チェロの音楽
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077253773710561280/img/A_yIgvX3Chr15ULl.jpg" width="600" alt="ドラゴンが飛び出すハート型バルーンの爆発">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7307)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2077253936118120817) | **公開日:** Jul 15, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2397,6 +2403,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-24T06:45:48.928Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-24T10:42:24.478Z</sub>
 
 </div>

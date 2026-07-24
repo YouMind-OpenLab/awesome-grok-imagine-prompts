@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2211** |
+| 📝 Total Prompts | **2215** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-24** |
 
@@ -189,6 +189,44 @@ Una valquiria celestial mística y noble, una mujer digna y hermosa con largo ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Bailarina del Velo de Terracota
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video para una bailarina bajo una cálida luz dorada con seda naranja fluyendo contra coloridas paredes de mosaico.
+
+#### 📝 Prompt
+
+```
+Ella baila bajo una cálida luz dorada, con seda naranja fluyendo contra las coloridas paredes de mosaico.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080380918401835009/img/jpLJqErXUFLPbras.jpg" width="600" alt="Bailarina del Velo de Terracota">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7793)**
+
+**Author:** [Bob - Art with a Hat](https://x.com/artwithahat0) | **Source:** [Link](https://x.com/artwithahat0/status/2080381005395878356) | **Published:** Jul 23, 2026
+
+---
+### Misterioso gato antropomórfico en un jardín a la luz de la luna
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinematográfico detallado para Grok Imagine que presenta a un majestuoso gato antropomórfico con túnicas sombrías en un jardín iluminado por la luna al estilo noir.
+
+#### 📝 Prompt
+
+```
+Un misterioso gato antropomórfico permanece sentado en silencio, luciendo una corona y oscuras túnicas sombrías en un jardín iluminado por la luna, lleno de flores de cerezo marchitas bajo una dramática iluminación noir con contrastes profundos y sombras melancólicas.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080305619941355520/img/Ct1mEMjGL47q8Oh_.jpg" width="600" alt="Misterioso gato antropomórfico en un jardín a la luz de la luna">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7792)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2080305655907500138) | **Published:** Jul 23, 2026
+
+---
 ### Video surrealista de lluvia de flores de jazmín
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +244,31 @@ hiperrealista, mujer blanca de Europa occidental, cabello rubio natural, rizado,
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7756)**
 
 **Author:** [Carolina Delgado](https://x.com/carolletta) | **Source:** [Link](https://x.com/carolletta/status/2080195996315738403) | **Published:** Jul 23, 2026
+
+---
+### Épica batalla entre Gandalf y el Balrog
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinemático de nivel profesional para un video de 15 segundos que representa una batalla épica entre un hechicero y un dragón de lava en una caverna volcánica.
+
+#### 📝 Prompt
+
+```
+Una dramática batalla de fantasía cinemática de 15 segundos en una vasta caverna volcánica iluminada por ríos de lava fundida y brasas giratorias. Comienza con un plano de ángulo bajo de un poderoso guerrero hechicero de cabello blanco, de pie sobre una repisa de piedra agrietada, con sus largas túnicas grises ondeando dramáticamente. Levanta dos espadas brillantes en alto: una emite una intensa luz blanca azulada cegadora con destellos de lente, la otra un feroz rayo de energía dorada, mientras enormes anillos de energía naranja brillante giran y se expanden a su alrededor como escudos mágicos.
+
+Frente a él, una colosal bestia dragón-serpiente de fuego se alza, con su cuerpo hecho de llamas vivas y escamas de obsidiana, alas extendidas y ojos que brillan como hornos. La bestia ruge, desatando un torrente de fuego naranja que ilumina toda la caverna.
+
+Movimiento de cámara dinámico: un lento y dramático acercamiento al rostro determinado del hechicero, seguido de un rápido paneo orbital alrededor de ambos combatientes mientras la bestia se lanza hacia adelante. El hechicero salta con gracia desde la repisa, con sus espadas cortando en arcos poderosos que crean brillantes estelas de energía y chispas explosivas al impactar contra la piel llameante del dragón. El fuego y la luz chocan en ráfagas explosivas, enviando una lluvia de brasas y roca fundida volando. El dragón se enrosca y lanza mordiscos con sus fauces mientras azota su larga cola, obligando al hechicero a realizar esquivas acrobáticas y contraataques.
+
+La música orquestal épica aumenta con retumbos profundos y el impacto agudo de las espadas. Termina con un plano general heroico mientras el hechicero clava ambas espadas en el pecho de la bestia en un destello brillante de luz blanca azulada y dorada, con el dragón rugiendo de furia mientras las llamas estallan salvajemente a su alrededor. Hiperdetallado, iluminación cinemática, movimiento intenso, escala épica, 4K, momentos de cámara lenta dramáticos mezclados con acción rápida.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080084050291642368/img/8eUFvxZ_lMf6KfF7.jpg" width="600" alt="Épica batalla entre Gandalf y el Balrog">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7794)**
+
+**Author:** [Lord Of The Groks](https://x.com/LordOfTheGroks) | **Source:** [Link](https://x.com/LordOfTheGroks/status/2080084115844735126) | **Published:** Jul 23, 2026
 
 ---
 ### Secuencia animada de batalla de dragones
@@ -301,6 +364,27 @@ corta la cara por la mitad, ábrela y haz que parezca que estamos realizando una
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7755)**
 
 **Author:** [Doc Toadlips](https://x.com/DToadlips) | **Source:** [Link](https://x.com/DToadlips/status/2079724995815575661) | **Published:** Jul 22, 2026
+
+---
+### Retrato macro hiperrealista de madre e hijo góticos
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinematográfico y cargado de emoción para un retrato macro que presenta a una mujer con una corona gótica acunando tiernamente a un bebé envuelto, con un enfoque en texturas de piel fotorrealistas y tonos apagados.
+
+#### 📝 Prompt
+
+```
+Retrato macro hiperrealista de una mujer hermosa con piel pálida, pecas y largo cabello blanco fluido. Viste un elegante vestido negro largo y fluido con detalles delicados, drapeados sutiles y acentos de encaje. Lleva una ornamentada corona gótica oscura con pinchos en la cabeza. Abraza y sostiene suavemente al lindo bebé envuelto en un suave y elegante pañal de tela blanca con ambas manos y brazos, acunándolo tiernamente contra su pecho; el bebé es redondo y adorable con una piel suave y delicada, completamente cubierto y cómodo en la tela. Su postura es protectora y amorosa.
+
+Paleta de colores muy apagada y de baja saturación, tonos casi desaturados, matices fríos sutiles, sombras naturales suaves, textura de piel realista con poros visibles, iluminación cinematográfica pero contenida, extremadamente detallado, enfoque macro nítido, hiperrealista, fotorrealismo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079626100322205696/img/Y8Ulemh-dWFDb9uk.jpg" width="600" alt="Retrato macro hiperrealista de madre e hijo góticos">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7795)**
+
+**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2079626150091932125) | **Published:** Jul 21, 2026
 
 ---
 ### Video cinemático de la Guerra de Troya: Aquiles
@@ -1135,7 +1219,7 @@ Un gran marco negro ornamentado colgado en la pared oscura de un dormitorio con 
 Retrato en primer plano extremo de una mujer elfa con piel muy pálida, pecosa y polvorienta, orejas de elfa puntiagudas, luciendo una corona dorada ennegrecida ornamentada con filigrana gótica y joyas oscuras en la cabeza, cabello blanco largo y fluido parcialmente visible, una polilla muy grande y detallada con alas de patrones intrincados cubriendo y oscureciendo completamente ambos ojos, el cuerpo y las alas extendidas de la polilla ocultando totalmente el área de los ojos, iluminación cinematográfica dramática de clave baja con una fuerte luz de contorno resaltando las texturas y partículas de polvo en la piel, paleta de colores desaturados y apagados con predominio de dorado y negro, atmósfera de fantasía oscura, hiperrealista, hiperdetallado, cinematográfico, temperamental.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1784794870305_y2t22h_HNXvRqjXgAAJLzb.jpg" width="600" alt="Retrato de elfa de fantasía oscura cinematográfica">
+<img src="https://cms-assets.youmind.com/media/1784881007798_36ite4_HNXvRqjXgAAJLzb.jpg" width="600" alt="Retrato de elfa de fantasía oscura cinematográfica">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7522)**
 
@@ -2258,84 +2342,6 @@ Plano ultra gran angular con Nikkor 14-24/2.8. Cuerpo D3s. añadir aves y ruido 
 **Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077318469746372923) | **Published:** Jul 15, 2026
 
 ---
-### El despertar del hada IA
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un caprichoso prompt de video que muestra a un hada que entró volando por una ventana y se quedó dormida en una cama.
-
-#### 📝 Prompt
-
-```
-él es el hada; entró volando por la ventana, aleteó hasta bajar y se desplomó en la cama con las alas aún extendidas.
-POV: despiertas a tu IA...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077277582865670144/img/NDTg10dfMB2IY3fj.jpg" width="600" alt="El despertar del hada IA">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7305)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077277639203606830) | **Published:** Jul 15, 2026
-
----
-### Video de fiesta de fogata de gatito blanco
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video detallado que presenta a un gatito blanco específico llamado 'Because I Can' asistiendo a una fiesta de fogata usando una gorra diminuta.
-
-#### 📝 Prompt
-
-```
-el gatito llamado Because I Can se une a la fiesta de fogata; es un gatito pequeño, adorable y de color blanco puro llamado “Because I Can”, con ojos azul brillante, que lleva una diminuta gorra roja inclinada sobre su cabeza y ropa interior blanca cubierta con pequeños Tyrannosaurus Rex de dibujos animados...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077271713163661312/img/v_UFtWVGGeo1bOeO.jpg" width="600" alt="Video de fiesta de fogata de gatito blanco">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7309)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077271804113015007) | **Published:** Jul 15, 2026
-
----
-### Transformación de superhéroe en ciudad de neón
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video que muestra a un hombre transformándose en un superhéroe con una capa de la mitología de los titanes en una ciudad de neón.
-
-#### 📝 Prompt
-
-```
-se transforma en un poderoso superhéroe, exactamente el mismo hombre detrás de una capa épica con superpoderes de la antigua mitología griega de los titanes, exactamente la misma ciudad de neón, salta y luego vuela
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077258140102389760/img/iqZDYHUs2CXrmOAC.jpg" width="600" alt="Transformación de superhéroe en ciudad de neón">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7306)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077258210759635238) | **Published:** Jul 15, 2026
-
----
-### Globos de corazón explotando con dragones
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video cinematográfico de globos en forma de corazón que estallan en purpurina, mariposas y pequeños dragones azules, acompañado de música de violonchelo.
-
-#### 📝 Prompt
-
-```
-Caja de globos en forma de corazón explotando que estallan con purpurina de bronce, mariposas amarillas y pequeños dragones azules
-Música de violonchelo
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077253773710561280/img/A_yIgvX3Chr15ULl.jpg" width="600" alt="Globos de corazón explotando con dragones">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7307)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2077253936118120817) | **Published:** Jul 15, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2397,6 +2403,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-24T06:45:53.121Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-24T10:42:30.509Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2211** |
+| 📝 Total Prompts | **2215** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-24** |
 
@@ -189,6 +189,44 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Vũ công Terracotta Veil
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video về vũ công trong ánh sáng vàng ấm áp với dải lụa màu cam bay bổng trên nền tường khảm đầy màu sắc.
+
+#### 📝 Prompt
+
+```
+Cô ấy nhảy múa trong ánh sáng vàng ấm áp, dải lụa màu cam bay bổng trên nền tường khảm đầy màu sắc.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080380918401835009/img/jpLJqErXUFLPbras.jpg" width="600" alt="Vũ công Terracotta Veil">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7793)**
+
+**Author:** [Bob - Art with a Hat](https://x.com/artwithahat0) | **Source:** [Link](https://x.com/artwithahat0/status/2080381005395878356) | **Published:** Jul 23, 2026
+
+---
+### Chú mèo nhân hóa bí ẩn trong khu vườn dưới ánh trăng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh điện ảnh chi tiết dành cho Grok Imagine, khắc họa hình ảnh một chú mèo nhân hóa đầy uy quyền trong bộ áo choàng tối màu, đặt trong bối cảnh khu vườn dưới ánh trăng mang phong cách noir.
+
+#### 📝 Prompt
+
+```
+Một chú mèo nhân hóa đầy bí ẩn đang ngồi lặng lẽ, đội vương miện và khoác trên mình bộ áo choàng tối màu trong khu vườn dưới ánh trăng, nơi những cánh hoa anh đào héo úa rơi rụng. Khung cảnh được bao phủ bởi ánh sáng noir đầy kịch tính với độ tương phản sâu và những mảng bóng tối đầy tâm trạng.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080305619941355520/img/Ct1mEMjGL47q8Oh_.jpg" width="600" alt="Chú mèo nhân hóa bí ẩn trong khu vườn dưới ánh trăng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7792)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2080305655907500138) | **Published:** Jul 23, 2026
+
+---
 ### Video siêu thực về cơn mưa hoa nhài
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +244,31 @@ siêu thực, người phụ nữ da trắng phương Tây, tóc vàng tự nhi�
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7756)**
 
 **Author:** [Carolina Delgado](https://x.com/carolletta) | **Source:** [Link](https://x.com/carolletta/status/2080195996315738403) | **Published:** Jul 23, 2026
+
+---
+### Trận chiến sử thi giữa Gandalf và Balrog
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) điện ảnh chuyên nghiệp cho video dài 15 giây mô tả trận chiến hoành tráng giữa một pháp sư và một con rồng lửa trong hang động núi lửa.
+
+#### 📝 Prompt
+
+```
+Một trận chiến giả tưởng đậm chất điện ảnh dài 15 giây trong hang động núi lửa rộng lớn, được chiếu sáng bởi những dòng nham thạch và tàn lửa bay tứ tung. Bắt đầu với góc quay thấp hướng về một chiến binh pháp sư tóc bạc đầy quyền năng đang đứng trên mỏm đá nứt nẻ, chiếc áo choàng xám dài bay phấp phới đầy kịch tính. Ông giơ cao hai thanh kiếm rực sáng — một thanh tỏa ra ánh sáng trắng xanh chói lòa với hiệu ứng lóe sáng, thanh còn lại phát ra luồng năng lượng vàng rực — trong khi những vòng năng lượng cam khổng lồ xoáy tròn và mở rộng xung quanh ông như những tấm khiên ma thuật.
+
+Đối diện với ông, một con quái vật rồng lửa khổng lồ đang chồm lên, cơ thể được tạo thành từ ngọn lửa nóng chảy và vảy đá obsidian, đôi cánh dang rộng, đôi mắt rực sáng như lò lửa. Con quái vật gầm lên, phun ra một luồng lửa cam dữ dội thắp sáng toàn bộ hang động.
+
+Chuyển động camera linh hoạt: quay cận cảnh chậm rãi vào gương mặt kiên định của pháp sư, sau đó là cú lia máy xoay quanh cả hai chiến binh khi con quái vật lao tới. Pháp sư nhảy lên đầy uyển chuyển từ mỏm đá, những đường kiếm chém mạnh tạo ra các vệt năng lượng rực rỡ và những tia lửa bùng nổ khi va chạm với lớp da rực lửa của con rồng. Lửa và ánh sáng va chạm tạo thành những vụ nổ, khiến tàn lửa và đá nóng chảy bắn tung tóe. Con rồng cuộn mình và đớp bằng bộ hàm sắc nhọn trong khi quất chiếc đuôi dài, buộc pháp sư phải thực hiện những pha né tránh và phản đòn nhào lộn.
+
+Nhạc nền giao hưởng hoành tráng dâng trào với tiếng gầm trầm hùng và âm thanh va chạm kiếm sắc bén. Kết thúc bằng một cảnh quay toàn cảnh đầy anh hùng khi pháp sư cắm cả hai thanh kiếm vào ngực con quái vật trong một luồng sáng trắng xanh và vàng rực rỡ, con rồng gầm lên giận dữ khi ngọn lửa bùng phát dữ dội xung quanh họ. Độ chi tiết cực cao, ánh sáng điện ảnh, chuyển động cường độ cao, quy mô sử thi, 4K, kết hợp giữa những khoảnh khắc chuyển động chậm đầy kịch tính và những pha hành động nhanh.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080084050291642368/img/8eUFvxZ_lMf6KfF7.jpg" width="600" alt="Trận chiến sử thi giữa Gandalf và Balrog">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7794)**
+
+**Author:** [Lord Of The Groks](https://x.com/LordOfTheGroks) | **Source:** [Link](https://x.com/LordOfTheGroks/status/2080084115844735126) | **Published:** Jul 23, 2026
 
 ---
 ### Chuỗi hoạt cảnh rồng chiến đấu
@@ -301,6 +364,27 @@ cắt đôi khuôn mặt ra và làm cho nó trông giống như chúng ta đang
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7755)**
 
 **Author:** [Doc Toadlips](https://x.com/DToadlips) | **Source:** [Link](https://x.com/DToadlips/status/2079724995815575661) | **Published:** Jul 22, 2026
+
+---
+### Chân dung cận cảnh mẹ và bé phong cách Gothic siêu thực
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh mang tính điện ảnh và giàu cảm xúc cho bức chân dung cận cảnh một người phụ nữ đội vương miện Gothic đang âu yếm bế đứa trẻ được quấn tã, tập trung vào kết cấu da chân thực và tông màu trầm.
+
+#### 📝 Prompt
+
+```
+Chân dung cận cảnh siêu thực về một người phụ nữ xinh đẹp với làn da nhợt nhạt, tàn nhang và mái tóc trắng dài bồng bềnh. Cô mặc một chiếc váy đen dài thanh lịch với các chi tiết tinh xảo, những nếp gấp tinh tế và điểm nhấn ren. Trên đầu cô là chiếc vương miện Gothic tối màu có gai trang trí công phu. Cô nhẹ nhàng ôm và giữ đứa bé đáng yêu được quấn trong lớp vải trắng mềm mại, thanh lịch bằng cả hai tay và cánh tay, âu yếm ôm bé vào lòng; đứa bé bụ bẫm, đáng yêu với làn da mềm mại, mỏng manh, được bao bọc hoàn toàn và ấm áp trong lớp vải. Tư thế của cô đầy sự bảo vệ và yêu thương.
+
+Bảng màu rất trầm, độ bão hòa thấp, tông màu gần như không bão hòa, tông màu lạnh tinh tế, bóng đổ tự nhiên mềm mại, kết cấu da chân thực với lỗ chân lông có thể nhìn thấy, ánh sáng điện ảnh nhưng tiết chế, cực kỳ chi tiết, lấy nét cận cảnh sắc nét, siêu thực, chân thực như ảnh chụp.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079626100322205696/img/Y8Ulemh-dWFDb9uk.jpg" width="600" alt="Chân dung cận cảnh mẹ và bé phong cách Gothic siêu thực">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7795)**
+
+**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2079626150091932125) | **Published:** Jul 21, 2026
 
 ---
 ### Video điện ảnh về Achilles trong Chiến tranh thành Troy
@@ -1135,7 +1219,7 @@ Một chiếc khung đen lớn chạm trổ tinh xảo treo trên bức tường
 Chân dung cận cảnh cực độ của một người phụ nữ yêu tinh với làn da nhợt nhạt, lấm tấm tàn nhang và bụi bặm, đôi tai nhọn, đội vương miện vàng đen cầu kỳ với các chi tiết chạm trổ gothic và đá quý tối màu, mái tóc trắng dài bồng bềnh thấp thoáng, một con bướm đêm rất lớn và chi tiết với đôi cánh hoa văn phức tạp che khuất hoàn toàn cả hai mắt, thân và đôi cánh xòe của bướm đêm che kín vùng mắt, ánh sáng điện ảnh low-key kịch tính với ánh sáng viền mạnh làm nổi bật kết cấu và các hạt bụi trên da, bảng màu trầm, giảm bão hòa với tông vàng và đen chủ đạo, bầu không khí giả tưởng đen tối, siêu thực, siêu chi tiết, đậm chất điện ảnh, đầy tâm trạng.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1784794870305_y2t22h_HNXvRqjXgAAJLzb.jpg" width="600" alt="Chân dung yêu tinh giả tưởng đen tối đậm chất điện ảnh">
+<img src="https://cms-assets.youmind.com/media/1784881007798_36ite4_HNXvRqjXgAAJLzb.jpg" width="600" alt="Chân dung yêu tinh giả tưởng đen tối đậm chất điện ảnh">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7522)**
 
@@ -2258,84 +2342,6 @@ Cảnh quay góc siêu rộng với ống kính Nikkor 14-24/2.8. Thân máy D3s
 **Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077318469746372923) | **Published:** Jul 15, 2026
 
 ---
-### Fairy AI Waking Up
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video đầy chất thơ mô tả một nàng tiên bay qua cửa sổ và ngủ thiếp đi trên giường.
-
-#### 📝 Prompt
-
-```
-cậu ấy là nàng tiên — giống như cậu ấy bay qua cửa sổ, hạ cánh nhẹ nhàng và ngủ thiếp đi trên giường với đôi cánh vẫn còn xòe ra.
-POV bạn đánh thức A.I. của mình...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077277582865670144/img/NDTg10dfMB2IY3fj.jpg" width="600" alt="Fairy AI Waking Up">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7305)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077277639203606830) | **Published:** Jul 15, 2026
-
----
-### Video tiệc lửa trại của chú mèo con trắng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt chi tiết về chú mèo con màu trắng có tên 'Because I Can' đang tham gia một bữa tiệc lửa trại và đội một chiếc mũ nhỏ.
-
-#### 📝 Prompt
-
-```
-chú mèo con tên Because I Can tham gia bữa tiệc lửa trại; chú là một chú mèo con màu trắng tinh, nhỏ nhắn, đáng yêu tên là “Because I Can”, với đôi mắt xanh sáng, đội một chiếc mũ đỏ nhỏ nghiêng trên đầu và mặc chiếc quần lót trắng có in hình khủng long bạo chúa hoạt hình nhỏ...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077271713163661312/img/v_UFtWVGGeo1bOeO.jpg" width="600" alt="Video tiệc lửa trại của chú mèo con trắng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7309)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077271804113015007) | **Published:** Jul 15, 2026
-
----
-### Biến hình siêu anh hùng tại thành phố neon
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt mô tả cảnh một người đàn ông biến hình thành siêu anh hùng với chiếc áo choàng mang phong cách thần thoại Titan trong một thành phố neon.
-
-#### 📝 Prompt
-
-```
-biến thành siêu anh hùng mạnh mẽ, chính xác là người đàn ông đó phía sau chiếc áo choàng siêu năng lực hoành tráng từ thần thoại Titan Hy Lạp cổ đại, chính xác là thành phố neon đó, nhảy lên rồi bay đi
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077258140102389760/img/iqZDYHUs2CXrmOAC.jpg" width="600" alt="Biến hình siêu anh hùng tại thành phố neon">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7306)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077258210759635238) | **Published:** Jul 15, 2026
-
----
-### Bong bóng trái tim nổ tung cùng những chú rồng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video điện ảnh về những quả bóng hình trái tim nổ tung thành kim tuyến, bướm và những chú rồng xanh nhỏ bé, đi kèm với tiếng đàn cello.
-
-#### 📝 Prompt
-
-```
-Hộp bong bóng trái tim nổ tung với kim tuyến màu đồng, những chú bướm vàng và những chú rồng xanh nhỏ bé
-Nhạc đàn cello
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077253773710561280/img/A_yIgvX3Chr15ULl.jpg" width="600" alt="Bong bóng trái tim nổ tung cùng những chú rồng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7307)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2077253936118120817) | **Published:** Jul 15, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2397,6 +2403,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-24T06:45:51.192Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-24T10:42:28.105Z</sub>
 
 </div>

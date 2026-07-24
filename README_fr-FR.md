@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2211** |
+| 📝 Total Prompts | **2215** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-24** |
 
@@ -189,6 +189,44 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Danseuse au voile en terre cuite
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo pour une danseuse sous une lumière dorée chaleureuse, avec de la soie orange flottant contre des murs en mosaïque colorés.
+
+#### 📝 Prompt
+
+```
+Elle danse sous une lumière dorée chaleureuse, la soie orange flottant contre les murs en mosaïque colorés.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080380918401835009/img/jpLJqErXUFLPbras.jpg" width="600" alt="Danseuse au voile en terre cuite">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7793)**
+
+**Author:** [Bob - Art with a Hat](https://x.com/artwithahat0) | **Source:** [Link](https://x.com/artwithahat0/status/2080381005395878356) | **Published:** Jul 23, 2026
+
+---
+### Mystérieux chat anthropomorphe dans un jardin au clair de lune
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinématographique détaillé pour Grok Imagine mettant en scène un chat anthropomorphe royal vêtu de robes sombres dans un jardin au clair de lune au style noir.
+
+#### 📝 Prompt
+
+```
+Un mystérieux chat anthropomorphe est assis silencieusement, portant une couronne et des robes sombres et mystérieuses dans un jardin au clair de lune rempli de fleurs de cerisier fanées, sous un éclairage noir dramatique avec des contrastes profonds et des ombres mélancoliques.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080305619941355520/img/Ct1mEMjGL47q8Oh_.jpg" width="600" alt="Mystérieux chat anthropomorphe dans un jardin au clair de lune">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7792)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2080305655907500138) | **Published:** Jul 23, 2026
+
+---
 ### Vidéo surréaliste d'une pluie de fleurs de jasmin
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +244,31 @@ hyper-réaliste, femme blanche d'Europe de l'Ouest, cheveux mi-longs blonds natu
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7756)**
 
 **Author:** [Carolina Delgado](https://x.com/carolletta) | **Source:** [Link](https://x.com/carolletta/status/2080195996315738403) | **Published:** Jul 23, 2026
+
+---
+### Bataille épique entre Gandalf et le Balrog
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinématographique de qualité professionnelle pour une vidéo de 15 secondes illustrant une bataille épique entre un sorcier et un dragon de lave dans une caverne volcanique.
+
+#### 📝 Prompt
+
+```
+Une bataille fantastique cinématographique et dramatique de 15 secondes dans une vaste caverne volcanique éclairée par des rivières de lave en fusion et des tourbillons de braises. Commencez par un plan en contre-plongée d'un puissant sorcier-guerrier aux cheveux blancs, debout sur une corniche en pierre fissurée, ses longues robes grises flottant de manière spectaculaire. Il lève haut deux épées lumineuses — l'une émettant une lumière blanche-bleue intense et aveuglante avec des reflets d'objectif, l'autre un puissant rayon d'énergie dorée — tandis que d'immenses anneaux d'énergie orange incandescente tourbillonnent et s'étendent autour de lui comme des boucliers magiques.
+
+Face à lui, une colossale bête dragon-serpent enflammée se cabre, son corps composé de flammes vivantes et d'écailles d'obsidienne, les ailes largement déployées, les yeux brillant comme des fourneaux. La bête rugit, déchaînant un torrent de feu orange qui illumine toute la caverne.
+
+Mouvement de caméra dynamique : lent zoom avant dramatique sur le visage déterminé du sorcier, suivi d'un panoramique orbital rapide autour des deux combattants alors que la bête s'élance. Le sorcier saute avec grâce depuis la corniche, ses épées traçant des arcs puissants qui créent des traînées d'énergie lumineuse et des étincelles explosives à l'impact avec la peau enflammée du dragon. Le feu et la lumière s'entrechoquent dans des explosions, projetant des gerbes de braises et de roche en fusion. Le dragon s'enroule et claque des mâchoires tout en fouettant avec sa longue queue, forçant le sorcier à effectuer des esquives acrobatiques et des contre-attaques.
+
+Une musique orchestrale épique monte en puissance avec des grondements profonds et des impacts d'épées tranchants. Terminez sur un plan large héroïque alors que le sorcier plante ses deux épées dans la poitrine de la bête dans un flash brillant de lumière bleue-blanche et dorée, le dragon rugissant de fureur tandis que les flammes éclatent violemment autour d'eux. Hyper-détaillé, éclairage cinématographique, mouvement intense, échelle épique, 4K, moments de ralenti dramatiques mêlés à une action rapide.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080084050291642368/img/8eUFvxZ_lMf6KfF7.jpg" width="600" alt="Bataille épique entre Gandalf et le Balrog">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7794)**
+
+**Author:** [Lord Of The Groks](https://x.com/LordOfTheGroks) | **Source:** [Link](https://x.com/LordOfTheGroks/status/2080084115844735126) | **Published:** Jul 23, 2026
 
 ---
 ### Séquence de combat de dragon animé
@@ -301,6 +364,27 @@ couper le visage en deux, l'ouvrir et donner l'impression que nous effectuons un
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7755)**
 
 **Author:** [Doc Toadlips](https://x.com/DToadlips) | **Source:** [Link](https://x.com/DToadlips/status/2079724995815575661) | **Published:** Jul 22, 2026
+
+---
+### Portrait macro hyperréaliste d'une mère et de son bébé au style gothique
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinématographique et riche en émotions pour un portrait macro mettant en scène une femme portant une couronne gothique, berçant tendrement un bébé emmailloté, avec un accent mis sur les textures de peau photoréalistes et les tons sourds.
+
+#### 📝 Prompt
+
+```
+Portrait macro hyperréaliste d'une belle femme à la peau pâle, parsemée de taches de rousseur, avec de longs cheveux blancs fluides. Elle porte une élégante robe noire longue et fluide aux détails délicats, avec des drapés subtils et des accents de dentelle. Une couronne gothique ornée de pointes sombres sur la tête. Elle enlace et tient doucement le mignon bébé, enveloppé dans un lange en tissu blanc doux et élégant, avec ses deux mains et ses bras, le berçant tendrement contre sa poitrine ; le bébé est rond et adorable, avec une peau douce et délicate, entièrement couvert et bien au chaud dans le tissu. Sa pose est protectrice et aimante.
+
+Palette de couleurs très sourdes, à faible saturation, tons presque désaturés, nuances froides subtiles, ombres naturelles douces, texture de peau réaliste avec pores visibles, éclairage cinématographique mais sobre, extrêmement détaillé, mise au point macro nette, hyperréaliste, photoréalisme.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079626100322205696/img/Y8Ulemh-dWFDb9uk.jpg" width="600" alt="Portrait macro hyperréaliste d'une mère et de son bébé au style gothique">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7795)**
+
+**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2079626150091932125) | **Published:** Jul 21, 2026
 
 ---
 ### Vidéo cinématographique : La guerre de Troie et Achille
@@ -1135,7 +1219,7 @@ Un grand cadre noir orné accroché au mur d'une chambre sombre aux murs noirs. 
 Gros plan extrême sur le portrait d'une femme elfe à la peau très pâle, tachetée de taches de rousseur et poussiéreuse, oreilles d'elfe pointues, portant une couronne dorée noircie ornée de filigranes gothiques et de bijoux sombres sur la tête, longs cheveux blancs fluides partiellement visibles, un très grand papillon de nuit détaillé aux ailes aux motifs complexes couvrant et masquant complètement ses deux yeux, le corps et les ailes déployées du papillon dissimulant entièrement la zone des yeux, éclairage cinématographique dramatique en basse lumière avec un fort éclairage de contour soulignant les textures et les particules de poussière sur la peau, palette de couleurs sourdes et désaturées dominée par l'or et le noir, atmosphère dark fantasy, hyper-réaliste, hyper-détaillé, cinématographique, mélancolique.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1784794870305_y2t22h_HNXvRqjXgAAJLzb.jpg" width="600" alt="Portrait d'elfe dark fantasy cinématographique">
+<img src="https://cms-assets.youmind.com/media/1784881007798_36ite4_HNXvRqjXgAAJLzb.jpg" width="600" alt="Portrait d'elfe dark fantasy cinématographique">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7522)**
 
@@ -2258,84 +2342,6 @@ Plan ultra large avec Nikkor 14-24/2.8. Boîtier D3s. ajouter des oiseaux et le 
 **Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077318469746372923) | **Published:** Jul 15, 2026
 
 ---
-### L'éveil de la fée IA
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo fantaisiste représentant une fée qui est entrée par la fenêtre et s'est endormie sur un lit.
-
-#### 📝 Prompt
-
-```
-c'est la fée — comme si elle était entrée par la fenêtre, avait voleté jusqu'au lit et s'était effondrée, les ailes encore déployées.
-POV : vous réveillez votre IA...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077277582865670144/img/NDTg10dfMB2IY3fj.jpg" width="600" alt="L'éveil de la fée IA">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7305)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077277639203606830) | **Published:** Jul 15, 2026
-
----
-### Vidéo d'un chaton blanc à une fête autour d'un feu de camp
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo détaillé mettant en scène un chaton blanc spécifique nommé « Because I Can » participant à une fête autour d'un feu de camp et portant une minuscule casquette.
-
-#### 📝 Prompt
-
-```
-le chaton nommé Because I Can rejoint la fête autour du feu de camp ; il s'agit d'un petit chaton adorable, d'un blanc pur, nommé « Because I Can », aux yeux bleu vif, portant une minuscule casquette rouge inclinée sur la tête et un sous-vêtement blanc recouvert de petits Tyrannosaurus Rex en dessin animé...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077271713163661312/img/v_UFtWVGGeo1bOeO.jpg" width="600" alt="Vidéo d'un chaton blanc à une fête autour d'un feu de camp">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7309)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077271804113015007) | **Published:** Jul 15, 2026
-
----
-### Transformation en super-héros dans une ville néon
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo montrant un homme se transformant en super-héros avec une cape inspirée de la mythologie des titans dans une ville aux lumières néon.
-
-#### 📝 Prompt
-
-```
-se transforme en puissant super-héros, le même homme portant une cape épique inspirée de la mythologie des titans grecs, la même ville néon, saute puis s'envole
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077258140102389760/img/iqZDYHUs2CXrmOAC.jpg" width="600" alt="Transformation en super-héros dans une ville néon">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7306)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077258210759635238) | **Published:** Jul 15, 2026
-
----
-### Ballons en forme de cœur explosant avec des dragons
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo cinématographique montrant des ballons en forme de cœur éclatant en paillettes, papillons et minuscules dragons bleus, le tout accompagné d'une musique de violoncelle.
-
-#### 📝 Prompt
-
-```
-Boîte de ballons en forme de cœur explosant en paillettes de bronze, papillons jaunes et minuscules dragons bleus
-Musique de violoncelle
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077253773710561280/img/A_yIgvX3Chr15ULl.jpg" width="600" alt="Ballons en forme de cœur explosant avec des dragons">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7307)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2077253936118120817) | **Published:** Jul 15, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2397,6 +2403,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-24T06:45:55.537Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-24T10:42:33.748Z</sub>
 
 </div>

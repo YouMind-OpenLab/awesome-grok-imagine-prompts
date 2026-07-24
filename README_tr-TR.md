@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2211** |
+| 📝 Total Prompts | **2215** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-24** |
 
@@ -189,6 +189,44 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Terracotta Veil Dancer
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Renkli mozaik duvarların önünde, sıcak altın rengi ışık altında süzülen turuncu ipekler içindeki bir dansçı için video istemi.
+
+#### 📝 Prompt
+
+```
+Sıcak altın rengi ışık altında dans ediyor; turuncu ipekler renkli mozaik duvarlara karşı süzülüyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080380918401835009/img/jpLJqErXUFLPbras.jpg" width="600" alt="Terracotta Veil Dancer">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7793)**
+
+**Author:** [Bob - Art with a Hat](https://x.com/artwithahat0) | **Source:** [Link](https://x.com/artwithahat0/status/2080381005395878356) | **Published:** Jul 23, 2026
+
+---
+### Ay Işığıyla Aydınlanan Bahçede Gizemli İnsansı Kedi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine için, noir tarzı ay ışıklı bir bahçede, gölgeli cübbeler içindeki asil ve insansı bir kediyi konu alan detaylı sinematik bir istem.
+
+#### 📝 Prompt
+
+```
+Ay ışığıyla aydınlanan, solmuş kiraz çiçekleriyle dolu bir bahçede; başında tacı ve üzerinde koyu renkli, gölgeli cübbeleriyle sessizce oturan gizemli ve insansı bir kedi. Dramatik noir ışıklandırma, derin kontrastlar ve karamsar gölgelerle çevrili.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080305619941355520/img/Ct1mEMjGL47q8Oh_.jpg" width="600" alt="Ay Işığıyla Aydınlanan Bahçede Gizemli İnsansı Kedi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7792)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2080305655907500138) | **Published:** Jul 23, 2026
+
+---
 ### Yasemin Çiçeği Yağmuru Sürreal Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +244,31 @@ hiper gerçekçi, beyaz batı Avrupalı doğal orta sarı saçlı, kıvırcık g
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7756)**
 
 **Author:** [Carolina Delgado](https://x.com/carolletta) | **Source:** [Link](https://x.com/carolletta/status/2080195996315738403) | **Published:** Jul 23, 2026
+
+---
+### Destansı Gandalf ve Balrog Savaşı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Volkanik bir mağarada bir büyücü ile erimiş bir ejderha arasındaki destansı savaşı betimleyen, 15 saniyelik profesyonel düzeyde sinematik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Erimiş lav nehirleri ve savrulan közlerle aydınlanan uçsuz bucaksız bir volkanik mağarada geçen, 15 saniyelik dramatik ve sinematik bir fantastik savaş. Çatlak bir taş çıkıntının üzerinde duran, uzun gri cübbeleri dramatik bir şekilde dalgalanan, beyaz saçlı güçlü bir büyücü-savaşçının düşük açılı çekimiyle başlayın. Büyücü, iki parlayan kılıcı havaya kaldırır; biri lens parlamalarıyla yoğun, kör edici mavi-beyaz bir ışık yayarken, diğeri şiddetli bir altın enerji ışını saçar; bu sırada devasa parlayan turuncu enerji halkaları, sihirli kalkanlar gibi etrafında dönüp genişler.
+
+Karşısında, gövdesi canlı erimiş alev ve obsidyen pullardan oluşan, kanatları iki yana açılmış, gözleri fırın gibi parlayan devasa, ateşli bir ejderha-yılan canavarı yükselir. Canavar kükreyerek tüm mağarayı aydınlatan şiddetli bir turuncu ateş seli püskürtür.
+
+Dinamik kamera hareketi: Büyücünün kararlı yüzüne yavaş ve dramatik bir yakınlaşma, ardından canavar ileri atılırken her iki dövüşçünün etrafında hızlı bir yörünge dönüşü. Büyücü, kılıçlarını güçlü yaylar çizerek savurarak çıkıntıdan zarif bir şekilde atlar; bu hamleler parlak enerji izleri oluşturur ve ejderhanın alevli derisine çarptığında kıvılcımlar saçar. Ateş ve ışık patlayıcı bir şekilde çarpışarak etrafa köz ve erimiş kaya yağmuru saçar. Ejderha kıvrılıp çenesiyle hamle yaparken uzun kuyruğunu kırbaç gibi sallar, büyücüyü akrobatik kaçışlar yapmaya ve karşı saldırılara zorlar.
+
+Derin gümbürtüler ve keskin kılıç darbeleriyle yükselen destansı orkestral müzik. Büyücünün her iki kılıcı da parlak bir mavi-beyaz ve altın ışık patlamasıyla canavarın göğsüne sapladığı, ejderhanın etraflarında çılgınca yükselen alevler arasında öfkeyle kükrediği kahramanca bir geniş açılı çekimle bitirin. Hiper detaylı, sinematik aydınlatma, yoğun hareket, destansı ölçek, 4K, hızlı aksiyonla harmanlanmış dramatik ağır çekim anları.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080084050291642368/img/8eUFvxZ_lMf6KfF7.jpg" width="600" alt="Destansı Gandalf ve Balrog Savaşı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7794)**
+
+**Author:** [Lord Of The Groks](https://x.com/LordOfTheGroks) | **Source:** [Link](https://x.com/LordOfTheGroks/status/2080084115844735126) | **Published:** Jul 23, 2026
 
 ---
 ### Animasyonlu Ejderha Savaşı Sekansı
@@ -301,6 +364,27 @@ yüzü ortadan ikiye ayır ve sanki beynin fMRI taramasını yapıyormuşuz gibi
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7755)**
 
 **Author:** [Doc Toadlips](https://x.com/DToadlips) | **Source:** [Link](https://x.com/DToadlips/status/2079724995815575661) | **Published:** Jul 22, 2026
+
+---
+### Hipergerçekçi Gotik Anne ve Bebek Makro Portresi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gotik bir taç takan bir kadının kundaklanmış bebeğini şefkatle kucakladığı, fotogerçekçi cilt dokularına ve soluk tonlara odaklanan, sinematik ve duygusal yüklü bir makro portre istemi.
+
+#### 📝 Prompt
+
+```
+Soluk tenli, çilli ve uzun beyaz saçlı güzel bir kadının hipergerçekçi makro portresi. Zarif detaylara, ince kıvrımlara ve dantel vurgulara sahip, uzun ve dökümlü siyah bir elbise giyiyor. Başında süslü, koyu renkli, sivri uçlu gotik bir taç var. Yumuşak, zarif beyaz bir kumaşa sarılı sevimli bebeği iki eli ve kollarıyla nazikçe kavrayıp göğsüne doğru şefkatle tutuyor; bebek tombul, sevimli, yumuşak ve narin bir cilde sahip, tamamen kumaşın içinde huzurlu bir şekilde sarılı. Duruşu koruyucu ve sevgi dolu.
+
+Oldukça soluk, düşük doygunluklu renk paleti, neredeyse renksiz tonlar, hafif soğuk alt tonlar, yumuşak doğal gölgeler, gözenekleri belirgin gerçekçi cilt dokusu, sinematik ama ölçülü aydınlatma, son derece detaylı, keskin makro odak, hipergerçekçi, fotogerçekçilik.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079626100322205696/img/Y8Ulemh-dWFDb9uk.jpg" width="600" alt="Hipergerçekçi Gotik Anne ve Bebek Makro Portresi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7795)**
+
+**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2079626150091932125) | **Published:** Jul 21, 2026
 
 ---
 ### Sinematik Aşil Truva Savaşı Videosu
@@ -1135,7 +1219,7 @@ Siyah duvarlı karanlık bir yatak odasının duvarında asılı, büyük ve sü
 Çok soluk, çilli ve tozlu bir cilde sahip elf kadının aşırı yakın plan portresi; sivri elf kulakları, başında gotik işlemeli ve koyu renkli mücevherlerle süslü, karartılmış altın rengi gösterişli bir taç, kısmen görünen uzun beyaz saçlar, her iki gözünü tamamen kapatan ve gizleyen çok büyük ve detaylı, karmaşık desenli kanatlara sahip bir güve, güvenin gövdesi ve açılmış kanatları göz bölgesini tamamen örtüyor, dokuları ve ciltteki toz parçacıklarını vurgulayan güçlü kenar ışığıyla dramatik düşük anahtarlı sinematik aydınlatma, altın ve siyahın hakim olduğu soluk ve doygunluğu azaltılmış renk paleti, karanlık fantastik atmosfer, hiper gerçekçi, hiper detaylı, sinematik, karamsar.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1784794870305_y2t22h_HNXvRqjXgAAJLzb.jpg" width="600" alt="Sinematik Karanlık Fantastik Elf Portresi">
+<img src="https://cms-assets.youmind.com/media/1784881007798_36ite4_HNXvRqjXgAAJLzb.jpg" width="600" alt="Sinematik Karanlık Fantastik Elf Portresi">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7522)**
 
@@ -2258,84 +2342,6 @@ Nikkor 14-24/2.8 ile ultra geniş açı çekim. D3s gövde. kuş ve turbo şarjl
 **Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077318469746372923) | **Published:** Jul 15, 2026
 
 ---
-### Peri AI Uyanıyor
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Pencereden içeri uçan ve yatağın üzerinde uyuyakalmış bir periyi betimleyen fantastik bir video istemi.
-
-#### 📝 Prompt
-
-```
-o bir peri; sanki pencereden içeri uçmuş, süzülerek inmiş ve kanatları hala açık bir şekilde yatağın üzerinde sızıp kalmış.
-Bakış açısı: AI'ınızı uyandırıyorsunuz...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077277582865670144/img/NDTg10dfMB2IY3fj.jpg" width="600" alt="Peri AI Uyanıyor">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7305)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077277639203606830) | **Published:** Jul 15, 2026
-
----
-### Beyaz Yavru Kedi Şenlik Ateşi Partisi Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Küçük bir şapka takarak şenlik ateşi partisine katılan 'Because I Can' adlı özel bir beyaz yavru kediyi konu alan detaylı bir video istemi.
-
-#### 📝 Prompt
-
-```
-Because I Can adındaki yavru kedi şenlik ateşi partisine katılıyor; parlak mavi gözleri olan, başında küçük, yana eğik kırmızı bir şapka ve üzerinde küçük çizgi film T-Rex desenli beyaz bir iç çamaşırı bulunan, küçük ve sevimli, bembeyaz bir yavru kedi...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077271713163661312/img/v_UFtWVGGeo1bOeO.jpg" width="600" alt="Beyaz Yavru Kedi Şenlik Ateşi Partisi Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7309)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077271804113015007) | **Published:** Jul 15, 2026
-
----
-### Süper Kahraman Neon Şehir Dönüşümü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Neon bir şehirde, antik titan efsanelerinden esinlenen bir pelerinle süper kahramana dönüşen bir adamı gösteren video istemi.
-
-#### 📝 Prompt
-
-```
-güçlü bir süper kahramana dönüşür, antik Yunan titan efsanelerinden kalma destansı süper güç pelerinini giyen aynı adam, aynı neon şehir, zıplar ve ardından uçar
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077258140102389760/img/iqZDYHUs2CXrmOAC.jpg" width="600" alt="Süper Kahraman Neon Şehir Dönüşümü">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7306)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077258210759635238) | **Published:** Jul 15, 2026
-
----
-### Ejderhalı Patlayan Kalp Balonlar
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Simli, kelebekli ve minik mavi ejderhalı kalp şeklinde balonların patladığı, çello müziği eşliğinde sinematik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Bronz simler, sarı kelebekler ve minik mavi ejderhalarla patlayan kalp şeklinde balonlarla dolu kutu
-Çello müziği
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077253773710561280/img/A_yIgvX3Chr15ULl.jpg" width="600" alt="Ejderhalı Patlayan Kalp Balonlar">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7307)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2077253936118120817) | **Published:** Jul 15, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2397,6 +2403,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-24T06:45:59.017Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-24T10:42:37.937Z</sub>
 
 </div>

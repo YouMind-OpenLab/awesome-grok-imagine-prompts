@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **2211** |
+| 📝 提示詞總數 | **2215** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-07-24** |
 
@@ -189,6 +189,44 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 陶土面紗舞者
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段影片提示詞，描述一位舞者在溫暖的金光下，身穿橘色絲綢，在色彩斑斕的馬賽克牆前翩翩起舞。
+
+#### 📝 提示詞
+
+```
+她在溫暖的金光中起舞，橘色的絲綢在色彩斑斕的馬賽克牆前飄動。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080380918401835009/img/jpLJqErXUFLPbras.jpg" width="600" alt="陶土面紗舞者">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7793)**
+
+**作者:** [Bob - Art with a Hat](https://x.com/artwithahat0) | **來源:** [Link](https://x.com/artwithahat0/status/2080381005395878356) | **發布時間:** Jul 23, 2026
+
+---
+### 月光花園中神秘的擬人化貓咪
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個為 Grok Imagine 設計的詳細電影感提示詞，描繪了一隻身穿暗色長袍、氣質高貴的擬人化貓咪，場景設定在黑色電影風格的月光花園中。
+
+#### 📝 提示詞
+
+```
+一隻神秘的擬人化貓咪靜靜地坐著，頭戴皇冠，身穿深色暗影長袍，置身於開滿枯萎櫻花的月光花園中，呈現出戲劇性的黑色電影光影效果，伴隨著強烈的對比與憂鬱的陰影。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080305619941355520/img/Ct1mEMjGL47q8Oh_.jpg" width="600" alt="月光花園中神秘的擬人化貓咪">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7792)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **來源:** [Link](https://x.com/MrDasOnX/status/2080305655907500138) | **發布時間:** Jul 23, 2026
+
+---
 ### 茉莉花雨超現實影片
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +244,31 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7756)**
 
 **作者:** [Carolina Delgado](https://x.com/carolletta) | **來源:** [Link](https://x.com/carolletta/status/2080195996315738403) | **發布時間:** Jul 23, 2026
+
+---
+### 史詩級甘道夫對戰炎魔
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個專業級的電影感提示詞，用於製作一段 15 秒的影片，描繪巫師與熔岩巨龍在火山洞穴中的史詩對決。
+
+#### 📝 提示詞
+
+```
+一場戲劇性的 15 秒電影感奇幻戰鬥，場景位於廣闊的火山洞穴中，由熔岩河與旋轉的餘燼照亮。開場採用低角度鏡頭，拍攝一位強大的白髮巫師戰士站在龜裂的石架上，長長的灰色長袍隨風劇烈飄動。他高舉兩把發光的劍——一把散發出強烈刺眼的藍白色光芒並帶有鏡頭光暈，另一把則是猛烈的金色能量束——巨大的橙色光環如魔法護盾般在他周圍旋轉並擴張。
+
+在他對面，一隻巨大的火龍蛇獸昂首挺立，身體由活生生的熔岩與黑曜石鱗片組成，雙翼展開，雙眼如熔爐般發光。巨獸咆哮著，噴射出一股咆哮的橙色火焰，照亮了整個洞穴。
+
+動態鏡頭：緩慢且具戲劇性地推近巫師堅定的臉龐，隨後在巨獸向前猛撲時，快速環繞兩位戰士進行運鏡。巫師優雅地從石架上躍下，雙劍揮舞出強而有力的弧線，在撞擊龍的火焰外皮時產生明亮的能量軌跡與爆炸火花。火焰與光芒在爆炸中碰撞，飛濺出陣陣餘燼與熔岩碎石。巨龍盤旋並張開大顎猛咬，同時甩動長尾，迫使巫師進行雜技般的閃避與反擊。
+
+史詩般的管弦樂隨之高昂，伴隨著深沉的轟鳴與尖銳的劍擊聲。結尾處採用英雄式的廣角鏡頭，巫師將雙劍刺入巨獸胸膛，爆發出耀眼的藍白與金色光芒，巨龍憤怒咆哮，火焰在他們周圍狂亂噴發。超高細節、電影級燈光、強烈動態、史詩規模、4K 畫質，結合戲劇性的慢動作與快速動作鏡頭。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080084050291642368/img/8eUFvxZ_lMf6KfF7.jpg" width="600" alt="史詩級甘道夫對戰炎魔">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7794)**
+
+**作者:** [Lord Of The Groks](https://x.com/LordOfTheGroks) | **來源:** [Link](https://x.com/LordOfTheGroks/status/2080084115844735126) | **發布時間:** Jul 23, 2026
 
 ---
 ### 動畫龍族戰鬥場景
@@ -301,6 +364,27 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7755)**
 
 **作者:** [Doc Toadlips](https://x.com/DToadlips) | **來源:** [Link](https://x.com/DToadlips/status/2079724995815575661) | **發布時間:** Jul 22, 2026
+
+---
+### 超寫實哥德風母嬰微距肖像
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個充滿電影感與情感張力的提示詞，用於創作一張微距肖像。畫面描繪了一位頭戴哥德風皇冠的女性溫柔地懷抱著襁褓中的嬰兒，重點呈現逼真的皮膚紋理與柔和的低飽和色調。
+
+#### 📝 提示詞
+
+```
+超寫實微距肖像，主角是一位擁有白皙皮膚、雀斑與一頭飄逸長白髮的美麗女性。她身穿優雅的黑色長裙，細節精緻，帶有細膩的褶皺與蕾絲裝飾。頭戴華麗的黑色尖刺哥德風皇冠。她雙手溫柔地懷抱著可愛的嬰兒，嬰兒被包裹在柔軟優雅的白色襁褓中，緊貼在她的胸前；嬰兒圓潤可愛，皮膚細膩，被布料舒適地包裹著。她的姿勢充滿保護欲與母愛。
+
+色調極度柔和且低飽和，近乎去色，帶有細微的冷色調，柔和的自然陰影，真實的皮膚紋理可見毛孔，電影感且內斂的燈光，極致細節，銳利的微距對焦，超寫實主義，照片級真實感。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079626100322205696/img/Y8Ulemh-dWFDb9uk.jpg" width="600" alt="超寫實哥德風母嬰微距肖像">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7795)**
+
+**作者:** [Myluna](https://x.com/monicamoonx) | **來源:** [Link](https://x.com/monicamoonx/status/2079626150091932125) | **發布時間:** Jul 21, 2026
 
 ---
 ### 史詩級阿基里斯特洛伊戰爭影片
@@ -1135,7 +1219,7 @@ Meowlow
 極致特寫肖像，一位擁有蒼白、佈滿雀斑且帶有塵埃感肌膚的精靈女性，長著尖尖的精靈耳朵，頭戴裝飾華麗的黑金皇冠，皇冠上有哥德式金屬絲工藝與深色寶石，長長的白色秀髮隱約可見。一隻細節豐富、翅膀花紋繁複的大型飛蛾完全遮住了她的雙眼，飛蛾的軀體與展開的雙翼徹底隱藏了眼部區域。採用戲劇性的低調電影燈光，強烈的輪廓光突顯了肌膚的紋理與塵埃微粒。色調為低飽和度的暗色系，以金色與黑色為主導，營造出暗黑奇幻氛圍，超寫實、超細節、電影感、情緒化。
 ```
 
-<img src="https://cms-assets.youmind.com/media/1784794870305_y2t22h_HNXvRqjXgAAJLzb.jpg" width="600" alt="電影感暗黑奇幻精靈肖像">
+<img src="https://cms-assets.youmind.com/media/1784881007798_36ite4_HNXvRqjXgAAJLzb.jpg" width="600" alt="電影感暗黑奇幻精靈肖像">
 
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7522)**
 
@@ -2258,84 +2342,6 @@ Lila 駕駛著一艘白色小帆船，平穩地航行在平靜的切薩皮克灣
 **作者:** [Erkki Heliö](https://x.com/erkki_helio) | **來源:** [Link](https://x.com/erkki_helio/status/2077318469746372923) | **發布時間:** Jul 15, 2026
 
 ---
-### 精靈 AI 甦醒
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段充滿奇幻色彩的影片提示詞，描述一隻精靈飛進窗戶後，在床上沉沉睡去的情景。
-
-#### 📝 提示詞
-
-```
-他就是那隻精靈 —— 就像他飛進窗戶、拍動翅膀落下，然後在床上昏睡過去，翅膀還露在外面。
-第一人稱視角：你喚醒了你的 AI...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077277582865670144/img/NDTg10dfMB2IY3fj.jpg" width="600" alt="精靈 AI 甦醒">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7305)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2077277639203606830) | **發布時間:** Jul 15, 2026
-
----
-### 白色小貓營火派對影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段詳細的影片提示詞，描述一隻名為「Because I Can」的白色小貓戴著小帽子參加營火派對。
-
-#### 📝 提示詞
-
-```
-名為 Because I Can 的小貓參加了營火派對；牠是一隻小巧可愛、純白色的幼貓，有著明亮的藍色眼睛，頭上戴著一頂小巧的紅色斜帽，身上穿著印有小型卡通暴龍圖案的白色內褲……
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077271713163661312/img/v_UFtWVGGeo1bOeO.jpg" width="600" alt="白色小貓營火派對影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7309)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2077271804113015007) | **發布時間:** Jul 15, 2026
-
----
-### 超級英雄霓虹城市變身
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段影片提示詞，展示一名男子在霓虹城市中變身為擁有泰坦傳說斗篷的超級英雄。
-
-#### 📝 提示詞
-
-```
-變身為強大的超級英雄，與古希臘泰坦傳說中史詩級超能力斗篷後的男子完全一致，場景為同一個霓虹城市，跳躍後飛向空中
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077258140102389760/img/iqZDYHUs2CXrmOAC.jpg" width="600" alt="超級英雄霓虹城市變身">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7306)**
-
-**作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2077258210759635238) | **發布時間:** Jul 15, 2026
-
----
-### 爆裂的心形氣球與飛龍
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段電影質感的影片提示詞：心形氣球爆裂，迸發出閃粉、蝴蝶與細小的藍色飛龍，並伴隨著大提琴音樂。
-
-#### 📝 提示詞
-
-```
-爆裂的心形氣球盒，迸發出青銅色閃粉、黃色蝴蝶與細小的藍色飛龍
-大提琴音樂
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077253773710561280/img/A_yIgvX3Chr15ULl.jpg" width="600" alt="爆裂的心形氣球與飛龍">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7307)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2077253936118120817) | **發布時間:** Jul 15, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2397,6 +2403,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-07-24T06:45:48.150Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-07-24T10:42:23.348Z</sub>
 
 </div>

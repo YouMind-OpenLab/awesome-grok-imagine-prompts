@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2211** |
+| 📝 Total Prompts | **2215** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-24** |
 
@@ -189,6 +189,44 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Terrakotta-Schleiertänzerin
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Prompt für eine Tänzerin in warmem goldenem Licht, mit orangefarbener Seide, die vor bunten Mosaikwänden fließt.
+
+#### 📝 Prompt
+
+```
+Sie tanzt in warmem goldenem Licht, während orangefarbene Seide vor den bunten Mosaikwänden fließt.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080380918401835009/img/jpLJqErXUFLPbras.jpg" width="600" alt="Terrakotta-Schleiertänzerin">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7793)**
+
+**Author:** [Bob - Art with a Hat](https://x.com/artwithahat0) | **Source:** [Link](https://x.com/artwithahat0/status/2080381005395878356) | **Published:** Jul 23, 2026
+
+---
+### Geheimnisvolle anthropomorphe Katze im mondbeschienenen Garten
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter cineastischer Prompt für Grok Imagine, der eine majestätische anthropomorphe Katze in dunklen Gewändern in einem mondbeschienenen Garten im Noir-Stil zeigt.
+
+#### 📝 Prompt
+
+```
+Eine geheimnisvolle, anthropomorphe Katze sitzt still mit einer Krone und dunklen, schattenhaften Gewändern in einem mondbeschienenen Garten voller verwelkter Kirschblüten, inszeniert in dramatischem Noir-Licht mit starken Kontrasten und stimmungsvollen Schatten.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080305619941355520/img/Ct1mEMjGL47q8Oh_.jpg" width="600" alt="Geheimnisvolle anthropomorphe Katze im mondbeschienenen Garten">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7792)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2080305655907500138) | **Published:** Jul 23, 2026
+
+---
 ### Surreales Video: Jasminblüten-Regen
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +244,31 @@ hyperrealistisch, weiße westeuropäische Frau, natürliches mittellanges blonde
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7756)**
 
 **Author:** [Carolina Delgado](https://x.com/carolletta) | **Source:** [Link](https://x.com/carolletta/status/2080195996315738403) | **Published:** Jul 23, 2026
+
+---
+### Epischer Kampf: Gandalf gegen Balrog
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein professioneller, filmischer Prompt für ein 15-sekündiges Video, das einen epischen Kampf zwischen einem Zauberer und einem Drachen aus geschmolzener Lava in einer vulkanischen Höhle darstellt.
+
+#### 📝 Prompt
+
+```
+Eine dramatische 15-sekündige filmische Fantasy-Schlacht in einer riesigen vulkanischen Höhle, beleuchtet von fließenden Lavaströmen und wirbelnder Glut. Beginnen Sie mit einer Untersicht eines mächtigen, weißhaarigen Zaubererkriegers, der auf einem zerklüfteten Felsvorsprung steht, während sein langes, graues Gewand dramatisch im Wind weht. Er hebt zwei leuchtende Schwerter – eines strahlt ein intensives, blendend blau-weißes Licht mit Lens Flares aus, das andere einen heftigen goldenen Energiestrahl –, während massive, leuchtende orangefarbene Energieringe wie magische Schilde um ihn herum wirbeln und sich ausdehnen.
+
+Ihm gegenüber bäumt sich ein kolossales, feuriges Drachenwesen auf, dessen Körper aus lebendiger, geschmolzener Flamme und Obsidian-Schuppen besteht, die Flügel weit ausgebreitet, die Augen leuchtend wie Hochöfen. Das Biest brüllt und entfesselt einen Strom aus tosendem, orangefarbenem Feuer, das die gesamte Höhle erhellt.
+
+Dynamische Kamerabewegung: langsamer, dramatischer Push-in auf das entschlossene Gesicht des Zauberers, gefolgt von einem schnellen Orbit-Schwenk um beide Kämpfer, während das Biest nach vorne schnellt. Der Zauberer springt elegant vom Felsvorsprung, wobei seine Schwerter kraftvolle Bögen schlagen, die helle Lichtspuren hinterlassen und beim Aufprall auf die brennende Haut des Drachen Funken sprühen lassen. Feuer und Licht prallen in explosiven Ausbrüchen aufeinander und lassen einen Schauer aus Glut und geschmolzenem Gestein umherfliegen. Der Drache windet sich, schnappt mit seinen Kiefern und peitscht mit seinem langen Schwanz, was den Zauberer zu akrobatischen Ausweichmanövern und Gegenangriffen zwingt.
+
+Epische orchestrale Musik schwillt an, untermalt von tiefem Grollen und dem scharfen Klang aufeinandertreffender Schwerter. Enden Sie mit einer heldenhaften Totalen, in der der Zauberer beide Schwerter in einem brillanten Blitz aus blau-weißem und goldenem Licht in die Brust des Biests rammt; der Drache brüllt vor Wut, während Flammen wild um sie herum ausbrechen. Hochdetailliert, filmische Beleuchtung, intensive Bewegung, epischer Maßstab, 4K, dramatische Zeitlupenmomente kombiniert mit schneller Action.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080084050291642368/img/8eUFvxZ_lMf6KfF7.jpg" width="600" alt="Epischer Kampf: Gandalf gegen Balrog">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7794)**
+
+**Author:** [Lord Of The Groks](https://x.com/LordOfTheGroks) | **Source:** [Link](https://x.com/LordOfTheGroks/status/2080084115844735126) | **Published:** Jul 23, 2026
 
 ---
 ### Animierte Drachenkampf-Sequenz
@@ -301,6 +364,27 @@ schneide das Gesicht in der Mitte auf und lass es so aussehen, als würden wir e
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7755)**
 
 **Author:** [Doc Toadlips](https://x.com/DToadlips) | **Source:** [Link](https://x.com/DToadlips/status/2079724995815575661) | **Published:** Jul 22, 2026
+
+---
+### Hyperrealistisches gotisches Makro-Porträt von Mutter und Kind
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein filmischer und emotional aufgeladener Prompt für ein Makro-Porträt einer Frau mit gotischer Krone, die zärtlich ein in Windeln gewickeltes Baby hält, mit Fokus auf fotorealistische Hauttexturen und gedeckte Farbtöne.
+
+#### 📝 Prompt
+
+```
+Hyperrealistisches Makro-Porträt einer wunderschönen Frau mit blasser Haut, Sommersprossen und langem, fließendem weißem Haar. Sie trägt ein elegantes, langes, fließendes schwarzes Kleid mit feinen Details, dezentem Faltenwurf und Spitzenakzenten. Auf ihrem Kopf eine kunstvolle, dunkle, stachelige gotische Krone. Sie umarmt und hält das niedliche Baby, das in weiche, elegante weiße Stoffwindeln gewickelt ist, sanft mit beiden Händen und Armen und wiegt es zärtlich an ihrer Brust. Das Baby ist rundlich und bezaubernd mit weicher, zarter Haut, vollständig eingehüllt und gemütlich im Stoff. Ihre Pose ist beschützend und liebevoll.
+
+Sehr gedämpfte, entsättigte Farbpalette, fast monochrome Töne, dezente kühle Untertöne, weiche natürliche Schatten, realistische Hauttextur mit sichtbaren Poren, filmische und dennoch zurückhaltende Beleuchtung, extrem detailliert, scharfer Makrofokus, hyperrealistisch, Fotorealismus.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079626100322205696/img/Y8Ulemh-dWFDb9uk.jpg" width="600" alt="Hyperrealistisches gotisches Makro-Porträt von Mutter und Kind">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7795)**
+
+**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2079626150091932125) | **Published:** Jul 21, 2026
 
 ---
 ### Cinematic Achilles Trojanischer Krieg Video
@@ -953,7 +1037,7 @@ Ein großer, verzierter schwarzer Rahmen hängt an einer dunklen Schlafzimmerwan
 Extremes Nahaufnahme-Porträt einer Elfenfrau mit sehr blasser, sommersprossiger und staubiger Haut, spitzen Elfenohren, sie trägt eine verzierte, geschwärzte Goldkrone mit gotischem Filigran und dunklen Juwelen auf dem Kopf, langes, fließendes weißes Haar teilweise sichtbar, ein sehr großer und detaillierter Nachtfalter mit komplex gemusterten Flügeln bedeckt und verdeckt vollständig ihre beiden Augen, der Körper und die ausgebreiteten Flügel des Falters verbergen den Augenbereich komplett, dramatische Low-Key-Kinobeleuchtung mit starkem Streiflicht, das Texturen und Staubpartikel auf der Haut hervorhebt, gedämpfte, entsättigte Farbpalette mit Dominanz von Gold und Schwarz, Dark-Fantasy-Atmosphäre, hyperrealistisch, hyperdetailliert, filmisch, stimmungsvoll.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1784794870305_y2t22h_HNXvRqjXgAAJLzb.jpg" width="600" alt="Cinematic Dark Fantasy Elfen-Porträt">
+<img src="https://cms-assets.youmind.com/media/1784881007798_36ite4_HNXvRqjXgAAJLzb.jpg" width="600" alt="Cinematic Dark Fantasy Elfen-Porträt">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7522)**
 
@@ -2076,84 +2160,6 @@ Ultra-Weitwinkelaufnahme mit Nikkor 14-24/2.8. D3s Gehäuse. Füge Vögel und da
 **Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077318469746372923) | **Published:** Jul 15, 2026
 
 ---
-### Das Erwachen der Fairy AI
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein fantasievoller Video-Prompt, der eine Fee zeigt, die durch ein Fenster geflogen ist und auf einem Bett eingeschlafen ist.
-
-#### 📝 Prompt
-
-```
-Er ist die Fee – als wäre er durch das Fenster hereingeflogen, herabgeschwebt und mit ausgebreiteten Flügeln auf dem Bett eingeschlafen.
-POV: Du weckst deine A.I. auf...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077277582865670144/img/NDTg10dfMB2IY3fj.jpg" width="600" alt="Das Erwachen der Fairy AI">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7305)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077277639203606830) | **Published:** Jul 15, 2026
-
----
-### Video von weißem Kätzchen bei der Lagerfeuerparty
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Video-Prompt für ein spezielles weißes Kätzchen namens „Because I Can“, das mit einer winzigen Mütze an einer Lagerfeuerparty teilnimmt.
-
-#### 📝 Prompt
-
-```
-Das Kätzchen namens Because I Can nimmt an der Lagerfeuerparty teil; es ist ein kleines, entzückendes, rein weißes Kätzchen namens „Because I Can“ mit leuchtend blauen Augen, das eine winzige, schief sitzende rote Mütze auf dem Kopf und eine weiße Unterhose mit kleinen Cartoon-Tyrannosaurus-Rex-Motiven trägt...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077271713163661312/img/v_UFtWVGGeo1bOeO.jpg" width="600" alt="Video von weißem Kätzchen bei der Lagerfeuerparty">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7309)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077271804113015007) | **Published:** Jul 15, 2026
-
----
-### Superhelden-Transformation in der Neon-Stadt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Prompt, der einen Mann zeigt, der sich in einer Neon-Stadt in einen Superhelden mit einem Umhang aus der Titanen-Mythologie verwandelt.
-
-#### 📝 Prompt
-
-```
-verwandelt sich in einen mächtigen Superhelden, exakt derselbe Mann hinter einem epischen Superhelden-Umhang aus der antiken griechischen Titanen-Mythologie, exakt dieselbe Neon-Stadt, springt und fliegt dann los
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077258140102389760/img/iqZDYHUs2CXrmOAC.jpg" width="600" alt="Superhelden-Transformation in der Neon-Stadt">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7306)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077258210759635238) | **Published:** Jul 15, 2026
-
----
-### Explodierende Herzballons mit Drachen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein cineastischer Video-Prompt von herzförmigen Ballons, die in Glitzer, Schmetterlinge und winzige blaue Drachen zerplatzen, untermalt von Cellomusik.
-
-#### 📝 Prompt
-
-```
-Explodierende Schachtel mit herzförmigen Ballons, die in bronzefarbenem Glitzer, gelben Schmetterlingen und winzigen blauen Drachen zerplatzen
-Cellomusik
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077253773710561280/img/A_yIgvX3Chr15ULl.jpg" width="600" alt="Explodierende Herzballons mit Drachen">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7307)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2077253936118120817) | **Published:** Jul 15, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2215,6 +2221,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-24T06:45:54.642Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-24T10:42:32.588Z</sub>
 
 </div>

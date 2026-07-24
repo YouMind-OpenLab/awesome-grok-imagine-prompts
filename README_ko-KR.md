@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **2211** |
+| 📝 총 프롬프트 수 | **2215** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-07-24** |
 
@@ -189,6 +189,44 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 테라코타 베일 댄서
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 다채로운 모자이크 벽을 배경으로 따뜻한 황금빛 조명 아래 오렌지색 실크를 휘날리며 춤추는 무용수를 위한 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+그녀는 따뜻한 황금빛 조명 아래에서 다채로운 모자이크 벽을 배경으로 오렌지색 실크를 휘날리며 춤을 춥니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080380918401835009/img/jpLJqErXUFLPbras.jpg" width="600" alt="테라코타 베일 댄서">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7793)**
+
+**작성자:** [Bob - Art with a Hat](https://x.com/artwithahat0) | **출처:** [Link](https://x.com/artwithahat0/status/2080381005395878356) | **게시일:** Jul 23, 2026
+
+---
+### 달빛 비치는 정원 속 신비로운 의인화된 고양이
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine을 위한 상세한 시네마틱 프롬프트로, 느와르 스타일의 달빛 정원에서 어두운 로브를 입은 위엄 있는 의인화된 고양이를 묘사합니다.
+
+#### 📝 프롬프트
+
+```
+왕관과 어두운 그림자 로브를 입은 신비로운 의인화된 고양이가 달빛이 비치는 정원에 조용히 앉아 있습니다. 정원에는 시든 벚꽃이 가득하며, 깊은 대비와 분위기 있는 그림자가 돋보이는 드라마틱한 느와르 조명이 연출됩니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080305619941355520/img/Ct1mEMjGL47q8Oh_.jpg" width="600" alt="달빛 비치는 정원 속 신비로운 의인화된 고양이">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7792)**
+
+**작성자:** [Mr Das](https://x.com/MrDasOnX) | **출처:** [Link](https://x.com/MrDasOnX/status/2080305655907500138) | **게시일:** Jul 23, 2026
+
+---
 ### 자스민 꽃 소나기 초현실적 영상
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +244,31 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7756)**
 
 **작성자:** [Carolina Delgado](https://x.com/carolletta) | **출처:** [Link](https://x.com/carolletta/status/2080195996315738403) | **게시일:** Jul 23, 2026
+
+---
+### 간달프와 발로그의 장대한 전투
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 화산 동굴에서 펼쳐지는 마법사와 용암 드래곤의 장대한 전투를 묘사한 15초 분량의 전문가급 시네마틱 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+용암 강과 소용돌이치는 불씨로 밝혀진 거대한 화산 동굴에서 펼쳐지는 15초 분량의 극적인 판타지 전투 영상입니다. 갈라진 돌출부 위에 서 있는 백발의 강력한 마법사 전사를 로우 앵글로 비추며 시작합니다. 길게 휘날리는 회색 로브가 드라마틱하게 펄럭입니다. 그가 두 개의 빛나는 검을 높이 치켜들자, 하나는 눈부신 청백색 빛과 렌즈 플레어를 내뿜고, 다른 하나는 강렬한 황금빛 에너지 광선을 발산합니다. 거대한 주황색 에너지 고리가 마법 방패처럼 그 주변을 소용돌이치며 확장됩니다.
+
+그 맞은편에는 살아있는 용암 불꽃과 흑요석 비늘로 이루어진 거대한 화염 드래곤 괴수가 몸을 일으키고 있습니다. 날개를 넓게 펼친 채 용광로처럼 타오르는 눈으로 노려보며 포효하고, 동굴 전체를 밝히는 거센 주황색 불길을 내뿜습니다.
+
+역동적인 카메라 무빙: 마법사의 결연한 표정을 향해 천천히 다가가는 드라마틱한 푸시인(push-in) 기법을 사용한 뒤, 괴수가 돌진할 때 두 전사를 중심으로 빠르게 회전하는 팬(pan) 촬영을 이어갑니다. 마법사는 돌출부에서 우아하게 뛰어내리며 검을 휘둘러 강력한 호를 그리고, 드래곤의 불타는 가죽에 닿을 때마다 밝은 에너지 궤적과 함께 불꽃이 튑니다. 불과 빛이 폭발적으로 충돌하며 쏟아지는 불씨와 용암 파편들이 사방으로 튑니다. 드래곤은 몸을 똬리 틀고 턱으로 공격하며 긴 꼬리를 휘두르고, 마법사는 이를 아크로바틱한 동작으로 피하며 반격합니다.
+
+웅장한 오케스트라 음악이 깊은 울림과 날카로운 검 충돌음과 함께 고조됩니다. 마지막은 마법사가 청백색과 황금빛 섬광 속에서 두 검을 괴수의 가슴에 꽂아 넣는 영웅적인 와이드 샷으로 마무리됩니다. 드래곤은 분노하며 포효하고, 주변에는 불길이 거세게 치솟습니다. 초고화질, 시네마틱 조명, 강렬한 움직임, 장대한 스케일, 4K 해상도, 빠른 액션과 드라마틱한 슬로우 모션이 조화롭게 어우러진 영상입니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080084050291642368/img/8eUFvxZ_lMf6KfF7.jpg" width="600" alt="간달프와 발로그의 장대한 전투">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7794)**
+
+**작성자:** [Lord Of The Groks](https://x.com/LordOfTheGroks) | **출처:** [Link](https://x.com/LordOfTheGroks/status/2080084115844735126) | **게시일:** Jul 23, 2026
 
 ---
 ### 애니메이션 드래곤 전투 시퀀스
@@ -301,6 +364,27 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7755)**
 
 **작성자:** [Doc Toadlips](https://x.com/DToadlips) | **출처:** [Link](https://x.com/DToadlips/status/2079724995815575661) | **게시일:** Jul 22, 2026
+
+---
+### 초현실적인 고딕 양식의 엄마와 아기 매크로 초상화
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 고딕 양식의 왕관을 쓴 여성이 포대기에 싸인 아기를 다정하게 안고 있는 모습을 담은 매크로 초상화 프롬프트로, 영화 같은 분위기와 감성적인 연출, 사실적인 피부 질감과 차분한 색조에 중점을 두었습니다.
+
+#### 📝 프롬프트
+
+```
+창백한 피부와 주근깨, 길게 흐르는 백발을 가진 아름다운 여성의 초현실적인 매크로 초상화. 그녀는 섬세한 디테일과 은은한 드레이프, 레이스 장식이 돋보이는 우아하고 긴 검은색 드레스를 입고 있습니다. 머리에는 화려하고 어두운 스파이크 고딕 왕관을 쓰고 있습니다. 그녀는 부드럽고 우아한 흰색 천에 싸인 귀여운 아기를 양손과 팔로 부드럽게 감싸 안아 가슴에 다정하게 품고 있으며, 아기는 통통하고 사랑스러우며 부드럽고 섬세한 피부를 가진 채 천 속에 포근하게 감싸여 있습니다. 그녀의 자세는 보호 본능이 느껴지는 사랑스러운 모습입니다.
+
+매우 차분하고 채도가 낮은 색상 팔레트, 거의 무채색에 가까운 톤, 은은한 쿨톤, 부드러운 자연스러운 그림자, 모공까지 보이는 사실적인 피부 질감, 영화적이면서도 절제된 조명, 극도로 상세하고 선명한 매크로 초점, 초현실주의, 사진 같은 사실주의.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079626100322205696/img/Y8Ulemh-dWFDb9uk.jpg" width="600" alt="초현실적인 고딕 양식의 엄마와 아기 매크로 초상화">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7795)**
+
+**작성자:** [Myluna](https://x.com/monicamoonx) | **출처:** [Link](https://x.com/monicamoonx/status/2079626150091932125) | **게시일:** Jul 21, 2026
 
 ---
 ### 트로이 전쟁 아킬레우스 시네마틱 영상
@@ -1135,7 +1219,7 @@ free kick – 25m 거리의 메시, 5인 수비벽, 수비벽을 넘어 상단 �
 창백하고 주근깨가 있으며 먼지가 내려앉은 피부를 가진 엘프 여성의 익스트림 클로즈업 초상화, 뾰족한 엘프 귀, 고딕 양식의 세공과 어두운 보석이 박힌 화려한 검은색 금관을 머리에 쓰고 있음, 길게 흐르는 흰 머리카락이 부분적으로 보임, 복잡한 패턴의 날개를 가진 매우 크고 디테일한 나방이 양쪽 눈을 완전히 덮고 가리고 있음, 나방의 몸통과 펼쳐진 날개가 눈 부위를 완전히 숨김, 피부의 질감과 먼지 입자를 강조하는 강렬한 림 라이트가 적용된 드라마틱한 로우 키 시네마틱 조명, 금색과 검은색이 주를 이루는 차분하고 채도가 낮은 색감, 다크 판타지 분위기, 하이퍼 리얼리스틱, 초정밀 디테일, 시네마틱, 무드 있는 분위기.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1784794870305_y2t22h_HNXvRqjXgAAJLzb.jpg" width="600" alt="시네마틱 다크 판타지 엘프 초상화">
+<img src="https://cms-assets.youmind.com/media/1784881007798_36ite4_HNXvRqjXgAAJLzb.jpg" width="600" alt="시네마틱 다크 판타지 엘프 초상화">
 
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7522)**
 
@@ -2258,84 +2342,6 @@ Nikkor 14-24/2.8 렌즈를 사용한 울트라 와이드 샷. D3s 바디. 새와
 **작성자:** [Erkki Heliö](https://x.com/erkki_helio) | **출처:** [Link](https://x.com/erkki_helio/status/2077318469746372923) | **게시일:** Jul 15, 2026
 
 ---
-### 잠에서 깨어나는 요정 AI
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 창문을 통해 날아 들어와 침대 위에서 잠든 요정을 묘사한 기발한 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-그는 요정이에요. 창문을 통해 날아 들어와 팔랑거리며 내려앉더니, 날개를 펼친 채 침대에서 잠이 든 모습이죠.
-POV: 당신이 당신의 AI를 깨울 때...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077277582865670144/img/NDTg10dfMB2IY3fj.jpg" width="600" alt="잠에서 깨어나는 요정 AI">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7305)**
-
-**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2077277639203606830) | **게시일:** Jul 15, 2026
-
----
-### 하얀 아기 고양이의 모닥불 파티 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 작은 모자를 쓰고 모닥불 파티에 참석한 'Because I Can'이라는 이름의 하얀 아기 고양이를 다룬 상세 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-Because I Can이라는 이름의 아기 고양이가 모닥불 파티에 참여합니다. 이 고양이는 작고 사랑스러운 순백색 아기 고양이로, 밝은 파란색 눈을 가졌으며 머리에는 작은 빨간색 모자를 비스듬히 쓰고 있고, 작은 만화 티라노사우루스 렉스가 그려진 흰색 속옷을 입고 있습니다...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077271713163661312/img/v_UFtWVGGeo1bOeO.jpg" width="600" alt="하얀 아기 고양이의 모닥불 파티 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7309)**
-
-**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2077271804113015007) | **게시일:** Jul 15, 2026
-
----
-### 슈퍼히어로 네온 시티 변신
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 네온 시티를 배경으로 한 남자가 고대 그리스 타이탄 신화 속 망토를 두른 슈퍼히어로로 변신하는 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-강력한 슈퍼히어로로 변신, 고대 그리스 타이탄 신화 속 웅장한 망토를 두른 동일한 인물, 동일한 네온 시티, 도약 후 비행
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077258140102389760/img/iqZDYHUs2CXrmOAC.jpg" width="600" alt="슈퍼히어로 네온 시티 변신">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7306)**
-
-**작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2077258210759635238) | **게시일:** Jul 15, 2026
-
----
-### 용과 함께 터지는 하트 풍선
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 하트 모양 풍선이 반짝이는 가루, 나비, 작은 파란색 용으로 터지는 모습과 첼로 연주가 어우러진 영화 같은 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-청동색 반짝이와 노란 나비, 작은 파란색 용이 쏟아져 나오는 하트 모양 풍선 상자가 터지는 모습
-첼로 음악
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077253773710561280/img/A_yIgvX3Chr15ULl.jpg" width="600" alt="용과 함께 터지는 하트 풍선">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7307)**
-
-**작성자:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **출처:** [Link](https://x.com/HawkinsonLindy/status/2077253936118120817) | **게시일:** Jul 15, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2397,6 +2403,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-24T06:45:49.720Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-24T10:42:25.626Z</sub>
 
 </div>

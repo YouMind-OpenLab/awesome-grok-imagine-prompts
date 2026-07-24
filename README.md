@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2211** |
+| 📝 Total Prompts | **2215** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-24** |
 
@@ -189,11 +189,49 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
-### Jasmine Flower Shower Surreal Video
+### Terracotta Veil Dancer
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A fantasy video prompt featuring a woman in a coral dress surrounded by an oversized jasmine flower shower with cinematic motion effects.
+> A video prompt for a dancer in warm golden light with orange silk flowing against colorful mosaic walls.
+
+#### 📝 Prompt
+
+```
+She dances in warm golden light, orange silk flowing against the colorful mosaic walls.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080380918401835009/img/jpLJqErXUFLPbras.jpg" width="600" alt="Terracotta Veil Dancer">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7793)**
+
+**Author:** [Bob - Art with a Hat](https://x.com/artwithahat0) | **Source:** [Link](https://x.com/artwithahat0/status/2080381005395878356) | **Published:** Jul 23, 2026
+
+---
+### Mysterious Anthropomorphic Cat in Moonlit Garden
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed cinematic prompt for Grok Imagine featuring a regal anthropomorphic cat in shadowy robes within a noir-style moonlit garden.
+
+#### 📝 Prompt
+
+```
+A mysterious, anthropomorphic cat sits silently wearing a crown and dark shadowy robes in a moonlit garden filled with withered cherry blossoms under dramatic noir lighting with deep contrasts and moody shadows.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080305619941355520/img/Ct1mEMjGL47q8Oh_.jpg" width="600" alt="Mysterious Anthropomorphic Cat in Moonlit Garden">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7792)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2080305655907500138) | **Published:** Jul 23, 2026
+
+---
+### Surreal Jazmin Flower Shower
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed fantasy prompt for a cinematic video of a woman in a coral dress amidst a surreal shower of jazmin flowers with soft dawn lighting.
 
 #### 📝 Prompt
 
@@ -201,11 +239,36 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 hyper-realist, white western European natural mid blond hair curly abundant short hair, tan skin, wearing a short Coral Dress, long beautiful legs, bright and vigorous pose, super oversized Jazmin flower shower, unleashed, dew & dawn, surreal, fantasy flare, shot showing movement and blurred parts
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080195922261159936/img/qFyktxK14q7UycIM.jpg" width="600" alt="Jasmine Flower Shower Surreal Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080195922261159936/img/qFyktxK14q7UycIM.jpg" width="600" alt="Surreal Jazmin Flower Shower">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7756)**
 
 **Author:** [Carolina Delgado](https://x.com/carolletta) | **Source:** [Link](https://x.com/carolletta/status/2080195996315738403) | **Published:** Jul 23, 2026
+
+---
+### Epic Gandalf vs Balrog Battle
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A professional-grade cinematic prompt for a 15-second video depicting an epic battle between a sorcerer and a molten dragon in a volcanic cavern.
+
+#### 📝 Prompt
+
+```
+A dramatic 15-second cinematic fantasy battle in a vast volcanic cavern lit by molten lava rivers and swirling embers. Start with a low-angle shot of a powerful white-haired sorcerer-warrior standing on a cracked stone ledge, long flowing grey robes billowing dramatically. He raises two glowing swords high — one emits intense blinding blue-white light with lens flares, the other a fierce golden energy beam — as massive glowing orange energy rings swirl and expand around him like magical shields.
+
+Opposite him, a colossal fiery dragon-serpent beast rears up, its body made of living molten flame and obsidian scales, wings spread wide, eyes glowing like furnaces. The beast roars, unleashing a torrent of roaring orange fire that lights up the entire cavern.
+
+Dynamic camera movement: slow dramatic push-in on the sorcerer’s determined face, then quick orbiting pan around both fighters as the beast lunges forward. The sorcerer leaps gracefully off the ledge, swords slashing in powerful arcs that create bright energy trails and exploding sparks on impact with the dragon’s flaming hide. Fire and light clash in explosive bursts, sending showers of embers and molten rock flying. The dragon coils and snaps with its jaws while whipping its long tail, forcing the sorcerer into acrobatic dodges and counter-strikes.
+
+Epic orchestral music swells with deep rumbles and sharp sword impacts. End on a heroic wide shot as the sorcerer plants both swords into the beast’s chest in a brilliant flash of blue-white and golden light, the dragon roaring in fury as flames erupt wildly around them. Hyper-detailed, cinematic lighting, intense motion, epic scale, 4K, dramatic slow-motion moments mixed with fast action.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080084050291642368/img/8eUFvxZ_lMf6KfF7.jpg" width="600" alt="Epic Gandalf vs Balrog Battle">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7794)**
+
+**Author:** [Lord Of The Groks](https://x.com/LordOfTheGroks) | **Source:** [Link](https://x.com/LordOfTheGroks/status/2080084115844735126) | **Published:** Jul 23, 2026
 
 ---
 ### Animated Dragon Battle Sequence
@@ -301,6 +364,25 @@ cut the face in half open up and make it look like we are doing a fMRI of the br
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7755)**
 
 **Author:** [Doc Toadlips](https://x.com/DToadlips) | **Source:** [Link](https://x.com/DToadlips/status/2079724995815575661) | **Published:** Jul 22, 2026
+
+---
+### Hyperrealistic Gothic Mother and Baby Macro Portrait
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic and emotionally charged prompt for a macro portrait featuring a woman in a gothic crown tenderly cradling a swaddled baby, with a focus on photorealistic skin textures and muted tones.
+
+#### 📝 Prompt
+
+```
+Hyperrealistic macro portrait of a beautiful woman with pale skin, freckles and long flowing white hair. She wears an elegant long flowing black dress with delicate details, subtle drapery and lace accents. Ornate dark spiked gothic crown on her head. She gently embraces and holds the cute baby wrapped in soft, elegant white fabric swaddle with both hands and arms, cradling it tenderly against her chest, the baby is round and adorable with soft, delicate skin, fully covered and cozy in the fabric. Her pose is protective and loving.\n\nVery muted, low-saturation color palette, almost desaturated tones, subtle cool undertones, soft natural shadows, realistic skin texture with visible pores, cinematic yet restrained lighting, extremely detailed, sharp macro focus, hyperrealistic, photorealism.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079626100322205696/img/Y8Ulemh-dWFDb9uk.jpg" width="600" alt="Hyperrealistic Gothic Mother and Baby Macro Portrait">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7795)**
+
+**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2079626150091932125) | **Published:** Jul 21, 2026
 
 ---
 ### Cinematic Achilles Trojan War Video
@@ -941,11 +1023,11 @@ A large ornate black frame hanging on a dark bedroom wall with black walls. To t
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2078575196550615483) | **Published:** Jul 18, 2026
 
 ---
-### Gothic Elf Woman with Moth Eyes
+### Gothic Elf Moth Portrait
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A dark fantasy cinematic prompt for an extreme close-up of an elf woman with a large moth obscuring her eyes, featuring gothic crowns and low-key lighting.
+> A highly detailed dark fantasy prompt for an extreme close-up of an elf woman with a large patterned moth covering her eyes.
 
 #### 📝 Prompt
 
@@ -953,7 +1035,7 @@ A large ornate black frame hanging on a dark bedroom wall with black walls. To t
 Extreme close-up portrait of a elf woman with very pale freckled dusty skin, pointed elf ears, wearing an ornate blackened golden crown with gothic filigree and dark jewels on her head, long flowing white hair partially visible, a very large and detailed moth with intricate patterned wings completely covering and obscuring both of her eyes, the moth's body and spread wings fully hiding the eye area, dramatic low-key cinematic lighting with strong rim light highlighting textures and dust particles on skin, muted desaturated color palette with gold and black dominance, dark fantasy atmosphere, hyper-realistic, hyper-detailed, cinematic, moody.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1784794870305_y2t22h_HNXvRqjXgAAJLzb.jpg" width="600" alt="Gothic Elf Woman with Moth Eyes">
+<img src="https://cms-assets.youmind.com/media/1784881007798_36ite4_HNXvRqjXgAAJLzb.jpg" width="600" alt="Gothic Elf Moth Portrait">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7522)**
 
@@ -1323,11 +1405,11 @@ Man and woman turn their faces to one an...
 **Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2078175251276652699) | **Published:** Jul 17, 2026
 
 ---
-### Weathered Elderly Man Monologue
+### Reflective Elderly Man Documentary Portrait
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A sophisticated cinematic prompt for a photorealistic extreme close-up of an elderly man sharing wisdom, featuring detailed textures and synchronized dialogue.
+> An extremely detailed video prompt for a photorealistic, emotional close-up portrait with synchronized speech and natural movements.
 
 #### 📝 Prompt
 
@@ -1342,7 +1424,7 @@ Dialogue (15 seconds):
 Natural conversational pacing with gentle pauses, perfect lip synchronization, realistic facial muscle movement, subtle eye movement, soft breathing, documentary style performance, no exaggerated acting, no subtitles, no on screen text, no background music, only quiet room ambience and the warmth of his natural voice.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078126631454130176/img/Qu2cocBFk9NfFjaz.jpg" width="600" alt="Weathered Elderly Man Monologue">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078126631454130176/img/Qu2cocBFk9NfFjaz.jpg" width="600" alt="Reflective Elderly Man Documentary Portrait">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7458)**
 
@@ -2076,84 +2158,6 @@ Ultra wide shot with Nikkor 14-24/2.8. D3s body. add the bird and turbo charged 
 **Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077318469746372923) | **Published:** Jul 15, 2026
 
 ---
-### Fairy AI Waking Up
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A whimsical video prompt depicting a fairy who flew through a window and fell asleep on a bed.
-
-#### 📝 Prompt
-
-```
-he is the fairy — like he flew in through the window, fluttered down, and passed out in the bed with his wings still out.
-POV you wake up your A.I....
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077277582865670144/img/NDTg10dfMB2IY3fj.jpg" width="600" alt="Fairy AI Waking Up">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7305)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077277639203606830) | **Published:** Jul 15, 2026
-
----
-### White Kitten Bonfire Party Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed video prompt featuring a specific white kitten named 'Because I Can' attending a bonfire party wearing a tiny cap.
-
-#### 📝 Prompt
-
-```
-the kitten named Because I Can joins the bonfire party; he is A small, adorable pure white kitten named “Because I Can”, with bright blue eyes, wearing a tiny tilted red cap on its head and white underwear covered in little cartoon Tyrannosaurus Rex...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077271713163661312/img/v_UFtWVGGeo1bOeO.jpg" width="600" alt="White Kitten Bonfire Party Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7309)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077271804113015007) | **Published:** Jul 15, 2026
-
----
-### Superhero Neon City Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video prompt showing a man transforming into a superhero with a titan-lore cape in a neon city.
-
-#### 📝 Prompt
-
-```
-turns into powerful superhero, same exact man behind epic superpower cape from ancient greek titan lore, same exact neon city, leaps then flies
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077258140102389760/img/iqZDYHUs2CXrmOAC.jpg" width="600" alt="Superhero Neon City Transformation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7306)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077258210759635238) | **Published:** Jul 15, 2026
-
----
-### Exploding Heart Balloons with Dragons
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt of heart-shaped balloons bursting into glitter, butterflies, and tiny blue dragons, accompanied by cello music.
-
-#### 📝 Prompt
-
-```
-Exploding box of heart shaped balloons that burst with bronze glitter and yellow butterflies and tiny blue dragons
-Cello music
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077253773710561280/img/A_yIgvX3Chr15ULl.jpg" width="600" alt="Exploding Heart Balloons with Dragons">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7307)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2077253936118120817) | **Published:** Jul 15, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2215,6 +2219,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-24T06:45:46.815Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-24T10:42:20.935Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2211** |
+| 📝 Total Prompts | **2215** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-24** |
 
@@ -189,6 +189,44 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### टेराकोटा वेल डांसर
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> रंगीन मोज़ेक दीवारों के सामने बहते नारंगी रेशम और गर्म सुनहरी रोशनी में एक नर्तकी के लिए एक वीडियो प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+वह गर्म सुनहरी रोशनी में नृत्य करती है, जहाँ रंगीन मोज़ेक दीवारों के सामने नारंगी रेशम लहरा रहा है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080380918401835009/img/jpLJqErXUFLPbras.jpg" width="600" alt="टेराकोटा वेल डांसर">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7793)**
+
+**Author:** [Bob - Art with a Hat](https://x.com/artwithahat0) | **Source:** [Link](https://x.com/artwithahat0/status/2080381005395878356) | **Published:** Jul 23, 2026
+
+---
+### चांदनी रात के बगीचे में रहस्यमयी मानव रूपी बिल्ली
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok Imagine के लिए एक विस्तृत सिनेमैटिक प्रॉम्प्ट, जिसमें एक नोयर-शैली के चांदनी बगीचे में गहरे साये वाले वस्त्र पहने एक राजसी मानव रूपी बिल्ली को दर्शाया गया है।
+
+#### 📝 Prompt
+
+```
+एक रहस्यमयी, मानव रूपी बिल्ली चांदनी से भरे बगीचे में चुपचाप बैठी है, जिसने मुकुट और गहरे साये वाले वस्त्र पहने हैं। बगीचा मुरझाए हुए चेरी ब्लॉसम से भरा है और दृश्य पर नाटकीय नोयर लाइटिंग, गहरा कंट्रास्ट और उदास छायाएं हैं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080305619941355520/img/Ct1mEMjGL47q8Oh_.jpg" width="600" alt="चांदनी रात के बगीचे में रहस्यमयी मानव रूपी बिल्ली">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7792)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2080305655907500138) | **Published:** Jul 23, 2026
+
+---
 ### जैस्मीन फ्लावर शावर सरियल वीडियो
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -206,6 +244,31 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7756)**
 
 **Author:** [Carolina Delgado](https://x.com/carolletta) | **Source:** [Link](https://x.com/carolletta/status/2080195996315738403) | **Published:** Jul 23, 2026
+
+---
+### गैंडालफ बनाम बालरोग की महाकाव्य लड़ाई
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक ज्वालामुखी गुफा में जादूगर और पिघले हुए ड्रैगन के बीच एक महाकाव्य लड़ाई को दर्शाने वाले 15-सेकंड के वीडियो के लिए एक पेशेवर-ग्रेड सिनेमैटिक प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+पिघली हुई लावा की नदियों और घूमती हुई चिंगारियों से प्रकाशित एक विशाल ज्वालामुखी गुफा में 15 सेकंड की एक नाटकीय सिनेमैटिक फंतासी लड़ाई। शुरुआत एक शक्तिशाली सफेद बालों वाले जादूगर-योद्धा के लो-एंगल शॉट से करें, जो टूटी हुई पत्थर की चट्टान पर खड़ा है, उसके लंबे ग्रे लबादे नाटकीय रूप से लहरा रहे हैं। वह दो चमकती तलवारें ऊपर उठाता है — एक से तीव्र चमकदार नीली-सफेद रोशनी और लेंस फ्लेयर्स निकलते हैं, दूसरी से एक उग्र सुनहरी ऊर्जा की किरण — जैसे ही विशाल चमकते नारंगी ऊर्जा के छल्ले उसके चारों ओर जादुई ढाल की तरह घूमते और फैलते हैं।
+
+उसके सामने, एक विशाल उग्र ड्रैगन-सर्प जैसा जानवर खड़ा है, जिसका शरीर जीवित पिघली हुई आग और ओब्सीडियन के शल्कों से बना है, पंख पूरी तरह फैले हुए हैं, और आँखें भट्टी की तरह चमक रही हैं। जानवर दहाड़ता है, और नारंगी आग की एक प्रचंड धारा छोड़ता है जो पूरी गुफा को रोशन कर देती है।
+
+डायनामिक कैमरा मूवमेंट: जादूगर के दृढ़ चेहरे पर धीरे-धीरे नाटकीय ज़ूम-इन, फिर जैसे ही जानवर आगे बढ़ता है, दोनों लड़ाकों के चारों ओर तेज़ ऑर्बिटिंग पैन। जादूगर चट्टान से शालीनता से कूदता है, तलवारें शक्तिशाली चाप में चलती हैं जो ड्रैगन की जलती हुई खाल पर टकराने पर चमकदार ऊर्जा की लकीरें और चिंगारियां पैदा करती हैं। आग और रोशनी विस्फोटक धमाकों के साथ टकराती हैं, जिससे चिंगारियों और पिघली हुई चट्टानों की बौछार होती है। ड्रैगन अपनी लंबी पूंछ को लहराते हुए अपने जबड़ों से हमला करता है, जिससे जादूगर को कलाबाजी करते हुए बचने और जवाबी हमला करने के लिए मजबूर होना पड़ता है।
+
+गहरी गड़गड़ाहट और तलवारों के तीखे टकराने की आवाज़ के साथ महाकाव्य ऑर्केस्ट्रा संगीत तेज़ होता है। अंत एक वीरतापूर्ण वाइड शॉट के साथ करें जहाँ जादूगर नीली-सफेद और सुनहरी रोशनी की एक शानदार चमक के साथ दोनों तलवारें जानवर की छाती में उतार देता है, ड्रैगन गुस्से में दहाड़ता है और उनके चारों ओर आग की लपटें बेतहाशा भड़क उठती हैं। अति-विस्तृत, सिनेमैटिक लाइटिंग, तीव्र गति, महाकाव्य पैमाना, 4K, तेज़ एक्शन के साथ मिश्रित नाटकीय स्लो-मोशन क्षण।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080084050291642368/img/8eUFvxZ_lMf6KfF7.jpg" width="600" alt="गैंडालफ बनाम बालरोग की महाकाव्य लड़ाई">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7794)**
+
+**Author:** [Lord Of The Groks](https://x.com/LordOfTheGroks) | **Source:** [Link](https://x.com/LordOfTheGroks/status/2080084115844735126) | **Published:** Jul 23, 2026
 
 ---
 ### एनिमेटेड ड्रैगन बैटल सीक्वेंस
@@ -301,6 +364,27 @@ Why use our gallery?
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7755)**
 
 **Author:** [Doc Toadlips](https://x.com/DToadlips) | **Source:** [Link](https://x.com/DToadlips/status/2079724995815575661) | **Published:** Jul 22, 2026
+
+---
+### अति-यथार्थवादी गॉथिक माँ और बच्चे का मैक्रो पोर्ट्रेट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सिनेमाई और भावनात्मक रूप से प्रभावशाली प्रॉम्प्ट, जिसमें गॉथिक मुकुट पहने एक महिला को प्यार से एक लिपटे हुए बच्चे को गोद में लिए हुए दिखाया गया है। इसमें फोटो-यथार्थवादी त्वचा की बनावट और हल्के रंगों पर ध्यान केंद्रित किया गया है।
+
+#### 📝 Prompt
+
+```
+गोरी त्वचा, झाइयों और लंबे लहराते सफेद बालों वाली एक सुंदर महिला का अति-यथार्थवादी मैक्रो पोर्ट्रेट। उसने नाजुक विवरणों, सूक्ष्म ड्रेपरी और लेस एक्सेंट के साथ एक सुंदर लंबी काली पोशाक पहनी है। उसके सिर पर अलंकृत गहरे रंग का नुकीला गॉथिक मुकुट है। वह कोमल, सुंदर सफेद कपड़े में लिपटे प्यारे बच्चे को दोनों हाथों और बाहों से धीरे से गले लगाती है और पकड़ती है, उसे अपनी छाती से प्यार से सटाए हुए है। बच्चा गोल-मटोल और प्यारा है, जिसकी त्वचा कोमल और नाजुक है, जो पूरी तरह से कपड़े में ढका हुआ और आरामदायक है। उसकी मुद्रा सुरक्षात्मक और प्रेमपूर्ण है।
+
+बहुत ही हल्के, कम-संतृप्ति वाले रंग पैलेट, लगभग फीके टोन, सूक्ष्म ठंडे अंडरटोन, नरम प्राकृतिक छाया, दिखाई देने वाले रोमछिद्रों के साथ यथार्थवादी त्वचा की बनावट, सिनेमाई लेकिन संयमित प्रकाश व्यवस्था, अत्यधिक विस्तृत, तेज मैक्रो फोकस, अति-यथार्थवादी, फोटो-यथार्थवाद।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079626100322205696/img/Y8Ulemh-dWFDb9uk.jpg" width="600" alt="अति-यथार्थवादी गॉथिक माँ और बच्चे का मैक्रो पोर्ट्रेट">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7795)**
+
+**Author:** [Myluna](https://x.com/monicamoonx) | **Source:** [Link](https://x.com/monicamoonx/status/2079626150091932125) | **Published:** Jul 21, 2026
 
 ---
 ### सिनेमैटिक अकिलीज़ ट्रोजन वॉर वीडियो
@@ -1134,7 +1218,7 @@ free kick – messi 25m out, five-man wall, curl up and over the wall into the t
 एक एल्फ महिला का एक्सट्रीम क्लोज-अप पोर्ट्रेट, जिसकी त्वचा बहुत पीली, झाइयों वाली और धूल भरी है, नुकीले एल्फ कान, सिर पर गॉथिक फिलिग्री और गहरे रत्नों से जड़ा एक अलंकृत काला-सुनहरा ताज, लंबे लहराते सफेद बाल आंशिक रूप से दिखाई दे रहे हैं, एक बहुत बड़ा और विस्तृत पतंगा जिसके जटिल पैटर्न वाले पंख उसकी दोनों आँखों को पूरी तरह से ढक रहे हैं, पतंगे का शरीर और फैले हुए पंख आँखों के क्षेत्र को पूरी तरह छिपा रहे हैं, नाटकीय लो-की सिनेमैटिक लाइटिंग के साथ मजबूत रिम लाइट जो त्वचा पर बनावट और धूल के कणों को उभार रही है, म्यूट और डीसैचुरेटेड कलर पैलेट जिसमें सोने और काले रंग की प्रधानता है, डार्क फैंटेसी वातावरण, हाइपर-रियलिस्टिक, हाइपर-डिटेल्ड, सिनेमैटिक, मूडी।
 ```
 
-<img src="https://cms-assets.youmind.com/media/1784794870305_y2t22h_HNXvRqjXgAAJLzb.jpg" width="600" alt="सिनेमैटिक डार्क फैंटेसी एल्फ पोर्ट्रेट">
+<img src="https://cms-assets.youmind.com/media/1784881007798_36ite4_HNXvRqjXgAAJLzb.jpg" width="600" alt="सिनेमैटिक डार्क फैंटेसी एल्फ पोर्ट्रेट">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7522)**
 
@@ -2257,84 +2341,6 @@ Nikkor 14-24/2.8 के साथ अल्ट्रा वाइड शॉट�
 **Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077318469746372923) | **Published:** Jul 15, 2026
 
 ---
-### Fairy AI Waking Up
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक मनमोहक वीडियो प्रॉम्प्ट जिसमें एक परी खिड़की से अंदर आती है और बिस्तर पर सो जाती है।
-
-#### 📝 Prompt
-
-```
-वह परी है — जैसे वह खिड़की से अंदर आई, फड़फड़ाते हुए नीचे उतरी, और अपने पंखों को फैलाए हुए ही बिस्तर पर सो गई।
-POV आप अपने A.I. को जगाते हैं...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077277582865670144/img/NDTg10dfMB2IY3fj.jpg" width="600" alt="Fairy AI Waking Up">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7305)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077277639203606830) | **Published:** Jul 15, 2026
-
----
-### सफेद बिल्ली के बच्चे की बोनफायर पार्टी वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक विस्तृत वीडियो प्रॉम्प्ट जिसमें 'Because I Can' नाम का एक विशेष सफेद बिल्ली का बच्चा छोटी टोपी पहनकर बोनफायर पार्टी में शामिल हो रहा है।
-
-#### 📝 Prompt
-
-```
-Because I Can नाम का बिल्ली का बच्चा बोनफायर पार्टी में शामिल होता है; वह “Because I Can” नाम का एक छोटा, प्यारा और पूरी तरह से सफेद बिल्ली का बच्चा है, जिसकी चमकदार नीली आँखें हैं, उसने अपने सिर पर एक छोटी सी तिरछी लाल टोपी पहनी है और छोटे कार्टून टायरानोसोरस रेक्स (Tyrannosaurus Rex) से ढके सफेद अंडरवियर पहने हैं...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077271713163661312/img/v_UFtWVGGeo1bOeO.jpg" width="600" alt="सफेद बिल्ली के बच्चे की बोनफायर पार्टी वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7309)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077271804113015007) | **Published:** Jul 15, 2026
-
----
-### सुपरहीरो नियॉन सिटी ट्रांसफॉर्मेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो प्रॉम्प्ट जिसमें एक व्यक्ति को नियॉन शहर में टाइटन-लोर केप पहने सुपरहीरो में बदलते हुए दिखाया गया है।
-
-#### 📝 Prompt
-
-```
-शक्तिशाली सुपरहीरो में बदलता है, वही व्यक्ति प्राचीन ग्रीक टाइटन-लोर के महाकाव्य सुपरपावर केप के पीछे, वही नियॉन शहर, छलांग लगाता है और फिर उड़ जाता है
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077258140102389760/img/iqZDYHUs2CXrmOAC.jpg" width="600" alt="सुपरहीरो नियॉन सिटी ट्रांसफॉर्मेशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7306)**
-
-**Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077258210759635238) | **Published:** Jul 15, 2026
-
----
-### ड्रैगन के साथ फटते हुए दिल के आकार के गुब्बारे
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमाई वीडियो प्रॉम्प्ट जिसमें दिल के आकार के गुब्बारे चमक, तितलियों और छोटे नीले ड्रैगन्स में फट रहे हैं, साथ में सेलो (cello) संगीत बज रहा है।
-
-#### 📝 Prompt
-
-```
-दिल के आकार के गुब्बारों का फटता हुआ बॉक्स जो ब्रॉन्ज ग्लिटर, पीली तितलियों और छोटे नीले ड्रैगन्स के साथ फटता है
-सेलो (cello) संगीत
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077253773710561280/img/A_yIgvX3Chr15ULl.jpg" width="600" alt="ड्रैगन के साथ फटते हुए दिल के आकार के गुब्बारे">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7307)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2077253936118120817) | **Published:** Jul 15, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2396,6 +2402,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-24T06:45:52.074Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-24T10:42:29.494Z</sub>
 
 </div>
