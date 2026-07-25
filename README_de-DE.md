@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2215** |
+| 📝 Total Prompts | **2221** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-25** |
 
@@ -189,6 +189,124 @@ Eine mystische und edle himmlische Walküre, eine würdevolle und schöne Frau m
 
 > 📝 Sorted by publish date (newest first)
 
+### Death-Metal-Animation mit Voiceover
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein dramatischer Video-Prompt, bei dem eine Figur an einer Kette zieht, untermalt von einer tiefen Death-Metal-Stimme und Hintergrundmusik.
+
+#### 📝 Prompt
+
+```
+Im Hintergrund läuft Death-Metal-Musik. Er zieht an seiner Kette und sagt mit tiefer männlicher Death-Metal-Stimme: Fun Tiff X hat mich erschaffen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080779171127775232/img/Dl5vN5CQ5SpBFNz3.jpg" width="600" alt="Death-Metal-Animation mit Voiceover">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7849)**
+
+**Author:** [FUNTIFFX](https://x.com/AbstractTiffany) | **Source:** [Link](https://x.com/AbstractTiffany/status/2080779188098027577) | **Published:** Jul 24, 2026
+
+---
+### Klaviertasten-Schatten-Performance
+
+![한국어](https://img.shields.io/badge/lang-한국어-orange)
+
+> Ein kreativer Prompt, der einen Schatten, der an Klaviertasten erinnert, in ein animiertes Video verwandelt, in dem die Tasten zur Melodie des Flohwalzers gespielt werden.
+
+#### 📝 Prompt
+
+```
+Der Schatten auf dem Foto sieht aus wie Klaviertasten; bitte erstelle ein Video, in dem sich die Tasten so bewegen, als würde jemand darauf spielen, und die Musik dazu der Flohwalzer ist.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080752996926054400/img/XebJiDEY-e8vEgUd.jpg" width="600" alt="Klaviertasten-Schatten-Performance">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7850)**
+
+**Author:** [T드라이버](https://x.com/seongwoo0930) | **Source:** [Link](https://x.com/seongwoo0930/status/2080753029775868225) | **Published:** Jul 24, 2026
+
+---
+### Sci-Fi-Video: Wachhunde eines Landschiffs
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Science-Fiction-Video-Prompt, der riesige Wachhunde zeigt, die ein Landschiff vor mutierten Hybrid-Eindringlingen beschützen.
+
+#### 📝 Prompt
+
+```
+Wachhunde eines Landschiffs 🐕 🐾🐕
+
+Sobald eine Bedrohung erkannt wird, wächst das Paar an Größe und sendet eine schwächende Schockwelle aus, die die Eindringlinge – eine Kreuzung aus Hyänen und Giraffen – außer Gefecht setzt.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080740252281348096/img/LqQsozrWA4MZsJ9Y.jpg" width="600" alt="Sci-Fi-Video: Wachhunde eines Landschiffs">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7846)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2080740307377750343) | **Published:** Jul 24, 2026
+
+---
+### Rebellisches Wheelie-Video eines Rennfahrers
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein dynamischer Video-Prompt eines Rennfahrers, der einen Wheelie macht und eine trotzige Geste zeigt, während er von einer Menschenmenge davonrast.
+
+#### 📝 Prompt
+
+```
+Platz da, ihr Idioten 🖕
+
+Der Rennfahrer rast auf einem Hinterrad davon, streckt trotzig seinen linken Arm in die Luft und zeigt den Zuschauern den Mittelfinger 🖕.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080719958581874688/img/YfP2U7CUY1SGXkfu.jpg" width="600" alt="Rebellisches Wheelie-Video eines Rennfahrers">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7847)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2080720053968789504) | **Published:** Jul 24, 2026
+
+---
+### Victoria's Secret Runway-Walk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Video-Prompt für eine Modenschau-Szene mit spezifischen Anweisungen zur Bewegung des Models und zum Fall des Outfits.
+
+#### 📝 Prompt
+
+```
+Beginne mit Musik wie bei einem Victoria's Secret Runway-Model und stimme jede Bewegung präzise auf den Fall des Outfits ab, das sie trägt.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080599552080388096/img/bE4mW5QaLWMnMBNe.jpg" width="600" alt="Victoria's Secret Runway-Walk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7845)**
+
+**Author:** [Terry Palmieri](https://x.com/TerryPalmieri14) | **Source:** [Link](https://x.com/TerryPalmieri14/status/2080599601673892045) | **Published:** Jul 24, 2026
+
+---
+### Krankenhausgeburt aus der Ich-Perspektive
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein cineastischer Point-of-View-Videoprompt, der den emotionalen Moment einfängt, in dem eine Mutter ihr Neugeborenes im Krankenhaus in die Arme schließt.
+
+#### 📝 Prompt
+
+```
+Perspektive einer Frau bei der Entbindung in einem abgedunkelten Krankenhauszimmer, ihr Bauch ist klein, sie trägt ein Krankenhauskittel, das den Bauch bedeckt. Der Arzt legt das in eine Decke gewickelte Mädchen mit einer rosa Carhartt-Mütze auf ihre Brust. Das Baby schaut die Mutter an....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080528585798852608/img/FDST6tnvLMNS3QcG.jpg" width="600" alt="Krankenhausgeburt aus der Ich-Perspektive">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7848)**
+
+**Author:** [yellow flowers by the beaver pond](https://x.com/condnuit) | **Source:** [Link](https://x.com/condnuit/status/2080528603029102790) | **Published:** Jul 24, 2026
+
+---
 ### Terrakotta-Schleiertänzerin
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2045,121 +2163,6 @@ Wenn deine gewöhnliche Hauskatze plötzlich entdeckt, dass das Universum aus le
 **Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2077496246089007407) | **Published:** Jul 15, 2026
 
 ---
-### Schnelles Motorrad mit Laser-Lichtspur
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein actiongeladener Video-Prompt, der ein schnell beschleunigendes Motorrad mit nachziehenden Laserlichtern beschreibt, während die Kamera folgt.
-
-#### 📝 Prompt
-
-```
-Mit einem plötzlichen Ruck extremer Geschwindigkeit hebt sich das Vorderrad leicht, und das Motorrad rast die Straße entlang aus dem Bild. Die Kamera schwenkt und sieht, wie es in der Ferne verschwindet, während die nachziehenden Laserlichter immer kleiner werden.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077494468769460224/img/baZUnDTmidw1C1ma.jpg" width="600" alt="Schnelles Motorrad mit Laser-Lichtspur">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7308)**
-
-**Author:** [HELL SPAWN](https://x.com/Rjsolo11) | **Source:** [Link](https://x.com/Rjsolo11/status/2077494506916598206) | **Published:** Jul 15, 2026
-
----
-### Chibi Cosmic Wildcat Cybertruck
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochdetaillierter Prompt im Pixar-Stil mit einer leuchtenden Chibi-Wildkatze und einem weißen Goldendoodle, die in einem Tesla Cybertruck durch ein futuristisches Chicago fahren.
-
-#### 📝 Prompt
-
-```
-Chibi kosmische Wildkatze mit leuchtendem Aurora-Fell, die in einem schnittigen Tesla Cybertruck durch einen futuristischen Chicagoer Nachthimmel voller Nordlichter und Funken freier Energie fährt, Garn-Lasso leuchtend wie Tesla-Spulen, verspielter weißer Goldendoodle, der auf der Ladefläche Blitzen hinterherjagt, lebendiger Pixar-Stil, Glitzer, hohe Detailgenauigkeit, filmische Beleuchtung
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077400808505700352/img/bY8rB0bpkkOL8jXA.jpg" width="600" alt="Chibi Cosmic Wildcat Cybertruck">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7304)**
-
-**Author:** [✨😼 Wildcat](https://x.com/AriadneBorealis) | **Source:** [Link](https://x.com/AriadneBorealis/status/2077403087392633198) | **Published:** Jul 15, 2026
-
----
-### Hengst auf afrikanischer Klippe
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein majestätischer Video-Prompt eines schwarzen Hengstes mit geflochtenen Cornrows, der über einen Sonnenaufgang in Afrika blickt.
-
-#### 📝 Prompt
-
-```
-Ein legendärer schwarzer Hengst mit perfekt geflochtenen Cornrows als Mähne, verziert mit goldenen Perlen und Manschetten, der bei Sonnenaufgang auf einer uralten afrikanischen Klippe über endlosem Grasland steht. Kraftvoll, edel und spirituell, mit einem intensiven Blick und wehendem Schweif.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077370848516739072/img/GHul4lAb-9gPfy7D.jpg" width="600" alt="Hengst auf afrikanischer Klippe">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7302)**
-
-**Author:** [Jeff Fairow](https://x.com/FairowJeff) | **Source:** [Link](https://x.com/FairowJeff/status/2077370904581956064) | **Published:** Jul 15, 2026
-
----
-### Drache mit Sonnenblume auf dem Feld
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein bezaubernder Animations-Prompt, bei dem ein Drache mit einer Sonnenblume durch ein Feld tänzelt.
-
-#### 📝 Prompt
-
-```
-Der Drache pflückt eine Sonnenblume und steckt sie sich hinter das Ohr 
-Stolzes Tänzeln durch das Feld
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077368328805625856/img/6fZtM1i9PZHFalCx.jpg" width="600" alt="Drache mit Sonnenblume auf dem Feld">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7303)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2077368417162830048) | **Published:** Jul 15, 2026
-
----
-### Helles, luftiges Schlafzimmer-Interieur
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein realistischer Video-Prompt für ein helles und luftiges Schlafzimmer mit weichen Vorhängen, die sich im Morgenlicht bewegen.
-
-#### 📝 Prompt
-
-```
-Fotorealistisches, helles und luftiges Schlafzimmer-Interieur, ungemachtes Bett mit weicher, zerknitterter weißer Bettwäsche im Vordergrund, sanft wehende, halbtransparente Vorhänge, Nachttisch aus Korbgeflecht, üppige grüne Pflanzen in der Nähe, warmes goldenes Sonnenlicht, das durch große Fenster fällt und Schatten wirft.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077354377153544192/img/tsJn3osrY1KFM0lV.jpg" width="600" alt="Helles, luftiges Schlafzimmer-Interieur">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7300)**
-
-**Author:** [Derek Rodrigue](https://x.com/DerekRodriaw2c) | **Source:** [Link](https://x.com/DerekRodriaw2c/status/2077354436221899170) | **Published:** Jul 15, 2026
-
----
-### Weitwinkelaufnahme einer Luftfahrtszene mit Vögeln
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein technischer Video-Prompt, der Kameraausrüstung spezifiziert, um Elemente wie Vögel und Triebwerksgeräusche zu einer Auto- oder Flugzeugszene hinzuzufügen.
-
-#### 📝 Prompt
-
-```
-Ultra-Weitwinkelaufnahme mit Nikkor 14-24/2.8. D3s Gehäuse. Füge Vögel und das Geräusch eines turbogeladenen Triebwerks hinzu
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077315217638207488/img/SAUU4djRZHwtO9mr.jpg" width="600" alt="Weitwinkelaufnahme einer Luftfahrtszene mit Vögeln">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7310)**
-
-**Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077318469746372923) | **Published:** Jul 15, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2221,6 +2224,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-25T06:40:56.551Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-25T10:12:34.353Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2215** |
+| 📝 Total Prompts | **2221** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-25** |
 
@@ -189,6 +189,124 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### แอนิเมชันแนวเดธเมทัลพร้อมเสียงพากย์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์สุดดราม่าที่แสดงภาพตัวละครกำลังกระชากโซ่ พร้อมเสียงพากย์แนวเดธเมทัลทุ้มต่ำและดนตรีประกอบ
+
+#### 📝 Prompt
+
+```
+มีดนตรีแนวเดธเมทัลบรรเลงเป็นฉากหลัง เขาออกแรงกระชากโซ่แล้วพูดด้วยเสียงผู้ชายแนวเดธเมทัลทุ้มต่ำว่า: Fun Tiff X เป็นคนสร้างฉันขึ้นมา
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080779171127775232/img/Dl5vN5CQ5SpBFNz3.jpg" width="600" alt="แอนิเมชันแนวเดธเมทัลพร้อมเสียงพากย์">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7849)**
+
+**Author:** [FUNTIFFX](https://x.com/AbstractTiffany) | **Source:** [Link](https://x.com/AbstractTiffany/status/2080779188098027577) | **Published:** Jul 24, 2026
+
+---
+### การแสดงเงาบนคีย์เปียโน
+
+![한국어](https://img.shields.io/badge/lang-한국어-orange)
+
+> พรอมต์สร้างสรรค์ที่เปลี่ยนเงาซึ่งมีลักษณะคล้ายคีย์เปียโนให้กลายเป็นวิดีโอแอนิเมชัน โดยให้คีย์เหล่านั้นเล่นเพลง Chopsticks March
+
+#### 📝 Prompt
+
+```
+เงาในภาพถ่ายดูเหมือนคีย์เปียโน โปรดทำวิดีโอที่คีย์เหล่านั้นเคลื่อนไหวเหมือนมีคนกำลังเล่นอยู่ และให้เพลงที่เล่นเป็นเพลง Chopsticks March
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080752996926054400/img/XebJiDEY-e8vEgUd.jpg" width="600" alt="การแสดงเงาบนคีย์เปียโน">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7850)**
+
+**Author:** [T드라이버](https://x.com/seongwoo0930) | **Source:** [Link](https://x.com/seongwoo0930/status/2080753029775868225) | **Published:** Jul 24, 2026
+
+---
+### วิดีโอไซไฟสุนัขเฝ้ายามแห่งยานแลนด์ชิป
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแนวไซไฟที่แสดงภาพสุนัขเฝ้ายามขนาดยักษ์กำลังปกป้องยานแลนด์ชิปจากการรุกรานของสัตว์กลายพันธุ์
+
+#### 📝 Prompt
+
+```
+สุนัขเฝ้ายามแห่งยานแลนด์ชิป 🐕 🐾🐕
+
+เมื่อสัมผัสได้ถึงภัยคุกคาม สุนัขทั้งสองตัวจะขยายร่างใหญ่ขึ้นและปล่อยคลื่นกระแทกที่ทำให้ผู้บุกรุกเป็นอัมพาต โดยผู้บุกรุกเหล่านั้นคือไฮยีน่ากลายพันธุ์ที่ผสมข้ามสายพันธุ์กับยีราฟ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080740252281348096/img/LqQsozrWA4MZsJ9Y.jpg" width="600" alt="วิดีโอไซไฟสุนัขเฝ้ายามแห่งยานแลนด์ชิป">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7846)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2080740307377750343) | **Published:** Jul 24, 2026
+
+---
+### วิดีโอการขับขี่แบบยกล้อสุดเร้าใจ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพร้อมคำสั่ง (prompt) แบบไดนามิกของนักแข่งที่กำลังขับขี่แบบยกล้อ พร้อมแสดงท่าทางท้าทายขณะเร่งความเร็วหนีออกจากกลุ่มฝูงชน
+
+#### 📝 Prompt
+
+```
+หลบไปพวกแก 🖕
+
+นักแข่งเร่งความเร็วออกไปพร้อมกับยกล้ออย่างท้าทาย โดยชูแขนซ้ายขึ้นและชูนิ้วกลางให้แก่ผู้คนที่ยืนดูอยู่ 🖕
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080719958581874688/img/YfP2U7CUY1SGXkfu.jpg" width="600" alt="วิดีโอการขับขี่แบบยกล้อสุดเร้าใจ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7847)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2080720053968789504) | **Published:** Jul 24, 2026
+
+---
+### การเดินแบบบนรันเวย์ของ Victoria's Secret
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง (prompt) สำหรับวิดีโอฉากแฟชั่นโชว์ที่ให้รายละเอียดอย่างชัดเจนเกี่ยวกับการเคลื่อนไหวของนางแบบและการพริ้วไหวของชุด
+
+#### 📝 Prompt
+
+```
+เริ่มด้วยการใส่ดนตรีในสไตล์นางแบบรันเวย์ของ Victoria's Secret โดยให้ทุกท่วงท่าการเคลื่อนไหวมีความแม่นยำและสอดคล้องกับความพริ้วไหวของชุดที่สวมใส่
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080599552080388096/img/bE4mW5QaLWMnMBNe.jpg" width="600" alt="การเดินแบบบนรันเวย์ของ Victoria's Secret">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7845)**
+
+**Author:** [Terry Palmieri](https://x.com/TerryPalmieri14) | **Source:** [Link](https://x.com/TerryPalmieri14/status/2080599601673892045) | **Published:** Jul 24, 2026
+
+---
+### มุมมองบุคคลที่หนึ่งขณะคลอดลูกในโรงพยาบาล
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแบบมุมมองบุคคลที่หนึ่ง (POV) ที่ถ่ายทอดช่วงเวลาอันน่าประทับใจเมื่อคุณแม่ได้รับลูกน้อยแรกเกิดในบรรยากาศโรงพยาบาล
+
+#### 📝 Prompt
+
+```
+มุมมองบุคคลที่หนึ่งของผู้หญิงที่กำลังคลอดลูกในห้องโรงพยาบาลที่มีแสงสลัว หน้าท้องของเธอมีขนาดเล็กลงและสวมชุดคลุมโรงพยาบาลปิดทับหน้าท้องไว้ แพทย์วางทารกเพศหญิงที่ห่อด้วยผ้าห่มและสวมหมวกไหมพรมสีชมพูลงบนหน้าอกของเธอ ทารกหันหน้าเข้าหาคุณแม่...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080528585798852608/img/FDST6tnvLMNS3QcG.jpg" width="600" alt="มุมมองบุคคลที่หนึ่งขณะคลอดลูกในโรงพยาบาล">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7848)**
+
+**Author:** [yellow flowers by the beaver pond](https://x.com/condnuit) | **Source:** [Link](https://x.com/condnuit/status/2080528603029102790) | **Published:** Jul 24, 2026
+
+---
 ### นักเต้นในม่านสีดินเผา
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2045,121 +2163,6 @@ Lila กำลังล่องเรือใบสีขาวลำเล็
 **Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2077496246089007407) | **Published:** Jul 15, 2026
 
 ---
-### มอเตอร์ไซค์ซิ่งความเร็วสูงพร้อมแสงเลเซอร์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพร้อมท์แนวแอ็กชันที่บรรยายถึงมอเตอร์ไซค์ที่เร่งความเร็วอย่างรวดเร็วพร้อมแสงเลเซอร์ที่ลากยาวตามหลังขณะที่กล้องเคลื่อนที่ตาม
-
-#### 📝 Prompt
-
-```
-ด้วยแรงกระชากของความเร็วที่รุนแรง ล้อหน้าของเขายกขึ้นเล็กน้อย และเขาก็พุ่งทะยานไปตามถนนจนหลุดจากเฟรมภาพ กล้องหันตามไปและเห็นเขากำลังเร่งเครื่องออกไปในระยะไกล โดยมีแสงเลเซอร์ที่ลากยาวค่อยๆ ห่างออกไป
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077494468769460224/img/baZUnDTmidw1C1ma.jpg" width="600" alt="มอเตอร์ไซค์ซิ่งความเร็วสูงพร้อมแสงเลเซอร์">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7308)**
-
-**Author:** [HELL SPAWN](https://x.com/Rjsolo11) | **Source:** [Link](https://x.com/Rjsolo11/status/2077494506916598206) | **Published:** Jul 15, 2026
-
----
-### Chibi Cosmic Wildcat Cybertruck
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สไตล์ Pixar รายละเอียดสูง เผยให้เห็นแมวป่าจิบิที่มีแสงเรืองรองและสุนัขโกลเด้นดูเดิลสีขาวกำลังนั่งรถ Tesla Cybertruck ท่ามกลางเมืองชิคาโกแห่งอนาคต
-
-#### 📝 Prompt
-
-```
-แมวป่าจิบิในธีมจักรวาลที่มีขนเรืองแสงแบบออโรร่า กำลังนั่งอยู่ในรถ Tesla Cybertruck สุดโฉบเฉี่ยวท่ามกลางท้องฟ้ายามค่ำคืนของชิคาโกแห่งอนาคตที่เต็มไปด้วยแสงเหนือและประกายไฟพลังงานอิสระ เชือกบ่วงบาศไหมพรมเรืองแสงเหมือนขดลวด Tesla มีสุนัขโกลเด้นดูเดิลสีขาวแสนซนกำลังวิ่งไล่สายฟ้าอยู่ที่กระบะท้ายรถ สไตล์ Pixar สีสันสดใส เต็มไปด้วยประกายวิบวับ รายละเอียดคมชัด แสงแบบภาพยนตร์
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077400808505700352/img/bY8rB0bpkkOL8jXA.jpg" width="600" alt="Chibi Cosmic Wildcat Cybertruck">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7304)**
-
-**Author:** [✨😼 Wildcat](https://x.com/AriadneBorealis) | **Source:** [Link](https://x.com/AriadneBorealis/status/2077403087392633198) | **Published:** Jul 15, 2026
-
----
-### ม้าศึกบนหน้าผาในแอฟริกา
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์สุดตระการตาของม้าสีดำที่มีแผงคอถักเปียแบบคอร์นโรว์ประดับลูกปัด กำลังยืนมองพระอาทิตย์ขึ้นในแอฟริกา
-
-#### 📝 Prompt
-
-```
-ม้าสีดำในตำนานที่มีแผงคอถักเปียแบบคอร์นโรว์อย่างประณีต ประดับด้วยลูกปัดและห่วงสีทอง ยืนตระหง่านอยู่บนหน้าผาโบราณในแอฟริกาที่มองเห็นทุ่งหญ้ากว้างใหญ่สุดลูกหูลูกตาในช่วงพระอาทิตย์ขึ้น ดูทรงพลัง สง่างาม และเปี่ยมด้วยจิตวิญญาณ พร้อมสายตาที่มุ่งมั่นและหางที่พริ้วไหว
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077370848516739072/img/GHul4lAb-9gPfy7D.jpg" width="600" alt="ม้าศึกบนหน้าผาในแอฟริกา">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7302)**
-
-**Author:** [Jeff Fairow](https://x.com/FairowJeff) | **Source:** [Link](https://x.com/FairowJeff/status/2077370904581956064) | **Published:** Jul 15, 2026
-
----
-### มังกรกับดอกทานตะวันในทุ่งกว้าง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์แอนิเมชันสุดน่ารักของมังกรที่กำลังวิ่งเล่นอย่างร่าเริงอยู่ในทุ่งดอกทานตะวัน
-
-#### 📝 Prompt
-
-```
-มังกรเด็ดดอกทานตะวันมาทัดไว้ที่หู 
-แล้ววิ่งเล่นอย่างภาคภูมิใจไปทั่วทุ่ง
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077368328805625856/img/6fZtM1i9PZHFalCx.jpg" width="600" alt="มังกรกับดอกทานตะวันในทุ่งกว้าง">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7303)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2077368417162830048) | **Published:** Jul 15, 2026
-
----
-### การตกแต่งภายในห้องนอนที่สว่างและโปร่งสบาย
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอสมจริงสำหรับห้องนอนที่สว่างและโปร่งสบาย พร้อมผ้าม่านเนื้อนุ่มที่พริ้วไหวในแสงยามเช้า
-
-#### 📝 Prompt
-
-```
-การตกแต่งภายในห้องนอนที่สว่างและโปร่งสบายแบบสมจริง เตียงที่ยังไม่ได้จัดพร้อมเครื่องนอนสีขาวเนื้อนุ่มที่ยับย่นอยู่ด้านหน้า ผ้าม่านโปร่งแสงที่พริ้วไหวอย่างแผ่วเบา โต๊ะข้างเตียงหวาย ต้นไม้สีเขียวชอุ่มอยู่ใกล้ๆ แสงแดดสีทองอันอบอุ่นสาดส่องผ่านหน้าต่างบานใหญ่และทอดเงาลงมา
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077354377153544192/img/tsJn3osrY1KFM0lV.jpg" width="600" alt="การตกแต่งภายในห้องนอนที่สว่างและโปร่งสบาย">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7300)**
-
-**Author:** [Derek Rodrigue](https://x.com/DerekRodriaw2c) | **Source:** [Link](https://x.com/DerekRodriaw2c/status/2077354436221899170) | **Published:** Jul 15, 2026
-
----
-### ฉากการบินมุมกว้างพร้อมฝูงนก
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่งวิดีโอเชิงเทคนิคที่ระบุอุปกรณ์กล้องเพื่อเพิ่มองค์ประกอบต่างๆ เช่น ฝูงนกและเสียงเครื่องยนต์เทอร์โบให้กับฉากรถยนต์หรืออากาศยาน
-
-#### 📝 Prompt
-
-```
-ภาพมุมกว้างพิเศษ (Ultra wide shot) ด้วยเลนส์ Nikkor 14-24/2.8 และกล้อง D3s เพิ่มฝูงนกและเสียงเครื่องยนต์เทอร์โบชาร์จ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077315217638207488/img/SAUU4djRZHwtO9mr.jpg" width="600" alt="ฉากการบินมุมกว้างพร้อมฝูงนก">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7310)**
-
-**Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077318469746372923) | **Published:** Jul 15, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2221,6 +2224,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-25T06:40:50.965Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-25T10:12:26.769Z</sub>
 
 </div>

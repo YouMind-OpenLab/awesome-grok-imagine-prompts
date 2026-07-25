@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2215** |
+| 📝 Total Prompts | **2221** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-25** |
 
@@ -189,6 +189,124 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Death Metal Seslendirmeli Animasyon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Derin bir death metal sesi ve arka plan müziği eşliğinde zincir çeken bir karakterin yer aldığı dramatik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Arka planda death metal müziği çalıyor. Zincirini çekiyor ve derin bir erkek death metal sesiyle şöyle diyor: Fun Tiff X beni yarattı.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080779171127775232/img/Dl5vN5CQ5SpBFNz3.jpg" width="600" alt="Death Metal Seslendirmeli Animasyon">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7849)**
+
+**Author:** [FUNTIFFX](https://x.com/AbstractTiffany) | **Source:** [Link](https://x.com/AbstractTiffany/status/2080779188098027577) | **Published:** Jul 24, 2026
+
+---
+### Piyano Tuşu Gölge Performansı
+
+![한국어](https://img.shields.io/badge/lang-한국어-orange)
+
+> Piyano tuşlarını andıran bir gölgeyi, Chopsticks Marşı eşliğinde çalınan tuşların yer aldığı animasyonlu bir videoya dönüştüren yaratıcı bir komut.
+
+#### 📝 Prompt
+
+```
+Fotoğraftaki gölge piyano tuşlarına benziyor; lütfen tuşların biri çalıyormuş gibi hareket ettiği ve arka planda Chopsticks Marşı'nın çaldığı bir video oluştur.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080752996926054400/img/XebJiDEY-e8vEgUd.jpg" width="600" alt="Piyano Tuşu Gölge Performansı">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7850)**
+
+**Author:** [T드라이버](https://x.com/seongwoo0930) | **Source:** [Link](https://x.com/seongwoo0930/status/2080753029775868225) | **Published:** Jul 24, 2026
+
+---
+### Landship Bekçi Köpekleri Bilim Kurgu Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Devasa bekçi köpeklerinin, mutant hibrit davetsiz misafirlere karşı bir kara gemisini (landship) koruduğunu betimleyen bir bilim kurgu video istemi.
+
+#### 📝 Prompt
+
+```
+Landship bekçi köpekleri 🐕 🐾🐕
+
+Bir tehdit algılandığında ikili boyut olarak büyür ve zürafa ile çaprazlanmış mutant sırtlanlar olan davetsiz misafirleri etkisiz hale getiren sarsıcı bir şok dalgası yayarlar.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080740252281348096/img/LqQsozrWA4MZsJ9Y.jpg" width="600" alt="Landship Bekçi Köpekleri Bilim Kurgu Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7846)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2080740307377750343) | **Published:** Jul 24, 2026
+
+---
+### Asi Yarışçı Tek Teker Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir yarışçının tek teker üzerinde gittiği ve kalabalıktan hızla uzaklaşırken meydan okuyan bir hareket yaptığı dinamik bir video istemi.
+
+#### 📝 Prompt
+
+```
+Çekilin yoldan 🖕
+
+Yarışçı, sol kolunu havaya kaldırıp çevredekilere orta parmak göstererek meydan okurcasına tek teker üzerinde hızla uzaklaşıyor 🖕.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080719958581874688/img/YfP2U7CUY1SGXkfu.jpg" width="600" alt="Asi Yarışçı Tek Teker Videosu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7847)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2080720053968789504) | **Published:** Jul 24, 2026
+
+---
+### Victoria's Secret Podyum Yürüyüşü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Modelin hareketi ve kıyafetin akışına dair özel talimatlar içeren, bir moda şovu sahnesi için hazırlanmış detaylı bir video istemi.
+
+#### 📝 Prompt
+
+```
+Victoria's Secret podyum modeli gibi zafer dolu bir müzikle başlayın ve her hareketi, üzerindeki kıyafetin akışına tam uyum sağlayacak şekilde gerçekleştirin
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080599552080388096/img/bE4mW5QaLWMnMBNe.jpg" width="600" alt="Victoria's Secret Podyum Yürüyüşü">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7845)**
+
+**Author:** [Terry Palmieri](https://x.com/TerryPalmieri14) | **Source:** [Link](https://x.com/TerryPalmieri14/status/2080599601673892045) | **Published:** Jul 24, 2026
+
+---
+### Birinci Şahıs Gözünden Hastanede Doğum
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir annenin hastane ortamında yeni doğan bebeğini kucağına aldığı duygusal anı yakalayan sinematik bir bakış açısı video istemi.
+
+#### 📝 Prompt
+
+```
+Loş bir hastane odasında doğum yapan bir kadının bakış açısı; karnı küçülmüş, karnını örten bir hastane önlüğü giyiyor. Doktor, pembe bir Carhartt bere takılı battaniyeye sarılı kız bebeği annesinin göğsüne bırakıyor. Bebek anneye bakıyor....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080528585798852608/img/FDST6tnvLMNS3QcG.jpg" width="600" alt="Birinci Şahıs Gözünden Hastanede Doğum">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7848)**
+
+**Author:** [yellow flowers by the beaver pond](https://x.com/condnuit) | **Source:** [Link](https://x.com/condnuit/status/2080528603029102790) | **Published:** Jul 24, 2026
+
+---
 ### Terracotta Veil Dancer
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2227,121 +2345,6 @@ Sıradan ev kediniz aniden evrenin parlayan yumaklardan ve dönen gezegenlerden 
 **Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2077496246089007407) | **Published:** Jul 15, 2026
 
 ---
-### Hızlı Motosiklet Lazer Hız Patlaması
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kamera takip ederken hızla ivmelenen ve arkasında lazer ışıkları bırakan bir motosikleti betimleyen yüksek aksiyonlu bir video istemi.
-
-#### 📝 Prompt
-
-```
-Ani ve şiddetli bir hız sarsıntısıyla ön tekerleği hafifçe yerden kesiliyor ve yolda hızla uzaklaşarak kadrajdan çıkıyor; kamera dönüyor ve motosikletin uzaklaşmasını, geride kalan lazer ışıklarının giderek uzaklaşmasını izliyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077494468769460224/img/baZUnDTmidw1C1ma.jpg" width="600" alt="Hızlı Motosiklet Lazer Hız Patlaması">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7308)**
-
-**Author:** [HELL SPAWN](https://x.com/Rjsolo11) | **Source:** [Link](https://x.com/Rjsolo11/status/2077494506916598206) | **Published:** Jul 15, 2026
-
----
-### Chibi Kozmik Yaban Kedisi Cybertruck
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Fütüristik bir Chicago'da Tesla Cybertruck kullanan parlayan bir chibi yaban kedisi ve beyaz bir goldendoodle'ı konu alan, yüksek detaylı Pixar tarzı bir görsel istemi.
-
-#### 📝 Prompt
-
-```
-Kuzey ışıkları ve serbest enerji kıvılcımlarıyla dolu fütüristik bir Chicago gece gökyüzünde, şık bir Tesla Cybertruck içinde yol alan, parlayan aurora tüylü chibi kozmik yaban kedisi; Tesla bobinleri gibi parlayan iplikten kement, kamyon kasasında cıvataları kovalayan oyuncu beyaz goldendoodle, canlı Pixar tarzı, ışıltılar, yüksek detay, sinematik aydınlatma
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077400808505700352/img/bY8rB0bpkkOL8jXA.jpg" width="600" alt="Chibi Kozmik Yaban Kedisi Cybertruck">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7304)**
-
-**Author:** [✨😼 Wildcat](https://x.com/AriadneBorealis) | **Source:** [Link](https://x.com/AriadneBorealis/status/2077403087392633198) | **Published:** Jul 15, 2026
-
----
-### Afrika Kayalıklarında Bir Aygır
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Afrika'da gün doğumuna karşı duran, boncuklu mısır örgülü yelelere sahip siyah bir aygırın yer aldığı görkemli bir video istemi.
-
-#### 📝 Prompt
-
-```
-Yelesi mükemmel bir şekilde mısır örgüsü yapılmış, altın boncuklar ve manşetlerle süslenmiş, gün doğumunda uçsuz bucaksız otlaklara bakan antik bir Afrika kayalığının tepesinde duran efsanevi siyah bir aygır. Güçlü, asil ve ruhani; yoğun bir bakışa ve savrulan bir kuyruğa sahip.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077370848516739072/img/GHul4lAb-9gPfy7D.jpg" width="600" alt="Afrika Kayalıklarında Bir Aygır">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7302)**
-
-**Author:** [Jeff Fairow](https://x.com/FairowJeff) | **Source:** [Link](https://x.com/FairowJeff/status/2077370904581956064) | **Published:** Jul 15, 2026
-
----
-### Tarlada Ayçiçekli Ejderha
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir ejderhanın ayçiçekleri arasında neşeyle dolaştığı büyüleyici bir animasyon istemi.
-
-#### 📝 Prompt
-
-```
-Ejderha bir ayçiçeği koparıp kulağının arkasına takar 
-Tarlada gururla dolaşır
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077368328805625856/img/6fZtM1i9PZHFalCx.jpg" width="600" alt="Tarlada Ayçiçekli Ejderha">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7303)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2077368417162830048) | **Published:** Jul 15, 2026
-
----
-### Aydınlık ve Ferah Yatak Odası İç Mekanı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sabah ışığında hafifçe hareket eden perdeleriyle aydınlık ve ferah bir yatak odası için gerçekçi bir video istemi.
-
-#### 📝 Prompt
-
-```
-Fotogerçekçi aydınlık ve ferah yatak odası iç mekanı, ön planda yumuşak beyaz kırışık nevresimlerle dağınık bir yatak, hafifçe hareket eden tül perdeler, hasır komodin, yakında gür yeşil bitkiler, büyük pencerelerden içeri dolan ve gölgeler oluşturan sıcak altın rengi gün ışığı.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077354377153544192/img/tsJn3osrY1KFM0lV.jpg" width="600" alt="Aydınlık ve Ferah Yatak Odası İç Mekanı">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7300)**
-
-**Author:** [Derek Rodrigue](https://x.com/DerekRodriaw2c) | **Source:** [Link](https://x.com/DerekRodriaw2c/status/2077354436221899170) | **Published:** Jul 15, 2026
-
----
-### Kuşlarla Birlikte Geniş Açı Havacılık Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir araba veya uçak sahnesine kuşlar ve motor sesleri gibi öğeler eklemek için kamera ekipmanını belirten teknik bir video istemi.
-
-#### 📝 Prompt
-
-```
-Nikkor 14-24/2.8 ile ultra geniş açı çekim. D3s gövde. kuş ve turbo şarjlı motor sesi ekle
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077315217638207488/img/SAUU4djRZHwtO9mr.jpg" width="600" alt="Kuşlarla Birlikte Geniş Açı Havacılık Sahnesi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7310)**
-
-**Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077318469746372923) | **Published:** Jul 15, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2403,6 +2406,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-25T06:41:01.841Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-25T10:12:41.071Z</sub>
 
 </div>

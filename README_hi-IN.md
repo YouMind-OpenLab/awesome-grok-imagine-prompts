@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2215** |
+| 📝 Total Prompts | **2221** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-25** |
 
@@ -189,6 +189,124 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### डेथ मेटल एनिमेशन और वॉयसओवर
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक नाटकीय वीडियो प्रॉम्प्ट जिसमें एक कैरेक्टर जंजीर खींच रहा है, साथ में भारी डेथ मेटल आवाज़ और बैकग्राउंड म्यूजिक है।
+
+#### 📝 Prompt
+
+```
+बैकग्राउंड में डेथ मेटल संगीत बज रहा है। वह अपनी जंजीर खींचता है और एक भारी पुरुष डेथ मेटल आवाज़ में कहता है: Fun Tiff X made me.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080779171127775232/img/Dl5vN5CQ5SpBFNz3.jpg" width="600" alt="डेथ मेटल एनिमेशन और वॉयसओवर">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7849)**
+
+**Author:** [FUNTIFFX](https://x.com/AbstractTiffany) | **Source:** [Link](https://x.com/AbstractTiffany/status/2080779188098027577) | **Published:** Jul 24, 2026
+
+---
+### पियानो कीज़ शैडो परफॉरमेंस
+
+![한국어](https://img.shields.io/badge/lang-한국어-orange)
+
+> एक क्रिएटिव प्रॉम्प्ट जो पियानो कीज़ जैसी दिखने वाली परछाई को एक एनिमेटेड वीडियो में बदल देता है, जहाँ कीज़ 'चॉपस्टिक्स मार्च' की धुन पर बजती हैं।
+
+#### 📝 Prompt
+
+```
+फोटो में दिख रही परछाई पियानो कीज़ जैसी है; कृपया एक ऐसा वीडियो बनाएं जिसमें कीज़ ऐसे हिलें जैसे कोई उन्हें बजा रहा हो, और बजने वाला संगीत 'चॉपस्टिक्स मार्च' हो।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080752996926054400/img/XebJiDEY-e8vEgUd.jpg" width="600" alt="पियानो कीज़ शैडो परफॉरमेंस">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7850)**
+
+**Author:** [T드라이버](https://x.com/seongwoo0930) | **Source:** [Link](https://x.com/seongwoo0930/status/2080753029775868225) | **Published:** Jul 24, 2026
+
+---
+### लैंडशिप गार्ड डॉग्स साइंस-फिक्शन वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक साइंस-फिक्शन वीडियो प्रॉम्प्ट, जिसमें विशाल गार्ड डॉग्स को म्यूटेंट हाइब्रिड घुसपैठियों से एक लैंडशिप की रक्षा करते हुए दिखाया गया है।
+
+#### 📝 Prompt
+
+```
+लैंडशिप गार्ड डॉग्स 🐕 🐾🐕
+
+जब कोई खतरा महसूस होता है, तो ये कुत्ते आकार में बड़े हो जाते हैं और एक शक्तिशाली शॉक वेव छोड़ते हैं, जो घुसपैठियों को पंगु बना देती है। ये घुसपैठिए म्यूटेंट लकड़बग्घे (hyenas) हैं, जो जिराफ के साथ क्रॉस-ब्रीड हैं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080740252281348096/img/LqQsozrWA4MZsJ9Y.jpg" width="600" alt="लैंडशिप गार्ड डॉग्स साइंस-फिक्शन वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7846)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2080740307377750343) | **Published:** Jul 24, 2026
+
+---
+### विद्रोही रेसर व्हीली वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक रेसर का डायनामिक वीडियो प्रॉम्प्ट, जिसमें वह व्हीली करते हुए और भीड़ से दूर तेजी से जाते समय एक विद्रोही इशारा कर रहा है।
+
+#### 📝 Prompt
+
+```
+रास्ता छोड़ो 🖕
+
+रेसर व्हीली करते हुए तेजी से आगे बढ़ता है, अपना बायां हाथ हवा में उठाकर दर्शकों को बीच वाली उंगली (मिडल फिंगर) दिखाता है 🖕।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080719958581874688/img/YfP2U7CUY1SGXkfu.jpg" width="600" alt="विद्रोही रेसर व्हीली वीडियो">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7847)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2080720053968789504) | **Published:** Jul 24, 2026
+
+---
+### Victoria's Secret रनवे वॉक
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> फैशन शो के दृश्य के लिए एक विस्तृत वीडियो प्रॉम्प्ट, जिसमें मॉडल की चाल और पोशाक के फ्लो के बारे में विशिष्ट निर्देश दिए गए हैं।
+
+#### 📝 Prompt
+
+```
+Victoria's Secret रनवे मॉडल की तरह संगीत के साथ शुरुआत करें, और उसके द्वारा पहनी गई पोशाक के फ्लो के साथ हर चाल को सटीक रूप से प्रस्तुत करें।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080599552080388096/img/bE4mW5QaLWMnMBNe.jpg" width="600" alt="Victoria's Secret रनवे वॉक">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7845)**
+
+**Author:** [Terry Palmieri](https://x.com/TerryPalmieri14) | **Source:** [Link](https://x.com/TerryPalmieri14/status/2080599601673892045) | **Published:** Jul 24, 2026
+
+---
+### फर्स्ट पर्सन पर्सपेक्टिव हॉस्पिटल बर्थ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सिनेमैटिक पॉइंट-ऑफ-व्यू वीडियो प्रॉम्प्ट, जो अस्पताल के माहौल में एक माँ द्वारा अपने नवजात शिशु को गोद में लेने के भावनात्मक क्षण को दर्शाता है।
+
+#### 📝 Prompt
+
+```
+एक धुंधले अस्पताल के कमरे में प्रसव करती महिला का पॉइंट ऑफ व्यू, उसका पेट छोटा है और उसने पेट को ढंकने वाला हॉस्पिटल गाउन पहना हुआ है। डॉक्टर गुलाबी कारहार्ट टोपी (carhart toque) में लिपटे हुए बच्ची को उसकी छाती पर रखता है। बच्चा माँ की ओर देख रहा है....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080528585798852608/img/FDST6tnvLMNS3QcG.jpg" width="600" alt="फर्स्ट पर्सन पर्सपेक्टिव हॉस्पिटल बर्थ">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7848)**
+
+**Author:** [yellow flowers by the beaver pond](https://x.com/condnuit) | **Source:** [Link](https://x.com/condnuit/status/2080528603029102790) | **Published:** Jul 24, 2026
+
+---
 ### टेराकोटा वेल डांसर
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2226,121 +2344,6 @@ Grok द्वारा बनाई गई उस स्थिर छवि क
 **Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2077496246089007407) | **Published:** Jul 15, 2026
 
 ---
-### तेज़ मोटरसाइकिल लेज़र स्पीड बर्स्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक हाई-एक्शन वीडियो प्रॉम्प्ट जो एक मोटरसाइकिल को तेज़ी से गति पकड़ते हुए और पीछे लेज़र लाइट छोड़ते हुए दिखाता है, जबकि कैमरा उसका पीछा करता है।
-
-#### 📝 Prompt
-
-```
-अचानक तेज़ रफ़्तार के झटके के साथ, उसका अगला पहिया थोड़ा ऊपर उठता है, और वह सड़क पर तेज़ी से आगे निकल जाता है। कैमरा मुड़ता है और उसे दूर जाते हुए देखता है, जहाँ लेज़र लाइटें धीरे-धीरे ओझल हो रही हैं।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077494468769460224/img/baZUnDTmidw1C1ma.jpg" width="600" alt="तेज़ मोटरसाइकिल लेज़र स्पीड बर्स्ट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7308)**
-
-**Author:** [HELL SPAWN](https://x.com/Rjsolo11) | **Source:** [Link](https://x.com/Rjsolo11/status/2077494506916598206) | **Published:** Jul 15, 2026
-
----
-### चिबी कॉस्मिक वाइल्डकैट साइबरट्रक
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> पिक्सर-शैली का एक उच्च-विवरण वाला प्रॉम्प्ट, जिसमें एक चमकती हुई चिबी वाइल्डकैट और एक सफेद गोल्डनडूडल भविष्य के शिकागो में टेस्ला साइबरट्रक की सवारी कर रहे हैं।
-
-#### 📝 Prompt
-
-```
-चमकती हुई ऑरोरा फर वाली चिबी कॉस्मिक वाइल्डकैट, भविष्य के शिकागो के रात के आसमान में एक स्लीक टेस्ला साइबरट्रक की सवारी कर रही है, जो नॉर्दर्न लाइट्स और फ्री एनर्जी स्पार्क्स से भरा है, टेस्ला कॉइल्स की तरह चमकता हुआ यार्न लासो, ट्रक बेड में बोल्ट का पीछा करता चंचल सफेद गोल्डनडूडल, जीवंत पिक्सर-शैली, स्पार्कल, उच्च विवरण, सिनेमैटिक लाइटिंग
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077400808505700352/img/bY8rB0bpkkOL8jXA.jpg" width="600" alt="चिबी कॉस्मिक वाइल्डकैट साइबरट्रक">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7304)**
-
-**Author:** [✨😼 Wildcat](https://x.com/AriadneBorealis) | **Source:** [Link](https://x.com/AriadneBorealis/status/2077403087392633198) | **Published:** Jul 15, 2026
-
----
-### अफ्रीकी चट्टान पर स्टैलियन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> अफ्रीका में सूर्योदय के समय एक चट्टान पर खड़े, मोतियों वाली कॉर्नरो (braided cornrows) वाले काले स्टैलियन का एक शानदार वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-एक पौराणिक काला स्टैलियन जिसके अयाल (mane) में पूरी तरह से गुंथे हुए कॉर्नरो हैं, जो सोने के मोतियों और कफ से सजे हैं। वह सूर्योदय के समय घास के अंतहीन मैदानों को देखते हुए एक प्राचीन अफ्रीकी चट्टान पर खड़ा है। शक्तिशाली, कुलीन और आध्यात्मिक, जिसकी नजरें तेज हैं और पूंछ हवा में लहरा रही है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077370848516739072/img/GHul4lAb-9gPfy7D.jpg" width="600" alt="अफ्रीकी चट्टान पर स्टैलियन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7302)**
-
-**Author:** [Jeff Fairow](https://x.com/FairowJeff) | **Source:** [Link](https://x.com/FairowJeff/status/2077370904581956064) | **Published:** Jul 15, 2026
-
----
-### खेत में सूरजमुखी के साथ ड्रैगन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक आकर्षक एनिमेशन प्रॉम्प्ट जहाँ एक ड्रैगन सूरजमुखी के खेत में उछल-कूद कर रहा है।
-
-#### 📝 Prompt
-
-```
-ड्रैगन ने एक सूरजमुखी तोड़ा और उसे अपने कान के पीछे लगा लिया 
-गर्व के साथ खेत में उछल-कूद कर रहा है
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077368328805625856/img/6fZtM1i9PZHFalCx.jpg" width="600" alt="खेत में सूरजमुखी के साथ ड्रैगन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7303)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2077368417162830048) | **Published:** Jul 15, 2026
-
----
-### उज्ज्वल और हवादार बेडरूम का इंटीरियर
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> सुबह की रोशनी में हिलते हुए मुलायम पर्दों वाले एक उज्ज्वल और हवादार बेडरूम के लिए एक यथार्थवादी वीडियो प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-फोटो-रियलिस्टिक उज्ज्वल और हवादार बेडरूम का इंटीरियर, अग्रभूमि में मुलायम सफेद सिलवटों वाली चादरों के साथ बिना बना हुआ बिस्तर, धीरे-धीरे हिलते हुए पारभासी पर्दे, विकर नाइटस्टैंड, पास में हरे-भरे पौधे, बड़ी खिड़कियों से आती गर्म सुनहरी धूप और पड़ती हुई परछाइयाँ।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077354377153544192/img/tsJn3osrY1KFM0lV.jpg" width="600" alt="उज्ज्वल और हवादार बेडरूम का इंटीरियर">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7300)**
-
-**Author:** [Derek Rodrigue](https://x.com/DerekRodriaw2c) | **Source:** [Link](https://x.com/DerekRodriaw2c/status/2077354436221899170) | **Published:** Jul 15, 2026
-
----
-### पक्षियों के साथ विमानन दृश्य का वाइड शॉट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक तकनीकी वीडियो प्रॉम्प्ट जो कैमरा उपकरणों को निर्दिष्ट करता है ताकि कार या विमान के दृश्य में पक्षियों और इंजन की आवाज़ जैसे तत्वों को जोड़ा जा सके।
-
-#### 📝 Prompt
-
-```
-Nikkor 14-24/2.8 के साथ अल्ट्रा वाइड शॉट। D3s बॉडी। पक्षी और टर्बो चार्ज्ड इंजन का शोर जोड़ें
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077315217638207488/img/SAUU4djRZHwtO9mr.jpg" width="600" alt="पक्षियों के साथ विमानन दृश्य का वाइड शॉट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7310)**
-
-**Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077318469746372923) | **Published:** Jul 15, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2402,6 +2405,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-25T06:40:53.203Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-25T10:12:29.993Z</sub>
 
 </div>

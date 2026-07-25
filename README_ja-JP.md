@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2215** |
+| 📝 プロンプト総数 | **2221** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-07-25** |
 
@@ -189,6 +189,124 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### デスメタル風アニメーション（ボイスオーバー付き）
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> キャラクターが鎖を強く引く様子を、重厚なデスメタル調のボイスとBGMで演出したドラマチックな動画プロンプトです。
+
+#### 📝 プロンプト
+
+```
+背景にはデスメタルが流れている。彼が鎖を強く引き、重厚な男性のデスメタルボイスでこう言う：「Fun Tiff X が私を作った。」
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080779171127775232/img/Dl5vN5CQ5SpBFNz3.jpg" width="600" alt="デスメタル風アニメーション（ボイスオーバー付き）">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7849)**
+
+**作者:** [FUNTIFFX](https://x.com/AbstractTiffany) | **ソース:** [Link](https://x.com/AbstractTiffany/status/2080779188098027577) | **公開日:** Jul 24, 2026
+
+---
+### ピアノの鍵盤の影のパフォーマンス
+
+![한국어](https://img.shields.io/badge/lang-한국어-orange)
+
+> ピアノの鍵盤に見える影を、楽曲「チョップスティック」に合わせて演奏されているアニメーション動画に変換するクリエイティブなプロンプトです。
+
+#### 📝 プロンプト
+
+```
+写真の影がピアノの鍵盤のように見えます。この鍵盤が誰かに演奏されているかのように動き、楽曲「チョップスティック」が流れる動画を作成してください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080752996926054400/img/XebJiDEY-e8vEgUd.jpg" width="600" alt="ピアノの鍵盤の影のパフォーマンス">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7850)**
+
+**作者:** [T드라이버](https://x.com/seongwoo0930) | **ソース:** [Link](https://x.com/seongwoo0930/status/2080753029775868225) | **公開日:** Jul 24, 2026
+
+---
+### ランドシップの番犬 SF 動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 巨大な番犬がミュータントの侵入者からランドシップを守る様子を描いた SF 動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+ランドシップの番犬 🐕 🐾🐕
+
+脅威を察知すると、2 匹の番犬は巨大化し、強力な衝撃波を放って侵入者を無力化します。侵入者はキリンとハイエナが掛け合わさったミュータントです。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080740252281348096/img/LqQsozrWA4MZsJ9Y.jpg" width="600" alt="ランドシップの番犬 SF 動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7846)**
+
+**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **ソース:** [Link](https://x.com/PhilipCarrn7711/status/2080740307377750343) | **公開日:** Jul 24, 2026
+
+---
+### 反抗的なレーサーのウィリー走行動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 群衆から猛スピードで走り去りながら、ウィリー走行をして挑発的なジェスチャーをするレーサーのダイナミックな動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+どきな 🖕
+
+レーサーがウィリー走行で走り去りながら、左腕を突き上げ、見物人に対して中指を立てて挑発している 🖕。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080719958581874688/img/YfP2U7CUY1SGXkfu.jpg" width="600" alt="反抗的なレーサーのウィリー走行動画">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7847)**
+
+**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **ソース:** [Link](https://x.com/PhilipCarrn7711/status/2080720053968789504) | **公開日:** Jul 24, 2026
+
+---
+### Victoria's Secret のランウェイウォーキング
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> モデルの動きや衣装の揺れ方に関する具体的な指示を含めた、ファッションショーシーンのための詳細な動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+Victoria's Secret のランウェイモデルのような音楽を加え、着用している衣装の動きに合わせて、一歩一歩正確に歩く様子を表現してください
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080599552080388096/img/bE4mW5QaLWMnMBNe.jpg" width="600" alt="Victoria's Secret のランウェイウォーキング">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7845)**
+
+**作者:** [Terry Palmieri](https://x.com/TerryPalmieri14) | **ソース:** [Link](https://x.com/TerryPalmieri14/status/2080599601673892045) | **公開日:** Jul 24, 2026
+
+---
+### 病院での出産：一人称視点
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 病院で母親が生まれたばかりの赤ちゃんを抱く感動的な瞬間を捉えた、シネマティックな一人称視点の動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+薄暗い病室で出産する女性の一人称視点。お腹は小さく、お腹を覆う病院着を着用している。医師が、ピンクの Carhartt のニット帽をかぶり、ブランケットに包まれた女の赤ちゃんを母親の胸元に乗せる。赤ちゃんは母親の方を向いている……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080528585798852608/img/FDST6tnvLMNS3QcG.jpg" width="600" alt="病院での出産：一人称視点">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7848)**
+
+**作者:** [yellow flowers by the beaver pond](https://x.com/condnuit) | **ソース:** [Link](https://x.com/condnuit/status/2080528603029102790) | **公開日:** Jul 24, 2026
+
+---
 ### テラコッタ・ヴェール・ダンサー
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2227,121 +2345,6 @@ Grok で作成された「イングランドに勝ったぞ」という音声が
 **作者:** [SophieZX](https://x.com/Z_XSophie) | **ソース:** [Link](https://x.com/Z_XSophie/status/2077496246089007407) | **公開日:** Jul 15, 2026
 
 ---
-### 高速バイクのレーザー加速
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> バイクが急加速し、レーザーの光跡を残しながら走り去る様子をカメラが追う、躍動感あふれる動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-突然の猛烈な加速とともに前輪がわずかに浮き上がり、バイクは猛スピードでフレームの外へと走り去る。カメラが向きを変えると、遠ざかっていくバイクと、次第に小さくなっていくレーザーの光跡が映し出される。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077494468769460224/img/baZUnDTmidw1C1ma.jpg" width="600" alt="高速バイクのレーザー加速">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7308)**
-
-**作者:** [HELL SPAWN](https://x.com/Rjsolo11) | **ソース:** [Link](https://x.com/Rjsolo11/status/2077494506916598206) | **公開日:** Jul 15, 2026
-
----
-### ちびっ子宇宙ワイルドキャットと Cybertruck
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 光り輝くちびっ子ワイルドキャットと白いゴールデンドゥードルが、未来のシカゴを舞台に Tesla Cybertruck に乗っている様子を描いた、ピクサー風の高精細プロンプト。
-
-#### 📝 プロンプト
-
-```
-オーロラのように輝く毛並みのちびっ子宇宙ワイルドキャットが、洗練された Tesla Cybertruck に乗り、オーロラとフリーエネルギーの火花が舞う未来のシカゴの夜空を駆け抜ける。テスラコイルのように光る毛糸の投げ縄、荷台でボルトを追いかける遊び心あふれる白いゴールデンドゥードル。鮮やかなピクサー風、きらめき、高精細、シネマティックなライティング
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077400808505700352/img/bY8rB0bpkkOL8jXA.jpg" width="600" alt="ちびっ子宇宙ワイルドキャットと Cybertruck">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7304)**
-
-**作者:** [✨😼 Wildcat](https://x.com/AriadneBorealis) | **ソース:** [Link](https://x.com/AriadneBorealis/status/2077403087392633198) | **公開日:** Jul 15, 2026
-
----
-### アフリカの崖に立つ種馬
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ビーズを編み込んだコーンロウの黒い種馬が、アフリカの日の出を見下ろす壮大なビデオプロンプト。
-
-#### 📝 プロンプト
-
-```
-たてがみが完璧に編み込まれたコーンロウで、金のビーズやカフで飾られた伝説的な黒い種馬が、日の出を迎える広大な草原を見下ろすアフリカの古代の崖の上に立っている。力強く、高貴で、神秘的。鋭い眼差しと、なびく尾が印象的。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077370848516739072/img/GHul4lAb-9gPfy7D.jpg" width="600" alt="アフリカの崖に立つ種馬">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7302)**
-
-**作者:** [Jeff Fairow](https://x.com/FairowJeff) | **ソース:** [Link](https://x.com/FairowJeff/status/2077370904581956064) | **公開日:** Jul 15, 2026
-
----
-### ひまわり畑のドラゴン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ドラゴンがひまわり畑を駆け抜ける、魅力的なアニメーション用プロンプトです。
-
-#### 📝 プロンプト
-
-```
-ドラゴンがひまわりを摘んで耳の後ろに飾る 
-誇らしげに野原を駆け抜ける
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077368328805625856/img/6fZtM1i9PZHFalCx.jpg" width="600" alt="ひまわり畑のドラゴン">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7303)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **ソース:** [Link](https://x.com/HawkinsonLindy/status/2077368417162830048) | **公開日:** Jul 15, 2026
-
----
-### 明るく開放的なベッドルームのインテリア
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 朝の光の中で柔らかなカーテンが揺れる、明るく開放的なベッドルームを表現するためのリアルな動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-フォトリアルな明るく開放的なベッドルームのインテリア。手前にはシワのある柔らかな白い寝具がかけられたベッド、優しく揺れるシアーカーテン、籐製のナイトスタンド、近くには青々とした観葉植物。大きな窓から温かな黄金色の陽光が差し込み、影を落としている。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077354377153544192/img/tsJn3osrY1KFM0lV.jpg" width="600" alt="明るく開放的なベッドルームのインテリア">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7300)**
-
-**作者:** [Derek Rodrigue](https://x.com/DerekRodriaw2c) | **ソース:** [Link](https://x.com/DerekRodriaw2c/status/2077354436221899170) | **公開日:** Jul 15, 2026
-
----
-### 鳥が映り込む航空機のワイドショット
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> カメラ機材を指定し、車や航空機のシーンに鳥やターボエンジンの音などの要素を追加するための技術的なビデオプロンプトです。
-
-#### 📝 プロンプト
-
-```
-Nikkor 14-24/2.8 を使用した超広角ショット。D3s ボディ。鳥とターボチャージャー付きエンジンの音を追加
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077315217638207488/img/SAUU4djRZHwtO9mr.jpg" width="600" alt="鳥が映り込む航空機のワイドショット">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7310)**
-
-**作者:** [Erkki Heliö](https://x.com/erkki_helio) | **ソース:** [Link](https://x.com/erkki_helio/status/2077318469746372923) | **公開日:** Jul 15, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2403,6 +2406,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-25T06:40:48.628Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-25T10:12:23.798Z</sub>
 
 </div>

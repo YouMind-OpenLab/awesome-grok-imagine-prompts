@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2215** |
+| 📝 Total Prompts | **2221** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-25** |
 
@@ -189,6 +189,124 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Hoạt ảnh Death Metal kèm lồng tiếng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt đầy kịch tính với nhân vật đang giật mạnh sợi xích, đi kèm với giọng nói trầm kiểu death metal và nhạc nền.
+
+#### 📝 Prompt
+
+```
+Nhạc death metal đang phát ở nền. Anh ta giật mạnh sợi xích và nói bằng giọng nam trầm kiểu death metal: Fun Tiff X đã tạo ra tôi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080779171127775232/img/Dl5vN5CQ5SpBFNz3.jpg" width="600" alt="Hoạt ảnh Death Metal kèm lồng tiếng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7849)**
+
+**Author:** [FUNTIFFX](https://x.com/AbstractTiffany) | **Source:** [Link](https://x.com/AbstractTiffany/status/2080779188098027577) | **Published:** Jul 24, 2026
+
+---
+### Màn trình diễn bóng hình phím đàn piano
+
+![한국어](https://img.shields.io/badge/lang-한국어-orange)
+
+> Một câu lệnh sáng tạo giúp biến chiếc bóng có hình dạng giống phím đàn piano thành một video hoạt họa, nơi các phím đàn được chơi theo giai điệu của bản nhạc Chopsticks March.
+
+#### 📝 Prompt
+
+```
+Chiếc bóng trong ảnh trông giống như các phím đàn piano; hãy tạo một video trong đó các phím đàn chuyển động như thể đang có người chơi, và bản nhạc được phát là Chopsticks March.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080752996926054400/img/XebJiDEY-e8vEgUd.jpg" width="600" alt="Màn trình diễn bóng hình phím đàn piano">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7850)**
+
+**Author:** [T드라이버](https://x.com/seongwoo0930) | **Source:** [Link](https://x.com/seongwoo0930/status/2080753029775868225) | **Published:** Jul 24, 2026
+
+---
+### Video khoa học viễn tưởng về chó bảo vệ tàu bộ hành
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý (prompt) video khoa học viễn tưởng mô tả những chú chó bảo vệ khổng lồ đang canh giữ một chiếc tàu bộ hành khỏi những kẻ xâm nhập là các sinh vật lai đột biến.
+
+#### 📝 Prompt
+
+```
+Chó bảo vệ tàu bộ hành 🐕 🐾🐕
+
+Khi cảm nhận được mối đe dọa, cặp chó này sẽ tăng kích thước và phát ra một làn sóng xung kích làm tê liệt những kẻ xâm nhập, vốn là những con linh cẩu đột biến lai với hươu cao cổ.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080740252281348096/img/LqQsozrWA4MZsJ9Y.jpg" width="600" alt="Video khoa học viễn tưởng về chó bảo vệ tàu bộ hành">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7846)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2080740307377750343) | **Published:** Jul 24, 2026
+
+---
+### Video tay đua nổi loạn bốc đầu xe
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt năng động về một tay đua đang thực hiện cú bốc đầu xe và có hành động thách thức khi tăng tốc rời khỏi đám đông.
+
+#### 📝 Prompt
+
+```
+Tránh ra nào 🖕
+
+Tay đua tăng tốc bốc đầu xe, đầy thách thức giơ cánh tay trái lên và giơ ngón tay thối về phía những người đứng xem 🖕.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080719958581874688/img/YfP2U7CUY1SGXkfu.jpg" width="600" alt="Video tay đua nổi loạn bốc đầu xe">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7847)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2080720053968789504) | **Published:** Jul 24, 2026
+
+---
+### Sải bước trên sàn diễn Victoria's Secret
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) video chi tiết cho cảnh quay trình diễn thời trang với các hướng dẫn cụ thể về chuyển động của người mẫu và độ bay bổng của trang phục.
+
+#### 📝 Prompt
+
+```
+Bắt đầu thêm nhạc theo phong cách người mẫu sàn diễn Victoria's Secret, thực hiện từng chuyển động một cách chính xác theo độ bay bổng của trang phục mà cô ấy đang mặc
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080599552080388096/img/bE4mW5QaLWMnMBNe.jpg" width="600" alt="Sải bước trên sàn diễn Victoria's Secret">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7845)**
+
+**Author:** [Terry Palmieri](https://x.com/TerryPalmieri14) | **Source:** [Link](https://x.com/TerryPalmieri14/status/2080599601673892045) | **Published:** Jul 24, 2026
+
+---
+### Góc nhìn thứ nhất về cảnh sinh con tại bệnh viện
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video điện ảnh dưới góc nhìn thứ nhất, ghi lại khoảnh khắc đầy cảm xúc khi người mẹ đón đứa con mới chào đời trong bối cảnh bệnh viện.
+
+#### 📝 Prompt
+
+```
+Góc nhìn của một người phụ nữ đang sinh con trong căn phòng bệnh viện mờ ảo, bụng cô ấy đã nhỏ lại, mặc áo choàng bệnh viện che phần bụng. Bác sĩ đặt bé gái được quấn trong chăn và đội chiếc mũ len màu hồng lên ngực cô. Em bé đang hướng mặt về phía mẹ....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080528585798852608/img/FDST6tnvLMNS3QcG.jpg" width="600" alt="Góc nhìn thứ nhất về cảnh sinh con tại bệnh viện">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7848)**
+
+**Author:** [yellow flowers by the beaver pond](https://x.com/condnuit) | **Source:** [Link](https://x.com/condnuit/status/2080528603029102790) | **Published:** Jul 24, 2026
+
+---
 ### Vũ công Terracotta Veil
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2227,121 +2345,6 @@ Khi chú mèo nhà bình thường của bạn bất ngờ phát hiện ra vũ t
 **Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2077496246089007407) | **Published:** Jul 15, 2026
 
 ---
-### Xe mô tô tăng tốc nhanh với hiệu ứng tia laser
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt hành động tốc độ cao mô tả một chiếc xe mô tô tăng tốc nhanh chóng với các vệt sáng laser theo sau khi máy quay đuổi theo.
-
-#### 📝 Prompt
-
-```
-Với một cú bứt tốc đột ngột đầy mạnh mẽ, bánh trước của xe hơi nhấc lên, chiếc xe lao vút đi trên đường ra khỏi khung hình, máy quay xoay theo và nhìn thấy chiếc xe đang dần xa khuất, những vệt sáng laser kéo dài ngày càng mờ dần ở phía xa
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077494468769460224/img/baZUnDTmidw1C1ma.jpg" width="600" alt="Xe mô tô tăng tốc nhanh với hiệu ứng tia laser">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7308)**
-
-**Author:** [HELL SPAWN](https://x.com/Rjsolo11) | **Source:** [Link](https://x.com/Rjsolo11/status/2077494506916598206) | **Published:** Jul 15, 2026
-
----
-### Chibi Cosmic Wildcat Cybertruck
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh phong cách Pixar đầy chi tiết, mô tả một chú mèo hoang chibi phát sáng và một chú chó goldendoodle trắng đang ngồi trên chiếc Tesla Cybertruck đi qua thành phố Chicago tương lai.
-
-#### 📝 Prompt
-
-```
-Chú mèo hoang vũ trụ chibi với bộ lông phát sáng như cực quang đang ngồi trên chiếc Tesla Cybertruck bóng bẩy, lướt qua bầu trời đêm Chicago tương lai đầy ánh sáng phương bắc và những tia năng lượng tự do, chiếc dây thừng bằng len phát sáng như cuộn dây Tesla, chú chó goldendoodle trắng tinh nghịch đang đuổi theo những tia chớp ở thùng xe, phong cách Pixar sống động, lấp lánh, chi tiết cao, ánh sáng điện ảnh
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077400808505700352/img/bY8rB0bpkkOL8jXA.jpg" width="600" alt="Chibi Cosmic Wildcat Cybertruck">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7304)**
-
-**Author:** [✨😼 Wildcat](https://x.com/AriadneBorealis) | **Source:** [Link](https://x.com/AriadneBorealis/status/2077403087392633198) | **Published:** Jul 15, 2026
-
----
-### Chú ngựa chiến trên vách đá châu Phi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt đầy ấn tượng về chú ngựa chiến màu đen với bờm tết kiểu cornrow đính hạt, đang nhìn ra khung cảnh bình minh tại châu Phi.
-
-#### 📝 Prompt
-
-```
-Một chú ngựa chiến màu đen huyền thoại với bờm được tết kiểu cornrow hoàn hảo, trang trí bằng các hạt và vòng vàng, đứng trên vách đá châu Phi cổ xưa nhìn ra những đồng cỏ bất tận lúc bình minh. Toát lên vẻ mạnh mẽ, quý phái và đầy linh thiêng, với ánh nhìn sắc bén và chiếc đuôi tung bay trong gió.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077370848516739072/img/GHul4lAb-9gPfy7D.jpg" width="600" alt="Chú ngựa chiến trên vách đá châu Phi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7302)**
-
-**Author:** [Jeff Fairow](https://x.com/FairowJeff) | **Source:** [Link](https://x.com/FairowJeff/status/2077370904581956064) | **Published:** Jul 15, 2026
-
----
-### Rồng cùng hoa hướng dương trên cánh đồng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý hoạt ảnh đầy cuốn hút về chú rồng đang tung tăng dạo chơi trên cánh đồng cùng một bông hoa hướng dương.
-
-#### 📝 Prompt
-
-```
-Chú rồng hái một bông hoa hướng dương và cài lên sau tai 
-Tự hào tung tăng dạo bước trên cánh đồng
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077368328805625856/img/6fZtM1i9PZHFalCx.jpg" width="600" alt="Rồng cùng hoa hướng dương trên cánh đồng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7303)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2077368417162830048) | **Published:** Jul 15, 2026
-
----
-### Nội thất phòng ngủ sáng sủa và thoáng đãng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video chân thực về căn phòng ngủ sáng sủa, thoáng đãng với những tấm rèm mềm mại đung đưa trong ánh nắng buổi sáng.
-
-#### 📝 Prompt
-
-```
-Nội thất phòng ngủ chân thực, sáng sủa và thoáng đãng, giường chưa dọn với bộ chăn ga gối màu trắng mềm mại, nhăn nhẹ ở phía trước, rèm voan mỏng đung đưa nhẹ nhàng, tủ đầu giường bằng mây, cây xanh tươi tốt ở gần đó, ánh nắng vàng ấm áp tràn qua những ô cửa sổ lớn và đổ bóng xuống căn phòng.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077354377153544192/img/tsJn3osrY1KFM0lV.jpg" width="600" alt="Nội thất phòng ngủ sáng sủa và thoáng đãng">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7300)**
-
-**Author:** [Derek Rodrigue](https://x.com/DerekRodriaw2c) | **Source:** [Link](https://x.com/DerekRodriaw2c/status/2077354436221899170) | **Published:** Jul 15, 2026
-
----
-### Cảnh quay hàng không góc rộng với đàn chim
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video kỹ thuật chỉ định thiết bị máy ảnh để thêm các yếu tố như chim và tiếng động cơ vào cảnh quay ô tô hoặc máy bay.
-
-#### 📝 Prompt
-
-```
-Cảnh quay góc siêu rộng với ống kính Nikkor 14-24/2.8. Thân máy D3s. thêm tiếng chim hót và tiếng động cơ tăng áp
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077315217638207488/img/SAUU4djRZHwtO9mr.jpg" width="600" alt="Cảnh quay hàng không góc rộng với đàn chim">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7310)**
-
-**Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077318469746372923) | **Published:** Jul 15, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2403,6 +2406,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-25T06:40:52.058Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-25T10:12:28.197Z</sub>
 
 </div>

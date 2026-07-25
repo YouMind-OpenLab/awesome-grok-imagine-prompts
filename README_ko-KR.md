@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **2215** |
+| 📝 총 프롬프트 수 | **2221** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-07-25** |
 
@@ -189,6 +189,124 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 데스 메탈 애니메이션과 보이스오버
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 깊은 데스 메탈 목소리의 내레이션과 배경 음악이 어우러진, 캐릭터가 사슬을 잡아당기는 드라마틱한 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+배경으로 데스 메탈 음악이 흐릅니다. 그는 사슬을 잡아당기며 굵은 남성 데스 메탈 목소리로 말합니다: Fun Tiff X가 나를 만들었다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080779171127775232/img/Dl5vN5CQ5SpBFNz3.jpg" width="600" alt="데스 메탈 애니메이션과 보이스오버">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7849)**
+
+**작성자:** [FUNTIFFX](https://x.com/AbstractTiffany) | **출처:** [Link](https://x.com/AbstractTiffany/status/2080779188098027577) | **게시일:** Jul 24, 2026
+
+---
+### 피아노 건반 그림자 퍼포먼스
+
+![한국어](https://img.shields.io/badge/lang-한국어-orange)
+
+> 피아노 건반을 닮은 그림자를 '젓가락 행진곡'에 맞춰 연주되는 애니메이션 영상으로 변환하는 창의적인 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+사진 속 그림자가 피아노 건반처럼 보입니다. 누군가 연주하는 것처럼 건반이 움직이고, '젓가락 행진곡'이 흘러나오는 영상으로 만들어 주세요.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080752996926054400/img/XebJiDEY-e8vEgUd.jpg" width="600" alt="피아노 건반 그림자 퍼포먼스">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7850)**
+
+**작성자:** [T드라이버](https://x.com/seongwoo0930) | **출처:** [Link](https://x.com/seongwoo0930/status/2080753029775868225) | **게시일:** Jul 24, 2026
+
+---
+### 랜드십(Landship) 경비견 SF 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 랜드십을 보호하는 거대한 경비견들이 돌연변이 하이브리드 침입자들과 맞서는 모습을 담은 SF 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+랜드십(Landship) 경비견 🐕 🐾🐕
+
+위협이 감지되면 두 마리의 경비견은 몸집이 커지며 강력한 충격파를 발산합니다. 이 충격파는 기린과 교배된 돌연변이 하이에나 형태의 침입자들을 무력화시킵니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080740252281348096/img/LqQsozrWA4MZsJ9Y.jpg" width="600" alt="랜드십(Landship) 경비견 SF 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7846)**
+
+**작성자:** [Philip Carr](https://x.com/PhilipCarrn7711) | **출처:** [Link](https://x.com/PhilipCarrn7711/status/2080740307377750343) | **게시일:** Jul 24, 2026
+
+---
+### 반항적인 레이서의 윌리 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 군중을 뒤로하고 속도를 내며 윌리를 선보이고 반항적인 제스처를 취하는 레이서의 역동적인 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+비켜, 다들 🖕
+
+레이서가 윌리를 하며 속도를 내고, 왼팔을 들어 올려 구경꾼들에게 가운데 손가락을 치켜세우며 반항적으로 질주합니다 🖕.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080719958581874688/img/YfP2U7CUY1SGXkfu.jpg" width="600" alt="반항적인 레이서의 윌리 영상">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7847)**
+
+**작성자:** [Philip Carr](https://x.com/PhilipCarrn7711) | **출처:** [Link](https://x.com/PhilipCarrn7711/status/2080720053968789504) | **게시일:** Jul 24, 2026
+
+---
+### Victoria's Secret 런웨이 워킹
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 모델의 움직임과 의상의 흐름에 대한 구체적인 지침이 포함된 패션쇼 장면용 상세 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+Victoria's Secret 런웨이 모델처럼 승리감 넘치는 음악을 추가하고, 모델이 착용한 의상의 흐름에 맞춰 모든 동작을 정밀하게 연출하세요.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080599552080388096/img/bE4mW5QaLWMnMBNe.jpg" width="600" alt="Victoria's Secret 런웨이 워킹">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7845)**
+
+**작성자:** [Terry Palmieri](https://x.com/TerryPalmieri14) | **출처:** [Link](https://x.com/TerryPalmieri14/status/2080599601673892045) | **게시일:** Jul 24, 2026
+
+---
+### 병원 출산 1인칭 시점
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 병원에서 어머니가 갓 태어난 아기를 품에 안는 감동적인 순간을 담은 영화 같은 1인칭 시점 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+어두운 병실에서 출산하는 여성의 1인칭 시점. 배는 작아졌고 배를 덮은 병원 가운을 입고 있다. 의사가 분홍색 칼하트(Carhartt) 비니를 쓰고 담요에 싸인 여자 아기를 어머니의 가슴 위에 올려놓는다. 아기는 엄마를 바라보고 있다....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080528585798852608/img/FDST6tnvLMNS3QcG.jpg" width="600" alt="병원 출산 1인칭 시점">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7848)**
+
+**작성자:** [yellow flowers by the beaver pond](https://x.com/condnuit) | **출처:** [Link](https://x.com/condnuit/status/2080528603029102790) | **게시일:** Jul 24, 2026
+
+---
 ### 테라코타 베일 댄서
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2227,121 +2345,6 @@ Grok으로 생성된 '우리가 잉글랜드를 이겼다'는 소리가 들리�
 **작성자:** [SophieZX](https://x.com/Z_XSophie) | **출처:** [Link](https://x.com/Z_XSophie/status/2077496246089007407) | **게시일:** Jul 15, 2026
 
 ---
-### 빠른 오토바이 레이저 스피드 버스트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 오토바이가 빠른 속도로 가속하며 레이저 빛을 남기고, 카메라가 이를 따라가는 고액션 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-갑작스러운 속도 변화와 함께 앞바퀴가 살짝 들리고, 오토바이가 도로를 따라 화면 밖으로 빠르게 질주합니다. 카메라가 회전하며 멀어지는 오토바이를 비추고, 레이저 불빛이 점점 더 멀어집니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077494468769460224/img/baZUnDTmidw1C1ma.jpg" width="600" alt="빠른 오토바이 레이저 스피드 버스트">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7308)**
-
-**작성자:** [HELL SPAWN](https://x.com/Rjsolo11) | **출처:** [Link](https://x.com/Rjsolo11/status/2077494506916598206) | **게시일:** Jul 15, 2026
-
----
-### 치비 코스믹 와일드캣 사이버트럭
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 빛나는 치비 와일드캣과 하얀 골든두들이 미래적인 시카고를 배경으로 Tesla Cybertruck을 타고 달리는 모습을 담은 고해상도 픽사 스타일 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-오로라처럼 빛나는 털을 가진 치비 코스믹 와일드캣이 매끄러운 Tesla Cybertruck을 타고 오로라와 자유 에너지 스파크로 가득 찬 미래의 시카고 밤하늘을 달리는 모습, 테슬라 코일처럼 빛나는 실타래 올가미, 트럭 짐칸에서 번개를 쫓는 장난기 많은 하얀 골든두들, 생동감 넘치는 픽사 스타일, 반짝임, 고해상도 디테일, 영화 같은 조명
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077400808505700352/img/bY8rB0bpkkOL8jXA.jpg" width="600" alt="치비 코스믹 와일드캣 사이버트럭">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7304)**
-
-**작성자:** [✨😼 Wildcat](https://x.com/AriadneBorealis) | **출처:** [Link](https://x.com/AriadneBorealis/status/2077403087392633198) | **게시일:** Jul 15, 2026
-
----
-### 아프리카 절벽 위의 종마
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 아프리카의 일출을 내려다보는, 구슬 장식의 콘로 헤어스타일을 한 검은 종마의 웅장한 비디오 프롬프트.
-
-#### 📝 프롬프트
-
-```
-갈기가 완벽하게 땋아진 콘로 스타일이며 금색 구슬과 커프 장식으로 꾸며진 전설적인 검은 종마가 일출 무렵 끝없이 펼쳐진 초원을 내려다보며 고대 아프리카 절벽 위에 서 있습니다. 강렬한 눈빛과 휘날리는 꼬리를 가진, 힘차고 고귀하며 영적인 모습입니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077370848516739072/img/GHul4lAb-9gPfy7D.jpg" width="600" alt="아프리카 절벽 위의 종마">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7302)**
-
-**작성자:** [Jeff Fairow](https://x.com/FairowJeff) | **출처:** [Link](https://x.com/FairowJeff/status/2077370904581956064) | **게시일:** Jul 15, 2026
-
----
-### 들판의 해바라기와 용
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 용이 해바라기가 가득한 들판을 뛰어노는 매력적인 애니메이션 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-용이 해바라기 꽃을 꺾어 귀 뒤에 꽂습니다 
-들판을 자랑스럽게 뛰어다닙니다
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077368328805625856/img/6fZtM1i9PZHFalCx.jpg" width="600" alt="들판의 해바라기와 용">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7303)**
-
-**작성자:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **출처:** [Link](https://x.com/HawkinsonLindy/status/2077368417162830048) | **게시일:** Jul 15, 2026
-
----
-### 밝고 화사한 침실 인테리어
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 아침 햇살에 부드러운 커튼이 흔들리는 밝고 화사한 침실을 위한 사실적인 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-사실적인 밝고 화사한 침실 인테리어, 앞쪽에는 부드러운 흰색 구겨진 침구가 놓인 정리되지 않은 침대, 부드럽게 흔들리는 시스루 커튼, 라탄 협탁, 근처의 무성한 녹색 식물, 큰 창문을 통해 쏟아져 들어와 그림자를 드리우는 따뜻한 황금빛 햇살.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077354377153544192/img/tsJn3osrY1KFM0lV.jpg" width="600" alt="밝고 화사한 침실 인테리어">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7300)**
-
-**작성자:** [Derek Rodrigue](https://x.com/DerekRodriaw2c) | **출처:** [Link](https://x.com/DerekRodriaw2c/status/2077354436221899170) | **게시일:** Jul 15, 2026
-
----
-### 새들이 포함된 항공기 와이드 샷 장면
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 자동차나 항공기 장면에 새와 터보 엔진 소음 같은 요소를 추가하기 위해 카메라 장비를 지정한 기술적 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-Nikkor 14-24/2.8 렌즈를 사용한 울트라 와이드 샷. D3s 바디. 새와 터보 차저 엔진 소음을 추가할 것
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077315217638207488/img/SAUU4djRZHwtO9mr.jpg" width="600" alt="새들이 포함된 항공기 와이드 샷 장면">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7310)**
-
-**작성자:** [Erkki Heliö](https://x.com/erkki_helio) | **출처:** [Link](https://x.com/erkki_helio/status/2077318469746372923) | **게시일:** Jul 15, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2403,6 +2406,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-25T06:40:49.617Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-25T10:12:25.162Z</sub>
 
 </div>

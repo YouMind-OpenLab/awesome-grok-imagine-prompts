@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **2215** |
+| 📝 提示词总数 | **2221** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-07-25** |
 
@@ -189,6 +189,124 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 带有旁白的死亡金属动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个极具戏剧性的视频提示词，画面中角色猛拉锁链，并伴有低沉的死亡金属嗓音和背景音乐。
+
+#### 📝 提示词
+
+```
+背景中播放着死亡金属音乐。他猛地拉动锁链，并用低沉的男性死亡金属嗓音说道：Fun Tiff X 创造了我。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080779171127775232/img/Dl5vN5CQ5SpBFNz3.jpg" width="600" alt="带有旁白的死亡金属动画">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7849)**
+
+**作者:** [FUNTIFFX](https://x.com/AbstractTiffany) | **来源:** [Link](https://x.com/AbstractTiffany/status/2080779188098027577) | **发布时间:** Jul 24, 2026
+
+---
+### 钢琴键影表演
+
+![한국어](https://img.shields.io/badge/lang-한국어-orange)
+
+> 一个创意提示词，将酷似钢琴键的阴影转化为一段动画视频，让琴键随着《筷子进行曲》的旋律弹奏。
+
+#### 📝 提示词
+
+```
+照片中的阴影看起来像钢琴键；请制作一段视频，让琴键动起来，就像有人在弹奏一样，并配上《筷子进行曲》的音乐。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080752996926054400/img/XebJiDEY-e8vEgUd.jpg" width="600" alt="钢琴键影表演">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7850)**
+
+**作者:** [T드라이버](https://x.com/seongwoo0930) | **来源:** [Link](https://x.com/seongwoo0930/status/2080753029775868225) | **发布时间:** Jul 24, 2026
+
+---
+### 陆地战舰护卫犬科幻视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段科幻视频提示词，描绘了巨型护卫犬保护陆地战舰免受变异杂交入侵者侵害的场景。
+
+#### 📝 提示词
+
+```
+陆地战舰护卫犬 🐕 🐾🐕
+
+当感知到威胁时，这对护卫犬体型会迅速增大，并释放出足以使入侵者瘫痪的冲击波。这些入侵者是长颈鹿与鬣狗的变异杂交体。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080740252281348096/img/LqQsozrWA4MZsJ9Y.jpg" width="600" alt="陆地战舰护卫犬科幻视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7846)**
+
+**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **来源:** [Link](https://x.com/PhilipCarrn7711/status/2080740307377750343) | **发布时间:** Jul 24, 2026
+
+---
+### 叛逆赛车手翘头视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段动态视频提示词，展示了一名赛车手在人群中加速驶离时，表演翘头特技并做出挑衅手势。
+
+#### 📝 提示词
+
+```
+都给我让开 🖕
+
+赛车手加速驶离并表演翘头特技，同时挑衅地举起左臂，向路人竖起中指 🖕。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080719958581874688/img/YfP2U7CUY1SGXkfu.jpg" width="600" alt="叛逆赛车手翘头视频">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7847)**
+
+**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **来源:** [Link](https://x.com/PhilipCarrn7711/status/2080720053968789504) | **发布时间:** Jul 24, 2026
+
+---
+### Victoria's Secret 走秀步态
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一份详细的时尚秀场景视频提示词，包含关于模特动作和服装动态的具体指令。
+
+#### 📝 提示词
+
+```
+加入一些类似 Victoria's Secret 走秀的音乐，让模特精准地配合身上服装的律动完成每一个动作
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080599552080388096/img/bE4mW5QaLWMnMBNe.jpg" width="600" alt="Victoria's Secret 走秀步态">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7845)**
+
+**作者:** [Terry Palmieri](https://x.com/TerryPalmieri14) | **来源:** [Link](https://x.com/TerryPalmieri14/status/2080599601673892045) | **发布时间:** Jul 24, 2026
+
+---
+### 第一人称视角：医院分娩
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段电影质感的 POV 视频提示词，捕捉了母亲在医院环境中迎接新生儿的感人瞬间。
+
+#### 📝 提示词
+
+```
+第一人称视角，一位女性在昏暗的医院病房中分娩，腹部隆起较小，身穿遮盖腹部的病号服。医生将包裹在毯子里、戴着粉色 Carhartt 针织帽的女婴放在她的胸口。婴儿面向母亲……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080528585798852608/img/FDST6tnvLMNS3QcG.jpg" width="600" alt="第一人称视角：医院分娩">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7848)**
+
+**作者:** [yellow flowers by the beaver pond](https://x.com/condnuit) | **来源:** [Link](https://x.com/condnuit/status/2080528603029102790) | **发布时间:** Jul 24, 2026
+
+---
 ### 陶土面纱舞者
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2228,121 +2346,6 @@ Lila 驾驶着一艘白色小帆船在平静的切萨皮克湾上轻柔航行，
 **作者:** [SophieZX](https://x.com/Z_XSophie) | **来源:** [Link](https://x.com/Z_XSophie/status/2077496246089007407) | **发布时间:** Jul 15, 2026
 
 ---
-### 高速摩托车激光极速冲刺
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段高动态视频提示词，描述了一辆摩托车在镜头跟随下极速加速，并伴有拖尾激光灯光的效果。
-
-#### 📝 提示词
-
-```
-随着一阵猛烈的加速，前轮微微抬起，他疾驰而去冲出画面，镜头随之转动，看到他在远处渐行渐远，拖尾的激光灯光也随之远去
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077494468769460224/img/baZUnDTmidw1C1ma.jpg" width="600" alt="高速摩托车激光极速冲刺">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7308)**
-
-**作者:** [HELL SPAWN](https://x.com/Rjsolo11) | **来源:** [Link](https://x.com/Rjsolo11/status/2077494506916598206) | **发布时间:** Jul 15, 2026
-
----
-### Q 版宇宙野猫与 Cybertruck
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个高细节的皮克斯风格提示词，描绘了一只发光的 Q 版野猫和一只白色黄金猎犬乘坐 Tesla Cybertruck 穿梭在未来感芝加哥的场景。
-
-#### 📝 提示词
-
-```
-拥有极光般发光皮毛的 Q 版宇宙野猫，乘坐着炫酷的 Tesla Cybertruck 穿梭在充满北极光和自由能源火花的未来芝加哥夜空下，毛线套索像特斯拉线圈一样闪烁，顽皮的白色黄金猎犬在卡车后斗追逐闪电，充满活力的皮克斯风格，闪光效果，高细节，电影级光影
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077400808505700352/img/bY8rB0bpkkOL8jXA.jpg" width="600" alt="Q 版宇宙野猫与 Cybertruck">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7304)**
-
-**作者:** [✨😼 Wildcat](https://x.com/AriadneBorealis) | **来源:** [Link](https://x.com/AriadneBorealis/status/2077403087392633198) | **发布时间:** Jul 15, 2026
-
----
-### 非洲悬崖上的骏马
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段壮丽的视频提示词：一匹鬃毛编成玉米垄发辫的黑马，在非洲日出时分俯瞰大地。
-
-#### 📝 提示词
-
-```
-一匹传奇般的黑马，鬃毛被精心编织成玉米垄发辫，并装饰着金色的珠子和发箍，伫立在古老的非洲悬崖之上，俯瞰着日出时分一望无际的草原。它神情威严、高贵且充满灵性，目光深邃，马尾随风飘动。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077370848516739072/img/GHul4lAb-9gPfy7D.jpg" width="600" alt="非洲悬崖上的骏马">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7302)**
-
-**作者:** [Jeff Fairow](https://x.com/FairowJeff) | **来源:** [Link](https://x.com/FairowJeff/status/2077370904581956064) | **发布时间:** Jul 15, 2026
-
----
-### 花田里的龙
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个迷人的动画提示词，描述了一只龙在花田里与向日葵嬉戏的场景。
-
-#### 📝 提示词
-
-```
-龙摘下一朵向日葵并别在耳后
-在田野中自豪地蹦跳
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077368328805625856/img/6fZtM1i9PZHFalCx.jpg" width="600" alt="花田里的龙">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7303)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **来源:** [Link](https://x.com/HawkinsonLindy/status/2077368417162830048) | **发布时间:** Jul 15, 2026
-
----
-### 明亮通风的卧室室内设计
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于生成明亮通风卧室的逼真视频提示词，画面包含晨光中轻轻飘动的柔软窗帘。
-
-#### 📝 提示词
-
-```
-照片级逼真的明亮通风卧室室内设计，前景为铺着柔软白色褶皱床品的凌乱床铺，薄纱窗帘轻轻飘动，配有藤编床头柜和郁郁葱葱的绿色植物，温暖的金色阳光透过大窗户洒入并投下斑驳阴影。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077354377153544192/img/tsJn3osrY1KFM0lV.jpg" width="600" alt="明亮通风的卧室室内设计">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7300)**
-
-**作者:** [Derek Rodrigue](https://x.com/DerekRodriaw2c) | **来源:** [Link](https://x.com/DerekRodriaw2c/status/2077354436221899170) | **发布时间:** Jul 15, 2026
-
----
-### 带有飞鸟的航空场景广角镜头
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个技术性视频提示词，指定了摄像设备，用于为汽车或飞机场景添加飞鸟和涡轮增压引擎声等元素。
-
-#### 📝 提示词
-
-```
-使用 Nikkor 14-24/2.8 镜头拍摄的超广角镜头。D3s 机身。添加飞鸟和涡轮增压引擎的噪音
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077315217638207488/img/SAUU4djRZHwtO9mr.jpg" width="600" alt="带有飞鸟的航空场景广角镜头">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7310)**
-
-**作者:** [Erkki Heliö](https://x.com/erkki_helio) | **来源:** [Link](https://x.com/erkki_helio/status/2077318469746372923) | **发布时间:** Jul 15, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2404,6 +2407,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-07-25T06:40:46.490Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-07-25T10:12:20.952Z</sub>
 
 </div>

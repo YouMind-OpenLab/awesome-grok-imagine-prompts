@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **2215** |
+| 📝 提示詞總數 | **2221** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-07-25** |
 
@@ -189,6 +189,124 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 死亡金屬風格動畫與配音
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個充滿戲劇性的影片提示詞，畫面包含角色猛力拉扯鎖鏈，並搭配低沉的死亡金屬風格配音與背景音樂。
+
+#### 📝 提示詞
+
+```
+背景播放著死亡金屬音樂。他猛力拉扯鎖鏈，並以低沉的男性死亡金屬嗓音說道：Fun Tiff X 創造了我。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080779171127775232/img/Dl5vN5CQ5SpBFNz3.jpg" width="600" alt="死亡金屬風格動畫與配音">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7849)**
+
+**作者:** [FUNTIFFX](https://x.com/AbstractTiffany) | **來源:** [Link](https://x.com/AbstractTiffany/status/2080779188098027577) | **發布時間:** Jul 24, 2026
+
+---
+### 鋼琴鍵影表演
+
+![한국어](https://img.shields.io/badge/lang-한국어-orange)
+
+> 一個創意提示詞，能將酷似鋼琴鍵的陰影轉化為動畫影片，讓琴鍵隨著《筷子進行曲》的旋律彈奏。
+
+#### 📝 提示詞
+
+```
+照片中的陰影看起來像鋼琴鍵；請製作一段影片，讓這些琴鍵像有人在彈奏一樣移動，並配上《筷子進行曲》的音樂。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080752996926054400/img/XebJiDEY-e8vEgUd.jpg" width="600" alt="鋼琴鍵影表演">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7850)**
+
+**作者:** [T드라이버](https://x.com/seongwoo0930) | **來源:** [Link](https://x.com/seongwoo0930/status/2080753029775868225) | **發布時間:** Jul 24, 2026
+
+---
+### 陸地艦護衛犬科幻影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段科幻影片提示詞，描繪了巨大的護衛犬保護陸地艦免受變種混種入侵者攻擊的場景。
+
+#### 📝 提示詞
+
+```
+陸地艦護衛犬 🐕 🐾🐕
+
+當感應到威脅時，這對護衛犬會體型倍增，並發出強大的衝擊波，使那些由鬣狗與長頸鹿混種而成的變種入侵者瞬間癱瘓。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080740252281348096/img/LqQsozrWA4MZsJ9Y.jpg" width="600" alt="陸地艦護衛犬科幻影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7846)**
+
+**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **來源:** [Link](https://x.com/PhilipCarrn7711/status/2080740307377750343) | **發布時間:** Jul 24, 2026
+
+---
+### 叛逆賽車手翹孤輪影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段動態影片提示詞，描述一名賽車手在人群中加速離去時，表演翹孤輪並做出挑釁手勢。
+
+#### 📝 提示詞
+
+```
+滾開，混蛋 🖕
+
+賽車手加速離去並表演翹孤輪，同時挑釁地舉起左臂，向旁觀者比出中指 🖕。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080719958581874688/img/YfP2U7CUY1SGXkfu.jpg" width="600" alt="叛逆賽車手翹孤輪影片">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7847)**
+
+**作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **來源:** [Link](https://x.com/PhilipCarrn7711/status/2080720053968789504) | **發布時間:** Jul 24, 2026
+
+---
+### Victoria's Secret 伸展台走秀
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一份詳細的時尚秀場景影片提示詞，包含對模特兒動作及服裝流動感的具體指令。
+
+#### 📝 提示詞
+
+```
+開始加入一些音樂，呈現出 Victoria's Secret 伸展台模特兒的氣勢，並讓每一個動作都精準地配合她所穿著服裝的流動感
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080599552080388096/img/bE4mW5QaLWMnMBNe.jpg" width="600" alt="Victoria's Secret 伸展台走秀">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7845)**
+
+**作者:** [Terry Palmieri](https://x.com/TerryPalmieri14) | **來源:** [Link](https://x.com/TerryPalmieri14/status/2080599601673892045) | **發布時間:** Jul 24, 2026
+
+---
+### 第一人稱視角醫院生產
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段電影級的視角影片提示詞，捕捉母親在醫院環境中迎接新生兒的感人瞬間。
+
+#### 📝 提示詞
+
+```
+從一位女性在昏暗的醫院病房中生產的視角出發，她腹部微隆，穿著遮蓋腹部的醫院病袍。醫生將包裹在毯子裡、戴著粉紅色 Carhart 毛帽的女嬰放在她的胸口。嬰兒面向母親……
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080528585798852608/img/FDST6tnvLMNS3QcG.jpg" width="600" alt="第一人稱視角醫院生產">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7848)**
+
+**作者:** [yellow flowers by the beaver pond](https://x.com/condnuit) | **來源:** [Link](https://x.com/condnuit/status/2080528603029102790) | **發布時間:** Jul 24, 2026
+
+---
 ### 陶土面紗舞者
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2227,121 +2345,6 @@ Lila 駕駛著一艘白色小帆船，平穩地航行在平靜的切薩皮克灣
 **作者:** [SophieZX](https://x.com/Z_XSophie) | **來源:** [Link](https://x.com/Z_XSophie/status/2077496246089007407) | **發布時間:** Jul 15, 2026
 
 ---
-### 重機雷射極速衝刺
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個高動作感的影片提示詞，描述一輛重機快速加速，並伴隨著雷射光軌跡，同時攝影機進行跟拍。
-
-#### 📝 提示詞
-
-```
-隨著一陣猛烈的加速衝擊，前輪微微抬起，他疾馳而去消失在畫面邊緣；攝影機隨即轉向，看著他遠去的身影，雷射光束也逐漸拉長並消失在遠方。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077494468769460224/img/baZUnDTmidw1C1ma.jpg" width="600" alt="重機雷射極速衝刺">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7308)**
-
-**作者:** [HELL SPAWN](https://x.com/Rjsolo11) | **來源:** [Link](https://x.com/Rjsolo11/status/2077494506916598206) | **發布時間:** Jul 15, 2026
-
----
-### Q 版宇宙野貓與 Cybertruck
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個高細節的 Pixar 風格提示詞，描繪了一隻發光的 Q 版野貓與一隻白色黃金獵犬，正乘坐 Tesla Cybertruck 穿梭於未來感的芝加哥。
-
-#### 📝 提示詞
-
-```
-擁有極光般發光毛髮的 Q 版宇宙野貓，乘坐著流線型的 Tesla Cybertruck 穿梭在充滿北極光與自由能源火花的未來感芝加哥夜空，毛線套索像 Tesla 線圈般閃爍，頑皮的白色黃金獵犬在貨斗中追逐閃電，充滿活力的 Pixar 風格，閃爍光芒，高細節，電影級燈光
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077400808505700352/img/bY8rB0bpkkOL8jXA.jpg" width="600" alt="Q 版宇宙野貓與 Cybertruck">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7304)**
-
-**作者:** [✨😼 Wildcat](https://x.com/AriadneBorealis) | **來源:** [Link](https://x.com/AriadneBorealis/status/2077403087392633198) | **發布時間:** Jul 15, 2026
-
----
-### 非洲懸崖上的駿馬
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段壯麗的影片提示詞：一匹鬃毛編織成玉米辮並綴有珠飾的黑色駿馬，俯瞰著非洲的日出。
-
-#### 📝 提示詞
-
-```
-一匹傳奇般的黑色駿馬，鬃毛編織成完美的玉米辮，並裝飾著金色的珠子與飾扣，矗立在古老的非洲懸崖之上，俯瞰著日出時分一望無際的草原。牠充滿力量、高貴且富有靈性，眼神深邃，尾巴隨風飄動。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077370848516739072/img/GHul4lAb-9gPfy7D.jpg" width="600" alt="非洲懸崖上的駿馬">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7302)**
-
-**作者:** [Jeff Fairow](https://x.com/FairowJeff) | **來源:** [Link](https://x.com/FairowJeff/status/2077370904581956064) | **發布時間:** Jul 15, 2026
-
----
-### 田野間的向日葵與龍
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個迷人的動畫提示詞，描述一隻龍在田野間與向日葵嬉戲的場景。
-
-#### 📝 提示詞
-
-```
-龍摘下一朵向日葵並將其別在耳後
-驕傲地在田野間奔跑
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077368328805625856/img/6fZtM1i9PZHFalCx.jpg" width="600" alt="田野間的向日葵與龍">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7303)**
-
-**作者:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **來源:** [Link](https://x.com/HawkinsonLindy/status/2077368417162830048) | **發布時間:** Jul 15, 2026
-
----
-### 明亮通風的臥室室內設計
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個逼真的影片提示詞，描繪了在晨光中，柔軟窗簾隨風擺動的明亮通風臥室。
-
-#### 📝 提示詞
-
-```
-照片級真實感的明亮通風臥室室內設計，前景為鋪著柔軟白色褶皺床單的凌亂床鋪，薄紗窗簾輕輕擺動，配有藤編床頭櫃，周圍環繞著茂盛的綠色植物，溫暖的金色陽光透過大窗戶灑入並投下陰影。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077354377153544192/img/tsJn3osrY1KFM0lV.jpg" width="600" alt="明亮通風的臥室室內設計">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7300)**
-
-**作者:** [Derek Rodrigue](https://x.com/DerekRodriaw2c) | **來源:** [Link](https://x.com/DerekRodriaw2c/status/2077354436221899170) | **發布時間:** Jul 15, 2026
-
----
-### 包含鳥類的航空場景廣角鏡頭
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個技術性影片提示詞，指定了攝影器材，旨在為汽車或航空場景添加鳥類和渦輪引擎聲等元素。
-
-#### 📝 提示詞
-
-```
-使用 Nikkor 14-24/2.8 鏡頭與 D3s 機身拍攝的超廣角鏡頭。加入鳥類與渦輪增壓引擎的聲音
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077315217638207488/img/SAUU4djRZHwtO9mr.jpg" width="600" alt="包含鳥類的航空場景廣角鏡頭">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7310)**
-
-**作者:** [Erkki Heliö](https://x.com/erkki_helio) | **來源:** [Link](https://x.com/erkki_helio/status/2077318469746372923) | **發布時間:** Jul 15, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2403,6 +2406,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-07-25T06:40:47.530Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-07-25T10:12:22.388Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2215** |
+| 📝 Total Prompts | **2221** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-25** |
 
@@ -189,6 +189,124 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
+### Death Metal Animation with Voiceover
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A dramatic video prompt featuring a character yanking a chain accompanied by a deep death metal voice and background music.
+
+#### 📝 Prompt
+
+```
+Death metal music is playing in the background. He yanks on his chain and says in a deep male death metal voice: Fun Tiff X made me.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080779171127775232/img/Dl5vN5CQ5SpBFNz3.jpg" width="600" alt="Death Metal Animation with Voiceover">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7849)**
+
+**Author:** [FUNTIFFX](https://x.com/AbstractTiffany) | **Source:** [Link](https://x.com/AbstractTiffany/status/2080779188098027577) | **Published:** Jul 24, 2026
+
+---
+### Piano Key Shadow Performance
+
+![한국어](https://img.shields.io/badge/lang-한국어-orange)
+
+> A creative prompt that transforms a shadow resembling piano keys into an animated video where the keys are played to the tune of the Chopsticks March.
+
+#### 📝 Prompt
+
+```
+The shadow in the photo looks like piano keys; please make a video where the keys move as if someone is playing them, and the music played is the Chopsticks March.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080752996926054400/img/XebJiDEY-e8vEgUd.jpg" width="600" alt="Piano Key Shadow Performance">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7850)**
+
+**Author:** [T드라이버](https://x.com/seongwoo0930) | **Source:** [Link](https://x.com/seongwoo0930/status/2080753029775868225) | **Published:** Jul 24, 2026
+
+---
+### Landship Guard Dogs Sci-Fi Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A science fiction video prompt depicting giant guard dogs protecting a landship from mutant hybrid intruders.
+
+#### 📝 Prompt
+
+```
+Landship guard dogs 🐕 🐾🐕
+
+When a threat is sensed the pair grow in size and emit a debilitating shock wave that incapacitates the intruders who are mutant hyenas that crossed with giraffes.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080740252281348096/img/LqQsozrWA4MZsJ9Y.jpg" width="600" alt="Landship Guard Dogs Sci-Fi Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7846)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2080740307377750343) | **Published:** Jul 24, 2026
+
+---
+### Rebellious Racer Wheelie Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A dynamic video prompt of a racer performing a wheelie and making a defiant gesture while speeding away from a crowd.
+
+#### 📝 Prompt
+
+```
+Move bitches 🖕
+
+The racer speeds off doing a wheelie defiantly holding up is left arm and giving the bystanders the middle finger 🖕.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080719958581874688/img/YfP2U7CUY1SGXkfu.jpg" width="600" alt="Rebellious Racer Wheelie Video">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7847)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2080720053968789504) | **Published:** Jul 24, 2026
+
+---
+### Victoria's Secret Runway Walk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video prompt for a fashion show scene with specific instructions on model movement and outfit flow.
+
+#### 📝 Prompt
+
+```
+Start to include some music like a victorious secret runway model, and making each move precisely with the flow of the outfit she is wearing
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080599552080388096/img/bE4mW5QaLWMnMBNe.jpg" width="600" alt="Victoria's Secret Runway Walk">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7845)**
+
+**Author:** [Terry Palmieri](https://x.com/TerryPalmieri14) | **Source:** [Link](https://x.com/TerryPalmieri14/status/2080599601673892045) | **Published:** Jul 24, 2026
+
+---
+### First Person Perspective Hospital Birth
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic point-of-view video prompt capturing the emotional moment a mother receives her newborn baby in a hospital setting.
+
+#### 📝 Prompt
+
+```
+Point of view of a woman giving birth in a dim hospital room, her belly small, wearing a hospital gown covering the belly. Doctor places baby girl wrapped in blanket in a pink carhart toque on her chest. Baby facing mom....
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080528585798852608/img/FDST6tnvLMNS3QcG.jpg" width="600" alt="First Person Perspective Hospital Birth">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7848)**
+
+**Author:** [yellow flowers by the beaver pond](https://x.com/condnuit) | **Source:** [Link](https://x.com/condnuit/status/2080528603029102790) | **Published:** Jul 24, 2026
+
+---
 ### Terracotta Veil Dancer
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -227,11 +345,11 @@ A mysterious, anthropomorphic cat sits silently wearing a crown and dark shadowy
 **Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2080305655907500138) | **Published:** Jul 23, 2026
 
 ---
-### Surreal Jazmin Flower Shower
+### Hyper-realistic Woman in Coral Dress
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed fantasy prompt for a cinematic video of a woman in a coral dress amidst a surreal shower of jazmin flowers with soft dawn lighting.
+> A detailed cinematic prompt for Grok Imagine featuring a woman in a coral dress amidst a shower of jasmine flowers, emphasizing movement and surreal fantasy elements.
 
 #### 📝 Prompt
 
@@ -239,7 +357,7 @@ A mysterious, anthropomorphic cat sits silently wearing a crown and dark shadowy
 hyper-realist, white western European natural mid blond hair curly abundant short hair, tan skin, wearing a short Coral Dress, long beautiful legs, bright and vigorous pose, super oversized Jazmin flower shower, unleashed, dew & dawn, surreal, fantasy flare, shot showing movement and blurred parts
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080195922261159936/img/qFyktxK14q7UycIM.jpg" width="600" alt="Surreal Jazmin Flower Shower">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080195922261159936/img/qFyktxK14q7UycIM.jpg" width="600" alt="Hyper-realistic Woman in Coral Dress">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7756)**
 
@@ -328,19 +446,19 @@ Cute relaxing 8 bit pixel art, calm ethereal instrumental Nordic music with no v
 **Author:** [Kiki 🇺🇸](https://x.com/kikisknees) | **Source:** [Link](https://x.com/kikisknees/status/2079811897411682562) | **Published:** Jul 22, 2026
 
 ---
-### 8-bit Pixel Art Fairy Animation
+### 8-Bit Pixel Art Fairy Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for creating a seamless looping 8-bit pixel art animation of an ethereal fairy girl in a glowing forest.
+> A prompt for creating a looping 8-bit pixel art video featuring a dreamy fairy girl in a glowing forest at twilight.
 
 #### 📝 Prompt
 
 ```
-8-bit pixel art, dreamy ethereal fairy girl with long silver hair and flower crown, wearing sheer lace dress, standing barefoot in glowing mossy forest at twilight, fireflies and floating petals, ancient trees with soft ivy, pastel pinks lavenders and greens, tumblr core dreamy fantasy aesthetic, retro 8-bit pixel style, soft glow, limited color palette. Looping ambient 8-bit pixel art video, subtle motion, seamless dreamy loop, tumblr fantasy aesthetic, retro pixel style
+8-bit pixel art, dreamy ethereal fairy girl with long silver hair and flower crown, wearing sheer lace dress, standing barefoot in glowing mossy forest at twilight, fireflies and floating petals, ancient trees with soft ivy, pastel pinks lavenders and greens, tumblr core dreamy fantasy aesthetic, retro 8-bit pixel style, soft glow, limited color palette Looping ambient 8-bit pixel art video, subtle motion, seamless dreamy loop, tumblr fantasy aesthetic, retro pixel style
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079799034387337216/img/tg67vvo-Xpk8Q8IP.jpg" width="600" alt="8-bit Pixel Art Fairy Animation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079799034387337216/img/tg67vvo-Xpk8Q8IP.jpg" width="600" alt="8-Bit Pixel Art Fairy Video">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7697)**
 
@@ -2043,121 +2161,6 @@ When your ordinary house cat suddenly discovers the universe is made of glowing 
 **Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2077496246089007407) | **Published:** Jul 15, 2026
 
 ---
-### Fast Motorcycle Laser Speed Burst
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A high-action video prompt describing a motorcycle accelerating quickly with trailing laser lights as the camera follows.
-
-#### 📝 Prompt
-
-```
-As a sudden jolt of violent speed, his front tire slightly picks up, and he blast away down the road out of frame the camera turns and see pulling away in the distance, strolling laser lights getting farther away
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077494468769460224/img/baZUnDTmidw1C1ma.jpg" width="600" alt="Fast Motorcycle Laser Speed Burst">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7308)**
-
-**Author:** [HELL SPAWN](https://x.com/Rjsolo11) | **Source:** [Link](https://x.com/Rjsolo11/status/2077494506916598206) | **Published:** Jul 15, 2026
-
----
-### Chibi Cosmic Wildcat Cybertruck
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A high-detail Pixar-style prompt featuring a glowing chibi wildcat and a white goldendoodle riding a Tesla Cybertruck through a futuristic Chicago.
-
-#### 📝 Prompt
-
-```
-Chibi cosmic wildcat with glowing aurora fur riding in a sleek Tesla Cybertruck through a futuristic Chicago night sky filled with northern lights and free energy sparks, yarn lasso glowing like Tesla coils, playful white goldendoodle chasing bolts in the truck bed, vibrant Pixar-style, sparkles, high detail, cinematic lighting
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077400808505700352/img/bY8rB0bpkkOL8jXA.jpg" width="600" alt="Chibi Cosmic Wildcat Cybertruck">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7304)**
-
-**Author:** [✨😼 Wildcat](https://x.com/AriadneBorealis) | **Source:** [Link](https://x.com/AriadneBorealis/status/2077403087392633198) | **Published:** Jul 15, 2026
-
----
-### Stallion on African Cliff
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A majestic video prompt of a black stallion with beaded cornrows overlooking a sunrise in Africa.
-
-#### 📝 Prompt
-
-```
-A legendary black stallion with perfectly braided cornrows as its mane, decorated with gold beads and cuffs, standing atop an ancient African cliff overlooking endless grasslands at sunrise. Powerful, noble, and spiritual, with an intense gaze and flowing tail.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077370848516739072/img/GHul4lAb-9gPfy7D.jpg" width="600" alt="Stallion on African Cliff">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7302)**
-
-**Author:** [Jeff Fairow](https://x.com/FairowJeff) | **Source:** [Link](https://x.com/FairowJeff/status/2077370904581956064) | **Published:** Jul 15, 2026
-
----
-### Dragon with Sunflower in Field
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A charming animation prompt where a dragon prances through a field with a sunflower.
-
-#### 📝 Prompt
-
-```
-Dragon plucks a sunflower and tucks it behind his ear 
-Proudly prances through the field
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077368328805625856/img/6fZtM1i9PZHFalCx.jpg" width="600" alt="Dragon with Sunflower in Field">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7303)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2077368417162830048) | **Published:** Jul 15, 2026
-
----
-### Bright Airy Bedroom Interior
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A realistic video prompt for a bright and airy bedroom with soft curtains moving in the morning light.
-
-#### 📝 Prompt
-
-```
-Photorealistic bright and airy bedroom interior, unmade bed with soft white rumpled bedding in the foreground, sheer curtains gently moving, wicker nightstand, lush green plants nearby, warm golden sunlight flooding through large windows and casting shadows.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077354377153544192/img/tsJn3osrY1KFM0lV.jpg" width="600" alt="Bright Airy Bedroom Interior">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7300)**
-
-**Author:** [Derek Rodrigue](https://x.com/DerekRodriaw2c) | **Source:** [Link](https://x.com/DerekRodriaw2c/status/2077354436221899170) | **Published:** Jul 15, 2026
-
----
-### Wide Shot Aviation Scene with Birds
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A technical video prompt specifying camera equipment to add elements like birds and engine sounds to a car or aircraft scene.
-
-#### 📝 Prompt
-
-```
-Ultra wide shot with Nikkor 14-24/2.8. D3s body. add the bird and turbo charged engine noise
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077315217638207488/img/SAUU4djRZHwtO9mr.jpg" width="600" alt="Wide Shot Aviation Scene with Birds">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7310)**
-
-**Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077318469746372923) | **Published:** Jul 15, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2219,6 +2222,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-25T06:40:45.240Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-25T10:12:19.838Z</sub>
 
 </div>

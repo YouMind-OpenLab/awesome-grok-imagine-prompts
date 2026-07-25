@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2215** |
+| 📝 Total Prompts | **2221** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-25** |
 
@@ -189,6 +189,124 @@ Una valquiria celestial mística y noble, una mujer digna y hermosa con largo ca
 
 > 📝 Sorted by publish date (newest first)
 
+### Animación de Death Metal con voz en off
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video dramático que muestra a un personaje tirando de una cadena, acompañado de una voz profunda de death metal y música de fondo.
+
+#### 📝 Prompt
+
+```
+Música de death metal suena de fondo. Él tira de su cadena y dice con una voz masculina profunda de death metal: Fun Tiff X me creó.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080779171127775232/img/Dl5vN5CQ5SpBFNz3.jpg" width="600" alt="Animación de Death Metal con voz en off">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7849)**
+
+**Author:** [FUNTIFFX](https://x.com/AbstractTiffany) | **Source:** [Link](https://x.com/AbstractTiffany/status/2080779188098027577) | **Published:** Jul 24, 2026
+
+---
+### Interpretación de sombras en teclas de piano
+
+![한국어](https://img.shields.io/badge/lang-한국어-orange)
+
+> Un prompt creativo que transforma una sombra que se asemeja a las teclas de un piano en un video animado donde las teclas se tocan al ritmo de la Marcha de los Palillos.
+
+#### 📝 Prompt
+
+```
+La sombra en la foto parece teclas de piano; por favor, crea un video donde las teclas se muevan como si alguien las estuviera tocando y la música que suene sea la Marcha de los Palillos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080752996926054400/img/XebJiDEY-e8vEgUd.jpg" width="600" alt="Interpretación de sombras en teclas de piano">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7850)**
+
+**Author:** [T드라이버](https://x.com/seongwoo0930) | **Source:** [Link](https://x.com/seongwoo0930/status/2080753029775868225) | **Published:** Jul 24, 2026
+
+---
+### Video de ciencia ficción: Perros guardianes de un navío terrestre
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video de ciencia ficción que muestra perros guardianes gigantes protegiendo un navío terrestre de intrusos híbridos mutantes.
+
+#### 📝 Prompt
+
+```
+Perros guardianes de navío terrestre 🐕 🐾🐕
+
+Cuando detectan una amenaza, la pareja aumenta de tamaño y emite una onda de choque debilitante que incapacita a los intrusos, los cuales son hienas mutantes cruzadas con jirafas.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080740252281348096/img/LqQsozrWA4MZsJ9Y.jpg" width="600" alt="Video de ciencia ficción: Perros guardianes de un navío terrestre">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7846)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2080740307377750343) | **Published:** Jul 24, 2026
+
+---
+### Video de piloto rebelde haciendo un caballito
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video dinámico de un piloto realizando un caballito y haciendo un gesto desafiante mientras se aleja a toda velocidad de una multitud.
+
+#### 📝 Prompt
+
+```
+Quítense, perras 🖕
+
+El piloto acelera haciendo un caballito, levantando desafiante su brazo izquierdo y mostrándole el dedo medio a los espectadores 🖕.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080719958581874688/img/YfP2U7CUY1SGXkfu.jpg" width="600" alt="Video de piloto rebelde haciendo un caballito">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7847)**
+
+**Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2080720053968789504) | **Published:** Jul 24, 2026
+
+---
+### Desfile de Victoria's Secret
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video detallado para una escena de desfile de moda con instrucciones específicas sobre el movimiento de la modelo y la fluidez del atuendo.
+
+#### 📝 Prompt
+
+```
+Comienza incluyendo música al estilo de una modelo de pasarela de Victoria's Secret, haciendo que cada movimiento sea preciso y acorde con la fluidez del atuendo que lleva puesto
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080599552080388096/img/bE4mW5QaLWMnMBNe.jpg" width="600" alt="Desfile de Victoria's Secret">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7845)**
+
+**Author:** [Terry Palmieri](https://x.com/TerryPalmieri14) | **Source:** [Link](https://x.com/TerryPalmieri14/status/2080599601673892045) | **Published:** Jul 24, 2026
+
+---
+### Parto en hospital desde una perspectiva en primera persona
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video cinematográfico en punto de vista que captura el momento emocional en el que una madre recibe a su bebé recién nacido en un entorno hospitalario.
+
+#### 📝 Prompt
+
+```
+Punto de vista de una mujer dando a luz en una habitación de hospital con luz tenue, su vientre pequeño, vistiendo una bata de hospital que cubre el vientre. El médico coloca a la bebé envuelta en una manta y con un gorro rosa de Carhartt sobre su pecho. La bebé mirando hacia la madre...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080528585798852608/img/FDST6tnvLMNS3QcG.jpg" width="600" alt="Parto en hospital desde una perspectiva en primera persona">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7848)**
+
+**Author:** [yellow flowers by the beaver pond](https://x.com/condnuit) | **Source:** [Link](https://x.com/condnuit/status/2080528603029102790) | **Published:** Jul 24, 2026
+
+---
 ### Bailarina del Velo de Terracota
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2227,121 +2345,6 @@ Cuando tu gato doméstico descubre de repente que el universo está hecho de ovi
 **Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2077496246089007407) | **Published:** Jul 15, 2026
 
 ---
-### Ráfaga de velocidad láser de motocicleta rápida
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video de alta acción que describe una motocicleta acelerando rápidamente con luces láser traseras mientras la cámara la sigue.
-
-#### 📝 Prompt
-
-```
-Como una sacudida repentina de velocidad violenta, su neumático delantero se levanta ligeramente y sale disparado por la carretera fuera de cuadro; la cámara gira y lo ve alejándose en la distancia, con las luces láser estelares haciéndose cada vez más lejanas.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077494468769460224/img/baZUnDTmidw1C1ma.jpg" width="600" alt="Ráfaga de velocidad láser de motocicleta rápida">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7308)**
-
-**Author:** [HELL SPAWN](https://x.com/Rjsolo11) | **Source:** [Link](https://x.com/Rjsolo11/status/2077494506916598206) | **Published:** Jul 15, 2026
-
----
-### Chibi Cosmic Wildcat Cybertruck
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt al estilo Pixar altamente detallado que presenta a un gato montés chibi brillante y un goldendoodle blanco viajando en un Tesla Cybertruck a través de un Chicago futurista.
-
-#### 📝 Prompt
-
-```
-Gato montés cósmico chibi con pelaje de aurora brillante viajando en un elegante Tesla Cybertruck a través de un cielo nocturno futurista de Chicago lleno de auroras boreales y chispas de energía libre, lazo de lana brillante como bobinas de Tesla, juguetón goldendoodle blanco persiguiendo rayos en la caja de la camioneta, estilo Pixar vibrante, destellos, alto detalle, iluminación cinematográfica
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077400808505700352/img/bY8rB0bpkkOL8jXA.jpg" width="600" alt="Chibi Cosmic Wildcat Cybertruck">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7304)**
-
-**Author:** [✨😼 Wildcat](https://x.com/AriadneBorealis) | **Source:** [Link](https://x.com/AriadneBorealis/status/2077403087392633198) | **Published:** Jul 15, 2026
-
----
-### Semental en un acantilado africano
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un majestuoso prompt de video de un semental negro con trenzas decoradas con cuentas, contemplando un amanecer en África.
-
-#### 📝 Prompt
-
-```
-Un legendario semental negro con una crin perfectamente trenzada, decorada con cuentas y brazaletes dorados, de pie sobre un antiguo acantilado africano que domina interminables praderas al amanecer. Poderoso, noble y espiritual, con una mirada intensa y una cola fluida.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077370848516739072/img/GHul4lAb-9gPfy7D.jpg" width="600" alt="Semental en un acantilado africano">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7302)**
-
-**Author:** [Jeff Fairow](https://x.com/FairowJeff) | **Source:** [Link](https://x.com/FairowJeff/status/2077370904581956064) | **Published:** Jul 15, 2026
-
----
-### Dragón con girasol en el campo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un encantador prompt de animación donde un dragón corre alegremente por un campo con un girasol.
-
-#### 📝 Prompt
-
-```
-El dragón arranca un girasol y se lo coloca detrás de la oreja
-Camina con orgullo por el campo
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077368328805625856/img/6fZtM1i9PZHFalCx.jpg" width="600" alt="Dragón con girasol en el campo">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7303)**
-
-**Author:** [Lindy Hawkinson](https://x.com/HawkinsonLindy) | **Source:** [Link](https://x.com/HawkinsonLindy/status/2077368417162830048) | **Published:** Jul 15, 2026
-
----
-### Interior de dormitorio luminoso y aireado
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video realista para un dormitorio luminoso y aireado con cortinas suaves moviéndose con la luz de la mañana.
-
-#### 📝 Prompt
-
-```
-Interior de dormitorio fotorrealista, luminoso y aireado, cama sin hacer con ropa de cama blanca y arrugada en primer plano, cortinas transparentes moviéndose suavemente, mesita de noche de mimbre, plantas verdes exuberantes cerca, luz solar cálida y dorada inundando a través de grandes ventanales y proyectando sombras.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077354377153544192/img/tsJn3osrY1KFM0lV.jpg" width="600" alt="Interior de dormitorio luminoso y aireado">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7300)**
-
-**Author:** [Derek Rodrigue](https://x.com/DerekRodriaw2c) | **Source:** [Link](https://x.com/DerekRodriaw2c/status/2077354436221899170) | **Published:** Jul 15, 2026
-
----
-### Plano general de una escena de aviación con aves
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video técnico que especifica el equipo de cámara para añadir elementos como aves y sonidos de motor a una escena de automóvil o aeronave.
-
-#### 📝 Prompt
-
-```
-Plano ultra gran angular con Nikkor 14-24/2.8. Cuerpo D3s. añadir aves y ruido de motor turboalimentado
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077315217638207488/img/SAUU4djRZHwtO9mr.jpg" width="600" alt="Plano general de una escena de aviación con aves">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7310)**
-
-**Author:** [Erkki Heliö](https://x.com/erkki_helio) | **Source:** [Link](https://x.com/erkki_helio/status/2077318469746372923) | **Published:** Jul 15, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2403,6 +2406,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-25T06:40:54.237Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-25T10:12:31.512Z</sub>
 
 </div>
