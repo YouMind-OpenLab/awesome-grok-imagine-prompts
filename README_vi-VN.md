@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2221** |
+| 📝 Total Prompts | **2224** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-26** |
 
@@ -189,6 +189,44 @@ Một Valkyrie thần thánh và cao quý, một người phụ nữ trang nghi�
 
 > 📝 Sorted by publish date (newest first)
 
+### Tương tác với nhân viên thu ngân đầy lo âu
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một gợi ý (prompt) tương tác điện ảnh chi tiết về hai nhân viên cửa hàng đang phản ứng với một khách hàng.
+
+#### 📝 Prompt
+
+```
+Một khách hàng đang gọi dịch vụ tại quầy thanh toán, nhưng hai nhân viên chỉ phát ra những tiếng thì thầm nhỏ, đung đưa cơ thể, với góc máy quay luân phiên giữa các cảnh cận cảnh biểu cảm lo âu của họ trong khi miệng họ vẫn mím chặt.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081031417375686656/img/iuKZJsC_mH64azoc.jpg" width="600" alt="Tương tác với nhân viên thu ngân đầy lo âu">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7903)**
+
+**Author:** [🍠クララ🍠](https://x.com/KURARA13520706) | **Source:** [Link](https://x.com/KURARA13520706/status/2081031437067976850) | **Published:** Jul 25, 2026
+
+---
+### Vòng tay Hoa Vũ trụ Vàng
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một câu lệnh điện ảnh cực kỳ chi tiết với hình ảnh những bông hồng vàng, hồng ngọc và bướm rơi xuống từ không gian.
+
+#### 📝 Prompt
+
+```
+Thêm nhiều bông hồng vàng của tình yêu và trái tim, to và nhiều, cùng với vô số trái tim hồng ngọc, kim cương tỏa sáng và những chú bướm đen vàng rơi xuống từ vũ trụ xa xôi, bao quanh cơ thể tôi, ôm lấy tôi và mặt trăng. Phóng to cận cảnh. Lấy khung hình từ thắt lưng trở lên.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080908005642743808/img/eioWsa32AR4jbJ5Z.jpg" width="600" alt="Vòng tay Hoa Vũ trụ Vàng">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7902)**
+
+**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2080908197171454427) | **Published:** Jul 25, 2026
+
+---
 ### Hoạt ảnh Death Metal kèm lồng tiếng
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -760,6 +798,25 @@ Chiếc mạng nhện tinh xảo này bao phủ toàn bộ không gian xung quan
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7633)**
 
 **Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2079202210336887043) | **Published:** Jul 20, 2026
+
+---
+### Thiên thần thanh thoát giữa những tầng mây màu pastel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh mô tả về thiên thần thanh thoát đang trôi nhẹ nhàng qua khung cảnh mây trời màu pastel đầy mơ mộng.
+
+#### 📝 Prompt
+
+```
+Một thiên thần thanh thoát đang trôi nhẹ nhàng giữa những tầng mây màu pastel… Những tiếng thì thầm của đôi cánh dịu dàng và ánh sáng đầy mơ mộng.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079179867334254592/img/DjYFr9V9Y7TKS13x.jpg" width="600" alt="Thiên thần thanh thoát giữa những tầng mây màu pastel">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7901)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2079179931666530700) | **Published:** Jul 20, 2026
 
 ---
 ### Đối thoại tại quán cà phê
@@ -2288,63 +2345,6 @@ Lila nhẹ nhàng chèo lái chiếc thuyền buồm trắng nhỏ băng qua v�
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077549740426715556) | **Published:** Jul 16, 2026
 
 ---
-### Video trận đấu World Cup của Messi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video để tái hiện cảnh tĩnh Argentina đánh bại Anh tại World Cup.
-
-#### 📝 Prompt
-
-```
-Tái tạo thành video từ hình ảnh tĩnh do @Grok tạo ra. Argentina đã thắng trận đấu trước Anh. Messi. FIFA. Anh. Giải vô địch bóng đá thế giới. Scaloneta. 🇦🇷
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077529915071623168/img/SvLsFxe_y_wm5hf0.jpg" width="600" alt="Video trận đấu World Cup của Messi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7311)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2077530076472656363) | **Published:** Jul 15, 2026
-
----
-### Tái hiện video chiến thắng của Argentina
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) để chuyển đổi hình ảnh tĩnh về chiến thắng của Argentina trước Anh thành một video sống động nhằm ăn mừng chiến thắng này.
-
-#### 📝 Prompt
-
-```
-Tái hiện thành video hình ảnh tĩnh do Grok tạo ra, trong đó có âm thanh 'Chúng ta đã thắng Anh'. Scaloneta. Messi. FIFA. Argentina. 🔺🫶🔺☕️
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077517012863991808/img/ffj2YdKK_FiAJNcn.jpg" width="600" alt="Tái hiện video chiến thắng của Argentina">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7312)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2077517201184084139) | **Published:** Jul 15, 2026
-
----
-### Chú mèo cuộn len vũ trụ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh siêu thực về chú mèo khám phá ra vũ trụ được tạo nên từ những cuộn len phát sáng và các hành tinh.
-
-#### 📝 Prompt
-
-```
-Khi chú mèo nhà bình thường của bạn bất ngờ phát hiện ra vũ trụ được tạo nên từ những cuộn len phát sáng và các hành tinh xoay chuyển… niềm vui thuần khiết đã được mở khóa!
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077495982846091264/img/lfnp8s3el34dwedU.jpg" width="600" alt="Chú mèo cuộn len vũ trụ">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7523)**
-
-**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2077496246089007407) | **Published:** Jul 15, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2406,6 +2406,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-26T07:01:20.351Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-26T10:25:37.855Z</sub>
 
 </div>

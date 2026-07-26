@@ -68,7 +68,7 @@ xAI Grok Imagine을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **2221** |
+| 📝 총 프롬프트 수 | **2224** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-07-26** |
 
@@ -189,6 +189,44 @@ Grok을 위한 상세 프롬프트: 길고 은빛 머리카락과 빛나는 갑�
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 불안해하는 계산대 점원들의 상호작용
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 고객의 반응에 대응하는 두 점원의 모습을 담은 상세한 영화적 상호작용 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+한 고객이 계산대에서 서비스를 요청하고 있지만, 두 점원은 입을 굳게 다문 채 불안한 표정을 짓고 있습니다. 카메라는 이들의 불안한 표정을 클로즈업으로 번갈아 비추며, 점원들은 몸을 흔들거리며 작은 목소리로 웅얼거립니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081031417375686656/img/iuKZJsC_mH64azoc.jpg" width="600" alt="불안해하는 계산대 점원들의 상호작용">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7903)**
+
+**작성자:** [🍠クララ🍠](https://x.com/KURARA13520706) | **출처:** [Link](https://x.com/KURARA13520706/status/2081031437067976850) | **게시일:** Jul 25, 2026
+
+---
+### 황금빛 우주 꽃의 포옹
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 우주에서 떨어지는 황금 장미, 루비, 나비가 포함된 매우 상세한 영화적 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+사랑과 마음을 상징하는 수많은 황금 장미가 크고 풍성하게 피어나고, 그와 함께 수많은 루비 하트와 빛나는 다이아몬드, 그리고 검은색과 금색의 나비들이 먼 우주에서 떨어져 내립니다. 이 꽃들이 내 몸과 달을 감싸 안는 모습을 연출해 주세요. 더 가까이 줌인하고, 허리 위쪽으로 구도를 잡아주세요.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080908005642743808/img/eioWsa32AR4jbJ5Z.jpg" width="600" alt="황금빛 우주 꽃의 포옹">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7902)**
+
+**작성자:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **출처:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2080908197171454427) | **게시일:** Jul 25, 2026
+
+---
 ### 데스 메탈 애니메이션과 보이스오버
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -760,6 +798,25 @@ Victoria's Secret 런웨이 모델처럼 승리감 넘치는 음악을 추가하
 **[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7633)**
 
 **작성자:** [Philip Carr](https://x.com/PhilipCarrn7711) | **출처:** [Link](https://x.com/PhilipCarrn7711/status/2079202210336887043) | **게시일:** Jul 20, 2026
+
+---
+### 파스텔 구름 속의 신비로운 천사
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 꿈결 같은 파스텔 톤의 구름 사이를 부드럽게 유영하는 신비로운 천사를 묘사한 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+파스텔 빛 구름 사이를 부드럽게 유영하는 신비로운 천사… 부드러운 날갯짓과 꿈결 같은 빛의 속삭임.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079179867334254592/img/DjYFr9V9Y7TKS13x.jpg" width="600" alt="파스텔 구름 속의 신비로운 천사">
+
+**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7901)**
+
+**작성자:** [Stella 𝕏](https://x.com/StellaGrokStar) | **출처:** [Link](https://x.com/StellaGrokStar/status/2079179931666530700) | **게시일:** Jul 20, 2026
 
 ---
 ### 커피숍 상호작용 대화
@@ -2288,63 +2345,6 @@ Lila는 이 호화로운 바람과 함께 느껴지는 고급스러운 레드 �
 **작성자:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **출처:** [Link](https://x.com/AliciaMcnatt/status/2077549740426715556) | **게시일:** Jul 16, 2026
 
 ---
-### 메시 월드컵 경기 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 아르헨티나가 월드컵에서 잉글랜드를 꺾은 정지 화면을 재현하기 위한 영상 생성 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-@Grok 이 생성한 정지 이미지를 영상으로 재현해 주세요. 아르헨티나가 잉글랜드와의 경기에서 승리했습니다. 메시. FIFA. 잉글랜드. 축구 월드컵. 스칼로네타 (Scaloneta). 🇦🇷
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077529915071623168/img/SvLsFxe_y_wm5hf0.jpg" width="600" alt="메시 월드컵 경기 영상">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7311)**
-
-**작성자:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **출처:** [Link](https://x.com/clemensilverio/status/2077530076472656363) | **게시일:** Jul 15, 2026
-
----
-### 아르헨티나 승리 영상 재현
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 아르헨티나가 잉글랜드를 상대로 거둔 승리를 담은 정지 이미지를 승리를 축하하는 역동적인 영상으로 변환하기 위한 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-Grok으로 생성된 '우리가 잉글랜드를 이겼다'는 소리가 들리는 정지 이미지를 영상으로 재현해 주세요. 스칼로네타 (Scaloneta). 메시 (Messi). FIFA. 아르헨티나. 🔺🫶🔺☕️
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077517012863991808/img/ffj2YdKK_FiAJNcn.jpg" width="600" alt="아르헨티나 승리 영상 재현">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7312)**
-
-**작성자:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **출처:** [Link](https://x.com/clemensilverio/status/2077517201184084139) | **게시일:** Jul 15, 2026
-
----
-### 우주 실타래 고양이
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 빛나는 실타래와 행성으로 이루어진 우주를 발견한 고양이를 다룬 초현실적인 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-평범한 집고양이가 우주가 빛나는 실타래와 소용돌이치는 행성들로 이루어져 있다는 사실을 갑자기 발견했을 때… 순수한 즐거움이 깨어납니다!
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077495982846091264/img/lfnp8s3el34dwedU.jpg" width="600" alt="우주 실타래 고양이">
-
-**[🎬 비디오 보기 →](https://youmind.com/grok-imagine-prompts?id=7523)**
-
-**작성자:** [SophieZX](https://x.com/Z_XSophie) | **출처:** [Link](https://x.com/Z_XSophie/status/2077496246089007407) | **게시일:** Jul 15, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2406,6 +2406,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-26T07:01:18.802Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-26T10:25:35.076Z</sub>
 
 </div>

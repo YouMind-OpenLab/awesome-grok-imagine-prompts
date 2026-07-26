@@ -68,7 +68,7 @@ xAI の Grok Imagine 向け高品質動画生成プロンプトコレクショ�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **2221** |
+| 📝 プロンプト総数 | **2224** |
 | ⭐ おすすめプロンプト | **3** |
 | 🔄 最終更新 | **2026-07-26** |
 
@@ -189,6 +189,44 @@ Grok 用の詳細なプロンプト：長く銀色の髪と輝く鎧を身につ
 
 > 📝 公開日でソート（新しい順）
 
+### 不安げなレジ係のやり取り
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 顧客の対応に追われる 2 人の店員の様子を描いた、詳細なシネマティック・インタラクション・プロンプト。
+
+#### 📝 プロンプト
+
+```
+レジで顧客が店員を呼んでいるが、2 人の店員は口を閉ざしたまま、不安そうな表情を浮かべて体を揺らし、小さな声で何かを呟いている。カメラは 2 人の不安げな表情のクローズアップを交互に映し出す。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081031417375686656/img/iuKZJsC_mH64azoc.jpg" width="600" alt="不安げなレジ係のやり取り">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7903)**
+
+**作者:** [🍠クララ🍠](https://x.com/KURARA13520706) | **ソース:** [Link](https://x.com/KURARA13520706/status/2081031437067976850) | **公開日:** Jul 25, 2026
+
+---
+### 黄金の宇宙的な花の抱擁
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 宇宙から降り注ぐ黄金のバラ、ルビー、蝶を描いた、非常に詳細なシネマティック・プロンプト。
+
+#### 📝 プロンプト
+
+```
+愛とハートの黄金のバラを数多く、大きく、そして無数に。さらに、たくさんのルビーのハート、輝くダイヤモンド、黒と金の蝶が遠い宇宙から降り注ぎ、私の体を包み込み、私と月を抱きしめる様子。ズームインして、腰から上のアングルで。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080908005642743808/img/eioWsa32AR4jbJ5Z.jpg" width="600" alt="黄金の宇宙的な花の抱擁">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7902)**
+
+**作者:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **ソース:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2080908197171454427) | **公開日:** Jul 25, 2026
+
+---
 ### デスメタル風アニメーション（ボイスオーバー付き）
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -760,6 +798,25 @@ Victoria's Secret のランウェイモデルのような音楽を加え、着�
 **[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7633)**
 
 **作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **ソース:** [Link](https://x.com/PhilipCarrn7711/status/2079202210336887043) | **公開日:** Jul 20, 2026
+
+---
+### パステルカラーの雲に浮かぶ幻想的な天使
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 夢のようなパステルカラーの雲の中を優しく漂う、幻想的な天使を描くための詳細なプロンプトです。
+
+#### 📝 プロンプト
+
+```
+パステルカラーの雲の間を優しく漂う幻想的な天使……柔らかな翼と夢のような光のささやき。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079179867334254592/img/DjYFr9V9Y7TKS13x.jpg" width="600" alt="パステルカラーの雲に浮かぶ幻想的な天使">
+
+**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7901)**
+
+**作者:** [Stella 𝕏](https://x.com/StellaGrokStar) | **ソース:** [Link](https://x.com/StellaGrokStar/status/2079179931666530700) | **公開日:** Jul 20, 2026
 
 ---
 ### コーヒーショップでの会話ダイアログ
@@ -2288,63 +2345,6 @@ Lila は、この贅沢な風の中でなびく高級感あふれる赤いシル
 **作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **ソース:** [Link](https://x.com/AliciaMcnatt/status/2077549740426715556) | **公開日:** Jul 16, 2026
 
 ---
-### メッシ ワールドカップ試合動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> アルゼンチンがワールドカップでイングランドを破った静止画シーンを再現するための動画生成プロンプト。
-
-#### 📝 プロンプト
-
-```
-@Grok が作成した静止画を動画として再現してください。アルゼンチンがイングランドとの試合に勝利。メッシ。FIFA。イングランド。サッカーワールドカップ。スカロネータ。🇦🇷
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077529915071623168/img/SvLsFxe_y_wm5hf0.jpg" width="600" alt="メッシ ワールドカップ試合動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7311)**
-
-**作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **ソース:** [Link](https://x.com/clemensilverio/status/2077530076472656363) | **公開日:** Jul 15, 2026
-
----
-### アルゼンチンの勝利を再現する動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> アルゼンチンがイングランドに勝利した静止画を、勝利を祝うダイナミックな動画に変換するためのプロンプトです。
-
-#### 📝 プロンプト
-
-```
-Grok で作成された「イングランドに勝ったぞ」という音声が流れる静止画を動画で再現してください。スカロネータ。メッシ。FIFA。アルゼンチン。🔺🫶🔺☕️
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077517012863991808/img/ffj2YdKK_FiAJNcn.jpg" width="600" alt="アルゼンチンの勝利を再現する動画">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7312)**
-
-**作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **ソース:** [Link](https://x.com/clemensilverio/status/2077517201184084139) | **公開日:** Jul 15, 2026
-
----
-### Cosmic Yarn Cat
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 光り輝く毛糸玉と惑星で構成された宇宙を発見する猫を描いた、シュールなプロンプト。
-
-#### 📝 プロンプト
-
-```
-いつもの飼い猫が、宇宙が光り輝く毛糸玉と渦巻く惑星でできていることを発見したら……そこには純粋な喜びが待っています！
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077495982846091264/img/lfnp8s3el34dwedU.jpg" width="600" alt="Cosmic Yarn Cat">
-
-**[🎬 動画を見る →](https://youmind.com/grok-imagine-prompts?id=7523)**
-
-**作者:** [SophieZX](https://x.com/Z_XSophie) | **ソース:** [Link](https://x.com/Z_XSophie/status/2077496246089007407) | **公開日:** Jul 15, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2406,6 +2406,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-26T07:01:18.151Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-26T10:25:34.012Z</sub>
 
 </div>

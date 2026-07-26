@@ -68,7 +68,7 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **2221** |
+| 📝 提示詞總數 | **2224** |
 | ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-07-26** |
 
@@ -189,6 +189,44 @@ xAI Grok Imagine 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 焦慮的收銀員互動
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一個詳細的電影感互動提示詞，描述兩名店員對顧客做出反應的情境。
+
+#### 📝 提示詞
+
+```
+一名顧客在收銀台呼叫服務，但兩名店員發出細微且模糊的聲音，身體搖晃著；鏡頭在他們焦慮表情的特寫之間交替切換，而他們的嘴始終緊閉。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081031417375686656/img/iuKZJsC_mH64azoc.jpg" width="600" alt="焦慮的收銀員互動">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7903)**
+
+**作者:** [🍠クララ🍠](https://x.com/KURARA13520706) | **來源:** [Link](https://x.com/KURARA13520706/status/2081031437067976850) | **發布時間:** Jul 25, 2026
+
+---
+### 金色宇宙花卉擁抱
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一個高度細緻的電影感提示詞，描繪金玫瑰、紅寶石與蝴蝶從太空墜落的景象。
+
+#### 📝 提示詞
+
+```
+更多充滿愛意與心形的金玫瑰，數量眾多且巨大，伴隨著許多紅寶石心、閃耀鑽石以及黑金蝴蝶從遙遠的宇宙墜落，圍繞著我的身體，將我和月亮緊緊擁抱。拉近鏡頭。取景位置為腰部以上。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080908005642743808/img/eioWsa32AR4jbJ5Z.jpg" width="600" alt="金色宇宙花卉擁抱">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7902)**
+
+**作者:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **來源:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2080908197171454427) | **發布時間:** Jul 25, 2026
+
+---
 ### 死亡金屬風格動畫與配音
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -760,6 +798,25 @@ Kate Greenaway 風格，一位穿著藍色罩衫和軟帽的可愛女孩在花�
 **[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7633)**
 
 **作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **來源:** [Link](https://x.com/PhilipCarrn7711/status/2079202210336887043) | **發布時間:** Jul 20, 2026
+
+---
+### 粉彩雲端中的空靈天使
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個描述空靈天使在夢幻般的粉彩雲層中輕盈飄浮的提示詞。
+
+#### 📝 提示詞
+
+```
+一位空靈的天使在粉彩雲朵間輕盈飄浮…… 溫柔的羽翼與夢幻的光影在低語。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079179867334254592/img/DjYFr9V9Y7TKS13x.jpg" width="600" alt="粉彩雲端中的空靈天使">
+
+**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7901)**
+
+**作者:** [Stella 𝕏](https://x.com/StellaGrokStar) | **來源:** [Link](https://x.com/StellaGrokStar/status/2079179931666530700) | **發布時間:** Jul 20, 2026
 
 ---
 ### 咖啡廳互動對話
@@ -2288,63 +2345,6 @@ Lila 駕駛著一艘白色小帆船，平穩地航行在平靜的切薩皮克灣
 **作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **來源:** [Link](https://x.com/AliciaMcnatt/status/2077549740426715556) | **發布時間:** Jul 16, 2026
 
 ---
-### 梅西世界盃比賽影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個用於重現阿根廷在世界盃擊敗英格蘭靜態場景的影片生成提示詞。
-
-#### 📝 提示詞
-
-```
-將 @Grok 創作的靜態圖像重製為影片。阿根廷贏得了對陣英格蘭的比賽。梅西。FIFA。英格蘭。足球世界盃。Scaloneta。🇦🇷
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077529915071623168/img/SvLsFxe_y_wm5hf0.jpg" width="600" alt="梅西世界盃比賽影片">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7311)**
-
-**作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **來源:** [Link](https://x.com/clemensilverio/status/2077530076472656363) | **發布時間:** Jul 15, 2026
-
----
-### 阿根廷勝利影片重現
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個將阿根廷戰勝英格蘭的靜態圖像轉化為慶祝勝利動態影片的提示詞。
-
-#### 📝 提示詞
-
-```
-將 Grok 創作的那張靜態圖像重現為影片，並加入「我們贏了英格蘭」的音效。斯卡洛尼軍團 (Scaloneta)。梅西 (Messi)。國際足總 (FIFA)。阿根廷。🔺🫶🔺☕️
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077517012863991808/img/ffj2YdKK_FiAJNcn.jpg" width="600" alt="阿根廷勝利影片重現">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7312)**
-
-**作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **來源:** [Link](https://x.com/clemensilverio/status/2077517201184084139) | **發布時間:** Jul 15, 2026
-
----
-### 宇宙毛線貓
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個超現實的提示詞，描繪了一隻貓發現宇宙是由發光的毛線球和行星所組成的。
-
-#### 📝 提示詞
-
-```
-當你平凡的家貓突然發現宇宙是由發光的毛線球和旋轉的行星所組成時……純粹的快樂瞬間解鎖！
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077495982846091264/img/lfnp8s3el34dwedU.jpg" width="600" alt="宇宙毛線貓">
-
-**[🎬 查看視頻 →](https://youmind.com/grok-imagine-prompts?id=7523)**
-
-**作者:** [SophieZX](https://x.com/Z_XSophie) | **來源:** [Link](https://x.com/Z_XSophie/status/2077496246089007407) | **發布時間:** Jul 15, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2406,6 +2406,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-07-26T07:01:17.075Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-07-26T10:25:32.953Z</sub>
 
 </div>

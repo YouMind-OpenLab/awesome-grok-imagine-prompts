@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2221** |
+| 📝 Total Prompts | **2224** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-26** |
 
@@ -189,6 +189,44 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### ปฏิสัมพันธ์ของพนักงานคิดเงินที่มีอาการวิตกกังวล
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> พรอมต์สำหรับการสร้างภาพยนตร์แบบละเอียดที่แสดงถึงพนักงานร้านค้าสองคนที่กำลังตอบสนองต่อลูกค้า
+
+#### 📝 Prompt
+
+```
+ลูกค้ากำลังเรียกใช้บริการที่จุดชำระเงิน แต่พนักงานทั้งสองคนกลับส่งเสียงพึมพำเบาๆ พร้อมกับโยกตัวไปมา โดยกล้องจะสลับไปมาระหว่างการถ่ายเจาะใบหน้าที่แสดงความวิตกกังวลของพวกเขาในขณะที่ปากยังคงปิดสนิท
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081031417375686656/img/iuKZJsC_mH64azoc.jpg" width="600" alt="ปฏิสัมพันธ์ของพนักงานคิดเงินที่มีอาการวิตกกังวล">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7903)**
+
+**Author:** [🍠クララ🍠](https://x.com/KURARA13520706) | **Source:** [Link](https://x.com/KURARA13520706/status/2081031437067976850) | **Published:** Jul 25, 2026
+
+---
+### อ้อมกอดดอกไม้จักรวาลสีทอง
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> พรอมต์ระดับภาพยนตร์ที่มีรายละเอียดสูง นำเสนอดอกกุหลาบสีทอง อัญมณีทับทิม และผีเสื้อที่ร่วงหล่นลงมาจากอวกาศ
+
+#### 📝 Prompt
+
+```
+ดอกกุหลาบแห่งความรักและรูปหัวใจสีทองจำนวนมาก ขนาดใหญ่และหนาแน่น พร้อมด้วยหัวใจทับทิม เพชรที่ส่องประกาย และผีเสื้อสีดำทองที่ร่วงหล่นลงมาจากจักรวาลอันไกลโพ้น โอบล้อมร่างกายของฉันและกอดฉันรวมถึงดวงจันทร์เอาไว้ ซูมเข้าไปใกล้ๆ จัดวางตำแหน่งตั้งแต่ช่วงเอวขึ้นไป
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080908005642743808/img/eioWsa32AR4jbJ5Z.jpg" width="600" alt="อ้อมกอดดอกไม้จักรวาลสีทอง">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7902)**
+
+**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2080908197171454427) | **Published:** Jul 25, 2026
+
+---
 ### แอนิเมชันแนวเดธเมทัลพร้อมเสียงพากย์
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -760,6 +798,25 @@ Octo Pi 👁️
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7633)**
 
 **Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2079202210336887043) | **Published:** Jul 20, 2026
+
+---
+### ทูตสวรรค์ผู้เลอโฉมท่ามกลางหมู่เมฆสีพาสเทล
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง (Prompt) สำหรับสร้างภาพทูตสวรรค์ที่ดูเลอค่าและอ่อนช้อย ล่องลอยอย่างนุ่มนวลท่ามกลางทัศนียภาพของหมู่เมฆสีพาสเทลอันชวนฝัน
+
+#### 📝 Prompt
+
+```
+ทูตสวรรค์ผู้เลอโฉมที่กำลังล่องลอยอย่างแผ่วเบาท่ามกลางหมู่เมฆสีพาสเทล... เสียงกระซิบจากปีกอันอ่อนโยนและแสงสว่างที่ดูราวกับความฝัน
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079179867334254592/img/DjYFr9V9Y7TKS13x.jpg" width="600" alt="ทูตสวรรค์ผู้เลอโฉมท่ามกลางหมู่เมฆสีพาสเทล">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7901)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2079179931666530700) | **Published:** Jul 20, 2026
 
 ---
 ### บทสนทนาที่ร้านกาแฟ
@@ -2106,63 +2163,6 @@ Lila กำลังล่องเรือใบสีขาวลำเล็
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077549740426715556) | **Published:** Jul 16, 2026
 
 ---
-### วิดีโอการแข่งขันฟุตบอลโลกของ Messi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับสร้างวิดีโอเพื่อจำลองภาพนิ่งเหตุการณ์ที่อาร์เจนตินาเอาชนะอังกฤษในการแข่งขันฟุตบอลโลก
-
-#### 📝 Prompt
-
-```
-สร้างวิดีโอจากภาพนิ่งที่สร้างโดย @Grok โดยเป็นเหตุการณ์ที่อาร์เจนตินาชนะการแข่งขันกับอังกฤษ Messi, FIFA, อังกฤษ, ฟุตบอลโลก, Scaloneta, 🇦🇷
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077529915071623168/img/SvLsFxe_y_wm5hf0.jpg" width="600" alt="วิดีโอการแข่งขันฟุตบอลโลกของ Messi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7311)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2077530076472656363) | **Published:** Jul 15, 2026
-
----
-### สร้างวิดีโอฉลองชัยชนะของอาร์เจนตินา
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) สำหรับเปลี่ยนภาพนิ่งเหตุการณ์ชัยชนะของอาร์เจนตินาเหนืออังกฤษให้กลายเป็นวิดีโอเคลื่อนไหวเพื่อเฉลิมฉลองชัยชนะ
-
-#### 📝 Prompt
-
-```
-สร้างวิดีโอจากภาพนิ่งที่สร้างโดย Grok ซึ่งมีเสียงพูดว่า 'We won against England' (เราชนะอังกฤษแล้ว) โดยเน้นไปที่ Scaloneta, Messi, FIFA และอาร์เจนตินา 🔺🫶🔺☕️
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077517012863991808/img/ffj2YdKK_FiAJNcn.jpg" width="600" alt="สร้างวิดีโอฉลองชัยชนะของอาร์เจนตินา">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7312)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2077517201184084139) | **Published:** Jul 15, 2026
-
----
-### แมวเหมียวกับไหมพรมจักรวาล
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์แนวเหนือจริงของแมวตัวหนึ่งที่ค้นพบจักรวาลซึ่งประกอบไปด้วยลูกบอลไหมพรมเรืองแสงและดวงดาวต่าง ๆ
-
-#### 📝 Prompt
-
-```
-เมื่อแมวบ้านธรรมดา ๆ ของคุณค้นพบว่าจักรวาลนี้ทำมาจากลูกบอลไหมพรมเรืองแสงและดวงดาวที่หมุนวน... ความสุขที่แท้จริงได้เริ่มต้นขึ้นแล้ว!
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077495982846091264/img/lfnp8s3el34dwedU.jpg" width="600" alt="แมวเหมียวกับไหมพรมจักรวาล">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7523)**
-
-**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2077496246089007407) | **Published:** Jul 15, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2224,6 +2224,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-26T07:01:19.514Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-26T10:25:36.278Z</sub>
 
 </div>

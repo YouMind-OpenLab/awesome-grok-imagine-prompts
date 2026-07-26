@@ -68,7 +68,7 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **2221** |
+| 📝 提示词总数 | **2224** |
 | ⭐ 精选提示词 | **3** |
 | 🔄 最后更新 | **2026-07-26** |
 
@@ -189,6 +189,44 @@ xAI Grok Imagine 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 焦虑的收银员互动
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一个详细的电影级互动提示词，描述了两名店员对顾客的反应。
+
+#### 📝 提示词
+
+```
+一位顾客在收银台呼叫服务，但两名店员发出细微的闷声，身体摇晃，镜头在他们焦虑表情的特写之间切换，同时他们的嘴保持紧闭。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081031417375686656/img/iuKZJsC_mH64azoc.jpg" width="600" alt="焦虑的收银员互动">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7903)**
+
+**作者:** [🍠クララ🍠](https://x.com/KURARA13520706) | **来源:** [Link](https://x.com/KURARA13520706/status/2081031437067976850) | **发布时间:** Jul 25, 2026
+
+---
+### 金色宇宙花卉拥抱
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一个高度精细的电影级提示词，描绘了从太空中坠落的金色玫瑰、红宝石和蝴蝶。
+
+#### 📝 提示词
+
+```
+更多充满爱意的金色玫瑰与心形图案，数量众多且硕大，伴随着许多红宝石心、闪耀的钻石以及黑色与金色的蝴蝶从遥远的宇宙中坠落，环绕在我的身体周围，拥抱着我和月亮。拉近镜头。取景位置为腰部以上。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080908005642743808/img/eioWsa32AR4jbJ5Z.jpg" width="600" alt="金色宇宙花卉拥抱">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7902)**
+
+**作者:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **来源:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2080908197171454427) | **发布时间:** Jul 25, 2026
+
+---
 ### 带有旁白的死亡金属动画
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -760,6 +798,25 @@ Octo Pi 👁️
 **[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7633)**
 
 **作者:** [Philip Carr](https://x.com/PhilipCarrn7711) | **来源:** [Link](https://x.com/PhilipCarrn7711/status/2079202210336887043) | **发布时间:** Jul 20, 2026
+
+---
+### 粉彩云端中的空灵天使
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段描述空灵天使在梦幻般的粉彩云层中轻盈飘荡的提示词。
+
+#### 📝 提示词
+
+```
+一位空灵的天使在粉彩云间轻盈飘荡…… 伴随着柔和羽翼的低语与梦幻般的光影。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079179867334254592/img/DjYFr9V9Y7TKS13x.jpg" width="600" alt="粉彩云端中的空灵天使">
+
+**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7901)**
+
+**作者:** [Stella 𝕏](https://x.com/StellaGrokStar) | **来源:** [Link](https://x.com/StellaGrokStar/status/2079179931666530700) | **发布时间:** Jul 20, 2026
 
 ---
 ### 咖啡店互动对话
@@ -2289,63 +2346,6 @@ Lila 驾驶着一艘白色小帆船在平静的切萨皮克湾上轻柔航行，
 **作者:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **来源:** [Link](https://x.com/AliciaMcnatt/status/2077549740426715556) | **发布时间:** Jul 16, 2026
 
 ---
-### 梅西世界杯比赛视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于重现阿根廷在世界杯中击败英格兰这一静态场景的视频生成提示词。
-
-#### 📝 提示词
-
-```
-将 @Grok 创建的静态图像重现为视频。阿根廷赢得了对阵英格兰的比赛。梅西。FIFA。英格兰。足球世界杯。斯卡洛尼之队 (Scaloneta)。🇦🇷
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077529915071623168/img/SvLsFxe_y_wm5hf0.jpg" width="600" alt="梅西世界杯比赛视频">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7311)**
-
-**作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **来源:** [Link](https://x.com/clemensilverio/status/2077530076472656363) | **发布时间:** Jul 15, 2026
-
----
-### 阿根廷胜利视频重现
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个将阿根廷战胜英格兰的静态图片转化为庆祝胜利的动态视频的提示词。
-
-#### 📝 提示词
-
-```
-将 Grok 生成的那张听到“我们赢了英格兰”的静态图片重现为视频。斯卡洛尼之队 (Scaloneta)。梅西。FIFA。阿根廷。🔺🫶🔺☕️
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077517012863991808/img/ffj2YdKK_FiAJNcn.jpg" width="600" alt="阿根廷胜利视频重现">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7312)**
-
-**作者:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **来源:** [Link](https://x.com/clemensilverio/status/2077517201184084139) | **发布时间:** Jul 15, 2026
-
----
-### 宇宙毛线猫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个超现实的提示词，描绘了一只猫发现宇宙是由发光的毛线球和行星组成的场景。
-
-#### 📝 提示词
-
-```
-当你的普通家猫突然发现宇宙是由发光的毛线球和旋转的行星组成时……纯粹的快乐瞬间解锁！
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077495982846091264/img/lfnp8s3el34dwedU.jpg" width="600" alt="宇宙毛线猫">
-
-**[🎬 查看视频 →](https://youmind.com/grok-imagine-prompts?id=7523)**
-
-**作者:** [SophieZX](https://x.com/Z_XSophie) | **来源:** [Link](https://x.com/Z_XSophie/status/2077496246089007407) | **发布时间:** Jul 15, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2407,6 +2407,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-07-26T07:01:16.240Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-07-26T10:25:31.265Z</sub>
 
 </div>

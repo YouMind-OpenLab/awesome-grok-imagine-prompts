@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2221** |
+| 📝 Total Prompts | **2224** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-26** |
 
@@ -189,6 +189,44 @@ Why use our gallery?
 
 > 📝 Sorted by publish date (newest first)
 
+### चिंतित चेकआउट क्लर्क की बातचीत
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> दो स्टोर क्लर्कों की एक ग्राहक के प्रति प्रतिक्रिया को दर्शाने वाला एक विस्तृत सिनेमैटिक इंटरैक्शन प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+एक ग्राहक रजिस्टर पर सेवा के लिए बुला रहा है, लेकिन दोनों क्लर्क धीमी और दबी हुई आवाज़ें निकाल रहे हैं, अपने शरीर को झुला रहे हैं, और कैमरा उनके चिंतित चेहरों के क्लोज़-अप के बीच बारी-बारी से घूम रहा है जबकि उनके मुँह बंद हैं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081031417375686656/img/iuKZJsC_mH64azoc.jpg" width="600" alt="चिंतित चेकआउट क्लर्क की बातचीत">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7903)**
+
+**Author:** [🍠クララ🍠](https://x.com/KURARA13520706) | **Source:** [Link](https://x.com/KURARA13520706/status/2081031437067976850) | **Published:** Jul 25, 2026
+
+---
+### सुनहरा ब्रह्मांडीय पुष्प आलिंगन
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> अंतरिक्ष से गिरते सुनहरे गुलाबों, माणिकों और तितलियों को दर्शाने वाला एक अत्यधिक विस्तृत सिनेमैटिक प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+प्रेम और दिलों के ढेर सारे सुनहरे गुलाब, बड़े और असंख्य, साथ ही कई माणिक के दिल, चमकते हीरे और काली व सुनहरी तितलियाँ सुदूर ब्रह्मांड से गिर रही हैं, जो मेरे शरीर को घेरकर मुझे और चंद्रमा को आलिंगन में ले रही हैं। ज़ूम इन करें। कमर से ऊपर का दृश्य।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080908005642743808/img/eioWsa32AR4jbJ5Z.jpg" width="600" alt="सुनहरा ब्रह्मांडीय पुष्प आलिंगन">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7902)**
+
+**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2080908197171454427) | **Published:** Jul 25, 2026
+
+---
 ### डेथ मेटल एनिमेशन और वॉयसओवर
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -760,6 +798,25 @@ Victoria's Secret रनवे मॉडल की तरह संगीत क
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7633)**
 
 **Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2079202210336887043) | **Published:** Jul 20, 2026
+
+---
+### पेस्टल बादलों में एक अलौकिक परी
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक स्वप्निल, पेस्टल-रंग के बादलों के बीच धीरे-धीरे तैरती हुई एक अलौकिक परी के लिए एक वर्णनात्मक प्रॉम्प्ट।
+
+#### 📝 Prompt
+
+```
+पेस्टल बादलों के बीच धीरे-धीरे तैरती एक अलौकिक परी... कोमल पंखों और स्वप्निल रोशनी की फुसफुसाहट।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079179867334254592/img/DjYFr9V9Y7TKS13x.jpg" width="600" alt="पेस्टल बादलों में एक अलौकिक परी">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7901)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2079179931666530700) | **Published:** Jul 20, 2026
 
 ---
 ### कॉफी शॉप इंटरैक्शन डायलॉग
@@ -2287,63 +2344,6 @@ POV: मैं अपने AI कंपेनियन के साथ एक 
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077549740426715556) | **Published:** Jul 16, 2026
 
 ---
-### मेसी वर्ल्ड कप मैच वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> वर्ल्ड कप में अर्जेंटीना द्वारा इंग्लैंड को हराने के एक स्थिर दृश्य को फिर से बनाने के लिए एक वीडियो जनरेशन प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-@Grok द्वारा बनाई गई स्थिर छवि को वीडियो में फिर से बनाएँ। अर्जेंटीना ने इंग्लैंड के खिलाफ मैच जीता। मेसी। फीफा। इंग्लैंड। फुटबॉल वर्ल्ड कप। Scaloneta। 🇦🇷
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077529915071623168/img/SvLsFxe_y_wm5hf0.jpg" width="600" alt="मेसी वर्ल्ड कप मैच वीडियो">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7311)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2077530076472656363) | **Published:** Jul 15, 2026
-
----
-### अर्जेंटीना की जीत का वीडियो रिक्रिएशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> इंग्लैंड पर अर्जेंटीना की जीत की स्थिर छवि को जीत का जश्न मनाने वाले एक गतिशील वीडियो में बदलने के लिए एक प्रॉम्प्ट।
-
-#### 📝 Prompt
-
-```
-Grok द्वारा बनाई गई उस स्थिर छवि को वीडियो में फिर से बनाएं जिसमें 'हमने इंग्लैंड के खिलाफ जीत हासिल की' सुनाई देता है। Scaloneta. Messi. FIFA. अर्जेंटीना। 🔺🫶🔺☕️
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077517012863991808/img/ffj2YdKK_FiAJNcn.jpg" width="600" alt="अर्जेंटीना की जीत का वीडियो रिक्रिएशन">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7312)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2077517201184084139) | **Published:** Jul 15, 2026
-
----
-### कॉस्मिक यार्न कैट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक असली (surreal) प्रॉम्प्ट जिसमें एक बिल्ली को चमकते हुए ऊन के गोलों और ग्रहों से बनी एक पूरी दुनिया मिलती है।
-
-#### 📝 Prompt
-
-```
-जब आपकी साधारण पालतू बिल्ली को अचानक पता चलता है कि ब्रह्मांड चमकते हुए ऊन के गोलों और घूमते हुए ग्रहों से बना है... तो खुशी का ठिकाना नहीं रहता!
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077495982846091264/img/lfnp8s3el34dwedU.jpg" width="600" alt="कॉस्मिक यार्न कैट">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7523)**
-
-**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2077496246089007407) | **Published:** Jul 15, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2405,6 +2405,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-26T07:01:21.076Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-26T10:25:39.420Z</sub>
 
 </div>

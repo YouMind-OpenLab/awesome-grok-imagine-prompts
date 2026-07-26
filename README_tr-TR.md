@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2221** |
+| 📝 Total Prompts | **2224** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-26** |
 
@@ -189,6 +189,44 @@ Mistik ve asil bir göksel Valkyrie, uzun gümüş saçlı ve parlayan zırhlı,
 
 > 📝 Sorted by publish date (newest first)
 
+### Endişeli Kasa Görevlisi Etkileşimi
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Bir müşteriye tepki veren iki mağaza görevlisini içeren detaylı ve sinematik bir etkileşim istemi.
+
+#### 📝 Prompt
+
+```
+Bir müşteri kasada hizmet için sesleniyor, ancak iki görevli kendi aralarında kısık sesle mırıldanıp vücutlarını sallıyor; kamera, ağızları kapalıyken endişeli ifadelerini gösteren yakın çekimler arasında gidip geliyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081031417375686656/img/iuKZJsC_mH64azoc.jpg" width="600" alt="Endişeli Kasa Görevlisi Etkileşimi">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7903)**
+
+**Author:** [🍠クララ🍠](https://x.com/KURARA13520706) | **Source:** [Link](https://x.com/KURARA13520706/status/2081031437067976850) | **Published:** Jul 25, 2026
+
+---
+### Altın Kozmik Çiçek Kucaklaması
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Uzaydan düşen altın güller, yakutlar ve kelebekleri içeren, oldukça detaylı sinematik bir istem.
+
+#### 📝 Prompt
+
+```
+Uzak evrenden düşen, vücudumu ve ayı saran, kucaklayan; çok sayıda büyük altın aşk gülleri ve kalpler, birçok yakut kalp, parlayan elmaslar ve siyah-altın kelebekler. Yakınlaştır. Belden yukarı çekim.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080908005642743808/img/eioWsa32AR4jbJ5Z.jpg" width="600" alt="Altın Kozmik Çiçek Kucaklaması">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7902)**
+
+**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2080908197171454427) | **Published:** Jul 25, 2026
+
+---
 ### Death Metal Seslendirmeli Animasyon
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -760,6 +798,25 @@ Bu karmaşık ağ, tüm çevrelerini kaplıyor ve arafta sıkışıp kalmış ka
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7633)**
 
 **Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2079202210336887043) | **Published:** Jul 20, 2026
+
+---
+### Pastel Bulutlar İçinde Ethereal Bir Melek
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Rüya gibi, pastel renkli bir bulut manzarasında nazikçe süzülen ethereal bir melek için betimleyici bir komut.
+
+#### 📝 Prompt
+
+```
+Pastel bulutlar arasında nazikçe süzülen ethereal bir melek… Hafif kanatların ve rüya gibi ışığın fısıltıları.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079179867334254592/img/DjYFr9V9Y7TKS13x.jpg" width="600" alt="Pastel Bulutlar İçinde Ethereal Bir Melek">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7901)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2079179931666530700) | **Published:** Jul 20, 2026
 
 ---
 ### Kahve Dükkanı Etkileşim Diyaloğu
@@ -2288,63 +2345,6 @@ Lila, sakin Chesapeake Körfezi'nde küçük beyaz bir yelkenliyle nazikçe iler
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077549740426715556) | **Published:** Jul 16, 2026
 
 ---
-### Messi Dünya Kupası Maç Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Arjantin'in Dünya Kupası'nda İngiltere'yi yendiği statik bir sahneyi yeniden oluşturmak için bir video oluşturma istemi.
-
-#### 📝 Prompt
-
-```
-@Grok tarafından oluşturulan statik görseli bir videoya dönüştür. Arjantin, İngiltere'ye karşı oynadığı maçı kazandı. Messi. FIFA. İngiltere. Futbol Dünya Kupası. Scaloneta. 🇦🇷
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077529915071623168/img/SvLsFxe_y_wm5hf0.jpg" width="600" alt="Messi Dünya Kupası Maç Videosu">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7311)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2077530076472656363) | **Published:** Jul 15, 2026
-
----
-### Arjantin Zaferi Video Canlandırması
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Arjantin'in İngiltere karşısındaki zaferini gösteren statik bir görseli, galibiyeti kutlayan dinamik bir videoya dönüştürmek için bir komut.
-
-#### 📝 Prompt
-
-```
-Grok tarafından oluşturulan ve 'İngiltere'ye karşı kazandık' sesinin duyulduğu o statik görseli videoya dönüştür. Scaloneta. Messi. FIFA. Arjantin. 🔺🫶🔺☕️
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077517012863991808/img/ffj2YdKK_FiAJNcn.jpg" width="600" alt="Arjantin Zaferi Video Canlandırması">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7312)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2077517201184084139) | **Published:** Jul 15, 2026
-
----
-### Kozmik Yumak Kedisi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir kedinin, parlayan yumaklardan ve gezegenlerden oluşan bir evreni keşfetmesini konu alan sürreal bir istem.
-
-#### 📝 Prompt
-
-```
-Sıradan ev kediniz aniden evrenin parlayan yumaklardan ve dönen gezegenlerden oluştuğunu keşfettiğinde… saf neşe açığa çıkar!
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077495982846091264/img/lfnp8s3el34dwedU.jpg" width="600" alt="Kozmik Yumak Kedisi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7523)**
-
-**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2077496246089007407) | **Published:** Jul 15, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2406,6 +2406,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-26T07:01:29.420Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-26T10:25:53.761Z</sub>
 
 </div>

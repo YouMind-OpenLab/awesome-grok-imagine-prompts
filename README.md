@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2221** |
+| 📝 Total Prompts | **2224** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-26** |
 
@@ -189,11 +189,49 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 
 > 📝 Sorted by publish date (newest first)
 
-### Death Metal Animation with Voiceover
+### Anxious Checkout Clerk Interaction
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A detailed cinematic interaction prompt involving two store clerks reacting to a customer.
+
+#### 📝 Prompt
+
+```
+A customer is calling for service at the register, but the two clerks make small muffled voices, swaying their bodies, with the camera alternating between close-ups of their anxious expressions while their mouths remain closed.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081031417375686656/img/iuKZJsC_mH64azoc.jpg" width="600" alt="Anxious Checkout Clerk Interaction">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7903)**
+
+**Author:** [🍠クララ🍠](https://x.com/KURARA13520706) | **Source:** [Link](https://x.com/KURARA13520706/status/2081031437067976850) | **Published:** Jul 25, 2026
+
+---
+### Golden Cosmic Floral Embrace
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A highly detailed cinematic prompt featuring golden roses, rubies, and butterflies falling from space.
+
+#### 📝 Prompt
+
+```
+Many more golden roses of love and hearts, large and numerous, along with many ruby hearts and shining diamonds and black and gold butterflies falling from the distant universe, wrapping around my body and hugging me and the moon. Zoom in closer. Position from the waist up.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080908005642743808/img/eioWsa32AR4jbJ5Z.jpg" width="600" alt="Golden Cosmic Floral Embrace">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7902)**
+
+**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2080908197171454427) | **Published:** Jul 25, 2026
+
+---
+### Death Metal Video with Voiceover
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A dramatic video prompt featuring a character yanking a chain accompanied by a deep death metal voice and background music.
+> A cinematic video prompt involving a character pulling a chain while death metal music and a deep male voiceover play.
 
 #### 📝 Prompt
 
@@ -201,7 +239,7 @@ A mystical and noble celestial Valkyrie, a dignified and beautiful woman with lo
 Death metal music is playing in the background. He yanks on his chain and says in a deep male death metal voice: Fun Tiff X made me.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080779171127775232/img/Dl5vN5CQ5SpBFNz3.jpg" width="600" alt="Death Metal Animation with Voiceover">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080779171127775232/img/Dl5vN5CQ5SpBFNz3.jpg" width="600" alt="Death Metal Video with Voiceover">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7849)**
 
@@ -349,7 +387,7 @@ A mysterious, anthropomorphic cat sits silently wearing a crown and dark shadowy
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed cinematic prompt for Grok Imagine featuring a woman in a coral dress amidst a shower of jasmine flowers, emphasizing movement and surreal fantasy elements.
+> A detailed cinematic prompt for a hyper-realistic video featuring a woman in a coral dress surrounded by a jasmine flower shower, focusing on movement and fantasy flare.
 
 #### 📝 Prompt
 
@@ -446,19 +484,19 @@ Cute relaxing 8 bit pixel art, calm ethereal instrumental Nordic music with no v
 **Author:** [Kiki 🇺🇸](https://x.com/kikisknees) | **Source:** [Link](https://x.com/kikisknees/status/2079811897411682562) | **Published:** Jul 22, 2026
 
 ---
-### 8-Bit Pixel Art Fairy Video
+### 8-bit Fantasy Pixel Art Loop
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for creating a looping 8-bit pixel art video featuring a dreamy fairy girl in a glowing forest at twilight.
+> An animation prompt for creating a looping 8-bit pixel art video with a dreamy fantasy aesthetic and subtle motion.
 
 #### 📝 Prompt
 
 ```
-8-bit pixel art, dreamy ethereal fairy girl with long silver hair and flower crown, wearing sheer lace dress, standing barefoot in glowing mossy forest at twilight, fireflies and floating petals, ancient trees with soft ivy, pastel pinks lavenders and greens, tumblr core dreamy fantasy aesthetic, retro 8-bit pixel style, soft glow, limited color palette Looping ambient 8-bit pixel art video, subtle motion, seamless dreamy loop, tumblr fantasy aesthetic, retro pixel style
+8-bit pixel art, dreamy ethereal fairy girl with long silver hair and flower crown, wearing sheer lace dress, standing barefoot in glowing mossy forest at twilight, fireflies and floating petals, ancient trees with soft ivy, pastel pinks lavenders and greens, tumblr core dreamy fantasy aesthetic, retro 8-bit pixel style, soft glow, limited color palette. Looping ambient 8-bit pixel art video, subtle motion, seamless dreamy loop, tumblr fantasy aesthetic, retro pixel style
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079799034387337216/img/tg67vvo-Xpk8Q8IP.jpg" width="600" alt="8-Bit Pixel Art Fairy Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079799034387337216/img/tg67vvo-Xpk8Q8IP.jpg" width="600" alt="8-bit Fantasy Pixel Art Loop">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7697)**
 
@@ -484,19 +522,19 @@ cut the face in half open up and make it look like we are doing a fMRI of the br
 **Author:** [Doc Toadlips](https://x.com/DToadlips) | **Source:** [Link](https://x.com/DToadlips/status/2079724995815575661) | **Published:** Jul 22, 2026
 
 ---
-### Hyperrealistic Gothic Mother and Baby Macro Portrait
+### Gothic Queen Cradling Baby
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic and emotionally charged prompt for a macro portrait featuring a woman in a gothic crown tenderly cradling a swaddled baby, with a focus on photorealistic skin textures and muted tones.
+> An extensive hyper-realistic prompt for a cinematic macro video of a gothic queen with white hair holding a baby in a desaturated, muted color palette.
 
 #### 📝 Prompt
 
 ```
-Hyperrealistic macro portrait of a beautiful woman with pale skin, freckles and long flowing white hair. She wears an elegant long flowing black dress with delicate details, subtle drapery and lace accents. Ornate dark spiked gothic crown on her head. She gently embraces and holds the cute baby wrapped in soft, elegant white fabric swaddle with both hands and arms, cradling it tenderly against her chest, the baby is round and adorable with soft, delicate skin, fully covered and cozy in the fabric. Her pose is protective and loving.\n\nVery muted, low-saturation color palette, almost desaturated tones, subtle cool undertones, soft natural shadows, realistic skin texture with visible pores, cinematic yet restrained lighting, extremely detailed, sharp macro focus, hyperrealistic, photorealism.
+Hyperrealistic macro portrait of a beautiful woman with pale skin, freckles and long flowing white hair. She wears an elegant long flowing black dress with delicate details, subtle drapery and lace accents. Ornate dark spiked gothic crown on her head. She gently embraces and holds the cute baby wrapped in soft, elegant white fabric swaddle with both hands and arms, cradling it tenderly against her chest, the baby is round and adorable with soft, delicate skin, fully covered and cozy in the fabric. Her pose is protective and loving. Very muted, low-saturation color palette, almost desaturated tones, subtle cool undertones, soft natural shadows, realistic skin texture with visible pores, cinematic yet restrained lighting, extremely detailed, sharp macro focus, hyperrealistic, photorealism.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079626100322205696/img/Y8Ulemh-dWFDb9uk.jpg" width="600" alt="Hyperrealistic Gothic Mother and Baby Macro Portrait">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079626100322205696/img/Y8Ulemh-dWFDb9uk.jpg" width="600" alt="Gothic Queen Cradling Baby">
 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7795)**
 
@@ -758,6 +796,25 @@ This intricate web spans across their entire environment and is used to capture 
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7633)**
 
 **Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2079202210336887043) | **Published:** Jul 20, 2026
+
+---
+### Ethereal Angel in Pastel Clouds
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A descriptive prompt for an ethereal angel drifting softly through a dreamy, pastel-colored cloudscape.
+
+#### 📝 Prompt
+
+```
+An ethereal angel drifting softly among pastel clouds… Whispers of gentle wings and dreamy light.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079179867334254592/img/DjYFr9V9Y7TKS13x.jpg" width="600" alt="Ethereal Angel in Pastel Clouds">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7901)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2079179931666530700) | **Published:** Jul 20, 2026
 
 ---
 ### Coffee Shop Interaction Dialogue
@@ -2104,63 +2161,6 @@ Lila gently sailing on a small white sailboat across the calm Chesapeake Bay, he
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077549740426715556) | **Published:** Jul 16, 2026
 
 ---
-### Messi World Cup Match Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video generation prompt for recreating a static scene of Argentina defeating England in the World Cup.
-
-#### 📝 Prompt
-
-```
-Recreate into a video the static image created by @Grok. Argentina won the match against England. Messi. FIFA. England. Football World Cup. Scaloneta. 🇦🇷
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077529915071623168/img/SvLsFxe_y_wm5hf0.jpg" width="600" alt="Messi World Cup Match Video">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7311)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2077530076472656363) | **Published:** Jul 15, 2026
-
----
-### Argentina Victory Video Recreation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt to animate a static image of Argentina's victory over England into a dynamic video celebrating the win.
-
-#### 📝 Prompt
-
-```
-Recreate in video that static image created by Grok where 'We won against England' is heard. Scaloneta. Messi. FIFA. Argentina. 🔺🫶🔺☕️
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077517012863991808/img/ffj2YdKK_FiAJNcn.jpg" width="600" alt="Argentina Victory Video Recreation">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7312)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2077517201184084139) | **Published:** Jul 15, 2026
-
----
-### Cosmic Yarn Cat
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A surreal prompt featuring a cat discovering a universe made of glowing yarn balls and planets.
-
-#### 📝 Prompt
-
-```
-When your ordinary house cat suddenly discovers the universe is made of glowing yarn balls and swirling planets… pure joy unlocked!
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077495982846091264/img/lfnp8s3el34dwedU.jpg" width="600" alt="Cosmic Yarn Cat">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7523)**
-
-**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2077496246089007407) | **Published:** Jul 15, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2222,6 +2222,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-26T07:01:15.187Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-26T10:25:30.202Z</sub>
 
 </div>

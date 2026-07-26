@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **2221** |
+| 📝 Total Prompts | **2224** |
 | ⭐ Featured Prompts | **3** |
 | 🔄 Last Updated | **2026-07-26** |
 
@@ -189,6 +189,44 @@ Une Valkyrie céleste mystique et noble, femme digne et magnifique aux longs che
 
 > 📝 Sorted by publish date (newest first)
 
+### Interaction avec un caissier anxieux
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt cinématographique détaillé mettant en scène deux employés de magasin réagissant à la présence d'un client.
+
+#### 📝 Prompt
+
+```
+Un client appelle pour être servi à la caisse, mais les deux employés échangent des murmures étouffés en se balançant, tandis que la caméra alterne entre des gros plans sur leurs expressions anxieuses alors que leurs bouches restent closes.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081031417375686656/img/iuKZJsC_mH64azoc.jpg" width="600" alt="Interaction avec un caissier anxieux">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7903)**
+
+**Author:** [🍠クララ🍠](https://x.com/KURARA13520706) | **Source:** [Link](https://x.com/KURARA13520706/status/2081031437067976850) | **Published:** Jul 25, 2026
+
+---
+### Étreinte florale cosmique dorée
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt cinématographique très détaillé mettant en scène des roses dorées, des rubis et des papillons tombant de l'espace.
+
+#### 📝 Prompt
+
+```
+De nombreuses roses dorées de l'amour et des cœurs, grands et nombreux, accompagnés de multiples cœurs en rubis, de diamants étincelants et de papillons noirs et dorés tombant de l'univers lointain, s'enroulant autour de mon corps pour m'enlacer, moi et la lune. Zoom avant. Cadrage à partir de la taille.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080908005642743808/img/eioWsa32AR4jbJ5Z.jpg" width="600" alt="Étreinte florale cosmique dorée">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7902)**
+
+**Author:** [楳森志保Z8YxUEUzCCdCEIO](https://x.com/Z8YxUEUzCCdCEI1) | **Source:** [Link](https://x.com/Z8YxUEUzCCdCEI1/status/2080908197171454427) | **Published:** Jul 25, 2026
+
+---
 ### Animation Death Metal avec voix off
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -760,6 +798,25 @@ Cette toile complexe s'étend sur tout leur environnement et sert à capturer le
 **[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7633)**
 
 **Author:** [Philip Carr](https://x.com/PhilipCarrn7711) | **Source:** [Link](https://x.com/PhilipCarrn7711/status/2079202210336887043) | **Published:** Jul 20, 2026
+
+---
+### Ange éthéré dans des nuages pastel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt descriptif pour un ange éthéré dérivant doucement à travers un paysage nuageux onirique aux tons pastel.
+
+#### 📝 Prompt
+
+```
+Un ange éthéré dérivant doucement parmi des nuages pastel… Murmures d'ailes délicates et lumière onirique.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079179867334254592/img/DjYFr9V9Y7TKS13x.jpg" width="600" alt="Ange éthéré dans des nuages pastel">
+
+**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7901)**
+
+**Author:** [Stella 𝕏](https://x.com/StellaGrokStar) | **Source:** [Link](https://x.com/StellaGrokStar/status/2079179931666530700) | **Published:** Jul 20, 2026
 
 ---
 ### Dialogue d'interaction dans un café
@@ -2288,63 +2345,6 @@ Lila naviguant paisiblement sur un petit voilier blanc à travers le calme de la
 **Author:** [Alicia McNatt](https://x.com/AliciaMcnatt) | **Source:** [Link](https://x.com/AliciaMcnatt/status/2077549740426715556) | **Published:** Jul 16, 2026
 
 ---
-### Vidéo du match de la Coupe du Monde de Messi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de génération vidéo pour recréer une scène statique de l'Argentine battant l'Angleterre lors de la Coupe du Monde.
-
-#### 📝 Prompt
-
-```
-Recréez en vidéo l'image statique générée par @Grok. L'Argentine a remporté le match contre l'Angleterre. Messi. FIFA. Angleterre. Coupe du Monde de football. Scaloneta. 🇦🇷
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077529915071623168/img/SvLsFxe_y_wm5hf0.jpg" width="600" alt="Vidéo du match de la Coupe du Monde de Messi">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7311)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2077530076472656363) | **Published:** Jul 15, 2026
-
----
-### Reconstitution vidéo de la victoire de l'Argentine
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour animer une image statique de la victoire de l'Argentine contre l'Angleterre en une vidéo dynamique célébrant ce succès.
-
-#### 📝 Prompt
-
-```
-Recréez en vidéo cette image statique générée par Grok où l'on entend « We won against England ». Scaloneta. Messi. FIFA. Argentine. 🔺🫶🔺☕️
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077517012863991808/img/ffj2YdKK_FiAJNcn.jpg" width="600" alt="Reconstitution vidéo de la victoire de l'Argentine">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7312)**
-
-**Author:** [Clemen Silverio 🐘🐘🐘](https://x.com/clemensilverio) | **Source:** [Link](https://x.com/clemensilverio/status/2077517201184084139) | **Published:** Jul 15, 2026
-
----
-### Chat cosmique en pelote
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt surréaliste mettant en scène un chat découvrant un univers composé de pelotes de laine lumineuses et de planètes.
-
-#### 📝 Prompt
-
-```
-Quand votre chat domestique découvre soudain que l'univers est fait de pelotes de laine lumineuses et de planètes tourbillonnantes… le bonheur à l'état pur !
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077495982846091264/img/lfnp8s3el34dwedU.jpg" width="600" alt="Chat cosmique en pelote">
-
-**[🎬 View Video →](https://youmind.com/grok-imagine-prompts?id=7523)**
-
-**Author:** [SophieZX](https://x.com/Z_XSophie) | **Source:** [Link](https://x.com/Z_XSophie/status/2077496246089007407) | **Published:** Jul 15, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2406,6 +2406,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-26T07:01:26.060Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-26T10:25:45.285Z</sub>
 
 </div>
